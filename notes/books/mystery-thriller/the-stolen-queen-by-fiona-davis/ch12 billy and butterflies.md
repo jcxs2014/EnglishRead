@@ -61,7 +61,7 @@ modified: "2026-10-13"
 
 **关键词：** crying, harassing, shot
 
-**为什么这样写：** 本章里的一处硬伤口，用儿童视角的长句写成：asked／crying／heard 三个动词串起一场死亡通知，中间没有一句心理描写——因为叙述者当时就是那个开门的小孩，只能记录动作。后文 Mona 问起地铁安全时，"ever since her dad had been killed, if something seemed off she got out"把这句的后遗症写成习惯动作，创伤变成行为，不煽情。
+**为什么这样写：** 本章里的一处硬伤口，用儿童视角的长句写成：asked／crying／heard 三个动词串起一场死亡通知，中间没有一句心理描写——因为叙述者当时就是那个开门的小孩，只能记录动作。后文 Mona 问起地铁安全时，"ever since her dad had been killed, If something seemed off in the subway car she was sitting in, she got out"把这句的后遗症写成习惯动作，创伤变成行为，不煽情。
 
 **读者视角提示：** 这是 Annie 本章对 Billy 说起父亲（"After my dad died, I didn’t talk as much"）的注脚——她愿意讲，说明 Billy 已经是朋友了。
 
@@ -93,7 +93,7 @@ modified: "2026-10-13"
 
 **为什么这样写：** 蝴蝶 commission 的视觉定义，dizzying（眩晕）先写身体反应，再写 shape, pattern, and color 三要素——Vreeland 下指令永远是感觉先行、清单随后。前文"Butterflies. Hundreds of them."是电光火石，这句是把闪电画成图纸。后文 Annie 靠 Priscilla 和自然历史博物馆志愿者朋友落地此事，"异想"与"执行"的对照就此完成。
 
-**读者视角提示：** 章末 butterfly question solved 与此处呼应着读——Vreeland 负责做梦，Annie 负责让梦准时送到。
+**读者视角提示：** 章末 The butterfly question had been solved 与此处呼应着读——Vreeland 负责做梦，Annie 负责让梦准时送到。
 
 ## 本章词汇
 

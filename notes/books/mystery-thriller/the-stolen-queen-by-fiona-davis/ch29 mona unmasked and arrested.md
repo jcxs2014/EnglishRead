@@ -21,7 +21,7 @@ modified: "2026-10-13"
 
 **关键词：** reassessed, dark hair and eyes, different shape, profiles
 
-**为什么这样写：** 开篇不交代地点时间，先写两张脸的比对。reassessed 是"重新打量"，说明这不是初见而是相认之后的复核——身世疑点刚落地，这里立刻用身体细节做验证。作者先给相似（dark hair and eyes），再逐条否掉（different shape、profiles different as well），把"是不是母女"的判断交给读者自己完成。紧接的一段闲笔把 Annie 与她自己母亲拉进来对照（hardly resembled her mother at all），一句话就把她与本章的母女主题焊在一起。
+**为什么这样写：** 开篇不交代地点时间，先写两张脸的比对。reassessed 是"重新打量"，说明这不是初见而是相认之后的复核——身世疑点刚落地，这里立刻用身体细节做验证。作者先给相似（dark hair and eyes），再逐条否掉（different shape、their profiles were different as well），把"是不是母女"的判断交给读者自己完成。紧接的一段闲笔把 Annie 与她自己母亲拉进来对照（hardly resembled her mother at all），一句话就把她与本章的母女主题焊在一起。
 
 **读者视角提示：** 留意"看脸"这个动作——后文 Mona 也用 looked Charlotte up and down 回敬，谁在打量谁，是这场对峙的权力表。
 

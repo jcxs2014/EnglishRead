@@ -69,7 +69,7 @@ modified: "2026-10-13"
 
 **中文理解：** Charlotte 把戒指放回发现它的围裙口袋，穿上外套，走出了家门。
 
-**关键词：** placed back, put on her coat, walked out the door
+**关键词：** placed the ring, put on her coat, walked out the door
 
 **为什么这样写：** 三个并列动作，一个比一个决绝：放回（恢复原状，假装没见过）、穿衣（做好离开的准备）、出门（执行）。全句没有心理描写，没有"她感到"，动作本身就是心理。这种"用动作代替感受"的写法，和她一贯的处事方式一致——把难的东西咽回去，把能做的做了。
 
@@ -79,7 +79,7 @@ modified: "2026-10-13"
 
 **中文理解：** 但就在她考虑这种可能性的那一刻，仿佛一把插销滑过她的心脏，把它死死钉在胸腔深处。
 
-**关键词：** considered the possibility, deadbolt, pinning inside her chest
+**关键词：** considered the possibility, deadbolt, pinning it deep inside her chest
 
 **为什么这样写：** 全章唯一的身体恐怖式比喻。deadbolt（门插销）配 pinning（钉住），把"不想结婚"从观念之争翻译成生理反应——门从里面反锁了。as if 保留了明喻的距离感，仿佛她自己也在旁观这扇门的落锁。这个意象解释了次日对话里那些 hollow words 的来源：不是她不想说，是门打不开。
 

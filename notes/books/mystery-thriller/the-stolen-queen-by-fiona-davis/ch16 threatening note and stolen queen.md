@@ -9,7 +9,7 @@ modified: "2026-10-13"
 
 - **一句话概括**：晚宴中途 Charlotte 溜回办公室处理脚上的水泡，却发现一把粉色公文信封里装着恐吓字条、放着 Hathorkare 档案的文件夹不翼而飞；她循着尖叫声下到地下展厅，只见飞蛾大乱中 Cerulean Queen 的底座空空如也，一个拎包的深色西装男子从她眼前逃进虫群与人流。
 - **视角**：第三人称有限视角，全程贴 Charlotte；章首小标题 Charlotte 定下本章归属。
-- **情感弧线位置**：惊悚发动章——前半是办公室里的"纸条＋空抽屉"心理惊悚，后半转为展厅里的追逐戏；恐吓（research back）与盗窃（Queen gone）两条线在本章末交汇成一句指认。
+- **情感弧线位置**：惊悚发动章——前半是办公室里的"纸条＋空抽屉"心理惊悚，后半转为展厅里的追逐戏；恐吓（research back）与盗窃（The Cerulean Queen was gone）两条线在本章末交汇成一句指认。
 - **人物弧线**：Charlotte 从晚宴上强颜欢笑的副策展人（替 Mark 的空位打圆场），变成独自做决断的现场指挥——对着保安连下三道指令（关音乐、开灯封门、封馆），Annie Jenkins 的一句目击证词把她指向后走廊。
 - **叙事手法**：感官过载开场（水泡的疼、音乐的吵、香水的呛）压住人物，再用"空"做 freeze 帧（空信封里的空白页、空抽屉、空底座）；追逐与飞蛾乱局交叉剪辑，broad collar 的"安然无恙"特意放在乱中给一个假安全，再收束到最后一句点名盗窃。
 
@@ -81,7 +81,7 @@ modified: "2026-10-13"
 
 **关键词：** occurred, moth debacle, perfect distraction, thief, drawing away, posts
 
-**为什么这样写：** occurred（猛然想到）标出这是混乱中第一次"想明白"；debacle（惨败、乱局）给飞蛾事件定性，perfect distraction（完美的掩护）翻出乱局的另一面。drawing…away 这个分词结构写出调动路线（埃及厅→地下室），away from their posts 点出后果：上面空了。作者让她"想明白却喊不出来"（impossible to communicate with all the noise），明白与无力同时成立。
+**为什么这样写：** occurred（猛然想到）标出这是混乱中第一次"想明白"；debacle（惨败、乱局）给飞蛾事件定性，perfect distraction（完美的掩护）翻出乱局的另一面。drawing…away 这个分词结构写出调动路线（埃及厅→地下室），away from their posts 点出后果：上面空了。作者让她"想明白却喊不出来"（impossible to communicate that clearly with all the noise），明白与无力同时成立。
 
 **读者视角提示：** 这句是本章的作案结构说明书——读后文追查时，拿"谁能放飞蛾、谁知道保安会被引走"当尺子量。
 

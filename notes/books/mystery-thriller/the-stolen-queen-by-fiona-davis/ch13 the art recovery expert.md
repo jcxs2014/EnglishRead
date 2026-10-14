@@ -51,7 +51,7 @@ modified: "2026-10-13"
 
 **关键词：** last I saw, fallen out of a suitcase, deck of a ship, sink into the Nile
 
-**为什么这样写：** 用掉落加沉没两个动作写"最后一次见"——fallen out 是意外，sink 是灭失，中间 Henry stuffed it into one of his pockets 又把意外改写成经手。I had no idea 紧跟在后，划清她当年的不知情，把丈夫推成经手人、自己留在证人席。
+**为什么这样写：** 用掉落加沉没两个动作写"最后一次见"——fallen out 是意外，sink 是灭失，中间 He stuffed it into one of his pockets 又把意外改写成经手。I had no idea 紧跟在后，划清她当年的不知情，把丈夫推成经手人、自己留在证人席。
 
 **读者视角提示：** 注意这是她讲给 Tenny 的单方陈述；叙述者自白诚恳，但"不知情"的边界恰是后文可以翻转的地方。
 

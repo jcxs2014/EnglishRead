@@ -10,7 +10,7 @@ modified: "2026-10-13"
 - **一句话概括**：Charlotte 去找馆长 Mr. Lavigne 追查宽领项链的借展来源，被"匿名捐赠人保密"挡了回来，还被点名管好 King Tut 展的事；她不死心，转而从安保主管 Mr. Fantoni 那里问到专办国际艺术品盗窃的私家侦探 Tenny Woods，又亲手把项链送去 Costume Institute 的展厅、装上人体模特，末尾与 Annie 关于"男朋友"一词的玩笑把两人距离拉近。
 - **视角**：第三人称有限视角，全程贴 Charlotte；章首小标题 Charlotte／New York City, 1978 延续她的 1978 线。
 - **情感弧线位置**：调查受挫章——上一章认出项链后的第一次正面进攻失败（Lavigne 的 patient smile 到 nostrils flared），再转入地下行动（撒谎套取侦探名片）；公事线受阻、私人情感线（触摸项链想起那个人、结尾那句 knew exactly how that felt）浮出水面。
-- **人物弧线**：Charlotte 从"拿着一手证据去讲道理"的自信（firsthand knowledge），到被当成 silly emotional woman 的难堪，再到学会撒谎办事（编出"朋友写书"的借口）；她的调查从体制内通道转向体制外。
+- **人物弧线**：Charlotte 从"拿着一手证据去讲道理"的自信（firsthand knowledge），到被当成 some silly, emotional woman 的难堪，再到学会撒谎办事（编出"朋友写书"的借口）；她的调查从体制内通道转向体制外。
 - **叙事手法**：办公室对峙用对话推进，每一句客气话都是一次拒绝；Lavigne 办公室的奢华陈设（Savonnerie 地毯、Goya 小画）与 Fantoni 办公室的寒酸（tobacco and aftershave 气味）形成阶级对照；Di Cesnola 偷三万五千件文物反被任命为馆长的旧闻是全章最锋利的反讽楔子。
 
 ## 精读
@@ -61,7 +61,7 @@ modified: "2026-10-13"
 
 **关键词：** was there, weakly, recall the smell, sandstone and stale air
 
-**为什么这样写：** 前半句是全章最短的证词（三个词），后半句是最长的感官记忆，一弱一强。weakly 承认她在权力面前词穷了；但 smell of sandstone and stale air 把证据从文件层面拉回身体层面——气味记这么多年不散，说明 1936 年那件事刻进了她的神经。这是她第一次在本章露出"当事人"而非"策展人"的底色。
+**为什么这样写：** 前半句是全章最短的证词（三个词），后半句是最长的感官记忆，一弱一强。weakly 承认她在权力面前词穷了；但 sandstone and stale air 把证据从文件层面拉回身体层面——气味记这么多年不散，说明 1936 年那件事刻进了她的神经。这是她第一次在本章露出"当事人"而非"策展人"的底色。
 
 **读者视角提示：** 凡写气味的句子都是旧伤出没处——读到 sandstone 就知道，她要的不只是"项链归谁"，而是"那四十一年它去哪了，我弄丢的人去哪了"。
 

@@ -61,7 +61,7 @@ modified: "2026-10-13"
 
 **关键词：** stay private, throwing Frederick under the bus, without properly vetting its provenance, never even made it to the Egyptian Museum
 
-**为什么这样写：** 这一段很见人物性格：她的职业操守里掺着私怨。作者用 didn’t mind 这种轻描淡写的否定式写她的快意，比直接写"她幸灾乐祸"更狠。throw somebody under the bus 是口语熟语，突然出现在通篇文雅的叙述里，语气落差本身就是笑点，也照出她性格里不体面的那一面。
+**为什么这样写：** 这一段很见人物性格：她的职业操守里掺着私怨。作者用 didn’t mind 这种轻描淡写的否定式写她的快意，比直接写"她幸灾乐祸"更狠。throwing Frederick under the bus 是口语熟语，突然出现在通篇文雅的叙述里，语气落差本身就是笑点，也照出她性格里不体面的那一面。
 
 **读者视角提示：** 本章"说漏嘴"发生了两次——Annie 抢话在前，她顺水推舟在后；留意这两个人从此各自握着对方的一点把柄。
 

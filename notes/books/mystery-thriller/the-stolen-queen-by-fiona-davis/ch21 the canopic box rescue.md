@@ -59,7 +59,7 @@ modified: "2026-10-13"
 
 **中文理解：** Charlotte 当初对宽领项链被收入服饰学院展览那么大反应，现在说得通了。那不只是一件漂亮首饰，那是一段历史，一段来之不易的历史。
 
-**关键词：** strong reaction, now made sense, not just a pretty piece, hard-won part of history
+**关键词：** strong reaction, now made sense, wasn’t just a pretty piece, hard-won part of history
 
 **为什么这样写：** 这是 Annie 视角第一次真正"看见" Charlotte：站在当年亲手挖出项链的墓室门口，Annie 把 Charlotte 的失态翻译成了 hard-won——"来之不易"四个字把学术争议、私人记忆、体力挖掘全压进去了。分号后的重复（a part of history, and a hard-won part of history）是强调的修辞，at that 收尾带点口语的笃定，像是 Annie 在心里给自己点头。
 

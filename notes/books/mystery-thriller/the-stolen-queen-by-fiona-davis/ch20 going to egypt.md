@@ -71,7 +71,7 @@ modified: "2026-10-13"
 
 **关键词：** make up her mind, going to, gravelly, sand in her throat
 
-**为什么这样写：** 全章的转折点，用"快"来写"重"：几秒钟的决定，赌上的是工作和安稳。gravelly like sand in her throat 这个比喻是神来之笔——去埃及的话，是用"埃及的东西"（沙子）卡住喉咙说出来的，身体比嘴先到了埃及。Frederick 的 half smile 到 grimace 的变化全是这句话砸出来的。
+**为什么这样写：** 全章的转折点，用"快"来写"重"：几秒钟的决定，赌上的是工作和安稳。gravelly, like she had sand in her throat 这个比喻是神来之笔——去埃及的话，是用"埃及的东西"（沙子）卡住喉咙说出来的，身体比嘴先到了埃及。Frederick 的 half smile 到 grimace 的变化全是这句话砸出来的。
 
 **读者视角提示：** 注意这是她先对 Frederick 说的，不是对 Mark——工作都敢赌，后面跟 Mark 的争吵里她才站得住；顺序别颠倒。
 

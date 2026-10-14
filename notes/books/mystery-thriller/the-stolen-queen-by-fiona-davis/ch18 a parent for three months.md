@@ -39,7 +39,7 @@ modified: "2026-10-13"
 
 **中文理解：** "他个子很高，"Annie 说，"深色眼睛，浓密的棕色头发，剪得很短。穿深色西装，没打领带，领口敞着。脖子上挂着一条古怪的银项链。像个十字架，但顶端有个小圆圈。"
 
-**关键词：** dark eyes, thick brown hair, dark suit, silver necklace, like a cross with a small circle
+**关键词：** dark eyes, thick brown hair, dark suit, silver necklace, a cross with a small circle at the top
 
 **为什么这样写：** 目击证词写成清单体，短句一个接一个，没有形容词渲染，只有可交付的辨认特征——这是惊魂未定的小姑娘能拿出来的东西，越干越可信。清单末尾落在项链上，funny 这个词很妙：外行人不识货，只能说"古怪"，而识货的人（Charlotte）下一秒就能接住。叙述把关键的线索藏在不起眼的口语词后面， revision 式的递进感全在这句。
 
@@ -59,7 +59,7 @@ modified: "2026-10-13"
 
 **中文理解：** 过去一小时的遭遇点燃的怒火，尽数灌进了 Charlotte 对 Lori 的怨气里，话像自己长了腿往外蹦。"她对谁都不负责。衣服扔进洗衣机能放两天不管。对我和她妈妈没好气，你一来她就甜得不行。"
 
-**关键词：** funneled into resentment, of their own accord, not accountable, laundry, super sweet
+**关键词：** funneled into her resentment, of their own accord, not accountable, laundry, super sweet
 
 **为什么这样写：** 叙述先判病因再 quoted 发病：funneled 把两件事焊在一起——她此刻骂 Lori 的火，烧的是惊魂夜的余烬，迁怒被写成了物理现象（灌注）。引语里全是家务琐事（laundry 放两天），鸡毛蒜皮恰恰是后妈难当的证据形态：大事上 Lori 没错，错的全是"没法拿到台面上说"的日常。而 super sweet 收尾见真章，甜的部分 Mark 看得见， rude 的部分只有她受着，"没人信我"才是这场争吵真正的状纸。
 

@@ -10,7 +10,7 @@ modified: "2026-10-13"
 - **一句话概括**：Charlotte 与 Annie 从开罗飞回纽约，在 Temple of Dendur 展厅设下埋伏，把潜伏进博物馆当 docent 学员的 Mona 约出来当面摊牌；两人以互揭把柄相要挟、换回研究文件夹，交锋中 Mona 自曝 Ma'at 成员身份与宽领项链的贷款内情，Charlotte 最后亮出 Henry 的旧照片，发现 Mona 的父亲 "Darius Farid" 正是 Henry Smith——对面这个僵硬的女人，可能就是她失散多年的女儿。
 - **视角**：第三人称有限视角，全程贴 Charlotte；从飞机上的焦灼，到神庙庭院的攻防，再到章末的身份冲击，落差都从她的感知里过。
 - **情感弧线位置**：抓捕线与寻亲线的汇合章——Charlotte 从"必须抢先抓贼"的急切出发，在互相要挟中步步紧逼又节节让步，最终在一张旧照片前失去全部优势；情感落点不是破获的快感，而是 "wished she'd never known" 的悔意。
-- **人物弧线**：Charlotte 从设局者（纸条调虎离山、当面摊牌、谎称不在乎雕像）被反转为被要挟者（Mona 点破彼此握有对方的把柄），再被反转成疑似母亲——她赢来了全部真相，却输给对面那个 "no kind of connection" 的女人；rigid 是 Mona 的壳，也是 Charlotte 的镜子。
+- **人物弧线**：Charlotte 从设局者（纸条调虎离山、当面摊牌、谎称不在乎雕像）被反转为被要挟者（Mona 点破彼此握有对方的把柄），再被反转成疑似母亲——她赢来了全部真相，却输给对面那个 "any kind of connection" 的女人；rigid 是 Mona 的壳，也是 Charlotte 的镜子。
 - **叙事手法**：几乎全由对话驱动——动作描写压缩到几个动词（slipped out、weaved around the rope、stepped from behind the gate），篇幅全给言语交锋；自由间接引语（"Touché, thought Charlotte"）做情绪转场；Charlotte 的谎言（"it should be on Egyptian soil…she lied"）与 Mona 的炫技式坦白构成双重不可靠叙述；结尾用虚拟语气把身份悬置起来。
 
 ## 精读
