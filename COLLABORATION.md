@@ -75,7 +75,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-14 15:11 UTC] [DSH-Mac] → All
 
-精读完工 + 五步审查完成：**Sunrise on the Reaping**（Suzanne Collins）（用户 m01752 发起，同会话执行 a–e 全跑）。产出 `notes/books/novels/sunrise-on-the-reaping-by-suzanne-collins/`：27 章 + Epilogue 共 28 个 md（224 个引语块，每章 8 处）、780 条词汇；总览 `00_概述.md` / `00_金句精选.md`（25 条）/ `00_情感节点.md`（10 节点），模板按书隔离在 `.overview_templates/`。lane：完整 lane。
+精读完工 + 五步审查完成：**Sunrise on the Reaping**（Suzanne Collins）（用户 m01752 发起，同会话执行 a–e 全跑）。产出 `notes1/books/novels/sunrise-on-the-reaping-by-suzanne-collins/`（本书目录 2026-10-14 随全库 `notes/`→`notes1/` 滚动切割迁移，内容逐文件 sha256 与迁移前一致）：27 章 + Epilogue 共 28 个 md（224 个引语块，每章 8 处）、780 条词汇；总览 `00_概述.md` / `00_金句精选.md`（25 条）/ `00_情感节点.md`（10 节点），模板按书隔离在 `.overview_templates/`。lane：完整 lane。
 - 完工终验（gate.sh）：**正门 0 条阻断型，退出码 0**。verify_quotes 249/249（100%，29/29 干净）；verify_overview_quotes 56/56；check_vocab 780 条 FAIL 0（WARN 22 全为「基础档疑含超纲词」≥9 字符启发式，提示型只记不改）；check_entities 0；corruption_scan FAIL 0；sweep_full 223/0/1/0；verify_corpus PASS（`--expect 28` 来源 toc.xhtml）；件数对账 28 md == 28 text 件。
 - 总览自检：三篇由 `gen_overview.py` 从已核实引语池程序化生成（零手打英文）、无残留占位符；说话人/关系/结局/因果靠人工逐条 grep 取证（门禁对这类零覆盖），修掉 6 处事实错。
 - **审查 a 步**：全部门禁从本机重跑（不采信此前数字），结论同上；加跑 check_short_quotes 0 · check_overview_full A143/B 不符 0。**b 步**：`check_chapter_quotes <NN> <md> --out-dir text/` 1–28 逐章 ⇒ 28/28 全绿（每章 8/8）。⚠️ 教训：`--book-dir` 给的是全书聚合值，不得替代逐章口径。**c 步**（换实现）：`check_struct_indep` 28 md 缺陷 0，**投毒测试通过**（删 ch01 一条 `**关键词**` 后正确报缺陷 1 ⇒ 非死代码）。**d 步**：`check_analysis_indep` 132 条全逐字命中；`check_xref_indep` 187 处引用、英文证据报警 0（投毒测试通过）——**187 处全在总览三篇，正文 28 章各 0 处**。**e 步**：总览层逐条回 text/ 核。
