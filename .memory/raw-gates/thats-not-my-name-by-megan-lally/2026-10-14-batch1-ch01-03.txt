@@ -1,0 +1,49 @@
+=== batch1 ch01-03 gates 2026-10-14 19:30 UTC ===
+
+--- verify_corpus ---
+      首| Epilogue
+      末| “Happy Birthday, Lola,” I whisper.
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
+
+--- verify_quotes ---
+ch01 girl.md: 2/2 ✅（另有 4 条短引语未校验）
+ch02 girl.md: 6/6 ✅
+ch03 drew.md: 6/6 ✅
+
+⚠️ 全书共 4 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 14/14 引文可核实（100%）；完全干净文件 3/3；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+--- check_vocab ---
+  [P0-4] 正文章节 3 个（< 4），多数派未成形 → **跳过必备章节判定**
+词条行合计: 36
+
+--- FAIL (0) ---
+
+--- WARN (4) ---
+  ch01 girl.md [基础] 基础档疑含超纲词「headlights」
+  ch01 girl.md [基础] 基础档疑含超纲词「paramedics」
+  ch03 drew.md [基础] 基础档疑含超纲词「girlfriend」
+  ch03 drew.md [基础] 基础档疑含超纲词「volunteer」
+
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+--- corruption_scan ---
+
+=== 编辑损坏扫描（thats-not-my-name-by-megan-lally）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- sweep_full ---
+=== 引语整串 flat 比对（thats-not-my-name-by-megan-lally）===
+  参照集：text/ 逐章（30 章，可定章） + epub 交叉验证
+  ✅ 本章命中 14 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 4 条归 check_short_quotes；无章可对 0 条未判）
+
+--- check_chapter_quotes 1/2/3 ---
+ch01 girl.md: 2/2 in ch01 text（另有 4 条短引语未校验）
+ch02 girl.md: 6/6 in ch02 text
+ch03 drew.md: 6/6 in ch03 text
