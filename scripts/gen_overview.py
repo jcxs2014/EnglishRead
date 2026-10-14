@@ -58,9 +58,47 @@ def build_pool(book: str):
         # （`> **原句 1:** 第一段` / `>` / `> 第二段`），而原正则要求标记行之后**立刻**是空行
         # ⇒ 整块匹配失败，症状是「抽到 0 条引语」而**门禁全绿**（引语层由别的脚本验）。
         # 现吃掉续行，池里取引语的**首段**（金句要的是短而逐字的一句，不是整场戏）。
-        for m in re.finditer(r'> \*\*原句 (\d+):\*\* (.+?)(?:\n>(?:.*)?)*\n\n(.+?)\n',
-                             open(f, encoding="utf-8").read()):
-            seq, q, seg = int(m.group(1)), m.group(2).strip(), m.group(3).strip()
+        # ⚠️ 2026-10-14 修正（stuck-with-you 实测：全库 53 本书池恒为 0）：
+        # 本库 `> **原句 N:**` 有**两种并存的写法**——
+        #   ① 引语与抬头**同行**：`> **原句 1:** "…"`   （约 89%，371 本书）
+        #   ② 引语在**下一行**：`> **原句 1:**` / `> "…"`（约 11%，14 本书）
+        # 原正则只认 ①（`**:\*\* (.+?)` 要求抬头后**必有**内容）⇒ 对 ② 整本抽 0 条。
+        # 症状极具欺骗性：不是报错，而是 **pool 空 ⇒ 模板里每个 {Q:} 都报
+        # 「引语池无 chNN#seq」**，看起来像模板写错了。实测 53 本书 pool==0，
+        # 其中 eliza-from-scratch / so-we-meet-again / 本书都是**已入库的真实格式**。
+        # ⇒ 两种都认。**约束：本次改动必须对全库单调（新池 ⊇ 旧池）**——
+        #   ① 形态逐字走原逻辑；
+        #   ② 形态**只在 ① 抽不到内容时**补抽，且抽到的引语**只在不通过
+        #     `text/` 校验时静默跳过、绝不 abort**。
+        # ⚠️ 为什么必须这样：9 本书（i-hope-this-email-finds-you-in-hell 105 同行块 +
+        # 172 独占抬头块 / reliquary / bitter-sweet / meet-cute-magic / the-dream-hotel /
+        # the-spanish-love-deception 等）是**真混排**，其 ② 块的 md 与 `text/`
+        # 有若干不一致（真缺陷或 `…` 省略/跨段）。若让 ② 走 fail-closed，
+        # 这些书会从「能出池（63 / 24 条）」变成「整本中止」——**修工具反而弄坏 9 本书**。
+        # 只增不减 ⇒ 这些书行为**逐字不变**，而 ② 书从 0 变成全部可用。
+        _src = open(f, encoding="utf-8").read()
+        _lines = _src.split("\n")
+        _blocks = []
+        for m in re.finditer(
+                r'> \*\*原句 (\d+):\*\*(?: (.+?))?(?:\n>(?:.*)?)*\n\n(.+?)\n', _src):
+            if (m.group(2) or "").strip():
+                _blocks.append((m.group(1), (m.group(2) or "").strip(),
+                                m.group(3).strip(), True))
+                continue
+            # ② 形态：抬头独占一行，引语在紧随的 `> ` 行
+            _ln = _src[:m.start()].count("\n")
+            _q = ""
+            for _k in range(_ln + 1, min(_ln + 4, len(_lines))):
+                _c = _lines[_k].strip()
+                if _c.startswith(">"):
+                    _q = _c.lstrip(">").strip()
+                    break
+                if _c:
+                    break
+            if _q:
+                _blocks.append((m.group(1), _q, m.group(3).strip(), False))
+        for _seq_s, q, seg, _strict in _blocks:
+            seq = int(_seq_s)
             if seg.startswith("> "):
                 continue            # 下一个块的原句行，不是本块的分析层
             if seg.startswith("**中文理解"):
@@ -83,6 +121,8 @@ def build_pool(book: str):
                 _frags = [f for f in _frags if f]
                 if _frags and all(f in flat for f in _frags):
                     pass                      # 分段全部命中 ⇒ 合法省略
+                elif not _strict:
+                    continue     # ② 形态补抽：与 text/ 不符即静默跳过，不 abort
                 else:
                     print(f"❌ ch{n:02d}#{seq} 不在 text/，池中止")
                     raise SystemExit(2)
