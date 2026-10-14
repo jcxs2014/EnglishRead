@@ -119,6 +119,6 @@ Tethys 为 Oceanus 的子女命名：儿子是 Potamoi（河流之神），女�
 
 ---
 
-## 读者视角提示
+## 一句话总结
 
 本章的情感核心是"失落"：Styx 失去了母亲的专属关注，因为 Tethys 的幻象打开了通往更多孩子的大门。"Her hand left mine"这个细节值得反复品味——它是一个物理动作，也是一个隐喻，暗示从这一时刻起，Styx 必须学会与其他孩子分享母亲的爱。而"never held it with that kind of love again"则揭示了 Styx 对这一转变的最终判断：爱是不可逆地改变了。
