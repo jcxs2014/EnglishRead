@@ -1,0 +1,402 @@
+# notes1-MANIFEST — 第一次滚动切割记录
+
+- 切割日期: 2026-10-14
+- 回档点: git tag `pre-notes1-cut`（= `19fd709bf`）
+- 规则: 分层随机（novels 3/4、mystery-thriller/non-fiction/short-story-anthologies 各 2/3），seed=20261014，整书为单位
+- 跳过规则: ①整书无 md（未开始）②非 short-story 且无 00_ 概述类标记（未完成）③切割日 git 工作区有变动（在制）
+
+## SELECTED（切至 notes1/books/，共 302 本 / 11577 md）
+
+### mystery-thriller（37 本 / 1969 md）
+
+- venus-fly-trap-by-emma-medrano (34 md)
+- the-burnings-by-naomi-kelsey (50 md)
+- lost-by-jenn-bullard (38 md)
+- carry-me-to-my-grave-by-christopher-golden (61 md)
+- the-whispers-by-ashley-audrain (70 md)
+- the-ruins-by-steve-wick (45 md)
+- guilty-until-innocent-by-robert-whitlow (51 md)
+- before-she-finds-me-by-heather-chavez (62 md)
+- blue-arrow-island-by-brenda-rothert (52 md)
+- the-italian-secret-by-tara-moss (40 md)
+- a-trade-of-blood-by-robert-jackson-bennett (39 md)
+- the-teacher-by-freida-mcfadden (85 md)
+- the-drowning-woman-by-robyn-harding (67 md)
+- abduction-of-a-slave-by-dana-stabenow (22 md)
+- the-stolen-queen-by-fiona-davis (37 md)
+- star-circle-by-davis-bunn (56 md)
+- all-the-lies-they-told-by-robin-mahle (79 md)
+- broken-light-by-joanne-harris (75 md)
+- lottery-of-secrets-by-nadija-mujagic (48 md)
+- funerals-are-for-the-living-by-sami-ellis (44 md)
+- darling-girls-by-sally-hepworth (74 md)
+- silenced-by-ann-claycomb (49 md)
+- fox-by-joyce-carol-oates (57 md)
+- natural-selection-by-clare-edge (58 md)
+- in-the-woods-they-wait-by-carrie-lee-south (71 md)
+- the-wrong-sister-by-claire-douglas (56 md)
+- mazywood-by-tananarive-due (43 md)
+- how-to-solve-your-own-murder-by-kristen-perrin (46 md)
+- wolf-hour-by-jo-nesbo (59 md)
+- forest-of-scars-by-dan-padavona (51 md)
+- the-girl-from-the-war-room-by-catherine-law (31 md)
+- the-color-of-death-by-trey-gowdy (73 md)
+- always-the-quiet-ones-by-jamie-lee-sogn (40 md)
+- house-of-glass-by-sarah-pekkanen (71 md)
+- i-found-a-body-by-becky-c-brynolf (86 md)
+- the-disappearers-by-marlon-james (8 md)
+- shes-a-doll-by-barbara-truelove (41 md)
+
+### non-fiction（43 本 / 1002 md）
+
+- everything-is-fcked-by-mark-manson (12 md)
+- dont-make-me-laugh-by-julia-raeside (45 md)
+- living-on-paper-by-iris-murdoch (24 md)
+- why-we-sleep-by-matthew-walker (21 md)
+- livia-mother-of-rome-by-caitlin-c-gillespie (16 md)
+- dark-psychology-super-advanced-by-richard-campbell (13 md)
+- memory-speaks-by-julie-sedivy (8 md)
+- exodus-by-paul-collier (16 md)
+- after-a-funeral-by-diana-athill (9 md)
+- against-everything-by-mark-greif (20 md)
+- living-to-tell-the-tale-by-gabriel-garcia-marquez (11 md)
+- inside-the-box (19 md)
+- an-army-like-no-other-by-haim-bresheeth-zabner (18 md)
+- how-to-be-resilient-by-gail-gazelle (12 md)
+- the-dolphin-in-the-mirror-by-diana-reiss (15 md)
+- behind-the-beautiful-forevers-by-katherine-boo (22 md)
+- dark-psychology-secrets-by-daniel-james-hollins (54 md)
+- recollections-of-my-nonexistence-by-rebecca-solnit (35 md)
+- language-city-by-ross-perlin (19 md)
+- possible-by-william-ury (18 md)
+- smartass-by-emily-sayre-smith (46 md)
+- no-judgment-by-lauren-oyler (11 md)
+- marilyn-and-her-books-by-gail-crowther (21 md)
+- smoke-and-ashes-by-amitav-ghosh (21 md)
+- exhausted-an-a-z-for-the-weary-by-anna-katharina-schaffner (30 md)
+- somewhere-towards-the-end-by-diana-athill (20 md)
+- life-in-three-dimensions-by-shigehiro-oishi (20 md)
+- ten-bridges-ive-burnt-by-brontez-purnell (34 md)
+- my-brilliant-sister-by-amy-brown (75 md)
+- what-happened-to-you-by-oprah-winfrey-and-bruce-perry (29 md)
+- red-memory-by-tania-branigan (16 md)
+- letters-to-a-friend-by-diana-athill (20 md)
+- becoming-by-michelle-obama (29 md)
+- nexus-by-yuval-noah-harari (16 md)
+- one-way-back-by-christine-blasey-ford (48 md)
+- what-the-bees-see-by-craig-burrows (32 md)
+- an-expert-witness-by-sue-black (19 md)
+- wow-no-thank-you-by-samantha-irby (21 md)
+- russias-man-of-war-by-cathy-scott-clark (19 md)
+- splinters-by-leslie-jamison (9 md)
+- pax-economica-by-marc-william-palen (10 md)
+- notes-on-grief-by-chimamanda-ngozi-adichie (33 md)
+- herlands-by-megha-mohan (16 md)
+
+### novels（201 本 / 8071 md）
+
+- make-or-break-by-e-j-noyes (27 md)
+- miserys-wife-by-joan-tierney (13 md)
+- big-little-lies-by-liane-moriarty (87 md)
+- redhead-by-the-side-of-the-road-by-anne-tyler (11 md)
+- only-a-monster-by-vanessa-len (28 md)
+- that-first-flight-by-jenn-mcmahon (59 md)
+- the-paris-agent-by-kelly-rimmer (35 md)
+- the-librarian-of-burned-books-by-brianna-labuskes (57 md)
+- metronome-by-tom-watson (43 md)
+- tomorrow-and-tomorrow-and-tomorrow-by-gabrielle-zevin (41 md)
+- miss-bates-by-catherine-cliff (66 md)
+- immortal-by-sue-lynn-tan (50 md)
+- guardians-of-dawn-suhwa-by-s-jae-jones (45 md)
+- dreamland-by-olivie-blake (43 md)
+- some-other-time-by-angela-brown (41 md)
+- daggerbound-by-t-kingfisher (43 md)
+- the-life-cycle-of-the-common-octopus-by-emma-knight (55 md)
+- preaching-to-the-choir-by-adrian-tchaikovsky (11 md)
+- worlds-collide-by-clint-hall (35 md)
+- the-morningside-by-tea-obreht (36 md)
+- october-daye-20-divided-duty-by-seanan-mcguire (24 md)
+- all-our-yesterdays-by-joel-h-morris (30 md)
+- wild-dark-shore-by-charlotte-mcconaghy (75 md)
+- the-faerie-handmaid-by-louisa-morgan (41 md)
+- the-ocean-at-the-end-of-the-lane-by-neil-gaiman (21 md)
+- eight-tastes-of-treachery-by-ryan-rose (95 md)
+- the-harpy-knight-by-sara-omer (32 md)
+- a-lesson-in-deceit-by-allie-shante (47 md)
+- the-castle-the-cloister-by-laura-e-weymouth (38 md)
+- the-seven-husbands-of-evelyn-hugo-by-taylor-jenkins-reid (100 md)
+- recipe-for-rivals-by-kasey-stockton (41 md)
+- the-wizard-who-kept-himself-suspicious-by-scott-lynch (12 md)
+- a-real-animal-by-emeline-atwood (13 md)
+- taipei-story-by-r-f-kuang (13 md)
+- the-do-over-by-suzanne-park (40 md)
+- never-let-me-go-by-kazuo-ishiguro (26 md)
+- the-bones-beneath-my-skin-by-tj-klune (24 md)
+- ends-of-the-earth-by-neil-shubin (13 md)
+- the-librarian-spy-by-madeline-martin (31 md)
+- grim-tidings-by-b-k-borison (37 md)
+- the-invisible-life-of-addie-laud-by-v-e-schwab (110 md)
+- the-afterdark-by-e-latimer (66 md)
+- rookie-season-by-leah-brunner (47 md)
+- demons-and-diplomacy-by-megan-frampton (31 md)
+- the-chosen-queen-by-sam-davey (22 md)
+- demon-in-the-sand-by-e-k-johnston (37 md)
+- how-to-tell-a-true-story-by-tricia-springstubb (61 md)
+- until-august-by-gabriel-garcia-marquez (12 md)
+- the-picture-of-dorian-gray-by-oscar-wilde (23 md)
+- i-cant-save-you-by-anthony-chin-quee (15 md)
+- the-only-way-out-is-up-by-django-wexler (48 md)
+- exit-party-by-emily-st-john-mandel (12 md)
+- eyes-of-kings-by-chloe-gong (58 md)
+- life-and-death-and-giants-by-ron-rindo (47 md)
+- heir-of-prophecy-by-analeigh-sbrana (59 md)
+- perfection-by-vincenzo-latronico (15 md)
+- the-south-by-tash-aw (39 md)
+- waking-the-warriors-by-ben-okri (94 md)
+- the-art-of-charming-a-changeling-by-sylvie-cathrall (28 md)
+- beach-read-by-emily-henry (31 md)
+- floating-hotel-by-grace-curtis (27 md)
+- the-brides-by-charlotte-cross (17 md)
+- your-boyfriend-needs-an-exorcist-by-justine-pucella-winans (43 md)
+- ticket-to-mars-by-kieran-fanning (40 md)
+- an-orchestra-of-minorities-by-chigozie-obioma (33 md)
+- inverno-by-cynthia-zarin (37 md)
+- astarion-by-t-kingfisher (32 md)
+- we-rip-the-world-apart-by-charlene-carr (64 md)
+- battle-of-the-bookstores-by-ali-brady (43 md)
+- never-gamble-your-heart-by-lindsay-lovise (54 md)
+- see-you-yesterday-by-rachel-lynn-solomon (45 md)
+- the-book-of-heartbreak-by-ova-ceren (36 md)
+- the-night-always-comes-by-willy-vlautin (25 md)
+- real-life-by-brandon-taylor (13 md)
+- the-book-of-doors-by-gareth-brown (63 md)
+- the-fine-print-by-lauren-asher (55 md)
+- mudlark-by-mary-helen-specht (50 md)
+- fishbone-cinderella-by-elizabeth-lim (68 md)
+- empire-by-sabaa-tahir (64 md)
+- a-real-paige-turner-by-michelle-eileen (24 md)
+- a-thousand-monstrous-forms-by-saratoga-schaefer (32 md)
+- our-cut-of-salt-by-deena-helm (16 md)
+- styx-the-river-by-nikita-gill (208 md)
+- out-of-the-woods-by-hannah-bonam-young (44 md)
+- translation-state-by-ann-leckie (46 md)
+- the-lotus-shoes-by-jane-yang (52 md)
+- falling-into-place-by-allison-ashley (37 md)
+- i-dont-need-your-romance-by-emma-dalton (46 md)
+- the-fall-risk-by-abby-jimenez (14 md)
+- the-house-of-eve-by-sadeqa-johnson (51 md)
+- lessons-by-ian-mcewan (15 md)
+- interference-by-cala-riley (34 md)
+- black-point-by-jacqueline-west (23 md)
+- burn-for-you-by-bridie-charles (46 md)
+- the-secret-wife-by-paul-gill (74 md)
+- the-garnett-girls-by-georgina-moore (31 md)
+- love-sick-by-deidra-duncan (25 md)
+- the-promise-by-damon-galgut (7 md)
+- massif-by-garth-nix (38 md)
+- i-loved-you-in-another-life-by-david-arnold (74 md)
+- sunrise-on-the-reaping-by-suzanne-collins (31 md)
+- getaway-girl-by-tessa-bailey (32 md)
+- parable-of-the-talents-by-octavia-e-butler (26 md)
+- the-mismatch-of-the-season-by-michelle-kenney (31 md)
+- stuck-with-you-by-ali-hazelwood (16 md)
+- the-sea-hides-its-dead-by-megan-bontrager (25 md)
+- the-raven-and-the-reindeer-by-t-kingfisher (44 md)
+- if-tomorrow-comes-by-sidney-sheldon (37 md)
+- the-wild-huntress-by-emily-lloyd-jones (49 md)
+- meant-for-me-by-betsy-st-amant (28 md)
+- the-cafe-at-beach-end-by-raeanne-thayne (42 md)
+- affairs-of-state-by-calvin-james (42 md)
+- the-german-wife-by-kelly-rimmer (55 md)
+- hello-beautiful-by-ann-napolitano (42 md)
+- give-me-butterflies-by-jillian-meadows (50 md)
+- adam-mine-by-k-ancrum (112 md)
+- good-good-loving-by-yvvette-edwards (13 md)
+- much-ado-about-nada-by-uzma-jalaluddin (34 md)
+- the-glass-girl-by-kathleen-glasgow (58 md)
+- bitter-sweet-by-hattie-williams (34 md)
+- deathless-by-julie-kagawa (25 md)
+- the-coral-bones-by-e-j-swift (16 md)
+- the-lonely-hearts-book-club-by-lucy-gilmore (38 md)
+- what-if-its-you-by-jilly-gagnon (25 md)
+- the-night-circus-by-erin-morgenstern (81 md)
+- clear-by-carys-davies (46 md)
+- homeseeking-by-karissa-chen (23 md)
+- some-desperate-glory-by-emily-tesh (35 md)
+- problematic-summer-romance-by-ali-hazelwood (47 md)
+- never-thought-id-end-up-here-by-ann-liang (25 md)
+- bird-of-a-thousand-stories-by-kiyash-monsef (43 md)
+- eliza-from-scratch-by-sophia-lee (35 md)
+- isle-of-teeth-by-tessa-barbosa (50 md)
+- save-whats-left-by-elizabeth-castellano (20 md)
+- no-take-backs-by-taylor-wilson-west (32 md)
+- lucy-by-the-sea-by-elizabeth-strout (16 md)
+- cibola-burn-by-james-s-a-corey (67 md)
+- taken-by-sinistre-ange (17 md)
+- level-up-for-love-by-lenora-woods (38 md)
+- ducks-newburyport-by-lucy-ellmann (19 md)
+- strange-is-the-light-by-sarah-maria-griffin (25 md)
+- the-night-pool-by-lauren-lee-smith (88 md)
+- you-did-nothing-wrong-by-c-g-drews (37 md)
+- love-on-the-brain-by-ali-hazelwood (30 md)
+- the-burial-witch-by-cari-thomas (12 md)
+- pachinko-by-min-jin-lee (62 md)
+- i-am-homeless-if-this-is-not-my-home-by-lorrie-moore (15 md)
+- up-in-molten-lights-by-eb-golden (82 md)
+- season-of-the-serpent-by-suyi-davies-okungbowa (46 md)
+- all-the-days-of-summer-by-nancy-thayer (29 md)
+- cabin-fever-by-riley-parker (8 md)
+- go-as-a-river-by-shelley-read (30 md)
+- such-a-fun-age-by-kiley-reid (32 md)
+- lives-of-girls-and-women-by-alice-munro (11 md)
+- dont-look-at-me-like-that-by-diana-athill (26 md)
+- the-capital-of-dreams-by-heather-oneill (40 md)
+- the-merry-matchmaker-by-sheila-roberts (25 md)
+- memories-like-fangs-by-chelsey-j-leon (52 md)
+- pride-and-prejudice-by-jane-austen (64 md)
+- null-entity-by-seth-haddon (26 md)
+- the-paris-deception-by-bryn-turnbull (73 md)
+- black-river-by-ruby-jean-cottle (37 md)
+- two-wars-and-a-wedding-by-lauren-willig (32 md)
+- this-thing-between-us-by-gus-morales (8 md)
+- the-boy-from-the-sea-by-garrett-carr (20 md)
+- evie-and-her-nightmares-by-francesca-zappia (30 md)
+- adrift-by-ellie-pond (50 md)
+- so-we-meet-again-by-suzanne-park (26 md)
+- the-beasts-we-bury-by-d-l-taylor (32 md)
+- once-smitten-twice-shy-by-chloe-liese (41 md)
+- butterfly-girl-by-sarah-floyd (27 md)
+- the-bookshop-by-the-bay-by-pamela-m-kelley (56 md)
+- everything-is-poison-by-joy-mccullough (69 md)
+- pretty-bossy-by-arini-vlotman (25 md)
+- the-new-wilderness-by-diane-cook (11 md)
+- spellcast-by-sophie-jordan (43 md)
+- the-tinder-box-by-m-r-carey (63 md)
+- embrace-by-bal-khabra (56 md)
+- the-spanish-love-deception-by-elena-armas (31 md)
+- meet-me-at-midnight-by-brianna-bourne (51 md)
+- fulfillment-by-lee-cole (29 md)
+- helm-by-sarah-hall (64 md)
+- blacktail-by-scott-hawkins (13 md)
+- the-bucket-list-by-ali-parker (46 md)
+- martyr-by-kaveh-akbar (49 md)
+- the-library-of-heartbeats-by-laura-imai-messina (20 md)
+- the-ancient-things-by-bonnie-quinn (31 md)
+- tomorrow-in-the-battle-think-on-me-by-javier-marias (14 md)
+- the-calculating-stars-by-mary-robinette-kowal (43 md)
+- home-sick-by-rhiannon-grist (60 md)
+- the-payback-plan-by-amy-andrews (23 md)
+- lonely-mouth-by-jacqueline-maley (24 md)
+- earl-crush-by-alexandra-vasi (34 md)
+- destination-funeral-by-paige-harbison (78 md)
+- a-history-of-burning-by-janika-oza (37 md)
+- an-immaculate-deception-by-isabela-livino (54 md)
+- nine-women-one-dress-by-jane-l-rosen (41 md)
+- lace-ii-by-shirley-conran (22 md)
+- carmen-and-grace-by-melissa-coss-aquino (32 md)
+- pictures-of-you-by-josh-malerman (43 md)
+- i-have-some-questions-for-you-by-rebecca-makkai (114 md)
+
+### short-story-anthologies（21 本 / 535 md）
+
+- the-secret-lives-of-church-ladies (12 md)
+- the-wednesday-witches-book-club-by-sarah-beth-durst (1 md)
+- The Best Short Stories 2024 by O Henry Prize (20 md)
+- fold-catastrophes-by-peter-watts (13 md)
+- revolution-in-the-heart-by-jonathan-strahan-ed (15 md)
+- Very Short Stories by Sean Hill (7 md)
+- The Isolationist and Other Stories by V M Harrigan (7 md)
+- open-secrets-by-alice-munro (8 md)
+- battleborn-by-clare-vaye-watkins (13 md)
+- the-best-short-stories-2026-by-o-henry-prize-winners (20 md)
+- 100 Great Short Stories by James Daley (99 md)
+- hateship-friendship-courtship-loveship-marriage-by-alice-munro (9 md)
+- the-passing-of-the-dragon-by-ken-liu (13 md)
+- If You See Me Don't Say Hi by Neel Patel (11 md)
+- something-ive-been-meaning-to-tell-you-by-alice-munro (13 md)
+- tales-of-terror-58-short-stories-chosen-by-the-master-of-suspense (58 md)
+- Nabokov's Dozen by Vladimir Nabokov (13 md)
+- the-language-of-knives-by-haralambi-markov (13 md)
+- ligotti-collected-short-fiction (87 md)
+- Empty Bottles Full of Stories by R H Sin (93 md)
+- out-of-body-stories-by-chris-vanjonack (10 md)
+
+## SKIPPED_UNSTARTED（未开始，28 本，留在 notes/）
+
+- mystery-thriller/bright-girl-by-nancy-basile
+- mystery-thriller/this-is-the-night-they-come-for-you-by-robert-goddard
+- mystery-thriller/widows-and-orphans-by-kate-hilton-and-elizabeth-renzetti
+- non-fiction/we-the-people-by-jill-lepore
+- non-fiction/when-everyone-knows-that-everyone-knows-by-steven-pinker
+- non-fiction/why-nothing-works-by-marc-dunkelman
+- non-fiction/work-consumerism-and-the-new-poor-by-zygmunt-bauman
+- novels/the-thief-and-the-traitor-bride-by-v-l-bovalino
+- novels/the-unsolvable-case-by-courtney-smyth
+- novels/the-winter-folk-by-jen-julian
+- novels/theft-by-abdulrazak-gurnah
+- novels/their-shadows-deep-by-peter-golden
+- novels/theres-something-about-mira-by-sonali-dev
+- novels/these-vengeful-wishes-by-vanessa-montalban
+- novels/this-divine-revelry-by-bea-fitzgerald
+- novels/this-time-tomorrow-by-emma-straub
+- novels/trouble-was-by-charlotte-edwardes
+- novels/twist-by-colum-mccann
+- novels/twisted-lies-by-ana-huang
+- novels/under-the-same-stars-by-libba-bray
+- novels/unloved-by-peyton-corinne
+- novels/what-we-give-away-by-paulette-stout
+- novels/wickhills-by-premee-mohamed
+- novels/wings-of-starlight-by-allison-saft
+- novels/you-between-the-lines-by-katie-naymon
+- short-story-anthologies/the-twelve-loves-of-christmas-by-various
+- short-story-anthologies/traps-and-specters-by-philip-fracassi
+- short-story-anthologies/we-were-forbidden-by-jaqueline-harpman-etc
+
+## SKIPPED_UNFINISHED（未完成，33 本，留在 notes/，精读完成后随未来切割）
+
+- mystery-thriller/the-art-of-a-lie-by-laura-shepherd
+- non-fiction/books-that-saved-my-life
+- non-fiction/extraordinary-insects-by-anne-sverdrup-thygeson
+- non-fiction/if-we-cannot-go-at-the-speed-of-light
+- novels/a-cozy-holiday-by-denise-stone-and-kels-stone
+- novels/a-most-angelic-death
+- novels/asmodeus-by-rita-indiana
+- novels/book-lovers
+- novels/bury-your-dead-by-ana-paula-maia
+- novels/everything-is-fine-here-by-iryn-tushabe
+- novels/everything-was-beautiful-and-nothing-hurt-by-ben-reeves
+- novels/golden-boy-by-a-j-symon
+- novels/i-hope-this-email-finds-you-in-hell-by-mackenzie-reed
+- novels/in-a-heartbeat-by-ali-novak
+- novels/in-a-rush-by-kate-canterbary
+- novels/maybe-next-time-by-cesca-major
+- novels/meet-cute-magic-by-morgan-elizabeth
+- novels/my-husbands-wife-by-alice-feeney
+- novels/new-skin-by-miranda-nation
+- novels/nine-perfect-strangers-by-liane-moriarty
+- novels/sometimes-i-scare-myself-by-jeneva-rose
+- novels/take-a-chance-sasha-sinclair-by-ashley-herring-blake
+- novels/the-butcher-of-the-forest-by-premee-mohamed
+- novels/the-dream-hotel-by-laila-lalami
+- novels/the-eleventh-hour-by-salman-rushdie
+- novels/the-giver-by-lois-lowry
+- novels/the-happiness-blueprint-by-ally-zetterberg
+- novels/the-lack-of-light-by-nino-haratischwili
+- novels/the-love-hypothesis-by-ali-hazelwood
+- novels/the-room-in-the-ground-by-john-ajvide-lindqvist
+- novels/things-we-never-got-over-by-lucy-score
+- novels/traitors-nest-by-frances-hardinge
+- novels/you-were-never-not-mine-by-monica-murphy
+
+## SKIPPED_DIRTY（切割日在制，1 本，留在 notes/）
+
+- mystery-thriller/thats-not-my-name-by-megan-lally
+
+## 链接扫描结论
+- 留存侧引用被切书名: 仅 notes/books/index.md（书目索引页，切后其被切条目在主站 404，待重生成）
+- 被切书内部: 12 处命中均为同书自引用或 .build/.writing-spec 辅助文件，整书迁移后无跨站断链
+
+## 回档方法
+```
+git revert <本次切割commit>   # 或 git reset --hard pre-notes1-cut（未推送前）
+```

@@ -18,6 +18,7 @@ Desktop.ini
 # Quartz 静态站点（构建产物 + node_modules，保留配置供 CI 构建）
 site/node_modules/
 site/public/
+site/public1/
 site/quartz/.quartz-cache/
 # Quartz 临时工作区（图标源文件 + 生成 PNG，源文件应在 site/quartz/static/）
 site/static/
@@ -124,17 +125,17 @@ HERMES_MEMORY/
 
 # --- 小说原始 epub 与提取文本（只跟踪精读笔记，原文件忽略）---
 # 小说/整本书精读库在 notes/books/ 下；epub/纯文本原文件、calibre 元数据、封面缓存不入库
-notes/books/**/library/
-notes/books/**/text/
+notes*/books/**/library/
+notes*/books/**/text/
 # 装置页提取件（出版页/引言/作者简介/封底广告），非正文语料，不入库
-notes/books/**/_frontmatter/
-notes/books/**/_chapters.json
+notes*/books/**/_frontmatter/
+notes*/books/**/_chapters.json
 # 逐书构建脚本与中间产物（如 .build/chNN_vocab_table.md）。
 # ⚠️ 必须放在**子目录**而不是书目录根：门禁用 `glob(book_dir/*.md)` 扫章节文件，
 # 放在根目录的中间产物会被当成正文章节（verify_quotes 报「0 提取」、check_vocab 扫全文件）。
-notes/books/**/.build/
-notes/books/tags
-notes/books/**/*.DS_Store
+notes*/books/**/.build/
+notes*/books/tags
+notes*/books/**/*.DS_Store
 
 scripts/fix_angelic.py
 
