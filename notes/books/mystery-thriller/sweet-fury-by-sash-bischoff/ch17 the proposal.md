@@ -90,6 +90,14 @@ source_text: ch17_chapter_vii.txt
 
 ---
 
+> **原句 9:** "'You look good, Dr. Gabriel.' Before he could summon a response, she'd disappeared down the hall."
+**中文理解**："你看起来很好，Gabriel 医生。"他还没来得及回应，她已经消失在走廊尽头。
+**关键词**：summon a response（唤起回应）——无力感的表达
+**表达方式**：Maggie 的哀伤微笑与哀悼式告别
+**为什么这样写**：Maggie 似乎察觉到了什么，这句话承载着她对丈夫出轨的隐约感知，"消失"的动作暗示她选择退场而非对质
+
+---
+
 ## 词汇表
 
 ### ⭐ 初级（常见核心词）
