@@ -47,7 +47,7 @@ modified: "2026-10-13"
 
 > **原句 4:** Hathorkare’s tranquil expression, even with most of her face missing, seemed to convey that Charlotte wasn’t alone, that other women had suffered over the centuries before her and continued living, even if what was scarred and shattered was invisible to the outside world.
 
-**中文理解：** Hathorkare 脸都残了，神情却 still 安详——仿佛在告诉 Charlotte：她不是第一个受苦的女人，几百年来受苦的女人都活下来了，哪怕碎掉的地方外人看不见。
+**中文理解：** Hathorkare 脸都残了，神情却依然安详——仿佛在告诉 Charlotte：她不是第一个受苦的女人，几百年来受苦的女人都活下来了，哪怕碎掉的地方外人看不见。
 
 **关键词：** tranquil expression, face missing, wasn’t alone, scarred and shattered, invisible
 

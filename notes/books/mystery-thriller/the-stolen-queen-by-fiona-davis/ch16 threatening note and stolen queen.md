@@ -67,7 +67,7 @@ modified: "2026-10-13"
 
 > **原句 6:** The Cerulean Queen had been plucked right off its stand.
 
-**中文理解：** 青瓷女王像就这么被人从底座上生生拔走了。
+**中文理解：** 青金女王像就这么被人从底座上生生拔走了。
 
 **关键词：** Cerulean Queen, plucked, right off, stand
 
@@ -87,7 +87,7 @@ modified: "2026-10-13"
 
 > **原句 8:** He’s stolen the Cerulean Queen.
 
-**中文理解：** 是他偷走了青瓷女王像。
+**中文理解：** 是他偷走了青金女王像。
 
 **关键词：** stolen, Cerulean Queen
 

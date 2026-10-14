@@ -51,7 +51,7 @@ modified: "2026-10-13"
 
 **关键词：** personally stole, handed over, fledgling, made director in return
 
-**为什么这样写：** 全章的讽刺顶点，用"馆"之矛攻"馆"之盾：馆长刚说完"我们不允许持有赃物"，Charlotte 就翻出本馆第一任馆长就是靠偷文物上位的黑历史。stole…handed over…made director 三个动词排成因果链（偷—交—升官），把博物馆的道德光环扒得一干二净。fledgling（刚出窝的雏鸟）形容建馆初期的 Met，又嫩又狠。
+**为什么这样写：** 全章的讽刺顶点，用"馆"之矛攻"馆"之盾：馆长刚说完"我们不允许持有赃物"，Charlotte 就翻出本馆馆长就是靠偷文物上位的黑历史。stole…handed over…made director 三个动词排成因果链（偷—交—升官），把博物馆的道德光环扒得一干二净。fledgling（刚出窝的雏鸟）形容建馆初期的 Met，又嫩又狠。
 
 **读者视角提示：** needling（作者原词：She couldn't help needling him）——这句是故意扎人的，不是查案必需；读出 Charlotte 被逼急后的攻击性，她平时不这样说话。
 
