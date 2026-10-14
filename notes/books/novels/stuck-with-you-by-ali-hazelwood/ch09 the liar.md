@@ -7,11 +7,11 @@ modified: "2026-10-14"
 
 ## 本章导航
 
-**一句话概括**：Erik 解释"性不是好"是谎言（他害怕搞砸），Sadie 指责他是骗子——"你利用我从 GreenFrame 偷客户"。
+**一句话概括**：Sadie 先问"Did you really think the sex wasn't good?"，Erik 否认，转而讲出三周前的心动与当夜（"the idea of screwing this up terrifies me"）；Sadie 回以"I despise you"、骂他是"a liar"，最后点破真正的指控——"used me to steal clients from GreenFrame"。
 
 **情感弧线位置**：冲突/真相——Present 时间线，两人从误解到对峙，Erik 的脆弱与 Sadie 的愤怒构成情感核心。
 
-**Tropes 兑现/反转**：misunderstanding（"Did you really think the sex wasn't good?"）/ 误会驱动（Erik 的谎言是自我保护）/ 双时间线（Present 的回忆）/ 背叛指控（"used me to steal clients"）。
+**Tropes 兑现/反转**：misunderstanding（"Did you really think the sex wasn't good?" 与实际的"偷客户"指控完全错位）/ 误会驱动（两人各说各话，Erik 以为她在为性生气）/ 双时间线（Present 的回忆）/ 背叛指控（"used me to steal clients"）。
 
 **人物弧光**：Sadie 展现为愤怒（"I despise you"）、直接（"Because you are a liar"）、受伤（"you used me"）；Erik 展现为脆弱（"I want to take it slow because the idea of screwing this up terrifies me"）、坦诚（"I have zero self-control when it comes to her"）、受伤（"And I don't hear from her. Never again."）。
 
@@ -37,7 +37,7 @@ modified: "2026-10-14"
 
 **关键词**：the sex wasn't good
 
-**为什么这样写**："Did you really think the sex wasn't good?"（你真的认为性不好吗？）是 Sadie 问 Erik 的"史上最蠢问题"——她本来要质问他为什么毁了她的生活，却先问了这个问题；这个问题的力量在于它的荒谬：它暴露了 Sadie 的不安（她需要确认自己不是"不够好"），也暴露了 Erik 的谎言（他明明说"好"）。
+**为什么这样写**："Did you really think the sex wasn't good?"（你真的认为性不好吗？）是 Sadie 问 Erik 的"史上最蠢问题"——她本来要质问他为什么毁了她的生活，却先问了这个问题；这个问题的力量在于它的荒谬：它暴露了 Sadie 的不安（她需要确认自己不是"不够好"），也暴露了两人各说各话的错位——ch07 里 Erik 的原话是"I liked it, Sadie. A lot. So much so that I completely misread your signals and didn't realize that you didn't."（他以为她没享受），而 Sadie 却把这听成了对她表现的评判。
 
 ---
 
@@ -145,4 +145,4 @@ modified: "2026-10-14"
 
 ## 一句话总结
 
-Erik 解释"性不是好"是谎言（他害怕搞砸），Sadie 指责他是骗子——"你利用我从 GreenFrame 偷客户"。
+Erik 否认自己觉得"性不好"（"I obviously didn't."），转而讲出三周前的心动与当夜；Sadie 回以"I despise you"，指控他"used me to steal clients from GreenFrame"。
