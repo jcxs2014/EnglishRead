@@ -77,7 +77,7 @@ modified: "2026-10-14"
 
 > **原句 6:** "“I don’t. But at least now they know we’re here.” She helps me to my feet. “I’d rather be despised than ignored.”"
 
-**中文理解**：「我不怕。但至少现在他们知道我们在这儿了。」她把我扶起来。「我宁可被憎恨，也不愿被无视。」
+**中文理解**：「我倒不这么觉得。但至少现在他们知道我们在这儿了。」她把我扶起来。「我宁可被憎恨，也不愿被无视。」
 
 **关键词**：know we’re here / despised / ignored
 

@@ -77,7 +77,7 @@ modified: "2026-10-14"
 
 > **原句 6:** "“And nobody tells them what to say. That bird is who I want to be when I grow up. Someone who says whatever they think is right, no matter what.”"
 
-**中文理解**：而且没有人教它们该说什么。那只鸟就是他想成为的样子：一个不论如何都说出自己认为是正确的话的人。
+**中文理解**：而且没有人教它们该说什么。那只鸟就是她想成为的样子：一个不论如何都说出自己认为是正确的话的人。
 
 **关键词**：grow up / whatever they think / no matter what
 

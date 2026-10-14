@@ -7,7 +7,7 @@ modified: "2026-10-14"
 
 ## 本章导航
 
-- **一句话概括**：Haymitch 家不做生日蛋糕——Ma 把攒了几个月的甜点力气全留给元旦的 "stack cake"；Capitol 却送来插蜡烛的蛋糕、让 Tibby 领着 Peacekeeper 唱生日歌，还派 Plutarch 的摄影师偷拍他的反应，他想砸蛋糕，最后「go all Maysilee Donner」转身走开；Drusilla 嘲讽 Louella 的 gingham 裙，Maysilee 反唇相讥、被扇耳光后当场扇回去，又挨了一顿 "riding crop"；夜里 Louella 摊开 Wyatt 是 Booker Boy 家儿子的底细，火车进站时 District 1 的 Panache Barker 一拳打碎车窗，Wyatt 用赌徒口吻报出他的赔率。
+- **一句话概括**：Haymitch 家不做生日蛋糕——Ma 把攒了几个月的甜点力气全留给元旦的 "stack cake"；Capitol 却送来插蜡烛的蛋糕、让 Tibby 领着 Peacekeeper 唱生日歌，还派 Plutarch 的摄影师偷拍他的反应，他想砸蛋糕，最后「go all Maysilee Donner」转身走开；Drusilla 嘲讽 Louella 的 gingham 裙，Maysilee 反唇相讥、被扇耳光后当场扇回去，又挨了一顿 "riding crop"；夜里 Louella 摊开 Wyatt 是 Booker Boy 家儿子的底细，火车进站时 District 1 一名殿后的男贡品一脚踹碎车窗，Wyatt 随即用赌徒口吻报出 Panache Barker 的赔率。
 - **情感弧线位置**：上升段（escalation）。开篇用「家里没有生日蛋糕」把匮乏写成规矩，随即让 Capitol 的蛋糕、掌声与镜头闯进来；车厢内的耳光与鞭打把冲突从「拒绝一块蛋糕」推到「当着 Peacekeeper 的面动手」，最后以 Wyatt 的赔率台词收束——这一天结束在「被标价」的感觉里。
 - **Tropes 兑现/反转**：反乌托邦的「假恩惠」桥段（tribute 被当作 pampered pets 招待，用来拍摄 propaganda）；「弱势者当众反击强者」的爽感桥段被作者用鞭打与「we have to put her on camera tomorrow」立刻打折；「神秘的潜在叛徒」以 Booker Boy 之子的身份落在 Wyatt 身上。反转在于：本该属于主角的生日祝福被 Capitol 抢去当宣传素材，而 Haymitch 的抵抗方式不是砸蛋糕，是拒绝入镜。
 - **人物弧线**：Haymitch 从「I could knock the cake to the ground, hawk and spit on it」的冲动，走到「go all Maysilee Donner」的克制——他第一次把别人的做派当成自己的武器，也第一次在车厢里明确只要 Louella 一个盟友。Maysilee 完成从「被嘲笑的对象」到「不肯被拍的人」的转变：她被扇耳光后立刻还手，挨了鞭子还能反唇相讥。Plutarch 则在「送蛋糕的恩人」与「替 Drusilla 求情的说客」之间来回切换。
@@ -158,7 +158,7 @@ modified: "2026-10-14"
 
 ## 一句话总结
 
-Chapter 4 把 Haymitch 送上一列开往 Capitol 的火车：Capitol 送来蛋糕与生日歌想拍下他的感激，他用「go all Maysilee Donner」的转身拒绝入镜；车厢里 Maysilee 与 Drusilla 从一句嘲讽升级到耳光与 "riding crop"，Plutarch 用「别把这座桥烧掉」替这位 "escort" 求情；夜里 Louella 摊开 Wyatt 的 Booker Boy 家底，Haymitch 决定只要她一个盟友；天亮后他望着陌生的群山想象家里的酿造、搓洗与打水，最后在车站看着 District 1 的 Panache Barker 一拳打碎车窗，听 Wyatt 用赌徒的口吻报出赔率——「You might not want me, but it’s a sure bet you need me.」
+Chapter 4 把 Haymitch 送上一列开往 Capitol 的火车：Capitol 送来蛋糕与生日歌想拍下他的感激，他用「go all Maysilee Donner」的转身拒绝入镜；车厢里 Maysilee 与 Drusilla 从一句嘲讽升级到耳光与 "riding crop"，Plutarch 用「别把这座桥烧掉」替这位 "escort" 求情；夜里 Louella 摊开 Wyatt 的 Booker Boy 家底，Haymitch 决定只要她一个盟友；天亮后他望着陌生的群山想象家里的酿造、搓洗与打水，最后在车站看着 District 1 一名殿后的男贡品一脚踹碎车窗，听 Wyatt 用赌徒的口吻报出 Panache Barker 的赔率——「You might not want me, but it’s a sure bet you need me.」
 
 ---
 
