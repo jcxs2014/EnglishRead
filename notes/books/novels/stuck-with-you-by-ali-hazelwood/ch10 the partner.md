@@ -9,7 +9,7 @@ modified: "2026-10-14"
 
 **一句话概括**：Gianna 揭露 Erik 是 ProBld 创始合伙人，Sadie 意识到自己可能泄露了 Milton 项目信息，GreenFrame 最终失去该项目。
 
-**情感弧线位置**：背叛/幻灭——「三周前」时间线，Sadie 从幸福到怀疑到崩溃，Erik 的隐瞒成为情感转折点。
+**情感弧线位置**：背叛/幻灭——「两周零六天前」时间线（原文标签 `Two weeks, six days ago`），Sadie 从幸福到怀疑到崩溃，Erik 的隐瞒成为情感转折点。
 
 **Tropes 兑现/反转**：betrayal（Erik 隐瞒身份）/ 信息泄露（Sadie 无意中泄露）/ 商业间谍（ProBld 挖角）/ 信任危机（"Am I work to him?"）。
 

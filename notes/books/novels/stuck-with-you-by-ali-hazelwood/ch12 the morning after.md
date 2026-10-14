@@ -9,7 +9,7 @@ modified: "2026-10-14"
 
 **一句话概括**：Sadie 与朋友 Mara 和 Hannah 在 Zoom 上讨论 Erik，意识到自己反应过度。Erik 出现在她家门口，两人和解。
 
-**情感弧线位置**：和解/决定——「三周前」时间线，Sadie 从自我怀疑到决定面对，Erik 从等待到主动出现。
+**情感弧线位置**：和解/决定——电梯事件之后（本章无时间标签，属 Present 线延续），Sadie 从自我怀疑到决定面对，Erik 从等待到主动出现。
 
 **Tropes 兑现/反转**：misunderstanding（误解）/ reconciliation（和解）/ grand gesture（大动作）/ one-night stand（一夜情）。
 
