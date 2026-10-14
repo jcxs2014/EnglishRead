@@ -75,15 +75,15 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-14 15:11 UTC] [DSH-Mac] → All
 
-精读完工 + 五步审查完成：**Sunrise on the Reaping**（Suzanne Collins）（用户 m01752 发起，同会话执行 a–e 全跑）。产出 `notes1/books/novels/sunrise-on-the-reaping-by-suzanne-collins/`（本书目录 2026-10-14 随全库 `notes/`→`notes1/` 滚动切割迁移，内容逐文件 sha256 与迁移前一致）：27 章 + Epilogue 共 28 个 md（224 个引语块，每章 8 处）、780 条词汇；总览 `00_概述.md` / `00_金句精选.md`（25 条）/ `00_情感节点.md`（10 节点），模板按书隔离在 `.overview_templates/`。lane：完整 lane。
-- 完工终验（gate.sh）：**正门 0 条阻断型，退出码 0**。verify_quotes 249/249（100%，29/29 干净）；verify_overview_quotes 56/56；check_vocab 780 条 FAIL 0（WARN 22 全为「基础档疑含超纲词」≥9 字符启发式，提示型只记不改）；check_entities 0；corruption_scan FAIL 0；sweep_full 223/0/1/0；verify_corpus PASS（`--expect 28` 来源 toc.xhtml）；件数对账 28 md == 28 text 件。
-- 总览自检：三篇由 `gen_overview.py` 从已核实引语池程序化生成（零手打英文）、无残留占位符；说话人/关系/结局/因果靠人工逐条 grep 取证（门禁对这类零覆盖），修掉 6 处事实错。
-- **审查 a 步**：全部门禁从本机重跑（不采信此前数字），结论同上；加跑 check_short_quotes 0 · check_overview_full A143/B 不符 0。**b 步**：`check_chapter_quotes <NN> <md> --out-dir text/` 1–28 逐章 ⇒ 28/28 全绿（每章 8/8）。⚠️ 教训：`--book-dir` 给的是全书聚合值，不得替代逐章口径。**c 步**（换实现）：`check_struct_indep` 28 md 缺陷 0，**投毒测试通过**（删 ch01 一条 `**关键词**` 后正确报缺陷 1 ⇒ 非死代码）。**d 步**：`check_analysis_indep` 132 条全逐字命中；`check_xref_indep` 187 处引用、英文证据报警 0（投毒测试通过）——**187 处全在总览三篇，正文 28 章各 0 处**。**e 步**：总览层逐条回 text/ 核。
-- **审查结论：独立缺陷 69 条（正文 55 + 总览 14）**，全部已整改或已判定；**假红型 0**。**落地 108 处行级修改**：正文 md **69 行**（23 章）· 总览成品 21 行 · 总览模板 18 行（`git diff --numstat a90527b28 HEAD` 实测）。⚠️ **计数更正**：首版「阻断型 48（e 步 14 + d 步 34）· 提示型 9 · 62 处行级修改（模板 17 + 正文 45）」未逐条对账——子代理自报合计 39、脚本条目 53、diff 行数 108 三口径互不相等，其中「正文 45」把行数算少（实 69）。现按 `difflib.SequenceMatcher` 对每对删/增行取**最小差异段**去重枚举重算；表中「阻断/提示」的边界条目为审查方裁定，逐条清单见工作日志。整改全走脚本并逐条断言 `count(old)==1`，任一不匹配整体 abort（首次 dry-run 即拦下一条不符、未写盘）；改完立刻跑 corruption_scan（FAIL 0）与 verify_quotes（总数不变）。
-- 总览层改法（关键）：三篇由 `gen_overview.py` 生成 ⇒ **必须改模板再重生成**，直接改成品会被下次生成覆盖。
-- commits：写作期 `83b6ff570` `3b5d8c89a` `bb64da36e` `73f251df8` `6d006033d` `a90527b28`；审查期 `49878663f` `987e377f6` `b1a1ea7c2` `4ed698d28` `472949150`（全部 pathspec，未裹挟他实例文件）。门禁原件 `raw-gates/sunrise-on-the-reaping-by-suzanne-collins/` 共 9 件（写作期 7 + 审查期 2）。**未 push**。
-- 顺带修工具（假红型，先行提交）：`scripts/sweep_analysis_inline.py` 对无 `chNN` 文件名落 `-1`，被 `text/` 非章节件冒占 ⇒ 总览每条引语误报跨章（本书 89 条、The Disappearers 22 条），已修 `76e8adbe8`。
-- **已知盲区（同会话审查，如实标注）**：① 审查方＝执行方同一实例，防自盲只靠换实现 + 子代理逐块核对，**无独立第三方复核**；② 三个 `*_indep.py` **各只在本库 1 本书上验证过**；③ 说话人正确性已实测不可靠机械化（全库 315 本仅 1 条真缺陷、约 1/3 假阳），靠人判 + 附反例，仍可能漏网；④ d 步 5 支子代理中 3 支耗尽上下文无收尾报告，其章节由主会话与另两支补齐，**交接处有覆盖密度差**。
+精读完工 + 五步审查完成：**Sunrise on the Reaping**（Suzanne Collins）（m01752 发起，同会话跑 a–e）。产出 `notes1/books/novels/sunrise-on-the-reaping-by-suzanne-collins/`：27 章 + Epilogue 共 28 md（224 引语块，每章 8 处）、780 词汇；总览 `00_概述.md`/`00_金句精选.md`（25 条）/`00_情感节点.md`（10 节点），模板按书隔离在 `.overview_templates/`。完整 lane。
+- 完工终验 `gate.sh`：**正门 0 条阻断型**。verify_quotes 249/249（29/29 干净）· verify_overview_quotes 56/56 · check_vocab 780 条 FAIL 0（WARN 22 全为「基础档疑含超纲词」启发式）· check_entities 0 · corruption_scan FAIL 0 · sweep_full 223/0/1/0 · verify_corpus PASS（`--expect 28` 来源 toc.xhtml）· 件数 28 md == 28 text。总览三篇由 `gen_overview.py` 从已核实池生成（零手打英文）。
+- **审查 a 步**门禁全量重跑（不采信此前数字）⇒ 结论同上；check_short_quotes 0 · check_overview_full A143/B 不符 0。**b 步** `check_chapter_quotes <NN> --out-dir text/` 1–28 逐章 ⇒ 28/28 全绿（⚠️ `--book-dir` 给全书聚合值，不得替代逐章）。**c 步** `check_struct_indep` 缺陷 0 + **投毒测试通过**。**d 步** `check_analysis_indep` 132 条全逐字命中 · `check_xref_indep` 187 处报警 0（投毒通过）——**187 处全在总览三篇，正文 28 章各 0 处**。**e 步**总览层逐条回 `text/` 核（门禁对此零覆盖）。
+- **审查结论：独立缺陷 69 条（正文 55 + 总览 14）**，全部已整改或已判定；**假红型 0**。**落地 108 处行级修改**（正文 md 69 行/23 章 · 总览成品 21 行 · 模板 18 行，`git diff --numstat` 实测）。⚠️ **计数更正**：首版「阻断型 48 · 提示型 9 · 62 处（正文 45）」未逐条对账（子代理自报 39、脚本 53、diff 108 三口径互不相等），已按 `difflib` 最小差异段重算；逐条清单见表工作日志。整改全走脚本 + 逐条断言 `count(old)==1`，改完即跑 corruption_scan 与 verify_quotes。
+- **总览层改法（关键）**：三篇由 `gen_overview.py` 生成 ⇒ **必须先改模板再重生成**，直接改成品会被覆盖。
+- commits：写作期 `83b6ff570` `3b5d8c89a` `bb64da36e` `73f251df8` `6d006033d` `a90527b28`；审查期 `49878663f` `987e377f6` `b1a1ea7c2` `4ed698d28` `472949150`（pathspec 模式，未裹挟他实例）· 报告订正 `082a0af45` · `e36e90e18`。原件 `raw-gates/sunrise-on-the-reaping-by-suzanne-collins/` 9 件（写作 7 + 审查 2）。**未 push**。
+- **目录迁移（如实记录）**：本书随全库 `notes/`→`notes1/` 滚动切割迁移（`e7c0cb628`，302 本）——逐文件 sha256 与前身**差异 0**（纯 rename），迁移后在新路径重跑 gate（0 阻断型）与 verify_quotes（249/249）。
+- 顺带修工具（假红型先行）：`scripts/sweep_analysis_inline.py` 对无 `chNN` 文件名落 `-1`、被 `text/` 非章节件冒占 ⇒ 总览每条引语误报跨章（本书 89 条、The Disappearers 22 条），已修 `76e8adbe8`。
+- **已知盲区**：① 审查方＝执行方同一实例，防自盲只靠换实现 + 子代理逐块核对，**无独立第三方**；② 三个 `*_indep.py` **各只在 1 本书上验证过**；③ 说话人正确性实测不可靠机械化（全库 315 本仅 1 条真缺陷、约 1/3 假阳），靠人判，仍可能漏网；④ d 步 5 支子代理中 3 支耗尽上下文无收尾报告，**交接处有覆盖密度差**。
 
 ### [2026-10-14 00:00 UTC] [ZCode-Mac] → All
 
