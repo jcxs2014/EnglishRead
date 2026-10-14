@@ -27,7 +27,7 @@ modified: "2026-10-14"
 
 **为什么这样写**：这是 Mary 的内心独白——在纠结该叫 Wayne 什么时，她用了一个美式口语表达 `Split the difference`（各让一步），然后 Wayne 这个名字就被戏仿成了 `Dwayne`。这个笑话暴露了 Mary 的防御机制：用幽默来缓解极端的焦虑。同时 `Dwayne` 这个变形暗示了 Mary 对"父亲"这个角色的疏离——她还在用文字游戏保持距离，而非直接面对。
 
-**读者视角提示**：这是 Mary 第二次用自嘲式幽默应对困境（ch02 用过 `I’m a nobody, with no name, and a stranger’s face`）。注意她的幽默永远指向自己——这是一种控制感缺失下的自我保护。
+**读者视角提示**：这是 Mary 第二次用自嘲式幽默应对困境（ch02 用过 `I’m basically a character from a teen horror movie.`）。注意她的幽默永远指向自己——这是一种控制感缺失下的自我保护。
 
 > **原句 2:** "But climbing into a van with a stranger still feels like a red flag, even if he is my dad."
 
@@ -45,7 +45,7 @@ modified: "2026-10-14"
 
 **关键词**：knots（纠结，使紧张）、can’t pick a side（选不了边）、Wayne? Dad?（名字之问）
 
-**为什么这样写**：这是 Mary 在车上的内心独白，用了**三项排比**来呈现情绪的不可调和：`grateful / terrified` / `relieved / unsettled` / `happy and lost`。每一组都是反义词并列。`knots` 这个动词把情绪身体化——纠结不是一个抽象概念，而是一个胃部的物理感觉。`I can’t pick a side` 用了一个美式俚语，暗示情绪的"内耗"像一场选边站的比赛。最后 `Wayne? Dad?` 用问号悬置——她无法决定称呼，因为称呼意味着关系定义。
+**为什么这样写**：这是 Mary 在警局外停车场、上车之前的内心独白，用了**三项排比**来呈现情绪的不可调和：`grateful / terrified` / `relieved / unsettled` / `happy and lost`。每一组都是反义词并列。`knots` 这个动词把情绪身体化——纠结不是一个抽象概念，而是一个胃部的物理感觉。`I can’t pick a side` 用了一个美式俚语，暗示情绪的"内耗"像一场选边站的比赛。最后 `Wayne? Dad?` 用问号悬置——她无法决定称呼，因为称呼意味着关系定义。
 
 **读者视角提示**：这种"什么都对，但什么都不对"的感受是失忆者特有的——正常人的情感反应是有参照系的，而 Mary 的每一个感受都悬浮在空中。
 

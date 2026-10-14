@@ -25,7 +25,7 @@ modified: "2026-10-14"
 
 **关键词**：murderer（杀人犯，凶手）
 
-**为什么这样写**：全章第三行，独立成段——**四个词，主系表结构**。前两行用 Rain starts falling 和 Nothing can undo this 铺垫情绪，然后这句以**判决式的简洁**落地。作者不用「他杀了 Ben Hooper」这样的叙述句，而是用一个**名词定性**——`murderer` 是一个标签，一旦贴上就撕不掉。这句话把 Mary 从"怀疑"推向"确认"。
+**为什么这样写**：全章第五段，独立成段——**四个词，主系表结构**。前面几段用 `Rain starts falling` / `Nothing can undo this.` / `Wayne killed Ben Hooper.` / `He sent me inside the house, and he killed him.` 层层递进，然后这句以**判决式的简洁**落地。作者不用「他杀了 Ben Hooper」这样的叙述句，而是用一个**名词定性**——`murderer` 是一个标签，一旦贴上就撕不掉。这句话把 Mary 从"怀疑"推向"确认"。
 
 **读者视角提示**：这是全书的**认知转折点**——Wayne 从"可能认错女儿的人"变成"杀人犯"。读者应当记住这个瞬间：**Mary 不再是在逃避一个错误，而是在逃避一个杀手。**
 

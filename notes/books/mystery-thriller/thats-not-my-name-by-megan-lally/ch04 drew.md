@@ -45,7 +45,7 @@ modified: "2026-10-14"
 
 **关键词**：would never have（绝不会）、waited（等待）、cooperating with the police（配合警察）、I don’t know you at all（我完全不认识你了）
 
-**为什么这样写**：Mr. Scott 用**三个 `would never`** 排比，把 Drew 的"过去自我"和"现在"切割开来。每一句都指向 Drew 被指控的具体行为（leave her alone / didn’t call / 不配合）。最后一句 `I don’t know you at all` 是终极否定——不是"你变了"，而是"我从未认识你"。`at all` 加重了这种切割的彻底性。这段话之所以对 Drew 造成毁灭性打击，是因为说话者是一个他尊敬的人，而且每一句都是事实。
+**为什么这样写**：Mr. Scott 用**一组否定式排比**（`would never` 与 `wouldn’t` 交替），把 Drew 的"过去自我"和"现在"切割开来。每一句都指向 Drew 被指控的具体行为（leave her alone / didn’t call / 不配合）。最后一句 `I don’t know you at all` 是终极否定——不是"你变了"，而是"我从未认识你"。`at all` 加重了这种切割的彻底性。这段话之所以对 Drew 造成毁灭性打击，是因为说话者是一个他尊敬的人，而且每一句都是事实。
 
 **读者视角提示**：读者需要注意：Mr. Scott 列出的三项都是**检方会用来起诉的证据**，不是猜测。他的判断既是情感上的（丧女之痛），也是事实上的（Drew 确实有嫌疑行为）。
 
@@ -55,7 +55,7 @@ modified: "2026-10-14"
 
 **关键词**：For god’s sake（看在老天份上）、fucking（该死的，加强语气）、Just tell me（告诉我）
 
-**为什么这样写**：这是 Mrs. Scott 在整章中唯一一句台词——它由三个情感层次组成：祈求（`For god’s sake`）→ 强调（`She’s my fucking child!`，其中 `fucking` 在此处是母亲对失去女儿的痛苦强化）→ 乞求（`Just tell me`）。`fucking` 这个词在全书中极少出现，这里的使用标记了情感的极端状态——一个母亲已经放弃了礼貌和克制。`Just` 的重复使用（`Just tell me`）把请求压缩到最小，像是在乞讨。
+**为什么这样写**：这是 Mrs. Scott 在本章最激烈的一句台词——它由三个情感层次组成：祈求（`For god’s sake`）→ 强调（`She’s my fucking child!`，其中 `fucking` 在此处是母亲对失去女儿的痛苦强化）→ 乞求（`Just tell me`）。`fucking` 这个词在全书中极少出现，这里的使用标记了情感的极端状态——一个母亲已经放弃了礼貌和克制。`Just` 的重复使用（`Just tell me`）把请求压缩到最小，像是在乞讨。
 
 **读者视角提示**：Mrs. Scott 的崩溃和 Mr. Scott 的 `hollow` 形成对照——同为父母，一个向内塌陷，一个向外爆发。Drew 此刻没有回答的能力（`I can’t make a single word form on my lips`）。
 
@@ -75,7 +75,7 @@ modified: "2026-10-14"
 
 **关键词**：Hijito（西班牙语：孩子）、found a body（找到了尸体）
 
-**为什么这样写**：这是全书至今最短的段落之一——只有四个词（其中 `Hijito` 是西班牙语昵称）。它被三个可能的假设所包围（`Lola called from…California, Florida, Vegas, somewhere.` / `She ran away and she’s never coming home` / `Lola’s in the hospital` / `Lola’s kidnappers came forward with a ransom`），最终落到最坏的一个。`Hijito` 是 Drew 的 Papá 对他的称呼——这个昵称的使用让噩耗变得更加亲密和残酷。`a body` 而非 `her body` 保持了一定的距离感，暗示尸体身份尚未确认——但对读者而言，结合前文的搜索，这是确认性的。Drew 的反应是 `I turn and hurl into the trash can`——身体在意识消化信息之前就做出了反应。
+**为什么这样写**：这是全书至今最短的段落之一——五个词（其中 `Hijito` 是西班牙语昵称）。它被一串可能的假设所包围（`Lola called from…California, Florida, Vegas, somewhere.` / `She ran away and she’s never coming home` / `Lola’s in the hospital` / `Lola’s kidnappers came forward with a ransom`），最终落到最坏的一个。`Hijito` 是 Drew 的 Papá 对他的称呼——这个昵称的使用让噩耗变得更加亲密和残酷。`a body` 而非 `her body` 保持了一定的距离感，暗示尸体身份尚未确认——但对读者而言，结合前文的搜索，这是确认性的。Drew 的反应是 `I turn and hurl into the trash can`——身体在意识消化信息之前就做出了反应。
 
 **读者视角提示**：这是 ch04 的 cliffhanger——"body" 是否就是 Lola？Drew 的呕吐既是身体反应，也是某种意义上的"净化"。从叙事结构上看，这句话把 Drew 从"寻找者"变成了"被告知者"——他失去了主动权。
 

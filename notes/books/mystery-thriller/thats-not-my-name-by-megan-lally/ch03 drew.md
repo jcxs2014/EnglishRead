@@ -45,7 +45,7 @@ modified: "2026-10-14"
 
 **关键词**：remains（遗骸，而非尸体）
 
-**为什么这样写**：全章最重的一句，**只有六个词**。前面用三个短段铺垫（`They’re not looking for Lola.` / `They’re looking for her remains.` / `It feels like the fliers in my hands are about to burst into flames.`），层层收窄。`remains` 而非 `body` 更冷、更官方——这个词一出现，性质就从"搜救"变成了"收尸"。
+**为什么这样写**：全章最重的一句，短到不能再短。前面用三个短段铺垫（`They’re not looking for Lola.` / `They’re looking for her remains.` / `It feels like the fliers in my hands are about to burst into flames.`），层层收窄。`remains` 而非 `body` 更冷、更官方——这个词一出现，性质就从"搜救"变成了"收尸"。
 
 **读者视角提示**：这是全书第一个"死亡"信号。注意作者紧接着插入 Max 关于 hilachas（危地马拉炖菜）的闲聊——**用日常的荒谬反衬噩耗**，是本书常用的手法。
 

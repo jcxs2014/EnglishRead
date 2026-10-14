@@ -1,0 +1,205 @@
+=== 五步审查门禁原件 2026-10-14 20:49 UTC ===
+
+--- lane ---
+完整 lane
+
+--- a 第3条门禁 ---
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 13/13 ✅（另有 1 条短引语未校验）
+ch01 girl.md: 2/2 ✅（另有 4 条短引语未校验）
+ch02 girl.md: 6/6 ✅
+ch03 drew.md: 6/6 ✅
+ch04 drew.md: 6/6 ✅
+ch05 mary.md: 6/6 ✅
+ch06 mary.md: 5/5 ✅（另有 1 条短引语未校验）
+ch07 drew.md: 6/6 ✅
+ch08 drew.md: 3/3 ✅（另有 3 条短引语未校验）
+ch09 mary.md: 6/6 ✅
+ch10 mary.md: 6/6 ✅
+ch11 drew.md: 6/6 ✅
+ch12 drew.md: 5/5 ✅（另有 1 条短引语未校验）
+ch13 mary.md: 6/6 ✅
+ch14 mary.md: 6/6 ✅
+ch15 drew.md: 6/6 ✅
+ch16 drew.md: 6/6 ✅
+ch17 mary.md: 4/4 ✅（另有 2 条短引语未校验）
+ch18 mary.md: 5/5 ✅（另有 1 条短引语未校验）
+ch19 drew.md: 5/5 ✅（另有 1 条短引语未校验）
+ch20 drew.md: 5/5 ✅（另有 1 条短引语未校验）
+ch21 mary.md: 6/6 ✅
+ch22 drew.md: 5/5 ✅（另有 1 条短引语未校验）
+ch23 mary.md: 4/4 ✅（另有 2 条短引语未校验）
+ch24 drew.md: 6/6 ✅
+ch25 mary.md: 5/5 ✅（另有 1 条短引语未校验）
+ch26 drew.md: 4/4 ✅（另有 2 条短引语未校验）
+ch27 mary.md: 2/2 ✅（另有 4 条短引语未校验）
+ch28 drew.md: 5/5 ✅（另有 1 条短引语未校验）
+ch29 madison.md: 3/3 ✅（另有 3 条短引语未校验）
+ch30 epilogue.md: 4/4 ✅（另有 2 条短引语未校验）
+
+⚠️ 全书共 31 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 163/163 引文可核实（100%）；完全干净文件 31/31；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 163/163 引文可核实（100%）；完全干净文件 31/31；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+词条行合计: 489
+
+--- FAIL (0) ---
+
+--- WARN (28) ---
+  ch01 girl.md [基础] 基础档疑含超纲词「headlights」
+  ch01 girl.md [基础] 基础档疑含超纲词「paramedics」
+  ch03 drew.md [基础] 基础档疑含超纲词「girlfriend」
+  ch03 drew.md [基础] 基础档疑含超纲词「volunteer」
+  ch08 drew.md [基础] 基础档疑含超纲词「epic stupidity」
+  ch09 mary.md [基础] 基础档疑含超纲词「breakfast dishes」
+  ch12 drew.md [基础] 基础档疑含超纲词「anxiously」
+  ch16 drew.md [基础] 基础档疑含超纲词「nightstand」
+  ch16 drew.md [基础] 基础档疑含超纲词「neighborhood」
+  ch16 drew.md [基础] 基础档疑含超纲词「toothbrush」
+  ch17 mary.md [基础] 基础档疑含超纲词「microphone」
+  ch17 mary.md [基础] 基础档疑含超纲词「homecoming」
+  ch17 mary.md [基础] 基础档疑含超纲词「heartbeats」
+  ch18 mary.md [基础] 基础档疑含超纲词「breakfast」
+  ch18 mary.md [基础] 基础档疑含超纲词「nightstand」
+  ch19 drew.md [基础] 基础档疑含超纲词「determination」
+  ch20 drew.md [基础] 基础档疑含超纲词「complaints」
+  ch20 drew.md [基础] 基础档疑含超纲词「girlfriend」
+  ch24 drew.md [高级] 高级档混入常用词「one-of-a-kind」
+  ch24 drew.md [基础] 基础档疑含超纲词「statement」
+  ch26 drew.md [高级] 高级档混入常用词「one-of-a-kind」
+  ch26 drew.md [基础] 基础档疑含超纲词「happening」
+  ch26 drew.md [基础] 基础档疑含超纲词「sweatshirt」
+  ch29 madison.md [基础] 基础档疑含超纲词「underneath」
+  ch29 madison.md [基础] 基础档疑含超纲词「windowsill」
+  ch30 epilogue.md [基础] 基础档疑含超纲词「graduation」
+  ch30 epilogue.md [基础] 基础档疑含超纲词「meaningful」
+  ch30 epilogue.md [基础] 基础档疑含超纲词「overprotective」
+
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+
+=== 编辑损坏扫描（thats-not-my-name-by-megan-lally）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== 引语整串 flat 比对（thats-not-my-name-by-megan-lally）===
+  参照集：text/ 逐章（30 章，可定章） + epub 交叉验证
+  ✅ 本章命中 150 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 30 条归 check_short_quotes；无章可对 0 条未判）
+
+--- b 逐章归属 ---
+ch01 girl.md: 2/2 in ch01 text（另有 4 条短引语未校验）
+ch02 girl.md: 6/6 in ch02 text
+ch03 drew.md: 6/6 in ch03 text
+ch04 drew.md: 6/6 in ch04 text
+ch05 mary.md: 6/6 in ch05 text
+ch06 mary.md: 5/5 in ch06 text（另有 1 条短引语未校验）
+ch07 drew.md: 6/6 in ch07 text
+ch08 drew.md: 3/3 in ch08 text（另有 3 条短引语未校验）
+ch09 mary.md: 6/6 in ch09 text
+ch10 mary.md: 6/6 in ch10 text
+ch11 drew.md: 6/6 in ch11 text
+ch12 drew.md: 5/5 in ch12 text（另有 1 条短引语未校验）
+ch13 mary.md: 6/6 in ch13 text
+ch14 mary.md: 6/6 in ch14 text
+ch15 drew.md: 6/6 in ch15 text
+ch16 drew.md: 6/6 in ch16 text
+ch17 mary.md: 4/4 in ch17 text（另有 2 条短引语未校验）
+ch18 mary.md: 5/5 in ch18 text（另有 1 条短引语未校验）
+ch19 drew.md: 5/5 in ch19 text（另有 1 条短引语未校验）
+ch20 drew.md: 5/5 in ch20 text（另有 1 条短引语未校验）
+ch21 mary.md: 6/6 in ch21 text
+ch22 drew.md: 5/5 in ch22 text（另有 1 条短引语未校验）
+ch23 mary.md: 4/4 in ch23 text（另有 2 条短引语未校验）
+ch24 drew.md: 6/6 in ch24 text
+ch25 mary.md: 5/5 in ch25 text（另有 1 条短引语未校验）
+ch26 drew.md: 4/4 in ch26 text（另有 2 条短引语未校验）
+ch27 mary.md: 2/2 in ch27 text（另有 4 条短引语未校验）
+ch28 drew.md: 5/5 in ch28 text（另有 1 条短引语未校验）
+ch29 madison.md: 3/3 in ch29 text（另有 3 条短引语未校验）
+ch30 epilogue.md: 4/4 in ch30 text（另有 2 条短引语未校验）
+
+--- b 短引语兜底 ---
+=== 短引语兜底核对（thats-not-my-name-by-megan-lally）===
+  verify_quotes 跳过（<20 flat 字符）的引语：32 条 —— 这些主门禁**根本没查**
+  ✅ 命中 32 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+--- c 结构（双实现）---
+=== 精读结构扫描（thats-not-my-name-by-megan-lally）===
+  扫 33 个 md、226 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 6
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== 独立结构扫描：30 个 md，缺陷 0 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+
+--- d 机械子项 ---
+=== 关键词锚定自查（thats-not-my-name-by-megan-lally）===
+  扫 33 个 md，180 个引语块，180 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（31 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+  ⚪ 00_情感节点.md:20  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ 00_情感节点.md:62  「十五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ 00_概述.md:12  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ 00_概述.md:17  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ 00_概述.md:31  「十五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ 00_金句精选.md:31  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ 00_金句精选.md:52  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch02 girl.md:10  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch02 girl.md:64  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch06 mary.md:74  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch15 drew.md:58  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch30 epilogue.md:38  「十八岁」年龄/百分比类，文本层推不出真值，只列出待人核
+
+交叉引用核对：1 对，报警 0
+
+=== chNN 引用 204 处：英文证据报警 0 处 ／ 中文式待人判 103 处 ／ 🔶 同章省略号拼接（提示，不判红）0 处 ===
+
+=== 跨章引用：章号+短语/POV 命中 30 / 错 0 / POV 错 0 ===
+
+=== 分析层行内英文逐字核查（thats-not-my-name-by-megan-lally）===
+  参照集：text/（31 个提取件） + epub 交叉验证 ；扫 33 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：669 个表格行、473 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 978 ｜ ⚠️ 跨章 30 ｜ 🔶 拼接 2 ｜ 🟠 部分命中 2 ｜ 🟡 词形 2 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 493
+
+抽出分析层英文片段 111 条
+❌ 未命中 4 条：
+  ch03 drew.md:14  wrongly suspected boyfriend
+      未命中词: ['wrongly']
+  ch07 drew.md:14  wrongly suspected boyfriend
+      未命中词: ['wrongly']
+  ch11 drew.md:14  wrongly suspected boyfriend
+      未命中词: ['wrongly']
+  ch15 drew.md:14  wrongly suspected boyfriend
+      未命中词: ['wrongly']
+
+--- e 总览 ---
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 15/15 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 18/18 ✅
+
+=== 总览引文 33/33 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== 总览整串核查（thats-not-my-name-by-megan-lally）===
+  参照集：text/ 逐章（30 章） ｜ 总览文件 3 个
+  A 整串：命中 72 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 34
+  B 章节标签：对 72 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+notes/books/mystery-thriller/thats-not-my-name-by-megan-lally/00_情感节点.md:# 《That's Not My Name》情感节点
+notes/books/mystery-thriller/thats-not-my-name-by-megan-lally/00_概述.md:# 《That's Not My Name》概述
+notes/books/mystery-thriller/thats-not-my-name-by-megan-lally/00_金句精选.md:# 《That's Not My Name》金句精选

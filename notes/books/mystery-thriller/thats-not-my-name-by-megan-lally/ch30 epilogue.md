@@ -55,7 +55,7 @@ modified: "2026-10-14"
 
 **关键词**：Nobody（没有人）、not your fault（不是你的错）
 
-**为什么这样写**：`Nobody` 被**重复两次**（第二次独立成句）——用重复堵住反驳的空间。`it’s Wayne’s` 用**省略号式简写**（省略了 fault），把责任直接转手。这句话的力量不在于安慰，而在于**它是有证据的**——后文她给出 Wayne 的搜索记录（`Wayne’s search for me began the day after Lola disappeared`）。
+**为什么这样写**：`Nobody` 被**重复两次**（第二次独立成句）——用重复堵住反驳的空间。`it’s Wayne’s` 用**省略号式简写**（省略了 fault），把责任直接转手。这句话的力量不在于安慰，而在于**它是有证据的**——前文她给出 Wayne 的搜索记录（`Wayne’s search for me began the day after Lola disappeared`）。
 
 **读者视角提示**：读者要注意作者的处理方式——**治愈不是靠"别难过"，是靠事实**。这是本书对创伤题材最成熟的一处处理。
 
@@ -67,7 +67,7 @@ modified: "2026-10-14"
 
 **为什么这样写**：独立成段，**六个词**，用**否定式收束**（不是"我们赢了"，而是"他没赢"）。前一段写的是他的恐惧感（`The forever kind. The kind that tricks you into thinking he’ll always win.`），这里给出对位答案。`in the end` 是童话式的结尾用语，作者用它描写一个连环杀手——**故意让语气轻，让事实重**。
 
-**读者视角提示**：读者会注意到本章随后那段黑色幽默——"我听说他被火化后有人把骨灰扔进了垃圾桶。我希望这是真的。"这是 Drew 唯一一次露出笑容的段落。
+**读者视角提示**：读者会注意到本章随后那段黑色幽默——"我听说他被火化后有人把骨灰扔进了垃圾桶。我希望这是真的。"这是 Drew 少见的一次露出笑容的段落。
 
 > **原句 6:** "I’m not okay yet, but I’ll survive today. I’ll survive the days to come. Somehow."
 

@@ -35,7 +35,7 @@ modified: "2026-10-14"
 
 **关键词**：fucked everything up（搞砸一切）
 
-**为什么这样写**：独立成段的两个短句——`Back when things used to be normal.` + `Before I fucked everything up.`——构成时间断崖。前一句是怀旧，后一句是自我定罪。`fucked up` 是最口语、最粗暴的说法，比 `ruined` 更具自我厌弃感。两段加起来只有 9 词，却完成了从"过去的美好"到"自己的罪责"的全部叙事。
+**为什么这样写**：独立成段的两个短句——`Back when things used to be normal.` + `Before I fucked everything up.`——构成时间断崖。前一句是怀旧，后一句是自我定罪。`fucked up` 是最口语、最粗暴的说法，比 `ruined` 更具自我厌弃感。两段都极短，却完成了从"过去的美好"到"自己的罪责"的全部叙事。
 
 **读者视角提示**：Drew 在此**承认了某种罪责**——不是法律意义上的谋杀，但至少是"毁掉了和 Lola 的正常关系"。这与 ch03 中 `Joke’s on her, I already am` 的自我谴责呼应，但比那句更沉重、更内化。
 
@@ -57,7 +57,7 @@ modified: "2026-10-14"
 
 **为什么这样写**：视觉冲击极强——`the size of my face` 把文字尺寸与身体部位对标，让读者"看到"这个词扑面而来的压迫感。`bold letters` 暗示书写者刻意要让所有人看见，这不是悄悄的诽谤而是公开的羞辱。引号内 `Murderer` 大写首字母，把标签当成一个正式判决。
 
-**读者视角提示**：这是本章的转折点——Drew 从"被怀疑"升级为"被公开定罪"。学校从旁观者变成了审判者。这个场景也是秋季（Autumn）与 Drew 公开敌对的标志性事件。
+**读者视角提示**：这是本章的转折点——Drew 从"被怀疑"升级为"被公开定罪"。学校从旁观者变成了审判者。这个场景也是 Autumn 与 Drew 公开敌对的标志性事件。
 
 > **原句 5:** "It feels like walking with a ghost."
 

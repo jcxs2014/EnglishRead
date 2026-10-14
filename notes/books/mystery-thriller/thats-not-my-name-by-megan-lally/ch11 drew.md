@@ -47,7 +47,7 @@ modified: "2026-10-14"
 
 **为什么这样写**：这是本章最温柔的一句话。父亲始终用现在时（`Lola is`）而非过去时（`Lola was`）谈论 Lola，这在语言学上暗示他仍然相信她还活着。`can’t begin to explain` 用否定形式表达极致的情感——语言不够用。`consistently` 强调这不是偶然，而是父亲有意为之。这句话让读者看到 Drew 与 Autumn 的区别：Autumn 已经转向过去时，而 Drew 的父亲还在现在时里坚守。
 
-**读者视角提示**：这是理解 Drew 家庭关系的关键。他的父亲（同性伴侣中的 Papá）用语言守护希望，而 Drew 用行动（贴寻人启事、调查）守护希望。两种方式不同，但本质相同。
+**读者视角提示**：这是理解 Drew 家庭关系的关键。他的父亲 Dad 用语言守护希望（`Lola’s so important to this family`），而 Drew 用行动（贴寻人启事、调查）守护希望。两种方式不同，但本质相同。
 
 > **原句 4:** "Something vital inside me shatters into a thousand pieces."
 
