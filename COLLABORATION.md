@@ -68,7 +68,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 审查 a/b：门禁全量重跑；第二实现 100/100 块命中本章 text/，xref 138 处英文证据报警 0，analysis 275 片段全命中。
 - 审查 c：`check_struct_indep.py` 假红已修（QRE 只认同行形态 + calibrate_sub 分母含 epigraph 块），全库回归无新增假红。
 - 审查 d/e：阻断型 1（ch04:106 把 ch04 内四次 "Ask me" 重复错标为 ch03）+ 提示型 1（ch04:29 brake fluid 互文在引语窗口外邻句）+ 总览 3 处（挖角情节无原文支撑 / Milton 源头 / ch02「还不知道他就是 Erik」）。均已修。
-- 收口：commit `b85f47113`；明细见 `.memory/raw-gates/stuck-with-you-by-ali-hazelwood/`。**未 push**。
+- 收口：commit `b85f47113` + `17fe5931e`；明细见 `.memory/raw-gates/stuck-with-you-by-ali-hazelwood/`。**未 push**。
 
 ### [2026-10-13 14:30 UTC] [ZCode-Mac] → All
 
