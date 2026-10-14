@@ -1,0 +1,115 @@
+=== verify_quotes ===
+ch01 sasha meets adeline.md: 8/8 ✅
+ch02 margot meets sasha.md: 8/8 ✅
+ch03 dart witch unmasked.md: 7/7 ✅（另有 1 条短引语未校验）
+ch04 sasha is the filmmaker.md: 7/7 ✅
+ch05 accusation at ghostlight.md: 8/8 ✅
+ch06 coaster humiliation ground rules.md: 8/8 ✅
+ch07 dinner and attic key.md: 8/8 ✅
+ch08 alice journals rose revealed.md: 8/8 ✅
+ch09 salem lead.md: 7/7 ✅（另有 1 条短引语未校验）
+ch10 woods whispers tent kiss.md: 7/7 ✅（另有 1 条短引语未校验）
+ch11 overnight roses salem trip.md: 8/8 ✅
+ch12 road trip salem lead.md: 8/8 ✅
+ch13 journal reading bed intimacy.md: 8/8 ✅
+ch14 prudence memorial confrontation.md: 8/8 ✅
+ch15 rose returned love letters.md: 8/8 ✅
+ch16 margot takes control.md: 8/8 ✅
+ch17 sasha undone.md: 8/8 ✅
+ch18 morning after ground rules.md: 6/6 ✅（另有 1 条短引语未校验）
+ch19 parents death revealed.md: 8/8 ✅
+ch20 sasha denies her feelings.md: 8/8 ✅
+ch21 night confession journal.md: 6/6 ✅（另有 2 条短引语未校验）
+ch22 slut witch reclaimed.md: 7/7 ✅
+ch23 ghost confession halloween party.md: 7/7 ✅（另有 1 条短引语未校验）
+ch24 pavilion dance confession.md: 8/8 ✅
+ch25 truth and forest hike.md: 6/6 ✅（另有 2 条短引语未校验）
+
+⚠️ 全书共 9 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 188/188 引文可核实（100%）；完全干净文件 25/25；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+=== verify_quotes --full ===
+ch01 sasha meets adeline.md: 8/8 ✅
+ch02 margot meets sasha.md: 8/8 ✅
+ch03 dart witch unmasked.md: 7/7 ✅（另有 1 条短引语未校验）
+ch04 sasha is the filmmaker.md: 7/7 ✅
+ch05 accusation at ghostlight.md: 8/8 ✅
+ch06 coaster humiliation ground rules.md: 8/8 ✅
+ch07 dinner and attic key.md: 8/8 ✅
+ch08 alice journals rose revealed.md: 8/8 ✅
+ch09 salem lead.md: 7/7 ✅（另有 1 条短引语未校验）
+ch10 woods whispers tent kiss.md: 7/7 ✅（另有 1 条短引语未校验）
+ch11 overnight roses salem trip.md: 8/8 ✅
+ch12 road trip salem lead.md: 8/8 ✅
+ch13 journal reading bed intimacy.md: 8/8 ✅
+ch14 prudence memorial confrontation.md: 8/8 ✅
+ch15 rose returned love letters.md: 8/8 ✅
+ch16 margot takes control.md: 8/8 ✅
+ch17 sasha undone.md: 8/8 ✅
+ch18 morning after ground rules.md: 6/6 ✅（另有 1 条短引语未校验）
+ch19 parents death revealed.md: 8/8 ✅
+ch20 sasha denies her feelings.md: 8/8 ✅
+ch21 night confession journal.md: 6/6 ✅（另有 2 条短引语未校验）
+ch22 slut witch reclaimed.md: 7/7 ✅
+ch23 ghost confession halloween party.md: 7/7 ✅（另有 1 条短引语未校验）
+ch24 pavilion dance confession.md: 8/8 ✅
+ch25 truth and forest hike.md: 6/6 ✅（另有 2 条短引语未校验）
+
+⚠️ 全书共 9 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 188/188 引文可核实（100%）；完全干净文件 25/25；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+=== check_vocab ===
+词条行合计: 756
+
+--- FAIL (0) ---
+
+--- WARN (9) ---
+  ch03 dart witch unmasked.md [基础] 基础档疑含超纲词「atmosphere」
+  ch03 dart witch unmasked.md [基础] 基础档疑含超纲词「bartender」
+  ch03 dart witch unmasked.md [基础] 基础档疑含超纲词「bit recalcitrant」
+  ch05 accusation at ghostlight.md [基础] 基础档疑含超纲词「clairvoyant prowess」
+  ch10 woods whispers tent kiss.md [基础] 基础档疑含超纲词「gentleman」
+  ch11 overnight roses salem trip.md [基础] 基础档疑含超纲词「delightful mess」
+  ch11 overnight roses salem trip.md [基础] 基础档疑含超纲词「disappearances」
+  ch13 journal reading bed intimacy.md [基础] 基础档疑含超纲词「headboard」
+  ch22 slut witch reclaimed.md [基础] 基础档疑含超纲词「empirical fact」
+
+=== check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== corruption_scan ===
+=== 编辑损坏扫描（take-a-chance-sasha-sinclair-by-ashley-herring-blake）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== sweep_full ===
+=== 引语整串 flat 比对（take-a-chance-sasha-sinclair-by-ashley-herring-blake）===
+  参照集：text/ 逐章（34 章，可定章） + epub 交叉验证
+  ✅ 本章命中 188 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 9 条归 check_short_quotes；无章可对 0 条未判）
+
+=== check_nav_layer ===
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== check_short_quotes ===
+=== 短引语兜底核对（take-a-chance-sasha-sinclair-by-ashley-herring-blake）===
+  verify_quotes 跳过（<20 flat 字符）的引语：9 条 —— 这些主门禁**根本没查**
+  ✅ 命中 9 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== check_chapter_quotes ch23 ===
+⚠️  全书共 9 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 188，命中本章 188（100%）
+✅ 全部引语均归属正确章节
+
+=== check_chapter_quotes ch24 ===
+⚠️  全书共 9 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 188，命中本章 188（100%）
+✅ 全部引语均归属正确章节
+
+=== check_chapter_quotes ch25 ===
+⚠️  全书共 9 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 188，命中本章 188（100%）
+✅ 全部引语均归属正确章节
