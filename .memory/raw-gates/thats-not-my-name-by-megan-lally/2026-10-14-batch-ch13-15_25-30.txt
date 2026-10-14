@@ -1,0 +1,100 @@
+=== ch13-15 + ch25-30 gates 2026-10-14 19:54 UTC ===
+
+--- verify_quotes ---
+ch01 girl.md: 2/2 ✅（另有 4 条短引语未校验）
+ch02 girl.md: 6/6 ✅
+ch03 drew.md: 6/6 ✅
+ch04 drew.md: 6/6 ✅
+ch05 mary.md: 6/6 ✅
+ch06 mary.md: 5/5 ✅（另有 1 条短引语未校验）
+ch07 drew.md: 6/6 ✅
+ch08 drew.md: 3/3 ✅（另有 3 条短引语未校验）
+ch09 mary.md: 6/6 ✅
+ch13 mary.md: 6/6 ✅
+ch14 mary.md: 6/6 ✅
+ch15 drew.md: 6/6 ✅
+ch16 drew.md: 6/6 ✅
+ch17 mary.md: 4/4 ✅（另有 2 条短引语未校验）
+ch18 mary.md: 5/5 ✅（另有 1 条短引语未校验）
+ch19 drew.md: 5/5 ✅（另有 1 条短引语未校验）
+ch20 drew.md: 5/5 ✅（另有 1 条短引语未校验）
+ch21 mary.md: 6/6 ✅
+ch22 drew.md: 5/5 ✅（另有 1 条短引语未校验）
+ch23 mary.md: 4/4 ✅（另有 2 条短引语未校验）
+ch24 drew.md: 6/6 ✅
+ch25 mary.md: 5/5 ✅（另有 1 条短引语未校验）
+ch26 drew.md: 4/4 ✅（另有 2 条短引语未校验）
+ch27 mary.md: 2/2 ✅（另有 4 条短引语未校验）
+ch28 drew.md: 5/5 ✅（另有 1 条短引语未校验）
+ch29 madison.md: 3/3 ✅（另有 3 条短引语未校验）
+ch30 epilogue.md: 4/4 ✅（另有 2 条短引语未校验）
+
+⚠️ 全书共 29 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 133/133 引文可核实（100%）；完全干净文件 27/27；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+--- check_vocab ---
+词条行合计: 414
+
+--- FAIL (0) ---
+
+--- WARN (27) ---
+  ch01 girl.md [基础] 基础档疑含超纲词「headlights」
+  ch01 girl.md [基础] 基础档疑含超纲词「paramedics」
+  ch03 drew.md [基础] 基础档疑含超纲词「girlfriend」
+  ch03 drew.md [基础] 基础档疑含超纲词「volunteer」
+  ch08 drew.md [基础] 基础档疑含超纲词「epic stupidity」
+  ch09 mary.md [基础] 基础档疑含超纲词「breakfast dishes」
+  ch16 drew.md [基础] 基础档疑含超纲词「nightstand」
+  ch16 drew.md [基础] 基础档疑含超纲词「neighborhood」
+  ch16 drew.md [基础] 基础档疑含超纲词「toothbrush」
+  ch17 mary.md [基础] 基础档疑含超纲词「microphone」
+  ch17 mary.md [基础] 基础档疑含超纲词「homecoming」
+  ch17 mary.md [基础] 基础档疑含超纲词「heartbeats」
+  ch18 mary.md [基础] 基础档疑含超纲词「breakfast」
+  ch18 mary.md [基础] 基础档疑含超纲词「nightstand」
+  ch19 drew.md [基础] 基础档疑含超纲词「determination」
+  ch20 drew.md [基础] 基础档疑含超纲词「complaints」
+  ch20 drew.md [基础] 基础档疑含超纲词「girlfriend」
+  ch24 drew.md [高级] 高级档混入常用词「one-of-a-kind」
+  ch24 drew.md [基础] 基础档疑含超纲词「statement」
+  ch26 drew.md [高级] 高级档混入常用词「one-of-a-kind」
+  ch26 drew.md [基础] 基础档疑含超纲词「happening」
+  ch26 drew.md [基础] 基础档疑含超纲词「sweatshirt」
+  ch29 madison.md [基础] 基础档疑含超纲词「underneath」
+  ch29 madison.md [基础] 基础档疑含超纲词「windowsill」
+  ch30 epilogue.md [基础] 基础档疑含超纲词「graduation」
+  ch30 epilogue.md [基础] 基础档疑含超纲词「meaningful」
+  ch30 epilogue.md [基础] 基础档疑含超纲词「overprotective」
+
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+--- corruption_scan ---
+
+=== 编辑损坏扫描（thats-not-my-name-by-megan-lally）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- sweep_full ---
+=== 引语整串 flat 比对（thats-not-my-name-by-megan-lally）===
+  参照集：text/ 逐章（30 章，可定章） + epub 交叉验证
+  ✅ 本章命中 133 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 29 条归 check_short_quotes；无章可对 0 条未判）
+
+--- audit_structure ---
+=== 精读结构扫描（thats-not-my-name-by-megan-lally）===
+  扫 27 个 md、162 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 6
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+--- check_chapter_quotes 13-15,25-30 ---
+ch13 mary.md: 6/6 in ch13 text
+ch14 mary.md: 6/6 in ch14 text
+ch15 drew.md: 6/6 in ch15 text
+ch25 mary.md: 5/5 in ch25 text（另有 1 条短引语未校验）
+ch26 drew.md: 4/4 in ch26 text（另有 2 条短引语未校验）
+ch27 mary.md: 2/2 in ch27 text（另有 4 条短引语未校验）
+ch28 drew.md: 5/5 in ch28 text（另有 1 条短引语未校验）
+ch29 madison.md: 3/3 in ch29 text（另有 3 条短引语未校验）
+ch30 epilogue.md: 4/4 in ch30 text（另有 2 条短引语未校验）
