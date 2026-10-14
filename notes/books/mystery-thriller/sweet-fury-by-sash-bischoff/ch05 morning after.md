@@ -113,7 +113,7 @@ source_text: "ch05_morning_after.txt"
 
 ---
 
-## 三档词汇表
+## 词汇
 
 ### ⭐⭐⭐ 高级词汇
 

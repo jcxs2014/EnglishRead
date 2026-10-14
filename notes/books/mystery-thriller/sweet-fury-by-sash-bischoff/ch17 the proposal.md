@@ -2,6 +2,7 @@
 title: "Sweet Fury"
 author: "Sash Bischoff"
 source_text: ch17_chapter_vii.txt
+
 ---
 
 # Chapter VII（Act Three）
@@ -25,7 +26,7 @@ source_text: ch17_chapter_vii.txt
 
 ---
 
-**原句 1:** "He unlocked his phone, scrolled to the message she'd sent earlier that day with the apartment's address. His stomach dropped."
+> **原句 1:** "He unlocked his phone, scrolled to the message she'd sent earlier that day with the apartment's address. His stomach dropped."
 **中文理解**：他打开手机，滑到 Lila 那天早些时候发来的带公寓地址的消息。胃部骤然一沉。
 **关键词**：stomach dropped（胃部下沉）——生理反应暗示情绪冲击
 **表达方式**：用身体反应（胃部下沉）来呈现心理状态，而非直接陈述焦虑
@@ -33,7 +34,7 @@ source_text: ch17_chapter_vii.txt
 
 ---
 
-**原句 2:** "Because what they hadn't yet directly acknowledged—what they'd have to acknowledge tonight—was Lila's unexpressed feelings for Jonah."
+> **原句 2:** "Because what they hadn't yet directly acknowledged—what they'd have to acknowledge tonight—was Lila's unexpressed feelings for Jonah."
 **中文理解**：因为他们尚未直接承认——而今晚必须承认的——是 Lila 对 Jonah 隐藏的感情。
 **关键词**：unexpressed（未表达的）——情感被压抑却即将浮出水面的张力
 **表达方式**：破折号插入语强调双重否定后的核心事实，突出悬而未决的情感
@@ -41,7 +42,7 @@ source_text: ch17_chapter_vii.txt
 
 ---
 
-**原句 3:** "He'd tried to tell himself he was reading into her journal entries' careful, circuitous language, teasing out hoped-for implications rather than accepting a simpler, more plausible truth—yet every time, he drew the same conclusion."
+> **原句 3:** "He'd tried to tell himself he was reading into her journal entries' careful, circuitous language, teasing out hoped-for implications rather than accepting a simpler, more plausible truth—yet every time, he drew the same conclusion."
 **中文理解**：他试图说服自己，他只是在过度解读她日记中那种小心翼翼、迂回曲折的文字，挖掘他期盼的暗示而非接受更简单、更说得通的真相——但每一次他都得出同样的结论。
 **关键词**：circuitous（迂回的）、teasing out（梳理出）——文本解读的不确定性
 **表达方式**：平行对比结构（reading into vs accepting），展现自欺与真相之间的拉扯
@@ -49,7 +50,7 @@ source_text: ch17_chapter_vii.txt
 
 ---
 
-**原句 4:** "In his restless mind, he entered now into each of their lives, pursuing them as they turned the dark corners of quiet streets, their curious smiles beckoning him to follow."
+> **原句 4:** "In his restless mind, he entered now into each of their lives, pursuing them as they turned the dark corners of quiet streets, their curious smiles beckoning him to follow."
 **中文理解**：在他纷乱的心绪中，他此刻进入了她们每个人的生活，在她们转进寂静街道的黑暗拐角时追寻着她们，那好奇的微笑引诱他跟上去。
 **关键词**：beckoning（招手呼唤）——性吸引的暗流
 **表达方式**：第三人称叙述突然切入强烈的性意象，Jonah 的潜意识在凝视中暴露
@@ -57,7 +58,7 @@ source_text: ch17_chapter_vii.txt
 
 ---
 
-**原句 5:** "He'd changed an inordinate number of times before settling on a selection that felt timeless, soigné—nicer than his everyday wear, but still casual enough, not too nice."
+> **原句 5:** "He'd changed an inordinate number of times before settling on a selection that felt timeless, soigné—nicer than his everyday wear, but still casual enough, not too nice."
 **中文理解**：他换了异常多次衣服，才选定这套看似永恒、精致的搭配——比日常着装讲究，却依然休闲，不会过于正式。
 **关键词**：soigné（精致讲究的）——阶级品味与约会焦虑的交织
 **表达方式**：自我审视的细节描写，通过服饰选择暴露心理状态
@@ -65,7 +66,7 @@ source_text: ch17_chapter_vii.txt
 
 ---
 
-**原句 6:** "At eighteen our convictions are hills from which we look, he recited to himself; at forty-five they are caves in which we hide."
+> **原句 6:** "At eighteen our convictions are hills from which we look, he recited to himself; at forty-five they are caves in which we hide."
 **中文理解**：十八岁时，我们的信念是可供眺望的山丘，他默念道；四十五岁时，它们成了我们藏身的洞穴。
 **关键词**：hills（山丘）、caves（洞穴）—— Fitzgerald 引语，象征人生阶段的精神状态
 **表达方式**：诗歌性引语嵌入叙事，Fitzgerald 的文学原型在此处承担道德反讽
@@ -73,7 +74,7 @@ source_text: ch17_chapter_vii.txt
 
 ---
 
-**原句 7:** "The purity of her intentions, her genuine goodness, seemed to Jonah to radiate from within, shimmering upon the glory of her skin."
+> **原句 7:** "The purity of her intentions, her genuine goodness, seemed to Jonah to radiate from within, shimmering upon the glory of her skin."
 **中文理解**：她纯粹的意图，她真实的善良，在 Jonah 看来从内而外散发，在她的肌肤荣光上闪烁。
 **关键词**：radiate from within（从内而外散发）——灵肉关系的哲学思辨
 **表达方式**：宗教性的光辉意象嫁接到世俗情感，Kantian 美学与道德的交织
@@ -81,7 +82,7 @@ source_text: ch17_chapter_vii.txt
 
 ---
 
-**原句 8:** "All Jonah had to do was look in the mirror to see that it might, in fact, be just the opposite."
+> **原句 8:** "All Jonah had to do was look in the mirror to see that it might, in fact, be just the opposite."
 **中文理解**：Jonah 只需照照镜子就能看到，事实可能恰恰相反。
 **关键词**：the opposite（恰恰相反）——自我认知的崩塌
 **表达方式**：单句独立成段，戛然而止的道德判断

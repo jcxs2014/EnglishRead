@@ -113,7 +113,7 @@ source_text: "ch07_what_lila_knows.txt"
 
 ---
 
-## 三档词汇表
+## 词汇
 
 ### ⭐⭐⭐ 高级词汇
 

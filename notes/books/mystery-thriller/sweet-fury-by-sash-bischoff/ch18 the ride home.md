@@ -2,6 +2,7 @@
 title: "Sweet Fury"
 author: "Sash Bischoff"
 source_text: ch18_chapter_viii.txt
+
 ---
 
 # Chapter VIII（Act Three）
@@ -33,7 +34,7 @@ Lila 的治疗日记
 
 ---
 
-**原句 1:** "Before I dive in, something has happened that's left me a bit unsettled. I've been deliberating whether to tell you—you, who I trust more than anyone!—because I don't want you to think I'm questioning you."
+> **原句 1:** "Before I dive in, something has happened that's left me a bit unsettled. I've been deliberating whether to tell you—you, who I trust more than anyone!—because I don't want you to think I'm questioning you."
 **中文理解**：在我深入之前，发生了一件事，让我有些不安。我一直在犹豫是否要告诉你——你，我比任何人都更信任的人！——因为我不想让你觉得我是在质疑你。
 **关键词**：unsettled（不安的）、deliberating（反复考虑）——信任与怀疑之间的拉扯
 **表达方式**：日记体的亲密独白，感叹号与破折号强化情感浓度
@@ -41,7 +42,7 @@ Lila 的治疗日记
 
 ---
 
-**原句 2:** "The beaches here like fat white cakes, sugary sand dusting the wind—the ocean's seething crash and pull."
+> **原句 2:** "The beaches here like fat white cakes, sugary sand dusting the wind—the ocean's seething crash and pull."
 **中文理解**：这里的海滩像松软的白蛋糕，沙子像糖粉一样飘洒在风中——海洋翻涌的拍打与退去。
 **关键词**：fat white cakes（松软的白蛋糕）——视觉隐喻，将海滩美食化
 **表达方式**：复合隐喻链（蛋糕→糖粉→海浪的涌动与退去），感官通感
@@ -49,7 +50,7 @@ Lila 的治疗日记
 
 ---
 
-**原句 3:** "Days here are made of heat, salt, lust—marked only by the sun's slow rub across the sky, its bright, wet pour, its lingering, whole-body kiss."
+> **原句 3:** "Days here are made of heat, salt, lust—marked only by the sun's slow rub across the sky, its bright, wet pour, its lingering, whole-body kiss."
 **中文理解**：这里的白昼由炎热、盐分、欲望构成——唯一标记是太阳在天空中缓缓摩挲，它明亮而湿润的倾泻，它绵延的全身亲吻。
 **关键词**：lust（欲望）——情感的直接命名
 **表达方式**：身体化的意象（摩擦、倾泻、亲吻），将自然现象情欲化
@@ -57,7 +58,7 @@ Lila 的治疗日记
 
 ---
 
-**原句 4:** "Candlelit tables stretching down the length of the dock float like ghosts over the water's skin."
+> **原句 4:** "Candlelit tables stretching down the length of the dock float like ghosts over the water's skin."
 **中文理解**：烛光照亮的桌子沿码头延伸，像幽灵一样漂浮在水面的皮肤上。
 **关键词**：float like ghosts（像幽灵一样漂浮）——死亡与终结的暗示
 **表达方式**：超现实意象，将寻常场景陌生化
@@ -65,7 +66,7 @@ Lila 的治疗日记
 
 ---
 
-**原句 5:** "But tonight, I realize, the burden is lifted because Kurt isn't here. Olympus had demanded he fly to LA immediately after wrapping for a Come To Jesus with Bobby about his disappearing act."
+> **原句 5:** "But tonight, I realize, the burden is lifted because Kurt isn't here. Olympus had demanded he fly to LA immediately after wrapping for a Come To Jesus with Bobby about his disappearing act."
 **中文理解**：但今晚，我意识到，负担解除了，因为 Kurt 不在。Olympus 要求他在拍完后立即飞往洛杉矶，与 Bobby 进行一场"痛改前非"的谈话，关于他的不辞而别。
 **关键词**：Come To Jesus（痛改前非的谈话）——美国俚语，宗教隐喻
 **表达方式**：行业黑话（Olympus 制片公司）与宗教表达的并置
@@ -73,7 +74,7 @@ Lila 的治疗日记
 
 ---
 
-**原句 6:** "'You look good, Dr. Gabriel.' Before he could summon a response, she'd disappeared down the hall."
+> **原句 6:** "'You look good, Dr. Gabriel.' Before he could summon a response, she'd disappeared down the hall."
 **中文理解**："你看起来很好，Gabriel 医生。"他还没来得及回应，她已经消失在走廊尽头。
 **关键词**：summon a response（唤起回应）——无力感的表达
 **表达方式**：转述引语制造陌生化效果，我们听到的是 Lila 对 Maggie 话语的转述
@@ -81,7 +82,7 @@ Lila 的治疗日记
 
 ---
 
-**原句 7:** "She really does remind me of my younger self, the sweet, innocent girl I used to be before all the trauma of my past."
+> **原句 7:** "She really does remind me of my younger self, the sweet, innocent girl I used to be before all the trauma of my past."
 **中文理解**：她真的让我想起年轻时的自己，那个在所有过去创伤之前的甜美、纯真的女孩。
 **关键词**：remind me of（使……想起）——镜像关系
 **表达方式**：女演员作为 Lila 过去的化身，构建自恋式认同
@@ -89,7 +90,7 @@ Lila 的治疗日记
 
 ---
 
-**原句 8:** "'I'm so sorry, Lila. I've been miserable about it the whole time. I feel like I betrayed you—you, who I look up to more than anyone!'"
+> **原句 8:** "'I'm so sorry, Lila. I've been miserable about it the whole time. I feel like I betrayed you—you, who I look up to more than anyone!'"
 **中文理解**："我非常抱歉，Lila。整个过程中我都非常痛苦。我觉得自己背叛了你——你，我最仰慕的人！"
 **关键词**：betrayed（背叛）——核心情感词
 **表达方式**：直接引语中女演员的自我谴责，道德重量集中于感叹号
