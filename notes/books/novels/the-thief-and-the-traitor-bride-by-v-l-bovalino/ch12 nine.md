@@ -7,7 +7,7 @@ modified: "2026-10-14"
 
 ## 本章导航
 
-**一句话概括：** Nore 与 Caspian 以夫妻身份入境 Scaela，与 Nestrian 间谍兼 well Gail Borrel 会合；Nore 背着他从 Gail 处接过真正的任务——操控 Locke 岛 High Lady 的婚事——而 Idaho 的魔法与二人同床的现实同时撕扯着她。
+**一句话概括：** Nore 与 Caspian 以夫妻身份入境 Scaela，与 Nestrian 间谍兼 well Gail Borrel 会合；Nore 背着他从 Gail 处接过真正的任务——操控 Locke 岛 High Lady 的婚事——而 Idistran 的魔法与二人同床的现实同时撕扯着她。
 
 **情感弧线位置：** 中段收紧——假夫妻的身份扮演正式开始，仇恨与亲密在同一张床上结算。
 
