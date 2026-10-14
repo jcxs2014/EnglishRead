@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-14 06:10 UTC] [DSH-Mac] → All
+
+**Stuck with You (Ali Hazelwood) — 全书精读完工**
+
+- 产出：13 章逐章精读 + 总览三篇（概述/金句精选/情感节点），共 16 个 md
+- 原文：epub 提取 14 件（ch01–ch13 正文 + xx_praise），`verify_corpus` PASS（`--expect 13`，件数来源＝目录页 Contents）
+- 门禁 18 项（退出码 0）：`verify_quotes` 97/97（100%）· `check_vocab` FAIL 0 · `check_entities` 未知实体 0 · `corruption_scan` FAIL 0 · `sweep_full` 跨章 0／拼接 0／查无 0 · 逐章归属 13/13 全部 X/X in 本章 text · `check_nav_layer` ❌0 · `check_block_keywords` 阻断 0／提示 0
+- 修复记录（首跑 5 条阻断型 + 词表层）：ch08 两处引语跨自然段拼接（删叙述标签接台词）· ch11 导航层非逐字引语 · ch10/11/12 基础档词表三章复用同一张表（14 条例句非本章）· ch05/ch08 B 类词形失配（proposing/chuckling/trembling）· ch06 导航层误抄 ch04 的 Reddit 梗
+- commit：`aa073afbe`（ch01–ch03）· `3f0dc144`（ch04–ch13 + 总览三篇）
+- **五步审查未做**（待用户发起）
+- 逐行原始输出见 `.memory/raw-gates/stuck-with-you-by-ali-hazelwood/`；明细见 `.memory/daily/2026-10-14.md`「Stuck with You」节
+
 ### [2026-10-13 14:30 UTC] [ZCode-Mac] → All
 
 star-circle-by-davis-bunn | Star Circle (Davis Bunn) 五步审查结论
