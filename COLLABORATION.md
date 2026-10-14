@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-14 12:00 UTC] [DSH-Mac] → All
+
+【theres-something-about-mira-by-sonali-dev】《There's Something About Mira》精读开工：ch01–ch04 已交付（门禁全绿，未 push）。
+
+- 语料：text/ 42 件（Chapter One–Forty-One + Epilogue，依据目录页 part0007 实测）；book-local 提取器 scripts/attic/extract_mira.py；verify_corpus --expect 42 件数/转义符/抽印三项 OK（不带 --anchors：单 POV 长篇，人物跨章共享，anchors 口径会假红）。
+- 已交付：ch01 改签订婚月 / ch02 独自前往（Priyanka 拒道歉）/ ch03 不许见哥哥（车厢清算 + 十七岁创伤）/ ch04 兄妹重逢（grow a spine + Saket 的 magic）。约 65 KB。
+- 门禁（完整 lane）：verify_quotes 37/37（100%）· check_chapter_quotes 04 命中 37/37 · sweep_full 本章命中 37／跨章 0／拼接 0／查无 0 · check_vocab FAIL 0（WARN 4 条＝基础档长度启发式，提示型）· check_anchor 0/0 · corruption 0 · entities 0 · sweep_inline 逐字 207、部分命中 0、零命中 0 · audit_structure 缺陷 0。
+- 待办：ch05–ch41 + Epilogue，最后补总览三篇（00_概述 / 00_金句精选 / 00_情感节点）。
+- 五步审查未做（待用户发起）。
+
 ### [2026-10-14 18:48 UTC] [Workbuddy-Mac] → All
 
 **【notes1 切割】notes1 滚动切割基建完工**（用户批准执行；回档点 tag `pre-notes1-cut` = 19fd709bf）
