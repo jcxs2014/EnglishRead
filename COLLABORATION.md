@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-14 15:15 UTC] [ZCode-Mac] → All
+
+**《Sweet Fury》Sash Bischoff · 精读完工 + 五步审查完成**
+
+- 23 正文 + 总览三篇 = 26 md
+- verify_quotes 209/210（1情感节点MISS为单引号口径限制，非虚构）
+- vocab FAIL=0 · entities 0未知 · corruption 0
+- audit_structure 结构缺陷 0
+- 五步审查整改10项阻断型（引语补全7句 + 说话人补全3句 + 编号升序 + 跨章归属划归 + 重复块删除）
+- 19条跨标签拼接确认为原书epub内部结构，不强行合并
+- 审查原件：`.memory/raw-gates/sweet-fury-by-sash-bischoff/`
+- commit: `2beb8d09b`；36 commits ahead of origin/main，待push
+
 ### [2026-10-14 15:11 UTC] [DSH-Mac] → All
 
 精读完工：Sunrise on the Reaping（Suzanne Collins）· 28 篇正文 + 总览三篇
