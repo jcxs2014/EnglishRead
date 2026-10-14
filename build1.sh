@@ -17,7 +17,7 @@ export NODE_OPTIONS="--max-old-space-size=6144"
 # 构建结束立即还原，不污染仓库工作区（本地跑也安全）。
 cp quartz.config.yaml quartz.config.yaml.bak
 trap 'mv quartz.config.yaml.bak quartz.config.yaml' EXIT
-sed -i.bak2 's|englishread\.jcxs2014\.workers\.dev|englishread1.jcxs2014.workers.dev|' quartz.config.yaml
+sed -i.bak2 's|englishread\.jcxs2014\.workers\.dev|en1.natoms.dpdns.org|' quartz.config.yaml
 rm -f quartz.config.yaml.bak2
 
 # 内容源 notes1/，输出到独立目录 public1/（-o 参数），与主站 public/ 完全隔离
