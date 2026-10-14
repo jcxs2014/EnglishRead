@@ -57,7 +57,7 @@ modified: "2026-10-14"
 
 **中文理解**：在他们共度一夜、在两人之间发生的一切之后，Sadie 发现自己无法把 Erik 说话的方式从脑海中抹去。
 
-**关键词**：the night we spent together / couldn't get out of my head / pronounced
+**关键词**：the night we spent together / couldn't get the way he pronounced words out of my head
 
 **为什么这样写**：用"the night we spent together"的含蓄说法暗示两人曾有过亲密关系，不点明细节却让读者心领神会；"couldn't get...out of my head"直白表达执念，为后文"拉黑号码却反复听语音"的具体行为铺垫——她的身体记得他，比她的理智更诚实。
 
@@ -81,7 +81,7 @@ modified: "2026-10-14"
 
 **关键词**：already-minuscule / broodiest / Scandinavian mountains
 
-**为什么这样写**：用一连串反问表达 Sadie 的绝望与幽默；"broodiest of Scandinavian mountains"把 Erik 比作"最忧郁的斯堪的纳维亚山脉"，以地理意象强化他"broody"（阴郁）的特质，同时呼应他的北欧背景（丹麦）；"already-minuscule"的递进夸张（本来就小，电梯更小）将物理空间的压迫感转化为情感空间的逼仄感。
+**为什么这样写**：用一连串反问表达 Sadie 的绝望与幽默；"broodiest of Scandinavian mountains"把 Erik 比作"最忧郁的斯堪的纳维亚山脉"，以地理意象强化他"broodiest"（最阴郁的）的特质，同时呼应他的北欧背景（丹麦）；"already-minuscule"的递进夸张（本来就小，电梯更小）将物理空间的压迫感转化为情感空间的逼仄感。
 
 ---
 

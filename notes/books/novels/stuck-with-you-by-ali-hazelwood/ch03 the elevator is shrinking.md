@@ -90,7 +90,7 @@ modified: "2026-10-14"
 
 **中文理解**："不。我不觉得。"但我可能是吧？那就能解释很多事。墙壁在逼近。胃里这种油腻的、想吐的感觉。我想抓挠这地方的冲动，因为它太小了，而 Erik 占据了我脑子里太多空间，我能闻到他的肥皂味，我只想忘记关于他的一切，也许我以为我忘了，但现在他在这里，一切都回来了，我——
 
-**关键词**：claustrophobic / walls closing in / takes up so much room inside my head
+**关键词**：walls closing in / barfy feeling / takes up so much room inside my head
 
 **为什么这样写**：以未完成的句子"I—"（我——）结尾，用破折号切断思绪——她的焦虑不是对电梯的恐惧，是对 Erik 的恐惧；"Erik takes up so much room inside my head"（Erik 占据了我脑子里太多空间）把物理空间的拥挤映射到心理空间；"maybe I thought I had but now he's here and it's all coming back"（也许我以为我忘了，但现在他在这里，一切都回来了）揭示真相——她从未忘记那一夜，电梯只是把压抑的记忆全部释放。
 
