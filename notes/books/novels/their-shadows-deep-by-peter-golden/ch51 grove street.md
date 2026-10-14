@@ -1,79 +1,39 @@
 # 51. Grove Street
 
-## 本章导航
+## 概述
 
-New York City, dusk。Caitlin 从 Philadelphia 回来，在 Village 走夜路回家。走在 Grove Street 上时，一个身影从 Christopher Park 出来跟踪她。她加快脚步，身影也跟上来。她用 Gabe 在 Chinatown 拳馆教她的防身术转身用肘部击中对方下巴，开枪射击但未命中，对方逃跑。她浑身发抖地回到公寓，坐在门后紧握手枪。
-
----
+Caitlin 从 Penn Station 出来，经 Washington Square Park 和 MacDougal 回家。在 Grove Street 的公寓楼外，她遭到尾随者的袭击——用 Gabe 在唐人街健身房教她的防身术反击，开枪击中袭击者但未致命，对方逃跑。
 
 ## 精读
 
-### 1
+> "Caitlin was aware of her fear. It wasn't real, though. It belonged to someone else. A woman onstage."
 
-> "Get the fuck away!"
+**句子结构**：四句短促平行，前三句是独立句（后两句无主语 it 承前省略），最后一句名词短语独立成句，形成节奏骤变。
 
-Caitlin 对袭击者吼出的唯一一句话。
+**关键词**：belonged to someone else / onstage
 
-**中文理解**：这是 Caitlin 全章唯一一句对袭击者说的话——简短、愤怒、没有妥协空间。她没有问"你是谁"或"你想要什么"，只有一个命令式的脏话。
-
-**句子结构**：简短祈使句，Get + the fuck + away，四个词全是重音，表达最大限度的愤怒和恐惧。
-
-**关键词**：Get away，走开——但 the fuck 的加入把所有"礼貌撤退"的可能性都取消了。
-
-**表达方式**：脏话在这里是真实的恐惧反应，不是修辞。Caitlin 不是一个经常说脏话的人，这句话的爆发力来自它的稀有性。
-
-**为什么这样写**：这句话是攻击场景的情感最高点——在此之前是紧张的追踪和身体对抗，在这句话之后是她开枪。在那个瞬间，Caitlin 不是记者、不是调查者，只是一个被袭击的女人。
+**为什么这样写**：Golden 用戏剧舞台的意象分离 Caitlin 与她的恐惧——袭击者的脚步声触发的是"角色"的恐惧，而非 Caitlin 本人的恐惧。这是创伤解离的文学化表达。
 
 ---
 
-### 2
+> "Remembering what Gabe had taught her in that Chinatown gym, Caitlin tucked her chin against her chest so the silhouette couldn't grab her around the throat, and then, spinning around, she threw her left elbow upward in the direction of the footsteps while pulling her .38 out of her bag with her right hand."
+
+**句子结构**：复合句，remembering 分词短语作状语；主句包含多个并列动作：tucked chin / threw elbow / pulling .38 out；so 目的从句。
+
+**关键词**：tucked her chin / spinning around / elbow upward
+
+**为什么这样写**：Golden 用这段动作戏将 Gabe 的遗产（教她防身术）与 Caitlin 当前的生存处境直接连接——亡夫的教诲救了她的命，同时暗示凶手的真正目标可能仍然是 Gabe 案的线索。
+
+---
 
 > "She caught a glimpse of his pallid face in the light of the carriage lamps—eyebrows as thick as caterpillars and mean, beady eyes."
 
-袭击者的外貌特征，Caitlin 唯一一次看清对方。
+**句子结构**：名词短语（a glimpse）+ 定语从句；破折号后 as...as 比喻结构（catarpillars 比作眉毛）。
 
-**中文理解**：苍白的脸、粗如毛毛虫的眉毛、凶狠的小眼睛——这个外貌描述既具体又有一种漫画式的恐怖感。Peter Golden 没有用常见的"英俊"或"普通"来描述，而是用了一连串令人不安的细节。
+**关键词**：pallid / caterpillars / beady eyes
 
-**句子结构**：主句 + 破折号 + 同位语从句（eyebrows as thick as caterpillars and mean, beady eyes）。破折号引出的是一个视觉特写，镜头感极强。
+**为什么这样写**：Golden 用毛虫比喻眉毛、凶恶的珠子眼完成对袭击者外貌的速写——这是黑色小说的视觉语言，与 Caitlin 惯常的记者式观察形成切换。
 
-**关键词**：pallid，苍白；caterpillar，毛毛虫（用作比喻）；beady eyes，贼亮的眼睛。
+## 词汇
 
-**表达方式**：漫画式的外貌描写——毛毛虫的比喻让这张脸既具体又荒诞，增加了恐怖感。
-
-**为什么这样写**：这是全章最后一个引文，也是最重要的视觉记忆。Caitlin 在袭击发生的那一秒看清了对方——这个记忆将在后面的章节中成为她识别袭击者的关键。
-
----
-
-### 3
-
-> "Caitlin was shaking when she let herself into her building, raced up three flights of stairs, and went into her apartment, then shut the door and threw the bolt—shaking still when she sat with her back against the door, gasping for air and holding her pistol tight."
-
-全章最后一句，攻击之后的余韵。
-
-**中文理解**：Caitlin 回到公寓，坐在门后、紧握手枪——这个结尾画面是 Peter Golden 写恐惧写得最好的一段。她没有哭、没有打电话求救，只是坐在那里，手里握着枪，慢慢地呼吸。这个结尾的力量在于它的沉默。
-
-**句子结构**：when 引导的时间状语从句 + 主句三个连续动作（let herself in / raced up / went into）+ then shut + 现在分词短语（shaking still...）。破折号后的现在分词结构把"颤抖"延伸到了叙述时间之外。
-
-**关键词**：threw the bolt，插上门闩；holding her pistol tight，紧握手枪——这两个细节把"安全"和"武装"联系在一起，暗示在那一刻，枪就是 Caitlin 的安全感。
-
-**表达方式**：用现在分词短语（shaking still）代替完整的动词句，制造出一种叙述上的"悬停"——颤抖没有随着动作结束而停止，而是延续到了场景之外。
-
-**为什么这样写**：这个结尾是全书最具电影感的画面之一。坐在门后紧握手枪的 Caitlin，既是受害者也是幸存者——Peter Golden 没有让她哭，也没有让她愤怒，只是让她坐在那里，等待呼吸平稳。这个安静的结尾比任何激烈的情感表达都更有力。
-
----
-
-## 本章词汇
-
-| 单词/短语 | 难度 | 中文 | 例句（已验原文） |
-|---|---|---|---|
-| silhouette | ⭐⭐ | 剪影；轮廓 | a silhouette in the darkness came out of Christopher Park |
-| pallid | ⭐⭐ | 苍白的 | a glimpse of his pallid face |
-| beady | ⭐⭐ | （眼睛）小而亮的；贼亮的 | mean, beady eyes |
-| bull-necked | ⭐⭐⭐ | 粗颈的 | the bull-necked man above her |
-| carriage lamp | ⭐ | 马车灯（门两侧的古典灯） | the glowing carriage lamps on either side of the doors |
-| bolt | ⭐ | 门闩 | shut the door and threw the bolt |
-
-## 一句话总结
-
-Caitlin 在 Grove Street 遭到跟踪袭击，她用 Gabe 教她的防身术自卫，开枪未命中袭击者逃脱，带着枪坐在门后等待呼吸恢复——这是全书中 Caitlin 距离死亡最近的一次。
-
+**pallid** ⭐ 进阶｜/ˈpælɪd/ adj. 苍白的；病态的｜原文例句：She caught a glimpse of his pallid face in the light of the carriage lamps.｜袭击者苍白的脸在灯光下显出病态，暗示其危险性与可能的健康状况。
