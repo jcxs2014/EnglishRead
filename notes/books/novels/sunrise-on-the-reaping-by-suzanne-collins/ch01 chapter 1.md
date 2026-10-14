@@ -7,7 +7,7 @@ modified: "2026-10-14"
 
 ## 本章导航
 
-- **一句话概括**：Haymitch 十六岁生日当天恰逢第五十届（第二届 Quarter Quell）抽签日——他从 Hattie 的私酒坊领到生日酒、与 Lenore Dove 交换礼物并被她追问「凭什么认定明天还会照旧」，进城交易后站在广场上看着 Louella、Maysilee、Wyatt、Woodbine 四人被抽中，Woodbine 拔腿逃跑时被正义大楼屋顶一枪打爆后脑。
+- **一句话概括**：Haymitch 十六岁生日当天恰逢第五十届（第二届 Quarter Quell）抽签日——他从 Hattie 的私酒坊领到生日酒、收到 Lenore Dove 送的燧石打火器、被她追问「凭什么认定明天还会照旧」，进城交易后站在广场上看着 Louella、Maysilee、Wyatt、Woodbine 四人被抽中，Woodbine 拔腿逃跑时被正义大楼屋顶一枪打爆后脑。
 - **情感弧线位置**：开篇（establishing）。用「生日与抽签日同一天」的反讽铺底，先给出 District 12 的日常经济（洗衣、私酒、野外采集、以物易物），再让公开处决把恐惧落到实处。
 - **Tropes 兑现/反转**：抽签日（reaping day）作为反乌托邦开场仪式；「恋人最后的平静一日」——在竞技赛开始前偷来的相处时光；体制暴力当众展演以震慑民众。反转在于：本应属于主角的生日礼物与祝福，被四声抽签和一发子弹逐层剥掉。
 - **人物弧线**：Haymitch 从「No point in worrying, I tell myself, there's nothing you can do about it」的自我麻醉者起步，被 Lenore Dove 的「Not believing change is possible」正面顶撞——他当场答不上话（"Sorry, you've lost me"），却在结尾亲眼目睹逃跑者被处决，为后续转变埋下第一颗钉子。Lenore Dove 则以「危险的词句」而非甜美的旋律定义自己。
