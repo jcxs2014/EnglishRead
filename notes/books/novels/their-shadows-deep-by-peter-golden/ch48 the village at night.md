@@ -1,10 +1,88 @@
-# 48. The Village at Night
-
-## 章节概述
+## 本章导航
 
 周六夜晚，Caitlin 在 Greenwich Village 漫步，试图寻找那个戴 duckbill cap 的矮个子男人未果。在 Cedar Tavern 读报时，她看到 Dulles 在 Hyannis Port 给 Jack 做了关于古巴的两小时简报的报道——她此前已给 Jack 的办公室留了信请他回电。周日早晨，她继续收拾行装准备去 Belmar 住三周，收拾到最后，她把避孕工具也塞进了箱子——一个"wishful thinking"的举动。六个月失去 Gabe 后，她终于接受了 Reed Howland 的那句话：悲伤不会消失，它会变成记忆。
 
-## 词汇
+
+---
+## 精读
+
+### 1
+
+> "When Gabe's killer was caught, she would go home."
+
+Caitlin 在 Village 夜晚结束时的内心独白。
+
+**中文理解**：Caitlin 把"破案"和"回家"画上了等号——在她心里，Gabe 的死是她无法真正离开纽约的原因，只有凶手落网，她才能从 South Orange 的记忆和 Greenwich Village 的调查中真正走出来。
+
+**句子结构**：when 引导的时间状语从句，主句 would + 虚拟语气结构。
+
+**关键词**：would go home，用 would 而非 will，表示她对这一结果的期待带有不确定性。
+
+**表达方式**：简洁的内心独白式陈述，没有修饰，直接传达 Caitlin 的心理状态。
+
+**为什么这样写**：这句话为整个 Belmar 三周之行设定了前提——她不是在度假，而是在等待一个能让她放下的结局。如果三周后案子还没破，她将如何面对？
+
+---
+
+### 2
+
+> "Grief didn't go away—it became memories."
+
+Reed Howland 的话，Caitlin 六个月后才真正理解。
+
+**中文理解**：悲伤不会消失——它会变成记忆，成为你的一部分。这句话是全章的情感核心，也是 Caitlin 对 grief 的最终接受。
+
+**句子结构**：didn't + 原形动词（go away）对比 became + 名词（memories）——从消失到转化，形成 grief 的完整定义。
+
+**关键词**：grief，悲伤；memories，记忆。
+
+**表达方式**：破折号连接两个对照状态，前者否认"治愈"的可能，后者给出 grief 的真实归宿——不是消失，而是变形。
+
+**为什么这样写**：这是 Caitlin 的心理转折点。六个前她可能还在问"为什么"，现在她已经接受 grief 不会消失这个事实。"became memories"不是认输，而是一种成熟的心理策略——当 grief 变成记忆，它就不再是伤口，而是生命的一部分。
+
+---
+
+### 3
+
+> "Caitlin packed the diaphragm and jelly anyway, an act of wishful thinking."
+
+全章最后一句，Caitlin 把避孕工具塞进箱子的动作。
+
+**中文理解**：Caitlin 知道自己大概不会用这些东西，但她还是放进了箱子——这是一种对未来的渴望，对"正常生活"的向往，是一个"wishful thinking"的举动。
+
+**句子结构**：主句 + an act of + 名词结构，对前面的动作做出定性评价。
+
+**关键词**：wishful thinking，一厢情愿。diaphragm（子宫帽）和 jelly（避孕凝胶）是具体的物件，用在此处有强烈的暗示意味。
+
+**表达方式**：用医学用品的细节代替直接抒情——她不说"我希望还有正常生活的可能"，而是用"把避孕工具塞进箱子"这个动作来表达。含蓄而精确。
+
+**为什么这样写**：这是 Peter Golden 写 Caitlin 最见功力的一笔。六个月的 grief work 之后，她没有选择封闭自己，也没有假装 grief 已愈，而是把一个小小的"wishful thinking"放进了行李。这个细节既诚实又有尊严——她在说"我知道这可能不会发生，但我仍然想要"。
+
+**蒙太奇——Village 夜游**
+
+Caitlin 在 Village 的行走是一连串松散的意象碎片：等画像的游客、yodeling 的老人、fire escapes 上抽烟的少年、Thunderbird 酒、萤火虫记忆——表面是散步，实则是她在城市喧嚣中寻找一个答案。
+
+> "The tourists and beatniks were out in force. There were waiting lines for the sidewalk portrait artists."
+
+**核心感悟——Grief as Memory**
+
+Reed Howland 的话是 Caitlin 六个月来的心理转折点。这句话的重量在于它的不可逆性：悲伤不会消失，你只能学会与它共处。
+
+> "Six months after losing Gabe, Caitlin concluded that Reed Howland was right. Grief didn't go away—it became memories."
+
+**wishful thinking 的双重含义**：它既是 Caitlin 对即将到来的 Belmar 之行的浪漫期待（"也许会有邂逅"），也是她对"解决 Gabe 案后生活可以重新开始"的一厢情愿。
+
+**追踪线索断裂**：Caitlin 带着 .38 左轮在 Village 走了一晚，没见到 duckbill cap 男人。追踪线索至此基本断掉。
+
+**Dulles-Jack 简报报道**：Caitlin 在 Cedar Tavern 读到的报道证实了 Jack 和 Dulles 谈了古巴问题，与 ch46 的密谈内容形成互文。
+
+**Caitlin 的信**：她周五曾给 Jack 的办公室打电话请他回电——这是她试图通过 Jack 向 CIA 层面施压的努力。
+
+**Belmar 三周**：Caitlin 决定暂时离开纽约，"when Gabe's killer was caught, she would go home"——这说明她内心已经将"破案"和"回家"画上了等号，三周的度假是她在等待一个能让她彻底放下的结局。
+
+**避孕工具的隐喻**：diaphragm 和 jelly 是她为"可能发生的事"准备的保险，但她自己说"not part of her plan"——这种矛盾是全章最耐人寻味的细节。
+
+## 本章词汇
 
 **eddy** ⭐⭐⭐ /ˈedi/ vi. 旋转、打转（人群如流水般涌动）
 
@@ -32,30 +110,9 @@ Astor Place 上一个赤膊老人对着三个狂饮 Thunderbird 酒的少年唱 
 
 Caitlin 回忆童年在新泽西 South Orange 抓萤火虫的安静夏日——与 Village 夜晚的喧嚣形成对照，暗示她内心真正渴望的是平静而非冒险。
 
-## 句子结构
 
-**蒙太奇——Village 夜游**
 
-Caitlin 在 Village 的行走是一连串松散的意象碎片：等画像的游客、yodeling 的老人、fire escapes 上抽烟的少年、Thunderbird 酒、萤火虫记忆——表面是散步，实则是她在城市喧嚣中寻找一个答案。
+## 一句话总结
 
-> "The tourists and beatniks were out in force. There were waiting lines for the sidewalk portrait artists."
+Caitlin 在 Greenwich Village 追踪 duckbill cap 男人未果，在 Cedar Tavern 读报得知 Jack 与 Dulles 的古巴简报后决定暂离纽约——六个月的 grief 使她最终接受了 Reed Howland 的话：悲伤不会消失，它会变成记忆。
 
-**核心感悟——Grief as Memory**
-
-Reed Howland 的话是 Caitlin 六个月来的心理转折点。这句话的重量在于它的不可逆性：悲伤不会消失，你只能学会与它共处。
-
-> "Six months after losing Gabe, Caitlin concluded that Reed Howland was right. Grief didn't go away—it became memories."
-
-**wishful thinking 的双重含义**：它既是 Caitlin 对即将到来的 Belmar 之行的浪漫期待（"也许会有邂逅"），也是她对"解决 Gabe 案后生活可以重新开始"的一厢情愿。
-
-## 关键细节
-
-**追踪线索断裂**：Caitlin 带着 .38 左轮在 Village 走了一晚，没见到 duckbill cap 男人。追踪线索至此基本断掉。
-
-**Dulles-Jack 简报报道**：Caitlin 在 Cedar Tavern 读到的报道证实了 Jack 和 Dulles 谈了古巴问题，与 ch46 的密谈内容形成互文。
-
-**Caitlin 的信**：她周五曾给 Jack 的办公室打电话请他回电——这是她试图通过 Jack 向 CIA 层面施压的努力。
-
-**Belmar 三周**：Caitlin 决定暂时离开纽约，"when Gabe's killer was caught, she would go home"——这说明她内心已经将"破案"和"回家"画上了等号，三周的度假是她在等待一个能让她彻底放下的结局。
-
-**避孕工具的隐喻**：diaphragm 和 jelly 是她为"可能发生的事"准备的保险，但她自己说"not part of her plan"——这种矛盾是全章最耐人寻味的细节。
