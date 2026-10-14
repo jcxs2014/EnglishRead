@@ -14,7 +14,11 @@ title: EnglishRead 精读
 - **Brain Pickings / The Marginalian** — 人文思考，科学·思想·随笔
 - **Granta** — 当代文学
 - **Literary Hub** — 书评与文学
-- **books/** — 整本书/短篇合集精读库（言情/悬疑/恐怖/奇幻短篇 + 长篇 + 非虚构论述），与期刊类并列，同一 `notes/` 根
+- **books/** — 整本书/短篇合集精读库（言情/悬疑/恐怖/奇幻短篇 + 长篇 + 非虚构论述），与期刊类并列，同一 `notes/` 根；另有 302 本整书精读迁至[书籍分站](https://en1.natoms.dpdns.org)
+
+## 书籍分站（en1）
+
+整书精读库太大后做了滚动切割：**302 本**整书精读（长篇小说 201 / 推理悬疑 37 / 非虚构 43 / 短篇合集 21）迁至独立分站 **[en1.natoms.dpdns.org](https://en1.natoms.dpdns.org)**，与本站同构部署（Quartz + Cloudflare Workers）、独立书单与搜索索引。本站保留期刊类与 185 本书籍，完整书单见[书单](books/index)。
 
 ## 每日工作流
 
