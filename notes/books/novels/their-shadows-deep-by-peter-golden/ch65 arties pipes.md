@@ -1,47 +1,29 @@
 # 65. Artie's Pipes
 
-## 章节概述
+## 概述
 
-Caitlin 在 Albany 南 Pearl 街找到 Artie's Pipes & Tobacco——她一眼就认出了 Arthur Korn：stooped shoulders、白色山羊胡、straw fedora（在室内也戴着）。她决定等到早上九点店开门、 Korn 独自一人时再接近他。同时她住进了 DeWitt Clinton Hotel，打电话告诉 Danny 她找到了 Clara 的 uncle。
+Caitlin 追踪到 Albany 的 Artie's Pipes & Tobacco，找到 Arthur Korn。Korn 有 Auschwitz 文身编号 149593，拒绝谈 Clara——"我失去了妻子和两个女儿，毒气室不让我害怕，你更不能"。Caitlin 被命令离开。
+
+## 精读
+
+> "The Nazis give me these numbers at Auschwitz and send us to Birkenau. I was scared at Birkenau. Until my wife and two daughters die. Then I wasn't scared no more."
+
+**句子结构**：并列复合句。Until 引导时间状语从句（= 在…之前），not...no more = never again。三个句子形成大屠杀创伤的浓缩叙事。
+
+**关键词**：Auschwitz / Birkenau / wasn't scared no more
+
+**为什么这样写**：Korn 的证言是全书最沉重的时刻之一——"直到妻子和两个女儿死了，我才不再害怕"——这句话的含义是：当一个人失去了所有能失去的，就再也没有什么可以失去的了。Golden 用这个大屠杀幸存者的视角来诠释为什么 Korn 拒绝帮助 Caitlin：他已经在最黑暗的地方战胜了恐惧。
+
+---
+
+> "His dark eyes appeared to have taken a close look at the world and disliked most of what they'd seen and were now adding Caitlin to the list."
+
+**句子结构**：主语 His dark eyes + appear to have taken / disliked / were...adding 并列谓语。
+
+**关键词**：disliked most of what they'd seen / adding Caitlin to the list
+
+**为什么这样写**：Golden 用黑色幽默的笔调——Korn 的眼睛已经看够了世界的丑陋，正在把 Caitlin 加入"失望清单"。这句话在沉重的时刻出现，形成情绪的微妙变化。
 
 ## 词汇
 
-**malodorous** ⭐⭐ /mælˈoʊdərəs/ adj. 臭气熏天的
-
-DeWitt Clinton Hotel 大厅里"malodorous scent of larceny"——这个形容词描述的不是真正的臭味，而是 lobby 里那些 lobbyist 和 legislator 身上的腐败气息。
-
-**omnivorous** ⭐⭐ /ɒmˈnɪvərəs/ adj. 贪婪的；什么都要的
-
-lobbyists 用"omnivorous looks"看着一切——他们像饥饿的动物一样搜寻每一个可以 leverage 的机会。
-
-**dueling pistols** ⭐⭐ /ˈduːəlɪŋ ˈpɪstəlz/ 连用 决斗用的手枪
-
-烟斗店橱窗里的 pipes 被布置成"like dueling pistols"——这个比喻既精确又讽刺：烟斗和决斗手枪都是男性的、暴力的、仪式化的物品。
-
-**inexplicably** ⭐⭐ /ˌɪnɪkˈsplɪkəbli/ adv. 无法解释地
-
-Korn 在室内戴着 straw fedora——这是他的 signature，也是 Caitlin 认出他的关键细节。
-
-**lobbyist** ⭐⭐ /ˈlɒbiɪst/ n. 说客
-
-DeWitt Clinton Hotel 里的 lobbyist 们穿着"buttery wool"（柔软的奶油色羊毛）——这是他们财富和影响力的外在标志。
-
-## 句子结构
-
-**历史对照**
-
-> "The lobby of the DeWitt Clinton had a mural of Dutch settlers trading with Indians and a malodorous scent of larceny—men in club chairs speaking furtively in corners..."
-
-荷兰殖民者与印第安人的交易 vs. 1960 年 lobbyist 和 legislator 的 lobbying——历史的轮回在这里形成讽刺：每一代人都觉得自己比前人更公平，但实际上是同样的剥削。
-
-**Caitlin 的计划**
-
-Caitlin 决定等到早上九点、Korn 独自在店里时再接近他——这是正确的 cop strategy：当对方在公共场合被很多人包围时，不会说任何实质性的东西。
-
-## 关键细节
-
-**Arthur Korn 的确认**：Korn 就是照片里 Clara 身边的 bent older man。stooped shoulders、白色山羊胡、straw fedora——这些 physical features 和 surveillance photo 一致。
-
-**Korn 的工作**：Artie's Pipes & Tobacco——烟斗店。这个 business 是他的掩护还是真实的生意？如果 Clara 是 Havana 的 prostitute，Korn 为什么会开一家烟斗店？
-
-**DeWitt Clinton Hotel**：这家酒店是 Albany 的政治中心——lobbyist 和 legislator 的聚集地。Caitlin 住在这里既是巧合，也是她调查 Clara 的 uncle 必须来到 Albany 的结果。
+**birkenau** ⭐⭐⭐ 高级｜/bɪərkəˈnaʊ/ n. 奥斯维辛-比克瑙集中营（组成部分）｜原文例句：The Nazis give me these numbers at Auschwitz and send us to Birkenau.｜Korn 用 Birkenau（灭绝营）而非笼统说 Auschwitz——Golden 让这个人物保持精确的大屠杀地理知识，说明这段历史在他生命中的分量。

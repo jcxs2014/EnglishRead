@@ -1,46 +1,39 @@
 # 64. Glens Falls
 
-## 章节概述
+## 概述
 
-Caitlin 开车到 Glens Falls，在 Queensbury Hotel 登记后去 Wait Street 7 号找 Arthur Korn。房子没人应门，shades drawn，她决定打电话给 Danny 和 Reed。Reed 用半开玩笑的语气说他以为再也听不到她的消息了——"bruised feelings"藏在玩笑后面。Caitlin 说"I miss you right now"——这是她第一次对 Reed 说出 longing 的话。
+Caitlin 在 Glens Falls 近一个月蹲守 7 Wait Street，无果。Reed 来电，她未透露行踪。Rabbi Birnbaum 告知 Arthur Korn 已搬 Albany 开烟斗店。Kennedy 辩论表现让 Caitlin 重燃对美国未来的信念。
+
+## 精读
+
+> "There's a famous statue of a guy sitting on a rock with his chin on his hand."
+
+**句子结构**：There is 引导的存在句 + of 介词短语作 statue 的后置定语；`with his chin on his hand` 是 guy 的后置定语。
+
+**关键词**：famous statue / chin on his hand
+
+**为什么这样写**：Gabe 引 Rodin 的 The Thinker来形容警察工作的本质——坐着等待是职业的核心，而不是冲动行动。这个细节既写实又幽默，也暗示 Caitlin 为什么能在 Glens Falls 坚持蹲守一个月。
+
+---
+
+> "Kennedy's theme, that Americans weren't living up to their potential and the country needed to start moving again, seemed to be directed at her as a challenge to stop floundering and to create the life she wanted."
+
+**句子结构**：主语 Kennedy's theme + that 引导的同位语从句 + seemed to be directed at her...不定式作表语。
+
+**关键词**：stop floundering / create the life she wanted
+
+**为什么这样写**：Kennedy 的辩论主题对 Caitlin 而言既是政治动员也是个人召唤——她意识到自己沉溺于过去（Gabe 之死），而 Kennedy"start moving again"的主题恰好击中她的个人困境。Golden 用这个方式将政治情节与人物情感弧线绑定。
+
+---
+
+> "Smart's OK; lucky's better."
+
+**句子结构**：并列分号结构，两个简短陈述句形成谚语。
+
+**关键词**：Smart's OK / lucky's better
+
+**为什么这样写**：Caitlin 母亲的口头禅在这里被证明——Caitlin 蹲守一个月无果（smart 不够），却在放弃时偶遇 Rabbi Birnbaum（lucky 的证明）。Golden 用谚语为情节转折做注脚，同时揭示 Caitlin 与母亲的和解（她曾经嫌母亲的话太俗）。
 
 ## 词汇
 
-**canopy** ⭐⭐ /ˈkænəpi/ n. 顶篷；树冠
-
-"walking to Wait Street under a canopy of autumn-gold elms"——秋天的金黄 elm 树形成一条 canopy，诗意地描写了 Caitlin 追寻线索的旅程。
-
-**bruised feelings** ⭐⭐⭐ /bruːzd ˈfiːlɪŋz/ n. 受伤的感情
-
-Reed 用半开玩笑的语气说他以为再也听不到她的消息——"a man concealing bruised feelings"。他不是在责怪，而是在表达他需要确认这段关系的真实性。
-
-**Queensbury Hotel** ⭐⭐ /ˈkwiːnzbəri/ n. 昆斯伯里酒店
-
-Glens Falls 的一家酒店——Caitlin 选择住在这里便于蹲守。
-
-**stooped** ⭐⭐（复用 ch62）——Korn 的 stooped shoulders 与照片里的 bent older man 吻合。
-
-**shades drawn** ⭐⭐⭐ 连用 窗帘拉着
-
-Korn 家的窗户 shades were drawn——说明他不在家，或者不想被人看到。Caitlin 在 Glens Falls 找不到他，于是转去 Albany。
-
-## 句子结构
-
-**"I missed you" 的三重回响**
-
-Reed: "I was beginning to think I'd never hear from you again."
-Caitlin: "I've missed you too," she replied, embarrassed by the longing in her voice. "I miss you right now."
-
-三句话里的"miss"从第三人称的担忧到第二人称的回应再到第一人称的坦白——Caitlin 终于说出了 longing，而不仅仅是对关系的确认。
-
-**电话号码的意义**
-
-Reed 在电话里问她什么时候能听到消息——这说明他们分开后 Caitlin 没有主动联系过他。她一直在追查 Korn，但 Reed 不知道这一点。他以为她消失了。
-
-## 关键细节
-
-**Arthur Korn 不在 Glens Falls**：Wait Street 7 号的房子 shades drawn，没有人应门。Caitlin 决定转去 Albany 继续追查。
-
-**Reed 的"bruised feelings"**：Reed 并不是在责怪——他的玩笑语气说明他理解 Caitlin 有更重要的事，但他也需要确认这段关系是真实的。
-
-**Danny 的 message**：Caitlin 给 Danny 留了酒店名字和电话号码——她知道他会找到她。
+**floundering** ⭐ 进阶｜/ˈflaʊndərɪŋ/ v. 挣扎；陷入困境｜原文例句：to stop floundering and to create the life she wanted｜Kennedy 的演讲让 Caitlin 感到自己需要"停止挣扎"，这个词暗示她过去七个月像溺水一样在 grief 和调查中浪费生命。
