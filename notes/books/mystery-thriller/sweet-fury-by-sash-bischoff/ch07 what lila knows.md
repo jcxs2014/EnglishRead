@@ -89,15 +89,15 @@ source_text: "ch07_what_lila_knows.txt"
 
 ---
 
-> **原句 7:** "Oh god," she said. "Oh lord. I am such a fan."
+> **原句 7:** "I'm… um…" The question had seemed to stump the poor girl. "Oh god," she said finally. "Oh lord. I am such a fan."
 
-**中文理解**： "天哪，"她说。"上帝。我是你的超级粉丝。"
+**中文理解**： "我……呃……"这个问题似乎难住了这可怜的姑娘。"天哪，"她终于说道。"上帝。我是你的超级粉丝。"
 
-**关键词**： Oh god（天哪）、I am such a fan（我是超级粉丝）
+**关键词**： stump（难住）、Oh god（天哪）、I am such a fan（我是超级粉丝）、finally（终于）
 
-**表达方式**： 粉丝的典型反应。服务员在紧张中被 Lila 的魅力捕获，从业恐惧转变为追星眩晕——这是 Lila 公众力量的微观展示。
+**表达方式**： 从紧张到释放的情感弧线。"I'm… um…"的犹豫被"finally"所取代——服务员从被 Karen 吓到的语塞，到面对 Lila 时转为追星眩晕，形成完整的情绪转变。
 
-**为什么这样写**： 服务员的 fan 声明与 Karen 的冷嘲形成对比。Lila 在公众面前的魅力是真实的——但本章也展示她如何将这种魅力用作武器：拯救服务员既是善意，也是对母亲的一种无声反抗。
+**为什么这样写**： 服务员先被 Karen 的威压震慑到语塞，再被 Lila 的魅力所捕获。这个细节展示了 Lila 公众力量的微观展示——她的亲和力能让一个紧张的服务员从结巴转为真诚的崇拜。
 
 ---
 
