@@ -97,7 +97,7 @@ modified: "2026-10-14"
 | effort | 努力 | takes time and effort |
 | event | 活动；节庆 | the event in question |
 | materials | 材料 | the cost of materials |
-| message | 消息；讯息 | Response sent from Relina Lark |
+| Message | 消息；讯息 | Message from Tress Ordalic |
 | time | 时间 | another waste of time |
 
 ## 一句话总结
