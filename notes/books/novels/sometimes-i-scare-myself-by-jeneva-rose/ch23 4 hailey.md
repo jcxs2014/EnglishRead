@@ -89,7 +89,7 @@ modified: "2026-10-13"
 
 ---
 
-> **原句 7:** "Just don't trust the neighbors around here."
+> **原句 7:** "Just don't trust the neighbors around here." … I lifted my chin. "Even you?" … "Even me."
 
 **中文理解**：「就是不要相信这附近的邻居。」「连你也不信？」「连我也不信。」
 

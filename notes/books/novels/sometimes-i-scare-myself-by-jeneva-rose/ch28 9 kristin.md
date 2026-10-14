@@ -29,7 +29,7 @@ modified: "2026-10-13"
 
 ---
 
-> **原句 2:** "We should move," he said.
+> **原句 2:** "We should move," he said. … "It's not safe here." His voice was calm . . . too calm.
 
 **中文理解**：「我们应该搬走，」他说。「这里不安全。」他的声音很平静……太平静了。
 
