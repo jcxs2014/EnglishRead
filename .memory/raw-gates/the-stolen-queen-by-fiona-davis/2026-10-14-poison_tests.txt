@@ -1,0 +1,26 @@
+=== 投毒测试（验证检查器真的会响；测完 git checkout 还原）===
+
+--- 毒1：把金句㉔的章标（ch29）改成（ch07）
+injected
+  ⚠️ 标注与实章不符 : 1
+  ✅ 标注章逐字 : 49
+
+----- 口径外（0 条，不计入失败，需人判）-----
+
+----- 待人判清单（1 条）-----
+  00_金句精选.md:172  标注ch7  ⚠️ 标注与实章不符（标注 ch7，实章 ch29）
+    I’ll never tell. You go after my mother? This is what you get in return. And to think she was right under your nose.
+
+--- 毒2：在 ch03 导航层塞一句原文没有的英文
+injected
+❌ ch03 the feather boa errand.md: 「the moon rose over the crooked chimney.」全书查无 ⇒ 阻断型
+
+=== 导航/总结层英文核对：❌ 1 ｜ ⚠️ 1 ===
+
+--- 毒3：把 ch05 一条引语搬去 ch07 的语料（模拟跨章）
+ch07 原句1 前缀: When Charlotte finally made it home that evening, she was gr
+
+--- 毒3：把 ch05 的一句原文搬进 ch07 的引语块，看 check_chapter_quotes 是否报跨章
+ch07 the ring in the apron pocket.md: 7/8 in ch07 text
+  MISS: Charlotte immediately recognized it as a broad collar, a wide, layered necklace 
+ch07 the ring in the apron pocket.md: 8/8 in ch07 text
