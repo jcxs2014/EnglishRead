@@ -39,11 +39,11 @@ source_text: "ch10_end_of_act_two.txt"
 
 ---
 
-> **原句 4:** "That night, L slept with him. Next morning, woke up to finalized contract."
-**中文理解**：Lila 在压力下与 Kurt 发生关系，次日醒来时合约已经签署——性的代价是事业机会。
-**关键词**：slept with him · finalized contract · next morning
-**表达方式**：极简陈述；两个事件用句号隔开，暗示因果关系——性 = 合约，没有浪漫，只有交易。
-**为什么这样写**：这句话的力量在于"醒来"的双重含义——从被操控的昏睡中醒来，也从童话般的幻梦中醒来。Gabriel 没有立即评判，而是继续追问"为什么之后还和这个人约会"，展现治疗师对来访者自我决定权的尊重。
+> **原句 4:** "That night, L slept with him. Next morning, woke to finalized contract. Appalled by K's actions—completely contradictory to L's description of K as feminist—but given L's state, wanted to handle subject delicately."
+**中文理解**：Lila 在压力下与 Kurt 发生关系，次日醒来时合约已经签署。Gabriel 对 Kurt 的行为感到震惊——这与他此前描述的"女权主义者"形象完全矛盾；但鉴于 Lila 的状态，他选择谨慎处理。
+**关键词**：slept with him · finalized contract · Appalled by K's actions · feminist · wanted to handle subject delicately
+**表达方式**：三段式结构——性交易、醒来发现合约已签、旁观者反应。省略号连接矛盾转折，暴露 Kurt 的真实面目。
+**为什么这样写**："Appalled by K's actions—completely contradictory to L's description of K as feminist"一句揭示双重真相：Kurt 表面自述的女权主义者形象与实际性强制行为形成鲜明对比；Gabriel 的"wanted to handle subject delicately"展现治疗师的职业克制——他没有立即评判来访者的决定，而是选择等待她准备好再深入。
 
 ---
 
