@@ -7,7 +7,7 @@ modified: "2026-10-14"
 
 ## 本章导航
 
-**一句话概括**：Drew、Max 和 Autumn 在 Nana's Favorites 二手店等到店主 Eloise，确认 Lola 昨天曾和一个男人来此购物；Eloise 回忆起 Lola 提到要回 Alton，三人决定连夜驱车前往，准备次日把证据交给 Alton 警局。
+**一句话概括**：Drew、Max 和 Autumn 在 Nana’s Favorites 二手店等到店主 Eloise，确认 Lola 昨天曾和一个男人来此购物；Eloise 回忆起 Lola 提到要回 Alton，三人决定连夜驱车前往，准备次日把证据交给 Alton 警局。
 
 **情感弧线位置**：跃升——从"证据不够"的焦虑到"我们知道了目的地"的狂喜，三人组从被动追查转为主动出击
 
@@ -19,13 +19,13 @@ modified: "2026-10-14"
 
 ## 精读
 
-> **原句 1:** "I don't know what I'm expecting from a place called Nana's Favorites, but this is not it."
+> **原句 1:** "I don’t know what I’m expecting from a place called Nana’s Favorites, but this is not it."
 
-**中文理解**：我不知道自己期待从一家叫 Nana's Favorites 的地方看到什么，但绝不是眼前这样。
+**中文理解**：我不知道自己期待从一家叫 Nana’s Favorites 的地方看到什么，但绝不是眼前这样。
 
-**关键词**：expecting（期待）、Nana's Favorites（店名，直译"奶奶的最爱"）
+**关键词**：expecting（期待）、Nana’s Favorites（店名，直译"奶奶的最爱"）
 
-**为什么这样写**：开篇第一句用**预期落差**制造悬念——`expecting` 暗示 Drew 有某种预设，`but this is not it` 立刻推翻它，但不说"那是什么"。作者用这种**故意留白**把读者拉进场景，和他一起看到那栋破旧的小店。`Nana's Favorites` 这个温馨店名与后面的严峻现实形成第一层反差。
+**为什么这样写**：开篇第一句用**预期落差**制造悬念——`expecting` 暗示 Drew 有某种预设，`but this is not it` 立刻推翻它，但不说"那是什么"。作者用这种**故意留白**把读者拉进场景，和他一起看到那栋破旧的小店。`Nana’s Favorites` 这个温馨店名与后面的严峻现实形成第一层反差。
 
 **读者视角提示**：读者要留意这家店的名字——它暗示"祖母""家庭""温暖"，而此刻他们来这里是找一个被绑架的女孩。这种反差为整章定调：**在看似平常的地方，藏着不平常的秘密。**
 
@@ -39,7 +39,7 @@ modified: "2026-10-14"
 
 **读者视角提示**：这句让读者看到 Drew 的自我意识——他不是在利用 Eloise，而是在意她的感受。这种共情为后面 Eloise 主动提出帮忙埋下伏笔：**善意是会传染的。**
 
-> **原句 3:** "There's a strange buzzing in my ear and I realize I stopped breathing."
+> **原句 3:** "There’s a strange buzzing in my ear and I realize I stopped breathing."
 
 **中文理解**：耳朵里有一种奇怪的嗡嗡声，我意识到自己已经停止了呼吸。
 
@@ -59,17 +59,17 @@ modified: "2026-10-14"
 
 **读者视角提示**：这是典型的"flag 句"——**信息的确认即承诺的确认**。从这一刻起，三人的目标从"找线索"变成"去 Alton"，而读者已经知道：**越接近真相，越接近危险。**
 
-> **原句 5:** "It doesn't feel right," Max says. "Being so close to finding her and then going home?"
+> **原句 5:** "It doesn’t feel right," Max says. "Being so close to finding her and then going home?"
 
 **中文理解**："这感觉不对，"Max 说。"都这么接近找到她了，然后回家？"
 
-**关键词**：doesn't feel right（感觉不对）、so close（这么接近）、going home（回家）
+**关键词**：doesn’t feel right（感觉不对）、so close（这么接近）、going home（回家）
 
-**为什么这样写**：Max 用**反问句**把 Drew 内心的犹豫外化——`Being so close... and then going home?` 这个句式本身就在说"荒谬"。`doesn't feel right` 是口语化的直觉判断，没有逻辑论证，但比论证更有力。Max 的角色功能在这里是**把直觉说出来的人**——Drew 想回家（理性），Max 说出不想回家的话（直觉）。
+**为什么这样写**：Max 用**反问句**把 Drew 内心的犹豫外化——`Being so close... and then going home?` 这个句式本身就在说"荒谬"。`doesn’t feel right` 是口语化的直觉判断，没有逻辑论证，但比论证更有力。Max 的角色功能在这里是**把直觉说出来的人**——Drew 想回家（理性），Max 说出不想回家的话（直觉）。
 
 **读者视角提示**：Max 这句话是三人组的**共同心声**。读者应当注意——他们此刻的决定是出于直觉而非计划，而直觉驱动的决策往往缺乏风险评估。这为后面的冲突埋下伏笔。
 
-> **原句 6:** "Nothing is worse than losing Lola and having to wake up every single day not knowing if she's dead or alive."
+> **原句 6:** "Nothing is worse than losing Lola and having to wake up every single day not knowing if she’s dead or alive."
 
 **中文理解**：没有什么比失去 Lola 更糟的了——每天醒来不知道她是死是活。
 
@@ -77,7 +77,7 @@ modified: "2026-10-14"
 
 **为什么这样写**：全章的情感核心，用**最高级否定**（Nothing is worse）给所有其他恐惧设了一个上限。`wake up every single day` 用 `every single` 强调重复的折磨——不是一次性的痛苦，而是**每天重新经历一次**。`dead or alive` 把不确定性压缩成最极端的二元对立。这句话解释了为什么三人愿意冒这么大的险：**不作为的代价远大于行动的代价**。
 
-**读者视角提示**：这是 Drew 全书最坦诚的一句话。读者应当把它与 ch19 的"Today, I'm going to find Lola"对照——从"今天要找到"的乐观，到"每天不知道是死是活"的绝望，再到此刻"必须行动"的决心，构成完整的情感弧。
+**读者视角提示**：这是 Drew 全书最坦诚的一句话。读者应当把它与 ch19 的"Today, I’m going to find Lola"对照——从"今天要找到"的乐观，到"每天不知道是死是活"的绝望，再到此刻"必须行动"的决心，构成完整的情感弧。
 
 ## 本章词汇
 
@@ -111,4 +111,4 @@ modified: "2026-10-14"
 
 ## 一句话总结
 
-三人在 Nana's Favorites 店主 Eloise 那里确认 Lola 曾与一名陌生男子来此购物，并从她口中得知 Lola 的目的地是 Alton——三人决定连夜驱车前往，准备次日把全部证据交给 Alton 警局，绕过 Roane 的阻挠。
+三人在 Nana’s Favorites 店主 Eloise 那里确认 Lola 曾与一名陌生男子来此购物，并从她口中得知 Lola 的目的地是 Alton——三人决定连夜驱车前往，准备次日把全部证据交给 Alton 警局，绕过 Roane 的阻挠。

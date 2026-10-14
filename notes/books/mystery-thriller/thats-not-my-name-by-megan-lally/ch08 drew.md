@@ -19,7 +19,7 @@ modified: "2026-10-14"
 
 ## 精读
 
-> **原句 1:** "You're a smartass."
+> **原句 1:** "You’re a smartass."
 
 **中文理解**：你是个自作聪明的家伙。
 
@@ -39,7 +39,7 @@ modified: "2026-10-14"
 
 **读者视角提示**：这是本章的核心场景——Drew 被迫回到 Lola 最后出现的地方。停车位置的选择（无论是否故意）触发了 Drew 的闪回，也是下一段 Lola 幻象的前置。
 
-> **原句 3:** "For a second, I feel like I've left my body."
+> **原句 3:** "For a second, I feel like I’ve left my body."
 
 **中文理解**：有一瞬间，我感觉自己离开了身体。
 
@@ -59,13 +59,13 @@ modified: "2026-10-14"
 
 **读者视角提示**：这是全书第一次明确指向"暴力"——不是失踪、不是逃跑，而是血。这个词的性质从"搜救"变成了"案发现场"。
 
-> **原句 5:** "Because it's become increasingly clear that leaving town wasn't her idea, Drew."
+> **原句 5:** "Because it’s become increasingly clear that leaving town wasn’t her idea, Drew."
 
 **中文理解**：因为越来越清楚的是，离开小镇不是她的主意，Drew。
 
-**关键词**：increasingly clear（越来越清楚）、leaving town wasn't her idea（离开小镇不是她的主意）
+**关键词**：increasingly clear（越来越清楚）、leaving town wasn’t her idea（离开小镇不是她的主意）
 
-**为什么这样写**：Sheriff Roane 用 `increasingly clear` 制造一种"证据在积累"的假象——但实际上他没有任何证据。`leaving town wasn't her idea` 是一个没有依据的推断，但它击中了 Drew 的恐惧——如果 Lola 不是主动离开的，那她发生了什么？这句话的阴险在于它用的是**间接证据的逻辑**（"越来越清楚"）来包装**纯粹的猜测**。
+**为什么这样写**：Sheriff Roane 用 `increasingly clear` 制造一种"证据在积累"的假象——但实际上他没有任何证据。`leaving town wasn’t her idea` 是一个没有依据的推断，但它击中了 Drew 的恐惧——如果 Lola 不是主动离开的，那她发生了什么？这句话的阴险在于它用的是**间接证据的逻辑**（"越来越清楚"）来包装**纯粹的猜测**。
 
 **读者视角提示**：这是 Roane 的审讯策略——用看似合理的推理让 Drew 自我怀疑。读者需要注意：Roane 在此**没有任何实际证据**，他一直在诈取口供。
 
@@ -75,7 +75,7 @@ modified: "2026-10-14"
 
 **关键词**：to blame（该被责备，有罪）
 
-**为什么这样写**：承接上一段 Roane 的 `you and I both know you're to blame` 和 `The yet rings in my head. But for once he and I are in agreement.` ——Drew 罕见地同意了 Sheriff 的判断。`to blame` 不是法律意义上的 guilty，而是道德/情感意义上的"我有责任"。这个让步让 Drew 在读者面前展现了他的另一面：他确实觉得自己对 Lola 的失踪有某种罪责（因为那天晚上让她生气、因为打了 35 分钟游戏才去接她）。
+**为什么这样写**：承接上一段 Roane 的 `you and I both know you’re to blame` 和 `The yet rings in my head. But for once he and I are in agreement.` ——Drew 罕见地同意了 Sheriff 的判断。`to blame` 不是法律意义上的 guilty，而是道德/情感意义上的"我有责任"。这个让步让 Drew 在读者面前展现了他的另一面：他确实觉得自己对 Lola 的失踪有某种罪责（因为那天晚上让她生气、因为打了 35 分钟游戏才去接她）。
 
 **读者视角提示**：这是 Drew 全书最脆弱的时刻之一——他不再反击，不再讽刺，而是承认了自己的罪责。这个承认既让人同情，也引发疑问：他的罪责到底是什么？是情感上的（没有及时去接她），还是暗示了更多？
 
@@ -86,22 +86,22 @@ modified: "2026-10-14"
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | cooperation | 合作 | Plus, this is what cooperation looks like, right? |
-| supportive | 支持的，关心的 | Oh fun, he's playing the supportive sheriff today. |
+| supportive | 支持的，关心的 | Oh fun, he’s playing the supportive sheriff today. |
 | statements | 陈述，证词 | So far, your statements have been vague at best. |
 | discrepancy | 矛盾，出入 | I can feel him looking for a discrepancy. |
-| increasingly | 越来越，日益 | "Because it's become increasingly clear that leaving town wasn't her idea, Drew. |
-| disappearance | 失踪，消失 | But now, I finally have the evidence I need to prove you're involved in Lola's disappearance. |
-| investigation | 调查 | Lola's story doesn't end at this boat launch, and neither should your investigation. |
+| increasingly | 越来越，日益 | "Because it’s become increasingly clear that leaving town wasn’t her idea, Drew. |
+| disappearance | 失踪，消失 | But now, I finally have the evidence I need to prove you’re involved in Lola’s disappearance. |
+| investigation | 调查 | Lola’s story doesn’t end at this boat launch, and neither should your investigation. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | gravelly | 沙哑的 | His gravelly voice makes my shoulders tense. |
-| smartass | 自作聪明的家伙 | "You're a smartass." |
+| smartass | 自作聪明的家伙 | "You’re a smartass." |
 | irritated | 恼怒的 | His mouth twists up into an irritated pretzel. |
 | evidence | 证据 | Which means the police must have some new evidence. |
-| creeping | 令人毛骨悚然的 | I can hear the air whistling through his nostrils and it's kind of creeping me out. |
+| creeping | 令人毛骨悚然的 | I can hear the air whistling through his nostrils and it’s kind of creeping me out. |
 | freckles | 雀斑 | The freckles across her nose peeking out from beneath her makeup. |
 
 ### ⭐ 基础

@@ -29,7 +29,7 @@ modified: "2026-10-14"
 
 **读者视角提示**：Mary 的"熟悉感"是本章的核心悬念之一——她为什么会觉得熟悉？是真正的记忆残留，还是 Wayne 刻意营造的氛围？这个疑问会持续发酵。
 
-> **原句 2:** "These look like they'd fit a middle schooler."
+> **原句 2:** "These look like they’d fit a middle schooler."
 
 **中文理解**：这些看起来像中学生穿的。
 
@@ -49,7 +49,7 @@ modified: "2026-10-14"
 
 **读者视角提示**：Mary 在此展现了自我意识——她不想表现得"不知足"，但她的情绪是真实的。这种克制比直接哭更让人心疼。
 
-> **原句 4:** "I'm still worried you'll have a histamine flare-up, not to mention the concussion, and you look like someone punched you in the face."
+> **原句 4:** "I’m still worried you’ll have a histamine flare-up, not to mention the concussion, and you look like someone punched you in the face."
 
 **中文理解**：我还是担心你会过敏发作，更别提脑震荡了，而且你看起来像被人打了一拳。
 
@@ -59,23 +59,23 @@ modified: "2026-10-14"
 
 **读者视角提示**：这是 Wayne 第一次明确阻止 Mary 与外界接触。他的理由是善意的，但方式控制欲强——"你看起来像被打了一拳"不是关心她的感受，而是关心她"看起来"如何。
 
-> **原句 5:** "Don't worry. Nobody will see you."
+> **原句 5:** "Don’t worry. Nobody will see you."
 
 **中文理解**：别担心，没人会看到你。
 
 **关键词**：nobody will see you（没人会看到你）
 
-**为什么这样写**：这句话表面是安慰（旧货店不会有人），但 `nobody will see you` 的措辞有双重含义——"没人会注意到你"和"没人应该看到你"。在 Mary 的处境下（失忆、被认领、脸上有伤），这句话听起来像是 Wayne 在说：你不该被任何人看到。`Don't worry` 的安抚语气与 `nobody will see you` 的排他性形成反差。
+**为什么这样写**：这句话表面是安慰（旧货店不会有人），但 `nobody will see you` 的措辞有双重含义——"没人会注意到你"和"没人应该看到你"。在 Mary 的处境下（失忆、被认领、脸上有伤），这句话听起来像是 Wayne 在说：你不该被任何人看到。`Don’t worry` 的安抚语气与 `nobody will see you` 的排他性形成反差。
 
 **读者视角提示**：这是本章的转折点——从日常对话转为悬疑。Mary 的 `stab of unease` 是直觉反应，读者需要追问：Wayne 是在保护她，还是在隐藏她？
 
-> **原句 6:** "I can't explain the stab of unease that sentence brings."
+> **原句 6:** "I can’t explain the stab of unease that sentence brings."
 
 **中文理解**：我无法解释那句话带来的刺痛般的不安。
 
 **关键词**：stab（刺痛）、unease（不安）
 
-**为什么这样写**：`stab` 是身体感受的隐喻——不是渐进的焦虑，而是突然的刺痛。`can't explain` 强调这是直觉而非理性分析。`that sentence brings` 把不安归因于 Wayne 的那句话，但 Mary 自己也不确定为什么。这个不确定性正是悬疑的核心——读者和 Mary 一起感到不安，但不知道原因。
+**为什么这样写**：`stab` 是身体感受的隐喻——不是渐进的焦虑，而是突然的刺痛。`can’t explain` 强调这是直觉而非理性分析。`that sentence brings` 把不安归因于 Wayne 的那句话，但 Mary 自己也不确定为什么。这个不确定性正是悬疑的核心——读者和 Mary 一起感到不安，但不知道原因。
 
 **读者视角提示**：这是章末 cliffhanger——Mary 的直觉在警告她，但她的失忆让她无法判断这个警告是否合理。读者需要决定：是相信 Mary 的直觉（Wayne 有问题），还是相信 Wayne 的说法（只是过度保护）？
 
@@ -90,8 +90,8 @@ modified: "2026-10-14"
 | ridiculous | 可笑的，荒谬的 | But I feel ridiculous for almost-crying about some leggings. |
 | practically | 几乎，简直 | In fact, I have to practically drag you out into civilization whenever we run errands. |
 | civilization | 文明社会，外出 | In fact, I have to practically drag you out into civilization whenever we run errands. |
-| concussion | 脑震荡 | I'm still worried you'll have a histamine flare-up, not to mention the concussion, and you look like someone punched you in the face. |
-| unreasonable | 不合理的，过分的 | I know it's unreasonable, but the idea of waiting a week for packages to climb the mountain makes my stomach drop. |
+| concussion | 脑震荡 | I’m still worried you’ll have a histamine flare-up, not to mention the concussion, and you look like someone punched you in the face. |
+| unreasonable | 不合理的，过分的 | I know it’s unreasonable, but the idea of waiting a week for packages to climb the mountain makes my stomach drop. |
 | excitement | 兴奋，激动 | Wayne unlocks the van and I climb in, excitement bubbling under my skin. |
 
 ### ⭐⭐ 进阶
@@ -102,8 +102,8 @@ modified: "2026-10-14"
 | familiar | 熟悉的 | It feels familiar, and without the catastrophe of yesterday, I love it. |
 | soothing | 舒缓的，抚慰的 | The hot water is just as soothing this round, and by the time I climb out of the shower, even my bruises feel better. |
 | comically | 滑稽地，可笑地 | Almost comically small. |
-| homebody | 宅人，喜欢待在家里的人 | Oh right, I'm a homebody. |
-| hesitate | 犹豫，迟疑 | I hesitate, not wanting to upset him when he's trying so hard to help, and his eyebrows come together. |
+| homebody | 宅人，喜欢待在家里的人 | Oh right, I’m a homebody. |
+| hesitate | 犹豫，迟疑 | I hesitate, not wanting to upset him when he’s trying so hard to help, and his eyebrows come together. |
 
 ### ⭐ 基础
 
@@ -112,7 +112,7 @@ modified: "2026-10-14"
 | bag | 袋子 | I towel off and dig through the bag, deciding what to wear. |
 | armpits | 腋下 | I pull the shirt over my head, and it rolls into a constrictive bunch under my armpits. |
 | black beanie | 黑色毛线帽 | Wayne hands me the floral jacket and a black beanie. |
-| breakfast dishes | 早餐碗碟 | But you're doing the breakfast dishes first. |
+| breakfast dishes | 早餐碗碟 | But you’re doing the breakfast dishes first. |
 | still-damp | 仍然潮湿的 | I twist up my still-damp ends, and tuck them into the hat. |
 
 ## 一句话总结

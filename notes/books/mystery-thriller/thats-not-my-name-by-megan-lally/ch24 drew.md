@@ -39,7 +39,7 @@ modified: "2026-10-14"
 
 **读者视角提示**：这是全书的**镜像结构**——Drew 在找 Lola，而 Alton 镇在找 Ben Hooper。两条失踪线在此交汇，读者应当意识到：**Ben Hooper 的失踪不是背景板，而是与 Lola 案直接相关的线索。**
 
-> **原句 3:** "I've never been this hopeful in my entire life."
+> **原句 3:** "I’ve never been this hopeful in my entire life."
 
 **中文理解**：我这辈子从来没有这么充满希望过。
 
@@ -59,7 +59,7 @@ modified: "2026-10-14"
 
 **读者视角提示**：读者要理解这个排版的含义——**它不是强调，而是确认**。Drew 在逐字确认"这个人在认真记录"，而读者通过这种排版也逐字确认了同一件事。这是作者用**形式**传递**内容**的典型手法。
 
-> **原句 5:** "I'm not going to pretend what you three did to get here is okay or condone how you gathered a single piece of this information."
+> **原句 5:** "I’m not going to pretend what you three did to get here is okay or condone how you gathered a single piece of this information."
 
 **中文理解**：我不会假装你们三个做的这些事是正当的，也不会赞同你们收集这些信息的方式。
 

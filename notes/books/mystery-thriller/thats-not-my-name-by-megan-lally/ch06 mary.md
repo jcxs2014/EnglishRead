@@ -19,13 +19,13 @@ modified: "2026-10-14"
 
 ## 精读
 
-> **原句 1:** "I wake up half a second before my eyes open to flashes of a long, darkened ditch. Panic shoots through my body and my scratchy eyes rip open…but I'm not in the dark. I blink up at smooth half-circle logs lining the ceiling. Sunlight streams in through a window highlighting that goddamned beach poster."
+> **原句 1:** "I wake up half a second before my eyes open to flashes of a long, darkened ditch. Panic shoots through my body and my scratchy eyes rip open…but I’m not in the dark. I blink up at smooth half-circle logs lining the ceiling. Sunlight streams in through a window highlighting that goddamned beach poster."
 
 **中文理解**：我在睁开眼睛前半秒醒来，眼前闪过一条长长的、黑暗的沟渠。恐慌穿透了我的身体，我沙哑的眼睛猛地睁开……但我不在黑暗中。我眨着眼看向天花板上排列的光滑半圆形原木。阳光透过窗户照进来，照亮了那张该死的海滩海报。
 
 **关键词**：flashes（闪现）、darkened（变暗的）、Panic shoots through（恐慌穿透）、goddamned（该死的）
 
-**为什么这样写**：这是 ch06 的开篇句——**记忆闪回与当下感知的同时发生**。`half a second before my eyes open` 精确到生理层面：记忆不是"想起"的，而是"闪回"的——它先于意识。`flashes` 模仿了视觉暂留的物理感觉。`darkened ditch` 是 ch01 的沟渠场景，`Panic shoots through` 把恐慌写成了一种物理性的穿透动作。`…but I'm not in the dark` 的转折用省略号标记——从闪回到现实的过渡是混乱的。最后 `that goddamned beach poster` 中的 `goddamned` 是 Mary 对那张"Don't Worry, Be Happy"海报的回应——它与她此刻的处境形成了讽刺性对比。
+**为什么这样写**：这是 ch06 的开篇句——**记忆闪回与当下感知的同时发生**。`half a second before my eyes open` 精确到生理层面：记忆不是"想起"的，而是"闪回"的——它先于意识。`flashes` 模仿了视觉暂留的物理感觉。`darkened ditch` 是 ch01 的沟渠场景，`Panic shoots through` 把恐慌写成了一种物理性的穿透动作。`…but I’m not in the dark` 的转折用省略号标记——从闪回到现实的过渡是混乱的。最后 `that goddamned beach poster` 中的 `goddamned` 是 Mary 对那张"Don’t Worry, Be Happy"海报的回应——它与她此刻的处境形成了讽刺性对比。
 
 **读者视角提示**：注意 `darkened ditch` 在 ch06 仍然出现——记忆闪回不会因为她有了名字就消失。它们是她的默认状态，只有在被感官信息（`Sunlight` / `half-circle logs`）打断时才会停止。
 
@@ -59,17 +59,17 @@ modified: "2026-10-14"
 
 **读者视角提示**：这是"认识自己"的悖论——Mary 必须先"发作"才能"知道"。她的身体比她的意识更了解她自己，但这个了解是通过痛苦获得的。
 
-> **原句 5:** "What use am I if I can't even remember what I'm allergic to?"
+> **原句 5:** "What use am I if I can’t even remember what I’m allergic to?"
 
 **中文理解**：如果我连自己对什么都过敏都不记得，我还有什么用？
 
-**关键词**：What use am I（我有什么用）、even（甚至）、remember what I'm allergic to（记得自己对什么过敏）
+**关键词**：What use am I（我有什么用）、even（甚至）、remember what I’m allergic to（记得自己对什么过敏）
 
-**为什么这样写**：这是 Mary 在过敏发作后、药效未起时的内心独白。`What use am I` 是一个存在主义式的自我质疑——她不是在问"我还能做什么"，而是在问"我作为一个人是否还有存在价值"。`can't even remember` 中的 `even` 把过敏记忆当作一个"最基础的自我认知"——连这个都忘了，那还剩下什么？`what I'm allergic to` 是具体的——不是泛泛的"记忆"，而是这一个特定的、日常的信息。这种把存在主义危机压缩到"鸡蛋过敏"的写法，既真实又略带黑色幽默。
+**为什么这样写**：这是 Mary 在过敏发作后、药效未起时的内心独白。`What use am I` 是一个存在主义式的自我质疑——她不是在问"我还能做什么"，而是在问"我作为一个人是否还有存在价值"。`can’t even remember` 中的 `even` 把过敏记忆当作一个"最基础的自我认知"——连这个都忘了，那还剩下什么？`what I’m allergic to` 是具体的——不是泛泛的"记忆"，而是这一个特定的、日常的信息。这种把存在主义危机压缩到"鸡蛋过敏"的写法，既真实又略带黑色幽默。
 
-**读者视角提示**：这是 Mary 在本章中最低落的时刻——她的自我价值被缩减为"能否记住关于自己的基本事实"。注意她没有把矛头指向 Wayne（`This isn't his fault, it's mine`）——她把责任内化了。
+**读者视角提示**：这是 Mary 在本章中最低落的时刻——她的自我价值被缩减为"能否记住关于自己的基本事实"。注意她没有把矛头指向 Wayne（`This isn’t his fault, it’s mine`）——她把责任内化了。
 
-> **原句 6:** "I guess I get to add it to the list of facts I've collected about myself: Mary Ellen Boone. Seventeen. Good student. Senior. Lizzo. Egg allergy. Floral jacket. Dead mom."
+> **原句 6:** "I guess I get to add it to the list of facts I’ve collected about myself: Mary Ellen Boone. Seventeen. Good student. Senior. Lizzo. Egg allergy. Floral jacket. Dead mom."
 
 **中文理解**：我想我可以把它加到我收集到的关于我自己的事实清单里：Mary Ellen Boone。十七岁。好学生。高三。Lizo。鸡蛋过敏。花卉夹克。死去的母亲。
 
@@ -90,19 +90,19 @@ modified: "2026-10-14"
 | misery-fest | 自虐式的放纵（口语） | The last thing I need is misery-fest round two. |
 | stretching | 拉伸，伸展 | My joints move like rusty hinges, but the stretching helps. |
 | comforting | 令人安慰的 | The normalcy of this is comforting. |
-| up-to-date | 现代化的，新式的 | I couldn't miss the chance to give you a little slice of normal, even if this kitchen isn't as up-to-date as the one at home. |
-| extra-strength | 超强效的 | He snatches a box off the floor and runs back to me, wielding extra-strength liquid Benadryl like it's the holy grail. |
+| up-to-date | 现代化的，新式的 | I couldn’t miss the chance to give you a little slice of normal, even if this kitchen isn’t as up-to-date as the one at home. |
+| extra-strength | 超强效的 | He snatches a box off the floor and runs back to me, wielding extra-strength liquid Benadryl like it’s the holy grail. |
 | eventually | 最终，终于 | Wayne moves me to the couch, and eventually the medicine kicks in. |
-| force-feed | 强迫喂食 | He didn't force-feed me an allergic reaction. |
-| threatening | 危及生命的 | It's always been itchy and annoying, but nothing life threatening. |
+| force-feed | 强迫喂食 | He didn’t force-feed me an allergic reaction. |
+| threatening | 危及生命的 | It’s always been itchy and annoying, but nothing life threatening. |
 | surprisingly | 令人惊讶地 | I wake up several hours later, and surprisingly my mouth feels almost normal. |
 | Tupperware | 特百惠（保鲜盒品牌） | I pull open the fridge and find a Tupperware full of leftover sausage. |
-| particularly | 特别地，尤其 | I'm not particularly hungry, I just want to enjoy something again, and those eggs sucked away all my joy. |
+| particularly | 特别地，尤其 | I’m not particularly hungry, I just want to enjoy something again, and those eggs sucked away all my joy. |
 | slate-colored | 石板色的，灰蓝色的 | I gravitate toward the slate-colored water. |
-| breathtaking | 令人窒息的，美得惊人的 | If I thought the view of the river was pretty by the house, it's breathtaking down here. |
+| breathtaking | 令人窒息的，美得惊人的 | If I thought the view of the river was pretty by the house, it’s breathtaking down here. |
 | downstream | 向下游 | The water sparkles as it slides downstream, low-hanging trees trailing branches through the current. |
-| homeschooling | 在家教育，居家自学 | It's been great for homeschooling because I'm usually there to help if you need something, though you rarely do. |
-| piece-of-crap | 破烂货（口语） | I can't imagine how hard it is to forget your life, and I'm kicking myself for letting you drive that piece-of-crap car. |
+| homeschooling | 在家教育，居家自学 | It’s been great for homeschooling because I’m usually there to help if you need something, though you rarely do. |
+| piece-of-crap | 破烂货（口语） | I can’t imagine how hard it is to forget your life, and I’m kicking myself for letting you drive that piece-of-crap car. |
 | depressing | 令人沮丧的，压抑的 | That last one is almost as depressing as needing to compile a list like this in the first place. |
 
 ### ⭐⭐ 进阶
@@ -110,9 +110,9 @@ modified: "2026-10-14"
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | darkened | 变暗的，黑暗的 | I wake up half a second before my eyes open to flashes of a long, darkened ditch. |
-| scratchy | 沙刺的，粗糙发痒的 | Panic shoots through my body and my scratchy eyes rip open…but I'm not in the dark. |
+| scratchy | 沙刺的，粗糙发痒的 | Panic shoots through my body and my scratchy eyes rip open…but I’m not in the dark. |
 | gingerly | 小心翼翼地，谨慎地 | I gingerly sit up, and the events of last night roll through my mind like a creepy television recap I really could have done without. |
-| outwardly | 外表上，表面上 | I stand and it's not outwardly painful. |
+| outwardly | 外表上，表面上 | I stand and it’s not outwardly painful. |
 | scrambled | 炒的（鸡蛋） | The cabin smells like things I want to eat as fast as humanly possible—scrambled eggs, maple sausage, butter, toast. |
 | woodstove | 柴火炉，木柴炉 | The woodstove in the corner is bursting with flames, clearly reloaded recently, and pumps out heat that instantly relaxes me. |
 | bursting | 充满的，满溢的 | The woodstove in the corner is bursting with flames, clearly reloaded recently, and pumps out heat that instantly relaxes me. |
@@ -120,7 +120,7 @@ modified: "2026-10-14"
 | instantly | 立刻，立即 | The woodstove in the corner is bursting with flames, clearly reloaded recently, and pumps out heat that instantly relaxes me. |
 | sausages | 香肠 | A cast-iron skillet sizzles on the stove with medallion sausages full of fennel and grease. |
 | normalcy | 正常，常态 | The normalcy of this is comforting. |
-| complain | 抱怨，发牢骚 | They're a little watery, but I'm not about to complain. |
+| complain | 抱怨，发牢骚 | They’re a little watery, but I’m not about to complain. |
 | stuffing | 塞满，狼吞虎咽 | I nod because nothing can make me stop stuffing my face at this point. |
 | dislodge | 清除，使移位 | I try to clear my throat, to dislodge this feeling, but it lingers. |
 | crawling | 爬行的，蠕动的 | A crawling itch works its way through my mouth and down my neck. |
@@ -132,8 +132,8 @@ modified: "2026-10-14"
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | deep breath | 深呼吸 | Fresh tears sting my eyes, but I take a deep breath to make them stop. |
-| allergic reaction | 过敏反应 | He didn't force-feed me an allergic reaction. |
-| appetite | 胃口，食欲 | "Your appetite's coming back." |
+| allergic reaction | 过敏反应 | He didn’t force-feed me an allergic reaction. |
+| appetite | 胃口，食欲 | "Your appetite’s coming back." |
 | big smile | 灿烂的笑容 | Inside, he snags a brown paper bag off the couch and hands it to me with a big smile. |
 
 ## 一句话总结

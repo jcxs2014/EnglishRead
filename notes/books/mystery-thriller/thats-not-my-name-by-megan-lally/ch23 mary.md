@@ -69,13 +69,13 @@ modified: "2026-10-14"
 
 **读者视角提示**：这是全书最残酷的**希望-绝望结构**——作者让读者和 Mary 一起相信"到了"，然后在下一段用 `And a hand wraps around my throat from behind` 把它夺走。读者应当记住这种**从顶点坠落的感觉**。
 
-> **原句 6:** "Oh, Mary," Wayne whispers in my ear, his stubble scraping my skin as I scramble to stay conscious. "You'll pay for this."
+> **原句 6:** "Oh, Mary," Wayne whispers in my ear, his stubble scraping my skin as I scramble to stay conscious. "You’ll pay for this."
 
 **中文理解**："哦，Mary，"Wayne 在我耳边低语，他的胡茬刮擦着我的皮肤，我拼命想保持清醒。"你会为此付出代价的。"
 
 **关键词**：whispers（低语）、scraping（刮擦）、stay conscious（保持清醒）、pay for（付出代价）
 
-**为什么这样写**：全章最后一段，用**两个感官细节**（胡茬刮擦的触感、耳语的听觉）代替动作描写——`scraping my skin` 是**触觉的侵略**，`whispers` 是**声音的亲密**，两者的组合制造了**令人窒息的近距恐惧**。`stay conscious` 用进行时暗示她正在**滑向黑暗**，而 `You'll pay for this` 是 Wayne 全书最直接的威胁——不再伪装，不再"devoted dad"。
+**为什么这样写**：全章最后一段，用**两个感官细节**（胡茬刮擦的触感、耳语的听觉）代替动作描写——`scraping my skin` 是**触觉的侵略**，`whispers` 是**声音的亲密**，两者的组合制造了**令人窒息的近距恐惧**。`stay conscious` 用进行时暗示她正在**滑向黑暗**，而 `You’ll pay for this` 是 Wayne 全书最直接的威胁——不再伪装，不再"devoted dad"。
 
 **读者视角提示**：这是 Wayne **第一次摘下面具**——不再说"young lady"式的训斥，而是直接威胁。读者应当意识到：**此刻的 Wayne 已经不在乎被 Mary 看穿了**，这意味着他认为她不会有机会告诉任何人。
 
