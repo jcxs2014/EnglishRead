@@ -40,7 +40,7 @@ modified: "2026-10-14"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| ambivalent | 矛盾不定的 | Caitlin's mouth was set in that ambivalent territory between a smile and a frown. a smile and a frown. |
+| ambivalent | 矛盾不定的 | Jackie stared at Caitlin, whose mouth was set in that ambivalent territory between a smile and a frown. |
 | malignant | 恶性的 | "Ambition is a disease," Jackie said, "and political ambition is the malignant form of it." |
 
 ### ⭐⭐ 进阶

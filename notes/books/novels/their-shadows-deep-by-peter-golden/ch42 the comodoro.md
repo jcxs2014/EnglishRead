@@ -63,7 +63,7 @@ modified: "2026-10-14"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| martini | 马提尼酒 | She would have preferred a martini, a dose of courage with three olives. |
+| martini | 马提尼酒 | She would've preferred a martini, a dose of courage with three olives. |
 
 ## 一句话总结
 
