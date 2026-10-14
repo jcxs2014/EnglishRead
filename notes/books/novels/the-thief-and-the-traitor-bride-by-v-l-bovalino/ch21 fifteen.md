@@ -99,7 +99,7 @@ modified: "2026-10-14"
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
 | aligned | 一致的；契合的 | whose mind aligned so deeply with hers |
-| stumble | 踉跄；跌跌撞撞 | they'd passed him stumbling up the stairs |
+| liquor | 烈酒 | that evil Idistran liquor |
 | coherent | 连贯的 | unable to form a coherent thought |
 | factor | 因素；要素 | And fighting does not factor into it |
 | gossip | 闲话 | How do you expect to find out anything real about her? Gossiping? |
