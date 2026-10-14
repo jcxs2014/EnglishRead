@@ -147,7 +147,23 @@ def main():
         'excerpt', 'newsletter', 'sign up', 'other titles', 'other books',
         'works by', 'selected bibliography', 'bibliography', 'notes', 'endnotes',
         'footnotes', 'praise for', 'about the publisher',
+        # 同上实测补：尾注书目页标签就是裸 `Sources`（Their Shadows Deep ch76，
+        # 14147 字符）。与 `notes` / `bibliography` 同类，非正文。
+        'sources', 'source notes',
     }
+    # ⚠️ 2026-10-14 补「词族前缀」判据（Their Shadows Deep 实测）：
+    # 精确匹配那次重写（2026-09-26）修掉了子串误判（`discover` ⊃ `cover` 静默丢章），
+    # 却在另一侧留下反向漏网——名单里写的是**词族**（`praise for` / `also by` /
+    # `about the`），而出版方 nav 标签带作者名／限定语：
+    #   `Praise for Peter Golden` / `A Note on Sources` / `Sources`
+    # 三件装置页全部精确匹配落空 ⇒ 被当正文收成 ch01 / ch77 / ch78（该书 78 件 vs
+    # 目录页实测 Chapter 1–75 = 75 件），且**件数为偶数**的假账最难发现。
+    # 只对下列**词族**放宽为前缀匹配，绝不退回全文子串搜索（那是 09-26 修掉的坑）：
+    # 判据形如 `<族首词> …`（前缀 + 至少一个词），故 `Protocol` / `Stockholm`
+    # 这类与族首词无边界关系的标题仍然不会被误判。
+    BOILER_PREFIX = (
+        'praise for', 'also by', 'about the', 'works by', 'a note on',
+    )
     # 出版商固定文件名 + 导航文档 + 促销页 + 脚注/尾注页
     #
     # ⚠️ 2026-09-30 补 `foot-?notes?`：脚注页**不在 nav 里**（NCX 只列 33 项，脚注 25 页全无），
@@ -169,7 +185,9 @@ def main():
         # 只能靠长度放行（实测出版社促销页 "Discover your next great read!"
         # 无 nav 标签，1187 字符 > min_len，于是被当正文收进来）。
         lab = _label_key(title) or _label_key(text_head[:60])
-        return lab in BOILER_LABEL or bool(BOILER_PATH.search(path))
+        if lab in BOILER_LABEL or bool(BOILER_PATH.search(path)):
+            return True
+        return any(lab.startswith(fam + ' ') for fam in BOILER_PREFIX)
     out_dir = a.out_dir or '.'
     os.makedirs(out_dir, exist_ok=True)
     written, skipped = [], []
