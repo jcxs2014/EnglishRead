@@ -49,7 +49,19 @@ PROFILES = {
         "H2": ["## 本章导航", "## 精读", "## 本章词汇|## 词汇分级", "## 一句话总结"],
         "READ": "## 精读",
         "SUB": ["中文理解", "关键词", "为什么这样写", "读者视角提示"],
-        "QRE": re.compile(r'^> \*\*原句 (\d+):\*\* (.+)$', re.M),
+        #    ⚠️ 2026-10-14（Stuck with You 五步审查 c 步）：本档原先只认「抬头与引语**同行**」
+        #    的 `> **原句 N:** "…"`，对「**抬头独占一行**、引语在下一行」的形态整本抽 0 块
+        #    ⇒ 每章报「引语块 0 个，超出 3–8 配额」**全量假红**，且 `calibrate_sub` 因
+        #    `total==0` 返回 None ⇒ 子项检查退回档案 SUB（含 `读者视角提示`）⇒
+        #    **每块再报一条「读者视角提示 出现 0 次」**（本库该档子项集并无此名）。
+        #    与 2026-09-30 An Army（nonfiction）/ 2026-10-02 The Best Short Stories
+        #    （anthology）两次同型：**换个体裁就整本假红，且连带子项段空转**。
+        #    全库实测：22 本书的 md 用抬头独占形态，其中 13 本被本档判成全量 0 块；
+        #    最严重的 the-impossible-garden(10/45)、an-immaculate-deception(37/51)、
+        #    the-night-circus(38/78) 等。
+        #    判据同 `scripts/verify_quotes.py`（2026-10-08 已修）与
+        #    `scripts/audit_structure.py`：**两种抬头都认**，引语内容可选。
+        "QRE": re.compile(r'^> \*\*原句 (\d+):\*\*(?: (.+))?$', re.M),
         "NUM": lambda m: int(m.group(1)),
         "RANGE": (3, 8),
     },
@@ -78,7 +90,16 @@ PROFILES = {
         "H2": ["## 本章导航", "## 精读", "## 本章词汇|## 词汇分级", "## 一句话总结"],
         "READ": "## 精读",
         "SUB": ["中文理解", "关键词", "为什么这样写", "读者视角提示"],
-        "QRE": re.compile(r'^> \*\*原句 (\d+):\*\* (.+)$', re.M),
+        #    ⚠️ 2026-10-14（Stuck with You 五步审查 c 步）：**这是生效的那份 summary 档**
+        #    ——本字典字面量里 "summary" 键出现两次（本处与上方 :48），Python 取后者，
+        #    两处都必须修；只修上一处等于没修（第一版修复正是这么踩空的）。
+        #    原 QRE 只认「抬头与引语**同行**」，对「抬头独占一行、引语在下一行」的形态
+        #    整本抽 0 块 ⇒ 每章报「引语块 0 个，超出 3–8 配额」**全量假红**；且
+        #    `calibrate_sub` 因 `total==0` 返回 None ⇒ 子项检查退回档案 SUB（含
+        #    `读者视角提示`）⇒ **每块再报一条「读者视角提示 出现 0 次」**（本库该档
+        #    子项集并无此名）。判据同 `scripts/verify_quotes.py`（2026-10-08 已修）
+        #    与 `scripts/audit_structure.py`：**两种抬头都认**，引语内容可选。
+        "QRE": re.compile(r'^> \*\*原句 (\d+):\*\*(?: (.+))?$', re.M),
         "NUM": lambda m: int(m.group(1)),
         "RANGE": (3, 8),
         "MARK": ["## 本章导航", "## 精读"],
@@ -200,6 +221,18 @@ SUB_LABEL_RE = lambda name: re.compile(
     r'^[ \t]*(?:[-*+]\s+)?\*{0,2}' + name + r'\*{0,2}[：:]', re.M)
 
 
+# ⚠️ 2026-10-14（Stuck with You 五步审查 c 步第二轮）：`calibrate_sub` 的 **total 计数
+# 会把「抬头独占一行」形态的块也算进去**，但那些块**没有自己的分析层**——
+# 它们是卷首引语（epigraph），原文在 `> **原句 N:**` 之后紧跟一行 `> "…"`，
+# 与下一个 `> **原句 N+1:**` 之间的文本里**没有任何子项标签**
+# （实测 the-harpy-knight ch17–ch29 共 83 块：中文理解 0 / 关键词 0 / 为什么这样写 0）。
+# 于是 total 从 109 涨到 192，而 hit 数不变 ⇒ **每个子项的占比被稀释到 60% 以下**
+# ⇒ `keep` 只剩档案 SUB 里的 `读者视角提示`（其实也只有 29%）⇒ `len(keep) < 2`
+# ⇒ 返回 None ⇒ `check()` 回退档案 SUB ⇒ **每块再报 4 条「子项出现 0 次」**
+# （实测 harpy 17 → 413，spanish-love-deception 298 → 404，dream-hotel 21 → 136）。
+# **修法**：算占比时分母只数**本块真的有子项标签**的块（`hit_any > 0`），
+# epigraph 块不进分母。判据与 `audit_structure.py` 的「按书内主流子项集自校准」
+# 一致——**自校准的目的是摸清这本书怎么写分析层，不是数章节里有多少个引语**。
 def calibrate_sub(mds, prof):
     """按**本书实际**校准子项集，不套外部模板的子项名。
 
@@ -232,12 +265,15 @@ def calibrate_sub(mds, prof):
                 if nxt:
                     end = end + nxt.start()
             blk = s[m.end():end]
-            total += 1
             for c in cand:
                 mm2 = SUB_LABEL_RE(c).search(blk)
                 if mm2:
                     hit[c] += 1
                     pos_in_blk.setdefault(c, []).append(mm2.start())
+            # 分母只数**有分析层**的块（见上方 2026-10-14 注）：epigraph 块
+            # 不计入，否则子项占比被稀释 ⇒ 回退档案 SUB ⇒ 全量假红。
+            if any(SUB_LABEL_RE(c).search(blk) for c in cand):
+                total += 1
     if not total:
         return None
     keep = [c for c in cand if hit[c] >= 0.6 * total]
