@@ -72,6 +72,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - **五步审查未做**（待用户发起）
 - 逐行原始输出见 `.memory/raw-gates/stuck-with-you-by-ali-hazelwood/`；明细见 `.memory/daily/2026-10-14.md`「Stuck with You」节
 
+**Stuck with You（Ali Hazelwood）复核结论（2026-10-14，总览事实层，第 9 条 d）**
+
+门禁 18 项复跑仍全绿（退出码 0）。总览事实核对另查出并修复 12 处门禁不可见缺陷：
+
+- `00_概述.md`：姓氏 `Green`→`Grantham`（全书无 Green 姓）· 年龄 28→27（`ch02:70`）· Erik 年龄改「大六七岁」（`ch04:112`）· Faye 身份（咖啡店主，非 GreenFrame 同事）· Gianna 身份（老板兼创始人，`ch01:19`）· Cat 归属（替弟弟 Anders 暂养，`ch08:49`）· 可颂邂逅地点（Faye 咖啡店，非长椅）· 小酒馆漏买可颂（`ch06:431`）· 引语块配额 8→7–8（共 100）· 情感弧线补「重逢（ch01）」
+- `00_情感节点.md`：节点四说话人错（**Sadie** 先问，`ch06:331`）· 节点六内容错位（ch09 实为心动回忆＋「偷客户」指控，`ch09:70`；「性不是好」出自 ch07）
+- `ch10`/`ch12` 时间线标签订正（ch10 原文标 `Two weeks, six days ago`；ch12 无标签属 Present 线）
+- `check_overview_full`：A 整串 24 命中／🔶 0／❌ 0；B 段「无标签未判 24」是真盲区（金句集用 `## 第N章` 而非 `chNN`）——已另用自写第二实现核 20 条归属，MISMATCH 0
+- commit：`45230990a`
+
 ### [2026-10-13 14:30 UTC] [ZCode-Mac] → All
 
 star-circle-by-davis-bunn | Star Circle (Davis Bunn) 五步审查结论
