@@ -35,17 +35,7 @@ modified: "2026-10-13"
 
 **读者视角提示：** "forty-one years"是全书时间跨度的锚点——从 1938 年船难到 1979 年相认，这个数字在书中反复出现，是 Charlotte 心理重量的度量衡。
 
-> **原句 3:** It was Layla.
-
-**中文理解：** 那是 Layla。
-
-**关键词：** It was Layla
-
-**为什么这样写：** 全章最短的句子，独立成段，三个词完成全书最大的揭晓。前一段用整整一段描写 Charlotte 如何审视 Fatima 的五官（小耳朵、鼻子、颧骨），把读者的期待拉到极限，然后只用三个词引爆。叙述者不写 Charlotte 的内心反应（没有"她感到天旋地转"），只给判断句——这种克制反而让情感冲击力更大，因为读者被迫用自己的想象填补 Charlotte 的震惊。
-
-**读者视角提示：** 这是全书悬念的终点——从第一章项链认主到此刻女儿认人，所有线索在此汇合。注意叙述者用的是"Layla"而非"Fatima"，说明在 Charlotte 心中，这个女儿从未改名。
-
-> **原句 4:** The woman had Charlotte's small ears, thank goodness, and Henry's nose, and Charlotte recognized her mother's high cheekbones.
+> **原句 3:** The woman had Charlotte’s small ears, thank goodness, and Henry’s nose, and Charlotte recognized her mother’s high cheekbones.
 
 **中文理解：** 这女人有 Charlotte 的小耳朵——谢天谢地——有 Henry 的鼻子，还有 Charlotte 母亲的高颧骨。
 
@@ -55,7 +45,17 @@ modified: "2026-10-13"
 
 **读者视角提示：** 后文 Annie 用"银发"（streak of gray）作为最终确认——身体遗传是全书反复使用的相认手段（Charlotte 的母亲也有银发），与 Hathorkare 的"hereditary"特征形成跨时空呼应。
 
-> **原句 5:** "I knew who you were. Even before you found me."
+> **原句 4:** It was Layla.
+
+**中文理解：** 那是 Layla。
+
+**关键词：** It was Layla
+
+**为什么这样写：** 全章最短的句子，独立成段，三个词完成全书最大的揭晓。前一段用整整一段描写 Charlotte 如何审视 Fatima 的五官（小耳朵、鼻子、颧骨），把读者的期待拉到极限，然后只用三个词引爆。叙述者不写 Charlotte 的内心反应（没有"她感到天旋地转"），只给判断句——这种克制反而让情感冲击力更大，因为读者被迫用自己的想象填补 Charlotte 的震惊。
+
+**读者视角提示：** 这是全书悬念的终点——从第一章项链认主到此刻女儿认人，所有线索在此汇合。注意叙述者用的是"Layla"而非"Fatima"，说明在 Charlotte 心中，这个女儿从未改名。
+
+> **原句 5:** “I knew who you were. Even before you found me.”
 
 **中文理解：** "我知道你们是谁。甚至在我找到你们之前。"
 
@@ -75,7 +75,7 @@ modified: "2026-10-13"
 
 **读者视角提示：** 银发是全书的"遗传信物"——Charlotte 的母亲有，Charlotte 有，Fatima 也有。这个特征跨越三代，是比任何文件都更直觉的"血缘证明"。
 
-> **原句 7:** Charlotte rose and crossed the space between them, softly touching Fatima's hair. "I'm sorry we lost you for so long. I've missed you terribly."
+> **原句 7:** Charlotte rose and crossed the space between them, softly touching Fatima’s hair. “I’m sorry we lost you for so long. I’ve missed you terribly.”
 
 **中文理解：** Charlotte 起身，穿过两人之间的距离，轻轻触碰 Fatima 的头发。"对不起，我们弄丢了你这么久。我非常想你。"
 

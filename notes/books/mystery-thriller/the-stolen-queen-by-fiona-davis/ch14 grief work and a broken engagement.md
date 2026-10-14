@@ -11,7 +11,7 @@ modified: "2026-10-13"
 - **视角**：第三人称有限视角，全程贴 Charlotte；章首小标题 Charlotte／New York City, 1938 标出这是她的回溯线，补上她"1938 到 1978 之间发生了什么"的空白。
 - **情感弧线位置**：创伤修复章——从"半夜尖叫需要母亲安慰"的羞耻，经"把生活紧紧箍在博物馆工作上"的代偿式稳定，到婚约告吹、双亲离世后"And that worked, for a time"的脆弱收束；悬念不在动作，在临终那句没说完的话。
 - **人物弧线**：Charlotte 从"被噩梦追、被家规噤声"的病人，变成靠工作把自己一寸寸拼回来的人（读书、升职、守住灰白发 streak 不染），再到敢在 Fifth Avenue 到 Eighth Avenue 上一口气说出 Henry 和 Layla 名字的讲述者；敢说出口的那一刻，她第一次不再独自背着这两个名字。
-- **叙事手法**：大道(line)并进式压缩时间——几十年用"once…in the meantime…around the same time"折叠，而告白那晚反用"Fifth Avenue／Sixth／Seventh／Eighth"四个街口把几分钟拉成慢镜头；母亲"Poof, never happened"的轻飘语气与临终"He was looking for you"的沉重收尾形成全章最冷的对照。
+- **叙事手法**：大道并进式压缩时间——几十年用"once…in the meantime…around the same time"折叠，而告白那晚反用 Fifth Avenue、Sixth Avenue、Seventh Avenue、Eighth Avenue 四个街口把几分钟拉成慢镜头；母亲"Poof, never happened"的轻飘语气与临终"He was looking for you"的沉重收尾形成全章最冷的对照。
 
 ## 精读
 

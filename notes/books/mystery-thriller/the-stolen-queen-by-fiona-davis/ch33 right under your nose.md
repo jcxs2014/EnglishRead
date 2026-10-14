@@ -25,17 +25,7 @@ modified: "2026-10-13"
 
 **读者视角提示：** 记住 the man she’d once loved 这个称呼——本章 Henry 的每一句话都要放到"曾经爱过"这个前提下去读，也正因为 Annie 不信任他，她才跟上了屋顶。
 
-> **原句 2:** A sob burst from Charlotte’s mouth and Henry’s expression crumpled, but neither moved to comfort the other; they stood in place, individual statues of a shared agony.
-
-**中文理解：** 一声抽泣从 Charlotte 嘴里迸出来，Henry 的表情也塌了下去，但两人谁都没有上前安慰对方；他们站在原地，像两尊各自独立的雕像，共同承受着同一份痛苦。
-
-**关键词：** sob burst, expression crumpled, neither moved to comfort, statues of a shared agony
-
-**为什么这样写：** 全章的定调句，也是叙述者停下对话、写身体的一处。sob burst 与 crumpled 让两个人同时崩，but neither moved to comfort the other 立刻把这份崩收住——悲伤是共有的（shared），动作却是分开的（individual），分号两侧的落差正是这两人关系的总结。statues 一词又把他们放回博物馆的语境里：这座建筑里满是雕像，此刻屋顶上多了两尊。对话越往下走（谁没救谁、谁怪谁），这句判词越像提前写好的结论。
-
-**读者视角提示：** "individual statues of a shared agony"是本章对 Henry 与 Charlotte 关系的一句判词——后面无论谁说"我尽力了"，都回这句对照。
-
-> **原句 3:** I held on to her for as long as I could, but she was sucked out of my arms by the current. I promise you, I tried.
+> **原句 2:** I held on to her for as long as I could, but she was sucked out of my arms by the current. I promise you, I tried.
 
 **中文理解：** 我尽可能久地抱着她，但她被水流从我怀里卷走了。我向你保证，我尽力了。
 
@@ -44,6 +34,16 @@ modified: "2026-10-13"
 **为什么这样写：** Henry 整段陈述里极实的一句，用的却是被动的、身体性的动词——sucked out of my arms 把"失去孩子"写成一个他无法反抗的物理过程，责任被小心地推给水流。紧接的 I promise you, I tried 是一句极短的乞求，把这段叙述从证词变成讨饶：他不是在解释事故，是在向 Charlotte 讨一个"不怪你"。越往后他讲得越细（顶层甲板、救生艇、呛水、河岸），越显出他需要被相信。
 
 **读者视角提示：** 注意 Henry 的版本里没有一个能作证的第三人——"They told me"、"someone grabbed me"里的 they 与 someone 始终没有名字，这正是 Annie 不肯全信的原因。
+
+> **原句 3:** A sob burst from Charlotte’s mouth and Henry’s expression crumpled, but neither moved to comfort the other; they stood in place, individual statues of a shared agony.
+
+**中文理解：** 一声抽泣从 Charlotte 嘴里迸出来，Henry 的表情也塌了下去，但两人谁都没有上前安慰对方；他们站在原地，像两尊各自独立的雕像，共同承受着同一份痛苦。
+
+**关键词：** sob burst, expression crumpled, neither moved to comfort, statues of a shared agony
+
+**为什么这样写：** 全章的定调句，也是叙述者停下对话、写身体的一处。sob burst 与 crumpled 让两个人同时崩，but neither moved to comfort the other 立刻把这份崩收住——悲伤是共有的（shared），动作却是分开的（individual），分号两侧的落差正是这两人关系的总结。statues 一词又把他们放回博物馆的语境里：这座建筑里满是雕像，此刻屋顶上多了两尊。对话越往下走（谁没救谁、谁怪谁），这句判词越像提前写好的结论。
+
+**读者视角提示：** "individual statues of a shared agony"是本章对 Henry 与 Charlotte 关系的一句判词——后面无论谁说"我尽力了"，都回这句对照。
 
 > **原句 4:** “I don’t know. At first I thought Mona was Layla, and for a moment, I think, so did she. But she didn’t appear to consider that theory very long. As if she knew otherwise.”
 

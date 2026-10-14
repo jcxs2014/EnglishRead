@@ -85,7 +85,7 @@ modified: "2026-10-13"
 
 **读者视角提示：** 此处 prayed that Mark… 是 Charlotte 的遗言式念头，与章末救援构成"最坏打算—最好结果"的对称。
 
-> **原句 8:** It was Jabari. The grandson of Mehedi, the Bedouin who'd been bitten by a cobra all those years ago and had promised to always keep Charlotte safe.
+> **原句 8:** It was Jabari. The grandson of Mehedi, the Bedouin who’d been bitten by a cobra all those years ago and had promised to always keep Charlotte safe.
 
 **中文理解：** 那是 Jabari——Mehedi 的孙子。多年前被眼镜蛇咬的那位贝都因人 Mehedi，曾承诺永远护 Charlotte 周全。
 

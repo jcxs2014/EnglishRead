@@ -65,17 +65,7 @@ modified: "2026-10-13"
 
 **读者视角提示：** 本章"说漏嘴"发生了两次——Annie 抢话在前，她顺水推舟在后；留意这两个人从此各自握着对方的一点把柄。
 
-> **原句 6:** Two days ago, she never would have dreamed of defacing the photograph, as she considered it a private keepsake of her first love, albeit one she always kept hidden. With Henry alive and walking the earth, that nostalgia was turning poisonous. He had survived without finding her, taking their daughter with him, and the viciousness of her actions that afternoon was nothing compared to the fury he would face if she ever found him.
-
-**中文理解：** 两天前，她做梦也不会想到去毁掉这张照片，她把它当作初恋的私人信物，虽然一直藏着不给人看。如今 Henry 还活着、还在这世上走动，那份怀旧就变成了毒。他活了下来，没有来找她，还带走了他们的女儿；而那天下午她做的这些狠事，与他若被她找到将要面对的怒火相比，根本算不了什么。
-
-**关键词：** defacing the photograph, private keepsake of her first love, nostalgia was turning poisonous, the fury he would face
-
-**为什么这样写：** 这一段落在情感线上分量很重，三段递进：过去（信物）→ 现在（毒）→ 未来（怒火）。turning poisonous 这个比喻很锋利，把"怀念"写成会变质的东西——同一个动作，两天前是珍藏，今天是当街撕毁，变的不是照片，是 Henry 从"死人"变回"活人"。末句用比较级把尺度拉到未来，读者由此看见她的复仇心有多深。
-
-**读者视角提示：** 她愤怒的落点是"带走女儿"而不是"抛下我"——这解释了本章她听到"当妻子的不该找丈夫"时为何压不住火。
-
-> **原句 7:** “It’s unseemly, a wife looking for her husband. If he left you, I’m sure he had a good reason. Good day.”
+> **原句 6:** “It’s unseemly, a wife looking for her husband. If he left you, I’m sure he had a good reason. Good day.”
 
 **中文理解：** 这不合体统，做妻子的跑去找丈夫。要是他离开了你，我肯定他有充分的理由。请便吧。
 
@@ -84,6 +74,16 @@ modified: "2026-10-13"
 **为什么这样写：** 市集这场戏把"找 Henry"从档案问题变成性别问题。Babu 三句话一句比一句不客气：先下判断（unseemly）、再替对方辩护（had a good reason）、最后直接送客（Good day）。作者不写 Charlotte 如何反驳，只写她 held her tongue，紧接着用一段关于四千年前埃及女性权利的内心独白收束——愤怒被压进历史知识里，这正是这个人物的处理方式。
 
 **读者视角提示：** 这一节与画廊那一节是一对：同一个问题，男店主和女店主给出的回应截然不同；对照着读，能看出作者在"被审判的女性"这个题目上的安排。
+
+> **原句 7:** Two days ago, she never would have dreamed of defacing the photograph, as she considered it a private keepsake of her first love, albeit one she always kept hidden. With Henry alive and walking the earth, that nostalgia was turning poisonous. He had survived without finding her, taking their daughter with him, and the viciousness of her actions that afternoon was nothing compared to the fury he would face if she ever found him.
+
+**中文理解：** 两天前，她做梦也不会想到去毁掉这张照片，她把它当作初恋的私人信物，虽然一直藏着不给人看。如今 Henry 还活着、还在这世上走动，那份怀旧就变成了毒。他活了下来，没有来找她，还带走了他们的女儿；而那天下午她做的这些狠事，与他若被她找到将要面对的怒火相比，根本算不了什么。
+
+**关键词：** defacing the photograph, private keepsake of her first love, nostalgia was turning poisonous, the fury he would face
+
+**为什么这样写：** 这一段落在情感线上分量很重，三段递进：过去（信物）→ 现在（毒）→ 未来（怒火）。turning poisonous 这个比喻很锋利，把"怀念"写成会变质的东西——同一个动作，两天前是珍藏，今天是当街撕毁，变的不是照片，是 Henry 从"死人"变回"活人"。末句用比较级把尺度拉到未来，读者由此看见她的复仇心有多深。
+
+**读者视角提示：** 她愤怒的落点是"带走女儿"而不是"抛下我"——这解释了本章她听到"当妻子的不该找丈夫"时为何压不住火。
 
 > **原句 8:** “You obviously feel very passionately about this man. To rip it in half like that.”
 
