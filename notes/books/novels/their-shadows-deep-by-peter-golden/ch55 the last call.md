@@ -6,7 +6,7 @@
 
 ## 精读
 
-> "It is about sex as a rebellion against the tyrannical expectations of parents and society—and our search to be loved for who we are with our imperfections, not who we pretend to be to please others."
+> "The novel is about sex as a rebellion against the tyrannical expectations of parents and society—and our search to be loved for who we are with our imperfections, not who we pretend to be to please others."
 
 **句子结构**：It is about A—and B 并列宾语；分词短语作定语修饰 rebellion 和 search。
 

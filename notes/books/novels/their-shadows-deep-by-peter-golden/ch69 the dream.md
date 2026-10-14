@@ -6,7 +6,9 @@ Jack 梦见 Kick 带他参加家庭派对——Caroline 婚礼，Jack 与 Jackie
 
 ## 精读
 
-> "'Dance with me, Jack.' 'What song is this? It's beautiful.' 'The Wild Rover.'"
+> "Dance with me, Jack."
+> "What song is this? It's beautiful."
+> "The Wild Rover."
 
 **句子结构**：三句直接引语。Jackie 说"The Wild Rover"（一首爱尔兰饮酒歌）——她在开 Jack 的玩笑，因为他不懂古典音乐。
 
@@ -15,6 +17,10 @@ Jack 梦见 Kick 带他参加家庭派对——Caroline 婚礼，Jack 与 Jackie
 **为什么这样写**：Jackie 用一首爱尔兰民歌回应 Jack 对歌曲的不识——既是玩笑也是身份认同。Jack 是爱尔兰裔美国人，但 Jackie's 优雅和欧洲背景让这个身份变得复杂。"Wild Rover"的标题也是对 Jack 放荡生活的一种暗示。
 
 ---
+
+> "You're making fun of me. Because you think I'm a philistine."
+
+> "And because I l—"
 
 > "Fidel Castro, in olive drab military fatigues, glides across the floor like an ice-skater and kisses the top of Khrushchev's bald head."
 

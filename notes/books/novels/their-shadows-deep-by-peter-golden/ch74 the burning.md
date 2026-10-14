@@ -6,7 +6,7 @@ Jack 凌晨 4 点得知当选总统（285 张选举人票）。次日他在花�
 
 ## 精读
 
-> "He was ashamed Caitlin had seen him in this carnal circus act, and he tossed the envelope into one of the smoking barrels."
+> "Jack was ashamed Caitlin had seen him in this carnal circus act, and he tossed the envelope into one of the smoking barrels."
 
 **句子结构**：and 连接两个并列谓语（was ashamed / tossed）。
 

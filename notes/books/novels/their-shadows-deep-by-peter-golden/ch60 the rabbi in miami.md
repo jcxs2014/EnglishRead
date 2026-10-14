@@ -16,7 +16,9 @@ Caitlin 飞 Miami Beach 去 Temple Emanu-El 找拉比（不在/度假中）。�
 
 ---
 
-> "'Yenchi un toro con grandes cuernos.' 'Sí, and Yenchi a bull with big horns.'"
+ > "Yenchi un toro con grandes cuernos."
+ > "Toro is bull, yes?"
+ > "Sí, and Yenchi a bull with big horns."
 
 **句子结构**：直接引语 + 翻译。Inés 用西班牙语说，Reed 翻译。"bull with big horns"是 Yenchi 性能力的隐喻（bull = 性能力强的男人；horns = 通奸的暗示）。
 

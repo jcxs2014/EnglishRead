@@ -16,7 +16,7 @@
 
 ---
 
-> "She packed the diaphragm and jelly anyway, an act of wishful thinking."
+> "Caitlin packed the diaphragm and jelly anyway, an act of wishful thinking."
 
 **句子结构**：主语 + 谓语 + 状语 + 名词短语作同位语（同位前移，强调"这件事"的性质）。
 

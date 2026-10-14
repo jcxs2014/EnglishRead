@@ -34,11 +34,11 @@ modified: "2026-10-14"
 
 **读者视角提示：** 本书写疾病时几乎总用"比喻＋职业"的组合；分析时要记住这个比喻是医生说的，不是 Yenchi 说的。
 
-> **原句 3:** She had an eye for suckers.
+> **原句 3:** Hilda had an eye for suckers.
 
 **中文理解：** 她有识别冤大头的眼光。
 
-**关键词：** She had an eye for suckers
+**关键词：** Hilda had an eye for suckers
 
 **为什么这样写：** `suckers`（冤大头）是赌局词汇，Hilda 用它来识别度假的老人；这句话让她的"精明"有了具体的商业对象。
 

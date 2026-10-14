@@ -16,7 +16,7 @@
 
 ---
 
-> "Jack, I can't tell you how relieved I am Gabe didn't die for this."
+> "Caitlin, I can't tell you how relieved I am Gabe didn't die for this."
 
 **句子结构**：主句 + how 引导的宾语从句（感叹句结构）。
 

@@ -26,7 +26,7 @@ Kennedy 来电告知 Été 死前一天有访客，劝 Caitlin 停止调查被�
 
 ---
 
-> "She recognized Clara's heart-shaped face from the FBI photographs, the impeccable beauty of it and the eyes like polished onyx."
+> "Caitlin recognized Clara's heart-shaped face from the FBI photographs, the impeccable beauty of it and the eyes like polished onyx."
 
 **句子结构**：主句 + 同位语（the impeccable beauty...）+ and + 名词短语作 eyes 的后置定语（like polished onyx）。
 

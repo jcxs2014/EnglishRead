@@ -16,7 +16,8 @@ Caitlin 回到 Village，收到 Reed 的明信片。在 Washington Square 与 Da
 
 ---
 
-> "You got crooked cops. Why not crooked spies?"
+> "You got crooked cops, Danny said."
+> "Why not crooked spies?"
 
 **句子结构**：反问句 + Why not 省略结构的反问。
 
@@ -26,7 +27,7 @@ Caitlin 回到 Village，收到 Reed 的明信片。在 Washington Square 与 Da
 
 ---
 
-> "He wears a red baseball cap and aviator sunglasses. He puts the bag under the table and walks off."
+> "He wore a red baseball cap and aviator sunglasses. He put the bag under the table and walked off."
 
 **句子结构**：两个独立分句；aviator sunglasses 是红帽的配套描述；puts/walks 是连续动作。
 
