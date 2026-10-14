@@ -4,15 +4,6 @@
 
 Jack 当选后在 Hyannis 军械库发表胜利演讲。Caitlin 在人群中听讲，Jackie 问她"有香槟吗？"（呼应 Carlyle 夜晚）。演讲后 Caitlin 在军械库外遇到 Danny——他来实现去 Coney Island 的约定。她与他走向海边，看渔船驶向地平线，相信更好的时代即将到来。
 
-## 精读
-
-> "Jackie Rolling her eyes like a teenager impatient with the tedious rituals of adults, and referring to their tipsy conversation at the Carlyle, said 'Got any champagne?'"
-
-**句子结构**：Jackie 是主语，rolling eyes 和 referring to... 是分词短语作状语，and 连接两个动作。
-
-**关键词**：Got any champagne? / tipsy conversation at the Carlyle
-
-**为什么这样写**：Jackie 在胜利演讲的正式场合问 Caitlin "有香槟吗？"——这是 Golden 用极简笔触完成的人物刻画：Jackie 记得那个夜晚（ch44），她不评判，只是享受这一刻。这是两位女性之间的隐秘联结。
 
 ---
 
