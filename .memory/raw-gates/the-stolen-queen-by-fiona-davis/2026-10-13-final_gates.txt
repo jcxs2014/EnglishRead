@@ -1,0 +1,160 @@
+=== The Stolen Queen 完工门禁原始输出（2026-10-13，Opencode-Mac）===
+### verify_corpus
+WARN  未给 --anchors：**本篇人物应 >0 / 相邻篇人物应 =0** 未验——合并事故只能靠这一项抓（短篇集/分部书/多 POV/日历书必跑）
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 1）===
+
+### verify_quotes
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 277/277 引文可核实（100%）；完全干净文件 35/35；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+### verify_quotes --full
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 277/277 引文可核实（100%）；完全干净文件 35/35；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+### check_vocab
+词条行合计: 894
+
+--- FAIL (0) ---
+
+--- WARN (20) ---
+  ch07 the ring in the apron pocket.md [基础] 基础档疑含超纲词「apartment」
+  ch08 wedding pregnancy and layla.md [基础] 基础档疑含超纲词「announcement」
+  ch12 billy and butterflies.md [基础] 基础档疑含超纲词「butterfly question」
+  ch12 billy and butterflies.md [基础] 基础档疑含超纲词「cafeteria」
+  ch15 moths at the gala.md [基础] 基础档疑含超纲词「butterflies」
+  ch16 threatening note and stolen queen.md [基础] 基础档疑含超纲词「exhibition hall」
+  ch18 a parent for three months.md [基础] 基础档疑含超纲词「sweatpants」
+  ch20 going to egypt.md [基础] 基础档疑含超纲词「assistant」
+  ch22 confronting leon in luxor.md [基础] 基础档疑含超纲词「apartment」
+  ch22 confronting leon in luxor.md [基础] 基础档疑含超纲词「galleries」
+  ch23 layla and the stolen letter.md [基础] 基础档疑含超纲词「headscarf」
+  ch23 layla and the stolen letter.md [基础] 基础档疑含超纲词「arrangements」
+  ch23 layla and the stolen letter.md [基础] 基础档疑含超纲词「final destination」
+  ch25 the molar match and the farid gallery.md [基础] 基础档疑含超纲词「big breakfast」
+  ch25 the molar match and the farid gallery.md [基础] 基础档疑含超纲词「klutziness」
+  ch27 the photograph reveals the mastermind.md [基础] 基础档疑含超纲词「conservator」
+  ch27 the photograph reveals the mastermind.md [基础] 基础档疑含超纲词「manicured nails」
+  ch28 the mother daughter confrontation.md [高级] 高级档混入常用词「face-to-face」
+  ch28 the mother daughter confrontation.md [基础] 基础档疑含超纲词「composure」
+  ch34 mother daughter reunion.md [基础] 基础档疑含超纲词「shipwreck」
+
+### check_entities
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+### corruption_scan
+=== 编辑损坏扫描（the-stolen-queen-by-fiona-davis）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+### sweep_full
+  参照集：text/ 逐章（34 章，可定章） + epub 交叉验证
+  ✅ 本章命中 251 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 1 ｜ ❌ 全书查无 0
+  （短引语 1 条归 check_short_quotes；无章可对 0 条未判）
+
+### verify_overview_quotes
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 24/24 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 25/25 ✅
+
+=== 总览引文 49/49 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+### check_overview_full
+=== 总览整串核查（the-stolen-queen-by-fiona-davis）===
+  参照集：text/ 逐章（34 章） ｜ 总览文件 3 个
+  A 整串：命中 15 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 7
+  B 章节标签：对 15 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 28 ｜ 不符 0（**只报不判红**）｜ 跳过 56
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+### check_overview_labels
+===== 00_金句精选.md：26 条带标签引语（跳过无标签行 1）=====
+
+----- 汇总（共 50 条带标签引语，跳过无标签行 1）-----
+  ✅ 标注章逐字 : 50
+
+----- 口径外（0 条，不计入失败，需人判）-----
+
+----- 待人判清单（0 条）-----
+
+### check_chapter_quotes（逐章）
+ch01 chapter one.md: 7/7 in ch01 text
+ch02 the undiscovered tomb.md: 7/7 in ch02 text
+ch03 the feather boa errand.md: 7/7 in ch03 text
+ch04 the rejected pitch.md: 8/8 in ch04 text
+ch05 the broad collar.md: 7/7 in ch05 text
+ch06 the boa and diana vreeland.md: 6/6 in ch06 text
+ch07 the ring in the apron pocket.md: 8/8 in ch07 text
+ch08 wedding pregnancy and layla.md: 7/7 in ch08 text
+ch09 annie finds the broad collar.md: 7/7 in ch09 text
+ch10 the directors stonewalling.md: 7/7 in ch10 text
+ch11 flight storm and shipwreck.md: 8/8 in ch11 text
+ch12 billy and butterflies.md: 8/8 in ch12 text
+ch13 the art recovery expert.md: 7/7 in ch13 text
+ch14 grief work and a broken engagement.md: 7/7 in ch14 text
+ch15 moths at the gala.md: 8/8 in ch15 text
+ch16 threatening note and stolen queen.md: 8/8 in ch16 text
+ch17 tunnel ambush and framing.md: 8/8 in ch17 text
+ch18 a parent for three months.md: 8/8 in ch18 text
+ch19 thrown out and taken in.md: 8/8 in ch19 text
+ch20 going to egypt.md: 7/7 in ch20 text
+ch21 the canopic box rescue.md: 8/8 in ch21 text
+ch22 confronting leon in luxor.md: 7/7 in ch22 text
+ch23 layla and the stolen letter.md: 7/7 in ch23 text
+ch24 cairo ledger and the torn photograph.md: 8/8 in ch24 text
+ch25 the molar match and the farid gallery.md: 8/8 in ch25 text
+ch26 the hidden statue and alley rescue.md: 8/8 in ch26 text
+ch27 the photograph reveals the mastermind.md: 6/6 in ch27 text
+ch28 the mother daughter confrontation.md: 8/8 in ch28 text
+ch29 mona unmasked and arrested.md: 8/8 in ch29 text
+ch30 the ostracon proof and leaving the met.md: 8/8 in ch30 text
+ch31 second chance and henry arrives.md: 8/8 in ch31 text
+ch32 forty one years and the intercepted letter.md: 8/8 in ch32 text
+ch33 right under your nose.md: 6/6 in ch33 text
+ch34 mother daughter reunion.md: 6/6 in ch34 text（另有 1 条短引语未校验）
+
+### verify_fragments_indep
+
+=== 逐片段核验（独立实现） ===
+  引语条数 253 ｜ 受检片段 280 ｜ ❌ MISS 0 ｜ 缺参照章 0
+  ⇒ 每个受检片段都在**本章** text/ 里逐字命中
+
+### check_short_quotes
+=== 短引语兜底核对（the-stolen-queen-by-fiona-davis）===
+  verify_quotes 跳过（<20 flat 字符）的引语：1 条 —— 这些主门禁**根本没查**
+  ✅ 命中 1 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+### 抽查：audit_numbers / sweep_analysis_inline / check_anchor / audit_structure
+  扫 37 个 md；抓到断言 36 条（含不可机械核查的年龄/百分比 18 条）
+  词数口径：连写算 1 词（`well-known`=2、`don't`=1）—— 差 1 极可能是口径而非错误
+  ❌ 不符（差 ≥2）0 ｜ ⚠️ 差 1 0 ｜ ❓ 参照串未解析未判 18 ｜ ⚪ 不可机械核查 18
+  落点 #14 表格单元格：1098 个表格行、829 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 1341 ｜ ⚠️ 跨章 128 ｜ 🔶 拼接 8 ｜ 🟠 部分命中 7 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 672
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（35 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+  扫 37 个 md、302 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+### 附加：check_keywords_verbatim / check_block_keywords / check_analysis_indep / check_nav_layer / check_quote_order / chapter_contiguity / check_block_coverage
+扫 34 个章节 md（判据=原文**连续子串**，只归一空白与弯/直引号，不调 flat_alpha）
+✅ 阻断型 0 条
+提示型 0 条
+=== 引语块覆盖度：34 个 md，阻断型 0 处 ／ 提示型 0 处 ===
+抽出分析层英文片段 426 条
+✅ 全部片段在全书 text/ 逐字命中
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+  ❓ ch28 the mother daughter confrontation.md：引语展平后非唯一命中（pos=-1），该章不判
+=== 章内块序：34 个 md / 245 块，顺序或编号缺陷 0 章 ／ 不可判定 1 章 ===
+=== 分段连续性：整串连续 252 ｜ 含省略号 1 ｜ 合计 253 ｜ 静默漏句/拼接 0 ===
+✅ 块覆盖对账：34 个文件，每块都进了 verify_quotes 校验

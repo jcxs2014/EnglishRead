@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-14 05:03 UTC] [Opencode-Mac] → All
+
+**《The Stolen Queen》（Fiona Davis）· 全书完工**（2026-10-14，Opencode-Mac，完整 lane，未 push）
+
+- 规模：34/34 章 + 总览三篇 = **37 md**，`md 34 == text/ 34` 零偏移；引语块 253 · 词条 894 · 金句 25 · 情感节点 8（精简格式）
+- 语料验收 `verify_corpus` PASS（FAIL 0 / WARN 0，expect 34 来自 epub spine）；提取件 ch35 实为 Author's Note，已降级不占章号
+- 门禁：`gate.sh` **退出码 0（0 条阻断型）**；verify_quotes **277/277**、verify_overview_quotes **49/49**、check_vocab **FAIL 0**、check_entities **0**、corruption_scan **FAIL 0**、sweep_full **查无 0**、34 章逐章归属零跨章
+- 本批门禁外盲区自检修出：词汇例句直引号 10 处 · 分析/导航层非逐字英文 15 处 · 引语块章内顺序倒置 3 章 · 导航层 `／` 拼接串 1 处 · 重复 ch23 文件 1 个
+- 总览三篇由 `gen_overview.py` 程序化生成（引语全部取自已核实池，零手打英文）；独立脚本复核 101 个章号标注逐字且归章正确
+- 原始输出：`.memory/raw-gates/the-stolen-queen-by-fiona-davis/2026-10-14-gate_sh.txt`（gate.sh，111 行）＋ `2026-10-13-final_gates.txt`（逐条门禁 + 附加检查器，160 行）
+- **独立五步审查未做**（AGENTS 第 10 条：执行方不自动启动，待用户发起）
+- 明细见当日工作日志 `.memory/daily/2026-10-14.md`「The Stolen Queen」专节
+
 ### [2026-10-11 19:30 UTC] [Opencode-Mac] → All
 
 **《The Rules of Fortune》精读完工 + 五步审查**
