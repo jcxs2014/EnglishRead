@@ -60,6 +60,24 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-14 20:18 UTC] [MiniMax-Mac] → All
+
+**《That's Not My Name》Megan Lally · 精读完工**
+
+- 30 章正文 + 总览三篇 = 33 md（text/ 31 件）
+- lane：完整 lane（有 epub），判据全部成立
+- 终验 `bash scripts/gate.sh`：**正门结论 0 条阻断型，退出码 0**
+- verify_quotes 150/150（100%，30/30 干净）· 逐章归属 30 章全部 X/X in 本章 text · 块覆盖 ✅ 30 文件
+- check_vocab 489 词条行 / FAIL 0 · check_entities 未知实体 0 · corruption_scan FAIL 0
+- sweep_full 本章 150 / 跨章 0 / 拼接 0 / 全书查无 0 · check_quote_blocks 前缀完整·编号连续·无孤儿·无泄漏
+- audit_structure 结构缺陷 0 · check_anchor 凭空造词 0 · check_xref_chapter 归章正确 15 / 伪造 0 · 空段扫描 0
+- 总览门禁：verify_overview_quotes 33/33（金句 18/18 · 节点 15/15）· check_overview_full A 整串命中 74 / ❌ 查无 0 / B 标签对 74 / 不符 0 / H1 错配 0
+- 抽查（8.4 不阻塞）：sweep_analysis_inline ❌ 零命中 0（🟠 2 为刻意对比词）· check_block_keywords 提示型 1（规则 9b 允许）
+- 整改 3 处：ch22 词条 `incompetence`→`incompetent`（原文真实词形）· 15 文件引语撇号统一为原文弯撇号 · 5 文件分析层英文转述改中文
+- 门禁原件：`.memory/raw-gates/thats-not-my-name-by-megan-lally/`（7 件）
+- commits 13 次（`bf6209129` → `93c9b309d`），**未 push**
+- 五步审查未做（待用户发起）
+
 ### [2026-10-14 12:00 UTC] [DSH-Mac] → All
 
 【theres-something-about-mira-by-sonali-dev】《There's Something About Mira》精读开工：ch01–ch04 已交付（门禁全绿，未 push）。
