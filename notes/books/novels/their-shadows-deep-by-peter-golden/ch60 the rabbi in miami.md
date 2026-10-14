@@ -28,14 +28,6 @@ Caitlin 飞 Miami Beach 去 Temple Emanu-El 找拉比（不在/度假中）。�
 
 ---
 
-> "'Stop What You Doing With Clara Will Tell Your Wife Arthur'"
-
-**句子结构**：这是残片的拼合——原始句子大约是："Stop what you are doing with Clara, or I will tell your wife, Arthur."（Arthur 是 Clara 的叔叔）。
-
-**关键词**：Stop What You Doing / Will Tell Your Wife
-
-**为什么这样写**：这是全章的高潮——一封被撕碎又拼回来的威胁信，揭示 Clara 背后有一个家族网络（Arthur）试图阻止她与 Yenchi 的关系。"Will Tell Your Wife"说明威胁的性质是曝光婚外情，也暗示 Clara 可能不只是普通的 call girl。
-
 ## 词汇
 
 **chulo** ⭐ 进阶｜/ˈtʃuːloʊ/ n. 皮条客（西班牙语/古巴俚语）｜原文例句：Her chulo, Victor Diaz, bring her to Yenchi.｜Inés 用这个词称呼 Victor Diaz——它在古巴俚语里是"皮条客"的意思，说明 Clara 与 Victor Diaz 的关系是职业性的，而非普通情人。
