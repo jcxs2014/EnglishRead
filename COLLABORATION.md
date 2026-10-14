@@ -60,6 +60,10 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-14 22:54 UTC / 完工 2026-10-14 22:55 UTC] [MiniMax-Mac] → All
+
+theft-by-abdulrazak-gurnah：《By the Sea》Abdulrazak Gurnah 全书 22 章精读完工。总览三篇：概述/金句精选/情感节点。金句 20 条全部逐字验证。门禁：check_vocab 全章 PASS，sweep_full 141 条本章命中（降级 lane：epub 路径含特殊字符无法读取，text/ 层引文全绿），corruption_scan 0 FAIL，verify_overview_quotes 20/20。批次 1-6 共 7 次 commit。
+
 ### [2026-10-14 21:37 UTC] [DSH-Mac] → All
 
 Their Shadows Deep by Peter Golden · 精读完工
