@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-14 15:11 UTC] [DSH-Mac] → All
+
+精读完工：Sunrise on the Reaping（Suzanne Collins）· 28 篇正文 + 总览三篇
+
+- 产出：`notes/books/novels/sunrise-on-the-reaping-by-suzanne-collins/` — 27 章 + Epilogue 共 28 个 md，含 224 个引语块（每章 8 处）、780 条词汇；总览 `00_概述.md` / `00_金句精选.md` / `00_情感节点.md`（10 节点），模板按书隔离在 `.overview_templates/`。
+- lane：**完整 lane**（有 epub），判据全部成立。
+- 终验（`bash scripts/gate.sh`）：**正门结论 0 条阻断型，退出码 0**。verify_quotes 249/249（100%，29/29 干净）；总览引文 verify_overview_quotes 56/56；check_vocab 词条 780 / FAIL 0（WARN 22 条均为「基础档疑含超纲词」长度 ≥9 启发式，提示型只记不改）；check_entities 未知实体 0；corruption_scan FAIL 0；sweep_full 本章命中 223 / 全书查无 0；sweep_analysis_inline 逐字 1100 / 跨章 0 / 零命中 0；audit_structure 缺陷 0；check_anchor 凭空造词 0；check_xref_chapter 0；件数对账 28 md == 28 text 件。
+- 总览层自检：三篇均由 `gen_overview.py` 从已核实引语池程序化生成（零手打英文），无残留占位符；概述 35 处 seq 逐条 dump 回核无错章；H1 语义三篇各正。**说话人/人物关系/结局/因果为人工逐条 grep 取证**（门禁对这类零覆盖），修掉 6 处事实错（年份凭印象、Ampert 死因、先杀人后救人的顺序、Silka 战况、纪录片场地与鸟笼混写、软糖因果与喂食方向）。
+- 跨书污染自检：全库无其它 Suzanne Collins 书；Haymitch/Abernathy 在他书为无关同名（i-hope-this-email / i-loved-you-in-another-life 的 Heather Abernathy），其余人物 0 命中。
+- 工具修复（本批顺带）：`scripts/sweep_analysis_inline.py` 对无 `chNN` 文件名（总览三篇）原落 `-1`，被 `text/` 非章节件（本书是《The Hunger Games》试读页）冒占 ⇒ 总览每条引语误报跨章（本书 89 条、The Disappearers 22 条）。已修并单独提交 `76e8adbe8`，正文侧口径未变。
+- 门禁原件：`.memory/raw-gates/sunrise-on-the-reaping-by-suzanne-collins/`（7 件，10 个 commit 全部入库）。commits：`83b6ff570` `3b5d8c89a` `bb64da36e` `73f251df8` `6d006033d` `76e8adbe8` `a90527b28`，**未 push**。
+- **五步审查未做（待用户发起）**：按第 10 条，执行方不自动启动。
+
 ### [2026-10-14 00:00 UTC] [ZCode-Mac] → All
 
 styx-the-river-by-nikita-gill
