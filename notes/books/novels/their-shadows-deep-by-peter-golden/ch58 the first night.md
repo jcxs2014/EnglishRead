@@ -1,53 +1,39 @@
 # 58. The First Night
 
-## 章节概述
+## 概述
 
-Caitlin 和 Reed 在 Dave and Evelyn's 餐厅吃完龙虾后回到她在 Belmar 的平房。随着夜晚的来临，两人在门廊上海滩闲聊，然后回到屋内发生了亲密关系。Caitlin 担心自己会在亲密时想到 Gabe，但当那一刻真正来临时，她感觉像"shed a suit of armor"。Reed 问她可不可以，她开玩笑说"我希望比'可以'更好"。整个场景温柔、充满渴望，也带着 grief 的阴影——她 done with loneliness，但 guilt 的钟声仍然在响。
+Dave & Evelyn's 晚餐后，Caitlin 邀请 Reed 进屋。两人在 Belmar 平房里发生关系——Reed 温柔有经验，Caitlin 渴望更奔放的投入。事后她躺在他的臂弯里，感到"像卸下了一套铠甲"，七个月来第一次感到轻盈。
+
+## 精读
+
+> "She was watching Reed through the screen door when he turned. 'Is the coffee ready?'"
+
+**句子结构**：进行时态主句 + when 引导的并列分句（when = at that moment）。间接引语 is the coffee ready 省略引导词。
+
+**关键词**：through the screen door / Is the coffee ready?
+
+**为什么这样写**：Caitlin 透过纱门看 Reed，Reed 问"咖啡好了吗？"——Golden 用这个问题在关键情节前设置一个日常化的暂停，是文学上的"悬置"技巧，让张力在沉默中积聚。
+
+---
+
+> "Reed moved with a disciplined patience, like a man of experience and proper breeding. But that wasn't what Caitlin wanted."
+
+**句子结构**：并列复合句。but 转折引入 Caitlin 的真实欲望——她不想要"有教养的耐心"，她想要沉溺。
+
+**关键词**：disciplined patience / proper breeding / let herself go
+
+**为什么这样写**：这是全章的转折点——Reed 象征着文明、有教养的亲密，而 Caitlin 需要的是"沉入黑暗"的冲动——Golden 用这个对比完成对 Caitlin 丧夫后重新拥抱生活的描写。
+
+---
+
+> "She felt miraculously light, as if she'd shed a suit of armor."
+
+**句子结构**：`as if` 从句（虚拟：好像卸下了铠甲）。miraculously light 是核心感受，与前文 Grief 主题形成对照。
+
+**关键词**：miraculously light / shed a suit of armor
+
+**为什么这样写**：Golden 用"铠甲"的意象——Grief 是保护也是束缚，Caitlin 与 Reed 的性让她感到"奇迹般的轻盈"。这个词呼应了 ch48 的"玻璃笼子"意象：笼子开了，铠甲卸了。
 
 ## 词汇
 
-**flustered** ⭐⭐ /ˈflʌstərd/ adj. 紧张的；慌乱的
-
-Caitlin 听到 Reed 说"I doubt you had long to wait"后变得 flustered——她一直在等待某种确认，而 Reed 的回答既是对她美貌的肯定，也是一种轻松的调情。
-
-**masochists** ⭐⭐（复用）——Reed 自称是 Connie Mack Stadium 的 masochists，热爱一支经常输球的费城棒球队。这个自嘲定义了他：聪明、有品味、愿意承受痛苦——也是他作为 lover 的特质。
-
-**armor** ⭐⭐ /ˈɑːrmər/ n. 盔甲
-
-"she felt miraculously light, as if she'd shed a suit of armor"——这是全书中关于 grief 最美的意象之一。六个月的丧夫之痛、调查的压力、被袭击的恐惧——所有这些在身体的亲密中被暂时卸下。
-
-**erotic paradox** ⭐⭐⭐ 连用 亲密的悖论
-
-Caitlin 对自己说："To pursue the erotic paradox with him—to be lost and found at the same ecstatic instant."——这个短语捕捉了亲密关系的核心张力：在对方身上失去自我，同时也被对方找到。
-
-**disciplined patience** ⭐⭐⭐ 连用 有节制的耐心
-
-Reed 的亲密风格是"disciplined patience, like a man of experience and proper breeding"——但 Caitlin 不想被温柔对待，她想"let herself go"。
-
-## 句子结构
-
-**"You are not supposed to understand it"**
-
-Caitlin 对 Reed 说："You're not supposed to understand it. You're just supposed to appreciate it when it shows up."——这是关于 desire 的最好定义：它不需要被理解，只需要被欣赏。
-
-**guilt 的钟声**
-
-> "For Caitlin, it was her eagerness to begin that rang the bells of guilt in her head. She tried to block out the bells, but they clanged louder..."
-
-钟声比喻：grief 和 pleasure 同时存在，无法互相抵消。Caitlin 越是想要享受，guilt 就越响。
-
-**"exquisite darkness"**
-
-> "She wanted to let herself go and drown in that exquisite darkness."
-
-"exquisite darkness"——黑暗是销魂的、极乐的，不是恐惧的黑暗，而是亲密的黑暗。
-
-## 关键细节
-
-**Reed 的 Philadelphia Phillies cap**：Reed 戴着费城 Phillies 的帽子——这是一个身份标记，也解释了 ch59 里 Danny 看到的"red Philadelphia Phillies cap"。
-
-**Caitlin 的身材焦虑**：她对自己说"too many freckles, too fleshy thighs"——但她也知道自己 pretty，只是认为 Reed 没有注意到。这说明她对自己在 Reed 眼中的形象仍然不确定。
-
-**"done with loneliness, wasn't she? Done with grief"**：Caitlin 在自问自答——她用这个问题告诉自己：Reed 在这里是来帮她了结 grief 的，而不是开始新的关系。但读者知道事情不会这么简单。
-
-**与 ch48 "wishful thinking" 的呼应**：ch48 里 Caitlin 把避孕工具塞进箱子说 wishful thinking，ch58 她真的用了它们——但这次不是 wishful thinking，是真实的决定。
+**disciplined** ⭐ 进阶｜/ˈdɪsɪplɪnd/ adj. 有纪律的；有控制的｜原文例句：Reed moved with a disciplined patience.｜Reed 的亲密方式被形容为"有控制的耐心"，这对 Caitlin 来说既是安全感也是某种欠缺——她已经太久没有被人这样温柔对待，但她的本性是要"沉入"而不是"控制"。

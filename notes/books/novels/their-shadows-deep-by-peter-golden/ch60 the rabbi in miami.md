@@ -1,41 +1,39 @@
 # 60. The Rabbi in Miami
 
-## 章节概述
+## 概述
 
-Caitlin 追查 Clara 的身份，来到迈阿密海滩的 Temple Emanu-El，想找 Rabbi 看 Clara 和那个驼背老人的照片。Rabbi 正在高尔夫球场，要去欧洲度假两周。秘书看了照片后说："I haven't, but he's too old for her."——这是全书中关于 Clara 和那个男人的关系第一次有外部确认。
+Caitlin 飞 Miami Beach 去 Temple Emanu-El 找拉比（不在/度假中）。再到 Yenchi 的理发店，震惊得知 Yenchi 六周前死于泳池心脏病发。Yenchi 的情妇 Inés 透露：Yenchi 曾与 Clara 有染，被 Clara 叔叔 Arthur 威胁。他撕碎的威胁信残片拼出："Stop What You Doing With Clara Will Tell Your Wife Arthur"——一条通往 Clara 真实身份的新线索。
+
+## 精读
+
+> "Caitlin felt the bad news coming in the pit of her stomach before Hilda said, 'Yenchi passed away. Six weeks ago.'"
+
+**句子结构**：`felt the bad news coming` 是感知宾语+宾补结构；`in the pit of her stomach` 是地点状语；before 引导时间状语从句。
+
+**关键词**：pit of her stomach / passed away
+
+**为什么这样写**：Golden 用身体感知（胃里感觉）先于语言接收信息——"我早就感觉到了"是真实的创伤反应，也说明 Yenchi 对 Caitlin 的调查有多重要。
+
+---
+
+> "'Yenchi un toro con grandes cuernos.' 'Sí, and Yenchi a bull with big horns.'"
+
+**句子结构**：直接引语 + 翻译。Inés 用西班牙语说，Reed 翻译。"bull with big horns"是 Yenchi 性能力的隐喻（bull = 性能力强的男人；horns = 通奸的暗示）。
+
+**关键词**：un toro / big horns
+
+**为什么这样写**：Inés 用 bull 形容 Yenchi 是嫉妒与爱的混合——bull 是强壮男性的俗语，同时 horns（牛角）暗示不忠。Golden 用这个细节同时交代了 Yenchi 的性格和他与 Clara 的真实关系。
+
+---
+
+> "'Stop What You Doing With Clara Will Tell Your Wife Arthur'"
+
+**句子结构**：这是残片的拼合——原始句子大约是："Stop what you are doing with Clara, or I will tell your wife, Arthur."（Arthur 是 Clara 的叔叔）。
+
+**关键词**：Stop What You Doing / Will Tell Your Wife
+
+**为什么这样写**：这是全章的高潮——一封被撕碎又拼回来的威胁信，揭示 Clara 背后有一个家族网络（Arthur）试图阻止她与 Yenchi 的关系。"Will Tell Your Wife"说明威胁的性质是曝光婚外情，也暗示 Clara 可能不只是普通的 call girl。
 
 ## 词汇
 
-**birdlike** ⭐⭐ /ˈbɜːr dlaɪk/ adj. 像小鸟一样的（形容秘书）
-
-秘书被描述为"birdlike blue-haired"——娇小、警觉、快速的。
-
-**unannounced drop-in** ⭐⭐⭐ 连用 不请自来的突然拜访
-
-Caitlin 的策略：用"cop trick"——不预约就直接上门，更容易读出对方的第一反应是否在说谎。
-
-**stakeout photo** ⭐⭐ /ˈsteɪkaʊt foʊto/ n. 监视照片；跟踪照片
-
-秘书看的这张照片是 surveillance photo——不是 Clara 自愿拍的，而是被人跟踪时拍下的。
-
-**half as smart as they thought** ⭐⭐⭐ 连用 每个人都有点自欺欺人
-
-Caitlin 回忆母亲的话："everyone was half as smart as they thought, which was how rich boys went broke and single girls got pregnant."——这是母亲给她的世俗智慧，也是她做事的底层逻辑。
-
-## 句子结构
-
-**"too old for her"**
-
-秘书的评价——"I haven't, but he's too old for her."——这句话看似随意，实际上暗示了两件事：① 秘书认识这张照片里的两个人（或者至少见过类似的人），② 她立刻判断出 Clara 和那个男人是情侣关系，且年龄差距不正常。
-
-**Caitlin 的计划 vs. 现实**
-
-Caitlin 计划直接找 rabbi，用照片读他的第一反应。但 rabbi 不在——这是调查中的常见挫折：计划赶不上变化。她必须等待，或者换一种方式。
-
-## 关键细节
-
-**Rabbi 的时间线**：他要离开去欧洲度假两周， Labor Day 后才回来——这意味着 Caitlin 的调查要暂停至少两周。
-
-**Clara 和那个男人的关系**：秘书说"he's too old for her"——这进一步证实了两人的情侣/亲密关系。那个驼背老人是谁？他和 Gabe 的案子有什么关系？
-
-**迈阿密海滩的 Temple Emanu-El**：这是真实的犹太教堂，1960 年代是迈阿密海滩犹太社区的中心。Caitlin 选择这里作为调查 Clara 身份线索的起点——说明 Clara 和/或那个男人与犹太社区有联系。
+**chulo** ⭐ 进阶｜/ˈtʃuːloʊ/ n. 皮条客（西班牙语/古巴俚语）｜原文例句：Her chulo, Victor Diaz, bring her to Yenchi.｜Inés 用这个词称呼 Victor Diaz——它在古巴俚语里是"皮条客"的意思，说明 Clara 与 Victor Diaz 的关系是职业性的，而非普通情人。
