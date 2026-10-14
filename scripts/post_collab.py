@@ -427,8 +427,49 @@ def main():
     _postcheck(new, path, a.book)
     open(path, "w", encoding="utf-8").write(new)
     tag = "本条" if act == "已新建条目" else "合并后整条"
-    print(f"✅ {act}：{path}（{tag} {n} 行 / {b} B）")
+    # ⚠️ 2026-10-14 新增：成功消息必须打出**落点抬头**。
+    #   缘由：`_book_hit` 的回落层是整条子串，无法区分「关于该书」与「句中提及
+    #   该书」（实测两者在内容上不可区分：`the-south-by-tash-aw` 与本书 slug 在
+    #   同一文件里都只出现在同一句交叉引用中）。曾因此把内容**静默追加进了
+    #   `## The South` 的节**，而消息只说「已就地并入既有条目」——看不出落点。
+    #   ⇒ 不收紧匹配（收紧已实测 8 处回归），改为**让落点可见**；落点抬头不点名
+    #   该书且节内无标识行时，额外打一条提示要求人工确认。
+    where = ""
+    if act != "已新建条目" and hit:
+        head = hit[0].split("\n", 1)[0]
+        where = f"\n   ← 落点: {head[:70]}"
+        if (a.book not in head) and not _has_id_line(hit[0], a.book):
+            where += (f"\n   ⚠️ 该落点抬头未点名「{a.book}」且节内无标识行——"
+                      f"可能是**别的书的节**（回落层歧义）。"
+                      f"\n      请核对：若确非本书的节，用 git checkout 回退本文件后"
+                      f"改走新建节路径（或先在该节补标识行）。")
+    print(f"✅ {act}：{path}（{tag} {n} 行 / {b} B）{where}")
     return 0
+
+
+def _has_id_line(entry, book, loose=False):
+    """条目正文里是否有**标识行**（行首即书标识），区别于「句中提及」。
+
+    ⚠️ 2026-10-13 新增：修「提到 ≠ 关于」假红。
+    背景：`_book_hit` 的回落判据原是整条子串（`book in e`），于是一旦别的条目
+    在正文里**引用**了本书名（实测：DSH-Mac 回应本实例的日志格式通报时写进了
+    本书 slug），本书的条目数就被算成 2 ⇒ `--append` 被写前自查拦下
+    （报「板上会出现 2 条含「…」的条目——未落盘」），而真实条目只有 1 条。
+    权威判据见 `docs/协作板更新指令.md`：「要判『真有几条』，看条目正文首行
+    是否为标识形态，不要看 verify 的数字」——本函数即把该人工判据机械化。
+
+    loose=True 时额外接受**标题行**形态（`## <book>` 或去掉 markdown 前缀后
+    行首即书标识）——供 `_book_hit` 的回落层用，保持对「标题写成
+    `## 《The Green Road》（Anne Enright）精读完工`」一类节的兼容。
+    """
+    for line in entry.split("\n"):
+        s = line.lstrip()
+        if (s.startswith(f"[{book}]") or s.startswith(f"《{book}》")
+                or s.startswith(f"**《{book}》")):
+            return True
+        if loose and s.lstrip("#*> -").startswith(book):
+            return True
+    return False
 
 
 def _book_hit(sections, book):
@@ -449,10 +490,28 @@ def _book_hit(sections, book):
          标题里，纯收窄会让人 `--append` 重复建节（实测 272 处）。
     ⇒ 行为变化仅限「标题行有命中」这一种情形：旧版取 `hit[0]`（文件里第一个
     整节命中，可能是别人的节），新版只认标题行命中。
+
+    ⚠️ 2026-10-13 再修（补 ②′ 层）：板的条目抬头是 `### [时间] [身份] → All`，
+    **不含书标识**（标识在正文首行 `[slug] …`），故 ① 对板恒落空 ⇒ 直接落到
+    ③ 整条子串 ⇒ 被别的条目的「句中提及」污染。现于 ① 与 ③ 之间插入
+    **标识行命中**（`_has_id_line`）：正文有行以 `[slug]` / `《书名》` 开头者
+    才算「关于该书」。仍无命中才回落整条子串，② 的 272 处兼容性不受影响。
     """
     head_hit = [e for e in sections if book in e.split("\n", 1)[0]]
     if head_hit:
         return head_hit
+    id_hit = [e for e in sections if _has_id_line(e, book)]
+    if id_hit:
+        return id_hit
+    # ⚠️ 2026-10-14 实测记录（**收窄失败，已撤销，勿再尝试**）：
+    #   曾把本层由整条子串收窄为「行首锚定」，以为能顺带修掉 daily 误挂。
+    #   A/B（45 个真实标识）实测 **8 处回归**（1 条 → 0 条）：库内标识形态异质——
+    #     `《Smartass: Memoir of a Mouthy Girl》(Emily Sayre Smith) …`（书名比 --book 长）
+    #     `star-circle-by-davis-bunn | Star Circle (Davis Bunn) …`（slug 在前、书名在后）
+    #     `**《The Spanish Love Deception》(the-spanish-love-deception)** …`（slug 在括号里）
+    #   行首锚定一律不匹配 ⇒ 回落层必须保留**整条子串**语义。
+    #   ⇒ daily 误挂问题改由**上层**处理（见 main()：命中他书节时不再静默追加），
+    #     不动本层。**动本层前必须跑 45 标识 A/B。**
     return [e for e in sections if book in e]
 
 
