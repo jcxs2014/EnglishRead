@@ -1,0 +1,84 @@
+=== 分析层行内英文修正后 2026-10-14 20:09 UTC ===
+
+=== 分析层行内英文逐字核查（thats-not-my-name-by-megan-lally）===
+  参照集：text/（31 个提取件） + epub 交叉验证 ；扫 30 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：669 个表格行、473 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 907 ｜ ⚠️ 跨章 30 ｜ 🔶 拼接 2 ｜ 🟠 部分命中 2 ｜ 🟡 词形 2 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 475
+  ⚠️  ch01 girl.md:78  「I can’t remember」→ 实为 ch2,6,12,13
+  ⚠️  ch03 drew.md:28  「I think I might be dead」→ 实为 ch1,27
+  ⚠️  ch04 drew.md:28  「disagree」→ 实为 ch14,26
+  ⚠️  ch04 drew.md:70  「murder」→ 实为 ch7,11,23,29
+  ⚠️  ch04 drew.md:110  「Dairy Queen」→ 实为 ch3,8,15
+  ⚠️  ch05 mary.md:30  「I’m a nobody, with no name, and a stranger’s face」→ 实为 ch2
+  ⚠️  ch05 mary.md:38  「danger」→ 实为 ch1,2,7,14
+  ⚠️  ch05 mary.md:68  「What’s your name?」→ 实为 ch1,2,22
+  ⚠️  ch07 drew.md:38  「fucked up」→ 实为 ch2,3,6
+  ⚠️  ch07 drew.md:40  「Joke’s on her, I already am」→ 实为 ch3
+  ⚠️  ch09 mary.md:28  「incident」→ 实为 ch29
+  ⚠️  ch10 mary.md:40  「Mary Boone」→ 实为 ch2,14,21,26
+  ⚠️  ch10 mary.md:50  「Mary Boone」→ 实为 ch2,14,21,26
+  ⚠️  ch11 drew.md:48  「Lola is」→ 实为 ch19,22,24,26
+  ⚠️  ch11 drew.md:48  「Lola was」→ 实为 ch4,12,16,20
+  ⚠️  ch11 drew.md:58  「breaks」→ 实为 ch5,6,22,24
+  ⚠️  ch16 drew.md:30  「damp earth」→ 实为 ch1
+  ⚠️  ch16 drew.md:30  「leggings」→ 实为 ch1,6,9,10
+  ⚠️  ch17 mary.md:60  「Mary Boone」→ 实为 ch2,14,21,26
+  ⚠️  ch17 mary.md:80  「Big hands reaching for me」→ 实为 ch1
+  ⚠️  ch22 drew.md:80  「Today, I’m going to find Lola」→ 实为 ch19
+  ⚠️  ch25 mary.md:40  「And you’re my daughter, Mary Boone」→ 实为 ch2
+  ⚠️  ch25 mary.md:68  「Wrapped in the scratchy blanket」→ 实为 ch2
+  ⚠️  ch27 mary.md:78  「my black "No Sleep Till Brooklyn" Beastie Boys hoodie, a」→ 实为 ch16
+  ⚠️  ch28 drew.md:58  「And you’re my daughter, Mary Boone」→ 实为 ch2
+  ⚠️  ch28 drew.md:68  「like a full-body punch」→ 实为 ch1,27
+  ⚠️  ch28 drew.md:78  「I don’t know!」→ 实为 ch1,2,3,4
+  ⚠️  ch29 madison.md:40  「Life really goes to shit」→ 实为 ch3
+  ⚠️  ch29 madison.md:68  「was dead」→ 实为 ch17,19,30
+  ⚠️  ch29 madison.md:68  「Wayne Boone is my kidnapper.」→ 实为 ch25
+  🔶 ch02 girl.md:58  「How can...and I still...」→ 分段命中
+  🔶 ch22 drew.md:68  「Being so close... and then going home?」→ 分段命中
+  🟡 ch07 drew.md:38  「ruined」→ 词形不符，原书词干 ruin
+  🟡 ch11 drew.md:38  「sadden」→ 词形不符，原书词干 sadd/sadde
+  🟠 ch04 drew.md:78  「her body」→ 内容词 1/1 命中（body）——疑漏词或改写
+  🟠 ch07 drew.md:28  「I keep staring」→ 内容词 2/2 命中（keep/staring）——疑漏词或改写
+
+--- verify_quotes ---
+ch01 girl.md: 2/2 ✅（另有 4 条短引语未校验）
+ch02 girl.md: 6/6 ✅
+ch03 drew.md: 6/6 ✅
+ch04 drew.md: 6/6 ✅
+ch05 mary.md: 6/6 ✅
+ch06 mary.md: 5/5 ✅（另有 1 条短引语未校验）
+ch07 drew.md: 6/6 ✅
+ch08 drew.md: 3/3 ✅（另有 3 条短引语未校验）
+ch09 mary.md: 6/6 ✅
+ch10 mary.md: 6/6 ✅
+ch11 drew.md: 6/6 ✅
+ch12 drew.md: 5/5 ✅（另有 1 条短引语未校验）
+ch13 mary.md: 6/6 ✅
+ch14 mary.md: 6/6 ✅
+ch15 drew.md: 6/6 ✅
+ch16 drew.md: 6/6 ✅
+ch17 mary.md: 4/4 ✅（另有 2 条短引语未校验）
+ch18 mary.md: 5/5 ✅（另有 1 条短引语未校验）
+ch19 drew.md: 5/5 ✅（另有 1 条短引语未校验）
+ch20 drew.md: 5/5 ✅（另有 1 条短引语未校验）
+ch21 mary.md: 6/6 ✅
+ch22 drew.md: 5/5 ✅（另有 1 条短引语未校验）
+ch23 mary.md: 4/4 ✅（另有 2 条短引语未校验）
+ch24 drew.md: 6/6 ✅
+ch25 mary.md: 5/5 ✅（另有 1 条短引语未校验）
+ch26 drew.md: 4/4 ✅（另有 2 条短引语未校验）
+ch27 mary.md: 2/2 ✅（另有 4 条短引语未校验）
+ch28 drew.md: 5/5 ✅（另有 1 条短引语未校验）
+ch29 madison.md: 3/3 ✅（另有 3 条短引语未校验）
+ch30 epilogue.md: 4/4 ✅（另有 2 条短引语未校验）
+
+⚠️ 全书共 30 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 150/150 引文可核实（100%）；完全干净文件 30/30；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+--- corruption_scan ---
+
+=== 编辑损坏扫描（thats-not-my-name-by-megan-lally）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**

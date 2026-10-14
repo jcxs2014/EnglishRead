@@ -97,7 +97,7 @@ modified: "2026-10-14"
 | collarbone | 锁骨 | To keep him from seeing my collarbone? |
 | scratchy | 粗糙的，扎人的 | His stare weighs more than that scratchy afghan on the couch. |
 | footfalls | 脚步声 | His heavy footfalls echo in the quiet. |
-| damnedest | 最大的努力（do one’s damnedest） | We’ve lost that sense of community these days, and I’m doing my damnedest to get it back. |
+| damnedest | 最大的努力，全力（固定搭配，多用于「尽力而为」的语境） | We’ve lost that sense of community these days, and I’m doing my damnedest to get it back. |
 | isolating | 使隔绝，孤立 | “We should be helping each other,” he goes on, “not isolating ourselves with screens and the internet. |
 
 ### ⭐ 基础

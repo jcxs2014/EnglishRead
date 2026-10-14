@@ -35,7 +35,7 @@ modified: "2026-10-14"
 
 **关键词**：hits（突袭）、full-body（全身性）、punch（拳击）
 
-**为什么这样写**：用比喻把抽象的疼痛具象化为物理冲击。`full-body` 强调疼痛不是局部的—— she’s been in a major accident. `punch` 暗示施暴者存在（后文证实是袭击而非事故）。短句节奏模仿疼痛的突然性。
+**为什么这样写**：用比喻把抽象的疼痛具象化为物理冲击。`full-body` 强调疼痛不是局部的——暗示她遭遇过一次波及全身的事故。`punch` 暗示施暴者存在（后文证实是袭击而非事故）。短句节奏模仿疼痛的突然性。
 
 **读者视角提示**：读者通过痛觉而非视觉认识这个世界——主角看不见，所以疼痛是她的第一个信息源。这种感官剥夺制造共情：读者被迫用她的身体感受故事。
 
@@ -45,7 +45,7 @@ modified: "2026-10-14"
 
 **关键词**：soars（涌入）、keyholes（钥匙孔）、reaching（伸向）
 
-**为什么这样写**：用碎片化意象罗列模仿记忆闪回的不可靠性—— she’s trying to piece together what happened. `soars` 而非 `comes` 暗示记忆的不受控。`maybe?` 是自我修正—— she’s not sure. `Big hands reaching for me` 独立成句，把威胁感从背景中拎出来。
+**为什么这样写**：用碎片化意象罗列模仿记忆闪回的不可靠性——她正在努力拼凑发生了什么。`soars` 而非 `comes` 暗示记忆的不受控。`maybe?` 是自我修正——她自己也不确定。 `Big hands reaching for me` 独立成句，把威胁感从背景中拎出来。
 
 **读者视角提示**：这是全书第一个"记忆碎片"——后续章节会反复出现类似闪回。读者需要注意这些意象（cluster mailbox / burned-out streetlight / big hands）并在后续章节验证它们是否构成线索。
 
@@ -55,7 +55,7 @@ modified: "2026-10-14"
 
 **关键词**：so much（强调数量）、blood（血）
 
-**为什么这样写**：在长段感官描写后突然插入这个 4 词短句——节奏断裂模仿主角的震惊。`so much` 是主观判断，暗示出血量超出正常认知。这是 she’s seeing her own body for the first time 的瞬间。
+**为什么这样写**：在长段感官描写后突然插入这个 4 词短句——节奏断裂模仿主角的震惊。`so much` 是主观判断，暗示出血量超出正常认知。这是她第一次看清自己身体的瞬间。
 
 **读者视角提示**：读者此时和主角一起"看见"自己的身体——这是本章第一次视觉确认伤情。警察的下一句 `Jesus, you’re just a kid` 确认了伤情严重到让陌生人震惊。
 
@@ -75,7 +75,7 @@ modified: "2026-10-14"
 
 **关键词**：don’t know（否定 + 认知）、throbbing（抽痛）
 
-**为什么这样写**：章末爆发——她把头抱在手中喊出这三个词。`don’t know` 而非 `I can’t remember` 更口语化、更绝望—— she’s not saying memory is unavailable, she’s saying the answer doesn’t exist. 叹号标记情绪崩溃。这是 she’s hitting the wall 的具象化。
+**为什么这样写**：章末爆发——她把头抱在手中喊出这三个词。`don’t know` 而非 `I can’t remember` 更口语化、更绝望——她说的不是「记忆取不到」，而是「答案根本不存在」。叹号标记情绪崩溃。这是她撞上那堵心墙的具象化。
 
 **读者视角提示**：这是章末 cliffhanger——她不知道名字，读者不知道她是谁。下一页（ch02）继续同一场景，但答案不会立刻给出。这个悬念会贯穿全书。
 

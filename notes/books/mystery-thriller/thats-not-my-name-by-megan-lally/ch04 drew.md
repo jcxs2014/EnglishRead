@@ -75,7 +75,7 @@ modified: "2026-10-14"
 
 **关键词**：Hijito（西班牙语：孩子）、found a body（找到了尸体）
 
-**为什么这样写**：这是全书至今最短的段落之一——只有四个词（其中 `Hijito` 是西班牙语昵称）。它被三个可能的假设所包围（`Lola called from...California, Florida, Vegas` / `She ran away and she’s never coming home` / `Lola’s in the hospital` / `Lola’s kidnappers came forward with a ransom`），最终落到最坏的一个。`Hijito` 是 Drew 的 Papá 对他的称呼——这个昵称的使用让噩耗变得更加亲密和残酷。`a body` 而非 `her body` 保持了一定的距离感，暗示尸体身份尚未确认——但对读者而言，结合前文的搜索，这是确认性的。Drew 的反应是 `I turn and hurl into the trash can`——身体在意识消化信息之前就做出了反应。
+**为什么这样写**：这是全书至今最短的段落之一——只有四个词（其中 `Hijito` 是西班牙语昵称）。它被三个可能的假设所包围（`Lola called from…California, Florida, Vegas, somewhere.` / `She ran away and she’s never coming home` / `Lola’s in the hospital` / `Lola’s kidnappers came forward with a ransom`），最终落到最坏的一个。`Hijito` 是 Drew 的 Papá 对他的称呼——这个昵称的使用让噩耗变得更加亲密和残酷。`a body` 而非 `her body` 保持了一定的距离感，暗示尸体身份尚未确认——但对读者而言，结合前文的搜索，这是确认性的。Drew 的反应是 `I turn and hurl into the trash can`——身体在意识消化信息之前就做出了反应。
 
 **读者视角提示**：这是 ch04 的 cliffhanger——"body" 是否就是 Lola？Drew 的呕吐既是身体反应，也是某种意义上的"净化"。从叙事结构上看，这句话把 Drew 从"寻找者"变成了"被告知者"——他失去了主动权。
 
