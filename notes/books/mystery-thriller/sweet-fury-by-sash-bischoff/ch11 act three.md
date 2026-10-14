@@ -91,16 +91,12 @@ source_text: "ch11_act_three.txt"
 | wicking | /ˈwɪkɪŋ/ | adj. | 吸湿排汗的 | lightweight wicking shorts |
 | fractal | /ˈfræktəl/ | adj. | 分形的、碎片化的 | fractal light flittering upon her skin |
 | aloft | /əˈlɒft/ | adv. | 高高地 | held her aloft in his mind |
-| cantaloupe | /ˈkæntəluːp/ | n. | 哈密瓜、罗马甜瓜色 | in that soft cantaloupe tee |
 
 **⭐⭐⭐ 高级档（学术/文学词汇）**
 
 | 词汇 | 音标 | 词性 | 中文释义 | 例句（原文） |
 |------|------|------|----------|-------------|
 | privileged glimpses | /ˈprɪvəlɪdʒd ˈɡlɪmpsɪz/ | n. | 特权的窥视 | trusted with those privileged glimpses into the human heart |
-| self-aggrandizing | /ˌselfəˈɡrændaɪzɪŋ/ | adj. | 自我膨胀的 | （由语境推断：乔纳的菲茨杰拉德崇拜本质即自我神化） |
-| vicarious | /vɪˈkeəriəs/ | adj. | 替代性的、代理的 | his private education with Fitzgerald |
-| archetypal | /ˌɑːkɪˈtaɪpəl/ | adj. | 原型的 | Fitzgerald as the foremost archetypal model |
 
 ---
 
