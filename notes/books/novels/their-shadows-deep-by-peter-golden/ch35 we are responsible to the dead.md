@@ -73,7 +73,7 @@ modified: "2026-10-14"
 | rice paper | 宣纸（形容皮肤起皱） | a woman with a face as wan and creased as rice paper |
 | les journalistes | 记者们（法语复数） | In France, les journalistes call me La Jeune Fille Sauvage |
 | extra-conjugales | 婚外私情（法语） | These relations extra-conjugales you are so curious about. Do they have something to do with Gabriel's dying? |
-| politiques | 政治人物（法语） | He is un politicien extraordinaire. |
+| politicien | 政客（法语） | He is un politicien extraordinaire. |
 | wan | 苍白的、憔悴的 | a woman with a face as wan and creased as rice paper |
 | creased | 有皱纹的 | a woman with a face as wan and creased as rice paper |
 | sorority | 大学女生联谊会 | Été looked ready to |les morts | 死者（法语） | — |
@@ -82,10 +82,9 @@ modified: "2026-10-14"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| les morts | — | — |
 | | les morts | — | — |
 | the Ramble | 中央公园的树林区 | They were walking through the Ramble, the woodland in the middle of the park, when Été said, "I'm moving to Quebec City." |
-| footbridge | 步行桥 | Caitlin rested her courier bag on the log railing. Été was standing on the footbridge above her. |
+| footbridge | 步行桥 | Resting her courier bag on the log railing, Caitlin retrieved the photograph from Saigon and held it out. Été gazed at it.tanding on the footbridge above her. |
 
 ### ⭐ 基础
 

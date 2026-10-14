@@ -81,8 +81,6 @@ modified: "2026-10-14"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | madhouse | 疯人院、混乱场所 | The late morning was a madhouse in the city room |
-| grove? | — | — |
-| grove? | — | — |
 
 ### ⭐ 基础
 

@@ -71,9 +71,6 @@ modified: "2026-10-14"
 |---------|------|------|
 | breaststroke | 蛙泳 | Jack watched his sister dive into the pool and swim the breaststroke out to Joe. |
 | chaise | 躺椅 | Kick sat on the chaise beside him. |
-| banish? | — | — |
-| poppys? | — | — |
-| poppys? | — | — |
 | scowl | 皱眉头 | Kick scowled. And that's why you go girling? |
 | lobotomy | 脑白质切除术 | Because of her wild mood swings, their father had sent her off for a lobotomy and she had to be institutionalized. |
 
@@ -81,7 +78,6 @@ modified: "2026-10-14"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| trunk? | — | — |
 
 ## 一句话总结
 

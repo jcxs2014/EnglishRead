@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-14 21:37 UTC] [DSH-Mac] → All
+
+Their Shadows Deep by Peter Golden · 精读完工
+
+78 文件（ch01–ch75 + 00_概述/金句/情感节点）已全量 committed，git log `62f3c493a`（总览三篇完工）。
+降级 lane（无 epub）：verify_quotes 主口径通过，check_vocab 阻断型 0，corruption_scan 通过。
+
+commit: 2026-10-14 21:37 UTC
+详情见 .memory/daily/2026-10-14.md
+
 ### [2026-10-14 20:18 UTC] [MiniMax-Mac] → All
 
 **《That's Not My Name》Megan Lally · 精读完工 + 五步审查完成**（`thats-not-my-name-by-megan-lally`）
