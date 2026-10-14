@@ -19,7 +19,7 @@ modified: "2026-10-14"
 
 **中文理解**：Beetee 说，竞技场本身就有把自己淹掉的能力。要让选手的生态系统运转起来，需要供电、上下水、供暖、制冷、通风——一切你家会有的东西。
 
-**关键词**：capacity / drown itself / ecosystem / electricity, plumbing
+**关键词**：capacity / drown itself / ecosystem
 
 **为什么这样写**：把一座竞技场先讲成一套民用设施，是这一章最关键的设定交接：观众看到的丛林与湖泊，背后是水泵、电缆与通风管。Beetee 用「你家也有这些」把死亡机器还原成一套可以被弄坏的工程系统，读者由此明白后面那场破坏不是魔法，而是关掉一栋房子的水阀。
 
@@ -31,7 +31,7 @@ modified: "2026-10-14"
 
 **中文理解**：他的痛苦冲破了克制。「他们抽中他就是要他死，Haymitch！是为了惩罚我！我想不出任何他能活下来的现实情形。我只能盼他死得快一点，别白死。」
 
-**关键词**：agony / restraint / realistic scenario / in vain
+**关键词**：agony / restraint / realistic scenario
 
 **为什么这样写**：前面 Beetee 一直是讲解者，句子长、术语多；这里突然换成四个短句加一串感叹号，语法也塌了——从条件从句退回最直白的陈述。作者用句式断裂标记一个人卸下伪装的那一刻，同时把「抽签」还原成一次明确的谋杀。
 
@@ -43,7 +43,7 @@ modified: "2026-10-14"
 
 **中文理解**：战争结束时，Capitol 放掉了那些学舌鸟，以为它们会死绝——它们确实死了，但在那之前已经与雌性反舌鸟交配，繁衍出一个新物种，也就是 Lenore Dove 珍视的 mockingjay。现在，Lou Lou 大概就是我们自己的一只小学舌鸟。
 
-**关键词**：jabberjays / die off / a whole new species / our own little jabberjay
+**关键词**：jabberjays / die off / our own little jabberjay
 
 **为什么这样写**：这段把两条线接在一起：一条是物种来历的旧事，一条是眼前这个被装了植入物的替身。学舌鸟的典故解释了为什么十二区的人懂得「用假情报喂监视者」，也顺势把 mockingjay 从装饰符号变成一件有来历的武器。
 
@@ -55,7 +55,7 @@ modified: "2026-10-14"
 
 **中文理解**：他上前一步，把向日葵从草编辫子上扯下来，摔到地上。信物碎成十几片。Panache 在 Peacekeeper 反应过来之前就挤进了人群。
 
-**关键词**：yanks / hurls it to the floor / shatters into a dozen pieces / plows into the crowd
+**关键词**：yanks / shatters into a dozen pieces / plows into the crowd
 
 **为什么这样写**：三个动词连成一串——扯、摔、碎——中间没有一句评论，因为作者要让破坏以纯粹的物理速度发生。最后一句写他抢在 Peacekeeper 反应之前溜走，把「恶霸」与「执法者」的关系也写清楚了：他不是不怕规则，他只是算准了规则来不及生效。
 
@@ -67,7 +67,7 @@ modified: "2026-10-14"
 
 **中文理解**：那朵向日葵是有分量的，我想，比作为她最后一点家乡的分量还重。我猜是亲近的人给她做的。她的妈妈还是爸爸？姐妹还是兄弟？某个她爱的人。他们做它是为了保护她，提醒她有多珍贵，让她在最后——如果那件不可想象的事真的发生、她的名字在抽签日被念到——还有东西可以抓住。
 
-**关键词**：mattered / a handful of home / how precious she is / the unthinkable
+**关键词**：mattered / handful of home / the unthinkable
 
 **为什么这样写**：这段用一连串猜问替一件小东西补上家族史，把「碎掉的盐面团」升级成「某个人的手作」。破折号里插进的那句条件从句，正是每个十二区家庭平时不敢说出口的假设，作者把它放进叙述者的猜问里，让同情有了具体来源。
 
@@ -79,7 +79,7 @@ modified: "2026-10-14"
 
 **中文理解**：这是胶水。我用食物摊上的面粉、水和盐做的，我只能做到这一步。她对着那个女孩说：粘好之后你得格外小心，因为我没法给它加热。也许你们的导师能在住处给你找点像样的胶水，但现在这个应该能撑住。
 
-**关键词**：It’s glue / flour and water and salt / mended / this should hold
+**关键词**：It’s glue / mended / this should hold
 
 **为什么这样写**：她把「帮忙」办成一件手艺活，而不是一段安慰——先报材料，再报局限，最后给一个可执行的后续办法。整段没有一句同情话，取而代之的是「加热不了」「去找导师要更好的胶」这类技术性交代，这正是这个人表达善意的方式：不解释、不铺垫，直接动手，而且不隐瞒这东西的脆弱。
 
@@ -91,7 +91,7 @@ modified: "2026-10-14"
 
 **中文理解**：我歪了歪头，直直看着她的眼睛，说：「我是十二区的 Haymitch Abernathy。我本不该在这里。我是被违规抽中的，可没人在乎。我的邻居 Louella McCoy 是这里我唯一在乎的人，可你们杀了她，换了个替身进来。所以，这倒让我可以放手去赢这场比赛了。」
 
-**关键词**：cock my head / dead in the eye / reaped illegally / a body double / frees me up
+**关键词**：dead in the eye / reaped illegally / a body double
 
 **为什么这样写**：这段台词是本章的表演核心：他把真实的愤怒当成素材，用「你们杀了她」和「所以我自由了」两句，把仇恨翻译成评审听得懂的语言——一个没有牵挂、只求活命的选手。前面那段自我盘算已经告诉读者这是演的，于是同样的句子在评审耳中与在读者耳中是两种东西。
 
@@ -103,7 +103,7 @@ modified: "2026-10-14"
 
 **中文理解**：除了十一区交出的数字差不多，新来者大多在四到七之间。我们最后公布。Maysilee 和 Wyatt 各拿六分，Lou Lou 拿了三分。
 
-**关键词**：the exception of District 11 / announced last / each get a six / pulls a three
+**关键词**：the exception of District 11 / announced last / pulls a three
 
 **为什么这样写**：这一段把全章的表演结算成数字，句式冷得像播报：主语一个接一个，动词只用「拿」。前面所有的交底、结盟、修补，最后都被压缩成同一张榜单上的几个分数，作者用这种落差提醒读者，竞技场的评价体系并不奖励他们在白天做成的那些事。
 
