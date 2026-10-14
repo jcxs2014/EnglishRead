@@ -7,7 +7,7 @@ modified: "2026-10-14"
 
 ## 本章导航
 
-- **一句话概括**：Effie 连夜从姑婆的旧衣柜里搬来一整套黑色礼服，把十二区四个孩子收拾成能上镜的样子；Beetee 在自助餐的蔬菜拼盘边压低声音交代破坏方案——向北走、跟住回巢的猛兽找到传送门、进储罐区，九区的向日葵里已经藏好引信与雷管；采访之夜，Panache 被 Caesar 当成一块肉戏耍，Maysilee 用一张嘴把前排观众得罪个遍，Wyatt 报出的赔率连主持人都看呆，Louella 抱着蛇冲观众喊「你们会杀了我们」后被放倒抬走；Haymitch 把一分的成绩说成荣誉徽章，用「不怕惹毛管理层」的小丑姿态赢得满场欢呼，散场后 Plutarch 把他领进暖房，递来电话——那头是 Lenore Dove。
+- **一句话概括**：Effie 连夜从姑婆的旧衣柜里搬来一整套黑色礼服，把十二区四个孩子收拾成能上镜的样子；Beetee 在自助餐的蔬菜拼盘边压低声音交代破坏方案——向北走、跟住回巢的猛兽找到传送门、进储罐区，九区的向日葵本身已填满炸药，起爆装置藏在 Ampert 那件仿制的信物里；采访之夜，Panache 被 Caesar 当成一块肉戏耍，Maysilee 用一张嘴把前排观众得罪个遍，Wyatt 报出的赔率连主持人都看呆，Louella 抱着蛇冲观众喊「你们会杀了我们」后被放倒抬走；Haymitch 把一分的成绩说成荣誉徽章，用「不怕惹毛管理层」的小丑姿态赢得满场欢呼，散场后 Plutarch 把他领进暖房，递来电话——那头是 Lenore Dove。
 - **情感弧线位置**：上升段的顶点与第一次断裂。前半章是「被装扮」的甜味：借来的礼服、摆盘精致的点心、眼看就要到手的赞助商，把死亡倒计时暂时盖住；采访环节是全章最亮的一场戏，他用玩笑把一分的成绩翻成徽章，也在同一个夜里听见了恋人的声音。但这份胜利是用同伴的失态换来的——Louella 被当众放倒、被抬下台，而他站在侧幕看着。
 - **Tropes 兑现/反转**：兑现了「赛前采访决定赞助」这一反乌托邦固定桥段，也兑现了「主角靠幽默赢得观众」的桥段。反转在于：被嘲弄的对象不是反派，而是同为贡品的 Panache，笑过之后他意识到这个笑话不只开在对方身上；而观众最买账的并不是联盟的崇高宣言，是他「不惧得罪管理层」的小丑姿态——善意与深刻都换不来镜头，只有麻烦可以。
 - **人物弧线**：Haymitch 完成从「扮演酒贩子」到「扮演 Chance」的转换——他在台上想起本该站在那里的是 Woodbine Chance，于是借来那副做派，把一分的耻辱变成徽章；同时他向 Wellie 明确划清界限，说要独自行动，把保护别人的承诺换成了保护别人的距离。Effie 从上一章的官僚笑柄变成真正解决问题的人，也在化妆盒前与 Maysilee 短暂地并肩。Louella 则把「被当玩物」翻转成「当众指控」。
@@ -71,7 +71,7 @@ modified: "2026-10-14"
 
 **为什么这样写**：这是采访喜剧的急刹车。作者让叙述者在笑声最高处插入几个短促的判断句，一句比一句更剥除修饰——从「动物」到「弃物」再到「不配活着」，主语从「他们」换到「我们」。前面所有的笑料在这里被一次性清算：观众笑的是贡品，而贡品也包括他自己。
 
-**读者视角提示**：这一段的语气从自嘲切换到自我审判，读者应当把它当作本章的政治核心来读。他刚刚还在替 Panache 抱不平，下一秒就把这份同情扩到全体——这种从个体到集体的视线转移，正是他后面愿意独自去炸储罐的心理依据。
+**读者视角提示**：这一段的语气从自嘲切换到自我审判，读者应当把它当作本章的政治核心来读。他在这一段里把同情从 Panache 一个人扩到全体——这种从个体到集体的视线转移，正是他后面愿意独自去炸储罐的心理依据。
 
 ---
 
@@ -140,7 +140,7 @@ modified: "2026-10-14"
 | compartments | 隔层，暗袋 | My jacket and vest have hidden compartments and my belt some extra loops that Effie told me were for decorative weapons. |
 | scavenge | 搜寻，从别处拾取 | Ampert will scavenge one from their persons. |
 | bloodbath | 血腥混战，开场大屠杀 | Probably at the bloodbath. |
-| patronizing | 居高临下的，自视优越的 | “I’m all meat, little man,” says Panache, giving Caesar a patronizing pat on the head. |
+| patronizing | 居高临下的，自视优越的 | “That’s right. I’m all meat, little man,” says Panache, giving Caesar a patronizing pat on the head. |
 | humiliated | 受辱的，丢尽脸面的 | A bell signals his time’s up, and he has no choice but to leave the stage, steaming and humiliated. |
 | exclusive | 排外的，不愿与外人来往的 | District 9, despite their commitment to the Newcomers, tends to remain exclusive. |
 | shortcomings | 缺点，不足之处 | After the break, District 5 does their best to highlight our shortcomings. |
@@ -158,7 +158,7 @@ modified: "2026-10-14"
 
 ## 一句话总结
 
-Chapter 13 把十二区的四个孩子送上采访台：Effie 从姑婆的旧衣柜里搬来一整套黑色礼服，替他们换来赞助商的注目；Beetee 在自助餐的蔬菜拼盘边压低声音交出了完整的破坏方案——向北走、跟住回巢的猛兽找到传送门、进入储罐所在区域，九区的向日葵里已经藏好引信与雷管。台上，Panache 被 Caesar 当成一块肉戏耍，Maysilee 用一张嘴把前排观众得罪个遍，Wyatt 报出的赔率连主持人都看呆，Louella 抱着蛇对观众喊出「你们会杀了我们」之后被放倒抬走；Haymitch 把一分的成绩说成荣誉徽章，用「不怕惹毛管理层」的小丑姿态赢得满场欢呼，也在台下对 Wellie 说出那句承诺与告别。散场后 Plutarch 把他领进暖房，递来电话——那头是 Lenore Dove。
+Chapter 13 把十二区的四个孩子送上采访台：Effie 从姑婆的旧衣柜里搬来一整套黑色礼服，替他们换来赞助商的注目；Beetee 在自助餐的蔬菜拼盘边压低声音交出了完整的破坏方案——向北走、跟住回巢的猛兽找到传送门、进入储罐所在区域，九区的向日葵本身已填满炸药，起爆装置藏在 Ampert 那件仿制的信物里。台上，Panache 被 Caesar 当成一块肉戏耍，Maysilee 用一张嘴把前排观众得罪个遍，Wyatt 报出的赔率连主持人都看呆，Louella 抱着蛇对观众喊出「你们会杀了我们」之后被放倒抬走；Haymitch 把一分的成绩说成荣誉徽章，用「不怕惹毛管理层」的小丑姿态赢得满场欢呼，也在台下对 Wellie 说出那句承诺与告别。散场后 Plutarch 把他领进暖房，递来电话——那头是 Lenore Dove。
 
 ---
 
