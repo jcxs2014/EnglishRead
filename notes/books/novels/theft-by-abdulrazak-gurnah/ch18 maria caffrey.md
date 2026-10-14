@@ -8,73 +8,63 @@ source_text: "text/ch18_18.txt"
 
 ## 本章导航
 
-- **一句话概括**：Maria Caffrey 来到 Tamarind Hotel——她在雨中到达，用她的 backpack，她是一个在 Zanzibar 从事 relief work 的西方人。本章通过 Maria Caffrey 的出现，展现了 Zanzibar 的国际维度以及 Badar 与外部世界的相遇。
-- **叙事手法**：第一人称 Badar；Maria Caffrey 是一个重要的叙事者——她给 Badar 提供了关于 Zanzibar 历史和现实的外部视角。
-- **人物关系**：Maria Caffrey（国际援助工作者/信息提供者）/ Geraldine Bruno（Maria 的朋友/另一位西方人）/ Badar（观察者/学习者）。
-- **情感弧线位置**：Badar 线的「知识化」——他开始了解 Zanzibar 的历史和自己在其中的位置。
-- **关键意象**：「 pouring with rain」、「 backpack」、「 Director Relief Exchange」。
+- **一句话概括**：Maria Caffrey 是 Relief Exchange International 的主任，来到 Zanzibar 从事志愿者招募工作；Badil 在夜班时听到悲伤的 flute 音乐，而后来她提到她的朋友 Jerry 将来 Zanzibar。
+- **叙事手法**：第一人称 Badar；本章通过 Maria Caffrey 的到达和离开，写出 Badar 与国际援助世界的短暂交集。
+- **人物关系**：Badar（叙事者/观察者）/ Maria Caffrey（国际援助工作者）/ Jerry/Geraldine Bruno（Maria 的朋友，Karim 未来的外遇对象）。
+- **情感弧线位置**：Badar 线的「孤独」——他听着楼上的 flute 声，感到悲伤。
+- **关键意象**：「 It was pouring with rain」「 she stood in the doorway laughing」「 the sound of a flute, thin and melancholy」。
 
 ## 精读
 
-> **原句 1:** The booking for Maria Caffrey was made on the phone by a travel agency in Dar es Salaam, which instructed that all charges be made to its account, so she was either a businesswoman or a VIP from an organisation.
+> **原句 1:** «It was pouring with rain when she arrived. The deluge had begun in the middle of the night and was still in spasmodic spate in the early afternoon when she turned up at the hotel. She stood in the doorway laughing as she shrugged off the backpack and peeled off the thin plastic rain jacket which had done nothing to keep her dry.»
 
-**中文理解**：Maria Caffrey 的预订是通过 Dar es Salaam 的一家旅行社在电话上做的——这个细节写出 Maria 是一个有组织的、专业的西方旅行者。
+**中文理解**：Maria Caffrey 在倾盆大雨中到达——雨从夜里开始，在下午还在断断续续地下。她站在门口笑着，甩掉背包，剥下那块没什么用的塑料雨衣。
 
-**关键词**：The booking for Maria Caffrey was made on the phone by a travel agency in Dar es Salaam
+**关键词**：It was pouring with rain. She stood in the doorway laughing
 
-**为什么这样写**：Gurnah 用「 travel agency in Dar es Salaam」来写 Maria 的轨迹：她从远方来，通过正规渠道预订，这与 Zanzibar 本地人的旅行方式形成对照。
+**为什么这样写**：Gurnah 用雨来写 Maria 的韧性——她在最坏的天气里到达，但她仍然在笑。这个细节写出她的性格：她不是被困难吓倒的人。
 
-**读者视角提示**：注意 Maria Caffrey 这个名字——这是一个爱尔兰/英国名字，反映了东非海岸的殖民历史遗留。
+**读者视角提示**：注意 Badar 作为观察者的角色——他提供毛巾，他看着她检查房间。这是他作为酒店工作人员的日常，但 Maria 的活力与他的沉闷形成对比。
 
-> **原句 2:** It was pouring with rain when she arrived.
+> **原句 2:** «I walked from the ferry terminal, she said, heaving a little after the excitement and the rub-down. It should have been five minutes… according to the map.»
 
-**中文理解**：Maria 在「 pouring with rain」中到达——这是一个戏剧性的到达场景，与 Zanzibar 通常的热带阳光形成对比。
+**中文理解**：Maria 说她从 ferry terminal 走过来的——地图上只要五分钟，但她迷路了，她浑身湿透。
 
-**关键词**：It was pouring with rain when she arrived
+**关键词**：I walked from the ferry terminal. It should have been five minutes
 
-**为什么这样写**：Gurnah 用雨来写 Maria 的到达——这个天气细节不只是背景，它写出 Maria 的坚韧：她在雨中到达，她没有被恶劣天气吓倒。
+**为什么这样写**：Gurnah 用 Maria 的迷路来写 Zanzibar 老城区的复杂性——它的街道不是为游客设计的。Maria 是一个能干的专业人士，但她仍然在 Zanzibar 的街道上迷路。
 
-**读者视角提示**：注意这个雨是在夜里开始的，并且是「 spasmodic spate」——它写出 Zanzibar 雨季的暴力性。
+**读者视角提示**：这个细节也写出 Badar 的角色：他是 Maria 的当地向导，虽然她拒绝他的帮助。
 
-> **原句 3:** She stood in the doorway laughing as she shrugged off the backpack and peeled off the thin plastic rain jacket which had done nothing to prevent her getting soaked.
+> **原句 3:** «Maria Caffrey, Director, Relief Exchange International, Volunteer Recruitment. She slid the card towards him as he was closing her account on the computer, and he looked up in surprise to find her dark sleepy eyes on him with an appraising look which he couldn't read.»
 
-**中文理解**：Maria 站在门口，laughing——她在雨中笑着，甩掉背包，甩干她的短发。这个细节写出 Maria 的性格：她是乐观的、有弹性的。
+**中文理解**：Maria Caffrey，主任，Relief Exchange International，志愿者招募——她把名片滑向他，他惊讶地抬起头，看到她那双黑色的、睡意朦胧的眼睛正在审视他，而他读不懂这个眼神。
 
-**关键词**：She stood in the doorway laughing as she shrugged off the backpack and peeled off
+**关键词**：Maria Caffrey, Director, Relief Exchange International. her dark sleepy eyes on him with an appraising look which he couldn't read
 
-**为什么这样写**：Gurnah 用「 laughing」来写 Maria 的态度——她不是在抱怨雨，她是在笑。这个细节写出西方旅行者的特定类型：他们把困难当作冒险的一部分。
+**为什么这样写**：Gurnah 用这个名片来写 Maria 的专业身份——她是国际援助工作者，不是一个普通游客。Badar 不能读懂她的眼神，这写出他们之间的距离：不同的世界，不同的人生。
 
-**读者视角提示**：注意「 shrugged off」这个动词——它写出 Maria 对不舒服的漠然态度。她 shrugges off 不便，就像 Badar shrugges off 他的过去一样。
+**读者视角提示**：注意「 Relief Exchange International」——这是一个虚构的组织名称，但它的名字暗示了 Gurnah 的主题：交换、流动、连接。
 
-> **原句 4:** I walked from the ferry terminal, she said, heaving a little after the excitement and the rub-down.
+> **原句 4:** «I'll come back for you in a couple of hours, and we can go out to dinner, Maria Caffrey said. She was dressed in jeans and a T-shirt, as she was when she first arrived, and she stood there for a moment and then walked toward the room where Geraldine Bruno was waiting.»
 
-**中文理解**：Maria 告诉 Badar 她是从 ferry terminal 走过来的——她迷路了，因为她认为只有五分钟的路程。
+**中文理解**：Maria Caffrey 说她几个小时后来接 Jerry，她们要出去吃晚饭——她穿着牛仔裤和 T 恤，和她第一次到达时一样。
 
-**关键词**：I walked from the ferry terminal, she said
+**关键词**：Geraldine Bruno was waiting
 
-**为什么这样写**：Gurnah 写 Maria 的到达细节时，用了她的迷路的经历——这个细节写出 Zanzibar 老城区的复杂性：它不是一个为游客设计的地方，它的街道不是直的。
+**为什么这样写**：Gurnah 用这个细节来写 Maria 和 Geraldine Bruno（Jerry）的关系——她们是朋友，Maria 安排 Jerry 来 Zanzibar。这个细节对 Badar 来说是无关的，但它对读者来说是重要的：Maria 和 Jerry 是两个人。
 
-**读者视角提示**：这个迷路也写出了 Badar 作为当地人的角色：Maria 是迷失的，Badar 是向导。
+**读者视角提示**：注意 Badar 看到 Maria 去找 Jerry——他不知道她们与 Karim 的关系。这个场景为后面的章节埋下伏笔。
 
-> **原句 5:** Maria Caffrey, I have a reservation.
+> **原句 5:** «He thought the music sad, and wondered if she was feeling lonely in a strange country and if the music made her think of her home, wherever that was. He went back to the office and returned to the book he was struggling with. He could not concentrate on it, his thoughts were drifting.»
 
-**中文理解**：Maria 用她的 backpack 自己拿着 check-in——「 Maria Caffrey, I have a reservation」。她不需要 Badar 的帮助，她是一个独立的旅行者。
+**中文理解**：他觉得音乐很悲伤，想知道她是否在异国感到孤独，音乐是否让她想起她的家。他回到办公室，继续读他艰难地读着的书——他不能集中精神，思绪在飘荡。
 
-**关键词**：Maria Caffrey, I have a reservation
+**关键词**：He thought the music sad, and wondered if she was feeling lonely in a strange country
 
-**为什么这样写**：Gurnah 写 Maria 的独立性时，用了她对 Badar 的拒绝：她不需要他帮她拿 backpack，她自己做 check-in。这个细节写出 Maria 与 Badar 遇到的其他客人不同。
+**为什么这样写**：Gurnah 用 Badar 对音乐的投射来写他的孤独——他在夜晚的酒店里听着 flute 声，他不能读书，他的思绪在飘荡。他把他的悲伤投射到音乐的演奏者身上。
 
-**读者视角提示**：Maria 的独立性与她后来在 Zanzibar 的「 relief work」形成联系：她不是一个普通的游客。
-
-> **原句 6:** Regards, Maria Caffrey, Director Relief Exchange.
-
-**中文理解**：Maria 在 checkout 时向 Badar 提供她的信息——「 Maria Caffrey, Director Relief Exchange」。这个细节写出她的职业身份。
-
-**关键词**：Maria Caffrey, Director Relief Exchange
-
-**为什么这样写**：Gurnah 用这个商业名片来写 Maria 的职业身份——「 Relief Exchange」暗示了国际援助和人道主义工作。这个身份与 Badar 在 Tamarind Hotel 的工作形成有趣的关系：两个人都在与 Zanzibar 的外部世界打交道，但他们打交道的性质完全不同。
-
-**读者视角提示**：注意 Maria 的职业不是「 tourist」而是「 Director Relief Exchange」——她是来工作的，不是来观光的。这个细节改变了 Badar 对她的理解。
+**读者视角提示**：注意 Badar 的「 home」——他的家在 Zanzibar，但他仍然感到孤独。这个矛盾是这本书的核心。
 
 ## 本章词汇
 
@@ -82,29 +72,33 @@ source_text: "text/ch18_18.txt"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| relief | 救助、救援 | Director Relief Exchange |
-| exchange | 交换、交流 | Director Relief Exchange |
-| agency | 代理机构 | a travel agency in Dar es Salaam |
-| director | 导演、总监、主任 | Director Relief Exchange |
+| sad | 悲伤的、难过的 | He is a sad case, Issa said |
+| spasmodic | 间歇性的、阵发性的 | still in spasmodic spate |
+| appraising | 审视的、评估的 | the same appraising look she had given him |
+| relief exchange | 救济交流（机构名） | Relief Exchange International |
+| volunteer recruitment | 志愿者招募 | Volunteer Recruitment |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| booking | 预订 | The booking for Maria Caffrey |
+| pour | 倾注、倾泻 | It was pouring with rain |
 | backpack | 背包 | she shrugged off the backpack |
-| terminal | 终点站、航站楼 | from the ferry terminal |
-| reservation | 预订、预约 | I have a reservation |
+| deluge | 洪水、暴雨 | The deluge had begun in the middle of the night |
+| flute | 长笛 | the sound of a flute |
+| stuffy | 闷热的 | a stuffy office |
+|mosquito | 蚊子 | keep off the mosquitos |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| rain | 雨 | It was pouring with rain when she arrived |
-| hotel | 酒店 | Tamarind Hotel Reservations, Requesting a room |
-| room | 房间 | Requesting a room for one guest |
-| hand | 手 | she said, offering her hand |
+| rain | 雨 | It was pouring with rain |
+| home | 家 | His room was home now |
+| night | 夜晚 | after midnight, which was the hotel lock-up time |
+| lonely | 孤独的 | feeling lonely in a strange country |
+| book | 书 | returned to the book |
 
 ## 一句话总结
 
-Maria Caffrey 在雨中到达 Tamarind Hotel——她是「 Director Relief Exchange」，一个在 Zanzibar 从事国际援助工作的西方人；她的到来给 Badar 提供了一个新的视角。
+Maria Caffrey 在雨中笑着到达，是 Relief Exchange International 的主任；在 Badar 独自值夜班时，他听到「 thin and melancholy」的 flute 声，感到孤独——他的思绪在飘荡，而他的房间已经是 Zanzibar 的这个闷热的办公室了。
