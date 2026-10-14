@@ -128,6 +128,8 @@ source_text: "ch22_the_reckoning.txt"
 
 ---
 
-## 一句话总结Lila 向 Jonah 揭露十三年前 Princeton 真相，揭示整个"Kurt 软禁"剧本是她为复仇而设计的陷阱，Kurt 的死亡是计划的一部分。
+## 一句话总结
+
+Lila 向 Jonah 揭露十三年前 Princeton 真相，揭示整个"Kurt 软禁"剧本是她为复仇而设计的陷阱，Kurt 的死亡是计划的一部分。
 
 **读者视角提示**：读者此前与 Jonah 同处于第一人称视角，共享他的焦虑与内疚。此刻反转揭露后，读者经历与 Jonah 同等的震惊——Lila 从被救助者变为主动操控者，全书视角权力关系彻底颠覆。
