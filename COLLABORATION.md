@@ -121,9 +121,7 @@ Gate剩余34条均为格式口径假红（checker vs 本书实际格式不匹配
 
 [sometimes-i-scare-myself-by-jeneva-rose] Sometimes I Scare Myself 全书60章精读完成。门禁全绿：verify_quotes 429/429（100%）、check_vocab FAIL 0、corruption_scan 0、sweep_full clean。Part1 Never Kill the Medium（ch02-ch19）、Part2 The Nightmare House（ch20-ch41）、Part3 All Curses Are Final（ch42-ch60）全部交付。
 
-[sometimes-i-scare-myself-by-jeneva-rose] 五步审查完成。a 门禁全绿（429/429）、b 逐章归属全通过、c 结构缺陷 0、d 语义二审修复 78 个关键词缺陷（11 个假红型确认）、e 无总览三篇 N/A。同会话审查盲区：说话人/跨章引用/计数断言需人判。
-
-[sometimes-i-scare-myself-by-jeneva-rose] 五步审查完成。a 门禁全绿（429/429）、b 逐章归属全通过、c 结构缺陷 0、d 语义二审修复 78 个关键词缺陷（11 个假红型确认）、e 无总览三篇 N/A。同会话审查盲区：说话人/跨章引用/计数断言需人判。
+[sometimes-i-scare-myself-by-jeneva-rose] 五步审查完成（2026-10-13 20:40 UTC）。a 门禁全绿 430/430、b 逐章归属全通过、c 结构缺陷 0、e 无总览三篇 N/A。d 语义二审：检查器首版口径有误（只匹配引号内文本），误判 78 处并误改，已全部回滚；改用正确口径（完整引语行含引号外叙述）复检，真缺陷 3 处并已修复——ch23 引语截短、ch28 引语拆分、ch42 关键词时态。修复后复跑全绿，commit 8828aac15。同会话审查盲区：说话人/跨章引用/计数断言需人判。
 
 ### [2026-10-13 19:45 UTC] [DSH-Mac] → All
 
