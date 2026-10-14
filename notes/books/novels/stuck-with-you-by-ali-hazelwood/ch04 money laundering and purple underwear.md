@@ -26,7 +26,7 @@ modified: "2026-10-14"
 
 **关键词**：plasma coolant / bite the bullet / entrepreneurial
 
-**为什么这样写**：用"等离子冷却液"（plasma coolant）的科幻比喻形容 Faye 咖啡的味道，与 Sadie 的"刹车油"（brake fluid）形成互文——两人用工程师的味觉词汇建立默契；"bite the bullet and choke it down"（咬紧牙关硬吞）的俚语展现 Sadie 的迷信已到自虐程度；"no valid entrepreneurial reason"（没有正当创业理由）的严肃判断与"洗钱"（money laundering）的荒诞结论形成喜剧张力——他们在用分析工程问题的逻辑分析一家面包店。
+**为什么这样写**：用"等离子冷却液"（plasma coolant）的科幻比喻形容 Faye 咖啡的味道，与同段上文 Sadie 的"刹车油"（brake fluid）形成互文——两人用工程师的味觉词汇建立默契；"bite the bullet and choke it down"（咬紧牙关硬吞）的俚语展现 Sadie 的迷信已到自虐程度；"no valid entrepreneurial reason"（没有正当创业理由）的严肃判断与"洗钱"（money laundering）的荒诞结论形成喜剧张力——他们在用分析工程问题的逻辑分析一家面包店。
 
 ---
 
@@ -103,7 +103,7 @@ modified: "2026-10-14"
 
 **关键词**：Ask me / French bistro / whole-systems approach / purple underwear that is actually lavender
 
-**为什么这样写**：以一句未说出口的内心呐喊收束全章——"Ask me"（问我）重复了四次（在 ch03 的"Ask me, ask me, ask me. Ask me."基础上），是 Sadie 对 Erik 的终极邀约；"French bistro"（法国小酒馆）是 Erik 抛出的暧昧线索，而 Sadie 的回应是把所有他们聊过的话题——洗钱、全系统方法、薰衣草色内衣——都列进去，因为**和他在一起时，连荒诞都值得再聊一遍**。章节以此句结尾，把"他会不会问我"的悬念推向下一章。
+**为什么这样写**：以一句未说出口的内心呐喊收束全章——"Ask me"（问我）在一章里出现两次（先在章末前的内心低语"Ask me, I think at him."，随即连喊四次"Ask me, Erik Nowak. Ask me, ask me, ask me. Ask me."），是 Sadie 对 Erik 的终极邀约；"French bistro"（法国小酒馆）是 Erik 抛出的暧昧线索，而 Sadie 的回应是把所有他们聊过的话题——洗钱、全系统方法、薰衣草色内衣——都列进去，因为**和他在一起时，连荒诞都值得再聊一遍**。章节以此句结尾，把"他会不会问我"的悬念推向下一章。
 
 ## 本章词汇
 
