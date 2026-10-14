@@ -86,7 +86,7 @@ modified: "2026-10-14"
 ---
 
 > **原句 7:**
-> "Actually, if you don't mind, I'd rather skip Staten Island and just go to your place."
+> "Actually," I say, and even though my cheeks are burning, even though I cannot look him in the eye, even though I'm shifting on my toes and contemplating running away, this is the bravest moment of my life. Braver than moving here without Mara and Hannah. Braver than the time I megged that midfielder from the UCLA. Just brave. "Actually, if you don't mind, I'd rather skip Staten Island and just go to your place."
 
 **中文理解**："实际上，如果你不介意，我想跳过史泰登岛，直接去你家。"
 
