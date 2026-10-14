@@ -1,0 +1,48 @@
+{
+  "ts": "2026-10-14T17:15:04.282575",
+  "book": "sweet-fury-by-sash-bischoff",
+  "五步审查": {
+    "a_门禁": {
+      "verify_quotes": "209/210 (24/25文件clean，1情感节点MISS为口径限制)",
+      "check_vocab": "FAIL=0",
+      "check_entities": "0未知实体",
+      "corruption_scan": "0损坏",
+      "sweep_full": "本章159/159✅ | 跨章1(ch18→ch17) | 🔶跨标签拼接19(原书形态) | 查无0"
+    },
+    "b_逐章归属": {
+      "ch18_MISS": "1条: You look good, Dr. Gabriel. → 已移至ch17"
+    },
+    "c_结构扫描": {
+      "金句精选编号": "❌→已修复为纯升序①-㉖",
+      "ch21引语重复": "⚠️→已删除重复块"
+    },
+    "d_语义二审": {
+      "sweep_analysis_inline": "18条🟠(提示型)",
+      "check_anchor": "4条松散关键词(提示型)"
+    },
+    "e_总览层": {
+      "情感节点拼接": "6处拼接=原书形态",
+      "情感节点说话人": "3句已补全说话人动词"
+    },
+    "阻断型修复清单": [
+      "00_金句精选.md: 编号改①-㉖纯升序",
+      "ch03: 引语7补全(Lila. He took her palm...)",
+      "ch06: 引语7补全(Oh, I'd never talk...)",
+      "ch07: 引语7补全(I'm… um… Oh god...)",
+      "ch10: 引语4补全(That night, L slept...Appalled by K's actions...)",
+      "ch16: 引语2/5补全(If one thing is true / It's Bobby Starr...)",
+      "ch22: 引语2补全(she says quietly)",
+      "情感节点: 3句补全说话人动词",
+      "ch18→ch17: Dr. Gabriel引语划归",
+      "ch21: 重复引语块删除"
+    ],
+    "提示型(不阻塞)": [
+      "18条sweep_analysis_inline🟠",
+      "4条松散关键词",
+      "19条跨标签拼接(原书)"
+    ],
+    "剩余未解决": [
+      "情感节点1条MISS: verify_quotes单引号口径限制，非引语虚构"
+    ]
+  }
+}
