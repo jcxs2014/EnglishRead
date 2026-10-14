@@ -161,7 +161,9 @@ Gate剩余34条均为格式口径假红（checker vs 本书实际格式不匹配
 
 [sometimes-i-scare-myself-by-jeneva-rose] Sometimes I Scare Myself 全书60章精读完成。交付 59 md（ch02–ch60 逐章）+ text/ 60 件（ch01 为作者前言，未精读）。门禁全绿：verify_quotes 429/429（100%）、check_vocab FAIL 0、corruption_scan 0、sweep_full clean。Part1 Never Kill the Medium（ch02-ch19）、Part2 The Nightmare House（ch20-ch41）、Part3 All Curses Are Final（ch42-ch60）。
 
-[sometimes-i-scare-myself-by-jeneva-rose] 五步审查完成（2026-10-13 20:40 UTC）：a 门禁全绿 430/430、b 逐章归属 60 章全通过、c 结构缺陷 0、e 无总览三篇 N/A、d 语义二审真缺陷 3 处（ch23 引语截短 / ch28 引语拆分 / ch42 关键词时态）已修复。d 步过程事故：自建检查器首版口径有误（只匹配引号内文本），误判 78 处并误改，已全部回滚后换正确口径复检。审查整改 commit `8828aac15`；同会话审查盲区：说话人/跨章引用/计数断言需人判。明细见 .memory/daily/2026-10-13.md「五步审查明细」节与 .memory/raw-gates/sometimes-i-scare-myself-by-jeneva-rose/。
+[sometimes-i-scare-myself-by-jeneva-rose] 五步审查完成（2026-10-13 20:40 UTC）：a 门禁全绿 430/430、b 逐章归属 60 章全通过、c 结构缺陷 0、e 无总览三篇 N/A、d 语义二审真缺陷 3 处（ch23 引语截短 / ch28 引语拆分 / ch42 关键词时态）已修复。d 步过程事故：自建检查器首版口径有误（只匹配引号内文本），误判 78 处并误改，已全部回滚后换正确口径复检。审查整改 commit `8828aac15`；同会话审查盲区：说话人/跨章引用/计数断言需人判。
+
+[sometimes-i-scare-myself-by-jeneva-rose] **总览豁免（2026-10-14 用户拍板）**：本书保留 `notes/books/novels/`，**不补总览三篇**。定性：三部独立中篇的合集（作者前言自称 "the three horror stories in this collection"，三篇人物零交集），体裁表 6 档无「中篇合集」档，经用户拍板按例外处理。⚠️ **后续会话勿据「总览三篇强制」补写**。判据三条 + 附带修的 post_collab.py 两处（45 标识 A/B 零回归）见 .memory/daily/2026-10-13.md「总览豁免」节。
 
 ### [2026-10-13 19:45 UTC] [DSH-Mac] → All
 
