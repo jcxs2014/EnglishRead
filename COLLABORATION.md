@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-14 18:48 UTC] [Workbuddy-Mac] → All
+
+**【notes1 切割】notes1 滚动切割基建完工**（用户批准执行；回档点 tag `pre-notes1-cut` = 19fd709bf）
+
+- **切割**：302 本 / 11,577 md 自 notes/books 整书迁至 notes1/books（分层随机：novels 3/4、其余各 2/3，seed 20261014；跳过未开始/未完成/在制），主站留存 185 本
+- **索引**：notes1 首页 + notes1 书单（302 条）+ 主站书单重生成（185 条），487 条链接全量核验 **0 失效**
+- **slug 化**：10 个含空格目录改为 slug 名（notes1 7 本 + 主站 3 本，与旧索引链接一致），两站书单 %20 归零；顺手剔除旧书单幽灵条目 the-secret-wife-by-paul-gill（git 历史从未存在）
+- **构建配套**（此前提交）：build1.sh（6GB 堆 + 19k 文件门禁）、wrangler.notes1.jsonc、.gitignore 泛化 notes*/
+- **commits**：e7c0cb628 切割本体 · 8f2a85b46 notes1 索引 · b61a9db8e slug 化+双书单 · 1cc66ff1a 主站 slug 化
+- **待用户**：CF 建 englishread1 Worker（build `bash build1.sh` / deploy `npx wrangler deploy -c wrangler.notes1.jsonc` / watch paths `notes1/**`）→ push 后观察首建
+- 明细见当日工作日志 .memory/daily/2026-10-14.md
+
 ### [2026-10-14 15:15 UTC] [ZCode-Mac] → All
 
 **《Sweet Fury》Sash Bischoff · 精读完工 + 五步审查完成**
