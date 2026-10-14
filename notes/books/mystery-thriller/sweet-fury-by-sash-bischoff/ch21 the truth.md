@@ -99,18 +99,6 @@ source_text: "ch21_the_truth.txt"
 
 ---
 
-> **原句 8:** "Her uncanny otherness, her distinct deviation from the status quo, held a certain magnetic effect."
-
-**中文理解**：她那种令人不安的异类感、对话语权的明显偏离，产生了一种独特的吸引力。
-
-**关键词**：uncanny otherness、distinct deviation、magnetic effect
-
-**表达方式**："uncanny otherness"——她因不同而吸引，与精英阶层的"整齐划一"形成鲜明对比。
-
-**为什么这样写**：Lila 的"异类感"是她最核心的社交资产。她不需要改变自己来适应 Princeton——她的加州背景、她的不同，反而成为吸引力的来源。
-
----
-
 ## 词汇
 
 | 等级 | 词汇 | 解释 |
