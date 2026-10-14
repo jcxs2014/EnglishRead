@@ -1,0 +1,98 @@
+# 语料层验收 verify_corpus.py — sunrise-on-the-reaping-by-suzanne-collins
+# 执行: python3 scripts/verify_corpus.py <BOOK> --expect 28 --expect-source 'toc.xhtml 目录页：Part I 1–9 + Part II 10–18 + Part III 19–27 + Epilogue' --anchors '...' --shared '...'
+# --expect 来源：epub OEBPS/toc.xhtml 目录页（1–27 + Epilogue），与 OPF spine 7–36 逐件 <title> 三方一致
+# anchors 判据：逐章独有实体（全库唯一命中，且小写形不出现）
+
+=== 语料层验收（P0-0）: sunrise-on-the-reaping-by-suzanne-collins ===
+text/ 件数: 28
+  [1] 件数 28 == 预期 28  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 28 组 / 互查 756 组（共享人物 34 个已豁免）  OK
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (536 句)
+      首| “Happy birthday, Haymitch!”
+      末| Just when I’m thinking he might make it — all those Chance kids run like greased lightning — a s
+    ch02 (378 句)
+      首| The screens go dark for a second and then the flag reappears.
+      末| It belongs to us.
+    ch03 (329 句)
+      首| After a while, I slide down the wall, cradling my swollen hands, panting.
+      末| As if to confirm this, the door to the sitting room bursts open to reveal Tibby, his face aglow 
+    ch04 (288 句)
+      首| We don’t do birthday cakes in my house.
+      末| We all stare at Wyatt, who keeps his eyes on the competition as he muses, “You might not want me
+    ch05 (404 句)
+      首| “Not just a Booker Boy, but an eavesdropper,” says Louella.
+      末| And the tribute who’s escaped the arena is Louella.
+    ch06 (469 句)
+      首| A dead mockingjay chick, eyes still bright, feathers blue-black in the sunlight, clawed feet emp
+      末| I step into her embrace, drop my head on her shoulder, and begin to cry.
+    ch07 (420 句)
+      首| I don’t cry much in general.
+      末| “The question is, why didn’t you?”
+    ch08 (472 句)
+      首| Sore ribs and all, I think about punching the question right off Plutarch’s face.
+      末| This is where I pay for painting my poster.
+    ch09 (414 句)
+      首| A fragile collection of muscles and bones, a few quarts of blood, wrapped up in a paper-thin pac
+      末| Standing in the doorway is Louella McCoy.
+    ch10 (312 句)
+      首| My heart leaps, then sinks like a stone.
+      末| “We’re going to drown it.”
+    ch11 (431 句)
+      首| “Drown it?” I guess Wyatt was right about the arena being wet.
+      末| I get a one.
+    ch12 (346 句)
+      首| I don’t remember anyone getting a one before.
+      末| Four black hats stacked on her head, clothes bags draped over her arms, she wheels a cart of spi
+    ch13 (486 句)
+      首| “Effie!” cries Proserpina, flinging herself into the newcomer’s arms.
+      末| Lenore Dove.
+    ch14 (394 句)
+      首| I grip the phone, eyes shut tight.
+      末| But the Raven isn’t giving the answer either of us wants to hear.
+    ch15 (348 句)
+      首| The night seems both endless and way too short.
+      末| A trickle of red stains the fur on its chin.
+    ch16 (395 句)
+      首| Poison.
+      末| With one powerful yank, I free her.
+    ch17 (358 句)
+      首| The cannon fires to confirm her death as her body goes limp.
+      末| It can fool you in the short run, but like as not, you’ll end up paying for it twice.
+    ch18 (278 句)
+      首| When evening falls, I go ahead and start the fire.
+      末| For me, the party is over.
+    ch19 (328 句)
+      首| I have failed.
+      末| What I see instead is the surprise that transforms his face as the dart pierces his throat.
+    ch20 (466 句)
+      首| Panache’s sword thuds to the earth and he collapses, senseless.
+      末| Within seconds, they inflate to the size of acorns and begin exploding, splattering my face with
+    ch21 (346 句)
+      首| Maysilee has already fled the hedge, and I hightail it out after her.
+      末| And I know exactly how we’re getting through that maze.
+    ch22 (304 句)
+      首| The crumbs stick in my throat, so I take another swallow from the bottle to wash them down.
+      末| “This is the end of the road.”
+    ch23 (314 句)
+      首| Maysilee joins me at the cliff’s edge and stares down into the canyon.
+      末| Not a bad poster, all in all.
+    ch24 (422 句)
+      首| Snatches of sleep breed nightmares, and the dawn finds me weak and weary, like the guy in Lenore
+      末| I die happy.
+    ch25 (620 句)
+      首| Drip.
+      末| He merely smiles and says, “Enjoy your homecoming.”
+    ch26 (637 句)
+      首| The after-party’s held in the ballroom of the presidential mansion.
+      末| But when I pull back, I taste the poison and know she is gone.
+    ch27 (374 句)
+      首| The nightmare always starts with me feeding her that gumdrop.
+      末| “Happy birthday, Haymitch!”
+    ch28 (42 句)
+      首| When Lenore Dove comes to me now, she’s not angry or dying, so I think she’s forgiven me.
+      末| THE END
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
