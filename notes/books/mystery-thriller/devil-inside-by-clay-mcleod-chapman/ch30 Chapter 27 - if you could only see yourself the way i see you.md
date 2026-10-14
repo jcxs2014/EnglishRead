@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 27: if you could only see yourself the way i see you
+title: "Chapter 27: if you could only see yourself the way i see you"
 author: Clay McLeod Chapman
 chapter: ch30
 ---

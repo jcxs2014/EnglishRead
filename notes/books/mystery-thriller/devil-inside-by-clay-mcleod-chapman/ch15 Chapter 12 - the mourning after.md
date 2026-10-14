@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 12: the mourning after
+title: "Chapter 12: the mourning after"
 author: Clay McLeod Chapman
 chapter: ch15
 ---

@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 32: can i cut in?
+title: "Chapter 32: can i cut in?"
 author: Clay McLeod Chapman
 chapter: ch35
 ---

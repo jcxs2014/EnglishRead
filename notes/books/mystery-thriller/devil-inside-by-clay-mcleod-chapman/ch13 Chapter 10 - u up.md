@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 10: u up?
+title: "Chapter 10: u up?"
 author: Clay McLeod Chapman
 chapter: ch13
 ---

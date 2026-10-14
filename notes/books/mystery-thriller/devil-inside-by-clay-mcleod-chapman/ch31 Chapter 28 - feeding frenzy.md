@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 28: feeding frenzy
+title: "Chapter 28: feeding frenzy"
 author: Clay McLeod Chapman
 chapter: ch31
 ---

@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 24: what a lovely day for an exorcism
+title: "Chapter 24: what a lovely day for an exorcism"
 author: Clay McLeod Chapman
 chapter: ch27
 ---

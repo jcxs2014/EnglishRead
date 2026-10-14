@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Prologue: Speaking in Tongues
+title: "Prologue: Speaking in Tongues"
 author: Clay McLeod Chapman
 chapter: ch03
 ---

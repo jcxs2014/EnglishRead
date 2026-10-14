@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 25: somebody watching over me
+title: "Chapter 25: somebody watching over me"
 author: Clay McLeod Chapman
 chapter: ch28
 ---

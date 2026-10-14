@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 30: damnation on the dance floor
+title: "Chapter 30: damnation on the dance floor"
 author: Clay McLeod Chapman
 chapter: ch33
 ---

@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 8: A Beaming Needle in a Human Haystack
+title: "Chapter 8: A Beaming Needle in a Human Haystack"
 author: Clay McLeod Chapman
 chapter: ch11
 ---

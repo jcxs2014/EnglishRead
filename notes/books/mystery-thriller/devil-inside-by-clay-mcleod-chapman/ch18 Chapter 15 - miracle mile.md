@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 15: miracle mile
+title: "Chapter 15: miracle mile"
 author: Clay McLeod Chapman
 chapter: ch18
 ---

@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 6: Sticky Rice
+title: "Chapter 6: Sticky Rice"
 author: Clay McLeod Chapman
 chapter: ch09
 ---

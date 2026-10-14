@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 19: my ride or die
+title: "Chapter 19: my ride or die"
 author: Clay McLeod Chapman
 chapter: ch22
 ---

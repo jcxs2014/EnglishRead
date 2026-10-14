@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 5: Trial Separation
+title: "Chapter 5: Trial Separation"
 author: Clay McLeod Chapman
 chapter: ch08
 ---

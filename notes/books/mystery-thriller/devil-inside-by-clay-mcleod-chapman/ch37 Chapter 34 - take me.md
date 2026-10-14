@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 34: take me
+title: "Chapter 34: take me"
 author: Clay McLeod Chapman
 chapter: ch37
 ---

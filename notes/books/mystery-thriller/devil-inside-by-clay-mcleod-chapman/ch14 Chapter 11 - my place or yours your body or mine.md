@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 11: my place or yours, your body or mine
+title: "Chapter 11: my place or yours, your body or mine"
 author: Clay McLeod Chapman
 chapter: ch14
 ---

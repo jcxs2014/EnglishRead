@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 4: Walk of Shame
+title: "Chapter 4: Walk of Shame"
 author: Clay McLeod Chapman
 chapter: ch07
 ---

@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 7: Pomegranate Juice
+title: "Chapter 7: Pomegranate Juice"
 author: Clay McLeod Chapman
 chapter: ch10
 ---

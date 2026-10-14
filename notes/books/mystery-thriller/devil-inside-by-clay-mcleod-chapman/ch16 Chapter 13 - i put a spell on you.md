@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 13: i put a spell on you
+title: "Chapter 13: i put a spell on you"
 author: Clay McLeod Chapman
 chapter: ch16
 ---

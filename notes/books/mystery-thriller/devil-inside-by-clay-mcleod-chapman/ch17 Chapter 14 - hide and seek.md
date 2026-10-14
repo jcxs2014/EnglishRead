@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 14: hide and seek
+title: "Chapter 14: hide and seek"
 author: Clay McLeod Chapman
 chapter: ch17
 ---

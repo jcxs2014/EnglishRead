@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 31: effigies and apologies
+title: "Chapter 31: effigies and apologies"
 author: Clay McLeod Chapman
 chapter: ch34
 ---

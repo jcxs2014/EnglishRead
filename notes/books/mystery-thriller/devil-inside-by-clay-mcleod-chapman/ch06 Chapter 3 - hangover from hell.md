@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 3: Hangover from Hell
+title: "Chapter 3: Hangover from Hell"
 author: Clay McLeod Chapman
 chapter: ch06
 ---

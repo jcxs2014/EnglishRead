@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 21: let me hear your body talk
+title: "Chapter 21: let me hear your body talk"
 author: Clay McLeod Chapman
 chapter: ch24
 ---

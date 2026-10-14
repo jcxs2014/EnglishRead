@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 16: heart-to-heart
+title: "Chapter 16: heart-to-heart"
 author: Clay McLeod Chapman
 chapter: ch19
 ---

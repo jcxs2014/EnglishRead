@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 33: devil inside
+title: "Chapter 33: devil inside"
 author: Clay McLeod Chapman
 chapter: ch36
 ---

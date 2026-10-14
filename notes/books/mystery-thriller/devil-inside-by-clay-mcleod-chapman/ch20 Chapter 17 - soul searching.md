@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 17: soul searching
+title: "Chapter 17: soul searching"
 author: Clay McLeod Chapman
 chapter: ch20
 ---

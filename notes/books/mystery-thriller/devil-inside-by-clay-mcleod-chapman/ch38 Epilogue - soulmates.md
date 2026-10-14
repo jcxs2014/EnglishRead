@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Epilogue: soulmates
+title: "Epilogue: soulmates"
 author: Clay McLeod Chapman
 chapter: ch38
 ---

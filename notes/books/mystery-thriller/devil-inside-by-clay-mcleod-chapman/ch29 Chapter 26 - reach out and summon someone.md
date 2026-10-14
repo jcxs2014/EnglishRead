@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 26: reach out and summon someone
+title: "Chapter 26: reach out and summon someone"
 author: Clay McLeod Chapman
 chapter: ch29
 ---

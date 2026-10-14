@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 18: the last picture show
+title: "Chapter 18: the last picture show"
 author: Clay McLeod Chapman
 chapter: ch21
 ---

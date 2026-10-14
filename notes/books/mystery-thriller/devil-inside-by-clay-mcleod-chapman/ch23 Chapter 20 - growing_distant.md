@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 20: growing_distant
+title: "Chapter 20: growing_distant"
 author: Clay McLeod Chapman
 chapter: ch23
 ---

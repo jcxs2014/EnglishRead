@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 9: Imaginary Friends
+title: "Chapter 9: Imaginary Friends"
 author: Clay McLeod Chapman
 chapter: ch12
 ---

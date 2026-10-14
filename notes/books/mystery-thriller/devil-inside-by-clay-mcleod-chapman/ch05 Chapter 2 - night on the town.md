@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 2: Night on the Town
+title: "Chapter 2: Night on the Town"
 author: Clay McLeod Chapman
 chapter: ch05
 ---

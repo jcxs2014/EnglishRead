@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 1: Flood Zone
+title: "Chapter 1: Flood Zone"
 author: Clay McLeod Chapman
 chapter: ch04
 ---

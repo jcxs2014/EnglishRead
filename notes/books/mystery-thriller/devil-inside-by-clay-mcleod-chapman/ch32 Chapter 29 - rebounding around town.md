@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 29: rebounding around town
+title: "Chapter 29: rebounding around town"
 author: Clay McLeod Chapman
 chapter: ch32
 ---

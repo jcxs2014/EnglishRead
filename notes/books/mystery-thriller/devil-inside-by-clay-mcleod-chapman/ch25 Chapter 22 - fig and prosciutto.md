@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 22: fig and prosciutto
+title: "Chapter 22: fig and prosciutto"
 author: Clay McLeod Chapman
 chapter: ch25
 ---

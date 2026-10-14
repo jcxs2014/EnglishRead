@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Prologue: Fixed Gear
+title: "Prologue: Fixed Gear"
 author: Clay McLeod Chapman
 chapter: ch02
 ---

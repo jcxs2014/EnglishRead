@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Chapter 23: third wheel
+title: "Chapter 23: third wheel"
 author: Clay McLeod Chapman
 chapter: ch26
 ---
