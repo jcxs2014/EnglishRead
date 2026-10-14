@@ -1,0 +1,50 @@
+=== 精读结构扫描（sometimes-i-scare-myself-by-jeneva-rose）===
+  扫 59 个 md、433 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 5
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 6 ｜ 🔀 映射不一致 40
+  ⚠️ ch06 chapter 5.md  引语 20 个，与本书众数 5 相差过大
+  ⚠️ ch18 chapter 17.md  引语 11 个，与本书众数 5 相差过大
+  ⚠️ ch19 chapter 18.md  引语 14 个，与本书众数 5 相差过大
+  ⚠️ ch22 3 kristin.md  引语 14 个，与本书众数 5 相差过大
+  ⚠️ ch24 5 kristin.md  引语 13 个，与本书众数 5 相差过大
+  ⚠️ ch26 7 kristin.md  引语 12 个，与本书众数 5 相差过大
+  🔀 ch20 1 kristin.md  H1「第 1」↔ 文件名 ch20 不一致
+  🔀 ch21 2 kristin.md  H1「第 2」↔ 文件名 ch21 不一致
+  🔀 ch22 3 kristin.md  H1「第 3」↔ 文件名 ch22 不一致
+  🔀 ch23 4 hailey.md  H1「第 4」↔ 文件名 ch23 不一致
+  🔀 ch24 5 kristin.md  H1「第 5」↔ 文件名 ch24 不一致
+  🔀 ch25 6 kristin.md  H1「第 6」↔ 文件名 ch25 不一致
+  🔀 ch26 7 kristin.md  H1「第 7」↔ 文件名 ch26 不一致
+  🔀 ch27 8 kristin.md  H1「第 8」↔ 文件名 ch27 不一致
+  🔀 ch28 9 kristin.md  H1「第 9」↔ 文件名 ch28 不一致
+  🔀 ch29 10 kristin.md  H1「第 10」↔ 文件名 ch29 不一致
+  🔀 ch30 11 hailey.md  H1「第 11」↔ 文件名 ch30 不一致
+  🔀 ch31 12 kristin.md  H1「第 12」↔ 文件名 ch31 不一致
+  🔀 ch32 13 kristin.md  H1「第 13」↔ 文件名 ch32 不一致
+  🔀 ch33 14 kristin.md  H1「第 14」↔ 文件名 ch33 不一致
+  🔀 ch34 15 kristin.md  H1「第 15」↔ 文件名 ch34 不一致
+  🔀 ch35 16 kristin.md  H1「第 16」↔ 文件名 ch35 不一致
+  🔀 ch36 17 hailey.md  H1「第 17」↔ 文件名 ch36 不一致
+  🔀 ch37 18 kristin.md  H1「第 18」↔ 文件名 ch37 不一致
+  🔀 ch38 19 kristin.md  H1「第 19」↔ 文件名 ch38 不一致
+  🔀 ch39 20 hailey.md  H1「第 20」↔ 文件名 ch39 不一致
+  🔀 ch40 21 kristin.md  H1「第 21」↔ 文件名 ch40 不一致
+  🔀 ch42 chapter 1.md  H1「第 1」↔ 文件名 ch42 不一致
+  🔀 ch43 chapter 2.md  H1「第 2」↔ 文件名 ch43 不一致
+  🔀 ch44 chapter 3.md  H1「第 3」↔ 文件名 ch44 不一致
+  🔀 ch45 chapter 4.md  H1「第 4」↔ 文件名 ch45 不一致
+  🔀 ch46 chapter 5.md  H1「第 5」↔ 文件名 ch46 不一致
+  🔀 ch47 chapter 6.md  H1「第 6」↔ 文件名 ch47 不一致
+  🔀 ch48 chapter 7.md  H1「第 7」↔ 文件名 ch48 不一致
+  🔀 ch49 chapter 8.md  H1「第 8」↔ 文件名 ch49 不一致
+  🔀 ch50 chapter 9.md  H1「第 9」↔ 文件名 ch50 不一致
+  🔀 ch51 chapter 10.md  H1「第 10」↔ 文件名 ch51 不一致
+  🔀 ch52 chapter 11.md  H1「第 11」↔ 文件名 ch52 不一致
+  🔀 ch53 chapter 12.md  H1「第 12」↔ 文件名 ch53 不一致
+  🔀 ch54 chapter 13.md  H1「第 13」↔ 文件名 ch54 不一致
+  🔀 ch55 chapter 14.md  H1「第 14」↔ 文件名 ch55 不一致
+  🔀 ch56 chapter 15.md  H1「第 15」↔ 文件名 ch56 不一致
+  🔀 ch57 chapter 16.md  H1「第 16」↔ 文件名 ch57 不一致
+  🔀 ch58 chapter 17.md  H1「第 17」↔ 文件名 ch58 不一致
+  🔀 ch59 chapter 18.md  H1「第 18」↔ 文件名 ch59 不一致
+  🔀 ch60 chapter 19.md  H1「第 19」↔ 文件名 ch60 不一致
