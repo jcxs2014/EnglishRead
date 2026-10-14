@@ -198,11 +198,11 @@ title: 书单
 | [Alfred Hitchcock Presents: Stories to Stay Awake](books/short-story-anthologies/alfred-hitchcock-presents-stories-to-stay-awake-by/) | — |
 | [Astonishing](books/short-story-anthologies/astonishing-by-malcolm-jameson/) | Malcolm Jameson |
 | [Barron Collected Short Fiction](books/short-story-anthologies/barron-collected-short-fiction/) | — |
-| [Best British Short Stories 2023](books/short-story-anthologies/Best%20British%20Short%20Stories%202023%20by%20Nicholas%20Royle/) | Nicholas Royle |
-| [Collected Stories](books/short-story-anthologies/Collected%20Stories%20by%20Peter%20Carey/) | Peter Carey |
+| [Best British Short Stories 2023](books/short-story-anthologies/best-british-short-stories-2023-by-nicholas-royle/) | Nicholas Royle |
+| [Collected Stories](books/short-story-anthologies/collected-stories-by-peter-carey/) | Peter Carey |
 | [Dance of the Happy Shades](books/short-story-anthologies/dance-of-the-happy-shades-by-alice-munro/) | Alice Munro |
 | [Ghost Tales of the United Kingdom](books/short-story-anthologies/ghost-tales-of-the-united-kingdom/) | Various |
-| [Good and Evil and Other Stories](books/short-story-anthologies/Good%20and%20Evil%20and%20Other%20Stories%20by%20Samanta%20Schweblin/) | Samanta Schweblin |
+| [Good and Evil and Other Stories](books/short-story-anthologies/good-and-evil-and-other-stories-by-samanta-schweblin/) | Samanta Schweblin |
 | [Land of Oz](books/short-story-anthologies/land-of-oz-by-marie-oregan/) | Marie O'Regan (ed.) |
 | [Real Life: Short Stories (2002)](books/short-story-anthologies/real-life-short-stories-2002-anthology/) | Dani Couture (ed.) |
 | [Seven Stories for a Summer Afternoon](books/short-story-anthologies/seven-stories-for-a-summer-afternoon-by-loes-jossy/) | Loes Jossy |
