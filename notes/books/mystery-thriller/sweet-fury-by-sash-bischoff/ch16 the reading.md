@@ -27,7 +27,7 @@ source_text: "ch16_the_reading.txt"
 
 ---
 
-> **原句 2:** "One thing is true, Jonah: though my means may be terribly messy, my motives have always been pure."
+> **原句 2:** "If one thing is true, Jonah, it's this: though my means may be terribly messy, my motives have always been pure."
 
 **中文理解**：有一件事是真的，Jonah：虽然我的手段可能非常混乱，但我的动机始终是纯粹的。
 
@@ -63,7 +63,7 @@ source_text: "ch16_the_reading.txt"
 
 ---
 
-> **原句 5:** "They're wrangling all Tender's Russki investors, who've been dropping like flies over the past twenty-four hours. Olympus just made it official: they're threatening to cut ties with Tender altogether."
+> **原句 5:** "It's Bobby Starr and the whole Olympus crew, furiously swinging their mini gherkins," she says. "They've wrangled all Tender's Russki investors, who've been dropping like flies over the past twenty-four hours. Olympus just made it official: they're threatening to cut ties with Tender altogether."
 
 **中文理解**：他们正在协调 Tender 所有俄罗斯投资者的关系，过去二十四小时里这些投资者接连退出。Olympus 刚刚正式宣布：他们威胁要与 Tender 完全切断关系。
 
