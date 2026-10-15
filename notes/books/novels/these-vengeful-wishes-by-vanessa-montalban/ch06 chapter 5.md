@@ -35,7 +35,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这是 Cecilia 对自己艺术困境的诊断。她意识到问题不在技术而在情感，而她恰好压抑着对父亲的复杂感情——这种压抑既是艺术缺陷的根源，也是她性格的根源。
 
-> **原句 3:** "It looks stuck in time - not a Starbucks or McDonald's in sight."
+> **原句 3:** "It looks stuck in time—not a Starbucks or McDonald’s in sight."
 
 **中文理解：** 它看起来定格在时间里——视野里没有星巴克或麦当劳。
 

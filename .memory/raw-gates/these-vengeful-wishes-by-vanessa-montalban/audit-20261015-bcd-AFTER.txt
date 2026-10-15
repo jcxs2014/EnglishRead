@@ -1,0 +1,29 @@
+########## check_struct_indep ##########
+  ❌ ch32 chapter 31.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch33 chapter 32.md: [summary] 引语块 11 个，超出 3–8 配额
+  ❌ ch34 chapter 33.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch35 chapter 34.md: [summary] 引语块 9 个，超出 3–8 配额
+=== 独立结构扫描：36 个 md，缺陷 4 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+
+########## check_xref_indep ##########
+=== chNN 引用 0 处：英文证据报警 0 处 ／ 中文式待人判 0 处 ／ 🔶 同章省略号拼接（提示，不判红）0 处 ===
+
+########## check_analysis_indep ##########
+抽出分析层英文片段 111 条
+✅ 全部片段在全书 text/ 逐字命中
+
+########## verify_fragments_indep ##########
+
+=== 逐片段核验（独立实现） ===
+  引语条数 264 ｜ 受检片段 297 ｜ ❌ MISS 0 ｜ 缺参照章 0
+  ⇒ 每个受检片段都在**本章** text/ 里逐字命中
+
+########## check_overview_full ##########
+=== 总览整串核查（these-vengeful-wishes-by-vanessa-montalban）===
+  参照集：text/ 逐章（36 章） ｜ 总览文件 3 个
+  A 整串：命中 45 ｜ 🔶 拼接 1 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 4
+  B 章节标签：对 37 ｜ 标注与实章不符 1（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 7 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 1 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+  ⚠️ 00 情感节点.md:28  跨标签拼接：I was one of his investors. … he took everything e
+  ⚠️ 00 金句精选.md:49  标注 ch31 但引语不在该章（实为 ch35）：You have always been with us, corazón. A

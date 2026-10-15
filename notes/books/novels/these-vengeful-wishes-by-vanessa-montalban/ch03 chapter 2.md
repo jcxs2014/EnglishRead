@@ -93,7 +93,7 @@ modified: "2026-10-14"
 |-----------|------|------|------|
 | nondescript | adj. | 不起眼的，无特征的 | An FBI agent cradles David's head as he tucks him into the back of a nondescript car. |
 | incriminating | adj. | 显示有罪的，不利的 | I overhear his lawyer explain that David's been under investigation for months, after they received some pretty incriminating evidence. |
-| fiasco | n. | 惨败，一场闹剧 | I'm just relieved our part in this Ponzi fiasco is even over, even if it does mean moving to some backwater town. |
+| fiasco | n. | 惨败，一场闹剧 | I’m just relieved our part in this Ponzi fiasco is over, even if it does mean moving to some backwater town. |
 | alumni | n./adj. | 校友的，校友 | My uglier thoughts assume her alumni mother had something to do with it. |
 | squeaky-clean | adj. | 洁白无瑕的，无可挑剔的 | My scholarship depends on a squeaky-clean persona. |
 

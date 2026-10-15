@@ -49,7 +49,7 @@ modified: "2026-10-15"
 
 **中文理解：** 这不是再见，是回头见。而且这是庆祝！
 
-**关键词：** not goodbye · see you later · celebration
+**关键词：** isn't goodbye · see you later · celebration
 
 **为什么这样写：** 母亲用一句改写把离别的重量卸掉（不是 goodbye，是 see you later），紧接着宣布这是庆祝——于是全家人的离愁被转换成了一场荒唐的家庭舞蹈，悲伤与欢快同时存在而不互相抵消。
 
@@ -69,7 +69,7 @@ modified: "2026-10-15"
 
 **中文理解：** 第一条写着：随时接吻。
 
-**关键词：** travel rules · kiss all the time
+**关键词：** The first says · kiss all the time
 
 **为什么这样写：** 把告白写进清单，是全书最可爱的一次形式转换——前三十章的告白都发生在生死关头（洞穴、雨夜、枪口），而这一次它被排在第三条，前面还有「总是同意不同意」；浪漫被降级为日程，反倒显得更可靠。
 

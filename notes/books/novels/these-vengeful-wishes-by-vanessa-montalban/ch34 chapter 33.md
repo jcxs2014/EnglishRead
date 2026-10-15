@@ -71,7 +71,7 @@ modified: "2026-10-15"
 
 **关键词：** no one knows what they really want · Desires change
 
-**为什么这样写：** 他刚用「family is what you want most」逼 Adel 认输，下一句就否定「最想要的东西」这件事存在；两句之间的矛盾是刻意的——他不是不知道 Adel 想要什么，他是不在乎。
+**为什么这样写：** 他刚用「Family. … That’s what you want most, isn’t it?」逼 Adel 认输，下一句就否定「最想要的东西」这件事存在；两句之间的矛盾是刻意的——他不是不知道 Adel 想要什么，他是不在乎。
 
 **读者视角提示：** 请把这两句与十三章的「It's always been about the intention」并读：本书的规则是意图决定一切，而他的整套说辞全在否定这条规则。
 

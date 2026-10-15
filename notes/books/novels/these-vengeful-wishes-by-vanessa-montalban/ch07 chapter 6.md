@@ -59,7 +59,7 @@ modified: "2026-10-14"
 
 **中文理解：** 「Santa Ana 的规矩。如果你听到有人在森林里喊你，不要回答。不要使劲盯着树看，也绝不要在天黑后独自走进森林。」
 
-**关键词：** rules · call · alone
+**关键词：** don't answer · stare too hard · alone
 
 **为什么这样写：** 三条禁令以「you don't / you don't / you never」的排比结构递进，语气越来越重，制造一种小镇规章的仪式感。但这些规矩的内容——不要回应森林的喊声、不要直视树丛——暗示 Santa Aguas 的居民对森林中的东西既熟悉又恐惧。母亲说这些话时的勉强（「as if she can hardly lower herself to say them」）暗示这些规矩对她而言不只是迷信，而是真实的生存法则。
 

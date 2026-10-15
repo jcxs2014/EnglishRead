@@ -77,7 +77,7 @@ def parse_quotes(md_path):
     ⚠️ 序言：行首的 `①`/`1.` 必须在 flat 之前剥掉，否则 `flat_alpha` 的 NFKD 会把
     `①` 归一成 `1` 留在指纹头部，**每一条都必然查无**（ticket-to-mars 全红实证）。
     """
-    is_jinju = os.path.basename(md_path) == "00_金句精选.md"
+    is_jinju = os.path.basename(md_path) in ("00_金句精选.md", "00 金句精选.md")
     out = []
     skipped = 0
     with io.open(md_path, encoding="utf-8") as f:
@@ -164,6 +164,18 @@ def main():
     book = a.book_dir
     ovs = [os.path.join(book, n) for n in OVERVIEWS]
     ovs = [p for p in ovs if os.path.exists(p)]
+    if not ovs:
+        # 2026-10-15 兼容空格型总览命名（these-vengeful-wishes 五步审查实证）：
+        # 本库总览既有 `00_概述.md`（192 个）也有 `00 概述.md`（21 个）两种形态，
+        # 只认硬编码的下划线名会让空格型整本「跳过」⇒ 总览引语与章节标签
+        # 从未被本工具校验。两种形态都收，按三个语义前缀匹配。
+        for cand in sorted(glob.glob(os.path.join(book, "00_*.md"))) + \
+                    sorted(glob.glob(os.path.join(book, "00 *.md"))):
+            base = os.path.basename(cand)
+            if any(base.startswith(pfx) for pfx in ("00_概述", "00 概述",
+                                                     "00_金句精选", "00 金句精选",
+                                                     "00_情感节点", "00 情感节点")):
+                ovs.append(cand)
     if not ovs:
         print(f"⚠️ 未找到 {OVERVIEWS[0]} 等总览文件（{book}），跳过")
         return 0

@@ -39,7 +39,7 @@ modified: "2026-10-14"
 
 **中文理解：** 这是她分手后屡试不爽的恢复机制。就像俗语说的……一个钉子顶另一个钉子。
 
-**关键词：** recovery system · pattern
+**关键词：** recovery system · un clavo saca otro
 
 **为什么这样写：** 用西班牙语谚语「un clavo saca otro」把母亲的风流成性压缩成一个文化意象——新男人只是旧伤口的替代品；「non-failing recovery system」用冷静的机械措辞包装了 Cecilia 的苦涩。
 

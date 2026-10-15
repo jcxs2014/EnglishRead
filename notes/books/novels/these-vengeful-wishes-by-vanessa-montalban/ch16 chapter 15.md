@@ -55,7 +55,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** Martha 是本章唯一拥有「全视之眼」纹身的角色——她的直觉和嗅觉（后文对 Adel 的警告）不是老年痴呆的唠叨，而是某种超自然感知的暗示。
 
-> **原句 5:** "Something's off with that girl." Martha looks in the direction where Adel had stood. "She's covered in the stench of water rot. Algae and old mud. I smelled it all the way from here." Her eyes narrow. "I can smell it on you too."
+> **原句 5:** "Something’s off with that girl." Martha looks in the direction where Adel had stood. "She’s covered in the stench of water rot. Algae and old mud. I smelled it all the way from here." … Her eyes narrow. "I can smell it on you too."
 
 **中文理解：**「那个女孩不对劲。」Martha 看向 Adel 站过的方向。「她身上满是水腐的臭味。藻类和老泥。我从这里就闻到了。」她眯起眼睛。「你身上也有。」
 

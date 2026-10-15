@@ -135,4 +135,4 @@ Cecilia 试图独自返回洞穴却发现门已消失，偷听到母亲与 Gabri
 
 ## 读者视角提示
 
-Cecilia 在这一章完成了从「被动观察者」到「主动追问者」的蜕变——她不再满足于偷听和回避，而是直接问出「Were you close? Is that why you bought this house?」。母亲的恐惧反应和 Gabriel 的「有些事最好埋在土里」都指向同一个事实：这个家族里有被刻意掩埋的东西。当读者 Cecilia 的母亲「I can't. I don't want . . .」时，那个未完成的句子是什么？她不想记起谁？不想面对什么？这是进入下一章的钥匙。
+Cecilia 在这一章完成了从「被动观察者」到「主动追问者」的蜕变——她不再满足于偷听和回避，而是直接问出「"Were you close?" … "Is that why you bought this house?"」。母亲的恐惧反应和 Gabriel 的「有些事最好埋在土里」都指向同一个事实：这个家族里有被刻意掩埋的东西。当读者 Cecilia 的母亲「I can't. I don't want . . .」时，那个未完成的句子是什么？她不想记起谁？不想面对什么？这是进入下一章的钥匙。

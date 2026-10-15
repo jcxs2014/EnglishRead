@@ -239,7 +239,11 @@ PY
 # 不在 verify_quotes 主口径内，须单独加跑 verify_overview_quotes」⇒ 一本有总览的书
 # 跑完原 gate.sh 全绿，**总览引语从未被校验**（同型实测：概述 5 条 0 命中而门禁全绿）。
 echo; echo "=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）==="
-OV=$(ls "$B"/00_*.md 2>/dev/null | wc -l | tr -d ' ')
+# 2026-10-15 兼容空格型总览命名（these-vengeful-wishes 五步审查实证）：
+# 本库总览既有 `00_概述.md`（192 个）也有 `00 概述.md`（21 个）两种形态，
+# 只认 `00_*` 会让空格型整本判「无总览三篇」⇒ ⑭⑮ 双双空跑，
+# 总览引语与章节标签从未进门禁（同型：概述 5 条 0 命中而门禁全绿）。
+OV=$(ls "$B"/00_*.md "$B"/00\ *.md 2>/dev/null | wc -l | tr -d ' ')
 if [ "$OV" -gt 0 ]; then
   if [ -n "$EPUB" ]; then
     # 签名是「书目录 + epub」两参，它自己扫该目录下的 00*.md——不是单文件

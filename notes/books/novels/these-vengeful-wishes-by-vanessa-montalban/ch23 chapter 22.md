@@ -45,7 +45,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** Cecilia 自称「碎掉」「血管里是冰」，这与她后续在洞穴中的行为形成呼应——她正在变成某种非人的东西，或者说，她一直就是。
 
-> **原句 4:** "Sometimes I don't know why I choose to stay with him." / "He's your dad," I say, hearing it sound as hollow out loud as it does in my head."
+> **原句 4:** "Sometimes I don’t know why I choose to stay with him." … "He’s your dad," I say, hearing it sound as hollow out loud as it does in my head.
 
 **中文理解：** 「有时候我不知道为什么我选择留在他身边。」「他是你爸啊」，我一出口就听到这话听起来和在我脑海里一样空洞。
 

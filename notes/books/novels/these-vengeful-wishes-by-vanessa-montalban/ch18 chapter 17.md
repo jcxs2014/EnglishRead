@@ -19,7 +19,7 @@ modified: "2026-10-15"
 
 **中文理解：** 我轻轻地把炭笔笔尖擦过那些压痕，直到字迹开始显现成形。
 
-**关键词：** brush · charcoal tip · indentations · take shape
+**关键词：** brush · charcoal tip · indentations · taking shape
 
 **为什么这样写：** 这句话把「侦探式推理」落成一个极具体的物理动作——上一页被撕走后留下的凹痕要靠侧光和炭粉才能显影。「Gently」与「until words start taking shape」形成节奏对比：动作很轻，结果却是一整条线索。叙述者没有说「她推断出地址」，而是让她一点一点把字「拓」出来，让读者跟着她的手一起发现。
 
@@ -55,7 +55,7 @@ modified: "2026-10-15"
 
 **读者视角提示：** Jamie 的「我们」把独查变成同行，而 Cecilia 的「我需要知道」则把目标从「复仇 Roman」悄悄转成「理解魔法」——她的动机在纯情感之外，开始掺进了理性。
 
-> **原句 5:** "Don’t stop to think if you’re worthy of a gift, Cecilia. Worry that the gift is worthy of you."
+> **原句 5:** "Don’t stop to think if you’re worthy of a gift, Cecilia. Worry that the gift is worthy of you. Let’s see how it fits."
 
 **中文理解：** 「别停下来琢磨自己配不配得上这份礼物，Cecilia。要担心的是这份礼物配不配得上你。我们看看合不合身。」
 
