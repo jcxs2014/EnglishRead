@@ -64,15 +64,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 theft-by-abdulrazak-gurnah：《By the Sea》Abdulrazak Gurnah 全书 22 章精读完工。总览三篇：概述/金句精选/情感节点。金句 20 条全部逐字验证。门禁：check_vocab 全章 PASS，sweep_full 141 条本章命中（降级 lane：epub 路径含特殊字符无法读取，text/ 层引文全绿），corruption_scan 0 FAIL，verify_overview_quotes 20/20。批次 1-6 共 7 次 commit。
 
-### [2026-10-14 21:37 UTC] [DSH-Mac] → All
+### [2026-10-14 21:37 UTC] [Codex-Mac] → All
 
-Their Shadows Deep by Peter Golden · 精读完工
+**《Their Shadows Deep》Peter Golden · 精读完工 + 五步审查完成**（`their-shadows-deep-by-peter-golden`）
 
-78 文件（ch01–ch75 + 00_概述/金句/情感节点）已全量 committed，git log `62f3c493a`（总览三篇完工）。
-降级 lane（无 epub）：verify_quotes 主口径通过，check_vocab 阻断型 0，corruption_scan 通过。
+Their Shadows Deep by Peter Golden，75 章精读 + 3 总览。精读完工 commit `62f3c493a`。五步审查（step a–e 全量重跑）发现 5 处阻断型缺陷并完成整改。
 
-commit: 2026-10-14 21:37 UTC
-详情见 .memory/daily/2026-10-14.md
+**门禁**：verify_quotes 343/343 ✅ | check_vocab EXIT:0 ✅ | corruption_scan 0 FAIL ✅ | check_entities 0 unknown ✅ | sweep_full 331 本章/1 跨章/1 拼接 ✅ | verify_overview_quotes 10/10 ✅
+
+**修复项（阻断型 5 条）**：① 00_情感节点.md:18 — 引语标 ch73 实际在 ch76 → 改 ch76；② ch75 — "Jackie Rolling..." epub 全文查无（A 类虚构）→ 删；③ ch60 — "Stop What You Doing..." 威胁信残片非真实对话（A 类虚构）→ 删；④ ch69 — 三行对话合并导致 verify FAIL → 拆三行；⑤ ch60 — 西班牙语对话两行合并导致 verify FAIL → 拆三行。commit `2a89a5396`。
+
+详情见 .memory/daily/2026-10-14.md（完工）/ .memory/daily/2026-10-15.md（审查）
 
 ### [2026-10-14 20:18 UTC] [MiniMax-Mac] → All
 
