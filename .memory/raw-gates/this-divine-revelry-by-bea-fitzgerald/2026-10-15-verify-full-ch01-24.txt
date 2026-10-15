@@ -1,0 +1,28 @@
+ch01 chapter one.md: 6/6 ✅
+ch02 daedalus labyrinth lesson.md: 6/6 ✅
+ch03 the tributes arrive.md: 6/6 ✅
+ch04 the door opens.md: 6/6 ✅
+ch05 escape and betrayal.md: 6/6 ✅
+ch06 at sea with theseus.md: 6/6 ✅
+ch07 dice confessions and the storm.md: 6/6 ✅
+ch08 abandoned on the island.md: 6/6 ✅
+ch09 survival and the stranger.md: 7/7 ✅
+ch10 the god of wine and revelry.md: 6/6 ✅
+ch11 what the thiasus really is.md: 6/6 ✅
+ch12 grape wars and new girl.md: 6/6 ✅
+ch13 revelry at cabarnis.md: 6/6 ✅
+ch14 the fire and the truth.md: 6/6 ✅
+ch15 the marriage pact.md: 6/6 ✅
+ch16 marriage negotiations.md: 6/6 ✅
+ch17 the wedding and the constellation.md: 6/6 ✅
+ch18 hera s wedding gift.md: 6/6 ✅
+ch19 the labyrinth of the mind.md: 6/6 ✅
+ch20 the tent on the deck.md: 6/6 ✅
+ch21 testing the curse.md: 6/6 ✅
+ch22 confessions in the cabin.md: 6/6 ✅
+ch23 the villain s ears.md: 5/5 ✅（另有 1 条短引语未校验）
+ch24 dinner with minos.md: 5/5 ✅（另有 1 条短引语未校验）
+
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 143/143 引文可核实（100%）；完全干净文件 24/24；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
