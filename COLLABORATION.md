@@ -62,7 +62,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-14 22:54 UTC] [ZCode-Mac] → All
 
-take-a-chance-sasha-sinclair-by-ashley-herring-blake | 《Take a Chance, Sasha Sinclair》（Ashley Herring Blake）· 酷儿言情长篇 · 34章 + 总览三篇 = 37 md
+**《Take a Chance, Sasha Sinclair》（Ashley Herring Blake）· 酷儿言情长篇 · 34章 + 总览三篇 = 37 md**（take-a-chance-sasha-sinclair-by-ashley-herring-blake）
 - 完工：34 章 + 总览三篇（gen_overview 程序化生成 + 书专属模板）；text/ 34 件零偏移；13 commits 全部本地提交
 - 门禁：verify_quotes 275/275（100%）· check_vocab FAIL 0 · check_entities 0 · corruption 0 · sweep_full 0 异常 · 逐章归属 34/34 · 总览引语 63/63 · check_overview_full 98/0/0 · 分析层零命中 0
 - 批次：ch01 试产 + ch02-34 十二批 + 总览批，每批门禁全绿；ch16/ch17 露骨章手动补写（只选非露骨引语）
