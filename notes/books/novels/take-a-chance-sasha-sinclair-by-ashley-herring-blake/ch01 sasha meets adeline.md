@@ -65,7 +65,7 @@ modified: "2026-10-14"
 
 **为什么这样写**：用「lately」（近来）把「不擅长感情」框定为三年来的状态而非天性——与父母去世的时间线吻合。轻描淡写的一句，实际在说：她这三年靠压抑情绪活下来。
 
-**读者视角提示**：「not exactly her strong suit」是典型的轻描淡写（understatement），让读者在幽默底下读到悲伤。
+**读者视角提示**：「weren’t exactly her strong suit」是典型的轻描淡写（understatement），让读者在幽默底下读到悲伤。
 
 ---
 

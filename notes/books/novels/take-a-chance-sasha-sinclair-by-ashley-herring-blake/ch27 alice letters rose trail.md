@@ -47,7 +47,7 @@ modified: "2026-10-14"
 
 > **原句 3:** "“Letters our great-great-great-grandmother wrote to the love of her life but never sent?” Margot said. “Yeah, I think they might be.”"
 
-**中文理解**：「是我们高祖母写给一生挚爱、却从未寄出的信吗？」Margot 说。「是啊，我想很可能就是。」
+**中文理解**：「是我们曾曾曾祖母写给一生挚爱、却从未寄出的信吗？」Margot 说。「是啊，我想很可能就是。」
 
 **关键词**：great-great-great-grandmother / the love of her life / never sent / I think they might be
 

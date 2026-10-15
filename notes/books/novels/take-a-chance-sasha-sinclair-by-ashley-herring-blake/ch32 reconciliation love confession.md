@@ -95,7 +95,7 @@ modified: "2026-10-14"
 
 > **原句 7:** "“Truest words I know,” Sasha said, tucking a lock of hair behind her ear. “You make me want to be scared with you, Margot Bishop.”"
 
-**中文理解**：「这是我所知道的最真的话，」萨莎说着，把一缕头发别到玛戈特耳后，「你让我想和你一起害怕，玛戈特·毕晓普。」
+**中文理解**：「这是我所知道的最真的话，」萨莎说着，把自己的一缕头发别到耳后，「你让我想和你一起害怕，玛戈特·毕晓普。」
 
 **关键词**：Truest words I know / scared with you
 
