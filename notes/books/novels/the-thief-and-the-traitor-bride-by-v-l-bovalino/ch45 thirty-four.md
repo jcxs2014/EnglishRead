@@ -65,7 +65,7 @@ modified: "2026-10-15"
 
 **关键词：** left undone（被搁下未做）；a thread untied（一根没系上的线）。
 
-**为什么这样写：** "a thread untied" 是全书最朴素的隐喻，也是最后一部的情节引擎。它把 Celestine 的阴谋、Idistran 的诞生、medallion 的功能全部收进一个意象：当年有人开始了一个仪式却没做完。而 Nore 说"我们单独办不到"，是她全书第一次公开承认需要帮助——与 ch38 "She was useless" 的绝望完全不同，这是成年人的求助。
+**为什么这样写：** "a thread untied" 是全书最朴素的隐喻，也是最后一部的情节引擎。它把 Celestine 的阴谋、Idistran 的诞生、medallion 的功能全部收进一个意象：当年有人开始了一个仪式却没做完。而 Nore 说"我们单独办不到"，是她全书第一次公开承认需要帮助——与 ch38 "Nore was useless against that" 的绝望完全不同，这是成年人的求助。
 
 **读者视角提示：** 这句话也意味着他们要去找的那个人，正是她最不想再见的雇主——悬念由此而生。
 

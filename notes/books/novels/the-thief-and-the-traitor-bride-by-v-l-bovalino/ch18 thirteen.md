@@ -27,7 +27,7 @@ modified: "2026-10-14"
 
 **为什么这样写：** 开篇一句把 Nore 的信仰写出来：她信赖的是结构，不是人。而她整章的痛苦，是她的计划在"信息"这一层断了。作者用"爱"这个字描述她对计划的热衷，说明这就是她的情感模式：她爱可控的东西。
 
-**读者视角提示：** 与 ch01 "she liked the numbers, the logic of finding a solution" 呼应——她是数学家式的间谍。
+**读者视角提示：** 与 ch06 "she liked the numbers, the logic of finding a solution" 呼应——她是数学家式的间谍。
 
 > **原句 2:** "But Caspian had never loved her for being honorable."
 

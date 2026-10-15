@@ -67,7 +67,7 @@ modified: "2026-10-14"
 
 **为什么这样写：** 全书最响的一次静默。她摘下戒指的动作不是丢弃，是"我收回我的选择"——而"链子断掉"的声音就是婚姻破裂的声音。他没有辩解，只"flinched"（瑟缩），因为他认得这条链子：ch13 婚礼后她就是那样把它套上，而后每逢不方便戴就挂在颈间。
 
-**读者视角提示：** 与 ch12 "the burnished gold of the metal was the same color as the wedding ring she once wore" 完全呼应。
+**读者视角提示：** 与 ch07 "the burnished gold of the metal was the same color as the wedding ring she once wore" 完全呼应。
 
 > **原句 6:** "There, alone, crying silent tears from the pain as she clutched her wounded side, it occurred to her that Cas could've forced her to come home with him. Could've dragged her. Could've picked her up and taken her wherever he bid. But he didn't. As always, he let her make her own choices—and perhaps, in the end, that hurt just as much as anything else."
 

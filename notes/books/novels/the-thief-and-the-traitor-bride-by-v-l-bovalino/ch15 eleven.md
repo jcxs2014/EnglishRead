@@ -67,7 +67,7 @@ modified: "2026-10-14"
 
 **为什么这样写：** 全书最短的投降。他把话说得像一句公告：他不会为她的死负责，因为他已经提醒过了。但 Nore 知道他真正的意思——"我救不了你"的意思是"我曾经试过，而我失败了"。
 
-**读者视角提示：** 这与 ch08 "Is that any way to greet your husband" 的从容形成对照：他现在连玩笑都不用了。
+**读者视角提示：** 这与 ch04 "Is that any way to greet your husband?" 的从容形成对照：他现在连玩笑都不用了。
 
 > **原句 6:** "All these years of hating him, of wishing him dead—and yet, when he was in front of her now, she struggled to summon the vitriol. So perhaps he did care about her well-being just as much as she cared about his. Which was to say: they both cared far, far too much."
 

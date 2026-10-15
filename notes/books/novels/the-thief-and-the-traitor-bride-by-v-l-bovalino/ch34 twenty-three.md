@@ -27,7 +27,7 @@ modified: "2026-10-14"
 
 **为什么这样写：** 一句话写尽 Nore 的道德失重。她依然专业，但专业的**目的**消失了——她收集情报不再是为了执行命令，而是因为她对这个人本身产生了好奇。这是全书最关键的一次溃败：间谍不再为雇主工作，开始为理解而工作。
 
-**读者视角提示：** 这与 ch24 Celestine 的命令（"只关心把 Caspian 看住"）完全背道而驰。
+**读者视角提示：** 这与 ch24 Tern 转达的雇主指令（"Finish it, and come home. That is the duchess's message."）完全背道而驰——她要的不是交差，是理解。
 
 > **原句 2:* "She tried to remember the last time she was actually happy—not content. Not pleased with her work, or proud of it, or busy. But the only time she could recall herself genuinely happy… She hesitated, surveying the room for Caspian."
 

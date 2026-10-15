@@ -27,7 +27,7 @@ modified: "2026-10-14"
 
 **为什么这样写：** 全书对 Caspian 的眼睛最甜的一次比喻，而用来盛的是"陈年 mead"——她职业里最熟悉的材料。她看一个人永远先看他的"口感"。这让她此刻的凝视（只是看着你）显得既轻浮又郑重。
 
-**读者视角提示：** 与 ch12 "His eyes were dark, molasses without any sweetness" 是同一双眼睛的两个极端。
+**读者视角提示：** 与 ch10 "His eyes were dark, molasses without any sweetness" 是同一双眼睛的两个极端。
 
 > **原句 2:* "I don't have another job lined up," he said softly. "I'm going back to Nadira. To my father's family. I may stay for a short while—I may stay forever. I may hang up my knives entirely after this."
 
@@ -67,7 +67,7 @@ modified: "2026-10-14"
 
 **为什么这样写：** 全书最安静的一次勒索。她没有威胁，甚至没有说一句话，只是把玩那个瓶子——因为她知道 Gail 听得懂：我不送，你就得自己动手。她从一个被指令的工具人，第一次变成握着别人命门的谈判者。"tapping it lightly" 的轻，正是她此时的绝对冷静。
 
-**读者视角提示：** 这与 ch05 "make the decision herself" 相比是反向的：那次是雇主让她选，这次是她让雇主没得选。
+**读者视角提示：** 这与 ch05 她被 Gail 交付毒药时的心境（"she couldn't believe she didn't have a choice"）相比是反向的：那次她以为自己没得选，这次她让别人没得选。
 
 > **原句 6:* "And if she spilled some liquid into a bush on the way down, none were the wiser—and if anyone stopped to see her fill a vial with one of the Isle's many trickles of freshwater that ran down the formations, it was of no note."
 

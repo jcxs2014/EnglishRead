@@ -47,7 +47,7 @@ modified: "2026-10-14"
 
 **为什么这样写：** 全书最有分量的一句情话。她的一生都在为别人自私（Celestine、Edith、Anina、Kota），而他要她**只对他自私**。这不是命令，是许可：你可以不为任何人、只为你自己。这也解释了他后面为什么拒绝"只是性"——他要的是她这个人，不是她的服务。
 
-**读者视角提示：** 与 ch27 "I never want to see you again" 是同一人的两次极端。
+**读者视角提示：** 与 ch22 "I never want to see you again" 是同一人的两次极端。
 
 > **原句 4:* "Sex was a mechanical decision: she needed relief, so she took it where she could find it."
 
@@ -57,7 +57,7 @@ modified: "2026-10-14"
 
 **为什么这样写：** 一句冷酷的自传。她用"拿"（took）这个动词，把自己描述成掠夺者而不是参与者。她后来对陌生人的方式（穿衣服、减少接触、自己解决）全是这个机械决定的具体执行。作者用一句话概括了她五年的人生。
 
-**读者视角提示：** 与 ch10 "How can I, when you won't trust me?" 连接：她不给别人碰她的理由，是不信任。
+**读者视角提示：** 与 ch35 "How can I, when you won't trust me?" 连接：她不给别人碰她的理由，是不信任。
 
 > **原句 5:** "I would betray even the gods for you."
 

@@ -27,7 +27,7 @@ modified: "2026-10-15"
 
 **为什么这样写：** 这段是 Nore 的"角色扮演"自白，也是全书对她表演型人格最好的一次解说。她不是不会感受，而是习惯用角色覆盖感受——rogue（游侠）是她和 Caspian 共用的伪装。作者用 "acting as if" 两次重复，把"假装"写成一种反复使用的工具，而她此刻比任何时候都需要它。
 
-**读者视角提示：** 这与 ch33 "pretending to be Caspian Khari" 一脉相承——她一生的本领就是让别人相信自己想演的那个版本。
+**读者视角提示：** 这与 ch26 "pretending to be admiring the tapestry on the wall" 一脉相承——她一生的本领就是让别人相信自己想演的那个版本。
 
 > **原句 2:** "She'd said she was going to trust Caspian, and this was proof—and besides, when she looked at that woman who was barely more than a girl, she felt something in her stomach—it was something, she suspected, quite like she felt when she looked at Locke. It was power. Certainty."
 
