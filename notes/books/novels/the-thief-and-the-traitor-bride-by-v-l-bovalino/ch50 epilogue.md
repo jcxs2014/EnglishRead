@@ -47,7 +47,7 @@ modified: "2026-10-15"
 
 **为什么这样写：** 全书的感情终句，被写成一个长句而不是对白。作者不让她说"我爱你"——她说不出 "what a wonder it was"，所以改用 "You're cutting it close"（你差点迟到）把这份奇迹挡回去。而 "all being married to her entailed" 是重点：她要嫁的不是一个间谍、一个贼，她的生活本身就是那个嫁妆。这正是她从一开始（ch01 任务、ch04 婚姻）就 struggle 的东西——如今它被完整地接受了。
 
-**读者视角提示：** "hiding" 这个词在全书出现多次（Locke "I'm so tired of hiding"、她的假身份、假婚姻）——这一次，躲藏真的结束了。
+**读者视角提示：** "hiding" 这个词在全书出现多次（Locke 的 "I am so tired of hiding"、她的假身份、假婚姻）——这一次，躲藏真的结束了。
 
 > **原句 4:** "“I took out the Eprainish spy. Too many additional concerns.”"
 
@@ -57,7 +57,7 @@ modified: "2026-10-15"
 
 **为什么这样写：** 全书倒数第二笔，夫妻俩的日常对话。她急着筹备婚礼治安，他顺手把唯一的威胁清掉了——而且是用拳头（她立刻注意到他指关节的擦伤）。作者用 "Too many additional concerns" 这个商人式的理由，让他把暴力也变成了一门管理决策。而 Nore 的反应（"Caspian!"）说明她仍有一点点不习惯：她的丈夫终于可以为她动手，而不必为她隐瞒。
 
-**读者视角提示：** 与 ch40 她问他"Would I kill you if you had told me?" 呼应——如今他可以为她出手，而她只需要抱怨一句。
+**读者视角提示：** 与 ch42 里她那句 "I probably would've killed you if you had, Cas."（她自认若他早说，她大概会杀了他）呼应——如今他可以为她出手，而她只需要抱怨一句。
 
 > **原句 5:** "Cas's laugh was warm and sure. “Ah, Finch,” he said, already getting up, sneaking with her toward the exit. “I thought you'd never ask.”"
 

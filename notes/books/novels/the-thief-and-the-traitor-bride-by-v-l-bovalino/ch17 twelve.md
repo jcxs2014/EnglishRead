@@ -23,7 +23,7 @@ modified: "2026-10-14"
 
 **中文理解：** Nore 醒来时大约有三十秒幸福的沉默，然后前一晚的后果就追上了她。
 
-**关键词：** thirty seconds、consequences caught up
+**关键词：** thirty seconds、caught up with her
 
 **为什么这样写：** 用精确的秒数写宿醉，把"醒来"变成一次倒计时。三十秒是她仅有的不用面对现实的时间，而作者冷静地把这段时间掐掉。"consequences" 一词比 "events" 更重：她把昨晚称为后果，说明她已预设自己有罪。
 

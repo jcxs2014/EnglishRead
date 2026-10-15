@@ -37,7 +37,7 @@ modified: "2026-10-14"
 
 **为什么这样写：** 全书最扎心的内心翻译。他把她的每一次询问都当成上级的考核，而她甚至没有意识到自己在考核他。"docile"（温顺）这个词是 ch05 她心里要他的状态，现在他自己说了出来——他用她的语言描述自己的位置，说明他已经接受了"被她拥有"的关系结构。
 
-**读者视角提示：** 她自责 "she did not ask more from him"，但作者标明这就是她能给的全部。
+**读者视角提示：** 她连一句 "She could not ask more from him" 都是自责——她给自己的额度一向最低，而作者标明这就是她能给的全部。
 
 > **原句 3:** "And Caspian was already settling into bed, going back to his book, as if none of it changed anything. As if nothing mattered at all."
 

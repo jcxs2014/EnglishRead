@@ -23,7 +23,7 @@ modified: "2026-10-14"
 
 **中文理解：** Nore 独自醒来。恐慌只抓住了她一瞬间——床单在 Caspian 那侧是乱的，显然有人睡过，还留着他体温的余迹，但他不在。
 
-**关键词：** lingered trace of his warmth
+**关键词：** lingering trace of his warmth
 
 **为什么这样写：** 三个字 "sole" 是五年来她第一次醒来发现他不在——而她的第一反应是恐慌，不是庆幸。旧习惯的顽固程度被写得极其克制："lingering trace" 既是物理事实，也是她对自己身体的控诉。
 

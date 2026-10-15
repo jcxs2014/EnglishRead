@@ -45,7 +45,7 @@ modified: "2026-10-14"
 
 **关键词：** as if she were only discussing her dinner
 
-**为什么这样写：** 全书最恐怖的一句从容。Celestine 把酷刑安排成菜单选项，因为这是她的核心训练法：让 Nore 自己选择怎么杀死她爱过的人。"as if discussing her dinner" 的比喻把虐待日常化到极致。
+**为什么这样写：** 全书最恐怖的一句从容。Celestine 把酷刑安排成菜单选项，因为这是她的核心训练法：让 Nore 自己选择怎么杀死她爱过的人。"as if she were only discussing her dinner" 的比喻把虐待日常化到极致。
 
 **读者视角提示：** 这正是 ch02 那句 "Are you happy" 的阴暗版本——她的母爱全部服务于这个目标。
 
