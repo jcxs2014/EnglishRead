@@ -7,7 +7,7 @@ modified: "2026-10-14"
 
 ## 本章导航
 
-**一句话概括：** Nore 被捕受审的丈夫在 Celestine 的"奖励"下被切去一指；她为他取下婚戒当处刑目标，两天后背弃自己的婚礼名字 "Finch"，再去狱中偷走钥匙让他逃走——而他用那把钥匙逃跑，使她因背叛誓言被鞭打至背上留疤。
+**一句话概括：** Nore 被捕受审的丈夫在 Celestine 的"奖励"下被切去一指；她为他取下婚戒当处刑目标，两天后背弃自己的婚礼名字 "Finch"，再去狱中偷走钥匙让他逃走——而他带着钥匙逃跑，使她因背弃对王廷的誓言受罚：割、烧、愈合、重复宣誓，直到背上留下不肯消退的疤。
 
 **情感弧线位置：** 创伤完成——本章一次性解释了 ch01 之后 Nore 身上每一道疤、每一个代号的来源。
 
@@ -77,7 +77,7 @@ modified: "2026-10-14"
 
 **为什么这样写：** 全章也是全书的结构性转折。作者用三个 "didn't" 写出她唯一一次真正的失败——不是被刀刺，是在爱里漏算了一把钥匙。而"snaked into"（滑入）这个动词与 ch22 她在他家壁橱里的动作同源：他们互相偷窃的技术是同源的。
 
-**读者视角提示：** 这是她背上伤疤的直接原因；而背上的疤（ch08 Caspian 看到时震惊）正是她的耻辱柱。
+**读者视角提示：** 这是她背上伤疤的直接原因；而背上的疤（ch15 Caspian 看到时几乎无法直视）正是她的耻辱柱。
 
 > **原句 7:** "That her conniving husband, in his last act against her, had betrayed her one final time, and the greatest thief in Nettlepool had stolen the key from her and fled the city with her heart in his grasp."
 

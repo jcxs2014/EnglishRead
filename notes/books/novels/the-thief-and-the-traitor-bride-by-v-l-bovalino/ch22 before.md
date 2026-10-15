@@ -45,7 +45,7 @@ modified: "2026-10-14"
 
 **关键词：** trained in spycraft but never in fighting、Celestine was right
 
-**为什么这样写：** "Celestine 是对的"是本章的暗雷：她的雇主早就判了她不能行动（ch21 的 "Do not act"）。这句思绪不仅证明她的忠诚信条，也为 ch27 她无法扣下扳机埋下结构性理由。"fighting for her life" 的地点在他家的衣柜里，讽刺到了极点。
+**为什么这样写：** "Celestine 是对的"是本章的暗雷：她的雇主早就判了她不能行动（ch21 的 "Do not act"）。这句思绪不仅证明她的忠诚信条，也为她此后只会用嘴硬而不是用手解决问题埋下结构性理由。"fighting for her life" 的地点藏在客户 Mx. Ionas 家的衣橱里，她为了一件赃物把自己置于刀锋之下，讽刺到了极点。
 
 **读者视角提示：** 这是她唯一一次真正执行"身体行动"，代价是断腕 + 肋骨刀伤 + 破碎的婚姻。
 
@@ -57,7 +57,7 @@ modified: "2026-10-14"
 
 **为什么这样写：** 全书最著名的一句辩解，也是结构上最坏的一句。他没有说"我没有偷/没有骗/没有帮 Marous"，他只在"爱你"这一点上保持诚实——而这正是她最需要他不知道的一切。这句话让背叛变得可以原谅，也让原谅变得不可接受。
 
-**读者视角提示：** 请把它与 ch10 他说的 "Caspian always chose the truth when it hurt" 对照：他确实总选真相，只是那个真相永远是她最不想听的那部分。
+**读者视角提示：** 请把它与 ch05 里那句 "Caspian always chose the truth when it hurt" 对照：他确实总选真相，只是那个真相永远是她最不想听的那部分。
 
 > **原句 5:** "Nore reached into her dress and pulled out her wedding ring on its chain. She pulled, hard, until the chain snapped. Caspian flinched when she threw it at him."
 
@@ -123,4 +123,4 @@ modified: "2026-10-14"
 
 ## 一句话总结
 
-她在他身体的刀刃下求饶" Cas，原谅我"，而他最终放她走——这一夜之后，她所有的"我恨你"都只是在向那个衣柜里的自己道歉。
+她在他的刀刃下咒骂 "Fuck you"，而他最终没有下手——这一夜之后，她所有的"我恨你"都只是在向那个衣柜里的自己道歉。
