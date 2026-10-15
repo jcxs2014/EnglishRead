@@ -90,7 +90,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 【⚠️ 新发现门禁盲区】verify_overview_quotes 只提取 `> ` 引用块 ⇒ 概述 + 金句 **29 条行内引语此前无人核实**；自建提取器补位逐字全绿 + 12 段撇号归一 U+2019
 - 【撤回 3 条自查误判】「Roman 非生父」（ch31:106 超自然揭晓证实是父）·「⑪ 引语伪造」「Roman 半分钟重演死亡」（全库 grep 0 命中，系我转述加笔、非文件缺陷）
 - 【复验】gate 18 项 **0 阻断型 exit 0** · verify_quotes 274/274 · sweep_full 跨章 0/查无 0 · verify_fragments MISS 0 · check_xref_indep 0 · 总览 21/21 · 造词 0 · 结构缺陷 0
-- commits +1 `3cb726c07`（25 文件，pathspec 隔离，他书 16 件 pending 未动）· **未 push（ahead 223）**
+- commits +2（`3cb726c07` 审查整改 25 文件 · `c6bfa928f` 协作板/日志，均 pathspec 隔离，他书 16 件 pending 未动）· **未 push**
 - 明细见 `.memory/daily/2026-10-15.md` · 原件 `.memory/raw-gates/these-vengeful-wishes-by-vanessa-montalban/audit-20261015-{gate,bcd}-{,AFTER,FINAL}.txt`
 
 ### [2026-10-14 22:54 UTC / 完工 2026-10-14 22:55 UTC] [Hermes-Mac] → All
