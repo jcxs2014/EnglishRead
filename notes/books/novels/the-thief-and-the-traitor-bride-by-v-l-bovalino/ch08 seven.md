@@ -37,7 +37,7 @@ modified: "2026-10-14"
 
 **为什么这样写：** 一份谍报细节道破了双重事实：Celestine 五年来从未停止追踪他；而他连做"被追踪对象"的资格都要靠一个虚构名字获得。Darinot（地名）比 Caspian（人名）更像组织里的一个抽屉。
 
-**读者视角提示：** 后文所有 REDACTED 报告都写作 Darinot——她是靠解码读到关于自己丈夫的情报的。
+**读者视角提示：** 后文所有 REDACTED 报告都写作 Darinot——而这些情报是已被解码编纂好、用 Celestine 的手迹送到她手里的，她读的是成品。
 
 > **原句 3:** "Nore read them again and again, her fingers tracing over the familiar shape of his handwriting, feeling every spot in which his pen had torn through the paper."
 

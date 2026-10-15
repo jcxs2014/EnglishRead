@@ -25,7 +25,7 @@ modified: "2026-10-14"
 
 **关键词：** lingering trace of his warmth
 
-**为什么这样写：** 三个字 "sole" 是五年来她第一次醒来发现他不在——而她的第一反应是恐慌，不是庆幸。旧习惯的顽固程度被写得极其克制："lingering trace" 既是物理事实，也是她对自己身体的控诉。
+**为什么这样写：** "ALONE" 这一个全大写的词，是五年来她第一次醒来发现他不在——而她的第一反应是恐慌，不是庆幸。旧习惯的顽固程度被写得极其克制："lingering trace" 既是物理事实，也是她对自己身体的控诉。
 
 **读者视角提示：** 她连他的体温都还认得。
 
@@ -57,7 +57,7 @@ modified: "2026-10-14"
 
 **为什么这样写：** 整个章的情感陷阱就在这里：他当着三个醉醺醺的贵族妇女，拿起象征她最幸福一夜的酒。他没有说一句关于婚礼的话，但他选酒的姿态就是一次求婚复述。"willingly"（心甘情愿）说明她仍在喝它——在不情愿的场合。
 
-**读者视角提示：** 与 ch07 婚礼记忆、ch09 求婚章三线合一。
+**读者视角提示：** 与 ch07 婚礼记忆、ch13 求婚章三线合一——而现在他就在她身边，两段记忆同时在场。
 
 > **原句 5:** "She trudged up the stairs to her room, finding it empty when she opened the door—but there was the sound of water through the closed door to the bathing room, and Caspian's clothing cast over a chair."
 
