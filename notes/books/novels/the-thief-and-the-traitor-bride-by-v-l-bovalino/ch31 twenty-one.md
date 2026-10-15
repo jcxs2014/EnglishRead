@@ -59,7 +59,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 与 Nore/Caspian 的"同床共枕却无言"形成镜像，作者让两对关系互为注解。
 
-> **原句 5:** "A shiny one. Engraved, I think?" the Viper shook his head. "I think, if one wished, they could wear the rock as a necklace." Nore's eyes locked on Caspian's. A necklace was simply a linguistic slip away from a medallion."
+> **原句 5:** "A shiny one. Engraved, I think?" the Viper shook his head. "I think, if one wished, they could wear the rock as a necklace." Nore's eyes locked on Caspian's. A necklace was simply a linguistic slip away from a medallion.
 
 **中文理解：** "一颗亮的。我想，刻了字？"Viper 摇着头。"我想，如果有人想的话，可以把它当项链戴。"Nore 的眼睛锁定 Caspian 的眼睛。从"项链"到" medallion（大奖章）"只差一次口误。
 

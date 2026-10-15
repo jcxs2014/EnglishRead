@@ -39,7 +39,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** "diaphanous"（轻薄如纱）与"覆盖全岛"形成强烈反差：看得见的力量不吓人，看不见的才吓人。
 
-> **原句 3:** "Marne pasdhi esdhis," he said. … "Eta, eta," she said."
+> **原句 3:** "Marne pasdhi esdhis," he said. … "Eta, eta," she said.
 
 **中文理解：** "Marne pasdhi esdhis，"他说。……"Eta, eta，"她说。
 

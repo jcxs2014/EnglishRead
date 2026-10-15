@@ -39,7 +39,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这与 ch25 父亲信中 "If there is a way… you would not squander it" 形成对照：他最终选择不用那个办法。
 
-> **原句 3:** "But would you forgive me," he said against her hand, "if we pretended for a little bit longer?""
+> **原句 3:** "But would you forgive me," he said against her hand, "if we pretended for a little bit longer?"
 
 **中文理解：** "可你会原谅我吗，"他对着她的手说，"如果我们再假装一小会儿？"
 

@@ -19,7 +19,7 @@ modified: "2026-10-14"
 
 ## 精读
 
-> **原句 1:** "I fear my own emptiness sometimes," Nore said. She wasn't sure where the statement came from, but as soon as she spoke it, she felt the truth in it."
+> **原句 1:** "I fear my own emptiness sometimes," Nore said. She wasn't sure where the statement came from, but as soon as she spoke it, she felt the truth in it.
 
 **中文理解：** "有时候我害怕自己的空虚，"Nore 说。她不知道这句话从哪里冒出来，但一说出口，她就感到了里面的真实性。
 

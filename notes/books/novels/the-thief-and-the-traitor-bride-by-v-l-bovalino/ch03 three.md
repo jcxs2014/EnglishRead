@@ -59,7 +59,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** Karathak 是解决 Nore 困境的关键道具，但它的限制（不能施展魔法）也为后续剧情埋下伏笔。
 
-> **原句 5:** "That it is," Nore agreed grimly."
+> **原句 5:** "That it is," Nore agreed grimly.
 
 **中文理解：** "确实，"Nore 阴郁地同意。
 

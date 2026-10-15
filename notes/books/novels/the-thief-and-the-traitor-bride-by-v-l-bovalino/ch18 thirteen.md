@@ -59,7 +59,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 他说的是 "let you fail" 而不是 "let you be hurt"：他一直在为"任务失败"负责，直到看见疤才知道任务失败的真正代价。
 
-> **原句 5:** "I want your help," she said. A silence. She didn't dare look at him. But she heard the smile in his voice when he said, "Want, or…?""
+> **原句 5:** "I want your help," she said. A silence. She didn't dare look at him. But she heard the smile in his voice when he said, "Want, or…?"
 
 **中文理解：** "我要你的帮助，"她说。一阵沉默。她不敢看他。但她听见他声音里的笑。"是想要，还是……？"
 

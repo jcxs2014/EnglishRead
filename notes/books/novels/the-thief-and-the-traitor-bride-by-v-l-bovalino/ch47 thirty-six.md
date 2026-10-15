@@ -49,7 +49,7 @@ modified: "2026-10-15"
 
 **读者视角提示：** "godforsaken rock"（天杀的石头）是她对 Locke 岛的称呼——与 ch32 童话、ch46 "I can blow up the Isle" 构成她对这座岛的三重态度。
 
-> **原句 4:** "“You could die, you know.”
+> **原句 4:** "“You could die, you know.”"
 
 **中文理解：** "你可能会死的，你知道吧。"
 

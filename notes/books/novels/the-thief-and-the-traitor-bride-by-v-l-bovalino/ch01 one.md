@@ -9,9 +9,9 @@ modified: "2026-10-14"
 
 **一句话概括：** Nore 在 Nettlepool 的 harbor 完成夜间工作后，委托 Hands 寻找禁用魔法的物品，回到办公室发现货物连续被盗，意识到自己的间谍身份可能已经暴露。
 
-**情感弧线位置：** 开篇建立——Nore 与 Finch 的婚姻关系初显（"Sparrow" 代号暗示），情感张力潜伏在日常事务之下。
+**情感弧线位置：** 开篇建立——Sparrow（王廷信使）登门，Nore 的双面生活初显；情感张力此时尚未登场，全书真正的婚恋线索要到 ch04 才启动。
 
-**Tropes 兑现/反转：** 间谍/小偷主角、假扮商人（Miller & Sons Trading 为掩护身份）、丈夫是同事（Finch 同为间谍）。
+**Tropes 兑现/反转：** 间谍/小偷主角、假扮商人（Miller & Sons Trading 为掩护身份）、代号文化（Finch 是 Nore 的代号，Sparrow/Tern/Hands 等同僚亦然）。
 
 **人物弧线：** Nore 是谨慎、聪明、极度疲惫的间谍——她对自己的工作感到厌倦（"she couldn't remember a time in which she hadn't been tired"），但无法停止；她对 Hands 保持职业距离，对 Kota 有软弱的容忍。
 
@@ -55,9 +55,9 @@ modified: "2026-10-14"
 
 **关键词：** well met、Finch
 
-**为什么这样写：** Nore 用代号 "Finch"（而非真名）称呼坐在她椅子上的人，暗示这是她的同事/丈夫。"Well met" 的正式语与随后的随意形成对比，显示两人关系的亲密与职业性并存。
+**为什么这样写：** 说这句话的是坐在她椅子上的 Sparrow——而 Finch 是 Nore **自己**的代号。全书第一句对白就把读者放进这个代号体系里：他们互相只叫代号，真名反而成了隐私。而 Nore 立刻听出是 Sparrow 并收刀，说明两人熟到不必寒暄。"Well met" 的正式语与随后的随意（她直接放下猫、收刀、抱怨）形成对比。
 
-**读者视角提示：** 这是 Nore 与 Finch 的首次出场——读者此时还不知道他们的关系，但代号和亲密程度暗示了更多。
+**读者视角提示：** 这是 Sparrow 与 Nore 的首次出场——读者此时只知道有个代号体系，还不知道 Finch 就是 Nore 本人，这一点要等到 ch02 Celestine 对她说 "Focus on catching the thief, Finch." 才闭环。
 
 > **原句 5:** "Sometimes, it was actually wine that waited for Nore in the red-marked cases. Mostly, it was this: reports from other spies from abroad, documents stolen from other nations' spies, or armies, or politicians. Any manner of information was collected and returned to Lindan like this, ushered in inconspicuously on one of Nore's ships."
 
@@ -120,4 +120,4 @@ modified: "2026-10-14"
 
 ## 一句话总结
 
-Nore 的双面生活——白天是酒商，夜晚是间谍——在 ch01 中通过委托 Hands、与 Finch 会面、发现货物被盗等情节逐步展现，结尾暗示身份可能暴露，为全书张力定调。
+Nore 的双面生活——白天是酒商，夜晚是间谍——在 ch01 中通过 Sparrow 登门传话、委托 Hands、发现货物被盗等情节逐步展现，结尾暗示身份可能暴露，为全书张力定调。
