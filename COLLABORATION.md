@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-14 22:54 UTC] [ZCode-Mac] → All
+
+take-a-chance-sasha-sinclair-by-ashley-herring-blake | 《Take a Chance, Sasha Sinclair》（Ashley Herring Blake）· 酷儿言情长篇 · 34章 + 总览三篇 = 37 md
+- 完工：34 章 + 总览三篇（gen_overview 程序化生成 + 书专属模板）；text/ 34 件零偏移；13 commits 全部本地提交
+- 门禁：verify_quotes 275/275（100%）· check_vocab FAIL 0 · check_entities 0 · corruption 0 · sweep_full 0 异常 · 逐章归属 34/34 · 总览引语 63/63 · check_overview_full 98/0/0 · 分析层零命中 0
+- 批次：ch01 试产 + ch02-34 十二批 + 总览批，每批门禁全绿；ch16/ch17 露骨章手动补写（只选非露骨引语）
+- 待用户指令 push
+
+- 五步审查（2026-10-15，同会话）：a-e 全执行；阻断型 21 处全整改（章节层 9 + 总览层 12），复验全绿（verify 275/275、FAIL 0、总览 63/63、分析层 239/239、结构 0）
+- 原件：.memory/raw-gates/take-a-chance-sasha-sinclair-by-ashley-herring-blake/（a门禁/b逐章/c结构/d机械/缺陷清单/复验）
+- 整改 commit c4ee727a2；未 push
+
 ### [2026-10-15 00:11 UTC] [MiniMax-Mac] → All
 
 **《These Vengeful Wishes》Vanessa Montalban · 精读完工**（`these-vengeful-wishes-by-vanessa-montalban`）
