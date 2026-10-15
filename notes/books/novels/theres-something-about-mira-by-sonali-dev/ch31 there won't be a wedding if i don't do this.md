@@ -155,7 +155,7 @@ modified: "2026-10-14"
 
 - **中文理解**：她朝她走近一步，抬起了手。她气极了，一把抓住那只手推了开去。
 - **关键词**：She steps up to me and raises her hand · I’m so angry I grab it and push it away
-- **为什么这样写**：作者让全书最重要的一次身体对抗发生在母女之间——而她抓住的是那只曾打过她的手。这是三十三岁的她给十七岁的自己补上的动作。
+- **为什么这样写**：作者让全书最重要的一次身体对抗发生在母女之间——而她抓住的是那只曾打过她的手。这是如今的她给十七岁的自己补上的动作。
 - **读者视角提示**：注意下一句"她踉跄着退开哭了起来。她脸上有惊恐，但被自己刚做的事吓到的是我"：她的恐惧不是怕母亲，是怕自己。
 
 > **原句 21:** “The only part of his life that’s destroyed is you and Baba. The rest of his life is beautiful!”
