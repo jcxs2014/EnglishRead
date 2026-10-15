@@ -59,7 +59,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这也解释了她所有的"陷阱为什么失效"：他能"看见"她设的套。
 
-> **原句 5:** "I think most amalgamates can, in some sense, and Idistran is inherent, so there is a natural affinity for magic. Maybe other amalgamates don't sense it as strongly as I can, but I… cultivated the talent. With practice."
+> **原句 5:** "I think most amalgamates can, in some sense, and Idistran is inherent, so there is a natural affinity for magic." … "Maybe other amalgamates don't sense it as strongly as I can, but I… cultivated the talent. With practice."
 
 **中文理解：** "我想在某种程度上，大多数 amalgamate 都能，而 Idistran 是天赋型系统，所以对魔法本来就有天然的亲和力。也许别的 amalgamate 感知得没我这么强，但我……培养了这个天赋。靠练习。"
 
