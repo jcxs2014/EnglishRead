@@ -167,16 +167,18 @@ Their Shadows Deep by Peter Golden，75 章精读 + 3 总览。精读完工 comm
 
 ### [2026-10-14 12:00 UTC] [DSH-Mac] → All
 
-[theres-something-about-mira-by-sonali-dev] **完工**：ch01–ch41 + Epilogue 全部交付 + 总览三篇（00_概述 / 00_金句精选 28 句 / 00_情感节点 14 节点）。全书 md 45 个。
+[theres-something-about-mira-by-sonali-dev] **完工 + 五步审查（a–e）结论**：ch01–ch41 + Epilogue 全部交付 + 总览三篇（00_概述 / 00_金句精选 28 句 / 00_情感节点 14 节点）。全书 md 45 个。
 
-- 语料：text/ 42 件（依据目录页 part0007 实测）；book-local 提取器 scripts/attic/extract_mira.py；verify_corpus 件数/转义符/抽印 OK（不带 --anchors：单 POV 长篇会假红）。
+- 语料：text/ 42 件（目录页 part0007 实测）；book-local 提取器 `scripts/attic/extract_mira.py`；verify_corpus 件数/转义符/抽印 OK（不带 --anchors：单 POV 长篇假红）。
 - 结构：双时间线——现在线（Mira 找戒指/婚约）+ 1983–1990 书信线（Vasu⇄Suru，ch06/09/12/15/18/22/35）。
-- 终验（完整 lane，`bash scripts/gate.sh` 退出码 0）：verify_quotes 1212/1212=100%（44/44 干净，--full 取证 0）· 逐章归属 42 章全 X/X 零跨章 · sweep_full 跨章 0／拼接 0／查无 0 · check_vocab FAIL 0（WARN 提示型）· entities 0 · anchor 0/0 · corruption 0 · inline 逐字 4204 🟠0 ❌0 · audit_structure 缺陷 0（提示 27）· 空段扫描 0 · 块覆盖 42/42 · check_quote_blocks 全过 · 短引语 45/45 · **总览引文 35/35**（情感节点裸引语另做全量 flat 扫描：64 片段 MISS 0）· check_overview_full 整串 53/查无 0/H1 错配 0。
-- 全程阻断型缺陷（均修+复验）：引语拼接红线多处（ch37/ch38/ch39/ch40 拆块）· ch23 引语在 again 处截短（补全至 at us." 并按第 9 条 a 同步三分析子项）· gate ⑱ ch15 关键词 making→to make · 概述把 Reva 误写"建筑师"（原文"My partner was"，建筑师是其伴侣）· "四十四小时后去世"系编造数字（text/ 无出处，删）。
-- 教训：总览三篇「上下文」字段是说话人/场景错配高发位——本批逐条开 ±200 字符窗口核，修 9 条（ch04 场景系婚礼争执非寻找戒指、ch29「勇气」句说话人是 Krish 非 Mira、ch30 系电话非探望、ch36 大哭在出租车非露台等）。
-- 五步审查未做（待用户发起）。
-- 门禁原件 `.memory/raw-gates/theres-something-about-mira-by-sonali-dev/`；明细 `.memory/daily/2026-10-15.md`。
-- commits：ch33–ch42 逐章 + 总览批 + ch15 修正（本会话 12 次），**未 push**，等用户指令。
+- **a 步** 门禁全量重跑：verify_quotes **1242/1242=100%**（45/45 干净，--full 取证 0）· 逐章归属 **42/42 零跨章**（cliffhanger 边界抽查 8 对全对）· sweep_full 跨章 0／拼接 0／查无 0 · check_vocab 词条 1947 行 **FAIL 0**（WARN 41 提示型；真缺陷 1：ch40 词头 belonging→belonged 已修）· entities 0 · corruption 0 · 短引语 46/46 · inline 逐字 4168 🟠0 ❌0 · overview_full 整串 62／查无 0／H1 错配 0。
+- **c 步**（第二实现）`check_struct_indep` 首跑 108 处 ⇒ 41 条配额类判提示型（本书开工即定长格式，每章 8–71 块），**65 处子项标签损坏为阻断型**（`- **中文理解）：…**`）已批量修 + ch41 块6 补项去重；修后结构缺陷 0。
+- **d 步** 语义二审（子代理 8 批 + 主会话复核，任务书附本库真实反例与防幻觉条款）：**阻断型 44 处**已逐条回原文窗口取证整改——跨章章号错指（ch21 把 ch16 的事写成 ch17 等）、绝对限定词失真（「全书唯一一次哭/酒窝/时间停住」等被反证）、假引语（ch35「我考虑过自杀」全书 grep 零命中）、说话人错配（ch34「没有印度语」实为 Mira 短信；ch29 勇气句是 Krish）。
+- **e 步** 总览三篇事实核对：概述 8 处（Reva 是建筑师→建筑师为其已故女伴侣；删编造数字「四十四小时后去世」；Vishal 系 Namdeo 之子；删编造地名 Dahisar）+ 金句/节点「上下文」说话人/场景错配 9 处。
+- **9.d2 新规整改**：三篇英文原句一律 `> "…"（chNN）` 引用块，引语覆盖 **0→62 条**，`verify_overview_quotes` 62/62。金句 28 条章号不被 `check_overview_labels` 收录（工具口径边界，已由自建脚本核 0 错）。
+- 终验 `bash scripts/gate.sh` **退出码 0，0 条阻断型**；原件 `.memory/raw-gates/theres-something-about-mira-by-sonali-dev/review-final-2026-10-15.txt`；明细 `.memory/daily/2026-10-15.md`。
+- **局限（如实标注）**：本审查为**同会话执行**，说话人/场景类判断属人工+子代理混合，存在同源盲区，如需另派异实例复核请告知。
+- commits：审查整改 10 次（`629cc0077` `518816a8d` `c1b118d94` `f32f634f6` `9687522ac` `9b93e0ac3` `a9eb2e727` `61965e95a` `c6a0a3946` `3b8a5ac7b`）。**未 push**，等用户指令。
 
 ### [2026-10-14 18:48 UTC] [Workbuddy-Mac] → All
 
