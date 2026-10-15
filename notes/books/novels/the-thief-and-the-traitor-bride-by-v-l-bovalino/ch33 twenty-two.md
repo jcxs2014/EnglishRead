@@ -69,7 +69,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这解释了 ch08 dossier 里他五年的行踪：他在到处练手。
 
-> **原句 6:** "That's not Lochan at all," Nore said, leaning closer. "Cas, that's Lindle. It's an old Lindle spellbook."
+> **原句 6:** "That's not Lochan at all," Nore said, leaning closer. … "Cas, that's Lindle. It's an old Lindle spellbook."
 
 **中文理解：** "看，那根本不是 Lochan——Cas，那是 Lindle。那是一本古老的 Lindle 法术书。"
 
