@@ -47,7 +47,7 @@ modified: "2026-10-14"
 
 **为什么这样写：** 全书最安静也最有力的一次保护动作，Nore 靠一整晚的观察抓住了它。没有一句台词，只有一个换盘：Ola 怀疑有人要毒害 High Lady，所以每一餐都替她试。作者让"爱"藏在一个动作里，而不给任何说明。
 
-**读者视角提示：** 这与 ch26 Ola 的断臂一起，构成了这对伴侣的性格画像：她们用肉身替对方挡。
+**读者视角提示：** 这与 ch26 Ola 的断臂一起，构成了两位替洛克挡枪的女人的性格画像：Ola 为 Garna（她的妻子）挡过，Locke 的残臂她也用同一副姿态示于人——她们都把肉身当成最后的防线。
 
 > **原句 4:** "It was the High Lady and the commander who exchanged a look then, Nore noted—not one of fear or of worry. But of two people who inhabited the same space quite closely, perhaps two people searching for a lost article of clothing in their own home."
 
@@ -55,7 +55,7 @@ modified: "2026-10-14"
 
 **关键词：** searching for a lost article of clothing in their own home
 
-**为什么这样写：** 全书对她们关系最精确的比喻：共住一个房子的人，找东西不需要说话。Nore 的观察是间谍式的，但比喻是妻子的——她太熟悉这种默契，因为她曾与 Caspian 拥有它。"how close are you?" 是她第一次用私人经验去度量敌人。
+**为什么这样写：** 全书对 Locke 与 Viper（指挥官 Kier）关系最精确的比喻：共住一岛的人，找东西不需要说话。Nore 的观察是间谍式的，但比喻是妻子的——她太熟悉这种默契，因为她曾与 Caspian 拥有它。"how close are you?" 是她第一次用私人经验去度量敌人。
 
 **读者视角提示：** 与 Nore/Caspian 的"同床共枕却无言"形成镜像，作者让两对关系互为注解。
 
