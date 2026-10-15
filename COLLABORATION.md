@@ -87,7 +87,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 五步审查未做（待用户发起）
 - 明细见 .memory/daily/2026-10-15.md；门禁原件 .memory/raw-gates/this-is-the-night-they-come-for-you-by-robert-goddard/
 
-**五步审查（2026-10-15，同会话，用户发起）**：a–e 全执行（31 章 + 总览三篇）。
+**五步审查（2026-10-15 19:18 UTC，同会话，用户发起）**：a–e 全执行（31 章 + 总览三篇）。
 - a 门禁全量现场重跑：gate.sh EXIT 0 · 正门 0 阻断型 · verify_quotes 246/246 · --full 0 · check_vocab FAIL 0（WARN 39 全为「基础档长度 ≥9 字符」启发式）· entities 0 · corruption_scan 0 · sweep_full 0 异常 · 逐章归属 31/31 · 短引语 2/2 · 总览 54/54
 - b/c 步换实现复核（第二套代码，248 引语）：跨章搬句 0 · 编号连续/四子项齐全/重复块 0 · H1 语义 0
 - d 步语义二审两批子代理覆盖 248 块 + 主会话逐条回原文复核 ⇒ **28 条阻断型全部整改**：年份 2 处（2021→2020、1988→1965）· 亲属称谓 6 处（Wendy 是姐姐、Stephen 是弟弟）· 跨章引用指错 6 处（ch15→ch14、第 20 章→第 22 章、第 26/27 章、第 5 章→第 14 章、上一章→第 17 章）· **ch18 引语截短**（spec 层 +3→+5 并同步三条分析）· 释义崩坏 1 处、病句 1 处、繁体字 1 处、体例 2 处
