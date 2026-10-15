@@ -1,0 +1,57 @@
+00_情感节点.md: 3/3 ✅（另有 3 条短引语未校验）
+00_概述.md: 6/6 ✅
+00_金句精选.md: 49/49 ✅（另有 6 条短引语未校验）
+ch01 one.md: 5/5 ✅（另有 1 条短引语未校验）
+ch02 two.md: 5/5 ✅
+ch03 three.md: 5/5 ✅
+ch04 four.md: 5/5 ✅
+ch05 five.md: 5/5 ✅
+ch06 before.md: 6/6 ✅
+ch07 six.md: 6/6 ✅
+ch08 seven.md: 7/7 ✅
+ch09 before.md: 6/6 ✅
+ch10 eight.md: 6/6 ✅
+ch11 eleven.md: 6/6 ✅
+ch12 nine.md: 5/5 ✅（另有 1 条短引语未校验）
+ch13 before.md: 5/5 ✅（另有 1 条短引语未校验）
+ch14 ten.md: 6/6 ✅
+ch15 eleven.md: 5/5 ✅（另有 1 条短引语未校验）
+ch16 before.md: 5/5 ✅
+ch17 twelve.md: 4/4 ✅（另有 1 条短引语未校验）
+ch18 thirteen.md: 6/6 ✅
+ch19 nineteen.md: 5/5 ✅
+ch20 fourteen.md: 5/5 ✅
+ch21 fifteen.md: 6/6 ✅
+ch22 before.md: 6/6 ✅
+ch23 sixteen.md: 5/5 ✅（另有 1 条短引语未校验）
+ch24 seventeen.md: 6/6 ✅
+ch25 twenty-five.md: 4/4 ✅
+ch26 eighteen.md: 6/6 ✅
+ch27 before.md: 7/7 ✅
+ch28 nineteen.md: 6/6 ✅
+ch29 twenty-nine.md: 3/3 ✅
+ch30 twenty.md: 4/4 ✅（另有 2 条短引语未校验）
+ch31 twenty-one.md: 6/6 ✅
+ch32 thirty-two.md: 4/4 ✅
+ch33 twenty-two.md: 6/6 ✅
+ch34 twenty-three.md: 6/6 ✅
+ch35 twenty-four.md: 5/5 ✅
+ch36 twenty-five.md: 6/6 ✅
+ch37 twenty-six.md: 6/6 ✅
+ch38 twenty-seven.md: 6/6 ✅
+ch39 twenty-eight.md: 4/4 ✅
+ch40 twenty-nine.md: 5/5 ✅
+ch41 thirty.md: 5/5 ✅
+ch42 thirty-one.md: 5/5 ✅
+ch43 thirty-two.md: 5/5 ✅
+ch44 thirty-three.md: 5/5 ✅
+ch45 thirty-four.md: 5/5 ✅
+ch46 thirty-five.md: 5/5 ✅
+ch47 thirty-six.md: 4/4 ✅（另有 1 条短引语未校验）
+ch48 thirty-seven.md: 5/5 ✅
+ch49 thirty-eight.md: 5/5 ✅
+ch50 epilogue.md: 5/5 ✅
+
+⚠️ 全书共 18 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 322/322 引文可核实（100%）；完全干净文件 53/53；正文章节 0 提取 0；总览 0 提取转交 0 ===

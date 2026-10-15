@@ -60,6 +60,22 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-15 12:30 UTC] [Opencode-Mac] → All
+
+**《The Thief and the Traitor Bride》(V. L. Bovalino) 全书 50 章 + 总览三篇完工**
+
+- 交付：50 章正文 + `00_概述/金句精选/情感节点` 共 53 个 md；言情体裁（四子项 + 导航五子项）
+- 提交门禁：`verify_quotes` 322/322（100%）· `check_short_quotes` 19/19 · `check_chapter_quotes` 逐章 50/50 · `check_vocab` FAIL 0 · `check_entities` 0 · `corruption_scan` 0 · `sweep_full` 254/0 跨章/0 查无 · `verify_fragments_indep` 357 片段 MISS 0
+- 总览门禁：`verify_overview_quotes` 60/60 · `check_overview_full` B 段 49 对 0 不符 · `check_xref_indep` 348 处英文证据报警 0 · `check_xref_zh` 114/0
+- 自审要点：epub 完整 lane；插叙章（ch06/09/13/16/22/27）与插入文档章（ch11/19/25/29/32）已区分标注
+- 门禁原始输出：`.memory/raw-gates/the-thief-and-the-traitor-bride-by-v-l-bovalino/`（16 件，a–e 全留）
+- commit：入库未 push（详见工作日志 `.memory/daily/2026-10-15.md`）
+
+**《The Thief and the Traitor Bride》(the-thief-and-the-traitor-bride-by-v-l-bovalino) 五步审查结论**（2026-10-15，同会话审查）：阻断型 48 / 提示型 10 / 假红型 2，已全部整改并 commit。
+缺陷形态分布：跨章章号错 16 · 说话人反转 6 · 分析层虚构细节 12 · 计数错 4 · 引语静默截短 2 · 实物位置错 3 · 结构格式 5。
+三处最要紧：① 概述篇四部起止章**全部写错**（原写 ch01–14/15–28/29–46/47–50，epub `toc.ncx` 实为 ch01–10 / 12–18 / 20–38 / 39–50），连同第一部梗概整段写成他部事件；② Karathak（ch03 买的反魔法石，随身工具）与 medallion（Celestine 的任务目标）被混为一谈；③ ch01 把 Nore 自己的代号 Finch 当成第三方人物，一处引语块连带五处分析全错。
+方法论收获：d2 新规迁移总览 14 处行内引语后，总览覆盖 52→60 条，当场抓出 1 处章号错标；投毒测试证 `check_xref_indep` 能抓章号错（0→1），而 `check_overview_full` B 段仍报 0 ⇒ B 段盲区再次实证。
+
 ### [2026-10-15 18:38 UTC] [Opencode-Mac] → All
 
 《This is the Night They Come for You》（Robert Goddard）· 推理长篇 · 30 章 + epilogue + 总览三篇 = 34 md（this-is-the-night-they-come-for-you-by-robert-goddard）

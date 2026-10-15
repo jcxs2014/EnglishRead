@@ -1,0 +1,34 @@
+=========== d 步机械子项（全部用 *_indep.py 第二实现） ===========
+
+--- d1. check_analysis_indep.py（分析层行内英文）---
+      未命中词: ['faceoff']
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）10 条 —— 只报不判红，须人判：
+  ch02 two.md:28  seventeen minutes past
+  ch14 ten.md:26  lingered trace of his warmth
+  ch17 twelve.md:26  consequences caught up
+  ch27 before.md:48  as if discussing her dinner
+  ch28 nineteen.md:40  she did not ask more from him
+  ch32 thirty-two.md:58  The Thief and the Traitor Bride
+  ch40 twenty-nine.md:14  Last kiss before the execution
+  ch47 thirty-six.md:14  The queen and her commander
+  ch47 thirty-six.md:18  Eron is Nore spelled backward
+  ch50 epilogue.md:60  Would I kill you if you had told me
+
+--- d2. check_xref_indep.py（跨章引用）---
+=== chNN 引用 287 处：英文证据报警 0 处 ／ 中文式待人判 221 处 ／ 🔶 同章省略号拼接（提示，不判红）2 处 ===
+
+--- d3. sweep_full.py（终验标准件，52 字符指纹盲区克星）---
+=== 引语整串 flat 比对（the-thief-and-the-traitor-bride-by-v-l-bovalino）===
+  参照集：text/ 逐章（50 章，可定章） + epub 交叉验证
+  ✅ 本章命中 254 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 10 ｜ ❌ 全书查无 0
+  （短引语 9 条归 check_short_quotes；无章可对 0 条未判）
+
+--- d4. sweep_analysis_inline.py ---
+  🟠 ch47 thirty-six.md:18  「Eron is Nore spelled backward」→ 内容词 4/4 命中（backward/eron/nore/spelled）——疑漏词或改写
+  🟠 ch48 thirty-seven.md:14  「The ritual sacrifice」→ 内容词 2/2 命中（ritual/sacrifice）——疑漏词或改写
+  🟠 ch48 thirty-seven.md:38  「sounds like nonsense」→ 内容词 3/3 命中（like/nonsense/sounds）——疑漏词或改写
+  🟠 ch49 thirty-eight.md:14  「Face-off with the mentor」→ 内容词 1/2 命中（mentor）——疑漏词或改写
+  🟠 ch50 epilogue.md:14  「Happily ever after」→ 内容词 3/3 命中（after/ever/happily）——疑漏词或改写
+  🟠 ch50 epilogue.md:50  「I'm so tired of hiding」→ 内容词 2/3 命中（hiding/tired）——疑漏词或改写
+  🟠 ch50 epilogue.md:60  「Would I kill you if you had told me?」→ 内容词 2/2 命中（kill/told）——疑漏词或改写
+  🔧 00_概述.md:49  「Traitor Bride」→ text/ 缺、epub 有 → B 类语料缺失
