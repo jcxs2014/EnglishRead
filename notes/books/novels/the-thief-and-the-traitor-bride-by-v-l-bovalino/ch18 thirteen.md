@@ -49,7 +49,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 注意顺序：她先抓住他的手，再问问题。身体永远比嘴巴先答应。
 
-> **原句 4:** "Your scars," he admitted. "I didn't…" He shook his head. "A thousand times I had thought of you and whatever consequences you had face, if I let you and this mission fail."
+> **原句 4:** "Your scars," he admitted. "I didn't…" He shook his head. "A thousand times I had thought of you and whatever consequences you had to face. What consequences you would face, if I let you and this mission fail."
 
 **中文理解：** "你的疤，"他承认。"我没有……"他摇摇头。"我想过一千次，如果是我让你和这个任务失败，你会面临什么后果。"
 
