@@ -1,0 +1,109 @@
+  ❌ ch02 go by yourself.md: [summary] 引语块 9 个，超出 3–8 配额
+  ❌ ch03 not to meet your brother.md: [summary] 引语块 9 个，超出 3–8 配额
+  ❌ ch04 grow a spine.md: [summary] 引语块 11 个，超出 3–8 配额
+  ❌ ch05 the ring on a chain.md: [summary] 引语块 12 个，超出 3–8 配额
+  ❌ ch06 forged to fit together.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch07 interlocking set.md: [summary] 引语块 13 个，超出 3–8 配额
+  ❌ ch08 it is the story.md: [summary] 引语块 13 个，超出 3–8 配额
+  ❌ ch09 a spectrum of friendship.md: [summary] 引语块 13 个，超出 3–8 配额
+  ❌ ch10 just call the guy.md: [summary] 引语块 17 个，超出 3–8 配额
+  ❌ ch11 i thought it was your naani.md: [summary] 引语块 18 个，超出 3–8 配额
+  ❌ ch12 money is easy to repay.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch13 why did you come back.md: [summary] 引语块 34 个，超出 3–8 配额
+  ❌ ch14 the magic he makes me feel.md: [summary] 引语块 27 个，超出 3–8 配额
+  ❌ ch15 aie found the ring.md: [summary] 引语块 17 个，超出 3–8 配额
+  ❌ ch16 anderson's in brooklyn.md: [summary] 引语块 24 个，超出 3–8 配额
+  ❌ ch17 the marilyn.md: [summary] 引语块 28 个，超出 3–8 配额
+  ❌ ch18 do not come home.md: [summary] 引语块 31 个，超出 3–8 配额
+  ❌ ch19 reva smith.md: [summary] 引语块 38 个，超出 3–8 配额
+  ❌ ch20 i was adopted.md: [summary] 引语块 36 个，超出 3–8 配额
+  ❌ ch21 have a nice life.md: [summary] 引语块 61 个，超出 3–8 配额
+  ❌ ch22 i will carry it for the rest of my life.md: [summary] 引语块 22 个，超出 3–8 配额
+  ❌ ch23 the sweetest thing anyone's ever done.md: [summary] 引语块 52 个，超出 3–8 配额
+  ❌ ch24 uptight mira.md: [summary] 引语块 33 个，超出 3–8 配额
+  ❌ ch25 the other ring.md: [summary] 引语块 51 个，超出 3–8 配额
+  ❌ ch26 why did you pick me.md: [summary] 引语块 32 个，超出 3–8 配额
+  ❌ ch27 finishing what we started.md: [summary] 引语块 39 个，超出 3–8 配额
+  ❌ ch28 that filthy woman's name.md: [summary] 引语块 39 个，超出 3–8 配额
+  ❌ ch29 the only way i'll have the courage.md: [summary] 引语块 33 个，超出 3–8 配额
+  ❌ ch30 the first time someone tucked me in.md: [summary] 引语块 21 个，超出 3–8 配额
+  ❌ ch31 there won't be a wedding if i don't do this.md: [summary] 引语块 29 个，超出 3–8 配额
+  ❌ ch32 there's nowhere for us to run.md: [summary] 引语块 22 个，超出 3–8 配额
+  ❌ ch33 a little piece of me snaps back.md: [summary] 引语块 28 个，超出 3–8 配额
+  ❌ ch34 i guess you found ashatai.md: [summary] 引语块 30 个，超出 3–8 配额
+  ❌ ch35 waiting for you.md: [summary] 引语块 31 个，超出 3–8 配额
+  ❌ ch36 i got him.md: [summary] 引语块 36 个，超出 3–8 配额
+  ❌ ch37 i'm still going to darjeeling.md: [summary] 引语块 36 个，超出 3–8 配额
+  ❌ ch38 i fit in my skin.md: [summary] 引语块 41 个，超出 3–8 配额
+  ❌ ch39 she asks for suru day and night.md: [summary] 引语块 35 个，超出 3–8 配额
+  ❌ ch40 when you are true to yourself.md: [summary] 引语块 62 个，超出 3–8 配额
+  ❌ ch40 when you are true to yourself.md: [summary] 引语 39: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch40 when you are true to yourself.md: [summary] 引语 44: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch40 when you are true to yourself.md: [summary] 引语 46: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch40 when you are true to yourself.md: [summary] 引语 47: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch40 when you are true to yourself.md: [summary] 引语 59: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语块 71 个，超出 3–8 配额
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 6: 子项「为什么这样写」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 6: 子项「读者视角提示」出现 2 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 13: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 28: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 29: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 32: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 41: 子项「为什么这样写」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 49: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 50: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 51: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 52: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 54: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 55: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 56: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 59: 子项「为什么这样写」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 61: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 62: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 63: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 64: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 65: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 66: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 67: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 68: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 70: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch41 it feels so good it does not even hurt.md: [summary] 引语 71: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语块 32 个，超出 3–8 配额
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 3: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 5: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 8: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 9: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 10: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 11: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 12: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 12: 子项「为什么这样写」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 13: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 15: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 16: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 17: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 18: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 19: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 20: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 21: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 22: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 23: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 23: 子项「为什么这样写」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 24: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 24: 子项「为什么这样写」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 25: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 25: 子项「为什么这样写」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 26: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 26: 子项「为什么这样写」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 27: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 27: 子项「为什么这样写」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 28: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 28: 子项「为什么这样写」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 29: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 29: 子项「为什么这样写」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 30: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 30: 子项「为什么这样写」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 31: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 31: 子项「为什么这样写」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 32: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch42 epilogue the smallest apology.md: [summary] 引语 32: 子项「为什么这样写」出现 0 次（须恰 1）
+=== 独立结构扫描：42 个 md，缺陷 108 处（另有提示型 0 条，不计入缺陷、不影响退出码）===

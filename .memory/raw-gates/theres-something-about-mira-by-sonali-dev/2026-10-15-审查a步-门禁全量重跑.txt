@@ -1,0 +1,100 @@
+Thu Oct 15 08:34:35 UTC 2026
+### A1 verify_quotes
+00_概述.md: 8/8 ✅
+00_金句精选.md: 24/24 ✅（另有 1 条短引语未校验）
+ch01 engagement moon rescheduled.md: 8/8 ✅
+ch02 go by yourself.md: 9/9 ✅
+ch03 not to meet your brother.md: 9/9 ✅
+ch04 grow a spine.md: 11/11 ✅
+ch05 the ring on a chain.md: 12/12 ✅
+ch06 forged to fit together.md: 10/10 ✅
+ch07 interlocking set.md: 13/13 ✅
+ch08 it is the story.md: 13/13 ✅
+ch09 a spectrum of friendship.md: 13/13 ✅
+ch10 just call the guy.md: 17/17 ✅
+ch11 i thought it was your naani.md: 18/18 ✅
+ch12 money is easy to repay.md: 20/20 ✅
+ch13 why did you come back.md: 31/31 ✅（另有 3 条短引语未校验）
+ch14 the magic he makes me feel.md: 27/27 ✅
+ch15 aie found the ring.md: 17/17 ✅
+ch16 anderson's in brooklyn.md: 24/24 ✅
+ch17 the marilyn.md: 26/26 ✅（另有 2 条短引语未校验）
+ch18 do not come home.md: 31/31 ✅
+ch19 reva smith.md: 38/38 ✅
+ch20 i was adopted.md: 36/36 ✅
+ch21 have a nice life.md: 59/59 ✅（另有 2 条短引语未校验）
+ch22 i will carry it for the rest of my life.md: 22/22 ✅
+ch23 the sweetest thing anyone's ever done.md: 49/49 ✅（另有 3 条短引语未校验）
+ch24 uptight mira.md: 33/33 ✅
+ch25 the other ring.md: 49/49 ✅（另有 2 条短引语未校验）
+ch26 why did you pick me.md: 31/31 ✅（另有 1 条短引语未校验）
+ch27 finishing what we started.md: 37/37 ✅（另有 2 条短引语未校验）
+ch28 that filthy woman's name.md: 37/37 ✅（另有 2 条短引语未校验）
+ch29 the only way i'll have the courage.md: 33/33 ✅
+ch30 the first time someone tucked me in.md: 21/21 ✅
+ch31 there won't be a wedding if i don't do this.md: 28/28 ✅（另有 1 条短引语未校验）
+ch32 there's nowhere for us to run.md: 21/21 ✅（另有 1 条短引语未校验）
+ch33 a little piece of me snaps back.md: 27/27 ✅（另有 1 条短引语未校验）
+ch34 i guess you found ashatai.md: 27/27 ✅（另有 3 条短引语未校验）
+ch35 waiting for you.md: 30/30 ✅（另有 1 条短引语未校验）
+ch36 i got him.md: 35/35 ✅（另有 1 条短引语未校验）
+ch37 i'm still going to darjeeling.md: 35/35 ✅（另有 1 条短引语未校验）
+ch38 i fit in my skin.md: 39/39 ✅（另有 2 条短引语未校验）
+ch39 she asks for suru day and night.md: 30/30 ✅（另有 4 条短引语未校验）
+ch40 when you are true to yourself.md: 55/55 ✅（另有 7 条短引语未校验）
+ch41 it feels so good it does not even hurt.md: 68/68 ✅（另有 3 条短引语未校验）
+ch42 epilogue the smallest apology.md: 31/31 ✅（另有 1 条短引语未校验）
+
+⚠️ 全书共 44 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 1212/1212 引文可核实（100%）；完全干净文件 44/44；正文章节 0 提取 0；总览 0 提取转交 1 ===
+### A2 verify_quotes --full
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 1212/1212 引文可核实（100%）；完全干净文件 44/44；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+### A3 check_vocab
+  ch19 reva smith.md [基础] 基础档疑含超纲词「family manipulates」
+  ch19 reva smith.md [基础] 基础档疑含超纲词「father apologize」
+  ch21 have a nice life.md [基础] 基础档疑含超纲词「completely different」
+  ch23 the sweetest thing anyone's ever done.md [基础] 基础档疑含超纲词「apartment」
+  ch23 the sweetest thing anyone's ever done.md [基础] 基础档疑含超纲词「best childhood」
+  ch25 the other ring.md [基础] 基础档疑含超纲词「apartment」
+  ch26 why did you pick me.md [基础] 基础档疑含超纲词「childhood」
+  ch27 finishing what we started.md [基础] 基础档疑含超纲词「air-conditioning」
+  ch28 that filthy woman's name.md [基础] 基础档疑含超纲词「childhood friend」
+  ch31 there won't be a wedding if i don't do this.md [基础] 基础档疑含超纲词「bridesmaids」
+  ch31 there won't be a wedding if i don't do this.md [基础] 基础档疑含超纲词「coincidence」
+  ch31 there won't be a wedding if i don't do this.md [基础] 基础档疑含超纲词「confusion」
+  ch32 there's nowhere for us to run.md [基础] 基础档疑含超纲词「accusation」
+  ch32 there's nowhere for us to run.md [基础] 基础档疑含超纲词「compartment」
+  ch32 there's nowhere for us to run.md [基础] 基础档疑含超纲词「confidence」
+  ch33 a little piece of me snaps back.md [基础] 基础档疑含超纲词「attackers」
+  ch35 waiting for you.md [基础] 基础档疑含超纲词「beautiful penmanship」
+  ch35 waiting for you.md [基础] 基础档疑含超纲词「worthy successor」
+  ch36 i got him.md [基础] 基础档疑含超纲词「abduction」
+  ch37 i'm still going to darjeeling.md [基础] 基础档疑含超纲词「cross-dressing boyfriend」
+  ch37 i'm still going to darjeeling.md [基础] 基础档疑含超纲词「elaborate」
+  ch38 i fit in my skin.md [基础] 基础档疑含超纲词「girlfriend」
+  ch38 i fit in my skin.md [基础] 基础档疑含超纲词「deep despondence」
+  ch39 she asks for suru day and night.md [基础] 基础档疑含超纲词「astringent smell」
+  ch40 when you are true to yourself.md [进阶] 词条跨篇(本章无，epub 全书有)「belonging」
+  ch40 when you are true to yourself.md [进阶] 例句不含词头「belonging」
+  ch40 when you are true to yourself.md [基础] 基础档疑含超纲词「expression changes」
+  ch40 when you are true to yourself.md [基础] 基础档疑含超纲词「handshake」
+  ch42 epilogue the smallest apology.md [基础] 基础档疑含超纲词「congratulations」
+  ch42 epilogue the smallest apology.md [基础] 基础档疑含超纲词「girlfriend」
+### A4 check_entities
+=== 实体一致性检测：0 个文件存在未知实体 ===
+### A5 corruption_scan
+
+=== 编辑损坏扫描（theres-something-about-mira-by-sonali-dev）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+### A6 sweep_full
+=== 引语整串 flat 比对（theres-something-about-mira-by-sonali-dev）===
+  参照集：text/ 逐章（42 章，可定章） + epub 交叉验证
+  ✅ 本章命中 1180 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 44 条归 check_short_quotes；无章可对 0 条未判）
