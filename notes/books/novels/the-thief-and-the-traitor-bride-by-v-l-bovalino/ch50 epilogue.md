@@ -67,7 +67,7 @@ modified: "2026-10-15"
 
 **为什么这样写：** 全书最后一句话，也是最"他们"的一句话：两个人从皇家婚礼上溜走，去审一个间谍，赶回来喝酒。作者没有让他们变成守规矩的人，而是让他们把 Sherlock 式的办案嵌进婚礼的缝隙里。而 "I thought you'd never ask" 是全书对 Nore 最高的赞美——不是因为她美、聪明或勇敢，而是因为她永远会问出那句"我们能不能"。
 
-**读者视角提示：** 与 ch01 她在巷子里第一次以 Finch 的身份说话、ch45 她说 "You know I can never abandon a lead" 首尾合一。
+**读者视角提示：** 与 ch01 她的代号 Finch 第一次被人当面叫出（Sparrow 在她公寓里说的那句 "Well met, Finch"）、ch39 她对 Tern 说 "You know I can never abandon a lead" 首尾合一。
 
 ## 本章词汇
 

@@ -47,7 +47,7 @@ modified: "2026-10-15"
 
 **为什么这样写：** 一句话把 Nore 的出身与职业串成一条线：她不是天生的间谍，而是底层出身的人练出的隐身术。作者在此刻让她退回这个旧技能，与 ch38 她"技能清零"形成对照——那时候她说自己没有用，现在她用最原始的本领生存。这也是她对 Viper 的不信任（"他假装请我坐"）的最好注脚。
 
-**读者视角提示：** 与 Caspian "躲在窗帘后面"听 Celestine 审讯的是同一门手艺——两个人都是"被训练成背景"的孩子。
+**读者视角提示：** 与 Nore 童年被 Celestine 带去旁听审讯的是同一门手艺——两个被同一个人养大的孩子，都被训练成"在场的背景"：一个学会了不被看见地听，一个学会了不被察觉地看。
 
 > **原句 4:** "The demands of controlling all Idistran power are just too much. It was more unstable at the start; if she found herself annoyed with Nestria one evening, our ambassador reported that the system was no longer strong enough to run passive castings."
 
@@ -55,7 +55,7 @@ modified: "2026-10-15"
 
 **关键词：** too much（太重）；no longer strong enough to run passive castings（弱到跑不动被动施法）。
 
-**为什么这样写：** 用日常情绪（不高兴）解释系统性崩溃（passive castings 失效），把政治制度写成一种"情绪化的天气"。这是全书对 Idistran 权力最尖锐的批判：它不只是不公平，而是根本不稳定——它要求一个永不动怒的人做世界的根基。而 Kiper 用大使汇报的方式说出这个细节，让政治问题有了外交后果。
+**为什么这样写：** 用日常情绪（不高兴）解释系统性崩溃（passive castings 失效），把政治制度写成一种"情绪化的天气"。这是全书对 Idistran 权力最尖锐的批判：它不只是不公平，而是根本不稳定——它要求一个永不动怒的人做世界的根基。而 Kier 用大使汇报的方式说出这个细节，让政治问题有了外交后果。
 
 **读者视角提示：** 这句话解释了 ch44 的 Revellation 为什么重要：如果 Idistran 体系本身有缺陷，Nore 找到的" ritual "就不只是救命，更是给诸国换一个大气候。
 
@@ -67,7 +67,7 @@ modified: "2026-10-15"
 
 **为什么这样写：** "a thread untied" 是全书最朴素的隐喻，也是最后一部的情节引擎。它把 Celestine 的阴谋、Idistran 的诞生、medallion 的功能全部收进一个意象：当年有人开始了一个仪式却没做完。而 Nore 说"我们单独办不到"，是她全书第一次公开承认需要帮助——与 ch38 "Nore was useless against that" 的绝望完全不同，这是成年人的求助。
 
-**读者视角提示：** 这句话也意味着他们要去找的那个人，正是她最不想再见的雇主——悬念由此而生。
+**读者视角提示：** 这句话也意味着他们要去找的人是学者而不是战士——于是搜遍全岛只剩 Cross 船长那条船可用，悬念由此而生。
 
 ## 本章词汇
 

@@ -27,7 +27,7 @@ modified: "2026-10-15"
 
 **为什么这样写：** 全书她最经典的一次职业反射。Kier 问她怎么保证 Terlo 不是间谍，她立刻用间谍逻辑把问题本身解构掉。作者用这句轻巧的台词同时完成三件事：显示她的专业直觉、缓解紧张气氛、也提醒读者这座岛上如今全是间谍——连她自己也刚从间谍变成被怀疑对象。
 
-**读者视角提示：** 与 Ola 那句"我们身边大概一直全是间谍"形成对仗：两个人从不同角度说出了同一句真话。
+**读者视角提示：** 与紧随其后 Brit 那句"我们身边大概一直全是间谍"形成对仗：Ola 问的是"怎么突然之间全是间谍"，Brit 答"大概一直就是"——两个人从不同角度说出了同一句真话。
 
 > **原句 2:** "“I do more than that, you know. Even though Kier doesn't technically need me, I'm still the commander of the Isle's wells. We have a more evenly balanced structure than the mainland.”"
 
