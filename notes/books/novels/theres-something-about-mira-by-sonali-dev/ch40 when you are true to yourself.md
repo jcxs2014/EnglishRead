@@ -286,7 +286,7 @@ modified: "2026-10-14"
 
 > **原句 39:** It’s like she can’t believe what she’s hearing, and I imagine her young and baffled at the ways of the world. “Are you sure?” she says. “Sometimes it’s not easy to know when they’re forcing you.”
 
-- **中文理解）：就好像她不敢相信自己在听到的话，而她想象她年轻时也曾这样对世界的运作方式感到不解。"你确定吗？"她说。"有时候，不容易知道他们什么时候是在逼你。"**
+- **中文理解**：就好像她不敢相信自己在听到的话，而她想象她年轻时也曾这样对世界的运作方式感到不解。"你确定吗？"她说。"有时候，不容易知道他们什么时候是在逼你。"
 - **关键词**：she can’t believe what she’s hearing · I imagine her young and baffled at the ways of the world · Sometimes it’s not easy to know when they’re forcing you
 - **为什么这样写**：作者让全书最锋利的一句诊断以"有时候不容易知道"这种温和的措辞出现——它不是指控，是提醒。
 - **读者视角提示**：注意"不容易知道（not easy to know）"：被逼的人往往最后一个知道，这是 Vasu 用四十年换来的知识。
@@ -321,7 +321,7 @@ modified: "2026-10-14"
 
 > **原句 44:** I nod. My throat feels raw. There’s so much I want to say, but I can’t speak.
 
-- **中文理解）：她点头。她的喉咙感觉是生的。她有那么多想说的，但她说不出来。**
+- **中文理解**：她点头。她的喉咙感觉是生的。她有那么多想说的，但她说不出来。
 - **关键词**：My throat feels raw · There’s so much I want to say, but I can’t speak
 - **为什么这样写**：作者让全书最能说的那个人（她的职业就是说话）在此刻失语——失语是她唯一诚实的回应。
 - **读者视角提示**：对照第二十九章她讲出自己十七岁的经历：那次她能说，是因为对方没有问她。
@@ -335,14 +335,14 @@ modified: "2026-10-14"
 
 > **原句 46:** When she pulls away, I feel shredded. And so seen it’s like she just stripped me. It hurts. And of course it feels good.
 
-- **中文理解）：当她把手收回去，她感觉自己被撕成了碎片。被看得那么透，就好像她刚刚把她剥光了。这很痛。当然，这也很好。**
+- **中文理解**：当她把手收回去，她感觉自己被撕成了碎片。被看得那么透，就好像她刚刚把她剥光了。这很痛。当然，这也很好。
 - **关键词**：I feel shredded · so seen it’s like she just stripped me · It hurts. And of course it feels good
 - **为什么这样写**：作者让最后一句（"当然，这也很好"）直接引用 Vasu 刚给出的标准来评判她自己——她在同一段里完成了被诊断与自我诊断。
 - **读者视角提示**：注意"被撕成碎片（shredded）"与"被剥光（stripped）"两个被动式连用：她第一次允许自己是被作用的那一方。
 
 > **原句 47:** Reva hugs me tightly. “You will stay in touch?”
 
-- **中文理解）：Reva 紧紧抱住她。"你会保持联系的，对吗？"**
+- **中文理解**：Reva 紧紧抱住她。"你会保持联系的，对吗？"
 - **关键词**：Reva hugs me tightly · You will stay in touch
 - **为什么这样写**：作者让 Reva 用问句而不是请求——她们之间剩下的只有这个问题，而它不需要回答。
 - **读者视角提示**：注意"紧紧（tightly）"：Reva 的拥抱与她第一次抱 Vasu 时用的动词一样。
@@ -426,7 +426,7 @@ modified: "2026-10-14"
 
 > **原句 59:** I want to tell him to take the words back. But I don’t. I want to tell him I feel the same way. But I can’t. I don’t know how I feel.
 
-- **中文理解）：她想让他把那些话收回去。但她没有。她想告诉他她也是同样的感觉。但她不能。她不知道自己的感觉是什么。**
+- **中文理解**：她想让他把那些话收回去。但她没有。她想告诉他她也是同样的感觉。但她不能。她不知道自己的感觉是什么。
 - **关键词**：I want to tell him to take the words back. But I don’t · I want to tell him I feel the same way. But I can’t · I don’t know how I feel
 - **为什么这样写**：作者让三个"我想……但（I want... But）"结构排成一列——她的动作仍然由否定完成，而最后的"我不知道"是全书她对自己最诚实的一句。
 - **读者视角提示**：注意"我不知道自己的感觉是什么"与上一章"我合得上"之间的落差：一天之内她同时拥有两者。
