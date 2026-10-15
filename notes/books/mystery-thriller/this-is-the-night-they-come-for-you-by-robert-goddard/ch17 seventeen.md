@@ -1,0 +1,174 @@
+---
+状态: 未读
+modified: "2026-10-15"
+---
+
+# 17. Chapter Seventeen
+
+## 本章导航
+
+**一句话概括**：Gray 站在被烧毁的 Litster’s Cot 外围，判断这不是意外、也不是本地小青年干的——对方等到房子空了才动手，要的是打字机和自述原稿，而这两样都被他提前转移了。他的另一部手机收到一条来自陌生号码的阿拉伯文短信，让他心里一沉，只能打电话找 Nedjar。屋里那头，Suzette 当着 Wendy 的面向 Oliver 把整件事讲了一遍：父亲的回忆录、一九六五年的巴黎、Zarbi 与 Laloul、Saidi 就是 Laloul、瑞士律师的收买，以及最要紧的一点——桌上这台 Olivetti 与这几页纸就是原件。她随即指出一个细节：最后三页的墨色明显比前面深，像是换了新色带；她由此判断这几页是 Stephen 后来重打、添改过的，用来把 Laloul 的罪证做得更硬，而 Nedjar 多半是知情的共犯。Wendy 决定不再替哥哥兜底，和 Suzette 一起驱车去 Litster’s Cot 要他收手。Nedjar 回电翻译那条短信：「现在停下，就能活。」他劝 Gray 就此停手。
+
+**情感弧线位置**：本章的推进全在「物证」和「转述」两处：读者跟着 Suzette 的讲解把前十六章的线索重新排了一遍，同时第一次看到 Gray 这一侧的代价（房子、车、笔记本电脑）以及对方发出的最后通牒。
+
+**线索与伏笔**：① 匿名阿拉伯文短信 = 「Stop now and live」（现在停下，就能活）；② 最后三页是用新色带重打的 ⇒ Stephen 与 Nedjar 篡改过自述，以加重 Laloul 的罪责；③ 原件与色带页的疑问把 Nedjar 也卷了进来；④ Wendy 与 Suzette 结成同盟，决定逼 Stephen 收手；⑤ 一九九九年 Laloul 携带石油天然气公司的赃款离开阿尔及利亚，Zarbi 随后因贪腐入狱、判三十年；⑥ Nedjar 回忆「他们放火烧了 Le Chélifère」——这也是同一个签名式的警告。
+
+**人物弧线**：Gray——三十年的执念在这一章被压缩成一句「停下就能活」，他也第一次承认自己已经没有发言权；Suzette——从被收买的对象变成证据的持有者与鉴定人（她读出了色带的差异）；Wendy——本章真正的主角，她决定终结这件事，理由不是正义而是家人的安全；Nedjar——从证人位置滑向共犯位置。
+
+**叙事手法**：作者把「讲述」作为本章的引擎：全章信息量最大的一段是 Suzette 的口述（一个人连续说两段长话），而这场口述的读者是 Oliver——此前完全不知情的人。用一次补课同时制造两种效果：读者被提醒了前情，而 Wendy 完成了从「不想知道」到「必须知道」的转变。
+
+---
+
+## 精读
+
+> **原句 1:** ‘This is my father’s typewriter, Oliver. And these papers … are the original confession. Hidden in your garage yesterday by Stephen, Wendy tells me.’
+
+**中文理解**：这是我父亲的打字机，Oliver。而这些纸……就是自述的原件。Wendy 说，是 Stephen 昨天藏在你们车库里的。
+
+**关键词**：`This is my father’s typewriter, Oliver`（这是我父亲的打字机，Oliver）、`the original confession`（自述的原件）、`Hidden in your garage yesterday by Stephen`（昨天被 Stephen 藏在你们车库里）
+
+**为什么这样写**：全章最直接的一句揭示，作者让它由 Suzette 而非 Wendy 说出（她是物的主人，也是此时最有资格宣布的人）。后半句用 `Wendy tells me` 收尾——信息来源被标注清楚，这是本书处理「谁知道了什么」时一贯的谨慎。
+
+**读者视角提示**：注意这句话把上一章的悬念（箱子里是什么）与本章的主线（谁在改证物）在同一句里接上；从这句起，Wendy 家的车库成了证物仓库。
+
+---
+
+> **原句 2:** ‘I think Stephen typed the last three pages. Using a new ribbon. The one in the machine had probably rotted over the years, so he had to buy a new one. Because he wanted to rewrite those pages. He wanted to alter them.’
+
+**中文理解**：我想最后三页是 Stephen 打的，用的是新色带。机器里原来的那条大概年头久了已经烂了，所以他得买条新的。因为他想重写这几页。他想改它们。
+
+**关键词**：`I think Stephen typed the last three pages`（我想最后三页是 Stephen 打的）、`Using a new ribbon`（用的是新色带）、`rotted over the years`（年头久了已经烂了）、`he wanted to rewrite those pages`（他想重写这几页）、`He wanted to alter them`（他想改它们）
+
+**为什么这样写**：本章的推理核心，整段靠一个物质细节撑起：墨色深浅。作者不安排任何仪器、笔迹专家或鉴定，只让 Suzette 用一双用过打字机的人的眼睛作出判断，并把逻辑链条一节节说给 Oliver（因此也说给读者）听。
+
+**读者视角提示**：这是本书最看重的那种证据：不来自档案、不来自口供，来自一件手工器物上的物理差异。也正因如此，它无法被伪造。
+
+---
+
+> **原句 3:** ‘Riad Nedjar must have gone along with it. He denied knowing what happened to the typewriter. But I think he kept it, along with the top copy and the carbon copy of Papa’s confession.
+
+**中文理解**：Riad Nedjar 一定也参与了。他否认知道打字机的下落。可我觉得是他留下了它，连同父亲自述的原稿和复写件一起。
+
+**关键词**：`Riad Nedjar must have gone along with it`（Nedjar 一定也参与了）、`He denied knowing what happened to the typewriter`（他否认知道打字机的下落）、`the top copy and the carbon copy of Papa’s confession`（自述的原稿和复写件）
+
+**为什么这样写**：Suzette 的判断把共犯范围扩大到那个看上去最像朋友的人：`must have gone along with it` 是推断不是指控，而紧接的第二句正是她推断的依据（他曾否认）。作者让「否认」本身成为罪证。
+
+**读者视角提示**：这里埋伏着本书后半段的一个转折点——Nedjar 的沉默与 Laloul 的账，在 Suzette 面前已经开始松动。
+
+---
+
+> **原句 4:** Wendy has lived for fifty-five years without knowing how and why her sister died and could happily have gone on doing so. The truth her brother has sought for so long is now little more than a historical curiosity.
+
+**中文理解**：Wendy 活了五十五年，一直不知道姐姐是怎么死的、为什么死的，而且本来可以就这么活下去。
+
+**关键词**：`Wendy has lived for fifty-five years`（Wendy 活了五十五年）、`without knowing how and why her sister died`（一直不知道姐姐是怎么死的、为什么死的）、`could happily have gone on doing so`（本来可以就这么活下去）
+
+**为什么这样写**：「不知道也可以活下去」——这一句把本书的道德轴心挑明了：真相不是所有受害者的必需品。作者只用一个副词（`happily`）就完成了对 Stephen 全部执念的判决。
+
+**读者视角提示**：把它与第 15 章 Gray 的 `I’m sure that’s where Harriet is` 并读：两个人都在向真相索要某种东西，而 Wendy 在问「谁需要它」。
+
+---
+
+> **原句 5:** For once, Wendy is going to lay down the law to her brother.
+
+**中文理解**：这一次，Wendy 要对自己的哥哥把规矩立下来。
+
+**关键词**：`For once, Wendy is going to lay down the law`（这一次要把规矩立下来）、`to her brother`（对自己的哥哥）
+
+**为什么这样写**：全章最短的一段判断，也是本书对 Wendy 这个人物的定位句：她是家里那个一直让步的人，而让步的额度终于用完了。作者不解释她为什么现在做到，只用 `For once`（这一次）标注这个转变是例外的、也是迟到的。
+
+**读者视角提示**：这句之后，本书的四人关系（Gray、Wendy、Oliver、Suzette）变成两方：一边是「查下去」，一边是「结束它」。
+
+---
+
+> **原句 6:** Find some peace. It’s worth more in the end than any portion of revenge. Believe me, you will not win this now.’
+
+**中文理解**：去找点安宁吧。到最后它比任何一份复仇都值。相信我，这一次你赢不了。
+
+**关键词**：`Find some peace`（去找点安宁吧）、`worth more in the end than any portion of revenge`（到最后它比任何一份复仇都值）、`you will not win this now`（你这次赢不了）
+
+**为什么这样写**：Nedjar 的忠告写得像一句临别赠言，三句话三个层次：建议、比较、宣判。作者让他用最安静的方式说出全书对「复仇」的最终判断——不是不道德，而是不划算、也不会成功。
+
+**读者视角提示**：这句话出自一个当年留在原地、把原件收藏了三十年的人，因此格外有分量：他不是在劝 Gray 放弃，而是在报告自己的结局。
+
+---
+
+> **原句 7:** ‘It wasn’t accidental. You know that. I know that. It was a message.’
+
+**中文理解**：这不是意外。你知道，我知道。这是一条消息。
+
+**关键词**：`It wasn’t accidental`（这不是意外）、`You know that. I know that`（你知道，我知道）、`It was a message`（这是一条消息）
+
+**为什么这样写**：三个短句把火灾重新定义成一种语言。作者让人物互相确认对方也知道，这样就把「判断」升级成「共识」——而共识是本书里最接近证据的东西。
+
+**读者视角提示**：注意与上一章 Bouras 的说法对照：上司要他保证「这种事不会扩大」，而这里两个人已经在谈一个会说话、会继续说话的对家。
+
+---
+
+> **原句 8:** ‘“Stop now and live,”’ Nedjar says without preamble. ‘That is what the message says, Stephen.’
+
+**中文理解**：「现在停下，就能活，」Nedjar 没有寒暄，开口就说。「这就是那条消息的内容，Stephen。」
+
+**关键词**：`“Stop now and live,”`（现在停下，就能活）、`That is what the message says, Stephen`（这就是那条消息的内容）、`without preamble`（没有寒暄）
+
+**为什么这样写**：全章最重要的一句由外国人的口音带来（Nedjar 原句用法偏书面），作者让它短到只有五个词。句式的分量来自它的直接：不威胁、不解释，只给出交换条件。
+
+**读者视角提示**：对方为什么用阿拉伯文发？Nedjar 随即点破：因为这样必须由他翻译，于是同一句话同时送达两个人。作者用一个语言细节把对手的精确写足了。
+
+---
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| distinguish | 分辨、区别 | It’s hard to distinguish between roof trusses, floorboards, carpets and furniture. |
+| carbonized | 碳化的、烧成焦炭的 | The larger objects – oven, fridge, washing machine – are carbonized hulks. |
+| destruction | 毁坏、毁灭 | And there the damage amounts to complete destruction. |
+| exclusively | 专门地、只用于 | Then he realizes it’s his A phone, as he calls it, not his B phone – the one Nedjar insisted he buy and use exclusively for communications between them and with Zarbi’s intermediary. |
+| intermediary | 中间人 | Then he realizes it’s his A phone, as he calls it, not his B phone – the one Nedjar insisted he buy and use exclusively for communications between them and with Zarbi’s intermediary. |
+| tranquillity | 安宁、平静 | Since his illness, he finds he craves tranquillity. |
+| intelligentsia | 知识阶层 | He used Papa as an informant about members of the intelligentsia who bought books from him. |
+| imprisoned | 被监禁 | Zarbi was arrested and imprisoned for corruption shortly afterwards. |
+| incriminating | 使入罪的、可定罪的 | If the confession is authentic, which basically it is – I have no doubt about that – no one will question the highly incriminating little speech Papa quotes Laloul giving close to the end. |
+| fifty-five | 五十五 | Wendy has lived for fifty-five years without knowing how and why her sister died and could happily have gone on doing so. |
+| accomplished | 已经完成、做成了 | Laloul could not have accomplished what he has in this world without being cunning as well as ruthless. |
+| calculated | 盘算过的、经过算计的 | As he calculated you would. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| solemnly | 郑重地、肃穆地 | Gray walks solemnly round the taped-off perimeter of the property, passing at one corner the tiles he had yet to put on the roof, coated in soot. |
+| confined | 局限在、限于 | A few branch-ends on the tree above him are burnt, but otherwise the damage is confined to Litster’s Cot itself. |
+| supposes | 猜想、料想 | He supposes he should be grateful, in a way, that they preferred to strike when he wasn’t there. |
+| grateful | 感激的 | He supposes he should be grateful, in a way, that they preferred to strike when he wasn’t there. |
+| preferred | 宁愿、更喜欢 | He supposes he should be grateful, in a way, that they preferred to strike when he wasn’t there. |
+| bemusedly | 困惑不解地 | Oliver enters the kitchen to find Wendy sitting at the table, staring bemusedly at Suzette Fontaine, who’s sitting opposite her. |
+| confessed | 坦白、供认 | In it he confessed to involvement in the murder in Paris of a presidential aide, Guy Tournier, while he and Harriet were working at Tativille in the spring of 1965. |
+| informant | 线人、告密者 | He used Papa as an informant about members of the intelligentsia who bought books from him. |
+| embezzled | 挪用、侵吞（公款） | He left Algeria in 1999 with a fortune embezzled from the national oil and gas company. |
+| entrusted | 托付、交托 | He gave me a complete copy of the confession: a carbon copy, entrusted to him by Papa. |
+| convinced | 被说服、确信的 | And I guess Stephen and Riad showed me the carbon copy so I’d be convinced it really was Papa’s work and would be less inclined to … take the money. |
+| authentic | 真实的、真迹的 | If the confession is authentic, which basically it is – I have no doubt about that – no one will question the highly incriminating little speech Papa quotes Laloul giving close to the end. |
+| appalling | 令人震惊的、恶劣的 | It’s appalling. |
+| surmised | 推测出、猜到 | ‘Much as you surmised. |
+| ruthless | 无情、狠辣的 | Laloul could not have accomplished what he has in this world without being cunning as well as ruthless. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| blaze | 大火 | He doesn’t know what the fire brigade are ultimately going to determine as the cause of the blaze, but he hasn’t much doubt in his own mind that it wasn’t an accident, or the work of local youths. |
+| damned | 该死的 | ‘Then his damned stirring up of trouble may have put us in danger as well. |
+| debris | 残骸、碎片 | He wonders whether, if he sifted through the debris, he’d find his laptop anywhere, or whether that was removed by those who did this. |
+| fake | 假货、赝品 | His lawyers offered me money – a lot of it – if I would say the confession was a fake. |
+| illness | 疾病 | Since his illness, he finds he craves tranquillity. |
+| lawyers | 律师 | His lawyers offered me money – a lot of it – if I would say the confession was a fake. |
+| message | 消息、留言 | It was a message. |
+| ribbon | 色带、打字带 | ‘Well, it looks as if your father simply changed the ribbon. |
+
+## 一句话总结
+
+三页换了新色带的纸，把一件三十年前的旧案变成了昨天晚上的事；而对方只回了五个字：停下，就能活。
