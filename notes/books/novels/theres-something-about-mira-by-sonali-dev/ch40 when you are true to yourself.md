@@ -489,7 +489,7 @@ modified: "2026-10-14"
 | bathroom | 洗手间 | Reva hasn’t left her side except to use the bathroom. |
 | laughing | 笑着 | When we walk in, Vasu and Reva are laughing about something. |
 | watching | 看着 | When I get in the car and drive away, he stands there watching me go. |
-| belonging | 属于 | Yesterday felt like it belonged to Reva and Vasu, but today I see longing in Krish’s eyes when he looks at her. |
+| belonged | 属于（本章原词形，过去时） | Yesterday felt like it belonged to Reva and Vasu, but today I see longing in Krish’s eyes when he looks at her. |
 
 ### ⭐ 基础
 
