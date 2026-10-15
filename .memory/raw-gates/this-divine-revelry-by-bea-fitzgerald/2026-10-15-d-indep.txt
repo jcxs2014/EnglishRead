@@ -1,0 +1,99 @@
+=== check_struct_indep ===
+  ❌ ch01 chapter one.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch02 daedalus labyrinth lesson.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch03 the tributes arrive.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch04 the door opens.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch05 escape and betrayal.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch06 at sea with theseus.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch07 dice confessions and the storm.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch08 abandoned on the island.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch09 survival and the stranger.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch10 the god of wine and revelry.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch11 what the thiasus really is.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch12 grape wars and new girl.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch13 revelry at cabarnis.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch14 the fire and the truth.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch15 the marriage pact.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch16 marriage negotiations.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch17 the wedding and the constellation.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch18 hera s wedding gift.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch19 the labyrinth of the mind.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch20 the tent on the deck.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch21 testing the curse.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch22 confessions in the cabin.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch23 the villain s ears.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch24 dinner with minos.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch25 the night of comfort.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch26 dancing and discovery.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch27 zosime s truth.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch28 the dance of defiance.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch29 slow and the amethyst.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch30 the queen s revolt.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch31 perseus s interrogation.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch32 the bread in the flame.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch33 the safe room.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch34 medea s crossroads.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch35 the labyrinth of grief.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch36 the theatre of gods.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch37 the theatre of dionysus.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch38 naxos burns.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch39 sunsets and amethyst.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch40 the gates of tiryns.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch41 the gorgon s head.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch42 the underworld.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch43 the river of fire.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch44 the waters of lethe.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch45 the dolphin.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch46 hades bargain.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch47 the open door.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch48 fires burn within.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch49 goddess of labyrinths.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch50 find joy again.md: [summary] 引语块 0 个，超出 3–8 配额
+=== 独立结构扫描：50 个 md，缺陷 50 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+EXIT:1
+=== check_xref_indep ===
+=== chNN 引用 137 处：英文证据报警 0 处 ／ 中文式待人判 38 处 ／ 🔶 同章省略号拼接（提示，不判红）0 处 ===
+--- 中文式待人判清单（前 38 条）---
+  00_情感节点.md:8 → ch01｜## 节点一：血与迷宫中的出生（ch01）
+  00_情感节点.md:18 → ch04｜## 节点二：迷宫门开，弟弟死去（ch04）
+  00_情感节点.md:28 → ch08｜## 节点三：纳克索斯，黑帆远去（ch08-09）
+  00_情感节点.md:40 → ch10｜## 节点四：酒神共同体与第一次被接纳（ch10-14）
+  00_情感节点.md:50 → ch15｜## 节点五：婚约、星座与赫拉的诅咒（ch15-19）
+  00_情感节点.md:64 → ch25｜## 节点六：在克里特夺回叙事（ch25-30）
+  00_情感节点.md:76 → ch34｜## 节点七：美狄亚的钥匙与心智迷宫（ch34-37）
+  00_情感节点.md:88 → ch41｜## 节点八：美杜莎的目光与死亡（ch41-42）
+  00_情感节点.md:98 → ch44｜## 节点九：冥河、放下与"我爱你"（ch44-45）
+  00_情感节点.md:108 → ch47｜## 节点十：从冥界回来，成为迷宫女神（ch47-50）
+  00_概述.md:55 → ch34｜"（ch34）
+  00_金句精选.md:11 → ch01｜**上下文**：ch01 结尾，阿里阿德涅听完母亲讲述的血腥出生真相后，决定烧毁旧生活。
+  00_金句精选.md:20 → ch04｜**上下文**：ch04 弟弟阿斯特里昂死在忒修斯剑下，她被迫以婚约换取逃离克里特。
+  00_金句精选.md:27 → ch08｜**上下文**：ch08 纳克索斯海滩，她看见忒修斯的黑帆正在驶离。
+  00_金句精选.md:34 → ch09｜**上下文**：ch09 独自困在岛上，她翻检与忒修斯的记忆，找出谎言留下的裂缝。
+  00_金句精选.md:41 → ch10｜**上下文**：ch10 她刚认识自称狄俄尼索斯的神秘男子，直觉已经在报警。
+  00_金句精选.md:48 → ch14｜**上下文**：ch14 火灾之后，她听完狄俄尼索斯的身世，开始想象幸福与权力可以共享。
+  00_金句精选.md:55 → ch15｜**上下文**：ch15 她讲完整个逃亡史，狄俄尼索斯没有嘲笑，而是说"你正是时间存在的意义"。
+  00_金句精选.md:62 → ch15｜**上下文**：ch15 两人商定婚约，他这样定义他们的关系。
+  00_金句精选.md:69 → ch17｜**上下文**：ch17 婚礼上，诸神没有出席，他仍然说爱她太重、无法安静。
+  00_金句精选.md:76 → ch18｜**上下文**：ch18 赫拉伪装成阿尔忒弥斯召见她，她用"暴君之女"回应"奖杯会被抢走"的警告。
+  00_金句精选.md:83 → ch18｜**上下文**：ch18 赫拉揭穿身份后，对她的婚礼礼物是诅咒。
+  00_金句精选.md:90 → ch19｜**上下文**：ch19 她被困在赫拉制造的内心迷宫，靠血统与女性谱系找回自己。
+  00_金句精选.md:97 → ch25｜**上下文**：ch25 纳克索斯的夜晚，狄俄尼索斯对她说出这句话。
+  00_金句精选.md:104 → ch27｜**上下文**：ch27 佐西姆坦白自己被父母卖给雅典宫廷，阿里阿德涅这样回答她。
+  00_金句精选.md:111 → ch27｜**上下文**：ch27 晚宴前，她告诉佐西姆女人聚在一起就足够对抗忒修斯们。
+  00_金句精选.md:118 → ch28｜**上下文**：ch28 晚宴上父亲羞辱她，她以愤怒的舞蹈点燃全场，然后与他一起说这句话。
+  00_金句精选.md:125 → ch34｜**上下文**：ch34 美狄亚拒绝教她魔法，只给她这句钥匙。
+  00_金句精选.md:132 → ch35｜**上下文**：ch35 狄俄尼索斯在内心迷宫里崩溃，喊出"我不值得这一切"，她这样回答。
+  00_金句精选.md:139 → ch37｜**上下文**：ch37 宙斯邀请他永久登上奥林波斯山，他拒绝了，并说出这句话。
+  00_金句精选.md:146 → ch39｜**上下文**：ch39 船上，他把"我爱你"贴着她的衣领、喉咙、嘴唇说了一遍又一遍。
+  00_金句精选.md:153 → ch41｜**上下文**：ch41 她用身体挡住美杜莎的目光，被石化死去，他这样哀求。
+  00_金句精选.md:160 → ch42｜**上下文**：ch42 冥界，奥波拉说他们没想清楚就爱上不朽者，她这样回答。
+  00_金句精选.md:167 → ch44｜**上下文**：ch44 她站在被绑的忒修斯面前，发现复仇无法带来温暖。
+  00_金句精选.md:174 → ch47｜**上下文**：ch47 冥界边缘，她终于说出自己真正想要的是活着、跳舞、帮助别人。
+  00_金句精选.md:181 → ch50｜**上下文**：ch50 全书最后一行，他们在纳克索斯重新开始。
+  ch49 goddess of labyrinths.md:80 → ch39｜**读者视角提示**：读者会想起他在 ch39 关于母亲的连串提问——现在那些问题终于有了答案。
+  ch50 find joy again.md:56 → ch47｜**读者视角提示**：读者会想起 ch47 里他说过的精神崩溃与幻觉，现在看到他学会与它共存。
+EXIT:0
+=== check_analysis_indep ===
+抽出分析层英文片段 376 条
+✅ 全部片段在全书 text/ 逐字命中
+EXIT:0

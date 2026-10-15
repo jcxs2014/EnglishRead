@@ -1,0 +1,150 @@
+===== 01 ch01 chapter one.md =====
+ch01 chapter one.md: 6/6 in ch01 text
+exit:0
+===== 02 ch02 daedalus labyrinth lesson.md =====
+ch02 daedalus labyrinth lesson.md: 6/6 in ch02 text
+exit:0
+===== 03 ch03 the tributes arrive.md =====
+ch03 the tributes arrive.md: 6/6 in ch03 text
+exit:0
+===== 04 ch04 the door opens.md =====
+ch04 the door opens.md: 6/6 in ch04 text
+exit:0
+===== 05 ch05 escape and betrayal.md =====
+ch05 escape and betrayal.md: 6/6 in ch05 text
+exit:0
+===== 06 ch06 at sea with theseus.md =====
+ch06 at sea with theseus.md: 6/6 in ch06 text
+exit:0
+===== 07 ch07 dice confessions and the storm.md =====
+ch07 dice confessions and the storm.md: 6/6 in ch07 text
+exit:0
+===== 08 ch08 abandoned on the island.md =====
+ch08 abandoned on the island.md: 6/6 in ch08 text
+exit:0
+===== 09 ch09 survival and the stranger.md =====
+ch09 survival and the stranger.md: 7/7 in ch09 text
+exit:0
+===== 10 ch10 the god of wine and revelry.md =====
+ch10 the god of wine and revelry.md: 6/6 in ch10 text
+exit:0
+===== 11 ch11 what the thiasus really is.md =====
+ch11 what the thiasus really is.md: 6/6 in ch11 text
+exit:0
+===== 12 ch12 grape wars and new girl.md =====
+ch12 grape wars and new girl.md: 6/6 in ch12 text
+exit:0
+===== 13 ch13 revelry at cabarnis.md =====
+ch13 revelry at cabarnis.md: 6/6 in ch13 text
+exit:0
+===== 14 ch14 the fire and the truth.md =====
+ch14 the fire and the truth.md: 6/6 in ch14 text
+exit:0
+===== 15 ch15 the marriage pact.md =====
+ch15 the marriage pact.md: 6/6 in ch15 text
+exit:0
+===== 16 ch16 marriage negotiations.md =====
+ch16 marriage negotiations.md: 6/6 in ch16 text
+exit:0
+===== 17 ch17 the wedding and the constellation.md =====
+ch17 the wedding and the constellation.md: 6/6 in ch17 text
+exit:0
+===== 18 ch18 hera s wedding gift.md =====
+ch18 hera s wedding gift.md: 6/6 in ch18 text
+exit:0
+===== 19 ch19 the labyrinth of the mind.md =====
+ch19 the labyrinth of the mind.md: 6/6 in ch19 text
+exit:0
+===== 20 ch20 the tent on the deck.md =====
+ch20 the tent on the deck.md: 6/6 in ch20 text
+exit:0
+===== 21 ch21 testing the curse.md =====
+ch21 testing the curse.md: 6/6 in ch21 text
+exit:0
+===== 22 ch22 confessions in the cabin.md =====
+ch22 confessions in the cabin.md: 6/6 in ch22 text
+exit:0
+===== 23 ch23 the villain s ears.md =====
+ch23 the villain s ears.md: 5/5 in ch23 text（另有 1 条短引语未校验）
+exit:0
+===== 24 ch24 dinner with minos.md =====
+ch24 dinner with minos.md: 5/5 in ch24 text（另有 1 条短引语未校验）
+exit:0
+===== 25 ch25 the night of comfort.md =====
+ch25 the night of comfort.md: 6/6 in ch25 text（另有 1 条短引语未校验）
+exit:0
+===== 26 ch26 dancing and discovery.md =====
+ch26 dancing and discovery.md: 6/6 in ch26 text（另有 1 条短引语未校验）
+exit:0
+===== 27 ch27 zosime s truth.md =====
+ch27 zosime s truth.md: 7/7 in ch27 text
+exit:0
+===== 28 ch28 the dance of defiance.md =====
+ch28 the dance of defiance.md: 7/7 in ch28 text（另有 1 条短引语未校验）
+exit:0
+===== 29 ch29 slow and the amethyst.md =====
+ch29 slow and the amethyst.md: 6/6 in ch29 text
+exit:0
+===== 30 ch30 the queen s revolt.md =====
+ch30 the queen s revolt.md: 7/7 in ch30 text
+exit:0
+===== 31 ch31 perseus s interrogation.md =====
+ch31 perseus s interrogation.md: 6/6 in ch31 text
+exit:0
+===== 32 ch32 the bread in the flame.md =====
+ch32 the bread in the flame.md: 7/7 in ch32 text
+exit:0
+===== 33 ch33 the safe room.md =====
+ch33 the safe room.md: 7/7 in ch33 text
+exit:0
+===== 34 ch34 medea s crossroads.md =====
+ch34 medea s crossroads.md: 7/7 in ch34 text
+exit:0
+===== 35 ch35 the labyrinth of grief.md =====
+ch35 the labyrinth of grief.md: 8/8 in ch35 text
+exit:0
+===== 36 ch36 the theatre of gods.md =====
+ch36 the theatre of gods.md: 7/7 in ch36 text
+exit:0
+===== 37 ch37 the theatre of dionysus.md =====
+ch37 the theatre of dionysus.md: 8/8 in ch37 text
+exit:0
+===== 38 ch38 naxos burns.md =====
+ch38 naxos burns.md: 7/7 in ch38 text
+exit:0
+===== 39 ch39 sunsets and amethyst.md =====
+ch39 sunsets and amethyst.md: 7/7 in ch39 text
+exit:0
+===== 40 ch40 the gates of tiryns.md =====
+ch40 the gates of tiryns.md: 8/8 in ch40 text
+exit:0
+===== 41 ch41 the gorgon s head.md =====
+ch41 the gorgon s head.md: 8/8 in ch41 text
+exit:0
+===== 42 ch42 the underworld.md =====
+ch42 the underworld.md: 8/8 in ch42 text
+exit:0
+===== 43 ch43 the river of fire.md =====
+ch43 the river of fire.md: 8/8 in ch43 text
+exit:0
+===== 44 ch44 the waters of lethe.md =====
+ch44 the waters of lethe.md: 8/8 in ch44 text
+exit:0
+===== 45 ch45 the dolphin.md =====
+ch45 the dolphin.md: 8/8 in ch45 text
+exit:0
+===== 46 ch46 hades bargain.md =====
+ch46 hades bargain.md: 8/8 in ch46 text
+exit:0
+===== 47 ch47 the open door.md =====
+ch47 the open door.md: 8/8 in ch47 text
+exit:0
+===== 48 ch48 fires burn within.md =====
+ch48 fires burn within.md: 8/8 in ch48 text
+exit:0
+===== 49 ch49 goddess of labyrinths.md =====
+ch49 goddess of labyrinths.md: 8/8 in ch49 text
+exit:0
+===== 50 ch50 find joy again.md =====
+ch50 find joy again.md: 8/8 in ch50 text
+exit:0

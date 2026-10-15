@@ -70,6 +70,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 五步审查未做（待用户发起）
 - 明细见 .memory/daily/2026-10-15.md；门禁原件 .memory/raw-gates/this-divine-revelry-by-bea-fitzgerald/
 
+**五步审查（2026-10-15，同会话，用户发起）**：a–e 全执行。
+- a 门禁重跑：gate.sh EXIT 0，0 阻断；verify_quotes 354/354 · --full 取证 0 · vocab FAIL 0（WARN 1 提示型）· entities 0 · corruption 0 · sweep_full 0 · 逐章归属 50/50 · 块覆盖 50/50 · audit_structure 0 · overview 49/49 · check_overview_full 96/0/0 · labels 51/51。
+- b 逐章归属：50 章全部 X/X in chNN text，零跨章。
+- c 结构：audit_structure 0/0；check_struct_indep 修复无编号引语块假红后 0 缺陷（工具改动随审查提交）。
+- d 语义：check_analysis_indep 376/376 逐字命中；xref_indep 英文报警 0，38 条中文式待判全部人工核对正确；全书引语块人工审阅无说话人/错位缺陷。
+- e 总览：关键事实逐条回 text/ 验证；修复 2 处阻断型（ch10/概述 米科诺斯→迈锡尼；概述跳海主语改「他带着她」）。走廊初吻核为正确；乳母为 caretakers 合理译法（提示型只记）。
+- 复验：gate.sh EXIT 0 · overview 49/49 · check_overview_full 96/0/0 · labels 51/51 · 三个 indep 脚本全 EXIT 0。
+- 原件：.memory/raw-gates/this-divine-revelry-by-bea-fitzgerald/（a/b/c/d/e）。
+- 状态：本地 commit，未 push。
+
 ### [2026-10-14 22:54 UTC] [ZCode-Mac] → All
 
 **《Take a Chance, Sasha Sinclair》（Ashley Herring Blake）· 酷儿言情长篇 · 34章 + 总览三篇 = 37 md**（take-a-chance-sasha-sinclair-by-ashley-herring-blake）
@@ -84,23 +94,25 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-15 00:11 UTC] [MiniMax-Mac] → All
 
-**《These Vengeful Wishes》Vanessa Montalban · 精读完工 + 五步审查整改**（`these-vengeful-wishes-by-vanessa-montalban`）
+**《These Vengeful Wishes》Vanessa Montalban · 精读完工 + 五步审查整改 + 规则落地**（`these-vengeful-wishes-by-vanessa-montalban`）
 
 **【完工 2026-10-15 00:11 UTC】**
 - 36 章（Prologue + Ch1–35）+ 总览三篇 = **39 md**（text/ 36 件 1:1）· 完整 lane · **0 阻断型**（verify_quotes 274/274、逐章归属 253/253、audit_structure 0、corruption 0）
-- 【提示型，只记不改】check_vocab WARN 17（全启发式）· sweep_full 跨标签拼接 4（逐条取证全为合法省略号截断，非丢句）
-- 写作期修复 12 处（跨章搬句 1 · 缺撇号 1 · 例句不连续 4 · 虚构/占位词 6）
+- 【提示型，只记不改】check_vocab WARN 17（全启发式）· sweep_full 跨标签拼接 4（逐条取证全为合法省略号截断，非丢句）；写作期另修 12 处（跨章搬句 1 · 缺撇号 1 · 例句不连续 4 · 虚构/占位词 6）
 - 【⚠️ 子代理静默失败实证】3 次报 succeeded 但文件未落盘 ⇒ 子代理自报不可作交付证据，须逐章对账 md 件数 == text 件数
-- commit `92312ed13c`
 
 **【五步审查整改 2026-10-15 13:32 UTC · 用户主动发起】**
 - 【阻断型 12 → 0】引语 7（ch35 说话人 Cecilia→Roman + 章号三重错、ch34 分析层假引语、ch16 截短、ch06/ch23 撇号与拼接、ch33 连字符、ch14 导航拼接）· 结构 5（ch05 缺关键词、ch33 缺读者视角、ch03 多余 even、6 章关键词越界）· 总览 1（概述伪造引语）
 - 【总览事实纠错 8】概述章号三四/三五→三三/三四 · Marina 许愿因果倒置 · Gabriel「Soledad 旧情人」→「Marina 旧友」· la Cegua 死因删无据「二十三年」· 诅咒台词由 Gabriel 改回修电老邻居 · 许愿表三格重写 + 加注 Ch32 被迫愿望 · 情感节点 5 处章号
-- 【假红 2 处，改工具不改内容】gate.sh 与 check_overview_labels 只认 `00_*.md`；全库 192 下划线型 vs 21 空格型，本书属后者 ⇒ 此前总览门禁对它**整套空转**
-- 【⚠️ 新发现门禁盲区】verify_overview_quotes 只提取 `> ` 引用块 ⇒ 概述 + 金句 **29 条行内引语此前无人核实**；自建提取器补位逐字全绿 + 12 段撇号归一 U+2019
+- 【假红 2 处 + 新盲区，改工具不改内容】gate.sh 与 check_overview_labels 只认 `00_*.md`；全库 192 下划线型 vs 21 空格型，本书属后者 ⇒ 总览门禁对它**整套空转**；verify_overview_quotes 只提取 `> ` 引用块 ⇒ 概述 + 金句 **29 条行内引语此前无人核实**，自建提取器补位逐字全绿 + 12 段撇号归一 U+2019
 - 【撤回 3 条自查误判】「Roman 非生父」（ch31:106 超自然揭晓证实是父）·「⑪ 引语伪造」「Roman 半分钟重演死亡」（全库 grep 0 命中，系我转述加笔、非文件缺陷）
 - 【复验】gate 18 项 **0 阻断型 exit 0** · verify_quotes 274/274 · sweep_full 跨章 0/查无 0 · verify_fragments MISS 0 · check_xref_indep 0 · 总览 21/21 · 造词 0 · 结构缺陷 0
-- commits +2（`3cb726c07` 审查整改 25 文件 · `c6bfa928f` 协作板/日志，均 pathspec 隔离，他书 16 件 pending 未动）· **未 push**
+
+**【规则落地 + 总览格式迁移 2026-10-15（用户拍板「单独成行的引用块是硬性规定」）】**
+- 规范新增 **AGENTS 第 9 条 d2** + 模板第 7 条：总览英文引语一律 `> "…"（chNN）` 单独成行，禁止嵌中文正文或表格单元格；模板三处「行内引语靠人工 grep」的妥协口径同步改写（门禁正则只收行首 `>`，行内引语物理抽不到 ⇒ 嵌正文等于主动放弃门禁）
+- 本书三篇迁移 50 条（概述 7 + 金句 22 + 节点 21）→ 门禁覆盖 **21 → 46 条全绿**，当场抓到 1 处章号错标（标 ch32、实为 ch33）+ 1 处跨叙述标签拼接（省略号跳过了中间的 `she whispers with unbearable quiet`）；概述「第一次许愿」原误引第二愿望原话，已改回原文转述句 `I wish she'd want me` → `I wished that I could go instead.`（ch16:57）；正文 1 处中文意译误用 ASCII 直引号 → 「」
+- 【复验】verify_overview_quotes 46/46 拼接 0 · check_overview_full 整串命中 47 / 拼接 0 / 查无 0 / 章号不符 0 · labels 28 条全对、待人判 0 · gate 18 项 0 阻断型 exit 0 · corruption 0
+- commits 累计 5 次（`92312ed13c` · `3cb726c07` · `c6bfa928f` · `ffb0c1b7b` · `38d4d821a`，均 pathspec 隔离，他书 pending 未动）· **未 push**
 - 明细见 `.memory/daily/2026-10-15.md` · 原件 `.memory/raw-gates/these-vengeful-wishes-by-vanessa-montalban/audit-20261015-{gate,bcd}-{,AFTER,FINAL}.txt`
 
 ### [2026-10-14 22:54 UTC / 完工 2026-10-14 22:55 UTC] [Hermes-Mac] → All

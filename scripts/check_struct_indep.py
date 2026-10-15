@@ -35,6 +35,10 @@ from pathlib import Path
 TIER = ["### ⭐⭐⭐ 高级", "### ⭐⭐ 进阶", "### ⭐ 基础"]
 CIRCLED = "①②③④⑤⑥⑦⑧⑨⑩"
 
+# 言情/无编号引语块：`> "…"`（或弯引号）单独成块，没有 `原句 N:` 抬头。
+# 只在这本书完全没有 `> **原句` 时启用，避免与编号/抬头独占形态混抽。
+UNNUM_QRE = re.compile(r"^> ([\"'\u201c\u201d\u2018\u2019].*)$", re.M)
+
 
 def _circled_index(ch):
     """圈数字 → 序号。**不能查 CIRCLED 表**：那张表只到 ⑩，而本档位的 QRE 认到 ⑳
@@ -62,7 +66,7 @@ PROFILES = {
         #    判据同 `scripts/verify_quotes.py`（2026-10-08 已修）与
         #    `scripts/audit_structure.py`：**两种抬头都认**，引语内容可选。
         "QRE": re.compile(r'^> \*\*原句 (\d+):\*\*(?: (.+))?$', re.M),
-        "NUM": lambda m: int(m.group(1)),
+        "NUM": lambda m: int(m.group(1)) if (m.lastindex and m.group(1).isdigit()) else 0,
         "RANGE": (3, 8),
     },
     "nonfiction": {  # 非虚构论述档（论证结构 + 10 处五子项）
@@ -100,7 +104,7 @@ PROFILES = {
         #    子项集并无此名）。判据同 `scripts/verify_quotes.py`（2026-10-08 已修）
         #    与 `scripts/audit_structure.py`：**两种抬头都认**，引语内容可选。
         "QRE": re.compile(r'^> \*\*原句 (\d+):\*\*(?: (.+))?$', re.M),
-        "NUM": lambda m: int(m.group(1)),
+        "NUM": lambda m: int(m.group(1)) if (m.lastindex and m.group(1).isdigit()) else 0,
         "RANGE": (3, 8),
         "MARK": ["## 本章导航", "## 精读"],
     },
@@ -258,6 +262,8 @@ def calibrate_sub(mds, prof):
         except OSError:
             continue
         marks = list(qre.finditer(s))
+        if not marks and "> **原句" not in s:
+            marks = list(UNNUM_QRE.finditer(s))
         for i, m in enumerate(marks):
             end = marks[i + 1].start() if i + 1 < len(marks) else len(s)
             if i + 1 == len(marks):
@@ -442,8 +448,10 @@ def check(md: Path, sub_override=None, book_dir: Path = None):
             out.append(f"⚠ [{prof}] 词汇档位「{t}」为空表头（该档无词条）")
     # --- ③ 编号连续 ---
     nums = [NUM(m) for m in QRE.finditer(s)]
+    if not nums and "> **原句" not in s:
+        nums = [0] * len(UNNUM_QRE.findall(s))
     marks_have_yuanju = any(m.group(1) for m in QRE.finditer(s))
-    if nums and nums != list(range(1, len(nums) + 1)):
+    if nums and all(n > 0 for n in nums) and nums != list(range(1, len(nums) + 1)):
         out.append(f"[{prof}] 引语编号不连续：{nums}")
     # --- ⑤ 块数配额 ---
     # ⚠️ 2026-09-30：本档位的 QRE 自从同时认两种抬头（`**①** "…"` 与 `> **原句 N:**`），
@@ -504,6 +512,8 @@ def check(md: Path, sub_override=None, book_dir: Path = None):
         out.append(f"[{prof}] 引语块 {len(nums)} 个，超出 {lo_hi[0]}–{lo_hi[1]} 配额")
     # --- ① ② 逐块子项（硬性、不推断、查重、查序）---
     marks = list(QRE.finditer(s))
+    if not marks and "> **原句" not in s:
+        marks = list(UNNUM_QRE.finditer(s))
     for i, m in enumerate(marks):
         if i + 1 < len(marks):
             end = marks[i + 1].start()
