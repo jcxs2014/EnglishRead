@@ -29,7 +29,7 @@ modified: "2026-10-14"
 
 - **中文理解**：她一直在抗拒这个比较，但当 Druv 问她更喜欢哪座城市时，她不得不认真想了想。她觉得那与其说是关于城市，不如说是关于她在这两座城市里分别是谁。
 - **关键词**：resisting the comparison · which of the two cities I prefer · who I am in each of them
-- **为什么这样写**：作者让她的答案把地理问题转成了身份问题——这是全书她第一次明确说出"我在不同地方是不同的人"。
+- **为什么这样写**：作者让她的答案把地理问题转成了身份问题——这是全书她第一次把"我是谁"明确挂到地点上（who I am in each of them），而不是评价城市。
 - **读者视角提示**：注意下一句"我在纽约做成了一件了不起的事。我从来没有给芝加哥机会"：她对芝加哥的判词是"我没给它机会"，不是"它不好"。
 
 > **原句 3:** “Who are you, and what did you do with my fiancée?” It’s not the first time he’s said that since I got home.
@@ -57,7 +57,7 @@ modified: "2026-10-14"
 
 - **中文理解**：自从两周前道别，她就没有 Krish 的消息。她几次看到他消息里那三个点，但在她们最后一次交流之后他什么也没说。
 - **关键词**：I haven’t heard from Krish · the three dots in his messages · he’s said nothing after our last exchange
-- **为什么这样写**：作者让"三个点"（正在输入的提示）成为全书最安静的牵挂——他想说话，说了又删。这是 Krish 唯一一次不用语言说话。
+- **为什么这样写**：作者让"三个点"（正在输入的提示）成为全书最安静的牵挂——他想说话，说了又删。这是全书第一次出现这种"无声的在场"（第二十七章、第三十七章还会再出现）。
 - **读者视角提示**：注意"从 Reva 家飞奔去拉瓜迪亚、包夹在两人之间、奇迹般赶上了飞机"：那场告别的仓促是这个悬念的起点。
 
 > **原句 7:** Me: Don’t you think there were holes in Reva’s story?
@@ -127,7 +127,7 @@ modified: "2026-10-14"
 
 - **中文理解**："为什么是我？你为什么挑了我？"
 - **关键词**：Why me · Why did you pick me
-- **为什么这样写**：作者让这七个字成为这一章的核心问题——全书她一直在被挑选（父母挑、Druv 挑、未婚夫家挑），这是她第一次问"为什么"。
+- **为什么这样写**：作者让这七个字成为这一章的核心问题——全书她一直在被挑选（父母挑、Druv 挑、未婚夫家挑），这是她第一次把"被挑选"这件事本身当成问题提出来。
 - **读者视角提示**：注意她自己补的那句"我知道这让他听起来像个从宫廷贵妇里挑新娘的神话王子"：她的自嘲是她的护甲。
 
 > **原句 17:** “You’re kind, and you listen, and you were truly interested in understanding me.”
@@ -211,7 +211,7 @@ modified: "2026-10-14"
 
 - **中文理解**："不，Druv。这不是关于我的速度。Rumi 是个建筑师，在纽约为剧院设计布景。他的一部戏去年得了托尼奖提名。他不是罪犯。他从来不是。"
 - **关键词**：This is not about my speed · Rumi is an architect who works on designing sets for the theater in New York · One of his plays was nominated for a Tony last year · He’s not a criminal. He never was
-- **为什么这样写**：作者让她用事实（建筑师／托尼奖提名）为 Rumi 正名——这是全书第一次有人把他的真实履历说出来，而说的人是他妹妹。
+- **为什么这样写**：作者让她用事实（建筑师／托尼奖提名）为 Rumi 正名——这是全书第一次有人替他把履历完整说出来——此前只有他自己在第七章说过"我辞掉了建筑师的工作去做布景"，而说的人是他妹妹。
 - **读者视角提示**：注意"这不是关于我的速度"：她在拒绝对女性的经典指控（你太急了／你太激动了）。
 
 > **原句 29:** “I was never estranged from him. My parents are. My relationship with him was strained because I never stood up for him. It isn’t anymore.
