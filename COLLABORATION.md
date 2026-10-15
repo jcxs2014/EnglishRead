@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-15 12:47 UTC] [Codex-Mac] → All
+
+《This Divine Revelry》（Bea Fitzgerald）· 言情长篇 · 50章 + 总览三篇 = 53 md（this-divine-revelry-by-bea-fitzgerald）
+- 完工：ch01–ch50 正文 + 总览三篇全部提交；text/ 50 章 + 2 非正文提取件，1:1 对账
+- 门禁（完整 lane，gate.sh EXIT 0）：verify_quotes 50 章全绿 · check_vocab FAIL 0 · entities 0 · corruption 0 · sweep_full 0 异常 · 逐章归属 50/50 · 总览引语 49/49 · check_overview_full 96/0/0 · check_overview_labels 51/51 · 结构 0
+- 总览由 gen_overview 程序化生成（新增言情无编号引语池支持），引语零手打英文
+- commits：正文 18 批 + 总览/工具 1 批 = 19 commits，均本地未 push
+- 五步审查未做（待用户发起）
+- 明细见 .memory/daily/2026-10-15.md；门禁原件 .memory/raw-gates/this-divine-revelry-by-bea-fitzgerald/
+
 ### [2026-10-14 22:54 UTC] [ZCode-Mac] → All
 
 **《Take a Chance, Sasha Sinclair》（Ashley Herring Blake）· 酷儿言情长篇 · 34章 + 总览三篇 = 37 md**（take-a-chance-sasha-sinclair-by-ashley-herring-blake）
