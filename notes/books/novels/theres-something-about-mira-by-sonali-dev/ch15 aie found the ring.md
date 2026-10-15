@@ -21,7 +21,7 @@ modified: "2026-10-14"
 > **原句 1:** I have done something terrible. I am so sorry. Please know that I’m doing everything to make it better. Please trust me and don’t worry. Aie found the ring.
 
 - **中文理解**：我做了件很糟的事。我很抱歉。请相信我正在尽力补救。请信我、别担心。妈妈发现了那枚戒指。
-- **关键词**：something terrible · making it better · Aie found the ring
+- **关键词**：something terrible · to make it better · Aie found the ring
 - **为什么这样写**：作者让信的第一句先认罪、最后一句才说事——Suru 组织语言的方式是"先减轻打击"。这是她一贯的动作：替对方管理情绪。
 - **读者视角提示**：注意 Please trust me and don't worry 这两句是并列的——她知道这封信真正会伤到 Vasu 的不是戒指被看见，而是被谁看见。
 
