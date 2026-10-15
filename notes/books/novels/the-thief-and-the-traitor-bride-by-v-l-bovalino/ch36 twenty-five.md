@@ -19,7 +19,7 @@ modified: "2026-10-14"
 
 ## 精读
 
-> **原句 1:* "Caspian threaded his fingers through her hair, gripping Nore by the nape of her neck as he pulled her against him. She'd always loved this: his certainty, his strength."
+> **原句 1:** "Caspian threaded his fingers through her hair, gripping Nore by the nape of her neck as he pulled her against him. She'd always loved this: his certainty, his strength."
 
 **中文理解：** Caspian 把手指插进她的头发，握住她的后颈把她拉向自己。她一直很爱这一点：他的确定，他的力量。
 
@@ -29,7 +29,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 后颈是她最熟悉的控制点：ch05 他吻她喉咙、ch16 他用皮绳绑她。
 
-> **原句 2:* "She knew her scars were exposed, like this, and wholly his—but he did not make her feel like they were worth his notice."
+> **原句 2:** "She knew her scars were exposed, like this, and wholly his—but he did not make her feel like they were worth his notice."
 
 **中文理解：** 她知道，这样她的疤都露在外面，完全归他所有——但他没有让她觉得那些疤值得他注意。
 
@@ -39,7 +39,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 与 ch08 他看见她疤时的震惊形成对照：那时他只是震惊，现在他选择不看。
 
-> **原句 3:* "I want you to be selfish with me."
+> **原句 3:** "I want you to be selfish with me."
 
 **中文理解：** "我要你对我自私。"
 
@@ -49,7 +49,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 与 ch22 "I never want to see you again" 是同一人的两次极端。
 
-> **原句 4:* "Sex was a mechanical decision: she needed relief, so she took it where she could find it."
+> **原句 4:** "Sex was a mechanical decision: she needed relief, so she took it where she could find it."
 
 **中文理解：** 性是一个机械的决定：她需要缓解，所以她在哪找到就在哪拿。
 
@@ -69,7 +69,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 注意他这次潜入没有打招呼——他已经把"为她背叛"当成默认值了。
 
-> **原句 6:* "He was not just another body, not just another lover, not just another means to an end."
+> **原句 6:** "He was not just another body, not just another lover, not just another means to an end."
 
 **中文理解：** 他不只是另一具身体，不只是另一个情人，不只是另一种达到目的的手段。
 

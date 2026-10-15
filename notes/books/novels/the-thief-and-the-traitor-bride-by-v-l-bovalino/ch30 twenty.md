@@ -39,7 +39,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 与 ch28 "I fear sometimes I spend more time with the ghosts than the living" 是同一句话的两半。
 
-> **原句 3:* "That she would take all power from everywhere if it served her."
+> **原句 3:** "That she would take all power from everywhere if it served her."
 
 **中文理解：** 如果对她有利，她可以把所有地方的力量全部拿走。
 
@@ -49,7 +49,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这与 Nore 在 ch15 从 Aren 处听来的"另一种叙事"（她不是有意的，是系统出了问题）形成对冲——本书从不给单一版本。
 
-> **原句 4:* "In some variants, more popular in Auldlochan, Retarik returned with two children: a mage and a well. One to rule, and the other to secure an alliance with the mainland."
+> **原句 4:** "In some variants, more popular in Auldlochan, Retarik returned with two children: a mage and a well. One to rule, and the other to secure an alliance with the mainland."
 
 **中文理解：** 在某些变体里，在 Auldlochan 更流行的版本中：女神归来时带回两个孩子，一个法师，一个井。一个留下统治，另一个与大陆结盟。
 
@@ -59,7 +59,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 注意"to rule"与 "to secure an alliance"的分工：姐姐是功能，妹妹也是功能。
 
-> **原句 5:* "It could also be 'The Sacrifice of Lady Aban.'"
+> **原句 5:** "It could also be 'The Sacrifice of Lady Aban.'"
 
 **中文理解：** 也可以是"Aban 夫人的献祭。"
 
@@ -69,7 +69,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这个 "Sacrifice" 将在 ch45 得到最残酷的实现。
 
-> **原句 6:* "Alone."
+> **原句 6:** "Alone."
 
 **中文理解：** 独自。
 

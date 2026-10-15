@@ -29,7 +29,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 与 ch22 "the thief's skin hot on hers" 对照：她把刀伤与亲密混为一场，无法分开。
 
-> **原句 2:* "I never took you for a fool, girl," Edith said. "But I have been wrong before, and it seems I was wrong again."
+> **原句 2:** "I never took you for a fool, girl," Edith said. "But I have been wrong before, and it seems I was wrong again."
 
 **中文理解：** "我从来没把你看成傻瓜，姑娘，"Edith 说。"但我以前也看错过，看来我又错了一次。"
 
@@ -49,7 +49,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这正是 ch02 那句 "Are you happy" 的阴暗版本——她的母爱全部服务于这个目标。
 
-> **原句 4:* "She walked across the room, holding her head high… She knelt in front of him, still not meeting his gaze. Nore reached for his hand and pulled off his ring, the symbol of their marriage. "That one," she said."
+> **原句 4:** "She walked across the room, holding her head high… She knelt in front of him, still not meeting his gaze. Nore reached for his hand and pulled off his ring, the symbol of their marriage. "That one," she said."
 
 **中文理解：** 她高高抬起头走过房间……她在他面前跪下，仍然不去看他的眼睛。Nore 伸手握住他的手，摘下他的戒指，他们婚姻的象征。"那根，"她说。
 
@@ -59,7 +59,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 与 ch26 他把戒指戴在断指上呼应：最终她还是取下了它。
 
-> **原句 5:* "Finch," Nore had said, without a second thought.
+> **原句 5:** "Finch," Nore had said, without a second thought.
 
 **中文理解：** "Finch，"Nore 说，没有多想。
 
@@ -69,7 +69,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 与 ch09 的 poppy finch 完全闭环：他叫她 Finch 是"好运与家"，她自称 Finch 是"处刑与流亡"。
 
-> **原句 6:* "She didn't even feel his hand as it snaked into her pocket. She didn't notice that, when she handed the keys back to the guard, she was short one. She didn't know she had already been used."
+> **原句 6:** "She didn't even feel his hand as it snaked into her pocket. She didn't notice that, when she handed the keys back to the guard, she was short one. She didn't know she had already been used."
 
 **中文理解：** 她甚至没感觉到他的手滑进她的口袋。她没有注意到，当她向守卫交还钥匙时，少了一把。她不知道自己已经被利用了。
 
@@ -79,7 +79,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这是她背上伤疤的直接原因；而背上的疤（ch08 Caspian 看到时震惊）正是她的耻辱柱。
 
-> **原句 7:* "That her conniving husband, in his last act against her, had betrayed her one final time, and the greatest thief in Nettlepool had stolen the key from her and fled the city with her heart in his grasp."
+> **原句 7:** "That her conniving husband, in his last act against her, had betrayed her one final time, and the greatest thief in Nettlepool had stolen the key from her and fled the city with her heart in his grasp."
 
 **中文理解：** 她那诡计多端的丈夫，在对她做的最后一件事里，最后一次背叛了她——Nettlepool 最了不起的小偷从她那里偷走钥匙，带着她的心逃离了这座城市。
 

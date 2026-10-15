@@ -19,7 +19,7 @@ modified: "2026-10-14"
 
 ## 精读
 
-> **原句 1:* "It was easier, for now, to be alone. Especially since they were closing in on the potential artifact—she still wanted to know what exactly Locke was up to, even if she was no longer certain what she would do with that information."
+> **原句 1:** "It was easier, for now, to be alone. Especially since they were closing in on the potential artifact—she still wanted to know what exactly Locke was up to, even if she was no longer certain what she would do with that information."
 
 **中文理解：** 暂时来说，独处更轻松。尤其是她们正在逼近那个可能的 artifact——她还是想知道 Locke 到底在干什么，即使她已经不确定拿到那个情报之后要做什么。
 
@@ -29,7 +29,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这与 ch24 Tern 转达的雇主指令（"Finish it, and come home. That is the duchess's message."）完全背道而驰——她要的不是交差，是理解。
 
-> **原句 2:* "She tried to remember the last time she was actually happy—not content. Not pleased with her work, or proud of it, or busy. But the only time she could recall herself genuinely happy… She hesitated, surveying the room for Caspian."
+> **原句 2:** "She tried to remember the last time she was actually happy—not content. Not pleased with her work, or proud of it, or busy. But the only time she could recall herself genuinely happy… She hesitated, surveying the room for Caspian."
 
 **中文理解：** 她试着回忆上一次真正快乐的时刻——不是满足。不是为工作高兴，或为它骄傲，或忙碌。而她唯一记得的真正快乐的时刻……她犹豫了，在房间里寻找 Caspian。
 
@@ -39,7 +39,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 与 ch02 Celestine 的 "Are you happy?" 首尾呼应：五年前她说"不"，现在她发现自己曾经"是"。
 
-> **原句 3:* "The neckline of her gown showed off her scars, as if they too were a point of pride. Her skirt parted down the middle, and she wore fitted trousers underneath, and boots with a similar armor pattern to her corset. Her hair was loose, falling across her shoulders in a mess of dark waves. On her right hip, she wore a blade, as if this weren't a ballroom at all."
+> **原句 3:** "The neckline of her gown showed off her scars, as if they too were a point of pride. Her skirt parted down the middle, and she wore fitted trousers underneath, and boots with a similar armor pattern to her corset. Her hair was loose, falling across her shoulders in a mess of dark waves. On her right hip, she wore a blade, as if this weren't a ballroom at all."
 
 **中文理解：** 她礼服的领口露出她的疤，仿佛它们也是骄傲的一部分。她的裙子从中间分开，里面穿着合身的马裤，靴子与紧身胸衣是同一种盔甲纹样。她的头发披散着，乱糟糟的深色波浪垂在肩上。她右髋上佩着一把刀，好像这里根本不是舞会。
 
@@ -49,7 +49,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 疤、刀、盔甲：与 ch23 她下颌到喉咙那道疤是同一种语言。
 
-> **原句 4:* "Locke was stunning in her competence; Nore had no doubt that, if push came to shove, the High Lady would kill her without a second thought."
+> **原句 4:** "Locke was stunning in her competence; Nore had no doubt that, if push came to shove, the High Lady would kill her without a second thought."
 
 **中文理解：** Locke 的惊艳之处在于她的能干；Nore 毫不怀疑，如果被逼到绝境，High Lady 会毫不犹豫地杀了她。
 
@@ -59,7 +59,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这与她对 Caspian 的评估完全一致：他好看、危险、她尊敬。
 
-> **原句 5:* "Nore spotted the commander first as he joined them—he was hard to miss with his height—and then, beside him, the High Lady of Locke."
+> **原句 5:** "Nore spotted the commander first as he joined them—he was hard to miss with his height—and then, beside him, the High Lady of Locke."
 
 （该句在原文中的完整形态见下方正文）
 
@@ -71,7 +71,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 与 ch31 "the commander moved rooms" 的传闻构成连续线索。
 
-> **原句 6:* "I do," Caspian said. "It's Scaelan. Just let me lead."
+> **原句 6:** "I do," Caspian said. "It's Scaelan. Just let me lead."
 
 **中文理解：** "我会，"Caspian 说。"这是 Scaelan 的。让我领舞。"
 

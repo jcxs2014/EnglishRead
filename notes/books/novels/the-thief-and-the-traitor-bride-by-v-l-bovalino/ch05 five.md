@@ -47,7 +47,7 @@ modified: "2026-10-14"
 
 **为什么这样写：** Celestine 的这句话冷酷而直接——她提醒 Nore 权力关系。简洁的句式（八个词）制造不容置疑的权威感。这是 Celestine 的处世哲学：情感是奢侈品，权力是现实。
 
-**读者提示：** Celestine 的冷酷逻辑——Nore 没有选择，只能接受任务。
+**读者视角提示：** Celestine 的冷酷逻辑——Nore 没有选择，只能接受任务。
 
 > **原句 4:** "Kill him," Nore begged. "Kill him, and spare me the torment."
 

@@ -19,7 +19,7 @@ modified: "2026-10-14"
 
 ## 精读
 
-> **原句 1:* "Two things struck Nore about this: first, that Caspian's brow rose, as if he really believed that Nore had met Locke formally and neglected to mention it to him; and second, that the High Lady of Locke was lying."
+> **原句 1:** "Two things struck Nore about this: first, that Caspian's brow rose, as if he really believed that Nore had met Locke formally and neglected to mention it to him; and second, that the High Lady of Locke was lying."
 
 **中文理解：** 有两点刺痛了 Nore：第一，Caspian 挑起眉毛，好像他真的相信 Nore 曾经正式见过 Locke 却忘了告诉他；第二，Locke 岛的 High Lady 在撒谎。
 
@@ -29,7 +29,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这是 Locke 第一次在 Nore 面前展现"人性优先于权力"。
 
-> **原句 2:* "She almost said Elinore. She really nearly did."
+> **原句 2:** "She almost said Elinore. She really nearly did."
 
 **中文理解：** 她差点说出 Elinore。她真的差一点就说出口了。
 
@@ -39,7 +39,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这也是她对 Locke 信任的第一个证据。
 
-> **原句 3:* "Ola shifted, switching her plate with Locke's, avoiding Locke's venomous glare in the process."
+> **原句 3:** "Ola shifted, switching her plate with Locke's, avoiding Locke's venomous glare in the process."
 
 **中文理解：** Ola 挪动身子，把 Locke 的盘子与自己的对调，同时避开她恶狠狠地瞪过来的目光。
 
@@ -49,7 +49,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这与 ch26 Ola 的断臂一起，构成了这对伴侣的性格画像：她们用肉身替对方挡。
 
-> **原句 4:* "It was the High Lady and the commander who exchanged a look then, Nore noted—not one of fear or of worry. But of two people who inhabited the same space quite closely, perhaps two people searching for a lost article of clothing in their own home."
+> **原句 4:** "It was the High Lady and the commander who exchanged a look then, Nore noted—not one of fear or of worry. But of two people who inhabited the same space quite closely, perhaps two people searching for a lost article of clothing in their own home."
 
 **中文理解：** Nore 注意到，交换眼神的是 High Lady 与指挥官——那不是害怕或忧虑的眼神，而是两个相处极近的人之间的一种眼神，也许就像两个人在自己家里找一件丢了的衣服。
 
@@ -59,7 +59,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 与 Nore/Caspian 的"同床共枕却无言"形成镜像，作者让两对关系互为注解。
 
-> **原句 5:* "A shiny one. Engraved, I think?" the Viper shook his head. "I think, if one wished, they could wear the rock as a necklace." Nore's eyes locked on Caspian's. A necklace was simply a linguistic slip away from a medallion."
+> **原句 5:** "A shiny one. Engraved, I think?" the Viper shook his head. "I think, if one wished, they could wear the rock as a necklace." Nore's eyes locked on Caspian's. A necklace was simply a linguistic slip away from a medallion."
 
 **中文理解：** "一颗亮的。我想，刻了字？"Viper 摇着头。"我想，如果有人想的话，可以把它当项链戴。"Nore 的眼睛锁定 Caspian 的眼睛。从"项链"到" medallion（大奖章）"只差一次口误。
 
@@ -69,7 +69,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这是 Caspian 与 Nore 第一次真正"合谋"，也是全书标题中 "traitor" 与 "thief" 的双关所在。
 
-> **原句 6:* "Please," Locke said, still inside her hands. "He is not my Bell."
+> **原句 6:** "Please," Locke said, still inside her hands. "He is not my Bell."
 
 **中文理解：** "拜托，"Locke 说，脸还埋在手里。"他不是我的 Bell。"
 

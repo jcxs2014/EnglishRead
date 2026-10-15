@@ -49,7 +49,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 与 ch14 "He was a menace, and that was out of her control" 是同一结构的重复：反复确认，反复失败。
 
-> **原句 4:* "Now that she'd made some space in her glass, she went to one of the tables and topped her wine with water."
+> **原句 4:** "Now that she'd made some space in her glass, she went to one of the tables and topped her wine with water."
 
 **中文理解：** 现在她的杯子里有了空间，她走到一张桌边，往酒里兑了水。
 
@@ -59,7 +59,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这与她兑咖啡、兑茶、兑酒的习惯同源：她永远比猎物慢半拍进入状态。
 
-> **原句 5:* "Everyone who has been put forward is a mage," Jessa said, leaning closer, pushing a curl of hair away from Nore's face. "Strong mages, mostly."
+> **原句 5:** "Everyone who has been put forward is a mage," Jessa said, leaning closer, pushing a curl of hair away from Nore's face. "Strong mages, mostly."
 
 **中文理解：** "每一个被推出来的人都是法师，"Jessa 说着凑近，把 Nore 脸上一缕头发拨开。"大多是强大的法师。"
 
@@ -69,7 +69,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这句话与 ch12 Gail 的解释（mage 必须有，才能绑住她的力量）互为印证。
 
-> **原句 6:* "Hand commander Ola Et-Kiltar."
+> **原句 6:** "Hand commander Ola Et-Kiltar."
 
 **中文理解：** 手部指挥官，Ola Et-Kiltar。
 

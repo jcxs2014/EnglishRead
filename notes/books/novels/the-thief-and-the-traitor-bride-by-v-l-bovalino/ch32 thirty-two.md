@@ -29,7 +29,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 请记住 "biased" 这个词——它会被 Coren 自己推翻。
 
-> **原句 2:* "Seas raises the history of Locke into mythology, peoples its stories with gods that tower over men, and seeks to redefine the well's understanding with the root of their power."
+> **原句 2:** "Seas raises the history of Locke into mythology, peoples its stories with gods that tower over men, and seeks to redefine the well's understanding with the root of their power."
 
 **中文理解：** 《海洋》把 Locke 的历史升格为神话，用高耸于人之上的诸神填满它的故事，并试图用"力量之根"来重新定义"井"。
 
@@ -39,7 +39,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这与 ch23 墓园里发现 KITALMA（神名）的细节相连：Locke 的神名与墓碑是同一套语言的两种用法。
 
-> **原句 3:* "The author has no sense of the working dynamics of modern wells and mages, nor was any thought given to how such nationalistic lore can influence that relationship."
+> **原句 3:** "The author has no sense of the working dynamics of modern wells and mages, nor was any thought given to how such nationalistic lore can influence that relationship."
 
 **中文理解：** 作者对当代井与法师的实际运作规律毫无感觉，也没有思考过这种民族主义传说会如何影响这段关系。
 
@@ -49,7 +49,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这与 ch12 Gail 派 Nore 操控婚事、ch11 Nore 的王朝笔记共同构成一幅"用神话治理国家"的全景。
 
-> **原句 4:* "To exalt one's well to a godlike state is not only foolish but dangerous."
+> **原句 4:** "To exalt one's well to a godlike state is not only foolish but dangerous."
 
 **中文理解：** 把一个井神化到近乎神的地位，不只是愚蠢，而且危险。
 

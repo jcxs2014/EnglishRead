@@ -19,7 +19,7 @@ modified: "2026-10-14"
 
 ## 精读
 
-> **原句 1:* "But Terlo was already halfway across the room. "Professor Owndig," they said, their voice shimmering with barely contained glee."
+> **原句 1:** "But Terlo was already halfway across the room. "Professor Owndig," they said, their voice shimmering with barely contained glee."
 
 **中文理解：** Terlo 已经走到了房间的一半。"Owndig 教授，"他们说，声音因强压着的狂喜而发颤。
 
@@ -39,7 +39,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这句也预告了下文 he had brought gloves ——他一天都没摘过。
 
-> **原句 3:* "He had the sleeves of his tunic rolled to his elbows and wore white gloves as he handled the artifacts laid on the table."
+> **原句 3:** "He had the sleeves of his tunic rolled to his elbows and wore white gloves as he handled the artifacts laid on the table."
 
 **中文理解：** 他把短袍的袖子卷到手肘，戴白色手套处理摊在桌上的文物。
 
@@ -49,7 +49,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** Bell 的手套是专业，Caspian 的手套是身份，Nore 的手套是社会地位。
 
-> **原句 4:* "You can sense it somehow, can't you? That's how you're so good at finding the objects. You can rule out fakes with a glance—and you can probably tell if something is powerful."
+> **原句 4:** "You can sense it somehow, can't you? That's how you're so good at finding the objects. You can rule out fakes with a glance—and you can probably tell if something is powerful."
 
 **中文理解：** "你能以某种方式感知它，对吗？你就是这么擅长找东西的。你一眼就能排除赝品——你大概还能判断一个东西强不强。"
 
@@ -59,7 +59,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这也解释了她所有的"陷阱为什么失效"：他能"看见"她设的套。
 
-> **原句 5:* "I think most amalgamates can, in some sense, and Idistran is inherent, so there is a natural affinity for magic. Maybe other amalgamates don't sense it as strongly as I can, but I… cultivated the talent. With practice."
+> **原句 5:** "I think most amalgamates can, in some sense, and Idistran is inherent, so there is a natural affinity for magic. Maybe other amalgamates don't sense it as strongly as I can, but I… cultivated the talent. With practice."
 
 **中文理解：** "我想在某种程度上，大多数 amalgamate 都能，而 Idistran 是天赋型系统，所以对魔法本来就有天然的亲和力。也许别的 amalgamate 感知得没我这么强，但我……培养了这个天赋。靠练习。"
 

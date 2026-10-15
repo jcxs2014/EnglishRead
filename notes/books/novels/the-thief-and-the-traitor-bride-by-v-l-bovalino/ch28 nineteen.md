@@ -19,7 +19,7 @@ modified: "2026-10-14"
 
 ## 精读
 
-> **原句 1:* "He did not move his blankets to the floor, or get another room at the inn, or ignore her. The reality was much worse than that: Caspian changed nothing at all."
+> **原句 1:** "He did not move his blankets to the floor, or get another room at the inn, or ignore her. The reality was much worse than that: Caspian changed nothing at all."
 
 **中文理解：** 他没有把毯子搬到地板上，没有另开一间房，也没有不理会她。现实比那更糟：Caspian 什么也没有改变。
 
@@ -29,7 +29,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 与 ch21 "You're a liar, Finch" 对照：那时她先动手，他先动口；现在他完全不动。
 
-> **原句 2:* "Have I done the job? Have I been good and docile?"
+> **原句 2:** "Have I done the job? Have I been good and docile?"
 
 **中文理解：** "我干得好吗？我有没有又乖又听话？"
 
@@ -39,7 +39,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 她自责 "she did not ask more from him"，但作者标明这就是她能给的全部。
 
-> **原句 3:* "And Caspian was already settling into bed, going back to his book, as if none of it changed anything. As if nothing mattered at all."
+> **原句 3:** "And Caspian was already settling into bed, going back to his book, as if none of it changed anything. As if nothing mattered at all."
 
 **中文理解：** 而 Caspian 已经躺回床上，重新看他的书，仿佛什么都没改变。仿佛什么都不重要。
 
@@ -49,7 +49,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这与他 ch05 的嬉皮笑脸形成对照：他的欲望仍在，只是不再用来求她。
 
-> **原句 4:* "I fear sometimes I spend more time with the ghosts than the living."
+> **原句 4:** "I fear sometimes I spend more time with the ghosts than the living."
 
 **中文理解：** "我怕我有时与幽灵相处的时间比与活人更多。"
 
@@ -59,7 +59,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这是全书两位女性唯一真正交换的东西：她们的孤独是同一种质地。
 
-> **原句 5:* "It was hard enough to find one person to love me as I am. Gods know there is not a queue of others."
+> **原句 5:** "It was hard enough to find one person to love me as I am. Gods know there is not a queue of others."
 
 **中文理解：** "能找到一个人爱我本来的样子就已经够难了。诸神知道，没有一堆人在排队。"
 
@@ -69,7 +69,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** Nore 听懂了这句话的全部重量，这也解释了她后来的保护欲从何而来。
 
-> **原句 6:* "She had no doubt remaining that the woman she was speaking to in the woods was the High Lady of Locke… Did that person still love her? Was that the reason for the holdup?"
+> **原句 6:** "She had no doubt remaining that the woman she was speaking to in the woods was the High Lady of Locke… Did that person still love her? Was that the reason for the holdup?"
 
 **中文理解：** 她不再怀疑，她在林中交谈的女人就是 Locke 岛的 High Lady……那个人还爱她吗？这就是拖延的原因吗？
 

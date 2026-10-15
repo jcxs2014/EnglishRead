@@ -19,7 +19,7 @@ modified: "2026-10-14"
 
 ## 精读
 
-> **原句 1:* "I think that there's a very good chance the artifact you're looking for is at the fallen temple to Kitalma, in the Ghostwood."
+> **原句 1:** "I think that there's a very good chance the artifact you're looking for is at the fallen temple to Kitalma, in the Ghostwood."
 
 **中文理解：** "我认为，你们要找的 artifact 很可能就在 Ghostwood 里那座倒塌的 Kitalma 神庙里。"
 
@@ -29,7 +29,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** KITALMA 就是 ch23 她摸过的墓碑上那个名字——她早就去过那儿，只是当时不知道那是神的名字。
 
-> **原句 2:* "There was an inherent wrongness in hearing the name of the place from Terlo's lips, a defilement."
+> **原句 2:** "There was an inherent wrongness in hearing the name of the place from Terlo's lips, a defilement."
 
 **中文理解：** 从 Terlo 口中听到那个地方的名字，有一种内在的错，一种亵渎。
 
@@ -39,7 +39,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这是全书第一次，她对任务产生了道德上的拒斥。
 
-> **原句 3:* "I do trust you," Nore gritted out. "I know it's a mistake. I know I shouldn't. But I know… I know that you will not hurt me, that you will not go astray, because of the damage that would cause."
+> **原句 3:** "I do trust you," Nore gritted out. "I know it's a mistake. I know I shouldn't. But I know… I know that you will not hurt me, that you will not go astray, because of the damage that would cause."
 
 **中文理解：** "我确实信任你，"Nore 咬紧牙关说。"我知道那是个错误。我知道我不该。但我知道……我知道你不会伤害我，不会走入歧途，因为那会造成伤害。"
 
@@ -49,7 +49,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这句话会在 ch45 被最残忍地反驳。
 
-> **原句 4:* "I want the version of you who wasn't so focused on her work. The one who had desires other than ambition. I want the version of you I married, Nore—the one who cared about her family, and her business, and me. I don't want this manipulative, hollow person you've become."
+> **原句 4:** "I want the version of you who wasn't so focused on her work. The one who had desires other than ambition. I want the version of you I married, Nore—the one who cared about her family, and her business, and me. I don't want this manipulative, hollow person you've become."
 
 **中文理解：** "我想要的是那个不那么专注于她的工作的版本的你。那个除了野心之外还有其他欲望的你。我想要我娶的那个版本的你，Nore——那个在乎她的家庭、她的事业、也在乎我的你。我不要你现在变成的这个工于心计、空洞的人。"
 
@@ -59,7 +59,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这是全书核心冲突的最完整表述：她要他回到她（间谍）身边，他要她离开那个身份来他这儿。
 
-> **原句 5:* "Nore felt as if someone had stuck a very thin blade into her heart, so very difficult to detect, and only now twisted it."
+> **原句 5:** "Nore felt as if someone had stuck a very thin blade into her heart, so very difficult to detect, and only now twisted it."
 
 **中文理解：** Nore 觉得好像有人把一片极薄的刀刃插进她的心脏——薄到几乎察觉不到，现在才拧动它。
 

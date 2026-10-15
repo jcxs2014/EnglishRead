@@ -19,7 +19,7 @@ modified: "2026-10-14"
 
 ## 精读
 
-> **原句 1:* "His eyes flicked back up to hers, the warm brown of them sweet as her favorite well-aged Lindle mead."
+> **原句 1:** "His eyes flicked back up to hers, the warm brown of them sweet as her favorite well-aged Lindle mead."
 
 **中文理解：** 他的眼睛回到她的眼睛上，那暖棕色像她最喜欢的陈年 Lindle 蜂蜜酒一样甜。
 
@@ -29,7 +29,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 与 ch10 "His eyes were dark, molasses without any sweetness" 是同一双眼睛的两个极端。
 
-> **原句 2:* "I don't have another job lined up," he said softly. "I'm going back to Nadira. To my father's family. I may stay for a short while—I may stay forever. I may hang up my knives entirely after this."
+> **原句 2:** "I don't have another job lined up," he said softly. "I'm going back to Nadira. To my father's family. I may stay for a short while—I may stay forever. I may hang up my knives entirely after this."
 
 **中文理解：** "我没有下一份工作，"他轻声说。"我要回 Nadira。回我父亲的家。我可能待一小段时间——也可能永远待下去。这之后，我可能把刀彻底收起来。"
 
@@ -39,7 +39,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这与 ch25 父亲信中 "If there is a way… you would not squander it" 形成对照：他最终选择不用那个办法。
 
-> **原句 3:* "But would you forgive me," he said against her hand, "if we pretended for a little bit longer?""
+> **原句 3:** "But would you forgive me," he said against her hand, "if we pretended for a little bit longer?""
 
 **中文理解：** "可你会原谅我吗，"他对着她的手说，"如果我们再假装一小会儿？"
 
@@ -49,7 +49,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这与 ch16 的安全词、ch27 的 "Do not act" 一起构成了她对"假装"的三次使用。
 
-> **原句 4:* "It wasn't a conscious decision to lie. She didn't know what purpose it served, or perhaps she'd spent too much time with Caspian."
+> **原句 4:** "It wasn't a conscious decision to lie. She didn't know what purpose it served, or perhaps she'd spent too much time with Caspian."
 
 **中文理解：** 撒谎不是一个有意识的决定。她不知道这有什么用，也许她只是和 Caspian 待太久了。
 
@@ -59,7 +59,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这是她第一次主动背叛雇主（Celestine / Gail），而她说不出为什么。
 
-> **原句 5:* "Nore wrapped her fingers around the vial of poison, tapping it lightly on the table."
+> **原句 5:** "Nore wrapped her fingers around the vial of poison, tapping it lightly on the table."
 
 **中文理解：** Nore 用手指缠住那瓶毒药，在桌上轻轻敲了敲。
 
@@ -69,7 +69,7 @@ modified: "2026-10-14"
 
 **读者视角提示：** 这与 ch05 她被 Gail 交付毒药时的心境（"she couldn't believe she didn't have a choice"）相比是反向的：那次她以为自己没得选，这次她让别人没得选。
 
-> **原句 6:* "And if she spilled some liquid into a bush on the way down, none were the wiser—and if anyone stopped to see her fill a vial with one of the Isle's many trickles of freshwater that ran down the formations, it was of no note."
+> **原句 6:** "And if she spilled some liquid into a bush on the way down, none were the wiser—and if anyone stopped to see her fill a vial with one of the Isle's many trickles of freshwater that ran down the formations, it was of no note."
 
 **中文理解：** 如果她在下山的路上往灌木丛里倒了些液体，没有人会知道——如果有人停下来看见她用岛上从岩层里流下的无数细流中的一道装满一个小瓶，那也没什么可注意的。
 
