@@ -1,0 +1,102 @@
+=== verify_quotes ===
+00 情感节点.md: 21/21 ✅
+00 概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+ch01 prologue.md: 7/7 ✅
+ch02 chapter 1.md: 7/7 ✅
+ch03 chapter 2.md: 7/7 ✅
+ch04 chapter 3.md: 6/6 ✅
+ch05 chapter 4.md: 6/6 ✅（另有 1 条短引语未校验）
+ch06 chapter 5.md: 5/5 ✅（另有 1 条短引语未校验）
+ch07 chapter 6.md: 6/6 ✅
+ch08 chapter 7.md: 7/7 ✅
+ch09 chapter 8.md: 6/6 ✅
+ch10 chapter 9.md: 7/7 ✅
+ch11 chapter 10.md: 6/6 ✅
+ch12 chapter 11.md: 7/7 ✅
+ch13 chapter 12.md: 8/8 ✅
+ch14 chapter 13.md: 7/7 ✅
+ch15 chapter 14.md: 7/7 ✅
+ch16 chapter 15.md: 5/5 ✅（另有 1 条短引语未校验）
+ch17 chapter 16.md: 6/6 ✅（另有 1 条短引语未校验）
+ch18 chapter 17.md: 8/8 ✅
+ch19 chapter 18.md: 7/7 ✅（另有 1 条短引语未校验）
+ch20 chapter 19.md: 7/7 ✅
+ch21 chapter 20.md: 6/6 ✅（另有 1 条短引语未校验）
+ch22 chapter 21.md: 6/6 ✅
+ch23 chapter 22.md: 7/7 ✅
+ch24 chapter 23.md: 8/8 ✅
+ch25 chapter 24.md: 8/8 ✅
+ch26 chapter 25.md: 7/7 ✅（另有 1 条短引语未校验）
+ch27 chapter 26.md: 6/6 ✅
+ch28 chapter 27.md: 6/6 ✅
+ch29 chapter 28.md: 6/6 ✅（另有 1 条短引语未校验）
+ch30 chapter 29.md: 8/8 ✅
+ch31 chapter 30.md: 8/8 ✅
+ch32 chapter 31.md: 10/10 ✅
+ch33 chapter 32.md: 9/9 ✅（另有 2 条短引语未校验）
+ch34 chapter 33.md: 10/10 ✅
+ch35 chapter 34.md: 8/8 ✅（另有 1 条短引语未校验）
+ch36 chapter 35.md: 8/8 ✅
+
+⚠️ 全书共 11 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00 金句精选.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 274/274 引文可核实（100%）；完全干净文件 37/37；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+=== check_vocab ===
+词条行合计: 491
+
+--- FAIL (0) ---
+
+--- WARN (17) ---
+  ch02 chapter 1.md [基础] 基础档疑含超纲词「sprinklers」
+  ch02 chapter 1.md [基础] 例句不含词头「canvas」
+  ch04 chapter 3.md [基础] 基础档疑含超纲词「exhausted」
+  ch05 chapter 4.md [基础] 基础档疑含超纲词「sparkling」
+  ch06 chapter 5.md [基础] 基础档疑含超纲词「dangerous」
+  ch06 chapter 5.md [基础] 基础档疑含超纲词「thrilling」
+  ch07 chapter 6.md [基础] 例句不含词头「forest」
+  ch11 chapter 10.md [基础] 基础档疑含超纲词「relationships」
+  ch14 chapter 13.md [基础] 例句不含词头「tremble」
+  ch17 chapter 16.md [基础] 基础档疑含超纲词「photograph」
+  ch17 chapter 16.md [基础] 基础档疑含超纲词「engine」
+  ch17 chapter 16.md [基础] 基础档疑含超纲词「sketchbook」
+  ch20 chapter 19.md [基础] 基础档疑含超纲词「curandera」
+  ch21 chapter 20.md [基础] 基础档疑含超纲词「blueprint」
+  ch21 chapter 20.md [基础] 例句不含词头「needle」
+  ch25 chapter 24.md [基础] 基础档疑含超纲词「sketchbook」
+  ch25 chapter 24.md [基础] 基础档疑含超纲词「graveyard」
+
+=== check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== corruption_scan ===
+
+=== 编辑损坏扫描（these-vengeful-wishes-by-vanessa-montalban）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== sweep_full ===
+=== 引语整串 flat 比对（these-vengeful-wishes-by-vanessa-montalban）===
+  参照集：text/ 逐章（36 章，可定章） + epub 交叉验证
+  ✅ 本章命中 249 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 4 ｜ ❌ 全书查无 0
+  （短引语 11 条归 check_short_quotes；无章可对 0 条未判）
+  🔶 ch13 chapter 12.md（ch13）跨标签拼接，各段逐字都在：On closer inspection, the statue's veiled fa
+  🔶 ch13 chapter 12.md（ch13）跨标签拼接，各段逐字都在：A hand materializes first. Long, gray finger
+  🔶 ch13 chapter 12.md（ch13）跨标签拼接，各段逐字都在：Haven't you heard of the Midas touch or 'The
+  🔶 ch16 chapter 15.md（ch16）跨标签拼接，各段逐字都在：Something's off with that girl." Martha look
+
+=== check_chapter_quotes ===
+⚠️  全书共 11 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 253，命中本章 253（100%）
+✅ 全部引语均归属正确章节
+
+=== audit_structure ===
+=== 精读结构扫描（these-vengeful-wishes-by-vanessa-montalban）===
+  扫 39 个 md、293 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 7
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0

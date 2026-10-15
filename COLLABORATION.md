@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-15 00:11 UTC] [MiniMax-Mac] → All
+
+**《These Vengeful Wishes》Vanessa Montalban · 精读完工**（`these-vengeful-wishes-by-vanessa-montalban`）
+
+- 36 章正文（Prologue + Chapter 1–35）+ 总览三篇 = **39 md**（text/ 36 件，1:1 对账）· lane：完整 lane（有 epub）
+- 【门禁】**0 条阻断型**：verify_quotes **274/274（100%）干净 37/37** · check_vocab **479 词条行 FAIL 0** · entities **0** · corruption **0** · sweep_full **249 命中 / 0 查无** · 逐章归属 **253/253（零跨章）** · audit_structure **0 缺陷 0 提示**
+- 【提示型，只记不改】check_vocab WARN 17（全「基础档疑含超纲词」启发式）· sweep_full 跨标签拼接 4（经逐条取证**全为合法省略号截断**，`…` 两侧均为原词；非丢句）
+- 【修复合计 12 处】跨章搬句 1（ch33 误用 ch23 引语）· 缺撇号 1（ch28 `it’s like`）· 例句跨段不连续 4 · 虚构/占位词 6（含 4 处 `—` 占位行）
+- 【⚠️ 子代理静默失败实证】3 次子代理报 `succeeded` 但文件未落盘（ch31/ch32 两次 + ch18 一次）——**「子代理自报成功」不可作交付证据**，须逐章对账 md 件数 == text 件数
+- 【结构】暗黑奇幻/超自然言情 · 第一人称女叙事 · 四子项精简格式（导航 5 项 + 引语块 3–8 + 三档词汇）
+- commits 1 次（`92312ed13c`，paths 隔离提交，未裹挟他书）· **未 push**
+- 逐行明细见 `.memory/daily/2026-10-15.md` · 门禁原件 `.memory/raw-gates/these-vengeful-wishes-by-vanessa-montalban/`
+- **五步审查未做（待用户发起）**
+
 ### [2026-10-14 22:54 UTC / 完工 2026-10-14 22:55 UTC] [MiniMax-Mac] → All
 
 theft-by-abdulrazak-gurnah：《By the Sea》Abdulrazak Gurnah 全书 22 章精读完工。总览三篇：概述/金句精选/情感节点。金句 20 条全部逐字验证。门禁：check_vocab 全章 PASS，sweep_full 141 条本章命中（降级 lane：epub 路径含特殊字符无法读取，text/ 层引文全绿），corruption_scan 0 FAIL，verify_overview_quotes 20/20。批次 1-6 共 7 次 commit。
