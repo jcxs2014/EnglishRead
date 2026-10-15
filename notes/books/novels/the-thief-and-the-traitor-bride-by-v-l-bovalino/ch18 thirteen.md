@@ -37,7 +37,7 @@ modified: "2026-10-14"
 
 **为什么这样写：** 全书对这两人关系最精确的一句总结。她为背上的伤疤感到羞耻（它们证明她被俘、被屈从），而他根本不在乎——他爱的是"她"，不是"她的光荣"。这也解释了为什么她在他面前永远无法维持体面。
 
-**读者视角提示：** 与 ch08 "I'm not saving you" 对照：他从不用道德衡量她。
+**读者视角提示：** 与 ch08 里她那句 "I'm not saving you" 对照——她才是那个把"救"的动作留给别人的人，而他从未要求过她救自己。
 
 > **原句 3:** "She caught his hand. "When you offered to help me—I need to know. Why? What changed your mind?""
 

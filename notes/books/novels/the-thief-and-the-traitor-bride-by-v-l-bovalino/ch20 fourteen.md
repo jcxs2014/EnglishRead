@@ -47,7 +47,7 @@ modified: "2026-10-14"
 
 **为什么这样写：** 全书最动人的一处"语言作为亲密"。他看出她的手在抖，用 Nadiran（他父亲的语言）说"没什么好怕的"，而她用 Idistran 答"我知道，我知道"。两种非母语在他们的中间地带相遇——这是间谍夫妻的密电码：**用别人的语言说最真心的话**。
 
-**读者视角提示：** 这是全书第一次出现 Nadiran 短语（ch06 曾说 Caspian 想学父亲的 Nadiran 墨水）。语言在此不是情报，是安抚。
+**读者视角提示：** 这是全书第一次出现 Nadiran 短语（ch10 曾说 Caspian 想去 Nadira 学父亲的那种墨水）。语言在此不是情报，是安抚。
 
 > **原句 4:** "But Nore knew what he meant, what he did not voice: See? We're on the same side."
 
