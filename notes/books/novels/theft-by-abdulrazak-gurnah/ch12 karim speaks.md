@@ -110,7 +110,7 @@ source_text: "text/ch12_12.txt"
 | promenade | 海滨大道、长椅步道 | sitting on a bench on the promenade |
 | geography | 地理学 | I studied Geography and Environmental Studies |
 | destiny | 命运 | they had destiny on their side |
-| concern | 关心、担忧 | not doing her reputation any favours |
+| concern | 关心、担忧 | will not be doing her reputation any favours |
 | reputation | 名誉、声誉 | will not be doing her reputation any favours |
 | dowry | 嫁妆、彩礼 | Where will I find the dowry? |
 | soften | 软化、温和 | Jalila said, softening and smiling |

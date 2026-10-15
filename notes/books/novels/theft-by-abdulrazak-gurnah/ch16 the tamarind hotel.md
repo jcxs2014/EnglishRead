@@ -72,7 +72,7 @@ source_text: "text/ch16_16.txt"
 
 **关键词**：The manager of the Tamarind Hotel was Bwana Sharif Makame
 
-**为什么这样写**：Gurnah 用「 Bwana」来称呼 Sharif Makame——这个 title 写出他在当地社区的权威地位。同时「 He owned a major share of the hotel」写出了他与酒店的真实关系：他是老板，不是雇员。
+**为什么这样写**：Gurnah 用「 Bwana」来称呼 Sharif Makame——这个 title 写出他在当地社区的权威地位。同时「 He also owned a major share of the hotel」写出了他与酒店的真实关系：他是老板，不是雇员。
 
 **读者视角提示**：Bwana Sharif 的真实身份（他与 Badar 父亲的关系、他为什么让 Badar 培训）在本章后面会进一步揭示。
 

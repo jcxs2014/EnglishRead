@@ -36,23 +36,23 @@ source_text: "text/ch22_22.txt"
 
 **读者视角提示**：注意 Haji 和 Mistress 还在——他们的关系是稳定的，而 Karim 的婚姻崩溃了。这个并置是 Gurnah 的评论。
 
-> **原句 3:** «Four years after she left, there he was, at the junction of the street with the main road, gazing down at what looked only a little younger than when he had last seen him but was in fact five years older. It was Nasra's fifth birthday and Badar had promised to collect the child from school.»
+> **原句 3:** «Four years after she left, there he was, at the junction of the street with the main road, gazing down at what looked only a little younger than when he had last seen him but was in fact five years older. It was Nasra's fifth birthday and Badar had promised to collect the cake.»
 
 **中文理解**：四年后，她离开了，他站在那里，在街道和主路的交汇处，看着那个看起来只比他上次见到时年轻一点，但实际上大了五岁的孩子。「 It was Nasra's fifth birthday」——这个细节写出时间的流逝：四年的等待，而 Nasra 已经五岁了。
 
-**关键词**：It was Nasra's fifth birthday and Badar had promised to collect the child from school
+**关键词**：It was Nasra's fifth birthday and Badar had promised to collect the cake
 
 **为什么这样写**：Gurnah 用 Badar 去接 Nasra 来写他的耐心——他等了四年，现在他在接 Fauzia 和 Karim 的孩子。这个细节写出 Badar 对 Fauzia 的爱的深度：他愿意等待，而且他愿意进入她的生活。
 
 **读者视角提示**：注意 Badar 是「 gazing down」——他在等待，而 Karim 一直在离开。Fauzia 离开了，Badar 一直在。
 
-> **原句 4:** «He had known for a long time how much he wanted Fauzia, how beautiful she was, how much he loved her serenity, but it felt disrespectful to rush at her when she was raw and wounded, not for emotional support – she had her parents for that – but they had enough on their hands and he could help with practical, everyday kindnesses, and so he had.»
+> **原句 4:** «He had known for a long time how much he wanted Fauzia, how beautiful she was, how much he loved her serenity, but it felt disrespectful while she was married to Karim, disrespectful to both of them. He had known she relied on him in those early days after Karim left. Not for emotional support – she had her parents for that – but they had enough on their hands and he could help with practical, sweaty matters.»
 
-**中文理解**：他很久以来就知道他有多想要 Fauzia，他有多爱她，他有多爱她的宁静。但他觉得在她还痛苦和受伤的时候急忙去追她是不尊重的。他不是提供情感支持——那是她父母的事——而是提供实际的、日常的善行。他一直这样做着。
+**中文理解**：他很久以来就知道他有多想要 Fauzia，他有多爱她，他有多爱她的宁静。但在她还和 Karim 的婚姻里时，他觉得追求她是对他们两人的不尊重。Karim 离开后，Badar 一直用实际的、琐碎的善行来支持她。
 
-**关键词**：he could help with practical, everyday kindnesses, and so he had
+**关键词**：he could help with practical, sweaty matters
 
-**为什么这样写**：Gurnah 用 Badar 的内心独白来写他的爱的本质——这不是冲动的激情，而是耐心的照顾。他的爱是「 practical, everyday kindnesses」。这个细节写出 Badar 是什么样的人：他不是通过言语，而是通过行动来爱。
+**为什么这样写**：Gurnah 用 Badar 的内心独白来写他的爱的本质——这不是冲动的激情，而是耐心的照顾。他的爱是「 practical, sweaty matters」。这个细节写出 Badar 是什么样的人：他不是通过言语，而是通过行动来爱。
 
 **读者视角提示**：注意「 but it felt disrespectful」——Badar 有机会，但他选择等待。这个选择是这本书的核心主题之一：移民、等待、被卡住的人的尊严。
 

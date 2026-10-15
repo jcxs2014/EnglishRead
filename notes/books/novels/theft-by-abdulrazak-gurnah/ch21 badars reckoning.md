@@ -16,27 +16,37 @@ source_text: "text/ch21_21.txt"
 
 ## 精读
 
-> **原句 1:** «Badar had known, but only just that morning. He had seen how awestruck Karim was by Jerry that first time she sat with him in the office. It was unmistakable, and he thought Jerry had seen it too.»
+> **原句 1:** «Badar had known, but only just that morning.»
 
-**中文理解**：Badar 从那天早上才知道——但他其实早就看到了：Karim 第一次见到 Jerry 时的那种敬畏。「 It was unmistakable」写出 Badar 的确定性：他知道，Jerry 也知道。
+**中文理解**：Badar 从那天早上才知道——「 only just」写出他的延迟发现。
 
-**关键词**：Badar had known, but only just that morning. It was unmistakable
+**关键词**：Badar had known, but only just that morning
 
 **为什么这样写**：Gurnah 用「 only just」来写 Badar 的延迟发现——他一直在怀疑，但他让自己不要确定。这个词写出 Badar 的性格：他不愿意面对不舒服的真相。
 
 **读者视角提示**：注意 Badar 也认为「 Jerry had seen it too」——他把这个当作一个事实，但他不能对任何人说。
 
-> **原句 2:** «He had sensed something was amiss when he visited them, Fauzia's unusual coolness as if she was too weary to make the effort of being pleasant to him.»
+> **原句 2:** «Badar had seen how awestruck Karim was by Jerry that first time she sat with him in the office. It was unmistakable, and he thought Jerry had seen it too.»
+
+**中文理解**：Badar 看到 Karim 对 Jerry 的敬畏。「 It was unmistakable」写出 Badar 的确定性：他知道，Jerry 也知道。
+
+**关键词**：awestruck Karim was by Jerry. It was unmistakable
+
+**为什么这样写**：Gurnah 用「 unmistakable」来写 Badar 的确定性——他看到了，他不能假装没看到。
+
+**读者视角提示**：注意 Badar 也认为「 Jerry had seen it too」——他把这个当作一个事实，但他不能对任何人说。
+
+> **原句 3:** «He had sensed something was amiss when he visited them, Fauzia's unusual coolness as if she was too weary to make the effort.»
 
 **中文理解**：Badar 拜访时感觉到不对劲——Fauzia 的冷淡，像是她太厌倦了，连表现得友好都懒得做。「 too weary」写出 Fauzia 的精疲力竭。
 
-**关键词**：too weary to make the effort of being pleasant to him
+**关键词**：too weary to make the effort
 
 **为什么这样写**：Gurnah 用「 weary」来形容 Fauzia 的状态——这个词写出婚姻的疲惫。她不能假装，她没有精力了。
 
 **读者视角提示**：注意 Badar 用「 him」——他把自己放在句子的末端，像是一个旁观者，而不是一个干预者。
 
-> **原句 3:** «Then Jerry came and he lost himself in the excitement of her.»
+> **原句 4:** «Then Jerry came and he lost himself in the excitement of her.»
 
 **中文理解**：然后 Jerry 来了，Karim 在她的兴奋中迷失了自己。「 lost himself」写出 Karim 的失控——他不再是他自己了。
 
@@ -46,7 +56,7 @@ source_text: "text/ch21_21.txt"
 
 **读者视角提示**：「 excitement of her」——这个表达写出 Jerry 代表的东西：兴奋、刺激、生活的另一种可能性。
 
-> **原句 4:** «He wondered if she would say something about the weekend, about Karim, about the misery that had befallen Fauzia, but she did not.»
+> **原句 5:** «He wondered if she would say something about the weekend, about Karim, about the misery that had befallen Fauzia, but she did not.»
 
 **中文理解**：Badar 想知道 Jerry 会不会提到那个周末的事——关于 Karim，关于 Fauzia 的灾难。但她没说。
 
@@ -56,7 +66,7 @@ source_text: "text/ch21_21.txt"
 
 **读者视角提示**：注意 Jerry 什么都不说——她知道，但她选择不说。这也是一个沉默的选择。
 
-> **原句 5:** «For a moment Badar was not sure if he meant Fauzia or Jerry.»
+> **原句 6:** «For a moment Badar was not sure if he meant Fauzia or Jerry.»
 
 **中文理解**：Badar 有一刻不确定 Karim 说的是 Fauzia 还是 Jerry。「 Well, she knows where I am」——Karim 不想说出名字。
 
@@ -66,7 +76,7 @@ source_text: "text/ch21_21.txt"
 
 **读者视角提示**：注意 Badar 的内心独白：他仍然在追踪 Karim 的情绪，像他一直做的那样。
 
-> **原句 6:** «I have learned to take my life in my own hands, to look to the future without fear.»
+> **原句 7:** «I have learned to take my life in my own hands, to look to the future without fear.»
 
 **中文理解**：Karim 宣称他学会了掌控自己的生活，无惧未来——但这个声明是在他失去了 Badar 的友谊、Fauzia 的尊重、Jerry 的感情之后。
 

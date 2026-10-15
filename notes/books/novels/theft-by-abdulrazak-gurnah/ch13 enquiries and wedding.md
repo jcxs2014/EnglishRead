@@ -95,12 +95,12 @@ a 失去第一任妻子之后就变得更加可以理解了。
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | enquiry | 询问、探听 | Jalila came to make enquiries about you |
-| betrothal | 订婚、婚约 | they waited for two years until her mother agreed to a betrothal |
+| betrothal | 订婚、婚约 | they waited for two years until her mother passed away |
 | childbirth | 分娩、生产 | his wife and baby both died during childbirth |
 | overwrought | 焦虑不安的、过度紧张的 | Perhaps Musa was overwrought by the events of the wedding |
 | alarm | 惊恐、担忧 | To Khadija's alarm, Musa wanted to get back to the shop |
 | subside | 平息、减退 | As the alarm subsided |
-| scolding | 责备、责怪 | with gentle scolding |
+| scolding | 责备、责怪 | gentle and respectful |
 
 ### ⭐⭐ 进阶
 
@@ -112,7 +112,7 @@ a 失去第一任妻子之后就变得更加可以理解了。
 | safety | 安全 | The hospital was not a safe place |
 | celebration | 庆祝、庆典 | want a celebration for our daughter's wedding |
 | musician | 音乐家 | paid for musicians to play |
-| recovery | 恢复 | the recovery was slow |
+| recovery | 恢复 | slowly he fell sideways |
 
 ### ⭐ 基础
 
@@ -122,7 +122,7 @@ a 失去第一任妻子之后就变得更加可以理解了。
 | married | 已婚的 | You were worried because I'm twenty and not married? |
 | hospital | 医院 | to the hospital |
 | mother | 母亲 | Fauzia's mother |
-| father | 父亲 | Fauzia's father |
+| father | 父亲 | her father |
 | bride | 新娘 | as the bride and groom wanted |
 | illness | 疾病 | the illness to be passed on |
 

@@ -22,7 +22,7 @@ source_text: "text/ch19_19.txt"
 
 **关键词**：It was not a pleasure coming home anymore, not something he looked forward to as he once did
 
-**为什么这样写**：Gurnah 用「 not a pleasure anymore」来写婚姻的衰退——这个「 anymore」写出这是一个变化：家曾经是好的，现在不是了。这个细节写出 Karim 对现状的清醒认识：他知道事情变了。
+**为什么这样写**：Gurnah 用「 not a pleasure coming home anymore」来写婚姻的衰退——这个「 anymore」写出这是一个变化：家曾经是好的，现在不是了。这个细节写出 Karim 对现状的清醒认识：他知道事情变了。
 
 **读者视角提示**：注意「 as he once did」——它写出 Karim 对过去的怀念。他记得家曾经是什么样的，那个记忆让现在变得更难过。
 

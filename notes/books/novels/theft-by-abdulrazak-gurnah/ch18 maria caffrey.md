@@ -36,11 +36,11 @@ source_text: "text/ch18_18.txt"
 
 **读者视角提示**：这个细节也写出 Badar 的角色：他是 Maria 的当地向导，虽然她拒绝他的帮助。
 
-> **原句 3:** «Maria Caffrey, Director, Relief Exchange International, Volunteer Recruitment. She slid the card towards him as he was closing her account on the computer, and he looked up in surprise to find her dark sleepy eyes on him with an appraising look which he couldn't read.»
+> **原句 3:** «Maria Caffrey, Director, Relief Exchange International, Volunteer Recruitment. She slid the card towards him as he was closing her account on the computer, and he looked up in surprise to find her dark sleepy eyes fully on him.»
 
 **中文理解**：Maria Caffrey，主任，Relief Exchange International，志愿者招募——她把名片滑向他，他惊讶地抬起头，看到她那双黑色的、睡意朦胧的眼睛正在审视他，而他读不懂这个眼神。
 
-**关键词**：Maria Caffrey, Director, Relief Exchange International. her dark sleepy eyes on him with an appraising look which he couldn't read
+**关键词**：Maria Caffrey, Director, Relief Exchange International. her dark sleepy eyes fully on him
 
 **为什么这样写**：Gurnah 用这个名片来写 Maria 的专业身份——她是国际援助工作者，不是一个普通游客。Badar 不能读懂她的眼神，这写出他们之间的距离：不同的世界，不同的人生。
 
