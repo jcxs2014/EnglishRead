@@ -78,7 +78,7 @@ modified: "2026-10-14"
 
 - **中文理解**：Krish：哈哈。你什么时候到，好让你去对他们说"印度话"？
 - **关键词**：When are you getting here · so you can speak Indian to them
-- **为什么这样写**：作者让他说出"印度话"这个不存在的语言名——这是全书他最接近自嘲的一次，也是他第一次明确需要她。
+- **为什么这样写**：作者让他说出"印度话"这个不存在的语言名——这是全书他最接近自嘲的一次，也是他第一次开口说"你来我就有人替我说话了"。
 - **读者视角提示**：注意他问的是"你什么时候到"，不是"你能不能来"：他把需要写成了时间问题。
 
 > **原句 10:** Me: Aren’t you a fancy journalist from a fancy journalism school? There’s no language called Indian.
