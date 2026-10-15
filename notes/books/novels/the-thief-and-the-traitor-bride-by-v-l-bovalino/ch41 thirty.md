@@ -37,7 +37,7 @@ modified: "2026-10-15"
 
 **为什么这样写：** 这是全书对她人生最严厉的一次判词。走钢丝的比喻有两层危险：掉下去，或者一直被悬着。而 "transformed" 一词把责任揽回她自己身上——孤独不是遭遇，是她主动建造的居所。作者让比喻落地在城市集市这一世俗场所，使她的精神危机不必借任何宏大场景就能被看见。
 
-**读者视角提示：** 与 ch08 Caspian 说 "Is that really what you call a life?" 是同一句审判的回声，只是这一次她自己在心里宣判了。
+**读者视角提示：** 与 ch38 Caspian 说 "Is that really what you call a life?" 是同一句审判的回声，只是这一次她自己在心里宣判了。
 
 > **原句 3:** "She gripped the windowsill, her breathing uneven, her heart pounding in her chest. She couldn't let him die. She couldn't watch, knowing he was gone; she couldn't not go, pretending she could forget he ever existed."
 
@@ -57,7 +57,7 @@ modified: "2026-10-15"
 
 **为什么这样写：** 戒指本来是套在指上的婚姻符号，此刻被改成项链贴在心口——这个动作等于把"已婚"的身份从公开法律层面撤回，转入贴身私密层面。作者一个字都不必解释她的情感，只要写她怎么处置那枚戒指就够了。而"Caspian's wedding ring"这个所有格也提醒读者：他连婚戒都留在了她这里。
 
-**读者视角提示：** 与 ch01 她把婚戒当作任务道具、ch04 她嫌它碍事形成对照——同一件东西，此时才真正变成信物。
+**读者视角提示：** 与这枚戒指一路的遭遇形成对照：ch22 她把它从他断指上褪下来当处刑目标、ch26 她发现它被挪到尚存的小指上——同一件东西，直到此时才真正变成信物。
 
 > **原句 5:** "And if Celestine had known enough to take Caspian's letters, to make sure she had never seen them… Celestine had been stealing from Nore."
 

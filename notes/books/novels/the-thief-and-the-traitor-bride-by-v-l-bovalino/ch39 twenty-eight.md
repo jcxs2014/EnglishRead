@@ -25,7 +25,7 @@ modified: "2026-10-15"
 
 **关键词：** just believed that（就是信了）——两个 just 把她当年放弃判断的惰性暴露无遗。
 
-**为什么这样写：** 三个 "Because" 排比把 Nore 的心理链条一层层剥开：雇主给出解释 → 她不做核实 → 而在心力交瘍之际坏话总是最容易被吞下的。作者用 "she would have believed anything of him" 一句把她的恨本质点破——那不是判断，是情绪需要出口。
+**为什么这样写：** 两个 "Because" 排比把 Nore 的心理链条一层层剥开：雇主给出解释 → 她不做核实 → 而在心力交瘍之际坏话总是最容易被吞下的。第三句改用 After 开头（"After he had nearly killed her"），句式一转，把她恨的根从"相信"挪到"先被伤害过"。作者用 "she would have believed anything of him" 一句把她的恨本质点破——那不是判断，是情绪需要出口。
 
 **读者视角提示：** 这句话为全书的"信息主题"定了调：Nore 交易信息为生，却在自己最该查证的一件事上偷懒。
 
@@ -37,7 +37,7 @@ modified: "2026-10-15"
 
 **为什么这样写：** 整段是 Nore 的自我审判，也是全书结构性悲剧的浓缩解释——两个人都不是不想说，而是都以为对方会"用别的方式知道"。作者用 "he'd let her" 写出 Caspian 的耐心与他的天真：他相信文字能完成对话完成不了的事，而那些文字根本没送到她手里。
 
-**读者视角提示：** 这是把 Celestine 的信息操控写成人际悲剧的关键一笔——缺的六封信成了两人五年的间隔。
+**读者视角提示：** 这是把 Celestine 的信息操控写成人际悲剧的关键一笔——她无法得知的那些，正是他藏在瓶中信里多年的部分；那批信直到 ch41 才被翻出来。
 
 > **原句 3:** "Because I’m yours, too, Finch, and I won’t let you die for what I’ve done."
 
@@ -47,7 +47,7 @@ modified: "2026-10-15"
 
 **为什么这样写：** 这是全章的情感支点，也是全书对 "belonging" 主题最痛的一次改写。他上一句刚说完"我是 Idistran，我不会为你的人民背叛我的人民"，紧接着却承认自己同时属于她。这不是和解，而是把人撕成两半之后的和解——他选择留下的理由不是爱能战胜立场，而是他不能让立场杀掉她。
 
-**读者视角提示：** 与他在 ch09 说的 "I am yours" 是同一句话的暗黑版本：那时是承诺，此刻是遗言。
+**读者视角提示：** 与他在 ch13 求婚时说的 "I'm yours" 是同一句话的暗黑版本：那时是承诺，此刻是遗言。
 
 > **原句 4:** "She winced, realizing how that would sound to Caspian. She did not say goodbye to her husband, her prisoner, as she followed Tern back through the hold."
 

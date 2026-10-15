@@ -7,13 +7,13 @@ modified: "2026-10-14"
 
 ## 本章导航
 
-**一句话概括：** 清晨两人醒来，Caspian 说要回 Nadira、要放下刀；他们用"假装还拥有彼此"的方式告别；随后 Gail 交给 Nore 一瓶毒药，目标是 High Lady 的指挥官 Seward——而 Nore 把毒药倒进水沟、换了一瓶淡水给那位信使。
+**一句话概括：** 清晨两人醒来，Caspian 说要回 Nadira、要放下刀；他们用"假装还拥有彼此"的方式告别；随后 Gail 交给 Nore 一瓶毒药，目标是 High Lady 的指挥官 Seward——而 Nore 把毒药倒进水沟、换了一瓶淡水，趁下午的港区差事递给了 High Lady 的一名卫兵。
 
 **情感弧线位置：** 告别与背叛——她在两个男人之间第一次主动选择了"不做"（不下毒）。
 
 **Tropes 兑现/反转：** 破镜前的最后一夜、毒药任务、徒弟学会背叛自己的雇主。
 
-**人物弧线：** Nore 第一次为了外人（她尊敬/喜欢的 Viper）而违背指令。她向 Caspian 学的第一课不是偷窃，是拒绝。
+**人物弧线：** Nore 第一次为了外人——一个她明说"并不喜欢"的 Viper——而违背指令。她向 Caspian 学的第一课不是偷窃，是拒绝。
 
 **叙事手法：** 清晨与深夜对照 · 以毒药瓶作为道德试纸 · 结尾用"没人更聪明"的冷句作结。
 
@@ -47,7 +47,7 @@ modified: "2026-10-14"
 
 **为什么这样写：** 全章最薄的一声请求。他没有说"不要走"，也没有说"留下来"——只要"一小会儿"。这是全书对"假装"这个词的一次逆转：过去她假装一切（假名、假身份、假婚姻），而这一次她假装的是"我们还可以"。"would you forgive me" 甚至把这份请求变成了对她的赦免申请。
 
-**读者视角提示：** 这与 ch16 的安全词、ch27 的 "Do not act" 一起构成了她对"假装"的三次使用。
+**读者视角提示：** 这与 ch16 的安全词、ch21 的 "Do not act" 一起构成了她对"假装"的三次使用。
 
 > **原句 4:** "It wasn't a conscious decision to lie. She didn't know what purpose it served, or perhaps she'd spent too much time with Caspian."
 
@@ -55,9 +55,9 @@ modified: "2026-10-14"
 
 **关键词：** wasn't a conscious decision to lie
 
-**为什么这样写：** 全书对她道德滑坡最诚实的一次自认。她没有计划，没有挣扎，只是自然而然地护住了 Viper 的命。而她把理由归给 Caspian（"跟他待太久"）——这个归因既可笑又可怜：她学到的不是他的坏，是他的坦率。
+**为什么这样写：** 全书对她道德滑坡最诚实的一次自认。那句谎言的直接后果，是把 High Lady 从 "alternative option"（备选方案）底下的死亡或伤残里推开——她没有计划，没有挣扎，护住谁就先护谁。而她把理由归给 Caspian（"跟他待太久"）——这个归因既可笑又可怜：她学到的不是他的坏，是他的坦率。
 
-**读者视角提示：** 这是她第一次主动背叛雇主（Celestine / Gail），而她说不出为什么。
+**读者视角提示：** 这是她第一次主动背叛她的雇主之敌（Celestine / Gail 这条线），而她说不出为什么。
 
 > **原句 5:** "Nore wrapped her fingers around the vial of poison, tapping it lightly on the table."
 
@@ -67,7 +67,7 @@ modified: "2026-10-14"
 
 **为什么这样写：** 全书最安静的一次勒索。她没有威胁，甚至没有说一句话，只是把玩那个瓶子——因为她知道 Gail 听得懂：我不送，你就得自己动手。她从一个被指令的工具人，第一次变成握着别人命门的谈判者。"tapping it lightly" 的轻，正是她此时的绝对冷静。
 
-**读者视角提示：** 这与 ch05 她被 Gail 交付毒药时的心境（"she couldn't believe she didn't have a choice"）相比是反向的：那次她以为自己没得选，这次她让别人没得选。
+**读者视角提示：** 这与 ch05 她在获悉自己将要与 Caspian 共度数周任务时的心境（"there was no other choice to prevent it"）相比是反向的：那次她以为自己没得选，这次她让别人没得选。
 
 > **原句 6:** "And if she spilled some liquid into a bush on the way down, none were the wiser—and if anyone stopped to see her fill a vial with one of the Isle's many trickles of freshwater that ran down the formations, it was of no note."
 

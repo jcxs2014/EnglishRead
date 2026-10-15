@@ -39,13 +39,13 @@ modified: "2026-10-15"
 
 **读者视角提示：** "end of the tightrope" 的双关很轻：钢丝走完了，悬而未决的日子也完了。
 
-> **原句 3:** "I hate you, Cas. I hate the way your smile makes me feel. I hate that I've spent five years dreaming of you. I hate that you are wrecking everything I've so carefully constructed, and that I'm throwing it away for you. I hate that you have, rightfully, pointed out that everything I've constructed—everything I live for—isn't actually mine at all."
+> **原句 3:** "I hate that you have, rightfully, pointed out that everything I've constructed—everything I live for—isn't actually mine at all. I hate that I love you more than anyone I have ever known."
 
 **中文理解：** "我恨你，Cas。我恨你的笑容让我有的感觉。我恨我这五年一直在梦见你。我恨你正在毁掉我精心建造的一切，而我正在为你把它全部丢掉。我恨你理所应当地指出——我建造的每一样东西、我为之而活的每一样东西，其实都不属于我。"
 
 **关键词：** so carefully constructed（如此精心地建造）；isn't actually mine at all（压根儿不属于我）。
 
-**为什么这样写：** 全书最好的独白。作者用恨做容器盛装爱，因为 Nore 从来不会直说"我爱你"——她只能说"我恨你让我变成这样"。这条恨的链条逐级加深：从身体反应（一个笑）、到时间成本（五年）、到物质牺牲（毁掉全部）、最后到存在论层面的崩塌（我的人生不属于我）。最后一句 "isn't actually mine at all" 是全书的题眼：她一直以为自己是所有者，其实只是 Custodian。
+**为什么这样写：** 全书最好的独白。作者用恨做容器盛装爱，因为 Nore 从来不会直说"我爱你"——她只能说"我恨你让我变成这样"。这条恨的链条逐级加深：从身体反应（一个笑）、到时间成本（五年）、到物质牺牲（毁掉全部）、再到存在论层面的崩塌（我的人生不属于我）。而链条的终点是 "I hate that I love you more than anyone I have ever known"——作者让她把最重的一句藏在最后，因为只有先否定了自己的一切所有权，她才敢承认这份爱有多大。
 
 **读者视角提示：** 这里每一句"恨"都能在书中找到对应事件：笑=ch01、五年=ch27-ch38、建造=她的办公室与生意、指出=ch38 的"Is that really what you call a life?"。这是对全书结构的收束。
 
@@ -65,7 +65,7 @@ modified: "2026-10-15"
 
 **关键词：** your face over me and your knife at my throat（你的脸在我上方，你的刀抵在我喉咙上）。
 
-**为什么这样写：** 他把这句告白的时点定在全书最没有浪漫可言的场景——她被雇主派来杀他，而他刚醒。这是对他们关系本质的最终确认：他们之间从来没有过安全的条件，爱总是在刀口上发生的。而 "waited so long to say it again"（等了这么久才"再"说一次）轻轻带出五年的分量，一个字都不必解释。
+**为什么这样写：** 他把这句告白的时点定在全书最没有浪漫可言的场景——她正把刀架在他脖子上醒来，而他开口第一句是承认自己的罪。这是对他们关系本质的最终确认：他们之间从来没有过安全的条件，爱总是在刀口上发生的。而 "waited so long to say it again"（等了这么久才"再"说一次）轻轻带出五年的分量，一个字都不必解释。
 
 **读者视角提示：** 与 ch05 她把刀架在他喉头上却下不去手的那场戏完全重合——原来那时候他就想说了。
 
