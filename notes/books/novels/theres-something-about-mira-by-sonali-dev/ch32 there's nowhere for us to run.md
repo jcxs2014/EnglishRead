@@ -127,7 +127,7 @@ modified: "2026-10-14"
 
 - **中文理解**："是啊。勉强算体面的新闻学院也有它的好处。"那个讥诮的酒窝出现了。
 - **关键词**：Barely fancy journalism schools have their advantages · The sardonic dimple makes an appearance
-- **为什么这样写**：作者让 Krish 用自嘲消化自己的成果——他找到那个记者的能力来自他一直看不起的出身，而这个酒窝是全书他唯一允许自己出现的表情。
+- **为什么这样写**：作者让 Krish 用自嘲消化自己的成果——他找到那个记者的能力来自他一直看不起的出身；第十七章以来，这个酒窝每次出现都代表他放下防备，这是它最清晰的一次。
 - **读者视角提示**：对照短信线里那句"我造了个怪物"：他给她的命名和她给他学校的命名是同一种玩笑。
 
 > **原句 17:** “He believes they had her killed. The last place she was seen was Pune, at a safe house for women. She was never seen after that.”

@@ -99,7 +99,7 @@ modified: "2026-10-14"
 
 - **中文理解**："所以你承认那个帅记者很帅。"
 - **关键词**：So you admit hot reporter guy is hot
-- **为什么这样写**：作者让 Rumi 抓住的是形容词而不是论点——他在第二十四章就说过"你对他有那方面的心思"，此刻他把这句话升级成承认。
+- **为什么这样写**：作者让 Rumi 抓住的是形容词而不是论点——从第二十四章他撞破她被人追随起，他就在用这件事逗她；此刻他把那句玩笑升级成承认。
 - **读者视角提示**：注意"帅记者（hot reporter guy）"这个称呼：他一直用职业称呼 Krish，而此刻加上了"帅"。
 
 > **原句 13:** An electric buzz spasms in my belly when I think about how hot he is. “Of course he’s hot. Is it possible to be in love with two people at the same time?”
@@ -163,7 +163,7 @@ modified: "2026-10-14"
 - **中文理解**："你能行的，Miru，"他说。
 - **关键词**：You got this, Miru
 - **为什么这样写**：作者让 Rumi 的最后一句是最简单的一句鼓励——他骂了她一整章，最后给的是信任。
-- **读者视角提示**：对照第二十四章他说的"我的世界建立在你就是你之上"：他对她的信心与他对她的依赖是同一件事的两面。
+- **读者视角提示**：对照第二十四章他那句"你知道有多少东西我没能成为，只为了你能成为你吗"：他对她的信心与他对她的依赖是同一件事的两面。
 
 > **原句 22:** We have no way to predict the future, but the star in Druv’s life will always be Druv. The thing that’s changed is that I no longer want to be part of the Druv story, and I can see the labor I’ll have to do to shift our relationship from that to the Druv and Mira story or the Sometimes Mira and Sometimes Druv Depending on the Situation story.
 

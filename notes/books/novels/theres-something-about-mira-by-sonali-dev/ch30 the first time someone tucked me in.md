@@ -22,7 +22,7 @@ modified: "2026-10-14"
 
 - **中文理解**：昨夜她和 Krish 坐在那块礁石上，直到浑身湿透、太阳被大海完全吞没。
 - **关键词**：sat on that rock until we were soaked to the bone · the sun was completely swallowed by the ocean
-- **为什么这样写**：作者用"湿到骨头里"与"太阳被吞掉"两个夸张的自然意象收束上一章——那块礁石上的场景是全书唯一一次时间完全停住的地方。
+- **为什么这样写**：作者用"湿到骨头里"与"太阳被吞掉"两个夸张的自然意象收束上一章——那一夜她第一次把最重的事说出口，而时间在两人之间失了效。
 - **读者视角提示**：注意下一句"我们几乎没有说话"以及"我觉得皮肤被人从身上剥了下来"：倾诉之后不是轻松，是暴露。
 
 > **原句 2:** While Romona is on the phone with her nephew, arranging for a doctor, Aie lectures me about toughening up. “We’re two women in our fifties, and we’ve handled the travel without getting sick. You can’t let your in-laws think you’re so weak.”
@@ -44,7 +44,7 @@ modified: "2026-10-14"
 - **中文理解**："你怎么回事？"母亲趁 Romona 听不见时不断追问，她的低语里掺着愤怒，而不是担忧。
 - **关键词**：her whispers laced with anger · and not worry
 - **为什么这样写**：作者用"掺着愤怒，而不是担忧"这七个字把母亲的情绪定性——她不是不关心，她关心的方式是追究责任。
-- **读者视角提示**：注意"她无耻地等着 Romona 在身边好用她当盾牌"：一个三十三岁的女儿需要准婆婆当盾牌，这是全书最心酸的日常细节之一。
+- **读者视角提示**：注意"她无耻地等着 Romona 在身边好用她当盾牌"：一个快三十岁的女儿还需要准婆婆当盾牌，这是全书最心酸的日常细节之一。
 
 > **原句 5:** All my life I’ve lived with a feeling of being pushed into a corner. Now I feel like someone is hammering me into it.
 
@@ -162,7 +162,7 @@ modified: "2026-10-14"
 
 - **中文理解**：这是她这辈子记得的第一次有人给她掖被角。
 - **关键词**：the first time in my life that I remember someone tucking me in
-- **为什么这样写**：作者让全章收在"掖被角"这个最小的育儿动作上——她三十三岁，第一次被人这样对待，而这正是她一生都在为别人做的事。
+- **为什么这样写**：作者让全章收在"掖被角"这个最小的育儿动作上——她已经是全书里那个照顾所有人的大人，却第一次被人这样对待，而这正是她一生都在为别人做的事。
 - **读者视角提示**：注意上一句她说"我想让这成为我死前吃的最后一样东西"：她用最夸张的话说最真的满足，这一章她终于吃下了东西。
 
 ## 本章词汇

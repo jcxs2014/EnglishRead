@@ -6,7 +6,7 @@ modified: "2026-10-14"
 
 ## 本章导航
 
-**一句话概括**：他们飞抵巴格多格拉、乘车两小时上山，在 Ghoom 寺院的僧人用"Ati dhila"回应之后，一位叫 Janet 的年轻女人认出了"Suru"这个名字——她带他们走进一扇黄门，床上那个瘦得像孩子的女人睁开眼叫了声"Suru?"；Vasu 两个月前被医生宣布只剩六个月、一个月前昏迷，而她说的是"在 Suru 来之前我哪儿也不去"。
+**一句话概括**：他们飞抵巴格多格拉、乘车两小时上山，在 Ghoom 寺院的僧人用"Ati dhila"回应之后，一位叫 Janet 的年轻女人认出了"Suru"这个名字——她带他们走进一扇黄门，床上那个瘦得像孩子的女人睁开眼叫了声"Suru?"；Vasu 两年前被医生宣布只剩六个月，一个月前昏迷，而她说的是"在 Suru 来之前我哪儿也不去"。
 
 **情感弧线位置**：**寻找线的终点，与时间赛跑的开始**。全书最长的寻找在这里结束，而剩下的是二十四小时。
 
@@ -71,7 +71,7 @@ modified: "2026-10-14"
 
 - **中文理解**："很遗憾上面没写'勉强算体面的新闻学院'。"
 - **关键词**：I’m sorry it doesn’t say Barely Fancy Journalism School
-- **为什么这样写**：作者让他用第三十二章那个自嘲的梗开口——他在最紧张的时刻仍然用玩笑，而这是他能给出的唯一轻松。
+- **为什么这样写**：作者让他用第二十八章那个自嘲的梗开口（Barely Fancy）——他在最紧张的时刻仍然用玩笑，而这是他能给出的唯一轻松。
 - **读者视角提示**：注意她的回答"它写了呀"：她接住了玩笑，说明上一章的告白没有毁掉他们的语言。
 
 > **原句 9:** I want to not take the sweatshirt, but the other option is to let my teeth chatter, so I pull it over my head and try not to notice how comforting it smells.
@@ -99,7 +99,7 @@ modified: "2026-10-14"
 
 - **中文理解**："面条头发。"小女孩伸手摸了她的头发，然后指指 Krish 又指指他的头发。
 - **关键词**：Noodle hair
-- **为什么这样写**：作者让全书最温柔的一段由一个不认识她的小女孩完成——她被叫"面条头发"，而这是全书第一次有人不带任何预设地描述她的头发。
+- **为什么这样写**：作者让全书最温柔的一段由一个不认识她的小女孩完成——她被叫"面条头发"，而这是全书唯一一次由一个陌生人给她命名，且那个名字不对她提任何要求。
 - **读者视角提示**：注意她说之前先"壮起胆子（Emboldened）"伸手摸了车窗：触碰是她跨越语言的方式。
 
 > **原句 13:** Silk hair,
@@ -141,14 +141,14 @@ modified: "2026-10-14"
 
 - **中文理解**："太迟了。"
 - **关键词**：Ati dhila
-- **为什么这样写**：作者让全书最重的一句判决用僧人的母语说出、且没有翻译——读者和她一样在几段之后才通过 Janet 明白它的意思。
+- **为什么这样写**：作者让全书最重的一句判决用僧人的母语说出、且没有翻译——她和她身边的人都不知道它的意思，而读者从头到尾也没有得到过翻译。
 - **读者视角提示**：注意僧人说之前先闭眼做了一个"死人的脸或睡着的脸"：他在用身体回答，而他们没看懂。
 
 > **原句 19:** He studies Krish’s face, and something in his expression changes. He grabs Krish’s arm above his elbow and starts walking.
 
 - **中文理解**："他端详 Krish 的脸，而他表情里的什么东西变了。他抓住 Krish 手肘上方的手臂，开始走。"
 - **关键词**：He studies Krish’s face · something in his expression changes · He grabs Krish’s arm above his elbow and starts walking
-- **为什么这样写**：作者让僧人认出的是脸，不是名字——全书第二十七章 Ashatai 说过"我从来不会忘记一张脸"，此刻同样的事发生了第二次。
+- **为什么这样写**：作者让僧人认出的是脸，不是名字——第三十四章 Ashatai 说过"我从来不会忘记一张脸"，此刻同样的事发生了第二次。
 - **读者视角提示**：注意这也确认了 Krish 与 Vasu 的血缘：一张脸在三十年后的陌生人面前仍然有效。
 
 > **原句 20:** What must it feel like to live in the shadow of something so untenably vast? / I feel insignificant, and it’s a beautiful feeling.
@@ -209,7 +209,7 @@ modified: "2026-10-14"
 
 > **原句 28:** Suru?
 
-- **中文理解**：""Suru？"
+- **中文理解**："Suru？"
 - **关键词**：Suru
 - **为什么这样写**：作者让全书最长的寻找结束在一个问号上——她睁开眼说的第一个词是一个名字，而它不是在场任何人的名字。
 - **读者视角提示**：注意叙事者的判断"这是我一生见过的最令人心碎的事"：全书唯一一次她用"一生之最"形容别人的痛。
@@ -230,7 +230,7 @@ modified: "2026-10-14"
 
 > **原句 31:** She likes when people sit with her. The villagers usually come sit with her for hours. They believe Didi’s presence will make everything better.
 
-- **中文理解**：""她喜欢有人陪她坐着。村民们通常会来陪她坐几个小时。他们相信 Didi 的在场会让一切都好起来。"
+- **中文理解**："她喜欢有人陪她坐着。村民们通常会来陪她坐几个小时。他们相信 Didi 的在场会让一切都好起来。"
 - **关键词**：She likes when people sit with her · come sit with her for hours · They believe Didi’s presence will make everything better
 - **为什么这样写**：作者让"在场（presence）"这个词成为 Vasu 一生的总结——她自己一直在为别人在场，而此刻别人为她在场。
 - **读者视角提示**：对照第三十六章 Mira 那句"我是那个撑住他的东西"：陪伴是全书唯一被反复实践的宗教。
@@ -253,7 +253,7 @@ modified: "2026-10-14"
 
 - **中文理解**：就像是她是这个地方的灵魂。就像是她饮下了这些群山的力量。
 - **关键词**：she’s the soul of this place · she’s imbibed the power of these mountains
-- **为什么这样写**：作者让"饮下（imbibed）"这个词接上 Vasu 信里那句"在这个世界上我们都在吃彼此的食物"——她确实吃下了这座山。
+- **为什么这样写**：作者让"饮下（imbibed）"这个词接上第三十四章 Ashatai 那句"在这个世界上我们都在吃彼此的食物"——她确实吃下了这座山。
 - **读者视角提示**：注意村民说的是"她坐过的人总会康复"：全书对她的能力的描述都来自别人，她自己一个字也没说过。
 
 > **原句 35:** A month ago Vasu told the doctor that she’s not going anywhere until Suru comes. / A month ago is when I found the ring.

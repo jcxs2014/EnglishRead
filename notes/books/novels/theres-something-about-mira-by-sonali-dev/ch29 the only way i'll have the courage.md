@@ -65,7 +65,7 @@ modified: "2026-10-14"
 - **中文理解**："别说你就是知道。你不可能知道。你不可能知道她也同样爱着 Reva，你更不可能知道她对我被送走是什么感受。"
 - **关键词**：Please don’t say you just know · You can’t know · how she felt about giving me away
 - **为什么这样写**：作者让 Krish 用三个"你不可能知道"划出他与这件事的边界——他恐惧的不是答案，是被给出一个他无法承受的答案。
-- **读者视角提示**：注意他先说"请别说"：这是全书他第二次用 Please 开头，上一句是"别去"。
+- **读者视角提示**：注意他先说"请别说"：这是他全书唯一一次用 Please 开头的恳求（别处他是下命令或直接拒绝）。
 
 > **原句 8:** “But I do know.” I squeeze the ring in my fist and press it to my chest.
 
@@ -198,7 +198,7 @@ modified: "2026-10-14"
 - **中文理解**：那一天她记得最清楚的，是她知道自己人生结束了的那种确信，以及 Priyanka 的善意感觉像一条救生索。
 - **关键词**：the certainty with which I knew that my life was over · Priyanka’s kindness felt like a lifeline
 - **为什么这样写**：作者让"人生结束的确信"与"救生索"并列——这是全书对创伤之后如何活下去最简洁的一次说明：一条绳索就够了。
-- **读者视角提示**：注意 Priyanka 在这里第一次被点名：读者在第二十二章已经见过她拒绝接受道歉，此刻才知道原因。
+- **读者视角提示**：注意 Priyanka 在这里第一次被点名：读者在第二章家宴上已经见过她拒绝接受道歉，此刻才知道原因。
 
 > **原句 27:** In a couple weeks I missed my period. My mother tracked my periods—remember what I said earlier about trust?
 
@@ -211,7 +211,7 @@ modified: "2026-10-14"
 
 - **中文理解**：她母亲带她去了圣迭戈。那是她在来孟买之前离开 Naperville 最远的一次。
 - **关键词**：My mother took me to San Diego · the farthest I’d ever been from Naperville until I came to Mumbai
-- **为什么这样写**：作者让"最远的距离"这个度量把十七岁与三十三岁接起来——两次远行都是为了藏起同一件事。
+- **为什么这样写**：作者让"最远的距离"这个度量把十七岁与如今接起来——两次远行都是为了藏起同一件事。
 - **读者视角提示**：注意"我们在那里一个人都不认识。她不想冒被任何人发现的险"：母亲的行动是保护，也是封口。
 
 > **原句 29:** My mother reported her, and she was suspended and lost her position as the president of the club.

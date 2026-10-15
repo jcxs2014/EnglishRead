@@ -10,7 +10,7 @@ modified: "2026-10-14"
 
 **情感弧线位置**：**全书谜底的一半落地**。这封信回答了"戒指为什么在 Krish 身上"，也回答了"Vasu 去了哪里"。
 
-**Tropes 兑现/反转**：兑现"失踪的信终于送达"；**反转**在于写信人把她被强暴怀孕的孩子称作"一件礼物"（她送去纽约，是为了让他靠近 Suru）。
+**Tropes 兑现/反转**：兑现"失踪的信终于送达"；**反转**在于她把因强暴而来的孩子送去纽约，理由是"我身上至少有一小块，可以离你近一点"。
 
 **人物弧线**：Vasu 从书信线里那个热烈、爱吃醋的女孩，变成一个在寺院里工作了四年的女人；她唯一没有放弃的是"我们的爱是对的"。
 
@@ -135,7 +135,7 @@ modified: "2026-10-14"
 - **中文理解**：那个可怜的孩子，在一个精神破碎的身体里生长。她对他感到的只有悲伤。她没有力气去感受别的任何东西。
 - **关键词**：That poor child, growing inside a body with a broken spirit · I felt nothing but sadness for him · I did not have it in me to feel anything else
 - **为什么这样写**：作者让她对亲生儿子的第一个感情是"可怜（poor）"——她没有假装母性，而这份诚实正是全书对"母亲"这个角色最不妥协的一次书写。
-- **读者视角提示**：对照 Mira 十七岁时的那句"我考虑过自杀，然后才考虑告诉父母"：两个女人都在最孤立的时候面对一个不该由她们独自承担的身体事实。
+- **读者视角提示**：对照第二十九章 Mira 十七岁那句"我溜出去。我想逃出那个牢笼"（I snuck out. I wanted out of the cage.）：两个女人都在最孤立的时候面对一个不该由她们独自承担的身体事实。
 
 > **原句 18:** The doctor assured me she would make sure he had a good home. An American couple was looking for a baby to complete their family.
 
@@ -183,7 +183,7 @@ modified: "2026-10-14"
 
 - **中文理解**：她将创造的魔法，用来治愈那些让她们的身体呼吸、疼痛和流血的部分。
 - **关键词**：Magic you’ll make to heal the pieces that make our bodies breathe and hurt and bleed
-- **为什么这样写**：作者让 Vasu 用"魔法"定义科学——这是书中"magic"这个词最后一次也是最正面的一次出现（Saket 用它形容珠宝，Rumi 用它形容改变人心）。
+- **为什么这样写**：作者让 Vasu 用"魔法"定义科学——这是全书对"magic"这个词最庄重的一次使用：第十四章 Saket 说他把 Rumi 给他的感觉全放进了首饰，第二十八章 Nirankar 说亡妻 Marilyn"会把这些变成魔法"，都不是这个用法。
 - **读者视角提示**：注意这一句与 Mira 的职业（疼痛管理治疗师）呼应：两个时代的女人都在处理"身体如何疼"。
 
 > **原句 25:** I hope there’s someone there telling you how beautiful you are, someone to cherish the force of nature you are, someone to scold you to rest.
