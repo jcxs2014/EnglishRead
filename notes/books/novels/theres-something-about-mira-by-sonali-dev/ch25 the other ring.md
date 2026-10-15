@@ -323,7 +323,7 @@ modified: "2026-10-14"
 
 - **中文理解**：Reva 把她那枚从脖子上取下来，用颤抖的手把两枚戒指合在一起。严丝合缝。两块拼图锁在一起，像是从来没有被分开过。
 - **关键词**：fits the two rings together · It’s a perfect fit · The puzzle pieces lock together like they were never separated
-- **为什么这样写**：作者让"perfect fit"这个第六章书信里的句子那句“锻造成相配的一对”在这里被实物兑现——两个女人的比喻，四十年后在纽约的一张餐桌上成立。
+- **为什么这样写**：作者让第十八章书信里 Vasu 写的"我们戴着同一枚戒指的两半"在这里被实物兑现——两个女人隔着四十年的那句话，终于在纽约的一张餐桌上成立。
 - **读者视角提示**：注意"内侧的 shree 符号完全对上，一笔一划"：第二十一章 Sak 的鉴定在这里被最终验证。
 
 > **原句 45:** “But you’re obviously related to her,” Reva says. “Looking at you is like seeing her ghost.”
@@ -331,7 +331,7 @@ modified: "2026-10-14"
 - **中文理解**："但你显然和她有血缘关系，"Reva 说。"看着你就像看见她的鬼魂。"
 - **关键词**：you’re obviously related to her · Looking at you is like seeing her ghost
 - **为什么这样写**：作者让"鬼魂"这个词承接第二十一章（Krish 看着 Reva 像见了鬼）——两人互相在对方身上看见同一个消失的人。
-- **读者视角提示**：注意照片里的女人（浓密的睫毛、酒窝、方下颌）：那些细节是第十七章起她反复记下的 Krish 的特征。
+- **读者视角提示**：注意照片里的女人（浓密的睫毛、酒窝、方下颌）：睫毛与酒窝是她从第十六、十七章起就记下的 Krish 的特征，方下颌是这张照片才补上的。
 
 > **原句 46:** “I didn’t want to put her in danger. It wasn’t safe for us back then. Her father had already fired my mother, burned down her house, and sent goons after me.
 
