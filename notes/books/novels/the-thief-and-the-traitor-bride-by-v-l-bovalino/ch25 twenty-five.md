@@ -77,7 +77,7 @@ modified: "2026-10-14"
 | boy | 男孩；小子 | My dear boy |
 | death | 死亡 | Since your mother's death |
 | differently | 不同地 | things I could've done differently |
-| mother | 母亲 | how I would've saved her |
+| mother | 母亲 | Since your mother's death |
 
 ### ⭐ 基础
 
@@ -89,7 +89,7 @@ modified: "2026-10-14"
 | love | 爱 | the great love of your life |
 | son | 儿子 | to his son, Caspian |
 | way | 方法 | If there is a way |
-| year | 年 | 1632 UCE |
+| true | 真正的 | I have no true guidance |
 
 ## 一句话总结
 
