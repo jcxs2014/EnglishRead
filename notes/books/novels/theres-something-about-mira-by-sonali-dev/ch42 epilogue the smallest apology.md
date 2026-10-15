@@ -23,7 +23,7 @@ modified: "2026-10-14"
 - **中文理解**：Rumi 的 sherwani 上有龙虾，Saket 的 anarkali 上是一片镶珠宝的海底。这场婚礼的主题是"要昭然若揭，不然就回家"——显然——而仪式上的二十位客人完全接受了这种象征性的美味。
 - **关键词**：lobsters on Rumi’s sherwani · a jeweled ocean floor on Saket’s anarkali · Go obvious or go home is the theme for this wedding · the symbolic deliciousness of it
 - **为什么这样写**：作者让"昭然若揭（Go obvious or go home）"这个主题直接回应全书的核心冲突——两个被家庭要求隐藏的人，用一场什么都写在衣服上的婚礼开场。
-- **读者视角提示**：注意"龙虾"这个图案：它正是第三十七章 Druv 母亲用来形容 Krish 与 Mira 关系的那个词。
+- **读者视角提示**：注意"龙虾"只出现在这一章（全书别处无 lobster）——它不是回收前文的意象，而是"昭然若揭"主题本身的产物，与后文 duct tape、rings 同属把私人经历绣上衣服。
 
 > **原句 2:** Krish and I are hosting, of course, on the terrace of our apartment overlooking Central Park. Nana Nasty, as Saket and Rumi call Krish’s grandmother, knew how to plant an urban garden, and it’s everyone’s favorite place to hang out.
 
@@ -72,7 +72,7 @@ modified: "2026-10-14"
 - **中文理解**：Karl 穿着带闪电图案的黑色 Pathani 套装，看着很精神，他的女友 Linda 穿着印着灯泡的长袍裙。Saket 的母亲把卡塔克舞者绣进了她的 lehenga，他的继父把乐器绣在他的 sherwani 上。
 - **关键词**：lightning bolts · a caftan dress with lightbulbs · kathak dancers embroidered into her lehenga · musical instruments on his sherwani
 - **为什么这样写**：作者让每个客人身上绣的是"自己的东西"（闪电、灯泡、舞者、乐器）——全书所有人都在隐藏自己，而这场婚礼的规则是把身份绣在衣服上。
-- **读者视角提示**：注意继父（stepfather）这个词：第三十七章 Saket 说过"我想 Saket 是非二元性别者"，而此处家庭构成被平铺直叙地写出。
+- **读者视角提示**：注意继父（stepfather）这个词：第三十一章她说过"我觉得 Saket 认同为非二元性别"（那是她的推测），而此处 Saket 的父母（母亲与继父）同时到场，家庭构成被平铺直叙地写出。
 
 > **原句 9:** It wasn’t easy to keep Krish from frying them himself, because his obsession with Indian cooking is a little out of control. He’s insisted on cooking the biryani himself. It’s Reva’s special recipe that she helped him perfect when we spent four months in Darjeeling with Vasu. Four months that were miraculous in every way. Vasu let us soak up her spirit, and we carry it with us every day.
 
@@ -106,7 +106,7 @@ modified: "2026-10-14"
 
 - **中文理解**："顺便说，我喜欢这件 lehenga，"她说。"我明白那些是戒指，但你要不要告诉我们 Krish 的 kurta 是想表达什么？"
 - **关键词**：Love the lehenga, by the way · I get that those are rings · what Krish’s kurta is supposed to mean
-- **为什么这样写**：作者让她自己穿的衣服上绣的是戒指——全书追了四十一章的东西，此刻成了她礼服上的图案。
+- **为什么这样写**：作者让"戒指"从情节层降到服饰层——Reva 身上是"镶珠宝的海底"与宝塔纹边，Mira 的 lehenga 上绣的是戒指，而 Krish 的 kurta 口袋是胶带。四十一章追的东西，此刻只是衣服上的一处图案。
 - **读者视角提示**：注意"那些是戒指（those are rings）"是复数：她的衣服上有两枚，而不是一枚。
 
 > **原句 14:** “It’s an inside joke,” I say.
