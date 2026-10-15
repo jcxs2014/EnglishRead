@@ -51,7 +51,7 @@ modified: "2026-10-14"
 - **中文理解**：旁注的旁注：她出生在伊利诺伊州 Naperville，从未离开过美国，连加拿大和墨西哥都没去过。
 - **关键词**：born in Naperville, Illinois · have never left the USA · not even to go to Canada or Mexico
 - **为什么这样写**：一句旁注把她"外国人"身份的荒谬坐实了——母亲担心的那个"异乡"，其实是她的家乡。作者用这个反差写出移民家庭第二代的位置：在法律上属于这里，在母亲的想象里仍属于别处。
-- **读者视角提示**：注意上下文——她刚说过自己从未去过印度，祖父母只通过父母朗读的信认识；这里缺的不是地理，是归属。
+- **读者视角提示**：注意本章后半她会说得更完整（她从未去过印度，祖父母只通过父母朗读的信认识）——这里缺的不是地理，是归属。
 
 > **原句 6:** “Mira! You touched a public garbage can?” My mother has never let me use a public toilet.
 
@@ -106,7 +106,7 @@ modified: "2026-10-14"
 
 - **中文理解**：最坏也该是悲伤，至少也该是认出。可他眼里是别的东西，是她太熟悉的东西：贪婪。
 - **关键词**：grief in his eyes at worst · recognition at least · Something I recognize only too well. Greed.
-- **为什么这样写**：这是她"读眼睛"这个 superpower 的第一次实战，也是作者给前面所有职业描写（疼痛治疗师、读身体）的兑现：她真的读出来了，而且读对了。
+- **为什么这样写**：这是她自认的 superpower（读眼睛，见本章 ch11:164）第一次在生死场合派上用场，也是作者给前面所有职业描写（疼痛治疗师、读身体）的兑现：她真的读出来了，而且读对了。
 - **读者视角提示**：注意 Something I recognize only too well——她对贪婪的熟悉来自家庭经验（母亲的 evil eye、怕被占便宜），不是来自街头。
 
 > **原句 14:** “Two things are going to happen now,” he says quietly. “You’re going to let go, and I’m going to walk away.”
@@ -212,4 +212,4 @@ modified: "2026-10-14"
 
 ## 一句话总结
 
-她带着自己核实的结论去见"失主"，却在对方把 naani 说成 daadi 的那一刻识破了骗局——可识破来得太晚：戒指被抢、刀子已经出口，而把她从地上那一摊里拉起来的，正是她刚删掉短信的 Krish Hale。
+她带着自己核实的结论去见"失主"，却在对方把 naani 说成 daadi 的那一刻识破了骗局——可识破来得太晚：戒指被抢、刀子已经出口，而扑上去把抢劫者按住的，正是她刚删掉短信的 Krish Hale。

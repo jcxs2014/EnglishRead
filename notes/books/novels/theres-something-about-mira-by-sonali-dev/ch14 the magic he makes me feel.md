@@ -37,7 +37,7 @@ modified: "2026-10-14"
 - **中文理解**：现在已经没人说 exotic 这个词了，可她在学校里一直被这么叫，连老师也这么叫她。
 - **关键词**：No one says exotic anymore · what I got called all the time · even by my teachers
 - **为什么这样写**：作者把一个赞美词还原成了一道印记。由老师说出这一点很要紧——它说明这种" desirable 的异域感"是被制度授权的，她无处躲。
-- **读者视角提示**：对比第三章里那个 razor 的记忆（她为了"正常"付出了身体代价）：exotic 与"想变正常"是同一枚硬币的两面。
+- **读者视角提示**：对比第四章 Druv 被父亲用剃刀刀片剃头那段记忆：一个人被逼着"正常"，一个人被叫作 exotic——两种伤害相反，却是同一枚硬币的两面。
 
 > **原句 4:** a stamp pressed into my skin that marked me as different in a seemingly desirable way that didn’t feel desirable at all.
 
@@ -120,7 +120,7 @@ modified: "2026-10-14"
 
 - **中文理解**："我想这可能是我最喜欢的一个系列了。我未婚夫说每个系列我都这么说，但这些是我的心、我的孩子。我想我把他让我感受到的全部魔法都放了进去。"
 - **关键词**：my favorite collection yet · these are my heart. My babies · all the magic he makes me feel
-- **为什么这样写**：全章的情感顶点，也是 Sak 与 Rumi 这条线第一次被正面写成爱情。作者让 magic 这个词从第三章 Sak 那套「一次改变一颗心」的理论走成了实物——他真的把感觉做成了首饰。
+- **为什么这样写**：全章的情感顶点，也是 Sak 与 Rumi 这条线第一次被正面写成爱情。作者让 magic 这个词从第四章 Druv 那套「一次改变一颗心」的理论走成了实物——他真的把感觉做成了首饰。
 - **读者视角提示**：注意"我的未婚夫说"这个插入：Sak 提到 Rumi 时的语气是日常，说明这段关系在他那里已经稳定，而她自己的婚事还在"惊讶"阶段。
 
 > **原句 16:** “Are you on social media?” Krish deadpans.

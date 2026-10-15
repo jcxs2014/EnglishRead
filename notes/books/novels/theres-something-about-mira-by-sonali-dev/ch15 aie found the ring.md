@@ -71,7 +71,7 @@ modified: "2026-10-14"
 
 - **中文理解**：也许你根本不该在青年节上对我唱歌。你错了。世界上声音最美的不是 Ashatai Athavale，是你。
 - **关键词**：sung to me at the youth festival · You were wrong · the most beautiful voice in the world
-- **为什么这样写**：作者把青年节那场演唱会（第十二章 Vasu 反复提及的 Pune 重逢）在这里改写成了告白现场——Vasu 唱给观众，眼睛却没离开 Suru。这条伏笔在两封信之后才兑现。
+- **为什么这样写**：作者把青年节那场演唱会（第十二章 Vasu 反复提及的 Pune 重逢）在这里改写成了告白现场——Vasu 唱给观众，眼睛却没离开 Suru。这条伏笔在下一封信里就兑现（1983 年 7 月那封）。
 - **读者视角提示**：注意她先说"你不该唱"，再说"你唱得最好"：她是在说后果，不是在否定那一刻。
 
 > **原句 9:** Everything that happened was like light filling the sky when the sun rises, natural and inevitable.
@@ -135,7 +135,7 @@ modified: "2026-10-14"
 - **中文理解**：你的，永远只是你的，Suru。
 - **关键词**：Yours and only always yours
 - **为什么这样写**：落款从前面几封的 Your friend / Your Silly Vasu 变成了 only always yours——作者用一个署名记下了关系的变化：她们已经不只是朋友了。
-- **读者视角提示**：对照第六章第一封信的落款 Your friend, Vasu：六封信之间，称谓走完了全过程。
+- **读者视角提示**：对照第六章第一封信的落款 Your friend, Vasu：至此四封信之间，称谓走完了一个阶段。
 
 ## 本章词汇
 

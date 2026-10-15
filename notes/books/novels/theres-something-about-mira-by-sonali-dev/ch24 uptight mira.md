@@ -106,7 +106,7 @@ modified: "2026-10-14"
 
 - **中文理解**：这正是当初怂恿她去那个派对的原话。让她有了那段灾难性的叛逆期——只持续了一个晚上，却毁了她的一生。
 - **关键词**：the exact words that goaded me into going to that party · my disastrous rebellious phase · lasted all of one evening and ruined my life
-- **为什么这样写**：作者让这一章的争吵与前文那个秘密（十七岁、堕胎）在这里接上——"一个晚上毁了一生"指的就是那件事。这是全书对那次创伤唯一的正面说明。
+- **为什么这样写**：作者让这一章的争吵与前文那个秘密（十七岁、堕胎）在这里接上——"一个晚上毁了一生"指的就是那件事。这是本章第一次把这个晚上与那次堕胎接在同一句里；而她把它完整讲出来，是在第二十九章。
 - **读者视角提示**：注意"只持续了一个晚上"：她的全部叛逆只有几小时，代价却是一辈子。
 
 > **原句 14:** “At least I’m a jerk who’s living his life. At least I’m not so apathetic, so cautious, such a damn coward I might as well be dead.”
@@ -149,7 +149,7 @@ modified: "2026-10-14"
 - **中文理解**："你难道不想弄清楚吗？你难道不想成为那个'从不为任何事站出来的人'之外的什么人吗？你说你从来没能做你自己。你从来连试着弄清楚那是谁都没试过，这也怪我吗？"
 - **关键词**：Don’t you want to find out · this person who never stands up for anything · Is it my fault that you never even tried to find out who that was
 - **为什么这样写**：作者让 Rumi 的反问刺中她真正的问题——她说的是"我没能做自己"，他问的是"你试过吗"。这是全书对她最准确的一次逼问。
-- **读者视角提示**：注意下一句"她推了他"：这是她全书唯一一次肢体攻击，而它发生在被问到这个问题之后。
+- **读者视角提示**：注意下一句"她推了他"：这是她至此唯一一次对家人动手，而它发生在被问到"你到底在保护谁"这个问题之后。
 
 > **原句 20:** “Call me a coward again and I will punch your face.”
 

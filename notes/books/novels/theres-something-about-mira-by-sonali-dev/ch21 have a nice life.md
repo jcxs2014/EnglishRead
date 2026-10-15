@@ -6,11 +6,11 @@ modified: "2026-10-14"
 
 ## 本章导航
 
-**一句话概括**：没人开门。两人坐在彩虹色台阶上，她逼问 Krish 为什么这么上心，他第一次说"你问吧"；Reva 跑完步回来，认出了她；戒指内侧的梵文符号对上，戒指物归原主——但 Krish 逼问另一只戒指的下落，Reva 说出"我四十年没见过那只戒指了"，然后慌乱地把两人赶出门。
+**一句话概括**：没人开门。两人坐在彩虹色台阶上，她逼问 Krish 为什么这么上心，他第一次说"你问吧"；一个女人沿人行道慢跑过来，在门前停下——正是 Reva；戒指内侧的梵文符号对上，戒指物归原主——但 Krish 逼问另一只戒指的下落，Reva 说出"我四十年没见过那只戒指了"，然后慌乱地把两人赶出门。
 
 **情感弧线位置**：**全书的第一个高点与第一个崩塌**。她做到了没人相信她能做到的事，而 Krish 亲手把它变成了一场冲突。
 
-**Tropes 兑现/反转**：兑现"物归原主"；**反转**在于归来不是终点而是入口——Reva 一听到"四十年"，整个人几乎站不稳。Krish 的反常第一次有了明确的方向：他要的不是故事，是这只戒指的来历。
+**Tropes 兑现/反转**：兑现"物归原主"；**反转**在于归来不是终点而是入口——Reva 一听到"四十年"，整个人几乎站不稳。而 Krish 的反常也第一次有了明确的方向：他要的不只是故事，更是这只戒指的来历。
 
 **人物弧线**：她第一次正面顶撞 Krish（"你为了一个愚蠢的故事对一个可爱的女人发脾气"）；他第一次在她面前完全失控——粗鲁到刻薄。
 
@@ -163,14 +163,14 @@ modified: "2026-10-14"
 - **中文理解**："你在报道这件事？"Reva 的眼睛打量着他。"为什么？"
 - **关键词**：You’re doing a story on this · Reva’s eyes study him · “Why?”
 - **为什么这样写**：作者让 Reva 也问了同一个"为什么"——而且用的是 study（打量）这个动词。两个人都想看穿 Krish，只有 Mira 问出了答案的一半。
-- **读者视角提示**：注意这一句之后她的自我介绍仍是"纽约时报记者"：这是他唯一的面具。
+- **读者视角提示**：注意他先自我介绍"纽约时报的记者"（ch21:117），才被她这句追问击中——"记者"是他此刻唯一的面具。
 
 > **原句 22:** “Well, I’m seriously grateful she did. It’s been like being naked without it. I haven’t been separated from it since I was a child.”
 
 - **中文理解**："我很感激她这么做。没有它就像赤身裸体。我从还是个孩子起就没和它分开过。"
 - **关键词**：I’m seriously grateful she did · It’s been like being naked without it · I haven’t been separated from it since I was a child
 - **为什么这样写**：作者让 Reva 用"赤身裸体"形容失去一只戒指——这个比喻的强度远超物件本身，说明这只戒指是她的第二层皮肤。
-- **读者视角提示**：注意"从我还是个孩子起"：这与第十七章那条链子的"四十年前"、Reva 的"四十年"是同一条时间线。
+- **读者视角提示**：注意"从我还是个孩子起"：这与第十六章那家店师傅说的"至少四十年前"、Reva 的"四十年"是同一条时间线。
 
 > **原句 23:** “Can you describe it for us?” Krish says in the coldest voice I’ve heard come out of him.
 
@@ -240,7 +240,7 @@ modified: "2026-10-14"
 - **中文理解**：她伸手去拿包里的戒指，Krish 把一只手放在她手臂上。"你在干什么？"
 - **关键词**：I reach for the ring in my bag · Krish puts a hand on my arm · What are you doing
 - **为什么这样写**：作者让"归还"这个动作被一只手拦住——这是全书两人第一次在行动上对立，而且他用的是身体。
-- **读者视角提示**：对照第二十章他伸手让她扶：同一只手，两章之间从扶变成拦。
+- **读者视角提示**：对照第十七章他用手肘扶稳她（leaves his hand cupping my elbow until my legs steady），以及第二十章她想扶他而他却站定不动：同一双手，在两章之间从扶变成什么都不做。
 
 > **原句 33:** “What we came here to do. It’s obviously her ring.”
 
@@ -288,7 +288,7 @@ modified: "2026-10-14"
 
 - **中文理解**："她。她五年前去世了。一次划船事故。我们当时在阿拉斯加。那是她在地球上最喜欢的地方。"
 - **关键词**：She died five years ago · A boating accident · It was her favorite place on earth
-- **为什么这样写**：作者让 Reva 在说出死讯之后追加了一句"那是她最喜欢的地方"——丧亲的人会把地点当成遗物来保存。这一句也埋下了全书最大的伏笔之一（船、水）。
+- **为什么这样写**：作者让 Reva 在说出死讯之后追加了一句"那是她最喜欢的地方"——丧亲的人会把地点当成遗物来保存。这一句也把她另一段被藏起来的人生留在空白里：她谈戒指的四十年，却不谈自己这四十年。
 - **读者视角提示**：注意 Mira 认出了那种"远望的眼神"：她的职业让她能读出 grief，哪怕她自己没有经历过这种失去。
 
 > **原句 40:** Her entire body sags with relief, and her already sad eyes glaze with moisture.
@@ -302,7 +302,7 @@ modified: "2026-10-14"
 
 - **中文理解**：在最短的一顿之后，她带着急切和敬畏把它从她手里接过去，而这也让她自己湿了眼眶。
 - **关键词**：After the barest pause · with impatience and reverence · that makes me tear up too
-- **为什么这样写**：作者用两个相反的词（急切／敬畏）形容同一个动作——这正是失而复得的样子。而"这也让我哭了"是全书她第一次因为别人而哭。
+- **为什么这样写**：作者用两个相反的词（急切／敬畏）形容同一个动作——这正是失而复得的样子。而"这也让我哭了"是她第一次为一个陌生人的失而复得哭。
 - **读者视角提示**：注意"最短的一顿"：那一顿里装着四十年。
 
 > **原句 42:** “Thank you,” we both say together and then smile.
@@ -337,7 +337,7 @@ modified: "2026-10-14"
 
 - **中文理解**："我已经四十年没见过那只戒指了。"
 - **关键词**：I haven’t seen the other ring · in forty years
-- **为什么这样写**：作者让这一章的爆点用最平的语气说出来——四十年这个数字把 Reva 直接接上了 1983 那条线，也接上了第十七章"至少四十年前在印度做的"。
+- **为什么这样写**：作者让这一章的爆点用最平的语气说出来——四十年这个数字把 Reva 直接接上了 1983 那条线，也接上了第十六章"至少四十年前在印度做的"。
 - **读者视角提示**：注意两个人的身体反应同时出现（他抬头、她抓住沙发）：这一句是全书两条时间线的第一个焊接点。
 
 > **原句 47:** Krish’s head snaps up, and their eyes meet. We’re indoors, and his glasses are no longer opaque.
@@ -345,7 +345,7 @@ modified: "2026-10-14"
 - **中文理解**：Krish 的头猛地抬起来，两人的目光相遇。他们在室内，他的眼镜不再是不透光的了。
 - **关键词**：Krish’s head snaps up · their eyes meet · his glasses are no longer opaque
 - **为什么这样写**：作者让"眼镜不再是墨镜"这个细节承担了这个瞬间——这是全书第一次，Krish 的眼睛能被别人看见。
-- **读者视角提示**：对照第十七章店主说 Krish 的眼睛像啤酒瓶的褐色：这双眼睛第一次被写进情节里。
+- **读者视角提示**：对照第十六章她写 Krish 的眼睛像啤酒瓶的褐色：这双眼睛第一次被写进情节里。
 
 > **原句 48:** It’s almost like she loses her balance. She grips the back of the couch hard enough that it stretches between her fingers.
 
@@ -415,7 +415,7 @@ modified: "2026-10-14"
 - **中文理解**："好极了，所以你的照相式记忆也是假的。因为《当哈利遇见莎莉》里根本没有马车。"
 - **关键词**：you lied about the photographic memory too · there’s no horse carriage ride in When Harry Met Sally
 - **为什么这样写**：作者让她的反驳变成一次较真——她知道这部电影的每一个细节，而他不知道。这是全书她第一次在知识上赢过他。
-- **读者视角提示**：注意"也是假的"：她顺便把第十七章他那句"照相式记忆"也一起质疑了。
+- **读者视角提示**：注意"也是假的"：她顺手把第十六章他自称的"照相式记忆"也一起质疑了。
 
 > **原句 58:** “The sacrilege,” he mumbles.
 

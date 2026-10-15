@@ -50,7 +50,7 @@ modified: "2026-10-14"
 
 - **中文理解**：还有，"友谊"这个词，用光学术语说就是一个光谱：光束里的每一部分并不相等。
 - **关键词**：the term “friendship” · in light theory a spectrum · every component of the beam is not equal
-- **为什么这样写**：Suru 用一个物理比喻来化解 Vasu 的嫉妒（Varsha），而她选的学科（光学）正好是她自己学的那类东西——作者让她用专业术语处理感情，这既是人物设定，也是她的防御机制。
+- **为什么这样写**：Suru 用一个物理比喻来化解 Vasu 的嫉妒（Varsha），而她引用的是光学术语而她自己是工科出身——作者让她用理科的训练处理感情，这既是人物设定，也是她的防御机制。
 - **读者视角提示**：注意她没有说"我不喜欢 Varsha"，她说的是"友谊是不均匀的"——一句学术陈述同时完成了安慰和否认。
 
 > **原句 6:** Some parts of the spectrum are brilliant, blinding, can vaporize you with their intensity. Others simply exist to make the brilliant parts bearable.

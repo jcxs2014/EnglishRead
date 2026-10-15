@@ -6,7 +6,7 @@ modified: "2026-10-14"
 
 ## 本章导航
 
-**一句话概括**：庆祝日。Krish 骑摩托带她穿过布鲁克林大桥、走完她清单上的纽约地标、买了 kabab、在中央公园被辣酱烧穿了嘴；然后他把她带进已经闭馆的 MoMA——馆长是他姨妈——让她一个人站在那幅《星月夜》前哭了二十分钟；回家路上，两人互相说出了从没对任何人说过的话。
+**一句话概括**：庆祝日。Krish 骑摩托带她穿过布鲁克林大桥、走完她清单上的纽约地标、买了 kabab、在中央公园被辣酱烧穿了嘴；然后他把她带进已经闭馆的 MoMA——馆长是他姨妈——她在《星月夜》前站了二十分钟，他则在一旁发现她哭了；回家路上，两人第一次对彼此说出各自的过去（除他对母亲说过一次之外，他们都没对别人讲过这些）。
 
 **情感弧线位置**：**全书两人之间最好的一天，也是全书最痛的一次袒露**。上一章的冲突在这里被彻底翻转。
 
@@ -359,7 +359,7 @@ modified: "2026-10-14"
 - **中文理解**："那不重要。"他伸出手。"和你一起追一个哑弹故事很愉快。谢谢你，Mira。辣酱悠着点，好吗？"
 - **关键词**：It doesn’t matter · It’s been a pleasure chasing a dud story with you · Take it easy with the hot sauce
 - **为什么这样写**：作者让 Krish 用一句玩笑（辣酱）来结束这一天——他的告别方式是回到他们之间最轻的那个梗，因为重的东西他已经说完了。
-- **读者视角提示**：注意 dud story 呼应第二十一章的 damp squib：他把她的词换成了自己的。
+- **读者视角提示**：注意 dud story 呼应第二十一章他自己那句 damp squib（当时她就说过 his story ending up being a damp squib）：这个词一直是他的，这次他换了个更轻的说法。
 
 > **原句 50:** “You can’t thank me. I’m the one who can never thank you enough.” I think this might’ve been the best day of my entire life.
 

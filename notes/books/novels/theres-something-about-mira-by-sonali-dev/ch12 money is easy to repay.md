@@ -134,7 +134,7 @@ modified: "2026-10-14"
 
 - **中文理解**：也许你可以在实验室里设计个实验把我搞清楚？像切你那些老鼠一样把我的脑子切开。
 - **关键词**：devise an experiment in your lab · figure me out · Slice up my brain like one of your rats
-- **为什么这样写**：她用 Suru 的专业（生理/动物实验）来开自己的玩笑，同时也说出了一个真问题：为什么我的脑子不让我成为"应该成为的样子"。作者让玩笑与自陈共用一句。
+- **为什么这样写**：这封信是 Vasu 写的（落款 Your Silly Vasu）——她拿 Suru 的理工脑开自己的玩笑：实验、实验室、解剖老鼠都是她编出来气对方的比喻，而玩笑底下是真问题——为什么我的脑子不让我成为"应该成为的样子"。作者让玩笑与自陈共用一句。
 - **读者视角提示**：注意她前面那串绕口令（知道自己傻还算不算傻）：她在用逻辑拆自己，而拆不掉。
 
 > **原句 18:** You get to be the keeper of my true self. You once told me that they cannot hurt what they do not know.
