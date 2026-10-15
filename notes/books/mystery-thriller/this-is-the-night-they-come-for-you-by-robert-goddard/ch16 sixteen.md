@@ -7,7 +7,7 @@ modified: "2026-10-15"
 
 ## 本章导航
 
-**一句话概括**：天刚亮，Taleb 在防波堤上见他的上司 Bouras，当面报出「量水人」这条线：Bahlouli 说 Zarbi 告诉他，Laloul 就是那个量水人。Bouras 的反应是一段关于「运气」的哲学（Taleb 一九九五年之所以活下来，是因为炸弹响时他折回去拿烟；那次爆炸死了四十二人），以及一条界限——自二〇〇六年的大赦起，警方的规矩是不许碰这类议题；他要求 Taleb 保证 DSS 不要听到「这个潜在的麻烦」。同一早上，Wendy 一家在火灾后的房子里相对：Stephen 一口咬定是电路老化，又说不出为什么 Nigel Dalby 的回忆录早已在 Nedjar 手上；Wendy 第一次怀疑到「他昨天在车库里藏了什么」。Suzette 在酒店里下了决心：她要跟 Gray 把这件事摊开谈，因为除隐患之外她没有别的路可走。Taleb 抽空去档案室调出 Dalby 的案卷——一九九四年二月二十一日白天，他被一枪打穿头部死在自家阳台上，尸体由旧雇员 Riad Nedjar 发现，结案者是个以草率出名的警员，结论是「伊斯兰主义者所为」。章末，Wendy 用倒车的一撞让箱子「自己」打开，滚出来的是一台旧 Olivetti 打字机——Suzette 在旁边一眼认出：那是她父亲的。
+**一句话概括**：天刚亮，Taleb 在防波堤上见他的上司 Bouras，当面报出「量水人」这条线：Bahlouli 说 Zarbi 告诉他，Laloul 就是那个量水人。Bouras 的反应是一段关于「运气」的哲学（Taleb 一九九五年之所以活下来，是因为炸弹响时他折回去拿烟；那次爆炸死了四十二人），以及一条界限——自二〇〇六年的大赦起，警方的规矩是不许碰这类议题；他要求 Taleb 保证 DSS 不要听到「这个潜在的麻烦」。同一早上，Wendy 一家在火灾后的房子里相对：Stephen 一口咬定是电路老化，又说不出为什么 Nigel Dalby 的回忆录早已在 Nedjar 手上；Wendy 第一次怀疑到「他昨天在车库里藏了什么」。Suzette 在酒店里下了决心：她要跟 Gray 把这件事摊开谈，因为除隐患之外她没有别的路可走。Taleb 抽空去档案室调出 Dalby 的案卷——一九九四年二月二十一日白天，他被一枪打穿头部死在自家阳台上，尸体由旧雇员 Riad Nedjar 发现，结案者是个以草率出名的警员，结论是「伊斯兰主义者所为」。章末，Wendy 挂前进挡撞过去，让那些箱子「自己」塌开，滚出来的是一台旧 Olivetti 打字机——Suzette 在旁边一眼认出：那是她父亲的。
 
 **情感弧线位置**：本章把「量水人」正式抬成案件的核心机密：从这一章起，Taleb 的隐瞒对象不只是搭档，还包括他的上司所代表的整个机构。
 
@@ -65,7 +65,7 @@ modified: "2026-10-15"
 
 **为什么这样写**：这处档案摘要正是本书结构的美感所在：凶手、日期、发现人全都确定了，可凶手是谁仍然没人知道。作者用「星期日几」这种档案腔（`Monday 21 February 1994`）反衬 Taleb 的判断——这一枪需要计划、耐心和精确。
 
-**读者视角提示**：记住发现尸体的人是 Nedjar：他是在本书 2021 年的时间线里唯一同时认识 Dalby、Gray 与 Laloul 的人，这段档案把他的位置提前钉住了。
+**读者视角提示**：记住发现尸体的人是 Nedjar：他是在本书 2020 年的时间线里唯一同时认识 Dalby、Gray 与 Laloul 的人，这段档案把他的位置提前钉住了。
 
 ---
 
@@ -107,9 +107,9 @@ modified: "2026-10-15"
 
 > **原句 8:** It’s an old manual Olivetti typewriter. How old Wendy wouldn’t like to say. It looks to her as if it dates from the middle of the previous century. And it’s had a lot of use, judging by the chips to the paintwork and some of the keys.
 
-**中文理解**：那是一台老式的 Olivetti 手提打字机。有多老，Wendy 说不清。在她看来，它像是上个世纪中叶的东西。
+**中文理解**：那是一台老式的 Olivetti 手动打字机。有多老，Wendy 说不清。在她看来，它像是上个世纪中叶的东西。
 
-**关键词**：`old manual Olivetti typewriter`（老式的 Olivetti 手提打字机）、`dates from the middle of the previous century`（像是上个世纪中叶的东西）、`had a lot of use`（用得很多）
+**关键词**：`old manual Olivetti typewriter`（老式的 Olivetti 手动打字机）、`dates from the middle of the previous century`（像是上个世纪中叶的东西）、`had a lot of use`（用得很多）
 
 **为什么这样写**：全章的收束物：一台在英格兰乡村车库里躺了一天的打字机，替整本书前半段所有关于「这份自述是不是他写的」的争论给出了答案。作者的处理很省力——不写 Wendy 的震惊，只写年代和磨损；让物本身说话。
 

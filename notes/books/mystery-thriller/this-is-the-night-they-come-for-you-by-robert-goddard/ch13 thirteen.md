@@ -41,7 +41,7 @@ modified: "2026-10-15"
 
 **为什么这样写**：两个 `I had to live with` 平行句先把自己钉在原地，第三句再来一个反转：真正的耻辱不是参与，而是他居然活得下去。作者用 `managed`（居然做到了）这个本应褒义的词完成指控——一个关于「活下去」的讽刺。
 
-**读者视角提示**：这一句也解释了全书标题的另一半含义（他，是一对夫妻深夜来找的人）：活下来的确有代价。
+**读者视角提示**：这一句写的是活下来的代价：他逃过了追捕，却没逃过自己参与过的那件事——代价不是被找到，而是从此知道它会找到他。
 
 ---
 
@@ -95,9 +95,9 @@ modified: "2026-10-15"
 
 > **原句 7:** And so I returned under safe escort to these rooms where I can hide from the Islamists but not from the hard truths Zarbi and Laloul laid before me that morning in the brittle autumn sunshine above the heedless blue of the Mediterranean. I wonder how many other inhabitants of this city have come to such a bleak moment of understanding: that le pouvoir is not something apart from them; that they are themselves part of the state of things – that they cannot escape it because it is always within them.
 
-**中文理解**：我想知道，这座城里还有多少人也走到了如此黯淡的一刻明白：政权并不是与他们外在的东西；他们自己就是这个局面的一部分——他们逃不掉，因为它始终在他们心里。
+**中文理解**：我想知道，这座城里还有多少人也走到了如此黯淡的一刻明白：政权并不在他们身外；他们自己就是这个局面的一部分——他们逃不掉，因为它始终在他们心里。
 
-**关键词**：`such a bleak moment of understanding`（如此黯淡的一刻明白）、`le pouvoir is not something apart from them`（政权并不是与他们外在的东西）、`they are themselves part of the state of things`（他们自己就是这个局面的一部分）、`they cannot escape it because it is always within them`（他们逃不掉，因为它始终在他们心里）
+**关键词**：`such a bleak moment of understanding`（如此黯淡的一刻明白）、`le pouvoir is not something apart from them`（政权并不在他们身外）、`they are themselves part of the state of things`（他们自己就是这个局面的一部分）、`they cannot escape it because it is always within them`（他们逃不掉，因为它始终在他们心里）
 
 **为什么这样写**：这是全书对「共谋」下过的最完整定义：恶不在身外，而在人里面。作者把这一句放在书评式的长句里，四个分句层层收窄，最后落在 `within them`（在他们心里）。它既是 Nigel 的自我判词，也是给读者的：读到这里的人，与此刻正在读文件的 Suzette 都知道得太多了。
 

@@ -41,7 +41,7 @@ modified: "2026-10-15"
 
 **为什么这样写**：一句反驳精确地揭出这套体系的运行方式：中间人被刻意隐藏，连受雇的人也只知道链条的另一端。作者常安排这种「合理却无效」的质疑，用来展示权力如何分层。
 
-**读者视角提示**：Kermadec 的回应不是解释而是威胁式的命令（下一段「你们俩都给我闭嘴」）——力量对比在这两个回合中已经交代清楚。
+**读者视角提示**：Kermadec 对这句反驳不加解释，只给了一道让他闭嘴的眼色（`a silencing glare`），随后把话接过去——力量对比在这两个回合中已经交代清楚。
 
 ---
 
@@ -97,7 +97,7 @@ modified: "2026-10-15"
 
 **中文理解**：他要她照旧去交文件，但要带上 Zarbi 的新条件：价钱从一千万涨到一千二百万欧元。
 
-**关键词**：`delivering Zarbi’s final terms`（递送 Zarbi 的最终条件）、`the price has gone up`（价钱涨了）、`It was ten million euros`（原先是八位数的一半——一千万欧元）、`Now it’s twelve`（现在是一千二百万）
+**关键词**：`delivering Zarbi’s final terms`（递送 Zarbi 的最终条件）、`the price has gone up`（价钱涨了）、`It was ten million euros`（原先是一千万欧元）、`Now it’s twelve`（现在是一千二百万）
 
 **为什么这样写**：作者用一次加价完成中间人的自我加冕：原先的交易里 Suzette 还是谈判者，现在她只是信差。数字从十到十二的变化很小，权力关系的变化却很大。
 

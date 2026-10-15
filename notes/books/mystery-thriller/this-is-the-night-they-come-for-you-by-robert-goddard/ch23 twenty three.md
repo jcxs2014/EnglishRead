@@ -7,7 +7,7 @@ modified: "2026-10-15"
 
 ## 本章导航
 
-**一句话概括**：Taleb 与 Hidouchi 去机场旅馆找 Boukhatem，却发现他已死在浴室门口——现场留下九毫米弹壳，Hidouchi 判断弹道会证明凶手用的是 Taleb 的枪：所谓「行动紧急状况」正是为了把人杀掉再把枪送回。她随即朝尸体补开三枪以搅乱弹道，两人从消防梯逃走，用衣架与螺丝刀偷了一辆旧 Lancia，甩开酒店门口闪着蓝灯的警车。她掏出「总部不知道号码」的灰色手机，让 Taleb 上网找到第十区一家老音响店（L'Électronique d'Époque），用一百欧元换来一台 Philips 开盘机与楼上一间储物室。两人在那里听完 1965 年 6 月 2 日的磁带：Tournier 在刑求下交代德高乐的秘密委员会、十月十七日屠杀是他亲手布的局、以及「独立必须失败」的长线安排。听完后他们决定设法单独见 Ménard 的助手 Réau。
+**一句话概括**：Taleb 与 Hidouchi 去机场旅馆找 Boukhatem，却发现他已死在浴室门口——现场留下九毫米弹壳，Hidouchi 判断弹道会证明凶手用的是 Taleb 的枪：所谓「行动紧急状况」正是为了把人杀掉再把枪送回。她随即朝尸体补开三枪以搅乱弹道，两人从消防梯逃走，用衣架与螺丝刀偷了一辆旧 Lancia，甩开酒店门口闪着蓝灯的警车。她掏出「总部不知道号码」的灰色手机，让 Taleb 上网找到第十区一家老音响店（L'Électronique d'Époque），用一百欧元换来一台 Philips 开盘机与楼上一间储物室。两人在那里听完 1965 年 6 月 2 日的磁带：Tournier 在刑求下交代戴高乐的秘密委员会、十月十七日屠杀是他亲手布的局、以及「独立必须失败」的长线安排。听完后他们决定设法单独见 Ménard 的助手 Réau。
 
 **情感弧线位置**：本章是全书的结构转折点：前二十章的调查在此转为逃亡，而磁带内容则把私人复仇的故事一次性扩展到法国—阿尔及利亚五十年的政治史。
 
@@ -83,7 +83,7 @@ modified: "2026-10-15"
 
 > **原句 6:** ‘We gave you your country, my friends, but it came with a condition we were determined to impose. You can’t prosper. Independence can’t be allowed to work. Algeria – your Algeria – must be a failure.
 
-**中文理解**：录音里 Tournier 说到德高乐交付的「条件」：我们给了你们国家，但你们不许繁荣——独立不能被允许奏效，你们的阿尔及利亚必须是个失败。
+**中文理解**：录音里 Tournier 说到戴高乐交付的「条件」：我们给了你们国家，但你们不许繁荣——独立不能被允许奏效，你们的阿尔及利亚必须是个失败。
 
 **关键词**：`it came with a condition we were determined to impose`（它附带着一个我们决心施加的条件）、`Independence can’t be allowed to work`（独立不能被允许奏效）、`must be a failure`（必须是个失败）
 

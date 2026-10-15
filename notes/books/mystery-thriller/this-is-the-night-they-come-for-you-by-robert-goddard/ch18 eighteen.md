@@ -7,7 +7,7 @@ modified: "2026-10-15"
 
 ## 本章导航
 
-**一句话概括**：Taleb 与 Hidouchi 一起审 Razane Abderrahmane。老太太先拿两人开玩笑（龟与羚羊），再矢口否认，直到 Hidouchi 抛出她在 DSS 系统里挖到的那条情报：一九七九年八月五日出生、姓氏后来由 Abderrahmane 改为 Aberkane、名 Zakaria、父亲一栏空白，而这个名字本身就是指认——那是她与 Zarbi 的儿子，如今在沙姆沙伊赫管一家酒店。Abderrahmane 的防线就此崩掉：她承认自己为 Zarbi 奔走，把 Gray 的回忆录当成勒索工具，并交代了整条联络链——她经 Nedjar 联系 Gray、把 Gray 伪装成律师的书记员送进监狱探视、再把他送进 Zarbi 的别墅，事后再把回话带回给 Zarbi。Zarbi 现在大概在馬赛，且「只能被猎，不能被叫」（他是 DRS 出身）。审完，Hidouchi 说她从一份自己本无权接触的 DRS 档案里拿到这些，并对接下来去伦敦表示出罕见的信心。
+**一句话概括**：Taleb 与 Hidouchi 一起审 Razane Abderrahmane。老太太先拿两人开玩笑（龟与羚羊），再矢口否认，直到 Hidouchi 抛出她在 DSS 系统里挖到的那条情报：一九七九年八月五日出生、姓氏后来由 Abderrahmane 改为 Aberkane、名 Zakaria、父亲一栏空白，而这个名字本身就是指认——那是她与 Zarbi 的儿子，如今在沙姆沙伊赫管一家酒店。Abderrahmane 的防线就此崩掉：她承认自己为 Zarbi 奔走，把 Gray 的回忆录当成勒索工具，并交代了整条联络链——她经 Nedjar 联系 Gray，安排 Gray 以 Zarbi 律师的书记员身份进监狱探视，再把他送进 Zarbi 的别墅，事后再把回话带回给 Zarbi。Zarbi 现在大概在马赛，且「只能被猎，不能被叫」（他是 DRS 出身）。审完，Hidouchi 说她从一份自己本无权接触的 DRS 档案里拿到这些，并对接下来去伦敦表示出罕见的信心。
 
 **情感弧线位置**：本章是全书的第一次完整交代：Zarbi 一方的动机、目标与操作方式被一次性说清，而警方这边的两人关系也完成了翻转（Hidouchi 主动道歉、并开始与 Taleb 并肩）。
 
@@ -33,15 +33,15 @@ modified: "2026-10-15"
 
 ---
 
-> **原句 2:** ‘Born August fifth, 1979. Registered surname at birth later altered from Abderrahmane to Aberkane. Forename Zakaria. Father not identified.
+> **原句 2:** ‘Born August fifth, 1979. Registered surname at birth later altered from Abderrahmane to Aberkane. Forename Zakaria. Father not identified. But you were the mother. And the choice of Zakaria as a forename hints at Zarbi as the father.’
 
-**中文理解**：一九七九年八月五日出生。出生登记的姓氏后来由 Abderrahmane 改成了 Aberkane。名 Zakaria。父亲未登记。但你是他的母亲。
+**中文理解**：一九七九年八月五日出生。出生登记的姓氏后来由 Abderrahmane 改成了 Aberkane。名 Zakaria。父亲未登记。但你是他的母亲。而以 Zakaria 为名，本身就是在指认 Zarbi 是父亲。
 
 **关键词**：`Born August fifth, 1979`（一九七九年八月五日出生）、`surname at birth later altered from Abderrahmane to Aberkane`（姓氏后来由 Abderrahmane 改成 Aberkane）、`Father not identified`（父亲未登记）、`you were the mother`（但你是他的母亲）
 
-**为什么这样写**：Hidouchi 的攻势不是提问而是报数：四个短句像档案摘抄（出生日期、姓氏、名、父亲栏），把对方三十多年的隐情念成一份记录。作者故意让最后一击最短——`But you were the mother`。
+**为什么这样写**：Hidouchi 的攻势不是提问而是报数：四个短句像档案摘抄（出生日期、姓氏、名、父亲栏），把对方三十多年的隐情念成一份记录。作者让最重的一击落在一句最短的话上——`But you were the mother`；随后那句解释（名字本身就是指认）才是把两个人钉在一起的钉子。
 
-**读者视角提示**：这段的口径值得记住：她是用一次出生登记锁住 Zarbi 与 Abderrahmane 的关系，而那个孩子后来凭一个名字（Zakaria）指认父亲。本书里所有的实名都既是身份也是把柄。
+**读者视角提示**：这段的口径值得记住：她是用一次出生登记锁住 Zarbi 与 Abderrahmane 的关系，而 Zakaria 这个名字本身就是对父亲的指认。本书里所有的实名都既是身份也是把柄。
 
 ---
 
@@ -53,7 +53,7 @@ modified: "2026-10-15"
 
 **为什么这样写**：两句并列格言，一句正说、一句反说，作者用最简单的对子写出 Abderrahmane 的全部处境：她为之奔走三十年的理由，也正是她被一句话击穿的原因。
 
-**读者视角提示**：这句话出自她抽第一口烟的瞬间（原文提到烟），把它与 Q1 的处世哲学连起来读，就知道作者给这位老太太的从来不是正邪之分，而是一套自洽的生存逻辑。
+**读者视角提示**：这句话出自她抽第一口烟的瞬间（原文提到烟），把它与前面原句 1 的处世哲学连起来读，就知道作者给这位老太太的从来不是正邪之分，而是一套自洽的生存逻辑。
 
 ---
 

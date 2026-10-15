@@ -99,7 +99,7 @@ modified: "2026-10-15"
 
 **关键词**：`We start identifying her operatives`（我们开始查她的特工）、`We start putting names and faces to hizb fransa`（我们开始给『法国党』的人配上名字和脸）、`We prepare for the struggle to come`（我们为即将到来的斗争做准备）
 
-**为什么这样写**：全书没有把结尾停在「正义终于到来」，而是停在一个新的追查计划上——作者让「水计量官」这个从第 5 章起就悬着的职位再次回到台面。
+**为什么这样写**：全书没有把结尾停在「正义终于到来」，而是停在一个新的追查计划上——作者让「水计量官」这个从第 14 章起就悬着的职位再次回到台面。
 
 **读者视角提示**：Taleb 的回应是想退休（`I should be preparing for my retirement.`），而她的回答是「你退不了，要做的事太多」——这也正是 Bouras 当天上午说过的话，两个人从同一头把他按住。
 

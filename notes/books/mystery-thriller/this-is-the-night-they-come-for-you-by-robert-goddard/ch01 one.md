@@ -9,11 +9,11 @@ modified: "2026-10-15"
 
 **一句话概括**：疫情下的阿尔及尔，临近退休的探长 Mouloud Taleb 被局长 Farid Bouras 叫上楼：二十年前卷走 Sonatrach 巨款外逃的 Laloul 仍无下落，而当年被他抛下独自顶罪的旧同伙 Zarbi 本月从自己的别墅里消失了，一艘以 Zarbi 名义租下的船也从 Sidi Ferdj 的泊位不见踪影。Taleb 接下这桩没人愿意碰的差事，要与 DSS 的女特工 Souad Hidouchi 一起查，并且在答应的那一刻感到一种陌生的轻快。
 
-**情感弧线位置**：全书正题第一格，温度从最低处起手：一个被遗忘的老警察坐在闷热的办公室里等下班，被一通电话从停滞里拉出来。全章的落点是那种轻快——温度第一次动了，而推动它的不是任何人的劝说，是他自己承认他好奇。
+**情感弧线位置**：全书正题第一格，温度从最低处起手：一个被遗忘的老警察坐在闷热的办公室里等下班，被一通电话从停滞里拉出来。全章的落点是那种轻快——温度第一次动了，而推动它的不是任何人的劝说——是他自己承认他还在找一个目的，一种意义。
 
 **线索与伏笔**：一章之内埋下后面要对账的几件事：Zarbi 的失踪与那艘从 Sidi Ferdj 消失的船、Laloul 二十年的下落、DRS 改组成 DSS 与 Toufik 的去职、Bouras 交给他的那部只供极端紧急时使用的手机，以及 Souad Hidouchi 这个名字——Taleb 听到她说出口时的意外。
 
-**人物弧线**：本章跟随 Taleb 一个人。他做了三件事：在窗前把自己认作被遗忘的人，在局长办公室里明说想在退休前把 Laloul 绳之以法，在楼梯的半层上承认他答应的理由不是责任、不是报复、也不是赎罪，而是好奇。推动这个转变的不是任务的分量，而是终于有一件事值得做——他在回答这个问题时，把自己从等下班的人变成了要出发的人。
+**人物弧线**：本章跟随 Taleb 一个人。他做了三件事：在窗前把自己认作被遗忘的人，在局长办公室里明说想在退休前把 Laloul 绳之以法，在楼梯的半层上承认他要的不是赞誉、不是赎罪，也不是刺激，而是一个目的、一种意义。推动这个转变的不是任务的分量，而是终于有一件事值得做——他在回答这个问题时，把自己从等下班的人变成了要出发的人。
 
 **叙事手法**：第三人称限知，全章只给 Taleb 一个人的内视角，读者知道的与他同步。幽默来自他自嘲式的比喻，而政治底色由叙述者两次直接出面压住：一次是墙上那块照片留下的空白，一次是不带引号给出的 le pouvoir 的定义。章末以三个动作收束，把一整套行政流程收成一个私人的决定。
 
@@ -47,7 +47,7 @@ modified: "2026-10-15"
 
 > **原句 3:** It affords a good view of a white rectangle on the wall behind Bouras’s desk, marking the spot where for twenty years hung a framed photograph of President Bouteflika. Following Bouteflika’s forced resignation last year, it has not been replaced, despite the election of a successor. Its absence suggests a certain lack of confidence in the new regime, which Taleb shares.
 
-**中文理解**：从局长的办公室望出去，景色不错，墙上却有一块白色的长方形——那是二十年来挂着布特弗利卡总统照片的地方。去年布特弗利卡被迫下台之后，照片没有再挂回去，尽管新总统已经选出。这块空白说明新政权缺了点底气，而 Taleb 也有同感。
+**中文理解**：他陷在那张出了名难坐的沙发上，视线却正好落在局长办公桌后面的墙上：那里有一块白色的长方形——那是二十年来挂着布特弗利卡总统照片的地方。去年布特弗利卡被迫下台之后，照片没有再挂回去，尽管新总统已经选出。这块空白说明新政权缺了点底气，而 Taleb 也有同感。
 
 **关键词**：`a white rectangle on the wall`（墙上的一块白长方形）、`marking the spot`（标示出那个位置）、`forced resignation`（被迫辞职）、`a certain lack of confidence in the new regime`（对新政权的某种不信任）
 
