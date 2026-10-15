@@ -359,7 +359,7 @@ modified: "2026-10-14"
 - **中文理解**："那不重要。"他伸出手。"和你一起追一个哑弹故事很愉快。谢谢你，Mira。辣酱悠着点，好吗？"
 - **关键词**：It doesn’t matter · It’s been a pleasure chasing a dud story with you · Take it easy with the hot sauce
 - **为什么这样写**：作者让 Krish 用一句玩笑（辣酱）来结束这一天——他的告别方式是回到他们之间最轻的那个梗，因为重的东西他已经说完了。
-- **读者视角提示**：注意 dud story 呼应第二十一章他自己那句 damp squib（当时她就说过 his story ending up being a damp squib）：这个词一直是他的，这次他换了个更轻的说法。
+- **读者视角提示**：注意 dud story 呼应第二十一章他自己那句 damp squib（他当时说"那就是我的故事，最后成了个哑炮"）：这个词一直是他的，这次他换了个更轻的说法。
 
 > **原句 50:** “You can’t thank me. I’m the one who can never thank you enough.” I think this might’ve been the best day of my entire life.
 

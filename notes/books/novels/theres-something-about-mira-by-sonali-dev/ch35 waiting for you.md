@@ -135,7 +135,7 @@ modified: "2026-10-14"
 - **中文理解**：那个可怜的孩子，在一个精神破碎的身体里生长。她对他感到的只有悲伤。她没有力气去感受别的任何东西。
 - **关键词**：That poor child, growing inside a body with a broken spirit · I felt nothing but sadness for him · I did not have it in me to feel anything else
 - **为什么这样写**：作者让她对亲生儿子的第一个感情是"可怜（poor）"——她没有假装母性，而这份诚实正是全书对"母亲"这个角色最不妥协的一次书写。
-- **读者视角提示**：对照第二十九章 Mira 十七岁那句"我溜出去。我想逃出那个牢笼"（I snuck out. I wanted out of the cage.）：两个女人都在最孤立的时候面对一个不该由她们独自承担的身体事实。
+- **读者视角提示**：对照第二十九章 Mira 十七岁那句"我溜出去。我想逃出那个牢笼"：两个女人都在最孤立的时候面对一个不该由她们独自承担的身体事实。
 
 > **原句 18:** The doctor assured me she would make sure he had a good home. An American couple was looking for a baby to complete their family.
 

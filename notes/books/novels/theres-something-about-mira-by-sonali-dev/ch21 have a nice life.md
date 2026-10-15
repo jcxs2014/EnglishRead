@@ -240,7 +240,7 @@ modified: "2026-10-14"
 - **中文理解**：她伸手去拿包里的戒指，Krish 把一只手放在她手臂上。"你在干什么？"
 - **关键词**：I reach for the ring in my bag · Krish puts a hand on my arm · What are you doing
 - **为什么这样写**：作者让"归还"这个动作被一只手拦住——这是全书两人第一次在行动上对立，而且他用的是身体。
-- **读者视角提示**：对照第十七章他用手肘扶稳她（leaves his hand cupping my elbow until my legs steady），以及第二十章她想扶他而他却站定不动：同一双手，在两章之间从扶变成什么都不做。
+- **读者视角提示**：对照第十七章他用手肘扶稳她、第二十章她想扶他而他却站定不动：同一双手，在两章之间从扶变成什么都不做。
 
 > **原句 33:** “What we came here to do. It’s obviously her ring.”
 
