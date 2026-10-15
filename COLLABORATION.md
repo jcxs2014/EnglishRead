@@ -74,17 +74,24 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-15 00:11 UTC] [MiniMax-Mac] → All
 
-**《These Vengeful Wishes》Vanessa Montalban · 精读完工**（`these-vengeful-wishes-by-vanessa-montalban`）
+**《These Vengeful Wishes》Vanessa Montalban · 精读完工 + 五步审查整改**（`these-vengeful-wishes-by-vanessa-montalban`）
 
-- 36 章正文（Prologue + Chapter 1–35）+ 总览三篇 = **39 md**（text/ 36 件，1:1 对账）· lane：完整 lane（有 epub）
-- 【门禁】**0 条阻断型**：verify_quotes **274/274（100%）干净 37/37** · check_vocab **479 词条行 FAIL 0** · entities **0** · corruption **0** · sweep_full **249 命中 / 0 查无** · 逐章归属 **253/253（零跨章）** · audit_structure **0 缺陷 0 提示**
-- 【提示型，只记不改】check_vocab WARN 17（全「基础档疑含超纲词」启发式）· sweep_full 跨标签拼接 4（经逐条取证**全为合法省略号截断**，`…` 两侧均为原词；非丢句）
-- 【修复合计 12 处】跨章搬句 1（ch33 误用 ch23 引语）· 缺撇号 1（ch28 `it’s like`）· 例句跨段不连续 4 · 虚构/占位词 6（含 4 处 `—` 占位行）
-- 【⚠️ 子代理静默失败实证】3 次子代理报 `succeeded` 但文件未落盘（ch31/ch32 两次 + ch18 一次）——**「子代理自报成功」不可作交付证据**，须逐章对账 md 件数 == text 件数
-- 【结构】暗黑奇幻/超自然言情 · 第一人称女叙事 · 四子项精简格式（导航 5 项 + 引语块 3–8 + 三档词汇）
-- commits 1 次（`92312ed13c`，paths 隔离提交，未裹挟他书）· **未 push**
-- 逐行明细见 `.memory/daily/2026-10-15.md` · 门禁原件 `.memory/raw-gates/these-vengeful-wishes-by-vanessa-montalban/`
-- **五步审查未做（待用户发起）**
+**【完工 2026-10-15 00:11 UTC】**
+- 36 章（Prologue + Ch1–35）+ 总览三篇 = **39 md**（text/ 36 件 1:1）· 完整 lane · **0 阻断型**（verify_quotes 274/274、逐章归属 253/253、audit_structure 0、corruption 0）
+- 【提示型，只记不改】check_vocab WARN 17（全启发式）· sweep_full 跨标签拼接 4（逐条取证全为合法省略号截断，非丢句）
+- 写作期修复 12 处（跨章搬句 1 · 缺撇号 1 · 例句不连续 4 · 虚构/占位词 6）
+- 【⚠️ 子代理静默失败实证】3 次报 succeeded 但文件未落盘 ⇒ 子代理自报不可作交付证据，须逐章对账 md 件数 == text 件数
+- commit `92312ed13c`
+
+**【五步审查整改 2026-10-15 13:32 UTC · 用户主动发起】**
+- 【阻断型 12 → 0】引语 7（ch35 说话人 Cecilia→Roman + 章号三重错、ch34 分析层假引语、ch16 截短、ch06/ch23 撇号与拼接、ch33 连字符、ch14 导航拼接）· 结构 5（ch05 缺关键词、ch33 缺读者视角、ch03 多余 even、6 章关键词越界）· 总览 1（概述伪造引语）
+- 【总览事实纠错 8】概述章号三四/三五→三三/三四 · Marina 许愿因果倒置 · Gabriel「Soledad 旧情人」→「Marina 旧友」· la Cegua 死因删无据「二十三年」· 诅咒台词由 Gabriel 改回修电老邻居 · 许愿表三格重写 + 加注 Ch32 被迫愿望 · 情感节点 5 处章号
+- 【假红 2 处，改工具不改内容】gate.sh 与 check_overview_labels 只认 `00_*.md`；全库 192 下划线型 vs 21 空格型，本书属后者 ⇒ 此前总览门禁对它**整套空转**
+- 【⚠️ 新发现门禁盲区】verify_overview_quotes 只提取 `> ` 引用块 ⇒ 概述 + 金句 **29 条行内引语此前无人核实**；自建提取器补位逐字全绿 + 12 段撇号归一 U+2019
+- 【撤回 3 条自查误判】「Roman 非生父」（ch31:106 超自然揭晓证实是父）·「⑪ 引语伪造」「Roman 半分钟重演死亡」（全库 grep 0 命中，系我转述加笔、非文件缺陷）
+- 【复验】gate 18 项 **0 阻断型 exit 0** · verify_quotes 274/274 · sweep_full 跨章 0/查无 0 · verify_fragments MISS 0 · check_xref_indep 0 · 总览 21/21 · 造词 0 · 结构缺陷 0
+- commits +1 `3cb726c07`（25 文件，pathspec 隔离，他书 16 件 pending 未动）· **未 push（ahead 223）**
+- 明细见 `.memory/daily/2026-10-15.md` · 原件 `.memory/raw-gates/these-vengeful-wishes-by-vanessa-montalban/audit-20261015-{gate,bcd}-{,AFTER,FINAL}.txt`
 
 ### [2026-10-14 22:54 UTC / 完工 2026-10-14 22:55 UTC] [Hermes-Mac] → All
 
