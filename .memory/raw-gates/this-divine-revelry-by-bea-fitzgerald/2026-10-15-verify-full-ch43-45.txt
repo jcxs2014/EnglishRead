@@ -1,0 +1,49 @@
+ch01 chapter one.md: 6/6 ✅
+ch02 daedalus labyrinth lesson.md: 6/6 ✅
+ch03 the tributes arrive.md: 6/6 ✅
+ch04 the door opens.md: 6/6 ✅
+ch05 escape and betrayal.md: 6/6 ✅
+ch06 at sea with theseus.md: 6/6 ✅
+ch07 dice confessions and the storm.md: 6/6 ✅
+ch08 abandoned on the island.md: 6/6 ✅
+ch09 survival and the stranger.md: 7/7 ✅
+ch10 the god of wine and revelry.md: 6/6 ✅
+ch11 what the thiasus really is.md: 6/6 ✅
+ch12 grape wars and new girl.md: 6/6 ✅
+ch13 revelry at cabarnis.md: 6/6 ✅
+ch14 the fire and the truth.md: 6/6 ✅
+ch15 the marriage pact.md: 6/6 ✅
+ch16 marriage negotiations.md: 6/6 ✅
+ch17 the wedding and the constellation.md: 6/6 ✅
+ch18 hera s wedding gift.md: 6/6 ✅
+ch19 the labyrinth of the mind.md: 6/6 ✅
+ch20 the tent on the deck.md: 6/6 ✅
+ch21 testing the curse.md: 6/6 ✅
+ch22 confessions in the cabin.md: 6/6 ✅
+ch23 the villain s ears.md: 5/5 ✅（另有 1 条短引语未校验）
+ch24 dinner with minos.md: 5/5 ✅（另有 1 条短引语未校验）
+ch25 the night of comfort.md: 6/6 ✅（另有 1 条短引语未校验）
+ch26 dancing and discovery.md: 6/6 ✅（另有 1 条短引语未校验）
+ch27 zosime s truth.md: 7/7 ✅
+ch28 the dance of defiance.md: 7/7 ✅（另有 1 条短引语未校验）
+ch29 slow and the amethyst.md: 6/6 ✅
+ch30 the queen s revolt.md: 7/7 ✅
+ch31 perseus s interrogation.md: 6/6 ✅
+ch32 the bread in the flame.md: 7/7 ✅
+ch33 the safe room.md: 7/7 ✅
+ch34 medea s crossroads.md: 7/7 ✅
+ch35 the labyrinth of grief.md: 8/8 ✅
+ch36 the theatre of gods.md: 7/7 ✅
+ch37 the theatre of dionysus.md: 8/8 ✅
+ch38 naxos burns.md: 7/7 ✅
+ch39 sunsets and amethyst.md: 7/7 ✅
+ch40 the gates of tiryns.md: 8/8 ✅
+ch41 the gorgon s head.md: 8/8 ✅
+ch42 the underworld.md: 8/8 ✅
+ch43 the river of fire.md: 8/8 ✅
+ch44 the waters of lethe.md: 8/8 ✅
+ch45 the dolphin.md: 8/8 ✅
+
+⚠️ 全书共 5 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 294/294 引文可核实（100%）；完全干净文件 45/45；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
