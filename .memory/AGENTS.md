@@ -72,7 +72,7 @@ metadata:
 | `verify_overview_quotes.py` | 总览三篇引语门禁（`verify_quotes` 不覆盖总览） | 概述行内英文引语不在口径内，须逐条人工 grep |
 | `check_entities.py` | 梗概实体一致性（未知人名地名 = 情节虚构信号） | — |
 | `check_crossref.py` | 分析层 `chNN "引语"` 跨章引用是否指对章 | **只认英文模式**，中文「第X章」写法不在口径 |
-| `extract_chapters.py` | epub → 逐章 `text/` | dropcap 修连正则有已知误伤；提取后必跑 `verify_corpus` |
+| `extract_chapters.py` | epub → 逐章 `text/` | ⚠️ **`--out-dir` 必须传**（不传散件落当前目录）；dropcap 修连正则有已知误伤；提取后必跑 `verify_corpus` |
 | `audit_book.py` | 一键总账（A 库存 / B 引文 / C 格式 / D 词汇实体） | **不含 crossref**（由 `check_crossref` 承担） |
 | `corruption_scan.py` | **编辑损坏扫描**：U+FFFD / 双句号 / 占位崩坏 | **进提交门禁**——这类损坏对六道门禁全部不可见；中文重复片段**只报不判红**（约 50% 假阳） |
 | `check_anchor.py` | 关键词锚定：关键词英文词须落在本块引语或分析正文 | 词全书查无 = ❌ FAIL；只在块外 = ⚠️ **不判红**（本库通行写法）；0 关键词行时**报「无法判定」**不算通过 |
