@@ -177,7 +177,7 @@ modified: "2026-10-14"
 - **中文理解**："那就是那栋楼。"他开门见山地说，指着开阔公园对面的一处工地。
 - **关键词**：That was the building · without preamble
 - **为什么这样写**：作者让 Krish 用"without preamble（没有铺垫）"开场——他的职业习惯在这里成了效率，也成了压力。
-- **读者视角提示**：注意他还戴着两人初见时的那副飞行员墨镜：这是全书对 Krish 第一次出场的一次回指。
+- **读者视角提示**：注意他仍戴着第八章审问她时那副飞行员墨镜：眼镜一直是他的盾牌。
 
 > **原句 24:** “What do you want?” he asks Krish in Marathi, ignoring me.
 

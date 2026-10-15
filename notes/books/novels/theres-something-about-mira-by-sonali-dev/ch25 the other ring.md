@@ -120,7 +120,7 @@ modified: "2026-10-14"
 
 - **中文理解**："另一枚戒指在我这里。"
 - **关键词**：I have the other ring
-- **为什么这样写**：作者让这五个字单独成段——全书最重要的反转被压到最短。第二十一章 Sak 说的"世界上还有另一枚一模一样的"，此刻就在他口袋里。
+- **为什么这样写**：作者让这五个字单独成段——全书最重要的反转被压到最短。第二十一章他自己追问 Reva 的另一枚戒指在哪里，此刻答案就在他口袋里。
 - **读者视角提示**：注意她的第一反应是"什么？"：她没有愤怒，先是不理解。
 
 > **原句 16:** He takes another breath. His fists clench and unclench. His jaw, all of him, is wound tight. He’s lied to me this entire time.
@@ -177,7 +177,7 @@ modified: "2026-10-14"
 - **中文理解**："然后她就没了。而那就是她带走的东西。"
 - **关键词**：Then she was gone · that’s what she took with her
 - **为什么这样写**：作者让"她带走的"指的是那句"我永远不会原谅你"——第二十三章他说过"我没来得及告诉她我不是那个意思"。这一句把两处接上。
-- **读者视角提示**：注意"他捏住鼻梁，一声轻咽的抽泣从他体内抖出来"：这是全书 Krish 唯一一次哭。
+- **读者视角提示**：注意"他捏住鼻梁，一声轻咽的抽泣从他体内抖出来"：全书他只在两处失守——这里，以及第三十六章他得知生母死讯后在出租车里的痛哭。
 
 > **原句 24:** “When she first gave it to me, I started to scour the internet for information. I was determined to use it to trace the person who’d given me away.”
 
