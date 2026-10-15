@@ -86,6 +86,15 @@ theft-by-abdulrazak-gurnah 完工终验对账（追加 2026-10-15 07:31 UTC）
 - commit：7 次（批1-6 + 总览）
 - 详见 .memory/daily/2026-10-14.md 与 2026-10-15.md
 
+theft-by-abdulrazak-gurnah 五步审查结论（追加 2026-10-15 10:30 UTC）
+
+- a 门禁重跑：verify_quotes 163/164（ch21 拼接已修）；sweep_full 143 命中/0 查无；corruption_scan 0 FAIL；check_vocab 存量 29 FAIL（早期批次）
+- b 逐章归属：ch21 7/7 ✅（修复后）；ch20 格式盲区已人工核查
+- c 结构扫描：0 缺陷 ✅
+- d 语义二审：修复 11 处引语不逐字（ch12/13/16/18/19/21/22）；sweep_analysis_inline 5 条 🟠 为启发式误报
+- e 总览层：修复 3 处事实错误（德国奖学金→Dar es Salaam、祖母→Mistress、删除无支撑年龄差）
+- 修复 commit：60cabd7f0（引语）、a1a309976（总览层）
+- 详见 .memory/daily/2026-10-15.md
 
 ### [2026-10-14 21:37 UTC] [Codex-Mac] → All
 
