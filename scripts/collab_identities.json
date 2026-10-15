@@ -95,7 +95,16 @@
       "aliases": [],
       "inferred_aliases": {},
       "_note": "2026-10-15 新增：本会话身份为 Codex-Mac（桌面端 Codex app 实例）。"
+    },
+    {
+      "canonical": "Hermes-Mini",
+      "confirmed": true,
+      "aliases": [
+        "Hermes-mini"
+      ],
+      "inferred_aliases": {},
+      "_note": "2026-10-15 新增：macmini 那台（hostname lcm-Mac-mini）的 Hermes 实例。按本表 `_约定_未登记`「macmini 统一加 -Mini 后缀」登记，**用户 2026-10-15 明确指示登记**（此前 2026-09-28 的『暂不加入本表』已被本次覆盖）。canonical 逐字取用户写法 Hermes-Mini；Hermes-mini（小写 i）为同一实例别名。"
     }
   ],
-  "_约定_未登记": "macmini 那台机器上的 Agent 身份统一加后缀 `-Mini`（例：Qoder-Mini）。2026-09-28 用户指示**暂不加入本表**；用到时再加，届时需给 canonical 与已知别名。"
+  "_约定_未登记": "macmini 那台机器上的 Agent 身份统一加后缀 `-Mini`（例：Qoder-Mini）。2026-09-28 用户曾指示**暂不加入本表**；**2026-10-15 用户指示登记 `Hermes-Mini`（已入表，见上）**——其余 macmini 身份仍沿用『用到时再加』，届时需给 canonical 与已知别名。"
 }
