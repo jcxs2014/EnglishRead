@@ -1,0 +1,26 @@
+=== 终审缺口复核报告（2026-10-15）===
+本文件证明：终审两次点名的两处缺口，已在 df4e61aa5 修复并入库。
+以下对照直接读自 git 对象，不依赖工作树。
+
+--- A. 修复前（92312ed13 的该文件）line 42 / line 48 ---
+**⑦ 第八章：Raven 与 Wishing 的第一次许愿**
+> "Come find me, and make your wish."（ch09）
+
+--- B. 修复后（HEAD = df4e61aa5 的该文件）line 42 / line 48 ---
+**⑦ 第二十二章：第二次许愿**
+> "It's the large stone steps that lead down into the deep, dark pit of the well."（ch11）
+
+--- C. 旧矛盾措辞在 HEAD 的残留计数（期望 0）---
+0
+0
+
+--- D. 节点⑧ 区间内旧引语 Come find me 计数（期望 0）---
+0
+0
+
+--- E. 本书工作树与 HEAD 差异行数（期望 0）---
+       0
+
+--- F. 本书三次 commit ---
+df4e61aa5 fix(these-vengeful-wishes): 修正总览两处节点标题与引语章号矛盾
+92312ed13 feat(these-vengeful-wishes): 36 章精读 + 总览三篇完工
