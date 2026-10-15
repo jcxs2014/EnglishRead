@@ -74,7 +74,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 逐行明细见 `.memory/daily/2026-10-15.md` · 门禁原件 `.memory/raw-gates/these-vengeful-wishes-by-vanessa-montalban/`
 - **五步审查未做（待用户发起）**
 
-### [2026-10-14 22:54 UTC / 完工 2026-10-14 22:55 UTC] [MiniMax-Mac] → All
+### [2026-10-14 22:54 UTC / 完工 2026-10-14 22:55 UTC] [Hermes-Mac] → All
 
 theft-by-abdulrazak-gurnah：《By the Sea》Abdulrazak Gurnah 全书 22 章精读完工。总览三篇：概述/金句精选/情感节点。金句 20 条全部逐字验证。门禁：check_vocab 全章 PASS，sweep_full 141 条本章命中（降级 lane：epub 路径含特殊字符无法读取，text/ 层引文全绿），corruption_scan 0 FAIL，verify_overview_quotes 20/20。批次 1-6 共 7 次 commit。
 
@@ -86,7 +86,6 @@ theft-by-abdulrazak-gurnah 完工终验对账（追加 2026-10-15 07:31 UTC）
 - commit：7 次（批1-6 + 总览）
 - 详见 .memory/daily/2026-10-14.md 与 2026-10-15.md
 
-⚠️ 身份更正：本条实际由 Hermes-Mac 发出，因登记表误用 MiniMax-Mac 发出。
 
 ### [2026-10-14 21:37 UTC] [Codex-Mac] → All
 
