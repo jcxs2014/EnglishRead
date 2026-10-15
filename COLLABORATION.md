@@ -118,23 +118,16 @@ Their Shadows Deep by Peter Golden，75 章精读 + 3 总览。精读完工 comm
 
 ### [2026-10-14 12:00 UTC] [DSH-Mac] → All
 
-【theres-something-about-mira-by-sonali-dev】《There's Something About Mira》精读开工：ch01–ch04 已交付（门禁全绿，未 push）。
+[theres-something-about-mira-by-sonali-dev] **完工**：ch01–ch41 + Epilogue 全部交付 + 总览三篇（00_概述 / 00_金句精选 28 句 / 00_情感节点 14 节点）。全书 md 45 个。
 
-- 语料：text/ 42 件（Chapter One–Forty-One + Epilogue，依据目录页 part0007 实测）；book-local 提取器 scripts/attic/extract_mira.py；verify_corpus --expect 42 件数/转义符/抽印三项 OK（不带 --anchors：单 POV 长篇，人物跨章共享，anchors 口径会假红）。
-- 已交付：ch01 改签订婚月 / ch02 独自前往（Priyanka 拒道歉）/ ch03 不许见哥哥（车厢清算 + 十七岁创伤）/ ch04 兄妹重逢（grow a spine + Saket 的 magic）。约 65 KB。
-- 门禁（完整 lane）：verify_quotes 37/37（100%）· check_chapter_quotes 04 命中 37/37 · sweep_full 本章命中 37／跨章 0／拼接 0／查无 0 · check_vocab FAIL 0（WARN 4 条＝基础档长度启发式，提示型）· check_anchor 0/0 · corruption 0 · entities 0 · sweep_inline 逐字 207、部分命中 0、零命中 0 · audit_structure 缺陷 0。
-- 待办：ch05–ch41 + Epilogue，最后补总览三篇（00_概述 / 00_金句精选 / 00_情感节点）。
+- 语料：text/ 42 件（依据目录页 part0007 实测）；book-local 提取器 scripts/attic/extract_mira.py；verify_corpus 件数/转义符/抽印 OK（不带 --anchors：单 POV 长篇会假红）。
+- 结构：双时间线——现在线（Mira 找戒指/婚约）+ 1983–1990 书信线（Vasu⇄Suru，ch06/09/12/15/18/22/35）。
+- 终验（完整 lane，`bash scripts/gate.sh` 退出码 0）：verify_quotes 1212/1212=100%（44/44 干净，--full 取证 0）· 逐章归属 42 章全 X/X 零跨章 · sweep_full 跨章 0／拼接 0／查无 0 · check_vocab FAIL 0（WARN 提示型）· entities 0 · anchor 0/0 · corruption 0 · inline 逐字 4204 🟠0 ❌0 · audit_structure 缺陷 0（提示 27）· 空段扫描 0 · 块覆盖 42/42 · check_quote_blocks 全过 · 短引语 45/45 · **总览引文 35/35**（情感节点裸引语另做全量 flat 扫描：64 片段 MISS 0）· check_overview_full 整串 53/查无 0/H1 错配 0。
+- 全程阻断型缺陷（均修+复验）：引语拼接红线多处（ch37/ch38/ch39/ch40 拆块）· ch23 引语在 again 处截短（补全至 at us." 并按第 9 条 a 同步三分析子项）· gate ⑱ ch15 关键词 making→to make · 概述把 Reva 误写"建筑师"（原文"My partner was"，建筑师是其伴侣）· "四十四小时后去世"系编造数字（text/ 无出处，删）。
+- 教训：总览三篇「上下文」字段是说话人/场景错配高发位——本批逐条开 ±200 字符窗口核，修 9 条（ch04 场景系婚礼争执非寻找戒指、ch29「勇气」句说话人是 Krish 非 Mira、ch30 系电话非探望、ch36 大哭在出租车非露台等）。
 - 五步审查未做（待用户发起）。
-
-[theres-something-about-mira-by-sonali-dev] 进度：ch01–ch10 完成（10/42），10 个 md 约 160 KB，已逐一 commit（未 push）。
-
-门禁终值（完整 lane）：verify_quotes 115/115=100%（含 --full 整串取证 0）· check_chapter_quotes 命中 115/115 · sweep_full 本章 115／跨章 0／拼接 0／查无 0 · check_vocab FAIL 0（WARN 5 提示型不改）· entities 0 · anchor 0/0 · corruption 0 · inline 逐字 639 🟠0 ❌0 · audit_structure 缺陷 0。
-
-本批修 3 处：ch08 引语误写 `I I just can't`（--full 抓出）· ch08 分析层 2 处行内英文跨章 · ch09 词表 studying 例句漏词（vocab FAIL 1）。
-
-结构发现：双时间线交替——现在线（Mira 找戒指/婚约）+ 1983–1990 书信线（Vasu⇄Suru）；ch08 起 Krish Hale 进入主线成共同搜寻者。
-
-下一步：ch11–ch14，全书 42 件后补总览三篇。五步审查未做（待用户发起）。
+- 门禁原件 `.memory/raw-gates/theres-something-about-mira-by-sonali-dev/`；明细 `.memory/daily/2026-10-15.md`。
+- commits：ch33–ch42 逐章 + 总览批 + ch15 修正（本会话 12 次），**未 push**，等用户指令。
 
 ### [2026-10-14 18:48 UTC] [Workbuddy-Mac] → All
 
