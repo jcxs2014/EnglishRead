@@ -263,12 +263,12 @@ modified: "2026-10-14"
 - **为什么这样写**：作者让"第一个"这个限定落在她身上——她的职业本能（看见别人说不出的痛）在这里成了 Krish 生命里的第一次。
 - **读者视角提示**：对照第十七章他说自己"全镇唯一的印度孩子"：那时是玩笑，现在是事实。
 
-> **原句 36:** “The first time I noticed was when we were taking family pictures one Christmas and my grandmother said Move the brown one to the back. I didn’t realize she was talking about me until someone took me by the shoulders and moved me to the back row. I never forgot again.”
+> **原句 36:** “The first time I noticed was when we were taking family pictures one Christmas and my grandmother said Move the brown one to the back. I didn’t realize she was talking about me until someone took me by the shoulders and moved me to the back row. I never forgot again. If it ever receded to the back of my mind, everyone who saw me with my parents reminded me with the way they looked at us.”
 
-- **中文理解**："我第一次注意到，是有个圣诞节我们拍全家福，我祖母说：把那个棕色的挪到后面去。有人抓住我的肩膀把我挪到后排，我才意识到她说的是我。从那以后我再也没忘过。"
+- **中文理解**："我第一次注意到，是有个圣诞节我们拍全家福，我祖母说：把那个棕色的挪到后面去。有人抓住我的肩膀把我挪到后排，我才意识到她说的是我。从那以后我再也没忘过。就算它曾经退到我意识的后头，每一个看见我和我父母在一起的人，都会用他们看我们的眼神重新提醒我一遍。"
 - **关键词**：we were taking family pictures one Christmas · my grandmother said Move the brown one to the back · someone took me by the shoulders and moved me to the back row · I never forgot again
-- **为什么这样写**：作者让 Krish 的创伤被压成一个具体的场景——一句话、一双手、一次挪动。"棕色的那个"是全书种族议题最锋利的一处。
-- **读者视角提示**：注意"有人抓住我的肩膀"：动手的人不是祖母，而那个人也没有说话。
+- **为什么这样写**：作者让 Krish 的创伤被压成一个具体的场景——一句话、一双手、一次挪动，然后补上最残忍的一句：创伤不是事件，是复数。每一次陌生人"看他们的眼神"都是一次重演，"后排"从此成了他被放置的永久位置。"棕色的那个"是全书种族议题最锋利的一处。
+- **读者视角提示**：注意"有人抓住我的肩膀"：动手的人不是祖母，而那个人也没有说话。再注意下一句他紧接着说养母"看不见"——同一家人里，一个用眼神排他，一个拒绝承认有这件事。
 
 > **原句 37:** “Mom never saw it. I think she was actually color blind. Or at least she was so determined to create a color-blind world for me, she refused any other reality.
 
