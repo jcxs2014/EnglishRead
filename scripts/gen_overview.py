@@ -129,6 +129,39 @@ def build_pool(book: str):
             pool[(n, seq)] = (q, zh)
             found += 1
         if not found:
+            # 言情/无编号格式：`> "..."` 块 + 空行 + `**中文理解**：…`。
+            # 只在编号格式抽到 0 条时启用，保证对编号书行为单调（新池 ⊇ 旧池）。
+            _lns = _src.split("\n")
+            _i = 0
+            while _i < len(_lns):
+                if not _lns[_i].startswith("> "):
+                    _i += 1
+                    continue
+                _q_lines = []
+                while _i < len(_lns) and _lns[_i].startswith("> "):
+                    _q_lines.append(_lns[_i][2:].strip())
+                    _i += 1
+                if not _q_lines:
+                    continue
+                while _i < len(_lns) and not _lns[_i].strip():
+                    _i += 1
+                _seg = _lns[_i].strip() if _i < len(_lns) else ""
+                if not _seg.startswith("**中文理解"):
+                    continue
+                _zh = _ZH_LABEL.sub("", _seg, count=1).strip()
+                # 该章内序号从 1 起：先数已入库的本章条目
+                seq = sum(1 for k in pool if k[0] == n) + 1
+                _q = re.sub(r"[^a-z0-9]", "", _q_lines[0].lower())
+                if _q not in flat:
+                    _frags = [re.sub(r"[^a-z0-9]", "", p.lower())
+                              for p in re.split(r"…|\.\.\.", _q_lines[0])]
+                    _frags = [f for f in _frags if f]
+                    if not (_frags and all(f in flat for f in _frags)):
+                        print(f"❌ ch{n:02d}#{seq} 不在 text/，池中止")
+                        raise SystemExit(2)
+                pool[(n, seq)] = (_q_lines[0], _zh)
+                found += 1
+        if not found:
             print("❌ %s 抽到 0 条引语——多半是**子项标记形态**与本正则不符" % f)
     return pool
 
