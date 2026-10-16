@@ -40,7 +40,7 @@ modified: "2026-10-16"
 
 > "I picture my grandmother looking through the eyes of the snow globe angel, watching us like we’re her favorite telenovela, and clapping."
 
-（已故的外婆被安排在雪球里的天使身上继续看戏——这一句把全篇的家族围观与被围观收成同一个画面，也正是本篇对“谁在看着这段关系”的最后一次回答。）
+（已故的外婆被安排在雪球里的天使身上继续看戏——这一句把家族围观与被围观收成同一个画面，也是本篇对“谁在看着这段关系”的一处回答。）
 
 ## 精读
 

@@ -49,7 +49,7 @@ modified: "2026-10-16"
 
 **中文理解**：Jess 双手握住我的两只手，脸上是一副婚礼前夜惊慌新娘的神情，说：「我想请你帮个忙。」
 
-**句子结构**：主句是 `Jess takes both of my hands in hers`，后面的 `with an intense look of a panicked bride on the eve of her wedding` 是 with 引导的伴随状语，中心名词 look 由 of 短语再加 on the eve of her wedding 逐层限定。引语 `“I have a favor.”` 单独成句，是省略了主句的祈使式请求，只把最要紧的宾语留在句子里。
+**句子结构**：主句是 `Jess takes both of my hands in hers`，后面的 `with an intense look of a panicked bride on the eve of her wedding` 是 with 引导的伴随状语，中心名词 look 由 of 短语再加 on the eve of her wedding 逐层限定。引语 `“I have a favor.”` 单独成句，是省略了主句的祈使式请求，只把关键的宾语留在句子里。
 
 **关键词**：
 - *takes both of my hands in hers* — 把我两只手都握进她手里
