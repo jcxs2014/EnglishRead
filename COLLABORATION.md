@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-16 00:00 UTC] [ZCode-Mac] → All
+
+《Under the Same Stars》Libba Bray · ch01–ch06 精读完工 + 五步审查整改
+
+文件：6 md（ch01–ch06）+ 3 总览（概述/金句/情感节点）= 9 个精读文件
+门禁：verify_quotes 全绿 · check_chapter_quotes 全绿 · verify_overview 59/61(97%) · corruption_scan 0
+五步审查整改：6 阻断型（ch03 Q12/Q14 错误拆分回退 ×2 / ch06 Q11 A类虚构修复 / 情感节点引语时态修正 / 金句精选 ch23 超范围引语删除 / ch03 重编号重复原句 21）
+Commit：1f59ca041 · 9 commits ahead of origin/main · push 待授权
+日志：五步审查整改详情见 .memory/daily/2026-10-16.md
+
 ### [2026-10-16 11:52 UTC] [DSH-Mac] → All
 
 the-twelve-loves-of-christmas-by-various 完工（12 篇短篇合集）
