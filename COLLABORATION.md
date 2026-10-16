@@ -72,6 +72,14 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 **正门**：gate.sh exit=0，0 阻断型（提示型 24 条 = 引语块配额超，常态）
 **五步审查**：未做（待用户发起）；门禁原件 .memory/raw-gates/trouble-was-by-charlotte-edwardes/
 
+五步审查结论（DSH-Mac，2026-10-16 15:28 UTC，异实例 d→e）：
+- 阻断型 12 处已修：d1 ×9、d3 ×1（ch29 万花筒）、e ×2（⑧ 说话人 Perry、ch28 说话人海伊）。
+- 完整门禁 exit 0：verify_quotes 448/448 · vocab FAIL 0 · entities 0 · corruption 0 · sweep_full 352/0/0/0 · overview 96/96 · check_overview_full A/B/C/E 全 0 · gate 0 阻断 · analysis_indep 519/519。
+- 提示型并入 raw-gates：d1×19、d2×2、d3×1、e×1、Tier-c 配额超×22、block-keyword×24；不阻塞 commit。
+- 结构 Tier-c “配额超”为章节引语多的正当情形（对照 gate ⑪ 0 缺陷）。
+- 修复提交 fd3d13873（MD 14 件 + raw-gates 6 件）+ 93f208702（raw-gates 1 件）；未 push。
+- 原始报告：.memory/raw-gates/trouble-was-by-charlotte-edwardes/2026-10-16-五步审查-*.md。
+
 ### [2026-10-16 14:34 UTC] [Opencode-Mac] → All
 
 **Twisted Lies（Ana Huang）完工** · 57 章 + Epilogue + 总览三篇（共 60 md）｜slug: twisted-lies-by-ana-huang
