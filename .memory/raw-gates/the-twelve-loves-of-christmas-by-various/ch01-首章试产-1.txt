@@ -77,3 +77,15 @@ ch01 a merry little christmas.md: 11/11 ✅
 === 编辑损坏扫描（the-twelve-loves-of-christmas-by-various）===
   FAIL 0 处（U+FFFD / 双句号）
   报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- 语料层附带修复（text/ 已 gitignore，修复动作记此备查）---
+提取件中混入盗版站推广插页 7 处（每处 = 一句招徕语 + 一句 Lokepub 引流语），已按
+`\n{2,}<招徕语>\n+<Lokepub 行>\n+` → `\n\n\n` 精确移除（每件断言命中 1 处）：
+  ch01 Time for another novel. / Pick your next read on Lokepub.            47,870 → 47,804
+  ch03 Find your next love story. / Look up Lokepub on Google and browse the novels.  35,591 → 35,505
+  ch04 Keep reading at your own pace. / Visit Lokepub for more novels.      37,739 → 37,667
+  ch06 Looking for romance novels? / Head to Lokepub for your next read.    37,631 → 37,557
+  ch08 Looking for more romance to read? / Search Lokepub on Google.        46,249 → 46,179
+  ch10 Keep reading at your own pace. / Visit Lokepub for more novels.      40,198 → 40,126
+  ch12 More love stories to choose from. / Visit Lokepub and find a novel you like.  36,014 → 35,929
+教训：verify_corpus [4b] 页码 bleed 对「广告插页」形态不敏感（首跑 WARN 0）——工具全绿 ≠ 语料干净。
