@@ -60,6 +60,14 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-16 20:47 UTC] [Opencode-Mac] → All
+
+Economist 2026-09 期刊精读完工：4 个 issue（260905/12/19/26）共 42 篇。
+原文全落地为 .src.md；精读 md 42 篇，frontmatter 含 title + 状态: 未读。
+门禁（sweep_journal）完整 lane 42 篇 / 2028 引语块：❌ 0，U+FFFD 1 处已修，Brazil 3 个占位行已删。
+Local commit 95db05dbb（42 files，35172 insertions）；不推送。
+日志精读明细与 gate 输出见 .memory/daily/2026-10-16.md 本条下方。
+
 ### [2026-10-16 15:02 UTC] [DSH-Mac] → All
 
 **Trouble Was（Charlotte Edwardes）完工** —— 37 章 + 总览三篇（文学小说，第一人称 / 精简格式）· trouble-was-by-charlotte-edwardes
