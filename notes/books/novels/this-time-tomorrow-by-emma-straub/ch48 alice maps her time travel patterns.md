@@ -17,7 +17,7 @@ modified: "2026-10-16"
 
 > **原句 1:** "THERE WERE PATTERNS: IF ALICE SLEPT WITH TOMMY AND TOLD HIM SOMETHING firm, something concrete—marry me, or even just now you are my boyfriend—she could expect to find herself in the San Remo."
 
-**中文理解：** 时间旅行存在规律：只要 Alice 和 Tommy 上床，并对他说出坚定、具体的话——「娶我」，或者哪怕只是「现在你是我的男朋友」——她醒来时就会发现自己身处 San Remo（她童年住的大楼）。
+**中文理解：** 时间旅行存在规律：只要 Alice 和 Tommy 上床，并对他说出坚定、具体的话——「娶我」，或者哪怕只是「现在你是我的男朋友」——她醒来时就会发现自己身处 San Remo（Tommy 从小长大的大楼，也是她婚后与他同住的地方）。
 **关键词：** THERE WERE PATTERNS / concrete / expect to find herself in the San Remo
 **为什么这样写：** 全大写开篇延续了本书的风格化排印，把「规律」一词放在句首，直接抛出本章的核心议题：时间旅行不是随机的，而是有内在逻辑的，Alice 已经掌握了这套逻辑——她的意图决定她的落点。这是世界观的关键补完，也是她开始主动「重排人生碎片」的起点。
 **读者视角提示：** 注意 Alice 用来测试的「咒语」全是感情关系方面的句子——她回到过去最想改变的，正是她与 Tommy 之间的轨迹。

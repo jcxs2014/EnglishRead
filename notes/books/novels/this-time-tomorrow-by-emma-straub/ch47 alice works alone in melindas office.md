@@ -19,7 +19,7 @@ modified: "2026-10-16"
 
 **中文理解：** 时间线碎片之一：想象中的画面里，出现的不是 Barry，而是 Andrew McCarthy——那个八十年代的青春片明星，如今在 Centrum Silver 中老年维生素广告里做代言。
 **关键词：** Instead of Barry / Andrew McCarthy / Centrum Silver commercials
-**为什么这样写：** 这个碎片用流行文化替换制造梦境般的错位感。Barry 是 ch46 碎片里 Alice 和 Sam 在漫展上搭讪的漫画人；Andrew McCarthy 则是八十年代「brat pack」演员，后来靠 Centrum Silver 广告重新进入大众视野——把「年轻时迷恋的对象」换成「中年代言维生素的过气明星」，正是时间旅行碎片荒诞、随机的写照。
+**为什么这样写：** 这个碎片用流行文化替换制造梦境般的错位感。Barry 是《Time Brothers》影视版里的演员；Andrew McCarthy 则是八十年代「brat pack」演员，后来靠 Centrum Silver 广告重新进入大众视野——把「年轻时迷恋的对象」换成「中年代言维生素的过气明星」，正是时间旅行碎片荒诞、随机的写照。
 **读者视角提示：** 这条碎片没有动词、没有解释，像大脑刚醒时自动冒出的画面；它提醒读者，Alice 的穿越并不总是宏大的，更多时候只是一帧无关紧要的流行文化残片。
 
 > **原句 2:** "A workday. Alice went back to Belvedere and found herself alone in Melinda’s office, which didn’t have Melinda’s things in it."
@@ -40,7 +40,7 @@ modified: "2026-10-16"
 
 **中文理解：** Tommy Joffey 和他妻子又一次出现在名单上。Alice 为他感到难过——他被永远困在 San Remo，像他人生中的每一天一样荒谬地幸运——但随即她想起了那张 Ferrari 海报。
 **关键词：** on the list again / felt sorry for him / stuck in the San Remo forever / absurdly fortunate / remembered the Ferrari poster
-**为什么这样写：** 「the list again」把 ch06 的申请档案与 Belvedere 的招生日常接回来：Joffey 一家一次次出现在名单上，像循环播放的旧唱片。Alice 对 Tommy 的怜悯是成年人的怜悯——他富有、幸运，却永远卡在同一个地方。而「Ferrari 海报」一击打消同情：那是 ch46 碎片里 Tommy 卧室墙上「整个问题所在」的物证——他永远停留在男孩的房间。
+**为什么这样写：** 「the list again」把 ch06 的申请档案与 Belvedere 的招生日常接回来：Joffey 一家一次次出现在名单上，像循环播放的旧唱片。Alice 对 Tommy 的怜悯是成年人的怜悯——他富有、幸运，却永远卡在同一个地方。而「Ferrari 海报」一击打消同情：那是 Tommy 卧室墙上那张男孩气的海报——他永远停留在男孩的房间。
 **读者视角提示：** 「stuck in the San Remo forever」呼应 ch48 即将明说的规律：只要 Alice 和 Tommy 在一起并说出坚定的话，她就会在 San Remo 醒来——Tommy 被困住，某种程度上也是 Alice 反复去撞的那堵墙。Ferrari 海报是她用来提醒自己「为什么不行」的记忆锚点。
 
 > **原句 5:** "London at the desk. Debbie at the bedside. Leonard, pale, unconscious."

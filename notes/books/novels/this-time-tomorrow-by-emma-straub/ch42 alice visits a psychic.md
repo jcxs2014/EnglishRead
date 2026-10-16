@@ -41,7 +41,7 @@ modified: "2026-10-16"
 
 **关键词：** nothing but questions / keep my dad alive / Which life, even? / which life to choose
 
-**为什么这样写：** 这一连串排比式内心独白是全书主题的第一次直白呈现——「时间旅行」的核心问题被压缩成四句质问。把「爸爸」夹在婚姻与孩子之间，说明父亲之死是当前一切焦虑的中心。句末的 which life 直接指向小说的多重时间线结构。
+**为什么这样写：** 这一连串排比式内心独白是全书主题的第一次直白呈现——「时间旅行」的核心问题被压缩成一句接一句的质问（引语里共有八个问句）。把「爸爸」夹在孩子与人生之间，说明父亲之死是当前一切焦虑的中心。句末的 which life 直接指向小说的多重时间线结构。
 
 **读者视角提示：** 这些问题是 Alice 无法对任何人说出口的（下一句就是 each question was more embarrassing than the last）。注意 "Which life, even?" 这个自我打断——她已经模糊意识到自己可能活在不止一种人生里。
 

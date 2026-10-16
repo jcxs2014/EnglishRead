@@ -10,7 +10,7 @@ modified: "2026-10-16"
 - **一句话概括**：派对结束后的出租车之夜，Alice 冲动地向 Tommy「求婚」；回到 Pomander 后，Leonard 第一次向 Alice 坦白自己也进行过时间旅行——只有在凌晨三点到四点之间、在那间岗亭里才能触发，而他的目的地永远是 Alice 出生的那天。他告诉她生活是「粘稠」的、难以真正改变；Alice 请他戒烟，最后在他身边沉沉睡去。
 - **情感弧线位置**：从狂欢余温转向全书最深的父女坦白。Alice 的情绪曲线：依恋（求婚）→ 困惑（听时间规则）→ 震撼（父亲的目的地）→ 恐慌（即将离开）→ 安放（要他戒烟、入睡）。
 - **Tropes 兑现/反转**：本章兑现「时间旅行规则揭秘」，却彻底反转科幻套路——不是可以驾驶并改变历史，而是每个人只有一个固定目的地、一条路线，且生活「喜欢稳定」，重大改变极难实现。这同时反驳了 Howard/Simon 的理论与 Alice「重置键」的幻想。
-- **人物弧线**：Leonard 从「写《Time Brothers》的作家」升级为「真正的时间旅行者」——他保守了二十年的秘密，只为一次次回到女儿出生的那天；Alice 从「想修复一切」退回到「只想和父亲多待一会儿」，完成从行动冲动到情感接受的转变。
+- **人物弧线**：Leonard 从「写《Time Brothers》的作家」升级为「真正的时间旅行者」——他保守了十年的秘密，只为一次次回到女儿出生的那天；Alice 从「想修复一切」退回到「只想和父亲多待一会儿」，完成从行动冲动到情感接受的转变。
 - **叙事手法**：长对话驱动。全章几乎由 Leonard 的深夜独白式讲述构成，Alice 的内心独白穿插其间（推墙、重置键、倒挂过山车三个比喻）。出租车、沙发、香烟连成连续的深夜场景，第三人称有限视角紧贴 Alice 的感知。
 
 ## 精读
@@ -27,9 +27,9 @@ modified: "2026-10-16"
 **中文理解：** Alice 甚至不知道自己在试图达成什么——她只是想要更多这样的时刻：和健康的父亲一起坐在出租车后座，听他和司机聊他曾载过 Diana Ross。她只想用手推一推生活的墙，看它们会不会移动；她想一遍遍按下重置键，直到所有人都永远幸福。
 **关键词：** trying to accomplish / healthy dad / push her hands against the walls / hit the reset button / happy, forever
 **为什么这样写：** 「推墙」与「重置键」是本章的两大意象。前者把人生比作密闭房间——Alice 感到被困住，想测试边界是否松动；后者把时间比作可以反复刷新的机器——只要重置就能得到完美结局。这凝缩了全书核心：她真正想要的不是回到过去，而是「所有人都幸福」这个不可能的结果。
-**读者视角提示：** "the walls of her life" 呼应第一章的医院意象：她的人生一直像被墙围着。而「重置键」的执念预示她将一次次回到生日那天、试图修好一切——直到 Leonard 告诉她生活是「粘稠」的。
+**读者视角提示：** "the walls of her life" 是本章的重要意象：她的人生一直像被墙围着。而「重置键」的执念预示她将一次次回到生日那天、试图修好一切——直到 Leonard 告诉她生活是「粘稠」的。
 
-> **原句 3:** "I see it sort of like surfing—you just have to go where you go. … You can't drive it. You can't choose where you go. Everyone has one destination, one route, that's it. And when you come back, it's always right back to where you started, like a ride at Disney World. … You decide if it goes fast or slow, if there are big drops or it's just a lazy river, floating along."
+> **原句 3:** "I see it sort of like surfing—you just have to go where you go. Not at all like Scott and Jeff, with their clunky station wagon and all the buttons and knobs and thin places. If I'd actually done it before writing the book, gone back, Time Brothers would have been different. You can't drive it. You can't choose where you go. Everyone has one destination, one route, that's it. And when you come back, it's always right back to where you started, like a ride at Disney World. But the exit looks different, depending on what you did. It's like, every time, you make the ride. You decide if it goes fast or slow, if there are big drops or it's just a lazy river, floating along."
 
 **中文理解：** Leonard 说，时间旅行没有「弄明白」这回事，更像冲浪——你只能随波逐流。你不能驾驶它，不能选择去处。每个人只有一个目的地、一条路线。回来时你总会回到出发的地方，就像迪士尼乐园的游乐设施；但出口看起来什么样，取决于你在途中做了什么。你可以决定它快还是慢，是有大落差，还是只是一条懒洋洋漂着的河。
 **关键词：** surfing / go where you go / can't drive it / one destination, one route / ride at Disney World / lazy river
@@ -97,7 +97,7 @@ modified: "2026-10-16"
 |---|---|---|
 | minute | 分钟 | It took Alice a minute, then she got it—the driver was talking about Time Brothers. |
 | track | 轨道 | I think about it like a car on a track. |
-| back seat | 后座 | Leonard shoved all three of them into the back seat of a taxi. |
+| back seat | 后座 | shoved all three of them into the back seat of a taxi. |
 | bottle cap | 瓶盖 | She stubbed out the cigarette inside a bottle cap and hurried into her room. |
 | hospital | 医院 | Howard had called the hospital, and Chip, but she hadn't seen or heard from the others in years. |
 | bed | 床 | I was in bed—our bed, me and your mom's—in our old apartment. |

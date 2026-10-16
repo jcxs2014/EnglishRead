@@ -27,14 +27,14 @@ modified: "2026-10-16"
 **中文理解：** 她把脸颊靠在手掌上，眼皮开始发沉。Alice 猛地把自己摇醒——她担心一旦睡着，就会化成一缕烟从 Belvedere 消失，醒来又是四十岁。那本是她想要的，但不是以这种方式——她得回去找爸爸。
 **关键词：** eyelids / droop / vanish / puff of smoke / wake up forty again
 **为什么这样写：** 这是全书设定的核心张力首次被 Alice 自己讲明：回到十六岁是她渴望的，但前提是她能陪在父亲身边。「不是以这种方式」把时间旅行从奇幻愿望拉回亲情现实——她不想永远留在这里，她想带着这次机会回到父亲还活着的时候。
-**读者视角提示：** 「化成一缕烟消失」既是孩子的想象，也呼应第一章里父亲生命像烟一样正在消散。Alice 的两段人生此刻被同一个动作（睡着/醒来）连接起来，睡眠成了两个时间之间的闸门。
+**读者视角提示：** 「化成一缕烟消失」既是孩子的想象，也提前映照了父亲生命的消散。Alice 的两段人生此刻被同一个动作（睡着/醒来）连接起来，睡眠成了两个时间之间的闸门。
 
 > **原句 3:** "Everything in Alice's brain was telling her to say no, to grab Sam and head back home as she'd told her dad she would, but the word that came out of her mouth was "Yeah.""
 
 **中文理解：** Alice 脑子里的一切都在叫她拒绝——抓起 Sam，像她对爸爸保证过的那样直接回家——但从她嘴里说出来的却是「好啊」。
 **关键词：** saying no / grab Sam / head back home / came out of her mouth
 **为什么这样写：** 用「大脑 vs 嘴巴」的对立，把青少年在诱惑面前的失控写得既好笑又真实。她答应过父亲要回家，却挡不住 Tommy 的邀请——这一句同时确立了 Alice 的两重忠诚冲突（对父亲的承诺 vs 对 Tommy 的心动），也为后文她无法改变派对走向埋下伏笔。
-**读者视角提示：** 注意这个「好啊」和第一章里 Alice 对父亲说「我爱你」一样，都是嘴巴背叛了理性。本书反复让 Alice 的冲动行为先于她的判断发生——她不是完美的叙述者，而是会被欲望带着走的人。
+**读者视角提示：** 注意这个「好啊」是嘴巴背叛理性——Alice 答应过父亲要回家，却脱口而出同意留下。本书反复让 Alice 的冲动行为先于她的判断发生——她不是完美的叙述者，而是会被欲望带着走的人。
 
 > **原句 4:** "Central Park wasn't made for exercise. It was made for this, for tucking away into a shady grove of trees and sitting on a bench. It was made for low voices and secret affairs."
 

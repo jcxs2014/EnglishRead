@@ -33,7 +33,7 @@ modified: "2026-10-16"
 
 **中文理解：** 「你说得对，Sam。一如既往。」Alice 说，「我当时就该取消派对。我甚至根本不该让他去。比如，什么才是真正重要的？」
 **关键词：** right / canceled the party / let him go / actually matters
-**为什么这样写：** 这是本章的情感核心句之一。「what actually matters」是全书反复回响的问题：Alice 后悔让病中的父亲出门去参加科幻大会，更深层地，她后悔过去几十年把时间花在琐事上。一连串自责的短句语速急促，贴合地铁上焦虑的心情。
+**为什么这样写：** 这是本章的情感核心句之一。「what actually matters」是全书反复回响的问题：Alice 后悔让父亲出门去参加科幻大会——此刻他虽健康，但来自未来的她知道他终将病倒；更深层地，她后悔过去几十年把时间花在琐事上。一连串自责的短句语速急促，贴合地铁上焦虑的心情。
 **读者视角提示：** 「As usual」既是对 Sam 的调侃，也暗示 Sam 一直是 Alice 生活中那个「永远正确」的理性声音；而 Alice 此刻的追问，标志着她开始重新评估自己四十岁人生的优先级。
 
 > **原句 4:** "Conventions were for the most devoted, the most faithful—the people who spent their days and nights on message boards, arguing with each other over whether Han Solo shot first or which Doctor Who was the best, adults who had closets full of elaborate costumes and friends whom they'd met at other hotels in other years. Fans for whom normal life was insufficient."
@@ -62,7 +62,7 @@ modified: "2026-10-16"
 **中文理解：** 「是的，我相信他在房间。」Gordon 说，「要我带你上去吗？这地方到处都是自动扶梯和电梯组，简直是个迷宫。」周围的人群看起来快要炸了。「不用。」Alice 说。
 **关键词：** in his room / escalators / elevator banks / maze / apoplectic
 **为什么这样写：** 这是本章的收束点：确认 Leonard 在 1422 房间，Alice 即将上楼。Gordon 主动要带路，因为酒店「是个迷宫」——这个细节既写实（大会酒店确实复杂），也象征 Alice 要穿过一个陌生世界才能抵达父亲身边。人群「apoplectic」（怒不可遏）是因为他们不想让 Alice 带走这位名人之女。
-**读者视角提示：** 人群的强烈反应暗示这些粉丝把 Leonard 当作「他们的」偶像，而 Alice 作为女儿才是真正有资格的人。下一章，Alice 将独自走进父亲的房间——这段「迷宫」引路为父女独处做了铺垫。
+**读者视角提示：** 人群的强烈反应暗示这些粉丝把 Leonard 当作「他们的」偶像，而 Alice 作为女儿才是真正有资格的人。下一章，Alice 将独自上楼寻找父亲——这段「迷宫」引路为她穿过粉丝与旧友、最终找到 Leonard 做了铺垫。
 
 ## 本章词汇
 

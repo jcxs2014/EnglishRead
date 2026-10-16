@@ -1,0 +1,11 @@
+### b 步：逐章归属（2026-10-16 14:27 UTC）
+
+===== check_chapter_quotes --book-dir =====
+⚠️  全书共 3 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 425，命中本章 425（100%）
+✅ 全部引语均归属正确章节
+
+===== 独立 flat 口径（Python 逐章提取引语比对 text/）=====
+独立口径：检查 414 条行内引语，未命中 2 条
+   ('notes/books/novels/this-time-tomorrow-by-emma-straub/ch25 alice and sam hunt for the time portal.md', '引语未命中本章: The thing with your dad," Alice finally said. They hadn\'t ta')
+   ('notes/books/novels/this-time-tomorrow-by-emma-straub/ch35 leonard explains time travel rules.md', '引语未命中本章: I see it sort of like surfing—you just have to go where you ')

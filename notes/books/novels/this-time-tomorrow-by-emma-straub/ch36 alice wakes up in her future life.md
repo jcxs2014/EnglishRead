@@ -55,7 +55,7 @@ modified: "2026-10-16"
 **中文理解：** 她看了一眼手机上的日期——10 月 13 日，四十岁生日的第二天。滑道在她进入的同一时刻把她吐了出来，只是这一次，她总算把车撞离了轨道至少一部分。Alice 想给爸爸打电话，但她害怕。
 **关键词：** October 13 / the day after her fortieth birthday / the chute had spit her out / knock the car at least partially off the track / wanted to call her dad / afraid
 **为什么这样写：** 时间旅行的「机械感」在这里第一次被明确说出：chute（滑道）与 car/track 的比喻把人生写成一座游乐设施，Alice 是唯一试图改变轨道的人。但改变的代价是未知——父亲是死是活，她无法从任何记忆里确认。「afraid」一词压住整段的轻松语调。
-**读者视角提示：** 记住这个日期：10 月 13 日。上一章她四十岁生日时从 Belvedere 顶楼许愿，这一章她在同一时刻醒来，说明时间不是线性跳跃，而是「同一时刻的不同版本」。她对父亲的恐惧将驱动她一整天的行动。
+**读者视角提示：** 记住这个日期：10 月 13 日，四十岁生日后的第二天。这一章她在同一时刻醒来，说明时间不是线性跳跃，而是「同一时刻的不同版本」。她对父亲的恐惧将驱动她一整天的行动。
 
 > **原句 7:** "It was like balancing a bowling ball in the middle of a seesaw. There were people who were so sure, one direction or the other, and then there were people like her, who had never really decided until one day they stopped paying attention and then got knocked sideways."
 

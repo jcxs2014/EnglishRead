@@ -40,7 +40,7 @@ modified: "2026-10-16"
 
 **中文理解：** 这是一支舞，一支 Leonard 与「另一边」的二重奏，而那一边已经开始领舞。Leonard 咳嗽时 Mary 快步过来，侧身挤过 Alice 调整枕头；Alice 把自己平贴在墙上让路。当 Mary 离开房间，Alice 凑近 Leonard 的脸——他的面颊凹陷，眼睛也凹了进去，比她见过的任何时候都小。
 **关键词：** dance / duet / other side / starting to lead
-**为什么这样写：** 临终护理的机械动作——护士挤过家属、调整枕头——被重新比喻成一支双人舞。死亡不是降临在 Leonard 身上的外力，而是他的舞伴；「the other side starting to lead」意味着死亡正在主导节奏，Leonard 只能跟随。这个比喻把「死亡过程」写成两个人之间的互动，而不是医学上的衰竭。
+**为什么这样写：** 临终护理的机械动作——护士挤过家属、调整枕头——被重新比喻成一支双人舞。死亡不是降临在 Leonard 身上的外力，而是他的舞伴；「the other side was starting to lead」意味着死亡正在主导节奏，Leonard 只能跟随。这个比喻把「死亡过程」写成两个人之间的互动，而不是医学上的衰竭。
 **读者视角提示：** 「dance」在全书里另有伏笔：时间旅行本身也像一场 Alice 与时间跳的舞。现在舞伴换成了死亡，而领舞的一方变了。注意「the other side」这个温柔的委婉语——作者用「另一边」而不是「死神」，让死亡保持神秘而不可怕。
 
 > **原句 5:** "“No. This is the deal. We all have a time, and this is mine. Whether it’s today or tomorrow or next month, this is it.”"

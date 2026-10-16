@@ -41,7 +41,7 @@ modified: "2026-10-16"
 **中文理解：** Alice 确信事情发生在那个酒吧——黑暗、在地下、脚下总是有点黏糊糊的。如果真有通往过去与未来的秘密通道，那么它应该在地下，沿着 2/3 号线的隧道延伸，那是没人会去的地方——除非一个人想以某种方式消失。
 **关键词：** subterranean / underfoot / underground / disappear
 **为什么这样写：** 这段把「时间旅行通道」与纽约地铁隧道意象结合，赋予奇幻设定一个地理上的「合理性」：地下、隐秘、与日常世界平行。作者用具体感官（sticky underfoot）让超自然设定扎根于真实城市空间，符合全书「幻想发生在日常生活里」的基调。
-**读者视角提示：** 「想消失的人才会去那里」是一句双关——既指流浪汉与边缘人，也暗指 Alice 自己：她此刻正试图从 2011 年（四十岁、父亲濒死）的现实里「消失」回 1996 年。
+**读者视角提示：** 「想消失的人才会去那里」是一句双关——既指流浪汉与边缘人，也暗指 Alice 自己：她此刻正试图从 2020 年（四十岁、父亲濒死）的现实里「消失」回 1996 年。
 
 > **原句 5:** "So, what's it like, being a grown-up?" Sam asked. "It's okay, I guess. I can do whatever I want. I can go wherever I please." Sam started singing, "And nothing compares to you . . ." Alice laughed. "Yeah. I guess right now I just feel like if I had made different choices, then everything would be different. And everything is okay, you know; I'm not dead, I'm not in jail. But I can't help wondering if things could be better."
 
@@ -61,7 +61,7 @@ modified: "2026-10-16"
 
 **中文理解：** Sam 赞许地说：「经典。」照片里有亲亲脸、吐舌头、睁眼、闭眼。Alice 说：「我爱这组照片。」她能在照片里看见自己——当然是那张十六岁的脸，但还有别的，在虹膜里，在嘴角的紧绷里。这不是 Sam 在她四十岁生日时送她的那张照片，但非常接近，就像异卵双胞胎之间的差别。Sam 说：「你留着吧。生日礼物，我送你的。」
 **关键词：** approvingly / sixteen-year-old face / irises / fraternal twins / birthday present
-**为什么这样写：** 这张照片是全书最重要的道具之一——它既是 Alice 四十岁生日收到的礼物，又是十六岁生日当天的留念。「异卵双胞胎」的比喻精准地写出时间旅行者的身份状态：照片里的脸是十六岁，但眼神与嘴角藏着四十岁的人生。
+**为什么这样写：** 这张照片是全书最重要的道具之一——它与 Alice 四十岁生日时收到的那张照片几乎相同，却是十六岁生日当天的留念。「异卵双胞胎」的比喻精准地写出时间旅行者的身份状态：照片里的脸是十六岁，但眼神与嘴角藏着四十岁的人生。
 **读者视角提示：** 记住这个细节：两张照片「不完全相同，但非常接近」。这暗示 Alice 的两次时间线有细微差异——她每一次回到过去，都可能在悄悄改变未来。
 
 > **原句 8:** "Tell me something else," Sam said. "Something good." "You move to New Jersey," Alice said, and smiled. Sam threw a fake punch. "You're just playing with me." Alice nodded. Sometimes the truth was hard to hear.

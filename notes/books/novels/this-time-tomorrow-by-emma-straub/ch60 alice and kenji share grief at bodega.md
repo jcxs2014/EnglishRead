@@ -41,7 +41,7 @@ modified: "2026-10-16"
 **中文理解：** Alice 开口说：「嘿，我知道这完全没头没脑，如果去杂货店的路上说这个很奇怪，我很抱歉，但我真的很为你爸爸的事难过。」
 **关键词：** out of the blue / weird thing / bodega / sorry about your dad
 **为什么这样写：** Alice 的道歉句里塞满了自我怀疑的缓冲语（out of the blue、sorry if it’s weird、sorry about）——她正在做自己以前从不敢做的事：主动提起别人的丧亲之痛。这些犹豫恰恰说明她在学习如何面对死亡话题。
-**读者视角提示：** 注意 Alice 用了三句道歉才把话说出口，这与后文她意识到「自己当年对 Helen 什么都没说」形成直接呼应。
+**读者视角提示：** 注意 Alice 用了三句道歉才把话说出口，这与后文她意识到「自己当年对 Helen 几乎什么都没说」形成直接呼应。
 
 > **原句 5:** "“No,” Kenji said, “it’s cool. It’s just, you know, no one ever mentions it. Or people apologize, like, once, like they just stepped on your foot, and then it’s all cool, you know?”"
 

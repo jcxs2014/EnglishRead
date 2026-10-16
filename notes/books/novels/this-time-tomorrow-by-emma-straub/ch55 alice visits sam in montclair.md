@@ -17,14 +17,14 @@ modified: "2026-10-16"
 
 > **原句 1:** "It only took me twenty-five years to get here."
 
-**中文理解：** Alice 用一句玩笑承认自己这么多年从未来过 Sam 在 Montclair 的家——明明只有三站火车、三个街区的距离，她却花了二十五年才到。
+**中文理解：** Alice 用一句玩笑承认自己这么多年从未来过 Sam 在 Montclair 的家——明明只有三个街区的距离，她却花了二十五年才到。
 **关键词：** twenty-five years / get here
 **为什么这样写：** 把「友谊的疏远」压缩进一个自嘲的数字玩笑。「二十五年」正好与 Alice 的年龄线呼应（她即将四十岁，而她们从高中到现在已过去二十多年），也让后面的长谈有了情感前提：这次来访本身就意味着某种修补。
 **读者视角提示：** 注意这是 Alice 见到 Sam 后说的第一句完整的话——玩笑是她掩饰愧疚与伤感的惯用方式。
 
 > **原句 2:** "New Yorkers think they're the center of the world. It takes less time to get here than it does to get to wherever the twenty-five-year-olds live now. Queens?"
 
-**中文理解：** Sam 打趣纽约人的自大：从纽约到 Montclair 比去年轻人住的布鲁克林还快。Alice 纠正说年轻人现在住在 Bushwick，Sam 顺口接「昆斯？」。
+**中文理解：** Sam 打趣纽约人的自大：从纽约到 Montclair 比去年轻人住的地方还快。他先猜「昆斯？」，Alice 纠正说年轻人现在住在 Bushwick。
 **关键词：** center of the world / twenty-five-year-olds / Queens
 **为什么这样写：** Sam 的调侃把「纽约中心论」与现实地理对照，制造喜感的同时也点出 Alice 的生活半径之小——她连好朋友住的地方都嫌远。这也是 Sam 角色一贯的直率风格，与 Alice 的自我封闭形成对比。
 **读者视角提示：** 「Queens？」是 Sam 故意用错的梗——她其实知道，只是要逗 Alice。两人的对话节奏立刻回到高中时的默契。
@@ -54,7 +54,7 @@ modified: "2026-10-16"
 
 **中文理解：** 这一次（也就是「昨天」）Alice 没有把时间旅行的事告诉 Sam 和父亲。既然知道这一切不会持久，说出来只会增加 Sam 的咨询费账单。但即便不说，这个概念一直存在于她们脑中——喜欢基努·里维斯的人迟早绕不开时间旅行。
 **关键词：** beside the point / therapy bills / Keanu Reeves / time travel / wouldn't last
-**为什么这样写：** 「Keanu Reeves」这个流行文化梗（《生死时速》《黑客帝国》都与时间/循环相关）把科幻设定拉回两个高中女生共享的文化记忆，也解释了为什么 Sam 是唯一可能「懂」的人——但 Alice 选择不说，因为说了也没有意义。这表现了她对时间旅行「注定失效」的清醒。
+**为什么这样写：** 「Keanu Reeves」这个流行文化梗（其代表作之一《比尔和泰德》系列正是时间旅行喜剧）把科幻设定拉回两个高中女生共享的文化记忆，也解释了为什么 Sam 是唯一可能「懂」的人——但 Alice 选择不说，因为说了也没有意义。这表现了她对时间旅行「注定失效」的清醒。
 **读者视角提示：** 「yesterday」加破折号插入，是叙事者对时间线混乱的自我标注——对 Alice 而言那是昨天发生的事，但对现实世界的人而言那是「从未发生过」的事。
 
 > **原句 7:** "We've been married for fifteen years. But I still have to choose it. That doesn't stop."

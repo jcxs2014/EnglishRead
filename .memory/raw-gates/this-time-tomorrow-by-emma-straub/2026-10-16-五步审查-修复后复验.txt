@@ -1,0 +1,64 @@
+### 修复后复验（2026-10-16 17:36 UTC）
+
+===== corruption_scan =====
+
+=== 编辑损坏扫描（this-time-tomorrow-by-emma-straub）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+===== audit_structure =====
+=== 精读结构扫描（this-time-tomorrow-by-emma-straub）===
+  扫 67 个 md、477 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 7
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 1 ｜ 🔀 映射不一致 0
+  ⚠️ ch46 alice uses sam to tell leonard her   引语 3 个，与本书众数 7 相差过大
+
+===== verify_quotes =====
+⚠️ 全书共 3 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 504/504 引文可核实（100%）；完全干净文件 67/67；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+===== check_vocab =====
+--- FAIL (0) ---
+--- WARN (35) ---
+
+===== check_entities =====
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+===== check_chapter_quotes =====
+⚠️  全书共 3 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 425，命中本章 425（100%）
+✅ 全部引语均归属正确章节
+
+===== sweep_full --quiet =====
+=== 引语整串 flat 比对（this-time-tomorrow-by-emma-straub）===
+  参照集：text/ 逐章（64 章，可定章） + epub 交叉验证
+  ✅ 本章命中 424 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 1 ｜ ❌ 全书查无 0
+  （短引语 3 条归 check_short_quotes；无章可对 0 条未判）
+
+===== verify_overview_quotes =====
+
+=== 总览引文 79/79 可核实（100%）；完全干净文件 3/3；已核覆盖 3/3 篇（无引语 0 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+===== check_overview_full =====
+  A 整串：命中 78 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 1
+  B 章节标签：对 78 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+===== check_overview_labels =====
+----- 口径外（0 条，不计入失败，需人判）-----
+
+----- 待人判清单（0 条）-----
+
+===== check_short_quotes =====
+  verify_quotes 跳过（<20 flat 字符）的引语：3 条 —— 这些主门禁**根本没查**
+  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+===== sweep_analysis_inline =====
+  🟠 ch13 leonard and alice start to really talk.md:97  「be supposed to」→ 内容词 1/1 命中（supposed）——疑漏词或改写
+  🟠 ch17 alice is sixteen again and calls sam.md:90  「be supposed to do」→ 内容词 1/1 命中（supposed）——疑漏词或改写
+  🟠 ch46 alice uses sam to tell leonard her ideas.md:53  「the lightbulb going on」→ 内容词 2/2 命中（going/lightbulb）——疑漏词或改写
+  🟠 ch50 alice flies home from new zealand.md:74  「strong arms」→ 内容词 2/2 命中（arms/strong）——疑漏词或改写
+  🟠 ch62 alice says goodbye to leonard at pomander.md:64  「Once more unto the breach」→ 内容词 1/2 命中（breach）——疑漏词或改写

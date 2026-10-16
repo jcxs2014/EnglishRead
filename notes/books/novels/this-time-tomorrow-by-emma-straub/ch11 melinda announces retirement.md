@@ -17,9 +17,9 @@ modified: "2026-10-16"
 
 > **原句 1:** "“I just think it’s, like, the most badass thing I’ve ever heard.” They were outside smoking. “And I cannot believe how hot that guy you went to school with is. What’s his story, anyway?”"
 
-**中文理解：** Emily 对 Alice 在餐厅拒绝 Tommy 的举动赞不绝口，说这是她听过最酷的事。两人正在外面抽烟，Emily 追问 Alice 那位老同学 Tommy 的来历。
+**中文理解：** Emily 对 Alice 在餐厅拒绝 Matt 求婚的举动赞不绝口，说这是她听过最酷的事。两人正在外面抽烟，Emily 追问 Alice 那位老同学 Tommy 的来历。
 **关键词：** badass / outside smoking / What’s his story
-**为什么这样写：** 用 Emily 的口语化夸张（badass）开篇，立刻把上一章的「餐厅事件」转化成两人之间的谈资，也通过 Emily 的好奇心把 Tommy 重新引入叙事，为后文关于他新生活的信息做铺垫。
+**为什么这样写：** 用 Emily 的口语化夸张（badass）开篇，立刻把前文（ch09）的「餐厅事件」转化成两人之间的谈资，也通过 Emily 的好奇心把 Tommy 重新引入叙事，为后文关于他新生活的信息做铺垫。
 **读者视角提示：** 注意 Emily 说「went to school with」——Tommy 是 Alice 的高中同学，而 Alice 对他的近况竟然要依靠一个五岁孩子的闲聊才能拼凑出来，这种错位本身就是喜剧。
 
 > **原句 2:** "The information had come piecemeal, teased out as it was through conversations with and about a five-year-old. They had just moved back to New York from Los Angeles, where Hannah was from. Rafe—that’s what they called the boy—had allergies, severe ones, and they were seeing a doctor in New York, the best doctor in the field."

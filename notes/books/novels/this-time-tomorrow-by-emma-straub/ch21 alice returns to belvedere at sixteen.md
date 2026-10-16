@@ -68,7 +68,7 @@ modified: "2026-10-16"
 
 **中文理解：** 今晚是她的派对之夜。Alice 已经忘了。Sam 发来的那张照片——两个人沉浸在自己不朽感中醉醺醺的样子——就在今晚。
 **关键词：** the night of her party / had forgotten / drunk on their own immortality / That was tonight
-**为什么这样写：** 结尾把时间线骤然合拢：Alice 曾经看到过那张照片（Sam 在第一章发来的照片），却不知道那是什么场合；现在她明白了，那就是今晚。「immortality」（不朽）与第一章的主题呼应——十六岁的少年相信自己永远年轻，而四十岁的 Alice 知道青春会结束。「That was tonight.」三个词，把过去与现在砸在同一刻。
+**为什么这样写：** 结尾把时间线骤然合拢：Alice 曾经看到过那张照片（Sam 在她四十岁生日时送她的那张），却不知道那是什么场合；现在她明白了，那就是今晚。「immortality」（不朽）与第一章的主题呼应——十六岁的少年相信自己永远年轻，而四十岁的 Alice 知道青春会结束。「That was tonight.」三个词，把过去与现在砸在同一刻。
 **读者视角提示：** 「positively drunk on their own immortality」是全书的核心隐喻：年轻时的 Alice 和 Sam 浸淫在自己的不朽感里，浑然不知时间正在流逝。读者站在 Alice 的四十岁视角回望，这种「青春的醉意」有了悲剧的底色。
 
 ## 本章词汇

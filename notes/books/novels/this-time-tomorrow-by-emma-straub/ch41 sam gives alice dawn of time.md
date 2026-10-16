@@ -61,8 +61,8 @@ modified: "2026-10-16"
 
 **中文理解：** 高中生 Dawn Gale 没想到自己的毕业典礼会如此重要——当她第二天早上醒来发现自己变成了三十岁，她知道有个谜团要解开。这个聪明的女孩会回到她自己的人生吗？还是她会永远卡住，在她生命中的两个不同时点之间来回穿梭？版权页上的日期是 1998 年，正是 Alice 自己高中毕业的那一年。
 **关键词：** Dawn Gale / momentous / thirty-year-old / mystery to solve / back and forth / copyright date
-**为什么这样写：** 这是全书最核心的「书中书」揭示：Leonard 把 Alice 的经历写成了小说。《Dawn of Time》的封底简介几乎是 Alice 故事的逐字复述——毕业、一觉醒来变成大人、在两个时点之间来回。书名本身就是双关：Dawn 既是主角名，也指「时间之始」；而 1998 年的版权日期暗示 Leonard 在 Alice 十六岁生日之后不久就把这个故事写了下来。
-**读者视角提示：** 「going back and forth between these two different points in her life」正是 Alice 自己在做的事。留意「The copyright date was 1998」——这个年份把 Leonard 的写作时间钉在 Alice 十六岁那年，证明他当时就相信了女儿的话。
+**为什么这样写：** 这是全书最核心的「书中书」揭示：Leonard 把 Alice 的经历写成了小说。《Dawn of Time》的书封折页简介几乎是 Alice 故事的逐字复述——毕业、一觉醒来变成大人、在两个时点之间来回。书名本身就是双关：Dawn 既是主角名，也指「时间之始」；而 1998 年的版权日期——正是 Alice 高中毕业那年——说明 Leonard 在女儿高中毕业前后就把这个故事写了下来。
+**读者视角提示：** 「going back and forth between these two different points in her life」正是 Alice 自己在做的事。留意「The copyright date was 1998」——这个年份是 Alice 高中毕业那年，说明 Leonard 很早就相信了女儿的话，并把故事写成了书。
 
 > **原句 8:** "This is real? Alice said. He’d done it—she knew he could, and he had."
 
