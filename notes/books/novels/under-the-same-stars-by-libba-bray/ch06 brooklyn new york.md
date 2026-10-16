@@ -157,15 +157,15 @@ start_date: 2026-10-16
 
 ---
 
-> **原句 11:** "It gives Miles a chill to think of all of it coexisting so easily. The Nazi flags draped over balconies and the men in gray SS uniforms. The cozy domesticity and the genocide."
+> **原句 11:** "It all seems so normal except for the Nazi flags draped over balconies and the men in gray SS uniforms. It gives Miles a chill to think of all of it coexisting so easily."
 
-**中文理解**：想到这一切如此轻易地共存，Miles 不寒而栗。阳台上的纳粹旗帜，和穿着灰色党卫军制服的男人。温馨的家庭生活和种族灭绝。
+**中文理解**：这一切看起来如此正常——除了阳台上挂着的纳粹旗帜和穿灰色党卫军制服的男人。想到这一切如此轻易地共存，Miles 不寒而栗。
 
-**句子结构**：`It gives Miles a chill to think of all of it coexisting so easily`（主句）+ `The Nazi flags draped over balconies`（名词短语）+ `and the men in gray SS uniforms`（并列名词短语）+ `The cozy domesticity and the genocide`（名词短语并列）。
+**句子结构**：`It all seems so normal except for the Nazi flags draped over balconies and the men in gray SS uniforms`（主句）+ `It gives Miles a chill to think of all of it coexisting so easily`（并列句）。
 
 **关键词**：
 - `coexisting so easily`：如此轻易地共存——最可怕的不是"对比"，而是"不对比"；普通人可以一边挂纳粹旗帜，一边养孩子
-- `cozy domesticity and the genocide`：温馨的家庭生活和种族灭绝——这两个短语是平行的，都是"生活"，都是"日常"
+- `It all seems so normal except for`：这一切看起来如此正常，除了——纳粹旗帜和党卫军制服出现在日常生活中，说明极权主义已经日常化
 
 **为什么这样写**：这是 Miles 的历史理解时刻：普通人可以参与极权主义而不自知。每一个在阳台挂纳粹旗帜的人，都有自己的"家庭生活"。这不是为纳粹辩护，而是对"日常与恶的共存"的恐怖理解。这也与当下联系：人们可以在"正常生活"的同时参与系统性不公。
 

@@ -173,9 +173,9 @@ start_date: 2026-10-16
 
 ---
 
-> **原句 12:** "'Die Eichel.'" / "Is that a German Die Hard sequel?" / "'Haven't you had, like, three years of German?'" / "'Any idea why your grandma would send you this?'"
+> **原句 12:** "'Die Eichel.'" / "Is that a German Die Hard sequel?" / "Okay. Die Eichel means … acorn?" / "Any idea why your grandma would send you this?"
 
-**中文理解**："Die Eichel。""那是德国版《虎胆龙威》续集吗？""你不是学了三年德语吗？""你知道你奶奶为什么要寄这个给你吗？"
+**中文理解**："Die Eichel。""那是德国版《虎胆龙威》续集吗？""好吧。Die Eichel 的意思是……橡果？""你知道你奶奶为什么要寄这个给你吗？"
 
 **句子结构**：四段快速对话，每句都是独立的交流回合。节奏极快，是青春期朋友之间对话的典型形态。
 
@@ -184,8 +184,6 @@ start_date: 2026-10-16
 - `German Die Hard sequel`：德国版《虎胆龙威》续集——Miles 把德语词"Eichel"误解为电影名，暴露了他的德语能力不足，同时为对话提供喜剧性调节
 
 **为什么这样写**：四句对话浓缩了三个信息：①Mormor 在边注上写了"Eichel"（橡果）；②Miles 的德语很差（这是他即将参与的调查中的弱点）；③Chloe 的外祖母选择在这个时候把资料寄出，不是偶然的。Mormor 中风后无法说话——这些资料是她唯一能传递给 Chloe 的信息。
-
----
 
 > **原句 13:** "Chloe's face falls. 'She had a stroke. In January.'" / "January. She didn't even call."
 
@@ -201,31 +199,31 @@ start_date: 2026-10-16
 
 ---
 
-> **原句 14:** "'How much longer do you think we'll be in lockdown anyway?' / 'God. What if we have to graduate over Zoom? That would be, like, a whole new level of suckage.'"
+> **原句 14:** "'How much longer do you think we'll be in lockdown anyway?'"
 
-**中文理解**："你觉得封锁还要持续多久？""天啊。如果我们得在 Zoom 上毕业怎么办？那可就是超级无敌的糟糕了。"
+**中文理解**："你觉得封锁还要持续多久？"
 
-**句子结构**：两段对话，每个问题都包含对"正常生活"的焦虑。Miles 和 Chloe 表面上在聊学校，实际上在担心更大的未知。
+**句子结构**：`'How much longer do you think we'll be in lockdown anyway?'`（直接引语）。
 
 **关键词**：
-- `graduate over Zoom`：在 Zoom 上毕业——疫情对青少年的里程碑事件（毕业舞会、毕业典礼）的毁灭性影响
-- `a whole new level of suckage`：超级无敌的糟糕——青少年的夸张表达，实际上是对"失去正常生活"的真实恐惧
+- `in lockdown`：在封锁中——2020 年新冠疫情的标志性表达
+- `How much longer`：还要多久——对"正常生活何时回来"的焦虑
 
-**为什么这样写**：这段对话看似轻松，实则是对 2020 年新冠疫情影响的精确记录。"Zoom 毕业"是那个时代特有的荒诞——它同时是喜剧性的，也是真实的悲剧。Miles 和 Chloe 用幽默处理焦虑，但这不意味着他们不害怕。
+**为什么这样写**：这是 Miles 和 Chloe 关系的"重启"时刻——五个月的沉默被打破，但第一个话题就是"疫情什么时候结束"，说明他们都在共同经历这场危机。
 
 ---
 
-> **原句 15:** "'Oh. Cool. Congratulations.' / 'Well, it's not for sure-sure. I did early action, not early decision. I'm still thinking about going to Brown. What about you? NYU?'"
+> **原句 15:** "'God. What if we have to graduate over Zoom? That would be, like, a whole new level of suckage.' / 'Oh. Cool. Congratulations.' / 'Well, it's not for sure-sure. I did early action, not early decision. I'm still thinking about going to Brown. What about you? NYU?'"
 
-**中文理解**："哦。酷。恭喜。""这个还不确定呢。我申请的是早行动，不是早决定。我还在考虑去不去布朗。你呢？纽约大学？"
+**中文理解**："天啊。如果我们得在 Zoom 上毕业怎么办？那可就是超级无敌的糟糕了。""哦。酷。恭喜。""这个还不确定呢。我申请的是早行动，不是早决定。我还在考虑去不去布朗。你呢？纽约大学？"
 
-**句子结构**：`'Oh. Cool. Congratulations.'`（Miles 的回复，三个简短分句，音调递减）+ `'Well, it's not for sure-sure...'`（Chloe 的详细回答）。
+**句子结构**：`'God. What if we have to graduate over Zoom?'`（Chloe 的感叹）+ `'Oh. Cool. Congratulations.'`（Miles 的冷淡回应）+ `'Well, it's not for sure-sure. I did early action...'`（Chloe 的详细回答）。
 
 **关键词**：
-- `Cool. Congratulations.`：酷。恭喜。——Miles 听到 Chloe 被斯坦福大学录取（早行动），他的回应是冷淡的"酷"和"恭喜"——这与他内心真正的感受（受伤、嫉妒、不安全感）形成对比
-- `early action`：早行动（美本申请方式，提前申请但无约束力）——Chloe 的策略，也暗示她的务实性格
+- `graduate over Zoom`：在 Zoom 上毕业——疫情对青少年的里程碑事件的毁灭性影响
+- `early action`：早行动（美本申请方式）——Chloe 的策略，暗示她的务实性格
 
-**为什么这样写**：Chloe 的大学申请（斯坦福/布朗）是两人生活轨迹分叉的隐喻。Miles 的真实想法在叙述中没有说出——他去的社区大学（City College/SUNY）与 Chloe 的长春藤目标形成对照。他们的关系已经因为不同的生活轨迹而紧张——这是青春期友谊在向成年过渡时的典型挑战。
+**为什么这样写**：Chloe 的大学申请（斯坦福/布朗）是两人生活轨迹分叉的隐喻。Miles 的"酷。恭喜。"是冷淡的——这与他内心真正的感受（受伤、嫉妒、不安全感）形成对比。他去的社区大学与 Chloe 的长春藤目标形成对照。他们的关系已经因为不同的生活轨迹而紧张——这是青春期友谊在向成年过渡时的典型挑战。
 
 ---
 
