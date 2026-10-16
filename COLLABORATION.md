@@ -130,6 +130,16 @@ the-twelve-loves-of-christmas-by-various 完工（12 篇短篇合集）
 - commit 12 笔（未 push）；门禁原件 .memory/raw-gates/the-twelve-loves-of-christmas-by-various/ 7 件
 - 五步审查未做（待用户发起）
 
+五步审查结论（第 10 条 a–e，同会话执行 · 用户发起）：阻断型 38 条 + 篇幅口径 1 类（12 篇）/ 提示型 93 条 / 假红型 3 族，已全部整改或分级记档。
+- 派法：a/b/c 全量重跑；d 步人判按单篇 12 个独立子代理（批量委派两次撑爆上下文，教训已记档）；e 步不适用（短篇合集豁免总览三篇）。
+- 最要紧三类：① 篇幅「字符数」把字节数标成 `wc -m` 字符口径（本机 `LANG`/`LC_CTYPE=C` ⇒ 9 篇错标，阻断型）；② 12 篇共 22 处 9-a2 引语截短（分析落点越出引语覆盖范围）；③ 方向词/说话人/计数断言 16 处（含 ch05 `I need to say something` 说话人错、ch06「三个词」实为四词、ch11「几十封」实为十七封）。
+- 终验（全部整改后重跑，gate.sh 18 项 · 退出码 0 · 0 条阻断型）：verify_quotes 126/126（100%）干净 12/12 · --full 0 · check_vocab 336 行 FAIL 0 / WARN 5（长度启发式）· entities 0 · corruption 0 · sweep_full 126/0/0/0 · 逐章 12/12 · quote_order 120 块 0 · struct_indep 0 · analysis_inline 逐字 1661 / 🟠0 🔶0 ❌0 · nav ❌0/⚠0 · audit_structure 缺陷 0 / 提示 2。
+- 假红型 3 族（只记不改）：各章 md:11 版权页/装置页串（`Alloy Entertainment`、`Simon & Schuster`、`Atria`、合集名）· md:13 `awk 'NF'` 术语 · ch09:92 双宾结构术语。
+- 审查期自抓：篇幅修复脚本自身曾多写一行重复散文（六道门禁全绿），靠 `git diff --numstat` 形状发现并重建。
+- 原件 12 件：.memory/raw-gates/the-twelve-loves-of-christmas-by-various/；台账 2026-10-16-五步审查-过程与修复记录.txt（157 行）。
+- commit `a0b7b6611`（12 md + 审查原件，未 push）。
+- 局限（如实标注）：同会话审查、写作方与审查方为同一实例；d 步真值取 `text/` 逐章提取件与 epub 展平；e 步不适用。
+
 ### [2026-10-15 12:30 UTC] [Opencode-Mac] → All
 
 **《The Thief and the Traitor Bride》(V. L. Bovalino) 全书 50 章 + 总览三篇完工**
