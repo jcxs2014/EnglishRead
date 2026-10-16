@@ -10,9 +10,9 @@ pov: "Christian"
 
 **POV**：Christian Harper，第一人称叙述
 **场景**：Valhalla 俱乐部 → Christian 公寓
-**核心事件**：Christian 在俱乐部借酒消愁；炸了 Victor Black 的车；回家发现 Stella 没睡；两人之间的张力达到临界点
+**核心事件**：Christian 在俱乐部与 Victor Black 周旋；回公寓后远程盯住 Victor 家门的监控，确认他到家才引爆其车；发现 Stella 没睡；两人之间的张力达到临界点
 **情绪弧线**：自我厌恶（借酒消愁）→ 愤怒（Victor 的挑衅）→ 满足（炸车）→ 欲望（Stella 没睡）→ 克制（"还没到时候"）
-**一句话总结**：Christian 在俱乐部炸了 Victor 的车后回家，发现 Stella 没睡——两人之间的张力达到了临界点，但 Christian 克制住了自己，因为他"等了太久，不会在一个冲动的时刻浪费所有努力"。
+**一句话总结**：Christian 在俱乐部与 Victor Black 周旋后回到公寓，远程盯着 Victor 家门的监控、待其到家才引爆他的车，随后发现 Stella 没睡——两人之间的张力达到了临界点，但 Christian 克制住了自己，因为他"等了太久，不会在一个冲动的时刻浪费所有努力"。
 
 ## 精读
 

@@ -58,7 +58,7 @@ pov: "Stella"
 
 **关键词**：redirected / electricity / Every / ounce / attention
 
-**为什么这样写**：这是全书 Stella 对 Christian 目光的最精确描述。"liquid electricity" 的比喻把抽象的目光转化为可感知的物理力量。"lit me up from the inside out" 的 "from the inside out" 是关键——Christian 的目光不是外部的刺激，而是内部的点燃。"caged butterflies" 的比喻暗示 Stella 一直在压抑自己的情感，而 Christian 的目光让这些蝴蝶挣脱了笼子。"wrestled them back into their hold" 的 "wrestled" 暗示这种压抑是暴力的、费力的。
+**为什么这样写**：这是全书 Stella 对 Christian 目光的最精确描述。"a lover's rough caress" 先把目光写成触觉，而修饰词是 rough 不是温柔。"Liquid electricity dripped down my spine and pooled in my stomach" 用液体的流动承接"电流"，把抽象的注视变成可感知的物理过程。"lit me up from the inside out" 的 "from the inside out" 是关键——Christian 的目光不是外部的刺激，而是内部的点燃。
 
 **读者视角提示**：Stella 在此处的反应是身体先于理性的——她的身体对 Christian 的目光做出了反应，而她的理性在试图控制这种反应。"from the inside out" 的精确性说明 Christian 的影响不是表面的，而是深层的。
 

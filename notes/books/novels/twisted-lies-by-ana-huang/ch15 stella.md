@@ -18,11 +18,11 @@ pov: "Stella"
 
 > **原句 1:** Despite my reluctance to attend last week's art gallery opening, it did break my self-imposed ban on not leaving the house. … I also hadn't heard a peep from my stalker since the first note, which helped. By the time the following Wednesday rolled around, I'd relaxed enough to venture into public on my own again. … That was the thing about humans. We were hard-wired for survival, and we took every opportunity to convince ourselves that our problems weren't as bad as we thought they were.
 
-**中文理解**：Stella 承认她上周的画廊之行打破了她"不出门的自律禁令"。她也没有收到跟踪者的消息，这让她放松了警惕。"Hope and denial. Two sides of the same coin." 的比喻说明希望和否认是同一枚硬币的两面。
+**中文理解**：Stella 承认她上周的画廊之行打破了她"不出门的自律禁令"。她也没有收到跟踪者的消息，这让她放松了警惕，重新敢于独自走进公共场合。
 
 **关键词**：reluctance / self-imposed / Despite / attend / gallery
 
-**为什么这样写**：开篇用 "reluctance" 建立 Stella 的不情愿——她不想出门，但她需要出门。"self-imposed ban" 的 "self-imposed" 暗示这个禁令是她自己强加的，不是别人强加的。"hard-wired for survival" 的 "hard-wired" 暗示人类的生存本能是基因决定的——我们会自动说服自己"问题没那么糟"。"Hope and denial. Two sides of the same coin." 的比喻是 Stella 的自我觉察——她知道自己在用希望来掩盖恐惧，但她需要这个希望来继续前进。
+**为什么这样写**：开篇用 "reluctance" 建立 Stella 的不情愿——她不想出门，但她需要出门。"self-imposed ban" 的 "self-imposed" 暗示这个禁令是她自己强加的，不是别人强加的。"hard-wired for survival" 的 "hard-wired" 暗示人类的生存本能是基因决定的——我们会自动说服自己"问题没那么糟"。
 
 **读者视角提示**：Stella 在此处的"hope and denial" 是角色深度的来源——她不是那种会自欺的人，她知道自己只是在用希望来掩盖恐惧。这种自我觉察是 Stella 后续发现第二封信时的心理准备。
 

@@ -30,7 +30,7 @@ pov: "Christian/Stella"
 
 > **原句 2:** From a logical standpoint, moving Stella into my house was one of the worst decisions I could've made. … She was my biggest distraction. My weakness. … That was why I'd tried to keep my distance that morning, but I didn't fucking appreciate her telling me she didn't care if I went out and fucked other women.
 
-**中文理解**：Christian 承认让 Stella 搬进他的房子是他能做的最坏的决定——她是他最大的分心，他的弱点。他试图保持距离，但当他听到她说他不在乎他和其他女人上床时，他愤怒了。
+**中文理解**：Christian 承认让 Stella 搬进他的房子是他能做的最坏的决定——她是他最大的分心，他的弱点。他试图保持距离，但当他听到她说她不在乎他和其他女人上床时，他愤怒了。
 
 **关键词**：standpoint / logical / moving / Stella / house
 
@@ -54,7 +54,7 @@ pov: "Christian/Stella"
 
 > **原句 4:** "I'll help you." … The words hovered between us, as shocked by their existence as I was. … Between the inside leak, her stalker, and Sentinel breathing down my neck, I already had a million things on my plate. I didn't need to add a fucking fashion line to the mix. … But now that the offer was out there, I couldn't take it back. … And, if I were being honest, I didn't want to.
 
-**中文理解**：Christian 主动提出帮 Stella 写商业计划——他立刻后悔了，因为他有很多事情要做。但他不想收回他的提议。"And, if I were being honest, I didn't want to" 的 "if I were being honest" 是 Christian 的精确——他通常不会诚实，但 Stella 让他诚实了。
+**中文理解**：Christian 主动提出帮忙——但他把界限划得很清：他不会替 Stella 写计划，只发模板、逐版审阅。他立刻后悔了，因为他有很多事情要做，但他不想收回他的提议。"And, if I were being honest, I didn't want to" 的 "if I were being honest" 是 Christian 的精确——他通常不会诚实，但 Stella 让他诚实了。
 
 **关键词**：words / hovered / between / shocked / existence
 

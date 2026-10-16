@@ -46,7 +46,7 @@ pov: "Christian"
 
 **关键词**：distraction / plants / interior / designer / insisted
 
-**为什么这样写**：这段独白揭示了 Christian 行为背后的真实动机。"a selfless concession on my part would've been too suspicious" 说明他每一步都经过计算——他不是一个随善而动的人，而是一个把善意当作工具的人。"the worst kind of distraction" 是他对自己失控的承认，"no one except myself to blame" 则是他拒绝外归因的骄傲。
+**为什么这样写**：这段独白揭示了 Christian 行为背后的真实动机。他嘴上说自己 "didn't give a shit about those plants"，却紧接着承认留着它们是因为 "I knew Stella loved plants"——把照料植物说成比让她整理文件更体面的借口。"Living in the same building as her was the worst kind of distraction" 是他对自己失控的承认，"no one except myself to blame" 则是他拒绝外归因的骄傲。
 
 **读者视角提示**：Christian 在此刻的坦诚是选择性的——他承认了手段，但没有承认目的。他说 "distraction" 而不是 "desire"，用理性词汇包装情感事实。这种自我欺骗是角色后续发展的伏笔。
 

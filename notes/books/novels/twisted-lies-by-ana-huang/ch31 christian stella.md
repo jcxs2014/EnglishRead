@@ -18,11 +18,11 @@ pov: "Christian/Stella"
 
 > **原句 1:** "What'll you do if I don't comply?" Her tone remained light, but the electricity in the air intensified until it seeped beneath my skin and crackled in my veins. … My smile took on a more dangerous curve. "Stay in the water and find out." … I'd give her ten seconds before I went in after her.
 
-**中文理解**Stella 问"如果我不服从，你会做什么？"——她的语气轻松，但"空气中的电流增强了"。"Stay in the water and find out" 的 "find out" 是精确的——Christian 让 Stella 留在水里，看看会发生什么。
+**中文理解**：Stella 问"如果我不服从，你会做什么？"——她的语气轻松，但"空气中的电流增强了"。"Stay in the water and find out" 的 "find out" 是精确的——Christian 让 Stella 留在水里，看看会发生什么。
 
 **关键词**：comply / remained / light / electricity / intensified
 
-**为什么这样写**：这段描写是 Christian 的"欲望时刻"——他被 Stella 的挑衅激发了。"What'll you do if I don't comply?" 的 "comply" 是精确的——Stella 在问 Christian 她会做什么，如果她不服从。"the electricity in the air intensified until it seeped beneath my skin and crackled in my veins" 的 "crackled" 是精确的——Christian 的欲望像电流一样在他的血管里噼啪作响。"Stay in the water and find out" 的 "find out" 是精确的——Christian 让 Stella 留在水里，看看会发生什么。
+**为什么这样写**：这段描写是 Christian 的"欲望时刻"——他被 Stella 的挑衅激发了。"What'll you do if I don't comply?" 的 "comply" 是精确的——Stella 在问 Christian：如果她不服从，他会怎么做。"the electricity in the air intensified until it seeped beneath my skin and crackled in my veins" 的 "crackled" 是精确的——Christian 的欲望像电流一样在他的血管里噼啪作响。"Stay in the water and find out" 的 "find out" 是精确的——Christian 让 Stella 留在水里，看看会发生什么。
 
 **读者视角提示**：Christian 在此处的 "crackled" 是角色深度的来源——他不是一个会轻易感到欲望的人，但 Stella 让他感到欲望了。"find out" 的精确措辞说明 Christian 的欲望是暴力的——他让 Stella 留在水里，看看会发生什么。
 

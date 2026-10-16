@@ -22,7 +22,7 @@ pov: "Stella"
 
 **关键词**：collection / housewarming / finished / first / piece
 
-**为什么这样写**：开篇用 "I finished the first piece of my collection" 建立 Stella 的成就——她完成了她的第一件作品。"It wasn't perfect, but it was done" 的 "but" 是精确的——Stella 知道它不完美，但她知道它完成了。"The first tangible evidence my dreams weren't just dreams" 的 "tangible" 是精确的——Stella 的梦想不再是梦想，而是有形的证据。"concrete steps toward making them reality" 的 "concrete" 是精确的——Stella 正在采取具体的步骤，而不是空想。
+**为什么这样写**：开篇用 "I finished the first piece of my collection" 建立 Stella 的成就——她完成了她的第一件作品。作者没有把完成写成纯粹的胜利，先承认瑕疵与成本（"It wasn't perfect, and the fabric was expensive"），才给出那一句 "but it was done"——这个顺序正是 Stella 一贯的心态。"The first tangible evidence my dreams weren't just dreams" 的 "tangible" 是精确的——梦想第一次有了实体。"concrete steps toward making them reality" 的 "concrete" 是精确的——她走的是具体的步骤，而不是空想。
 
 **读者视角提示**：Stella 在此处的 "tangible" 是角色深度的来源——她不是那种会轻易满足的人，但她的第一件作品让她满足了。"concrete" 的精确措辞说明 Stella 对她的梦想有精确的认知——她知道她在采取具体的步骤，而不是空想。
 

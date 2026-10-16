@@ -54,13 +54,13 @@ pov: "Stella"
 
 > **原句 4:** "I was his first client." Dante leaned back in his chair. "He was a kid fresh out of college—" … "You're three years older than me," Christian cut in. … Our host ignored him. "I took a chance on him. Best and worst decision I ever made." … A smile tugged on my lips as he told the story about how he prevented the Russo Group from losing millions of dollars worth of diamonds.
 
-**中文理解**：Dante 说 Christian 是他的第一个客户——"我从大学刚毕业时就赌了他。最好和最坏的决定"。Christian 在讲述他如何阻止 Russo Group 损失数百万美元钻石的故事时，Stella 看到他"最放松的一面"。
+**中文理解**：Dante 说 Christian 是他的第一个客户——"He was a kid fresh out of college"，而且这是他 "Best and worst decision I ever made"。Christian 讲起自己如何替 Russo Group 保住价值数百万美元的钻石时，Stella 发现自己笑了。
 
 **关键词**：first / client / Dante / leaned / chair
 
-**为什么这样写**：这段描写是 Stella 的"了解时刻"——她通过 Dante 的故事了解 Christian 的过去。"I was his first client" 的 "first" 是 Dante 的精确——他是 Christian 的第一个客户，说明他们有关系。"He was a kid fresh out of college" 的 "kid" 是 Dante 的精确——他叫 Christian "孩子"，说明他比 Christian 年长。"Best and worst decision I ever made" 的 "best and worst" 是 Dante 的精确——他说这是最好和最坏的决定，说明他对 Christian 有复杂的感情。"A smile tugged on my lips as he told the story" 的 "tugged" 是精确的——Stella 的微笑是被拉动的，不是主动的。"the most unguarded I'd ever seen him" 的 "unguarded" 是精确的——Christian 在朋友面前是最放松的。
+**为什么这样写**：这段描写是 Stella 的"了解时刻"——她通过 Dante 的故事了解 Christian 的过去。"I was his first client" 的 "first" 是 Dante 的精确——他是 Christian 的第一个客户，说明他们有关系。"He was a kid fresh out of college" 的 "kid" 是 Dante 的精确——他叫 Christian "孩子"，说明他比 Christian 年长。"Best and worst decision I ever made" 的 "best and worst" 是 Dante 的精确——他说这是最好和最坏的决定，说明他对 Christian 有复杂的感情。"A smile tugged on my lips as he told the story" 的 "tugged" 是精确的——Stella 的微笑是被拉动的，不是主动的。
 
-**读者视角提示**：Stella 在此处的 "unguarded" 是角色深度的来源——她不是那种会轻易评判他人的人，但她的评判是精确的。"tugged" 的精确措辞说明 Stella 的微笑是被动的——她被 Christian 的故事吸引了，而不是主动微笑。
+**读者视角提示**：Stella 在此处的 "tugged" 是角色深度的来源——她不是那种会轻易评判他人的人，但她的评判是精确的。"tugged" 的精确措辞说明 Stella 的微笑是被动的——她被 Christian 的故事吸引了，而不是主动微笑。
 
 ---
 

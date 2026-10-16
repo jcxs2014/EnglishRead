@@ -24,7 +24,7 @@ pov: "Christian"
 
 **为什么这样写**：开篇用 "The door closed with a quiet snick behind me" 建立 Christian 的冷静——他不在乎 Frank 的感受。"In the hush of my satellite office, it sounded like a gunshot" 的 "gunshot" 是精确的——Christian 的 satellite office 很安静，关门声像枪声。"Some low-level entrepreneur who'd weaseled his way into the gathering" 的 "weaseled" 是精确的——Frank 是低级别的 entrepreneur，他混进了聚会。
 
-**读者视角提示**：Christian 在此处的 "gunshot" 是角色深度的来源——他不是一个会轻易害怕的人，但 Frank 让他害怕了。"weaseled" 的精确措辞说明 Christian 对 Frank 的本质有精确的认知——他是低级别的 entrepreneur，他混进了聚会。
+**读者视角提示**：Christian 在此处的 "gunshot" 是角色深度的来源——关门的轻响在他耳中像枪声，但害怕的人并不是他：面对 Frank，他给出的是轻蔑与杀意。"weaseled" 的精确措辞说明 Christian 对 Frank 的本质有精确的认知——他是低级别的 entrepreneur，混进了那场聚会。
 
 ---
 
@@ -70,7 +70,7 @@ pov: "Christian"
 
 **关键词**：mistake / Rivers / handle / blade / leaned
 
-**为什么这样写**：这段描写是 Christian 的"杀意时刻"——他威胁 Frank。"You touched what was mine. And if there's one thing I hate…" I pushed the knife deeper, letting the serrated edge tear through his flesh with agonizing slowness until his cries reached an inhuman pitch" 的 "what was mine" 是精确的——Christian 认为 Stella 是他的。"But if you ever touch, look at, or so much as think about Stella again…" I shoved the blade in all the way until the only remaining visible part was the handle" 的 "chop off" 是精确的——Christian 会砍掉 Frank 的其他东西。
+**为什么这样写**：这段描写是 Christian 的"杀意时刻"——他威胁 Frank。"You touched what was mine. And if there's one thing I hate…" 的 "what was mine" 是精确的——Christian 把 Stella 视为己有。"I pushed the knife deeper, letting the serrated edge tear through his flesh with agonizing slowness until his cries reached an inhuman pitch" 写的是刻意放慢的施痛，"agonizing slowness" 本身就是刑罚的一部分。真正的威胁落在最后一句上——"Your hand won't be the only thing I'll chop off." 的 "chop off" 说的不是手，而是更多。
 
 **读者视角提示**：Christian 在此处的 "what was mine" 是角色深度的来源——他不是一个会轻易认为某人是他的，但 Stella 让他认为她是他的了。"chop off" 的精确措辞说明 Christian 对 Frank 的威胁是精确的——他会砍掉 Frank 的其他东西。
 

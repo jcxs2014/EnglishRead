@@ -12,7 +12,7 @@ pov: "Christian"
 **场景**：废弃垃圾场
 **核心事件**：Christian 发现内鬼是 Kage；Kage 承认背叛；Christian 杀死 Kage；Christian 收到 Brock 的消息说 Stella 出事了
 **情绪弧线**：冷静（确认内鬼）→ 愤怒（Kage 的背叛）→ 果断（杀死 Kage）→ 恐慌（Stella 出事）
-**一句话总结**：Christian 发现内鬼是 Kage——"你背叛了我"——在垃圾场杀死 Kage，然后收到 Brock 的消息说 Stella 出事了。
+**一句话总结**：Christian 认定内鬼是 Kage——"Anyone who betrayed me was dead to me"——在垃圾场处理掉他，随后收到 Brock 的消息说 Stella 出事了。
 
 ## 精读
 
@@ -120,4 +120,4 @@ pov: "Christian"
 
 ## 一句话总结
 
-Christian 发现内鬼是 Kage——"你背叛了我"——在垃圾场杀死 Kage，然后收到 Brock 的消息说 Stella 出事了。
+Christian 认定内鬼是 Kage——"Anyone who betrayed me was dead to me"——在垃圾场处理掉他，随后收到 Brock 的消息说 Stella 出事了。

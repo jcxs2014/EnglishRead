@@ -70,7 +70,7 @@ pov: "Stella"
 
 **关键词**：believe / considering / nothing / except / integrity
 
-**为什么这样写**：这是全书 Stella 道德滑坡的关键时刻。"integrity didn't pay the bills" 是她为自己找到的合理化借口——把道德问题转化为经济问题。"a little white lie" 的措辞是自我欺骗：她在用"小"来修饰"谎"，用"white"来修饰"lie"。"before I could second guess herself" 是行动冲动的描述——她知道如果再想下去，她会改变主意。"the first name that looked good" 暗示她不是经过深思熟虑的选择，而是随机抓取的救命稻草。
+**为什么这样写**：这是全书 Stella 道德滑坡的关键时刻。"integrity didn't pay the bills" 是她为自己找到的合理化借口——把道德问题转化为经济问题。"a little white lie" 的措辞是自我欺骗：她在用"小"来修饰"谎"，用"white"来修饰"lie"。"before I could second guess myself" 是行动冲动的描述——她知道如果再想下去，她会改变主意。"the first name that looked good" 暗示她不是经过深思熟虑的选择，而是随机抓取的救命稻草。
 
 **读者视角提示**：Stella 在此刻的决定是全书的转折点——她从一个"有原则的人"变成了一个"为了生存愿意妥协的人"。这种转变不是突然的，而是被现实压力逐步侵蚀的结果。Trent 的电话是后续所有"假男朋友"情节的起点。
 

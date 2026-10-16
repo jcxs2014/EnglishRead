@@ -12,7 +12,7 @@ pov: "Christian/Stella"
 **场景**：夏威夷 Kauai 别墅 → 海滩
 **核心事件**：Christian 醒来发现 Stella 在梦中；两人决定多留一天；Christian 骑摩托车带 Stella 去海滩野餐
 **情绪弧线**：满足（醒来）→ 调情（关于梦）→ 决定（多留一天）→ 兴奋（摩托车）→ 浪漫（海滩野餐）
-**一句话总结**：Christian 醒来发现 Stella 在梦中——"如果梦里有别人，那不可接受"——两人决定多留一天，Christian 骑摩托车带 Stella 去海滩野餐，Stella 意识到"我陷入麻烦了"。
+**一句话总结**：Christian 醒来发现 Stella 在梦中——"如果梦里有别人，那不可接受"——两人决定多留一天，Christian 骑摩托车带 Stella 去海滩野餐，并第一次承认自己对她的一切都嫉妒。
 
 ## 精读
 
@@ -120,4 +120,4 @@ pov: "Christian/Stella"
 
 ## 一句话总结
 
-Christian 醒来发现 Stella 在梦中——"如果梦里有别人，那不可接受"——两人决定多留一天，Christian 骑摩托车带 Stella 去海滩野餐，Stella 意识到"我陷入麻烦了"。
+Christian 醒来发现 Stella 在梦中——"如果梦里有别人，那不可接受"——两人决定多留一天，Christian 骑摩托车带 Stella 去海滩野餐，并第一次承认自己对她的一切都嫉妒。

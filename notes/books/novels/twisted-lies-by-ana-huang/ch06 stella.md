@@ -42,7 +42,7 @@ pov: "Stella"
 
 > **原句 3:** It was the same chill I'd experienced in my hallway the night Christian gave me a ride home. … My eyes darted wildly around the train car, but it was empty save for an elderly man snoring in the corner and the attendant trying to wake him up. … Some of the tension bled out of my shoulders. Nothing was wrong. I was on edge about the fundraiser and the fake dating arrangement, that's all.
 
-**中文理解**：Stella 在火车上感到被注视——与 ch01 回家路上同样的感觉。她环顾四周，发现只有老人和工作人员。她试图用逻辑解释自己的恐惧，但 "that's all" 的轻描淡写反而暗示她并不相信自己的解释。
+**中文理解**：Stella 在火车上感到被注视——与 ch01 那晚她走出走廊时的感觉一样。她环顾四周，发现只有打盹的老人和值班的乘务员。她试图用逻辑解释自己的恐惧，但 "that's all" 的轻描淡写反而暗示她并不相信自己的解释。
 
 **关键词**：experienced / arrangement / chill / hallway / night
 

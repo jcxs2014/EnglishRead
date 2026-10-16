@@ -18,7 +18,7 @@ pov: "Stella"
 
 > **原句 1:** "That's all I needed. Thank you for your time," Julian said. … We'd just finished our last interview for my Washington Weekly profile. … It was off the record since Delamonte wouldn't appreciate me talking about my own brand in a story that was supposed to be about them, but I was excited to discuss it with someone who wasn't Christian or my friends. It made it more real.
 
-**中文理解**：Stella 说"这就是我需要的。谢谢你的时间"。"It was off the record since Delamonte wouldn't appreciate me talking about my own brand in a story that was supposed to be about them" 的 "off the record" 是精确的——Stella 的采访是 off the record 的。
+**中文理解**：这一句是 Julian 说的——"That's all I needed. Thank you for your time"，两人刚结束为《Washington Weekly》做的最后一次采访。"It was off the record since Delamonte wouldn't appreciate me talking about my own brand in a story that was supposed to be about them" 的 "off the record" 是精确的——Stella 那段自述是 off the record 的。
 
 **关键词**：Washington / needed / Thank / Julian / finished
 
@@ -70,7 +70,7 @@ pov: "Stella"
 
 **关键词**：restraints / vulnerable / orgasm / finally / broke
 
-**为什么这样写**：这段描写是 Stella 的"高潮时刻"——她的高潮吞噬了她全身。"My orgasm finally broke free. It crashed through its restraints and consumed me whole" 的 "consumed me whole" 是精确的——Stella 的高潮吞噬了她全身。"I love feeling you come around me." He kissed his way up my neck to my mouth. "You are fucking perfect" 的 "fucking perfect" 是精确的——Christian 认为 Stella 是完美的。"The words hit me somewhere deep and vulnerable" 的 "vulnerable" 是精确的——Stella 的话击中了她内心深处的脆弱。
+**为什么这样写**：这段描写是 Stella 的"高潮时刻"——她的高潮吞噬了她全身。"My orgasm finally broke free. It crashed through its restraints and consumed me whole" 的 "consumed me whole" 是精确的——Stella 的高潮吞噬了她全身。"I love feeling you come around me." He kissed his way up my neck to my mouth. "You are fucking perfect" 的 "fucking perfect" 是精确的——Christian 认为 Stella 是完美的。"The words hit me somewhere deep and vulnerable" 的 "vulnerable" 是精确的——Christian 那句"You are fucking perfect"击中了她内心深处的脆弱。
 
 **读者视角提示**：Stella 在此处的 "consumed me whole" 是角色深度的来源——她不是那种会轻易被吞噬的人，但 Christian 让她被吞噬了。"fucking perfect" 的精确措辞说明 Christian 对 Stella 有精确的认知——他认为她是完美的。
 

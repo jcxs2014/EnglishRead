@@ -58,9 +58,9 @@ pov: "Christian"
 
 **关键词**：revelation / represented / hindsight / inconsequential / complicated
 
-**为什么这样写**：这段描写是 Christian 的"释然时刻"——他对 Magda 释然了。"In hindsight, she was so inconsequential" 的 "inconsequential" 是精确的——Christian 认为她是无关紧要的。"A complicated problem of my own design, fabricated to shield me from my past" 的 "fabricated" 是精确的——Christian 认为这是制造的。"Everyone thought she was important because she contained some big business secret or shocking revelation when the truth was so much simpler" 的 "revelation" 是精确的——Christian 认为真相更简单。"A wound I'd covered with temporary bandaids to hide the festering disease that'd been eating me alive from the inside out for decades" 的 "festering" 是精确的——Christian 认为疾病在溃烂。
+**为什么这样写**：这一段是 Christian 的"释然时刻"——他终于放下了那幅叫作 Magda 的画。原文刻意用 "she" 称呼一幅画（"she was so inconsequential"、"she contained some big business secret"），把人称代词给了一件物品，正好呼应他一直把它当成一个未了的心结。而 Magda 的来历并非旁人所猜的赃物：那是他母亲唯一一次动手画的画，他给画上了她的名字，又把母亲留给他的字条嵌进了画框。"Everyone thought she was important because she contained some big business secret or shocking revelation" 揭穿的正是这种误认——外人以为画里藏着商业机密，真相却是画框深处一封家书。"A wound I'd covered with temporary bandaids to hide the festering disease that'd been eating me alive from the inside out for decades" 把二十年的逃避写成一层层贴上去的创可贴——遮住的是溃烂，不是伤口本身。
 
-**读者视角提示**：Christian 在此处的 "inconsequential" 是角色深度的来源——他不是一个会轻易认为某事是无关紧要的，但 Magda 让她认为这是无关紧要的。"fabricated" 的精确措辞说明 Christian 对问题有精确的认知——他认为这是制造的。
+**读者视角提示**：Magda 一词在全书里是对读者的一次考验：ch21 里 Dante 说 "…can't keep Magda forever"，Christian 回 "It's a fucking painting, not a wild animal"——读者要到 ch55 才明白它始终是一幅画，而 Christian 之所以留着它，是因为画框里藏着他母亲留给他的字条。这一层揭示让"他放不下的是什么"有了具体形状。
 
 ---
 

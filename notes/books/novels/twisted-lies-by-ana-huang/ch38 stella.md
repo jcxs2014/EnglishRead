@@ -54,11 +54,11 @@ pov: "Stella"
 
 > **原句 4:** What I didn't tell you was what he moonlighted as. … I was still wrapping my head around this explosive new piece of information when Christian continued. … "Ironically, he wasn't the big art lover in the family. … His willingness to risk everything just to make her happy. … You'd think she would try to talk him out of it, but she encouraged it. … There were too many coincidences between my father's mysterious business trips and the dates the stolen art were reported on the news.
 
-**中文理解**：Stella 说"我没告诉你的是他兼职做什么"。"wrapping my head around" 的 "wrapping my head around" 是精确的——Stella 正在消化这个信息。"coincidences" 的 "coincidences" 是精确的——巧合太多了。
+**中文理解**：这是 Christian 在说"我没告诉你的是他当年靠什么兼职"——他在向 Stella 交代自己父亲的事，而 Stella 还在消化这条爆炸性消息（"wrapping my head around this explosive new piece of information"）。
 
 **关键词**：moonlighted / wrapping / around / explosive / piece
 
-**为什么这样写**：这段描写是 Stella 的"理解时刻"——她理解了 Christian 的过去。"What I didn't tell you was what he moonlighted as" 的 "moonlighted" 是精确的——Stella 说 Christian 的父亲兼职做窃贼。"I was still wrapping my head around this explosive new piece of information when Christian continued" 的 "wrapping my head around" 是精确的——Stella 正在消化这个信息。"There were too many coincidences between my father's mysterious business trips and the dates the stolen art were reported on the news" 的 "coincidences" 是精确的——巧合太多了。
+**为什么这样写**：这段描写是 Stella 的"理解时刻"——她理解了 Christian 的过去。"What I didn't tell you was what he moonlighted as" 的 "moonlighted" 是精确的——Christian 交代他父亲当年靠什么兼职。"I was still wrapping my head around this explosive new piece of information when Christian continued" 的 "wrapping my head around" 是精确的——Stella 正在消化这个信息。"There were too many coincidences between my father's mysterious business trips and the dates the stolen art were reported on the news" 的 "coincidences" 是精确的——巧合太多了。
 
 **读者视角提示**：Stella 在此处的 "wrapping my head around" 是角色深度的来源——她不是那种会轻易消化信息的人，但 Christian 的过去让她消化了。"coincidences" 的精确措辞说明 Stella 对 Christian 的过去有精确的认知——她知道巧合太多了。
 

@@ -12,7 +12,7 @@ pov: "Stella"
 **场景**：Christian 公寓（主卧→客房→餐厅）
 **核心事件**：Stella 在 Christian 的床上醒来；回忆昨晚的闯入；Christian 制定安全规则；Stella 提出自己的规则包括"不准带女人回家"；Christian 脸红
 **情绪弧线**：困惑（陌生环境）→ 恐惧（回忆闯入）→ 感激（Christian 的保护）→ 尴尬（"不准带女人"规则）→ 暗喜（Christian 脸红）
-**一句话总结**：Stella 在 Christian 的床上醒来后回忆昨晚的闯入，Christian 制定安全规则时 Stella 提出"不准带女人回家"——Christian 脸红了，而 Stella 第一次意识到自己可能在嫉妒。
+**一句话总结**：Stella 在 Christian 的床上醒来后回忆昨晚的闯入，Christian 制定安全规则时 Stella 提出"不准带女人回家"——她第一次意识到自己可能在嫉妒。
 
 ## 精读
 
@@ -54,7 +54,7 @@ pov: "Stella"
 
 > **原句 4:** "This is your house, and I'll respect your rules. But I also ask that you respect my privacy. That means no coming into my room without permission, even when—especially when—I'm not there. … And…" My teeth sank into my bottom lip as I contemplated my last request. … "No bringing women home. I don't care if you sleep with them, but they can't be here while I'm here. It's not…it won't look right."
 
-**中文理解**：Stella 提出她的规则——不进入 Christian 的房间，不碰他的东西，不告诉别人她的行踪。最后一个规则是"不准带女人回家"——她的声音在"女人"这个词上犹豫了。"it won't look right" 的措辞暗示 Stella 在掩盖她的真实情感。
+**中文理解**：Stella 提出她的规则——Christian 不得未经允许进入她的房间、不得翻她的东西、不得限制她去哪、见谁（除非是直接的安全威胁）。最后一条才是她真正在意的："不准带女人回家"——她的声音在"女人"这个词上顿了一下。"it won't look right" 的措辞暗示她在用"好不好看"来掩盖真实情绪。
 
 **关键词**：house / respect / rules / privacy / means
 
@@ -120,4 +120,4 @@ pov: "Stella"
 
 ## 一句话总结
 
-Stella 在 Christian 的床上醒来后回忆昨晚的闯入，Christian 制定安全规则时 Stella 提出"不准带女人回家"——Christian 脸红了，而 Stella 第一次意识到自己可能在嫉妒。
+Stella 在 Christian 的床上醒来后回忆昨晚的闯入，Christian 制定安全规则时 Stella 提出"不准带女人回家"——她第一次意识到自己可能在嫉妒。

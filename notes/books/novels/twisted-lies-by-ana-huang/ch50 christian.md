@@ -101,7 +101,7 @@ pov: "Christian"
 | restraints | 约束；限制 | He glared back at me, his eyes filled with hatred, but he didn't say a word as Steele and Mason secured him with restraints. |
 | recognized | 认出；识别 | I'd recognized Julian's face from his Washington Weekly bio. |
 | Washington | 华盛顿 | I'd recognized Julian's face from his Washington Weekly bio. |
-| technically | 技术上地；严格来说 | He was technically retired, but one of my clients had referred me to him years ago when I'd mentioned needing a private, discrete doctor. |
+| technically | 技术上地；严格来说 | He was technically retired, but one of my clients had referred me to him years ago when I'd mentioned needing a private, discreet doctor. |
 | examination | 检查；考试 | She'd been silent during her examination, but that didn't mean she couldn't hear us. |
 | unnecessary | 不必要的；多余的 | He was discreet, competent, and didn't ask unnecessary questions. |
 | imagination | 想象；想象力 | Reassure myself she was actually there and not a figment of my imagination. |

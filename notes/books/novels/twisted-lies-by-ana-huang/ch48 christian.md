@@ -12,7 +12,7 @@ pov: "Christian"
 **场景**：District Cafe（监控室）
 **核心事件**：Christian 查看监控录像；Christian 发现 Julian 是绑架者；Christian 发送 code black 警报
 **情绪弧线**：紧张（查看监控）→ 愤怒（发现 Julian）→ 决心（发送警报）
-**一句话总结**：Christian 查看监控录像——"我认出了他的侧脸"——发现 Julian 是绑架者，发送 code black 警报。
+**一句话总结**：Christian 查看监控录像——"I caught a glimpse of his profile"——认出 Julian 就是绑架者，随即发出 code black 警报。
 
 ## 精读
 
@@ -120,4 +120,4 @@ pov: "Christian"
 
 ## 一句话总结
 
-Christian 查看监控录像——"我认出了他的侧脸"——发现 Julian 是绑架者，发送 code black 警报。
+Christian 查看监控录像——"I caught a glimpse of his profile"——认出 Julian 就是绑架者，随即发出 code black 警报。

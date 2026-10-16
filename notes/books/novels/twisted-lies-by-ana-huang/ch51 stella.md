@@ -42,11 +42,11 @@ pov: "Stella"
 
 > **原句 3:** "She told Jules." His tone dried further. "They should be here soon. They can keep you company while I deal with Julian." … "You're letting them into your house? I thought you didn't like guests." … "I figured you wouldn't want to be alone." Christian's frown deepened. "If that's not the case, I'll tell them not to come."
 
-**中文理解**：Christian 说"她告诉了 Jules"。"His tone dried further" 的 "dried further" 是精确的——Christian 的语气更干燥了。"I figured you wouldn't want to be alone" 的 "I figured" 是精确的——Christian 认为他不会想独自一人。
+**中文理解**：Christian 说"她告诉了 Jules"。"His tone dried further" 的 "dried further" 是精确的——Christian 的语气更干燥了。"I figured you wouldn't want to be alone" 的 "I figured" 是精确的——Christian 认为她不会想独自一人。
 
 **关键词**：Jules / dried / further / should / company
 
-**为什么这样写**：这段描写是 Stella 的"感激时刻"——Christian 为她考虑。"She told Jules." His tone dried further" 的 "dried further" 是精确的——Christian 的语气更干燥了。"You're letting them into your house? I thought you didn't like guests" 的 "letting them into your house" 是精确的——Stella 认为 Christian 让他们进他的房子了。"I figured you wouldn't want to be alone" 的 "I figured" 是精确的——Christian 认为他不会想独自一人。
+**为什么这样写**：这段描写是 Stella 的"感激时刻"——Christian 为她考虑。"She told Jules." His tone dried further" 的 "dried further" 是精确的——Christian 的语气更干燥了。"You're letting them into your house? I thought you didn't like guests" 的 "letting them into your house" 是精确的——Stella 认为 Christian 让他们进他的房子了。"I figured you wouldn't want to be alone" 的 "I figured" 是精确的——Christian 认为她不会想独自一人。
 
 **读者视角提示**：Stella 在此处的 "dried further" 是角色深度的来源——她不是那种会轻易认为某事是更干燥的，但 Christian 的语气让她认为这是更干燥的。"I figured" 的精确措辞说明 Christian 对 Stella 有精确的认知——他认为她不会想独自一人。
 

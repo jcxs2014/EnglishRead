@@ -12,7 +12,7 @@ pov: "Stella"
 **场景**：D.C. 冬日街头 →  McLaren 车内 → Mirage 大厅 → Stella 公寓门口
 **核心事件**：Stella 独自走回家途中收到 Greenfield Senior Living 涨价邮件；路遇房东 Christian Harper，被迫上他的车；两人因植物照护的租赁安排产生交集；Dante Russo 登场，Christian 反应异常；Stella 回家时感到被注视
 **情绪弧线**：疲惫压抑 → 焦虑（涨价）→ 紧张警惕（Christian）→ 微妙松动（植物话题）→ 惊悚（Dante 登场）→ 恐惧（被注视感）
-**一句话概括**：Stella 在暴雪夜的路边初遇那个后来成为她整栋楼房东的 Christian Harper，一次被迫的车程让她意识到他对她有一种不该有的影响力，而回家路上那股被注视的恐惧暗示她的过去并未真正远离。
+**一句话概括**：Stella 在暴雪夜的路边被她所住大楼 Mirage 的主人 Christian Harper 叫住，一次被迫的车程让她意识到他对她有一种不该有的影响力，而回家路上那股被注视的恐惧暗示她的过去并未真正远离。
 
 ## 精读
 
@@ -34,7 +34,7 @@ pov: "Stella"
 
 **关键词**：Inconvenience / vulnerable / management / Effective / April
 
-**为什么这样写**：这段内心独白是 Stella 核心动机的第一次揭示。涨价数字精确到美元，"twenty percent" 是量化的痛感；三个 "Like" 排比将抽象的 "不便" 还原成具体的生存威胁。Maura（practically raised her）是 Stella 唯一不能替代的家人，这条线索为全书的经济困境奠基。
+**为什么这样写**：这段内心独白是 Stella 核心动机的第一次揭示。涨价数字精确到美元，"twenty percent" 是量化的痛感；三个 "Like" 排比将抽象的 "不便" 还原成具体的生存威胁。Maura（practically raised me）是 Stella 唯一不能替代的家人，这条线索为全书的经济困境奠基。
 
 **读者视角提示**：这是 Stella 全书"秘密经济压力"的起点。她选择独自承担、不让朋友家人知道，这个决定将成为后续多条情节线的根。
 
@@ -131,4 +131,4 @@ pov: "Stella"
 
 ## 一句话总结
 
-Stella 在暴雪夜的路边初遇那个后来成为她整栋楼房东的 Christian Harper，一次被迫的车程让她意识到他对她有一种不该有的影响力，而回家路上那股被注视的恐惧暗示她的过去并未真正远离。
+Stella 在暴雪夜的路边被她所住大楼 Mirage 的主人 Christian Harper 叫住，一次被迫的车程让她意识到他对她有一种不该有的影响力，而回家路上那股被注视的恐惧暗示她的过去并未真正远离。

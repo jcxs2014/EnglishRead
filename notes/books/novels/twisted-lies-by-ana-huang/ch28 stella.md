@@ -18,7 +18,7 @@ pov: "Stella"
 
 > **原句 1:** There's a fifty-fifty chance my father disowned me tonight. I've never seen him that mad, not even when I scratched his brand-new Benz after I got my driver's license and secretly took it out for a joyride. (In my defense, that curb came out of nowhere). … But you know what the worst part is? It's not the hurt in my mother's eyes or the way my sister outed me. It's not even my father kicking me out of the house. … It's the fact that I wouldn't have changed what I did even knowing what the outcome would be.
 
-**中文理解**：Stella 说"我父亲有一半的概率会把我赶出家家"。"It's the fact that I wouldn't have changed what I did even knowing what the outcome would be" 的 "wouldn't have changed" 是精确的——Stella 不会改变她做的任何事情，即使她知道结果。
+**中文理解**：Stella 说"我父亲今晚有一半的概率会跟我断绝父女关系"。"It's the fact that I wouldn't have changed what I did even knowing what the outcome would be" 的 "wouldn't have changed" 是精确的——Stella 不会改变她做的任何事情，即使她知道结果。
 
 **关键词**：fifty / chance / father / disowned / tonight
 

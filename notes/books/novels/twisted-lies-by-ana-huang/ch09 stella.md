@@ -10,7 +10,7 @@ pov: "Stella"
 
 **POV**：Stella Alonso，第一人称叙述
 **场景**：Stella 公寓（早晨）
-**核心事件**：Jules 早上七点敲门审问 Stella 的"新男友"；Ava 和 Bridget 加入；Stella 最终承认 Christian 是假男友；朋友们震惊
+**核心事件**：Jules 清早近八点敲门审问 Stella 的"新男友"；Ava 和 Bridget 加入；Stella 最终承认 Christian 是假男友；朋友们震惊
 **情绪弧线**：疲惫（宿醉）→ 紧张（被审问）→ 犹豫（是否坦白）→ 释然（承认）→ 混乱（朋友反应）
 **一句话概括**：Stella 在朋友们的逼问下承认 Christian 是假男友，朋友们从困惑到震惊到担忧——他们知道 Christian 这个人，而他们知道这件事不会简单结束。
 
@@ -18,7 +18,7 @@ pov: "Stella"
 
 > **原句 1:** "Stella! I know you're in there. Open up!" … Oh no. … I buried my face in my silk pillowcase, hoping the voice would go away, but knowing its owner, they would camp out in my hall until I inevitably had to leave for fresh air and food. … My morning visitor was nothing if not persistent.
 
-**中文理解**：Jules 早上七点敲门，Stella 知道她不会离开——Jules 会一直守在门口直到她开门。"nothing if not persistent" 的双重否定强调了 Jules 的执着。
+**中文理解**：Jules 清早近八点敲门，Stella 知道她不会离开——Jules 会一直守在门口直到她开门。"nothing if not persistent" 的双重否定强调了 Jules 的执着。
 
 **关键词**：persistent / Stella / buried / pillowcase / hoping
 

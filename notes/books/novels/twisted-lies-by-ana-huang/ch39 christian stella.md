@@ -22,7 +22,7 @@ pov: "Christian/Stella"
 
 **关键词**：monitoring / Italy / strange / dichotomy / chaos
 
-**为什么这样写**：开篇用 "Italy was a strange dichotomy of calm and chaos" 建立 Christian 的矛盾——意大利既是平静的，也是混乱的。"My gut told me something was brewing on the horizon and that I damn well wouldn't like what it was" 的 "brewing" 是精确的——Christian 知道有事情正在酝酿。"I'd called in a favor and asked Alex to keep an eye on things for me while I was gone" 的 "keep an eye on" 是精确的——Christian 让 Alex 监视情况。
+**为什么这样写**：开篇用 "Italy was a strange dichotomy of calm and chaos" 建立 Christian 的矛盾——意大利既是平静的，也是混乱的。白天他陪 Stella 逛地标、购物，夜里等她睡下才处理 D.C. 的事（"my nights monitoring the situation in D.C. after she fell asleep"）。"My gut told me something was brewing on the horizon and that I damn well wouldn't like what it was" 的 "brewing" 是精确的——Christian 知道有事情正在酝酿。
 
 **读者视角提示**：Christian 在此处的 "dichotomy" 是角色深度的来源——他不是一个会轻易矛盾的人，但意大利让他矛盾了。"brewing" 的精确措辞说明 Christian 对即将发生的事情有精确的认知——他知道有事情正在酝酿。
 

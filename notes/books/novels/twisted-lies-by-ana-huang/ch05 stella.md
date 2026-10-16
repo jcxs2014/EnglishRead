@@ -54,7 +54,7 @@ pov: "Stella"
 
 > **原句 4:** "I don't hold hands." … "Fine, no hand-holding. Cuddling then, on a bench overlooking the river, followed by some whispered sweet nothings and a goodnight kiss. Doesn't that sound nice?" … I swallowed a laugh at the way his lip curled. Judging by his expression, my suggestion sounded as nice as being thrown into a vat of bubbling acid.
 
-**中文理解**：Stella 故意用一连串浪漫的描述（牵手、拥抱、耳语、吻别）来逗 Christian。他的反应——"lip curled" 和 "vat of bubbling acid" 的比喻——说明他被这些描述恶心到了，但也被逗乐了。
+**中文理解**：Stella 故意用一连串浪漫的描述（牵手、拥抱、耳语、吻别）来逗 Christian。他的反应是嘴角一撇（"lip curled"），而 Stella 只能把笑咽下去——被逗乐的人是 Stella，被嫌恶的人是 Christian。
 
 **关键词**：overlooking / expression / suggestion / hands / holding
 
