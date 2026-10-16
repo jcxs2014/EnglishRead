@@ -19,21 +19,21 @@ modified: "2026-10-16"
 | 时段 | 场景 | 内容 |
 |------|------|------|
 | 一 | 圣诞夜前 · Day's Bookstore 后屋 | Phillip 对着镜子承认自己不该在这儿；交代 Martin Howard 摔断手腕、Brad Lee 差点哭出来，他自告奋勇顶上 |
-| 二 | 当夜 · 小镇广场 | 孩子轮番哭闹、名字记串、名单报错；Brad Lee 扮成精灵贴身救场；暴雪压场，Trina 宣布外路封闭 |
+| 二 | 圣诞夜前 · 同夜 · 小镇广场 | 孩子轮番哭闹、名字记串、名单报错；Brad Lee 扮成精灵贴身救场；暴雪压场，Trina 宣布外路封闭 |
 | 三 | 夜 · 书店楼上公寓 | 只有一张床、没有沙发；换衣、可可、供电中断；Brad Lee 问出他为什么来当圣诞老人，两人决定同床 |
 | 四 | 圣诞清晨 · 公寓 | 醒来时手脚缠在一起；早餐、雾气玻璃上的槲寄生；Brad Lee 说「我一直觉得你很可爱」，两人第一次接吻 |
-| 五 | 圣诞当天 · 公寓 | 摊开去年节庆上的误会；Brad Lee 说「你在这里是安全的」；从「PJ」这个新绰号到身体上的彻底交付 |
+| 五 | 圣诞当天 · 公寓（接着第三章那场清晨戏往下写；该章题在源文 497 行，下一章题在源文 1029 行） | 摊开去年节庆上的误会；Brad Lee 说「你在这里是安全的」；从「PJ」这个新绰号（首见源文 814 行，属清晨那一场戏）到身体上的彻底交付 |
 | 六 | 事后 · 床上 | Brad Lee 用雪人抹布收拾残局；「I could get used to this」对上「That's how habits form」；Phillip 第一次觉得不必扮演谁 |
 | 七 | 一周后 · 小镇广场 | 跨年布置还没撤；他对着孩子开口又卡壳，Brad Lee 接过话头；两人在钟楼下承认害怕，倒数到零点接吻，把这段关系叫作 `new beginnings` |
 
 ### 人物锚点
 
-- **Phillip Jones** — 叙述者，四十岁，在 `the Little Falls logistics department` 上班，管库存、许可、时间表，自称 `a certified bear`；讨厌被注视，`the world’s worst Santa`，被 Brad Lee 叫作 PJ 时愣住。
-- **Brad Lee Robert Levi** — `the town events and community programs coordinator`，四个名字（`Actually, it’s four. My middle name’s Robert.`）；住在书店楼上，冰箱里常备肉桂卷，犹太裔却从小被圣诞歌收编；两眼一直看着 Phillip。
+- **Phillip Jones** — 叙述者，四十岁，在 `the Little Falls logistics department` 上班，管库存、许可、时间表，自称 `a certified bear`；讨厌被注视，`the world’s worst Santa`，被 Brad Lee 随口叫 PJ 时皱起眉（源文 823-826 行）。
+- **Brad Lee Robert Levi** — `the town events and community programs coordinator`，全名四个部分（`Actually, it’s four. My middle name’s Robert.`；源文 464 行问的是「三处首名」，答句的 four 指含中名共四段）；住在书店楼上，冰箱里常备肉桂卷，犹太裔却从小被圣诞歌收编；两眼一直看着 Phillip。
 - **Trina Darlow** — 市政执照部门的同事，圣诞夜扮精灵当场务；先打电话通报 Martin 的糗事，再宣布 `They’ve closed the outer roads`，一句 `Perfect` 就把 Phillip 推进 Brad Lee 家。
 - **Martin Howard** — 原本的圣诞老人，HR 岗，连演九年无事；今年因自拍加挂灯摔断手腕退场，镇上给他送同情砂锅菜，他没真正出场。
 - **Phillip 的家人** — 姐姐带两个孩子住西海岸（`My family’s on the West Coast.`），是 Phillip 宁可不过节的理由；这一篇里始终只在电话与回忆中出现。
-- **Brad Lee 的家人** — 父母在他七岁离婚、母亲再婚，他因此过上了圣诞节；一周后 Phillip 去北方见的那家人 `warm, loud people who hugged me like they’d been waiting for me without knowing it`。
+- **Brad Lee 的家人** — 父母在他七岁离婚、母亲再婚，他因此过上了圣诞节；翌晨 Phillip 随他北上见的那家人——见源文 1080 行的 `warm, loud people who hugged me like they’d been waiting for me without knowing it`。
 
 ### 核心金句
 
@@ -93,7 +93,7 @@ modified: "2026-10-16"
 
 **表达方式**：不写“他很善良”，而把“善良”拆成三件可被观察的小事：记名字、蹲下来、不让人自觉渺小。排比句给这份品质一个节奏，也替读者省去形容词；最后一句把观察转向自己，让整段既是他的画像，也是 Phillip 的自画像。
 
-**为什么这样写**：全篇的说服任务就在这儿完成——一个不肯过节的、把自己关在流程里的人，被另一个人的日常举动说服，而不是被表白说服。作者把证据放在公共场合（广场、志愿者的名字），因此 Brad Lee 的温柔不是对 Phillip 的特别待遇，而是一种稳定的性格；到跨年那晚他说「I need to say something」，这种稳定性才让 Phillip 敢承认 `I’m scared`。
+**为什么这样写**：全篇的说服任务就在这儿完成——一个不肯过节的、把自己关在流程里的人，被另一个人的日常举动说服，而不是被表白说服。作者把证据放在公共场合（广场、志愿者的名字），因此 Brad Lee 的温柔不是对 Phillip 的特别待遇，而是一种稳定的性格；他这份稳定，直到同一晚钟楼下那场对话才显出用处：开口说出「I need to say something」的正是 Phillip 本人（见源文 1092→1098→1110 行），而 Brad Lee 接住之后，他才敢承认 `I’m scared`。
 
 ---
 
@@ -128,7 +128,7 @@ modified: "2026-10-16"
 
 **表达方式**：台词在讲道理，身体动作在讲紧张。`squaring my shoulders` 是一个只有旁观者才看得见的动作，作者把它插在两句话之间，等于让读者先看见他的防御姿势，再听他的辩解。`for one night` 是给这件事上的保鲜期，也是他允许自己越界的条件。
 
-**为什么这样写**：这一处越界获批的时刻，而它披着“成年人的务实”外衣。Brad Lee 的回应只有一个 `Okay.`，把选择的重量全留给 Phillip——此后雪夜、早餐、槲寄生下的吻，每一步都由 Phillip 自己点头（`Are you sure?` 之后是他 `nod again`）。作者要的就是这种不对称：他以为自己是在处理住宿问题，其实是他第一次主动把距离缩短。
+**为什么这样写**：这一处越界获批的时刻，而它披着“成年人的务实”外衣。Brad Lee 的回应只有一个 `Okay.`，把选择的重量全留给 Phillip——此后雪夜、早餐、槲寄生下的吻，每一步都由 Phillip 自己点头（槲寄生下 Brad Lee 先问「Are you sure?」，接着是 Phillip 再点一次头；两处对白见源文 656、659 行，均在原句 5 覆盖范围之外）。作者要的就是这种不对称：他以为自己是在处理住宿问题，其实是他第一次主动把距离缩短。
 
 ---
 
@@ -143,9 +143,9 @@ modified: "2026-10-16"
 - *it comes out* — 结果发出来是（某种效果）
 - *indecently loud* — 响得不合体统
 
-**表达方式**：用最小的事件做最大的暴露。清嗓子本是他想稳住场面的动作（前一秒还被问 `Did that not feel good?`），结果反而把紧张放大成声音；`indecently` 这个副词自带道德色彩，读者的注意力从音量移到他“怕被发现”这件事上。
+**表达方式**：用最小的事件做最大的暴露。清嗓子本是他想稳住场面的动作（源文 895 行先有 Brad Lee 问「Did that not feel good?」，这一问与引语不在同一句），结果反而把紧张放大成声音；`indecently` 这个副词自带道德色彩，读者的注意力从音量移到他“怕被发现”这件事上。
 
-**为什么这样写**：这一篇的喜剧感常来自这种失控的一格：正经人越是想维持得体，身体越要出声。作者把失控放在告白前——下一句就是 `I wanted to kiss you` ——于是那句告白听起来不像策划好的台词，而是被一次破音推出来的实话。
+**为什么这样写**：这一篇的喜剧感常来自这种失控的一格：正经人越是想维持得体，身体越要出声。作者把失控放在告白前——紧接着的源文 901 行就是 Phillip 承认「I wanted to kiss you」——于是那句告白听起来不像策划好的台词，而是被一次破音推出来的实话。
 
 ---
 
@@ -169,7 +169,7 @@ modified: "2026-10-16"
 
 > **原句 8:** "Christmas feels both a lifetime and ten minutes ago. I stayed. All of Christmas Day. And the night. We couldn’t keep our hands off each other. It was… unexpected, yet completely correct. I went with Brad Lee up north the next morning to see his family—warm, loud people who hugged me like they’d been waiting for me without knowing it."
 
-**中文理解**：圣诞节感觉既像一辈子以前，又像十分钟前。我留下了。整个圣诞当天。还有那一夜。我们谁也没法把手从对方身上拿开。那件事……出乎意料，却完全正确。第二天早上我跟 Brad Lee 一起北上见他家人——一群熱鬧又温暖的人，抱我的样子像是没意识到自己一直在等我。
+**中文理解**：圣诞节感觉既像一辈子以前，又像十分钟前。我留下了。整个圣诞当天。还有那一夜。我们谁也没法把手从对方身上拿开。那件事……出乎意料，却完全正确。第二天早上我跟 Brad Lee 一起北上见他家人——一群热闹又温暖的人，抱我的样子像是没意识到自己一直在等我。
 
 **句子结构**：首句 `feels both a lifetime and ten minutes ago` 是 both ... and 的对立并列，把时间感一分为二；随后是用短句堆出的节奏：`I stayed.` / `All of Christmas Day.` / `And the night.` 三记越来越短的补充，第二、第三个是不完整句，靠 and 起头；`We couldn’t keep our hands off each other` 是推测性的否定表达（can't keep ... off）说明失控；`unexpected, yet completely correct` 是两个形容词的对举判断；末句用破折号把 `his family` 展开成同位语 `warm, loud people who hugged me like they’d been waiting for me without knowing it`，其中 who 从句里又套了 like 引导的方式从句。
 
@@ -197,9 +197,9 @@ modified: "2026-10-16"
 - *a holiday thing* — 节日里的一件事（说完就散的）
 - *a snowstorm thing* — 暴风雪里的一件事
 
-**表达方式**：先承认情绪，再纠正它的来源：不是怕失去，而是怕被归类成偶然。`want this. You.` 用一个单独的词做宾语补足，把“想要的东西”从抽象的 this 收到具体的人；两组 `a holiday thing`、`a snowstorm thing` 是他能想到的最坏命名，因此后文 Brad Lee 说 `Then let’s not call it that` 才成为叙事上的解围。
+**表达方式**：先承认情绪，再纠正它的来源：不是怕失去，而是怕被归类成偶然。`want this. You.` 用一个单独的词做宾语补足，把“想要的东西”从抽象的 this 收到具体的人；两组 `a holiday thing`、`a snowstorm thing` 是他能想到的最坏命名，因此后文 Brad Lee 的回应（源文 1113 行：「Then let’s not call it that」，出自原句 9 覆盖范围之外）才成为叙事上的解围。
 
-**为什么这样写**：这一句是 Phillip 主动提出要求的时刻，也是主题的正中靶心——他从前把一切都做成预案，如今只要求“这件事不算临时”。作者让这份坦白停在钟声前十秒，好在 `Four.` `Three.` `Two.` `One.` 之间留出空白；等到 Brad Lee 用一个新名字回应，整篇的“圣诞老人送礼”隐喻才落到语言上。
+**为什么这样写**：这一句是 Phillip 主动提出要求的时刻，也是主题的正中靶心——他从前把一切都做成预案，如今只要求“这件事不算临时”。作者让这份坦白停在钟声前十秒，好在原文倒数那一段的几个数字（源文 1152、1155、1161、1164 行，均在原句 9 之外）之间留出空白；等到 Brad Lee 用一个新名字回应，整篇的“圣诞老人送礼”隐喻才落到语言上。
 
 ---
 
@@ -271,4 +271,4 @@ modified: "2026-10-16"
 
 ## 一句话总结
 
-*Ho Ho Oh No* 讲的是一次把恐惧说出口的练习：Phillip 这个在 `the Little Falls logistics department` 里靠预案活着的人，被一间只有一张床的公寓和一个叫得出所有志愿者名字的人慢慢拆开，从 `I nod so much my neck starts to get tired, but nodding seems to soothe them.` 式的笨拙应对，到承认 `I don’t detest the thought nearly as much as I should—and that’s what worries me.`，再到跨年钟声前那句 `Because I want this. You.`。作者始终不让他变成另一个人：他到最后仍不会开口要东西（`I’ve never been very good at asking`），只是这一次，礼物自己落到了他手上——圣诞节的和以后的。
+*Ho Ho Oh No* 讲的是一次把恐惧说出口的练习：Phillip 这个在 `the Little Falls logistics department`（源文 44 行）里靠预案活着的人，被一间只有一张床的公寓和一个叫得出所有志愿者名字的人慢慢拆开，从 `I nod so much my neck starts to get tired, but nodding seems to soothe them.`（源文 176 行）式的笨拙应对，到承认 `I don’t detest the thought nearly as much as I should—and that’s what worries me.`（源文 296 行），再到跨年钟声前那句 `Because I want this. You.`（源文 1110 行）。作者始终不让他变成另一个人：他到最后仍不会开口要东西（`I’ve never been very good at asking`），只是这一次，礼物自己落到了他手上——圣诞节的和以后的。

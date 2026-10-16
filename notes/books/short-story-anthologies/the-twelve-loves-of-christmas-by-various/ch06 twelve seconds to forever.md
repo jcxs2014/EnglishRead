@@ -19,22 +19,22 @@ modified: "2026-10-16"
 | 时段 | 场景 | 内容 |
 |------|------|------|
 | 一 | 婚礼彩排当晚 · 谷仓改的婚宴场地 | 彩排刚散，Jess 拉住 Lainey 承认自己撒了谎：Alex 早上就落地了，说要去滑雪却整晚没出现。Lainey 接下这桩差事，一边被叮嘱 `Try not to kill him.` |
-| 二 | 当晚 · 小镇与上山的路 | 她查机场到港记录、翻他的社交主页，把加油站、旅馆、超市、酒吧跑了一遍，最后只能开车去山上的家族小屋 |
-| 三 | 小屋门前 · 夜 | 她敲门，一边在心里数秒；数到 `Twelve.` 门开了——Alex 赤膊、围一条毛巾、湿着头发，股四头肌的伤让他站不住 |
-| 四 | 小屋客厅 · 当夜 | 伤来自在 Kansas City 打的那场球，他把这事瞒着家里；两人言辞互相试探，Jess 在电话另一头回了一个尖叫表情 |
+| 二 | 当晚 · 小镇与上山的路 | 她翻他的社交主页、查机场到港记录，把加油站、旅馆、超市、酒吧跑了一遍，最后只能开车去山上的家族小屋 |
+| 三 | 小屋门前 · 夜 | 她敲门，一边在心里数秒；数到 `Twelve.` 门开了——Alex 赤膊、围一条毛巾、湿着头发 |
+| 四 | 小屋客厅 · 当夜 | 伤来自在 Kansas City 打的那场球，他把这事瞒着家里；站得久了股四头肌失力，他撑住餐桌；两人言辞互相试探，他给 Jess 发短信报平安，Jess 回了一个尖叫表情 |
 | 五 | 门口 · 暴雪封路 | 雪大到他把她拉回屋里；她说 `We aren’t friends. Not anymore.`，他答 `I’m always going to care.` |
 | 六 | 壁炉边的客厅 · 深夜 | 冻豌豆当冰袋，Malibu 倒进 Garfield 马克杯；他把三年前那句 `it was a mistake` 的来由讲完，两人接吻，被 Jess 与 Brad 的敲门声打断 |
 | 七 | 新年前夜 · 婚礼现场 | 婚礼按计划举行，场外积雪。Jess 点破哥哥从高中起就喜欢 Lainey，把他推去舞池 |
-| 八 | 舞池 · 倒计时前 | Lainey 说她终于拿到 closure、可以回去做朋友；Alex 说他不是在开玩笑 |
+| 八 | 舞池 · 倒计时前 | Lainey 说她终于拿到 closure、可以回去做朋友；Alex 停下舞步反问她 `Why not?` |
 | 九 | 跨年倒计时 | 全场倒数，他把往后的安排往外倒，Lainey 用一个吻打断他 |
 
 ### 人物锚点
 
 - **Lainey** — 叙述者（第一、三章）；Jess 的伴娘（`isn’t the maid of honor mandatory at all wedding festivities?`），小学二年级老师（`Even my second graders.`；Alex 的判断是 `I bet she’s a great teacher.`），父亲不在场、母亲忙于工作（`My dad was never in the picture`）。
-- **Alex Carrington** — Jess 的哥哥、婚礼上的男傧相（`He’s a groomsman`）；高中跑卫出身的职业橄榄球员（`Star high school running back–turned–professional football player.`），刚被选入 NFL（`Alex getting drafted to the NFL`），在 Kansas City 那场球里伤到左腿股四头肌（`This is from your game against Kansas City?`）。
+- **Alex Carrington** — Jess 的哥哥、婚礼上的男傧相（`He’s a groomsman`）；高中跑卫出身的职业橄榄球员（`Star high school running back–turned–professional football player.`），三年前离选秀还有六个月（`I was six months away from the draft.`），如今已在 NFL 打完一个赛季（`Now that the season is over`），在 Kansas City 那场球里伤到左腿股四头肌（`This is from your game against Kansas City?`）。
 - **Jess** — Lainey 将近二十年的挚友、Alex 的妹妹、新年前夜的新娘（`I can’t believe you’re getting married tomorrow.`）；婚礼日期为配合哥哥的赛季而定（`The whole wedding was planned around Alex, or rather, his team schedule.`）。
 - **Brad** — Jess 的未婚夫、婚礼当天的丈夫（`Brad’s a lucky guy.`）；想为 Jess 特别订制戒指（`Brad wanted to do something special for Jess`）。
-- **Mr. and Mrs. Carrington** — Jess 与 Alex 的父母（`Mr. and Mrs. Carrington are the loud, supportive kind of parents.`）；小屋墙上挂着两个孩子从幼儿园到大学的节日合影。
+- **Mr. and Mrs. Carrington** — Jess 与 Alex 的父母（`Mr. and Mrs. Carrington are the loud, supportive kind of parents.`）；小屋壁炉架上摆着两个孩子从幼儿园到大学的节日合影。
 - **Brianna** — 珠宝设计师，被 Lainey 误认成 Alex 的女友（`Brianna. And she’s just a friend.`）；实为 Alex 为 Brad 牵线的戒指设计者。
 
 ### 核心金句
@@ -58,9 +58,9 @@ modified: "2026-10-16"
 - *on the eve of her wedding* — 在她婚礼的前夜
 - *I have a favor.* — 我想请你帮个忙
 
-**表达方式**：开篇先用一个身体动作把请求钉住，再用比喻性的名词短语 `an intense look of a panicked bride on the eve of her wedding` 覆盖整张脸。`panicked` 与 `the eve of her wedding` 之间留着落差——婚礼前夜该是喜色的，这个新娘却在惊慌；读者要到下一段才明白她慌的不是婚礼。
+**表达方式**：开篇先用一个身体动作把请求钉住，再用比喻性的名词短语 `an intense look of a panicked bride on the eve of her wedding` 覆盖整张脸。`panicked` 与 `the eve of her wedding` 之间留着落差——婚礼前夜该是喜色的，这个新娘却在惊慌；读者要到后面几段才明白她慌的不是婚礼。
 
-**为什么这样写**：把「求人」写成一次握手，是把近二十年的交情放在前面，好让后面那句难堪的差事（去找那个三年没说过话的哥哥）有落点。`I have a favor.` 只有三个词，语气却压得比长句更重，也顺手把这一段的悬念交给下一段去拆。
+**为什么这样写**：把「求人」写成一次握手，是把近二十年的交情放在前面，好让后面那句难堪的差事（去找那个三年没说过话的哥哥）有落点。`I have a favor.` 只有四个词，语气却压得比长句更重，也顺手把这一段的悬念留给后文去拆。
 
 ---
 
@@ -155,7 +155,7 @@ modified: "2026-10-16"
 
 **表达方式**：用自问自答的句法演一段内心的辩解。`Of course I did.` 一点犹豫都没有，反而把这个决定的分量露了出来；`My baby sister only gets married once` 摆出理由，`I’ll be fine in a week or two` 给出期限，两句都不带商量。
 
-**为什么这样写**：这段坦白写成非对话——他在心里跟自己说话，读者旁听，所以可以前后矛盾：前一段他刚说过 `The last thing I want to do is worry my sister the day before her wedding.`，这里就把隐瞒说成了保护。`in a week or two` 又与后来他连站着都困难对照，让读者比当事人更早知道这个判断靠不住。
+**为什么这样写**：这段坦白写成非对话——他在心里跟自己说话，读者旁听，所以可以前后矛盾：这里把隐瞒说成了保护，而同一章更靠后、他当面对她说的是 `The last thing I want to do is worry my sister the day before her wedding.`；`in a week or two` 又与前面他连站着都困难对照（久站腿疼、股四头肌当场失力就在这段独白之前），让读者比当事人更早知道这个判断靠不住。
 
 ---
 
@@ -209,7 +209,7 @@ modified: "2026-10-16"
 - *since high school* — 从高中起
 - *everyone knows it but her* — 除了她大家都知道
 
-**表达方式**：一句话把男主的秘密判给全世界。`everyone knows it but her` 里的对照只靠 but 一个介词完成，比直说「她不知道」更有重量；`since high school` 又把时间起点往前推了十年。
+**表达方式**：一句话把男主的秘密判给全世界。`everyone knows it but her` 里的对照只靠 but 一个介词完成，比直说「她不知道」更有重量；`since high school` 又把时间起点推到比三年前那一吻早得多的地方。
 
 **为什么这样写**：由妹妹在婚礼上点破，等于替读者确认：这段感情不是三年里才有的裂痕，而是从高中起就摆在那里、只有当事人被蒙着。接着说的一句 `I know you. And I know Lainey` 给这份判断作保，接下来 Alex 走向舞池的动作就不再是试探，而是去兑现一句旁人早看穿的话。
 
@@ -230,7 +230,7 @@ modified: "2026-10-16"
 
 **表达方式**：把「爱」拆成现在时与将来时的两次宣告——`I am in love with you` 说现在，`I plan on being in love with you for a very long time` 说以后。`plan on` 是排计划的动词，放在一个球员嘴里正合适；后半的 `the only woman I’m hanging out with is you` 又把承诺降回日常的「hang out」，不喊口号。
 
-**为什么这样写**：这段告白放在跨年倒计时的喧闹里，他得抬高声音才能说完，而 Lainey 用一个吻把它打断——作者让「讲计划」输给「接吻」：往后的安排不必讲完，先兑现眼前这一下。她上一刻还在说 closure，这一刻就用行动把 closure 退回去，人物的嘴和身体再一次说了两回事。
+**为什么这样写**：这段告白紧接在跨年倒计时开始之前，随后全场倒数、他抬高声音把往后的安排说完，而 Lainey 用一个吻把它打断——作者让「讲计划」输给「接吻」：往后的安排不必讲完，先兑现眼前这一下。她上一刻还在说 closure，这一刻就用行动把 closure 退回去，人物的嘴和身体再一次说了两回事。
 
 ---
 
@@ -247,7 +247,7 @@ modified: "2026-10-16"
 | acquiesces | 默许；勉强同意 | She acquiesces, and I pull her back inside and shut the door. |
 | stutter-step | 踉跄踉步；脚步打绊 | I stutter-step to the closest surface—the dining room table—and grab onto the side. |
 | melancholy | 忧郁；愁思 | As I navigate my SUV up and around the winding road, I feel a pang of melancholy. |
-| suspiciously | 可疑地；令人起疑地 | “Who looked suspiciously like Edward Cullen. |
+| suspiciously | 可疑地；令人起疑地 | “Who looked suspiciously like Edward Cullen.” |
 | appreciative | 欣赏的；感激的 | Before she can leave, I do my own appreciative appraisal of her, not lingering nearly as long as I want. |
 | undoubtedly | 无疑地；确定地 | Deep, clipped, undoubtedly Alex. |
 
@@ -259,7 +259,7 @@ modified: "2026-10-16"
 | groomsman | 男傧相；伴郎 | He’s a groomsman, so there was a noticeable gap at the rehearsal tonight, but Jess reassured everyone he’d be here tomorrow. |
 | reassured | 使安心；向……打包票 | He’s a groomsman, so there was a noticeable gap at the rehearsal tonight, but Jess reassured everyone he’d be here tomorrow. |
 | cleansing | 净化的（此处 a deep, cleansing breath 指深吸一口气平复） | I take a deep, cleansing breath. |
-| unscathed | 毫发无损的 | “I will find him and deliver him unscathed. |
+| unscathed | 毫发无损的 | “I will find him and deliver him unscathed.” |
 | meltdown | 崩溃；大发雷霆 | My mom will have a meltdown if we don’t get to the restaurant soon. |
 | margarita | 玛格丽塔（一种鸡尾酒） | Save me a margarita. |
 | hometown | 家乡的；本地的 | The hometown hero. |

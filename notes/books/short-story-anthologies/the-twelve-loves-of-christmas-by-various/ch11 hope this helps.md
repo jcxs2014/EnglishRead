@@ -10,33 +10,33 @@ modified: "2026-10-17"
 
 **出处**：《The Twelve Loves of Christmas: An Advent Romance Collection》，12 篇独立圣诞爱情短篇合集，本篇为**第 11 篇**。两处互证：本篇篇名页的 byline 作 `Sarah Hogle`（`text/ch11_hope_this_helps.txt` 第 13 行，篇名行 `HOPE THIS HELPS` 在第 10 行），版权续页 `text/xx_copyright_continuation.txt` 第 24 行的篇目出处列表作 `“Hope This Helps” copyright © 2026 by Alloy Entertainment, LLC and Sarah Hogle`——两处都直接写出作者名，互相印证，无著录差异。
 
-**篇幅**：39,330 字符（UTF-8 码位计数，含空行）/ 277 个非空段落（`awk 'NF'` 计数）/ 741 句（`verify_corpus.py` 粗切句口径）。全篇是书信体与第一人称现时叙述交替：前半由 Audrey Thorn 与 Joel Gladwin 的邮件往返推进，中间插入 Audrey 家里的生活场景，后半转到学校体育馆的 Snowfall Dance，最后又落回一封邮件。场景从家里的客厅、厨房，写到体育馆的 punch 桌和女孩洗手间，时间从一个周末排到舞会当晚。
+**篇幅**：39,330 字符（UTF-8 码位计数，含空行）/ 277 个非空段落（`awk 'NF'` 计数）/ 741 句（`verify_corpus.py` 粗切句口径）。全篇是书信体与第一人称现时叙述交替：前半由 Audrey Thorn 与 Joel Gladwin 的邮件往返推进，中间插入 Audrey 家里的生活场景，后半转到学校体育馆的 Snowfall Dance，最后又落回一封邮件。场景从家里的客厅、厨房，写到体育馆的 punch 桌和女孩洗手间，时间从学期中的邮件往返排到舞会当晚。
 
-**一句话主旨**：一个习惯把自己每个决定都放到放大镜底下的单亲妈妈，为了女儿的补考与舞会资格，跟八年级英文老师 Joel Gladwin 用邮件来回了十几封；等两人在学校的 Snowfall Dance 上真正照面，那些署着 `Best regards` 的信才显出另一层意思——他替全校学生争下了去舞会的资格，也告诉她可以放松一点；第二天早上，她收到一封署名 `Fence Post` 的邀约。
+**一句话主旨**：一个习惯把自己每个决定都放到放大镜底下的单亲妈妈，为了女儿的补考与舞会资格，跟八年级英文老师 Joel Gladwin 用邮件来回了十几封；等两人在学校的 Snowfall Dance 上真正照面，那些署着 `Best regards` 的信才显出另一层意思——他替全校学生争下了去舞会的资格，也告诉她可以放松一点；当晚数小时后（`Hours later`），她收到一封署名 `Fence Post` 的邀约。
 
 ### 结构
 
 | 时段 | 场景 | 内容 |
 |------|------|------|
-| 一 | 学期中的周五 · 邮件 | Audrey 用 `This is Kaylee Jamison’s mom` 自报身份，替女儿申请补考；Gladwin 回信拒绝，并点出 Kaylee 周四晚上去听了演唱会 |
-| 二 | 周末 · 邮件往返 | Audrey 承认买了 `Sabrina Carpenter` 的票、再问作文为何得 F；Gladwin 搬出 `rubric` 和维基百科；Audrey 挑出练习卷上 F. Scott Fitzgerald 的生年错误，落款 `I hope this helps.` |
-| 三 | 周五放学后 · 家里 | Kaylee 转述爸爸要她去看孩子、事后又没给钱；`Breighdynn` 把她的书掉进狗的水碗；`Snowfall Dance` 的门槛是及格 |
-| 四 | 周末 · 邮件往返（第二轮） | Gladwin 拿对方的姓氏开玩笑、搬出 `Rhinoceros Pride`，又说漏了每周一的 `extra credit` 作文——篇名那句话在这一封信里真的兑现成了一条出路 |
+| 一 | 学期中 · 邮件（首轮） | Audrey 用 `This is Kaylee Jamison’s mom` 自报身份，替女儿申请补考；Gladwin 回信拒绝，并点出 Kaylee 周四晚上去听了演唱会 |
+| 二 | 学期中 · 邮件往返（后几轮） | Audrey 承认买了 `Sabrina Carpenter` 的票、再问作文为何得 F；Gladwin 搬出 `rubric` 和维基百科；Audrey 挑出练习卷上 F. Scott Fitzgerald 的生年错误，正文末的客套话仍是 `I hope this helps.`，签名是 `Miss Thorn` |
+| 三 | 接连两天放学后 · 家里 | 第一天：Kaylee 转述爸爸要她去看孩子（`he and Aubrey need me to babysit Breighdynn`）；第二天（源文 `The following day`）：爸爸事后没给钱、`Breighdynn` 把她的书掉进狗的水碗、`Snowfall Dance` 的门槛是及格 |
+| 四 | 周五夜 · 邮件往返（第二轮） | Gladwin 拿对方的姓氏开玩笑、搬出 `Rhinoceros Pride`；她主动追问 `extra credit`（`How about extra credit?`），他直接答出那篇每周一的作文——篇名那句话在这一封信里真的兑现成了一条出路 |
 | 五 | 周一及其后一周 · 家里 | Kaylee 说 Gladwin 是她最喜欢的老师；Audrey 宣布 `I will no longer be fighting your battles`；周五传来全校学生都能去舞会的消息 |
-| 六 | 周六晚 · 学校体育馆 | 两人在 `punch` 桌旁猜饼干口味；Kaylee 一声 `Mom` 让 Gladwin 把面前的人和那些信对上 |
+| 六 | 周六晚 · 学校体育馆 | 两人在 `punch` 桌旁猜饼干口味，接着又猜一轮薯片（`For the big prize: What flavor is this?`，答案是 `Wrong! It’s fruitcake. Novelty flavor.`）；Kaylee 一声 `Mom` 让 Gladwin 把面前的人和那些信对上 |
 | 七 | 舞会夜里 · 体育馆与回家后 | 两人互说想象中的对方；`Espresso` 响起时同时笑场；他说 `I think you can relax, Audrey`；回家后收到署 `Fence Post` 的邀约 |
 
 ### 人物锚点
 
 - **Audrey Thorn** — 叙述者，Kaylee 的母亲；离婚后带着女儿住一间两居室，在 `Elkport Realty` 上班；给老师的第一封信以 `This is Kaylee Jamison’s mom` 自报身份。
-- **Kaylee Jamison** — Audrey 的女儿，八年级；英文课一直在及格线下；对她来说 Gladwin 是 `He’s my favorite teacher.`；她的书被弄坏是补考失败的起因（`Breighdynn dropped my book in the dog’s water bowl.`）。
+- **Kaylee Jamison** — Audrey 的女儿，八年级；英文课一直在及格线下；对她来说 Gladwin 是 `He’s my favorite teacher.`；书被狗的水碗毁掉只是她再次不及格时顺带报出来的（`I failed my test again, but this time it wasn’t my fault.`），而补考从头到尾没有获准（`I do not allow test retakes`）。
 - **Joel Gladwin** — 八年级英文老师，回信一贯署 `Best regards`；在信里拿对方的姓氏开玩笑（`Thorn! What an apt name!`），在舞会上被认出来时说的是 `Don’t tell me. Not Miss Audrey Thorn.`；最后的邮件署 `Fence Post`。
 - **Dustin** — Audrey 的前夫；Kaylee 转述他要她晚上过去看孩子：`he and Aubrey need me to babysit Breighdynn`。
 - **Aubrey** — Dustin 现在的女友，和 Audrey 的名字几乎一样，`she used to be my best friend`，也是当年婚礼上的伴娘。
 - **Breighdynn** — Aubrey 的幼儿，把 Kaylee 的书弄进了狗的水碗。
-- **Mr. Brice** — 校长；`Mr. Brice reminded everybody over the intercom` 宣布不及格的学生不能去舞会，后来被 Gladwin 说服改了口。
+- **Mr. Brice** — 源文只以人名的形态出现：`Mr. Brice reminded everybody over the intercom` 宣布不及格的学生不能去舞会；另有一句 `The principal said on morning announcements`，但源文从未把「校长」与 `Mr. Brice` 写成同一个人；后来 Gladwin 自述他据理力争（`I made a case for letting all the kids go to the dance`）让对方改了口。
 - **Emma / Mackenzie** — Kaylee 的朋友，来家里过夜，几个女孩把彼此的衣服换着穿。
-- **Kate** — Audrey 的朋友，她安排的晚间消遣是 `I’m gonna FaceTime Kate later`。
+- **Kate** — 源文未交代她与 Audrey 的关系，全篇只出现一次：`I’m gonna FaceTime Kate later`（Audrey 列给自己的晚间消遣）。
 - **Sabrina Carpenter** — 母女俩去看了她的演唱会；舞会上响起的又是她的歌。
 
 ### 核心金句
@@ -101,7 +101,7 @@ modified: "2026-10-17"
 
 **表达方式**：整封信的重心在一个冒号——前半是判决，后半是证据。`as well` 把上一封信里老师那句话原样接过来，`I hope this helps.` 则用客套话的壳装一次得手的反击：句式与前后所有礼貌用语一致，位置却在一记实锤之后。
 
-**为什么这样写**：这是题名那句话较早的一次出现，在这里它还带着刺。作者把它放在一封列举事实的信末，让同一句话到后面（第 423 行那封信）变成真的解法，题名于是横跨了讥讽与善意两端。
+**为什么这样写**：这是题名那句话较早的一次出现，在这里它还带着刺。作者把它放在一封列举事实的信末，让同一句话到后面（`text/ch11_hope_this_helps.txt` 第 423 行那封信）变成真的解法，题名于是横跨了讥讽与善意两端。
 
 ---
 
@@ -140,9 +140,9 @@ modified: "2026-10-17"
 - *a five-hundred-word essay about their weekend* — 一篇五百字的周末作文
 - *Hope this helps.* — 希望能帮上忙
 
-**表达方式**：把一条真正的出路拆成越来越小的几件事——周一、作文、五百字、二十分——让解法显得不难。末句与第 66 行那封信用的是同一句话，这一次却是实话；同一个客套句在两封信里的分量掉了个个儿。
+**表达方式**：把一条真正的出路拆成越来越小的几件事——周一、作文、五百字、二十分——让解法显得不难。末句与 `text/ch11_hope_this_helps.txt` 第 66 行那封信用的是同一句话，这一次却是实话；同一个客套句在两封信里的分量掉了个个儿。
 
-**为什么这样写**：这里是情节的转折处：Kaylee 的 F 有救，而救她的正是那个不肯通融的老师。作者把钥匙放在老师自己写的信里，让 Audrey 读完的当下从沙发上跳起来——冲突的解法与她最不愿承认的事实是同一件事。
+**为什么这样写**：这里是情节的转折处：Kaylee 的 F 有救，而救她的正是那个不肯通融的老师。作者把钥匙放在老师自己写的信里，让 Audrey 读完的当下先喊 `No!`、`NOOOOOO!`，最后 `I tilt my head back and yell at the ceiling: “KAAAYYYYLEEEEE!”`——冲突的解法与她最不愿承认的事实是同一件事。
 
 ---
 
@@ -232,7 +232,7 @@ modified: "2026-10-17"
 
 **表达方式**：整封邮件的正文只这一句，署名却是 `Fence Post`——她曾在舞会上说他像一根篱笆桩。邀请写在 `Dear Audrey` 的抬头之下，用一个只有两人懂的回敬替掉了所有解释。
 
-**为什么这样写**：作者让这段关系结束在一封比开篇更短的邮件上：开头那封是替女儿要一次重考，最后这封是替自己要一次见面。抬头从 `Mr. Gladwin` 换成了 `Audrey`，签名的位置留给一个绰号——书信体从争执的形式，变成了他们之间的私语。
+**为什么这样写**：作者让这段关系结束在一封比开篇更短的邮件上：开头那封是替女儿要一次重考，最后这封是替自己要一次见面。Audrey 那边的抬头从头到尾是 `Mr. Gladwin,`，Gladwin 那边却由 `Dear Mrs. Thorn,` 经 `Dear Miss Audrey Thorn,` 松到 `Dear Audrey,`，签名的位置留给一个绰号——书信体从争执的形式，变成了他们之间的私语。
 
 ---
 
@@ -282,4 +282,4 @@ modified: "2026-10-17"
 
 ## 一句话总结
 
-*Hope This Helps* 是一段从邮件里长出来的恋爱：Audrey 为了女儿的补考与 `Snowfall Dance` 的资格，跟英文老师 Joel Gladwin 来回写了几十封，字面上全是 `Best regards` 和 `I hope this helps.`，底下全是刺。真正把两个人拉到一起的，是女儿一句 `He’s still nice to me, though.` 和舞会上那句 `Don’t tell me. Not Miss Audrey Thorn.`——信里那个不肯通融的老师，原来替全校学生争下了去舞会的资格，也在 punch 桌旁告诉她 `I think you can relax, Audrey.` 题名那句话从第 66 行的一记回敬走到第 423 行的一条出路，最后变成了署名 `Fence Post` 的一封短信。
+*Hope This Helps* 是一段从邮件里长出来的恋爱：Audrey 为了女儿的补考与 `Snowfall Dance` 的资格，跟英文老师 Joel Gladwin 来回写了十几封，字面上全是 `Best regards` 和 `I hope this helps.`，底下全是刺。真正把两个人拉到一起的，是女儿一句 `He’s still nice to me, though.` 和舞会上那句 `Don’t tell me. Not Miss Audrey Thorn.`——信里那个不肯通融的老师，原来替全校学生争下了去舞会的资格，也在 punch 桌旁告诉她 `I think you can relax, Audrey.` 题名那句话从 `text/ch11_hope_this_helps.txt` 第 66 行的一记回敬走到第 423 行的一条出路，最后变成了署名 `Fence Post` 的一封短信。

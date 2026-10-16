@@ -10,7 +10,7 @@ modified: "2026-10-16"
 
 **出处**：《The Twelve Loves of Christmas: An Advent Romance Collection》，12 篇独立圣诞爱情短篇合集，本篇为**第 4 篇**，署名 Elise Bryant（`text/ch04_someone_to_hold_on_to.txt` 篇名页 byline 与 `text/xx_copyright_continuation.txt` 的版权续页篇目表两处互证：`“Someone to Hold On To” copyright © 2026 by Alloy Entertainment, LLC and Elise Bryant`）。
 
-**篇幅**：37,667 字符（UTF-8 码位计数，含空行）/ 185 个非空段落（`awk 'NF'` 计数）/ 576 句（`verify_corpus.py` 粗切句口径）。第一人称现时叙述，视角全程锁定 Simone；时间跨度从十二月初某个周二傍晚到圣诞夜，地点几乎不出 Jacaranda Senior Living 这两条街区——花园灌木丛、妈妈家的客厅厨房、街对面的药房。
+**篇幅**：37,667 字符（UTF-8 码位计数，含空行）/ 185 个非空段落（`awk 'NF'` 计数）/ 576 句（`verify_corpus.py` 粗切句口径）。第一人称现时叙述，视角全程锁定 Simone；时间跨度从十二月初某个周二傍晚到圣诞夜，地点几乎不出 Jacaranda Senior Living 这两条街区——花园灌木丛、妈妈家的客厅厨房、药房。
 
 **一句话主旨**：Simone 收起房车旅行的生活回长滩照顾患狼疮的母亲，靠烘焙守住一点点掌控感；她为几块被偷的饼干在灌木丛里蹲守，撞上同样被生活掀翻的失业教师 Henry。两个人一路排查，最后发现贼是 Ms. Earlene 的孙子——他偷饼干只是为了让开始失忆的外婆多记得自己一会儿；于是「抓住一个人不放」从恋爱修辞变成了这栋楼里彼此搭手的办法。
 
@@ -20,7 +20,7 @@ modified: "2026-10-16"
 |------|------|------|
 | 一 | 十二月初 · 周二傍晚 · Jacaranda 花园 | Simone 蹲在灌木丛里蹲守偷饼干的人；Emily Brontë 与 Mr. Walter 路过被排除；Henry 来搭话，Ms. Earlene 撞见后误以为两人在幽会，塞给她泳池房的钥匙 |
 | 二 | 当晚 · 妈妈的公寓 | 妈妈转述 Earlene 的传言与她最近的糊涂；Simone 说出妈妈确诊狼疮、自己放弃旅行的缘由，承认烘焙是她撑住自己的锚，也因此更要查出是谁在偷 |
-| 三 | 周四晚 · 邮箱后的蹲守点 | Henry 带着 Nana 的手工材料来「帮忙」，把 Home Alone 的招数一件件掏出来；两人互相交底：失业教师与远程营销 |
+| 三 | 次周周一晚 · 邮箱后的蹲守点 | Henry 带着 Nana 的手工材料来「帮忙」，把 Home Alone 的招数一件件掏出来；两人互相交底：失业教师与远程营销 |
 | 四 | 同一晚 · 灌木丛 | 一个穿红丝绒的 Santa 抢走一块饼干；Simone 扑倒 Henry，恼羞成怒把他赶走 |
 | 五 | 次日晚 · 药房 | 她撞见 Henry 因保险失效拿不到药；两人道歉，Henry 讲出学校倒闭与「海啸」的比喻，两人在这里真正对上话 |
 | 六 | 随后 · 蹲守点 | 排除 Mr. Joseph 与 Ms. Earlene 的嫌疑；Henry 提出再找「别的任务」以便继续见面，话被脚步声打断 |
@@ -30,13 +30,13 @@ modified: "2026-10-16"
 ### 人物锚点
 
 - **Simone Jackson** — 叙述者「我」；远程办公的数字营销策略师（`I’m a digital marketing strategist`），原本开着改装房车 Fanny 在加州各地旅行，因母亲病重回长滩，在 Jacaranda 社区摆无麸质烘焙摊。
-- **Henry Watson** — 男主人公；原为教师（`I was a teacher`），新学校开学一周就因经费问题关门而失业，保险也随之中断，暂住外婆 Nana 家；穿褪色的 Paramore T 恤与 Adidas 拖鞋，背印着 `Read Banned Books` 的帆布袋。
+- **Henry Watson** — 男主人公；原为教师（`I was a teacher`），新学校开学一周就因经费问题关门而失业，保险也随之中断，暂住祖母 Nana 家；穿褪色的 Paramore T 恤与 Adidas 拖鞋，背印着 `Read Banned Books` 的手提袋。
 - **Mom** — Simone 的母亲；退休儿科护士（`a pediatric nurse`），患狼疮（`lupus`），爱看 Hallmark 圣诞电影，全篇几乎都坐在客厅沙发上。
 - **Ms. Earlene** — 妈妈楼上的邻居、Jacaranda 剧社负责人；总穿会发光的节日服装，记性开始出问题（`She was looking for a car, but she hasn’t had a car for years`），误认 Simone 与 Henry 幽会并把泳池房钥匙塞给她。
 - **August** — Ms. Earlene 的孙子，还在上学的男孩；为哄失忆的外婆穿上 `a Grinch mask` 偷 Neapolitan 饼干。
 - **Sherry** — Ms. Earlene 的女儿、August 的妈妈（`Sherry, Ms. Earlene’s daughter and August’s mom`）；圣诞夜与 Henry 谈课后项目。
-- **Ms. Lily Anne Watson** — Henry 的外婆、Simone 的顾客；戴总是歪向一边的金色假发（`always slightly askew blond wigs`），圣诞夜坐在妈妈身边。
-- **Mr. Walter** — HOA 里极力反对她摆摊的住户（`the fiercest opponent against giving me permission to start the stand`）；养着巴哥犬 Emily Brontë，每场蹲守都要被怀疑一次再被划掉。
+- **Ms. Lily Anne Watson** — Henry 的祖母、Simone 的顾客；戴总是歪向一边的金色假发（`always slightly askew blond wigs`），圣诞夜坐在妈妈身边。
+- **Mr. Walter** — HOA 里极力反对她摆摊的住户（`the fiercest opponent against giving me permission to start the stand`）；养着巴哥犬 Emily Brontë，在第一场蹲守里被怀疑一次后划掉。
 - **Emily Brontë** — Mr. Walter 的巴哥犬，呼哧带喘地经过蹲守点，也是全篇的固定笑点。
 - **Mr. Joseph** — 社区 D&D 局的 `their dungeon master`；被列入嫌疑人后因 `He hates chocolate.` 排除。
 
@@ -169,7 +169,7 @@ modified: "2026-10-16"
 
 **表达方式**：把告白伪装成排期。他不说想见她，只说想再找一个 `some other mission`——沿用两人抓贼那套说法，把关系申请办成任务续订。省略号与 `uh…` 都长在关键处：越接近真话越含糊，句子形式与他的克制完全一致。
 
-**为什么这样写**：这是全篇的进度标记。此前几次共处都有名目——蹲守、帮忙、抓贼；这一次他要把名目本身延期，等于承认他想要的是同处而不是任务。作者让它紧接着被脚步声打断（`I like—` 没能说完），于是两人的关系不是靠宣言推进，而是靠一次被打断的句子和随后一起扑向犯人的动作完成。
+**为什么这样写**：这是全篇的进度标记。此前几次共处都有名目——蹲守、帮忙；这一次他要把名目本身延期，等于承认他想要的是同处而不是任务。作者让它紧接着被脚步声打断（`I like—` 没能说完），于是两人的关系不是靠宣言推进，而是靠一次被打断的句子和随后一起扑向犯人的动作完成。
 
 ---
 
@@ -266,10 +266,10 @@ modified: "2026-10-16"
 | grandma | 奶奶；外婆 | Please, please don’t tell my grandma! |
 | nana | （口语）奶奶；外婆 | “Who’s your nana? |
 | thief | 小偷 | Nana is not a thief. |
-| tote bag | 帆布手提袋 | He has a tote bag slung over his shoulder, with Read Banned Books written in bright white letters that seem to glow in the dark. |
+| tote bag | （大）手提袋 | He has a tote bag slung over his shoulder, with Read Banned Books written in bright white letters that seem to glow in the dark. |
 | average bedtime | 平均就寝时间 | I feel like the average bedtime around here is six. |
 | store | 商店 | Even my favorite Christmas song, the Temptations’ “Silent Night” playing over the store’s speakers doesn’t help. |
 
 ## 一句话总结
 
-*Someone to Hold On To* 把一场抓偷饼干贼的蹲守写成两个被生活掀翻的人互相搭手：Simone 收起房车与公路，用 `Baking has become my only anchor.` 守住最后一点掌控感；Henry 用 `a tsunami just came` 说出同一件事，只是换了一片海。两人排查到最后抓到的不是惯犯，而是一个替失忆外婆偷饼干的孩子——于是主题从「谁在偷」翻成「谁在扛」。落点不在告白，而在 `But you can choose who you reach a hand out to`：海不会平静，但可以选同游的人，所以她才敢把那句没说完的喜欢，和一年前丢掉的 `it feels pretty limitless to me` 一起捡回来。
+*Someone to Hold On To* 把一场抓偷饼干贼的蹲守写成两个被生活掀翻的人互相搭手：Simone 收起房车与公路，用 `Baking has become my only anchor.` 守住最后一点掌控感；Henry 用 `a tsunami just came` 说出同一件事，只是换了一片海。两人排查到最后抓到的不是惯犯，而是一个替失忆外婆偷饼干的孩子——于是主题从「谁在偷」翻成「谁在扛」。落点不在告白，而在 `But you can choose who you reach a hand out to`：海不会平静，但可以选同游的人，所以她才敢把那句没说完的喜欢，和一年前丢掉的那种感觉（`it feels pretty limitless to me`）一起捡回来。

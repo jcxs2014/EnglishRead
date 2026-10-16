@@ -10,9 +10,9 @@ modified: "2026-10-17"
 
 **出处**：《The Twelve Loves of Christmas: An Advent Romance Collection》，12 篇独立圣诞爱情短篇合集，本篇为**第 9 篇**。两处互证：本篇篇名页的 byline 作 `Rebekah Weatherspoon`（`text/ch09_skipping_christmas.txt` 第 13 行），版权续页 `xx_copyright_continuation` 第 45 行的篇目出处列表作 `“Skipping Christmas” copyright © 2026 by Alloy Entertainment, LLC and Rebekah Weatherspoon`——两处都直接写出作者名，互相印证，无著录差异。
 
-**篇幅**：40,037 字符（UTF-8 码位计数，含空行）/ 263 个非空段落（`awk 'NF'` 计数）/ 647 句（`verify_corpus.py` 粗切句口径）。全篇第一人称现时叙述，视角始终是 Ashley，没有分章标记；场景从洛杉矶公寓楼下的停车场、邮件间与她自己那间公寓，延伸到两天后的商场，时间落在圣诞前几天到圣诞夜。
+**篇幅**：40,037 字符（UTF-8 码位计数，含空行）/ 263 个非空段落（`awk 'NF'` 计数）/ 647 句（`verify_corpus.py` 粗切句口径）。全篇第一人称现时叙述，视角始终是 Ashley，没有分章标记；场景从洛杉矶公寓楼下的停车场、邮件间与她自己那间公寓，延伸到第 3 天的商场，时间落在圣诞前几天到圣诞夜。
 
-**一句话主旨**：一个把圣诞假期留给自己、不回家的洛杉矶美甲师，在自家公寓楼的邮件间撞上邻居 Micah；两个人各自在躲一个家——她躲的是母亲那套戏，他躲的是刚散掉的一段关系与一个不是他亲生的孩子。故事让这段关系在快递箱、一棵粉色人造圣诞树和十美元上限的礼物之间长出来，最后他说 `I think you’re worth it.`，她想的是 `I may never go home for Christmas again.`
+**一句话主旨**：一个把圣诞假期留给自己、不回家的洛杉矶美甲师，在自家公寓楼的邮件间撞上邻居 Micah；两个人各自在躲一个家——她躲的是母亲那套戏，他失去的是刚散掉的一段关系，还有那个不是他亲生的孩子。故事让这段关系在快递箱、一棵粉色人造圣诞树和十美元上限的礼物之间长出来，最后他说 `I think you’re worth it.`，她想的是 `I may never go home for Christmas again.`
 
 ### 结构
 
@@ -22,10 +22,10 @@ modified: "2026-10-17"
 | 二 | 当晚 · 公寓楼邮件间 | 撞见 2A——她私下叫他 `Girl Dad` 和 `Pretty Teeth`；他理着包裹交代自己 `Quit that gig`，又说明 `Jaeda’s not mine.`、Bria 搬走了 |
 | 三 | 当晚 · 自己公寓 | 与住 `3J` 的 Kendra 短信，Kendra `already in Tulum`；临睡前门口有动静，她抄起球棒去看，是 Micah 来留字条 |
 | 四 | 当夜 · 卧室 | 发完短信他直接打来电话，讲完分手经过与 `veterinary school` 的计划（`I start in January`），也交代原本打算靠 `back-to-back NBA coverage` 一个人过节 |
-| 五 | 次日傍晚 · 客厅与厨房 | Micah 抱来一棵 `artificial pink tree`，吃她做的雪球饼干；她讲母亲要她 `Taking over her salon back home`，他讲 `one good concussion` 之后不再打球，临走约下第二天的约会 |
-| 六 | 第二天 · 商场 | 买下 `caramel-brown pebbled leather shoulder bag`，由 sales associate `Jeffrey` 招呼；两人见了商场圣诞老人并合影，按她的说法这是 `It’s our first date!` |
+| 五 | 次日晚 10 点 · 客厅与厨房 | Micah 抱来一棵 `artificial pink tree`，吃她做的雪球饼干；她讲母亲要她 `Taking over her salon back home`，他讲 `one good concussion` 之后不再打球，临走约下第二天的约会 |
+| 六 | 第 3 天 · 商场 | 买下 `caramel-brown pebbled leather shoulder bag`，由 sales associate `Jeffrey` 招呼；两人见了商场圣诞老人并合影，按她的说法这是 `It’s our first date!` |
 | 七 | 当晚 · 家门口 | 两人的初吻；他收住，说 `I’m gonna wait` |
-| 八 | 圣诞夜 · 公寓 | 第二次约会：Micah 说他 `had to block Bria today`；她划下底线，他把 `stethoscope`（`seven dollars and thirty-eight cents after tax`）交给她，她收到 `gold-plated teddy bear` 挂饰 |
+| 八 | 圣诞夜 · 公寓 | 第二次约会：Micah 说他 `had to block Bria today`；她划下底线，她把自己买的 `stethoscope`（`seven dollars and thirty-eight cents after tax`）交给他，他回赠 `gold-plated teddy bear` 挂饰 |
 
 ### 人物锚点
 
@@ -43,7 +43,7 @@ modified: "2026-10-17"
 
 > "I don’t—I don’t want drama with Bria. I like you. I’m starting to like you a lot, but I’m not a drama girl. I like to keep things cute, light, and breezy. That’s why I don’t want to live near my mom. Her middle name is drama."
 
-（篇名说的是「跳过圣诞」，这句把原因讲白了：她躲的不是节日，是母亲那套戏。三句越来越重的喜欢之后接一句 `but I’m not a drama girl`，底线与告白在同一口气里说完，末句还把这条底线追到源头。）
+（篇名说的是「跳过圣诞」，这句把原因讲白了：她躲的不是节日，是母亲那套戏。两句越来越重的喜欢之后接一句 `but I’m not a drama girl`，底线与告白在同一口气里说完，末句还把这条底线追到源头。）
 
 ## 精读
 
@@ -119,7 +119,7 @@ modified: "2026-10-17"
 
 **表达方式**：三句台词被转折词串成一次现想现说的坦白，`So` 更把「没号码」说成留字条的正当理由。收尾那句用最省的方式拆台：动作是笑，形容词却是不好意思。
 
-**为什么这样写**：他把「想约你」包装成「办事顺路」，理由就得一层层叠；作者让包装在句末露馅，同时把字条留成一个证据——第二天早上她还真的去门上取。一场越界的夜晚由此变成一件可以捏在手里的事。
+**为什么这样写**：他把「想约你」包装成「办事顺路」，理由就得一层层叠；作者让包装在句末露馅，同时把字条留成一个证据——他走后她当晚就开门把字条取了下来。一场越界的夜晚由此变成一件可以捏在手里的事。
 
 ---
 
@@ -127,7 +127,7 @@ modified: "2026-10-17"
 
 **中文理解**：「我本来打算用一场接一场的 NBA 转播，把圣诞节那点愁绪淹掉；可后来撞见你，我就想，我也用不着因为身边没人就不过圣诞了。」
 
-**句子结构**：主句是过去进行时 `I was thinking about drowning...`，动名词后接 `my Christmas day sorrows` 作宾语，方式状语是 `in back-to-back NBA coverage`；but 之后转到现在：`then I ran into you and I figured...`，figured 后是省略 that 的宾语从句，从句里再嵌一层原因状语。
+**句子结构**：主句是过去进行时 `I was thinking about drowning...`，动名词后接 `my Christmas day sorrows` 作宾语，方式状语是 `in back-to-back NBA coverage`；but 之后的谓语仍是过去时（`then I ran into you and I figured`）；只有 figured 后面那个省略了 that 的宾语从句才转到现在，从句里再嵌一层原因状语。
 
 **关键词**：
 - *drowning my Christmas day sorrows* — 把圣诞节的愁绪淹掉
@@ -215,7 +215,7 @@ modified: "2026-10-17"
 
 **表达方式**：把一条边界讲成三个并列形容词——cute、light、breezy——节奏轻，内容其实很硬。末句借用 middle name 这个固定说法打趣，既把母亲写进来，又不让场面变沉重。
 
-**为什么这样写**：她把「不回家过节」的理由摊开讲，不再只用一句玩笑搪塞：不是不爱家人，是受不了那套戏。作者偏偏选在感情升温、对方刚说过自己也不想闹剧的时候交出这段自述，于是恋爱问题与家庭问题被并成同一个问题。
+**为什么这样写**：她把「不回家过节」的理由摊开讲，不再只用一句玩笑搪塞：不是不爱家人，是受不了那套戏。作者偏偏选在感情升温、他刚说完 `I do not want to have any relationship with her mom.` 的时候放出这段自述（他那句 `I don’t want that either.` 是接在她后面说的），于是恋爱问题与家庭问题被并成同一个问题。
 
 ---
 
@@ -232,7 +232,7 @@ modified: "2026-10-17"
 
 **表达方式**：她问的是价钱——挂饰超出了十美元上限——他只回答人。耸肩先把郑重卸掉，四个词再把它捡回来；全句没有主语之外任何解释。
 
-**为什么这样写**：这一篇的花费一直在算：他说自己的礼物是 `eight dollars and seventy-eight cents after taxes`，她纠正成 `seven dollars and thirty-eight cents after tax`。到这一句，作者用一个 shrug 把「值不值」从价格表上挪开——结尾那句 `I may never go home for Christmas again.` 敢说出口，靠的正是这一下。
+**为什么这样写**：这一篇的花费一直在算：他报出他给她买的那份礼物是 `eight dollars and seventy-eight cents after taxes`，她给他买的 `stethoscope` 是 `seven dollars and thirty-eight cents after tax`——两笔钱各归各的一份礼物。到这一句，作者用一个 shrug 把「值不值」从价格表上挪开——结尾那句 `I may never go home for Christmas again.` 敢说出口，靠的正是这一下。
 
 ---
 

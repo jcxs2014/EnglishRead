@@ -10,7 +10,7 @@ modified: "2026-10-16"
 
 **出处**：《The Twelve Loves of Christmas: An Advent Romance Collection》，12 篇独立圣诞爱情短篇合集，本篇为**第 12 篇**。两处互证：本篇篇名页的 byline 作 `Zakiya N. Jamal`（`text/ch12_is_it_new_year_s_yet.txt` 第 13 行，其上第 10 行的篇名页标题作 `IS IT NEW YEAR’S YET?`），版权续页 `text/xx_copyright_continuation.txt` 第 27 行的篇目出处列表作 `“Is It New Year’s Yet?” copyright © 2026 by Alloy Entertainment, LLC and Zakiya N. Jamal`——两处都直接写出作者名，互相印证，无著录差异。
 
-**篇幅**：35,929 字符（UTF-8 码位计数，含空行）/ 217 个非空段落（`awk 'NF'` 计数）/ 510 句（`verify_corpus.py` 粗切句口径）。全篇是第三人称限知视角，镜头一直站在 Win 这一侧，只写她听得见、看得见的东西；时态在两层之间往返——今年的派对用一般过去时叙述，去年那一场整段退回过去完成时（`he’d said`、`She’d made to walk around him`、`She had liked it` 这一类形式），读者因此分得清哪一层是回忆。场景从杰克逊家的门口、客厅、二楼走廊，一路走到地下那间兼作健身房的房间，最后回到一楼客厅的零点倒数。
+**篇幅**：35,929 字符（UTF-8 码位计数，含空行）/ 217 个非空段落（`awk 'NF'` 计数）/ 510 句（`verify_corpus.py` 粗切句口径）。全篇是第三人称限知视角，镜头一直站在 Win 这一侧，只写她听得见、看得见的东西；时态在两层之间往返——今年的派对用一般过去时叙述，去年那一场则集中在把对白转述出来的地方退回过去完成时（`he’d said`、`She’d made to walk around him`、`She had liked it` 这一类形式），倒叙段里的动作叙述仍是一般过去时，读者因此分得清哪一层是回忆。场景从杰克逊家的门口、客厅、二楼走廊，一路走到地下那间兼作健身房的房间，最后回到一楼客厅的零点倒数。
 
 **一句话主旨**：一个二十五岁、不会对父母说不的人，去赴杰克逊家一年没敢踏进的新年前夜派对，本想整晚躲开旧友的哥哥，却在地下室的卧推凳旁边撞上了他；一年前她在这栋房子里吻了他、被他用一句「我在和别人交往」挡回来，如今才知道那只是他还没准备好说出口的实情，而他也一直在等她重新出现。
 
@@ -23,25 +23,25 @@ modified: "2026-10-16"
 | 三 · 回叙去年（一） | （去年 · Ben 的房间） | 去年主题是 `New Year, New You`；Ben 把她拉进房间追问她在躲什么，她吻了他，他却在腰带处停住 |
 | 四 · 回叙去年（二） | （去年 · 同一间房） | 他说出 `“I’m seeing someone,”`，她跑出去躲进 Bria 的房间；她当时认定这是他为顾全她而编的谎——直到今年才知道那句话并不假 |
 | 五 · 今年的地下室 | 地下室 · 卧推凳 | 她问他为什么撒谎；他说出实情——那时交往的是 Teddy，一个男人；两人各自承认这一年都在躲，也都还想要同一个答案 |
-| 六 · 回到派对 | Bria 的房间 · 客厅 | Bria 找到他们，说她乐见两人重新说话，拉他们上楼玩 Kings、拿水；Mrs. Jackson 下楼来叫大家准备倒数 |
-| 七 · 午夜 | 客厅 · 楼梯前 | 倒数的十秒里她两次开口 `Kiss me`；`Happy New Year!` 响起时两人在人堆中间接吻，没有人留意，随后又吻了一次 |
+| 六 · 回到派对 | Bria 的房间 · 客厅 | Bria 找到他们，说她乐见两人重新说话，拉他们上楼玩 Kings、拿水；Mrs. Jackson 上到房间来叫他们，几个人才一起下楼（`came to get them for the countdown to midnight`） |
+| 七 · 午夜 | 客厅 · 楼梯前 | 倒数开始前她两次开口 `Kiss me`；`Happy New Year!` 响起时两人在人堆中间接吻，没有人留意，随后又吻了一次 |
 
 ### 人物锚点
 
-- **Wendy “Win” Campbell** — 叙述者，二十五岁，独生女，在城里上班；真名是 Wendy Campbell，Bria 兄妹小时候先给她起 `Windy`，后来缩成 `Win`，再变成手机里的 `Winnie the Pooh`。
+- **Wendy “Win” Campbell** — 视角人物（全篇第三人称限知），二十五岁，独生女，在城里上班；真名是 Wendy Campbell，Bria 兄妹小时候先给她起 `Windy`，后来缩成 `Win`，再变成手机里的 `Winnie the Pooh`。
 - **Benjamin “Ben” Jackson** — Bria 的哥哥，比她们大一岁；穿黑衬衫配金领带；一年前在这栋房子里被她吻过之后喊停，如今替她拉上裙子的拉链、说 `I love you`。
 - **Bria Jackson** — 杰克逊家两个孩子里较小的那个，Win 的老朋友；开门时叫她 `Winnie the Pooh`，把 `The Macallan` 藏在自己房里，也是那个把他们拉回去玩 `Kings` 的人。
 - **Win 的父母** — 与杰克逊夫妇在生孩子之前就是要好的朋友；Win 五岁时他们为了孩子们能一起长大而搬家（`moved one neighborhood over`），这一年的推托都是对他们说的。
 - **Mrs. Jackson** — Bria 与 Ben 的母亲；见面就问她 `Has it really been a year since I last saw you?`，倒数时喊 `Ten… nine… eight…`。
 - **Mr. Jackson** — Bria 与 Ben 的父亲；把好酒留给大人（`That’s saved for the grown-ups.`），倒数时搂着妻子的腰站在楼梯下。
 - **Teddy** — Ben 在这段空白里交往过的人，名字是 Theodore 常见的小名；他在接吻约一个月后跟他坦白，两人随后分手。
-- **楼上的那群客人** — 在 Bria 房间里等着的朋友；三人推门进去时 `They literally cheered`，之后围着地板上的杯子坐下玩 `Kings`。
+- **楼上的那群客人** — 在 Bria 房间里等着的朋友；三人推门进去时 `They literally cheered`，之后围着地板坐下玩 `Kings`。
 
 ### 核心金句
 
 > "It was New Year’s Eve, and you were supposed to kiss the person you loved at midnight."
 
-（她整年都在替两边家庭、替 Bria、替每一种可能的后果先想一遍；到这一刻，规矩是现成的，她只需要照做。题目那句问话、一年不回消息、地下室里的对峙，都在这一句面前被搁下——`you were supposed to kiss the person you loved at midnight` 把「该不该」换成「本来就该」，于是后面那两声 `Kiss me` 不是新的决定，而是把欠了一年的事补上。）
+（她整年都在替两边家庭、替 Bria、替每一种可能的后果先想一遍；到这一刻，规矩是现成的，她只需要照做。题目那句问话、一年不回消息、地下室里的对峙，都在这一句面前被搁下——`you were supposed to kiss the person you loved at midnight` 把「该不该」换成「本来就该」，于是她开口说的那两声 `Kiss me` 不是新的决定，而是把欠了一年的事补上。）
 
 ## 精读
 
@@ -61,7 +61,7 @@ modified: "2026-10-16"
 
 **表达方式**：起手不写场景，只给一个年龄加一句自我判断。`didn’t know how to say no` 把「不会拒绝」写成能力上的欠缺，而不是态度上的软弱；`still` 让读者自己去补那层意思——按这个岁数，本来早该会了。
 
-**为什么这样写**：整篇的困局都从这一句长出来：被父母一路推到杰克逊家的门口，才不得不撞上前一年那场难堪。作者把这个软处放在首句，后面她躲进地下室、瞒着家里人、在倒数前犹豫，都能回到这里找到根。
+**为什么这样写**：整篇的困局都从这一句长出来：被父母一路推到杰克逊家的门口，才不得不撞上前一年那场难堪。作者把这个软处放在首句，后面她躲进地下室、瞒着家里人、一整年不回消息，都能回到这里找到根；到倒数前先问出口的是他——`“Are you sure?”`。
 
 ---
 
@@ -98,7 +98,7 @@ modified: "2026-10-16"
 - *it felt like* — 感觉像是
 - *so much more than that* — 远不止于此
 
-**表达方式**：三个短句的长度一截一截往下走，分量却往上加。`Just` 和 `so much more` 是同一件事的两端——纸上只有两个字，感觉上却是一整年的话；整段没有用一个形容词去修饰那个名字。
+**表达方式**：三句的长度并不是一截一截往下收——头两句短促收紧，第三句才展开（依次 19、14、43 个字符），分量逐句往上加。`Just` 和 `so much more` 是同一件事的两端——纸上只有两个字，感觉上却是一整年的话；整段没有用一个形容词去修饰那个名字。
 
 **为什么这样写**：隔了一年再见面，他开口只有一声称呼。作者不让她（也不让读者）立刻拿到解释，而是停在这三个短句上：停顿本身就是这一年里所有没说的话。她后面问出口的每一句质问，都是从这里积起来的。
 
@@ -108,7 +108,7 @@ modified: "2026-10-16"
 
 **中文理解**：一个你从前几乎每天都会说话、后来却整整一年不回消息的人，你要对他说什么？
 
-**句子结构**：一个以 What 起头的特殊疑问句。主语 you 因口语承接而省去，`you used to talk to almost every day for your whole life` 是省略了关系代词的定语从句修饰 someone，`but then ghosted for a year` 与前面的动词并列，共用同一个宾语 someone。
+**句子结构**：一个以 What 起头的特殊疑问句。主句主语 you 明写；`you used to talk to almost every day for your whole life` 是省略了关系代词的定语从句修饰 someone，`but then ghosted for a year` 与前面的动词并列，主语 you 在并列动词前承前省略，两者共用同一个宾语 someone。
 
 **关键词**：
 - *What did you say to* — 你要对……说什么
@@ -134,7 +134,7 @@ modified: "2026-10-16"
 - *he’d said* — 他说过（过去完成时）
 - *It wasn’t a question.* — 那不是疑问
 
-**表达方式**：引语短到只有四个词，后面用一句否定判断补上语气——他早就知道答案，所以问句不需要升调。`he’d said` 用过去完成时把她拉回去年那间房，`wasn’t` 同样是过去时，说明这不是此刻的对话，而是一年前的旧账。
+**表达方式**：引语按缩写算一个词是三个词（`You’re avoiding me`），全句五个词（`“You’re avoiding me,” he’d said.`），后面用一句否定判断补上语气——他早就知道答案，所以问句不需要升调。`he’d said` 用过去完成时把她拉回去年那间房，`wasn’t` 同样是过去时，说明这不是此刻的对话，而是一年前的旧账。
 
 **为什么这样写**：一年前是他把话挑明，一年后才是她自己开口。作者把这段对白放进倒叙，是因为她那三百多天的沉默要靠这一问才显出代价：他问的是她为什么躲，她给出的回答却是绕开他走出房间。
 
@@ -151,9 +151,9 @@ modified: "2026-10-16"
 - *someone* — 某个人（不点名）
 - *he’d said* — 他说过
 
-**表达方式**：全句只有六个词，交代的却是她这一年的起点。`someone` 故意不写名字，把那个人挡在句子之外；读者和她一样，在这一句里被关在门外。
+**表达方式**：全句按同样口径是五个词（`“I’m seeing someone,” he’d said.`），交代的却是她这一年的起点。`someone` 故意不写名字，把那个人挡在句子之外；读者和她一样，在这一句里被关在门外。
 
-**为什么这样写**：这一句是她跑出房间的理由，也是后面所有误会的引信——`someone` 要到今年的地下室才被说成 Teddy，而性别也不是她预设的那样。作者把整段冲突压进这六个词，再让他们回到同一个房间里拆开。
+**为什么这样写**：这一句是她跑出房间的理由，也是后面所有误会的引信——`someone` 要到今年的地下室才被说成 Teddy，而性别也不是她预设的那样。作者把整段冲突压进这五个词，再让他们回到同一个房间里拆开。
 
 ---
 
@@ -213,7 +213,7 @@ modified: "2026-10-16"
 
 **表达方式**：事前她就替两个人写好了结局——`almost felt inevitable` 说的是感觉，`always going to` 说的是注定。`back here in his parents’ house` 把地点点得很实，让这份「注定」落回同一间屋子，而不是漂在抽象的感觉里。
 
-**为什么这样写**：这是这一篇的折返点：一年前在这间屋里开了头、又在这里中断的事，回到同一个地点才有收尾。作者先用一句「几乎不可避免」把气氛推到高处，再让 Win 在这一段末尾把手抽回来——主动踩下刹车的是她，她接下来要的东西才算她自己的。
+**为什么这样写**：这是这一篇的折返点：一年前在这间屋里开了头、又在这里中断的事，回到同一个地点才有收尾。作者先用一句「几乎不可避免」把气氛推到高处，再让 Win 在这一段末尾收住（`but Win pulled back.`）——主动踩下刹车的是她，她接下来要的东西才算她自己的。
 
 ---
 
@@ -234,7 +234,7 @@ modified: "2026-10-16"
 
 **表达方式**：这一段把顾虑和当下分作两半：`later` 管的是家人和以后，`Right now` 管的是眼下的派对。`couldn’t imagine standing around watching everyone else kiss` 套上 `not kissing her`，用一层否定压一层否定，把「她要什么」说了出来；`right beside her` 里的 right 又把两人的距离压得很近。
 
-**为什么这样写**：题目那句问话在这里得到回答——她不再等一年，也不再替所有人先想一遍。作者让她把「以后」搁下，正是首句里那个不会对父母说不的 Win 在这一篇里的一次例外；也正是这一句之后，她才开口说出下一段的 `Kiss me`。
+**为什么这样写**：题目那句问话在这里得到回答——她不再等一年，也不再替所有人先想一遍。作者让她把「以后」搁下，正是首句里那个不会对父母说不的 Win 在这一篇里的一次例外；她开口说的第一声 `Kiss me` 落在这一句之前，第二声隔着一段才补上。
 
 ---
 
@@ -281,8 +281,8 @@ modified: "2026-10-16"
 | neck | 脖子 | Turning, she’d pressed herself into him, wrapped a hand around his neck, and tugged him down until his mouth met hers. |
 | wrist | 手腕 | She’d made to walk around him, but he’d grabbed her wrist, stilling her. |
 | closer | 更靠近 | Ben’s hand moved to her hair, holding the back of her neck and pulling her closer. |
-| guy | 男人；家伙 | “A guy. |
+| guy | 男人；家伙 | “A guy. I was seeing a guy.” |
 
 ## 一句话总结
 
-*Is It New Year’s Yet?* 是一场隔了一年的重逢：Win 二十五岁，不会对父母说不，于是被带到杰克逊家的新年前夜派对上，本想整晚躲开旧友的哥哥 Ben，却在那间兼作健身房的地下室里同他撞个正着。一年前也是在这栋房子里，她吻了他，他用 `I’m seeing someone` 把她挡回去；她因此躲了杰克逊一家一整年，直到今年才知道那个人是 Teddy，而他当时说不出实情，是因为她对他来说 `You were becoming more than that to me.` 他们坐在卧推凳旁边把话说开，又在楼上被 Bria 拉回去玩 `Kings`；零点前的十秒里她两次说 `Kiss me`，`Happy New Year!` 响起时两人在人堆中间接吻，没有人留意——题目那句问话，到这一刻才有答案。
+*Is It New Year’s Yet?* 是一场隔了一年的重逢：Win 二十五岁，不会对父母说不，于是被带到杰克逊家的新年前夜派对上，本想整晚躲开旧友的哥哥 Ben，却在那间兼作健身房的地下室里同他撞个正着。一年前也是在这栋房子里，她吻了他，他用 `I’m seeing someone` 把她挡回去；她因此躲了杰克逊一家一整年，直到今年才知道那个人是 Teddy，而他当时说不出实情，是因为她对他来说 `You were becoming more than that to me.` 他们坐在卧推凳旁边把话说开，又在楼上被 Bria 拉回去玩 `Kings`；倒数开始前她两次说 `Kiss me`，`Happy New Year!` 响起时两人在人堆中间接吻，没有人留意——题目那句问话，到这一刻才有答案。

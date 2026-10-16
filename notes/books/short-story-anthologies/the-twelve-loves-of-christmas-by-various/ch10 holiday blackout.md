@@ -10,9 +10,9 @@ modified: "2026-10-17"
 
 **出处**：《The Twelve Loves of Christmas: An Advent Romance Collection》，12 篇独立圣诞爱情短篇合集，本篇为**第 10 篇**。两处互证：本篇篇名页的 byline 作 `Susan Lee`（`text/ch10_holiday_blackout.txt` 第 13 行，其上第 10 行的篇名页标题作 `HOLIDAY BLACKOUT`），版权续页 `xx_copyright_continuation` 第 36 行的篇目出处列表作 `“Holiday Blackout” copyright © 2026 by Alloy Entertainment, LLC and Susan Lee`——两处都直接写出作者名，互相印证，无著录差异。
 
-**篇幅**：40,126 字符（UTF-8 码位计数，含空行）/ 217 个非空段落（`awk 'NF'` 计数）/ 617 句（`verify_corpus.py` 粗切句口径）。全篇第三人称过去时、双视角交替：Yoona 与 Ian 各自担任叙述视角，切换点落在章节之间，也落在章内段落之间（CHAPTER TWO 与 CHAPTER FOUR 的后半段转入 Ian 的视角）。场景基本都在同一栋办公楼里——两人各自的办公室、十六楼的走廊、员工厨房，以及 Yoona 办公室里那张沙发；时间从平安夜傍晚 8:22 p.m. 一直走到停电结束、灯重新亮起。
+**篇幅**：40,126 字符（UTF-8 码位计数，含空行）/ 217 个非空段落（`awk 'NF'` 计数）/ 617 句（`verify_corpus.py` 粗切句口径）。全篇第三人称过去时、双视角交替：Yoona 与 Ian 各自担任叙述视角，切换点落在章节之间，也落在章内段落之间（六个小章节每一章都在章内由 Yoona 转入 Ian 的视角）。场景基本都在同一栋办公楼里——两人各自的办公室、十六楼的走廊、员工厨房，以及 Yoona 办公室里那张沙发；时间从平安夜傍晚 8:22 p.m. 一直走到停电结束、灯重新亮起。
 
-**一句话主旨**：两个都把加班当作避难所的同事，在平安夜被一场停电关在十六楼；为了不让他独自待在黑暗里、也为了不让她彻底错过家里的圣诞晚餐，两个人用办公室里现成的东西凑出一顿饭、再各送对方一件随身的小物，把两年前那夜之后一直没说出口的话补上——灯亮时她开口要更多，他答 `I am`。
+**一句话主旨**：两个都把加班当作避难所的同事，在平安夜被一场停电关在十六楼；为了不让她彻底错过家里的圣诞晚餐，她按自家的圣诞夜传统（`But it was Christmas Eve, after all.`）用办公室里现成的东西摆出一桌临时晚餐（`the makeshift feast she’d put together`），两个人再各自从自己办公室取一样随身的小物当礼物，把两年前那夜之后一直没说出口的话补上——灯亮时她开口要更多，他答 `I am`。
 
 ### 结构
 
@@ -20,7 +20,7 @@ modified: "2026-10-17"
 
 | 时段 | 场景 | 内容 |
 |------|------|------|
-| 一 · 平安夜傍晚 | 曼哈顿 · 各自的办公室 | Yoona 在电话里被母亲堵住：`“Tell me you’re not still at work.”`；她望向窗外才发现雪已经封了街，整条街没有人也没有车；接着看见 Ian 的办公室还亮着灯，`He was still here. And that settled it.`，并想起三年前入职那天以及 `that one time` |
+| 一 · 平安夜傍晚 | 纽约 · 各自的办公室 | Yoona 在电话里被母亲堵住：`“Tell me you’re not still at work.”`；她望向窗外才发现雪已经封了街，整条街没有人也没有车；接着看见 Ian 的办公室还亮着灯，`He was still here. And that settled it.`，并想起三年前入职那天以及 `that one time` |
 | 二 · 入夜 | Ian 的办公室 | 转入 Ian 的视角：他刚升管理岗，家人全在 `on the other side of the world`，假期正好用来赶在休假的同事前面；九点过后电力中断，Yoona 摸黑去找他 |
 | 三 · 停电后 | 走廊 · 电梯口 · 员工厨房 | Ian 承认 `I just don’t do well in the dark.`；电梯不亮、`Emergency Exit` 的门锁没有自动打开、手机也没有信号，十六楼出不去；他抱住她安抚，随后两人去厨房拿了水、果汁盒、饼干和一个苹果 |
 | 四 · 停电中 | Yoona 的办公室 | 她把苹果切成片、Goldfish 倒在咖啡桌上、饼干堆成金字塔，凑出一桌圣诞晚餐；两人讲各自的传统——她家的 `midnight toast`，他小时候父亲把家里的钟拨快好让午夜早点到 |
@@ -32,7 +32,7 @@ modified: "2026-10-17"
 - **Yoona Cho** — 双视角之一；Wire One Technology 的员工，这是她 `Yoona’s first job out of grad school`；家人住在新泽西，她圣诞夜还在赶 `year-end reports`。工作习惯是 `usually the first to come into the office and the last to leave`，感恩节已经用掉了一次「回不了家」的假条。
 - **Ian Young** — 另一视角；与 Yoona 同期入职、如今同升管理岗，从韩国搬到纽约，家人全在 `on the other side of the world`。怕黑：`I just don’t do well in the dark.`，家里插着夜灯、备着 `battery-operated candles`，有说不清来历的夜惊。
 - **Yoona 的母亲** — 电话那头，开场即 `“Tell me you’re not still at work.”`，提醒她 `there is an extreme weather warning`，也是她整晚放心不下的原因。
-- **Yoona 的父亲** — 母亲想让他开车来接，被 Yoona 拦下：`don’t send Dad to pick me up. I’ll grab a taxi.`
+- **Yoona 的父亲** — 只在她的电话里被提到一次：她主动拦下家里的安排——`don’t send Dad to pick me up. I’ll grab a taxi.`——因为雪已经下到新泽西，她不想让父母在结冰的路上开车。
 - **Wire One Technology** — 两人任职的公司，厨房常备饮料和零食，楼里还有过 `the sprinklers randomly spewed water on the finance team` 这样的旧事。
 - **那件镇纸** — 停电时从 Ian 桌上掉下来的东西（`I knocked the paperweight off my desk`）；它落地的声音把 Yoona 引到他办公室，最后成了他送她的圣诞礼物。
 
@@ -40,7 +40,7 @@ modified: "2026-10-17"
 
 > "But I’m gonna be honest with you, Ian. This time, I want more. I want to give us a try. So I need to know, are you willing to do that now?"
 
-（两年前她什么都没要，于是被无声地推开；这一夜她把条件先摆上桌。三句 `I want` 一句比一句具体——要更多、要一个机会、要一个回答——末句的 `now` 又把时限钉死。这一篇的收束不在停电，而在她终于开口要。）
+（两年前她什么都没要，于是被无声地推开；这一夜她把条件先摆上桌。两处 `I want` 加一处 `So I need to know`，一句比一句具体——要更多、要一个机会、要一个回答——末句的 `now` 又把时限钉死。整篇最后落定的，正是她开口要、他答 `I am` 这一问一答。）
 
 ## 精读
 
@@ -48,7 +48,7 @@ modified: "2026-10-17"
 
 **中文理解**：母亲在电话那头说：「别告诉我你还在上班。」
 
-**句子结构**：整句是一个祈使句 `Tell me`，后面跟着省略了 that 的宾语从句 `you’re not still at work`；从句用现在进行时描述她此刻的状态，`still` 是句子的重心。字面上没有问号，语法上也不是疑问句——它靠命令加否定的口气把疑问说出来。转述分句要到下一段才出现（`Yoona could hear the concern and exasperation in her mom’s voice.`），所以这一行只有一句台词，说话人全靠上下文补齐。
+**句子结构**：整句是一个祈使句 `Tell me`，后面跟着省略了 that 的宾语从句 `you’re not still at work`；从句用现在进行时描述她此刻的状态，`still` 是句子的重心。字面上没有问号，语法上也不是疑问句——它靠命令加否定的口气把疑问说出来。转述分句隔了两段才出现——中间夹着她的回答（`Are you asking me to lie to you, Mom?`）；到 `Yoona could hear the concern and exasperation in her mom’s voice.` 才补上转述，所以这一行只有一句台词，说话人全靠上下文补齐。
 
 **关键词**：
 - *Tell me* — 告诉我
@@ -92,9 +92,9 @@ modified: "2026-10-17"
 - *still here* — 还在这儿
 - *settled it* — 把这件事定下了
 
-**表达方式**：前半句是事实，后半句是结论，各占五个词左右，不加解释也不加心理解说。`that` 是代词，指的并不是他这个人，而是「他还在」这个观察本身——句子把权衡的过程整个压掉，只留下决定落地的那一下。
+**表达方式**：前半句是事实，后半句是结论，各四个词，不加解释也不加心理解说。`that` 是代词，指的并不是他这个人，而是「他还在」这个观察本身——句子把权衡的过程整个压掉，只留下决定落地的那一下。
 
-**为什么这样写**：这是这一篇的转折处，作者却只用了两个短句，连「为什么」都不给。前一秒她还在考虑要不要走，看见他办公室的灯，考虑就结束了：`If Ian Young was staying, so was Yoona.` 这句话在原文里隔了两个空段才出现——中间那段空白就是她没写出来的犹豫。
+**为什么这样写**：这一处是她拿定主意的位置，作者却只用了两个短句，连「为什么」都不给。前一秒她还在考虑要不要走，看见他办公室的灯，考虑就结束了：`If Ian Young was staying, so was Yoona.` 这句在原文里紧接着上一段出现——`He was still here. And that settled it.` 之后就是它，中间没有别的叙述，犹豫没有被写出来。
 
 ---
 
@@ -128,7 +128,7 @@ modified: "2026-10-17"
 - *giving direction* — 发号施令；给方向
 - *more certain* — 更笃定
 
-**表达方式**：两个句子一长一短，前一句给动作，后一句给声音。第二句省掉 be 动词，只把形容词并列，等于把读者的注意力直接放在「他变了」这一点上，不浪费词写状态。同一个人上一段还在说 `I just don’t do well in the dark.`，这一段就开始安排水和零食——反差靠并置，不靠评论。
+**表达方式**：两个句子一长一短，前一句给动作，后一句给声音。第二句省掉 be 动词，只把形容词并列，等于把读者的注意力直接放在「他变了」这一点上，不浪费词写状态。同一个人早些时候还在说 `I just don’t do well in the dark.`（CHAPTER TWO 末尾），到 CHAPTER THREE——隔了六十来个自然段——他才开始安排水和零食，反差靠并置，不靠评论。
 
 **为什么这样写**：作者让 Yoona 在同一个男人身上接连看到两样东西：怕黑的他，和能在停电里把一切安排好的他。她要的不是其中一样，而是两样同时成立——这一段就是这句话的出处。它也为后面的礼物铺路：Ian 最后交出去的，正是把「怕」和「办事」放在一起的那件东西。
 
@@ -173,13 +173,13 @@ modified: "2026-10-17"
 
 **中文理解**：「这简直是圣诞奇迹，」Yoona 怅然地说。
 
-**句子结构**：引语是主系表，`a Christmas miracle` 作表语，冠词 a 让「奇迹」变成其中一个；转述部分是 `Yoona said` 加副词 `wistfully`。全句只有九个词，转述里那个副词替整句带上了情绪。
+**句子结构**：引语是主系表，`a Christmas miracle` 作表语，冠词 a 让「奇迹」变成其中一个；转述部分是 `Yoona said` 加副词 `wistfully`。全句只有七词（引语部分四词，转述部分 `Yoona said wistfully` 三词），转述里那个副词替整句带上了情绪。
 
 **关键词**：
 - *a Christmas miracle* — 一个圣诞奇迹
 - *said wistfully* — 怅然地说
 
-**表达方式**：她说话的对象是窗外恢复供电的城市，不是 Ian——所以没有回话，也没人接梗。`wistfully` 把一句本该轻松的感慨压成怅然：灯亮下来，意味着这一夜要结束了。作者只用一个副词完成这个转向，不作解释。
+**表达方式**：这句话没有人用语言接——Ian 只是伸手握住了她的手（`He reached for her hand, interlocked his fingers with hers, and squeezed.`）。`wistfully` 把一句本该轻松的感慨压成怅然：灯亮下来，意味着这一夜要结束了。作者只用一个副词完成这个转向，不作解释。
 
 **为什么这样写**：灯亮是这一篇的转折。前一秒两个人还在黑暗里，停电既是麻烦也是保护；作者让恢复供电后的第一反应不是欢呼，而是一句带着不舍的感慨，读者因此知道她要的不只是电。原文在这里还写下了楼下的热闹（`the sound of people cheering even reached up to them on the sixteenth floor`）——欢呼在楼下，怅然在楼上。
 
@@ -189,7 +189,7 @@ modified: "2026-10-17"
 
 **中文理解**：「跟你在一起，点燃了我心里某种东西，而那把我吓坏了。我没法允许自己再去感受它。我得专注工作，别的不行。也许这对我们两个都不公平。可是，很抱歉我从没跟你谈过这件事。很抱歉我把你推开了。妈的……如果我伤到了你，我真的、真的很抱歉。」
 
-**句子结构**：这段引语由七个句子组成，前面四句是解释，中间两句是道歉，最后一句把道歉加重。第一句用一个 that 从句限定被吓到的是什么；第二句 `I couldn’t allow myself to feel it again` 用情态动词的否定把「不能」说成「不允许」；第四句把逗号插在介词短语之前，让 `to either of us` 独立成一顿；末句用重复的 so 加强，if 从句把责任留在假设里。整段没有一处被动语态，主语始终是他自己。
+**句子结构**：这段引语有七到八句（按本篇导航行的粗切句口径，`Shit…` 单独成句则算八句；把它当插入语、与末句连读则算七句），前面四句是解释，中间两句是道歉，最后一句把道歉加重。第一句用一个 that 从句限定被吓到的是什么；第二句 `I couldn’t allow myself to feel it again` 用情态动词的否定把「不能」说成「不允许」；第四句把逗号插在介词短语之前，让 `to either of us` 独立成一顿；末句用重复的 so 加强，if 从句把责任留在假设里。整段没有一处被动语态，主语始终是他自己。
 
 **关键词**：
 - *ignited something inside me* — 点燃了我心里的某种东西
@@ -217,7 +217,7 @@ modified: "2026-10-17"
 - *give us a try* — 给我们一个机会
 - *willing to do that* — 愿意那样做
 
-**表达方式**：她把「喜欢」换成了「要」（want），而且连用三次，分别是要更多、要一个机会、要一个回答。`So` 把整段话收成一条逻辑链：因为想要，所以必须问明白。末尾的 `now` 给这件事定了时限，不留含糊。
+**表达方式**：她把「喜欢」换成了「要」：两处 `I want`（`I want more`、`I want to give us a try`）加一处 `So I need to know`，分别是要更多、要一个机会、要一个回答。`So` 把整段话收成一条逻辑链：因为想要，所以必须问明白。末尾的 `now` 给这件事定了时限，不留含糊。
 
 **为什么这样写**：两年前她什么都没要，结果被无声地推开；这一次她先把条件摆在桌上，作者让她的成长落在语法上——从 `I liked you and hoped you liked me too` 变成 `I want more`。这也是这一篇的收束方式：停电只是把两个人关在一起，真正让关系往前走的是她开口要。他回一句 `I am`，一字不多。
 
