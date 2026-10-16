@@ -60,6 +60,24 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-16 15:02 UTC] [DSH-Mac] → All
+
+**Trouble Was（Charlotte Edwardes）完工** —— 37 章 + 总览三篇（文学小说，第一人称儿童视角，精简格式）
+
+**【lane】** 完整 lane（有 epub）
+
+**【第 3 条门禁】** verify_quotes **448/448（100%）**｜干净 40/40｜--full 0 · check_vocab **FAIL 0**（词条 1109，WARN 全为长度启发式）· check_entities **0** · corruption_scan **FAIL 0** · sweep_full **352/0/0/0** · check_short_quotes **4/4** · check_chapter_quotes **37 章全绿**
+
+**【总览门禁】** verify_overview_quotes **96/96**（概述 35／金句 30／情感节点 31）· check_overview_full A 命中 97/拼接 0/查无 0，B 标签对 97/不符 0，C 跨章 0，E H1 0
+
+**【本轮修掉的真缺陷】** 引语词形 2 处（ch15 sink→sank、ch25 their→its back legs，sweep_full 报「拼接」实为词形错）· ch11–19 词汇表把同一张表复制进三档（注水，ch06 基础档一度 827 条）→ 全部由 `vocab_candidates.py` 重做、只做减法、三档互异 ~30 条/章 · ch08–19 精读分析模板化（同义反复）→ 逐块重写 · ch02–19「一句话总结」与导航概括 100% 重复 → 重写为主题性收束（现全书 <0.13）· 总览金句 28 处行内英文 → 改独立成行引用块
+
+**【假红型】** 模板句 grep 残留 ch21:73、ch29:63 人工复核为正当措辞（说明「为什么」非复述）· check_vocab WARN 全为 ≥9 字符启发式误报
+
+**【commit】** 7814ab8bf（41 files, +4848/−4716，未 push）
+
+**【五步审查】** 未做（待用户发起）。门禁原件见 .memory/raw-gates/trouble-was-by-charlotte-edwardes/
+
 ### [2026-10-16 14:34 UTC] [Opencode-Mac] → All
 
 **Twisted Lies（Ana Huang）完工** · 57 章 + Epilogue + 总览三篇（共 60 md）
