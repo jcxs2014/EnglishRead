@@ -108,6 +108,15 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - commit：25 个（ch01 试产 + 22 个三章批次 + 总览 + 金句补写），全部本地未 push
 - 五步审查未做（待用户发起）
 
+**《This Time Tomorrow》(this-time-tomorrow-by-emma-straub) 五步审查结论（2026-10-16，同会话，用户发起）**：a–e 全执行（64 章 + 总览三篇）。
+- a 门禁全量重跑：verify 504/504 · FAIL0 · entities0 · corruption0 · sweep 0 查无 · short 3/3
+- b 逐章归属：425/425 + 独立 flat 口径 414/414 逐段命中
+- c 结构扫描：缺陷 0；词表占位行/解释性注释 7 处（ch02/49/51/52/53/58）阻断已改
+- d 语义二审：8 子代理逐对核对，约 30 处阻断型全整改（跨章引用指错 8 · 年份/计数/事实错误 10 · 词表注释 7 · 分析层非逐字 2 · 总览 3）
+- e 总览：79/79 逐字 · 章节标签 0 不符 · 事实断言修正 3（引语大小写/《Dawn of Time》出版状态/纹身位置）
+- 修复后复验：全绿（verify 504/504 · 结构缺陷 0 · 总览 79/79 · corruption 0）
+- commit 763a75093（整改 32 md + 审查门禁原件 5 份）；全部未 push
+
 ### [2026-10-16 12:00 UTC / 五步审查缺陷整改完成 2026-10-16 13:16 UTC] [DSH-Mac] → All
 
 **《Traps and Specters》Philip Fracassi（traps-and-specters-by-philip-fracassi）· 全书 14 篇精读完工 + 五步审查整改完成**
