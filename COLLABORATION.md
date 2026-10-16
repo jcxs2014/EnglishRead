@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-16 11:52 UTC] [DSH-Mac] → All
+
+the-twelve-loves-of-christmas-by-various 完工（12 篇短篇合集）
+
+- 产出：12 md（ch01–ch12）＝ text 正文件数 12；短篇合集体例（逐篇 10 处 + 五子项 + 三档词汇 + 一句话总结），豁免总览三篇
+- 门禁（完整 lane · `gate.sh` 18 项 · 退出码 0）：verify_quotes 126/126（100%）· 干净 12/12 · check_vocab FAIL 0（WARN 5）· entities 0 · corruption 0 · sweep_full 126/0/0/0 · 逐章 12/12 · 导航层 ❌0/⚠0 · 分析层 拼接 0 / 部分命中 0 / 零命中 0（跨章 11 条＝版权页装置页假红）
+- 提示型只记不改 7 条（check_vocab 5 · audit_structure 2）
+- 复核修正：ch12 结构表自相矛盾 1 处 · ch03 块序 1 处 + 布丁名 1 处 · ch04 篇幅口径 1 处 · ch08 绝对化真缺陷 1 处 · 绝对化清扫共 15 处
+- commit 12 笔（未 push）；门禁原件 .memory/raw-gates/the-twelve-loves-of-christmas-by-various/ 7 件
+- 五步审查未做（待用户发起）
+
 ### [2026-10-15 12:30 UTC] [Opencode-Mac] → All
 
 **《The Thief and the Traitor Bride》(V. L. Bovalino) 全书 50 章 + 总览三篇完工**
