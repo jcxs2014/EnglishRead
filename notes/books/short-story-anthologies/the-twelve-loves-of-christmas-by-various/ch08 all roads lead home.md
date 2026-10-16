@@ -252,7 +252,6 @@ modified: "2026-10-17"
 | spiced | 加了香料的 | I ring the bell and when the door opens, I’m immediately greeted by a symphony of delicious smells: honey-baked ham, spiced cider, and gingerbread. |
 | distracted | 走神的；心不在焉的 | A man comes out of the back area, distracted and wiping his hands with a towel. |
 | noticeable | 显眼的；明显的 | If I weren’t still cold from the winter air outside, my cheeks flushing would be a lot more noticeable. |
-| speckled | 有斑点的；带碎花纹的 | “For here,” I say, and he grabs a speckled red-and-white mug from the shelf. |
 
 ### ⭐ 基础
 
