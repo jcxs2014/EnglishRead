@@ -16,7 +16,7 @@ pov: "Stella"
 
 ## 精读
 
-> **原句 1:** It's been three days since I learned Greenfield is raising its prices, and I still haven't come up with a good solution. … I've been searching for another job, but my biggest hope right now is the Delamonte dinner coming up. Brady is convinced it's an audition for their brand ambassador position and the deal will be in the mid-six figures…IF I get it.
+> **原句 1:** It's been three days since I learned Greenfield is raising its prices, and I still haven't come up with a good solution. … I've been searching for another job, but my biggest hope right now is the Delamonte dinner coming up. Brady is convinced it's an audition for their brand ambassador position and that the deal will be in the mid-six figures…IF I get it.
 
 **中文理解**：日记体开场，Stella 直接面对 Greenfield 涨价危机。她把全部希望寄托在 Delamonte 品牌大使面试上——"mid-six figures" 的精确数字暗示这笔钱足以覆盖 Maura 的护理费。
 

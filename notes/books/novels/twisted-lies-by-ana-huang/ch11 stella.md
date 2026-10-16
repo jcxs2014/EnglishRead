@@ -52,7 +52,7 @@ pov: "Stella"
 
 ---
 
-> **原句 4:** "Stella. Look at me." … I didn't want to. I wanted to stay in my well of denial forever. … If I can't see the monster, it doesn't exist. … But the voice didn't sound like it belonged to a monster. It sounded deep and velvety and too authoritative for me not to obey.
+> **原句 4:** "Stella, look at me." … I didn't want to. I wanted to stay in my well of denial forever. … If I can't see the monster, it doesn't exist. … But the voice didn't sound like it belonged to a monster. It sounded deep and velvety and too authoritative for me not to obey.
 
 **中文理解**：Christian 的声音让 Stella 从恐惧中回到现实——"deep and velvety and too authoritative" 的声音让她无法抗拒。"If I can't see the monster, it doesn't exist." 的童谣式逻辑是 Stella 最后的自我保护机制。
 

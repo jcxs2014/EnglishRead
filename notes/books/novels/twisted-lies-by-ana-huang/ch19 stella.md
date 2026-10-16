@@ -64,7 +64,7 @@ pov: "Stella"
 
 ---
 
-> **原句 5:** "Brock will not be accompanying you. I will." … His words contained so much frost I could've used them to carve an ice sculpture. … "Bad day at work?" I asked, softer this time. … I expected Christian to brush off my concern. To my surprise, he answered frankly. "Difficult client."
+> **原句 5:** "Brock will not be accompanying you. I will." … His words contained so much frost I could've used them to carve an ice sculpture. … "Bad day at work?" I repeated, softer this time. … I expected Christian to brush off my concern. To my surprise, he answered frankly. "Difficult client."
 
 **中文理解**：Christian 坚持要陪 Stella 去纽约——"他的话包含了足够的寒冷，我可以用它来雕刻冰雕"。Stella 问他是否工作上遇到了困难，Christian 出乎她意料地坦率回答——"难缠的客户"。
 

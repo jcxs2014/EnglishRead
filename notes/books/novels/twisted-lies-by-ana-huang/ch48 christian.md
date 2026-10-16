@@ -28,13 +28,13 @@ pov: "Christian"
 
 ---
 
-> **原句 2:** Five minutes of splutters and tedious protests later, the cafe manager pulled up said footage in his cramped back office. … My heart thrummed as I watched the grainy scenes play out onscreen. … Stella and Brady entered. They placed an order at the counter and sat at separate tables before her family arrived.
+> **原句 2:** Five minutes of splutters and tedious protests later, the cafe manager pulled up said footage in his cramped back office. … My heart thrummed as I watched the grainy scenes play out onscreen. … Stella and Brock entered. They placed an order at the counter and sat at separate tables before her family arrived.
 
 **中文理解**：Christian 说"五分钟的 splutters 和 tedious protests 后，咖啡馆经理在他狭窄的 back office 里调出了录像"。"My heart thrummed as I watched the grainy scenes play out onscreen" 的 "thrummed" 是精确的——Christian 的心在跳动。"grainy scenes" 的 "grainy" 是精确的——Christian 认为场景是颗粒状的。
 
 **关键词**：background / Motherfucker / connection / incapacitated / instructions
 
-**为什么这样写**：这段描写是 Christian 的"紧张时刻"——他查看监控录像。"Five minutes of splutters and tedious protests later, the cafe manager pulled up said footage in his cramped back office" 的 "tedious" 是精确的——Christian 认为抗议是乏味的。"My heart thrummed as I watched the grainy scenes play out onscreen" 的 "thrummed" 是精确的——Christian 的心在跳动。"Stella and Brady entered. They placed an order at the counter and sat at separate tables before her family arrived" 的 "separate tables" 是精确的——Stella 和 Brady 坐在不同的桌子上。
+**为什么这样写**：这段描写是 Christian 的"紧张时刻"——他查看监控录像。"Five minutes of splutters and tedious protests later, the cafe manager pulled up said footage in his cramped back office" 的 "tedious" 是精确的——Christian 认为抗议是乏味的。"My heart thrummed as I watched the grainy scenes play out onscreen" 的 "thrummed" 是精确的——Christian 的心在跳动。"Stella and Brock entered. They placed an order at the counter and sat at separate tables before her family arrived" 的 "separate tables" 是精确的——Stella 和 Brock 坐在不同的桌子上。
 
 **读者视角提示**：Christian 在此处的 "thrummed" 是角色深度的来源——他不是一个会轻易认为心在跳动的人，但查看监控让他认为心在跳动了。"grainy" 的精确措辞说明 Christian 对监控录像有精确的认知——他认为场景是颗粒状的。
 

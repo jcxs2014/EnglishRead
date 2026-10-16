@@ -64,7 +64,7 @@ pov: "Stella/Christian"
 
 ---
 
-> **原句 5:** "I didn't want to tell you in front of the others, but I also couldn't wait anymore." Stella's voice lowered. "Christian, I'm pregnant." … The words echoed in my head, too gilded with shock to sink in fully. … [Christian] 内心："We were going to be parents. I was going to be a father, and I was going to see Stella swell with our child." … A fierce protectiveness gripped my chest. … Once upon a time, I hadn't believed in love. … Now, I realize that love was the last piece that'd been missing in the puzzle of my life. … With it, I was finally whole.
+> **原句 5:** "I didn't want to tell you in front of the others, but I also couldn't wait anymore." Stella's voice lowered. "Christian, I'm pregnant." … The words echoed in my head, too gilded with shock to sink in fully. … A fierce protectiveness gripped my chest. … Once upon a time, I hadn't believed in love. … Now, I realize that love was the last piece that'd been missing in the puzzle of my life. … With it, I was finally whole.
 
 **中文理解**：Stella 说"我不想在其他人面前告诉你，但我也不能再等了"。"Christian, I'm pregnant" 的 "pregnant" 是精确的——Stella 怀孕了。"A fierce protectiveness gripped my chest" 的 "fierce protectiveness" 是精确的——Christian 认为他的保护欲是凶猛的。"love was the last piece that'd been missing in the puzzle of my life" 的 "last piece" 是精确的——Christian 认为爱是他人生拼图中缺失的最后一块。
 
