@@ -82,56 +82,41 @@ pov: "Christian"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| interested | 感兴趣的；有兴趣的 | "Not interested. |
-| depressing | 令人沮丧的；压抑的 | I could've saved myself the trouble and drank at home, but the apartment was too depressing these days. |
-| unrelenting | 无情的；不间断的 | Two weeks of unrelenting hell where everything reminded me of her. |
 | hallucinating | 幻觉；产生幻觉 | For a second, I thought I was hallucinating and had conjured her from my thoughts. |
 | straightened | 挺直；整理 | I straightened, my spirits lifting until I saw the guy standing next to her. |
 | possessiveness | 占有欲；自私 | My hand tightened around my glass as an icy black wave of possessiveness rippled through me. |
-| soon-to-be | 即将成为的；未来的 | She said something else to the soon-to-be dead fucker, but she must've felt the weight of my stare because she finally looked up. |
-| coincidence | 巧合；巧事 | Us showing up at the same bar on the same night would've been a coincidence, but nothing was a coincidence when it came to her. |
 | Restlessness | 不安；焦躁 | Restlessness and the urge to rip out the throat of the man she was talking to churned beneath my skin. |
-| silhouetted | 剪影；轮廓 | Stella stood at the end of the hall, her tall, slim frame silhouetted against the bar lights. |
-| experienced | 经历；体验 | Just when I thought I'd experienced all the ways a heart could break, she proved me wrong. |
 | disappointment | 失望；沮丧 | I sagged with equal parts relief and disappointment after Christian left. |
-| interaction | 互动；交流 | The truth was, I'd wanted that passing interaction with him, and I hated myself for it. |
-| Ironically | 讽刺地；具有讽刺意味的是 | Ironically, the rest of my life was on an upswing after our breakup. |
-| Washington | 华盛顿 | The Delamonte print campaign and Washington Weekly profile had opened a new flood of opportunities, as expected. |
 | opportunities | 机会；时机 | The Delamonte print campaign and Washington Weekly profile had opened a new flood of opportunities, as expected. |
-| partnership | 合作关系；合伙 | Luisa was ecstatic about how the partnership was going. |
 | reappearance | 重新出现；再现 | Maura hadn't had any issues since her sedation, the stalker hadn't made a reappearance, and my blog and social media were thriving. |
-| engagement | 参与；互动 | That hadn't hurt my engagement as much as I'd thought, though I didn't care much either way. |
-| collection | 收藏；系列 | I'd also started reaching out to local boutiques about my collection. |
-| celebrating | 庆祝；庆贺 | In fact, I was here celebrating with Brady because one of them finally agreed to carry a few test pieces. |
-| possibility | 可能性；可能 | Of all the things I'd expected her to say, that hadn't even been in the realm of possibility. |
 | conversation | 对话；交谈 | My last conversation with my sister still left a bitter taste in my mouth. |
-| Translation | 翻译；解释 | Translation: I always apologized first. |
-| apologized | 道歉；认错 | Translation: I always apologized first. |
-| especially | 特别地；尤其地 | I didn't want to hold onto grudges, especially not against my family. |
 | accidentally | 意外地；偶然地 | How I accidentally used the wrong milk for my smoothie that morning and nearly gagged at the taste. |
-| journaling | 写日记；日志 | I was so used to sharing the details of my life with Christian that even journaling didn't fill the void. |
 | relationship | 关系；关联 | Our relationship had always been a dichotomy. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| ordering | 命令；订购 | "And I'm ordering an eighth. |
-| blackout | 昏迷；断片 | I could be blackout drunk and no one would be the wiser. |
-| direction | 方向；指导 | I tossed back the glass he slid in my direction and drained it in a minute flat. |
-| supposed | 应该的；预期的 | What was the point of alcohol if it didn't numb the way it was supposed to? |
-| Angelina | 安吉丽娜（人名） | Lips that would make Angelina Jolie cry with envy. |
-| apartment | 公寓；房间 | I could've saved myself the trouble and drank at home, but the apartment was too depressing these days. |
+| interested | 感兴趣的；有兴趣的 | "Not interested. |
+| unrelenting | 无情的；不间断的 | Two weeks of unrelenting hell where everything reminded me of her. |
+| coincidence | 巧合；巧事 | Us showing up at the same bar on the same night would've been a coincidence, but nothing was a coincidence when it came to her. |
+| silhouetted | 剪影；轮廓 | Stella stood at the end of the hall, her tall, slim frame silhouetted against the bar lights. |
+| experienced | 经历；体验 | Just when I thought I'd experienced all the ways a heart could break, she proved me wrong. |
+| interaction | 互动；交流 | The truth was, I'd wanted that passing interaction with him, and I hated myself for it. |
+| partnership | 合作关系；合伙 | Luisa was ecstatic about how the partnership was going. |
+| celebrating | 庆祝；庆贺 | In fact, I was here celebrating with Brady because one of them finally agreed to carry a few test pieces. |
+| possibility | 可能性；可能 | Of all the things I'd expected her to say, that hadn't even been in the realm of possibility. |
+| Translation | 翻译；解释 | Translation: I always apologized first. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| interested | 感兴趣的；有兴趣的 | "Not interested. |
 | depressing | 令人沮丧的；压抑的 | I could've saved myself the trouble and drank at home, but the apartment was too depressing these days. |
-| unrelenting | 无情的；不间断的 | Two weeks of unrelenting hell where everything reminded me of her. |
-| hallucinating | 幻觉；产生幻觉 | For a second, I thought I was hallucinating and had conjured her from my thoughts. |
-| straightened | 挺直；整理 | I straightened, my spirits lifting until I saw the guy standing next to her. |
+| soon-to-be | 即将成为的；未来的 | She said something else to the soon-to-be dead fucker, but she must've felt the weight of my stare because she finally looked up. |
+| Ironically | 讽刺地；具有讽刺意味的是 | Ironically, the rest of my life was on an upswing after our breakup. |
+| Washington | 华盛顿 | The Delamonte print campaign and Washington Weekly profile had opened a new flood of opportunities, as expected. |
+| engagement | 参与；互动 | That hadn't hurt my engagement as much as I'd thought, though I didn't care much either way. |
 
 ## 一句话总结
 

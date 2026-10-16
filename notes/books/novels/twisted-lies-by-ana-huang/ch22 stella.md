@@ -82,61 +82,41 @@ pov: "Stella"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| considering | 考虑到；鉴于 | There was nothing more upsetting than considering someone a friend only to realize they didn't feel the same way about you. |
 | conditioning | 空调；条件作用 | The air conditioning was on full blast, but a deeper, eerier chill swept over my skin when I turned to leave. |
 | surroundings | 周围的环境；周围 | The roar of blood in my ears drowned out every other noise as I scanned my surroundings with a white knuckle grip on my phone. |
-| suspicious | 可疑的；猜疑的 | I didn't see anyone suspicious, but the ominous shift in the air was so tangible I tasted it in the back of my throat. |
-| reassuring | 令人安心的； reassuring | And that someone wasn't Brock, whose presence was invisible but always warm and reassuring. |
-| opportunity | 机会；时机 | Whoever the creep was, he was out there, probably waiting for another opportunity to pounce. |
-| evaporated | 蒸发；消失 | The chill evaporated beneath the blaze of the afternoon soon. |
 | ambassadorship | 大使身份；大使职位 | He was doing an in-depth profile on me and my Delamonte ambassadorship, and we'd spent the past half hour discussing topics and logistics. |
-| discussing | 讨论；商讨 | He was doing an in-depth profile on me and my Delamonte ambassadorship, and we'd spent the past half hour discussing topics and logistics. |
 | disadvantage | 劣势；不利条件 | It made me feel at even more of a disadvantage than I already was. |
-| eventually | 最终；终于 | I'd known it would happen eventually, but actually hitting that milestone was surreal. |
 | twelve-year-old | 十二岁的 | A grin broke out, and it took all my willpower not to jump and scream like a twelve-year-old at their favorite pop singer's concert. |
 | congratulations | 恭喜；祝贺 | I stared down at my profile, waiting for the skies to open up, angels to sing, and confetti to rain down around me in congratulations. |
-| exhilaration | 狂喜；兴奋 | The exhilaration of joining the million-follower club was still there, but I'd also expected…more. |
 | million-follower | 百万粉丝 | The exhilaration of joining the million-follower club was still there, but I'd also expected…more. |
-| achievement | 成就；成绩 | Some sense of achievement that would validate all the hard work I'd put into my account and the feeling that I'd made it, whatever it was. |
-| dissatisfied | 不满足的；不满意的 | Somehow, it felt worse to achieve something and still feel dissatisfied than to not achieve it at all. |
 | disappointment | 失望；沮丧 | I tucked my phone into my pocket and tried to hide my disappointment. |
-| distinctive | 独特的；有特色的 | Instead, he reached into his pocket and retrieved a distinctive red and gold box. |
-| hesitation | 犹豫；迟疑 | Curiosity and hesitation warred inside me. |
-| extravagant | 奢侈的；铺张的 | It was a watch—the most gorgeous, extravagant watch I'd ever laid eyes on. |
-| butterflies | 蝴蝶；紧张感 | Diamonds and emeralds formed delicate butterflies on the polished face, and smaller diamonds studded the platinum band. |
-| bitterness | 苦涩；痛苦 | My default was trust, but I tasted the bitterness of his lie on my tongue. |
-| appreciate | 欣赏；感激 | "It's gorgeous, and I appreciate the sentiment, but I can't take this. |
-| Worthiness | 价值；值得 | Worthiness. |
 | unconditional | 无条件的；无保留的 | Something deep and unconditional that I could call my own. |
-| expression | 表情；神色 | Christian's expression flickered for the first time since he entered. |
-| off-the-cuff | 即兴的；随口的 | It'd been an off-the-cuff comment I made weeks ago. |
-| remembered | 记得；回忆起 | I couldn't believe Christian remembered it. |
-| compressed | 压缩的；受压的 | Even if I don't…" I dragged a breath through my compressed lungs. |
-| frustration | 沮丧；挫败 | The oxygen stoked flames of old frustration until they incinerated my inhibitions and the rest of my words spilled out. |
+| self-checkout | 自助结账 | I swiped my card at the self-checkout counter with more force than necessary. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| considering | 考虑到；鉴于 | There was nothing more upsetting than considering someone a friend only to realize they didn't feel the same way about you. |
+| opportunity | 机会；时机 | Whoever the creep was, he was out there, probably waiting for another opportunity to pounce. |
+| exhilaration | 狂喜；兴奋 | The exhilaration of joining the million-follower club was still there, but I'd also expected…more. |
+| achievement | 成就；成绩 | Some sense of achievement that would validate all the hard work I'd put into my account and the feeling that I'd made it, whatever it was. |
+| dissatisfied | 不满足的；不满意的 | Somehow, it felt worse to achieve something and still feel dissatisfied than to not achieve it at all. |
+| distinctive | 独特的；有特色的 | Instead, he reached into his pocket and retrieved a distinctive red and gold box. |
+| extravagant | 奢侈的；铺张的 | It was a watch—the most gorgeous, extravagant watch I'd ever laid eyes on. |
+| butterflies | 蝴蝶；紧张感 | Diamonds and emeralds formed delicate butterflies on the polished face, and smaller diamonds studded the platinum band. |
+| off-the-cuff | 即兴的；随口的 | It'd been an off-the-cuff comment I made weeks ago. |
 | relationship | 关系；关联 | That summed up my relationship with Christian. |
-| self-checkout | 自助结账 | I swiped my card at the self-checkout counter with more force than necessary. |
-| wheatgrass | 小麦草 | I'd visited Maura that morning and stopped by the grocery store to pick up more wheatgrass powder for my smoothies on the way home. |
-| frustrated | 沮丧的；挫败的 | Pro tip: Don't grocery shop when frustrated. |
-| Washington | 华盛顿 | I'd just finished a pre-interview with Julian, the lifestyle columnist for Washington Weekly. |
-| cheekbones | 颧骨 | Sharp cheekbones. |
-| ninety-six | 九十六 | When I checked last night, I'd only been at…nine hundred ninety-six thousand, give or take a few hundred. |
-| Ninety-two | 九十二 | "Ninety-two thousand, six hundred. |
-| expression | 表情；神色 | Christian's expression flickered for the first time since he entered. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| relationship | 关系；关联 | That summed up my relationship with Christian. |
-| considering | 考虑到；鉴于 | There was nothing more upsetting than considering someone a friend only to realize they didn't feel the same way about you. |
-| self-checkout | 自助结账 | I swiped my card at the self-checkout counter with more force than necessary. |
-| wheatgrass | 小麦草 | I'd visited Maura that morning and stopped by the grocery store to pick up more wheatgrass powder for my smoothies on the way home. |
-| frustrated | 沮丧的；挫败的 | Pro tip: Don't grocery shop when frustrated. |
+| suspicious | 可疑的；猜疑的 | I didn't see anyone suspicious, but the ominous shift in the air was so tangible I tasted it in the back of my throat. |
+| reassuring | 令人安心的； reassuring | And that someone wasn't Brock, whose presence was invisible but always warm and reassuring. |
+| evaporated | 蒸发；消失 | The chill evaporated beneath the blaze of the afternoon soon. |
+| discussing | 讨论；商讨 | He was doing an in-depth profile on me and my Delamonte ambassadorship, and we'd spent the past half hour discussing topics and logistics. |
+| frustration | 沮丧；挫败 | The oxygen stoked flames of old frustration until they incinerated my inhibitions and the rest of my words spilled out. |
 
 ## 一句话总结
 

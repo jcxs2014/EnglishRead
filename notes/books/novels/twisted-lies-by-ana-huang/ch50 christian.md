@@ -83,97 +83,40 @@ pov: "Christian"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | protectiveness | 保护欲；保护 | Fierce protectiveness burned in my chest. |
-| sweetheart | 甜心；宝贝 | "It's all right, sweetheart," I murmured. |
-| restraints | 约束；限制 | He glared back at me, his eyes filled with hatred, but he didn't say a word as Steele and Mason secured him with restraints. |
-| recognized | 认出；识别 | I'd recognized Julian's face from his Washington Weekly bio. |
-| Washington | 华盛顿 | I'd recognized Julian's face from his Washington Weekly bio. |
-| background | 背景；经历 | I also recognized it from the background check I'd run on his grandmother when she first bought her apartment at the Mirage. |
 | grandmother | 祖母；外祖母 | I also recognized it from the background check I'd run on his grandmother when she first bought her apartment at the Mirage. |
-| personally | 亲自；个人地 | "I'll deal with him personally. |
-| dispatched | 派遣；派遣 | I hadn't wanted to take any chances, so I'd called in a handful of men to accompany me and dispatched another to get Brock. |
 | dismantling | 拆除；分解 | Once I made sure she was okay, I could take all the time I wanted dismantling Julian. |
-| boundaries | 界限；边界 | I wanted to take her back to my apartment, but I didn't want to violate the boundaries she'd established during our breakup. |
 | established | 建立；确立 | I wanted to take her back to my apartment, but I didn't want to violate the boundaries she'd established during our breakup. |
-| technically | 技术上地；严格来说 | He was technically retired, but one of my clients had referred me to him years ago when I'd mentioned needing a private, discrete doctor. |
-| Apparently | 显然；看来 | Apparently, Abelson needed something other than golf and television to pass the time during retirement. |
-| television | 电视；电视机 | Apparently, Abelson needed something other than golf and television to pass the time during retirement. |
-| retirement | 退休；退职 | Apparently, Abelson needed something other than golf and television to pass the time during retirement. |
-| concussion | 脑震荡；震动 | "She has a few cuts and bruises, plus a mild concussion, but she'll be fine," he said. |
-| examination | 检查；考试 | She'd been silent during her examination, but that didn't mean she couldn't hear us. |
 | complications | 并发症；复杂情况 | "Call me if any complications arise. |
-| anticipate | 预期；期待 | I don't anticipate they will, but you have my number. |
-| unnecessary | 不必要的；多余的 | He was discreet, competent, and didn't ask unnecessary questions. |
-| imagination | 想象；想象力 | Reassure myself she was actually there and not a figment of my imagination. |
-| belongings | 财物；所有物 | She'd moved all her belongings into Ava's house, so I gave her one of my old shirts to wear. |
 | traumatizing | 创伤的；造成创伤的 | She'd gone through a traumatizing experience, and her actions now weren't indicative of her regular behavior. |
-| experience | 经验；经历 | She'd gone through a traumatizing experience, and her actions now weren't indicative of her regular behavior. |
-| indicative | 指示的；表明的 | She'd gone through a traumatizing experience, and her actions now weren't indicative of her regular behavior. |
 | conversation | 对话；交谈 | She'd regained some of her color after the shower, and she was making conversation again. |
-| remembered | 记得；回忆起 | I still remembered how it smelled, like ink and my mom's favorite perfume. |
-| abandonment | 抛弃；遗弃 | I was angry, and I was glad about that, because anger is easier than abandonment. |
 | immortalized | 不朽的；使不朽 | Maybe because I resented what art had done to my family, and I liked seeing its ugliness and chaos immortalized on canvas. |
-| symbolized | 象征；代表 | It was what they symbolized—what my parents did and how they abandoned me. |
-| throughout | 贯穿；遍及 | Stella had been quiet throughout my story, but now she looked at me with a thousand words in her eyes. |
-| connection | 联系；关联 | "Dante acted as my proxy and bought it back since I didn't want more people knowing about my connection to it. |
 | intertwining | 交织；缠绕 | We lay there, our breaths intertwining in the compressed space between us. |
-| compressed | 压缩的；受压的 | We lay there, our breaths intertwining in the compressed space between us. |
 | stranglehold | 压制；束缚 | I could destroy it, or I could live in its stranglehold forever. |
-| compression | 压缩；压迫 | The compression in my chest loosened, and my mouth softened in a genuine smile. |
-| percentage | 百分比；比例 | "I might be able to up the percentage if you give me a goodnight kiss. |
-| definitely | 肯定地；明确地 | "I can definitely work with that. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| protectiveness | 保护欲；保护 | Fierce protectiveness burned in my chest. |
 | sweetheart | 甜心；宝贝 | "It's all right, sweetheart," I murmured. |
 | restraints | 约束；限制 | He glared back at me, his eyes filled with hatred, but he didn't say a word as Steele and Mason secured him with restraints. |
 | recognized | 认出；识别 | I'd recognized Julian's face from his Washington Weekly bio. |
 | Washington | 华盛顿 | I'd recognized Julian's face from his Washington Weekly bio. |
-| background | 背景；经历 | I also recognized it from the background check I'd run on his grandmother when she first bought her apartment at the Mirage. |
-| grandmother | 祖母；外祖母 | I also recognized it from the background check I'd run on his grandmother when she first bought her apartment at the Mirage. |
-| personally | 亲自；个人地 | "I'll deal with him personally. |
-| dispatched | 派遣；派遣 | I hadn't wanted to take any chances, so I'd called in a handful of men to accompany me and dispatched another to get Brock. |
-| dismantling | 拆除；分解 | Once I made sure she was okay, I could take all the time I wanted dismantling Julian. |
-| boundaries | 界限；边界 | I wanted to take her back to my apartment, but I didn't want to violate the boundaries she'd established during our breakup. |
-| established | 建立；确立 | I wanted to take her back to my apartment, but I didn't want to violate the boundaries she'd established during our breakup. |
 | technically | 技术上地；严格来说 | He was technically retired, but one of my clients had referred me to him years ago when I'd mentioned needing a private, discrete doctor. |
-| Apparently | 显然；看来 | Apparently, Abelson needed something other than golf and television to pass the time during retirement. |
-| television | 电视；电视机 | Apparently, Abelson needed something other than golf and television to pass the time during retirement. |
-| retirement | 退休；退职 | Apparently, Abelson needed something other than golf and television to pass the time during retirement. |
-| concussion | 脑震荡；震动 | "She has a few cuts and bruises, plus a mild concussion, but she'll be fine," he said. |
 | examination | 检查；考试 | She'd been silent during her examination, but that didn't mean she couldn't hear us. |
-| complications | 并发症；复杂情况 | "Call me if any complications arise. |
-| anticipate | 预期；期待 | I don't anticipate they will, but you have my number. |
 | unnecessary | 不必要的；多余的 | He was discreet, competent, and didn't ask unnecessary questions. |
 | imagination | 想象；想象力 | Reassure myself she was actually there and not a figment of my imagination. |
-| belongings | 财物；所有物 | She'd moved all her belongings into Ava's house, so I gave her one of my old shirts to wear. |
-| traumatizing | 创伤的；造成创伤的 | She'd gone through a traumatizing experience, and her actions now weren't indicative of her regular behavior. |
-| experience | 经验；经历 | She'd gone through a traumatizing experience, and her actions now weren't indicative of her regular behavior. |
-| indicative | 指示的；表明的 | She'd gone through a traumatizing experience, and her actions now weren't indicative of her regular behavior. |
-| conversation | 对话；交谈 | She'd regained some of her color after the shower, and she was making conversation again. |
-| remembered | 记得；回忆起 | I still remembered how it smelled, like ink and my mom's favorite perfume. |
 | abandonment | 抛弃；遗弃 | I was angry, and I was glad about that, because anger is easier than abandonment. |
-| immortalized | 不朽的；使不朽 | Maybe because I resented what art had done to my family, and I liked seeing its ugliness and chaos immortalized on canvas. |
-| symbolized | 象征；代表 | It was what they symbolized—what my parents did and how they abandoned me. |
-| throughout | 贯穿；遍及 | Stella had been quiet throughout my story, but now she looked at me with a thousand words in her eyes. |
-| connection | 联系；关联 | "Dante acted as my proxy and bought it back since I didn't want more people knowing about my connection to it. |
-| intertwining | 交织；缠绕 | We lay there, our breaths intertwining in the compressed space between us. |
-| compressed | 压缩的；受压的 | We lay there, our breaths intertwining in the compressed space between us. |
-| stranglehold | 压制；束缚 | I could destroy it, or I could live in its stranglehold forever. |
 | compression | 压缩；压迫 | The compression in my chest loosened, and my mouth softened in a genuine smile. |
-| percentage | 百分比；比例 | "I might be able to up the percentage if you give me a goodnight kiss. |
-| definitely | 肯定地；明确地 | "I can definitely work with that. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| protectiveness | 保护欲；保护 | Fierce protectiveness burned in my chest. |
-| sweetheart | 甜心；宝贝 | "It's all right, sweetheart," I murmured. |
-| restraints | 约束；限制 | He glared back at me, his eyes filled with hatred, but he didn't say a word as Steele and Mason secured him with restraints. |
-| recognized | 认出；识别 | I'd recognized Julian's face from his Washington Weekly bio. |
+| background | 背景；经历 | I also recognized it from the background check I'd run on his grandmother when she first bought her apartment at the Mirage. |
+| personally | 亲自；个人地 | "I'll deal with him personally. |
+| dispatched | 派遣；派遣 | I hadn't wanted to take any chances, so I'd called in a handful of men to accompany me and dispatched another to get Brock. |
+| boundaries | 界限；边界 | I wanted to take her back to my apartment, but I didn't want to violate the boundaries she'd established during our breakup. |
+| Apparently | 显然；看来 | Apparently, Abelson needed something other than golf and television to pass the time during retirement. |
 
 ## 一句话总结
 

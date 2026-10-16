@@ -82,102 +82,41 @@ pov: "Stella/Christian"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| dinnertime | 晚餐时间 | Christian and I arrived in Kauai past dinnertime the next night. |
 | companionable | 友好的；伴侣的 | I snuck a peek at him as we ate in companionable silence. |
 | infuriatingly | 令人恼怒地；烦人地 | He lounged against his side of the couch, looking infuriatingly sexy with his rumpled shirt and tousled hair. |
-| dishevelment | 凌乱；不整洁 | Neither of us looked our best after traveling all day, but his dishevelment only made him hotter, not less. |
-| Approachable | 平易近人的；可接近的 | "Approachable. |
 | Hawaiian-print | 夏威夷印花的 | "Dancing in a Hawaiian-print shirt? |
 | possibilities | 可能性；可能 | The possibilities are endless. |
-| technology | 技术；科技 | "You never know at the rate technology is progressing. |
-| progressing | 进步；发展 | "You never know at the rate technology is progressing. |
-| undeterred | 未受阻的；不屈不挠的 | It could happen," I said, undeterred. |
-| appreciate | 欣赏；感激 | I didn't appreciate the knowing laughter threaded through his voice, but I let it slide. |
 | uncomfortable | 不舒服的；不安的 | There were few things more uncomfortable than being a tall person in economy. |
-| deliberated | 仔细考虑；深思熟虑 | I sank deeper into the couch and deliberated on a good topic before I said, "Tell me something about you I don't already know. |
-| definitely | 肯定地；明确地 | Your soul is definitely suspect. |
-| cheesecake | 芝士蛋糕 | Who could hate baklava, cheesecake, and ice cream? |
-| deadpanned | 面无表情地说；冷面幽默 | "Perhaps I'll meet it at the same time I meet my soulmate," Christian deadpanned. |
-| reciprocate | 回报；回应 | "Time to reciprocate, Butterfly. |
-| judgmental | 评判性的；爱批评的 | They were judgmental and had high expectations, but they weren't physically abusive. |
-| expectations | 期望；期待 | They were judgmental and had high expectations, but they weren't physically abusive. |
-| physically | 身体上地；肉体上 | They were judgmental and had high expectations, but they weren't physically abusive. |
-| incredibly | 非常地；极其地 | Compared to a majority of people, I lived an incredibly privileged life. |
-| privileged | 有特权的；享有特权的 | Compared to a majority of people, I lived an incredibly privileged life. |
-| acknowledge | 承认；认可 | We could acknowledge how good we had it in some respects while criticizing other parts. |
-| criticizing | 批评；指责 | We could acknowledge how good we had it in some respects while criticizing other parts. |
-| ungrateful | 忘恩负义的；不知感恩的 | To his credit, Christian didn't condemn me for being an ungrateful brat. |
-| competition | 竞争；比赛 | Less competition, more emotional support. |
-| optimistic | 乐观的；乐观的 | My smile turned wistful at the memory of my optimistic teenage self. |
-| competitors | 竞争者；对手 | "Take this from someone who's seen plenty of competitors come and go over the years," Christian said, pulling me out of my thoughts. |
-| girlfriends | 女朋友；女性朋友 | It felt good to get all that off my chest, and it helped that Christian and I weren't as close as I was to my girlfriends. |
 | self-conscious | 自我意识的；不自然的 | It made me less self-conscious about the things I was sharing. |
 | consciousness | 意识；知觉 | Sleep tugged at the edges of my consciousness, but I didn't want to go to bed when Christian and I were finally having a real conversation. |
-| conversation | 对话；交谈 | Sleep tugged at the edges of my consciousness, but I didn't want to go to bed when Christian and I were finally having a real conversation. |
-| frustrated | 沮丧的；挫败的 | I might be upset and frustrated with my family, but if I lost any of them, I would be devastated. |
-| devastated | 毁灭的；崩溃的 | I might be upset and frustrated with my family, but if I lost any of them, I would be devastated. |
-| difference | 差异；不同 | "Maybe, but there's a difference between being alone and being alone . |
 | imperceptible | 难以察觉的；几乎看不见的 | Christian stared at me with an imperceptible expression. |
-| expression | 表情；神色 | Christian stared at me with an imperceptible expression. |
 | administrator | 管理员；行政人员 | He was a software engineer, and my mother was a school administrator. |
 | quintessential | 典型的；精髓的 | In many ways, they were the quintessential middle-class American family. |
-| middle-class | 中产阶级的 | In many ways, they were the quintessential middle-class American family. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| dinnertime | 晚餐时间 | Christian and I arrived in Kauai past dinnertime the next night. |
-| companionable | 友好的；伴侣的 | I snuck a peek at him as we ate in companionable silence. |
-| infuriatingly | 令人恼怒地；烦人地 | He lounged against his side of the couch, looking infuriatingly sexy with his rumpled shirt and tousled hair. |
 | dishevelment | 凌乱；不整洁 | Neither of us looked our best after traveling all day, but his dishevelment only made him hotter, not less. |
 | Approachable | 平易近人的；可接近的 | "Approachable. |
-| Hawaiian-print | 夏威夷印花的 | "Dancing in a Hawaiian-print shirt? |
-| possibilities | 可能性；可能 | The possibilities are endless. |
-| technology | 技术；科技 | "You never know at the rate technology is progressing. |
 | progressing | 进步；发展 | "You never know at the rate technology is progressing. |
-| undeterred | 未受阻的；不屈不挠的 | It could happen," I said, undeterred. |
-| appreciate | 欣赏；感激 | I didn't appreciate the knowing laughter threaded through his voice, but I let it slide. |
-| uncomfortable | 不舒服的；不安的 | There were few things more uncomfortable than being a tall person in economy. |
 | deliberated | 仔细考虑；深思熟虑 | I sank deeper into the couch and deliberated on a good topic before I said, "Tell me something about you I don't already know. |
-| definitely | 肯定地；明确地 | Your soul is definitely suspect. |
-| cheesecake | 芝士蛋糕 | Who could hate baklava, cheesecake, and ice cream? |
-| deadpanned | 面无表情地说；冷面幽默 | "Perhaps I'll meet it at the same time I meet my soulmate," Christian deadpanned. |
 | reciprocate | 回报；回应 | "Time to reciprocate, Butterfly. |
-| judgmental | 评判性的；爱批评的 | They were judgmental and had high expectations, but they weren't physically abusive. |
 | expectations | 期望；期待 | They were judgmental and had high expectations, but they weren't physically abusive. |
-| physically | 身体上地；肉体上 | They were judgmental and had high expectations, but they weren't physically abusive. |
-| incredibly | 非常地；极其地 | Compared to a majority of people, I lived an incredibly privileged life. |
-| privileged | 有特权的；享有特权的 | Compared to a majority of people, I lived an incredibly privileged life. |
 | acknowledge | 承认；认可 | We could acknowledge how good we had it in some respects while criticizing other parts. |
 | criticizing | 批评；指责 | We could acknowledge how good we had it in some respects while criticizing other parts. |
-| ungrateful | 忘恩负义的；不知感恩的 | To his credit, Christian didn't condemn me for being an ungrateful brat. |
-| competition | 竞争；比赛 | Less competition, more emotional support. |
-| optimistic | 乐观的；乐观的 | My smile turned wistful at the memory of my optimistic teenage self. |
-| competitors | 竞争者；对手 | "Take this from someone who's seen plenty of competitors come and go over the years," Christian said, pulling me out of my thoughts. |
-| girlfriends | 女朋友；女性朋友 | It felt good to get all that off my chest, and it helped that Christian and I weren't as close as I was to my girlfriends. |
-| self-conscious | 自我意识的；不自然的 | It made me less self-conscious about the things I was sharing. |
-| consciousness | 意识；知觉 | Sleep tugged at the edges of my consciousness, but I didn't want to go to bed when Christian and I were finally having a real conversation. |
 | conversation | 对话；交谈 | Sleep tugged at the edges of my consciousness, but I didn't want to go to bed when Christian and I were finally having a real conversation. |
-| frustrated | 沮丧的；挫败的 | I might be upset and frustrated with my family, but if I lost any of them, I would be devastated. |
-| devastated | 毁灭的；崩溃的 | I might be upset and frustrated with my family, but if I lost any of them, I would be devastated. |
-| difference | 差异；不同 | "Maybe, but there's a difference between being alone and being alone . |
-| imperceptible | 难以察觉的；几乎看不见的 | Christian stared at me with an imperceptible expression. |
-| expression | 表情；神色 | Christian stared at me with an imperceptible expression. |
-| administrator | 管理员；行政人员 | He was a software engineer, and my mother was a school administrator. |
-| quintessential | 典型的；精髓的 | In many ways, they were the quintessential middle-class American family. |
 | middle-class | 中产阶级的 | In many ways, they were the quintessential middle-class American family. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| conversation | 对话；交谈 | Sleep tugged at the edges of my consciousness, but I didn't want to go to bed when Christian and I were finally having a real conversation. |
-| frustrated | 沮丧的；挫败的 | I might be upset and frustrated with my family, but if I lost any of them, I would be devastated. |
-| devastated | 毁灭的；崩溃的 | I might be upset and frustrated with my family, but if I lost any of them, I would be devastated. |
-| difference | 差异；不同 | "Maybe, but there's a difference between being alone and being alone . |
-| imperceptible | 难以察觉的；几乎看不见的 | Christian stared at me with an imperceptible expression. |
-| expression | 表情；神色 | Christian stared at me with an imperceptible expression. |
+| dinnertime | 晚餐时间 | Christian and I arrived in Kauai past dinnertime the next night. |
+| technology | 技术；科技 | "You never know at the rate technology is progressing. |
+| competition | 竞争；比赛 | Less competition, more emotional support. |
+| competitors | 竞争者；对手 | "Take this from someone who's seen plenty of competitors come and go over the years," Christian said, pulling me out of my thoughts. |
+| girlfriends | 女朋友；女性朋友 | It felt good to get all that off my chest, and it helped that Christian and I weren't as close as I was to my girlfriends. |
 
 ## 一句话总结
 

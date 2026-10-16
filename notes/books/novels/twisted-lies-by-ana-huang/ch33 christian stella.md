@@ -83,100 +83,40 @@ pov: "Christian/Stella"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | unacceptable | 不可接受的；不能容忍的 | If not, that was unacceptable. |
-| possessive | 占有欲强的；自私的 | I pressed a soft kiss to her shoulder and wrapped a possessive arm around her waist. |
-| threatened | 威胁；恐吓 | "You think that's funny," I growled, but a smile threatened to slip free at the sparkle in her eyes. |
-| transaction | 交易；事务 | Sex was a transaction, something people did to pass the time and find physical release. |
-| Grumpypants | 脾气暴躁的人；坏脾气的人 | "I was joking, Grumpypants. |
-| impossible | 不可能的；不可能的 | Stella Alonso had consumed my world in a way that made it impossible to go back. |
-| comfortable | 舒适的；舒服的 | We lay there for a while and soaked in the comfortable silence before she spoke again. |
-| discovered | 发现；发觉 | I hoped no one ever discovered this weakness. |
 | catastrophic | 灾难性的；毁灭性的 | It would be catastrophic for me and for her. |
-| originally | 最初；原来 | today as originally planned. |
-| helicopter | 直升机 | Hiking, sunset sails, helicopter tours, visits to local museums and secluded beaches…we did it all. |
-| motorcycle | 摩托车 | "I never would've pegged you for a motorcycle kind of guy. |
-| devastating | 毁灭性的；令人崩溃的 | In a simple white T-shirt and jeans, he was devastating. |
 | determination | 决心；决定 | "I can't make a final determination until I see what your actual driving skills are like," I said solemnly. |
-| suppressing | 压制；压抑 | Christian pressed his lips together, and it took me a second to realize he was suppressing laughter. |
-| everywhere | 到处；各处 | "I felt bad about you driving us everywhere, so I offered…stop laughing. |
-| tree-lined | 绿树成荫的 | "I doubt it," I muttered, but the wind swallowed my words as we sped down the island's tree-lined roads. |
-| destination | 目的地；终点 | It took us twenty minutes to reach our destination. |
-| surrounded | 包围；环绕 | Pillows, cushions, and blankets surrounded a low table draped in a silky white cloth. |
 | conversation | 对话；交谈 | We'd never had that conversation, and sex didn't necessarily mean anything in today's day and age. |
-| necessarily | 必然地；必要地 | We'd never had that conversation, and sex didn't necessarily mean anything in today's day and age. |
 | relationship | 关系；关联 | Some people had sex with the same person for months and still didn't consider the relationship exclusive. |
-| uncertainty | 不确定；不确定性 | I hated breaking the spell, but if we didn't have the conversation, the uncertainty would eat me alive all night. |
-| atmosphere | 气氛；氛围 | "Fake couple with benefits," I added, hoping to lighten the suddenly tense atmosphere. |
 | intimidating | 吓人的；令人胆怯的 | His face looked like it was carved from granite, but his eyes burned dark and intimidating. |
-| commitment | 承诺；义务 | We'd given into something between us, but that didn't mean I had any commitment from him. |
-| assumption | 假设；假定 | I'd seen too many people get their hearts broken because of such an assumption, and I refused to be one of them. |
-| expectations | 期望；期待 | Hawaii is a dream, but it's ending tomorrow, and I want to set the right expectations before we return to D.C. |
 | relationships | 关系；关联 | Despite my aversion to relationships, I was a romantic at heart. |
 | all-consuming | 全神贯注的；消耗一切的 | When I found the right person, I wanted to get swept up in that grand, all-consuming love. |
-| deep-rooted | 根深蒂固的；深厚的 | But it wasn't something Christian believed in, and while I knew he wanted me, he didn't want me enough to change such a deep-rooted belief. |
 | disappointment | 失望；沮丧 | The bitter taste of disappointment welled on my tongue. |
-| complicated | 复杂的；难处理的 | "Things have gotten too complicated with me moving in, the stalker situation, and this trip," I said when Christian remained silent. |
-| arrangement | 安排；协议 | "The original rules of our arrangement are getting blurred. |
-| possibility | 可能性；可能 | It felt too real, as did the possibility that he could break my heart. |
-| Exclusively | 专有地；排他地 | Exclusively. |
 | over-analytical | 过度分析的；过度思考的 | For once, I turned off the over-analytical part of my brain and went with what my heart told me to do. |
-| constantly | 不断地；时常地 | Tender wasn't a word I'd thought I would ever associate with Christian, but he constantly took me by surprise. |
-| terrifying | 可怕的；令人恐惧的 | The idea was equal parts thrilling and terrifying. |
-| realization | 认识；领悟 | But what was even more terrifying was the realization that I didn't mind belonging with Christian. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| unacceptable | 不可接受的；不能容忍的 | If not, that was unacceptable. |
-| possessive | 占有欲强的；自私的 | I pressed a soft kiss to her shoulder and wrapped a possessive arm around her waist. |
-| threatened | 威胁；恐吓 | "You think that's funny," I growled, but a smile threatened to slip free at the sparkle in her eyes. |
 | transaction | 交易；事务 | Sex was a transaction, something people did to pass the time and find physical release. |
 | Grumpypants | 脾气暴躁的人；坏脾气的人 | "I was joking, Grumpypants. |
-| impossible | 不可能的；不可能的 | Stella Alonso had consumed my world in a way that made it impossible to go back. |
 | comfortable | 舒适的；舒服的 | We lay there for a while and soaked in the comfortable silence before she spoke again. |
-| discovered | 发现；发觉 | I hoped no one ever discovered this weakness. |
-| catastrophic | 灾难性的；毁灭性的 | It would be catastrophic for me and for her. |
-| originally | 最初；原来 | today as originally planned. |
-| helicopter | 直升机 | Hiking, sunset sails, helicopter tours, visits to local museums and secluded beaches…we did it all. |
-| motorcycle | 摩托车 | "I never would've pegged you for a motorcycle kind of guy. |
 | devastating | 毁灭性的；令人崩溃的 | In a simple white T-shirt and jeans, he was devastating. |
-| determination | 决心；决定 | "I can't make a final determination until I see what your actual driving skills are like," I said solemnly. |
 | suppressing | 压制；压抑 | Christian pressed his lips together, and it took me a second to realize he was suppressing laughter. |
-| everywhere | 到处；各处 | "I felt bad about you driving us everywhere, so I offered…stop laughing. |
-| tree-lined | 绿树成荫的 | "I doubt it," I muttered, but the wind swallowed my words as we sped down the island's tree-lined roads. |
 | destination | 目的地；终点 | It took us twenty minutes to reach our destination. |
-| surrounded | 包围；环绕 | Pillows, cushions, and blankets surrounded a low table draped in a silky white cloth. |
-| conversation | 对话；交谈 | We'd never had that conversation, and sex didn't necessarily mean anything in today's day and age. |
 | necessarily | 必然地；必要地 | We'd never had that conversation, and sex didn't necessarily mean anything in today's day and age. |
-| relationship | 关系；关联 | Some people had sex with the same person for months and still didn't consider the relationship exclusive. |
 | uncertainty | 不确定；不确定性 | I hated breaking the spell, but if we didn't have the conversation, the uncertainty would eat me alive all night. |
-| atmosphere | 气氛；氛围 | "Fake couple with benefits," I added, hoping to lighten the suddenly tense atmosphere. |
-| intimidating | 吓人的；令人胆怯的 | His face looked like it was carved from granite, but his eyes burned dark and intimidating. |
-| commitment | 承诺；义务 | We'd given into something between us, but that didn't mean I had any commitment from him. |
-| assumption | 假设；假定 | I'd seen too many people get their hearts broken because of such an assumption, and I refused to be one of them. |
 | expectations | 期望；期待 | Hawaii is a dream, but it's ending tomorrow, and I want to set the right expectations before we return to D.C. |
-| relationships | 关系；关联 | Despite my aversion to relationships, I was a romantic at heart. |
-| all-consuming | 全神贯注的；消耗一切的 | When I found the right person, I wanted to get swept up in that grand, all-consuming love. |
 | deep-rooted | 根深蒂固的；深厚的 | But it wasn't something Christian believed in, and while I knew he wanted me, he didn't want me enough to change such a deep-rooted belief. |
-| disappointment | 失望；沮丧 | The bitter taste of disappointment welled on my tongue. |
-| complicated | 复杂的；难处理的 | "Things have gotten too complicated with me moving in, the stalker situation, and this trip," I said when Christian remained silent. |
-| arrangement | 安排；协议 | "The original rules of our arrangement are getting blurred. |
-| possibility | 可能性；可能 | It felt too real, as did the possibility that he could break my heart. |
-| Exclusively | 专有地；排他地 | Exclusively. |
-| over-analytical | 过度分析的；过度思考的 | For once, I turned off the over-analytical part of my brain and went with what my heart told me to do. |
-| constantly | 不断地；时常地 | Tender wasn't a word I'd thought I would ever associate with Christian, but he constantly took me by surprise. |
-| terrifying | 可怕的；令人恐惧的 | The idea was equal parts thrilling and terrifying. |
-| realization | 认识；领悟 | But what was even more terrifying was the realization that I didn't mind belonging with Christian. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| conversation | 对话；交谈 | We'd never had that conversation, and sex didn't necessarily mean anything in today's day and age. |
-| necessarily | 必然地；必要地 | We'd never had that conversation, and sex didn't necessarily mean anything in today's day and age. |
-| relationship | 关系；关联 | Some people had sex with the same person for months and still didn't consider the relationship exclusive. |
-| uncertainty | 不确定；不确定性 | I hated breaking the spell, but if we didn't have the conversation, the uncertainty would eat me alive all night. |
-| atmosphere | 气氛；氛围 | "Fake couple with benefits," I added, hoping to lighten the suddenly tense atmosphere. |
+| complicated | 复杂的；难处理的 | "Things have gotten too complicated with me moving in, the stalker situation, and this trip," I said when Christian remained silent. |
+| arrangement | 安排；协议 | "The original rules of our arrangement are getting blurred. |
+| possibility | 可能性；可能 | It felt too real, as did the possibility that he could break my heart. |
+| Exclusively | 专有地；排他地 | Exclusively. |
+| realization | 认识；领悟 | But what was even more terrifying was the realization that I didn't mind belonging with Christian. |
 
 ## 一句话总结
 

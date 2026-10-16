@@ -82,100 +82,41 @@ pov: "Stella"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| officially | 正式地；官方地 | Christian and I were officially dating. |
-| inevitable | 不可避免的；必然发生的 | According to Jules, it'd been "inevitable" based on how we'd been eye fucking each other at her housewarming. |
 | housewarming | 暖房；乔迁聚会 | According to Jules, it'd been "inevitable" based on how we'd been eye fucking each other at her housewarming. |
-| Correction | 更正；修正 | Correction: a specific vendor at Eastern Market for him. |
 | exasperation | 恼怒；烦躁 | The vendor laughed while my new boyfriend sighed with exasperation, though a glint of humor surfaced in his eyes. |
-| woodworker | 木工；木匠 | Wannabe comedian and woodworker extraordinaire. |
 | extraordinaire | 非凡的人；专家 | Wannabe comedian and woodworker extraordinaire. |
-| incredible | 难以置信的；极好的 | "These are incredible. |
-| especially | 特别地；尤其地 | Vague and moody at times, especially after a stressful day at work, but considerate and supportive almost all the time. |
-| considerate | 体贴的；考虑周到的 | Vague and moody at times, especially after a stressful day at work, but considerate and supportive almost all the time. |
-| supportive | 支持的；支援的 | Vague and moody at times, especially after a stressful day at work, but considerate and supportive almost all the time. |
-| relationship | 关系；关联 | All in all, I couldn't have asked for a more perfect real relationship. |
 | complimenting | 赞美；恭维 | Christian swept into the room like Prince Charming, handing her the dessert and complimenting her on her necklace. |
 | disconcerting | 令人不安的；令人困惑的 | It was disconcerting to see them get so chummy so fast when even I had to warm her up a bit every time I visited. |
-| disgruntled | 不满的；不高兴的 | I wasn't sure whether to be happy they got along so well or disgruntled that she got along with him better than she did me. |
-| impatience | 不耐烦；急躁 | He waited for her to continue without a hint of annoyance or impatience. |
-| satisfying | 令人满意的；满足的 | "It's satisfying," Maura finally said. |
-| expression | 表情；神色 | Christian stared at her, his expression indecipherable. |
 | indecipherable | 难以理解的；无法辨认的 | Christian stared at her, his expression indecipherable. |
-| iterations | 迭代；版本 | I'd seen many iterations of Christian Harper over the past three months, but the one sitting here today? |
-| Unbelievable | 难以置信的；不可思议的 | Unbelievable. |
-| insufferable | 难以忍受的；讨厌的 | As insufferable as he would be after effortlessly charming Maura, I loved how well they got along. |
-| effortlessly | 毫不费力地；轻松地 | As insufferable as he would be after effortlessly charming Maura, I loved how well they got along. |
-| impossible | 不可能的；不可能的 | She was growing visibly agitated, and once she got agitated, it was near impossible to calm her down without sedation. |
-| resembling | 类似；像 | Maura's eyes were still bright with panic, but her breaths slowed into something resembling normal. |
-| significance | 意义；重要性 | The significance wasn't lost on me, though the actual event bored me to tears. |
-| regulations | 法规；规章 | "The EU is killing us with its regulations," the man he was talking to grumbled. |
-| regulation | 法规；规章 | Tech regulation wasn't nearly as interesting as baby turtles. |
-| interesting | 有趣的；有意思的 | Tech regulation wasn't nearly as interesting as baby turtles. |
-| opportunity | 机会；时机 | There wasn't a line for the restroom, so I took the opportunity to fix my hair and makeup and check my notifications. |
 | notifications | 通知；消息 | There wasn't a line for the restroom, so I took the opportunity to fix my hair and makeup and check my notifications. |
-| recognized | 认出；识别 | I recognized that chill; it was what I felt when someone was watching me. |
-| frantically | 疯狂地；拼命地 | My head jerked up, and I scanned the room frantically for anything—or anyone—suspicious. |
-| suspicious | 可疑的；怀疑的 | My head jerked up, and I scanned the room frantically for anything—or anyone—suspicious. |
-| regulatory | 监管的；法规的 | Just a bunch of people in suits, grousing about the latest regulatory laws and bragging about their companies' market caps. |
-| professional | 专业的；职业的 | He winked at me and moseyed on past like he hadn't full-on groped me in the middle of a professional event. |
 | instinctively | 本能地；天生地 | I instinctively flicked my eyes toward the bar, where the man who'd groped me was hitting on an uninterested-looking woman. |
 | uninterested-looking | 看起来不感兴趣的 | I instinctively flicked my eyes toward the bar, where the man who'd groped me was hitting on an uninterested-looking woman. |
-| mind-numbing | 令人麻木的；令人头脑麻木的 | Between the mind-numbing conversations and the jerk who couldn't keep his hands to himself, I was ready to put the night behind me. |
 | conversations | 对话；交谈 | Between the mind-numbing conversations and the jerk who couldn't keep his hands to himself, I was ready to put the night behind me. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| officially | 正式地；官方地 | Christian and I were officially dating. |
-| inevitable | 不可避免的；必然发生的 | According to Jules, it'd been "inevitable" based on how we'd been eye fucking each other at her housewarming. |
-| housewarming | 暖房；乔迁聚会 | According to Jules, it'd been "inevitable" based on how we'd been eye fucking each other at her housewarming. |
-| Correction | 更正；修正 | Correction: a specific vendor at Eastern Market for him. |
-| exasperation | 恼怒；烦躁 | The vendor laughed while my new boyfriend sighed with exasperation, though a glint of humor surfaced in his eyes. |
-| woodworker | 木工；木匠 | Wannabe comedian and woodworker extraordinaire. |
-| extraordinaire | 非凡的人；专家 | Wannabe comedian and woodworker extraordinaire. |
-| incredible | 难以置信的；极好的 | "These are incredible. |
-| especially | 特别地；尤其地 | Vague and moody at times, especially after a stressful day at work, but considerate and supportive almost all the time. |
 | considerate | 体贴的；考虑周到的 | Vague and moody at times, especially after a stressful day at work, but considerate and supportive almost all the time. |
-| supportive | 支持的；支援的 | Vague and moody at times, especially after a stressful day at work, but considerate and supportive almost all the time. |
 | relationship | 关系；关联 | All in all, I couldn't have asked for a more perfect real relationship. |
-| complimenting | 赞美；恭维 | Christian swept into the room like Prince Charming, handing her the dessert and complimenting her on her necklace. |
-| disconcerting | 令人不安的；令人困惑的 | It was disconcerting to see them get so chummy so fast when even I had to warm her up a bit every time I visited. |
 | disgruntled | 不满的；不高兴的 | I wasn't sure whether to be happy they got along so well or disgruntled that she got along with him better than she did me. |
-| impatience | 不耐烦；急躁 | He waited for her to continue without a hint of annoyance or impatience. |
-| satisfying | 令人满意的；满足的 | "It's satisfying," Maura finally said. |
-| expression | 表情；神色 | Christian stared at her, his expression indecipherable. |
-| indecipherable | 难以理解的；无法辨认的 | Christian stared at her, his expression indecipherable. |
-| iterations | 迭代；版本 | I'd seen many iterations of Christian Harper over the past three months, but the one sitting here today? |
 | Unbelievable | 难以置信的；不可思议的 | Unbelievable. |
 | insufferable | 难以忍受的；讨厌的 | As insufferable as he would be after effortlessly charming Maura, I loved how well they got along. |
 | effortlessly | 毫不费力地；轻松地 | As insufferable as he would be after effortlessly charming Maura, I loved how well they got along. |
-| impossible | 不可能的；不可能的 | She was growing visibly agitated, and once she got agitated, it was near impossible to calm her down without sedation. |
-| resembling | 类似；像 | Maura's eyes were still bright with panic, but her breaths slowed into something resembling normal. |
 | significance | 意义；重要性 | The significance wasn't lost on me, though the actual event bored me to tears. |
 | regulations | 法规；规章 | "The EU is killing us with its regulations," the man he was talking to grumbled. |
-| regulation | 法规；规章 | Tech regulation wasn't nearly as interesting as baby turtles. |
-| interesting | 有趣的；有意思的 | Tech regulation wasn't nearly as interesting as baby turtles. |
-| opportunity | 机会；时机 | There wasn't a line for the restroom, so I took the opportunity to fix my hair and makeup and check my notifications. |
-| notifications | 通知；消息 | There wasn't a line for the restroom, so I took the opportunity to fix my hair and makeup and check my notifications. |
-| recognized | 认出；识别 | I recognized that chill; it was what I felt when someone was watching me. |
-| frantically | 疯狂地；拼命地 | My head jerked up, and I scanned the room frantically for anything—or anyone—suspicious. |
-| suspicious | 可疑的；怀疑的 | My head jerked up, and I scanned the room frantically for anything—or anyone—suspicious. |
-| regulatory | 监管的；法规的 | Just a bunch of people in suits, grousing about the latest regulatory laws and bragging about their companies' market caps. |
 | professional | 专业的；职业的 | He winked at me and moseyed on past like he hadn't full-on groped me in the middle of a professional event. |
-| instinctively | 本能地；天生地 | I instinctively flicked my eyes toward the bar, where the man who'd groped me was hitting on an uninterested-looking woman. |
-| uninterested-looking | 看起来不感兴趣的 | I instinctively flicked my eyes toward the bar, where the man who'd groped me was hitting on an uninterested-looking woman. |
 | mind-numbing | 令人麻木的；令人头脑麻木的 | Between the mind-numbing conversations and the jerk who couldn't keep his hands to himself, I was ready to put the night behind me. |
-| conversations | 对话；交谈 | Between the mind-numbing conversations and the jerk who couldn't keep his hands to himself, I was ready to put the night behind me. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| relationship | 关系；关联 | All in all, I couldn't have asked for a more perfect real relationship. |
-| complimenting | 赞美；恭维 | Christian swept into the room like Prince Charming, handing her the dessert and complimenting her on her necklace. |
-| disconcerting | 令人不安的；令人困惑的 | It was disconcerting to see them get so chummy so fast when even I had to warm her up a bit every time I visited. |
-| disgruntled | 不满的；不高兴的 | I wasn't sure whether to be happy they got along so well or disgruntled that she got along with him better than she did me. |
+| officially | 正式地；官方地 | Christian and I were officially dating. |
+| inevitable | 不可避免的；必然发生的 | According to Jules, it'd been "inevitable" based on how we'd been eye fucking each other at her housewarming. |
+| interesting | 有趣的；有意思的 | Tech regulation wasn't nearly as interesting as baby turtles. |
+| opportunity | 机会；时机 | There wasn't a line for the restroom, so I took the opportunity to fix my hair and makeup and check my notifications. |
+| frantically | 疯狂地；拼命地 | My head jerked up, and I scanned the room frantically for anything—or anyone—suspicious. |
 
 ## 一句话总结
 

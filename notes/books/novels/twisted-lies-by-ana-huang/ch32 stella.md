@@ -82,100 +82,41 @@ pov: "Stella"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| suppressed | 压制；压抑 | I'd suppressed it during dinner, but the heat blossomed again as the bedroom door closed behind us. |
 | anticipation | 预期；期待 | We hadn't spoken since dinner ended, but the mere anticipation of what could happen rasped against my skin as surely as a calloused touch. |
-| heartbeats | 心跳 | Blood roared in my ears and drowned out everything except my heartbeats and the soft rustle of his movements. |
-| commitments | 承诺；义务 | "You don't have any other commitments tonight, I presume. |
-| deliberate | 故意的；深思熟虑的 | An electric current tied our gazes together as he removed his cufflinks with a slow, deliberate preciseness that made my mouth go dry. |
-| preciseness | 精确；准确 | An electric current tied our gazes together as he removed his cufflinks with a slow, deliberate preciseness that made my mouth go dry. |
-| deceptively | 欺骗性地；看似 | His deceptively soft command burned up all the oxygen in the room and set every molecule of my body ablaze. |
-| accessories | 配饰；附件 | No bra, no accessories, just a tiny scrap of underwear and a heart beating too fast. |
-| expression | 表情；神色 | Christian's expression didn't shift. |
 | involuntarily | 不自主地；无意地 | My thighs involuntarily clenched at the way he said fucked. |
-| destruction | 毁灭；破坏 | It was the dark purr of a predator toying with its prey, making them beg for their own destruction before it pounced. |
-| difference | 差异；不同 | The only difference was, I didn't feel like prey. |
-| scratching | 抓；挠 | I wanted nails scratching down his back and bruises on my hips. |
 | Embarrassment | 尴尬；窘迫 | Embarrassment and lust blazed through me in equal measure. |
-| dangerously | 危险地；危险地 | His smile was that of a dangerously seductive monster promising all sorts of filthy, debauched deeds. |
-| glistening | 闪亮的；湿润的 | Long, thick, and hard, with a bead of pre-cum glistening at its tip. |
 | manipulations | 操纵；控制 | A whimper clawed up my throat as my body lit beneath his erotic manipulations. |
-| embarrassed | 尴尬的；窘迫的 | Had I not been lost in a haze of lust, I might've been embarrassed by his filthy words. |
-| fantasized | 幻想；梦想 | But I was too far gone, and Christian was the only man I'd ever truly fantasized about. |
-| sensitized | 敏感的；过敏的 | The cool air brushed my sensitized sex as I turned and positioned myself on all fours. |
-| positioned | 定位；放置 | The cool air brushed my sensitized sex as I turned and positioned myself on all fours. |
-| practically | 实际上；几乎 | The head of his cock slid against my slick entrance, until I practically panting with anticipation. |
-| sweetheart | 甜心；宝贝 | "That's it, sweetheart. |
-| impossibly | 不可能地；极度地 | I was impossibly full, but gradually, the pain subsided and gave way to delicious pressure. |
-| unclenched | 松开；放松 | My teeth unclenched enough for a low moan to slip out. |
-| viciousness | 恶意；凶猛 | Then Christian slammed into me again, this time with such viciousness it knocked the breath out of my lungs. |
-| mercilessly | 残忍地；无情地 | Tears and drool soaked my pillow as Christian pounded me mercilessly. |
 | mind-numbing | 令人麻木的；令人头脑麻木的 | I'd been reduced to a wreck, held together with nothing but mind-numbing pleasure and the softest pricks of pain. |
-| previously | 以前；先前 | The guys I'd previously slept with had treated me like I was a porcelain doll in bed. |
-| intentions | 意图；目的 | Their intentions were good, but the sex had excited me as much as a game of golf. |
 | instinctively | 本能地；天生地 | My brain short circuited, and my body spiked with pleasure so intense I instinctively tried to scoot away. |
 | unintelligible | 难以理解的；不清楚的 | I could only answer with a string of unintelligible moans. |
 | post-orgasmic | 高潮后的；余韵的 | I was floating on a cloud of post-orgasmic bliss, and I wanted to stay there forever. |
 | insecurities | 不安全感；不安 | No doubts, no insecurities, no overanalyzing. |
 | overanalyzing | 过度分析；过度思考 | No doubts, no insecurities, no overanalyzing. |
-| gentleness | 温柔；优雅 | The gentleness of his touch was at complete odds with the savagery of his fucking, but it felt so right I didn't question it. |
-| contentment | 满足；满意 | I nearly purred with contentment when he rolled me onto my side and smoothed a hand over my ass. |
-| validation | 验证；确认 | I guess that was what happened when girls with a need for academic validation grew up. |
-| satisfaction | 满意；满足 | He laughed, a soft rumble of noise that was pure male satisfaction. |
-| compliment | 赞美；恭维 | "I can't think of a higher compliment. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| suppressed | 压制；压抑 | I'd suppressed it during dinner, but the heat blossomed again as the bedroom door closed behind us. |
-| anticipation | 预期；期待 | We hadn't spoken since dinner ended, but the mere anticipation of what could happen rasped against my skin as surely as a calloused touch. |
-| heartbeats | 心跳 | Blood roared in my ears and drowned out everything except my heartbeats and the soft rustle of his movements. |
 | commitments | 承诺；义务 | "You don't have any other commitments tonight, I presume. |
-| deliberate | 故意的；深思熟虑的 | An electric current tied our gazes together as he removed his cufflinks with a slow, deliberate preciseness that made my mouth go dry. |
 | preciseness | 精确；准确 | An electric current tied our gazes together as he removed his cufflinks with a slow, deliberate preciseness that made my mouth go dry. |
 | deceptively | 欺骗性地；看似 | His deceptively soft command burned up all the oxygen in the room and set every molecule of my body ablaze. |
 | accessories | 配饰；附件 | No bra, no accessories, just a tiny scrap of underwear and a heart beating too fast. |
-| expression | 表情；神色 | Christian's expression didn't shift. |
-| involuntarily | 不自主地；无意地 | My thighs involuntarily clenched at the way he said fucked. |
 | destruction | 毁灭；破坏 | It was the dark purr of a predator toying with its prey, making them beg for their own destruction before it pounced. |
-| difference | 差异；不同 | The only difference was, I didn't feel like prey. |
-| scratching | 抓；挠 | I wanted nails scratching down his back and bruises on my hips. |
-| Embarrassment | 尴尬；窘迫 | Embarrassment and lust blazed through me in equal measure. |
 | dangerously | 危险地；危险地 | His smile was that of a dangerously seductive monster promising all sorts of filthy, debauched deeds. |
-| glistening | 闪亮的；湿润的 | Long, thick, and hard, with a bead of pre-cum glistening at its tip. |
-| manipulations | 操纵；控制 | A whimper clawed up my throat as my body lit beneath his erotic manipulations. |
 | embarrassed | 尴尬的；窘迫的 | Had I not been lost in a haze of lust, I might've been embarrassed by his filthy words. |
-| fantasized | 幻想；梦想 | But I was too far gone, and Christian was the only man I'd ever truly fantasized about. |
-| sensitized | 敏感的；过敏的 | The cool air brushed my sensitized sex as I turned and positioned myself on all fours. |
-| positioned | 定位；放置 | The cool air brushed my sensitized sex as I turned and positioned myself on all fours. |
 | practically | 实际上；几乎 | The head of his cock slid against my slick entrance, until I practically panting with anticipation. |
-| sweetheart | 甜心；宝贝 | "That's it, sweetheart. |
-| impossibly | 不可能地；极度地 | I was impossibly full, but gradually, the pain subsided and gave way to delicious pressure. |
-| unclenched | 松开；放松 | My teeth unclenched enough for a low moan to slip out. |
 | viciousness | 恶意；凶猛 | Then Christian slammed into me again, this time with such viciousness it knocked the breath out of my lungs. |
-| mercilessly | 残忍地；无情地 | Tears and drool soaked my pillow as Christian pounded me mercilessly. |
-| mind-numbing | 令人麻木的；令人头脑麻木的 | I'd been reduced to a wreck, held together with nothing but mind-numbing pleasure and the softest pricks of pain. |
-| previously | 以前；先前 | The guys I'd previously slept with had treated me like I was a porcelain doll in bed. |
-| intentions | 意图；目的 | Their intentions were good, but the sex had excited me as much as a game of golf. |
-| instinctively | 本能地；天生地 | My brain short circuited, and my body spiked with pleasure so intense I instinctively tried to scoot away. |
-| unintelligible | 难以理解的；不清楚的 | I could only answer with a string of unintelligible moans. |
-| post-orgasmic | 高潮后的；余韵的 | I was floating on a cloud of post-orgasmic bliss, and I wanted to stay there forever. |
-| insecurities | 不安全感；不安 | No doubts, no insecurities, no overanalyzing. |
-| overanalyzing | 过度分析；过度思考 | No doubts, no insecurities, no overanalyzing. |
-| gentleness | 温柔；优雅 | The gentleness of his touch was at complete odds with the savagery of his fucking, but it felt so right I didn't question it. |
-| contentment | 满足；满意 | I nearly purred with contentment when he rolled me onto my side and smoothed a hand over my ass. |
-| validation | 验证；确认 | I guess that was what happened when girls with a need for academic validation grew up. |
 | satisfaction | 满意；满足 | He laughed, a soft rumble of noise that was pure male satisfaction. |
-| compliment | 赞美；恭维 | "I can't think of a higher compliment. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| expression | 表情；神色 | Christian's expression didn't shift. |
-| involuntarily | 不自主地；无意地 | My thighs involuntarily clenched at the way he said fucked. |
-| destruction | 毁灭；破坏 | It was the dark purr of a predator toying with its prey, making them beg for their own destruction before it pounced. |
-| difference | 差异；不同 | The only difference was, I didn't feel like prey. |
+| suppressed | 压制；压抑 | I'd suppressed it during dinner, but the heat blossomed again as the bedroom door closed behind us. |
+| heartbeats | 心跳 | Blood roared in my ears and drowned out everything except my heartbeats and the soft rustle of his movements. |
+| deliberate | 故意的；深思熟虑的 | An electric current tied our gazes together as he removed his cufflinks with a slow, deliberate preciseness that made my mouth go dry. |
+| mercilessly | 残忍地；无情地 | Tears and drool soaked my pillow as Christian pounded me mercilessly. |
+| contentment | 满足；满意 | I nearly purred with contentment when he rolled me onto my side and smoothed a hand over my ass. |
 
 ## 一句话总结
 

@@ -83,99 +83,40 @@ pov: "Christian"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | information | 信息；消息 | As expected, the traitor had run straight to Sentinel with the information I'd fed him at the poker tournament. |
-| tournament | 锦标赛；比赛 | As expected, the traitor had run straight to Sentinel with the information I'd fed him at the poker tournament. |
 | surveillance | 监视；监控 | Ice sluiced through my veins as I exited the email app and pulled up surveillance footage from the front of his building. |
 | unremarkable | 不平凡的；不起眼的 | It was utterly unremarkable and blended in with every other vehicle on the road. |
-| positioned | 定位；放置 | Most, because he was the one who'd been best positioned to access the high-level leaked information. |
-| high-level | 高级的；高层次的 | Most, because he was the one who'd been best positioned to access the high-level leaked information. |
-| unforgiving | 无情的；不饶人的 | Rage rolled through my blood in an icy, unforgiving wave. |
-| reputation | 名声；声誉 | Kage's reputation. |
-| suspicious | 可疑的；怀疑的 | "I don't have the details yet, and I can't leak it too soon or he'll get suspicious. |
-| distracted | 分心的；心烦意乱的 | He's so distracted by pussy he's lucky the company is still running properly. |
-| responsible | 负责的；有责任的 | I'd suspected Axel might not have been responsible for Magda's theft when I discovered another leak months ago. |
-| discovered | 发现；发觉 | I'd suspected Axel might not have been responsible for Magda's theft when I discovered another leak months ago. |
 | confirmation | 确认；证实 | The confirmation elicited a rare twinge of regret, but I couldn't change the past, so there was no use agonizing over what happened. |
 | straightened | 挺直；整理 | He straightened and faced me, his mouth relaxing into an easy smile. |
-| right-hand | 右手；得力助手 | My right-hand man. |
 | sentimentality | 感情；感伤 | That was the longest I allowed sentimentality to stay. |
-| recognition | 认可；承认 | More recognition? |
-| Resentment | 怨恨；愤恨 | Resentment leaked into his words. |
-| day-to-day | 日常的；例行的 | I'm the one who runs the day-to-day operations while you jet set around the world with your fucking private plane and fancy hotels. |
-| operations | 操作；运营 | I'm the one who runs the day-to-day operations while you jet set around the world with your fucking private plane and fancy hotels. |
 | disappointed | 失望的；沮丧的 | I was almost disappointed the reason for his betrayal was so pedestrian. |
-| pedestrian | 平凡的；普通的 | I was almost disappointed the reason for his betrayal was so pedestrian. |
-| competitor | 竞争者；对手 | "Enough that you would run to our biggest competitor and fuck over your friend and what you said you helped build. |
-| compensated | 补偿；赔偿 | I'd compensated him extremely well for both those things over the years. |
-| flourished | 繁荣；兴旺 | However, Harper Security flourished not because of its operations but my contacts and the cyber arm I'd built. |
-| networking | 网络；人际网络 | Kage had little interest in networking and even less knowledge of cyber development. |
-| development | 发展；开发 | Kage had little interest in networking and even less knowledge of cyber development. |
-| distraction | 分心；干扰 | The only thing he was right about was my distraction. |
-| appreciates | 欣赏；感激 | "At least Sentinel appreciates what I'm doing for them, and I got to see you brought down a notch. |
-| businessman | 商人；企业家 | He'd been guarding a corrupt local businessman, and we'd shot our way out of an impossible situation. |
-| impossible | 不可能的；难以置信的 | He'd been guarding a corrupt local businessman, and we'd shot our way out of an impossible situation. |
-| interesting | 有趣的；有意思的 | Makes life more interesting. |
-| adrenaline | 肾上腺素 | I ducked behind the rusted skeleton of a car, my heart drumming, my pulse alive with adrenaline. |
-| reflection | 反射；反映 | I saw his reflection in the windows of the car opposite me. |
-| millisecond | 毫秒 | I flicked my eyes down at the screen for a millisecond. |
 | automatically | 自动地；自然地 | My brain automatically translated the company code into a full message given the context. |
-| translated | 翻译；转化 | My brain automatically translated the company code into a full message given the context. |
 | Incapacitated | 无能力的；不能行动的 | Incapacitated, need eyes on Stella ASAP. |
-| excitement | 兴奋；激动 | His voice was harsh with excitement and a tinge of regret. |
 | figuratively | 比喻地；象征地 | Anyone who betrayed me was dead to me, literally and figuratively. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| information | 信息；消息 | As expected, the traitor had run straight to Sentinel with the information I'd fed him at the poker tournament. |
-| tournament | 锦标赛；比赛 | As expected, the traitor had run straight to Sentinel with the information I'd fed him at the poker tournament. |
-| surveillance | 监视；监控 | Ice sluiced through my veins as I exited the email app and pulled up surveillance footage from the front of his building. |
-| unremarkable | 不平凡的；不起眼的 | It was utterly unremarkable and blended in with every other vehicle on the road. |
-| positioned | 定位；放置 | Most, because he was the one who'd been best positioned to access the high-level leaked information. |
-| high-level | 高级的；高层次的 | Most, because he was the one who'd been best positioned to access the high-level leaked information. |
 | unforgiving | 无情的；不饶人的 | Rage rolled through my blood in an icy, unforgiving wave. |
-| reputation | 名声；声誉 | Kage's reputation. |
-| suspicious | 可疑的；怀疑的 | "I don't have the details yet, and I can't leak it too soon or he'll get suspicious. |
-| distracted | 分心的；心烦意乱的 | He's so distracted by pussy he's lucky the company is still running properly. |
 | responsible | 负责的；有责任的 | I'd suspected Axel might not have been responsible for Magda's theft when I discovered another leak months ago. |
-| discovered | 发现；发觉 | I'd suspected Axel might not have been responsible for Magda's theft when I discovered another leak months ago. |
-| confirmation | 确认；证实 | The confirmation elicited a rare twinge of regret, but I couldn't change the past, so there was no use agonizing over what happened. |
-| straightened | 挺直；整理 | He straightened and faced me, his mouth relaxing into an easy smile. |
-| right-hand | 右手；得力助手 | My right-hand man. |
-| sentimentality | 感情；感伤 | That was the longest I allowed sentimentality to stay. |
 | recognition | 认可；承认 | More recognition? |
-| Resentment | 怨恨；愤恨 | Resentment leaked into his words. |
-| day-to-day | 日常的；例行的 | I'm the one who runs the day-to-day operations while you jet set around the world with your fucking private plane and fancy hotels. |
-| operations | 操作；运营 | I'm the one who runs the day-to-day operations while you jet set around the world with your fucking private plane and fancy hotels. |
-| disappointed | 失望的；沮丧的 | I was almost disappointed the reason for his betrayal was so pedestrian. |
-| pedestrian | 平凡的；普通的 | I was almost disappointed the reason for his betrayal was so pedestrian. |
-| competitor | 竞争者；对手 | "Enough that you would run to our biggest competitor and fuck over your friend and what you said you helped build. |
 | compensated | 补偿；赔偿 | I'd compensated him extremely well for both those things over the years. |
-| flourished | 繁荣；兴旺 | However, Harper Security flourished not because of its operations but my contacts and the cyber arm I'd built. |
-| networking | 网络；人际网络 | Kage had little interest in networking and even less knowledge of cyber development. |
 | development | 发展；开发 | Kage had little interest in networking and even less knowledge of cyber development. |
 | distraction | 分心；干扰 | The only thing he was right about was my distraction. |
 | appreciates | 欣赏；感激 | "At least Sentinel appreciates what I'm doing for them, and I got to see you brought down a notch. |
 | businessman | 商人；企业家 | He'd been guarding a corrupt local businessman, and we'd shot our way out of an impossible situation. |
-| impossible | 不可能的；难以置信的 | He'd been guarding a corrupt local businessman, and we'd shot our way out of an impossible situation. |
 | interesting | 有趣的；有意思的 | Makes life more interesting. |
-| adrenaline | 肾上腺素 | I ducked behind the rusted skeleton of a car, my heart drumming, my pulse alive with adrenaline. |
-| reflection | 反射；反映 | I saw his reflection in the windows of the car opposite me. |
 | millisecond | 毫秒 | I flicked my eyes down at the screen for a millisecond. |
-| automatically | 自动地；自然地 | My brain automatically translated the company code into a full message given the context. |
-| translated | 翻译；转化 | My brain automatically translated the company code into a full message given the context. |
-| Incapacitated | 无能力的；不能行动的 | Incapacitated, need eyes on Stella ASAP. |
-| excitement | 兴奋；激动 | His voice was harsh with excitement and a tinge of regret. |
-| figuratively | 比喻地；象征地 | Anyone who betrayed me was dead to me, literally and figuratively. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| information | 信息；消息 | As expected, the traitor had run straight to Sentinel with the information I'd fed him at the poker tournament. |
 | tournament | 锦标赛；比赛 | As expected, the traitor had run straight to Sentinel with the information I'd fed him at the poker tournament. |
-| surveillance | 监视；监控 | Ice sluiced through my veins as I exited the email app and pulled up surveillance footage from the front of his building. |
-| unremarkable | 不平凡的；不起眼的 | It was utterly unremarkable and blended in with every other vehicle on the road. |
+| positioned | 定位；放置 | Most, because he was the one who'd been best positioned to access the high-level leaked information. |
+| high-level | 高级的；高层次的 | Most, because he was the one who'd been best positioned to access the high-level leaked information. |
+| reputation | 名声；声誉 | Kage's reputation. |
+| suspicious | 可疑的；怀疑的 | "I don't have the details yet, and I can't leak it too soon or he'll get suspicious. |
 
 ## 一句话总结
 

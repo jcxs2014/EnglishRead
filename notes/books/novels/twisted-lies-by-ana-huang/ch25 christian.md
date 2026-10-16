@@ -82,90 +82,41 @@ pov: "Christian"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| friendship | 友谊；友情 | Our friendship. |
-| absolutely | 绝对地；完全地 | Absolute power corrupts absolutely. |
-| complicated | 复杂的；难处理的 | Our rocky, complicated relationship started with Rhys saving my life and him walking away from Harper Security to be with Bridget. |
 | relationship | 关系；关联 | Our rocky, complicated relationship started with Rhys saving my life and him walking away from Harper Security to be with Bridget. |
 | disagreements | 分歧；不一致 | The path between those points had been riddled with disagreements, barbs, and a strange mix of mutual respect and suspicion. |
-| bodyguards | 保镖；护卫 | The air dripped with silent danger, but no one seemed concerned except for the royal bodyguards shifting uneasily in the back of the room. |
-| fascination | 着迷；入迷 | Josh watched our back and forth with fascination from Rhys's other side while Alex scrolled through his phone, looking bored. |
-| intimately | 亲密地；密切地 | "It must be tiring, having your emotions so intimately connected with another's. |
-| disappeared | 消失；不见 | Josh's smile disappeared. |
 | acknowledged | 承认；认可 | We hadn't acknowledged each other beyond an obligatory nod of greeting. |
-| obligatory | 义务的；必须的 | We hadn't acknowledged each other beyond an obligatory nod of greeting. |
-| occasional | 偶尔的；间或的 | Other than our monthly chess matches and the occasional business interaction, we rarely saw each other. |
-| interaction | 互动；交流 | Other than our monthly chess matches and the occasional business interaction, we rarely saw each other. |
-| one-eighty | 一百八十度转弯；彻底改变 | "Obviously, I'm concerned," Josh said, doing a one-eighty as he directed his next question at me. |
 | inadvertently | 不经意地；无意地 | Magda had inadvertently fallen into his hands before Dante bought it off him, which meant I knew every single thing about Josh Chen. |
-| background | 背景；出身 | His family background, his grades in med school, his favorite basketball team and how he took his coffee. |
-| basketball | 篮球 | His family background, his grades in med school, his favorite basketball team and how he took his coffee. |
-| possession | 拥有；占有 | He was a golden boy with a dark streak, but not one I needed to concern myself with now that Magda was no longer in his possession. |
-| regretting | 后悔；遗憾 | I sighed, regretting my decision to attend this damned party. |
 | insufferable | 令人无法忍受的 | Anything was better than this insufferable conversation. |
-| speculative | 推测的；猜测的 | "You know…" Rhys's expression turned speculative. |
-| arrangement | 安排；协议 | Lowering her rent, agreeing to the dating arrangement, moving her into your house when some creep spooked her. |
-| irritation | 恼怒；烦躁 | "Only that of irritation at being interrogated. |
 | interrogated | 审问；质问 | "Only that of irritation at being interrogated. |
-| Deflection | 偏转；转移 | "Deflection. |
 | level-headed | 头脑冷静的；理智的 | Yet another sign that love turned the most level-headed of people into fools. |
-| Aggravation | 恼怒；烦躁 | Aggravation expanded in my chest. |
-| significant | 重要的；有意义的 | "Yet I have the girl and you're sitting on a couch arguing with her friends' significant others," Alex said mildly. |
 | frost-tipped | 霜冻的；冰冷的 | Alex closed his eyes briefly before he opened them and glared at me, his expression filled with frost-tipped venom. |
-| antisocial | 反社会的；不爱社交的 | It wasn't my fault he was so antisocial that his best friend freaked out at him spending time with someone else. |
-| evaporated | 蒸发；消失 | My temporary good mood evaporated. |
 | incompetence | 不称职；无能力 | If there was one thing I despised, besides incompetence and Valentine's Day, it was people digging into my personal business. |
 | self-respect | 自尊；自尊心 | Now, they were too whipped by their other halves to conduct themselves with a modicum of self-respect. |
-| nauseating | 令人作呕的；讨厌的 | It was nauseating. |
-| saccharine | 甜腻的；过于甜蜜的 | It wasn't sweet or saccharine. |
-| Eventually | 最终；终于 | Eventually, I would catch her, and once I did, I was never letting her go. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| conversation | 对话；交谈 | Anything was better than this insufferable conversation. |
-| relationship | 关系；关联 | Our rocky, complicated relationship started with Rhys saving my life and him walking away from Harper Security to be with Bridget. |
-| disagreements | 分歧；不一致 | The path between those points had been riddled with disagreements, barbs, and a strange mix of mutual respect and suspicion. |
-| bodyguards | 保镖；护卫 | The air dripped with silent danger, but no one seemed concerned except for the royal bodyguards shifting uneasily in the back of the room. |
+| friendship | 友谊；友情 | Our friendship. |
+| complicated | 复杂的；难处理的 | Our rocky, complicated relationship started with Rhys saving my life and him walking away from Harper Security to be with Bridget. |
 | fascination | 着迷；入迷 | Josh watched our back and forth with fascination from Rhys's other side while Alex scrolled through his phone, looking bored. |
-| intimately | 亲密地；密切地 | "It must be tiring, having your emotions so intimately connected with another's. |
 | disappeared | 消失；不见 | Josh's smile disappeared. |
-| acknowledged | 承认；认可 | We hadn't acknowledged each other beyond an obligatory nod of greeting. |
-| obligatory | 义务的；必须的 | We hadn't acknowledged each other beyond an obligatory nod of greeting. |
-| occasional | 偶尔的；间或的 | Other than our monthly chess matches and the occasional business interaction, we rarely saw each other. |
 | interaction | 互动；交流 | Other than our monthly chess matches and the occasional business interaction, we rarely saw each other. |
-| one-eighty | 一百八十度转弯；彻底改变 | "Obviously, I'm concerned," Josh said, doing a one-eighty as he directed his next question at me. |
-| inadvertently | 不经意地；无意地 | Magda had inadvertently fallen into his hands before Dante bought it off him, which meant I knew every single thing about Josh Chen. |
-| background | 背景；出身 | His family background, his grades in med school, his favorite basketball team and how he took his coffee. |
-| basketball | 篮球 | His family background, his grades in med school, his favorite basketball team and how he took his coffee. |
-| possession | 拥有；占有 | He was a golden boy with a dark streak, but not one I needed to concern myself with now that Magda was no longer in his possession. |
-| regretting | 后悔；遗憾 | I sighed, regretting my decision to attend this damned party. |
-| insufferable | 令人无法忍受的 | Anything was better than this insufferable conversation. |
 | speculative | 推测的；猜测的 | "You know…" Rhys's expression turned speculative. |
 | arrangement | 安排；协议 | Lowering her rent, agreeing to the dating arrangement, moving her into your house when some creep spooked her. |
-| irritation | 恼怒；烦躁 | "Only that of irritation at being interrogated. |
-| interrogated | 审问；质问 | "Only that of irritation at being interrogated. |
-| Deflection | 偏转；转移 | "Deflection. |
-| level-headed | 头脑冷静的；理智的 | Yet another sign that love turned the most level-headed of people into fools. |
 | Aggravation | 恼怒；烦躁 | Aggravation expanded in my chest. |
 | significant | 重要的；有意义的 | "Yet I have the girl and you're sitting on a couch arguing with her friends' significant others," Alex said mildly. |
-| frost-tipped | 霜冻的；冰冷的 | Alex closed his eyes briefly before he opened them and glared at me, his expression filled with frost-tipped venom. |
-| antisocial | 反社会的；不爱社交的 | It wasn't my fault he was so antisocial that his best friend freaked out at him spending time with someone else. |
-| evaporated | 蒸发；消失 | My temporary good mood evaporated. |
-| incompetence | 不称职；无能力 | If there was one thing I despised, besides incompetence and Valentine's Day, it was people digging into my personal business. |
-| self-respect | 自尊；自尊心 | Now, they were too whipped by their other halves to conduct themselves with a modicum of self-respect. |
-| nauseating | 令人作呕的；讨厌的 | It was nauseating. |
-| saccharine | 甜腻的；过于甜蜜的 | It wasn't sweet or saccharine. |
-| Eventually | 最终；终于 | Eventually, I would catch her, and once I did, I was never letting her go. |
+| conversation | 对话；交谈 | Anything was better than this insufferable conversation. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| conversation | 对话；交谈 | Anything was better than this insufferable conversation. |
-| relationship | 关系；关联 | Our rocky, complicated relationship started with Rhys saving my life and him walking away from Harper Security to be with Bridget. |
-| disagreements | 分歧；不一致 | The path between those points had been riddled with disagreements, barbs, and a strange mix of mutual respect and suspicion. |
+| absolutely | 绝对地；完全地 | Absolute power corrupts absolutely. |
 | bodyguards | 保镖；护卫 | The air dripped with silent danger, but no one seemed concerned except for the royal bodyguards shifting uneasily in the back of the room. |
+| intimately | 亲密地；密切地 | "It must be tiring, having your emotions so intimately connected with another's. |
+| obligatory | 义务的；必须的 | We hadn't acknowledged each other beyond an obligatory nod of greeting. |
+| occasional | 偶尔的；间或的 | Other than our monthly chess matches and the occasional business interaction, we rarely saw each other. |
 
 ## 一句话总结
 

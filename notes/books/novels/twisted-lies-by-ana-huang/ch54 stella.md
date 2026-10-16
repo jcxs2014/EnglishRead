@@ -85,52 +85,38 @@ pov: "Stella"
 | Originally | 最初；原来 | Originally, Alex had wanted no groomsmen other than a best man, but Ava had convinced him otherwise. |
 | instructor | 教练；讲师 | Ralph was Alex's old Krav Maga instructor and the closest Alex and Ava had to a parent these days. |
 | Thanksgiving | 感恩节 | They visited him every Thanksgiving, and his face glowed with emotion as if she were his real daughter. |
-| containing | 包含；容纳 | I didn't look at her, afraid any movement would break the well containing my tears. |
-| waterproof | 防水的；不透水的 | But our mascara is waterproof, so it's okay. |
-| incredible | 难以置信的；惊人的 | Seeing them overcome all of that to finally be together was incredible. |
 | intensified | 加剧；加强 | It intensified when Ava reached the altar, and he murmured something that made her cheeks pink with pleasure. |
 | affectionate | 亲爱的；充满爱意的 | And I mean that in the most affectionate way. |
-| spluttered | 溅射；飞溅 | I spluttered at the mention of Ava's bachelorette trip. |
-| blossoming | 绽放；盛开 | He kissed Ava's forehead, and she snuggled into his side, her smile blossoming so wide it made me smile. |
-| mentioning | 提到；提及 | "Last night," Bridget said smoothly before Jules could rupture Alex's artery by mentioning. |
-| enveloping | 包裹；笼罩 | He wrapped his arms around me from behind, enveloping me with warmth and spice. |
 | expressions | 表情；表达 | "Your guilty expressions give it away every time. |
-| Apparently | 显然；看来 | Apparently, Alex had looked out for his business or something during our Italy trip. |
-| Seychelles | 塞舌尔 | Alex and Ava left for their safari/beach honeymoon in Kenya and the Seychelles tomorrow. |
-| aquaphobia | 恐水症；恐水 | There was a time when Ava's aquaphobia prevented her from even going near the water, but she'd overcome it over the years with Alex's help. |
-| disturbing | 令人不安的；令人困扰的 | "That would be disturbing in so many ways," Bridget added. |
 | appreciates | 欣赏；感激 | "No one appreciates my good ideas," Josh muttered. |
 | acknowledged | 承认；确认 | "They're…unique," I acknowledged with a laugh. |
-| friendship | 友谊；友情 | In fact, our friendship had strengthened after being tested by real life. |
 | strengthened | 加强；增强 | In fact, our friendship had strengthened after being tested by real life. |
-| cheekbones | 颧骨 | Color rose on Rhys's cheekbones. |
-| expression | 表情；表达 | Men, she mouthed, her expression one of exasperated affection. |
 | exasperated | 恼怒的；恼火的 | Men, she mouthed, her expression one of exasperated affection. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| gorgeous | 华丽的；美丽的 | Alex and Ava's wedding took place in early October, at a gorgeous vineyard in Vermont. |
-| vineyard | 葡萄园 | Alex and Ava's wedding took place in early October, at a gorgeous vineyard in Vermont. |
-| groomsmen | 伴郎；傧相 | Originally, Alex had wanted no groomsmen other than a best man, but Ava had convinced him otherwise. |
-| convinced | 说服；使信服 | Originally, Alex had wanted no groomsmen other than a best man, but Ava had convinced him otherwise. |
-| familiar | 熟悉的 | A rustle of leaves kicked up before the familiar strains of the wedding march filled the air and Ava appeared. |
-| appeared | 出现；显现 | A rustle of leaves kicked up before the familiar strains of the wedding march filled the air and Ava appeared. |
-| moisture | 水分；湿气 | I didn't cry in public often, but moisture prickled my eyes when she walked down the aisle on Ralph's arm. |
-| prickled | 刺痛；刺痒 | I didn't cry in public often, but moisture prickled my eyes when she walked down the aisle on Ralph's arm. |
-| daughter | 女儿 | They visited him every Thanksgiving, and his face glowed with emotion as if she were his real daughter. |
-| movement | 移动；运动 | I didn't look at her, afraid any movement would break the well containing my tears. |
-| brighter | 更明亮的；更光亮的 | Her face was radiant, her eyes bright and her smile brighter still. |
+| containing | 包含；容纳 | I didn't look at her, afraid any movement would break the well containing my tears. |
+| waterproof | 防水的；不透水的 | But our mascara is waterproof, so it's okay. |
+| incredible | 难以置信的；惊人的 | Seeing them overcome all of that to finally be together was incredible. |
+| spluttered | 溅射；飞溅 | I spluttered at the mention of Ava's bachelorette trip. |
+| blossoming | 绽放；盛开 | He kissed Ava's forehead, and she snuggled into his side, her smile blossoming so wide it made me smile. |
+| mentioning | 提到；提及 | "Last night," Bridget said smoothly before Jules could rupture Alex's artery by mentioning. |
+| enveloping | 包裹；笼罩 | He wrapped his arms around me from behind, enveloping me with warmth and spice. |
+| Apparently | 显然；看来 | Apparently, Alex had looked out for his business or something during our Italy trip. |
+| Seychelles | 塞舌尔 | Alex and Ava left for their safari/beach honeymoon in Kenya and the Seychelles tomorrow. |
+| aquaphobia | 恐水症；恐水 | There was a time when Ava's aquaphobia prevented her from even going near the water, but she'd overcome it over the years with Alex's help. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| Originally | 最初；原来 | Originally, Alex had wanted no groomsmen other than a best man, but Ava had convinced him otherwise. |
-| instructor | 教练；讲师 | Ralph was Alex's old Krav Maga instructor and the closest Alex and Ava had to a parent these days. |
-| Thanksgiving | 感恩节 | They visited him every Thanksgiving, and his face glowed with emotion as if she were his real daughter. |
-| containing | 包含；容纳 | I didn't look at her, afraid any movement would break the well containing my tears. |
+| disturbing | 令人不安的；令人困扰的 | "That would be disturbing in so many ways," Bridget added. |
+| friendship | 友谊；友情 | In fact, our friendship had strengthened after being tested by real life. |
+| cheekbones | 颧骨 | Color rose on Rhys's cheekbones. |
+| expression | 表情；表达 | Men, she mouthed, her expression one of exasperated affection. |
+| groomsmen | 伴郎；傧相 | Originally, Alex had wanted no groomsmen other than a best man, but Ava had convinced him otherwise. |
 
 ## 一句话总结
 

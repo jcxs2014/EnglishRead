@@ -83,56 +83,40 @@ pov: "Christian"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | self-loathing | 自我厌恶；自我憎恨 | Scotch, self-loathing, and anger burned through my blood while the brunette next to me chattered on. |
-| fluttering | 飘动；振翅 | Neither had the women fluttering around me, all of them beautiful and accomplished in their own right. |
 | accomplished | 有成就的；完成的 | Neither had the women fluttering around me, all of them beautiful and accomplished in their own right. |
-| supermodel | 超模 | A supermodel who seemed unconcerned about abandoning the media magnate she'd showed up with. |
 | unconcerned | 不关心的；无动于衷的 | A supermodel who seemed unconcerned about abandoning the media magnate she'd showed up with. |
-| abandoning | 抛弃；放弃 | A supermodel who seemed unconcerned about abandoning the media magnate she'd showed up with. |
 | frustrations | 挫折；沮丧 | Part of me was tempted to take her up on her offer and drown my frustrations with heat and sex. |
-| supermodels | 超模 | No supermodels or sex could erase Stella from my mind for a single fucking second. |
-| Aggravation | 恼怒；烦躁 | Aggravation tunneled through my veins. |
-| displeasure | 不悦；不满 | He barreled toward us, his face clouded with dark displeasure. |
-| consisting | 由…组成；由…构成 | Victor Black, CEO of a media empire consisting of dozens of trashy but widely read newspapers and websites. |
 | Unfortunately | 不幸地；遗憾的是 | Unfortunately, the relief I gained from fucking with Victor was short-lived. |
-| short-lived | 短暂的；短命的 | Unfortunately, the relief I gained from fucking with Victor was short-lived. |
-| tightening | 收紧；绷紧 | If Stella sensed the danger gathering behind her, she didn't show it beyond a further tightening of her shoulders. |
-| languorous | 慵懒的；缓慢的 | "Every laugh I don't hear…" My touch dipped to her knee and made a slow, languorous journey up her thigh. |
-| threatened | 威胁；恐吓 | The air swirled with uncaged desires so potent they threatened to consume us both. |
-| altogether | 完全地；总共 | Stella had stopped sketching altogether. |
-| hesitation | 犹豫；迟疑 | A beat of hesitation. |
 | consciousness | 意识；知觉 | Stella had seared so deep into my consciousness that she was all I could smell. |
-| condemning | 谴责；定罪 | I was well aware of the fact that, should either of us cave, I would be condemning not only myself but her to hell. |
-| harshening | 变严厉；变刺耳 | I closed my eyes, my grip tight and my breath harshening. |
-| protection | 保护；防护 | Despite what I'd told her, a locked door wouldn't be much protection. |
+| conversation | 对话；交谈 | Before the model could respond, her date finally noticed she'd wandered off after he finished his conversation with another club member. |
+| hundred-dollar | 一百美元的 | A hint of panic crept into his eyes as I stood and dropped a hundred-dollar bill in the tip jar. |
+| straightened | 整理；挺直 | I tucked my phone into my pocket and straightened my jacket as I stepped out of the car. |
+| floor-length | 及地的；拖地的 | Her pencil flew over the page, sketching and shading in the details of a floor-length gown without pause. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| brunette | 棕发女人 | Scotch, self-loathing, and anger burned through my blood while the brunette next to me chattered on. |
-| chattered | 喋喋不休；唠叨 | Scotch, self-loathing, and anger burned through my blood while the brunette next to me chattered on. |
-| apartment | 公寓 | Three hours and twice as many drinks hadn't thawed the black ice coating my veins since I left Stella alone in the apartment. |
-| beautiful | 美丽的；漂亮的 | Neither had the women fluttering around me, all of them beautiful and accomplished in their own right. |
-| cosmetics | 化妆品 | A cosmetics tycoon. |
-| observed | 观察；注意到 | I ran a thumb along the rim of my glass and observed her in silence. |
-| scrutiny | 仔细审查；细看 | Her skin flushed a faint red beneath my scrutiny. |
-| conversation | 对话；交谈 | Before the model could respond, her date finally noticed she'd wandered off after he finished his conversation with another club member. |
-| interested | 感兴趣的；关心的 | "Not interested. |
-| newspapers | 报纸 | Victor Black, CEO of a media empire consisting of dozens of trashy but widely read newspapers and websites. |
-| hundred-dollar | 一百美元的 | A hint of panic crept into his eyes as I stood and dropped a hundred-dollar bill in the tip jar. |
-| straightened | 整理；挺直 | I tucked my phone into my pocket and straightened my jacket as I stepped out of the car. |
-| floor-length | 及地的；拖地的 | Her pencil flew over the page, sketching and shading in the details of a floor-length gown without pause. |
-| altogether | 完全地；总共 | Stella had stopped sketching altogether. |
+| fluttering | 飘动；振翅 | Neither had the women fluttering around me, all of them beautiful and accomplished in their own right. |
+| supermodel | 超模 | A supermodel who seemed unconcerned about abandoning the media magnate she'd showed up with. |
+| abandoning | 抛弃；放弃 | A supermodel who seemed unconcerned about abandoning the media magnate she'd showed up with. |
+| supermodels | 超模 | No supermodels or sex could erase Stella from my mind for a single fucking second. |
+| Aggravation | 恼怒；烦躁 | Aggravation tunneled through my veins. |
+| displeasure | 不悦；不满 | He barreled toward us, his face clouded with dark displeasure. |
+| consisting | 由…组成；由…构成 | Victor Black, CEO of a media empire consisting of dozens of trashy but widely read newspapers and websites. |
+| short-lived | 短暂的；短命的 | Unfortunately, the relief I gained from fucking with Victor was short-lived. |
+| tightening | 收紧；绷紧 | If Stella sensed the danger gathering behind her, she didn't show it beyond a further tightening of her shoulders. |
+| languorous | 慵懒的；缓慢的 | "Every laugh I don't hear…" My touch dipped to her knee and made a slow, languorous journey up her thigh. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| conversation | 对话；交谈 | Before the model could respond, her date finally noticed she'd wandered off after he finished his conversation with another club member. |
-| interested | 感兴趣的；关心的 | "Not interested. |
-| displeasure | 不悦；不满 | He barreled toward us, his face clouded with dark displeasure. |
-| consisting | 由…组成；由…构成 | Victor Black, CEO of a media empire consisting of dozens of trashy but widely read newspapers and websites. |
-| Unfortunately | 不幸地；遗憾的是 | Unfortunately, the relief I gained from fucking with Victor was short-lived. |
+| threatened | 威胁；恐吓 | The air swirled with uncaged desires so potent they threatened to consume us both. |
+| altogether | 完全地；总共 | Stella had stopped sketching altogether. |
+| hesitation | 犹豫；迟疑 | A beat of hesitation. |
+| condemning | 谴责；定罪 | I was well aware of the fact that, should either of us cave, I would be condemning not only myself but her to hell. |
+| harshening | 变严厉；变刺耳 | I closed my eyes, my grip tight and my breath harshening. |
 
 ## 一句话总结
 

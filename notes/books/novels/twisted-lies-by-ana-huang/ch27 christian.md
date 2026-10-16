@@ -85,52 +85,38 @@ pov: "Christian"
 | threatening | 威胁；恐吓 | "Not threatening, sir. |
 | deferential | 恭敬的；顺从的 | The contrast between my polite tone and the tension crackling in the air drenched an otherwise deferential address with mockery. |
 | guilt-tripping | 内疚诱导；让人内疚 | But what I would not tolerate was anyone, even Stella's flesh and blood, guilt-tripping her into giving an apology they didn't deserve. |
-| supporting | 支持；支撑 | Instead of supporting her, you attacked her. |
 | embarrassed | 尴尬的；窘迫的 | Because you're embarrassed to have a child who dared stray from the rigid path you yourself took? |
-| vindictive | 恶意的；报复性的 | Style in such a cruel, vindictive manner. |
 | insecurities | 不安全感；不安 | How many of Stella's insecurities had stemmed from growing up in such a judgmental household? |
-| judgmental | 评判性的；爱批评的 | How many of Stella's insecurities had stemmed from growing up in such a judgmental household? |
-| reputation | 名声；声誉 | I know your reputation, Christian Harper. |
-| upstanding | 正直的；诚实的 | You pretend you're an upstanding businessman, but you're a snake in the grass. |
 | businessman | 商人；企业家 | You pretend you're an upstanding businessman, but you're a snake in the grass. |
-| protection | 保护；防护 | He was Stella's father, which offered him some degree of protection. |
-| experience | 经验；经历 | Here's what I know from firsthand experience: he's been nothing except helpful since we've met. |
-| encouraged | 鼓励；激励 | He encouraged me to follow my dreams and believed in me when I didn't believe in myself. |
 | rose-tinted | 玫瑰色的；理想化的 | But after seeing myself through her rose-tinted glasses, I wished, for the first time in my life, that I was the man she thought I was. |
 | all-encompassing | 全面的；包罗万象的 | His fury was a quiet thing, but it was all-encompassing in its intensity. |
-| interloper | 闯入者；不受欢迎的人 | Silence followed us into the car and onto the road like an unwanted interloper, but I let it sit until Stella broke it herself. |
 | dysfunction | 功能障碍；功能失调 | My family puts the dys in dysfunction. |
 | dysfunctional | 功能失调的；不正常的 | If she thought her family was dysfunctional, wait till she learned about mine. |
-| assessment | 评估；评价 | I would've laughed at her assessment had it not sharpened the pang into a blade that slotted neatly between my ribcage. |
-| inherently | 本质上；天生地 | I usually scoffed at those who were naive enough to believe people were inherently good when there was so much evil in the world. |
-| unwavering | 坚定的；不动摇的 | But for some reason, Stella's unwavering belief in the goodness of people struck a chord inside me I hadn't known existed. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| contrast | 对比；对照 | The contrast between my polite tone and the tension crackling in the air drenched an otherwise deferential address with mockery. |
-| crackling | 噼啪声；爆裂声 | The contrast between my polite tone and the tension crackling in the air drenched an otherwise deferential address with mockery. |
-| drenched | 浸透；湿透 | The contrast between my polite tone and the tension crackling in the air drenched an otherwise deferential address with mockery. |
-| stilling | 使静止；使平静 | I rested my hand on Stella's thigh beneath the table, stilling her. |
-| trembled | 颤抖；发抖 | She'd done an admirable job of keeping her expression calm, but tiny shivers trembled under my touch. |
-| injustice | 不公正；冤枉 | It wasn't in my nature to sit quietly when faced with injustice done to me, and every fucking slight against Stella was a slight against me. |
-| personal | 个人的；私人的 | But to her, this was a personal issue with her family. |
-| stepping | 介入；插手 | She needed to stand up to them and say her piece without anyone else stepping in. |
-| tolerate | 容忍；忍受 | But what I would not tolerate was anyone, even Stella's flesh and blood, guilt-tripping her into giving an apology they didn't deserve. |
-| pleasant | 愉快的；宜人的 | I fixed Jarvis with a pleasant smile that didn't match my icy tone. |
-| wondering | 想知道；疑惑 | "If you're wondering why your daughter would keep things from you, look in the mirror," I said. |
-| daughter | 女儿 | "If you're wondering why your daughter would keep things from you, look in the mirror," I said. |
+| supporting | 支持；支撑 | Instead of supporting her, you attacked her. |
+| vindictive | 恶意的；报复性的 | Style in such a cruel, vindictive manner. |
+| judgmental | 评判性的；爱批评的 | How many of Stella's insecurities had stemmed from growing up in such a judgmental household? |
+| reputation | 名声；声誉 | I know your reputation, Christian Harper. |
+| upstanding | 正直的；诚实的 | You pretend you're an upstanding businessman, but you're a snake in the grass. |
+| protection | 保护；防护 | He was Stella's father, which offered him some degree of protection. |
+| experience | 经验；经历 | Here's what I know from firsthand experience: he's been nothing except helpful since we've met. |
+| encouraged | 鼓励；激励 | He encouraged me to follow my dreams and believed in me when I didn't believe in myself. |
+| interloper | 闯入者；不受欢迎的人 | Silence followed us into the car and onto the road like an unwanted interloper, but I let it sit until Stella broke it herself. |
+| assessment | 评估；评价 | I would've laughed at her assessment had it not sharpened the pang into a blade that slotted neatly between my ribcage. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| inherently | 本质上；天生地 | I usually scoffed at those who were naive enough to believe people were inherently good when there was so much evil in the world. |
+| unwavering | 坚定的；不动摇的 | But for some reason, Stella's unwavering belief in the goodness of people struck a chord inside me I hadn't known existed. |
+| crackling | 噼啪声；爆裂声 | The contrast between my polite tone and the tension crackling in the air drenched an otherwise deferential address with mockery. |
+| injustice | 不公正；冤枉 | It wasn't in my nature to sit quietly when faced with injustice done to me, and every fucking slight against Stella was a slight against me. |
 | expression | 表情；神色 | She'd done an admirable job of keeping her expression calm, but tiny shivers trembled under my touch. |
-| guilt-tripping | 内疚诱导；让人内疚 | But what I would not tolerate was anyone, even Stella's flesh and blood, guilt-tripping her into giving an apology they didn't deserve. |
-| supporting | 支持；支撑 | Instead of supporting her, you attacked her. |
-| embarrassed | 尴尬的；窘迫的 | Because you're embarrassed to have a child who dared stray from the rigid path you yourself took? |
-| vindictive | 恶意的；报复性的 | Style in such a cruel, vindictive manner. |
 
 ## 一句话总结
 

@@ -83,99 +83,40 @@ pov: "Christian"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | underground | 地下；秘密的 | The stalker went underground again during our trip to Italy, as expected. |
-| ego-induced | 自我引起的；自负导致的 | An ego-induced mistake that'd compelled him to prove he wasn't scared of me and that he wasn't going away. |
-| effectively | 有效地；实际上 | However, I needed to flush out the traitor first before I could deal with him effectively. |
-| tournament | 锦标赛；比赛 | Harper Security's annual poker tournament was coming up in a few weeks. |
-| relaxation | 放松；休息 | It was the one time of year when almost every employee could gather in one place for a night of fun and relaxation. |
-| fundamental | 基本的；根本的 | One of my fundamental life beliefs had fractured, and I hadn't had time to process. |
-| eventually | 最终；终于 | When I eventually said the words, I wanted them to be real. |
-| collection | 收藏；系列 | Usually, Stella was in the living room taking photos or working on her collection. |
 | disinfectant | 消毒剂；杀菌剂 | That presence was gone, replaced with the lemony scent of disinfectant. |
 | particularly | 特别地；尤其地 | She only did that when she was particularly stressed. |
 | conditioning | 条件反射；训练 | The air conditioning was on full blast, yet I was burning up. |
-| foreboding | 预感；不祥之兆 | Cold foreboding splashed the back of my neck. |
-| distinctive | 独特的；有特色的 | The first thing I noticed was the spill of papers on my desk, along with three plain but distinctive black binders. |
-| sweetheart | 甜心；宝贝 | Goddammit, sweetheart, where the hell are you? |
-| toiletries | 洗漱用品；化妆品 | Her toiletries. |
 | interrupting | 打断；打扰 | "You're interrupting our lunch. |
-| frustration | 沮丧；挫折 | Loosened tie, no jacket, hair rumpled from the number of times I'd raked my fingers through it in frustration. |
-| expression | 表情；神色 | I glared at Alex, who stared back with a bored expression. |
 | confirmation | 确认；证实 | The confirmation that Stella was inside renewed my fire. |
-| Desperation | 绝望；拼命 | Desperation and something heavier, more foreign settled in my chest. |
 | surprisingly | 令人惊讶地；出乎意料地 | For someone so small, she was surprisingly strong. |
-| acknowledge | 承认；确认 | She didn't acknowledge me. |
-| reluctance | 不情愿；勉强 | Ava released the doorknob and stepped aside with obvious reluctance. |
-| immediately | 立即；马上 | I immediately pushed past her and ignored her and Alex's warning stares as I followed Stella deeper into the apartment. |
-| responsible | 负责的；有责任的 | The thought that I was responsible for her tears made my heart ache in the most painful way. |
 | questionable | 可疑的；有问题的 | I'd done plenty of morally questionable and downright awful things in my life, but I would never terrify her like that. |
-| interesting | 有趣的；有意思的 | I'd been bored all day, but this…this was interesting. |
-| fascinated | 着迷的；入迷的 | I tuned him out as he closed out the case and examined the brunette, fascinated. |
-| enthralled | 着迷的；入迷的 | She was gorgeous, but that wasn't what enthralled me. |
-| gentleness | 温柔；优雅 | It was the gentleness with which she spoke. |
-| unwavering | 坚定的；不动摇的 | The unwavering optimism in her eyes even when an attempted robbery in broad daylight should've shaken her faith in humanity. |
 | expectations | 期望；期待 | If there was one thing that never failed to spark my interest, it was people who subverted my expectations. |
-| disappeared | 消失；不见 | Instead, I waited until she disappeared around the corner before I walked over and retrieved the turquoise ring from the ground. |
-| background | 背景；经历 | So I looked into your background. |
-| information | 信息；消息 | "It started with basic background information, but it spiraled until it turned into what you saw. |
 | contradiction | 矛盾；对立 | She was a living contradiction, and she'd consumed my thoughts in a way no one and nothing had before or since. |
-| physically | 身体上地；物理上地 | I hadn't followed her physically, but I'd used all the tools at my disposal to dig through her life. |
-| off-limits | 禁止的；不可触碰的 | Nothing and no one around her had been off-limits. |
-| traditional | 传统的；惯例的 | It wasn't stalking in the traditional sense, but I'd crossed massive boundaries, nonetheless. |
-| boundaries | 界限；边界 | It wasn't stalking in the traditional sense, but I'd crossed massive boundaries, nonetheless. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| underground | 地下；秘密的 | The stalker went underground again during our trip to Italy, as expected. |
 | ego-induced | 自我引起的；自负导致的 | An ego-induced mistake that'd compelled him to prove he wasn't scared of me and that he wasn't going away. |
 | effectively | 有效地；实际上 | However, I needed to flush out the traitor first before I could deal with him effectively. |
-| tournament | 锦标赛；比赛 | Harper Security's annual poker tournament was coming up in a few weeks. |
-| relaxation | 放松；休息 | It was the one time of year when almost every employee could gather in one place for a night of fun and relaxation. |
 | fundamental | 基本的；根本的 | One of my fundamental life beliefs had fractured, and I hadn't had time to process. |
-| eventually | 最终；终于 | When I eventually said the words, I wanted them to be real. |
-| collection | 收藏；系列 | Usually, Stella was in the living room taking photos or working on her collection. |
-| disinfectant | 消毒剂；杀菌剂 | That presence was gone, replaced with the lemony scent of disinfectant. |
-| particularly | 特别地；尤其地 | She only did that when she was particularly stressed. |
-| conditioning | 条件反射；训练 | The air conditioning was on full blast, yet I was burning up. |
-| foreboding | 预感；不祥之兆 | Cold foreboding splashed the back of my neck. |
 | distinctive | 独特的；有特色的 | The first thing I noticed was the spill of papers on my desk, along with three plain but distinctive black binders. |
-| sweetheart | 甜心；宝贝 | Goddammit, sweetheart, where the hell are you? |
-| toiletries | 洗漱用品；化妆品 | Her toiletries. |
-| interrupting | 打断；打扰 | "You're interrupting our lunch. |
 | frustration | 沮丧；挫折 | Loosened tie, no jacket, hair rumpled from the number of times I'd raked my fingers through it in frustration. |
-| expression | 表情；神色 | I glared at Alex, who stared back with a bored expression. |
-| confirmation | 确认；证实 | The confirmation that Stella was inside renewed my fire. |
 | Desperation | 绝望；拼命 | Desperation and something heavier, more foreign settled in my chest. |
-| surprisingly | 令人惊讶地；出乎意料地 | For someone so small, she was surprisingly strong. |
 | acknowledge | 承认；确认 | She didn't acknowledge me. |
-| reluctance | 不情愿；勉强 | Ava released the doorknob and stepped aside with obvious reluctance. |
 | immediately | 立即；马上 | I immediately pushed past her and ignored her and Alex's warning stares as I followed Stella deeper into the apartment. |
 | responsible | 负责的；有责任的 | The thought that I was responsible for her tears made my heart ache in the most painful way. |
-| questionable | 可疑的；有问题的 | I'd done plenty of morally questionable and downright awful things in my life, but I would never terrify her like that. |
 | interesting | 有趣的；有意思的 | I'd been bored all day, but this…this was interesting. |
-| fascinated | 着迷的；入迷的 | I tuned him out as he closed out the case and examined the brunette, fascinated. |
-| enthralled | 着迷的；入迷的 | She was gorgeous, but that wasn't what enthralled me. |
-| gentleness | 温柔；优雅 | It was the gentleness with which she spoke. |
-| unwavering | 坚定的；不动摇的 | The unwavering optimism in her eyes even when an attempted robbery in broad daylight should've shaken her faith in humanity. |
-| expectations | 期望；期待 | If there was one thing that never failed to spark my interest, it was people who subverted my expectations. |
-| disappeared | 消失；不见 | Instead, I waited until she disappeared around the corner before I walked over and retrieved the turquoise ring from the ground. |
-| background | 背景；经历 | So I looked into your background. |
-| information | 信息；消息 | "It started with basic background information, but it spiraled until it turned into what you saw. |
-| contradiction | 矛盾；对立 | She was a living contradiction, and she'd consumed my thoughts in a way no one and nothing had before or since. |
-| physically | 身体上地；物理上地 | I hadn't followed her physically, but I'd used all the tools at my disposal to dig through her life. |
-| off-limits | 禁止的；不可触碰的 | Nothing and no one around her had been off-limits. |
-| traditional | 传统的；惯例的 | It wasn't stalking in the traditional sense, but I'd crossed massive boundaries, nonetheless. |
-| boundaries | 界限；边界 | It wasn't stalking in the traditional sense, but I'd crossed massive boundaries, nonetheless. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| fundamental | 基本的；根本的 | One of my fundamental life beliefs had fractured, and I hadn't had time to process. |
-| eventually | 最终；终于 | When I eventually said the words, I wanted them to be real. |
-| collection | 收藏；系列 | Usually, Stella was in the living room taking photos or working on her collection. |
-| disinfectant | 消毒剂；杀菌剂 | That presence was gone, replaced with the lemony scent of disinfectant. |
+| tournament | 锦标赛；比赛 | Harper Security's annual poker tournament was coming up in a few weeks. |
+| relaxation | 放松；休息 | It was the one time of year when almost every employee could gather in one place for a night of fun and relaxation. |
+| disappeared | 消失；不见 | Instead, I waited until she disappeared around the corner before I walked over and retrieved the turquoise ring from the ground. |
+| information | 信息；消息 | "It started with basic background information, but it spiraled until it turned into what you saw. |
+| traditional | 传统的；惯例的 | It wasn't stalking in the traditional sense, but I'd crossed massive boundaries, nonetheless. |
 
 ## 一句话总结
 

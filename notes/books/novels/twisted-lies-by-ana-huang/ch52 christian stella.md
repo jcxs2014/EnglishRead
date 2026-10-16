@@ -86,51 +86,37 @@ pov: "Christian/Stella"
 | soundproofed | 隔音的；隔声的 | Remote, soundproofed, and guarded enough that an ant couldn't crawl across the floor without me knowing. |
 | comfortably | 舒适地；舒服地 | I couldn't have him waiting too comfortably while I tended to Stella. |
 | unrecognizable | 无法辨认的；认不出的 | Julian's face was so beaten up it was unrecognizable, but the heat of his glare made me smile. |
-| relatively | 相对地；比较地 | My men had been relatively soft with him. |
 | conversational | 对话的；会话的 | Cool, calm, even conversational as I worked on the subject. |
 | disappointing | 令人失望的；令人扫兴的 | That was all it took for his fight to melt like ice cream on hot concrete, which was disappointing. |
-| satisfying | 令人满意的；令人满足的 | Breaking them down was so much more satisfying when they didn't bend so quickly. |
 | illuminating | 照亮的；照明的 | Another howl rattled the bare bulb illuminating the space. |
-| overworked | 过度工作的；过劳的 | Perhaps I would've, had I not returned to the table to swap my dull, overworked knife for a fresh one and saw the message waiting for me. |
-| splattered | 溅出的；溅射的 | I was drenched with sweat and splattered with blood. |
 | strategically | 战略上地；策略地 | Three strategically placed shots later, Stella's stalker was nothing more than a lifeless, bloodied heap of flesh. |
 | comfortable | 舒适的；舒服的 | The torture didn't faze them; they were even more comfortable with the warehouse sessions than I was. |
-| detainment | 拘留；扣押 | It was why I'd selected them to oversee Julian's detainment. |
 | restructure | 重组；重建 | Change access codes, restructure teams. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| relatively | 相对地；比较地 | My men had been relatively soft with him. |
+| satisfying | 令人满意的；令人满足的 | Breaking them down was so much more satisfying when they didn't bend so quickly. |
+| overworked | 过度工作的；过劳的 | Perhaps I would've, had I not returned to the table to swap my dull, overworked knife for a fresh one and saw the message waiting for me. |
+| splattered | 溅出的；溅射的 | I was drenched with sweat and splattered with blood. |
+| detainment | 拘留；扣押 | It was why I'd selected them to oversee Julian's detainment. |
 | threatened | 威胁；恐吓 | The storm in Christian's eyes threatened to suck me into its vortex. |
 | quickening | 加速；加快 | He went still, his muscles taut and his breaths quickening as I kissed my way up his jaw to the corner of his mouth. |
 | separation | 分离；分开 | An easing into the waters after our separation and a comfort after a hellish day. |
 | desperation | 绝望；拼命 | This one was passion and desperation, a thorough reclaiming of what we were and the birth of what we could be. |
 | reclaiming | 重新占有；回收 | This one was passion and desperation, a thorough reclaiming of what we were and the birth of what we could be. |
 
-### ⭐⭐ 进阶
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | examined | 检查；审查 | I examined Stella's stalker, who was strung up with heavy cuffs locking his arms and legs into a vertical spread-eagle position. |
 | vertical | 垂直的；竖直的 | I examined Stella's stalker, who was strung up with heavy cuffs locking his arms and legs into a vertical spread-eagle position. |
 | position | 位置；职位 | I examined Stella's stalker, who was strung up with heavy cuffs locking his arms and legs into a vertical spread-eagle position. |
-| abstract | 抽象的；摘要的 | Nails pinned his palms to the wall behind them, while black and blue bruises mottled his body like an obscene piece of abstract art. |
-| specific | 特定的；具体的 | We were in the warehouse I'd bought for this specific purpose. |
-| prepping | 准备；预备 | I only needed a few who were, and they'd done their job prepping the bastard for me. |
-| concrete | 混凝土；具体 | A small pool of blood stained the smooth gray concrete. |
-| knuckles | 指关节；指节 | Brass knuckles. |
-| security | 安全；保障 | It must've given him a false sense of security that what he'd gone through was as bad as it got. |
-| Honestly | 老实说；诚实地 | Honestly. |
 | versatile | 多才多艺的；通用的 | They were lethal, precise, versatile. |
-| rivulets | 细流；小溪 | Blood welled and snaked down his body like thin rivulets of red. |
 | collapsed | 崩溃；倒塌 | I paused at the soft flesh of his belly, then rammed the blade in so hard he would've collapsed had he not been strung up. |
-| followed | 跟随；接着 | An inhuman scream ripped from his throat, followed by a second scream when I yanked the knife out. |
-| selected | 选择；挑选 | And your biggest mistake…" I dropped the bloodied knife on the table and selected a meat cleaver. |
-
-### ⭐ 基础
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| spread-eagle | 四肢张开；伸展 | I examined Stella's stalker, who was strung up with heavy cuffs locking his arms and legs into a vertical spread-eagle position. |
-| soundproofed | 隔音的；隔声的 | Remote, soundproofed, and guarded enough that an ant couldn't crawl across the floor without me knowing. |
-| comfortably | 舒适地；舒服地 | I couldn't have him waiting too comfortably while I tended to Stella. |
-| unrecognizable | 无法辨认的；认不出的 | Julian's face was so beaten up it was unrecognizable, but the heat of his glare made me smile. |
 
 ## 一句话总结
 

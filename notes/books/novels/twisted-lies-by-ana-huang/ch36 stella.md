@@ -82,56 +82,41 @@ pov: "Stella"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| Washington | 华盛顿 | We'd just finished our last interview for my Washington Weekly profile. |
-| additional | 额外的；附加的 | Let me know if you have any additional questions," I said warmly. |
 | twenty-four | 二十四 | It was late afternoon, but I felt like I'd been up for twenty-four hours straight. |
-| collection | 收藏；系列 | I'd finished all the samples for my collection last week and had spent the day taking photos of them for future marketing materials. |
 | photoshoots | 拍照；摄影 | I was used to photoshoots, but I hadn't realized how much harder it was to take product photos for a website versus a blog. |
 | straightened | 挺直；整理 | I straightened and lit up when Christian walked in. |
-| understood | 理解；明白 | I finally understood why my friends gushed over their significant others. |
 | significant | 重要的；有意义的 | I finally understood why my friends gushed over their significant others. |
 | butterflies | 蝴蝶；紧张感 | Every time I saw him or heard his voice, the butterflies went crazy. |
-| brightened | 变亮；高兴起来 | I brightened further. |
 | inordinately | 过度地；非常地 | The sight of the two glass jars made me inordinately happy. |
-| irritation | 刺激；恼怒 | "Just a minor irritation at work. |
-| meditation | 冥想；沉思 | Despite my best efforts to convince him, he also refused to take up yoga or meditation. |
-| initiating | 开始；发起 | Christian and I took turns initiating sex, but I'd never been so bold about it. |
-| Eventually | 最终；终于 | Eventually, however, I took him to the hilt and stayed there for a minute with my lips stretched wide against the base of his shaft. |
 | comfortable | 舒适的；舒服的 | Slowly at first, then faster as I got more comfortable with his size and the angle. |
-| sweetheart | 甜心；宝贝 | "That feels so fucking good, sweetheart. |
 | satisfaction | 满意；满足 | I moaned with satisfaction and redoubled my efforts. |
 | unmistakable | 明显的；不会弄错的 | I heard the tear of lace and the unmistakable rip of foil. |
 | crescendoed | 渐强；达到高潮 | The filthy symphony swirled around us, dragging me higher and higher until I crescendoed toward orgasm. |
-| Electricity | 电流；电 | Electricity replaced the blood in my veins. |
-| restraints | 约束；限制 | It crashed through its restraints and consumed me whole, sending a wave of heat from the top of my head to the tips of my toes. |
-| vulnerable | 脆弱的；易受伤害的 | The words hit me somewhere deep and vulnerable. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| finished | 完成；结束 | We'd just finished our last interview for my Washington Weekly profile. |
-| interview | 采访；面试 | We'd just finished our last interview for my Washington Weekly profile. |
-| questions | 问题；疑问 | Let me know if you have any additional questions," I said warmly. |
-| stretched | 拉伸；伸展 | I hung up and stretched with a yawn. |
-| afternoon | 下午 | It was late afternoon, but I felt like I'd been up for twenty-four hours straight. |
-| straight | 直的；直接的 | It was late afternoon, but I felt like I'd been up for twenty-four hours straight. |
-| marketing | 营销；市场 | I'd finished all the samples for my collection last week and had spent the day taking photos of them for future marketing materials. |
-| materials | 材料；素材 | I'd finished all the samples for my collection last week and had spent the day taking photos of them for future marketing materials. |
-| realized | 意识到；认识到 | I was used to photoshoots, but I hadn't realized how much harder it was to take product photos for a website versus a blog. |
-| scattered | 分散；散落 | Pieces from the shoot were scattered all over the room, including props, clothing, and camera equipment. |
-| including | 包括；包含 | Pieces from the shoot were scattered all over the room, including props, clothing, and camera equipment. |
-| clothing | 衣服；服装 | Pieces from the shoot were scattered all over the room, including props, clothing, and camera equipment. |
+| Washington | 华盛顿 | We'd just finished our last interview for my Washington Weekly profile. |
+| additional | 额外的；附加的 | Let me know if you have any additional questions," I said warmly. |
+| collection | 收藏；系列 | I'd finished all the samples for my collection last week and had spent the day taking photos of them for future marketing materials. |
+| understood | 理解；明白 | I finally understood why my friends gushed over their significant others. |
+| brightened | 变亮；高兴起来 | I brightened further. |
+| irritation | 刺激；恼怒 | "Just a minor irritation at work. |
+| meditation | 冥想；沉思 | Despite my best efforts to convince him, he also refused to take up yoga or meditation. |
+| initiating | 开始；发起 | Christian and I took turns initiating sex, but I'd never been so bold about it. |
+| Eventually | 最终；终于 | Eventually, however, I took him to the hilt and stayed there for a minute with my lips stretched wide against the base of his shaft. |
+| Electricity | 电流；电 | Electricity replaced the blood in my veins. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| straightened | 挺直；整理 | I straightened and lit up when Christian walked in. |
-| understood | 理解；明白 | I finally understood why my friends gushed over their significant others. |
-| significant | 重要的；有意义的 | I finally understood why my friends gushed over their significant others. |
-| butterflies | 蝴蝶；紧张感 | Every time I saw him or heard his voice, the butterflies went crazy. |
-| brightened | 变亮；高兴起来 | I brightened further. |
+| sweetheart | 甜心；宝贝 | "That feels so fucking good, sweetheart. |
+| restraints | 约束；限制 | It crashed through its restraints and consumed me whole, sending a wave of heat from the top of my head to the tips of my toes. |
+| vulnerable | 脆弱的；易受伤害的 | The words hit me somewhere deep and vulnerable. |
+| interview | 采访；面试 | We'd just finished our last interview for my Washington Weekly profile. |
+| questions | 问题；疑问 | Let me know if you have any additional questions," I said warmly. |
 
 ## 一句话总结
 

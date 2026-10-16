@@ -83,55 +83,40 @@ pov: "Stella"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | intimidating | 吓人的；令人胆怯的 | I'd met Dante before the night of the blizzard, but I'd forgotten how intimidating he was. |
-| possessive | 占有欲强的；自私的 | He rested a hand on my thigh, the touch so casual yet possessive it sent heat arrowing to my core. |
 | disconcerting | 令人不安的；令人困惑的 | It was disconcerting. |
-| well-timed | 时机好的；适时的 | Vivian cut through the brewing tension with a well-timed interruption. |
 | interruption | 打断；中断 | Vivian cut through the brewing tension with a well-timed interruption. |
 | ruthlessness | 残忍；无情 | For all his care and concern toward me, I'd never once doubted the ruthlessness that lay beneath his civilized veneer. |
 | overinflated | 过度膨胀的；过高的 | "It's that he has an overinflated sense of self-importance. |
 | self-importance | 自负；自大 | "It's that he has an overinflated sense of self-importance. |
 | girlfriend-like | 像女朋友的 | "Not very girlfriend-like of you," he murmured. |
 | work-related | 与工作相关的 | The teasing, the joking, the opening up about his past (even if it was work-related)…we almost felt like a real couple. |
-| minimalism | 极简主义；简约主义 | Christian's house was all clean lines and modern minimalism, but the Russos' was a tasteful ode to decadence. |
-| beautifully | 美丽地；漂亮地 | Rich velvets, lush silks, and beautifully cut porcelain, all arranged in a manner that was extravagant but never tacky. |
-| extravagant | 奢侈的；铺张的 | Rich velvets, lush silks, and beautifully cut porcelain, all arranged in a manner that was extravagant but never tacky. |
-| discerning | 有辨识力的；有眼光的 | "He usually has more discerning taste. |
-| compliment | 赞美；恭维 | The compliment came out grudgingly, like she was reluctant to ascribe any positive qualities to her fiancé. |
-| grudgingly | 勉强地；不情愿地 | The compliment came out grudgingly, like she was reluctant to ascribe any positive qualities to her fiancé. |
-| suppressed | 压抑；抑制 | I suppressed the urge to ask what happened between them. |
 | inexplicably | 无法解释地；莫名其妙地 | He stopped when Vivian coughed, her face inexplicably red. |
-| cheekbones | 颧骨 | A faint blush colored his cheekbones as he flicked his gaze at a silent Vivian. |
-| pretending | 假装；伪装 | Now that we'd left the Russos, I didn't bother pretending I hadn't heard them. |
-| superficial | 表面的；肤浅的 | We'd lived together and pretended we were a couple for weeks, yet I didn't know a single thing about him beyond the superficial. |
-| frustration | 沮丧；挫败 | Something more bitter welled beneath the frustration. |
+| particularly | 特别地；尤其地 | For two people who claimed to be friends, they didn't act particularly friendly toward each other. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| possessive | 占有欲强的；自私的 | He rested a hand on my thigh, the touch so casual yet possessive it sent heat arrowing to my core. |
+| beautifully | 美丽地；漂亮地 | Rich velvets, lush silks, and beautifully cut porcelain, all arranged in a manner that was extravagant but never tacky. |
+| extravagant | 奢侈的；铺张的 | Rich velvets, lush silks, and beautifully cut porcelain, all arranged in a manner that was extravagant but never tacky. |
+| superficial | 表面的；肤浅的 | We'd lived together and pretended we were a couple for weeks, yet I didn't know a single thing about him beyond the superficial. |
+| frustration | 沮丧；挫败 | Something more bitter welled beneath the frustration. |
 | accompanied | 陪伴；陪同 | That night, absent of any other plans, I accompanied Christian to dinner at his friend Dante's house. |
-| open-faced | 坦率的；开朗的 | His fiancée Vivian, on the other hand, was open-faced and friendly, with beautiful dark eyes and a warm smile. |
-| particularly | 特别地；尤其地 | For two people who claimed to be friends, they didn't act particularly friendly toward each other. |
-| distracted | 分心的；心不在焉的 | "How distracted he's been lately. |
-| girlfriend | 女朋友 | "I never thought I'd see the day when Christian Harper would get a girlfriend. |
 | butterflies | 蝴蝶；紧张感 | My heart rate kicked up as the butterflies in my stomach went wild again. |
-| interested | 感兴趣的；关心的 | And Christian had indicated time and time again that he wasn't interested in a real relationship. |
 | relationship | 关系；关联 | And Christian had indicated time and time again that he wasn't interested in a real relationship. |
-| blanketing | 覆盖；笼罩 | Luckily, the tension blanketing the table gradually dissolved as dinner went on, drowned by good drinks and good food. |
 | distraction | 分心；干扰 | He sat inches to my right, his presence a living, breathing distraction that crowded my lungs and clouded my thoughts. |
 | wine-fueled | 酒精驱动的；酒后 | Easy smiles, teasing drawls, and skin gilded gold by the dim lighting and wine-fueled haze. |
-| sleeveless | 无袖的 | I was wearing a sleeveless dress, but I was burning up. |
-| especially | 尤其；特别 | It was rude to pry into other people's business, especially when they were my hosts and I'd just met them. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| relationship | 关系；关联 | And Christian had indicated time and time again that he wasn't interested in a real relationship. |
-| especially | 尤其；特别 | It was rude to pry into other people's business, especially when they were my hosts and I'd just met them. |
-| frustration | 沮丧；挫败 | Something more bitter welled beneath the frustration. |
-| pretending | 假装；伪装 | Now that we'd left the Russos, I didn't bother pretending I hadn't heard them. |
-| superficial | 表面的；肤浅的 | We'd lived together and pretended we were a couple for weeks, yet I didn't know a single thing about him beyond the superficial. |
+| well-timed | 时机好的；适时的 | Vivian cut through the brewing tension with a well-timed interruption. |
+| minimalism | 极简主义；简约主义 | Christian's house was all clean lines and modern minimalism, but the Russos' was a tasteful ode to decadence. |
+| discerning | 有辨识力的；有眼光的 | "He usually has more discerning taste. |
+| compliment | 赞美；恭维 | The compliment came out grudgingly, like she was reluctant to ascribe any positive qualities to her fiancé. |
+| grudgingly | 勉强地；不情愿地 | The compliment came out grudgingly, like she was reluctant to ascribe any positive qualities to her fiancé. |
 
 ## 一句话总结
 

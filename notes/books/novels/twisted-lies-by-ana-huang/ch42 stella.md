@@ -91,13 +91,13 @@ pov: "Stella"
 | compartment | 隔间；隔层 | Part of me wished I'd never stumbled across that secret compartment or looked through those files. |
 | underwater | 在水下；在水面下 | I heard Ava's voice followed by a knock, but the sounds were muted, like they were traveling to me underwater. |
 | anticipated | 预期；预见 | Part of me had anticipated this crash from the beginning. |
-| terrifying | 可怕的；令人恐惧的 | But the most terrifying part wasn't my broken heart. |
 | possibility | 可能性；可能 | It was the possibility that I might never be able to glue the pieces back together again. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| terrifying | 可怕的；令人恐惧的 | But the most terrifying part wasn't my broken heart. |
 | collapsed | 崩溃；倒塌 | I waited until the door shut behind him before I collapsed. |
 | Christian | 克里斯蒂安（人名） | The words echoed in my head like a taunt, as did the image of Christian's face before he left. |
 | thousand | 千；一千 | My heart had splintered into a thousand jagged pieces, and they cut and cut until I couldn't stop bleeding. |
@@ -105,28 +105,18 @@ pov: "Stella"
 | possible | 可能的；可能的 | It was very possible I might die right there, with my knees drawn to my chest and my trust in shambles. |
 | shambles | 混乱；残局 | It was very possible I might die right there, with my knees drawn to my chest and my trust in shambles. |
 | believed | 相信；认为 | I believed he was sorry, and I believed he loved me in whatever way he knew how. |
-| invasion | 入侵；侵犯 | How much I hated the invasion of privacy and loss of control over my own life. |
-| security | 安全；保障 | Our power imbalance wasn't about money or security; it was about trust. |
-| received | 收到；得到 | I'd always given more than I received from him. |
-| hollowed | 挖空；变空 | Instead, my heart hollowed in my chest while a barrage of memories played in my head. |
-| memories | 记忆；回忆 | Instead, my heart hollowed in my chest while a barrage of memories played in my head. |
-| ordinary | 普通的；平凡的 | Because love is ordinary. |
-| stumbled | 绊倒；偶然发现 | Part of me wished I'd never stumbled across that secret compartment or looked through those files. |
-| followed | 跟随；接着 | I heard Ava's voice followed by a knock, but the sounds were muted, like they were traveling to me underwater. |
 | traveling | 旅行；移动 | I heard Ava's voice followed by a knock, but the sounds were muted, like they were traveling to me underwater. |
-| drowning | 溺水；淹没 | I was drowning in grief, and I didn't know how to pull myself out. |
 | beginning | 开始；开端 | Part of me had anticipated this crash from the beginning. |
-| together | 一起；共同 | It was the possibility that I might never be able to glue the pieces back together again. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| brokenness | 破碎；破碎感 | The brokenness that I felt as surely as if it were my own because it was. |
-| splintered | 碎裂；破碎 | My heart had splintered into a thousand jagged pieces, and they cut and cut until I couldn't stop bleeding. |
-| relationship | 关系；关联 | But they didn't change the fact that our relationship had been built on a lie. |
-| traumatized | 受创伤的；精神受创伤的 | He knew how much the stalker had traumatized me. |
-| excitement | 兴奋；激动 | I'd seen all the warning signs and ignored them because I'd been too caught up in the excitement of falling in love for the first time. |
+| invasion | 入侵；侵犯 | How much I hated the invasion of privacy and loss of control over my own life. |
+| security | 安全；保障 | Our power imbalance wasn't about money or security; it was about trust. |
+| received | 收到；得到 | I'd always given more than I received from him. |
+| hollowed | 挖空；变空 | Instead, my heart hollowed in my chest while a barrage of memories played in my head. |
+| memories | 记忆；回忆 | Instead, my heart hollowed in my chest while a barrage of memories played in my head. |
 
 ## 一句话总结
 

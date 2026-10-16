@@ -85,54 +85,38 @@ pov: "Stella"
 | exclusively | 唯一地；专有地 | That was the first sign something was amiss since I exclusively used lavender scents in my bedroom. |
 | mortification | 屈辱；羞愧 | Dread and mortification curdled in my stomach. |
 | clean-shaven | 胡子刮干净的 | His hair was perfectly styled, his face sharp and clean-shaven. |
-| optimistic | 乐观的；乐观的 | Yesterday morning, I woke up in my own bed feeling fairly optimistic about the stalker situation. |
 | foreseeable | 可预见的；可预知的 | my new room for the foreseeable future—and changed out of my bathrobe into day-appropriate loungewear. |
-| intensified | 加剧；加强 | The bite of fear intensified at the thought of returning to my old apartment. |
-| destroying | 破坏；毁灭 | I hated my stalker for destroying that peace almost as much as I hated him for the notes. |
-| conviction | 信念；确信 | I didn't know why, but I felt the conviction of that in my gut. |
-| reassurance | 安心；保证 | I repeated the reassurance in my head as I went to the guest room—a.k.a. |
-| housekeeper | 管家；女管家 | This must be Christian's housekeeper slash part-time chef. |
-| staggering | 令人惊愕的；惊人的 | Before I could make sense of the staggering sight, the pink disappeared, and Christian's face turned to granite again. |
 | unrecognizable | 无法辨认的；认不出的 | "And no touching unrecognizable devices. |
-| fifty-fifty | 五十五十；对半 | There's a fifty-fifty chance they could kill you. |
 | unpredictable | 不可预测的；难以预料的 | Vary your schedule and keep it unpredictable, including the routes you take home. |
 | inadvertently | 不经意地；无意地 | "If they don't know you're in danger, they can inadvertently put you in danger or be in danger themselves. |
-| arrangement | 安排；协议 | If this new living arrangement was going to work, I needed some say in it. |
-| insistence | 坚持；坚决 | No doubt he remembered my insistence on including my own set of rules in our fake dating arrangement. |
 | contemplated | 沉思；仔细考虑 | And…" My teeth sank into my bottom lip as I contemplated my last request. |
-| Exclusivity | 排他性；独占权 | Exclusivity was implied but not explicitly stated in our contract. |
+| friendliness | 友好；友善 | I relaxed beneath the warmth of her friendliness. |
+| day-appropriate | 适合当天的 | my new room for the foreseeable future—and changed out of my bathrobe into day-appropriate loungewear. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| simplicity | 简单；朴素 | Slate gray silk, luxurious in its simplicity and rumpled with sleep, but a far cry from the soft cream ones I'd bought two years ago. |
-| unexpected | 意外的；想不到的 | A scream clawed up my throat at the unexpected voice behind me. |
-| thundering | 雷鸣般的；轰隆的 | I whipped around, my heart thundering with panic until the speaker stepping out of the bathroom came into focus. |
-| remembered | 记得；回忆起 | A flush sluiced down my skin when I remembered the heat of his body behind me and the graze of his touch against my bare skin. |
+| intensified | 加剧；加强 | The bite of fear intensified at the thought of returning to my old apartment. |
+| reassurance | 安心；保证 | I repeated the reassurance in my head as I went to the guest room—a.k.a. |
+| housekeeper | 管家；女管家 | This must be Christian's housekeeper slash part-time chef. |
+| fifty-fifty | 五十五十；对半 | There's a fifty-fifty chance they could kill you. |
+| arrangement | 安排；协议 | If this new living arrangement was going to work, I needed some say in it. |
+| Exclusivity | 排他性；独占权 | Exclusivity was implied but not explicitly stated in our contract. |
 | twenty-four | 二十四 | A headache throbbed behind my temple as I tried to make sense of the past twenty-four hours. |
-| essentials | 必需品；要素 | Christian had brought only the essentials last night, which meant my crystals were sitting downstairs in my room. |
-| downstairs | 楼下；楼下 | Christian had brought only the essentials last night, which meant my crystals were sitting downstairs in my room. |
 | round-faced | 圆脸的 | Before I could ask who Nina was, a round-faced woman with a dark bun and cheerful smile entered the room. |
-| friendliness | 友好；友善 | I relaxed beneath the warmth of her friendliness. |
-| suppressed | 压抑；抑制 | Nina suppressed what looked like a laugh before she left. |
-| Croissants | 羊角面包；可颂 | Croissants were a gift of heaven. |
-| cheekbones | 颧骨 | A faint hint of pink colored his cheekbones. |
 | disappeared | 消失；不见 | Before I could make sense of the staggering sight, the pink disappeared, and Christian's face turned to granite again. |
-| belongings | 所有物；财产 | My team will move the rest of your belongings in today. |
 | unobtrusive | 不引人注目的；不显眼的 | He'll be unobtrusive; you won't even know he's there unless you need help. |
-| half-moons | 半月形；半月 | My nails dug angry half-moons into my knees. |
-| permission | 允许；许可 | That means no coming into my room without permission, even when—especially when—I'm not there. |
-| especially | 尤其；特别 | That means no coming into my room without permission, even when—especially when—I'm not there. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nightstand | 床头柜 | The dark colors and the watch and cufflinks on the nightstand were a dead giveaway. |
-| day-appropriate | 适合当天的 | my new room for the foreseeable future—and changed out of my bathrobe into day-appropriate loungewear. |
-| loungewear | 休闲服；家居服 | my new room for the foreseeable future—and changed out of my bathrobe into day-appropriate loungewear. |
-| especially | 尤其；特别 | That means no coming into my room without permission, even when—especially when—I'm not there. |
+| optimistic | 乐观的；乐观的 | Yesterday morning, I woke up in my own bed feeling fairly optimistic about the stalker situation. |
+| destroying | 破坏；毁灭 | I hated my stalker for destroying that peace almost as much as I hated him for the notes. |
+| conviction | 信念；确信 | I didn't know why, but I felt the conviction of that in my gut. |
+| staggering | 令人惊愕的；惊人的 | Before I could make sense of the staggering sight, the pink disappeared, and Christian's face turned to granite again. |
+| insistence | 坚持；坚决 | No doubt he remembered my insistence on including my own set of rules in our fake dating arrangement. |
 
 ## 一句话总结
 

@@ -84,15 +84,27 @@ pov: "Christian"
 |---|---|---|
 | Satisfaction | 满足；满意 | Satisfaction filled my chest at his narrowed eyes. |
 | represented | 代表；象征 | Not because of what it was but because of what it represented. |
-| suspicious | 可疑的；猜疑的 | That wouldn't be suspicious at all. |
 | earth-shattering | 惊天动地的；极其重要的 | It didn't contain earth-shattering business secrets like everyone thought. |
 | sentimental | 感性的；多愁善感的 | I wasn't a sentimental person, but there were two areas of my life where my usual pragmatism didn't apply: Stella and Magda. |
-| pragmatism | 实用主义；务实 | I wasn't a sentimental person, but there were two areas of my life where my usual pragmatism didn't apply: Stella and Magda. |
 | monstrosity | 怪物；丑陋之物 | "I'll go blind from looking at that monstrosity every day." |
-| insatiable | 贪得无厌的；无法满足的 | Crosswords, jigsaws, ciphers, they all fed my insatiable need for a challenge. |
-| enigmatic | 神秘的；难以捉摸的 | I forced thoughts of dark curls and green eyes aside at the mention of the other enigmatic woman in my life. |
+| distraction | 分心；干扰 | Living in the same building as her was the worst kind of distraction, and I had no one except myself to blame. |
+| frustration | 挫败；沮丧 | Twin flames of resentment and frustration burned in my chest. |
+| conversation | 对话；交谈 | In the absence of conversation, my mind drifted toward a certain brunette. |
 
 ### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| suspicious | 可疑的；猜疑的 | That wouldn't be suspicious at all. |
+| pragmatism | 实用主义；务实 | I wasn't a sentimental person, but there were two areas of my life where my usual pragmatism didn't apply: Stella and Magda. |
+| insatiable | 贪得无厌的；无法满足的 | Crosswords, jigsaws, ciphers, they all fed my insatiable need for a challenge. |
+| enigmatic | 神秘的；难以捉摸的 | I forced thoughts of dark curls and green eyes aside at the mention of the other enigmatic woman in my life. |
+| existence | 存在；生存 | Magda, the painting that had been the bane of my existence for decades. |
+| resentment | 怨恨；愤恨 | Twin flames of resentment and frustration burned in my chest. |
+| prosecution | 起诉；检方 | I forwarded those to the prosecution using the golf buddy's email. |
+| concession | 让步；妥协 | In exchange for taking care of my fucking plants, no less, because a selfless concession on my part would've been too suspicious. |
+
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -100,21 +112,7 @@ pov: "Christian"
 | narrowed | 眯起（眼睛） | Satisfaction filled my chest at his narrowed eyes. |
 | weakness | 弱点；软肋 | If Stella was my weakness, Vivian was his. |
 | vanished | 消失；突然不见 | All humor vanished, bringing back the unsmiling asshole I was used to dealing with. |
-| enigmatic | 神秘的 | I forced thoughts of dark curls and green eyes aside at the mention of the other enigmatic woman in my life. |
-| existence | 存在；生存 | Magda, the painting that had been the bane of my existence for decades. |
-| distraction | 分心；干扰 | Living in the same building as her was the worst kind of distraction, and I had no one except myself to blame. |
-| resentment | 怨恨；愤恨 | Twin flames of resentment and frustration burned in my chest. |
-| frustration | 挫败；沮丧 | Twin flames of resentment and frustration burned in my chest. |
-| prosecution | 起诉；检方 | I forwarded those to the prosecution using the golf buddy's email. |
-
-### ⭐ 基础
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
 | painting | 画作；油画 | When the fuck can I get rid of the painting? |
-| conversation | 对话；交谈 | In the absence of conversation, my mind drifted toward a certain brunette. |
-| concession | 让步；妥协 | In exchange for taking care of my fucking plants, no less, because a selfless concession on my part would've been too suspicious. |
-| insatiable | 无法满足的 | Crosswords, jigsaws, ciphers, they all fed my insatiable need for a challenge. |
 
 ## 一句话总结
 

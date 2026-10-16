@@ -82,100 +82,41 @@ pov: "Stella"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| confession | 告白；供词 | with two new suitcases of gifts and souvenirs and my love confession trailing behind us. |
-| extra-long | 超长的；特别长的 | By the time the week ended, I was tired, cranky, and in desperate need of an extra-long restorative yoga session. |
 | restorative | 恢复性的；恢复精力的 | By the time the week ended, I was tired, cranky, and in desperate need of an extra-long restorative yoga session. |
-| Greenfield | 格林菲尔德（地名） | Norma was one of my favorite nurses at Greenfield, but she wouldn't call out of the blue unless something was wrong. |
-| physically | 身体上地；物理上地 | "She's physically okay. |
-| remembered | 记得；回忆起 | "But she, ah, remembered what happened to Phoebe and Harold this morning. |
 | Unfortunately | 不幸地；遗憾的是 | "Unfortunately, we had to sedate her. |
 | professionals | 专业人员；专业人士 | As much as I hated the thought of leaving Maura alone after she'd been so upset, the staff at Greenfield were professionals. |
-| situations | 情况；处境 | They were trained to handle such situations, and they could do it far more effectively than I could. |
 | effectively | 有效地；实际上 | They were trained to handle such situations, and they could do it far more effectively than I could. |
-| distracted | 分心的；心烦意乱的 | I hung up and went through the motions of finishing breakfast, but I was too distracted to taste anything. |
 | accompanied | 陪伴；伴随 | A photo from my Hawaii shoot accompanied her text. |
-| Washington | 华盛顿 | The Delamonte print campaign had finally gone live along with my Washington Weekly profile. |
-| Apparently | 显然地；Apparently, my family was less thrilled | Apparently, my family was less thrilled. |
-| composition | 构图；作品 | The composition was artistic, not sleazy, but it was still probably the most scandalous thing an Alonso had ever been involved in. |
-| scandalous | 令人 scandalous 的；可耻的 | The composition was artistic, not sleazy, but it was still probably the most scandalous thing an Alonso had ever been involved in. |
 | stubbornness | 固执；顽固 | Perhaps it was pride and stubbornness keeping us apart, or maybe I'd been right all along. |
-| embarrassed | 尴尬的；窘迫的 | The only time they cared about what I was doing was if I embarrassed them. |
-| mouthpiece | 代言人；传声筒 | They don't need you acting as their mouthpiece all the time. |
-| practically | 实际上；几乎 | We were texting, but I could practically hear her stunned silence. |
-| disappeared | 消失；不见 | The three dots that indicated she was typing popped up, disappeared, then popped up again. |
-| Aggravation | 恼怒；愤怒 | Aggravation sunk its claws into my skin. |
-| mindlessly | 无意识地；盲目地 | My friends thought it was a weird stress relief tactic, but it was the perfect mindlessly productive task. |
-| productive | 高效的；富有成效的 | My friends thought it was a weird stress relief tactic, but it was the perfect mindlessly productive task. |
-| Eventually | 最终；终于 | Eventually, I made it to Christian's office. |
-| hesitation | 犹豫；迟疑 | After another beat of hesitation, I opened the doors. |
-| monochrome | 单色的；黑白的 | The room was a study in monochrome with its light gray walls, black leather chair, and massive glass and metal desk. |
-| paperweight | 镇纸；压纸器 | It was empty save for his laptop, two extra monitors, a paperweight, and a matte gray holder containing four identical Montblanc pens. |
-| containing | 包含；容纳 | It was empty save for his laptop, two extra monitors, a paperweight, and a matte gray holder containing four identical Montblanc pens. |
 | surroundings | 周围的事物；环境 | They blended a little too well into their surroundings. |
-| compartment | 隔间；隔层 | A secret compartment. |
 | confidential | 机密的；秘密的 | It probably contained confidential information that was none of my business, but curiosity got the better of me. |
-| information | 信息；消息 | It probably contained confidential information that was none of my business, but curiosity got the better of me. |
-| boyfriends | 男朋友；男友 | It contained full dossiers on not only me but everyone closest to me, including my family, friends, Maura, and previous boyfriends. |
 | logistically | 逻辑上地；后勤上地 | For a second, I thought he might be my stalker, but it didn't make sense logistically. |
-| anticipated | 预期；预见 | Not well enough that you anticipated him having a dossier on your entire life, an insidious voice in my head sang. |
 | reappearance | 重新出现；再现 | My stomach rebelled, and I barely made it to the nearest bathroom before my breakfast made a messy reappearance. |
-| boundaries | 界限；边界 | Even if he wasn't my stalker, he'd crossed many of the same boundaries. |
-| essentials | 必需品；基本要素 | I forced my eyes away from his section of the closet and threw the essentials into a duffel bag. |
-| toiletries | 洗漱用品；化妆品 | A few changes of clothes, toiletries, and Mr. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | confession | 告白；供词 | with two new suitcases of gifts and souvenirs and my love confession trailing behind us. |
-| extra-long | 超长的；特别长的 | By the time the week ended, I was tired, cranky, and in desperate need of an extra-long restorative yoga session. |
-| restorative | 恢复性的；恢复精力的 | By the time the week ended, I was tired, cranky, and in desperate need of an extra-long restorative yoga session. |
-| Greenfield | 格林菲尔德（地名） | Norma was one of my favorite nurses at Greenfield, but she wouldn't call out of the blue unless something was wrong. |
-| physically | 身体上地；物理上地 | "She's physically okay. |
-| remembered | 记得；回忆起 | "But she, ah, remembered what happened to Phoebe and Harold this morning. |
-| Unfortunately | 不幸地；遗憾的是 | "Unfortunately, we had to sedate her. |
-| professionals | 专业人员；专业人士 | As much as I hated the thought of leaving Maura alone after she'd been so upset, the staff at Greenfield were professionals. |
-| situations | 情况；处境 | They were trained to handle such situations, and they could do it far more effectively than I could. |
-| effectively | 有效地；实际上 | They were trained to handle such situations, and they could do it far more effectively than I could. |
-| distracted | 分心的；心烦意乱的 | I hung up and went through the motions of finishing breakfast, but I was too distracted to taste anything. |
-| accompanied | 陪伴；伴随 | A photo from my Hawaii shoot accompanied her text. |
-| Washington | 华盛顿 | The Delamonte print campaign had finally gone live along with my Washington Weekly profile. |
-| Apparently | 显然地；Apparently, my family was less thrilled | Apparently, my family was less thrilled. |
 | composition | 构图；作品 | The composition was artistic, not sleazy, but it was still probably the most scandalous thing an Alonso had ever been involved in. |
-| scandalous | 令人 scandalous 的；可耻的 | The composition was artistic, not sleazy, but it was still probably the most scandalous thing an Alonso had ever been involved in. |
-| stubbornness | 固执；顽固 | Perhaps it was pride and stubbornness keeping us apart, or maybe I'd been right all along. |
 | embarrassed | 尴尬的；窘迫的 | The only time they cared about what I was doing was if I embarrassed them. |
-| mouthpiece | 代言人；传声筒 | They don't need you acting as their mouthpiece all the time. |
 | practically | 实际上；几乎 | We were texting, but I could practically hear her stunned silence. |
 | disappeared | 消失；不见 | The three dots that indicated she was typing popped up, disappeared, then popped up again. |
 | Aggravation | 恼怒；愤怒 | Aggravation sunk its claws into my skin. |
-| mindlessly | 无意识地；盲目地 | My friends thought it was a weird stress relief tactic, but it was the perfect mindlessly productive task. |
-| productive | 高效的；富有成效的 | My friends thought it was a weird stress relief tactic, but it was the perfect mindlessly productive task. |
-| Eventually | 最终；终于 | Eventually, I made it to Christian's office. |
-| hesitation | 犹豫；迟疑 | After another beat of hesitation, I opened the doors. |
-| monochrome | 单色的；黑白的 | The room was a study in monochrome with its light gray walls, black leather chair, and massive glass and metal desk. |
 | paperweight | 镇纸；压纸器 | It was empty save for his laptop, two extra monitors, a paperweight, and a matte gray holder containing four identical Montblanc pens. |
-| containing | 包含；容纳 | It was empty save for his laptop, two extra monitors, a paperweight, and a matte gray holder containing four identical Montblanc pens. |
-| surroundings | 周围的事物；环境 | They blended a little too well into their surroundings. |
 | compartment | 隔间；隔层 | A secret compartment. |
-| confidential | 机密的；秘密的 | It probably contained confidential information that was none of my business, but curiosity got the better of me. |
 | information | 信息；消息 | It probably contained confidential information that was none of my business, but curiosity got the better of me. |
-| boyfriends | 男朋友；男友 | It contained full dossiers on not only me but everyone closest to me, including my family, friends, Maura, and previous boyfriends. |
-| logistically | 逻辑上地；后勤上地 | For a second, I thought he might be my stalker, but it didn't make sense logistically. |
 | anticipated | 预期；预见 | Not well enough that you anticipated him having a dossier on your entire life, an insidious voice in my head sang. |
-| reappearance | 重新出现；再现 | My stomach rebelled, and I barely made it to the nearest bathroom before my breakfast made a messy reappearance. |
-| boundaries | 界限；边界 | Even if he wasn't my stalker, he'd crossed many of the same boundaries. |
-| essentials | 必需品；基本要素 | I forced my eyes away from his section of the closet and threw the essentials into a duffel bag. |
-| toiletries | 洗漱用品；化妆品 | A few changes of clothes, toiletries, and Mr. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| confession | 告白；供词 | with two new suitcases of gifts and souvenirs and my love confession trailing behind us. |
 | extra-long | 超长的；特别长的 | By the time the week ended, I was tired, cranky, and in desperate need of an extra-long restorative yoga session. |
-| restorative | 恢复性的；恢复精力的 | By the time the week ended, I was tired, cranky, and in desperate need of an extra-long restorative yoga session. |
 | Greenfield | 格林菲尔德（地名） | Norma was one of my favorite nurses at Greenfield, but she wouldn't call out of the blue unless something was wrong. |
+| physically | 身体上地；物理上地 | "She's physically okay. |
+| remembered | 记得；回忆起 | "But she, ah, remembered what happened to Phoebe and Harold this morning. |
+| situations | 情况；处境 | They were trained to handle such situations, and they could do it far more effectively than I could. |
 
 ## 一句话总结
 

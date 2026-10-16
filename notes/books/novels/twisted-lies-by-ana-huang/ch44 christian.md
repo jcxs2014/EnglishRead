@@ -85,13 +85,8 @@ pov: "Christian"
 | restricted | 限制的；受限制的 | It was usually restricted to staff only. |
 | Exasperation | 恼怒；愤怒 | Exasperation filled Alex's face. |
 | shit-eating | 谄媚的；假笑不笑的 | It took all my willpower not to punch the shit-eating grin off his face. |
-| processing | 处理；加工 | It was…processing. |
-| remembered | 记得；回忆起 | I must've remembered wrong," Alex said mildly. |
 | unnecessary | 不必要的；多余的 | "You said love is, and I quote, tedious, boring, and utterly unnecessary. |
 | insufferable | 难以忍受的 | People in love are the most insufferable on the planet. |
-| irritation | 刺激；恼怒 | My teeth ground in irritation. |
-| concerning | 令人担忧的；有关的 | "It's deeply concerning that you can quote me word for word. |
-| flickering | 闪烁；摇曳 | I ignored him and walked off with Rhys's laughter at my back and irritation flickering through my veins. |
 | information | 信息；消息 | The traitor wouldn't be able to resist leaking that information to Sentinel. |
 | conversations | 对话；交谈 | I'd just needed to get all the suspects in one room so I could have the conversations without raising suspicion. |
 | complicated | 复杂的；难处理的 | "It's complicated. |
@@ -102,36 +97,26 @@ pov: "Christian"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| insisted | 坚持；坚决要求 | Josh was invited by default since he'd insisted on tagging along when he found out Alex would be attending. |
+| processing | 处理；加工 | It was…processing. |
+| remembered | 记得；回忆起 | I must've remembered wrong," Alex said mildly. |
+| irritation | 刺激；恼怒 | My teeth ground in irritation. |
+| concerning | 令人担忧的；有关的 | "It's deeply concerning that you can quote me word for word. |
+| flickering | 闪烁；摇曳 | I ignored him and walked off with Rhys's laughter at my back and irritation flickering through my veins. |
 | attending | 参加；出席 | Josh was invited by default since he'd insisted on tagging along when he found out Alex would be attending. |
-| delusion | 错觉；妄想 | I had too much other shit to worry about than his delusion that I was trying to steal his best friend. |
-| question | 问题；疑问 | "If you keep asking the same question over and over again, you can leave," I said icily. |
-| bullshit | 废话；胡说 | I didn't have time for Josh's bullshit. |
-| thinking | 思考；想法 | I'd done a decent job of not thinking about Stella tonight until Josh fucking Chen brought her up. |
-| reminded | 提醒；使想起 | You can't kill a guest, a voice in my head reminded me. |
-| Actually | 实际上；事实上 | Actually, I could do whatever the fuck I wanted, but then I'd have to deal with Alex. |
 | murdering | 谋杀；杀害 | I also assumed Stella wouldn't be too happy about me murdering her best friend's brother. |
-| annoying | 烦人的；讨厌的 | You are simply annoying. |
-| shrugged | 耸肩；不理会 | Josh shrugged. |
-| twitched | 抽动；抽动 | My hand twitched toward my gun. |
 | provoking | 挑衅；激怒 | "Keep provoking him, and he'll kill you. |
-| migraine | 偏头痛 | A migraine gathered behind my temple. |
-| gathered | 聚集；收集 | A migraine gathered behind my temple. |
 | willpower | 意志力；毅力 | It took all my willpower not to punch the shit-eating grin off his face. |
-| swiveled | 旋转；转动 | The room quieted as every head swiveled in my direction. |
 | direction | 方向；指导 | The room quieted as every head swiveled in my direction. |
-| eyebrows | 眉毛 | I saw Brock's mouth drop and Kage's eyebrows fly up out of the corner of my eye. |
-| sideways | 向侧面；斜着 | Not when I'd found out about Magda's theft, and not when shit went sideways at work. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | insisted | 坚持；坚决要求 | Josh was invited by default since he'd insisted on tagging along when he found out Alex would be attending. |
-| attending | 参加；出席 | Josh was invited by default since he'd insisted on tagging along when he found out Alex would be attending. |
 | delusion | 错觉；妄想 | I had too much other shit to worry about than his delusion that I was trying to steal his best friend. |
 | question | 问题；疑问 | "If you keep asking the same question over and over again, you can leave," I said icily. |
 | bullshit | 废话；胡说 | I didn't have time for Josh's bullshit. |
+| thinking | 思考；想法 | I'd done a decent job of not thinking about Stella tonight until Josh fucking Chen brought her up. |
 
 ## 一句话总结
 

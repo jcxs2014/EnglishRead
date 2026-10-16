@@ -83,55 +83,40 @@ pov: "Christian"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | accusations | 指控；控告 | Loyalty ran both ways, and false accusations were the fastest way to seed resentment among the ranks. |
-| resentment | 怨恨；愤恨 | Loyalty ran both ways, and false accusations were the fastest way to seed resentment among the ranks. |
-| tournament | 锦标赛；比赛 | I had the perfect trap in mind, but I needed to wait until Harper Security's annual poker tournament to set it. |
 | information | 信息；消息 | Until then, I couldn't trust anyone in the company with sensitive information. |
 | proprietary | 专有的；所有权的 | They'd imitated everything else I'd done; copying proprietary hardware was the logical next step. |
 | investigations | 调查；研究 | Part of me admitted I could've gotten further in all my investigations had I not been distracted. |
-| distracted | 分心的；心烦意乱的 | Part of me admitted I could've gotten further in all my investigations had I not been distracted. |
 | decision-making | 决策；决策制定 | Stella's ability to fuck with my rational decision-making crystallized a little over a week after Frank Rivers' timely demise. |
 | crystallized | 结晶；明确 | Stella's ability to fuck with my rational decision-making crystallized a little over a week after Frank Rivers' timely demise. |
 | underground | 地下；秘密的 | The stalker had gone underground since Hawaii. |
-| concerning | 令人担忧的；有关的 | The message itself wasn't concerning. |
-| protection | 保护；防卫 | Granted, his job was protection, not surveillance, but it still pissed me off. |
 | surveillance | 监视；监督 | Granted, his job was protection, not surveillance, but it still pissed me off. |
-| reassuring | 令人安心的；令人放心的 | I breathed her in, reassuring myself that she was safe and in my arms. |
-| month-long | 为期一个月的 | We can do a month-long trip through the country. |
-| especially | 特别地；尤其地 | It was too soon for another trip, especially with everything I had on my plate. |
 | distraction | 分心；干扰 | One distraction, one mistake, and I could lose her forever. |
-| terrorists | 恐怖分子 | There were certain groups I didn't do business with—terrorists, certain governments, and a few distasteful individuals. |
 | governments | 政府 | There were certain groups I didn't do business with—terrorists, certain governments, and a few distasteful individuals. |
-| distasteful | 令人不快的；令人厌恶的 | There were certain groups I didn't do business with—terrorists, certain governments, and a few distasteful individuals. |
-| individuals | 个人；个体 | There were certain groups I didn't do business with—terrorists, certain governments, and a few distasteful individuals. |
-| technology | 技术；科技 | Other than that, everyone else was fair game, and they paid a king's ransom for technology their competitors didn't have. |
-| competitors | 竞争者；对手 | Other than that, everyone else was fair game, and they paid a king's ransom for technology their competitors didn't have. |
-| development | 发展；开发 | I spent fifty percent of my office time running Harper Security and the other half on development. |
-| celebrated | 庆祝；庆贺 | "We already celebrated your birthday," she pointed out. |
-| thirty-four | 三十四 | I'd turned thirty-four last week. |
-| rationality | 理性；合理性 | Fuck rationality. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| shortlist | 短名单；入围名单 | I already had a shortlist of suspects for the leak. |
-| suspects | 嫌疑人；嫌疑犯 | I already had a shortlist of suspects for the leak. |
-| situation | 情况；处境 | Every name made my blood run cold, but I had to be careful how I handled the situation. |
-| Security | 安全；保障 | I had the perfect trap in mind, but I needed to wait until Harper Security's annual poker tournament to set it. |
-| sensitive | 敏感的；灵敏的 | Until then, I couldn't trust anyone in the company with sensitive information. |
-| guarantee | 保证；担保 | As for Scylla, I could almost guarantee Sentinel was the one behind the knockoff device. |
-| Sentinel | 哨兵；守卫 | As for Scylla, I could almost guarantee Sentinel was the one behind the knockoff device. |
-| knockoff | 仿制品；山寨货 | As for Scylla, I could almost guarantee Sentinel was the one behind the knockoff device. |
+| resentment | 怨恨；愤恨 | Loyalty ran both ways, and false accusations were the fastest way to seed resentment among the ranks. |
+| tournament | 锦标赛；比赛 | I had the perfect trap in mind, but I needed to wait until Harper Security's annual poker tournament to set it. |
+| distracted | 分心的；心烦意乱的 | Part of me admitted I could've gotten further in all my investigations had I not been distracted. |
+| concerning | 令人担忧的；有关的 | The message itself wasn't concerning. |
+| distasteful | 令人不快的；令人厌恶的 | There were certain groups I didn't do business with—terrorists, certain governments, and a few distasteful individuals. |
+| individuals | 个人；个体 | There were certain groups I didn't do business with—terrorists, certain governments, and a few distasteful individuals. |
+| competitors | 竞争者；对手 | Other than that, everyone else was fair game, and they paid a king's ransom for technology their competitors didn't have. |
+| development | 发展；开发 | I spent fifty percent of my office time running Harper Security and the other half on development. |
+| thirty-four | 三十四 | I'd turned thirty-four last week. |
+| rationality | 理性；合理性 | Fuck rationality. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| accusations | 指控；控告 | Loyalty ran both ways, and false accusations were the fastest way to seed resentment among the ranks. |
-| resentment | 怨恨；愤恨 | Loyalty ran both ways, and false accusations were the fastest way to seed resentment among the ranks. |
-| tournament | 锦标赛；比赛 | I had the perfect trap in mind, but I needed to wait until Harper Security's annual poker tournament to set it. |
-| information | 信息；消息 | Until then, I couldn't trust anyone in the company with sensitive information. |
-| proprietary | 专有的；所有权的 | They'd imitated everything else I'd done; copying proprietary hardware was the logical next step. |
+| protection | 保护；防卫 | Granted, his job was protection, not surveillance, but it still pissed me off. |
+| reassuring | 令人安心的；令人放心的 | I breathed her in, reassuring myself that she was safe and in my arms. |
+| month-long | 为期一个月的 | We can do a month-long trip through the country. |
+| especially | 特别地；尤其地 | It was too soon for another trip, especially with everything I had on my plate. |
+| terrorists | 恐怖分子 | There were certain groups I didn't do business with—terrorists, certain governments, and a few distasteful individuals. |
 
 ## 一句话总结
 

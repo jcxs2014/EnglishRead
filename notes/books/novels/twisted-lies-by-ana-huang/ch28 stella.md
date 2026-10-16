@@ -82,56 +82,41 @@ pov: "Stella"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| constantly | 不断地；时常地 | And in a world where I'm constantly being judged—online and in real life—that's the best feeling in the world. |
-| photoshoot | 摄影；拍照 | I'd put it off until the last minute, but I needed to get it done today since I left tomorrow for Delamonte's big photoshoot in Hawaii. |
 | distraction | 分心；干扰 | Packing was a welcome distraction from the nerves swimming in my stomach and the specter of my family. |
 | apologizing | 道歉；认错 | Old Stella would've called them the next morning, apologizing profusely and wallowing in guilt over what had happened. |
-| attempting | 尝试；试图 | While I regretted hurting my parents, I was stung that they weren't even attempting to understand where I was coming from. |
-| protective | 保护的；防护的 | I was more surprised than anyone by how my protective instincts had surged during my father's rant. |
 | cornerstone | 基石；基础 | Hawaii was beautiful, and the photoshoot was the cornerstone of Delamonte's new campaign. |
 | professional | 专业的；职业的 | I didn't want to be a professional model, but the Hawaii campaign could do huge things for my career. |
-| excitement | 兴奋；激动 | It weighed on my shoulders and ate away at my excitement until my head spun with worst-case scenarios. |
-| worst-case | 最坏情况；最糟的 | It weighed on my shoulders and ate away at my excitement until my head spun with worst-case scenarios. |
 | comfortable | 舒适的；舒服的 | I'd gotten more comfortable posing in front of other people's cameras since my first Delamonte shoot in New York, but Hawaii was different. |
 | incompetence | 不称职；无能力 | Could Delamonte fire me for incompetence in the middle of the campaign? |
-| confidence | 信心；自信 | "You have too much confidence in me. |
 | electricity | 电；电流 | The memory of his words sparked like electricity between us. |
 | exaggerating | 夸大；夸张 | "You're exaggerating. |
-| reasonable | 合理的；适当的 | Two large suitcases, one duffel bag, and one tote seemed perfectly reasonable for three days in Hawaii. |
 | security-related | 与安全相关的 | On a security-related note…" Christian's dry amusement faded into something more serious. |
-| confession | 坦白；承认 | Between Christian's confession, my family dinner, and preparing for the shoot, I'd pushed worries about my stalker to the back of my mind. |
 | regretfully | 遗憾地；后悔地 | "We'll visit Hawaii together another time," I told him regretfully. |
-| familiarity | 熟悉；亲密 | I just liked having a bit of familiarity when I visited new places. |
-| nervousness | 紧张；焦虑 | My emotions swung from excitement to dread to nervousness and back again, but I felt better knowing Christian would be with me. |
-| butterflies | 蝴蝶；紧张感 | The butterflies in my stomach fluttered again at the thought of three days in paradise with him. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| disowned | 断绝关系；逐出家门 | There's a fifty-fifty chance my father disowned me tonight. |
-| obedient | 顺从的；听话的 | I've always been the quiet, obedient daughter. |
-| daughter | 女儿 | I've always been the quiet, obedient daughter. |
-| honestly | 老实说；诚实地 | But honestly, I don't think I would've found the courage to do so tonight if Christian hadn't been there. |
-| Christian | 克里斯蒂安 | But honestly, I don't think I would've found the courage to do so tonight if Christian hadn't been there. |
-| Actually | 实际上；其实 | Actually, that describes how I feel about Christian perfectly, like he won't judge me no matter what I say or do. |
-| describes | 描述；描绘 | Actually, that describes how I feel about Christian perfectly, like he won't judge me no matter what I say or do. |
-| perfectly | 完美地；完全地 | Actually, that describes how I feel about Christian perfectly, like he won't judge me no matter what I say or do. |
-| tomorrow | 明天 | I'd put it off until the last minute, but I needed to get it done today since I left tomorrow for Delamonte's big photoshoot in Hawaii. |
-| Delamonte | 德尔蒙特 | I'd put it off until the last minute, but I needed to get it done today since I left tomorrow for Delamonte's big photoshoot in Hawaii. |
-| swimming | 游泳；漂浮 | Packing was a welcome distraction from the nerves swimming in my stomach and the specter of my family. |
-| profusely | 大量地；频繁地 | Old Stella would've called them the next morning, apologizing profusely and wallowing in guilt over what had happened. |
-| wallowing | 沉溺；翻滚 | Old Stella would've called them the next morning, apologizing profusely and wallowing in guilt over what had happened. |
+| constantly | 不断地；时常地 | And in a world where I'm constantly being judged—online and in real life—that's the best feeling in the world. |
+| photoshoot | 摄影；拍照 | I'd put it off until the last minute, but I needed to get it done today since I left tomorrow for Delamonte's big photoshoot in Hawaii. |
+| attempting | 尝试；试图 | While I regretted hurting my parents, I was stung that they weren't even attempting to understand where I was coming from. |
+| protective | 保护的；防护的 | I was more surprised than anyone by how my protective instincts had surged during my father's rant. |
+| excitement | 兴奋；激动 | It weighed on my shoulders and ate away at my excitement until my head spun with worst-case scenarios. |
+| worst-case | 最坏情况；最糟的 | It weighed on my shoulders and ate away at my excitement until my head spun with worst-case scenarios. |
+| confidence | 信心；自信 | "You have too much confidence in me. |
+| familiarity | 熟悉；亲密 | I just liked having a bit of familiarity when I visited new places. |
+| nervousness | 紧张；焦虑 | My emotions swung from excitement to dread to nervousness and back again, but I felt better knowing Christian would be with me. |
+| butterflies | 蝴蝶；紧张感 | The butterflies in my stomach fluttered again at the thought of three days in paradise with him. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| photoshoot | 摄影；拍照 | I'd put it off until the last minute, but I needed to get it done today since I left tomorrow for Delamonte's big photoshoot in Hawaii. |
-| distraction | 分心；干扰 | Packing was a welcome distraction from the nerves swimming in my stomach and the specter of my family. |
-| apologizing | 道歉；认错 | Old Stella would've called them the next morning, apologizing profusely and wallowing in guilt over what had happened. |
-| attempting | 尝试；试图 | While I regretted hurting my parents, I was stung that they weren't even attempting to understand where I was coming from. |
-| protective | 保护的；防护的 | I was more surprised than anyone by how my protective instincts had surged during my father's rant. |
+| reasonable | 合理的；适当的 | Two large suitcases, one duffel bag, and one tote seemed perfectly reasonable for three days in Hawaii. |
+| confession | 坦白；承认 | Between Christian's confession, my family dinner, and preparing for the shoot, I'd pushed worries about my stalker to the back of my mind. |
+| Christian | 克里斯蒂安 | But honestly, I don't think I would've found the courage to do so tonight if Christian hadn't been there. |
+| describes | 描述；描绘 | Actually, that describes how I feel about Christian perfectly, like he won't judge me no matter what I say or do. |
+| perfectly | 完美地；完全地 | Actually, that describes how I feel about Christian perfectly, like he won't judge me no matter what I say or do. |
 
 ## 一句话总结
 

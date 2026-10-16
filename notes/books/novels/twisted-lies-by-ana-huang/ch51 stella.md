@@ -82,55 +82,41 @@ pov: "Stella"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| lethalness | 致命性；致命 | A chill skated down my spine at the calm lethalness of his response. |
 | instinctively | 本能地；直觉地 | The chime of the doorbell broke the spell, and I instinctively glanced toward the living room. |
 | uncharacteristic | 不典型的；非特有的 | The uncharacteristic uncertainty in his tone sparked a seed of curiosity and something warmer that slid through me like molten honey. |
 | uncertainty | 不确定性；怀疑 | The uncharacteristic uncertainty in his tone sparked a seed of curiosity and something warmer that slid through me like molten honey. |
-| especially | 特别地；尤其地 | But Christian…I didn't want him doing anything that would haunt him, especially if it was for me. |
-| completely | 完全地；彻底地 | "So much happened, and it completely slipped my mind. |
-| exhaustive | 详尽的；彻底的 | Two hours and one exhaustive recount of my kidnapping and the aftermath later, I found myself staring at three slack-jawed statues. |
-| kidnapping | 绑架；诱拐 | Two hours and one exhaustive recount of my kidnapping and the aftermath later, I found myself staring at three slack-jawed statues. |
 | slack-jawed | 张口结舌的；呆若木鸡的 | Two hours and one exhaustive recount of my kidnapping and the aftermath later, I found myself staring at three slack-jawed statues. |
 | babysitting | 保姆；照看 | When lunchtime passed, however, I gently but firmly insisted that they go about the rest of their day and that I didn't need babysitting. |
 | appreciated | 欣赏；感激 | I appreciated their company and concern, but I'd exhausted my social battery for the day. |
-| impersonal | 客观的；没有人情味的 | When I first moved in, I thought it was cold and impersonal, like a model showroom. |
-| impossible | 不可能的；难以置信的 | Staying away was impossible. |
-| heartbeats | 心跳；心搏 | My heartbeats collided with each other as I walked to his desk and triggered the secret drawer mechanism. |
 | soundlessly | 无声地；寂静地 | The compartment slid out soundlessly. |
 | experienced | 经历；体验 | I experienced a twinge of surprise when I saw its contents. |
 | handwritten | 手写的；亲手写的 | There were at least a dozen of them, handwritten on simple cream stationery. |
-| stationery | 文具；信纸 | There were at least a dozen of them, handwritten on simple cream stationery. |
-| recognized | 认出；识别 | I recognized Christian's bold, elegant scrawl immediately. |
 | immediately | 立即；马上 | I recognized Christian's bold, elegant scrawl immediately. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| previous | 以前的；先前的 | It was the latest I'd ever woken up, but the previous day's events had taken their toll. |
-| fogginess | 模糊；朦胧 | Even after a solid sixteen hours of rest, fogginess clouded my brain as I walked to the kitchen. |
-| kidnapped | 被绑架的；被诱拐的 | Being drugged and kidnapped. |
-| classmate | 同学；同班同学 | Finding out my old classmate slash the reporter who'd written that amazing profile on me was my stalker. |
-| reporter | 记者；通讯员 | Finding out my old classmate slash the reporter who'd written that amazing profile on me was my stalker. |
-| Christian | 克里斯蒂安（人名） | Nearly dying, then getting rescued by Christian, staying the night at his house, and sort of/kind of making up with him. |
-| expected | 预期；期待 | It was Monday, so I'd expected Christian to be at work. |
-| surprise | 惊讶；惊奇 | I blinked with surprise. |
-| breakfast | 早餐；早饭 | "Nina's here and made breakfast. |
-| favorite | 最喜欢的；最喜爱的 | Lemon ricotta pancakes, your favorite. |
-| yesterday | 昨天；昨日 | I'd had a pastry for lunch and skipped dinner yesterday, so I would be happy with any kind of food. |
-| happened | 发生；碰巧 | "I had to tell Ava what happened since she was worried when you didn't come home last night. |
-| correctly | 正确地；恰当地 | She correctly guessed you were with me. |
-| forgotten | 忘记；遗忘 | I'd totally forgotten to let Ava know I was okay. |
-| normalcy | 正常；常态 | Seeing my friends would give me a sense of normalcy, though I knew they must be freaking out. |
+| lethalness | 致命性；致命 | A chill skated down my spine at the calm lethalness of his response. |
+| especially | 特别地；尤其地 | But Christian…I didn't want him doing anything that would haunt him, especially if it was for me. |
+| completely | 完全地；彻底地 | "So much happened, and it completely slipped my mind. |
+| exhaustive | 详尽的；彻底的 | Two hours and one exhaustive recount of my kidnapping and the aftermath later, I found myself staring at three slack-jawed statues. |
+| kidnapping | 绑架；诱拐 | Two hours and one exhaustive recount of my kidnapping and the aftermath later, I found myself staring at three slack-jawed statues. |
+| impersonal | 客观的；没有人情味的 | When I first moved in, I thought it was cold and impersonal, like a model showroom. |
+| impossible | 不可能的；难以置信的 | Staying away was impossible. |
+| heartbeats | 心跳；心搏 | My heartbeats collided with each other as I walked to his desk and triggered the secret drawer mechanism. |
+| stationery | 文具；信纸 | There were at least a dozen of them, handwritten on simple cream stationery. |
+| recognized | 认出；识别 | I recognized Christian's bold, elegant scrawl immediately. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| lethalness | 致命性；致命 | A chill skated down my spine at the calm lethalness of his response. |
-| instinctively | 本能地；直觉地 | The chime of the doorbell broke the spell, and I instinctively glanced toward the living room. |
-| uncharacteristic | 不典型的；非特有的 | The uncharacteristic uncertainty in his tone sparked a seed of curiosity and something warmer that slid through me like molten honey. |
-| uncertainty | 不确定性；怀疑 | The uncharacteristic uncertainty in his tone sparked a seed of curiosity and something warmer that slid through me like molten honey. |
+| fogginess | 模糊；朦胧 | Even after a solid sixteen hours of rest, fogginess clouded my brain as I walked to the kitchen. |
+| kidnapped | 被绑架的；被诱拐的 | Being drugged and kidnapped. |
+| classmate | 同学；同班同学 | Finding out my old classmate slash the reporter who'd written that amazing profile on me was my stalker. |
+| Christian | 克里斯蒂安（人名） | Nearly dying, then getting rescued by Christian, staying the night at his house, and sort of/kind of making up with him. |
+| breakfast | 早餐；早饭 | "Nina's here and made breakfast. |
 
 ## 一句话总结
 

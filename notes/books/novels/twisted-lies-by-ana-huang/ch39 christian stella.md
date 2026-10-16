@@ -82,100 +82,41 @@ pov: "Christian/Stella"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| monitoring | 监视；监控 | I spent my days visiting local landmarks and shopping with Stella and my nights monitoring the situation in D.C. |
-| expression | 表情；神色 | A smile played on my mouth as Stella tipped her head back with a dreamy expression. |
 | hand-holding | 牵手；手拉手 | I normally hated hand-holding, but I could make the occasional exception. |
-| occasional | 偶尔的；不经常的 | I normally hated hand-holding, but I could make the occasional exception. |
-| Incredible | 难以置信的；极好的 | "Incredible. |
-| breathless | 喘不过气来的；屏息的 | Stella stopped in front of me, breathless from her spin. |
 | protectively | 保护性地；守护地 | I lifted her hand and curled mine protectively around it. |
 | unacceptable | 不可接受的；不能容忍的 | In my world, weakness was unacceptable, and she was the greatest weakness I had. |
 | exasperated | 恼怒的；烦躁的 | Stella gave me an exasperated look. |
-| immortalize | 使不朽；使永存 | I didn't care much for art, but if I could immortalize her in that moment as a painting, I would. |
 | relationship | 关系；关联 | My relationship with Christian could be measured in incremental shifts. |
-| incremental | 渐进的；增量的 | My relationship with Christian could be measured in incremental shifts. |
-| especially | 特别地；尤其地 | But our time in Italy, especially after what he shared about his family, felt like more than an incremental shift. |
-| fundamental | 基本的；根本的 | And it hadn't been just anything; it'd been a fundamental part of his upbringing, something that'd shaped him into who he was today. |
-| upbringing | 教养；养育 | And it hadn't been just anything; it'd been a fundamental part of his upbringing, something that'd shaped him into who he was today. |
-| instrument | 仪器；工具 | I turned my head and watched Christian adjust something on the boat's instrument panel. |
-| salt-tinged | 带盐味的；咸味的 | There was no one around except us, a gentle breeze, and the faint scent of coconut sunscreen and salt-tinged sea air. |
-| imagination | 想象力；想象 | In fact, the entire past month had been a dream, and I was scared I would wake up and find out it'd all been a figment of my imagination. |
 | overthinking | 过度分析；过度思考 | "You're overthinking again. |
-| inevitable | 不可避免的；必然发生的 | My relationship with Christian had been perfect so far, but a part of me was waiting for that inevitable crash. |
-| suggestion | 建议；暗示 | The suggestion throbbed with painful insistence between my thighs. |
-| insistence | 坚持；坚决 | The suggestion throbbed with painful insistence between my thighs. |
 | reservations | 预订；保留 | My reservations melted when I felt the first bite of the rope around my wrists. |
-| embarrassed | 尴尬的；窘迫的 | I used to feel ashamed or embarrassed about my sexual proclivities, but being with Christian had put most of my worries to rest. |
 | proclivities | 倾向；癖好 | I used to feel ashamed or embarrassed about my sexual proclivities, but being with Christian had put most of my worries to rest. |
-| blindfolded | 蒙住眼睛的；被蒙住眼睛的 | I'd never been blindfolded during sex. |
-| stimulation | 刺激；激励 | In the absence of visual stimulation, all my thoughts turned to how vulnerable I was at that moment. |
-| vulnerable | 脆弱的；易受伤害的 | In the absence of visual stimulation, all my thoughts turned to how vulnerable I was at that moment. |
 | Anticipation | 预期；期待 | Anticipation shivered over my skin. |
-| immediately | 立即；马上 | It didn't touch my nipples, but they immediately hardened from the proximate chill. |
-| temperature | 温度；体温 | The sudden change in temperature sent shockwaves through my body. |
-| shockwaves | 冲击波；震动 | The sudden change in temperature sent shockwaves through my body. |
-| impossibly | 不可能地；极度地 | It wasn't just the ice, the tight bindings on my wrists, or the way I tugged and twisted that made everything feel impossibly erotic. |
-| sweetheart | 甜心；宝贝 | "Open wider for me, sweetheart. |
-| stretching | 拉伸；伸展 | I loved when he used his fingers and mouth, but there was nothing better than the sensation of Christian stretching and filling me. |
-| practically | 实际上；几乎 | My body was bent practically double with my ankles by my ears and my hands tied together above my head while Christian pounded into me. |
 | excruciating | 极痛苦的；极度的 | The ache in my center built to an excruciating level. |
-| Absolutely | 绝对地；完全地 | "Absolutely nothing. |
-| cultivated | 培养的；修养的 | But there was another layer of Christian Harper beneath his carefully cultivated exterior. |
-| encouraged | 鼓励；支持 | I heard it in the way he encouraged me and stood up for me. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| monitoring | 监视；监控 | I spent my days visiting local landmarks and shopping with Stella and my nights monitoring the situation in D.C. |
-| expression | 表情；神色 | A smile played on my mouth as Stella tipped her head back with a dreamy expression. |
-| hand-holding | 牵手；手拉手 | I normally hated hand-holding, but I could make the occasional exception. |
-| occasional | 偶尔的；不经常的 | I normally hated hand-holding, but I could make the occasional exception. |
-| Incredible | 难以置信的；极好的 | "Incredible. |
-| breathless | 喘不过气来的；屏息的 | Stella stopped in front of me, breathless from her spin. |
-| protectively | 保护性地；守护地 | I lifted her hand and curled mine protectively around it. |
-| unacceptable | 不可接受的；不能容忍的 | In my world, weakness was unacceptable, and she was the greatest weakness I had. |
-| exasperated | 恼怒的；烦躁的 | Stella gave me an exasperated look. |
 | immortalize | 使不朽；使永存 | I didn't care much for art, but if I could immortalize her in that moment as a painting, I would. |
-| relationship | 关系；关联 | My relationship with Christian could be measured in incremental shifts. |
 | incremental | 渐进的；增量的 | My relationship with Christian could be measured in incremental shifts. |
-| especially | 特别地；尤其地 | But our time in Italy, especially after what he shared about his family, felt like more than an incremental shift. |
 | fundamental | 基本的；根本的 | And it hadn't been just anything; it'd been a fundamental part of his upbringing, something that'd shaped him into who he was today. |
-| upbringing | 教养；养育 | And it hadn't been just anything; it'd been a fundamental part of his upbringing, something that'd shaped him into who he was today. |
-| instrument | 仪器；工具 | I turned my head and watched Christian adjust something on the boat's instrument panel. |
 | salt-tinged | 带盐味的；咸味的 | There was no one around except us, a gentle breeze, and the faint scent of coconut sunscreen and salt-tinged sea air. |
 | imagination | 想象力；想象 | In fact, the entire past month had been a dream, and I was scared I would wake up and find out it'd all been a figment of my imagination. |
-| overthinking | 过度分析；过度思考 | "You're overthinking again. |
-| inevitable | 不可避免的；必然发生的 | My relationship with Christian had been perfect so far, but a part of me was waiting for that inevitable crash. |
-| suggestion | 建议；暗示 | The suggestion throbbed with painful insistence between my thighs. |
-| insistence | 坚持；坚决 | The suggestion throbbed with painful insistence between my thighs. |
-| reservations | 预订；保留 | My reservations melted when I felt the first bite of the rope around my wrists. |
 | embarrassed | 尴尬的；窘迫的 | I used to feel ashamed or embarrassed about my sexual proclivities, but being with Christian had put most of my worries to rest. |
-| proclivities | 倾向；癖好 | I used to feel ashamed or embarrassed about my sexual proclivities, but being with Christian had put most of my worries to rest. |
 | blindfolded | 蒙住眼睛的；被蒙住眼睛的 | I'd never been blindfolded during sex. |
 | stimulation | 刺激；激励 | In the absence of visual stimulation, all my thoughts turned to how vulnerable I was at that moment. |
-| vulnerable | 脆弱的；易受伤害的 | In the absence of visual stimulation, all my thoughts turned to how vulnerable I was at that moment. |
-| Anticipation | 预期；期待 | Anticipation shivered over my skin. |
 | immediately | 立即；马上 | It didn't touch my nipples, but they immediately hardened from the proximate chill. |
 | temperature | 温度；体温 | The sudden change in temperature sent shockwaves through my body. |
-| shockwaves | 冲击波；震动 | The sudden change in temperature sent shockwaves through my body. |
-| impossibly | 不可能地；极度地 | It wasn't just the ice, the tight bindings on my wrists, or the way I tugged and twisted that made everything feel impossibly erotic. |
-| sweetheart | 甜心；宝贝 | "Open wider for me, sweetheart. |
-| stretching | 拉伸；伸展 | I loved when he used his fingers and mouth, but there was nothing better than the sensation of Christian stretching and filling me. |
-| practically | 实际上；几乎 | My body was bent practically double with my ankles by my ears and my hands tied together above my head while Christian pounded into me. |
-| excruciating | 极痛苦的；极度的 | The ache in my center built to an excruciating level. |
-| Absolutely | 绝对地；完全地 | "Absolutely nothing. |
-| cultivated | 培养的；修养的 | But there was another layer of Christian Harper beneath his carefully cultivated exterior. |
-| encouraged | 鼓励；支持 | I heard it in the way he encouraged me and stood up for me. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| relationship | 关系；关联 | My relationship with Christian could be measured in incremental shifts. |
-| incremental | 渐进的；增量的 | My relationship with Christian could be measured in incremental shifts. |
-| especially | 特别地；尤其地 | But our time in Italy, especially after what he shared about his family, felt like more than an incremental shift. |
-| fundamental | 基本的；根本的 | And it hadn't been just anything; it'd been a fundamental part of his upbringing, something that'd shaped him into who he was today. |
+| monitoring | 监视；监控 | I spent my days visiting local landmarks and shopping with Stella and my nights monitoring the situation in D.C. |
+| expression | 表情；神色 | A smile played on my mouth as Stella tipped her head back with a dreamy expression. |
+| occasional | 偶尔的；不经常的 | I normally hated hand-holding, but I could make the occasional exception. |
+| Incredible | 难以置信的；极好的 | "Incredible. |
+| practically | 实际上；几乎 | My body was bent practically double with my ankles by my ears and my hands tied together above my head while Christian pounded into me. |
 
 ## 一句话总结
 

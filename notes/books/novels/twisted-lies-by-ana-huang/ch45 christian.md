@@ -83,54 +83,40 @@ pov: "Christian"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | soundlessly | 无声地；寂静地 | My office door opened soundlessly, and I sank into my seat without turning on the lights. |
-| adrenaline | 肾上腺素 | Scotch and adrenaline from the poker tournament lingered in my blood. |
-| tournament | 锦标赛；比赛 | Scotch and adrenaline from the poker tournament lingered in my blood. |
 | congratulated | 祝贺；恭喜 | He was off duty since Stella was home for the night, but I hadn't congratulated him. |
-| instructed | 指示；命令 | I'd instructed him to alert me immediately if she was in danger, but otherwise, her present-day life remained a mystery. |
 | immediately | 立即；马上 | I'd instructed him to alert me immediately if she was in danger, but otherwise, her present-day life remained a mystery. |
 | present-day | 现在的；现行的 | I'd instructed him to alert me immediately if she was in danger, but otherwise, her present-day life remained a mystery. |
 | information | 信息；消息 | I'd been tempted to call Jules for information as well. |
 | effectively | 有效地；实际上 | It was a leash I could easily break, yet it shackled me more effectively than iron restraints. |
-| restraints | 约束；限制 | It was a leash I could easily break, yet it shackled me more effectively than iron restraints. |
 | therapeutic | 治疗的；有疗效的 | The letters were the only way I could talk to her these days, and writing them was almost therapeutic. |
-| exhaustion | 疲惫；筋疲力尽 | When I finished, exhaustion blurred my vision, but I tucked the note carefully into the drawer along with its brethren. |
-| collection | 收藏；系列 | My collection of plants lined the sill, silhouetted against the moonlight. |
 | silhouetted | 剪影；轮廓 | My collection of plants lined the sill, silhouetted against the moonlight. |
 | religiously | 虔诚地；认真地 | I'd been watering and taking care of them religiously since Stella left. |
-| conversing | 交谈；对话 | I couldn't believe I'd sunk to conversing with plants, but here we were. |
-| heartbreak | 心碎；悲伤 | It's because the time they spent together was worth the heartbreak. |
-| eventually | 最终；终于 | Even knowing that I would eventually get my heart broken. |
 | overlooking | 俯瞰；忽视 | Or, as an alternative, cuddling on a bench overlooking the river, followed by whispered sweet nothings and a goodnight kiss. |
-| restaurant | 餐厅；餐馆 | We'll have dinner at my favorite Italian restaurant in Columbia Heights. |
-| Georgetown | 乔治敦（地名） | After that, we'll have drinks at a bar nearby, then go to the Georgetown waterfront and sit on a bench by the river. |
-| waterfront | 海滨；水边 | After that, we'll have drinks at a bar nearby, then go to the Georgetown waterfront and sit on a bench by the river. |
-| two-thirty | 两点半 | It's two-thirty in the morning as I write this. |
-| twenty-four | 二十四 | I haven't slept in almost twenty-four hours. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| memories | 记忆；回忆 | I passed by too many quiet rooms and too many ghosts of our memories. |
-| shredded | 撕碎；粉碎 | I'd shredded all the files I'd had on Stella the day after she found them, but their phantom presence tainted what used to be a sanctuary. |
-| presence | 存在；出席 | I'd shredded all the files I'd had on Stella the day after she found them, but their phantom presence tainted what used to be a sanctuary. |
-| sanctuary | 避难所；圣殿 | I'd shredded all the files I'd had on Stella the day after she found them, but their phantom presence tainted what used to be a sanctuary. |
-| preferred | 更喜欢；偏好 | Still, I preferred the office to my bedroom, where her soft scent lingered in the sheets and pillows weeks later. |
-| lingered | 徘徊；逗留 | Still, I preferred the office to my bedroom, where her soft scent lingered in the sheets and pillows weeks later. |
-| reminded | 提醒；使想起 | It was hard for me to look at him when he reminded me of her. |
-| remained | 保持；仍然是 | I'd instructed him to alert me immediately if she was in danger, but otherwise, her present-day life remained a mystery. |
-| thinking | 思考；想法 | If anyone knew what Stella was thinking and feeling, it was her. |
-| shackled | 束缚；上镣铐 | It was a leash I could easily break, yet it shackled me more effectively than iron restraints. |
-| stupider | 更蠢的；更笨的 | I felt so fucking stupid for missing her so much and even stupider for the coping mechanism I'd developed since she left. |
+| adrenaline | 肾上腺素 | Scotch and adrenaline from the poker tournament lingered in my blood. |
+| tournament | 锦标赛；比赛 | Scotch and adrenaline from the poker tournament lingered in my blood. |
+| instructed | 指示；命令 | I'd instructed him to alert me immediately if she was in danger, but otherwise, her present-day life remained a mystery. |
+| restraints | 约束；限制 | It was a leash I could easily break, yet it shackled me more effectively than iron restraints. |
+| exhaustion | 疲惫；筋疲力尽 | When I finished, exhaustion blurred my vision, but I tucked the note carefully into the drawer along with its brethren. |
+| collection | 收藏；系列 | My collection of plants lined the sill, silhouetted against the moonlight. |
+| conversing | 交谈；对话 | I couldn't believe I'd sunk to conversing with plants, but here we were. |
+| heartbreak | 心碎；悲伤 | It's because the time they spent together was worth the heartbreak. |
+| eventually | 最终；终于 | Even knowing that I would eventually get my heart broken. |
+| twenty-four | 二十四 | I haven't slept in almost twenty-four hours. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| soundlessly | 无声地；寂静地 | My office door opened soundlessly, and I sank into my seat without turning on the lights. |
-| adrenaline | 肾上腺素 | Scotch and adrenaline from the poker tournament lingered in my blood. |
-| tournament | 锦标赛；比赛 | Scotch and adrenaline from the poker tournament lingered in my blood. |
-| congratulated | 祝贺；恭喜 | He was off duty since Stella was home for the night, but I hadn't congratulated him. |
+| restaurant | 餐厅；餐馆 | We'll have dinner at my favorite Italian restaurant in Columbia Heights. |
+| Georgetown | 乔治敦（地名） | After that, we'll have drinks at a bar nearby, then go to the Georgetown waterfront and sit on a bench by the river. |
+| waterfront | 海滨；水边 | After that, we'll have drinks at a bar nearby, then go to the Georgetown waterfront and sit on a bench by the river. |
+| two-thirty | 两点半 | It's two-thirty in the morning as I write this. |
+| sanctuary | 避难所；圣殿 | I'd shredded all the files I'd had on Stella the day after she found them, but their phantom presence tainted what used to be a sanctuary. |
 
 ## 一句话总结
 

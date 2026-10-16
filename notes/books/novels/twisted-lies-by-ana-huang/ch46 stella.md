@@ -82,55 +82,41 @@ pov: "Stella"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| restaurant | 餐厅；餐馆 | It was the quietest corner of the restaurant, which bustled with the Sunday brunch rush. |
 | transplanted | 移植；迁移 | It was like our family dinner had transplanted itself into a green leather booth instead of my parents' prized mahogany dining table. |
-| differences | 差异；不同 | The only differences were the sunny windows and the awkward silence blanketing the table after we ran out of small talk. |
-| blanketing | 覆盖；覆盖 | The only differences were the sunny windows and the awkward silence blanketing the table after we ran out of small talk. |
-| Greenfield | 格林菲尔德（地名） | She has her garden and puzzles at Greenfield, so she's happy. |
 | relationship | 关系；关联 | The truth is, I've always been a little jealous of your relationship with Maura. |
-| practically | 实际上；几乎 | We practically have to force you to come to our family dinners. |
-| competition | 竞争；比赛 | "It makes everything into a competition," I said. |
 | high-powered | 高级的；有权势的 | "You, Dad, and Natalia all have these high-powered jobs, and I'm…well, you know. |
-| financially | 经济上地；财务上地 | I admit, we don't always understand your choices, and yes, we wished you'd chosen a more financially stable career than fashion. |
-| disappoint | 使失望；使沮丧 | But you could never disappoint us. |
-| collection | 收藏；系列 | "I completed my first collection. |
 | partnerships | 合作关系；合伙 | "Obviously, you're doing well with your partnerships, and the fashion line is off to a good start. |
 | disrespectful | 不尊重的；无礼的 | "It was disrespectful, the way he spoke to me in my own home, but I suppose he wasn't entirely wrong. |
-| Considering | 考虑到；鉴于 | Considering the way Christian and I had defended each other at the dinner, they'd probably thought we would last longer than a few months. |
 | sympathetically | 同情地；有同情心地 | "I'm sorry," my mother said sympathetically. |
 | conversation | 对话；交谈 | I switched topics, and the conversation lightened until my father went outside to take a call and my mom went to use the restroom. |
-| noticeably | 明显地；显著地 | Natalia had been noticeably quiet all afternoon, but she turned to me when they were out of earshot. |
-| appreciated | 欣赏；感激 | Either way, I appreciated and resented it. |
-| intensified | 加剧；加强 | My earlier lethargy intensified and tugged at my limbs and eyelids. |
 | unmistakable | 明显的；不会弄错的 | A second later, I heard the faint but unmistakable sound of vomiting. |
-| far-fetched | 牵强的；不切实际的 | It seemed far-fetched, but stranger things had happened. |
 | increasingly | 越来越多地；日益 | I paused at the exit and tried to sort through my increasingly muddled thoughts. |
-| hypothetical | 假设的；假定的 | If I left, I could be playing right into a hypothetical attacker's hands. |
 | kaleidoscopic | 万花筒似的；千变万化的 | The world was a kaleidoscopic haze of concrete and distant car horns. |
-| Eventually | 最终；终于 | Eventually, the sounds faded, and there was only the crunch of gravel beneath our feet. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| Virginia | 弗吉尼亚（地名） | That weekend, my family and I met at a cafe in Virginia. |
-| quietest | 最安静的 | It was the quietest corner of the restaurant, which bustled with the Sunday brunch rush. |
-| mahogany | 红木；桃花心木 | It was like our family dinner had transplanted itself into a green leather booth instead of my parents' prized mahogany dining table. |
-| answered | 回答；答复 | I blinked at her choice of topic, but I answered readily. |
-| elephant | 大象； elephant in the room | We'd been dodging the elephant in the room all afternoon. |
-| afternoon | 下午；午后 | We'd been dodging the elephant in the room all afternoon. |
-| happened | 发生；碰巧 | "About what happened at the dinner…" Everyone visibly stiffened. |
-| stiffened | 变硬；僵硬 | "About what happened at the dinner…" Everyone visibly stiffened. |
-| feelings | 感情；感觉 | "I'm sorry if I hurt your feelings, Mom," I said softly. |
+| restaurant | 餐厅；餐馆 | It was the quietest corner of the restaurant, which bustled with the Sunday brunch rush. |
+| differences | 差异；不同 | The only differences were the sunny windows and the awkward silence blanketing the table after we ran out of small talk. |
+| practically | 实际上；几乎 | We practically have to force you to come to our family dinners. |
+| competition | 竞争；比赛 | "It makes everything into a competition," I said. |
+| financially | 经济上地；财务上地 | I admit, we don't always understand your choices, and yes, we wished you'd chosen a more financially stable career than fashion. |
+| Considering | 考虑到；鉴于 | Considering the way Christian and I had defended each other at the dinner, they'd probably thought we would last longer than a few months. |
+| appreciated | 欣赏；感激 | Either way, I appreciated and resented it. |
+| intensified | 加剧；加强 | My earlier lethargy intensified and tugged at my limbs and eyelids. |
+| far-fetched | 牵强的；不切实际的 | It seemed far-fetched, but stranger things had happened. |
+| hypothetical | 假设的；假定的 | If I left, I could be playing right into a hypothetical attacker's hands. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| restaurant | 餐厅；餐馆 | It was the quietest corner of the restaurant, which bustled with the Sunday brunch rush. |
-| transplanted | 移植；迁移 | It was like our family dinner had transplanted itself into a green leather booth instead of my parents' prized mahogany dining table. |
-| differences | 差异；不同 | The only differences were the sunny windows and the awkward silence blanketing the table after we ran out of small talk. |
 | blanketing | 覆盖；覆盖 | The only differences were the sunny windows and the awkward silence blanketing the table after we ran out of small talk. |
+| Greenfield | 格林菲尔德（地名） | She has her garden and puzzles at Greenfield, so she's happy. |
+| disappoint | 使失望；使沮丧 | But you could never disappoint us. |
+| collection | 收藏；系列 | "I completed my first collection. |
+| noticeably | 明显地；显著地 | Natalia had been noticeably quiet all afternoon, but she turned to me when they were out of earshot. |
 
 ## 一句话总结
 

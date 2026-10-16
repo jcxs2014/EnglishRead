@@ -82,45 +82,15 @@ pov: "Stella"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| month-long | 为期一个月的 | Venice, Rome, Positano… I never found the time or money, but now, here I am, packing for a month-long trip. |
-| incredible | 难以置信的；极好的 | Italy was as incredible as I'd imagined. |
 | expectations | 期望；期待 | The food, the beauty, the culture…everything lived up to my expectations and more. |
-| ambassador | 大使；代表 | In Italy, I wasn't a brand ambassador or a content creator chasing the perfect photo. |
-| liberating | 解放的；自由的 | It was liberating…when said boyfriend wasn't being a jerk about my driving skills. |
 | pedestrians | 行人 | I'm saying there are a lot of pedestrians you can run over in the city. |
-| activities | 活动 | We had a full day of activities ahead of us, and I'd insisted on using Vespas to get around. |
 | Unfortunately | 不幸地；遗憾的是 | Unfortunately, Christian and I had different opinions on how many we should rent. |
-| Apparently | 显然地；Apparently, he wasn't over the ATV incident in Hawaii | Apparently, he wasn't over the ATV incident in Hawaii. |
-| compromise | 妥协；折中 | "Let's compromise. |
-| difference | 差异；不同 | The only difference was it had an engine. |
-| straighter | 更直的 | "Sit straighter and bend your elbows a little…a little more. |
 | instructions | 指示；说明 | I followed his instructions until he declared me ready for the test. |
-| appreciate | 欣赏；感激 | I did not appreciate the amount of skepticism imbued in that one noise. |
-| skepticism | 怀疑；质疑 | I did not appreciate the amount of skepticism imbued in that one noise. |
-| sideswiped | 侧面撞击；刮擦 | I'd turned too late and sideswiped one of the giant flower pots bordering the hotel's outdoor cafe. |
-| terracotta | 赤陶土；陶土 | We stared at the giant crack in the terracotta urn. |
-| wordlessly | 无言地；沉默地 | I got off the Vespa and wordlessly handed Christian the keys. |
-| beforehand | 事先；预先 | If I hadn't known about his aversion to art beforehand, I would've thought he enjoyed the exhibitions. |
 | exhibitions | 展览；展览会 | If I hadn't known about his aversion to art beforehand, I would've thought he enjoyed the exhibitions. |
-| unsettling | 令人不安的；令人担忧的 | It was unsettling but also kind of genius. |
 | sympathetic | 同情的；有同情心的 | His eyes met Christian's, who stared back with what almost looked like a sympathetic expression. |
-| expression | 表情；神色 | His eyes met Christian's, who stared back with what almost looked like a sympathetic expression. |
 | disappeared | 消失；不见 | I waited until the server set our drinks on the table and disappeared into the kitchen before I spoke. |
-| understood | 理解；明白 | He was naturally guarded, and I understood that. |
 | comfortable | 舒适的；舒服的 | But if we were going to make our relationship work, he needed to feel as comfortable opening up to me as I did with him. |
-| moonlighted | 兼职；做兼职 | What I didn't tell you was what he moonlighted as. |
-| information | 信息；消息 | I was still wrapping my head around this explosive new piece of information when Christian continued. |
-| Ironically | 讽刺地；具有讽刺意味的是 | "Ironically, he wasn't the big art lover in the family. |
-| willingness | 意愿；意愿 | His willingness to risk everything just to make her happy. |
-| encouraged | 鼓励；支持 | You'd think she would try to talk him out of it, but she encouraged it. |
-| eventually | 最终；终于 | They tried to hide what they were doing from me when I was younger, but I eventually caught on. |
 | coincidences | 巧合；巧事 | There were too many coincidences between my father's mysterious business trips and the dates the stolen art were reported on the news. |
-| mysterious | 神秘的；不可思议的 | There were too many coincidences between my father's mysterious business trips and the dates the stolen art were reported on the news. |
-| confronted | 对质；面对 | When I confronted my father about it, he confessed. |
-| physically | 身体上地；物理上地 | Maybe his parents hadn't been physically abusive, but it sounded like they hadn't cared about his emotional or mental well-being at all. |
-| well-being | 幸福；健康 | Maybe his parents hadn't been physically abusive, but it sounded like they hadn't cared about his emotional or mental well-being at all. |
-| businessman | 商人；企业家 | Instead of a museum, he tried to rob some wealthy businessman's house. |
-| tentatively | 试探性地；犹豫地 | I tentatively reached for his hand and curled mine over it. |
 | reservations | 预订；保留 | "We have lunch reservations in half an hour. |
 
 ### ⭐⭐ 进阶
@@ -129,53 +99,24 @@ pov: "Stella"
 |---|---|---|
 | month-long | 为期一个月的 | Venice, Rome, Positano… I never found the time or money, but now, here I am, packing for a month-long trip. |
 | incredible | 难以置信的；极好的 | Italy was as incredible as I'd imagined. |
-| expectations | 期望；期待 | The food, the beauty, the culture…everything lived up to my expectations and more. |
 | ambassador | 大使；代表 | In Italy, I wasn't a brand ambassador or a content creator chasing the perfect photo. |
 | liberating | 解放的；自由的 | It was liberating…when said boyfriend wasn't being a jerk about my driving skills. |
-| pedestrians | 行人 | I'm saying there are a lot of pedestrians you can run over in the city. |
 | activities | 活动 | We had a full day of activities ahead of us, and I'd insisted on using Vespas to get around. |
-| Unfortunately | 不幸地；遗憾的是 | Unfortunately, Christian and I had different opinions on how many we should rent. |
-| Apparently | 显然地；Apparently, he wasn't over the ATV incident in Hawaii | Apparently, he wasn't over the ATV incident in Hawaii. |
-| compromise | 妥协；折中 | "Let's compromise. |
-| difference | 差异；不同 | The only difference was it had an engine. |
-| straighter | 更直的 | "Sit straighter and bend your elbows a little…a little more. |
-| instructions | 指示；说明 | I followed his instructions until he declared me ready for the test. |
-| appreciate | 欣赏；感激 | I did not appreciate the amount of skepticism imbued in that one noise. |
-| skepticism | 怀疑；质疑 | I did not appreciate the amount of skepticism imbued in that one noise. |
-| sideswiped | 侧面撞击；刮擦 | I'd turned too late and sideswiped one of the giant flower pots bordering the hotel's outdoor cafe. |
-| terracotta | 赤陶土；陶土 | We stared at the giant crack in the terracotta urn. |
-| wordlessly | 无言地；沉默地 | I got off the Vespa and wordlessly handed Christian the keys. |
-| beforehand | 事先；预先 | If I hadn't known about his aversion to art beforehand, I would've thought he enjoyed the exhibitions. |
-| exhibitions | 展览；展览会 | If I hadn't known about his aversion to art beforehand, I would've thought he enjoyed the exhibitions. |
-| unsettling | 令人不安的；令人担忧的 | It was unsettling but also kind of genius. |
-| sympathetic | 同情的；有同情心的 | His eyes met Christian's, who stared back with what almost looked like a sympathetic expression. |
-| expression | 表情；神色 | His eyes met Christian's, who stared back with what almost looked like a sympathetic expression. |
-| disappeared | 消失；不见 | I waited until the server set our drinks on the table and disappeared into the kitchen before I spoke. |
-| understood | 理解；明白 | He was naturally guarded, and I understood that. |
-| comfortable | 舒适的；舒服的 | But if we were going to make our relationship work, he needed to feel as comfortable opening up to me as I did with him. |
 | moonlighted | 兼职；做兼职 | What I didn't tell you was what he moonlighted as. |
 | information | 信息；消息 | I was still wrapping my head around this explosive new piece of information when Christian continued. |
-| Ironically | 讽刺地；具有讽刺意味的是 | "Ironically, he wasn't the big art lover in the family. |
 | willingness | 意愿；意愿 | His willingness to risk everything just to make her happy. |
-| encouraged | 鼓励；支持 | You'd think she would try to talk him out of it, but she encouraged it. |
-| eventually | 最终；终于 | They tried to hide what they were doing from me when I was younger, but I eventually caught on. |
-| coincidences | 巧合；巧事 | There were too many coincidences between my father's mysterious business trips and the dates the stolen art were reported on the news. |
-| mysterious | 神秘的；不可思议的 | There were too many coincidences between my father's mysterious business trips and the dates the stolen art were reported on the news. |
-| confronted | 对质；面对 | When I confronted my father about it, he confessed. |
-| physically | 身体上地；物理上地 | Maybe his parents hadn't been physically abusive, but it sounded like they hadn't cared about his emotional or mental well-being at all. |
-| well-being | 幸福；健康 | Maybe his parents hadn't been physically abusive, but it sounded like they hadn't cared about his emotional or mental well-being at all. |
 | businessman | 商人；企业家 | Instead of a museum, he tried to rob some wealthy businessman's house. |
 | tentatively | 试探性地；犹豫地 | I tentatively reached for his hand and curled mine over it. |
-| reservations | 预订；保留 | "We have lunch reservations in half an hour. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| comfortable | 舒适的；舒服的 | But if we were going to make our relationship work, he needed to feel as comfortable opening up to me as I did with him. |
-| moonlighted | 兼职；做兼职 | What I didn't tell you was what he moonlighted as. |
-| information | 信息；消息 | I was still wrapping my head around this explosive new piece of information when Christian continued. |
-| Ironically | 讽刺地；具有讽刺意味的是 | "Ironically, he wasn't the big art lover in the family. |
+| Apparently | 显然地；Apparently, he wasn't over the ATV incident in Hawaii | Apparently, he wasn't over the ATV incident in Hawaii. |
+| compromise | 妥协；折中 | "Let's compromise. |
+| difference | 差异；不同 | The only difference was it had an engine. |
+| straighter | 更直的 | "Sit straighter and bend your elbows a little…a little more. |
+| appreciate | 欣赏；感激 | I did not appreciate the amount of skepticism imbued in that one noise. |
 
 ## 一句话总结
 

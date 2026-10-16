@@ -83,99 +83,40 @@ pov: "Stella"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | unconsciousness | 无意识；昏迷 | A prickle of sensation dragged me from the dark, murky wells of unconsciousness. |
-| consensual | 双方同意的；自愿的 | The only times I'd been tied up were with Christian, but that'd been consensual. |
-| jackhammer | 手提钻；风钻 | All I knew was, it hurt, and my throat was dry, and my head throbbed like someone had shoved a jackhammer or ten in there. |
-| remembered | 记得；回忆起 | I remembered meeting my family at the cafe. |
-| realization | 认识；领悟 | The realization sank in with cold, sharp claws. |
 | surroundings | 周围的事物；环境 | Dizziness warped my vision before my surroundings took shape. |
-| ramshackle | 破旧的；摇摇欲坠的 | I was in some sort of ramshackle cabin made of corrugated metal and wood. |
-| corrugated | 波纹的；起皱的 | I was in some sort of ramshackle cabin made of corrugated metal and wood. |
-| photoshoot | 拍照；摄影 | It'd been for my profile photoshoot, and he'd been nice. |
 | unnaturalness | 不自然；不自然性 | But now that I looked closer, I spotted the mad glint in his eyes and the unnaturalness of his smile. |
-| psychopath | 精神病患者；精神病 | It was the smile of a psychopath. |
-| jackknifed | 急剧弯曲；折叠 | My pulse jackknifed. |
-| Washington | 华盛顿 | "You're a writer for Washington Weekly. |
 | consciousness | 意识；知觉 | Whatever it was, its effects lingered and clouded the edges of my consciousness. |
 | Communications | 传播；通信 | Communications Theory with Professor Pittman. |
-| classmates | 同学；同班同学 | I barely remembered what the professor looked like, much less my classmates. |
-| successful | 成功的；有成就的 | Less successful, less worthy of you. |
-| possibility | 可能性；可能 | There was a strong possibility I would never see Christian, my friends, or my family again. |
-| soothingly | 安慰地；安慰地 | It's not your fault," he said soothingly. |
-| protrusion | 突出；凸起 | My breath hiked when I hit what felt a hard, sharp protrusion on the back of the chair. |
-| discreetly | 谨慎地；小心地 | I kept my eyes on Julian as I worked my binding over the nail as discreetly as possible. |
-| grandmother | 祖母；外祖母 | My grandmother passed it on to me after she died. |
-| practically | 实际上；几乎 | We're practically neighbors. |
-| production | 生产；制作 | Luckily, Julian liked to make a production of his story, pacing and gesticulating as he told me what he did. |
 | gesticulating | 做手势；比划 | Luckily, Julian liked to make a production of his story, pacing and gesticulating as he told me what he did. |
 | surveillance | 监视；监控 | "It was harder to hack into the surveillance system, but I had help for that. |
-| competitor | 竞争者；对手 | They're Harper's biggest competitor, and I figured they'd take any opportunity to take him down a peg. |
-| opportunity | 机会；时机 | They're Harper's biggest competitor, and I figured they'd take any opportunity to take him down a peg. |
 | Unfortunately | 不幸地；遗憾的是 | Unfortunately, I had to go back home and take care of my grandmother. |
-| delusional | 妄想的；错觉的 | He was delusional. |
-| breathless | 喘不过气来的；屏息的 | Love was quiet moments and soft kisses, breathless exhilaration and rough hands all rolled into one. |
 | exhilaration | 兴奋；激动 | Love was quiet moments and soft kisses, breathless exhilaration and rough hands all rolled into one. |
-| boundaries | 界限；边界 | He'd crossed boundaries and kept secrets, but he would never do this. |
 | intentionally | 故意地；有意地 | He would never drug me or intentionally hurt me. |
-| pretending | 假装；伪装 | I knew I should play along until I could escape, but even the thought of pretending to want to be with Julian made me want to vomit. |
-| anticipation | 预期；期待 | He smiled, his face bright with sick anticipation. |
-| headbutted | 用头撞；以头撞击 | I headbutted him as hard as I could. |
-| ricocheted | 弹跳；回响 | His howl of pain ricocheted through the cabin. |
-| struggling | 挣扎；奋斗 | I couldn't keep struggling forever. |
-| frustration | 沮丧；挫折 | A scream of frustration scraped up my throat when Julian dragged me back again. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| unconsciousness | 无意识；昏迷 | A prickle of sensation dragged me from the dark, murky wells of unconsciousness. |
 | consensual | 双方同意的；自愿的 | The only times I'd been tied up were with Christian, but that'd been consensual. |
 | jackhammer | 手提钻；风钻 | All I knew was, it hurt, and my throat was dry, and my head throbbed like someone had shoved a jackhammer or ten in there. |
 | remembered | 记得；回忆起 | I remembered meeting my family at the cafe. |
 | realization | 认识；领悟 | The realization sank in with cold, sharp claws. |
-| surroundings | 周围的事物；环境 | Dizziness warped my vision before my surroundings took shape. |
-| ramshackle | 破旧的；摇摇欲坠的 | I was in some sort of ramshackle cabin made of corrugated metal and wood. |
-| corrugated | 波纹的；起皱的 | I was in some sort of ramshackle cabin made of corrugated metal and wood. |
-| photoshoot | 拍照；摄影 | It'd been for my profile photoshoot, and he'd been nice. |
-| unnaturalness | 不自然；不自然性 | But now that I looked closer, I spotted the mad glint in his eyes and the unnaturalness of his smile. |
-| psychopath | 精神病患者；精神病 | It was the smile of a psychopath. |
-| jackknifed | 急剧弯曲；折叠 | My pulse jackknifed. |
-| Washington | 华盛顿 | "You're a writer for Washington Weekly. |
-| consciousness | 意识；知觉 | Whatever it was, its effects lingered and clouded the edges of my consciousness. |
-| Communications | 传播；通信 | Communications Theory with Professor Pittman. |
-| classmates | 同学；同班同学 | I barely remembered what the professor looked like, much less my classmates. |
-| successful | 成功的；有成就的 | Less successful, less worthy of you. |
 | possibility | 可能性；可能 | There was a strong possibility I would never see Christian, my friends, or my family again. |
-| soothingly | 安慰地；安慰地 | It's not your fault," he said soothingly. |
-| protrusion | 突出；凸起 | My breath hiked when I hit what felt a hard, sharp protrusion on the back of the chair. |
-| discreetly | 谨慎地；小心地 | I kept my eyes on Julian as I worked my binding over the nail as discreetly as possible. |
 | grandmother | 祖母；外祖母 | My grandmother passed it on to me after she died. |
 | practically | 实际上；几乎 | We're practically neighbors. |
-| production | 生产；制作 | Luckily, Julian liked to make a production of his story, pacing and gesticulating as he told me what he did. |
-| gesticulating | 做手势；比划 | Luckily, Julian liked to make a production of his story, pacing and gesticulating as he told me what he did. |
-| surveillance | 监视；监控 | "It was harder to hack into the surveillance system, but I had help for that. |
-| competitor | 竞争者；对手 | They're Harper's biggest competitor, and I figured they'd take any opportunity to take him down a peg. |
 | opportunity | 机会；时机 | They're Harper's biggest competitor, and I figured they'd take any opportunity to take him down a peg. |
-| Unfortunately | 不幸地；遗憾的是 | Unfortunately, I had to go back home and take care of my grandmother. |
-| delusional | 妄想的；错觉的 | He was delusional. |
-| breathless | 喘不过气来的；屏息的 | Love was quiet moments and soft kisses, breathless exhilaration and rough hands all rolled into one. |
-| exhilaration | 兴奋；激动 | Love was quiet moments and soft kisses, breathless exhilaration and rough hands all rolled into one. |
-| boundaries | 界限；边界 | He'd crossed boundaries and kept secrets, but he would never do this. |
-| intentionally | 故意地；有意地 | He would never drug me or intentionally hurt me. |
-| pretending | 假装；伪装 | I knew I should play along until I could escape, but even the thought of pretending to want to be with Julian made me want to vomit. |
 | anticipation | 预期；期待 | He smiled, his face bright with sick anticipation. |
-| headbutted | 用头撞；以头撞击 | I headbutted him as hard as I could. |
-| ricocheted | 弹跳；回响 | His howl of pain ricocheted through the cabin. |
-| struggling | 挣扎；奋斗 | I couldn't keep struggling forever. |
 | frustration | 沮丧；挫折 | A scream of frustration scraped up my throat when Julian dragged me back again. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| unconsciousness | 无意识；昏迷 | A prickle of sensation dragged me from the dark, murky wells of unconsciousness. |
-| consensual | 双方同意的；自愿的 | The only times I'd been tied up were with Christian, but that'd been consensual. |
-| jackhammer | 手提钻；风钻 | All I knew was, it hurt, and my throat was dry, and my head throbbed like someone had shoved a jackhammer or ten in there. |
-| remembered | 记得；回忆起 | I remembered meeting my family at the cafe. |
+| ramshackle | 破旧的；摇摇欲坠的 | I was in some sort of ramshackle cabin made of corrugated metal and wood. |
+| corrugated | 波纹的；起皱的 | I was in some sort of ramshackle cabin made of corrugated metal and wood. |
+| photoshoot | 拍照；摄影 | It'd been for my profile photoshoot, and he'd been nice. |
+| psychopath | 精神病患者；精神病 | It was the smile of a psychopath. |
+| jackknifed | 急剧弯曲；折叠 | My pulse jackknifed. |
 
 ## 一句话总结
 

@@ -82,65 +82,41 @@ pov: "Stella"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| separately | 分别地；分开地 | Something about wanting to see Rhys and not being able to meet up with him separately. |
 | housewarming | 暖房；乔迁聚会 | I clutched my housewarming gift closer to me as my breaths quickened. |
-| broomsticks | 扫帚 | Not the spells and broomsticks kind, anyway. |
-| suffocated | 窒息；闷死 | I might've suffocated right there on the front steps had Jules not opened the front door and saved me. |
-| fascinating | 迷人的；极有吸引力的 | Jules Ambrose's mind worked in fascinating ways. |
 | questionable | 可疑的；有问题的 | Josh was easy on the eyes, but his taste in art was questionable at best. |
-| exaggerated | 夸张的；夸大的 | She released an exaggerated sigh. |
-| guillotine | 断头台 | "Unfortunately not, though I was tempted to sentence the minister of the interior to the guillotine. |
-| guillotines | 断头台 | "Half me talking you out of it, half the fact no one uses guillotines anymore. |
 | half-hearted | 半心三意的；不认真的 | Jules made a half-hearted attempt to push him off, but laughter bubbled from her throat. |
 | lighthearted | 轻松的；愉快的 | The lighthearted atmosphere eased my earlier tension as I leaned over to hug Ava. |
-| atmosphere | 气氛；氛围 | The lighthearted atmosphere eased my earlier tension as I leaned over to hug Ava. |
-| mischievous | 淘气的；恶作剧的 | A mischievous dimple creased Josh's cheek. |
-| bridesmaid | 伴娘 | "We can't lose a bridesmaid and best man this close to the wedding. |
-| advertising | 广告；宣传 | "The term best man is false advertising. |
-| illustrated | 插图；图解 | They're illustrated with a drawing of Ava and a robot in a suit. |
-| opportunity | 机会；时机 | "I wouldn't miss an opportunity to hang out with Stella's friends," Christian said easily. |
-| remembered | 记得；回忆起 | He rested a hand on my lower back, and I almost stepped away from the sheer heat of him before I remembered we were supposed to be dating. |
-| significant | 重要的；有意义的 | I'd caved and told my friends they could tell their significant others so everyone here knew we were pretending, even if they didn't say it. |
-| pretending | 假装；伪装 | I'd caved and told my friends they could tell their significant others so everyone here knew we were pretending, even if they didn't say it. |
-| simplicity | 简单；朴素 | Still, should I keep up the act for simplicity's sake or not? |
-| Indecision | 犹豫；迟疑 | Indecision tightened my muscles. |
-| hesitation | 犹豫；迟疑 | Christian must've picked up on my hesitation because his jaw flexed as his hand lingered for an extra second before he withdrew it. |
 | disappointment | 失望；沮丧 | Relief and disappointment battled for dominance in my chest. |
-| ping-ponged | 弹跳；来回移动 | Meanwhile, the room fell silent as six pairs of eyes ping-ponged between us. |
 | relationship | 关系；关联 | I wasn't the only one unsure about how to treat our relationship; I could see the confusion scrawled all over my friends' faces. |
-| questioned | 质疑；怀疑 | No one questioned her, even though it was barely noon. |
-| diplomatic | 外交的；圆滑的 | I'm so tired of diplomatic trips. |
-| Parliament | 议会；国会 | I could do the same thing in Parliament without the jet lag. |
 | bachelorette | 单身派对；婚前派对 | "Ava, your bachelorette is coming up. |
 | unforgettable | 难忘的；难以忘怀的 | Let's make it unforgettable. |
-| interjected | 插嘴；打断 | "She's talking about the time we broke into the clock tower in college and ran into campus security," Jules interjected. |
-| thirty-six | 三十六 | We looked over at Alex, who was listening to Josh detail the thirty-six different uses for a jumbo banana float with a pained expression. |
 | conversation | 对话；交谈 | On the other end of the couch, Rhys and Christian were engaged in conversation, their voices too low for me to hear. |
+| Unfortunately | 不幸地；遗憾的是 | "Unfortunately not, though I was tempted to sentence the minister of the interior to the guillotine. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| personally | 亲自地；个人地 | I personally don't care, but Josh is anal about that. |
-| expression | 表情；神色 | I shot Christian a quick look, but his expression was impassive. |
-| weaknesses | 弱点；缺点 | Figuring out his weaknesses. |
-| Unfortunately | 不幸地；遗憾的是 | "Unfortunately not, though I was tempted to sentence the minister of the interior to the guillotine. |
-| performance | 表演；表现 | "Alex has performance anxiety," Josh said without looking away from Jules. |
-| development | 发展；开发 | Maybe you can invest in the development of a pill that'll help with your problem. |
+| broomsticks | 扫帚 | Not the spells and broomsticks kind, anyway. |
+| fascinating | 迷人的；极有吸引力的 | Jules Ambrose's mind worked in fascinating ways. |
+| exaggerated | 夸张的；夸大的 | She released an exaggerated sigh. |
+| guillotines | 断头台 | "Half me talking you out of it, half the fact no one uses guillotines anymore. |
+| mischievous | 淘气的；恶作剧的 | A mischievous dimple creased Josh's cheek. |
+| advertising | 广告；宣传 | "The term best man is false advertising. |
+| illustrated | 插图；图解 | They're illustrated with a drawing of Ava and a robot in a suit. |
 | opportunity | 机会；时机 | "I wouldn't miss an opportunity to hang out with Stella's friends," Christian said easily. |
-| remembered | 记得；回忆起 | He rested a hand on my lower back, and I almost stepped away from the sheer heat of him before I remembered we were supposed to be dating. |
 | significant | 重要的；有意义的 | I'd caved and told my friends they could tell their significant others so everyone here knew we were pretending, even if they didn't say it. |
-| pretending | 假装；伪装 | I'd caved and told my friends they could tell their significant others so everyone here knew we were pretending, even if they didn't say it. |
+| ping-ponged | 弹跳；来回移动 | Meanwhile, the room fell silent as six pairs of eyes ping-ponged between us. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| relationship | 关系；关联 | I wasn't the only one unsure about how to treat our relationship; I could see the confusion scrawled all over my friends' faces. |
-| conversation | 对话；交谈 | On the other end of the couch, Rhys and Christian were engaged in conversation, their voices too low for me to hear. |
-| questioned | 质疑；怀疑 | No one questioned her, even though it was barely noon. |
-| diplomatic | 外交的；圆滑的 | I'm so tired of diplomatic trips. |
-| Parliament | 议会；国会 | I could do the same thing in Parliament without the jet lag. |
+| separately | 分别地；分开地 | Something about wanting to see Rhys and not being able to meet up with him separately. |
+| suffocated | 窒息；闷死 | I might've suffocated right there on the front steps had Jules not opened the front door and saved me. |
+| interjected | 插嘴；打断 | "She's talking about the time we broke into the clock tower in college and ran into campus security," Jules interjected. |
+| performance | 表演；表现 | "Alex has performance anxiety," Josh said without looking away from Jules. |
+| development | 发展；开发 | Maybe you can invest in the development of a pill that'll help with your problem. |
 
 ## 一句话总结
 

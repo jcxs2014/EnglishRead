@@ -82,55 +82,41 @@ pov: "Christian"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| California | 加利福尼亚（地名） | I hadn't stepped foot in Santa Luisa, California since my parents died. |
-| industrial | 工业的；产业的 | Stella was quiet as we stopped in front of a warehouse in the town's desolate industrial quarter. |
-| warehouses | 仓库；货栈 | Our car was the only one on the street, and many of the warehouses' metal doors had rusted with disuse, including the one before us. |
 | long-forgotten | 久已遗忘的；被遗忘已久的 | A cloud of stale must billowed out before it dissolved in the long-forgotten sunshine. |
-| sculptures | 雕塑；雕像 | Dozens of art pieces filled the small space, from priceless oil paintings to small modern sculptures. |
 | inheritance | 继承；遗产 | "Welcome to my inheritance, my father's stolen treasure trove," I said, the words both hollow and self-deprecating. |
 | self-deprecating | 自贬的；自嘲的 | "Welcome to my inheritance, my father's stolen treasure trove," I said, the words both hollow and self-deprecating. |
 | arrangements | 安排；布置 | I'd made virtual arrangements before we arrived, but it was my first time seeing it in person. |
 | overwhelming | 压倒性的；势不可挡的 | Instead, I felt nothing except the overwhelming desire to burn it to the ground—not out of spite, but out of exhaustion. |
-| exhaustion | 疲惫；筋疲力尽 | Instead, I felt nothing except the overwhelming desire to burn it to the ground—not out of spite, but out of exhaustion. |
 | anonymously | 匿名地；不具名地 | All done anonymously, of course. |
 | kaleidoscope | 万花筒；千变万化 | I stared at the swirls of color until they blurred into a dark kaleidoscope. |
 | inconsequential | 无关紧要的；不重要的 | In hindsight, she was so inconsequential. |
 | complicated | 复杂的；难处理的 | A complicated problem of my own design, fabricated to shield me from my past. |
-| fabricated | 制造的；伪造的 | A complicated problem of my own design, fabricated to shield me from my past. |
-| revelation | 启示；揭示 | Everyone thought she was important because she contained some big business secret or shocking revelation when the truth was so much simpler. |
 | represented | 代表；表现 | She represented the part of my past I'd never been able to let go of. |
-| combustible | 易燃的；可燃的 | The oils were so combustible flames erupted almost immediately, swallowing the painting and the letter it contained whole. |
-| immediately | 立即；马上 | The oils were so combustible flames erupted almost immediately, swallowing the painting and the letter it contained whole. |
-| swallowing | 吞咽；吞噬 | The oils were so combustible flames erupted almost immediately, swallowing the painting and the letter it contained whole. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| hometown | 家乡；故乡 | The night after the Volkovs' wedding, I flew Stella and me to my hometown. |
-| remained | 保持；仍然是 | It'd been two decades, yet the tiny seaside town along the northern coast remained the same. |
-| downtown | 市中心；商业区 | Quiet streets, a quaint downtown, colorful stucco buildings. |
-| colorful | 五颜六色的；色彩丰富的 | Quiet streets, a quaint downtown, colorful stucco buildings. |
-| Returning | 返回；回到 | Returning here was like stepping back in time. |
-| stepping | 踏；走 | Returning here was like stepping back in time. |
-| warehouse | 仓库；货栈 | Stella was quiet as we stopped in front of a warehouse in the town's desolate industrial quarter. |
-| desolate | 荒凉的；荒芜的 | Stella was quiet as we stopped in front of a warehouse in the town's desolate industrial quarter. |
-| including | 包括；包含 | Our car was the only one on the street, and many of the warehouses' metal doors had rusted with disuse, including the one before us. |
-| billowed | 翻腾；涌动 | A cloud of stale must billowed out before it dissolved in the long-forgotten sunshine. |
-| dissolved | 溶解；消散 | A cloud of stale must billowed out before it dissolved in the long-forgotten sunshine. |
-| sunshine | 阳光；日光 | A cloud of stale must billowed out before it dissolved in the long-forgotten sunshine. |
-| priceless | 无价的；极其珍贵的 | Dozens of art pieces filled the small space, from priceless oil paintings to small modern sculptures. |
-| paintings | 绘画；油画 | Dozens of art pieces filled the small space, from priceless oil paintings to small modern sculptures. |
-| withered | 枯萎；凋谢 | Many of the paintings had withered after twenty years of neglect, but a few resilient pieces remained intact. |
+| California | 加利福尼亚（地名） | I hadn't stepped foot in Santa Luisa, California since my parents died. |
+| industrial | 工业的；产业的 | Stella was quiet as we stopped in front of a warehouse in the town's desolate industrial quarter. |
+| warehouses | 仓库；货栈 | Our car was the only one on the street, and many of the warehouses' metal doors had rusted with disuse, including the one before us. |
+| sculptures | 雕塑；雕像 | Dozens of art pieces filled the small space, from priceless oil paintings to small modern sculptures. |
+| exhaustion | 疲惫；筋疲力尽 | Instead, I felt nothing except the overwhelming desire to burn it to the ground—not out of spite, but out of exhaustion. |
+| fabricated | 制造的；伪造的 | A complicated problem of my own design, fabricated to shield me from my past. |
+| revelation | 启示；揭示 | Everyone thought she was important because she contained some big business secret or shocking revelation when the truth was so much simpler. |
+| combustible | 易燃的；可燃的 | The oils were so combustible flames erupted almost immediately, swallowing the painting and the letter it contained whole. |
+| immediately | 立即；马上 | The oils were so combustible flames erupted almost immediately, swallowing the painting and the letter it contained whole. |
+| swallowing | 吞咽；吞噬 | The oils were so combustible flames erupted almost immediately, swallowing the painting and the letter it contained whole. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| California | 加利福尼亚（地名） | I hadn't stepped foot in Santa Luisa, California since my parents died. |
-| industrial | 工业的；产业的 | Stella was quiet as we stopped in front of a warehouse in the town's desolate industrial quarter. |
-| warehouses | 仓库；货栈 | Our car was the only one on the street, and many of the warehouses' metal doors had rusted with disuse, including the one before us. |
-| long-forgotten | 久已遗忘的；被遗忘已久的 | A cloud of stale must billowed out before it dissolved in the long-forgotten sunshine. |
+| Returning | 返回；回到 | Returning here was like stepping back in time. |
+| warehouse | 仓库；货栈 | Stella was quiet as we stopped in front of a warehouse in the town's desolate industrial quarter. |
+| including | 包括；包含 | Our car was the only one on the street, and many of the warehouses' metal doors had rusted with disuse, including the one before us. |
+| dissolved | 溶解；消散 | A cloud of stale must billowed out before it dissolved in the long-forgotten sunshine. |
+| priceless | 无价的；极其珍贵的 | Dozens of art pieces filled the small space, from priceless oil paintings to small modern sculptures. |
 
 ## 一句话总结
 

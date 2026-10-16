@@ -83,99 +83,40 @@ pov: "Christian/Stella"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | forty-eight | 四十八 | It'd been forty-eight hours since our last real interaction, and I already craved her closeness like an addict hungering for his next hit. |
-| interaction | 互动；交流 | It'd been forty-eight hours since our last real interaction, and I already craved her closeness like an addict hungering for his next hit. |
-| fascinated | 着迷的；入迷的 | I wasn't just fascinated with her—a puzzle to solve. |
-| observation | 观察；评论 | Despite her dry observation, Stella finally moved. |
-| sweetheart | 甜心；宝贝 | "Can't promise something that's yet to be tested, sweetheart. |
 | restlessness | 不安；焦躁 | I wasn't a patient man, nor was I one who dealt well with restlessness. |
-| stimulation | 刺激；激励 | They fed me the stimulation I required to stay sane, because God knew I couldn't rely on other people to keep me interested. |
-| interested | 感兴趣的；关心的 | They fed me the stimulation I required to stay sane, because God knew I couldn't rely on other people to keep me interested. |
-| conviction | 信念；确信 | Her laugh faded into a hitched breath at the conviction in my voice. |
-| photoshoot | 摄影；拍照 | "I didn't come to watch the photoshoot. |
-| suffocated | 窒息；闷死 | Silence shrouded us and suffocated any remaining traces of lightheartedness. |
 | lightheartedness | 轻松；愉快 | Silence shrouded us and suffocated any remaining traces of lightheartedness. |
-| expressive | 有表现力的；富有表情的 | Her eyes had always been her most expressive feature, like clear, jade-colored windows into her innermost thoughts. |
 | jade-colored | 翡翠色的；绿玉色的 | Her eyes had always been her most expressive feature, like clear, jade-colored windows into her innermost thoughts. |
-| insecurity | 不安全感；不安 | Every fear, every desire, every dream and insecurity. |
-| indecision | 犹豫；迟疑 | For the first time, I couldn't decipher what she was thinking by looking at her, but I could feel the indecision twisting her inside. |
 | interminable | 无休止的；冗长的 | My pulse slowed to match the interminable wait. |
 | possessiveness | 占有欲；自私 | The fierce flame of possessiveness burned in my gut, a thousand times hotter than when I'd caught Ricardo staring at Stella after the shoot. |
 | insignificant | 无关紧要的；不重要的 | I was putting her on edge, and I didn't want to waste our last day in Hawaii focused on insignificant people. |
-| breathless | 喘不过气来的；呼吸急促的 | My name fell off her lips in a sweet, breathless plea, but it might as well be the shot from a starting pistol. |
-| glistening | 闪亮的；湿润的 | A tortured groan rumbled in my chest at the sight of her already wet and glistening for me. |
-| intensified | 加剧；加强 | The throbbing intensified until it was all I could see and hear. |
-| encounters | 遭遇；相遇 | My previous encounters had been transactional, outlets for physical release and nothing more. |
 | transactional | 交易性的；事务性的 | My previous encounters had been transactional, outlets for physical release and nothing more. |
 | particularly | 特别地；尤其地 | "I…" Stella's pants reached a fever pitch when I pressed against a particularly sensitive spot. |
 | instinctively | 本能地；天生地 | Stella squirmed, her body instinctively rebelling against the onslaught of sensation, but her struggles were futile against my iron grip. |
-| half-parted | 半张开的；半分开的 | She writhed against the rock, her lids heavy and her mouth half-parted in a ceaseless moan. |
-| thoroughly | 彻底地；完全地 | Lust soaked the air so thoroughly it would only take a graze to light the match on the gasoline of our desire. |
-| artificial | 人工的；人造的 | There was nothing artificial about this moment. |
-| alternating | 交替的；轮流的 | I moved on to her other breast, alternating back and forth and licking and suckling like I was a man starved. |
-| bloodstream | 血流；血液 | Silky and addictive, like a shot of pure lust into my bloodstream. |
-| shuddering | 颤抖的；震颤的 | Stella's cry of release drenched the air as she came in a shuddering, toe-curling orgasm that vibrated against my body. |
-| toe-curling | 令人脚趾蜷曲的；极度兴奋的 | Stella's cry of release drenched the air as she came in a shuddering, toe-curling orgasm that vibrated against my body. |
-| expression | 表情；神色 | I lifted my head, ignoring the insistent ache in my groin to soak in her dazed expression. |
-| withdrawing | 撤回；收回 | "Good girl," I murmured, withdrawing my hand. |
-| slumberous | 昏昏欲睡的；困倦的 | She turned those slumberous green eyes on me, looking so innocent and content it formed an iron fist around my heart. |
-| uncertainty | 不确定；不确定性 | A shadow of uncertainty passed through Stella's eyes at my hesitation, and it was that split second of darkness that killed me. |
-| hesitation | 犹豫；迟疑 | A shadow of uncertainty passed through Stella's eyes at my hesitation, and it was that split second of darkness that killed me. |
-| resistance | 抵抗；阻力 | My resistance crumbled like a sandcastle at high tide. |
-| sandcastle | 沙堡；沙雕 | My resistance crumbled like a sandcastle at high tide. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| forty-eight | 四十八 | It'd been forty-eight hours since our last real interaction, and I already craved her closeness like an addict hungering for his next hit. |
 | interaction | 互动；交流 | It'd been forty-eight hours since our last real interaction, and I already craved her closeness like an addict hungering for his next hit. |
-| fascinated | 着迷的；入迷的 | I wasn't just fascinated with her—a puzzle to solve. |
 | observation | 观察；评论 | Despite her dry observation, Stella finally moved. |
-| sweetheart | 甜心；宝贝 | "Can't promise something that's yet to be tested, sweetheart. |
-| restlessness | 不安；焦躁 | I wasn't a patient man, nor was I one who dealt well with restlessness. |
 | stimulation | 刺激；激励 | They fed me the stimulation I required to stay sane, because God knew I couldn't rely on other people to keep me interested. |
-| interested | 感兴趣的；关心的 | They fed me the stimulation I required to stay sane, because God knew I couldn't rely on other people to keep me interested. |
-| conviction | 信念；确信 | Her laugh faded into a hitched breath at the conviction in my voice. |
-| photoshoot | 摄影；拍照 | "I didn't come to watch the photoshoot. |
-| suffocated | 窒息；闷死 | Silence shrouded us and suffocated any remaining traces of lightheartedness. |
-| lightheartedness | 轻松；愉快 | Silence shrouded us and suffocated any remaining traces of lightheartedness. |
-| expressive | 有表现力的；富有表情的 | Her eyes had always been her most expressive feature, like clear, jade-colored windows into her innermost thoughts. |
-| jade-colored | 翡翠色的；绿玉色的 | Her eyes had always been her most expressive feature, like clear, jade-colored windows into her innermost thoughts. |
-| insecurity | 不安全感；不安 | Every fear, every desire, every dream and insecurity. |
-| indecision | 犹豫；迟疑 | For the first time, I couldn't decipher what she was thinking by looking at her, but I could feel the indecision twisting her inside. |
-| interminable | 无休止的；冗长的 | My pulse slowed to match the interminable wait. |
-| possessiveness | 占有欲；自私 | The fierce flame of possessiveness burned in my gut, a thousand times hotter than when I'd caught Ricardo staring at Stella after the shoot. |
-| insignificant | 无关紧要的；不重要的 | I was putting her on edge, and I didn't want to waste our last day in Hawaii focused on insignificant people. |
-| breathless | 喘不过气来的；呼吸急促的 | My name fell off her lips in a sweet, breathless plea, but it might as well be the shot from a starting pistol. |
-| glistening | 闪亮的；湿润的 | A tortured groan rumbled in my chest at the sight of her already wet and glistening for me. |
 | intensified | 加剧；加强 | The throbbing intensified until it was all I could see and hear. |
-| encounters | 遭遇；相遇 | My previous encounters had been transactional, outlets for physical release and nothing more. |
-| transactional | 交易性的；事务性的 | My previous encounters had been transactional, outlets for physical release and nothing more. |
-| particularly | 特别地；尤其地 | "I…" Stella's pants reached a fever pitch when I pressed against a particularly sensitive spot. |
-| instinctively | 本能地；天生地 | Stella squirmed, her body instinctively rebelling against the onslaught of sensation, but her struggles were futile against my iron grip. |
 | half-parted | 半张开的；半分开的 | She writhed against the rock, her lids heavy and her mouth half-parted in a ceaseless moan. |
-| thoroughly | 彻底地；完全地 | Lust soaked the air so thoroughly it would only take a graze to light the match on the gasoline of our desire. |
-| artificial | 人工的；人造的 | There was nothing artificial about this moment. |
 | alternating | 交替的；轮流的 | I moved on to her other breast, alternating back and forth and licking and suckling like I was a man starved. |
 | bloodstream | 血流；血液 | Silky and addictive, like a shot of pure lust into my bloodstream. |
-| shuddering | 颤抖的；震颤的 | Stella's cry of release drenched the air as she came in a shuddering, toe-curling orgasm that vibrated against my body. |
 | toe-curling | 令人脚趾蜷曲的；极度兴奋的 | Stella's cry of release drenched the air as she came in a shuddering, toe-curling orgasm that vibrated against my body. |
-| expression | 表情；神色 | I lifted my head, ignoring the insistent ache in my groin to soak in her dazed expression. |
 | withdrawing | 撤回；收回 | "Good girl," I murmured, withdrawing my hand. |
-| slumberous | 昏昏欲睡的；困倦的 | She turned those slumberous green eyes on me, looking so innocent and content it formed an iron fist around my heart. |
 | uncertainty | 不确定；不确定性 | A shadow of uncertainty passed through Stella's eyes at my hesitation, and it was that split second of darkness that killed me. |
-| hesitation | 犹豫；迟疑 | A shadow of uncertainty passed through Stella's eyes at my hesitation, and it was that split second of darkness that killed me. |
-| resistance | 抵抗；阻力 | My resistance crumbled like a sandcastle at high tide. |
-| sandcastle | 沙堡；沙雕 | My resistance crumbled like a sandcastle at high tide. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| fascinated | 着迷的；入迷的 | I wasn't just fascinated with her—a puzzle to solve. |
+| sweetheart | 甜心；宝贝 | "Can't promise something that's yet to be tested, sweetheart. |
+| interested | 感兴趣的；关心的 | They fed me the stimulation I required to stay sane, because God knew I couldn't rely on other people to keep me interested. |
+| conviction | 信念；确信 | Her laugh faded into a hitched breath at the conviction in my voice. |
 | photoshoot | 摄影；拍照 | "I didn't come to watch the photoshoot. |
-| suffocated | 窒息；闷死 | Silence shrouded us and suffocated any remaining traces of lightheartedness. |
-| lightheartedness | 轻松；愉快 | Silence shrouded us and suffocated any remaining traces of lightheartedness. |
-| expressive | 有表现力的；富有表情的 | Her eyes had always been her most expressive feature, like clear, jade-colored windows into her innermost thoughts. |
 
 ## 一句话总结
 

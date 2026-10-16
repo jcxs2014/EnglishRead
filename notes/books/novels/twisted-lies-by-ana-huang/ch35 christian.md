@@ -82,7 +82,6 @@ pov: "Christian"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| recognized | 认出；识别 | I recognized him from last night's tech event. |
 | entrepreneur | 企业家；创业者 | Some low-level entrepreneur who'd weaseled his way into the gathering. |
 | conversations | 对话；交谈 | I reserved my satellite office for more…unsavory conversations, and it didn't contain anything except basic office furniture. |
 | dispassionate | 冷静的；不带感情的 | My dispassionate gaze swept from his thinning brown hair to his tacky green shirt. |
@@ -91,46 +90,33 @@ pov: "Christian"
 | immediately | 立即；马上 | Judging by Frank's sharp inhale, he recognized it immediately. |
 | twenty-five-year-old | 二十五年的 | "Yamakazi twenty-five-year-old whisky," I confirmed with a smile. |
 | fifty-five-year-old | 五十五年的 | I owned a bottle of fifty-five-year-old Yamakazi that cost forty times that, but I would never waste it on scum like Rivers. |
-| practically | 实际上；几乎 | At Frank's eager nod—the man was practically salivating—I opened the bottle and filled the two crystal glasses sitting on my desk. |
-| salivating | 垂涎三尺；流口水 | At Frank's eager nod—the man was practically salivating—I opened the bottle and filled the two crystal glasses sitting on my desk. |
-| interested | 感兴趣的；有兴趣的 | "I'm not interested in your apology. |
-| hesitation | 犹豫；迟疑 | After a beat of hesitation, he set the drink down with a tremble. |
-| razor-sharp | 剃刀般锋利的；极其锋利的 | Flesh and bone yielded like butter to the cold, razor-sharp steel. |
 | straightened | 挺直；整理 | I straightened, then paused. |
-| reimbursing | 偿还；赔偿 | "Don't worry about reimbursing me for the wasted alcohol," I said. |
 | soundproofed | 隔音的 | The office was soundproofed, but he correctly assessed my expression. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| recognized | 认出；识别 | I recognized him from last night's tech event. |
+| practically | 实际上；几乎 | At Frank's eager nod—the man was practically salivating—I opened the bottle and filled the two crystal glasses sitting on my desk. |
+| salivating | 垂涎三尺；流口水 | At Frank's eager nod—the man was practically salivating—I opened the bottle and filled the two crystal glasses sitting on my desk. |
+| interested | 感兴趣的；有兴趣的 | "I'm not interested in your apology. |
+| hesitation | 犹豫；迟疑 | After a beat of hesitation, he set the drink down with a tremble. |
+| razor-sharp | 剃刀般锋利的；极其锋利的 | Flesh and bone yielded like butter to the cold, razor-sharp steel. |
+| reimbursing | 偿还；赔偿 | "Don't worry about reimbursing me for the wasted alcohol," I said. |
 | satellite | 卫星；附属 | In the hush of my satellite office, it sounded like a gunshot. |
-| swiveled | 旋转；转动 | The man seated inside jumped, his knee banging against my desk as he swiveled to face me. |
 | low-level | 低级的；低水平的 | Some low-level entrepreneur who'd weaseled his way into the gathering. |
-| weaseled | 混入；骗取 | Some low-level entrepreneur who'd weaseled his way into the gathering. |
 | gathering | 聚会；集会 | Some low-level entrepreneur who'd weaseled his way into the gathering. |
-| stealing | 偷窃；偷盗 | I'd let him wait in here alone because I wasn't worried about him stealing or snooping. |
-| snooping | 窥探；窥视 | I'd let him wait in here alone because I wasn't worried about him stealing or snooping. |
-| reserved | 保留；预留 | I reserved my satellite office for more…unsavory conversations, and it didn't contain anything except basic office furniture. |
-| unsavory | 令人不快的；令人厌恶的 | I reserved my satellite office for more…unsavory conversations, and it didn't contain anything except basic office furniture. |
-| furniture | 家具 | I reserved my satellite office for more…unsavory conversations, and it didn't contain anything except basic office furniture. |
-| Apologies | 道歉；歉意 | "Apologies. |
-| opposite | 对面的；相反的 | I walked to my desk and took the seat opposite him. |
-| descended | 下降；降临 | Silence descended again as I studied him. |
-| thinning | 稀疏的；变薄的 | My dispassionate gaze swept from his thinning brown hair to his tacky green shirt. |
-| stretched | 拉伸；伸展 | His jacket stretched a little too tight across his shoulders, and a film of perspiration dotted his upper lip. |
-| shoulders | 肩膀；肩部 | His jacket stretched a little too tight across his shoulders, and a film of perspiration dotted his upper lip. |
-| amusement | 娱乐；乐趣 | I'd had Kage bring him in, and I would've laughed at his obvious nervousness if I had an ounce of amusement left inside me. |
-| deflated | 泄气；瘪了 | He deflated. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| conversations | 对话；交谈 | I reserved my satellite office for more…unsavory conversations, and it didn't contain anything except basic office furniture. |
-| dispassionate | 冷静的；不带感情的 | My dispassionate gaze swept from his thinning brown hair to his tacky green shirt. |
-| perspiration | 出汗；汗水 | His jacket stretched a little too tight across his shoulders, and a film of perspiration dotted his upper lip. |
-| nervousness | 紧张；不安 | I'd had Kage bring him in, and I would've laughed at his obvious nervousness if I had an ounce of amusement left inside me. |
+| furniture | 家具 | I reserved my satellite office for more…unsavory conversations, and it didn't contain anything except basic office furniture. |
+| Apologies | 道歉；歉意 | "Apologies. |
+| descended | 下降；降临 | Silence descended again as I studied him. |
+| stretched | 拉伸；伸展 | His jacket stretched a little too tight across his shoulders, and a film of perspiration dotted his upper lip. |
+| shoulders | 肩膀；肩部 | His jacket stretched a little too tight across his shoulders, and a film of perspiration dotted his upper lip. |
 
 ## 一句话总结
 

@@ -89,49 +89,34 @@ pov: "Christian"
 | overwhelmed | 压倒；淹没 | The urge to step inside the screen and comfort her, then pulverize the bastard who'd done that to her, overwhelmed me. |
 | background | 背景；经历 | I'd seen it before during two separate background checks. |
 | Motherfucker | 混蛋；该死 | Motherfucker. |
-| connection | 联系；关联 | His connection to Stella. |
 | incapacitated | 无能力的；不能行动的 | I didn't bother thanking the manager or getting Brock, who was still incapacitated in the bathroom. |
 | instructions | 指示；说明 | Instead, I sent out a code black to the company along with the stalker's name and instructions to find him and Stella as soon as possible. |
 | emergencies | 紧急情况；突发事件 | Reserved for extreme emergencies, the code black alert recalled all agents in the area for a new assignment. |
-| assignment | 任务；作业 | Reserved for extreme emergencies, the code black alert recalled all agents in the area for a new assignment. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| connection | 联系；关联 | His connection to Stella. |
+| assignment | 任务；作业 | Reserved for extreme emergencies, the code black alert recalled all agents in the area for a new assignment. |
 | happened | 发生；碰巧 | He managed to outline the basics of what happened before he went back to heaving over the toilet. |
 | splutters | 溅射；飞溅 | Five minutes of splutters and tedious protests later, the cafe manager pulled up said footage in his cramped back office. |
 | protests | 抗议；反对 | Five minutes of splutters and tedious protests later, the cafe manager pulled up said footage in his cramped back office. |
-| thrummed | 跳动；轰鸣 | My heart thrummed as I watched the grainy scenes play out onscreen. |
-| onscreen | 在屏幕上；在屏幕上 | My heart thrummed as I watched the grainy scenes play out onscreen. |
-| separate | 分开的；单独的 | They placed an order at the counter and sat at separate tables before her family arrived. |
 | situation | 情况；处境 | Despite the gravity of the situation, I felt a pinprick of pride at the way she took control of the conversation. |
-| pinprick | 刺痛；小孔 | Despite the gravity of the situation, I felt a pinprick of pride at the way she took control of the conversation. |
-| exchange | 交换；交流 | He and Stella had a quick exchange before he rushed off to the bathroom. |
-| bathroom | 浴室；洗手间 | He and Stella had a quick exchange before he rushed off to the bathroom. |
 | breathing | 呼吸；呼吸 | Her face was pale, and she looked like she was having trouble breathing. |
-| knuckles | 指关节；指节 | My knuckles turned white against the back of the manager's chair. |
-| simplest | 最简单的 | That was the simplest, most plausible explanation. |
 | plausible | 合理的；可信的 | That was the simplest, most plausible explanation. |
 | pulverize | 粉碎；碾碎 | The urge to step inside the screen and comfort her, then pulverize the bastard who'd done that to her, overwhelmed me. |
-| stumbled | 绊倒；蹒跚 | Stella stood again and stumbled toward the door. |
-| baseball | 棒球 | Tall, baseball cap, dark jacket. |
 | certainty | 确定性；确信 | My pulse roared with lethal certainty. |
-| evidence | 证据；迹象 | Why there had been no evidence of him leaving the building. |
-| thanking | 感谢；谢谢 | I didn't bother thanking the manager or getting Brock, who was still incapacitated in the bathroom. |
-| possible | 可能的；可能的 | Instead, I sent out a code black to the company along with the stalker's name and instructions to find him and Stella as soon as possible. |
-| Reserved | 保留；预订 | Reserved for extreme emergencies, the code black alert recalled all agents in the area for a new assignment. |
-| recalled | 召回；回忆起 | Reserved for extreme emergencies, the code black alert recalled all agents in the area for a new assignment. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| interrogating | 审问；质问 | I didn't bother interrogating him further. |
-| conversation | 对话；交谈 | Despite the gravity of the situation, I felt a pinprick of pride at the way she took control of the conversation. |
-| approached | 接近；靠近 | After her family left, Brock approached her again, but his steps were shakier than when he'd entered. |
-| explanation | 解释；说明 | That was the simplest, most plausible explanation. |
-| overwhelmed | 压倒；淹没 | The urge to step inside the screen and comfort her, then pulverize the bastard who'd done that to her, overwhelmed me. |
+| thrummed | 跳动；轰鸣 | My heart thrummed as I watched the grainy scenes play out onscreen. |
+| onscreen | 在屏幕上；在屏幕上 | My heart thrummed as I watched the grainy scenes play out onscreen. |
+| separate | 分开的；单独的 | They placed an order at the counter and sat at separate tables before her family arrived. |
+| pinprick | 刺痛；小孔 | Despite the gravity of the situation, I felt a pinprick of pride at the way she took control of the conversation. |
+| exchange | 交换；交流 | He and Stella had a quick exchange before he rushed off to the bathroom. |
 
 ## 一句话总结
 

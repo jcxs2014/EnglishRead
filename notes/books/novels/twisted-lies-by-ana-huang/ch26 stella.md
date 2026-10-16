@@ -82,98 +82,41 @@ pov: "Stella"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| collection | 收藏；系列 | I finished the first piece of my collection four days after Josh and Jules's housewarming. |
 | housewarming | 暖房；乔迁聚会 | I finished the first piece of my collection four days after Josh and Jules's housewarming. |
-| background | 背景；出身 | It hung on the back of my door in a spill of silk and sinuous lines, its golden color a stark contrast to the dark wood background. |
-| Simplicity | 简单；朴素 | This wasn't just a quick Simplicity Pattern dress I'd made over Christmas break one year. |
 | procrastination | 拖延；耽搁 | Too much planning is a form of procrastination. |
-| unfamiliar | 不熟悉的；陌生的 | A strange emotion welled in my throat, so unfamiliar it took me a minute to identify it: pride. |
 | Weightlessness | 失重；轻盈 | Weightlessness expanded in my chest and pulled a huge smile out of me. |
 | accomplishment | 成就；成绩 | "Remind him to come prepared with an accomplishment to share. |
 | accomplishments | 成就；成绩 | Yes, guests were expected to share their accomplishments at an Alonso family dinner. |
-| convenient | 方便的；便利的 | "How convenient. |
 | pitter-patter | 噼啪声；轻快声 | I twisted my hair into a bun, hoping she couldn't hear the rapid pitter-patter of my heart. |
-| unfortunate | 不幸的；遗憾的 | "It's unfortunate, but sickness doesn't conform to our personal schedules. |
-| commission | 佣金；委托 | "I was out of commission yesterday, but I'm good as new today. |
-| displeasure | 不悦；不满 | I mouthed, hoping my glare conveyed the full extent of my displeasure. |
-| reconsider | 重新考虑；重新思考 | His only response was a smirk that made me reconsider my stance on non-violence. |
 | non-violence | 非暴力；不暴力 | His only response was a smirk that made me reconsider my stance on non-violence. |
-| overbearing | 专横的；跋扈的 | Thou shalt do no harm…unless your fake boyfriend was trying to crash a dinner with your overbearing family. |
-| punishment | 惩罚；处罚 | Then again, dinner should be punishment enough. |
-| girlfriend | 女朋友 | "That was me agreeing to dinner at my girlfriend's house. |
-| eventually | 最终；终于 | "I have to meet them eventually. |
-| confession | 坦白；承认 | His confession about wanting me was the elephant in every room we were in together, but neither of us addressed it. |
-| lightheaded | 头晕的；轻飘飘的 | They tightened my lungs and cut off the flow of oxygen until I grew lightheaded. |
 | conditioning | 空调；条件作用 | The air conditioning was on, but I cracked the window open and sucked in a small gasp of fresh air. |
-| government | 政府 | "I work with the government on occasion. |
 | conversation | 对话；交谈 | The clink of plates and glasses replaced conversation until the main course. |
-| traditional | 传统的；惯例的 | The lull gave me a chance to rehearse my answer for our traditional sharing of accomplishments. |
-| neighborhood | 附近；街区 | I was in the neighborhood the other day. |
-| receptionist | 接待员；前台 | But when I showed up, the receptionist said you don't work there anymore. |
-| off-kilter | 失衡的；不安的 | I'd thought his presence at dinner would throw me off-kilter, but it was doing the exact opposite. |
-| mid-February | 二月中旬 | "I got fired in mid-February. |
-| circulation | 循环；流通 | I twisted my necklace around my finger until it cut off my circulation. |
-| expression | 表情；神色 | His expression was placid, but something turbulent lurked beneath his eyes. |
-| influencer | 网红；影响者 | "I don't plan on becoming a full-time influencer. |
-| guillotine | 断头台 | A guillotine of silence hung suspended over the table before it sliced through the air and triggered another explosion. |
-| consequences | 后果；结果 | I might as well rip the Band-Aid off my other secret and deal with the consequences all at once. |
 | superstitions | 迷信；迷信 | According to Japanese superstitions, shaking one's leg invited the ghosts of poverty or something like that. |
-| attachment | 依恋；情感 | "We're grateful for the years she spent with you girls, and I understand why you have an attachment to her. |
-| unemployed | 失业的；无业的 | You're unemployed, for Christ's sake. |
-| eradicated | 根除；消灭 | Anger lit a match in my stomach and eradicated every ounce of guilt over my lies. |
-| rebellious | 叛逆的；反叛的 | Neither of us had talked back to our parents since our rebellious teenage years. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| background | 背景；出身 | It hung on the back of my door in a spill of silk and sinuous lines, its golden color a stark contrast to the dark wood background. |
-| Simplicity | 简单；朴素 | This wasn't just a quick Simplicity Pattern dress I'd made over Christmas break one year. |
-| procrastination | 拖延；耽搁 | Too much planning is a form of procrastination. |
-| unfamiliar | 不熟悉的；陌生的 | A strange emotion welled in my throat, so unfamiliar it took me a minute to identify it: pride. |
-| Weightlessness | 失重；轻盈 | Weightlessness expanded in my chest and pulled a huge smile out of me. |
-| accomplishment | 成就；成绩 | "Remind him to come prepared with an accomplishment to share. |
-| accomplishments | 成就；成绩 | Yes, guests were expected to share their accomplishments at an Alonso family dinner. |
-| convenient | 方便的；便利的 | "How convenient. |
-| pitter-patter | 噼啪声；轻快声 | I twisted my hair into a bun, hoping she couldn't hear the rapid pitter-patter of my heart. |
 | unfortunate | 不幸的；遗憾的 | "It's unfortunate, but sickness doesn't conform to our personal schedules. |
-| commission | 佣金；委托 | "I was out of commission yesterday, but I'm good as new today. |
 | displeasure | 不悦；不满 | I mouthed, hoping my glare conveyed the full extent of my displeasure. |
-| reconsider | 重新考虑；重新思考 | His only response was a smirk that made me reconsider my stance on non-violence. |
-| non-violence | 非暴力；不暴力 | His only response was a smirk that made me reconsider my stance on non-violence. |
 | overbearing | 专横的；跋扈的 | Thou shalt do no harm…unless your fake boyfriend was trying to crash a dinner with your overbearing family. |
-| punishment | 惩罚；处罚 | Then again, dinner should be punishment enough. |
-| girlfriend | 女朋友 | "That was me agreeing to dinner at my girlfriend's house. |
-| eventually | 最终；终于 | "I have to meet them eventually. |
-| confession | 坦白；承认 | His confession about wanting me was the elephant in every room we were in together, but neither of us addressed it. |
 | lightheaded | 头晕的；轻飘飘的 | They tightened my lungs and cut off the flow of oxygen until I grew lightheaded. |
-| conditioning | 空调；条件作用 | The air conditioning was on, but I cracked the window open and sucked in a small gasp of fresh air. |
-| government | 政府 | "I work with the government on occasion. |
-| conversation | 对话；交谈 | The clink of plates and glasses replaced conversation until the main course. |
-| traditional | 传统的；惯例的 | The lull gave me a chance to rehearse my answer for our traditional sharing of accomplishmentsg of accomplishments. |
+| traditional | 传统的；惯例的 | The lull gave me a chance to rehearse my answer for our traditional sharing of accomplishments. |
 | neighborhood | 附近；街区 | I was in the neighborhood the other day. |
 | receptionist | 接待员；前台 | But when I showed up, the receptionist said you don't work there anymore. |
-| off-kilter | 失衡的；不安的 | I'd thought his presence at dinner would throw me off-kilter, but it was doing the exact opposite. |
 | mid-February | 二月中旬 | "I got fired in mid-February. |
 | circulation | 循环；流通 | I twisted my necklace around my finger until it cut off my circulation. |
-| expression | 表情；神色 | His expression was placid, but something turbulent lurked beneath his eyes. |
-| influencer | 网红；影响者 | "I don't plan on becoming a full-time influencer. |
-| guillotine | 断头台 | A guillotine of silence hung suspended over the table before it sliced through the air and triggered another explosion. |
 | consequences | 后果；结果 | I might as well rip the Band-Aid off my other secret and deal with the consequences all at once. |
-| superstitions | 迷信；迷信 | According to Japanese superstitions, shaking one's leg invited the ghosts of poverty or something like that. |
-| attachment | 依恋；情感 | "We're grateful for the years she spent with you girls, and I understand why you have an attachment to her. |
-| unemployed | 失业的；无业的 | You're unemployed, for Christ's sake. |
-| eradicated | 根除；消灭 | Anger lit a match in my stomach and eradicated every ounce of guilt over my lies. |
-| rebellious | 叛逆的；反叛的 | Neither of us had talked back to our parents since our rebellious teenage years. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| conversation | 对话；交谈 | The clink of plates and glasses replaced conversation until the main course. |
-| traditional | 传统的；惯例的 | The lull gave me a chance to rehearse my answer for our traditional sharing of accomplishmentsg of accomplishments. |
-| neighborhood | 附近；街区 | I was in the neighborhood the other day. |
-| receptionist | 接待员；前台 | But when I showed up, the receptionist said you don't work there anymore. |
+| collection | 收藏；系列 | I finished the first piece of my collection four days after Josh and Jules's housewarming. |
+| background | 背景；出身 | It hung on the back of my door in a spill of silk and sinuous lines, its golden color a stark contrast to the dark wood background. |
+| Simplicity | 简单；朴素 | This wasn't just a quick Simplicity Pattern dress I'd made over Christmas break one year. |
+| unfamiliar | 不熟悉的；陌生的 | A strange emotion welled in my throat, so unfamiliar it took me a minute to identify it: pride. |
+| convenient | 方便的；便利的 | "How convenient. |
 
 ## 一句话总结
 

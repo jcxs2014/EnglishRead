@@ -83,84 +83,40 @@ pov: "Stella/Christian"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | distinction | 区别；差别 | Of course, I didn't want to have sex with my friends, but that was a minor distinction. |
-| half-eaten | 吃了一半的 | An empty coffee cup and a half-eaten slice of toast sat next to his laptop along with a a completed crossword puzzle. |
 | uncertainty | 不确定；不确定性 | My uncertainty must've bled through because his face softened further. |
-| beforehand | 事先；提前 | "Do you want something to eat beforehand? |
-| ridiculous | 荒谬的；可笑的 | Which was ridiculous, because he wasn't my boyfriend, and our hotel was only a fifteen-minute walk from the set. |
 | fifteen-minute | 十五分钟的 | Which was ridiculous, because he wasn't my boyfriend, and our hotel was only a fifteen-minute walk from the set. |
 | accessories | 配饰；附件 | We were shooting a different line every day—resort wear today, shoes and accessories tomorrow, and jewelry the day after that. |
-| comfortable | 舒适的；舒服的 | Or maybe it was because I'd shot with Ricardo before and was more comfortable working with him. |
 | self-doubting | 自我怀疑的 | Whatever it was, it melted my nerves until I finally relaxed enough to push the ugly, self-doubting voices out of my head. |
-| Emmanuelle | 埃曼纽尔（人名） | Emmanuelle was ecstatic. |
-| realization | 认识；领悟 | The realization struck me right as Emmanuelle finished talking. |
 | reappearance | 重新出现；再现 | I'd spent years building my brand by myself, but ever since the Delamonte deal and my stalker's reappearance, I'd been off balance. |
-| confidence | 信心；自信 | I'd relied on Christian for confidence and a small part of me was convinced I would've bombed the New York shoot if it hadn't been for him. |
-| designated | 指定的；指定的 | I was still wearing my smile when I returned to my designated spot, my steps lighter than they'd been all day. |
-| preoccupied | 全神贯注的；入神的 | Work kept me preoccupied for most of the Hawaii trip. |
-| rescheduled | 重新安排；改期 | I rescheduled my meetings and took the hotel's boat to the Nā Pali Coast, where her last shoot was taking place. |
-| waterfalls | 瀑布 | White-plumed waterfalls cascaded past sea caves carved into the cliffs, their soft roar mingling with the lap of waves against sandy shores. |
-| extravagant | 奢侈的；铺张的 | Her simple white bikini bottom offset the extravagant emerald necklace around her neck. |
-| spectacular | 壮观的；惊人的 | She looked like Venus emerging from the deep blue sea, only a thousand times more spectacular. |
 | photographer | 摄影师 | My heart slowed to match the sensual ebb and flow of the water as she turned and posed according to the photographer's instructions. |
 | instructions | 指示；说明 | My heart slowed to match the sensual ebb and flow of the water as she turned and posed according to the photographer's instructions. |
-| photoshoot | 摄影；拍照 | Unlike at the first photoshoot, she appeared at ease here, with the wind rustling her hair and the waves lapping at her thighs. |
-| perfection | 完美；完善 | Absolute perfection. |
 | possessiveness | 占有欲；自私 | A lethal spike of possessiveness surged through my blood. |
 | unidentifiable | 无法辨认的；认不出的 | Surprise, pleasure, and a hint of something unidentifiable passed through her eyes when they caught mine. |
-| supermodels | 超模 | Supermodels and movie stars and heiresses molded by the best money could buy. |
-| susceptible | 易受影响的；易感的 | I wasn't her boss, but like most people, she was susceptible to authority no matter what form it came in. |
-| last-ditch | 最后的；孤注一掷的 | Still, she put up a last-ditch effort to stand her ground. |
-| footprints | 脚印；足迹 | Two minutes later, the crew was gone, leaving nothing but footprints behind. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| Christian | 克里斯蒂安 | Christian was gone, but tiny prickles of heat consumed my skin at the sight of the rumpled sheets on his side of the bed. |
-| prickles | 刺痛；刺痒 | Christian was gone, but tiny prickles of heat consumed my skin at the sight of the rumpled sheets on his side of the bed. |
-| consumed | 消耗；吞噬 | Christian was gone, but tiny prickles of heat consumed my skin at the sight of the rumpled sheets on his side of the bed. |
-| assistant | 助手；助理 | The front desk assistant told us so when he'd upgraded us. |
-| upgraded | 升级；提升 | The front desk assistant told us so when he'd upgraded us. |
-| traveled | 旅行；出行 | I shared beds with my friends all the time when we traveled together. |
-| distinction | 区别；差别 | Of course, I didn't want to have sex with my friends, but that was a minor distinction. |
 | half-eaten | 吃了一半的 | An empty coffee cup and a half-eaten slice of toast sat next to his laptop along with a a completed crossword puzzle. |
-| uncertainty | 不确定；不确定性 | My uncertainty must've bled through because his face softened further. |
 | beforehand | 事先；提前 | "Do you want something to eat beforehand? |
-| ridiculous | 荒谬的；可笑的 | Which was ridiculous, because he wasn't my boyfriend, and our hotel was only a fifteen-minute walk from the set. |
-| fifteen-minute | 十五分钟的 | Which was ridiculous, because he wasn't my boyfriend, and our hotel was only a fifteen-minute walk from the set. |
-| accessories | 配饰；附件 | We were shooting a different line every day—resort wear today, shoes and accessories tomorrow, and jewelry the day after that. |
 | comfortable | 舒适的；舒服的 | Or maybe it was because I'd shot with Ricardo before and was more comfortable working with him. |
-| self-doubting | 自我怀疑的 | Whatever it was, it melted my nerves until I finally relaxed enough to push the ugly, self-doubting voices out of my head. |
-| Emmanuelle | 埃曼纽尔（人名） | Emmanuelle was ecstatic. |
 | realization | 认识；领悟 | The realization struck me right as Emmanuelle finished talking. |
-| reappearance | 重新出现；再现 | I'd spent years building my brand by myself, but ever since the Delamonte deal and my stalker's reappearance, I'd been off balance. |
-| confidence | 信心；自信 | I'd relied on Christian for confidence and a small part of me was convinced I would've bombed the New York shoot if it hadn't been for him. |
-| designated | 指定的；指定的 | I was still wearing my smile when I returned to my designated spot, my steps lighter than they'd been all day. |
 | preoccupied | 全神贯注的；入神的 | Work kept me preoccupied for most of the Hawaii trip. |
 | rescheduled | 重新安排；改期 | I rescheduled my meetings and took the hotel's boat to the Nā Pali Coast, where her last shoot was taking place. |
-| waterfalls | 瀑布 | White-plumed waterfalls cascaded past sea caves carved into the cliffs, their soft roar mingling with the lap of waves against sandy shores. |
 | extravagant | 奢侈的；铺张的 | Her simple white bikini bottom offset the extravagant emerald necklace around her neck. |
 | spectacular | 壮观的；惊人的 | She looked like Venus emerging from the deep blue sea, only a thousand times more spectacular. |
-| photographer | 摄影师 | My heart slowed to match the sensual ebb and flow of the water as she turned and posed according to the photographer's instructions. |
-| instructions | 指示；说明 | My heart slowed to match the sensual ebb and flow of the water as she turned and posed according to the photographer's instructions. |
-| photoshoot | 摄影；拍照 | Unlike at the first photoshoot, she appeared at ease here, with the wind rustling her hair and the waves lapping at her thighs. |
-| perfection | 完美；完善 | Absolute perfection. |
-| possessiveness | 占有欲；自私 | A lethal spike of possessiveness surged through my blood. |
-| unidentifiable | 无法辨认的；认不出的 | Surprise, pleasure, and a hint of something unidentifiable passed through her eyes when they caught mine. |
 | supermodels | 超模 | Supermodels and movie stars and heiresses molded by the best money could buy. |
 | susceptible | 易受影响的；易感的 | I wasn't her boss, but like most people, she was susceptible to authority no matter what form it came in. |
-| last-ditch | 最后的；孤注一掷的 | Still, she put up a last-ditch effort to stand her ground. |
-| footprints | 脚印；足迹 | Two minutes later, the crew was gone, leaving nothing but footprints behind. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| photoshoot | 摄影；拍照 | Unlike at the first photoshoot, she appeared at ease here, with the wind rustling her hair and the waves lapping at her thighs. |
-| perfection | 完美；完善 | Absolute perfection. |
-| possessiveness | 占有欲；自私 | A lethal spike of possessiveness surged through my blood. |
-| unidentifiable | 无法辨认的；认不出的 | Surprise, pleasure, and a hint of something unidentifiable passed through her eyes when they caught mine. |
-| supermodels | 超模 | Supermodels and movie stars and heiresses molded by the best money could buy. |
+| ridiculous | 荒谬的；可笑的 | Which was ridiculous, because he wasn't my boyfriend, and our hotel was only a fifteen-minute walk from the set. |
+| Emmanuelle | 埃曼纽尔（人名） | Emmanuelle was ecstatic. |
+| confidence | 信心；自信 | I'd relied on Christian for confidence and a small part of me was convinced I would've bombed the New York shoot if it hadn't been for him. |
+| designated | 指定的；指定的 | I was still wearing my smile when I returned to my designated spot, my steps lighter than they'd been all day. |
+| waterfalls | 瀑布 | White-plumed waterfalls cascaded past sea caves carved into the cliffs, their soft roar mingling with the lap of waves against sandy shores. |
 
 ## 一句话总结
 

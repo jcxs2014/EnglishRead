@@ -86,58 +86,37 @@ pov: "Stella"
 | accompanying | 陪伴；陪同 | I suspected he might be avoiding me as well, and I half expected him to back out of accompanying me to the shoot. |
 | concentration | 集中；专注 | He was working on his laptop, his brow furrowed with concentration. |
 | headquartered | 总部设在；总部位于 | Harper Security was headquartered in D.C. |
-| elaboration | 详细说明；阐述 | I waited for an elaboration that never came. |
-| thermometer | 温度计；体温计 | Christian was more mercurial than a broken thermometer. |
-| surrounding | 周围的环境；周围 | For lack of anything better to do, I settled deeper into my seat and examined the luxury surrounding us. |
 | administrator | 管理员；行政人员 | According to the only public interview he'd ever given, his father had been a software engineer and his mother a school administrator. |
-| graduation | 毕业 | He could've gotten a job anywhere after graduation—NASA, Silicon Valley, the CIA. |
-| guarantees | 保证；担保 | Instead, he chose to build his own company from the ground up with no guarantees of success, in a field few MIT grads touched. |
-| calculating | 精明的；算计的 | He was too practical and calculating for that. |
-| proprietary | 专有的；所有权的 | Stocks, selling proprietary software…which I did, to raise capital for Harper Security. |
-| well-placed | 位置好的；合适的 | "One debt owed from a well-placed contact is worth more than all the cash in the world." |
-| trepidation | 恐惧；惊恐 | A shiver of trepidation crept up my spine. |
 | effortlessly | 毫不费力地；轻松地 | "Speaking of business…" Christian switched topics so effortlessly it took my brain a minute to catch up. |
 | intoxicating | 令人陶醉的；使人兴奋的 | It was too intoxicating, like a shot of fine tequila straight to the blood of an alcoholic. |
-| fascinating | 迷人的；极有吸引力的 | "I think you're one of the most fascinating men I've ever met." |
-| compressed | 压缩的；受压的 | Dark flames devoured all the oxygen in the cabin, leaving next to nothing for my compressed lungs. |
-| evaporated | 蒸发；消失 | Christian's eyes dipped to my mouth, and the remnants of his laughter evaporated. |
-| resurfaced | 重新出现；浮回 | The memory of our almost kiss when I first moved in resurfaced, as it had a bad habit of doing since that night. |
-| interruption | 打断；中断 | "Mr. Harper, apologies for the interruption. |
 | disappointment | 失望；沮丧 | A cold wave of oxygen rushed back into my chest, followed by the acrid sting of disappointment when Christian drew back. |
-| desperately | 拼命地；极度地 | I was too unsettled by the knowledge that Christian Harper had been about to kiss me again…and that I'd desperately wanted him to. |
-| distraction | 分心；干扰 | I was about the Delamonte shoot, I was grateful for the distraction from my tangled feelings toward Christian. |
 | contradictions | 矛盾；对立 | The contradictions were enough to drive a girl mad. |
-| department | 部门；系 | I was too rusty in the boys department to sort through my mess on my own. |
-| photoshoots | 摄影；拍照 | I had no problem doing solo photoshoots or being on camera when I couldn't see people watching me. |
-| believable | 可信的；真实的 | He looked and sounded so believable as a proud, doting boyfriend that I almost forgot we were pretending. |
-| pretending | 假装；伪装 | He looked and sounded so believable as a proud, doting boyfriend that I almost forgot we were pretending. |
+| near-forgotten | 几乎忘记的 | Masculine heat and decadent spice stole into my lungs and further distracted me before I grasped the rest of my near-forgotten words. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| elaboration | 详细说明；阐述 | I waited for an elaboration that never came. |
+| thermometer | 温度计；体温计 | Christian was more mercurial than a broken thermometer. |
+| surrounding | 周围的环境；周围 | For lack of anything better to do, I settled deeper into my seat and examined the luxury surrounding us. |
+| calculating | 精明的；算计的 | He was too practical and calculating for that. |
+| proprietary | 专有的；所有权的 | Stocks, selling proprietary software…which I did, to raise capital for Harper Security. |
+| well-placed | 位置好的；合适的 | "One debt owed from a well-placed contact is worth more than all the cash in the world." |
+| interruption | 打断；中断 | "Mr. Harper, apologies for the interruption. |
 | surprisingly | 令人惊讶地；出乎意料地 | It was surprisingly easy, given how early he left in the morning and how late he returned at night. |
 | shirtsleeves | 衬衫袖子 | His jacket lay on the seat next to him, and he'd pushed his shirtsleeves up to reveal his watch and tanned, muscular forearms. |
-| heartbeats | 心跳 | I hadn't been doing anything wrong, but my heartbeats collided like he'd caught me stealing. |
 | conversation | 对话；交谈 | I hadn't realized how close we'd gotten during our conversation. |
-| distracted | 分心的；心不在焉的 | Masculine heat and decadent spice stole into my lungs and further distracted me before I grasped the rest of my near-forgotten words. |
-| near-forgotten | 几乎忘记的 | Masculine heat and decadent spice stole into my lungs and further distracted me before I grasped the rest of my near-forgotten words. |
-| mini-speech | 简短的演讲；简短发言 | His mini-speech just now was my first insight into how his mind worked. |
-| interesting | 有趣的；有意思的 | "I'm not that interesting." |
-| interruption | 打断；中断 | "Mr. Harper, apologies for the interruption. |
-| disappeared | 消失；不见 | Her eyes flitted between us before she disappeared to another part of the jet. |
-| background | 背景；背景 | A pop song played in the background, but all commotion halted when I walked in. |
-| photoshoot | 摄影；拍照 | "I couldn't resist attending Stella's first photoshoot. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| conversation | 对话；交谈 | I hadn't realized how close we'd gotten during our conversation. |
-| interruption | 打断；中断 | "Mr. Harper, apologies for the interruption. |
-| disappointment | 失望；沮丧 | A cold wave of oxygen rushed back into my chest, followed by the acrid sting of disappointment when Christian drew back. |
-| disappeared | 消失；不见 | Her eyes flitted between us before she disappeared to another part of the jet. |
+| trepidation | 恐惧；惊恐 | A shiver of trepidation crept up my spine. |
+| fascinating | 迷人的；极有吸引力的 | "I think you're one of the most fascinating men I've ever met." |
 | desperately | 拼命地；极度地 | I was too unsettled by the knowledge that Christian Harper had been about to kiss me again…and that I'd desperately wanted him to. |
+| distraction | 分心；干扰 | I was about the Delamonte shoot, I was grateful for the distraction from my tangled feelings toward Christian. |
+| photoshoots | 摄影；拍照 | I had no problem doing solo photoshoots or being on camera when I couldn't see people watching me. |
 
 ## 一句话总结
 

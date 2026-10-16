@@ -82,84 +82,30 @@ pov: "Stella/Christian"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| proclaimed | 宣布；声明 | I pretended to mull it over before I proclaimed, "Best I've ever had. |
-| butterflies | 蝴蝶；蝴蝶结 | His grin made the butterflies in my stomach reel. |
 | self-satisfaction | 自满；自我满足 | "Told you," he said, oozing playful self-satisfaction. |
-| restaurant | 餐厅；餐馆 | We were eating dinner at a tiny Italian restaurant tucked in the heart of Columbia Heights. |
-| envisioned | 设想；想象 | It was the one Christian mentioned in his letters, and it was just as charming as I'd envisioned. |
-| individual | 个人；个体 | Instead of individual tables, one rustic wooden table stretched down the middle, just large enough to seat a dozen people. |
-| chandelier | 吊灯；枝形吊灯 | A candlelit chandelier bathed the room in a flickering amber glow, and a display of copper pots and pans hung on the exposed brick wall. |
-| flickering | 闪烁；摇曳 | A candlelit chandelier bathed the room in a flickering amber glow, and a display of copper pots and pans hung on the exposed brick wall. |
-| especially | 特别地；尤其地 | It felt like we were eating in someone's home, especially since Christian had booked out the restaurant so it was just us and the server. |
 | hand-holding | 牵手；手拉手 | I've yet to grade you on your hand-holding, cuddling, and sweet nothing skills. |
 | relationship | 关系；关联 | It'd been a month since we got back together, and we'd spent that time exploring the contours of our new relationship. |
-| kidnapping | 绑架；诱拐 | In a perverse way, my kidnapping had reset our relationship for the better. |
-| authorities | 当局；权威 | If that wasn't enough, the authorities had arrested Sentinel's CEO Mike Kurtz that morning for embezzlement and tax fraud. |
 | embezzlement | 挪用公款；贪腐 | If that wasn't enough, the authorities had arrested Sentinel's CEO Mike Kurtz that morning for embezzlement and tax fraud. |
-| corporation | 公司；企业 | Sentinel is a security corporation. |
-| development | 发展；开发 | They had no business venturing into cyber development when that's not their area of expertise. |
-| sun-warmed | 阳光晒暖的 | His smile spread through me like sun-warmed honey. |
 | uninterested | 不感兴趣的；漠不关心的 | An uninterested shrug. |
-| destruction | 破坏；毁灭 | Plus, Sentinel's destruction came from the inside out. |
 | conversation | 对话；交谈 | The conversation moved on to Stella Alonso the brand, which officially launched last week. |
-| officially | 正式地；官方地 | The conversation moved on to Stella Alonso the brand, which officially launched last week. |
 | double-checked | 再次检查；复核 | I'd double-checked with Delamonte first, but they were okay with the launch as long as it didn't interfere with my ambassador duties. |
-| ambassador | 大使；使节 | I'd double-checked with Delamonte first, but they were okay with the launch as long as it didn't interfere with my ambassador duties. |
 | ultra-high-end | 超高端的 | Theirs was ultra-high-end while mine tipped toward the mid-range of the luxury spectrum. |
-| masculinity | 男子气概；男性气质 | He leaned back in his chair, the picture of sensual masculinity and lazy contentment. |
-| contentment | 满足；满意 | He leaned back in his chair, the picture of sensual masculinity and lazy contentment. |
-| steadiness | 稳定；稳固 | I rose and walked around the table, unsure whether I owed my steadiness to the wine or the wetness slicking my thighs. |
 | anticipation | 预期；期待 | The mere anticipation of what might happen turned me on as much as an actual touch. |
-| rationality | 理性；合理性 | My pulse spiked, but rationality clung to the edges of blooming arousal. |
-| infinitely | 无限地；无穷地 | The air condensed into something thin and infinitely flammable. |
-| languorous | 慵懒的；懒散的 | Her hands tangled in my hair as I hiked her legs higher on my shoulders and gave her clit another long, languorous lick. |
-| sweetheart | 甜心；宝贝 | "We just got started, sweetheart," I drawled. |
 | intoxicating | 令人陶醉的；使人兴奋的 | It was the world's most intoxicating feast. |
-| half-lidded | 半闭的；半睁的 | Stella gazed down at me, her eyes half-lidded with desire and bright with clear, pure trust. |
-| stretching | 拉伸；伸展 | She was so tight I could feel her stretching around me, inch by inch, until I was knuckles deep inside her. |
-| thoroughly | 彻底地；完全地 | Slowly and thoroughly, letting her feel every glide of friction. |
-| loose-limbed | 四肢松散的；四肢柔软的 | Finally, her cries subsided into a dazed whimper, and she sprawled, loose-limbed and sated, on the table. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| proclaimed | 宣布；声明 | I pretended to mull it over before I proclaimed, "Best I've ever had. |
 | butterflies | 蝴蝶；蝴蝶结 | His grin made the butterflies in my stomach reel. |
-| self-satisfaction | 自满；自我满足 | "Told you," he said, oozing playful self-satisfaction. |
-| restaurant | 餐厅；餐馆 | We were eating dinner at a tiny Italian restaurant tucked in the heart of Columbia Heights. |
-| envisioned | 设想；想象 | It was the one Christian mentioned in his letters, and it was just as charming as I'd envisioned. |
-| individual | 个人；个体 | Instead of individual tables, one rustic wooden table stretched down the middle, just large enough to seat a dozen people. |
-| chandelier | 吊灯；枝形吊灯 | A candlelit chandelier bathed the room in a flickering amber glow, and a display of copper pots and pans hung on the exposed brick wall. |
-| flickering | 闪烁；摇曳 | A candlelit chandelier bathed the room in a flickering amber glow, and a display of copper pots and pans hung on the exposed brick wall. |
-| especially | 特别地；尤其地 | It felt like we were eating in someone's home, especially since Christian had booked out the restaurant so it was just us and the server. |
-| hand-holding | 牵手；手拉手 | I've yet to grade you on your hand-holding, cuddling, and sweet nothing skills. |
-| relationship | 关系；关联 | It'd been a month since we got back together, and we'd spent that time exploring the contours of our new relationship. |
-| kidnapping | 绑架；诱拐 | In a perverse way, my kidnapping had reset our relationship for the better. |
 | authorities | 当局；权威 | If that wasn't enough, the authorities had arrested Sentinel's CEO Mike Kurtz that morning for embezzlement and tax fraud. |
-| embezzlement | 挪用公款；贪腐 | If that wasn't enough, the authorities had arrested Sentinel's CEO Mike Kurtz that morning for embezzlement and tax fraud. |
 | corporation | 公司；企业 | Sentinel is a security corporation. |
 | development | 发展；开发 | They had no business venturing into cyber development when that's not their area of expertise. |
-| sun-warmed | 阳光晒暖的 | His smile spread through me like sun-warmed honey. |
-| uninterested | 不感兴趣的；漠不关心的 | An uninterested shrug. |
 | destruction | 破坏；毁灭 | Plus, Sentinel's destruction came from the inside out. |
-| conversation | 对话；交谈 | The conversation moved on to Stella Alonso the brand, which officially launched last week. |
-| officially | 正式地；官方地 | The conversation moved on to Stella Alonso the brand, which officially launched last week. |
-| double-checked | 再次检查；复核 | I'd double-checked with Delamonte first, but they were okay with the launch as long as it didn't interfere with my ambassador duties. |
-| ambassador | 大使；使节 | I'd double-checked with Delamonte first, but they were okay with the launch as long as it didn't interfere with my ambassador duties. |
-| ultra-high-end | 超高端的 | Theirs was ultra-high-end while mine tipped toward the mid-range of the luxury spectrum. |
 | masculinity | 男子气概；男性气质 | He leaned back in his chair, the picture of sensual masculinity and lazy contentment. |
 | contentment | 满足；满意 | He leaned back in his chair, the picture of sensual masculinity and lazy contentment. |
-| steadiness | 稳定；稳固 | I rose and walked around the table, unsure whether I owed my steadiness to the wine or the wetness slicking my thighs. |
-| anticipation | 预期；期待 | The mere anticipation of what might happen turned me on as much as an actual touch. |
 | rationality | 理性；合理性 | My pulse spiked, but rationality clung to the edges of blooming arousal. |
-| infinitely | 无限地；无穷地 | The air condensed into something thin and infinitely flammable. |
-| languorous | 慵懒的；懒散的 | Her hands tangled in my hair as I hiked her legs higher on my shoulders and gave her clit another long, languorous lick. |
-| sweetheart | 甜心；宝贝 | "We just got started, sweetheart," I drawled. |
-| intoxicating | 令人陶醉的；使人兴奋的 | It was the world's most intoxicating feast. |
 | half-lidded | 半闭的；半睁的 | Stella gazed down at me, her eyes half-lidded with desire and bright with clear, pure trust. |
-| stretching | 拉伸；伸展 | She was so tight I could feel her stretching around me, inch by inch, until I was knuckles deep inside her. |
-| thoroughly | 彻底地；完全地 | Slowly and thoroughly, letting her feel every glide of friction. |
 | loose-limbed | 四肢松散的；四肢柔软的 | Finally, her cries subsided into a dazed whimper, and she sprawled, loose-limbed and sated, on the table. |
 
 ### ⭐ 基础
@@ -167,9 +113,10 @@ pov: "Stella/Christian"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | proclaimed | 宣布；声明 | I pretended to mull it over before I proclaimed, "Best I've ever had. |
-| butterflies | 蝴蝶；蝴蝶结 | His grin made the butterflies in my stomach reel. |
-| self-satisfaction | 自满；自我满足 | "Told you," he said, oozing playful self-satisfaction. |
 | restaurant | 餐厅；餐馆 | We were eating dinner at a tiny Italian restaurant tucked in the heart of Columbia Heights. |
+| envisioned | 设想；想象 | It was the one Christian mentioned in his letters, and it was just as charming as I'd envisioned. |
+| individual | 个人；个体 | Instead of individual tables, one rustic wooden table stretched down the middle, just large enough to seat a dozen people. |
+| chandelier | 吊灯；枝形吊灯 | A candlelit chandelier bathed the room in a flickering amber glow, and a display of copper pots and pans hung on the exposed brick wall. |
 
 ## 一句话总结
 
