@@ -3,7 +3,7 @@ from datetime import date
 
 SRC = "parisreview"
 FEED = "https://www.theparisreview.org/blog/feed/"
-MAX_ITEMS = 10
+MAX_ITEMS = int(os.environ.get("FETCH_MAX", "10"))
 BASE = f"/Users/jcxs2014/Documents/Works/EnglishRead/notes/{SRC}"
 SOURCE_NAME = "The Paris Review"
 
@@ -23,10 +23,14 @@ def fetch():
     os.makedirs(out_dir, exist_ok=True)
     idx_path = f"{out_dir}/index.json"
 
-    req = urllib.request.Request(FEED, headers={"User-Agent": "Mozilla/5.0"})
-    data = urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "ignore")
-    items = re.findall(r'<item>(.*?)</item>', data, re.S)
-    print(f"[feed] {len(items)} items total  |  out: {out_dir}\n")
+    pages = int(os.environ.get("FETCH_PAGES", "1"))
+    items = []
+    for _p in range(1, pages + 1):
+        _url = FEED if _p == 1 else f"{FEED}?paged={_p}"
+        req = urllib.request.Request(_url, headers={"User-Agent": "Mozilla/5.0"})
+        data = urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "ignore")
+        items += re.findall(r'<item>(.*?)</item>', data, re.S)
+    print(f"[feed] {len(items)} items across {pages} page(s)  |  out: {out_dir}\n")
 
     seen = set()
     if os.path.exists(idx_path):
