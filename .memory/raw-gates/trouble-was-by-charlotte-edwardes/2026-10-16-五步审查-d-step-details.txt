@@ -1,0 +1,12 @@
+# Step d 语义二审 — trouble-was-by-charlotte-edwardes
+
+## ch01–ch19 (subagent d9e58a3b, 28 项)
+阻断型 (9): ch01 块1 说话人 (perilous Frank not Mum); ch01 块3 同前; ch04 块7 "两兄妹" -> two brothers and a sister; ch10 块4 "三个 and" -> 两次; ch11 块5 Grandpa -> Dad; ch16 块5 Mum's "he" -> Crispin's father/uncle; ch17 块6 "摸黑推门" -> lights were on; ch18 块3 "见到他" -> meeting her; ch19 块8 leap-frog "跳棋游戏" -> "跳蛙".
+提示型 (19): ch01 块7 / ch02 块4 / ch03 块5 / ch05 块2 / ch05 块6 (empty template residual) / ch06 块4,6,9 / ch07 块1 (empty residual),3,6 / ch08 块4 / ch09 块4 / ch13 块1 / ch14 块4 / ch15 块1,4 / ch16 块8 / ch17 块7.
+
+## ch20–ch28 (subagent 8c298cad, 96 块)
+阻断型 0. 提示型 2: ch25 块7 [left-footers 释义存疑]; ch24 块3 [Steven 传播源未坐实].
+
+## ch29–ch37 (subagent 38e87653, partial)
+阻断型 1: ch29 万花筒（Crispin 借给 Odette 的是 kaleidoscope 非 望远镜）.
+提示型 1: ch29 块4 引语前缀 "Do you know what?" 省略未标 …。

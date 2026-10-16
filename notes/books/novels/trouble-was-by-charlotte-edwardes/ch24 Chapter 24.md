@@ -40,7 +40,7 @@ modified: "2026-10-15"
 
 **关键词**：a group of older boys / seemed to know / pointing, creasing up and shouting / Who's a pretty boy, then?
 
-**为什么这样写**："seemed to know"三个字交代了消息的来路——是 Steven 传出去的，而 Frank 连确认的机会都没有。欺凌在这里不是一句骂，而是一整套表演（指、笑、起哄），儿童叙述者只记录动作，不写委屈。
+**为什么这样写**："seemed to know"三个字交代了消息的来路——Frank 怀疑是 Steven 传出去的，却连确认的机会都没有。欺凌在这里不是一句骂，而是一整套表演（指、笑、起哄），儿童叙述者只记录动作，不写委屈。
 
 **读者视角提示**：注意他后面在单杠边想问 Steven "是不是你说的"，却"肚子一抽"没能问出口；读者应把这次沉默与本章开头他被围笑时的沉默连读。
 

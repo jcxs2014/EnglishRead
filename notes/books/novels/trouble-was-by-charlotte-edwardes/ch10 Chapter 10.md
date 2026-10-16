@@ -50,7 +50,7 @@ modified: "2026-10-15"
 
 **关键词**：wide-open / Patrick smile / little yelp
 
-**为什么这样写**："a wide-open Patrick smile"（一个大大的 Patrick 式微笑）把弟弟的表情变成一个以他命名的类别，这是 Frank 的命名本能，与 Mum 给邻居起绰号（见第 9 章）同源，只是出于偏爱。整句用三个"and"串起动作，不加评论，模仿孩子兴奋时的语速；但见面其实是隔着房间的——前文写的是"Across the yards of carpet, we glimpsed Patrick’s back"，微笑在门口那头。
+**为什么这样写**："a wide-open Patrick smile"（一个大大的 Patrick 式微笑）把弟弟的表情变成一个以他命名的类别，这是 Frank 的命名本能，与 Mum 给邻居起绰号（见第 9 章）同源，只是出于偏爱。整句用两个"and"串起动作，不加评论，模仿孩子兴奋时的语速；但见面其实是隔着房间的——前文写的是"Across the yards of carpet, we glimpsed Patrick’s back"，微笑在门口那头。
 
 **读者视角提示**：读者在这一章里唯一得到的不掺杂质的高兴，是隔着一段距离、隔着一道门看到的——而这个距离，正是此后他们关系的常态。
 

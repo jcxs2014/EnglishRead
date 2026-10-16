@@ -60,7 +60,7 @@ modified: "2026-10-15"
 
 **关键词**：cornering / annoyed / heartbeat / convinced
 
-**为什么这样写**：这段引语是带空缺的记录：电话另一头的话全部缺失，原文也点明"Whoever she was talking to kept interrupting."，于是读者和 Frank 一样只能从单边重建对话。"cornering"（逼到墙角）是 Perry 自己用来否认的词，而否认本身就说明她正在这么做；"He is my brother, after all."（他毕竟是我哥哥。）里的"他"是 Grandpa，这句话把整通电话从"孩子的去留"转向"家族旧账"。"I’m just not convinced –"被破折号切断，正是这章的结构。
+**为什么这样写**：这段引语是带空缺的记录：电话另一头的话全部缺失，原文也点明"Whoever she was talking to kept interrupting."，于是读者和 Frank 一样只能从单边重建对话。"cornering"（逼到墙角）是 Perry 自己用来否认的词，而否认本身就说明她正在这么做；"He is my brother, after all."（他毕竟是我哥哥。）里的"他"是 Dad（Frank 的父亲），这句话把整通电话从"孩子的去留"转向"家族旧账"。"I’m just not convinced –"被破折号切断，正是这章的结构。
 
 **读者视角提示**：读者被迫与 Frank 共享同一份残缺证据——破折号和缺失的回话要求我们自己填补无法知道的部分。
 

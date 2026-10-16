@@ -76,7 +76,7 @@ modified: "2026-10-15"
 
 > **原句 7:** There was a story about a local family, two brothers and a sister, who had all been found at their farmhouse with their heads blown off.
 
-"有一个关于当地一个家庭的故事，两兄妹，都在他们的农场上被发现，头部被炸掉了。"
+"有一个关于当地一个家庭的故事，两个兄弟和一个妹妹，都在他们的农场上被发现，头部被炸掉了。"
 
 **关键词**：heads blown off / farmhouse / local
 

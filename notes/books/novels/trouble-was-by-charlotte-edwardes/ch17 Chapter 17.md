@@ -70,7 +70,7 @@ modified: "2026-10-15"
 
 **关键词**：Ages later / realised / hadn't come to kiss us goodnight / threw off the sheet / check on her / door wasn't completely closed / lights were on / pushed a little / tearing sound / carpet / velcro / hands in her lap / looking at the wall / thinking hard
 
-**为什么这样写**：“Ages later I realised”（很久以后我才意识到）是孩子的时间单位，实际只隔了一个晚上，叙述者却把它说得像过了很久——回望的声音再次介入。他摸黑推门，听到“like velcro”（像魔术贴）的撕裂声：孩子伸手去够一件家用物品来解释一个其实很不祥的声音，而成年的读者听到的是撕裂。母亲“hands in her lap, looking at the wall like she was thinking hard”的静止姿态被完整给出，原因却始终被扣住，只留下症状。
+**为什么这样写**：“Ages later I realised”（很久以后我才意识到）是孩子的时间单位，实际只隔了一个晚上，叙述者却把它说得像过了很久——回望的声音再次介入。他的门“没有完全关着”但“the lights were on”（灯开着），推门时在地毯上发出“like velcro”（像魔术贴）的撕裂声：成年的读者听到的撕裂感， narration 却只给“像魔术贴”这个家常比喻。母亲“hands in her lap, looking at the wall like she was thinking hard”的静止姿态被完整给出，原因却始终被扣住，只留下症状。
 
 **读者视角提示**：“像魔术贴”的家常比喻与盯着墙的静止并置，读者被留在症状一侧，和 Frank 一样得不到解释。
 

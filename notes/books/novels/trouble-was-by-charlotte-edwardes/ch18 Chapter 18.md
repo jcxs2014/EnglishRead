@@ -36,7 +36,7 @@ modified: "2026-10-15"
 
 > **原句 3:** In the afternoon, Miss Clarke crouched by my desk and said she'd heard Odette would be joining the school for the last bit of summer term. She was looking forward to meeting her after reading my stories. I had bits of pencil-splinter round my mouth, she added. My handwriting had much improved and if I conquered this chewing habit, I'd be allowed to move to pen. Wouldn't that be something?
 
-"下午，Miss Clarke 蹲在我的桌边，说她听说 Odette 会在夏季学期的最后一段时间加入学校。她期待着在读了 Frank 的故事后见到他。我嘴里有铅笔屑，她补充道。我的书写进步很大，如果我改掉这个咀嚼习惯，我就可以用钢笔了。那不是件好事吗？"
+"下午，Miss Clarke 蹲在我的桌边，说她听说 Odette 会在夏季学期的最后一段时间加入学校。她期待着在读了 Frank 的故事后见到她（Odette）。我嘴里有铅笔屑，她补充道。我的书写进步很大，如果我改掉这个咀嚼习惯，我就可以用钢笔了。那不是件好事吗？"
 
 **关键词**：afternoon / Miss Clarke / crouched / desk / heard / Odette / joining the school / last bit of summer term / looking forward / meeting / reading my stories / pencil-splinter / round my mouth / handwriting / much improved / conquered / chewing habit / allowed to move to pen / Wouldn't that be something
 

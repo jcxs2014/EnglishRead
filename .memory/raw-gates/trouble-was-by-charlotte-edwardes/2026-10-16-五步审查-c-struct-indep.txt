@@ -1,0 +1,23 @@
+  ❌ ch03 Chapter 3.md: [summary] 引语块 9 个，超出 3–8 配额
+  ❌ ch04 Chapter 4.md: [summary] 引语块 9 个，超出 3–8 配额
+  ❌ ch05 Chapter 5.md: [summary] 引语块 9 个，超出 3–8 配额
+  ❌ ch06 Chapter 6.md: [summary] 引语块 9 个，超出 3–8 配额
+  ❌ ch20 Chapter 20.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch21 Chapter 21.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch22 Chapter 22.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch23 Chapter 23.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch24 Chapter 24.md: [summary] 引语块 9 个，超出 3–8 配额
+  ❌ ch25 Chapter 25.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch26 Chapter 26.md: [summary] 引语块 12 个，超出 3–8 配额
+  ❌ ch27 Chapter 27.md: [summary] 引语块 11 个，超出 3–8 配额
+  ❌ ch28 Chapter 28.md: [summary] 引语块 14 个，超出 3–8 配额
+  ❌ ch29 Chapter 29.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch30 Chapter 30.md: [summary] 引语块 12 个，超出 3–8 配额
+  ❌ ch31 Chapter 31.md: [summary] 引语块 12 个，超出 3–8 配额
+  ❌ ch32 Chapter 32.md: [summary] 引语块 12 个，超出 3–8 配额
+  ❌ ch33 Chapter 33.md: [summary] 引语块 14 个，超出 3–8 配额
+  ❌ ch34 Chapter 34.md: [summary] 引语块 13 个，超出 3–8 配额
+  ❌ ch35 Chapter 35.md: [summary] 引语块 13 个，超出 3–8 配额
+  ❌ ch36 Chapter 36.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch37 Chapter 37.md: [summary] 引语块 10 个，超出 3–8 配额
+=== 独立结构扫描：37 个 md，缺陷 22 处（另有提示型 0 条，不计入缺陷、不影响退出码）===

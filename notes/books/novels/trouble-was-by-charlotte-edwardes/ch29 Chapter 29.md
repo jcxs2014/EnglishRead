@@ -44,7 +44,7 @@ modified: "2026-10-15"
 
 **读者视角提示**：读者可留意全书反复出现的"画家"母题（母亲是画家，Frank 也画画）——父亲是他画不出的那个人。
 
-> **原句 4:** If you want to survive in this world, you have to put up with it. Put up with all of it. You have to put up and shut up.
+> **原句 4:** …If you want to survive in this world, you have to put up with it. Put up with all of it. You have to put up and shut up.
 
 "如果你想在这个世界上活下去，你就得忍。全都得忍。你得忍着，闭上嘴。"
 
@@ -80,7 +80,7 @@ modified: "2026-10-15"
 
 **关键词**：everyone hates you
 
-**为什么这样写**：这是全章最短、最狠的一句，出自刚把望远镜"借"给 Odette 的 Crispin。作者刻意让它紧跟在 "Pinkie hates you" 之后，用一个连接词 "And" 把针对狗的厌恶顺滑地扩大到针对人——暴力的升级不需要新的理由，只需要一个连词。Frank 的反应是 "The outburst made me uneasy"（这爆发让我不安），但随即自我说服 "But I also knew from school that this was how some older boys talked to younger girls"（但我也从学校知道，有些大男孩就是这样跟小女孩说话的）——他用"正常"为残忍背书。
+**为什么这样写**：这是全章最短、最狠的一句，出自刚把万花筒"借"给 Odette 的 Crispin。作者刻意让它紧跟在 "Pinkie hates you" 之后，用一个连接词 "And" 把针对狗的厌恶顺滑地扩大到针对人——暴力的升级不需要新的理由，只需要一个连词。Frank 的反应是 "The outburst made me uneasy"（这爆发让我不安），但随即自我说服 "But I also knew from school that this was how some older boys talked to younger girls"（但我也从学校知道，有些大男孩就是这样跟小女孩说话的）——他用"正常"为残忍背书。
 
 **读者视角提示**：读者在此看到 Frank 的沉默不是懦弱，而是一种**归类**：他把妹妹归进了"这种事本来就会发生"的类别里，从此不必内疚。
 
