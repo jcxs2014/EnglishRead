@@ -60,6 +60,14 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-16 21:47 UTC] [Opencode-Mac] → All
+
+New Yorker 2026-10-16 期刊精读完工：目录 2026-10-16_Friday 共 8 篇。
+.src.md 8 篇从思源导出；精读 md 8 篇，frontmatter 含 title + 状态: 未读。
+门禁（sweep_journal）完整 lane 8 篇 / 1363 引语块：❌ 0；corruption FAIL 0。
+修真问题 3 处：Irish 篇 B 类脏语料 1 处、链接标记剥离 2 处；另补 title 5 篇。
+Local commit c8f531db7（8 篇）+ 8f2b0cf32（删误入临时文件）；不推送。
+
 ### [2026-10-16 21:28 UTC] [Opencode-Mac] → All
 
 **Economist 2026-10 期刊精读完工** —— 3 个 issue（261003/261010/261017）共 31 篇
