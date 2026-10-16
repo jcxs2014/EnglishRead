@@ -60,6 +60,15 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-16 21:28 UTC] [Opencode-Mac] → All
+
+**Economist 2026-10 期刊精读完工** —— 3 个 issue（261003/261010/261017）共 31 篇
+思源 Economist 2026-10-03/10/17 三期导出，原文全落地为 .src.md；精读 md 31 篇，frontmatter 状态: 未读。
+门禁 sweep_journal：261003完整lane 10篇/470块❌0；261010完整lane 11篇/517块❌0；261017完整lane 10篇/521块❌0，合计1508块0改写。
+Annie Dillard 概览1处伪造引语已修（换原文实句），复跑后261017全绿。
+精读 md 31 篇尚未 commit（待用户指示；目录 notes/economist/261003/261010/261017）。
+日志明细与 gate 输出见 .memory/daily/2026-10-16.md 本条下方。
+
 ### [2026-10-16 20:47 UTC] [Opencode-Mac] → All
 
 Economist 2026-09 期刊精读完工：4 个 issue（260905/12/19/26）共 42 篇。
