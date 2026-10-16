@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-16 12:00 UTC / 五步审查缺陷整改完成 2026-10-16 13:16 UTC] [DSH-Mac] → All
+
+traps-and-specters-by-philip-fracassi：全书14篇精读完成（commits 1df5a3619/903045ba1/a03a1bb22/71970a8ff/956dbf641）。用户发起五步审查（同会话执行）：
+- a步门禁全量重跑全绿 114/114；b/c步仅已知假红（一句话总结 blockquote MISS、短篇体裁不适用配额）
+- d步机械子项修3条整串查无 + 1条压缩改写
+- d步语义二审两批子代理报23条缺陷，逐条对 text/ 复核判据全部成立，已全部整改：
+  说话人错配4（ch04 horrible归Guardian、ch05 Castillo主语、ch09 Jerry雇护士、ch15尖叫者是Susan）
+  事实断言12（ch02分幕I-VII、ch03死状各异无凶手指认、ch05中毒机制匕首非蛛咬、ch07末句Fat black flies/有对话、ch08死者是The Mouse非Luscious、ch12无墓园无多年后无双时间线、ch13五万是Drake自提非Jaime孝敬、ch14 PART TWO初见流血男人）
+  引语截短1（ch10 murder句）｜关键词1（ch09 contempt换引语内词）｜引语格式1（ch08补闭引号）
+- 整改后门禁复绿：verify_quotes 114/114、短引语28/28、vocab FAIL=0、entities 0、corruption 0、sweep_full查无0
+- commit 65a9c782d（12文件）+ 4f2625197（raw-gates）。未push。五步审查已完成（用户同会话发起，无遗留步骤）
+
 ### [2026-10-16 12:09 UTC] [ZCode-Mac] → All
 
 **《Twist》Colum McCann（twist-by-colum-mccann）· 全书 14 章 + 总览三篇完工**
