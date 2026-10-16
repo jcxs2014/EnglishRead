@@ -18,7 +18,7 @@ modified: "2026-10-15"
 
 "我说，是啊，但那不在我的地盘里。我的地盘是个只有男孩的战场。"
 
-**关键词**：not in my landscape / boy-only combat zone
+**关键词**：wasn't in my landscape / boy-only combat zone
 
 **为什么这样写**："landscape"（风景/地盘）与 "combat zone"（战区）都是 Frank 从父亲与航海书里借来的词，用在一个十一岁男孩的玩具世界上一半像玩笑、一半是实话：他确实只能靠"性别隔离"来理解亲近。这句也是对上一章"两个世界粘不到一起"的回应——他选定了哪一边，代价在四十行之后到来。
 

@@ -7,10 +7,10 @@ modified: "2026-10-15"
 
 ## 本章导航
 
-- **一句话概括**：Mum 离开后的日子里，Frank 照顾弟妹、与 Grandma 相处，在学校写了一篇关于"渔夫父亲"的作文，又目睹 Perry 与 Grandma 关于父亲"Malc"的争吵——"in debt"的阴影继续笼罩。
+- **一句话概括**：Mum 离开后的日子里，Frank 照顾弟妹、与 Grandma 相处，在学校写了一篇关于"渔夫父亲"的作文，又目睹 Perry 与 Grandma 关于父亲"Malc"的争吵——"in debt"（见第 3 章）的阴影继续笼罩。
 - **情感弧线位置**：从"被抛弃的孤独"转向"对父亲的重新想象"——Frank 在学校编造了一个"渔夫父亲"的形象，这是他对真实父亲的逃避。
 - **人物弧线**：Frank 的"小大人"角色继续强化——他照顾弟妹、记录问题、试图理解成人世界，但内心仍然是一个渴望母亲的孩子。
-- **叙事手法**：以"Mum 离开后的日子"为框架，通过 Frank 的观察展开多个场景（厨房、学校、客厅），用儿童视角的感官细节（"speared my nostrils"、"sun-creased eyes"）与成人世界的秘密（"special doctors"、"in debt"）形成张力。
+- **叙事手法**：以"Mum 离开后的日子"为框架，通过 Frank 的观察展开多个场景（厨房、学校、客厅），用儿童视角的感官细节（"speared my nostrils"、"sun-creased eyes"）与成人世界的秘密（"special doctors"、"in debt"，见第 3 章）形成张力。
 
 ## 精读
 
@@ -28,7 +28,7 @@ modified: "2026-10-15"
 
 "Perry 选择相信他。"
 
-**关键词**：benefit / doubt / injustice
+**关键词**：benefit of the doubt / gave him
 
 **为什么这样写**："benefit of the doubt"（怀疑的益处）是法律术语，用来形容 Perry 对 Jake 的偏袒。"doubt"（怀疑）暗示 Perry 知道 Jake 可能在说谎，但她选择相信他。这句话揭示了 Perry 的偏袒——她总是站在自己孩子一边。
 

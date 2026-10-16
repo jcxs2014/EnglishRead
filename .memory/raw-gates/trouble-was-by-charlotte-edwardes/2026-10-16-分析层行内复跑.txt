@@ -1,0 +1,17 @@
+=== 分析层行内英文逐字核查（trouble-was-by-charlotte-edwardes）===
+  参照集：text/（37 个提取件） + epub 交叉验证 ；扫 40 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：1333 个表格行、1277 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 2332 ｜ ⚠️ 跨章 9 ｜ 🔶 拼接 2 ｜ 🟠 部分命中 2 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 1366
+  ⚠️  ch06 Chapter 6.md:10  「in debt」→ 实为 ch3,4,30
+  ⚠️  ch06 Chapter 6.md:13  「in debt」→ 实为 ch3,4,30
+  ⚠️  ch21 Chapter 21.md:115  「a bit on the side」→ 实为 ch20,25
+  ⚠️  ch29 Chapter 29.md:43  「Dad came fully realised to my mind」→ 实为 ch20
+  ⚠️  ch29 Chapter 29.md:105  「Best boy ever」→ 实为 ch1
+  ⚠️  ch30 Chapter 30.md:63  「Do you really think it is wise」→ 实为 ch18
+  ⚠️  ch33 Chapter 33.md:153  「I knew it」→ 实为 ch19,20,22,31
+  ⚠️  ch34 Chapter 34.md:25  「It occurred to me」→ 实为 ch2,29,31,32
+  ⚠️  ch36 Chapter 36.md:113  「Best boy ever」→ 实为 ch1
+  🔶 ch34 Chapter 34.md:143  「I could... detach a part of my mind」→ 分段命中
+  🔶 ch36 Chapter 36.md:105  「Finally, I conjure Grandpa... Everything about him is de」→ 分段命中
+  🟠 ch06 Chapter 6.md:136  「be descended from」→ 内容词 1/1 命中（descended）——疑漏词或改写
+  🟠 ch12 Chapter 12.md:120  「be supposed to」→ 内容词 1/1 命中（supposed）——疑漏词或改写

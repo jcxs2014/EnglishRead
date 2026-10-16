@@ -38,7 +38,7 @@ modified: "2026-10-15"
 
 "你妈是精神病患者。你们全家都是疯子。疯子，疯子。"
 
-**关键词**：mental patient / mad / repetition
+**关键词**：mental patient / mad / Mad, mad
 
 **为什么这样写**："mental patient"（精神病患者）是 Crispin 对 Mum 的侮辱——他知道 Mum 的抑郁，并用它来攻击 Frank。"Mad, mad"（疯子，疯子）的重复是 Crispin 的武器——他用重复来强化侮辱。
 

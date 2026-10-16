@@ -60,7 +60,7 @@ modified: "2026-10-15"
 
 **关键词**：Remember, then / words will never hurt me
 
-**为什么这样写**：这是那句老话的后半截——完整的说法是"sticks and stones may break my bones, but words will never hurt me"。作者只让 Miss Clarke 说出后半句，前半句"棍棒打断骨头"被留在沉默里，而这半句恰恰是全章最大的反讽：本章里伤人的全是言语。
+**为什么这样写**：作者把一句老话拆成两半，分两次让 Miss Clarke 说出口：先在更衣室问 "Remember sticks and stones?"，隔了一场戏才补上 "Remember, then: words will never hurt me."。中间隔着的是她给出的另一套办法——"打回去"。这半句恰恰是全章最大的反讽：本章里伤人的全是言语。
 
 **读者视角提示**：她把 Frank 咬指甲的手从嘴边拿开才说这句；读者应留意这个动作本身比那句格言更接近安慰。
 

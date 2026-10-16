@@ -10,7 +10,7 @@ modified: "2026-10-15"
 - **一句话概括**：学校里 Miss Clarke 注意到 Frank 的疲惫，追问 Mum 的下落，Frank 用"measles"和"she'd had to go away for a while"搪塞；他偷听到 Grandma 用"Capricious"形容 Mum，Perry 反问"你会用什么词形容 Malc？"；Steven Harrison 因 Frank 与老师亲近而心生嫉妒。
 - **情感弧线位置**：从"被关注的温暖"转向"被孤立的怨恨"——Miss Clarke 的善意让 Frank 感到温暖，但 Steven Harrison 的嫉妒让他意识到自己与同龄人的隔阂。
 - **人物弧线**：Frank 的"保护者"角色延伸到学校——他保护 Mum 的形象（"不想让 Miss Clarke 觉得 Mum 不好"），同时承受着同龄人的排斥。
-- **叙事手法**：以"课堂对话"为框架，通过"偷听 Grandma 与 Perry 的对话"插入家庭内部的权力斗争，用儿童视角的感官细节（"musk scent"、"fine black hairs"）与成人世界的复杂形成对比。
+- **叙事手法**：以"课堂对话"为框架，通过"偷听 Grandma 与 Perry 的对话"插入家庭内部的权力斗争，用儿童视角的感官细节（"musky scent"、"fine black hairs"）与成人世界的复杂形成对比。
 
 ## 精读
 

@@ -80,7 +80,7 @@ modified: "2026-10-15"
 
 **关键词**：the cabinet and under-the-sink doors clapping / clutching assorted bottles / to her stomach / towards her own room
 
-**为什么这样写**：全章最冷的一个动作——祖母没有安慰、没有叫医生，而是把药全部收走。孩子看不懂那是什么（"various bottles"），但看得懂那个抱在肚子上的姿势：那是在把控制权搬走。
+**为什么这样写**：全章最冷的一个动作——祖母没有安慰、没有叫医生，而是把药全部收走。孩子看不懂那是什么（"assorted bottles"），但看得懂那个抱在肚子上的姿势：那是在把控制权搬走。
 
 **读者视角提示**：下一句是 Frank 的身体反应（"A watery run loosened in my insides"）；读者可留意这是全章唯一一次直接写恐惧的生理症状。
 
@@ -102,7 +102,7 @@ modified: "2026-10-15"
 
 **为什么这样写**：这是全书母亲最有力的一次发声——三个"Give him to me"加一句"他是我的孩子"。一个整章卧床的人突然为母职而战，而她的对手是自己的母亲和妹妹。句子里那句"God damn it"的粗粝，正是她此刻唯一可用的语气。
 
-**读者视角提示**：她此前还喊过"This is not my fault. Someone else went in there. Jake did it."；读者应留意这两段话之间的矛盾，以及 Frank 后来在夜里反复琢磨的那个问题。
+**读者视角提示**：她此前还喊过"This is not my fault. Someone else went in there. Jake. Jake did it."；读者应留意这两段话之间的矛盾，以及 Frank 后来在夜里反复琢磨的那个问题。
 
 > **原句 10:** What happened? he said, where did they go? He had an Action Man in his hand, naked to the waist. And why is there blood down the stairs?
 

@@ -20,7 +20,7 @@ modified: "2026-10-15"
 
 **关键词**：lukewarm baths / Mum sitting / reading / washed her feet
 
-**为什么这样写**：洗澡的场面被倒过来写：母亲"sat on a chair reading"（坐在椅子上读书），孩子反过来"washed her feet"（给她洗脚）。照护的方向颠倒，既是这一章短暂的亲密，也是 Frank"小大人"角色的又一次确认——而读的是《The Phoenix and the Carpet》（凤凰与地毯），一本关于孩子自己许愿的书，恰好衬出这个家没有大人可以许愿。
+**为什么这样写**：洗澡的场面被倒过来写：母亲"sitting on a chair reading"（坐在椅子上读书），孩子反过来"washed her feet"（给她洗脚）。照护的方向颠倒，既是这一章短暂的亲密，也是 Frank"小大人"角色的又一次确认——而读的是《The Phoenix and the Carpet》（凤凰与地毯），一本关于孩子自己许愿的书，恰好衬出这个家没有大人可以许愿。
 
 **读者视角提示**：读者从第一句就看见这个家的分工：母亲在故事里，孩子在干活。这份温馨是真实的，但它由孩子的劳动换来。
 

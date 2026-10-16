@@ -70,7 +70,7 @@ modified: "2026-10-15"
 
 **关键词**：A dam burst in my veins / obliterating ecstasy
 
-**为什么这样写**：吃糖被写成一场**决堤**——不是"好吃"，而是"炸开""抹掉一切"。"obliterating"（抹除）是关键词：糖在这里的功能是**把意识关掉**，与他"爬进声音里"、与"拆出一部分脑子"是同一套自我麻醉技术，只是这次用的是食物。而作者选"ecstasy"（狂喜）而非"pleasure"，暗示这种快感有宗教式的、失控的强度——他自己也说"couldn't tell if I was swallowing the feeling or if it was swallowing me"。
+**为什么这样写**：吃糖被写成一场**决堤**——不是"好吃"，而是"炸开""抹掉一切"。"obliterating"（抹除）在这里是关键：糖在这里的功能是**把意识关掉**，与他"爬进声音里"、与"拆出一部分脑子"是同一套自我麻醉技术，只是这次用的是食物。而作者选"ecstasy"（狂喜）而不选 pleasure（快感），暗示这种快感有宗教式的、失控的强度——他自己也说"couldn't tell if I was swallowing the feeling or if it was swallowing me"。
 
 **读者视角提示**：注意这一整段的动词密度——tearing, pouring, pressing, working, aching——作者用几乎没有停顿的现在分词长句复刻了**咀嚼的速度**。而这一切的来源只是偷来的糖。读者由此看到：他真正渴望的不是甜味，是**能占据全部注意力的东西**。
 

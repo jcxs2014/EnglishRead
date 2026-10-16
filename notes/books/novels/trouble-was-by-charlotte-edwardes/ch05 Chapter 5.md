@@ -18,7 +18,7 @@ modified: "2026-10-15"
 
 "Frank，我以为你是我那个长大了的男孩？"
 
-**关键词**：grown-up boy / thought / irony
+**关键词**：grown-up boy / thought you were
 
 **为什么这样写**："grown-up boy"（长大了的男孩）是 Mum 对 Frank 的称呼——她需要他成为"大人"，但这句话本身是反讽的。"thought"（以为）暗示 Mum 对 Frank 的期待正在动摇，她开始意识到他仍然是个孩子。
 
@@ -38,9 +38,9 @@ modified: "2026-10-15"
 
 "奶奶最糟糕的地方是，'不要告状'。"
 
-**关键词**：worst / tell tales / family rule
+**关键词**：worst / Don't tell tales
 
-**为什么这样写**："Don't tell tales"（不要告状）是 Grandma 的家规——它禁止孩子说出真相。"worst"（最糟糕的）是 Frank 的评判，说明他意识到这条规则是压迫性的。"tell tales"（告状）与"tell the truth"（说实话）的混淆是家庭暴力的核心机制。
+**为什么这样写**："Don't tell tales"（不要告状）是 Grandma 的家规——它禁止孩子说出真相。"worst"（最糟糕的）是 Frank 的评判，说明他意识到这条规则是压迫性的。"tell tales"（告状）被禁，等于把"说出真相"也一并禁掉——这是这个家暴力的核心机制。
 
 **读者视角提示**：Frank 在很小的时候就学会了"沉默"——这个规则将影响他一生对真相的态度。
 

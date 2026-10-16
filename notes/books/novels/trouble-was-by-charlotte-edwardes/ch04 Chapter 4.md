@@ -10,7 +10,7 @@ modified: "2026-10-15"
 - **一句话概括**：Mum 的抑郁在 Peridot 家持续，直到天气转好才重新开始画画；Frank 偷听到 Mum 向医生乞求帮助而被拒，又在 Perry 的生日派对上目睹 Mum 被农村社交圈包围，最后从表兄弟的嘲弄中再次听到"in debt"。
 - **情感弧线位置**：从"疾病与绝望"转向"短暂的复苏与新的焦虑"——Mum 的病情好转带来虚假的正常感，但"in debt"的阴影始终未散。
 - **人物弧线**：Frank 的"小大人"角色被进一步强化——他偷听 Mum 的电话、替 Mum 撒谎、在派对上端盘子，他不再是孩子，而是这个家的"同谋"。
-- **叙事手法**：以"Mum 的病情"为主线，穿插 Frank 的偷听、派对场景与表兄弟的嘲弄，用儿童视角的感官细节（"yellowed pallor"、"loopier and loopier"）与成人世界的暴力（"heads blown off"）形成张力。
+- **叙事手法**：以"Mum 的病情"为主线，穿插 Frank 的偷听、派对场景与表兄弟的嘲弄，用儿童视角的感官细节（"Her pallor was yellowed"、"loopier and loopier"）与成人世界的暴力（"heads blown off"）形成张力。
 
 ## 精读
 
@@ -28,7 +28,7 @@ modified: "2026-10-15"
 
 "Odette 开始尿床。"
 
-**关键词**：wetting the bed / regression
+**关键词**：Odette started / wetting the bed
 
 **为什么这样写**：短句独立成段——"wetting the bed"（尿床）是儿童退行的典型症状。这句话没有解释原因，只是陈述事实，但读者能感受到这个家的压力：Odette 用身体症状表达无法言说的焦虑。
 
@@ -98,7 +98,7 @@ modified: "2026-10-15"
 
 "'负债'，Jake 嘲笑道。‘负债'。"
 
-**关键词**：taunted / In Debt / repetition
+**关键词**：In Debt / Jake taunted
 
 **为什么这样写**："In Debt"（负债）这个词在书中反复出现，每次出现都让 Frank 更困惑。"taunted"（嘲弄）说明 Jake 知道这个词的含义，而 Frank 不知道。重复的"In Debt"（负债）是 Jake 的武器——他用这个词来标记 Frank 一家的"外来者"身份。
 

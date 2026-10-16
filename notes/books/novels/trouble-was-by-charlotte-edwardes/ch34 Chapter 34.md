@@ -22,7 +22,7 @@ modified: "2026-10-15"
 
 **为什么这样写**：整章的第一句是一个**词汇事件**——不是"她在哀求"，而是"跳进我脑子里的是这个词"。作者把 Frank 的叙述习惯直接摆在开篇：他遇到情感冲击时，第一反应是**找一个词**。这既是他的自我保护（用词代替感受），也是本书叙述者最可靠的能力（他记词比记事准）。而"beseeching"这个词选得极准：它有宗教意味，正好接住下一句"像图画书里的儿童圣徒"。
 
-**读者视角提示**：注意 Frank 说的是"跳进我的脑子"（came into my head），不是"我想到了"——这个词像是从外面来的，不受他控制。全书里他所有重要的领悟都用这种语法（"It occurred to me"、"The word that came into my head"），读者可由此知道：**他并不主动理解世界，他只是接收那些自己冒出来的词**。
+**读者视角提示**：注意 Frank 说的是"跳进我的脑子"（came into my head），不是"我想到了"——这个词像是从外面来的，不受他控制。全书里他所有重要的领悟都用这种语法（如 ch02、ch29、ch31、ch32 的 "It occurred to me"，及本章的 "The word that came into my head"），读者可由此知道：**他并不主动理解世界，他只是接收那些自己冒出来的词**。
 
 > **原句 2:** She looked like one of those child saints in school picture books, but not quite because there was nothing saint-like about Odette.
 

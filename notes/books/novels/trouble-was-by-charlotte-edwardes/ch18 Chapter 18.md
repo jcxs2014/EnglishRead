@@ -58,7 +58,7 @@ modified: "2026-10-15"
 
 "当我看到她带来了泥泞的 Land Rover 时，我感到同样的羞辱，就像我在门口看到他们时感到的一样。为什么她没有带她送我们来时用的那辆好车？"
 
-**关键词**：saw / brought / muddy Land Rover / felt / same douse of humiliation / felt / seen them / gate / Why hadn't she brought / proper car / dropped us off in
+**关键词**：muddy Land Rover / same douse of humiliation / saw them at the gate / proper car
 
 **为什么这样写**：阶级羞耻在这里由一件物品承担：一辆沾着农场泥的 Land Rover 停在校门口，而孩子清楚它不该出现在这儿。“the same douse”（同样的一泼）用液体的比喻来写一次反复发生的社交浇淋，说明这不是第一次，也不会是最后一次。紧接着的自问“Why hadn't she brought the proper car”（她为什么不开那辆像样的车）表明 Frank 已经内化了表兄弟们那套等级，并开始用它来审判自己的家人。
 
