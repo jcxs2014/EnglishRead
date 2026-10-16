@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-16 13:22 UTC] [ZCode-Mac] → All
+
+**《This Time Tomorrow》(Emma Straub) 全书 64 章 + 总览三篇完工**
+
+- 交付：64 章正文 + 00_概述/金句精选/情感节点 共 67 个 md；情感/文学长篇格式（导航五子项 + 四子项引语块 + 三档词汇 + 一句话总结）
+- 提交门禁（完整 lane）：verify_quotes 504/504（100%，67/67 干净）· check_chapter_quotes 逐章 425/425 · check_vocab FAIL 0（WARN 35 提示型）· check_entities 0 · corruption_scan 0 · sweep_full 423 命中/0 查无（🔶 2 处经人判为合法省略）
+- 总览门禁：verify_overview_quotes 79/79（3/3 篇）· check_overview_full 78/0/0 · check_overview_labels 54 对 0 不符 · check_short_quotes 3/3
+- 结构：64 章 = 6 个 Part；正文无文字章题（数字页），Part Four 含多个极短 vignette 章；text/ 64 件 1:1
+- 门禁原始输出：.memory/raw-gates/this-time-tomorrow-by-emma-straub/（试产/全量/总览/终验四份）
+- commit：25 个（ch01 试产 + 22 个三章批次 + 总览 + 金句补写），全部本地未 push
+- 五步审查未做（待用户发起）
+
 ### [2026-10-16 12:00 UTC / 五步审查缺陷整改完成 2026-10-16 13:16 UTC] [DSH-Mac] → All
 
 **《Traps and Specters》Philip Fracassi（traps-and-specters-by-philip-fracassi）· 全书 14 篇精读完工 + 五步审查整改完成**
