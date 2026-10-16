@@ -129,7 +129,7 @@ modified: "2026-10-16"
 
 **句子结构**：祈使 `We need you to do it now` + 省略短句 `Before it's too late`；`it` 指代"补救/祝福的时机"。两句话在原文里紧接、中间无叙述标签。
 
-**关键词**：`Before it's too late`（趁还来得及）——Richard 悬在嘴边的最后通牒，呼应他整篇反复恳求的 `bless this house`。
+**关键词**：`Before it's too late`（趁还来得及）——Richard 悬在嘴边的最后通牒；与全篇反复恳求的 bless this house 呼应（该短语见原句 8 上下文，非本块引语）。
 
 **表达方式**：Richard 把"驱魔"的期限压到"现在"。表面是虔诚求救的加急，实则是要神父以"祝福者"身份死在这里，使屋子"正式"封印血咒——迟一刻，仪式便不"完整"。
 

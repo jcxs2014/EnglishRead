@@ -17,7 +17,7 @@ modified: "2026-10-16"
 
 **句子结构**：简单句，主语 `Cesar` + 谓语 `dipped` + 宾语 `the arrow's tip` + 介词短语 `into the poison`；开篇即一个仪式化的动作。
 
-**关键词**：`dipped... into the poison`（浸入毒中）——全书守护仪式的缩影：用毒维护王陵。
+**关键词**：`dipped the arrow's tip into the poison`（把箭尖浸入毒中）——全书守护仪式的缩影：用毒维护王陵。
 
 **表达方式**：单句白描一个机械动作，不带情绪，像工匠开工；读者立刻被放进一座以"毒"为日常的世界。
 
