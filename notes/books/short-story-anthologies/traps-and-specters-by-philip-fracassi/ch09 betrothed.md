@@ -76,7 +76,7 @@ text: text/ch09_betrothed.txt
 
 > **原句 6:** God help me. I’m in love.
 
-**中文理解：** 丧偶后，年迈的 Dietrich 雇来年轻爱尔兰护士 Rose，竟在病中不可救药地坠入爱河，喃喃「上帝救我，我恋爱了」。老年欲望的荒诞与真诚并存。
+**中文理解：** 丧偶后，儿子 Jerry 为年迈的 Dietrich 雇来年轻爱尔兰护士 Rose（住家护理），Dietrich 竟在病中不可救药地坠入爱河，喃喃「上帝救我，我恋爱了」。老年欲望的荒诞与真诚并存。
 
 **句子结构：** 祈使/感叹 `God help me.`（呼告）+ `I’m in love.` 主系表断言，两句皆短，前者求救、后者坦白，节奏像叹息。
 
@@ -92,9 +92,9 @@ text: text/ch09_betrothed.txt
 
 **句子结构：** 长直接引语内嵌 `where you and Eleanor are to be buried` 定语从句；连续两个反问 `Why should...?` / `Why not...?` 制造逼问节奏；`I’m your wife now, not her` 判断句收狠；末以 `Don’t you see?` 反问 + `It’s not fair` 断言。
 
-**关键词：** to be buried（将被安葬）/ in the middle of nowhere（在偏僻荒凉处）/ not fair（不公平）/ contempt（蔑视；文中 the ugly downward twist 呼应）。
+**关键词：** to be buried（将被安葬）/ in the middle of nowhere（在偏僻荒凉处）/ not fair（不公平）/ I'm your wife now（我现在才是你妻子）。
 
-**表达方式：** 用一连串反问把「退坟」包装成「理所当然的公平诉求」，Rose 的年轻与刻薄通过语势倾泻而出。读者在此站队丈夫的窘迫。
+**表达方式：** 用一连串反问把「退坟」包装成「理所当然的公平诉求」，Rose 的年轻与刻薄通过语势倾泻而出；叙述补笔写她说 "not her" 时带着 "such contempt"（那样一种蔑视）、嘴角 "the ugly downward twist" 向下撇——蔑视不进引语，而落在叙述的微表情里。读者在此站队丈夫的窘迫。
 
 **为什么这样写：** 这是情节枢纽——Rose 的逼宫直接促成 Dietrich 退掉与 Eleanor 的合葬穴，从而「唤醒」了亡妻的怨念。占有欲成了灵异事件的触发器。
 

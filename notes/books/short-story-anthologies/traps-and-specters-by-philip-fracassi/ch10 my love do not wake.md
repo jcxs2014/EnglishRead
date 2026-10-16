@@ -134,9 +134,9 @@ modified: "2026-10-16"
 > **原句 9:**
 > "I feel suddenly overwhelmed with guilt—a deep, bottomless sorrow of regret for what I did to dear Henry."
 
-**中文理解**：她突然被愧疚淹没——一种对“我对亲爱的 Henry 所做之事”的深不见底的悔恨。这里明确承认：她伤害／杀死了 Henry。
+**中文理解**：她突然被愧疚淹没——一种对“我对亲爱的 Henry 所做之事”的深不见底的悔恨。紧接着的下一句她才把话挑明："How awful that it came to murder, for that's what it was."（竟落到谋杀这一步——事实就是如此。）
 
-**句子结构**：feel overwhelmed with guilt ＋ 破折号同位语 a deep, bottomless sorrow of regret ＋ for what I did to dear Henry 定语，情感层层加码。
+**句子结构**：feel suddenly overwhelmed with guilt ＋ 破折号同位语 a deep, bottomless sorrow of regret ＋ for what I did to dear Henry 定语，情感层层加码。
 
 **关键词**：overwhelmed with guilt（被愧疚淹没）；bottomless sorrow（无底的悲伤）；what I did to dear Henry（我对亲爱的 Henry 做的事）。
 
@@ -191,4 +191,4 @@ modified: "2026-10-16"
 
 ## 叙事结构注解
 
-第一人称回忆录式叙述，以“最热的一周”起病态爱意，中段用婚誓、衣物气味、停车票等细节慢慢暴露 Martin 与 Henry 的同一性（Martin 从不出门、发福、像在对“不在场的人”说话），结尾以头皮开裂的身体恐怖收束。全文最大技巧是**叙述者的不可靠**——她用甜腻情爱语言描述一场寄生式诞生，读者须倒读才懂“widow”“what I did to dear Henry”的真意。暑热作为贯穿意象，既是背景也是催化“头部分裂”的生理条件。
+第一人称回忆录式叙述，以“最热的一周”起病态爱意，中段用婚誓、鞋底的泥、火柴册、停车票等细节慢慢暴露 Martin 与 Henry 的同一性（Martin 从不出门、发福、像在对“不在场的人”说话），结尾以头皮开裂的身体恐怖收束。全文最大技巧是**叙述者的不可靠**——她用甜腻情爱语言描述一场寄生式诞生，读者须倒读才懂“widow”“what I did to dear Henry”的真意。暑热作为贯穿意象，既是背景也是催化“头部分裂”的生理条件。

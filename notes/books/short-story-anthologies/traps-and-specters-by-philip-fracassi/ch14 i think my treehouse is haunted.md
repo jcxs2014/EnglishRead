@@ -222,7 +222,7 @@ modified: "2026-10-16"
 ## 叙事结构注解
 
 - **第一人称「发帖/日记」体**：全篇是男孩对着想象读者敲键盘的自白（`I'm writing this`、`As I type this`），开头即抛结论（树屋闹鬼），悬念不在「有没有鬼」而在「他会不会被拖进去」，与 Fracassi 擅用的「孩童受限视角」一致。
-- **五段式回环**：PART ONE 树屋 → PART TWO 初见女孩 → PART THREE sleepover 得知惨案 → PART FOUR 中介矛盾指令 → PART FIVE 最后一夜女孩首次「对视」。中段用邻居妈妈的闲谈把灵异坐实为真实罪案，后段用中介前后矛盾的电话把「超度」扭转为「入局」。
+- **五段式回环**：PART ONE 树屋（女孩初现）→ PART TWO 初见流血男人（THE BLEEDING MAN）→ PART THREE sleepover 得知惨案 → PART FOUR 中介矛盾指令 → PART FIVE 最后一夜女孩首次「对视」。中段用邻居妈妈的闲谈把灵异坐实为真实罪案，后段用中介前后矛盾的电话把「超度」扭转为「入局」。
 - **蜘蛛喻的闭环**：男孩早于正式目击就回忆「流血男人像巨蛛爬向女孩」，正式场景再回收 `like a spider who'd caught a fly… moving in to feast`，证明他看的不是随机幻象，而是同一桩谋杀的反复 replay——也呼应书名 *Traps*（陷阱）。
 - **「回放」与「现实」的边界瓦解**：女孩长期只重播、不 Interaction（"She'd been reset"、像唱片跳针），直到结尾突然 `looking straight at me`，闭环被打破，暗示叙事者已从「观众」变成「下一个角色」——开放式恐怖收尾。
 - **标题的反讽**：`I Think My Treehouse is Haunted` 用弱断言 `I think` 伪装成孩童疑神疑鬼，实则是全文最精确的事实陈述；所谓「闹鬼」底下是一桩未被记住、却仍在招募新受害者的真实谋杀。

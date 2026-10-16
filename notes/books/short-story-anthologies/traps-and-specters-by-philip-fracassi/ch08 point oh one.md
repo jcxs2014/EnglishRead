@@ -28,7 +28,7 @@ text: text/ch08_point_oh_one.txt
 
 > **原句 2:** His last meal, Charlie thought.
 
-**中文理解：** Charlie 看着那个满身酱汁、即将走向自己预订的死亡（被他用车撞死）的胖子 Luscious，心想：这是他的最后一餐。叙述者以冷静的幸灾乐祸点出谋杀即将发生。
+**中文理解：** Charlie 看着那个满身酱汁、从餐馆走出的胖子 Luscious（与瘦子 The Mouse 同车出来），心想：这是他的最后一餐——车真正要撞死的是随后出来的 The Mouse，Luscious 会在撞击前一瞬躲开。叙述者以冷静的幸灾乐祸点出谋杀即将发生。
 
 **句子结构：** 名词短语 `His last meal` 作 thought 的宾语，`Charlie thought` 主谓插入，全句无动词谓语（片段式），靠名词的断言制造冷酷的确定性。
 
@@ -86,7 +86,7 @@ text: text/ch08_point_oh_one.txt
 
 **为什么这样写：** 这是全篇题眼概念的落地。后文所有倒计时标题（REMAINING）、Charlie 的绝望都建立在这项「绝对准确」的技术上，而结尾的 0.01% 误差正是对它的颠覆。
 
-> **原句 7:** “There’s nothing you can do to prolong your timeline,” Dr. Lang said, then met Charlie’s eyes. “But there’s plenty you can do to shorten it.
+> **原句 7:** “There’s nothing you can do to prolong your timeline,” Dr. Lang said, then met Charlie’s eyes. “But there’s plenty you can do to shorten it.”
 
 **中文理解：** 医生 Lang 告诉 Charlie：你没法延长寿命，但有无数办法缩短它——别因为被测出死期就去酗酒抽烟作死。冷酷又务实的医嘱。
 
