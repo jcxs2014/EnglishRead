@@ -20,9 +20,9 @@ modified: "2026-10-15"
 
 **关键词**：lukewarm baths / Mum sitting / reading / washed her feet
 
-**为什么这样写**："lukewarm baths"（温水洗澡）是精确的——Frank 用"温水"来描述洗澡。"washed her feet"（给她洗脚）是精确的——Frank 用"洗脚"来描述自己的行为。
+**为什么这样写**：洗澡的场面被倒过来写：母亲"sat on a chair reading"（坐在椅子上读书），孩子反过来"washed her feet"（给她洗脚）。照护的方向颠倒，既是这一章短暂的亲密，也是 Frank"小大人"角色的又一次确认——而读的是《The Phoenix and the Carpet》（凤凰与地毯），一本关于孩子自己许愿的书，恰好衬出这个家没有大人可以许愿。
 
-**读者视角提示**：Frank 的"温水"是儿童视角的精确——他通过"温水"来理解洗澡。
+**读者视角提示**：读者从第一句就看见这个家的分工：母亲在故事里，孩子在干活。这份温馨是真实的，但它由孩子的劳动换来。
 
 > **原句 2:** Dirt filled the tiny lines of the tough skin on her soles, but she didn't like to wear shoes, she said, because she'd grown up in a hot country where you never had to.
 
@@ -30,9 +30,9 @@ modified: "2026-10-15"
 
 **关键词**：Dirt / tiny lines / tough skin / soles / didn't like to wear shoes / hot country / never had to
 
-**为什么这样写**："Dirt filled the tiny lines"（污垢填满了细小纹路）是精确的——Frank 用"污垢"和"纹路"来描述 Mum 的脚。"a hot country where you never had to"（一个炎热的国家，在那里你从来不必）是精确的——Frank 用"炎热"和"不必"来描述 Mum 的"国家"。
+**为什么这样写**："Dirt filled the tiny lines of the tough skin on her soles"（污垢填满她脚底粗皮的细纹）是极近的观察，只有握着母亲脚的人才会看到这些纹路——叙述距离在这里等于身体距离。紧接着母亲用"a hot country where you never had to"（一个从不必要穿鞋的炎热国家）解释自己为什么不穿鞋，把不穿鞋这件事改写成一段异国童年。
 
-**读者视角提示**：Frank 的"污垢"是儿童视角的精确——他通过"污垢"来理解 Mum 的脚。
+**读者视角提示**：读者同时接收到两个版本：孩子眼里母亲的脚是粗糙的，母亲嘴里它是被热带豁免的。这个家习惯把缺口说成选择。
 
 > **原句 3:** Ayah would be all in white, all the ayahs wore white robes and had bangles here – she pinched her upper arm.
 
@@ -40,9 +40,9 @@ modified: "2026-10-15"
 
 **关键词**：Ayah / all in white / ayahs / white robes / bangles / pinched / upper arm
 
-**为什么这样写**："Ayah would be all in white"（Ayah 会全身穿白）是精确的——Mum 用"全身穿白"来描述 ayah 的"服装"。"bangles here"（手镯在这里）是精确的——Mum 用"这里"来描述 ayah 的"手镯"。
+**为什么这样写**："Ayah"（保姆）"all in white"（全身穿白）"bangles here"（手镯戴在这里）——这段回忆由视觉和触觉组成，母亲一边说一边"pinched her upper arm"（捏了捏上臂）演示戴手镯的位置，故事是表演出来的。对一个从未见过那个国家的孩子来说，这些细节是母亲的过去唯一可触摸的部分。
 
-**读者视角提示**：Mum 的"全身穿白"是成人世界的精确——她通过"全身穿白"来描述 ayah 的"服装"。
+**读者视角提示**：读者会注意母亲讲的不是情节而是穿戴：一个孩子的异国童年，最后只剩下衣服和首饰可以被复述。
 
 > **原句 4:** Crispin says their dad is going to take them to the beach, Odette interrupted.
 
@@ -50,9 +50,9 @@ modified: "2026-10-15"
 
 **关键词**：Crispin / their dad / take them to the beach / Odette interrupted
 
-**为什么这样写**："their dad is going to take them to the beach"（他们的爸爸要带他们去海滩）是精确的——Odette 用"带他们去海滩"来描述"爸爸"的行为。"Odette interrupted"（Odette 打断说）是精确的——Frank 用"打断"来描述 Odette 的行为。
+**为什么这样写**：Odette 的插话把母亲正在讲的故事拦腰截断——她转述的是 Crispin 兄弟被"their dad"（他们的爸爸）带去海滩的消息，一个"有爸爸在场"的证据。她本人不觉得这句话有什么分量，可它正好落在母亲讲不下去的地方：母亲刚在讲自己在炎热国家的童年，而这一句把话题从"过去"拉回"现在这个家里谁有爸爸"。
 
-**读者视角提示**：Odette 的"打断"是儿童视角的精确——她通过"打断"来描述自己的行为。
+**读者视角提示**：读者能感到这句话的杀伤力来自它的平淡：孩子只是重复他听到的消息，却正好戳中母亲无法回答的地方。
 
 > **原句 5:** Mum was quiet for a moment. Then she said, Well, he's probably feeling guilty.
 
@@ -60,9 +60,9 @@ modified: "2026-10-15"
 
 **关键词**：quiet / a moment / Then / probably / feeling guilty
 
-**为什么这样写**："quiet for a moment"（沉默了一会儿）是精确的——Mum 用"沉默"来描述自己的反应。"probably feeling guilty"（可能感到内疚）是精确的——Mum 用"内疚"来描述"爸爸"的感受。
+**为什么这样写**："quiet for a moment"（沉默了一会儿）是这段对话里一次明显的停顿。Odette 刚提到别人家的爸爸要带孩子去海滩，母亲沉默之后只说了一句："he's probably feeling guilty"（他大概觉得内疚）。她没有说清"他"是谁，也没有说为什么——"probably"（大概）把整句话降格成猜测。孩子们此前对父亲的了解只有"他常年在海上"，而这里他们第一次听到有人把"父亲"和内疚连在一起。
 
-**读者视角提示**：Mum 的"沉默"是成人世界的精确——她通过"沉默"来描述自己的反应。
+**读者视角提示**：读者看到母亲用一个轻描淡写的猜测，把一个她并不打算解释的问题挡了回去：她既不否认也不辩护，"内疚"两个字被说得像是随口一提。孩子们此前对父亲的了解只有"他常年在海上"，而这是第一次有人把那个空缺和道德责任连在一起。
 
 > **原句 6:** What for?
 
@@ -70,9 +70,9 @@ modified: "2026-10-15"
 
 **关键词**：What for
 
-**为什么这样写**："What for?"（为什么？）是精确的——Frank 用"为什么"来询问 Mum 的"内疚"。
+**为什么这样写**："What for?"（为什么？）是这串对话里最短的一句，紧接在 Mum 的"内疚"之后；原文没有标明是谁说的，直到下一句"Tell me! Odette demanded"（告诉我！Odette 要求道）才把追问推到台前。母亲正用故事把孩子们挡在外面，而这个只有两个词的反问直接顶向"内疚"这个成人概念——提问的人还不懂罪的机制，却已经察觉这里面有需要追究的东西。
 
-**读者视角提示**：Frank 的"为什么"是儿童视角的精确——他通过"为什么"来询问 Mum 的"内疚"。
+**读者视角提示**：读者会跟着追问一起碰壁：母亲给出的不是答案，而是一个动作和一句"别管了"。孩子从中学到的正是这一点——有些问题问出来也没有用。
 
 > **原句 7:** Mum picked up the sponge and squeezed it over Odette's head, Never you mind, missy.
 
@@ -80,9 +80,9 @@ modified: "2026-10-15"
 
 **关键词**：picked up / sponge / squeezed / Odette's head / Never you mind / missy
 
-**为什么这样写**："squeezed it over Odette's head"（在 Odette 头上挤了挤）是精确的——Mum 用"挤"来描述自己的行为。"Never you mind, missy."（别管了，小姐。）是精确的——Mum 用"别管"来回应 Odette 的"为什么"。
+**为什么这样写**："squeezed it over Odette's head"（把海绵在 Odette 头上挤水）是母亲对追问的回应——用一个小动作把问题浇灭，同时"Never you mind, missy."（别管了，小姐。）用昵称把命令说成玩笑。母亲既没有撒谎也没有回答，这是她处理孩子提问的标准方式。
 
-**读者视角提示**：Mum 的"挤"是成人世界的精确——她通过"挤"来描述自己的行为。
+**读者视角提示**：读者会注意母亲回避的手法很温柔：她没有生气，只是把话题连人一起按进水里。孩子学会的正是这种"别管了"。
 
 > **原句 8:** Tell me! Odette demanded and I stiffened, worried she'd put Mum in a mood.
 
@@ -90,438 +90,53 @@ modified: "2026-10-15"
 
 **关键词**：Tell me / Odette demanded / stiffened / worried / put Mum in a mood
 
-**为什么这样写**："Odette demanded"（Odette 要求道）是精确的——Frank 用"要求"来描述 Odette 的行为。"worried she'd put Mum in a mood"（担心她会惹 Mum 心情不好）是精确的——Frank 用"担心"来描述自己的感受。
+**为什么这样写**："Tell me!"（告诉我！）"Odette demanded"（Odette 要求道）是 Odette 少见的一次不退让，而 Frank 的反应不是帮她，是"stiffened"（僵住）——他担心的不是问题，是"she'd put Mum in a mood"（她会惹 Mum 心情不好）。孩子们已经学会把母亲的情绪当作需要管理的天气。
 
-**读者视角提示**：Frank 的"担心"是儿童视角的精确——他通过"担心"来描述自己的感受。
+**读者视角提示**：读者由此明白这个家的规矩：问题本身不是问题，让母亲不高兴才是。Frank 的紧张比 Odette 的追问更早地预告了后文——他保护母亲，也保护自己不被抛下。
 
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| lukewarm | 温的、微温的 | we had lukewarm baths |
-| The Phoenix and the Carpet | 《凤凰与地毯》（书名） | reading The Phoenix and the Carpet |
-| soles | 脚底、鞋底 | the tough skin on her soles |
-| Ayah | 保姆、女仆（印度语） | Ayah would be all in white |
-| ayahs | 保姆、女仆（复数） | all the ayahs wore white robes |
-| bangles | 手镯、脚镯 | had bangles here |
-| pinched | 捏、掐 | she pinched her upper arm |
-| upper arm | 上臂 | she pinched her upper arm |
-| smocking | 缩褶绣、褶饰 | Some had smocking on the front |
-| straps | 带子、肩带 | some had straps that crossed on the back |
-| buttoned | 扣上、扣住 | some had straps that crossed on the back and buttoned |
-| Gathering | 聚集、收集 | Gathering at the front |
-| stitch | 针脚、缝线 | it's a kind of stitch |
-| sundresses | 太阳裙、夏装 | I wore little sundresses |
-| guilty | 内疚的、有罪的 | he's probably feeling guilty |
-| quizzically | 疑惑地、茫然地 | She looked at me quizzically |
-| Fey | 怪异的、古怪的 | then said, Fey |
-| unscrewing | 拧开、旋开 | unscrewing bottle caps of gin |
-| Cinzano | 仙山露（苦艾酒品牌） | bottle caps of gin then Cinzano |
-| flint | 打火石 | the flint scratch of the lighter |
-| jingling | 叮当响、叮咚作响 | The telephone jingling as it was moved |
-| dial | 拨号盘 | putting it in her lap to dial |
-| forefinger | 食指 | under her forefinger |
-| purring | 咕噜响、呜呜作响 | then purring back on itself |
-| burbling | 汩汩作响、潺潺 | I fell asleep to the burbling of her voice |
-| Peggy | 佩吉（人名） | go and see Peggy one weekend |
-| sewing | 缝纫、缝纫 | Peggy who likes sewing |
-| dressmaking shop | 服装店、裁缝店 | the dressmaking shop |
-| milky | 乳白的、牛奶般的 | the warm milky smell of wool |
-| fabrics | 织物、布料 | the long rolls of different-feeling fabrics |
-| heavy | 沉重的 | had cut them with heavy scissors |
-| creak-slice | 吱嘎切片 | made a delicious creak-slice sound |
-| rotating | 旋转的 | by the rotating stands of pattern packets |
-| giggling | 咯咯笑、傻笑 | giggling at the pictures of the men in suits |
-| tank tops | 背心、吊带衫 | the pictures of the men in suits and tank tops |
-| Roger Moore | 罗杰·摩尔（演员） | Mum said one of them was Roger Moore |
-| James Bond | 詹姆斯·邦德（角色） | before he played James Bond |
-| skeins | 纱线团、毛线团 | played with the skeins of yarn |
-| cinched | 束紧、扎紧 | that were cinched into dog-bone shapes |
-| dog-bone | 狗骨头形 | cinched into dog-bone shapes |
-| cotton reels | 棉线轴、线轴 | the rows and rows of cotton reels |
-| spectrum | 光谱、色谱 | colours through the whole spectrum |
-| rattled | 嘎嘎作响、咔嗒作响 | another rattled down to replace it |
-| dressmaking | 服装制作、裁缝 | all the details about dressmaking |
-| tracing paper | 描图纸、复写纸 | The tea-coloured tracing paper patterns |
-| pinned | 钉住、固定 | then they pinned them to the fabric |
-| pedal | 踏板、脚踏 | Mum worked her sewing machine with a foot pedal |
-| rumbling | 隆隆作响、轰鸣 | I loved the rumbling noise |
-| stabbing | 刺、戳 | watching the needle stabbing furiously at the cloth |
-| manoeuvred | 移动、操纵 | as she manoeuvred it around |
-| periodically | 周期性地、定期地 | stopping periodically |
-| drag | 拖、拉 | to take a drag of her cigarette |
-| zigzag | 之字形、锯齿形 | for the zigzag stitch |
-| tailor's chalk | 裁缝粉笔 | with the tailor's chalk |
-| puncture | 刺穿、刺破 | to puncture our contentment |
-| toffee-soft | 太妃糖软的 | or toffee-soft satchels |
-| satchels | 书包、挎包 | or toffee-soft satchels |
-| surf school | 冲浪学校 | Even when they started surf school |
-| rollers | 卷发器、滚筒 | the hot smell of rollers |
-| tinkling | 叮当作响、叮当响 | bangles tinkling |
-| fringe | 刘海、额发 | when she brushed her fringe from her face |
-| easel | 画架 | a new self-portrait on her easel |
-| self-portrait | 自画像 | a new self-portrait on her easel |
-| blocks | 块、色块 | with red and blue blocks as background |
-| ponytail | 马尾辫 | her hair in a ponytail |
-| folds | 褶皱、折痕 | folds in the twist of her neck |
-| accents | 强调、重音 | accents for the sheen on her skin |
-| sheen | 光泽、光辉 | accents for the sheen on her skin |
-| crackle | 噼啪作响、爆裂 | the crackle of newspaper underfoot |
-| wuffling | 嘟囔、含糊地说 | the hum of a man wuffling about inflation |
-| inflation | 通货膨胀 | a man wuffling about inflation |
-| clunking | 砰砰作响、敲击 | had too many clunking sound effects |
-| buzzer | 蜂鸣器、蜂音器 | before a buzzer sounded |
-| nonsense | 胡说、废话 | they talked quick nonsense |
-| whirlpool | 漩涡、涡流 | a voice that seemed to whirlpool certain words |
-| volume | 音量、音量 | Mum turned up the volume |
-| searched | 搜寻、搜索 | had to be searched for and brought back |
-| Arabs | 阿拉伯人 | the lady said that Arabs were very good judges |
-| judges | 裁判、鉴定人 | Arabs were very good judges of people |
-| palette | 调色板 | she tapped her brush on her palette |
-| camel | 骆驼 | riding a camel was wonderfully slimming |
-| slimming | 减肥、变瘦 | riding a camel was wonderfully slimming |
-| halting | 犹豫的、断断续续的 | I could hear Odette's halting efforts on the piano |
-| archaeologists | 考古学家 | That evening we were archaeologists on the back paths |
-| parroting | 鹦鹉学舌、模仿 | parroting something I'd heard on the radio |
-| civilisation | 文明、文化 | Imagine if we found a lost civilisation |
-| superior | 优越的、高级的 | a civilisation with a superior understanding |
-| workings | 运作、运行 | the workings of the natural world |
-| china | 瓷器、瓷 | a broken piece of china |
-| exclaimed | 惊叫、呼喊 | she exclaimed, holding it up |
-| bold | 醒目的、粗体的 | a bold pattern of blue flowers |
-| examined | 检查、审查 | We need to take it to a museum to be examined |
-| squinted | 眯眼、斜视 | Odette squinted |
-| raked | 耙、梳理 | She raked the mud with fingers |
-| waddling | 摇摆而行、蹒跚 | waddling forward in a crouch |
-| crouch | 蹲伏、蜷缩 | waddling forward in a crouch |
-| humming | 哼唱、嗡嗡声 | and humming |
-| monotone | 单调、单音 | did top notes in a sort of monotone |
-| daydream | 白日梦、幻想 | I was deep in a daydream |
-| staticky | 静电的、杂音的 | a sort of staticky low tickling |
-| tickling | 痒、刺痛 | a sort of staticky low tickling inside |
-| stragglers | 落后者、掉队者 | starting with the stragglers |
-| transfixed | 惊呆的、入迷的 | I was transfixed |
-| unison | 一致、齐唱 | little dancers in unison |
-| combined | 组合的、联合的 | their combined vibration |
-| vibration | 振动、震动 | their combined vibration in my chest |
-| overpowering | 压倒性的、无法抗拒的 | so close, so overpowering |
-| magnificent | 壮丽的、宏伟的 | yet so magnificent |
-| sting | 刺、叮 | they could sting |
-| seized | 抓住、夺取 | I was seized by the thought |
-| cartoons | 卡通、动画片 | the thought of the cartoons |
-| trailing | 拖曳的、尾随的 | the trailing swarms |
-| alarm | 警报、惊动 | not in a way that might alarm them |
-| overwhelm | 压倒、使不知所措 | The thought that they might overwhelm her |
-| breathless | 喘不过气来、气喘吁吁 | made me breathless |
-| inching | 缓慢移动、一寸一寸地 | began inching up the path backwards |
-| darting | 飞奔、猛冲 | a few seemed to be darting around me |
-| striped | 条纹的 | in my striped T-shirt |
-| sparks | 火花、火星 | The strays were like sparks from a bonfire |
-| bonfire | 篝火、营火 | like sparks from a bonfire |
-| bareness | 裸露、光秃 | I could feel the bareness of my arms |
-| strays | 迷途者、散兵 | The strays were like sparks |
-| pounding | 重击、砰砰作响 | When the pounding in my head subsided |
-| subsided | 减弱、平息 | When the pounding in my head subsided |
-| collapsed | 倒塌、崩溃 | I collapsed onto the ground |
-| herbal | 草药的、香草的 | breathing in hard the herbal, honey-smelling hay |
-| honey-smelling | 蜂蜜味的 | the herbal, hay |
-| whisper | 耳语、低语 | my voice a whisper |
-| hoarse | 嘶哑的、沙哑的 | Odette was hoarse and panting |
-| panting | 喘气、气喘 | Odette was hoarse and panting |
-| damp | 潮湿的、湿润的 | her fringe damp with sweat |
-| tantrum | 发脾气、耍脾气 | before she threw a tantrum |
-| desperate | 绝望的、不顾一切的 | It was a desperate lie |
-| lightning | 闪电 | I'd heard about lightning |
-| mimicking | 模仿、摹拟 | as if she were mimicking someone |
-| prickly | 扎人的、刺人的 | I think you'll find it's prickly here |
-| tugging | 拉、拖 | tugging Odette's hand |
+|---|---|---|
+| quizzically | 疑惑地、探询地 | She looked at me quizzically and then said, Because some people like doing that. |
+| forefinger | 食指 | The clicking wheel dial going one way under her forefinger and then purring back on itself. |
+| creak-slice | 嘎吱一声（切开） | The shop lady had cut them with heavy scissors that made a delicious creak-slice sound. |
+| dressmaking | 裁缝、做衣服 | I included all the details about dressmaking. |
+| tea-coloured | 茶色的 | The tea-coloured tracing paper patterns were laid on the dining-room table, then they pinned them to the fabric and cut out the shapes. |
+| contentment | 满足、知足 | During that time – it was probably a few weeks, but it felt longer – there was little our cousins could do to puncture our contentment. |
+| smocking | 缩褶绣（一种装饰性缝法） | What’s smocking? |
+| sundresses | 太阳裙、吊带连衣裙 | Well, I wore little sundresses. |
+| lampshade | 灯罩 | When I wasn’t practising my knots, I watched them going round and round under the lampshade. |
+| lukewarm | 微温的、不冷不热的 | On some evenings, we had lukewarm baths with Mum sitting on a chair reading The Phoenix and the Carpet while we washed her feet. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| lukewarm | 温 | lukewarm baths |
-| The Phoenix and the Carpet | 《凤凰与地毯》 | reading The Phoenix and the Carpet |
-| soles | 脚底 | skin on her soles |
-| Ayah | 保姆 | Ayah would be all in white |
-| ayahs | 保姆 | all the ayahs |
-| bangles | 手镯 | had bangles |
-| pinched | 捏 | pinched her upper arm |
-| upper arm | 上臂 | her upper arm |
-| smocking | 缩褶绣 | had smocking |
-| straps | 带子 | some had straps |
-| buttoned | 扣上 | and buttoned |
-| Gathering | 聚集 | Gathering at the front |
-| stitch | 针脚 | a kind of stitch |
-| sundresses | 太阳裙 | little sundresses |
-| guilty | 内疚 | feeling guilty |
-| quizzically | 疑惑 | looked at me quizzically |
-| Fey | 怪异 | said, Fey |
-| unscrewing | 拧开 | unscrewing bottle caps |
-| Cinzano | 仙山露 | gin then Cinzano |
-| flint | 打火石 | the flint scratch |
-| jingling | 叮当 | The telephone jingling |
-| dial | 拨号盘 | in her lap to dial |
-| forefinger | 食指 | under her forefinger |
-| purring | 咕噜 | purring back |
-| burbling | 汩汩 | burbling of her voice |
-| Peggy | 佩吉 | see Peggy |
-| sewing | 缝纫 | Peggy who likes sewing |
-| dressmaking shop | 裁缝店 | the dressmaking shop |
-| milky | 乳白 | milky smell of wool |
-| fabrics | 织物 | different-feeling fabrics |
-| heavy | 沉重 | heavy scissors |
-| creak-slice | 吱嘎切片 | creak-slice sound |
-| rotating | 旋转 | rotating stands |
-| giggling | 咯咯笑 | giggling at the pictures |
-| tank tops | 背心 | suits and tank tops |
-| Roger Moore | 罗杰·摩尔 | one of them was Roger Moore |
-| James Bond | 詹姆斯·邦德 | he played James Bond |
-| skeins | 纱线团 | the skeins of yarn |
-| cinched | 束紧 | cinched into dog-bone shapes |
-| dog-bone | 狗骨头形 | dog-bone shapes |
-| cotton reels | 棉线轴 | cotton reels |
-| spectrum | 光谱 | colours through the whole spectrum |
-| rattled | 嘎嘎 | another rattled down |
-| dressmaking | 服装制作 | details about dressmaking |
-| tracing paper | 描图纸 | tracing paper patterns |
-| pinned | 钉住 | pinned them to the fabric |
-| pedal | 踏板 | a foot pedal |
-| rumbling | 隆隆 | the rumbling noise |
-| stabbing | 刺 | the needle stabbing |
-| manoeuvred | 移动 | as she manoeuvred it |
-| periodically | 定期 | stopping periodically |
-| drag | 拖 | a drag of her cigarette |
-| zigzag | 之字形 | the zigzag stitch |
-| tailor's chalk | 裁缝粉笔 | the tailor's chalk |
-| puncture | 刺穿 | to puncture our contentment |
-| toffee-soft | 太妃糖软 | toffee-soft satchels |
-| satchels | 书包 | toffee-soft satchels |
-| surf school | 冲浪学校 | they started surf school |
-| rollers | 卷发器 | the hot smell of rollers |
-| tinkling | 叮当 | bangles tinkling |
-| fringe | 刘海 | her fringe from her face |
-| easel | 画架 | on her easel |
-| self-portrait | 自画像 | a new self-portrait |
-| blocks | 色块 | red and blue blocks |
-| ponytail | 马尾辫 | her hair in a ponytail |
-| folds | 褶皱 | folds in the twist |
-| accents | 强调 | accents for the sheen |
-| sheen | 光泽 | the sheen on her skin |
-| crackle | 噼啪 | the crackle of newspaper |
-| wuffling | 嘟囔 | a man wuffling |
-| inflation | 通货膨胀 | about inflation |
-| clunking | 砰砰 | clunking sound effects |
-| buzzer | 蜂鸣器 | a buzzer sounded |
-| nonsense | 胡说 | quick nonsense |
-| whirlpool | 漩涡 | seemed to whirlpool |
-| volume | 音量 | turned up the volume |
-| searched | 搜寻 | had to be searched for |
-| Arabs | 阿拉伯人 | Arabs were very good judges |
-| judges | 鉴定人 | judges of people |
-| palette | 调色板 | on her palette |
-| camel | 骆驼 | riding a camel |
-| slimming | 减肥 | wonderfully slimming |
-| halting | 犹豫 | halting efforts |
-| archaeologists | 考古学家 | we were archaeologists |
-| parroting | 鹦鹉学舌 | parroting something |
-| civilisation | 文明 | a lost civilisation |
-| superior | 优越 | a superior understanding |
-| workings | 运作 | the workings of the natural world |
-| china | 瓷器 | a broken piece of china |
-| exclaimed | 惊叫 | she exclaimed |
-| bold | 醒目 | a bold pattern |
-| examined | 检查 | to be examined |
-| squinted | 眯眼 | Odette squinted |
-| raked | 耙 | She raked the mud |
-| waddling | 摇摆 | waddling forward |
-| crouch | 蹲伏 | in a crouch |
-| humming | 哼唱 | and humming |
-| monotone | 单调 | in a sort of monotone |
-| daydream | 白日梦 | deep in a daydream |
-| staticky | 静电 | staticky low tickling |
-| tickling | 痒 | low tickling inside |
-| stragglers | 落后者 | starting with the stragglers |
-| transfixed | 惊呆 | I was transfixed |
-| unison | 一致 | dancers in unison |
-| combined | 组合 | their combined vibration |
-| vibration | 振动 | vibration in my chest |
-| overpowering | 压倒 | so overpowering |
-| magnificent | 壮丽 | so magnificent |
-| sting | 刺 | they could sting |
-| seized | 抓住 | I was seized |
-| cartoons | 卡通 | the cartoons |
-| trailing | 拖曳 | the trailing swarms |
-| alarm | 惊动 | might alarm them |
-| overwhelm | 压倒 | might overwhelm her |
-| breathless | 喘不过气 | made me breathless |
-| inching | 缓慢移动 | began inching |
-| darting | 飞奔 | seemed to be darting |
-| striped | 条纹 | in my striped T-shirt |
-| sparks | 火花 | like sparks from a bonfire |
-| bonfire | 篝火 | from a bonfire |
-| bareness | 裸露 | the bareness of my arms |
-| strays | 散兵 | The strays |
-| pounding | 重击 | the pounding in my head |
-| subsided | 减弱 | pounding subsided |
-| collapsed | 倒塌 | I collapsed |
-| herbal | 草药 | the herbal hay |
-| honey-smelling | 蜂蜜味 | honey-smelling hay |
-| whisper | 耳语 | my voice a whisper |
-| hoarse | 嘶哑 | was hoarse |
-| panting | 喘气 | hoarse and panting |
-| damp | 潮湿 | fringe damp |
-| tantrum | 发脾气 | threw a tantrum |
-| desperate | 绝望 | a desperate lie |
-| lightning | 闪电 | heard about lightning |
-| mimicking | 模仿 | were mimicking someone |
-| prickly | 扎人 | it's prickly here |
-| tugging | 拉 | tugging Odette's hand |
+|---|---|---|
+| gathered | 聚集、聚拢 | In the afternoons, flies gathered in the centre of my bedroom. |
+| evenings | 傍晚、晚上 | On some evenings, we had lukewarm baths with Mum sitting on a chair reading The Phoenix and the Carpet while we washed her feet. |
+| afternoon | 下午 | Well, we had to go in the late afternoon because it was so hot, and the sun made long shadows on the sand. |
+| squeezing | 挤、拧 | Tell me stories about the hot country, Odette said one evening, allowing the sponge to fill with water and squeezing it out. |
+| practising | 练习 | When I wasn’t practising my knots, I watched them going round and round under the lampshade. |
+| interrupted | 插话、打断 | Crispin says their dad is going to take them to the beach, Odette interrupted. |
+| dining-room | 餐厅 | The tea-coloured tracing paper patterns were laid on the dining-room table, then they pinned them to the fabric and cut out the shapes. |
+| afternoons | 下午（常指每天下午） | In the afternoons, flies gathered in the centre of my bedroom. |
+| Gathering | 抽褶（缝纫用语） | Gathering at the front, it’s a kind of stitch. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| lukewarm | 温 | lukewarm baths |
-| The Phoenix and the Carpet | 《凤凰与地毯》 | reading The Phoenix and the Carpet |
-| soles | 脚底 | skin on her soles |
-| Ayah | 保姆 | Ayah would be all in white |
-| ayahs | 保姆 | all the ayahs |
-| bangles | 手镯 | had bangles |
-| pinched | 捏 | pinched her upper arm |
-| upper arm | 上臂 | her upper arm |
-| smocking | 缩褶绣 | had smocking |
-| straps | 带子 | some had straps |
-| buttoned | 扣上 | and buttoned |
-| Gathering | 聚集 | Gathering at the front |
-| stitch | 针脚 | a kind of stitch |
-| sundresses | 太阳裙 | little sundresses |
-| guilty | 内疚 | feeling guilty |
-| quizzically | 疑惑 | looked at me quizzically |
-| Fey | 怪异 | said, Fey |
-| unscrewing | 拧开 | unscrewing bottle caps |
-| Cinzano | 仙山露 | gin then Cinzano |
-| flint | 打火石 | the flint scratch |
-| jingling | 叮当 | The telephone jingling |
-| dial | 拨号盘 | in her lap to dial |
-| forefinger | 食指 | under her forefinger |
-| purring | 咕噜 | purring back |
-| burbling | 汩汩 | burbling of her voice |
-| Peggy | 佩吉 | see Peggy |
-| sewing | 缝纫 | Peggy who likes sewing |
-| dressmaking shop | 裁缝店 | the dressmaking shop |
-| milky | 乳白 | milky smell of wool |
-| fabrics | 织物 | different-feeling fabrics |
-| heavy | 沉重 | heavy scissors |
-| creak-slice | 吱嘎切片 | creak-slice sound |
-| rotating | 旋转 | rotating stands |
-| giggling | 咯咯笑 | giggling at the pictures |
-| tank tops | 背心 | suits and tank tops |
-| Roger Moore | 罗杰·摩尔 | one of them was Roger Moore |
-| James Bond | 詹姆斯·邦德 | he played James Bond |
-| skeins | 纱线团 | the skeins of yarn |
-| cinched | 束紧 | cinched into dog-bone shapes |
-| dog-bone | 狗骨头形 | dog-bone shapes |
-| cotton reels | 棉线轴 | cotton reels |
-| spectrum | 光谱 | colours through the whole spectrum |
-| rattled | 嘎嘎 | another rattled down |
-| dressmaking | 服装制作 | details about dressmaking |
-| tracing paper | 描图纸 | tracing paper patterns |
-| pinned | 钉住 | pinned them to the fabric |
-| pedal | 踏板 | a foot pedal |
-| rumbling | 隆隆 | the rumbling noise |
-| stabbing | 刺 | the needle stabbing |
-| manoeuvred | 移动 | as she manoeuvred it |
-| periodically | 定期 | stopping periodically |
-| drag | 拖 | a drag of her cigarette |
-| zigzag | 之字形 | the zigzag stitch |
-| tailor's chalk | 裁缝粉笔 | the tailor's chalk |
-| puncture | 刺穿 | to puncture our contentment |
-| toffee-soft | 太妃糖软 | toffee-soft satchels |
-| satchels | 书包 | toffee-soft satchels |
-| surf school | 冲浪学校 | they started surf school |
-| rollers | 卷发器 | the hot smell of rollers |
-| tinkling | 叮当 | bangles tinkling |
-| fringe | 刘海 | her fringe from her face |
-| easel | 画架 | on her easel |
-| self-portrait | 自画像 | a new self-portrait |
-| blocks | 色块 | red and blue blocks |
-| ponytail | 马尾辫 | her hair in a ponytail |
-| folds | 褶皱 | folds in the twist |
-| accents | 强调 | accents for the sheen |
-| sheen | 光泽 | the sheen on her skin |
-| crackle | 噼啪 | the crackle of newspaper |
-| wuffling | 嘟囔 | a man wuffling |
-| inflation | 通货膨胀 | about inflation |
-| clunking | 砰砰 | clunking sound effects |
-| buzzer | 蜂鸣器 | a buzzer sounded |
-| nonsense | 胡说 | quick nonsense |
-| whirlpool | 漩涡 | seemed to whirlpool |
-| volume | 音量 | turned up the volume |
-| searched | 搜寻 | had to be searched for |
-| Arabs | 阿拉伯人 | Arabs were very good judges |
-| judges | 鉴定人 | judges of people |
-| palette | 调色板 | on her palette |
-| camel | 骆驼 | riding a camel |
-| slimming | 减肥 | wonderfully slimming |
-| halting | 犹豫 | halting efforts |
-| archaeologists | 考古学家 | we were archaeologists |
-| parroting | 鹦鹉学舌 | parroting something |
-| civilisation | 文明 | a lost civilisation |
-| superior | 优越 | a superior understanding |
-| workings | 运作 | the workings of the natural world |
-| china | 瓷器 | a broken piece of china |
-| exclaimed | 惊叫 | she exclaimed |
-| bold | 醒目 | a bold pattern |
-| examined | 检查 | to be examined |
-| squinted | 眯眼 | Odette squinted |
-| raked | 耙 | She raked the mud |
-| waddling | 摇摆 | waddling forward |
-| crouch | 蹲伏 | in a crouch |
-| humming | 哼唱 | and humming |
-| monotone | 单调 | in a sort of monotone |
-| daydream | 白日梦 | deep in a daydream |
-| staticky | 静电 | staticky low tickling |
-| tickling | 痒 | low tickling inside |
-| stragglers | 落后者 | starting with the stragglers |
-| transfixed | 惊呆 | I was transfixed |
-| unison | 一致 | dancers in unison |
-| combined | 组合 | their combined vibration |
-| vibration | 振动 | vibration in my chest |
-| overpowering | 压倒 | so overpowering |
-| magnificent | 壮丽 | so magnificent |
-| sting | 刺 | they could sting |
-| seized | 抓住 | I was seized |
-| cartoons | 卡通 | the cartoons |
-| trailing | 拖曳 | the trailing swarms |
-| alarm | 惊动 | might alarm them |
-| overwhelm | 压倒 | might overwhelm her |
-| breathless | 喘不过气 | made me breathless |
-| inching | 缓慢移动 | began inching |
-| darting | 飞奔 | seemed to be darting |
-| striped | 条纹 | in my striped T-shirt |
-| sparks | 火花 | like sparks from a bonfire |
-| bonfire | 篝火 | from a bonfire |
-| bareness | 裸露 | the bareness of my arms |
-| strays | 散兵 | The strays |
-| pounding | 重击 | the pounding in my head |
-| subsided | 减弱 | pounding subsided |
-| collapsed | 倒塌 | I collapsed |
-| herbal | 草药 | the herbal hay |
-| honey-smelling | 蜂蜜味 | honey-smelling hay |
-| whisper | 耳语 | my voice a whisper |
-| hoarse | 嘶哑 | was hoarse |
-| panting | 喘气 | hoarse and panting |
-| damp | 潮湿 | fringe damp |
-| tantrum | 发脾气 | threw a tantrum |
-| desperate | 绝望 | a desperate lie |
-| lightning | 闪电 | heard about lightning |
-| mimicking | 模仿 | were mimicking someone |
-| prickly | 扎人 | it's prickly here |
-| tugging | 拉 | tugging Odette's hand |
+|---|---|---|
+| barn | 谷仓 | We were just inside the barn, hands on our knees. |
+| lady traveller | 女旅客 | One day, a lady traveller came on with a voice that seemed to whirlpool certain words. |
+| arms | 手臂 | I could feel the bareness of my arms, the back of my neck. |
+| back seat | 后座 | Mum said, getting into the car and throwing her sandals onto the back seat. |
+| black barn | 黑色的谷仓 | I saw the black barn ahead. |
+| bold pattern | 醒目的花纹 | It was white, a bold pattern of blue flowers and green leaves I’d seen in many houses, including I think at Peggy’s. |
+| broken piece | 碎片 | She bent down and brushed the dirt off a broken piece of china. |
 
 ## 一句话总结
 
-天气变热，Mum 给他们洗脚、讲"炎热国家"的故事；Odette 问 Crispin 说他们的爸爸要带他们去海滩，Mum 说他"可能感到内疚"；Mum 带他们去看 Peggy（Mum 的艺术学校朋友），Frank 写了关于 Peggy 的故事；Mum 画画、开车、送 Odette 去上芭蕾课；一天傍晚，Frank 和 Odette 在后路上玩"考古学家"，遇到一群蜜蜂，Frank 跑进谷仓，Odette 说"你丢下了我"；Frank 撒谎说"蜜蜂总是跟着最高的人"；他们听到 Perry 和 Mr Blake 在谷仓里的笑声——Frank 的"保护者"角色被动摇。
+这一章让母亲短暂地重新成为秩序本身：洗澡、炎热国家的故事、画画与开车送 Odette 上芭蕾，孩子们几乎重新拥有了家。真正的转折藏在后路：蜜蜂来时 Frank 先跑了，把 Odette 留在原地，于是有了 "You left me"，他只能用一个关于高度的谎去补——"Bees always follow the tallest person."。而谷仓深处 Perry 与 Mr Blake 的笑声没有被解释，它把成人的世界重新关回孩子听不懂的门后。

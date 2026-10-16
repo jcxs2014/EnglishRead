@@ -20,7 +20,7 @@ modified: "2026-10-15"
 
 **关键词**：taste of the air / cold and mineral
 
-**为什么这样写**：开篇以味觉写空气——"mineral"（矿物质）把抽象的"冷"具体化为可感知的质地。这是儿童视角的精确观察：孩子用身体而非概念感知世界。
+**为什么这样写**：开篇用味觉而非视觉写抵达——"the taste of the air, cold and mineral" 把陌生的乡间空气变成入口之物，孩子只能靠身体确认自己身在何处。紧接着才写"as my eyes adjusted"，感官的先后顺序本身就在说：Frank 是靠身体、而不是靠理解，来记录这个新世界的。
 
 **读者视角提示**：读者立即被带入 Frank 的感官世界，"first thing" 暗示这是一个全新环境的第一次接触，充满警觉。
 
@@ -89,74 +89,49 @@ modified: "2026-10-15"
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| petulantly | 任性地、脾气坏地 | dragging the 'a' sound petulantly |
-| emulsive | 乳状的、乳化状的 | It was rich and emulsive |
-| hullos | 问候声（英式口语） | we said our own dull hullos |
-| spangling | 闪烁的、叮当作响的 | upsetting the cutlery in a spangling clatter |
-| retribution | 报复、惩罚 | her voice rising in retribution |
-| unperturbed | 不为所动的、镇定的 | unperturbed by the fate of his brother |
-| sludging | 缓慢移动的、黏稠的 | great slapping, sludging holes appeared |
-| cowlick | 头发旋（翘起的一撮） | sweeping down in a cowlick |
-| frenetic | 狂热的、疯狂的 | the frenetic way our father rubbed his forehead |
+|---|---|---|
+| go-and-be-quick | （英式口语）去方便一下 | We let Reggie out to go-and-be-quick and left the kids sleeping. |
+| compartment | 隔层、炉腔 | Odette asked, crouching at an open compartment, one of six in a large enamel contraption Perry called the range. |
+| contraption | 古怪的装置 | Odette asked, crouching at an open compartment, one of six in a large enamel contraption Perry called the range. |
+| aluminium-alloy | 铝合金的 | Our milk comes in an aluminium-alloy churn from the farm up the road, she said, and showed me. |
+| thick-knit | 厚针织的 | She was wearing her nightie and thick-knit jersey and already had on the red wellies under her little red knees. |
+| adventure-cheerful | 故作冒险般欢快的 | Come and have porridge, I said, trying to make my voice adventure-cheerful. |
+| retribution | 报复、报应 | A crack and an explosion of wails followed, with her voice rising in retribution. |
+| unperturbed | 不为所动的、镇定的 | Our smallest cousin Jake, unperturbed by the fate of his brother, came into the kitchen holding a scrap of blanket. |
+| obviousness | 显而易见（此处指问题太直白） | The obviousness of the question coupled with the sharp realisation that we had no idea put the spell of silence on us. |
+| introductions | 介绍、引见 | In the absence of a grown-up to make introductions, we said our own dull hullos. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| glittering | 闪烁的、闪光的 | My aunt's voice had a glittering edge |
-| primed | 准备好的、训练有素的 | With Mum, we were primed |
-| wafting | 飘动的、轻盈移动的 | energetic kitchen dancing and wafting kitchen dancing |
-| ravenous | 极饿的、贪婪的 | my stomach folded, ravenous |
-| udders | 乳头、乳房（牛） | straight from the udders of cows |
-| pinny | 围裙（英式） | a frilly pinny that made her look like a tearoom waitress |
-| churn | 奶桶 | an aluminium-alloy churn from the farm up the road |
-| coiled | 盘绕的、卷成圈的 | woven mats that looked like coiled rope |
-| staggering | 蹒跚的、摇晃的 | staggering slightly with sleep |
-| blotched | 布满红斑的 | His face was blotched from crying |
-| yowl | 嚎叫、哭嚎 | a muffled yowl as he ran down the passage |
-| teat | 奶嘴、乳头 | the lamb was tugging hard at the teat |
-| frothed | 起泡沫的 | milk frothed messily around its mouth |
-| hotplates | 热板、炉盘 | the grey hotplates |
-| protested | 抗议、反对 | I saw a brown cow hair floating in it and protested |
-| adventure-cheerful | 冒险般欢快的 | trying to make my voice adventure-cheerful |
-| pleading | 恳求的、哀求的 | Odette's eyes were doubly pleading |
-| nausea | 恶心、反胃 | brought tears of nausea to my eyes |
-| contraption | 装置、奇怪的机器 | a large enamel contraption Perry called the range |
-| swaddling | 襁褓、包裹布 | wrapped like a larva in swaddling |
+|---|---|---|
+| underfoot | 在脚下（地面） | I followed her, gravel uneven underfoot, round the side of the house, which I could now see was made of grey stones. |
+| frenetic | 狂热的、焦躁的 | We knew the frenetic way our father rubbed his forehead with the heel of his hand. |
+| ravenous | 饥肠辘辘的 | I could smell scrambled eggs and my stomach folded, ravenous. |
+| emulsive | 乳状的、乳化感的 | It was rich and emulsive and brought tears of nausea to my eyes. |
+| swaddling | 襁褓、包裹布 | I imagined a boiled-faced baby wrapped like a larva in swaddling, looking like Odette had done when she was born. |
+| outburst | （情绪的）爆发 | I was stunned by this outburst given that he was eleven and so two years older than me. |
+| metallic | 金属般的 | The room was an almost metallic cold, like touching the car door in frost, with a weeping dampness that I felt in my bones. |
+| cramming | 狼吞虎咽 | She was cramming food into her mouth without a care. |
+| walloped | （英式口语）猛打 | Odette was coming towards our room, arm folded over her ear, elbow in the air, so I knew that Mum had walloped her. |
+| sludging | 黏稠地涌动 | I pulled up a chair and made porridge with the well water, stirring it until great slapping, sludging holes appeared. |
+| pleading | 恳求的、哀求的 | Odette’s eyes were doubly pleading upon hearing this. |
+| hotplates | 炉盘、灶面 | It had a rich smell that mingled with the iron of the hotplates, which smoked where scabs of blackened food remained. |
+| persisted | 持续、延续 | That silence persisted once they had left, car doors slamming, for school. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| mineral | 矿物质的 | the taste of the air, cold and mineral |
-| porridge | 燕麦粥 | I'll find you some porridge |
-| nappy | 尿布（英式） | smelling of nappy |
-| wellies | 雨靴（英式） | already had on the red wellies |
-| satchel | 书包、挎包 | carrying a satchel of floppy tan leather |
-| cutlery | 餐具 | upsetting the cutlery in a spangling clatter |
-| stovetop | 炉灶面 | The stovetop had two heavy iron lids |
-| jumper | 毛衣（英式） | pulling on a jumper and socks |
-| gravel | 碎石 | gravel uneven underfoot |
-| enamel | 搪瓷 | a large enamel contraption |
-| range | 炉灶、灶台 | Perry called the range |
-| lurch | 突然倾斜、颠簸 | With a lurch in my chest |
-| propped | 支撑、撑起 | properly propped back lest they dropped |
-| lest | 以免、免得 | properly propped back lest they dropped on small fingers |
-| scabs | 结痂、硬块 | where scabs of blackened food remained |
-| mingled | 混合、交织 | a rich smell that mingled with the iron |
-| clicked | 咔哒一声 | Perry clicked her tongue |
-| fished | 摸索、掏出 | She fished it out and wiped it on the pinny |
-| wails | 哭号、哀号 | a crack and an explosion of wails |
-| naughty | 淘气的、顽皮的 | You are naughty |
-| crack | 爆裂声 | A crack and an explosion of wails followed |
-| uniform | 校服 | in smart school uniform |
-| blonde | 金发的 | He had blonde hair, like Patrick's except curly |
-| curls | 卷发 | He had the same dark curls as Julian and my dad |
-| gap | 差距、间隔 | the visible gap of six years between them |
-| larva | 幼虫 | wrapped like a larva in swaddling |
-| boiled-faced | 涨红脸的、满脸通红的 | I imagined a boiled-faced baby |
+|---|---|---|
+| alive lamb | 活着的羊羔 | Why did you put an alive lamb in the oven? |
+| background concern | 心底的担忧 | I laughed, despite my background concern for Patrick. |
+| blueness | 忧郁、情绪低落 | Perry might not understand my mother’s shifting mood, the blueness, the crossness, the joy. |
+| crossness | 愠怒、脾气坏 | Perry might not understand my mother’s shifting mood, the blueness, the crossness, the joy. |
+| delicate structure | 脆弱的（心理）架构 | It occurred to me that Perry might collapse the delicate structure I had built around Mum, Odette and Patrick. |
+| muffled yowl | 压抑的嚎叫 | I could hear a muffled yowl as he ran down the passage. |
+| plate-warmer | 热盘架（炉内暖盘用） | It’s a plate-warmer. |
+| frilly pinny | 褶边围裙（英式） | She had on yellow rubber gloves and a frilly pinny that made her look like a tearoom waitress. |
 
 ## 一句话总结
 
-Frank 一家抵达姨妈 Peridot 的农场，Frank 在陌生的厨房与表兄弟们之间努力维系"小大人"的角色，而 Perry 家那位死去的女儿成为众人心照不宣的禁忌——这个家的沉默，比 Exmoor 的荒原更冷。
+这一章真正立起的是全书的看护关系：母亲赐名 My Little Watch，把 Frank 的自我价值绑在监测她的情绪上，而 Perry 家给的是另一种更冷的秩序，两者不可通约。死去的女儿以"不许提"的方式在场，缺席者反而最有力地规定着这个家的说话方式。结尾的 spell of silence 让沉默本身成为情节，也是全书第一次让"没有人回答"变成一件发生的事。

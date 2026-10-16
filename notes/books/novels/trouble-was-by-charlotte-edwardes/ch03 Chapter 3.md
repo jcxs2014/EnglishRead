@@ -109,205 +109,49 @@ modified: "2026-10-15"
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| putty rubber | 橡皮（英式） | using her putty rubber, blackened with 8B |
-| plaiting | 编织的、辫状的 | a thin plaiting stream in the middle |
-| blood-grazed | 被血擦伤的、血痕斑斑的 | Her cold cheeks looked blood-grazed |
-| hasp | 门扣、搭扣 | A heavy rope snaked between hasp and loop |
-| bowline | 单套结（一种绳结） | The king of knots is the bowline |
-| Boleyn | 博林（安妮·博林） | pronounced Boleyn, like Anne |
-| fisherman's bend | 渔人结 | the fisherman's bend and the swab hitch |
-| swab hitch | 拖把结（一种绳结） | the fisherman's bend and the swab hitch |
-| catspaw | 猫爪结（一种绳结） | the double sheet bend and the catspaw |
-| militant | 好斗的、激进的 | she was militant about that thumb |
+|---|---|---|
+| whitish-grey | 灰白色的 | He showed us the yard, a rectangle of ribbed whitish-grey concrete, and said it was where we’d be coming for milk, but not to play, mind. |
+| matter-of-factly | 就事论事地、平淡地 | Warns them off, Mr Blake called back matter-of-factly, else they peck the eyes of my lambs. |
+| blood-grazed | 擦出血痕的 | Her cold cheeks looked blood-grazed against the milky blueness of her skin. |
+| hot-blooded | 烈性的、血性方刚的 | We peeked gingerly, feeling the presence of might even before we saw him, red-brown, hot-blooded, solid, his beige nostrils two wet holes. |
+| enamel-painted | 搪瓷漆面的 | Suspended from the ceiling with invisible thread were Airfix planes, enamel-painted, not balsa wood like the ones I made with Dad. |
+| shop-bought | 商店买的、现成的 | They had those stiff ones, real teddies, with rotating arms and legs that have special shop-bought clothes. |
+| claw-grabbed | 用爪子抓 | When it was Patrick’s turn, he clumsily claw-grabbed at the metal crosses while the ball bounced all over the room. |
+| midshipmen | 海军候补生 | Knots can be called bends, hitches, splices, I said, as if teaching an imaginary class of midshipmen. |
+| punctuation | 标点（比喻：像标点一样的动作） | Odette put her thumb in her mouth as if it were punctuation. |
+| sun-filled | 洒满阳光的 | It was a big room with sun-filled windows, and had glossy posters – Live and Let Die, The Man With the Golden Gun. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| echoey | 有回声的 | her voice echoey at its centre |
-| migraine | 偏头痛 | Once her migraine has gone |
-| eiderdown | 羽绒被 | an eiderdown as thick as a lilo |
-| smudge | 涂抹、弄脏 | to smudge the features |
-| expedition | 探险、远征 | We're on an expedition |
-| rustled | 沙沙作响 | Odette rustled beside me |
-| crocuses | 番红花 | scattered with crocuses and snowdrops |
-| snowdrops | 雪花莲 | scattered with crocuses and snowdrops |
-| manure | 粪肥 | the ripe smell of manure |
-| pantomime | 哑剧、手势表演 | The man did a pantomime surprise |
-| suffocated | 窒息而死 | one youngster suffocated in the hay-barn |
-| matter-of-factly | 实事求是地、平淡地 | Mr Blake called back matter-of-factly |
-| bracing | 令人振奋的、清新的 | The wind was bracing |
-| lumbering | 笨拙地移动的 | Mr Blake walked in lumbering strides |
-| stile | 台阶（翻越篱笆用的） | climbing the stile |
-| reef knot | 平结、方结 | tied in a reef knot |
-| gingerly | 小心翼翼地 | We peeked gingerly |
-| nostrils | 鼻孔 | his beige nostrils two wet holes |
-| mammal | 哺乳动物 | the biggest mammal I'd ever seen |
-| boulder | 巨石 | His head was a mass-like boulder |
-| frothed | 起泡沫的 | reddish curls that frothed to a permed crown |
-| permed | 烫发的 | frothed to a permed crown |
-| temples | 太阳穴 | placed at his temples like a teddy bear |
-| menace | 威胁、危险 | His calm thickened his menace |
-| hooves | 蹄 | four hooves in straw |
-| squinting | 眯着眼看 | Odette asked, squinting at Mr Blake |
-| blueness | 蓝色 | the milky blueness of her skin |
-| concealed | 隐藏、隐蔽 | a latch door, hidden behind a rack of aprons, which concealed wooden back stairs |
-| cautious | 谨慎的 | We were cautious at the door |
-| glossy | 光滑的、有光泽的 | glossy posters |
-| Suspended | 悬挂 | Suspended from the ceiling |
-| enamel-painted | 搪瓷上色的 | Airfix planes, enamel-painted |
-| balsa | 轻木 | not balsa wood like the ones I made with Dad |
-| badgered | 纠缠、纠缠不休 | dolls that Odette had badgered Mum for |
-| vigour | 活力、力气 | Patrick shook his head with vigour |
-| bulged | 鼓出、膨胀 | though it bulged in his trousers |
-| panther-like | 像黑豹般的 | approached her panther-like |
-| glee | 欢喜、高兴 | a strange glee in his eyes |
-| sniggered | 暗笑、窃笑 | Julian sniggered and turned his face away |
-| indignation | 愤慨、愤怒 | the strength of her indignation |
-| fleeting | 短暂的、转瞬即逝的 | something fleeting in her expression |
-| trundled | 缓慢移动、滚动 | we trundled across the landing |
-| pinching | 刺痛、揪心 | my heart pinching with injustice |
-| gangly | 笨拙的、瘦长的 | if I did it in a gangly enough way |
-| agitated | 不安的、焦虑的 | to hear the agitated pipes beneath |
-| Seamanship | 航海术 | Seamanship Manual Volume I |
-| midshipmen | 海军学员 | an imaginary class of midshipmen |
-| clove hitch | 丁香结（一种绳结） | I knew the reef knot and clove hitch |
-| forefathers | 祖先、前人 | knots had been devised by our forefathers |
-| splices | 拼接、捻接 | Knots can be called bends, hitches, splices |
-| duffel | 粗呢大衣 | I put on my duffel coat |
-| cagoule | 防水外套 | Odette her cagoule |
-| quilted | 绗缝的、夹棉的 | his blue quilted romper |
-| strangled | 勒死、掐死 | It's been strangled |
-| ruffled | 弄皱、扰动 | Its outline ruffled |
-| toggle | 绳扣、套扣 | Beak like the horn toggle of my coat |
-| whipping | 鞭打般的、猛烈的 | feeling the whipping sting in my cheeks |
-| inflate | 充气、膨胀 | watching my trousers inflate |
-| wheelbarrows | 独轮手推车 | Against the wall were wheelbarrows and brushes |
-| hay-barn | 干草棚 | one youngster suffocated in the hay-barn |
-| youngster | 年轻人、小孩 | one youngster suffocated in the hay-barn |
-| overalls | 工装裤、工作服 | He was wearing overalls and a jacket |
-| crates | 板条箱 | stacked crates |
-| dairy | 乳品厂、牛奶场 | the back door of the dairy |
-| stalls | 畜栏、牛棚 | the edge of the cattle stalls |
-| hose | 软管、水管 | a hose, stacked crates |
-| crow | 乌鸦 | I spotted a crow cleaning its breast feathers |
-| beak | 喙 | Beak like the horn toggle of my coat |
-| claws | 爪子 | claws curled like dried insects |
-| lambs | 小羊 | else they peck the eyes of my lambs |
-| peck | 啄 | else they peck the eyes of my lambs |
-| flint | 燧石 | a flint shelter with a metal gate |
-| loop | 环、圈 | A heavy rope snaked between hasp and loop |
-| straw | 稻草 | four hooves in straw |
-| teddy bear | 泰迪熊 | placed at his temples like a teddy bear |
-| breed | 品种 | Peaceful breed, these North Devon boys |
-| latch | 门闩 | She opened a latch door |
-| aprons | 围裙 | hidden behind a rack of aprons |
-| twin | 双的、成对的 | one of the twin metal beds |
-| posters | 海报 | glossy posters |
-| invisible | 看不见的 | with invisible thread |
-| fort | 堡垒、要塞 | a large fort with soldiers |
-| soldiers | 士兵 | soldiers carrying little rifles and cannons |
-| rifles | 步枪 | soldiers carrying little rifles and cannons |
-| cannons | 大炮 | soldiers carrying little rifles and cannons |
-| cranes | 起重机 | On shelves along the far wall were Meccano cranes |
-| matchboxes | 火柴盒 | propped against the matchboxes they came in |
-| smacked | 打、掴 | no matter how much Mum smacked it out of her |
-| jacks | 抓子游戏（抛接子儿） | Patrick and I played jacks on the floorboards |
+|---|---|---|
+| sniggered | 窃笑、暗笑 | Julian sniggered and turned his face away. |
+| bunged-up | 鼻塞的 | He sat on my arm, hand slung around my neck, bunged-up breath in my ear. |
+| wrinkled | 皱起的 | Patrick flared his nostrils and wrinkled his nose at the ripe smell of manure. |
+| squirmed | 扭动、扭来扭去 | He squirmed with delight on my arm. |
+| lumbering | 笨重地移动 | I carried Patrick and Mr Blake walked in lumbering strides talking to Odette. |
+| hay-barn | 干草棚 | Not three farms away last summer, one youngster suffocated in the hay-barn, Mr Blake said as we went on. |
+| stillness | 静止、纹丝不动 | I crept up, wondering at its stillness. |
+| peculiar | 古怪的 | My voice sounded high and peculiar. |
+| strangled | 被勒死的 | It’s been strangled. |
+| gingerly | 小心翼翼地 | We peeked gingerly, feeling the presence of might even before we saw him, red-brown, hot-blooded, solid, his beige nostrils two wet holes. |
+| concealed | 隐蔽的、藏着的 | She opened a latch door, hidden behind a rack of aprons, which concealed wooden back stairs. |
+| militant | 强硬坚持的 | I knew, because Mum always said, that she was militant about that thumb. |
+| injustice | 不公 | Patrick held my hand as we trundled across the landing, my heart pinching with injustice. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| echoey | 有回声的 | her voice echoey at its centre |
-| migraine | 偏头痛 | Once her migraine has gone |
-| eiderdown | 羽绒被 | an eiderdown as thick as a lilo |
-| smudge | 涂抹 | to smudge the features |
-| expedition | 探险 | We're on an expedition |
-| rustled | 沙沙作响 | Odette rustled beside me |
-| crocuses | 番红花 | scattered with crocuses and snowdrops |
-| snowdrops | 雪花莲 | scattered with crocuses and snowdrops |
-| manure | 粪肥 | the ripe smell of manure |
-| pantomime | 哑剧 | The man did a pantomime surprise |
-| suffocated | 窒息 | one youngster suffocated in the hay-barn |
-| bracing | 令人振奋的 | The wind was bracing |
-| lumbering | 笨拙的 | Mr Blake walked in lumbering strides |
-| stile | 台阶 | climbing the stile |
-| reef knot | 平结 | tied in a reef knot |
-| gingerly | 小心翼翼地 | We peeked gingerly |
-| nostrils | 鼻孔 | his beige nostrils two wet holes |
-| mammal | 哺乳动物 | the biggest mammal I'd ever seen |
-| boulder | 巨石 | His head was a mass-like boulder |
-| frothed | 起泡沫的 | reddish curls that frothed to a permed crown |
-| permed | 烫发的 | frothed to a permed crown |
-| temples | 太阳穴 | placed at his temples like a teddy bear |
-| menace | 威胁 | His calm thickened his menace |
-| hooves | 蹄 | four hooves in straw |
-| squinting | 眯着眼看 | Odette asked, squinting at Mr Blake |
-| blueness | 蓝色 | the milky blueness of her skin |
-| concealed | 隐藏 | a latch door, hidden behind a rack of aprons, which concealed wooden back stairs |
-| cautious | 谨慎的 | We were cautious at the door |
-| glossy | 光滑的 | glossy posters |
-| Suspended | 悬挂 | Suspended from the ceiling |
-| enamel-painted | 搪瓷上色的 | Airfix planes, enamel-painted |
-| balsa | 轻木 | not balsa wood like the ones I made with Dad |
-| badgered | 纠缠 | dolls that Odette had badgered Mum for |
-| vigour | 活力 | Patrick shook his head with vigour |
-| bulged | 鼓出 | though it bulged in his trousers |
-| panther-like | 像黑豹般的 | approached her panther-like |
-| glee | 欢喜 | a strange glee in his eyes |
-| sniggered | 暗笑 | Julian sniggered and turned his face away |
-| indignation | 愤慨 | the strength of her indignation |
-| fleeting | 短暂的 | something fleeting in her expression |
-| trundled | 缓慢移动 | we trundled across the landing |
-| pinching | 刺痛 | my heart pinching with injustice |
-| gangly | 笨拙的 | if I did it in a gangly enough way |
-| agitated | 不安的 | to hear the agitated pipes beneath |
-| Seamanship | 航海术 | Seamanship Manual Volume I |
-| midshipmen | 海军学员 | an imaginary class of midshipmen |
-| clove hitch | 丁香结 | I knew the reef knot and clove hitch |
-| forefathers | 祖先 | knots had been devised by our forefathers |
-| splices | 拼接 | Knots can be called bends, hitches, splices |
-| duffel | 粗呢大衣 | I put on my duffel coat |
-| cagoule | 防水外套 | Odette her cagoule |
-| quilted | 绗缝的 | his blue quilted romper |
-| strangled | 勒死 | It's been strangled |
-| ruffled | 弄皱 | Its outline ruffled |
-| toggle | 绳扣 | Beak like the horn toggle of my coat |
-| whipping | 鞭打般的 | feeling the whipping sting in my cheeks |
-| inflate | 充气 | watching my trousers inflate |
-| wheelbarrows | 独轮手推车 | Against the wall were wheelbarrows and brushes |
-| hay-barn | 干草棚 | one youngster suffocated in the hay-barn |
-| youngster | 年轻人 | one youngster suffocated in the hay-barn |
-| overalls | 工装裤 | He was wearing overalls and a jacket |
-| crates | 板条箱 | stacked crates |
-| dairy | 乳品厂 | the back door of the dairy |
-| stalls | 畜栏 | the edge of the cattle stalls |
-| hose | 软管 | a hose, stacked crates |
-| crow | 乌鸦 | I spotted a crow cleaning its breast feathers |
-| beak | 喙 | Beak like the horn toggle of my coat |
-| claws | 爪子 | claws curled like dried insects |
-| lambs | 小羊 | else they peck the eyes of my lambs |
-| peck | 啄 | else they peck the eyes of my lambs |
-| flint | 燧石 | a flint shelter with a metal gate |
-| loop | 环 | A heavy rope snaked between hasp and loop |
-| straw | 稻草 | four hooves in straw |
-| teddy bear | 泰迪熊 | placed at his temples like a teddy bear |
-| breed | 品种 | Peaceful breed, these North Devon boys |
-| latch | 门闩 | She opened a latch door |
-| aprons | 围裙 | hidden behind a rack of aprons |
-| twin | 双的 | one of the twin metal beds |
-| posters | 海报 | glossy posters |
-| invisible | 看不见的 | with invisible thread |
-| fort | 堡垒 | a large fort with soldiers |
-| soldiers | 士兵 | soldiers carrying little rifles and cannons |
-| rifles | 步枪 | soldiers carrying little rifles and cannons |
-| cannons | 大炮 | soldiers carrying little rifles and cannons |
-| cranes | 起重机 | On shelves along the far wall were Meccano cranes |
-| matchboxes | 火柴盒 | propped against the matchboxes they came in |
-| smacked | 打 | no matter how much Mum smacked it out of her |
-| jacks | 抓子游戏 | Patrick and I played jacks on the floorboards |
+|---|---|---|
+| agitated pipes | 发出响动的水管 | Then we put our ears to the wood to hear the agitated pipes beneath. |
+| cagoule | （英式）连帽防水外套 | I put on my duffel coat, Odette her cagoule. |
+| bowline | 单套结（"绳结之王"） | The king of knots is the bowline, pronounced Boleyn, like Anne. |
+| reef knot | 平结、方结 | I knew the reef knot and clove hitch, of course, they were easy. |
+| swab hitch | 拖把结（一种绳结） | I wanted to learn the fisherman’s bend and the swab hitch, the double sheet bend and the catspaw. |
+| stile | 梯磴（翻越篱笆的踏级） | I ran to them climbing the stile. |
+| mittens | 连指手套 | I put him down, taking his hand, red because I’d forgotten his mittens. |
+| nappy | （英式）尿布 | He ignored me when I indicated the fort and said, Do you wear a nappy, Pat? |
 
 ## 一句话总结
 
-Frank 一家在 Peridot 家安顿下来，Frank 带弟妹外出探险遭遇农夫 Mr Blake 与一头公牛，回家后又卷入表兄弟之间的冲突——"in debt"（负债）这个家的秘密开始浮现，而 Frank 只能靠打结来逃避那些无人能答的问题。
+探险是孩子的测绘术，这一章却把它变成误读：被吊在细绳上的乌鸦只负责 Warns them off，暴力在这里属于农务，而非异常。真正击中 Frank 的不是公牛，而是 In Debt 这个从表兄弟嘴里蹦出来的称呼——它说明"欠债"不是一时的处境，而是这个家被贴上的名字。于是他退回到打结里：为什么、什么时候、接下来会怎样，这三个问题都不在结绳的语法之内。

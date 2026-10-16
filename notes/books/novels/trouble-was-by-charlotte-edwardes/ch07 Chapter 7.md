@@ -30,7 +30,7 @@ modified: "2026-10-15"
 
 **关键词**：frosted / sucked / dissolved / laughter
 
-**为什么这样写**："frosted"（结霜的）是精确的视觉细节——Odette 的拇指被唾液浸湿后结了一层薄霜。"dissolved in laughter"（笑得前仰后合）是"dissolve"（溶解）的引申用法，暗示表兄弟们的笑声是一种"溶解"——他们用笑声来"溶解" Odette 的尊严。
+**为什么这样写**：两个动作紧挨着写：拇指被从嘴里拔出来时"it was frosted where she'd sucked it"，接着便是"they dissolved in laughter"——刚用一个"结霜"的细节把 Odette 变成被观看的物件，笑声就替他们完成了对她的处置。整句没有一个评价词，两个动词已经替他们做完了这次羞辱。
 
 **读者视角提示**：表兄弟们的"笑声"是暴力——他们通过嘲笑 Odette 的拇指来确立自己的优越感。
 
@@ -42,7 +42,7 @@ modified: "2026-10-15"
 
 **为什么这样写**："mental patient"（精神病患者）是 Crispin 对 Mum 的侮辱——他知道 Mum 的抑郁，并用它来攻击 Frank。"Mad, mad"（疯子，疯子）的重复是 Crispin 的武器——他用重复来强化侮辱。
 
-**读者视角提示**：Crispin 的"mental patient"是精确的侮辱——他用了 Mum 的病情作为武器，这说明他知道这个家的秘密。
+**读者视角提示**：值得注意的是 Frank 把这句话原样记了下来，既没有反驳也没有解释——"Your mum is a mental patient" 就这样被收进叙述里，成了他必须独自消化的一句。
 
 > **原句 4:** She was afraid of the sanguine head studies that lined the upstairs corridor, because the cousins said the people in them had been decapitated.
 
@@ -50,7 +50,7 @@ modified: "2026-10-15"
 
 **关键词**：sanguine / head studies / decapitated
 
-**为什么这样写**："sanguine"（血红的）和"head studies"（头部习作）是精确的视觉描述——这些画是 Mum 画的，但 Odette 害怕它们。"decapitated"（被砍头）是表兄弟们的恐怖故事，他们用它来吓唬 Odette。
+**为什么这样写**：Odette 怕的不是画本身，而是"the cousins said the people in them had been decapitated"——恐惧是被讲出来的。这一点很要紧：表兄弟们用一句谣言就把楼上的走廊变成了禁区，而"sanguine"（血红）的画色让谣言显得可信。
 
 **读者视角提示**：Odette 的"恐惧"被表兄弟们利用——他们用恐怖故事来控制她，让她不敢上楼。
 
@@ -70,7 +70,7 @@ modified: "2026-10-15"
 
 **关键词**：typed labels / CYNTHIA DART / Tranxene / Diazepam
 
-**为什么这样写**："typed labels"（打印的标签）和"CYNTHIA DART"（Cynthia Dart，Mum 的名字）是精确的细节——Frank 在黑暗中辨认药瓶。"Tranxene"（氯氮䓬）和"Diazepam"（地西泮）是精确的药品名，说明 Mum 的抑郁需要药物控制。
+**为什么这样写**：药瓶上印着母亲的名字"CYNTHIA DART"，站在黑暗里把它们读出来的却是一个孩子，他判断里面还剩多少的办法是"I shook them and the rattling suggested there were plenty inside"。母亲把自己的药留在了家里，也就把照看这个家的差事一并留给了 Frank。
 
 **读者视角提示**：Frank 在黑暗中辨认药瓶——他被迫成为"大人"，但他根本不知道这些药是什么。
 
@@ -80,7 +80,7 @@ modified: "2026-10-15"
 
 **关键词**：blocked drain / plunger / spilling / hot liquid
 
-**为什么这样写**："blocked drain released by a plunger"（被马桶塞子疏通的堵塞排水管）是精确的比喻——Patrick 的呕吐声像排水管被疏通。"hot liquid"（热的液体）和"spilling"（涌出）是精确的视觉细节，暗示 Patrick 病情的严重。
+**为什么这样写**：这个比喻的残忍在于它把呕吐写成了"疏通"——Patrick 的身体像一处堵住的下水道，而守在他床边、刚把药喂进去的正是 Frank。随后"then I realised"点出关键：他不是先看见、后明白，而是听见声音才反应过来，孩子的这份迟钝正是这一场最可怕的地方。
 
 **读者视角提示**：Frank 用"排水管"来形容呕吐——他已经在用机械/管道的语言理解身体。
 
@@ -90,7 +90,7 @@ modified: "2026-10-15"
 
 **关键词**：sick smell / Reggie / rotating / ammonite
 
-**为什么这样写**："ammonite"（鹦鹉螺）是精确的比喻——Reggie 蜷缩的形状像鹦鹉螺壳。"sick smell"（呕吐的气味）是这个家的"新常态"——疾病与腐烂已经成为日常生活的一部分。"rotating"（转了几圈）是动物的精确行为，暗示 Reggie 也在寻找安全感。
+**为什么这样写**：章末落在一只狗身上：Reggie"rotating then lying down like he did sometimes, in the shape of an ammonite"，蜷缩是动物替自己找安全的方式。这一笔把孩子的处境改写成了身体姿态——Frank 说不出口的害怕，由 Reggie 替他做了出来。
 
 **读者视角提示**：Reggie 的"鹦鹉螺"形状是动物的安全感——连狗都知道要蜷缩起来保护自己。
 
@@ -99,170 +99,48 @@ modified: "2026-10-15"
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| ambushed | 伏击、偷袭 | our cousins ambushed us in the hall |
-| sanguine | 血红的、红润的 | the sanguine head studies |
-| decapitated | 砍头、斩首 | the people in them had been decapitated |
-| Tranxene | 氯氮䓬（镇静剂） | CYNTHIA DART Tranxene (7.5 mg) |
-| Diazepam | 地西泮（镇静剂） | Diazepam CIV (10 mg) |
-| contraceptive | 避孕的、避孕用品 | her contraceptive pill |
-| ammonite | 鹦鹉螺（化石） | in the shape of an ammonite |
-| elude | 逃避、躲避 | we wanted to elude Grandma's poor hearing |
-| grizzling | 哭诉、抱怨 | Patrick started grizzling |
-| convulsed | 抽搐、痉挛 | Patrick convulsed |
-| sporadic | 零星的、间歇的 | the sporadic rush of squealing water |
+|---|---|---|
+| side-kicked | 侧踢 | Crispin dropped her out of the headlock and then spun and side-kicked the air. |
+| hand-me-downs | 哥哥姐姐穿旧传下来的衣物 | Crispin was looking at Odette’s hand-me-downs. |
+| pretend-laugh | 假笑 | He started to do his ugly pretend-laugh. |
+| thunderous | 雷鸣般的 | Every so often the boiler erupted into a thunderous roar that lasted ten seconds and left a tarry smell. |
+| aftertaste | 余味、后味 | She said they left a smoky aftertaste like kippers. |
+| grey-streaked | 带灰色条纹的 | I ran a shallow bath, but he sat in the gritty, grey-streaked enamel like it was a puddle, shivering. |
+| Pat-a-cake | 拍手童谣（“拍饼饼”游戏） | Then she said, Don’t worry, it will be all right, Patty Pat Pat-a-cake, and tried to hold the flannel in place. |
+| accompanied | 伴随（accompanied by） | Patrick convulsed, each spasm accompanied by a hollow sound from his stomach and another wave of liquid. |
+| whimpering | 呜咽、抽泣 | His whimpering was audible from the bathroom, along with the sporadic rush of squealing water and Perry talking in a soothing voice. |
+| shuddering | 颤抖、哆嗦 | Patrick was really shuddering now, making fluttering noises with his lips and wagging his head. |
+| fluttering | 扑动、颤动 | Patrick was really shuddering now, making fluttering noises with his lips and wagging his head. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| no man's land | 无人区、真空地带 | the hall which was the no man's land between our ends |
-| frosted | 结霜的、覆有霜的 | It was frosted where she'd sucked it |
-| dissolved | 溶解、消散 | they dissolved in laughter |
-| headlock | 锁喉、夹头 | had her in a headlock |
-| snarled | 咆哮、怒吼 | What are you going to do? Crispin snarled |
-| hand-me-downs | 旧衣服、传下来的衣服 | Odette's hand-me-downs |
-| mental patient | 精神病患者 | Your mum is a mental patient |
-| two-ring | 双灶的 | a two-ring hob |
-| Formica | 福米加（塑料贴面） | a folding Formica table |
-| tarry | 焦油的、柏油的 | left a tarry smell |
-| vinegary | 醋的、酸的 | an inky, vinegary smell |
-| cloudy | 浑浊的 | the water looked cloudy in our tumblers |
-| tumblers | 平底玻璃杯 | the water looked cloudy in our tumblers |
-| jammed | 卡住、塞入 | Grandma jammed Patrick into the high chair |
-| writhed | 扭动、蠕动 | no matter how much he writhed |
-| scalding | 滚烫的 | mostly scalding |
-| spongy | 海绵状的、松软的 | spongy dark bits |
-| aftertaste | 余味、回味 | they left a smoky aftertaste like kippers |
-| kippers | 腌鱼、熏鱼 | a smoky aftertaste like kippers |
-| elude | 逃避、躲避 | we wanted to elude Grandma's poor hearing |
-| grizzling | 哭诉、抱怨 | Patrick started grizzling |
-| snot | 鼻涕、粘液 | Soon snot was running off his chin |
-| snapped | 厉声说、厉声质问 | Go to your room this instant, she snapped |
-| writhing | 蠕动、扭动 | Maggots were writhing around the plughole |
-| plughole | 排水孔、下水道口 | Maggots were writhing around the plughole |
-| piercing | 刺耳的、尖锐的 | I ran the tap with its piercing pitch |
-| lava | 熔岩、岩浆 | bringing more from the drain like maggot lava |
-| gritty | 砂砾的、粗糙的 | the gritty, grey-streaked enamel |
-| grey-streaked | 灰色条纹的 | the gritty, grey-streaked enamel |
-| blotched | 有斑点的、斑驳的 | his skin was blotched and rashy |
-| rashy | 发疹的、起疹的 | his skin was blotched and rashy |
-| squirmed | 扭动、蠕动 | he squirmed against the brightness |
-| irritable | 易怒的、暴躁的 | was irritable and snivelly |
-| snivelly | 流鼻涕的、哭哭啼啼的 | was irritable and snivelly |
-| ablaze | 着火的、燃烧的 | I woke in the night with him ablaze |
-| nappy | 尿布 | when I wanted help changing a bad nappy |
-| syrup | 糖浆 | looked for syrup or soluble Disprin |
-| Disprin | 阿司匹林（品牌） | looked for syrup or soluble Disprin |
-| soluble | 可溶的 | soluble Disprin |
-| treacle | 糖蜜、糖浆 | a bottle of something that looked like treacle |
-| knobbly | 多结节的、凹凸不平的 | some knobbly tin tubes |
-| blister | 泡、水泡 | Odette had burst them from their little blisters |
-| ajar | 半开的、微开的 | leaving the door ajar |
-| trembling | 颤抖、发抖 | He was trembling and panting |
-| panting | 喘气、喘息 | He was trembling and panting |
-| flannel | 毛巾、法兰绒 | I wet a flannel under the fast gush |
-| gush | 涌出、喷出 | under the fast gush of the cold tap |
-| twisted | 转动、拧 | it twisted and twisted like a loose wheel |
-| shuddering | 颤抖、发抖 | Patrick was really shuddering now |
-| fluttering | 扑动、颤动 | making fluttering noises with his lips |
-| depressed | 按下、压下 | The lid depressed fully |
-| unfamiliar | 不熟悉的、陌生的 | They were small and unfamiliar |
-| posted | 投递、塞入 | I posted the pills into his mouth |
-| plunger | 马桶塞子、活塞 | like a blocked drain released by a plunger |
-| convulsed | 抽搐、痉挛 | Patrick convulsed |
-| spasm | 痉挛、抽搐 | each spasm accompanied by a hollow sound |
-| hollow | 空洞的、空心的 | a hollow sound from his stomach |
-| scrambled | 爬行、匆忙行动 | as she scrambled from the bed to the bathroom |
-| sopping | 湿透的、浸透的 | I was already sopping wet |
-| stricken | 受打击的、受惊的 | Odette looked stricken |
-| dim | 昏暗的、暗淡的 | We tried to find them in the dim light |
-| audible | 可听见的、听得见的 | His whimpering was audible from the bathroom |
-| sporadic | 零星的、间歇的 | the sporadic rush of squealing water |
-| sponging | 擦洗、擦拭 | Perry was sponging Patrick |
-| floppy | 松软的、无力的 | Patrick looked drunk and floppy |
-| whimpering | 呜咽、哀诉 | His whimpering was audible |
-| grave | 严肃的、严重的 | as everything was grave |
-| sparks | 火花、火星 | The fabric made sparks in the dark |
-| rotating | 旋转、转动 | rotating then lying down |
+|---|---|---|
+| ambushed | 伏击、突袭 | Another day, late in the afternoon, our cousins ambushed us in the hall which was the no man’s land between our ends. |
+| headlock | 锁头（把对方头夹在腋下的摔跤动作） | Crispin in a swift round move had her in a headlock and put his claw hand above her hair and with a fake evil clown laugh began to lower it. |
+| flickered | 闪动、来回变换 | His mouth flickered between exaggerated horror and delight. |
+| unsteady | 不稳的、发虚的 | He sounded unsteady. |
+| exaggerated | 夸张的 | His mouth flickered between exaggerated horror and delight. |
+| abruptly | 突然地、戛然而止 | I thought we’d be set upon in a ball of scratching and biting, but they stopped abruptly. |
+| waistcoats | 西装马甲 | They were wearing cords and polo necks and little waistcoats like they were going somewhere. |
+| Barnstaple | 巴恩斯特珀尔（英国地名） | Jake piped up from the floor that their dad was taking them to the cinema in Barnstaple and then out to dinner in a restaurant, So there. |
+| unfamiliar | 陌生的、不熟悉的 | They were small and unfamiliar. |
+| shh-shhing | “嘘嘘”地让人安静 | Possibly, Perry said and went on with her patting and shh-shhing. |
+| dissolved | 消散、融化 | It was frosted where she’d sucked it and they dissolved in laughter. |
+| snarled | 龇牙低吼 | Crispin snarled. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| ambushed | 伏击 | our cousins ambushed us |
-| frosted | 结霜的 | It was frosted where she'd sucked it |
-| dissolved | 溶解 | they dissolved in laughter |
-| headlock | 锁喉 | had her in a headlock |
-| snarled | 咆哮 | Crispin snarled |
-| hand-me-downs | 旧衣服 | Odette's hand-me-downs |
-| mental | 精神的 | Your mum is a mental patient |
-| patient | 病人 | Your mum is a mental patient |
-| mad | 疯的 | Everyone in your family is mad |
-| two-ring | 双灶的 | a two-ring hob |
-| hob | 灶 | a two-ring hob |
-| Formica | 福米加 | a folding Formica table |
-| tarry | 焦油的 | a tarry smell |
-| vinegary | 醋的 | a vinegary smell |
-| cloudy | 浑浊的 | the water looked cloudy |
-| tumblers | 玻璃杯 | in our tumblers |
-| jammed | 卡住 | Grandma jammed Patrick |
-| writhed | 扭动 | how much he writhed |
-| scalding | 滚烫的 | mostly scalding |
-| spongy | 海绵状的 | spongy dark bits |
-| aftertaste | 余味 | a smoky aftertaste |
-| kippers | 熏鱼 | like kippers |
-| elude | 逃避 | we wanted to elude |
-| grizzling | 哭诉 | Patrick started grizzling |
-| snot | 鼻涕 | snot was running off his chin |
-| snapped | 厉声说 | she snapped |
-| writhing | 蠕动 | Maggots were writhing |
-| plughole | 排水孔 | around the plughole |
-| piercing | 刺耳的 | its piercing pitch |
-| lava | 熔岩 | like maggot lava |
-| gritty | 砂砾的 | the gritty enamel |
-| grey-streaked | 灰色条纹的 | grey-streaked enamel |
-| blotched | 有斑点的 | skin was blotched |
-| rashy | 起疹的 | blotched and rashy |
-| squirmed | 扭动 | he squirmed |
-| irritable | 易怒的 | was irritable |
-| snivelly | 流鼻涕的 | irritable and snivelly |
-| ablaze | 着火 | with him ablaze |
-| nappy | 尿布 | changing a bad nappy |
-| syrup | 糖浆 | looked for syrup |
-| Disprin | 阿司匹林 | soluble Disprin |
-| soluble | 可溶的 | soluble Disprin |
-| treacle | 糖蜜 | looked like treacle |
-| knobbly | 多结节的 | knobbly tin tubes |
-| blister | 泡 | little blisters |
-| ajar | 半开 | leaving the door ajar |
-| trembling | 颤抖 | He was trembling |
-| panting | 喘气 | trembling and panting |
-| flannel | 毛巾 | I wet a flannel |
-| gush | 涌出 | fast gush of the cold tap |
-| twisted | 拧 | it twisted and twisted |
-| shuddering | 颤抖 | Patrick was really shuddering |
-| fluttering | 扑动 | fluttering noises |
-| depressed | 按下 | The lid depressed |
-| unfamiliar | 不熟悉的 | small and unfamiliar |
-| posted | 塞入 | I posted the pills |
-| plunger | 马桶塞子 | released by a plunger |
-| convulsed | 抽搐 | Patrick convulsed |
-| spasm | 痉挛 | each spasm |
-| hollow | 空洞的 | a hollow sound |
-| scrambled | 匆忙行动 | she scrambled |
-| sopping | 湿透的 | I was already sopping wet |
-| stricken | 受打击的 | Odette looked stricken |
-| dim | 昏暗的 | in the dim light |
-| audible | 听得见的 | was audible |
-| sporadic | 零星的 | sporadic rush |
-| sponging | 擦洗 | was sponging Patrick |
-| floppy | 松软的 | drunk and floppy |
-| whimpering | 呜咽 | His whimpering |
-| grave | 严重的 | everything was grave |
-| sparks | 火花 | made sparks |
-| rotating | 旋转 | rotating then lying |
+|---|---|---|
+| basin | 洗脸盆 | Odette came back with the tin bowl Mum kept under the basin. |
+| boiler | 锅炉 | Every so often the boiler erupted into a thunderous roar that lasted ten seconds and left a tarry smell. |
+| claw hand | 爪形手 | Crispin in a swift round move had her in a headlock and put his claw hand above her hair and with a fake evil clown laugh began to lower it. |
+| corridor light | 走廊的灯光 | Her frame blocked the corridor light as she came into the room. |
+| ankle | 脚踝 | Crispin pulled it out this time, so Odette kicked his ankle. |
+| bad nappy | 脏尿布 | I’d been in there once only, when I wanted help changing a bad nappy. |
+| blocked drain | 堵塞的下水道 | Patrick made a noise like a blocked drain released by a plunger, then I realised hot liquid was spilling from his mouth. |
 
 ## 一句话总结
 
-表兄弟们在走廊里嘲笑 Frank 一家（"你爸在哪里？""你妈是精神病患者"），Odette 的反击让全场沉默；晚饭时 Patrick 拒绝吃饭，夜里突发高烧，Frank 和 Odette 试图用 Mum 的药片救治，最终 Perry 赶来解围——这个家无人可依靠的恐惧，在 Perry 出现的瞬间暂时消散。
+这一章把"没有大人"从感觉变成了事实：走廊里的欺凌只是替大人的轻蔑开了口，而真正危险的一刻发生在深夜的床边——Frank 用成人剂量的药片去救发高烧的 Patrick，救人和害人变成了同一个动作。Odette 那句 right as rain in no time 紧接在呕吐与痉挛之前，是全书最残忍的反讽之一。Perry 带着酒气出现，这声得救更像偶然而非庇佑，"等母亲回来"的许诺在这一夜失去说服力——Frank 的看护者身份至此不再是母亲的加冕，而是无人接手时的既成事实。

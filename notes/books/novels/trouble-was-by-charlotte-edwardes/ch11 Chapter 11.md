@@ -20,9 +20,9 @@ modified: "2026-10-15"
 
 **关键词**：much later / telephone ringing
 
-**为什么这样写**："much later"（很晚）是精确的——Frank 用"晚"来描述时间的流逝。"telephone ringing"（电话铃响）是精确的——Frank 记得电话的声音。
+**为什么这样写**："It must’ve been"（一定已经）是推断，不是记忆——Frank 在重建一段他并没有计时的夜晚，因为孩子没有量夜的钟；"much later"（晚得多）的含糊正是他手上仅有的东西，句子承认了回忆的限度，而不是假装精确。"the noise of the telephone ringing"里用"noise"（噪音）而非声音，电话成了一件会自己发作的东西，是闯入者。
 
-**读者视角提示**：Frank 的"晚"是儿童视角的精确——他通过"晚"来理解时间的流逝。
+**读者视角提示**：读者开篇即被告知这段叙述是重建的——Frank 的可靠程度被限定在一个孩子所能注意到的东西之内，这也让随后偷听到的对话注定只是半份证据。
 
 > **原句 2:** Maybe it's your mum, Julian said.
 
@@ -30,9 +30,9 @@ modified: "2026-10-15"
 
 **关键词**：Maybe / your mum
 
-**为什么这样写**："Maybe"（也许）是精确的——Julian 用"也许"来描述这次"希望"的不确定性。"your mum"（你妈妈）是精确的——Julian 记得 Frank 的妈妈。
+**为什么这样写**："Maybe"（也许）是 Julian 递出的可能性，而非事实——后文马上显示他知道得更多："My mum called her. I heard. When Patrick got measles."，所以"也许"是吊胃口的手法，Frank 的"我不知道他是不是在撒谎"由此而来。孤零零的"your mum"（你妈妈）则用了 Frank 最想听到的称呼，而这对 Julian 毫无成本。
 
-**读者视角提示**：Julian 的"也许"是儿童视角的精确——他通过"也许"来理解这次"希望"的不确定性。
+**读者视角提示**：读者由此看出 Julian 把消息当作换取重要感的货币——这正是后来 Frank 说自己"对 Julian 存有戒心"的根源。
 
 > **原句 3:** I stared at him. I didn't know if he was lying.
 
@@ -40,9 +40,9 @@ modified: "2026-10-15"
 
 **关键词**：stared / didn't know / lying
 
-**为什么这样写**："stared"（盯着）是精确的——Frank 用"盯"来描述自己的怀疑。"didn't know if he was lying"（不知道他是不是在撒谎）是精确的——Frank 用"撒谎"来描述 Julian 的话。
+**为什么这样写**：两个平句，不作解释。"stared"（盯着）是身体先于思考的反应，第二句才是思考，而它问的不是 Julian 是否撒谎，而是 Frank 自己分不清——孩子缺少辨别真伪的成人工具。这正驱动了整章：他下后楼梯去求证，而听到的只是碎片——"She was mid-sentence."（她话说了一半。）
 
-**读者视角提示**：Frank 的"怀疑"是儿童视角的精确——他通过"怀疑"来理解 Julian 的话。
+**读者视角提示**：读者看见一个正在学着做侦查者的孩子，同时也看见他的证据注定不完整。
 
 > **原句 4:** The back stairs were the quickest way to the kitchen. My breath was hot on my chest as I descended on tiptoes, trying to be both quick and quiet on the bare wood.
 
@@ -50,9 +50,9 @@ modified: "2026-10-15"
 
 **关键词**：back stairs / quickest / descended / tiptoes
 
-**为什么这样写**："descended on tiptoes"（踮着脚尖走下来）是精确的——Frank 用"踮脚"来描述自己的谨慎。"quick and quiet"（既快又安静）是精确的——Frank 用"快"和"安静"来描述自己的目标。
+**为什么这样写**：第一句是路线推理（一条最省时的通道），第二句把它变成身体："My breath was hot on my chest"（呼吸在胸口发烫）不是说出恐惧，而是感到恐惧，而且位置说得不准——是"在胸口"而不是"在胸里"，跟第 9 章"眼眶发烫"一样是孩子对身体的不精确定位。"quick and quiet"（又快又静）是孩子给自己的潜入守则；"the bare wood"（光秃的木头）则点明后楼梯是下人走的路线，与前文铺地毯的走廊相对，标示出这栋房子里谁的地界被修整过。
 
-**读者视角提示**：Frank 的"踮脚"是儿童视角的精确——他通过"踮脚"来理解自己的谨慎。
+**读者视角提示**：读者被放进一个明知不该做却仍在做的孩子的身体里——偷听在受到评判之前，先被感受。
 
 > **原句 5:** No, no, Cynth. I am not cornering you, that is not what is happening. She sounded annoyed. My heartbeat was in my ears. I do understand, she went on. More than most, believe you me. The chair scraped and I imagined her pulling it close to the phone as I'd seen her do to sit down. He is my brother, after all. I'm just not convinced –
 
@@ -60,9 +60,9 @@ modified: "2026-10-15"
 
 **关键词**：cornering / annoyed / heartbeat / convinced
 
-**为什么这样写**："cornering"（逼）是精确的——Perry 用"逼"来描述自己的行为。"convinced"（确信）是精确的——Perry 用"确信"来描述自己的态度。
+**为什么这样写**：这段引语是带空缺的记录：电话另一头的话全部缺失，原文也点明"Whoever she was talking to kept interrupting."，于是读者和 Frank 一样只能从单边重建对话。"cornering"（逼到墙角）是 Perry 自己用来否认的词，而否认本身就说明她正在这么做；"He is my brother, after all."（他毕竟是我哥哥。）里的"他"是 Grandpa，这句话把整通电话从"孩子的去留"转向"家族旧账"。"I’m just not convinced –"被破折号切断，正是这章的结构。
 
-**读者视角提示**：Perry 的"逼"是成人世界的精确——她通过"逼"来描述自己的行为。
+**读者视角提示**：读者被迫与 Frank 共享同一份残缺证据——破折号和缺失的回话要求我们自己填补无法知道的部分。
 
 > **原句 6:** There was the tinkling sound of Perry hanging up the telephone and she said aloud to the kitchen, S'pose it'd be too much to bally well ask how everybody else is getting on. After a moment, I heard a noise like china shattering in the ceramic sink. Stupid woman, she said. She pronounced stupid like Grandma did, stch'apid. I didn't know if she meant herself, or Mum. Then I flinched because she swung the back stairs door and saw me there.
 
@@ -70,9 +70,9 @@ modified: "2026-10-15"
 
 **关键词**：tinkling / bally well / china shattering / stch'apid
 
-**为什么这样写**："bally well"（bally well）是精确的俚语——Perry 用"bally well"来描述自己的愤怒。"stch'apid"（stch'apid）是精确的——Perry 用 Grandma 的发音来描述自己的愤怒。
+**为什么这样写**："tinkling"（叮当，挂听筒）与"china shattering"（瓷器碎裂）属于同一族声音，一个体面、一个暴烈，句子就这样记录 Perry 的克制如何断开。"bally well"是过时的上流社会俚语，"stch’apid"是 Grandma 的发音，Perry 的怒气借用的是她正在对抗的那个人的口音——这家人的说话方式逃不掉。"I didn’t know if she meant herself, or Mum."是 Frank 关键的两种读法，也是这一章关于"该怪谁"的问题。
 
-**读者视角提示**：Perry 的"bally well"是成人世界的精确——她通过"bally well"来描述自己的愤怒。
+**读者视角提示**：读者同时听见 Perry 愤怒的两种身份——她既是被伤的人，也可能是伤人的人；孩子的迟疑就是读者的迟疑。
 
 > **原句 7:** She hesitated. I thought she was going to scold me, but she just stood there, one hand on the door handle, one on the door-frame, cheeks flushed. Why don't you and your sister take the dogs out? Be good to get some fresh air. You look a little green around the gills.
 
@@ -80,9 +80,9 @@ modified: "2026-10-15"
 
 **关键词**：hesitated / scold / green around the gills
 
-**为什么这样写**："hesitated"（犹豫）是精确的——Perry 用"犹豫"来描述自己的态度。"green around the gills"（脸色发青）是精确的俚语——Perry 用"脸色发青"来描述 Frank 的状态。
+**为什么这样写**：句子建立在"I thought she was going to scold me, but she just stood there"（我以为她要骂我，可她只是站着）这个落空上——预期的惩罚没有来。两只手一只扶门把、一只撑门框，把她自己挡在门口；"cheeks flushed"（脸颊通红）出卖了她。随后她既不点破也不追问，只把孩子们支到户外，用"green around the gills"（脸色发青）这句现成的诊断把话题岔开；她说的是"you and your sister"，把 Odette 一并带离了那场偷听。
 
-**读者视角提示**：Perry 的"犹豫"是成人世界的精确——她通过"犹豫"来描述自己的态度。
+**读者视角提示**：读者看见一个大人选择善意而非权威，也看见她选择回避——这一章的知识是用"不肯说出口的东西"来交易的。
 
 > **原句 8:** I don't believe in ghosts, I said, thinking Julian was trying to scare her. Then I shuddered, remembering the newspaper story I'd read on the floor when Mum was painting, how the three siblings, two brothers and a sister, had been found at a remote farm, heads blown off and a shotgun close by. The article said it was a murder-suicide and talked about rural communities being isolated from the modern world, living more as if it were Victorian times than the mid-1970s. I pushed the thought away, and said, although I felt disloyal to Julian after our newfound true, He's making it up.
 
@@ -90,294 +90,55 @@ modified: "2026-10-15"
 
 **关键词**：ghosts / shuddered / murder-suicide / Victorian
 
-**为什么这样写**："ghosts"（鬼魂）是精确的——Frank 用"鬼魂"来描述自己的恐惧。"murder-suicide"（谋杀-自杀）是精确的——Frank 用"谋杀-自杀"来描述这个家的黑暗秘密。
+**为什么这样写**：Frank 否认鬼魂，紧接着却"shuddered"（打了个寒战）——身体拆穿了口头的声明，而浮上来的记忆不是鬼，是一桩真实的报纸案件；它被读到的地方是"on the floor when Mum was painting"，把恐怖安置在一个无聊的家常时刻里。"murder-suicide"和"Victorian"是报纸的词汇，不是孩子的，他在复述一种半懂的成人腔调。最后他说"He’s making it up."（他在编），同时感到对 Julian"不忠"——否认、战栗、回忆、压下去、再表忠，一气完成。
 
-**读者视角提示**：Frank 的"鬼魂"是儿童视角的精确——他通过"鬼魂"来理解这个家的黑暗秘密。
+**读者视角提示**：读者看见 Frank 已经练熟了全书的核心动作——把一个念头推开；鬼故事其实是对某件真事的移置。
 
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| telephone | 电话 | the noise of the telephone ringing |
-| footfall | 脚步声 | her footfall making the floorboards squeak |
-| floorboards | 地板 | her footfall making the floorboards squeak |
-| freckles | 雀斑 | all the freckles on his nose |
-| scar | 疤痕 | a small white scar in his eyebrow |
-| mocking | 嘲笑、嘲弄 | He was mocking Perry's silvery voice |
-| silvery | 银铃般的、清脆的 | He was mocking Perry's silvery voice |
-| kukri | 库克利弯刀（尼泊尔） | used his kukri on a sapper |
-| sapper | 工兵、坑道兵 | used his kukri on a sapper |
-| fibbing | 撒谎、说小谎 | I'm not fibbing |
-| descended | 下降、走下 | as I descended on tiptoes |
-| tiptoes | 脚尖、踮脚 | trying to be both quick and quiet on the bare wood |
-| mid-sentence | 话到一半 | She was mid-sentence |
-| nonetheless | 然而、不过 | I understand. Nonetheless – |
-| priority | 优先、优先权 | – Priority, exactly |
-| hmmed | 哼、嗯 | She hmmed and hmmed while waiting to speak |
-| cornering | 逼迫、逼入绝境 | I am not cornering you |
-| annoyed | 恼怒的、生气的 | She sounded annoyed |
-| heartbeat | 心跳 | My heartbeat was in my ears |
-| receiver | 听筒、接收器 | hear my mother's voice through the receiver |
-| strained | 紧张、费力 | If I really strained |
-| thumps | 重击声、砰砰声 | some dull thumps upstairs |
-| aeroplane | 飞机 | the broad saw of an aeroplane far off |
-| tinkling | 叮当声、清脆声 | the tinkling sound of Perry hanging up |
-| bally well | 十足、完全（俚语） | S'pose it'd be too much to bally well ask |
-| china | 瓷器 | a noise like china shattering |
-| shattering | 破碎、粉碎 | a noise like china shattering |
-| ceramic | 陶瓷的 | in the ceramic sink |
-| stch'apid | stupid 的方言发音 | She pronounced stupid like Grandma did, stch'apid |
-| flinched | 退缩、畏缩 | Then I flinched |
-| croaky | 沙哑的、嘶哑的 | My voice sounded oddly croaky |
-| scold | 责骂、训斥 | I thought she was going to scold me |
-| door-frame | 门框 | one on the door-frame |
-| flushed | 脸红的、涨红的 | cheeks flushed |
-| green around the gills | 脸色发青、恶心 | You look a little green around the gills |
-| triangle-roofed | 三角屋顶的 | the triangle-roofed, blackened clapboard barn |
-| blackened | 熏黑的、烧黑的 | the triangle-roofed, blackened clapboard barn |
-| clapboard | 木板墙、护墙板 | the triangle-roofed, blackened clapboard barn |
-| Non-metal road | 非金属道路 | a sign that said Non-metal road |
-| unsuitable | 不合适的、不适宜的 | unsuitable for vehicles |
-| hawthorn | 山楂 | high hedges of hawthorn |
-| cow parsley | 牛芹、野胡萝卜 | fern, cow parsley, buttercup |
-| buttercup | 毛茛 | fern, cow parsley, buttercup |
-| red campion | 红剪秋罗 | buttercup and red campion |
-| hemmed in | 被包围、被困住 | the feeling of both being hemmed in and hidden |
-| lumbering | 笨重的、缓慢移动的 | his herds of lumbering red-brown cows |
-| eyelashes | 睫毛 | long eyelashes and flicking tails |
-| flicking | 轻弹、甩动 | long eyelashes and flicking tails |
-| rasping | 刺耳的、粗糙的 | despite their rasping breath |
-| cambered | 拱形的、弧形的 | legions marching on their cambered surface |
-| chipped | 有缺口的、破损的 | a chipped flint |
-| flint | 燧石、火石 | a chipped flint |
-| flattened | 压平的、扁平的 | in the flattened mud |
-| Palaeolithic | 旧石器时代的 | a discarded Palaeolithic spearhead |
-| spearhead | 矛头、梭镖头 | a discarded Palaeolithic spearhead |
-| hedgerows | 树篱、灌木篱墙 | whipping the hedgerows with sticks |
-| elaborate | 精心制作的、复杂的 | creating elaborate storylines |
-| ribbed | 有棱的、有肋的 | the ribbed hollow stems of the cow parsley |
-| hollow | 空心的、中空的 | the ribbed hollow stems of the cow parsley |
-| telescope | 望远镜 | It's a telescope that you put to your eye |
-| naval | 海军的 | Dad had kept a naval telescope |
-| chest of drawers | 五斗柜、抽屉柜 | on his chest of drawers |
-| brass | 黄铜 | Brass, spun with thin black rope |
-| spun | 旋转、纺 | Brass, spun with thin black rope |
-| long-distance | 远距离的 | enjoying the long-distance view |
-| orange-tip | 橙尖蝶（蝴蝶） | an orange-tip butterfly |
-| inflection | 语调、音调变化 | she made an inflection of disappointment |
-| splayed | 张开、摊开 | I balled my fist and then splayed it like a flash |
-| Captain | 队长、船长 | I'll be Captain, I added |
-| Keeper of the Secrets | 秘密守护者 | I'll be Keeper of the Secrets |
-| scowled | 怒视、皱眉 | It is, she scowled |
-| grabbed | 抓住、握住 | She grabbed my wrist |
-| tickled | 使发痒、使刺痒 | Her breath in my ear tickled |
-| recoil | 退缩、畏缩 | made me recoil |
-| popping | 爆裂声、啪啪声 | the popping noise she did at bedtime |
-| prickle | 刺痛、刺痒感 | A prickle ran round my collar |
-| collar | 衣领、领子 | A prickle ran round my collar |
-| shuddered | 颤抖、发抖 | Then I shuddered |
-| siblings | 兄弟姐妹 | the three siblings |
-| remote | 偏远的、遥远的 | at a remote farm |
-| blown off | 炸飞、炸掉 | heads blown off |
-| shotgun | 猎枪、霰弹枪 | a shotgun close by |
-| murder-suicide | 谋杀-自杀 | it was a murder-suicide |
-| rural | 农村的、乡村的 | rural communities |
-| isolated | 孤立的、隔绝的 | being isolated from the modern world |
-| Victorian | 维多利亚时代的 | living more as if it were Victorian times |
-| disloyal | 不忠诚的、背叛的 | I felt disloyal to Julian |
-| newfound | 新发现的、新获得的 | after our newfound true |
-| coincidence | 巧合、一致 | voice ringing with coincidence |
+|---|---|---|
+| floorboards | 地板条、木地板 | Perry ran down the corridor past the room where we played, her footfall making the floorboards squeak under the carpet. |
+| mid-sentence | 说到一半 | She was mid-sentence. |
+| interrupting | 打断、插话 | Whoever she was talking to kept interrupting. |
+| shattering | 破碎、碎裂 | After a moment, I heard a noise like china shattering in the ceramic sink. |
+| pronounced | 发音、念作 | She pronounced stupid like Grandma did, stch’apid. |
+| door-frame | 门框 | I thought she was going to scold me, but she just stood there, one hand on the door handle, one on the door-frame, cheeks flushed. |
+| triangle-roofed | 三角屋顶的 | Beyond the garden was the triangle-roofed, blackened clapboard barn. |
+| unsuitable | 不适宜的、不适合的 | Beyond that a sign that said Non-metal road, unsuitable for vehicles. |
+| Palaeolithic | 旧石器时代的 | And once I had found a chipped flint in the flattened mud that I fancied was a discarded Palaeolithic spearhead. |
+| telescopes | 望远镜（复数） | You put all telescopes to your eye, I said, doubtfully. |
+| doubtfully | 疑惑地、不确定地 | You put all telescopes to your eye, I said, doubtfully. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| telephone | 电话 | the telephone ringing |
-| footfall | 脚步声 | her footfall |
-| floorboards | 地板 | the floorboards squeak |
-| freckles | 雀斑 | all the freckles |
-| scar | 疤痕 | a small white scar |
-| mocking | 嘲笑 | He was mocking |
-| silvery | 银铃般的 | Perry's silvery voice |
-| kukri | 库克利弯刀 | used his kukri |
-| sapper | 工兵 | on a sapper |
-| fibbing | 撒谎 | I'm not fibbing |
-| descended | 走下 | as I descended |
-| tiptoes | 踮脚 | on tiptoes |
-| mid-sentence | 话到一半 | She was mid-sentence |
-| nonetheless | 然而 | I understand. Nonetheless |
-| priority | 优先 | – Priority, exactly |
-| hmmed | 哼 | She hmmed and hmmed |
-| cornering | 逼迫 | I am not cornering you |
-| annoyed | 恼怒 | She sounded annoyed |
-| heartbeat | 心跳 | My heartbeat was in my ears |
-| receiver | 听筒 | through the receiver |
-| strained | 费力 | If I really strained |
-| thumps | 重击声 | some dull thumps |
-| aeroplane | 飞机 | an aeroplane far off |
-| tinkling | 叮当声 | the tinkling sound |
-| bally well | 十足 | bally well ask |
-| china | 瓷器 | china shattering |
-| shattering | 破碎 | china shattering |
-| ceramic | 陶瓷 | the ceramic sink |
-| stch'apid | stupid 方言 | stch'apid |
-| flinched | 退缩 | Then I flinched |
-| croaky | 沙哑 | My voice sounded oddly croaky |
-| scold | 责骂 | going to scold me |
-| door-frame | 门框 | one on the door-frame |
-| flushed | 脸红 | cheeks flushed |
-| green around the gills | 脸色发青 | You look a little green around the gills |
-| triangle-roofed | 三角屋顶 | the triangle-roofed barn |
-| blackened | 熏黑 | blackened clapboard barn |
-| clapboard | 木板墙 | blackened clapboard barn |
-| Non-metal road | 非金属道路 | a sign that said Non-metal road |
-| unsuitable | 不合适 | unsuitable for vehicles |
-| hawthorn | 山楂 | hedges of hawthorn |
-| cow parsley | 牛芹 | fern, cow parsley |
-| buttercup | 毛茛 | cow parsley, buttercup |
-| red campion | 红剪秋罗 | buttercup and red campion |
-| hemmed in | 被包围 | being hemmed in |
-| lumbering | 笨重 | lumbering red-brown cows |
-| eyelashes | 睫毛 | long eyelashes |
-| flicking | 轻弹 | flicking tails |
-| rasping | 刺耳 | their rasping breath |
-| cambered | 拱形 | their cambered surface |
-| chipped | 有缺口 | a chipped flint |
-| flint | 燧石 | a chipped flint |
-| flattened | 压平 | in the flattened mud |
-| Palaeolithic | 旧石器时代 | a Palaeolithic spearhead |
-| spearhead | 矛头 | a Palaeolithic spearhead |
-| hedgerows | 树篱 | whipping the hedgerows |
-| elaborate | 精心制作 | elaborate storylines |
-| ribbed | 有棱 | the ribbed hollow stems |
-| hollow | 空心 | the ribbed hollow stems |
-| telescope | 望远镜 | It's a telescope |
-| naval | 海军 | a naval telescope |
-| chest of drawers | 五斗柜 | his chest of drawers |
-| brass | 黄铜 | Brass, spun |
-| spun | 旋转 | spun with thin black rope |
-| long-distance | 远距离 | the long-distance view |
-| orange-tip | 橙尖蝶 | an orange-tip butterfly |
-| inflection | 语调 | an inflection of disappointment |
-| splayed | 张开 | splayed it like a flash |
-| Captain | 队长 | I'll be Captain |
-| Keeper of the Secrets | 秘密守护者 | I'll be Keeper of the Secrets |
-| scowled | 怒视 | she scowled |
-| grabbed | 抓住 | She grabbed my wrist |
-| tickled | 使发痒 | breath in my ear tickled |
-| recoil | 退缩 | made me recoil |
-| popping | 爆裂声 | the popping noise |
-| prickle | 刺痛 | A prickle ran round |
-| collar | 衣领 | round my collar |
-| shuddered | 颤抖 | Then I shuddered |
-| siblings | 兄弟姐妹 | the three siblings |
-| remote | 偏远 | at a remote farm |
-| blown off | 炸飞 | heads blown off |
-| shotgun | 猎枪 | a shotgun close by |
-| murder-suicide | 谋杀-自杀 | a murder-suicide |
-| rural | 农村 | rural communities |
-| isolated | 隔绝 | isolated from the modern world |
-| Victorian | 维多利亚时代 | Victorian times |
-| disloyal | 不忠诚 | I felt disloyal |
-| newfound | 新发现 | our newfound true |
-| coincidence | 巧合 | voice ringing with coincidence |
+|---|---|---|
+| corridor | 走廊、过道 | Perry ran down the corridor past the room where we played, her footfall making the floorboards squeak under the carpet. |
+| footfall | 脚步声 | Perry ran down the corridor past the room where we played, her footfall making the floorboards squeak under the carpet. |
+| freckles | 雀斑 | We were both lying on our stomachs now and he was so close, I could see all the freckles on his nose and a small white scar in his eyebrow. |
+| stomachs | 肚子、腹部 | We were both lying on our stomachs now and he was so close, I could see all the freckles on his nose and a small white scar in his eyebrow. |
+| changing | 改变、变换 | She doesn’t have a telephone, I said, changing position on the floor and making the sound for one of the cannons. |
+| position | 位置、姿势 | She doesn’t have a telephone, I said, changing position on the floor and making the sound for one of the cannons. |
+| happened | 发生 | Then what happened? |
+| scrambled | （手脚并用地）爬、挣扎起身 | I scrambled to my knees. |
+| quickest | 最快的 | The back stairs were the quickest way to the kitchen. |
+| descended | 走下、下来 | My breath was hot on my chest as I descended on tiptoes, trying to be both quick and quiet on the bare wood. |
+| obviously | 显然、明显地 | And obviously, they’d prefer it if you did. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| telephone | 电话 | the telephone ringing |
-| footfall | 脚步声 | her footfall |
-| floorboards | 地板 | the floorboards |
-| freckles | 雀斑 | all the freckles |
-| scar | 疤痕 | a small white scar |
-| mocking | 嘲笑 | He was mocking |
-| silvery | 银铃般的 | silvery voice |
-| kukri | 库克利弯刀 | his kukri |
-| sapper | 工兵 | on a sapper |
-| fibbing | 撒谎 | I'm not fibbing |
-| descended | 走下 | as I descended |
-| tiptoes | 踮脚 | on tiptoes |
-| mid-sentence | 话到一半 | She was mid-sentence |
-| nonetheless | 然而 | I understand. Nonetheless |
-| priority | 优先 | – Priority, exactly |
-| hmmed | 哼 | She hmmed |
-| cornering | 逼迫 | I am not cornering |
-| annoyed | 恼怒 | She sounded annoyed |
-| heartbeat | 心跳 | My heartbeat |
-| receiver | 听筒 | through the receiver |
-| strained | 费力 | If I really strained |
-| thumps | 重击声 | some dull thumps |
-| aeroplane | 飞机 | an aeroplane |
-| tinkling | 叮当声 | the tinkling sound |
-| bally well | 十足 | bally well ask |
-| china | 瓷器 | china shattering |
-| shattering | 破碎 | china shattering |
-| ceramic | 陶瓷 | the ceramic sink |
-| stch'apid | stupid 方言 | stch'apid |
-| flinched | 退缩 | Then I flinched |
-| croaky | 沙哑 | My voice sounded croaky |
-| scold | 责骂 | going to scold me |
-| door-frame | 门框 | one on the door-frame |
-| flushed | 脸红 | cheeks flushed |
-| green around the gills | 脸色发青 | green around the gills |
-| triangle-roofed | 三角屋顶 | triangle-roofed barn |
-| blackened | 熏黑 | blackened clapboard |
-| clapboard | 木板墙 | clapboard barn |
-| Non-metal road | 非金属道路 | Non-metal road |
-| unsuitable | 不合适 | unsuitable for vehicles |
-| hawthorn | 山楂 | hedges of hawthorn |
-| cow parsley | 牛芹 | fern, cow parsley |
-| buttercup | 毛茛 | cow parsley, buttercup |
-| red campion | 红剪秋罗 | buttercup and red campion |
-| hemmed in | 被包围 | being hemmed in |
-| lumbering | 笨重 | lumbering cows |
-| eyelashes | 睫毛 | long eyelashes |
-| flicking | 轻弹 | flicking tails |
-| rasping | 刺耳 | rasping breath |
-| cambered | 拱形 | cambered surface |
-| chipped | 有缺口 | a chipped flint |
-| flint | 燧石 | a chipped flint |
-| flattened | 压平 | flattened mud |
-| Palaeolithic | 旧石器时代 | Palaeolithic spearhead |
-| spearhead | 矛头 | Palaeolithic spearhead |
-| hedgerows | 树篱 | whipping the hedgerows |
-| elaborate | 精心制作 | elaborate storylines |
-| ribbed | 有棱 | ribbed hollow stems |
-| hollow | 空心 | hollow stems |
-| telescope | 望远镜 | It's a telescope |
-| naval | 海军 | a naval telescope |
-| chest of drawers | 五斗柜 | chest of drawers |
-| brass | 黄铜 | Brass, spun |
-| spun | 旋转 | spun with thin black rope |
-| long-distance | 远距离 | long-distance view |
-| orange-tip | 橙尖蝶 | an orange-tip butterfly |
-| inflection | 语调 | an inflection |
-| splayed | 张开 | splayed it |
-| Captain | 队长 | I'll be Captain |
-| Keeper of the Secrets | 秘密守护者 | Keeper of the Secrets |
-| scowled | 怒视 | she scowled |
-| grabbed | 抓住 | She grabbed |
-| tickled | 使发痒 | breath tickled |
-| recoil | 退缩 | made me recoil |
-| popping | 爆裂声 | the popping noise |
-| prickle | 刺痛 | A prickle |
-| collar | 衣领 | my collar |
-| shuddered | 颤抖 | Then I shuddered |
-| siblings | 兄弟姐妹 | the three siblings |
-| remote | 偏远 | a remote farm |
-| blown off | 炸飞 | heads blown off |
-| shotgun | 猎枪 | a shotgun |
-| murder-suicide | 谋杀-自杀 | a murder-suicide |
-| rural | 农村 | rural communities |
-| isolated | 隔绝 | isolated from |
-| Victorian | 维多利亚时代 | Victorian times |
-| disloyal | 不忠诚 | I felt disloyal |
-| newfound | 新发现 | our newfound true |
-| coincidence | 巧合 | with coincidence |
+|---|---|---|
+| back stairs | 后楼梯 | The back stairs were the quickest way to the kitchen. |
+| bad idea | 坏主意 | It was not a bad idea. |
+| broad saw | （锯子般的）刺耳长音 | But I could only hear Perry, some dull thumps upstairs that must be my cousins, and the broad saw of an aeroplane far off. |
+| boot | 靴子 | I banged my stick on the end of my boot. |
+| carpet | 地毯 | Perry ran down the corridor past the room where we played, her footfall making the floorboards squeak under the carpet. |
+| chair | 椅子 | The chair scraped and I imagined her pulling it close to the phone as I’d seen her do to sit down. |
 
 ## 一句话总结
 
-Julian 告诉 Frank "Mum 打过电话"，Frank 偷听到 Perry 与 Mum 的通话（Perry 试图说服 Mum 让 Frank 和 Odette 回去，Mum 拒绝了）；Perry 发现 Frank 在偷听，没有责骂，而是让他带狗出去透气；Frank 和 Odette 在田野里玩"间谍游戏"，Odette 透露 Julian 告诉她"有人死在了 Mum 的床上"——一个关于这个家的黑暗秘密。
+作者把一通电话拆成只剩 Perry 这一半，让 Frank（和读者）停在 "I could only hear Perry" 的位置上——母亲被削减成一个听不见的声音，这比一次明确的拒绝更彻底。Perry 不罚他而把他支使出去，是这本书里大人一贯的处理方式：把危险移出视线。结尾 Odette 转述 "someone died in Mum's bed" 时，Frank 刚教完她"闪一次就是 Run"的手势——他自造的密码，恰好预告了他还叫不出名字的恐惧。

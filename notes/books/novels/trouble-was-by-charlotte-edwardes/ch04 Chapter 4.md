@@ -109,134 +109,49 @@ modified: "2026-10-15"
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| pallor | 苍白、面色灰白 | Her pallor was yellowed, like the underside of a foot |
-| wainscoting | 护墙板、壁板 | a shuttered-up dining room with wainscoting |
-| galleon | 大帆船 | a captain's cabin aboard a galleon |
-| loopier | 神志不清的、疯狂的 | here I am feeling loopier and loopier |
-| disembodied | 脱离躯体的、无形的 | I had the sense she was floating disembodied |
-| Jaclyn Smith | 杰琳·史密斯（美国女星） | North Devon's Jaclyn Smith |
-| lummox | 笨汉、蠢人 | That's the other one, you lummox |
-| ferrety | 像雪貂的、目光锐利的 | A man with ferrety eyes |
-| Aliage | 雅丽丝（香水品牌） | her Aliage was blended with the smell of Cinzano |
-| wrung out | 精疲力竭的 | perfectly normal to feel wrung out |
-| guernsey | 根西岛毛衣（厚羊毛衫） | her mustard guernsey with a pink silk scarf |
+|---|---|---|
+| put-you-up | （英式口语）折叠床 | Perry brought in a put-you-up – which looked like a sunbed: blue canvas stretched around a frame foxed with rust. |
+| stone-floored | 石铺地面的 | In the far end, the passages were stone-floored and chilly. |
+| cartridges | 弹药筒、霰弹 | There were newspapers, a recorder, exercise books, red shotgun cartridges, an LP with a lady on the front but no record inside. |
+| semi-transparent | 半透明的 | Her background was a mixture of titanium white, ivory black and burnt sienna, she said, because it gave an uneven tone, semi-transparent. |
+| disembodied | 魂不附体的、脱离躯体的 | As the outline of her head and features emerged from the canvas, I had the sense she was floating disembodied. |
+| stabilisers | （英式）自行车辅助轮 | Odette’s was blue and white, and Patrick’s red and green with stabilisers. |
+| squelching | 吧唧作响的 | Even Odette was quiet, her eyes unfocused, sucking away on that thumb, stopping only to say a squelching, More! |
+| semi-whispering | 半压着嗓子的 | She was still semi-whispering as she snapped on her rollers and went to the large wardrobe. |
+| side-parting | 偏分（发型） | In the mirror, I saw myself, pale in my teddy pyjamas, mousy hair flattened to a side-parting where Mum had stroked it while she read. |
+| silhouette | 剪影 | Perry had the side lamps on and in their yellowy glow my first impression was the guests in silhouette, framed by the door. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| put-you-up | 折叠床 | Perry brought in a put-you-up |
-| foxed | 生锈的、斑驳的 | a frame foxed with rust |
-| bracken | 蕨类植物 | whipping the bracken with sticks |
-| wellingtons | 威灵顿靴（雨靴） | pressing and pulling against our wellingtons |
-| perks | 额外收入、好处 | The proximity of the sea had been one of the perks |
-| inhale | 吸气、吸入 | hear its inhale |
-| groaning | 呻吟、抱怨 | groaning or sleeping in front of the fire |
-| sprouting | 发芽、长出 | sprouting tulips and cowslips |
-| cowslips | 黄花九轮草 | tulips and cowslips to replace the daffodils |
-| rattrap | 捕鼠器 | grinning like a rattrap |
-| scuttle | 煤斗、煤箱 | grinning like a coal scuttle |
-| conked out | 睡着、昏倒 | Odette and Patrick who had conked out |
-| rollers | 卷发器 | she snapped on her rollers |
-| fuchsia | 紫红色、倒挂金钟 | a long skirt with a fuchsia print |
-| ribbed | 有棱纹的、起皱的 | made my lips feel ribbed |
-| silhouetted | 成剪影的 | the guests in silhouette |
-| throng | 人群、群众 | Frette came wagging out of the throng |
-| blousy | 宽松的、肥大的 | long blousy dresses |
-| embroidery | 刺绣、绣花 | dresses with embroidery bibs |
-| burgundy | 勃艮第红、酒红色 | a burgundy corduroy skirt |
-| corduroy | 灯芯绒 | a burgundy corduroy skirt |
-| fetching | 迷人的、动人的 | Goodness, what a fetching get-up |
-| atrocious | 极坏的、糟糕的 | I was an atrocious pig |
-| marvellous | 极好的、非凡的 | He told Mum I was marvellous |
-| rectory | 牧师住宅、教区住宅 | the old rectory across from the church |
-| shepherd | 牧羊人 | He's a shepherd |
-| Nativity | 耶稣诞生、圣诞场景 | I didn't know they existed outside the Nativity |
-| tickled | 高兴的、逗乐的 | Billy looked tickled |
-| clawed | 有爪的、抓挠的 | Martin's angry skin looked clawed with a fork |
-| brogues | 布洛克鞋 | Mr Bentle was in brogues |
-| snub-ends | 圆头、钝头 | The round polished snub-ends of their shoes |
-| loafer | 乐福鞋 | Perry ran her loafer up and down the back of her calf |
-| circulate | 走动、应酬 | Mum squeezed my shoulder to say I should circulate |
-| Cinzano | 仙山露（苦艾酒品牌） | Perry returned with a Cinzano |
-| intoxicating | 令人陶醉的、令人兴奋的 | a combination I found intoxicating |
-| Barnstaple | 巴恩斯特珀尔（英国小镇） | Should we go into Barnstaple? |
-| blazers | 校服西装、夹克 | the image of my cousins in their ties and blazers |
-| anticipation | 期待、预期 | the anticipation sharpened to nervousness |
-| evaporated | 蒸发、消失 | the dark cloud over our end had evaporated |
-| salvo | 齐射、一阵 | Another salvo rained down |
-| writhe | 扭动、翻滚 | made me writhe and kick the blankets |
-| neurotic | 神经质的、焦虑的 | Don't be neurotic, Perry said |
-| satchel | 书包、单肩包 | I was thinking also of the soft tan satchel |
-| easel | 画架 | put up an easel |
-| turps | 松节油 | dipping brushes in turps |
-| sienna | 赭石色、熟赭 | titanium white, ivory black and burnt sienna |
-| bluish | 微蓝色的 | the best light, which she said was bluish |
-| clumpy | 成团的、块状的 | Her hair looked clumpy |
-| pester | 纠缠、烦扰 | For Christ's sake, Frank, stop pestering me |
-| kaftan | 长袍、卡夫坦 | She pulled out a kaftan |
-| cackle | 咯咯笑、尖笑 | This made the other two cackle |
-| murder | 谋杀、谋杀案 | Cried blue murder when your grandfather was around |
+|---|---|---|
+| yellowed | 泛黄的 | Her pallor was yellowed, like the underside of a foot. |
+| juddering | 抖动、震颤 | I could hear the juddering in her cries where Mum was shaking her to try to make her stop. |
+| camp-bed | 行军床、折叠床 | That first night on the camp-bed Odette’s tantrums went on for hours. |
+| tantrums | 脾气发作 | That first night on the camp-bed Odette’s tantrums went on for hours. |
+| playgroup | 幼儿游戏班 | During the day our cousins went to school and playgroup, so we had the run of the house. |
+| proximity | 邻近、靠近 | The proximity of the sea had been one of the perks Mum had sold us on the way here. |
+| imperious | 专横的、盛气凌人的 | It was as if the other Mum, the tired, bed version who called Perry imperious, did not exist any more. |
+| squinted | 眯着眼看 | In the fading evening light, if I squinted, I could make it look like a cotton reel. |
+| pestering | 纠缠、烦扰 | For Christ’s sake, Frank, stop pestering me. |
+| hoovered | 用吸尘器吸过 | The rug pile looked aggressively hoovered. |
+| sprawled | 摊开四肢（躺着） | My cousins were sprawled across the large sofa, Crispin without a shirt so that his sharp ribcage was on display. |
+| hysterics | 狂笑不止 | They folded in hysterics, Crispin losing his balance and falling to the floor. |
+| mingling | 混合、交融 | There was a mingling of perfumes, cigarettes and woodsmoke. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| pallor | 苍白 | Her pallor was yellowed |
-| clumpy | 成团的 | Her hair looked clumpy |
-| put-you-up | 折叠床 | Perry brought in a put-you-up |
-| foxed | 生锈的 | a frame foxed with rust |
-| wainscoting | 护墙板 | a shuttered-up dining room with wainscoting |
-| galleon | 大帆船 | a captain's cabin aboard a galleon |
-| bracken | 蕨类 | whipping the bracken with sticks |
-| wellingtons | 雨靴 | pressing and pulling against our wellingtons |
-| perks | 好处 | one of the perks Mum had sold us |
-| inhale | 吸气 | hear its inhale |
-| groaning | 呻吟 | groaning or sleeping |
-| sprouting | 发芽 | sprouting tulips |
-| cowslips | 黄花九轮草 | tulips and cowslips |
-| dingo | 澳洲野犬 | Yellow dog dingo |
-| rattrap | 捕鼠器 | grinning like a rattrap |
-| scuttle | 煤斗 | grinning like a coal scuttle |
-| conked | 睡着 | who had conked out |
-| nudge | 轻推 | Mum nudged me |
-| rollers | 卷发器 | snapped on her rollers |
-| fuchsia | 紫红色 | a long skirt with a fuchsia print |
-| ribbed | 起皱的 | made my lips feel ribbed |
-| silhouetted | 剪影 | the guests in silhouette |
-| throng | 人群 | wagging out of the throng |
-| blousy | 宽松的 | long blousy dresses |
-| embroidery | 刺绣 | embroidery bibs |
-| burgundy | 酒红色 | a burgundy corduroy skirt |
-| corduroy | 灯芯绒 | a burgundy corduroy skirt |
-| Jaclyn | 杰琳 | North Devon's Jaclyn Smith |
-| ferrety | 像雪貂的 | ferrety eyes |
-| atrocious | 极坏的 | an atrocious pig |
-| marvellous | 极好的 | I was marvellous |
-| rectory | 牧师住宅 | the old rectory |
-| shepherd | 牧羊人 | He's a shepherd |
-| Nativity | 耶稣诞生 | outside the Nativity |
-| tickled | 高兴的 | Billy looked tickled |
-| clawed | 有爪的 | looked clawed with a fork |
-| brogues | 布洛克鞋 | in brogues |
-| snub-ends | 圆头 | snub-ends of their shoes |
-| loafer | 乐福鞋 | ran her loafer |
-| circulate | 走动 | I should circulate |
-| Cinzano | 仙山露 | with a Cinzano |
-| Aliage | 雅丽丝 | her Aliage |
-| intoxicating | 令人陶醉的 | I found intoxicating |
-| Barnstaple | 巴恩斯特珀尔 | go into Barnstaple |
-| blazers | 校服西装 | in their ties and blazers |
-| anticipation | 期待 | the anticipation sharpened |
-| evaporated | 蒸发 | had evaporated |
-| biting | 刺痛的 | a hail of biting stones |
-| cackle | 咯咯笑 | the other two cackle |
-| lummox | 笨汉 | you lummox |
-| draining | 排水 | On the draining board |
-| fury | 愤怒 | went at it with a fury |
-| murder | 谋杀 | Cried blue murder |
+|---|---|---|
+| coal scuttle | 煤斗、煤桶 | Yellow dog dingo, grinning like a rattrap; grinning like a coal scuttle. |
+| cotton reel | 线轴 | In the fading evening light, if I squinted, I could make it look like a cotton reel. |
+| kaftan | 卡夫坦长衫（宽松长袍） | I clenched my buttocks and held my breath, wishing I’d told her to wear the kaftan. |
+| mustard guernsey | 芥末色的根西毛衣 | In the evening, when Mum had drinks with Perry, she wore her mustard guernsey with a pink silk scarf tied around her neck. |
+| rug pile | 地毯的绒面 | The rug pile looked aggressively hoovered. |
+| side lamps | 侧灯、壁灯 | Perry had the side lamps on and in their yellowy glow my first impression was the guests in silhouette, framed by the door. |
+| pyjamas | （英式）睡衣 | I guessed it was my pyjamas. |
+| wellingtons | 威灵顿雨靴 | But we hadn’t yet been to the sea, hadn’t felt the energy of it pressing and pulling against our wellingtons. |
 
 ## 一句话总结
 
-Mum 的抑郁在 Peridot 家持续，直到天气转好才重新开始画画；Frank 偷听到 Mum 向医生乞求帮助而被拒，又在 Perry 的生日派对上目睹 Mum 被农村社交圈包围，最后从表兄弟的嘲弄中再次听到"in debt"——这个词像诅咒一样缠着他们一家。
+这一章的主题是"复原"的表演性：母亲把自画像刻意画老，在派对上被人当作 exotic butterfly 观赏，天气一转好，全家便合谋假装此前几个月的卧床不曾发生。Frank 由此从守望者变成同谋——偷听到那句 wish I’d never had bloody children 之后，他学会的不是发问，而是把听懂的东西咽下去。报纸上那则 heads blown off 的灭门消息被母亲随意踩在脚下，这个家的灾难于是只是更大一片暴力背景上的一小块。

@@ -90,7 +90,7 @@ modified: "2026-10-15"
 
 **关键词**：preceding hours / parcel / handbrake / Carmen Rollers / elongated / smack
 
-**为什么这样写**：这个长句列举了 Mum 为父亲回家所做的所有准备——这些"看不见的劳动"是家庭暴力的另一面。"wait-in-the-car-and-don't-touch-the-handbrake"（在车里等着别碰手刹）是 Frank 童年的真实记忆，"Carmen Rollers"（卡门卷发器）是精确的品牌记忆，"elongated expressions"（拉长的嘴唇）是化妆的精确描写，"smack on Odette's legs"（打 Odette 的腿）是暴力的精确记忆。
+**为什么这样写**：这一串琐事由"he saw none of"总起，却由孩子一件件替父亲数了出来——父亲"看见"的只有结果，Frank 记住的却是代价：挨了打的 Odette、车里那句"don't-touch-the-handbrake"的叮嘱。细节越日常（"the parcel of meat"、"hanging on the door 'til the very last minute"），越显出这个家的平静是被谁用身体撑起来的。
 
 **读者视角提示**：Frank 看到了母亲"看不见的劳动"——他意识到这个家的"正常"是用多少努力换来的。
 
@@ -100,7 +100,7 @@ modified: "2026-10-15"
 
 **关键词**：blinding white ache / knuckles / rapped / skull
 
-**为什么这样写**："blinding white ache"（刺骨的白色疼痛）是通感——疼痛有了颜色和亮度。"knuckles"（指关节）和"rapped"（敲击）是精确的暴力描写，"skull"（头骨）让暴力有了生理上的真实感。这是全书中最直接的暴力记忆。
+**为什么这样写**：记忆停在动手的那一瞬：不是疼，而是"the blinding white ache his knuckles made as he rapped the top of my skull"——动作、工具与落点俱全，唯独没有一个情绪词。更冷的是紧接的一句"get that into your thick head"：父亲的声音作为台词被原样召回，暴力连同它的说辞一起留在了孩子身体里。
 
 **读者视角提示**：Frank 第一次回忆起父亲的暴力——这个"英俊水手"的背后是一个施暴者，这个记忆将改变 Frank 对父亲的理解。
 
@@ -109,181 +109,49 @@ modified: "2026-10-15"
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| triptych | 三联画、三折镜 | her triptych mirror |
-| brocade | 织锦、锦缎 | its glossy peak and brocade badge |
-| boatswain | 水手长 | They sounded like the boatswain's call |
-| fine-ribbed | 细罗纹的 | the white fine-ribbed cover |
-| Edwardian | 爱德华时代的 | Grandma was Edwardian |
-| impervious | 无动于衷的、不受影响的 | impervious to the feelings of children |
-| Carmen Rollers | 卡门卷发器（品牌） | the warm smell of Carmen Rollers |
-| VG Stores | VG 商店（品牌） | the wait-in-the-car-and-don't-touch-the-handbrake at VG Stores |
-| wait-in-the-car-and-don't-touch-the-handbrake | 在车里等着别碰手刹 | the wait-in-the-car-and-don't-touch-the-handbrake at VG Stores |
-| pigeon-toed | 内八字的 | The sharp kick he gave me for being pigeon-toed |
+|---|---|---|
+| disloyalty | 不忠、背叛（对亲人的负心） | I had another thought, and the disloyalty of it churned my insides, Would she take me if the other two didn’t exist? |
+| indignation | 愤慨、义愤 | The first time she’d said this, I wailed with indignation that it was not a tale but the truth. |
+| impervious | 无动于衷的、不受影响的（impervious to） | When I told Mum, she said Grandma was Edwardian and impervious to the feelings of children. |
+| scrabbling | 乱抓、扒挠 | She jumped on the bed, scrabbling under the covers. |
+| sandwiched | 被夹在中间 | They sandwiched me, both sleeping close, Odette with one leg slung over mine as if to pin me in place. |
+| overcrowding | 过度拥挤 | Reggie, sensing overcrowding, curled up on the floor with a deflating sigh. |
+| Seamanship | 航海术（此处指《航海手册》） | I tried to decipher the order, remembering the page in the Seamanship Manual. |
+| pigeon-toed | 内八字的 | The sharp kick he gave me for being pigeon-toed. |
+| fine-ribbed | 细罗纹的 | Often, I studied the white fine-ribbed cover and wondered what it would feel like to run my nails along it. |
+| scalding | 滚烫的 | The tears were scalding. |
+| bath-water | 洗澡水 | Earlier in the afternoon the three of us had been dipped in her grey bath-water and now we were in pyjamas, wet hair showing comb tracks. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| scalding | 灼热的、滚烫的 | The tears were scalding |
-| tweezers | 镊子 | In her hand were tweezers |
-| whinging | 抱怨、发牢骚 | I knew I was whinging like Odette |
-| churn | 搅乳器、奶桶 | up to the dairy to get the churn |
-| sulphur | 硫磺 | That gassy smell is called sulphur |
-| twill | 斜纹布 | in a beige twill coat |
-| gurgling | 咯咯的、汩汩的 | Mr Blake had a gurgling sort of chuckle |
-| chuckle | 轻笑、暗笑 | a gurgling sort of chuckle |
-| witch hazel | 金缕梅 | a cotton ball dipped in witch hazel |
-| stooped | 驼背的、弯腰的 | She was stooped |
-| summoned | 召唤、传唤 | she'd be summoned without warning |
-| pipe tobacco | 烟斗丝 | his pipe tobacco |
-| wailed | 嚎啕大哭 | I wailed with indignation |
-| indignation | 愤慨、愤怒 | I wailed with indignation |
-| peach stone | 桃核 | her face lined like a peach stone |
-| shredding | 撕碎、撕裂 | the tissue I was shredding |
-| barbed wire | 带刺铁丝网 | sheep's wool caught on barbed wire |
-| cumin | 孜然 | the smell of Pears' soap and cumin |
-| open-mouthed | 张着嘴的 | cried open-mouthed into her chest |
-| tugging | 拉、拽 | its handles tugging our arms from their sockets |
-| sockets | 插座、窝 | tugging our arms from their sockets |
-| stumbling | 结巴、蹒跚 | my stumbling over words |
-| beaded | 串珠的 | one of the beaded necklaces |
-| scent | 香水、气味 | sprayed some of Mum's scent |
-| spare |  spare | Mum will go spare |
-| reflection | 反射、倒影 | She caught my line of sight in the reflection |
-| sandwiched | 夹住、挤压 | They sandwiched me |
-| slung | 悬挂、甩 | one leg slung over mine |
-| overcrowding | 过度拥挤 | Reggie, sensing overcrowding |
-| deflating | 泄气的、萎靡的 | with a deflating sigh |
-| patterned | 有图案的 | enjoying the patterned texture |
-| texture | 质地、纹理 | enjoying the patterned texture |
-| black moss | 黑苔藓 | like black moss |
-| shrill | 尖锐的、刺耳的 | their shrill whine |
-| whine | 哀号、抱怨 | their shrill whine |
-| decipher | 解读、破译 | I tried to decipher the order |
-| Seamanship | 航海术 | remembering the page in the Seamanship Manual |
-| replicate | 复制、重复 | I tried to replicate the sound |
-| pursing | 撅起、缩拢 | pursing wet lips |
-| blended | 混合、融合 | all those Fridays blended into one yellow afternoon |
-| flower-print | 印花、花卉图案 | her bold flower-print dress |
-| kit bag | 装备袋、行李袋 | She took his kit bag |
-| glossy | 光滑的、有光泽的 | with its glossy peak |
-| peak | 帽檐、峰 | with its glossy peak |
-| badge | 徽章、标志 | brocade badge |
-| mitts | 手套 | never to touch it with my dirty mitts |
-| fine-ribbed | 细罗纹的 | the white fine-ribbed cover |
-| hair grease | 发油 | smelled of his hair grease |
-| shrugged | 耸肩 | Dad shrugged to help Mum slide off his jacket |
-| giggling | 咯咯笑 | She was giggling |
-| whisky | 威士忌 | she passed him whisky |
-| hummed | 哼唱 | She hummed as she mixed her gin and Cin |
-| clink | 碰杯、叮当 | She didn't clink |
-| tilt | 倾斜、歪头 | she did say, Cheers, and tilt her head |
-| eye shadow | 眼影 | all the blue eye shadow |
-| dipped | 浸泡、蘸 | the three of us had been dipped in her grey bath-water |
-| comb tracks | 梳痕 | wet hair showing comb tracks |
-| depended | 依赖、取决于 | his coming home depended on our being good |
-| masking | 掩盖、掩饰 | masking the spray polish |
-| spray polish | 喷雾抛光剂 | masking the spray polish |
-| carpet powder | 地毯粉 | carpet powder Odette had overused |
-| overused | 过度使用 | carpet powder Odette had overused |
-| parcel | 包裹、肉块 | the parcel of meat at the butcher's |
-| elongated | 拉长的、延长的 | Mum's elongated expressions |
-| mascara | 睫毛膏 | for lipstick and mascara |
-| smack | 打、掴 | the smack on Odette's legs |
-| preceding | 先前的、前面的 | He saw none of the preceding hours |
-| blinding | 刺眼的、致盲的 | the blinding white ache |
-| ache | 疼痛、痛苦 | the blinding white ache |
-| knuckles | 指关节 | his knuckles made as he rapped |
-| rapped | 敲击、拍 | as he rapped the top of my skull |
-| skull | 头骨、颅骨 | the top of my skull |
-| propelled | 推动、推进 | The way it propelled me from the waist |
-| sting | 刺痛、刺痛感 | the hot sting of his dislike |
-| dislike | 不喜欢、厌恶 | his dislike of me |
-| gulp | 吞咽、大口吸气 | I opened my mouth to gulp air |
+|---|---|---|
+| triptych | 三联镜（三折镜） | I was sitting with Mum at her triptych mirror which had been delivered at the same time as the bikes. |
+| summoned | 被叫去、被召唤 | When we were smaller, she’d be summoned without warning, or we’d be left with her and Grandpa, our eyes becoming sore from his pipe tobacco. |
+| shredding | 撕成碎片 | In my lap, the tissue I was shredding looked like sheep’s wool caught on barbed wire. |
+| tweezers | 镊子 | In her hand were tweezers. |
+| Edwardian | 爱德华时代的 | When I told Mum, she said Grandma was Edwardian and impervious to the feelings of children. |
+| boatswain | 水手长（船上管缆绳的士官） | They sounded like the boatswain’s call. |
+| flower-print | 印花（花卉图案的） | Mum in her bold flower-print dress with the long collars, throwing her arms around Dad’s neck. |
+| barbed | 带倒刺的；尖刻的 | In my lap, the tissue I was shredding looked like sheep’s wool caught on barbed wire. |
+| dabbing | 轻拍、轻敷 | She began dabbing her brow with a cotton ball dipped in witch hazel. |
+| stooped | 驼背的、佝偻的 | She was stooped and we had to repeat things close to her ear before she understood. |
+| wailed | 哭喊、哀号 | The first time she’d said this, I wailed with indignation that it was not a tale but the truth. |
+| dipped | 蘸了（dipped in） | She began dabbing her brow with a cotton ball dipped in witch hazel. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| scalding | 灼热的 | The tears were scalding |
-| tweezers | 镊子 | In her hand were tweezers |
-| whinging | 抱怨 | I knew I was whinging |
-| churn | 搅乳器 | to get the churn |
-| sulphur | 硫磺 | called sulphur |
-| twill | 斜纹布 | a beige twill coat |
-| gurgling | 咯咯的 | a gurgling sort of chuckle |
-| chuckle | 轻笑 | a gurgling sort of chuckle |
-| witch hazel | 金缕梅 | dipped in witch hazel |
-| stooped | 驼背的 | She was stooped |
-| summoned | 召唤 | she'd be summoned |
-| pipe tobacco | 烟斗丝 | his pipe tobacco |
-| wailed | 嚎啕 | I wailed with indignation |
-| indignation | 愤慨 | I wailed with indignation |
-| peach stone | 桃核 | like a peach stone |
-| shredding | 撕碎 | the tissue I was shredding |
-| barbed wire | 带刺铁丝网 | caught on barbed wire |
-| cumin | 孜然 | soap and cumin |
-| open-mouthed | 张着嘴的 | cried open-mouthed |
-| tugging | 拉 | handles tugging our arms |
-| sockets | 窝 | from their sockets |
-| stumbling | 结巴 | my stumbling over words |
-| beaded | 串珠的 | beaded necklaces |
-| scent | 香水 | Mum's scent |
-| spare |  spare | go spare |
-| reflection | 倒影 | in the reflection |
-| sandwiched | 夹住 | They sandwiched me |
-| slung | 甩 | one leg slung over mine |
-| overcrowding | 过度拥挤 | sensing overcrowding |
-| deflating | 泄气的 | a deflating sigh |
-| patterned | 有图案的 | the patterned texture |
-| texture | 质地 | the patterned texture |
-| black moss | 黑苔藓 | like black moss |
-| shrill | 尖锐的 | their shrill whine |
-| whine | 哀号 | their shrill whine |
-| decipher | 解读 | I tried to decipher |
-| Seamanship | 航海术 | the Seamanship Manual |
-| replicate | 复制 | I tried to replicate |
-| pursing | 撅起 | pursing wet lips |
-| blended | 混合 | all those Fridays blended |
-| flower-print | 印花 | her bold flower-print dress |
-| kit bag | 装备袋 | his kit bag |
-| glossy | 光滑的 | its glossy peak |
-| peak | 帽檐 | its glossy peak |
-| badge | 徽章 | brocade badge |
-| mitts | 手套 | my dirty mitts |
-| fine-ribbed | 细罗纹的 | the white fine-ribbed cover |
-| hair grease | 发油 | smelled of his hair grease |
-| shrugged | 耸肩 | Dad shrugged |
-| giggling | 咯咯笑 | She was giggling |
-| whisky | 威士忌 | she passed him whisky |
-| hummed | 哼唱 | She hummed |
-| clink | 碰杯 | She didn't clink |
-| tilt | 倾斜 | tilt her head |
-| eye shadow | 眼影 | blue eye shadow |
-| dipped | 浸泡 | had been dipped |
-| comb tracks | 梳痕 | wet hair showing comb tracks |
-| depended | 取决于 | depended on our being good |
-| masking | 掩盖 | masking the spray polish |
-| spray polish | 喷雾抛光剂 | masking the spray polish |
-| carpet powder | 地毯粉 | carpet powder |
-| overused | 过度使用 | had overused |
-| parcel | 包裹 | the parcel of meat |
-| butcher's | 肉铺 | at the butcher's |
-| elongated | 拉长的 | Mum's elongated expressions |
-| mascara | 睫毛膏 | lipstick and mascara |
-| smack | 打 | the smack on Odette's legs |
-| preceding | 先前的 | the preceding hours |
-| blinding | 刺眼的 | the blinding white ache |
-| ache | 疼痛 | the blinding white ache |
-| knuckles | 指关节 | his knuckles |
-| rapped | 敲击 | as he rapped |
-| skull | 头骨 | the top of my skull |
-| propelled | 推动 | it propelled me |
-| sting | 刺痛 | the hot sting |
-| dislike | 厌恶 | his dislike of me |
-| gulp | 吞咽 | to gulp air |
+|---|---|---|
+| cap | 帽子（带帽檐的） | She took his kit bag and removed his cap, with its glossy peak and brocade badge. |
+| chest | 胸膛 | The way it propelled me from the waist and caused the hot sting of his dislike of me to spread across my chest. |
+| eyebrows | 眉毛 | There was a pink patch between her eyebrows and specks of blood. |
+| cotton ball | 棉球 | She began dabbing her brow with a cotton ball dipped in witch hazel. |
+| brown smell | 焦褐色气味（此处指炖煮的香味） | The brown smell of cooking filled the house, masking the spray polish and carpet powder Odette had overused. |
+| grown-up boy | 小大人（懂事的孩子） | Frank, I thought you were my grown-up boy? |
+| handsome sailor | 英俊的水手 | She was giggling, If it isn’t my handsome sailor home. |
+| coming home | 回家、归来 | Somehow, we knew his coming home depended on our being good. |
 
 ## 一句话总结
 
-Mum 决定独自出门过夜，Frank 感到被背叛；他照顾弟妹、与 Mr Blake 送奶，夜里听着水管声想起父亲——那个"英俊水手"回家的记忆背后，是暴力与恐惧，而 Frank 只能张着嘴吞咽空气。
+这一章是全书情绪的转轴：母亲一走，旧日的团圆画面就翻了面，同一段回忆先给出 Pears’ soap 的气味，再给出那记 blinding white ache 的指节。水管声被 Frank 译成船令，他确信其中一声是 CARRY ON——孩子给无法解释的处境强行配上的语法。等到他一个人在黑暗里张口，父亲便从"等待的人"变成了"要提防的人"，母亲的缺席也从此有了两重含义。
