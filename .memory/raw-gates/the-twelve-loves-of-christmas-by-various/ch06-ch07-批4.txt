@@ -1,0 +1,84 @@
+# 批4（ch06 + ch07）门禁原始输出 — 2026-10-16 10:36 UTC
+
+## 0. verify_corpus
+    ch12 (510 句)
+      首| Is It New Year’s Yet?
+      末| By all accounts, Win’s year was off to a great start.
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
+
+## 1. verify_quotes
+ch01 a merry little christmas.md: 11/11 ✅
+ch02 decking his halls.md: 11/11 ✅
+ch03 i ll be home for ex mas.md: 10/10 ✅
+ch04 someone to hold on to.md: 11/11 ✅
+ch05 ho ho oh no.md: 11/11 ✅
+ch06 twelve seconds to forever.md: 11/11 ✅
+ch07 a solstice kiss.md: 10/10 ✅
+
+=== 总计 75/75 引文可核实（100%）；完全干净文件 7/7；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+## 2. check_vocab
+词条行合计: 197
+
+--- FAIL (0) ---
+
+--- WARN (3) ---
+  ch05 ho ho oh no.md [基础] 基础档疑含超纲词「mistletoe」
+  ch07 a solstice kiss.md [基础] 基础档疑含超纲词「imagination」
+  ch07 a solstice kiss.md [基础] 基础档疑含超纲词「amusement park」
+
+## 3. check_entities
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+## 4. corruption_scan
+
+=== 编辑损坏扫描（the-twelve-loves-of-christmas-by-various）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+## 5. sweep_full
+=== 引语整串 flat 比对（the-twelve-loves-of-christmas-by-various）===
+  参照集：text/ 逐章（12 章，可定章） + epub 交叉验证
+  ✅ 本章命中 75 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+
+## 6. check_chapter_quotes 06 / 07
+ch06 twelve seconds to forever.md: 11/11 in ch06 text
+ch07 a solstice kiss.md: 10/10 in ch07 text
+
+## 7. check_quote_order
+=== 章内块序：7 个 md / 70 块，顺序或编号缺陷 0 章 ／ 不可判定 0 章 ===
+
+## 8. check_anchor
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（18 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+## 9. audit_structure
+=== 精读结构扫描（the-twelve-loves-of-christmas-by-various）===
+  扫 7 个 md、78 个引语块；多数派必备节：## 词汇分级
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 11
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+## 10. sweep_analysis_inline
+=== 分析层行内英文逐字核查（the-twelve-loves-of-christmas-by-various）===
+  参照集：text/（18 个提取件） + epub 交叉验证 ；扫 7 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：305 个表格行、201 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 962 ｜ ⚠️ 跨章 6 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 175
+  ⚠️  ch01 a merry little christmas.md:11  「Simon & Schuster」→ 实为 ch-1,-1,-1
+  ⚠️  ch03 i ll be home for ex mas.md:11  「“I’ll Be Home for Ex-Mas” copyright © 2026 by Alloy Ente」→ 实为 ch-1
+  ⚠️  ch04 someone to hold on to.md:11  「“Someone to Hold On To” copyright © 2026 by Alloy Entert」→ 实为 ch-1
+  ⚠️  ch05 ho ho oh no.md:11  「Matthew Wardell」→ 实为 ch-1
+  ⚠️  ch06 twelve seconds to forever.md:11  「“Twelve Seconds to Forever” copyright © 2026 by Alloy En」→ 实为 ch-1
+  ⚠️  ch07 a solstice kiss.md:11  「“A Solstice Kiss” copyright © 2026 by Alloy Entertainmen」→ 实为 ch-1
+
+## 11. check_quote_blocks
+=== 引语块结构对账（the-twelve-loves-of-christmas-by-various）===
+  带前缀的 `> **原句 N:**` 行：7 个文件共 70 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+## 12. check_block_keywords
+=== 引语块覆盖度：7 个 md，阻断型 0 处 ／ 提示型 0 处 ===
