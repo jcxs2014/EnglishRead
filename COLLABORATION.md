@@ -69,6 +69,8 @@ Annie Dillard 概览1处伪造引语已修（换原文实句），复跑后26101
 精读 md 31 篇尚未 commit（待用户指示；目录 notes/economist/261003/261010/261017）。
 日志明细与 gate 输出见 .memory/daily/2026-10-16.md 本条下方。
 
+Economist 2026-10 补记：精读已入库 local commit 9d3fbbdcf（31 files，25886 insertions）；.src.md 按规则 gitignore 不入库；不推送。
+
 ### [2026-10-16 20:47 UTC] [Opencode-Mac] → All
 
 Economist 2026-09 期刊精读完工：4 个 issue（260905/12/19/26）共 42 篇。
