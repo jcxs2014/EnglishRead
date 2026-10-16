@@ -1,0 +1,77 @@
+# 批2（ch02 + ch03）门禁原始输出 — 2026-10-16 09:59 UTC
+
+## 0. verify_corpus（语料层，开工时已 PASS，此处复跑）
+    ch10 (617 句)
+      首| Holiday Blackout
+      末| He nodded, rubbed his thumb against her cheek, grabbed her hand, and led the way.
+    ch11 (741 句)
+      首| Hope This Helps
+      末| Fence Post
+    ch12 (510 句)
+      首| Is It New Year’s Yet?
+      末| By all accounts, Win’s year was off to a great start.
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
+
+## 1. verify_quotes
+ch01 a merry little christmas.md: 11/11 ✅
+ch02 decking his halls.md: 11/11 ✅
+ch03 i ll be home for ex mas.md: 10/10 ✅
+
+=== 总计 32/32 引文可核实（100%）；完全干净文件 3/3；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+## 1b. verify_quotes --full（取证）
+ch01 a merry little christmas.md: 11/11 ✅
+ch02 decking his halls.md: 11/11 ✅
+ch03 i ll be home for ex mas.md: 10/10 ✅
+
+=== 总计 32/32 引文可核实（100%）；完全干净文件 3/3；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+## 2. check_vocab
+  [P0-4] 正文章节 3 个（< 4），多数派未成形 → **跳过必备章节判定**
+词条行合计: 86
+
+--- FAIL (0) ---
+
+--- WARN (0) ---
+
+## 3. check_entities
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+## 4. corruption_scan
+
+=== 编辑损坏扫描（the-twelve-loves-of-christmas-by-various）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+## 5. sweep_full
+=== 引语整串 flat 比对（the-twelve-loves-of-christmas-by-various）===
+  参照集：text/ 逐章（12 章，可定章） + epub 交叉验证
+  ✅ 本章命中 32 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+
+## 6. check_chapter_quotes 02 / 03
+ch02 decking his halls.md: 11/11 in ch02 text
+ch03 i ll be home for ex mas.md: 10/10 in ch03 text
+
+## 7. check_anchor
+  扫 3 个 md，30 个引语块，113 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（18 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+## 8. audit_structure
+=== 精读结构扫描（the-twelve-loves-of-christmas-by-various）===
+  扫 3 个 md、33 个引语块；多数派必备节：## 词汇分级
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 11
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+## 9. sweep_analysis_inline
+=== 分析层行内英文逐字核查（the-twelve-loves-of-christmas-by-various）===
+  参照集：text/（18 个提取件） + epub 交叉验证 ；扫 3 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：132 个表格行、73 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 368 ｜ ⚠️ 跨章 2 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 112
+  ⚠️  ch01 a merry little christmas.md:11  「Simon & Schuster」→ 实为 ch-1,-1,-1
+  ⚠️  ch03 i ll be home for ex mas.md:11  「“I’ll Be Home for Ex-Mas” copyright © 2026 by Alloy Ente」→ 实为 ch-1
