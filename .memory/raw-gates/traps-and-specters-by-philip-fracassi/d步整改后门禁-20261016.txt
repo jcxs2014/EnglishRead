@@ -1,0 +1,78 @@
+=== 五步审查 d 步语义二审 23 条整改后 · 核心门禁复跑 · 2026-10-16 15:15 ===
+
+--- verify_quotes ---
+ch02 d7.md: 12/12 ✅（另有 2 条短引语未校验）
+ch03 the visitor.md: 6/6 ✅（另有 5 条短引语未校验）
+ch04 the mummified corpse of reese witherspoon.md: 6/6 ✅（另有 4 条短引语未校验）
+ch05 the servitor.md: 9/9 ✅（另有 3 条短引语未校验）
+ch06 king mob.md: 9/9 ✅
+ch07 the hunter.md: 4/4 ✅
+ch08 point oh one.md: 8/8 ✅（另有 2 条短引语未校验）
+ch09 betrothed.md: 8/8 ✅（另有 2 条短引语未校验）
+ch10 my love do not wake.md: 9/9 ✅（另有 2 条短引语未校验）
+ch11 the black rider.md: 8/8 ✅（另有 3 条短引语未校验）
+ch12 dream of me.md: 7/7 ✅（另有 4 条短引语未校验）
+ch13 the resident.md: 7/7 ✅（另有 3 条短引语未校验）
+ch14 i think my treehouse is haunted.md: 12/12 ✅（另有 2 条短引语未校验）
+ch15 red leather.md: 9/9 ✅（另有 1 条短引语未校验）
+
+⚠️ 全书共 33 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 114/114 引文可核实（100%）；完全干净文件 14/14；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+--- verify_quotes --full（取证）---
+ch12 dream of me.md: 7/7 ✅（另有 4 条短引语未校验）
+ch13 the resident.md: 7/7 ✅（另有 3 条短引语未校验）
+ch14 i think my treehouse is haunted.md: 12/12 ✅（另有 2 条短引语未校验）
+ch15 red leather.md: 9/9 ✅（另有 1 条短引语未校验）
+
+⚠️ 全书共 33 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 114/114 引文可核实（100%）；完全干净文件 14/14；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+--- check_vocab ---
+--- FAIL (0) ---
+
+--- WARN (5) ---
+  ch04 the mummified corpse of reese witherspoon.md [基础] 基础档疑含超纲词「followers」
+  ch06 king mob.md [基础] 基础档疑含超纲词「releasing」
+  ch14 i think my treehouse is haunted.md [基础] 基础档疑含超纲词「terrified」
+  ch15 red leather.md [基础] 基础档疑含超纲词「anniversary」
+  ch15 red leather.md [基础] 基础档疑含超纲词「tradition」
+
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+--- corruption_scan ---
+
+=== 编辑损坏扫描（traps-and-specters-by-philip-fracassi）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- sweep_full --quiet ---
+=== 引语整串 flat 比对（traps-and-specters-by-philip-fracassi）===
+  参照集：text/ 逐章（14 章，可定章） + epub 交叉验证
+  ✅ 本章命中 112 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 2 ｜ ❌ 全书查无 0
+  （短引语 28 条归 check_short_quotes；无章可对 0 条未判）
+
+--- check_short_quotes ---
+=== 短引语兜底核对（traps-and-specters-by-philip-fracassi）===
+  verify_quotes 跳过（<20 flat 字符）的引语：28 条 —— 这些主门禁**根本没查**
+  ✅ 命中 28 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+--- check_chapter_quotes（逐章）---
+  MISS: 一篇把"点唱机"写成活体恶神的乡村怪谈：一对夫妻误入一家门会自动反锁的酒吧，发现里面四十三个灵魂被一周前舞池惨死、又借点唱机复生的女服务生 Sally 困住，被
+  MISS: 一场以"驱魔"为名、实为"献祭"的乡间血宴：神父 Jonathan 应 Quinn 一家之请冒雪赴屋，却逐步发现自己才是被诱入横死宅邸的下一个亡魂（全家死状各异
+  MISS: 一则把"中奖"写成诅咒的黑色喜剧：从未中奖、也无人可分享喜悦的失败画家 Jack 赢来"与木乃伊化的女星 Reese 共度一周"，送货人走后他与这具会评点画作的
+  MISS: 一则以"守护"为名、以占有为实的印加怪谈：世袭守墓人 Cesar 终其一生以毒箭毒蛛维护七重机关与可令血肉化石化金的黄金法杖 Mano Capac，当女贼 An
+ch06 king mob.md: 9/9 in ch06 text（另有 1 条短引语未校验）
+ch07 the hunter.md: 4/4 in ch07 text
+ch08 point oh one.md: 8/8 in ch08 text（另有 3 条短引语未校验）
+  MISS: 与 Eleanor 相伴三十三年的 Dietrich，在她车祸离世、自己再娶年轻护士 Rose 并退掉合葬墓穴后，当夜梦见亡妻从坑中伸手将他拖入黑暗，惊醒时枕边
+ch10 my love do not wake.md: 9/9 in ch10 text（另有 2 条短引语未校验）
+ch11 the black rider.md: 7/7 in ch11 text（另有 3 条短引语未校验）
+ch12 dream of me.md: 7/7 in ch12 text（另有 3 条短引语未校验）
+ch13 the resident.md: 6/6 in ch13 text（另有 3 条短引语未校验）
+ch14 i think my treehouse is haunted.md: 12/12 in ch14 text（另有 2 条短引语未校验）
+ch15 red leather.md: 9/9 in ch15 text（另有 2 条短引语未校验）
