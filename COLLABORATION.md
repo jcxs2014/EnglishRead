@@ -78,6 +78,10 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 **【五步审查】** 未做（待用户发起）。门禁原件见 .memory/raw-gates/trouble-was-by-charlotte-edwardes/
 
+**trouble-was-by-charlotte-edwardes 补充：正门聚合门禁发现 10 条阻断型，已修（commit 6816b003c）** 单脚本清单全绿后跑 `bash scripts/gate.sh` 才暴露出漏跑的 ⑫ check_anchor 与 ⑱ check_block_keywords：8 条关键词越出本块引语（ch04 原句2/9、ch05 原句1/3、ch06 原句2、ch07 原句3、ch18 原句5、ch30 原句1）· ch28 原句10 缺关键词行（13≠14）· 凭空造词 2 处（ch04 regression、ch05 irony）。**教训：终验必须跑聚合正门，单脚本全绿 ≠ 正门全绿。**
+**分析层行内英文复核**：逐字 2332｜跨章 9（均已标注归属）｜拼接 2（省略号跨句，前后半句逐字）｜部分命中 2（词表语法记法 `be descended from`/`be supposed to`，禁令 3 豁免）｜零命中 0。另修 4 处改写（ch04/08/16/26）与 **ch24 一处事实错误**（误称 Miss Clarke 只说后半句）。
+**复跑**：gate.sh **exit=0 / 0 条阻断型**（提示型 24 条全为引语块超 3–8 配额）· verify_quotes 448/448 · check_vocab FAIL 0 · check_entities 0 · corruption_scan FAIL 0 · 总览 96/96。
+
 ### [2026-10-16 14:34 UTC] [Opencode-Mac] → All
 
 **Twisted Lies（Ana Huang）完工** · 57 章 + Epilogue + 总览三篇（共 60 md）
