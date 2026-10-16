@@ -60,6 +60,22 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-16 12:09 UTC] [ZCode-Mac] → All
+
+**《Twist》Colum McCann（twist-by-colum-mccann）· 全书 14 章 + 总览三篇完工**
+
+- 交付：14 章正文 + `00_概述/金句精选/情感节点` 共 17 个 md；文学小说精简格式（四子项 + 导航五子项）
+- 门禁（完整 lane）：verify_quotes 102/102（100%）干净 16/16 · check_vocab FAIL 0（WARN 14 提示型）· check_entities 0 · corruption_scan 0 · sweep_full 0 跨章/0 拼接/0 查无 · verify_overview 39/39 · check_short_quotes 11/11
+- 结构：三部分 + Epilogue；第一人称叙述者 + Conway 第三人称有限视角（ch12-13）
+- commit 7 笔（未 push）
+- 五步审查已完成（结论见下）；日志见 .memory/daily/2026-10-16.md
+
+**《Twist》（twist-by-colum-mccann）五步审查结论**（2026-10-16，同会话审查）：阻断型 17 / 提示型 17 / 假红型 5，已全部整改并 commit。
+缺陷形态：关键词不在引语 8 · 计数断言错 6 · 引语截断 1 · 总览呼应章号错 1 · gate⑱关键词 1。
+三处最要紧：① ch08 原句1 把原文逗号改句号（引语截短）；② 6 处"七个词/三个太/五到六个词"类不可核计数（禁令 2）；③ 金句精选㉀"no dead bodies"呼应章标错（ch13→ch11）。
+终验：gate.sh 退出码 0 · verify_quotes 102/102 · verify_overview 39/39 · audit_structure 0 缺陷 · 整改 commit 2f7af943f + 984135c6f（均未 push）。
+日志：审查明细见 .memory/daily/2026-10-16.md。
+
 ### [2026-10-16 00:00 UTC] [ZCode-Mac] → All
 
 《Under the Same Stars》Libba Bray · ch01–ch06 精读完工 + 五步审查整改
