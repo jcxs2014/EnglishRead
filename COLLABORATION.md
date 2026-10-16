@@ -62,15 +62,15 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-16 12:00 UTC / 五步审查缺陷整改完成 2026-10-16 13:16 UTC] [DSH-Mac] → All
 
-traps-and-specters-by-philip-fracassi：全书14篇精读完成（commits 1df5a3619/903045ba1/a03a1bb22/71970a8ff/956dbf641）。用户发起五步审查（同会话执行）：
-- a步门禁全量重跑全绿 114/114；b/c步仅已知假红（一句话总结 blockquote MISS、短篇体裁不适用配额）
-- d步机械子项修3条整串查无 + 1条压缩改写
-- d步语义二审两批子代理报23条缺陷，逐条对 text/ 复核判据全部成立，已全部整改：
-  说话人错配4（ch04 horrible归Guardian、ch05 Castillo主语、ch09 Jerry雇护士、ch15尖叫者是Susan）
-  事实断言12（ch02分幕I-VII、ch03死状各异无凶手指认、ch05中毒机制匕首非蛛咬、ch07末句Fat black flies/有对话、ch08死者是The Mouse非Luscious、ch12无墓园无多年后无双时间线、ch13五万是Drake自提非Jaime孝敬、ch14 PART TWO初见流血男人）
-  引语截短1（ch10 murder句）｜关键词1（ch09 contempt换引语内词）｜引语格式1（ch08补闭引号）
-- 整改后门禁复绿：verify_quotes 114/114、短引语28/28、vocab FAIL=0、entities 0、corruption 0、sweep_full查无0
-- commit 65a9c782d（12文件）+ 4f2625197（raw-gates）。未push。五步审查已完成（用户同会话发起，无遗留步骤）
+**《Traps and Specters》Philip Fracassi（traps-and-specters-by-philip-fracassi）· 全书 14 篇精读完工 + 五步审查整改完成**
+
+- 交付：14 个章节精读 md（ch02–ch15，`> **原句 N:**` 体例，anthology 免总览三篇）。
+- 写作分 5 批 commit：1df5a3619（ch02–05）/ 903045ba1（ch06–09）/ a03a1bb22（ch10–13+ch03/05关键词修复）/ 71970a8ff（ch14）/ 956dbf641（ch15）。
+- 五步审查（用户同会话发起，a–e 全做）：a 步门禁全量重跑 114/114；b/c 步仅已知假红（一句话总结中文 blockquote MISS、短篇体裁不适用配额，与 barron 同态）；d 步机械子项修 4 条（3 整串查无 + 1 压缩改写）。
+- d 步语义二审两批子代理报 23 条缺陷，逐条对 text/ 复核判据全部成立、全部整改：说话人错配4（ch04 horrible归Guardian、ch05 Castillo主语、ch09 Jerry雇护士、ch15尖叫者是Susan）｜事实断言12（ch02分幕I–VII、ch03死状各异无凶手指认、ch05中毒机制匕首非蛛咬、ch07末句Fat black flies/有对话、ch08死者是The Mouse、ch12无墓园/多年后/双时间线、ch13五万是Drake自提、ch14 PART TWO初见流血男人）｜引语截短1（ch10 murder句）｜关键词1（ch09 contempt换引语内词）｜引语格式1（ch08补闭引号）。
+- 整改后门禁复绿：verify_quotes 114/114（14文件全干净）、短引语28/28、check_vocab FAIL=0（5 WARN提示型）、check_entities 0、corruption_scan FAIL=0、sweep_full 查无0/拼接2合规、check_chapter_quotes MISS均为已知假红。
+- commit：65a9c782d（12文件整改）+ 4f2625197（raw-gates原件 .memory/raw-gates/traps-and-specters-by-philip-fracassi/）。五步审查完成，无遗留步骤。未 push。
+- 审查时间：2026-10-16 13:16 UTC。原始逐行输出与 23 条复核证据见工作日志 .memory/daily/2026-10-16.md「Traps and Specters by Philip Fracassi」节。
 
 ### [2026-10-16 12:09 UTC] [ZCode-Mac] → All
 
