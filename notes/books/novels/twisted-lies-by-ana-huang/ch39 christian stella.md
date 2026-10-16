@@ -20,7 +20,7 @@ pov: "Christian/Stella"
 
 **中文理解**：Christian 说"意大利是平静与混乱的奇怪二分法"。"dichotomy" 的 "dichotomy" 是精确的——Christian 认为意大利既是平静的，也是混乱的。"something was brewing on the horizon" 的 "brewing" 是精确的——Christian 知道有事情正在酝酿。
 
-**关键词**：monitoring / expression / hand-holding / occasional / Incredible
+**关键词**：monitoring / Italy / strange / dichotomy / chaos
 
 **为什么这样写**：开篇用 "Italy was a strange dichotomy of calm and chaos" 建立 Christian 的矛盾——意大利既是平静的，也是混乱的。"My gut told me something was brewing on the horizon and that I damn well wouldn't like what it was" 的 "brewing" 是精确的——Christian 知道有事情正在酝酿。"I'd called in a favor and asked Alex to keep an eye on things for me while I was gone" 的 "keep an eye on" 是精确的——Christian 让 Alex 监视情况。
 
@@ -32,7 +32,7 @@ pov: "Christian/Stella"
 
 **中文理解**：Christian 说"她总是美丽的，但在意大利，摆脱了城市的压力和跟踪者的威胁，她是另一个人"。"I normally hated hand-holding, but I could make the occasional exception" 的 "occasional" 是精确的——Christian 通常讨厌牵手，但他可以破例。
 
-**关键词**：breathless / protectively / unacceptable / exasperated / immortalize
+**关键词**：always / beautiful / Italy / freed / pressures
 
 **为什么这样写**：这段描写是 Christian 的"浪漫时刻"——他喜欢看 Stella 在意大利的快乐。"She was always beautiful, but in Italy, freed from the pressures of the city and the lurking threat of her stalker, she was a different person" 的 "carefree" 是精确的——Stella 在意大利更无忧无虑。"I normally hated hand-holding, but I could make the occasional exception" 的 "occasional" 是精确的——Christian 通常讨厌牵手，但他可以破例。"If you tell anyone, I'll have to kill them." I smiled to soften the statement, even though I wasn't joking" 的 "wasn't joking" 是精确的——Christian 不是在开玩笑。
 
@@ -44,7 +44,7 @@ pov: "Christian/Stella"
 
 **中文理解**：Stella 说"我和 Christian 的关系可以用渐进的转变来衡量"。"incremental shifts" 的 "incremental" 是精确的——Stella 认为他们的关系是渐进的。"more than an incremental shift" 的 "more than" 是精确的——意大利之旅不仅仅是渐进的转变。
 
-**关键词：relationship / incremental / especially / fundamental / upbringing
+**关键词**：relationship / incremental / especially / Christian / could
 
 **为什么这样写**：这段描写是 Stella 的"反思时刻"——她反思了他们关系的发展。"My relationship with Christian could be measured in incremental shifts" 的 "incremental" 是精确的——Stella 认为他们的关系是渐进的。"It started with my move into the Mirage and inched forward milestone by milestone" 的 "inched forward"  ‌是精确的——他们的关系是逐步发展的。"But our time in Italy, especially after what he shared about his family, felt like more than an incremental shift" 的 "more than" 是精确的——意大利之旅不仅仅是渐进的转变。
 
@@ -56,7 +56,7 @@ pov: "Christian/Stella"
 
 **中文理解**：Stella 说"船上有很多绳子，蝴蝶"。"throbbed with painful insistence" 的 "throbbed" 是精确的——Stella 的欲望在跳动。"sexual proclivities" 的 "proclivities" 是精确的——Stella 的性倾向。
 
-**关键词**：reservations / embarrassed / proclivities / blindfolded / stimulation
+**关键词**：embarrassed / proclivities / stimulation / plenty / Butterfly
 
 **为什么这样写**：这段描写是 Stella 的"欲望时刻"——她被绑在船上。"There's plenty of rope on the boat, Butterfly" 的 "rope" 是精确的——Christian 暗示用绳子。"The suggestion throbbed with painful insistence between my thighs" 的 "throbbed" 是精确的——Stella 的欲望在跳动。"I used to feel ashamed or embarrassed about my sexual proclivities, but being with Christian had put most of my worries to rest" 的 "proclivities" 是精确的——Stella 的性倾向。"In the absence of visual stimulation, all my thoughts turned to how vulnerable I was at that moment" 的 "vulnerable" 是精确的——Stella 认为她是脆弱的。
 
@@ -68,7 +68,7 @@ pov: "Christian/Stella"
 
 **中文理解**：Stella 说"我爱你，我低声说"。"I knew there was a strong chance he wouldn't say it back" 的 "strong chance" 是精确的——Stella 知道 Christian 很可能不会回应。"The day I met you was the luckiest day of my life" 的 "luckiest" 是精确的——Christian 认为他遇见 Stella 是他一生中最幸运的一天。
 
-**关键词**：vulnerable / Anticipation / immediately / temperature / shockwaves
+**关键词**：whispered / believe / strong / chance / anyway
 
 **为什么这样写**：这段描写是 Stella 的"告白时刻"——她告诉 Christian 她爱他。"I love you," I whispered" 的 "whispered" 是精确的——Stella 低声说。"I knew there was a strong chance he wouldn't say it back" 的 "strong chance" 是精确的——Stella 知道 Christian 很可能不会回应。"The day I met you was the luckiest day of my life" 的 "luckiest" 是精确的——Christian 认为他遇见 Stella 是他一生中最幸运的一天。"I believe in everything when it comes to you" 的 "everything" 是精确的——Christian 认为关于 Stella 的一切他都相信。
 

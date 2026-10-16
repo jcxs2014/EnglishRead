@@ -20,7 +20,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"跟踪者如预期地在意大利旅行期间再次转入地下"。"fly under the radar" 的 "fly under the radar" 是精确的——跟踪者想保持低调。"bring it to fruition" 的 "fruition" 是精确的——跟踪者想实现他的计划。
 
-**关键词**：underground / ego-induced / effectively / tournament / relaxation
+**关键词**：underground / stalker / Italy / expected / wanted
 
 **为什么这样写**：开篇用 "The stalker went underground again during our trip to Italy, as expected" 建立 Christian 的冷静——他知道跟踪者会转入地下。"Alex hadn't reported anything suspicious while I'd been gone, but instinct told me the stalker was planning something bigger than a few measly notes" 的 "instinct" 是精确的——Christian 的直觉告诉他跟踪者在计划什么。"wanted to fly under the radar until he could bring it to fruition" 的 "fly under the radar" 是精确的——跟踪者想保持低调。
 
@@ -32,7 +32,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"我一直告诉自己我不相信爱"。"she'd shattered that illusion with one simple phrase" 的 "shattered" 是精确的——Stella 用一句话粉碎了他的幻觉。"like a puzzle becoming whole" 的 "puzzle" 是精确的——Christian 的爱像拼图一样变得完整。
 
-**关键词**：fundamental / eventually / collection / disinfectant / particularly
+**关键词**：telling / myself / believe / shattered / illusion
 
 **为什么这样写**：这段描写是 Christian 的"承认时刻"——他承认他爱 Stella。"I'd kept telling myself I didn't believe in love, that what I felt for her wasn't love, but she'd shattered that illusion with one simple phrase" 的 "shattered" 是精确的——Stella 用一句话粉碎了他的幻觉。"The minute she'd said those words and looked at me with those beautiful green eyes, I'd known the truth" 的 "beautiful green eyes" 是精确的——Stella 的绿色眼睛很美。"It'd happened slowly. Bit by bit, piece by piece, like a puzzle becoming whole" 的 "puzzle" 是精确的——Christian 的爱像拼图一样变得完整。
 
@@ -44,7 +44,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"那种存在消失了，取而代之的是消毒剂的柠檬味"。"particularly stressed" 的 "particularly" 是精确的——Stella 只有在特别紧张的时候才会打扫。"quickened my steps" 的 "quickened" 是精确的——Christian 加快了脚步。
 
-**关键词**：conditioning / foreboding / distinctive / sweetheart / toiletries
+**关键词**：presence / replaced / lemony / scent / disinfectant
 
 **为什么这样写**：这段描写是 Christian 的"不安时刻"——他意识到 Stella 不在。"That presence was gone, replaced with the lemony scent of disinfectant" 的 "lemony scent" 是精确的——Stella 的存在被消毒剂的味道取代了。"She only did that when she was particularly stressed" 的 "particularly" 是精确的——Stella 只有在特别紧张的时候才会打扫。"I quickened my steps and checked her favorite rooms" 的 "quickened" 是精确的——Christian 加快了脚步。
 
@@ -56,7 +56,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"Stella？我叫道"。"My voice sounded calm despite my rising panic" 的 "rising panic" 是精确的——Christian 的恐慌在上升。"She's fine" 的 "fine" 是精确的——Christian 试图说服自己 Stella 没事。
 
-**关键词**：interrupting / frustration / expression / confirmation / Desperation
+**关键词**：Stella / called / voice / sounded / despite
 
 **为什么这样写**：这段描写是 Christian 的"恐慌时刻"——他意识到 Stella 不在。"Stella?" I called out. My voice sounded calm despite my rising panic" 的 "rising panic" 是精确的——Christian 的恐慌在上升。"No answer" 的 "No answer" 是精确的——没有回答。"She's fine. She probably stepped out for fresh air or a snack. If something was wrong, Brock would've contacted me" 的 "fine" 是精确的——Christian 试图说服自己 Stella 没事。
 
@@ -68,7 +68,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"我注意到的第一件事是桌子上散落的纸张，还有三本朴素但独特的黑色活页夹"。"Goddammit, sweetheart, where the hell are you?" 的 "where the hell" 是精确的——Christian 不知道 Stella 在哪里。
 
-**关键词**：surprisingly / acknowledge / reluctance / immediately / responsible
+**关键词**：first / thing / noticed / spill / papers
 
 **为什么这样写**：这段描写是 Christian 的"发现时刻"——他发现了档案被动过。"The first thing I noticed was the spill of papers on my desk, along with three plain but distinctive black binders" 的 "distinctive" 是精确的——黑色活页夹是独特的。"Goddammit, sweetheart, where the hell are you?" 的 "where the hell" 是精确的——Christian 不知道 Stella 在哪里。"Her toiletries" 的 "toiletries" 是精确的——Stella 的洗漱用品不见了。
 

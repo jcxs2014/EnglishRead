@@ -20,7 +20,7 @@ pov: "Christian/Stella"
 
 **中文理解**：Christian 说"你好，Julian"。"who was strung up with heavy cuffs locking his arms and legs into a vertical spread-eagle position" 的 "strung up" 是精确的——Julian 被吊起来。"an obscene piece of abstract art" 的 "obscene" 是精确的——Christian 认为这是一件淫秽的抽象艺术。"soundproofed" 的 "soundproofed" 是精确的——仓库是隔音的。
 
-**关键词**：spread-eagle / soundproofed / comfortably / unrecognizable / relatively
+**关键词**：spread-eagle / soundproofed / Hello / Julian / examined
 
 **为什么这样写**：开篇用 "Hello, Julian." 建立 Christian 的冷静——他面对 Julian。"I examined Stella's stalker, who was strung up with heavy cuffs locking his arms and legs into a vertical spread-eagle position" 的 "strung up" 是精确的——Julian 被吊起来。"Nails pinned his palms to the wall behind them, while black and blue bruises mottled his body like an obscene piece of abstract art" 的 "obscene" 是精确的——Christian 认为这是一件淫秽的抽象艺术。"We were in the warehouse I'd bought for this specific purpose. Remote, soundproofed, and guarded enough that an ant couldn't crawl across the floor without me knowing" 的 "soundproofed" 是精确的——仓库是隔音的。
 
@@ -32,7 +32,7 @@ pov: "Christian/Stella"
 
 **中文理解**：Christian 说"事情是这样的，Julian"。"She'll never be yours. She was always mine" 的 "always mine" 是精确的——Christian 认为 Stella 一直是他的。"hurting someone who was mine" 的 "mine" 是精确的——Christian 认为 Stella 是他的。
 
-**关键词**：conversational / disappointing / satisfying / illuminating / overworked
+**关键词**：thing / Julian / continued / nothing / happened
 
 **为什么这样写**：这段描写是 Christian 的"威胁时刻"——他威胁 Julian。"Here's the thing, Julian." I continued like nothing happened. "She'll never be yours. She was always mine" 的 "always mine" 是精确的——Christian 认为 Stella 一直是他的。"And your biggest mistake…" I dropped the bloodied knife on the table and selected a meat cleaver. "Was hurting someone who was mine" 的 "mine" 是精确的——Christian 认为 Stella 是他的。"I didn't say Stella's name. It didn't deserve to live in a place where pain and death reigned, but we both knew who I was talking about" 的 "didn't deserve" 是精确的——Christian 认为 Stella 的名字不值得住在痛苦和死亡统治的地方。
 
@@ -44,7 +44,7 @@ pov: "Christian/Stella"
 
 **中文理解**：Stella 说"你回家了"。"My heart tripped when the door opened and Christian entered" 的 "tripped" 是精确的——Stella 的心跳加快了。"the quiet storm brewing in his eyes" 的 "quiet storm" 是精确的——Christian 的眼睛里有安静的风暴在酝酿。
 
-**关键词**：splattered / strategically / comfortable / detainment / restructure
+**关键词**：heart / tripped / opened / Christian / entered
 
 **为什么这样写**：这段描写是 Stella 的"温暖时刻"——Christian 回家了。"You're home." My heart tripped when the door opened and Christian entered" 的 "tripped" 是精确的——Stella 的心跳加快了。"At first glance, he looked the same as when he'd left—black shirt, black pants, hauntingly beautiful face—but a closer look revealed the quiet storm brewing in his eyes" 的 "quiet storm" 是精确的——Christian 的眼睛里有安静的风暴在酝酿。"You asked me to come home." He watched, body still but gaze burning like an open flame, as I closed the distance between us. "So here I am" 的 "burning like an open flame" 是精确的——Christian 的目光像开放的火焰一样燃烧。
 
@@ -56,7 +56,7 @@ pov: "Christian/Stella"
 
 **中文理解**：Stella 说"我读了信"。"Each one wrung my heart like a knot pulled taut" 的 "wrung my heart" 是精确的——每封信都像拉紧的结一样扭着 Stella 的心。"poured from his soul and inked in black" 的 "poured from his soul" 是精确的——信是从他的灵魂中倒出来的。
 
-**关键词**：threatened / quickening / separation / desperation / reclaiming
+**关键词**：letters / twenty / wrung / heart / pulled
 
 **为什么这样写**：这段描写是 Stella 的"感动时刻"——她读了 Christian 的信。"I read the letters." All twenty of them. Each one wrung my heart like a knot pulled taut, because I knew how hard it was for Christian to share anything about his personal life" 的 "wrung my heart" 是精确的——每封信都像拉紧的结一样扭着 Stella 的心。"Those letters weren't just letters—they were pieces of him, poured from his soul and inked in black" 的 "poured from his soul" 是精确的——信是从他的灵魂中倒出来的。"And I loved every piece, no matter how flawed or broken he thought it was" 的 "flawed or broken" 是精确的——Stella 认为 Christian 认为他是有缺陷的或破碎的。
 
@@ -68,7 +68,7 @@ pov: "Christian/Stella"
 
 **中文理解**：Stella 说"欢迎回家"。"A small shudder went through him before he turned his head and our mouths met" 的 "shudder" 是精确的——Christian 颤抖了。"This one was passion and desperation, a thorough reclaiming of what we were and the birth of what we could be" 的 "reclaiming" 是精确的——Stella 认为这是彻底的重新占有。"No lies, no secrets, just us" 的 "No lies, no secrets" 是精确的——Stella 认为没有谎言，没有秘密。
 
-**关键词**：examined / vertical / position / abstract / specific
+**关键词**：Welcome / whispered / small / shudder / through
 
 **为什么这样写**：这段描写是 Stella 的"和好时刻"——她和 Christian 和好了。"Welcome home," I whispered. A small shudder went through him before he turned his head and our mouths met" 的 "shudder" 是精确的——Christian 颤抖了。"Last night's kiss had been soft, gentle. An easing into the waters after our separation and a comfort after a hellish day" 的 "soft, gentle" 是精确的——昨晚的吻是柔软的、温柔的。"This one was passion and desperation, a thorough reclaiming of what we were and the birth of what we could be" 的 "reclaiming" 是精确的——Stella 认为这是彻底的重新占有。"No lies, no secrets, just us" 的 "No lies, no secrets" 是精确的——Stella 认为没有谎言，没有秘密。
 

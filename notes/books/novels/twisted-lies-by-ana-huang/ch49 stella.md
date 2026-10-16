@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"一阵刺痛的感觉把我从黑暗的、浑浊的无意识之井中拖了出来"。"the dark, murky wells of unconsciousness" 的 "murky" 是精确的——Stella 认为无意识是浑浊的。"that'd been consensual" 的 "consensual" 是精确的——Stella 认为和 Christian 的被绑是双方同意的。
 
-**关键词**：unconsciousness / consensual / jackhammer / remembered / realization
+**关键词**：unconsciousness / consensual / prickle / sensation / dragged
 
 **为什么这样写**：开篇用 "A prickle of sensation dragged me from the dark, murky wells of unconsciousness" 建立 Stella 的困惑——她醒了过来。"It started as a tingle in my fingers and toes. Then it was the hard press of wood beneath my thighs. Finally, it was the rough abrasion of ropes around my wrists and a pounding pain behind my eyes" 的 "abrasion" 是精确的——Stella 认为绳子的粗糙磨损着她。"The only times I'd been tied up were with Christian, but that'd been consensual" 的 "consensual" 是精确的——Stella 认为和 Christian 的被绑是双方同意的。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"我在某种由波纹金属和木头做的破旧小屋里"。"ramshackle cabin" 的 "ramshackle" 是精确的——Stella 认为小屋是破旧的。"a takeout container of food" 的 "takeout container" 是精确的——Stella 认为有一个外卖容器。
 
-**关键词**：surroundings / ramshackle / corrugated / photoshoot / unnaturalness
+**关键词**：ramshackle / corrugated / cabin / metal / thick
 
 **为什么这样写**：这段描写是 Stella 的"观察时刻"——她观察了周围的环境。"I was in some sort of ramshackle cabin made of corrugated metal and wood" 的 "ramshackle" 是精确的——Stella 认为小屋是破旧的。"A thick film of grime coated the windows and muted the sunlight scattered on the floor" 的 "grime" 是精确的——Stella 认为窗户上有一层污垢。"There was no furniture other than the chair I was bound to and a lopsided table that held a length of rope and, almost laughably, a takeout container of food" 的 "lopsided"  ‌是精确的——Stella 认为桌子是歪的。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"你是 Washington Weekly 的作家"。"My tongue felt thick in my mouth" 的 "thick" 是精确的——Stella 认为她的舌头很厚。"its effects lingered and clouded the edges of my consciousness" 的 "clouded" 是精确的——Stella 认为效果模糊了她的意识边缘。
 
-**关键词**：psychopath / jackknifed / Washington / consciousness / Communications
+**关键词**：Washington / consciousness / Communications / writer / Weekly
 
 **为什么这样写**：这段描写是 Stella 的"认出时刻"——她认出了 Julian。"You're a writer for Washington Weekly." My tongue felt thick in my mouth" 的 "thick" 是精确的——Stella 认为她的舌头很厚。"He must've slipped something in my drink at the cafe. Whatever it was, its effects lingered and clouded the edges of my consciousness" 的 "clouded" 是精确的——Stella 认为效果模糊了她的意识边缘。"Before that, Stella. We had a class together at Thayer. Communications Theory with Professor Pittman. You sat two seats in front of me and to my right" 的 "Communications Theory" 是精确的——Julian 认为他们一起上了传播学理论课。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"我宁愿死也不愿和你在一起"。"I headbutted him as hard as I could" 的 "headbutted" 是精确的——Stella 用头撞了他。"His howl of pain ricocheted through the cabin" 的 "ricocheted" 是精确的——Stella 认为 Julian 的痛苦嚎叫在小屋里回荡。
 
-**关键词**：classmates / successful / possibility / soothingly / protrusion
+**关键词**：protrusion / would / rather / headbutted / could
 
 **为什么这样写**：这段描写是 Stella 的"反抗时刻"——她反抗 Julian。"I would rather die than be with you" 的 "rather die" 是精确的——Stella 认为她宁愿死。"I headbutted him as hard as I could" 的 "headbutted" 是精确的——Stella 用头撞了他。"His howl of pain ricocheted through the cabin" 的 "ricocheted" 是精确的——Stella 认为 Julian 的痛苦嚎叫在小屋里回荡。"I slammed my wrists down as hard as I could behind me until the frayed rope snapped against the protrusion" 的 "frayed" 是精确的——Stella 认为绳子磨损了。
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Christian 说"Stella。他愤怒的刀刃边缘因安慰而软化"。"He said my name like a prayer, a whisper so raw and heartfelt it obliterated any resistance I might've had" 的 "obliterated" 是精确的——Christian 的话抹杀了 Stella 的任何抵抗。"I just crossed the room and crumpled into his arms" 的 "crumpled" 是精确的——Stella 倒入了 Christian 的怀里。
 
-**关键词**：discreetly / grandmother / practically / production / gesticulating
+**关键词**：Stella / Relief / softened / razor / edges
 
 **为什么这样写**：这段描写是 Stella 的"希望时刻"——Christian 来了。"Stella." Relief softened the razor edges of his fury" 的 "razor edges" 是精确的——Christian 的愤怒像刀刃一样锋利。"He said my name like a prayer, a whisper so raw and heartfelt it obliterated any resistance I might've had" 的 "obliterated" 是精确的——Christian 的话抹杀了 Stella 的任何抵抗。"I didn't think. I didn't speak. I just crossed the room and crumpled into his arms" 的 "crumpled" 是精确的——Stella 倒入了 Christian 的怀里。
 

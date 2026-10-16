@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Stella 完成了设计系列的第一件作品——"不是完美的，但完成了"。"The first tangible evidence my dreams weren't just dreams" 的 "tangible" 是精确的——Stella 的梦想不再是梦想，而是有形的证据。
 
-**关键词**：collection / housewarming / background / Simplicity / procrastination
+**关键词**：collection / housewarming / finished / first / piece
 
 **为什么这样写**：开篇用 "I finished the first piece of my collection" 建立 Stella 的成就——她完成了她的第一件作品。"It wasn't perfect, but it was done" 的 "but" 是精确的——Stella 知道它不完美，但她知道它完成了。"The first tangible evidence my dreams weren't just dreams" 的 "tangible" 是精确的——Stella 的梦想不再是梦想，而是有形的证据。"concrete steps toward making them reality" 的 "concrete" 是精确的——Stella 正在采取具体的步骤，而不是空想。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：Stella 感到一种"奇怪的、不熟悉的情感"——她花了一分钟才识别出这是骄傲。"so unfamiliar it took me a minute to identify it" 的精确措辞说明 Stella 很久没有感到骄傲了——她甚至不认识这种情感了。
 
-**关键词**：unfamiliar / Weightlessness / accomplishment / accomplishments / convenient
+**关键词**：unfamiliar / strange / emotion / welled / throat
 
 **为什么这样写**：这段描写是 Stella 的"骄傲时刻"——她终于感到骄傲了。"A strange emotion welled in my throat, so unfamiliar it took me a minute to identify it: pride" 的 "unfamiliar" 是精确的——Stella 很久没有感到骄傲了，她甚至不认识这种情感了。"I hadn't felt it when I hit a million followers" 的 "hadn't felt" 是精确的——Stella 在达到 100 万粉丝时没有感到骄傲，但她在完成第一件作品时感到了。"the warm glow of pride crested over me" 的 "crested" 是精确的——Stella 的骄傲像波浪一样涌来。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Stella 告诉 Natalia Christian 不能来——"发烧、发冷，什么都有"。"It was scary how easily the lie spilled from my tongue" 的 "scary" 是精确的——Stella 害怕她的谎言是多么容易脱口而出。
 
-**关键词**：pitter-patter / unfortunate / commission / displeasure / reconsider
+**关键词**：Christian / Natalia / speakerphone / could / finish
 
 **为什么这样写**：这段描写是 Stella 的"谎言时刻"——她谎言说得很容易。"It was scary how easily the lie spilled from my tongue" 的 "scary" 是精确的——Stella 害怕她的谎言是多么容易脱口而出。"It clattered to the ground with a soft plink, joining the dozens of other untruths I'd uttered over the past few months" 的 "clattered" 是精确的——Stella 的谎言像硬币一样掉在地上，加入了她过去几个月的几十个谎言中。"dozens of other untruths" 的 "dozens" 是精确的——Stella 的谎言是几十个，不是几个。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：Christian 说他"感觉好多了"——"我昨天不能工作，但我今天完全好了"。"his eyes didn't leave mine" 的精确措辞说明 Christian 在看着 Stella——他的眼睛没有离开她的眼睛。
 
-**关键词**：non-violence / overbearing / punishment / girlfriend / eventually
+**关键词**：Actually / feeling / better / around / pulse
 
 **为什么这样写**：这段描写是 Stella 的"震惊时刻"——Christian 出现了。"Actually, I'm feeling much better" 的 "actually" 是 Christian 的精确——他在纠正 Stella 的谎言。"I was out of commission yesterday, but I'm good as new today" 的 "out of commission" 是 Christian 的精确——他昨天不能工作，但他今天完全好了。"his eyes didn't leave mine" 的精确措辞说明 Christian 在看着 Stella——他的眼睛没有离开她的眼睛。"So Stella, darling, I'll be able to accompany you to dinner after all" 的 "darling" 是 Christian 的精确——他用"darling"来称呼 Stella，暗示他的真实情感。
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Stella 承认她被解雇了——"每个音节都刮过她的喉咙"。"Every syllable scraped my throat on its way out" 的 "scraped" 是精确的——Stella 的每个音节都刮过她的喉咙，暗示她的痛苦是全面的。
 
-**关键词**：confession / lightheaded / conditioning / government / conversation
+**关键词**：mistake / working / Style / anymore / Every
 
 **为什么这样写**：这段描写是 Stella 的"承认时刻"——她终于承认了真相。"It wasn't a mistake. I'm not working at D.C. Style anymore" 的 "wasn't" 是精确的——Stella 知道这不是一个错误，这是事实。"Every syllable scraped my throat on its way out" 的 "scraped" 是精确的——Stella 的每个音节都刮过她的喉咙，暗示她的痛苦是全面的。"I got fired in mid-February" 的 "mid-February" 是精确的——Stella 给出了精确的时间。"Silence clung to the room for another beat before it exploded into curses and shouts" 的 "clung" 是精确的——沉默黏在房间里，然后爆炸成诅咒和喊叫。
 

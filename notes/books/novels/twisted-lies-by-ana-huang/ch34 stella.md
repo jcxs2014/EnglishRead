@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"Christian 和我正式约会了"。"It felt strange" 的 "strange" 是精确的——Stella 觉得奇怪，因为对外部世界来说，什么都没变。
 
-**关键词**：officially / inevitable / housewarming / Correction / exasperation
+**关键词**：officially / inevitable / housewarming / Christian / dating
 
 **为什么这样写**：开篇用 "Christian and I were officially dating" 建立 Stella 的处境——他们正式约会了。"It felt strange, not only because it wasn't something I'd ever thought would happen but also because to the outside world, nothing had changed" 的 "strange" 是精确的——Stella 觉得奇怪，因为对外部世界来说，什么都没变。"According to Jules, it'd been 'inevitable' based on how we'd been eye fucking each other at her housewarming" 的 "inevitable" 是精确的——Jules 认为这是不可避免的。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：Donnie 说"你在他身边做什么？"——"美丽不是一切"。"Beauty isn't everything" 的 "everything" 是精确的——Stella 认为美丽不是一切，Christian 还有其他伟大的品质。
 
-**关键词**：woodworker / extraordinaire / incredible / especially / considerate
+**关键词**：creased / gummy / smile / Christian / lovely
 
 **为什么这样写**：这段描写是 Stella 的"约会时刻"——她和 Christian 去 Eastern Market。"Mr. C!" The vendor's face creased with a gummy smile when he saw Christian" 的 "gummy smile" 是精确的——Donnie 的笑容是黏糊糊的、真诚的。"What are you doing with an ogre like him?" 的 "ogre" 是精确的——Donnie 认为 Christian 是食人魔。"Beauty isn't everything. I patted Christian's hand. He has other great qualities" 的 "everything" 是精确的——Stella 认为美丽不是一切，Christian 还有其他伟大的品质。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"Maura 喜欢他，不仅仅是因为 tembleque"。"Christian swept into the room like Prince Charming" 的 "Prince Charming" 是精确的——Christian 像王子一样进入房间。"It was disconcerting to see them get so chummy so fast" 的 "disconcerting" 是精确的——Stella 觉得不安，因为他们变得太快了。
 
-**关键词**：supportive / relationship / complimenting / disconcerting / disgruntled
+**关键词**：complimenting / disconcerting / Maura / loved / tembleque
 
 **为什么这样写**：这段描写是 Stella 的"惊讶时刻"——她惊讶于 Maura 喜欢 Christian。"Maura loved him, and not just because of the tembleque, though that helped" 的 "not just because" 是精确的——Stella 认为 Maura 喜欢 Christian 不仅仅是因为 tembleque。"Christian swept into the room like Prince Charming" 的 "Prince Charming" 是精确的——Christian 像王子一样进入房间。"It was disconcerting to see them get so chummy so fast when even I had to warm her up a bit every time I visited" 的 "disconcerting" 是精确的——Stella 觉得不安，因为他们变得太快了。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：Maura 说"这不仅仅是一个杯子！"——"它破了，它……它……"。"Everything will be fine" 的 "fine" 是精确的——Stella 试图让 Maura 平静下来。"Already on their way" 的 "already" 是精确的——Christian 已经知道护士在路上了。
 
-**关键词**：impatience / satisfying / expression / indecipherable / iterations
+**关键词**：breathing / quickened / broken / darted / around
 
 **为什么这样写**：这段描写是 Stella 的"恐惧时刻"——她害怕 Maura 会变得激动。"It's not just a cup!" Her breathing quickened. "It's broken and it's…it's…" 的 "not just" 是精确的——Maura 认为这不仅仅是一个杯子。"Everything will be fine" 的 "fine" 是精确的——Stella 试图让 Maura 平静下来。"She was growing visibly agitated, and once she got agitated, it was near impossible to calm her down without sedation" 的 "agitated" 是精确的——Maura 变得激动了。"Already on their way" 的 "already" 是精确的——Christian 已经知道护士在路上了。
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"谢谢你"——"感谢你邀请我"。"I am in so much trouble" 的 "so much trouble" 是精确的——Stella 知道她陷入麻烦了。
 
-**关键词**：Unbelievable / insufferable / effortlessly / impossible / resembling
+**关键词**：Thank / Maura / happily / settled / puzzle
 
 **为什么这样写**：这段描写是 Stella 的"恐惧时刻"——她害怕她陷入爱河了。"Thank you for inviting me" 的 "inviting" 是精确的——Christian 感谢 Stella 邀请他。"I looked down at our entwined hands and couldn't stop my heart from expanding so much it made it hard to breathe" 的 "entwined" 是精确的——Stella 看着他们交织的手，她的心扩张到让她难以呼吸。"I am in so much trouble" 的 "so much trouble" 是精确的——Stella 知道她陷入麻烦了。
 

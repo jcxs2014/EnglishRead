@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"这就是我需要的。谢谢你的时间"。"It was off the record since Delamonte wouldn't appreciate me talking about my own brand in a story that was supposed to be about them" 的 "off the record" 是精确的——Stella 的采访是 off the record 的。
 
-**关键词**：Washington / additional / twenty-four / collection / photoshoots
+**关键词**：Washington / needed / Thank / Julian / finished
 
 **为什么这样写**：开篇用 "That's all I needed. Thank you for your time," Julian said 建立 Stella 的满足——她完成了采访。"We'd just finished our last interview for my Washington Weekly profile" 的 "Washington Weekly" 是精确的——Stella 的采访是 Washington Weekly 的。"It was off the record since Delamonte wouldn't appreciate me talking about my own brand in a story that was supposed to be about them" 的 "off the record" 是精确的——Stella 的采访是 off the record 的。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"坐在沙发上"。"I can think of something that'll help you relax" 的 "relax" 是精确的——Stella 认为她能让 Christian 放松。"the air shifted into something heavier, more condensed" 的 "heavier" 是精确的——空气变得更重了。
 
-**关键词**：inordinately / irritation / meditation / initiating / Eventually
+**关键词**：couch / tamped / uprising / nerves / stomach
 
 **为什么这样写**：这段描写是 Stella 的"主动时刻"——她主动给 Christian 口交。"Sit on the couch." I tamped down the uprising of nerves in my stomach and kept my voice casual" 的 "tamped down" 是精确的——Stella 压制了她的紧张。"I can think of something that'll help you relax" 的 "relax" 是精确的——Stella 认为她能让 Christian 放松。"the air shifted into something heavier, more condensed" 的 "heavier" 是精确的——空气变得更重了。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：Christian 说"操，Stella"。"That feels so fucking good, sweetheart" 的 "fucking good" 是精确的——Christian 认为 Stella 的口交感觉很好。"I loved knowing that I could turn him on like this" 的 "turn him on" 是精确的——Stella 知道她能让 Christian 兴奋。
 
-**关键词**：comfortable / sweetheart / satisfaction / unmistakable / crescendoed
+**关键词**：sweetheart / satisfaction / Stella / tortured / groan
 
 **为什么这样写**：这段描写是 Stella 的"欲望时刻"——她给 Christian 口交。"Fuck, Stella." Christian's tortured groan sent another arrow of lust to my core" 的 "tortured" 是精确的——Christian 的呻吟是痛苦的。"That feels so fucking good, sweetheart" 的 "fucking good" 是精确的——Christian 认为 Stella 的口交感觉很好。"I loved knowing that I could turn him on like this" 的 "turn him on" 是精确的——Stella 知道她能让 Christian 兴奋。
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"我的高潮终于冲破了束缚"。"It crashed through its restraints and consumed me whole" 的 "consumed me whole" 是精确的——Stella 的高潮吞噬了她全身。"You are fucking perfect" 的 "fucking perfect" 是精确的——Christian 认为 Stella 是完美的。
 
-**关键词**：Electricity / restraints / vulnerable / especially / considerate
+**关键词**：restraints / vulnerable / orgasm / finally / broke
 
 **为什么这样写**：这段描写是 Stella 的"高潮时刻"——她的高潮吞噬了她全身。"My orgasm finally broke free. It crashed through its restraints and consumed me whole" 的 "consumed me whole" 是精确的——Stella 的高潮吞噬了她全身。"I love feeling you come around me." He kissed his way up my neck to my mouth. "You are fucking perfect" 的 "fucking perfect" 是精确的——Christian 认为 Stella 是完美的。"The words hit me somewhere deep and vulnerable" 的 "vulnerable" 是精确的——Stella 的话击中了她内心深处的脆弱。
 

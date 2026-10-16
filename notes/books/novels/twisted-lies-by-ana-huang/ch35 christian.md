@@ -20,7 +20,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"门在我身后轻轻关上"。"In the hush of my satellite office, it sounded like a gunshot" 的 "gunshot" 是精确的——Christian 的 satellite office 很安静，关门声像枪声。
 
-**关键词**：recognized / entrepreneur / conversations / dispassionate / perspiration
+**关键词**：recognized / entrepreneur / closed / quiet / snick
 
 **为什么这样写**：开篇用 "The door closed with a quiet snick behind me" 建立 Christian 的冷静——他不在乎 Frank 的感受。"In the hush of my satellite office, it sounded like a gunshot" 的 "gunshot" 是精确的——Christian 的 satellite office 很安静，关门声像枪声。"Some low-level entrepreneur who'd weaseled his way into the gathering" 的 "weaseled" 是精确的——Frank 是低级别的 entrepreneur，他混进了聚会。
 
@@ -32,7 +32,7 @@ pov: "Christian"
 
 **中文理解**：Frank 说"我已经等了半个小时了"。"I gave negative shits about how long he'd had to wait" 的 "negative shits" 是精确的——Christian 不在乎 Frank 等了多久。
 
-**关键词**：nervousness / immediately / twenty-five-year-old / fifty-five-year-old / practically
+**关键词**：waiting / stated / fucking / obvious / negative
 
 **为什么这样写**：这段描写是 Christian 的"冷漠时刻"——他不在乎 Frank 的感受。"I've been waiting for half an hour." He stated the fucking obvious like I couldn't tell time" 的 "fucking obvious" 是精确的——Frank 在陈述显而易见的事情。"I gave negative shits about how long he'd had to wait" 的 "negative shits" 是精确的——Christian 不在乎 Frank 等了多久。"Frank Rivers was a bottom feeder" 的 "bottom feeder" 是精确的——Frank 是底层生物。
 
@@ -44,7 +44,7 @@ pov: "Christian"
 
 **中文理解**：Christian 问 Frank——"你昨晚在活动上摸我的约会对象时，用的是哪只手？"。"He froze. All the color blanched from his skin" 的 "blanched" 是精确的——Frank 的脸色变白了。
 
-**关键词**：salivating / interested / hesitation / razor-sharp / straightened
+**关键词**：question / glass / fully / reached / fleshy
 
 **为什么这样写**：这段描写是 Christian 的"暴力时刻"——他问 Frank 用的是哪只手。"When you groped my date at the event last night, which hand did you use?" 的 "groped" 是精确的——Christian 用了"groped"而不是"touched"，暗示 Frank 的行为是暴力的。"He froze. All the color blanched from his skin" 的 "blanched" 是精确的——Frank 的脸色变白了。"My date." I leaned back, leaving my own drink untouched. "Tall, curly dark hair, black dress. The most beautiful woman at the event" 的 "most beautiful woman" 是精确的——Christian 认为 Stella 是活动上最美丽的女人。
 
@@ -56,7 +56,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"我等到 Frank 的手掌碰到桌面，才从抽屉里抽出刀，刺穿了他的手"。"Flesh and bone yielded like butter to the cold, razor-sharp steel" 的 "razor-sharp" 是精确的——Christian 的刀是剃刀般锋利的。
 
-**关键词**：reimbursing / soundproofed / accusations / resentment / tournament
+**关键词**：waited / wooden / surface / pulled / blade
 
 **为什么这样写**：这段描写是 Christian 的"暴力时刻"——他刺穿了 Frank 的手。"I waited until Frank's palm hit the wooden surface before I pulled the blade from my drawer and drove it through his hand" 的 "drove it through" 是精确的——Christian 用刀刺穿了 Frank 的手。"Flesh and bone yielded like butter to the cold, razor-sharp steel" 的 "razor-sharp" 是精确的——Christian 的刀是剃刀般锋利的。"An inhuman howl ripped through the room while I frowned at the blood pooling on the vintage mahogany" 的 "inhuman" 是精确的——Frank 的叫声是非人的。
 
@@ -68,7 +68,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"你犯了一个错误，Rivers 先生"。"You touched what was mine" 的 "what was mine" 是精确的——Christian 认为 Stella 是他的。"Your hand won't be the only thing I'll chop off" 的 "chop off" 是精确的——Christian 会砍掉 Frank 的其他东西。
 
-**关键词**：information / proprietary / investigations / distracted / decision-making
+**关键词**：mistake / Rivers / handle / blade / leaned
 
 **为什么这样写**：这段描写是 Christian 的"杀意时刻"——他威胁 Frank。"You touched what was mine. And if there's one thing I hate…" I pushed the knife deeper, letting the serrated edge tear through his flesh with agonizing slowness until his cries reached an inhuman pitch" 的 "what was mine" 是精确的——Christian 认为 Stella 是他的。"But if you ever touch, look at, or so much as think about Stella again…" I shoved the blade in all the way until the only remaining visible part was the handle" 的 "chop off" 是精确的——Christian 会砍掉 Frank 的其他东西。
 

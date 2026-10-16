@@ -20,7 +20,7 @@ pov: "Christian/Stella"
 
 **中文理解**：Christian 回顾昨天的监控录像——有一段半小时的"技术故障"与 Stella 去咖啡馆的时间吻合。跟踪者不仅闯入了她的公寓，还黑了监控系统。
 
-**关键词**：closed-circuit / surveillance / screenings / vulnerable / persuasion
+**关键词**：closed-circuit / surveillance / spent / reviewing / security
 
 **为什么这样写**：开篇用 "reviewing the security footage" 建立 Christian 的调查——他在找线索。"technical glitch" 的引号暗示 Christian 知道这不是真正的故障——是人为的。"The stalker had not only broken into her apartment; they'd also hacked into the Mirage's closed-circuit surveillance system" 的 "not only...but also" 结构说明跟踪者的能力超出了 Christian 的预期——他不仅闯入了公寓，还黑了监控系统。"closed-circuit surveillance system" 的精确措辞说明 Christian 知道监控系统的工作原理——他知道这是如何被黑的。
 
@@ -32,7 +32,7 @@ pov: "Christian/Stella"
 
 **中文理解**：Christian 承认让 Stella 搬进他的房子是他能做的最坏的决定——她是他最大的分心，他的弱点。他试图保持距离，但当他听到她说他不在乎他和其他女人上床时，他愤怒了。
 
-**关键词**：Congratulations / eight-person / brightened / standpoint / sustainable
+**关键词**：standpoint / logical / moving / Stella / house
 
 **为什么这样写**：这段描写是 Christian 的"自我认知时刻"——他承认他对 Stella 有情感。"From a logical standpoint" 的 "logical" 是 Christian 的精确——他用逻辑来分析他的情感。"She was my biggest distraction. My weakness" 的 "weakness" 是 Christian 的核心——他通常不会承认弱点，但 Stella 让他承认了。"I didn't fucking appreciate her telling me she didn't care if I went out and fucked other women" 的 "fucking" 是 Christian 的情感——他通常不会用这种语言，但 Stella 让他失去了控制。
 
@@ -44,7 +44,7 @@ pov: "Christian/Stella"
 
 **中文理解**：Stella 说她可能最终会创立自己的时尚品牌——"这不是一个确定的事"。Christian 的反应是"more in intrigue than surprise"——他对 Stella 的才华感到好奇，而不是惊讶。"she was too talented and shone too brightly to be hemmed in by other people's expectations" 的精确措辞说明 Christian 对 Stella 的才华有精确的评价。
 
-**关键词**：indecision / eventually / expectations / Correction / threatened
+**关键词**：eventually / expectations / might / start / fashion
 
 **为什么这样写**：这段描写是 Christian 的"欣赏时刻"——他对 Stella 的才华感到好奇。"It's not a sure thing" 的 "sure" 是 Stella 的精确——她在淡化她的梦想，害怕被评判。"My eyebrows rose, more in intrigue than surprise" 的 "more in intrigue than surprise" 是 Christian 的精确——他对 Stella 的才华感到好奇，而不是惊讶。"she was too talented and shone too brightly to be hemmed in by other people's expectations" 的 "hemmed in" 是 Christian 的核心评价——Stella 不应该被其他人的期望限制。
 
@@ -56,7 +56,7 @@ pov: "Christian/Stella"
 
 **中文理解**：Christian 主动提出帮 Stella 写商业计划——他立刻后悔了，因为他有很多事情要做。但他不想收回他的提议。"And, if I were being honest, I didn't want to" 的 "if I were being honest" 是 Christian 的精确——他通常不会诚实，但 Stella 让他诚实了。
 
-**关键词**：Impressive / accounting / passionate / disciplined / intricately
+**关键词**：words / hovered / between / shocked / existence
 
 **为什么这样写**：这段描写是 Christian 的"冲动时刻"——他主动提出帮 Stella，然后立刻后悔了。"The words hovered between us, as shocked by their existence as I was" 的 "hovered" 是精确的——这些话悬在空中，好像它们不应该存在。"I didn't need to add a fucking fashion line to the mix" 的 "fucking" 是 Christian 的精确——他用这种语言来表达他的后悔。"And, if I were being honest, I didn't want to" 的 "if I were being honest" 是 Christian 的精确——他通常不会诚实，但 Stella 让他诚实了。
 
@@ -64,15 +64,15 @@ pov: "Christian/Stella"
 
 ---
 
-> **原句 5:** "They're beautiful." … My smile finally blossomed in full, slow and languid. "I'd love to." … I dipped my head and, in a subtle, almost unconscious movement, my lips touched hers. … Two seconds. One syllable. An electric instant that scorched every inch of my skin.
+> **原句 5:** I dipped my head and, in a subtle, almost unconscious movement, my lips touched hers.
 
-**中文理解**：Christian 看到 Stella 的设计草图后说"它们很漂亮"。他吻了她——"two seconds. one syllable. an electric instant" 的精确描述说明这个吻是短暂的，但影响是深远的。
+**中文理解**：一个几乎不受控制的身体动作——in a subtle, almost unconscious movement。他低头、唇碰到她的，而叙述者特意说明这不是一个决定，是本能。
 
-**关键词**：silhouettes / suffocating / attraction / inevitability / unconscious
+**关键词**：dipped / subtle / unconscious / movement / lips
 
-**为什么这样写**：这段描写是 Christian 的"冲动时刻"——他吻了 Stella。"My smile finally blossomed in full, slow and languid" 的 "blossomed" 是精确的——Christian 的微笑是缓慢的、充分的。"Two seconds. One syllable. An electric instant" 的精确描述说明这个吻是短暂的，但影响是深远的——每一秒都是精确的。"scorched every inch of my skin" 的 "scorched" 是暴力的——这个吻烧焦了他的每一寸皮肤。"almost unconscious movement" 的 "unconscious" 是 Christian 的核心——这个吻是潜意识的，不是经过深思熟虑的。
+**为什么这样写**：这一吻在书里的位置是「防线第一次失守」。作者用 subtle, almost unconscious 双重修饰削弱动作的主动性——他没有决定吻她，是身体先做了。dipped 是个轻词，力度被整个抽掉，只剩下距离消失这一事实。对一个凡事都先算再做的人，写出「没算就做」才是最大的转折。
 
-**读者视角提示**：Christian 在此处的 "unconscious" 是角色深度的来源——他不是一个会轻易冲动的人，但 Stella 让他冲动了。"Two seconds. One syllable. An electric instant" 的精确描述说明这个吻是短暂的，但影响是深远的——Christian 对每一秒都有精确的记忆。
+**读者视角提示**：读者在此得到确认：他可以在所有人面前维持伪装，唯独在靠近她这件事上做不到完全控制。
 
 ---
 

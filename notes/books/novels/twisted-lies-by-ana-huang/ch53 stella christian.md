@@ -20,7 +20,7 @@ pov: "Stella/Christian"
 
 **中文理解**：Stella 说"我们在哥伦比亚高地中心一家小意大利餐厅吃晚餐"。"tucked in the heart of Columbia Heights" 的 "tucked" 是精确的——Stella 认为餐厅藏在哥伦比亚高地的中心。"a flickering amber glow" 的 "flickering" 是精确的——Stella 认为烛光闪烁。
 
-**关键词**：proclaimed / butterflies / self-satisfaction / restaurant / envisioned
+**关键词**：restaurant / envisioned / eating / dinner / Italian
 
 **为什么这样写**：开篇用 "We were eating dinner at a tiny Italian restaurant tucked in the heart of Columbia Heights" 建立 Stella 的愉快——她在一家小餐厅吃晚餐。"It was the one Christian mentioned in his letters, and it was just as charming as I'd envisioned" 的 "envisioned" 是精确的——Stella 认为这是她设想的。"A candlelit chandelier bathed the room in a flickering amber glow, and a display of copper pots and pans hung on the exposed brick wall" 的 "flickering" 是精确的——Stella 认为烛光闪烁。
 
@@ -32,7 +32,7 @@ pov: "Stella/Christian"
 
 **中文理解**：Stella 说"我们复合已经一个月了"。"exploring the contours of our new relationship" 的 "exploring the contours" 是精确的——Stella 认为他们在探索新关系的轮廓。"flaws and all" 的 "flaws" 是精确的——Stella 认为他们带着瑕疵。
 
-**关键词**：individual / chandelier / flickering / especially / hand-holding
+**关键词**：month / together / spent / exploring / contours
 
 **为什么这样写**：这段描写是 Stella 的"满足时刻"——她对关系感到满足。"It'd been a month since we got back together, and we'd spent that time exploring the contours of our new relationship" 的 "exploring the contours" 是精确的——Stella 认为他们在探索新关系的轮廓。"No fake dating, no stalker scare forcing us together, no hiding behind flashy gestures and expensive gifts" 的 "flashy gestures" 是精确的——Stella 认为没有华丽的姿态。"Just us, flaws and all, going on normal dates and living normal lives" 的 "flaws" 是精确的——Stella 认为他们带着瑕疵。
 
@@ -44,7 +44,7 @@ pov: "Stella/Christian"
 
 **中文理解**：Stella 说"如果这还不够，当局那天早上以挪用公款和逃税罪逮捕了 Sentinel 的 CEO Mike Kurtz"。"Companies should stick to their lane" 的 "stick to their lane" 是精确的——Christian 认为公司应该专注于自己的领域。"area of expertise" 的 "expertise" 是精确的——Christian 认为这不是他们的专业领域。
 
-**关键词**：relationship / kidnapping / authorities / embezzlement / corporation
+**关键词**：authorities / embezzlement / corporation / enough / arrested
 
 **为什么这样写**：这段描写是 Stella 的"好奇时刻"——她对 Sentinel 的覆灭感到好奇。"If that wasn't enough, the authorities had arrested Sentinel's CEO Mike Kurtz that morning for embezzlement and tax fraud" 的 "embezzlement" 是精确的——Stella 认为这是挪用公款。"Companies should stick to their lane. Sentinel is a security corporation. They had no business venturing into cyber development when that's not their area of expertise" 的 "stick to their lane" 是精确的——Christian 认为公司应该专注于自己的领域。"area of expertise" 的 "expertise" 是精确的——Christian 认为这不是他们的专业领域。
 
@@ -56,7 +56,7 @@ pov: "Stella/Christian"
 
 **中文理解**：Christian 说"他靠在椅子上，性感男子气概和懒惰满足感的缩影"。"the picture of sensual masculinity and lazy contentment" 的 "sensual masculinity" 是精确的——Stella 认为 Christian 是性感男子气概的缩影。"The mere anticipation of what might happen turned me on as much as an actual touch" 的 "anticipation" 是精确的——Stella 认为期待本身就能让她兴奋。
 
-**关键词**：development / sun-warmed / uninterested / destruction / conversation
+**关键词**：leaned / chair / picture / sensual / masculinity
 
 **为什么这样写**：这段描写是 Stella 的"情欲时刻"——她对 Christian 感到兴奋。"He leaned back in his chair, the picture of sensual masculinity and lazy contentment" 的 "sensual masculinity" 是精确的——Stella 认为 Christian 是性感男子气概的缩影。"An electric current slid through the air and settled between my thighs" 的 "electric current" 是精确的——Stella 认为电流在她的 thighs 之间滑动。"The mere anticipation of what might happen turned me on as much as an actual touch" 的 "anticipation" 是精确的——Stella 认为期待本身就能让她兴奋。
 
@@ -68,7 +68,7 @@ pov: "Stella/Christian"
 
 **中文理解**：Christian 说"她的手纠缠在我的头发里，我把她的腿抬到肩膀上，给了她另一个长长的、慵懒的舔舐"。"languorous lick" 的 "languorous" 是精确的——Christian 认为舔舐是慵懒的。"the world's most intoxicating feast" 的 "intoxicating" 是精确的——Christian 认为这是世界上最令人陶醉的盛宴。
 
-**关键词**：officially / double-checked / ambassador / ultra-high-end / masculinity
+**关键词**：hands / tangled / hiked / higher / shoulders
 
 **为什么这样写**：这段描写是 Christian 的"情欲时刻"——他享受 Stella。"Her hands tangled in my hair as I hiked her legs higher on my shoulders and gave her clit another long, languorous lick" 的 "languorous" 是精确的——Christian 认为舔舐是慵懒的。"We just got started, sweetheart," I drawled. "This is going to be a long course" 的 "drawled" 是精确的——Christian 拉长声音说。"It was the world's most intoxicating feast" 的 "intoxicating" 是精确的——Christian 认为这是世界上最令人陶醉的盛宴。
 

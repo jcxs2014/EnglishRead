@@ -20,7 +20,7 @@ pov: "Stella/Christian"
 
 **中文理解**：Stella 醒来时看到 Christian 那边的皱床单——"微小的热度刺穿了我的皮肤"。"tiny prickles of heat consumed my skin" 的 "consumed" 是精确的——Stella 的热度是全面的、不可控的。
 
-**关键词**：distinction / half-eaten / uncertainty / beforehand / ridiculous
+**关键词**：morning / rumpled / sheets / stomach / butterflies
 
 **为什么这样写**：开篇用 "rumpled sheets and a stomach full of butterflies" 建立 Stella 的紧张——她对拍摄感到紧张。"tiny prickles of heat consumed my skin" 的 "consumed" 是精确的——Stella 的热度是全面的、不可控的。"the rumpled sheets on his side of the bed" 的 "rumpled" 是精确的——Stella 看到 Christian 那边的床单是皱的，暗示他昨晚睡在那里。
 
@@ -32,7 +32,7 @@ pov: "Stella/Christian"
 
 **中文理解**：Christian 说"今天不行。有工作紧急情况"。"Disappointment bloomed in my stomach until I crushed it" 的 "bloomed" 和 "crushed" 是精确的——Stella 的失望像花一样绽放，然后被她压碎了。
 
-**关键词**：fifteen-minute / accessories / comfortable / self-doubting / Emmanuelle
+**关键词**：today / emergency / Disappointment / bloomed / stomach
 
 **为什么这样写**：这段描写是 Stella 的"失望时刻"——她得知 Christian 不会来拍摄现场。"Not today. A work emergency came up" 的 "emergency" 是 Christian 的精确——他给出了精确的理由。"Disappointment bloomed in my stomach until I crushed it" 的 "bloomed" 和 "crushed" 是精确的——Stella 的失望像花一样绽放，然后被她压碎了。"Nothing I can't handle" 的 "can't handle" 是 Christian 的精确——他相信自己能处理工作紧急情况。
 
@@ -44,7 +44,7 @@ pov: "Stella/Christian"
 
 **中文理解**：Stella 说她"花了多年时间独自建立自己的品牌"。"I'd relied on Christian for confidence" 的 "relied" 是精确的——Stella 依赖 Christian 来获得自信。"But I'd completed the shoot this morning by myself, and I'd done a damn good job" 的 "damn good" 是精确的——Stella 知道她做得很好。
 
-**关键词**：realization / reappearance / confidence / designated / preoccupied
+**关键词**：reappearance / confidence / spent / years / building
 
 **为什么这样写**：这段描写是 Stella 的"自信时刻"——她意识到她不需要 Christian 也能完成拍摄。"I'd spent years building my brand by myself" 的 "by myself" 是精确的——Stella 花了多年时间独自建立自己的品牌。"I'd relied on Christian for confidence" 的 "relied" 是精确的——Stella 依赖 Christian 来获得自信。"But I'd completed the shoot this morning by myself, and I'd done a damn good job" 的 "damn good" 是精确的——Stella 知道她做得很好。
 
@@ -56,7 +56,7 @@ pov: "Stella/Christian"
 
 **中文理解**：Christian 说 Stella 看起来像"从深蓝色海洋中出现的维纳斯，只是一千倍更壮观"。"only a thousand times more spectacular" 的 "thousand times" 是精确的——Christian 认为 Stella 比维纳斯更壮观一千倍。
 
-**关键词**：extravagant / spectacular / photographer / instructions / photoshoot
+**关键词**：spectacular / photographer / instructions / photoshoot / looked
 
 **为什么这样写**：这段描写是 Christian 的"欲望时刻"——他被 Stella 的美貌征服了。"She looked like Venus emerging from the deep blue sea, only a thousand times more spectacular" 的 "thousand times" 是精确的——Christian 认为 Stella 比维纳斯更壮观一千倍。"My heart slowed to match the sensual ebb and flow of the water" 的 "sensual" 是精确的——Christian 的心跳与水的感官节奏同步。"Unlike at the first photoshoot, she appeared at ease here" 的 "at ease" 是精确的——Stella 在夏威夷比在 New York 更放松。
 
@@ -68,7 +68,7 @@ pov: "Stella/Christian"
 
 **中文理解**：Christian 说"致命的占有欲刺穿了我的血液"。"gouge out the eyes" 的 "gouge" 是暴力的——Christian 想挖出 Ricardo 的眼睛，暗示他的占有欲是暴力的。
 
-**关键词**：perfection / possessiveness / unidentifiable / Supermodels / susceptible
+**关键词**：possessiveness / lethal / spike / surged / through
 
 **为什么这样写**：这段描写是 Christian 的"占有欲时刻"——他对 Stella 的占有欲是暴力的。"A lethal spike of possessiveness surged through my blood" 的 "lethal" 是精确的——Christian 的占有欲是致命的。"I allowed my eyes to linger on her for a second longer before I dragged them away to assess Ricardo with a cold stare" 的 "linger" 是精确的——Christian 的目光在 Stella 身上停留了更长时间。"gouge out the eyes of the only male member of the crew" 的 "gouge" 是暴力的——Christian 想挖出 Ricardo 的眼睛，暗示他的占有欲是暴力的。
 

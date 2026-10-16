@@ -20,7 +20,7 @@ pov: "Christian"
 
 **中文理解**：Rhys 对 Christian 发怒——"你到底在干什么？"Christian 用"我在喝酒，享受你可爱的公司"来回应。"delightful" 的讽刺说明 Christian 的防御是讽刺性的——他不会直接回应 Rhys 的审问。
 
-**关键词**：friendship / absolutely / complicated / relationship / disagreements
+**关键词**：think / doing / drinking / enjoying / delightful
 
 **为什么这样写**：开篇用 "What the hell do you think you're doing?" 建立 Rhys 的愤怒——他在审问 Christian。"I'm drinking and enjoying your delightful company" 的 "delightful" 是 Christian 的讽刺——他用讽刺来防御。"I wish I could say the same" 的 "wish" 是 Rhys 的精确——他不想见到 Christian。"he turned the full force of his ire on me" 的 "ire" 是精确的——Rhys 的愤怒是全面的、直接的。
 
@@ -32,7 +32,7 @@ pov: "Christian"
 
 **中文理解**：Rhys 告诉 Christian 远离 Stella——"我不在乎是不是假的。她和你住在一起，我不信任你和她住在同一个屋檐下"。"I don't trust you under the same roof with her" 的 "under the same roof" 是精确的——Rhys 不信任 Christian 和 Stella 住在同一个屋檐下。
 
-**关键词**：bodyguards / fascination / intimately / disappeared / acknowledged
+**关键词**：bullshit / Harper / glare / crackled / irritation
 
 **为什么这样写**：这段描写是 Christian 的"被审问时刻"——Rhys 直接告诉他远离 Stella。"Cut the bullshit, Harper" 的 "bullshit" 是 Rhys 的精确——他不会给 Christian 留下任何伪装的空间。"I told you to stay away from Stella" 的 "stay away" 是 Rhys 的精确——他不是在建议，他是在命令。"I don't trust you under the same roof with her" 的 "under the same roof" 是精确的——Rhys 不信任 Christian 和 Stella 住在同一个屋檐下。
 
@@ -44,7 +44,7 @@ pov: "Christian"
 
 **中文理解**：Rhys 说 Bridget 告诉他 Christian 为 Stella 做的一切——降低租金、同意约会安排、让她搬进他的房子。"handing out special treatment like candy" 的 "candy" 是精确的——Rhys 认为 Christian 给 Stella 的待遇是像糖果一样随意发放的。
 
-**关键词**：obligatory / occasional / interaction / one-eighty / inadvertently
+**关键词**：expression / turned / speculative / Bridget / things
 
 **为什么这样写**：这段描写是 Christian 的"被揭露时刻"——Rhys 看穿了他的伪装。"Bridget told me about all the things you did for Stella" 的 "all the things" 是精确的——Rhys 知道 Christian 为 Stella 做的一切。"handing out special treatment like candy" 的 "candy" 是精确的——Rhys 认为 Christian 给 Stella 的待遇是像糖果一样随意发放的。"set off a dozen warning bells" 的 "warning bells" 是精确的——Christian 的直觉在警告他——Rhys 看穿了他。
 
@@ -56,7 +56,7 @@ pov: "Christian"
 
 **中文理解**：Alex 说"有情感没什么好羞耻的"。Christian 注意到 Alex 的变化——三年前的 Alex 永远不会说这样的话。"love turned the most level-headed of people into fools" 的 "fools" 是精确的——Christian 认为爱情会把最理智的人变成傻瓜。
 
-**关键词**：background / basketball / possession / regretting / insufferable
+**关键词**：Having / feelings / nothing / ashamed / smile
 
 **为什么这样写**：这段描写是 Christian 的"观察时刻"——他注意到 Alex 的变化。"Having feelings is nothing to be ashamed of" 的 "ashamed" 是 Alex 的精确——他认为有情感没什么好羞耻的。"The Alex Volkov I knew three years ago would've never said such a thing" 的 "would've never" 是 Christian 的精确——Alex 的变化是巨大的。"love turned the most level-headed of people into fools" 的 "fools" 是精确的——Christian 认为爱情会把最理智的人变成傻瓜。
 
@@ -68,7 +68,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说他"不爱她，但想要她的强度让爱情这个脆弱、过时的概念相形见绌"。"It wasn't sweet or saccharine" 的 "saccharine" 是精确的——Christian 对 Stella 的欲望不是甜蜜的，而是粗糙的、黑暗的。"Eventually, I would catch her, and once I did, I was never letting her go" 的 "never letting her go" 是精确的——Christian 不会让 Stella 走。
 
-**关键词**：speculative / arrangement / irritation / interrogated / Deflection
+**关键词**：wanted / intensity / flimsy / overused / concept
 
 **为什么这样写**：这段描写是 Christian 的"承认时刻"——他承认他对 Stella 的欲望。"I didn't love her, but I wanted her with an intensity that left the flimsy, overused concept of love in the dust" 的 "flimsy" 和 "overused" 是精确的——Christian 认为爱情是脆弱的、过时的。"It wasn't sweet or saccharine" 的 "saccharine" 是精确的——Christian 对 Stella 的欲望不是甜蜜的，而是粗糙的、黑暗的。"Eventually, I would catch her, and once I did, I was never letting her go" 的 "never letting her go" 是精确的——Christian 不会让 Stella 走。
 

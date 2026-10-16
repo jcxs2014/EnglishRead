@@ -20,7 +20,7 @@ pov: "Christian"
 
 **中文理解**：Dante 用轻松的调侃试探 Christian 的情绪，Christian 立刻用 Dante 与未婚妻 Vivian 分居的事实反击。两人之间的对话是一场攻防——谁先暴露弱点谁就输了。
 
-**关键词**：Satisfaction / weakness / narrowed / vanished
+**关键词**：Lighten / scowl / Harper / Dante / drink
 
 **为什么这样写**：这段对话建立了 Christian 和 Dante 的关系模式——两人是旧友，但互相握有对方的把柄。Christian 的 "cold smile" 和 Dante 的 "lazy sip" 都是防御性的肢体语言，暗示两人都在用轻松包装锋利。"Vivian was his" 一句话点出 Dante 的弱点，攻防瞬间逆转。
 
@@ -32,7 +32,7 @@ pov: "Christian"
 
 **中文理解**：Christian 承认自己有两个例外——Stella 和 Magda 画作。这句话是全书的题眼之一：一个自称没有感情的人，在同一个章节里承认了两个软肋。
 
-**关键词**：represented / sentimental / pragmatism / suspicious / appearances
+**关键词**：sentimental / pragmatism / person / areas / usual
 
 **为什么这样写**：这是 Christian 全书第一次也是唯一一次直接承认自己的"不理性"。"two areas" 的精确计数暗示他反复思考过这个问题。Magda 代表过去（他的背叛与失去），Stella 代表现在（他的执念与渴望）——两个例外并置，暗示它们之间存在某种联系。
 
@@ -44,7 +44,7 @@ pov: "Christian"
 
 **中文理解**：Christian 承认降低租金、安排植物照护的整个安排都是他精心设计的——他利用 Stella 的经济困境，制造了一个合法的借口让她进入他的生活。
 
-**关键词**：concession / distraction / resentment / frustration / insatiable
+**关键词**：distraction / plants / interior / designer / insisted
 
 **为什么这样写**：这段独白揭示了 Christian 行为背后的真实动机。"a selfless concession on my part would've been too suspicious" 说明他每一步都经过计算——他不是一个随善而动的人，而是一个把善意当作工具的人。"the worst kind of distraction" 是他对自己失控的承认，"no one except myself to blame" 则是他拒绝外归因的骄傲。
 
@@ -56,7 +56,7 @@ pov: "Christian"
 
 **中文理解**：Christian 黑入 Madigan 的所有设备，找到性侵证据并转发给检方和媒体。他精确地列出了入侵范围——从手机到智能冰箱——展示了他作为安全公司 CEO 的技术能力。
 
-**关键词**：Bluetooth-enabled / prosecution / admissible / facilitated / three-dimensional
+**关键词**：Bluetooth-enabled / pulled / devices / Phones / computers
 
 **为什么这样写**：这段描写的功能是建立 Christian 的能力边界——他不仅是一个有钱的商人，他是一个能黑入任何设备、操纵司法进程的人。"less than five minutes" 强调了他的技术碾压。"Cyber sabotage was better than a deep tissue massage" 这句自嘲式比喻揭示了他用暴力（即使是数字暴力）来管理情绪的模式。
 
@@ -68,7 +68,7 @@ pov: "Christian"
 
 **中文理解**：Christian 在 Dante 离开前发出直接威胁——再碰 Stella，他就让 Dante 失去 Vivian。随后他关上门，用 "what was mine" 定义了 Stella 在他心中的位置。
 
-**关键词**：touching / different / weakness / enigmatic / existence
+**关键词**：touching / Touch / Stella / longer / slammed
 
 **为什么这样写**：这是全书 Christian 第一次明确宣示对 Stella 的占有权。"Touch Stella again" 是祈使句，语气比任何情话都更暴露真实情感。"what was mine" 的措辞把 Stella 定义为财产而非爱人——这是 Christian 的自我保护机制，用占有欲的语言替代爱的语言。"slammed the door" 的动作与他之前的冷静形成对比，显示他的情绪已经越过了理性控制的边界。
 

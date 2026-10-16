@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"我要去意大利了！"。"I just had to get that off my chest" 的 "get that off my chest" 是精确的——Stella 需要把她的兴奋说出来。"the whole shebang" 的 "shebang" 是精确的——Stella 想要做完整的旅行。
 
-**关键词**：month-long / incredible / expectations / ambassador / liberating
+**关键词**：month-long / GOING / ITALY / chest / believe
 
 **为什么这样写**：开篇用 "I'M GOING TO ITALY!" 建立 Stella 的兴奋——她要去意大利了。"Okay, I just had to get that off my chest because I still can't believe it" 的 "get that off my chest" 是精确的——Stella 需要把她的兴奋说出来。"I wanted to do the whole shebang like Christian said" 的 "shebang" 是精确的——Stella 想要做完整的旅行。"Venice, Rome, Positano… I never found the time or money, but now, here I am, packing for a month-long trip" 的 "month-long" 是精确的——Stella 要去一个月。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"花他的钱让我有点不舒服"。"That's the one thing I drew a line at" 的 "drew a line at" 是精确的——Stella 画了一条线。"I don't want to succeed just because I have a rich boyfriend who can bankroll me" 的 "bankroll" 是精确的——Stella 不想因为她有一个富有的男朋友而成功。
 
-**关键词**：pedestrians / activities / Unfortunately / Apparently / compromise
+**关键词**：uncomfortable / spending / money / Jules / worry
 
 **为什么这样写**：这段描写是 Stella 的"原则时刻"——她不想花 Christian 的钱。"It does make me a bit uncomfortable that I'm spending so much of his money" 的 "uncomfortable" 是精确的——Stella 觉得不舒服。"That's the one thing I drew a line at" 的 "drew a line at" 是精确的——Stella 画了一条线。"I don't want to succeed just because I have a rich boyfriend who can bankroll me" 的 "bankroll" 是精确的——Stella 不想因为她有一个富有的男朋友而成功。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"我转得太晚，撞上了酒店室外咖啡馆边缘的一个大花盆"。"wordlessly" 是精确的——Stella 无言地递出了钥匙。"aversion to art" 的 "aversion" 是精确的——Christian 厌恶艺术。
 
-**关键词**：difference / straighter / instructions / appreciate / skepticism
+**关键词**：turned / sideswiped / giant / flower / bordering
 
 **为什么这样写**：这段描写是 Stella 的"尴尬时刻"——她撞了花盆。"I'd turned too late and sideswiped one of the giant flower pots bordering the hotel's outdoor cafe" 的 "sideswiped" 是精确的——Stella 撞上了花盆。"I got off the Vespa and wordlessly handed Christian the keys" 的 "wordlessly" 是精确的——Stella 无言地递出了钥匙。"If I hadn't known about his aversion to art beforehand, I would've thought he enjoyed the exhibitions" 的 "aversion" 是精确的——Christian 厌恶艺术。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"我没告诉你的是他兼职做什么"。"wrapping my head around" 的 "wrapping my head around" 是精确的——Stella 正在消化这个信息。"coincidences" 的 "coincidences" 是精确的——巧合太多了。
 
-**关键词**：sideswiped / terracotta / wordlessly / beforehand / exhibitions
+**关键词**：moonlighted / wrapping / around / explosive / piece
 
 **为什么这样写**：这段描写是 Stella 的"理解时刻"——她理解了 Christian 的过去。"What I didn't tell you was what he moonlighted as" 的 "moonlighted" 是精确的——Stella 说 Christian 的父亲兼职做窃贼。"I was still wrapping my head around this explosive new piece of information when Christian continued" 的 "wrapping my head around" 是精确的——Stella 正在消化这个信息。"There were too many coincidences between my father's mysterious business trips and the dates the stolen art were reported on the news" 的 "coincidences" 是精确的——巧合太多了。
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"当我质问父亲时，他承认了"。"tentatively" 是精确的——Stella 试探性地伸出了手。"curled mine over it" 的 "curled" 是精确的——Stella 把她的手卷在 Christian 的手上。
 
-**关键词**：unsettling / sympathetic / expression / disappeared / understood
+**关键词**：confronted / father / confessed / Maybe / parents
 
 **为什么这样写**：这段描写是 Stella 的"理解时刻"——她理解了 Christian 的过去。"When I confronted my father about it, he confessed" 的 "confessed" 是精确的——Christian 的父亲承认了。"Maybe his parents hadn't been physically abusive, but it sounded like they hadn't cared about his emotional or mental well-being at all" 的 "well-being" 是精确的——Christian 的父母不在乎他的情感或心理健康。"I tentatively reached for his hand and curled mine over it" 的 "tentatively" 是精确的——Stella 试探性地伸出了手。
 

@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Jules 早上七点敲门，Stella 知道她不会离开——Jules 会一直守在门口直到她开门。"nothing if not persistent" 的双重否定强调了 Jules 的执着。
 
-**关键词**：persistent / interaction / purple-clad / sunglasses / increasing
+**关键词**：persistent / Stella / buried / pillowcase / hoping
 
 **为什么这样写**：开篇用 Jules 的敲门声建立场景——Stella 的早晨被朋友入侵。"buried my face in my silk pillowcase" 的动作暗示 Stella 想逃避现实。"camp out in my hall" 的 "camp" 暗示 Jules 会像露营一样坚守。"nothing if not persistent" 的双重否定是 Stella 对 Jules 的精确评价——她不是"有点执着"，而是"极其执着"。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：Jules 的问题像锤子一样敲在 Stella 的头上——她宿醉未醒，而 Jules 的声音越来越大。"construction crew" 和 "Bang. Bang. BANG!" 的拟声词把头痛转化为物理暴力。
 
-**关键词**：construction / reverberated / bone-rattling / overprotectiveness / notifications
+**关键词**：construction / reverberated / bone-rattling / winced / increasing
 
 **为什么这样写**：这段描写用建筑工人的比喻把 Stella 的头痛具象化——Jules 的问题不是"烦人"，而是"暴力"。"Bang. Bang. BANG!" 的拟声词递增（从 Bang 到 BANG）暗示 Jules 的声音越来越大。"bone-rattling force" 的 "bone-rattling" 暗示这种头痛是深入骨髓的——不是表面的，而是内部的。"reverberated through my skull" 的 "reverberated" 暗示这种头痛是持续的、回荡的。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Stella 最终承认 Christian 是假男友。朋友们的三双空白目光——他们震惊到说不出话。"daytime talk show host" 的比喻说明朋友们平时是多么健谈。
 
-**关键词**：bright-eyed / fresh-faced / interrogation / expectantly / relationship
+**关键词**：freak / bottom / between / teeth / Christian
 
 **为什么这样写**：这段描写是 Stella 的"坦白时刻"——她终于说出了真相。"don't freak out" 的警告暗示她知道朋友们会有强烈反应。"Three blank stares" 的精确计数（三双）说明这不是一个人的反应，而是集体的震惊。"daytime talk show host" 的比喻把朋友们的沉默转化为一种反常——他们平时是话痨，现在却沉默了。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：朋友们同时开口提问，声音重叠在一起。Stella 不得不喊停——她意识到自己不想分享生活的原因不是缺乏责任感，而是他人的反应和期望。
 
-**关键词**：interrupted / appreciate / uncharacteristic / interesting / dictionary
+**关键词**：Christian / Harper / dating / dangerous / going
 
 **为什么这样写**：这段描写是 Stella 的"社交恐惧"时刻——朋友们的关心让她窒息。"Stop" 的单字命令是 Stella 的边界设定——她需要空间来解释。"This was why I didn't share things about my life often" 的 "this" 是模糊的——它指代朋友们的反应，也指代她自己的社交焦虑。"Not because I didn't want accountability, but because of other people's reactions and expectations" 的对比结构揭示了 Stella 的核心矛盾：她想要连接，但她害怕连接带来的负担。
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Stella 为 Christian 辩护——他不是危险的，他只是"有点紧张"，他的工作是保护人，他是 Rhys 的朋友。她强调"他没有强迫我"——这是她最担心的误解。
 
-**关键词**：backstabbing / confession / speechless / accountability / expectations
+**关键词**：Christian / boyfriend / story / dangerous / little
 
 **为什么这样写**：这段独白是 Stella 为 Christian 的辩护——她试图让朋友们理解他不是危险的。"he's a little intense" 的 "little" 是 Stella 对 Christian 的精确评价——他不是"危险"，而是"紧张"。"His job is literally to protect people's lives" 的 "literally" 强调 Christian 的职业本质——他是保护者，不是威胁者。"he's friends with Rhys, so he can't be that bad" 的逻辑是 Stella 的社交证明——如果 Rhys 信任 Christian，那他就不可能是坏人。
 

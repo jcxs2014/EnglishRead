@@ -20,7 +20,7 @@ pov: "Christian"
 
 **中文理解**：Christian 看着 Stella 的 Instagram 帖子——他的手放在她裸露的大腿上，绿色礼服与黑色西装形成对比。这张照片只说了一个词："Mine"（我的）。
 
-**关键词**：fundraiser / contrasting / distraught / Brycefitness / Threetriscuits
+**关键词**：fundraiser / contrasting / stared / latest / Instagram
 
 **为什么这样写**：这段描写是 Christian 对 Stella 的"视觉占有"——他看着照片，看到的是自己的手放在她的腿上。"Some photos were worth a thousand words. This photo said only one." 的对比结构把这张照片从"千言万语"压缩到一个词——"Mine"。这个词是 Christian 对 Stella 的最直接定义：她不是他的朋友，不是他的租客，而是他的财产。"coal black sleeve" 与 "vivid green" 的色彩对比暗示他们的关系是互补的——他的黑暗与她的光明。
 
@@ -32,7 +32,7 @@ pov: "Christian"
 
 **中文理解**：Christian 看到 brycefitness 的评论后开始研究他的个人资料——"大块头，小脑子，标准健身男"。他甚至开始计算用杠铃压死一个人需要多少磅。
 
-**关键词**：disrupting / calculations / recognized / irrelevant / Apparently
+**关键词**：narrowed / tapped / profile / studied / muscles
 
 **为什么这样写**：这段描写是 Christian 的"暴力幻想"——他看到陌生男人对 Stella 的评论后，第一反应不是愤怒，而是计算如何杀人。"How many pounds on a barbell would it take to crush someone?" 的精确计算暗示 Christian 的暴力不是冲动的，而是经过计算的。"Hmm…" 的语气词暗示他在认真思考这个问题。"Standard gym bro who thought he was God's gift to women" 的讽刺评价显示 Christian 对 brycefitness 的轻蔑——他不是威胁，而是笑话。
 
@@ -44,7 +44,7 @@ pov: "Christian"
 
 **中文理解**：Christian 与 Luisa 的短信对话——他否认自己想影响她的决定，Luisa 回应说"你是混蛋"，然后透露她已经 95% 确定了品牌大使人选。Christian 回复"很高兴，这是迟早的事"，并自我标注为"中立，半感兴趣"。
 
-**关键词**：ambassador / deliberation / semi-disinterested / sought-after / Undercutting
+**关键词**：ambassador / semi-disinterested / decision / better / Anyway
 
 **为什么这样写**：这段对话是 Christian 的"社交表演"——他故意不表现出对 Luisa 决定的兴趣，以维持"半感兴趣"的假象。"Neutral, semi-disinterested" 的自我标注是 Christian 的内心独白——他知道自己在表演，他也知道 Luisa 知道他在表演。"Don't lie, Lu. I'm better at it than you are." 的挑衅暗示 Christian 和 Luisa 的关系是竞争性的——他们都在试图欺骗对方，但 Christian 更擅长。"95% set" 的精确数字暗示 Luisa 已经做出了决定，但她不会直接告诉 Christian。
 
@@ -56,7 +56,7 @@ pov: "Christian"
 
 **中文理解**：Kage 评论 Christian 的"女友"像超模，Christian 用"黑暗火焰"来形容自己的反应，然后迅速扑灭它。他冷冷地告诉 Kage：他唯一想讨论的是工作，不是女友。
 
-**关键词**：influencer / unexpected / expressing / sentiments / observation
+**关键词**：chair / opposite / Somehow / surprised / girlfriend
 
 **为什么这样写**：这段对话是 Christian 的"公私分离"——他不想让员工讨论他的私生活。"A dark flame kindled in my chest before I smothered it" 的 "smothered" 暗示 Christian 在压制自己的情感——他不想让 Kage 看到他的反应。"The only thing I'm interested in discussing right now" 的 "only" 是 Christian 的边界设定——他把私生活和工作分开，不允许员工越界。"coldly" 的语气暗示 Christian 在用这个语气来掩饰他的真实情感。
 
@@ -64,15 +64,15 @@ pov: "Christian"
 
 ---
 
-> **原句 5:** "The same things every man does in a relationship." … "Cut the vague bullshit, Harper." A note of warning slipped into his voice. "She's Bridget's best friend. If she's upset, Bridget's upset. And if Bridget's upset…" … "You're going to knock me out with your ceremonial crown?" … "Duly noted. Now, I believe you have an event early tomorrow morning. Better get to sleep, Your Highness. You need your beauty rest for the photo ops."
+> **原句 5:** "Cut the vague bullshit, Harper." A note of warning slipped into his voice. "She's Bridget's best friend. If she's upset, Bridget's upset. And if Bridget's upset…"
 
-**中文理解**：Rhys 质问 Christian 为什么和 Stella 约会，Christian 用模糊的回答回避。Rhys 警告他：如果 Stella 不开心，Bridget 也不开心，如果 Bridget 不开心……Christian 用讽刺回应——"你要用你的王冠打我吗？"
+**中文理解**：Rhys 不再绕弯子，直接向 Christian 挑明利害：Stella 是 Bridget 最好的朋友，她若受伤，Bridget 也会受伤。话说到一半就停住——"And if Bridget's upset…"——省略的部分比说出来的更重。
 
-**关键词**：protective / Understandable / intentions / stained-glass / concentration
+**关键词**：vague / bullshit / warning / Bridget / upset
 
-**为什么这样写**：这段对话是 Christian 与 Rhys 的"权力博弈"——Rhys 试图用 Bridget 来施压 Christian，Christian 用讽刺来化解。"Cut the vague bullshit" 的直接性暗示 Rhys 和 Christian 的关系是坦诚的——他们不需要礼貌。"She's Bridget's best friend. If she's upset, Bridget's upset. And if Bridget's upset…" 的递进结构是 Rhys 的威胁——他在告诉 Christian，如果他不认真对待 Stella，后果会很严重。"You're going to knock me out with your ceremonial crown?" 的讽刺是 Christian 的反击——他在嘲笑 Rhys 的王子身份，暗示他的威胁是荒谬的。
+**为什么这样写**：Rhys 与 Christian 的关系在这一句里显形：不需要客套，甚至不需要把话说完。"Cut the vague bullshit" 的直白说明两人之间只有一种交流方式，就是摊开讲。真正的压力来自那句递进——"She's Bridget's best friend. If she's upset, Bridget's upset. And if Bridget's upset…"——三段连锁把"对 Stella 好"从建议变成了硬性要求，而结尾的省略号把威胁交给读者自己补完。
 
-**读者视角提示**：Christian 在此处的讽刺是防御性的——他不想让 Rhys 知道他的真实情感，所以用讽刺来掩饰。"Duly noted" 的 "duly" 暗示 Christian 听到了 Rhys 的警告，但他不会改变自己的行为。这种"听到了但不改"的态度是 Christian 对权威的典型反应。
+**读者视角提示**：Rhys 在这里承担的是全书的"外部良心"——他不在意 Christian 的权力，只在意 Bridget 在乎的人。这个警告也为后文埋线：Christian 对 Stella 的保护，从此多了一层来自朋友的压力。
 
 ---
 

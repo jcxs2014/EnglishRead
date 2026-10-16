@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：日记体开场，Stella 直接面对 Greenfield 涨价危机。她把全部希望寄托在 Delamonte 品牌大使面试上——"mid-six figures" 的精确数字暗示这笔钱足以覆盖 Maura 的护理费。
 
-**关键词**：Greenfield / ambassador / partnership / Delamonte / convinced
+**关键词**：Greenfield / ambassador / Delamonte / convinced / three
 
 **为什么这样写**：日记体是 Stella 的内心独白，比第三人称更直接地暴露她的焦虑。"IF I get it" 的大写 IF 是视觉化的犹豫——她不敢确定自己能拿到这个合同。"mid-six figures" 的精确数字与 ch01 的 "$6,500 per month" 形成对照：一个数字是负担，另一个数字是解药。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：Christian 在 Delamonte 晚宴上意外出现。Stella 用 "meteorite" 的比喻来表达这种巧合的不可思议——她没想到会在纽约再次遇见他。
 
-**关键词**：cheekbones / near-stranger / unconditionally / introduction / underneath
+**关键词**：Disaster / number / entered / everyone / seated
 
 **为什么这样写**："Disaster number two" 的编号体（disaster number one/two/three）是 Stella 内心独白的标志性风格——她把社交场合的挫折按灾难等级排序。"meteorite" 的比喻既夸张又精确：Christian 的出现对她来说确实像陨石撞击一样不可预测、不可抗拒。"In New York, no less" 的补充说明强调了空间上的不可能性——这不是偶遇，这是某种她无法解释的引力。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Christian 的目光让 Stella 感到被看穿——他似乎能看到她精心维护的"完美"外表下隐藏的那个破碎的女孩，而且他不觉得这有什么不对。
 
-**关键词**：underneath / brokenness / connection / unpleasant / noticeably
+**关键词**：underneath / brokenness / connection / knowing / could
 
 **为什么这样写**：这是全书 Stella 对 Christian 目光的最精确描述。"strip away every mask" 的暴力意象与 "brokenness was beautiful" 的温柔判断形成对比——Christian 的目光同时具有穿透力和接受力。"severed the connection with a blink" 是 Stella 的自我保护：她不敢让这种目光持续太久，因为她不确定自己会在其中看到什么。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：Christian 用一个荒谬的借口（不喜欢桌角）要求与 Stella 换座。Stella 的追问（"如果是四人桌呢？"）暴露了这个借口的虚假性，但 Christian 的 "Impatience" 表明他不在乎逻辑——他只想坐在她旁边。
 
-**关键词**：Impatience / considering / congratulations / especially / animatedly
+**关键词**：Impatience / dislike / corner / table / stare
 
 **为什么这样写**：这段对话是两人关系的缩影——Christian 提出一个明显荒谬的要求，Stella 试图用逻辑拆解，Christian 用沉默和不满来施压。"What do you do if it's a four-seater?" 是 Stella 的反击，但 "Impatience greeted my question" 说明 Christian 根本不打算讲理。这种"我不讲理你也拿我没办法"的互动模式是两人关系的常态。
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Christian 在 Stella 问"What impression did I make on you?"之后给出了这个回答。他没有回答她的问题，而是警告她——有些问题的答案比你准备接受的更危险。
 
-**关键词**：swallowing / remembered / well-dressed / symmetrical / conversations
+**关键词**：questions / answer
 
 **为什么这样写**：这是全书 Christian 对 Stella 说的第一句具有明确情感暗示的话。"Don't ask questions you don't want the answer to" 的句式是条件句——他把选择权交给她，但暗示无论她选哪个，答案都会改变她。"sparked and hissed like a live wire" 的比喻把这个问题的危险性具象化：这不是一个普通的问题，这是一个会触电的问题。
 

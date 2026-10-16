@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Stella 像"逃离 FBI 的逃犯"一样躲避 Christian。"surprisingly easy" 的 "surprisingly" 暗示她以为会更难——但 Christian 也很早出门、很晚回来。"I suspected he might be avoiding me as well" 的 "suspected" 暗示 Stella 不确定，但她有直觉。
 
-**关键词**：determination / surprisingly / accompanying / concentration / shirtsleeves
+**关键词**：determination / surprisingly / accompanying / avoided / Christian
 
 **为什么这样写**：开篇用 "determination of an escaped convict fleeing the FBI" 的比喻把 Stella 的躲避具象化——她不是随便躲避，而是像逃犯一样认真。"surprisingly easy" 的 "surprisingly" 暗示 Stella 的预期——她以为会更难，但 Christian 的早出晚退让躲避变得容易。"I suspected he might be avoiding me as well" 的 "suspected" 是 Stella 的精确——她不确定，但她有直觉。"half expected him to back out" 的 "half" 是 Stella 的精确——她一半期待他退出，一半不期待。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：Stella 问 Christian 为什么选择私人安全——他可以去任何领域。Christian 说"我喜欢"，然后说"Rhys 说这是我的上帝情结——知道这些生命有多重要，而它们在我手中"。
 
-**关键词**：headquartered / elaboration / thermometer / surrounding / administrator
+**关键词**：choose / private / security / asked / breaking
 
 **为什么这样写**：这段对话是 Stella 的"探索时刻"——她试图了解 Christian。"Why did you choose private security?" 的 "why" 是 Stella 的核心问题——她想知道 Christian 的动机。"You could've gone into any field" 的 "any field" 是 Stella 的精确——她知道 Christian 可以去任何领域，但他选择了这个。"I enjoy it" 的 "enjoy" 是 Christian 的精确——他不是在解释，他是在享受。"Rhys says it's my god complex" 的 "god complex" 是 Christian 的自我认知——他知道别人怎么看他。"Knowing how important the lives at stake are and that they're in my hands" 的 "in my hands" 是 Christian 的核心——他喜欢权力，他喜欢掌控。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说 Christian 是她见过的最迷人的男人之一。"One of?" 的精确措辞说明 Christian 在追问——他想知道他在她心中排第几。"Dark flames devoured all the oxygen in the cabin" 的 "devoured" 是暴力的——欲望像火焰一样吞噬了所有氧气。
 
-**关键词**：graduation / guarantees / calculating / proprietary / well-placed
+**关键词**：think / fascinating / admission / darkening / molten
 
 **为什么这样写**：这段描写是 Stella 的"大胆时刻"——她承认 Christian 很迷人。"It was a bold admission" 的 "bold" 是 Stella 的自我认知——她知道这是大胆的。"his eyes darkening into a rich, molten amber" 的 "molten" 是精确的——Christian 的眼睛变成了熔化的琥珀，暗示他的欲望被点燃了。"One of?" 的精确措辞说明 Christian 在追问——他想知道他在她心中排第几。"Dark flames devoured all the oxygen in the cabin" 的 "devoured" 是暴力的——欲望像火焰一样吞噬了所有氧气。"compressed lungs" 的 "compressed" 是精确的——Stella 的肺被压缩了，暗示她的呼吸被欲望打断了。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：空乘人员打断了 Christian 和 Stella 的几乎接吻。"The attendant's gentle voice sliced the moment into a thousand jagged pieces" 的 "sliced" 是暴力的——空乘的声音像刀一样切断了这个时刻。"acrid sting of disappointment" 的 "acrid" 是精确的——Stella 的失望是刺鼻的、尖锐的。
 
-**关键词**：trepidation / effortlessly / conversation / distracted / near-forgotten
+**关键词**：Harper / apologies / interruption / wanted / alert
 
 **为什么这样写**：这段描写是 Stella 的"失望时刻"——她几乎接吻了，但被打断了。"sliced the moment into a thousand jagged pieces" 的 "sliced" 是暴力的——空乘的声音像刀一样切断了这个时刻。"A cold wave of oxygen rushed back into my chest" 的 "cold wave" 是突然的——Stella 的呼吸突然恢复了。"acrid sting of disappointment" 的 "acrid" 是精确的——Stella 的失望是刺鼻的、尖锐的。"when Christian drew back" 的 "drew back" 是突然的——Christian 突然退后了，暗示他也在失望。
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Ricardo 让 Stella 休息十分钟——"翻译：你有十分钟来整理你的情绪"。"Forced patience strained Ricardo's voice" 的 "strained" 是精确的——Ricardo 的耐心是勉强的，他的声音紧张了。
 
-**关键词**：mini-speech / intoxicating / interesting / fascinating / compressed
+**关键词**：Stella / darling / Forced / patience / strained
 
 **为什么这样写**：这段描写是 Stella 的"失败时刻"——她在 Delamonte 拍摄时表现不佳。"Forced patience strained Ricardo's voice" 的 "strained" 是精确的——Ricardo 的耐心是勉强的，他的声音紧张了。"Let's take a break, shall we?" 的 "shall we" 是 Ricardo 的礼貌——他不是在命令，他是在建议。"Translation: you have ten minutes to get your shit together" 的 "translation" 是 Stella 的精确——她知道 Ricardo 的礼貌背后是什么。"get your shit together" 的 "shit" 是 Stella 的精确——她知道 Ricardo 在说"整理你的情绪"。
 

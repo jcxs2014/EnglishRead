@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"Alex 和 Ava 的婚礼在十月初在 Vermont 的一个美丽葡萄园举行"。"a gorgeous vineyard in Vermont" 的 "gorgeous" 是精确的——Stella 认为葡萄园是华丽的。"an autumnal fairytale" 的 "autumnal" 是精确的——Stella 认为这是秋天的童话。
 
-**关键词**：Originally / instructor / Thanksgiving / containing / waterproof
+**关键词**：wedding / place / early / October / gorgeous
 
 **为什么这样写**：开篇用 "Alex and Ava's wedding took place in early October, at a gorgeous vineyard in Vermont" 建立 Stella 的感动——她参加婚礼。"Stunning red, orange, and yellow foliage transformed the setting into an autumnal fairytale, and the beautiful sky draped over us like a sheet of azure, sun-warmed silk" 的 "autumnal" 是精确的——Stella 认为这是秋天的童话。"Bridget, Jules, and I stood on one side of the extravagant floral wedding arch in matching bridesmaid dresses while Alex, Josh, Rhys, and Christian stood on the other" 的 "matching bridesmaid dresses" 是精确的——Stella 认为她们穿着相配的伴娘礼服。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"我不经常在公共场合哭，但当她走在 Ralph 的手臂上走过过道时，湿气刺痛了我的眼睛"。"moisture prickled my eyes" 的 "prickled" 是精确的——Stella 认为湿气刺痛了她的眼睛。"his face glowed with emotion as if she were his real daughter" 的 "glowed" 是精确的——Stella 认为 Ralph 的脸上闪耀着情感。
 
-**关键词**：incredible / intensified / affectionate / spluttered / blossoming
+**关键词**：public / often / moisture / prickled / walked
 
 **为什么这样写**：这段描写是 Stella 的"感动时刻"——她被婚礼感动了。"I didn't cry in public often, but moisture prickled my eyes when she walked down the aisle on Ralph's arm" 的 "prickled" 是精确的——Stella 认为湿气刺痛了她的眼睛。"Ralph was Alex's old Krav Maga instructor and the closest Alex and Ava had to a parent these days" 的 "instructor" 是精确的——Stella 认为 Ralph 是教练。"his face glowed with emotion as if she were his real daughter" 的 "glowed" 是精确的——Stella 认为 Ralph 的脸上闪耀着情感。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"她看起来如此美丽和幸福，我的胸膛变暖，直到我不再感到秋天的寒意"。"the darkest pasts and the rockiest path toward their happily ever after" 的 "rockiest" 是精确的——Stella 认为他们的道路是最艰难的。"Seeing them overcome all of that to finally be together was incredible" 的 "incredible" 是精确的——Stella 认为这是令人难以置信的。
 
-**关键词**：mentioning / enveloping / expressions / Apparently / Seychelles
+**关键词**：looked / beautiful / happy / chest / warmed
 
 **为什么这样写**：这段描写是 Stella 的"敬佩时刻"——她对 Alex 和 Ava 感到敬佩。"She looked so beautiful and happy my chest warmed until I no longer felt the fall chill" 的 "warmed" 是精确的——Stella 认为她的胸膛变暖了。"She and Alex had perhaps the darkest pasts and the rockiest path toward their happily ever after" 的 "rockiest" 是精确的——Stella 认为他们的道路是最艰难的。"Seeing them overcome all of that to finally be together was incredible" 的 "incredible" 是精确的——Stella 认为这是令人难以置信的。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：Bridget 说"昨晚，Bridget 平滑地说，在 Jules 提到之前，以免 rupture Alex 的动脉"。"Girls' night in. Just like in college" 的 "Girls' night" 是精确的——Bridget 认为这是女孩之夜。"enveloping me with warmth and spice" 的 "enveloping" 是精确的——Stella 认为 Christian 用温暖和香料包裹着她。
 
-**关键词**：aquaphobia / disturbing / appreciates / acknowledged / friendship
+**关键词**：night / Bridget / smoothly / Jules / could
 
 **为什么这样写**：这段描写是 Stella 的"欢乐时刻"——她和朋友们在一起很欢乐。"Last night," Bridget said smoothly before Jules could rupture Alex's artery by mentioning. "Girls' night in. Just like in college" 的 "Girls' night" 是精确的——Bridget 认为这是女孩之夜。"He wrapped his arms around me from behind, enveloping me with warmth and spice" 的 "enveloping" 是精确的——Stella 认为 Christian 用温暖和香料包裹着她。"Your guilty expressions give it away every time." He kissed my neck. "You look gorgeous, Butterfly" 的 "gorgeous" 是精确的——Christian 认为 Stella 是华丽的。
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"不知何故，四个陌生人被随机分配到他们大学新生年的同一个宿舍，进化成了我们现在的样子——一个美丽的混乱、完美不完美的家庭"。"a beautifully messy, perfectly imperfect family" 的 "beautifully messy" 是精确的——Stella 认为家庭是美丽的混乱。"our friendship had strengthened after being tested by real life" 的 "strengthened" 是精确的——Stella 认为友谊加强了。
 
-**关键词**：strengthened / cheekbones / expression / exasperated / aquaphobia
+**关键词**：strengthened / Somehow / strangers / randomly / assigned
 
 **为什么这样写**：这段描写是 Stella 的"友谊时刻"——她对友谊感到满足。"Somehow, four strangers that'd been randomly assigned to the same dorm room their freshman year of college had evolved into what we were now—a beautifully messy, perfectly imperfect family" 的 "beautifully messy" 是精确的——Stella 认为家庭是美丽的混乱。"There'd been a time after graduation when I worried our friendship would fray outside the confines of campus and the structure of our college lives" 的 "fray" 是精确的——Stella 认为友谊会磨损。"our friendship had strengthened after being tested by real life" 的 "strengthened" 是精确的——Stella 认为友谊加强了。
 

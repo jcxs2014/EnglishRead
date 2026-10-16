@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Stella 在日记中把与 Christian 的协议比作"与魔鬼的交易"。她承认 Christian 一直很好，但也提醒自己——他不是靠"温暖和友善"走到今天的位置的。
 
-**关键词**：appearance / especially / friendships / excitement / disappoint
+**关键词**：think / signed / devil / sounds / little
 
 **为什么这样写**：日记体是 Stella 最诚实的时刻。"deal with the devil" 的比喻既夸张又精确——她知道这笔交易有代价，但她已经签了。"he didn't get to where he is today by being all warm and fuzzy" 是 Stella 对 Christian 本质的判断：他的善良是策略性的，不是本质性的。"Okay, that sounds a little dramatic" 的自我修正显示她知道自己在夸大，但她选择保留这个比喻。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：Stella 已经接受了欺骗粉丝的事实，但欺骗朋友和家人是另一回事。她知道 Jules 会"flip out"——Jules 讨厌被蒙在鼓里。
 
-**关键词**：celebrities / Greenfield / unemployed / fundraiser / tired-looking
+**关键词**：terms / having / followers / friends / family
 
 **为什么这样写**：这段独白揭示了 Stella 的道德层级——她可以接受对陌生人（粉丝）撒谎，但无法接受对熟人（朋友）撒谎。"who KNOW I don't want a boyfriend" 的大写 KNOW 强调了朋友对她的了解程度——她们知道这不是她的风格。"especially Jules" 的点名说明 Jules 是最难对付的观察者。"flip out" 的口语化表达让 Stella 的焦虑显得真实而具体。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Stella 在火车上感到被注视——与 ch01 回家路上同样的感觉。她环顾四周，发现只有老人和工作人员。她试图用逻辑解释自己的恐惧，但 "that's all" 的轻描淡写反而暗示她并不相信自己的解释。
 
-**关键词**：experienced / arrangement / ten-minute / misgivings / encompassed
+**关键词**：experienced / arrangement / chill / hallway / night
 
 **为什么这样写**：这是 ch01 的"被注视"感觉的复现——作者用 "the same chill" 建立连续性。"darted wildly" 的动词选择暗示 Stella 的恐惧是非理性的。"that's all" 的轻描淡写是 Stella 的自我欺骗：她知道事情没那么简单，但她需要这个解释来维持心理平衡。"on edge about the fundraiser and the fake dating arrangement" 是理性化的尝试，但 "that's all" 的语气暗示她并不完全相信。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：Stella 去看望 Maura，但 Maura 不认得她了。"Do I know you?" 这句话是 Alzheimer's 的典型症状——Maura 的礼貌兴趣与她的遗忘形成残酷对比。
 
-**关键词**：indistinguishable / registering / Disappointment / communicate / eleven-year-old
+**关键词**：registering / Disappointment / Maura / softly / humming
 
 **为什么这样写**：这是全书最残酷的场景之一。"polite interest" 与 "Do I know you?" 的组合是 Alzheimer's 的典型表现——Maura 的社交功能完好，但她的记忆已经崩塌。"Disappointment pulled at my chest, followed by a sharp ache" 用身体化的比喻把情感痛苦转化为物理感受。"sharp ache" 的精确性说明这不是第一次了——Stella 已经经历过多次，但每一次都像第一次一样痛。
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Stella 假装自己是新志愿者，带来 Maura 最爱的 tembleque（椰子布丁）。她用 "experimentation nights" 的温馨回忆来掩盖当下的痛苦——Maura 不认得她了，但 Stella 仍然在做她们曾经一起做的事。
 
-**关键词**：traditional / experimentation / eight-year-old / recognition / depression
+**关键词**：traditional / experimentation / volunteer / cleared / throat
 
 **为什么这样写**：这是 Stella 最勇敢的时刻——她选择不面对 Maura 的遗忘，而是用行动来维持连接。"pasted on a smile" 的 "pasted" 暗示这个笑容是假的、是贴上去的。"not wanting to cloud our visit with melancholy" 说明 Stella 在保护 Maura——即使 Maura 不认得她，Stella 仍然希望这次探望是快乐的。"experimentation nights" 的引号暗示这是她们之间的秘密语言，即使 Maura 已经不记得了。
 

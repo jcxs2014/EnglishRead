@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Stella 描述 Dante 和 Christian 的不同——Christian 是"天鹅绒包裹的刺客之刃"，Dante 是"燃烧着致命意图的锤子"。"finely honed assassin's blade sheathed in velvet" 的精确比喻说明 Christian 的危险是隐藏的、精致的。
 
-**关键词**：accompanied / intimidating / open-faced / particularly / distracted
+**关键词**：accompanied / intimidating / night / absent / plans
 
 **为什么这样写**：开篇用 "absent of any other plans" 建立 Stella 的不确定性——她没有其他计划，所以她陪 Christian 去了。"I'd forgotten how intimidating he was" 的 "forgotten" 暗示 Stella 以前见过 Dante，但她忘记了他的压迫感。"Christian was a finely honed assassin's blade sheathed in velvet; Dante was a hammer burning bright with deadly intent" 的对比比喻是 Stella 的核心观察——Christian 的危险是隐藏的、精致的，而 Dante 的危险是明显的、暴力的。"sheathed in velvet" 的 "sheathed" 是精确的——Christian 的刀刃被天鹅绒包裹，暗示他的危险是隐藏的。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：Dante 说 Christian 最近很分心。Christian 用"我本季度的创纪录利润"来回应，同时把手放在 Stella 的大腿上——"如此随意却又如此占有欲强"。"the touch so casual yet possessive" 的 "possessive" 是精确的——Christian 的触摸是占有性的，不是亲密的。
 
-**关键词**：possessive / disconcerting / well-timed / interruption / girlfriend
+**关键词**：possessive / distracted / lately / Dante / swirled
 
 **为什么这样写**：这段对话是 Christian 与 Dante 的"权力博弈"——Dante 在试探 Christian，Christian 用利润来回应。"How distracted he's been lately" 的 "distracted" 是 Dante 的精确——他知道 Christian 最近分心了。"My record profits this quarter say otherwise" 的 "record profits" 是 Christian 的精确——他用数据来回应，而不是用情感。"He rested a hand on my thigh, the touch so casual yet possessive" 的 "possessive" 是精确的——Christian 的触摸是占有性的，不是亲密的。"sent heat arrowing to my core" 的 "arrowing" 是精确的——Stella 的欲望像箭一样射向她的核心。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Vivian 说她没想到 Christian 会有女朋友。Christian 说"我也没想到，但 Stella 让我惊讶了"。"so warm and intimate" 的精确措辞说明 Christian 的回答是温暖的、亲密的——Stella 几乎相信了。
 
-**关键词**：butterflies / interested / relationship / blanketing / distraction
+**关键词**：butterflies / never / thought / Christian / Harper
 
 **为什么这样写**：这段对话是 Christian 与 Stella 的"表演时刻"——Christian 在朋友面前表演。"I never thought I'd see the day when Christian Harper would get a girlfriend" 的 "never thought" 是 Vivian 的精确——她真的没想到。"Neither did I, but Stella took me by surprise" 的 "took me by surprise" 是 Christian 的精确——他用"惊讶"来掩盖他的真实情感。"The reply was so warm and intimate, I almost believed it" 的 "almost" 是 Stella 的精确——她几乎相信了，但她没有完全相信。"My heart rate kicked up as the butterflies in my stomach went wild again" 的 "butterflies" 是精确的——Stella 的心跳加速了，她的胃里有蝴蝶在飞。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：Dante 说 Christian 是他的第一个客户——"我从大学刚毕业时就赌了他。最好和最坏的决定"。Christian 在讲述他如何阻止 Russo Group 损失数百万美元钻石的故事时，Stella 看到他"最放松的一面"。
 
-**关键词**：wine-fueled / ruthlessness / sleeveless / overinflated / self-importance
+**关键词**：first / client / Dante / leaned / chair
 
 **为什么这样写**：这段描写是 Stella 的"了解时刻"——她通过 Dante 的故事了解 Christian 的过去。"I was his first client" 的 "first" 是 Dante 的精确——他是 Christian 的第一个客户，说明他们有关系。"He was a kid fresh out of college" 的 "kid" 是 Dante 的精确——他叫 Christian "孩子"，说明他比 Christian 年长。"Best and worst decision I ever made" 的 "best and worst" 是 Dante 的精确——他说这是最好和最坏的决定，说明他对 Christian 有复杂的感情。"A smile tugged on my lips as he told the story" 的 "tugged" 是精确的——Stella 的微笑是被拉动的，不是主动的。"the most unguarded I'd ever seen him" 的 "unguarded" 是精确的——Christian 在朋友面前是最放松的。
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说 Christian 的"文明外表下藏着残忍"。但在这里，看着他"轻松地笑着开玩笑"，她几乎相信他只是一个"有钱的花花公子"。"civilized veneer" 的 "veneer" 是精确的——Christian 的文明是表面的，不是深层的。
 
-**关键词**：girlfriend-like / work-related / minimalism / beautifully / extravagant
+**关键词**：concern / toward / never / doubted / ruthlessness
 
 **为什么这样写**：这段描写是 Stella 的"矛盾时刻"——她对 Christian 的看法是矛盾的。"For all his care and concern toward me, I'd never once doubted the ruthlessness that lay beneath his civilized veneer" 的 "ruthlessness" 是精确的——Stella 知道 Christian 的文明外表下藏着残忍。"civilized veneer" 的 "veneer" 是精确的——Christian 的文明是表面的，不是深层的。"But here, watching him laugh and joke with effortless grace, I almost believed he was nothing more than a wealthy playboy" 的 "almost" 是 Stella 的精确——她几乎相信了，但她没有完全相信。"effortless grace" 的 "effortless" 是精确的——Christian 的优雅是轻松的，不是勉强的。
 

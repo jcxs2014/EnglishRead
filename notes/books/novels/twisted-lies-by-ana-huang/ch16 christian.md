@@ -20,7 +20,7 @@ pov: "Christian"
 
 **中文理解**：Christian 得知 Delamonte 选择了 Stella。他唯一的遗憾是没有看到 Stella 听到消息时的表情——"her eyes must've lit up" 的推测说明 Christian 对 Stella 的反应有精确的想象。
 
-**关键词**：interested / appearances / transformed / masterpiece / enraptured
+**关键词**：interested / Luisa / stared / phone / suddenly
 
 **为什么这样写**：开篇用 Luisa 的短信建立 Christian 的"期待时刻"——他知道 Delamonte 会选 Stella，但他想亲眼看到她听到消息时的表情。"suddenly more interested in Luisa's text than Kage's briefing" 的对比结构说明 Christian 对 Stella 的关注超过了对工作的关注——这是一个不寻常的优先级。"My only regret was not seeing Stella's face" 的 "only" 暗示 Christian 的遗憾是唯一的——他得到了他想要的（Stella 得到了 offer），但他错过了她的反应。"her eyes must've lit up" 的 "must've" 是 Christian 的推测——他对 Stella 的反应有精确的想象，说明他了解她。
 
@@ -32,7 +32,7 @@ pov: "Christian"
 
 **中文理解**：Stella 打电话给 Christian，她的声音"cracked"——这是 Christian 第一次听到她的声音如此脆弱。他立刻知道"有什么不对"，并直接问"你在哪里"。
 
-**关键词**：interrupted / expectations / immediately / uncertainty / boundaries
+**关键词**：Christian / voice / cracked / doused / warmth
 
 **为什么这样写**：这段描写是 Christian 的"恐惧时刻"——他听到 Stella 的声音"cracked"，立刻知道有什么不对。"Ice doused the warmth" 的 "doused" 是突然的、暴力的——Christian 的温暖被瞬间浇灭。"Something's wrong" 的 "something" 是 Christian 的直觉——他不知道具体是什么，但他知道有什么不对。"I skipped the useless questions" 的 "useless" 是 Christian 的精确——他知道问"你还好吗"是浪费时间，他需要直接问"你在哪里"。"cut straight to the heart of the matter" 的 "heart" 是 Christian 的效率——他不浪费时间，他直接切入核心。
 
@@ -40,15 +40,15 @@ pov: "Christian"
 
 ---
 
-> **原句 3:** "I found it in my bedroom," she whispered. "He was inside my house. He's never—this is the first time he's ever…" … I recognized their erratic rhythm and the tiny shivers wracking her body. … She was on the verge of a panic attack.
+> **原句 3:** "I found it in my bedroom," she whispered. "He was inside my house. He's never—this is the first time he's ever…" Her shallow breaths filled the ensuing silence.
 
-**中文理解**：Stella 告诉 Christian 她在卧室发现了跟踪者的信——"他进了我的家。他从来没有——这是他第一次……"Christian 立刻识别出她的呼吸节奏和身体颤抖——她快要恐慌发作了。
+**中文理解**：Stella 的耳语断在半句上——「He's never—this is the first time he's ever…」。她说不下去，因为她自己也一直在为跟踪者划一条「从未越界」的线，而这条线刚刚被抹掉。剩下的只有沉默里那点短促的呼吸。
 
-**关键词**：Something's / unfamiliar / semi-empty / expression / recognized
+**关键词**：bedroom / whispered / inside / shallow / breaths
 
-**为什么这样写**：这段描写是 Christian 的"保护时刻"——他听到 Stella 的描述，立刻识别出她的状态。"He was inside my house" 的 "inside" 是 Stella 的核心恐惧——跟踪者不仅知道她的地址，还进了她的家。"He's never—this is the first time he's ever…" 的断裂是 Stella 的恐惧——跟踪者以前只是寄信，现在他升级了。"I recognized their erratic rhythm" 的 "recognized" 是 Christian 的专业——他接受过识别恐慌发作的训练。"the tiny shivers wracking her body" 的 "wracking" 是暴力的——Stella 的身体在颤抖，这种颤抖是全面的、不可控的。"She was on the verge of a panic attack" 的 "verge" 是 Christian 的精确判断——他知道 Stella 快要崩溃了。
+**为什么这样写**：这句台词的写法是「越说越轻」。前半句还完整（He was inside my house.），到 He's never— 时被破折号切断，接着 this is the first time he's ever… 又断一次，两次中断模拟的是恐惧让语言失效的过程。作者不写她的表情，也不写眼泪，只写 Her shallow breaths filled the ensuing silence——让声音的缺失本身成为最响的证据。
 
-**读者视角提示**：Christian 在此处的"recognized" 是角色深度的来源——他不是一个会轻易识别他人情感的人，但 Stella 的恐慌让他立刻识别了。"on the verge of a panic attack" 的精确判断说明 Christian 对 Stella 的状态有超常的敏感——他不需要她说什么，他就知道她快要崩溃了。
+**读者视角提示**：从这一刻起，Christian 的动机从「占有」转向「必须彻底解决」。后文他私自处理证据、把 Stella 搬进自己家、最终越界杀人，都由此处这半句没说完的话推动。
 
 ---
 
@@ -56,7 +56,7 @@ pov: "Christian"
 
 **中文理解**：Christian 告诉 Stella 她要搬到他的公寓住，直到他们解决这个问题。他承认他应该在第一封信后就坚持让她搬进来，但他不想推得太快。"in my building" 的重复说明 Christian 的愤怒——跟踪者不仅闯入了 Stella 的公寓，还闯入了他的大楼。
 
-**关键词**：disturbance / perpetrator / realization / permission / imperceptible
+**关键词**：Everything / looks / clear / moving / place
 
 **为什么这样写**：这段描写是 Christian 的"自责时刻"——他承认他应该在第一封信后就坚持让 Stella 搬进来。"I should've listened to my gut" 的 "gut" 是 Christian 的直觉——他当时就有这个直觉，但他没有听从。"hadn't wanted to push her too far, too soon" 的 "too far, too soon" 是 Christian 的自我批评——他太谨慎了，以至于让 Stella 处于危险之中。"in my building" 的重复是 Christian 的愤怒——跟踪者不仅闯入了 Stella 的公寓，还闯入了他的大楼，这是对他个人的侮辱。
 
@@ -68,7 +68,7 @@ pov: "Christian"
 
 **中文理解**：Christian 告诉 Mirage 的保安主管 Charles——"今天有人闯入了我女朋友的公寓。"他命令解雇当天值班的所有保安。"The security team at the Mirage was good, but they weren't irreplaceable" 的 "irreplaceable" 是 Christian 的核心信念——没有人是不可替代的。
 
-**关键词**：girlfriend / irreplaceable / exceptional / irritation / toiletries
+**关键词**：girlfriend / irreplaceable / exceptional / Someone / broke
 
 **为什么这样写**：这段描写是 Christian 的"权力展示"——他不仅解雇了保安，还告诉 Charles 为什么。"Someone broke into my girlfriend's apartment today" 的 "girlfriend" 是 Christian 的宣示——Stella 不是他的租客，不是他的假女友，而是他的女朋友。"Fire every security personnel who was on duty today" 的 "every" 是 Christian 的精确——他不解雇某个人，他解雇所有人。"weren't irreplaceable" 的 "irreplaceable" 是 Christian 的核心信念——没有人是不可替代的，包括他自己。"I provided my staff with exceptional pay and benefits, but I expected exceptional work in return" 的 "exceptional" 的重复是 Christian 的标准——他给了很多，但他期望更多。
 

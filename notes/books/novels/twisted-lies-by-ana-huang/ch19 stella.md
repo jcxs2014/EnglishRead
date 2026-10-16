@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Stella 发现 Christian 的"小秘密"——他收藏了 Spice World 的 DVD。"possibly the most terrifying man I'd ever met" 的 "possibly" 是 Stella 的精确——她不确定 Christian 是否是她见过的最可怕的人，但他确实很可怕。"pure campiness" 的 "campiness" 是 Stella 的精确——她知道 Spice World 不是一部好电影，但她喜欢它的"campiness"。
 
-**关键词**：discovered / ridiculous / officially / partnership / production
+**关键词**：discovered / moved / house / dirty / little
 
 **为什么这样写**：开篇用 "dirty little secret" 建立 Christian 的反差——他是一个 terrifying 的 CEO，但他收藏了 Spice World。"possibly the most terrifying man I'd ever met" 的 "possibly" 是 Stella 的精确——她在淡化她的恐惧，但 "possibly" 暗示她不确定。"pure campiness" 的 "campiness" 是 Stella 的精确——她知道 Spice World 不是一部好电影，但她喜欢它的"campiness"。"coincidentally" 的 "coincidentally" 是 Stella 的精确——她知道这不是巧合，但她选择用 "coincidentally" 来掩盖她的真实感受。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：Stella 在 Christian 的家里唱歌跳舞——她知道自己看起来很可笑，但她太高兴了，不在乎。"It'd been a good day" 的 "good" 是 Stella 的精确——她签了 Delamonte 的合同，她完成了商业计划，她很开心。"an ice cream spoon in my mouth and feet bare against the cool marble floors" 的精确描写说明 Stella 在 Christian 的家里感到舒适——她不是在做作，她是真的感到放松。
 
-**关键词**：conversations / questioned / imagination / bulletproof / steel-reinforced
+**关键词**：greatest / singer / dancer / probably / looked
 
 **为什么这样写**：这段描写是 Stella 的"放松时刻"——她在 Christian 的家里唱歌跳舞。"I probably looked ridiculous, but I was too happy to care" 的 "too happy to care" 是 Stella 的精确——她通常很在意她的形象，但在这里她不在乎。"It'd been a good day" 的 "good" 是 Stella 的精确——她签了 Delamonte 的合同，她完成了商业计划，她很开心。"an ice cream spoon in my mouth and feet bare against the cool marble floors" 的精确描写说明 Stella 在 Christian 的家里感到舒适——她不是在做作，她是真的感到放松。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Christian 撞见 Stella 唱歌跳舞，用"yodeling" 来讽刺她。但他的眼睛"anything but soft"——它们像刀片一样锋利，但边缘"so cold they burned hot"——这种矛盾的描述说明 Christian 对 Stella 的欲望是复杂的。
 
-**关键词**：self-delusion / improvement / Mortification / fingertips / exercising
+**关键词**：improvement / usual / greeting / receive / women
 
 **为什么这样写**：这段描写是 Stella 的"尴尬时刻"——她被 Christian 撞见唱歌跳舞。"Not the usual greeting I receive from women, but an improvement to your prior yodeling" 的 "yodeling" 是 Christian 的讽刺——他用 "yodeling" 来讽刺她的歌声。"His eyes, however, were anything but soft" 的 "anything but soft" 是精确的——Christian 的眼睛不柔软，它们像刀片。"blades swathed with black silk" 的 "swathed" 是精确的——Christian 的眼睛被黑丝绸包裹，但它们的边缘仍然锋利。"their edges so cold they burned hot" 的矛盾描述说明 Christian 对 Stella 的欲望是复杂的——冰冷的，但也是灼热的。"They traced the lines of my throat down my torso to my bare legs and feet" 的精确描写说明 Christian 在扫描 Stella 的身体——他的目光是系统的、全面的。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：Christian 评论 Stella 的商业计划——"好"。"That's it?" 的精确措辞说明 Stella 期待更多的反馈。"The executive summary is clear and succinct" 的 "clear and succinct" 是 Christian 的精确——他用精确的语言来描述精确的事物。"I didn't expect you to put together a full plan in one week" 的 "didn't expect" 是 Christian 的精确——他通常不会惊讶，但 Stella 让他惊讶了。
 
-**关键词**：inevitable / seven-thirty / Intimidating / perfection / comforting
+**关键词**：executive / summary / clear / succinct / clearly
 
 **为什么这样写**：这段对话是 Christian 与 Stella 的"商业讨论"——Christian 对 Stella 的商业计划给出了精确的反馈。"Good?" 的简短说明 Christian 的反馈是精确的——他不需要说太多。"That's it?" 的精确措辞说明 Stella 期待更多的反馈——她习惯了被评判，所以 "Good" 是不够的。"The executive summary is clear and succinct" 的 "clear and succinct" 是 Christian 的精确——他用精确的语言来描述精确的事物。"I didn't expect you to put together a full plan in one week" 的 "didn't expect" 是 Christian 的精确——他通常不会惊讶，但 Stella 让他惊讶了。
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Christian 坚持要陪 Stella 去纽约——"他的话包含了足够的寒冷，我可以用它来雕刻冰雕"。Stella 问他是否工作上遇到了困难，Christian 出乎她意料地坦率回答——"难缠的客户"。
 
-**关键词**：familiarity / consultation / pheromones / disappointment / interminable
+**关键词**：Brock / accompanying / words / contained / frost
 
 **为什么这样写**：这段描写是 Stella 的"关心时刻"——她注意到 Christian 的压力，问他是否工作上遇到了困难。"Brock will not be accompanying you. I will" 的 "will" 是 Christian 的精确——他不是在请求，他是在通知。"His words contained so much frost I could've used them to carve an ice sculpture" 的 "frost" 是精确的——Christian 的话是冰冷的，像冰雕一样。"Bad day at work?" 的 "softer" 是 Stella 的精确——她用更柔和的语气来问他。"I expected Christian to brush off my concern. To my surprise, he answered frankly" 的 "frankly" 是精确的——Christian 通常不会坦率，但 Stella 让他坦率了。"Difficult client" 的简短说明 Christian 的反馈是精确的——他不需要说太多。
 

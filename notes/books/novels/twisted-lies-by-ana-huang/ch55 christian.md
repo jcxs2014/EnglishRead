@@ -20,7 +20,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"Volkov 夫妇婚礼后的第二天晚上，我带 Stella 飞去了我的家乡"。"I hadn't stepped foot in Santa Luisa, California since my parents died" 的 "stepped foot" 是精确的——Christian 认为他没有踏足 Santa Luisa。"stepping back in time" 的 "stepping back" 是精确的——Christian 认为这是回到过去。
 
-**关键词**：California / industrial / warehouses / long-forgotten / sculptures
+**关键词**：California / night / wedding / Stella / hometown
 
 **为什么这样写**：开篇用 "The night after the Volkovs' wedding, I flew Stella and me to my hometown" 建立 Christian 的平静——他带 Stella 去家乡。"I hadn't stepped foot in Santa Luisa, California since my parents died" 的 "stepped foot" 是精确的——Christian 认为他没有踏足 Santa Luisa。"It'd been two decades, yet the tiny seaside town along the northern coast remained the same" 的 "remained the same" 是精确的——Christian 认为小镇保持不变。"Returning here was like stepping back in time" 的 "stepping back" 是精确的——Christian 认为这是回到过去。
 
@@ -32,7 +32,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"几十件艺术品填满了小空间，从珍贵的油画到小型现代雕塑"。"priceless oil paintings" 的 "priceless" 是精确的——Christian 认为油画是无价的。"my father's stolen treasure trove" 的 "stolen" 是精确的——Christian 认为这是他父亲偷来的宝藏。
 
-**关键词**：inheritance / self-deprecating / arrangements / overwhelming / exhaustion
+**关键词**：inheritance / self-deprecating / Dozens / pieces / filled
 
 **为什么这样写**：这段描写是 Christian 的"展示时刻"——他展示了父亲的收藏。"Dozens of art pieces filled the small space, from priceless oil paintings to small modern sculptures" 的 "priceless" 是精确的——Christian 认为油画是无价的。"Many of the paintings had withered after twenty years of neglect, but a few resilient pieces remained intact" 的 "withered" 是精确的——Christian 认为许多画已经枯萎了。"Welcome to my inheritance, my father's stolen treasure trove," I said, the words both hollow and self-deprecating" 的 "stolen" 是精确的——Christian 认为这是他父亲偷来的宝藏。
 
@@ -44,7 +44,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"我以为我父亲的遗产的的景象会让我愤怒"。"the overwhelming desire to burn it to the ground—not out of spite, but out of exhaustion" 的 "overwhelming" 是精确的——Christian 认为欲望是压倒性的。"not out of spite, but out of exhaustion" 的 "exhaustion" 是精确的——Christian 认为这是出于疲惫。
 
-**关键词**：anonymously / kaleidoscope / inconsequential / complicated / fabricated
+**关键词**：thought / sight / legacy / would / angry
 
 **为什么这样写**：这段描写是 Christian 的"疲惫时刻"——他对过去感到疲惫。"I thought the sight of my father's legacy would make me angry. This was what he'd dedicated his time and energy to instead of his only son" 的 "legacy" 是精确的——Christian 认为这是遗产。"I should've felt the same rage I'd felt when I first read my mother's goodbye note" 的 "rage" 是精确的——Christian 认为这是愤怒。"Instead, I felt nothing except the overwhelming desire to burn it to the ground—not out of spite, but out of exhaustion" 的 "overwhelming" 是精确的——Christian 认为欲望是压倒性的。
 
@@ -56,7 +56,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"事后看来，她是如此无关紧要"。"A complicated problem of my own design, fabricated to shield me from my past" 的 "fabricated" 是精确的——Christian 认为这是制造的。"A wound I'd covered with temporary bandaids to hide the festering disease that'd been eating me alive from the inside out for decades" 的 "festering" 是精确的——Christian 认为疾病在溃烂。
 
-**关键词**：revelation / represented / combustible / immediately / swallowing
+**关键词**：revelation / represented / hindsight / inconsequential / complicated
 
 **为什么这样写**：这段描写是 Christian 的"释然时刻"——他对 Magda 释然了。"In hindsight, she was so inconsequential" 的 "inconsequential" 是精确的——Christian 认为她是无关紧要的。"A complicated problem of my own design, fabricated to shield me from my past" 的 "fabricated" 是精确的——Christian 认为这是制造的。"Everyone thought she was important because she contained some big business secret or shocking revelation when the truth was so much simpler" 的 "revelation" 是精确的——Christian 认为真相更简单。"A wound I'd covered with temporary bandaids to hide the festering disease that'd been eating me alive from the inside out for decades" 的 "festering" 是精确的——Christian 认为疾病在溃烂。
 
@@ -68,7 +68,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"油如此易燃，火焰几乎立刻爆发，吞噬了画和它包含的信"。"flames erupted almost immediately, swallowing the painting and the letter it contained whole" 的 "swallowing" 是精确的——Christian 认为火焰吞噬了画。"when Stella squeezed my hand, I gave it a small squeeze back" 的 "squeezed" 是精确的——Stella 握了握 Christian 的手。
 
-**关键词**：hometown / remained / downtown / colorful / Returning
+**关键词**：combustible / flames / erupted / almost / immediately
 
 **为什么这样写**：这段描写是 Christian 的"放下时刻"——他放下了过去。"The oils were so combustible flames erupted almost immediately, swallowing the painting and the letter it contained whole" 的 "swallowing" 是精确的——Christian 认为火焰吞噬了画。"I watched dispassionately as the fire twisted my mother's legacy into a blackened, unrecognizable heap, but when Stella squeezed my hand, I gave it a small squeeze back" 的 "dispassionately" 是精确的——Christian 认为他冷静地看着。"I could've done this on my own, but I wanted her with me. If it hadn't been for her, I'd still be holding onto that painting, hating it but unable to leave it at the same time" 的 "holding onto" 是精确的——Christian 认为他还在抓着画。
 

@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"可悲的是，所有的梦想都必须结束"。"my love confession trailing behind us" 的 "trailing" 是精确的——Stella 的爱告白拖在身后。"new-ish me" 的 "new-ish" 是精确的——Stella 认为自己是新版的自己。
 
-**关键词**：confession / extra-long / restorative / Greenfield / physically
+**关键词**：confession / Sadly / dreams / Capri / Italy
 
 **为什么这样写**：开篇用 "Sadly, all dreams had to end" 建立 Stella 的悲伤——意大利之梦结束了。"Our boat trip in Capri was our last full day in Italy before Christian and I returned to D.C. with two new suitcases of gifts and souvenirs and my love confession trailing behind us" 的 "trailing" 是精确的——Stella 的爱告白拖在身后。"new-ish me (because there were still parts of the old me in there) was more comfortable letting things play out in their own time" 的 "new-ish" 是精确的——Stella 认为自己是新版的自己。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：Norma 说"她身体上没事"。"she wouldn't call out of the blue unless something was wrong" 的 "out of the blue" 是精确的——Norma 不会无缘无故地打电话。"we had to sedate her" 的 "sedate" 是精确的——他们不得不给 Maura 注射镇静剂。
 
-**关键词**：remembered / Unfortunately / professionals / situations / effectively
+**关键词**：remembered / Unfortunately / Norma / favorite / nurses
 
 **为什么这样写**：这段描写是 Stella 的"担心时刻"——她担心 Maura。"Norma was one of my favorite nurses at Greenfield, but she wouldn't call out of the blue unless something was wrong" 的 "out of the blue" 是精确的——Norma 不会无缘无故地打电话。"She's physically okay." Norma's soothing voice eased some of my nerves" 的 "physically" 是精确的——Maura 身体上没事。"Unfortunately, we had to sedate her" 的 "sedate" 是精确的——他们不得不给 Maura 注射镇静剂。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"构图是艺术的，不是俗气的"。"the most scandalous thing an Alonso had ever been involved in" 的 "scandalous" 是精确的——Stella 认为这是最 scandalous 的事情。"pride and stubbornness keeping us apart" 的 "stubbornness" 是精确的——Stella 认为骄傲和固执让他们分开。
 
-**关键词**：distracted / accompanied / Washington / Apparently / composition
+**关键词**：composition / artistic / sleazy / probably / scandalous
 
 **为什么这样写**：这段描写是 Stella 的"反思时刻"——她反思了她和家人的关系。"The composition was artistic, not sleazy, but it was still probably the most scandalous thing an Alonso had ever been involved in" 的 "scandalous" 是精确的——Stella 认为这是最 scandalous 的事情。"Perhaps it was pride and stubbornness keeping us apart, or maybe I'd been right all along" 的 "stubbornness" 是精确的——Stella 认为骄傲和固执让他们分开。"The only time they cared about what I was doing was if I embarrassed them" 的 "embarrassed" 是精确的——Stella 的家人只在让她尴尬时才关心她。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"除了他的笔记本电脑、两个额外的显示器、一个镇纸和一个包含四支相同万宝笔的哑光灰色支架外，它是空的"。"blended a little too well into their surroundings" 的 "blended" 是精确的——它们与周围环境融合得太好了。"curiosity got the better of me" 的 "curiosity" 是精确的——Stella 的好奇心战胜了她。
 
-**关键词**：scandalous / stubbornness / embarrassed / mouthpiece / practically
+**关键词**：empty / laptop / extra / monitors / paperweight
 
 **为什么这样写**：这段描写是 Stella 的"好奇时刻"——她发现了 Christian 的秘密隔间。"It was empty save for his laptop, two extra monitors, a paperweight, and a matte gray holder containing four identical Montblanc pens" 的 "save for" 是精确的——除了这些东西，它是空的。"They blended a little too well into their surroundings" 的 "blended" 是精确的——它们与周围环境融合得太好了。"A secret compartment" 的 "secret" 是精确的——Stella 认为这是一个秘密隔间。"curiosity got the better of me" 的 "curiosity" 是精确的——Stella 的好奇心战胜了她。
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"它包含了不仅是我，还有我最接近的人的完整档案"。"dossiers" 的 "dossiers" 是精确的——Stella 发现了完整档案。"he'd crossed many of the same boundaries" 的 "crossed" 是精确的——Stella 认为 Christian 跨越了许多相同的界限。
 
-**关键词**：disappeared / Aggravation / mindlessly / productive / Eventually
+**关键词**：contained / dossiers / everyone / closest / including
 
 **为什么这样写**：这段描写是 Stella 的"恐惧时刻"——她发现了 Christian 的档案。"It contained full dossiers on not only me but everyone closest to me, including my family, friends, Maura, and previous boyfriends" 的 "dossiers" 是精确的——Stella 发现了完整档案。"For a second, I thought he might be my stalker, but it didn't make sense logistically" 的 "logistically" 是精确的——Stella 认为这在逻辑上说不通。"he'd crossed many of the same boundaries" 的 "crossed" 是精确的——Stella 认为 Christian 跨越了许多相同的界限。
 

@@ -20,7 +20,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"我和 Stella 的夜晚是我唯一的和平"。"My days were a tumult of work and chaos" 的 "tumult" 是精确的——Christian 的日子是混乱的。
 
-**关键词**：accusations / resentment / tournament / information / proprietary
+**关键词**：nights / Stella / peace / tumult / chaos
 
 **为什么这样写**：开篇用 "My nights with Stella were the only peace I had" 建立 Christian 的平静——他只有和 Stella 在一起时才有和平。"My days were a tumult of work and chaos" 的 "tumult" 是精确的——Christian 的日子是混乱的。"I'd spent the past month weeding out suspects for the traitor" 的 "weeding out" 是精确的——Christian 在清除嫌疑人。
 
@@ -32,7 +32,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"我已经有了一份泄漏嫌疑人的短名单"。"Every name made my blood run cold" 的 "blood run cold" 是精确的——每个名字都让 Christian 的血液变冷。"Loyalty ran both ways, and false accusations were the fastest way to seed resentment among the ranks" 的 "resentment" 是精确的——Christian 知道虚假的指控会播下怨恨的种子。
 
-**关键词**：investigations / distracted / decision-making / crystallized / underground
+**关键词**：already / shortlist / suspects / Every / blood
 
 **为什么这样写**：这段描写是 Christian 的"调查时刻"——他在调查泄漏。"I already had a shortlist of suspects for the leak" 的 "shortlist" 是精确的——Christian 已经有了一份短名单。"Every name made my blood run cold" 的 "blood run cold" 是精确的——每个名字都让 Christian 的血液变冷。"Loyalty ran both ways, and false accusations were the fastest way to seed resentment among the ranks" 的 "resentment" 是精确的——Christian 知道虚假的指控会播下怨恨的种子。
 
@@ -44,7 +44,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"跟踪者自从夏威夷后就消失了"。"You can't protect her, and you will NEVER have her. She's mine" 的 "NEVER" 是精确的——跟踪者认为 Christian 永远不会拥有 Stella。
 
-**关键词**：concerning / protection / surveillance / reassuring / month-long
+**关键词**：stalker / underground / Hawaii / notes / contact
 
 **为什么这样写**：这段描写是 Christian 的"恐惧时刻"——他发现了跟踪者的新照片和威胁信。"The stalker had gone underground since Hawaii" 的 "underground" 是精确的——跟踪者消失了。"You can't protect her, and you will NEVER have her. She's mine" 的 "NEVER" 是精确的——跟踪者认为 Christian 永远不会拥有 Stella。
 
@@ -56,7 +56,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"我不能信任任何人，除了我自己，Stella 的安全"。"which was a big fucking oversight" 的 "oversight" 是精确的——Brock 没有注意到跟踪者，这是一个大疏忽。
 
-**关键词**：especially / distraction / terrorists / governments / distasteful
+**关键词**：trust / anyone / except / myself / safety
 
 **为什么这样写**：这段描写是 Christian 的"愤怒时刻"——他不能信任任何人。"I couldn't trust anyone except myself with Stella's safety, not even Brock" 的 "not even Brock" 是精确的——Christian 不能信任任何人，甚至 Brock。"which was a big fucking oversight" 的 "oversight" 是精确的——Brock 没有注意到跟踪者，这是一个大疏忽。"Granted, his job was protection, not surveillance, but it still pissed me off" 的 "pissed me off" 是精确的——Brock 的工作是保护，不是监视，但这仍然让 Christian 生气。
 
@@ -64,15 +64,15 @@ pov: "Christian"
 
 ---
 
-> **原句 5:** "Italy," I confirmed. "Summer vacation. We can do a month-long trip through the country. Rome, Milan, the Amalfi Coast…" … Taking her out of town was the obvious answer until I sorted out the mess on my side, and her bucket list gave me perfect cover for the trip. … I didn't want to tell Stella about the stalker's latest note. It'd been directed at me, not her, and I didn't want to freak her out. Not when I didn't have a clear solution yet.
+> **原句 5:** I didn't want to tell Stella about the stalker's latest note. It'd been directed at me, not her, and I didn't want to freak her out. Not when I didn't have a clear solution yet.
 
-**中文理解**：Christian 说"意大利。暑假。我们可以在这个国家进行为期一个月的旅行"。"Taking her out of town was the obvious answer until I sorted out the mess on my side" 的 "obvious answer" 是精确的——带 Stella 出城是显而易见的答案。
+**中文理解**：Christian 决定隐瞒——最新的字条冲着「他」来，不是她；她已经被吓过，他不想再加一层。理由完整，也站得住，但这恰恰是他的老毛病：先把人隔在信息之外。
 
-**关键词**：individuals / technology / competitors / development / celebrated
+**关键词**：stalker / latest / directed / freak / solution
 
-**为什么这样写**：这段描写是 Christian 的"决定时刻"——他决定带 Stella 去意大利。"Italy," I confirmed. "Summer vacation. We can do a month-long trip through the country. Rome, Milan, the Amalfi Coast…" 的 "month-long" 是精确的——Christian 认为他们可以进行为期一个月的旅行。"Taking her out of town was the obvious answer until I sorted out the mess on my side" 的 "obvious answer" 是精确的——带 Stella 出城是显而易见的答案。"I didn't want to tell Stella about the stalker's latest note" 的 "freak her out" 是精确的——Christian 不想让 Stella 害怕。
+**为什么这样写**：这是全书「保护即隐瞒」的典型段落。作者给出一套自洽的内部论证：字条对象是他本人、她已受过惊、尚无解决方案——每条都写得合理，读者却能从 Not when I didn't have a clear solution yet 里读出真正的前提：只有当我能掌控时，你才配知道。句子以否定收尾，暗示这个决定是暂时的、随时会改。
 
-**读者视角提示**：Christian 在此处的 "obvious answer" 是角色深度的来源——他不是一个会轻易做决定的人，但跟踪者让他做决定了。"freak her out" 的精确措辞说明 Christian 对 Stella 的感受有精确的认知——他不想让她害怕。
+**读者视角提示**：这一决定直接导向 ch40 的档案事件。读者提前知道他的隐瞒并非出于恶意，却仍会造成全书最大的伤害。
 
 ---
 

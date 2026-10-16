@@ -20,7 +20,7 @@ pov: "Christian"
 
 **中文理解**：Christian 只睡了三个小时——他在等 Kage 的每小时更新。他描述了他的生活系统：每晚七小时睡眠、每周三次晨练、上午处理复杂工作。但 Stella 在二十四小时内彻底打乱了他的系统。
 
-**关键词**：twenty-four / distraction / inevitable / protection / aggravation
+**关键词**：slept / total / three / hours / night
 
 **为什么这样写**：开篇用 "three hours" 建立 Christian 的失控——他是一个习惯于控制一切的人，但 Stella 让他只睡了三个小时。"anticipation of Kage's hourly texts" 的 "hourly" 暗示 Christian 在等 Stella 的消息——他需要知道她是否安全。"I lived by my systems" 的 "systems" 是 Christian 的核心——他相信系统可以控制一切。但 "Stella had thrown those systems into complete disarray" 的 "disarray" 暗示 Stella 的出现彻底打乱了他的生活。"complete disarray" 的 "complete" 强调这种混乱是全面的。
 
@@ -32,7 +32,7 @@ pov: "Christian"
 
 **中文理解**：Stella 指责 Christian 擅自进入她的公寓是侵犯隐私。Christian 回应说"隐私在安全面前不存在"。Stella 说"这听起来像暴君会说的话"，Christian 回答"我很高兴你理解"。
 
-**关键词**：permission / illegality / appearance / law-abiding / appearances
+**关键词**：enter / apartment / without / notice / invasion
 
 **为什么这样写**：这段对话是 Christian 与 Stella 的"权力博弈"——Stella 试图用法律来限制 Christian，Christian 用"安全"来凌驾法律。"Privacy doesn't exist when it comes to security" 是 Christian 的哲学——他相信安全比隐私重要。"Sounds like something a tyrant would say" 是 Stella 的反击——她意识到 Christian 的权力欲。"I'm glad you understand" 是 Christian 的讽刺——他不是在道歉，而是在告诉 Stella 她别无选择。"Her glare lit the air between us with aggravation" 的 "lit" 是视觉化的——Stella 的愤怒是有形的。
 
@@ -44,7 +44,7 @@ pov: "Christian"
 
 **中文理解**：Stella 描述她的恐惧——她做过多少次噩梦，梦见有人闯入她的家。Christian 听到她的声音出现"tiny crack"时，他感到胸中一阵奇怪的扭曲。"How can I feel safe" 的质问让 Christian 意识到他低估了她的恐惧。
 
-**关键词**：nightmares / miscalculation / recrimination / appreciate / impressive
+**关键词**：nightmares / coming / intruder / house / attacked
 
 **为什么这样写**：这段描写是 Christian 的"觉醒时刻"——他意识到 Stella 的恐惧不是小题大做，而是真实的、深层的。"The tiny crack of her voice caused a strange twist in my chest" 的 "twist" 是身体化的——Christian 的内心反应不是抽象的，而是物理性的。"Our homes are supposed to be our safe havens" 的 "safe havens" 是 Stella 的核心信念——家应该是安全的，但跟踪者侵犯了这个安全。"How can I feel safe" 的质问让 Christian 意识到他的错误——他以为他在保护她，但他没有理解她的恐惧有多深。
 
@@ -56,7 +56,7 @@ pov: "Christian"
 
 **中文理解**：Stella 担心 Christian 会被跟踪者伤害，Christian 讽刺地回应"你的关心已记录在案"。Stella 慌张地解释"我不是不关心，我是……你知道我的意思"。Christian 说他不知道，Stella 说他"令人无法忍受"。
 
-**关键词**：officially / announcing / relationship / explanation / coincidence
+**关键词**：myself / concern / noted / realize / cared
 
 **为什么这样写**：这段对话是 Christian 与 Stella 的"情感试探"——Christian 用讽刺来掩饰他的真实情感，Stella 的慌张暴露了她的真实关心。"duly noted" 的 "duly" 是 Christian 的讽刺——他在用正式的语言来包装情感。"I don't care. I mean, I do, but I…" 的断裂是 Stella 的诚实——她无法假装她不关心。"I'm not sure I do" 是 Christian 的追击——他想知道 Stella 的真实感受。"adorable growl of frustration" 的 "adorable" 是 Christian 对 Stella 的第一次正面评价——他觉得她的愤怒是可爱的。
 
@@ -64,15 +64,15 @@ pov: "Christian"
 
 ---
 
-> **原句 5:** "The world thinks you're my girlfriend." … If she only knew. … "I didn't do them out of pure selflessness." … "Maybe not the first two, but what are you getting out of helping me with the stalker?" she challenged.
+> **原句 5:** "The world thinks you're my girlfriend. Can't have anything happen to you or it'd look bad for me." The lie slipped as easily from my tongue as my own name. "I'm the CEO of a security company, after all."
 
-**中文理解**：Stella 指出 Christian 降低租金、做假男友、帮她找跟踪者都不是纯粹的无私。Christian 心想"如果她只知道"——他做这些是因为他想要她。但他只回答"我不是出于纯粹的无私"。
+**中文理解**：Christian 用一个纯商业的理由解释他为什么要保护 Stella——你是我的假女友，你出事会让我难看。可紧接着的内心独白就把这个理由作废了："The lie slipped as easily from my tongue as my own name."
 
-**关键词**：directions / difference / selflessness / girlfriend / desperately
+**关键词**：girlfriend / happen / security / slipped / tongue
 
-**为什么这样写**：这段对话是全书的核心时刻——Stella 试图理解 Christian 的动机，而 Christian 在隐藏他的真实情感。"The world thinks you're my girlfriend" 的 "thinks" 暗示 Christian 自己并不这么认为——他知道这不是假约会，至少对他来说不是。"If she only knew" 的内心独白是 Christian 的真实情感——他做这些是因为他想要她，而不是出于无私。"I didn't do them out of pure selflessness" 的 "pure" 是 Christian 的暗示——他确实有私心，但他不会承认。"what are you getting out of helping me with the stalker?" 是 Stella 的挑战——她想知道 Christian 的动机。
+**为什么这样写**：这一段的力量全在台词与叙述之间的落差。台词是精心算过的商业逻辑，而紧随其后的独白一句话就把它拆穿——"The lie slipped as easily from my tongue as my own name" 把撒谎的熟练度量化成条件反射，反过来证明真正的动机必须被藏起来。"I'm the CEO of a security company, after all" 是他给自己递的台阶，读者却已经知道实际情况并非如此。
 
-**读者视角提示**：Christian 在此处的隐藏是角色深度的来源——他知道自己的真实情感，但他不会告诉 Stella。"If she only knew" 的内心独白是 Christian 对 Stella 的最直接情感表达，尽管这个表达是隐藏的。
+**读者视角提示**：这是全书"隐瞒"主题最锋利的一次示范——Christian 对 Stella 说的每句冷话都可能是谎，而读者知道的比 Stella 多。这个信息落差会一路推到 ch40 的档案事件。
 
 ---
 

@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Stella 否认她对 Christian 昨晚见到的女人感到嫉妒——她只是担心他。"That was all" 的简短说明 Stella 在说服自己——她不是在嫉妒，她只是在担心。
 
-**关键词**：separately / housewarming / broomsticks / suffocated / fascinating
+**关键词**：record / jealous / women / Christian / night
 
 **为什么这样写**：开篇用 "For the record" 建立 Stella 的防御性——她在为自己辩护。"I was not jealous" 的 "not" 是 Stella 的精确——她在否认她的嫉妒。"I was merely worried" 的 "merely" 是 Stella 的精确——她只是在担心，不是在嫉妒。"That was all" 的简短说明 Stella 在说服自己——她不是在嫉妒，她只是在担心。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：Stella 紧握她的暖房礼物，呼吸加快。她不相信魔法——但在那一刻，她相信 Christian 能"爬进她的脑海，挑出她对他的每一个肮脏、邪恶的幻想"。"crawl inside my mind" 的 "crawl" 是精确的——Christian 能爬进她的脑海，暗示他的侵入性是全面的。
 
-**关键词**：personally / questionable / expression / weaknesses / exaggerated
+**关键词**：clutched / housewarming / closer / breaths / quickened
 
 **为什么这样写**：这段描写是 Stella 的"欲望时刻"——她对 Christian 的幻想是全面的。"I clutched my housewarming gift closer to me as my breaths quickened" 的 "clutched" 是精确的——Stella 紧握她的礼物，暗示她的紧张。"crawl inside my mind" 的 "crawl" 是精确的——Christian 能爬进她的脑海，暗示他的侵入性是全面的。"every dirty, wicked fantasy" 的 "dirty" 和 "wicked" 是精确的——Stella 的幻想是肮脏的、邪恶的，不是纯洁的。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Christian 说他不会错过和 Stella 的朋友们的机会。他的手放在她的腰上——她差点因为"他的纯粹热量"而走开，直到她想起他们应该是在约会。"I'd caved" 的 "caved" 是精确的——Stella 屈服了，她告诉她的朋友们他们可以告诉他们的伴侣。
 
-**关键词**：guillotine / guillotines / half-hearted / lighthearted / atmosphere
+**关键词**：opportunity / friends / Christian / easily / rested
 
 **为什么这样写**：这段描写是 Stella 的"犹豫时刻"——她不确定她是否应该继续表演。"I wouldn't miss an opportunity to hang out with Stella's friends" 的 "wouldn't miss" 是 Christian 的精确——他不会错过这个机会。"He rested a hand on my lower back, and I almost stepped away from the sheer heat of him" 的 "sheer heat" 是精确的——Christian 的热量是纯粹的、不可抗拒的。"I'd caved and told my friends they could tell their significant others" 的 "caved" 是精确的——Stella 屈服了，她告诉她的朋友们他们可以告诉他们的伴侣。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：Jules 说 Stella 和 Christian 之间的"性张力厚得可以用黄油刀切割"。Stella 否认——"没有性张力"——除非你算上"我核心的疼痛和收紧我皮肤的意识"。"ache in my core" 的 "ache" 是精确的——Stella 的疼痛是深层的、持续的。
 
-**关键词**：performance / development / mischievous / bridesmaid / advertising
+**关键词**：hazel / blades / punctured / feigned / ignorance
 
 **为什么这样写**：这段描写是 Stella 的"被揭露时刻"——Jules 看穿了她的伪装。"Eyes like hazel blades punctured my feigned ignorance" 的 "punctured" 是暴力的——Jules 的目光像刀一样刺穿了 Stella 的伪装。"The sexual tension is so thick I can cut it with a butter knife" 的 "so thick" 是精确的——Stella 和 Christian 之间的张力是厚重的、可触摸的。"Unless you counted the ache in my core and the awareness tightening my skin" 的 "ache" 是精确的——Stella 的疼痛是深层的、持续的。
 
@@ -64,15 +64,15 @@ pov: "Stella"
 
 ---
 
-> **原句 5:** The lingering aftertaste of strawberry and tequila dissolved into spice and whiskey on my tongue. It was how I imagined he would taste—like heat, sin, and pure, unfiltered masculinity. … "Forget the trip for now." Jules's voice dragged my attention back to her, though Christian's eyes remained a hot brand on my skin.
+> **原句 5:** The lingering aftertaste of strawberry and tequila dissolved into spice and whiskey on my tongue. It was how I imagined he would taste—like heat, sin, and pure, unfiltered masculinity.
 
-**中文理解**：Stella 想象 Christian 的味道——"像热、罪恶和纯粹、未经过滤的男性气质"。"spice and whiskey" 的精确措辞说明 Stella 对 Christian 的欲望是感官性的——她想象他的味道，而不是他的情感。"a hot brand on my skin" 的 "brand" 是精确的——Christian 的目光像烙印一样在她的皮肤上。
+**中文理解**：这不是一个吻，是想象——草莓与龙舌兰的余味在舌尖「溶解」成香料与威士忌。Stella 承认自己想过他尝起来是什么味道，并给出一个并不体面的答案：热、罪、不加过滤的男子气概。
 
-**关键词**：illustrated / opportunity / remembered / significant / pretending
+**关键词**：lingering / aftertaste / strawberry / tequila / dissolved
 
-**为什么这样写**：这段描写是 Stella 的"感官时刻"——她想象 Christian 的味道。"The lingering aftertaste of strawberry and tequila dissolved into spice and whiskey on my tongue" 的 "dissolved" 是精确的——Stella 的感官体验是渐进的、不可逆的。"like heat, sin, and pure, unfiltered masculinity" 的 "unfiltered" 是精确的——Stella 对 Christian 的欲望是纯粹的、未经过滤的。"a hot brand on my skin" 的 "brand" 是精确的——Christian 的目光像烙印一样在她的皮肤上。
+**为什么这样写**：本段是全书欲望线的转调。作者把两种味觉并置——属于 Stella 的甜（strawberry and tequila）与属于 Christian 的烈（spice and whiskey）——让它们在同一个舌头上 dissolved into，完成一次不需要任何动作的越界。pure, unfiltered masculinity 带着自嘲，因为说出这句话的人清楚这个念头有多不体面。
 
-**读者视角提示**：Stella 在此处的 "unfiltered" 是角色深度的来源——她不是那种会轻易承认欲望的人，但 Christian 让她承认了。"brand" 的精确措辞说明 Christian 对 Stella 的影响是持久的——他的目光像烙印一样在她的皮肤上。
+**读者视角提示**：Stella 的叙述第一次承认她对他有具体的、身体性的想象；这为后文她主动要求「被粗暴对待」埋线——她的欲望从一开始就与羞耻绑在一起。
 
 ---
 

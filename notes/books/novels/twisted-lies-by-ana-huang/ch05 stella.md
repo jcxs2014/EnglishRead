@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Stella 回顾她的假男友筛选过程——三个候选人，两个已经搞砸。第一个推销加密货币，第二个在甜点前要求口交。她用黑色幽默来消化这些尴尬经历。
 
-**关键词**：overestimated / competitive / well-thought-out / Pretending / cultivated
+**关键词**：overestimated / number / straight / single / vetting
 
 **为什么这样写**：开篇用 "overestimated" 一词建立 Stella 的处境——她高估了身边可用男性的数量。"dwindled to one" 的递减结构（三→一）制造了紧迫感。两个失败约会的具体细节（crypto、bathroom blowjob）用夸张的对比制造喜剧效果，同时也暗示 Stella 的社交圈质量堪忧。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：Stella 承认她的假男友计划很荒谬，但这个计划给了她一种掌控感——"我不是完全无力的，我仍然有能力塑造自己的未来"。这种信念是唯一让她没有崩溃的东西。
 
-**关键词**：opportunities / disappointment / reflection / brightened / winter-dulled
+**关键词**：thought / matter / ludicrous / taking / control
 
 **为什么这样写**：这段独白是 Stella 心理状态的核心——她不是被计划本身支撑，而是被"我在采取行动"这个感觉支撑。"taking control" 与 "helpless" 的对比揭示了她深层的无力感。"keeping me afloat" 的溺水比喻暗示她正在下沉，计划只是浮木。"the only thing" 的强调说明她的心理资源已经耗尽。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Christian 在大堂拦住 Stella，指出她在"约会"。他的语气不是疑问，而是陈述——他只是在通知她，他已经知道了。
 
-**关键词**：impassiveness / hand-holding / flawlessness / appearance / controlling
+**关键词**：Alonso / voice / goosebumps / skittering / across
 
 **为什么这样写**：Christian 的 "You're going on a date" 是陈述句而非疑问句——这是他的典型模式：用陈述来控制局面。"turning every question into…well, not a question" 是 Stella 对他这种模式的精确总结。"Distracting my staff" 的指责表面上是关于 Lance，实际上是关于 Christian 自己的注意力被分散——他在用工作语言包装个人情绪。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：Stella 故意用一连串浪漫的描述（牵手、拥抱、耳语、吻别）来逗 Christian。他的反应——"lip curled" 和 "vat of bubbling acid" 的比喻——说明他被这些描述恶心到了，但也被逗乐了。
 
-**关键词**：practically / overlooking / expression / suggestion / Unfortunately
+**关键词**：overlooking / expression / suggestion / hands / holding
 
 **为什么这样写**：这段对话是两人关系的缩影——Stella 用幽默来测试 Christian 的边界，Christian 用 "I don't hold hands" 来划定界限。但 Stella 的 "Doesn't that sound nice?" 是一个邀请，而 Christian 的 "lip curled" 暗示他并非完全抗拒。"vat of bubbling acid" 的夸张比喻是 Stella 对 Christian 反应的喜剧化解读，但 "swallowed a laugh" 说明她也在享受这个互动。
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Klaus 是一个自恋的时尚博主，拒绝为慈善活动免费发帖。Stella 试图用逻辑说服他，但 Klaus 的回应暴露了他的贪婪——他把所有合作都视为交易，包括慈善。
 
-**关键词**：collaborations / organization / observation / condescending / overshadowed
+**关键词**：Klaus / massive / raging / douchebag / understand
 
 **为什么这样写**：Klaus 的功能是作为 Christian 的反面——一个自恋、贪婪、物化女性的男人。"I am a luxury blogger" 的自我标榜与 Stella 的 "There's a reason it's called charity" 形成对比。Klaus 的 "I asked them to pay me" 是压垮 Stella 的最后一根稻草——她意识到这个人不是她的盟友，而是她的对立面。
 

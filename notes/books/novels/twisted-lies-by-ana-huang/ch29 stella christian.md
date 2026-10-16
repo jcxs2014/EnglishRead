@@ -20,7 +20,7 @@ pov: "Stella/Christian"
 
 **中文理解**：Stella 和 Christian 到达 Kauai 后直接点了 room service。"True to form" 的精确措辞说明 Christian 的行为是典型的一贯作风——他总是升级 Stella 的房间。
 
-**关键词**：dinnertime / companionable / infuriatingly / dishevelment / Approachable
+**关键词**：dinnertime / Christian / arrived / Kauai / night
 
 **为什么这样写**：开篇用 "past dinnertime" 建立时间感——他们到达时已经很晚了。"True to form" 的精确措辞说明 Christian 的行为是典型的一贯作风——他总是升级 Stella 的房间。"the last remaining villa" 的 "last remaining" 是精确的——Christian 升级到了最后一套别墅，暗示他的资源是无限的。
 
@@ -32,7 +32,7 @@ pov: "Stella/Christian"
 
 **中文理解**：Stella 说她喜欢夏威夷的 Christian——他更"平易近人"。"D.C. Christian looks like he would murder you if you cut him off in traffic" 的精确比喻说明 Stella 对 Christian 的两种形态有精确的认知。
 
-**关键词**：Hawaiian-print / possibilities / technology / progressing / undeterred
+**关键词**：version / close / mouth / searched / right
 
 **为什么这样写**：这段描写是 Stella 的"观察时刻"——她注意到 Christian 在夏威夷更放松。"I like this version of you" 的 "this version" 是精确的——Stella 喜欢夏威夷的 Christian，而不是 D.C. 的 Christian。"Approachable" 的精确措辞说明 Stella 认为夏威夷的 Christian 更平易近人。"D.C. Christian looks like he would murder you if you cut him off in traffic" 的精确比喻说明 Stella 对 Christian 的两种形态有精确的认知。
 
@@ -44,7 +44,7 @@ pov: "Stella/Christian"
 
 **中文理解**：Stella 说她有时幻想自己是被收养的——"羞愧在我胃里凝结"。"I'd never, ever shared that sentiment with anyone" 的 "never, ever" 是精确的——Stella 从未与任何人分享过这种感受。
 
-**关键词**：judgmental / expectations / physically / incredibly / privileged
+**关键词**：judgmental / expectations / physically / Sometimes / fantasize
 
 **为什么这样写**：这段描写是 Stella 的"脆弱时刻"——她分享了她的家庭问题。"Sometimes, I fantasize about finding out I was adopted" 的 "fantasize" 是精确的——Stella 在幻想，而不是计划。"Shame curdled in my gut" 的 "curdled" 是精确的——Stella 的羞愧像牛奶变质一样。"I'd never, ever shared that sentiment with anyone" 的 "never, ever" 是精确的——Stella 从未与任何人分享过这种感受。"They were judgmental and had high expectations, but they weren't physically abusive" 的 "physically abusive" 是精确的——Stella 知道她的家庭不是完美的，但她也知道他们不是身体虐待。
 
@@ -56,7 +56,7 @@ pov: "Stella/Christian"
 
 **中文理解**：Christian 说他的父母"死了"——"茶走错了管道"。"The tea went down the wrong pipe" 的精确措辞说明 Stella 的震惊是真实的——她不知道 Christian 的父母已经死了。
 
-**关键词**：acknowledge / criticizing / ungrateful / competition / optimistic
+**关键词**：wrong / spluttered / series / coughs / Christian
 
 **为什么这样写**：这段描写是 Stella 的"震惊时刻"——她得知 Christian 的父母已经死了。"Dead" 的简短说明 Christian 的反馈是精确的——他不需要说太多。"The tea went down the wrong pipe" 的精确措辞说明 Stella 的震惊是真实的——她不知道 Christian 的父母已经死了。"like he hadn't dropped a bombshell with the casualness of someone mentioning their family was out of town for the weekend" 的 "bombshell" 是精确的——Christian 的话是爆炸性的，但他用随意的语气说出来。"I'm so sorry" 的 "so" 是精确的——Stella 的同情是真实的。
 
@@ -68,7 +68,7 @@ pov: "Stella/Christian"
 
 **中文理解**：Christian 说"我父母拥有的不是爱情。它是自我和破坏伪装成感情"。"ego and destruction disguised as affection" 的精确措辞说明 Christian 对爱情有悲观的看法——他认为爱情是自我和破坏的伪装。
 
-**关键词**：competitors / girlfriends / self-conscious / consciousness / conversation
+**关键词**：caustic / smile / across / raised / goosebumps
 
 **为什么这样写**：这段描写是 Christian 的"悲观时刻"——他对爱情有悲观的看法。"Because what my parents had wasn't love. It was ego and destruction disguised as affection" 的 "ego and destruction disguised as affection" 是精确的——Christian 认为爱情是自我和破坏的伪装。"A drug they kept chasing because it gave them a high they couldn't get anywhere else" 的 "drug" 是精确的——Christian 认为爱情是一种毒品，让人上瘾。"It clouded their judgment to the detriment of themselves and everyone around them" 的 "clouded" 是精确的——Christian 认为爱情蒙蔽了判断力，对自己和周围的人都有害。
 

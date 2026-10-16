@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"这是餐厅最安静的角落，周日的早午餐高峰期熙熙攘攘"。"transplanted itself into a green leather booth" 的 "transplanted" 是精确的——Stella 认为家庭晚餐移植到了绿色皮革 booth。"my parents' prized mahogany dining table" 的 "prized" 是精确的——Stella 父母的红木餐桌是珍贵的。
 
-**关键词**：restaurant / transplanted / differences / blanketing / Greenfield
+**关键词**：restaurant / transplanted / quietest / corner / bustled
 
 **为什么这样写**：开篇用 "It was the quietest corner of the restaurant, which bustled with the Sunday brunch rush" 建立 Stella 的平静——餐厅很安静。"It was like our family dinner had transplanted itself into a green leather booth instead of my parents' prized mahogany dining table" 的 "transplanted" 是精确的——Stella 认为家庭晚餐移植到了绿色皮革 booth。"my parents' prized mahogany dining table" 的 "prized" 是精确的——Stella 父母的红木餐桌是珍贵的。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"唯一的区别是阳光充足的窗户和我们聊完small talk后覆盖桌子的尴尬沉默"。"the awkward silence blanketing the table" 的 "blanketing" 是精确的——尴尬的沉默覆盖了桌子。"I blinked at her choice of topic, but I answered readily" 的 "readily" 是精确的——Stella 很快地回答了。
 
-**关键词**：relationship / practically / competition / high-powered / financially
+**关键词**：differences / sunny / windows / awkward / silence
 
 **为什么这样写**：这段描写是 Stella 的"紧张时刻"——她和家人在一起很紧张。"The only differences were the sunny windows and the awkward silence blanketing the table after we ran out of small talk" 的 "blanketing" 是精确的——尴尬的沉默覆盖了桌子。"So." My mother cleared her throat. "How's Maura doing?" 的 "cleared her throat" 是精确的——Stella 的妈妈清了清嗓子。"I blinked at her choice of topic, but I answered readily" 的 "readily" 是精确的——Stella 很快地回答了。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"它让一切都变成了竞争"。"the biggest disappointment at the table" 的 "disappointment" 是精确的——Stella 认为她是桌子上最大的失望。"You could never disappoint us. You're our daughter" 的 "disappoint" 是精确的——Stella 的妈妈认为她永远不会让他们失望。
 
-**关键词**：disappoint / collection / partnerships / disrespectful / Considering
+**关键词**：disappoint / makes / everything / competition / Natalia
 
 **为什么这样写**：这段描写是 Stella 的"坦诚时刻"——她告诉家人她的感受。"It makes everything into a competition," I said. "You, Dad, and Natalia all have these high-powered jobs, and I'm…well, you know" 的 "competition" 是精确的——Stella 认为一切都变成了竞争。"every time we play that game, I feel like I'm the biggest disappointment at the table" 的 "disappointment" 是精确的——Stella 认为她是桌子上最大的失望。"You could never disappoint us. You're our daughter" 的 "disappoint" 是精确的——Stella 的妈妈认为她永远不会让他们失望。
 
@@ -52,15 +52,15 @@ pov: "Stella"
 
 ---
 
-> **原句 4:** "I'm sorry for the way I outed you about D.C. Style. I didn't mean to be malicious." … "Didn't you?" … Her eyes widened before a flush stole over her cheeks. "Maybe a little," she said quietly. "You were right when you said everything feels like a competition." … "It doesn't have to be." … "No." Natalia examined me with a curious expression. "You've changed. You're…" … "Bolder?" I said with a small smile.
+> **原句 4:** Instead, she looked almost sheepish as she glanced at me. "I didn't want to bring it up again in front of Mom and Dad," she said. "But I'm sorry for the way I outed you about D.C. Style. I didn't mean to be malicious."
 
-**中文理解**：Natalia 说"我为我在 D.C. Style 上曝光你的方式道歉"。"I didn't mean to be malicious" 的 "malicious" 是精确的——Natalia 认为她不是恶意的。"You've changed. You're…" 的 "changed" 是精确的——Natalia 认为 Stella 变了。"Bolder?" I said with a small smile" 的 "Bolder" 是精确的——Stella 认为自己更大胆了。
+**中文理解**：Natalia 难得的示弱。她先解释为什么现在才说——不想当着父母的面重提；然后道歉。句子的顺序就是她的性格：先给前提，再给结论，连道歉都带着条理。
 
-**关键词**：sympathetically / conversation / noticeably / appreciated / intensified
+**关键词**：sheepish / glanced / bring / outed / malicious
 
-**为什么这样写**：这段描写是 Stella 的"和解时刻"——Natalia 道歉了。"I'm sorry for the way I outed you about D.C. Style. I didn't mean to be malicious" 的 "malicious" 是精确的——Natalia 认为她不是恶意的。"Maybe a little," she said quietly. "You were right when you said everything feels like a competition" 的 "competition" 是精确的——Natalia 认为一切都变成了竞争。"You've changed. You're…" 的 "changed" 是精确的——Natalia 认为 Stella 变了。"Bolder?" I said with a small smile" 的 "Bolder" 是精确的——Stella 认为自己更大胆了。
+**为什么这样写**：这一段的重量在于「谁先低头」。此前姐妹冲突的核心是谁更被父母认可，而 Natalia 的歉意里仍留着精确的界限——她道歉的是方式（the way I outed you），不是动机。作者用 sheepish 这个带点狼狈的词，而不是 ashamed，恰好停在还可以挽回的距离上。
 
-**读者视角提示**：Stella 在此处的 "malicious" 是角色深度的来源——她不是那种会轻易认为某事是恶意的，但 Natalia 让她认为她不是恶意的。"changed" 的精确措辞说明 Natalia 对 Stella 有精确的认知——她认为 Stella 变了。
+**读者视角提示**：这个道歉是 Stella 与家庭关系修复的起点；到 ch56 她父母出现在米兰秀场的前排，读者会回想这一场早午餐。
 
 ---
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"别抱歉，这个人说。你只是让事情对我来说更容易了"。"Something cold and hard pressed against my back" 的 "cold and hard" 是精确的——Stella 感觉到了冰冷坚硬的东西。"A gun" 的 "gun" 是精确的——Stella 发现是一把枪。"My panic exploded into a trapped scream that never made it out of my throat" 的 "trapped scream" 是精确的——Stella 的恐慌变成了被困住的尖叫。
 
-**关键词**：unmistakable / far-fetched / increasingly / hypothetical / kaleidoscopic
+**关键词**：sorry / figure / things / easier / Something
 
 **为什么这样写**：这段描写是 Stella 的"恐惧时刻"——她被绑架了。"Don't be sorry," the figure said. "You just made things a lot easier for me" 的 "easier" 是精确的——Stella 认为她让事情变得更容易了。"Something cold and hard pressed against my back" 的 "cold and hard" 是精确的——Stella 感觉到了冰冷坚硬的东西。"A gun" 的 "gun" 是精确的——Stella 发现是一把枪。"My panic exploded into a trapped scream that never made it out of my throat" 的 "trapped scream" 是精确的——Stella 的恐慌变成了被困住的尖叫。
 

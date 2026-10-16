@@ -20,7 +20,7 @@ pov: "Christian/Stella"
 
 **中文理解**：Christian 说"如果梦里有别人，那不可接受"。"Whether in heaven or hell, in dreams or real life, Stella was mine" 的 "Whether in heaven or hell" 是精确的——Christian 认为 Stella 是他的，无论是在天堂还是地狱。
 
-**关键词**：unacceptable / possessive / threatened / transaction / Grumpypants
+**关键词**：unacceptable / possessive / dreaming / could / curved
 
 **为什么这样写**：开篇用 "She was dreaming" 建立 Christian 的观察——他在观察 Stella 的梦。"If not, that was unacceptable" 的 "unacceptable" 是精确的——Christian 认为如果梦里有别人，那是不可接受的。"Whether in heaven or hell, in dreams or real life, Stella was mine" 的 "Whether in heaven or hell" 是精确的——Christian 认为 Stella 是他的，无论是在天堂还是地狱。"And I didn't fucking share" 的 "fucking" 是精确的——Christian 的占有欲是暴力的、不可控的。
 
@@ -32,7 +32,7 @@ pov: "Christian/Stella"
 
 **中文理解**：Christian 说"我告诉过你，Stella。关于你的一切，我都嫉妒"。"Sex was a transaction" 的 "transaction" 是精确的——Christian 认为性是一种交易，但 Stella 不是交易。
 
-**关键词**：impossible / comfortable / discovered / catastrophic / originally
+**关键词**：Stella / jealous / everything / comes / Something
 
 **为什么这样写**：这段描写是 Christian 的"承认时刻"——他承认他对 Stella 的嫉妒。"I'm jealous of everything when it comes to you" 的 "everything" 是精确的——Christian 对 Stella 的一切都嫉妒。"And it wasn't just fucking sex" 的 "wasn't just" 是精确的——Christian 认为他和 Stella 之间的关系不仅仅是性。"Sex was a transaction, something people did to pass the time and find physical release" 的 "transaction" 是精确的——Christian 认为性是一种交易，但 Stella 不是交易。"no one could rip me apart and put me back together the way she could" 的 "rip me apart and put me back together" 是精确的——Stella 能把 Christian 拆开再组装回去。
 
@@ -44,7 +44,7 @@ pov: "Christian/Stella"
 
 **中文理解**：Christian 说"Stella Alonso 以一种让我无法回头的方式吞噬了我的世界"。"It seemed my default setting was giving Stella anything she wanted" 的 "default setting" 是精确的——Christian 的默认设置是给 Stella 任何她想要的东西。
 
-**关键词**：helicopter / motorcycle / devastating / determination / suppressing
+**关键词**：Stella / Alonso / consumed / world / impossible
 
 **为什么这样写**：这段描写是 Christian 的"决定时刻"——他决定多留一天。"Stella Alonso had consumed my world in a way that made it impossible to go back" 的 "consumed" 是精确的——Stella 吞噬了 Christian 的世界。"There was only before her and after her" 的 "before her and after her" 是精确的——Christian 的世界只有 Stella 之前和之后。"It seemed my default setting was giving Stella anything she wanted" 的 "default setting" 是精确的——Christian 的默认设置是给 Stella 任何她想要的东西。"It would be catastrophic for me and for her" 的 "catastrophic" 是精确的——Christian 知道如果他的弱点被发现，那将是灾难性的。
 
@@ -56,7 +56,7 @@ pov: "Christian/Stella"
 
 **中文理解**：Stella 说"我永远不会把你归类为摩托车类型的男人。这有点性感"。"More than sexy" 的 "more than" 是精确的——Stella 认为 Christian 不仅仅是性感，而是令人崩溃的。
 
-**关键词**：everywhere / tree-lined / destination / surrounded / conversation
+**关键词**：never / pegged / motorcycle / simple / white
 
 **为什么这样写**：这段描写是 Stella 的"观察时刻"——她注意到 Christian 在夏威夷更放松。"I never would've pegged you for a motorcycle kind of guy" 的 "pegged" 是精确的——Stella 认为 Christian 不是摩托车类型的男人。"More than sexy. In a simple white T-shirt and jeans, he was devastating" 的 "devastating" 是精确的——Stella 认为 Christian 是令人崩溃的。"Two days of sun and relaxation had stripped away his carefully cultivated mask to reveal the playful, charming man underneath" 的 "stripped away" 是精确的——Stella 认为 Christian 在夏威夷更放松，他的面具被剥落了。
 
@@ -68,7 +68,7 @@ pov: "Christian/Stella"
 
 **中文理解**：Stella 说"假情侣加福利"。"Things have gotten too complicated" 的 "too complicated" 是精确的——Stella 认为事情变得太复杂了。"It felt too real, as did the possibility that he could break my heart" 的 "too real" 是精确的——Stella 认为事情感觉太真实了。
 
-**关键词**：necessarily / relationship / uncertainty / atmosphere / intimidating
+**关键词**：atmosphere / couple / benefits / added / hoping
 
 **为什么这样写**：这段描写是 Stella 的"恐惧时刻"——她害怕 Christian 会打破她的心。"Fake couple with benefits" 的 "fake" 是精确的——Stella 认为他们是假情侣。"Things have gotten too complicated with me moving in, the stalker situation, and this trip" 的 "too complicated" 是精确的——Stella 认为事情变得太复杂了。"The original rules of our arrangement are getting blurred" 的 "blurred" 是精确的——Stella 认为他们原来的规则变得模糊了。"It felt too real, as did the possibility that he could break my heart" 的 "too real" 是精确的——Stella 认为事情感觉太真实了。
 

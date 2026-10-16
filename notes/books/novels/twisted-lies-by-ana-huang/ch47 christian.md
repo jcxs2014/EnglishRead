@@ -20,7 +20,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"正如预期的，叛徒直接跑去找 Sentinel，带着我在扑克锦标赛上喂给他的信息"。"parse out who the leak was" 的 "parse out" 是精确的——Christian 解析出谁是泄漏者。"Now I knew" 的 "Now I knew" 是精确的——Christian 现在知道了。
 
-**关键词**：information / tournament / surveillance / unremarkable / positioned
+**关键词**：information / tournament / expected / traitor / straight
 
 **为什么这样写**：开篇用 "As expected, the traitor had run straight to Sentinel with the information I'd fed him at the poker tournament" 建立 Christian 的冷静——他知道叛徒会跑。"He worked faster than I thought; it'd only been two days" 的 "faster" 是精确的——Christian 认为 Kage 工作得比他想的快。"I read and reread the last line of the email, which included the details I'd changed for each suspect to parse out who the leak was" 的 "parse out" 是精确的——Christian 解析出谁是泄漏者。"Now I knew" 的 "Now I knew" 是精确的——Christian 现在知道了。
 
@@ -32,7 +32,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"最有可能，因为他是最能接触高级泄漏信息的人"。"the closest thing I'd had to a brother" 的 "closest thing" 是精确的——Christian 认为 Kage 是他最亲近的兄弟。"an icy, unforgiving wave" 的 "unforgiving" 是精确的——Christian 的愤怒是无情的。
 
-**关键词**：high-level / unforgiving / reputation / suspicious / distracted
+**关键词**：high-level / unforgiving / positioned / access / level
 
 **为什么这样写**：这段描写是 Christian 的"愤怒时刻"——他发现 Kage 是叛徒。"Most, because he was the one who'd been best positioned to access the high-level leaked information" 的 "best positioned" 是精确的——Kage 是最能接触高级泄漏信息的人。"Least, because he'd been the closest thing I'd had to a brother at Harper Security since Rhys left" 的 "closest thing" 是精确的——Christian 认为 Kage 是他最亲近的兄弟。"Rage rolled through my blood in an icy, unforgiving wave" 的 "unforgiving" 是精确的——Christian 的愤怒是无情的。
 
@@ -44,7 +44,7 @@ pov: "Christian"
 
 **中文理解**：Kage 说"这不是关于钱。这是关于你"。"Resentment leaked into his words" 的 "Resentment" 是精确的——Kage 的怨恨泄漏到了他的话中。"I'm sick of it" 的 "sick of it" 是精确的——Kage 厌倦了。
 
-**关键词**：responsible / discovered / confirmation / straightened / right-hand
+**关键词**：money / Resentment / leaked / words / company
 
 **为什么这样写**：这段描写是 Kage 的"坦白时刻"——他承认了他的怨恨。"It's not about the money. It's about you." Resentment leaked into his words" 的 "Resentment" 是精确的——Kage 的怨恨泄漏到了他的话中。"If it weren't for me, the company wouldn't be where it is today" 的 "If it weren't for me" 是精确的——Kage 认为如果没有他，公司不会有今天。"I'm the one who runs the day-to-day operations while you jet set around the world with your fucking private plane and fancy hotels" 的 "jet set" 是精确的——Kage 认为 Christian 在世界各地挥霍。"I'm sick of it" 的 "sick of it" 是精确的——Kage 厌倦了。
 
@@ -56,7 +56,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"那么，更多的认可"。"That doesn't make you a hero, Kage. That makes you a goddamn coward" 的 "coward" 是精确的——Christian 认为 Kage 是懦夫。"I'd compensated him extremely well for both those things over the years" 的 "compensated" 是精确的——Christian 认为他给 Kage 的报酬非常好。
 
-**关键词**：sentimentality / recognition / Resentment / day-to-day / operations
+**关键词**：recognition / operations / mildly / Enough / would
 
 **为什么这样写**：这段描写是 Christian 的"判决时刻"——他判决 Kage。"More recognition, then," I said mildly. "Enough that you would run to our biggest competitor and fuck over your friend and what you said you helped build" 的 "biggest competitor" 是精确的——Kage 跑去找最大的竞争对手。"That doesn't make you a hero, Kage. That makes you a goddamn coward" 的 "coward" 是精确的——Christian 认为 Kage 是懦夫。"I'd compensated him extremely well for both those things over the years" 的 "compensated" 是精确的——Christian 认为他给 Kage 的报酬非常好。
 
@@ -68,7 +68,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"那你就错了"。"I pulled the trigger before he could fire" 的 "pulled the trigger" 是精确的——Christian 在 Kage 开枪之前开了枪。"One to his chest, one to his head, and one to each kneecap in case he survived and foolishly decided to continue the fight" 的 "foolishly" 是精确的——Christian 认为 Kage 如果继续战斗是愚蠢的。
 
-**关键词**：disappointed / pedestrian / competitor / compensated / flourished
+**关键词**：wrong / stepped / behind / frame / hiding
 
 **为什么这样写**：这段描写是 Christian 的"杀死时刻"——他杀死了 Kage。"That's where you're wrong." I stepped out from behind the car frame" 的 "stepped out" 是精确的——Christian 从车后面走了出来。"Kage left his hiding place and aimed his gun at me, but I pulled the trigger before he could fire" 的 "pulled the trigger" 是精确的——Christian 在 Kage 开枪之前开了枪。"One to his chest, one to his head, and one to each kneecap in case he survived and foolishly decided to continue the fight" 的 "foolishly" 是精确的——Christian 认为 Kage 如果继续战斗是愚蠢的。"He staggered, then toppled to the ground" 的 "toppled" 是精确的——Kage 倒下了。
 

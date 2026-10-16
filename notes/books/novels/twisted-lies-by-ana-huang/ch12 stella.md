@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Stella 用"morning after"的 surreal 感来描述前一晚的恐惧——十二小时前她还在桌下等死，现在却像平常一样喝小麦草冰沙。"like it was a normal day" 的 "like" 暗示这不是平常的一天——她在假装。
 
-**关键词**：wheatgrass / disproportionate / self-doubt / billionaires / multimillion-dollar
+**关键词**：wheatgrass / something / morning / always / previous
 
 **为什么这样写**：开篇用 "surreal" 建立 Stella 的心理状态——前一晚的恐惧仍然不真实。"curled up beneath a table" 的精确描写让读者回到 ch11 的场景。"like it was a normal day" 的 "like" 是关键——她不是真的正常，她是在假装正常。"drinking my daily wheatgrass smoothie" 的 "daily" 暗示 Stella 试图通过例行公事来恢复控制感。"convinced I was living my last moments on earth" 的夸张表达说明前一晚的恐惧有多深。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：Natalia 通知 Stella 家庭晚餐提前到今晚——两个小时后。Stella 没有准备好——她以为还有一周时间来心理准备。"crisp and no-nonsense" 的描述说明 Natalia 的风格是直接的、不带感情的。
 
-**关键词**：implications / collection / incredible / information / craftsmanship
+**关键词**：change / dinner / plans / Natalia / crisp
 
 **为什么这样写**：这段对话是 Stella 的"社交恐惧"时刻——她害怕家庭晚餐，而 Natalia 的通知让她没有准备时间。"crisp and no-nonsense" 的描述说明 Natalia 不会考虑 Stella 的感受——这是她的风格。"last-minute work trip" 的 "last-minute" 暗示 Stella 的父亲总是把工作放在家庭之前。"that's in two hours!" 的惊叹号说明 Stella 的震惊——两个小时的准备时间根本不够。"just shy of five" 的精确时间说明 Stella 在计算她还有多少时间。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Natalia 用讽刺的语气说"你的网红承诺是生死攸关的"，然后告诉 Stella 她可以来不来，或者她可以告诉父母 Stella 又让他们失望了。"Should I tell them you're disappointing them once again?" 是 Stella 的内心独白——她知道 Natalia 的潜台词。
 
-**关键词**：no-nonsense / last-minute / unprepared / influencer / commitments
+**关键词**：influencer / commitments / death / sarcasm / weighted
 
 **为什么这样写**：这段对话是 Stella 的"家庭压力"时刻——Natalia 用讽刺来施压。"sarcasm weighted Natalia's words" 的 "weighted" 暗示 Natalia 的话有分量——不是随便说的，而是有意图的。"Dad is literally going to negotiate a peace deal" 的 "literally" 强调 Natalia 的讽刺——她把父亲的工作与 Stella 的"网红承诺"对比，暗示 Stella 的工作不重要。"Should I tell them you're disappointing them once again?" 是 Stella 的内心独白——她知道 Natalia 的潜台词，她也知道如果她不去，她会再次被贴上"失望"的标签。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：Natalia 宣布她升职为 World Bank 副总裁。Stella 的父母欢呼，但 Stella 的胃像锚一样沉到海底——她意识到自己与家人的差距有多大。
 
-**关键词**：congratulatory / inadequacies / interrupted / discussing / accomplishment
+**关键词**：congratulatory / promotion / strong / competition / Natalia
 
 **为什么这样写**：这段描写是 Stella 的"自惭形秽"时刻——她意识到自己无法与家人相比。"her face glowing with excitement" 的 "glowing" 暗示 Natalia 的快乐是真实的、发光的。"my stomach dropped like an anchor to the ocean floor" 的比喻把 Stella 的沮丧转化为物理性的下沉——不是表面的，而是深入的。"You're looking at the World Bank's newest vice president" 的官方措辞与 Stella 的内心独白形成对比——Natalia 在庆祝，而 Stella 在崩溃。
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Stella 在内心独白中承认她被解雇的原因——因为她在周六晚上几个小时没看手机。而"好消息"是，她因为发布和假男友的照片而涨了一万粉丝。"publicity stunt" 的措辞暗示 Stella 知道自己在做什么——她在利用假男友来获取关注。
 
-**关键词**：alarmingly / lightheaded / Especially / considering / relationship
+**关键词**：fired / check / phone / hours / Saturday
 
 **为什么这样写**：这段独白是 Stella 的"自我认知"时刻——她意识到自己已经变成了什么样的人。"I got fired because I didn't check my phone for a few hours" 的精确原因说明 Stella 被解雇的理由是多么荒谬——不是因为她不努力，而是因为她没有随时待命。"publicity stunt" 的措辞暗示 Stella 知道自己在做什么——她在利用假男友来获取关注，而不是因为爱情。"the man I'm dating" 的措辞暗示 Stella 自己都不确定她是否在和 Christian 约会——"dating" 是假象，但她已经习惯了这个说法。
 

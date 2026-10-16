@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Christian 穿着黑色燕尾服出现在 Stella 门口，她注意到他比平时更"devastating"（令人震撼）。她同时注意到他手中的白色盒子——好奇心与警觉并存。
 
-**关键词**：melancholy / unsettling / experienced / devastating / clean-shaven
+**关键词**：devastating / clean-shaven / Christian / stood / looking
 
 **为什么这样写**："devastating" 是 Stella 对 Christian 外貌的最高级评价——不是 "handsome" 或 "attractive"，而是 "devastating"，暗示他的外貌具有破坏力。"could've passed for a movie star" 的比喻把 Christian 放在了一个超越普通人的类别。"tingle of awareness" 是身体对 Christian 存在的反应——Stella 的身体比她的理性先认识他。"mixed with curiosity" 说明她的反应是混合的：既有吸引，又有警觉。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：Christian 说 Stella 的独角兽玩偶"可爱"，Stella 立刻反驳——"Mr. Unicorn 不是可爱，是美丽。"她随后描述了玩偶的破旧状态，但强调它在她心中永远是美丽的。
 
-**关键词**：distracted / appreciate / inscrutable / disappeared / alternatives
+**关键词**：tried / sound / insulted / Unicorn / beautiful
 
 **为什么这样写**：这段对话是两人关系的缩影——Christian 用 "Cute" 来试探 Stella 的柔软面，Stella 用 "beautiful" 来捍卫自己的情感边界。"Mr. Unicorn" 的命名是 Stella 七岁时的选择，"he would always be beautiful to me" 的 "always" 暗示她对永恒情感的渴望。"heyday" 的破旧描述与 "beautiful" 的永恒判断形成对比——Stella 的爱不因对象的状态而改变。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Christian 送了一条高级定制礼服给 Stella。她的抵抗在看到礼服的瞬间崩溃——"resistance crumbled" 是物理化的比喻，把心理防线转化为可碎裂的物体。
 
-**关键词**：anticipation / resistance / Incredible / measurements / appreciation
+**关键词**：resistance / Incredible / crumbled / second / dress
 
 **为什么这样写**：这段描写是 Stella 对 Christian 的第一次真正妥协——她一直试图保持距离，但礼服的美丽让她放弃了抵抗。"resistance crumbled" 的被动语态暗示这不是她的选择，而是她的本能。"the most stunning thing I've ever seen" 的最高级评价说明这条礼服不仅美丽，而且具有情感意义——它是 Christian 的礼物，是他对她品味的精确把握。"reverent hand" 的 "reverent" 暗示 Stella 对这条礼服的态度近乎宗教性的敬畏。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：Christian 的目光让 Stella 感到被点燃——"liquid electricity" 的比喻把情感冲击转化为物理感受。"lit me up from the inside out" 是 Stella 对 Christian 目光的最精确描述：他不是从外面照亮她，而是从里面点燃她。
 
-**关键词**：redirected / electricity / butterflies / eucalyptus / suggestiveness
+**关键词**：redirected / electricity / Every / ounce / attention
 
 **为什么这样写**：这是全书 Stella 对 Christian 目光的最精确描述。"liquid electricity" 的比喻把抽象的目光转化为可感知的物理力量。"lit me up from the inside out" 的 "from the inside out" 是关键——Christian 的目光不是外部的刺激，而是内部的点燃。"caged butterflies" 的比喻暗示 Stella 一直在压抑自己的情感，而 Christian 的目光让这些蝴蝶挣脱了笼子。"wrestled them back into their hold" 的 "wrestled" 暗示这种压抑是暴力的、费力的。
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Christian 说 "Perfect"——这个词在 Stella 心中激起了复杂的情感。她知道自己永远不会是 "perfect"，但这个词仍然让她心跳加速。
 
-**关键词**：unimpressed / downstairs / conversation / dissipated / observation
+**关键词**：Perfect / Reverence / weighed / assessment / matter
 
 **为什么这样写**："Perfect" 是 Christian 对 Stella 的评价，但 Stella 的反应是复杂的——她既渴望这个词，又知道自己不配。"Reverence weighed his soft assessment" 的 "reverence" 暗示 Christian 的评价是认真的，不是敷衍。"No matter how hard I tried, I had never been perfect" 是 Stella 的自我认知——她一直在追求完美，但从未达到。"caged butterflies" 的复现说明 Christian 的目光有解放她压抑情感的力量，而她必须用 "wrestled" 来重新控制它们。
 

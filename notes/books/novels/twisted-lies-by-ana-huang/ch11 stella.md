@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Stella 对 Christian 的反复无常感到愤怒——上一秒以为他要吻她，下一秒就把她赶出公寓。"flipped hot and cold more often than a broken faucet" 的比喻把 Christian 的反复无常具象化为一个坏掉的水龙头。
 
-**关键词**：Frustration / good-looking / declaration / arrangement / palpitations
+**关键词**：Christian / Harper / nerve / Anger / simmered
 
 **为什么这样写**：开篇用 "had some nerve" 建立 Stella 的愤怒——她不是那种会轻易生气的人，但 Christian 的反复无常突破了她的底线。"ate away at my insides like acid" 的比喻把愤怒转化为物理性的腐蚀——不是表面的，而是深入内脏的。"flipped hot and cold" 的 "flipped" 暗示这种变化是突然的、不可预测的。"broken faucet" 的比喻把 Christian 的反复无常具象化为一个坏掉的、无法控制的装置。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：跟踪者的信上只有一句话——"你本该等我，Stella。你没有。"——没有直接威胁，但足够不祥。Stella 回忆起两年前的骚扰经历：跟踪者寄来她的偷拍照片和露骨幻想，持续了数周后突然停止。
 
-**关键词**：Foreboding / declarations / nightmares / implication / crystallized
+**关键词**：supposed / Stella / direct / threat / message
 
 **为什么这样写**：这封信是全书的转折点——跟踪者回来了。"You were supposed to wait for me" 的措辞暗示跟踪者认为他对 Stella 有所有权——她不该和别人约会。"You didn't." 的简洁回应暗示跟踪者在宣示：他不会善罢甘休。"No direct threat, but the message was ominous enough" 的对比结构说明这封信的威胁性不在于内容，而在于它的存在本身——跟踪者知道她的地址，知道她的包里能放东西。"swamped me in a rush" 的 "swamped" 暗示记忆像洪水一样涌来，不可阻挡。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Stella 躲在桌下，感到跟踪者在她身后——"malevolent presence" 的比喻把恐惧转化为实体。她的呼吸急促，最终撞到桌腿。
 
-**关键词**：interrupted / malevolent / distinguish / eventually / disappointment
+**关键词**：interrupted / malevolent / silence / apartment / morphed
 
 **为什么这样写**：这段描写是 Stella 的"恐惧顶点"——她躲在桌下，完全失去了对自己身体的控制。"thick and ominous" 的沉默是恐惧的物理化——空气本身变成了压迫性的存在。"malevolent presence" 的比喻把恐惧转化为实体——跟踪者不再是一个抽象的威胁，而是一个有形的存在。"icy fingers clawed at my shirt" 的触觉描写让恐惧变得可感知——Stella 不只是害怕，她在体验恐惧。"my head collided with one of the table legs" 是 Stella 失去控制的标志——她的身体不再服从她的意志。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：Christian 的声音让 Stella 从恐惧中回到现实——"deep and velvety and too authoritative" 的声音让她无法抗拒。"If I can't see the monster, it doesn't exist." 的童谣式逻辑是 Stella 最后的自我保护机制。
 
-**关键词**：authoritative / reassurance / mortification / expensive-looking / button-down
+**关键词**：authoritative / Stella / wanted / denial / forever
 
 **为什么这样写**：这段描写是 Stella 的"救援时刻"——Christian 的声音把她从恐惧中拉回来。"deep and velvety" 的声音描写与 "icy fingers" 的恐惧形成对比——Christian 的声音是温暖的、天鹅绒般的，而跟踪者的存在是冰冷的、金属般的。"too authoritative for me not to obey" 说明 Stella 在恐惧中放弃了她通常的独立性——她需要一个权威来告诉她"你没事了"。"If I can't see the monster, it doesn't exist." 的童谣式逻辑是 Stella 最后的自我保护——她相信只要她不面对，恐惧就不存在。但 Christian 的声音打破了这个幻觉。
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Christian 说"你没事了"——这两个词让 Stella 最后的防线崩塌。她在他怀里哭了，把几周的压力和焦虑都释放出来。
 
-**关键词**：embarrassed / resurfaced / short-lived / deceptively / innocent-looking
+**关键词**：words / contained / reassurance / inside / finally
 
 **为什么这样写**：这段描写是 Stella 的"情感释放"——她终于允许自己崩溃。"Only two words, but they contained such calm reassurance" 的对比结构说明 Christian 的话不多，但足够有力。"the dam inside me finally broke" 的 "dam" 比喻暗示 Stella 一直在用意志力压制情感，而 Christian 的话打破了这道坝。"let out weeks of stress and anxiety until I ran dry" 的 "ran dry" 暗示 Stella 的情感资源已经耗尽——她已经没有力气再压制了。"It wasn't just the note" 的补充说明 Stella 的崩溃不仅是关于跟踪者，而是关于她一直承受的所有压力。
 

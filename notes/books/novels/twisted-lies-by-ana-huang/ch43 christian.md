@@ -20,7 +20,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"你两小时内喝了七杯了，伙计"。"I enunciated each word with cold precision" 的 "cold precision" 是精确的——Christian 用冰冷精确的方式说话。"I could be blackout drunk and no one would be the wiser" 的 "blackout drunk" 是精确的——Christian 可以喝得烂醉如泥，没有人会知道。
 
-**关键词**：interested / depressing / unrelenting / hallucinating / straightened
+**关键词**：seven / drinks / hours / bartender / stared
 
 **为什么这样写**：开篇用 "You've had seven drinks in two hours, bud" 建立 Christian 的酗酒——他喝了很多。"And I'm ordering an eighth." I enunciated each word with cold precision" 的 "cold precision" 是精确的——Christian 用冰冷精确的方式说话。"I could be blackout drunk and no one would be the wiser" 的 "blackout drunk" 是精确的——Christian 可以喝得烂醉如泥，没有人会知道。
 
@@ -32,7 +32,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"我和 Stella 分手已经两周了"。"Two weeks of unrelenting hell where everything reminded me of her" 的 "unrelenting" 是精确的——Christian 的两周是无情的。"Even the fucking trees and plants outside reminded me of her" 的 "fucking" 是精确的——Christian 认为甚至树木和植物都在提醒他 Stella。
 
-**关键词**：possessiveness / soon-to-be / coincidence / Restlessness / silhouetted
+**关键词**：weeks / Stella / broke / unrelenting / everything
 
 **为什么这样写**：这段描写是 Christian 的"痛苦时刻"——他一直在想 Stella。"It'd been two weeks since Stella and I broke up" 的 "two weeks" 是精确的——已经两周了。"Two weeks of unrelenting hell where everything reminded me of her" 的 "unrelenting" 是精确的——Christian 的两周是无情的。"Even the fucking trees and plants outside reminded me of her" 的 "fucking" 是精确的——Christian 认为甚至树木和植物都在提醒他 Stella。
 
@@ -44,7 +44,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"我本可以在家里喝酒，省得麻烦"。"the apartment was too depressing these days" 的 "depressing" 是精确的——Christian 的公寓太压抑了。"drowning my sorrows in equally shitty scotch" 的 "drowning" 是精确的——Christian 用酒淹没他的悲伤。
 
-**关键词**：experienced / disappointment / interaction / Ironically / Washington
+**关键词**：saved / myself / trouble / drank / apartment
 
 **为什么这样写**：这段描写是 Christian 的"逃避时刻"——他不想回家。"I could've saved myself the trouble and drank at home, but the apartment was too depressing these days" 的 "depressing" 是精确的——Christian 的公寓太压抑了。"I also didn't want to go to the Valhalla Club since everyone there was nosy as fuck" 的 "nosy" 是精确的——Valhalla Club 的人太爱管闲事了。"drowning my sorrows in equally shitty scotch" 的 "drowning" 是精确的——Christian 用酒淹没他的悲伤。
 
@@ -52,15 +52,15 @@ pov: "Christian"
 
 ---
 
-> **原句 4:** For a second, I thought I was hallucinating and had conjured her from my thoughts. … Dark curls. Green eyes. Warm smile. … Stella. … My hand tightened around my glass as an icy black wave of possessiveness rippled through me.
+> **原句 4:** For a second, I thought I was hallucinating and had conjured her from my thoughts.
 
-**中文理解**：Christian 说"有一秒钟，我以为我在幻觉中"。"Dark curls. Green eyes. Warm smile" 的 "Dark curls" 是精确的——Stella 的黑色卷发。"an icy black wave of possessiveness rippled through me" 的 "icy black wave" 是精确的——Christian 的占有欲像冰冷的黑色波浪一样在他身上泛起涟漪。
+**中文理解**：分手两周后的酒吧里，他看见她，第一反应是「我产生了幻觉」——conjured her from my thoughts 等于承认她已经被他想成了随时会浮现的影像。
 
-**关键词**：opportunities / partnership / reappearance / engagement / collection
+**关键词**：hallucinating / conjured / thoughts / second / thought
 
-**为什么这样写**：这段描写是 Christian 的"震惊时刻"——他看到了 Stella。"For a second, I thought I was hallucinating and had conjured her from my thoughts" 的 "hallucinating" 是精确的——Christian 以为他在幻觉中。"Dark curls. Green eyes. Warm smile" 的 "Dark curls" 是精确的——Stella 的黑色卷发。"an icy black wave of possessiveness rippled through me" 的 "icy black wave" 是精确的——Christian 的占有欲像冰冷的黑色波浪一样在他身上泛起涟漪。
+**为什么这样写**：作者用最短的句子写混乱。For a second, I thought I was hallucinating 把幻觉放在判断之前——先认错，再更正，这个顺序本身就是失控的证据。conjured her from my thoughts 里 conjured 是变戏法式的动词，暗示她占据他的思维已经到了可以随时被「召出」的程度。
 
-**读者视角提示**：Christian 在此处的 "hallucinating" 是角色深度的来源——他不是一个会轻易认为自己在幻觉中的人，但 Stella 的出现让他认为他在幻觉中了。"icy black wave" 的精确措辞说明 Christian 对占有欲有精确的认知——它像冰冷的黑色波浪一样在他身上泛起涟漪。
+**读者视角提示**：这处对照了他在后文对朋友们宣称的 Never been better——读者由此确认，被分手伤得更重的是那个从不承认自己受伤的人。
 
 ---
 
@@ -68,7 +68,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"她对那个快要死的混蛋说了些什么"。"the soon-to-be dead fucker" 的 "soon-to-be dead" 是精确的——Christian 认为那个男人快要死了。"nothing was a coincidence when it came to her" 的 "coincidence" 是精确的——Christian 认为关于 Stella 没有巧合。
 
-**关键词**：celebrating / possibility / conversation / Translation / apologized
+**关键词**：something / fucker / weight / stare / finally
 
 **为什么这样写**：这段描写是 Christian 的"占有欲时刻"——他看到 Stella 和另一个男人说话。"She said something else to the soon-to-be dead fucker, but she must've felt the weight of my stare because she finally looked up" 的 "soon-to-be dead" 是精确的——Christian 认为那个男人快要死了。"Us showing up at the same bar on the same night would've been a coincidence, but nothing was a coincidence when it came to her" 的 "coincidence" 是精确的——Christian 认为关于 Stella 没有巧合。"Restlessness and the urge to rip out the throat of the man she was talking to churned beneath my skin" 的 "rip out" 是精确的——Christian 想撕开那个男人的喉咙。
 

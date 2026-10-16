@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Meredith 用两个词、三个音节解雇了 Stella。尽管她早有准备，但打击仍然像一拳打在胃上。她试图用呼吸法平静自己，但身体已经失控——喉咙发紧、视野发黑。
 
-**关键词**：enthusiasm / considered / dedication / termination / resentment
+**关键词**：fired / words / Three / syllables / mentally
 
 **为什么这样写**：开篇的 "Two words. Three syllables." 用精确计数把解雇的暴力性压缩到最小单位——越短越重。"punch in the gut" 是身体化的比喻，把情感冲击转化为物理感受。呼吸法的失败（"It didn't work"）是 Stella 第一次无法用自我调节来应对危机——她的心理防线在这一刻崩溃了。"pinpricks of black" 是晕眩的前兆，暗示她即将失去对局面的控制。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：Stella 列举自己的付出——第一个到、最后一个走、做了百分之八十的工作却只得到极少的功劳。她用 "shuddered" 来表达对 Meredith 标准的恐惧——如果这算"缺乏热情"，那她根本不知道什么才算"投入"。
 
-**关键词**：enthusiastic / complexion / insistence / Humiliation / disapproved
+**关键词**：first / person / office / eighty / percent
 
 **为什么这样写**：这段独白是 Stella 对 Meredith 指控的反驳——她用具体的事实（"eighty percent"、"first person in and the last person out"）来对抗抽象的"lack of enthusiasm"。"shuddered to think" 的夸张表达暗示 Meredith 的标准根本不是正常人能达到的。"Chanel" 和 "limited-edition couture gown" 的具体细节让反驳更有说服力——这不是一个"不投入"的员工会做到的事。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Stella 用重复的自我安慰来对抗崩溃。"Everything is fine" 重复了四次，但第四次被打断（"Everything is—"），暗示她的自我安慰正在失效。
 
-**关键词**：sustainable / meaningful / environmental / respectable / undoubtedly
+**关键词**：Everything / silent / mantra / succeeded / calming
 
 **为什么这样写**：这是 Stella 全书最著名的自我欺骗模式——用重复的肯定句来压制内心的否定。"silent mantra" 的命名暗示这是一种仪式化的行为，而非真正的信念。第四次的被打断（"Everything is—"）是叙事上的裂缝：她的自我安慰正在被现实侵蚀。"The silent mantra succeeded" 的过去式暗示这种成功是短暂的——她暂时平静了，但问题没有解决。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：Brady 建议 Stella 找一个假男朋友来提升社交媒体影响力。Stella 的第一反应是拒绝——她认为为了粉丝数而恋爱是肤浅的，"made my skin crawl" 表达了她的道德反感。
 
-**关键词**：super-secret / two-in-one / competition / influencer / intensified
+**关键词**：influencer / honest / truth / front / boyfriend
 
 **为什么这样写**：这段对话是全书的转折点——Stella 从"被拒绝"转向"主动寻找解决方案"。Brady 的建议是工具理性的：把恋爱当作获取利益的工具。Stella 的 "made my skin crawl" 是道德直觉的反感，但这种反感在现实压力（失业、Greenfield 涨价）面前逐渐瓦解。"Someone who'll also have something to gain" 的互惠逻辑让这个提议看起来不那么丑陋——它不是欺骗，而是交易。
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Stella 在道德与生存之间选择了生存。她用"integrity didn't pay the bills"来合理化自己的决定，用"a little white lie"来降低行为的严重性。最终她拨通了 Trent 的电话——行动先于思考。
 
-**关键词**：technically / correlation / shock-numbed / thoughtfully / consequence
+**关键词**：believe / considering / nothing / except / integrity
 
 **为什么这样写**：这是全书 Stella 道德滑坡的关键时刻。"integrity didn't pay the bills" 是她为自己找到的合理化借口——把道德问题转化为经济问题。"a little white lie" 的措辞是自我欺骗：她在用"小"来修饰"谎"，用"white"来修饰"lie"。"before I could second guess herself" 是行动冲动的描述——她知道如果再想下去，她会改变主意。"the first name that looked good" 暗示她不是经过深思熟虑的选择，而是随机抓取的救命稻草。
 

@@ -20,7 +20,7 @@ pov: "Christian"
 
 **中文理解**：Christian 在俱乐部借酒消愁——"自我厌恶和愤怒"在他血液里燃烧。"black ice coating my veins" 的比喻把 Christian 的情感具象化为黑色的冰——冰冷、危险、不可融化。
 
-**关键词**：self-loathing / fluttering / accomplished / supermodel / unconcerned
+**关键词**：self-loathing / fluttering / accomplished / Scotch / loathing
 
 **为什么这样写**：开篇用 "Scotch, self-loathing, and anger" 的三重并列建立 Christian 的情感状态——他在借酒消愁。"black ice coating my veins" 的比喻把 Christian 的情感具象化为黑色的冰——冰冷、危险、不可融化。"hadn't thawed" 的 "thawed" 暗示 Christian 的情感是冰冻的——他无法融化它。"beautiful and accomplished in their own right" 的精确措辞说明 Christian 知道这些女人很漂亮、很有成就，但他对她们不感兴趣。
 
@@ -32,7 +32,7 @@ pov: "Christian"
 
 **中文理解**：超模邀请 Christian 去她的酒店。Christian 承认他一开始和她调情是为了"用性和热情来淹没他的挫折感"——但"没有超模或性可以从我的脑海中抹去 Stella 一秒钟"。
 
-**关键词**：abandoning / frustrations / supermodels / Aggravation / interested
+**关键词**：frustrations / supermodels / staying / hotel / nearby
 
 **为什么这样写**：这段描写是 Christian 的"自我认知时刻"——他承认他对 Stella 的执念。"drown my frustrations with heat and sex" 的 "drown" 是精确的——Christian 想用性和热情来淹没他的挫折感。"No supermodels or sex could erase Stella from my mind for a single fucking second" 的 "fucking" 是 Christian 的情感——他通常不会用这种语言，但 Stella 让他失去了控制。"for a single fucking second" 的 "single" 是精确的——Christian 对 Stella 的执念是全面的、持续的。
 
@@ -44,7 +44,7 @@ pov: "Christian"
 
 **中文理解**：Christian 远程引爆了 Victor 的车。"For the first time that night, I smiled a genuine smile" 的 "genuine" 是精确的——Christian 的微笑是真实的，不是假装的。"Much better" 的简短说明 Christian 的满足是精确的——他不需要说太多。
 
-**关键词**：hundred-dollar / straightened / Unfortunately / short-lived / tightening
+**关键词**：footage / could / exploded / flames / Victor
 
 **为什么这样写**：这段描写是 Christian 的"暴力时刻"——他炸了 Victor 的车。"his car exploded into flames" 的 "exploded" 是突然的、暴力的——Christian 的报复是瞬间的。"a twisted, blackened hunk of metal" 的 "twisted" 和 "blackened" 是精确的——Christian 的报复是彻底的、不可逆的。"For the first time that night, I smiled a genuine smile" 的 "genuine" 是精确的——Christian 的微笑是真实的，不是假装的。"Much better" 的简短说明 Christian 的满足是精确的——他不需要说太多。
 
@@ -56,7 +56,7 @@ pov: "Christian"
 
 **中文理解**：Christian 告诉 Stella 他去喝酒了——但他的"随意的语气"与"心跳的节奏"不匹配。他想把她拉回来，用一个"深深的吻"来消除"我们只是室友"的想法。"Not yet" 的简短说明 Christian 在克制自己。
 
-**关键词**：floor-length / languorous / threatened / altogether / hesitation
+**关键词**：drinks / casual / drawl / match / pulse
 
 **为什么这样写**：这段描写是 Christian 的"欲望时刻"——他想吻 Stella。"My casual drawl didn't match the beat of my pulse" 的 "didn't match" 是精确的——Christian 的语气是随意的，但他的心跳是快速的。"I wanted to wrap her hair in my hand and tug her head back" 的 "wrap" 和 "tug" 是暴力的——Christian 的欲望是暴力的、不可控的。"a kiss so fucking deep it would erase the notion that we were just housemates" 的 "fucking" 是 Christian 的情感——他通常不会用这种语言，但 Stella 让他失去了控制。"Not yet" 的简短说明 Christian 在克制自己——他不是在拒绝，他是在等待。
 
@@ -68,7 +68,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说他"等了太久，不会在一个冲动的时刻浪费所有努力"。Stella 问"你和谁在一起"——她的"冷漠"是破碎的，Christian 能看到她潜在的脆弱。"她关心，而那丝情感比任何剑击都更致命"的精确措辞说明 Christian 对 Stella 的情感是脆弱的。
 
-**关键词**：consciousness / condemning / harshening / protection / conversation
+**关键词**：waited / waste / impetuous / moment / Stella
 
 **为什么这样写**：这段描写是 Christian 的"克制时刻"——他选择不吻 Stella。"I'd waited too long to waste all my hard work on one impetuous moment" 的 "impetuous" 是精确的——Christian 不会在一个冲动的时刻浪费他的努力。"If Stella sensed the danger gathering behind her, she didn't show it" 的 "gathering" 是精确的——危险在聚集，但 Stella 没有显示她感知到了。"Indifference clung to her words, but it was tattered enough for me to spot the underlying vulnerability" 的 "tattered" 是精确的——Stella 的冷漠是破碎的，Christian 能看到她的脆弱。"She cared, and that hint of emotion slayed me more than any strike of a sword could" 的 "slayed" 是暴力的——Stella 的情感比任何武器都更致命。
 

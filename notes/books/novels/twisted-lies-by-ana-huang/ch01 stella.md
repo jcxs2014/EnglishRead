@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：老板 Meredith 连一句完整的话都不让 Stella 说完就摔门而去。Stella 的半截 "Of—" 卡在喉咙里，最终变成对着空气的 "Course I can"——一个被训练得很好的助理的即时反应。
 
-**关键词**：reservation / disappeared / sympathetic / tyrannical
+**关键词**：reservation / disappeared / trust / bring / items
 
 **为什么这样写**：开篇即用一个被上司随意差遣的场景建立 Stella 的经济困境与隐忍性格。Meredith 的动作（slipped on her coat, tossed her handbag）连续而流畅，暗示这是日常；Stella 的话被打断后仍然对着空气补完，体现她长期处于被忽视的位置。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：Stella 收到 Greenfield 护理院涨价邮件，月费从现有水平涨到 $6,500，涨幅超过百分之二十。她用一连串反讽表达愤怒——"Inconvenience, they said"——把冰冷的公函语言翻译成有血有肉的人的苦难。
 
-**关键词**：Inconvenience / vulnerable / management / inevitable / partnerships / ambassador
+**关键词**：Inconvenience / vulnerable / management / Effective / April
 
 **为什么这样写**：这段内心独白是 Stella 核心动机的第一次揭示。涨价数字精确到美元，"twenty percent" 是量化的痛感；三个 "Like" 排比将抽象的 "不便" 还原成具体的生存威胁。Maura（practically raised her）是 Stella 唯一不能替代的家人，这条线索为全书的经济困境奠基。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Christian Harper 的声音在路边叫住 Stella。她只听过三次，却已经无法忘记。作者用 "black velvet" 的触觉比喻把听觉转化为身体感受，"pleasure and warning" 的并列暗示这段关系的双重本质。
 
-**关键词**：unforgettable / exquisitely / Michelangelo / assessment / Apparently
+**关键词**：unforgettable / Alonso / voice / brushed / black
 
 **为什么这样写**：这是男女主角的第一次正面相遇。作者刻意不先给外貌，而是让声音先到——"brushed my skin" 的触觉比喻让读者和 Stella 同时经历那一瞬间的身体反应。"equal parts pleasure and warning" 为全书的 attraction-danger 张力定调。Michelangelo 的比喻在直觉上合理，但 "unforgettable" 一词才是关键——Stella 主动记住了他，尽管她不该记住。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：Christian 用不容拒绝的语气让 Stella 上车。她的理性在编借口（温度骤降），但身体比大脑先做出了反应——她自己解释不了为什么。
 
-**关键词**：temperature / interrupted / breathlessness / over-explained / levelheaded
+**关键词**：temperature / Stella / myself / somehow / dropped
 
 **为什么这样写**：这是全书第一次展现 Christian 对 Stella 的非理性影响力。叙述结构是"命令 → 服从 → 自我分析 → 承认自我欺骗"，三层递进。"my body obeyed before I could protest" 是 Stella 的理性叙事被身体推翻的关键时刻——她事后给自己找了一个物理借口（温度），但紧接着用 "I knew that was a lie" 拆穿自己。这种"先合理化再拆穿"的叙述方式让读者完全信任 Stella 的观察力。
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Christian 用一句关于植物的日常话头打破了车内的紧张。Stella 起初没反应过来，随后意识到是自己在帮他照料植物——一种被认可的骄傲感。两人就 "水" 这个共识达成了短暂的和解。
 
-**关键词**：windshield / conversation / levelheaded / circulation
+**关键词**：conversation / plants / doing / Comprehension / dawned
 
 **为什么这样写**：这是全书男女主角第一次真正的对话。作者用"植物"这个安全话题作为情感突破口——Christian 选了 Stella 最能回应的话题（她确实把植物养好了），而 Stella 的 "tentative smile" 是她第一次放下防御。"deadpan statement" 显示 Christian 并非不会幽默，而是选择性地释放。"the knot in my chest loosened a smidge"——"smidge" 这个口语化的程度副词精确描述了这种释然是微小的、不确定的。
 
@@ -80,7 +80,7 @@ pov: "Stella"
 
 **中文理解**：Dante Russo 吻了 Stella 手背——一个超出社交礼仪的意大利式问候。Christian 的声音里藏着他试图压住的敌意，直接打断了两人的初次见面。
 
-**关键词**：accent / absurd formality / Delamonte
+**关键词**：Dante / Russo / expected / shake / surprise
 
 **为什么这样写**：Dante 的登场功能是双重的——一是引入第三方势力（与 Stella 的 Delamonte 品牌大使面试直接相关），二是暴露 Christian 对 Stella 的占有欲。"brushed his mouth across my knuckles" 的动作描写精确到触感，"razored edge" 的比喻则把 Christian 的敌意具象化。Christian 用 "We're late" 结束对话，是在行使领地控制权。
 

@@ -20,7 +20,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"我们四个人坐在酒吧旁边的桌子旁"。"the merriment did nothing to lighten my black mood" 的 "black mood" 是精确的——Christian 的黑色情绪没有减轻。"asked Alex suspiciously" 的 "suspiciously" 是精确地——Josh 怀疑地问 Alex。
 
-**关键词**：restricted / Exasperation / shit-eating / processing / remembered
+**关键词**：table / alive / sounds / laughter / clinking
 
 **为什么这样写**：开篇用 "The air was alive with the sounds of laughter, clinking glasses, and shuffling decks, but the merriment did nothing to lighten my black mood" 建立 Christian 的阴郁——笑声和快乐不能减轻他的黑色情绪。"How many poker tournaments have you attended in the past?" Josh asked Alex suspiciously" 的 "suspiciously" 是精确地——Josh 怀疑地问 Alex。
 
@@ -32,7 +32,7 @@ pov: "Christian"
 
 **中文理解**：Josh 说"有人情绪不好。是因为 Stella 和你分手了吗？"。"My jaw flexed while Alex and Rhys hid their smirks behind their cards" 的 "smirks" 是精确的——Alex 和 Rhys 在牌后面隐藏着笑容。"I am not moody. You are simply annoying" 的 "annoying" 是精确的——Christian 认为 Josh 只是烦人。
 
-**关键词**：unnecessary / insufferable / irritation / concerning / flickering
+**关键词**：moody / raised / eyebrow / Stella / broke
 
 **为什么这样写**：这段描写是 Christian 的"愤怒时刻"——Josh 提起 Stella。"Someone's moody." He raised an eyebrow. "Is it because Stella broke up with you?" 的 "moody" 是精确的——Josh 认为 Christian 情绪不好。"My jaw flexed while Alex and Rhys hid their smirks behind their cards" 的 "smirks" 是精确的——Alex 和 Rhys 在牌后面隐藏着笑容。"I am not moody. You are simply annoying" 的 "annoying" 是精确的——Christian 认为 Josh 只是烦人。
 
@@ -44,7 +44,7 @@ pov: "Christian"
 
 **中文理解**：Rhys 说"还记得你在 Bridget 的事情后给我找茬吗？"。"tedious, boring, and utterly unnecessary" 的 "insufferable" 是精确的——Rhys 认为恋爱中的人是最 insufferable 的。"Want to take that back?" 的 "take that back" 是精确的——Rhys 问 Christian 是否想收回他的话。
 
-**关键词**：information / conversations / complicated / relationship / non-demeaning
+**关键词**：Remember / Bridget / situation / practically / schadenfreude
 
 **为什么这样写**：这段描写是 Christian 的"自嘲时刻"——Rhys 引用了 Christian 过去的话。"Remember when you gave me shit after the Bridget situation?" Rhys was practically in schadenfreude, that bastard" 的 "schadenfreude" 是精确的——Rhys 在幸灾乐祸。"You said love is, and I quote, tedious, boring, and utterly unnecessary. People in love are the most insufferable on the planet" 的 "insufferable" 是精确的——Rhys 认为恋爱中的人是最 insufferable 的。"Want to take that back?" 的 "take that back" 是精确的——Rhys 问 Christian 是否想收回他的话。
 
@@ -56,7 +56,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"从未更好过"。"You've got it bad" 的 "got it bad" 是精确的——Rhys 认为 Christian 完蛋了。"How much did you fuck up?" 的 "fuck up" 是精确的——Rhys 问 Christian 搞砸了多少。"It's complicated" 的 "complicated" 是精确的——Christian 认为这很复杂。
 
-**关键词**：direction / eyebrows / sideways / insisted / attending
+**关键词**：eyebrows / Never / better / acerbic / words
 
 **为什么这样写**：这段描写是 Christian 的"承认时刻"——他承认自己搞砸了。"Never been better." The acerbic bite of my words strained the air" 的 "acerbic" 是精确的——Christian 的话是尖刻的。"You've got it bad" 的 "got it bad" 是精确的——Rhys 认为 Christian 完蛋了。"How much did you fuck up?" His eyebrows rose when I remained silent. "That much, huh?" 的 "fuck up" 是精确的——Rhys 问 Christian 搞砸了多少。"It's complicated" 的 "complicated" 是精确的——Christian 认为这很复杂。
 
@@ -68,7 +68,7 @@ pov: "Christian"
 
 **中文理解**：Christian 说"Rhys Larsen 给感情建议。地狱一定结冰了"。"Hell must've frozen over" 的 "Hell must've frozen over" 是精确的——Christian 认为地狱一定结冰了。"It froze the day you uttered the word love in a non-demeaning way" 的 "non-demeaning" 是精确的——Christian 认为他用非贬低的方式说了"爱"这个词。
 
-**关键词**：delusion / question / bullshit / thinking / reminded
+**关键词**：Larsen / giving / relationship / advice / frozen
 
 **为什么这样写**：这段描写是 Christian 的"自嘲时刻"——他用自嘲来逃避感情建议。"Rhys Larsen giving relationship advice. Hell must've frozen over." 的 "Hell must've frozen over" 是精确的——Christian 认为地狱一定结冰了。"It froze the day you uttered the word love in a non-demeaning way" 的 "non-demeaning" 是精确的——Christian 认为他用非贬低的方式说了"爱"这个词。"If Volkov can get his girl back after a year, there's hope for you. Just don't fuck it up again" 的 "hope" 是精确的——Rhys 认为 Christian 有希望。
 

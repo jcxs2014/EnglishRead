@@ -20,7 +20,7 @@ pov: "Christian"
 
 **中文理解**：Christian 用黑色定义自己的本质——沉默、致命、不可穿透。但 Stella 在几秒钟内颠覆了他的一切，就像她颠覆了他生活中的其他一切一样。
 
-**关键词**：Impenetrable / Apparently / resentment / last-minute / stranglehold
+**关键词**：Impenetrable / Black / always / favorite / color
 
 **为什么这样写**：开篇用三个形容词（Silent. Deadly. Impenetrable.）建立 Christian 的自我认知——他把自己定义为黑暗中的存在。"shadows merging with the inky wells of night" 的比喻把自己融入背景，暗示他习惯于隐藏。"she'd upended that" 的 "upended" 是一个暴力的动词——Stella 不是温柔地改变他，而是颠覆性地推翻了他。"every other thing" 暗示这不是第一次，而是累积的效应。
 
@@ -32,7 +32,7 @@ pov: "Christian"
 
 **中文理解**：Christian 看到 Stella 穿绿色礼服，立刻把绿色定义为"生命与自然的象征"——然后承认绿色成了他"新的最爱颜色"。"fucking" 的插入语暗示他自己也对这种变化感到无奈。
 
-**关键词**：resentment / dissatisfied / unimportant / underappreciated / surrounded
+**关键词**：Green / dress / Symbolic / nature / Apparently
 
 **为什么这样写**：这段描写是 Christian 对 Stella 的第一次"色彩联想"——他把绿色从一种颜色转化为一种情感符号。"Apparently" 的插入语暗示他自己也对这种变化感到无奈——他不是一个会轻易改变偏好的人，但 Stella 改变了他。"new favorite fucking color" 的 "fucking" 是 Christian 对自己情感化的自嘲——他知道自己不应该有"最喜欢的颜色"这种东西，但他就是有了。
 
@@ -44,7 +44,7 @@ pov: "Christian"
 
 **中文理解**：Christian 用"哀悼"来讽刺 Kurtz 的客户被保镖伤害的事件。他同时握住 Stella 的手——这个动作既是宣示占有权，也是保护她不受 Kurtz 的骚扰。
 
-**关键词**：condolences / unfortunate / bodyguards / undercurrent / conversation
+**关键词**：condolences / unfortunate / bodyguards / almost / forgot
 
 **为什么这样写**：这段对话是 Christian 与 Kurtz 的商场攻防。"condolences" 的讽刺用法是 Christian 的典型风格——他用礼貌的语言包装敌意。"unfortunate incident" 的委婉语与 "most of his fingers left" 的残酷细节形成对比，暗示 Christian 知道内情并且可能是幕后黑手。"twined my free hand with hers" 的动作是 Christian 对 Kurtz 的宣示——Stella 是他的，不是 Kurtz 能碰的。
 
@@ -56,7 +56,7 @@ pov: "Christian"
 
 **中文理解**：Stella 声称她对 Christian 做了"研究"，Christian 对此感到有趣。他随后讲述了与 Kurtz 的竞争历史——从 MIT 到现在，他总是领先一步。
 
-**关键词**：competitor / relationships / internships / exhausting / originality
+**关键词**：relationships / internships / enter / pretend / without
 
 **为什么这样写**：这段对话是两人关系的缩影——Stella 用 "research" 来证明自己不是盲目的，Christian 用 "dignified tone" 来欣赏她的认真。"competed for everything" 的列举（grades, girls, internships）把他们的竞争从具体事件上升为生活方式。"He's yet to succeed" 的 "yet" 暗示 Christian 知道 Kurtz 不会放弃，但他不在乎——他太强大了，不需要担心。
 
@@ -68,7 +68,7 @@ pov: "Christian"
 
 **中文理解**：Christian 编造了一个浪漫的相遇故事——在 Bridget 的婚礼上，他看到 Stella 并邀请她跳舞。实际上他们只是交换了一个简短的问候，但这个编造的故事有多个目的：简单、好记、比"租房时认识"更有趣、接近真相。
 
-**关键词**：girlfriend / name-dropping / unreadable / experiences / protection
+**关键词**：Queen / wedding / smoothly / across / asked
 
 **为什么这样写**：这段描写是 Christian 对"假约会"的精心维护——他不仅是在撒谎，而是在编造一个完整的叙事。"concocted" 的措辞暗示这个故事是经过设计的，不是即兴的。"served several purposes" 的列举说明 Christian 在编故事时考虑了多个变量——简单性、记忆性、趣味性、真实性。"close enough to the truth" 的 "close enough" 暗示 Christian 知道真相不够浪漫，但他需要这个谎言来维持假象。
 

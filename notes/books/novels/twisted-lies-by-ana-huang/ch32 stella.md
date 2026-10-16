@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说 wrap party 应该是"我旅行的加冕亮点"。"Instead, I spent the entirety of it replaying that afternoon in my head" 的 "replaying" 是精确的——Stella 在重放那个下午，而不是在庆祝。
 
-**关键词**：suppressed / anticipation / heartbeats / commitments / deliberate
+**关键词**：party / crowning / highlight / celebration / everything
 
 **为什么这样写**：开篇用 "Delamonte's wrap party should've been the crowning highlight of my trip" 建立 Stella 的期望——她期望 wrap party 是加冕亮点。"Instead, I spent the entirety of it replaying that afternoon in my head" 的 "replaying" 是精确的——Stella 在重放那个下午，而不是在庆祝。"The memory of my kiss with Christian stayed with me through dessert" 的 "stayed with me" 是精确的——Stella 的记忆是持久的，不是短暂的。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：Christian 说"你今晚没有其他承诺，我想"。"his eyes smoldered with so much heat I thought I would combust" 的 "combust" 是精确的——Stella 认为她会因为 Christian 的热度而燃烧。
 
-**关键词**：preciseness / deceptively / accessories / expression / involuntarily
+**关键词**：preciseness / commitments / tonight / presume / relaxed
 
 **为什么这样写**：这段描写是 Stella 的"欲望时刻"——她被 Christian 的热度征服了。"his eyes smoldered with so much heat I thought I would combust from the sheer intensity of it" 的 "combust" 是精确的——Stella 认为她会因为 Christian 的热度而燃烧。"An electric current tied our gazes together" 的 "electric current" 是精确的——Stella 和 Christian 之间的电流是真实的、不可控的。"a slow, deliberate preciseness that made my mouth go dry" 的 "deliberate" 是精确的——Christian 的动作是故意的、精确的。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Christian 问 Stella——"你想要做爱，还是被操？"。"My thighs involuntarily clenched at the way he said fucked" 的 "involuntarily" 是精确的——Stella 的大腿不自主地夹紧，暗示她的身体比她的头脑更诚实。
 
-**关键词**：destruction / difference / scratching / Embarrassment / dangerously
+**关键词**：destruction / glide / finger / enough / pulse
 
 **为什么这样写**：这段描写是 Stella 的"选择时刻"——她选择"被操"。"Do you want sex, or do you want to be fucked?" 的 "fucked" 是精确的——Christian 用了"fucked"而不是"made love"，暗示他的欲望是暴力的。"My thighs involuntarily clenched at the way he said fucked" 的 "involuntarily" 是精确的——Stella 的大腿不自主地夹紧，暗示她的身体比她的头脑更诚实。"It was the dark purr of a predator toying with its prey" 的 "predator" 是精确的——Christian 是捕食者，Stella 是猎物。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说她不想要"温柔的吻和温柔的抚摸"。"I wanted skin and blood" 的 "skin and blood" 是精确的——Stella 想要的是原始的、暴力的亲密。"I wanted it all" 的 "all" 是精确的——Stella 想要一切，不是部分。
 
-**关键词**：glistening / manipulations / embarrassed / fantasized / sensitized
+**关键词**：kisses / gentle / caresses / wanted / blood
 
 **为什么这样写**：这段描写是 Stella 的"欲望时刻"——她想要的是原始的、暴力的亲密。"I didn't want soft kisses and gentle caresses" 的 "soft" 和 "gentle" 是精确的——Stella 不想要温柔的，她想要暴力的。"I wanted skin and blood" 的 "skin and blood" 是精确的——Stella 想要的是原始的、暴力的亲密。"I wanted nails scratching down his back and bruises on my hips" 的 "scratching" 和 "bruises" 是精确的——Stella 想要的是暴力的、不可控的亲密。"I wanted it all" 的 "all" 是精确的——Stella 想要一切，不是部分。
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"这不是性。这是纯粹的、硬操……这正是我需要的"。"Because as rough as Christian was, I'd never felt safer" 的 "safer" 是精确的——Stella 在 Christian 的粗糙中感到安全。
 
-**关键词**：practically / sweetheart / impossibly / unclenched / viciousness
+**关键词**：fucking / exactly / needed / previously / slept
 
 **为什么这样写**：这段描写是 Stella 的"满足时刻"——她在 Christian 的粗糙中感到安全。"It wasn't sex. It was pure, hard fucking...and it was exactly what I needed" 的 "exactly" 是精确的——Stella 知道这正是她需要的。"The guys I'd previously slept with had treated me like I was a porcelain doll in bed" 的 "porcelain doll" 是精确的——Stella 的前任们把她当作瓷器娃娃，而不是真实的人。"Because as rough as Christian was, I'd never felt safer" 的 "safer" 是精确的——Stella 在 Christian 的粗糙中感到安全。
 

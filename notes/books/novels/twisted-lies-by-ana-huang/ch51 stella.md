@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"我一直睡到第二天中午"。"the previous day's events had taken their toll" 的 "taken their toll" 是精确的——前一天的事件造成了损失。"fogginess clouded my brain" 的 "fogginess" 是精确的——Stella 认为她的脑子有雾。
 
-**关键词**：lethalness / instinctively / uncharacteristic / uncertainty / especially
+**关键词**：slept / latest / woken / previous / events
 
 **为什么这样写**：开篇用 "I slept in until noon the next day. It was the latest I'd ever woken up, but the previous day's events had taken their toll" 建立 Stella 的疲惫——她睡到中午。"Even after a solid sixteen hours of rest, fogginess clouded my brain as I walked to the kitchen" 的 "fogginess" 是精确的——Stella 认为她的脑子有雾。"Being drugged and kidnapped. Finding out my old classmate slash the reporter who'd written that amazing profile on me was my stalker" 的 "drugged and kidnapped" 是精确的——Stella 被下药和绑架了。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：Christian 说"这是我的房子"。"said dryly" 的 "dryly" 是精确的——Christian 干燥地说。"Lemon ricotta pancakes, your favorite" 的 "your favorite" 是精确的——Christian 知道 Stella 的最爱。
 
-**关键词**：completely / exhaustive / kidnapping / slack-jawed / babysitting
+**关键词**：house / dryly / nodded / array / covered
 
 **为什么这样写**：这段描写是 Stella 的"温暖时刻"——Christian 为她准备了早餐。"It is my house," he said dryly" 的 "dryly" 是精确的——Christian 干燥地说。"Nina's here and made breakfast. Lemon ricotta pancakes, your favorite" 的 "your favorite" 是精确的——Christian 知道 Stella 的最爱。"My stomach growled at the mention of breakfast" 的 "growled" 是精确的——Stella 的肚子咕噜叫了。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Christian 说"她告诉了 Jules"。"His tone dried further" 的 "dried further" 是精确的——Christian 的语气更干燥了。"I figured you wouldn't want to be alone" 的 "I figured" 是精确的——Christian 认为他不会想独自一人。
 
-**关键词**：appreciated / impersonal / impossible / heartbeats / soundlessly
+**关键词**：Jules / dried / further / should / company
 
 **为什么这样写**：这段描写是 Stella 的"感激时刻"——Christian 为她考虑。"She told Jules." His tone dried further" 的 "dried further" 是精确的——Christian 的语气更干燥了。"You're letting them into your house? I thought you didn't like guests" 的 "letting them into your house" 是精确的——Stella 认为 Christian 让他们进他的房子了。"I figured you wouldn't want to be alone" 的 "I figured" 是精确的——Christian 认为他不会想独自一人。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"你要对 Julian 做什么？"。"sure I didn't want to know the answer but was too curious not to ask" 的 "curious" 是精确的——Stella 太好奇了。"trying to convince Christian to turn a case over to the cops would be futile" 的 "futile" 是精确的——Stella 认为试图说服 Christian 把案件交给警察是徒劳的。
 
-**关键词**：experienced / handwritten / stationery / recognized / immediately
+**关键词**：going / Julian / asked / answer / curious
 
 **为什么这样写**：这段描写是 Stella 的"好奇时刻"——她问 Christian 要对 Julian 做什么。"What are you going to do with Julian?" I asked, sure I didn't want to know the answer but was too curious not to ask" 的 "curious" 是精确的——Stella 太好奇了。"If it were anyone else, I'd insist they let the police handle it" 的 "let the police handle it" 是精确的——Stella 认为她会让警察处理它。"trying to convince Christian to turn a case over to the cops would be futile" 的 "futile" 是精确的——Stella 认为试图说服 Christian 把案件交给警察是徒劳的。
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Christian 说"没有什么他不应得的"。"the calm lethalness of his response" 的 "lethalness" 是精确的——Stella 认为 Christian 的回答是致命的。"capable of worse things than I could imagine" 的 "worse things" 是精确的——Stella 认为 Christian 有能力做比她想象的更糟糕的事。
 
-**关键词**：previous / fogginess / kidnapped / classmate / reporter
+**关键词**：darkened / Nothing / deserve / chill / skated
 
 **为什么这样写**：这段描写是 Stella 的"不安时刻"——她不安 Christian 要对 Julian 做什么。"Christian's eyes darkened. "Nothing he doesn't deserve" 的 "darkened" 是精确的——Christian 的眼睛变暗了。"A chill skated down my spine at the calm lethalness of his response" 的 "lethalness" 是精确的——Stella 认为 Christian 的回答是致命的。"But I knew with sudden, blinding clarity that he was also capable of worse things than I could imagine" 的 "worse things" 是精确的——Stella 认为 Christian 有能力做比她想象的更糟糕的事。
 

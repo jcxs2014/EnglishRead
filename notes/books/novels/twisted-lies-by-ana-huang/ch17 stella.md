@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Stella 醒来后发现两个异常——气味（皮革和香料而非薰衣草）和床单颜色（石板灰丝绸而非奶油色）。"dead giveaway" 的精确描述说明 Christian 的房间有不可误认的男性标志。
 
-**关键词**：exclusively / simplicity / nightstand / unexpected / thundering
+**关键词**：exclusively / simplicity / nightstand / sunshine / faint
 
 **为什么这样写**：开篇用 "faint scent of leather and spice" 建立 Christian 的存在——Stella 在基督教的床上醒来，第一个感觉是气味。"That was the first sign something was amiss" 的 "amiss" 暗示 Stella 的直觉——有什么不对。"The second sign was the color of the sheets" 的 "second" 暗示 Stella 在系统地检查环境——她不是随便看看，而是在确认她在哪里。"dead giveaway" 的精确措辞说明 Christian 的房间有不可误认的男性标志——手表和袖扣是男性的象征。
 
@@ -28,15 +28,15 @@ pov: "Stella"
 
 ---
 
-> **原句 2:** "You didn't want to be alone, so I let you stay in my room for the night." … "That was a one-time exception, given what happened, but you'll be sleeping in the guest room from now on. It's there for a reason." … Dread and mortification curdled in my stomach.
+> **原句 2:** "You didn't want to be alone, so I let you stay in my room for the night." Christian straightened his sleeve. It was eight in the morning, but he was already dressed in one of his signature suits and loafers. His hair was perfectly styled, his face sharp and clean-shaven. "That was a one-time exception, given what happened, but you'll be sleeping in the guest room from now on. It's there for a reason."
 
-**中文理解**：Christian 解释他让 Stella 在他的房间过夜是因为她不想独处——但这是一次性例外。"Dread and mortification curdled in my stomach" 的 "curdled" 暗示 Stella 的恐惧和尴尬是混合的——像牛奶变质一样。
+**中文理解**：Christian 一边整理袖口，一边宣布纪律：昨晚是例外，从今往后你睡客房。真正暴露他的其实是那句仪表描写——清晨八点，他已经穿好西装和乐福鞋，头发打理得分毫不差。
 
-**关键词**：clean-shaven / remembered / twenty-four / optimistic / essentials
+**关键词**：straightened / signature / styled / exception / guest
 
-**为什么这样写**：这段对话是 Stella 的"回归现实时刻"——她意识到她在 Christian 的床上过夜了。"That was a one-time exception" 的 "one-time" 是 Christian 的精确——他不会让这种情况再次发生。"Dread and mortification curdled in my stomach" 的 "curdled" 是精确的——Stella 的恐惧和尴尬是混合的，像牛奶变质一样。"remembered the heat of his body behind me" 的 "heat" 暗示 Christian 的身体对 Stella 有吸引力——即使是在回忆中。
+**为什么这样写**：这一段的作用是「用整洁反衬失控」。Stella 刚经历恐惧，而 Christian 呈现的是完全相反的画面：袖子、西装、发型，全部处在控制之中；a one-time exception 与 It's there for a reason 是他给自己搭的规矩。写他清晨的仪表，等于写他用秩序去对抗昨晚已经发生的越界。
 
-**读者视角提示**：Stella 在此处的"mortification" 是角色深度的来源——她不是那种会轻易尴尬的人，但 Christian 的床让她尴尬了。"curdled" 的精确措辞说明这种尴尬是深层的——不是表面的，而是深入内脏的。
+**读者视角提示**：读者在这里看清两人的相处模式：Christian 用规则和仪式感包裹在乎，Stella 则在被「安置」的过程中一步步失去对自己生活的决定权。
 
 ---
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Christian 制定安全规则——不带朋友或男人来，不碰不认识的设备。"His voice iced at the word men" 的 "iced" 暗示 Christian 对"男人"这个词有强烈的反应——他不喜欢 Stella 带其他男人来。
 
-**关键词**：downstairs / intensified / destroying / conviction / reassurance
+**关键词**：danger / fully / under / protection / appropriate
 
 **为什么这样写**：这段描写是 Christian 的"保护时刻"——他制定规则来保护 Stella。"No bringing friends or men over" 的 "men" 是 Christian 的精确——他特别强调 "men"，暗示他对 Stella 带其他男人来有强烈的反应。"His voice iced at the word men" 的 "iced" 是突然的、暴力的——Christian 的声音在 "men" 这个词上突然变冷。"fifty-fifty chance they could kill you" 的 "fifty-fifty" 是 Christian 的精确——他给出一个精确的概率，而不是模糊的描述。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：Stella 提出她的规则——不进入 Christian 的房间，不碰他的东西，不告诉别人她的行踪。最后一个规则是"不准带女人回家"——她的声音在"女人"这个词上犹豫了。"it won't look right" 的措辞暗示 Stella 在掩盖她的真实情感。
 
-**关键词**：foreseeable / day-appropriate / round-faced / friendliness / housekeeper
+**关键词**：house / respect / rules / privacy / means
 
 **为什么这样写**：这段描写是 Stella 的"反击时刻"——她不是被动接受 Christian 的规则，而是提出自己的规则。"no coming into my room without permission, even when—especially when—I'm not there" 的 "especially when" 是 Stella 的精确——她知道 Christian 可能会在她不在时进入她的房间。"No bringing women home" 的 "women" 是 Stella 的犹豫——她在掩盖她的真实情感。"it won't look right" 的措辞暗示 Stella 在找借口——她不是真的在意"看起来对不对"，而是不想看到 Christian 带女人回家。
 
@@ -64,15 +64,15 @@ pov: "Stella"
 
 ---
 
-> **原句 5:** "I don't cheat, Stella." … "It's not cheating when we're not really dating." … What was I saying? It wasn't like I wanted him to sleep with other women. It was too risky, and… … A strange twist wrung my heart and left it out to dry when I pictured him with another woman. … I told myself it had everything to do with keeping up appearances and nothing to do with…anything else.
+> **原句 5:** Christian's amusement disappeared beneath pools of amber ice. "I don't cheat, Stella."
 
-**中文理解**：Christian 说"我不作弊"。Stella 说"我们不是真的约会，所以不算作弊"。但她的心在看到 Christian 和其他女人在一起时扭曲了。"I told myself it had everything to do with keeping up appearances and nothing to do with…anything else" 的自我欺骗是 Stella 的精确——她在用"保持表象"来掩盖她的真实情感。
+**中文理解**：玩笑触到了底线。Christian's amusement disappeared beneath pools of amber ice 用冰层覆盖的意象把表情骤变写得可见——笑意沉下去，琥珀色的眼睛重新变冷。他的回答只有四个字：I don't cheat, Stella.
 
-**关键词**：suppressed / Croissants / cheekbones / staggering / disappeared
+**关键词**：amusement / disappeared / beneath / amber / cheat
 
-**为什么这样写**：这段描写是 Stella 的"自我欺骗时刻"——她意识到她对 Christian 有情感，但她拒绝承认。"I don't cheat, Stella" 的 "cheat" 是 Christian 的精确——他不认为他的行为是作弊，因为他没有对其他女人感兴趣。"It's not cheating when we're not really dating" 的 "really" 是 Stella 的精确——她在强调"不是真的"，但她的心在扭曲。"A strange twist wrung my heart" 的 "wring" 是暴力的——Stella 的心被扭曲了，像被拧干一样。"I told myself it had everything to do with keeping up appearances and nothing to do with…anything else" 的 "anything else" 是 Stella 的精确——她在用"保持表象"来掩盖她的真实情感。
+**为什么这样写**：全书的 Christian 有一套自己的不越线定义：他可以操控、可以隐瞒，但他不「作弊」。pools of amber ice 把两种颜色叠在一起——琥珀是暖的，冰是冷的，正对应他此刻的情绪：被冒犯的恼怒，以及某种更原始的所有权意识。句子短到近乎粗暴，说明这不是对玩笑的回应，而是底线的宣示。
 
-**读者视角提示**：Stella 在此处的"anything else" 是角色深度的来源——她不是那种会轻易承认情感的人，她在用"保持表象"来掩盖她的嫉妒。"wring" 的暴力措辞说明这种情感是真实的——Stella 不能假装她没有情感。
+**读者视角提示**：这句宣示会在后文被读者反复拿来对照——Christian 真的从不撒谎吗？不，他撒了很多；他只是坚持一套属于自己的规则。这正是他「灰色」性格的核心。
 
 ---
 

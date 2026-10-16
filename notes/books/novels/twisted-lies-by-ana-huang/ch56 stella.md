@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"我在后台看着 Ayana，当下最火热的超模，趾高气扬地走在人行道上"。"the hottest supermodel of the moment" 的 "hottest" 是精确的——Stella 认为 Ayana 是最火热的。"a striking purple dress" 的 "striking" 是精确的——Stella 认为紫色连衣裙是引人注目的。
 
-**关键词**：supermodel / tentatively / confidently / intensified / instrumental
+**关键词**：supermodel / watched / backstage / Ayana / hottest
 
 **为什么这样写**：开篇用 "I watched from backstage as Ayana, the hottest supermodel of the moment, strutted down the sidewalk" 建立 Stella 的紧张——她在后台看着时装秀。"Her flawless dark skin glowed beneath the lights and provided the perfect contrast to the crowning piece of my collection: a striking purple dress that could be worn day or night depending on how it was accessorized" 的 "crowning piece" 是精确的——Stella 认为这是她收藏的顶级作品。"The rest of the models followed behind her for the closing walk until they all exited the runway" 的 "closing walk" 是精确的——Stella 认为这是闭幕走秀。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"我深吸一口气走了出去，起初试探性地，然后随着掌声加强而更加自信"。"tentatively at first, then more confidently as the applause intensified" 的 "tentatively" 是精确的——Stella 认为她起初是试探性的。"a resounding success" 的 "resounding" 是精确的——Stella 认为这是巨大的成功。
 
-**关键词**：celebrities / relationship / half-heartedly / Mediterranean / seriousness
+**关键词**：breath / walked / tentatively / first / confidently
 
 **为什么这样写**：这段描写是 Stella 的"成功时刻"——她的时装秀成功了。"I took a deep breath and walked out, tentatively at first, then more confidently as the applause intensified" 的 "tentatively" 是精确的——Stella 认为她起初是试探性的。"After dozens of sleepless nights, panic attacks, and fits of self-doubt, it was finally over and, based on the roar around me, a resounding success" 的 "resounding success" 是精确的——Stella 认为这是巨大的成功。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"房间里挤满了时尚内部人士和名人，但我最关心的人在就在我面前"。"the people I cared about most" 的 "cared about most" 是精确的——Stella 认为这些人是她最关心的。"beams of pride curled through my chest and settled there like a warm blanket" 的 "warm blanket" 是精确的——Stella 认为骄傲像温暖的毯子。
 
-**关键词**：negotiating / multimillion-dollar / pastel-covered / anticipated / relationship
+**关键词**：relationship / packed / fashion / insiders / celebrities
 
 **为什么这样写**：这段描写是 Stella 的"家庭时刻"——她的家人来了。"The room was packed with fashion insiders and celebrities, but the people I cared about most were right there in front of me" 的 "cared about most" 是精确的——Stella 认为这些人是她最关心的。"And my family, whose beams of pride curled through my chest and settled there like a warm blanket" 的 "warm blanket" 是精确的——Stella 认为骄傲像温暖的毯子。"Our relationship had come a long way over the past year. It wasn't perfect, but what family was?" 的 "come a long way" 是精确的——Stella 认为关系走过了很长的路。"What mattered was that they'd showed up" 的 "showed up" 是精确的——Stella 认为重要的是他们出现了。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：Stella 说"他披着意大利羊毛和丝绸瘫在椅子上，如此美丽"。"He draped across his chair in a spill of Italian wool and silk" 的 "draped" 是精确的——Stella 认为 Christian 披着。"My heart ballooned in my chest" 的 "ballooned" 是精确的——Stella 认为她的心膨胀了。"Those whiskey pools sparkled and danced beneath the dim lights" 的 "whiskey pools" 是精确的——Stella 认为 Christian 的眼睛是威士忌池。
 
-**关键词**：pastel-covered / anticipated / beauty / Milan / assistant
+**关键词**：draped / across / chair / spill / Italian
 
 **为什么这样写**：这段描写是 Stella 的"爱情时刻"——她爱 Christian。"He draped across his chair in a spill of Italian wool and silk, so beautiful he could've modeled onstage himself had I designed menswear" 的 "draped" 是精确的——Stella 认为 Christian 披着。"Christian didn't holler and cheer like everyone else, but the curve of his lips and the warmth in his eyes said more than words could" 的 "warmth in his eyes" 是精确的——Stella 认为 Christian 的眼睛里有温暖。"I love you," I mouthed. Those whiskey pools sparkled and danced beneath the dim lights. He didn't need to say it for me to hear him. I love you too" 的 "whiskey pools" 是精确的——Stella 认为 Christian 的眼睛是威士忌池。
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Christian 说"我很高兴你这么想"。"Christian's velvet murmur brushed my skin, along with an odd roughness I'd never heard before" 的 "velvet murmur" 是精确的——Stella 认为 Christian 的声音是丝绒般的低语。"Christian Harper on one knee, velvet box open in hand to reveal a dazzling diamond ring set with emeralds" 的 "dazzling" 是精确的——Stella 认为戒指是耀眼的。
 
-**关键词**：life / milan / gorgeous / evening / proposal
+**关键词**：think / velvet / murmur / brushed / along
 
 **为什么这样写**：这段描写是 Stella 的"求婚时刻"——Christian 向她求婚了。"I'm glad you think so." Christian's velvet murmur brushed my skin, along with an odd roughness I'd never heard before" 的 "velvet murmur" 是精确的——Stella 认为 Christian 的声音是丝绒般的低语。"Because before me, framed by pastel-covered hills and the golden hues of sunset, was a sight I'd never anticipated. Christian Harper on one knee, velvet box open in hand to reveal a dazzling diamond ring set with emeralds" 的 "dazzling" 是精确的——Stella 认为戒指是耀眼的。"Stella, will you marry me?" 的 "will you marry me" 是精确的——Christian 向 Stella 求婚了。
 

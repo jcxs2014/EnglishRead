@@ -20,7 +20,7 @@ pov: "Stella/Christian"
 
 **中文理解**：Stella 说"把你夏日星期五休了吧"。"she said reluctantly" 的 "reluctantly" 是精确的——Stella 认为 Christy 不情愿。"the unexpected addition to my schedule and the mischievous twinkle in her eyes" 的 "mischievous" 是精确的——Stella 认为 Christy 的眼睛里有顽皮的闪光。
 
-**关键词**：reluctantly / unexpected / mischievous / devastating / unbelievable
+**关键词**：reluctantly / unexpected / mischievous / summer / Friday
 
 **为什么这样写**：开篇用 "Take your summer Friday off" 建立 Stella 的温暖——她让助理休息。"Okay," she said reluctantly" 的 "reluctantly" 是精确的——Stella 认为 Christy 不情愿。"My brow furrowed at both the unexpected addition to my schedule and the mischievous twinkle in her eyes" 的 "mischievous" 是精确的——Stella 认为 Christy 的眼睛里有顽皮的闪光。
 
@@ -32,7 +32,7 @@ pov: "Stella/Christian"
 
 **中文理解**：Stella 说"深色西装。威士忌色的眼睛。还有一束我见过的最华丽的玫瑰"。"Dark suit. Whiskey eyes" 的 "Whiskey eyes" 是精确的——Stella 认为 Christian 的眼睛是威士忌色的。"A slow, devastating smile spread across his face" 的 "devastating" 是精确的——Stella 认为 Christian 的微笑是毁灭性的。
 
-**关键词**：opportunity / officially / accessories / fragrances / accordingly
+**关键词**：Whiskey / bouquet / gorgeous / roses / devastating
 
 **为什么这样写**：这段描写是 Stella 的"重逢时刻"——Christian 提前回来了。"Dark suit. Whiskey eyes. And a bouquet of the most gorgeous roses I'd ever seen" 的 "Whiskey eyes" 是精确的——Stella 认为 Christian 的眼睛是威士忌色的。"A slow, devastating smile spread across his face when he saw me" 的 "devastating" 是精确的——Stella 认为 Christian 的微笑是毁灭性的。"Even after three years of marriage, that smile never failed to make my heart flutter" 的 "heart flutter" 是精确的——Stella 认为她的心飘动了。
 
@@ -44,7 +44,7 @@ pov: "Stella/Christian"
 
 **中文理解**：Christian 说"已经五分钟了，Harper 太太"。"Are you going to make your husband wait even longer for a kiss" 的 "your husband" 是精确的——Christian 认为他是 Stella 的丈夫。"my heart swelling as the rumble of his laughter filled the room" 的 "rumble" 是精确的——Stella 认为 Christian 的笑声是隆隆的。
 
-**关键词**：melancholy / businesses / headquartered / devastated / wheatgrass
+**关键词**：minutes / Harper / Christian / drawled / going
 
 **为什么这样写**：这段描写是 Stella 的"欢乐时刻"——她和 Christian 重逢了。"It's been five minutes, Mrs. Harper," Christian drawled. "Are you going to make your husband wait even longer for a kiss?" 的 "your husband" 是精确的——Christian 认为他是 Stella 的丈夫。"Then I ran and threw my arms around his neck, my heart swelling as the rumble of his laughter filled the room" 的 "rumble" 是精确的——Stella 认为 Christian 的笑声是隆隆的。"I kissed him, drinking in his taste and smell like we'd been apart for months, not days" 的 "drinking in" 是精确的——Stella 认为她在喝下 Christian 的味道和气味。
 
@@ -56,7 +56,7 @@ pov: "Stella/Christian"
 
 **中文理解**：Stella 说"我希望 Maura 在这里看到它"。"she'd been the most lucid I'd seen her in years" 的 "lucid" 是精确的——Stella 认为 Maura 是最清醒的。"she'd passed away in her sleep" 的 "passed away" 是精确的——Stella 认为 Maura 在睡梦中去世了。
 
-**关键词**：sweetheart / admonished / alternated / Specifically / inevitable
+**关键词**：Maura / softly / loved / wedding / lucid
 
 **为什么这样写**：这段描写是 Stella 的"怀念时刻"——她怀念 Maura。"I wish Maura were here to see it," I said softly. "She would've loved it" 的 "wish" 是精确的——Stella 希望 Maura 在这里。"Maura had made it to our wedding, where she'd been the most lucid I'd seen her in years" 的 "lucid" 是精确的——Stella 认为 Maura 是最清醒的。"I'd been devastated, but I knew she'd been ready to go and that she was in a happier place now" 的 "devastated" 是精确的——Stella 认为她悲痛欲绝。
 
@@ -68,7 +68,7 @@ pov: "Stella/Christian"
 
 **中文理解**：Stella 说"我不想在其他人面前告诉你，但我也不能再等了"。"Christian, I'm pregnant" 的 "pregnant" 是精确的——Stella 怀孕了。"A fierce protectiveness gripped my chest" 的 "fierce protectiveness" 是精确的——Christian 认为他的保护欲是凶猛的。"love was the last piece that'd been missing in the puzzle of my life" 的 "last piece" 是精确的——Christian 认为爱是他人生拼图中缺失的最后一块。
 
-**关键词**：complaints / three-and-a-half-year-old / accusation / roughhousing / pregnancy
+**关键词**：front / others / anymore / voice / lowered
 
 **为什么这样写**：这段描写是 Stella 和 Christian 的"惊喜时刻"——Stella 怀孕了。"I didn't want to tell you in front of the others, but I also couldn't wait anymore." Stella's voice lowered. "Christian, I'm pregnant" 的 "pregnant" 是精确的——Stella 怀孕了。"The words echoed in my head, too gilded with shock to sink in fully" 的 "gilded with shock" 是精确的——Christian 认为话语被震惊镀金了。"Once upon a time, I hadn't believed in love. Now, I realize that love was the last piece that'd been missing in the puzzle of my life. With it, I was finally whole" 的 "last piece" 是精确的——Christian 认为爱是他人生拼图中缺失的最后一块。
 

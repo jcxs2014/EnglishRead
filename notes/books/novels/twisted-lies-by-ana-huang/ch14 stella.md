@@ -20,7 +20,7 @@ pov: "Stella"
 
 **中文理解**：Stella 在日记中承认她认为 Delamonte 不会选她。但她在"好消息"中找到了安慰——她还在涨粉丝，接到了两个新品牌合作。"a little depressing" 的自我觉察暗示她知道这种"安慰"是脆弱的。
 
-**关键词**：ambassador / depressing / interesting / button-down / devastating
+**关键词**：ambassador / depressing / month / dinner / Delamonte
 
 **为什么这样写**：日记体是 Stella 最诚实的时刻。"I'm convinced I didn't get it" 的 "convinced" 暗示她已经接受了失败——她不是在等待，而是在为失败做准备。"On the bright side" 的 "bright" 是 Stella 的自我欺骗：她知道这些"好消息"无法弥补 Delamonte 的失败，但她需要它们来维持希望。"a little depressing" 的 "depressing" 是 Stella 的精确自我觉察——她知道自己的"好消息"是脆弱的，但她选择接受它。
 
@@ -32,7 +32,7 @@ pov: "Stella"
 
 **中文理解**：Christian 穿着黑色纽扣衬衫和深色牛仔裤出现在 Stella 门口——她第一次看到他穿西装以外的衣服。"equally devastating in a completely different way" 的精确描述说明 Christian 在不同风格下都有破坏力。
 
-**关键词**：completely / sweatshirt / socialization / positively / remembered
+**关键词**：completely / dressed / leaving / gaped / Christian
 
 **为什么这样写**：这段描写是 Stella 对 Christian 的"视觉冲击"——她第一次看到他穿西装以外的衣服。"crisp black button-down" 的 "crisp" 暗示 Christian 即使穿休闲装也是精致的。"equally devastating" 的 "equally" 说明 Christian 的破坏力不是西装带来的，而是他本身带来的。"in a completely different way" 的 "completely" 强调这种不同是彻底的——西装是正式的，而牛仔裤是随意的，但两者都同样致命。
 
@@ -44,7 +44,7 @@ pov: "Stella"
 
 **中文理解**：Christian 看到 Stella 的"冬眠"证据——冰淇淋、电影《穿普拉达的女王》、外卖沙拉。他用 "Dairy and fashion magazine tyranny" 来讽刺她的逃避。"Miss your old job already?" 的讽刺暗示 Christian 知道 Stella 不是真的想念工作。
 
-**关键词**：suggestion / hibernating / responsibilities / unimpressed / Forty-nine
+**关键词**：positively / swamped / coasted / shoulder / warmed
 
 **为什么这样写**：这段对话是 Christian 与 Stella 的"日常攻防"——Christian 用讽刺来试探 Stella 的边界，Stella 用 "hibernating" 来捍卫自己的逃避。"positively swamped" 的 "positively" 是 Christian 的讽刺——他看到了 Stella 的混乱，但他选择用轻松的语言来描述。"Dairy and fashion magazine tyranny" 的精确列举说明 Christian 对 Stella 的生活细节有观察力——他不是随便看看，而是认真看了。"Miss your old job already?" 的讽刺暗示 Christian 知道 Stella 不是真的想念工作，她只是需要逃避。
 
@@ -56,7 +56,7 @@ pov: "Stella"
 
 **中文理解**：Christian 用倒计时来施压 Stella——"四十九分五十七秒"。Stella 说"三秒过去了，什么都没变"。Christian 提醒她"这是我们的交易"。Stella 问"你在勒索我吗？"Christian 回答"不是勒索，是说服"。
 
-**关键词**：fifty-seven / appreciated / blackmailing / Persuading / euphemisms
+**关键词**：fifty-seven / blackmailing / Persuading / Forty / minutes
 
 **为什么这样写**：这段对话是 Christian 与 Stella 的"权力博弈"——Christian 用倒计时来施压，Stella 用逻辑来反击。"Forty-nine minutes and fifty-seven seconds" 的精确到秒说明 Christian 是一个精确到秒的人——他不是在开玩笑，他是在执行。"Nothing's changed in the past three seconds" 是 Stella 的逻辑反击——她在用 Christian 的精确来反击他。"Not blackmailing. Persuading." 的 "Persuading" 是 Christian 的讽刺——他在用温和的语言来包装威胁。"Now he liked euphemisms" 的 "Now" 暗示 Christian 在改变——他以前不喜欢委婉，但现在他喜欢了。
 
@@ -68,7 +68,7 @@ pov: "Stella"
 
 **中文理解**：Christian 站在 Stella 身后，他的体温包围了她，同时她的手臂上起了鸡皮疙瘩。"It was a paradox, much like the man standing behind me" 的 "paradox" 是 Stella 对 Christian 的核心定义——他是一个矛盾体。
 
-**关键词**：indifference / practically / disembodied / perfection / insufferable
+**关键词**：voice / startled / reverie / around / enveloped
 
 **为什么这样写**：这段描写是 Stella 对 Christian 的"身体反应"——她的身体对 Christian 的存在做出了混合反应。"the heat of his body enveloped mine" 的 "enveloped" 暗示 Christian 的存在是包围性的——Stella 无法逃脱。"goosebumps peppered my arms" 的 "peppered" 暗示这种反应是突然的、不可控的。"It was a paradox" 的 "paradox" 是 Stella 对 Christian 的核心定义——他既是温暖的又是危险的，既是保护性的又是控制性的。"much like the man standing behind me" 的 "much like" 暗示 Stella 自己也是一个矛盾体——她在抗拒 Christian，同时也在靠近他。
 
