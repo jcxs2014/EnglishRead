@@ -10,7 +10,7 @@ modified: "2026-10-16"
 
 **出处**：《The Twelve Loves of Christmas: An Advent Romance Collection》，12 篇独立圣诞爱情短篇合集，本篇为**第 6 篇**，署名 Rebecca Jenshak。两处互证并照录一处著录差异：本篇篇名页的 byline 作 `Rebecca Jenshak`（`text/ch06_twelve_seconds_to_forever.txt` 第 13 行），而版权续页 `xx_copyright_continuation` 的篇目出处列表把这一篇著录为 `“Twelve Seconds to Forever” copyright © 2026 by Alloy Entertainment, LLC and AJMR Holdings, LLC`——版权行未列作者名，两份文件不冲突，但著录形态与第 4 篇（版权行直接写作者名）不同。
 
-**篇幅**：39,222 字符 / 314 个非空段落 / 557 句（字符数取自 `wc -m`，段落数与句数为本次统计）。第一人称现时叙述，四章之间双视角交替：CHAPTER ONE 与 CHAPTER THREE 是 Lainey，CHAPTER TWO 与 CHAPTER FOUR 是 Alex。时间从婚礼彩排散场的傍晚，到第二天新年前夜的婚礼与跨年倒计时；地点几乎不出镇上的婚宴谷仓、上山的雪路与 Carrington 家的滑雪小屋。
+**篇幅**：37,557 字符（UTF-8 码位计数，含空行）/ 314 个非空段落（`awk 'NF'` 计数）/ 693 句（`verify_corpus.py` 粗切句口径）。第一人称现时叙述，四章之间双视角交替：CHAPTER ONE 与 CHAPTER THREE 是 Lainey，CHAPTER TWO 与 CHAPTER FOUR 是 Alex。时间从婚礼彩排散场的傍晚，到第二天新年前夜的婚礼与跨年倒计时；地点几乎不出镇上的婚宴谷仓、上山的雪路与 Carrington 家的滑雪小屋。
 
 **一句话主旨**：婚礼前夜，伴娘 Lainey 被最好的朋友派去找失踪的哥哥 Alex，一场暴雪把两个人困在山上那间家族滑雪小屋里；三年前一句 `it was a mistake` 的旧账在冻豌豆与一瓶 Malibu 之间被翻出来算清。第二天新年前夜的婚礼上，她本想用「拿到 closure」把这段感情归档，Alex 却把话说完：`I am in love with you`。这一篇写的不是重逢的运气，而是两个人终于把三年前没说出口的那句话讲完。
 

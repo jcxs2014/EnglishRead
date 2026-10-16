@@ -10,7 +10,7 @@ modified: "2026-10-16"
 
 **出处**：《The Twelve Loves of Christmas: An Advent Romance Collection》，12 篇独立圣诞爱情短篇合集，本篇为**第 1 篇**，署名 Jessica Joyce（篇名页 `part01` 的 byline 与版权续页 `xx_copyright_continuation` 的篇目出处列表两处互证）。装置页另见 `Simon & Schuster` 与 `Atria` 两条出版方线索（`xx_front_signup`、`xx_atria`）；`text/` 中 6 件非正文装置页（前导注册页 / Introduction / 贴纸印制页 / 版权续页 / 后置注册页 / Atria 宣传页）已降级为 `xx_` 前缀，不占章号。
 
-**篇幅**：47,804 字符 / 276 个非空段落（数据取自 `extract_chapters.py` 与 `verify_corpus.py` 原始输出；提取件中混入的盗版站推广插页已移除）。叙事集中在 12 月 23 日傍晚到 12 月 25 日凌晨，第一人称现时叙述为主，中段夹回忆插叙。
+**篇幅**：47,804 字符（UTF-8 码位计数，含空行）/ 276 个非空段落（`awk 'NF'` 计数）/ 632 句（`verify_corpus.py` 粗切句口径）；提取件中混入的盗版站推广插页已移除。叙事集中在 12 月 23 日傍晚到 12 月 25 日凌晨，第一人称现时叙述为主，中段夹回忆插叙。
 
 **一句话主旨**：社交运营 Eleanor 被闺蜜 Naomi 拉去太浩湖过圣诞，进门才发现同住的正是大学时代唯一爱过的 Max——以及他牵手带来的 Abby。她先躲、再避、后偷听，把一句安慰朋友用的 `I love you` 听成了告别；直到圣诞夜两人在客厅摊牌：Abby 是他请来挡长辈盘问的“女友”，而他早已拿到旧金山那份工作。全篇用一首圣诞歌的两种唱法，把“想念”与“不敢说”拧成同一个动作。
 

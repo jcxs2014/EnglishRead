@@ -10,7 +10,7 @@ modified: "2026-10-16"
 
 **出处**：《The Twelve Loves of Christmas: An Advent Romance Collection》，12 篇独立圣诞爱情短篇合集，本篇为**第 4 篇**，署名 Elise Bryant（`text/ch04_someone_to_hold_on_to.txt` 篇名页 byline 与 `text/xx_copyright_continuation.txt` 的版权续页篇目表两处互证：`“Someone to Hold On To” copyright © 2026 by Alloy Entertainment, LLC and Elise Bryant`）。
 
-**篇幅**：39,132 字符（`wc -m`，UTF-8 字符口径，含空行）/ 185 个非空段落（`awk 'NF'` 计数）/ 567 句（句数按句末标点后接空白切分，同一口径统计）。第一人称现时叙述，视角全程锁定 Simone；时间跨度从十二月初某个周二傍晚到圣诞夜，地点几乎不出 Jacaranda Senior Living 这两条街区——花园灌木丛、妈妈家的客厅厨房、街对面的药房。
+**篇幅**：37,667 字符（UTF-8 码位计数，含空行）/ 185 个非空段落（`awk 'NF'` 计数）/ 576 句（`verify_corpus.py` 粗切句口径）。第一人称现时叙述，视角全程锁定 Simone；时间跨度从十二月初某个周二傍晚到圣诞夜，地点几乎不出 Jacaranda Senior Living 这两条街区——花园灌木丛、妈妈家的客厅厨房、街对面的药房。
 
 **一句话主旨**：Simone 收起房车旅行的生活回长滩照顾患狼疮的母亲，靠烘焙守住一点点掌控感；她为几块被偷的饼干在灌木丛里蹲守，撞上同样被生活掀翻的失业教师 Henry。两个人一路排查，最后发现贼是 Ms. Earlene 的孙子——他偷饼干只是为了让开始失忆的外婆多记得自己一会儿；于是「抓住一个人不放」从恋爱修辞变成了这栋楼里彼此搭手的办法。
 

@@ -10,7 +10,7 @@ modified: "2026-10-16"
 
 **出处**：《The Twelve Loves of Christmas: An Advent Romance Collection》，12 篇独立圣诞爱情短篇合集，本篇为**第 12 篇**。两处互证：本篇篇名页的 byline 作 `Zakiya N. Jamal`（`text/ch12_is_it_new_year_s_yet.txt` 第 13 行，其上第 10 行的篇名页标题作 `IS IT NEW YEAR’S YET?`），版权续页 `text/xx_copyright_continuation.txt` 第 27 行的篇目出处列表作 `“Is It New Year’s Yet?” copyright © 2026 by Alloy Entertainment, LLC and Zakiya N. Jamal`——两处都直接写出作者名，互相印证，无著录差异。
 
-**篇幅**：37,166 字符（`wc -m`）/ 217 个非空段落（`awk 'NF'`）/ 542 句（按 `[.!?…]` 结尾统计）。全篇是第三人称限知视角，镜头一直站在 Win 这一侧，只写她听得见、看得见的东西；时态在两层之间往返——今年的派对用一般过去时叙述，去年那一场整段退回过去完成时（`he’d said`、`She’d made to walk around him`、`She had liked it` 这一类形式），读者因此分得清哪一层是回忆。场景从杰克逊家的门口、客厅、二楼走廊，一路走到地下那间兼作健身房的房间，最后回到一楼客厅的零点倒数。
+**篇幅**：35,929 字符（UTF-8 码位计数，含空行）/ 217 个非空段落（`awk 'NF'` 计数）/ 510 句（`verify_corpus.py` 粗切句口径）。全篇是第三人称限知视角，镜头一直站在 Win 这一侧，只写她听得见、看得见的东西；时态在两层之间往返——今年的派对用一般过去时叙述，去年那一场整段退回过去完成时（`he’d said`、`She’d made to walk around him`、`She had liked it` 这一类形式），读者因此分得清哪一层是回忆。场景从杰克逊家的门口、客厅、二楼走廊，一路走到地下那间兼作健身房的房间，最后回到一楼客厅的零点倒数。
 
 **一句话主旨**：一个二十五岁、不会对父母说不的人，去赴杰克逊家一年没敢踏进的新年前夜派对，本想整晚躲开旧友的哥哥，却在地下室的卧推凳旁边撞上了他；一年前她在这栋房子里吻了他、被他用一句「我在和别人交往」挡回来，如今才知道那只是他还没准备好说出口的实情，而他也一直在等她重新出现。
 

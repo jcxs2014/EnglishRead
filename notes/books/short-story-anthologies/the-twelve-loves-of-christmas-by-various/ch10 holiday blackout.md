@@ -10,7 +10,7 @@ modified: "2026-10-17"
 
 **出处**：《The Twelve Loves of Christmas: An Advent Romance Collection》，12 篇独立圣诞爱情短篇合集，本篇为**第 10 篇**。两处互证：本篇篇名页的 byline 作 `Susan Lee`（`text/ch10_holiday_blackout.txt` 第 13 行，其上第 10 行的篇名页标题作 `HOLIDAY BLACKOUT`），版权续页 `xx_copyright_continuation` 第 36 行的篇目出处列表作 `“Holiday Blackout” copyright © 2026 by Alloy Entertainment, LLC and Susan Lee`——两处都直接写出作者名，互相印证，无著录差异。
 
-**篇幅**：41,082 字符（`wc -m`）/ 217 个非空段落（`awk 'NF'`）/ 645 句。全篇第三人称过去时、双视角交替：Yoona 与 Ian 各自担任叙述视角，切换点落在章节之间，也落在章内段落之间（CHAPTER TWO 与 CHAPTER FOUR 的后半段转入 Ian 的视角）。场景基本都在同一栋办公楼里——两人各自的办公室、十六楼的走廊、员工厨房，以及 Yoona 办公室里那张沙发；时间从平安夜傍晚 8:22 p.m. 一直走到停电结束、灯重新亮起。
+**篇幅**：40,126 字符（UTF-8 码位计数，含空行）/ 217 个非空段落（`awk 'NF'` 计数）/ 617 句（`verify_corpus.py` 粗切句口径）。全篇第三人称过去时、双视角交替：Yoona 与 Ian 各自担任叙述视角，切换点落在章节之间，也落在章内段落之间（CHAPTER TWO 与 CHAPTER FOUR 的后半段转入 Ian 的视角）。场景基本都在同一栋办公楼里——两人各自的办公室、十六楼的走廊、员工厨房，以及 Yoona 办公室里那张沙发；时间从平安夜傍晚 8:22 p.m. 一直走到停电结束、灯重新亮起。
 
 **一句话主旨**：两个都把加班当作避难所的同事，在平安夜被一场停电关在十六楼；为了不让他独自待在黑暗里、也为了不让她彻底错过家里的圣诞晚餐，两个人用办公室里现成的东西凑出一顿饭、再各送对方一件随身的小物，把两年前那夜之后一直没说出口的话补上——灯亮时她开口要更多，他答 `I am`。
 

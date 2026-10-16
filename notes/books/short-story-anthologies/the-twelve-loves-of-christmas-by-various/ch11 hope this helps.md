@@ -10,7 +10,7 @@ modified: "2026-10-17"
 
 **出处**：《The Twelve Loves of Christmas: An Advent Romance Collection》，12 篇独立圣诞爱情短篇合集，本篇为**第 11 篇**。两处互证：本篇篇名页的 byline 作 `Sarah Hogle`（`text/ch11_hope_this_helps.txt` 第 13 行，篇名行 `HOPE THIS HELPS` 在第 10 行），版权续页 `text/xx_copyright_continuation.txt` 第 24 行的篇目出处列表作 `“Hope This Helps” copyright © 2026 by Alloy Entertainment, LLC and Sarah Hogle`——两处都直接写出作者名，互相印证，无著录差异。
 
-**篇幅**：40,700 字符（`wc -m`）/ 277 个非空段落（`awk 'NF'`）/ 761 句（按 `[.!?…]` 结尾统计）。全篇是书信体与第一人称现时叙述交替：前半由 Audrey Thorn 与 Joel Gladwin 的邮件往返推进，中间插入 Audrey 家里的生活场景，后半转到学校体育馆的 Snowfall Dance，最后又落回一封邮件。场景从家里的客厅、厨房，写到体育馆的 punch 桌和女孩洗手间，时间从一个周末排到舞会当晚。
+**篇幅**：39,330 字符（UTF-8 码位计数，含空行）/ 277 个非空段落（`awk 'NF'` 计数）/ 741 句（`verify_corpus.py` 粗切句口径）。全篇是书信体与第一人称现时叙述交替：前半由 Audrey Thorn 与 Joel Gladwin 的邮件往返推进，中间插入 Audrey 家里的生活场景，后半转到学校体育馆的 Snowfall Dance，最后又落回一封邮件。场景从家里的客厅、厨房，写到体育馆的 punch 桌和女孩洗手间，时间从一个周末排到舞会当晚。
 
 **一句话主旨**：一个习惯把自己每个决定都放到放大镜底下的单亲妈妈，为了女儿的补考与舞会资格，跟八年级英文老师 Joel Gladwin 用邮件来回了十几封；等两人在学校的 Snowfall Dance 上真正照面，那些署着 `Best regards` 的信才显出另一层意思——他替全校学生争下了去舞会的资格，也告诉她可以放松一点；第二天早上，她收到一封署名 `Fence Post` 的邀约。
 

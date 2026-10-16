@@ -10,7 +10,7 @@ modified: "2026-10-17"
 
 **出处**：《The Twelve Loves of Christmas: An Advent Romance Collection》，12 篇独立圣诞爱情短篇合集，本篇为**第 9 篇**。两处互证：本篇篇名页的 byline 作 `Rebekah Weatherspoon`（`text/ch09_skipping_christmas.txt` 第 13 行），版权续页 `xx_copyright_continuation` 第 45 行的篇目出处列表作 `“Skipping Christmas” copyright © 2026 by Alloy Entertainment, LLC and Rebekah Weatherspoon`——两处都直接写出作者名，互相印证，无著录差异。
 
-**篇幅**：41,561 字符 / 263 个非空段落 / 697 句（字符数取自 `wc -m`，非空段落数取自 `awk 'NF'`，句数为按 `[.!?…]` 结尾统计的本次结果）。全篇第一人称现时叙述，视角始终是 Ashley，没有分章标记；场景从洛杉矶公寓楼下的停车场、邮件间与她自己那间公寓，延伸到两天后的商场，时间落在圣诞前几天到圣诞夜。
+**篇幅**：40,037 字符（UTF-8 码位计数，含空行）/ 263 个非空段落（`awk 'NF'` 计数）/ 647 句（`verify_corpus.py` 粗切句口径）。全篇第一人称现时叙述，视角始终是 Ashley，没有分章标记；场景从洛杉矶公寓楼下的停车场、邮件间与她自己那间公寓，延伸到两天后的商场，时间落在圣诞前几天到圣诞夜。
 
 **一句话主旨**：一个把圣诞假期留给自己、不回家的洛杉矶美甲师，在自家公寓楼的邮件间撞上邻居 Micah；两个人各自在躲一个家——她躲的是母亲那套戏，他躲的是刚散掉的一段关系与一个不是他亲生的孩子。故事让这段关系在快递箱、一棵粉色人造圣诞树和十美元上限的礼物之间长出来，最后他说 `I think you’re worth it.`，她想的是 `I may never go home for Christmas again.`
 

@@ -1,0 +1,56 @@
+五步审查过程与修复记录 · the-twelve-loves-of-christmas-by-various（12 篇短篇合集）
+生成时间：2026-10-16 12:36 UTC ｜ 审查方：DSH-Mac（同会话执行，第 10 条：用户在本会话内要求即为合法常规路径）
+
+== 材料清单核对（模板:741-748）==
+① 第 3 条门禁原始输出 → 本目录 7+4 件（首章试产/批2–批6/全书完工 + 本次 abc步、d步第二实现、d步导航与篇幅二次核、本文件）
+② 总览自检声明 → **不适用**：短篇合集体例豁免总览三篇（模板:1114/:1118），本书无 00_*.md
+③ 跨书污染自检 → 见本文件「跨书污染」节
+
+== a 步（第 3 条门禁全量重跑，不采信此前数字）==
+verify_quotes 126/126（100%）、干净文件 12/12、--full 整串取证 0
+check_vocab 词条行 336、FAIL 0、WARN 5（ch05 mistletoe / ch07 imagination、amusement park / ch08 girlfriends、fireplace）
+check_entities 0 未知实体 ｜ corruption_scan FAIL 0 / 报告 0 ｜ sweep_full 本章 126 / 跨章 0 / 拼接 0 / 查无 0
+verify_overview_quotes：不适用（无 00_*.md）
+
+== b 步（逐章归属）==
+check_chapter_quotes <NN> --out-dir text/：ch01 11/11 · ch02 11/11 · ch03 10/10 · ch04 11/11 · ch05 11/11 · ch06 11/11 · ch07 10/10 · ch08 8/8（+3 条 <20 字符短引语）· ch09 10/10 · ch10 10/10 · ch11 10/10 · ch12 11/11 —— 全部「X/X in chNN text」，无跨篇搬句
+
+== c 步（结构扫描）==
+audit_structure：扫 12 md / 133 引语块，结构缺陷 0 / 提示 2 / 映射不一致 0
+  提示 2 = ch09:203 与 ch09:44 同句、ch10:208 与 ch10:41 同句（导航层「核心金句」与精读原句重合）→ 提示型，只记不改
+H1 语义一行 grep：12/12 与文件语义一致（防整文件覆盖/张冠李戴）
+编号三方交叉（文件名 chNN / frontmatter chapter / H1 `# NN.`）：12/12 一致，0 处偏移
+
+== d 步机械子项：三个第二实现（不复述写作期实现）==
+check_struct_indep.py → 缺陷 1：ch07 a solstice kiss.md 第 43 行「`> ` 出现在 ## 精读 之外」
+  机制：scripts/check_struct_indep.py:552-569 只把「紧跟『核心金句』标签之后的**连续** `> ` 行」视为合法；
+  ch07 的 `### 核心金句` 下有两条金句，中间夹一行 `（说明）` ⇒ in_gold 被重置，第 43 行被判缺陷。
+  库内惯例实测：全库 68 个含「核心金句」标签的 md、37 个有多条金句，其中只有 1 个把说明夹在两条金句之间 ⇒ ch07 属少数派排布。
+  定性：**提示型（工具「连续行」判据 vs 库内多数派排布）**，内容正当（正文之外只有引语用 `>`）→ 只记不改，不在审查中改 md。
+check_xref_indep.py → chNN 引用 9 处：英文证据报警 0 / 中文式待人判 9 / 同章省略号拼接 0
+check_analysis_indep.py → 报警 24 条：(i) 12 个文件第 11 行的合集名 `The Twelve Loves of Christmas`、`An Advent Romance Collection`（出处行，取自 epub 装置页）= 假红型；
+  (ii) ch07:175 `the things that I think about myself`（「句子结构」里的语法等价说明，原文为 `they’re what I think about myself`）与 ch09:92 `offer somebody something`（双宾结构术语）= 语法术语豁免，提示型。
+
+== 阻断型缺陷：篇幅「字符数」把字节数标成 `wc -m` 字符口径（9 个文件）==
+根因（实测）：本机 shell `LANG=""`、`LC_CTYPE=C` ⇒ `wc -m` 数的是**字节**。ch04 实测：`LC_ALL=C wc -m`=39,132 = `wc -c`=39,132；`LC_ALL=C.UTF-8 wc -m`=37,667 = python `len()`=37,667。
+受影响：ch04–ch12 共 9 篇（子代理写作时用 shell `wc -m` 取值），另 ch02/ch04/ch05/ch06/ch09/ch10/ch11/ch12 的「句数」用各自口径统计、无法用同一方法复现（含 ch02 538 vs 实测 710、ch06 557 vs 693 之类大差）。
+处置：12 篇「篇幅」行统一改为**可复现口径**——字符＝UTF-8 码位计数（python len，等于 `LC_ALL=C.UTF-8 wc -m`）、非空段落＝`awk 'NF'`、句数＝`verify_corpus.py` 粗切句口径；逐篇数值已按上述口径重测。
+修复方式：行级精确字符串替换（12 个 old 串各自唯一命中，dry-run 通过后 apply），未动其他行；git numstat 显示每文件 1 行替换。
+修复后复测：12/12 篇三项全部与实测一致；corruption_scan FAIL 0 / 报告 0。
+
+== 跨书污染自检 ==
+① 本书 slug 在别处：仅 notes/books/index.md 的书目索引行（正当引用）
+② 锚点专名 70 个中 36 个在他书 md 出现，逐一核对全部为**常见名同名不同人**（Abby/Emma/Jane/Bria/Cameron…），无一处是他书专有实体被搬进本书
+③ 导航层反引号/引号英文二次核（自写第二实现，按行抽取）：12 篇共 256 条片段，本章查无 24 条——22 条为 epub 装置页/版权页（`partNN`、`xx_copyright_continuation`、`Simon & Schuster`、`Atria`、各篇版权行）= 假红型；2 条为脚本跨行抽取噪声（ch09）
+
+== e 步 ==
+总览层事实核对：**不适用**（短篇合集体例豁免总览三篇；无 00_概述/00_金句精选/00_情感节点，故 verify_overview_quotes / check_overview_full 均无可跑对象）
+
+== 审查过程自身的问题（如实记录）==
+1. **篇幅修复脚本自身造成段落重复（已修）**：第一版行级修复把「篇幅」整段（原文单行为「数字 + 口径 + 视角/时间/地点散文」）替换成「新数字 + 散文」并**又追加了一行散文** ⇒ 12 篇各多出一行重复散文。
+   - 门禁为什么没报：`corruption_scan` 的「中文重复片段」判据没命中整行重复；数值复测（12/12 一致）只看数字 ⇒ 全部绿。
+   - **靠 `git diff --numstat` 发现**（12 个文件都是 2 insertions / 1 deletion，即「一行换两行」）⇒ 与「只改数字」的预期不符。
+   - 修复：从 `git show HEAD:<md>` 取回原散文尾（逐字比对与重复行一致，断言通过），重建为「新数字 + 统一口径 + 原文散文」单行段落；复验 numstat 全部 1/1、每篇「篇幅」后紧跟空行、无整行重复、`corruption_scan` FAIL 0。
+   - 教训：**「检查数字对不对」不等于「检查段落对不对」——改完必须看 `git diff`/`numstat` 的形状**，不只看门禁数字。
+2. **d 步人判子代理两次撑爆上下文（已改派法）**：首次委派 `5e2109c8`（ch01–ch06）与重派的 `a1a3b66e`（ch01–ch03）都跑爆、无结束报告 ⇒ 第三次改为**每篇一个子代理**（`8a46c953` ch01、`827ba510` ch02、`2846c5d7` ch03）。`9532c7a4`（ch07–ch12）与 `11b6c5c2`（ch04–ch06）仍在跑。
+   教训：语义二审的载荷必须按**单篇**切分（一篇 md ≈250 行 + 该篇源文本 grep 窗口已接近单代理舒适上限）。

@@ -10,7 +10,7 @@ modified: "2026-10-16"
 
 **出处**：《The Twelve Loves of Christmas: An Advent Romance Collection》，12 篇独立圣诞爱情短篇合集，本篇为**第 7 篇**，署名 Olivia Dade（`text/ch07_a_solstice_kiss.txt` 篇名页 byline 与 `text/xx_copyright_continuation.txt` 的版权续页篇目表两处互证：`“A Solstice Kiss” copyright © 2026 by Alloy Entertainment, LLC and Olivia Dade`）。
 
-**篇幅**：44,418 字符（`wc -m`，UTF-8 字符口径，含标题页与空行）/ 264 个非空段落 / 647 句（句数按句末标点后接空白切分，同一口径统计）。第三人称限知叙述，视角全程贴着 Ellie；时间跨度只有 12 月 21 日冬至这一天，从下午的美术馆一路走到深夜的水岸与集市，地点集中在斯德哥尔摩的现代美术馆、Skeppsholm 桥、老城圣诞集市和几处水边。
+**篇幅**：43,122 字符（UTF-8 码位计数，含空行）/ 264 个非空段落（`awk 'NF'` 计数）/ 589 句（`verify_corpus.py` 粗切句口径）。第三人称限知叙述，视角全程贴着 Ellie；时间跨度只有 12 月 21 日冬至这一天，从下午的美术馆一路走到深夜的水岸与集市，地点集中在斯德哥尔摩的现代美术馆、Skeppsholm 桥、老城圣诞集市和几处水边。
 
 **一句话主旨**：四十三岁的 Ellie 在斯德哥尔摩出差，站在 Abercrombie 那幅《两架梯子》前，被前男友「无趣」的评语刺得发慌；她一时冲动请美术馆讲解员 Felix 假装恋人、拍一张接吻照发社媒，两人却在冬至这一夜里走过水岸、老城集市与一座座桥，把「演给别人的照片」过成了一整晚真正的相处。最后她说出的答案与报复无关，而是两个由她自己选定的未来：春天搬来瑞典工作一年，以及第二次只为他们两个人而落的那个吻。
 

@@ -10,7 +10,7 @@ modified: "2026-10-17"
 
 **出处**：《The Twelve Loves of Christmas: An Advent Romance Collection》，12 篇独立圣诞爱情短篇合集，本篇为**第 8 篇**，署名 Joss Richard。出处两处互证：`text/ch08_all_roads_lead_home.txt` 篇名页 byline 作 `Joss Richard`（第 13 行），`text/xx_copyright_continuation.txt` 的版权续页篇目表作 `“All Roads Lead Home” copyright © 2026 by Alloy Entertainment, LLC and Joss Richard`（第 39 行）——两份文件的作者名一致，版权行另署 Alloy Entertainment, LLC。
 
-**篇幅**：48,507 字符 / 324 个非空段落 / 936 句（字符数取自 `wc -m`，段落数取自 `awk 'NF'` 计数，句数为本次统计）。第一人称现时叙述，叙述者始终是 Elle，全篇不换视角。故事发生在圣诞夜傍晚到当夜：从曼哈顿北上的火车、Beacon 主街上的咖啡馆，到父亲家、Ryan 家门口的门廊（时间标记集中在 `It’s already 5:30 p.m.`、`almost 6 p.m. on Christmas Eve`、`Seven`（咖啡馆打烊）与 `it’s 7:20 p.m. on Christmas Eve` 这几处）。
+**篇幅**：46,179 字符（UTF-8 码位计数，含空行）/ 324 个非空段落（`awk 'NF'` 计数）/ 818 句（`verify_corpus.py` 粗切句口径）。第一人称现时叙述，叙述者始终是 Elle，全篇不换视角。故事发生在圣诞夜傍晚到当夜：从曼哈顿北上的火车、Beacon 主街上的咖啡馆，到父亲家、Ryan 家门口的门廊（时间标记集中在 `It’s already 5:30 p.m.`、`almost 6 p.m. on Christmas Eve`、`Seven`（咖啡馆打烊）与 `it’s 7:20 p.m. on Christmas Eve` 这几处）。
 
 **一句话主旨**：在奥兰多住了十年的 Elle 在圣诞夜回到纽约州 Beacon，先在主街咖啡馆撞见童年最好的朋友 Ryan，又在父亲家的冰箱上看见他小时候给她画的那幅画；她当晚折回他家门廊，把「我早就一直在爱你」说出口——这一篇写的不是重逢本身，而是一个人敢不敢把「回来」说成「留下」。
 

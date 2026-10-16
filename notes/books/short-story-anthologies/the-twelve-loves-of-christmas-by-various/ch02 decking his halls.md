@@ -10,7 +10,7 @@ modified: "2026-10-16"
 
 **出处**：《The Twelve Loves of Christmas: An Advent Romance Collection》，12 篇独立圣诞爱情短篇合集，本篇为**第 2 篇**，署名 Alexis Daria（篇名页 `part02` 的 byline 与版权续页 `xx_copyright_continuation` 的篇目出处列表两处互证）。
 
-**篇幅**：40,862 字符 / 351 个非空段落 / 538 句（数据取自 `extract_chapters.py` 与 `verify_corpus.py` 原始输出）。第一人称现时叙述，视角全程锁定 Noelia；时间跨度从感恩节（十一月）推到圣诞夜，中间以 `Exhibit A`、`Exhibit B` 这类小标题切段，地点几乎不出 Pelham Parkway 那套战前公寓。
+**篇幅**：40,862 字符（UTF-8 码位计数，含空行）/ 351 个非空段落（`awk 'NF'` 计数）/ 710 句（`verify_corpus.py` 粗切句口径）。第一人称现时叙述，视角全程锁定 Noelia；时间跨度从感恩节（十一月）推到圣诞夜，中间以 `Exhibit A`、`Exhibit B` 这类小标题切段，地点几乎不出 Pelham Parkway 那套战前公寓。
 
 **一句话主旨**：Noelia 的室友临时不续租，哥哥 Nando 让她住进自己那间空着的旧房间——真实的同住者却是 Nando 最好的朋友 David，也就是她暗恋了十五年的人。她先买假树、再搬真树，把飞鸟挂饰、发光驯鹿和一对丑地垫铺满这套极简公寓，用装饰逼他表态；等她把圣诞灯牵进他的卧室、两人一起摔到床上，一句玩笑话成了邀请。真正被拆开的不是装饰，而是 David 十多年不动的理由：父母的囤积、四岁的年龄差、以及他自己错过的十年。
 

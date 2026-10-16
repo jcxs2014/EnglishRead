@@ -10,7 +10,7 @@ modified: "2026-10-16"
 
 **出处**：《The Twelve Loves of Christmas: An Advent Romance Collection》，12 篇独立圣诞爱情短篇合集，本篇为**第 3 篇**，署名 Alexandria Bellefleur（`text/ch03_i_ll_be_home_for_ex_mas.txt` 篇名页 byline 与 `text/xx_copyright_continuation.txt` 的版权续页篇目表两处互证：`“I’ll Be Home for Ex-Mas” copyright © 2026 by Alloy Entertainment, LLC and Alexandria Bellefleur`）。
 
-**篇幅**：35,505 字符 / 248 个非空段落（数据取自 `extract_chapters.py` 与 `verify_corpus.py` 原始输出）。叙述以 Francesca 的第三人称限知视角为主，时间线集中在 12 月 24 日傍晚到 12 月 25 日凌晨这一夜，中段夹入高中到大学的那几年（相识、异地前的分手）以及 Benji 世界巡演期间的零星背景。
+**篇幅**：35,505 字符（UTF-8 码位计数，含空行）/ 248 个非空段落（`awk 'NF'` 计数）/ 614 句（`verify_corpus.py` 粗切句口径）。叙述以 Francesca 的第三人称限知视角为主，时间线集中在 12 月 24 日傍晚到 12 月 25 日凌晨这一夜，中段夹入高中到大学的那几年（相识、异地前的分手）以及 Benji 世界巡演期间的零星背景。
 
 **一句话主旨**：圣诞夜，艺术修复师 Francesca 的航班被炸弹气旋取消，困在麦迪逊的戴恩县地方机场酒吧里，遇见了三年半前被她亲手放走的前男友——如今已是摇滚乐队 Apollo's Child 主唱的 Benji。两人从寒暄、试探、算旧账，一路谈到仅有的一张机场睡眠舱；在黑暗里 Benji 掏出她当年送的拼图钥匙扣，她吻了他，又同时退回去。落点不是复合，而是两个人都要搬去纽约这件事被说出口：她接受了 Frick 的职位，他的新专辑录音室也在纽约。
 

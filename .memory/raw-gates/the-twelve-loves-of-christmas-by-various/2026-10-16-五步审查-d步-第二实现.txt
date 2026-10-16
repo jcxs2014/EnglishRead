@@ -1,0 +1,34 @@
+########## d 步机械子项：三个第二实现（换检查路径，不复述写作期实现）##########
+=== [d-1] check_struct_indep.py（结构第二实现）===
+  ❌ ch07 a solstice kiss.md: [anthology2] 第 43 行：`> ` 出现在 ## 精读 之外（> 只用于引语）
+=== 独立结构扫描：12 个 md，缺陷 1 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+
+=== [d-2] check_xref_indep.py（跨章引用第二实现）===
+=== chNN 引用 9 处：英文证据报警 0 处 ／ 中文式待人判 9 处 ／ 🔶 同章省略号拼接（提示，不判红）0 处 ===
+
+=== [d-3] check_analysis_indep.py（分析层行内英文第二实现）===
+  ch01 a merry little christmas.md:11  The Twelve Loves of Christmas
+  ch02 decking his halls.md:11  An Advent Romance Collection
+  ch02 decking his halls.md:11  The Twelve Loves of Christmas
+  ch03 i ll be home for ex mas.md:11  An Advent Romance Collection
+  ch03 i ll be home for ex mas.md:11  The Twelve Loves of Christmas
+  ch04 someone to hold on to.md:11  An Advent Romance Collection
+  ch04 someone to hold on to.md:11  The Twelve Loves of Christmas
+  ch05 ho ho oh no.md:11  An Advent Romance Collection
+  ch05 ho ho oh no.md:11  The Twelve Loves of Christmas
+  ch06 twelve seconds to forever.md:11  An Advent Romance Collection
+  ch06 twelve seconds to forever.md:11  The Twelve Loves of Christmas
+  ch07 a solstice kiss.md:11  An Advent Romance Collection
+  ch07 a solstice kiss.md:11  The Twelve Loves of Christmas
+  ch07 a solstice kiss.md:175  the things that I think about myself
+  ch08 all roads lead home.md:11  An Advent Romance Collection
+  ch08 all roads lead home.md:11  The Twelve Loves of Christmas
+  ch09 skipping christmas.md:11  An Advent Romance Collection
+  ch09 skipping christmas.md:11  The Twelve Loves of Christmas
+  ch09 skipping christmas.md:92  offer somebody something
+  ch10 holiday blackout.md:11  An Advent Romance Collection
+  ch10 holiday blackout.md:11  The Twelve Loves of Christmas
+  ch11 hope this helps.md:11  An Advent Romance Collection
+  ch11 hope this helps.md:11  The Twelve Loves of Christmas
+  ch12 is it new year s yet.md:11  An Advent Romance Collection
+  ch12 is it new year s yet.md:11  The Twelve Loves of Christmas
