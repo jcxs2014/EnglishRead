@@ -1,0 +1,142 @@
+### 批次门禁：ch04 + ch05（2026-10-17 12:06 UTC）
+### 本章程：ch01/ch01b/ch02/ch03/ch03b 复跑 + ch04 + ch05
+
+== 0 本轮记录 ==
+  [口径更正] 前两批记录里的『check_chapter_quotes chNN』段落误传了 --book-dir ⇒ 脚本走的是**全书扫描**分支（scan_book），打印的是全书合计（如 36/36），不是该章自己的数字。
+  正确用法：逐章模式**不要**传 --book-dir（text_dir 默认取 md 同级的 text/）：
+      python3 scripts/check_chapter_quotes.py 04 "notes/books/novels/the-unsolvable-case-by-courtney-smyth/ch04 the puppet at the observatory.md"
+  本批起逐章段落一律按此重跑并附原始输出；全书归属结论仍以 --book-dir 分支为准，两者互补。
+  [提示型/只记不改] check_vocab WARN 全为『基础档疑含超纲词』启发式（长度 ≥9），分档来自 vocab_candidates 自分类、非人工挑档，词均为本章真实词。
+
+== 1 verify_quotes ==
+ch01 the vow at samhain.md: 8/8 ✅
+ch01b the diorama of a death.md: 6/6 ✅
+ch02 theodore hides at greys hotel.md: 8/8 ✅
+ch03 mallorys to do list.md: 8/8 ✅
+ch03b a death in the observatory roof.md: 6/6 ✅
+ch04 the puppet at the observatory.md: 9/9 ✅
+ch05 the charred corpse at the observatory.md: 8/8 ✅
+
+=== 总计 53/53 引文可核实（100%）；完全干净文件 7/7；正文章节 0 提取 0；总览 0 提取转交 0 ===
+[EXIT=0]
+
+== 2 verify_quotes --full ==
+ch01 the vow at samhain.md: 8/8 ✅
+ch01b the diorama of a death.md: 6/6 ✅
+ch02 theodore hides at greys hotel.md: 8/8 ✅
+ch03 mallorys to do list.md: 8/8 ✅
+ch03b a death in the observatory roof.md: 6/6 ✅
+ch04 the puppet at the observatory.md: 9/9 ✅
+ch05 the charred corpse at the observatory.md: 8/8 ✅
+
+=== 总计 53/53 引文可核实（100%）；完全干净文件 7/7；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+[EXIT=0]
+
+== 3 check_vocab ==
+词条行合计: 126
+
+--- FAIL (0) ---
+
+--- WARN (10) ---
+  ch01 the vow at samhain.md [基础] 基础档疑含超纲词「apocalypse」
+  ch02 theodore hides at greys hotel.md [基础] 基础档疑含超纲词「agonising pull」
+  ch02 theodore hides at greys hotel.md [基础] 基础档疑含超纲词「centenarian」
+  ch02 theodore hides at greys hotel.md [基础] 基础档疑含超纲词「emotional support」
+  ch02 theodore hides at greys hotel.md [基础] 基础档疑含超纲词「executive order」
+  ch02 theodore hides at greys hotel.md [基础] 基础档疑含超纲词「gothic nightmare」
+  ch02 theodore hides at greys hotel.md [基础] 基础档疑含超纲词「grapevine」
+  ch02 theodore hides at greys hotel.md [基础] 基础档疑含超纲词「terminally ill」
+  ch03b a death in the observatory roof.md [基础] 基础档疑含超纲词「selflessness」
+  ch05 the charred corpse at the observatory.md [基础] 基础档疑含超纲词「revelries」
+[EXIT=0]
+
+== 4 check_entities ==
+=== 实体一致性检测：0 个文件存在未知实体 ===
+[EXIT=0]
+
+== 5 check_chapter_quotes 逐章（逐章模式，不传 --book-dir）==
+--- ch01 ---
+ch01 the vow at samhain.md: 8/8 in ch01 text
+[EXIT=0]
+--- ch01b ---
+ch01b the diorama of a death.md: 6/6 in ch01b text
+[EXIT=0]
+--- ch02 ---
+ch02 theodore hides at greys hotel.md: 8/8 in ch02 text
+[EXIT=0]
+--- ch03 ---
+ch03 mallorys to do list.md: 8/8 in ch03 text
+[EXIT=0]
+--- ch03b ---
+ch03b a death in the observatory roof.md: 6/6 in ch03b text
+[EXIT=0]
+--- ch04 ---
+ch04 the puppet at the observatory.md: 9/9 in ch04 text
+[EXIT=0]
+--- ch05 ---
+ch05 the charred corpse at the observatory.md: 8/8 in ch05 text
+[EXIT=0]
+
+== 6 check_chapter_quotes --book-dir 全书 ==
+全章扫描: 解析引语块 53，命中本章 53（100%）
+✅ 全部引语均归属正确章节
+[EXIT=0]
+
+== 7 corruption_scan ==
+
+=== 编辑损坏扫描（the-unsolvable-case-by-courtney-smyth）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+[EXIT=0]
+
+== 8 sweep_analysis_inline ==
+=== 分析层行内英文逐字核查（the-unsolvable-case-by-courtney-smyth）===
+  参照集：text/（50 个提取件） + epub 交叉验证 ；扫 7 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：168 个表格行、152 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 255 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 2 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 1
+  🟠 ch04 the puppet at the observatory.md:56  「laid the pieces out as instructed」→ 内容词 4/4 命中（instructed/laid/out/pieces）——疑漏词或改写
+  🟠 ch05 the charred corpse at the observatory.md:93  「off one's trollies」→ 内容词 2/3 命中（off/trollies）——疑漏词或改写
+[EXIT=0]
+
+== 9 audit_structure ==
+=== 精读结构扫描（the-unsolvable-case-by-courtney-smyth）===
+  扫 7 个 md、53 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+[EXIT=0]
+
+== 10 check_short_quotes ==
+=== 短引语兜底核对（the-unsolvable-case-by-courtney-smyth）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+[EXIT=0]
+
+== 11 修复后复跑（提示型 2 条已消）==
+  [提示型→已消] sweep_analysis_inline 🟠 ch04:56「laid the pieces out as instructed」= 关键词写成 laid，原文是 lay（He lay the pieces out as instructed）⇒ 改为 lay 后消失
+  [提示型→已消] sweep_analysis_inline 🟠 ch05:93「off one's trollies」= 释义单元格内嵌英文（原文为 off their respective trollies，非 one's）⇒ 释义删英文括注后消失
+
+--- 11.1 sweep_analysis_inline ---
+=== 分析层行内英文逐字核查（the-unsolvable-case-by-courtney-smyth）===
+  参照集：text/（50 个提取件） + epub 交叉验证 ；扫 7 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：168 个表格行、151 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 256 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 1
+[EXIT=0]
+
+--- 11.2 corruption_scan（修复后必跑）---
+
+=== 编辑损坏扫描（the-unsolvable-case-by-courtney-smyth）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+[EXIT=0]
+
+--- 11.3 verify_quotes（定稿确认）---
+ch01 the vow at samhain.md: 8/8 ✅
+ch01b the diorama of a death.md: 6/6 ✅
+ch02 theodore hides at greys hotel.md: 8/8 ✅
+ch03 mallorys to do list.md: 8/8 ✅
+ch03b a death in the observatory roof.md: 6/6 ✅
+ch04 the puppet at the observatory.md: 9/9 ✅
+ch05 the charred corpse at the observatory.md: 8/8 ✅
+
+=== 总计 53/53 引文可核实（100%）；完全干净文件 7/7；正文章节 0 提取 0；总览 0 提取转交 0 ===
+[EXIT=0]
