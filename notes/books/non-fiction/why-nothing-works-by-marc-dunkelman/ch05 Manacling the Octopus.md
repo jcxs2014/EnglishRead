@@ -165,4 +165,4 @@ modified: "2026-10-17"
 | bank tellers in, social workers out | 银行柜员进、社工出 | "get the people who think like social workers out and the people who think like bank tellers in" |
 | midnight raids | 午夜突击 | "midnight raids" |
 | plus-up | 增加、上调 | "a little plus-up in their monthly check" |
-| red tape | 繁文缛节 | "wrapped in an absurdity of red tape" |
+| red tape | 繁文缛节 | "an absurdity of red tape" |
