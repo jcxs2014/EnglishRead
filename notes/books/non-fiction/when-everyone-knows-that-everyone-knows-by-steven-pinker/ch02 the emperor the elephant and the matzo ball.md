@@ -82,7 +82,7 @@ modified: "2026-10-17"
 - **中文理解**：最省事的赋予者——直接开口说——在这里用不了；次优的选择是共同显著性，也叫焦点。
 - **句子结构**：The easiest bestower of common knowledge, direct speech, is unavailable 主干，同位语 direct speech 夹在双逗号中；But all is not lost 短句转折；The next-best thing is A, also known as B 双命名句。
 - **关键词**：`bestower`、`common salience`、`a focal point`
-- **表达方式**：bestower（赐予者）把「共同知识」写成可被授予／剥夺的东西；「次优」说法保留了Schelling 的 focal point 术语而不报其人名。
+- **表达方式**：bestower（赐予者）把「共同知识」写成可被授予／剥夺的东西；`also known as a focal point` 一句只给别名、不交代提出者，把术语的来源责任推给下一段。
 - **为什么这样写**：Rendezvous 协调博弈（两人约会却各想各的）里双方无法开口，作者借此把「语言是最容易的共同知识来源」反证出来：先抽掉它，再展示剩下的替代品。博弈论框架由此进入全书。
 
 > **原句 7:** "Our world is built on conventions that allow us to coordinate effectively and are self-reinforcing because they are common knowledge. Conventions like the English language, Christianity, the United States of America, the euro, and Microsoft are not exactly “fictions.” They are very real, even if they are not made out of physical stuff."

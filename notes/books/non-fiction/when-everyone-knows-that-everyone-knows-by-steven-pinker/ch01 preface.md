@@ -10,7 +10,7 @@ modified: "2026-10-17"
 - **作者**：Steven Pinker，哈佛大学心理学教授（版权页后《作者简介》所载），本书自述其身份为认知科学家；这是他的第二部以本人研究为底色的科普著作
 - **章节定位**：全书序言，排在九章正文之前。功能是交代概念出身（博弈论与哲学）、理论来源（作者上一本书中的语言隐含问题）、全书承诺（用共同知识解释协调、权力、情绪与公共生活的怪象），并附大段致谢
 - **字符数**：5,140（提取件 `text/ch01_preface.txt` 全文实测）
-- **一句话主旨**：作者自述如何撞上「共同知识」这一概念，并主张它足以解释人类condition的一个标志——个体心灵能为互利协调彼此的选择，从伴侣到社会的一切谐与争都出自对它的争夺
+- **一句话主旨**：作者自述如何撞上「共同知识」这一概念，并主张它足以解释人类境况的一个标志——个体心灵能为互利协调彼此的选择，从伴侣到社会的一切和谐与纷争，都出自对它的争取、维持或阻止
 
 ## 论证结构
 
@@ -81,7 +81,7 @@ modified: "2026-10-17"
 - **句子结构**：插入语 I suggested 标记结论的年代，that 从句内部 but 对举两类言语（barefaced statements 与 genteel euphemisms），and 连接的第二个 that 分句升级为「关系盖章者」的判断句。
 - **关键词**：`barefaced statements`、`genteel euphemisms`、`ratifies or annuls social relationships`
 - **表达方式**：barefaced（厚着脸皮、不加遮拦）与 genteel（文雅）是一组反义对举；ratify/annul 是法律与外交用词，把社会关系写成一份需要印章的条约。
-- **为什么这样写**：I suggested 用过去式把功劳挂在旧书上——这个概念不是本书当场发明的，它带着三十年的语言学论证入场；「批准或废止」一词也把后九章的整个纲领压缩进了半句话。
+- **为什么这样写**：I suggested 用过去式把功劳挂在旧书上——这个概念不是本书当场发明的，它先在一部谈语言的书里作为答案出现过，本书再把它展开；「批准或废止」一词也把其后各章的整个纲领压缩进了半句话。
 
 > **原句 7:** "In this book I’ll expand on that theory and show how common knowledge also explains fundamental features of societal organization, such as political power and financial markets; some of the design specs of human nature, such as laughter and tears; and countless curiosities of private and public life, such as bubbles and crashes, road rage, anonymous donations, long goodbyes, revolutions that come out of nowhere, social media shaming mobs, and academic cancel culture."
 
