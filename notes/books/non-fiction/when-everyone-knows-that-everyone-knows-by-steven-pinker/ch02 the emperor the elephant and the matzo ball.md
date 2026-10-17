@@ -43,7 +43,7 @@ modified: "2026-10-17"
 - **句子结构**：由 when 从句起头，主句是否定 `wasn't telling anyone anything they didn't already know`，紧接 But 短句反转；第二句以 By blurting out 动名词短语作方式状语。
 - **关键词**：`wasn't telling anyone anything they didn't already know`、`added to their knowledge nonetheless`
 - **表达方式**：先说「他没增加信息」，再说「他还是增加了知识」——同一件事用两个否定一个肯定制造悖论式钩子。
-- **为什么这样写**：全书的定义要靠一次直觉翻转：读者原以为「知道」只关乎内容多少，作者立刻告诉你还有一个「别人知不知道你知道」的维度。第一章第一句不做任何铺垫，先让悖论发生。
+- **为什么这样写**：全书的定义要靠一次直觉翻转：读者原以为「知道」只关乎内容多少，作者立刻告诉你还有一个「别人知不知道你知道」的维度。本章开篇第一句不做任何铺垫，先让悖论发生。
 
 > **原句 2:** "By blurting out what every onlooker could see within earshot of the others, he ensured that they now knew that everyone else knew what they knew, that everyone knew that everyone knew that, and so on."
 
@@ -152,4 +152,4 @@ modified: "2026-10-17"
 
 ## 一句话总结
 
-第一章把「共同知识」从安徒生童话一路推到超级碗广告、加密币泡沫与羞辱群：它不是「很多人知道」，而是「人人都知道人人都知道」的那道闸门——它决定人们能不能一起行动，也决定谁会被当众烧掉。
+本章把「共同知识」从安徒生童话一路推到超级碗广告、加密币泡沫与羞辱群：它不是「很多人知道」，而是「人人都知道人人都知道」的那道闸门——它决定人们能不能一起行动，也决定谁会被当众烧掉。

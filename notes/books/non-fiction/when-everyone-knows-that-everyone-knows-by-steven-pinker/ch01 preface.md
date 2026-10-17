@@ -89,7 +89,7 @@ modified: "2026-10-17"
 - **句子结构**：主句 I'll expand…and show… 两个并列动词；show 的宾语是一组 how 从句，内含三排 such as 清单，每一排都比上一排更长，末排塞满七个短语。
 - **关键词**：`expand on that theory`、`design specs`、`revolutions that come out of nowhere`、`academic cancel culture`
 - **表达方式**：三组 such as 从制度、到天性、到日常怪癖逐级下探；design specs（设计规格）是工程术语用来写人性，out of nowhere 是革命的标准英语成语。
-- **为什么这样写**：序言要亮出全书货架，清单本身就是目录的预告。把「笑与泪」放进 `design specs` 一档，是在暗示情绪表达也有博弈结构——这正是第六章的题目。
+- **为什么这样写**：序言要亮出全书货架，清单本身就是目录的预告。把「笑与泪」放进 `design specs` 一档，是在暗示情绪表达也服从共同知识的逻辑——书内 Chapter 6（本目录 `ch07`）专章处理笑、哭、脸红、凝视作为显眼信号。
 
 > **原句 8:** "By the time you finish the book I hope you’ll be equipped to understand phenomena I never got around to explaining, such as gaslighting, Kardashian celebrity (being famous for being famous), mock outrage (“I’m shocked, shocked to find that gambling is going on in here”), “red lines” in international relations, and the psychological difference between “cc” and “bcc” in email etiquette."
 

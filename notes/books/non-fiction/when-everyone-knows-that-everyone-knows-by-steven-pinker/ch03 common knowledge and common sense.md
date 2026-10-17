@@ -8,7 +8,7 @@ modified: "2026-10-17"
 
 - **出处**：*When Everyone Knows That Everyone Knows…*，Steven Pinker 著，Scribner 2025 初版（本书第二正文章，书内 Chapter 2）
 - **作者**：Steven Pinker，本书自述身份为认知科学家
-- **章节定位**：承第一章的定义与应用清单，本章转入「逻辑 vs 常识」：以三道谜题（三个逻辑学家进酒吧、菠菜牙缝、硬邮件博弈）与一条定理（Aumann 同意定理）证明共同知识的推论如何反直觉，再依次处理其三条冒犯常识的结论；末段回扣第一章埋下的概念隐喻线索（ARGUMENT IS WAR）
+- **章节定位**：承上一章（书内 Chapter 1，本目录 `ch02`）的定义与应用清单，本章转入「逻辑 vs 常识」：以三道谜题（三个逻辑学家进酒吧、菠菜牙缝、硬邮件博弈）与一条定理（Aumann 同意定理）证明共同知识的推论如何反直觉，再依次处理其三条冒犯常识的结论；末段回扣上一章埋下的概念隐喻线索（ARGUMENT IS WAR）
 - **字符数**：59,462（提取件 `text/ch03_chapter_2_common_knowledge_and_common_sense.txt` 全文实测）
 - **一句话主旨**：共同知识的逻辑三处冒犯常识——能从别人的无知推出事实、 finite 层「他知道她知道」不够用、理性人不能达成「保留分歧」；作者主张这些不是「球形奶牛」，而是关于人类境况的洞见
 
@@ -42,8 +42,7 @@ modified: "2026-10-17"
 - **中文理解**：共同知识难道不就是常识吗？谁不知道「人们在意谁知道什么」呢——可本章要表明，共同知识的逻辑常常是对常识的一记羞辱。
 - **句子结构**：两个反问句并列起头（Isn't…? Doesn't everyone know…?），第二问的括号内插入 and know that they know 是递归的两次方；第三句 In this chapter we'll see that… 才给出立场。
 - **关键词**：`an insult to common sense`、`know that they know`
-- **表达方式**：用读者的口头禅当靶心（章题 Common Sense 与书名 Common Knowledge 对撞），insult 一词把逻辑写成挑衅。
-- **为什么这样写**：章题即整章策略——第一章让读者「懂了」概念，第二章要让读者「被概念冒犯」。开场先复述读者自信的语气，才能把后三道谜题的惊讶一次攒足。
+- **表达方式**：用读者的口头禅当靶心（章题 Common Sense 与书名 Common Knowledge 对撞），insult 一词把逻辑写成挑衅。- **为什么这样写**：章题即整章策略——上一章让读者「懂了」概念，本章要让读者「被概念冒犯」。开场先复述读者自信的语气，才能把后三道谜题的惊讶一次攒足。
 
 > **原句 2:** "The first is that you can deduce facts about the world from what people don’t know. The second is that two people really do need to think an infinite vortex of “I know that he knows that I know that he knows…” thoughts to be sure they will coordinate their plans; two or three, or any finite number, aren’t enough. The third is that rational agents with the same understanding of the world, after examining evidence and sharing their assessments, must arrive at the same conclusion: they cannot agree to disagree."
 
@@ -66,7 +65,7 @@ modified: "2026-10-17"
 - **中文理解**：他们怎么推断出来的？主持人开口时并没告诉任何人他们本来不知道的事——因为每人早就能看见至少有人牙塞菜叶；但正如小孩与皇帝，她在满桌人面前说出那句话这件事本身改变了众人的知识。
 - **句子结构**：疑问短句起头，答句用 because 从句给理由（they could already see that…），第三句主语是 the fact that she uttered those words… 的名词性从句。
 - **关键词**：`she wasn't telling anyone anything they didn't already know`、`changed their knowledge`
-- **表达方式**：句式几乎照搬第一章皇帝句——同一套「内容不增／知识改变」的两分在第二个故事里复现，形成术语的二次印证。
+- **表达方式**：句式几乎照搬上一章的皇帝句——同一套「内容不增／知识改变」的两分在第二个故事里复现，形成术语的二次印证。
 - **为什么这样写**：菠菜牙缝谜题是全章的枢纽：它同时演示三条「冒犯」中的第一、第二条。让读者先看到「这不是新信息」，才能体会「公开性才是变量」——作者的章节级重复是有意的教学手段。
 
 > **原句 5:** "Crucially, the telltale announcement could not be private knowledge. Suppose the chair had walked around the table whispering into each psychologist’s ear that at least one of them had spinach in their teeth. Suppose as well that each one thought he or she was the only one being vouchsafed that fact and assumed that the others were privy to different gossip."
@@ -114,8 +113,8 @@ modified: "2026-10-17"
 - **中文理解**：但自从我读到 Aumann 解释共同知识如何引导理性讨论者走向共识、以及他们抵达共识所走的那条迂回扭缠的路径，我才领会拉考夫与约翰逊的洞见：理性的争论，真该更像一场跳舞，而不是一场战争。
 - **句子结构**：But since reading Aumann's explanation of how… and the weaving, twisting path they take to get there 长介词短语起头（内嵌 how 从句与后置定语），主句 I appreciate… 短小，冒号后收在理性争论真的更像跳舞而非战争上。
 - **关键词**：`the weaving, twisting path`、`more like a dance than a war`
-- **表达方式**：weaving／twisting 双现在分词头韵；章末用一对反义隐喻（战争／跳舞）替代全章的定理语言——这是作者对第一章埋线的回收。
-- **为什么这样写**：全章以概念隐喻收尾是结构上的回环：第一章说「人人早已用隐喻谈论共同知识」，本章末句让「ARGUMENT IS WAR」这一隐喻成为定理的落点——讨论不是击败对方而是共同试探。作者甚至先自承数十年来觉得拉考夫牵强，再宣告被定理说服：把全章论证的结果写成一次自认。
+- **表达方式**：weaving／twisting 双现在分词头韵；章末用一对反义隐喻（战争／跳舞）替代全章的定理语言——这是作者对上一章埋线的回收。
+- **为什么这样写**：全章以概念隐喻收尾是结构上的回环：上一章（书内 Chapter 1）末段列过 `ARGUMENT IS WAR` 及其例句，本章末句让这一隐喻成为定理的落点——讨论不是击败对方而是共同试探。作者甚至先自承数十年来觉得拉考夫牵强，再宣告被定理说服：把全章论证的结果写成一次自认。
 
 ## 词汇分级
 
@@ -150,4 +149,4 @@ modified: "2026-10-17"
 
 ## 一句话总结
 
-第二章拿三道谜题和一条定理证明：共同知识不听常识的话——它能从无知里挖出事实、让无限层确认永远差一层、并取消「保留分歧」的体面退路；作者最后把这一切落在一个隐喻替换上：理性争论不该是战争，该是跳舞。
+本章拿三道谜题和一条定理证明：共同知识不听常识的话——它能从无知里挖出事实、让无限层确认永远差一层、并取消「保留分歧」的体面退路；作者最后把这一切落在一个隐喻替换上：理性争论不该是战争，该是跳舞。
