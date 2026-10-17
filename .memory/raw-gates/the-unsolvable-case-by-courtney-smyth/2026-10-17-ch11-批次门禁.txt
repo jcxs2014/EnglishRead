@@ -1,0 +1,88 @@
+=== 批07（ch11 单章，全书最长章 25601 B）门禁 · 2026-10-17 13:35 UTC ===
+【批次口径说明】AGENTS 第 6 条按产出体量定批次（约 30 KB）；ch11 单章即 25.6 KB ⇒ 单独成批，不与 ch12 合并。
+
+--- 1) verify_quotes（全书）---
+
+⚠️ 全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 108/108 引文可核实（100%）；完全干净文件 14/14；正文章节 0 提取 0；总览 0 提取转交 0 ===
+EXIT=0
+
+--- 2) verify_quotes --full ---
+⚠️ 全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 108/108 引文可核实（100%）；完全干净文件 14/14；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+EXIT=0
+
+--- 3) check_vocab ---
+词条行合计: 267
+--- FAIL (0) ---
+--- WARN (13) ---
+EXIT=0
+
+--- 4) check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+EXIT=0
+
+--- 5) check_chapter_quotes 11（不传 --book-dir＝逐章口径）---
+ch11 the body in the bunker.md: 8/8 in ch11 text
+EXIT=0
+
+--- 6) corruption_scan ---
+
+=== 编辑损坏扫描（the-unsolvable-case-by-courtney-smyth）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+EXIT=0
+
+--- 7) sweep_analysis_inline ---
+  🟠 ch11 the body in the bunker.md:14  「Hexana's mark in play」→ 内容词 2/3 命中（mark/play）——疑漏词或改写
+  🟠 ch11 the body in the bunker.md:56  「wandered around here before」→ 内容词 3/3 命中（around/before/wandered）——疑漏词或改写
+  🟠 ch11 the body in the bunker.md:110  「test one's mettle」→ 内容词 2/3 命中（mettle/test）——疑漏词或改写
+EXIT=0
+
+--- 8) audit_structure ---
+  扫 14 个 md、109 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+EXIT=0
+
+--- 9) check_short_quotes ---
+  verify_quotes 跳过（<20 flat 字符）的引语：1 条 —— 这些主门禁**根本没查**
+  ✅ 命中 1 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+EXIT=0
+
+=== §11 修复后复跑 · 2026-10-17 13:46 UTC ===
+【本轮修复 3 条提示型】① ch11:14 导航改写（Hexana's mark in play 缺 is）⇒ 逐字改回 Hexana’s mark is in play；② ch11:56 关键词动词错形（wandered→原文 wandering）⇒ 改 wandering around here before；③ ch11:110 词表释义内嵌英文 test one's mettle（原文无此搭配）⇒ 改中文说明。
+
+--- sweep_analysis_inline ---
+  参照集：text/（50 个提取件） + epub 交叉验证 ；扫 14 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：351 个表格行、307 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 539 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 7
+
+--- verify_quotes ---
+⚠️ 全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 108/108 引文可核实（100%）；完全干净文件 14/14；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+--- check_vocab ---
+词条行合计: 267
+--- FAIL (0) ---
+--- WARN (13) ---
+
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+--- check_chapter_quotes 11 ---
+ch11 the body in the bunker.md: 8/8 in ch11 text
+
+--- corruption_scan ---
+=== 编辑损坏扫描（the-unsolvable-case-by-courtney-smyth）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- check_short_quotes ---
+  verify_quotes 跳过（<20 flat 字符）的引语：1 条 —— 这些主门禁**根本没查**
+  ✅ 命中 1 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
