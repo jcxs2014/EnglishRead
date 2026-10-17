@@ -1,0 +1,70 @@
+=== A 步：第 3 条提交门禁全量重跑（2026-10-17 15:16 UTC）===
+[lane] 完整 lane
+
+--- verify_quotes.py ---
+❌ P0-1：1 个正文章节 0 提取（引语完全未被任何门禁核实）
+    · ch02 Playlist.md
+   注：0 提取也可能源于**解析器盲区**——本工具只认 ①-㉕ / 「> **原句 N:**」/「> "..."」三种格式；
+       裸 `> English` 整段式与 `- "English"` bullet 式抽不到（全库实测 81 个正文章节文件属此类）。
+       ⚠️ 更正：这些文件的引语**并非未核实**——check_chapter_quotes 的言情无编号口径 `^>\s*(.+)$` 81/81 全部抽得到，
+          已按 text/ 逐章口径核实过。真实缺口只是**未经 epub 全书口径**交叉核对（跨章搬句查不出）。
+
+=== 总计 386/386 引文可核实（100%）；完全干净文件 69/69；正文章节 0 提取 1；总览 0 提取转交 0 ===
+
+--- verify_quotes.py --full ---
+   注：0 提取也可能源于**解析器盲区**——本工具只认 ①-㉕ / 「> **原句 N:**」/「> "..."」三种格式；
+       裸 `> English` 整段式与 `- "English"` bullet 式抽不到（全库实测 81 个正文章节文件属此类）。
+       ⚠️ 更正：这些文件的引语**并非未核实**——check_chapter_quotes 的言情无编号口径 `^>\s*(.+)$` 81/81 全部抽得到，
+          已按 text/ 逐章口径核实过。真实缺口只是**未经 epub 全书口径**交叉核对（跨章搬句查不出）。
+
+=== 总计 386/386 引文可核实（100%）；完全干净文件 69/69；正文章节 0 提取 1；总览 0 提取转交 0；--full 整串取证 0 ===
+
+--- check_vocab.py ---
+词条行合计: 712
+
+--- FAIL (0) ---
+
+--- WARN (14) ---
+  ch01 chap1.md [基础] 基础档疑含超纲词「emotional」
+  ch05 Chapter 2 Freddy.md [基础] 基础档疑含超纲词「**afternoon**」
+  ch06 Chapter 3 Ro.md [基础] 基础档疑含超纲词「**headphones**」
+  ch14 Chapter 11 Ro.md [基础] 基础档疑含超纲词「apartment」
+  ch15 Chapter 12 Ro.md [基础] 基础档疑含超纲词「boyfriend」
+  ch20 Chapter 17 Freddy.md [基础] 基础档疑含超纲词「vulnerable」
+  ch24 Chapter 21 Ro.md [基础] 基础档疑含超纲词「**headphones**」
+  ch27 Chapter 24 Freddy.md [基础] 基础档疑含超纲词「butterfly」
+  ch30 Chapter 27 Ro.md [基础] 基础档疑含超纲词「shirtless」
+  ch32 Chapter 29 Ro.md [基础] 基础档疑含超纲词「classroom」
+  ch38 Chapter 35 Ro.md [基础] 基础档疑含超纲词「Halloween」
+  ch43 Chapter 40 Ro.md [基础] 基础档疑含超纲词「embarrassed」
+  ch56 Chapter 53 Ro.md [基础] 基础档疑含超纲词「**girlfriend**」
+  ch56 Chapter 53 Ro.md [基础] 基础档疑含超纲词「**boyfriend**」
+
+--- check_entities.py ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+--- corruption_scan.py ---
+
+=== 编辑损坏扫描（unloved-by-peyton-corinne）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- sweep_full.py --quiet ---
+=== 引语整串 flat 比对（unloved-by-peyton-corinne）===
+  参照集：text/ 逐章（66 章，可定章） + epub 交叉验证
+  ✅ 本章命中 334 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 51 条归 check_short_quotes；无章可对 0 条未判）
+
+--- check_short_quotes.py ---
+=== 短引语兜底核对（unloved-by-peyton-corinne）===
+  verify_quotes 跳过（<20 flat 字符）的引语：56 条 —— 这些主门禁**根本没查**
+  ✅ 命中 56 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+--- verify_overview_quotes.py ---
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 30/30 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 54/54 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===

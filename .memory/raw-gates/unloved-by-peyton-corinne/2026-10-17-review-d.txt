@@ -1,0 +1,74 @@
+=== D 步：语义二审（2026-10-17 15:25 UTC）===
+
+--- [1] check_struct_indep.py（结构第二实现）---
+  ❌ ch57 Chapter 54 Freddy.md: [summary] 必备节「## 本章词汇／## 词汇分级」出现 0 次（须恰 1）
+  ❌ ch58 Chapter 55 Ro.md: [summary] 必备节「## 本章词汇／## 词汇分级」出现 0 次（须恰 1）
+  ❌ ch59 Chapter 56 Ro.md: [summary] 必备节「## 本章词汇／## 词汇分级」出现 0 次（须恰 1）
+  ❌ ch60 Chapter 57 Freddy.md: [summary] 必备节「## 本章词汇／## 词汇分级」出现 0 次（须恰 1）
+  ❌ ch60 Chapter 57 Ro.md: [summary] 必备节「## 本章词汇／## 词汇分级」出现 0 次（须恰 1）
+  ❌ ch61 Chapter 58 Freddy.md: [summary] 必备节「## 本章词汇／## 词汇分级」出现 0 次（须恰 1）
+  ❌ ch62 Chapter 59 Ro.md: [summary] 必备节「## 本章词汇／## 词汇分级」出现 0 次（须恰 1）
+  ❌ ch63 Chapter 60 Freddy.md: [summary] 必备节「## 本章词汇／## 词汇分级」出现 0 次（须恰 1）
+  ❌ ch64 Chapter 61 Ro.md: [summary] 必备节「## 本章词汇／## 词汇分级」出现 0 次（须恰 1）
+  ❌ ch65 Epilogue Freddy.md: [summary] 必备节「## 本章词汇／## 词汇分级」出现 0 次（须恰 1）
+  ❌ ch66 Epilogue.md: [summary] 必备节「## 本章词汇／## 词汇分级」出现 0 次（须恰 1）
+=== 独立结构扫描：68 个 md，缺陷 105 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+
+--- [2] check_analysis_indep.py（分析层行内英文第二实现）---
+  ch63 Chapter 60 Freddy.md:71  Archer had so much anger at John
+  ch63 Chapter 60 Freddy.md:82  Matt and Archer share this emotional moment
+  ch64 Chapter 61 Ro.md:27  Matt pays attention to what songs she plays
+  ch64 Chapter 61 Ro.md:49  Ro grateful for all the changes in her life
+  ch65 Epilogue Freddy.md:38  He wanted to be a Shariff
+  ch65 Epilogue Freddy.md:38  shed the Fredderic name with its haunted memories
+  ch65 Epilogue Freddy.md:49  Matt asks Archer to be Elsie's grandfather
+  ch65 Epilogue Freddy.md:49  official adoption of Archer as his father figure
+  ch65 Epilogue Freddy.md:60  Archer says Matt will always be his favorite kid
+  ch65 Epilogue Freddy.md:60  deep father-son relationship
+  ch65 Epilogue Freddy.md:82  protecting and loving his family
+  ch65 Epilogue Freddy.md:115  finally has the father figure he always wanted
+
+--- [3] check_xref_indep.py（跨章引用第二实现）---
+=== chNN 引用 248 处：英文证据报警 0 处 ／ 中文式待人判 186 处 ／ 🔶 同章省略号拼接（提示，不判红）1 处 ===
+
+--- [4] sweep_full.py 全串 ---
+=== 引语整串 flat 比对（unloved-by-peyton-corinne）===
+  参照集：text/ 逐章（66 章，可定章） + epub 交叉验证
+  ✅ 本章命中 333 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 51 条归 check_short_quotes；无章可对 0 条未判）
+
+--- [5] sweep_analysis_inline.py 分析层行内英文 ---
+  🟠 ch63 Chapter 60 Freddy.md:49  「Archer reveals he loved」→ 内容词 2/3 命中（archer/loved）——疑漏词或改写
+  🟠 ch63 Chapter 60 Freddy.md:49  「and still loves her」→ 内容词 2/2 命中（loves/still）——疑漏词或改写
+  🟠 ch63 Chapter 60 Freddy.md:49  「the one who truly loved her」→ 内容词 3/3 命中（loved/one/truly）——疑漏词或改写
+  🟠 ch63 Chapter 60 Freddy.md:71  「Archer had so much anger at」→ 内容词 3/3 命中（anger/archer/much）——疑漏词或改写
+  🟠 ch63 Chapter 60 Freddy.md:82  「Archer share this emotional moment」→ 内容词 4/4 命中（archer/emotional/moment/share）——疑漏词或改写
+  🟠 ch63 Chapter 60 Freddy.md:82  「they're not biologically related but feel like family」→ 内容词 5/7 命中（but/family/feel/like）——疑漏词或改写
+  🟠 ch64 Chapter 61 Ro.md:27  「Matt pays attention to what songs she plays」→ 内容词 5/5 命中（attention/matt/pays/plays）——疑漏词或改写
+  🟠 ch64 Chapter 61 Ro.md:38  「Ro reflects on how easy their relationship is」→ 内容词 2/3 命中（easy/relationship）——疑漏词或改写
+  🟠 ch64 Chapter 61 Ro.md:49  「Ro grateful for all the changes in her life」→ 内容词 3/3 命中（changes/grateful/life）——疑漏词或改写
+  🟠 ch64 Chapter 61 Ro.md:49  「Her growth from misery to happiness」→ 内容词 2/3 命中（happiness/misery）——疑漏词或改写
+  🟠 ch65 Epilogue Freddy.md:27  「Matt honoring his mother」→ 内容词 2/3 命中（matt/mother）——疑漏词或改写
+  🟠 ch65 Epilogue Freddy.md:38  「Fredderic name with its haunted memories」→ 内容词 4/4 命中（fredderic/haunted/memories/name）——疑漏词或改写
+  🟠 ch65 Epilogue Freddy.md:49  「Archer as his father figure」→ 内容词 3/3 命中（archer/father/figure）——疑漏词或改写
+  🟠 ch65 Epilogue Freddy.md:60  「Matt will always be his favorite kid」→ 内容词 4/4 命中（always/favorite/kid/matt）——疑漏词或改写
+  🟠 ch65 Epilogue Freddy.md:82  「Matt reflects on his life」→ 内容词 2/3 命中（life/matt）——疑漏词或改写
+  🟠 ch65 Epilogue Freddy.md:82  「protecting and loving his family」→ 内容词 3/3 命中（family/loving/protecting）——疑漏词或改写
+  🟠 ch65 Epilogue Freddy.md:115  「finally has the father figure he always wanted」→ 内容词 5/5 命中（always/father/figure/finally）——疑漏词或改写
+  🟠 ch66 Epilogue.md:104  「love overflows」→ 内容词 2/2 命中（love/overflows）——疑漏词或改写
+  ⚪ ch46 Chapter 43 Ro.md:100  「ft ple」→ 仅 1 个内容词，判为术语/语法记法而非引文
+  ⚪ ch48 Chapter 45 Ro.md:14  「It's not that with you」→ 仅 1 个内容词，判为术语/语法记法而非引文
+
+--- [6] check_overview_full.py ---
+  参照集：text/ 逐章（66 章） ｜ 总览文件 3 个
+  A 整串：命中 57 ｜ 🔶 拼接 1 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 13
+  B 章节标签：对 57 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 1 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：4 ｜ E H1 语义错配：0
+  ⚠️ 00_情感节点.md:46  同一句在 7 章出现（ch9,ch11,ch25,ch34），章节标注有歧义：I think you'd be really easy to love
+  ⚠️ 00_情感节点.md:48  同一句在 3 章出现（ch47,ch62,ch66），章节标注有歧义：the easiest thing I've ever done
+  ⚠️ 00_情感节点.md:110  同一句在 2 章出现（ch47,ch52），章节标注有歧义：Of course I like you. There's no par
+  ⚠️ 00_情感节点.md:238  跨标签拼接：I know we had a plan—… But… I'm pregnant again.
+  ⚠️ 00_金句精选.md:66  同一句在 2 章出现（ch47,ch52），章节标注有歧义：Of course I like you. There's no par
+
+--- [7] check_xref_indep.py 中文式待人判 逐条复核 ---

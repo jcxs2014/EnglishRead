@@ -1,0 +1,30 @@
+=== C 步：结构扫描（2026-10-17 15:18 UTC）===
+--- audit_structure.py ---
+=== 精读结构扫描（unloved-by-peyton-corinne）===
+  扫 71 个 md、428 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 6
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 1 ｜ 🔀 映射不一致 0
+  ⚠️ ch16 Chapter 13 Freddy.md  第 76 行引语与第 65 行重复（提示型）："If this movie sucks, I'm going to be very d
+
+--- check_overview_full.py ---
+=== 总览整串核查（unloved-by-peyton-corinne）===
+  参照集：text/ 逐章（66 章） ｜ 总览文件 3 个
+  A 整串：命中 57 ｜ 🔶 拼接 1 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 13
+  B 章节标签：对 57 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 1 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：4 ｜ E H1 语义错配：0
+  ⚠️ 00_情感节点.md:46  同一句在 7 章出现（ch9,ch11,ch25,ch34），章节标注有歧义：I think you'd be really easy to love
+  ⚠️ 00_情感节点.md:48  同一句在 3 章出现（ch47,ch62,ch66），章节标注有歧义：the easiest thing I've ever done
+  ⚠️ 00_情感节点.md:110  同一句在 2 章出现（ch47,ch52），章节标注有歧义：Of course I like you. There's no par
+  ⚠️ 00_情感节点.md:238  跨标签拼接：I know we had a plan—… But… I'm pregnant again.
+  ⚠️ 00_金句精选.md:66  同一句在 2 章出现（ch47,ch52），章节标注有歧义：Of course I like you. There's no par
+
+--- 总览 H1 语义 grep -m1 ---
+notes/books/novels/unloved-by-peyton-corinne/00_情感节点.md:# 《Unloved》情感节点
+notes/books/novels/unloved-by-peyton-corinne/00_概述.md:# 《Unloved》（Peyton Corinne）概述
+notes/books/novels/unloved-by-peyton-corinne/00_金句精选.md:# 《Unloved》金句精选
+
+--- check_quote_blocks.py ---
+=== 引语块结构对账（unloved-by-peyton-corinne）===
+  带前缀的 `> **原句 N:**` 行：68 个文件共 0 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏

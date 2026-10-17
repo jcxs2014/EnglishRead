@@ -66,7 +66,7 @@ PROFILES = {
         #    判据同 `scripts/verify_quotes.py`（2026-10-08 已修）与
         #    `scripts/audit_structure.py`：**两种抬头都认**，引语内容可选。
         "QRE": re.compile(r'^> \*\*原句 (\d+):\*\*(?: (.+))?$', re.M),
-        "NUM": lambda m: int(m.group(1)) if (m.lastindex and m.group(1).isdigit()) else 0,
+        "NUM": lambda m: int(m.group(1) or m.group(3) or 0),
         "RANGE": (3, 8),
     },
     "nonfiction": {  # 非虚构论述档（论证结构 + 10 处五子项）
@@ -91,7 +91,7 @@ PROFILES = {
         "MARK": ["## 论证结构", "## 选择性精读"],
     },
     "summary": {  # 言情 / 小说精简档
-        "H2": ["## 本章导航", "## 精读", "## 本章词汇|## 词汇分级", "## 一句话总结"],
+        "H2": ["## 本章导航", "## 精读", "## 本章词汇|## 词汇分级|## 词汇", "## 一句话总结"],
         "READ": "## 精读",
         "SUB": ["中文理解", "关键词", "为什么这样写", "读者视角提示"],
         #    ⚠️ 2026-10-14（Stuck with You 五步审查 c 步）：**这是生效的那份 summary 档**
@@ -103,8 +103,14 @@ PROFILES = {
         #    `读者视角提示`）⇒ **每块再报一条「读者视角提示 出现 0 次」**（本库该档
         #    子项集并无此名）。判据同 `scripts/verify_quotes.py`（2026-10-08 已修）
         #    与 `scripts/audit_structure.py`：**两种抬头都认**，引语内容可选。
-        "QRE": re.compile(r'^> \*\*原句 (\d+):\*\*(?: (.+))?$', re.M),
-        "NUM": lambda m: int(m.group(1)) if (m.lastindex and m.group(1).isdigit()) else 0,
+        #    ⚠️ 2026-10-17（Unloved by Peyton Corinne 五步审查 c 步）：词汇节名再加
+        #    `## 词汇`（本库另一大批精简格式书用此节名——check_vocab 一直只认它）；
+        #    QRE 加「`### 原句 N` H3 抬头 + 下一行 `> 引语`」形态（同书 68 md 全用此体例，
+        #    引语与抬头不同行、且抬头非 `> ` 前缀 ⇒ 旧 QRE 抽 0 块 ⇒ 105 处全量假红：
+        #    68×「词汇节 0 次」+ 若干「引语块 0 个/子项 N 次」。与 2026-10-14 修复同型——
+        #    该修只认了「**原句 N:** 同行」与「**原句 N:** 独占行」，漏了第三种「H3 抬头」）。
+        "QRE": re.compile(r'^(?:> \*\*原句 (\d+):\*\*(?: (.+))?|### 原句 (\d+)\s*\n>(.+))$', re.M),
+        "NUM": lambda m: int(m.group(1) or m.group(3) or 0),
         "RANGE": (3, 8),
         "MARK": ["## 本章导航", "## 精读"],
     },
@@ -486,6 +492,32 @@ def check(md: Path, sub_override=None, book_dir: Path = None):
                 out.append(f"⚠ [{prof}] 引语块 {len(nums)} 个，与本书非虚构章众数 {mode} 不符")
         elif not LO <= len(nums) <= HI:
             out.append(f"[{prof}] 引语块 {len(nums)} 个，超出 {LO}–{HI} 配额")
+    elif prof == "summary" and book_dir is not None:
+        # ⚠️ 2026-10-17（Unloved by Peyton Corinne 五步审查 c 步）：块数硬界 (3,8) 对本书
+        #    5 章（9/10/13/14/15 块）报 ❌，但**第一实现 `audit_structure.py` 用的是
+        #    本书众数比对且只给 ⚠️**（`mine*2<mode or mine>mode*2` 才报）——两实现
+        #    口径不一致。本书众数 6，5 章的 9–12 块均不触发该判据 ⇒ 全量假红。
+        #    修法：与 nonfiction/overview 分支同型——块数与**本书 summary 章众数**比，
+        #    偏离过大 ⇒ ⚠️ 提示型（不进缺陷数）；**0 块仍是阻断**。上限定为众数 ×2
+        #    （与第一实现口径一致），下限照旧（缺失块数是真结构断裂）。
+        import re as _re
+        cnts = []
+        for _m in sorted(book_dir.glob("ch*.md")):
+            _s = _m.read_text(encoding="utf-8")
+            if detect_profile(_s) != "summary":
+                continue
+            _n = len(QRE.findall(_s))
+            if _n:
+                cnts.append(_n)
+        _mode = max(set(cnts), key=lambda c: (cnts.count(c), c)) if cnts else None
+        lo_hi = (LO, 10 ** 9)    # 上限由众数×2 分支接管，避免重复报
+        if not nums:
+            # ⚠️ 2026-10-17（Unloved）：0 块分支触发后置 lo_hi 为恒真，
+            #    避免与下方通用配额重复报同一条（nonfiction 分支早有此处理，此处补齐）
+            out.append(f"[{prof}] 引语块 0 个（该档必须有精读块）")
+            lo_hi = (0, 10 ** 9)
+        elif _mode is not None and (len(nums) * 2 < _mode or len(nums) > _mode * 2):
+            out.append(f"⚠ [{prof}] 引语块 {len(nums)} 个，与本书众数 {_mode} 相差过大")
     elif prof == "overview":
         # ⚠️ 2026-10-13（Something Followed Us Home 五步审查）：块数与**本书众数**比，
         #    偏离 ⇒ ⚠️ 提示型（不进缺陷数、不影响退出码）；上限 10 仍是阻断（注水的块数）。

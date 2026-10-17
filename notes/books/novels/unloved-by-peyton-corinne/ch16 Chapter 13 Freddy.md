@@ -62,17 +62,6 @@ chapter_num: 16
 ---
 
 ### 原句 5
-> "If this movie sucks, I'm going to be very disappointed, Rosalie."
-
-**中文理解**："如果这部电影很糟糕，我会非常失望，Rosalie。"
-
-**关键词**：Freddy 为 Ro 找电影；用 full name 叫她
-
-**为什么这样写**：Freddy 没有看过"Ever After"却愿意去找来看——这说明他真的想了解她的喜好，而不只是说说而已。叫"Rosalie"而不是"princess"也是一个微妙的变化：他在认真对待她。
-
----
-
-### 原句 6
 > "If this movie sucks, I'm going to be very disappointed, Rosalie." "Wait—which movie?" "Ever After, your favorite one," I say with inflection, like her question is ridiculous. "You're watching it? Right now?" "Just queuing it up—but I want to talk to you first."
 
 **中文理解**：Freddy 下载了 Ro 最喜欢的电影 Ever After——他从来没看过，但愿意为她看完。
@@ -83,7 +72,7 @@ chapter_num: 16
 
 ---
 
-### 原句 7
+### 原句 6
 > "He was so embarrassed he told everyone we were on a break—that it wasn't for him. He wanted me to throw it all away, said it made me look like a slut."
 
 **中文理解**：他太丢人了，告诉所有人我们分手了——说那不是为他准备的。他让我把那些东西都扔掉，说那让我看起来像个婊子。
@@ -94,7 +83,7 @@ chapter_num: 16
 
 ---
 
-### 原句 8
+### 原句 7
 > "We both cackle at my expense, my smile so big my cheeks ache."
 
 **中文理解**：我们俩都在笑话我，我的笑容大到脸都疼了。

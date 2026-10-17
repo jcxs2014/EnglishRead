@@ -103,4 +103,4 @@ chapter_num: 58
 
 ## 一句话总结
 
-Ro 和 Matt 约会后回到 Hockey House，Ro 在 T 恤下只穿内裤准备和 Matt 做爱，但当她主动说"We should have sex"后却因 Tyler 曾经让她觉得自己"不行"而紧张得差点毁掉这个时刻，Matt 抱住她说 Tyler 才是问题、不是她，她才是"perfect, so real and raw and enthusiastic"，于是两人第一次正式做爱——Ro 在 Matt 的温柔引导下达到高潮，结束后 Ro 想说"I love you"但话卡在喉咙里、最后只问出"多久可以再来一次"。
+Ro 和 Matt 约会后回到 Hockey House，Ro 在 T 恤下只穿内裤准备和 Matt 做爱，但当她主动说"We should have sex"后却因 Tyler 曾经让她觉得自己"不行"而紧张得差点毁掉这个时刻，Matt 抱住她说 Tyler 才是问题、不是她，她才是"perfect, so real and raw and enthusiastic"，于是两人第一次正式做爱——Ro 在 Matt 的温柔引导下达到高潮，结束后她想告诉他"我正在爱上你"但话卡在喉咙里、最后只问出"多久可以再来一次"。

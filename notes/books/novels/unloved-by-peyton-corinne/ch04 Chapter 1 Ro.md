@@ -75,8 +75,6 @@ chapter_num: 4
 
 **关键词**：**Sexy College Bucket List / dangling the carrot / promises / check off
 
-**关键词**：**bucket list / promises / check off / collect dust
-
 **为什么这样写**：Tyler 用 Ro 自己的性愿望清单来操控她——"let us try something off the list"暗示这是他施舍给她的恩惠，而她"真的、真的很想试试"（line 226）。这个场景直指一段有毒关系中的权力不对等：欲望的主体成为被控制的对象。Line 213 的"promises to help me check off each item slowly turned to taunts and jokes"是全章最痛的句子之一——曾经的爱意承诺已退化为嘲弄。
 
 **读者视角提示**：那个清单"收集了一年的灰尘，一半是空的——和我一样"（line 219）。这个比喻令人心碎：物品的空洞即人的空洞。Ro 知道这一点，但仍在 Tyler's条件交换面前屈服，说明她的自尊已被这段关系磨损到什么程度。
