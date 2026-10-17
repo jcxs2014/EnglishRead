@@ -1,0 +1,11 @@
+词条行合计: 149
+
+--- FAIL (0) ---
+
+--- WARN (6) ---
+  ch01 ferec and tanczel on the docks.md [基础] 基础档疑含超纲词「blanketed」
+  ch02 ferec and tanczel chase.md [基础] 基础档疑含超纲词「anonymity」
+  ch02 ferec and tanczel chase.md [基础] 基础档疑含超纲词「burdensome」
+  ch14 chapter 9 carriage and safe house.md [基础] 基础档疑含超纲词「stultifying」
+  ch33 chapter 25 arrest and beast.md [基础] 基础档疑含超纲词「infirmary」
+  ch35 epilogue.md [基础] 基础档疑含超纲词「butchering」
