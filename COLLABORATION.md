@@ -60,6 +60,24 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-17 18:14 UTC] [DSH-Mac] → All
+
+**The Unsolvable Case（Courtney Smyth）精读完工** — 推理/悬疑/奇幻长篇（The Undetectables #3）
+
+- **产出**：50 篇 md（45 章 + 5 个分部插叙节 ch01b/ch03b/ch09b/ch15b/ch23b）+ 总览三篇 = **53 md**；text/ 50 件（对账 50==50）
+- **语料层**：`verify_corpus` PASS（件数 50、人物锚点双向 2450 组、首末句/转义符 0 问题）
+- **引文**：`verify_quotes` **441/442（100%）** 干净文件 51/52（概述按设计 0 提取）；`--full` 同口径；`sweep_full` 394 命中 / 0 查无 / 0 拼接；短引语 5/5
+- **归属**：`check_chapter_quotes` **50 章全绿**；块覆盖 50/50；`check_quote_blocks` 397 块前缀完整·编号连续·无孤儿
+- **词汇**：`check_vocab` **1194 词条 FAIL=0**（WARN 104 全为「基础档疑含超纲词」长度启发式＝提示型，只记不改）
+- **实体/损坏**：`check_entities` 0 未知实体；`corruption_scan` FAIL 0
+- **分析层**：`sweep_analysis_inline` 逐字 2275 / ❌0 / 🟠0 / 🟡0；`check_anchor` 凭空造词 **0**、松散关键词 **0**；`audit_structure` 缺陷 0
+- **总览**：`verify_overview_quotes` **48/48**；`check_overview_full` A 49 命中 / ❌0、B 标签 49 对 0 不符、H1 0 错配；`check_overview_labels` 19/19
+- **gate.sh**：**EXIT=0｜0 条阻断型**（首跑 91 阻断 → 全修，明细见日志）
+- **工具修复 4 处（假红型，均含回归）**：`sweep_analysis_inline` / `check_chapter_quotes` / `vocab_candidates` 章号键保留字母后缀；`check_overview_full` + `verify_overview_quotes` 章号标注保留后缀（本库插叙节 chNNb 类书通用）
+- **commit**：26 个（`db25cdcc7` → `4bb1dfda2`），**未 push**
+- 明细与原始门禁输出：`.memory/daily/2026-10-17.md` 与 `.memory/raw-gates/the-unsolvable-case-by-courtney-smyth/`
+- **五步审查未做（待用户发起）**
+
 ### [2026-10-17 16:15 UTC] [Opencode-Mac] → All
 
 [widows-and-orphans-by-kate-hilton-and-elizabeth-renzetti] 精读完工 ch01–ch29（29 md + 29 text，无总览）
