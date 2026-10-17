@@ -1,0 +1,74 @@
+# 五步审查 a 步（续）：抽查项重跑 · 2026-10-17 17:20 UTC
+
+=== check_anchor ===
+=== 关键词锚定自查（when-everyone-knows-that-everyone-knows-by-steven-pinker）===
+  扫 13 个 md，100 个引语块，100 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（13 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== audit_structure ===
+=== 精读结构扫描（when-everyone-knows-that-everyone-knows-by-steven-pinker）===
+  扫 13 个 md、148 个引语块；多数派必备节：## 词汇分级
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 10
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== audit_numbers ===
+=== 计数断言核查（when-everyone-knows-that-everyone-knows-by-steven-pinker）===
+  扫 13 个 md；抓到断言 18 条（含不可机械核查的年龄/百分比 15 条）
+  词数口径：连写算 1 词（`well-known`=2、`don't`=1）—— 差 1 极可能是口径而非错误
+  ❌ 不符（差 ≥2）0 ｜ ⚠️ 差 1 0 ｜ ❓ 参照串未解析未判 3 ｜ ⚪ 不可机械核查 15
+  ❓ ch02 the emperor the elephant and th:59  「两个分句」分句口径不统一（按逗号切与按句号切结果差数倍），不判 —— 需人判
+  ❓ ch05 reading the mind of a mind read:11  「184个字符」参照串未解析 —— 需人判
+  ❓ ch05 reading the mind of a mind read:40  「一个词」参照串未解析 —— 需人判
+  ⚪ ch05 reading the mind of a mind read:24  「三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch05 reading the mind of a mind read:24  「四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch05 reading the mind of a mind read:24  「七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch05 reading the mind of a mind read:24  「八岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch05 reading the mind of a mind read:24  「十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch05 reading the mind of a mind read:24  「四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch05 reading the mind of a mind read:24  「十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch05 reading the mind of a mind read:37  「三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch05 reading the mind of a mind read:37  「八岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch06 the department of social relati:47  「十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch06 the department of social relati:59  「十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch06 the department of social relati:63  「十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch06 the department of social relati:159  「十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch08 weasel words.md:109  「99%」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch09 the canceling instinct.md:27  「三十五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+
+=== sweep_analysis_inline ===
+=== 分析层行内英文逐字核查（when-everyone-knows-that-everyone-knows-by-steven-pinker）===
+  参照集：text/（13 个提取件） + epub 交叉验证 ；扫 13 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：331 个表格行、202 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 1061 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 3 ｜ 🟠 部分命中 6 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 23
+  🔶 ch06 the department of social relations.md:101  「performers… and hypocrites」→ 分段命中
+  🔶 ch08 weasel words.md:82  「the larger… and the lower…, the mealier-mouthed…」→ 分段命中
+  🔶 ch08 weasel words.md:98  「To keep up the understanding that… while broaching the p」→ 分段命中
+  🟠 ch01 preface.md:41  「spend one's life doing」→ 内容词 3/4 命中（doing/life/spend）——疑漏词或改写
+  🟠 ch07 laughing crying blushing staring glaring.md:66  「all the audience members who   must have tacitly known t」→ 内容词 6/6 命中（audience/compromising/known/members）——疑漏词或改写
+  🟠 ch07 laughing crying blushing staring glaring.md:98  「might have been doing」→ 内容词 1/1 命中（doing）——疑漏词或改写
+  🟠 ch07 laughing crying blushing staring glaring.md:98  「our   of my role would have allowed me no escape from an」→ 内容词 6/6 命中（afflicted/allowed/embarrassment/escape）——疑漏词或改写
+  🟠 ch10 radical honesty rational hypocrisy.md:67  「and then report a   when they are too honest」→ 内容词 2/2 命中（honest/report）——疑漏词或改写
+  🟠 ch10 radical honesty rational hypocrisy.md:91  「It’s easy to   this diffidence by appealing to common se」→ 内容词 5/6 命中（appealing/common/diffidence/easy）——疑漏词或改写
+
+=== check_nav_layer ===
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== check_quote_blocks ===
+=== 引语块结构对账（when-everyone-knows-that-everyone-knows-by-steven-pinker）===
+  带前缀的 `> **原句 N:**` 行：10 个文件共 100 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== check_block_keywords ===
+=== 引语块覆盖度：10 个 md，阻断型 0 处 ／ 提示型 0 处 ===
+
+=== check_xref_chapter ===
+=== 分析层跨章指认核对（when-everyone-knows-that-everyone-knows-by-steven-pinker）===
+  参照集：text/（13 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== check_xref_zh ===
+=== 跨章引用：章号+短语/POV 命中 0 / 错 0 / POV 错 0 ===

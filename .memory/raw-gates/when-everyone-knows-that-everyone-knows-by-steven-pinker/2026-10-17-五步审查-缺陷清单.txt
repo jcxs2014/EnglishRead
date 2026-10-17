@@ -35,3 +35,13 @@
   逐字 grep 全部 HIT（rose/daisy/tulip/daffodil、two-thirds、by definition known to one and all）
 - ch05:116 🔶「The results suggest that… people differentiate salience」：合法省略记法，两侧逐字在原文，工具报分段命中
 - 其余 🔶（ch06:101、ch08:82/98）与 🟠（ch01:41、ch07:66/98×2、ch10:67/91）为既有提示型/句式记法，写作期已定性
+
+
+## 结案（2026-10-17 五步审查完成）
+- 全部阻断型（B1-B7、E1、E2）已修复并提交：8fd472ab0（B1/B2/B3）+ 67ddf306b（B4-B7/E1）
+- 修复后 gate.sh 18 项终跑：**0 条阻断型**；verify_quotes 159/159（13/13 干净）、总览 59/59、
+  逐章归属 10 章各 10/10、check_vocab FAIL 0、corruption 0、sweep_full 100/0/0/0
+- 投毒自证：注入假引语 Zorblatt... 后 verify_quotes 报 10/11 ❌ 并指名查无串 ⇒ 门禁非空转
+- 提示型 8 条（P1-P8）只记不改，报告已列出
+- 假红型结论：d 步新增 🔶5/🟠10 全部读行 + grep 排除（工具剥内嵌引号留空格 / 合法省略记法 /
+  既有的句式记法），无真实缺陷

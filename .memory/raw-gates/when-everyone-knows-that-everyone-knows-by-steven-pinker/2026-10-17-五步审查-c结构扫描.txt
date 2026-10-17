@@ -1,0 +1,19 @@
+# 五步审查 c 步：结构扫描（第二实现）
+
+=== check_struct_indep ===
+=== 独立结构扫描：10 个 md，缺陷 0 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+
+=== check_xref_indep ===
+=== chNN 引用 137 处：英文证据报警 0 处 ／ 中文式待人判 137 处 ／ 🔶 同章省略号拼接（提示，不判红）0 处 ===
+
+=== check_analysis_indep ===
+抽出分析层英文片段 612 条
+✅ 全部片段在全书 text/ 逐字命中
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）2 条 —— 只报不判红，须人判：
+  ch06 the department of social relations.md:76  it creates common knowledge of A and of B
+  ch08 weasel words.md:114  A long silence follows X
+
+=== 总览 H1 一行 grep ===
+00_情感节点.md: # 00. 情感节点（10 个）
+00_概述.md: # 00. 概述（全书梗概与主题）
+00_金句精选.md: # 00. 金句精选（24 条）
