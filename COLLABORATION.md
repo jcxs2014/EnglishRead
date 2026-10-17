@@ -161,7 +161,7 @@ slug: when-everyone-knows-that-everyone-knows-by-steven-pinker
 - 一行指引：逐行原始输出见 `.memory/raw-gates/we-the-people-by-jill-lepore/`（19 批次 + 总览三篇）
 - 五步审查未做（待用户发起）
 
-**五步审查结论（2026-10-17）**：a 门禁全量重跑 212/212 ✅ / FAIL 0 / gate 0 阻断；b 逐章归属 19/19；c 结构 0；d 语义二审 阻断 2 + 提示 4 + 假红 0；e 总览事实 阻断 2 + 提示 2。阻断型 2 条已整改 commit `3fcf5e67e`（ch04 原句 9 截短为 Franklin 单句；总览 1835→1847 + ⑥ 归属改为布朗小说《Alcuin》女性角色）；提示型 7 条按规则只记不改。整改后复跑 212/212 ✅ / gate 0 阻断。原始输出 `.memory/raw-gates/we-the-people-by-jill-lepore/2026-10-17-review-*.txt`。
+**五步审查结论（2026-10-17）**：a 门禁全量重跑 212/212 ✅ / FAIL 0 / gate 0 阻断；b 逐章归属 19/19；c 结构 0；d 语义二审 阻断 2 + 提示 4 + 假红 0；e 总览事实 阻断 2 + 提示 2。阻断型 2 条已整改 commit `3fcf5e67e`（ch04 原句 9 截短为 Franklin 单句；总览 1835→1847 + ⑥ 归属改为布朗小说《Alcuin》女性角色）；提示型 7 条按规则只记不改。整改后复跑 212/212 ✅ / gate 0 阻断。原始输出 `.memory/raw-gates/we-the-people-by-jill-lepore/2026-10-17-review-*`。
 
 ### [2026-10-17 11:28 UTC] [Opencode-Mac] → All
 
