@@ -28,7 +28,7 @@ source_text: ch03
 
 ## 精读
 
-> **原句 1:** To Jacqueline Barthe, my French teacher when I was fourteen, who handed back my essay saying disdainfully: “At this rate, Mademoiselle Harpman, you will end up writing serial novels for magazines.
+> **原句 1:** To Jacqueline Barthe, my French teacher when I was fourteen, who handed back my essay saying disdainfully: “At this rate, Mademoiselle Harpman, you will end up writing serial novels for magazines.” And thus she determined my fate.
 
 **中文理解**：以 Jacqueline Barthe（十四岁时的法语老师）为题献，她曾 disdainfully 把作文还给 Harpman，说："照这个速度，Mademoiselle Harpman，你最后会去给杂志写 serial novels。"——"于是她决定了我的命运。"
 
@@ -42,7 +42,7 @@ source_text: ch03
 
 ---
 
-> **原句 2:** I WAS TRAVELING BACK FROM PARIS, where I’d signed a few books, drunk a glass of champagne and made intellectual-sounding comments under the fond gaze of my publisher.
+> **原句 2:** I WAS TRAVELING BACK FROM PARIS, where I’d signed a few books, drunk a glass of champagne and made intellectual-sounding comments under the fond gaze of my publisher. I was tired and didn’t have the energy to walk the length of the platform, so I boarded the first carriage.
 
 **中文理解**：叙述者从巴黎回来——签了几本书、喝了一杯 champagne、在 publisher 的 fond gaze 下发表 intellectual-sounding comments。她疲惫，没力气走遍 platform，于是登上 first carriage，十五分钟后发现可能到 Liège，得往前挪。
 
@@ -90,7 +90,7 @@ source_text: ch03
 
 **句子结构**：多句描述。"Ulrich was trembling. He looked about us and could see nothing but doors." 短句 + "I saw them again later and expressed suitable admiration; they are made of some precious wood, carved, ornamented with silver and brass, and they open into the guest rooms." 分号连接，现在分词 carved/ornamented 作后置修饰；"Except one plain door, half-hidden by a dark velvet curtain: my lover's eyes lit up, he dragged me toward it and we found ourselves standing in the broom closet." 冒号引出 narrative shift。
 
-**关键词**：trousered? no—trussed（trussed up）、disarray（disarray）、gossipmonger（gossipmonger）... actually this block's keywords: trembling, precious wood, carved, ornamented, half-hidden, broom closet
+**关键词**：trembling（trembling）、doors（doors）、precious wood（precious wood）、carved（carved）、ornamented（ornamented）、half-hidden（half-hidden）、broom closet（broom closet）
 
 **表达方式**：用 "nothing but doors" 把 corridor 写成门的迷宫；"Except one plain door, half-hidden by a dark velvet curtain" 以 plain vs. precious 的对比突出 broom closet 的 humble 与 secret；"my lover's eyes lit up" 以 lover's reaction 转向 desire。
 

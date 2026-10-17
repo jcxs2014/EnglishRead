@@ -126,13 +126,7 @@ source_text: ch02
 
 ---
 
-> **原句 8:** She denies it,” said Henriette.
-
-
-Was I to go back to my usual place, which meant sitting right next to the enemy and leaving myself open to her blows? I stayed standing.
-
-
-Henriette went on: “As if it were possible to make up such things! Me, who’s living in dread for my brother, imagine me being delighted that he’s dead!
+> **原句 8:** She denies it,” said Henriette. Was I to go back to my usual place, which meant sitting right next to the enemy and leaving myself open to her blows? I stayed standing. Henriette went on: “As if it were possible to make up such things! Me, who’s living in dread for my brother, imagine me being delighted that he’s dead!
 
 **中文理解**："她否认，"Henriette 说。"仿佛编造这种事可能！我，为我哥哥担惊受怕的人，想象我会为他死而高兴！"
 
@@ -146,10 +140,7 @@ Henriette went on: “As if it were possible to make up such things! Me, who’s
 
 ---
 
-> **原句 9:** Please accept my apology.
-
-
-But how does one speak? I thought I ought to be reasonable. To overcome my resistance, I imagined the horrors of being ostracized, everyone shunning me, the silence and losing all my friends, but it didn’t want to. What it? An incredibly powerful force made the words stick in my throat. I think I must even have opened my mouth once or twice to say them: but nothing came. I wanted to utter the expected phrase, after which they’d leave me in peace, but I was paralyzed. My body simply refused.
+> **原句 9:** Please accept my apology. But how does one speak? I thought I ought to be reasonable. To overcome my resistance, I imagined the horrors of being ostracized, everyone shunning me, the silence and losing all my friends, but it didn’t want to. What it? An incredibly powerful force made the words stick in my throat. I think I must even have opened my mouth once or twice to say them: but nothing came. I wanted to utter the expected phrase, after which they’d leave me in peace, but I was paralyzed. My body simply refused.
 
 **中文理解**："请接受我的道歉。"但怎么开口？叙述者想自己该理性。为克服抵抗，她想象被 ostracize 的恐怖——但办不到。"No." 她让老师们扮演刽子手。
 
