@@ -351,7 +351,15 @@ def main():
     if len(args) < 2:
         raise SystemExit(f'Usage: {sys.argv[0]} <NN> "<md_file>" [--out-dir <dir>] [--book-dir <book_dir>]')
 
-    nn = int(args[0])
+    # 2026-10-17 修正：位置参数原为 `int(args[0])`，遇到插叙节章号（ch01b/ch18a）
+    # 直接 ValueError 崩溃 ⇒ 带字母后缀的书**只能**走 --book-dir 全书模式，
+    # 拿不到「逐章 X/X」这一行逐章证据。改为只取数字、后缀单独保留供打印；
+    # check_chapter() 本就会从 md 文件名/ frontmatter 重新解析后缀（见其 174-196 行）。
+    m_nn = re.match(r'(?:ch)?(\d+)([a-z]?)', args[0], re.I)
+    if not m_nn:
+        raise SystemExit(f'Usage: {sys.argv[0]} <NN> "<md_file>" [--out-dir <dir>] [--book-dir <book_dir>]')
+    nn = int(m_nn.group(1))
+    suffix_arg = m_nn.group(2).lower()
     md = args[1]
     text_dir = out_dir or os.path.join(os.path.dirname(os.path.abspath(md)), 'text')
     ok, tot, miss, err, short, swallowed = check_chapter(nn, md, text_dir)
@@ -359,7 +367,7 @@ def main():
         print(err)
         sys.exit(1)
     note = f'（另有 {short} 条短引语未校验）' if short else ''
-    print(f'{os.path.basename(md)}: {ok}/{tot} in ch{nn:02d} text{note}')
+    print(f'{os.path.basename(md)}: {ok}/{tot} in ch{nn:02d}{suffix_arg} text{note}')
     for m in miss:
         print(f'  MISS: {m}')
     for it in swallowed:
