@@ -42,7 +42,7 @@ source_text: ch03
 
 ---
 
-> **原句 2:** I WAS TRAVELING BACK FROM PARIS, where I’d signed a few books, drunk a glass of champagne and made intellectual-sounding comments under the fond gaze of my publisher. I was tired and didn’t have the energy to walk the length of the platform, so I boarded the first carriage.
+> **原句 2:** I WAS TRAVELING BACK FROM PARIS, where I’d signed a few books, drunk a glass of champagne and made intellectual-sounding comments under the fond gaze of my publisher. I was tired and didn’t have the energy to walk the length of the platform, so I boarded the first carriage. Fifteen minutes later, I learned from the announcements that I was likely to end up in Liège, so I had to move to the front part of the train.
 
 **中文理解**：叙述者从巴黎回来——签了几本书、喝了一杯 champagne、在 publisher 的 fond gaze 下发表 intellectual-sounding comments。她疲惫，没力气走遍 platform，于是登上 first carriage，十五分钟后发现可能到 Liège，得往前挪。
 
@@ -72,7 +72,7 @@ source_text: ch03
 
 > **原句 4:** I was twenty-two and had been married for six tedious years to a polite man who twice a week left my belly damp and sticky. I had no idea what the appropriate thing to do was in these circumstances, my mother having told me only that my wedding night would surprise me but that nothing would happen that wasn’t completely normal, and my closest friends always shied away from disclosing secrets. After making me all wet, Ernest, my husband, would plant a kiss on my forehead, roll over and go to sleep.
 
-**中文理解**：叙述者二十二岁，已与 polite man 结婚六年，他每周两次 leave her belly damp and sticky。她 mother 只说 wedding night 会 surprise 但 nothing 不 normal，friends 也 shied away from disclosing secrets。
+**中文理解**：叙述者二十二岁，已与 polite man 结婚六年，他每周两次让她的腹部湿黏黏的。她 mother 只说 wedding night 会 surprise 但 nothing 不 normal，friends 也 shied away from disclosing secrets。
 
 **句子结构**："I was twenty-two and had been married for six tedious years to a polite man who twice a week left my belly damp and sticky" — and 连接两个谓语，who 引导定语从句；"I had no idea what the appropriate thing to do was in these circumstances, my mother having told me only that my wedding night would surprise me but that nothing would happen that wasn't completely normal, and my closest friends always shied away from disclosing secrets" — my mother having told me 为分词短语作状语，that 引导宾语从句。
 
@@ -80,13 +80,13 @@ source_text: ch03
 
 **表达方式**：用 "left my belly damp and sticky" 把 conjugal sex 写成 mundane、slightly disgusting；"polite man" 以 polite 贬低丈夫，把"礼貌"与"无趣"并置。
 
-**为什么这样写**：这是 Hortense 的 backstory——婚姻的 boring 与 ignorance。哈普曼把"性知识"的缺失写成 generation 的 collective ignorance（mother's warning, friends' silence），把 Hortense 的 later awakening 写成 rebellion against that ignorance。"polite man" 与 "tedious years" 把婚姻写成 social contract，而非 romantic union。
+**为什么这样写**：这是 Hortense 的 backstory——婚姻的 boring 与 ignorance。哈普曼把"性知识"的缺失写成 generation 的 collective ignorance（mother's warning, friends' silence），把 Hortense 的 later awakening 写成对那种无知的反抗。"polite man" 与 "tedious years" 把婚姻写成 social contract，而非 romantic union。
 
 ---
 
 > **原句 5:** Ulrich was trembling. He looked about us and could see nothing but doors. I saw them again later and expressed suitable admiration; they are made of some precious wood, carved, ornamented with silver and brass, and they open into the guest rooms. Except one plain door, half-hidden by a dark velvet curtain: my lover’s eyes lit up, he dragged me toward it and we found ourselves standing in the broom closet.
 
-**中文理解**：Ulrich trembling。他 look about，see nothing but doors。叙述者后来看到它们，expressed suitable admiration；它们由 precious wood 制成，carved, ornamented with silver and brass，open into guest rooms。Except one plain door, half-hidden by a dark velvet curtain：lover's eyes lit up，dragged her toward it，they found themselves standing in the broom closet。
+**中文理解**：Ulrich trembling。他 look about，see nothing but doors。叙述者后来看到它们，expressed suitable admiration；它们由 precious wood 制成，carved, ornamented with silver and brass，open into guest rooms。Except one plain door, half-hidden by a dark velvet curtain：lover's eyes lit up，dragged her toward it，we found ourselves standing in the broom closet。
 
 **句子结构**：多句描述。"Ulrich was trembling. He looked about us and could see nothing but doors." 短句 + "I saw them again later and expressed suitable admiration; they are made of some precious wood, carved, ornamented with silver and brass, and they open into the guest rooms." 分号连接，现在分词 carved/ornamented 作后置修饰；"Except one plain door, half-hidden by a dark velvet curtain: my lover's eyes lit up, he dragged me toward it and we found ourselves standing in the broom closet." 冒号引出 narrative shift。
 
@@ -122,7 +122,7 @@ source_text: ch03
 
 **表达方式**：用 "enables ... to discover that she loathes" 把 Ulrich 写成 catalyst，把 "loathes"（比 hates 更强）写成 discovery 的结果。
 
-**为什么这样写**：这是全篇的 thematic pivot——Ulrich 不是 romantic hero，而是 catalyst for self-discovery。"loathes her husband" 把婚姻的 boring 转化为 active hatred，把 desire 写成 knowledge 的 gateway。哈普曼把 desire 从 pleasure 转向 self-knowledge：Ulrich enables Hortense to know herself。
+**为什么这样写**：这是全篇的 thematic pivot——Ulrich 不是 romantic hero，而是自我发现的催化剂。"loathes her husband" 把婚姻的 boring 转化为 active hatred，把 desire 写成 knowledge 的 gateway。哈普曼把 desire 从 pleasure 转向 self-knowledge：Ulrich 让 Hortense 认识自己。
 
 ---
 
@@ -136,7 +136,7 @@ source_text: ch03
 
 **表达方式**：用 grammatical person shift（first → third）把 narrator's detachment 写成 craft technique；"all the more real" 把 detachment 写成 realism 的 source。
 
-**为什么这样写**：这是 meta-fictional 的 self-awareness moment——narrator 承认她正在 writing Hortense，而 person shift 是 craft decision。"all the more real" 把 craft 写成 realism 的 condition：Hortense becomes real precisely when narrator stops being her. 哈普曼把 writing process 写成 subject，把 narrator's self-awareness 写成 narrative device。
+**为什么这样写**：这是 meta-fictional 的 self-awareness moment——narrator 承认她正在 writing Hortense，而 person shift 是 craft decision。"all the more real" 把 craft 写成 realism 的 condition：Hortense 在 narrator 不再是她时反而更真实。哈普曼把 writing process 写成 subject，把 narrator's self-awareness 写成 narrative device。
 
 ---
 
@@ -164,7 +164,7 @@ source_text: ch03
 
 **表达方式**：用 "do not know" 把 narrator's uncertainty 写成 epistemic humility；"whether the affair began in a broom closet" 把 entire narrative 写成 unresolved question。
 
-**为什么这样写**：这是全篇的 final word——narrator 承认 she doesn't know whether the affair (Hortense's) began in the broom closet. 把 entire narrative 写成 "we do not know"，把 fiction 写成 uncertainty。哈普曼把 writerly authority (she wrote the story) 与 epistemic humility (she doesn't know) 并置，把 fiction's truth-status 写成 question rather than assertion。
+**为什么这样写**：这是全篇的 final word——narrator 承认她不知道 affair（Hortense 的）是否始于扫帚间。把整个叙事写成 "we do not know"，把 fiction 写成 uncertainty。哈普曼把写作权威（她写了这个故事）与认知谦逊（她不知道）并置，把 fiction 的 truth-status 写成疑问而非断言。
 
 ---
 

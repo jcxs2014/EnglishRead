@@ -48,7 +48,7 @@ source_text: ch02
 
 **句子结构**："Henriette put on the airs of a tragedy queen" 主句；"She would arrive at school looking drawn and say: 'I couldn't sleep.'" 用 would 表习惯，looking drawn 为现在分词短语作伴随状语；"So self-effacingly that all the girls immediately showered her with little kindnesses" 为 so...that 结果状语从句。
 
-**关键词**：airs of a tragedy queen（悲剧女王的派头）、looking drawn（脸色憔悴）、self-effacingly（低调地/自谦地）、showered with little kindnesses（shower with 小恩小惠）
+**关键词**：airs of a tragedy queen（悲剧女王的派头）、looking drawn（脸色憔悴）、self-effacingly（低调地/自谦地）、showered her with little kindnesses（shower with 小恩小惠）
 
 **表达方式**：用 "put on the airs of" 把 Henriette 的悲伤写成表演；"showered her with little kindnesses" 以小恩小惠的细节还原少女群体的社交 dynamics。
 
@@ -142,13 +142,13 @@ source_text: ch02
 
 > **原句 9:** Please accept my apology. But how does one speak? I thought I ought to be reasonable. To overcome my resistance, I imagined the horrors of being ostracized, everyone shunning me, the silence and losing all my friends, but it didn’t want to. What it? An incredibly powerful force made the words stick in my throat. I think I must even have opened my mouth once or twice to say them: but nothing came. I wanted to utter the expected phrase, after which they’d leave me in peace, but I was paralyzed. My body simply refused.
 
-**中文理解**："请接受我的道歉。"但怎么开口？叙述者想自己该理性。为克服抵抗，她想象被 ostracize 的恐怖——但办不到。"No." 她让老师们扮演刽子手。
+**中文理解**："请接受我的道歉。"但怎么开口？叙述者想自己该理性。为克服抵抗，她想象被 ostracize 的恐怖——但办不到。
 
 **句子结构**："Please accept my apology." 直接引语；"But how does one speak?" 疑问；"I thought I ought to be reasonable." 主句；"To overcome my resistance, I imagined the horrors of being ostracized, everyone shunning me, the silence and losing all my friends, but it didn't want to." — To overcome... 为不定式短语作目的状语，but it didn't want to 为转折；"What it?" 反问；"An incredibly powerful force made the words stick in my throat." 主句；"I think I must even have opened my mouth once or twice to say them: but nothing came." 主句 + 冒号引出 but nothing came；"I wanted to utter the expected phrase, after which they'd leave me in peace, but I was paralyzed." 主句 + after which 从句 + but 转折；"My body simply refused." 短句。
 
 **关键词**：Please accept my apology（请接受我的道歉）、how does one speak（怎么开口）、paralyzed（瘫痪/ paralyzed）、body simply refused（身体 simply 拒绝）
 
-**表达方式**：用 "But how does one speak?" 把 apology 从"意愿"推向"能力"；"My body simply refused" 把 refusal 从 choice 推向 physiology；"No." 单字成句，把 refusal 写成身体的 verdict。
+**表达方式**：用 "But how does one speak?" 把 apology 从"意愿"推向"能力"；"My body simply refused" 把 refusal 从 choice 推向 physiology。
 
 **为什么这样写**：这是全篇的 climax——叙述者的 reason（"我应该道歉"）被身体 override。哈普曼把 refusal 写成 involuntarily 的：不是 pride 的决定，而是 body 的 refusal。这把"outcast"从 choice 推向 fate，让叙述者的"pride"成为事后命名，而非事前决定。
 
