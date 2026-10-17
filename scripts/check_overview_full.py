@@ -50,9 +50,13 @@ SPAN = re.compile('`([^`\\n]{4,})`|"([^"\\n]{4,})"|“([^”\\n]{4,})”')
 # 两段**完全不可见**——实测本书 16 条，把标签改成 ch40 也照样报「0 不符」。
 # 判据：纯英文（非中文）＋ 以 `（chNN）` 收尾——`gen_overview.py` 恒把标签
 # 紧跟在引语后面，这条形态由生成器保证，不靠猜。
-SPAN_UNQUOTED = re.compile(r'([^一-鿿（\n“”"\n]{20,}?)（ch(\d{1,3})）')
+SPAN_UNQUOTED = re.compile(r'([^一-鿿（\n“”"\n]{20,}?)（ch(\d{1,3})([a-z]?)）')
 # 章节标签：`chNN`、`**出处**：chNN`、`（chNN）`
-RE_LABEL = re.compile(r'ch(\d{1,3})')
+# ⚠️ 2026-10-17：后缀字母必须捕获。本库有「插叙节」编号（ch01b/ch09b/ch15b/ch23b），
+#   旧的 `ch(\d{1,3})` 会把 `ch01b` 截成 `ch1` ⇒ 与 chapters 的键 `1b` 对不上，
+#   B 段把每一条插叙节引语都报成「标注 ch1 但引语不在该章（实为 ch1b）」。
+#   实测 The Unsolvable Case 6/6 条全是这一类假红。
+RE_LABEL = re.compile(r'ch(\d{1,3})([a-z]?)')
 # 总览 H1 语义：文件名 → H1 应含的关键词
 H1_EXPECT = {
     '概述': ['概述'],
@@ -142,7 +146,8 @@ def label_near(line, span_start, span_end):
     pre = line[max(0, span_start - 40):span_start]
     found = RE_LABEL.findall(pre)
     if found:
-        return int(found[-1])
+        num, suf = found[-1]
+        return str(int(num)) + suf    # 与 load_chapters 的键口径一致（'1' / '1b'）
     # ⚠️ 2026-10-02（The Alchemist 五步审查）：post 窗口原为 20，**会把章号切掉一位**——
     # `"…awaits him," his heart said.（ch03）` 的引语终点到 `（ch03）` 恰好 20 字符，
     # 窗口右边界落在 `ch0` 与 `3` 之间 ⇒ `ch(\d{1,3})` 吃到 `0` ⇒ 报「标注 ch0」。
@@ -157,11 +162,11 @@ def label_near(line, span_start, span_end):
     #    ② post 窗口**只认 `（chNN）` 完整形态**，不再匹配裸 `ch3`——
     #       裸章号只应出现在 pre 窗口（`出处：chNN —— "…"`），那是它的正确用法。
     post = line[span_end:span_end + 512]
-    m = re.search(r'（ch(\d{1,3})）', post)
+    m = re.search(r'（ch(\d{1,3})([a-z]?)）', post)
     if m:
-        return int(m.group(1))
+        return str(int(m.group(1))) + m.group(2)
     m = RE_LABEL.search(post)
-    return int(m.group(1)) if m else None
+    return (str(int(m.group(1))) + m.group(2)) if m else None
 
 
 def main():
@@ -275,7 +280,7 @@ def main():
                     # 恒为 False，**每一条章节标签都被误报成「标注与实章不符」**
                     # （本库实测 41/41 全红，且提示语自相矛盾：「标注 ch1 …（实为 ch1）」）。
                     # 属假红型：先修工具，不许据此改 md。
-                    if str(lab) in where:
+                    if lab in where:
                         n_label_ok += 1
                     else:
                         n_label_bad += 1
@@ -318,10 +323,10 @@ def main():
                     n_unq_skip += 1
                     continue
                 fq = flat_alpha(frag)
-                lab = int(m.group(2))
+                lab = str(int(m.group(2))) + m.group(3)   # 键口径同 load_chapters
                 if fq in allflat and chapters:
                     where = [k for k, v in chapters.items() if fq in v]
-                    if str(lab) in where:
+                    if lab in where:
                         n_unq_ok += 1
                     else:
                         n_unq_bad += 1

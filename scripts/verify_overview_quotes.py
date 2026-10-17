@@ -79,7 +79,7 @@ def extract_quotes(txt: str):
                 and not re.match(r'^>\s*\**\s*(?:原句\s*\d+|[' + CIRCLED + r'])',
                                  raw.strip())):
             b = re.sub(r'^>\s*', '', raw.strip())
-            b = re.sub(r'[（(]\s*ch\d+\s*[）)]\s*$', '', b)
+            b = re.sub(r'[（(]\s*ch\d+[a-z]?\s*[）)]\s*$', '', b)
             b = b.strip("*' \"\u201c\u201d")
             # ⚠️ 必须过 is_quoteish——否则中文说明行也会被当引语。实测
             # jane-eyre 概述:8 `> 本概述只依据本 EPUB 的正文（text/ch01–ch38）。
@@ -100,7 +100,7 @@ def extract_quotes(txt: str):
         # 而 `check_overview_full` 的 `label_near` 却认得同一种形态 ⇒
         # **两把尺口径漂移**（正是本仓库反复警告的那类）。
         # 处置：加一条**纯增量**分支（带可选章号标注），不改原有分支行为。
-        m = (re.match(r'^\*{0,2}' + circ + r'\*{0,2}[（(]\s*ch\d+\s*[）)]\s*(.+)$', s)
+        m = (re.match(r'^\*{0,2}' + circ + r'\*{0,2}[（(]\s*ch\d+[a-z]?\s*[）)]\s*(.+)$', s)
              or re.match(r'^' + circ + r'\s+(.+)$', s)
              or re.match(r'^\*{1,2}' + circ + r'\*{1,2}\s+(.+)$', s)      # **①** "..."
              or re.match(r'^\*{1,2}' + circ + r'\*{1,2}\s*["\'](.*)["\']', s)
@@ -115,7 +115,7 @@ def extract_quotes(txt: str):
         # 旧口径只剥行尾，实测 i-have-some-questions-for-you 金句:19
         # `**④** **I think the wrong guy is in prison.**（ch07）——这是全书第二次…`
         # 标签后面跟着中文点评 ⇒ 没剥 ⇒ 指纹成 `…inprisonch07` 永远查无。
-        body = re.sub(r'[（(]\s*ch\d+\s*[）)]', ' ', body)
+        body = re.sub(r'[（(]\s*ch\d+[a-z]?\s*[）)]', ' ', body)
         # 引语本体切到第一个中文字符：其后是 md 自己的点评/译文，不参与校验
         # （`…in prison.`（我认为关错人了。）**（ch07）** 就是中英混行）
         m_cjk = re.search(r'[\u4e00-\u9fff\u3000-\u303f\uff00-\uffef]', body)
