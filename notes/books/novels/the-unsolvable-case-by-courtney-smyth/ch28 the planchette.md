@@ -19,7 +19,7 @@ modified: "2026-10-17"
 
 - **中文理解**：她道歉：她很抱歉他回来了，很抱歉他没有死；但她认为 Jacob 想要 memento mori，是因为他要**杀掉** Ternion 而不是加入她们——「他那套关于开启一场新纷争的话」说的就是这个。他逼 Theodore（很可能是不情愿、甚至不知情地）带她们找到 Elisabella 的 memento mori，好让他取走并毁掉；他要毁掉 Ternion 剩下的，然后取而代之。
 - **关键词**：he's going to kill the Ternion instead of joining them · destroy it · destroy the rest of the Ternion · replace them
-- **为什么这样写**：全书的动机谜题在这里被一句话解开：前面所有「他要加入 Ternion」的假设都被推翻，凶手的目的是**清空神位**。句子用三个 destroy 递进，把「取代」写成一种流程。
+- **为什么这样写**：全书的动机谜题在这里被一句话解开：前面所有「他要加入 Ternion」的假设都被推翻，凶手的目的是**清空神位**。句子用两个 destroy 递进，把「取代」写成一种流程。
 - **读者视角提示**：把这条与 ch16 里「Ternion 以萨温鬼魂形态归来」的假设并读——两件事合起来才说得通：女神可以被杀掉，因为她们现在是鬼。
 
 > **原句 2:** I feel strangely vindicated by the whole thing, to be honest. Like all the terror was worth it, all the looking over my shoulder. All this time I’ve been waiting for him to pop back up, and he’s been out there. He’s the giant centipede that saved us in the Dollhouse Murderer case. He’s been under our feet. Hiding in plain sight.’
@@ -27,7 +27,7 @@ modified: "2026-10-17"
 - **中文理解**：「我倒觉得有点奇异的平反感，说实话。好像所有的恐惧都值了，所有那些回头张望的日子都值了。这么久以来我一直在等他重新冒出来，而他一直在外面——他就是 Dollhouse Murderer 案里救了我们那条巨型蜈蚣。他一直就在我们脚底下，藏在明处。」
 - **关键词**：strangely vindicated · all the looking over my shoulder · the giant centipede that saved us · under our feet · Hiding in plain sight
 - **为什么这样写**：让最怕 Jacob 的人说出「平反」二字，把多年的恐惧改写成「我早就知道」；而「救过我们的那条蜈蚣就是他」这一句把前作的恩情与此刻的恐怖叠在同一具身体上。
-- **读者视角提示**：注意「hiding in plain sight」——这是全书对「藏在明处」的第二次明说（第一次是 ch13 里 Theodore 说的「灰色地带」）。
+- **读者视角提示**：注意「hiding in plain sight」——这是全书对「藏在明处」的第二次明说（第一次是 ch27 里 Theodore 说的「灰色地带」）。
 
 > **原句 3:** Yes, he’s been hiding with me,’ Grey Quinn said, tipping a glass of scotch at them as he led them into a dilapidated sitting room, a fire roaring in the hearth. He was in a shabby hotel at the edge of town, a run of converted townhouses that had probably been grand once, but were now cracked and mouldering.
 

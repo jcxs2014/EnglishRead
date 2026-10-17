@@ -8,7 +8,7 @@ modified: "2026-10-17"
 ## 本章导航
 
 - **地点·时间**：11 月 1 日星期五入夜；Wrackton 街道（Mayoral Square 一带）；视角＝Mallory。
-- **一句话概括**：Wrackton 整座城空了——门开着、走廊无人、警笛宣布封锁，广场上还烧着三个字高的火字：**SHE DIDN'T START THE FIRE**，落款「NOTORIOUS T Wyatt」。三人往城里走，一路只剩无力：没有 Hexana 的星、没有 Jacob 的毛线帽、找 Blair 的小队没有回音，Mallory 终于在一条侧街的盐袋上坐下，第一次承认自己走不下去。Cornelia 留下止痛药、水和耳塞，与 Diana 去找线索；等她被扶起、接过一根从 Mrs Blackburn 家门口拿来的手杖时，Diana 的手机上跳出一条只有一个词的短信——Grey Quinn：**Help**。
+- **一句话概括**：Wrackton 整座城空了——门开着、走廊无人、警笛宣布封锁，广场上还烧着三英尺高的火字：**SHE DIDN'T START THE FIRE**，落款「NOTORIOUS T Wyatt」。三人往城里走，一路只剩无力：没有 Hexana 的星、没有 Jacob 的毛线帽、找 Blair 的小队没有回音，Mallory 终于在一条侧街的盐袋上坐下，第一次承认自己走不下去。Cornelia 留下止痛药、水和耳塞，与 Diana 去找线索；等她被扶起、接过一根从 Mrs Blackburn 家门口拿来的手杖时，Diana 的手机上跳出一条只有一个词的短信——Grey Quinn：**Help**。
 - **情感弧线位置**：从「以为大家都跑了」的自我安慰 → 看到火字时的荒诞 → 「这是绝望」的坦承 → 独坐时对自己一生的清点（她过得值得）→ 被同伴的体贴击中 → 接到那条求救短信时的骤冷。
 - **叙事手法**：本章是全书最安静的一章：没有对话推进的推理，只有一条空街、一段火字、一次独坐。作者把「倒计时」写成体力与疼痛的倒计时，并用三个短句（No Hexana star. No memento mori beanie. No response…）把绝境压成清单。
 - **线索进展**：① Theodore 在广场用火留字为她脱罪（也解释了他如何把她弄出监狱）；② 全城人消失，疑似被 Jacob 集中；③ 找 Blair 的小队没有消息；④ Morrigan 的乩板「不做点单」（只指向它自己想去的地方）；⑤ 章末：Grey 发来唯一的「Help」。
@@ -123,4 +123,4 @@ modified: "2026-10-17"
 
 ## 一句话总结
 
-Wrackton 空城了：门开着、警笛宣布封锁，广场上烧着三个字高的火字「SHE DIDN'T START THE FIRE」，落款是 NOTORIOUS T Wyatt——那是 Theodore 为她做的公开辩护。三人往城里走，一路只剩无力：没有 Hexana 的星、没有 Jacob 的毛线帽、没有 Blair 小队的回音。Mallory 在街角一只盐袋上坐下，第一次承认自己撑不下去；Cornelia 留下止痛药、水和耳塞，又带回一根从 Mrs Blackburn 家门口拿来的手杖。而当她被扶起来时，Diana 的手机上跳出一条只有一个词的短信：Grey Quinn——**Help**。
+Wrackton 空城了：门开着、警笛宣布封锁，广场上烧着三英尺高的火字「SHE DIDN'T START THE FIRE」，落款是 NOTORIOUS T Wyatt——那是 Theodore 为她做的公开辩护。三人往城里走，一路只剩无力：没有 Hexana 的星、没有 Jacob 的毛线帽、没有 Blair 小队的回音。Mallory 在街角一只盐袋上坐下，第一次承认自己撑不下去；Cornelia 留下止痛药、水和耳塞，又带回一根从 Mrs Blackburn 家门口拿来的手杖。而当她被扶起来时，Diana 的手机上跳出一条只有一个词的短信：Grey Quinn——**Help**。

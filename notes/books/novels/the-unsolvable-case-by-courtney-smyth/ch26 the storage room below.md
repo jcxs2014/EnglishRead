@@ -19,7 +19,7 @@ modified: "2026-10-17"
 
 - **中文理解**：如果 Diana Cheung-Merriweather 有什么长处，那就是经营人脉；如果还有第二个长处，那就是把这张人脉网里的成员哄得去做她要他们做的事。
 - **关键词**：good at doing · networking · sweet-talking members of that network · into doing what she wanted
-- **为什么这样写**：用两个并列的「长处」给 Diana 定性，也顺手把「说服」写成一门手艺——本章正是靠她这门手艺才拿到进入许可。
+- **为什么这样写**：用两个并列的「长处」给 Diana 定性，也顺手把「说服」写成一门手艺——她们能进 Rowan House，是因为官方名册漏了更新（Undetectables 仍留在获准名单上）；HQ 权限则来自 Lucy 的恻隐。
 - **读者视角提示**：记住这个设定：后面每一次「有人愿意帮她们」都不该被当成巧合，而是 Diana 的社交资本在兑现。
 
 > **原句 2:** Lucy unlocked the door to Rowan House and ushered them inside, sleep rumpled and mildly alarmed by the Undetectables’ presence – apparently the Wrackton bulletins had reached Cumbria, and she knew Mallory was wanted for crimes she had not committed. She also knew they were due to die, and had immediately taken pity on them.
@@ -34,7 +34,7 @@ modified: "2026-10-17"
 - **中文理解**：「我还是想试着为几个可怜的快死的人做点什么，」Lucy 狠狠地说。
 - **关键词**：I'm just trying to do something nice for some poor dying people · fiercely
 - **为什么这样写**：把「违规帮忙」说成一次微不足道的善举，语气却凶——这种「用怒气表达善意」的写法，让配角在几句话里就有了骨头。
-- **读者视角提示**：她随后提到「Broadwicks 也许会在有人穿门而过时被告知」——这条细节为后面「Broadwicks 打开 bunker」埋下因果。
+- **读者视角提示**：她此前已提到「Broadwicks 也许会在有人穿门而过时被告知」——这条细节为后面「Broadwicks 打开 bunker」埋下因果。
 
 > **原句 4:** Mallory nodded, despite that not being strictly true. The prospect of the spiral death-trap staircase down to the underground Ghoul Council HQ was a lot for her, even when fortified by the three cups of tea Lucy had made for her since stepping over the threshold of Rowan House (some habits, it seemed, were unbreakable).
 

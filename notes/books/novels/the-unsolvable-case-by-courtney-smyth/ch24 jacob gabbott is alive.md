@@ -66,7 +66,7 @@ modified: "2026-10-17"
 
 > **原句 8:** ‘Sorry about that. Yes! Yes, we likely have an end to… expiration. I need three things. Two, actually, because you already have one.’
 
-- **中文理解**：「我需要三样东西。其实是两样，因为其中一样你已经有了。」
+- **中文理解**：「抱歉刚才那样。是的！是的，我们大概有办法终结……那个『终结』。我需要三样东西。其实是两样，因为其中一样你已经有了。」
 - **关键词**：I need three things · Two, actually · because you already have one
 - **为什么这样写**：用一句清单式台词把全章的散乱收成一个任务：她将参与一场需要材料的仪式；而「你已经有了」暗示那件东西一直在她手里（很可能就是那颗灯泡、或那封信、或她自己）。
 - **读者视角提示**：章末她只回「我需要一部电话」——她要先联系同伴。这句也提醒读者：她现在是个逃犯，连打电话都要借。

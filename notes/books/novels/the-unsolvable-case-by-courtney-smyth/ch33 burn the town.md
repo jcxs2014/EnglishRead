@@ -66,7 +66,7 @@ modified: "2026-10-17"
 
 > **原句 8:** He had no desire to press too hard. Either Grey wanted him in there, or he didn’t. Desperation aside, he would not use anyone for his own gain.
 
-- **中文理解**：「别太用力，」Theodore 在脑子里说，「请把门打开。」——他并不想硬推：要么 Grey 愿意让他进去，要么不愿意。抛开绝望不谈，他不会为了自己的好处去利用任何人。
+- **中文理解**：他没有硬推的意思——要么 Grey 愿意让他进去，要么不愿意；他心里真正说的是「请把门打开」——他并不想硬推：要么 Grey 愿意让他进去，要么不愿意。抛开绝望不谈，他不会为了自己的好处去利用任何人。
 - **关键词**：He had no desire to press too hard · Either Grey wanted him in there, or he didn't · he would not use anyone for his own gain
 - **为什么这样写**：把「附身」这个此前只属于反派的动作，交给主角并加以限制：他可以进去，但必须先被邀请。这一条自设的界线，正是他与 Jacob 的分野。
 - **读者视角提示**：注意 Grey 随后「打开了那扇隐喻的门」——这是全书对信任最直白的一次具象化。

@@ -54,7 +54,7 @@ modified: "2026-10-17"
 
 - **中文理解**：「这个世界总会有灰色地带，也总会有看起来非常像怪物的人。」——但 Mallory 学会了跟随自己的心。她骗过了死亡，也学会了开口要自己想要的东西；她学会了不因为疼痛而责备自己；最终，她学会了生活。
 - **关键词**：There would always be a grey area in the world · people who looked an awful lot like monsters
-- **为什么这样写**：把全书的主题句放在最后一章：世界永远有灰色地带（呼应 ch27 那句「我们身处灰色地带」），而她学会了在其中生活；三个「learned」排比完成人物弧线的收束。
+- **为什么这样写**：把全书的主题句放在最后一章：世界永远有灰色地带（呼应 ch27 那句「我们身处灰色地带」），而她学会了在其中生活；四个「learned」排比（跟随本心／开口要想要的／不因疼痛责备自己／最终学会生活）完成人物弧线的收束。
 - **读者视角提示**：注意她说的是「学会生活」而不是「活下来」：这是全书对 Mallory 这个人物最后的定义。
 
 > **原句 7:** Dr Hawthorne, have you ever looked into the formation of the tunnels in Wrackton?’ she asked, without any preamble. ‘They end in bunkers, but the bunkers form a shape – a sigil.’

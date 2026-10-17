@@ -48,7 +48,7 @@ modified: "2026-10-17"
 - **中文理解**：Theodore 讥讽道：「行吧，只要你开心就好。当然，我会把我这唯一珍贵的一次「不死」用来推进你的事业，但最重要的是我这位伟大且绝对仁慈的捕获者满意了。」
 - **关键词**：as long as you're happy, that's all that matters · my one precious unlife · my great and definitely benevolent captor
 - **为什么这样写**：全章最像 Theodore 的一句反讽：用「绝对仁慈」这种夸张的敬语去骂人，把恐惧包进礼貌里；这也是他在这段关系里唯一还能保住的武器。
-- **读者视角提示**：他骂完立刻在心里提醒自己「be nice, be contrite」——讽刺是他的反抗，服从是他的生存。
+- **读者视角提示**：他在开口前就在心里提醒自己「be nice, be contrite」——讽刺是他的反抗，服从是他的生存。
 
 > **原句 6:** Surely you read the note I left for your little friends?’
 

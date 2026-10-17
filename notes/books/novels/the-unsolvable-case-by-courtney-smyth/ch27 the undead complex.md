@@ -40,8 +40,8 @@ modified: "2026-10-17"
 
 - **中文理解**：「通常，当一个和已知连环杀手串通的人建议你进入『第二地点』时，你该考虑别去，」Cornelia 抱着手臂说。
 - **关键词**：usually when someone in cahoots with a known serial killer · suggests you enter a secondary location · one should consider not doing that
-- **为什么这样写**：让 Cornelia 用「安全常识」说出全书最准确的怀疑：她不是在开玩笑，而是在替读者把 Theodore 的可疑之处点名。
-- **读者视角提示**：注意她随后仍跟着进去了——这不是轻信，而是没有别的选择。
+- **为什么这样写**：让 Cornelia 用「安全常识」说出全书最准确的怀疑：他们不是在开玩笑，而是在替读者把 Theodore 的可疑之处点名。
+- **读者视角提示**：注意他们随后仍跟着进去了——这不是轻信，而是没有别的选择。
 
 > **原句 5:** Not very nice,’ Terror Voice said, and Theodore froze at the sound of it. The voice came from Jacob Gabbott, present in the flesh.
 
@@ -61,7 +61,7 @@ modified: "2026-10-17"
 
 - **中文理解**：他从未自由过。他犯了一个错误。他把她们带进了陷阱。
 - **关键词**：He'd never been free · He’d never been
-- **为什么这样写**：三个短句、三次自我判决，节奏近乎锤击；这也是全书对 Theodore 这条线最集中的一次清算——他此前所有的自我安慰在这里被自己推翻。
+- **为什么这样写**：这一句是全章对 Theodore 最集中的一次自我判决；紧随其后的两个短句（他犯了一个错误／他把她们带进了陷阱）把这份判决补全，节奏近乎锤击——他此前所有的自我安慰在这里被自己推翻。
 - **读者视角提示**：注意这三句之前是他对「她（Her）从未这样对我」的辩解：他清楚地知道 Jacob 与 Her 的区别在于暴力的方式。
 
 > **原句 8:** Mallory… we’re in the grey, now,’ he said emphatically. ‘It’s where we’ve been hiding all along.’

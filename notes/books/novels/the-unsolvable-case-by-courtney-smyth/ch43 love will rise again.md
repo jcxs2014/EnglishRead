@@ -24,8 +24,8 @@ modified: "2026-10-17"
 
 > **原句 2:** He reached down to his pocket and pulled out his familiar pocket watch, twirling it. Theodore knew what it said on the back.
 
-- **中文理解**：他抬手把那只熟悉的怀表从口袋里掏出来转了转。Theodore 知道表背上写着什么。**Love will rise again**。一件 memento mori。
-- **关键词**：his familiar pocket watch · Theodore knew what it said on the back · He reached down
+- **中文理解**：他抬手把那只熟悉的怀表从口袋里掏出来转了转。Theodore 知道表背上写着什么——那行字是一句誓言，也正是让这只怀表成为 memento mori 的原因。
+- **关键词**：his familiar pocket watch · Theodore knew what it said on the back
 - **为什么这样写**：全书最漂亮的一次「道具回收」：怀表的刻字从一件旧情物变成他复活的机制；而「爱会再次升起」这句话既是 Hollis 的伏笔，也是对本章主题的直陈。
 - **读者视角提示**：注意 Theodore 早就知道那行字——说明他关注这只表很久了。
 
@@ -118,4 +118,4 @@ modified: "2026-10-17"
 
 ## 一句话总结
 
-Grey 以萨温鬼魂的形态回来了：怀表是他的 memento mori，表背刻着「Love will rise again」——Hollis 埋下的伏笔。两人第一次真正用心灵对话，Theodore 问出「我们算什么」，Grey 只眨眼不答。随后他在台阶上向 Mallory 做了一次完整的道歉，把 lightbulb 递出去等死；Mallory 没有接，只说他处在「无法立足的位置」，并答应为他留出时间。章末她转身，留下一句：「I love you.」
+Grey 以萨温鬼魂的形态回来了：怀表是他的 memento mori——表背刻着一行字：爱会再次升起。——Hollis 埋下的伏笔。两人第一次真正用心灵对话，Theodore 问出「我们算什么」，Grey 只眨眼不答。随后他在台阶上向 Mallory 做了一次完整的道歉，把 lightbulb 递出去等死；Mallory 没有接，只说他处在「无法立足的位置」，并答应为他留出时间。章末她转身，留下一句：「I love you.」

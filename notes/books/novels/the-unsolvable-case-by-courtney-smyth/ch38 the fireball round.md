@@ -116,4 +116,4 @@ modified: "2026-10-17"
 
 ## 一句话总结
 
-Grey 死后，Jacob 捡起戒指宣布「三件拿到两件」，随即开出「火球回合」：谁烧了 Hayley 的尸体？Mallory 说出那个她压抑已久的答案——Theodore Wyatt，一个想帮忙却用错方法的人。作为「奖励」，Jacob 把火球砸向纪念碑，烧掉了 Theodore 的骸骨和他变回人的唯一机会。接着 Tate 持刀在人群中逼人效忠：Agatha 与 Ethel 屈服，而 Ezra 与 Imogen 说「不」与「绝不」，随即被杀。全场只剩沉默与血。最后 Theodore 走到广场中央，一句「巨型潮虫，请履行你的职责」把 Jacob 引了过来——「我觉得你在拖延时间，」Jacob 说，话未落，地面裂开了。
+Grey 死后，Jacob 捡起戒指宣布「三件拿到两件」，随即开出「火球回合」：谁烧了 Hayley 的尸体？Mallory 说出那个她压抑已久的答案——Theodore Wyatt，一个想帮忙却用错方法的人。作为「奖励」，Jacob 把火球砸向纪念碑，烧掉了 Theodore 的骸骨和他变回人的唯一机会。接着 Tate 持刀在人群中逼人效忠：Agatha 与 Ethel 屈服，而 Imogen 说「不」、Ezra 说「绝不」，随即被杀。全场只剩沉默与血。最后 Theodore 走到广场中央，一句「巨型潮虫，请履行你的职责」把 Jacob 引了过来——「我觉得你在拖延时间，」Jacob 说，话未落，地面裂开了。

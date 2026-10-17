@@ -31,7 +31,7 @@ modified: "2026-10-17"
 
 > **原句 3:** He tried not to think of the implications – of the fact two people had died to form this woodlouse, that they were somewhere inside this creature, or the fact he had no idea if they were as sentient as centipede-Jacob, nor had he enough time to figure it out, or indeed of the fact he had done the whole thing entirely against his will.
 
-- **中文理解**：他努力不去想这件事的含义：两条人命构成了这只潮虫，他们此刻就在这具躯体里的某处；他不知道自己是否能像「蜈蚣里的 Jacob」那样与人共存；他也没有时间去弄清楚——更别提，这一切完全违背他的意愿。
+- **中文理解**：他努力不去想这件事的含义：两条人命构成了这只潮虫，他们此刻就在这具躯体里的某处；他不知道自己能否弄清木虱体内那两个魂是否像蜈蚣里的 Jacob 一样有意识；他也没有时间去弄清楚——更别提，这一切完全违背他的意愿。
 - **关键词**：two people had died to form this woodlouse · they were somewhere inside this creature · entirely against his will
 - **为什么这样写**：把「造物」的代价写得具体：不是概念上的牺牲，而是两个有名有姓的人被封在一只潮虫里；「违背意愿」四字则替他保住了最后一点道德位置。
 - **读者视角提示**：注意他给潮虫取名 Roly、跟它打招呼——这不是残忍，而是一种应对机制：他必须把它当宠物，才不必去想里面的人。

@@ -19,7 +19,7 @@ modified: "2026-10-17"
 
 - **中文理解**：她拄着手杖，跟着人群边缘走：既感激这份支撑，又恼自己怎么没早点想到——如果她早一点不再听脑子里那个「靠人扶就是认输」的声音，早一点在该需要支撑的时候接受支撑，她的人生本来可以轻松很多。
 - **关键词**：leaned on the cane · grateful for the support and annoyed at herself · the voice in her head that told her she was giving in · By taking the support she needed, when she needed it
-- **为什么这样写**：全书最安静的一次自我修正：她把「不接受帮助」认成一种内化的训诫；这句话也回收了 ch34 里 Cornelia 递手杖的那一幕，让一件道具变成一次成长。
+- **为什么这样写**：全书最安静的一次自我修正：她把「不接受帮助」认成一种内化的训诫；这句话也回收了 ch34 里 Diana 递手杖的那一幕，让一件道具变成一次成长。
 - **读者视角提示**：这段是 Mallory 全书弧线的落点之一：她要学的不是更强，而是允许自己被扶。
 
 > **原句 2:** ‘Both,’ Cornelia and Mallory whispered in unison.
@@ -54,7 +54,7 @@ modified: "2026-10-17"
 
 - **中文理解**：一具骸骨被吊在纪念碑的双手之间，双臂伸向天空，身体处于腐败的后期。它穿着一件紫色短袍，下摆缀着星星，那件袍子恶心地像是 Observer Johnson 的。然而它太小、也烂得太厉害，不可能是 Johnson：从外观判断，死者至少已故八年，而且比 Mallory 矮——大约五尺四到五尺七之间。看起来，头上配一对猫耳正合适。
 - **关键词**：a skeleton suspended from the hands of the Memorial · a short purple robe · The crowd surged · crowd surged and
-- **为什么这样写**：全章最冷的一段：作者不写名字，只写尺寸、腐烂程度与衣着，让读者比 Mallory 早一步认出那是 Theodore 的遗体；「猫耳正合适」这句话既是确认，也是全书最残忍的玩笑。
+- **为什么这样写**：全章最冷的一段：作者不写名字，只写材质与衣着；紧随其后两段再补上尺寸与腐烂程度——死者至少已故八年、比 Mallory 矮、约五尺四到五尺七——让读者比 Mallory 早一步认出那是 Theodore 的遗体；「猫耳正合适」这句话既是确认，也是全书最残忍的玩笑。
 - **读者视角提示**：记住这具骸骨：它是「Theodore 死在八年前」这条事实的物证，也是终局里「身体」与「灵魂」分离的具象。
 
 > **原句 7:** I see you got my invite to the party of the year,’ Jacob said, smiling. ‘And by that I mean, you followed the trail of empty houses. Good, good! Just as well, because you’re the entertainment. Sandi’s been keeping the crowd warm for you. Don’t worry, I’ll give you a few minutes to set up. Sorry there’s no green room, but we do what we can! I’ll help her vamp with the audience, although they’re all rather sedate, wouldn’t you say?’

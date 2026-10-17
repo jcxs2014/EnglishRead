@@ -61,7 +61,7 @@ modified: "2026-10-17"
 
 - **中文理解**：「他在 diorama 侧面写了 Halloween。真的写上去了，永久性的！但 een 被划掉了。」
 - **关键词**：written Halloween on the side of the diorama · Permanently · een is crossed out
-- **为什么这样写**：一个「被划掉两个字母」的小动作，把整条线索交给读者自己补全——Hallow（圣）+ een 被划掉＝Mount Hallow。这种「让读者先于角色半步」的设计，读者会有参与的满足。
+- **为什么这样写**：一个「被划掉三个字母」的小动作，把整条线索交给读者自己补全——Hallow（圣）+ een 被划掉＝Mount Hallow。这种「让读者先于角色半步」的设计，读者会有参与的满足。
 - **读者视角提示**：注意 Kingston 随后低声说出 Mount Hallow 时的语气（softly）：他知道那地方意味着什么，而全书对 Vampire Wars 的回避机制也让这个词几乎说不出口。
 
 > **原句 8:** I know what he was trying to tell us,’ Mallory said breathlessly. ‘Diana, where were the witchlights? On the diorama.’

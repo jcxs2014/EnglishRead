@@ -11,7 +11,7 @@ modified: "2026-10-17"
 - **一句话概括**：Mallory 用最后十六分钟完成结案陈词：凶手是 **Hexana**（她借代理杀了 Theodore），而 **Elisabella 早已不是 Ruth Montrose——她被 Morrigan 附身**。真相层层剥开：三姐妹为「让魔法不死」而设局、Morrigan 教她们制造战争再终结它、Ternion 玻璃封住了全世界的记忆；而 Jacob 的「知识」其实来自一本漫画（Hollis Hadley 的 *Undead Complex*）。最后 Jacob 掰断 death blade、放出七条灵魂，试图吞掉 Elisabella，却只杀掉了 Ruth 的残余；Hexana 亮出那顶毛线帽，弹指点火。
 - **情感弧线位置**：从「终于破了」的释然 → 指认 Hexana 时的歉意 → 得知凶手是「自己人」的震动 → Morrigan 真身出现时的敬畏 → 听姐妹讲科研往事时的着迷 → Jacob 的荒诞（漫画、Plan Q）带来的嘲讽 → 章末点火时的决断。
 - **叙事手法**：全章几乎是一场**公开结案陈词**，由 Mallory 主讲、三位女神与 Jacob 轮流打断；作者用「十六分钟 / 十分钟 / 八分钟 / 三分钟」的倒计时打点，把长对话切成数段；最荒诞的一笔（Jacob 的知识来源是漫画）放在最紧张处，既解构了反派的「天才」形象，也解释了他为何漏洞百出。
-- **线索进展**：① Theodore 死于 Hexana 的代理之手（她借 Van Doren 执行，原本要借 Grey）；② Hexana 曾在 Office 隧道里与 Jacob 通信（以「远房姑祖母」身份）；③ **Elisabella＝被 Morrigan 附身的 Ruth Montrose**（Ruth 自愿让出身体）；④ Morrigan 与 Hecate 是「Hallowed Ones」，曾世代借女巫之身行走人间；⑤ Ternion 玻璃是 Morrigan 让她们设下的遗忘咒载体；⑥ Jacob 的 Necromancy 知识来自 Hollis Hadley 的漫画 *Undead Complex*；⑦ Jacob 的真正目的：反向解除 Besiegement、夺回自己的身体、「治愈死亡」；⑧ 三姐妹否认他的「血统权利」——「Family has always been about choice」；⑨ Jacob 掰断 death blade、七魂扑向 Elisabella，只杀死了 Ruth 的残余；⑩ Hexana 点火烧 his beanie。
+- **线索进展**：① Theodore 死于 Hexana 的代理之手（她借 Van Doren 执行，原本要借 Grey）；② Hexana 曾在隧道里写信给 Jacob 的父亲（父亲以为自己在与一位远房姑祖母通信，Jacob 读过那些信）；③ **Elisabella＝被 Morrigan 附身的 Ruth Montrose**（Ruth 自愿让出身体）；④ Morrigan 与 Hecate 是「Hallowed Ones」，曾世代借女巫之身行走人间；⑤ Ternion 玻璃是 Morrigan 让她们设下的遗忘咒载体；⑥ Jacob 的 Necromancy 知识来自 Hollis Hadley 的漫画 *Undead Complex*；⑦ Jacob 的真正目的：反向解除 Besiegement、夺回自己的身体、「治愈死亡」；⑧ 三姐妹否认他的「血统权利」——「Family has always been about choice」；⑨ Jacob 掰断 death blade、七魂扑向 Elisabella，只杀死了 Ruth 的残余；⑩ Hexana 点火烧 his beanie。
 
 ## 精读
 

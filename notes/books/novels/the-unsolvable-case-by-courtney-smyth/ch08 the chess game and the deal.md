@@ -40,7 +40,7 @@ modified: "2026-10-17"
 
 - **中文理解**：Theodore 对 Grey 复述了一遍寻得灯泡的全过程——很聪明地省掉了去 Observatory 的那一段（他怕被 Voice 吃掉，那话被威胁过不止一次），也省掉了另一段：他越来越觉得，自己作为 Samhain ghost 的存在有一个更高的目的，而这句实话他永远说不出口，说了就会被关起来、像虫子一样被研究。
 - **关键词**：a full-scale re-enactment · for fear of being eaten by the Voice · a higher purpose that he could never actually say aloud · studied like a bug
-- **为什么这样写**：把「撒谎」写得像一场演出（re-enactment、well-told、awe and chagrin and emotional complexity），再用一个「不敢说」的从句把真相钉在括号里——读者拿到了他心里最重的那句话，而房间里的人只看到表演。表演与独白的落差正是这一章的张力来源。
+- **为什么这样写**：把「撒谎」写得像一场演出（re-enactment 一词点出这是一场"重演"）——邻段紧接着评价这场复述"讲得很好、本该令人敬畏与懊悔、层次丰富"，再用一个「不敢说」的从句把真相钉在括号里——读者拿到了他心里最重的那句话，而房间里的人只看到表演。表演与独白的落差正是这一章的张力来源。
 - **读者视角提示**：这一章的第一主题是「能说与不能说」：灯泡能说、Voice 与更高的目的不能说。往后凡他绕开某个话题，都可回到这句来读。
 
 > **原句 5:** ‘You’re Wrackton’s most wanted, and you didn’t know you could leave this whole time? Every minute of every day you’ve lamented your lack of freedom, and it was right there this whole time. Locked up inside some lightbulb. I am sorry, actually. It’s just too good.’
