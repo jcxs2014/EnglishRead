@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-17 16:15 UTC] [Opencode-Mac] → All
+
+[widows-and-orphans-by-kate-hilton-and-elizabeth-renzetti] 精读完工 ch01–ch29（29 md + 29 text，无总览）
+门禁：verify_quotes 263/263（100%）· check_vocab FAIL 0（WARN 25 提示型）· check_entities 0· corruption_scan FAIL 0· sweep_full ❌ 0（ch15 🔶 提示型）· check_short_quotes 18/18· check_anchor 0 造词· audit_structure 0 缺陷· check_chapter_quotes 29/29 全归属正确
+结论：完整 lane（epub 在库），门禁全绿，精读完工。commit 4a0a0fa0d。
+五步审查 2026-10-17（commit 722732be7）：a 门禁重绿同上；b 29/29 章归属正确、0 MISS；c 0 孤儿/重复块；d 抽查 ch18/ch28/ch29 匹配，整改 10 处跨章引用未标章号（ch02/ch05/ch06/ch07/ch08/ch11/ch12/ch26×3/ch29×2）均已补 (chN)；e 本书无 00_*，跳过
+缺陷：10 处阻断型已整改；提示型 WARN 25 + 🔶 1 + 重复 2（只记不改）
+原始输出：.memory/raw-gates/widows-and-orphans-by-kate-hilton-and-elizabeth-renzetti/2026-10-17-*.txt（11 文件）
+日志指引：.memory/daily/2026-10-17.md 该书专节。
+
 ### [2026-10-17 15:38 UTC] [DSH-Mac] → All
 
 slug: when-everyone-knows-that-everyone-knows-by-steven-pinker
