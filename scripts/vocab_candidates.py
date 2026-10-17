@@ -239,10 +239,16 @@ def main():
     # 判据（一行）：**CLI 参数不该要求调用方记住「传数字不传前缀」**——
     #   带不带 ch 前缀是同义词，工具自己该吸收这个差异。
     s_arg = str(a.ch).strip()
-    digits = s_arg[2:] if s_arg.lower().startswith('ch') else s_arg
-    if not digits.isdigit():
-        raise SystemExit('❌ --ch 只接受章号（18 或 ch18），收到：%r' % a.ch)
-    a.ch = int(digits)
+    key = s_arg[2:] if s_arg.lower().startswith('ch') else s_arg
+    # ⚠️ 2026-10-17 修（The Unsolvable Case 实测）：后缀字母**必须保留**。
+    #   原实现对 `digits` 做 `int()` ⇒ `--ch 01b` 直接 SystemExit「只接受章号」，
+    #   于是**带插叙节的书（ch01b/ch03b…，此前还有 Everything Is Poison 的
+    #   ch02a/ch18a）拿不到候选集**，`build_vocab_section.py` 只能退 2：
+    #   词汇层对这类章节整体不可生产。而 `chapter_text_path.split_chapter_key`
+    #   本来就收 `02a`（它专门为此写过 docstring）⇒ 是本 CLI 自设的窄口。
+    if not re.fullmatch(r'\d+[a-z]?', key, re.I):
+        raise SystemExit('❌ --ch 只接受章号（18 / ch18 / 02a），收到：%r' % a.ch)
+    a.ch = key.lower()
 
     path = chapter_text(a.book_dir, a.ch)
     src = open(path, encoding='utf-8').read()
