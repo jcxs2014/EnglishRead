@@ -26,7 +26,7 @@ modified: "2026-10-17"
 
 - **中文理解**：八年前，他们在 Theodore 的凶案现场发现了一盏熄灭的 witchlight。他们不是第一批知道 witchlight 可以用于移动的人——显然有人告诉过 Jacob，因为他在 Whistler 案里又用了一次——但他们是第一批「有机地」撞见它的人，至少是第一批必须上报 Ghoul Council 的人。那盏灯不只是凶手的逃生门，它是一张名片。
 - **关键词**：an extinguished witchlight · weren't the first ones to know about witchlight travel · it was a calling card
-- **为什么这样写**：从一件最早出现的证物（ch01 的灯）出发，把整本书的因果链一次拉直；「名片」这个词把凶手的傲慢写成了可读的物证。
+- **为什么这样写**：从一件最早留下的证物（ch10 现场那盏熄灭的 witchlight）出发，把整本书的因果链一次拉直；「名片」这个词把凶手的傲慢写成了可读的物证。
 - **读者视角提示**：这正是「答案一直在眼前」的实证：第一幕就摆出来的东西，最后一章才被读懂。
 
 > **原句 3:** A warning,’ Hexana corrected. ‘Should Elisabella return to Wrackton. A warning that I was still powerful. That things went wrong, but could be righted.’

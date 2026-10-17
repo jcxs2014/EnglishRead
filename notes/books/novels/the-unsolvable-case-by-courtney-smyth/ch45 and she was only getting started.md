@@ -10,7 +10,7 @@ modified: "2026-10-17"
 - **地点·时间**：八年后；Wickermere 的 Rowan House（魔法法证学校）、Bonemarrow Lake 码头、镇上；视角＝Mallory。
 - **一句话概括**：八年后的世界：Mallory 在 Rowan House 教授魔法法证学，Cornelia 研究昆虫、Diana 做现场重建，Theodore 与 Grey 以「鬼魂／神」的身份参与教研并继续互相读心；Taylor 与 Diana 订婚，Sully 被判无罪后转向社区外展，Dr Ray 接掌 Ghoul Council。昔日三人组在 Wickermere 扎了根。章末，一名年轻吸血鬼学生带着一张地图走进办公室：Wrackton 地下的 bunker 与隧道连成一个**五芒星**，尖端指向 Mount Hallow；她还提出一个更大的问题——Morrigan 的遗骸已被掘出、官方认定死亡，可 **Hecate 就这样消失了**。
 - **情感弧线位置**：从平静的教书日常 → 与旧友重聚的松弛 → 对「我们居然活下来了」的感慨 → 章末被新案子点燃的兴奋（「她才刚刚开始」）。
-- **叙事手法**：全书唯一的「多年后」尾声：用一次普通的午后把所有人的结局交代完（谁在哪、做什么、和谁在一起）；开篇那句「Once upon a time…」与 ch01 的第一句形成镜像（vowed to cheat death → lived to tell the tale）；结尾用一个新谜题开启续作空间。
+- **叙事手法**：三个收束章里时间跨度最大的那一个：用一次普通的午后把所有人的结局交代完（谁在哪、做什么、和谁在一起）；开篇那句「Once upon a time…」与 ch01 的第一句形成镜像（vowed to cheat death → lived to tell the tale）；结尾用一个新谜题开启续作空间。
 - **线索进展**：① 三人在 Wickermere 定居，开设魔法法证学校，首届招收 Apparent 学生；② Theodore 与 Grey 仍在一起，保持心灵感应；③ Taylor 与 Diana 订婚；④ Sully 无罪，转向社区项目；Dr Ray 成为 Ghoul Council 首脑；⑤ Wrackton 旅游经费被转投 Wickermere；⑥ **新案**：bunker 与隧道构成五芒星，指向 Mount Hallow；⑦ **Hecate 失踪**——官方认定 Morrigan 已死，但 Hecate 下落不明。
 
 ## 精读

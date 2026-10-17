@@ -55,7 +55,7 @@ modified: "2026-10-17"
 - **中文理解**：「所有这一切的时间里，我的星就在那儿，」Hexana 说，「我本可以让任何靠近我的灵魂把它拿来。我随时都能找到通往隧道的路。通往自由。」
 - **关键词**：my star was just… there · any soul who ventured near me · To freedom
 - **为什么这样写**：让被困两百年的女神自己说出「钥匙一直在门口」：这是全书对「答案就在眼前」主题的最后一次回收，也让她的悲剧有了具体的形状。
-- **读者视角提示**：这盏灯是全书的第一个物件（ch01 熄灭的 witchlight），也是最后一个被认出的答案。
+- **读者视角提示**：这盏灯的真正身份直到本章才被认出——ch10 现场那盏熄灭的 witchlight 一直躺在证据里没人读懂。
 
 > **原句 7:** I tried at every turn to do the right thing. I promise you that, for whatever it’s worth.’
 

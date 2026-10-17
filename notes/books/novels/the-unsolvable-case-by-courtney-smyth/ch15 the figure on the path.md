@@ -26,7 +26,7 @@ modified: "2026-10-17"
 
 - **中文理解**：他求它停下：别在我脑袋里不停念叨、把我的私人念头当成信件来读、对我大喊大叫、命令我做这做那。
 - **关键词**：yammering in my head · reading my personal private thoughts · telling me what to do
-- **为什么这样写**：这是 Theodore 第一次把「被侵入」讲得如此具体（读信件、下命令），也让读者理解他为何把 Voice 称为「酷刑」而不是「幻觉」。
+- **为什么这样写**：这是 Theodore 第一次把「被侵入」讲得如此具体（读信件、下命令），也让读者理解他为何把 Voice 视为一种折磨而不是「幻觉」。
 - **读者视角提示**：他把「被读心」放在第一位，「被命令」放在最后——他最怕的不是失去自由，而是被看穿。
 
 > **原句 3:** He wanted so badly to smash it. Smash it, reveal himself, end this whole thing.

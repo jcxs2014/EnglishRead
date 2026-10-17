@@ -68,7 +68,7 @@ modified: "2026-10-17"
 
 - **中文理解**：「当 Besiegement 的条款落在我身上时，你称我为『她』。现在那已经不正确了。那个人并不存在——其实从来就不存在。因为我容纳着多重：我不是你们所 Besieged 的那个 Cornelia Broadwick。」
 - **关键词**：you referred to me as "she". Which is now incorrect · That person doesn't exist · I contain multitudes · I am not the Cornelia Broadwick you Besieged
-- **为什么这样写**：把代词与身份写成法律漏洞：这不是文字游戏，而是一个人对自己存在方式的正式声明；而「I contain multitudes」这句从 ch05 起反复出现的台词，在这里成了抗辩的核心。
+- **为什么这样写**：把代词与身份写成法律漏洞：这不是文字游戏，而是一个人对自己存在方式的正式声明；而「I contain multitudes」这句在 ch14 与 ch26 都出现过的台词，在这里成了抗辩的核心。
 - **读者视角提示**：这是全书对 Cornelia 这个人物最完整的一次确认：她不是「被写错的人」，而是「从未被写对过」。
 
 ## 本章词汇
