@@ -12,7 +12,24 @@ check_entities.py — 故事梗概实体一致性检测
 
 白名单：作者行、书名行、常见英文虚词/称谓、(可选) 书目录 whitelist.txt。
 局限（诚实声明）：只能抓实体级硬伤，抓不了"人物对但事件编造"，那部分靠人工抽检。
-退出码：存在 fail 则非 0。
+退出码：存在 fail 则 1；**抽 0 个梗概段则 2（❓ 无法判定），不是 0**。
+
+⚠️ 2026-10-18 堵「真空绿」：本工具此前在**一个梗概段都没抽到时照样打印
+「0 个文件存在未知实体」并 exit 0** —— 报告读起来是「核过了、干净」，
+实际是**一节都没进扫描集**（静默跳过型假绿 = AGENTS 三档分类缺的第四档）。
+全库实测 487 个书目录中 **108 本抽 0 段**：non-fiction 65 / short-story-antheses 30 /
+novels 10 / mystery-thriller 3。根因是口径只认 4 个 H2 标题
+（`故事梗概|本章导航|本篇导航|梗概`），而库里主流形态是 **`概览`（1,962 处）**、
+`全书梗概`（313）、`论证结构`（1,150，非虚构专用），另有 30 本短篇合集用
+`概览` + `一句话总结` 体例。
+  ⇒ 现改为 exit 2 + 「❓ 无法判定」并列出该书实际出现的 H2 标题（与
+    `verify_quotes` 无 epub 时「退出码 2 + ❓ 无法判定，不产出计数」同口径）。
+⚠️ 同日实测过「扩口径到 概览/全书梗概」并**否决**：0→真空绿的书可从 108 降到 15，
+但报错文件数从 **232 涨到 969**（95 本由绿转红），新增报错大量是设计外的噪声——
+`we-the-people` 报 `ISBN`/`Liveright Publishing Corporation`/`Norton`、
+`black-is-the-body` 报 `ISBN`/`Borzoi Books`、`stet-an-editors-life` 报
+`Grove Press`/`Granta Publications`。本工具的设计目的是抽**故事人名地名**，
+出版信息不在其内 ⇒ 扩口径须先做一轮噪声剔除，**不与「堵真空绿」混做**。
 """
 import re, sys, glob, os
 
@@ -85,6 +102,13 @@ def extract_synopses(txt):
     real-life-short-stories-2002-anthology、the-passing-of-the-dragon-by-ken-liu），
     而 `## 本章导航` 7589 个文件 —— 即本条口径漏掉的是少数派书型，但漏掉时
     门禁**静默通过**，比报错更危险。
+
+    ⚠️ 2026-10-18 复核（这条坑又以另一种形态复发）：同族漏收已发生过两次
+    （`本篇导航` / `## 节点N` 形态），本函数的口径**至今仍只有这 4 个标题**，
+    而库里主流形态是 `概览`（1,962 处）与 `全书梗概`（313 处）⇒ 108 本书
+    抽 0 段。**处置：不扩口径（扩了会引入 ISBN/出版社噪声，见文件头 2026-10-18
+    记录），改为抽 0 段时 exit 2「❓ 无法判定」**，由 `check_book` 返回段数、
+    `main` 据此分流。扩口径这件事仍开着，须先做噪声剔除。
     """
     out = []
     cur_num, buf, in_syn = None, [], False
@@ -114,14 +138,22 @@ def check_book(book_dir):
     corpus = load_corpus(book_dir)
     wl = whitelist(book_dir)
     fails, checked = [], 0
+    seg_total, h2 = 0, {}
+    h2_pat = re.compile(r'^##\s+(.*?)\s*$')
     for f in sorted(glob.glob(os.path.join(book_dir, '*.md'))):
         name = os.path.basename(f)
         txt = open(f, encoding='utf-8').read()
+        for ln in txt.splitlines():
+            hm2 = h2_pat.match(ln.strip())
+            if hm2:
+                h2[hm2.group(1)[:24]] = h2.get(hm2.group(1)[:24], 0) + 1
         mauthor = re.search(r'\*\*作者\*\*[:：](.+)', txt) or re.search(r'来源[:：](.+)', txt)
         author_str = flat_alpha(mauthor.group(1)) if mauthor else ''
         unknown = []
         seen_in_file = set()
-        for _, syn in extract_synopses(txt):
+        segs = extract_synopses(txt)
+        seg_total += len(segs)
+        for _, syn in segs:
             for ent_m in ENT_PAT.finditer(syn):
                 ent = ent_m.group(0).strip()
                 key = flat_alpha(ent)
@@ -164,14 +196,29 @@ def check_book(book_dir):
                     checked += 1
         if unknown:
             fails.append((name, sorted(set(unknown))))
-    return {'fails': fails}
+    return {'fails': fails, 'seg_total': seg_total, 'h2': h2}
 
 def main():
     book_dir = sys.argv[1]
     r = check_book(book_dir)
-    print(f"=== 实体一致性检测：{len(r['fails'])} 个文件存在未知实体 ===")
+    print(f"=== 实体一致性检测：{r['seg_total']} 个梗概段 / "
+          f"{len(r['fails'])} 个文件存在未知实体 ===")
     for name, ents in r['fails']:
         print(f"  ❌ {name}: {', '.join(ents)}")
+    # ⚠️ 2026-10-18：抽 0 段**不是通过**。此前这里照打「0 个文件存在未知实体」
+    # 并 exit 0，报告读起来是「核过了、实体层干净」，实际一节都没进扫描集
+    # （静默跳过型假绿，第四档）。现与 `verify_quotes` 无 epub 时同口径：
+    # **退出码 2 + ❓ 无法判定 + 不产出「0 未知实体」这个结论**。
+    if r['seg_total'] == 0:
+        top = sorted(r['h2'].items(), key=lambda kv: -kv[1])[:8]
+        if top:
+            print('  · 本书实际出现的 H2 标题（计数）：'
+                  + '、'.join(f'{t}×{n}' for t, n in top))
+        print('  ⚠️ 口径只认 H2「故事梗概 / 本章导航 / 本篇导航 / 梗概」；'
+              '非虚构常用「概览 / 全书梗概 / 论证结构」，短篇合集常用「概览」'
+              '——**都不在本工具口径内**。')
+        print('  ❓ 无法判定：0 个梗概段进扫描集，实体层**未被核对**（不是「干净」）')
+        sys.exit(2)
     sys.exit(1 if r['fails'] else 0)
 
 if __name__ == "__main__":

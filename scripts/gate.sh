@@ -48,7 +48,19 @@ echo; echo "=== ② check_vocab（词汇真实性/例句/分档）==="
 python3 scripts/check_vocab.py "$B" 2>&1 | grep -E "词条行合计|FAIL \(|WARN \("
 
 echo; echo "=== ③ check_entities（梗概实体一致性）==="
-python3 scripts/check_entities.py "$B" 2>&1 | tail -1
+# ⚠️ 2026-10-18：本 lane 原为 `| tail -1`，而 check_entities 修完真空绿后
+# 0 段时输出**多行**（列出该书实际 H2 标题 + ❓ 无法判定），`tail -1` 只取到
+# 标题行 ⇒ **「无法判定」这一句会被吞掉，板面/日志上看着像正常跑过**。
+# ⇒ 改为 grep 出「❓ / ❌ / ⚠️」三类关键行；exit 2 是「未判定」，不进阻断聚合
+#   （与 ① 无 epub 同口径，见文件头「只认 ❌」）。
+_ce_out=$(python3 scripts/check_entities.py "$B" 2>&1); _ce_rc=$?
+if [ "$_ce_rc" -eq 2 ]; then
+  echo "$_ce_out" | grep -E '❓|⚠️ 口径只认'
+elif [ "$_ce_rc" -ne 0 ]; then
+  echo "$_ce_out" | grep -E '❌|^===' | tail -8
+else
+  echo "$_ce_out" | tail -1
+fi
 
 echo; echo "=== ④ corruption_scan（编辑损坏，进门禁）==="
 # ⚠️ 2026-10-05 五步审查修（I Am Not Jessica Chen 实证）：本项原写

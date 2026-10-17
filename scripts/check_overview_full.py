@@ -129,6 +129,29 @@ def halves(q):
     return seg
 
 
+# ⚠️ 2026-10-18 新增：`## 节点一：离坦帕两英里的道床边（ch01）` 这类**节标题内嵌章号**。
+# 库内实测 341 个总览文件有「节点」H2/H3/H4，标题里直接内嵌（chNN）的行 **2,305 处**；
+# 节内引语 3,466 条中 **1,677 条引语行自身没有章号标注**（只有节标题有）。
+# 原先这些引语走到 B 段的 `label_near(...) is None` 分支，只累加 `n_nolabel`
+# （汇总行里是「无标签未判」一个数字，混在其它项里看不出规模）——
+# **「没对账」与「对过了」在同一行里读起来差不多**，属跳过型假绿的同族形态。
+# ⇒ 现把它们按节标题归类到一个独立提示型计数 `n_sec_nolabel` 并列出文件，
+#   **判定逻辑一字不改**：节点常跨章（「节点二：德尔斐（ch06-08）」），
+#   拿节标题当章号去对账实测只有 77% 准确率（1,231 对 / 361 不对），
+#   不足以支撑 ❌ 阻断，只能显式列出让 人判。
+# 注：节标题章号写成 `ch01` 而 `load_chapters` 的键是 `ch1`，须经 `_canon_ch`
+#     归一后再比——否则准确率只有 48%，那 361 条「不对」全是这个键类型错，
+#     **不是内容缺陷**（与 `:302-306` 记录的 int/str 同一个坑）。
+_NODE_HEAD = re.compile(
+    r'^#{2,4}\s*(.*节点[一二三四五六七八九十\d]*\s*[：:].*)$')
+_CH_IN_HEAD = re.compile(r'[（(]\s*ch\s*(\d{1,3})([a-z]?)')
+
+
+def _canon_ch(num, suf=''):
+    """`ch01`/`ch1`/`'1'` → 同一把钥匙（与 load_chapters 的键口径一致）。"""
+    return str(int(num)) + (suf or '')
+
+
 def label_near(line, span_start, span_end):
     """取引语**紧邻**的章节标签。
 
@@ -219,6 +242,8 @@ def main():
         allflat = flat_alpha(epub_flat_text(epaths[0]))
 
     n_ok = n_nolabel = n_short = n_splice = n_miss = n_ellipsis = 0
+    n_sec_nolabel = 0          # ⚠️ 2026-10-18：节点节内「引语行无章号标注」的条数
+    sec_nolabel_files = {}     # 文件名 → 条数（汇总时列出）
     n_label_ok = n_label_bad = n_label_undet = n_multi = 0
     problems = []
     # F 段计数器**必须在文件循环外**：放在循环内会被逐文件重置，
@@ -248,6 +273,7 @@ def main():
                                      % (h1[:34], name)))
                 break  # 已找到匹配的 key，无论是否报错都退出
         in_fm = False
+        sec_ch = None           # ⚠️ 2026-10-18：当前所在节点节的章号（节标题内嵌）
         for i, ln in enumerate(lines, 1):
             s = ln.strip()
             if i == 1 and s == '---':
@@ -256,6 +282,12 @@ def main():
             if in_fm:
                 in_fm = s != '---'
                 continue
+            _nm = _NODE_HEAD.match(ln.strip())
+            if _nm:
+                _cm = _CH_IN_HEAD.search(_nm.group(1))
+                sec_ch = (_canon_ch(_cm.group(1), _cm.group(2)) if _cm else None)
+            elif re.match(r'^#{1,4}\s', ln.strip()):
+                sec_ch = None
             for m in SPAN.finditer(ln):
                 frag = m.group(1) or m.group(2) or m.group(3) or ''
                 if not is_quoteish(frag):
@@ -294,7 +326,13 @@ def main():
                 # ── B/C. 章节标签对账（标签须取**紧邻引语**的那个 chNN）
                 lab = label_near(ln, m.start(), m.end())
                 if lab is None:
-                    n_nolabel += 1
+                    if sec_ch is not None:
+                        # 节点节内、节标题带章号但引语行自身没标 ⇒ **未经章节对账**。
+                        # 只显式计数并列出，不判红（见 _NODE_HEAD 处注释：节常跨章）。
+                        n_sec_nolabel += 1
+                        sec_nolabel_files[name] = sec_nolabel_files.get(name, 0) + 1
+                    else:
+                        n_nolabel += 1
                 elif not chapters:
                     n_label_undet += 1          # 只有 epub，不能定章
                 else:
@@ -374,6 +412,14 @@ def main():
           % (n_unq_ok, n_unq_bad, n_unq_skip))
     print('  C 跨章多重命中：%d ｜ E H1 语义错配：%d'
           % (n_multi, sum(1 for p in problems if p[0] == 'E')))
+    if n_sec_nolabel:
+        print('  ⚠️ 节点节内引语无行内章号：%d 条 / %d 个文件 —— '
+              '节标题虽带（chNN），但引语行自身无标注 ⇒ **这些引语的章节归属未经对账**'
+              '（节点常跨章，如「节点二：德尔斐（ch06-08）」，故不代人对账、只列出）'
+              % (n_sec_nolabel, len(sec_nolabel_files)))
+        for _fn, _c in sorted(sec_nolabel_files.items(),
+                              key=lambda kv: -kv[1])[:12]:
+            print('      %s：%d 条' % (_fn[:40], _c))
     if not quiet:
         for kind, name, ln, msg in problems:
             print('  %s %s:%d  %s' % ({'A': '⚠️', 'B': '⚠️', 'C': '⚠️', 'F': '⚠️', 'E': '❌'}[kind],

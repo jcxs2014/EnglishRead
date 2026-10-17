@@ -128,6 +128,37 @@ def extract_quotes(txt: str):
     return quotes
 
 
+# ⚠️ 2026-10-18 新增：判定「这一行看起来是带章号标注的英文引语」。
+# 起因：本文件 0 引语分支原先的 `looks` 判据**只看行首 `>` 行**，于是引语写在
+# `- "…（chNN）"`（库内主力形态）、`**① "…"**（ch67）`、裸 `"…（chNN）"`、
+# 表格行这些地方时，报告打「➖ 无引语行（正常，非门禁项）」并 exit 0 ——
+# **「没核」被写成「正常」**（跳过型假绿，第四档）。全库实测 194 个总览文件 /
+# 2,277 行带标注引语落在这条判据之外。
+# ⚠️ 这里**只判「像引语」，不抽引语**：真正的抽取仍归 `extract_quotes`，
+#   而它对上述形态一律返 []（这不是 bug 的同义反复，而是本文件的能力边界）。
+#   ⇒ 本函数只用来把「无引语行（正常）」**降级**为「覆盖缺口（口径外，须人判）」，
+#   不把它们拉进逐字比对——那样会把 619 行「中文叙述 + 尾部引语」的混行
+#   当成引语去 flat 查，整批假红。分工见 main() 里 0 引语分支的注释。
+# 双闸（两个都过才算，避免中文叙述被误收）：
+#   ① 行内含成对的英文定界引号段 `"…"` 或 `“…”`，长度 ≥15（内部允许 ' ’ 撇号）
+#   ② 该段过 `is_quoteish`（无中文、无 `ch\d`/`text/`/`*.md`、≥8 个 ASCII 字母、≥3 个词）
+# 实测 7 个用例 6/7 符合预期，唯一不符的是表格行里的 `"一个特别小组的议题"`
+# （中英混排、段内含中文）——按设计就该拒，4 行表格行因此不计入，属可接受缺口。
+_PAIR_QUOTE = re.compile(r'"([^"\n]{15,})"|“([^”\n]{15,})”')
+_CH_LABEL = re.compile(r'[（(]\s*ch\s*\d+')
+
+
+def looks_like_labeled_quote(line):
+    """该行是否「像一条带 (chNN) 标注的英文引语」——只判形态，不抽引语。"""
+    if not _CH_LABEL.search(line):
+        return False
+    for m in _PAIR_QUOTE.finditer(line):
+        seg = m.group(1) or m.group(2)
+        if is_quoteish(seg):
+            return True
+    return False
+
+
 def overview_files(book_dir):
     """收总览三篇，按**语义关键词**而不是 `00` 前缀（2026-10-17 修）。
 
@@ -195,13 +226,20 @@ def main(book_dir: str, epub_path: str = ""):
             looks = [ln for ln in txt.splitlines()
                      if ln.lstrip().startswith(">") and '"' in ln
                      and len(flat_alpha(ln)) >= 15]
-            if looks:
-                gap.append((name, looks[0].strip()[:90]))
-                print(f"{name}: ❌ 覆盖缺口——{len(looks)} 条引语样 > 行，"
+            # ⚠️ 2026-10-18：上式只看行首 `>` 行，`- "…（chNN）"` / `**① "…"**（chNN）`
+            # / 裸 `"…（chNN）"` 这些库内主力形态全落在外面 ⇒ 被报「无引语行（正常）」。
+            # 先用 `looks_like_labeled_quote` 兜一遍（双闸，见其 docstring），
+            # 命中的算「覆盖缺口」而非「正常」——**「没核」不许写成「正常」**。
+            labeled = [ln for ln in txt.splitlines()
+                       if looks_like_labeled_quote(ln)]
+            if looks or labeled:
+                gap.append((name, (looks or labeled)[0].strip()[:90]))
+                print(f"{name}: ❌ 覆盖缺口——{len(looks)} 条引语样 > 行 / "
+                      f"{len(labeled)} 行带（chNN）标注的引语形态，"
                       f"但 extract_quotes 提取到 0 条（口径外，须人判）")
             else:
                 bare.append(name)
-                print(f"{name}: ➖ 无引语行（正常，非门禁项）")
+                print(f"{name}: ➖ 无引语行（未检出待核引语形态，非门禁项）")
             continue
         ok = 0
         miss = []
