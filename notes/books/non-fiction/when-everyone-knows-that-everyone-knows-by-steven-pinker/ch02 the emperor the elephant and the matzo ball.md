@@ -59,7 +59,7 @@ modified: "2026-10-17"
 - **句子结构**：第一句用 and 连接两个分句（头晕 ←→ 需要无限层）；第二句 Most likely it's the simple intuition that… 用 that 从句展开直觉的内容。
 - **关键词**：`finite skull`、`the simple intuition`、`there for all to see`
 - **表达方式**：skull 替代 mind／brain，把抽象的认知递归拉回血肉；三个口语短语 public／out there／there for all to see 并置，全是视觉隐喻。
-- **为什么这样写**：这是全章的概念软肋，也是它最好的一句话——作者承认人类不可能真的完成无限递归，于是把「共同知识生效」的机制交给隐喻。此处埋伏笔：章末他要用 Lakoff 的隐喻理论回扣，把「直觉」升级成「语言系统」。（「the elephant in the room」章题的另一半由此引出。）
+- **为什么这样写**：这是全章的概念软肋，也是它最好的一句话——作者承认人类不可能真的完成无限递归，于是把「共同知识生效」的机制交给隐喻。此处埋伏笔：章末他要用概念隐喻理论回扣，把「直觉」升级成「语言系统」——那里的成语清单里有原句 `That’s the elephant in the room.`，正是章题的第二半。
 
 > **原句 4:** "In ordinary English, the expression common knowledge refers to something that many or most people know, especially open secrets, as in “It’s common knowledge that the police around here can be bribed.” This is almost the opposite of the meaning of the technical term from game theory and philosophy that we will explore in this book."
 
@@ -91,7 +91,7 @@ modified: "2026-10-17"
 - **句子结构**：第一句 built on conventions 后跟两个并列谓语 allow… and are self-reinforcing，because 从句点出自我强化的条件；第二句用 They are very real, even if… 让步收尾。
 - **关键词**：`self-reinforcing because they are common knowledge`、`not exactly “fictions.”`、`not made out of physical stuff`
 - **表达方式**：直接改写 Harari 的「虚构」为「非物理现实」，一字之差换掉整张本体论标签。
-- **为什么这样写**：作者点名 Harari「值得赞同但我换个说法」，是本章唯一一次公开与同行商榷：用「惯例 + 共同知识」替代「虚构」，既收编对手，又为「共同知识创造非物理现实」这句题眼扫清语义障碍。
+- **为什么这样写**：作者说这个见解「值得赞同，但我会换个说法」——本章对同行立场的一次公开商榷（引 Harari 之前，作者先整段引了他的原文，再逐词换掉标签）：用「惯例 + 共同知识」替代「虚构」，既收编对手，又为「共同知识创造非物理现实」这句题眼扫清语义障碍。
 
 > **原句 8:** "The real point was that it captured people’s attention during the Super Bowl, which is an American national rite, standing out in the calendar like a religious holiday. Not only were a lot of people watching, but everyone knew that a lot of people were watching, and knew that everyone knew it."
 
@@ -115,7 +115,7 @@ modified: "2026-10-17"
 - **句子结构**：主句 The biggest difference… is that…，从句 rather than 对举 generate／perceive；And that can feed into a pernicious ritual 短句接上，when 从句定义仪式的触发条件。
 - **关键词**：`generate common knowledge rather than just perceive it`、`a pernicious ritual`、`it must become common knowledge that they are punished`
 - **表达方式**：ritual 一词把网络批斗写回宗教语域，与前文超级碗「国家仪式」首尾呼应。
-- **为什么这样写**：这是全章论证的落点：前面用 Super Bowl／加密货币／革命建立「共同知识可被制造」，此处交出它最黑暗的应用——羞辱群（Justine Sacco 事件）。章题的「肉丸」还没出场，「大象」已在此显形。
+- **为什么这样写**：这是全章论证的落点：前面用超级碗广告／加密货币／革命建立「共同知识可被制造」，此处交出它最黑暗的应用——羞辱群（Justine Sacco 事件）。章题剩下的两个意象都在本章结尾收线：`That’s the elephant in the room.` 出现在成语清单里，`that’s a pretty big matzo ball hanging out there` 则是宋飞那一幕的收束句。
 
 ## 词汇分级
 
