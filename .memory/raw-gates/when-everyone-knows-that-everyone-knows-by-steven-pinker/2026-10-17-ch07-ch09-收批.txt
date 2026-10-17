@@ -1,0 +1,56 @@
+# ch07+ch09 收批（父会话复验子代理产物）· 2026-10-17 · 完整 lane
+
+=== verify_quotes ===
+ch01 preface.md: 10/10 ✅
+ch02 the emperor the elephant and the matzo ball.md: 10/10 ✅
+ch03 common knowledge and common sense.md: 10/10 ✅
+ch07 laughing crying blushing staring glaring.md: 10/10 ✅
+ch09 the canceling instinct.md: 10/10 ✅
+=== 总计 50/50 引文可核实（100%）；完全干净文件 5/5；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+=== check_vocab ===
+词条行合计: 89
+--- FAIL (0) ---
+--- WARN (6) ---
+
+=== check_entities（主工具，注意：对非虚构格式抽出 0 段＝真空绿）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== 第二实现 check_entities_nonfic（概览/论证结构层）===
+=== 非虚构实体一致性（概览/论证结构层）：when-everyone-knows-that-everyone-knows-by-steven-pinker ===
+  参照集：text/ 13 件
+  ⚠️ 全书查无候选 0 处（只报不判红，须逐条读行裁决）
+
+=== corruption_scan ===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== sweep_full ===
+=== 引语整串 flat 比对（when-everyone-knows-that-everyone-knows-by-steven-pinker）===
+  参照集：text/ 逐章（10 章，可定章） + epub 交叉验证
+  ✅ 本章命中 50 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+
+=== check_chapter_quotes ch07/ch09 ===
+ch07 laughing crying blushing staring glaring.md: 10/10 in ch07 text
+ch09 the canceling instinct.md: 10/10 in ch09 text
+
+=== check_quote_blocks ===
+=== 引语块结构对账（when-everyone-knows-that-everyone-knows-by-steven-pinker）===
+  带前缀的 `> **原句 N:**` 行：5 个文件共 50 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== sweep_analysis_inline ===
+  ✅ 逐字 537 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 5 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 7
+  🟠 ch01 preface.md:41  「spend one's life doing」→ 内容词 3/4 命中（doing/life/spend）——疑漏词或改写
+  🟠 ch07 laughing crying blushing staring glaring.md:67  「all the audience members who   must have tacitly known t」→ 内容词 6/6 命中（audience/compromising/known/members）——疑漏词或改写
+  🟠 ch07 laughing crying blushing staring glaring.md:99  「might have been doing」→ 内容词 1/1 命中（doing）——疑漏词或改写
+  🟠 ch07 laughing crying blushing staring glaring.md:99  「our   of my role would have allowed me no escape from an」→ 内容词 6/6 命中（afflicted/allowed/embarrassment/escape）——疑漏词或改写
+  🟠 ch09 the canceling instinct.md:74  「Even if it turned out that」→ 内容词 3/3 命中（even/out/turned）——疑漏词或改写
+
+=== check_anchor ===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== audit_structure ===
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
