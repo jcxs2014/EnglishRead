@@ -1,0 +1,73 @@
+=== 批15 ch26+ch27 批次门禁 2026-10-17 17:43 UTC ===
+
+### 1) verify_quotes
+
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 251/251 引文可核实（100%）；完全干净文件 32/32；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+### 2) verify_quotes --full
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 251/251 引文可核实（100%）；完全干净文件 32/32；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+### 3) check_vocab
+词条行合计: 718
+
+--- FAIL (0) ---
+
+### 4) check_entities
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+### 5) cq 26/27
+ch26 the storage room below.md: 8/8 in ch26 text
+ch27 the undead complex.md: 7/7 in ch27 text（另有 1 条短引语未校验）
+
+### 6) corruption_scan
+=== 编辑损坏扫描（the-unsolvable-case-by-courtney-smyth）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+### 7) sweep_analysis_inline
+  参照集：text/（50 个提取件） + epub 交叉验证 ；扫 32 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：910 个表格行、818 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 1384 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 3 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 20
+  🟠 ch27 the undead complex.md:21  「the joy was almost overwhelming」→ 内容词 3/3 命中（almost/joy/overwhelming）——疑漏词或改写
+  🟠 ch27 the undead complex.md:21  「Theodore was only too thrilled」→ 内容词 1/2 命中（theodore）——疑漏词或改写
+  🟠 ch27 the undead complex.md:21  「happy to share it with everyone」→ 内容词 3/3 命中（everyone/happy/share）——疑漏词或改写
+
+### 8) audit_structure
+  扫 32 个 md、253 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+### 9) check_short_quotes
+  verify_quotes 跳过（<20 flat 字符）的引语：2 条 —— 这些主门禁**根本没查**
+  ✅ 命中 2 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== §11 修复后复跑 2026-10-17 17:43 UTC ===
+【本轮 3 条提示型（同一块）】ch27:21 原句 1 的『关键词』写的是我在别处手打的英文（the joy was almost overwhelming / Theodore was only too thrilled / happy to share it with everyone），既非本块逐字、也不在引语内（违禁令 1、4）⇒ 按规则 9a 同步重写该块的中文理解 + 关键词 + 为什么这样写，全部改用本块引语内逐字段（overjoyed Grey's interference had worked / He could have his cake and eat it / the ability of human connection）。
+
+--- sweep_analysis_inline ---
+  落点 #14 表格单元格：910 个表格行、818 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 1387 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 20
+
+--- verify_quotes ---
+
+=== 总计 251/251 引文可核实（100%）；完全干净文件 32/32；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+--- check_vocab ---
+词条行合计: 718
+
+--- FAIL (0) ---
+
+
+--- check_chapter_quotes 26/27 ---
+ch26 the storage room below.md: 8/8 in ch26 text
+ch27 the undead complex.md: 7/7 in ch27 text（另有 1 条短引语未校验）
+
+--- corruption_scan ---
+=== 编辑损坏扫描（the-unsolvable-case-by-courtney-smyth）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
