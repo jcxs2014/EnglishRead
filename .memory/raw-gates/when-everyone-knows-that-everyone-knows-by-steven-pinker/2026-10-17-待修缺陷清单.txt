@@ -43,11 +43,19 @@ PY
 「大面积报警先读行复核」做全库回归，不能顺手改。
 
 
-## A2. 阻断型（他人文件，等其子代理结束后修）
+## A2/A3. 阻断型 —— ✅ 均已随「十章收批整改」解决（2026-10-17）
 
 | # | 文件 | 症状 | 修法 |
 |---|---|---|---|
-| A2 | `ch06 the department of social relations.md` 词汇节 | 3 行的词头与例句都是字面 `placeholder`（`check_vocab` FAIL 3 条，实测命中 ch06） | 重跑 `vocab_candidates.py --ch 6 --tiers`，从候选里挑真词真句替换；**不许留占位行**（占位行是历史复发缺陷，Up in Molten Lights / The Last Lifeboat 各有先例） |
-| A3 | `ch05 reading the mind of a mind reader.md` | 10 处引语仍是 `«QN»` 未注入（`check_chapter_quotes` 报 `NO_QUOTES_EXTRACTED`） | 按简报步骤 3 注入；重写子代理已在跑，先等它落盘 |
+| A2 ✅已修 | `ch06 the department of social relations.md` 词汇节 | 3 行的词头与例句都是字面 `placeholder`（`check_vocab` FAIL 3 条，实测命中 ch06） | 重跑 `vocab_candidates.py --ch 6 --tiers`，从候选里挑真词真句替换；**不许留占位行**（占位行是历史复发缺陷，Up in Molten Lights / The Last Lifeboat 各有先例） |
+| A3 ✅已修 | `ch05 reading the mind of a mind reader.md` | 10 处引语仍是 `«QN»` 未注入（`check_chapter_quotes` 报 `NO_QUOTES_EXTRACTED`） | 按简报步骤 3 注入；重写子代理已在跑，先等它落盘 |
 
 ⚠️ 两条都在**其他实例正在写的文件**上 ⇒ 按同文件竞态纪律（The South 实证：interrupt 后子代理最后写盘仍可能砸块）**不当场改**，等其结束后按修复批统一做，改前以 git 基线为恢复点。
+
+
+## 结案（2026-10-17 · 父会话）
+- A1 ✅ 子代理重写后修毕，父会话逐块复核 + 复跑门禁放行（commit 211f1b88d）
+- A2 ✅ ch05/ch04/ch08 三章词表统一重建（候选表 + 三硬断言 + 分档对照），180 行 FAIL 0（commit 41a3207e3）
+- A3 ✅ ch05 引语注入完成，逐章归属 10/10（同上 commit）
+- 终跑 gate.sh 18 项 0 条阻断型；verify_quotes 159/159、总览 59/59；corruption 0
+- 本次结案同时登记 1 项**工具盲区**（check_entities 对非虚构 H2 零覆盖＝真空绿），已建第二实现顶替，未改主工具
