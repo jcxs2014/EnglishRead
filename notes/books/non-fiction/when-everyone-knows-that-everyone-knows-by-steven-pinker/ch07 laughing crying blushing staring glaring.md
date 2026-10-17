@@ -10,11 +10,11 @@ modified: "2026-10-17"
 - **作者**：Steven Pinker，本书自述身份为认知科学家
 - **章节定位**：本章自述要沿用前一章「关系模型」的逻辑，把镜头转向身体：笑、哭、脸红、目光接触四种绕开面部肌肉、双方同时可见的表达（前三样还不自主），作者主张它们的功能是「把私人认知抬成共同知识」，末节再补一个用面部肌肉做出、却同样服务于协调的信号——怒视
 - **字符数**：71,313（提取件 `text/ch07_chapter_6_laughing_crying_blushing_staring_glaring.txt` 全文实测）
-- **一句话主旨**：笑的公开与传染把早已私下流传的尴尬事实抬成共同知识，从而炸掉旧均衡；哭是它的镜像（无助与投降，以及一切「笑不出来的好东西」）；脸红与目光接触是身体自带的共同知识开关，而怒视则用同一机制让威胁变得可信
+- **一句话主旨**：笑的公开与传染把早已私下流传的尴尬事实抬成共同知识，从而炸掉旧均衡；哭是它的镜像（无助与投降，以及那些「笑不出来」的好东西）；脸红与目光接触是身体自带的共同知识开关，而怒视则用同一机制让威胁变得可信
 
 ## 论证结构
 
-- **核心论点**：人类之所以有一批「不自主、双方都看得见、还会传染」的表达，不是因为它们泄漏情绪，而是因为它们能瞬间制造共同知识——而共同知识正是协调均衡的胶水：它既能把一个人从支配的高处拽下来，也能宣告「我们不在同一张等级表上」，还能让「不许冒犯我」这一立场变得可信。
+- **核心论点**：人类之所以有一批「对表达者和观察者同样显眼、又不听人使唤」的表达，不是因为它们泄漏情绪，而是因为它们能瞬间制造共同知识——而共同知识正是协调均衡的胶水：它既能把一个人从支配的高处拽下来，也能宣告「我们不在同一张等级表上」，还能让「不许冒犯我」这一立场变得可信。
 
 - **证据链**：
 
@@ -30,16 +30,16 @@ modified: "2026-10-17"
 - **论证脉络**：面部表情的丰富性与达尔文的进化声明 → 茹贝尔笔下的笑（不自主、占据全身）→ 立论：笑／哭／脸红／目光接触是共同知识生成器，怒视压轴 → 幽默研究一贯不得要领的清单 → 作者自述理论（笑挑战支配、地位、声望的惯例，可攻击性也可友好地用）→ 普罗文的现场证据逐级坐实 → 笑作为「反支配器官」，其未言明、不自主、传染三特征各司其职 → 友好的一面：笑宣告「我们不在等级里」 → 面对反例把理论扩到「任意惯例」（作者偏好不稀释理论的第二种读法）→ 哭泣入场：与笑同类而不自主，核心是投降与无助 → 反例（喜悦之泪、崇高之泪、同情之泪）→ 达尔文的对立原则与科斯特勒的呼吸互反 → 哭的触发是笑的触发的反面 → 脸红：自我加热的反馈回路、「在指控者面前」而非罪感 → 谢林寓言与两组研究证明「共同知识层」才是触发线 → 目光接触：白巩膜的解剖学、看见「看见我们的那部分」→ 目光的两极（性与暴力）与日常「目光接触」其实名不副实 → 公开秘密靠回避目光维系（冒充白人、深柜、体重）→ 技术侧证：头显与视频会议因无法制造目光接触而受挫 → 怒视：让威胁可信，最后通牒博弈实验给出结果 → 收束：这些显眼表达共同批准我们的友谊、等级与规范
 
 - **可质疑处**：
-  1. **「不自主」既是信号的前提又被同段否定**：作者用笑的不自主性担保「这个贬损前提是私下早就知道的，不是临时为结盟而采纳」；但同一章也承认笑可被进攻性地用来「把从属者压回原位」，并且孩子们感到被嘲笑时是痛苦的、教师与老板都尽量避免成为笑的目标。既然笑能被策略性地使用，受试者如何区分「真笑」与「造出来的笑」？章内只给了「凭空造笑很困难、造出来一眼假」这一条，而它恰好说明造假是可辨识的——那不自主作为可信度担保的强度就要打折。
-  2. **哭泣一节最终落在作者自认的准备不足上**：喜悦之泪、崇高之泪、同情之泪这三类反例，作者先说前人解释「就其本身而言 plausible，但合起来仍不是一个令人满意的说明」，再给出「笑的触发物的反面」这一新方向；但他随后坦白「我还没准备好论证这一点」，并补一句「我希望它是真的，因为这样想令人安慰」。理论在此靠直觉配对与愿望收尾，缺少一个可失败的检验。
-  3. **实验链条没有直接测量脸红**：五层知识状态那组研究跑在网上、因变量是受试对自己「会多尴尬、会不会脸红」的自评；作者自陈理想做法应是测量脸红等生理反应。于是「共同知识是最强触发」这一结论，部分依赖受试能否正确理解并模拟那些嵌套层级语句——语言理解本身就可能同时是自变量与中介，而卡拉OK实验虽把自变量换成真实处境，其分组仍是「观众以为自己匿名」这一告知造成的信念差异。
+  1. **「不自主」既是信号的前提又被同章削弱**：作者用笑的不自主性担保「这个贬损前提是私下早就知道的，不是临时为结盟而采纳」；但同一章也承认笑可被进攻性地用来「把从属者压回原位」，并且孩子们感到被嘲笑时是痛苦的、教师与老板都尽量避免成为笑的目标。既然笑能被策略性地使用，受试者如何区分「真笑」与「造出来的笑」？章内只给了「凭空造笑很困难、造出来一眼假」这一条，而它恰好说明造假是可辨识的——那不自主作为可信度担保的强度就要打折。
+  2. **哭泣一节最终落在作者自认的准备不足上**：喜悦之泪、崇高之泪、同情之泪这三类反例，作者先说前人解释「就其本身而言说得通，但合起来仍不是一个令人满意的说明」，再给出「笑的触发物的反面」这一新方向；但他随后坦白「我还没准备好论证这一点」，并补一句「我希望它是真的，因为这样想令人安慰」。理论在此靠直觉配对与愿望收尾，缺少一个可失败的检验。
+  3. **实验链条没有直接测量脸红**：五层知识状态那组研究跑在网上、因变量是受试对自己「会多尴尬、会不会脸红」的自评；作者自陈理想做法应是测量脸红等生理反应。于是「共同知识是最强触发」这一结论，部分依赖受试能否正确理解并模拟那些嵌套层级语句——语言理解本身就可能同时是自变量与中介，而实验室里的当众演唱研究虽把处境换成真实表演，其分组仍是「观众以为自己匿名」这一告知造成的信念差异。
 
 ## 选择性精读
 
 > **原句 1:** "The human face is a fabulously expressive organ. Its forty-odd muscles are controlled by the voluntary division of the motor nervous system, and they are effortlessly choreographed into configurations that signal joy, sadness, fear, anger, surprise, disgust, interest, contentment, and pain.1 These expressions are displayed beginning in infancy and recognizable all over the world. They can be dialed up or down to convey the intensity of the emotion (concern → anxiety → fear → terror; sternness → indignation → anger → rage), and they can be blended to display other distinctive feelings (anger + joy = cruelty; fear + sadness = devastation; disgust + joy = “Eeww!”).2 Most of them have homologues in our primate cousins.3 In his 1872 “forgotten masterpiece,” The Expression of the Emotions in Man and Animals, Charles Darwin touted these facts as proof that the human mind, not just the body, was a product of evolution.4"
 
-- **中文理解**：人脸是一个极其富有表现力的器官：四十来条肌肉由运动神经系统的随意分支控制， effortless 地编排成传达欢乐、悲伤、恐惧、愤怒、惊讶、厌恶、兴趣、满足与痛苦的构型；这些表达从婴儿期就开始展示、全世界都能认出，还能按强度拧大拧小（关切、焦虑、恐惧、惊恐；严厉、愤慨、愤怒、盛怒），也能混叠出别的情感（怒加乐即残忍，惧加悲即崩溃，恶加乐即「呸」）——达尔文在一八七二年那部「被遗忘的杰作》里把这些事实当作人心（不只身体）同样出于进化的证据。
-- **句子结构**：首句 The human face is a fabulously expressive organ 用最简主系表定调；第二句 Its forty-odd muscles are controlled by…, and they are effortlessly choreographed into configurations that signal… 两个被动／反身结构串起解剖与功能，that 从句挂一串名词；第三句用 They can be dialed up or down to convey…, and they can be blended to display… 排比给出两条「可调、可混」的性质；末句 In his 1872 "forgotten masterpiece,"…, Charles Darwin touted these facts as proof that… 用同位语塞进书名与年份，that 从句再嵌一层。
+- **中文理解**：人脸是一个极其富有表现力的器官：四十来条肌肉由运动神经系统的随意分支控制，毫不费力地编排成传达欢乐、悲伤、恐惧、愤怒、惊讶、厌恶、兴趣、满足与痛苦的构型；这些表达从婴儿期就开始展示、全世界都能认出，还能按强度拧大拧小（关切→焦虑→恐惧→惊恐；严厉→愤慨→愤怒→盛怒），也能混叠出别的情感（怒加乐即残忍，惧加悲即崩溃，恶加乐即「呸」）。达尔文在一八七二年那部被他称为「被遗忘的杰作」的《人与动物的情感表达》里，把这些事实当作人心（不只身体）同样出于进化的证据。
+- **句子结构**：首句 The human face is a fabulously expressive organ 用最简主系表定调；第二句 Its forty-odd muscles are controlled by…, and they are effortlessly choreographed into configurations that signal… 两个被动结构串起解剖与功能，that 从句挂一串情绪名词；第三句 These expressions are displayed beginning in infancy and recognizable all over the world 用并列的过去分词／形容词交代发育与跨文化普遍性；第四句 They can be dialed up or down to convey…, and they can be blended to display… 排比给出「可调、可混」两条性质；末句 In his 1872 "forgotten masterpiece,"…, Charles Darwin touted these facts as proof that… 用同位语塞进书名与年份，that 从句再嵌一层。
 - **关键词**：`a fabulously expressive organ`、`effortlessly choreographed`、`dialed up or down`、`forgotten masterpiece`
 - **表达方式**：choreographed（编舞）把肌肉写成舞者，dialed up or down 把情绪写成旋钮强度，touted 略带贬色地预告后文对既有理论的不满。
 - **为什么这样写**：本章要论证的是「有几样表达比其他表达更显眼」，所以开场先把自愿的、安静的面部信号库存铺满——先让读者承认这套库存已经够丰富，下一段那句「这些还远未穷尽组合潜力」才有加码的余地，也让后文「绕过面部肌肉的另一条通道」形成对照。
@@ -47,14 +47,14 @@ modified: "2026-10-17"
 > **原句 2:** "Laughing, crying, blushing, eye contact. Each is conspicuous both to perceiver and expresser, emotionally evocative, unique to humans, and, with the first three, involuntary. The point of this chapter is that these distinctive expressions may be explained by a key idea: they generate common knowledge. In this way they differ from facial expressions, which we’re often unaware of, as when people say, “You should have seen the look on your face,” or “Wipe that smirk off your face.”6 No one can be unaware that they’re laughing, crying, blushing, or making eye contact, nor that those around them are aware, and aware of the emoter’s awareness. This common knowledge, I’ll suggest, is well-suited to tuning and tweaking the coordination equilibria that underlie our social relationships. I’ll conclude by turning to an expression that is displayed by the muscles of the face, but which also may be explained as a coordination signal: the glower."
 
 - **中文理解**：笑、哭、脸红、目光接触——每一样对「看的人」和「做的人」都显眼，都唤起情绪，都是人类独有，并且前三样还是不自主的；本章的要点是：这些特殊的表达可以用一个关键想法来解释，即它们生成共同知识。正因如此，它们不同于面部表情——后者我们常常不自知（「你该看看你自己那时脸上的表情」「把你那坏笑擦掉」）。没有人会不知道自己正在笑、在哭、在脸红、在与人对视，也不会不知道周围的人知道，且知道对方知道自己知道。作者要主张的是：这份共同知识恰好适合调节支撑人际关系的协调均衡。最后再来谈一个由面部肌肉做出、但同样可作协调信号解释的表达——怒视。
-- **句子结构**：首句是四个动名词的短列举作主语，谓语 Each is conspicuous both to perceiver and expresser 用 both…and 的双侧结构点出「双方都可见」；第二句 The point of this chapter is that… 直陈论题；随后 as when people say… 用两个口语祈使／感叹句给反例；This common knowledge, I'll suggest, is well-suited to tuning and tweaking the coordination equilibria that underlie our social relationships 一句把机制收束到协调均衡；末句 I'll conclude by turning to an expression that is displayed by…, but which also may be explained as… 用 that…which… 双定语从句预告收尾。
+- **句子结构**：首句 Laughing, crying, blushing, eye contact. 是无谓语的名词性列举（三个动名词加一个名词短语），独立成句起标题作用；第二句 Each is conspicuous both to perceiver and expresser 用 both…and 的双侧结构点出「双方都可见」；第三句 The point of this chapter is that… 直陈论题；随后 as when people say… 用两句口语给反例；This common knowledge, I'll suggest, is well-suited to tuning and tweaking the coordination equilibria that underlie our social relationships 一句把机制收束到协调均衡；末句 I'll conclude by turning to an expression that is displayed by…, but which also may be explained as… 用 that…which… 双定语从句预告收尾。
 - **关键词**：`conspicuous both to perceiver and expresser`、`they generate common knowledge`、`tuning and tweaking the coordination equilibria`、`the glower`
 - **表达方式**：perceiver／expresser 一对刻意造出来的对称名词，是全章的技术支点；tuning and tweaking 头韵兼叠韵，把均衡写成可微调的乐器；「你该看看你脸上的表情」两句俗语承担了「自愿表情可以不自知」的全部举证。
 - **为什么这样写**：这是全章的合同：先用四个动名词把范围钉死，再用「没有人会不知道自己在笑」把递归层级一句说尽，省掉了后文反复论证的负担；结尾提前把怒视挂出来，让最后一节不至于像附赠——本章的四个身体信号之外，仍需一个「用面部肌肉却同样显眼」的样本收尾。
 
 > **原句 3:** "At the risk of giving the world yet another humorless take on humor, I tried to identify that combination in How the Mind Works. Though I didn’t use the term, common knowledge was the essential component. Laughter generates common knowledge that challenges a convention of dominance, status, or prestige. The authority may be challenged aggressively, with the aim of leveling or reinforcing a dominance hierarchy, or it may be challenged convivially, to make it common knowledge that the basis of a relationship is not dominance at all but rather communality. Let me step through the facts that led to these conclusions."
 
-- **中文理解**：冒着再给世界添一份「毫无幽默感的幽默论」的风险，作者在《心智如何运作》里试图找出那种独特的心理组合；虽然他当时没用这个术语，共同知识才是 essentials 的那一块：笑生成这样的共同知识——某个关于支配、地位或声望的惯例受到挑战。权威可以被攻击性地挑战，目的是拉平或重铸一条支配等级；也可以被友好地挑战，目的是让「这段关系的基础根本不是支配，而是共属」成为共同知识。接着他说：让我把这些结论所依据的事实一步步走一遍。
+- **中文理解**：冒着再给世界添一份「毫无幽默感的幽默论」的风险，作者在《心智如何运作》里试图找出那种独特的心理组合；虽然他当时没用这个术语，共同知识才是其中最本质的那块成分：笑生成这样的共同知识——某个关于支配、地位或声望的惯例受到挑战。权威可以被攻击性地挑战，目的是拉平或重铸一条支配等级；也可以被友好地挑战，目的是让「这段关系的基础根本不是支配，而是共属」成为共同知识。接着他说：让我把这些结论所依据的事实一步步走一遍。
 - **句子结构**：At the risk of giving the world yet another humorless take on humor, I tried to identify that combination… 分词短语起头、主句简短；Though I didn't use the term, common knowledge was the essential component 让步句把术语亮出来；第三句 Laughter generates common knowledge that challenges a convention of dominance, status, or prestige 是主—动—宾加 that 定语从句，宾语后三个名词并列；第四句 The authority may be challenged aggressively…, or it may be challenged convivially, to make it common knowledge that… 用 may be… or may be… 的对称被动分叉出两条功能，末了由 that 从句托出全句重心；Let me step through the facts that led to these conclusions 用祈使句收束转场。
 - **关键词**：`the essential component`、`challenges a convention of dominance, status, or prestige`、`challenged convivially`、`communality`、`Let me step through the facts`
 - **表达方式**：aggressively／convivially 一对副词把同一机制劈成两副面孔；humorless take on humor 是自嘲式头韵；step through the facts 把论证写成散步，预告本节是一串证据而非一段演绎。
@@ -73,7 +73,7 @@ modified: "2026-10-17"
 - **中文理解**：人们一听到 laugh 就联想到的第一个词是 cry，这本身就说明了点什么。在词联想里，两个词通常归在同一语义范畴，却由一条显著差异隔开（夜与昼、女与男、狗与猫）。与笑一样，眼泪用面部肌肉以外的手段表达情绪状态：它们不自主、对看的人显眼、并且是人类独有的——心理学家维因格霍茨那本该领域最全的著作，书名就直接炫耀这一点。眼泪看上去也是为生成共同知识而设计的：哭泣的人感到眼眶里的涌起、脸颊上的流淌，透过自己的泪看出去是一个模糊的世界，而那个世界里还有别人从外面看着同一副泪。
 - **句子结构**：首句 The first word that people associate with laugh is cry 用 that 定语从句套出主语，and that tells us something 短评收尾；第二句 They are involuntary, conspicuous to a perceiver, and unique to Homo sapiens 三并列表语，其中 (a conclusion flaunted in the title of the most comprehensive book on the subject, the psychologist Ad Vingerhoets's Why Only Humans Weep) 用括号塞进书名与作者；第三句 And they seem engineered to generate common knowledge 短句落判断；末句 A weeping person feels…, sees…, a world that contains other people seeing the same tears from the outside 由内感、外视、以及 that 从句里的「别人眼中的自己」三层套完递归。
 - **关键词**：`the same semantic category`、`involuntary, conspicuous to a perceiver`、`engineered to generate`、`seeing the same tears from the outside`
-- **表达方式**：engineered（被设计出来）延续全把章身体表达当工程物来读的习惯；flaunted 把一本学术专著的标题写成当众炫耀；末句从「眼眶里的涌起」一路推到「别人从外面看着同一副泪」，一句之内完成双方可见性。
+- **表达方式**：engineered（被设计出来）延续全章把身体表达当工程物来读的习惯；flaunted 把一本学术专著的标题写成当众炫耀；末句从「眼眶里的涌起」一路推到「别人从外面看着同一副泪」，一句之内完成双方可见性。
 - **为什么这样写**：哭泣一节需要一个不靠面部肌肉的第二个样本，作者先从语言层取证（词联想成对出现），再叠上解剖学与「只有人类会哭」，最后用「透过自己的泪看见别人在看这泪」把共同知识的递归写成一个正在进行的知觉场景——先立同类，才能谈它与笑的镜像关系。
 
 > **原句 6:** "The idea that crying is a conspicuous signal of surrender in a conflict is a satisfying theory of the prototypical scenario. But as you read the explanation, I’m sure counterexamples surged into mind. Far from signaling misery, crying can be a source of pleasure, as when people pay good money to read a tearjerker or watch a three-hankie movie. People cry for joy at weddings. They cry when they are crowned Miss America, or win the NBA championship. They may cry in the presence of the sublime, like a closeup sighting of a whale, or, in the case of one of my colleagues, reading a brilliant PhD thesis in cognitive neuroscience."
@@ -94,11 +94,11 @@ modified: "2026-10-17"
 
 > **原句 8:** "Suppose he had caught on. He might, for example, have been quoting something from the referee’s report that he had not thought to associate with me, but with me beside him the attribution to me had become inescapable. He might have turned to me in shock as he discovered my dirty secret…. As we looked in each other’s faces, and he knew that I knew that he knew that I knew that he knew I was the referee, our “common knowledge” of my role would have allowed me no escape from an embarrassment that might have afflicted us both forever."
 
-- **中文理解**：假如对方看出来了：比如他正在引述审稿报告里的句子，忽然把某句话和自己身边的人对上了号——他可能会震惊地转头看我，因为他发现了我的肮脏秘密。当我们对视，而他知道我知道他知道我知道他知道我就是那个审稿人时，我对这件事的「共同知识」 will leave me 毫无退路，只留下一场也许纠缠我们一辈子的尴尬。
+- **中文理解**：假如对方看出来了：比如他正在引述审稿报告里的句子，忽然把某句话和自己身边的人对上了号——他可能会震惊地转头看我，因为他发现了我的肮脏秘密。当我们对视，而他知道我知道他知道我知道他知道我就是那个审稿人时，我对这件事的「共同知识」会让我毫无退路，只留下一场也许纠缠我们一辈子的尴尬。
 - **句子结构**：Suppose he had caught on 是省略主句的祈使式虚拟短句；He might, for example, have been quoting something… that he had not thought to associate with me, but with me beside him the attribution to me had become inescapable 用 might have been doing 的完成进行体虚拟＋but 转折；He might have turned to me in shock as he discovered my dirty secret…. 以省略号收住画面；末句 As we looked in each other's faces, and he knew that I knew that he knew that I knew that he knew I was the referee, our "common knowledge" of my role would have allowed me no escape from an embarrassment that might have afflicted us both forever 用五重 that 嵌套把递归演给读者看，主干 our "common knowledge"… would have allowed me no escape。
 - **关键词**：`he had caught on`、`the attribution to me had become inescapable`、`knew that I knew that he knew`、`allowed me no escape`
 - **表达方式**：嵌套的 he knew that I knew 不是解释递归，而是让读者被迫跑一遍递归——句式即论题；引号里的 common knowledge 是术语在日常语气中现身；afflicted us both forever 用 afflict 的病痛义把尴尬写成后遗症。
-- **为什么这样写**：本节要证明的命题是「脸红与尴尬要的是共同知识，相互知识不够」，而谢林这则匿名审稿人的寓言提供最锋利的一刀：事实一层没变、每个人知道的内容也没变，只是「对视」这一层被加上，退路就消失了。作者把它紧接在布吉斯「我在指控者面前脸红」之后，是要说明触发点不是罪感，而是那份无法否认的公开性。
+- **为什么这样写**：本节要证明的命题是「脸红与尴尬要的是共同知识，相互知识不够」，而谢林这则匿名审稿人的寓言提供最锋利的一刀：事实一层没变、每个人知道的内容也没变，只是「对视」这一层被加上，退路就消失了。作者在前文刚借布吉斯之口说过「我在指控者面前脸红」——触发点不是罪感而是那份公开性；谢林的场景把这份公开性推到必须靠对视才能成立的地步。
 
 > **原句 9:** "Whether or not the eyes are a window to the soul, they certainly are a window to the mind. Our eyeballs are in constant motion to extract detail from the spot in the visual world most relevant to our current interests, so when people follow our gaze they are reading our mind. And when the gaze they follow is gazing back at them, they are reading the mind of a mind reader. Eye contact is the ultimate common-knowledge generator: we are seeing the part of the person that sees us seeing them seeing us.51"
 
@@ -106,11 +106,11 @@ modified: "2026-10-17"
 - **句子结构**：首句 Whether or not the eyes are a window to the soul, they certainly are a window to the mind 用让步结构保留俗语、再换掉它的宾语；第二句 Our eyeballs are in constant motion to extract detail from the spot in the visual world most relevant to our current interests, so when people follow our gaze they are reading our mind 用 so 挂出推论，内含 when 从句；And when the gaze they follow is gazing back at them, they are reading the mind of a mind reader 把上一句的宾语升级为「读心者的读心」；末句 Eye contact is the ultimate common-knowledge generator: we are seeing the part of the person that sees us seeing them seeing us 冒号后以 seeing 的连环分词收尾。
 - **关键词**：`a window to the mind`、`reading the mind of a mind reader`、`the ultimate common-knowledge generator`、`sees us seeing them seeing us`
 - **表达方式**：mind of a mind reader 一语双关（呼应书名式的递归趣味）；the part of the person that sees 把「人」拆成「能看的那部分」，是全章最干净的现象学描写；分词链 seeing…seeing…seeing 在句尾越转越快。
-- **为什么这样写**：前三样表达都还需要「别人在场」，目光接触却自带双向验证：看这个动作本身就是被看见的对象。作者把这句放在本节最前，是因为后文所有应用（凝视即威胁、公开秘密要避目光、头显与视频会议失败）都可以从这一句直接推出——它是本节唯一的公理句。
+- **为什么这样写**：前三样表达都还需要「别人在场」，目光接触却自带双向验证：看这个动作本身就是被看见的对象。作者把这句放在本节最前，是因为后文的应用（凝视即威胁、公开秘密要避目光、头显与视频会议失败）都可以从这一句推出——它在功能上相当于本节的公理句。
 
 > **原句 10:** "Admittedly, an Ultimatum Game, like all the toys in behavioral labs, is contrived. But it distills a critical feature of real life. People are vulnerable to other people imposing their wills on them. Stubborn self-respect can give them a modicum of bargaining power that encourages others to treat them fairly. The glower helps to ratify this equilibrium of self-respect and equity, just as our other conspicuous displays ratify our friendships, hierarchies, and norms."
 
-- **中文理解**：诚然，最后通牒博弈和行为实验室里所有玩具一样，是人造的；但它把真实生活里一个关键特征蒸了出来：人容易被别人把自己的意志强加上去，而一股倔强的自尊能给他们一点点议价能力，让别人更愿意公平待他。怒视帮忙批准这套「自尊与公平」的均衡，正如我们那些显眼的身體表达批准着我们的友谊、等级与规范。
+- **中文理解**：诚然，最后通牒博弈和行为实验室里的所有玩具一样，是人造的；但它把真实生活里一个关键特征蒸了出来：人容易被别人把自己的意志强加上去，而一股倔强的自尊能给他们一点点议价能力，让别人更愿意公平待他。怒视帮忙批准这套「自尊与公平」的均衡，正如我们那些显眼的身體表达批准着我们的友谊、等级与规范。
 - **句子结构**：首句 Admittedly, an Ultimatum Game, like all the toys in behavioral labs, is contrived 让步开场、用 like 插入语自我拆台；But it distills a critical feature of real life 短句反手立起；People are vulnerable to other people imposing their wills on them 用 be vulnerable to + 动名词；Stubborn self-respect can give them a modicum of bargaining power that encourages others to treat them fairly 主干 give…power，that 从句再挂一层因果；末句 The glower helps to ratify this equilibrium of self-respect and equity, just as our other conspicuous displays ratify our friendships, hierarchies, and norms 以 just as 全比收尾，ratify 两处呼应。
 - **关键词**：`it distills a critical feature of real life`、`a modicum of bargaining power`、`ratify this equilibrium`、`our friendships, hierarchies, and norms`
 - **表达方式**：toys 与 distills 一对，先自认实验是玩具、再说玩具是蒸馏器；ratify（批准、使生效）是条约语域的词，被用来给身体表达授予法律效力；末句三个名词把全章收进一张清单。

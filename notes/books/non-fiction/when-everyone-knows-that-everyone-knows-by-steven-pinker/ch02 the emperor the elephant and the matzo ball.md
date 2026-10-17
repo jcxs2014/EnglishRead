@@ -51,7 +51,7 @@ modified: "2026-10-17"
 - **句子结构**：主句 he ensured that they now knew that everyone else knew what they knew，随后 that everyone knew that everyone knew that 再接 so on——用 that 的连锁从句直接演出递归。
 - **关键词**：`knew that everyone else knew what they knew`、`and so on`
 - **表达方式**：句法本身就是概念的样品；`within earshot of the others` 一句先埋下「听见」这一空间隐喻，为全章「显眼事件生成共同知识」定调。
-- **为什么这样写**：作者说过共同知识的形式定义长到「凡人的脑子装不下」——那他唯一的讲法就是让读者在句子里亲历一次嵌套。这句话是全书方法论的微缩：不讲定义，给体验。
+- **为什么这样写**：作者说过共同知识的形式定义长到「凡人的脑子装不下」——那他只能让读者在句子里亲历一次嵌套，以此替代定义。这句话是全书方法论的微缩：不讲定义，给体验。
 
 > **原句 3:** "Our heads start to spin with just two layers of thoughts within thoughts, and common knowledge requires an infinite number of them, which can’t fit inside a finite skull. Most likely it’s the simple intuition that the event is “public” or “out there” or “there for all to see”:"
 

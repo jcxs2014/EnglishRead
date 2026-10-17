@@ -98,7 +98,7 @@ modified: "2026-10-17"
 - **中文理解**：现在我们有词汇把 Aumann 同意定理翻成日常英语：若两个理性的人对某假设带着同样的背景假设（同样先验）出发，各自查看不同的证据并分享自己对假设为真的信心程度（即后验成为共同知识），他们就不能同意保留分歧。
 - **句子结构**：We now have the vocabulary to translate… into everyday English 宣告式主句；定理本体是 If two rational people start out…, and they each look… and share…, then they cannot… 的一长串条件—并列—结果句，括号两次挂注术语（same priors／posteriors are common knowledge）。
 - **关键词**：`the same priors`、`posteriors are common knowledge`、`cannot agree to disagree`
-- **表达方式**：translate into everyday English 是作者方法论自白——他相信形式定理可无损改写为白话；括号注是「术语—白话」双轨制的接口。
+- **表达方式**：translate Aumann’s Agreement theorem into everyday English 是作者方法论自白——他相信形式定理可无损改写为白话；括号注是「术语—白话」双轨制的接口。
 - **为什么这样写**：全章的智力高峰在此：Aumann 定理原文是测度论语言，作者用一句 if-and-then 白话把它交还给读者。两个括号不是装饰——它们标记「白话里必须锁死的技术项」：先验相同 + 后验共同知识，缺一结论就散。
 
 > **原句 9:** "That’s right: no leaving it at that, splitting the difference, acknowledging opposing views, allowing for different perspectives, respectfully disagreeing, or letting a thousand flowers bloom. It all sounds intolerant and dogmatic and authoritarian, an insult to the ideal of civility. But as we shall see, the implications of the theorem are rather enlightened, more along the lines of: facts don’t care about your feelings, it’s bigger than all of us, and it’s not about being right, it’s about getting it right.20"
