@@ -96,6 +96,10 @@ modified: "2026-10-17"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| love | 爱（此处是 Ruth 对 Ana 的称呼） | My love,’ she added, as though the words were suddenly unfamiliar to her. |
+| vampires | 吸血鬼（复数） | ‘It’s the vampires,’ she wept. |
+| war | 战争 | ‘They’re planning… They’re planning a war. |
+| apocalypse | 天启；世界末日（本章指女巫们要按下的那场「末日」） | ‘Samhain waits for no one, nor does the apocalypse. |
 
 ## 一句话总结
 
