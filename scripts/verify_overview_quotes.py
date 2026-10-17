@@ -127,9 +127,34 @@ def extract_quotes(txt: str):
             quotes.append(body)
     return quotes
 
+
+def overview_files(book_dir):
+    """收总览三篇，按**语义关键词**而不是 `00` 前缀（2026-10-17 修）。
+
+    原式 `glob('00*.md')` 漏掉一批本库真实存在的总览命名：
+    `00_全书概述.md`（14 本）、裸 `概述.md`/`金句精选.md`/`情感节点.md`（19/15/19 本）、
+    `00概述.md`（无分隔，4 本）、`01_金句精选.md`/`02_情感节点.md`（各 2 本）。
+    实测 **22 本书目录、62 件总览文件**在口径外 ⇒ 走到 `sys.exit(0)` 那句
+    「未找到总览文件，跳过」——**静默退出码 0**：报告里根本没有这一项，
+    读的人不会知道总览引语从未被核过（这属「跳过型假绿」，是三档分类缺的第四档）。
+
+    ⚠️ **顺带更正一条此前的错误诊断**：曾记「`00 概述.md` 空格型不被本工具收集」——
+    **错的**，Python 的 `glob` 里 `*` 本就匹配空格，`00*.md` 早就能收到空格型。
+    本库真实形态是**下划线型 `00_` 为主（1,034 件）＋空格型 `00 `（148 件）并存**，
+    空格型从来不是问题。
+
+    判据与 `check_overview_full.py:overview_files` 同口径（语义关键词），
+    全库章级文件（`chNN` 开头）含该三词的 **0 个**，故不会误收章节。
+    """
+    kw = re.compile(r'概述|金句|情感节点')
+    return sorted(p for p in glob.glob(os.path.join(book_dir, '*.md'))
+                  if kw.search(os.path.basename(p)))
+
+
 def main(book_dir: str, epub_path: str = ""):
-    if not glob.glob(os.path.join(book_dir, "00*.md")):
-        print(f"⚠️ 未找到 00*.md 总览文件（{book_dir}），跳过")
+    ovs = overview_files(book_dir)
+    if not ovs:
+        print(f"⚠️ 未找到总览文件（{book_dir}；按语义关键词 概述/金句/情感节点 判定），跳过")
         sys.exit(0)
 
     # 参照集优先级（与 sweep_full 一致）：有 epub 用 epub，否则退到逐章 text/。
@@ -155,7 +180,7 @@ def main(book_dir: str, epub_path: str = ""):
     splice_list = []
     gap = []   # 口径外：有像引语的 > 行却提取到 0 条
     bare = []  # 无引语：确实没有可核的引语行（正常）
-    for f in sorted(glob.glob(os.path.join(book_dir, "00*.md"))):
+    for f in ovs:
         name = os.path.basename(f)
         nfiles += 1
         txt = open(f, encoding="utf-8").read()

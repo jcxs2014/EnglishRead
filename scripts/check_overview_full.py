@@ -169,6 +169,30 @@ def label_near(line, span_start, span_end):
     return (str(int(m.group(1))) + m.group(2)) if m else None
 
 
+def overview_files(book):
+    """收总览三篇，按**语义关键词**而不是编号前缀（2026-10-17 修）。
+
+    原式 `glob('0*.md')` 有两个方向的问题，都是全库实测：
+
+    ① **多收**：任何 `0N …` 数字开头的文件都被当总览——而短篇合集的章节文件
+       正是 `01 Walker Brothers Cowboy.md` 这种命名。实测 36 本书目录被多收，
+       dance-of-the-happy-shades 整本 9 个**章节文件**被当 9 篇总览跑核查，
+       报告写出「总览文件 9 个 / A 整串命中 145 / ❌ 查无 2」——
+       **那些数字全部来自章节层，与总览层无关**，读的人会以为总览有 2 条查无。
+    ② **漏收**：`00_全书概述.md`（14 本）、裸 `概述.md`/`金句精选.md`/`情感节点.md`
+       （各 19/15/19 本）、`01_金句精选.md`、`02 情感节点.md`、`00概述.md`（无分隔）
+       等命名**不含 `0N` 前缀或前缀不是 `0N`** ⇒ 一条都收不到。
+       实测 22 本书目录、62 件总览文件在口径外。
+
+    判据取文件名里的**语义关键词**（`概述` / `金句` / `情感节点`）：
+    全库 1,273 个数字开头的 md 中，含这些词的就是总览件，其余全是章节/装置页；
+    章级文件（`chNN` 开头）含这些词的 **0 个**，故不会误收。
+    """
+    kw = re.compile(r'概述|金句|情感节点')
+    return sorted(p for p in glob.glob(os.path.join(book, '*.md'))
+                  if kw.search(os.path.basename(p)))
+
+
 def main():
     args = sys.argv[1:]
     quiet = '--quiet' in args
@@ -176,10 +200,10 @@ def main():
     if not pos:
         raise SystemExit('用法: check_overview_full.py "<书目录>" [--quiet]')
     book = pos[0]
-    ovs = sorted(glob.glob(os.path.join(book, '0*.md')))
+    ovs = overview_files(book)
     if not ovs:
         print('=== 总览整串核查（%s）===' % os.path.basename(book.rstrip('/')))
-        print('  该书无 0*.md 总览文件。')
+        print('  该书无总览文件（按语义关键词 概述/金句/情感节点 判定）。')
         print('  ⚠️ 注意：**短篇合集豁免总览三篇**（§10.5 第 4 维），缺总览不算缺陷；')
         print('     但若本应有总览而缺失，请人工确认体裁。')
         return 2

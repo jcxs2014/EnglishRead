@@ -63,9 +63,39 @@ LEAD_NUM = re.compile(r"^(?:\s*(?:[%s]|\d+\s*[.、)])\s*)+" % NUM)
 CJK = re.compile(r"[一-鿿]")
 # 形态 A（概述/情感节点）：`> {Q}（chNN）`
 # 形态 B（金句精选）：`① {Q}（chNN）` 主条 + 呼应关系里的 `- {Q}（chNN）`
-LINE_B = re.compile(r"^\s*(?:[-*]\s+|[%s]\s+)(.+?)$" % NUM)
-OVERVIEWS = ("00_概述.md", "00_情感节点.md", "00_金句精选.md")
+# 2026-10-17 修：原式只认 `- `/`* `/圈码三种行首，**不认阿拉伯数字**，
+# 而本库金句件还有 `1. "…"` / `12)` 形态 ⇒ 那些行根本没进扫描集。
+# 实测全库：**只有 1 本**（miss-bates-by-catherine-cliff，25 条）因此被漏收，
+# 修后这 25 条进扫描集并被逐条核。
+# ⚠️ 曾同时放宽 `### ` 行首，实测**收益 0 条、代价 691 行**——那 40 本用 H3 分节的
+# 金句件，引语写在 H3 段内的 `> **原句 N:** "…"` 上、章号另起 `**章节**：chNN`，
+# H3 标题行本身只是 `① 题词：厌女的三张面孔` 这样的中文小节名，进来只会被记成
+# 「跳过无标签行」虚增噪声。⇒ **`### ` 不收**：另一种标注形态（`**章节**：` 行）
+# 不属本工具的「`（chNN）` 标签层」职责，由 `verify_overview_quotes.py` 负责。
+# ⚠️ 顺序：`- ` 必须排在数字之前，否则 `1. - ` 里的 `-` 不会被优先消费。
+LINE_B = re.compile(r"^\s*(?:[-*]\s+|\d+\s*[.、)]\s*|[%s]\s+)(.+?)$" % NUM)
+# ⚠️ 原 `OVERVIEWS = ("00_概述.md", "00_情感节点.md", "00_金句精选.md")` 已于 2026-10-17
+# 随 `overview_files()` 一并删除——文件名三元组正是漏收 40 本书目录的成因，见下。
 MIN_SEG = 8  # 短于此的片段不做 flat 查找（否则单字母/短词必然误报）
+
+
+
+def overview_files(book):
+    """收总览三篇，按**语义关键词**而不是编号前缀（2026-10-17 统一口径）。
+
+    本工具此前有两条兼容逻辑：① 硬编码 `OVERVIEWS` 三个文件名；
+    ② 2026-10-15 加的「`00_*` ∪ `00 *` + 六个前缀白名单」。两条都仍漏：
+    `00_全书概述.md`（14 本）、裸 `概述.md`/`金句精选.md`/`情感节点.md`（19/15/19 本）、
+    `00概述.md`（无分隔，4 本）、`01_金句精选.md`/`02_情感节点.md`（各 2 本）——
+    实测 **40 本书目录、90 件总览文件**在本工具口径外。
+
+    判据与 `check_overview_full.py` / `verify_overview_quotes.py` 的 `overview_files`
+    完全一致（三处口径必须同，否则同一段文字在 A 段被核、B 段看不见）。
+    全库章级文件（`chNN` 开头）含 `概述|金句|情感节点` 的 **0 个**，故不会误收章节。
+    """
+    kw = re.compile(r'概述|金句|情感节点')
+    return sorted(p for p in glob.glob(os.path.join(book, '*.md'))
+                  if kw.search(os.path.basename(p)))
 
 
 def parse_quotes(md_path):
@@ -77,7 +107,12 @@ def parse_quotes(md_path):
     ⚠️ 序言：行首的 `①`/`1.` 必须在 flat 之前剥掉，否则 `flat_alpha` 的 NFKD 会把
     `①` 归一成 `1` 留在指纹头部，**每一条都必然查无**（ticket-to-mars 全红实证）。
     """
-    is_jinju = os.path.basename(md_path) in ("00_金句精选.md", "00 金句精选.md")
+    # 2026-10-17 修：原式只认 `00_金句精选.md` / `00 金句精选.md` 两个文件名，
+    # 而本库还有裸 `金句精选.md`（15 本）、`01_金句精选.md`（2 本）、`00_金句集.md`（2 本）
+    # ⇒ 这些书的金句件被当**非金句**处理，走 `^> ` 分支，而金句精选实际是 `- `/`①` 形态
+    # ⇒ 抽出 0 条又被记作「无引语行（正常）」＝ 又一处**静默跳过型假绿**。
+    # 改按语义关键词判，与 `overview_files` 同一判据。
+    is_jinju = "金句" in os.path.basename(md_path)
     out = []
     skipped = 0
     with io.open(md_path, encoding="utf-8") as f:
@@ -89,9 +124,17 @@ def parse_quotes(md_path):
                 body = line[2:].strip()
             else:
                 m = LINE_B.match(line.rstrip("\n"))
-                if not m:
+                if m:
+                    body = m.group(1).strip()
+                elif line.startswith("> "):
+                    # 2026-10-17 修：金句件里**混用形态 A**（`> "…（chNN）"`），
+                    # 而本分支只走 `LINE_B`、`LINE_B` 不认 `> ` ⇒ 全库 373 行
+                    # （实测 `> "` 342 + `> "“` 31）根本没进扫描集，又被记作
+                    # 「跳过无标签行」。两分支的**判定口径本应相同**（都是找
+                    # 「纯英文 + 尾部 `（chNN）`」的行），前缀只是行内写法。
+                    body = line[2:].strip()
+                else:
                     continue
-                body = m.group(1).strip()
             body = LEAD_NUM.sub("", body)
             m = LABEL.search(body)
             if not m:
@@ -162,22 +205,9 @@ def main():
     a = ap.parse_args()
 
     book = a.book_dir
-    ovs = [os.path.join(book, n) for n in OVERVIEWS]
-    ovs = [p for p in ovs if os.path.exists(p)]
+    ovs = overview_files(book)
     if not ovs:
-        # 2026-10-15 兼容空格型总览命名（these-vengeful-wishes 五步审查实证）：
-        # 本库总览既有 `00_概述.md`（192 个）也有 `00 概述.md`（21 个）两种形态，
-        # 只认硬编码的下划线名会让空格型整本「跳过」⇒ 总览引语与章节标签
-        # 从未被本工具校验。两种形态都收，按三个语义前缀匹配。
-        for cand in sorted(glob.glob(os.path.join(book, "00_*.md"))) + \
-                    sorted(glob.glob(os.path.join(book, "00 *.md"))):
-            base = os.path.basename(cand)
-            if any(base.startswith(pfx) for pfx in ("00_概述", "00 概述",
-                                                     "00_金句精选", "00 金句精选",
-                                                     "00_情感节点", "00 情感节点")):
-                ovs.append(cand)
-    if not ovs:
-        print(f"⚠️ 未找到 {OVERVIEWS[0]} 等总览文件（{book}），跳过")
+        print(f"⚠️ 未找到总览文件（{book}；按语义关键词 概述/金句/情感节点 判定），跳过")
         return 0
 
     epub = a.epub

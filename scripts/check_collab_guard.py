@@ -35,6 +35,16 @@ def load(use_head):
     return io.open("COLLABORATION.md", encoding="utf-8").read(), "工作树"
 
 
+def _ts(head):
+    """从抬头取「发帖时间」：标准式 `### [2026-10-17 18:14 UTC] [X] → All`
+    与双时间式 `### [2026-10-16 12:00 UTC / 完工 2026-10-16 13:16 UTC] [X] → All`
+    都要吃得下（2026-10-17 实测修：原式只取 `(\\d\\d:\\d\\d)` 丢日期段，跨日误报）。
+    **取第一个**时间戳＝发帖时间，与 post_collab.py 的 `--at` 语义一致。
+    """
+    m = re.search(r"(\d{4}-\d{2}-\d{2})[ T](\d{2}:\d{2})", head)
+    return (m.group(1), m.group(2)) if m else None
+
+
 def main():
     use_head = "--head" in sys.argv
     text, where = load(use_head)
@@ -65,11 +75,15 @@ def main():
             lost = set(l.strip() for l in h.split("\n") if l.startswith("### [")) - set(msgs)
             bad.append("消息数 %d < HEAD 的 %d，疑似丢失 %d 条：%s"
                        % (len(msgs), n_head, len(lost), sorted(lost)[:3]))
-    # ④ 时序：首条应最新
+    # ④ 时序：首条应最新（**按日期+时分一起比，不能只比时分**——
+    #    2026-10-17 实测修：原式 `(\d\d:\d\d)` 只取时分、丢掉日期段，跨日一律误报
+    #    「可能未按最新到最旧插入」；板上 10-05 / 10-07 各因此被人误判为「属他实例乱序」，
+    #    白查一轮。抬头可能是双时间结构 `[发帖时间 / 完工时间]`，取**第一个**时间戳为准）
     if len(msgs) > 1:
-        a = re.search(r"(\d\d:\d\d)", msgs[0]); b = re.search(r"(\d\d:\d\d)", msgs[1])
-        if a and b and a.group(1) < b.group(1):
-            print("⚠️  提示：首两条时间戳 %s < %s，可能未按「最新到最旧」插入" % (a.group(1), b.group(1)))
+        a = _ts(msgs[0]); b = _ts(msgs[1])
+        if a and b and a < b:
+            print("⚠️  提示：首两条时间戳 %s < %s，可能未按「最新到最旧」插入"
+                  "（**本项是提示型、不判红**，且只比首两条——板中部乱序本守卫看不见）" % (a, b))
 
     # ⑤ 模板头**不得重复**（我曾误判事故为「头被截断」而补了一份，
     #    结果文件里出现两份头——守卫当时放行，因为只查「有没有」不查「有几份」）
