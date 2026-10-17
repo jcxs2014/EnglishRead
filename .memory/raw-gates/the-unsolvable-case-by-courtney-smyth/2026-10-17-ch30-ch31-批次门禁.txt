@@ -1,0 +1,61 @@
+=== 批17 ch30+ch31 批次门禁 2026-10-17 17:47 UTC ===
+
+### 1) verify_quotes
+
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 283/283 引文可核实（100%）；完全干净文件 36/36；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+### 2) verify_quotes --full
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 283/283 引文可核实（100%）；完全干净文件 36/36；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+### 3) check_vocab
+词条行合计: 828
+
+--- FAIL (0) ---
+
+### 4) check_entities
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+### 5) cq 30/31
+ch30 mount hallow.md: 8/8 in ch30 text
+ch31 the giant woodlouse.md: 8/8 in ch31 text
+
+### 6) corruption_scan
+=== 编辑损坏扫描（the-unsolvable-case-by-courtney-smyth）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+### 7) sweep_analysis_inline
+=== 分析层行内英文逐字核查（the-unsolvable-case-by-courtney-smyth）===
+  参照集：text/（50 个提取件） + epub 交叉验证 ；扫 36 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：1044 个表格行、954 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 1609 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 1 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 22
+  🟠 ch31 the giant woodlouse.md:49  「had been nice at times」→ 内容词 2/2 命中（nice/times）——疑漏词或改写
+
+### 8) audit_structure
+  扫 36 个 md、285 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+### 9) check_short_quotes
+  verify_quotes 跳过（<20 flat 字符）的引语：2 条 —— 这些主门禁**根本没查**
+  ✅ 命中 2 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== §11 修复后复跑 2026-10-17 17:48 UTC ===
+【本轮 1 条提示型】ch31:49 关键词写『had been nice at times. Fun, even』，原文为『It had even…been nice at times』——句中断开（even 与 been 之间插了括号旁白），整串非连续 ⇒ 关键词改为不跨断点的『been nice at times』『Fun, even』两段。
+  落点 #14 表格单元格：1044 个表格行、954 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 1609 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 22
+
+
+=== 总计 283/283 引文可核实（100%）；完全干净文件 36/36；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+ch30 mount hallow.md: 8/8 in ch30 text
+ch31 the giant woodlouse.md: 8/8 in ch31 text
+
+=== 编辑损坏扫描（the-unsolvable-case-by-courtney-smyth）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
