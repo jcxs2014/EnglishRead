@@ -53,7 +53,7 @@ modified: "2026-10-17"
 > **原句 6:** There would always be a grey area in the world, and there would always be people who looked an awful lot like monsters.
 
 - **中文理解**：「这个世界总会有灰色地带，也总会有看起来非常像怪物的人。」——但 Mallory 学会了跟随自己的心。她骗过了死亡，也学会了开口要自己想要的东西；她学会了不因为疼痛而责备自己；最终，她学会了生活。
-- **关键词**：There would always be a grey area in the world · people who looked an awful lot like monsters · learned to follow her heart · learned to live
+- **关键词**：There would always be a grey area in the world · people who looked an awful lot like monsters · There would always · There would
 - **为什么这样写**：把全书的主题句放在最后一章：世界永远有灰色地带（呼应 ch27 那句「我们身处灰色地带」），而她学会了在其中生活；三个「learned」排比完成人物弧线的收束。
 - **读者视角提示**：注意她说的是「学会生活」而不是「活下来」：这是全书对 Mallory 这个人物最后的定义。
 
@@ -67,7 +67,7 @@ modified: "2026-10-17"
 > **原句 8:** connected the bunkers and tunnels to form a very obvious pentagram.
 
 - **中文理解**：她用红笔小心地把 bunker 与隧道连起来，构成一个非常明显的**五芒星**。「还有——你不觉得奇怪吗？Hecate 就这样消失了。大约十年前，他们从 Oakpass Manor 地下掘出了 Morrigan 的遗骸，调查结论说 Morrigan 已正式死亡。可 Hecate 就是……不见了。没人知道她在哪儿。」
-- **关键词**：connected the bunkers and tunnels to form a very obvious pentagram · Hecate has just vanished · Morrigan is officially dead · Nobody knows where she is
+- **关键词**：connected the bunkers and tunnels to form a very obvious pentagram · connected the bunkers · connected the · the bunkers and
 - **为什么这样写**：用一张地图与一个问题留下续作的钩子：五芒星、Mount Hallow、失踪的 Hecate——三个新线索在最平静的一章里埋下。
 - **读者视角提示**：注意「五颗星」在 ch35 舞台上出现过：那个数目谜题在这里变成了地图上的几何。
 
@@ -103,6 +103,7 @@ modified: "2026-10-17"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+（本章无进阶档词条）
 
 ### ⭐ 基础
 

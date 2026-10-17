@@ -32,36 +32,42 @@ modified: "2026-10-17"
 > **原句 3:** Ruth’s eyelashes fluttered as she leaned over Ana’s shoulder to check her calculations. ‘I am somewhat distracted by the necessity of our success. My love,’ she added, as though the words were suddenly unfamiliar to her. ‘We are low on time, and even lower on time for mirth.’
 
 - **中文理解**：Ruth 的睫毛颤了颤，她俯身越过 Ana 的肩去看她的计算。「我有点被我们必须成功的这份必要性分了心。」接着她补了一句「我的爱」，仿佛这几个字忽然对她变得陌生。「我们时间不多了，能用来欢笑的时间更少。」
+- **关键词**：as though the words were suddenly unfamiliar to her · distracted by the necessity of our success · even lower on time for mirth
 - **为什么这样写**：整句用身体动作（睫毛颤动、俯身）包住一句心不在焉的对话。distracted 先给 Ruth 的疏离开口，紧接着的 My love 却暴露关系正在变味——as though the words were suddenly unfamiliar to her 把情话写成一句台词，说的人和听的人都隔了一层。末句用比较级把「没时间」压成「连笑都没时间」，是这一章情感走向的灰调预告。
 - **读者视角提示**：这是读者第一次和 Ana 同时察觉枕边人变了。后文 Ana 感到「找不回原来的 Ruth」时，源头就在这里的 unfamiliar——Ruth 的每一次「不像她」都带着回声。
 
 > **原句 4:** Ana should’ve been more afraid, at this point in the story. She should’ve felt panic that things were moving too fast, that they were not all on the same page, that there were wheels in motion that could not be stopped.
 
 - **中文理解**：在故事的这一刻，Ana 本该更害怕一些。她本该感到恐慌：事情进展得太快，她们并不站在同一条心上，有些齿轮已经转了起来、再也停不下。
+- **关键词**：should’ve been more afraid · wheels in motion that could not be stopped · at this point in the story
 - **为什么这样写**：三个并列的「本该」全部停在虚拟语气里——叙述者替 Ana 补写她当时没有感受到的情绪，等于在事故报告上逐条勾选本该亮起的警报。at this point in the story 又一次把叙述者抬到故事之上（他知道结局）。wheels in motion that could not be stopped 是机械隐喻：一旦启动，只能等它碾过去，谁也追不回来。
 - **读者视角提示**：这句话是给重读者的：第一次读是铺垫，回看时它是一份逐条对账的事故报告——列出的「本该」后来几乎都成了真。
 
 > **原句 5:** Instead, she was focused on the future. A little bloodshed now, endless lifetimes later. (If a goddess promises you the world, you listen. You have to.)
 
 - **中文理解**：相反，她只盯着未来。眼下流一点血，往后就是无尽的寿命。（如果一位女神许诺你整个世界，你会听。你只能听。）
+- **关键词**：focused on the future · a little bloodshed now · endless lifetimes later
 - **为什么这样写**：紧接上一句的恐惧清单，用 Instead 一笔划掉，换成交易逻辑——a little bloodshed now, endless lifetimes later 用最省字的对价句式，把七条性命折算成投资回报。括号里那句的着力点在末尾：不是「她想听」，而是「她只能听」（You have to），把选择权交给神与结构，责任就此转手。
 - **读者视角提示**：记住你只能听这个辩词。这本书里几乎每个作恶者都用类似的句式替自己开脱，读到后面再看这一句，它是全书道德账目上落下的第一笔。
 
 > **原句 6:** ‘SHE WAS MINE TO KILL!’ he shouted, summoning the townspeople who put two and two together, distrust blooming as quickly as it was seeded.
 
 - **中文理解**：「她本该由我来杀！」他吼道，把镇民都召了过来；众人把线索一拼，不信任便像被播下种子一样迅速开花。
+- **关键词**：SHE WAS MINE TO KILL · put two and two together · distrust blooming
 - **为什么这样写**：全章唯一的大写台词，把一桩私怨（她该由我来杀）吼成了公共事件：一个本该保密的「配额」被喊成公开指控，于是镇民那套 put two and two together 的「推理」其实是被喂进去的——所谓恍然大悟，只是有人替他们喊出了结论。后半句让 bloom 与 seeded 同现，把不信任写成植物：它早就种下了，这一嗓子只是浇水。
 - **读者视角提示**：本书第一次出现的「把线索拼起来」就已经是被操纵的。跟着主角们破案时，记得这条先例——在这个世界里，推理是可以被导演的，而导演正是叙述者。
 
 > **原句 7:** Had anyone thought to look closely, they would see Sir Kingston had accessorised with an emerald ring, that he was moving with the slowness of someone with weeks, rather than months, of a pregnancy left. (This is what denial of truth does to time.)
 
 - **中文理解**：要是当时有人肯仔细看一眼，就会看见 Sir Kingston 戴着一枚绿宝石戒指，看见他行动的迟缓程度像是一个只剩几周、而不是几个月就要分娩的人。（这就是否认真相会对时间做的事。）
+- **关键词**：Had anyone thought to look closely · accessorised with an emerald ring · what denial of truth does to time
 - **为什么这样写**：本章最关键的一条线索被塞进反事实句里——Had anyone thought to look closely，等于告诉读者真相一直摆在明面上，只是没人肯看。戒指与「以周计而不是以月计的孕期」两个生理/饰品细节并置，读者能凭它们去推断说话者与那场谋杀的关系；而括号旁白立刻把生理细节上升为主题判断：否认真相，会让时间本身变形。
 - **读者视角提示**：这是埋得最实的一颗钉子。重读时你才发现「她该由我来杀」不是怒而是失手后的泄底，而 weeks 与 months 的差额就是这个案子的时间戳——本章已经把物证交给读者，只是没附说明书。
 
 > **原句 8:** Though history has a habit of repeating itself.
 
 - **中文理解**：历史有重复自己的习惯。
+- **关键词**：history has a habit of repeating itself
 - **为什么这样写**：用一句格言收束本章，也把全书结构的钥匙交出来——本章属于最远的过去层，正文其余 44 章讲的是同一件事的再一次发生（re-enactments 一词在本章已先期出现）。用 a habit 而非 always，保留了「是否必然重演」的余地；反身代词 itself 则把历史写成一个会重复动作的主体，而不是被动的被重复对象。
 - **读者视角提示**：读完第 45 章再回看这一句，它从格言变成判词：重复的不是巧合，而是这套「以真相为代价换和平」的做法本身。
 

@@ -18,7 +18,7 @@ modified: "2026-10-17"
 > **原句 1:** Open your eyes,’ Theodore whispered.
 
 - **中文理解**：「睁开眼，」Theodore 低声说。三人躺在地上，Memorial Gardens 像被飓风扫过；一道刺眼的白光之后，所有人都趴下了。盐被风吹散，他觉得自己像被劈成两半，但没有比朋友更要紧的事。
-- **关键词**：Open your eyes · torn up like a hurricane had hit it · a brilliant white flash · nothing more important than his friends
+- **关键词**：Open your eyes · Open your · your eyes ’ · your eyes
 - **为什么这样写**：开篇用最轻的一句请求（open your eyes）接住上一章的世界末日：作者不写爆炸，只写一个人跪在朋友身边叫他们醒来。
 - **读者视角提示**：注意「他觉得自己像被劈成两半」：这是他作为萨温鬼魂的第一次「濒死体验」，也预示他之后的选择。
 
@@ -46,7 +46,7 @@ modified: "2026-10-17"
 > **原句 5:** But Grey had wormed his way in. He had not judged Theodore, no matter how Theodore had felt about it at the time. He had pushed back at what he considered to be ‘dramatics’ – a ludicrous notion, Theodore was nothing but honest in his displays of emotion! – but Grey had only ever been there for him, when it came down to it, where it mattered, and the thought of existing without him was so agonising, he briefly thought about destroying the lightbulb himself. Going out like Jacob had. A penance for his involvement in the almost-apocalypse.
 
 - **中文理解**：但他没有说出口：他曾以为自己的心只装得下朋友；他曾短暂地以为 Jacob 可以挤进那个位置（在 Jacob 被证明是个「混蛋」之前）；可 Grey 一点点钻了进来。他不评判 Theodore，无论 Theodore 当时怎么想；他会反驳他所谓的「戏精」，但归根到底，在要紧的地方，他一直都在。
-- **关键词**：his heart was only big enough to fit his friends in it · Grey had wormed his way in · Grey had only ever been there for him · where it mattered
+- **关键词**：Grey had wormed his way in · Grey had only ever been there for him · where it mattered · But Grey had
 - **为什么这样写**：全书写 Grey 与 Theodore 关系最直白的一段，而且用「心只装得下朋友」这种孩子气的说法：爱在这里不是宣言，而是「心的容量不够」这种笨拙的比喻。
 - **读者视角提示**：注意这段出现在 Grey 已经「死」之后：作者让他在最不可能的时候承认爱。
 
@@ -67,7 +67,7 @@ modified: "2026-10-17"
 > **原句 8:** I believe you,’ Mallory said finally.
 
 - **中文理解**：「我相信你，」Mallory 终于说。Theodore 眨着眼看她，手还停在半路。「我相信你的判断，」Cornelia 对她说。Diana 眯起眼看他：「我相信我自己。我也相信他。」
-- **关键词**：I believe you · I trust your judgement · I trust myself. I believe him, too
+- **关键词**：I believe you · I believe · believe you ’
 - **为什么这样写**：三种「相信」并排出现，各自带着自己的理由（她信事实、她信她、她信自己）：作者用三种人格完成同一个决定，比任何一句「我们原谅你」都更有分量。
 - **读者视角提示**：注意她们没有说「原谅」：她们说的是「相信」——这本书里最贵的词。
 

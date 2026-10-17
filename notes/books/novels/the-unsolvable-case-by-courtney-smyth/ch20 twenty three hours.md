@@ -74,7 +74,7 @@ modified: "2026-10-17"
 > **原句 9:** ‘Bunker’s empty. Ghoul Council are furious, but Alan’s just got to Mayoral Square and you’re going to need to see this. Right now. Hawthorne can’t have done—’
 
 - **中文理解**：对讲机里传来：「bunker 是空的。Ghoul Council 气疯了，但 Alan 刚到 Mayoral Square，你得马上来看这个——Hawthorne 不可能干得了——」Tate 关掉对讲机，翻身站起：「审讯结束。」
-- **关键词**：Bunker's empty · Ghoul Council are furious · Alan's just got to Mayoral Square · you're going to need to see this · Interview concluded
+- **关键词**：Bunker's empty · Ghoul Council are furious · Alan's just got to Mayoral Square · you're going to need to see this · Bunker’s empty Ghoul
 - **为什么这样写**：用一个外部事件把审讯强行中止，是全章结构的转折点：它同时带来两条消息（Blair 逃脱、城里又出事），也第一次让 Tate 露出「不确定」的表情。
 - **读者视角提示**：注意「Hawthorne 不可能干得了」这句没说完的话——它意味着新出的事与 Mallory 的作案能力无关，等于替她排除了嫌疑，也正是 Tate 脸色垮掉的原因。
 

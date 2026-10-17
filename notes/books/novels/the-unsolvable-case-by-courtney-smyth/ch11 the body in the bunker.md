@@ -11,7 +11,7 @@ modified: "2026-10-17"
 - **一句话概括**：Theodore 潜进 Oakpass Manor，在餐厅里偷听到 Ghoul Council 的新任掌权者 Nova Khan 与 Olivia Reid 向 Grey 摊牌——他们想要这座宅邸，因为它与 Wrackton、Ternion 有比想象更深的联系；更要紧的是，Broadwick 夫妇之所以退出一切，是五个月前被 Besieged、诅咒将在明晚（Samhain）结束；随后 Terror Voice 逼他下到宅邸地下的 bunker，那里堆着尸体，而最上面那一具，是他自己。
 - **情感弧线位置**：Theodore 的「交易」加深了一层。他一边替 Voice 布置 Larix 的现场，一边拼命给自己找可以被原谅的理由；本章他第一次意识到朋友们也都在倒计时里——而他能做的只有继续撒谎。
 - **叙事手法**：全章靠**偷听＋独白**推进：Theodore 的旁白不断自我修正（inconspicuously… all your main values），把间谍场面写成喜剧，越紧张越好笑；Terror Voice 用歌谣形式交代 bunker 网络，把恐怖嵌进儿歌的节奏；章末连用三个同头短句（A body… A body… A body…）把身份揭示压成一记节拍。
-- **线索进展**：① Broadwick 夫妇五个月前被 Besieged，诅咒明晚结束（Hexana’s mark is in play）——时间与 Wickermere Reaper 案对齐；② Ghoul Council 认定 Wrackton、Ternion 与 Oakpass Manor 之间存在更深的联系，Dorothy 生前留下了证据；③ Grey 的算盘：拿宅邸里的东西当赎金或逼 Council 买下宅子，他反复想起 Hollis Hadley；④ Voice 的韵文「Elder and oak, willow and red. Larch the fifth and buried again.」指向 Wrackton 地下的 bunker 网络；⑤ Oakpass 地下的 bunker 里有一堆尸体，最上面那具是 Theodore 自己的遗体；⑥ 末句「Samhain approaches. You know what to do.」
+- **线索进展**：① Broadwick 夫妇五个月前被 Besieged，诅咒明晚结束（Hexana’s mark is in play）——时间与 Wickermere Reaper 案对齐；② Ghoul Council 认定 Wrackton、Ternion 与 Oakpass Manor 之间存在更深的联系，Dorothy 生前留下了证据；③ Grey 的算盘：拿宅邸里的东西当赎金或逼 Council 买下宅子，他反复想起 Hollis Hadley；④ Voice 的韵文「Elder and oak, willow and red. Larch the fifth and buried again.」指向 Wrackton 地下的 bunker 网络；⑤ Oakpass 地下的 bunker 里有一堆尸体，最上面那具是 Theodore 自己的遗体；⑥ 末句：Terror Voice 在他耳边低语「Samhain approaches」，并说「You know what to do.」
 
 ## 精读
 

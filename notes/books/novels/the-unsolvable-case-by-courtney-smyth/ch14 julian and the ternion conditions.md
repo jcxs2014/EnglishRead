@@ -18,7 +18,7 @@ modified: "2026-10-17"
 > **原句 1:** I didn’t see anything, but thinking back on it, the air did feel warmer,’ Cornelia said. ‘A presence of some kind.’
 
 - **中文理解**：Cornelia 说她什么都没看见，但回想起来，那片空气确实更暖，「某种存在」在那里。
-- **关键词**：the air did feel warmer · A presence of some kind · Evidence wasn't there
+- **关键词**：the air did feel warmer · A presence of some kind · I didn’t see
 - **为什么这样写**：让最讲证据的团队接受一条「体感证据」，既替 Mallory 保住她的直觉，也把「鬼魂是否在场」从信仰问题变成待验证的变量——为后面「隐形的鬼」这一整条假设铺路。
 - **读者视角提示**：注意 Diana 是用助听器的杂音与温度计式的判断否定它——她的标准并没有错，只是这一章的答案暂时不在她的量程里。
 
@@ -46,7 +46,7 @@ modified: "2026-10-17"
 > **原句 5:** What if – and this is a big, long leap – but what if the conditions didn’t require the Ternion to be living?’
 
 - **中文理解**：「如果条件并不要求 Ternion 是活着的呢？」Mallory 问出这句时，Diana 与 Cornelia 都惊恐地看着她。
-- **关键词**：the conditions didn't require the Ternion to be living · came back as Samhain ghosts
+- **关键词**：the conditions didn't require the Ternion to be living · What if and
 - **为什么这样写**：这是全章的引爆点，也是全书结构的一次翻转：把「召唤女神」改写成「女神早已以鬼魂形态回来过」，于是 Vampire Wars、Ternion 彩绘玻璃与 Theodore 的存在被同一套机制串起来。
 - **读者视角提示**：注意 Johnson 的回应不是否定，而是「你是说她们的遗骸被找到了？」——他在替读者把假设补完。
 

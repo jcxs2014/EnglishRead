@@ -39,7 +39,7 @@ modified: "2026-10-17"
 > **原句 4:** Mallory was barely paying attention to any of this, and was instead staring at a murder board behind Grey. It was unmistakable: it had TW: MURDER written in the centre, with various borderline illegible squiggles around it that were not Theodore’s writing.
 
 - **中文理解**：Mallory 几乎没在听这些，她在盯着 Grey 身后那块案件板：上面明明白白写着 TW: MURDER，周围是一圈几乎看不清的潦草字迹——那不是 Theodore 的笔迹。「你在试着破 Theodore 的谋杀案？」她尽量没让声音里的难以置信露出来。
-- **关键词**：a murder board behind Grey · TW: MURDER written in the centre · not Theodore's writing · Are you trying to solve Theodore's murder
+- **关键词**：a murder board behind Grey · TW: MURDER written in the centre · not Theodore's writing · Mallory was barely
 - **为什么这样写**：让「案件板」这个三人组的专属工具出现在旧敌家里，一句话就说明他做了多久、做到多深；而「不是 Theodore 的笔迹」这一细节，是给读者的确认。
 - **读者视角提示**：把这块板与 ch17 里 Theodore 描述的那块（他自己搬来的书桌、白板、红色细线）对照：Grey 把他的话照做了。
 
@@ -53,7 +53,7 @@ modified: "2026-10-17"
 > **原句 6:** A chair for Theodore. In the ‘home’ of his once-greatest enemy.
 
 - **中文理解**：一张给 Theodore 的椅子，就在他昔日最大敌人的「家」里。她完全不明白这意味着什么。
-- **关键词**：A chair for Theodore · In the ‘home’ of his once-greatest enemy · She had no idea what it meant
+- **关键词**：A chair for Theodore · In the ‘home’ of his once-greatest enemy · A chair for
 - **为什么这样写**：用一个物件（盖着铁毯的高背椅）代替所有解释：他们的关系已经深到会为对方留一个座位，而旁观者（Mallory，也是读者）只能猜测。
 - **读者视角提示**：这张椅子与 ch17 里「Grey 用恶魔魔法造出脑内保险库」是同一件事的两个证据：他给 Theodore 的不只是一间屋子。
 
@@ -67,7 +67,7 @@ modified: "2026-10-17"
 > **原句 8:** He’s playing checkers,’ Kingston offered, standing over Grey’s chessboard with his fingers on the king.
 
 - **中文理解**：「他在下跳棋，」Kingston 站在 Grey 的棋盘边说，手指按在王上。「而他装作在下棋。」Mallory 费力地站起来。「这一次，我们知道他的打法。我们可以在他自己的游戏里赢他。」
-- **关键词**：He's playing checkers · pretending it's chess · we know his playbook · beat him at his own game
+- **关键词**：He's playing checkers · He’s playing checkers · He’s playing · playing checkers ’
 - **为什么这样写**：用棋类比喻收束全章：Jacob 的「深谋」被降格为「跳棋」，而三人第一次拥有「读他的打法」的优势；这也直接回应 ch12 里 Mallory 说的「学规则，再用他的规则赢他」。
 - **读者视角提示**：注意 Kingston 说这话时手按的是「王」——一个不会下棋的人随手按在最显眼的棋子上，恰好成了全章最准的比喻。
 

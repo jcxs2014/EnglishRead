@@ -39,7 +39,7 @@ modified: "2026-10-17"
 > **原句 4:** ‘Theodore,’ he said quietly. ‘There’s nothing we can do.’
 
 - **中文理解**：Grey 平静下来，低声说：「Theodore，我们无能为力。」
-- **关键词**：Grey stopped twirling the marker · quietly · There's nothing we can do
+- **关键词**：quietly · There's nothing we can do · Theodore ’ he
 - **为什么这样写**：一个动作（停转马克笔）加五个字，把整场争吵的温度抽掉；此前的 Grey 一直在逗弄与回避，这一句是他少有的直白，也因此最伤人。
 - **读者视角提示**：把它与 Theodore 的反问（「几小时前你还说要帮我破我的谋杀案」）对着读——Grey 的转变需要有解释，下一句就是。
 
@@ -53,7 +53,7 @@ modified: "2026-10-17"
 > **原句 6:** But I’m prepared to let it go if it comes to it,’ Grey continued, as if he hadn’t spoken. ‘To walk away. My time here feels like it’s coming to an end. Not because of what you said, but because it’s a truth I should’ve faced a long time ago. Can’t you feel it? The change in the air?’
 
 - **中文理解**：Grey 说他本想让 Theodore 跟他一起走，并说自己准备放手、远离这一切、不再让一个死人决定他这唯一珍贵的一生该怎么过。
-- **关键词**：I was rather thinking you'd come with me · I'm prepared to let it go. To walk away · Stop letting a dead man dictate what I do with my one precious life
+- **关键词**：I'm prepared to let it go. To walk away · But I’m prepared · But I’m
 - **为什么这样写**：一句「一个死人」同时指 Hollis 与 Theodore 自己，是本章最锋利的一次双关；也把 Grey 的「放手」写成真正的成长，而不只是认输。
 - **读者视角提示**：他问「你感觉不到吗？空气里的变化」——这句表面的季节闲谈，与全书萨温节的氛围同频，值得留意。
 
@@ -67,7 +67,7 @@ modified: "2026-10-17"
 > **原句 8:** He couldn’t make Mallory see that he was innocent, but he could save her.
 
 - **中文理解**：他没法让 Mallory 相信他是无辜的，但他能救她。就这一次，他能救她。
-- **关键词**：couldn't make Mallory see that he was innocent · but he could save her · This one time, he could save her
+- **关键词**：couldn't make Mallory see that he was innocent · but he could save her · He couldn’t make
 - **为什么这样写**：把「被理解」与「被拯救」分开——他放弃了前者，选择后者；末尾 `This one time` 既是唯一一次机会，也是多年亏欠里唯一能偿的一笔。
 - **读者视角提示**：这句与 ch01 结尾 Samhain 的「历史会重演」遥相呼应：上一次她救了他（把证物袋从他手里取下），这一次换他。
 

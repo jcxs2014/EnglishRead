@@ -18,14 +18,14 @@ modified: "2026-10-17"
 > **原句 1:** The thing about wool is that, if a goddess wants it to, it burns.
 
 - **中文理解**：关于羊毛这件事是这样的：如果一位女神想让它烧，它就会烧。它烧了又烧，蓝色的火焰卷曲着纤维，而握着它的女神不会退缩。
-- **关键词**：if a goddess wants it to, it burns · hot blue flames curling the fibres · the goddess holding it will not flinch
+- **关键词**：if a goddess wants it to, it burns · The thing about · The thing
 - **为什么这样写**：用一个近乎童话的开头（the thing about wool is that…）写一场处刑：越平静的语调，越显出「烧」这件事的不可逆；「不会退缩」四个字把女神的决绝与 Jacob 的惨叫隔开。
 - **读者视角提示**：这顶帽子从 ch30 开始被追问、ch37 被当作诱饵、到本章被点燃：一件毛线制品的完整弧线，就是反派的生死线。
 
 > **原句 2:** It burns and it burns, and if it is someone’s tether to the earth, if someone has attached their entire existence to this object, they will burn too.
 
 - **中文理解**：它烧了又烧，如果那是某人拴在大地上的绳子，如果某人把整个存在都系在这件东西上，那个人也会烧起来。他们会噼啪作响、会亮起来、会尖叫。他们会第二次、可怕而暴烈地死去，然后不复存在。
-- **关键词**：someone's tether to the earth · they will burn too · die a second terrible violent death · they will cease to exist
+- **关键词**：someone's tether to the earth · they will burn too · It burns and · It burns
 - **为什么这样写**：把「memento mori」的设定推到逻辑终点：不是「受伤」，而是「不存在」。这段的排比（crackle / light / scream）像葬礼上的祷词。
 - **读者视角提示**：注意「Energy neither created not destroyed, but expended」——作者用热力学给「彻底消失」留了一个物理学的余地，这也是本章结尾「白光」的伏笔。
 
@@ -39,7 +39,7 @@ modified: "2026-10-17"
 > **原句 4:** All the while, the clock struck twelve.
 
 - **中文理解**：与此同时，钟敲了十二下。Mallory、Diana 与 Cornelia 把手握在一起，用一个无言的道别把彼此裹住——计时器归零，Mayoral Square 的钟敲响午夜，萨温节骤然降临。
-- **关键词**：the clock struck twelve · grip each other's hands · a wordless goodbye · Samhain was upon them, quickly and all at once
+- **关键词**：the clock struck twelve · All the while · All the · the while the
 - **为什么这样写**：把「世界末日」写成三个人握手：宏大的时刻被压缩成一个小动作，读者因此能握住它；「quickly and all at once」这个矛盾修辞正是灾难降临的体感。
 - **读者视角提示**：注意这是全书第一次三人真正「同时」面对死亡：前面所有的倒计时都是为了这一握。
 
@@ -53,7 +53,7 @@ modified: "2026-10-17"
 > **原句 6:** I do not consent,’ Mallory said aloud, her voice swallowed up in a rush of static.
 
 - **中文理解**：「我不同意，」Mallory 大声说，她的声音被一阵静电吞没。她还没有把该了结的事都了结。她还没有用完她在世上的时间。她的故事不能在这里结束。
-- **关键词**：I do not consent · swallowed up in a rush of static · She had not wrapped up the loose ends · Her story could not end here
+- **关键词**：I do not consent · swallowed up in a rush of static · I do not · I do
 - **为什么这样写**：全书的转折点只有三个词：I do not consent。它既是法律用语，也是一个人对命运说的第一句「不」；而「声音被静电吞没」说明这句话说得很轻，却足以改变结果。
 - **读者视角提示**：注意她的理由不是「我不想死」，而是「我还没做完」：她用的是**契约条款**，不是求生本能。
 

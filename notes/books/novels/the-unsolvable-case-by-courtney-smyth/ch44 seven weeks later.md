@@ -18,7 +18,7 @@ modified: "2026-10-17"
 > **原句 1:** Seven weeks (and two days) later
 
 - **中文理解**：七周（零两天）之后。Broadwick Mansion 的派对正热闹，灯就在这时灭了。
-- **关键词**：Seven weeks (and two days) later · in full swing · the lights had just gone out
+- **关键词**：Seven weeks (and two days) later · Seven weeks and · Seven weeks
 - **为什么这样写**：用时间跳跃与一句「灯灭了」开篇：前者把读者从末日拉到日常，后者让这份日常立刻出点小岔子——本书结束后的世界，麻烦都变得这么小。
 - **读者视角提示**：注意「七周零两天」这个精确度：它是 Mallory 式的记法，也暗示这段日子她一天一天数过。
 
@@ -46,7 +46,7 @@ modified: "2026-10-17"
 > **原句 5:** I’ve been thinking about that,’ Mallory said, staring at their joined hands.
 
 - **中文理解**：「我一直在想那件事，」Mallory 说，盯着两人交握的手。「当然你有，」Cornelia 说。
-- **关键词**：I've been thinking about that · staring at their joined hands · Of course you have
+- **关键词**：I've been thinking about that · staring at their joined hands · I’ve been thinking
 - **为什么这样写**：两句话完成一次默契：她永远在推理，而对方永远知道她在推理；「交握的手」这个细节把对话从案情拉回关系。
 - **读者视角提示**：注意本章的推理全是「善后」：Tate 何时被控制、Sam 是否无辜、Remington 为什么在场——作者用一场闲聊交代了所有悬案的尾巴。
 
@@ -94,6 +94,7 @@ modified: "2026-10-17"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+（本章无进阶档词条）
 
 ### ⭐ 基础
 

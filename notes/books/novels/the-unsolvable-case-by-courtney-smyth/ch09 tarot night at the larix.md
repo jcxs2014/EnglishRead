@@ -53,7 +53,7 @@ modified: "2026-10-17"
 > **原句 6:** ‘And I fear it’s someone close to you. Three of Cups reversed. This suggests the next forty-eight hours will be fraught. Someone you know may be out to get you. Maybe someone in this very room.’
 
 - **中文理解**：Langdon 说：「我担心事情要转一整圈。」他翻开最后一张牌。「我担心你要遭遇一场背叛。」Sandi 对着扩音器低语：「背叛。背叛。背叛。」——「而且我担心，是你身边的某个人。圣杯三逆位。这说明接下来四十八小时会很难熬。你认识的某个人可能正要对付你——也许就在这间房里。」
-- **关键词**：things are about to turn full circle · I fear you are in for a betrayal · someone close to you · Three of Cups reversed · Maybe someone in this very room
+- **关键词**：someone close to you · Three of Cups reversed · Maybe someone in this very room · And I fear · And I
 - **为什么这样写**：三张牌一句比一句具体（不确定 → 转整圈 → 背叛 → 就在这间房里），把预言一步步逼进人群；Sandi 用扩音器把「背叛」变成全场口号，私人占卜因此升级成公开指控。这段话同时也是给读者的伏笔装置——它把「谁背叛谁」写进了空气里。
 - **读者视角提示**：请把它当作一根会一直响到结尾的弦：本书后半所有关于「谁在骗谁」的段落，都可以回到这句「也许就在这间房里」来对照。
 

@@ -46,14 +46,14 @@ modified: "2026-10-17"
 > **原句 5:** That Jacob’s been in his head since Theodore came back after the Whistler case? Yes. I think it does.’
 
 - **中文理解**：「就算……那是不是意味着……？」Cornelia 慢慢地说。「Jacob 从 Theodore 在 Whistler 案之后回来时起就在他脑子里？是的，我想是的。」他们一时都不知道该怎么消化这件事。
-- **关键词**：Jacob's been in his head since Theodore came back · They didn't really know how to process that
+- **关键词**：Jacob's been in his head since Theodore came back · That Jacob’s been
 - **为什么这样写**：本书最关键的「时间线揭晓」被处理成一段吞吞吐吐的问句——不是宣告，而是三个人同时接受一个他们不愿接受的结论。
 - **读者视角提示**：这条时间线把「Theodore 的复活」与「Jacob 的回归」钉在同一刻，也解释了他为何从两年前起就变得不像自己。
 
 > **原句 6:** There was nothing else in this corridor but a cathode TV propped in the corner, static pouring from the back and sides.
 
 - **中文理解**：走廊里除了一台立在角落的阴极射线电视之外什么都没有，静电从背面和两侧涌出。Mallory 试探着把手指贴上去，又立刻缩回——玻璃里有一只手想碰她。
-- **关键词**：a cathode TV propped in the corner · static pouring from the back and sides · a hand inside the glass tried to touch her
+- **关键词**：a cathode TV propped in the corner · static pouring from the back and sides · There was nothing
 - **为什么这样写**：把「幽灵被囚」写成一件被随手搁在走廊里的旧家电，恐怖因此日常化；而「手从屏幕里伸出来」是本章最直接的视觉惊吓，也预告了「幽灵可以被封在物件里」这条设定。
 - **读者视角提示**：这台电视与 ch19 里「Offices 墙后关着 Her」是同一套技术：ghostlight、玻璃、容器——记住这条链，它是终局的关键。
 

@@ -18,14 +18,14 @@ modified: "2026-10-17"
 > **原句 1:** The Undetectables were Besieged. His (ex-)friends were dying.
 
 - **中文理解**：这个念头把他剜到骨子里——Undetectables 中了 Besiegement，他的（前）朋友们正在死去。
-- **关键词**：The Undetectables were Besieged · His (ex-)friends were dying · tiny matching hand tattoos
+- **关键词**：The Undetectables were Besieged · His (ex-)friends were dying · The Undetectables were
 - **为什么这样写**：把上一章三人「肆意挥霍最后几小时」的怪异举动在这里一次性解释清楚，同时把 Theodore 的秘密行动从「自保」改写成「抢时间」——赌注第一次真正压在他在乎的人身上。
 - **读者视角提示**：注意 `(ex-)` 这个括号：他连「朋友」这个称呼都要打上折扣，正说明他从没真的接受关系已断。
 
 > **原句 2:** She held her hand out, her fingers shaking. ‘Feel this? It’s warm here.’
 
 - **中文理解**：她伸出手，指尖在颤：「感觉得到吗？这里很暖。」——在旁人眼里她对着空气说话，而 Theodore 就站在那点温度里。
-- **关键词**：her fingers shaking · Feel this · It's warm here · look through Theodore
+- **关键词**：her fingers shaking · Feel this · It's warm here · She held her
 - **为什么这样写**：这是全书里两人距离最近的一次「接触」：活人靠体温，鬼魂靠冷却空气。作者不让 Theodore 回应，只让他的手悬在半空，把「想被认出来又不敢被认出来」同时写进一个动作里。
 - **读者视角提示**：与 Diana 那句 `You look like you've seen a ghost`、Cornelia 的 `There's nothing there` 连读，可知三人之中只有 Mallory 的直觉还没被案件的疲惫磨钝。
 

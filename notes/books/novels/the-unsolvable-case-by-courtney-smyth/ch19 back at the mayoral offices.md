@@ -53,7 +53,7 @@ modified: "2026-10-17"
 > **原句 6:** There’s no evidence. We just like him for this. He was there, he’s got Occult heritage.’
 
 - **中文理解**：他以为她们说的是 Theodore，直到听见——「没有证据。我们只是觉得像是他：他在现场，他有 Occult 血统。」
-- **关键词**：So not Theodore, then · There's no evidence · We just like him for this · He was there, he's got Occult heritage
+- **关键词**：There's no evidence · We just like him for this · He was there, he's got Occult heritage · There’s no evidence
 - **为什么这样写**：用一句「原来不是我」把读者的预期翻转，顺带把嫌疑人换成 Sam Bridewell；更重要的是它示范了本书反复提醒的推理陷阱——「在现场＋有血统」从来不是证据。
 - **读者视角提示**：注意 Sully 说的「我们只是觉得像是他」——这正是 Mallory 在 ch12 批评过的「先定罪再调查」的镜像，发生在她自己一方。
 
@@ -67,7 +67,7 @@ modified: "2026-10-17"
 > **原句 8:** He reached out a small, gentle tendril, feeling around the surface of Remmy’s mind – Remington Davis, another actor, how fascinating! How terrible that he was notorious and not able to mingle with the Apparent elite! – as non-invasive as a ghost could get, and had barely seen the name before he blasted past them, all thoughts of the object that could save him from the Voice forgotten.
 
 - **中文理解**：他伸出一条细小而轻柔的触须，试探着 Remington 意识的表面——Remington Davis，又一个演员，真有意思；而他早已没空理会那件能救他脱离声音的物件了，脑子里只剩一个念头：绝不可能是 Mallory。
-- **关键词**：a small, gentle tendril · feeling around the surface of Remmy's mind · all thoughts of the object that could save him from the Voice forgotten · It couldn't be Mallory
+- **关键词**：a small, gentle tendril · feeling around the surface of Remmy's mind · all thoughts of the object that could save him from the Voice forgotten · He reached out
 - **为什么这样写**：把「拿到筹码」的任务与「她被捕」的消息放在同一刻，用「立刻遗忘」写出他的优先级——他所有的算计在三人面前都不值一提；末句三个字的否认（It couldn't be）比任何形容都更绝望。
 - **读者视角提示**：注意他触碰意识时的克制（gentle / non-invasive）——这与上一章他拒绝附身 Mallory 是同一条底线，也是他区别于 Voice 的地方。
 

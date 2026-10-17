@@ -32,14 +32,14 @@ modified: "2026-10-17"
 > **原句 3:** I’m getting real undetectable vibes from this Undetectables case,’ Diana said. ‘Shall I check the Observer Johnson scene samples? Did you know this is the first time I processed an entire scene by myself? And the last, obviously, but still!’ She squinted at the chromatography station. ‘It’s not ready yet. No real colour I can see. Just muddy.’
 
 - **中文理解**：「这案子给我一股货真价实的『无法侦测』气息。」Diana 说着，还补了一句：这是她第一次——显然也是最后一次——独自处理完整个现场。
-- **关键词**：real undetectable vibes · the Undetectables case · first time I processed an entire scene by myself · And the last, obviously
+- **关键词**：real undetectable vibes · first time I processed an entire scene by myself · And the last, obviously · I’m getting real
 - **为什么这样写**：把事务所的名字当双关用（undetectable＝查不出来），是她们在死亡倒计时里最后的玩笑；而「显然也是最后一次」把这句玩笑立刻钉回现实。
 - **读者视角提示**：紧随其后她读出色谱「还没有颜色，只是一团浑浊」——玩笑与数据的落差正是本章的节奏。
 
 > **原句 4:** ‘It’s blue,’ Diana said, her voice strained.
 
 - **中文理解**：「是蓝色的。」Diana 的声音绷紧。紧接着 Cornelia 说：「不可能吧。**恶魔魔法？**」
-- **关键词**：It's blue · No fucking way · Demon magic · 100 per cent blue
+- **关键词**：It's blue · It’s blue ’ · It’s blue · blue ’ Diana
 - **为什么这样写**：用一个颜色推翻此前所有「女巫＋Apparent 血统」的画像，把案件推向她们从未设想过的施术者类别；三句短促的对白（报色→怀疑→命名）像一次集体的思路断裂。
 - **读者视角提示**：记住这个蓝——它与前一章 Grey 的「恶魔魔法」恰好同色，是后面把两条线并起来的接缝。
 

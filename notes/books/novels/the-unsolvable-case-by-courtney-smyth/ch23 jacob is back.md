@@ -32,7 +32,7 @@ modified: "2026-10-17"
 > **原句 3:** Wards!’ she blurted eventually, gesturing to Wickermere at large. A town that was heavily warded. That should not have let Theodore in.
 
 - **中文理解**：「结界！」她终于脱口而出，指着整个 Wickermere——一个结界严密的镇子，本不该让 Theodore 进来。他近乎抱歉地答：「Ghoul Council 没兴趣设防鬼的结界。我有个……呃……朋友，有内线替我核实过。」
-- **关键词**：Wards · A town that was heavily warded · should not have let Theodore in · weren't interested in warding against ghosts · a friend, who had inside help
+- **关键词**：Wards · A town that was heavily warded · should not have let Theodore in · Wards ’ she · Wards ’
 - **为什么这样写**：用一个技术性细节（结界只防活物、不防鬼）把他跨越边界的合法性坐实，同时那句含糊的「有个朋友，有内线」留下一处未交代的关系——这也是 Grey 第一次被间接地写进解法里。
 - **读者视角提示**：注意「近乎抱歉」的语气：他不是炫耀能力，而是在承认自己钻了制度的空子。
 

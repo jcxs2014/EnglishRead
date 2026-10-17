@@ -18,14 +18,14 @@ modified: "2026-10-17"
 > **原句 1:** This was how she was going to die: on little sleep, with history repeating itself obnoxiously.
 
 - **中文理解**：她恹恹地想，自己的死法大概就是这样——睡眠不足，旧事以令人恼火的方式重演；宿醉的同伴在哼哼唧唧地「复活」，而她的身体是一整块酸痛。
-- **关键词**：history repeating itself obnoxiously · little sleep · one giant ache
+- **关键词**：history repeating itself obnoxiously · little sleep · This was how
 - **为什么这样写**：把「死期只剩不到两天」的宏大倒计时压进一句自嘲的日常抱怨里，读者接收到的不是悲壮而是疲惫——用牢骚的语气谈死亡，正是本书的叙事基调。
 - **读者视角提示**：与紧接着的 `Her body was one giant ache.` 合读，能看出身体先于意识感到「这大约是最后一次了」。
 
 > **原句 2:** Perhaps it was her own impending death, but the humanity, the reality of the victim was eating her alive.
 
 - **中文理解**：也许是因为自己的死期将近，受害者的「为人」与「确凿存在」把她活活啃噬；她忍不住去想：Hayley 昨夜还在，有人潜入、以当年 Whistler 的手法杀了她，再把她烧成焦炭。
-- **关键词**：the humanity, the reality of the victim · eating her alive · in the way the Whistler once had
+- **关键词**：the humanity, the reality of the victim · eating her alive · her own impending death
 - **为什么这样写**：把共情写成一种有体感的消耗（`eating her alive`），同时让读者先把 Hayley 从「卷宗上的一具尸体」还原成人——这是后面「不能先定罪」的伦理前提。
 - **读者视角提示**：这条线与章末她追问「八点的 Observatory 为什么没人」同源：她得先看见人，才肯办案。
 
@@ -53,21 +53,21 @@ modified: "2026-10-17"
 > **原句 6:** It doesn’t know the spell, but it has suggested a match to another sample we showed it in the Whistler case!
 
 - **中文理解**：它认不出这个咒语，却把它匹配到了 Whistler 案里给他们看过的另一个样本——当年那封密码信。
-- **关键词**：Inconclusive. Undetectable · a match to another sample · the Whistler case
+- **关键词**：a match to another sample · the Whistler case · It doesn’t know
 - **为什么这样写**：用一台机器的两次蜂鸣完成「线索跃迁」：同一咒语跨越两年重演，比任何目击证词都硬，把「模仿犯」从假设变成物证。
 - **读者视角提示**：机器「认得出配对、认不出法术」的局限，随即变成怀疑 Theodore 的理由——因为只有内部的人知道那封信。
 
 > **原句 7:** Just like the Whistler case,’ Diana said unnecessarily. ‘This is our killer. We’re looking for a witch with Apparent heritage.’
 
 - **中文理解**：跟 Whistler 案一样——「这就是我们要找的凶手：一个有 Apparent 血统的女巫」；Diana 这句其实说得多余，因为色谱上那抹浅粉色已经说明了一切。
-- **关键词**：a solid pale pink · a witch with Apparent heritage · This is our killer
+- **关键词**：a witch with Apparent heritage · This is our killer · Just like the
 - **为什么这样写**：把凶手画像压进一句最直白的台词，让读者与三人同时拿到一条可验证的特征；而紧接着 Mallory 仍不肯排除 Theodore，物证与人的位置就此错开。
 - **读者视角提示**：记下这条画像（女巫 + Apparent 血统），它是后文排查名单的筛子。
 
 > **原句 8:** So even if Theodore is pulling the strings: whose strings is he pulling?
 
 - **中文理解**：就算真是 Theodore 在牵线，那他自己又被谁牵着？三人于是把「傀儡师」写上了案件板。
-- **关键词**：pulling the strings · whose strings is he pulling · PUPPET MASTER
+- **关键词**：pulling the strings · whose strings is he pulling · So even if
 - **为什么这样写**：一句话撬开了「凶手就是 Theodore」的封闭结论，让本章所有物证都指向「还有第四个人」；也给 Theodore 脑中的 Voice 留了结构性位置。
 - **读者视角提示**：与上一章结尾他在 bunker 里看见自己的尸体合读，这条「谁在牵线」的问题就有了赌注。
 

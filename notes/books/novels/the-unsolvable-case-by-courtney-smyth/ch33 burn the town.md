@@ -18,7 +18,7 @@ modified: "2026-10-17"
 > **原句 1:** The only thing that could make Theodore’s situation worse for him would be company. And the only thing worse than that would be bad company.
 
 - **中文理解**：唯一能让 Theodore 的处境更糟的就是有人做伴；而唯一比这更糟的，是糟糕的同伴。于是他理所当然地两样都摊上了。
-- **关键词**：the only thing that could make Theodore's situation worse · company · bad company · So naturally, Theodore got both
+- **关键词**：the only thing that could make Theodore's situation worse · company · bad company · The only thing
 - **为什么这样写**：用一句三段式的玩笑开场：把「同伴」写成灾难的加成项，再用 naturally 把偶然变成必然——这是本系列对「主角永远倒霉」的固定自嘲法。
 - **读者视角提示**：注意「bad company」在下一段就被具体化：不是 Blair，而是 Tate 和整城的人。
 
@@ -46,21 +46,21 @@ modified: "2026-10-17"
 > **原句 5:** Grey, who still had some light in his eyes, who was clearly fighting, fighting, fighting against whatever Tate was doing to persuade him to stay in place. Theodore drifted closer. So close their lips were inches apart. Then an inch.
 
 - **中文理解**：Grey，眼里还有光，显然还在挣扎、挣扎、挣扎，抵抗 Tate 用来让他留在原地的说服魔法。Theodore 飘得更近，近到两人的嘴唇只隔几英寸，然后只隔一英寸。Grey 的眼睛瞟向他，Theodore 猛地退开。
-- **关键词**：who still had some light in his eyes · fighting, fighting, fighting · their lips were inches apart · Theodore jerked away
+- **关键词**：who still had some light in his eyes · fighting, fighting, fighting · their lips were inches apart · Grey who still
 - **为什么这样写**：把救援写成一次几乎接吻的距离：三叠的 fighting 写出 Grey 的抵抗，随后两个「inches」把距离压到最短，再用 jerked away 一下拉开——全章最亲密的时刻与最惊险的时刻重合。
 - **读者视角提示**：注意是谁先退开：Theodore。他仍在替对方守着那条界线，这与后面「伦理附身」（先问再进）是同一条原则。
 
 > **原句 6:** The apocalypse is coming,’ Tate said. ‘We need to start again. Burn the town down. They are the ones who will burn.’
 
 - **中文理解**：「我们说的『祭品』是什么意思？」Theodore 朝 Tate 喊回去。「末日要来了，」Tate 说，「我们得重新开始。烧掉这座城。他们就是将被烧的人。」——「啊，当然。没有愤怒的村民，可烧不掉一座城。」Theodore 说。
-- **关键词**：The apocalypse is coming · Burn the town down · They are the ones who will burn · Can't burn down the town without angry villagers
+- **关键词**：The apocalypse is coming · Burn the town down · They are the ones who will burn · The apocalypse is
 - **为什么这样写**：让反派用最平的语气说出最彻底的毁灭计划，再让主角用一句英国式讽刺接住它——恐怖与幽默在同一个来回里完成，读者既害怕又想笑。
 - **读者视角提示**：记住这个口号（Burn the town）：它在下一章会变成真正的火。
 
 > **原句 7:** There was a line that Theodore had probably crossed some time ago – a line that was unforgivable, that he would have to reckon with. There were so many times he should’ve stopped it, even if he didn’t know how.
 
 - **中文理解**：他早就该在某个时刻划下的那条线——一条不可原谅的线，他终要为此清算。有太多次他本该阻止这一切，即使他不知道该怎么做。但他就把线划在这里。现在。以屠杀成群的村民与游客为界——即便他并不怎么在乎那些游客。以谋杀 Grey 为界。
-- **关键词**：a line that was unforgivable · he drew the line here. Now · With murdering swaths of villagers and tourists · With murdering Grey
+- **关键词**：a line that was unforgivable · There was a · There was · was a line
 - **为什么这样写**：全章最重要的一次道德自陈：他不是突然变成好人，而是在一条早已越过的路上重新选了「这一次不行」；括号里那句「即便他不在乎游客」保留了人物的不完美，让这份决心显得真实。
 - **读者视角提示**：把「With murdering Grey」单独成句——他要救的不只是无辜者，也是那个具体的、他在乎的人。
 

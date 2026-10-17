@@ -25,7 +25,7 @@ modified: "2026-10-17"
 > **原句 2:** The vampires,’ Blair snarled. ‘They belonged to the vampires.’
 
 - **中文理解**：「你知道我以前真的跟这些巨型生物共事过。找出它们是什么，是我的工作。我们其实毫无头绪。」——「吸血鬼，」Blair 咬牙切齿地说，「它们属于吸血鬼。」
-- **关键词**：It was my job to find out what they were · We had no idea, really · The vampires · They belonged to the vampires
+- **关键词**：The vampires · They belonged to the vampires · The vampires ’ · vampires ’ Blair
 - **为什么这样写**：让被他押送的女神亲口给出他查了多年也没查到的答案：那些「五年一遇」的生物属于吸血鬼——全书最大的世界观伏笔在这里被一句话解开。
 - **读者视角提示**：把这句与 ch19 里「Offices 每年有生物逃脱」并读：官方口径的「麻烦」其实是吸血鬼战争的遗留物。
 
@@ -39,7 +39,7 @@ modified: "2026-10-17"
 > **原句 4:** I don’t call the shots,’ Theodore said. ‘I don’t even know if this is…’
 
 - **中文理解**：「我不做决定，」Theodore 说，「我甚至不知道这是不是……」——「是不是什么？」——「值不值得，」他在心里回答，并确保这个念头留在 Jacob 够不到的地方。活着到底意味着什么？
-- **关键词**：I don't call the shots · Worth it, he answered silently · making sure the thought stayed in the place Jacob couldn't reach it
+- **关键词**：I don't call the shots · I don’t call · I don’t
 - **为什么这样写**：一句话里两套语言：对 Blair 说「我不做决定」，对自己说「值不值得」；而「留在 Jacob 够不到的地方」这个动作，说明他与 Jacob 的斗争已经精细到念头的层面。
 - **读者视角提示**：这是全书对「自由意志」最具体的一次描写：他保住的不是行动自由，而是**一念之地**。
 
@@ -67,7 +67,7 @@ modified: "2026-10-17"
 > **原句 8:** I know I said this would all be over tonight, but it’s just the beginning.’
 
 - **中文理解**：「我知道我说过今晚就会结束，但这只是开始。」——「什么的开始？」——「你该不会以为 Occulture 会毫无异议地接受我吧？不，我们得自己立起来。一起。你会如约拿回你的身体，但我需要你留在身边。」
-- **关键词**：it's just the beginning · we'll have to assert ourselves. Together · You'll get your body back as promised · I'll need you to stick around
+- **关键词**：it's just the beginning · I know I · I know · know I said
 - **为什么这样写**：把契约的违约写在最平静的语气里：先承认「我说过会结束」，再把它改成「只是开始」；「一起」与「留在身边」这两个词让背叛带上了亲密的形状。
 - **读者视角提示**：Theodore 的回应是「那和我们的约定不一样」——注意他没有愤怒地反驳，只是陈述事实；他知道反驳无用，这比他大喊更绝望。
 

@@ -18,7 +18,7 @@ modified: "2026-10-17"
 > **原句 1:** Mallory wanted, so very badly, to tell him to go fuck himself. But there was an hour and twenty minutes until midnight, and that didn’t seem a wise use of her remaining time on earth.
 
 - **中文理解**：Mallory 非常、非常想叫他滚蛋。但距午夜只剩一小时二十分钟，把这仅剩的时间花在骂人上似乎不太明智。要抢在他前面，她就必须玩这场游戏——只玩到她们的计划奏效为止。
-- **关键词**：tell him to go fuck himself · an hour and twenty minutes until midnight · she had to play the game · Just long enough for their plan to work
+- **关键词**：tell him to go fuck himself · an hour and twenty minutes until midnight · Mallory wanted so · Mallory wanted
 - **为什么这样写**：开篇就把「忍耐」写成战术：她不是在配合，而是在争取时间；这也交代了本章的全部张力——她必须在众目睽睽下演一个配合的侦探。
 - **读者视角提示**：记住「她们的计划」：本章所有顺从的动作都是为它服务的。
 
@@ -32,14 +32,14 @@ modified: "2026-10-17"
 > **原句 3:** I’m not a necromancer,’ Jacob said.
 
 - **中文理解**：「我不是死灵法师，」Jacob 说。「哦，可你就是。就像我的角色 Ruthless Monroe 一样！」
-- **关键词**：I'm not a necromancer · Oh, but you ARE · Just like my character, Ruthless Monroe
+- **关键词**：I'm not a necromancer · I’m not a · I’m not
 - **为什么这样写**：让被利用的演员当着全城的面揭穿反派的身份，而她自己浑然不觉——这是本章最好的一处黑色幽默：真相由一个以为在拍戏的人说出。
 - **读者视角提示**：Ruthless Monroe 也是 ch25 里 Hollis 小说中的死灵法师女王，两个虚构层在此叠合。
 
 > **原句 4:** Ah, my old friend. You know but half the story. The name of the game is the aim of the game, as I said! You solve that murder for the grand prize of sparing the lives of whoever you want! Up to a maximum of five people, of course.’
 
 - **中文理解**：「破案的奖品是：饶过你想饶的人——最多五个人。」——「多棒的奖品啊！」Sandi 欢呼。——Jacob 侧目看她，她的笑容纹丝不动。
-- **关键词**：for the grand prize of sparing the lives · Up to a maximum of five people · AND WHAT A PRIZE · her smile did not move
+- **关键词**：for the grand prize of sparing the lives · Up to a maximum of five people · Ah my old · Ah my
 - **为什么这样写**：把「人命」标上数量上限（五），再让 Sandi 用综艺腔赞美它——数字的冷酷与语气的热闹形成最刺人的反差。
 - **读者视角提示**：这个「五个名额」的规则会一直用到终局：它把救援变成了一道配给题。
 
@@ -67,7 +67,7 @@ modified: "2026-10-17"
 > **原句 8:** Yes. There were pieces missing from her story, that only now make sense if we understand that she was not acting of her own accord. If we understand that the holes were present because her memory had been altered.’ Mallory searched for her face in the crowd. Finding it and seeing her eyes glazed, her expression unseeing. Her voice didn’t waver as she said, ‘The person who did your bidding to kill Hayley Eason, was Alyssa O’Sullivan.’
 
 - **中文理解**：「做你吩咐去杀 Hayley Eason 的那个人，是 Alyssa O'Sullivan。」——「操，我本来希望不是这样，」Cornelia 低声说。——聚集的镇民发出嘘声：起初很小，像远处的号角或牛叫，随后涨大、升到空中，尖利得像街上响过的警报。
-- **关键词**：The person who did your bidding · was Alyssa O'Sullivan · Fuck, I was hoping that wasn't the case · the sound swelled and rose into the air
+- **关键词**：The person who did your bidding · was Alyssa O'Sullivan · Yes There were · Yes There
 - **为什么这样写**：把「指认」写成一次身体经验：她的声音没有发抖，但全场的声音替她抖了——嘘声从低到高、从兽叫到警报，读者能听见人群的敌意成形。
 - **读者视角提示**：Sully 是她们的朋友、是警察：这一指认的代价不在案情，而在关系。注意 Mallory 说这句话前先在人群里找到她的脸、看见她的眼睛是失神的。
 

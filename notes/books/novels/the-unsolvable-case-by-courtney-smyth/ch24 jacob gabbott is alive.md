@@ -39,14 +39,14 @@ modified: "2026-10-17"
 > **原句 4:** How about that weather, you mean?’ Theodore said loudly, the meaning clear.
 
 - **中文理解**：「那天气怎么样？」Theodore 大声说，意思很清楚。——「我们怎么知道……天气到这儿了？」Mallory 试着接话。
-- **关键词**：How about that weather, you mean · the meaning clear · How do we know… the weather is here
+- **关键词**：How about that weather, you mean · the meaning clear · How about that
 - **为什么这样写**：把最紧张的对话写成一段荒诞的日常寒暄，喜剧感与窒息感同时成立；`the meaning clear` 四个字是作者给读者的翻译器——不必解释，读者自己听得懂。
 - **读者视角提示**：此后凡他谈「天气」「唱歌」「拼图」，都要按暗语读：天气＝监听者，唱歌＝掩盖，拼图＝案件。
 
 > **原句 5:** Just join the dots, Mallory, please! I can’t say anything concrete or he’ll… he’ll…’ He shuddered, face fracturing into blue fragments until he pulled it together, cardigan crackling with electricity. ‘Try!’
 
 - **中文理解**：「你是指在你脑子里，对吧？」——「把点连起来，Mallory，求你了！我什么具体的话都不能说，否则他会……他会……」他发抖，脸碎成蓝色的碎片，直到他重新拼起来，开衫噼啪作响。「试试！」
-- **关键词**：Inside your head, you mean · I can't say anything concrete or he'll… · face fracturing into blue fragments · Try!
+- **关键词**：I can't say anything concrete or he'll… · face fracturing into blue fragments · Try! · Just join the
 - **为什么这样写**：把「不能说」具象成身体的碎裂（蓝色碎片），让抽象禁令有了视觉冲击；而末尾那个单字的 `Try!` 既是恳求，也是把责任推回给她——他给不了答案，只能给方向。
 - **读者视角提示**：注意他碎裂时的颜色（蓝）——与 ch18 里恶魔魔法样本的蓝色一致，是全书把两条线并起来的又一次提示。
 

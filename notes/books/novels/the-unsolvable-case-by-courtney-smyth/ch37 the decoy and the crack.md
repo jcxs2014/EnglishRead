@@ -39,14 +39,14 @@ modified: "2026-10-17"
 > **原句 4:** That’s… incredibly hurtful. Do you understand how hurtful that is to hear? You raised me to want more. To aim high. This is—I’m doing something for myself, first of all. But it’s also for you. I want nothing more than to change your life for the better.’
 
 - **中文理解**：「这就是你一直在做的事？给村民下药、杀更多的人？我就是这样教你的？」Delilah 问。——「这……非常伤人。你知道听到这话有多伤人吗？你教我要想要更多，要往高处看。这是——首先，我在为我自己做一件事。但它也是为了你。我最想做的就是改变你的人生，让它更好。」
-- **关键词**：Is this how I raised you · incredibly hurtful · You raised me to want more · it's also for you
+- **关键词**：incredibly hurtful · You raised me to want more · it's also for you · That’s incredibly hurtful
 - **为什么这样写**：让反派在母亲面前立刻退化成一个辩解的孩子：他的逻辑（我为你）、他的委屈（这话伤人）与他的暴行并置，读者第一次看清「他要的从来不是权力，是母亲的认可」。
 - **读者视角提示**：这段与 ch01 里 Ana/Ruth/Rose 的动机互为镜像：这本书里所有「为了更大的善」的说辞，最后都落回某个私人缺口。
 
 > **原句 5:** I could destroy it,’ Delilah said dangerously.
 
 - **中文理解**：「你可以毁掉它，」Delilah 危险地说。Jacob 顿住，看上去真的困惑了：「我会立刻死。这一切就都白费了。我就没法带领 Occulture 走出腐朽与腐败，而你就得在没有我的宽恕的情况下活下去。」
-- **关键词**：I could destroy it · I'd die. Immediately · And you would have to live without my forgiveness
+- **关键词**：I could destroy it · I could destroy · I could
 - **为什么这样写**：把「威胁」与「乞求」缝在同一句里：他先承认命门（帽子就是他的命），再用「宽恕」把自己摆到审判者的位置——被威胁的人反过来要求对方求他原谅。
 - **读者视角提示**：注意这句同时坐实了 ch25 里 Theodore 的假设：毁掉 memento mori 就等于杀死萨温鬼魂。
 
@@ -60,13 +60,14 @@ modified: "2026-10-17"
 > **原句 7:** Where’s your cane?’ Jacob asked suddenly, and Theodore stopped dead.
 
 - **中文理解**：他一步步走向舞台，一步、又一步、又一步，踏在一朵静电的云上。「你的手杖呢？」Jacob 突然问，Theodore 一下子停住。——「什么？」Delilah 问。——「你的手杖。」——Delilah 退了一步：「我今天不需要它。」——「你总是需要它，」Jacob 皱着眉说，「总是。」
+- **关键词**：Where’s your cane · Theodore stopped dead
 - **为什么这样写**：全章最漂亮的一处伏笔回收：整场骗局的破功点不是魔法、不是戒指，而是「她今天没带手杖」——一个只有亲儿子才知道的生活细节。这也是全书对「亲密即破绽」的又一次运用。
 - **读者视角提示**：回看 ch34 里 Cornelia 从 Mrs Blackburn 家门口拿来的那根手杖：它当时是 Mallory 的支撑，此刻却是骗局的漏洞。
 
 > **原句 8:** Delilah didn’t answer, struggling to get away. Jacob pulled the ring free, her finger bleeding, her body twisting into someone taller, and stronger and more familiar. And wholly demonic.
 
 - **中文理解**：Jacob 把戒指从她手上拽下来，她的手指在流血，她的身体扭动、变成另一个更高、更强壮、更熟悉的人——完完全全是恶魔的。「操你的，」Grey Quinn 说，一脚踢向 Jacob，把他的手指往后掰。假帽子上仙灵的幻术褪去，露出一对毡制猫耳。他咧嘴大笑，流血的手里攥着 Blair 的戒指。
-- **关键词**：revealing a ring. An emerald green ring · her body twisting into someone taller · wholly demonic · Oh, fuck you · the faerie glamour on the decoy beanie faded, revealing felt cat ears
+- **关键词**：her body twisting into someone taller · wholly demonic · Delilah didn’t answer · Delilah didn’t · didn’t answer struggling
 - **为什么这样写**：一次身份翻转完成三重效果：母亲是假的、帽子是假的、而「恶魔」——前面所有线索指向的那个词——此刻有了具体的脸。Grey 出场的第一句话是脏话，这既是他的人设，也是全章紧张感的唯一泄压阀。
 - **读者视角提示**：注意「绿宝石戒指」与 ch01 里 Sir Kingston 的绿宝石戒指是同一个颜色母题：本书里绿宝石总与「替身／伪装」相关。
 

@@ -18,7 +18,7 @@ modified: "2026-10-17"
 > **原句 1:** It had come to this: they were gay, and they were doing crimes.
 
 - **中文理解**：事情发展到这一步：她们是同性恋，而且正在犯罪。不再有对错，不再有 Mallory 那套坚定不移的道德挣扎；只剩下「能做什么」与「能多快做到」。
-- **关键词**：It had come to this · they were gay, and they were doing crimes · no more right or wrong · what could be done, and what could be done quickly
+- **关键词**：It had come to this · they were gay, and they were doing crimes · It had come · It had
 - **为什么这样写**：用一句网络式的两段并列（gay / crimes）给全书后半定调：当死期逼近，道德辩论退场，只剩执行力。这也是对 Mallory 这个人物的一次反转——她一直是那个守规则的人。
 - **读者视角提示**：注意「no more wrangling of Mallory's steadfast morality」——作者明说她的道德挣扎被暂时关机，这也是本章她敢用铁网困住一位女神的前提。
 
@@ -32,7 +32,7 @@ modified: "2026-10-17"
 > **原句 3:** Diana pulled out the planchette. ‘This is buzzing.’
 
 - **中文理解**：Diana 停下脚步，一把扯开包——「这嗡嗡声快把我逼疯了——哦操。」它又嗡了一声。「我是不是在里面落了只 Lyrespy？」Cornelia 问。——「不是。」Diana 把那枚乩板抽出来。「**是它在响。**」
-- **关键词**：That buzzing is driving me · it buzzed again · This is buzzing
+- **关键词**：This is buzzing · Diana pulled out · Diana pulled
 - **为什么这样写**：把「神器的指引」写成一件烦人的电子设备：先让读者以为是手机或昆虫，再揭示是乩板——悬念与笑点同时成立。
 - **读者视角提示**：注意它「朝正确方向响得更急」这个细节：乩板不是罗盘，它是在**回应**某物（后面证明是 Morrigan 的）。
 
@@ -46,14 +46,14 @@ modified: "2026-10-17"
 > **原句 5:** I know you,’ Katherine said, swinging close when Mallory approached.
 
 - **中文理解**：「我认识你，」Katherine 说，在 Mallory 靠近时飘了过来。其他人僵住了。「我是 Mallory Hawthorne。我们最近见过。你想知道你妹妹在哪里。」
-- **关键词**：I know you · The others froze · You wanted to know where your sister was
+- **关键词**：I know you · I know · know you ’
 - **为什么这样写**：让「被记住」成为她此刻唯一的筹码：一个被困两年的鬼魂记得她，说明 Mallory 曾经真的来过、真的问过；这也让接下来的背叛（用铁网困住她）更刺人。
 - **读者视角提示**：注意「其他人僵住了」——Diana 与 Cornelia 的反应说明她们并不确定这样对待一位女神是否安全。
 
 > **原句 6:** No that’s not the truth, Hexana,’ Mallory said firmly.
 
 - **中文理解**：「不，那不是真相，Hexana，」Mallory 坚定地说。Katherine 僵住：「谁让你这么叫我的？」
-- **关键词**：No that's not the truth, Hexana · Katherine froze · Who told you to call me that
+- **关键词**：No that's not the truth, Hexana · No that’s not · No that’s
 - **为什么这样写**：全章、也是全书最大的身份揭示只用两个词完成：说出那个名字，等于宣布「你一直在我们眼皮底下」。而她的反应（僵住、反问）证明这名字是真的。
 - **读者视角提示**：回看 ch19「Her」、ch30「ALIAS」「VANE」与「我知道谁能帮我们」——这条线从很早就在铺，只是读者与三人一样被「Ternion 是三姐妹」的说法带偏了。
 

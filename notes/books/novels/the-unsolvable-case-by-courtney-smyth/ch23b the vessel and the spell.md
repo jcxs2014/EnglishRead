@@ -53,21 +53,21 @@ modified: "2026-10-17"
 > **原句 6:** That’s the funny thing about lineage: how little it matters, until someone decides it does.
 
 - **中文理解**：那就是有趣的地方：血统这东西，在有人决定它在乎之前，其实毫不起眼——而它能跨越多少个世纪。
-- **关键词**：That's the funny thing about lineage · how little it matters, until someone decides it does · how many centuries it spanned
+- **关键词**：That's the funny thing about lineage · how little it matters, until someone decides it does · That’s the funny
 - **为什么这样写**：一句话把「血统」从空洞的出身概念变成可被利用的通道（跨越数百年的联系）；这既是本书魔法体系的核心设定，也点出「谁的血统被谁挑中」才是权力游戏的实质。
 - **读者视角提示**：把它与 ch14 里 Mallory 说的「多代女巫名单」、ch16 里「多代女巫」的筛选条件并读——血统在本书从来不是身份，而是权限。
 
 > **原句 7:** That should narrow it down. Three key players become two viable suspects.
 
 - **中文理解**：这应该能把范围收窄了：三名关键人物变成两个可行嫌疑人。**Vincent Van Doren**，或者 **Ezra Broadwick**。
-- **关键词**：That should narrow it down · Three key players become two viable suspects · Vincent Van Doren or Ezra Broadwick
+- **关键词**：That should narrow it down · Three key players become two viable suspects · That should narrow
 - **为什么这样写**：一处最直白的推理交付——叙述者替读者把名单从三人砍到两人；两个名字并排出现，也让此前的诸多暗示（Broadwick 家与本案的牵连、Van Doren 的暴力结局）有了落点。
 - **读者视角提示**：注意它说的是「可行嫌疑人」（viable），不是「凶手」——被点名的两人里，一个是动手的容器，另一个可能另有角色。
 
 > **原句 8:** Put it together, though, and the answer starts to open up.
 
 - **中文理解**：把线索拼起来，答案就开始展开；你会开始明白我是谁、我们是谁，会开始明白 Theodore 在其中的位置，也会开始明白那个计划从头到尾是什么。
-- **关键词**：Put it together, though · the answer starts to open up · You start to understand who I am. Who we are · Theodore's place in all of this · what the plan has been, all along
+- **关键词**：Put it together, though · the answer starts to open up · Put it together · Put it · it together though
 - **为什么这样写**：三个 `You start to understand` 排比把揭秘写成邀请而非宣讲，读者被拉进叙述者的视角；「我是谁／我们是谁」的复数切换，则暗示叙述者不止一个存在——与 Ternion 三位女神的设定一致。
 - **读者视角提示**：读到这句就该回头核对：被囚在 Mayoral Offices 的 Katherine、被关在 bunker 里的 Blair、以及百年前的 Elisabella——「我们」指的就是她们。
 

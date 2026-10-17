@@ -18,7 +18,7 @@ modified: "2026-10-17"
 > **原句 1:** Where is she going with this?’ he asked.
 
 - **中文理解**：「她这是要说到哪儿去？」Jacob 问。——「她要把我的谋杀案破了，」Theodore 骄傲地说，「看着她。」
-- **关键词**：Where is she going with this · She's going to solve my murder · Watch her
+- **关键词**：Where is she going with this · Where is she · Where is
 - **为什么这样写**：用一个最简短的对话把「谁在主导」翻转过来：反派开始不安，而死者第一次以「观众」的姿态为侦探背书。
 - **读者视角提示**：注意 Theodore 的骄傲：他要的从来不是报复，而是被人看见——此刻 Mallory 正在做的正是这件事。
 

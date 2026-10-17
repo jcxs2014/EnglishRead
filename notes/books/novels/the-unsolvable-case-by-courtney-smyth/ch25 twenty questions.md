@@ -25,7 +25,7 @@ modified: "2026-10-17"
 > **原句 2:** I APPEARED. YOUR GAY IN SHINING ARMOUR!’ Theodore announced, materialising.
 
 - **中文理解**：「我出现啦。你们穿亮甲的同性恋骑士！」Theodore 宣布，显形。——又体面又低调，完全按计划。
-- **关键词**：I APPEARED. YOUR GAY IN SHINING ARMOUR · materialising · Nice and understated, just as planned
+- **关键词**：I APPEARED. YOUR GAY IN SHINING ARMOUR · materialising · I APPEARED YOUR
 - **为什么这样写**：他自己说要「低调登场」，结果全大写喊出登场台词，紧接着一句反讽的「完全按计划」——三句之内完成自我拆台，是全书最典型的 Theodore 式幽默。
 - **读者视角提示**：这句也确认了他与三人的关系底色：他可以拿自己的性取向开玩笑，因为在他们面前他从不设防。
 
@@ -39,7 +39,7 @@ modified: "2026-10-17"
 > **原句 4:** He’d got away with naming J—the Voice for Mallory without naming the Voice.
 
 - **中文理解**：Theodore 再次在脑中摸索那个声音，却什么也没有，连一丝抽动都没有。他总算把 J——那个声音的名字，讲给 Mallory 听，却没有说出「那个声音」。**Jacob。** 他成功了：他说出了 Jacob。以前他说不出口，但也许 Grey 是对的——他比自己以为的更有自由意志。
-- **关键词**：felt around in his mind again for the Voice · Not even a twitch · He'd got away with naming Jacob · more free will than he thought
+- **关键词**：He’d got away · He’d got · got away with · got away
 - **为什么这样写**：把「能说出名字」写成一次越狱：同一个名字在心里反复确认三遍，读者与他一起体会那种「居然没被惩罚」的惊异。这也回收了 ch17 那句「你比自己以为的更有自由意志」。
 - **读者视角提示**：注意他随后的试验（在心里狂喊 JACOB 三遍、还骂他戴傻帽子）——这不是玩笑，是他在测边界。
 
@@ -53,7 +53,7 @@ modified: "2026-10-17"
 > **原句 6:** So it’s a significant object,’ Mallory said in an aside that Theodore could hear perfectly well.
 
 - **中文理解**：「所以那是一件重要的物件，」Mallory 用一句 Theodore 听得一清二楚的旁白说。「要么与死亡有关，要么是死时对他们重要的东西？」Cornelia 提议。
-- **关键词**：a significant object · Either related to death, or something that was important to them at death
+- **关键词**：a significant object · So it’s a
 - **为什么这样写**：全书最关键的设定由三人合作拼出，而不是由叙述者宣布——读者因此与角色同步获得「memento mori」这条规则，也因此更能接受后面「三件物件」的推论。
 - **读者视角提示**：把这条规则与 ch09b 的 baton、ch06 的灯泡、ch03 的茶与糖并读——本书所有「信物」都是这条规则的实例。
 

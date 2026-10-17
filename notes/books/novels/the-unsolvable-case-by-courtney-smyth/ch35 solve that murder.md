@@ -25,7 +25,7 @@ modified: "2026-10-17"
 > **原句 2:** ‘Both,’ Cornelia and Mallory whispered in unison.
 
 - **中文理解**：木虱在花坛上移动。「我们觉得是魔法还是那只巨大的潮虫在把他们困住？」Diana 问。——「都是，」Cornelia 和 Mallory 异口同声地低声说。
-- **关键词**：the giant woodlouse moving across the flowerbeds · magic or the giant roly-poly · Both
+- **关键词**：Both · Both ’ Cornelia · Both ’
 - **为什么这样写**：用一句轻巧的合声回答把恐惧拆成两半：控制既靠魔法，也靠一头巨虫的物理威慑；而「异口同声」这个细节提醒读者，三人组的默契还在。
 - **读者视角提示**：注意 Roly 在这场戏里的角色：它既是凶器，也是一头被 Theodore 命名的宠物——本书从不把恐怖写成单色的。
 
@@ -39,21 +39,21 @@ modified: "2026-10-17"
 > **原句 4:** Next to this was a floating whiteboard with a column of five stars drawn down the left-hand side, and next to that, a huge mechanical timer, which, now that Mallory was taking things in and could properly process sounds, was ticking down the remaining time until midnight.
 
 - **中文理解**：旁边立着一块浮空白板，左侧竖着画了一列**五颗星**；再旁边是一台巨大的机械计时器——此刻 Mallory 才真正把声音听进去——它正在倒数距离午夜剩下的时间。直到萨温节。直到终结。
-- **关键词**：a floating whiteboard with a column of five stars · a huge mechanical timer · ticking down the remaining time until midnight · Until Samhain. Until the end
+- **关键词**：a floating whiteboard with a column of five stars · a huge mechanical timer · ticking down the remaining time until midnight · Next to this
 - **为什么这样写**：把倒计时从抽象变成一件实物（机械计时器），再用三个逐句缩短的句子（Until Samhain / Until the end）把节奏压到最紧；而「五颗星」这个细节留给读者去数。
 - **读者视角提示**：五颗星＝Ternion 三位＋Morrigan＋Jacob 自己？这是本章留给终局的一个数目谜题。
 
 > **原句 5:** Mallory didn’t know what to make of it. She thought back to Sandi sobbing in the basement of the Larix and considered the fact that Sandi was a beloved actor. The possibility she had been duped.
 
 - **中文理解**：「我对这堆新狗屎完全没概念，」Cornelia 低声说。Mallory 也不知道该怎么理解：她想起 Sandi 在 Larix 地下室里哭的样子，也想起 Sandi 是个深受爱戴的演员——她被蒙在鼓里的可能性，是存在的。
-- **关键词**：What fresh bullshit is this · Sandi sobbing in the basement of the Larix · a beloved actor · The possibility she had been duped
+- **关键词**：Sandi sobbing in the basement of the Larix · a beloved actor · The possibility she had been duped · Mallory didn’t know
 - **为什么这样写**：让 Mallory 主动为 Sandi 辩护：她不是共犯，而是被人利用的「主持人」；这一判断既解释了 Sandi 的综艺腔，也让本章的暴力多了一层剥削。
 - **读者视角提示**：后面 Sandi 说的每一句「导演说」都在证实这一点：她以为自己在拍一档秘密真人秀。
 
 > **原句 6:** The crowd surged and Mallory’s hands touched the stairs at stage left. As she stumbled up, away from the crowd, she could see a skeleton suspended from the hands of the Memorial. Its arms reached for the sky, body in a state of late decay. It was wearing a short purple robe that looked sickeningly like it belonged to Observer Johnson, stars patterned down the hem.
 
 - **中文理解**：一具骸骨被吊在纪念碑的双手之间，双臂伸向天空，身体处于腐败的后期。它穿着一件紫色短袍，下摆缀着星星，那件袍子恶心地像是 Observer Johnson 的。然而它太小、也烂得太厉害，不可能是 Johnson：从外观判断，死者至少已故八年，而且比 Mallory 矮——大约五尺四到五尺七之间。看起来，头上配一对猫耳正合适。
-- **关键词**：a skeleton suspended from the hands of the Memorial · a short purple robe · at least eight years gone · between five foot four and five foot seven · a pair of cat ears wouldn't be out of place
+- **关键词**：a skeleton suspended from the hands of the Memorial · a short purple robe · The crowd surged · The crowd · crowd surged and
 - **为什么这样写**：全章最冷的一段：作者不写名字，只写尺寸、腐烂程度与衣着，让读者比 Mallory 早一步认出那是 Theodore 的遗体；「猫耳正合适」这句话既是确认，也是全书最残忍的玩笑。
 - **读者视角提示**：记住这具骸骨：它是「Theodore 死在八年前」这条事实的物证，也是终局里「身体」与「灵魂」分离的具象。
 
@@ -67,7 +67,7 @@ modified: "2026-10-17"
 > **原句 8:** In a sonorous voice Jacob said, ‘Friends, enemies, and those somewhere between. We’ve got an exciting game for you tonight, with some very special guests. Are you ready? Do you know it?’
 
 - **中文理解**：他用洪亮的声音说：「朋友们、敌人们，以及介于两者之间的人。今晚我们为你们准备了一场刺激的游戏，还有几位非常特别的客人。准备好了吗？你们知道是什么吗？」他回头瞥了三人一眼。Mallory 觉得自己的心脏怕是要从胸腔里跳出来。——「让我们来玩…… SOLVE THAT MURDER！」
-- **关键词**：Friends, enemies, and those somewhere between · an exciting game · some very special guests · Let's play… SOLVE THAT MURDER
+- **关键词**：Friends, enemies, and those somewhere between · an exciting game · some very special guests · In a sonorous
 - **为什么这样写**：用一句「朋友、敌人与介于两者之间的人」概括全书的人际光谱，再把节目名喊出来——「SOLVE THAT MURDER」既是综艺式的口号，也是对三人职业的最终嘲讽。
 - **读者视角提示**：这一句同时是全书的题眼：她们一直做的事（solve that murder）此刻被搬上舞台，成为生死的规则。
 

@@ -46,7 +46,7 @@ modified: "2026-10-17"
 > **原句 5:** Kill me. I am going to die – I’m dying anyway. Just do it.’ She closed her eyes, the image of his concerned face burned behind her eyelids. The last thing she’d ever see.
 
 - **中文理解**：「动手吧。我反正是要死的——我正在死。就动手吧。」
-- **关键词**：Just get it over with · I am going to die — I'm dying anyway · Just do it
+- **关键词**：I am going to die — I'm dying anyway · Just do it · Kill me I
 - **为什么这样写**：一句近乎求死的命令，把她的疲惫、疼痛与绝望叠在一起；她不是勇敢，而是算过账——与其被诅咒慢慢带走，不如让他了结。
 - **读者视角提示**：注意她并非毫无反抗：她提到「你要取我的魂，会惹怒一群 Besiegement 的鬼」——即便认命，她仍在用规则保护自己的身体。
 
