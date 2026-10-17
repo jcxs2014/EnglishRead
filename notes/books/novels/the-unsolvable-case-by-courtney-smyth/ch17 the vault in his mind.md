@@ -32,7 +32,7 @@ modified: "2026-10-17"
 > **原句 3:** It doesn’t quite explain my lack of memory,’ Grey said. ‘I’d enjoyed myself thoroughly at the free bar. I remember seeing Vincent Van Doren and the Broadwicks. But I had this sense of… a job to do. It’s just every time I think about it, it floats out of my head. The witchlight reminded me, but it’s an idea on the tip of my tongue.’ He paused. ‘I clearly wasn’t in my right mind. It was as though someone else was making decisions for me.’
 
 - **中文理解**：Grey 说，自己那晚明明喝得尽兴、记得见过 Van Doren 与 Broadwick 夫妇，却总有种「有件差事要办」的感觉，一细想就从脑子里飘走；那不像他自己的决定——「像是别人在替我做决定」。
-- **关键词**：a sense of… a job to do · it floats out of my head · as though someone else was making decisions for me
+- **关键词**：it floats out of my head · as though someone else was making decisions for me
 - **为什么这样写**：让八年前那个「没完成任务」的人自己说出「像被操控」，等于为 ch09b 的「baton 未交出」补上当事人证词；这也把 Grey 从嫌疑名单挪到受害者的位置。
 - **读者视角提示**：与 Theodore 脑中的 Voice 并读——「有人替我做决定」在本书里从来不是比喻。
 

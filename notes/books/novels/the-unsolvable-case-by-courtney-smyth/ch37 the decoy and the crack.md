@@ -46,7 +46,7 @@ modified: "2026-10-17"
 > **原句 5:** I could destroy it,’ Delilah said dangerously.
 
 - **中文理解**：「你可以毁掉它，」Delilah 危险地说。Jacob 顿住，看上去真的困惑了：「我会立刻死。这一切就都白费了。我就没法带领 Occulture 走出腐朽与腐败，而你就得在没有我的宽恕的情况下活下去。」
-- **关键词**：I could destroy it · I could destroy · I could
+- **关键词**：I could destroy it
 - **为什么这样写**：把「威胁」与「乞求」缝在同一句里：他先承认命门（帽子就是他的命），再用「宽恕」把自己摆到审判者的位置——被威胁的人反过来要求对方求他原谅。
 - **读者视角提示**：注意这句同时坐实了 ch25 里 Theodore 的假设：毁掉 memento mori 就等于杀死萨温鬼魂。
 
@@ -67,7 +67,7 @@ modified: "2026-10-17"
 > **原句 8:** Delilah didn’t answer, struggling to get away. Jacob pulled the ring free, her finger bleeding, her body twisting into someone taller, and stronger and more familiar. And wholly demonic.
 
 - **中文理解**：Jacob 把戒指从她手上拽下来，她的手指在流血，她的身体扭动、变成另一个更高、更强壮、更熟悉的人——完完全全是恶魔的。「操你的，」Grey Quinn 说，一脚踢向 Jacob，把他的手指往后掰。假帽子上仙灵的幻术褪去，露出一对毡制猫耳。他咧嘴大笑，流血的手里攥着 Blair 的戒指。
-- **关键词**：her body twisting into someone taller · wholly demonic · Delilah didn’t answer · Delilah didn’t · didn’t answer struggling
+- **关键词**：her body twisting into someone taller · wholly demonic · Delilah didn’t answer · didn’t answer struggling
 - **为什么这样写**：一次身份翻转完成三重效果：母亲是假的、帽子是假的、而「恶魔」——前面所有线索指向的那个词——此刻有了具体的脸。Grey 出场的第一句话是脏话，这既是他的人设，也是全章紧张感的唯一泄压阀。
 - **读者视角提示**：注意「绿宝石戒指」与 ch01 里 Sir Kingston 的绿宝石戒指是同一个颜色母题：本书里绿宝石总与「替身／伪装」相关。
 

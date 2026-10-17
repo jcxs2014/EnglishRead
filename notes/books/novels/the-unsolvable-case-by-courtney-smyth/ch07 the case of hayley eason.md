@@ -11,7 +11,7 @@ modified: "2026-10-17"
 - **一句话概括**：三人赶到 Sully 家，才知道 Observatory 屋顶那具焦尸是 Night Mayor Ray 的助手、Sully 的好友 Hayley Eason——Sully 亲眼看见她身上有 Whistler 案的刻纹与紫色 witchlight，随后尸体才被焚烧；Gabbott 已死，于是「模仿犯」成为唯一解释，而 Ray 索性把案子正式交给 Undetectables：「This is what you do. This is who you are.」
 - **情感弧线位置**：Mallory 线的「被需要」时刻。事务所停业、通缉令在外、她只剩不到两天可活，而这座城再次把凶案推到她手里——她终于拿到一个可以证明自己有价值的机会；本章末她把这份案子暂时搁在一边，去赴一场明知是「最后一次」的夜游。
 - **叙事手法**：一场以**对话推进的案情汇报**：Mallory 用审讯式的短问句固定时间线（八点一刻离开、九点后到场、午夜后来电），把 Sully 的私人悲痛一点点压回警官的身份里；叙述者只在括号与短句里露出感情（a simpler time, really；It wasn’t much, in terms of comfort），让「程序」与「悲伤」彼此衬托。
-- **线索进展**：① 死者身份＝Hayley Eason（Ray 与 Sully 的助手、前 Night Mayor Vincent Van Doren 的前女友，手镯刻着 FONDLY, VVD）；② 案发时间线：二十点十五分离岗 → 二十一点后 Sully 到场见到未焚烧的尸体 → 午夜后来电；③ 关键差异：刻纹与 witchlight 复制 Whistler，但**焚烧**是新增步骤，刻纹的圆环暗示存在**第二把 death blade**；④ DCI Tate 被调回 Wrackton 处理 Theodore 与凶案数字，Ray 的权力被架空；⑤ 案子正式委托 Undetectables，剩四十六小时；⑥ 结尾女演员 Sandi Clementine 与未婚夫 Remington Davis 现身，邀众人去 Larix 的塔罗之夜。
+- **线索进展**：① 死者身份＝Hayley Eason（Ray 与 Sully 的助手、前夜市长 Vincent Van Doren 的前女友，手镯刻着 FONDLY, VVD）；② 案发时间线：二十点十五分离岗 → 二十一点后 Sully 到场见到未焚烧的尸体 → 午夜后来电；③ 关键差异：刻纹与 witchlight 复制 Whistler，但**焚烧**是新增步骤，刻纹的圆环暗示存在**第二把 death blade**；④ DCI Tate 被调回 Wrackton 处理 Theodore 与凶案数字，Ray 的权力被架空；⑤ 案子正式委托 Undetectables，剩四十六小时；⑥ 结尾女演员 Sandi Clementine 与未婚夫 Remington Davis 现身，邀众人去 Larix 的塔罗之夜。
 
 ## 精读
 
@@ -26,7 +26,7 @@ modified: "2026-10-17"
 
 - **中文理解**：Sully 吼着说：「我亲眼看见 Hayley Eason 死在 Observatory 的屋顶上，你们到底去的哪个 fucking 现场？」
 - **关键词**：I saw Hayley Eason dead · in the roof of the Observatory · what the fuck crime scene did you go to
-- **为什么这样写**：让最了解现场的人（警官）用最不专业的方式说话，把身份介绍、时间线异议与情绪一次性砸出来；脏话在这里不是腔调而是证据——她看见的和三人看见的不是同一具尸体。同一段还用「与此同时」并置 Cornelia 的半句话，制造三个人同时抢话的现场感。
+- **为什么这样写**：让最了解现场的人（警官）用最不专业的方式说话，把身份介绍、时间线异议与情绪一次性砸出来；脏话在这里不是腔调而是证据——她看见的和三人看见的不是同一具尸体。同一段还用「与此同时」并置 Dr Ray 的半句话，制造三个人同时抢话的现场感。
 - **读者视角提示**：这句是本章的谜面：同一地点、同一晚，两个人看见两种尸体状态。后文「焚烧发生在 Sully 离开之后」正是从这里长出来的。
 
 > **原句 3:** ‘She was right there. In the roof of the Observatory. Lying on the ground, carvings in her stomach. That’s why I called you, it’s why I—it’s happening again! The Whistler murders. Someone’s killed Hayley,’ Sully said, her usual composure gone.

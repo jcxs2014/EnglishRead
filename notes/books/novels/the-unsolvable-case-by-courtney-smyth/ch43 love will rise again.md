@@ -25,14 +25,14 @@ modified: "2026-10-17"
 > **原句 2:** He reached down to his pocket and pulled out his familiar pocket watch, twirling it. Theodore knew what it said on the back.
 
 - **中文理解**：他抬手把那只熟悉的怀表从口袋里掏出来转了转。Theodore 知道表背上写着什么。**Love will rise again**。一件 memento mori。
-- **关键词**：his familiar pocket watch · Theodore knew what it said on the back · He reached down · He reached
+- **关键词**：his familiar pocket watch · Theodore knew what it said on the back · He reached down
 - **为什么这样写**：全书最漂亮的一次「道具回收」：怀表的刻字从一件旧情物变成他复活的机制；而「爱会再次升起」这句话既是 Hollis 的伏笔，也是对本章主题的直陈。
 - **读者视角提示**：注意 Theodore 早就知道那行字——说明他关注这只表很久了。
 
 > **原句 3:** We can thank Hollis for this particular piece of foreshadowing,’ Grey said, and Theodore felt himself deflate somewhat.
 
 - **中文理解**：「我们得谢谢 Hollis 埋的这个伏笔，」Grey 说，Theodore 顿时蔫了下去。Hollis Hadley 总会以某种方式缠着这个故事——如果这个故事还值得被缠的话。
-- **关键词**：We can thank Hollis for this particular piece of foreshadowing · We can thank · We can
+- **关键词**：We can thank Hollis for this particular piece of foreshadowing
 - **为什么这样写**：让「作者」以角色的身份介入：Hollis（那位 Apparent 作家）不仅写了书，还埋下了让 Grey 复活的机制；而 Theodore 的「蔫」是他对这段旧情的复杂态度。
 - **读者视角提示**：把 Hollis 与 Jacob 的知识来源（那本漫画）并读：本书的两个反派动机都与「谁写了什么」有关。
 
@@ -60,7 +60,7 @@ modified: "2026-10-17"
 > **原句 7:** He squeezed his eyes shut and held out the lightbulb, waiting for the feeling of Mallory taking it from him.
 
 - **中文理解**：他闭紧眼睛，把 lightbulb 递出去，等着 Mallory 从他手里拿走它的那种感觉。她没有拿。他继续闭着眼，确信她正在酝酿，可当他睁开眼，Mallory 正非常、非常努力地忍住不笑。
-- **关键词**：held out the lightbulb, waiting · He squeezed his · He squeezed
+- **关键词**：held out the lightbulb, waiting · He squeezed his
 - **为什么这样写**：全章最好的一处反转：他准备好赴死，等来的却是对方憋笑；「没有拿走」这个动作比任何台词都更清楚地表达了宽恕。
 - **读者视角提示**：注意他递出的是「能杀死自己的东西」：这一次他是真的把命交出去了。
 

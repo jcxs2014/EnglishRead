@@ -39,7 +39,7 @@ modified: "2026-10-17"
 > **原句 4:** How about that weather, you mean?’ Theodore said loudly, the meaning clear.
 
 - **中文理解**：「那天气怎么样？」Theodore 大声说，意思很清楚。——「我们怎么知道……天气到这儿了？」Mallory 试着接话。
-- **关键词**：How about that weather, you mean · the meaning clear · How about that
+- **关键词**：How about that weather, you mean · the meaning clear
 - **为什么这样写**：把最紧张的对话写成一段荒诞的日常寒暄，喜剧感与窒息感同时成立；`the meaning clear` 四个字是作者给读者的翻译器——不必解释，读者自己听得懂。
 - **读者视角提示**：此后凡他谈「天气」「唱歌」「拼图」，都要按暗语读：天气＝监听者，唱歌＝掩盖，拼图＝案件。
 

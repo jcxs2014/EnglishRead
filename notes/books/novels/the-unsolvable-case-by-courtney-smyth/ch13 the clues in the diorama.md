@@ -18,7 +18,7 @@ modified: "2026-10-17"
 > **原句 1:** The Undetectables were Besieged. His (ex-)friends were dying.
 
 - **中文理解**：这个念头把他剜到骨子里——Undetectables 中了 Besiegement，他的（前）朋友们正在死去。
-- **关键词**：The Undetectables were Besieged · His (ex-)friends were dying · The Undetectables were
+- **关键词**：The Undetectables were Besieged · His (ex-)friends were dying
 - **为什么这样写**：把上一章三人「肆意挥霍最后几小时」的怪异举动在这里一次性解释清楚，同时把 Theodore 的秘密行动从「自保」改写成「抢时间」——赌注第一次真正压在他在乎的人身上。
 - **读者视角提示**：注意 `(ex-)` 这个括号：他连「朋友」这个称呼都要打上折扣，正说明他从没真的接受关系已断。
 

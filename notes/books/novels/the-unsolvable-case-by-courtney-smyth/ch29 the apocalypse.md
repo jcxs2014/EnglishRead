@@ -53,7 +53,7 @@ modified: "2026-10-17"
 > **原句 6:** Surely you read the note I left for your little friends?’
 
 - **中文理解**：「当然我看过那张便条。上面有个很糟的双关。」——「你当然把便条翻到背面看过了吧？」——Theodore 瞪着他：「我当然没翻背面。谁会把额外的东西写在案发现场便条的背面？那完全不合直觉。」
-- **关键词**：Surely you read · Surely you · you read the · you read
+- **关键词**：Surely you read · you read the
 - **为什么这样写**：用一个极其生活化的疏漏（没翻背面）完成一次羞辱：读者也在这一刻意识到自己也从没想过要翻。幽默与羞耻同时到位，且顺手把「Mallory 比他能干」摆上台面。
 - **读者视角提示**：记住这条：便条背面还有内容，而 Mallory 已经读到了——这是三人此刻领先于 Theodore 的地方。
 

@@ -18,7 +18,7 @@ modified: "2026-10-17"
 > **原句 1:** Open your eyes,’ Theodore whispered.
 
 - **中文理解**：「睁开眼，」Theodore 低声说。三人躺在地上，Memorial Gardens 像被飓风扫过；一道刺眼的白光之后，所有人都趴下了。盐被风吹散，他觉得自己像被劈成两半，但没有比朋友更要紧的事。
-- **关键词**：Open your eyes · Open your · your eyes ’ · your eyes
+- **关键词**：Open your eyes
 - **为什么这样写**：开篇用最轻的一句请求（open your eyes）接住上一章的世界末日：作者不写爆炸，只写一个人跪在朋友身边叫他们醒来。
 - **读者视角提示**：注意「他觉得自己像被劈成两半」：这是他作为萨温鬼魂的第一次「濒死体验」，也预示他之后的选择。
 
@@ -67,7 +67,7 @@ modified: "2026-10-17"
 > **原句 8:** I believe you,’ Mallory said finally.
 
 - **中文理解**：「我相信你，」Mallory 终于说。Theodore 眨着眼看她，手还停在半路。「我相信你的判断，」Cornelia 对她说。Diana 眯起眼看他：「我相信我自己。我也相信他。」
-- **关键词**：I believe you · I believe · believe you ’
+- **关键词**：I believe you
 - **为什么这样写**：三种「相信」并排出现，各自带着自己的理由（她信事实、她信她、她信自己）：作者用三种人格完成同一个决定，比任何一句「我们原谅你」都更有分量。
 - **读者视角提示**：注意她们没有说「原谅」：她们说的是「相信」——这本书里最贵的词。
 

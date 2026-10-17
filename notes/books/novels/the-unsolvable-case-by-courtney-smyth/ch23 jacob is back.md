@@ -32,7 +32,7 @@ modified: "2026-10-17"
 > **原句 3:** Wards!’ she blurted eventually, gesturing to Wickermere at large. A town that was heavily warded. That should not have let Theodore in.
 
 - **中文理解**：「结界！」她终于脱口而出，指着整个 Wickermere——一个结界严密的镇子，本不该让 Theodore 进来。他近乎抱歉地答：「Ghoul Council 没兴趣设防鬼的结界。我有个……呃……朋友，有内线替我核实过。」
-- **关键词**：Wards · A town that was heavily warded · should not have let Theodore in · Wards ’ she · Wards ’
+- **关键词**：A town that was heavily warded · should not have let Theodore in
 - **为什么这样写**：用一个技术性细节（结界只防活物、不防鬼）把他跨越边界的合法性坐实，同时那句含糊的「有个朋友，有内线」留下一处未交代的关系——这也是 Grey 第一次被间接地写进解法里。
 - **读者视角提示**：注意「近乎抱歉」的语气：他不是炫耀能力，而是在承认自己钻了制度的空子。
 
@@ -48,7 +48,7 @@ modified: "2026-10-17"
 - **中文理解**：「我没有亲手杀死那些人里的任何一个。」
 - **关键词**：I did not, with my own hand, kill any of those people
 - **为什么这样写**：一句语法上成立、法律上无效的回答——他避开了「我有没有杀」，只声明「没亲手」；这种措辞正是本书反复提醒的「说话人留的缝」，也是 Mallory 立刻反驳的原因。
-- **读者视角提示**：注意他特意强调 with my own hand：这句话等于承认「我用别的方式参与了」。把它与 ch19 里他承认曾说服掘墓人挖尸体对照，就能看出他一贯的措辞策略。
+- **读者视角提示**：注意他特意强调 with my own hand：这句话等于承认「我用别的方式参与了」。把它与 ch17 里他承认曾说服掘墓人挖尸体对照，就能看出他一贯的措辞策略。
 
 > **原句 6:** Mallory, hold on. I’m not trying to be difficult, I’m just… dealing with a lot here. I am not as involved as you might expect, but I’m not… not involved. It’s not willing,’ he added, his voice soft.
 

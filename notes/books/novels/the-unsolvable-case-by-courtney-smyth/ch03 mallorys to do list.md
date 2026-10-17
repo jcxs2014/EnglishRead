@@ -17,7 +17,7 @@ modified: "2026-10-17"
 
 > **原句 1:** On the other side of Wrackton, at approximately the same time, the PI agency formerly known as the Undetectables had given up the ghost.
 
-- **中文理解**：在 Wrackton 的另一边、差不多同一时刻，那家「原名不错」的私家侦探所已经彻底散了——字面上也可以读成：她们把那个鬼魂放弃了。
+- **中文理解**：在 Wrackton 的另一边、差不多同一时刻，那家原名 Undetectables 的私家侦探所已经彻底散了——字面上也可以读成：她们把那个鬼魂放弃了。
 - **关键词**：the other side of Wrackton · formerly known as the Undetectables · given up the ghost
 - **为什么这样写**：一句转场就把上一节的 Theodore 线与本节的 Mallory 线焊在「同一时刻、城的另一侧」，并让 gave up the ghost 这个双关同时落在两件事上：事务所散伙，以及她们赖以生存的鬼魂本身（Theodore 就是那个鬼）。formerly known as 三个词把名字收回去——她们已经不配再用这个名字。
 - **读者视角提示**：记住 formerly known as 这个措辞。本书后半要问的正是「名字还在、东西已经不在」算不算解散；等她们把它重新挂起来时，这句话会变成反讽。

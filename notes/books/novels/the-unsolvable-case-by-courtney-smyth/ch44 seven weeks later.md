@@ -18,7 +18,7 @@ modified: "2026-10-17"
 > **原句 1:** Seven weeks (and two days) later
 
 - **中文理解**：七周（零两天）之后。Broadwick Mansion 的派对正热闹，灯就在这时灭了。
-- **关键词**：Seven weeks (and two days) later · Seven weeks and · Seven weeks
+- **关键词**：Seven weeks (and two days) later · Seven weeks and
 - **为什么这样写**：用时间跳跃与一句「灯灭了」开篇：前者把读者从末日拉到日常，后者让这份日常立刻出点小岔子——本书结束后的世界，麻烦都变得这么小。
 - **读者视角提示**：注意「七周零两天」这个精确度：它是 Mallory 式的记法，也暗示这段日子她一天一天数过。
 

@@ -27,7 +27,7 @@ modified: "2026-10-17"
 - **中文理解**：「你好，Mallory，」他张开双臂说，「你要死了。」
 - **关键词**：holding his arms out · You are going to die
 - **为什么这样写**：一句开场白把他的笨拙与灾难级措辞同时暴露——他张开双臂是久别重逢的姿态，话却是死亡通知；作者让这句话可被误读，正是本章全部张力的来源。
-- **读者视角提示**：他说的是 Besiegement 诅咒（明晚到期），而不是威胁。把这句与 ch16 里「距死期二十三小时」并读，才知道他只是把事实说出了口。
+- **读者视角提示**：他说的是 Besiegement 诅咒（明晚到期），而不是威胁。把这句与 ch20 里「距死期二十三小时」并读，才知道他只是把事实说出了口。
 
 > **原句 3:** And all her brain said in response to this familiar, wonderful, inexplicable apparition was danger danger danger danger.
 
@@ -46,9 +46,9 @@ modified: "2026-10-17"
 > **原句 5:** Kill me. I am going to die – I’m dying anyway. Just do it.’ She closed her eyes, the image of his concerned face burned behind her eyelids. The last thing she’d ever see.
 
 - **中文理解**：「动手吧。我反正是要死的——我正在死。就动手吧。」
-- **关键词**：I am going to die — I'm dying anyway · Just do it · Kill me I
+- **关键词**：I am going to die — I'm dying anyway · Just do it
 - **为什么这样写**：一句近乎求死的命令，把她的疲惫、疼痛与绝望叠在一起；她不是勇敢，而是算过账——与其被诅咒慢慢带走，不如让他了结。
-- **读者视角提示**：注意她并非毫无反抗：她提到「你要取我的魂，会惹怒一群 Besiegement 的鬼」——即便认命，她仍在用规则保护自己的身体。
+- **读者视角提示**：注意她并非毫无反抗：就在这句之前，她还提醒过对方——若取她的魂，会惹怒一群等着她身体的 Besiegement 鬼；即便认命，她仍在用规则保护自己的身体。
 
 > **原句 6:** Someone said ‘Cell three’, which Mallory knew to be the cell she was currently sitting in, accused of murder and of aiding and abetting Theodore, the most wanted man in all of Wrackton. The case they’d so easily fabricate if she was caught with Theodore. The conclusions they could so easily jump to. The same conclusions Mallory herself might jump to, if she was not in possession of discernment.
 
@@ -83,7 +83,7 @@ modified: "2026-10-17"
 | confirmation | 确认；证实 | His appearance here, in her cell, was confirmation of what she couldn’t accept before. |
 | officially | 正式地；官方上 | It would hurt more than anything to not have officially solved the case. |
 | conclusions | 结论 | The conclusions they could so easily jump to. |
-| possession | 占有；夺取（身体） | The same conclusions Mallory herself might jump to, if she was not in possession of discernment. |
+| possession | 具有；拥有（in possession of＝具备某物/某种特质） | The same conclusions Mallory herself might jump to, if she was not in possession of discernment. |
 | discernment | 判断力；辨识力 | The same conclusions Mallory herself might jump to, if she was not in possession of discernment. |
 | triumphantly | 得意地；扬扬自得地 | Theodore seemed to consider all of this himself, a stillness coming over him, until he pointed at Mallory triumphantly. |
 | unfortunately | 可惜；遗憾的是 | ‘Can’t say, unfortunately,’ he said cheerfully. |

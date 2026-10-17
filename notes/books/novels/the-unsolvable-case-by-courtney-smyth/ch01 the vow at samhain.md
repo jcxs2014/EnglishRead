@@ -8,10 +8,10 @@ modified: "2026-10-17"
 ## 本章导航
 
 - **地点·时间**：Occulture 的城镇 Wrackton；Samhain（从节前 Ana 的工作间一路写到当夜的 Observatory 与镇民集会）。时间层即章首标注的 THEN (Many years ago. More than a hundred, fewer than eternity)，是全书最远的一层。
-- **一句话概括**：一百多年前的 Samhain，女巫三人组 Ana、Ruth、Rose 按女神 Morrigan 的指示执行一张「apocalypse list」——用七条性命和一块能让人遗忘的玻璃，把吸血鬼推成巫术社会的公敌；Ana 削去长发、割伤双手，伪装成吸血鬼献祭下的幸存者，替 Morrigan 也替 Ruth 按下了战争的开关，并因此成为被永远记住的那一个。
+- **一句话概括**：一百多年前的 Samhain，女巫三人组 Ana、Ruth、Rose 按女神 Morrigan 的指示执行一张「apocalypse list」——用七条性命和一块能让人遗忘的玻璃，把吸血鬼推成巫术社会的公敌；Ruth 为 Ana 削去长发、割伤双手，伪装成吸血鬼献祭下的幸存者，替 Morrigan 也替 Ruth 按下了战争的开关，并因此成为被永远记住的那一个。
 - **情感弧线位置**：全书的**道德原点**，不是主角们的低谷而是灾难的起点。Ana 与 Ruth 的亲密（手腕上的吻、改名 Elisabella）和背叛在同一场戏里并置——本章确立的关系标尺，后面每一次「谁在骗谁」都以它为参照。
 - **叙事手法**：第三人称全知，叙述者套着「讲古」的框架腔（Once upon a time 起手），并有四处括号旁白越过故事直接对读者说话；场景以 `* * *` 切为「工作间密谋」与「Observatory 之夜」两幕；章内两次用 Little did … 式预叙，把结局提前泄给读者。
-- **线索进展**：① 三人组与被困地下的 Morrigan 的约定——Morrigan would be free again soon；② 献祭规格——Seven souls is all we need；③ 按她们 specifications 制作的玻璃，能让人记不住今晚那些下作的手段，是后文一切「记不住 / 记得错」的机制；④ Ana 改名 Elisabella；⑤ 吸血鬼被栽赃，战争与 re-enactments 由此而来；⑥ 末尾 Sir Kingston 的 emerald ring，以及他行动迟缓得像只剩 weeks 而不是 months 就要分娩的人——本章留给全书的最实一颗物证钉。
+- **线索进展**：① 三人组与被困地下的 Morrigan 的约定——Morrigan would be free again soon；② 献祭规格——Seven souls is all we need；③ 按她们 specifications 制作的玻璃，能让人记不住今晚那些下作的手段，是后文一切「记不住 / 记得错」的机制；④ Ana 为 Ruth 取名 Elisabella（Ruth 此后即 Elisabella）；⑤ 吸血鬼被栽赃，战争与 re-enactments 由此而来；⑥ 末尾 Sir Kingston 的 emerald ring，以及他行动迟缓得像只剩 weeks 而不是 months 就要分娩的人——本章留给全书的最实一颗物证钉。
 
 ## 精读
 
@@ -61,7 +61,7 @@ modified: "2026-10-17"
 
 - **中文理解**：要是当时有人肯仔细看一眼，就会看见 Sir Kingston 戴着一枚绿宝石戒指，看见他行动的迟缓程度像是一个只剩几周、而不是几个月就要分娩的人。（这就是否认真相会对时间做的事。）
 - **关键词**：Had anyone thought to look closely · accessorised with an emerald ring · what denial of truth does to time
-- **为什么这样写**：本章最关键的一条线索被塞进反事实句里——Had anyone thought to look closely，等于告诉读者真相一直摆在明面上，只是没人肯看。戒指与「以周计而不是以月计的孕期」两个生理/饰品细节并置，读者能凭它们去推断说话者与那场谋杀的关系；而括号旁白立刻把生理细节上升为主题判断：否认真相，会让时间本身变形。
+- **为什么这样写**：本章最关键的一条线索被塞进反事实句里——Had anyone thought to look closely，等于告诉读者真相一直摆在明面上，只是没人肯看。戒指与「以周计而不是以月计的孕期」两个生理/饰品细节并置，读者能凭它们去推断当事人与那场谋杀的关系；而括号旁白立刻把生理细节上升为主题判断：否认真相，会让时间本身变形。
 - **读者视角提示**：这是埋得最实的一颗钉子。重读时你才发现「她该由我来杀」不是怒而是失手后的泄底，而 weeks 与 months 的差额就是这个案子的时间戳——本章已经把物证交给读者，只是没附说明书。
 
 > **原句 8:** Though history has a habit of repeating itself.
@@ -109,4 +109,4 @@ modified: "2026-10-17"
 
 ## 一句话总结
 
-一百多年前的 Samhain，Ana 用削发与割手把自己演成吸血鬼暴行的受害者，替 Morrigan、也替 Ruth 按下战争的开关：本章是全书的道德原点——后来所有的重演，底稿都写在这一夜。
+一百多年前的 Samhain，Ruth 为 Ana 削发割手，Ana 以此把自己演成吸血鬼暴行的受害者，替 Morrigan、也替 Ruth 按下战争的开关：本章是全书的道德原点——后来所有的重演，底稿都写在这一夜。

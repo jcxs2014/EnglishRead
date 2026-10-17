@@ -53,7 +53,7 @@ modified: "2026-10-17"
 > **原句 6:** A chair for Theodore. In the ‘home’ of his once-greatest enemy.
 
 - **中文理解**：一张给 Theodore 的椅子，就在他昔日最大敌人的「家」里。她完全不明白这意味着什么。
-- **关键词**：A chair for Theodore · In the ‘home’ of his once-greatest enemy · A chair for
+- **关键词**：A chair for Theodore · In the ‘home’ of his once-greatest enemy
 - **为什么这样写**：用一个物件（盖着铁毯的高背椅）代替所有解释：他们的关系已经深到会为对方留一个座位，而旁观者（Mallory，也是读者）只能猜测。
 - **读者视角提示**：这张椅子与 ch17 里「Grey 用恶魔魔法造出脑内保险库」是同一件事的两个证据：他给 Theodore 的不只是一间屋子。
 
@@ -67,7 +67,7 @@ modified: "2026-10-17"
 > **原句 8:** He’s playing checkers,’ Kingston offered, standing over Grey’s chessboard with his fingers on the king.
 
 - **中文理解**：「他在下跳棋，」Kingston 站在 Grey 的棋盘边说，手指按在王上。「而他装作在下棋。」Mallory 费力地站起来。「这一次，我们知道他的打法。我们可以在他自己的游戏里赢他。」
-- **关键词**：He's playing checkers · He’s playing checkers · He’s playing · playing checkers ’
+- **关键词**：He's playing checkers · He’s playing checkers
 - **为什么这样写**：用棋类比喻收束全章：Jacob 的「深谋」被降格为「跳棋」，而三人第一次拥有「读他的打法」的优势；这也直接回应 ch12 里 Mallory 说的「学规则，再用他的规则赢他」。
 - **读者视角提示**：注意 Kingston 说这话时手按的是「王」——一个不会下棋的人随手按在最显眼的棋子上，恰好成了全章最准的比喻。
 

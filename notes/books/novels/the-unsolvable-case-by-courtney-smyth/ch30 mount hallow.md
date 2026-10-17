@@ -46,14 +46,14 @@ modified: "2026-10-17"
 > **原句 5:** Mallory blinked, forgetting for a moment that she’d asked the room for help.
 
 - **中文理解**：Mallory 迟了一拍才意识到，她刚才请求这间屋子里的人帮忙；而「线索」这个词让她想起 Theodore 说过他试着留下线索，也想起这是**第二次**有人闯进这栋房子。
-- **关键词**：Mallory blinked forgetting · Mallory blinked · blinked forgetting for
+- **关键词**：Mallory blinked forgetting · blinked forgetting for
 - **为什么这样写**：用一个词的重复完成提示——Grey 随口说的「give us a clue」触发她的记忆，把「求助」与「追查」两条线接上；这也是本书典型的触发机制：关键不在推理，而在听见某个词。
 - **读者视角提示**：从这句起，本章后半变成一场「现场重勘」：她们开始逐件比对屋子里被移动过的东西。
 
 > **原句 6:** Here are the case files that were disturbed,’ Cornelia said. Mallory tugged them out of their hands as Diana continued scrutinising the diorama. The Ternion’s names were ringed in red pen, and she now noticed letters scrawled in Theodore’s unmistakable handwriting.
 
 - **中文理解**：Theodore 的笔迹写着 ALIAS；在这份旧案卷上，「VANE」被划了重重下划线。
-- **关键词**：The Ternion's names were ringed in red pen · letters scrawled in Theodore's unmistakable handwriting · Here are the · Here are
+- **关键词**：The Ternion's names were ringed in red pen · letters scrawled in Theodore's unmistakable handwriting · Here are the
 - **为什么这样写**：把三条线索以最直白的方式并列：圈起的名字、ALIAS、VANE；读者与 Mallory 同时拿到拼图碎片，却都不知道该怎样拼——这种「先给碎片后给图」的处理，正是本书的悬念节奏。
 - **读者视角提示**：VANE 指向 Katherine Vane／Rosemary Vane（Blair 的前世）；ALIAS 则是「别名」——两者合起来指向「一个用别名活着的人」。
 
@@ -67,7 +67,7 @@ modified: "2026-10-17"
 > **原句 8:** I know what he was trying to tell us,’ Mallory said breathlessly. ‘Diana, where were the witchlights? On the diorama.’
 
 - **中文理解**：「我知道他想告诉我们什么了，」Mallory 气喘吁吁地说。「Diana，diorama 上的 witchlights 在哪里？」——「……为什么问？」——「Bunkers，」Mallory 低声说。
-- **关键词**：I know what he was trying to tell us · where were the witchlights · I know what
+- **关键词**：I know what he was trying to tell us · where were the witchlights
 - **为什么这样写**：把全章的线索收束成一个词（Bunkers）：五盏灯的位置＝五处地下掩体，而 Theodore 想说的正是「去地下」。这种以单个名词作结的写法，让顿悟显得干脆。
 - **读者视角提示**：章末她说的「这会彻底改变我们对 Occulture 的看法」——她想到的应是那位一直被封在 Offices 墙后的女神（Her／Katherine），也就是唯一还没出场的那一位。
 

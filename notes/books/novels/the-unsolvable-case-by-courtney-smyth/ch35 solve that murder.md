@@ -25,7 +25,7 @@ modified: "2026-10-17"
 > **原句 2:** ‘Both,’ Cornelia and Mallory whispered in unison.
 
 - **中文理解**：木虱在花坛上移动。「我们觉得是魔法还是那只巨大的潮虫在把他们困住？」Diana 问。——「都是，」Cornelia 和 Mallory 异口同声地低声说。
-- **关键词**：Both · Both ’ Cornelia · Both ’
+- **关键词**：whispered in unison
 - **为什么这样写**：用一句轻巧的合声回答把恐惧拆成两半：控制既靠魔法，也靠一头巨虫的物理威慑；而「异口同声」这个细节提醒读者，三人组的默契还在。
 - **读者视角提示**：注意 Roly 在这场戏里的角色：它既是凶器，也是一头被 Theodore 命名的宠物——本书从不把恐怖写成单色的。
 
@@ -53,7 +53,7 @@ modified: "2026-10-17"
 > **原句 6:** The crowd surged and Mallory’s hands touched the stairs at stage left. As she stumbled up, away from the crowd, she could see a skeleton suspended from the hands of the Memorial. Its arms reached for the sky, body in a state of late decay. It was wearing a short purple robe that looked sickeningly like it belonged to Observer Johnson, stars patterned down the hem.
 
 - **中文理解**：一具骸骨被吊在纪念碑的双手之间，双臂伸向天空，身体处于腐败的后期。它穿着一件紫色短袍，下摆缀着星星，那件袍子恶心地像是 Observer Johnson 的。然而它太小、也烂得太厉害，不可能是 Johnson：从外观判断，死者至少已故八年，而且比 Mallory 矮——大约五尺四到五尺七之间。看起来，头上配一对猫耳正合适。
-- **关键词**：a skeleton suspended from the hands of the Memorial · a short purple robe · The crowd surged · The crowd · crowd surged and
+- **关键词**：a skeleton suspended from the hands of the Memorial · a short purple robe · The crowd surged · crowd surged and
 - **为什么这样写**：全章最冷的一段：作者不写名字，只写尺寸、腐烂程度与衣着，让读者比 Mallory 早一步认出那是 Theodore 的遗体；「猫耳正合适」这句话既是确认，也是全书最残忍的玩笑。
 - **读者视角提示**：记住这具骸骨：它是「Theodore 死在八年前」这条事实的物证，也是终局里「身体」与「灵魂」分离的具象。
 

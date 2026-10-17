@@ -60,14 +60,14 @@ modified: "2026-10-17"
 > **原句 7:** That should narrow it down. Three key players become two viable suspects.
 
 - **中文理解**：这应该能把范围收窄了：三名关键人物变成两个可行嫌疑人。**Vincent Van Doren**，或者 **Ezra Broadwick**。
-- **关键词**：That should narrow it down · Three key players become two viable suspects · That should narrow
+- **关键词**：That should narrow it down · Three key players become two viable suspects
 - **为什么这样写**：一处最直白的推理交付——叙述者替读者把名单从三人砍到两人；两个名字并排出现，也让此前的诸多暗示（Broadwick 家与本案的牵连、Van Doren 的暴力结局）有了落点。
 - **读者视角提示**：注意它说的是「可行嫌疑人」（viable），不是「凶手」——被点名的两人里，一个是动手的容器，另一个可能另有角色。
 
 > **原句 8:** Put it together, though, and the answer starts to open up.
 
 - **中文理解**：把线索拼起来，答案就开始展开；你会开始明白我是谁、我们是谁，会开始明白 Theodore 在其中的位置，也会开始明白那个计划从头到尾是什么。
-- **关键词**：Put it together, though · the answer starts to open up · Put it together · Put it · it together though
+- **关键词**：Put it together, though · the answer starts to open up · Put it together · it together though
 - **为什么这样写**：三个 `You start to understand` 排比把揭秘写成邀请而非宣讲，读者被拉进叙述者的视角；「我是谁／我们是谁」的复数切换，则暗示叙述者不止一个存在——与 Ternion 三位女神的设定一致。
 - **读者视角提示**：读到这句就该回头核对：被囚在 Mayoral Offices 的 Katherine、被关在 bunker 里的 Blair、以及百年前的 Elisabella——「我们」指的就是她们。
 

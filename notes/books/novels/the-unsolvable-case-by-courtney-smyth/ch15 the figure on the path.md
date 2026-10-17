@@ -46,7 +46,7 @@ modified: "2026-10-17"
 > **原句 5:** You crave the concept of human touch. Of human love, a shred of which you gleaned from your friendships, but now their time on this earth is fragile and fleeting. Amid the sadness and the terror, you want. You, Theodore Wyatt, WANT
 
 - **中文理解**：Voice 点破他的核心欲望：你渴望人的触碰、人的爱；多年的自我调整与抱怨把它磨成了麻木与习惯；在悲伤与恐惧里，你就是想要——你，Theodore Wyatt，想要。
-- **关键词**：You, Theodore Wyatt, WANT · You crave the · You crave
+- **关键词**：You, Theodore Wyatt, WANT · You crave the
 - **为什么这样写**：这段话把「变成人」这条贯穿全书的线正式说出，并且由最不可信的角色说出最准确的诊断——读者必须承认，操纵者往往比被操纵者更了解他。
 - **读者视角提示**：注意它用「渴望」与「想要」压过大写的「想要」——大写之后不再是欲望，而是被判定的罪。
 

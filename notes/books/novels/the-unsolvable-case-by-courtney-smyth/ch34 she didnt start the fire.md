@@ -18,21 +18,21 @@ modified: "2026-10-17"
 > **原句 1:** Wrackton was utterly deserted.
 
 - **中文理解**：Wrackton 空无一人。不到一小时前它还人声鼎沸、欢腾喧闹，对逼近的威胁一无所知；如今它空了：前门敞着，走廊无人，铁门在风里晃。唯一还像活物的，是宣告封锁的警笛，以及一段自动语音——请游客留在室内，发现任何「生物」即刻拨打专线。
-- **关键词**：utterly deserted · Wrackton was utterly · Wrackton was · was utterly deserted
+- **关键词**：utterly deserted · Wrackton was utterly · was utterly deserted
 - **为什么这样写**：用「一小时前」与「现在」的对照建立恐怖：不是战场，而是被抽空的城市；连「生物」这个词都被加了引号，说明官方也不知道自己在警告什么。
 - **读者视角提示**：这种「空城」写法与全书前面所有热闹场景（Larix、广场、Broadwick 舞会）形成总对照：本书的终局开始于人群的消失。
 
 > **原句 2:** Her walk through Mayoral Square had forewarned her that this was not the case – both the utter emptiness, despite the tourist population, and the fact that there were untouched three foot high letters burning on the ground that read:
 
 - **中文理解**：广场上三尺高的火字还在烧：**SHE DIDN'T START THE FIRE**。下面一行小一点的字写着：「她也没杀任何人！！！——诚挚的，NOTORIOUS T Wyatt」。
-- **关键词**：three foot high letters burning on the ground · Her walk through · Her walk · walk through Mayoral
+- **关键词**：three foot high letters burning on the ground · Her walk through · walk through Mayoral
 - **为什么这样写**：用一个流行歌曲的标题（Billy Joel 的 We Didn't Start the Fire）为 Mallory 做无罪辩护：既是他一贯的浮夸作风，也是他能想到的最公开的辩白方式——把申辩写成一场地景艺术。
 - **读者视角提示**：注意落款用的是通缉令上的称号（NOTORIOUS T Wyatt）：他连自我辩护都要用警方给的标签。
 
 > **原句 3:** So that’s how he broke you out of prison,’ Cornelia said.
 
 - **中文理解**：「原来他是这样把你弄出监狱的，」Cornelia 说。——「你信不信，把我弄出来其实是 B 计划？」Cornelia 嗤了一声，但那声里带着宠溺：Theodore 一向擅长宏大的举动，也一向不擅长构建计划。
-- **关键词**：that's how he broke you out of prison · So that’s how · So that’s · that’s how he
+- **关键词**：that's how he broke you out of prison · So that’s how · that’s how he
 - **为什么这样写**：用一句总结把 Theodore 这个人写完整：排场是天赋，计划是短板；而 Cornelia 的「宠溺」说明三人对他的评价早已软下来。
 - **读者视角提示**：这句话与后面「他连便条背面都没翻」是同一个人设的两面。
 
@@ -67,7 +67,7 @@ modified: "2026-10-17"
 > **原句 8:** Grey texted.’ Diana’s voice was strange, and it made Mallory’s stomach plummet.
 
 - **中文理解**：Diana 把手机转向她。屏幕上写着一个词，孤零零的、近乎哀求：**Help**。
-- **关键词**：Grey texted · Grey texted ’ · texted ’ Diana’s
+- **关键词**：Diana’s voice was strange
 - **为什么这样写**：用全书最短的一条消息收束本章：没有标点、没有上下文、没有落款解释——一个从不求助的人发出这一个词，比任何长篇都可怕。
 - **读者视角提示**：这条短信同时完成了两件事：把 Grey 从「旧敌」推到「需要被救的人」，也把下一章的动机直接交到三人手里。
 

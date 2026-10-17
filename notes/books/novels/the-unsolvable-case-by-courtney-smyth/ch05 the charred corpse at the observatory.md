@@ -11,7 +11,7 @@ modified: "2026-10-17"
 - **一句话概括**：Diana 与 Cornelia 醉得东倒西歪地赶到，三人被一通电话拽回「Undetectables 出勤」的旧轨；穹顶房间里是一具被精确烧成焦炭、连五官都烧没了的尸体，现场却干净得像被人用尺子量过。DCI Nathan Tate——两年前被派来挤走 Sully 的那个人——接手现场、当场以恶魔魔法逼供；而尸体下压着的一绺草莓金长发与一只腕镯，把死者的身份指向另一个他们认识的人。
 - **情感弧线位置**：第一幕的合流点。Theodore 在上一节布下的「陷阱」在这里兑现成一条人命，倒计时的两端（他必须动手 / 她只剩两天）在这一夜撞上。对 Mallory 而言，本节是她明知不该、还是重新接下案子的那一刻。
 - **叙事手法**：把「重新出勤」的仪式感（三人斗嘴、威士忌、witchlight 照明、地毯纤维的现场论证）与骤然升级的黑暗（焦尸、逼供、Tate 的回归）交替编排；两个关键转折都压在段落末句（Her curiosity wouldn’t let her. / She’d do whatever it took.）；用门厅里的艺术收藏侧写 Wrackton 的等级、历史与被私藏起来的过去。
-- **线索进展**：① 死者遭魔法纵火精确焚毁——地毯熔化、墙面无烟渍、破坏范围只离尸体一两英寸；② 梯子被放了下来、通往屋顶的舱门却是关着的，说明有人离开前动过通道；③ 尸体手里握着一件 witchlight 形状的东西；④ 尸首下压着草莓金长发与腕镯，Diana 一度担心死者是 Observer Johnson；⑤ DCI Nathan Tate 顶替 Sully 接手现场，对 Undetectables 并不友善；⑥ 狗仔 Sam Bridewell 摸到现场兜售照片，Mallory 递给他一张事务所名片。
+- **线索进展**：① 死者遭魔法纵火精确焚毁——地毯熔化、墙面无烟渍、破坏范围只离尸体一两英寸；② 梯子被放了下来、通往屋顶的舱门却是关着的，说明有人离开前动过通道；③ 尸体手里握着一件 witchlight 形状的东西；④ 尸首下压着草莓金长发与腕镯，Mallory 一度担心死者是 Observer Johnson；⑤ DCI Nathan Tate 顶替 Sully 接手现场，对 Undetectables 并不友善；⑥ 狗仔 Sam Bridewell 摸到现场兜售照片，Mallory 递给他一张事务所名片。
 
 ## 精读
 
@@ -111,4 +111,4 @@ modified: "2026-10-17"
 
 ## 一句话总结
 
-Sully 的一通电话把「已停业」的 Undetectables 拽回 Observatory：屋顶房间里有一具被魔法纵火精确烧毁、连脸都烧没了的尸体，Diana 从尸首下摸出一绺草莓金长发和一只腕镯，而接手现场的却是两年前被派来挤走 Sully 的 DCI Nathan Tate——面对威逼与逼供，Mallory 仍然决定做到最后，无论要付出什么。
+Sully 的一通电话把「已停业」的 Undetectables 拽回 Observatory：屋顶房间里有一具被魔法纵火精确烧毁、连脸都烧没了的尸体，Diana 从尸首下取出一绺草莓金长发，Mallory 注意到尸体腕上的镯子，而接手现场的却是两年前被派来挤走 Sully 的 DCI Nathan Tate——面对威逼与逼供，Mallory 仍然决定做到最后，无论要付出什么。

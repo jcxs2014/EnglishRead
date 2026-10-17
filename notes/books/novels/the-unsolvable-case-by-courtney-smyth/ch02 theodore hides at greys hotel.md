@@ -57,7 +57,7 @@ modified: "2026-10-17"
 - **为什么这样写**：三连 move 把身体反应写成节拍，句子短促到读者会跟着喘；紧接着的 `A need that was not his own.` 单独成句，把这一章的喜剧场景立刻转成惊悚——他不只是在躲藏，他是在被人（或某种东西）驱使。这句与前一节那只「看不见的手」形成跨章呼应，是全书最大谜面钉下的第一枚钉子。
 - **读者视角提示**：这是本章最该记住的一句：Theodore 的「自由」是假的。往后每当他解释不了自己的某个举动，回看这里。
 
-> **原句 7:** If things had been normal , he’d be in the lab right about now, watching the rest of the Undetectables work through case theories or agonise over client emails.
+> **原句 7:** If things had been normal, he’d be in the lab right about now, watching the rest of the Undetectables work through case theories or agonise over client emails.
 
 - **中文理解**：要是事情还正常，此刻他本该在实验室里，看着其余几位 Undetectables 推演案情，或者为客户邮件发愁。
 - **关键词**：in the lab · the rest of the Undetectables · work through case theories · agonise over client emails

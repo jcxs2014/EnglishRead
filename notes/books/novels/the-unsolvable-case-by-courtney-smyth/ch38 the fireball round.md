@@ -18,14 +18,14 @@ modified: "2026-10-17"
 > **原句 1:** Jacob bent over Grey’s corpse, curled in on itself and lifeless.
 
 - **中文理解**：Jacob 俯身看着 Grey 蜷起的、了无生气的尸体。「没错，他走了。」他把 Blair 的戒指在指间转来转去，满心欢喜，「三件里我们已经拿到两件了！Theodore，我希望你已经找到 Hexana 的星，因为你真的很需要给自己赎罪。」
-- **关键词**：curled in on itself and lifeless · Jacob bent over · Jacob bent · bent over Grey’s
+- **关键词**：curled in on itself and lifeless · Jacob bent over · bent over Grey’s
 - **为什么这样写**：用一句最平常的确认（Yep, he's gone）宣布一个人的死亡，再把注意力立刻转到「收集进度」上：反派的不耐烦比他的残忍更刺人。
 - **读者视角提示**：注意戒指在他指间转动的动作：它刚刚还在 Grey 流血的手里，此刻成了战利品。
 
 > **原句 2:** Mallory sank to the ground, a sense of defeat crashing over her.
 
 - **中文理解**：Mallory 瘫坐在地，一种失败感砸了下来。她曾那么确信这会奏效：他们拥有所有人站在一边的力量，他可以被制住，这一切可以被阻止。
-- **关键词**：a sense of defeat crashing over her · Mallory sank to · Mallory sank
+- **关键词**：a sense of defeat crashing over her · Mallory sank to
 - **为什么这样写**：三句排比的过去完成时（had been so sure… could be restrained… could be stopped）写「希望曾经成立过」，比直接写绝望更有力。
 - **读者视角提示**：这段也交代了本章的情绪基调：不是恐惧，而是「明明差一点」。
 
@@ -46,7 +46,7 @@ modified: "2026-10-17"
 > **原句 5:** The skeleton of Theodore Wyatt burned with it, and he fell to his knees, his one chance at being human again going up in flames before him.
 
 - **中文理解**：Theodore Wyatt 的骸骨随之燃烧，他跪倒在地，他变回人的唯一机会在他眼前化为火焰。「不，」Theodore 抽泣着，「我照你说的做了一切。你答应过我。」
-- **关键词**：The skeleton of Theodore Wyatt burned with it · fell to his knees · his one chance at being human again going up in flames · The skeleton of
+- **关键词**：The skeleton of Theodore Wyatt burned with it · fell to his knees · his one chance at being human again going up in flames
 - **为什么这样写**：把「梦想破灭」写成一件具体的事被烧掉：不是抽象的失望，而是那具挂在纪念碑上的骸骨在火里消失。他的哀求用的是最孩子气的句式（你答应过我），这让背叛更彻底。
 - **读者视角提示**：注意这具骸骨与 ch35 里 Mallory 的辨认是同一样东西：全书埋了二十多章的「身体」在这里正式作废。
 
@@ -60,14 +60,14 @@ modified: "2026-10-17"
 > **原句 7:** Tate smiled at them. ‘You were very helpful,’ he said, stroking Agatha’s cheek with his knife. To her credit, she did not move, her hand grasping Ethel’s like it was enough to save her. ‘Jacob’s old pen pals. Via a proxy, of course.’
 
 - **中文理解**：Tate 走到双胞胎面前。「你们很有帮助，」他说，用刀背抚过 Agatha 的脸颊。她没动，手紧紧抓着 Ethel 的手，好像那足以救她。「Jacob 的老笔友。当然，是通过中间人。」——Jacob 凑到 Mallory 耳边低语：「他说的是 Lyle Whitlock！他靠写信做了很多很好的说服工作。能有这样接近 Ghoul Council 的机会，真是太方便了。」
-- **关键词**：Jacob's old pen pals · Via a proxy, of course · Tate smiled at · Tate smiled
+- **关键词**：Jacob's old pen pals · Via a proxy, of course · Tate smiled at
 - **为什么这样写**：把一条埋了很久的线索（双胞胎收到的信）在这里收口：反派甚至在炫耀自己的布局，而这份炫耀正是他能被击败的原因（他总要说出来）。
 - **读者视角提示**：注意「笔友」这个词的荒诞：一场屠杀的准备工作，是从写信开始的。
 
 > **原句 8:** No,’ Imogen said.
 
 - **中文理解**：「不，」Imogen 说。「绝不，」Ezra 说。「哦，」Jacob 说，「那真遗憾。」他漫不经心地弹了弹手指。
-- **关键词**：No · No ’ Imogen · No ’ · ’ Imogen said
+- **关键词**：Imogen said
 - **为什么这样写**：全章最有力的四个短句：两个拒绝、一个失望、一个弹指。作者不给任何描写、不给任何解释，让死亡以最轻的动作发生——这正是本书对权力最冷的一次凝视。
 - **读者视角提示**：Broadwick 夫妇此前一直是「体制」的代表：他们的拒绝，是这一章唯一一次有人用命换立场。
 

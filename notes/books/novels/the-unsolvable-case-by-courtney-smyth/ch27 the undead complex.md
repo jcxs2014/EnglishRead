@@ -60,7 +60,7 @@ modified: "2026-10-17"
 > **原句 7:** He’d never been free.
 
 - **中文理解**：他从未自由过。他犯了一个错误。他把她们带进了陷阱。
-- **关键词**：He'd never been free · He’d never been · He’d never
+- **关键词**：He'd never been free · He’d never been
 - **为什么这样写**：三个短句、三次自我判决，节奏近乎锤击；这也是全书对 Theodore 这条线最集中的一次清算——他此前所有的自我安慰在这里被自己推翻。
 - **读者视角提示**：注意这三句之前是他对「她（Her）从未这样对我」的辩解：他清楚地知道 Jacob 与 Her 的区别在于暴力的方式。
 

@@ -192,9 +192,16 @@ ROLE_SKIP, ROLE_ALLOW, ROLE_DEFER, ROLE_FAIL = 'skip', 'allow', 'defer', 'fail'
 # 实测 why-we-die 35 条取证里绝大多数是 `（ch04）` 造成的假取证。默认 52 字符
 # 口径因标注位于尾部、超出指纹长度而一直没能暴露它。
 RE_TRAIL_ANNOT = re.compile(
-    r'[\(（\[【]\s*(?:ch\d+|第[一二三四五六七八九十百\d]+[章节]|[^)\s]{0,12}章)\s*'
+    # ⚠️ 2026-10-17 修（The Unsolvable Case 五步审查实测，**假红型**）：`ch\d+` 不认字母
+    #   后缀 ⇒ `（ch15b）`（插叙节章号）剥不掉，整串带着标注进指纹
+    #   (`sonaturallyjuliandidntseehisowncomingch15b`) ⇒ `00_金句精选.md` 报 28/29 ❌，
+    #   而该句逐字就在 `text/ch15b_perimortem_ii.txt` 里。
+    #   本库有「插叙节」编号 chNNb 的书不止一本 ⇒ 后缀必须参与匹配。
+    #   同一判据散落多处：`verify_overview_quotes.py` / `check_overview_full.py` 同批已修，
+    #   本处是第三份副本——**打一处必漏另一处**，故三处一并收口。
+    r'[\(（\[【]\s*(?:ch\d+[a-z]?|第[一二三四五六七八九十百\d]+[章节]|[^)\s]{0,12}章)\s*'
     r'[\)）\]】]\s*$'
-    r'|\s*[—–\-]{1,2}\s*(?:ch\d+|p{1,2}\.?\s*\d+)\s*$', re.I)
+    r'|\s*[—–\-]{1,2}\s*(?:ch\d+[a-z]?|p{1,2}\.?\s*\d+)\s*$', re.I)
 
 
 def _strip_trailing_annot(q):

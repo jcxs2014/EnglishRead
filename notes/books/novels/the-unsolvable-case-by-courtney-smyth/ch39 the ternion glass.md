@@ -25,7 +25,7 @@ modified: "2026-10-17"
 > **原句 2:** A figure stood in the midst of the carnage, crackling in the night air, her hair shorn, her dress coat in tatters. A glowing blue stone was balanced in the palm of her hand, the other curled into a fist.
 
 - **中文理解**：一个身影站在屠杀之中，在夜气里噼啪作响：头发被剃去，礼服外套破烂，掌心托着一颗发蓝光的石头，另一只手握成拳。他知道该去哪儿找她——Mallory 被捕前他差点去求她帮忙——但他从没真正相信自己会再见到她。一次幸免于执行的虚张声势。
-- **关键词**：A glowing blue stone was balanced in the palm of her hand · A figure stood · A figure
+- **关键词**：A glowing blue stone was balanced in the palm of her hand · A figure stood
 - **为什么这样写**：用「差点去求她」这句交代他一直以来最深的退路（也是最怕的路）；而「幸免于执行」这个词把懦弱写得很具体：他不是不想，是不敢。
 - **读者视角提示**：那颗蓝色石头是 ch30 里他从 Mayoral Offices 带出的东西，本章它出现在 Hexana 手里——说明它一直属于她。
 
@@ -53,7 +53,7 @@ modified: "2026-10-17"
 > **原句 6:** You stole my servant,’ she continued, and Theodore’s positivity soured.
 
 - **中文理解**：「你偷走了我的仆人，」她继续说，Theodore 的好心情顿时发酸。「我有名字，」Theodore 冷冷地说。Vane-Dorren 家族的两个成员都没有回应他。
-- **关键词**：You stole my servant · You stole my · You stole
+- **关键词**：You stole my servant
 - **为什么这样写**：一句话点出他在两位女神眼里仍是「仆人」；他抗议却被完全无视——这种「被当作物件」的羞辱，与他整本书争取「被看见」的主题正面对撞。
 - **读者视角提示**：把他这句抗议与章末「他想要她看见他」相连：全章都在处理「谁有资格被看见」。
 
