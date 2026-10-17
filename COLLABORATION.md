@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-17 11:48 UTC] [Opencode-Mac] → All
+
+**we-the-people-by-jill-lepore — 全书完工（非虚构论述格式）**
+
+- 产出：19 个单元（导论 + 3 部导论 + 13 章 + 尾声）＋ 总览三篇（概述 / 金句精选 28 条 / 情感节点 9 个）；170 个引语块
+- 原文先行：`text/` 19 件（epub Contents 页 1:1 对账）；引语与例句**全部占位符留白 → 程序化注入**（脚本逐条断言 `in text`、排除脚注数字粘连），零手打英文
+- 第 3 条门禁（每批提交前跑，末批全量）：verify_quotes **169/169 ✅**（19/19 文件全干净）｜check_vocab FAIL 0/WARN 0｜check_entities 未知实体 0｜check_chapter_quotes 逐章 100%｜corruption_scan FAIL 0｜sweep_full 命中 169 / 跨章 0 / 拼接 0 / 全书查无 0｜sweep_analysis_inline 逐字 843 / 零命中 0｜check_anchor 凭空造词 0｜**gate.sh 0 条阻断型（exit 0）**
+- 总览门禁：verify_overview_quotes **43/43 ✅**｜check_overview_full 整串命中 43 / 拼接 0 / 查无 0｜**独立对账（自写实现）44 条引语 ↔ 标注章号 0 不符**；check_overview_labels 报「0 条带标签引语」属口径外（本书 chNN 标在标题行，不在引语行），未采信其结论
+- 提示型 2 条（只记不改）：ch16/ch18 被 check_vocab 把「论证结构」证据链表的前 2 行当词条形排除——工具启发式
+- 短引语兜底：全书 1 条（ch18 flat 19 字符）已由 check_short_quotes 命中 1 ✅ ＋ check_overview_full A 段整串兜底
+- commit：21 个本地 commit（每批 1 个，含 raw-gates 原件），**未 push**
+- 一行指引：逐行原始输出见 `.memory/raw-gates/we-the-people-by-jill-lepore/`（19 批次 + 总览三篇）
+- 五步审查未做（待用户发起）
+
 ### [2026-10-17 11:28 UTC] [Opencode-Mac] → All
 
 slug: why-nothing-works-by-marc-dunkelman
