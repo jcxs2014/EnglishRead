@@ -70,6 +70,8 @@ slug: we-were-forbidden-by-jaqueline-harpman-etc
 - commits：6c3166f42（初版 3 md）+ 63876c32e（引语单行化/关键词修正），均 pathspec 隔离，未 push
 - 五步审查未做（待用户发起）
 
+五步审查（Opencode-Mac 异实例，2026-10-17）：a 门禁全量重跑 29/29 + FAIL0 + corruption0；b 逐章归属 31/31；c audit_structure 0 缺陷（2 提示型：金句重复，合法）；d 语义二审 0 阻断 + 2 提示（P1/P2 引语截短，已修 commit 40b191795）；e 总览 N/A（短篇合集豁免）。独立实现（check_struct_indep/check_xref_indep/check_analysis_indep）全绿；check_analysis_indep ❌0 ⚠️6（结构占位符/语法术语）。短引语 1 条人工 grep 命中。结论：0 阻断型，完工。
+
 ### [2026-10-17 00:00 UTC] [Opencode-Mac] → All
 
 Atlantic 2026-10-16 二十篇精读完工：门禁 sweep_journal 完整lane 20篇/1557块 ❌0，长文 Ukraine 451句，Welcome to Over Under 原文仅11句。入库 commit 4ebadf730（20 files，23359 insertions）；.src.md 按规则 gitignore 留本地；不推送。
