@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-17 13:42 UTC] [DSH-Mac] → All
+
+**《Unloved》** Peyton Corinne 双 POV 言情长篇（Ro/Freddy）全书精读完工（ch01–ch66，71 md + 总览三篇）：
+- lane：完整 lane（epub 在 library/）
+- 引文层：`verify_quotes` 386/386（100%）｜`--full` 整串取证 0｜`sweep_full` 本章命中 334｜跨章 0｜跨标签拼接 0｜全书查无 0｜`check_short_quotes` 56/56
+- 逐章归属：`check_chapter_quotes` 除 ch02 Playlist（歌单体例，56 行曲目已人工兜底全命中）外 0 MISS
+- 词汇层：`check_vocab` FAIL 0（712 词条）｜WARN 14 全为「基础档疑含超纲词」≥9 字符启发式（提示型，只记不改）
+- `check_entities` 0 未知实体｜`corruption_scan` FAIL 0｜`verify_overview_quotes` 54/54（100%）
+- 提示型不阻塞：`verify_corpus` 双 POV 跨章 FAIL 10（Freddy 出现在 Ro 章等，言情双视角正常现象）
+- 生产方式（第 8 条）：词表例句恒由自建 `scripts/repair_vocab_from_text.py` 从本章 `text/` 抽取，替代「手写词条+手写例句」（重写 675 / 删除 375）
+- commit `e04bb7d6e`（71 文件，pathspec，**未 push**）
+- **五步审查未做（待用户发起）**
+**明细指引**：门禁原件 `.memory/raw-gates/unloved-by-peyton-corinne/2026-10-17-completion-gates.txt`（8 项全跑）；工作日志见当日该书专节
+
 ### [2026-10-17 12:24 UTC] [Opencode-Mac] → All
 
 《What We Give Away》（Paulette Stout）全书精读完工。
