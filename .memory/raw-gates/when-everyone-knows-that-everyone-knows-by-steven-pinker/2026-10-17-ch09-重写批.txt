@@ -1,0 +1,34 @@
+# ch09 重写批复验 · 2026-10-17 · 完整 lane
+
+=== 复验脚本（自写，第二实现口径）输出 ===
+A1 修复检查: HIT | md 内出现: True
+A1 旧缺陷串是否残留: False
+词表 19 行, 不命中: 无
+块数: 10 非5子项: 无
+分析层可疑英文串: 2（均为书名本身，正当）
+
+=== 字符数口径 ===
+python len() 字符数: 34353 ⇒ md 写 34,353 正确；简报 34,514 系 wc -c 字节口径
+
+=== verify_quotes ===
+
+=== 总计 60/60 引文可核实（100%）；完全干净文件 6/6；正文章节 0 提取 3；总览 0 提取转交 0 ===
+
+=== check_chapter_quotes ch09 ===
+ch09 the canceling instinct.md: 10/10 in ch09 text
+
+=== corruption_scan ===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== check_vocab（FAIL 3 全为 ch06 placeholder，属他实例在制文件）===
+--- FAIL (3) ---
+  ch06 the department of social relations.md [高级] 例句不命中本章(例句未命中本章)
+  ch06 the department of social relations.md [进阶] 例句不命中本章(例句未命中本章)
+  ch06 the department of social relations.md [基础] 例句不命中本章(例句未命中本章)
+  ch06 the department of social relations.md [?] 词汇节外有 1 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+
+=== 第二实现实体核对 ===
+=== 非虚构实体一致性（概览/论证结构层）：when-everyone-knows-that-everyone-knows-by-steven-pinker ===
+  参照集：text/ 13 件
+  ⚠️ 全书查无候选 0 处（只报不判红，须逐条读行裁决）
