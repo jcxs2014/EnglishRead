@@ -8,7 +8,7 @@ modified: "2026-10-17"
 ## 本章导航
 
 - **一句话概括**：Cat 在 Centennial Park 撞见 Lewis Kinross 被 convoy 抗议者围攻，冲进去救他，Kaydence 也冲进去救 Cat；Kyle Johnson（Kaydence 的弟弟）抢 Lewis 的手机，Cat 被 sign 击中流血；Gerry Halloran 用 megaphone 平息 crowd；Cat 得知 Kyle 是 mayor's "personal assistant"；Amir 派 Cat 回 Pinerock 继续追 Bliss 案。
-- **情感弧线位置**：全书第八章——protest violence 从 "honking" 升级到 physical assault (Cat's face bloodied)；Gerry Halloran 的 "peacemaker" 表演建立他 as political manipulator；Kyle 作为 mayor's aide 的身份把 convoy 与 city hall 连接。
+- **情感弧线位置**：全书第八章——protest violence 从 "honking" 升级到 physical assault (Cat's face bloodied)；Gerry Halloran 的 "peacemaker" (ch22) 表演建立他 as political manipulator；Kyle 作为 mayor's aide 的身份把 convoy 与 city hall 连接。
 - **Tropes**：protest violence / rescue (Cat saves Lewis) / mayor as peacemaker / "fake news" rhetoric / sibling conflict (Kaydence vs. Kyle).
 - **人物弧线**：Cat 从 "journalist" 转向 "assault victim"；Kaydence 从 "sales manager" 转向 "fierce sister"; Kyle 从 "normal Port Ellis bro" 转向 "convoy member/mayor's aide"; Gerry 从 "obnoxious politician" 转向 "peacemaker with megaphone."
 - **叙事手法**：第一人称限知 + action scene (protest violence) + Cat's internal "familiar anger" + Gerry's speech as political theater.

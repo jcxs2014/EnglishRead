@@ -56,7 +56,7 @@ modified: "2026-10-17"
 
 - **中文理解**："They haaaated each other。"
 - **关键词**：haaaated—— haaaated
-- **为什么这样写**：Janet Genovese's text is the chapter's final revelation. "haaaated" (with extra a's) is Janet's emphasis—she's confirming the hostility. This is the chapter's last line (after "They haaaated each other."). The extra a's convey Janet's certainty and drama. This confirms Bruce's "support person" theory: Bliss and Bree hated each other.
+- **为什么这样写**：Janet Genovese's text is the chapter's final revelation. "haaaated" (with extra a's) is Janet's emphasis—she's confirming the hostility. This is the chapter's last line (after "They haaaated each other."). The extra a's convey Janet's certainty and drama. This confirms Bruce's "support person" theory (ch9): Bliss and Bree hated each other.
 - **读者视角提示**："They haaaated each other" is the chapter's bombshell. Track whether this hatred led to murder.
 
 ## 本章词汇

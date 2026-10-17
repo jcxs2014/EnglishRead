@@ -34,7 +34,7 @@ modified: "2026-10-17"
 - **中文理解**："Debbie，你是个天使，"我母亲说。"你的所有帮助我怎么感谢都不够。"
 - **关键词**：an angel——天使；can't thank you enough——怎么感谢都不够
 - **为什么这样写**：Cat 的 shock at Marian's warmth toward Debbie is the chapter's first reversal. Marian, who is cold to Cat, is warm to Debbie—this establishes the mother-daughter asymmetry. "angel" is Marian's word; Cat's internal narration immediately undercuts it ("heaven didn't figure in any of them"). The contrast between Marian's "angel" and Cat's "heaven didn't figure" is the chapter's central dramatic irony.
-- **读者视角提示**：Debbie 的 "angel" status is Cat's suspicion. Track whether Debbie is genuine (she does food bank work) or performing (she's the mayor's wife). The chapter keeps both possibilities open.
+- **读者视角提示**：Debbie 的 "angel" status is Cat's suspicion. Track whether Debbie is genuine (she does food bank work) or performing (her warmth may be an act). The chapter keeps both possibilities open.
 
 > **原句 4:** “Catherine is going to take me for a tour of the local newspaper office,” said my mother. “Would you like to join?”
 

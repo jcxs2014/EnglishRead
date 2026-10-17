@@ -1,0 +1,6 @@
+=== sweep_full ===
+=== 引语整串 flat 比对（widows-and-orphans-by-kate-hilton-and-elizabeth-renzetti）===
+  参照集：text/ 逐章（29 章，可定章） + epub 交叉验证
+  ✅ 本章命中 262 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 1 ｜ ❌ 全书查无 0
+  （短引语 18 条归 check_short_quotes；无章可对 0 条未判）
+  🔶 ch15 convoy camp.md（ch15）跨标签拼接，各段逐字都在：“racists, book banners, transphobes. When I 

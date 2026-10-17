@@ -9,7 +9,7 @@ modified: "2026-10-17"
 
 - **一句话概括**：Cat + Bruce interrogate Kyle Johnson at city hall (Debbie's envelope-stuffing setup); Kyle reveals Gerry visited Bliss's room, Bliss (wearing hooded cloak) rejected his offer ("another path"); Gerry went to Greybuck Bar; Kyle + Gerry alibi (Greybuck). Meanwhile, whiteboard suspects list; Cat's "sister" realization; Hannah's Quill anxiety; Bruce's "We're not going to let them shut us down."
 - **情感弧线位置**：全书第二十六章——Kyle's testimony exonerates Gerry (Greybuck alibi); "another path" is Bliss's rejection; cloak detail (hooded) confirms mistaken identity.
-- **Tropes**：whiteboard suspects / Kyle interrogation / "another path" / Greybuck alibi / "not going to let them shut us down."
+- **Tropes**：whiteboard suspects / Kyle interrogation / "another path" / Greybuck alibi / "not going to let them shut us down." (ch23).
 - **人物弧线**：Cat 从 "investigator" 转向 "person with clearer timeline"; Kyle 从 "convoy member" 转向 "witness"; Gerry 从 "suspect" 转向 "man with alibi."
 - **叙事手法**：第一人称限知 + whiteboard scene + Kyle interrogation + "another path" as key clue.
 
@@ -112,4 +112,4 @@ modified: "2026-10-17"
 
 ## 一句话总结
 
-Cat + Bruce interrogate Kyle Johnson at city hall (Debbie's envelope-stuffing setup); Kyle reveals Gerry visited Bliss's room, Bliss (wearing hooded cloak) rejected his offer ("another path"); Gerry went to Greybuck Bar; Kyle + Gerry alibi (Greybuck). Meanwhile, whiteboard suspects list; Cat's "sister" realization; Hannah's Quill anxiety; Bruce's "We're not going to let them shut us down."——全章把 Kyle's testimony 与 whiteboard suspects 并置，"another path" 作为 Bliss's rejection of Gerry.
+Cat + Bruce interrogate Kyle Johnson at city hall (Debbie's envelope-stuffing setup); Kyle reveals Gerry visited Bliss's room, Bliss (wearing hooded cloak) rejected his offer ("another path"); Gerry went to Greybuck Bar; Kyle + Gerry alibi (Greybuck). Meanwhile, whiteboard suspects list; Cat's "sister" realization; Hannah's Quill anxiety; Bruce's "We're not going to let them shut us down." (ch23)——全章把 Kyle's testimony 与 whiteboard suspects 并置，"another path" 作为 Bliss's rejection of Gerry.

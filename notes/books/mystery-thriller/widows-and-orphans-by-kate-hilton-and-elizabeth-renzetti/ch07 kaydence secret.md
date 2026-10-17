@@ -10,7 +10,7 @@ modified: "2026-10-17"
 - **一句话概括**：Bree 宣布 conference 继续；Cat 在 marketplace 遇 Kaydence，撞见 Jenny Baker-Rubin（Bodhi 的妻子）带三胞胎 shopping；Bodhi Rubin 的 Ice Plunge Reawakening 课；Kaydence 带 Cat 去 Glenda's bakery，揭露她的家族秘密——她的父亲是 convoy 的领袖，弟弟 Kyle 也被洗脑；Kaydence 的 mom 被 dad 召回家 hosting convoy tourists。
 - **情感弧线位置**：全书第七章——Kaydence 的 backstory 从 "sales manager" 转向 "convoy leader's daughter"，personal stakes for Cat's investigation skyrocket；Bodhi Rubin 的 wellness scam 与 Bliss's "forces of darkness" rhetoric 并置。
 - **Tropes**：convoy leader's daughter / Ice Plunge Reawakening (Bodhi's scam) / homeschooled & emancipated / family estrangement / "the convoy is camping on mayor's land."
-- **人物弧线**：Kaydence 从 "sales manager" 转向 "convoy leader's daughter"——她的 family trauma 解释了她对 Quill 的 loyalty；Bodhi 从 "guru of soul connections" 转向 "gaslighting husband"；Jenny 从 "harassed mom" 转向 "drill sergeant with Vesuvius rage."
+- **人物弧线**：Kaydence 从 "sales manager" 转向 "convoy leader's daughter"——她的 family trauma 解释了她对 Quill 的 loyalty；Bodhi 从 "guru of soul connections" (ch4) 转向 "gaslighting husband"；Jenny 从 "harassed mom" 转向 "drill sergeant with Vesuvius rage."
 - **叙事手法**：第一人称限知 + marketplace scene + car conversation + bakery reveal + Kaydence's family disclosure.
 
 ## 精读
@@ -61,7 +61,7 @@ modified: "2026-10-17"
 
 - **中文理解**："他有 heart problems——which run in his family, by the way——但他 convinced 它们是 vaccine caused 的。Since I'm the one who persuaded him and my mom to get it，the heart stuff is my fault。He cut off contact again after the Quill series came out。He says if I want to peddle fake news for the woke libs，I'm not his daughter。And somehow he's got my little brother Kyle believing his bullshit。"
 - **关键词**：heart problems—— heart problems；run in his family—— run in his family；caused by the vaccine—— caused by the vaccine；peddle fake news for the woke libs—— peddle fake news for the woke libs；believing his bullshit—— believing his bullshit
-- **为什么这样写**：Kaydence's family disclosure is the chapter's emotional core. "heart problems—which run in his family, by the way" is her rational counter to his vaccine-causation claim. "the heart stuff is my fault" is her guilt (echoing Cat's "my fault" pattern). "peddle fake news for the woke libs" is her father's rhetoric (echoing Bliss's "corporate media"). "my little brother Kyle believing his bullshit" is her grief for Kyle's lost normalcy.
+- **为什么这样写**：Kaydence's family disclosure is the chapter's emotional core. "heart problems—which run in his family, by the way" is her rational counter to his vaccine-causation claim. "the heart stuff is my fault" is her guilt (echoing Cat's "my fault" pattern). "peddle fake news for the woke libs" is her father's rhetoric (echoing Bliss's "corporate media" (ch1)). "my little brother Kyle believing his bullshit" is her grief for Kyle's lost normalcy.
 - **读者视角提示**：Kaydence's family situation parallels Cat's (difficult parent, estranged child). Track the parallels. Kyle (convoy member) may be relevant to Bliss's murder.
 
 ## 本章词汇

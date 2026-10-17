@@ -1,0 +1,7 @@
+=== check_anchor ===
+=== 关键词锚定自查（widows-and-orphans-by-kate-hilton-and-elizabeth-renzetti）===
+  扫 29 个 md，235 个引语块，236 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（30 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）

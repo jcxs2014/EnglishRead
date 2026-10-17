@@ -119,4 +119,4 @@ modified: "2026-10-17"
 
 ## 一句话总结
 
-Cat 清晨撞上警车消防车，Marian 在咖啡厅 calmly 告诉她：她今早在 lookout 发现了一具尸体（Bliss Bondar），Inspector Bell 与 Martha Mercer 也到场，Cat 被 Martha 威胁驱逐；Marian 暗示 Cat 帮忙 promote 她的书，Cat 怀疑 Marian 隐瞒了什么——全章把 murder discovery 与 mother-daughter mutual suspicion 并置，"That poor girl. She certainly didn't fulfill the promise of her name" 作为 reveal 收尾。
+Cat 清晨撞上警车消防车，Marian 在咖啡厅 calmly 告诉她：她今早在 lookout 发现了一具尸体（Bliss Bondar），Inspector Bell 与 Martha Mercer 也到场，Cat 被 Martha 威胁驱逐；Marian 暗示 Cat 帮忙 promote 她的书，Cat 怀疑 Marian 隐瞒了什么——全章把 murder discovery 与 mother-daughter mutual suspicion 并置，"That poor girl. She certainly didn't fulfill the promise of her name" (ch4) 作为 reveal 收尾。

@@ -10,7 +10,7 @@ modified: "2026-10-17"
 - **一句话概括**：Marian 被 Inspector Bell 召去问话，Cat 作 personal support；Marian 先说 "slept through"，Inspector Bell 揭露 witness 看到她凌晨 1-2 点在 woods；Marian 承认 "smoking"（stress）；Inspector Bell 释放她；Marian 的 website 被 hack（Clarity K 的 sabotage）；Marian 透露 Clarity K 是她 former intern Camilla Khe，因 complaint 被 fire；Marian 也透露 Bliss 与 Bodhi Rubin 有 affair（thin walls, Bodhi sneaking out night of murder）。
 - **情感弧线位置**：全书第十一章——Marian's lies exposed (midnight smoking, but what else?); Clarity K's motive (sabotage) revealed; Bodhi/Bliss affair adds new suspect.
 - **Tropes**：police interview / "I forgot a detail" / witness vs. suspect / website hack / former intern revenge / affair reveal.
-- **人物弧线**：Marian 从 "centre of attention" 转向 "suspect with lies"; Clarity K 从 "poet" 转向 "former intern with grudge"; Bodhi 从 "guru" 转向 "affair partner of murdered Bliss."
+- **人物弧线**：Marian 从 "centre of attention" (ch5) 转向 "suspect with lies"; Clarity K 从 "poet" 转向 "former intern with grudge"; Bodhi 从 "guru" 转向 "affair partner of murdered Bliss."
 - **叙事手法**：第一人称限知 + police interview as scene + Marian's "Photoshopped reality" exposed + multiple revelations (smoking, Clarity, Bodhi/Bliss).
 
 ## 精读

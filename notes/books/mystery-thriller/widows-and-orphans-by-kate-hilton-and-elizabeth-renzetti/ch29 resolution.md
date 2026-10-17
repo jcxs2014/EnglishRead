@@ -48,9 +48,9 @@ modified: "2026-10-17"
 - **读者视角提示**：Bruce's silent investor (Ryan) provides financial backing. Track whether this is sustainable.
 
 
-- **中文理解**："I'm a free man in Paris. I'm unfettered and alive." ... "That was Gus on the phone. It's over. I'm not a married man any longer. Not that I had been for a long time, of course. Although I know that was unclear …"
+- **中文理解**："I'm a free man in Paris. I'm unfettered and alive." (ch24) ... "That was Gus on the phone. It's over. I'm not a married man any longer. Not that I had been for a long time, of course. Although I know that was unclear …" (ch24)
 - **关键词**：free man in Paris—— free man in Paris；unfettered and alive—— unfettered and alive；It's over—— It's over
-- **为什么这样写**：Amir's "I'm a free man in Paris" is his Joni Mitchell quote. "It's over. I'm not a married man any longer" is his announcement. This is Amir's freedom.
+- **为什么这样写**：Amir's "I'm a free man in Paris" (ch24) is his Joni Mitchell quote. "It's over. I'm not a married man any longer" (ch24) is his announcement. This is Amir's freedom.
 - **读者视角提示**：Amir's divorce is finalized. Track whether this leads to romance with Cat.
 
 > **原句 7:** “Would you think I was nuts if I wanted to run for mayor?”

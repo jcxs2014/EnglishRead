@@ -1,0 +1,1578 @@
+=== 分析层行内英文逐字核查（widows-and-orphans-by-kate-hilton-and-elizabeth-renzetti）===
+  参照集：text/（30 个提取件） + epub 交叉验证 ；扫 29 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：959 个表格行、346 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 2755 ｜ ⚠️ 跨章 78 ｜ 🔶 拼接 39 ｜ 🟠 部分命中 1308 ｜ 🟡 词形 149 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 159
+  ⚠️  ch02 mother egging.md:37  「she's the mayor's wife」→ 实为 ch22
+  ⚠️  ch02 mother egging.md:57  「Shill and Racket」→ 实为 ch01,08,15
+  ⚠️  ch02 mother egging.md:78  「Shill and Racket」→ 实为 ch01,08,15
+  ⚠️  ch03 welcome banquet.md:22  「I wouldn't have said I often knew when things were right」→ 实为 ch01
+  ⚠️  ch03 welcome banquet.md:23  「fairness」→ 实为 ch06,10,24
+  ⚠️  ch03 welcome banquet.md:29  「trapped in the body of」→ 实为 ch02
+  ⚠️  ch03 welcome banquet.md:43  「loonier anti-medicine material」→ 实为 ch02
+  ⚠️  ch03 welcome banquet.md:72  「moved like a sixteen-year-old Olympic gymnast trapped in」→ 实为 ch02
+  ⚠️  ch04 body found.md:11  「amateur sleuth」→ 实为 ch01
+  ⚠️  ch04 body found.md:79  「She's the mayor's wife」→ 实为 ch22
+  ⚠️  ch05 bliss falls.md:11  「suspicious」→ 实为 ch02,04,14,15
+  ⚠️  ch05 bliss falls.md:13  「wobbly」→ 实为 ch19
+  ⚠️  ch05 bliss falls.md:23  「side hustle」→ 实为 ch03
+  ⚠️  ch05 bliss falls.md:29  「mind your manners」→ 实为 ch03
+  ⚠️  ch05 bliss falls.md:50  「Shill and Racket」→ 实为 ch01,08,15
+  ⚠️  ch05 bliss falls.md:122  「That poor girl. She certainly didn't fulfill the promise」→ 实为 ch04
+  ⚠️  ch06 danilo and investigation.md:13  「source」→ 实为 ch09,12,13,14
+  ⚠️  ch06 danilo and investigation.md:29  「critical」→ 实为 ch04,18
+  ⚠️  ch06 danilo and investigation.md:58  「forces of darkness」→ 实为 ch03
+  ⚠️  ch07 kaydence secret.md:11  「forces of darkness」→ 实为 ch03
+  ⚠️  ch07 kaydence secret.md:13  「guru of soul connections」→ 实为 ch04
+  ⚠️  ch07 kaydence secret.md:37  「forces of darkness.」→ 实为 ch03
+  ⚠️  ch07 kaydence secret.md:57  「forces of darkness」→ 实为 ch03
+  ⚠️  ch07 kaydence secret.md:64  「corporate media」→ 实为 ch01,19
+  ⚠️  ch08 protest assault.md:11  「honking」→ 实为 ch01,04,07
+  ⚠️  ch08 protest assault.md:11  「peacemaker」→ 实为 ch22
+  ⚠️  ch08 protest assault.md:29  「my old friend rage」→ 实为 ch04
+  ⚠️  ch08 protest assault.md:50  「tin-pot dictator」→ 实为 ch02
+  ⚠️  ch08 protest assault.md:120  「honking」→ 实为 ch01,04,07
+  ⚠️  ch08 protest assault.md:120  「peacemaker」→ 实为 ch22
+  ⚠️  ch09 skywords.md:13  「journalist」→ 实为 ch01,02,03,04
+  ⚠️  ch10 marian missing.md:36  「infinitesimal pause」→ 实为 ch05
+  ⚠️  ch10 marian missing.md:77  「Nothing to do with the image of my hand next to Amir's.」→ 实为 ch04
+  ⚠️  ch11 marian interview.md:13  「centre of attention」→ 实为 ch05
+  ⚠️  ch11 marian interview.md:36  「murder investigation」→ 实为 ch03,06
+  ⚠️  ch11 marian interview.md:66  「I usually have a staffer」→ 实为 ch02
+  ⚠️  ch12 bodhi and bree.md:13  「investigator」→ 实为 ch13,23
+  ⚠️  ch12 bodhi and bree.md:59  「support person」→ 实为 ch09
+  ⚠️  ch13 security footage.md:29  「compromised.」→ 实为 ch20
+  ⚠️  ch13 security footage.md:105  「security footage」→ 实为 ch09
+  ⚠️  ch14 clarity k.md:13  「investigator」→ 实为 ch13,23
+  ⚠️  ch14 clarity k.md:13  「witness」→ 实为 ch11,15,18,22
+  ⚠️  ch14 clarity k.md:13  「suspect.」→ 实为 ch02,05,07,09
+  ⚠️  ch15 convoy camp.md:13  「investigator」→ 实为 ch13,23
+  ⚠️  ch15 convoy camp.md:13  「PR guy」→ 实为 ch09
+  ⚠️  ch16 lookout and bree.md:13  「investigator」→ 实为 ch13,23
+  ⚠️  ch16 lookout and bree.md:13  「witness」→ 实为 ch11,15,18,22
+  ⚠️  ch17 arrest and deepfake.md:11  「investigator」→ 实为 ch13,23
+  ⚠️  ch17 arrest and deepfake.md:13  「intern」→ 实为 ch01,02,03,09
+  ⚠️  ch17 arrest and deepfake.md:73  「Fuck her right in the pussy」→ 实为 ch16
+  ⚠️  ch18 cloak confession.md:13  「investigator」→ 实为 ch13,23
+  ⚠️  ch19 gerry and bliss podcast.md:13  「investigator」→ 实为 ch13,23
+  ⚠️  ch19 gerry and bliss podcast.md:13  「victim」→ 实为 ch06,17
+  ⚠️  ch20 bree and jenny.md:13  「investigator」→ 实为 ch13,23
+  ⚠️  ch21 danilo and marian jail.md:13  「investigator」→ 实为 ch13,23
+  ⚠️  ch21 danilo and marian jail.md:13  「PR guy」→ 实为 ch09
+  ⚠️  ch21 danilo and marian jail.md:13  「witness」→ 实为 ch11,15,18,22
+  ⚠️  ch21 danilo and marian jail.md:13  「witness」→ 实为 ch11,15,18,22
+  ⚠️  ch21 danilo and marian jail.md:45  「tiny Larrys」→ 实为 ch20
+  ⚠️  ch22 marian arrested.md:13  「investigator」→ 实为 ch13,23
+  ⚠️  ch23 dorothy offer.md:13  「daughter」→ 实为 ch03,05,07,09
+  ⚠️  ch24 clarity minions and dorothy.md:13  「investigator」→ 实为 ch13,23
+  ⚠️  ch25 gerry and kyle.md:13  「investigator」→ 实为 ch13,23
+  ⚠️  ch26 kyle interrogation.md:10  「We're not going to let them shut us down.」→ 实为 ch23
+  ⚠️  ch26 kyle interrogation.md:12  「not going to let them shut us down.」→ 实为 ch23
+  ⚠️  ch26 kyle interrogation.md:13  「investigator」→ 实为 ch13,23
+  ⚠️  ch26 kyle interrogation.md:13  「witness」→ 实为 ch11,15,18,22
+  ⚠️  ch26 kyle interrogation.md:115  「We're not going to let them shut us down.」→ 实为 ch23
+  ⚠️  ch27 lewis kinross.md:13  「investigator」→ 实为 ch13,23
+  ⚠️  ch27 lewis kinross.md:13  「academic」→ 实为 ch03,18
+  ⚠️  ch28 lewis confession.md:13  「investigator」→ 实为 ch13,23
+  ⚠️  ch29 resolution.md:13  「investigator」→ 实为 ch13,23
+  ⚠️  ch29 resolution.md:13  「suspect」→ 实为 ch02,03,05,07
+  ⚠️  ch29 resolution.md:13  「suspect」→ 实为 ch02,03,05,07
+  ⚠️  ch29 resolution.md:51  「I'm a free man in Paris. I'm unfettered and alive.」→ 实为 ch24
+  ⚠️  ch29 resolution.md:51  「That was Gus on the phone. It's over. I'm not a married 」→ 实为 ch24
+  ⚠️  ch29 resolution.md:53  「I'm a free man in Paris」→ 实为 ch24
+  ⚠️  ch29 resolution.md:53  「It's over. I'm not a married man any longer」→ 实为 ch24
+  🔶 ch03 welcome banquet.md:22  「wouldn't say... but neither was I」→ 分段命中
+  🔶 ch04 body found.md:29  「it was solely due to... Or so I told myself.」→ 分段命中
+  🔶 ch04 body found.md:51  「gem with many sides」→ 整串（跨标签拼接）
+  🔶 ch05 bliss falls.md:12  「accidental death?」→ 整串（跨标签拼接）
+  🔶 ch08 protest assault.md:41  「Shut up，pervert。」→ 整串（跨标签拼接）
+  🔶 ch08 protest assault.md:48  「I get you。I understand your fight for freedom！」→ 整串（跨标签拼接）
+  🔶 ch08 protest assault.md:55  「My friends，violence is never the answer。I know you're wo」→ 整串（跨标签拼接）
+  🔶 ch09 skywords.md:20  「Worse than the swill at the Quill，and that shit is free。」→ 整串（跨标签拼接）
+  🔶 ch09 skywords.md:20  「Generally speaking，I like the idea that people are quest」→ 整串（跨标签拼接）
+  🔶 ch09 skywords.md:22  「Corporations are way too invested in the system... the s」→ 分段命中
+  🔶 ch09 skywords.md:22  「different kind of corporate takeover... give their money」→ 分段命中
+  🔶 ch09 skywords.md:34  「She wasn't very bright，but she didn't know it。She though」→ 整串（跨标签拼接）
+  🔶 ch09 skywords.md:41  「It had dipped after a few years of massive growth。Bree s」→ 整串（跨标签拼接）
+  🔶 ch09 skywords.md:48  「Your company is on the rocks，you hate your business part」→ 整串（跨标签拼接）
+  🔶 ch10 marian missing.md:27  「Whoa，slow down。Start from the beginning。」→ 整串（跨标签拼接）
+  🔶 ch10 marian missing.md:34  「Cheryl Bell came by my booth。She asked if I'd seen Maria」→ 整串（跨标签拼接）
+  🔶 ch10 marian missing.md:48  「Out the back way。Walking toward the clearing where there」→ 整串（跨标签拼接）
+  🔶 ch12 bodhi and bree.md:13  「performer」→ 整串（跨标签拼接）
+  🔶 ch12 bodhi and bree.md:20  「When was the last time you inhaled the mineral scent of 」→ 整串（跨标签拼接）
+  🔶 ch12 bodhi and bree.md:29  「and she pointed out there was a ladybug on the windshiel」→ 整串（跨标签拼接）
+  🔶 ch12 bodhi and bree.md:36  「I think you'd better get out of here，and take your absur」→ 整串（跨标签拼接）
+  🔶 ch12 bodhi and bree.md:43  「I know where your mother was when Bliss died。You might w」→ 整串（跨标签拼接）
+  🔶 ch12 bodhi and bree.md:50  「When I lost my husband，I thought the sun had gone out。Th」→ 整串（跨标签拼接）
+  🔶 ch13 security footage.md:20  「As I said, healing has been the foundation of our busine」→ 整串（跨标签拼接）
+  🔶 ch13 security footage.md:41  「This is Inspector Cheryl Bell of the Ontario Provincial 」→ 整串（跨标签拼接）
+  🔶 ch13 security footage.md:48  「Put the signs on the ground。Now。」→ 整串（跨标签拼接）
+  🔶 ch13 security footage.md:48  「Last chance。Those signs are weapons and will be treated 」→ 整串（跨标签拼接）
+  🔶 ch13 security footage.md:55  「Hold your horses，I'm getting there，」→ 整串（跨标签拼接）
+  🔶 ch15 convoy camp.md:27  「Social media turned her into a monster。She was always in」→ 整串（跨标签拼接）
+  🔶 ch16 lookout and bree.md:30  「If I'd stayed... followed the rules」→ 分段命中
+  🔶 ch17 arrest and deepfake.md:10  「Gerry Halloran is a monster... should hang from that tre」→ 分段命中
+  🔶 ch17 arrest and deepfake.md:72  「one in particular where you're upset」→ 整串（跨标签拼接）
+  🔶 ch17 arrest and deepfake.md:72  「one in particular where you're upset」→ 整串（跨标签拼接）
+  🔶 ch17 arrest and deepfake.md:131  「Gerry Halloran is a monster... should hang from that tre」→ 分段命中
+  🔶 ch20 bree and jenny.md:81  「puppet... cut her strings」→ 分段命中
+  🔶 ch24 clarity minions and dorothy.md:36  「They're going to remove the negative reviews... restore 」→ 分段命中
+  🔶 ch24 clarity minions and dorothy.md:70  「proper jobs... in an office at the top of a skyscraper」→ 分段命中
+  🔶 ch27 lewis kinross.md:29  「taking Olivia out of school... education should be for e」→ 分段命中
+  🔶 ch28 lewis confession.md:44  「She backed away from me... momentum... it took her」→ 分段命中
+  🟡 ch02 mother egging.md:36  「this establishes the mother-daughter asymmetry」→ 词形不符，原书词干 establish/establishe/establishee
+  🟡 ch02 mother egging.md:36  「Cat's   is the chapter's central dramatic irony」→ 疑派生词，原书作 c/cat
+  🟡 ch02 mother egging.md:43  「 self-reference (」→ 疑派生词，原书作 s/self
+  🟡 ch02 mother egging.md:51  「This is the chapter's central」→ 疑派生词，原书作 c/ch/chapter
+  🟡 ch02 mother egging.md:57  「revealing the protesters' conspiracy-theory logic」→ 词形不符，原书词干 reveal/reveale
+  🟡 ch02 mother egging.md:57  「This is the chapter's external-conflict escalation」→ 疑派生词，原书作 c/ch/chapter
+  🟡 ch02 mother egging.md:64  「Hannah's trauma as a ritual」→ 疑派生词，原书作 ha/hannah
+  🟡 ch02 mother egging.md:64  「implies there will be more」→ 词形不符，原书词干 impli/implie/impliee
+  🟡 ch02 mother egging.md:78  「Amir's   confirms the pivot」→ 词形不符，原书词干 confirm
+  🟡 ch03 welcome banquet.md:36  「This creates the   dynamic」→ 词形不符，原书词干 creat/create/createe
+  🟡 ch03 welcome banquet.md:43  「philosophical terms appropriated for anti-vaccine discou」→ 词形不符，原书词干 appropriate/term
+  🟡 ch03 welcome banquet.md:44  「truth-teller」→ 疑派生词，原书作 t/truth
+  🟡 ch03 welcome banquet.md:50  「Her   is passive-aggressive hostessing」→ 疑派生词，原书作 p/pa/pass
+  🟡 ch03 welcome banquet.md:50  「is corporate-wellness platitude that contrasts with」→ 词形不符，原书词干 contrast/contraste
+  🟡 ch03 welcome banquet.md:58  「This is the chapter's thematic echo」→ 词形不符，原书词干 echo
+  🟡 ch03 welcome banquet.md:65  「is her modus operandi」→ 疑派生词，原书作 m
+  🟡 ch03 welcome banquet.md:72  「she asserts her own preferences」→ 疑派生词，原书作 a/as/ass
+  🟡 ch03 welcome banquet.md:72  「and she does so publicly」→ 词形不符，原书词干 public
+  🟡 ch04 body found.md:23  「His   is both encouragement and flirtation」→ 疑派生词，原书作 e/encourage
+  🟡 ch04 body found.md:30  「self-policing」→ 疑派生词，原书作 s/self
+  🟡 ch04 body found.md:37  「This is the   retaliation」→ 疑派生词，原书作 r/re
+  🟡 ch04 body found.md:37  「Cat's   shows her pattern」→ 词形不符，原书词干 pattern/show/showe
+  🟡 ch04 body found.md:57  「establishing him as mediator」→ 词形不符，原书词干 establish/establishe
+  🟡 ch04 body found.md:58  「weirdness」→ 疑派生词，原书作 we/weird
+  🟡 ch04 body found.md:71  「Marian's delivery is the chapter's comic-horror peak」→ 疑派生词，原书作 m/ma/marian
+  🟡 ch05 bliss falls.md:36  「Doug's sarcastic echo of」→ 词形不符，原书词干 echo
+  🟡 ch05 bliss falls.md:36  「is his blunt punchline」→ 疑派生词，原书作 b
+  🟡 ch06 danilo and investigation.md:23  「is her sleuth motivation」→ 词形不符，原书词干 motivation/sleuth
+  🟡 ch06 danilo and investigation.md:29  「This is the chapter's」→ 疑派生词，原书作 c/ch/chapter
+  🟡 ch06 danilo and investigation.md:57  「is the reviewer's self-mythologizing」→ 疑派生词，原书作 r/re/review
+  🟡 ch06 danilo and investigation.md:57  「is the accusation of ghostwriting」→ 词形不符，原书词干 accusation/ghostwrit/ghostwrite
+  🟡 ch06 danilo and investigation.md:64  「criticize」→ 疑派生词，原书作 c/cr/critic
+  🟡 ch06 danilo and investigation.md:71  「Cat's transition from   to」→ 疑派生词，原书作 c/cat
+  🟡 ch07 kaydence secret.md:36  「Bodhi's   is his manipulative binary」→ 疑派生词，原书作 b/bodhi
+  🟡 ch07 kaydence secret.md:64  「is her father's rhetoric」→ 疑派生词，原书作 fat/father
+  🟡 ch08 protest assault.md:23  「didn't occur to me」→ 疑派生词，原书作 d/did/didn
+  🟡 ch08 protest assault.md:23  「Cat's   is her self-justification pattern」→ 词形不符，原书词干 pattern
+  🟡 ch08 protest assault.md:50  「Gerry's   is his co-optation of the convoy's rhetoric」→ 疑派生词，原书作 g/gerry
+  🟡 ch08 protest assault.md:50  「shows the crowd's susceptibility to his authority」→ 词形不符，原书词干 show/showe
+  🟡 ch08 protest assault.md:57  「is his pivot from condoning to condemning」→ 疑派生词，原书作 p/pi
+  🟡 ch08 protest assault.md:58  「The convoy's or the police's」→ 疑派生词，原书作 c/co/convoy
+  🟡 ch08 protest assault.md:64  「Cat's   is her restraint」→ 疑派生词，原书作 c/cat
+  🟡 ch09 skywords.md:23  「Bruce's critique establishes the book's theme」→ 词形不符，原书词干 establish/establishe/establishee
+  🟡 ch09 skywords.md:51  「This connects to the」→ 词形不符，原书词干 connect/connecte
+  🟡 ch09 skywords.md:71  「This connects to ch」→ 词形不符，原书词干 connect/connecte
+  🟡 ch10 marian missing.md:43  「Kaydence's   is her hedging」→ 词形不符，原书词干 hedge
+  🟡 ch10 marian missing.md:44  「Kaydence's   will be tested」→ 词形不符，原书词干 test/teste
+  🟡 ch10 marian missing.md:58  「Cat's   shows her composure cracking」→ 词形不符，原书词干 crack/cracke/show
+  🟡 ch10 marian missing.md:64  「Azra's   is delivered with」→ 词形不符，原书词干 deliver
+  🟡 ch10 marian missing.md:71  「Amir's   is his correction of」→ 疑派生词，原书作 a/am/amir
+  🟡 ch10 marian missing.md:77  「is her re-categorization of」→ 疑派生词，原书作 r/re
+  🟡 ch11 marian interview.md:10  「smoking」→ 词形不符，原书词干 smok/smoke
+  🟡 ch11 marian interview.md:36  「Marian's   is her euphemism for」→ 疑派生词，原书作 m/ma/marian
+  🟡 ch11 marian interview.md:45  「Bell's   is her leverage」→ 疑派生词，原书作 b/be/bell
+  🟡 ch11 marian interview.md:46  「smoking」→ 词形不符，原书词干 smok/smoke
+  🟡 ch11 marian interview.md:46  「Marian's   is her concession」→ 疑派生词，原书作 m/ma/marian
+  🟡 ch11 marian interview.md:52  「confession」→ 疑派生词，原书作 c/co
+  🟡 ch11 marian interview.md:53  「smoking」→ 词形不符，原书词干 smok/smoke
+  🟡 ch11 marian interview.md:66  「is her generational critique」→ 疑派生词，原书作 g/generation
+  🟡 ch11 marian interview.md:66  「is her reframing of bullying」→ 词形不符，原书词干 bully
+  🟡 ch11 marian interview.md:134  「smoking」→ 词形不符，原书词干 smok/smoke
+  🟡 ch12 bodhi and bree.md:23  「Bodhi's rhetoric is his scam」→ 疑派生词，原书作 b/bodhi
+  🟡 ch12 bodhi and bree.md:32  「Bodhi's   reveals his vanity」→ 词形不符，原书词干 reveal/reveale
+  🟡 ch12 bodhi and bree.md:38  「is his dismissal of」→ 疑派生词，原书作 d/dismiss
+  🟡 ch12 bodhi and bree.md:60  「is the chapter's bombshell」→ 疑派生词，原书作 c/ch/chapter
+  🟡 ch13 security footage.md:13  「evidence-based rebrander」→ 词形不符，原书词干 rebrand
+  🟡 ch13 security footage.md:13  「PI candidate.」→ 疑派生词，原书作 c/can
+  🟡 ch13 security footage.md:50  「The protesters' gradual compliance」→ 疑派生词，原书作 p/pr/protest
+  🟡 ch13 security footage.md:57  「he's savoring his discovery」→ 疑派生词，原书作 s
+  🟡 ch14 clarity k.md:29  「Kaydence's   is her summary of」→ 疑派生词，原书作 k/kaydence
+  🟡 ch14 clarity k.md:57  「Clarity's   is her defense」→ 疑派生词，原书作 c/clarity
+  🟡 ch14 clarity k.md:65  「This connects to the   theory」→ 词形不符，原书词干 connect/connecte
+  🟡 ch14 clarity k.md:80  「This is the chapter's」→ 疑派生词，原书作 c/ch/chapter
+  🟡 ch14 clarity k.md:81  「smoking」→ 词形不符，原书词干 smok/smoke
+  🟡 ch15 convoy camp.md:22  「Danilo's   is his epitaph for」→ 疑派生词，原书作 d/danilo
+  🟡 ch15 convoy camp.md:40  「Bliss's dismissal of inclusivity」→ 疑派生词，原书作 b/bliss
+  🟡 ch15 convoy camp.md:47  「she's agreeing with their theory」→ 词形不符，原书词干 agree/agreee
+  🟡 ch15 convoy camp.md:56  「is his territorial claim」→ 词形不符，原书词干 claim
+  🟡 ch16 lookout and bree.md:36  「Marian's   etymology is her deflection」→ 疑派生词，原书作 m/ma/marian
+  🟡 ch16 lookout and bree.md:50  「Bree's   is her deflection」→ 疑派生词，原书作 b/bree
+  🟡 ch16 lookout and bree.md:57  「Cat's   is her confrontation」→ 疑派生词，原书作 c/cat
+  🟡 ch16 lookout and bree.md:64  「Bree's   is her defense」→ 疑派生词，原书作 b/bree
+  🟡 ch16 lookout and bree.md:65  「Bree's   is her deflection」→ 疑派生词，原书作 b/bree
+  🟡 ch16 lookout and bree.md:78  「Cat's   is her self-awareness」→ 疑派生词，原书作 c/cat
+  🟡 ch16 lookout and bree.md:78  「Cat's jealousy and insecurity about」→ 疑派生词，原书作 c/cat
+  🟡 ch18 cloak confession.md:10  「she was ghostwritten by」→ 疑派生词，原书作 g/ghost
+  🟡 ch18 cloak confession.md:31  「Marian's   is her shaming of」→ 词形不符，原书词干 shame
+  🟡 ch18 cloak confession.md:61  「Marian's   is her denial」→ 疑派生词，原书作 m/ma/marian
+  🟡 ch18 cloak confession.md:75  「Marian's   is her confession」→ 疑派生词，原书作 m/ma/marian
+  🟡 ch18 cloak confession.md:83  「Marian's   is her self-assessment and denial」→ 疑派生词，原书作 m/ma/marian
+  🟡 ch18 cloak confession.md:83  「is her tripartite self-defense」→ 疑派生词，原书作 t/tri/trip
+  🟡 ch18 cloak confession.md:84  「Marian's   is her denial」→ 疑派生词，原书作 m/ma/marian
+  🟡 ch18 cloak confession.md:132  「she was ghostwritten by」→ 疑派生词，原书作 g/ghost
+  🟡 ch19 gerry and bliss podcast.md:11  「Bliss's anti-vax radicalization documented」→ 词形不符，原书词干 document
+  🟡 ch19 gerry and bliss podcast.md:22  「Cat's   is her icebreaker」→ 疑派生词，原书作 c/cat
+  🟡 ch19 gerry and bliss podcast.md:30  「is both obstacle and tool」→ 词形不符，原书词干 tool
+  🟡 ch19 gerry and bliss podcast.md:43  「Gerry's   is his defense」→ 疑派生词，原书作 g/gerry
+  🟡 ch19 gerry and bliss podcast.md:52  「Gerry's   is his dismissal」→ 疑派生词，原书作 g/gerry
+  🟡 ch19 gerry and bliss podcast.md:60  「Bliss's   is her anti-vax rhetoric」→ 疑派生词，原书作 b/bliss
+  🟡 ch19 gerry and bliss podcast.md:67  「Bliss's   reveals her insecurity」→ 词形不符，原书词干 reveal/reveale
+  🟡 ch19 gerry and bliss podcast.md:80  「is his dismissal of」→ 疑派生词，原书作 d/dismiss
+  🟡 ch19 gerry and bliss podcast.md:80  「is his anti-media rhetoric」→ 疑派生词，原书作 a/an/anti
+  🟡 ch20 bree and jenny.md:11  「Flannery's ad reinstatement saves」→ 词形不符，原书词干 sav/save/savee
+  🟡 ch20 bree and jenny.md:31  「Bodhi's   pitch is his co-optation of」→ 词形不符，原书词干 pitch
+  🟡 ch20 bree and jenny.md:49  「Bree's   are her defense」→ 疑派生词，原书作 b/bree
+  🟡 ch20 bree and jenny.md:65  「is his father's cover-up」→ 疑派生词，原书作 fat/father
+  🟡 ch20 bree and jenny.md:66  「Aaron's ad reinstatement saves the」→ 词形不符，原书词干 sav/save/savee
+  🟡 ch21 danilo and marian jail.md:22  「is his characterization of」→ 疑派生词，原书作 c/ch/character
+  🟡 ch21 danilo and marian jail.md:23  「Danilo's   connects to ch」→ 词形不符，原书词干 connect/connecte
+  🟡 ch21 danilo and marian jail.md:36  「Danilo's   is his self-assessment」→ 疑派生词，原书作 d/danilo
+  🟡 ch21 danilo and marian jail.md:45  「This connects to ch」→ 词形不符，原书词干 connect/connecte
+  🟡 ch21 danilo and marian jail.md:52  「Danilo's   is his prediction」→ 疑派生词，原书作 d/danilo
+  🟡 ch22 marian arrested.md:31  「Cat's   is her reframing」→ 疑派生词，原书作 c/cat
+  🟡 ch22 marian arrested.md:31  「Cat's assertion of victimhood」→ 疑派生词，原书作 c/cat
+  🟡 ch22 marian arrested.md:52  「is her sarcastic admission」→ 疑派生词，原书作 s
+  🟡 ch22 marian arrested.md:72  「Debbie's   is the chapter's」→ 疑派生词，原书作 d/de/debbie
+  🟡 ch22 marian arrested.md:79  「Peter's   is his patriarchal assertion」→ 疑派生词，原书作 p/peter
+  🟡 ch22 marian arrested.md:80  「Peter's patriarchal assertion contrasts with」→ 词形不符，原书词干 contrast/contraste
+  🟡 ch23 dorothy offer.md:13  「truth-teller」→ 疑派生词，原书作 t/truth
+  🟡 ch23 dorothy offer.md:13  「seller with conditions.」→ 词形不符，原书词干 sell/selle
+  🟡 ch23 dorothy offer.md:29  「is the historical context」→ 疑派生词，原书作 hi/his
+  🟡 ch23 dorothy offer.md:43  「is her self-deprecating humor」→ 疑派生词，原书作 s/self
+  🟡 ch23 dorothy offer.md:44  「Debbie's   establishes her as a resource」→ 词形不符，原书词干 establish/establishe/establishee
+  🟡 ch24 clarity minions and dorothy.md:13  「seller with conditions」→ 词形不符，原书词干 sell/selle
+  🟡 ch24 clarity minions and dorothy.md:29  「This is the minions' justification」→ 疑派生词，原书作 m/mi/minion
+  🟡 ch24 clarity minions and dorothy.md:36  「Clarity's   is her discipline」→ 疑派生词，原书作 c/clarity
+  🟡 ch25 gerry and kyle.md:13  「informant」→ 疑派生词，原书作 i/in/info
+  🟡 ch25 gerry and kyle.md:42  「is her self-help vocabulary」→ 疑派生词，原书作 s/self
+  🟡 ch25 gerry and kyle.md:51  「Debbie's   is her defense」→ 疑派生词，原书作 d/de/debbie
+  🟡 ch26 kyle interrogation.md:29  「Bruce's   is his pushback」→ 疑派生词，原书作 b/bruce
+  🟡 ch26 kyle interrogation.md:58  「Debbie's   is her setup for」→ 疑派生词，原书作 d/de/debbie
+  🟡 ch27 lewis kinross.md:13  「unknown」→ 疑派生词，原书作 u/un
+  🟡 ch27 lewis kinross.md:73  「This is the chapter's climax」→ 疑派生词，原书作 c/ch/chapter
+  🟡 ch27 lewis kinross.md:84  「This is the chapter's cliffhanger」→ 疑派生词，原书作 c/ch/chapter
+  🟡 ch28 lewis confession.md:29  「Lewis's   is his appeal to」→ 疑派生词，原书作 lewis
+  🟡 ch28 lewis confession.md:30  「Lewis's   connects him to」→ 词形不符，原书词干 connect/connecte
+  🟡 ch28 lewis confession.md:58  「Allison's   is the chapter's」→ 疑派生词，原书作 a/all/allison
+  🟡 ch28 lewis confession.md:71  「This is the chapter's resolution」→ 疑派生词，原书作 c/ch/chapter
+  🟡 ch29 resolution.md:13  「mayoral candidate.」→ 疑派生词，原书作 m/ma/may
+  🟡 ch29 resolution.md:22  「This is the chapter's thematic anchor」→ 疑派生词，原书作 c/ch/chapter
+  🟡 ch29 resolution.md:23  「Cat's   is the book's thesis」→ 疑派生词，原书作 c/cat
+  🟡 ch29 resolution.md:29  「Cat's   is the book's thesis」→ 疑派生词，原书作 c/cat
+  🟡 ch29 resolution.md:30  「Cat's   is the book's theme」→ 词形不符，原书词干 theme
+  🟡 ch29 resolution.md:36  「Bruce's   is the chapter's」→ 疑派生词，原书作 b/bruce
+  🟡 ch29 resolution.md:37  「Bruce's ownership saves the」→ 词形不符，原书词干 sav/save/savee
+  🟡 ch29 resolution.md:64  「Cat's   is her endorsement」→ 疑派生词，原书作 c/cat
+  🟡 ch29 resolution.md:73  「This is the book's resolution」→ 疑派生词，原书作 b/book
+  🟡 ch29 resolution.md:80  「Cat's   is the book's thesis」→ 疑派生词，原书作 c/cat
+  🟡 ch29 resolution.md:81  「Cat's   is the book's theme」→ 词形不符，原书词干 theme
+  🟠 ch01 press conference.md:30  「she gets into trouble」→ 内容词 2/2 命中（gets/trouble）——疑漏词或改写
+  🟠 ch01 press conference.md:50  「often referred to... but today seemed」→ 内容词 5/5 命中（but/often/referred/seemed）——疑漏词或改写
+  🟠 ch01 press conference.md:51  「seemed + concrete image」→ 内容词 3/3 命中（concrete/image/seemed）——疑漏词或改写
+  🟠 ch01 press conference.md:58  「she walked into a trap she didn't know existed」→ 内容词 3/5 命中（existed/know/walked）——疑漏词或改写
+  🟠 ch01 press conference.md:64  「listen for a change」→ 内容词 2/2 命中（change/listen）——疑漏词或改写
+  🟠 ch01 press conference.md:71  「she positions herself as the lone truth-teller」→ 内容词 2/4 命中（herself/positions）——疑漏词或改写
+  🟠 ch01 press conference.md:78  「something is rotten in the state of Denmark」→ 内容词 3/4 命中（rotten/something/state）——疑漏词或改写
+  🟠 ch01 press conference.md:93  「personal stake in the investigation」→ 内容词 3/3 命中（investigation/personal/stake）——疑漏词或改写
+  🟠 ch01 press conference.md:93  「she can't produce a story」→ 内容词 2/3 命中（produce/story）——疑漏词或改写
+  🟠 ch01 press conference.md:93  「makes her vulnerable to manipulation by sources」→ 内容词 2/4 命中（makes/sources）——疑漏词或改写
+  🟠 ch01 press conference.md:99  「she's not arguing with」→ 内容词 1/2 命中（arguing）——疑漏词或改写
+  🟠 ch01 press conference.md:99  「she's adding her own verdict」→ 内容词 1/3 命中（adding）——疑漏词或改写
+  🟠 ch01 press conference.md:99  「echo through the book」→ 内容词 2/3 命中（book/through）——疑漏词或改写
+  🟠 ch01 press conference.md:100  「Cat's guilt is her defining emotional state」→ 内容词 3/5 命中（emotional/guilt/state）——疑漏词或改写
+  🟠 ch01 press conference.md:100  「Track who she blames herself for」→ 内容词 2/3 命中（herself/track）——疑漏词或改写
+  🟠 ch01 press conference.md:100  「The   pattern is the book's emotional through-line」→ 内容词 1/4 命中（emotional）——疑漏词或改写
+  🟠 ch02 mother egging.md:23  「as a woman who performs control」→ 内容词 2/3 命中（control/woman）——疑漏词或改写
+  🟠 ch02 mother egging.md:29  「serious book about women's struggles」→ 内容词 3/4 命中（book/serious/struggles）——疑漏词或改写
+  🟠 ch02 mother egging.md:29  「she blames the interviewer's absence on millennial irres」→ 内容词 2/5 命中（absence/millennial）——疑漏词或改写
+  🟠 ch02 mother egging.md:30  「reality twisting」→ 内容词 1/2 命中（reality）——疑漏词或改写
+  🟠 ch02 mother egging.md:36  「Debbie is the chapter's first reversal」→ 内容词 2/4 命中（debbie/first）——疑漏词或改写
+  🟠 ch02 mother egging.md:36  「Cat's internal narration immediately undercuts it」→ 内容词 2/5 命中（immediately/internal）——疑漏词或改写
+  🟠 ch02 mother egging.md:37  「she does food bank work」→ 内容词 3/3 命中（bank/food/work）——疑漏词或改写
+  🟠 ch02 mother egging.md:37  「The chapter keeps both possibilities open」→ 内容词 4/4 命中（chapter/keeps/open/possibilities）——疑漏词或改写
+  🟠 ch02 mother egging.md:43  「) is her formal register—she uses Cat's full name when p」→ 内容词 4/8 命中（formal/full/name/others）——疑漏词或改写
+  🟠 ch02 mother egging.md:43  「 framing makes the visit a spectacle, not a daughterly v」→ 内容词 3/7 命中（makes/visit/visit）——疑漏词或改写
+  🟠 ch02 mother egging.md:43  「 shows she knows she can't enter the Quill office (her h」→ 内容词 6/8 命中（enemy/enter/husband/knows）——疑漏词或改写
+  🟠 ch02 mother egging.md:43  「Cat tour smile faltered」→ 内容词 4/4 命中（cat/faltered/smile/tour）——疑漏词或改写
+  🟠 ch02 mother egging.md:44  「Cat is addressed in social settings」→ 内容词 3/4 命中（addressed/cat/social）——疑漏词或改写
+  🟠 ch02 mother egging.md:44  「Marian's subtle domination tools」→ 内容词 2/4 命中（subtle/tools）——疑漏词或改写
+  🟠 ch02 mother egging.md:50  「The key is a transactional gesture」→ 内容词 2/3 命中（gesture/key）——疑漏词或改写
+  🟠 ch02 mother egging.md:50  「Marian's   frames it as」→ 内容词 1/2 命中（frames）——疑漏词或改写
+  🟠 ch02 mother egging.md:50  「but the   reveals the true purpose」→ 内容词 3/4 命中（but/purpose/true）——疑漏词或改写
+  🟠 ch02 mother egging.md:50  「Cat almost thanked her for is immediately deflated」→ 内容词 4/5 命中（almost/cat/immediately/thanked）——疑漏词或改写
+  🟠 ch02 mother egging.md:51  「Marian's gestures always have strings」→ 内容词 2/4 命中（always/strings）——疑漏词或改写
+  🟠 ch02 mother egging.md:51  「The key will become plot-relevant later」→ 内容词 3/4 命中（become/key/later）——疑漏词或改写
+  🟠 ch02 mother egging.md:51  「she's learned not to engage with」→ 内容词 2/3 命中（engage/learned）——疑漏词或改写
+  🟠 ch02 mother egging.md:57  「showing the anti-vaccine protest movement has adopted」→ 内容词 4/5 命中（adopted/movement/protest/showing）——疑漏词或改写
+  🟠 ch02 mother egging.md:57  「the paper is much younger」→ 内容词 3/3 命中（much/paper/younger）——疑漏词或改写
+  🟠 ch02 mother egging.md:57  「is a deliberate mockery that mirrors」→ 内容词 1/3 命中（deliberate）——疑漏词或改写
+  🟠 ch02 mother egging.md:58  「The protesters are organized and angry」→ 内容词 3/3 命中（angry/organized/protesters）——疑漏词或改写
+  🟠 ch02 mother egging.md:58  「Marian's dry humor and」→ 内容词 1/3 命中（dry）——疑漏词或改写
+  🟠 ch02 mother egging.md:58  「Cat's   show their shared」→ 内容词 2/3 命中（shared/show）——疑漏词或改写
+  🟠 ch02 mother egging.md:58  「contempt for the mob」→ 内容词 2/2 命中（contempt/mob）——疑漏词或改写
+  🟠 ch02 mother egging.md:58  「This is one of their few moments of alignment」→ 内容词 2/3 命中（moments/one）——疑漏词或改写
+  🟠 ch02 mother egging.md:64  「Marian's line is the chapter's comic peak」→ 内容词 1/5 命中（line）——疑漏词或改写
+  🟠 ch02 mother egging.md:64  「using   to normalize violence」→ 内容词 2/3 命中（using/violence）——疑漏词或改写
+  🟠 ch02 mother egging.md:64  「Her   and   show her coping mechanism」→ 内容词 2/3 命中（mechanism/show）——疑漏词或改写
+  🟠 ch02 mother egging.md:64  「deflection through absurdity and name-dropping」→ 内容词 1/4 命中（through）——疑漏词或改写
+  🟠 ch02 mother egging.md:64  「she turns every humiliation into anecdote」→ 内容词 3/4 命中（anecdote/every/turns）——疑漏词或改写
+  🟠 ch02 mother egging.md:65  「is a performance of resilience」→ 内容词 1/2 命中（performance）——疑漏词或改写
+  🟠 ch02 mother egging.md:65  「But note she also helps」→ 内容词 4/4 命中（also/but/helps/note）——疑漏词或改写
+  🟠 ch02 mother egging.md:65  「This   is the chapter's emotional surprise」→ 内容词 2/3 命中（emotional/surprise）——疑漏词或改写
+  🟠 ch02 mother egging.md:71  「Amir's speech is the chapter's emotional anchor」→ 内容词 2/5 命中（emotional/speech）——疑漏词或改写
+  🟠 ch02 mother egging.md:71  「Cat's relief that her editor hasn't given up」→ 内容词 3/5 命中（editor/given/relief）——疑漏词或改写
+  🟠 ch02 mother egging.md:71  「is the chapter's thematic question」→ 内容词 1/3 命中（question）——疑漏词或改写
+  🟠 ch02 mother egging.md:71  「is the bitter irony」→ 内容词 1/2 命中（bitter）——疑漏词或改写
+  🟠 ch02 mother egging.md:71  「good journalism can have bad consequences」→ 内容词 4/4 命中（bad/consequences/good/journalism）——疑漏词或改写
+  🟠 ch02 mother egging.md:71  「Amir's   shows the cost of his conviction」→ 内容词 1/4 命中（cost）——疑漏词或改写
+  🟠 ch02 mother egging.md:72  「His   will be tested throughout the book」→ 内容词 2/3 命中（book/throughout）——疑漏词或改写
+  🟠 ch02 mother egging.md:72  「Cat's guilt as professional success」→ 内容词 3/4 命中（guilt/professional/success）——疑漏词或改写
+  🟠 ch02 mother egging.md:72  「This is his gift to her」→ 内容词 1/1 命中（gift）——疑漏词或改写
+  🟠 ch02 mother egging.md:78  「s personal humiliation into professional intelligence」→ 内容词 2/4 命中（personal/professional）——疑漏词或改写
+  🟠 ch02 mother egging.md:78  「Bliss as complicit in anti-medicine misinformation」→ 内容词 2/4 命中（bliss/misinformation）——疑漏词或改写
+  🟠 ch02 mother egging.md:78  「This is the chapter's narrative pivot」→ 内容词 1/3 命中（narrative）——疑漏词或改写
+  🟠 ch02 mother egging.md:78  「from personal to professional」→ 内容词 2/2 命中（personal/professional）——疑漏词或改写
+  🟠 ch02 mother egging.md:78  「from victim to investigator」→ 内容词 2/2 命中（investigator/victim）——疑漏词或改写
+  🟠 ch02 mother egging.md:79  「medical advice」→ 内容词 2/2 命中（advice/medical）——疑漏词或改写
+  🟠 ch02 mother egging.md:79  「Amir's approval of her instinct」→ 内容词 1/3 命中（approval）——疑漏词或改写
+  🟠 ch02 mother egging.md:79  「The   will connect to」→ 内容词 1/1 命中（connect）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:13  「late & linen」→ 内容词 2/2 命中（late/linen）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:29  「slightly absurd image that carries threat」→ 内容词 4/5 命中（absurd/image/slightly/threat）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:29  「Cat consistently uses   to describe power asymmetries」→ 内容词 2/6 命中（cat/power）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:30  「Bree interaction for signs of the split」→ 内容词 3/4 命中（bree/signs/split）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:36  「rival recognition」→ 内容词 1/2 命中（recognition）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:36  「triple self-deprecation that establishes her as unreliab」→ 内容词 1/6 命中（triple）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:36  「marks the rare moment」→ 内容词 3/3 命中（marks/moment/rare）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:36  「Cat concedes competence in an enemy」→ 内容词 3/4 命中（cat/competence/enemy）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:36  「Cat's highest professional compliment」→ 内容词 3/4 命中（compliment/highest/professional）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:36  「Bliss's skill as a listener」→ 内容词 1/3 命中（skill）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:36  「Cat's own journalistic skill」→ 内容词 2/3 命中（journalistic/skill）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:37  「Bliss's   is the source of her influence」→ 内容词 2/3 命中（influence/source）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:37  「Cat's grudging admiration sets up the tragedy」→ 内容词 2/5 命中（admiration/tragedy）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:37  「Bliss could have used this power for good」→ 内容词 4/4 命中（bliss/good/power/used）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:37  「Cat's admiration curdles into suspicion」→ 内容词 2/4 命中（admiration/suspicion）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:43  「Bliss's rhetoric is the wellness industry's standard   f」→ 内容词 2/6 命中（standard/wellness）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:43  「casting public health as existential threat」→ 内容词 4/5 命中（casting/health/public/threat）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:43  「frames this as the conference's dangerous core」→ 内容词 3/4 命中（core/dangerous/frames）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:44  「Bliss's   rhetoric will be recontextualized when her mur」→ 内容词 2/5 命中（murder/revealed）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:44  「Was she killed because of this rhetoric」→ 内容词 2/3 命中（because/killed）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:44  「Track who benefits from her   persona」→ 内容词 3/3 命中（benefits/persona/track）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:50  「Bree's   is the chapter's second onstage power move」→ 内容词 4/6 命中（move/onstage/power/second）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:50  「Bliss off while appearing gracious」→ 内容词 3/5 命中（bliss/off/while）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:50  「The mic-control struggle is the visible symptom of their」→ 内容词 3/6 命中（decay/struggle/visible）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:51  「Bree's   is her coping mechanism」→ 内容词 1/3 命中（mechanism）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:51  「Bliss by reasserting institutional order」→ 内容词 3/4 命中（bliss/institutional/order）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:51  「This pattern will be tested when the murder occurs」→ 内容词 1/4 命中（murder）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:51  「Who had   in the moments before」→ 内容词 2/2 命中（before/moments）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:57  「Jenny's outburst is the chapter's secondary conflict」→ 内容词 3/5 命中（conflict/outburst/secondary）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:57  「Bodhi's   and   is gaslighting rhetoric that mirrors」→ 内容词 1/4 命中（gaslighting）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:57  「both use conspiracy logic to deny reality」→ 内容词 3/5 命中（conspiracy/reality/use）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:58  「connect to wonder」→ 内容词 2/2 命中（connect/wonder）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:58  「is a wellness guru whose   rhetoric conceals marital bet」→ 内容词 3/6 命中（betrayal/guru/wellness）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:58  「wellness industry's   rhetoric vs」→ 内容词 1/3 命中（wellness）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:58  「Jenny as a parallel to」→ 内容词 2/2 命中（jenny/parallel）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:64  「Bodhi is her signature move」→ 内容词 3/3 命中（bodhi/move/signature）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:64  「inserting herself into others' conflicts with faux-casua」→ 内容词 2/6 命中（herself/inserting）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:64  「is both genuine advice」→ 内容词 2/2 命中（advice/genuine）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:64  「Bodhi should back off」→ 内容词 3/3 命中（back/bodhi/off）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:64  「Bodhi's   and   mark him as a performer」→ 内容词 1/3 命中（mark）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:64  「His   reframes abuse as communication failure」→ 内容词 2/4 命中（abuse/failure）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:65  「Jenny's conflict establishes her as someone who can't st」→ 内容词 5/8 命中（conflict/out/someone/stay）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:65  「she'll use the same approach with」→ 内容词 2/3 命中（approach/use）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:65  「Track when her   helps vs」→ 内容词 2/2 命中（helps/track）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:71  「Marian's final line is the chapter's comic punchline」→ 内容词 2/6 命中（final/line）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:71  「she rejects the wellness menu」→ 内容词 2/3 命中（menu/wellness）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:71  「asserting her own taste against the conference's aesthet」→ 内容词 2/5 命中（against/taste）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:71  「Marian's own form of resistance to the wellness industri」→ 内容词 5/6 命中（complex/form/industrial/resistance）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:71  「The chapter ends on」→ 内容词 2/2 命中（chapter/ends）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:72  「Marian's martini demand is her character in miniature」→ 内容词 4/5 命中（character/demand/martini/miniature）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:72  「she refuses to perform wellness」→ 内容词 2/3 命中（perform/wellness）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:72  「This is the same woman who」→ 内容词 1/1 命中（woman）——疑漏词或改写
+  🟠 ch03 welcome banquet.md:72  「she performs control through consumption choices」→ 内容词 3/5 命中（choices/control/through）——疑漏词或改写
+  🟠 ch04 body found.md:11  「investigative journalist」→ 内容词 2/2 命中（investigative/journalist）——疑漏词或改写
+  🟠 ch04 body found.md:12  「I found the body」→ 内容词 2/2 命中（body/found）——疑漏词或改写
+  🟠 ch04 body found.md:13  「weird & distracted」→ 内容词 2/2 命中（distracted/weird）——疑漏词或改写
+  🟠 ch04 body found.md:13  「body finder」→ 内容词 1/2 命中（body）——疑漏词或改写
+  🟠 ch04 body found.md:22  「journalist's eye for detail」→ 内容词 2/3 命中（detail/eye）——疑漏词或改写
+  🟠 ch04 body found.md:22  「and their past fling」→ 内容词 2/2 命中（fling/past）——疑漏词或改写
+  🟠 ch04 body found.md:23  「Dhalla will be a recurring presence」→ 内容词 2/3 命中（dhalla/presence）——疑漏词或改写
+  🟠 ch04 body found.md:29  「The mirror scene is her self-discipline ritual」→ 内容词 2/4 命中（mirror/scene）——疑漏词或改写
+  🟠 ch04 body found.md:29  「reveals the crush she's suppressing」→ 内容词 1/4 命中（crush）——疑漏词或改写
+  🟠 ch04 body found.md:29  「she uses the mirror as authority figure」→ 内容词 2/4 命中（figure/mirror）——疑漏词或改写
+  🟠 ch04 body found.md:30  「Track when her   fails」→ 内容词 1/2 命中（track）——疑漏词或改写
+  🟠 ch04 body found.md:30  「The   image will recur」→ 内容词 1/2 命中（image）——疑漏词或改写
+  🟠 ch04 body found.md:36  「The dog turd is the chapter's opening disruption」→ 内容词 4/5 命中（disruption/dog/opening/turd）——疑漏词或改写
+  🟠 ch04 body found.md:36  「Cat's morning good mood」→ 内容词 3/4 命中（good/mood/morning）——疑漏词或改写
+  🟠 ch04 body found.md:36  「she notices the paper's wrong texture」→ 内容词 1/4 命中（wrong）——疑漏词或改写
+  🟠 ch04 body found.md:36  「even a mundane story about tractor thefts becomes collat」→ 内容词 7/8 命中（becomes/damage/even/mundane）——疑漏词或改写
+  🟠 ch04 body found.md:37  「The protest has escalated from honking to vandalism」→ 内容词 3/4 命中（escalated/honking/protest）——疑漏词或改写
+  🟠 ch04 body found.md:37  「Track the protest escalation」→ 内容词 2/3 命中（protest/track）——疑漏词或改写
+  🟠 ch04 body found.md:43  「she reframes fear as rage」→ 内容词 2/3 命中（fear/rage）——疑漏词或改写
+  🟠 ch04 body found.md:43  「personifies anger as companion」→ 内容词 2/3 命中（anger/companion）——疑漏词或改写
+  🟠 ch04 body found.md:43  「is the chapter's bitter irony」→ 内容词 1/3 命中（bitter）——疑漏词或改写
+  🟠 ch04 body found.md:43  「she shares the emotion with her enemies」→ 内容词 1/3 命中（enemies）——疑漏词或改写
+  🟠 ch04 body found.md:43  「she knows this alignment is disturbing」→ 内容词 2/3 命中（disturbing/knows）——疑漏词或改写
+  🟠 ch04 body found.md:44  「rage as comfort」→ 内容词 2/2 命中（comfort/rage）——疑漏词或改写
+  🟠 ch04 body found.md:44  「Track when her anger serves her」→ 内容词 2/3 命中（anger/track）——疑漏词或改写
+  🟠 ch04 body found.md:50  「Stewart is the chapter's warm parental presence」→ 内容词 3/5 命中（presence/stewart/warm）——疑漏词或改写
+  🟠 ch04 body found.md:50  「show his playfulness and his valuation of her profession」→ 内容词 2/4 命中（profession/show）——疑漏词或改写
+  🟠 ch04 body found.md:50  「is his loving metaphor for her complexity」→ 内容词 2/3 命中（loving/metaphor）——疑漏词或改写
+  🟠 ch04 body found.md:50  「Marian's parenting styles contrast sharply」→ 内容词 4/5 命中（contrast/parenting/sharply/styles）——疑漏词或改写
+  🟠 ch04 body found.md:50  「This establishes the parental triangle」→ 内容词 1/3 命中（triangle）——疑漏词或改写
+  🟠 ch04 body found.md:51  「trapped gymnast」→ 内容词 2/2 命中（gymnast/trapped）——疑漏词或改写
+  🟠 ch04 body found.md:51  「Track when she calls him」→ 内容词 2/2 命中（calls/track）——疑漏词或改写
+  🟠 ch04 body found.md:57  「Marian reframes her behavior」→ 内容词 1/3 命中（marian）——疑漏词或改写
+  🟠 ch04 body found.md:57  「Marian's control-freakery is rooted in fear」→ 内容词 2/4 命中（fear/rooted）——疑漏词或改写
+  🟠 ch04 body found.md:57  「Stewart's   is his request to」→ 内容词 1/2 命中（request）——疑漏词或改写
+  🟠 ch04 body found.md:58  「Marian's stress manifesting physically」→ 内容词 2/4 命中（manifesting/stress）——疑漏词或改写
+  🟠 ch04 body found.md:58  「Marian's book anxiety as a thread」→ 内容词 3/4 命中（anxiety/book/thread）——疑漏词或改写
+  🟠 ch04 body found.md:64  「Cat's   is her moment of incomprehension」→ 内容词 1/3 命中（moment）——疑漏词或改写
+  🟠 ch04 body found.md:64  「Marian's calm delivery and the content」→ 内容词 2/4 命中（calm/content）——疑漏词或改写
+  🟠 ch04 body found.md:64  「The ellipsis marks her processing delay」→ 内容词 2/4 命中（marks/processing）——疑漏词或改写
+  🟠 ch04 body found.md:64  「Cat's first moment of the murder's reality breaking thro」→ 内容词 5/8 命中（breaking/first/moment/reality）——疑漏词或改写
+  🟠 ch04 body found.md:64  「The   is reflexive politeness」→ 内容词 1/2 命中（politeness）——疑漏词或改写
+  🟠 ch04 body found.md:64  「is the actual question」→ 内容词 2/2 命中（actual/question）——疑漏词或改写
+  🟠 ch04 body found.md:65  「Cat's speechlessness is rare」→ 内容词 1/3 命中（rare）——疑漏词或改写
+  🟠 ch04 body found.md:65  「she's usually quick with words」→ 内容词 3/4 命中（quick/usually/words）——疑漏词或改写
+  🟠 ch04 body found.md:65  「This silence marks the murder's impact」→ 内容词 3/4 命中（impact/marks/silence）——疑漏词或改写
+  🟠 ch04 body found.md:65  「Cat is speechless vs」→ 内容词 2/2 命中（cat/speechless）——疑漏词或改写
+  🟠 ch04 body found.md:71  「Cat's narration   is her dark humor」→ 内容词 1/4 命中（dark）——疑漏词或改写
+  🟠 ch04 body found.md:71  「she's processing shock through irony」→ 内容词 3/5 命中（processing/shock/through）——疑漏词或改写
+  🟠 ch04 body found.md:72  「Marian's calm is either」→ 内容词 2/3 命中（calm/either）——疑漏词或改写
+  🟠 ch04 body found.md:72  「Cat's way of not believing」→ 内容词 2/3 命中（believing/way）——疑漏词或改写
+  🟠 ch04 body found.md:72  「Marian's relationship to death」→ 内容词 2/3 命中（death/relationship）——疑漏词或改写
+  🟠 ch04 body found.md:78  「Debbie's line is the chapter's final reveal」→ 内容词 3/5 命中（final/line/reveal）——疑漏词或改写
+  🟠 ch04 body found.md:78  「Bliss's life ended in murder」→ 内容词 3/4 命中（ended/life/murder）——疑漏词或改写
+  🟠 ch04 body found.md:78  「This is the chapter's last line」→ 内容词 2/3 命中（last/line）——疑漏词或改写
+  🟠 ch04 body found.md:78  「The reader must infer」→ 内容词 1/2 命中（reader）——疑漏词或改写
+  🟠 ch04 body found.md:79  「Track other name-ironies in the book」→ 内容词 2/3 命中（book/track）——疑漏词或改写
+  🟠 ch04 body found.md:79  「Debbie's   is also ambiguous」→ 内容词 1/3 命中（also）——疑漏词或改写
+  🟠 ch04 body found.md:79  「her sympathy may be political」→ 内容词 1/2 命中（political）——疑漏词或改写
+  🟠 ch05 bliss falls.md:13  「covering a conference」→ 内容词 2/2 命中（conference/covering）——疑漏词或改写
+  🟠 ch05 bliss falls.md:13  「covering a murder」→ 内容词 2/2 命中（covering/murder）——疑漏词或改写
+  🟠 ch05 bliss falls.md:13  「security guard to gossip source」→ 内容词 4/4 命中（gossip/guard/security/source）——疑漏词或改写
+  🟠 ch05 bliss falls.md:14  「book promotion for property investment」→ 内容词 3/4 命中（book/investment/property）——疑漏词或改写
+  🟠 ch05 bliss falls.md:22  「comfort to process death」→ 内容词 3/3 命中（comfort/death/process）——疑漏词或改写
+  🟠 ch05 bliss falls.md:22  「is the chapter's first irony」→ 内容词 1/3 命中（first）——疑漏词或改写
+  🟠 ch05 bliss falls.md:22  「Doug's   rejects wellness culture entirely」→ 内容词 3/5 命中（culture/entirely/wellness）——疑漏词或改写
+  🟠 ch05 bliss falls.md:22  「Cat's ally in skepticism」→ 内容词 1/3 命中（ally）——疑漏词或改写
+  🟠 ch05 bliss falls.md:23  「Doug will be a recurring source」→ 内容词 2/3 命中（doug/source）——疑漏词或改写
+  🟠 ch05 bliss falls.md:23  「gives him insider access」→ 内容词 3/3 命中（access/gives/insider）——疑漏词或改写
+  🟠 ch05 bliss falls.md:23  「Track what he observes」→ 内容词 1/2 命中（track）——疑漏词或改写
+  🟠 ch05 bliss falls.md:29  「first by a couple... and again by Marian」→ 内容词 3/3 命中（couple/first/marian）——疑漏词或改写
+  🟠 ch05 bliss falls.md:29  「Cat's   acknowledges her reputation as trouble」→ 内容词 2/4 命中（reputation/trouble）——疑漏词或改写
+  🟠 ch05 bliss falls.md:29  「is the chapter's first physical image of death」→ 内容词 4/5 命中（death/first/image/physical）——疑漏词或改写
+  🟠 ch05 bliss falls.md:29  「Marian's fitness tracking becomes part of the death narr」→ 内容词 5/7 命中（becomes/death/fitness/narrative）——疑漏词或改写
+  🟠 ch05 bliss falls.md:29  「The   establishes the witness chain」→ 内容词 2/3 命中（chain/witness）——疑漏词或改写
+  🟠 ch05 bliss falls.md:30  「Marian was the second person to find the body」→ 内容词 5/5 命中（body/find/marian/person）——疑漏词或改写
+  🟠 ch05 bliss falls.md:30  「after the sunrise couple」→ 内容词 3/3 命中（after/couple/sunrise）——疑漏词或改写
+  🟠 ch05 bliss falls.md:30  「Marian's compulsive fitness tracking」→ 内容词 1/4 命中（fitness）——疑漏词或改写
+  🟠 ch05 bliss falls.md:30  「she's always   even during a murder」→ 内容词 4/5 命中（always/during/even/murder）——疑漏词或改写
+  🟠 ch05 bliss falls.md:36  「accident vs. negligence」→ 内容词 1/2 命中（accident）——疑漏词或改写
+  🟠 ch05 bliss falls.md:36  「This sets up the question」→ 内容词 1/2 命中（question）——疑漏词或改写
+  🟠 ch05 bliss falls.md:36  「Bliss's fall an accident」→ 内容词 2/3 命中（accident/fall）——疑漏词或改写
+  🟠 ch05 bliss falls.md:37  「Martha ignoring safety warnings will be relevant to the 」→ 内容词 5/6 命中（ignoring/investigation/martha/safety）——疑漏词或改写
+  🟠 ch05 bliss falls.md:37  「Martha's negligence is a red herring or a clue」→ 内容词 2/5 命中（clue/red）——疑漏词或改写
+  🟠 ch05 bliss falls.md:43  「Bell's two-word refusal is her character in miniature」→ 内容词 2/5 命中（character/miniature）——疑漏词或改写
+  🟠 ch05 bliss falls.md:43  「OPP officer at an   death」→ 内容词 3/3 命中（death/officer/opp）——疑漏词或改写
+  🟠 ch05 bliss falls.md:43  「is the chapter's first signal that this is more than an 」→ 内容词 3/4 命中（accident/first/signal）——疑漏词或改写
+  🟠 ch05 bliss falls.md:43  「Cat's   is her provocation」→ 内容词 1/2 命中（provocation）——疑漏词或改写
+  🟠 ch05 bliss falls.md:44  「Bell's presence implies homicide investigation」→ 内容词 3/5 命中（homicide/investigation/presence）——疑漏词或改写
+  🟠 ch05 bliss falls.md:44  「Track her interactions with」→ 内容词 1/2 命中（track）——疑漏词或改写
+  🟠 ch05 bliss falls.md:44  「she's a professional rival」→ 内容词 1/3 命中（professional）——疑漏词或改写
+  🟠 ch05 bliss falls.md:50  「her hair is as rigid as her authority」→ 内容词 2/3 命中（hair/rigid）——疑漏词或改写
+  🟠 ch05 bliss falls.md:50  「Martha's attempt to control the narrative」→ 内容词 3/4 命中（attempt/control/narrative）——疑漏词或改写
+  🟠 ch05 bliss falls.md:50  「is her accusation against」→ 内容词 1/2 命中（against）——疑漏词或改写
+  🟠 ch05 bliss falls.md:50  「Cat as a troublemaker」→ 内容词 1/2 命中（cat）——疑漏词或改写
+  🟠 ch05 bliss falls.md:51  「Martha's   is her attempt to close the case」→ 内容词 3/4 命中（attempt/case/close）——疑漏词或改写
+  🟠 ch05 bliss falls.md:51  「Her   suggests she's as rigid as her hair」→ 内容词 3/4 命中（hair/rigid/suggests）——疑漏词或改写
+  🟠 ch05 bliss falls.md:57  「Marian's witness account is the chapter's key testimony」→ 内容词 3/6 命中（account/key/witness）——疑漏词或改写
+  🟠 ch05 bliss falls.md:57  「is the visceral detail」→ 内容词 2/2 命中（detail/visceral）——疑漏词或改写
+  🟠 ch05 bliss falls.md:57  「Marian's composure cracked slightly」→ 内容词 2/4 命中（cracked/slightly）——疑漏词或改写
+  🟠 ch05 bliss falls.md:57  「she's processing the horror only now」→ 内容词 1/3 命中（processing）——疑漏词或改写
+  🟠 ch05 bliss falls.md:58  「Marian's   implies she knew」→ 内容词 1/3 命中（knew）——疑漏词或改写
+  🟠 ch05 bliss falls.md:58  「she notices details others miss」→ 内容词 3/4 命中（details/miss/others）——疑漏词或改写
+  🟠 ch05 bliss falls.md:64  「Cat's internal suspicion is the chapter's turning point」→ 内容词 4/6 命中（internal/point/suspicion/turning）——疑漏词或改写
+  🟠 ch05 bliss falls.md:64  「she doesn't fully trust」→ 内容词 2/3 命中（fully/trust）——疑漏词或改写
+  🟠 ch05 bliss falls.md:64  「is her journalist's ear」→ 内容词 1/2 命中（ear）——疑漏词或改写
+  🟠 ch05 bliss falls.md:64  「is her intuition marker」→ 内容词 1/2 命中（marker）——疑漏词或改写
+  🟠 ch05 bliss falls.md:64  「is her metaphor for」→ 内容词 1/1 命中（metaphor）——疑漏词或改写
+  🟠 ch05 bliss falls.md:64  「is the direct question that seeds the」→ 内容词 2/3 命中（question/seeds）——疑漏词或改写
+  🟠 ch05 bliss falls.md:65  「infinitesimal pauses」→ 内容词 1/2 命中（infinitesimal）——疑漏词或改写
+  🟠 ch05 bliss falls.md:65  「This is the first explicit suspicion of」→ 内容词 2/3 命中（first/suspicion）——疑漏词或改写
+  🟠 ch05 bliss falls.md:65  「Marian statement for   and   reality」→ 内容词 3/3 命中（marian/reality/statement）——疑漏词或改写
+  🟠 ch05 bliss falls.md:65  「The reader should wonder」→ 内容词 2/2 命中（reader/wonder）——疑漏词或改写
+  🟠 ch05 bliss falls.md:79  「Marian's book-promotion request amid a murder investigat」→ 内容词 4/8 命中（investigation/murder/priorities/request）——疑漏词或改写
+  🟠 ch05 bliss falls.md:79  「Cat's   is her final judgment」→ 内容词 2/3 命中（final/judgment）——疑漏词或改写
+  🟠 ch05 bliss falls.md:79  「Marian's favors always have strings」→ 内容词 2/4 命中（always/strings）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:13  「covering a conference」→ 内容词 2/2 命中（conference/covering）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:13  「writing homicide story」→ 内容词 3/3 命中（homicide/story/writing）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:13  「grieving publicist」→ 内容词 2/2 命中（grieving/publicist）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:13  「chewed thumbnail」→ 内容词 2/2 命中（chewed/thumbnail）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:22  「establishes her moral complexity」→ 内容词 1/3 命中（moral）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:22  「is a three-adjective portrait that captures」→ 内容词 1/3 命中（portrait）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:22  「but death spared her that」→ 内容词 2/3 命中（but/death）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:22  「This is the chapter's moral center」→ 内容词 1/3 命中（moral）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:23  「Track when her compassion curdles into suspicion」→ 内容词 3/4 命中（compassion/suspicion/track）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:29  「reframes journalism as justice」→ 内容词 1/3 命中（journalism）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:29  「The   is her uncertainty」→ 内容词 1/1 命中（uncertainty）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:29  「she's not sure she can help」→ 内容词 2/3 命中（help/sure）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:29  「This line echoes ch」→ 内容词 1/2 命中（line）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:30  「helping in death」→ 内容词 2/2 命中（death/helping）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:30  「getting the story.」→ 内容词 2/2 命中（getting/story）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:30  「Cat's sleuthing is motivated by guilt」→ 内容词 3/4 命中（guilt/motivated/sleuthing）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:30  「not just professional ambition」→ 内容词 2/2 命中（ambition/professional）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:30  「Track when her   conflicts with」→ 内容词 1/2 命中（track）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:36  「Danilo's question is the chapter's journalistic-ethics m」→ 内容词 2/5 命中（moment/question）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:36  「reframes reporting as truth-seeking」→ 内容词 1/3 命中（reporting）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:36  「is the chapter's key revelation」→ 内容词 2/3 命中（key/revelation）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:36  「she knows how to source without exposing」→ 内容词 4/4 命中（exposing/knows/source/without）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:37  「Danilo is a reluctant source」→ 内容词 3/3 命中（danilo/reluctant/source）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:43  「Danilo's revelation is the chapter's turning point」→ 内容词 3/5 命中（point/revelation/turning）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:43  「Bliss's death is now officially a murder investigation」→ 内容词 3/5 命中（death/investigation/murder）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:43  「Cat's observation of his emotional state」→ 内容词 3/4 命中（emotional/observation/state）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:43  「is the sentence that changes everything」→ 内容词 3/3 命中（changes/everything/sentence）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:44  「Bell's   confirms the investigation's seriousness」→ 内容词 1/4 命中（seriousness）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:44  「Bell shares info with」→ 内容词 2/3 命中（bell/info）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:44  「Cat or stonewalls her」→ 内容词 1/2 命中（cat）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:50  「book sabotage」→ 内容词 2/2 命中（book/sabotage）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:50  「Debbie's pivot from   to   introduces the secondary thre」→ 内容词 2/5 命中（secondary/thread）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:50  「parallels the murder thread」→ 内容词 2/3 命中（murder/thread）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:50  「both involve targeted attacks on women」→ 内容词 3/4 命中（involve/targeted/women）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:51  「The book-sabotage thread may connect to the murder」→ 内容词 3/4 命中（connect/murder/thread）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:51  「same person who killed」→ 内容词 2/2 命中（killed/person）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:51  「Track whether the two threads converge」→ 内容词 3/5 命中（track/two/whether）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:57  「Goodreads review is the chapter's evidence of the book-s」→ 内容词 4/6 命中（campaign/evidence/goodreads/review）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:57  「This review will be key to understanding」→ 内容词 3/3 命中（key/review/understanding）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:58  「The book sabotage may be connected to the wellness indus」→ 内容词 5/5 命中（book/connected/industry/sabotage）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:58  「Bliss's   rhetoric targets corporate media」→ 内容词 2/5 命中（corporate/media）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:58  「Track who benefits from attacking」→ 内容词 3/3 命中（attacking/benefits/track）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:64  「who killed Bliss?」→ 内容词 2/2 命中（bliss/killed）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:64  「Debbie's   is the chapter's key question」→ 内容词 2/4 命中（key/question）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:64  「BookTok and   show the sabotage's scale」→ 内容词 2/4 命中（booktok/show）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:64  「Debbie's leaning closer signals intimacy」→ 内容词 2/5 命中（closer/leaning）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:64  「frames the campaign as existential threat」→ 内容词 3/4 命中（campaign/frames/threat）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:65  「Debbie is asking the right question」→ 内容词 4/4 命中（asking/debbie/question/right）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:65  「Track whether the book sabotage and」→ 内容词 4/4 命中（book/sabotage/track/whether）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:65  「Bliss's murder have the same perpetrator」→ 内容词 1/3 命中（murder）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:71  「covering a conference」→ 内容词 2/2 命中（conference/covering）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:71  「covering a murder.」→ 内容词 2/2 命中（covering/murder）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:71  「Cat's lede is the chapter's professional moment」→ 内容词 2/5 命中（moment/professional）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:71  「she's writing the story」→ 内容词 2/3 命中（story/writing）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:71  「is her journalistic framing」→ 内容词 1/2 命中（journalistic）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:71  「is her careful qualification」→ 内容词 1/2 命中（careful）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:71  「The act of typing the lede is」→ 内容词 2/3 命中（act/typing）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:72  「Cat's lede will be tested against official statements」→ 内容词 2/6 命中（against/official）——疑漏词或改写
+  🟠 ch06 danilo and investigation.md:72  「Track how the story evolves as more info emerges」→ 内容词 3/5 命中（info/story/track）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:11  「sales manager」→ 内容词 2/2 命中（manager/sales）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:11  「convoy leader's daughter」→ 内容词 2/3 命中（convoy/daughter）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:12  「the convoy is camping on mayor's land.」→ 内容词 3/4 命中（camping/convoy/land）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:13  「sales manager」→ 内容词 2/2 命中（manager/sales）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:13  「convoy leader's daughter」→ 内容词 2/3 命中（convoy/daughter）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:13  「gaslighting husband」→ 内容词 2/2 命中（gaslighting/husband）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:13  「harassed mom」→ 内容词 2/2 命中（harassed/mom）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:13  「drill sergeant with Vesuvius rage.」→ 内容词 4/4 命中（drill/rage/sergeant/vesuvius）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:22  「TikTok announcement is her first public act as sole lead」→ 内容词 6/7 命中（act/announcement/first/leader）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:22  「Bliss's legacy while protecting her business」→ 内容词 3/5 命中（business/protecting/while）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:22  「she acknowledges the economic reality」→ 内容词 2/3 命中（economic/reality）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:22  「the conference's collapse would hurt many」→ 内容词 2/4 命中（hurt/many）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:23  「Bree's actions align with」→ 内容词 1/3 命中（actions）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:23  「The   comment seeds suspicion of」→ 内容词 3/3 命中（comment/seeds/suspicion）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:29  「she's narrating her parenting for」→ 内容词 1/3 命中（parenting）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:29  「Cat's first extended look at」→ 内容词 3/4 命中（extended/first/look）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:30  「Jenny's   parenting is her coping mechanism」→ 内容词 2/4 命中（mechanism/parenting）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:30  「Track whether her rage at」→ 内容词 3/3 命中（rage/track/whether）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:30  「connects to her parenting stress」→ 内容词 2/3 命中（parenting/stress）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:36  「Plunge rhetoric is the chapter's wellness-scam satire」→ 内容词 1/5 命中（plunge）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:36  「is his brand mantra」→ 内容词 2/2 命中（brand/mantra）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:36  「reframes hypothermia as spiritual experience」→ 内容词 3/4 命中（experience/hypothermia/spiritual）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:36  「she sees through the scam」→ 内容词 1/3 命中（through）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:37  「His   rhetoric masks physical danger」→ 内容词 3/4 命中（danger/masks/physical）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:37  「Bodhi's scam as a parallel to」→ 内容词 1/3 命中（parallel）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:41  「mind their own business」→ 内容词 2/2 命中（business/mind）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:43  「Bliss visited the convoy」→ 内容词 3/3 命中（bliss/convoy/visited）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:43  「shows the news's impact」→ 内容词 1/3 命中（impact）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:43  「nature as innocent bystander」→ 内容词 2/3 命中（innocent/nature）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:43  「This is her signature voice」→ 内容词 2/2 命中（signature/voice）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:44  「Bliss's contact with the convoy is a major revelation」→ 内容词 4/5 命中（contact/convoy/major/revelation）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:44  「Track who in the convoy knew」→ 内容词 3/3 命中（convoy/knew/track）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:44  「and whether this connects to her murder」→ 内容词 2/3 命中（murder/whether）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:48  「conspiracy theories destroying business's reputation」→ 内容词 4/5 命中（conspiracy/destroying/reputation/theories）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:50  「third-rate university dropout」→ 内容词 1/3 命中（university）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:50  「Kaydence's eavesdropped argument is the chapter's key in」→ 内容词 2/6 命中（argument/key）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:50  「Bree's   is class contempt」→ 内容词 1/3 命中（contempt）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:50  「Bliss's   is her anti-expertise stance」→ 内容词 1/3 命中（stance）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:50  「this becomes ominous after」→ 内容词 2/3 命中（after/becomes）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:50  「The argument establishes the」→ 内容词 1/2 命中（argument）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:50  「Bliss's conspiracy theories vs」→ 内容词 2/3 命中（conspiracy/theories）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:51  「Bree's   is the chapter's most loaded line」→ 内容词 2/4 命中（line/loaded）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:51  「this reads as threat」→ 内容词 2/2 命中（reads/threat）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:57  「Kaydence's final revelation is the chapter's bombshell」→ 内容词 2/5 命中（final/revelation）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:57  「is her understated delivery of a life-altering fact」→ 内容词 2/4 命中（fact/understated）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:57  「both are leadership claims in extremist movements」→ 内容词 2/4 命中（leadership/movements）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:57  「shows the toll of this secret」→ 内容词 2/3 命中（secret/toll）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:58  「if the convoy had motive」→ 内容词 2/2 命中（convoy/motive）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:58  「Kaydence's family connection compromises her role as」→ 内容词 3/5 命中（connection/family/role）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:64  「Kaydence's family disclosure is the chapter's emotional 」→ 内容词 3/6 命中（core/emotional/family）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:64  「is her rational counter to his vaccine-causation claim」→ 内容词 1/4 命中（counter）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:65  「Kaydence's family situation parallels」→ 内容词 2/4 命中（family/situation）——疑漏词或改写
+  🟠 ch07 kaydence secret.md:106  「layered clothing」→ 内容词 1/2 命中（clothing）——疑漏词或改写
+  🟠 ch08 protest assault.md:13  「assault victim」→ 内容词 2/2 命中（assault/victim）——疑漏词或改写
+  🟠 ch08 protest assault.md:13  「sales manager」→ 内容词 2/2 命中（manager/sales）——疑漏词或改写
+  🟠 ch08 protest assault.md:13  「fierce sister」→ 内容词 1/2 命中（sister）——疑漏词或改写
+  🟠 ch08 protest assault.md:13  「normal Port Ellis bro」→ 内容词 4/4 命中（bro/ellis/normal/port）——疑漏词或改写
+  🟠 ch08 protest assault.md:13  「obnoxious politician」→ 内容词 2/2 命中（obnoxious/politician）——疑漏词或改写
+  🟠 ch08 protest assault.md:13  「peacemaker with megaphone.」→ 内容词 1/2 命中（megaphone）——疑漏词或改写
+  🟠 ch08 protest assault.md:14  「Gerry's speech as political theater」→ 内容词 2/4 命中（political/speech）——疑漏词或改写
+  🟠 ch08 protest assault.md:22  「establishes her guilt for not connecting」→ 内容词 2/3 命中（connecting/guilt）——疑漏词或改写
+  🟠 ch08 protest assault.md:22  「is her casual dismissal of the」→ 内容词 1/2 命中（casual）——疑漏词或改写
+  🟠 ch08 protest assault.md:22  「The   is her blind spot」→ 内容词 2/2 命中（blind/spot）——疑漏词或改写
+  🟠 ch08 protest assault.md:22  「she missed the connection because she didn't want to see」→ 内容词 5/6 命中（because/connection/missed/see）——疑漏词或改写
+  🟠 ch08 protest assault.md:23  「Track when her   is genuine vs」→ 内容词 2/2 命中（genuine/track）——疑漏词或改写
+  🟠 ch08 protest assault.md:27  「push through the crowd」→ 内容词 3/3 命中（crowd/push/through）——疑漏词或改写
+  🟠 ch08 protest assault.md:29  「is her moral diagnosis of the convoy」→ 内容词 2/3 命中（convoy/moral）——疑漏词或改写
+  🟠 ch08 protest assault.md:29  「she nearly got killed」→ 内容词 3/3 命中（got/killed/nearly）——疑漏词或改写
+  🟠 ch08 protest assault.md:29  「is her suppression of fear」→ 内容词 1/2 命中（fear）——疑漏词或改写
+  🟠 ch08 protest assault.md:30  「Cat's   is both her strength and vulnerability」→ 内容词 1/3 命中（strength）——疑漏词或改写
+  🟠 ch08 protest assault.md:30  「Track when her anger leads to action vs」→ 内容词 4/4 命中（action/anger/leads/track）——疑漏词或改写
+  🟠 ch08 protest assault.md:30  「when it leads to mistakes」→ 内容词 2/2 命中（leads/mistakes）——疑漏词或改写
+  🟠 ch08 protest assault.md:34  「With these fascists，ain't no such thing as a coincidence」→ 内容词 3/4 命中（coincidence/fascists/thing）——疑漏词或改写
+  🟠 ch08 protest assault.md:36  「library volunteer teaching kids to read」→ 内容词 5/5 命中（kids/library/read/teaching）——疑漏词或改写
+  🟠 ch08 protest assault.md:36  「conspiracy theorist」→ 内容词 1/2 命中（conspiracy）——疑漏词或改写
+  🟠 ch08 protest assault.md:36  「is the chapter's conspiracy-theory voice」→ 内容词 1/3 命中（voice）——疑漏词或改写
+  🟠 ch08 protest assault.md:36  「is the convoy's interpretive framework」→ 内容词 1/3 命中（framework）——疑漏词或改写
+  🟠 ch08 protest assault.md:36  「is her label for the government」→ 内容词 1/2 命中（government）——疑漏词或改写
+  🟠 ch08 protest assault.md:36  「The contrast between   and   is」→ 内容词 2/2 命中（between/contrast）——疑漏词或改写
+  🟠 ch08 protest assault.md:36  「Cat's observation of the ordinary-people-gone-extremist 」→ 内容词 1/4 命中（observation）——疑漏词或改写
+  🟠 ch08 protest assault.md:37  「ordinary people」→ 内容词 2/2 命中（ordinary/people）——疑漏词或改写
+  🟠 ch08 protest assault.md:37  「Brenda represents the   who've been radicalized」→ 内容词 2/4 命中（brenda/represents）——疑漏词或改写
+  🟠 ch08 protest assault.md:37  「Track whether her conspiracy theories have any basis in 」→ 内容词 6/6 命中（basis/conspiracy/fact/theories）——疑漏词或改写
+  🟠 ch08 protest assault.md:43  「Kaydence is the chapter's most shocking line」→ 内容词 3/4 命中（kaydence/line/shocking）——疑漏词或改写
+  🟠 ch08 protest assault.md:43  「is his accusation against his sister」→ 内容词 2/3 命中（against/sister）——疑漏词或改写
+  🟠 ch08 protest assault.md:43  「presumably for her sexuality or her   views」→ 内容词 2/3 命中（presumably/views）——疑漏词或改写
+  🟠 ch08 protest assault.md:43  「This is the chapter's revelation of」→ 内容词 1/2 命中（revelation）——疑漏词或改写
+  🟠 ch08 protest assault.md:43  「he's not just a conspiracy theorist」→ 内容词 1/3 命中（conspiracy）——疑漏词或改写
+  🟠 ch08 protest assault.md:44  「Kaydence establishes the personal stakes」→ 内容词 3/4 命中（kaydence/personal/stakes）——疑漏词或改写
+  🟠 ch08 protest assault.md:44  「Kaydence's sexuality becomes relevant to the murder inve」→ 内容词 3/6 命中（becomes/investigation/murder）——疑漏词或改写
+  🟠 ch08 protest assault.md:50  「He's performing solidarity while actually de-escalating」→ 内容词 3/6 命中（actually/solidarity/while）——疑漏词或改写
+  🟠 ch08 protest assault.md:50  「who knows how to manage mobs」→ 内容词 2/3 命中（knows/manage）——疑漏词或改写
+  🟠 ch08 protest assault.md:51  「Track whether his convoy connection is political opportu」→ 内容词 6/8 命中（connection/convoy/genuine/political）——疑漏词或改写
+  🟠 ch08 protest assault.md:57  「Gerry's speech is the chapter's political theater」→ 内容词 2/5 命中（political/speech）——疑漏词或改写
+  🟠 ch08 protest assault.md:57  「is his empathy performance」→ 内容词 2/2 命中（empathy/performance）——疑漏词或改写
+  🟠 ch08 protest assault.md:57  「is his closing question」→ 内容词 2/2 命中（closing/question）——疑漏词或改写
+  🟠 ch08 protest assault.md:57  「since the crowd's response is predetermined」→ 内容词 2/4 命中（response/since）——疑漏词或改写
+  🟠 ch08 protest assault.md:57  「managing mobs through performance」→ 内容词 3/4 命中（managing/performance/through）——疑漏词或改写
+  🟠 ch08 protest assault.md:58  「Gerry is genuinely allied with the convoy or using them」→ 内容词 5/6 命中（convoy/genuinely/gerry/them）——疑漏词或改写
+  🟠 ch08 protest assault.md:64  「or another convoy member」→ 内容词 3/3 命中（another/convoy/member）——疑漏词或改写
+  🟠 ch08 protest assault.md:64  「but she doesn't escalate」→ 内容词 2/3 命中（but/escalate）——疑漏词或改写
+  🟠 ch08 protest assault.md:64  「is her physical description」→ 内容词 1/2 命中（physical）——疑漏词或改写
+  🟠 ch08 protest assault.md:64  「but chooses when to act」→ 内容词 2/3 命中（act/but）——疑漏词或改写
+  🟠 ch08 protest assault.md:65  「Cat's   about who hit her will be tested later」→ 内容词 2/4 命中（hit/later）——疑漏词或改写
+  🟠 ch08 protest assault.md:65  「Track whether she identifies the assailant」→ 内容词 2/4 命中（track/whether）——疑漏词或改写
+  🟠 ch08 protest assault.md:71  「or at least her brother」→ 内容词 2/2 命中（brother/least）——疑漏词或改写
+  🟠 ch08 protest assault.md:71  「is the chapter's family-drama moment」→ 内容词 1/3 命中（moment）——疑漏词或改写
+  🟠 ch08 protest assault.md:71  「The brevity of the line」→ 内容词 1/2 命中（line）——疑漏词或改写
+  🟠 ch08 protest assault.md:71  「Kaydence doesn't need to elaborate」→ 内容词 3/4 命中（elaborate/kaydence/need）——疑漏词或改写
+  🟠 ch08 protest assault.md:71  「Cat's metaphor for his confusion」→ 内容词 2/3 命中（confusion/metaphor）——疑漏词或改写
+  🟠 ch08 protest assault.md:72  「Kaydence's   connects the assault to the」→ 内容词 1/3 命中（assault）——疑漏词或改写
+  🟠 ch08 protest assault.md:72  「Kyle's role in the escalating violence」→ 内容词 3/4 命中（escalating/role/violence）——疑漏词或改写
+  🟠 ch09 skywords.md:12  「wellness industrial complex critique」→ 内容词 3/4 命中（complex/industrial/wellness）——疑漏词或改写
+  🟠 ch09 skywords.md:13  「investigator with evidence」→ 内容词 2/2 命中（evidence/investigator）——疑漏词或改写
+  🟠 ch09 skywords.md:13  「tech-savvy evidence gatherer」→ 内容词 1/3 命中（evidence）——疑漏词或改写
+  🟠 ch09 skywords.md:13  「elegant business partner」→ 内容词 3/3 命中（business/elegant/partner）——疑漏词或改写
+  🟠 ch09 skywords.md:13  「woman who wrote MURDER.」→ 内容词 3/3 命中（murder/woman/wrote）——疑漏词或改写
+  🟠 ch09 skywords.md:14  「SkyWords workshop as set-piece」→ 内容词 2/3 命中（skywords/workshop）——疑漏词或改写
+  🟠 ch09 skywords.md:14  「Hannah's long-exposure reveal as chapter-ending cliffhan」→ 内容词 1/5 命中（reveal）——疑漏词或改写
+  🟠 ch09 skywords.md:22  「Bruce's critique of wellness industry is the chapter's t」→ 内容词 2/7 命中（industry/wellness）——疑漏词或改写
+  🟠 ch09 skywords.md:22  「he's a white male beneficiary」→ 内容词 2/4 命中（male/white）——疑漏词或改写
+  🟠 ch09 skywords.md:22  「reframes wellness as not anti-corporate but re-corporate」→ 内容词 2/5 命中（but/wellness）——疑漏词或改写
+  🟠 ch09 skywords.md:23  「wellness industry is a new form of corporate control」→ 内容词 6/6 命中（control/corporate/form/industry）——疑漏词或改写
+  🟠 ch09 skywords.md:23  「Track how this theme connects to」→ 内容词 1/3 命中（track）——疑漏词或改写
+  🟠 ch09 skywords.md:29  「Danilo's   is his unfiltered assessment of」→ 内容词 1/3 命中（assessment）——疑漏词或改写
+  🟠 ch09 skywords.md:29  「is his physical reaction」→ 内容词 2/2 命中（physical/reaction）——疑漏词或改写
+  🟠 ch09 skywords.md:29  「shock at his own candor」→ 内容词 1/2 命中（shock）——疑漏词或改写
+  🟠 ch09 skywords.md:29  「This is the chapter's first crack in」→ 内容词 2/3 命中（crack/first）——疑漏词或改写
+  🟠 ch09 skywords.md:30  「establishes him as a source」→ 内容词 1/2 命中（source）——疑漏词或改写
+  🟠 ch09 skywords.md:30  「Track what he reveals vs」→ 内容词 1/2 命中（track）——疑漏词或改写
+  🟠 ch09 skywords.md:36  「Bliss is the chapter's character revelation」→ 内容词 3/4 命中（bliss/character/revelation）——疑漏词或改写
+  🟠 ch09 skywords.md:36  「is his core critique」→ 内容词 1/2 命中（core）——疑漏词或改写
+  🟠 ch09 skywords.md:36  「Bliss's confidence outstripped her intelligence」→ 内容词 1/4 命中（confidence）——疑漏词或改写
+  🟠 ch09 skywords.md:36  「her need for attention made her vulnerable」→ 内容词 3/4 命中（attention/made/need）——疑漏词或改写
+  🟠 ch09 skywords.md:37  「Danilo's   is key to understanding」→ 内容词 2/3 命中（key/understanding）——疑漏词或改写
+  🟠 ch09 skywords.md:37  「who would want to silence her」→ 内容词 2/2 命中（silence/want）——疑漏词或改写
+  🟠 ch09 skywords.md:43  「Danilo's business intelligence is the chapter's key evid」→ 内容词 3/6 命中（business/evidence/key）——疑漏词或改写
+  🟠 ch09 skywords.md:43  「establishes the business decline」→ 内容词 2/3 命中（business/decline）——疑漏词或改写
+  🟠 ch09 skywords.md:43  「is the crucial fact」→ 内容词 2/2 命中（crucial/fact）——疑漏词或改写
+  🟠 ch09 skywords.md:43  「Bree's partnership was already broken」→ 内容词 3/4 命中（already/broken/partnership）——疑漏词或改写
+  🟠 ch09 skywords.md:44  「is the chapter's most important fact」→ 内容词 2/3 命中（fact/important）——疑漏词或改写
+  🟠 ch09 skywords.md:44  「Bree's   status means she had opportunity to kill」→ 内容词 4/5 命中（kill/means/opportunity/status）——疑漏词或改写
+  🟠 ch09 skywords.md:50  「Bruce's deduction is the chapter's investigative insight」→ 内容词 1/5 命中（investigative）——疑漏词或改写
+  🟠 ch09 skywords.md:50  「someone to help you」→ 内容词 2/2 命中（help/someone）——疑漏词或改写
+  🟠 ch09 skywords.md:50  「brought a support person to the conference」→ 内容词 4/4 命中（brought/conference/person/support）——疑漏词或改写
+  🟠 ch09 skywords.md:50  「This person is unknown」→ 内容词 1/2 命中（person）——疑漏词或改写
+  🟠 ch09 skywords.md:50  「potential suspect or witness」→ 内容词 2/3 命中（suspect/witness）——疑漏词或改写
+  🟠 ch09 skywords.md:51  「Bruce's   theory is a key investigative lead」→ 内容词 3/5 命中（investigative/key/lead）——疑漏词或改写
+  🟠 ch09 skywords.md:51  「Track who this person might be」→ 内容词 2/2 命中（person/track）——疑漏词或改写
+  🟠 ch09 skywords.md:57  「is her professional assessment」→ 内容词 2/2 命中（assessment/professional）——疑漏词或改写
+  🟠 ch09 skywords.md:57  「she recognizes the theatrical skill」→ 内容词 1/3 命中（skill）——疑漏词或改写
+  🟠 ch09 skywords.md:57  「is her low-voice reaction」→ 内容词 1/2 命中（reaction）——疑漏词或改写
+  🟠 ch09 skywords.md:57  「Cat as an observer of performance」→ 内容词 2/3 命中（cat/performance）——疑漏词或改写
+  🟠 ch09 skywords.md:57  「even in wellness settings」→ 内容词 2/3 命中（even/wellness）——疑漏词或改写
+  🟠 ch09 skywords.md:58  「Cat's   shows she can appreciate performance even when s」→ 内容词 3/7 命中（appreciate/even/performance）——疑漏词或改写
+  🟠 ch09 skywords.md:58  「Track her assessments of wellness figures」→ 内容词 3/4 命中（figures/track/wellness）——疑漏词或改写
+  🟠 ch09 skywords.md:64  「is the chapter's first reveal」→ 内容词 2/3 命中（first/reveal）——疑漏词或改写
+  🟠 ch09 skywords.md:64  「is the visual effect」→ 内容词 1/2 命中（effect）——疑漏词或改写
+  🟠 ch09 skywords.md:64  「establishing the workshop's format before the shocking o」→ 内容词 3/6 命中（before/ones/shocking）——疑漏词或改写
+  🟠 ch09 skywords.md:65  「Clarity's   is her brand」→ 内容词 1/2 命中（brand）——疑漏词或改写
+  🟠 ch09 skywords.md:65  「Track whether her public persona matches her private act」→ 内容词 7/7 命中（actions/matches/persona/private）——疑漏词或改写
+  🟠 ch09 skywords.md:71  「SkyWord is evidence of」→ 内容词 2/2 命中（evidence/skyword）——疑漏词或改写
+  🟠 ch09 skywords.md:72  「Jenny's   is directed at」→ 内容词 1/2 命中（directed）——疑漏词或改写
+  🟠 ch09 skywords.md:72  「Jenny's rage becomes relevant to」→ 内容词 2/4 命中（becomes/rage）——疑漏词或改写
+  🟠 ch09 skywords.md:78  「The chapter's final line is the book's central revelatio」→ 内容词 3/6 命中（final/line/revelation）——疑漏词或改写
+  🟠 ch09 skywords.md:78  「is the single word that changes everything」→ 内容词 4/4 命中（changes/everything/single/word）——疑漏词或改写
+  🟠 ch09 skywords.md:78  「The chapter ends on this word」→ 内容词 3/3 命中（chapter/ends/word）——疑漏词或改写
+  🟠 ch09 skywords.md:78  「This is the book's most important cliffhanger」→ 内容词 1/3 命中（important）——疑漏词或改写
+  🟠 ch09 skywords.md:79  「SkyWord is the chapter's」→ 内容词 1/2 命中（skyword）——疑漏词或改写
+  🟠 ch09 skywords.md:94  「absent without leave」→ 内容词 2/3 命中（leave/without）——疑漏词或改写
+  🟠 ch09 skywords.md:102  「public relations」→ 内容词 1/2 命中（public）——疑漏词或改写
+  🟠 ch09 skywords.md:103  「workshop name」→ 内容词 2/2 命中（name/workshop）——疑漏词或改写
+  🟠 ch10 marian missing.md:10  「ex-wife, final details.」→ 内容词 2/3 命中（details/final）——疑漏词或改写
+  🟠 ch10 marian missing.md:13  「investigating murder」→ 内容词 2/2 命中（investigating/murder）——疑漏词或改写
+  🟠 ch10 marian missing.md:13  「personal crisis」→ 内容词 2/2 命中（crisis/personal）——疑漏词或改写
+  🟠 ch10 marian missing.md:13  「man with hidden past」→ 内容词 3/3 命中（hidden/man/past）——疑漏词或改写
+  🟠 ch10 marian missing.md:13  「Mahars as warm parental figures」→ 内容词 3/4 命中（figures/mahars/warm）——疑漏词或改写
+  🟠 ch10 marian missing.md:14  「photo reveal as chapter-ending shock」→ 内容词 3/4 命中（photo/reveal/shock）——疑漏词或改写
+  🟠 ch10 marian missing.md:20  「she was trying to deflect attention from her own guilt」→ 内容词 4/4 命中（attention/deflect/guilt/trying）——疑漏词或改写
+  🟠 ch10 marian missing.md:22  「are her investigative framework」→ 内容词 2/2 命中（framework/investigative）——疑漏词或改写
+  🟠 ch10 marian missing.md:22  「wellness figures as potential killers」→ 内容词 2/4 命中（figures/wellness）——疑漏词或改写
+  🟠 ch10 marian missing.md:22  「is her suspicion of」→ 内容词 1/1 命中（suspicion）——疑漏词或改写
+  🟠 ch10 marian missing.md:22  「is her assessment that」→ 内容词 1/1 命中（assessment）——疑漏词或改写
+  🟠 ch10 marian missing.md:22  「Bree is already a suspect」→ 内容词 3/3 命中（already/bree/suspect）——疑漏词或改写
+  🟠 ch10 marian missing.md:23  「Track which hypothesis proves correct」→ 内容词 2/4 命中（correct/track）——疑漏词或改写
+  🟠 ch10 marian missing.md:29  「Cat's   is her journalistic instinct」→ 内容词 1/3 命中（journalistic）——疑漏词或改写
+  🟠 ch10 marian missing.md:29  「she needs structured information」→ 内容词 2/3 命中（information/needs）——疑漏词或改写
+  🟠 ch10 marian missing.md:29  「is her interview technique」→ 内容词 1/2 命中（interview）——疑漏词或改写
+  🟠 ch10 marian missing.md:29  「Cat as the information-gatherer even in personal crisis」→ 内容词 4/5 命中（cat/crisis/even/personal）——疑漏词或改写
+  🟠 ch10 marian missing.md:30  「are her coping mechanism」→ 内容词 1/2 命中（mechanism）——疑漏词或改写
+  🟠 ch10 marian missing.md:30  「Track when she can't maintain this control」→ 内容词 3/4 命中（control/maintain/track）——疑漏词或改写
+  🟠 ch10 marian missing.md:36  「Kaydence's report is the chapter's first revelation」→ 内容词 3/5 命中（first/report/revelation）——疑漏词或改写
+  🟠 ch10 marian missing.md:36  「police want to question」→ 内容词 3/3 命中（police/question/want）——疑漏词或改写
+  🟠 ch10 marian missing.md:36  「is police euphemism for formal questioning」→ 内容词 3/4 命中（formal/police/questioning）——疑漏词或改写
+  🟠 ch10 marian missing.md:36  「Marian is now validated by police interest」→ 内容词 3/4 命中（interest/marian/police）——疑漏词或改写
+  🟠 ch10 marian missing.md:37  「Marian is now a person of interest」→ 内容词 3/3 命中（interest/marian/person）——疑漏词或改写
+  🟠 ch10 marian missing.md:37  「Marian's disappearance is flight」→ 内容词 2/3 命中（disappearance/flight）——疑漏词或改写
+  🟠 ch10 marian missing.md:43  「she's admitting she saw」→ 内容词 1/3 命中（saw）——疑漏词或改写
+  🟠 ch10 marian missing.md:43  「Marian but didn't report it」→ 内容词 3/4 命中（but/marian/report）——疑漏词或改写
+  🟠 ch10 marian missing.md:43  「Marian was seen near the lookout」→ 内容词 4/4 命中（lookout/marian/near/seen）——疑漏词或改写
+  🟠 ch10 marian missing.md:44  「Did she lie to police」→ 内容词 2/2 命中（lie/police）——疑漏词或改写
+  🟠 ch10 marian missing.md:44  「Track her reliability as a source」→ 内容词 2/3 命中（source/track）——疑漏词或改写
+  🟠 ch10 marian missing.md:50  「Marian is the chapter's key clue」→ 内容词 3/4 命中（clue/key/marian）——疑漏词或改写
+  🟠 ch10 marian missing.md:50  「Marian was heading to the lookout」→ 内容词 3/3 命中（heading/lookout/marian）——疑漏词或改写
+  🟠 ch10 marian missing.md:50  「Kaydence's wry assessment of」→ 内容词 1/3 命中（assessment）——疑漏词或改写
+  🟠 ch10 marian missing.md:50  「Marian go to the murder scene」→ 内容词 3/3 命中（marian/murder/scene）——疑漏词或改写
+  🟠 ch10 marian missing.md:51  「Marian's trip to the lookout is the chapter's central my」→ 内容词 3/6 命中（lookout/mystery/trip）——疑漏词或改写
+  🟠 ch10 marian missing.md:57  「Cat's interrupted question is her shock」→ 内容词 3/4 命中（interrupted/question/shock）——疑漏词或改写
+  🟠 ch10 marian missing.md:57  「is incomplete because she can't finish」→ 内容词 2/4 命中（because/finish）——疑漏词或改写
+  🟠 ch10 marian missing.md:57  「she's seeing the photo and the words won't come」→ 内容词 4/6 命中（come/photo/seeing/words）——疑漏词或改写
+  🟠 ch10 marian missing.md:57  「This is her loss of control moment」→ 内容词 3/3 命中（control/loss/moment）——疑漏词或改写
+  🟠 ch10 marian missing.md:58  「Track when she loses her verbal control」→ 内容词 3/4 命中（control/loses/track）——疑漏词或改写
+  🟠 ch10 marian missing.md:64  「Cat's narration can't tell which」→ 内容词 1/4 命中（tell）——疑漏词或改写
+  🟠 ch10 marian missing.md:64  「The two-word sentence is」→ 内容词 1/2 命中（sentence）——疑漏词或改写
+  🟠 ch10 marian missing.md:64  「Amir is still married」→ 内容词 3/3 命中（amir/married/still）——疑漏词或改写
+  🟠 ch10 marian missing.md:65  「Cat will notice the distinction」→ 内容词 2/3 命中（cat/notice）——疑漏词或改写
+  🟠 ch10 marian missing.md:65  「Azra knows the marriage is over」→ 内容词 3/3 命中（azra/knows/marriage）——疑漏词或改写
+  🟠 ch10 marian missing.md:71  「implies the divorce isn't complete」→ 内容词 2/4 命中（complete/divorce）——疑漏词或改写
+  🟠 ch10 marian missing.md:71  「he's not divorced yet」→ 内容词 2/3 命中（divorced/yet）——疑漏词或改写
+  🟠 ch10 marian missing.md:71  「This is the chapter's personal revelation」→ 内容词 2/3 命中（personal/revelation）——疑漏词或改写
+  🟠 ch10 marian missing.md:71  「Amir is still married」→ 内容词 3/3 命中（amir/married/still）——疑漏词或改写
+  🟠 ch10 marian missing.md:72  「still married」→ 内容词 2/2 命中（married/still）——疑漏词或改写
+  🟠 ch10 marian missing.md:72  「Track whether the divorce completes or stalls」→ 内容词 4/5 命中（divorce/stalls/track/whether）——疑漏词或改写
+  🟠 ch10 marian missing.md:77  「Cat's self-policing is the chapter's emotional resolutio」→ 内容词 1/5 命中（emotional）——疑漏词或改写
+  🟠 ch10 marian missing.md:77  「is her denial of her own feelings」→ 内容词 1/2 命中（feelings）——疑漏词或改写
+  🟠 ch10 marian missing.md:77  「she's arguing with herself」→ 内容词 2/3 命中（arguing/herself）——疑漏词或改写
+  🟠 ch10 marian missing.md:78  「Cat's   is not convincing」→ 内容词 1/2 命中（convincing）——疑漏词或改写
+  🟠 ch10 marian missing.md:78  「Track her emotional state as the」→ 内容词 3/3 命中（emotional/state/track）——疑漏词或改写
+  🟠 ch10 marian missing.md:84  「Mahars'   is the chapter's warmth moment」→ 内容词 2/4 命中（moment/warmth）——疑漏词或改写
+  🟠 ch10 marian missing.md:84  「is the physical embrace」→ 内容词 2/2 命中（embrace/physical）——疑漏词或改写
+  🟠 ch10 marian missing.md:84  「Cat's observation of a family she envies」→ 内容词 2/4 命中（family/observation）——疑漏词或改写
+  🟠 ch10 marian missing.md:85  「Mahars represent the family」→ 内容词 2/3 命中（family/mahars）——疑漏词或改写
+  🟠 ch10 marian missing.md:85  「Track how this contrast with」→ 内容词 2/2 命中（contrast/track）——疑漏词或改写
+  🟠 ch10 marian missing.md:135  「ex-wife, final details」→ 内容词 2/3 命中（details/final）——疑漏词或改写
+  🟠 ch11 marian interview.md:10  「slept through」→ 内容词 2/2 命中（slept/through）——疑漏词或改写
+  🟠 ch11 marian interview.md:10  「Bodhi sneaking out night of murder」→ 内容词 5/5 命中（bodhi/murder/night/out）——疑漏词或改写
+  🟠 ch11 marian interview.md:11  「Bliss affair adds new suspect」→ 内容词 4/5 命中（affair/bliss/new/suspect）——疑漏词或改写
+  🟠 ch11 marian interview.md:12  「I forgot a detail」→ 内容词 2/2 命中（detail/forgot）——疑漏词或改写
+  🟠 ch11 marian interview.md:13  「suspect with lies」→ 内容词 2/2 命中（lies/suspect）——疑漏词或改写
+  🟠 ch11 marian interview.md:13  「former intern with grudge」→ 内容词 2/3 命中（former/intern）——疑漏词或改写
+  🟠 ch11 marian interview.md:13  「affair partner of murdered Bliss.」→ 内容词 4/4 命中（affair/bliss/murdered/partner）——疑漏词或改写
+  🟠 ch11 marian interview.md:14  「Photoshopped reality」→ 内容词 2/2 命中（photoshopped/reality）——疑漏词或改写
+  🟠 ch11 marian interview.md:14  「police interview as scene」→ 内容词 3/3 命中（interview/police/scene）——疑漏词或改写
+  🟠 ch11 marian interview.md:20  「she frames herself as victim of police persecution」→ 内容词 4/5 命中（frames/herself/police/victim）——疑漏词或改写
+  🟠 ch11 marian interview.md:22  「Marian's   is her dramatic opening」→ 内容词 1/3 命中（opening）——疑漏词或改写
+  🟠 ch11 marian interview.md:22  「she frames herself as victim of police persecution」→ 内容词 4/5 命中（frames/herself/police/victim）——疑漏词或改写
+  🟠 ch11 marian interview.md:23  「she's not under arrest」→ 内容词 1/2 命中（arrest）——疑漏词或改写
+  🟠 ch11 marian interview.md:23  「Marian's drama is genuine vs」→ 内容词 2/3 命中（drama/genuine）——疑漏词或改写
+  🟠 ch11 marian interview.md:29  「Marian's   is her dramatic opening」→ 内容词 1/3 命中（opening）——疑漏词或改写
+  🟠 ch11 marian interview.md:29  「she frames herself as victim of police persecution」→ 内容词 4/5 命中（frames/herself/police/victim）——疑漏词或改写
+  🟠 ch11 marian interview.md:29  「is her assumption that police are the only threat」→ 内容词 2/3 命中（police/threat）——疑漏词或改写
+  🟠 ch11 marian interview.md:30  「she's not under arrest」→ 内容词 1/2 命中（arrest）——疑漏词或改写
+  🟠 ch11 marian interview.md:30  「Marian's drama is genuine vs」→ 内容词 2/3 命中（drama/genuine）——疑漏词或改写
+  🟠 ch11 marian interview.md:36  「she can't say   directly」→ 内容词 2/3 命中（directly/say）——疑漏词或改写
+  🟠 ch11 marian interview.md:36  「Marian's disdain for journalism」→ 内容词 2/3 命中（disdain/journalism）——疑漏词或改写
+  🟠 ch11 marian interview.md:36  「not as an independent journalist」→ 内容词 2/2 命中（independent/journalist）——疑漏词或改写
+  🟠 ch11 marian interview.md:37  「is her attempt to control the narrative」→ 内容词 3/3 命中（attempt/control/narrative）——疑漏词或改写
+  🟠 ch11 marian interview.md:37  「Cat asserts her professional independence」→ 内容词 2/4 命中（cat/professional）——疑漏词或改写
+  🟠 ch11 marian interview.md:45  「Marian a chance to amend her story without admitting she」→ 内容词 5/7 命中（chance/lied/marian/story）——疑漏词或改写
+  🟠 ch11 marian interview.md:45  「offer a face-saving exit」→ 内容词 2/3 命中（exit/offer）——疑漏词或改写
+  🟠 ch11 marian interview.md:46  「Ah, well, I'm embarrassed to say you've caught me」→ 内容词 4/6 命中（caught/embarrassed/say/well）——疑漏词或改写
+  🟠 ch11 marian interview.md:46  「Marian's   story is the whole truth」→ 内容词 3/4 命中（story/truth/whole）——疑漏词或改写
+  🟠 ch11 marian interview.md:52  「McKinsey days, flowerpot full of butts.」→ 内容词 5/5 命中（butts/days/flowerpot/full）——疑漏词或改写
+  🟠 ch11 marian interview.md:52  「Marian's   is her face-saving narrative」→ 内容词 1/3 命中（narrative）——疑漏词或改写
+  🟠 ch11 marian interview.md:52  「not doing anything suspicious」→ 内容词 3/3 命中（anything/doing/suspicious）——疑漏词或改写
+  🟠 ch11 marian interview.md:52  「The   is her explanation」→ 内容词 1/1 命中（explanation）——疑漏词或改写
+  🟠 ch11 marian interview.md:52  「book anxiety from ch」→ 内容词 2/2 命中（anxiety/book）——疑漏词或改写
+  🟠 ch11 marian interview.md:53  「Marian's   story may be true or may be a cover」→ 内容词 3/4 命中（cover/story/true）——疑漏词或改写
+  🟠 ch11 marian interview.md:53  「shows her concern for image」→ 内容词 2/3 命中（concern/image）——疑漏词或改写
+  🟠 ch11 marian interview.md:59  「Marian's   is her hypothesis about the website hack」→ 内容词 1/4 命中（website）——疑漏词或改写
+  🟠 ch11 marian interview.md:59  「establishes the power dynamic」→ 内容词 1/3 命中（power）——疑漏词或改写
+  🟠 ch11 marian interview.md:59  「revenge for being fired」→ 内容词 2/2 命中（fired/revenge）——疑漏词或改写
+  🟠 ch11 marian interview.md:60  「is now a suspect in the sabotage」→ 内容词 2/2 命中（sabotage/suspect）——疑漏词或改写
+  🟠 ch11 marian interview.md:60  「and potentially the murder」→ 内容词 2/2 命中（murder/potentially）——疑漏词或改写
+  🟠 ch11 marian interview.md:60  「Clarity's grudge extends to violence」→ 内容词 1/4 命中（violence）——疑漏词或改写
+  🟠 ch11 marian interview.md:66  「Marian's self-justification is the chapter's character r」→ 内容词 2/5 命中（character/revelation）——疑漏词或改写
+  🟠 ch11 marian interview.md:66  「Marian's transactional view of people」→ 内容词 2/4 命中（people/view）——疑漏词或改写
+  🟠 ch11 marian interview.md:67  「Marian's   is likely the bullying」→ 内容词 1/3 命中（likely）——疑漏词或改写
+  🟠 ch11 marian interview.md:67  「Marian's self-assessment is reliable」→ 内容词 1/3 命中（reliable）——疑漏词或改写
+  🟠 ch11 marian interview.md:75  「then distances herself from consequences」→ 内容词 2/3 命中（consequences/herself）——疑漏词或改写
+  🟠 ch11 marian interview.md:76  「Clarity's motive for sabotage」→ 内容词 2/3 命中（motive/sabotage）——疑漏词或改写
+  🟠 ch11 marian interview.md:76  「Clarity's revenge extends beyond online harassment」→ 内容词 4/6 命中（beyond/harassment/online/revenge）——疑漏词或改写
+  🟠 ch11 marian interview.md:82  「Marian's   walls reveal her as eavesdropper」→ 内容词 3/4 命中（eavesdropper/reveal/walls）——疑漏词或改写
+  🟠 ch11 marian interview.md:82  「is her disdainful description of」→ 内容词 1/2 命中（disdainful）——疑漏词或改写
+  🟠 ch11 marian interview.md:82  「is the chapter's key revelation」→ 内容词 2/3 命中（key/revelation）——疑漏词或改写
+  🟠 ch11 marian interview.md:82  「Bliss the night she died」→ 内容词 3/3 命中（bliss/died/night）——疑漏词或改写
+  🟠 ch11 marian interview.md:83  「Bliss the night she died」→ 内容词 3/3 命中（bliss/died/night）——疑漏词或改写
+  🟠 ch11 marian interview.md:83  「Bodhi's affair connects to」→ 内容词 1/3 命中（affair）——疑漏词或改写
+  🟠 ch11 marian interview.md:134  「slept through」→ 内容词 2/2 命中（slept/through）——疑漏词或改写
+  🟠 ch11 marian interview.md:134  「Bodhi sneaking out night of murder」→ 内容词 5/5 命中（bodhi/murder/night/out）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:10  「he ratted her to cops」→ 内容词 2/2 命中（cops/ratted）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:13  「target of threats」→ 内容词 2/2 命中（target/threats）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:13  「suspect with affair」→ 内容词 2/2 命中（affair/suspect）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:13  「grieving partner」→ 内容词 2/2 命中（grieving/partner）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:14  「Janet's texts as chapter-ending reveal」→ 内容词 2/4 命中（reveal/texts）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:22  「Bodhi's workshop rhetoric is the chapter's satire target」→ 内容词 2/6 命中（target/workshop）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:22  「and   are his pseudo-spiritual language」→ 内容词 1/2 命中（language）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:22  「his energy is performative」→ 内容词 1/2 命中（energy）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:22  「contrasts with his   brand」→ 内容词 1/2 命中（brand）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:23  「Track how his   language masks his affair with」→ 内容词 4/4 命中（affair/language/masks/track）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:23  「Bliss and his threat to」→ 内容词 2/2 命中（bliss/threat）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:31  「Bodhi's ladybug anecdote is his」→ 内容词 2/3 命中（anecdote/ladybug）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:31  「is his performance of grief」→ 内容词 2/2 命中（grief/performance）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:31  「his grief is also self-display」→ 内容词 2/3 命中（also/grief）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:31  「The triceps detail undercuts the sincerity」→ 内容词 2/4 命中（detail/triceps）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:32  「His grief performance is suspect」→ 内容词 3/3 命中（grief/performance/suspect）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:32  「Track whether his ladybug story is true or fabricated」→ 内容词 5/6 命中（ladybug/story/track/true）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:38  「Bodhi's threat is the chapter's confrontation peak」→ 内容词 1/5 命中（threat）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:38  「claim about his affair with」→ 内容词 1/2 命中（affair）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:38  「is his legal threat」→ 内容词 2/2 命中（legal/threat）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:38  「Bodhi as a suspect who's willing to threaten journalists」→ 内容词 5/6 命中（bodhi/journalists/suspect/threaten）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:39  「Bodhi's libel threat is his defensive reaction」→ 内容词 3/5 命中（libel/reaction/threat）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:39  「Track whether his threat is bluff or genuine」→ 内容词 4/5 命中（genuine/threat/track/whether）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:39  「he's a wellness guru」→ 内容词 2/3 命中（guru/wellness）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:45  「Bodhi's counter-threat is the chapter's key revelation」→ 内容词 2/5 命中（key/revelation）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:45  「he's the one who ratted her to cops」→ 内容词 3/4 命中（cops/one/ratted）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:45  「Cat's mother is also compromised」→ 内容词 3/4 命中（also/compromised/mother）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:45  「is his final expulsion」→ 内容词 1/2 命中（final）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:45  「Bodhi as someone with information about」→ 内容词 3/3 命中（bodhi/information/someone）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:46  「Bodhi is protecting himself or attacking」→ 内容词 4/4 命中（attacking/bodhi/himself/protecting）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:52  「Bree's   speech is the chapter's performance」→ 内容词 2/4 命中（performance/speech）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:52  「is her metaphor for widowhood」→ 内容词 1/2 命中（metaphor）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:52  「is her claim of special bond」→ 内容词 2/3 命中（bond/special）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:52  「ironic given their hatred」→ 内容词 3/3 命中（given/hatred/ironic）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:52  「Cat's   frames this as performance」→ 内容词 2/3 命中（frames/performance）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:53  「Bree as potential killer hiding behind grief」→ 内容词 5/6 命中（behind/bree/grief/hiding）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:59  「Genovese's text is the chapter's final revelation」→ 内容词 3/5 命中（final/revelation/text）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:59  「she's confirming the hostility」→ 内容词 1/3 命中（hostility）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:59  「This is the chapter's last line」→ 内容词 2/3 命中（last/line）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:59  「The extra a's convey」→ 内容词 2/3 命中（convey/extra）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:59  「Janet's certainty and drama」→ 内容词 1/3 命中（drama）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:59  「Bree hated each other」→ 内容词 2/2 命中（bree/hated）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:60  「Track whether this hatred led to murder」→ 内容词 5/5 命中（hatred/led/murder/track）——疑漏词或改写
+  🟠 ch12 bodhi and bree.md:110  「he ratted her to cops」→ 内容词 2/2 命中（cops/ratted）——疑漏词或改写
+  🟠 ch13 security footage.md:11  「Bliss's death may have been mistaken identity」→ 内容词 3/4 命中（death/identity/mistaken）——疑漏词或改写
+  🟠 ch13 security footage.md:12  「convoy protest in ballroom」→ 内容词 3/3 命中（ballroom/convoy/protest）——疑漏词或改写
+  🟠 ch13 security footage.md:13  「grieving partner」→ 内容词 2/2 命中（grieving/partner）——疑漏词或改写
+  🟠 ch13 security footage.md:14  「Doug's security footage as chapter-ending reveal」→ 内容词 3/5 命中（footage/reveal/security）——疑漏词或改写
+  🟠 ch13 security footage.md:22  「Bree's speech is her rebranding moment」→ 内容词 2/4 命中（moment/speech）——疑漏词或改写
+  🟠 ch13 security footage.md:22  「Bliss's anti-science rhetoric to evidence-based wellness」→ 内容词 1/5 命中（wellness）——疑漏词或改写
+  🟠 ch13 security footage.md:22  「she's claiming the business and redefining its mission」→ 内容词 2/5 命中（business/claiming）——疑漏词或改写
+  🟠 ch13 security footage.md:22  「The   is her rejection of」→ 内容词 1/1 命中（rejection）——疑漏词或改写
+  🟠 ch13 security footage.md:23  「Bree's   pivot is her taking control」→ 内容词 2/4 命中（control/taking）——疑漏词或改写
+  🟠 ch13 security footage.md:23  「Track whether this rebranding is genuine or strategic」→ 内容词 4/5 命中（genuine/strategic/track/whether）——疑漏词或改写
+  🟠 ch13 security footage.md:23  「may be her attempt to distance herself from」→ 内容词 3/3 命中（attempt/distance/herself）——疑漏词或改写
+  🟠 ch13 security footage.md:29  「The woman's   is the convoy's conspiracy theory」→ 内容词 1/4 命中（conspiracy）——疑漏词或改写
+  🟠 ch13 security footage.md:29  「Bree has been   by government」→ 内容词 2/2 命中（bree/government）——疑漏词或改写
+  🟠 ch13 security footage.md:29  「This is the wellness movement's standard narrative」→ 内容词 3/4 命中（narrative/standard/wellness）——疑漏词或改写
+  🟠 ch13 security footage.md:29  「anyone who pivots to evidence-based is」→ 内容词 1/3 命中（anyone）——疑漏词或改写
+  🟠 ch13 security footage.md:29  「The   is the physical escalation」→ 内容词 1/2 命中（physical）——疑漏词或改写
+  🟠 ch13 security footage.md:30  「Bree's pivot as betrayal」→ 内容词 1/3 命中（betrayal）——疑漏词或改写
+  🟠 ch13 security footage.md:30  「Track whether the convoy's conspiracy theories have any 」→ 内容词 5/6 命中（basis/conspiracy/theories/track）——疑漏词或改写
+  🟠 ch13 security footage.md:36  「The convoy's   is their martyrdom narrative」→ 内容词 1/3 命中（narrative）——疑漏词或改写
+  🟠 ch13 security footage.md:36  「Bliss was killed because she knew the truth」→ 内容词 5/5 命中（because/bliss/killed/knew）——疑漏词或改写
+  🟠 ch13 security footage.md:36  「This is the chapter's key irony」→ 内容词 1/3 命中（key）——疑漏词或改写
+  🟠 ch13 security footage.md:36  「is what the convoy believes」→ 内容词 2/2 命中（believes/convoy）——疑漏词或改写
+  🟠 ch13 security footage.md:36  「and her death is being weaponized」→ 内容词 1/2 命中（death）——疑漏词或改写
+  🟠 ch13 security footage.md:36  「Cat's observation of their coordination」→ 内容词 1/3 命中（observation）——疑漏词或改写
+  🟠 ch13 security footage.md:37  「The convoy's   narrative is their justification for prot」→ 内容词 2/4 命中（narrative/protest）——疑漏词或改写
+  🟠 ch13 security footage.md:37  「Track whether this narrative affects the murder investig」→ 内容词 5/6 命中（investigation/murder/narrative/track）——疑漏词或改写
+  🟠 ch13 security footage.md:43  「Bell's command is the chapter's authority moment」→ 内容词 2/5 命中（command/moment）——疑漏词或改写
+  🟠 ch13 security footage.md:43  「she takes control of the ballroom」→ 内容词 3/3 命中（ballroom/control/takes）——疑漏词或改写
+  🟠 ch13 security footage.md:43  「is her no-nonsense order」→ 内容词 1/2 命中（order）——疑漏词或改写
+  🟠 ch13 security footage.md:43  「confirms the murder investigation's seriousness」→ 内容词 2/4 命中（murder/seriousness）——疑漏词或改写
+  🟠 ch13 security footage.md:44  「Bell's command shows her authority」→ 内容词 1/4 命中（command）——疑漏词或改写
+  🟠 ch13 security footage.md:44  「Track her investigation progress」→ 内容词 2/3 命中（investigation/track）——疑漏词或改写
+  🟠 ch13 security footage.md:50  「Cat's simile for the remaining signs」→ 内容词 2/4 命中（remaining/signs）——疑漏词或改写
+  🟠 ch13 security footage.md:50  「Johnson as holdouts establishes their defiance」→ 内容词 2/4 命中（holdouts/johnson）——疑漏词或改写
+  🟠 ch13 security footage.md:51  「Johnson as holdouts show their extremism」→ 内容词 3/4 命中（holdouts/johnson/show）——疑漏词或改写
+  🟠 ch13 security footage.md:51  「Track their role in the investigation」→ 内容词 3/3 命中（investigation/role/track）——疑漏词或改写
+  🟠 ch13 security footage.md:57  「Doug's   is his pacing of the reveal」→ 内容词 2/3 命中（pacing/reveal）——疑漏词或改写
+  🟠 ch13 security footage.md:57  「is his key instruction」→ 内容词 2/2 命中（instruction/key）——疑漏词或改写
+  🟠 ch13 security footage.md:57  「This is the chapter's central clue」→ 内容词 1/3 命中（clue）——疑漏词或改写
+  🟠 ch13 security footage.md:58  「Doug's   is the chapter's turning point」→ 内容词 2/4 命中（point/turning）——疑漏词或改写
+  🟠 ch13 security footage.md:58  「Ugg boots are the key evidence」→ 内容词 4/4 命中（boots/evidence/key/ugg）——疑漏词或改写
+  🟠 ch13 security footage.md:64  「Cat's   is her excitement at the discovery」→ 内容词 1/3 命中（excitement）——疑漏词或改写
+  🟠 ch13 security footage.md:64  「on the hooded figure」→ 内容词 2/2 命中（figure/hooded）——疑漏词或改写
+  🟠 ch13 security footage.md:64  「This is the chapter's central revelation」→ 内容词 1/3 命中（revelation）——疑漏词或改写
+  🟠 ch13 security footage.md:65  「Track how this changes the investigation」→ 内容词 3/3 命中（changes/investigation/track）——疑漏词或改写
+  🟠 ch13 security footage.md:73  「Bruce's questions are the chapter's conclusion」→ 内容词 2/4 命中（conclusion/questions）——疑漏词或改写
+  🟠 ch13 security footage.md:73  「is the first question」→ 内容词 2/2 命中（first/question）——疑漏词或改写
+  🟠 ch13 security footage.md:73  「These two questions reframe the entire investigation」→ 内容词 4/5 命中（entire/investigation/questions/two）——疑漏词或改写
+  🟠 ch13 security footage.md:74  「The mistaken-identity theory is the chapter's central re」→ 内容词 1/5 命中（revelation）——疑漏词或改写
+  🟠 ch13 security footage.md:74  「Track how this changes the suspect list」→ 内容词 4/4 命中（changes/list/suspect/track）——疑漏词或改写
+  🟠 ch14 clarity k.md:10  「she was in suite all night with team」→ 内容词 3/3 命中（night/suite/team）——疑漏词或改写
+  🟠 ch14 clarity k.md:10  「mistaken identity theory crystallizes」→ 内容词 2/4 命中（identity/mistaken）——疑漏词或改写
+  🟠 ch14 clarity k.md:11  「business partner of Bliss」→ 内容词 3/3 命中（bliss/business/partner）——疑漏词或改写
+  🟠 ch14 clarity k.md:11  「mistaken identity theory confirmed」→ 内容词 2/4 命中（identity/mistaken）——疑漏词或改写
+  🟠 ch14 clarity k.md:11  「Marian as suspect emerges」→ 内容词 2/3 命中（marian/suspect）——疑漏词或改写
+  🟠 ch14 clarity k.md:13  「person with unspoken suspicion of Marian」→ 内容词 4/4 命中（marian/person/suspicion/unspoken）——疑漏词或改写
+  🟠 ch14 clarity k.md:13  「businesswoman with alibi」→ 内容词 1/2 命中（alibi）——疑漏词或改写
+  🟠 ch14 clarity k.md:14  「suite interview as scene」→ 内容词 3/3 命中（interview/scene/suite）——疑漏词或改写
+  🟠 ch14 clarity k.md:14  「Janet's texts as evidence」→ 内容词 2/3 命中（evidence/texts）——疑漏词或改写
+  🟠 ch14 clarity k.md:14  「mistaken identity theory as chapter-ending revelation」→ 内容词 3/5 命中（identity/mistaken/revelation）——疑漏词或改写
+  🟠 ch14 clarity k.md:22  「Kaydence's   is her assessment of」→ 内容词 1/2 命中（assessment）——疑漏词或改写
+  🟠 ch14 clarity k.md:22  「she's comparing her friend to a religious devotee」→ 内容词 1/5 命中（friend）——疑漏词或改写
+  🟠 ch14 clarity k.md:30  「is larger than poetry」→ 内容词 2/2 命中（larger/poetry）——疑漏词或改写
+  🟠 ch14 clarity k.md:36  「Clarity's entrance line is her performative mysticism」→ 内容词 2/5 命中（entrance/line）——疑漏词或改写
+  🟠 ch14 clarity k.md:36  「she's observing the sunset」→ 内容词 1/3 命中（sunset）——疑漏词或改写
+  🟠 ch14 clarity k.md:37  「Clarity's   is her performance」→ 内容词 1/2 命中（performance）——疑漏词或改写
+  🟠 ch14 clarity k.md:37  「Track when her performance cracks」→ 内容词 2/3 命中（performance/track）——疑漏词或改写
+  🟠 ch14 clarity k.md:43  「Cat's   is her journalistic translation of」→ 内容词 1/3 命中（journalistic）——疑漏词或改写
+  🟠 ch14 clarity k.md:43  「Cat's   is her professional action」→ 内容词 2/3 命中（action/professional）——疑漏词或改写
+  🟠 ch14 clarity k.md:43  「she's seizing the opportunity」→ 内容词 1/3 命中（opportunity）——疑漏词或改写
+  🟠 ch14 clarity k.md:44  「Cat's   shows her skill at reading through」→ 内容词 3/5 命中（reading/skill/through）——疑漏词或改写
+  🟠 ch14 clarity k.md:50  「your cloak」→ 内容词 1/1 命中（cloak）——疑漏词或改写
+  🟠 ch14 clarity k.md:50  「Cat's direct question is her investigative move」→ 内容词 3/5 命中（investigative/move/question）——疑漏词或改写
+  🟠 ch14 clarity k.md:50  「is her careful phrasing」→ 内容词 1/2 命中（careful）——疑漏词或改写
+  🟠 ch14 clarity k.md:50  「confirms the question's impact」→ 内容词 1/3 命中（impact）——疑漏词或改写
+  🟠 ch14 clarity k.md:51  「Clarity knew about the cloak before this moment」→ 内容词 5/5 命中（before/clarity/cloak/knew）——疑漏词或改写
+  🟠 ch14 clarity k.md:57  「she's distinguishing her cloak from」→ 内容词 1/3 命中（cloak）——疑漏词或改写
+  🟠 ch14 clarity k.md:58  「Clarity's willingness to show her cloak is either genuin」→ 内容词 6/8 命中（cloak/either/genuine/performance）——疑漏词或改写
+  🟠 ch14 clarity k.md:64  「Cat's direct question is the chapter's turning point」→ 内容词 3/6 命中（point/question/turning）——疑漏词或改写
+  🟠 ch14 clarity k.md:64  「The minions' gasp and」→ 内容词 1/2 命中（gasp）——疑漏词或改写
+  🟠 ch14 clarity k.md:64  「Kaydence's   show the question's impact」→ 内容词 2/4 命中（impact/show）——疑漏词或改写
+  🟠 ch14 clarity k.md:65  「Bliss's secret business partner」→ 内容词 3/4 命中（business/partner/secret）——疑漏词或改写
+  🟠 ch14 clarity k.md:65  「Clarity's business partnership motivated the murder」→ 内容词 4/5 命中（business/motivated/murder/partnership）——疑漏词或改写
+  🟠 ch14 clarity k.md:71  「Clarity's   is her sudden switch from serene poet to scr」→ 内容词 5/6 命中（poet/scrapper/serene/sudden）——疑漏词或改写
+  🟠 ch14 clarity k.md:71  「is her assessment of」→ 内容词 1/1 命中（assessment）——疑漏词或改写
+  🟠 ch14 clarity k.md:72  「Clarity's   confirms her grudge against」→ 内容词 1/4 命中（against）——疑漏词或改写
+  🟠 ch14 clarity k.md:72  「Track whether this grudge extends to murder」→ 内容词 3/5 命中（murder/track/whether）——疑漏词或改写
+  🟠 ch14 clarity k.md:80  「The chapter's final revelation is the mistaken-identity 」→ 内容词 2/5 命中（final/revelation）——疑漏词或改写
+  🟠 ch14 clarity k.md:80  「was killed by someone who targeted」→ 内容词 3/3 命中（killed/someone/targeted）——疑漏词或改写
+  🟠 ch14 clarity k.md:81  「Marian is now the prime suspect」→ 内容词 3/3 命中（marian/prime/suspect）——疑漏词或改写
+  🟠 ch14 clarity k.md:81  「she hasn't shared this with anyone yet」→ 内容词 3/4 命中（anyone/shared/yet）——疑漏词或改写
+  🟠 ch14 clarity k.md:130  「she was in suite all night with team」→ 内容词 3/3 命中（night/suite/team）——疑漏词或改写
+  🟠 ch14 clarity k.md:130  「mistaken identity theory crystallizes」→ 内容词 2/4 命中（identity/mistaken）——疑漏词或改写
+  🟠 ch15 convoy camp.md:11  「Johnson as convoy patriarch with cold anger」→ 内容词 5/5 命中（anger/cold/convoy/johnson）——疑漏词或改写
+  🟠 ch15 convoy camp.md:13  「target of violence」→ 内容词 2/2 命中（target/violence）——疑漏词或改写
+  🟠 ch15 convoy camp.md:13  「witness to Bliss's transformation」→ 内容词 1/3 命中（witness）——疑漏词或改写
+  🟠 ch15 convoy camp.md:13  「mayor's ally」→ 内容词 1/2 命中（ally）——疑漏词或改写
+  🟠 ch15 convoy camp.md:13  「convoy leader with cold fury」→ 内容词 4/4 命中（cold/convoy/fury/leader）——疑漏词或改写
+  🟠 ch15 convoy camp.md:13  「Deeandra as sympathetic mother」→ 内容词 3/3 命中（deeandra/mother/sympathetic）——疑漏词或改写
+  🟠 ch15 convoy camp.md:14  「convoy camp as horror scene」→ 内容词 3/4 命中（camp/convoy/scene）——疑漏词或改写
+  🟠 ch15 convoy camp.md:14  「Johnson's threat as chapter climax」→ 内容词 2/4 命中（chapter/threat）——疑漏词或改写
+  🟠 ch15 convoy camp.md:22  「is his original assessment」→ 内容词 2/2 命中（assessment/original）——疑漏词或改写
+  🟠 ch15 convoy camp.md:22  「This is the chapter's first character revelation」→ 内容词 3/4 命中（character/first/revelation）——疑漏词或改写
+  🟠 ch15 convoy camp.md:23  「Bliss's radicalization as something that happened to her」→ 内容词 2/4 命中（happened/something）——疑漏词或改写
+  🟠 ch15 convoy camp.md:23  「not something she chose」→ 内容词 2/2 命中（chose/something）——疑漏词或改写
+  🟠 ch15 convoy camp.md:23  「Track whether this is accurate」→ 内容词 3/3 命中（accurate/track/whether）——疑漏词或改写
+  🟠 ch15 convoy camp.md:28  「key information suppressed by the government」→ 内容词 4/4 命中（government/information/key/suppressed）——疑漏词或改写
+  🟠 ch15 convoy camp.md:28  「key information suppressed by the government」→ 内容词 4/4 命中（government/information/key/suppressed）——疑漏词或改写
+  🟠 ch15 convoy camp.md:29  「key information suppressed by the government」→ 内容词 4/4 命中（government/information/key/suppressed）——疑漏词或改写
+  🟠 ch15 convoy camp.md:29  「Danilo's diagnosis is the chapter's key character analys」→ 内容词 3/6 命中（analysis/character/key）——疑漏词或改写
+  🟠 ch15 convoy camp.md:29  「is his core insight」→ 内容词 1/2 命中（core）——疑漏词或改写
+  🟠 ch15 convoy camp.md:29  「is the conspiracy theory language」→ 内容词 2/3 命中（conspiracy/language）——疑漏词或改写
+  🟠 ch15 convoy camp.md:30  「Danilo's   is key to understanding」→ 内容词 2/3 命中（key/understanding）——疑漏词或改写
+  🟠 ch15 convoy camp.md:30  「Track whether her need for attention made her vulnerable」→ 内容词 5/7 命中（attention/made/need/track）——疑漏词或改写
+  🟠 ch15 convoy camp.md:38  「What hurt me most was how she was snuggling up to the wo」→ 内容词 22/24 命中（banners/bliss/book/brand）——疑漏词或改写
+  🟠 ch15 convoy camp.md:40  「Danilo's   is his moral indictment」→ 内容词 1/3 命中（moral）——疑漏词或改写
+  🟠 ch15 convoy camp.md:40  「Bliss's political transformation and her betrayal of the」→ 内容词 4/6 命中（betrayal/original/political/vision）——疑漏词或改写
+  🟠 ch15 convoy camp.md:41  「Bliss's   rejection connects to the convoy's anti-woke r」→ 内容词 1/6 命中（rejection）——疑漏词或改写
+  🟠 ch15 convoy camp.md:41  「Bliss's radicalization was genuine or performative」→ 内容词 1/4 命中（genuine）——疑漏词或改写
+  🟠 ch15 convoy camp.md:47  「Cat's   is her journalistic approach」→ 内容词 2/3 命中（approach/journalistic）——疑漏词或改写
+  🟠 ch15 convoy camp.md:47  「she's offering the convoy a chance to share their perspe」→ 内容词 5/6 命中（chance/convoy/offering/perspective）——疑漏词或改写
+  🟠 ch15 convoy camp.md:47  「is her de-escalation attempt」→ 内容词 1/2 命中（attempt）——疑漏词或改写
+  🟠 ch15 convoy camp.md:48  「Cat's journalistic approach backfires」→ 内容词 2/4 命中（approach/journalistic）——疑漏词或改写
+  🟠 ch15 convoy camp.md:48  「Johnson sees her as」→ 内容词 1/2 命中（johnson）——疑漏词或改写
+  🟠 ch15 convoy camp.md:48  「Cat's attempt at dialogue was naive」→ 内容词 2/4 命中（attempt/dialogue）——疑漏词或改写
+  🟠 ch15 convoy camp.md:56  「Johnson's   is his core accusation」→ 内容词 1/3 命中（core）——疑漏词或改写
+  🟠 ch15 convoy camp.md:57  「Track whether his hostility is ideological or personal」→ 内容词 4/5 命中（hostility/personal/track/whether）——疑漏词或改写
+  🟠 ch15 convoy camp.md:63  「Cat's   is her loss of control」→ 内容词 2/3 命中（control/loss）——疑漏词或改写
+  🟠 ch15 convoy camp.md:63  「she can expose them」→ 内容词 1/2 命中（them）——疑漏词或改写
+  🟠 ch15 convoy camp.md:63  「is her final insult」→ 内容词 2/2 命中（final/insult）——疑漏词或改写
+  🟠 ch15 convoy camp.md:63  「Cat at her most raw and fearless」→ 内容词 2/3 命中（cat/raw）——疑漏词或改写
+  🟠 ch15 convoy camp.md:64  「Cat's outburst is her breaking point」→ 内容词 3/4 命中（breaking/outburst/point）——疑漏词或改写
+  🟠 ch15 convoy camp.md:64  「Track whether her threat」→ 内容词 3/3 命中（threat/track/whether）——疑漏词或改写
+  🟠 ch15 convoy camp.md:70  「Cat's   is the chapter's final action」→ 内容词 2/4 命中（action/final）——疑漏词或改写
+  🟠 ch15 convoy camp.md:70  「is the chapter's ending」→ 内容词 1/2 命中（ending）——疑漏词或改写
+  🟠 ch15 convoy camp.md:70  「Cat at her most decisive」→ 内容词 2/2 命中（cat/decisive）——疑漏词或改写
+  🟠 ch15 convoy camp.md:71  「Cat's escape is her victory」→ 内容词 2/3 命中（escape/victory）——疑漏词或改写
+  🟠 ch15 convoy camp.md:71  「But the chapter's tension」→ 内容词 2/3 命中（but/tension）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:10  「I saw you write MURDER」→ 内容词 3/3 命中（murder/saw/write）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:11  「hints at her hidden past」→ 内容词 3/3 命中（hidden/hints/past）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:13  「daughter with growing suspicion of Marian」→ 内容词 4/4 命中（daughter/growing/marian/suspicion）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:13  「woman with hidden past」→ 内容词 3/3 命中（hidden/past/woman）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:13  「grieving partner」→ 内容词 2/2 命中（grieving/partner）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:13  「defensive suspect.」→ 内容词 1/2 命中（suspect）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:14  「Debbie attachment as closing image」→ 内容词 4/4 命中（attachment/closing/debbie/image）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:22  「Cat's opening is her self-deprecating humor」→ 内容词 1/4 命中（opening）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:22  「she's mocking herself for last night's convoy camp disas」→ 内容词 5/8 命中（camp/convoy/herself/last）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:22  「is her modern reference」→ 内容词 2/2 命中（modern/reference）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:23  「is her coping mechanism」→ 内容词 1/2 命中（mechanism）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:23  「Track when her self-criticism is accurate vs」→ 内容词 2/3 命中（accurate/track）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:29  「Marian's   is the chapter's most cryptic line」→ 内容词 2/4 命中（cryptic/line）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:29  「she left as soon as she graduated」→ 内容词 3/3 命中（graduated/left/soon）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:29  「implies she broke rules」→ 内容词 2/3 命中（broke/rules）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:29  「Marian's first hint at a hidden past」→ 内容词 4/5 命中（first/hidden/hint/past）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:29  「suggests she's not fully present」→ 内容词 3/4 命中（fully/present/suggests）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:30  「Marian's   is the chapter's central mystery」→ 内容词 1/4 命中（mystery）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:30  「Track whether this connects to her midnight visit to the」→ 内容词 5/6 命中（lookout/midnight/track/visit）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:36  「Cat's question about the cloak」→ 内容词 2/3 命中（cloak/question）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:37  「Marian's   is her justification for firing」→ 内容词 1/3 命中（firing）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:37  「Marian's assessment is accurate」→ 内容词 2/3 命中（accurate/assessment）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:43  「Bodhi are making plans」→ 内容词 3/3 命中（bodhi/making/plans）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:43  「Bodhi as a decision-making pair」→ 内容词 2/3 命中（bodhi/pair）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:44  「Bodhi's   suggests they're partners in something」→ 内容词 3/5 命中（partners/something/suggests）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:44  「Track whether this is business or romantic」→ 内容词 4/4 命中（business/romantic/track/whether）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:50  「is her grief excuse」→ 内容词 2/2 命中（excuse/grief）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:51  「Bree's   is her avoidance」→ 内容词 1/2 命中（avoidance）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:51  「Track whether she has something to hide」→ 内容词 4/4 命中（hide/something/track/whether）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:57  「is her specific detail」→ 内容词 1/2 命中（detail）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:57  「Bree that she knows」→ 内容词 2/2 命中（bree/knows）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:58  「SkyWord was accusation or confession」→ 内容词 1/3 命中（skyword）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:64  「she's framing   as grief expression」→ 内容词 2/4 命中（expression/grief）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:64  「Bree's attempt to control the narrative」→ 内容词 3/4 命中（attempt/control/narrative）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:65  「Track whether   was grief or accusation」→ 内容词 3/4 命中（grief/track/whether）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:71  「Cat's   is her direct question」→ 内容词 1/3 命中（question）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:71  「Bree's   is her denial of knowledge」→ 内容词 1/3 命中（knowledge）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:71  「is her deflection to authorities」→ 内容词 1/2 命中（authorities）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:72  「Bree's   may be true or false」→ 内容词 2/3 命中（false/true）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:72  「Bree knows more than she's saying」→ 内容词 3/4 命中（bree/knows/saying）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:78  「she knows she's being petty」→ 内容词 1/3 命中（knows）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:78  「is her metaphor for」→ 内容词 1/1 命中（metaphor）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:79  「Debbie reveals her own insecurity」→ 内容词 1/3 命中（debbie）——疑漏词或改写
+  🟠 ch16 lookout and bree.md:79  「Debbie is genuinely helpful or has an agenda」→ 内容词 4/4 命中（agenda/debbie/genuinely/helpful）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:10  「arrest for   based on deepfake video」→ 内容词 4/4 命中（arrest/based/deepfake/video）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:10  「her at convoy campsite」→ 内容词 2/2 命中（campsite/convoy）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:10  「but voice cloned saying」→ 内容词 3/4 命中（but/saying/voice）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:10  「Cat learns deepfake was made from her」→ 内容词 3/4 命中（cat/deepfake/made）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:11  「arrested suspect」→ 内容词 2/2 命中（arrested/suspect）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:11  「deepfake as new threat」→ 内容词 3/3 命中（deepfake/new/threat）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:13  「arrested person」→ 内容词 2/2 命中（arrested/person）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:13  「trusted ally」→ 内容词 2/2 命中（ally/trusted）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:13  「tech detective.」→ 内容词 2/2 命中（detective/tech）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:13  「Demetriou as new ally」→ 内容词 3/3 命中（ally/demetriou/new）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:20  「Cat hasn't seen the video yet」→ 内容词 4/5 命中（cat/seen/video/yet）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:22  「Amir's   is the chapter's opening」→ 内容词 1/3 命中（opening）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:22  「Cat evidence she hasn't seen yet」→ 内容词 4/5 命中（cat/evidence/seen/yet）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:23  「Amir's question establishes the deepfake mystery」→ 内容词 3/5 命中（deepfake/mystery/question）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:23  「Cat after seeing the video」→ 内容词 4/4 命中（after/cat/seeing/video）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:29  「Amir's   is the chapter's opening」→ 内容词 1/3 命中（opening）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:29  「Cat hasn't seen it yet」→ 内容词 3/4 命中（cat/seen/yet）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:29  「This establishes the chapter's central mystery」→ 内容词 1/4 命中（mystery）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:30  「Amir's   shows his concern」→ 内容词 1/3 命中（concern）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:30  「Cat after seeing the video」→ 内容词 4/4 命中（after/cat/seeing/video）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:36  「Amir's   is his demand for truth」→ 内容词 2/3 命中（demand/truth）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:36  「is his specific question」→ 内容词 1/2 命中（question）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:36  「Cat's   shows her discomfort」→ 内容词 1/3 命中（discomfort）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:37  「Amir's   is his standard」→ 内容词 1/2 命中（standard）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:37  「Cat's honesty is rewarded」→ 内容词 2/3 命中（honesty/rewarded）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:43  「Cat's confession is her actual words from ch」→ 内容词 2/4 命中（actual/words）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:43  「is her admission of mistake」→ 内容词 1/2 命中（mistake）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:43  「what the deepfake makes her appear to say」→ 内容词 4/4 命中（appear/deepfake/makes/say）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:44  「are the basis for the deepfake's fabricated threat」→ 内容词 2/4 命中（basis/threat）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:50  「The deepfake's fabricated words are the chapter's key ev」→ 内容词 3/6 命中（evidence/key/words）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:50  「is the death threat」→ 内容词 2/2 命中（death/threat）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:50  「This is what the deepfake makes」→ 内容词 2/2 命中（deepfake/makes）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:51  「The deepfake's words are more extreme than」→ 内容词 2/3 命中（extreme/words）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:51  「Track who made the deepfake and why」→ 内容词 3/3 命中（deepfake/made/track）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:57  「Friesen's arrest is the chapter's dramatic moment」→ 内容词 2/5 命中（arrest/moment）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:57  「Miranda rights are read」→ 内容词 2/3 命中（read/rights）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:57  「is his dramatic pause」→ 内容词 1/2 命中（pause）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:57  「Jones's   is her discomfort」→ 内容词 1/2 命中（discomfort）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:58  「Cat's arrest is based on the deepfake」→ 内容词 3/4 命中（arrest/based/deepfake）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:58  「Track whether the arrest damages her reputation」→ 内容词 4/5 命中（arrest/reputation/track/whether）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:64  「Gus's   is the chapter's revelation」→ 内容词 1/3 命中（revelation）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:65  「Hannah's lip-sync detection is key」→ 内容词 1/4 命中（key）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:65  「Hannah's growing role as tech detective」→ 内容词 4/5 命中（detective/growing/role/tech）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:73  「Gus's explanation is the chapter's tech breakdown」→ 内容词 3/5 命中（breakdown/explanation/tech）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:73  「is his careful phrasing」→ 内容词 1/2 命中（careful）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:74  「The deepfake was made from」→ 内容词 2/2 命中（deepfake/made）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:74  「Track who had access and motive」→ 内容词 3/3 命中（access/motive/track）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:80  「Cat's   is her realization」→ 内容词 1/2 命中（realization）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:80  「Amir trusted her enough to call his best friend」→ 内容词 6/6 命中（amir/best/call/enough）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:81  「Amir's trust is confirmed」→ 内容词 1/3 命中（trust）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:81  「Track whether this trust extends to the」→ 内容词 3/4 命中（track/trust/whether）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:131  「arrest for   based on deepfake video」→ 内容词 4/4 命中（arrest/based/deepfake/video）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:131  「her at convoy campsite」→ 内容词 2/2 命中（campsite/convoy）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:131  「but voice cloned saying」→ 内容词 3/4 命中（but/saying/voice）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:131  「Cat learns deepfake was made from her」→ 内容词 3/4 命中（cat/deepfake/made）——疑漏词或改写
+  🟠 ch17 arrest and deepfake.md:131  「Hannah's tech skills highlighted」→ 内容词 3/4 命中（highlighted/skills/tech）——疑漏词或改写
+  🟠 ch18 cloak confession.md:10  「I may be an idiot, possibly even a fraud. But I am not a」→ 内容词 6/6 命中（but/even/fraud/idiot）——疑漏词或改写
+  🟠 ch18 cloak confession.md:10  「she found cloak at base of tree」→ 内容词 4/4 命中（base/cloak/found/tree）——疑漏词或改写
+  🟠 ch18 cloak confession.md:11  「Marian's ghostwriter secret revealed」→ 内容词 3/4 命中（ghostwriter/revealed/secret）——疑漏词或改写
+  🟠 ch18 cloak confession.md:11  「Marian's denial of murder」→ 内容词 1/3 命中（murder）——疑漏词或改写
+  🟠 ch18 cloak confession.md:13  「woman with ghostwriter secret」→ 内容词 3/3 命中（ghostwriter/secret/woman）——疑漏词或改写
+  🟠 ch18 cloak confession.md:13  「daughter with growing suspicion」→ 内容词 3/3 命中（daughter/growing/suspicion）——疑漏词或改写
+  🟠 ch18 cloak confession.md:13  「Debbie as concerned friend」→ 内容词 3/3 命中（concerned/debbie/friend）——疑漏词或改写
+  🟠 ch18 cloak confession.md:23  「Debbie's dementia question is the chapter's opening shoc」→ 内容词 4/6 命中（dementia/opening/question/shock）——疑漏词或改写
+  🟠 ch18 cloak confession.md:23  「is her clinical assessment」→ 内容词 1/2 命中（assessment）——疑漏词或改写
+  🟠 ch18 cloak confession.md:23  「as possible cognitive decline rather than malice」→ 内容词 5/5 命中（cognitive/decline/malice/possible）——疑漏词或改写
+  🟠 ch18 cloak confession.md:24  「Debbie's dementia hypothesis competes with」→ 内容词 1/4 命中（dementia）——疑漏词或改写
+  🟠 ch18 cloak confession.md:24  「Track which explanation fits the evidence」→ 内容词 4/4 命中（evidence/explanation/fits/track）——疑漏词或改写
+  🟠 ch18 cloak confession.md:31  「The dinner scene establishes」→ 内容词 2/3 命中（dinner/scene）——疑漏词或改写
+  🟠 ch18 cloak confession.md:32  「Marian's   comment is her judgment」→ 内容词 2/3 命中（comment/judgment）——疑漏词或改写
+  🟠 ch18 cloak confession.md:32  「Marian's coldness is dementia or personality」→ 内容词 2/4 命中（dementia/personality）——疑漏词或改写
+  🟠 ch18 cloak confession.md:42  「Cat's   is her shock at finding the cloak」→ 内容词 3/4 命中（cloak/finding/shock）——疑漏词或改写
+  🟠 ch18 cloak confession.md:42  「is her demand for explanation」→ 内容词 2/2 命中（demand/explanation）——疑漏词或改写
+  🟠 ch18 cloak confession.md:42  「Cat's investigative mode applied to her own mother」→ 内容词 3/5 命中（investigative/mode/mother）——疑漏词或改写
+  🟠 ch18 cloak confession.md:43  「Cat's shock is the chapter's turning point」→ 内容词 3/5 命中（point/shock/turning）——疑漏词或改写
+  🟠 ch18 cloak confession.md:50  「Marian's   is her distress」→ 内容词 1/2 命中（distress）——疑漏词或改写
+  🟠 ch18 cloak confession.md:50  「Cat's   is her investigative instinct」→ 内容词 1/3 命中（investigative）——疑漏词或改写
+  🟠 ch18 cloak confession.md:50  「is the physical evidence」→ 内容词 2/2 命中（evidence/physical）——疑漏词或改写
+  🟠 ch18 cloak confession.md:51  「suggests it was on the ground」→ 内容词 2/2 命中（ground/suggests）——疑漏词或改写
+  🟠 ch18 cloak confession.md:51  「found at base of tree」→ 内容词 3/3 命中（base/found/tree）——疑漏词或改写
+  🟠 ch18 cloak confession.md:61  「is her denial of following to the murder scene」→ 内容词 3/4 命中（following/murder/scene）——疑漏词或改写
+  🟠 ch18 cloak confession.md:62  「Marian's   is her key claim」→ 内容词 1/3 命中（key）——疑漏词或改写
+  🟠 ch18 cloak confession.md:62  「Track whether this is true or a lie」→ 内容词 4/4 命中（lie/track/true/whether）——疑漏词或改写
+  🟠 ch18 cloak confession.md:75  「This is the chapter's central revelation」→ 内容词 1/3 命中（revelation）——疑漏词或改写
+  🟠 ch18 cloak confession.md:75  「Marian's books were ghostwritten」→ 内容词 1/3 命中（books）——疑漏词或改写
+  🟠 ch18 cloak confession.md:76  「Marian's ghostwriter secret is her motive for silencing」→ 内容词 3/5 命中（ghostwriter/motive/secret）——疑漏词或改写
+  🟠 ch18 cloak confession.md:76  「Track whether this motive extends to murder」→ 内容词 4/5 命中（motive/murder/track/whether）——疑漏词或改写
+  🟠 ch18 cloak confession.md:83  「I may be an idiot. Possibly even a fraud. But I am not a」→ 内容词 6/6 命中（but/even/fraud/idiot）——疑漏词或改写
+  🟠 ch18 cloak confession.md:83  「Marian's final statement of the chapter」→ 内容词 3/4 命中（chapter/final/statement）——疑漏词或改写
+  🟠 ch18 cloak confession.md:132  「I may be an idiot, possibly even a fraud. But I am not a」→ 内容词 6/6 命中（but/even/fraud/idiot）——疑漏词或改写
+  🟠 ch18 cloak confession.md:132  「she found cloak at base of tree」→ 内容词 4/4 命中（base/cloak/found/tree）——疑漏词或改写
+  🟠 ch18 cloak confession.md:132  「Marian's denial of murder」→ 内容词 1/3 命中（murder）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:10  「Bree's attempts to redirect」→ 内容词 2/3 命中（attempts/redirect）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:10  「partnership dissolution legal framework」→ 内容词 4/4 命中（dissolution/framework/legal/partnership）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:13  「person with Bree as prime suspect」→ 内容词 4/4 命中（bree/person/prime/suspect）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:13  「radio host with Bliss connection」→ 内容词 4/4 命中（bliss/connection/host/radio）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:13  「radicalized influencer.」→ 内容词 1/2 命中（influencer）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:14  「podcast transcript as evidence」→ 内容词 2/3 命中（evidence/podcast）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:22  「she's trying to put the receptionist at ease」→ 内容词 3/5 命中（put/receptionist/trying）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:22  「is her observation of his posture」→ 内容词 2/2 命中（observation/posture）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:22  「This establishes the scene」→ 内容词 1/2 命中（scene）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:23  「Cat's   observation shows her journalist's eye」→ 内容词 2/5 命中（eye/observation）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:23  「Track her investigative moves」→ 内容词 3/3 命中（investigative/moves/track）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:29  「Cat's   is her leveraging her name」→ 内容词 1/3 命中（name）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:29  「the deepfake video has made her notorious」→ 内容词 3/4 命中（deepfake/made/video）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:29  「is the receptionist's reaction」→ 内容词 1/2 命中（reaction）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:29  「he recognizes her name from the video」→ 内容词 2/3 命中（name/video）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:30  「Track how her reputation affects her investigation」→ 内容词 3/4 命中（investigation/reputation/track）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:36  「Cat's   is her diplomatic approach to」→ 内容词 1/3 命中（approach）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:36  「Cat's attempt at dialogue with」→ 内容词 2/3 命中（attempt/dialogue）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:37  「Cat's diplomatic approach to」→ 内容词 1/3 命中（approach）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:43  「framing his convoy meeting as constituent outreach」→ 内容词 2/5 命中（convoy/meeting）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:43  「is his claimed motive」→ 内容词 2/2 命中（claimed/motive）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:43  「he's positioning himself as peacemaker」→ 内容词 1/4 命中（himself）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:44  「Gerry's   framing is his cover」→ 内容词 1/3 命中（cover）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:44  「Track whether his convoy connection is political opportu」→ 内容词 6/8 命中（connection/convoy/genuine/political）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:52  「Bliss's visit was routine」→ 内容词 2/3 命中（routine/visit）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:52  「Cat's   is her evidence」→ 内容词 1/2 命中（evidence）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:53  「Was it for an interview」→ 内容词 1/1 命中（interview）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:59  「Bliss's anti-vax question is her radicalization in actio」→ 内容词 2/5 命中（action/question）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:59  「This is from the podcast transcript」→ 内容词 1/2 命中（podcast）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:59  「Bliss's conspiracy theory beliefs」→ 内容词 1/4 命中（conspiracy）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:60  「Track whether this connects to」→ 内容词 2/3 命中（track/whether）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:66  「Bliss's   is her defensive reaction to」→ 内容词 1/3 命中（reaction）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:66  「she's not confident in her position」→ 内容词 2/3 命中（confident/position）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:66  「she uses aggression to mask ignorance」→ 内容词 1/4 命中（mask）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:67  「Bliss's radicalization was genuine belief or performance」→ 内容词 3/5 命中（belief/genuine/performance）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:73  「Bliss's   is the chapter's final clue」→ 内容词 2/4 命中（clue/final）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:73  「is her commitment to her cause」→ 内容词 1/2 命中（commitment）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:73  「is her dramatic promise」→ 内容词 1/2 命中（promise）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:73  「ironic given her actual death」→ 内容词 4/4 命中（actual/death/given/ironic）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:73  「This is the chapter's closing line」→ 内容词 2/3 命中（closing/line）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:73  「from the podcast comments」→ 内容词 2/2 命中（comments/podcast）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:74  「Bliss's   is the chapter's key phrase」→ 内容词 2/4 命中（key/phrase）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:74  「Bliss's death was connected to her refusal to quit」→ 内容词 3/5 命中（connected/death/quit）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:80  「Gerry's radio monologue is the chapter's closing scene」→ 内容词 4/6 命中（closing/monologue/radio/scene）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:80  「is his pivot to audience」→ 内容词 1/2 命中（audience）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:81  「Gerry's radio show is his counter-narrative」→ 内容词 2/4 命中（radio/show）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:81  「Cat is personal or political」→ 内容词 3/3 命中（cat/personal/political）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:132  「Bree's attempts to redirect」→ 内容词 2/3 命中（attempts/redirect）——疑漏词或改写
+  🟠 ch19 gerry and bliss podcast.md:132  「partnership dissolution legal framework」→ 内容词 4/4 命中（dissolution/framework/legal/partnership）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:10  「three points」→ 内容词 2/2 命中（points/three）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:10  「not interested in public eye」→ 内容词 3/3 命中（eye/interested/public）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:10  「Flannery reinstates ad buy」→ 内容词 2/3 命中（buy/flannery）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:10  「Bree as   playing at serene」→ 内容词 3/3 命中（bree/playing/serene）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:12  「strings cut.」→ 内容词 2/2 命中（cut/strings）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:13  「journalist with good news」→ 内容词 3/3 命中（good/journalist/news）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:13  「grieving partner」→ 内容词 2/2 命中（grieving/partner）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:13  「pregnant woman on bedrest」→ 内容词 3/3 命中（bedrest/pregnant/woman）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:13  「harassed mother」→ 内容词 2/2 命中（harassed/mother）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:13  「informant about Bree.」→ 内容词 1/2 命中（bree）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:14  「Jenny conversation as closing」→ 内容词 3/3 命中（closing/conversation/jenny）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:22  「This is the chapter's first clue to」→ 内容词 2/3 命中（clue/first）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:23  「Bree's physical fragility is a clue」→ 内容词 3/4 命中（clue/fragility/physical）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:23  「Track whether it's grief」→ 内容词 3/4 命中（grief/track/whether）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:31  「is his pseudo-spiritual language」→ 内容词 1/2 命中（language）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:31  「is the feminist framing」→ 内容词 1/2 命中（feminist）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:32  「Bodhi's   pitch is ironic given」→ 内容词 2/4 命中（given/ironic）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:38  「She glanced at Bodhi」→ 内容词 2/2 命中（bodhi/glanced）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:38  「Bree's   is her response to」→ 内容词 1/2 命中（response）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:39  「Bree's   is her avoidance」→ 内容词 1/2 命中（avoidance）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:39  「Bree has something to hide」→ 内容词 3/3 命中（bree/hide/something）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:49  「she doesn't need the business」→ 内容词 2/3 命中（business/need）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:49  「she couldn't have been at the lookout」→ 内容词 1/2 命中（lookout）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:49  「she has a medical reason for not being at the murder sce」→ 内容词 4/4 命中（medical/murder/reason/scene）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:50  「Bree's bedrest is her alibi」→ 内容词 2/3 命中（alibi/bedrest）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:50  「Track whether it's genuine」→ 内容词 3/4 命中（genuine/track/whether）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:50  「The hand on abdomen suggests pregnancy」→ 内容词 4/4 命中（abdomen/hand/pregnancy/suggests）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:56  「Cat's deduction is the chapter's revelation」→ 内容词 1/4 命中（revelation）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:56  「is the physical clue」→ 内容词 2/2 命中（clue/physical）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:57  「Bree's pregnancy is the chapter's key revelation」→ 内容词 3/5 命中（key/pregnancy/revelation）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:57  「Bodhi knows and whether this connects to the murder」→ 内容词 4/5 命中（bodhi/knows/murder/whether）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:65  「Flannery's admission is the chapter's good news」→ 内容词 2/5 命中（good/news）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:65  「Flannery's is reinstating ads」→ 内容词 1/3 命中（ads）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:65  「connects to the deepfake story」→ 内容词 2/3 命中（deepfake/story）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:65  「Cat's deepfake experience triggered」→ 内容词 3/4 命中（deepfake/experience/triggered）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:66  「Track whether this is genuine or strategic」→ 内容词 4/4 命中（genuine/strategic/track/whether）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:74  「Aaron's   is his coded reference to」→ 内容词 2/3 命中（coded/reference）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:74  「who advised cancelling ads」→ 内容词 2/3 命中（ads/cancelling）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:75  「Track whether this connects to the murder」→ 内容词 3/4 命中（murder/track/whether）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:81  「Jenny's   is the chapter's closing metaphor」→ 内容词 2/4 命中（closing/metaphor）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:81  「is her assessment of」→ 内容词 1/1 命中（assessment）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:81  「is her metaphor for murder」→ 内容词 2/2 命中（metaphor/murder）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:82  「Jenny's   is a metaphor for murder」→ 内容词 2/3 命中（metaphor/murder）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:82  「Jenny knows more than she's saying」→ 内容词 3/4 命中（jenny/knows/saying）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:88  「Jenny's   is her accusation against」→ 内容词 1/3 命中（against）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:88  「is her assessment of」→ 内容词 1/1 命中（assessment）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:88  「will test her serenity」→ 内容词 1/2 命中（serenity）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:89  「Bree connects to the murder investigation」→ 内容词 3/4 命中（bree/investigation/murder）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:89  「Jenny's assessment is accurate」→ 内容词 2/3 命中（accurate/assessment）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:138  「three points」→ 内容词 2/2 命中（points/three）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:138  「not interested in public eye」→ 内容词 3/3 命中（eye/interested/public）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:138  「Flannery reinstates ad buy」→ 内容词 2/3 命中（buy/flannery）——疑漏词或改写
+  🟠 ch20 bree and jenny.md:138  「Bree as   playing at serene」→ 内容词 3/3 命中（bree/playing/serene）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:10  「rescued by bingo woman」→ 内容词 3/3 命中（bingo/rescued/woman）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:11  「Danilo's testimony adds suspects」→ 内容词 1/4 命中（suspects）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:11  「Marian's jail reveals her as suspect」→ 内容词 2/4 命中（jail/suspect）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:11  「Kyle's highway attack escalates convoy violence」→ 内容词 4/6 命中（attack/convoy/highway/violence）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:13  「target of violence + daughter of jailed suspect」→ 内容词 4/5 命中（daughter/suspect/target/violence）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:13  「jailed suspect.」→ 内容词 1/2 命中（suspect）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:14  「highway attack as chapter climax」→ 内容词 3/4 命中（attack/chapter/highway）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:20  「Bliss was conspiring with Clarity K to build a spiritual」→ 内容词 20/24 命中（ask/bliss/bliss/build）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:22  「Danilo's   is his assessment of」→ 内容词 1/2 命中（assessment）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:22  「is his metaphor for」→ 内容词 1/1 命中（metaphor）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:23  「s mistaken identity theory」→ 内容词 2/3 命中（identity/mistaken）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:29  「Danilo's summary is the chapter's key intelligence」→ 内容词 1/5 命中（key）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:30  「Bree conflict as military」→ 内容词 2/3 命中（bree/conflict）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:36  「is his admission that his information is secondhand」→ 内容词 1/3 命中（information）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:36  「Danilo's honesty about his sources」→ 内容词 2/3 命中（honesty/sources）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:37  「Danilo's information is eavesdropped」→ 内容词 1/3 命中（information）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:45  「Bodhi's financial interest in」→ 内容词 2/3 命中（financial/interest）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:46  「Bodhi's financial motive is established」→ 内容词 3/4 命中（established/financial/motive）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:46  「Track whether this connects to the murder」→ 内容词 3/4 命中（murder/track/whether）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:52  「is his assessment of」→ 内容词 1/1 命中（assessment）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:52  「Jenny as a potential witness against」→ 内容词 3/4 命中（against/jenny/witness）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:53  「Jenny as witness against」→ 内容词 3/3 命中（against/jenny/witness）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:53  「Jenny provides an alibi or not」→ 内容词 2/3 命中（alibi/jenny）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:59  「Conway's   is the chapter's shock」→ 内容词 1/3 命中（shock）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:59  「is his explanation for」→ 内容词 1/1 命中（explanation）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:59  「This is the chapter's central revelation」→ 内容词 1/3 命中（revelation）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:60  「Marian's arrest is the chapter's turning point」→ 内容词 3/5 命中（arrest/point/turning）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:60  「Marian's arrest is for murder or something else」→ 内容词 4/5 命中（arrest/else/murder/something）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:66  「Johnson's   is his threat」→ 内容词 1/2 命中（threat）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:66  「convoy has political allies」→ 内容词 3/3 命中（allies/convoy/political）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:67  「Peter's   suggests convoy has political protection」→ 内容词 4/5 命中（convoy/political/protection/suggests）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:67  「Track who these friends are」→ 内容词 2/2 命中（friends/track）——疑漏词或改写
+  🟠 ch21 danilo and marian jail.md:118  「rescued by bingo woman」→ 内容词 3/3 命中（bingo/rescued/woman）——疑漏词或改写
+  🟠 ch22 marian arrested.md:10  「Cat arrives at police station」→ 内容词 3/4 命中（cat/police/station）——疑漏词或改写
+  🟠 ch22 marian arrested.md:10  「Marian in break room」→ 内容词 3/3 命中（break/marian/room）——疑漏词或改写
+  🟠 ch22 marian arrested.md:11  「Debbie as sister revelation」→ 内容词 3/3 命中（debbie/revelation/sister）——疑漏词或改写
+  🟠 ch22 marian arrested.md:13  「daughter of arrested suspect + target of violence」→ 内容词 5/5 命中（arrested/daughter/suspect/target）——疑漏词或改写
+  🟠 ch22 marian arrested.md:13  「jailed suspect」→ 内容词 1/2 命中（suspect）——疑漏词或改写
+  🟠 ch22 marian arrested.md:13  「Marian's sister.」→ 内容词 1/2 命中（sister）——疑漏词或改写
+  🟠 ch22 marian arrested.md:22  「Cat's   joke is her coping mechanism」→ 内容词 2/4 命中（joke/mechanism）——疑漏词或改写
+  🟠 ch22 marian arrested.md:22  「she's been at the police station so many times」→ 内容词 4/5 命中（many/police/station/times）——疑漏词或改写
+  🟠 ch22 marian arrested.md:22  「Cat's humor under stress」→ 内容词 1/3 命中（stress）——疑漏词或改写
+  🟠 ch22 marian arrested.md:23  「Cat's humor is her defense mechanism」→ 内容词 1/4 命中（mechanism）——疑漏词或改写
+  🟠 ch22 marian arrested.md:23  「Track when it fails」→ 内容词 1/2 命中（track）——疑漏词或改写
+  🟠 ch22 marian arrested.md:31  「Bell's   is her clinical question」→ 内容词 1/3 命中（question）——疑漏词或改写
+  🟠 ch22 marian arrested.md:32  「Cat's   reframing is her demand for recognition」→ 内容词 2/4 命中（demand/recognition）——疑漏词或改写
+  🟠 ch22 marian arrested.md:32  「Bell takes her seriously」→ 内容词 3/3 命中（bell/seriously/takes）——疑漏词或改写
+  🟠 ch22 marian arrested.md:38  「Cat's   is her decision」→ 内容词 1/2 命中（decision）——疑漏词或改写
+  🟠 ch22 marian arrested.md:38  「she's choosing to press charges against the」→ 内容词 4/5 命中（against/charges/choosing/press）——疑漏词或改写
+  🟠 ch22 marian arrested.md:38  「Cat's moment of agency」→ 内容词 2/3 命中（agency/moment）——疑漏词或改写
+  🟠 ch22 marian arrested.md:39  「Cat's   is her standing up to bullies」→ 内容词 2/3 命中（bullies/standing）——疑漏词或改写
+  🟠 ch22 marian arrested.md:39  「Track whether this decision has consequences」→ 内容词 4/4 命中（consequences/decision/track/whether）——疑漏词或改写
+  🟠 ch22 marian arrested.md:45  「she eats chocolate immediately」→ 内容词 2/3 命中（chocolate/immediately）——疑漏词或改写
+  🟠 ch22 marian arrested.md:46  「Marian shows their dynamic」→ 内容词 1/3 命中（marian）——疑漏词或改写
+  🟠 ch22 marian arrested.md:46  「Track when it breaks down」→ 内容词 2/3 命中（down/track）——疑漏词或改写
+  🟠 ch22 marian arrested.md:52  「Cat's sarcasm is her defense against」→ 内容词 2/4 命中（against/sarcasm）——疑漏词或改写
+  🟠 ch22 marian arrested.md:53  「Cat's sarcasm is her shield」→ 内容词 1/3 命中（sarcasm）——疑漏词或改写
+  🟠 ch22 marian arrested.md:53  「Track when it drops」→ 内容词 1/2 命中（track）——疑漏词或改写
+  🟠 ch22 marian arrested.md:63  「Marian's   is her instruction」→ 内容词 1/2 命中（instruction）——疑漏词或改写
+  🟠 ch22 marian arrested.md:64  「Marian's insistence on calling」→ 内容词 1/3 命中（calling）——疑漏词或改写
+  🟠 ch22 marian arrested.md:72  「She is literally my sister. My blood.」→ 内容词 3/3 命中（blood/literally/sister）——疑漏词或改写
+  🟠 ch22 marian arrested.md:72  「confirms the biological relationship」→ 内容词 2/3 命中（biological/relationship）——疑漏词或改写
+  🟠 ch22 marian arrested.md:73  「This reframes their entire relationship」→ 内容词 2/3 命中（entire/relationship）——疑漏词或改写
+  🟠 ch22 marian arrested.md:73  「Track how this changes the investigation」→ 内容词 3/3 命中（changes/investigation/track）——疑漏词或改写
+  🟠 ch22 marian arrested.md:79  「women's primary loyalty is to husband」→ 内容词 2/4 命中（husband/loyalty）——疑漏词或改写
+  🟠 ch22 marian arrested.md:80  「Peter's ideology is shared by the convoy」→ 内容词 2/4 命中（convoy/shared）——疑漏词或改写
+  🟠 ch22 marian arrested.md:130  「Cat arrives at police station」→ 内容词 3/4 命中（cat/police/station）——疑漏词或改写
+  🟠 ch22 marian arrested.md:130  「Marian in break room」→ 内容词 3/3 命中（break/marian/room）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:10  「gave baby for adoption」→ 内容词 3/3 命中（adoption/baby/gave）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:10  「Amir if they make an offer」→ 内容词 3/3 命中（amir/make/offer）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:11  「Quill's future in question」→ 内容词 2/3 命中（future/question）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:13  「niece of Debbie」→ 内容词 1/2 命中（debbie）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:14  「Dorothy's offer as chapter-ending hope」→ 内容词 2/4 命中（hope/offer）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:22  「Stewart   is his defense of」→ 内容词 1/2 命中（stewart）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:23  「Marian's secrecy was shame」→ 内容词 2/3 命中（secrecy/shame）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:23  「Track whether this is accurate」→ 内容词 3/3 命中（accurate/track/whether）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:29  「didn't want to be with him and didn't want a baby」→ 内容词 3/5 命中（baby/want/want）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:29  「Stewart backstory is the chapter's key revelation」→ 内容词 3/5 命中（key/revelation/stewart）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:30  「Marian's pregnancy backstory explains her secrecy」→ 内容词 2/5 命中（pregnancy/secrecy）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:30  「Track whether this connects to the murder」→ 内容词 3/4 命中（murder/track/whether）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:30  「Marian's fear of exposure」→ 内容词 2/3 命中（exposure/fear）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:36  「Marian's strength and denial」→ 内容词 1/3 命中（strength）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:37  「Marian's   connects to her ghostwriter secret」→ 内容词 2/4 命中（ghostwriter/secret）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:37  「Marian's repression is a pattern」→ 内容词 1/3 命中（repression）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:43  「Debbie's   is her offer」→ 内容词 1/2 命中（offer）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:50  「Dorothy's   is the chapter's closing line」→ 内容词 2/4 命中（closing/line）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:50  「is her invitation to」→ 内容词 1/1 命中（invitation）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:50  「Amir to buy the paper」→ 内容词 3/3 命中（amir/buy/paper）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:50  「she wants the paper to go to someone who loves it」→ 内容词 3/4 命中（paper/someone/wants）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:51  「Dorothy's offer is the book's resolution for the」→ 内容词 1/4 命中（offer）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:57  「Dorothy's   is her announcement」→ 内容词 1/2 命中（announcement）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:58  「Dorothy's sale is the book's resolution for the」→ 内容词 1/4 命中（sale）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:58  「Amir can make an offer」→ 内容词 3/3 命中（amir/make/offer）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:64  「Dorothy's   is her values」→ 内容词 1/2 命中（values）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:64  「is her father's wisdom」→ 内容词 1/2 命中（wisdom）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:64  「Quill to go to someone who loves it」→ 内容词 2/3 命中（quill/someone）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:65  「Dorothy's   is her criterion for selling」→ 内容词 1/3 命中（selling）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:65  「Amir are the candidates」→ 内容词 1/2 命中（amir）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:109  「gave baby for adoption」→ 内容词 3/3 命中（adoption/baby/gave）——疑漏词或改写
+  🟠 ch23 dorothy offer.md:109  「Amir if they make an offer」→ 内容词 3/3 命中（amir/make/offer）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:10  「Marian's cloak and reported her to cops」→ 内容词 2/4 命中（cloak/cops）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:10  「Dorothy offers to sell to」→ 内容词 2/3 命中（dorothy/sell）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:11  「Clarity's minions as cloak finders」→ 内容词 2/4 命中（cloak/minions）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:11  「Marian exonerated of finding cloak herself」→ 内容词 4/5 命中（cloak/finding/herself/marian）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:13  「woman with hope (Quill + Amir)」→ 内容词 4/4 命中（amir/hope/quill/woman）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:13  「businesswoman with minions」→ 内容词 1/2 命中（minions）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:20  「the threatening note to」→ 内容词 2/2 命中（note/threatening）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:20  「Marian was not meant to be taken seriously」→ 内容词 4/4 命中（marian/meant/seriously/taken）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:22  「Zed's   is their excuse for the threatening note to」→ 内容词 3/4 命中（excuse/note/threatening）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:23  「Sharon are the cloak finders」→ 内容词 2/3 命中（cloak/sharon）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:23  「Marian accepts this explanation or sees it as harassment」→ 内容词 3/5 命中（explanation/harassment/marian）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:29  「Sharon's confession is the chapter's key revelation」→ 内容词 2/5 命中（key/revelation）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:29  「Marian's cloak and reported her」→ 内容词 1/3 命中（cloak）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:30  「Sharon are the cloak finders」→ 内容词 2/3 命中（cloak/sharon）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:30  「Marian of finding the cloak herself」→ 内容词 4/4 命中（cloak/finding/herself/marian）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:30  「Marian's other claims are true」→ 内容词 1/3 命中（true）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:36  「Clarity's management of her minions」→ 内容词 2/3 命中（management/minions）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:37  「Track whether this affects」→ 内容词 2/3 命中（track/whether）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:43  「Clarity's   is her diplomatic farewell」→ 内容词 1/3 命中（farewell）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:44  「Track whether this fear is justified」→ 内容词 4/4 命中（fear/justified/track/whether）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:50  「Amir's celebration of his divorce」→ 内容词 1/3 命中（divorce）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:50  「The quote is his way of expressing joy」→ 内容词 4/4 命中（expressing/joy/quote/way）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:51  「Amir's   signals his divorce is final」→ 内容词 2/4 命中（divorce/final）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:51  「Track whether this changes his relationship with」→ 内容词 4/4 命中（changes/relationship/track/whether）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:57  「Amir's   is his announcement」→ 内容词 1/2 命中（announcement）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:57  「the marriage was over in practice」→ 内容词 2/2 命中（marriage/practice）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:57  「is his apology for not telling」→ 内容词 2/2 命中（apology/telling）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:58  「Amir's divorce is finalized」→ 内容词 1/3 命中（divorce）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:58  「Track whether this changes his relationship with」→ 内容词 4/4 命中（changes/relationship/track/whether）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:70  「Do you ever wonder whether it's worth it」→ 内容词 4/5 命中（ever/whether/wonder/worth）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:70  「This is the chapter's romantic moment」→ 内容词 2/3 命中（moment/romantic）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:71  「Cat's   is her commitment to」→ 内容词 1/2 命中（commitment）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:71  「Track whether this moment leads to romance」→ 内容词 5/5 命中（leads/moment/romance/track）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:116  「Marian's cloak and reported her」→ 内容词 1/3 命中（cloak）——疑漏词或改写
+  🟠 ch24 clarity minions and dorothy.md:116  「Dorothy offers to sell to」→ 内容词 2/3 命中（dorothy/sell）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:10  「craves attention, blows with political wind.」→ 内容词 5/5 命中（attention/blows/craves/political）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:10  「minions confess they found cloak」→ 内容词 3/4 命中（cloak/found/minions）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:10  「Cat to eavesdrop on」→ 内容词 2/2 命中（cat/eavesdrop）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:10  「Gerry argument via air vent」→ 内容词 5/5 命中（air/argument/gerry/vent）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:10  「Bliss night she died」→ 内容词 3/3 命中（bliss/died/night）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:10  「Gerry not a killer but」→ 内容词 3/3 命中（but/gerry/killer）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:13  「person with Gerry as suspect」→ 内容词 3/3 命中（gerry/person/suspect）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:13  「Bliss's personal brand advisor.」→ 内容词 3/4 命中（advisor/brand/personal）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:22  「Debbie's   is her excitement」→ 内容词 1/2 命中（excitement）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:33  「are the chapter's key evidence」→ 内容词 2/3 命中（evidence/key）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:33  「is his accusation against」→ 内容词 1/2 命中（against）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:42  「Debbie's   is her push」→ 内容词 1/2 命中（push）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:43  「Debbie's   diagnosis is her assessment of」→ 内容词 1/3 命中（assessment）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:43  「Track their sisterly dynamic」→ 内容词 1/3 命中（track）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:51  「Cat's   is her observation」→ 内容词 1/2 命中（observation）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:52  「Track whether this affects the investigation」→ 内容词 3/4 命中（investigation/track/whether）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:60  「Debbie's revelation is the chapter's key intelligence」→ 内容词 2/5 命中（key/revelation）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:60  「is the crucial fact」→ 内容词 2/2 命中（crucial/fact）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:60  「Kyle to the murder scene」→ 内容词 3/3 命中（kyle/murder/scene）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:61  「Bliss the night she died」→ 内容词 3/3 命中（bliss/died/night）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:61  「Track whether this is opportunity for murder」→ 内容词 4/4 命中（murder/opportunity/track/whether）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:67  「Gerry is the chapter's character analysis」→ 内容词 3/4 命中（analysis/character/gerry）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:67  「Debbie's complex view of」→ 内容词 2/3 命中（complex/view）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:68  「Debbie's   is her assessment」→ 内容词 1/2 命中（assessment）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:68  「Gerry's flaws extend to murder」→ 内容词 2/4 命中（flaws/murder）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:114  「craves attention, blows with political wind」→ 内容词 5/5 命中（attention/blows/craves/political）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:114  「minions confess they found cloak」→ 内容词 3/4 命中（cloak/found/minions）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:114  「Cat to eavesdrop on」→ 内容词 2/2 命中（cat/eavesdrop）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:114  「Gerry argument via air vent」→ 内容词 5/5 命中（air/argument/gerry/vent）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:114  「Bliss night she died」→ 内容词 3/3 命中（bliss/died/night）——疑漏词或改写
+  🟠 ch25 gerry and kyle.md:114  「Gerry not a killer but」→ 内容词 3/3 命中（but/gerry/killer）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:10  「Johnson at city hall」→ 内容词 3/3 命中（city/hall/johnson）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:13  「person with clearer timeline」→ 内容词 1/3 命中（person）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:13  「convoy member」→ 内容词 2/2 命中（convoy/member）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:13  「man with alibi.」→ 内容词 2/2 命中（alibi/man）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:22  「Amir's   is the chapter's opening」→ 内容词 1/3 命中（opening）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:22  「This is the newsroom's collaborative mode」→ 内容词 1/3 命中（mode）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:23  「The whiteboard scene establishes the suspect list」→ 内容词 4/5 命中（list/scene/suspect/whiteboard）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:29  「Hannah's   is the legal reality」→ 内容词 2/3 命中（legal/reality）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:29  「This is the newsroom's honest assessment」→ 内容词 2/3 命中（assessment/honest）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:30  「Marian is still a suspect」→ 内容词 3/3 命中（marian/still/suspect）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:30  「Track whether the evidence exonerates her」→ 内容词 3/4 命中（evidence/track/whether）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:36  「Bruce's   is his direct question」→ 内容词 1/3 命中（question）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:36  「Cat's   is her warning to」→ 内容词 1/2 命中（warning）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:37  「Kyle is her investigative move」→ 内容词 3/3 命中（investigative/kyle/move）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:43  「Kyle's testimony is the chapter's key evidence」→ 内容词 2/5 命中（evidence/key）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:44  「Bliss's   is her rejection of」→ 内容词 1/2 命中（rejection）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:44  「Gerry's rejection motivated murder」→ 内容词 3/4 命中（motivated/murder/rejection）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:51  「Greybuck alibi may be verifiable」→ 内容词 2/3 命中（alibi/greybuck）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:51  「Gerry is truly innocent」→ 内容词 3/3 命中（gerry/innocent/truly）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:57  「Debbie's   is her cover for interrogating」→ 内容词 1/3 命中（cover）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:66  「Hannah's   is her assessment」→ 内容词 1/2 命中（assessment）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:66  「This is the chapter's opening scene」→ 内容词 2/3 命中（opening/scene）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:66  「The suspect list is established」→ 内容词 3/3 命中（established/list/suspect）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:67  「is the chapter's framework」→ 内容词 1/2 命中（framework）——疑漏词或改写
+  🟠 ch26 kyle interrogation.md:115  「Johnson at city hall」→ 内容词 3/3 命中（city/hall/johnson）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:10  「Lewis off from granddaughter」→ 内容词 3/3 命中（granddaughter/lewis/off）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:10  「Lewis flees via fire escape toward lookout when confront」→ 内容词 7/8 命中（confronted/escape/fire/lewis）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:13  「person chasing suspect」→ 内容词 2/3 命中（person/suspect）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:13  「fleeing suspect」→ 内容词 1/2 命中（suspect）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:13  「convoy member + Bliss's friend.」→ 内容词 3/4 命中（convoy/friend/member）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:22  「Hannah's discovery is the chapter's first revelation」→ 内容词 2/5 命中（first/revelation）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:22  「Lewis lied about his assignment」→ 内容词 3/3 命中（assignment/lewis/lied）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:22  「is the editor's reaction」→ 内容词 1/2 命中（reaction）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:23  「Lewis's fake assignment is his first deception」→ 内容词 3/5 命中（assignment/fake/first）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:23  「Track what else he's lying about」→ 内容词 3/4 命中（else/lying/track）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:29  「is her radicalization path」→ 内容词 1/2 命中（path）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:29  「is her anti-establishment stance」→ 内容词 1/2 命中（stance）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:36  「Allison's post is her radicalization statement」→ 内容词 2/4 命中（post/statement）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:36  「is her conspiracy theory」→ 内容词 1/2 命中（conspiracy）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:36  「This is the chapter's key evidence」→ 内容词 2/3 命中（evidence/key）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:37  「Lewis has no recent photos of」→ 内容词 3/3 命中（lewis/photos/recent）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:37  「Lewis's anger at this led to violence」→ 内容词 3/4 命中（anger/led/violence）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:43  「YouTube video is her public statement」→ 内容词 4/4 命中（public/statement/video/youtube）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:43  「is her assessment of」→ 内容词 1/1 命中（assessment）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:44  「Allison's   explains her estrangement from」→ 内容词 1/3 命中（estrangement）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:44  「Lewis's anger at this led to violence」→ 内容词 3/4 命中（anger/led/violence）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:50  「Cat's   is her empathy」→ 内容词 1/2 命中（empathy）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:51  「Lewis is her investigative insight」→ 内容词 2/3 命中（investigative/lewis）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:57  「Lewis's questions are his confusion」→ 内容词 2/3 命中（confusion/questions）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:58  「Lewis's confusion may be genuine or feigned」→ 内容词 2/4 命中（confusion/genuine）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:64  「Lewis's   is his excuse to escape」→ 内容词 2/3 命中（escape/excuse）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:64  「is his rejection of」→ 内容词 1/1 命中（rejection）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:65  「Lewis's   excuse is his escape attempt」→ 内容词 3/4 命中（attempt/escape/excuse）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:65  「Track whether he flees」→ 内容词 2/3 命中（track/whether）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:73  「Bruce's   is the chapter's action」→ 内容词 1/3 命中（action）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:74  「Lewis's flight confirms his guilt」→ 内容词 2/4 命中（flight/guilt）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:84  「The chapter's final image is」→ 内容词 2/3 命中（final/image）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:84  「Lewis fleeing via fire escape toward the lookout」→ 内容词 6/7 命中（escape/fire/lewis/lookout）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:84  「is the escape route」→ 内容词 2/2 命中（escape/route）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:85  「Lewis heads for the lookout」→ 内容词 3/3 命中（heads/lewis/lookout）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:85  「Track whether he's going to destroy evidence or confess」→ 内容词 5/7 命中（destroy/evidence/going/track）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:135  「Lewis off from granddaughter」→ 内容词 3/3 命中（granddaughter/lewis/off）——疑漏词或改写
+  🟠 ch27 lewis kinross.md:135  「Lewis flees via fire escape toward lookout when confront」→ 内容词 7/8 命中（confronted/escape/fire/lewis）——疑漏词或改写
+  🟠 ch28 lewis confession.md:10  「Lewis confesses he pushed」→ 内容词 2/3 命中（lewis/pushed）——疑漏词或改写
+  🟠 ch28 lewis confession.md:10  「Bruce keep him talking」→ 内容词 3/3 命中（bruce/keep/talking）——疑漏词或改写
+  🟠 ch28 lewis confession.md:11  「Allison's phone call saves」→ 内容词 2/4 命中（call/phone）——疑漏词或改写
+  🟠 ch28 lewis confession.md:13  「person who saved a life」→ 内容词 3/3 命中（life/person/saved）——疑漏词或改写
+  🟠 ch28 lewis confession.md:13  「arrested man」→ 内容词 2/2 命中（arrested/man）——疑漏词或改写
+  🟠 ch28 lewis confession.md:13  「estranged daughter」→ 内容词 2/2 命中（daughter/estranged）——疑漏词或改写
+  🟠 ch28 lewis confession.md:13  「daughter who saved her father.」→ 内容词 3/3 命中（daughter/father/saved）——疑漏词或改写
+  🟠 ch28 lewis confession.md:14  「Allison's phone call as climax」→ 内容词 2/4 命中（call/phone）——疑漏词或改写
+  🟠 ch28 lewis confession.md:22  「Lewis's   is his confession of despair」→ 内容词 1/3 命中（despair）——疑漏词或改写
+  🟠 ch28 lewis confession.md:22  「is his assessment of the pandemic」→ 内容词 2/2 命中（assessment/pandemic）——疑漏词或改写
+  🟠 ch28 lewis confession.md:22  「is his metaphor for conspiracy thinking」→ 内容词 3/3 命中（conspiracy/metaphor/thinking）——疑漏词或改写
+  🟠 ch28 lewis confession.md:23  「Lewis's despair is genuine」→ 内容词 2/3 命中（despair/genuine）——疑漏词或改写
+  🟠 ch28 lewis confession.md:23  「Track whether his confession is truthful」→ 内容词 2/4 命中（track/whether）——疑漏词或改写
+  🟠 ch28 lewis confession.md:29  「is his metaphor for journalism」→ 内容词 2/2 命中（journalism/metaphor）——疑漏词或改写
+  🟠 ch28 lewis confession.md:29  「Cat's   confirms the connection」→ 内容词 1/3 命中（connection）——疑漏词或改写
+  🟠 ch28 lewis confession.md:29  「This is the chapter's emotional core」→ 内容词 2/3 命中（core/emotional）——疑漏词或改写
+  🟠 ch28 lewis confession.md:30  「Track whether this connection saves his life」→ 内容词 4/5 命中（connection/life/track/whether）——疑漏词或改写
+  🟠 ch28 lewis confession.md:42  「She backed away from me. She pulled away—and she went to」→ 内容词 16/19 命中（away/backed/but/cloak）——疑漏词或改写
+  🟠 ch28 lewis confession.md:44  「Lewis's confession is the chapter's central revelation」→ 内容词 1/5 命中（revelation）——疑漏词或改写
+  🟠 ch28 lewis confession.md:44  「Lewis's daughter's anti-vax stance」→ 内容词 1/4 命中（stance）——疑漏词或改写
+  🟠 ch28 lewis confession.md:44  「is his account of the accidental death」→ 内容词 3/3 命中（accidental/account/death）——疑漏词或改写
+  🟠 ch28 lewis confession.md:44  「is the physical evidence」→ 内容词 2/2 命中（evidence/physical）——疑漏词或改写
+  🟠 ch28 lewis confession.md:45  「Lewis's confession is accidental death」→ 内容词 2/4 命中（accidental/death）——疑漏词或改写
+  🟠 ch28 lewis confession.md:45  「Track whether this is truthful or self-serving」→ 内容词 2/4 命中（track/whether）——疑漏词或改写
+  🟠 ch28 lewis confession.md:51  「Lewis's   is his despair」→ 内容词 1/2 命中（despair）——疑漏词或改写
+  🟠 ch28 lewis confession.md:51  「is his suicidal intent」→ 内容词 1/2 命中（intent）——疑漏词或改写
+  🟠 ch28 lewis confession.md:51  「This is the chapter's crisis」→ 内容词 1/2 命中（crisis）——疑漏词或改写
+  🟠 ch28 lewis confession.md:52  「is the chapter's crisis」→ 内容词 1/2 命中（crisis）——疑漏词或改写
+  🟠 ch28 lewis confession.md:52  「Track whether he's stopped」→ 内容词 3/4 命中（stopped/track/whether）——疑漏词或改写
+  🟠 ch28 lewis confession.md:58  「she doesn't know if he's alive」→ 内容词 2/4 命中（alive/know）——疑漏词或改写
+  🟠 ch28 lewis confession.md:58  「This is the chapter's final line」→ 内容词 2/3 命中（final/line）——疑漏词或改写
+  🟠 ch28 lewis confession.md:59  「Track whether this leads to reconciliation」→ 内容词 3/4 命中（leads/track/whether）——疑漏词或改写
+  🟠 ch28 lewis confession.md:71  「Allison's   is her understanding」→ 内容词 1/2 命中（understanding）——疑漏词或改写
+  🟠 ch28 lewis confession.md:72  「Allison's   is the chapter's emotional turning point」→ 内容词 3/5 命中（emotional/point/turning）——疑漏词或改写
+  🟠 ch28 lewis confession.md:117  「Lewis confesses he pushed」→ 内容词 2/3 命中（lewis/pushed）——疑漏词或改写
+  🟠 ch28 lewis confession.md:117  「Bruce keep him talking」→ 内容词 3/3 命中（bruce/keep/talking）——疑漏词或改写
+  🟠 ch29 resolution.md:10  「Lewis charged with manslaughter」→ 内容词 3/3 命中（charged/lewis/manslaughter）——疑漏词或改写
+  🟠 ch29 resolution.md:10  「K on female leadership summit」→ 内容词 3/3 命中（female/leadership/summit）——疑漏词或改写
+  🟠 ch29 resolution.md:10  「Kyle reject peace bond」→ 内容词 3/4 命中（bond/kyle/peace）——疑漏词或改写
+  🟠 ch29 resolution.md:10  「Amir leaving to run for mayor」→ 内容词 4/4 命中（amir/leaving/mayor/run）——疑漏词或改写
+  🟠 ch29 resolution.md:10  「Cat offered editor job」→ 内容词 4/4 命中（cat/editor/job/offered）——疑漏词或改写
+  🟠 ch29 resolution.md:13  「man facing manslaughter」→ 内容词 3/3 命中（facing/man/manslaughter）——疑漏词或改写
+  🟠 ch29 resolution.md:13  「free woman with Clarity partnership」→ 内容词 4/4 命中（clarity/free/partnership/woman）——疑漏词或改写
+  🟠 ch29 resolution.md:22  「Cat's opening is the book's final reflection」→ 内容词 3/5 命中（final/opening/reflection）——疑漏词或改写
+  🟠 ch29 resolution.md:29  「Kyle rejected peace bond」→ 内容词 4/4 命中（bond/kyle/peace/rejected）——疑漏词或改写
+  🟠 ch29 resolution.md:29  「This is the chapter's philosophical reflection」→ 内容词 1/3 命中（reflection）——疑漏词或改写
+  🟠 ch29 resolution.md:30  「healing is a choice」→ 内容词 2/2 命中（choice/healing）——疑漏词或改写
+  🟠 ch29 resolution.md:30  「Track whether characters choose healing」→ 内容词 4/5 命中（choose/healing/track/whether）——疑漏词或改写
+  🟠 ch29 resolution.md:36  「This is the chapter's hope」→ 内容词 1/2 命中（hope）——疑漏词或改写
+  🟠 ch29 resolution.md:37  「Track whether this is sustainable」→ 内容词 2/3 命中（track/whether）——疑漏词或改写
+  🟠 ch29 resolution.md:47  「This is the chapter's hope」→ 内容词 1/2 命中（hope）——疑漏词或改写
+  🟠 ch29 resolution.md:48  「Track whether this is sustainable」→ 内容词 2/3 命中（track/whether）——疑漏词或改写
+  🟠 ch29 resolution.md:54  「Amir's divorce is finalized」→ 内容词 1/3 命中（divorce）——疑漏词或改写
+  🟠 ch29 resolution.md:54  「Track whether this leads to romance with」→ 内容词 4/4 命中（leads/romance/track/whether）——疑漏词或改写
+  🟠 ch29 resolution.md:64  「Amir's   is his question」→ 内容词 1/2 命中（question）——疑漏词或改写
+  🟠 ch29 resolution.md:65  「Amir's mayoral run is the book's political resolution」→ 内容词 2/6 命中（political/run）——疑漏词或改写
+  🟠 ch29 resolution.md:65  「Track whether he wins」→ 内容词 3/3 命中（track/whether/wins）——疑漏词或改写
+  🟠 ch29 resolution.md:73  「Bruce's   is his offer」→ 内容词 1/2 命中（offer）——疑漏词或改写
+  🟠 ch29 resolution.md:73  「the book's final line」→ 内容词 2/3 命中（final/line）——疑漏词或改写
+  🟠 ch29 resolution.md:73  「Cat becomes editor of the」→ 内容词 3/3 命中（becomes/cat/editor）——疑漏词或改写
+  🟠 ch29 resolution.md:74  「Cat's   is the book's closing line」→ 内容词 2/4 命中（closing/line）——疑漏词或改写
+  🟠 ch29 resolution.md:74  「Track whether this is a satisfying ending」→ 内容词 3/4 命中（ending/track/whether）——疑漏词或改写
+  🟠 ch29 resolution.md:80  「Kyle rejected peace bond」→ 内容词 4/4 命中（bond/kyle/peace/rejected）——疑漏词或改写
+  🟠 ch29 resolution.md:80  「This is the chapter's philosophical reflection」→ 内容词 1/3 命中（reflection）——疑漏词或改写
+  🟠 ch29 resolution.md:81  「healing is a choice」→ 内容词 2/2 命中（choice/healing）——疑漏词或改写
+  🟠 ch29 resolution.md:81  「Track whether characters choose healing」→ 内容词 4/5 命中（choose/healing/track/whether）——疑漏词或改写
+  🟠 ch29 resolution.md:130  「Lewis charged with manslaughter」→ 内容词 3/3 命中（charged/lewis/manslaughter）——疑漏词或改写
+  🟠 ch29 resolution.md:130  「K on female leadership summit」→ 内容词 3/3 命中（female/leadership/summit）——疑漏词或改写
+  🟠 ch29 resolution.md:130  「Kyle reject peace bond」→ 内容词 3/4 命中（bond/kyle/peace）——疑漏词或改写
+  🟠 ch29 resolution.md:130  「Amir leaving to run for mayor」→ 内容词 4/4 命中（amir/leaving/mayor/run）——疑漏词或改写
+  🟠 ch29 resolution.md:130  「Cat offered editor job」→ 内容词 4/4 命中（cat/editor/job/offered）——疑漏词或改写

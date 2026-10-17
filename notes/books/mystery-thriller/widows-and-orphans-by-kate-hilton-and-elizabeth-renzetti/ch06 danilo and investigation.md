@@ -55,7 +55,7 @@ modified: "2026-10-17"
 - **中文理解**："我为团队挡了一枪，y'all。我读了 Marian Conway 的新书。让我告诉你，它比第一本（她甚至没写）更充满 bullshit corporate jargon。如果你想学 empowerment，省下你的 dough，买 Dolly Parton 的唱片吧。"
 - **关键词**：took a bullet for the team——为团队挡了一枪；bullshit corporate jargon——bullshit corporate jargon；save your dough——省下你的 dough；Dolly Parton record——Dolly Parton 唱片
 - **为什么这样写**：The Goodreads review is the chapter's evidence of the book-sabotage campaign. "took a bullet for the team" is the reviewer's self-mythologizing. "which she didn't even write" is the accusation of ghostwriting (Marian's vulnerability). "bullshit corporate jargon" vs. "Dolly Parton record" is the class/culture clash (wellness/empowerment vs. working-class authenticity). This review will be key to understanding Marian's anxiety.
-- **读者视角提示**：The book sabotage may be connected to the wellness industry (Bliss's "forces of darkness" rhetoric targets corporate media). Track who benefits from attacking Marian's book.
+- **读者视角提示**：The book sabotage may be connected to the wellness industry (Bliss's "forces of darkness" rhetoric (ch3) targets corporate media). Track who benefits from attacking Marian's book.
 
 > **原句 7:** "BookTok's gone feral. Goodreads, Amazon—all of it. Terrible reviews everywhere. Marian thinks there's a targeted campaign against her." Debbie leaned closer. "Who would want to destroy your mother?"
 
