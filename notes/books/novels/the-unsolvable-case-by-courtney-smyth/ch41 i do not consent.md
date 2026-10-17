@@ -27,7 +27,7 @@ modified: "2026-10-17"
 - **中文理解**：它烧了又烧，如果那是某人拴在大地上的绳子，如果某人把整个存在都系在这件东西上，那个人也会烧起来。他们会噼啪作响、会亮起来、会尖叫。他们会第二次、可怕而暴烈地死去，然后不复存在。
 - **关键词**：someone's tether to the earth · they will burn too · It burns and
 - **为什么这样写**：把「memento mori」的设定推到逻辑终点：不是「受伤」，而是「不存在」。这段的排比（crackle / light / scream）像葬礼上的祷词。
-- **读者视角提示**：注意「Energy neither created not destroyed, but expended」——作者用热力学给「彻底消失」留了一个物理学的余地，这也是本章结尾「白光」的伏笔。
+- **读者视角提示**：注意紧随本块之后那句关于能量守恒的补充（原文写的是 not 而非规范用语 nor，本 md 只在别处照录过一次）——作者用热力学给「彻底消失」留了一个物理学的余地，这也是本章结尾「白光」的伏笔。
 
 > **原句 3:** It will go on for a long time. The creature Roly will cower in fear but it will not break apart just because the master of its fate has died. It will watch too, with interest.
 

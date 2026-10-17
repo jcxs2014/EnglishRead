@@ -1,0 +1,72 @@
+=== The Unsolvable Case · 独立审查五步法 · 逐条缺陷清单 ===
+审查方＝DSH-Mac（用户于 2026-10-17 在同一会话内发起，五步完整执行，未因「同会话」降级）
+审查基准：a 门禁全量重跑 → b 逐章归属 → c 结构扫描 → d 语义二审（5 子代理 × 50 章）→ e 总览层事实核对
+
+【阻断型 · 已全部修复（23 条内容层 + 1 条假红型工具）】
+— 假红型（工具）1 条：
+  #0 verify_quotes.py 的 RE_TRAIL_ANNOT 用 ch\d+ 不认插叙节后缀 ⇒ 00_金句精选.md「So naturally, Julian didn't see his own coming.（ch15b）」判 28/29 ❌。
+      取证：该句逐字在 text/ch15b_perimortem_ii.txt（grep -c = 1）。
+      修复：ch\d+ → ch\d+[a-z]?（与同批 verify_overview_quotes / check_overview_full 同口径；这三处是同一判据的三份副本，一并收口）。
+      回归：本书 442/442；unloved 384/384、thats-not-my-name 163/163 无退化。
+— 内容层 23 条（全部经防幻觉条款回源核实后修复）：
+  #1  ch01 导航④：改名者 Ana → Ruth（原文 Ana 对 Ruth 说 I will call you Elisabella）
+  #2  ch01 一句话概括 + 一句话总结：削发割手施动者 Ana 自伤 → Ruth 为 Ana 削发割手（原文 Ruth 持刀 + It had hurt Elisabella to hurt her）〔第 9 条 a：改事实必同步分析层〕
+  #3  ch05 导航④：担心死者是 Observer Johnson 者 Diana → Mallory（原文 Mallory said）
+  #4  ch05 一句话总结：腕镯归属与位置纠正（原文 Her gaze caught on something shiny on the body's wrist. Mallory said；长发确由 Diana 取出）
+  #5  ch07 分析层：中文 + 英文并置 `Night Mayor Vincent Van Doren` → 中文「前夜市长 Vincent Van Doren」（原文无该连续形态）
+  #6  ch07 原句2：并置者 Cornelia → Dr Ray（Cornelia 那句在上一段，不在本块引语内）
+  #7  ch25 原句2：自指译成他指（I APPEARED. YOUR GAY… /「你们的闪亮铠甲同性恋骑士」）
+  #8  ch25 原句6：引语截短（中文理解覆盖引语外 Cornelia 句与 memento mori 规则）→ 改为只覆盖本块引语
+  #9  ch22 原句5：引语截短（读者提示引用引语外 text:43 句）→ 改中文描述
+  #10 ch22 词表：possession 释义与例句错配 → 「具有；拥有（in possession of）」
+  #11 ch22 导航：章号错标 ch16 → ch20（Twenty-three hours to death 在 ch20）
+  #12 ch23 导航：章号错标 ch19 → ch17（gravediggers 在 ch17）
+  #13 ch28 原句1：计数断言「三个 destroy」→「两个」（实测 2 次）
+  #14 ch28 原句2：章号错标 ch13 → ch27（the grey 首见 ch27）
+  #15 ch30 原句7：计数「划掉两个字母」→「三个字母」（een）
+  #16 ch34 导航 + 一句话总结：「三个字高」→「三英尺高」（原文 three foot high）
+  #17 ch35 原句6：引语截短（分析覆盖引语外两段）→ 中文描述邻段
+  #18 ch35 原句1：递手杖者 Cornelia → Diana（原文 Diana said, handing over a smooth black cane）
+  #19 ch37 原句5：主语反转「你可以毁掉它」→「我可以」（原文 I could destroy it，Delilah 自陈）
+  #20 ch38 一句话总结：说话人倒置「Ezra 与 Imogen 说『不』与『绝不』」→「Imogen 说『不』、Ezra 说『绝不』」
+  #21 ch41 导航 + 一句话总结：死亡次数「第三次」→「第二次」（原文 a second terrible violent death；同步消除文件内自相矛盾）
+  #22 ch42 一句话概括：memento mori 清单纠正（death blade 已碎，实交为 planchette）
+  #23 ch45 原句6：计数「三个 learned」→「四个」（实测 4 次）
+— 系统性（关键词抽取伪影）1 类：
+  83 个碎片关键词（「Wards ’」「So it’s a」「Kill me I」「He reached out」等）分布于 56 行。
+  根因：终验期批量修复脚本用 re.findall 抽词，把 `’` 当独立 token、并产出「前缀碎片」。
+  处置：按第 8 条「凡缺陷反复出现在同一层，先问这一步是怎么生产出来的」——**改生产方式**。
+       dry-run v1（换片段）仍产出新碎片 ⇒ 改「只删不换」（碎片无信息量，删除不损失内容），3 行删空的按本块引语补词。
+       每次替换对每个保留项做 flat 包含断言，不命中即不写盘。
+  效果：check_block_keywords 阻断型 0；check_anchor 松散关键词 407 → 0。
+
+【提示型 · 只记不改（已逐条裁定并在必要处加标注）】
+  · Cornelia 原文固定 they/them，本书他处多译「他／他们」：ch26:11/121、ch27:43/44 已统一为「他们」（语义层修复，计入内容层）。
+  · 「I contain multitudes」首见 ch14（非 ch05）→ ch41 已改。
+  · 「ch01 熄灭的 witchlight」两处无据（ch01 无 witchlight 一词，首见 ch10）→ ch40/ch42 已改以 ch10 为据。
+  · 「torture／酷刑」全书 0 命中 → ch15 已改为「折磨」。
+  · 三处「唯一」类断言（ch43/44/45 各称自己为全书唯一收束章）→ 已改为「三个收束章之一」。
+  · ch44 导航「七周零两天后（11 月下旬）」→「12 月下旬」（事件 11 月 1 日夜起算）。
+  · ch26 原句1 归因（Diana 人脉 → 实为官方名册漏更 + Lucy 恻隐）；ch26 原句3、ch29 原句5 时序反（随后 → 此前）；ch33 原句8 叙述句写成对白；ch31 原句3 主语义换。
+  · ch08 原句4、ch21 原句6、ch24 原句8、ch27 原句7、ch35 原句6 等「分析层覆盖引语外相邻段」——已把其中的**英文原文**改为中文描述或标明「邻段」，分析判断本身保留。
+  · ch18/ch41 等「读者提示引用引语外英文」——已加标注（说明该句位置与原文用字）。
+  · check_struct_indep 报 ch44/ch45「⭐⭐ 进阶」空表头 2 条：该工具源码自定为**提示型**（「不进缺陷计数、不影响退出码」「是否算缺陷未在全库裁决过」），gate.sh ⑬ 亦明文放行中文括号说明 ⇒ 不在审查中顺手升级判据，记提示型。
+  · 子代理自评的「假红型」若干（跨标点拼接的关键词如 Grey, who still…、Mallory blinked, forgetting…）——按本库 `_kw_in_quote` 口径（词全在引语内即合规）判为**假红型**，不改。
+
+【审查过程自身的四点复盘（写入完工报告结论部分）】
+  1. **「换检查路径」确实换到了实现**：d 步机械子项全部走 check_analysis_indep / check_xref_indep / check_struct_indep 三个第二实现，
+     写作期用的 sweep_analysis_inline / check_crossref / audit_structure 只用于对照。check_xref_indep 的 119 条中文式引用经人判全部为正当呼应。
+  2. **说话人层人工覆盖**：5 批子代理逐条回原文 ±200 字符窗口核对，本轮**真实说话人反转 1 条**（#19 ch37 主语反转），
+     另有 3 处说话人/主语错配（#1 #3 #4 #20）。检查器在本项实测 0 覆盖——与 AGENTS 第 10 条「说话人已实测不可靠机械化」一致。
+  3. **先提交再改的纪律救了一次**：批量修复脚本中途因断言失败中断（ch21:56），前 5 个文件已写盘；
+     「修完先提交」的纪律保证了这一批中间态可回滚核对，没有出现「以为没写成半截」的静默损坏。
+  4. **「报告为 0 先怀疑工具」**：终验时 verify_quotes 显示 441/442 却常被读成「100%」——是**修复后的新状态**与**此前口径**不一致；
+     逐文件定位才查出是第三份 `ch\d+` 副本。这印证了纪律 2：自省不算数，回查动作才算数。
+
+【同会话审查的已知盲区（如实标注，供判断是否另指异实例复核）】
+  · 五个子代理共用同一批任务书与同一套判据校准材料，若判据本身有系统性偏差（如把「语境延伸词」误判为缺陷）会**成批同向偏移**；
+    本轮已对 5 批结论逐条回源并做了 4 处「子代理定阻断型 → 人判为假红/提示型」的降档，但**无法排除残余同向偏移**。
+  · 「引语截短」的边界（分析层可覆盖到多引一个邻段）在 5 批之间口径曾不一致（批 5 较严），
+    终裁采用了「为什么这样写 直接分析引语外英文 → 阻断；中文理解补叙 → 提示」这一折中，**并非机械可复现的判据**。
+  · 未做「说话人全量穷举」：只对分析层点名了说话人的块做窗口核对（约 120 块），未逐块重判所有对白的归属。
+  · 未做数字断言的全量穷举：仅核了子代理点名与自查发现的计数断言，其余「N 个词/段」类断言未逐条回原文计数。
