@@ -215,8 +215,13 @@ def load_ref(book):
     if txs:
         out = []
         for p in txs:
-            m = re.search(r'ch(\d+)', os.path.basename(p))
-            num = int(m.group(1)) if m else -1
+            # ⚠️ 键必须带字母后缀：`ch01_one.txt` 与 `ch01b_vivisection_i.txt`
+            #    同属章号 1，只用 `ch(\d+)` 建 int 键会让排序在后的那件覆盖
+            #    前一件 ⇒ `by_chap[1]` 指向插叙页，正章的全部分析层英文都被
+            #    拿去和插叙页比对（2026-10-17 The Unsolvable Case 实测：ch01
+            #    的 26 条正当短语全被误报 🔶 跨标签拼接）。
+            m = re.search(r'ch(\d+)([a-z]?)', os.path.basename(p))
+            num = (m.group(1) + m.group(2)) if m else '-1'
             raw = open(p, encoding='utf-8', errors='ignore').read()
             out.append((num, flat(raw), flat_tight(raw)))
         src = 'text/（%d 个提取件）' % len(txs)
@@ -378,16 +383,16 @@ def main():
     misses, crosses, splices, stems, partials, terms, gaps = [], [], [], [], [], [], []
     for md in mds:
         name = os.path.basename(md)
-        mnum = re.search(r'ch(\d+)', name)
-        # ⚠️ 文件名无 `chNN`（总览三篇 `00_*.md` 等）时**必须留空**，不能落成 -1：
+        mnum = re.search(r'ch(\d+)([a-z]?)', name)
+        # ⚠️ 文件名无 `chNN`（总览三篇 `00_*.md` 等）时**必须留空**，不能落成 '-1'：
         #    `load_ref` 对非章节提取件（`00_epigraph.txt` / `xx_copyright.txt` /
-        #    `xx_*_teaser.txt`）同样取不到章号 ⇒ 它们的章号也写成 -1，
-        #    于是 `by_chap[-1]` 会被**最后一个非章节件**占据（本书实测是
-        #    《The Hunger Games》试读页）。`chap_num=-1` 时 `.get(-1)` 命中该件、
+        #    `xx_*_teaser.txt`）同样取不到章号 ⇒ 它们的章号也写成 '-1'，
+        #    于是 `by_chap['-1']` 会被**最后一个非章节件**占据（本书实测是
+        #    《The Hunger Games》试读页）。`chap_num='-1'` 时 `.get('-1')` 命中该件、
         #    `chap_flat` 非空 ⇒ 下面「无对应章文本 → 用全书」的回退**永不触发**，
         #    总览里每条引语都拿试读页当参照，整篇被误报 `⚠️ 跨章`
         #    （本书实测 89 条全假红；The Disappearers 同形态 22 条）。
-        chap_num = int(mnum.group(1)) if mnum else None
+        chap_num = (mnum.group(1) + (mnum.group(2) or '')) if mnum else None
         chap_flat = by_chap.get(chap_num, '') if chap_num is not None else ''
         chap_toks = tokset.get(chap_num, set()) if chap_num is not None else set()
         if not chap_flat:                      # 该 md 无对应章文本（总览等）→ 用全书
