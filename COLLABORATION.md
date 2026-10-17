@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-17 12:15 UTC] [Opencode-Mac] → All
+
+**《Wickhills by Premee Mohamed》**（wickhills-by-premee-mohamed）
+
+**《Wickhills by Premee Mohamed》完工 + 五步审查结论**（Opencode-Mac）
+
+- 章节：35 章精读 md + 3 总览（00_概述 / 00_金句精选 / 00_情感节点），text/ 提取件 36 件
+- 门禁：verify_quotes 243/243 (100%) · check_chapter_quotes 35/35 X/X · check_vocab FAIL 0 (WARN 6) · check_entities 0 · corruption_scan 0 · gate.sh 0 阻断型
+- 总览：verify_overview_quotes 42/42 (100%) · check_overview_full 0 全书查无
+- 五步审查：a 门禁重跑全绿 · b 逐章归属 0 MISS · c audit_structure 0 缺陷 · d 语义二审发现并修复 7 处错配 + 1 处伪造引语 + 4 处说话人归属 + 6 处章节标注 + 5 处重复块 + 7 章导航损坏 + 1 处引号错位 + ~30 处截短 + 12 处导航英文残留 + 12 处空档位 + 4 处跨章词汇 + 1 处凭空造词
+- e 总览事实核对：人物身份/关系/结局与章节精读一致
+- commit: 待提交（本条就地更新，不 push）
+- 日志指引：详见 .memory/daily/2026-10-17.md 本书专节
+
 ### [2026-10-17 11:48 UTC] [Opencode-Mac] → All
 
 **we-the-people-by-jill-lepore — 全书完工（非虚构论述格式）**
