@@ -39,9 +39,9 @@ modified: "2026-10-17"
 
 **关键词**：Sometimes（Sometimes）/ silence spoke louder（silence spoke louder）
 
-**为什么这样写**："Sometimes"将 Leslie 定义 as "occasional"——not "always" but "sometimes" (occasional)。"silence spoke louder"将 Leslie 定义 as "peaceful"——not "loud" but "silence" (peaceful)。This "Sometimes, silence spoke louder" is Leslie's peace: silence speaks louder than words. Leslie's peace parallels her "I had everything I need right here" (ch45)——both show satisfaction (peace, satisfaction)。
+**为什么这样写**："Sometimes"将 Leslie 定义 as "occasional"——not "always" but "sometimes" (occasional)。"silence spoke louder"将 Leslie 定义 as "peaceful"——not "loud" but "silence" (peaceful)。This "Sometimes, silence spoke louder" is Leslie's peace: silence speaks louder than words. Leslie's peace parallels her "I have everything I need right here" (ch45)——both show satisfaction (peace, satisfaction)。
 
-**读者视角提示**：Leslie's "Sometimes, silence spoke louder" 与 "I had everything I need right here" (ch45) 形成 parallel——both show satisfaction. This parallel reveals the anti-diet theme's satisfaction turn: Leslie is satisfied (peace, satisfaction)。
+**读者视角提示**：Leslie's "Sometimes, silence spoke louder" 与 "I have everything I need right here" (ch45) 形成 parallel——both show satisfaction. This parallel reveals the anti-diet theme's satisfaction turn: Leslie is satisfied (peace, satisfaction)。
 
 ---
 
@@ -51,9 +51,9 @@ modified: "2026-10-17"
 
 **关键词**：I was grateful for（I was grateful for）/ my life with Risto（my life with Risto）
 
-**为什么这样写**："I was grateful for"将 Leslie 定义 as "grateful"——not "ungrateful" but "grateful" (grateful)。"my life with Risto"将 Leslie 定义 as "partnered"——not "alone" but "with Risto" (partnered)。This "I was grateful for my life with Risto" is Leslie's gratitude: she's grateful for her life with Risto. Leslie's gratitude parallels her "I had everything I need right here" (ch45)——both show satisfaction (gratitude, satisfaction)。
+**为什么这样写**："I was grateful for"将 Leslie 定义 as "grateful"——not "ungrateful" but "grateful" (grateful)。"my life with Risto"将 Leslie 定义 as "partnered"——not "alone" but "with Risto" (partnered)。This "I was grateful for my life with Risto" is Leslie's gratitude: she's grateful for her life with Risto. Leslie's gratitude parallels her "I have everything I need right here" (ch45)——both show satisfaction (gratitude, satisfaction)。
 
-**读者视角提示**：Leslie's "I was grateful for my life with Risto" 与 "I had everything I need right here" (ch45) 形成 parallel——both show satisfaction. This parallel reveals the anti-diet theme's satisfaction turn: Leslie is satisfied (gratitude, satisfaction)。
+**读者视角提示**：Leslie's "I was grateful for my life with Risto" 与 "I have everything I need right here" (ch45) 形成 parallel——both show satisfaction. This parallel reveals the anti-diet theme's satisfaction turn: Leslie is satisfied (gratitude, satisfaction)。
 
 ---
 
