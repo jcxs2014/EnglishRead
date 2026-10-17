@@ -40,7 +40,7 @@ modified: "2026-10-17"
 > **原句 1:** "When the little boy said the emperor was naked, he wasn’t telling anyone anything they didn’t already know. But he added to their knowledge nonetheless."
 
 - **中文理解**：小男孩喊出皇帝光着身子时，并没有告诉任何人他们原本不知道的事——可他还是给众人的知识加了东西：他让每个人知道「其他在场的人也都知道了」。
-- **句子结构**：由 when 从句起头，主句是否定 `wasn't telling anyone anything they didn't already know`，紧接 But 短句反转；第二句以 By blurting out 动名词短语作方式状语。
+- **句子结构**：由 when 从句起头，主句是否定 `wasn't telling anyone anything they didn't already know`；紧接的 But 短句以 nonetheless 收尾完成反转。
 - **关键词**：`wasn't telling anyone anything they didn't already know`、`added to their knowledge nonetheless`
 - **表达方式**：先说「他没增加信息」，再说「他还是增加了知识」——同一件事用两个否定一个肯定制造悖论式钩子。
 - **为什么这样写**：全书的定义要靠一次直觉翻转：读者原以为「知道」只关乎内容多少，作者立刻告诉你还有一个「别人知不知道你知道」的维度。本章开篇第一句不做任何铺垫，先让悖论发生。
