@@ -90,16 +90,23 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-17 15:38 UTC] [DSH-Mac] → All
 
+[when-everyone-knows-that-everyone-knows-by-steven-pinker]
 slug: when-everyone-knows-that-everyone-knows-by-steven-pinker
 《When Everyone Knows That Everyone Knows》（Steven Pinker）· 非虚构论述 · 10 件正文（序言 + 书内 Chapter 1–9）+ 总览三篇 = 13 md
-- 语料层：`verify_corpus --expect 10 --expect-source "OPF spine 实测"` PASS（spine 23 件 → 正文 10 件，装置页降级 xx_*）
-- 门禁（完整 lane · gate.sh 18 项 0 阻断型）：verify_quotes **159/159（100%）**/干净 13/13 · --full 取证 0 · check_vocab **180 行 FAIL 0**（WARN 8 全长度启发式提示型）· check_entities 0 · corruption FAIL 0 · sweep_full 100 命中/跨章 0/拼接 0/查无 0 · 逐章归属 10 章各 10/10 · quote_blocks 100 行前缀完整 · anchor/structure/空段全 0
-- 总览门禁：verify_overview_quotes **59/59**（3/3 篇）· check_overview_full A 59/拼接0/查无0、B 标签 59 对/不符 0、C 0、E H1 0 · check_overview_labels 35 条全「标注章逐字」
-- 生产方式：ch01–ch03 主会话按 8.1 证据先行手写；ch04–ch10 分派 7 个子代理并行（3 个中止未落盘、3 个中断留占位、1 个完成后重写），父会话逐章独立复验整改 21 处（词表重建 3 章、压缩引语 3 处、自造最高级 8 处、字符数口径 3 章、事实断言若干）
-- 弃用「凭记忆重打」：总览三篇由 gen_overview 从已核实章节引语池注入（模板零手打英文）
-- 工具盲区已登记：check_entities 对非虚构 H2（概览/论证结构）抽出 0 段＝真空绿，本批另建第二实现顶替，未改主工具
-- commits 11 条均未 push；五步审查未做（待用户发起）
-明细与原始门禁输出见 .memory/daily/2026-10-17.md
+- 语料层：verify_corpus --expect 10 --expect-source "OPF spine 实测" PASS（spine 23 件 → 正文 10 件，装置页降级 xx_*）
+- 完工门禁（gate.sh 18 项 0 阻断型）：verify_quotes 159/159（13/13 干净）· --full 0 · check_vocab 180 行 FAIL 0（WARN 8 提示型）· check_entities 0 · corruption 0 · sweep_full 100/跨章0/拼接0/查无0 · 逐章归属 10 章各 10/10 · 总览 59/59 · overview_full A59/B59对/C0/E0
+- 生产方式：ch01–ch03 主会话手写；ch04–ch10 子代理并行（3 个中止未落盘、3 个中断留占位、1 个重写），父会话逐章独立复验整改；总览由 gen_overview 从已核实池注入（模板零手打英文）
+- 工具盲区已登记：check_entities 对非虚构 H2（概览/论证结构）抽出 0 段＝真空绿，本批以 attic 第二实现顶替，未改主工具
+- commits 11 条均未 push
+
+五步审查（同会话，2026-10-17，DSH-Mac）：
+- a 门禁全量重跑（终值同上）｜b 逐章归属 10 章各 10/10｜c struct_indep 缺陷 0、xref_indep 英文证据报警 0、analysis_indep 612 条逐字命中（⚠️2 为句式记法）、H1 三篇全对
+- d 语义二审（3 子代理 30 块逐对核对）：阻断型 8 处全部修复——B1 ch02 句子结构张冠李戴、B2 ch10 引语证据词 rather 错、B3 总览 59 条双重引号、B4 ch07"四个动名词"、B5 ch07"六样表达"、B6 ch06"四句 Each"、B7 ch05 全章 49 处"待打磨"占位、E1 金句 24 条中文字段嵌套前缀
+- e 总览事实核对：引语逐字 59/59 逐条 grep、说话人窗口人工确认、章节标签 59 对、事实断言回原文支撑
+- 投毒自证：注入假引语后 verify 报 10/11 ❌ 并指名 ⇒ 门禁非空转
+- 修复后 gate.sh 18 项：0 条阻断型；提示型 8 条只记不改；假红 0
+- 结论：0 阻断型遗留，放行。同会话审查已知盲区：门禁重跑与语义二审由同一实例完成，如需异实例复核请另行指派
+明细见 .memory/daily/2026-10-17.md 本书条目「五步审查结论」节；原件 .memory/raw-gates/when-everyone-knows-that-everyone-knows-by-steven-pinker/
 
 ### [2026-10-17 13:42 UTC] [DSH-Mac] → All
 
