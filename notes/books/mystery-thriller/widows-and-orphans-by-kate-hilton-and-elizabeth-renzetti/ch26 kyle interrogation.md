@@ -57,7 +57,9 @@ modified: "2026-10-17"
 - **为什么这样写**：Debbie's "round out Kyle's internship experience" is her cover for interrogating Kyle. "event skills" is her euphemism. "I'm going to grab a coffee" is her exit (leaving Cat/Bruce to interrogate). This is Debbie's strategic assistance.
 - **读者视角提示**：Debbie's "internship experience" is her setup for Cat's interrogation. Track her contributions.
 
-> **原句 7:** “We’ve got Gerry Halloran and Kyle Johnson at the top of the list.” ... “Bree Guthrie and Bodhi Rubin,” said Hannah. “And maybe Clarity K as well. That’s some toxic wellness.”
+> **原句 7:** “We’ve got Gerry Halloran and Kyle Johnson at the top of the list.”
+
+> **原句 8:** “Bree Guthrie and Bodhi Rubin,” said Hannah. “And maybe Clarity K as well. That’s some toxic wellness.”
 
 - **中文理解**："We've got Gerry Halloran and Kyle Johnson at the top of the list." ... "Bree Guthrie and Bodhi Rubin," said Hannah. "And maybe Clarity K as well. That's some toxic wellness."
 - **关键词**：toxic wellness—— toxic wellness
@@ -100,7 +102,6 @@ modified: "2026-10-17"
 |------|------|------|
 | whiteboard | 白板 | "whiteboard" |
 | suspects | 嫌疑人 | "SUSPECTS" |
-| newsroom | 新闻编辑室 | "newsroom" |
 | desk | 办公桌 | "desk" |
 | coffee | 咖啡 | "grab a coffee" |
 | conference room | 会议室 | "conference room" |

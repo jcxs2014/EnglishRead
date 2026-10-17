@@ -75,9 +75,6 @@ modified: "2026-10-17"
 | fling | 一时的恋情； fling | "had a fling with her ex-boyfriend" |
 | prenatal care | 产前护理； prenatal care | "prenatal care" |
 | repression | 压抑； repression | "adept at repression" |
-| litigator | 诉讼律师； litigator | "venerable Bay Street litigator" |
-| mergers and acquisitions | 并购； mergers and acquisitions | "mergers and acquisitions expert" |
-| rainmaker | 招财进宝的人； rainmaker | "rainmaker" |
 | all my marbles | 所有理智； all my marbles | "I have all my marbles" |
 | independent journalism | 独立新闻； independent journalism | "independent journalism" |
 
@@ -90,9 +87,6 @@ modified: "2026-10-17"
 | fling | 一时的恋情 | "fling" |
 | prenatal care | 产前护理 | "prenatal care" |
 | repression | 压抑 | "repression" |
-| litigator | 诉讼律师 | "litigator" |
-| mergers and acquisitions | 并购 | "mergers and acquisitions" |
-| rainmaker | 招财进宝的人 | "rainmaker" |
 | all my marbles | 所有理智 | "all my marbles" |
 | independent journalism | 独立新闻 | "independent journalism" |
 
@@ -100,7 +94,7 @@ modified: "2026-10-17"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| sister | 姐妹 | "literally my sister" |
+| sister | 姐妹 | "“Why didn’t she tell me I have a sister" |
 | adoption | 收养 | "gave me up for adoption" |
 | birth records | 出生记录 | "birth records" |
 | genetic match | 基因匹配 | "genetic match on 23andMe" |

@@ -32,7 +32,7 @@ modified: "2026-10-17"
 > **原句 3:** Unfortunately, the good vibes were lost in a fetid stink the moment I stepped outside the front door of the Second Act and my foot sank into a suspiciously soft edition of the Quill. Shit oozed from inside and left a rancid stain on Bruce’s front-page story about tractor thefts.
 
 - **中文理解**：不幸的是，好心情在走出 Second Act 前门的瞬间就被一股恶臭冲散了——我的脚踩进了一份可疑地软的《Quill》里。粪便从里面渗出，在 Bruce 关于拖拉机盗窃案的头版报道上留下了一块酸臭的污渍。
-- **关键词**：good vibes——好心情；feted stink——恶臭；suspiciously soft edition——可疑地软的报纸；Shit oozed——粪便渗出；rancid stain——酸臭的污渍
+- **关键词**：good vibes——好心情；fetid stink——恶臭；suspiciously soft edition——可疑地软的报纸；Shit oozed——粪便渗出；rancid stain——酸臭的污渍
 - **为什么这样写**：The dog turd is the chapter's opening disruption—Cat's morning good mood (Amir's email) is literally soiled. "suspiciously soft edition" is Cat's journalist's eye (she notices the paper's wrong texture). "rancid stain on Bruce's front-page story about tractor thefts" is the indignity: even a mundane story about tractor thefts becomes collateral damage. The "shit oozed" is visceral.
 - **读者视角提示**：The protest has escalated from honking to vandalism (dog turd). This is the "anti-science idiots'" retaliation. Cat's "my old friend rage" shows her pattern: fear → rage. Track the protest escalation.
 
@@ -84,26 +84,23 @@ modified: "2026-10-17"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
+| rankled | 使恼怒；使愤愤不平 | "It rankled to see Marian tolerating prolonged physical contact from an almost-stranger" |
 | fetid | 恶臭的；发霉的 | "lost in a fetid stink" |
 | rancid | 酸臭的；腐败的 | "left a rancid stain on Bruce's front-page story" |
-| precarious | 不稳定的；危险的 | "My precarious housing was one more problem" |
 | novelty | 新奇的；新奇商品 | "the novelty clocks and umbrella hats in the window display" |
 | gentrified | 仕绅化的；高档化的 | "one of the few shops in Port Ellis that had not been gentrified" |
 | covet | 渴望；垂涎 | "tacky tat I had coveted back when I'd visited" |
 | haphazard | 杂乱无章的；随意的 | "parked in a haphazard row by the Pinerock's front door" |
 | shell-shocked | 震惊的；目瞪口呆的 | "who looked shell-shocked" |
 | bejewelled | 珠宝装饰的 | "her bejewelled hand resting on my mother's" |
-| rankled | 使恼怒；使愤愤不平 | "The fact that she hadn't sent me an advance copy to read rankled slightly." |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| dog turd | 狗屎 | "a suspiciously soft edition of the Quill" (dog turd context) |
+| dog turd | 狗屎 | "I awoke the morning after the banquet to three new messages: two complimentary emails and one less pleasant dog turd wrapped inside a copy of the Quill & Packet, left on my front stairs" |
 | novelty clocks | 新奇钟表 | "novelty clocks and umbrella hats" |
 | umbrella hats | 遮阳帽 | "umbrella hats in the window display" |
-| geriatric | 老朽的；老态龙钟的 | "My geriatric cr-v owed me nothing" |
-| cr-v | 本田 CR-V（车型） | "My geriatric cr-v owed me nothing." |
 | hayride | 干草车游行 | "city families out for a day of hayrides and apple picking" |
 | huffing and puffing | 气喘吁吁 | "After huffing and puffing up the forest trail" |
 | shell-shocked | 震惊的 | "who looked shell-shocked" |

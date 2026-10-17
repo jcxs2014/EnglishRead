@@ -31,7 +31,9 @@ modified: "2026-10-17"
 
 > **原句 3:** “That wasn’t the worst part, though,” he continued.
 
-> **原句 4:** “What hurt me most was how she was snuggling up to the worst people—racists, book banners, transphobes. When I was hired, the vision was all about diversity, expanding the brand to be more inclusive. But Bliss rejected it. She said we’d piss off our new supporters with our ‘woke pronouns.’”
+> **原句 4:** “What hurt me most was how she was snuggling up to the worst people.”
+
+> **原句 5:** “racists, book banners, transphobes. When I was hired, the vision was all about diversity, expanding the brand to be more inclusive. But Bliss rejected it. She said we’d piss off our new supporters with our ‘woke pronouns.’”
 
 - **中文理解**："That wasn't the worst part, though," he continued. "What hurt me most was how she was snuggling up to the worst people—racists, book banners, transphobes. When I was hired, the vision was all about diversity, expanding the brand to be more inclusive. But Bliss rejected it. She said we'd piss off our new supporters with our 'woke pronouns.'"
 - **关键词**：snuggling up to the worst people—— snuggling up to the worst people；racists, book banners, transphobes—— racists, book banners, transphobes；woke pronouns—— woke pronouns
@@ -77,8 +79,6 @@ modified: "2026-10-17"
 | louche dishevellment | 邋遢的放荡； louche dishevellment | "general air of louche dishevellment" |
 | cognitive ammunition | 认知弹药； cognitive ammunition | "keep whatever was left of my cognitive ammunition dry" |
 | ulterior motive | 不可告人的动机； ulterior motive | "ulterior motive in seeking his companionship" |
-| cosmic | 宇宙的； cosmic | "Much more cosmic" |
-| trajectory | 轨迹； trajectory | "I could see the trajectory" |
 | intergenerational | 代际的； intergenerational | "intergenerational cycle" |
 | scraggly | 稀疏的； scraggly | "scraggly pine trees" |
 | collapsible | 可折叠的； collapsible | "collapsible lawn chairs" |

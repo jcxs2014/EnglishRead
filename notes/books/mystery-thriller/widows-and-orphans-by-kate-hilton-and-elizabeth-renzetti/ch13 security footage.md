@@ -109,11 +109,10 @@ modified: "2026-10-17"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| ballroom | 舞厅 | "in the ballroom" |
+| ballroom | 舞厅 | "At the ballroom entrance, a collection of signs sprouted like weeds after a rainstorm" |
 | protest | 抗议 | "protesters" |
 | signs | 标语 | "signs" |
 | police | 警察 | "the police intervened" |
-| footage | 录像 | "security footage" |
 | cape | 斗篷 | "Clarity's cape" |
 | boots | 靴子 | "Ugg boots" |
 | elevator | 电梯 | "fourth-floor elevator" |

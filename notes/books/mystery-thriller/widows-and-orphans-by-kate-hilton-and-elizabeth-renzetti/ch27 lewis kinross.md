@@ -64,14 +64,20 @@ modified: "2026-10-17"
 - **为什么这样写**：Lewis's "I have to use the washroom" is his excuse to escape. "out of my life" is his rejection of Cat. "insane conspiracies" is his dismissal. "You're as bad as them" is his insult. This is Lewis's flight.
 - **读者视角提示**：Lewis's "washroom" excuse is his escape attempt. Track whether he flees.
 
-> **原句 8:** “Lewis is on the run,” he called over his shoulder. “Quick, let’s go.” ... “Not anymore. I just saw him running across the parking lot like he was on fire.”
+> **原句 8:** “Lewis is on the run,” he called over his shoulder. “Quick, let’s go.”
+
+> **原句 9:** “Not anymore. I just saw him running across the parking lot like he was on fire.”
 
 - **中文理解**："Lewis is on the run," he called over his shoulder. "Quick, let's go." ... "Not anymore. I just saw him running across the parking lot like he was on fire."
 - **关键词**：Lewis is on the run—— Lewis is on the run；running across the parking lot like he was on fire—— running across the parking lot like he was on fire
 - **为什么这样写**：Bruce's "Lewis is on the run" is the chapter's action. "running across the parking lot like he was on fire" is his observation. This is the chapter's climax—Lewis flees.
 - **读者视角提示**：Lewis's flight confirms his guilt. Track whether Cat/Bruce catch him.
 
-> **原句 9:** “He’s in the bathroom,” I called after him. ... “Not anymore. I just saw him running across the parking lot like he was on fire.” ... I flung it open to find gauzy curtains fluttering in the lake breeze, an old fire escape winding down to the ground, and Lewis Kinross disappearing into the trees—and headed for the lookout.
+> **原句 10:** “He’s in the bathroom,” I called after him.
+
+> **原句 11:** “Not anymore. I just saw him running across the parking lot like he was on fire.”
+
+> **原句 12:** I flung it open to find gauzy curtains fluttering in the lake breeze, an old fire escape winding down to the ground, and Lewis Kinross disappearing into the trees—and headed for the lookout.
 
 - **中文理解**："He's in the bathroom," I called after him. ... "Not anymore. I just saw him running across the parking lot like he was on fire." ... I flung it open to find gauzy curtains fluttering in the lake breeze, an old fire escape winding down to the ground, and Lewis Kinross disappearing into the trees—and headed for the lookout.
 - **关键词**：old fire escape winding down to the ground—— old fire escape winding down to the ground；disappearing into the trees—and headed for the lookout—— disappearing into the trees—and headed for the lookout
@@ -100,7 +106,6 @@ modified: "2026-10-17"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | sked | 日程 | "sked" |
-| estranged | 疏远的 | "estranged" |
 | convoy propaganda | 车队宣传 | "convoy propaganda" |
 | government chip | 政府芯片 | "government chip" |
 | forces of evil | 邪恶力量 | "forces of evil" |

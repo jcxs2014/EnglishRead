@@ -101,6 +101,7 @@ modified: "2026-10-17"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
+| acolyte | 追随者； acolyte | "I was wondering what I’d done to offend her when the second acolyte shot a scolding glance at her colleague and asked if we wanted a drink" |
 | Creativity Cocoon | Creativity Cocoon（品牌名） | "It wasn't my Creativity Cocoon" |
 | Nepalese collective | 尼泊尔集体； Nepalese collective | "a Nepalese collective" |
 | cashmere | 羊绒； cashmere | "Ethically sourced cashmere" |
@@ -108,7 +109,6 @@ modified: "2026-10-17"
 | tea terraces | 茶园梯田； tea terraces | "tea terraces of Sri Lanka" |
 | suite | 套房； suite | "Prime Minister's Suite" |
 | minion | 随从； minion | "Clarity's minions" |
-| acolyte | 追随者； acolyte | "acolyte" (implied) |
 | settlement | 和解金； settlement | "The settlement I got paid" |
 
 ### ⭐ 基础

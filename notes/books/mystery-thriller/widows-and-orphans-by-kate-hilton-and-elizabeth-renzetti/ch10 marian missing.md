@@ -90,7 +90,6 @@ modified: "2026-10-17"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| barn-burning | 精彩的； barn-burning | "deliver a barn-burning story" |
 | shabby | 破旧的； shabby | "shabby desk chairs" |
 | water-damaged | 水渍的； water-damaged | "water-damaged walls" |
 | pockmarked | 麻点的； pockmarked | "floor pockmarked with burn scars" |

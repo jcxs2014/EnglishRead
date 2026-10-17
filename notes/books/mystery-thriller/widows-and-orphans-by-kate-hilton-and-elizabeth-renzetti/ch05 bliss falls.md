@@ -97,13 +97,12 @@ modified: "2026-10-17"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
+| body | 尸体 | "A dead body, that’s what" |
 | deathtrap | 死亡陷阱 | "the lookout was a deathtrap" |
 | chain link | 链条围栏 | "I'd have put chain link across the whole thing" |
 | home field advantage | 主场优势 | "we had the home field advantage" |
 | accidental death | 意外死亡 | "You don't usually attend accidental deaths, do you?" |
 | terrible accident | 可怕的事故 | "There has been a terrible accident" |
-| body | 尸体 | "I found the body" (Marian's quote) |
-| lookout | 瞭望点 | "At the bottom of the lookout" |
 | face-up | 仰面的 | "She was face-up" |
 | wobble | 摇晃；动摇 | "Despite yesterday's wobble" |
 
@@ -111,8 +110,6 @@ modified: "2026-10-17"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| police car | 警车 | "A police car appeared" |
-| fire truck | 消防车 | "A fire truck passed" |
 | smoothie | 果蔬昔 | "taking a delicate sip of her smoothie." |
 | Fitbit | Fitbit 手环 | "ankle-weighted and Fitbitted" |
 | ankle-weighted | 脚踝绑重物的 | "ankle-weighted and Fitbitted" |

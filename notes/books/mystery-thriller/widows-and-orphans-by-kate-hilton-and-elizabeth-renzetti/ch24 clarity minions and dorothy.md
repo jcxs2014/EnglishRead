@@ -17,6 +17,11 @@ modified: "2026-10-17"
 
 > **原句 1:** “We didn’t think your mother would take it seriously,” said Zed.
 
+- **中文理解**：Zed's excuse—the threatening note to Marian was not meant to be taken seriously.
+- **关键词**：didn't think your mother would take it seriously—— didn't think your mother would take it seriously
+- **为什么这样写**：Zed's "We didn't think your mother would take it seriously" is their excuse for the threatening note to Marian's mother.
+- **读者视角提示**：Zed and Sharon are the cloak finders. Track whether Marian accepts this explanation or sees it as harassment.
+
 > **原句 2:** “It was meant to be ironic,” added Sharon.
 
 - **中文理解**："We didn't think your mother would take it seriously," said Zed. ... "It was meant to be ironic," added Sharon.
@@ -52,7 +57,13 @@ modified: "2026-10-17"
 - **为什么这样写**：Amir's "It's over" is his announcement. "I'm not a married man any longer" is his status. "Not that I had been for a long time, of course" is his clarification (the marriage was over in practice). "Although I know that was unclear" is his apology for not telling Cat. This is Amir's confession.
 - **读者视角提示**：Amir's divorce is finalized. Track whether this changes his relationship with Cat.
 
-> **原句 7:** “Do you ever wonder …” ... “Whether it’s worth it. All of this.” ... “I mean, we could have proper jobs somewhere else. In an office at the top of a skyscraper. With pensions and benefits and company cars.” ... “Oh, Amir,” I said, squeezing his hand. “We’d be bored. We’d be so bored.”
+> **原句 7:** “Do you ever wonder …”
+
+> **原句 8:** “Whether it’s worth it. All of this.”
+
+> **原句 9:** “I mean, we could have proper jobs somewhere else. In an office at the top of a skyscraper. With pensions and benefits and company cars.”
+
+> **原句 10:** “Oh, Amir,” I said, squeezing his hand. “We’d be bored. We’d be so bored.”
 
 - **中文理解**："Do you ever wonder …" ... "Whether it's worth it. All of this." ... "I mean, we could have proper jobs somewhere else. In an office at the top of a skyscraper. With pensions and benefits and company cars." ... "Oh, Amir," I said, squeezing his hand. "We'd be bored. We'd be so bored."
 - **关键词**：Do you ever wonder—— Do you ever wonder；proper jobs—— proper jobs；We'd be bored—— We'd be bored
@@ -71,9 +82,6 @@ modified: "2026-10-17"
 | revoking | 撤销； revoking | "I've already revoked their spa privileges" |
 | spa privileges | spa 特权； spa privileges | "spa privileges" |
 | unfettered | 无拘无束的； unfettered | "unfettered and alive" |
-| in-law suite | 婆家套房； in-law suite | "in-law suite" |
-| independent journalism | 独立新闻； independent journalism | "independent journalism" |
-| make me an offer | 向我报价； make me an offer | "make me an offer" |
 | skyscraper | 摩天大楼； skyscraper | "top of a skyscraper" |
 
 ### ⭐⭐ 进阶
@@ -86,9 +94,6 @@ modified: "2026-10-17"
 | revoking | 撤销 | "revoked" |
 | spa privileges | spa 特权 | "spa privileges" |
 | unfettered | 无拘无束的 | "unfettered" |
-| in-law suite | 婆家套房 | "in-law suite" |
-| independent journalism | 独立新闻 | "independent journalism" |
-| make me an offer | 向我报价 | "make me an offer" |
 | skyscraper | 摩天大楼 | "skyscraper" |
 
 ### ⭐ 基础

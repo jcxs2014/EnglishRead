@@ -116,10 +116,10 @@ modified: "2026-10-17"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
+| podcast | 播客 | "Some of their pandemic podcasts had generated a surprising number of views and comments" |
 | radio station | 广播电台 | "radio station" |
 | reception desk | 接待台 | "young man behind the reception desk" |
 | guest book | 访客簿 | "guest book" |
-| podcast | 播客 | "Welcome, Goddess podcast" |
 | vaccine | 疫苗 | "anti-vaccine series" |
 | human rights | 人权 | "human rights" |
 | stupid | 愚蠢的 | "Are you calling me stupid?" |

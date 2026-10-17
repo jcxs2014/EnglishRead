@@ -102,9 +102,6 @@ modified: "2026-10-17"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| park | 公园 | "Centennial Park" |
-| grass | 草 | "touch grass" |
-| spa privileges | spa 特权 | "spa privileges" |
 | eavesdrop | 偷听 | "eavesdrop on them" |
 | air vent | 通风口 | "air vent" |
 | office | 办公室 | "mayor's office" |

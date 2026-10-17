@@ -17,6 +17,11 @@ modified: "2026-10-17"
 
 > **原句 1:** “They’re coming to take me away.”
 
+- **中文理解**：Marian's dramatic opening—she frames herself as victim of police persecution.
+- **关键词**：coming to take me away—— coming to take me away
+- **为什么这样写**：Marian's "They're coming to take me away" is her dramatic opening—she frames herself as victim of police persecution.
+- **读者视角提示**：Marian's "coming to take me away" is hyperbole (she's not under arrest). Track when Marian's drama is genuine vs. performative.
+
 > **原句 2:** “The police!” she said. “Who else?”
 
 - **中文理解**："They're coming to take me away." ... "The police!" she said. "Who else?"
@@ -113,8 +118,8 @@ modified: "2026-10-17"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
+| interview | 面谈； interview | "“Inspector Bell has agreed to let us sit with Marian while she does her interview, but she said she wouldn’t wait more than half an hour" |
 | police | 警察 | "The police!" |
-| interview | 面谈； interview | "do her interview" |
 | witness | 目击者； witness | "We have a witness" |
 | cigarette | 香烟 | "to have a cigarette" |
 | habit | 习惯； habit | "terrible habit" |

@@ -17,6 +17,11 @@ modified: "2026-10-17"
 
 > **原句 1:** “You’ve seen the video?”
 
+- **中文理解**：Amir's opening question—Cat hasn't seen the video yet.
+- **关键词**：You've seen the video?—— You've seen the video?
+- **为什么这样写**：Amir's "You've seen the video?" is the chapter's opening—he's showing Cat evidence she hasn't seen yet.
+- **读者视角提示**：Amir's question establishes the deepfake mystery. Track whether Amir trusts Cat after seeing the video.
+
 > **原句 2:** “There’s a video of you at the convoy campsite. What were you doing there?”
 
 - **中文理解**："You've seen the video?" ... "There's a video of you at the convoy campsite. What were you doing there?"
@@ -88,7 +93,6 @@ modified: "2026-10-17"
 | right to remain silent | 保持沉默权； right to remain silent | "right to remain silent" |
 | right to a lawyer | 律师权； right to a lawyer | "right to a lawyer" |
 | feral | 野性的； feral | "I looked feral" |
-| sovereign | 主权的； sovereign | "sovereign" (implied) |
 | institutional | 机构的； institutional | "institutional supplier" |
 | Manor House Grey | Manor House Grey（漆色名） | "Manor House Grey" |
 

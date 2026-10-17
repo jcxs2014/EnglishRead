@@ -73,7 +73,6 @@ modified: "2026-10-17"
 | transcendent | 超越的； transcendent | "rediscover the transcendent in the mundane" |
 | mundane | 平凡的； mundane | "the transcendent in the mundane" |
 | epiphany | 顿悟； epiphany | "one moment of epiphany" |
-| alpha energy | alpha 能量； alpha energy | "the alpha energy pours off Marian" |
 | libel suit | 诽谤诉讼； libel suit | "slapped with a libel suit" |
 
 ### ⭐⭐ 进阶
@@ -95,7 +94,7 @@ modified: "2026-10-17"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| workshop | 工作坊； workshop | "Wonderstruck workshop" |
+| workshop | 工作坊； workshop | "“I don’t want to sound like a cold bitch, but I shelled out two hundred bucks for this workshop" |
 | gong | 锣 | "whacked the gong" |
 | ladybug | 瓢虫； ladybug | "ladybug on the windshield" |
 | triceps | 三头肌 | "lovingly tended triceps" |

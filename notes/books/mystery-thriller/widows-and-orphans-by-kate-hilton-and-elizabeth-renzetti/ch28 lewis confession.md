@@ -103,10 +103,10 @@ modified: "2026-10-17"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| lookout | 瞭望点 | "headed for the lookout" |
+| trees | 树 | "I whirled around to see Kaydence burst from the trees" |
+| lookout | 瞭望点 | "And he’s probably heading up to the lookout right now" |
 | cliff | 悬崖 | "edge of the cliff" |
 | wall | 墙 | "low stone wall" |
-| trees | 树 | "disappearing into the trees" |
 | phone | 电话 | "on the phone" |
 | daughter | 女儿 | "Allison" |
 | father | 父亲 | "Dad" |

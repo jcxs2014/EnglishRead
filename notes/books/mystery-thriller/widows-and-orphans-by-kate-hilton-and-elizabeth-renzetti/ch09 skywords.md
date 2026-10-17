@@ -93,7 +93,6 @@ modified: "2026-10-17"
 | rants | rants; tirades | "when she started in on one of her rants" |
 | awol | absent without leave; AWOL | "Bree's gone awol" |
 | support person | support person | "you invite a support person to come to the conference" |
-| mesmerizing | mesmerizing; captivating | "mesmerizing" (implied) |
 
 ### ⭐⭐ 进阶
 

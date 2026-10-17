@@ -22,49 +22,57 @@ modified: "2026-10-17"
 - **为什么这样写**：Cat's "loyalty card" joke is her coping mechanism—she's been at the police station so many times. "prison lattes" is her sarcasm. This is Cat's humor under stress.
 - **读者视角提示**：Cat's humor is her defense mechanism. Track when it fails.
 
-> **原句 2:** “Did you have an accident?” ... “Would you call it an accident if you’re attacked?”
+> **原句 2:** “Did you have an accident?”
+
+> **原句 3:** “Would you call it an accident if you’re attacked?”
 
 - **中文理解**："Did you have an accident?" ... "Would you call it an accident if you're attacked?"
 - **关键词**：accident—— accident；attacked—— attacked
 - **为什么这样写**：Bell's "Did you have an accident?" is her clinical question. Cat's "Would you call it an accident if you're attacked?" is her reframing—she's been attacked, not in an accident. This is Cat's assertion of victimhood.
 - **读者视角提示**：Cat's "attacked" reframing is her demand for recognition. Track whether Bell takes her seriously.
 
-> **原句 3:** “Bring them in,” I said.
+> **原句 4:** “Bring them in,” I said.
 
 - **中文理解**："Bring them in," I said.
 - **关键词**：Bring them in—— Bring them in
 - **为什么这样写**：Cat's "Bring them in" is her decision—she's choosing to press charges against the Johnsons. "Bring them in" is her command. This is Cat's moment of agency.
 - **读者视角提示**：Cat's "Bring them in" is her standing up to bullies. Track whether this decision has consequences.
 
-> **原句 4:** “Mom, have you ever known me to hold onto chocolate overnight? If you’re hungry, I’ll ask Pamela to bring you something to eat.”
+> **原句 5:** “Mom, have you ever known me to hold onto chocolate overnight? If you’re hungry, I’ll ask Pamela to bring you something to eat.”
 
 - **中文理解**："Mom, have you ever known me to hold onto chocolate overnight? If you're hungry, I'll ask Pamela to bring you something to eat."
 - **关键词**：hold onto chocolate overnight—— hold onto chocolate overnight
 - **为什么这样写**：Cat's "have you ever known me to hold onto chocolate overnight" is her humor—she eats chocolate immediately. "If you're hungry, I'll ask Pamela to bring you something to eat" is her care. This is Cat's mothering of Marian.
 - **读者视角提示**：Cat's humor with Marian shows their dynamic. Track when it breaks down.
 
-> **原句 5:** “Yes, Mom, it was me. I turned you in to the cops. I’m planning to write a tell-all memoir that will land me on Good Morning America.”
+> **原句 6:** “Yes, Mom, it was me. I turned you in to the cops. I’m planning to write a tell-all memoir that will land me on Good Morning America.”
 
 - **中文理解**："Yes, Mom, it was me. I turned you in to the cops. I'm planning to write a tell-all memoir that will land me on Good Morning America."
 - **关键词**：turned you in to the cops—— turned you in to the cops；tell-all memoir—— tell-all memoir
 - **为什么这样写**：Cat's sarcasm is her defense against Marian's accusation. "turned you in to the cops" is her sarcastic admission. "tell-all memoir that will land me on Good Morning America" is her exaggeration. This is Cat's coping mechanism.
 - **读者视角提示**：Cat's sarcasm is her shield. Track when it drops.
 
-> **原句 6:** “Call Debbie,” she said. ... “She’s the mayor’s wife. We could use all the help we can get right now.” ... “Just call her.”
+> **原句 7:** “Call Debbie,” she said.
+
+> **原句 8:** “She’s the mayor’s wife. We could use all the help we can get right now.”
+
+> **原句 9:** “Just call her.”
 
 - **中文理解**："Call Debbie," she said. ... "She's the mayor's wife. We could use all the help we can get right now." ... "Just call her."
 - **关键词**：Call Debbie—— Call Debbie；mayor's wife—— mayor's wife；Just call her—— Just call her
 - **为什么这样写**：Marian's "Call Debbie" is her instruction. "She's the mayor's wife. We could use all the help we can get right now" is her reasoning. "Just call her" is her urgency. This is Marian's desperation.
 - **读者视角提示**：Marian's insistence on calling Debbie is suspicious. Track why Debbie specifically.
 
-> **原句 7:** “This is my family,” she said. “Cat is my family. And I don’t answer to Gerry.” ... “She is literally my family,” she shouted. “Literally my sister. My blood.”
+> **原句 10:** “This is my family,” she said. “Cat is my family. And I don’t answer to Gerry.”
+
+> **原句 11:** “She is literally my family,” she shouted. “Literally my sister. My blood.”
 
 - **中文理解**："This is my family," she said. "Cat is my family. And I don't answer to Gerry." ... "She is literally my family," she shouted. "Literally my sister. My blood."
 - **关键词**：literally my sister—— literally my sister；My blood—— My blood
 - **为什么这样写**：Debbie's "She is literally my sister. My blood." is the chapter's (and book's) central revelation. "literally" (misused earlier, now used correctly) is Debbie's emphasis. "My blood" confirms the biological relationship. This means Debbie Halloran is Marian's sister (and Cat's aunt).
 - **读者视角提示**：Debbie is Marian's sister. This reframes their entire relationship. Track how this changes the investigation (Debbie's knowledge of Marian's secrets).
 
-> **原句 8:** “None of your garbage. You are a wife. You need to honour your family the way our Lord intended. With loyalty.”
+> **原句 12:** “None of your garbage. You are a wife. You need to honour your family the way our Lord intended. With loyalty.”
 
 - **中文理解**："None of your garbage. You are a wife. You need to honour your family the way our Lord intended. With loyalty."
 - **关键词**：honour your family—— honour your family；With loyalty—— With loyalty
@@ -83,7 +91,6 @@ modified: "2026-10-17"
 | capitulate | 投降； capitulate | "capitulate to the small-town mafia" |
 | mafia | 黑手党； mafia | "small-town mafia" |
 | peacemakers | 和平缔造者； peacemakers | "peacemakers were the children of God" |
-| histrionics | 过度戏剧化； histrionics | "didn't merit these histrionics" |
 | cacophony | 嘈杂； cacophony | "cacophony of Johnsons and cops" |
 | traitor | 叛徒； traitor | "traitor to your family" |
 | beholden | 欠……的人情； beholden | "who you're beholden to" |

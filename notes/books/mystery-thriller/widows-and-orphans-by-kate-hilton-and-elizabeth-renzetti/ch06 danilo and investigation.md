@@ -86,12 +86,12 @@ modified: "2026-10-17"
 | trampled | 踩踏的；践踏的 | "The underbrush here looked recently trampled." |
 | dilapidated | 破旧的；摇摇欲坠的 | "a dilapidated picnic table" |
 | convulsed | 抽搐的；痉挛的 | "His shoulders convulsed" |
-| maneuver | 操纵； maneuvering | "maneuvered" (implied) |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
+| Tupperware | 特百惠（品牌） | "Bruce was the first to break it, holding up a sketchy Tupperware" |
 | mondochunk | 超大块的（muffin） | "Glenda's famous mondochunk chocolate muffins" |
 | banh mi | 越南三明治 | "a decent coffee and a banh mi" |
 | solstice gala | 夏至 gala | "leaving the music of the solstice gala behind" |
@@ -100,14 +100,13 @@ modified: "2026-10-17"
 | milkweed | 马利筋 | "burst milkweed pods" |
 | barbed-wire | 带刺铁丝网的 | "wailing of an animal caught in a barbed-wire fence" |
 | dilapidated | 破旧的 | "a dilapidated picnic table" |
-| Tupperware | 特百惠（品牌） | "Bruce's sketchy Tupperware" |
 | crudités | 生蔬菜拼盘 | "Not everything can be solved with crudités" |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| woods | 树林 | "I headed back through the woods" |
+| woods | 树林 | "They’d never explored these woods" |
 | lookout | 瞭望点 | "the fateful lookout" |
 | parking lot | 停车场 | "the edge of the parking lot" |
 | caution tape | 警戒带 | "wrapping caution tape around the trunks" |

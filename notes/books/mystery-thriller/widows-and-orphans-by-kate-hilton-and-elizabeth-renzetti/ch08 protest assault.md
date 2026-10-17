@@ -80,7 +80,6 @@ modified: "2026-10-17"
 | broadsided | 从侧面撞； broadsided | "I got broadsided by one of the signs" |
 | volatile | 不稳定的； volatile | "the volatile atmosphere" |
 | messianic | 救世主式的； messianic | "the messianic presence of the mayor" |
-| skidding | 滑行； skidding | "I skidded to a halt" |
 | squished | 挤压的； squished | "squished into a tiny ball" |
 | fistful | 一把； fistful | "a fistful of my jacket" |
 | bonhomie | 亲热； bonhomie | "I wondered if this bonhomie worked" |
@@ -92,7 +91,7 @@ modified: "2026-10-17"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| megaphone | 扩音器； megaphone | "shouting into a megaphone" |
+| megaphone | 扩音器； megaphone | "He was striding through the grass, a megaphone swinging in his hand" |
 | bandstand | 乐队台； bandstand | "walking in circles around the old bandstand" |
 | goatee | 山羊胡； goatee | "a patchy goatee" |
 | Timberlands | Timberland 靴（品牌） | "bouncing on the toes of his Timberlands" |
@@ -107,11 +106,10 @@ modified: "2026-10-17"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
+| mayor | 市长； mayor | "“Personal assistant to the mayor" |
 | protest | 抗议； protest | "protesters" |
 | crowd | 人群； crowd | "the crowd" |
 | sign | 标语牌； sign | "A sign swung toward my face" |
-| mayor | 市长； mayor | "Mayor Gerry Halloran" |
-| face | 脸； face | "bloodied face" |
 | blood | 血； blood | "feeling the warmth of blood" |
 | ice pack | 冰袋； ice pack | "mug full of ice cubes" |
 | lip | 嘴唇； lip | "My lip was starting to swell" |
