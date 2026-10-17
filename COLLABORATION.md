@@ -87,7 +87,7 @@ slug: when-everyone-knows-that-everyone-knows-by-steven-pinker
 - a 全量重跑（终值同上）｜b 逐章归属 356/356，ch02 歌单体例 56 行曲目人工兜底全命中｜c 结构 0 缺陷（audit_structure + check_overview_full B 标签对 57/错 0）
 - d 语义二审：三第二实现全跑，引语↔本章归属全量复验 0 缺陷｜e 总览说话人窗口 20 条全对、引语 54/54
 - 整改 5 处阻断：ch16 重复引语块、ch04 重复关键词行、ch58 总结 "I love you" 不符原文（原文只有 "the words catch in my throat"）、00_情感节点 ch66 跨叙述拼接、check_struct_indep 3 类假红（词汇节名/引语形态/块数配额不认本书，105→1 正当提示）
-- 终验全绿；审查 commits（未 push）
+- 终验全绿；审查 commits `d2d9fc480`（整改+检查器修）`54c3a14d2`（板并入）`db5bb9929`（日志明细）（均未 push）
 - **同会话已知局限**：审查者即作者；此标注为结论提示，步骤未减免
 **明细指引**：完工门禁 `.memory/raw-gates/unloved-by-peyton-corinne/2026-10-17-completion-gates.txt`；五步审查原件 `2026-10-17-review-{a,b,c,d,final}.txt`；工作日志见当日本书专节
 
