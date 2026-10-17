@@ -1,0 +1,76 @@
+### The Unsolvable Case — ch01 首章试产门禁（原始逐行输出）
+### date -u: 2026-10-17 10:49 UTC  书目录: notes/books/novels/the-unsolvable-case-by-courtney-smyth
+### lane: 完整（有 epub）
+
+=== 1) verify_quotes.py ===
+ch01 the vow at samhain.md: 8/8 ✅
+
+=== 总计 8/8 引文可核实（100%）；完全干净文件 1/1；正文章节 0 提取 0；总览 0 提取转交 0 ===
+EXIT=0
+
+=== 2) verify_quotes.py --full（52 字符指纹盲区取证）===
+ch01 the vow at samhain.md: 8/8 ✅
+
+=== 总计 8/8 引文可核实（100%）；完全干净文件 1/1；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+EXIT=0
+
+=== 3) check_vocab.py ===
+  [P0-4] 正文章节 1 个（< 4），多数派未成形 → **跳过必备章节判定**
+词条行合计: 15
+
+--- FAIL (0) ---
+
+--- WARN (0) ---
+EXIT=0
+
+=== 4) check_entities.py ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+EXIT=0
+
+=== 5) check_chapter_quotes.py 01 ===
+全章扫描: 解析引语块 8，命中本章 8（100%）
+✅ 全部引语均归属正确章节
+EXIT=0
+
+=== 6) corruption_scan.py ===
+
+=== 编辑损坏扫描（the-unsolvable-case-by-courtney-smyth）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+EXIT=0
+
+=== 7) sweep_analysis_inline.py（8.4 抽查；修复后）===
+=== 分析层行内英文逐字核查（the-unsolvable-case-by-courtney-smyth）===
+  参照集：text/（50 个提取件） + epub 交叉验证 ；扫 1 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：21 个表格行、15 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 29 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 1
+EXIT=0
+
+=== 8) audit_structure.py（8.4 抽查）===
+=== 精读结构扫描（the-unsolvable-case-by-courtney-smyth）===
+  扫 1 个 md、8 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+EXIT=0
+
+=== 9) check_short_quotes.py ===
+=== 短引语兜底核对（the-unsolvable-case-by-courtney-smyth）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+EXIT=0
+
+=== 附：本次拦下并修复的「假红型」工具缺陷（AGENTS 第 3 条三档之假红型）===
+现象：`sweep_analysis_inline.py` 首跑把 ch01 的 26 条正当英文（关键词/分析层/词表例句）全报 🔶「整串（跨标签拼接）」。
+取证：`grep -c "dying to tell the tale" text/ch01_one.txt` => 1（整串确实连续在原文，非拼接）。
+根因：`load_ref()` 用 `re.search(r'ch(\d+)', basename)` 建 int 章号键，而本书 `text/ch01_one.txt` 与 `text/ch01b_vivisection_i.txt` 同键
+      ⇒ dict 后者覆盖前者，`by_chap[1]` 指向 2495 字符的插叙页（实测该件 HAS_dying=False），正章分析层全被拿去与插叙页比对。
+修复：`scripts/sweep_analysis_inline.py` 两处改为 `ch(\d+)([a-z]?)` 并保留字母后缀为键（与全库其余脚本口径一致；
+      `check_block_keywords.py:503` 记有 2026-10-03 同类修正 Evie ch01a/ch04a 先例）。
+修复后：✅ 逐字 29 ｜ 🔶 拼接 0 ｜ ❌ 零命中 0。
+投毒测试（8c「先验该报的报了」，在 /tmp 副本上做，未触碰真文件）：
+  · 注入 `the glass remembered nothing of that night` / `a velvet pardon for the witches` ⇒ 报 🟠 部分命中 2 条（内容词命中、整串不连续）
+  · 注入 `a zephyr of quixotic marmalade` / `grimblewocket thrums` ⇒ 报 🟡 词形 2 条（非 ✅）
+  ⇒ 修复未削弱检出能力；伪造英文一律拿不到 ✅。
+遗留（供总览/终验阶段注意，本次未改）：仍用裸 `ch(\d+)` 的脚本有 `gen_overview.py:35/37`（总览引语池排序）、
+  `check_struct_indep.py:309`（第 10 条换路径审查）、`audit_numbers.py:148`、`audit_structure.py:462`、`check_crossref.py:49`、
+  `check_overview_labels.py:147`、`check_xref_chapter.py:65` —— 对本书 5 个 `chNNb` 件存在同类碰撞风险，到相应阶段先复核再采信其输出。
