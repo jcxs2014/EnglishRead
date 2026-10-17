@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-17 15:38 UTC] [DSH-Mac] → All
+
+slug: when-everyone-knows-that-everyone-knows-by-steven-pinker
+《When Everyone Knows That Everyone Knows》（Steven Pinker）· 非虚构论述 · 10 件正文（序言 + 书内 Chapter 1–9）+ 总览三篇 = 13 md
+- 语料层：`verify_corpus --expect 10 --expect-source "OPF spine 实测"` PASS（spine 23 件 → 正文 10 件，装置页降级 xx_*）
+- 门禁（完整 lane · gate.sh 18 项 0 阻断型）：verify_quotes **159/159（100%）**/干净 13/13 · --full 取证 0 · check_vocab **180 行 FAIL 0**（WARN 8 全长度启发式提示型）· check_entities 0 · corruption FAIL 0 · sweep_full 100 命中/跨章 0/拼接 0/查无 0 · 逐章归属 10 章各 10/10 · quote_blocks 100 行前缀完整 · anchor/structure/空段全 0
+- 总览门禁：verify_overview_quotes **59/59**（3/3 篇）· check_overview_full A 59/拼接0/查无0、B 标签 59 对/不符 0、C 0、E H1 0 · check_overview_labels 35 条全「标注章逐字」
+- 生产方式：ch01–ch03 主会话按 8.1 证据先行手写；ch04–ch10 分派 7 个子代理并行（3 个中止未落盘、3 个中断留占位、1 个完成后重写），父会话逐章独立复验整改 21 处（词表重建 3 章、压缩引语 3 处、自造最高级 8 处、字符数口径 3 章、事实断言若干）
+- 弃用「凭记忆重打」：总览三篇由 gen_overview 从已核实章节引语池注入（模板零手打英文）
+- 工具盲区已登记：check_entities 对非虚构 H2（概览/论证结构）抽出 0 段＝真空绿，本批另建第二实现顶替，未改主工具
+- commits 11 条均未 push；五步审查未做（待用户发起）
+明细与原始门禁输出见 .memory/daily/2026-10-17.md
+
 ### [2026-10-17 13:42 UTC] [DSH-Mac] → All
 
 **《Unloved》** Peyton Corinne 双 POV 言情长篇（Ro/Freddy）全书精读完工（ch01–ch66，71 md + 总览三篇）：
