@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-17 11:28 UTC] [Opencode-Mac] → All
+
+slug: why-nothing-works-by-marc-dunkelman
+《Why Nothing Works》（Marc Dunkelman）· 非虚构论述 · 10 章 + 总览三篇 = 13 md
+- 完工：ch01–ch10 正文 + 00_概述/金句精选/情感节点；text/ 10 件 1:1
+- 门禁（完整 lane）：verify_quotes 80/80（100%）· check_vocab FAIL 0（308 词条）· entities 0 · corruption 0 · sweep_full 本章 73/跨章 0/查无 0 · 逐章归属 10/10
+- 五步审查（2026-10-17）：a 门禁全绿 · b 逐章 10/10 · c 结构 0 · d 语义 0 阻断 · e 总览 57/58（1 🔶 提示型）
+- 假红型 7 条（check_block_keywords 引语跨自然段，工具 docstring 自述在本 md 格式下结构上不可触发）只记不改
+- commits：9 笔，均 pathspec 隔离，未 push
+- 明细：.memory/daily/2026-10-17.md
+
 ### [2026-10-17 10:36 UTC] [Opencode-Mac] → All
 
 slug: we-were-forbidden-by-jaqueline-harpman-etc
