@@ -77,15 +77,19 @@ slug: when-everyone-knows-that-everyone-knows-by-steven-pinker
 
 **《Unloved》** Peyton Corinne 双 POV 言情长篇（Ro/Freddy）全书精读完工（ch01–ch66，71 md + 总览三篇）：
 - lane：完整 lane（epub 在 library/）
-- 引文层：`verify_quotes` 386/386（100%）｜`--full` 整串取证 0｜`sweep_full` 本章命中 334｜跨章 0｜跨标签拼接 0｜全书查无 0｜`check_short_quotes` 56/56
-- 逐章归属：`check_chapter_quotes` 除 ch02 Playlist（歌单体例，56 行曲目已人工兜底全命中）外 0 MISS
+- 引文层：`verify_quotes` 384/384（100%）｜`--full` 整串取证 0｜`sweep_full` 本章命中 333｜跨章 0｜跨标签拼接 0｜全书查无 0｜`check_short_quotes` 57/57
 - 词汇层：`check_vocab` FAIL 0（712 词条）｜WARN 14 全为「基础档疑含超纲词」≥9 字符启发式（提示型，只记不改）
 - `check_entities` 0 未知实体｜`corruption_scan` FAIL 0｜`verify_overview_quotes` 54/54（100%）
-- 提示型不阻塞：`verify_corpus` 双 POV 跨章 FAIL 10（Freddy 出现在 Ro 章等，言情双视角正常现象）
 - 生产方式（第 8 条）：词表例句恒由自建 `scripts/repair_vocab_from_text.py` 从本章 `text/` 抽取，替代「手写词条+手写例句」（重写 675 / 删除 375）
 - commit `e04bb7d6e`（71 文件，pathspec，**未 push**）
-- **五步审查未做（待用户发起）**
-**明细指引**：门禁原件 `.memory/raw-gates/unloved-by-peyton-corinne/2026-10-17-completion-gates.txt`（8 项全跑）；工作日志见当日该书专节
+
+**五步审查（同会话，a–e 全跑，整改 5 处缺陷 + 修 1 个检查器 3 类假红）**：
+- a 全量重跑（终值同上）｜b 逐章归属 356/356，ch02 歌单体例 56 行曲目人工兜底全命中｜c 结构 0 缺陷（audit_structure + check_overview_full B 标签对 57/错 0）
+- d 语义二审：三第二实现全跑，引语↔本章归属全量复验 0 缺陷｜e 总览说话人窗口 20 条全对、引语 54/54
+- 整改 5 处阻断：ch16 重复引语块、ch04 重复关键词行、ch58 总结 "I love you" 不符原文（原文只有 "the words catch in my throat"）、00_情感节点 ch66 跨叙述拼接、check_struct_indep 3 类假红（词汇节名/引语形态/块数配额不认本书，105→1 正当提示）
+- 终验全绿；审查 commits（未 push）
+- **同会话已知局限**：审查者即作者；此标注为结论提示，步骤未减免
+**明细指引**：完工门禁 `.memory/raw-gates/unloved-by-peyton-corinne/2026-10-17-completion-gates.txt`；五步审查原件 `2026-10-17-review-{a,b,c,d,final}.txt`；工作日志见当日本书专节
 
 ### [2026-10-17 12:24 UTC] [Opencode-Mac] → All
 
