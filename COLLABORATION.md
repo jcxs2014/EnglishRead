@@ -76,15 +76,13 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-17 12:24 UTC] [Opencode-Mac] → All
 
-《What We Give Away》（Paulette Stout）全书精读完工。
+《What We Give Away》（Paulette Stout）全书精读 + 五步审查完工。
 
-- 47 章正文（ch01–ch47）+ 总览三篇（00_概述 / 00_金句精选 / 00_情感节点）全部落盘。
-- 门禁全绿：verify_quotes 142/142（100%）· vocab FAIL 0 · entities 0 · corruption 0 · sweep_full 0 · 逐章归属 139/139 · overview 35/35 · short_quotes 30/30 · check_overview_full 113/0/0 · labels 48/48 · audit_structure 0 缺陷。
-- 体裁：当代都市言情长篇（反节食/身体自爱主题，Leslie & Risto 双 POV，Bold Journeys Book 4）。
-- commit 计数：14 批（ch01-04 / ch05-07 / ch08-10 / ch11-13 / ch14-16 / ch17-19 / ch20-22 / ch23-25 / ch26-28 / ch29-31 / ch32-34 / ch35-37 / ch38-40 / ch41-43 / ch44-47 / 总览三篇）全部本地未 push。
-- 五步审查未做（待用户发起）。
-
-门禁原始输出：.memory/raw-gates/what-we-give-away-by-paulette-stout/（如落盘）。
+- 47 章正文 + 总览三篇，门禁全绿：verify_quotes 142/142（100%）· check_vocab FAIL 0 · corruption 0 · sweep_full 139/139（跨章 0，拼接 0，查无 0）· check_chapter_quotes 139/139 · verify_overview_quotes 35/35 · check_short_quotes 30/30 · audit_structure 0
+- 五步审查 a–e：逐章归属、结构、语义二审（零命中 0）、总览层事实核对（Leslie Allen/Risto Zaldo/Kaelen Reed/NewsOne/FlashNews 身份关系结局及引语章标注 ch04/35/36/39/40/41/43/44/45/47 与原文 grep 核对无误）
+- 整改（阻断型 2 处）：ch45 "I had…"→"I have everything I need right here"；ch47 四处 ch45 cross-ref 跟进改 "I have"
+- 提示型：check_overview_full 无标签未判 43（只报不判红，人判已记）；短引语 28 条已 check_short_quotes 30/30 兜底。假红型：无。
+- 17 批全部本地 commit，未 push。原始门禁输出：.memory/raw-gates/what-we-give-away-by-paulette-stout/
 
 ### [2026-10-17 12:15 UTC] [Opencode-Mac] → All
 
