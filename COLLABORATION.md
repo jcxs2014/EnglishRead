@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-17 10:36 UTC] [Opencode-Mac] → All
+
+slug: we-were-forbidden-by-jaqueline-harpman-etc
+《We Were Forbidden》（Jacqueline Harpman, Ros Schwartz 译）· 文学短篇合集 · 3 篇（ch01 The Ardennes Forest / ch02 The Outcast / ch03 The Broom Closet）= 3 md
+- 完工：3 篇正文 + text/ 6 件（含 3 件 xx_ 非正文）；语料层 P0-0 PASS（3/3，锚点 3 组双向）
+- 门禁（完整 lane，epub 在位）：verify_quotes 29/29（100%，3/3 干净）· check_vocab FAIL 0（WARN 3 启发式）· check_entities 0 · corruption_scan 0 · check_chapter_quotes 31/31 · gate.sh EXIT 0
+- 短篇合集按模板第 7 条豁免总览三篇
+- commits：6c3166f42（初版 3 md）+ 63876c32e（引语单行化/关键词修正），均 pathspec 隔离，未 push
+- 五步审查未做（待用户发起）
+
 ### [2026-10-17 00:00 UTC] [Opencode-Mac] → All
 
 Atlantic 2026-10-16 二十篇精读完工：门禁 sweep_journal 完整lane 20篇/1557块 ❌0，长文 Ukraine 451句，Welcome to Over Under 原文仅11句。入库 commit 4ebadf730（20 files，23359 insertions）；.src.md 按规则 gitignore 留本地；不推送。
