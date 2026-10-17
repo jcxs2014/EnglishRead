@@ -1,0 +1,127 @@
+=== 批05（ch08 + ch09）批次门禁 · 2026-10-17 12:55 UTC ===
+book=notes/books/novels/the-unsolvable-case-by-courtney-smyth
+epub=notes/books/novels/the-unsolvable-case-by-courtney-smyth/library/The Unsolvable Case (Courtney Smyth) (z-library.sk, 1lib.sk, z-lib.sk).epub
+
+--- §1 verify_quotes（全书） ---
+ch01 the vow at samhain.md: 8/8 ✅
+ch01b the diorama of a death.md: 6/6 ✅
+ch02 theodore hides at greys hotel.md: 8/8 ✅
+ch03 mallorys to do list.md: 8/8 ✅
+ch03b a death in the observatory roof.md: 6/6 ✅
+ch04 the puppet at the observatory.md: 9/9 ✅
+ch05 the charred corpse at the observatory.md: 8/8 ✅
+ch06 the lightbulb that breaks the boundary.md: 8/8 ✅
+ch07 the case of hayley eason.md: 8/8 ✅
+ch08 the chess game and the deal.md: 8/8 ✅
+ch09 tarot night at the larix.md: 8/8 ✅
+
+=== 总计 85/85 引文可核实（100%）；完全干净文件 11/11；正文章节 0 提取 0；总览 0 提取转交 0 ===
+EXIT=0
+
+--- §2 verify_quotes --full ---
+ch09 tarot night at the larix.md: 8/8 ✅
+
+=== 总计 85/85 引文可核实（100%）；完全干净文件 11/11；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+EXIT=0
+
+--- §3 check_vocab ---
+词条行合计: 210
+
+--- FAIL (0) ---
+
+--- WARN (12) ---
+  ch01 the vow at samhain.md [基础] 基础档疑含超纲词「apocalypse」
+  ch02 theodore hides at greys hotel.md [基础] 基础档疑含超纲词「agonising pull」
+  ch02 theodore hides at greys hotel.md [基础] 基础档疑含超纲词「centenarian」
+  ch02 theodore hides at greys hotel.md [基础] 基础档疑含超纲词「emotional support」
+  ch02 theodore hides at greys hotel.md [基础] 基础档疑含超纲词「executive order」
+  ch02 theodore hides at greys hotel.md [基础] 基础档疑含超纲词「gothic nightmare」
+  ch02 theodore hides at greys hotel.md [基础] 基础档疑含超纲词「grapevine」
+  ch02 theodore hides at greys hotel.md [基础] 基础档疑含超纲词「terminally ill」
+  ch03b a death in the observatory roof.md [基础] 基础档疑含超纲词「selflessness」
+  ch05 the charred corpse at the observatory.md [基础] 基础档疑含超纲词「revelries」
+  ch07 the case of hayley eason.md [基础] 基础档疑含超纲词「relationship」
+  ch09 tarot night at the larix.md [基础] 基础档疑含超纲词「recurring nightmare」
+EXIT=0
+
+--- §4 check_entities ---
+=== 实体一致性检测：1 个文件存在未知实体 ===
+  ❌ ch09 tarot night at the larix.md: Seymour Road
+EXIT=1
+
+--- §5 check_chapter_quotes 逐章（不传 --book-dir） ---
+ch08 the chess game and the deal.md: 8/8 in ch08 text
+EXIT=0
+ch09 tarot night at the larix.md: 8/8 in ch09 text
+EXIT=0
+
+--- §6 check_chapter_quotes --book-dir（全书归属） ---
+全章扫描: 解析引语块 85，命中本章 85（100%）
+✅ 全部引语均归属正确章节
+EXIT=0
+
+--- §7 corruption_scan ---
+
+=== 编辑损坏扫描（the-unsolvable-case-by-courtney-smyth）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+EXIT=0
+
+--- §8 sweep_analysis_inline ---
+=== 分析层行内英文逐字核查（the-unsolvable-case-by-courtney-smyth）===
+  参照集：text/（50 个提取件） + epub 交叉验证 ；扫 11 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：276 个表格行、248 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 441 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 3 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 2
+  🟠 ch09 tarot night at the larix.md:12  「Believing she should be working」→ 内容词 2/2 命中（believing/working）——疑漏词或改写
+  🟠 ch09 tarot night at the larix.md:29  「I'm not agreeing with」→ 内容词 1/2 命中（agreeing）——疑漏词或改写
+  🟠 ch09 tarot night at the larix.md:35  「something akin to determination was flowing through her」→ 内容词 5/5 命中（akin/determination/flowing/something）——疑漏词或改写
+EXIT=0
+
+--- §9 audit_structure ---
+=== 精读结构扫描（the-unsolvable-case-by-courtney-smyth）===
+  扫 11 个 md、85 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+EXIT=0
+
+--- §10 check_short_quotes ---
+=== 短引语兜底核对（the-unsolvable-case-by-courtney-smyth）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+EXIT=0
+
+=== §11 修复后复跑 · 2026-10-17 13:05 UTC ===
+【本轮修复】① 阻断型：ch09 导航出现他书地名「Seymour Road」（跨书污染）⇒ 改为 Whistler 案；② 提示型 3 条：ch09 导航/关键词/分析层三处手打英文（Believing she should be working｜I'm not agreeing with｜flowing through her）⇒ 改中文或改为原文逐字（through Mallory）。
+
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+EXIT=0
+
+--- sweep_analysis_inline ---
+=== 分析层行内英文逐字核查（the-unsolvable-case-by-courtney-smyth）===
+  参照集：text/（50 个提取件） + epub 交叉验证 ；扫 11 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：276 个表格行、248 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 442 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 2
+EXIT=0
+
+--- verify_quotes ---
+ch09 tarot night at the larix.md: 8/8 ✅
+
+=== 总计 85/85 引文可核实（100%）；完全干净文件 11/11；正文章节 0 提取 0；总览 0 提取转交 0 ===
+EXIT=0
+
+--- check_vocab ---
+词条行合计: 210
+--- FAIL (0) ---
+EXIT=0
+
+--- corruption_scan ---
+
+=== 编辑损坏扫描（the-unsolvable-case-by-courtney-smyth）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+EXIT=0
+
+--- check_chapter_quotes 逐章 ---
+ch09 tarot night at the larix.md: 8/8 in ch09 text
+EXIT=0
