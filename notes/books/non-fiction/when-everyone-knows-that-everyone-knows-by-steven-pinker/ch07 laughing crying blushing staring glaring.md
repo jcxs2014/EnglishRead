@@ -50,7 +50,7 @@ modified: "2026-10-17"
 - **句子结构**：首句 Laughing, crying, blushing, eye contact. 是无谓语的名词性列举（三个动名词加一个名词短语），独立成句起标题作用；第二句 Each is conspicuous both to perceiver and expresser 用 both…and 的双侧结构点出「双方都可见」；第三句 The point of this chapter is that… 直陈论题；随后 as when people say… 用两句口语给反例；This common knowledge, I'll suggest, is well-suited to tuning and tweaking the coordination equilibria that underlie our social relationships 一句把机制收束到协调均衡；末句 I'll conclude by turning to an expression that is displayed by…, but which also may be explained as… 用 that…which… 双定语从句预告收尾。
 - **关键词**：`conspicuous both to perceiver and expresser`、`they generate common knowledge`、`tuning and tweaking the coordination equilibria`、`the glower`
 - **表达方式**：perceiver／expresser 一对刻意造出来的对称名词，是全章的技术支点；tuning and tweaking 头韵兼叠韵，把均衡写成可微调的乐器；「你该看看你脸上的表情」两句俗语承担了「自愿表情可以不自知」的全部举证。
-- **为什么这样写**：这是全章的合同：先用四个动名词把范围钉死，再用「没有人会不知道自己在笑」把递归层级一句说尽，省掉了后文反复论证的负担；结尾提前把怒视挂出来，让最后一节不至于像附赠——本章的四个身体信号之外，仍需一个「用面部肌肉却同样显眼」的样本收尾。
+- **为什么这样写**：这是全章的合同：先用三个动名词加一个名词短语把范围钉死，再用「没有人会不知道自己在笑」把递归层级一句说尽，省掉了后文反复论证的负担；结尾提前把怒视挂出来，让最后一节不至于像附赠——本章的四个身体信号之外，仍需一个「用面部肌肉却同样显眼」的样本收尾。
 
 > **原句 3:** "At the risk of giving the world yet another humorless take on humor, I tried to identify that combination in How the Mind Works. Though I didn’t use the term, common knowledge was the essential component. Laughter generates common knowledge that challenges a convention of dominance, status, or prestige. The authority may be challenged aggressively, with the aim of leveling or reinforcing a dominance hierarchy, or it may be challenged convivially, to make it common knowledge that the basis of a relationship is not dominance at all but rather communality. Let me step through the facts that led to these conclusions."
 
@@ -114,7 +114,7 @@ modified: "2026-10-17"
 - **句子结构**：首句 Admittedly, an Ultimatum Game, like all the toys in behavioral labs, is contrived 让步开场、用 like 插入语自我拆台；But it distills a critical feature of real life 短句反手立起；People are vulnerable to other people imposing their wills on them 用 be vulnerable to + 动名词；Stubborn self-respect can give them a modicum of bargaining power that encourages others to treat them fairly 主干 give…power，that 从句再挂一层因果；末句 The glower helps to ratify this equilibrium of self-respect and equity, just as our other conspicuous displays ratify our friendships, hierarchies, and norms 以 just as 全比收尾，ratify 两处呼应。
 - **关键词**：`it distills a critical feature of real life`、`a modicum of bargaining power`、`ratify this equilibrium`、`our friendships, hierarchies, and norms`
 - **表达方式**：toys 与 distills 一对，先自认实验是玩具、再说玩具是蒸馏器；ratify（批准、使生效）是条约语域的词，被用来给身体表达授予法律效力；末句三个名词把全章收进一张清单。
-- **为什么这样写**：全章从最热闹的笑写到最安静的怒视，结尾需要一句把六样表达归拢的判断句；作者先自己承认实验室造作（防住「一例博弈能说明什么」的质疑），再用 just as 把怒视与前文四种显眼表达焊在同一功能上——收束句里的 friendships, hierarchies, and norms 恰好对应本章攻击性笑、友好性笑与脸红／目光三条线，结构在此闭合。
+- **为什么这样写**：全章从最热闹的笑写到最安静的怒视，结尾需要一句把五样表达归拢的判断句；作者先自己承认实验室造作（防住「一例博弈能说明什么」的质疑），再用 just as 把怒视与前文四种显眼表达焊在同一功能上——收束句里的 friendships, hierarchies, and norms 恰好对应本章攻击性笑、友好性笑与脸红／目光三条线，结构在此闭合。
 
 ## 词汇分级
 
