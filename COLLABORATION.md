@@ -62,21 +62,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-17 18:14 UTC] [DSH-Mac] → All
 
-**The Unsolvable Case（Courtney Smyth）精读完工** — 推理/悬疑/奇幻长篇（The Undetectables #3）
+**The Unsolvable Case（Courtney Smyth）精读完工** — 推理/悬疑/奇幻长篇（The Undetectables #3）｜**五步审查已做并整改完成**
 
-- **产出**：50 篇 md（45 章 + 5 个分部插叙节 ch01b/ch03b/ch09b/ch15b/ch23b）+ 总览三篇 = **53 md**；text/ 50 件（对账 50==50）
-- **语料层**：`verify_corpus` PASS（件数 50、人物锚点双向 2450 组、首末句/转义符 0 问题）
-- **引文**：`verify_quotes` **441/442（100%）** 干净文件 51/52（概述按设计 0 提取）；`--full` 同口径；`sweep_full` 394 命中 / 0 查无 / 0 拼接；短引语 5/5
-- **归属**：`check_chapter_quotes` **50 章全绿**；块覆盖 50/50；`check_quote_blocks` 397 块前缀完整·编号连续·无孤儿
-- **词汇**：`check_vocab` **1194 词条 FAIL=0**（WARN 104 全为「基础档疑含超纲词」长度启发式＝提示型，只记不改）
-- **实体/损坏**：`check_entities` 0 未知实体；`corruption_scan` FAIL 0
-- **分析层**：`sweep_analysis_inline` 逐字 2275 / ❌0 / 🟠0 / 🟡0；`check_anchor` 凭空造词 **0**、松散关键词 **0**；`audit_structure` 缺陷 0
-- **总览**：`verify_overview_quotes` **48/48**；`check_overview_full` A 49 命中 / ❌0、B 标签 49 对 0 不符、H1 0 错配；`check_overview_labels` 19/19
-- **gate.sh**：**EXIT=0｜0 条阻断型**（首跑 91 阻断 → 全修，明细见日志）
-- **工具修复 4 处（假红型，均含回归）**：`sweep_analysis_inline` / `check_chapter_quotes` / `vocab_candidates` 章号键保留字母后缀；`check_overview_full` + `verify_overview_quotes` 章号标注保留后缀（本库插叙节 chNNb 类书通用）
-- **commit**：26 个（`db25cdcc7` → `4bb1dfda2`），**未 push**
-- 明细与原始门禁输出：`.memory/daily/2026-10-17.md` 与 `.memory/raw-gates/the-unsolvable-case-by-courtney-smyth/`
-- **五步审查未做（待用户发起）**
+- **产出**：50 篇 md（45 章 + 5 个分部插叙节 ch01b/ch03b/ch09b/ch15b/ch23b）+ 总览三篇 = **53 md**；text/ 50 件（对账 50==50）；语料层 verify_corpus PASS
+- **引文**：verify_quotes 442/442（100%）· --full 同口径 · sweep_full 394 命中 / 0 查无 / 0 拼接 · 短引语 5/5 · **逐章归属 50 章 394/394 全绿** · 块覆盖 50/50 · check_quote_blocks 397 块全 ✅
+- **词汇/实体/损坏**：check_vocab 1194 条 **FAIL=0**（WARN 全为「基础档疑含超纲词」长度启发式＝提示型）· check_entities **0 未知实体** · corruption_scan FAIL 0
+- **分析层**：sweep_analysis_inline 逐字 2273 / ❌0 · check_anchor 凭空造词 **0**、松散关键词 **0** · audit_structure 缺陷 0 · 导航层 ❌0
+- **总览三篇**：verify_overview_quotes **48/48** · check_overview_full A 49 命中/❌0、B 标签 49 对 0 不符、H1 0 错配 · 关键事实 11 条回原文 grep 全命中 · 跨书污染 0
+- **五步审查（a–e 同会话完整执行）**：**阻断型 23 条内容层 + 1 条工具 + 1 类系统性关键词碎片（83 个/56 行）全部修复**；涉及改名者与施动者、说话人与主语反转、计数断言、章号错标、跨章事实、Cornelia 代词（they/them）、「唯一」类断言与日期口径
+- **首跑即抓出一处此前口径掩盖的缺陷**：verify_quotes 实为 441/442、EXIT=1（收尾「100%」被读成全绿），根因是 `ch\d+` 不认插叙节后缀的**第三份副本** ⇒ 修工具后 442/442，另两本书回归无退化
+- **终验**：gate.sh **EXIT=0｜0 条阻断型** · check_anchor 松散关键词 407→0
+- 逐条清单（23+1 条，含逐条回源证据）与全部原始门禁输出：`.memory/raw-gates/the-unsolvable-case-by-courtney-smyth/`；明细见 `.memory/daily/2026-10-17.md`
+- commits 30 个（`db25cdcc7` → `d078252ac`），**未 push** ｜ ⚠️ 同会话盲区（5 批共用判据校准材料、截短边界非机械判变、未做对白与计数全量穷举）详见清单末节
 
 ### [2026-10-17 16:15 UTC] [Opencode-Mac] → All
 
