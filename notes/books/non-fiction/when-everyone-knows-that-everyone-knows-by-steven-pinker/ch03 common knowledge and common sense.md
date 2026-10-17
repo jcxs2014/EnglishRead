@@ -42,7 +42,8 @@ modified: "2026-10-17"
 - **中文理解**：共同知识难道不就是常识吗？谁不知道「人们在意谁知道什么」呢——可本章要表明，共同知识的逻辑常常是对常识的一记羞辱。
 - **句子结构**：两个反问句并列起头（Isn't…? Doesn't everyone know…?），第二问的括号内插入 and know that they know 是递归的两次方；第三句 In this chapter we'll see that… 才给出立场。
 - **关键词**：`an insult to common sense`、`know that they know`
-- **表达方式**：用读者的口头禅当靶心（章题 Common Sense 与书名 Common Knowledge 对撞），insult 一词把逻辑写成挑衅。- **为什么这样写**：章题即整章策略——上一章让读者「懂了」概念，本章要让读者「被概念冒犯」。开场先复述读者自信的语气，才能把后三道谜题的惊讶一次攒足。
+- **表达方式**：用读者的口头禅当靶心（章题 Common Sense 与书名 Common Knowledge 对撞），insult 一词把逻辑写成挑衅。
+- **为什么这样写**：章题即整章策略——上一章让读者「懂了」概念，本章要让读者「被概念冒犯」。开场先复述读者自信的语气，才能把后三道谜题的惊讶一次攒足。
 
 > **原句 2:** "The first is that you can deduce facts about the world from what people don’t know. The second is that two people really do need to think an infinite vortex of “I know that he knows that I know that he knows…” thoughts to be sure they will coordinate their plans; two or three, or any finite number, aren’t enough. The third is that rational agents with the same understanding of the world, after examining evidence and sharing their assessments, must arrive at the same conclusion: they cannot agree to disagree."
 
