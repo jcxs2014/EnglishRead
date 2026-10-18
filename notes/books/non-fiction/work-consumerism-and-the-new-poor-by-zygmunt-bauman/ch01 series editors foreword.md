@@ -60,9 +60,9 @@ source_text: ch01 series editors foreword.txt
 
 **中文理解**：因此，尽管预测我们的未来或许不在社会科学家的职权之内，但考虑到他们不仅有自己的理解、而且享有与所有人平等的公民地位，他们有资格参与有关未来前景的公共辩论。
 
-**句子结构**：全句为 while 引导的让步状语从句加主句。从句 it may not be the province of social scientists to predict our futures 中 it 为形式主语，真实主语是不定式 to predict our futures，province 本义「行省、领域」，此处作「职权范围」。主句主语 they、谓语 are entitled to engage，介词短语 given not only their understandings but also their equal position as citizens 作原因状语，其中的 not only… but also… 连接两个并列成分 understandings 与 equal position，现在分词短语 concerning future prospects 修饰 public debates。
+**句子结构**：全句为 while 引导的让步状语从句加主句。从句 it may not be the province of social scientists to predict our futures 中 it 为形式主语，真实主语是不定式 to predict our futures，province 本义「行省、领域」，此处作「职权范围」。主句主语 they、谓语 engage，介词短语 given not only their understandings but also their equal position as citizens 作原因状语，其中的 not only… but also… 连接两个并列成分 understandings 与 equal position，现在分词短语 concerning future prospects 修饰 public debates。
 
-**关键词**：not the province of social scientists / entitled to engage in public debates / equal position as citizens
+**关键词**：the province of social scientists；entitled to engage in public debates；equal position as citizens
 
 **表达方式**：先让后立。让步从句把对方的立场完整接住（确实不该由社会科学家来预测未来），再在理由状语里换一个根据（不是以专家身份，而是以公民身份），推出相反的结论。
 
