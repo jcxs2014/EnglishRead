@@ -1,0 +1,24 @@
+00_情感节点.md: 18/18 ✅
+00_概述.md: 13/13 ✅
+00_金句精选.md: 24/24 ✅
+ch01 series editors foreword.md: 6/6 ✅
+ch02 introduction to the first edition.md: 7/7 ✅
+ch03 the meaning of work producing the work ethic.md: 10/10 ✅
+ch04 from the work ethic to the aesthetic of consumption.md: 5/5 ✅
+ch05 the rise and fall of the welfare state.md: 10/10 ✅
+ch06 the work ethic and the new poor.md: 10/10 ✅
+ch07 work and redundancy in the globalized world.md: 10/10 ✅
+ch08 prospects for the new poor.md: 10/10 ✅
+
+🔬 P0-6 --full 取证：3 条引语**前 52 字符命中但整串对不上**——常规口径看不见这一段
+    · 00_金句精选.md
+      md：「If paupers are made miserable, paupers will needs decline in multitude」
+      首个不命中片段：flat 偏移 120  「ctwithcontinualmewingalarmandgoingoffoft」
+    · ch03 the meaning of work producing the work ethic.md
+      md：「If paupers are made miserable, paupers will needs decline in multitude」
+      首个不命中片段：flat 偏移 120  「ctwithcontinualmewingalarmandgoingoffoft」
+    · ch08 prospects for the new poor.md
+      md：「In the first case, those who end up excluded and banished are people w」
+      首个不命中片段：flat 偏移 225  「ortiontheblameinadvancedecidetheissueofp」
+
+=== 总计 123/123 引文可核实（100%）；完全干净文件 11/11；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 3 ===

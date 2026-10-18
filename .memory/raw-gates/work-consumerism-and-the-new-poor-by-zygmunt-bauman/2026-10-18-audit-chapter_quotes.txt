@@ -1,0 +1,24 @@
+
+### ch01 series editors foreword.md (ch1)
+ch01 series editors foreword.md: 6/6 in ch01 text
+
+### ch02 introduction to the first edition.md (ch2)
+ch02 introduction to the first edition.md: 7/7 in ch02 text
+
+### ch03 the meaning of work producing the work ethic.md (ch3)
+ch03 the meaning of work producing the work ethic.md: 10/10 in ch03 text
+
+### ch04 from the work ethic to the aesthetic of consumption.md (ch4)
+ch04 from the work ethic to the aesthetic of consumption.md: 5/5 in ch04 text
+
+### ch05 the rise and fall of the welfare state.md (ch5)
+ch05 the rise and fall of the welfare state.md: 10/10 in ch05 text
+
+### ch06 the work ethic and the new poor.md (ch6)
+ch06 the work ethic and the new poor.md: 10/10 in ch06 text
+
+### ch07 work and redundancy in the globalized world.md (ch7)
+ch07 work and redundancy in the globalized world.md: 10/10 in ch07 text
+
+### ch08 prospects for the new poor.md (ch8)
+ch08 prospects for the new poor.md: 10/10 in ch08 text
