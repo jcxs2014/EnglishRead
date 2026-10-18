@@ -25,15 +25,11 @@ modified: "2026-10-18"
 
 **读者视角提示：** 注意 Aurelia's advice contrasts with Elvina's: Elvina says "be cold and remote" (suppress desire), Aurelia says "be awake to what you want" (embrace desire). Clarion is caught between these two mentors. The book's answer: embrace desire.
 
-> **原句 2:** "'You want me to try now?' 'If you'd like,' he said. ... Clarion closed her eyes and tried to—No, she could not try. That rather defeated the purpose, when the entire point of the exercise was to simply be. And yet, it was so difficult to be fully present when she could feel Milori there. Self-consciousness would make this entirely impossible. She opened her eyes again, prepared to tell him she couldn't manage it, when the sight of him silenced her every protest. He was gazing at her like she was something to marvel at. His expression went soft and unguarded when he noticed her staring back at him, as though he hadn't expected to be caught but did not mind it overmuch. There was no mistaking the wide-open yearning in his eyes."
+> **原句 2:** "Carefully, almost reverently, she let her fingertips trace the line of his jaw and tipped his face toward hers."
 
-**中文理解：** "You want me to try now?" "If you'd like," he said。……Clarion closed her eyes and tried to——No，she could not try。That rather defeated the purpose，when the entire point of the exercise was to simply be。And yet，it was so difficult to be fully present when she could feel Milori there。Self-consciousness would make this entirely impossible。She opened her eyes again，prepared to tell him she couldn't manage it，when the sight of him silenced her every protest。He was gazing at her like she was something to marvel at。His expression went soft and unguarded when he noticed her staring back at him，as though he hadn't expected to be caught but did not mind it overmuch。There was no mistaking the wide-open yearning in his eyes。
+**中文理解：** Carefully，almost reverently，she let her fingertips trace the line of his jaw and tipped his face toward hers。Clarion 轻轻触摸 Milori 的下巴，引导他面向自己。
 
-**关键词：** tried · simply be · self-consciousness · marvel · yearning
-
-**为什么这样写：** 用 "she could not try" 作 Milori's lesson—magic is not trying, it's being. "Self-consciousness would make this entirely impossible" 作 self-awareness as obstacle—Clarion's self-doubt blocks her magic. "He was gazing at her like she was something to marvel at" 作 Milori's gaze—his seeing her enables her being. "wide-open yearning" 作 Milori's desire—he wants her, openly.
-
-**读者视角提示：** 注意 Milori says "It's possible that advice might have done you more harm than good"—he's challenging Elvina's "absence of emotion" philosophy. Milori's theory: magic comes from being fully present, not from suppressing emotion. This is the book's thesis.
+**关键词：** carefully · reverently · fingertips · trace
 
 > **原句 3:** "Carefully, almost reverently, she let her fingertips trace the line of his jaw and tipped his face toward hers. The space she held between them was a question—one he answered readily. His hand came to cradle the side of her neck, and although his touch chilled her skin, warmth flooded through her. Clarion leaned fully into Winter and kissed him. As his lips moved against hers, something bubbled up within her like spring water until it spilled over completely. Happiness, she thought, far purer than any she had ever felt—and magic. She felt it trilling in her bones and weaving through her fingertips, eager to apply itself. This time, it did not feel like something she had to master. It felt like a river—like a deep and inexhaustible well. It flowed forth until her entire body radiated a soft golden light."
 
