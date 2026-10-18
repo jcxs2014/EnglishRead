@@ -11,7 +11,7 @@ modified: "2026-10-18"
 - **情感弧线位置**：全书开篇的预言与预警——情感尚未启动，先让读者在寒意中站稳：这个世界美，但美之下藏着冰。
 - **母题兑现/反转**：母题「恐惧与边界」在此立下：暖季妖精把冬林当作不可逾越的禁忌，而真正的威胁偏偏从禁忌的最深处爬出。边界不是盾，是盲区。
 - **人物弧线**：本章人物仅以功能出现——「年轻的冬林守卫」（Warden）目睹了暗影的诞生，他是全书第一个看见真相的人；暖季妖精们此刻尚不知情，仍活在「冬林只是苦寒」的幻觉里。
-- **叙事手法**：第二人称引导式开篇（"If you gaze out your window…"）把读者拉进童话的叙述位置，再用「 cake sliced into four pieces」的比喻把 Pixie Hollow 的地理一次性铺开；后半转为目击者视角，节奏从漫游式转为惊悚式，末句「lumbered toward the warm seasons」把悬念直接推到下一章。
+- **叙事手法**：第二人称引导式开篇（"If you gaze out your window…"）把读者拉进童话的叙述位置，再用「four generous pieces」的比喻把 Pixie Hollow 的地理一次性铺开；后半转为目击者视角，节奏从漫游式转为惊悚式，末句「lumbered toward the warm seasons」把悬念直接推到下一章。
 
 ## 精读
 
@@ -25,15 +25,11 @@ modified: "2026-10-18"
 
 **读者视角提示：** 注意「few will ever experience true wonder」这句话的语气——叙述者在叹气，不是在庆祝。这句叹气为全书埋下一条暗线： wonder 是一种需要被守护的东西，而守护它的代价，本章末尾的暗影已经预告了。
 
-> **原句 2:** "They orchestrate the turn of the season in a single night, then return home. It is said that if you soar past the second star on the right and go straight on till morning, you will reach it, too: the Queendom of Pixie Hollow. Considered from above, Pixie Hollow is like a cake sliced into four generous pieces. At its heart is the Pixie Dust Tree, luminous and golden as a candle in the darkness. To the east is Spring Valley, where the flowers remain forever in bloom. To the south: the Summer Glade, where the days stretch long and languid as a drowsing cat. To the west: the Autumn Forest, cool and crisp and ablaze with color."
+> **原句 2:** "They orchestrate the turn of the season in a single night, then return home."
 
-**中文理解：** 他们在一夜之间编排季节的更替，然后回家。据说，如果你飞过第二颗右星，一直飞到天明，你也能到达：Pixie Hollow 王国。从上方看，Pixie Hollow 像一块切成四大片的蛋糕。中心是 Pixie Dust Tree，明亮金色，像黑暗中的蜡烛。东边是 Spring Valley，花永远开着。南边是 Summer Glade，日子长而慵懒，像一只打瞌睡的猫。西边是 Autumn Forest，凉爽、脆爽、 blaze with color。
+**中文理解：** "They orchestrate the turn of the season in a single night, then return home。" Never Fairies 在一夜之间编排季节的更替，然后回家。
 
-**关键词：** orchestrate · luminous · languid
-
-**为什么这样写：** 用「蛋糕切成四片」把地理一次性可视化，同时把四季节用四句诗化定义锁死——春的永恒花开、夏的慵懒长昼、秋的凉爽 blaze、冬的缺席（只留北边 Winter Woods）。冬被故意从「蛋糕」里切掉，留白本身就是叙事：冬是这个世界的盲点。
-
-**读者视角提示：** 记住这张地图——后文所有「边界」的 drama 都发生在暖季与冬林的接缝处。Pixie Dust Tree 是中心，Winter Woods 是被切掉的第五片。
+**关键词：** orchestrate · season · night · return · home
 
 > **原句 3:** "The denizens of the warm seasons do their best to keep the Winter Woods far out of their minds. But when they catch a glimpse of it beneath the vast shadow of the mountain, they cannot help thinking of its skeletal trees, or the icicles glittering like bared fangs in the moonlight, or those who dwell in such a gray and lifeless place. The winter fairies—so the warm fairies reason—are best left to their snowy solitude. They have managed their own affairs for centuries. Besides, the cold there is so bitter and cruel it will shatter a warm fairy's wings in an instant. No good would ever come of crossing its border."
 
