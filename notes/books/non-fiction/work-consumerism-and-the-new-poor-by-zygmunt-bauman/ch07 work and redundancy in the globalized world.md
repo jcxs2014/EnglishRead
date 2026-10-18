@@ -96,7 +96,7 @@ source_text: ch07 work and redundancy in the globalized world.txt
 
 ### ⑤ 「地球满了」：无主之地的消失
 
-> **原句 5:** ""The planet is full' is a statement in sociology and political science. It refers not to the state of the Earth, but to the ways and means of its inhabitants. It signals the disappearance of "no man's lands', of territories fit to be defined and/or treated as void of human habitation as well as devoid of sovereign administration and therefore open to (clamouring for!) colonization and settlement. Such territories, now largely absent, played for a greater part of modern history the crucial role of dumping grounds for human waste turned out in ever rising volumes in the parts of the globe affected by the processes of "modernization'."
+> **原句 5:** "The planet is full' is a statement in sociology and political science. It refers not to the state of the Earth, but to the ways and means of its inhabitants. It signals the disappearance of "no man's lands', of territories fit to be defined and/or treated as void of human habitation as well as devoid of sovereign administration and therefore open to (clamouring for!) colonization and settlement. Such territories, now largely absent, played for a greater part of modern history the crucial role of dumping grounds for human waste turned out in ever rising volumes in the parts of the globe affected by the processes of "modernization'."
 
 **中文理解**：「地球满了」是一个社会学和政治学命题。它指的不是地球的状态，而是地球居民的方式与手段。它标志着「无主之地」的消失——那些可以被定义和/或被当作无人居住、并且缺乏主权管理、因而对殖民与定居开放（甚至 clamouring for，即「吵着要」）的领土消失了。这类领土如今大体不存在了，而在现代史的大部分时间里，它们扮演着关键角色：为地球上受「现代化」过程影响的部分所产生的、数量不断上升的人类废弃物提供倾倒场。
 
