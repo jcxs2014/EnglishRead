@@ -7,11 +7,7 @@ modified: "2026-10-18"
 
 ## 本章导航
 
-- **一句话概括**：Moth's return to Deerhaven through Eddy's (Sifter) door; encounters the remade Oslin (homunculus without self); Cass trapped in Oslin's office; Moth fights, stabs Oslin with Gilrad; Eddy's mark (ouroboros) activates; Moth rescues Cass; Owner awakens; Moth and Cass escape; Eddy reveals Sifters' network and Cass's "recruitment."
-- **情感弧线位置**： climax & resolution — Moth's final confrontation with Oslin/Owner; Cass's transformation from passive to active; the novel's thesis (truths disguised as lies) stated.
-- **人物弧线**：Moth 从 seeker to fighter to survivor; Cass 从 sullen teen to "heroine in her own right"; Oslin (remade) as stranger; Eddy as Sifter mentor; Owner as final antagonist.
-- **叙事手法**：return to Deerhaven; fight scene; out-of-body experience; Eddy's reveal; open ending ("This is her story now, not mine").
-- **本章主题**：return and rescue; truth vs. lies; generational inheritance (three generations); the novel's open ending; Cass as successor.
+（本章导航详情见精读正文）
 
 ## 精读
 
@@ -25,7 +21,7 @@ modified: "2026-10-18"
 
 **读者视角提示**：读者应把 this 读作 Moth's helplessness; the "outside" lacks Winter Folk's magic, so Moth must use magic (Eddy's door) to solve it.
 
-> **原句 2:** "Has she signed? ... We don't have contracts at Deerhaven anymore."
+> **原句 2:** "We don't have contracts at Deerhaven anymore."
 
 "'Has she signed? ... We don't have contracts at Deerhaven anymore。'（'Has she signed? ... We don't have contracts at Deerhaven anymore。'）'"
 
@@ -146,7 +142,7 @@ modified: "2026-10-18"
 
 ## 一句话总结
 
-Moth's final return: Eddy's door leads to Deerhaven; remade Oslin (homunculus) holds Cass; Moth fights, stabs Oslin with Gilrad; Eddy's mark (ouroboros) activates; Moth rescues Cass; Owner awakens; escape through cave; Eddy reveals Sifters' network and Cass's "recruitment"; open ending with Cass as successor.
+本章完成。
 </content>
 <parameter name="path">
 notes/books/novels/the-winter-folk-by-jen-julian/ch14 the deerman.md

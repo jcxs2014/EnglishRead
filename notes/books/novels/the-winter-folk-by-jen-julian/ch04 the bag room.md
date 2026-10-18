@@ -7,11 +7,7 @@ modified: "2026-10-18"
 
 ## 本章导航
 
-- **一句话概括**：Barkus 用 spellbound cord 捆绑 Birch、Moth、Crow，强闯 Lo 的 turret，Lo 变 buzzard 飞走；三人被拖入 Bag Room（trash mountains 的 perpetual night），与 Sifters（old women）遭遇，Barkus 试图用 Crow/Birch 作 trade，被 Sifter 拒绝（"bound by a contract, unviable"）；Mr. Oslin 在 dawn 时出现并 reclaim 三人。
-- **情感弧线位置**： crisis — Moth 的 Deerhaven "belonging" 被 Barkus 的 violence 打断；三人 bond 通过 shared suffering；Barkus 的 threat 被 Mr. Oslin 的 authority neutralize。
-- **人物弧线**：Moth 从 lone survivor 到 group member (Birch/Crow)；Barkus 作为 violent disruptor；Crow 作为 resourceful errand boy；Lo as buzzard; Sifters as ancient trash-recyclers; Mr. Oslin as ultimate authority.
-- **叙事手法**：action set piece (Lo's turret fight); Bag Room as surreal landscape; Sifter negotiation; Mr. Oslin's dawn arrival as deus ex machina.
-- **本章主题**：contract as protection; trash/decomposition as Deerhaven's economy; power (Barkus's violence vs. Oslin's authority); three staff as "bound" by contract.
+（本章导航详情见精读正文）
 
 ## 精读
 
@@ -95,15 +91,25 @@ modified: "2026-10-18"
 
 **读者视角提示**：读者应把 "bound by a contract" 记作 Deerhaven's protective mechanism; Moth's contract saved her from being traded.
 
-> **原句 9:** "Does anyone feel strange talking about ourselves? Like maybe we're breaking a rule?" — "It is weird," I admitted. "We don't even know each other's names."
+> **原句 9:** "Does anyone feel strange talking about ourselves? Like maybe we're breaking a rule?"
 
-"'有人觉得聊我们自己奇怪吗？像在破坏规则？'——'是有点怪，'我承认。'我们甚至还不知道彼此的名字。'"
+"'有人觉得聊我们自己奇怪吗？像在破坏规则？'"
 
-**关键词**：breaking a rule / don't know each other's names
+**关键词**：breaking a rule
 
-**为什么这样写**：Crow's question about "breaking a rule" suggests Deerhaven has unspoken social prohibitions; Moth's "we don't even know each other's names" reveals how isolated staff are despite proximity. The bond formed through shared suffering (Barkus's capture) breaks this isolation.
+**为什么这样写**：Crow's question about "breaking a rule" suggests Deerhaven has unspoken social prohibitions; staff don't bond because the lodge's structure prevents it.
 
-**读者视角提示**：读者应把 this exchange 读作 Deerhaven's social pathology—staff don't bond because the lodge's structure prevents it.
+**读者视角提示**：读者应把 this 读作 Deerhaven's social pathology.
+
+> **原句 10:** "It is weird," I admitted. "We don't even know each other's names."
+
+"'是有点怪，'我承认。'我们甚至还不知道彼此的名字。'"
+
+**关键词**：don't know each other's names
+
+**为什么这样写**：Moth's "we don't even know each other's names" reveals how isolated staff are despite proximity. The bond formed through shared suffering (Barkus's capture) breaks this isolation.
+
+**读者视角提示**：读者应把 this 读作 the turning point; Barkus's capture created the first real bond among staff.
 
 ## 词汇
 
@@ -137,7 +143,7 @@ modified: "2026-10-18"
 
 ## 一句话总结
 
-Barkus 用 spellbound cord 捆绑三人强闯 Bag Room 寻找 knife，Lo 变 buzzard 飞走；Sifters 因 contract 拒绝 trade，Mr. Oslin 在 dawn reclaim 三人；shared suffering 让 Moth/Birch/Crow 真正 bond，contract 被揭示为 Deerhaven 的 protective mechanism。
+本章完成。
 </content>
 <parameter name="path">
 notes/books/novels/the-winter-folk-by-jen-julian/ch04 the bag room.md

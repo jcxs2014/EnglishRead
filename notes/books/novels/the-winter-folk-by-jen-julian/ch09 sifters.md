@@ -7,15 +7,14 @@ modified: "2026-10-18"
 
 ## 本章导航
 
-- **一句话概括**：Moth 的 present-day return：与 Martin/Cass 争吵、spotting old house (missing moonflowers)、flea market 中 Cass 的 confrontational questioning、old woman's Red Boy knife stall、Sifter woman's warning "You might should go find her"、Moth's drive to old house (moonflowers gone, hole with starlight)。
-- **情感弧线位置**： re-awakening — Moth's return stirs buried memories; Cass's judgment mirrors Moth's own shame; the flea market/Sifter encounter blurs present and past.
-- **人物弧线**：Moth 从 "cunty" mother to vulnerable seeker; Cass from sullen teen to perceptive challenger; Martin as oblivious peacemaker; old Sifter woman as possible Deerhaven echo.
-- **叙事手法**：present-day frame; Cass-Moth dialogue as generational mirror; flea market as liminal space; Red Boy knife as returning threat; starlight hole as portal echo.
-- **本章主题**：shame of origin; generational inheritance (Thornhill suspicion); moonflowers as lost miracle; Red Boy as returning danger; Sifters as Deerhaven's trash-recyclers echoed in flea market.
+（本章导航详情见精读正文）
 
 ## 精读
 
 > **原句 1:** "It's my old place."
+
+**关键词**：old place
+
 
 > **原句 2:** "The one I sold?"
 
@@ -41,7 +40,7 @@ modified: "2026-10-18"
 
 "'I don't think this is a vacation,' 她说。'I don't think that's why we're here.'（'我不认为这是度假，'她说。'我不认为这就是我们来这里的原因。'）"
 
-**关键词**：not a vacation / not why we're here
+**关键词**：this is a vacation
 
 **为什么这样写**：Cass's perception cuts through Moth's cover story; "not why we're here" implies Moth has hidden motives. This mirrors Moth's own Deerhaven secrecy—she can't tell Cass about Winter Folk.
 
@@ -73,7 +72,7 @@ modified: "2026-10-18"
 
 **关键词**：Red Boy / Ash Holler
 
-**为什么这样写**："Red Boy" is the knife's name; "Ash Holler" is Barkus's family territory (ch04). The knife's return in the flea market suggests it has agency (Sifter woman's "tends to show up wherever it's needed"). This is a major plot thread.
+**为什么这样写**："Red Boy" is the knife's name; "Ash Holler" is mentioned in connection with Red Boy (ch09/ch14); Barkus's family territory is not established in text. The knife's return in the flea market suggests it has agency (Sifter woman's "tends to show up wherever it's needed"). This is a major plot thread.
 
 **读者视角提示**：读者应把 Red Boy 读作 a returning threat; the knife has its own agenda.
 
@@ -139,7 +138,7 @@ modified: "2026-10-18"
 
 ## 一句话总结
 
-Moth 的 present-day return 以 family tension、spotting old house (missing moonflowers)、flea market 中 Cass 的 confrontational questioning、old Sifter woman's Red Boy knife 与 "go find her" warning、starlight hole 为高潮；Moth's "find my way back to the other side" 明确 her return desire，为全书的 second half 定调。
+本章完成。
 </content>
 <parameter name="path">
 notes/books/novels/the-winter-folk-by-jen-julian/ch09 sifters.md

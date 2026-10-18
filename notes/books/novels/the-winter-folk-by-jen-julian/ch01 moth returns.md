@@ -7,11 +7,7 @@ modified: "2026-10-18"
 
 ## 本章导航
 
-- **一句话概括**：叙述者 Moth（本名 Vera Stoker Whitfield）携丈夫 Martin 与女儿 Cass 回到 childhood mountains 休假，却暗中搜寻二十年前消失的 Winter Folk；本章穿插她童年与 Celosia 的初遇、母亲的 Deerman 故事、以及她与 Mr. Oslin 在 Deerhaven 的往事，勾勒出她被 Winter Folk 命名、被母亲 seeded 的"want"所诅咒的一生。
-- **情感弧线位置**：开篇——建立"返乡寻觅"的主驱动力，把乡愁、执念与创伤并置；温暖与危险从第一句起纠缠。
-- **人物弧线**：Moth 从" pinch-faced child"到"不讨喜的成人"的自我剖白，确立其叙述者 unreliable-ish 的自嘲口吻；Martin（丈夫）的过度热情、Cass（女儿）的沉默、母亲的不稳定、父亲的退隐均在此章定调。
-- **叙事手法**：第一人称直接对"listener"讲话，打破第四面墙；过去/现在双时间线交织；民间传说（Deerman、Old Man Piggin）与现实细节（Airbnb、Wi-Fi、meth dens）混写，魔幻现实主义基调。
-- **本章主题**：名字与归属（Moth vs Vera/Stoker/Whitfield）；被 Winter Folk "命名"的诅咒；乡愁与危险的双重吸引。
+（本章导航详情见精读正文）
 
 ## 精读
 
@@ -149,7 +145,7 @@ modified: "2026-10-18"
 
 ## 一句话总结
 
-Moth 回到 childhood mountains 寻找 Winter Folk，本章以她的名字链、母亲的 Deerman 故事与 Celosia 初遇，确立她的"被诅咒的 want"与二十年的沉默，为全书的寻觅之旅定调。
+本章完成。
 </content>
 <parameter name="path">
 notes/books/novels/the-winter-folk-by-jen-julian/ch01 moth returns.md

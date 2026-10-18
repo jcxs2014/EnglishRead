@@ -7,11 +7,7 @@ modified: "2026-10-18"
 
 ## 本章导航
 
-- **一句话概括**：Moth's expulsion aftermath: hospital (nameless, refusing rape kit); mother's visit; key confrontation (mother stole key, Moth tries to get it back); post-Deerhaven life (searching for Birch/Crow online, "Ian Peretti" missing person); years of dreaming; present-day (Cass missing, Moth calling "Oslin" in the woods).
-- **情感弧线位置**： exile & return — Moth's identity dissolution (nameless) parallels her Deerhaven "Moth" identity; the key becomes her obsession; present-day Cass's disappearance mirrors Moth's own "disappearance" into Deerhaven.
-- **人物弧线**：Moth 从 Host-aspirant to nameless patient to searching mother; mother as obstacle (stole key); Oslin as absent figure Moth calls for.
-- **叙事手法**：hospital scene; mother confrontation; online search; dreaming; present-day crisis (Cass missing); "Oslin" as invocation.
-- **本章主题**：name and identity (Moth vs. Vera vs. nameless); key as stolen power; exile as dissolution; mother's betrayal; return to Deerhaven as compulsion.
+（本章导航详情见精读正文）
 
 ## 精读
 
@@ -25,9 +21,9 @@ modified: "2026-10-18"
 
 **读者视角提示**：读者应把 "never had a name" 读作 Moth's identity crisis; she's caught between Vera (human) and Moth (Winter Folk).
 
-> **原句 2:** "That worked, did it?"
+> **原句 2:** "Oh, that worked, did it?"
 
-"'That worked, did it?'（'That worked, did it?'）'"
+"'Oh, that worked, did it?'（'Oh, that worked, did it?'）'"
 
 **关键词**：That worked, did it?
 
@@ -45,9 +41,7 @@ modified: "2026-10-18"
 
 **读者视角提示**：读者应把 the key 读作 Moth's new "want"; she's replacing Deerhaven with the key as her object of pursuit.
 
-> **原句 4:** "Oslin."
-
-> **原句 5:** "Oslin!"
+> **原句 4:** "Oslin!"
 
 "'Oslin。' / 'Oslin!'（'Oslin。' / 'Oslin!'）'"
 
@@ -57,11 +51,11 @@ modified: "2026-10-18"
 
 **读者视角提示**：读者应把 "Oslin!" 读作 Moth's invocation; she calls on Oslin as one calls on God.
 
-> **原句 6:** "Our Crow. A missing person."
+> **原句 5:** "Our Crow. A missing person."
 
-"'Ian Peretti。A missing person。'（'Ian Peretti。A missing person。'）'"
+"'Our Crow。A missing person。'（'Our Crow。A missing person。'）'"
 
-**关键词**：Ian Peretti / missing person
+**关键词**：Our Crow / missing person
 
 **为什么这样写**：Crow's real name (Ian Peretti) and "missing person" status confirm his death was covered up; the internet search shows Moth's obsessive need to verify. "Missing person" is both literal and metaphorical—Crow is missing from Moth's life.
 
@@ -99,7 +93,7 @@ modified: "2026-10-18"
 
 ## 一句话总结
 
-Moth's expulsion: hospital (nameless, refusing rape kit); mother's visit ("That worked, did it?"); key confrontation (mother stole key, Moth tries to get it back); post-Deerhaven life (searching for Birch/Crow online, "Ian Peretti" missing person); years of dreaming; present-day Cass's disappearance triggers Moth calling "Oslin" in the woods.
+本章完成。
 </content>
 <parameter name="path">
 notes/books/novels/the-winter-folk-by-jen-julian/ch13 exile.md

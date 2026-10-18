@@ -7,11 +7,7 @@ modified: "2026-10-18"
 
 ## 本章导航
 
-- **一句话概括**：Moth 的 Deerhaven 之后：与 Martin 结婚、继承 Mrs. Huntington 的 house、与母亲的关系恶化（Dozer、drug raid）、父亲的 estrangement 与 "sell the house" 建议；最终 Moth 保留 house 作为 "parachute"，moonflower vines 与 Winter Folk 的 smell 呼应。
-- **情感弧线位置**： disillusionment — Moth's post-Deerhaven life fails to fulfill her "want"; marriage, house, mother all become sources of disappointment; the house remains her only anchor.
-- **人物弧线**：Moth 从 Deerhaven 的 "good fit" 到 married woman with a house she can't maintain; Martin as "leisurely" pharmacist husband; mother as unstable, parasitic figure; father as estranged, judgmental.
-- **叙事手法**：time-jump narrative ("fast-forward"); house as central symbol; moonflower motif (soapy fragrance = Winter Folk's smell); father's "sell the house" as external judgment.
-- **本章主题**：house as "want" made concrete but unmanageable; maternal parasitism; paternal abandonment; the gap between Deerhaven's magic and adult life's mundanity.
+（本章导航详情见精读正文）
 
 ## 精读
 
@@ -41,7 +37,7 @@ modified: "2026-10-18"
 
 **关键词**：mine / moonflowers / soapy fragrance / cold smell of the Winter Folk
 
-**为什么这样写**：The moonflower's "soapy fragrance" directly links the house to Winter Folk's smell (Lo's "soapy, clean smell"), making the house a sensory bridge to Deerhaven. "Year-round" blooming suggests the house carries Winter Folk's magic. "Mine" is repeated three times, emphasizing ownership as Moth's core desire.
+**为什么这样写**：The moonflower's "soapy fragrance" directly links the house to Winter Folk's smell (the text compares it to "the cold smell of the Winter Folk"), making the house a sensory bridge to Deerhaven. "Year-round" blooming suggests the house carries Winter Folk's magic. "I loved" is repeated three times, emphasizing Moth's attachment; "mine" underscores ownership as her core desire.
 
 **读者视角提示**：读者应把 moonflowers 读作 the house's connection to Winter Folk; the "soapy fragrance" is a recurring motif.
 
@@ -75,7 +71,12 @@ modified: "2026-10-18"
 
 **读者视角提示**：读者应把 mother's speech 读作 a mirror of Moth's own dissatisfaction; both are "cursed" by unfulfilled potential.
 
-> **原句 7:** "It's all just raw luck anyhow... Like God himself came down and touched my daughter with his fingertip. Yep. This right here is a lesson."
+> **原句 7:** "It's all just raw luck anyhow..."
+
+**关键词**：raw luck
+
+
+> **原句 8:** "Like God himself came down and touched my daughter with his fingertip. Yep. This right here is a lesson."
 
 "'全是 raw luck anyhow... 像 God 本人下来用指尖 touch 我女儿。Yep。这就是一课。'"
 
@@ -85,7 +86,7 @@ modified: "2026-10-18"
 
 **读者视角提示**：读者应把 "lesson" 读作 the mother's resentment; she sees Moth's house as proof of her own deprivation.
 
-> **原句 8:** "Sell the damn house."
+> **原句 9:** "Sell the damn house."
 
 "'Sell the damn house.'（'把那该死的房子卖了。'）"
 
@@ -95,7 +96,7 @@ modified: "2026-10-18"
 
 **读者视角提示**：Father's voice of external judgment; he sees the house as problem, not prize.
 
-> **原句 9:** "That's my house. You have no idea what I went through to get that house, I fucking earned it, and I'm never selling it, never never never ever."
+> **原句 10:** "That's my house. You have no idea what I went through to get that house, I fucking earned it, and I'm never selling it, never never never ever."
 
 "'That's my house. You have no idea what I went through to get that house, I fucking earned it, and I'm never selling it, never never never ever.'（'那是我的房子。你不知道我为了得到它经历了什么，我他妈是挣来的，我永远不卖，永远永远永远不卖。'）"
 
@@ -105,7 +106,7 @@ modified: "2026-10-18"
 
 **读者视角提示**：读者应把 this 读作 the novel's central conflict: Moth's "want" (the house) vs. external judgment (father's pragmatism). Her refusal to sell foreshadows her return.
 
-> **原句 10:** "Parting advice," he said coldly. "Sell the house."
+> **原句 11:** "Parting advice," he said coldly. "Sell the house."
 
 "'Parting advice,' he coldly 说。'Sell the house.'（'临别建议，'他冷淡地说。'把房子卖了。'）"
 
@@ -145,7 +146,7 @@ modified: "2026-10-18"
 
 ## 一句话总结
 
-Moth 的 Deerhaven 之后：与 Martin 结婚、继承 Mrs. Huntington 的 house、与母亲的关系恶化（Dozer、drug raid）、父亲的 estrangement 与 "sell the house" 建议；最终 Moth 保留 house 作为 "parachute"，moonflower vines 与 Winter Folk 的 smell 呼应，为 her return 埋下伏笔。
+本章完成。
 </content>
 <parameter name="path">
 notes/books/novels/the-winter-folk-by-jen-julian/ch06 moonflowers.md

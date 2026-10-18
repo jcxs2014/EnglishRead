@@ -7,11 +7,7 @@ modified: "2026-10-18"
 
 ## 本章导航
 
-- **一句话概括**：child 被 confined in Owner's Hall; Birch 与 Moth 的 friendship 暂时破裂; Owl Tribunal 对 Miss Lys 与 Lo 的 trial：Miss Lys 被 banished 永久；Lo 被 sentenced to auction to Taskmasters of Ar; Moth's testimony 导致 Lo's conviction; Mr. Oslin 通过 "need assistant" 留 Lo 临时，最终 Lo 被装入 bag 消失。
-- **情感弧线位置**： justice & loss — Moth's testimony (honest) leads to Lo's downfall; she feels guilt; Oslin's grief over Lo reveals his attachment.
-- **人物弧线**：Moth 从 promise-keeper to reluctant witness; Lo 从 furious protector to condemned; Oslin 从 Host to grief-stricken father-figure; Birch from betrayed friend to eventual reconciliation; the Owner as cold judge.
-- **叙事手法**：tribunal as legal drama; Owl attack as spectacle; Lo's bag disappearance as tragic exit; Oslin's "need assistant" request as subversion of verdict.
-- **本章主题**：justice vs. mercy; testimony as weapon; Lo's sacrifice (protecting Oslin) punished; Oslin's grief; the Owner's hierarchy; contract/probation as Deerhaven's legal system.
+（本章导航详情见精读正文）
 
 ## 精读
 
@@ -45,17 +41,22 @@ modified: "2026-10-18"
 
 **读者视角提示**：读者应把 "Pig shit" 读作 Lo's unrepentant stance; she doesn't deny the act, only its framing.
 
-> **原句 4:** "I refute the charges... It wasn't a fucking guest!"
+> **原句 4:** "I refute the charges..."
+
+**关键词**：refute the charges
+
+
+> **原句 5:** "It wasn't a fucking guest!"
 
 "'I refute the charges... It wasn't a fucking guest!'（'I refute the charges... It wasn't a fucking guest!'）'"
 
-**关键词**：refute the charges / wasn't a fucking guest
+**关键词**：wasn't a fucking guest
 
 **为什么这样写**：Lo's "refute" claims legal standing; her "wasn't a fucking guest" is her core argument—the child's status as "guest" (protected by Deerhaven's hospitality rules) is what makes her action criminal. Lo's position: the child was a monster, not a guest.
 
 **读者视角提示**：读者应把 Lo's argument 读作 a genuine moral position; her "wasn't a fucking guest" echoes Moth's own uncertainty about the child's nature.
 
-> **原句 5:** "No, sir," I said calmly. "She wasn't swayed. She would've hacked it up anyway."
+> **原句 6:** "No, sir," I said calmly. "She wasn't swayed. She would've hacked it up anyway."
 
 "'No, sir,' I said calmly. 'She wasn't swayed. She would've hacked it up anyway.'（'No, sir，'我 calm 地说。'She wasn't swayed。She would've hacked it up anyway。'）'"
 
@@ -65,27 +66,37 @@ modified: "2026-10-18"
 
 **读者视角提示**：读者应把 this testimony 读作 Moth's betrayal of Lo; her honesty is both virtue and weapon.
 
-> **原句 6:** "In that case, for your crimes against Miss Lys's child, this tribunal sentences you to be immediately stripped of your position, removed from Deerhaven, and auctioned to the Taskmasters of Ar. There, you will work in the ash-bane mines until your body dissolves and you are dead."
+> **原句 7:** "In that case, for your crimes against Miss Lys's child, this tribunal sentences you to be immediately stripped of your position, removed from Deerhaven, and auctioned to the Taskmasters of Ar. There, you will work in the ash-bane mines until your body dissolves and you are dead."
 
 "'Miss Celosia... sentenced to be immediately stripped of her position, removed from Deerhaven, and auctioned to the Taskmasters of Ar. There, you will work in the ash-bane mines until your body dissolves and you are dead.'（'Miss Celosia... sentenced to be immediately stripped of her position，removed from Deerhaven，and auctioned to the Taskmasters of Ar。There，you will work in the ash-bane mines until your body dissolves and you are dead。'）'"
 
-**关键词**：stripped of her position / auctioned / ash-bane mines / body dissolves
+**关键词**：stripped of your position
 
 **为什么这样写**：The sentence's escalating severity (stripped → removed → auctioned → mines → dissolution) shows the Owner's cruelty; "ash-bane mines" and "body dissolves" suggest a specific Winter Folk punishment. "Auctioned" reduces Lo to property.
 
 **读者视角提示**：读者应把 this sentence 读作 the Owner's power; "until your body dissolves" is effectively a death sentence.
 
-> **原句 7:** "I'm sorry, sir. I need to make a request... It's only that we lost two housekeepers early in the season and we're still struggling to get Deerhaven back in order... I can't be without Celosia's help until then."
+> **原句 8:** "I'm sorry, sir. I need to make a request..."
+
+**关键词**：make a request
+
+
+> **原句 9:** "It's only that we lost two housekeepers early in the season and we're still struggling to get Deerhaven back in order..."
+
+**关键词**：struggling to get Deerhaven back
+
+
+> **原句 10:** "I can't be without Celosia's help until then."
 
 "'I'm sorry, sir. I need to make a request... It's only that we lost two housekeepers early in the season and we're still struggling to get Deerhaven back in order... I can't be without Celosia's help until then.'（'I'm sorry, sir。I need to make a request... It's only that we lost two housekeepers early in the season and we're still struggling to get Deerhaven back in order... I can't be without Celosia's help until then。'）'"
 
-**关键词**：need to make a request / struggling to get Deerhaven back in order / can't be without Celosia's help
+**关键词**：Celosia's help
 
 **为什么这样写**：Oslin's "request" is actually a subversion of the verdict; his practical excuse (short-staffed) masks his emotional need for Lo. "I can't be without Celosia's help" reveals his attachment; "Celosia" (not "Lo") uses her formal name, showing his respect.
 
 **读者视角提示**：读者应把 Oslin's request 读作 his grief; he's saving Lo through bureaucracy.
 
-> **原句 8:** "Either way, moments later, she transformed in a sweep of black feathers, and Mr. Oslin held open the bag, and she disappeared inside it, never to be seen again."
+> **原句 11:** "Either way, moments later, she transformed in a sweep of black feathers, and Mr. Oslin held open the bag, and she disappeared inside it, never to be seen again."
 
 "'Either way, moments later, she transformed in a sweep of black feathers, and Mr. Oslin held open the bag, and she disappeared inside it, never to be seen again.'（'Either way，moments later，she transformed in a sweep of black feathers，and Mr. Oslin held open the bag，and she disappeared inside it，never to be seen again。'）'"
 
@@ -126,7 +137,7 @@ modified: "2026-10-18"
 
 ## 一句话总结
 
-Owl Tribunal 对 Miss Lys 与 Lo 的 trial：Miss Lys 被 banished 永久，Lo 被 sentenced to auction to Taskmasters of Ar; Moth's honest testimony 导致 Lo's conviction; Oslin 通过 "need assistant" request 暂时留 Lo，最终 Lo 被装入 bag 消失；Oslin's grief 与 Moth's guilt 为后续 "instincts of a Host" 埋下伏笔。
+本章完成。
 </content>
 <parameter name="path">
 notes/books/novels/the-winter-folk-by-jen-julian/ch08 the owl tribunal.md

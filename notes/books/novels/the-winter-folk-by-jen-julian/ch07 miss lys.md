@@ -7,11 +7,7 @@ modified: "2026-10-18"
 
 ## 本章导航
 
-- **一句话概括**：Moth 的第二季：Miss Lys（pregnant, blood-leaking Winter Folk guest）arrival 与 birth of a child that becomes a monster; Lo's threat to kill the baby; Moth's promise to Miss Lys; Oslin transforms into Deerman to contain the child; the Owner appears; Oslin wounded but survives.
-- **情感弧线位置**： crisis & revelation — Moth witnesses Deerhaven's darkest night; Oslin's Deerman form confirms his non-human identity; the Owner's arrival reveals hierarchical power.
-- **人物弧线**：Moth 从 housekeeper to promise-keeper; Miss Lys as tragic, manipulative guest; Lo as furious protector; Oslin as wounded Host; Crow as fellow promise-keeper; the Owner as supreme authority.
-- **叙事手法**：horror set piece (birth scene); Deerman transformation; Owner's appearance as shadowy authority; Moth's promise as moral burden.
-- **本章主题**：guests' reproductive crisis (Winter Folk infertility); Lo's protective rage; Moth's "instincts of a Host"; the Owner's hierarchy; promise as binding force.
+（本章导航详情见精读正文）
 
 ## 精读
 
@@ -147,7 +143,7 @@ modified: "2026-10-18"
 
 ## 一句话总结
 
-Moth 的第二季以 Miss Lys 的 arrival 与 birth 为 climax：Lo 威胁杀婴、Moth 承诺保护、Oslin 变 Deerman contain 了 child、Owner 出现 reveal 层级；Moth 的 "instincts of a Host" 被 Oslin 确认，为 her return 埋下伏笔。
+本章完成。
 </content>
 <parameter name="path">
 notes/books/novels/the-winter-folk-by-jen-julian/ch07 miss lys.md

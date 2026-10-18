@@ -7,11 +7,7 @@ modified: "2026-10-18"
 
 ## 本章导航
 
-- **一句话概括**：Moth's 第三季：secret affair with Oslin; Agnes as surveillance; Mrs. Mandrel's arrival (veiled woman from tribunal); Crow's distancing; Mrs. Mandrel's interview (homunculus reveal: Agnes, Oberon, Jarvis are constructs; Oslin is a homunculus too); Crow's death in Owner's Hall (stole key, burned by its magic); Moth's grief and Oslin's inability to retaliate.
-- **情感弧线位置**： catastrophe — Crow's death is the season's central tragedy; Moth's affair with Oslin becomes the source of Crow's resentment; Mrs. Mandrel's manipulation leads to Crow's fatal curiosity.
-- **人物弧线**：Moth 从 confident lover to grief-stricken; Crow 从 confidant to rival/schemer to victim; Oslin 从 lover to grief-stricken Host; Mrs. Mandrel as manipulator; Agnes as homunculus spy.
-- **叙事手法**：secret affair in loft; Mrs. Mandrel's homunculus demonstration; Crow's death in the Owner's Hall; the black door as threshold; key as deadly weapon.
-- **本章主题**：homunculus (Oslin's nature revealed); contract breach as fatal; love as vulnerability; Mrs. Mandrel's manipulation; "gaps" in Oslin's memory; the key's lethality.
+（本章导航详情见精读正文）
 
 ## 精读
 
@@ -77,13 +73,19 @@ modified: "2026-10-18"
 
 > **原句 7:** "He's dead, he's dead, oh God!"
 
+**关键词**：dead
+
+
 > **原句 8:** "Who's dead?"
+
+**关键词**：Who's dead
+
 
 > **原句 9:** "The key!"
 
 "'He's dead, he's dead, oh God!' — 'Who's dead?' — 'The key!'（'He's dead, he's dead, oh God!' — 'Who's dead?' — 'The key!'）'"
 
-**关键词**：He's dead / The key
+**关键词**：dead / The key
 
 **为什么这样写**：Moth's inability to say Crow's name ("The key!" instead) shows her trauma; Oslin's "Who's dead?" demands specificity. The exchange reveals Moth's dissociation.
 
@@ -91,11 +93,14 @@ modified: "2026-10-18"
 
 > **原句 10:** "MOTH? IS THAT MOTH?"
 
+**关键词**：MOTH?
+
+
 > **原句 11:** "BUT WHY ARE YOU RUNNING AWAY, MOTH? COME BACK. COME BACK AND WE CAN TALK ABOUT YOUR FUTURE AT DEERHAVEN."
 
 "'MOTH? IS THAT MOTH?' / 'BUT WHY ARE YOU RUNNING AWAY, MOTH? COME BACK. COME BACK AND WE CAN TALK ABOUT YOUR FUTURE AT DEERHAVEN。'（'MOTH? IS THAT MOTH?' / 'BUT WHY ARE YOU RUNNING AWAY, MOTH? COME BACK. COME BACK AND WE CAN TALK ABOUT YOUR FUTURE AT DEERHAVEN。'）'"
 
-**关键词**：MOTH? IS THAT MOTH? / COME BACK / YOUR FUTURE AT DEERHAVEN
+**关键词**：MOTH?
 
 **为什么这样写**：Mrs. Mandrel's capitalized speech marks her non-human voice; "your future at Deerhaven" is a threat disguised as invitation. The pursuit scene is nightmare-like.
 
@@ -155,7 +160,7 @@ modified: "2026-10-18"
 
 ## 一句话总结
 
-Moth's 第三季：secret affair with Oslin; Mrs. Mandrel's arrival reveals Oslin's homunculus nature; Crow's death in Owner's Hall (stole key, burned by its magic); Moth's grief, Oslin's inability to retaliate; "in between. There are gaps" reveals Oslin's fragmented memory; burning Crow's contract as final farewell.
+本章完成。
 </content>
 <parameter name="path">
 notes/books/novels/the-winter-folk-by-jen-julian/ch11 mrs mandrel.md

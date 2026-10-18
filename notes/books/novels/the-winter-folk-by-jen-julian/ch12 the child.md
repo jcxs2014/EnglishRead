@@ -7,11 +7,7 @@ modified: "2026-10-18"
 
 ## 本章导航
 
-- **一句话概括**：Crow's 死亡 aftermath：Birch 与 Moth 的 reconciliation; Birch reveals her secret correspondence with Crow (Ian Peretti); Mrs. Mandrel's return; Dr. Moon vs. Mrs. Tataryan debate (control vs. acceptance); Mrs. Mandrel secures a second room (occupant unknown).
-- **情感弧线位置**： grief & conspiracy — Moth and Birch bond through shared loss; Mrs. Mandrel's manipulation is exposed; the "second room" foreshadows future threat.
-- **人物弧线**：Moth 从 accused to avenger; Birch 从 fury to grief to anger; Mrs. Mandrel as tyrant; Dr. Moon as voice of acceptance; Mrs. Tataryan as control advocate.
-- **叙事手法**：reconciliation scene; Birch's secret letters; Mrs. Mandrel's philosophical provocation; Dr. Moon/Mrs. Tataryan debate as political allegory.
-- **本章主题**：grief and betrayal; secret-keeping among friends; tyranny vs. acceptance; "second room" as foreshadowing; Winter Folk's generational crisis (infertility, rot).
+（本章导航详情见精读正文）
 
 ## 精读
 
@@ -148,7 +144,7 @@ modified: "2026-10-18"
 
 ## 一句话总结
 
-Crow's 死亡 aftermath：Birch 与 Moth 的 reconciliation; Birch reveals secret correspondence with Crow (Ian Peretti); Mrs. Mandrel's return and "consciousness is a cruel burden"; Dr. Moon vs. Mrs. Tataryan debate (control vs. acceptance); Mrs. Mandrel secures a "second room"——threat foreshadowed.
+本章完成。
 </content>
 <parameter name="path">
 notes/books/novels/the-winter-folk-by-jen-julian/ch12 the child.md

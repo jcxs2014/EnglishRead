@@ -7,11 +7,7 @@ modified: "2026-10-18"
 
 ## 本章导航
 
-- **一句话概括**：Moth's 母亲 Libby 重返（drug raid 后）；revelation that Libby worked at Deerhaven before Moth was born, broke her contract, stole a key; Moth's third year; confession of love to Oslin; their secret affair in the loft; Moth's "instincts of a Host" confirmed.
-- **情感弧线位置**： escalation & betrayal — Moth learns her mother's Deerhaven history; her own love for Oslin becomes the central tension; the affair is both fulfillment of "want" and violation of contract.
-- **人物弧线**：Moth 从 daughter to rival (mother as fellow ex-staff); Oslin from Host to lover; Agnes as cold replacement for Lo; Libby as manipulative, unrepentant ex-staff.
-- **叙事手法**：mother-daughter confrontation; Oslin's confession about Libby's contract breach; affair in the loft; Agnes as surveillance; "keys" as metaphor for access/control.
-- **本章主题**：inheritance of Deerhaven service (mother before daughter); contract breach as generational curse; love vs. contract; "instincts of a Host" as both gift and danger; the key as stolen power.
+（本章导航详情见精读正文）
 
 ## 精读
 
@@ -41,7 +37,7 @@ modified: "2026-10-18"
 
 **关键词**：broke a promise / wounded his sad, ancient heart / made a door for my escape
 
-**为什么这样写**：Libby's account of her contract breach reveals Deerhaven's "promise" system and the guest's power to create doors (escape routes). "Sad, ancient heart" humanizes the guest (likely Mr. Oslin or another Winter Folk). "Made a door for my escape" shows guests can grant freedom.
+**为什么这样写**：Libby's account of her contract breach reveals Deerhaven's "promise" system and the guest's power to create doors (escape routes). "Sad, ancient heart" humanizes the guest (later revealed to be the door-making Mr. Guzman). "Made a door for my escape" shows guests can grant freedom.
 
 **读者视角提示**：读者应把 Libby's breach 读作 a generational pattern; Moth's own "want" may lead to similar breach.
 
@@ -71,7 +67,7 @@ modified: "2026-10-18"
 
 **关键词**：I love you / Can you let me love you? / Can you love?
 
-**为什么这样写**：Moth's three-part question escalates from declaration to plea; "Can you let me love you?" asks permission; "Can you love?" questions Oslin's capacity for love. The repetition of "love" (4 times) shows Moth's desperation.
+**为什么这样写**：Moth's three-part question escalates from declaration to plea; "Can you let me love you?" asks permission; "Can you love?" questions Oslin's capacity for love. The repetition of "love" (3 times) shows Moth's desperation.
 
 **读者视角提示**：读者应把 this 读作 Moth's vulnerability; she's asking to be loved by a non-human, testing the boundary.
 
@@ -126,7 +122,7 @@ modified: "2026-10-18"
 
 ## 一句话总结
 
-Moth's 母亲 Libby 重返 revelation（Deerhaven ex-staff, contract breach, stolen key）；Moth's 第三季 confession of love to Oslin → secret affair in loft; "instincts of a Host" confirmed; Oslin's magic (ladder/loft) and Agnes's surveillance set up Moth's eventual expulsion.
+本章完成。
 </content>
 <parameter name="path">
 notes/books/novels/the-winter-folk-by-jen-julian/ch10 keys.md

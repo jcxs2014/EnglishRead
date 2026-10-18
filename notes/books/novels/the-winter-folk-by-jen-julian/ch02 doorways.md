@@ -7,11 +7,7 @@ modified: "2026-10-18"
 
 ## 本章导航
 
-- **一句话概括**：Moth 回溯二十岁前后的人生轨迹—— gifted child 的阅读史、早读大学与精神崩溃、回乡后在 Lucky 9 汽车旅馆打工、遭老板 Bullion 骚扰，以及 Lo 重返、带她穿过红门进入 Deerhaven、与 Mr. Oslin 谈判并以"五卧室、月光花露台的石屋"换取三个月服务。
-- **情感弧线位置**：上升——从失败与羞辱（大学、 motel）到被 Winter Folk 选中、被 Mr. Oslin 赋予"Host"身份；欲望被点燃，代价被埋下。
-- **人物弧线**：Moth 从"不讨喜的失败者"到"被选中的 Host"；Mr. Oslin 作为权力与魅力的化身登场；Lo/Celosia 作为引路人；母亲从故事讲述者转为 Moth 逃离的对象。
-- **叙事手法**：长篇回溯（fast-forward），穿插 Moth 的阅读史与大学失败；门（doorway）作为核心意象——从 motel 停车场到 Deerhaven 红门，每扇门都是一次身份转换。
-- **本章主题**：门与归属；金钱/欲望的具象化；"Host"身份的诱惑；大学失败与 Winter Folk 的"better"之间的对照。
+（本章导航详情见精读正文）
 
 ## 精读
 
@@ -137,7 +133,7 @@ modified: "2026-10-18"
 
 ## 一句话总结
 
-Moth 回溯从 gifted child 到大学崩溃再到 motel 打工的失败史，Lo 重返把她引过红门进入 Deerhaven，Mr. Oslin 以"五卧室石屋"换取三个月服务，Mothers 的"want"在此被 Winter Folk 的契约具象化，为全书的"被 own"埋下伏笔。
+本章完成。
 </content>
 <parameter name="path">
 notes/books/novels/the-winter-folk-by-jen-julian/ch02 doorways.md

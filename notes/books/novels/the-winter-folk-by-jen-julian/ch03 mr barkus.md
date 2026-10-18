@@ -7,11 +7,7 @@ modified: "2026-10-18"
 
 ## 本章导航
 
-- **一句话概括**：Moth 的 Deerhaven 第一季： lodge 的可移动房间、Birch 的非官方主管地位、Strange guests（Mrs. Tataryan、Old Goatface 等）的 strange arrivals、Lo 的 witching hour 唾弃 speech、Mrs. Tataryan 与 Barkus 的 ominous references，以及 Barkus 作为"young generation" disruptor 的 reputation。
-- **情感弧线位置**： complications — Moth 在 Deerhaven 的归属感被 Birch 的 hostility、guests 的 strangeness、Barkus 的 looming threat 三重 complicating；comradery 缺失，isolation 深化。
-- **人物弧线**：Moth 从 eager new hire 到 experienced (but untrusted) staff；Birch 从 roommate 到 rival；Crow 作为 sympathetic counterpart；Mrs. Tataryan 作为 gentle, weary guest；Barkus 作为 offstage threat。
-- **叙事手法**：memory-as-galaxy metaphor（black door）；guest catalog as surreal set pieces；witching hour as ritualized decay; Barkus as deferred menace.
-- **本章主题**：Deerhaven 的 ecology（guests/staff/Owner）；belonging 与 competition；youth vs. age；decay as renewal ritual.
+（本章导航详情见精读正文）
 
 ## 精读
 
@@ -41,7 +37,7 @@ modified: "2026-10-18"
 
 **关键词**：emptiness / compensating desperation / human
 
-**为什么这样写**：Moth's counter to Birch's "Lo is one of them" suspicion; "compensating desperation" is Moth's psychological reading of Birch, projecting her own insecurity onto Birch. The line also establishes Moth's analytical stance—she reads people as texts.
+**为什么这样写**：Moth's counter to Wren's suspicion that Birch is not human; "compensating desperation" is Moth's psychological reading of Birch, projecting her own insecurity onto Birch. The line also establishes Moth's analytical stance—she reads people as texts.
 
 **读者视角提示**：读者应把 "compensating desperation" 记住——it's Moth's self-description disguised as Birch's critique.
 
@@ -147,7 +143,7 @@ modified: "2026-10-18"
 
 ## 一句话总结
 
-Moth 的 Deerhaven 第一季以 lodge 的可移动房间、Birch 的非官方主管、strange guests 的 arrival 与 Lo 的 witching hour decay ritual 为背景，Barkus 作为 looming threat 登场；Moth 在 comradery 缺失中学会 survival，Mrs. Tataryan 的"peace"愿望 foreshadows Moth 自己的 longing。
+本章完成。
 </content>
 <parameter name="path">
 notes/books/novels/the-winter-folk-by-jen-julian/ch03 mr barkus.md
