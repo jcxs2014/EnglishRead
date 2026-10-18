@@ -45,11 +45,16 @@ modified: "2026-10-18"
 
 **读者视角提示：** 「marked indelibly with stardust」是全书的 motif： Clarion 的 difference 是不可洗掉的 mark。注意 Elvina 把这 mark 当 shield（protection），Clarion 却体验为 cage（isolation）。同一 mark，两种 reading。
 
-> **原句 4:** "The animal-talent’s smile was as warm as summer itself. 'I’m sure you’re plenty busy without chasing down wayward bees.' ... 'Have I seen you around before?' The fairy frowned, searching her face as if trying to place her features. 'You look almost like—' 'Clarion?' ... 'Princess Clarion,' she choked out. 'I am so sorry.' ... 'But there is.' The animal-talent bowed her head deeply. 'Your Highness, please forgive me for my impertinence. If I had known…' Then she never would have spoken to Clarion at all."
+> **原句 4:** "The animal-talent’s smile was as warm as summer itself. 'I’m sure you’re plenty busy without chasing down wayward bees.'"
 
-**中文理解：** animal-talent 的 smile as warm as summer itself。「我确信你 plenty busy without chasing down wayward bees。」……「我以前见过你吗？」fairies frown，searching her face as if trying to place her features。「你看起来 almost like——」「Clarion？」……「Princess Clarion，」她 choked out，「I am so sorry。」……「But there is。」animal-talent deeply bowed her head。「Your Highness，请 forgive 我的 impertinence。If I had known…」Then she never would have spoken to Clarion at all。
+**中文理解：** animal-talent 的 smile as warm as summer itself。「我确信你 plenty busy without chasing down wayward bees。」
 
-**关键词：** impertinence · choked · wayward
+**关键词：** smile · warm · summer · wayward · bees
+
+**为什么这样写：** 用 animal-talent 的 smile 作 Clarion 困境的 mirror：从「姐妹」到「臣民」的转变只发生在「Clarion」这个名字被 recognize 的瞬间。Clarion 的 loneliness 不是 abstract，是 concrete：被 recognize = 被 re-categorized。叙述者用「Then she never would have spoken to Clarion at all」做 closing comment，把 implicit 的 loss 显性化，让读者感到 Clarion 也感到的 loss。
+
+**读者视角提示：** 这段是全书的 emotional thesis statement：Clarion 想要的不是 respect，是「被像普通人一样对待」。后文每次 Clarion 与 subject 的互动，都与这一段 echo。
+
 
 **为什么这样写：** 用 animal-talent 的 reaction 作为 Clarion 困境的 mirror：从「姐妹」到「臣民」的转变只发生在「Clarion」这个名字被 recognize 的瞬间。Clarion 的 loneliness 不是 abstract，是 concrete：被 recognize = 被 re-categorized。叙述者用「Then she never would have spoken to Clarion at all」做 closing comment，把 implicit 的 loss 显性化，让读者感到 Clarion 也感到的 loss。
 
