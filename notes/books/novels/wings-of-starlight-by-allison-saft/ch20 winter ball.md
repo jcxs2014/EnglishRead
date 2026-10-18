@@ -25,15 +25,11 @@ modified: "2026-10-18"
 
 **读者视角提示：** 注意 "Perhaps, then, she would not have to be alone"——this is Clarion's deepest desire. She's been alone her whole life (Arrival, Elvina's teaching, governing-talent uniqueness). Winter offers belonging.
 
-> **原句 2:** "'I don't want to leave.' ... 'Then don't,' he murmured into the bare space between them. Don't. As though it were the simplest thing in the world. What else was there to do? She stood on her toes and kissed him. ... 'I'm freezing.' 'We can't have that.' His lips brushed against hers with every syllable. ... This, she thought, was enough. They could make this work. In that moment, there was nothing and no one but the two of them. And then, a familiar voice cut through her joy: 'Clarion!' Elvina."
+> **原句 2:** "This is what it could be like, if you wanted it to be."
 
-**中文理解：** "I don't want to leave。"……"Then don't," he murmured into the bare space between them。Don't。As though it were the simplest thing in the world。What else was there to do? She stood on her toes and kissed him。……"I'm freezing。""We can't have that。" His lips brushed against hers with every syllable。……This，she thought，was enough。They could make this work。In that moment，there was nothing and no one but the two of them。And then，a familiar voice cut through her joy: "Clarion!" Elvina。
+**中文理解：** "This is what it could be like, if you wanted it to be。" Milori 告诉 Clarion 这是 Winter 的可能性。
 
-**关键词：** don't · freezing · enough · nothing and no one · Elvina
-
-**为什么这样写：** 用 "Then don't" 作 Milori's response—simple, direct. "She stood on her toes and kissed him" 作 Clarion's action—she initiates. "I'm freezing" 作 physical reality—Clarion's body can't tolerate Winter. "This was enough. They could make this work" 作 Clarion's hope—she believes they can be together despite obstacles. "And then, a familiar voice cut through her joy: 'Clarion!' Elvina." 作 cliffhanger—Elvina discovers them.
-
-**读者视角提示：** 注意 "In that moment, there was nothing and no one but the two of them"——this is the book's romantic climax. Then Elvina's voice shatters it. This is the book's argument: love is real, but reality (duty, Elvina) intrudes.
+**关键词：** could be like · wanted · be
 
 ## 本章词汇
 
