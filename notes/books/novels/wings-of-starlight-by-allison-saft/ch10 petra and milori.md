@@ -15,31 +15,31 @@ modified: "2026-10-18"
 
 ## 精读
 
-> **原句 1:** "Watching her filled Clarion with renewed fondness. Few were so dependable. ... 'I trust your judgment of character, of course, but that is a very dangerous trip to undertake.'"
+> **原句 1:** "Watching her filled Clarion with renewed fondness. Few were so dependable."
 
 **中文理解：** "Watching her filled Clarion with renewed fondness。Few were so dependable。"……"I trust your judgment of character，of course，but that is a very dangerous trip to undertake。"（Artemis 的话）
 
-**关键词：** fondness · dependable · judgment · dangerous
+**关键词：** fondness · dependable · renewed
 
 **为什么这样写：** 用 "Few were so dependable" 作 Clarion 对 Artemis 的评价——Artemis 的可靠是 Clarion 的 anchor。"I trust your judgment of character, of course, but..." 作 Artemis 的 dilemma——她 trust Clarion 但 also fears for her。这个 dual response（trust + fear）是 Artemis character 的 core。
 
 **读者视角提示：** 注意 Artemis 用 "I trust your judgment of character" 而不是 "I trust you"——她 trust Clarion 的判断力，但 not necessarily her safety. 这是 Artemis 的 professional distance: 她 can trust Clarion's mind but not her body.
 
-> **原句 2:** "'I need you to help me cross into the Winter Woods.' 'Gah!' Petra stumbled back from her worktable and nearly crashed into the wall. ... 'But it's against the rules!' ... 'Crossing the border isn't forbidden.' It wasn't, technically. It was, however, deadly without proper precautions, which made it something of an unpopular destination."
+> **原句 2:** "'I need you to help me cross into the Winter Woods.'"
 
 **中文理解：** "I need you to help me cross into the Winter Woods。" "Gah!" Petra stumbled back from her worktable and nearly crashed into the wall。……"But it's against the rules!"……"Crossing the border isn't forbidden。" It wasn't，technically。It was，however，deadly without proper precautions，which made it something of an unpopular destination。
 
-**关键词：** forbidden · technically · precautions · unpopular
+**关键词：** help · cross · Winter
 
 **为什么这样写：** 用 Petra's "Gah!" 作 comic relief—Petra's physical reaction to Clarion's request is exaggerated. "It's against the rules!" 作 Petra's instinct—she's risk-averse. "Crossing the border isn't forbidden. It wasn't, technically" 作 Clarion's loophole—she's finding legalistic ways around Elvina's control. "deadly without proper precautions" 作 stakes—this isn't a game.
 
 **读者视角提示：** 注意 Clarion uses "technically" to justify—she's learning to work around rules like Elvina does. But unlike Elvina, Clarion is transparent about it (she tells Petra the truth). This is Clarion's style: honest defiance, not secret control.
 
-> **原句 3:** "Slowly, Clarion settled on the bridge beside him until they sat almost shoulder to shoulder. ... This close, she could see the snowflakes gathering in his white hair and the feathered shadows his eyelashes cast on his cheekbones. That troublesome thought resurfaced, unbidden: Beautiful. And dangerous, she reminded herself."
+> **原句 3:** "Slowly, Clarion settled on the bridge beside him until they sat almost shoulder to shoulder."
 
 **中文理解：** Slowly，Clarion settled on the bridge beside him until they sat almost shoulder to shoulder。……This close，she could see the snowflakes gathering in his white hair and the feathered shadows his eyelashes cast on his cheekbones。That troublesome thought resurfaced，unbidden: Beautiful。And dangerous，she reminded herself。
 
-**关键词：** shoulder to shoulder · unbidden · Beautiful · dangerous
+**关键词：** settled · bridge · shoulder
 
 **为什么这样写：** 用 "shoulder to shoulder" 作 physical proximity—Clarion and Milori are sitting close, border gone. "snowflakes gathering in his white hair" 作 romantic image—Winter's beauty on Milori. "feathered shadows his eyelashes cast" 作 detail—Clarion is studying him closely. "Beautiful. And dangerous" 作 Clarion's internal conflict—she's attracted to him but knows the risk.
 
@@ -49,7 +49,7 @@ modified: "2026-10-18"
 
 **中文理解：** "I don't think you have any idea what you're doing，but I have placed my trust in you。"（Artemis 的话）——Artemis 对 Clarion 的 trust 与 fear 并存。
 
-**关键词：** trust · placed · judgment · dangerous
+**关键词：** trust · placed · judgment
 
 **为什么这样写：** 用 "I have placed my trust in you" 作 Artemis 的 surrender——她 transfer agency to Clarion, despite her fear. "I don't think you have any idea what you're doing" 作 honest assessment——Artemis doesn't pretend Clarion is competent, she trusts her anyway. This is different from Elvina's "I have this in hand" (control). Artemis trusts Clarion's judgment, not just her safety.
 
