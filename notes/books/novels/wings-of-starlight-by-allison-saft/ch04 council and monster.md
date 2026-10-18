@@ -11,7 +11,7 @@ modified: "2026-10-18"
 - **情感弧线位置**：全书的情感 deepen——Clarion 从「想被 known」升级到「想被 trusted with crisis」；Elvina 的 dismissive 父母式保护（"Go to your room"）触发 Clarion 的 first act of defiance。
 - **母题兑现/反转**：母题「边界」再升级：Elvina 把 crisis 当作 boundary（"This isn't a matter that concerns you"），Clarion 把 boundary 当作 challenge——她 crossing not just geography but authority。同时「cold and remote」philosophy 与 Clarion's defiance 作 collision。
 - **人物弧线**：Clarion 从「obedient princess」到「self-authorizing agent」；Elvina 从「mentor」到「obstacle」；Artemis 从「guard」到「sympathetic witness」；Nightshade 作 Elvina's military arm，contrast Clarion's civilian courage。
-- **叙事手法**：章节以 council meeting 的 domestic comedy（ministers bickering）作 opening，再用 monster sighting 打破——genre shift from political farce to thriller；Elvina's dismissal 是 turning point，Clarion's internal monologue（"It couldn't hurt to look for the monster herself, could it?"）是 decision point；结尾 Clarion take flight toward the border where Spring met Winter 是 cliffhanger。
+- **叙事手法**：章节以 council meeting 的 domestic comedy（ministers bickering）作 opening，再用 monster sighting 打破——genre shift from political farce to thriller；Elvina's dismissal 是 turning point，Clarion internal monologue 是 decision point；结尾 Clarion take flight toward the border where Spring met Winter 是 cliffhanger。
 
 ## 精读
 

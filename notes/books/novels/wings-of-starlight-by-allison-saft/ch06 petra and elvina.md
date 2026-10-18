@@ -8,9 +8,9 @@ modified: "2026-10-18"
 ## 本章导航
 
 - **一句话概括**：Clarion 从 border 回来，先去 Petra 家 check in，再被 Elvina 逮到——Elvina's fear（not anger）exposed，而 Clarion 第一次直接 challenge Elvina's secrecy about Winter。
-- **情感弧线位置**：全书的情感 deepen——Elvina 从 "remote mentor" 变成 "frightened guardian"；Clarion 从 "obedient" 变成 "questioning"。Petra 是 Clarion 的 emotional anchor（"What must it be like to be so certain of your path?"）。
+- **情感弧线位置**：全书的情感 deepen——Elvina 从 "remote mentor" 变成 "frightened guardian"；Clarion 从 "obedient" 变成 "questioning"。Petra 是 Clarion 的 emotional anchor（"What must it be like"）。
 - **母题兑现/反转**：母题「信息控制」在此被 challenged：Elvina 说 "crawling with monsters" vs Milori 说 "I regret that I could not stop it"——two narratives of Winter，Clarion must choose. 同时 "Your predecessor has not been forthcoming" 作 Elvina's authority 的 first crack。
-- **人物弧线**：Clarion 从 "obedient" 到 "questioning"（"But it's the Queen's job to keep her subjects safe. Isn't it?"）；Petra 从 "anxious" 到 "brilliant"（her welding technique）；Elvina 从 "remote" 到 "frightened"（"I feared the worst"）。
+- **人物弧线**：Clarion 从 obedient 到 questioning；Petra 从 "anxious" 到 "brilliant"（her welding technique）；Elvina 从 "remote" 到 "frightened"（"I feared the worst"）。
 - **叙事手法**：章节以 Petra's house 作 opening (domestic comedy) → Elvina confrontation (drama) → Winter question (political)。Petra 的 "catastrophizing" 作 comic relief，Elvina's "I feared the worst" 作 emotional climax。结尾 Clarion 的 "I will be waiting here, at sunset, every night for a week" echo 是 decision point。
 
 ## 精读

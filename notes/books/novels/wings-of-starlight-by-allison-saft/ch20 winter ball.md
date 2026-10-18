@@ -31,6 +31,12 @@ modified: "2026-10-18"
 
 **关键词：** could be like · wanted · be
 
+> **原句 3:** "It's warm."
+
+**中文理解：** "It's warm。" Clarion 用 "warm" 描述 Winter 的 paradox——cold place, warm feeling。
+
+**关键词：** warm
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级

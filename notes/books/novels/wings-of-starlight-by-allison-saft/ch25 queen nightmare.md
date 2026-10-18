@@ -9,9 +9,9 @@ modified: "2026-10-18"
 
 - **一句话概括**：Clarion jumps into prison, faces Queen Nightmare (dragon) illusion, Milori's voice reminds her of his wish, she burns like a star and destroys Queen Nightmare。
 - **情感弧线位置**：全书的情感 climax（第十三卷）——Clarion 从 "depleted" 到 "star" (burns like a star); Milori 从 "protective" 到 "voice of hope" ("Don't forget what you promised me!"); dragon 作 final boss.
-- **母题兑现/反转**：母题「hope vs fear」在此被 fully resolved：Queen Nightmare is "a child's fear, given shape and left to fester for far too long." Clarion's magic = hope, not fear. "In the end, nothing but this remained: twinkling motes of starlight" 作 transformation.
+- **母题兑现/反转**：母题「hope vs fear」在此被 fully resolved：Queen Nightmare is a child fear, given shape and left to fester for far too long. Clarion magic = hope, not fear. "In the end, nothing but this remained: twinkling motes of starlight" 作 transformation.
 - **人物弧线**：Clarion 从 "depleted" 到 "star" (burns like a star); Milori 从 "protective" to "voice of hope" ("Don't forget what you promised me!"); Elvina 从 "antagonist" to "mother" (in illusion, but real Elvina has accepted Clarion).
-- **叙事手法**：章节以 Nightmare illusion 作 opening (horror) → Queen Nightmare (dragon) 作 climax → Milori's voice (hope) → "She burned like a star" 作 resolution. Ending on "twinkling motes of starlight" 作 transformation.
+- **叙事手法**：章节以 Nightmare illusion 作 opening (horror) → Queen Nightmare (dragon) 作 climax → Milori's voice (hope) → She burned like a star 作 resolution. Ending on "twinkling motes of starlight" 作 transformation.
 
 ## 精读
 

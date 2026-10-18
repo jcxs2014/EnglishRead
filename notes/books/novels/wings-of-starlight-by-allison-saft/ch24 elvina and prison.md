@@ -9,7 +9,7 @@ modified: "2026-10-18"
 
 - **一句话概括**：Clarion awake, Elvina admits "You were right... My power is waning" + Elvina's motherhood speech; Clarion teleports, rides Noctua, jumps into prison。
 - **情感弧线位置**：全书的情感 climax（第十二卷）——Clarion 从 "depleted" 到 "determined"; Elvina 从 "antagonist" 到 "mother" ("I have never been to the Mainland..."); Clarion's magic rekindles.
-- **母题兑现/反转**：母题「motherhood/legacy」在此被 introduced：Elvina's speech about mothers ("Humans love their children... They raise them in the hopes that they will be better"). This reframes Elvina's "cold and remote" as maternal protection, not coldness.
+- **母题兑现/反转**：母题「motherhood/legacy」在此被 introduced：Elvina speech about mothers. This reframes Elvina's "cold and remote" as maternal protection, not coldness.
 - **人物弧线**：Clarion 从 "depleted" 到 "determined" (teleportation, jump); Elvina 从 "antagonist" to "mother" (speech about mothers, "You were right"); Elvina's power waning reveals her mortality.
 - **叙事手法**：章节以 awakening 作 opening (recovery) → Elvina's speech (exposition/emotion) → teleportation (magic) → Noctua ride (adventure) → jump (cliffhanger). Ending on "She jumped in." 作 cliffhanger.
 

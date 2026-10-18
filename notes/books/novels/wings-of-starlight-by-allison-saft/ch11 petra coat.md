@@ -8,10 +8,10 @@ modified: "2026-10-18"
 ## 本章导航
 
 - **一句话概括**：Petra 完成 Winter coat；Spring Valley 出现 Nightmare 腐蚀；Iris 用 "bulb flower" 比喻安慰 Clarion；Petra 说 "leave me out of it"——Clarion 第一次感到 isolation。
-- **情感弧线位置**：全书的情感 deepen——Clarion 从 "lonely" 到 "isolated"；Petra 的 "leave me out of it" 是 Clarion 第一次感到 truly alone in her mission. Iris's "bulb flower" metaphor is the chapter's emotional anchor.
-- **母题兑现/反转**：母题「connection vs isolation」在此被 tested：Petra's coat is connection, but "leave me out of it" is isolation. Iris's "bulb flower" metaphor (dormant in winter, blooming in spring) reframes Clarion's situation: she is in her "winter" (dormancy) now, but spring will come.
+- **情感弧线位置**：全书的情感 deepen——Clarion 从 "lonely" 到 "isolated"；Petra 的 "leave me out of it" 是 Clarion 第一次感到 truly alone in her mission. Iris bulb flower metaphor is the chapter emotional anchor.
+- **母题兑现/反转**：母题「connection vs isolation」在此被 tested：Petra coat is connection, but leave me out of it is isolation. Iris bulb flower metaphor reframes Clarion situation: she is in her "winter" (dormancy) now, but spring will come.
 - **人物弧线**：Clarion 从 "connected" 到 "isolated" (Petra's withdrawal); Iris 从 "cheerful" 到 "wise" (bulb flower metaphor); Artemis 从 "guard" to "ally" (she's been spending time with Petra).
-- **叙事手法**：章节以 Petra's update 作 opening → Spring Valley decay (plot) → Iris's metaphor (emotional) → Petra's coat (action) → "leave me out of it" (isolation). Iris's "bulb flower" speech is the chapter's emotional climax.
+- **叙事手法**：章节以 Petra's update 作 opening → Spring Valley decay (plot) → Iris's metaphor (emotional) → Petra's coat (action) → "leave me out of it" (isolation). Iris bulb flower speech is the chapter emotional climax.
 
 ## 精读
 
