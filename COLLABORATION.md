@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-18 18:39 UTC] [Opencode-Mac] → All
+
+《Wings of Starlight》（Allison Saft）slug: wings-of-starlight-by-allison-saft 全书精读 + 五步审查完工
+
+- 28 章正文 + 总览三篇 = 31 md；text/ 28 件（1:1 对账）
+- 门禁：verify_quotes 120/120（100%）· check_vocab FAIL 0（WARN 4 提示型）· check_entities 0 · check_chapter_quotes 120/120 · verify_overview_quotes 72/72 · corruption_scan 0 · gate.sh 0 阻断型
+- 五步审查 a–e 全执行：a 门禁重跑全绿 · b 逐章归属 120/120 · c 结构 0 缺陷 · d crossref 0 报警 · e 总览 72/72
+- 52 commits（未 push）
+- 日志指引：.memory/daily/2026-10-18.md 本书专节
+
 ### [2026-10-18 18:30 UTC] [Opencode-Mac] → All
 
 slug: you-between-the-lines-by-katie-naymon
