@@ -15,31 +15,23 @@ modified: "2026-10-18"
 
 ## 精读
 
-> **原句 1:** "'You're wrong about him.' Clarion stepped in front of Milori, as though she could shield him from Elvina's open disdain. 'About all of them. The Winter Woods are nothing at all like we believed.' ... 'No, you have turned me against you!' The words slipped out before she could stop herself, halting Elvina in her tracks. Her voice trembled. And yet, it was the truth she had not wanted to admit. 'I have tried to live up to the standard you have set, all in the hopes that I would be worthy of the crown. I have tried so hard to be just like you. But I'm not. This is what Winter has taught me.' Her magic flared within her, rising with the tide of her emotions. She was made luminous with the force of her conviction."
+> **原句 1:** "'You're wrong about him.' Clarion stepped in front of Milori, as though she could shield him from Elvina's open disdain."
 
-**中文理解：** "You're wrong about him。" Clarion stepped in front of Milori，as though she could shield him from Elvina's open disdain。「About all of them。The Winter Woods are nothing at all like we believed。」……"No，you have turned me against you!" The words slipped out before she could stop herself，halting Elvina in her tracks。Her voice trembled。And yet，it was the truth she had not wanted to admit。「I have tried to live up to the standard you have set，all in the hopes that I would be worthy of the crown。I have tried so hard to be just like you。But I'm not。This is what Winter has taught me。」Her magic flared within her，rising with the tide of her emotions。She was made luminous with the force of her conviction。
+**中文理解：** "You're wrong about him。" Clarion stepped in front of Milori，as though she could shield him from Elvina's open disdain。Clarion 为 Milori 辩护。
 
-**关键词：** wrong · shield · turned against · standard · worthy · luminous · conviction
+**关键词：** wrong · shield · disdain
 
-**为什么这样写：** 用 "You're wrong about him" 作 Clarion's defiance—she's defending Milori against Elvina. "No, you have turned me against you!" 作 Clarion's accusation—Elvina's actions (secrecy, dismissal) caused the rift, not Milori. "I have tried so hard to be just like you. But I'm not" 作 Clarion's rejection of Elvina's model—she's not Elvina, and that's okay. "made luminous with the force of her conviction" 作 magic as emotion—Clarion's magic flares when she's emotionally honest.
+> **原句 2:** "'No, you have turned me against you!' The words slipped out before she could stop herself, halting Elvina in her tracks."
 
-**读者视角提示：** 注意 "No, you have turned me against you!"——Clarion is not blaming Milori for turning her against Elvina; she's blaming Elvina for turning her against herself. Elvina's "cold and remote" philosophy made Clarion betray her own nature. This is the book's central argument: Elvina's way is wrong for Clarion.
+**中文理解：** "No, you have turned me against you!" The words slipped out before she could stop herself，halting Elvina in her tracks。Clarion 对 Elvina 说她把她推向了 Milori。
 
-> **原句 2:** "'We weren't going to let you do this alone. As for the how…my prototype coats might be ugly, but they get the job done well enough.' ... 'She also wanted a chance to test her other prototype.' Artemis stared covetously at Petra's weapon. ... 'Of course.' Petra gave her a wobbly smile. 'I would have told you earlier, but I never exactly got the chance.' ... 'It doesn't work?' ... 'It doesn't work?' Petra's face went very pale, then vaguely green. 'Why did you do that?' 'I don't know.' Petra dragged her hand down her face. 'By the time I'd done it, it was too late. And now, when she finds out—' ... 'She's not going to find out,' Artemis interjected, a little wearily. ... 'I lied to Elvina?' ... 'Why did you do that?' 'I don't know.' ... 'We both believed in you.' She slid her gaze pointedly to Petra. 'Even when we worried about you.'"
-
-**中文理解：** "We weren't going to let you do this alone。As for the how…my prototype coats might be ugly，but they get the job done well enough。"……"She also wanted a chance to test her other prototype。" Artemis stared covetously at Petra's weapon。……"Of course。" Petra gave her a wobbly smile。「I would have told you earlier，but I never exactly got the chance。」……"It doesn't work?"……"It doesn't work?" Petra's face went very pale，then vaguely green。「Why did you do that?」「I don't know。」Petra dragged her hand down her face。「By the time I'd done it，it was too late。And now，when she finds out——」「She's not going to find out，」Artemis interjected，a little wearily。……"I lied to Elvina?"……"Why did you do that?" "I don't know。"……"We both believed in you。" She slid her gaze pointedly to Petra。「Even when we worried about you。」
-
-**关键词：** weren't going to let you · prototype · ugly · lied · believed
-
-**为什么这样写：** 用 "We weren't going to let you do this alone" 作 Petra and Artemis's declaration—they crossed into Winter to help Clarion. "my prototype coats might be ugly, but they get the job done" 作 Petra's humor—she's being modest about her brilliant invention. "It doesn't work?" 作 Petra's confession—she sabotaged Elvina's sword. "We both believed in you. Even when we worried about you" 作 Artemis's statement—she and Petra trusted Clarion despite their fears.
-
-**读者视角提示：** 注意 Petra lied to Elvina—this is a huge character moment. Petra, who is risk-averse and rule-following, lied to the queen. This shows how much she trusts Clarion. "We both believed in you" is the friends' answer to Clarion's isolation.
+**关键词：** turned · against · slipped · halting
 
 > **原句 3:** "'We weren't going to let you do this alone. As for the how…my prototype coats might be ugly, but they get the job done well enough.'"
 
 **中文理解：** "We weren't going to let you do this alone。As for the how…my prototype coats might be ugly，but they get the job done well enough。"（Petra 的话）——Petra 和 Artemis 穿着 prototype coats 跨入 Winter 来帮助 Clarion。
 
-**关键词：** later · sorry · T-bow · X-bow · hypothesized
+**关键词：** prototype · coats · ugly · job
 
 **为什么这样写：** 用 "We'll talk later" 作 Petra's deflection—she doesn't want to deal with emotions right now. "I'm sorry, too" 作 mutual apology—both acknowledge their fight. "T-bow. Or maybe an X-bow" 作 Petra's humor—she's naming her invention. "I don't think the science behind it matters right now" 作 Petra's practicality—she's cutting through her own technicality to focus on the battle.
 
