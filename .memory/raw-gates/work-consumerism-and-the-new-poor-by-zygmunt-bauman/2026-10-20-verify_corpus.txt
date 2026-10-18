@@ -1,0 +1,33 @@
+=== 语料层验收（P0-0）: work-consumerism-and-the-new-poor-by-zygmunt-bauman ===
+text/ 件数: 8
+  [1] 件数 8 == 预期 8  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 4 组 / 互查 12 组（共享人物 2 个已豁免）  OK
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (52 句)
+      首| Series editor's foreword
+      末| Tim May
+    ch02 (28 句)
+      首| Introduction to the first edition
+      末| And just how urgent is it to confront such questions and try to find practical answers to them?
+    ch03 (291 句)
+      首| The meaning of work: producing the work ethic
+      末| It was for that reason among others that the hiatus between the two versions of modernity grew i
+    ch04 (375 句)
+      首| From the work ethic to the aesthetic of consumption
+      末| The sky which is the limit of consumer dreams rises ever higher while the publicly managed magni
+    ch05 (307 句)
+      首| The rise and fall of the welfare state
+      末| Small they may be, but only for a time.
+    ch06 (461 句)
+      首| The work ethic and the new poor
+      末| While denigrating dependency of the poor as sin, the work ethic in its present rendition brings 
+    ch07 (234 句)
+      首| Work and redundancy in the globalized world
+      末| Little wonder that they are most eagerly employed in the construction (and so also in the attemp
+    ch08 (301 句)
+      首| Prospects for the new poor
+      末| After all, as Patrick Curry splendidly put it, "collective voluntary simplicity is becoming the 
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
