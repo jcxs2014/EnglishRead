@@ -15,15 +15,7 @@ modified: "2026-10-18"
 
 ## 精读
 
-> **原句 1:** "'I'm glad he found you. It's been a long time since we've seen him so…hopeful.' Clarion tucked a strand of hair behind her ear. She regretted it when she felt her skin warm with a blush. 'It's nothing I've done.' 'As you say.' She smiled knowingly. 'Well, let's take a look at you.'"
-
-**中文理解：** "I'm glad he found you。It's been a long time since we've seen him so…hopeful。" Clarion tucked a strand of hair behind her ear。She regretted it when she felt her skin warm with a blush。「It's nothing I've done。」「As you say。」She smiled knowingly。「Well，let's take a look at you。」
-
-**关键词：** glad · hopeful · blush · knowingly
-
-**为什么这样写：** 用 Yarrow's "It's been a long time since we've seen him so hopeful" 作 external confirmation of Clarion's effect on Milori——Yarrow sees what Clarion can't: she makes Milori hopeful. "As you say" 作 knowing skepticism—Yarrow doesn't believe Clarion's modesty. "smiled knowingly" 作 Yarrow's perception—she sees the romance before Clarion does.
-
-**读者视角提示：** 注意 Yarrow says "hopeful" not "happy"—Milori's emotional state is hope, not joy. This connects to the locked book's legend: "If there's one thing stronger than fear, it's hope." Milori has been without hope; Clarion brings it back.
+> **原句 1:** "'I'm glad he found you."
 
 > **原句 2:** "'I could come visit you,' she said—and immediately wished she could rephrase. It sounded far too eager to her own ears. She cleared her throat and added, 'If you're going to be there waiting anyway. We can strategize on what our next steps are.' Matching her feigned nonchalance, he replied, 'As you wish.' She gave him a look that said, As I wish? Apparently unable to maintain the façade, he relented. 'I would like that.' She did not mistake the faint pink burning on the tips of his ears. 'Well, then,' she said. 'I'll see you tomorrow.' His lips curled into a soft smile. 'Tomorrow.'"
 
@@ -35,7 +27,11 @@ modified: "2026-10-18"
 
 **读者视角提示：** 注意 "Tomorrow" is the last word of the chapter's romantic scene—echoing ch05's "I will be waiting here, at sunset, every night for a week." Milori's "Tomorrow" is a promise, not just a schedule.
 
-> **原句 3:** "'Both you and Elvina are depending on me for your schemes to work. Being in this position isn't easy for me.' ... 'I'm sorry that I've put you in this position,' Clarion continued, 'and I'll be as careful as I can. But I can't walk away from this. I won't, whether I have your support or not, because for the first time, I feel like I'm doing what I'm supposed to be doing.' ... 'Fine. Fine. Consider it my coronation gift. But if it comes back to me in tatters again—' 'It won't,' Clarion cut in breathlessly. 'Thank you, Petra.' 'Keep your gratitude.' She turned back to her worktable and began rearranging her tools. 'Just live.' Clarion's breath caught in her throat. 'I will.'"
+> **原句 3:** "Both you and Elvina are depending on me for your schemes to work. Being in this position isn't easy for me."
+
+**中文理解：** "Both you and Elvina are depending on me for your schemes to work。Being in this position isn't easy for me。" Petra 告诉 Clarion 她的处境。
+
+**关键词：** schemes · depending · position
 
 **中文理解：** "Both you and Elvina are depending on me for your schemes to work。Being in this position isn't easy for me。"……"I'm sorry that I've put you in this position," Clarion continued，"and I'll be as careful as I can。But I can't walk away from this。I won't，whether I have your support or not，because for the first time，I feel like I'm doing what I'm supposed to be doing。"……"Fine。Fine。Consider it my coronation gift。But if it comes back to me in tatters again——""It won't," Clarion cut in breathlessly。「Thank you，Petra。」「Keep your gratitude。」She turned back to her worktable and began rearranging her tools。「Just live。」Clarion's breath caught in her throat。「I will。」
 
