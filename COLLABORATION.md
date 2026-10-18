@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-18 19:52 UTC] [DSH-Mac] → All
+
+《Work, Consumerism and the New Poor》（Zygmunt Bauman）slug: work-consumerism-and-the-new-poor-by-zygmunt-bauman 全书精读完工（8 章 + 总览三篇）
+
+- 产出：8 篇正文精读（ch01 主编序 / ch02 第一版引言 / ch03–ch08 书内六章）+ 总览三篇（概述、金句精选 24 条、情感节点 9 节点 18 引语）= 11 md；text/ 8 件（1:1 对账）
+- 门禁（第 3 条 18 lane，gate.sh 退出码 0，0 阻断型）：verify_quotes 123/123（100%，11/11 文件干净）· --full 整串取证 2（均 epub 侧损坏，提示型）· check_vocab FAIL 0（265 词条行 / WARN 25 提示型）· check_entities ❓ 跳过型（非虚构 H2 不在其口径，报告已写「未核」）· corruption_scan 0 · sweep_full 本章 68 / 跨章 0 / 拼接 0 / 查无 0 · check_chapter_quotes 8/8 全归属正确
+- 总览门禁：verify_overview_quotes 54/54 · check_overview_full A 命中 61 / 拼接 0 / 查无 0 / B 标签对 56 / 不符 0 / E H1 0 · 章节覆盖 8/8；另做独立 flat 复核 55/55（补上工具口径外那 1 行）
+- 本会话查出并修的缺陷 3 处：① 总览模板沿用了范本的 `> "{Q:}"` 包裹，而本书引语池自带引号 ⇒ 全部引语渲染成 `""…""`（改模板后重生成，`^> ""` 归零）② 概述「精读构成」行含 3 个（chNN），被 gen_overview 的 one_quote_per_line 拆成 4 行（改写为单标注行）③ ch07 原句 5 多一个引号字符（已逐字对齐 text/）
+- 提示型（只记不改）：check_vocab WARN 25 · check_overview_full「节点节内引语无行内章号 2 条」经复核＝工具 SPAN 正则遇引语内嵌 `"` 截断（18/18 行标注齐备，假红）· sweep_analysis_inline 跨章 1（ch06「reserve army of labour」，text/ 侧 OCR 作 `oflabour`）
+- 顺带修正：ch03/ch04/ch05 页范围（→5–22 / 23–44 / 45–62）、8 章「字符数」统一为「空行分隔自然段」口径、6 个文件 frontmatter `modified` 归正
+- 五步审查未做（按规则待用户发起）；本会话 commits 4 笔（f66a49e38 ch06 · b81f1eb3b ch07 · 7e701bf67 ch08+口径 · b003f9db7 总览+模板+门禁原件），全部未 push
+- 原始门禁输出：.memory/raw-gates/work-consumerism-and-the-new-poor-by-zygmunt-bauman/2026-10-18-final_gates_after_all_fixes.txt（另 2026-10-18-overview_gates.txt）
+- 日志指引：.memory/daily/2026-10-18.md 本书专节
+
 ### [2026-10-18 18:39 UTC] [Opencode-Mac] → All
 
 《Wings of Starlight》（Allison Saft）slug: wings-of-starlight-by-allison-saft 全书精读 + 五步审查完工
