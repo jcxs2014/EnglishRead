@@ -285,7 +285,7 @@ def main():
     if a.mode == "board" and (n > a.limit or b > a.maxbytes):
         print(f"❌ 板消息正文 {n} 行 / {b} B，超出 {a.limit} 行 / {a.maxbytes} B —— 未写入。\n"
               f"   板上只放：文件数 · 门禁数字 · 结论 · commit 计数 · 一行日志指引。\n"
-              f"   逐行输出、三档定性、原文支撑行号等明细请用 --mode daily 写进工作日志。")
+              f"   逐行输出、四档定性、原文支撑行号等明细请用 --mode daily 写进工作日志。")
         return 2
 
     if a.book not in body:
