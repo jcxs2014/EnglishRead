@@ -64,14 +64,7 @@ modified: "2026-10-18"
 - **为什么这样写**：用"I’m not sure who won"把 Leigh 的"uncertainty"具象化， she doesn’t know if she won；"hardly feels like me"把 her "defeat"具象化， she feels like she lost despite being right about gender assumption。
 - **读者视角提示**：读者应记住"hardly feels like me"——Leigh 的" defeat" is emotional, not intellectual， she lost the "emotional" argument despite being right。
 
-> **原句 8:** "My mom said yes to the position, of course, and gave notice at work. ... I just… can’t leave, he’d said, dejected, in a video call to me in Boston."
-
-- **中文理解**：My mom said yes to the position, of course, and gave notice at work（My mom said yes to the position, of course, and gave notice at work）... I just… can’t leave, he’d said, dejected, in a video call to me in Boston（I just… can’t leave, he’d said, dejected, in a video call to me in Boston）。
-- **关键词**：said yes to the position（said yes to the position）／gave notice at work（gave notice at work）／I just… can’t leave（I just… can’t leave）／dejected（dejected）
-- **为什么这样写**：用"mom said yes"把 Leigh’s mom’s "ambition"具象化， she accepted Mayo Clinic directorship；"dad can’t leave"把 Leigh’s dad’s "people-pleasing"具象化， he couldn’t leave his job；"dejected"把 dad’s " defeat"具象化， he’s dejected about not leaving。
-- **读者视角提示**：读者由此理解 Leigh’s family backstory——mom’s ambition vs dad’s people-pleasing， this is the "birth story" material for Leigh’s nonfiction essay。
-
-> **原句 9:** "Writing this birth story is going to be a nightmare."
+> **原句 10:** "Writing this birth story is going to be a nightmare."
 
 - **中文理解**：Writing this birth story is going to be a nightmare（Writing this birth story is going to be a nightmare）。
 - **关键词**：birth story（birth story）／nightmare（nightmare）
