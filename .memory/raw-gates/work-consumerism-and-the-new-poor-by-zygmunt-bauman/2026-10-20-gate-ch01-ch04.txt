@@ -1,0 +1,188 @@
+### 2026-10-20 gate ch01-ch04 (完整 lane)
+2026-10-18 18:32 UTC
+
+--- verify_quotes ---
+ch01 series editors foreword.md: 6/6 ✅
+ch02 introduction to the first edition.md: 7/7 ✅
+ch03 the meaning of work producing the work ethic.md: 10/10 ✅
+ch04 from the work ethic to the aesthetic of consumption.md: 5/5 ✅
+
+=== 总计 28/28 引文可核实（100%）；完全干净文件 4/4；正文章节 0 提取 0；总览 0 提取转交 0 ===
+EXIT=0
+
+--- verify_quotes --full (取证) ---
+    · ch03 the meaning of work producing the work ethic.md
+      md：「If paupers are made miserable, paupers will needs decline in multitude」
+      首个不命中片段：flat 偏移 120  「ctwithcontinualmewingalarmandgoingoffoft」
+
+=== 总计 28/28 引文可核实（100%）；完全干净文件 4/4；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 1 ===
+
+--- check_vocab ---
+词条行合计: 135
+
+--- FAIL (0) ---
+
+--- WARN (6) ---
+  ch01 series editors foreword.md [?] 词汇节外有 1 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch02 introduction to the first edition.md [?] 词汇节外有 3 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch03 the meaning of work producing the work ethic.md [基础] 基础档疑含超纲词「in everything but name」
+  ch03 the meaning of work producing the work ethic.md [?] 词汇节外有 7 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch04 from the work ethic to the aesthetic of consumption.md [基础] 基础档疑含超纲词「consumer confidence」
+  ch04 from the work ethic to the aesthetic of consumption.md [?] 词汇节外有 3 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+EXIT=0
+
+--- check_entities ---
+=== 实体一致性检测：0 个梗概段 / 0 个文件存在未知实体 ===
+  · 本书实际出现的 H2 标题（计数）：概览×4、论证结构×4、选择性精读×4、词汇分级×4、一句话总结×4
+  ⚠️ 口径只认 H2「故事梗概 / 本章导航 / 本篇导航 / 梗概」；非虚构常用「概览 / 全书梗概 / 论证结构」，短篇合集常用「概览」——**都不在本工具口径内**。
+  ❓ 无法判定：0 个梗概段进扫描集，实体层**未被核对**（不是「干净」）
+EXIT=2
+
+--- corruption_scan ---
+
+=== 编辑损坏扫描（work-consumerism-and-the-new-poor-by-zygmunt-bauman）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+EXIT=0
+
+--- sweep_full ---
+=== 引语整串 flat 比对（work-consumerism-and-the-new-poor-by-zygmunt-bauman）===
+  参照集：text/ 逐章（8 章，可定章） + epub 交叉验证
+  ✅ 本章命中 28 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+EXIT=0
+
+--- check_short_quotes ---
+=== 短引语兜底核对（work-consumerism-and-the-new-poor-by-zygmunt-bauman）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+EXIT=0
+
+--- check_chapter_quotes (逐章) ---
+== ch01 ==
+全章扫描: 解析引语块 28，命中本章 28（100%）
+✅ 全部引语均归属正确章节
+== ch02 ==
+全章扫描: 解析引语块 28，命中本章 28（100%）
+✅ 全部引语均归属正确章节
+== ch03 ==
+全章扫描: 解析引语块 28，命中本章 28（100%）
+✅ 全部引语均归属正确章节
+== ch04 ==
+全章扫描: 解析引语块 28，命中本章 28（100%）
+✅ 全部引语均归属正确章节
+
+--- check_block_coverage ---
+✅ 块覆盖对账：4 个文件，每块都进了 verify_quotes 校验
+EXIT=0
+
+--- check_nav_layer ---
+ℹ️ epub 二级参考集：Work, Consumerism and the New Poor (Issues in Society) (Zygmunt Bauman) (Z-Library).epub（294054 flat 字符）　—— text/ 查无而 epub 命中将判**提示型**不判红
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+EXIT=0
+
+--- sweep_analysis_inline ---
+=== 分析层行内英文逐字核查（work-consumerism-and-the-new-poor-by-zygmunt-bauman）===
+  参照集：text/（8 个提取件） + epub 交叉验证 ；扫 4 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：213 个表格行、158 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 422 ｜ ⚠️ 跨章 1 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 6
+  ⚠️  ch02 introduction to the first edition.md:29  「the new poor」→ 实为 ch01,03,06,08
+EXIT=0
+
+--- audit_structure ---
+=== 精读结构扫描（work-consumerism-and-the-new-poor-by-zygmunt-bauman）===
+  扫 4 个 md、28 个引语块；多数派必备节：## 词汇分级
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 10
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+EXIT=0
+
+--- check_anchor ---
+=== 关键词锚定自查（work-consumerism-and-the-new-poor-by-zygmunt-bauman）===
+  扫 4 个 md，28 个引语块，28 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（8 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+EXIT=0
+
+--- audit_numbers ---
+=== 计数断言核查（work-consumerism-and-the-new-poor-by-zygmunt-bauman）===
+  扫 4 个 md；抓到断言 10 条（含不可机械核查的年龄/百分比 1 条）
+  词数口径：连写算 1 词（`well-known`=2、`don't`=1）—— 差 1 极可能是口径而非错误
+  ❌ 不符（差 ≥2）0 ｜ ⚠️ 差 1 0 ｜ ❓ 参照串未解析未判 9 ｜ ⚪ 不可机械核查 1
+  ❓ ch01 series editors foreword.md:14  「979个字符」参照串未解析 —— 需人判
+  ❓ ch01 series editors foreword.md:119  「两个分句」分句口径不统一（按逗号切与按句号切结果差数倍），不判 —— 需人判
+  ❓ ch02 introduction to the first editi:14  「920个字符」参照串未解析 —— 需人判
+  ❓ ch02 introduction to the first editi:91  「一个词」参照串未解析 —— 需人判
+  ❓ ch03 the meaning of work producing t:14  「040个字符」参照串未解析 —— 需人判
+  ❓ ch03 the meaning of work producing t:119  「两个分句」分句口径不统一（按逗号切与按句号切结果差数倍），不判 —— 需人判
+  ❓ ch04 from the work ethic to the aest:14  「300个字符」参照串未解析 —— 需人判
+  ❓ ch04 from the work ethic to the aest:47  「五个词」「N 个词」指引语内某子短语，无法机械定位，不判（整条引语 5 词） —— 需人判
+  ❓ ch04 from the work ethic to the aest:95  「一个词」参照串未解析 —— 需人判
+  ⚪ ch03 the meaning of work producing t:35  「 70%」年龄/百分比类，文本层推不出真值，只列出待人核
+EXIT=0
+
+--- check_crossref ---
+交叉引用核对：0 对，报警 0
+EXIT=0
+
+--- check_block_keywords ---
+  ❌ ch03 the meaning of work producing the work ethic.md 原句6: 关键词不在本块引语内 → ['a tacit presumption']
+=== 引语块覆盖度：4 个 md，阻断型 1 处 ／ 提示型 0 处 ===
+EXIT=1
+
+=== 2026-10-20 19:0x UTC 修复后复跑（阻断型清零后）===
+2026-10-18 18:32 UTC
+--- verify_quotes ---
+ch01 series editors foreword.md: 6/6 ✅
+ch02 introduction to the first edition.md: 7/7 ✅
+ch03 the meaning of work producing the work ethic.md: 10/10 ✅
+ch04 from the work ethic to the aesthetic of consumption.md: 5/5 ✅
+
+=== 总计 28/28 引文可核实（100%）；完全干净文件 4/4；正文章节 0 提取 0；总览 0 提取转交 0 ===
+EXIT=0
+--- check_vocab ---
+词条行合计: 135
+
+--- FAIL (0) ---
+
+--- WARN (6) ---
+  ch01 series editors foreword.md [?] 词汇节外有 1 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch02 introduction to the first edition.md [?] 词汇节外有 3 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch03 the meaning of work producing the work ethic.md [基础] 基础档疑含超纲词「in everything but name」
+  ch03 the meaning of work producing the work ethic.md [?] 词汇节外有 7 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch04 from the work ethic to the aesthetic of consumption.md [基础] 基础档疑含超纲词「consumer confidence」
+  ch04 from the work ethic to the aesthetic of consumption.md [?] 词汇节外有 3 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+EXIT=0
+--- corruption_scan ---
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+--- sweep_full ---
+=== 引语整串 flat 比对（work-consumerism-and-the-new-poor-by-zygmunt-bauman）===
+  参照集：text/ 逐章（8 章，可定章） + epub 交叉验证
+  ✅ 本章命中 28 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+--- check_short_quotes ---
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+--- sweep_analysis_inline ---
+=== 分析层行内英文逐字核查（work-consumerism-and-the-new-poor-by-zygmunt-bauman）===
+  参照集：text/（8 个提取件） + epub 交叉验证 ；扫 4 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：213 个表格行、158 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 422 ｜ ⚠️ 跨章 1 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 6
+  ⚠️  ch02 introduction to the first edition.md:29  「the new poor」→ 实为 ch01,03,06,08
+--- audit_structure ---
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 10
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+--- check_anchor ---
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+--- check_crossref ---
+交叉引用核对：0 对，报警 0
+--- check_block_keywords ---
+=== 引语块覆盖度：4 个 md，阻断型 0 处 ／ 提示型 0 处 ===
+EXIT=0
+--- attic verify_book_quotes_once ---
+blocks checked: 28
+ALL OK

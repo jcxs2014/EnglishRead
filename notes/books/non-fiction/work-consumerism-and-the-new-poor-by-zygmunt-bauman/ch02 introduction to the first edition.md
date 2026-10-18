@@ -52,7 +52,7 @@ source_text: ch02 introduction to the first edition.txt
 
 ### ② 「穷」的意义来自社会形态
 
-> **原句 2:** "The poor will be always with us, but what it means to be poor depends on the kind of 「us'」 they are 「with'」. It is not the same to be poor in a society which needs every single adult member to engage in productive labour as it is to be poor in a society which, thanks to the enormous powers accumulated by centuries of labour, may well produce everything needed without the participation of a large and growing section of its members."
+> **原句 2:** "The poor will be always with us, but what it means to be poor depends on the kind of "us' they are "with'. It is not the same to be poor in a society which needs every single adult member to engage in productive labour as it is to be poor in a society which, thanks to the enormous powers accumulated by centuries of labour, may well produce everything needed without the participation of a large and growing section of its members."
 
 **中文理解**：穷人将永远与我们同在，但「穷」意味着什么，取决于他们与之同在的那个「我们」是哪一种。在一个需要每一个成年成员参加生产劳动的社会里穷，与在一个由于数百年劳动积累起来的巨大力量、很可能在其大部分且越来越多的成员缺席的情况下也能生产出一切所需之物的社会里穷，并不是一回事。
 
@@ -122,7 +122,7 @@ source_text: ch02 introduction to the first edition.txt
 
 ### ⑦ 把生计权与出卖劳动解绑
 
-> **原句 7:** "Or should we seek new solutions, such as the 「decoupling'」 of the right to livelihood from the selling of labour, and the extension of the socially recognized 「concept of work」 beyond that recognized by the labour market?"
+> **原句 7:** "Or should we seek new solutions, such as the "decoupling' of the right to livelihood from the selling of labour, and the extension of the socially recognized concept of work beyond that recognized by the labour market?"
 
 **中文理解**：抑或我们应当寻求新的解决方案——例如把生计权从出卖劳动中「解除」出来，以及把社会承认的工作概念扩展到劳动市场所承认的范围之外？
 
