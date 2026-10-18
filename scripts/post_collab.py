@@ -467,9 +467,40 @@ def _has_id_line(entry, book, loose=False):
         if (s.startswith(f"[{book}]") or s.startswith(f"《{book}》")
                 or s.startswith(f"**《{book}》")):
             return True
+        # ⚠️ 2026-10-18 新增：**topic 形态**（`【…】`）也是标识行。
+        #   缘由：`--topic` 条目的标题是脚本自己生成的 `## 【…】`（见 `:411`），而上面
+        #   三种书名形态对 topic 恒不匹配 ⇒ `_book_hit` 的 ①/②′ 两层对 topic 全落空、
+        #   直接掉到 ③ 整条子串层。两个后果同源：`--replace`/`--append` 每次打
+        #   「可能是别的书的节」假警报；新建 `--topic` 会被「句中提及」该 topic 的别的
+        #   条目误判成「已有条目」而拒收（实测 `【文档同步】` 被两处指针句拒收）。
+        #   书名侧不可达（slug/书名不以 `【` 包裹）⇒ 本分支只影响 topic。
+        if book.startswith("【") and book.endswith("】") and \
+                re.match(r"^(?:#{1,6}\s*)?" + re.escape(book), s):
+            return True
         if loose and s.lstrip("#*> -").startswith(book):
             return True
     return False
+
+
+def _topic_is_title(entry, topic):
+    """这一条的主题是不是 `topic`——判据：`topic` 出现在该条的**标题**里。
+
+    ⚠️ 2026-10-18 新增，配合 `_book_hit` 的 topic 分支。
+    定义「标题」＝该条**前两个非空行**之一，因为两种容器的标题位置不同：
+
+      · 板条目：第 1 非空行是自动抬头 `### [时间] [身份] → All`（不含主题串），
+        第 2 非空行才是发帖人写的标题（`## 【甲主题】…` 或裸 `【甲主题】…`）。
+      · 日志节：第 1 非空行就是 `## 【甲主题】…` 自己。
+
+    为什么不用「整条子串」：那样「正文里提了一嘴该主题」的条目也会被算成
+    「该主题的条目」，是把判重键当成了全文搜索键（2026-10-18 实测：两条指针句
+    「详见【文档同步】」让 `【文档同步】` 被判成「已有 2 条」而无法新建）。
+    为什么不收窄到「行首锚定」：库内有历史非规范标题（如
+    `## 工具变更提案：… — 【工具变更】sweep_analysis_inline.py …`，主题在标题尾部），
+    行首锚定会把它漏掉 ⇒ 允许标题内任意位置。
+    """
+    lines = [ln for ln in entry.split("\n") if ln.strip()][:2]
+    return any(topic in ln for ln in lines)
 
 
 def _book_hit(sections, book):
@@ -497,6 +528,16 @@ def _book_hit(sections, book):
     **标识行命中**（`_has_id_line`）：正文有行以 `[slug]` / `《书名》` 开头者
     才算「关于该书」。仍无命中才回落整条子串，② 的 272 处兼容性不受影响。
     """
+    # ⚠️ 2026-10-18 新增：**topic 走独立判据并提前返回**——见 `_topic_is_title`。
+    #   为什么不复用下面三层：① 标题行层对板恒落空（板抬头不含主题串）；②′ 标识行层
+    #   只认书名形态；而 ③ 整条子串层分不清「关于该书」与「句中提及」——那正是书名侧
+    #   必须保留、却被「每主题一条」判重误用的地方（实测：两条指针句把 `【文档同步】`
+    #   判成「已有 2 条」，新建被拒）。topic 的形态是脚本自己规定的，可以按标题锚定。
+    #   效果：`--topic` 新建不再被「正文提到过该 topic」的条目误拦；`verify --book "【…】"`
+    #   与 `--append` 也不再把他条的交叉引用算成本主题的条目。
+    if book.startswith("【") and book.endswith("】"):
+        return [e for e in sections if _topic_is_title(e, book)]
+
     head_hit = [e for e in sections if book in e.split("\n", 1)[0]]
     if head_hit:
         return head_hit
