@@ -1,6 +1,6 @@
 ---
 状态: 未读
-modified: "2026-10-19"
+modified: "2026-10-18"
 source_text: ch03 the meaning of work producing the work ethic.txt
 ---
 
@@ -8,10 +8,10 @@ source_text: ch03 the meaning of work producing the work ethic.txt
 
 ## 概览
 
-- **出处**：*Work, Consumerism and the New Poor*，第一章 The meaning of work: producing the work ethic，第 5–26 页
+- **出处**：*Work, Consumerism and the New Poor*，第一章 The meaning of work: producing the work ethic，第 5–22 页
 - **作者**：Zygmunt Bauman
 - **章节定位**：全书论证的史前史。全书命题（新穷人是「有缺陷的消费者」）依赖一个前提：穷人曾经是「有用的」，因为他们是被需要的劳动后备军。本章的任务就是拆穿这一前提——它追述劳动伦理如何被制造出来、为谁服务、实际做了什么
-- **字符数**：约 54,040 字符（text/ 计 26 个自然段）
+- **字符数**：约 54,040 字符（text/ 计 81 个自然段，空行分隔）
 - **一句话主旨**：劳动伦理不是关于劳动的伦理，而是一台用于消灭选择的机器——它把劳动的道德光环安在强制之上，真实功能是训练服从，并且它从来不是靠说服，而是靠贫困救济院、工资压到活命线与体罚这三根支柱运转的。
 
 ## 论证结构

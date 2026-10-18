@@ -1,6 +1,6 @@
 ---
 状态: 未读
-modified: "2026-10-20"
+modified: "2026-10-18"
 source_text: ch02 introduction to the first edition.txt
 ---
 
@@ -11,7 +11,7 @@ source_text: ch02 introduction to the first edition.txt
 - **出处**：*Work, Consumerism and the New Poor*，Introduction to the first edition，第 1–4 页
 - **作者**：Zygmunt Bauman
 - **章节定位**：作者自撰的引言，功能是交代全书的提问方式、核心命题与章节路线图。它把书名里的 the new poor 直接定义为「有缺陷的消费者」（flawed consumer），并预告了六章的走向
-- **字符数**：约 4,920 字符（text/ 计 10 句）
+- **字符数**：约 4,920 字符（text/ 计 10 个自然段，空行分隔）
 - **一句话主旨**：贫穷从来不是一种客观处境而是一种被制造出来的社会定义；当西方社会从生产者社会转为消费者社会，贫穷的意义不再来自失业，而主要来自「有缺陷的消费者」这一困境——本书要追踪这一转变并为它清点后果。
 
 ## 论证结构

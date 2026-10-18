@@ -1,6 +1,6 @@
 ---
 状态: 未读
-modified: "2026-10-20"
+modified: "2026-10-18"
 source_text: ch05 the rise and fall of the welfare state.txt
 ---
 
@@ -8,10 +8,10 @@ source_text: ch05 the rise and fall of the welfare state.txt
 
 ## 概览
 
-- **出处**：*Work, Consumerism and the New Poor*，第三章 The rise and fall of the welfare state，第 49–71 页
+- **出处**：*Work, Consumerism and the New Poor*，第三章 The rise and fall of the welfare state，第 45–62 页
 - **作者**：Zygmunt Bauman
 - **章节定位**：全书论证从「劳动伦理如何造出穷人」转向「制度如何安置穷人」。前两章已证明劳动伦理的道德基础被消费美学抽空，本章要证明福利国家因同一抽空而失去经济基础与政治基础；它是「有缺陷的消费者」出场前的最后一块制度塌方
-- **字符数**：约 53,500 字符（text/ 计 76 个自然段）
+- **字符数**：约 53,500 字符（text/ 计 76 个自然段，空行分隔）
 - **一句话主旨**：福利国家从来不是单一逻辑的产物，而是多种力量「过度决定」的合流；当资本的边界变成全球、而福利的边界仍是民族国家，雇主不再需要为劳动力的再商品化付费，而消费社会把「选择」立为元价值、把配给立为反价值——福利国家同时失去了经济基础与人心基础，它的成功本身还为它培养了掘墓人。
 
 ## 论证结构

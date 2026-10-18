@@ -1,6 +1,6 @@
 ---
 状态: 未读
-modified: "2026-10-19"
+modified: "2026-10-18"
 source_text: ch04 from the work ethic to the aesthetic of consumption.txt
 ---
 
@@ -8,10 +8,10 @@ source_text: ch04 from the work ethic to the aesthetic of consumption.txt
 
 ## 概览
 
-- **出处**：*Work, Consumerism and the New Poor*，第二章 From the work ethic to the aesthetic of consumption，第 27–47 页
+- **出处**：*Work, Consumerism and the New Poor*，第二章 From the work ethic to the aesthetic of consumption，第 23–44 页
 - **作者**：Zygmunt Bauman
 - **章节定位**：全书论证的中段枢纽。第一章证明了劳动伦理是「关于交出自由的戒律」，本章要证明它已被取代：控制社会的第一原则不再是规范（norm），而是诱惑（seduction）。这是「有缺陷的消费者」登场的直接前史
-- **字符数**：约 58,300 字符（text/ 计 43 个自然段）
+- **字符数**：约 59,500 字符（text/ 计 86 个自然段，空行分隔）
 - **一句话主旨**：现代社会从「生产者的社会」转入「消费者的社会」，社会控制的统治方式也随之从规制转向诱惑；消费美学取代劳动伦理成为新的整合原则，它把「先节流后享用」颠倒为「先享用后付款」，把自由定义为选择的范围，并让诱惑永远比上一次多一点。
 
 ## 论证结构
