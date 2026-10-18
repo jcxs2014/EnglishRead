@@ -31,7 +31,7 @@ modified: "2026-10-18"
 
 **关键词：** secluded · peaceful · lonely
 
-**为什么这样写：** 用 "Just like her" 把 Winter Woods 与 Clarion 作 mirror——both beautiful, both cold, both lonely. 这是 Clarion 的 self-projection：她把 Winter Woods 读成 her own reflection。Elvina 把 Winter Woods 读成 threat，Clarion 读成 kinship。同一 landscape，两种 reading——这与 ch01 的 "boundary as blind spot" motif 呼应。
+**为什么这样写：** 用 "Just like her" 把 Winter Woods 与 Clarion 作 mirror——both beautiful, both cold, both lonely. 这是 Clarion 的 self-projection：她把 Winter Woods 读成 her own reflection。Elvina 把 Winter Woods 读成 threat，Clarion 读成 kinship。同一 landscape，两种 reading——这与本章的 "boundary as blind spot" motif 呼应。
 
 **读者视角提示：** 注意 Clarion 用 "peaceful" 而非 "terrifying" 描述 Winter Woods——这是 Elvina 教诲的 first crack。Clarion 的 curiosity 比 her fear stronger，而 Elvina 的 "discouraged any line of questioning" 说明这种 curiosity 是被 suppress 的，不是 absent。
 
@@ -45,25 +45,17 @@ modified: "2026-10-18"
 
 **读者视角提示：** Clarion 对 Winter Woods 的 curiosity 是全书 main plot 的 seed。请留意 "Warden of the Winter Woods" 这个 phrase——Clarion 问 "what was the Warden like?"，而 ch01 的 shadow creature 就是 Warden 所 witness 的。Clarion 与 Warden 之间的 connection 会在后文 unfold。
 
-> **原句 4:** "Clarion offered Petra her hands. When she took them, Clarion pulled her off the floor and guided her back into the air. 'I'll see you as soon as I can.' After a moment, she added, 'I'll let you know if you need to flee for a life at sea.' Petra moaned piteously. 'Fine.' ... Honestly. One of these days, Clarion would orchestrate some sort of intervention. Ten years of pining was long enough."
+> **原句 4:** "Clarion offered Petra her hands. When she took them, Clarion pulled her off the floor and guided her back into the air."
 
-**中文理解：** Clarion offered Petra her hands。When she took them，Clarion pulled her off the floor and guided her back into the air。「I'll see you as soon as I can。」After a moment，she added，「I'll let you know if you need to flee for a life at sea。」Petra moaned piteously。「Fine。」……Honestly。One of these days，Clarion would orchestrate some sort of intervention。Ten years of pining was long enough。
+**中文理解：** "Clarion offered Petra her hands。When she took them，Clarion pulled her off the floor and guided her back into the air。" Clarion 帮 Petra 起来，两人和好。
 
-**关键词：** piteously · orchestrate · intervention · pining
+**关键词：** offered · hands · pulled · guided
 
-**为什么这样写：** 用 Petra/Artemis 的 subplot 作 comic relief，同时用 "orchestrate some sort of intervention" 把 Clarion 的 governing-talent identity 与 personal life entangle——she can't even help her friend's love life without framing it as "orchestrate"。Ten years of pining 也是 Clarion's own loneliness 的 mirror：Petra has someone to pine for，Clarion doesn't.
+> **原句 5:** "'To be a good queen—is to be as cold and remote as the star from which you were born,' Clarion finished for her."
 
-**读者视角提示：** Petra-Artemis 的 tension 是本章的 B-plot，但 it serve Clarion's arc：Clarion 能 see others' feelings clearly（Petra/Artemis），却 can't see her own (Elvina's disappointment, her own magic failure)。This asymmetry is Clarion's blind spot.
+**中文理解：** "To be a good queen——is to be as cold and remote as the star from which you were born," Clarion finished for her。Clarion 替 Elvina 说完统治哲学。
 
-> **原句 5:** "'To be a good queen—is to be as cold and remote as the star from which you were born,' Clarion finished for her. It was the tenet that grounded Elvina's philosophy of governance, one that had been impressed upon Clarion since the day she arrived. Elvina leveled her with a flat stare. 'I know it does not come easy to you. But that is the only way you can maintain impartiality—the only way you can make the calculations you need to rule fairly.' ... 'I understand,' she murmured."
-
-**中文理解：** 「To be a good queen——is to be as cold and remote as the star from which you were born，」Clarion finished for her。It was the tenet that grounded Elvina's philosophy of governance，one that had been impressed upon Clarion since the day she arrived。Elvina leveled her with a flat stare。「I know it does not come easy to you。But that is the only way you can maintain impartiality——the only way you can make the calculations you need to rule fairly。」……「I understand，」she murmured。
-
-**关键词：** cold · remote · impartiality · calculations
-
-**为什么这样写：** 用 "finished for her" 表明 Clarion has internalized this tenet so deeply she can recite it——but reciting ≠ believing。Elvina's "I know it does not come easy to you" 是 rare moment of empathy，而 "calculations you need to rule fairly" 把 queenhood 写成 math problem，与 Clarion's compassion-driven approach 对立。Clarion's "I understand" 是 lie：she understands the words but not the philosophy，and she will spend the whole book learning the difference.
-
-**读者视角提示：** 这是全书的 central conflict：Elvina's "cold and remote" vs Clarion's "compassion and connection"。注意 Elvina 说 "the only way"——absolutist language。Clarion's magic failure (light spluttered, died) 与 this philosophy 对应：her magic requires emotion's absence, but her nature is emotion's presence。She can't empty herself of feeling because feeling is her identity.
+**关键词：** cold · remote · star · born
 
 ## 本章词汇
 
