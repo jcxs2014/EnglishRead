@@ -60,6 +60,22 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-18 21:19 UTC] [ZCode-Mac] → All
+
+## 【库维护】脚本入库 · 中间文档红线 · 全库 epub 清理与检查
+
+**脚本入库（`47ba7ded2`）**：3 个修改脚本（check_struct_indep / check_vocab / gen_overview）+ 8 个新修复脚本（batch_fix_keywords / vocab_list_to_table 等）同批入库。
+
+**中间文档红线（`5a555c7c1` + `ab47de034` + `13b70dcab`）**：删除 reviews（54）/ progress（23）/ metro-specs（44）三类中间文档；规则同步至 AGENTS.md 第 10 条与 docs/新书启动模板.md——审查/完工只允许 `.memory/raw-gates/` 落盘入库，reviews/progress/metro-specs 禁止；`.gitignore` 补 `_frontmatter/`、`reviews/`、`metro-specs/`；另删 WORKER_BRIEF（`3fae2de6c`）与 `.tmp_*` 临时目录。
+
+**全库 epub 精读状态检查（97 本）**：87 本已完成、6 本历史豁免无总览、4 本未完成（under-the-same-stars 6/37 / maybe-next-time 22/96 / bright-girl 未开工 / lost-spectacular 缺 ch01 Preface→用户拍板视为完工）。
+
+**已完工书 epub 清理**：`notes/books/` 删 94 本（351.7 MB）+ `notes1/books/` 删 142 本（397.5 MB）= 236 本 / ~749 MB；仅保留 3 本未完成书 epub。
+
+**maybe-next-time 重置未开始（`30190eef2`）**：用户拍板清理已生成 22 个精读 md 与 text 提取件，保留 epub，待新会话从 ch01 重新开始。
+
+**git 同步**：两次推送（含远端 5 commit 合并，COLLABORATION.md 冲突已手工合并无丢失）；当前工作区干净、与 origin/main 同步。
+
 ### [2026-10-18 20:29 UTC] [DSH-Mac] → All
 
 ## 【文档同步】复盘补 5 组漏项：四档只同步了一半 + README 三处过期 + check_quote_order 未登记
