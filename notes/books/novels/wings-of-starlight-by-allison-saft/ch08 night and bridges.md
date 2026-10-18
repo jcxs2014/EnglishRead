@@ -9,27 +9,23 @@ modified: "2026-10-18"
 
 - **一句话概括**：Elvina reveal Nightmares 的 origin，assembly 上 announce tear down Winter bridges——Clarion 决定 meet Milori to stop it。
 - **情感弧线位置**：全书的情感 deepen——Clarion 从 "self-doubt" 到 "self-authorizing agent"；Elvina 从 "mentor" 到 "obstacle"；Petra 作 emotional anchor。
-- **母题兑现/反转**：母题「信息控制」在此被 fully exposed：Elvina kept Nightmares secret, and now plans to cut Winter off entirely. Clarion's "I have to stop her" is first explicit defiance of Elvina's authority. Bridge destruction = severing connection = Elvina's ultimate isolation strategy.
+- **母题兑现/反转**：母题「信息控制」在此被 fully exposed：Elvina kept Nightmares secret, and now plans to cut Winter off entirely. Clarion first explicit defiance of Elvina authority. Bridge destruction = severing connection = Elvina's ultimate isolation strategy.
 - **人物弧线**：Clarion 从 "obedient" 到 "self-authorizing" ("I have to stop her")；Elvina 从 "mentor" 到 "obstacle" (tearing down bridges); Petra 从 "anxious" to "loyal confidante" (follows Clarion, recognizes her "reckless look").
-- **叙事手法**：章节以 Elvina's revelation 作 opening (exposition) → assembly (political drama) → Clarion's decision (cliffhanger). Elvina's "I intend to tear down the bridges" is the chapter's thesis. Clarion's "Is alone truly fine?" is the moral question. Ending with "For the good of Pixie Hollow, Clarion would have to find a way around her [Artemis]" is decision point.
+- **叙事手法**：章节以 Elvina's revelation 作 opening (exposition) → assembly (political drama) → Clarion's decision (cliffhanger). Elvina's "I intend to tear down the bridges" is the chapter's thesis. Clarion's "Is alone truly fine?" is the moral question. Ending with "For the good of Pixie Hollow, Clarion would have to find a way around her" is decision point.
 
 ## 精读
 
-> **原句 1:** "'They're called Nightmares.' 'Nightmares?' Even saying it aloud chilled her. 'As you've now seen, they have a terrible power,' Elvina continued. 'They plunge their victims into a terror-filled slumber. The moment we received the first alarm, I had our healers begin work on an antidote. So far, none of their efforts have worked. The Minister of Autumn and ten other citizens of Pixie Hollow have yet to be roused.' ... 'No one knows exactly.' Elvina settled on the chaise longue beside her and folded her hands in her lap. She stared straight ahead, her expression oddly vacant. 'Once, a very long time ago, queens remembered the origin of Nightmares. But knowledge of them has faded with time. All we have are fragments. Titania, the first Queen of Pixie Hollow, entrusted the story to her apprentice—and so on down the line, until now. By the time it reached me, it had grown distorted and vague. It was more like a fairy tale, one worn smooth with repetition until it hardly seemed real at all.'"
+> **原句 1:** "I intend to tear down the bridges between Winter and the warm seasons."
 
-**中文理解：** "They're called Nightmares。" "Nightmares?" Even saying it aloud chilled her。「As you've now seen，they have a terrible power，」Elvina continued。「They plunge their victims into a terror-filled slumber。The moment we received the first alarm，I had our healers begin work on an antidote。So far，none of their efforts have worked。The Minister of Autumn and ten other citizens of Pixie Hollow have yet to be roused。」……"No one knows exactly。" Elvina settled on the chaise longue beside her and folded her hands in her lap。She stared straight ahead，her expression oddly vacant。「Once，a very long time ago，queens remembered the origin of Nightmares。But knowledge of them has faded with time。All we have are fragments。Titania，the first Queen of Pixie Hollow，entrusted the story to her apprentice——and so on down the line，until now。By the time it reached me，it had grown distorted and vague。It was more like a fairy tale，one worn smooth with repetition until it hardly seemed real at all。」
+**中文理解：** "I intend to tear down the bridges between Winter and the warm seasons。" Elvina 宣布她要切断 Winter 与暖季的联系。
 
-**关键词：** Nightmares · terror-filled · slumber · fragments · distorted · vague
-
-**为什么这样写：** 用 "Nightmares" 作 name——literal, not metaphor. "terror-filled slumber" 作 horror: not death, but endless fear. "faded with time" / "distorted and vague" / "worn smooth with repetition" 作 knowledge decay metaphor——information control over generations has eroded truth. Titania → apprentice → ... → Elvina is chain of transmission, and each link loses fidelity. This is the book's theme: knowledge decays when controlled by one person.
-
-**读者视角提示：** 注意 Elvina says "It didn't seem important" about Nightmares——she decided what Clarion should know. This is the same pattern as Winter Woods (discouraged questioning). Elvina's information control is systematic, not accidental.
+**关键词：** tear down · bridges · Winter · warm seasons
 
 > **原句 2:** "'Why didn't you tell me sooner?' 'It didn't seem important.' 'It seems important now.' 'What would you have me do?' Elvina said through her teeth. 'You cannot yet access the full range of your abilities. Legends about things that might very well have never come to pass—that might never have even existed—would only have distracted you.' 'You cannot decide what I should and should not know.' Clarion's voice trembled with the force of her anger."
 
 **中文理解：** "Why didn't you tell me sooner?" "It didn't seem important。" "It seems important now。" "What would you have me do?" Elvina said through her teeth。「You cannot yet access the full range of your abilities。Legends about things that might very well have never come to pass——that might never have even existed——would only have distracted you。」「You cannot decide what I should and should not know。」Clarion's voice trembled with the force of her anger。
 
-**关键词：** distracted · decide · trembling · anger
+**关键词：** distracted · decide · anger
 
 **为什么这样写：** 用 "It didn't seem important" 作 Elvina's rationale——she filters information based on her judgment of what Clarion needs. "Legends about things that might never have existed" 作 dismissal of knowledge as "unreal." "You cannot decide what I should and should not know" 是 Clarion's first direct challenge to Elvina's authority—she asserts epistemic rights. "trembled with the force of her anger" 作 emotion's physical manifestation.
 
