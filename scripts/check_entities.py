@@ -30,6 +30,36 @@ novels 10 / mystery-thriller 3。根因是口径只认 4 个 H2 标题
 `black-is-the-body` 报 `ISBN`/`Borzoi Books`、`stet-an-editors-life` 报
 `Grove Press`/`Granta Publications`。本工具的设计目的是抽**故事人名地名**，
 出版信息不在其内 ⇒ 扩口径须先做一轮噪声剔除，**不与「堵真空绿」混做**。
+
+⚠️ **2026-10-18 补第二个跳过型假绿：语料层不存在**。`load_corpus()` 在既无
+`text/*.txt` 又无 `library/*.epub` 时返回**空串** ⇒ 「实体不在语料里」对**每一个**
+实体都成立 ⇒ 全部报成未知实体。样本（`--wide` 回归撞出，四本均无 `text/` 也无 epub）：
+`why-nothing-works-by-marc-dunkelman`（报 `Gallup`/`Warren Burger`）·
+`letters-to-a-friend-by-diana-athill`（`DECUARY`）·
+`dont-make-me-laugh-by-julia-raeside`（`Peters`）·
+`in-a-rush-by-kate-canterbary`（`Contemporary Romance`）。
+**在无真值时判「未知」是不出结论** ⇒ 与「抽 0 段」同口径：exit 2 + ❓ 无法判定。
+⚠️ **我踩的坑（留作取证反面）**：撞出这个形态时我先断言上面四本「均无 `text/` 也无 epub」，
+复核发现**全错**——它们分别有 10 / 18 / 40 / 43 个 `text/*.txt`（68 万 / 48 万 / 70 万 / 48 万字符），
+错因是我用单一路径 `notes*/books/*/<slug>` 找书，而**体裁目录名不统一**
+（`short-story-anthologies` vs `short-story-antheses`）、且书在 `notes/` 与 `notes1/` 下的归属不同。
+⇒ **任何「某书没有 X」的全库统计，先把命中路径打出来看**——路径写错时结论会整体反向。
+（顺带暴露第二个形态：`ENT_PAT` 允许连字符，于是中文的「Giles 与 Layla」被粘成
+伪专名 `Giles-Layla`——这类假红已在 `--wide` 说明里标注为已知缺口。）
+
+⚠️ **2026-10-18 补：噪声剔除已做完，做成 `--wide`（仍非默认）**
+用法：`python3 scripts/check_entities.py "<书目录>" --wide`。
+剔除不是靠词表硬剔，而是**行级剔书目元信息行**（`META_LINE`）——
+因为实测最大一档（`来源/栏目：…（Contemporary Romance）`）是行内括注形态，
+任何词表都会漏掉它。量化（483 本有 `text/` 的书、`概览` 节正文 47,637 行）：
+- 元信息行 **5,544 行 = 11.6%**；剔掉后新增实体 **1,903 次 → 122 次**
+  （作者/书名 990→3 · 出版信息 177→2 · 分部标签 126→11），涉及 **28 本**书。
+- 残余 top：`contemporary romance` 38（`来源/栏目` 括注变体，见 META_LINE 已知缺口）·
+  `andre deutsch`/`yaakov katz`/`cecil rhodes` 各 2（真人物名，值得看）·
+  365-days 的 `higher standards`/`taking small steps` 等 20 条（书内概念短语，非专名）·
+  `percy shelley`/`andrew bolkonsky`（引文内专名，真值命中但格式差异）。
+**为什么不做成默认**：它会改判定口径（全库报错文件数会变），属「新增检查项」，
+与 AGENTS 第 8 条「先问生产方式」同向，须用户单独裁决；`--wide` 只做取证。
 """
 import re, sys, glob, os
 
@@ -92,7 +122,7 @@ def whitelist(book_dir):
                 extra.add(flat_alpha(l)); extra.add(l)
     return extra
 
-def extract_synopses(txt):
+def extract_synopses(txt, wide=False):
     """返回 [(章节号, 梗概段文本)]——兼容 故事梗概 / 本章导航 / 本篇导航 三类标题。
 
     ⚠️ 2026-09-27 五步审查（Real Life Butala）新增 `本篇导航`：短篇合集与部分
@@ -105,15 +135,36 @@ def extract_synopses(txt):
 
     ⚠️ 2026-10-18 复核（这条坑又以另一种形态复发）：同族漏收已发生过两次
     （`本篇导航` / `## 节点N` 形态），本函数的口径**至今仍只有这 4 个标题**，
-    而库里主流形态是 `概览`（1,962 处）与 `全书梗概`（313 处）⇒ 108 本书
-    抽 0 段。**处置：不扩口径（扩了会引入 ISBN/出版社噪声，见文件头 2026-10-18
-    记录），改为抽 0 段时 exit 2「❓ 无法判定」**，由 `check_book` 返回段数、
-    `main` 据此分流。扩口径这件事仍开着，须先做噪声剔除。
+    而库里主流形态是 `概览`（1,722 处）与 `全书梗概`（313 处）⇒ 108 本书
+    抽 0 段。**处置：默认口径不扩**（扩了会引入 ISBN/出版社噪声，见文件头
+    2026-10-18 记录），改为抽 0 段时 exit 2「❓ 无法判定」，由 `check_book`
+    返回段数、`main` 据此分流。
+    **扩口径已做成 `--wide`（非默认，取证用）**：加 `概览/论证结构/…` 并**行级剔书目
+    元信息行**，噪声 1,903 次 → 122 次。**是否转默认待用户裁决**（改判定口径＝新增
+    检查项）。
+
+    ⚠️ 2026-10-18 投毒抓出、**已修**：相邻两个梗概层标题会**静默丢弃上一节**——
+    「遇到新梗概标题」这条分支无条件 `buf = []; continue`，上一节永远走不到 append。
+    该缺陷早于 `--wide`，但默认口径下 `故事梗概`/`本章导航` 紧邻罕见；
+    `--wide` 收进 `概览`(1,722)/`论证结构`(1,133) 后，「概览后紧跟论证结构」成常态。
+    **教训：`--wide` 这类「扩大扫描集」的改动，必须配一次投毒测试**——
+    扩大扫描集最可能的失败形态不是「多报错」，而是「看似收进来了其实没收到」。
     """
     out = []
     cur_num, buf, in_syn = None, [], False
     num_pat = re.compile(r'^#+\s*(\d+[\.\s]|Prologue|Epilogue)', re.I)
     syn_pat = re.compile(r'^##\s*(故事梗概|本章导航|本篇导航|梗概)')
+    # ⚠️ 2026-10-18 `--wide`：非虚构书的梗概层标题是 `概览`/`论证结构`
+    # （1,722 + 1,133 处），短篇合集也用 `概览`。默认**不收**（见文件头）。
+    syn_pat_wide = re.compile(
+        r'^##\s*(故事梗概|本章导航|本篇导航|梗概|概览|论证结构'
+        r'|本章概览|全书梗概|内容概览|章节概览|本篇概览|论证脉络)')
+    # ⚠️ 书目元信息行——**行级剔除**，不靠词表（见文件头量化）。这些标签在 md 里
+    # 常被 `**` 包裹（`- **作者**：X`）或带中文冒号，故两处标点都收。
+    META_LINE = re.compile(
+        r'^\s*[-*]?\s*\**\s*(?:出处|作者|来源|栏目|来源栏目|字数|字符数'
+        r'|篇目|篇目来源|原文出处|章节定位|体裁|文本体裁|书籍信息|出版信息'
+        r'|系列)\s*\**\s*[:：/]')
     head_pat = re.compile(r'^##\s')
     for line in txt.splitlines():
         hm = head_pat.match(line.strip())
@@ -122,23 +173,32 @@ def extract_synopses(txt):
             pass
         if num_pat.match(line.strip()) and line.strip().startswith('#'):
             cur_num = line.strip().lstrip('#').strip()[:24]
-        if syn_pat.match(line.strip()):
+        if (syn_pat_wide if wide else syn_pat).match(line.strip()):
+            # ⚠️ 2026-10-18 修：相邻两个梗概层标题会**静默丢弃上一节**。
+            # 原实现无条件 `buf = []; continue`，上一节永远走不到下面的 append。
+            # 投毒实证：`## 概览` 下插虚构实体行，`--wide` 跑出该节**未进扫描集**。
+            # 库内 `概览`(1,722) 紧跟 `论证结构`(1,133) 是常态 ⇒ `--wide` 下高发。
+            if in_syn and buf:
+                out.append((cur_num or '?', ' '.join(buf)))
             in_syn = True; buf = []; continue
         if in_syn:
             if head_pat.match(line.strip()):
                 out.append((cur_num or '?', ' '.join(buf)))
                 in_syn = False; buf = []
+            elif META_LINE.match(line):
+                continue          # ⚠️ 剔书目元信息行（见上）
             else:
                 buf.append(line)
     if in_syn and buf:
         out.append((cur_num or '?', ' '.join(buf)))
     return out
 
-def check_book(book_dir):
+def check_book(book_dir, wide=False):
     corpus = load_corpus(book_dir)
     wl = whitelist(book_dir)
     fails, checked = [], 0
     seg_total, h2 = 0, {}
+    corpus_len = len(corpus)
     h2_pat = re.compile(r'^##\s+(.*?)\s*$')
     for f in sorted(glob.glob(os.path.join(book_dir, '*.md'))):
         name = os.path.basename(f)
@@ -151,7 +211,7 @@ def check_book(book_dir):
         author_str = flat_alpha(mauthor.group(1)) if mauthor else ''
         unknown = []
         seen_in_file = set()
-        segs = extract_synopses(txt)
+        segs = extract_synopses(txt, wide=wide)
         seg_total += len(segs)
         for _, syn in segs:
             for ent_m in ENT_PAT.finditer(syn):
@@ -196,19 +256,31 @@ def check_book(book_dir):
                     checked += 1
         if unknown:
             fails.append((name, sorted(set(unknown))))
-    return {'fails': fails, 'seg_total': seg_total, 'h2': h2}
+    return {'fails': fails, 'seg_total': seg_total, 'h2': h2,
+            'corpus_len': corpus_len}
 
 def main():
     book_dir = sys.argv[1]
-    r = check_book(book_dir)
+    # `--wide`：额外收 `概览/论证结构/…` 这类非虚构梗概层标题（剔书目元信息行）。
+    # ⚠️ **非默认**：它会改判定口径（全库报错文件数会变），取证用，须用户裁决。
+    wide = '--wide' in sys.argv[2:]
+    r = check_book(book_dir, wide=wide)
+    tag = '（宽口径 --wide）' if wide else ''
     print(f"=== 实体一致性检测：{r['seg_total']} 个梗概段 / "
-          f"{len(r['fails'])} 个文件存在未知实体 ===")
+          f"{len(r['fails'])} 个文件存在未知实体{tag} ===")
     for name, ents in r['fails']:
         print(f"  ❌ {name}: {', '.join(ents)}")
     # ⚠️ 2026-10-18：抽 0 段**不是通过**。此前这里照打「0 个文件存在未知实体」
     # 并 exit 0，报告读起来是「核过了、实体层干净」，实际一节都没进扫描集
     # （静默跳过型假绿，第四档）。现与 `verify_quotes` 无 epub 时同口径：
     # **退出码 2 + ❓ 无法判定 + 不产出「0 未知实体」这个结论**。
+    if r['corpus_len'] == 0:
+        print('  ⚠️ 本书既无 `text/*.txt` 也无 `library/*.epub` ⇒ **语料层不存在**。')
+        print('  ❓ 无法判定：没有真值可比，任何实体都会被报成「未知」——'
+              '本层**未被核对**（不是「干净」）')
+        print('  · 修法：补 `text/` 提取件（见 AGENTS 第 1 条原文先行），'
+              '或把 `library/*.epub` 放回本书目录。')
+        sys.exit(2)
     if r['seg_total'] == 0:
         top = sorted(r['h2'].items(), key=lambda kv: -kv[1])[:8]
         if top:

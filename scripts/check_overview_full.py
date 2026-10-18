@@ -231,6 +231,13 @@ def main():
         print('     但若本应有总览而缺失，请人工确认体裁。')
         return 2
     chapters = load_chapters(book)
+    # ⚠️ 2026-10-18（C 组 C2）：**章节覆盖**口径＝总览**全文**里出现过的
+    # （chNN）标注去重后的章号集，**不要求标签与引语同行**。
+    # ⚠️ 刻意不复用 `label_near`：它只取引语同行前后 40/20 字窗口内的 chNN
+    # （那是 B 段「标签须紧邻引语」的判据），而本库**标签写在引语下一行**是常见
+    # 形态（devil-inside 金句 `**①** "…"` / 次行 `（ch02）——…`；实测该书
+    # 40 章里只有 2 章的标签在同行）⇒ 复用它会把覆盖数系统性低报到 5%。
+    covered_ch = set()
     epaths = sorted(glob.glob(os.path.join(book, 'library', '*.epub')))
     if not chapters and not epaths:
         print('=== 总览整串核查（%s）===' % os.path.basename(book.rstrip('/')))
@@ -245,13 +252,22 @@ def main():
     n_sec_nolabel = 0          # ⚠️ 2026-10-18：节点节内「引语行无章号标注」的条数
     sec_nolabel_files = {}     # 文件名 → 条数（汇总时列出）
     n_label_ok = n_label_bad = n_label_undet = n_multi = 0
+    covered_ch = set()   # ⚠️ 2026-10-18（C 组 C2）：引语标签实际覆盖到的章
     problems = []
     # F 段计数器**必须在文件循环外**：放在循环内会被逐文件重置，
     # 汇总行只反映最后一个文件——症状是「抓到了问题但汇总写 0」。
     n_unq_ok = n_unq_bad = n_unq_skip = 0
     for md in ovs:
         name = os.path.basename(md)
-        lines = open(md, encoding='utf-8', errors='ignore').read().split('\n')
+        _ov_raw = open(md, encoding='utf-8', errors='ignore').read()
+        # ⚠️ 2026-10-18（C 组 C2）：**章节覆盖**＝总览全文里出现过的（chNN）去重集，
+        # **不要求标签与引语同行**（本库「标签写在引语下一行」是常见形态：
+        # devil-inside 金句 `**①** "…"` / 次行 `（ch02）——…`）。刻意不复用
+        # `label_near`——它只取引语同行 ±40/20 字窗口，是 B 段「标签须紧邻引语」
+        # 的判据，拿来算覆盖会把数字系统性低报 20 倍（该书 40 章只算出 2 章）。
+        for _mm in RE_LABEL.findall(_ov_raw):
+            covered_ch.add(str(int(_mm[0])) + _mm[1])
+        lines = _ov_raw.split('\n')
         # ── E. H1 语义校验
         # ⚠️ 2026-10-10 修正（The Man 00_概述.md 误报）：
         #    总览文件名含关键字（如「概述」「金句」）时，检查 H1 是否含该关键字。
@@ -412,6 +428,32 @@ def main():
           % (n_unq_ok, n_unq_bad, n_unq_skip))
     print('  C 跨章多重命中：%d ｜ E H1 语义错配：%d'
           % (n_multi, sum(1 for p in problems if p[0] == 'E')))
+    # ⚠️ 2026-10-18（C 组 C2）：**章节覆盖**——「总览只写了开头几章」这类交付
+    # 缺陷，此前零报警，因为本工具只做「引语 ↔ 标注章」单向对账，从不反向问
+    # 「哪一章没被总览提到」（Stuck with You 2026-10-14：金句 25 条全来自
+    # ch01–ch04，仍全绿）。**只列不判红**：短篇合集按篇不按章、节标题跨章引用
+    # 都会让「未覆盖」大量正当，判红必全库假红。
+    if chapters and covered_ch:
+        # ⚠️ 分母＝**md 章文件 ∪ text/ 章件**。只用 `chapters`（= text/ 件数）会低报：
+        # the-man 实测 text/ 79 件而 md 80 件（有一章文件名形态不同没并进 text/ 键）
+        # ⇒ 分母少算一章，「未覆盖」清单就会多出一个从未存在的章号。
+        all_ch = set(chapters)
+        for _p in sorted(glob.glob(os.path.join(book, 'ch*.md'))):
+            _m = re.match(r'ch(\d+)([a-z]?)', os.path.basename(_p))
+            if _m:
+                all_ch.add(str(int(_m.group(1))) + _m.group(2))
+        all_ch = sorted(all_ch, key=lambda x: (len(x), x))
+        miss_ch = [c for c in all_ch if c not in covered_ch]
+        print('  ⚠️ 章节覆盖：全书 %d 章（md ∪ text/）｜ 引语标签覆盖 %d 章'
+              ' ｜ **未被任何总览引语提到 %d 章**'
+              % (len(all_ch), len(covered_ch), len(miss_ch)))
+        if miss_ch and miss_ch != all_ch:
+            print('      未覆盖章号（最多列 20）：%s'
+                  % ', '.join('ch%02d' % int(c) for c in miss_ch[:20])
+                  + (' …' if len(miss_ch) > 20 else ''))
+        elif miss_ch:
+            print('      ⚠️ **一条引语都没标上章号** ⇒ 本项覆盖计数此时无意义，'
+                  '先看上面 B 段「无标签未判」')
     if n_sec_nolabel:
         print('  ⚠️ 节点节内引语无行内章号：%d 条 / %d 个文件 —— '
               '节标题虽带（chNN），但引语行自身无标注 ⇒ **这些引语的章节归属未经对账**'

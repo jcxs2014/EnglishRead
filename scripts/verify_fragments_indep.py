@@ -28,7 +28,11 @@ import re
 import sys
 
 SPLIT = re.compile(r"(?:…|\.\.\.|—|–|―|-{2,})")
-QLINE = re.compile(r"^>\s*\*\*原句\s*\d+(?:\s*\([^)]*\))?\s*[::]\*\*\s*(.+?)\s*$")
+QLINE = re.compile(r"^>\s*\*\*原句\s*\d+(?:\s*\([^)]*\))?\s*[:：]\*\*\s*(.+?)\s*$")
+# ⚠️ 2026-10-18 修：原为 `\s*[::]\*\*` —— **字符类里写的是两个半角冒号**,
+# 全角 `：` 打不中 ⇒ 全库 7 本书 1,813 条 `> **原句 N：**` 引语从未进过本工具的
+# 扫描集（devil-inside 全书 9 条/ch 一条未查）。AGENTS 第 2 条明写「全角冒号」
+# 是本库通用写法 ⇒ 这是第五种形态的「跳过型假绿」，与 Q 档案第 2 类同族。
 CHAP = re.compile(r"^ch(\d{1,3})")
 
 
@@ -47,6 +51,45 @@ TBL = {ord(c): None for c in QUOTES}
 # （整串 flat 会把 2091 条真缺陷一起放过）。
 # 修法：片段比对前**只裁掉末尾标点**，串内标点与词序照旧严格。
 TRIM_END = ".,;:!?…"
+
+# ⚠️ 2026-10-18（DSH-Mac，C 组 C4 修工具）**「拼接未标省略号」判据**。
+# 症状：devil-inside ch10 `> **原句 9:** "It's her eyes that halt me, though. … That look.
+#   Those are Lilith's eyes. Only they're in someone else's sockets."` 判 MISS，
+#   而这三段**逐字都在本章 text/ 里**——md 把 `Where have I seen those eyes . . . ? /
+#   Before I can respond, …` 整段删掉、**却没写省略号**。
+# 后果：AGENTS 第 2 条明写「需省略中间文字用 `…` 且省略号两侧都必须是原词」，
+#   不写省略号 = 伪造了一条原文中不存在的连续引语，比改写更严重。
+# 判据：片段**前 WIN 词**与**后 WIN 词**各自在本章按序命中，且两锚点之间间隔
+#   大于 SPICE_GAP ⇒ 判「拼接未标省略号」（阻断型，与 MISS 同级）。
+# 门槛来自全库实测：295 条锚点双命中样本的 gap 中位 224、p90 750，而真正
+#   连贯文本的 gap 上界只有 70（`the-art-of-a-lie` ch04 实测）⇒ 取 80 安全。
+WIN = 8
+SPICE_GAP = 150
+
+
+def _head_pos(body: str, seq: str) -> int:
+    """seq 的词序列在 body 中按序命中时的**结束位置**；查无返回 -1。"""
+    pos = 0
+    for w in seq.split():
+        j = body.find(w, pos)
+        if j < 0:
+            return -1
+        pos = j + len(w)
+    return pos
+
+
+def splice_gap(body: str, frag: str):
+    """片段首尾各 WIN 词的原文间隔；判不了返回 None。"""
+    words = frag.split()
+    if len(words) < 2 * WIN + 2:
+        return None
+    head_end = _head_pos(body, " ".join(words[:WIN]))
+    if head_end < 0:
+        return None
+    tail_start = body.find(" ".join(words[-WIN:]), head_end)
+    if tail_start < 0:
+        return None
+    return tail_start - head_end
 
 
 def norm(s: str) -> str:
@@ -94,7 +137,7 @@ def main():
         print(f"❓ 无法判定：缺参照集 {text_dir}")
         return 2
 
-    total_frag = total_quote = miss = nochap = 0
+    total_frag = total_quote = miss = nochap = splice = 0
     misses = []
     for fn in sorted(os.listdir(book)):
         m = CHAP.match(fn)
@@ -122,17 +165,29 @@ def main():
                     # 过短片段（<12 归一化字符）无判定力，跳过但计数
                     if len(nf) < 12:
                         continue
-                    if nf not in body:
-                        miss += 1
-                        misses.append((fn, lineno, q.group(0)[:0], fr))
-                        print(f"❌ MISS {fn}:{lineno}  片段: {fr[:110]}")
+                    if nf in body:
+                        continue
+                    # 「拼接未标省略号」：首尾都能命中但中间跳过了叙述
+                    g = splice_gap(body, nf)
+                    if g is not None and g > SPICE_GAP:
+                        splice += 1
+                        print(f"❌ 拼接未标省略号 {fn}:{lineno}  "
+                              f"（首尾段均在本章命中，中间跳过 {g} 字符）  片段: {fr[:96]}")
+                        continue
+                    miss += 1
+                    misses.append((fn, lineno, q.group(0)[:0], fr))
+                    print(f"❌ MISS {fn}:{lineno}  片段: {fr[:110]}")
 
     print()
     print("=== 逐片段核验（独立实现） ===")
     print(f"  引语条数 {total_quote} ｜ 受检片段 {total_frag} ｜ ❌ MISS {miss}"
-          f" ｜ 缺参照章 {nochap}")
-    if miss:
-        print("  ⇒ 有片段在**本章** text/ 里查无 = 伪造或跨章搬引，必须改")
+          f" ｜ ❌ 拼接未标省略号 {splice} ｜ 缺参照章 {nochap}")
+    if miss or splice:
+        if miss:
+            print("  ⇒ 有片段在**本章** text/ 里查无 = 伪造或跨章搬引，必须改")
+        if splice:
+            print("  ⇒ 首尾段逐字命中、中间叙述被删却没写 `…` = AGENTS 第 2 条违规，"
+                  "必须在省略处补 `…`（省略号两侧都必须是原词）")
         return 1
     print("  ⇒ 每个受检片段都在**本章** text/ 里逐字命中")
     return 0
