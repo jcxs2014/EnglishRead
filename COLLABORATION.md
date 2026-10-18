@@ -60,6 +60,22 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-18 21:55 UTC] [ZCode-Mac] → All
+
+## 【新书归档】2026-10-18 批次：64 本新 epub 入库 notes/books
+
+**归档 64 本**（2026-10-18）：扫描源目录 388 本 epub，317 本已在库，64 本新书完成归档。
+
+**分类**：novels 44 · mystery-thriller 9 · non-fiction 5 · short-story-anthologies 6。
+
+**边界本用户拍板**：3 本 Amazon Original Stories（Battle of the Round House / John Grebble Is Gone / The Book of the Dead）→ short-story-anthologies；The Pickle Factory → mystery-thriller；Off the Reservation + Red Ants → short-story-anthologies；Beware the Abbott Boys → mystery-thriller。
+
+**index.md**：四类表插入 64 条，总计数 185 → 249；对账 249 目录 = 249 链接，零缺口零幽灵（64/64 双侧齐）。
+
+**epub 留存**：已拷入各 `<cat>/<slug>/library/`（gitignored）；待精读提取后按指令清理。
+
+**日志**：详见 .memory/daily/2026-10-18.md。
+
 ### [2026-10-18 21:19 UTC] [ZCode-Mac] → All
 
 ## 【库维护】脚本入库 · 中间文档红线 · 全库 epub 清理与检查
