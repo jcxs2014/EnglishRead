@@ -1,0 +1,23 @@
+# 基线留档（2026-10-18 用户拍板「新规则的适用范围」+ 精准重跑修正）
+# 检查器：scripts/check_overview_full.py（修前基线 = 313a7c487，即 C 组修复的父版本）
+# 书目录：notes1/books/novels/everything-is-poison-by-joy-mccullough
+# 退出码：1
+# 变动性质：B 修后消除告警（修前误报）：分节吞并修掉跨段污染，条目为负
+# ⚠️ 本文件是**基线取证**，不是整改指令——按 AGENTS「新规则的适用范围」
+#    第 2 条，重跑结果不自动触发回溯改内容。
+# ---- 以下为当前工具版本的原始输出 ----
+=== 总览整串核查（everything-is-poison-by-joy-mccullough）===
+  参照集：text/ 逐章（66 章） ｜ 总览文件 3 个
+  A 整串：命中 56 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 7
+  B 章节标签：对 50 ｜ 标注与实章不符 1（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 5 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 3 ｜ 不符 0（**只报不判红**）｜ 跳过 1
+  C 跨章多重命中：1 ｜ E H1 语义错配：0
+  ⚠️ 章节覆盖：全书 66 章（md ∪ text/）｜ 引语标签覆盖 42 章 ｜ **未被任何总览引语提到 24 章**
+Traceback (most recent call last):
+  File "/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check_overview_full.py", line 479, in <module>
+    sys.exit(main())
+  File "/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check_overview_full.py", line 452, in main
+    % ', '.join('ch%02d' % int(c) for c in miss_ch[:20])
+  File "/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check_overview_full.py", line 452, in <genexpr>
+    % ', '.join('ch%02d' % int(c) for c in miss_ch[:20])
+ValueError: invalid literal for int() with base 10: '3a'

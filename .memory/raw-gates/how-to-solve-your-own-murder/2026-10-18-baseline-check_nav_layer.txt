@@ -1,0 +1,23 @@
+# 基线留档（2026-10-18 用户拍板「新规则的适用范围」+ 精准重跑修正）
+# 检查器：scripts/check_nav_layer.py（修前基线 = 313a7c487，即 C 组修复的父版本）
+# 书目录：notes1/books/mystery-thriller/how-to-solve-your-own-murder-by-kristen-perrin
+# 退出码：2
+# 变动性质：B 修后消除告警（修前误报）：分节吞并修掉跨段污染，条目为负
+# ⚠️ 本文件是**基线取证**，不是整改指令——按 AGENTS「新规则的适用范围」
+#    第 2 条，重跑结果不自动触发回溯改内容。
+# ---- 以下为当前工具版本的原始输出 ----
+❌ ch05 the river dimber.md: 「she does look like her mum, which is a shame」全书查无 ⇒ 阻断型
+❌ ch10 ford.md: 「Be careful. We like wild things.」拼接未标省略号（两段均在本章命中，中间跳过 15212 字符叙述）
+❌ ch16 fiona sparrow.md: 「Why was Walt suddenly trying to look like John?」全书查无 ⇒ 阻断型
+❌ ch24 the threat.md: 「she does look like her mum, which is a shame」全书查无 ⇒ 阻断型
+❌ ch25 the little match girl.md: 「I just wanted someone to love me」全书查无 ⇒ 阻断型
+❌ ch28 the photo album.md: 「None of us ever really got over losing Emily」全书查无 ⇒ 阻断型
+❌ ch28 the photo album.md: 「Saxon...always been a liar and a snoop.」全书查无 ⇒ 阻断型
+❌ ch31 the wardrobe.md: 「All of us are guilty of something」全书查无 ⇒ 阻断型
+❌ ch31 the wardrobe.md: 「all of us are guilty of something—all of us except you.」全书查无 ⇒ 阻断型
+❌ ch35 laura frances adams.md: 「Was fate killed the wrong girl?」全书查无 ⇒ 阻断型
+❌ ch36 the thief who loved her.md: 「I'm also going to tell Rowan」全书查无 ⇒ 阻断型
+❌ ch37 the paternity test.md: 「Frances kept me updated on Laura, and on you.」全书查无 ⇒ 阻断型
+❌ ch43 the blank notebooks.md: 「That was me...it felt like they...sort of did both.」全书查无 ⇒ 阻断型
+
+=== 导航/总结层英文核对：❌ 13 ｜ ⚠️ 0 ===

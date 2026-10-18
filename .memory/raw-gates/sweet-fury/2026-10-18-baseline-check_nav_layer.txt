@@ -1,0 +1,18 @@
+# 基线留档（2026-10-18 用户拍板「新规则的适用范围」+ 精准重跑修正）
+# 检查器：scripts/check_nav_layer.py（修前基线 = 313a7c487，即 C 组修复的父版本）
+# 书目录：notes/books/mystery-thriller/sweet-fury-by-sash-bischoff
+# 退出码：2
+# 变动性质：A 修后新增告警（修前漏检）：导语层纳入扫描 → rc 0→2，新增 7 条阻断
+# ⚠️ 本文件是**基线取证**，不是整改指令——按 AGENTS「新规则的适用范围」
+#    第 2 条，重跑结果不自动触发回溯改内容。
+# ---- 以下为当前工具版本的原始输出 ----
+ℹ️ epub 二级参考集：Sweet Fury (Sash Bischoff) (Z-Library).epub（362777 flat 字符）　—— text/ 查无而 epub 命中将判**提示型**不判红
+❌ ch10 end of act two.md: 「That night, L slept with him. Next morning, woke to finalized contract. Appalled by K's actions—completely contradictory to L's description of K as feminist—but given L's state, wanted to handle subject delicately.」全书查无 ⇒ 阻断型
+❌ ch14 what she wants.md: 「Picture me now: crouched in hall closet with magnifying glass, dressed in a sensible herringbone tweed, lit from above by a single bulb pulled on with a string. I write furtively, scratchy scrawl wild with inspiration…」全书查无 ⇒ 阻断型
+❌ ch14 what she wants.md: 「Of course, this is not the case. I have no such hall closet, no magnifying glass (alas, no sensible tweed!). But in the movie version of my life, this is how I'd draw it: a detective story, shadowy and sepia-toned.」全书查无 ⇒ 阻断型
+❌ ch14 what she wants.md: 「Why does he insist on speaking on Nicole's behalf? If, by now, Nicole is healed, wouldn't it be much more satisfying if she were the one to confront her abuser at last and end the marriage herself?」全书查无 ⇒ 阻断型
+❌ ch15 the script.md: 「only a patient, nothing more」全书查无 ⇒ 阻断型
+❌ ch21 the truth.md: 「Tiny crystals of sand soon embedded themselves between her toes; and no matter how many showers she took, still she'd spot them lingering, catching in the light.」全书查无 ⇒ 阻断型
+❌ ch22 the reckoning.md: 「I got an email from a young actress, an undergrad at Yale. She said we had someone in common, and asked if I would help her.」全书查无 ⇒ 阻断型
+
+=== 导航/总结层英文核对：❌ 7 ｜ ⚠️ 0 ===

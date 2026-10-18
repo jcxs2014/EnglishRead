@@ -1,0 +1,36 @@
+# 基线留档（2026-10-18 用户拍板「新规则的适用范围」+ 精准重跑修正）
+# 检查器：scripts/check_nav_layer.py（修前基线 = 313a7c487，即 C 组修复的父版本）
+# 书目录：notes/books/novels/wolftamer-by-maggie-rapier
+# 退出码：2
+# 变动性质：B 修后消除告警（修前误报）：分节吞并修掉跨段污染，条目为负
+# ⚠️ 本文件是**基线取证**，不是整改指令——按 AGENTS「新规则的适用范围」
+#    第 2 条，重跑结果不自动触发回溯改内容。
+# ---- 以下为当前工具版本的原始输出 ----
+❌ ch02 chapter one.md: 「tamed wolf vs Wolf Tamer」全书查无 ⇒ 阻断型
+❌ ch07 chapter six.md: 「goddess and her worshipper / queen and consort」全书查无 ⇒ 阻断型
+❌ ch08 chapter seven.md: 「kneels→crown→touch→inhuman eyes」全书查无 ⇒ 阻断型
+❌ ch26 chapter twenty five.md: 「you're a wolf, that's for certain」全书查无 ⇒ 阻断型
+❌ ch29 chapter twenty eight.md: 「I was nothing / born without a name」全书查无 ⇒ 阻断型
+❌ ch29 chapter twenty eight.md: 「Magpie and Wolf / Martyr and Mask」全书查无 ⇒ 阻断型
+❌ ch37 chapter thirty six.md: 「nothingness plants like a seed」全书查无 ⇒ 阻断型
+❌ ch41 chapter forty.md: 「time slows as at the soul pools」全书查无 ⇒ 阻断型
+❌ ch41 chapter forty.md: 「legend doesn't have to be good」全书查无 ⇒ 阻断型
+❌ ch43 chapter forty two.md: 「I love you more [than the Wolf]」全书查无 ⇒ 阻断型
+❌ ch44 chapter forty three.md: 「Knowing Sea made the gods」全书查无 ⇒ 阻断型
+❌ ch47 chapter forty six.md: 「see my baby sister in love」全书查无 ⇒ 阻断型
+❌ ch48 chapter forty seven.md: 「doorway half by nature, half by man」全书查无 ⇒ 阻断型
+❌ ch48 chapter forty seven.md: 「do right by the wasteland people」全书查无 ⇒ 阻断型
+❌ ch50 chapter forty nine.md: 「glint of starlight on her tongue」全书查无 ⇒ 阻断型
+❌ ch51 chapter fifty.md: 「make magic anew / seven gods」全书查无 ⇒ 阻断型
+❌ ch54 chapter fifty three.md: 「wolf made of wee lights」全书查无 ⇒ 阻断型
+❌ ch56 chapter fifty five.md: 「Wolf doesn't matter to nameless people」全书查无 ⇒ 阻断型
+❌ ch57 chapter fifty six.md: 「split their bellies open, bleed the stars dry」全书查无 ⇒ 阻断型
+❌ ch58 chapter fifty seven.md: 「split their bellies... not on your life」全书查无 ⇒ 阻断型
+❌ ch60 chapter fifty nine.md: 「will you live for her」全书查无 ⇒ 阻断型
+❌ ch62 chapter sixty one.md: 「let her go, take me」全书查无 ⇒ 阻断型
+❌ ch62 chapter sixty one.md: 「not to tear throat but lie on me」全书查无 ⇒ 阻断型
+❌ ch62 chapter sixty one.md: 「all we're made of stories」全书查无 ⇒ 阻断型
+❌ ch63 chapter sixty two.md: 「all we're made of stories」全书查无 ⇒ 阻断型
+❌ ch64 epilogue.md: 「all we're made of stories」全书查无 ⇒ 阻断型
+
+=== 导航/总结层英文核对：❌ 26 ｜ ⚠️ 0 ===
