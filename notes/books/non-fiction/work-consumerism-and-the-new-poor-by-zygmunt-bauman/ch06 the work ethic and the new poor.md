@@ -11,7 +11,7 @@ source_text: ch06 the work ethic and the new poor.txt
 - **出处**：*Work, Consumerism and the New Poor*，第四章 The work ethic and the new poor，第 63–86 页
 - **作者**：Zygmunt Bauman
 - **章节定位**：全书论证从「福利国家如何塌方」转向「劳动伦理如何复活并改头换面」。上一章证明福利国家同时失去经济基础与心理基础；本章要证明劳动伦理并没有跟着福利国家一起死掉，反而被重新征召，承担起给贫困道德化、把穷人犯罪化、把社会从道德责任中释放的新功能。它是「underclass/新穷人」概念的起源章节，也是全书从制度分析转向文化/道德分析的枢纽
-- **字符数**：约 71,850 字符（text/ 计 104 个自然段，空行分隔）
+- **字符数**：71,853 字符（text/ 精确计数，含空白与换行；自然段 104 个，空行分隔）
 - **一句话主旨**：当劳动从财富之源变成生产率的障碍，劳动伦理不再为工厂招工服务，而是转为把贫困道德化、把穷人犯罪化、把社会从道德责任中释放的装置；而「underclass」的发明不是在描述事实，而是在把异质的穷人凝聚成一个「无用且危险」的集体他者，以填满冷战结束后社会内部的恐惧空缺。
 
 ## 论证结构
@@ -22,7 +22,7 @@ source_text: ch06 the work ethic and the new poor.txt
 
 | 证据 | 类型 | 支撑什么 |
 |------|------|---------|
-| WIN（Work Incentive Program）的修辞与实际效果长期脱节 | 引证 | 劳动伦理政策存活不是因为它有效，而是因为它对非穷人有用 |
+| WIN（书中只称其为美国 welfare-to-work 计划的代号，未给全称）的修辞与实际效果长期脱节 | 引证 | 劳动伦理政策存活不是因为它有效，而是因为它对非穷人有用 |
 | 「例行劳动者」好卖也最好换，没有议价权 | 论证 | 柔性劳动市场把劳动者变成可随时替换的零件 |
 | 精神不随身体进入职场：柔性 workplace 里 work ethic 空心化 | 论证 | 劳动伦理的物质基础（稳定就业与职业认同）已经瓦解 |
 | 游牧资本 vs 定居劳动：资本无约束移动，劳动被绑在土地上 | 论证 | 劳动伦理的「努力就有回报」前提被资本流动性打破 |
@@ -49,9 +49,9 @@ source_text: ch06 the work ethic and the new poor.txt
 
 **关键词**：from its inception and throughout its convoluted history / bore little relationship to its actual impact / dismal results / despite the overwhelming historical evidence / apparent utility to the nonpoor
 
-**表达方式**：作者先立一个反差（修辞 vs 效果），再用 despite 让步把「证据都显示失败」与「政策却继续存在」并置，最后用 cannot... but rather... 反转因果：存活的解释不在穷人身上，而在非穷人身上。rhetorics 用复数形式暗示修辞不止一套，salutary effects 与 apparent utility 两个短语形成对位——前者是真好处，后者只是表象效用。
+**表达方式**：Handler 与 Hasenfeld 先立一个反差（修辞 vs 效果），再用 despite 让步把「证据都显示失败」与「政策却继续存在」并置，最后用 cannot... but rather... 反转因果：存活的解释不在穷人身上，而在非穷人身上。rhetorics 用复数形式暗示修辞不止一套，salutary effects 与 apparent utility 两个短语形成对位——前者是真好处，后者只是表象效用。
 
-**为什么这样写**：这是全章的论证支点之一：劳动伦理政策的存续不是功能性的，而是政治性的。作者要读者先接受「WIN 失败了」这个事实，再追问「那它为什么还活着」，答案是它对非穷人有用——它把穷人问题从「我们该不该帮助」转成「他们配不配被帮助」。apparent utility 的 apparent 一词是整句的刀锋：效用不是真实效用，只是 appearances，却足以让政策活下去。
+**为什么这样写**：这是全章的论证支点之一：劳动伦理政策的存续不是功能性的，而是政治性的。他们要让读者先接受「WIN 失败了」这个事实，再追问「那它为什么还活着」，答案是它对非穷人有用——它把穷人问题从「我们该不该帮助」转成「他们配不配被帮助」。apparent utility 的 apparent 一词是整句的刀锋：效用不是真实效用，只是 appearances，却足以让政策活下去。
 
 ### ② 例行劳动者：好卖也最好换
 
@@ -87,11 +87,11 @@ source_text: ch06 the work ethic and the new poor.txt
 
 **中文理解**：寻求工人的资本所有者不再需要依赖本地劳动市场，因此他们没有理由按除利润最大化与大量不挑剔、温顺、省心的劳动力之外的任何标准来选择营地。适合并渴望承担「例行劳动者」角色的人——愿意接受任何提供的工作、哪怕是最微薄的工资——到处都能找到。
 
-**句子结构**：第一句主干为 Capital owners... are no longer bound to rely on local labour markets，and so 引导结果：they see no reason why they should select their camping sites by any other criteria than...，whereby than 后接 maximization of profit and the profusion of... 作 criteria 的同位。第二句主干为 People fit and eager to assume the roles... can be found everywhere，中间 to accept any job on offer and for any, even the most miserable wages 是不定式短语作后置修饰。
+**句子结构**：第一句主干为 Capital owners... are no longer bound to rely on local labour markets，and so 引导结果：they see no reason why they should select their camping sites by any other criteria than...，than 后接 maximization of profit and the profusion of... 作 criteria 的同位。第二句主干为 People fit and eager to assume the roles... can be found everywhere，中间 to accept any job on offer and for any, even the most miserable wages 是不定式短语作后置修饰。
 
 **关键词**：no longer bound to rely on local labour markets / camping sites / maximization of profit / undemanding, docile and trouble-free labour / can be found everywhere
 
-**表达方式**：camping sites 把资本的选址写成「扎营」——资本是游牧者，劳动是定居者，不对称由此具象化。undemanding, docile and trouble-free 三个形容词把理想劳动者定义为「无要求、温顺、省心」，而 such people can be found everywhere 一句把本地劳动者的议价权彻底取消：你不可替换的前提是「只有你能做」，现在「到处都是」。
+**表达方式**：camping sites 把资本的选址写成「扎营」——资本是游牧者，劳动是定居者，不对称由此具象化。undemanding, docile and trouble-free 三个形容词把理想劳动者定义为「无要求、温顺、省心」，而原文那句 People fit and eager to assume the roles of "routine labourers'…can be found everywhere（`…` 省去两个同位语）把本地劳动者的议价权彻底取消：你不可替换的前提是「只有你能做」，现在「到处都是」。
 
 **为什么这样写**：这是上一章「资本全球流动而福利仍属地」的延伸：劳动伦理的「努力就有回报」需要资本对本地劳动的依赖，一旦资本可以全球移动，本地劳动者的努力就不再有稀缺性。camping sites 一词还暗示资本的临时性——它随时可以拔营，而劳动被绑在土地上，这就是「定居 vs 游牧」的权力不对称。
 
@@ -147,13 +147,13 @@ source_text: ch06 the work ethic and the new poor.txt
 
 **关键词**：rejects common values, but it only feels excluded / active and acting, action-generating, initiative-taking / comes under critical scrutiny / sit in judgment / antisocial deeds / no need for the court's session
 
-**表达方式**：作者用 it is... that 强调句把「谁主动、谁审判」的不对称拆开：underclass 是 action-generating side，多数人是 sit in judgment side。rejects vs feels excluded 的 but 把「拒绝」与「感到被排斥」并置——underclass 被描述为拒绝价值，但实际上它只是感到被排斥。court 的修辞把社会关系司法化：underclass 不是公民，而是被告。
+**表达方式**：作者用 it is... that 强调句把「谁主动、谁审判」的不对称拆开：underclass 是 the active and acting, action-generating, initiative-taking side，多数人则是 it is "most Americans" who, of right, sit in judgment 的一方。rejects common values, but it only feels excluded 的 but 把「拒绝」与「感到被排斥」并置——underclass 被描述为拒绝价值，但实际上它只是感到被排斥。court 的修辞把社会关系司法化：underclass 不是公民，而是被告。
 
 **为什么这样写**：作者在做修辞学分析：underclass 话语通过语法把穷人写成主动作恶者，把多数人写成被动受害者/审判者。active and acting 的一连串形容词把 underclass 的能动性放大到荒谬程度，而 feels excluded 一句把真实处境（被排斥）降格为「感觉」。court 修辞的终点是：underclass 话语需要犯罪来维持法庭的存在——没有 underclass 的 antisocial deeds，社会的审判机器就没有用武之地。
 
 ### ⑨ Mead：贫困是选择无能
 
-> **原句 9:** "Mostly, seriously poor adults appear to avoid work, not because of their economic situation, but because of what they believe ...2o In the absence of prohibitive barriers to employment, the question of the personality of the poor emerges as the key to understanding and overcoming poverty. Psychology is the last frontier in the search for the causes of low work effort ... Why do the poor not seize [the opportunities] as assiduously as the culture assumes they will? Who exactly are they?21 The core of the culture of poverty seems to be inability to control one's life - what psychologists call inefficacy.22"
+> **原句 9:** "The issue hinges on whether the needy can be responsible for themselves and, above all, on whether they have the competence to manage their lives ..." Whatever outward causes one cites, a mystery in the heart of nowork remains - the passivity of the seriously poor in seizing the opportunities that apparently exist for them ... To explain nowork, I see no avoiding some appeal to psychology or culture. Mostly, seriously poor adults appear to avoid work, not because of their economic situation, but because of what they believe ...2o In the absence of prohibitive barriers to employment, the question of the personality of the poor emerges as the key to understanding and overcoming poverty. Psychology is the last frontier in the search for the causes of low work effort ... Why do the poor not seize [the opportunities] as assiduously as the culture assumes they will? Who exactly are they?21 The core of the culture of poverty seems to be inability to control one's life - what psychologists call inefficacy.22"
 
 **中文理解**：问题的关键在于穷人能否对自己负责，尤其是能否有能力管理自己的生活……无论引用什么外部原因，在不工作的核心里始终有一个谜——穷人在抓住显然存在的机会时表现出的被动……要解释不工作，我看无法避免诉诸心理或文化。大多数情况下，穷的成年人之所以逃避工作，不是因为经济状况，而是因为他们的信念……在没有禁止性就业障碍的情况下，穷人的个性问题就成了理解与克服贫困的关键。心理学是寻找低工作意愿原因的最后前沿……穷人为什么不那么勤勉地抓住机会，像文化所假设的那样？他们到底是谁？贫困文化的内核似乎是无法控制自己的生活——心理学家称之为 efficacy 缺失（inefficacy）。
 
@@ -202,7 +202,7 @@ source_text: ch06 the work ethic and the new poor.txt
 | 词/短语 | 释义 | 例句（原文） |
 |---------|------|-------------|
 | routine labourers | 例行劳动者 | All that considered, the term "routine labourers' seems to be partly misleading. |
-| WIN (Work Incentive Program) | 工作激励计划 | ... from its inception and throughout its convoluted history, the rhetorics justifying WIN bore little relationship to its actual impact. |
+| WIN | 书中未展开的缩写：Bauman 只称它是美国 welfare-to-work 计划的 cryptonym | ... from its inception and throughout its convoluted history, the rhetorics justifying WIN bore little relationship to its actual impact. |
 | symbol manipulators | 符号操纵者 | There are, first, "symbol manipulators' - inventors, advertisers, promoters and merchandisers of ideas. |
 | downsizing | 裁员；精简 | In the world of big corporations progress means today first and foremost "downsizing', while technological progress means replacement of living labour with electronic software. |
 | flexibility of the labour market | 劳动力市场灵活性 | All in all, such fateful transformations summarily code-named 'flexibility of the labour market' cast a dark shadow on the future chances of solidarity... |

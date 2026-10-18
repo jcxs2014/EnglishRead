@@ -11,7 +11,7 @@ source_text: ch05 the rise and fall of the welfare state.txt
 - **出处**：*Work, Consumerism and the New Poor*，第三章 The rise and fall of the welfare state，第 45–62 页
 - **作者**：Zygmunt Bauman
 - **章节定位**：全书论证从「劳动伦理如何造出穷人」转向「制度如何安置穷人」。前两章已证明劳动伦理的道德基础被消费美学抽空，本章要证明福利国家因同一抽空而失去经济基础与政治基础；它是「有缺陷的消费者」出场前的最后一块制度塌方
-- **字符数**：约 53,500 字符（text/ 计 76 个自然段，空行分隔）
+- **字符数**：53,493 字符（text/ 精确计数，含空白与换行；自然段 76 个，空行分隔）
 - **一句话主旨**：福利国家从来不是单一逻辑的产物，而是多种力量「过度决定」的合流；当资本的边界变成全球、而福利的边界仍是民族国家，雇主不再需要为劳动力的再商品化付费，而消费社会把「选择」立为元价值、把配给立为反价值——福利国家同时失去了经济基础与人心基础，它的成功本身还为它培养了掘墓人。
 
 ## 论证结构
@@ -117,7 +117,7 @@ source_text: ch05 the rise and fall of the welfare state.txt
 
 **关键词**：services for the poor / were always / poor services
 
-**表达方式**：六个词的判断句，靠 poor 的双义完成全部论证：主语里的 poor 是身份，表语里的 poor 是质量，中间的等号暗示前者决定后者。always 把一次观察提升为规律。
+**表达方式**：八个词的判断句，靠 poor 的双义完成全部论证：主语里的 poor 是身份，表语里的 poor 是质量，中间的等号暗示前者决定后者。always 把一次观察提升为规律。
 
 **为什么这样写**：Titmuss 这句话之所以被 Bauman 放在 Between inclusion and exclusion 一节的核心，是因为它给出了本章最锋利的机制预告：一旦福利供给被限定在特定人群，它就失去了政治肌肉——享用者没有权力保护它，非享用者没有理由为它付钱，于是质量下滑、质量下滑又进一步证明「这不值得花钱」，形成闭环。作者随后引用 Hahmi 的美国式概括（programmes for the poor are poor programmes）与 Blunkett 的「递钱」说法，都是同一机制的不同表述。poor 的双义也让这句话难以被反驳：反对者要么承认服务确实差（那就落入作者的论证），要么坚持服务不差（那就必须解释为什么大多数人不愿用它）。这句话还是第四节的前奏——第四节讲的正是「曾经不穷的人如何变成不肯为服务付钱的人」。
 
@@ -220,12 +220,12 @@ source_text: ch05 the rise and fall of the welfare state.txt
 
 | 词/短语 | 释义 | 例句（原文） |
 |---------|------|-------------|
-| welfare state | 福利国家 | The concept of the "welfare state' conveys the idea that it is the duty and the obligation of the state to guarantee the "welfare' of all its subjects. |
+| welfare state | 福利国家 | The concept of the "welfare state' conveys the idea that it is the duty and the obligation of the state to guarantee the "welfare' … of all its subjects. |
 | survival with dignity | 有尊严的生存 | The concept of the "welfare state' conveys the idea that it is the duty and the obligation of the state to guarantee the "welfare' (that is, something more than sheer survival: survival with dignity, as understood in a given society at a given time) of all its subjects. |
 | collective insurance | 集体保险 | Public welfare could be seen as a form of collective insurance drawn jointly and extended over every individual member of the collectivity. |
 | safety net | 安全网 | Less than two decades later, though, the unthinkable became thinkable and a state which is not a welfare state and a capitalist economy without the safety net of state-administered securities have become a distinct possibility. |
 | raising taxes | 加税 | "Raising taxes' has become an anathema on politicians' lips and an abomination to electors' ears. |
-| contented majority | 知足的多数 | No one explained better this amazing sea-change in public mood and its political effects than John Kenneth Galbraith in his discussion of the "contented majority'. |
+| contented majority | 知足的多数 | No one explained better this amazing sea-change in public mood and its political effects … than John Kenneth Galbraith in his discussion of the "contented majority'. |
 | affirmative action | 平权行动 | In a sense, "affirmative action' bred its own gravediggers. |
 | good value for money | 性价比高 | Public provision, to put it simply and in a form readily understandable nowadays, is not "good value for money'. |
 | at cross purposes | 目的相抵触 | Consumerism and the welfare state are therefore at cross purposes. |

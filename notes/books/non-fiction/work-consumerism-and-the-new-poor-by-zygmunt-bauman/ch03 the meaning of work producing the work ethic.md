@@ -11,7 +11,7 @@ source_text: ch03 the meaning of work producing the work ethic.txt
 - **出处**：*Work, Consumerism and the New Poor*，第一章 The meaning of work: producing the work ethic，第 5–22 页
 - **作者**：Zygmunt Bauman
 - **章节定位**：全书论证的史前史。全书命题（新穷人是「有缺陷的消费者」）依赖一个前提：穷人曾经是「有用的」，因为他们是被需要的劳动后备军。本章的任务就是拆穿这一前提——它追述劳动伦理如何被制造出来、为谁服务、实际做了什么
-- **字符数**：约 54,040 字符（text/ 计 81 个自然段，空行分隔）
+- **字符数**：54,039 字符（text/ 精确计数，含空白与换行；自然段 81 个，空行分隔）
 - **一句话主旨**：劳动伦理不是关于劳动的伦理，而是一台用于消灭选择的机器——它把劳动的道德光环安在强制之上，真实功能是训练服从，并且它从来不是靠说服，而是靠贫困救济院、工资压到活命线与体罚这三根支柱运转的。
 
 ## 论证结构
@@ -60,7 +60,7 @@ source_text: ch03 the meaning of work producing the work ethic.txt
 
 **中文理解**：第二个明说的前提是：满足于已经得到的东西、从而接受更少而不是更多，是错的——既在道德上不正，也在智识上可笑；一旦所拥有的看起来已经令人满意就不再绷紧自己、不再勉力而为，是不体面也不合理的；休息是不体面的，除非休息是为了攒足力气去做更多的工作。
 
-**句子结构**：主句主干为 The second outspoken premise is that…，that 从句里套三个并列的表语从句，由分号连接：① it is wrong … to be satisfied with what one has already got and so to settle for less rather than more；② it is unworthy and unreasonable to stop stretching and straining oneself once what one has seems to be satisfying；③ it is undignified to rest, unless one rests in order to gather force for more work。三个从句都是 it is + 形容词 + to do 的评价句型，形容词分别是 wrong / unworthy and unreasonable / undignified，呈递进（错 → 不体面 → 不体面）。插入语 morally mischievous as well as silly 用破折号标出，把「错」拆成道德与智识两层。② 中 once what one has seems to be satisfying 是时间状语从句，内含主语从句 what one has。
+**句子结构**：主句主干为 The second outspoken premise is that…，that 从句里套三个并列的表语从句，由分号连接：① it is wrong … to be satisfied with what one has already got and so to settle for less rather than more；② it is unworthy and unreasonable to stop stretching and straining oneself once what one has seems to be satisfying；③ it is undignified to rest, unless one rests in order to gather force for more work。三个从句都是 it is + 形容词 + to do 的评价句型，形容词分别是 wrong / unworthy and unreasonable / undignified，呈递进（错 → 不配且不合理 → 有失尊严）。插入语 morally mischievous as well as silly 用破折号标出，把「错」拆成道德与智识两层。② 中 once what one has seems to be satisfying 是时间状语从句，内含主语从句 what one has。
 
 **关键词**：satisfied with what one has already got / settle for less rather than more / stop stretching and straining oneself / undignified to rest / gather force for more work
 
@@ -130,13 +130,13 @@ source_text: ch03 the meaning of work producing the work ethic.txt
 
 **中文理解**：如果让贫民过得悲惨，贫民就会在数量上减少。这是所有捕鼠人都知道的秘密：堵住粮仓的缝隙，让他们不停地喵喵叫、惊动四邻、让陷阱空转，你的「计费劳工」就会消失，从这处所里绝迹。还有一种更简短的办法，就是砷；在别处都可行的情况下，也许这还算是更温和的一种。
 
-**句子结构**：第一句为条件句，主干为 If paupers are made miserable, paupers will needs decline in multitude，needs 是副词用法（= necessarily），in multitude 表示「在数量上」。第二句主干为 It is a secret known to all rat-catchers，冒号后三个并列祈使句解释这个秘密：stop up the granary crevices / afflict with continual mewing, alarm, and going off of traps / your "chargeable labourers' disappear, and cease from the establishment。第三句主干为 A still briefer method is that of arsenic，perhaps even a milder 是省略的比较级（即 a still milder 的办法），where otherwise permissible 是地点/条件状语从句。
+**句子结构**：第一句为条件句，主干为 If paupers are made miserable, paupers will needs decline in multitude，needs 是副词用法（= necessarily），in multitude 表示「在数量上」。第二句主干为 It is a secret known to all rat-catchers，冒号后是两个并列祈使动作（stop up the granary crevices / afflict [them] with continual mewing, alarm, and going off of traps），再加一个结果分句（your "chargeable labourers' disappear, and cease from the establishment）——「照此办理，你的计费劳工就会消失」。第三句主干为 A still briefer method is that of arsenic，perhaps even a milder 是省略的比较级（即「一种更温和的方法」），where otherwise permissible 是地点/条件状语从句。
 
 **关键词**：made miserable / decline in multitude / a secret known to all rat-catchers / granary crevices / chargeable labourers / A still briefer method is that of arsenic
 
 **表达方式**：把贫民说成老鼠，把社会说成粮仓，把救济说成「计费」。rat-catchers 的类比不是修辞装饰而是论证：既然捕鼠有标准流程，减贫也有。chargeable labourers 是 Carlyle 的冷话——贫民在账上是「计费的」，即成本项。最后一句的 perhaps even a milder 是反讽的顶点：砷被说成「更温和的」。
 
-**为什么这样写**：作者整章都在证明劳动伦理的道德修辞下藏着消灭逻辑， Carlyle 这段话是最直白的一次自白：它把「悲惨」当成控制人口的手段，并且明说还有更快的办法。作者特意保留 perhaps even a milder 这个从句，因为它暴露了当时论述的坐标系——砷是温和的，因为比较对象是让贫民无限悲惨地活着。chargeable labourers 一词同时完成了两件事：把贫民降为牲畜，把救济降为账目。作者引它而不加一句评论，让这段一百八十年前的话自己证明「工作或灭亡」不是隐喻。
+**为什么这样写**：作者整章都在证明劳动伦理的道德修辞下藏着消灭逻辑， Carlyle 这段话是最直白的一次自白：它把「悲惨」当成控制人口的手段，并且明说还有更快的办法。作者特意保留 perhaps even a milder 这个从句，因为它暴露了当时论述的坐标系——砷是温和的，因为比较对象是让贫民无限悲惨地活着。chargeable labourers 一词同时完成了两件事：把贫民降为牲畜，把救济降为账目。作者引它而不加评论，紧接着就让 Himmelfarb 来展开这句判断，而这段一百八十年前的话本身已经证明「工作或灭亡」不是隐喻。
 
 ### ⑧ 让救济院比工厂更可怕
 
@@ -178,7 +178,7 @@ source_text: ch03 the meaning of work producing the work ethic.txt
 
 **表达方式**：两个带引号的形式被名词化并对置：the better 与 the more。作者用「唯一算数」这一断语把价值维度整体注销——不是「更多比更好重要」，而是只有更多算数。末尾的祈使句属于广告腔，作者用它模仿被批评者的语调。
 
-**为什么这样写**：这是全章的收束，也是通向第二章的桥。作者前面证明了劳动伦理的道德修辞背后是强制，这里指出替代方案：不是更诚实的强制，而是换一套激励——金钱。这句广告腔极短，却是全书方法论的一次示范：用被批评者的口吻说话，让那句话自己显出问题。这个「唯一算数」的断语与第二章引言里的「生活计划围绕消费选择搭建」直接相接——当劳动的意义从「更好」变成「更多」，劳动就降为手段，而消费迟早会成为目的。最后一段（It also shifted human motivation and the craving for freedom firmly and thus irretrievably into the sphere of consumption）把这条线索挑明：现代社会的下半场，是把人从生产者改造为消费者。
+**为什么这样写**：这是全章的收束，也是通向第二章的桥。作者前面证明了劳动伦理的道德修辞背后是强制，这里指出替代方案：不是更诚实的强制，而是换一套激励——金钱。这句广告腔极短，却是全书方法论的一次示范：用被批评者的口吻说话，让那句话自己显出问题。这个「唯一算数」的断语与第一版引言（ch02）里的「生活计划围绕消费选择搭建」直接相接——当劳动的意义从「更好」变成「更多」，劳动就降为手段，而消费迟早会成为目的。最后一段（It also shifted human motivation and the craving for freedom firmly and thus irretrievably into the sphere of consumption）把这条线索挑明：现代社会的下半场，是把人从生产者改造为消费者。
 
 ## 词汇分级
 

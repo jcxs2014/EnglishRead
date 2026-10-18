@@ -11,7 +11,7 @@ source_text: ch08 prospects for the new poor.txt
 - **出处**：*Work, Consumerism and the New Poor*，第六章 Prospects for the new poor，第 105–124 页
 - **作者**：Zygmunt Bauman
 - **章节定位**：全书的收束章，也是唯一同时给出诊断与出路的一章。前五章依次拆解了劳动伦理的起源、消费美学的兴起、福利国家的兴衰、新穷人的诞生与全球化下的冗余；本章先回到最抽象的一层——「秩序」与「规范」如何生产出「被排除者」，再追踪穷人在历史上扮演过的三种角色（上帝之子 → 秩序的威胁 → 劳动力后备军），最后指出这些角色如今全部失效：新穷人是有缺陷的消费者。第二半章转向道德与出路：痛苦的私人化、从「剥夺」到「堕落」的话语改写、道德屏障拆除后的暴行风险，以及 Offe 的「收入权利与挣钱能力脱钩」、Veblen 的工艺伦理与 Curry 的集体自愿简朴
-- **字符数**：约 51,100 字符（text/ 计 69 个自然段，空行分隔）
+- **字符数**：51,161 字符（text/ 精确计数，含空白与换行；自然段 69 个，空行分隔）
 - **一句话主旨**：任何社会都靠「秩序」与「规范」这两种强加来排除一部分人，并把被排除者的罪名预先安在他们自己头上；穷人曾是上帝之子、秩序的威胁、劳动力后备军，如今这些角色全部失效，他们只剩下「有缺陷的消费者」这一身份，因此既无用又不被需要，可以被毫无愧疚地抛弃——除非把收入权利从挣钱能力上脱钩、把工作从劳动市场上脱钩，用「工艺伦理」取代「工作伦理」。
 
 ## 论证结构
@@ -136,9 +136,9 @@ source_text: ch08 prospects for the new poor.txt
 
 **关键词**：nothing to offer in exchange for the taxpayer's outlays / a bad investment / a black hole sucking in / spitting back nothing / want nothing from them and expect nothing / totally useless / no one who truly counts / For them, zero tolerance / burnt their tents and left / not needed, and so they are unwanted / without much regret or compunction / forsaken
 
-**表达方式**：全段用的是**商业与会计词汇**（investment, repaid, profit, outlays）加上**物理比喻**（black hole），中间夹一个粗野的意象 burnt their tents and left（烧掉帐篷走人，直接指涉流浪者营地被清除），最后落在宗教语汇 forsaken（被遗弃、被弃绝）上。句式从长句逐渐变短：中段连续四个极短句（The poor are totally useless. / For them, zero tolerance.）像判决书逐条宣读，节奏上的断句就是态度上的断念。not needed → unwanted → forsaken 是一条环环相扣的三段链，每一环都用 so / because 明写因果关系，不给道德留下空隙。
+**表达方式**：全段用的是**商业与会计词汇**（investment, repaid, profit, outlays）加上**物理比喻**（black hole），中间夹一个粗野的意象 burnt their tents and left（烧掉帐篷走人，直接指涉流浪者营地被清除），最后落在宗教语汇 forsaken（被遗弃、被弃绝）上。句式从长句逐渐变短：中段连续两个极短句（The poor are totally useless. / For them, zero tolerance.）像判决书逐条宣读，节奏上的断句就是态度上的断念。not needed → unwanted → forsaken 是一条环环相扣的三段链，每一环都用 so / because 明写因果关系，不给道德留下空隙。
 
-**为什么这样写**：这一段是全书情绪与论证的最低点，也是把「经济判断」翻译成「道德许可」的关键：当穷人被记为负债，抛弃他们就不再是残忍而只是清算。Bauman 特意用被动语态 can be forsaken（可以被抛弃）而不是「我们抛弃他们」——这是结构性的可抛弃性，不是某个人的恶。这个被动也是下一段的直接前提：既然可被抛弃，剩下的就只是如何把他们移出视线。
+**为什么这样写**：这一段是全书情绪与论证的最低点，也是把「经济判断」翻译成「道德许可」的关键：当穷人被记为负债，抛弃他们就不再是残忍而只是清算。Bauman 特意用被动语态 can be … forsaken（可以被抛弃）而不是「我们抛弃他们」——这是结构性的可抛弃性，不是某个人的恶。这个被动也是下一段的直接前提：既然可被抛弃，剩下的就只是如何把他们移出视线。
 
 ### ⑧ 痛苦不再汇成共同事业
 
@@ -193,7 +193,7 @@ source_text: ch08 prospects for the new poor.txt
 | misanthropy | 厌世；憎人 | Or to put it the other way around: the desire for order is a virtuous pretext, an excuse for violent misanthropy. |
 | heteronomize | 使受他律支配；使丧失自主 | Whatever its animating force, however, that impulse rebounds as a rule in the efforts to "heteronomize', to disempower, those who do not know how to use their powers properly; to subordinate them, by hook or by crook, to the "supra-personal system' which they evade or defy. |
 | sine qua non | 必要条件（拉丁语） | The post-communist countries of East and Central Europe are told in no uncertain terms that the taking apart of inherited social protections is the condition sine qua non of any foreign assistance and, indeed, of acceptance into the "family of free nations'. |
-| recommodifying | 使重新商品化 | The state took that task on its shoulders, since the capitalists were unwilling or unable to carry the costs of that recommodification on theirs - singly, severally or jointly. |
+| recommodifying | 使重新商品化 | Apart from anything else, the welfare state was the means of recommodifying labour, making it sellable and purchasable in the first place and then again when temporarily slack demand for labour picked up once more. |
 | casualization | 临时工化；非正规化 | Casualization profoundly affects the person who suffers it: by making the whole future uncertain, it prevents all rational anticipation |
 | moral economy | 道德经济 | one did not mean the myriads of social skills deployed, and the endless hours spent, in the day-to-day running of what A.H. Halsey and Michael Young call the "moral economy'. |
 | workmanship | 工艺；做工（Veblen 的「工艺本能」） | As Thorstein Veblen pointed out a long time ago, "instinct of workmanship' (unlike the work ethic, a modern invention) is the natural predisposition of the human species. |

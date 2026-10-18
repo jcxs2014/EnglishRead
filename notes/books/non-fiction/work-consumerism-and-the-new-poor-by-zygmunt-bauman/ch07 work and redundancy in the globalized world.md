@@ -11,7 +11,7 @@ source_text: ch07 work and redundancy in the globalized world.txt
 - **出处**：*Work, Consumerism and the New Poor*，第五章 Work and redundancy in the globalized world，第 87–102 页
 - **作者**：Zygmunt Bauman
 - **章节定位**：全书的空间维度。前四章讲的是「时间」——劳动伦理的兴衰、福利国家的起落；本章把镜头拉到「空间」：现代性曾经靠殖民地把本国的冗余人口与废弃物输出到「无主之地」，如今地球被现代化填满，外部倾倒场消失，废弃物只能留在原地。这一转向解释了为什么穷人从「可回收的劳动力后备军」变成「必须就地封存的垃圾」，也解释了国家为什么从「社会国家」退化为「安全国家」。它是下一章「新穷人没有角色」的直接前提
-- **字符数**：约 42,450 字符（text/ 计 70 个自然段，空行分隔）
+- **字符数**：42,497 字符（text/ 精确计数，含空白与换行；自然段 70 个，空行分隔）
 - **一句话主旨**：现代化是一部制造「人类废弃物」的机器，它长期靠殖民地把废弃物输出到「无主之地」；当现代性填满全球、外部倾倒场消失之后，废弃物只能留在本国，于是福利的「回收」逻辑让位于监狱与隔离的「处置」逻辑，社会问题被改写成法律与秩序问题，国家以「安全」而不是「保障」重建合法性。
 
 ## 论证结构
@@ -31,7 +31,7 @@ source_text: ch07 work and redundancy in the globalized world.txt
 | 相互依赖是全球的，伦理义务仍是本地的 | 论证 | 远方的苦难不触发道德反应，故可被无视 |
 | Klein：全球村的修辞掩盖了「制造者被排除在消费之外」 | 引证 | 「平等」话语的意识形态功能 |
 | Wacquant 悖论：昨天要「少国家」，今天要「多国家」 | 引证 | 国家职能从保护转向收容 |
-| 监狱从「回收」转向「处置」：墙本身就是目的 | 引证（Garland） | 社会问题被改写成法律与秩序问题 |
+| 监狱从「回收」转向「处置」：墙本身就是目的 | 引证（Garland 概述 + Bauman 收束） | 社会问题被改写成法律与秩序问题 |
 | 社会国家崩解后，「安全」成为新的合法性公式 | 论证 | 恐惧被主动培养，用以替代社会保障 |
 
 - **论证脉络**：先定义现代性为「停不下来的再造」，指出一切创造都是创造性破坏、都留下废弃物 → 用再造工程/裁员证明「人」如何被直接算作废弃物 → 转入空间：殖民时代靠「无主之地」把废弃物运出去，这是「全球解决本地问题」的黄金时代 → 全球化把地球填满，无主之地消失，废弃物只能留在原地 → 于是「回收」（福利、再就业、监狱的改造理想）失去可行性，「处置」（隔离、长期监禁、安全国家）成为主流 → Wacquant 的悖论由此得到解释：同一批人先要「少国家」放资本自由，再要「多国家」收容资本造成的后果 → 最后落到「安全国家」：政府以培养恐惧、承诺人身安全来重建合法性，用「附带损害」这种新词把废弃物说成战争的自然代价。
@@ -140,7 +140,7 @@ source_text: ch07 work and redundancy in the globalized world.txt
 
 > **原句 8:** "The same people who fought yesterday with visible success for "less state' to set free the capital and its uses of labour force, arduously demand today "more state' to contain and hide the deleterious social consequences of deregulation of employment conditions and deterioration of social protection for the inferior regions of social space."
 
-**中文理解**：同一批人，昨天还为「更少的国家」而战并 visibly 成功，目的是解放资本及其对劳动力的使用；今天却竭力要求「更多的国家」，以遏制和掩盖放松就业管制、以及社会空间较低区域的社会保护恶化所带来的有害社会后果。
+**中文理解**：同一批人，昨天还为「更少的国家」而战并明显地取得了成功，目的是解放资本及其对劳动力的使用；今天却竭力要求「更多的国家」，以遏制和掩盖放松就业管制、以及社会空间较低区域的社会保护恶化所带来的有害社会后果。
 
 **句子结构**：全句以 The same people 为主语，who fought yesterday with visible success for "less state'... 是定语从句，to set free the capital and its uses of labour force 是目的状语；主句谓语是 demand，today 是时间状语，"more state' 是宾语，to contain and hide the deleterious social consequences... 是目的状语，of deregulation of employment conditions and deterioration of social protection 是 consequences 的定语，for the inferior regions of social space 是 social protection 的对象状语。
 

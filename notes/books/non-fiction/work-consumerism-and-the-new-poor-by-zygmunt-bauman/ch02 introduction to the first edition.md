@@ -11,7 +11,7 @@ source_text: ch02 introduction to the first edition.txt
 - **出处**：*Work, Consumerism and the New Poor*，Introduction to the first edition，第 1–4 页
 - **作者**：Zygmunt Bauman
 - **章节定位**：作者自撰的引言，功能是交代全书的提问方式、核心命题与章节路线图。它把书名里的 the new poor 直接定义为「有缺陷的消费者」（flawed consumer），并预告了六章的走向
-- **字符数**：约 4,920 字符（text/ 计 10 个自然段，空行分隔）
+- **字符数**：4,926 字符（text/ 精确计数，含空白与换行；自然段 10 个，空行分隔）
 - **一句话主旨**：贫穷从来不是一种客观处境而是一种被制造出来的社会定义；当西方社会从生产者社会转为消费者社会，贫穷的意义不再来自失业，而主要来自「有缺陷的消费者」这一困境——本书要追踪这一转变并为它清点后果。
 
 ## 论证结构
@@ -126,13 +126,13 @@ source_text: ch02 introduction to the first edition.txt
 
 **中文理解**：抑或我们应当寻求新的解决方案——例如把生计权从出卖劳动中「解除」出来，以及把社会承认的工作概念扩展到劳动市场所承认的范围之外？
 
-**关键词**：new solutions；「decoupling'」 of the right to livelihood from the selling of labour；extension of the socially recognized 「concept of work」；beyond that recognized by the labour market
+**句子结构**：Or should we seek new solutions 为主句，such as 后接两个并列名词短语：the "decoupling' of the right to livelihood from the selling of labour，与把社会承认的工作概念扩展到劳动市场所承认的范围之外。第二个短语中 beyond that recognized by the labour market 是比较/范围状语，that 指代前文的工作概念，recognized by the labour market 是后置定语。全句以问号收束，说明这只是待检验的方向而非定论。
 
-**句子结构**：Or should we seek new solutions 为主句，such as 后接两个并列名词短语：the 「decoupling'」 of the right to livelihood from the selling of labour，与把社会承认的工作概念扩展到劳动市场所承认的范围之外。第二个短语中 beyond that recognized by the labour market 是比较/范围状语，that 指代前文的工作概念，recognized by the labour market 是后置定语。全句以问号收束，说明这只是待检验的方向而非定论。
+**关键词**：new solutions；"decoupling' of the right to livelihood from the selling of labour；extension of the socially recognized 「concept of work」；beyond that recognized by the labour market
 
 **表达方式**：把两个方案都写成「解除/扩展」的动作，且都以概念改写而非资源再分配为内容——一个是权利与劳动的脱钩，一个是工作定义的扩容。引号只打在 decoupling 上，提示这是作者的术语而非通行语。
 
-**为什么这样写**：作者在引言的末尾给出全书的问题意识：旧手段是为「一个已不存在的社会」量身定做的（orthodox means, made to measure for a society no longer in existence），因此与其问怎么修，不如问怎么换。两个方案共享同一个动作逻辑——把两件被绑在一起的东西拆开：生计权与出卖劳动、社会承认的工作与市场承认的工作。作者把它们作为问句提出，与第五章结尾的追问（这些问题有多紧迫）形成呼应：这不是政策清单，而是论证的出口。对读者而言，这一句也是全书最难被传统左派与自由派同时接受的地方，因为它要求放弃「充分就业」作为分配前提这一双方共有的默认设置。
+**为什么这样写**：作者在引言的末尾给出全书的问题意识：旧手段是为「一个已不存在的社会」量身定做的（orthodox means, made to measure for a society no longer in existence），因此与其问怎么修，不如问怎么换。两个方案共享同一个动作逻辑——把两件被绑在一起的东西拆开：生计权与出卖劳动、社会承认的工作与市场承认的工作。作者把它们作为问句提出，与引言末句的追问（这些问题有多紧迫）形成呼应：这不是政策清单，而是论证的出口。对读者而言，这一句也是全书最难被传统左派与自由派同时接受的地方，因为它要求放弃「充分就业」作为分配前提这一双方共有的默认设置。
 
 ## 词汇分级
 
@@ -150,7 +150,7 @@ source_text: ch02 introduction to the first edition.txt
 | scrutinized | 受仔细审视 | The recently fashionable concept of the "underclass' is scrutinized and found to act mainly as a tool of the "power-assisted' condensation. |
 | deprivation | 匮乏；剥夺 | The recently fashionable concept of the "underclass' is scrutinized and found to act mainly as a tool of the "power-assisted' condensation of widely different forms and causes of deprivation. |
 | afflicted | 受……折磨的；蒙受……的 | The recently fashionable concept of the "underclass' is scrutinized and found to act mainly as a tool of the "power-assisted' condensation of widely different forms and causes of deprivation into the image of one inferior category of people afflicted with faults common to them all. |
-| decoupling | 解绑；脱钩 | Or should we seek new solutions, such as the 「decoupling'」 of the right to livelihood from the selling of labour. |
+| decoupling | 解绑；脱钩 | Or should we seek new solutions, such as the "decoupling' of the right to livelihood from the selling of labour. |
 
 ### ⭐⭐ 进阶
 
@@ -173,7 +173,7 @@ source_text: ch02 introduction to the first edition.txt
 | consensus | 共识 | It shows the intimate connection between the transformations described in the previous chapter, the sudden emergence of public consensus in favour of collective responsibility for individual misfortune, and the equally abrupt emergence of the present consensus against that principle. |
 | collective responsibility | 集体责任 | It shows the intimate connection between the transformations described in the previous chapter, the sudden emergence of public consensus in favour of collective responsibility for individual misfortune, and the equally abrupt emergence of the present consensus against that principle. |
 | orthodox | 正统的；传统的 | Can poverty be fought and conquered with the help of orthodox means, made to measure for a society no longer in existence? |
-| livelihood | 生计 | Or should we seek new solutions, such as the 「decoupling'」 of the right to livelihood from the selling of labour. |
+| livelihood | 生计 | Or should we seek new solutions, such as the "decoupling' of the right to livelihood from the selling of labour. |
 
 ### ⭐ 基础
 
