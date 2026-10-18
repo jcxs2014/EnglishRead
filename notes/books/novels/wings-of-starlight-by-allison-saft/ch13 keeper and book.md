@@ -15,15 +15,11 @@ modified: "2026-10-18"
 
 ## 精读
 
-> **原句 1:** "'He's the Keeper's wolf.' ... 'The Keeper has a soft spot for misunderstood creatures,' Milori said after a moment. ... 'Fenris here is quite harmless. He's still a pup. But even as adults, wolves are skittish—and easy to befriend if you have food.' ... 'The Keeper has a soft spot for misunderstood creatures' ... 'Fenris here is quite harmless.'"
+> **原句 1:** "'He's the Keeper's wolf.'"
 
-**中文理解：** "He's the Keeper's wolf。"……"The Keeper has a soft spot for misunderstood creatures," Milori said after a moment。……"Fenris here is quite harmless。He's still a pup。But even as adults，wolves are skittish——and easy to befriend if you have food。"……"The Keeper has a soft spot for misunderstood creatures"……"Fenris here is quite harmless。"
+**中文理解：** "He's the Keeper's wolf。" Milori 介绍 Fenris 是 Keeper 的狼。
 
-**关键词：** soft spot · misunderstood · skittish · harmless
-
-**为什么这样写：** 用 Fenris (wolf) 作 comic relief——Clarion thinks it's a Nightmare, it's actually a pet. "soft spot for misunderstood creatures" 作 Keeper's character— he sees good in feared things. "skittish—and easy to befriend if you have food" 作 wolf behavior—parallels Winter fairies (misunderstood, not dangerous). Fenris is the book's argument in miniature: feared things can be friendly.
-
-**读者视角提示：** 注意 "misunderstood creatures"——this is the book's theme applied to Winter. Winter fairies are "misunderstood" (like Fenris). Elvina's "dangerous, barren" narrative is the misunderstanding.
+**关键词：** Keeper · wolf
 
 > **原句 2:** "'Long ago, when the Pixie Dust Tree was still but a sapling, children's dreams—both good and bad—traveled over Pixie Hollow,' she said—or did she? Clarion could hardly tell if the voice she heard was her own, because the words certainly were not. They slipped out as though by recitation; the story unfolded in her mind so clearly, she could almost see it like a reflection on still water."
 
@@ -35,15 +31,11 @@ modified: "2026-10-18"
 
 **读者视角提示：** 注意 "children's dreams—both good and bad"——dream-talents handled both. Nightmares are not inherently evil; they're part of dreams. This reframes the conflict: Nightmares aren't monsters to destroy, they're dreams to manage.
 
-> **原句 3:** "'Such is the way of nature,' Clarion murmured. 'Things rise and fall according to its designs.' ... 'If memory serves, queens aren't born from just any star, but a star that a child has wished upon. Maybe dream-talent magic lives on in you—in all governing-talents. It's possible you could repair the barrier. If there's one thing stronger than fear, it's hope.'"
+> **原句 3:** "'Such is the way of nature,' Clarion murmured."
 
-**中文理解：** "Such is the way of nature," Clarion murmured。「Things rise and fall according to its designs。」……"If memory serves，queens aren't born from just any star，but a star that a child has wished upon。Maybe dream-talent magic lives on in you——in all governing-talents。It's possible you could repair the barrier。If there's one thing stronger than fear，it's hope。"
+**中文理解：** "Such is the way of nature," Clarion murmured。Clarion 感叹自然的规律。
 
-**关键词：** nature · designs · wished upon · hope · fear
-
-**为什么这样写：** 用 "Such is the way of nature" 作 Clarion's acceptance—dream-talents rose and fell naturally. "star that a child has wished upon" 作 origin story—governing-talents are wish-stars, not just any stars. This connects queens to children's dreams (hope). "If there's one thing stronger than fear, it's hope" 作 theme statement—hope is the book's answer to fear.
-
-**读者视角提示：** 注意 "a star that a child has wished upon"——this reframes Clarion's origin. She's not just "born from a star," she's born from a wish. This connects to ch01's "true wonder" and ch02's "compassion." Clarion's magic is hope-based, not control-based.
+**关键词：** nature · way
 
 > **原句 4:** "'Because you were made for this. I feel it, when I look at you. Perhaps it's your magic. Perhaps it's you. Whatever it is, you have an aura about you. You command respect, yes, but more than that, you inspire hope. It is the first time I have felt it in a very long time.'"
 
@@ -63,7 +55,7 @@ modified: "2026-10-18"
 
 **为什么这样写：** 用 "with far more conviction than she felt" 作 Clarion's self-awareness—she's acting braver than she feels. "take me to this prison" 作 next-chapter setup—Clarion will confront Nightmares directly. "put the Keeper's theory to the test" 作 scientific framing—Clarion approaches magic as hypothesis, not faith.
 
-**读者视角提示：** 注意 "with far more conviction than she felt"——Clarion is performing courage. This is the same pattern as ch09's "I've always wanted things I shouldn't." She's not confident, but she's acting anyway. This is the book's argument: courage is not absence of fear, it's action despite fear.
+**读者视角提示：** 注意 "with far more conviction than she felt"——Clarion is performing courage. This is the same pattern as ch10's "I've always wanted things I shouldn't." She's not confident, but she's acting anyway. This is the book's argument: courage is not absence of fear, it's action despite fear.
 
 ## 本章词汇
 
