@@ -64,28 +64,28 @@ modified: "2026-10-18"
 - **为什么这样写**：用"No. I’m quite sure he wasn’t"把 Will’s "defense"具象化， he denies his dad was "jealous"； this is Will’s "defense"。
 - **读者视角提示**：读者能感到 Will’s "defense"—— he denies his dad was "jealous"， this is his "loyalty" to his dad。
 
-> **原句 7:** "In the split second before I fall into the deep mud, Will’s arms are on either side of my waist, steadying me. I don’t remember doing it, but my arms are on his shoulders."
+> **原句 8:** "In the split second before I fall into the deep mud, Will’s arms are on either side of my waist, steadying me. I don’t remember doing it, but my arms are on his shoulders."
 
 - **中文理解**：In the split second before I fall into the deep mud（In the split second before I fall into the deep mud），Will’s arms are on either side of my waist（Will’s arms are on either side of my waist），steadying me（steadying me）。I don’t remember doing it（I don’t remember doing it），but my arms are on his shoulders（but my arms are on his shoulders）。
 - **关键词**：steadying me（steadying me）／I don’t remember doing it（I don’t remember doing it）／my arms are on his shoulders（my arms are on his shoulders）
 - **为什么这样写**：用"steadying me"把 Will’s "rescue"具象化， he "steadies" Leigh；"I don’t remember doing it"把 Leigh’s "unconscious"具象化， she doesn’t "remember" putting her arms on his shoulders；"my arms are on his shoulders"把 her "body memory"具象化， her body betrays her feelings； this is their "first physical contact" since high school。
 - **读者视角提示**：读者应记住"my arms are on his shoulders"—— this is Leigh’s "body memory"， her body betrays her feelings despite her "hostility"。
 
-> **原句 8:** "'It’s too embarrassing. I’m an adult. I should be able to walk over a stupid bridge,' I whisper."
+> **原句 9:** "'It’s too embarrassing. I’m an adult. I should be able to walk over a stupid bridge,' I whisper."
 
 - **中文理解**："It’s too embarrassing. I’m an adult. I should be able to walk over a stupid bridge," I whisper（"It’s too embarrassing. I’m an adult. I should be able to walk over a stupid bridge," I whisper）。
 - **关键词**：too embarrassing（too embarrassing）／I’m an adult（I’m an adult）／stupid bridge（stupid bridge）
 - **为什么这样写**：用"too embarrassing"把 Leigh’s "shame"具象化， she’s "embarrassed" about her fear of heights；"I’m an adult"把 her "expectation"具象化， she thinks she "should" be able to walk over a bridge；"stupid bridge"把 her "dismissal"具象化， she calls it "stupid"； this is Leigh’s "shame" about her vulnerability。
 - **读者视角提示**：读者能感到 Leigh’s "shame"—— she’s "embarrassed" about her fear of heights， this is her "vulnerability"。
 
-> **原句 9:** "I’m resentful that I should probably be nice to him now, given that he’s created this lie on my behalf, god only knows why."
+> **原句 10:** "I’m resentful that I should probably be nice to him now, given that he’s created this lie on my behalf, god only knows why."
 
 - **中文理解**：I’m resentful that I should probably be nice to him now（I’m resentful that I should probably be nice to him now），given that he’s created this lie on my behalf（given that he’s created this lie on my behalf），god only knows why（god only knows why）。
 - **关键词**：resentful（resentful）／created this lie on my behalf（created this lie on my behalf）／god only knows why（god only knows why）
 - **为什么这样写**：用"resentful"把 Leigh’s "resentment"具象化， she’s "resentful" about having to be "nice" to Will；"created this lie on my behalf"把 Will’s "kindness"具象化， he "created a lie" to help her；"god only knows why"把 her "confusion"具象化， she doesn’t know "why" he helped her； this is Leigh’s "resentment" about Will’s "kindness"。
 - **读者视角提示**：读者能感到 Leigh’s "resentment"—— she’s "resentful" about Will’s "kindness"， this is her "defense mechanism"。
 
-> **原句 10:** "I feel the ghost of Will’s hands on me for the rest of the ride."
+> **原句 11:** "I feel the ghost of Will’s hands on me for the rest of the ride."
 
 - **中文理解**：I feel the ghost of Will’s hands on me for the rest of the ride（I feel the ghost of Will’s hands on me for the rest of the ride）。
 - **关键词**：ghost of Will’s hands（ghost of Will’s hands）／rest of the ride（rest of the ride）
@@ -99,15 +99,26 @@ modified: "2026-10-18"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | fractured remnants | 碎裂的 remnants | ...the fractured remnants of an obsessive crush... |
-| complicated | 复杂的， complicated | "Our relationship was…" "Complicated." |
+| complicated | 复杂的， complicated | “Complicated.”
+
+
+“Complicated?”
+
+
+He flinches. |
 | overcompensation | 过度补偿， overcompensation | ...I know overcompensation when I see it. |
-| erudite | 博学的（重复） | ...as erudite and quick-witted as his dad. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| clear the air | 澄清（重复） | ...unless we clear the air. |
+| clear the air | 澄清（重复） | “You’re clearly afraid of heights.”
+
+
+“No I’m not.”
+
+
+Will gives me a horrific, glorious smirk. |
 | tailor my behavior | 调整行为， tailor my behavior | ...wanting to tailor my behavior to. |
 | steadying | 稳住， steadying | ...Will’s arms are on either side of my waist, steadying me. |
 

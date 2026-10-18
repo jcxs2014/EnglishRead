@@ -43,21 +43,21 @@ modified: "2026-10-18"
 - **为什么这样写**：用"I’m sorry I’ve been distant"把 Will’s "apology"具象化， he says "I’m sorry I’ve been distant"； this is Will’s "apology"。
 - **读者视角提示**：读者应记住 Will’s "apology"—— he apologizes for being "distant"， this is his "vulnerability"。
 
-> **原句 7:** "I’m not really good at sharing emotions out loud so I’d rather write this to you. I know I’ve perhaps sent some mixed messages in the last few months but you’re right that we’re at this program for a reason. You want to reaffirm what you love about writing, and I need to get serious. College was rough for me, as you know, and I did some things I’m not proud of. I’m trying to prove I belong in this program. And even though my dad’s not here, I feel a need to make him proud too."
+> **原句 5:** "I’m not really good at sharing emotions out loud so I’d rather write this to you. I know I’ve perhaps sent some mixed messages in the last few months but you’re right that we’re at this program for a reason. You want to reaffirm what you love about writing, and I need to get serious. College was rough for me, as you know, and I did some things I’m not proud of. I’m trying to prove I belong in this program. And even though my dad’s not here, I feel a need to make him proud too."
 
 - **中文理解**："I’m not really good at sharing emotions out loud so I’d rather write this to you."（"I’m not really good at sharing emotions out loud so I’d rather write this to you."）"I know I’ve perhaps sent some mixed messages in the last few months but you’re right that we’re at this program for a reason."（"I know I’ve perhaps sent some mixed messages in the last few months but you’re right that we’re at this program for a reason."）"You want to reaffirm what you love about writing, and I need to get serious."（"You want to reaffirm what you love about writing, and I need to get serious."）"College was rough for me, as you know, and I did some things I’m not proud of."（"College was rough for me, as you know, and I did some things I’m not proud of."）"I’m trying to prove I belong in this program."（"I’m trying to prove I belong in this program."）"And even though my dad’s not here, I feel a need to make him proud too."（"And even though my dad’s not here, I feel a need to make him proud too."）
 - **关键词**：mixed messages（mixed messages）／I did some things I’m not proud of（I did some things I’m not proud of）／prove I belong（prove I belong）／make him proud（make him proud）
 - **为什么这样写**："mixed messages"把 his "acknowledgment"具象化， he acknowledges "mixed messages"；"I did some things I’m not proud of"把 his "confession"具象化， he "did some things I’m not proud of"；"prove I belong"把 his "motivation"具象化， he wants to "prove I belong"；"make him proud"把 his "grief"具象化， he wants to "make him proud"； this is Will’s "apology" and "confession"。
 - **读者视角提示**：读者应记住 Will’s "apology"—— he apologizes for being "distant"， this is his "vulnerability"； "I did some things I’m not proud of" is his "confession"。
 
-> **原句 7:** "'My concentration’s slipping, I’m losing my grip in class. My writing’s a mess. I can’t do confusing or distracting right now. So if I’m distant, I sincerely apologize. But I think it’s best for the both of us right now.'"
+> **原句 6:** "'My concentration’s slipping, I’m losing my grip in class. My writing’s a mess. I can’t do confusing or distracting right now. So if I’m distant, I sincerely apologize. But I think it’s best for the both of us right now.'"
 
 - **中文理解**："My concentration’s slipping, I’m losing my grip in class."（"My concentration’s slipping, I’m losing my grip in class."）"My writing’s a mess."（"My writing’s a mess."）"I can’t do confusing or distracting right now."（"I can’t do confusing or distracting right now."）"So if I’m distant, I sincerely apologize."（"So if I’m distant, I sincerely apologize."）"But I think it’s best for the both of us right now."（"But I think it’s best for the both of us right now."）
 - **关键词**：concentration’s slipping（concentration’s slipping）／losing my grip（losing my grip）／writing’s a mess（writing’s a mess）／can’t do confusing or distracting（can’t do confusing or distracting）／best for the both of us（best for the both of us）
 - **为什么这样写**：用"concentration’s slipping"把 Will’s "struggle"具象化， his "concentration is slipping"；"losing my grip"把 his "loss of control"具象化， he’s "losing his grip"；"writing’s a mess"把 his "struggle"具象化， his "writing is a mess"；"can’t do confusing or distracting"把 his "rejection"具象化， he "can’t do confusing or distracting"；"best for the both of us"把 his "rejection"具象化， he says "it’s best for the both of us"； this is Will’s "rejection"， he rejects Leigh again。
 - **读者视角提示**：读者应记住"best for the both of us"—— this is Will’s "rejection"， he rejects Leigh again； this is the chapter’s emotional peak。
 
-> **原句 6:** "At this point, Will’s rejected me three times. First in high school, when he rejected my writing. Then at Middlebury, when he made it crystal clear he wasn’t interested. Now, again, when I stupidly tried to get closer, ignoring every signal he’s sent."
+> **原句 7:** "At this point, Will’s rejected me three times. First in high school, when he rejected my writing. Then at Middlebury, when he made it crystal clear he wasn’t interested. Now, again, when I stupidly tried to get closer, ignoring every signal he’s sent."
 
 - **中文理解**：At this point, Will’s rejected me three times（At this point, Will’s rejected me three times）。First in high school, when he rejected my writing（First in high school, when he rejected my writing）。Then at Middlebury, when he made it crystal clear he wasn’t interested（Then at Middlebury, when he made it crystal clear he wasn’t interested）。Now, again, when I stupidly tried to get closer, ignoring every signal he’s sent（Now, again, when I stupidly tried to get closer, ignoring every signal he’s sent）。
 - **关键词**：rejected me three times（rejected me three times）／First in high school（First in high school）／Then at Middlebury（Then at Middlebury）／Now, again（Now, again）
@@ -70,28 +70,18 @@ modified: "2026-10-18"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| precarious | 危险的， precarious | ...this moment, in hour two of a long nonfiction workshop, feel so precarious. |
-| guffaw | 哄笑， guffaw | ...she guffaws. |
-| soliloquy | 独白， soliloquy | ...launch into the soliloquy I spent... |
-| reprimand | 责备， reprimand | ...the chorus a reprimand. |
+| precarious | 危险的， precarious | Still, I throw my hands up in frustration, almost knocking over a precariously perched wineglass I’d left to dry. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| all style, no substance | 只有形式，没有内容（重复） | All style, no substance. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| rivulets | 小溪（重复） | ...water streams off in rivulets... |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
+| all style, no substance | 只有形式，没有内容（重复） | For those of us who stayed in Perrin, Kacey invited us all over for a Friendsgiving and graciously said Gen should come, too. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
 
 ## 一句话总结
 

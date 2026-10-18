@@ -100,8 +100,7 @@ modified: "2026-10-18"
 |---|---|---|
 | annotations | 批注， annotations | Will’s annotations are different. |
 | confetti | 五彩纸屑， confetti | The word bursts into confetti somewhere deep in my chest. |
-| unbuttoning | 解开纽扣， unbuttoning | ...he’s unbuttoning fast but yes there... |
-| marionette | 提线木偶， marionette | ...like a marionette doll, governed by base instinct... |
+| marionette | 提线木偶， marionette | As if I’m a marionette doll, governed by base instinct instead of my mind’s hyper control, I lean forward an inch. |
 
 ### ⭐⭐ 进阶
 
@@ -110,7 +109,7 @@ modified: "2026-10-18"
 | invites to conversation | 邀请对话， invites to conversation | They’re invites to conversation. |
 | 216 Cleveland area code | 216 克利夫兰区号 | The 216 Cleveland area code is the same as mine... |
 | corn maze | 玉米迷宫， corn maze | ...would you want to do the corn maze? |
-| Zoloft | Zoloft（抗抑郁药） | "Zoloft, by the way." |
+| Zoloft | Zoloft（抗抑郁药） | “I’ve been on Zoloft since sophomore year of college. |
 
 ### ⭐ 基础
 

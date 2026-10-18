@@ -56,28 +56,20 @@ modified: "2026-10-18"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| rivulets | 小溪（重复） | ...water streams off in rivulets... |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| all style, no substance | 只有形式，没有内容（重复） | All style, no substance. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| rivulets | 小溪（重复） | ...water streams off in rivulets... |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
+| all style, no substance | 只有形式，没有内容（重复） | It all goes back to the parents.”
+
+
+“He does not think I’m too good for him. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
 
 ## 一句话总结
 

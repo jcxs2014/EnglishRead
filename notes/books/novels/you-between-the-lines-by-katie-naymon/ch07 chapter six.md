@@ -78,14 +78,13 @@ modified: "2026-10-18"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | supernova | 超新星（比喻） | His writing is like being welcomed into a supernova. |
-| suffice | 足够， suffice | ...suffice it to say... |
 | penance | 赎罪， penance | ...Some sort of penance for high school. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| take a back seat | 退居二线（重复） | ...I tended to take a back seat... |
+| take a back seat | 退居二线（重复） | Finally, Paul chimes in with his take. |
 | deep relief | 深深的 relief | It’s a deep relief... |
 | reading each other’s poetry | 互相读诗 | There’s something intimate about reading each other’s poetry... |
 | well-timed text | 时机恰当的 text | Gen sends a well-timed text... |
@@ -95,7 +94,7 @@ modified: "2026-10-18"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | buzzing on unused energy | 充满未使用的 energy | I’m buzzing on unused energy. |
-| flunked | 不及格， flunked | ...I’ve flunked my first nonfiction workshop... |
+| flunked | 不及格， flunked | I flunked my first nonfiction workshop, and now I’ve flunked my first poetry one, too. |
 | packet | 资料包， packet | ...the first packet of poems on Monday afternoon... |
 | couplets | 对句， couplets | ...a two-pager peppered with couplets. |
 

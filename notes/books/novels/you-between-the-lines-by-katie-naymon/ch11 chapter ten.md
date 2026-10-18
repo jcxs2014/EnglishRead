@@ -38,7 +38,6 @@ modified: "2026-10-18"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | fraying thread | 磨损的 thread | ...a fraying thread threatening to take the whole thing apart. |
-| confetti | 五彩纸屑（重复） | The word bursts into confetti somewhere deep in my chest. |
 | entangled | 纠缠的， entangled | ...getting entangled in a net. |
 | mansplains | mansplain， mansplains | ...he mansplains A Room of One’s Own to me... |
 
@@ -46,9 +45,13 @@ modified: "2026-10-18"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| invites to conversation | 邀请对话（重复） | They’re invites to conversation. |
-| 216 Cleveland area code | 216 克利夫兰区号（重复） | The 216 Cleveland area code is the same as mine... |
-| no-makeup-makeup | 无妆感 makeup | ...a face of no-makeup-makeup... |
+| 216 Cleveland area code | 216 克利夫兰区号（重复） | Chapter Ten
+
+
+
+
+
+I START MY POEM LIKE I do all homework assignments: the night before it’s due. |
 | blood rush of adrenaline | 肾上腺素 rush | ...the blood rush of adrenaline. |
 
 ### ⭐ 基础
@@ -57,7 +60,7 @@ modified: "2026-10-18"
 |---|---|---|
 | scraggly beard | 杂乱的 beard | ...his scraggly beard... |
 | cleavage | 事业线， cleavage | ...focused on my cleavage. |
-| pumpkin | 南瓜， pumpkin | ...out of pumpkin and don’t have a car. |
+| pumpkin | 南瓜， pumpkin | One who’s decided to trounce all over whatever fragile friendship we’d struck in the pumpkin patch with a poem. |
 
 ## 一句话总结
 

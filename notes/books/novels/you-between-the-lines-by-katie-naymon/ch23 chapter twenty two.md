@@ -66,25 +66,17 @@ modified: "2026-10-18"
 | umami |  umami，鲜味 | ...adds more umami flavor... |
 | ascertain | 确定， ascertain | ...I can’t ascertain whether my work is good or not. |
 | trance-like |  trance-like， trance-like | ..."All of them are about you," he breathes, trance-like. |
-| caesura | 诗行停顿（重复） | ...a caesura. A deliberate pause in a line of poetry. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| all style, no substance | 只有形式，没有内容（重复） | All style, no substance. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| rivulets | 小溪（重复） | ...water streams off in rivulets... |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
+| all style, no substance | 只有形式，没有内容（重复） | But that last option doesn’t really feel like an option at all. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
 
 ## 一句话总结
 

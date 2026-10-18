@@ -7,8 +7,8 @@ modified: "2026-10-18"
 
 ## 本章导航
 
-- **一句话概括**：Leigh 与 Will 回到 Perrin，Will 与 Leigh 在 Will's apartment 发生性接触；Leigh 发现 Will's poem "Invisible Summer" plagiarized from Sophie Wright's poem "The Summer We Stopped Talking"；Leigh 与 Will 在 Will's apartment 时，Leigh 发现 plagiarism。
-- **情感弧线位置**：**下降（discovery）**——Leigh 从"intimacy"进入"discovery"，她发现 Will's poem plagiarized from Sophie Wright's poem。
+- **一句话概括**：Leigh 与 Will 回到 Perrin，Will 与 Leigh 在 Will's apartment 发生性接触；Leigh 发现 Will's poem "Invisible Summer" plagiarized from Sophie Wright poem "The Summer We Stopped Talking"；Leigh 与 Will 在 Will's apartment 时，Leigh 发现 plagiarism。
+- **情感弧线位置**：**下降（discovery）**——Leigh 从"intimacy"进入"discovery"，她发现 Will's poem plagiarized from Sophie Wright poem。
 - **Tropes 兑现/反转**：兑现「**enemies-to-lovers 的 discovery**」——Leigh 发现 Will's poem plagiarized；同时以「**plagiarism as betrayal**」把 Will's "secret" 推到台前。
 - **人物弧线**：Leigh 从"intimacy"进入"discovery"（"I come up with a litany of reasons for why this could've happened"）；Will 从"vulnerable"进入"secret"（"All of them are about you"）。
 - **叙事手法**：第一人称（Leigh 视角）顺叙，大量内心独白与 discovery，以 plagiarism discovery 作为章节的 emotional peak。
@@ -77,29 +77,20 @@ modified: "2026-10-18"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| plagiarized | 抄袭的， plagiarized | ...Will’s poem plagiarized from Sophie Wright’s poem... |
 | defunct | 已倒闭的， defunct | ...a now-defunct online literary magazine... |
 | elegy | 挽歌， elegy | "An elegy. But it’s shit." |
-| tchotchkes | 小摆设， tchotchkes | ...half-empty ten-year-old condiments stuffed in the back of the fridge. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| all style, no substance | 只有形式，没有内容（重复） | All style, no substance. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| rivulets | 小溪（重复） | ...water streams off in rivulets... |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
+| all style, no substance | 只有形式，没有内容（重复） | At the farmers market, I watch Will buy goat cheese, Swiss chard, and honey, while he attempts to help me sort through all the squash by asking what I plan on making with it. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
 
 ## 一句话总结
 
-Leigh 与 Will 回到 Perrin，Will 与 Leigh 在 Will's apartment 发生性接触；Leigh 发现 Will's poem "Invisible Summer" plagiarized from Sophie Wright's poem "The Summer We Stopped Talking"——这是 enemies-to-lovers 的 discovery trope，Leigh 从"intimacy"进入"discovery"（"But there’s no good explanation"），Will 从"vulnerable"进入"secret"（"All of them are about you"）。
+Leigh 与 Will 回到 Perrin，Will 与 Leigh 在 Will's apartment 发生性接触；Leigh 发现 Will's poem "Invisible Summer" plagiarized from Sophie Wright poem "The Summer We Stopped Talking"——这是 enemies-to-lovers 的 discovery trope，Leigh 从"intimacy"进入"discovery"（"But there’s no good explanation"），Will 从"vulnerable"进入"secret"（"All of them are about you"）。

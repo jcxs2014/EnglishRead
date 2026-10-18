@@ -77,9 +77,7 @@ modified: "2026-10-18"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| imposter syndrome | 冒名顶替综合征 | ...I feel like I’m the dumbest person... |
 | entitled | 有权利的，自以为应得的 | I feel almost entitled to this. |
-| hunker down | 沉下心（重复） | ...hunker down and enjoy it. |
 | boomer | baby boomer，婴儿潮一代 | ...explaining memes to boomers... |
 
 ### ⭐⭐ 进阶

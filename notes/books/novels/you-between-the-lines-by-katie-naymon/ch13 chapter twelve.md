@@ -95,7 +95,7 @@ modified: "2026-10-18"
 |---|---|---|
 | world is your oyster | 世界是你的牡蛎（比喻） | ...the world is your oyster. |
 | freshest voice in the room | 房间里最 fresh 的声音 | You had the freshest voice in the room. |
-| all style, no substance | 只有形式，没有内容（重复） | ...All style, no substance. |
+| all style, no substance | 只有形式，没有内容（重复） | Just all-consumed with his studies—that signature soft, intense focus he had when he walked through the halls with a book under his arm. |
 | I won’t make that mistake ever again | 我再也不会犯这个错误 | ...I won’t make that mistake ever again. |
 
 ### ⭐ 基础

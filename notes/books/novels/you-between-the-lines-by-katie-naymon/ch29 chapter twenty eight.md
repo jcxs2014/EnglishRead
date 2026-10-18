@@ -22,42 +22,42 @@ modified: "2026-10-18"
 - **为什么这样写**：用"I intentionally came twenty minutes late"把 Bridget’s "technique"具象化， she "intentionally came twenty minutes late"； this is Bridget’s "therapy technique"， she uses "lateness" to test Leigh’s "reaction"。
 - **读者视角提示**：读者应记住 Bridget’s "technique"—— she "intentionally came twenty minutes late"， this is her "therapy technique"； this is the chapter’s first emotional peak。
 
-> **原句 8:** "'What?'"
+> **原句 2:** "'What?'"
 
 - **中文理解**："'What?'"（"'What?'"）
 - **关键词**：What?（What?）
 - **为什么这样写**："What?"把 Leigh’s "confusion"具象化， she’s "confused" by Bridget’s "technique"。
 - **读者视角提示**：读者能感到 Leigh’s "confusion"—— she’s "confused" by Bridget’s "technique"。
 
-> **原句 9:** "'I wanted to see what your reaction would be.'"
+> **原句 3:** "'I wanted to see what your reaction would be.'"
 
 - **中文理解**："I wanted to see what your reaction would be."（"I wanted to see what your reaction would be."）
 - **关键词**：I wanted to see what your reaction would be（I wanted to see what your reaction would be）
 - **为什么这样写**："I wanted to see what your reaction would be"把 Bridget’s "intention"具象化， she "wanted to see" Leigh’s "reaction"； this is Bridget’s "therapy technique"， she uses "lateness" to test Leigh’s "reaction"。
 - **读者视角提示**：读者应记住 Bridget’s "intention"—— she "wanted to see" Leigh’s "reaction"， this is her "therapy technique"。
 
-> **原句 8:** "'It hasn’t been working,' my dad started. / 'We’ve decided to separate,' my mom said. / 'It felt like a death.'"
+> **原句 4:** "'It hasn’t been working,' my dad started. / 'We’ve decided to separate,' my mom said. / 'It felt like a death.'"
 
 - **中文理解**："It hasn’t been working," my dad started（"It hasn’t been working," my dad started）。"We’ve decided to separate," my mom said（"We’ve decided to separate," my mom said）。"It felt like a death."（"It felt like a death."）
 - **关键词**：It hasn’t been working（It hasn’t been working）／We’ve decided to separate（We’ve decided to separate）／It felt like a death（It felt like a death）
 - **为什么这样写**：用"It hasn’t been working"把 parents’ "announcement"具象化， Dad says "It hasn’t been working"；"We’ve decided to separate"把 Mom’s "announcement"具象化， she says "We’ve decided to separate"；"It felt like a death"把 Leigh’s "reaction"具象化， she says "It felt like a death"； this is Leigh’s "parents' separation"， she experienced it as a "death"。
 - **读者视角提示**：读者由此理解 Leigh’s "parents' separation"—— she experienced it as a "death"， this is her "core wound"。
 
-> **原句 9:** "'A rejection,' I spit out. / 'Of what? Of who?' / Something snaps deep inside my chest. 'Of me! A rejection of me, okay?'"
+> **原句 5:** "'A rejection,' I spit out. / 'Of what? Of who?' / Something snaps deep inside my chest. 'Of me! A rejection of me, okay?'"
 
 - **中文理解**："A rejection," I spit out（"A rejection," I spit out）。"Of what? Of who?"（"Of what? Of who?"）Something snaps deep inside my chest. "Of me! A rejection of me, okay?"（Something snaps deep inside my chest. "Of me! A rejection of me, okay?"）
 - **关键词**：A rejection（A rejection）／Of me! A rejection of me（Of me! A rejection of me）
 - **为什么这样写**：用"A rejection"把 Leigh’s "interpretation"具象化， she says "A rejection"；"Of me! A rejection of me"把 her "realization"具象化， she says "Of me! A rejection of me"；"Something snaps deep inside my chest"把 her "emotion"具象化， "something snaps deep inside my chest"； this is Leigh’s "realization"， she realizes the separation felt like a "rejection of me"。
 - **读者视角提示**：读者应记住"Of me! A rejection of me"—— this is Leigh’s "realization"， she realizes the separation felt like a "rejection of me"； this is the chapter’s emotional peak。
 
-> **原句 8:** "'Hazel got it.'"
+> **原句 6:** "'Hazel got it.'"
 
 - **中文理解**："Hazel got it."（"Hazel got it."）
 - **关键词**：Hazel got it（Hazel got it）
 - **为什么这样写**：用"Hazel got it"把 the fellowship announcement具象化， Hazel "got" the fellowship； this is Leigh’s "rejection"， she’s not a "front-runner" for the fellowship。
 - **读者视角提示**：读者应记住"Hazel got it"—— this is Leigh’s "rejection"， she’s not a "front-runner" for the fellowship； this is the chapter’s emotional turn。
 
-> **原句 9:** "'You know, after my MFA, I worked as a hairstylist for five years before I ever wrote another poem. I had zero connections. We didn’t have fellowships like this at Emerson. So I stuck to hair for a while. It felt easier. But regardless of what your hands are doing during the day, some of us are still writers.'"
+> **原句 7:** "'You know, after my MFA, I worked as a hairstylist for five years before I ever wrote another poem. I had zero connections. We didn’t have fellowships like this at Emerson. So I stuck to hair for a while. It felt easier. But regardless of what your hands are doing during the day, some of us are still writers.'"
 
 - **中文理解**："You know, after my MFA, I worked as a hairstylist for five years before I ever wrote another poem."（"You know, after my MFA, I worked as a hairstylist for five years before I ever wrote another poem."）"I had zero connections."（"I had zero connections."）"We didn’t have fellowships like this at Emerson."（"We didn’t have fellowships like this at Emerson."）"So I stuck to hair for a while."（"So I stuck to hair for a while."）"It felt easier."（"It felt easier."）"But regardless of what your hands are doing during the day, some of us are still writers."（"But regardless of what your hands are doing during the day, some of us are still writers."）
 - **关键词**：worked as a hairstylist for five years（worked as a hairstylist for five years）／zero connections（zero connections）／some of us are still writers（some of us are still writers）
@@ -84,28 +84,17 @@ modified: "2026-10-18"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| rivulets | 小溪（重复） | ...water streams off in rivulets... |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| all style, no substance | 只有形式，没有内容（重复） | All style, no substance. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| rivulets | 小溪（重复） | ...water streams off in rivulets... |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
+| all style, no substance | 只有形式，没有内容（重复） | Is she like this to all clients? |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
 
 ## 一句话总结
 

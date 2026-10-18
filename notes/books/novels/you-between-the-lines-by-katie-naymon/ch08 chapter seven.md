@@ -91,10 +91,6 @@ modified: "2026-10-18"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| calcifies | 钙化（重复） | ...his entire expression calcifies like stone. |
-| scold | 责备（重复） | "Leigh." It’s a scold. |
-| vulnerability | 脆弱， vulnerability | ...this is Will’s "vulnerability"... |
-| deflection | 偏转， deflection | ...this is Will’s "deflection"... |
 
 ### ⭐⭐ 进阶
 
@@ -102,7 +98,6 @@ modified: "2026-10-18"
 |---|---|---|
 | clear the air | 澄清， clear the air | ...unless we clear the air. |
 | Fuck, Marry, Kill | 杀、嫁、操（游戏） | ...we move on to a group game of Fuck, Marry, Kill... |
-| supernova | 超新星（重复） | His writing is like being welcomed into a supernova. |
 | Zoloft | Zoloft（抗抑郁药） | "Zoloft, by the way." |
 
 ### ⭐ 基础

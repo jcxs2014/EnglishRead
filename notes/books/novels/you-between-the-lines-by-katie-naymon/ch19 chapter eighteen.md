@@ -43,7 +43,7 @@ modified: "2026-10-18"
 - **为什么这样写**："didn’t want distractions"把 Bridget’s "counter"具象化， she counters with "didn’t you tell him you didn’t want distractions?"； this is Bridget’s "therapy technique"， she uses "counter" to challenge Leigh’s "frustration"。
 - **读者视角提示**：读者能感到 Bridget’s "therapy technique"—— she uses "counter" to challenge Leigh’s "frustration"， this is her "approach" to therapy。
 
-> **原句 6:** "'He makes zero effort to convince me otherwise.'"
+> **原句 5:** "'He makes zero effort to convince me otherwise.'"
 
 - **中文理解**："He makes zero effort to convince me otherwise."（"He makes zero effort to convince me otherwise."）
 - **关键词**：makes zero effort（makes zero effort）
@@ -78,7 +78,6 @@ modified: "2026-10-18"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | neuroticism | 神经质， neuroticism | ...garden-variety neuroticism. |
-| cathartic | 宣泄的， cathartic | ...cathartic release. |
 | whiff | 一丝， whiff | ...a whiff between line breaks. |
 | cascading | 级联的， cascading | ...its words cascading into a whine... |
 
@@ -86,19 +85,12 @@ modified: "2026-10-18"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| all style, no substance | 只有形式，没有内容（重复） | All style, no substance. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| rivulets | 小溪（重复） | ...water streams off in rivulets... |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
+| all style, no substance | 只有形式，没有内容（重复） | All because he was scared he’d never find a job or a boss he liked again. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
 
 ## 一句话总结
 

@@ -63,7 +63,6 @@ modified: "2026-10-18"
 | thorny neck | 带刺的 neck | ...pressed against her thorny neck... |
 | choke in lavender | 在 lavender 中 choke | ...and I choke in lavender. |
 | wrist man | wrist man， wrist man | "...William’s a wrist man..." |
-| vestible | vestibule， vestibule | ...in the bathroom vestibule... |
 
 ## 一句话总结
 

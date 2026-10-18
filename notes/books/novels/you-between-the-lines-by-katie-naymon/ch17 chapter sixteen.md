@@ -57,7 +57,6 @@ modified: "2026-10-18"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | gawky | 笨拙的， gawky | ...the gawky, glasses-eyed kid... |
-| wrung dry | 精疲力竭的（重复） | ...seems like he’s been wrung dry. |
 | velvety | 天鹅绒般的， velvety | They’re dark and velvety and dangerous. |
 | soliloquy | 独白， soliloquy | ...launch into the soliloquy I spent... |
 
@@ -65,10 +64,7 @@ modified: "2026-10-18"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| all style, no substance | 只有形式，没有内容（重复） | All style, no substance. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| rivulets | 小溪（重复） | ...water streams off in rivulets... |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
+| all style, no substance | 只有形式，没有内容（重复） | He stares at the essay we’re reading—something long and winding I can barely follow myself—and all he does is drag his pen from word to word like he’s trying to memorize the entire piece. |
 
 ### ⭐ 基础
 
@@ -76,7 +72,6 @@ modified: "2026-10-18"
 |---|---|---|
 | gawky | 笨拙的（重复） | ...the gawky, glasses-eyed kid... |
 | AWP | AWP（作家协会） | ...AWP, the Association of Writers... |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
 
 ## 一句话总结
 

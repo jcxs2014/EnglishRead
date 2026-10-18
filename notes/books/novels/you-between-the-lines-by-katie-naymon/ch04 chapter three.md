@@ -93,8 +93,8 @@ modified: "2026-10-18"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| do not engage | 不要 engage，不要卷入 | I set a goal for myself... Do not engage. |
-| people pleasing | 取悦他人 | ...the people pleasing. |
+| do not engage | 不要 engage，不要卷入 | What I need to do with my only weekend before school officially begins again is grocery shop, unpack, and decide on a first-day-of-school outfit. |
+| people pleasing | 取悦他人 | Create the kind of art I want to create, and not what people like Will or Hazel probably think is cool. |
 | birth story | 出生故事，出身故事 | Writing this birth story is going to be a nightmare. |
 | name tags with pronouns | 带代词的名牌 | ...wear name tags with their pronouns... |
 
@@ -105,7 +105,6 @@ modified: "2026-10-18"
 | hungover | 宿醉的 | I wake up on Saturday hungover... |
 | toss my phone | 把手机 toss | I toss my phone across my bed. |
 | scoff | 嘲笑， scoff | I let out a small scoff. |
-| gravitas | 威严（重复） | ...carries all the gravitas... |
 
 ## 一句话总结
 

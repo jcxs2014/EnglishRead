@@ -29,7 +29,7 @@ modified: "2026-10-18"
 - **为什么这样写**：用"Will you marry me?"把 Leigh’s "proposal"具象化， she asks "Will you marry me?"； this is the epilogue’s emotional peak， Leigh proposes to Will。
 - **读者视角提示**：读者应记住"Will you marry me?"—— this is Leigh’s "proposal"， she proposes to Will； this is the chapter’s emotional peak。
 
-> **原句 6:** "'Are you proposing?'"
+> **原句 3:** "'Are you proposing?'"
 
 - **中文理解**："Are you proposing?"（"Are you proposing?"）
 - **关键词**：Are you proposing?（Are you proposing?）
@@ -64,28 +64,17 @@ modified: "2026-10-18"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| rivulets | 小溪（重复） | ...water streams off in rivulets... |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| all style, no substance | 只有形式，没有内容（重复） | All style, no substance. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| rivulets | 小溪（重复） | ...water streams off in rivulets... |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
+| all style, no substance | 只有形式，没有内容（重复） | Our whole second-year cohort is here, as well as all our professors, including Erica Go, who joins me in wearing hot pink. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
 
 ## 一句话总结
 

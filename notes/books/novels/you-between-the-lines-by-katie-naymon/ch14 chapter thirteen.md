@@ -100,8 +100,11 @@ modified: "2026-10-18"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| clear the air | 澄清（重复） | ...unless we clear the air. |
-| all style, no substance | 只有形式，没有内容（重复） | All style, no substance. |
+| clear the air | 澄清（重复） | Will is clearly eavesdropping because he interjects from the main table, “Leigh, you only have thirty minutes—your appointment’s coming in at six forty-five.”
+
+
+I know what he’s doing and something blooms in my stomach, the sweetness of his lie. |
+| all style, no substance | 只有形式，没有内容（重复） | “She said I should make a list of all the ‘life rules’ I’ve concocted for myself. |
 | I’m going to kiss you | 我要吻你 | "I’m going to kiss you, is that okay?" |
 | Won’t happen again | 不会再发生 | "Won’t happen again." |
 

@@ -50,14 +50,14 @@ modified: "2026-10-18"
 - **为什么这样写**："my imagination is really good"把 his "confidence"具象化， he says "my imagination is really good"； this is Will’s "confidence"。
 - **读者视角提示**：读者能感到 Will’s "confidence"—— he says "my imagination is really good"， this is his "confidence"。
 
-> **原句 4:** "'See, the reality has been so much better than my imagination that I really don’t see how I can get this out of my system. I’ve already tried for ten years.'"
+> **原句 6:** "'See, the reality has been so much better than my imagination that I really don’t see how I can get this out of my system. I’ve already tried for ten years.'"
 
 - **中文理解**："See, the reality has been so much better than my imagination that I really don’t see how I can get this out of my system."（"See, the reality has been so much better than my imagination that I really don’t see how I can get this out of my system."）"I’ve already tried for ten years."（"I’ve already tried for ten years."）
 - **关键词**：reality has been so much better than my imagination（reality has been so much better than my imagination）／get this out of my system（get this out of my system）／already tried for ten years（already tried for ten years）
 - **为什么这样写**：用"reality has been so much better than my imagination"把 Will’s "truth"具象化， the "reality" is "better than his imagination"；"get this out of my system"把 his "struggle"具象化， he "doesn’t see how he can get this out of his system"；"already tried for ten years"把 his "duration"具象化， he’s "already tried for ten years"； this is Will’s "truth"， he reveals he can’t "get this out of his system"。
 - **读者视角提示**：读者应记住"I’ve already tried for ten years"—— this is Will’s "truth"， he can’t "get this out of his system"； this is the chapter’s emotional peak。
 
-> **原句 5:** "I explode into a million pieces, each one a different shard of the Leighs I am, and the Leighs I could be."
+> **原句 7:** "I explode into a million pieces, each one a different shard of the Leighs I am, and the Leighs I could be."
 
 - **中文理解**：I explode into a million pieces（I explode into a million pieces），each one a different shard of the Leighs I am, and the Leighs I could be（each one a different shard of the Leighs I am, and the Leighs I could be）。
 - **关键词**：explode into a million pieces（explode into a million pieces）／shard of the Leighs I am（shard of the Leighs I am）／the Leighs I could be（the Leighs I could be）
@@ -71,27 +71,18 @@ modified: "2026-10-18"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | caesura | 诗行停顿， caesura | ...a caesura. A deliberate pause in a line of poetry. |
-| intoxicating | 令人陶醉的（重复） | ...each intoxicating in its own way. |
-| splayed | 展开的， splayed | ...all ten fingers splayed over my rib cage. |
 | guttural | 喉音的， guttural | ...releasing something guttural from my throat. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| all style, no substance | 只有形式，没有内容（重复） | All style, no substance. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| rivulets | 小溪（重复） | ...water streams off in rivulets... |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
+| all style, no substance | 只有形式，没有内容（重复） | “But despite all of that, it hasn’t been true.” His fingers run along the hem of my underwear and he makes eye contact with me in the mirror, a question in his eyes. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
 
 ## 一句话总结
 

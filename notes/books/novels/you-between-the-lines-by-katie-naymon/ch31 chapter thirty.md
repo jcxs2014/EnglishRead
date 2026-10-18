@@ -44,7 +44,7 @@ modified: "2026-10-18"
 - **为什么这样写**：用"I can hardly remember a time I wasn’t in love with you"把 Will’s "confession"具象化， he says "I can hardly remember a time I wasn’t in love with you"； this is Will’s "confession"， he confesses his love to Leigh。
 - **读者视角提示**：读者应记住 Will’s "confession"—— "I can hardly remember a time I wasn’t in love with you"， this is his "confession"； this is the chapter’s emotional peak。
 
-> **原句 6:** "'You read my poems at the reading. After I ran out.'"
+> **原句 5:** "'You read my poems at the reading. After I ran out.'"
 
 - **中文理解**："You read my poems at the reading. After I ran out."（"You read my poems at the reading. After I ran out."）
 - **关键词**：You read my poems at the reading（You read my poems at the reading）
@@ -59,7 +59,6 @@ modified: "2026-10-18"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | irrevocably | 不可挽回地， irrevocably | ...I am irrevocably in love with you. |
-| caesura | 诗行停顿（重复） | ...a caesura. A deliberate pause in a line of poetry. |
 | tulle | 薄纱， tulle | His voice is tulle—soft, airy, lovely. |
 | end-stopped line | 诗行末尾停顿， end-stopped line | ...my own climax sharp like an end-stopped line. |
 
@@ -67,19 +66,12 @@ modified: "2026-10-18"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| all style, no substance | 只有形式，没有内容（重复） | All style, no substance. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| rivulets | 小溪（重复） | ...water streams off in rivulets... |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
+| all style, no substance | 只有形式，没有内容（重复） | For once he looked at me as if I didn’t know him or see him at all. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
-| see-through | 透明的（重复） | ...my white shirt is nearly see-through. |
 
 ## 一句话总结
 

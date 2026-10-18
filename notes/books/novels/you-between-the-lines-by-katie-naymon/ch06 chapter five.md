@@ -104,7 +104,6 @@ modified: "2026-10-18"
 | both too much and not enough | 既太多又不够 | ...both too much and not enough. |
 | passed last year | 去年去世 | "He, uh, passed last year." |
 | crosses the line | 越界，过线 | ...crosses the line into actual fiction... |
-| weaponization | 武器化，利用 | ...weaponization of Will’s own words. |
 
 ### ⭐ 基础
 
@@ -113,7 +112,7 @@ modified: "2026-10-18"
 | all style, no substance | 只有形式，没有内容（重复） | "You’ll think she’s all style, no substance..." |
 | damn fellowship | 该死的 fellowship | ...get this damn fellowship... |
 | real, actual writer | 真正的、实际的作家 | ...become a real, actual writer. |
-| birth story | 出生故事（重复） | Writing this birth story is going to be a nightmare. |
+| birth story | 出生故事（重复） | And this “birth story” is not coming easily. |
 
 ## 一句话总结
 
