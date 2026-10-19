@@ -7,7 +7,7 @@ modified: "2026-10-19"
 
 ## 本章导航
 
-- **一句话概括**：Shelby 与 Erickson 回站里汇总线索（big male + red jersey），Naomi 带来 burner phone 号码与 warrant 延迟，两人先去 Skye Stevens 家询问，Skye 透露 Whitney 的 SAT/valdictorian 竞争、Mr. Long 的 “in love” 与 Daniel Mendez 的 “cozy” 关系，把案件从 “Bobby-only” 推进 “new leads”。
+- **一句话概括**：Shelby 与 Erickson 回站里汇总线索（big male + red jersey），Naomi 带来 burner phone 号码与 warrant 延迟，两人先去 Skye Stevens 家询问，Skye 透露 Whitney 的 SAT/valdictorian 竞争、Mr. Long 的 “in love” 与 Daniel Mendez 的 “cozy” 关系，把案件从「只怀疑 Bobby」推进「新线索」。
 
 - **情感弧线位置**：全书的 “new lead” 格：从 “I liked it better when Bobby was the only suspect” 走到 “Another new lead”，Shelby 的 “scars were too thick” 把 “instinct vs evidence” 的 tension 推到前台，Skye 的 “Guess I’m valedictorian now” 把 “ambition” 与 “grief” 的 tension 立住。
 
@@ -202,6 +202,6 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-Shelby 与 Erickson 回站里汇总线索（big male + red jersey），Naomi 带来 burner phone 号码与 warrant 延迟，两人先去 Skye Stevens 家询问，Skye 透露 Whitney 的 SAT/valdictorian 竞争、Mr. Long 的 “in love” 与 Daniel Mendez 的 “cozy” 关系，把案件从 “Bobby-only” 推进 “new leads”。
+Shelby 与 Erickson 回站里汇总线索（big male + red jersey），Naomi 带来 burner phone 号码与 warrant 延迟，两人先去 Skye Stevens 家询问，Skye 透露 Whitney 的 SAT/valdictorian 竞争、Mr. Long 的 “in love” 与 Daniel Mendez 的 “cozy” 关系，把案件从「只怀疑 Bobby」推进「新线索」。
 
 ---
