@@ -53,7 +53,6 @@ start_date: 2026-10-19
 
 **关键词**：
 - `Panchito holds her body with both hands, his beak deep inside her guts`：Panchito 双手抱着她，喙深入 guts——horror
-- `blood is what gives away the reality`：血 betray reality——horror
 
 **为什么这样写**：Panchito’s (limited) hunting shows his (animalistic) nature—he consumes humans, not just animals。
 
@@ -150,7 +149,6 @@ start_date: 2026-10-19
 
 **关键词**：
 - `Rubí, who never felt sorry for anything or anyone`：从不为任何事任何人感到 sorry 的 Rubí——model
-- `She betrayed her boyfriend and robbed her best friend`：她 betray 男友并 rob 最好朋友——Rubí’s ruthlessness
 
 **为什么这样写**：Yolanda’s "Rubí" model shows her (limited) justification—she compares herself to fictional ruthless character。
 
@@ -225,7 +223,7 @@ start_date: 2026-10-19
 
 > **原句 16:** "“He’s eaten her eyes.”"
 
-**中文理解**：Someone says "He’s eaten her eyes."—shows mob’s (limited) horror. "Look at the jars." Someone points at Odette’s fetuses.
+**中文理解**：Someone says "He’s eaten her eyes."—shows mob’s (limited) horror. "Look at the jars." Someone points at Odette’s fetuses。
 
 **句子结构**：简单陈述句。
 
@@ -285,7 +283,6 @@ start_date: 2026-10-19
 
 **关键词**：
 - `He is deranged... A psychopath`：他 deranged... psychopath——performance
-- `He did it. He murdered the girl`：他做了。他 murdered the girl——performance
 
 **为什么这样写**：Yolanda’s "deranged... psychopath" shows her (limited) performance—she acts horrified to manipulate mob。
 
@@ -293,7 +290,7 @@ start_date: 2026-10-19
 
 > **原句 21:** "“This family is rotten,” says Itzco."
 
-**中文理解**：Itzco’s "This family is rotten."—shows his (limited) truth. "And that part he doesn’t have to make up. They are rotten. I am very disappointed by how things have turned out."
+**中文理解**：Itzco’s "This family is rotten."—shows his (limited) truth. "And that part he doesn’t have to make up. They are rotten."
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -312,7 +309,6 @@ start_date: 2026-10-19
 
 **关键词**：
 - `that part he doesn’t have to make up`：那部分他不用 fabricate——agreement
-- `They are rotten`：他们 rotten——agreement
 - `I am very disappointed by how things have turned out`：我很 disappointed——disappointment
 
 **为什么这样写**：Yolanda’s "I am very disappointed" shows her (limited) emotion—her scheme failed。
@@ -674,7 +670,7 @@ start_date: 2026-10-19
 
 > **原句 49:** "My chin quivers, but there are no tears, and no words. I wonder why I’m not more like the seamstress. Screaming at the heavens for Panchito, kneeled over in the dry garden."
 
-**中文理解**：Yolanda’s "My chin quivers, but there are no tears, and no words."—shows her (limited) grief. "I wonder why I’m not more like the seamstress. Screaming at the heavens for Panchito."
+**中文理解**：Yolanda’s "My chin quivers, but there are no tears, and no words."—shows her (limited) grief. "I wonder why I’m not more like the seamstress. Screaming at the heavens for Panchito, kneeled over in the dry garden."
 
 **句子结构**：两句话。
 
@@ -1707,7 +1703,7 @@ start_date: 2026-10-19
 **句子结构**：三句话。
 
 **关键词**：
-- `For a moment, I hate myself for being with him`： momentarily, I hate myself for being with him——strategy
+- `For a moment, I hate myself for being with him`：momentarily, I hate myself for being with him——strategy
 - `push away the disgust and turn it into something akin to desire`：push away disgust and turn into desire——strategy
 
 **为什么这样写**：Yolanda’s "push away the disgust" shows her (limited) strategy—she uses desire to control Javier。
@@ -2045,7 +2041,7 @@ start_date: 2026-10-19
 | consumption | 消耗，消费 | I suppose he hid her, waiting until he felt like she was ready for consumption. |
 | Impossible | 不可能的 | Impossible quantities of crimson seep into the sheets, staining them forever. |
 | quantities | 数量，大量 | Impossible quantities of crimson seep into the sheets, staining them forever. |
-| immediately | 立即地，马上 | Panchito touches the water and pulls his hand back immediately. |
+| immediately | 立即地 | Panchito touches the water and pulls his hand back immediately. |
 | communicate | 交流，沟通 | Ever so slowly, he is learning to communicate. |
 | understanding | 理解，谅解 | This time he doesn’t nod or provide any signs of understanding. |
 | seamstress | 女裁缝 | The seamstress’s daughter was so young. |
@@ -2057,7 +2053,7 @@ start_date: 2026-10-19
 | disappointed | 失望的，沮丧的 | I am very disappointed by how things have turned out. |
 | taxidermied | 制成标本的 | The structure Javier prepared for Panchito’s taxidermied form is visible from where I’m standing. |
 | decoration | 装饰，装饰品 | I remember how he kept Valentín’s arm for future decoration. |
-| aggressively | 激烈地， aggressively | And how he bedded me, aggressively, like an animal. |
+| aggressively | 激烈地 | And how he bedded me, aggressively, like an animal. |
 | incriminating | 有罪的，构成罪证的 | But I only think it, because I can say nothing without incriminating myself. |
 
 ### ⭐⭐ 进阶
@@ -2090,5 +2086,9 @@ start_date: 2026-10-19
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | masticating | 咀嚼 | Panchito is hunched over the bed, masticating. |
+| levitates | 使漂浮，使悬浮 | He stays suspended in the air for what feels like minutes. He tilts his naked body upward, and then, he levitates. |
+| levitate | 漂浮，悬浮 | He stays suspended in the air for what feels like minutes. He tilts his naked body upward, and then, he levitates. |
 | look-alike | 相像的人，酷似的人 | Because I would rather have a look-alike at home, even if he’s still alive, up in the air, taking care of us. |
 | taxidermy | 标本制作，动物标本 | The structure Javier prepared for Panchito’s taxidermied form is visible from where I’m standing. |
+| taxidermist | 标本制作师 | The structure Javier prepared for Panchito’s taxidermied form is visible from where I’m standing. |
+| taxidermied | 制成标本的 | The structure Javier prepared for Panchito’s taxidermied form is visible from where I’m standing. |
