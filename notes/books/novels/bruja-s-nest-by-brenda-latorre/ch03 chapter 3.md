@@ -324,12 +324,9 @@ start_date: 2026-10-19
 | wrought-iron | 锻铁的 | I stare at the wrought-iron chandelier that looms above the rustic dining table. |
 | chandelier | 枝形吊灯 | I stare at the wrought-iron chandelier that looms above the rustic dining table. |
 | Persian | 波斯的 | “What do you think you’re doing? These are Persian carpets from Iran. |
-| amalgamation | 混合，聚合 | From the hills, an amalgamation of colorful houses and narrow alleys make themselves visible. |
-| indulgence | 沉溺，嗜好 | It seems like her only indulgence is the silver cross that glints across her chest. |
 | chiseled | 雕刻的，轮廓分明的 | He has brown skin and a chiseled jaw. |
 | bushy | 浓密的，茂盛的 | He has big brown eyes and bushy eyebrows. |
 | crooked | 歪的，不正的 | My poor Valentincito is crooked. |
-| predatory | 掠夺性的，捕食性的 | Javier’s predatory behavior and Odette’s open relationship |
 
 ### ⭐⭐ 进阶
 
