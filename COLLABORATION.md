@@ -95,6 +95,12 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 Commit：5c285ee3c（41 文件）· 未 push · 全书五步审查待发起
 日志：推进与修复明细见 .memory/daily/2026-10-19.md
 
+《Under the Same Stars》五步审查结论：发现 37 条（阻断 19 / 提示 18），阻断型已全部整改，复验 gate.sh 退出码 0
+阻断修复：说话人错配 7 · 跨章引用指错 3 · 引语分析不对应 3 · 导航/事实错误 4 · 其余 2
+提示型 18 条只记不改（含 ch02 sweethear t 笔误、ch06 sketch 重复行、ch05 例句缺 You 等，明细见日志）
+门禁原始输出：.memory/raw-gates/under-the-same-stars-by-libba-bray/2026-10-19-五步审查-*.txt
+Commit：bfa132cc3 · 未 push
+
 ### [2026-10-18 21:55 UTC] [ZCode-Mac] → All
 
 ## 【新书归档】2026-10-18 批次：64 本新 epub 入库 notes/books
