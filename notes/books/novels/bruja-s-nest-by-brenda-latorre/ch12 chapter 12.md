@@ -21,7 +21,7 @@ start_date: 2026-10-19
 
 **中文理解**：Yolanda 搬到 shed——"worse than I expected." Shows downgrade. "Lucky I don’t own too many clothes" shows poverty。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `worse than I expected`：比预期更糟——downgrade
@@ -33,9 +33,9 @@ start_date: 2026-10-19
 
 > **原句 2:** "It reminds me of the Silbón. A man who murdered his father."
 
-**中文理解**：Silbón legend—man who murdered father, condemned to carry rattling bones. Wind in shed sounds like Silbón’s whistle. Shows Yolanda’s supernatural awareness。
+**中文理解**：Silbón legend——man who murdered father, condemned to carry rattling bones。Wind in shed sounds like Silbón’s whistle。显示 Yolanda’s supernatural awareness。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Silbón`：Silbón (venezuelan legend)—whistling ghost
@@ -47,9 +47,9 @@ start_date: 2026-10-19
 
 > **原句 3:** "It’s cold in here and smells of death, courtesy of Javier."
 
-**中文理解**：Shed smells of death—Javier’s taxidermy. "Courtesy of Javier" is sarcastic. Shows Yolanda’s growing awareness of Javier’s darkness。
+**中文理解**：Shed smells of death——Javier’s taxidermy。"Courtesy of Javier" is sarcastic。显示 Yolanda’s growing awareness of Javier’s darkness。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `smells of death, courtesy of Javier`：死味， courtesy of Javier——sarcasm
@@ -60,7 +60,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "I do have a bathroom to myself, but the water seldom arrives hot in this part of the hacienda."
 
-**中文理解**：Yolanda has bathroom but cold water—small privilege, big discomfort. "Seldom arrives hot" shows hacienda’s neglect of staff quarters。
+**中文理解**：Yolanda has bathroom but cold water——small privilege, big discomfort。"Seldom arrives hot" 显示 hacienda’s neglect of staff quarters。
 
 **句子结构**：主从复合句。
 
@@ -74,9 +74,9 @@ start_date: 2026-10-19
 
 > **原句 5:** "Itzco built a box to serve as a crib when the baby comes."
 
-**中文理解**：Itzco built crib box—shows his care for Yolanda despite betrayal. "It’s not the crib I thought Don Julián would buy for his grandson, but it is not nothing." Shows Yolanda’s gratitude and lowered expectations。
+**中文理解**：Itzco built crib box——显示 his care for Yolanda despite betrayal。"It’s not the crib I thought Don Julián would buy for his grandson, but it is not nothing." 显示 Yolanda’s gratitude and lowered expectations。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `Itzco built a box to serve as a crib`：Itzco 做了箱子当摇篮——care
@@ -88,9 +88,9 @@ start_date: 2026-10-19
 
 > **原句 6:** "I drift toward the lower level, where Javier displays his jars on the floating shelves."
 
-**中文理解**：Yolanda drifts to Javier’s jars—human fetuses, cat eyes. Shows her curiosity and unease. "I think of visiting Valentín, but he may be sleeping."
+**中文理解**：Yolanda drifts to Javier’s jars——human fetuses, cat eyes。显示她的 curiosity and unease。"I think of visiting Valentín, but he may be sleeping."
 
-**句子结构**：一句话。
+**句子结构**：一句话，单句结构。
 
 **关键词**：
 - `jars on the floating shelves`：浮动搁板上的罐子——Javier’s specimens
@@ -102,9 +102,9 @@ start_date: 2026-10-19
 
 > **原句 7:** "Life in Cantera has become strange."
 
-**中文理解**：Yolanda’s observation—"Life in Cantera has become strange." Shows her disorientation. "I caress the tools Javier left on the table. Inviting me to experiment on one of the specimens he keeps in the freezer."
+**中文理解**：Yolanda’s observation——"Life in Cantera has become strange." 显示她的 disorientation。"I caress the tools Javier left on the table. Inviting me to experiment on one of the specimens he keeps in the freezer."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `Life in Cantera has become strange`：Cantera 的生活变得奇怪——disorientation
@@ -115,9 +115,9 @@ start_date: 2026-10-19
 
 > **原句 8:** "It’s been two nights since Don Julián started canceling family dinners."
 
-**中文理解**：Don Julián cancels family dinners—shows family’s distress over Valentín. Yolanda: "I’m unsure whether it has to do with my presence."
+**中文理解**：Don Julián cancels family dinners——显示 family’s distress over Valentín。Yolanda："I’m unsure whether it has to do with my presence."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `canceling family dinners`：取消家庭晚餐——family distress
@@ -128,9 +128,9 @@ start_date: 2026-10-19
 
 > **原句 9:** "When I open the door to Valentín’s room, I see a terrible sight. Valentín’s stump is infected."
 
-**中文理解**：Valentín’s stump infected—shows surgical failure. "The muscle, forcibly stitched together with black thread, is now purple at the center." Shows horror.
+**中文理解**：Valentín’s stump infected——显示 surgical failure。"The muscle, forcibly stitched together with black thread, is now purple at the center." 显示 horror。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Valentín’s stump is infected`：Valentín 的残肢感染了——surgical failure
@@ -142,7 +142,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "“What in the devil are you talking about? ¿Ahora qué?”"
 
-**中文理解**：Valentín’s "What in the devil are you talking about? ¿Ahora qué?" (What now?)—shows his anger at Javier’s marriage proposal. Javier: "You two should get married if you don’t want me to punch that woman in the face."
+**中文理解**：Valentín’s "What in the devil are you talking about? ¿Ahora qué?" (What now?)——显示他的 anger at Javier’s marriage proposal。Javier："You two should get married if you don’t want me to punch that woman in the face."
 
 **句子结构**：引语。
 
@@ -156,7 +156,7 @@ start_date: 2026-10-19
 
 > **原句 11:** "“What are you doing, Javier?” Valentín asks. He is enraged."
 
-**中文理解**：Valentín’s "What are you doing, Javier?"—shows his anger at Javier’s proximity to Yolanda. "He is enraged. Even if our union is for pretend, Javier is disrespecting him."
+**中文理解**：Valentín’s "What are you doing, Javier?"——显示他的 anger at Javier’s proximity to Yolanda。"He is enraged. Even if our union is for pretend, Javier is disrespecting him."
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -170,7 +170,7 @@ start_date: 2026-10-19
 
 > **原句 12:** "“Do you want to marry me?” asks Valentín."
 
-**中文理解**：Valentín’s proposal—"Do you want to marry me?" Shows his desperation to protect Yolanda/baby. Yolanda: "Yes. My tone is almost indifferent."
+**中文理解**：Valentín’s proposal——"Do you want to marry me?" 显示他的 desperation to protect Yolanda/baby。Yolanda："Yes. My tone is almost indifferent."
 
 **句子结构**：问句。
 
@@ -183,9 +183,9 @@ start_date: 2026-10-19
 
 > **原句 13:** "Some people are lucky."
 
-**中文理解**：Yolanda’s "Some people are lucky."—contrast with her own life. "That’s not my life. Luck hasn’t wanted to touch me for as long as I can remember."
+**中文理解**：Yolanda’s "Some people are lucky."——contrast with her own life。显示她的 fatalism。"That’s not my life. Luck hasn’t wanted to touch me for as long as I can remember."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `Some people are lucky`：有些人幸运——contrast
@@ -197,7 +197,7 @@ start_date: 2026-10-19
 
 > **原句 14:** "Yes,” I say. My tone is almost indifferent."
 
-**中文理解**：Yolanda’s "Yes" with "almost indifferent" tone—shows her emotional distance from marriage. "For I already see what awaits me at the end of the arrangement."
+**中文理解**：Yolanda’s "Yes" with "almost indifferent" tone——显示她的 emotional distance from marriage。"For I already see what awaits me at the end of the arrangement."
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -210,7 +210,7 @@ start_date: 2026-10-19
 
 > **原句 15:** "Javier smiles at us. “How romantic.”"
 
-**中文理解**：Javier’s "How romantic."—sarcastic. "If I didn’t know him, I’d say he is jealous." Shows Javier’s feelings about Yolanda/Valentín。
+**中文理解**：Javier’s "How romantic."——sarcastic。"If I didn’t know him, I’d say he is jealous." 显示 Javier’s feelings about Yolanda/Valentín。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -224,9 +224,9 @@ start_date: 2026-10-19
 
 > **原句 16:** "Valentín presses his hand in mine."
 
-**中文理解**：Valentín presses hand in Yolanda’s—physical connection. Shows Yolanda’s yearning for genuine connection。
+**中文理解**：Valentín presses hand in Yolanda’s——physical connection。显示 Yolanda’s yearning for genuine connection。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `Valentín presses his hand in mine`：Valentín 将手按在我手中——physical connection
