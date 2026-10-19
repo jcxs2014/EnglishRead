@@ -2,79 +2,79 @@
 
 ## 本章导航
 
-- **一句话概括**：Sarah De'ath (funeral home family, artist) discovers her grandfather's skeleton in "Uncle Hermit's" hermitage (not Uncle Hermit's—grandfather was locked there by family, died, "absorbed" into walls); Sarah paints still lifes that draw out souls (still life = memento vitae, not memento mori); she lures abusive Johnno (sister's husband) to hermitage, drugs him, ties him to chair; Johnno absorbed into walls; Sarah paints his still life ("break my heart but be utterly beautiful"). Death as absorption into walls/objects; "Done is done" = family motto; "Still Life" = memory of life, not death.
+- **一句话概括**：殡仪馆家族的五十年庆典。De'ath 家靠死人吃饭，Sarah 在一次家宴上发现自己真正的天赋：把逝者的遗物摆成静物画。家族传说里有一位「隐士」——被富家雇来在园中茅屋里独居、终生不出的远房叔公；可当她终于走进那间茅屋，看见枯骨手里握着玻璃杯、膝上横着一根紫檀狮子头手杖时，她发现传说与事实只隔着一层纸：那具骨架不是叔公，是她自己的祖父，而祖母年年端去的那盘饭，是给两个人的。
 
-- **时间**：当代（funeral home, De'ath family, 50 years of business）
+- **时间**：家族生意五十周年庆典当夜；其后是夏天里一次又一次的作画；以及「从今往后」的几年——故事在最后一句的假设里结束。
 
-- **地点**：De'ath funeral home; hermitage (in overgrown yard); "Effingham House" (mansion, weddings)
+- **地点**：De'ath 殡仪馆（家人起居的大宅紧邻殡仪馆：宴客厅、摆遗物的房间、画廊室、停放遗体与那层油脂的房间）；自家后园尽头被灌木与荆棘封死的小径与隐士茅屋；Effingham House（那座旧宅，镇上人管它叫「他妈之屋」，如今办婚礼用）；镇上的酒吧。
 
-- **人物**：Sarah De'ath (narrator, artist, funeral home family)；Grandma (singer, visited Uncle Hermit)；Dad (funeral director, gentle)；Johnno (abusive husband of Sarah's sister, absorbed into hermitage)；Gary (Sarah's boyfriend, carpenter)；Uncle Hermit (ornamental hermit, grandfather's skeleton actually)；grandfather (abusive, locked in hermitage, died there)
+- **人物**：Sarah De'ath（叙述者，把遗物画成静物的人）；De'ath 家的父亲（殡仪馆老板，酗酒，把自己的父亲锁进茅屋的人）；祖母（年年给「隐士」送饭、隔窗为他唱歌的人，把叔公与祖父混作一人）；姐姐们（嫁出去改了姓，其中一位被丈夫 Johnno 打成重伤）；Johnno（姐姐的丈夫，举重教练，自己的第一任妻子「病着死了」）；Gary（木匠，做棺木与书架，Sarah 分手后又找回来的那个男人）；十三岁的继子；以及传说中那位园中隐士。
 
-- **叙事手法**：First-person (Sarah); family saga with dark fantasy; still life painting as soul-extraction; "absorption" as afterlife (soul absorbed into walls/objects); "Done is done" = family motto (no afterlife thinking); "Still Life" = memento vitae (life memory) not memento mori (death memory)
+- **叙事手法**：第一人称，口语与讽刺密集（把自家宴席叫作「双尾鱼殡仪馆」：前面办正事、后面开派对）；静物画作为贯穿全篇的意象系统（遗物、油脂、水珠、蜡油）；家族口述传说与相册里那根手杖构成两条线索，读者比人物早半步拼出真相；结尾用一句冷掉的祝酒收束。
 
-- **与后文的钩子**：Strahan Introduction 提到 "Kaaron Warren's story of a funeral home family, and the hermit whose bones are found in the garden shed." 本篇是选集的 final story—funeral home family, death as absorption, still life as soul-extraction. Theme: death as absorption into walls/objects; "Done is done" = no afterlife; "Still Life" = memory of life; art as death's medium; "I painted nothing" = death's emptiness. Final story closes anthology's "death" theme: death as absorption, not passage; memory as preservation; art as soul's vessel.
+- **与后文的钩子**：Strahan 在导言里说，这本选集以 Kaaron Warren 写的「一个与死亡太过熟稔、有时需要逃开一阵子的家族」收尾——本篇正是那最后一篇；而它把「死亡」处理成了家族的手艺：活人的营生，是替死人把东西摆好。
 
 ## 精读
 
 > **原句 1:** "Done is done."
 
-- **中文理解**：「Done is done。」 （本块引语分析见上）
+- **中文理解**：「了结就是了结。」父亲在宴席上念出家族的格言：清教徒认为没有灵魂的尸身是可憎之物，而殡仪馆老板不能这么想；「我们只管这具身体，不负责去想以后的事。你别操心身后会怎样，你只需要操心眼前。」说完他拍了拍自己的胸口。
 
 - **关键词**：Done is done
 
-- **为什么这样写**：Warren's "Done is done" = De'ath family motto—funeral director's professional ethos: death is finished, no afterlife thinking. "Done" = complete, final. This is the story's thesis: death as final (no afterlife), but Sarah's art (still life) challenges this—she believes in absorption (soul absorbed into walls/objects). "Done is done" vs. Sarah's absorption theory = tension between professional detachment and spiritual belief.
+- **为什么这样写**：作者把这句格言放在全书最热闹的场合，让它成为全篇的公理：殡仪馆只负责把流程办完，不负责解释。Sarah 当场在心里反驳——正因为相信来世，人才愿意跟死者的鬼魂说话——却被全家人笑倒。这条公理正是后面一切的地基：正因为「身后事不归我们管」，祖父才会被锁进茅屋、尸骨才会留在原地、家族才会「保守秘密」。
 
-- **读者视角提示**：Warren's "Done is done" = family motto. Death as final, no afterlife. Sarah's art challenges this.
+- **读者视角提示**：父亲在同一次讲话里把这句话说了两遍，第二遍升格为家训——重复即强调，也提示这条规矩其实谁都没真正遵守。
 
 > **原句 2:** "I painted nothing."
 
-- **中文理解**：「I painted nothing。」 （本块引语分析见上）
+- **中文理解**：「我什么都没画。」Sarah 说她画过天堂，画过地狱，画过吸满魂魄的墙，画过鬼魂——然后接上这一句。
 
 - **关键词**：I painted nothing
 
-- **为什么这样写**：Warren's "I painted nothing" = death as annihilation (one of Sarah's options). Among heaven/hell/absorption/ghosts, "nothing" = no afterlife. This is the story's thesis: death's nature is unknown; Sarah paints all possibilities. "Nothing" = the final possibility (annihilation). This contrasts with "absorption" (soul in walls) and "memento vitae" (life memory).
+- **为什么这样写**：作者用最短的一句把整段夸耀抽空：她画了那么多「死后世界」，画出来的其实什么都不是。这既是职业自述，也是对全书的总结——她的画是给活人看的安慰剂，画的从来不是死，是生者的需要。而紧接着的「每一幅画其实都是静物」把话头拉回来：她画的不是鬼，是死者的遗物——这才是她真正在做的事。
 
-- **读者视角提示**：Warren's "I painted nothing" = death as annihilation. One of Sarah's options. Death's nature unknown.
+- **读者视角提示**：紧接着的「我的画能把他们的魂引出来」既是她赖以为生的说法，也是她深信的谎言。
 
 > **原句 3:** "I painted griefy surfaces, shiny and awful to the touch."
 
-- **中文理解**：「I painted griefy surfaces, shiny and awful to the touch。」 （本块引语分析见上）
+- **中文理解**：「我画过那层油亮的、摸着吓人的悲伤表面。」这是她为客户画的最后一种东西：墙、地板、器物上一层黏滑的膜。
 
 - **关键词**：griefy surfaces / shiny and awful to the touch
 
-- **为什么这样写**：Warren's "griefy surfaces" = grief as physical substance (grime on unused rooms). "Shiny and awful to the touch" = grief's tactile quality. "Griefy" = Warren's invention (grief + grimy). This is the story's thesis: grief is physical, settles on surfaces. Sarah's art captures this. "Unwashed hair" quality = grief's texture.
+- **为什么这样写**：作者把「悲伤」物质化了：它是一层会结在物体上的油脂，摸上去黏手。Sarah 说自己在停放遗体的房间里作画，就是为了要那层「最后的魂」沉在画面上——于是丧亲者能在画里找到鬼、找到「他就在那儿」，以此为凭据安心。哀悼在这里成了一项服务，而服务要求被安慰的人相信她的画是证据。
 
-- **读者视角提示**：Warren's "griefy surfaces" = grief as physical. "Shiny and awful to the touch" = tactile grief. "Griefy" = Warren's invention.
+- **读者视角提示**：呼应祖母的话：灵魂会渗进墙里，没有墙就渗进物件里；墙上看得见会动的凸起、晕开的线条、渗出的一层油。
 
 > **原句 4:** "not so much a memento mori but a memento vitae, if you will."
 
-- **中文理解**：「not so much a memento mori but a memento vitae, if you will。」 （本块引语分析见上）
+- **中文理解**：「与其说是「死亡警示画」，不如说是「生命纪念画」，如果您愿意这么叫。」这是那位电台主持人从她嘴里偷走的话。
 
 - **关键词**：not so much a memento mori / but a memento vitae / if you will
 
-- **为什么这样写**：Warren's "memento vitae" = life memory (not death memory). "Memento mori" = traditional death art; "memento vitae" = Sarah's innovation. "If you will" = tentative, artistic. This is the story's thesis: art preserves life (not death). Sarah's still lifes = visual obituaries that celebrate life. "Memento vitae" = death art that remembers living.
+- **为什么这样写**：被偷走的话把 Sarah 的作品重新命名：她画的不是死亡而是生命，是一份让死者得以安放的物件肖像。听众听到的是温柔的告慰，主持人听到的是可以播出去的内容；作者用「偷」这个字点明：整套关于死亡的解释被她自己的话反过来占为己有。而她为这位听众画的那幅母亲的静物，照样「画得极美」——他的母亲同样被释放了，区别只在于他后来说了她一句「业余」。
 
-- **读者视角提示**：Warren's "memento vitae" = life memory. "Memento mori" = death memory. Sarah's innovation: art preserves life.
+- **读者视角提示**：原文用 memento mori（以物寄死）与 memento vitae（以物寄生）这对术语：只换一个词根，意思却整个翻面。
 
 > **原句 5:** "was to take a young married woman by force. This is in the family’s lore."
 
-- **中文理解**：「He took a young married woman by force。」 （本块引语分析见上）
+- **中文理解**：「……他的最后一个动作，是强暴一位有夫之妇。这是家族传说里的说法。」这是家族口述史里「隐士」叔公的那一段，而作者随即补上一句：这不是官方说法。
 
 - **关键词**：take a young married woman by force
 
-- **为什么这样写**：Warren's "took... by force" = sexual assault. This is the family's dark secret: grandfather (not Uncle Hermit) was rapist. "Young married woman" = victim. This is the story's moral complexity: grandfather's crime → family's cover-up → absorption into walls. Death as absorption = grandfather's soul in walls. Sarah's still life of grandfather (skeleton) = art as death's medium.
+- **为什么这样写**：作者把这个暴行写进「传说」，并立刻声明它无法证实也无法否认——这一支族人改了姓，与他们断绝往来。传说之所以能立住，正因为它悬在半空；而 Sarah 恰恰靠这些传说拼出了真相：祖母年年给「叔公」送饭，父亲年年替「叔公」收殓，其实处理的全是自己的父亲。整条家族神话由一个暴行起头，也由这个暴行收束。
 
-- **读者视角提示**：Warren's "took... by force" = rape. Family secret. Grandfather's crime. Death as absorption.
+- **读者视角提示**：这位叔公据说活到一百岁、一生不饮；雇他的富家后来渐渐忘了他，送饭越来越少，直到他靠园子里的野菜果腹。
 
 > **原句 6:** "We kept the secrets."
 
-- **中文理解**：「We kept the secrets。」 （本块引语分析见上）
+- **中文理解**：「我们保守着这些秘密。」Sarah 在被带进茅屋、看见枯骨与那根手杖之后，反而感到骄傲：家里人信任她才让她看，而那些悲伤家属的哭诉从来没有传出过殡仪馆。
 
 - **关键词**：We kept the secrets
 
-- **为什么这样写**：Warren's "We kept the secrets" = family's code. Secrecy as family bond. "We" = De'ath family. This is the story's thesis: death's secrets are kept (grandfather's crime, hermitage skeleton). Sarah breaks secrecy by luring Johnno to hermitage (absorbing him). "Kept the secrets" = family's complicity.
+- **为什么这样写**：这句是全篇的题眼，也是它的判决：家族靠两样东西活着——「了结就是了结」和「我们保守着这些秘密」。前者让他们把生意做成，后者让他们彼此包庇；而读者刚刚看见，这两样合起来足以把一个人锁进茅屋、让他自尽、并让全家安然举杯。作者让这句话出现在叙述者最自豪的时刻，讽刺因此格外锋利。
 
-- **读者视角提示**：Warren's "We kept the secrets" = family code. Secrecy as bond. Sarah breaks it (Johnno).
+- **读者视角提示**：结局她真的用上了这个秘密：把施暴的姐夫领进那间茅屋，关上身后的门，听见水声。
 
 ## 本章词汇
 
@@ -110,4 +110,4 @@
 
 ## 一句话总结
 
-Warren 的 "Uncle Hermit" 是选集中最 funeral-home-family 的 story：Sarah De'ath (funeral home family, artist) discovers her grandfather's skeleton in "Uncle Hermit's" hermitage (not Uncle Hermit's—grandfather was locked there by family, died, "absorbed" into walls); Sarah paints still lifes that draw out souls (still life = memento vitae, not memento mori); she lures abusive Johnno (sister's husband) to hermitage, drugs him, ties him to chair; Johnno absorbed into walls; Sarah paints his still life ("break my heart but be utterly beautiful"). Warren 的 thesis："death as absorption, not passage"—"Done is done" = family motto (no afterlife); "Still Life" = memento vitae (life memory, not death memory); "I painted nothing" = death as annihilation (one option); "griefy surfaces" = grief as physical substance; "We kept the secrets" = family's code (secrecy as bond). "He took a young married woman by force" = grandfather's crime (rape). "Uncle Hermit" = grandfather (not uncle). "I painted griefy surfaces, shiny and awful to the touch" = grief's physical quality. "not so much a memento mori but a memento vitae" = Sarah's innovation (art preserves life). This is the anthology's final story—"death as absorption" counterpoint. Theme: death as absorption into walls/objects; "Done is done" = no afterlife; "Still Life" = memory of life; art as death's medium; "I painted nothing" = death's emptiness; "We kept the secrets" = family's complicity. Sarah's final act: Johnno absorbed into walls, painted as still life ("break my heart but be utterly beautiful"). Death as absorption, not passage. Art as death's vessel. "Still Life by Sarah De'ath" = death art that celebrates life. Final story closes anthology's "death" theme: death as absorption, memory as preservation, art as soul's vessel. "Every painting is a still life, really." = art as death's medium. Death as absorption into walls/objects; memory as preservation; art as soul's vessel. "I painted nothing" = death's emptiness (one option among many). Death as unknown, art as exploration. "Done is done" = family's professional detachment; Sarah's absorption theory = challenge. Death as both final (Done is done) and ongoing (absorption). Art as death's medium. Final: "And if he ever changed for the worse, there was the hermitage, and Uncle Hermit, and I'd paint a still life for Gary that would break my heart but be utterly beautiful." = death's threat as love's protection. Death as art. Death as absorption. Death as memory. Death as love. Final story: death as absorption into walls, memory as preservation, art as soul's vessel. "Still Life" = life memory, not death memory. Death as life's preservation. "Done is done" = death is final; "Still Life" = death preserves life. Death as final and preserving. Death as end and memory. Death as absorption and art. Death as love and threat. Final word: "utterly beautiful." Death as beauty. Death as art. Death as life. Death as memory. Death as absorption. Death as love. Death as "Done is done" and "Still Life." Death as final and eternal. Death as end and preservation. Death as absorption and beauty. Death as art and love. Final story closes: death is absorption, memory, art, love, beauty, finality, eternity. "Done is done." "Still Life." Death. Art. Love. Memory. Absorption. Beauty. Final.
+Kaaron Warren 的「隐士」写的是一个殡仪馆家族，和他们共同的秘密。De'ath 家办丧事五十年，家宴上供应的「悲伤」是葬礼剩下的油炸食品，祖母年年给传说中那位园中隐士留一盘饭——可当 Sarah 终于走进那间被灌木封住的茅屋，她看见的是一具握着玻璃杯、膝上横着紫檀狮子头手杖的枯骨，以及祖母关于「灵魂会渗进墙里」的信仰。真相是：那具骨架是她自己的祖父，年轻时打断丈人的手后被锁进茅屋、绑在叔公的椅子上、最后自刎；而叔公早已有了正经的基督教葬礼。Sarah 的天赋是给死者画静物遗像、给活人一个「他还在」的证据，她把这门生意做成了家族里最赚钱也最像诅咒的一门。故事的最后一幕是家宴上的祝酒：姐姐伤愈、祖母照旧做她的那盘饭，而叙述者已经在心里给那个万一变坏的人备好了一幅静物——会让她心碎，却美得不得了的静物。

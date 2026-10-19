@@ -2,79 +2,79 @@
 
 ## 本章导航
 
-- **一句话概括**：Lee Evenson Brown (abusive father/husband) trapped on interstate in fog with passengers (mother, daughter Andrea, ex-wife Cindie) who are dead; he encounters accident scene (his own body), argues with ghosts of family, pays toll for stranger's car; "Somebody paid for you" (someone paid his toll); exits to turnpike toward home. Death as interstate journey; fog as purgatory; "Somewhere ahead of him, miles away, was the exit where he would turn off for home."
+- **一句话概括**：一条永远走不完的州际公路。Lee Evenson Brown 开着一辆租来的 Kia 困在浓雾里，车载时钟的数字毫无意义（20、32、64、97），收音机只有嘶声，左右车道的车总以更快的速度超过他。副驾上轮流坐着前妻、母亲、女儿、父亲——全是他躲不掉的过去；他要打的、恨的、道的歉都对着这些乘客说，而他们从来不在车上。故事的出口是一处收费站：他用攒下的十一枚二十五美分替前车付了通行费，却被告知「有人替你付过了」；于是他驶上明亮空旷的匝道，在几英里外找到了那个该拐回家的出口。
 
-- **时间**：当代（interstate, fog, endless drive）
+- **时间**：时间在这条路上失效：车载时钟从 20 走到 97，读数可能数的是天、周或月；雾里没有日出也没有日落；收费员卖的咖啡按「两俄布尔一杯」计价。
 
-- **地点**：interstate (fog, traffic jam); toll plaza; turnpike
+- **地点**：州际公路的五车道路段（浓雾、追尾现场、应急车辆、后视镜里的改装大灯）；穿雾而过的长匝道与收费广场（仅收现金、每车 2.75 美元、玻璃岗亭）；以及右边那条笔直明亮、几乎空无一车的收费公路。
 
-- **人物**：Lee Evenson Brown (narrator, abusive father/husband, dead)；Cindie (ex-wife, dead)；Andrea (daughter, dead, drummer)；mother (dead); father (dead, abusive, alcoholic)；Karen H. (toll collector)；stranger mother + son (in Camry)
+- **人物**：Lee Evenson Brown（叙述者，做过保险代理、汽车推销员、区域经理，一路躲着自己的话）；Cindie（前妻，十几年前离婚，没要抚养费就走了，一个人带大女儿）；Andrea（十几岁的女儿，戴牙套、青春痘、脾气随父亲，打鼓打进了地区赛）；母亲（刚从医院出来，病号服、发抖、眼下乌青）；父亲（酗酒者，动手打孩子，自称当年那几下「不算什么」）；开着丰田凯美瑞的年轻母亲与她的儿子（儿子已在翻车中死去）；收费员 KAREN H.。
 
-- **叙事手法**：Third-person (Lee) with ghost passengers (Cindie, Andrea, mother, father); death as interstate journey; fog as purgatory; clock counting up (20→97); "Somebody paid for you" = someone paid Lee's toll (redemption?); exits to turnpike toward home = death's resolution
+- **叙事手法**：第三人称限知贴着 Lee 的意识走：收音机的嘶声、仪表盘的数字、后视镜里的远光；副驾乘客的不断更替构成一副忏悔独白的框架，而乘客全是幻象；用美国公路电影的配件（皮卡、LED 大灯、收费站、汽水罐咖啡）把孤独写成制度性的；结尾以一个反向操作（替别人垫付通行费）完成转折。
 
-- **与后文的钩子**：Strahan Introduction 提到 "E. Lily Yu's story of a man driving down an interstate in the fog, with passengers who aren't really there." 本篇是选集的 purgatory 代表——death 作为 interstate journey; fog as purgatory; "Somebody paid for you" = redemption through others' payment. Theme: death as journey; family as ghosts; "Somewhere ahead of him, miles away, was the exit where he would turn off for home" = death's resolution.
+- **与后文的钩子**：本篇是选集里把「无处可去」写成一趟具体车程的一篇：所有来不及说的话都攒在一段堵车的里程里，而故事真正要做的只有一件事——让方向盘有一个该去的方向。
 
 ## 精读
 
 > **原句 1:** "The car’s clock showed 20, whatever that meant. It had shown 20 for a while now."
 
-- **中文理解**：「The car's clock showed 20, whatever that meant。It had shown 20 for a while now。」 （本块引语分析见上）
+- **中文理解**：「车上的时钟显示 20，管它是什么意思。它已经显示 20 有一阵子了。」麻烦在第一句就摆出来：仪表盘上的时间读数已经失灵——也许是某个将死的电路抹掉了最前面的两位数，按一下显示键也不回来。
 
 - **关键词**：clock showed 20 / whatever that meant / shown 20 for a while now
 
-- **为什么这样写**：Yu's "clock showed 20" = death's timelessness. "Whatever that meant" = Lee's confusion (time meaningless in purgatory). Clock ticks up later (64, 81, 97) = time passing in death's journey. This is the story's temporal structure: time exists but is meaningless until Lee confronts his failures.
+- **为什么这样写**：作者用一个仪表盘的数字开场，等于宣布这部小说里最靠得住的东西——时间——已经坏掉。而「管它是什么意思」三个字把主角的绝望与麻木一次写完：他还开着车，还在一路往前，却已经放弃追问读数代表什么。这句也替全篇立下规则：那个数字不是时间，是这个故事里唯一还在走的钟。
 
-- **读者视角提示**：Yu's "clock showed 20" = death's timelessness. Time meaningless in purgatory. Clock ticks up = progress toward resolution.
+- **读者视角提示**：全篇的数字一路往上涨：20、27、32、64、67、69、81、97——从不是天数。
 
 > **原句 2:** "He was alone. The interstate stretched endlessly before him"
 
-- **中文理解**：「He was alone。The interstate stretched endlessly before him。」 （本块引语分析见上）
+- **中文理解**：「他独自一人。州际公路在他面前无尽地伸展开去。」这一句落在他与前妻的长谈之后：她说完再见，他才发现这辆车里从头到尾只有自己。
 
 - **关键词**：He was alone / interstate stretched endlessly before him
 
-- **为什么这样写**：Yu's "He was alone" = Lee's realization—ghost passengers were projections (his guilt/memory). "Interstate stretched endlessly" = death's journey without end. But "Somewhere ahead... exit... home" = resolution exists. This is the story's thesis: death is endless journey, but exit (resolution) exists ahead.
+- **为什么这样写**：作者用两句极短的陈述收掉整段对话，把「有人陪着」写成一种随时会蒸发的东西。而「无尽地伸展」既是空间描述也是心理描述：路没有尽头，人也没有出口。此后文章再没写过「他一个人开」这类句子——因为底牌已经翻完，后面所有温度（母亲的手、女儿的手臂）都是叠在这句之上的幻象。
 
-- **读者视角提示**：Yu's "He was alone" = realization. Ghost passengers = projections. "Somewhere ahead... exit... home" = death's resolution.
+- **读者视角提示**：本篇的孤独是「有人无人」的孤独：副驾始终是满的。
 
 > **原句 3:** "Can anyone?"
 
-- **中文理解**：「Can anyone?」 （本块引语分析见上）
+- **中文理解**：「有人能（出去）吗？」那位母亲这样回答 Lee 的追问——她的儿子在翻车中已经死了，被关在车里出不来。三个词，一句没有说完的话。
 
 - **关键词**：Can anyone?
 
-- **为什么这样写**：Yu's "Can anyone?" = death's central question. No one can leave (interstate/purgatory). But Lee finds exit (toll plaza, turnpike, "Somewhere ahead... home"). "Can anyone?" = despair; Lee's exit = hope. This is the story's tension: death as trap vs. death as journey with exit.
+- **为什么这样写**：作者让全篇最短的一句台词承担最重的信息：一个母亲在描述自己孩子的尸体时，只能用这个反问。Lee 问「你儿子出不来吗」，她答「有人能吗」——主语是「任何人」，语气是反问，等于说她早就不指望有人能把他弄出来。而这句也让 Lee 的处境显形：他连「有人能出去吗」都答不上来，因为他自己也出不去。
 
-- **读者视角提示**：Yu's "Can anyone?" = despair. No one can leave. But Lee finds exit. Death as trap vs. journey.
+- **读者视角提示**：女人说自己「一直在问自己同样的问题」——她的茫然与 Lee 的茫然是同一件事。
 
 > **原句 4:** "Fail and get on with it."
 
-- **中文理解**：「Fail and get on with it。」 （本块引语分析见上）
+- **中文理解**：「失败了，就接着过下去。」母亲的忠告：外面这几十亿人，这个出轨、那个背叛，「数百万个失败，没什么特别的。失败了就接着过。」
 
 - **关键词**：Fail and get on with it
 
-- **为什么这样写**：Yu's "Fail and get on with it" = mother's advice—failure is universal, continue. "Fail" = Lee's failures (abusive father, absent husband); "get on with it" = continue despite failure. This is the story's thesis: death's journey continues despite failures. "Millions of failures. Nothing special." = failure is universal.
+- **为什么这样写**：这是全篇的题眼，也是作者对「重新开始」这套美国式话术的祛魅：母亲的方案不是原谅、不是振作，而是「不特别」——你并不比一个在超市收银台后面出轨的人更独特。作者偏偏让这句忠告由一个副驾上的幻象说出，说明 Lee 需要它才能继续往前开；而紧接着他就发现那只手已经不在了。他得到的不是安慰，是一句正确的废话，而正确的废话有时正是活下去所需的。
 
-- **读者视角提示**：Yu's "Fail and get on with it" = universal failure, continue. Death as continuation despite failure.
+- **读者视角提示**：前一句是「我嫁给你父亲是有理由的」「你父亲做了他的选择，你也做了你的」——失败在这套说法里被摊平成一件普遍的事。
 
 > **原句 5:** "Somebody paid for you."
 
-- **中文理解**：「Somebody paid for you。」 （本块引语分析见上）
+- **中文理解**：「有人替你付过了。」Lee 把攒下的十一枚二十五美分塞给收费员、替前车付了通行费，正要道歉，收费员却说：你可以过去，有人替你付过了。
 
 - **关键词**：Somebody paid for you
 
-- **为什么这样写**：Yu's "Somebody paid for you" = redemption. Lee paid for stranger's car (act of grace); someone paid for Lee (grace received). "Somebody" = unknown (God? deceased? Cindie?). This is the story's thesis: grace is received, not earned. Lee's toll paid by another. Death's resolution through others' payment.
+- **为什么这样写**：这是全篇的机关：作者把「替别人付钱」这个动作反转成「有人替你付过钱」。收费员的一句随口话把 Lee 从这条路上解放出来——他一直以为只有自己在付出、在等待、在找出口；而其实有人已经替他付过了。他随即追问「她也被付过了吗，在她到这儿之前」，对方点头——连那个抱着死孩子的母亲也被照顾到了。作者用两个最市侩的场景（收费、买咖啡）写出了全篇最像神迹的事。
 
-- **读者视角提示**：Yu's "Somebody paid for you" = redemption. Grace received, not earned. Lee's toll paid by another.
+- **读者视角提示**：收费员要把那 2.75 美元花在自动贩卖机的咖啡上：「两俄布尔一杯，不过这附近你还能找到什么。」
 
 > **原句 6:** "Somewhere ahead of him, miles away, was the exit where he would turn off for home."
 
-- **中文理解**：「Somewhere ahead of him, miles away, was the exit where he would turn off for home。」 （本块引语分析见上）
+- **中文理解**：「在他前方几英里处，有一个出口，他会在那里转回家。」全篇最后一句。
 
 - **关键词**：Somewhere ahead of him / miles away / exit where he would turn off for home
 
-- **为什么这样写**：Yu's final line—"Somewhere ahead... exit... home"—= death's resolution. "Somewhere ahead" = hope exists; "miles away" = distance remains; "turn off for home" = death's destination (home). This is the story's thesis: death is journey with exit (home). Lee's realization: he knows where he's going. Death as journey, not trap.
+- **为什么这样写**：作者把出口写成「他会在那里转回家」——不是「他可以」，是「他会」；这个肯定句是整部小说给出的第一份、也是唯一一份未来。而它成立的条件都被清空了：路不再无尽，时钟不再有意义，副驾空着，车里只剩下自己的呼吸。结尾没有交代他是谁、要回哪个家，也没有让他真的转出去——他只是知道了方向。
 
-- **读者视角提示**：Yu's final line = death's resolution. "Somewhere ahead... exit... home" = hope. Death as journey with exit.
+- **读者视角提示**：这与开篇「州际公路在他面前无尽地伸展开去」正好成对：前一句说路没有尽头，末一句说出口一直在，只是很远。
 
 ## 本章词汇
 
@@ -109,4 +109,4 @@
 
 ## 一句话总结
 
-Yu 的 "Down the Interstate" 是选集中最 purgatory-journey 的 story：Lee Evenson Brown (abusive father/husband) trapped on interstate in fog with passengers (mother, daughter Andrea, ex-wife Cindie) who are dead; he encounters accident scene (his own body), argues with ghosts of family, pays toll for stranger's car; "Somebody paid for you" (someone paid his toll); exits to turnpike toward home. Yu 的 thesis："death as interstate journey"—"clock showed 20" = death's timelessness; "He was alone" = realization (ghost passengers = projections); "Can anyone?" = despair (no one can leave); "Fail and get on with it" = universal failure, continue; "Somebody paid for you" = redemption (grace received, not earned); "Somewhere ahead... exit... home" = death's resolution (hope exists). This is the anthology's "death as purgatory journey" counterpoint. Theme: death as interstate journey; fog as purgatory; family as ghosts; "Somebody paid for you" = redemption; "Somewhere ahead... exit... home" = death's resolution. Lee's journey: from hostility (flipping bird at fog) to acceptance (paying toll for stranger) to hope (exit toward home). Death as journey with exit, not trap. "Can anyone?" = despair answered by "Somewhere ahead... exit... home" = hope. Grace received (someone paid for him) not earned. Death as journey, not destination. "Somewhere ahead of him, miles away, was the exit where he would turn off for home." = final hope. Death's resolution exists, ahead.
+E. Lily Yu 的「沿州际公路往下」是一段堵在雾里的忤悔。Lee Evenson Brown 开着一辆租来的 Kia，车载时钟的数字早就坏了，收音机只有嘶声，后面的皮卡按着喇叭催命，左右车道的车却总以更快的速度超过他。副驾上轮流坐着几个他躲不掉的人：前妻 Cindie、刚出医院的母亲、十几岁的女儿 Andrea、酗酒的父亲——他们都不在车上，他把要打的、恨的、道的歉全说给了这些乘客听。路上有三车追尾，盖布下的那具尸体让他觉得是自己；另一辆车里，死了孩子的母亲只能回答一句「有人能吗」。他母亲留下的那句话是全篇的骨头：数百万个失败，没什么特别的，失败了就接着过。而结尾在收费站：他把自己攒的十一枚二十五美分替别人的车付了通行费，收费员打着哈欠说，有人替你付过了。于是他驶上那条明亮空荡的收费公路，并在几英里外，看见了该拐回家的出口。

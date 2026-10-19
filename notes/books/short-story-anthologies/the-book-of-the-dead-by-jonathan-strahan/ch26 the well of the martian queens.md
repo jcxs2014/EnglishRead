@@ -2,59 +2,59 @@
 
 ## 本章导航
 
-- **一句话概括**：Documentary-style account of Martian Royal Shaft Grave 7 (Queenswell)—largest burial site on Mars; 85 queens buried over Fifth Empire; Queen 85's tomb (QW85) empty; mummy found 2000km away in Terra Sabaea (Lost Queen's Tomb); Neumann's autobiography suggests Queen 85 "found she did not want to go in"—refused burial in her tomb, fled to die elsewhere. Death as refusal of ritual; "The queen is dead. Long live the queen." (Powell's fictional account of ritual).
+- **一句话概括**：以学术报告体写成的一篇火星考古志。编号 7 的王室竖井墓（俗称皇后井）是火星地表已知最大、最复杂的单一墓葬：竖井深四百余米，螺旋石阶盘旋而下，每层墓室按设计预留、逐代启用。可最后一座墓 QW85 从未被使用——没有棺椁、没有陪葬品，门却照常封上；直到一百五十一年后，两千里外萨巴地亚的一座小墓里出土一具王室木乃伊，基因比对显示她正是 QW85 预定的主人。而墓志作者 Neumann 给出的解释是全书最温柔的一种：她也许走到过坑边，看见了自己那座等待着她的墓，然后不想下去了。
 
-- **时间**：Martian Year (MY) 131 discovery; Fifth Empire (Martian dynasty)
+- **时间**：火星纪年 MY 131 发现，MY 132–133 首次激光扫描，MY 140 联合队入内，MY 151 找到失落女王墓；其间的王朝更替包括第五王朝的衰落、第六王朝崩溃后的「火星大乱」；并穿插一个地球上的当下——考古与出版。
 
-- **地点**：Mars (Margaritifer Terra, Aram Chaos, Terra Sabaea, Olympus)
+- **地点**：火星玛格丽特福雷 Terra、阿拉姆混沌东北的皇后井（竖井口径六十米、深四百一十七点八米，内有一道从井壁直接凿出的螺旋石阶与八十余座墓室）；萨巴地亚 Terra 的一座半地表小墓；西奈基地；帕沃；奥林帕斯的火星行星博物馆。
 
-- **人物**：Professor Anna Neumann (areoarchaeologist, author of In the Footsteps of the Queens)；Sophie Becker (research assistant, fell to death)；Jeremiah Powell (bestselling author, Secrets of the Queenswell)；Queen Iron (first queen, QW1)；Queen 85 (missing mummy, found in Terra Sabaea)
+- **人物**：Anna Neumann（海德堡大学行星学系教授，皇后井的第一位领队，《在女王的足迹上》的作者与叙述者）；Sophie Becker（她的研究助理，独自下井时坠亡）；Jeremiah Powell（《皇后井的秘密》作者，那段著名描写出自他手）；Roberto Manza（帕多瓦大学学者，主张竖井是逐层加深的）；铁女王（QW1 的主人，第五王朝的奠基者）；以及 QW85 那位始终没有下坑的最后一位女王。
 
-- **叙事手法**：Academic documentary (archaeological report style); fictional academic paper with footnotes; Powell's fictional account embedded; Neumann's autobiography excerpts; "Perhaps she found she did not want to go in" as Neumann's closing speculation
+- **叙事手法**：以博物馆说明与学术综述的体例写成：分节有小标题（历史背景／发现／布局／「螺旋效应」／历史与使用／仪式层面／学术意义／QW85 与「失踪的木乃伊」），在严谨考据中不断插入自相矛盾的假说与相互驳难的学者；最著名的一段引文被作者当场判定为「推测乃至全然虚构」；结尾由一段带「也许」的自述推翻了整篇的宏大论证。
 
-- **与后文的钩子**：Strahan Introduction 提到 "Tamsyn Muir's story of a Martian royal tomb, and the queen who may have refused to be buried in it." 本篇是选集的 SF/documentary 代表——death 作为 ritual (burial ceremony); Queen 85's refusal = death as choice; "perhaps she found she did not want to go in" = death as refusal of expected path. Theme: death as ritual; burial as dynastic performance; refusal of burial as agency; "The queen is dead. Long live the queen" = death's continuity.
+- **与后文的钩子**：Strahan 在 Introduction 里说，这本选集最终由 Tamsyn Muir 那篇「受古埃及启发的火星葬俗」一敲定音；本篇正是那一篇。它把「死亡」写成一条被精心设计、被代代继承的建筑制度，而全篇的反转是：制度里唯一被拒绝执行的那一次，恰恰是那位女王自己的死。
 
 ## 精读
 
 > **原句 1:** "It is the largest and most complex single burial site yet discovered on the surface of Mars"
 
-- **中文理解**：「It is the largest and most complex single burial site yet discovered on the surface of Mars。」 （本块引语分析见上）
+- **中文理解**：「这是迄今在火星地表发现的最大、最复杂的一处单一墓葬。」一句冷静的定语，打开了这篇全知视角的报告：编号 7 的王室竖井墓，俗称皇后井，位于玛格丽特福雷 Terra、阿拉姆混沌东北，由海德堡大学的一个团队在火星纪年 131 年通过无人机航测发现。
 
 - **关键词**：largest and most complex / single burial site / surface of Mars
 
-- **为什么这样写**：Muir establishes Queenswell's scale—largest/most complex burial site on Mars. "Single burial site" = one shaft grave, 85 queens. "Yet discovered" = archaeological humility. This is the story's setting: Mars's grandest tomb.
+- **为什么这样写**：作者选择用博物馆展签式的定语开篇，而不是先讲故事——这是全篇体裁的宣言：它要先把「事实」这套骨架搭稳，读者才会随后的「也许」心软。而「最大、最复杂」这组最高级在后面会被反复兑现：口径六十米、深四百一十七点八米的竖井，凿在岩石里的螺旋石阶，每二十五级一个平台，八十余座按图预留的墓室。规模本身就是论证的一半。
 
-- **读者视角提示**：Muir's "largest and most complex" = Queenswell's significance. "Single burial site" = one shaft, 85 queens.
+- **读者视角提示**：火星纪年（MY）与地球年份无关；本篇所有年代都用这套火星人自己的历法。
 
 > **原句 2:** "Like all the most powerful symbols, this one was anything but subtle."
 
-- **中文理解**：「Like all the most powerful symbols, this one was anything but subtle。」 （本块引语分析见上）
+- **中文理解**：「和所有最有力的象征一样，这一个一点也不含蓄。」这是 Jeremiah Powell 描述火星王室入葬仪式时写下的句子，也是本篇引用最多的那段文字的开头：年轻公主带队送葬、走入螺旋石阶、片刻后带着王冠重新出现在坑口。
 
 - **关键词**：Like all the most powerful symbols / anything but subtle
 
-- **为什么这样写**：Muir (via Powell) establishes burial ritual as powerful symbol—obvious, not subtle. "Most powerful symbols" = subtlety weakens symbol. "Anything but subtle" = ritual must be overt. This is the story's critique of ritual: power through obviousness. Powell's fictional account (likely inaccurate) seized public imagination.
+- **为什么这样写**：作者把这句放在这里是有意为之：它既是那段著名描写的开场，也是作者自己马上要推翻的那段描写的开场。Powell 写得像电影分镜——人群、棺材、珠宝在火星阳光下闪光、坑口新星升起——而作者随后用一整段交代：这段描写「要么是推测，要么全然是虚构」，除几块可能只有象征意味的浮雕外别无实据。含蓄与不含蓄的一层对照正是全篇的引信：最不含蓄的象征，恰恰是最没有证据的那一个。
 
-- **读者视角提示**：Muir's "anything but subtle" = ritual's power through obviousness. Powell's fictional account.
+- **读者视角提示**：Powell 的书是畅销书，这段入葬描写在公众心中几乎成了火星王室葬礼的标准形象——而它未经证实。
 
 > **原句 3:** "The queen is dead. Long live the queen."
 
-- **中文理解**：「The queen is dead。Long live the queen。」 （本块引语分析见上）
+- **中文理解**：「女王死了，女王万岁。」这是那段仪式描写里最著名的一句：统治者当着臣民的面走进死亡，又当场重生，王位没有出现空档，也没有交接的缝隙。
 
 - **关键词**：The queen is dead / Long live the queen
 
-- **为什么这样写**：Muir (via Powell) uses "The queen is dead. Long live the queen" as ritual's climax—death and ascension as continuous. "No break" = sovereignty persists. This is the story's central image: death as transition, not end. But Powell's account is "conjectural or wholly fictional"—the real ritual (if any) is unknown. The phrase's power is its simplicity.
+- **为什么这样写**：作者把这句放在全篇中段而不是结尾，是耐心的安排——因为这句台词此刻还只是一个「流传形象」的一部分，读者若在此刻被它打动，后面的反转才真正有力。它的句法本身也是全篇的缩影：死亡与继位被压进同一口气里，中间没有停顿、没有仪式性的空白，仿佛王权可以在尸体还热着的时候完成交接。而全篇最后给出的答案恰恰相反：这一次，继位的前提是那个人拒绝下去。
 
-- **读者视角提示**：Muir's "The queen is dead. Long live the queen" = death as continuity. Powell's fictional account. Power through simplicity.
+- **读者视角提示**：这句是「旧王驾崩，新王万岁」的传统套语在火星版本里的改写；作者借它写出「王权无缝」这一政治神学的全部前提。
 
 > **原句 4:** "Perhaps she saw her own tomb waiting for her there, far below, beneath the layered treasures and the layered sins of her long and illustrious line. And perhaps, like me, she found she did not want to go in."
 
-- **中文理解**：「Perhaps she saw her own tomb waiting for her there, far below, beneath the layered treasures and the layered sins of her long and illustrious line。And perhaps, like me, she found she did not want to go in。」 （本块引语分析见上）
+- **中文理解**：「也许她看见了自己的墓就在下面，在那漫长显赫的世系层层叠叠的宝藏之下、层层叠叠的罪孽之下。也许，和我一样，她发现自己不想进去了。」这是 Neumann 在修订版自传最后补写的一章里的收束。
 
 - **关键词**：saw her own tomb waiting / layered treasures and layered sins / like me / did not want to go in
 
-- **为什么这样写**：Muir's "did not want to go in" = Queen 85's agency—she refused burial. "Layered treasures and layered sins" = dynastic accumulation (wealth + guilt). "Like me" = Neumann's empathy (she felt pull to fall). This is the story's thesis: death can be refused; burial is not inevitable. Queen 85 fled to die elsewhere (Lost Queen's Tomb, 2000km away). "Did not want to go in" = death as choice, not duty.
+- **为什么这样写**：全篇的论证在这里被一句话抽掉地板：不是王朝政策，不是宗教忌讳，不是社会动荡——「这是一个非常人性化的解释，而或许正因为如此，它在研究火星人的著作里没有位置，因为火星人本质上仍与我们如此陌生」。作者还把这句与开篇的探险自述扣在一起：当年是她自己爬到坑边往下看，被一只温柔的手推着把头探出坑沿；如今她把同样的经验安给一位从未留下文字的女王。于是「空墓」不再是谜题，而是拒绝——一个人被制度安排好的位置所拒绝。
 
-- **读者视角提示**：Muir's "did not want to go in" = Queen 85's refusal. Death as choice. "Layered treasures and layered sins" = dynastic accumulation. Neumann's empathy.
+- **读者视角提示**：那句「也许」是全篇的重心：整篇考古学为它搭建了全部重量，而它自己什么也不证明。
 
 ## 本章词汇
 
@@ -90,4 +90,4 @@
 
 ## 一句话总结
 
-Muir 的 "The Well of the Martian Queens" 是选集中最 documentary-style SF 的 story：Documentary-style account of Martian Royal Shaft Grave 7 (Queenswell)—largest burial site on Mars; 85 queens buried over Fifth Empire; Queen 85's tomb (QW85) empty; mummy found 2000km away in Terra Sabaea (Lost Queen's Tomb); Neumann's autobiography suggests Queen 85 "found she did not want to go in"—refused burial in her tomb, fled to die elsewhere. Muir 的 thesis："death as ritual and refusal"—burial as dynastic performance ("The queen is dead. Long live the queen" = death as continuity); Queen 85's refusal = death as choice (not duty); "layered treasures and layered sins" = dynastic accumulation (wealth + guilt); "like me" = Neumann's empathy (she felt pull to fall). "Perhaps she found she did not want to go in" = death as refusal of expected path. This is the anthology's "death as refusal" counterpoint. Theme: death as ritual; burial as dynastic performance; refusal of burial as agency; "The queen is dead. Long live the queen" = death's continuity; "did not want to go in" = death as choice. Queen 85's agency: she saw her tomb and refused. Death as choice, not duty. Neumann's empathy: "like me, she found she did not want to go in." Death as personal, not institutional. Powell's fictional account seized public imagination—"The queen is dead. Long live the queen." = death's power through simplicity. But the real story (Queen 85's refusal) is quieter, more human. Death as refusal. Death as choice. "Perhaps she found she did not want to go in." = the story's final word. Death as agency.
+Tamsyn Muir 的「火星女王的井」是一篇写得像学术报告的短篇，讲的却是最有人情味的一次抗命。编号 7 的王室竖井墓是火星地表最大最复杂的墓葬，四百多米深的竖井里盘着凿出来的螺旋石阶，八十余座墓室像预先算好的棋位等着人来用；作者用大段篇幅写它的历史、测量、仪式与学术争论，也毫不客气地指出那段最广为流传的入葬描写「要么是推测，要么全然是虚构」。真正的谜面是最后一座墓 QW85：空着、干净、从未启用，却照常封了门。答案在两千里外——一具被草草丢弃的王室木乃伊，基因比对有 98.7% 的把握说她就是那座空墓的主人。Neumann 在修订版末尾给出一个没有多少学术分量的解释：那位女王也许像她一样走到坑边往下看，看见了自己那座等在底下的墓，看见层层宝藏下面压着的层层罪孽，然后发现自己不想下去了。
