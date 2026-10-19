@@ -160,5 +160,4 @@ modified: "2026-10-19"
 | Smith & Wesson | 史密斯威森（枪） | department issued Smith & Wesson |
 
 ## 一句话总结
-
 Shelby 在站里与 Erickson 复盘，确认 Bobby 被排除、转查 Adderall/Ambien 供应商；Erickson 送她回家，Shelby 回家喂猫 Queenie、推断 supplier 是 “a father”，章末凌晨被砖块砸窗，纸条写 “BOBBY DID IT”。

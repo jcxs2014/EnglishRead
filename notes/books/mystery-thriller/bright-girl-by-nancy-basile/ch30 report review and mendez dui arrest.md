@@ -93,7 +93,7 @@ modified: "2026-10-19"
 
 ---
 
-> **原句 7:** “Unfortunately, nothing. Mr. Mendez is telling the truth. The video shows him exiting the parking garage just before one a.m.” … “The car he was towing is stolen.” … “Great minds run alike.” … “The mug says it all. I’m awesome.”
+> **原句 7:** “Unfortunately, nothing. Mr. Mendez is telling the truth. The video shows him exiting the parking garage just before one a.m.”
 
 **中文理解**：Naomi 说：“Unfortunately, nothing。Mr. Mendez is telling the truth。The video shows him exiting the parking garage just before one a.m。”…Erickson 说：“The car he was towing is stolen。”…Shelby 说：“Great minds run alike。”…Erickson 说：“The mug says it all。I’m awesome。”
 
@@ -137,5 +137,4 @@ modified: "2026-10-19"
 | bushy-tailed | 精神抖擞的 | bright-eyed and bushy-tailed |
 
 ## 一句话总结
-
 Shelby 夜读 Erickson 报告，决定不更新（防 mole），查 Gazette 报道 Mrs. Chandler 引语；章中段 Shelby 回忆 “past intruding on present”；章末 Damien Mendez 因 DUI + stolen towed car 被捕，Naomi 报 casino 视频确认 alibi。

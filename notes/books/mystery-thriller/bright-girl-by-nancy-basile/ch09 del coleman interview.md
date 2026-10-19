@@ -206,7 +206,4 @@ modified: "2026-10-19"
 | shoulders | 肩膀 | Del shrugged his beefy shoulders, his eyes on the ground. |
 
 ## 一句话总结
-
 Shelby 与 Erickson 去 Del Coleman 家询问，Del 与父亲描述 Bobby 的 “school jersey” 传统与 Whitney 的药物使用，Del 在门外透露 Whitney 偶尔服药（Adderall/Valium）且 Bobby 对此不满，章末两人判断 Del 没说全、Whitney 不会是唯一使用者，决定搜查 Whitney 房间并再找 Bobby。
-
----

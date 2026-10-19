@@ -124,5 +124,4 @@ modified: "2026-10-19"
 | phone | 手机、电话 | Then I grabbed her purse and her phone |
 
 ## 一句话总结
-
 Shelby 与 Erickson 审讯 Wheeler；Wheeler 坦白：drugs for college money, Whitney’s cut dispute, other kids (5-6), wore jersey to implicate Bobby, strangled Whitney at pool, took purse/phone, burned clothes, threw brick “BOBBY DID IT”;章末 “What happens now?”

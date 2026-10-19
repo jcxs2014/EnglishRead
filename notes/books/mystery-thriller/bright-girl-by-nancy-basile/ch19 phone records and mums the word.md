@@ -172,6 +172,4 @@ modified: "2026-10-19"
 | typed messages | 打印信息 | They have typed messages attached to the stem, |
 
 ## 一句话总结
-
 Shelby 与 Erickson 回到 bullpen 分工推进：Will 去 canvass home cameras/bird feeders 沿 Whitney 从 Bobby 家到 pool 的路线；Naomi 交出 Whitney 的 phone records（含与 Tom Long 的 brief calls，包括死当晚一通）与 Tom 的 probation（drinking + PDA）；Will 报告 Whitney 的 locker 里只有 doodles 与三朵干枯的 mums——两朵署名 Bobby/Del，第三朵匿名，消息 “Mum’s the word”，章末 Erickson 的 “Of course it was” 把匿名 mum 推成新 hook。
----

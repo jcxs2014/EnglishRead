@@ -226,9 +226,4 @@ modified: "2026-10-19"
 | storm door | 风门、纱门 | The bright sun cast their reflections on the glass storm door |
 
 ## 一句话总结
-
 Shelby 与 Erickson 去 Tom Long 家面试，Long 给出 Pittsburgh alibi、Whitney “best Quiz Bowl player / photographic memory”的 portrait、与 Whitney 的 “one on one / TikTok dances” 的 “appropriate” 关系；章末 Austin 的 “Not like Dad did” 与 Long 的 “don’t call it a date” 把 “Tom Long” 推进 “suspect-adjacent” 的 thread，Erickson 的 “stools” joke 收尾。
----
-
-Need check quote exactness. I used "..." in Q5? I wrote "I’m sure Al told you. We were at a hotel in Pittsburgh for a conference. ... To be honest, I can’t remember..." That's a splice! Need fix. Also Q6 splices. Let's run gates first.<|end|><|start|>Assistant to=shell<|channel|>analysis <|constrain|>xml<|message|><rfl:parameter name="command">
-cd /Users/jcxs2014/Documents/Works/EnglishRead && EP="notes/books/mystery-thriller/bright-girl-by-nancy-basile/library/Bright Girl (Nancy Basile) (Z-Library).epub" && python3 scripts/verify_quotes.py "notes/books/mystery-thriller/bright-girl-by-nancy-basile" "$EP" 2>&1 | tail -3 && python3 scripts/sweep_full.py "notes/books/mystery-thriller/bright-girl-by-nancy-basile" --quiet 2>&1 | tail -3 && python3 scripts/sweep_full.py "notes/books/mystery-thriller/bright-girl-by-nancy-basile" 2>&1 | grep "🔶"

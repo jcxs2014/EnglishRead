@@ -33,11 +33,11 @@ modified: "2026-10-19"
 
 ---
 
-> **原句 2:** “We received a video from the Louderback bird feeder, about halfway between Bobby’s and the pool.” … “You can’t see her face, but who else would it be?” … “I don’t like to presume anything, but you’re right about two things.”
+> **原句 2:** “Officer Kim, I need you to check security footage of the Rivers Casino in Pittsburgh for the night Whitney was murdered.”
 
-**中文理解**：Naomi 说：“We received a video from the Louderback bird feeder, about halfway between Bobby’s and the pool。”…“You can’t see her face, but who else would it be?”…Shelby 说：“I don’t like to presume anything, but you’re right about two things.”
+**中文理解**：Naomi 说，他们收到了 Louderback bird feeder 的视频，约在 Bobby 家与 swimming pool 的中途。Shelby 说她不喜欢 presumption，但 Naomi 说得对。
 
-**关键词**：Louderback bird feeder／who else would it be?／I don’t like to presume anything
+**关键词**：security footage of the Rivers Casino／Rivers Casino in Pittsburgh
 
 **为什么这样写**：作者把 “evidence” 写成 “I don’t like to presume anything”——deliberate 让 “Shelby” 落成 “careful, professional” 的 register，把 “who else would it be?” 作为 “assumption” 的 thread。这条 “I don’t like to presume anything” 把 “Shelby” 从 “hopeful” 推进到 “cautious” 的 thread。
 
@@ -136,5 +136,4 @@ modified: "2026-10-19"
 | dinner | 晚餐 | Dinner? |
 
 ## 一句话总结
-
 Shelby 让 Naomi 查 Rivers Casino footage；Shelby 与 Erickson 讨论 Damien 是否 supplier；Will 报 pharmacy 无异常；Naomi 带 Damien 文件；Erickson 读 Mendez priors（B&E, boosting, lawyer Rose Capito）；章末 Erickson 邀 Shelby 吃晚饭。

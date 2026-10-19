@@ -174,5 +174,4 @@ modified: "2026-10-19"
 | limp | 软绵绵的、瘫软的 | letting his body go limp |
 
 ## 一句话总结
-
 Shelby 与 Erickson 在废弃 Kmart 停车场追上并逮捕 Daniel Mendez；Daniel 透露 Bobby 可能在 Del Coleman 家；两人把 Daniel 留在站里，借搜查令闯 Coleman 家，Bobby 跳后院围栏逃跑，Shelby 用身体冲撞放倒 Bobby，章末 Del 对父亲说 “We have to tell them… It’s time.”

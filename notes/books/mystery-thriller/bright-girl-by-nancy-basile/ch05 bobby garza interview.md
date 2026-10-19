@@ -237,9 +237,4 @@ modified: "2026-10-19"
 | tissue | 纸巾 | His mother, also with tears brimming in her eyes, rubbed her hand over his back. |
 
 ## 一句话总结
-
 Shelby 与 Erickson 去 Bobby Garza 家 notify-and-interview，Bobby 与母亲 Rosa 从 “crying” 到 “alibi”（afterparty ~40 人、Bobby 全程在场、Del Coleman 收尾），章末 Bobby 在门口主动 statement “I didn’t do it. I was here all night”，Shelby 的 “big hands / icicles” 与 Erickson 的 “interesting speech” 把 Bobby 推进 “suspect with alibi” 的 thread，forensics 召回。
----
-
-Need check quote exactness and splices. Q8 splices "That was an interesting speech. ... Don’t you think? ... Yeah, interesting. ... His hands are pretty big..." etc. Need split. Let's run verify/sweep first.<|end|><|start|>Assistant to=shell<|channel|>analysis <|constrain|>xml<|message|><rfl:parameter name="command">
-cd /Users/jcxs2014/Documents/Works/EnglishRead && EP="notes/books/mystery-thriller/bright-girl-by-nancy-basile/library/Bright Girl (Nancy Basile) (Z-Library).epub" && python3 scripts/verify_quotes.py "notes/books/mystery-thriller/bright-girl-by-nancy-basile" "$EP" 2>&1 | tail -3 && python3 scripts/sweep_full.py "notes/books/mystery-thriller/bright-girl-by-nancy-basile" --quiet 2>&1 | tail -4

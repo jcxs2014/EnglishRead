@@ -138,5 +138,4 @@ modified: "2026-10-19"
 | trunk | 行李箱、后备箱 | She moved to the trunk |
 
 ## 一句话总结
-
 Shelby 与 Erickson 追 Wheeler；Wheeler 儿子透露 “school emergency”；雨中高速追车；Wheeler 转弯滑落山脊；Shelby 逮捕 Wheeler；后备箱发现 framed Bobcats jersey + Whitney 的 purse/cellphone；Erickson “margaritas are on me.”

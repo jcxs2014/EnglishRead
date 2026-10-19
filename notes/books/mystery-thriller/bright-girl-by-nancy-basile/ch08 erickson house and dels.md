@@ -170,7 +170,4 @@ modified: "2026-10-19"
 | silver lining | 一线希望 | a silver lining just means you’re in the eye of the storm. |
 
 ## 一句话总结
-
 Shelby 去 Erickson 家接他上班，发现 Erickson 家“cozy”而非 sports bar，Erickson 透露 girlfriend Imogen 因 Outlaw Music Festival 启发搬去 Seattle；两人喝 Kroger hazelnut 咖啡，Erickson 讲父母 Florida 退休与家族农场；章末两人 headed to Del Coleman’s，Shelby 预感 “won’t find him at Del’s”。
-
----

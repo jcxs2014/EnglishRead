@@ -69,7 +69,7 @@ modified: "2026-10-19"
 
 ---
 
-"> **原句 5:** They’ve been dating about a year.
+> **原句 5:** They’ve been dating about a year.
 
 **中文理解**：Lisa 说他们 dating about a year。
 
@@ -256,9 +256,4 @@ modified: "2026-10-19"
 | tissue | 纸巾 | Dabbing at her puffy face with a well-used tissue. |
 
 ## 一句话总结
-
 Shelby 与 Naomi 去 Whitney 的父母家做 notify-and-interview，把死者的夜间时间线、wristlet 内容、Whitney 与 Skye 的学业竞争、以及 “a man strangled her” 的法医推断一并摆上桌面，章末两侦探决定先问 Bobby 与 Skye，以 McDonald’s hash browns 收尾。
----
-
-Need check quote exactness. Q2 I wrote "After dinner, about six o’clock," ... but actual first line "After dinner, about six o’clock," then next paragraph? Let's verify quotes. Q4 combined two separate lines? I combined "They’ve been dating about a year," Lisa said... and Jeremy's speech. That's a cross-tag splice! Need fix. Let's split Q4. Also Q1 okay. Q3 single. Q5 single. Q6 single. Q7 single. Q8 single. Q9 single. Q10 single. Need fix Q4 splice. Let's edit.<|end|><|start|> paramName="path">
-notes/books/mystery-thriller/bright-girl-by-nancy-basile/ch02 chandler family interview.md

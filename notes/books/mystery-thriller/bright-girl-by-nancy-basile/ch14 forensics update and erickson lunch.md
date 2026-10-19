@@ -175,7 +175,4 @@ modified: "2026-10-19"
 | caplets | 胶囊片 | popping two caplets. |
 
 ## 一句话总结
-
 Shelby 与 Erickson 在 Mario’s 晚餐时因 Bobby 是否为凶手激烈争执，Shelby 首次向 Erickson 坦露自己因“past is clouding my judgement”而过度谨慎；章末 Naomi 电话确认避孕套盒上除 Whitney 外还有 Daniel Mendez 的指纹，Shelby 因家庭承诺提前离开，Erickson 留在警局继续跟进。
-
----

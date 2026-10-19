@@ -201,11 +201,4 @@ modified: "2026-10-19"
 | tissue | 纸巾 | A woman clutched a tissue to her face |
 
 ## 一句话总结
-
 Shelby 去 Hilltop Memorial Gardens 拜访亡夫 Shawn 的骨灰，偶遇 Whitney 父母与 Skye Stevens；Skye 抖出 Tom Long 的 “probation”（被 Wheeler 抓到 drunk on school property）与 “Don Jr.”（Wheeler 的儿子）的信息，把 Long 从 “creepy coach” 推进 “probation + motive” 的 thread，章末 “angel” 的反讽收尾。
----
-
-Need check quotes. Q7 splices "I know, right? Like, why am I hanging out in a cemetery? Gross. ... Whitney’s parents wanted me to meet them here..." Need split. Also Q3/Q4 splices? Q3 is single continuous? "Cremated, for sure," Shawn had said. "Probably interred back home in Locust Grove. My parents have plots, but I want to be cremated." That's two separate utterances with "Shawn had said." between? Actually text: 
-“Cremated, for sure,” Shawn had said. “Probably interred back home in Locust Grove. My parents have plots, but I want to be cremated.”
-So my quote joins two utterances with "Shawn had said." omitted. Splice. Need split. Q4 similarly two utterances. Q8 maybe "Before he got caught slobbering all over Miss Pugh in her car. ... So gross." splice. Let's run gates to see.<|end|><|start|>Assistant to=shell<|channel|>analysis <|constrain|>xml<|message|><rfl:parameter name="command">
-cd /Users/jcxs2014/Documents/Works/EnglishRead && EP="notes/books/mystery-thriller/bright-girl-by-nancy-basile/library/Bright Girl (Nancy Basile) (Z-Library).epub" && f="notes/books/mystery-thriller/bright-girl-by-nancy-basile/ch16 shelby at hilltop memorial and skye.md" && python3 scripts/verify_quotes.py "notes/books/mystery-thriller/bright-girl-by-nancy-basile" "$EP" 2>&1 | tail -2 && python3 scripts/sweep_full.py "notes/books/mystery-thriller/bright-girl-by-nancy-basile" --quiet 2>&1 | tail -2 && python3 scripts/sweep_full.py "notes/books/mystery-thriller/bright-girl-by-nancy-basile" 2>&1 | grep "🔶"

@@ -186,7 +186,4 @@ modified: "2026-10-19"
 | timeline | 时间线 | Paint a clearer picture, fill in the timeline. |
 
 ## 一句话总结
-
 Shelby 与 Erickson 向 Captain Guerrero 汇报时间线、Bobby 的“home all night” alibi、无摄像头与手机钱包 purse 缺失；Guerrero 要求 cast the net；章末去 Garza 家，Bobby 不在家，Mrs. Garza 坚称“barking up the wrong tree”，两人决定不发 APB、先去 Del’s。
-
----

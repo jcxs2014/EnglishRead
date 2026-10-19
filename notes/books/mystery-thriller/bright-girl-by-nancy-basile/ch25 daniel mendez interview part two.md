@@ -150,5 +150,4 @@ modified: "2026-10-19"
 | horseshit | 胡说八道（粗口） | I ain’t got money for that horseshit |
 
 ## 一句话总结
-
 Shelby 与 Erickson 再访 Daniel，Daniel 透露 Whitney 对 Mr. Long 的 “coming on to her”、Whitney 的 “other kids she gave shit to”、否认 being “next” suspect；Daniel 的父亲打断采访；章末 Daniel 跟父亲进 trailer，采访结束。

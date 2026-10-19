@@ -266,9 +266,4 @@ modified: "2026-10-19"
 | swimming pool | 游泳池 | The empty swimming pool where the girl had been dumped. |
 
 ## 一句话总结
-
 Shelby Reed 在 Locust Grove 一处废弃游泳池的深端发现被勒死的少女 Whitney Chandler，整章在犯罪现场与法医、搭档 Naomi 之间展开，把死者身份、男友 Bobby Garza 的身家、红色纤维与被拿走的手机等线索一并摆上桌面，最后 Shelby 与 Naomi 一起上路去通知 Whitney 的父母。
----
-
-Wait, I made a typo in Q2: "girls 被丢弃的" mixed Chinese/English. Need fix: "女孩被丢弃的空游泳池". Let me edit. Also Q1 "Too bad. She was pretty, and so young." fine. Need ensure quotes exact. Let's fix typo.<|end|><|start|> paramName="path">
-notes/books/mystery-thriller/bright-girl-by-nancy-basile/ch01 detective reed finds whitney chandler.md

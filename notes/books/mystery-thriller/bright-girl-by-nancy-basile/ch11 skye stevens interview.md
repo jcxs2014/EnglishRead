@@ -201,7 +201,4 @@ modified: "2026-10-19"
 | warrant | 搜查令 | “What about the warrant for Whitney’s cellphone records?” |
 
 ## 一句话总结
-
 Shelby 与 Erickson 回站里汇总线索（big male + red jersey），Naomi 带来 burner phone 号码与 warrant 延迟，两人先去 Skye Stevens 家询问，Skye 透露 Whitney 的 SAT/valdictorian 竞争、Mr. Long 的 “in love” 与 Daniel Mendez 的 “cozy” 关系，把案件从「只怀疑 Bobby」推进「新线索」。
-
----

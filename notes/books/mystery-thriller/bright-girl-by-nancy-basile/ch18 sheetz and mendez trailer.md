@@ -169,6 +169,4 @@ modified: "2026-10-19"
 | grapes | 葡萄 | Shelby sipped black coffee and munched on grapes, while Erickson chugged his flavored coffee and devoured his donut. |
 
 ## 一句话总结
-
 Shelby 与 Erickson 在 Sheetz 停车梳理 Whitney 的 timeline（party→pool 仍缺目击者），确认 Bobby/Del/Skye 的 alibi 一致并决定 canvass 沿路住户与 bird feeders；随后前往 Daniel Mendez 的 rundown trailer park，敲门遇到 Mrs. Mendez（把 Daniel 叫成 Damien），在 Erickson 的 flirt 推进下拿到线索：Daniel 常在 old Kmart 逗留，Mrs. Mendez 还想被“pick up”。
----

@@ -256,9 +256,4 @@ modified: "2026-10-19"
 | reflection | 反射、倒影 | The linoleum was shiny enough to see your reflection. |
 
 ## 一句话总结
-
 Shelby 与 Erickson 去 Bellmoor Prep 面谈 Principal Alfred Wheeler，Wheeler 给出 Pittsburgh conference 的 alibi、Tom Long 的 “squirrelly” wife、Whitney “model student / valedictorian” 的 portrait，以及 “Bobby’s a good kid”的辩护；章末 Shelby 与 Erickson 在车里爆发 “optics vs. slam dunk” 的冲突，Will Simon 的 canvass 与 locker search 结果 pending。
----
-
-Need check quote exactness. Q5 spliced? I wrote "I was attending a conference in Pittsburgh at the William Penn Hotel. ... I was at the Innovative Schools Summit with one of my teachers, Tom Long. There was a dinner at the end of the conference on Friday night. We came back this morning." This is a splice across multiple sentences. Need split. Q8 also splice. Let's run verify/sweep to see.<|end|><|start|>Assistant to=shell<|channel|>analysis <|constrain|>xml<|message|><rfl:parameter name="command">
-cd /Users/jcxs2014/Documents/Works/EnglishRead && EP="notes/books/mystery-thriller/bright-girl-by-nancy-basile/library/Bright Girl (Nancy Basile) (Z-Library).epub" && python3 scripts/verify_quotes.py "notes/books/mystery-thriller/bright-girl-by-nancy-basile" "$EP" 2>&1 | tail -3 && python3 scripts/sweep_full.py "notes/books/mystery-thriller/bright-girl-by-nancy-basile" --quiet 2>&1 | tail -4

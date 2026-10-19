@@ -57,7 +57,7 @@ modified: "2026-10-19"
 
 ---
 
-> **原句 4:** “My husband was murdered.” She kept her eyes on her plate. “Right on our doorstep.” She raised her eyes to his. “And it was because of me.”
+> **原句 4:** “My husband was murdered.”
 
 **中文理解**：Shelby 说：“My husband was murdered。”She kept her eyes on her plate。“Right on our doorstep。”She raised her eyes to his。“And it was because of me.”
 
@@ -69,11 +69,11 @@ modified: "2026-10-19"
 
 ---
 
-> **原句 5:** “Do you remember the Davante Johnson case?” … “The kid from Harrisburg who raped a girl at a party?” … “That was your case?” … “Five years ago, I was working on a case. It was horrific.” … “The girl’s name was Alison Shepard. She and her friends went to an after-game party for the Stanton Stampede.”
+> **原句 5:** “Do you remember the Davante Johnson case?”
 
 **中文理解**：Shelby 说：“Do you remember the Davante Johnson case?”…Erickson 说：“The kid from Harrisburg who raped a girl at a party?”…Erickson 说：“That was your case?”…Shelby 说：“Five years ago, I was working on a case。It was horrific。”…“The girl’s name was Alison Shepard。She and her friends went to an after-game party for the Stanton Stampede.”
 
-**关键词**：Davante Johnson case／Harrisburg who raped a girl at a party／Alison Shepard
+**关键词**：Davante Johnson case／Alison Shepard
 
 **为什么这样写**：作者把 “backstory” 写成 “Davante Johnson case”——deliberate 让 “Shelby” 落成 “traumatized, sharing” 的 register，把 “Alison Shepard” 作为 “victim” 的 thread。这条 “That was your case?” 把 “Erickson” 从 “casual” 推进到 “sympathetic” 的 thread。
 
@@ -134,5 +134,4 @@ modified: "2026-10-19"
 | dessert | 甜点 | I wonder what they have for dessert? |
 
 ## 一句话总结
-
 Shelby 与 Erickson 在 Fiesta Mexican Grill 喝 margarita 庆祝；Erickson 讲 NFL 梦想与教练志愿；Shelby 坦白丈夫 Shawn 被 Davante Johnson 枪杀（Because of me）；章末 “To doing better.”

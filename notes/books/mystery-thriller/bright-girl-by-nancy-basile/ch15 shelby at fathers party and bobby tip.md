@@ -179,9 +179,4 @@ modified: "2026-10-19"
 | shrub | 灌木 | Fairy lights, strung over every tree and shrub in the perfectly landscaped yard |
 
 ## 一句话总结
-
 Shelby 去参加同父异母弟弟 Kavi 的生日派对，与父亲 Mark Reed、继母 Chandra 的 tension（wedding exclusion / “failed driving test”）升级；章末 Erickson 的匿名 tip “Bobby wasn’t home the night of Whitney’s death” 把 Bobby 从 “alibi” 推进 “run” 的 thread。
----
-
-Need run gates.<|end|><|start|>Assistant to=shell<|channel|>analysis <|constrain|>xml<|message|><rfl:parameter name="command">
-cd /Users/jcxs2014/Documents/Works/EnglishRead && EP="notes/books/mystery-thriller/bright-girl-by-nancy-basile/library/Bright Girl (Nancy Basile) (Z-Library).epub" && f="notes/books/mystery-thriller/bright-girl-by-nancy-basile/ch15 shelby at fathers party and bobby tip.md" && python3 scripts/verify_quotes.py "notes/books/mystery-thriller/bright-girl-by-nancy-basile" "$EP" 2>&1 | tail -2 && python3 scripts/sweep_full.py "notes/books/mystery-thriller/bright-girl-by-nancy-basile" --quiet 2>&1 | tail -2 && python3 scripts/sweep_full.py "notes/books/mystery-thriller/bright-girl-by-nancy-basile" 2>&1 | grep "🔶" && python3 scripts/check_chapter_quotes.py 15 "$f" --book-dir "notes/books/mystery-thriller/bright-girl-by-nancy-basile" 2>&1 | tail -2 && python3 scripts/check_vocab.py "notes/books/mystery-thriller/bright-girl-by-nancy-basile" 2>&1 | grep -i "FAIL" | head

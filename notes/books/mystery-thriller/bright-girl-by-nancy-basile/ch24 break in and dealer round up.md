@@ -148,5 +148,4 @@ modified: "2026-10-19"
 | forensics | 法医鉴定 | Forensics examined the brick and the note |
 
 ## 一句话总结
-
 Shelby  restless night 后到站，Erickson 带咖啡；Shelby 告诉他砖块砸窗 “BOBBY DID IT”，两人跑 dealer round-up（全无帮助），回站拿 forensics 报告（无帮助），Naomi 转达 Principal Wheeler 的电话。

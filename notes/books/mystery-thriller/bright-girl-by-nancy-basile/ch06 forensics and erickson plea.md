@@ -246,7 +246,4 @@ modified: "2026-10-19"
 | football jersey | 橄榄球球衣 | No, but football jerseys are. |
 
 ## 一句话总结
-
 Shelby 与 Erickson 回到警局，法医确认 Whitney 死于勒死、纤维为尼龙混少量氨纶（足球球衣材质），两人就 Bobby Garza 是否为凶手激烈争执；章末 Erickson 在走廊要求 Shelby 坦白心事，Shelby 承认“past is clouding my judgement”，两人的关系出现转折。
-
----

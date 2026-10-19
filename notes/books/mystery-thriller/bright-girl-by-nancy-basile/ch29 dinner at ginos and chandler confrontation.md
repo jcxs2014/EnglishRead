@@ -136,5 +136,4 @@ modified: "2026-10-19"
 | utensils | 餐具 | set her plastic utensils on the table |
 
 ## 一句话总结
-
 Shelby 与 Erickson 在 Gino’s 吃饭，Erickson 讲 NFL 梦想与入警缘由；Shelby 讲母亲被醉驾司机撞死、法官偏袒；Lisa Chandler 冲入餐厅扔报纸 “Dead Girl Dealt Drugs”，怒斥 Shelby；章末 Shelby 知道父亲打电话是为警告她。

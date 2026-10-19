@@ -126,5 +126,4 @@ modified: "2026-10-19"
 | garage | 车库 | noting the parking garage only had one entrance and exit |
 
 ## 一句话总结
-
 Shelby 与 Erickson 到 Wheeler 办公室（空），回站：Naomi 报 neither checked out in person；Will 承认 Shane (forensics) 泄密；hotel security video 显示 Wheeler 车于 10:35 p.m. 离开 garage；Shelby 下 APB on Wheeler；Erickson “We’re coming for you, teddy bear.”

@@ -45,11 +45,11 @@ modified: "2026-10-19"
 
 ---
 
-> **原句 3:** Bobby’s face crumpled. “Where’s Del?” He didn’t look at the detectives. His voice was rough and low. … “I didn’t kill Whitney. And I don’t care about a lawyer.” Another tear snaked down his cheek. This time, he ignored it. “I’ll tell you whatever you want to know. Just don’t do anything to Del.”
+> **原句 3:** “Where’s Del?”
 
 **中文理解**：Bobby’s face crumpled。“Where’s Del?” He didn’t look at the detectives。His voice was rough and low。…“I didn’t kill Whitney。And I don’t care about a lawyer。”Another tear snaked down his cheek。This time, he ignored it。“I’ll tell you whatever you want to know。Just don’t do anything to Del。”
 
-**关键词**：face crumpled／rough and low／don’t do anything to Del
+**关键词**：face crumpled／Where’s Del／don’t do anything to Del
 
 **为什么这样写**：作者把 “Bobby’s priority” 写成 “don’t do anything to Del”——deliberate 让 “Bobby” 落成 “protective lover” 的 register，把 “face crumpled” 作为 “grief” 的 signal。这条 “don’t do anything to Del” 把 “Bobby” 从 “suspect” 推进到 “alibi-holder with a secret” 的 thread。
 
@@ -174,5 +174,4 @@ modified: "2026-10-19"
 | square one | 起点、从头开始 | Welcome to square one |
 
 ## 一句话总结
-
 Shelby 与 Erickson 在审讯室里问 Bobby Garza，Bobby 最初否认杀人，随后承认与 Del 是情侣、Whitney 只是掩护，交代周五晚 party 后与 Del 在家过夜的 alibi，章末透露 Whitney 曾提到一个 “big teddy bear” 老爸，把嫌疑人从 teenager 推到 “a father”。

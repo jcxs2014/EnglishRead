@@ -57,11 +57,11 @@ modified: "2026-10-19"
 
 ---
 
-> **原句 4:** “Was there a zombie apocalypse, and we missed it?” … “Hello?” Shelby called. … “Can I help you?” A raspy voice piped up behind them. Shelby was thankful she hadn’t startled. That’s never a good look for a detective.
+> **原句 4:** “Was there a zombie apocalypse, and we missed it?”
 
 **中文理解**：Erickson 说：“Was there a zombie apocalypse, and we missed it?”…Shelby 说：“Hello?”…“Can I help you?”A raspy voice piped up behind them。Shelby was thankful she hadn’t startled。That’s never a good look for a detective。
 
-**关键词**：zombie apocalypse／raspy voice piped up／never a good look for a detective
+**关键词**：zombie apocalypse／never a good look for a detective
 
 **为什么这样写**：作者把 “garage” 写成 “zombie apocalypse”——deliberate 让 “Erickson” 落成 “wry, observant” 的 register，把 “raspy voice” 作为 “Damien” 的 thread。这条 “never a good look for a detective” 把 “Shelby” 从 “professional” 推进到 “human” 的 thread。
 
@@ -137,5 +137,4 @@ modified: "2026-10-19"
 | slimy | 恶心的、卑鄙的 | he’s still slimy |
 
 ## 一句话总结
-
 Naomi 报 Tom Long 背景干净、bird-feeder 视频确认 Whitney 路径；Naomi 提供 Daniel 父亲 Damien Mendez 的 “hot mess” 背景；Shelby 与 Erickson 到 Sparky’s Garage 问 Damien，Damien 不认 Whitney、自称 Rivers Casino alibi、章末 “slimy”。

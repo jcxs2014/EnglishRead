@@ -7,10 +7,10 @@ modified: "2026-10-19"
 
 ## 本章导航
 
-- **一句话概括**：Chandlers 起诉警局 defamation，Guerrero 要 detectives 忽视噪声、继续查案；Will 报告 Whitney 社媒（TikTok）与 Tom Long 合影，forensics 称毒品包/药瓶上只有 Whitney 指纹，Erickson/Shelby 用 "interesting speech" 与 Shane 调侃收尾，把 " lawsuit noise vs. evidence" 的 tension 立住。
-- **情感弧线位置**：全书的 "noise vs. focus" 格：Guerrero 的 "grieving parents lashing out"、Shelby 的 "court of public opinion / late husband"、Erickson 的 "low-lifes swear at me" 把 "professional pride" 与 "grief" 并置。
-- **线索结构**：章内摆出六样往后要回来对账的东西：Chandlers 的 defamation suit；Guerrero 的 "bad optics / community distrust"；Shelby 的 "people in small towns want fifteen minutes of fame"；Whitney 的 TikTok（dance trends / college rants）；Tom Long 出现在视频里（确认 Skye 说法）；forensics "only prints ... are Whitney’s"。
-- **人物弧线**：Shelby 从 "called out in court of public opinion" 走到 "stay focused on the case"；Erickson 从 "accused crooked cop" 走到 "catch killer before he kills again"；Will 从 "social media combing" 走到 "forensics liaison (Shane)"。
+- **一句话概括**：Chandlers 起诉警局诽谤，Guerrero 要 detectives 忽视噪声、继续查案；Will 报告 Whitney 社媒（TikTok）与 Tom Long 合影，forensics 称毒品包/药瓶上只有 Whitney 指纹，Erickson/Shelby 用调侃收尾，把 noise vs. evidence 的 tension 立住。
+- **情感弧线位置**：全书的 "noise vs. focus" 格：Guerrero 的 grieving parents lashing out、Shelby 的 court of public opinion、Erickson 的 low-lifes swear at me 把 professional pride 与 grief 并置。
+- **线索结构**：章内摆出六样往后要回来对账的东西：Chandlers 的 defamation suit；Guerrero 的 bad optics / community distrust；Shelby 的 small-town fame-seeking；Whitney 的 TikTok（dance trends / college rants）；Tom Long 出现在视频里（确认 Skye 说法）；forensics only prints are Whitney’s。
+- **人物弧线**：Shelby 从 court of public opinion 走到 stay focused on the case；Erickson 从 accused crooked cop 走到 catch killer before he kills again；Will 从 social media combing 走到 forensics liaison (Shane)。
 - **叙事手法**：第三人称限知贴住 Shelby，对话驱动。章末用 "interesting speech" 与 "giggles" 的轻盈收尾，把 "lawsuit pressure" 与 "evidence lead" 的 tension 立住。
 
 ---
@@ -171,6 +171,4 @@ modified: "2026-10-19"
 | giggles | 咯咯笑 | Shelby shook her head as Erickson burst into giggles. |
 
 ## 一句话总结
-
-Shelby 与 Erickson 面对 Chandlers 的 defamation suit（Guerrero：grieving parents lashing out，bad optics，solve case to drop suit），Erickson/Shelby 各自谈 "official accusation / court of public opinion"，Will 报告 Whitney 的 TikTok（Tom Long 出现）与 forensics "only prints are Whitney’s"，章末以 "interesting speech" 与 Shane 调侃收尾，把 "lawsuit noise" 与 "evidence lead" 的 tension 立住。
----
+Shelby 与 Erickson 面对 Chandlers 的 defamation suit（Guerrero：grieving parents lashing out，bad optics，solve case to drop suit），Erickson/Shelby 各自谈 official accusation / court of public opinion，Will 报告 Whitney 的 TikTok（Tom Long 出现）与 forensics only prints are Whitney’s，章末以 interesting speech 与 Shane 调侃收尾，把 lawsuit noise 与 evidence lead 的 tension 立住。

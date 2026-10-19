@@ -150,5 +150,4 @@ modified: "2026-10-19"
 | roster | 名单、花名册 | he printed copies of the faculty and staff rosters |
 
 ## 一句话总结
-
 Shelby 与 Erickson 讨论 Daniel 父亲不是 supplier；到 Principal Wheeler 家（无人），转到学校；Wheeler 否认 Whitney 卖药，透露 jersey 销售史（fan jerseys same material, iron-on patches），提供 faculty/staff rosters。

@@ -175,6 +175,4 @@ modified: "2026-10-19"
 | alibi | 不在场证明 | He has an alibi. |
 
 ## 一句话总结
-
 Naomi 早间来电告知 Erickson 已向 captain 提交报告指认 Bobby Garza 为凶手，Shelby 愤怒冲到 Erickson 家，在火坑前对质；Erickson 坦承自己感到“fraud”、需要 win，并在 Shelby 的“false hope / play cards close to the vest”训诫下退让，两人最终和解、约定继续办案并亲自去找 Bobby。
----

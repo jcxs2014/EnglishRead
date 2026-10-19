@@ -85,7 +85,7 @@ modified: "2026-10-19"
 
 **中文理解**：Mrs. Long 说：“Bingo。He’s always calling in little favors from the teachers。Pick up his kids, run an errand, cover for him at a meeting。”…“Oh, yeah。Sometimes he fakes having a sick kid or something to get out of a PTA meeting or teacher-parent conferences。Then he asks a teacher to make up an excuse for him.”
 
-**关键词**：calling in little favors／fakes having a sick kid／make up an excuse for him
+**关键词**：fakes having a sick kid／make up an excuse for him
 
 **为什么这样写**：作者把 “Wheeler” 写成 “fakes having a sick kid”——deliberate 让 “Nikki” 落成 “resentful, revealing” 的 register，把 “little favors” 作为 “manipulation” 的 thread。这条 “make up an excuse for him” 把 “Wheeler” 从 “principal” 推进到 “deceiver” 的 thread。
 
@@ -135,5 +135,4 @@ modified: "2026-10-19"
 | electricity | 电、电击（比喻） | Electricity sparked down Shelby’s spine |
 
 ## 一句话总结
-
 Shelby 与 Erickson 到 Bellmoor Prep 发现空无一人，Nikki Long（Tom Long 妻子）透露 Tom 酒鬼、Wheeler “hold it over Tom”、Wheeler 在 Whitney 被杀当晚离开会议、Tom 没车回家；章末 “Electricity sparked down Shelby’s spine.”

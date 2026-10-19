@@ -136,5 +136,4 @@ modified: "2026-10-19"
 | immunity | 免疫、豁免 | can I get some kind of immunity? |
 
 ## 一句话总结
-
 Shelby 与 Erickson 审讯 Damien Mendez；Damien 最初 “Had a great time... Until I didn’t”；律师 Rose Capito 数字 detox 一周；Damien 最终 “come clean”：Keith Crabtree (Baltimore) 车辆盗窃 ring，Damien 偷 Pittsburgh 停放的车；章末 Damien “He’ll find me!”，Erickson “Y bueno.”

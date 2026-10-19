@@ -171,5 +171,4 @@ modified: "2026-10-19"
 
 
 ## 一句话总结
-
 Shelby 与 Erickson 在废弃 Kmart 停车场找到 Daniel Mendez，Daniel 承认与 Whitney 在学校剧院后台更衣室秘密约会、Bobby 知情且默许，Whitney 用 Adderall 换钱、Daniel 免费拿药，章末 Shelby 告知 Whitney 被谋杀，Daniel 逃跑。
