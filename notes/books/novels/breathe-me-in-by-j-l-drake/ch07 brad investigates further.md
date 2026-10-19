@@ -17,11 +17,11 @@ modified: "2026-10-19"
 
 > **原句 1:** "Two for two, Bree." I turned, and our faces were inches apart. She didn't move. She just stared at me, then her gorgeous brown eyes moved down to my lips, and that same crackle of electricity zinged through me as it had the other night. "Nice job."
 
-**中文理解：** "Two for two, Bree." I turned, and our faces were inches apart. She didn't move. She just stared at me, then her gorgeous brown eyes moved down to my lips, and that same crackle of electricity zinged through me as it had the other night. "Nice job."
+**中文理解：** "两次成功，Bree。"我转过身，我们的脸只差几英寸。她没动，只是盯着我，然后她那双美丽的棕色眼睛移向我的嘴唇，同样的电流般酥麻感如前晚一样在我体内窜过。"干得不错。"
 
 **句子结构：** 直接引语 + 主谓宾（I turned...）+ and 并列（our faces were inches apart）+ 主谓宾（She didn't move）+ 主谓宾（She just stared...）+ and 并列（her eyes moved down...）+ and 并列（that same crackle... zinged through me...）+ 直接引语。
 
-**关键词：** faces were inches apart（faces were inches apart—— proximity）、crackle of electricity（crackle of electricity—— attraction）、zinged through me（zinged through me—— physical sensation）
+**关键词：** faces were inches apart（脸只差几英寸—— proximity）、crackle of electricity（电流般酥麻感—— attraction）、zinged through me（在我体内窜过—— physical sensation）
 
 **表达方式：** "faces were inches apart" + "her eyes moved down to my lips" shows romantic tension. "crackle of electricity" + "zinged through me" 是 physical sensation 的具象化. "as it had the other night" 显示 this is a recurring pattern.
 
@@ -29,11 +29,11 @@ modified: "2026-10-19"
 
 > **原句 2:** "Why hide it?" "I'm not sure, but"—she leaned over, and I was instantly enveloped in her perfume—"she has a follower that likes and comments on her posts a lot." She pointed at a name. "Puff the Magic."
 
-**中文理解：** "Why hide it?" "I'm not sure, but"—she leaned over, and I was instantly enveloped in her perfume—"she has a follower that likes and comments on her posts a lot." She pointed at a name. "Puff the Magic."
+**中文理解：** "为什么要隐藏它？""我不确定，但是"——她 leaning 过来，我 instantly 被她的香水 enveloped——"她有一个 follower 经常点赞和评论她的 posts。"她指向一个名字。"Puff the Magic。"
 
 **句子结构：** 直接引语 + 主谓宾（she leaned over...）+ and 并列（I was instantly enveloped...）+ 直接引语 + 主谓宾（She pointed...）+ 直接引语。
 
-**关键词：** hide it（hide it—— concealment）、Puff the Magic（Puff the Magic—— suspect username）
+**关键词：** hide it（隐藏它—— concealment）、Puff the Magic（Puff the Magic—— suspect username）
 
 **表达方式：** Bree's discovery of hidden TikTok account shows her investigative skill. "Why hide it?" is the key question. "Puff the Magic" 的 ridiculous name contrasts with its sinister implication.
 
@@ -41,11 +41,11 @@ modified: "2026-10-19"
 
 > **原句 3:** "When I was younger, I used to keep this journal tucked between two floorboards. I kept all my deepest secrets in there, and when I moved"—she closed the drawer and moved on to the bottom one—"I left it. The idea of moving it from the safety of my childhood home was scary. Home is safe."
 
-**中文理解：** "When I was younger, I used to keep this journal tucked between two floorboards. I kept all my deepest secrets in there, and when I moved"—she closed the drawer and moved on to the bottom one—"I left it. The idea of moving it from the safety of my childhood home was scary. Home is safe."
+**中文理解：** "小时候，我习惯把日记本藏在两块地板之间。我把所有最深的秘密都放在里面，当我搬走时"——她关上抽屉，移向最下面的一个——"我把它留下了。把日记从童年家的安全中移走的想法很可怕。家是安全的。"
 
 **句子结构：** 直接引语（em dash interruption）。
 
-**关键词：** journal tucked between two floorboards（journal tucked between two floorboards—— childhood secret）、Home is safe（Home is safe—— safety theme）
+**关键词：** journal tucked between two floorboards（日记藏在两块地板之间—— childhood secret）、Home is safe（家是安全的—— safety theme）
 
 **表达方式：** Bree's personal anecdote about childhood journal shows her ability to connect with victims' families. "Home is safe" 是 thematic statement, connecting to her own need for safety (from Barbed Wire Killer).
 
@@ -53,11 +53,11 @@ modified: "2026-10-19"
 
 > **原句 4:** "I see." His face went through a series of painful emotions.
 
-**中文理解：** "I see." His face went through a series of painful emotions.
+**中文理解：** "我明白了。"他的脸经历了一系列痛苦的表情。
 
 **句子结构：** 直接引语 + 主谓宾（His face went through...）。
 
-**关键词：** series of painful emotions（series of painful emotions—— emotional processing）
+**关键词：** series of painful emotions（一系列痛苦的表情—— emotional processing）
 
 **表达方式：** Oliver's "I see" is brief acknowledgment. "series of painful emotions" shows his processing of betrayal (Shelly's hidden TikTok). 这种 "brief acknowledgment + emotional processing" 的 dynamic shows Oliver's pain.
 
@@ -65,11 +65,11 @@ modified: "2026-10-19"
 
 > **原句 5:** "I'm wondering if you'd mind if we had a quick look through Shelly's room? You never know what we might turn up that could help."
 
-**中文理解：** "I'm wondering if you'd mind if we had a quick look through Shelly's room? You never know what we might turn up that could help."
+**中文理解：** "我想问问你是否介意我们快速查看一下 Shelly 的房间？你永远不知道我们可能会发现什么能帮助案件。"
 
 **句子结构：** 直接引语，两个句子。
 
-**关键词：** quick look through（quick look through—— investigation）、never know what we might turn up（never know what we might turn up—— hope for discovery）
+**关键词：** quick look through（快速查看—— investigation）、never know what we might turn up（永远不知道我们可能会发现什么—— hope for discovery）
 
 **表达方式：** Bree's request is polite ("I'm wondering if you'd mind") but purposeful ("never know what we might turn up"). 这种 "polite but purposeful" 的 approach shows her investigative skill.
 
@@ -77,11 +77,11 @@ modified: "2026-10-19"
 
 > **原句 6:** "I can't imagine what you're going through. We're"—she waved a hand between the two of us—"usually on the other side of things, but as a human and someone with a big old heart, can I offer you something for comfort?"
 
-**中文理解：** "I can't imagine what you're going through. We're"—she waved a hand between the two of us—"usually on the other side of things, but as a human and someone with a big old heart, can I offer you something for comfort?"
+**中文理解：** "我无法想象你正在经历什么。我们"——她挥了挥手在我们两人之间——"通常站在事情的另一边，但作为一个普通人，一个有着大大的心的人，我可以提供一些安慰吗？"
 
 **句子结构：** 直接引语（em dash interruption）。
 
-**关键词：** on the other side of things（on the other side of things—— professional distance）、big old heart（big old heart—— empathy）
+**关键词：** on the other side of things（站在事情的另一边—— professional distance）、big old heart（大大 的心—— empathy）
 
 **表达方式：** Bree's "on the other side of things" acknowledges her professional role. "big old heart" is self-deprecating, showing her genuine empathy. 这种 "professional + personal" 的 balance is PI fiction's classic technique.
 
@@ -89,11 +89,11 @@ modified: "2026-10-19"
 
 > **原句 7:** "May I take this?" Bree asked, holding up the iPad. "Detective Stone has a great IT guy that can get past the password. As soon as we're finished, I'll make sure it gets returned to you."
 
-**中文理解：** "May I take this?" Bree asked, holding up the iPad. "Detective Stone has a great IT guy that can get past the password. As soon as we're finished, I'll make sure it gets returned to you."
+**中文理解：** "我可以拿走这个吗？"Bree 问道，举起 iPad。"Stone 侦探有个很棒的 IT 人员可以破解密码。我们一旦完成，我会确保把它还给你。"
 
 **句子结构：** 直接引语，三个句子。
 
-**关键词：** May I take this（May I take this—— request）、great IT guy（great IT guy—— resource）
+**关键词：** May I take this（我可以拿走这个吗—— request）、great IT guy（很棒的 IT 人员—— resource）
 
 **表达方式：** Bree's "May I take this" is polite request. "great IT guy" shows her resourcefulness. 这种 "polite + resourceful" 的 dynamic shows Bree's investigative skill.
 
@@ -101,11 +101,11 @@ modified: "2026-10-19"
 
 > **原句 8:** "I know you very well," I went on. "One of my favorite things I notice is how you get this little bit of pink that spreads across your chest whenever you get excited or"—I hesitated—"turned on."
 
-**中文理解：** "I know you very well," I went on. "One of my favorite things I notice is how you get this little bit of pink that spreads across your chest whenever you get excited or"—I hesitated—"turned on."
+**中文理解：** "我非常了解你，"我继续说道。"我最喜欢注意的一件事是，每当你兴奋或"——我犹豫了一下——" arousal 时，你的胸口会浮现出这一小片粉色。"
 
 **句子结构：** 直接引语（em dash interruption）。
 
-**关键词：** little bit of pink（little bit of pink—— blush）、turned on（turned on—— arousal）
+**关键词：** little bit of pink（一小片粉色—— blush）、turned on（ arousal—— arousal）
 
 **表达方式：** Bradley's observation of Bree's blush shows his attentiveness. "little bit of pink" is specific, showing he's studied her. "turned on" is direct, showing his honesty about attraction.
 
@@ -113,11 +113,11 @@ modified: "2026-10-19"
 
 > **原句 9:** "I haven't had sex in almost two months, if you must know." She folded her arms.
 
-**中文理解：** "I haven't had sex in almost two months, if you must know." She folded her arms.
+**中文理解：** "如果你一定要知道的话，我将近两个月没做爱了。"她抱起双臂。
 
 **句子结构：** 直接引语 + 主谓宾（She folded her arms）。
 
-**关键词：** haven't had sex in almost two months（haven't had sex in almost two months—— vulnerability）、folded her arms（folded her arms—— defensive posture）
+**关键词：** haven't had sex in almost two months（将近两个月没做爱—— vulnerability）、folded her arms（抱起双臂—— defensive posture）
 
 **表达方式：** Bree's confession is both vulnerable and defensive. "if you must know" shows reluctance. "folded her arms" is defensive body language, contrasting with her verbal openness.
 
@@ -125,27 +125,27 @@ modified: "2026-10-19"
 
 > **原句 10:** "I know I do." Bree and I had been good friends, and I'd always had feelings for her, but they were complicated. What if I made a move on her and it didn't work out? I'd lose her altogether.
 
-**中文理解：** "I know I do." Bree and I had been good friends, and I'd always had feelings for her, but they were complicated. What if I made a move on her and it didn't work out? I'd lose her altogether.
+**中文理解：** "我知道。"Bree 和我曾经是好朋友，而且我一直对她有感觉，但事情很复杂。如果我向她表白但没成呢？我会彻底失去她。
 
 **句子结构：** 直接引语 + 主谓宾（Bree and I had been good friends...）+ and 并列（I'd always had feelings...）+ but 并列（they were complicated）+ 疑问句（What if...?）+ 主谓宾（I'd lose her altogether.）。
 
-**关键词：** always had feelings（always had feelings—— long-term attraction）、complicated（complicated—— emotional complexity）、lose her altogether（lose her altogether—— fear of loss）
+**关键词：** always had feelings（一直对她有感觉—— long-term attraction）、complicated（复杂—— emotional complexity）、lose her altogether（彻底失去她—— fear of loss）
 
 **表达方式：** Bradley's internal monologue reveals his long-term feelings and fears. "always had feelings" shows attraction is not new. "complicated" acknowledges the obstacle (Sherry, timing). "lose her altogether" shows his fear of rejection.
 
 **为什么这样写：** 通过 Bradley's internal monologue 建立 his romantic history. "always had feelings" + "complicated" shows he's been holding back. "lose her altogether" is the fear that prevented action. 这种 "fear of loss → inaction" 的 dynamic explains why Bradley married Sherry instead of pursuing Bree.
 
-> **原句 11:** "When I was younger, I used to keep this journal tucked between two floorboards. I kept all my deepest secrets in there, and when I moved"—she closed the drawer and moved on to the bottom one—"I left it."
+> **原句 11:** "I'm not sure what you're looking for"—Mrs. White waved around with a sniff—"but you're welcome to look around. She only came home on weekends since she started working."
 
-**中文理解：** "When I was younger, I used to keep this journal tucked between two floorboards. I kept all my deepest secrets in there, and when I moved"—she closed the drawer and moved on to the bottom one—"I left it."
+**中文理解：** "我不确定你在找什么"——Mrs. White waved around with a sniff——"但欢迎你四处看看。自从她开始工作以来，她只在周末回家。"
 
 **句子结构：** 直接引语（em dash interruption）。
 
-**关键词：** journal tucked between two floorboards（journal tucked between two floorboards—— childhood secret）、deepest secrets（deepest secrets—— hidden trauma）
+**关键词：** I'm not sure what you're looking for（我不确定你在找什么—— Mrs. White's uncertainty）、only came home on weekends（只在周末回家—— Shelly's schedule）
 
-**表达方式：** Bree's childhood secret (journal between floorboards) mirrors Shelly's hidden TikTok account. "deepest secrets" + "I left it" shows she left her secrets behind when she left Sheffield.
+**表达方式：** Mrs. White's uncertainty shows her grief. "only came home on weekends" shows Shelly's independence. 这种 "uncertainty + independence" 的 dynamic shows the mother-daughter relationship.
 
-**为什么这样写：** 通过 Bree's childhood secret 建立 parallel with Shelly's hidden account. Both women kept secrets in their childhood homes. "I left it" shows Bree's departure involved leaving her secrets behind. 这种 "secret-keeping as theme" 的 dynamic connects Bree's past to the case.
+**为什么这样写：** 通过 Mrs. White's words 建立 Shelly's character—independent, working. "only came home on weekends" shows Shelly's schedule. 这种 "independence" 的 dynamic is common in thriller's victim characterization.
 
 ## 词汇分级
 

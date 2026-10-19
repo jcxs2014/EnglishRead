@@ -17,11 +17,11 @@ modified: "2026-10-19"
 
 > **原句 1:** "I could barely see as I drove home. My mind kept going over the fact that Sherry had shown up at the rink the one time in over a decade that Bree came."
 
-**中文理解：** "I could barely see as I drove home. My mind kept going over the fact that Sherry had shown up at the rink the one time in over a decade that Bree came."
+**中文理解：** "我几乎看不见路了。我的思绪反复想着 Sherry 出现在溜冰场这件事——那是 Bree 回来后十多年来唯一一次。"
 
 **句子结构：** 主谓宾（I could barely see...）+ as 引导的时间状语从句 + 主谓宾（My mind kept going over...）。
 
-**关键词：** barely see（barely see—— distraction）、one time in over a decade（one time in over a decade—— coincidence/suspicion）
+**关键词：** barely see（几乎看不见—— distraction）、one time in over a decade（十多年来唯一一次—— coincidence/suspicion）
 
 **表达方式：** Bradley's "barely see" shows his distraction. "one time in over a decade" shows his suspicion about Sherry's appearance. 这种 "coincidence → suspicion" 的 dynamic shows Bradley's awareness.
 
@@ -29,11 +29,11 @@ modified: "2026-10-19"
 
 > **原句 2:** "I'd aways been protective of her." Her eyes challenged me. "Anyway"—I held up my hands—"that's not why I came here."
 
-**中文理解：** "I'd aways been protective of her." Her eyes challenged me. "Anyway"—I held up my hands—"that's not why I came here."
+**中文理解：** "我一直保护她。"她的眼睛挑战着我。"不管怎样"——我举起双手——"那不是我来这儿的原因。"
 
 **句子结构：** 直接引语 + 主谓宾（Her eyes challenged me）+ 直接引语（em dash interruption）。
 
-**关键词：** protective of her（protective of her—— Bradley's protectiveness）、eyes challenged me（eyes challenged me—— Bree's defiance）
+**关键词：** protective of her（保护她—— Bradley's protectiveness）、eyes challenged me（眼睛挑战我—— Bree's defiance）
 
 **表达方式：** Bradley's "I'd aways been protective of her" shows his protectiveness. "Her eyes challenged me" shows Bree's defiance. 这种 "protectiveness + defiance" 的 dynamic shows their relationship.
 
@@ -41,11 +41,11 @@ modified: "2026-10-19"
 
 > **原句 3:** "It's from him. They're from him!" she blurted and tossed her hands in the air.
 
-**中文理解：** "It's from him. They're from him!" she blurted and tossed her hands in the air.
+**中文理解：** "是他的。这些是他的！"她脱口而出，把双手举向空中。
 
 **句子结构：** 直接引语 + 主谓宾（she blurted...）+ and 并列（tossed her hands in the air）。
 
-**关键词：** It's from him（It's from him—— revelation）、blurted（blurted—— sudden disclosure）
+**关键词：** It's from him（是他的—— revelation）、blurted（脱口而出—— sudden disclosure）
 
 **表达方式：** Bree's "It's from him" is sudden revelation. "blurted" shows her loss of control. 这种 "sudden disclosure" 的 dynamic is thriller's classic technique.
 
@@ -53,11 +53,11 @@ modified: "2026-10-19"
 
 > **原句 4:** "Holy shit!" She grabbed her chest. "What the hell, Brad!"
 
-**中文理解：** "Holy shit!" She grabbed her chest. "What the hell, Brad!"
+**中文理解：** "该死！"她按住胸口。"搞什么鬼，Brad！"
 
 **句子结构：** 直接引语 + 主谓宾（She grabbed her chest）+ 直接引语。
 
-**关键词：** Holy shit（Holy shit—— shock）、grabbed her chest（grabbed her chest—— fear response）
+**关键词：** Holy shit（该死—— shock）、grabbed her chest（按住胸口—— fear response）
 
 **表达方式：** Bree's "Holy shit" shows shock. "grabbed her chest" shows fear response. 这种 "shock + fear" 的 dynamic shows Bree's reaction to Bradley's presence.
 
@@ -65,11 +65,11 @@ modified: "2026-10-19"
 
 > **原句 5:** "Insert Bree."
 
-**中文理解：** "Insert Bree."
+**中文理解：** "插入 Bree。"
 
 **句子结构：** 直接引语。
 
-**关键词：** Insert Bree（Insert Bree—— Bree's method）
+**关键词：** Insert Bree（插入 Bree—— Bree's method）
 
 **表达方式：** Bradley's "Insert Bree" is humorous acknowledgment of Bree's rule-bending. 这种 "humor" 的 dynamic shows Bradley's affection.
 
@@ -77,11 +77,11 @@ modified: "2026-10-19"
 
 > **原句 6:** "Can I come in?" The cold was starting to set in, and I could see she was shivering under her coat. "I don't want to talk about this out here."
 
-**中文理解：** "Can I come in?" The cold was starting to set in, and I could see she was shivering under her coat. "I don't want to talk about this out here."
+**中文理解：** "我可以进来吗？"天气开始变冷，我看见她在外套下 shivering。"我不想在外面谈这个。"
 
 **句子结构：** 直接引语 + 主谓宾（The cold was starting to set in...）+ and 并列（I could see she was shivering...）+ 直接引语。
 
-**关键词：** cold was starting to set in（cold was starting to set in—— weather）、shivering under her coat（shivering under her coat—— cold/fear）
+**关键词：** cold was starting to set in（天气开始变冷—— weather）、shivering under her coat（在外套下 shivering—— cold/fear）
 
 **表达方式：** Bradley's "Can I come in?" shows his request. "cold was starting to set in" shows weather. "shivering under her coat" shows Bree's cold/fear. 这种 "request + weather + shivering" 的 dynamic shows Bradley's concern.
 
@@ -89,23 +89,23 @@ modified: "2026-10-19"
 
 > **原句 7:** "Bree, stop pushing me away."
 
-**中文理解：** "Bree, stop pushing me away. If this is going to work"—I paused—"as partners, we need to be honest with each other. Starting with this."
+**中文理解：** "Bree，别再推开我了。"
 
-**句子结构：** 直接引语（em dash interruption）。
+**句子结构：** 直接引语，祈使句。
 
-**关键词：** stop pushing me away（stop pushing me away—— Bradley's command）、as partners, we need to be honest（as partners, we need to be honest—— partnership honesty）
+**关键词：** stop pushing me away（别再推开我—— Bradley's command）
 
-**表达方式：** Bradley's "stop pushing me away" is command. "as partners, we need to be honest" shows partnership honesty. 这种 "command + honesty" 的 dynamic shows Bradley's leadership.
+**表达方式：** Bradley's "stop pushing me away" is command. 这种 "command" 的 dynamic shows Bradley's leadership.
 
-**为什么这样写：** 通过 Bradley's command 建立 his leadership. "stop pushing me away" shows his command. "as partners, we need to be honest" shows partnership honesty. 这种 "command + honesty" 的 dynamic is romantic tension's foundation.
+**为什么这样写：** 通过 Bradley's command 建立 his leadership. "stop pushing me away" shows his command. 这种 "command" 的 dynamic is romantic tension's foundation.
 
 > **原句 8:** "You had no right to take that." Her voice was low and haunting.
 
-**中文理解：** "You had no right to take that." Her voice was low and haunting.
+**中文理解：** "你无权拿走那个。"她的声音低沉而 haunting。
 
 **句子结构：** 直接引语 + 主谓宾（Her voice was low and haunting）。
 
-**关键词：** had no right（had no right—— anger）、low and haunting（low and haunting—— tone）
+**关键词：** had no right（无权—— anger）、low and haunting（低沉而 haunting—— tone）
 
 **表达方式：** Bree's "You had no right to take that" shows anger. "low and haunting" shows her tone. 这种 "anger + haunting tone" 的 dynamic shows Bree's emotional state.
 
@@ -113,11 +113,11 @@ modified: "2026-10-19"
 
 > **原句 9:** "This is"—he coughed—"far from over, Detective Stone. So many foxes." He smiled, then his head fell as he lost consciousness.
 
-**中文理解：** "This is"—he coughed—"far from over, Detective Stone. So many foxes." He smiled, then his head fell as he lost consciousness.
+**中文理解：** "这"——他咳了一下——"远未结束，Stone 侦探。这么多狐狸。"他 smiled，然后他的头垂下，失去了 consciousness。
 
 **句子结构：** 直接引语（em dash interruption）+ 主谓宾（He smiled...）+ and 并列（his head fell...）。
 
-**关键词：** far from over（far from over—— threat）、So many foxes（So many foxes—— mysterious warning）、lost consciousness（lost consciousness—— medical emergency）
+**关键词：** far from over（远未结束—— threat）、So many foxes（这么多狐狸—— mysterious warning）、lost consciousness（失去了 consciousness—— medical emergency）
 
 **表达方式：** Gumbo's "far from over" is threat. "So many foxes" is mysterious warning. "lost consciousness" shows medical emergency. 这种 "threat + mystery + emergency" 的 dynamic is thriller's classic technique.
 

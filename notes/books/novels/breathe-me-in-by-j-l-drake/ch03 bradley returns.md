@@ -77,7 +77,7 @@ modified: "2026-10-19"
 
 > **原句 6:** "I wasn't the one that ran," I muttered and eyed Bree hard, and she sank back down onto the chair.
 
-**中文理解：** "I wasn't the one that ran," I muttered and eyed Bree hard, and she sank back down onto the chair.
+**中文理解：** 我咕哝着说"逃跑的不是我"，然后狠狠地瞪了 Bree 一眼，她又坐回椅子上。
 
 **句子结构：** 直接引语 + 主谓宾（I muttered and eyed Bree hard）+ and 并列句（she sank back down...）。
 

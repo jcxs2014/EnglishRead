@@ -17,11 +17,11 @@ modified: "2026-10-19"
 
 > **原句 1:** "I kid you not, she went white as a ghost when Bostwick brought it up." He leaned closer when the ref popped his head through the door to see if we were ready. "All I'm saying is maybe check in with her."
 
-**中文理解：** "我 kid you not, 她 went white as a ghost when Bostwick brought it up." 他 lean closer when the ref popped his head through the door to see if we were ready. "All I'm saying is maybe check in with her."
+**中文理解：** Kennedy 告诉 Bradley，Bree 在 pub 里被同事追问童年创伤时脸色煞白如鬼，建议 Bradley 去关心她。
 
 **句子结构：** 直接引语 + 主谓宾（He leaned closer...）+ as 引导的时间状语从句 + 直接引语。
 
-**关键词：** went white as a ghost（went white as a ghost—— fear response）、check in with her（check in with her—— concern）
+**关键词：** went white as a ghost（脸色煞白如鬼—— fear response）、check in with her（去关心她—— concern）
 
 **表达方式：** Kennedy's observation of Bree's fear response shows his emotional intelligence. "went white as a ghost" 是 physical fear response 的具象化. "check in with her" 是 friend's concern, not romantic interest.
 
@@ -29,11 +29,11 @@ modified: "2026-10-19"
 
 > **原句 2:** Ever since Bree came back, all sorts of mixed and twisted feelings about so many things had come out of hiding. I'd tried to make a life with Sherry, but I'd failed miserably. The darkness inside me finished us. But in the short time since Bree had returned, I felt better—lighter actually. I just didn't know what to do with that.
 
-**中文理解：** Ever since Bree came back, all sorts of mixed and twisted feelings about so many things had come out of hiding. I'd tried to make a life with Sherry, but I'd failed miserably. The darkness inside me finished us. But in the short time since Bree had returned, I felt better—lighter actually. I just didn't know what to do with that.
+**中文理解：** 自从 Bree 回来后，各种复杂扭曲的感觉都从隐藏中浮现。我曾试图与 Sherry 建立生活，但彻底失败了。我内心的黑暗终结了我们。但自 Bree 回来后，我感觉好多了——实际上更轻松了。我只是不知道怎么处理这些感觉。
 
 **句子结构：** 复合句，含 Ever since... 从句 + 主谓宾 + I'd tried... but 并列 + The darkness... + But... + I just didn't know...
 
-**关键词：** mixed and twisted feelings（mixed and twisted feelings—— emotional confusion）、lighter（lighter—— relief）、didn't know what to do with that（didn't know what to do with that—— uncertainty）
+**关键词：** mixed and twisted feelings（复杂扭曲的感觉—— emotional confusion）、lighter（更轻松—— relief）、didn't know what to do with that（不知道怎么处理—— uncertainty）
 
 **表达方式：** "mixed and twisted feelings" 显示 Bradley's emotional complexity. "The darkness inside me finished us" 将婚姻失败归因于 PTSD. "lighter" 是 Bree's return 带来的 relief. "didn't know what to do with that" 显示 his uncertainty about his feelings.
 
@@ -41,11 +41,11 @@ modified: "2026-10-19"
 
 > **原句 3:** "I know how your days get. Dinner will be ready at six."
 
-**中文理解：** "I know how your days get. Dinner will be ready at six."
+**中文理解：** Sherry 发来短信："我知道你日子怎么过。晚餐六点准备好。"
 
 **句子结构：** 直接引语，两个句子。
 
-**关键词：** I know how your days get（I know how your days get—— dismissive familiarity）、Dinner will be ready（Dinner will be ready—— domestic obligation）
+**关键词：** I know how your days get（我知道你日子怎么过—— dismissive familiarity）、Dinner will be ready（晚餐准备好—— domestic obligation）
 
 **表达方式：** Sherry's text is both caring (knowing his schedule) and controlling (setting dinner time). "I know how your days get" implies she understands his stress, but "Dinner will be ready at six" is a demand, not an invitation.
 
@@ -53,11 +53,11 @@ modified: "2026-10-19"
 
 > **原句 4:** "I see the coat room, the ID checkpoint, today's shipment of"—I turned the box around—"Grey Goose." I looked at her, not sure what she was getting at.
 
-**中文理解：** "I see the coat room, the ID checkpoint, today's shipment of"—I turned the box around—"Grey Goose." I looked at her, not sure what she was getting at.
+**中文理解：** "我看到衣帽间、身份证检查点、今天的货物——"我把盒子转过来——"灰雁伏特加。"我不确定她要表达什么。
 
 **句子结构：** 直接引语（em dash interruption）+ 主谓宾（I looked at her...）。
 
-**关键词：** coat room, ID checkpoint, Grey Goose（coat room, ID checkpoint, Grey Goose—— nightclub infrastructure）、not sure what she was getting at（not sure what she was getting at—— Bradley's confusion）
+**关键词：** coat room, ID checkpoint, Grey Goose（衣帽间、身份证检查点、灰雁伏特加—— nightclub infrastructure）、not sure what she was getting at（不确定她要表达什么—— Bradley's confusion）
 
 **表达方式：** Bradley's literal observation vs Bree's pattern recognition. He sees infrastructure; she sees marketing connections. 这种 "different investigative styles" 显示 their complementary skills.
 
@@ -65,11 +65,11 @@ modified: "2026-10-19"
 
 > **原句 5:** "I see this." She pointed to the wall, at all the beer advertisements. "Which made me think about marketing, which led me to think about social media and how beer sponsors online are huge right now."
 
-**中文理解：** "I see this." She pointed to the wall, at all the beer advertisements. "Which made me think about marketing, which led me to think about social media and how beer sponsors online are huge right now."
+**中文理解：** "我看到这个。"她指向墙上的所有啤酒广告。"这让我想到市场营销，进而想到社交媒体，以及啤酒赞助商在线上有多火。"
 
 **句子结构：** 直接引语 + 主谓宾（She pointed...）+ 直接引语（which made me think...）。
 
-**关键词：** beer advertisements（beer advertisements—— visual clue）、marketing → social media → beer sponsors（marketing → social media → beer sponsors—— deductive chain）
+**关键词：** beer advertisements（啤酒广告—— visual clue）、marketing → social media → beer sponsors（市场营销→社交媒体→啤酒赞助商—— deductive chain）
 
 **表达方式：** Bree's deductive chain shows her investigative method: visual clue → marketing → social media → beer sponsors. 这种 "observation → deduction → investigation" 的 chain 是 PI fiction 的 classic trope.
 
@@ -77,11 +77,11 @@ modified: "2026-10-19"
 
 > **原句 6:** "I am kinda great, aren't I?" She laughed as I followed her out, but I stopped when she climbed into her truck. "What?"
 
-**中文理解：** "I am kinda great, aren't I?" She laughed as I followed her out, but I stopped when she climbed into her truck. "What?"
+**中文理解：** "我觉得自己还挺不错的，不是吗？"她笑着走出门，但当我看到她爬上卡车时停了下来。"怎么了？"
 
 **句子结构：** 直接引语 + 主谓宾（She laughed...）+ but 并列（I stopped...）+ 直接引语。
 
-**关键词：** kinda great（kinda great—— playful self-assessment）、stopped when she climbed（stopped when she climbed—— Bradley's protective instinct）
+**关键词：** kinda great（ kinda great—— playful self-assessment）、stopped when she climbed（stopped when she climbed—— Bradley's protective instinct）
 
 **表达方式：** Bree's playful self-assessment ("kinda great") shows her confidence. Bradley's "stopped when she climbed into her truck" 显示 his protective instinct—he wants to control the situation (take his car).
 
@@ -89,7 +89,7 @@ modified: "2026-10-19"
 
 > **原句 7:** "Take whatever." She shrugged. Someone knocked on the door, and she walked over and opened it without even checking to see who it was. "Hey, girl." Her voice went high pitched, and I cringed.
 
-**中文理解：** "Take whatever." She shrugged. Someone knocked on the door, and she walked over and opened it without even checking to see who it was. "Hey, girl." Her voice went high pitched, and I cringed.
+**中文理解：** "随便拿。"她耸了耸肩。有人敲门，她走过去打开门，连看是谁都没看。"嘿，宝贝。"她的声音变得尖细，我感到一阵不适。
 
 **句子结构：** 直接引语 + 主谓宾（She shrugged）+ 主谓宾（Someone knocked...）+ and 并列（she walked over...）+ 直接引语 + 主谓宾（Her voice went...）+ and 并列（I cringed）。
 
@@ -101,7 +101,7 @@ modified: "2026-10-19"
 
 > **原句 8:** "I prefer being the predator." She tried to joke, but fear made her voice quiver.
 
-**中文理解：** "I prefer being the predator." She tried to joke, but fear made her voice quiver.
+**中文理解：** "我更喜欢做捕食者。"她试图开玩笑，但恐惧让她的声音颤抖。
 
 **句子结构：** 直接引语 + 主谓宾（She tried to joke）+ but 并列（fear made her voice quiver）。
 
@@ -113,7 +113,7 @@ modified: "2026-10-19"
 
 > **原句 9:** "I got you—I promise." As soon as the words were out of my mouth, I knew. Her eyes widened, and the sadness that passed through them pierced my chest like a knife.
 
-**中文理解：** "I got you—I promise." As soon as the words were out of my mouth, I knew. Her eyes widened, and the sadness that passed through them pierced my chest like a knife.
+**中文理解：** "我抓住你了——我保证。"话一出口，我就明白了。她的眼睛睁大了，而从中流露出的悲伤像刀子一样刺穿了我的胸口。
 
 **句子结构：** 直接引语 + 主谓宾（As soon as the words were out...）+ 主谓宾（I knew）+ and 并列（Her eyes widened...）。
 
@@ -125,7 +125,7 @@ modified: "2026-10-19"
 
 > **原句 10:** "Bree, get your ass inside the house before I bring it in myself," I commanded, and she jumped inside. I hid my smirk. See? She can listen.
 
-**中文理解：** "Bree, get your ass inside the house before I bring it in myself," I commanded, and she jumped inside. I hid my smirk. See? She can listen.
+**中文理解：** "Bree，给我滚进屋里，不然我自己把你拖进去，"我命令道，她跳了进去。我隐藏住 smirk。看吧？她能听。
 
 **句子结构：** 直接引语 + 主谓宾（I commanded）+ and 并列（she jumped inside）+ 主谓宾（I hid my smirk）+ 独立句（See? She can listen.）。
 
@@ -137,7 +137,7 @@ modified: "2026-10-19"
 
 > **原句 11:** "Don't tempt me." I darted my tongue and stole a quick taste of her sweet skin. She sucked in a sharp breath.
 
-**中文理解：** "Don't tempt me." I darted my tongue and stole a quick taste of her sweet skin. She sucked in a sharp breath.
+**中文理解：** "别诱惑我。"我伸出舌头，偷尝了她甜蜜肌肤的味道。她 sharp 地吸了一口气。
 
 **句子结构：** 直接引语 + 主谓宾（I darted my tongue...）+ 主谓宾（She sucked in...）。
 
