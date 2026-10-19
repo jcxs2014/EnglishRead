@@ -32,6 +32,9 @@ site/static/
 # 中间文档红线（2026-10-11 用户拍板）：审查报告/元数据规格一律不入库，只允许 raw-gates 落盘
 .memory/reviews/
 .memory/metro-specs/
+# raw-gates 下的派活中间产物（batches/ 逐批 spec 与 brief）：一次性施工用料，无复核价值，不入库
+# （2026-10-19 用户拍板；台账/门禁原件/规格书仍入库）
+.memory/raw-gates/*/batches/
 .opencode/
 .commandcode/
 .cortexkit/
