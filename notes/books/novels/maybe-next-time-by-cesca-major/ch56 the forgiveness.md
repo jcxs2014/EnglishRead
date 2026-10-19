@@ -24,7 +24,7 @@
 
 **读者视角提示**：I went back to the same spot = Emma's compulsion; "the next night, and the next" = the loop's repetition; "unable to stop scratching the itch" = her compulsion; "The car would appear" = her observation; "I would watch as she seemed to inexplicably lose control" = her observation; "He was always gone. 10:17 p.m." = her observation; "And I knew he would always be gone" = her realization; this is Emma's compulsion—she returns every night, watching Hattie crash, then finding Dan dead.
 
-> **原句 3:** “'I had to come,' she said. 'I had to go somewhere safe.'”
+> **原句 2:** “'I had to come,' she said. 'I had to go somewhere safe.'”
 
 **中文理解**："I had to come," she said. "I had to go somewhere safe."
 
@@ -34,7 +34,7 @@
 
 **读者视角提示**：I had to come = Hattie's explanation; "I had to go somewhere safe" = her need; "Shame filled me" = Emma's emotion; "She had needed us" = Emma's realization; "The next night I was there" = Emma's decision; "I was there to help her out of the car" = her action; "I've told them where to find you," I lied = Emma's lie; "She followed me meekly" = Hattie's compliance; this is Emma's shift—she's helping Hattie instead of running away.
 
-> **原句 4:** “'I'm leaving him, Emma,' she murmured. 'I . . . I need somewhere to stay.'”
+> **原句 3:** “'I'm leaving him, Emma,' she murmured. 'I . . . I need somewhere to stay.'”
 
 **中文理解**："I'm leaving him, Emma," she murmured. "I . . . I need somewhere to stay."
 
@@ -44,7 +44,7 @@
 
 **读者视角提示**：I'm leaving him = Hattie's decision; "I need somewhere to stay" = her need; "Instinctively I stepped across to her" = Emma's instinct; "Stay here" = Emma's offer; "The words felt natural" = her feeling; "What happened?" = Emma's question; "I lost a baby. A baby girl. Seven weeks." = Hattie's revelation—miscarriage; "I'm sorry" = Emma's response; this is Hattie's confession—miscarriage and leaving Ed.
 
-> **原句 5:** “'He said, "At least next time it might be a boy," and then,' she swallowed, unable to hold my appalled gaze, 'he kept eating his dinner. Just like that. His Dover sole. Like he hadn't just said the most devastating thing.'”
+> **原句 4:** “'He said, "At least next time it might be a boy," and then,' she swallowed, unable to hold my appalled gaze, 'he kept eating his dinner. Just like that. His Dover sole. Like he hadn't just said the most devastating thing.'”
 
 **中文理解**："He said, 'At least next time it might be a boy,' and then," she swallowed, unable to hold my appalled gaze, "he kept eating his dinner. Just like that. His Dover sole. Like he hadn't just said the most devastating thing."
 

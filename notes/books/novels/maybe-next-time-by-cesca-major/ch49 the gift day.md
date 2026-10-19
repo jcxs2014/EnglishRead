@@ -24,7 +24,7 @@
 
 **读者视角提示**：Hey = Dan's greeting; "actively recalling" = Emma's intention; "A gift" = her mantra; "I reached over and surprised Dan with a kiss" = her initiative; "It was great sex" = her experience; "reminding me that I loved him" = her rediscovery; this is Emma's "gift" day beginning.
 
-> **原句 5:** “'Poppy, can I ask you something?'”
+> **原句 2:** “'Poppy, can I ask you something?'”
 
 **中文理解**："Poppy, can I ask you something?"
 
