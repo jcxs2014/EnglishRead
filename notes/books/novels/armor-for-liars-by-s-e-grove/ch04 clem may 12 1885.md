@@ -31,13 +31,13 @@ start_date: 2026-10-19
 
 > **原句 2:** "But he says he has seen you. More than two years ago, when he was called to Commonwealth University to administer a language exam. He said you were there, and that you saw each other from a distance."
 
-**中文理解**：父亲曾在 Commonwealth 大学见过母亲的 spirit——暗示两人无法接近，母亲被某种力量控制。
+**中文理解**：Clem 说，父亲说他见过母亲：两年前父亲被叫去 Commonwealth 大学主持一场语言考试，他说母亲当时就在那儿，两人远远地彼此看见过。
 
 **句子结构**：转折并列（But he says he has seen you）+ 时间状语（More than two years ago, when he was called...）+ 宾语从句（He said you were there, and that you saw each other from a distance）。
 
 **关键词**：
 
-**为什么这样写**：用"from a distance"建立母亲被束缚的图像，同时把 enchanter 与学术机构关联，暗示权力的制度化。
+**为什么这样写**：用远远看见写两人之间的阻隔，也把那个附魔师与学校扯上关系，暗示这种控制已经成了体面人的事。
 
 ---
 
@@ -55,61 +55,61 @@ start_date: 2026-10-19
 
 > **原句 4:** "I have no case, I have no case."
 
-**中文理解**：父亲的重复——。在法律体系中，父亲无法通过法律手段救母，因为 enchanter 。
+**中文理解**：父亲反复说：我没有案子，我没有案子。
 
 **句子结构**：重复短语。极简而绝望。
 
 **关键词**：
 
-**为什么这样写**：用重复强调父亲的绝望，同时把 enchanter 的权力写成制度化的（own the courts），为 Clem 的"enchantment"方案做铺垫。
+**为什么这样写**：用一句重复写绝望。他不是没有理，而是法律不认这桩理，制度性的无力被写成一个人反复的自语。
 
 ---
 
 > **原句 5:** "What foul magic does he make you do? Is he a very terrible man? Is he vicious?"
 
-**中文理解**：Clem 对母亲处境的追问——、、。一连串问号表达 Clem 的焦虑与决心。
+**中文理解**：Clem 追问：他逼你做什么下作的法术？他是个很可怕的人吗？他凶残吗？
 
 **句子结构**：三个问句连用，形成 rhetorical accumulation。
 
 **关键词**：
 
-**为什么这样写**：用问句把 Clem 的焦虑具象化，同时把 enchanter 的形象留白（"what foul magic"），为后文揭示做铺垫。
+**为什么这样写**：用三个连问写他对母亲处境的想象。他还不认识那个附魔师，只能靠问句去填，恐惧也因此长得更大。
 
 ---
 
 > **原句 6:** "They own this world. They own the city. They own the courts. They own enchantment. There is nothing we can do."
 
-**中文理解**：父亲的绝望宣言——的重复把 enchanter 的权力写成全方位的垄断，把 Clem 推向反抗。
+**中文理解**：父亲说：这世界是他们的，城是他们的，法庭是他们的，附魔也是他们的——我们什么都做不了。
 
 **句子结构**：四个 "They own..." 并列分句 + 结论分句（There is nothing we can do）。排比递进。
 
 **关键词**：
 
-**为什么这样写**：用 "They own" 的重复把 enchanter 的权力写成系统性的，为 Clem 的"steal her back with enchantment"形成反抗动机。
+**为什么这样写**：用四个他们拥有把权力铺满，排比到一句什么都做不了。父亲的认命与 Clem 的不认命由此分开。
 
 ---
 
 > **原句 7:** "You only need one light to find your way in the darkness. One light."
 
-**中文理解**：母亲的格言——。Clem 把这格言作为反抗的信念，的重复强调。
+**中文理解**：母亲说：在黑暗里找路，只需要一盏灯。一盏灯。
 
 **句子结构**：主谓宾 + 不定式（to find your way in the darkness）+ 重复短语（One light）。
 
 **关键词**：
 
-**为什么这样写**：用母亲的格言把 Clem 的反抗与母亲的智慧连接，"One light"成为 Clem 的行动准则。
+**为什么这样写**：用一盏灯的重复把希望压成一句短语。它是母亲留给 Clem 的信念，也是全书反复回响的那一句。
 
 ---
 
 > **原句 8:** "I will find a way to free you."
 
-**中文理解**：Clem 的宣言—— 简短而决绝，把全章推向 Clem 的主动反抗。
+**中文理解**：Clem 说：我会找到办法把你救出来。
 
 **句子结构**：主谓宾 + 不定式（to free you）。简短而有力。
 
 **关键词**：
 
-**为什么这样写**：用最简短的宣言把 Clem 从被动（父亲的 despair）转向主动（enchantment 反抗），建立她的 character arc。
+**为什么这样写**：用一句宣言把被动换成主动。父亲认了命，儿子不认，人物的方向在这一句上转过来。
 
 ---
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| `deceived` | 欺骗的 | appearances are deceiving |
+| `administer` | 欺骗的 | More than two years ago, when he was called to Commonwealth University to administer a language exam. |
 | `helpless` | 无助的 | we are helpless |
 
 ### ⭐ 基础

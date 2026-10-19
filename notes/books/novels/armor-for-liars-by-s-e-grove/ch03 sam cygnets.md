@@ -19,121 +19,121 @@ start_date: 2026-10-19
 
 > **原句 1:** "Only bone confers the ability to modify living creatures. Bone does much else besides, but it is most coveted for how it renders the body mutable, momentarily bestowing upon the enchanter the powers of a god."
 
-**中文理解**：章首 epigraph 定义 bone 的魔法：只有骨能改变活物，骨让身体可塑，瞬间赋予 enchanter 神的力量。这是本书魔法体系的核心规则。
+**中文理解**：引文说，只有骨能赋予改造活物的能力；骨还有别的用处，但最受人觊觎的是它能让身体可塑，在一瞬之间把神一般的力量交到附魔师手上。
 
-**句子结构**：第一句主谓宾 + 不定式（to modify living creatures）。第二句主谓宾 + 并列分句（Bone does much else besides）+ 原因状语从句（but it is most coveted for how it renders...）。"momentarily bestowing"强调神力的短暂性。
+**句子结构**：首句主谓宾（Only bone confers the ability），to modify living creatures 是不定式作后置定语；第二句用 Bone does much else besides 起头，but it is most coveted for how it renders the body mutable 转折，how 引导宾语从句，momentarily bestowing upon the enchanter the powers of a god 是分词短语作结果。
 
 **关键词**：
 
-**为什么这样写**：用 epigraph 形式建立魔法规则，不打断叙事。"Only bone"的限制与后文 Cisneros Steel（骨制装甲）呼应。
+**为什么这样写**：用一段引文把规矩立好。只有骨三字限定了范围，也为后文那件骨制盔甲的出现预先铺路。
 
 ---
 
 > **原句 2:** "It had been four months and eleven days since my death, and I was here to watch my murderer attend a party. Where was he?"
 
-**中文理解**：Sam 的第一人称叙述——他死已四个月十一日，此行目的是看 murderer 参加聚会。把悬念抛给读者。
+**中文理解**：Sam 说，他死了四个月零十一天，此刻来这儿是为了看杀他的人赴宴——他在哪儿？
 
-**句子结构**：主谓宾 + 时间状语（It had been four months and eleven days since my death）+ 并列分句（and I was here to watch my murderer attend a party）+ 疑问句（Where was he?）。
+**句子结构**：首句用 It had been four months and eleven days since my death 的 it 作形式主语结构；第二句用 and 连接 I was here to watch my murderer attend a party，watch 后接省略 to 的不定式作宾语补足语；末句是 Where was he? 的疑问句。
 
 **关键词**：
 
-**为什么这样写**：用第一人称+精确时间+疑问句，立即建立 Sam 的身份（死灵 thew）与动机（追查 murderer），同时把 suspense 留给读者。
+**为什么这样写**：用精确到天的计时写执念。一个死者把日子数得这么清，读者由此知道复仇是他全部的生活。
 
 ---
 
 > **原句 3:** "I left them, for my point of interest lay elsewhere. I had still not found him."
 
-**中文理解**：Sam 离开年轻 Cygnets，因为他的兴趣点在别处——他还没找到 murderer。把 Sam 的目的与聚会的社交功能并置。
+**中文理解**：他离开了那些年轻人，因为他在意的东西在别处；他还没有找到那个人。
 
-**句子结构**：主谓宾 + 原因状语从句（for my point of interest lay elsewhere）+ 并列分句（I had still not found him）。
+**句子结构**：首句主谓宾是 I left them，for my point of interest lay elsewhere 是原因状语从句；末句主谓宾是 I had still not found him。
 
 **关键词**：
 
-**为什么这样写**：用 Sam 的"search"与聚会的"celebration"形成对比，暗示 Sam 的孤独与执着。
+**为什么这样写**：用在意的东西在别处把热闹与孤独并置。满厅的人在寻欢，他只顾着找一个人，主角的位置由此确立。
 
 ---
 
 > **原句 4:** "Everyone envied Simeon Trench."
 
-**中文理解**：所有人羡慕 Simeon Trench。简短而绝对，建立 Simeon 的魅力与地位。
+**中文理解**：所有人都羡慕 Simeon Trench。
 
-**句子结构**：主谓宾。极简。
+**句子结构**：主谓宾，四个词。
 
 **关键词**：
 
-**为什么这样写**：用绝对句式建立 Simeon 的人物形象，为后文 Sam 对他的 "calculating avarice" 观察埋伏笔。
+**为什么这样写**：用一句绝对的判断把 Simeon 立起来。越多人羡慕，后文揭示他真正的野心时反差越大。
 
 ---
 
 > **原句 5:** "For while every young man who applied to Massachusetts Commonwealth University had heard rumors of the powerful Cisneros Society, none knew its purpose or its members, both of which were strictly secret."
 
-**中文理解**：所有申请 Commonwealth 的年轻人都听过 Cisneros Society 的传闻，但没人知道其目的或成员——两者都严格保密。这是 Society 的神秘性。
+**中文理解**：每个报考 Massachusetts Commonwealth University 的年轻人虽然都听过那个权势很大的 Cisneros Society 的传闻，却没人知道它的目的或成员——两者都严加保密。
 
-**句子结构**：for 引导的原因状语从句 + while 引导的让步从句（every young man who applied... had heard rumors）+ 主句（none knew its purpose or its members）+ 定语从句（both of which were strictly secret）。
+**句子结构**：For 引导原因，while 引导让步状语从句（every young man who applied to Massachusetts Commonwealth University had heard rumors of the powerful Cisneros Society），who 引导定语从句；主句是 none knew its purpose or its members，both of which were strictly secret 是非限定定语从句。
 
 **关键词**：
 
-**为什么这样写**：用 "none knew" 强化 Society 的神秘，为后文 Cygnets 的"game"与挑战建立悬念。
+**为什么这样写**：用传闻与不知并列写出一个半明半暗的组织。读者知道它存在却看不到里面，这份不透明正是全书悬念的底子。
 
 ---
 
 > **原句 6:** "The ballroom was lit by chandeliers, their candle smoke casting a dusk over the room."
 
-**中文理解**：舞厅由枝形吊灯照明，烛烟在房间上空投下暮色。把烛烟写成暮色的制造者，与 prologue 的呼应。
+**中文理解**：舞厅由枝形吊灯照亮，烛烟在屋里投下一层暮色。
 
-**句子结构**：主系表（The ballroom was lit by chandeliers）+ 伴随分词短语（their candle smoke casting a dusk over the room）。
+**句子结构**：主系表是被动语态（The ballroom was lit by chandeliers），their candle smoke casting a dusk over the room 是独立主格结构作伴随状语。
 
 **关键词**：
 
-**为什么这样写**：用 "dusk"把聚会的照明写成暮色，与 prologue 的" dusky evenings"主题呼应，暗示聚会的危险性。
+**为什么这样写**：用一层暮色写场所的气味。烛烟把亮堂的舞厅压成黄昏，与开篇那条暮色中的林道遥遥相接。
 
 ---
 
 > **原句 7:** "The Embalmer had never taxed his own resources more, for each small scale contained a piece of human bone."
 
-**中文理解**：Embalmer 从未如此动用资源，因为每一片小甲片都含有一块人骨。这是 Cisneros Steel 的残酷秘密。
+**中文理解**：这位殓师从未如此耗过自己的家底，因为每一片小甲片里都含着一块人骨。
 
-**句子结构**：主谓宾（The Embalmer had never taxed his own resources more）+ 原因状语从句（for each small scale contained a piece of human bone）。
+**句子结构**：主谓宾（The Embalmer had never taxed his own resources more），for each small scale contained a piece of human bone 是原因状语从句。
 
 **关键词**：
 
-**为什么这样写**：把 "bone"的魔法规则具象化为装甲的材料，揭示 Cisneros Society 的道德代价。
+**为什么这样写**：用一片甲片一块人骨把奢华与残忍扣在一起。读者由此明白那件漂亮盔甲的价钱是什么。
 
 ---
 
 > **原句 8:** "Murcia, who made the five great creatures to assist the Crusades, as you all know."
 
-**中文理解**：Murcia，制造了五只伟大生物协助十字军东征，如你们所知。这是 Cisneros Steel 的最终目的——复活 Murcia's Five。
+**中文理解**：介绍者说：Murcia，就是那位造出五只巨物协助十字军东征的人，各位都知道。
 
-**句子结构**：主语（Murcia）+ 定语从句（who made the five great creatures to assist the Crusades）+ 介词短语（as you all know）。
+**句子结构**：名词短语 Murcia 作主语，who made the five great creatures to assist the Crusades 是非限定定语从句，as you all know 是插入的评注。
 
 **关键词**：
 
-**为什么这样写**：用历史人物 Murcia 把魔法体系嵌入真实历史，增加世界观的厚重感。
+**为什么这样写**：把传说中的旧事当成常识带过。一个古老的传说在此被当作可以复制的技术，读者由此预感危险将重演。
 
 ---
 
 > **原句 9:** "I saw one man, at least, who wasn't pushing his way urgently toward the moths but was, instead, lounging comfortably by the double doors of the ballroom. Simeon was smiling, watching the transformations with an air of easy languor."
 
-**中文理解**：Sam 观察到 Simeon 不急于挤向蛾，而是舒服地靠在门边，微笑观看变身，带着轻松的倦怠。Sam 看穿 Simeon 的是伪装。
+**中文理解**：至少他看见一个人没有急着往那些蛾那边挤，而是舒舒服服地靠在舞厅的双开门旁：Simeon 笑着，用一副懒散的姿态看着那些变化。
 
-**句子结构**：主谓宾 + 定语从句（who wasn't pushing... but was, instead, lounging...）+ 并列分句（Simeon was smiling, watching... with an air of easy languor）。
+**句子结构**：首句主谓宾是 I saw one man，who wasn't pushing his way urgently toward the moths but was, instead, lounging comfortably 是定语从句，用 not… but… 对照；末句用 Simeon was smiling 起头，watching the transformations with an air of easy languor 是分词短语。
 
 **关键词**：
 
-**为什么这样写**：用 Sam 的观察建立 Simeon 的双面性——表面 indifference，实则 avarice。这是 Sam 作为 thew 的特殊视角（能看穿人）。
+**为什么这样写**：用不去挤这一个反常动作把 Simeon 挑出来。别人都在看热闹，他在看门道，人物的分量由此显出。
 
 ---
 
 > **原句 10:** "But I'd been watching Simeon for more than four months, and I knew he was not indifferent. I could detect what others would not: the glint of a calculating avarice in his eye."
 
-**中文理解**：Sam 已观察 Simeon 超过四个月，知道他并非 indifferent。Sam 能察觉别人察觉不到的：眼中计算的贪婪之光。
+**中文理解**：可他已经盯了 Simeon 四个多月，知道他并非无动于衷；他能看出别人看不出的东西——Simeon 眼里那一点精于算计的贪婪。
 
-**句子结构**：主谓宾 + 时间状语（for more than four months）+ 并列分句（and I knew he was not indifferent）+ 主谓宾 + 宾语从句（I could detect what others would not: the glint of a calculating avarice in his eye）。
+**句子结构**：首句用 for more than four months 作时间状语，I knew he was not indifferent 带宾语从句；末句主谓宾是 I could detect what others would not，冒号后 the glint of a calculating avarice in his eye 是同位补充。
 
 **关键词**：
 
-**为什么这样写**：用 Sam 的 thew 视角揭示 Simeon 的真实面目，把 "avarice" 定为 Simeon 的核心动机，为后续冲突埋伏笔。
+**为什么这样写**：用别人看不出点出灵体视角的用处。前一句还在写 Simeon 的从容，此处一句话把它翻成算计，对手的真面目第一次被揭开。
 
 ---
 
@@ -165,7 +165,7 @@ start_date: 2026-10-19
 | `bone` | 骨 | Only bone confers the ability |
 | `armor` | 装甲 | steel-scale armor |
 | `moth` | 蛾 | bring a live moth |
-| `ballroom` | 舞厅 | the grand ballroom |
+| `ballroom` | 舞厅 | I searched the large ballroom—already somewhat crowded—and the hallways lined with servants. |
 
 ## 一句话总结
 

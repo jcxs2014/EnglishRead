@@ -19,109 +19,109 @@ start_date: 2026-10-19
 
 > **原句 1:** "I knew that they would act against me somehow, but I hadn't imagined it would be like this. I am called to court. Commonwealth accuses me of fraud."
 
-**中文理解**：Clem 的 opening——、。Clem 的 shock。
+**中文理解**：Clem 说他早知道他们会想法子对付自己，却没料到是这样：他被传上法庭，Commonwealth 指控他欺诈。
 
-**句子结构**：主谓宾（I knew that they would act against me somehow）+ 转折（but I hadn't imagined it would be like this）+ 主谓宾（I am called to court）+ 主谓宾（Commonwealth accuses me of fraud）。
+**句子结构**：首句主谓宾（I knew that they would act against me somehow）；第二句用 but I hadn't imagined 加虚拟语气的宾语从句 it would be like this；末两句是主谓宾短句（I am called to court 是被动语态，Commonwealth accuses me of fraud 是主动语态）。
 
 **关键词**：
 
-**为什么这样写**：用 Clem's shock 把 her situation 具象化，"fraud"把 charge 具象化，为后文 "If I am found liable for fraud, so be it" 做铺垫。
+**为什么这样写**：用料到却没料到写事态的升级。校方不把他除名了事，而要走上法庭，冲突由此从校内规矩转到公开场合。
 
 ---
 
 > **原句 2:** "And to pour salt in the wound, the Trenches came today—Norbert and Simeon."
 
-**中文理解**：Clem 的 frustration——、。Clem 的 bad timing。
+**中文理解**：雪上加霜的是，Trench 家今天来了人——Norbert 和 Simeon。
 
-**句子结构**：主谓宾（And to pour salt in the wound, the Trenches came today—Norbert and Simeon）。
+**句子结构**：And to pour salt in the wound 是插入的不定式短语表结果，主句 the Trenches came today 后接破折号引出的同位语 Norbert and Simeon。
 
 **关键词**：
 
-**为什么这样写**：用 "pour salt in the wound"把 Clem's frustration 具象化，"the Trenches came today"把 bad timing 具象化，为后文 Norbert's visit 做铺垫。
+**为什么这样写**：用雪上加霜把两桩坏事叠在一起。官司的阴影还没散，亲戚又来登门，Clem 的处境被挤到最窄处。
 
 ---
 
 > **原句 3:** "I could feel Rosetta's tokens straining with Simeon's presence. I hadn't known this about tokens. I've never read it; I've never heard of it. Could it be that I am peculiar, and it only happens to me?"
 
-**中文理解**：Clem 的 discovery——、。Clem's new knowledge。
+**中文理解**：他说 Simeon 一在场，Rosetta 那些信物就像绷紧了一样。他对信物的这门性质从无所知，书上没见过、也从没听人提过；难道是他自己特别，只有他感觉得到？
 
-**句子结构**：主谓宾（I could feel Rosetta's tokens straining with Simeon's presence）+ 主谓宾（I hadn't known this about tokens）+ 主谓宾（I've never read it; I've never heard of it）+ 疑问句（Could it be that I am peculiar, and it only happens to me?）。
+**句子结构**：首句主谓宾（I could feel Rosetta's tokens straining），with Simeon's presence 是介词短语；随后 I hadn't known this about tokens 与两个并列的完成时短句（I've never read it; I've never heard of it）连用；末句是疑问句，Could it be that… 后接并列从句。
 
 **关键词**：
 
-**为什么这样写**：用 "tokens straining"把 token's interaction 具象化，"I hadn't known this about tokens"把 Clem's new knowledge 具象化，为后文 "He is a devil" 做铺垫。
+**为什么这样写**：用没读过、没听过写他的孤陋。Clem 对附魔的认识大半来自自学，这份底气不足正好解释他后来为何屡屡判断失准。
 
 ---
 
 > **原句 4:** "He is a devil. I never told you of the time he locked me in the conservatory on a visit to Clover Hall."
 
-**中文理解**：Clem 的指控——、。Clem 关于 Simeon 残忍的往事。
+**中文理解**：他说 Simeon 是个恶魔，并说有一回在 Clover Hall 做客，他被对方锁进了花房，这事他从没对母亲讲过。
 
-**句子结构**：主系表（He is a devil）+ 主谓宾（I never told you of the time he locked me in the conservatory on a visit to Clover Hall）。
+**句子结构**：首句主系表（He is a devil）；第二句主谓宾（I never told you of the time），后接省略 that 的定语从句 he locked me in the conservatory，on a visit to Clover Hall 是时间状语。
 
 **关键词**：
 
-**为什么这样写**：用 "He is a devil"把 Simeon's character 具象化，"locked me in the conservatory"把 Simeon's cruelty 具象化，为后文 "I was their victim, not Rosie" 做铺垫。
+**为什么这样写**：用一句从没讲过开启旧事。信里首次交代表哥的旧恶，读者对 Simeon 的厌恶有了来历。
 
 ---
 
 > **原句 5:** "And then I had the strangest idea; I thought, in that confused way of a child, that I would bring her back to life. I could picture her, pulled from the pond by the strength of my will, eyes opened, alive once more."
 
-**中文理解**：Clem's childlike delusion——、。这是 Clem's childhood trauma。
+**中文理解**：那时他冒出一个最古怪的念头，用孩子那种混乱的方式想着要把她救活：他能想象出她被自己的意志从池子里拉上来，眼睛睁开，又活了过来。
 
-**句子结构**：主谓宾（And then I had the strangest idea）+ 主谓宾（I thought, in that confused way of a child, that I would bring her back to life）+ 主谓宾（I could picture her, pulled from the pond by the strength of my will, eyes opened, alive once more）。
+**句子结构**：首句主谓宾（I had the strangest idea）；第二句用 I thought that… 加插入语 in that confused way of a child，从句里 would bring her back to life 是谓语；末句 I could picture her 后用三个并列的过去分词短语 pulled from the pond、eyes opened、alive once more 铺开画面。
 
 **关键词**：
 
-**为什么这样写**：用 "strangest idea"把 Clem's childlike delusion 具象化，"bring her back to life"把 Clem's childhood fantasy 具象化，为后文 "I was so fervent in my anguish and delusion" 做铺垫。
+**为什么这样写**：用孩子那种混乱的方式写绝望里的自我安慰。Clem 的创伤在此不是事件而是幻觉，人物因此比单纯的受害者更厚。
 
 ---
 
 > **原句 6:** "I was so fervent in my anguish and delusion that I convinced myself it was true. And then I saw her, through the glass of the conservatory, running along the lawn back toward you and Father and the Trenches."
 
-**中文理解**：Clem's delusion——、。这是 Clem's childhood trauma 的 resolution。
+**中文理解**：他当时陷在痛苦与妄想里，热切到自己都信了那是真的；随后他隔着花房的玻璃看见她正沿着草地跑回去，跑向母亲、父亲和 Trench 一家。
 
-**句子结构**：主系表（I was so fervent in my anguish and delusion that I convinced myself it was true）+ 主谓宾（And then I saw her, through the glass of the conservatory, running along the lawn back toward you and Father and the Trenches）。
+**句子结构**：首句用 so… that 结构（I was so fervent in my anguish and delusion that I convinced myself it was true）；第二句主谓宾是 I saw her，through the glass of the conservatory 是插入的介词短语，running along the lawn 是分词短语，back toward you and Father and the Trenches 是方向状语。
 
 **关键词**：
 
-**为什么这样写**：用 "fervent in my anguish and delusion"把 Clem's childhood state 具象化，"running along the lawn"把 Rosie's reappearance 具象化，为后文 "I thought I had really brought her back to life" 做铺垫。
+**为什么这样写**：用信了那是真的写幻觉的完整。读者跟着他一起信了几行，随后才知道那只是两个孩子的恶意玩笑。
 
 ---
 
 > **原句 7:** "It took me some years to realize that it was only Simeon and Mariah's cruelty, and that they had never pushed her into the pond but only said so to torment me. I was their victim, not Rosie."
 
-**中文理解**：Clem's realization——、。这是 Clem's trauma resolution。
+**中文理解**：他过了好些年才明白，那不过是 Simeon 和 Mariah 的狠毒：他们根本没把 Rosie 推进池子，只是那么说来折磨他。受害者是他，不是 Rosie。
 
-**句子结构**：主谓宾（It took me some years to realize that it was only Simeon and Mariah's cruelty）+ 主谓宾（and that they had never pushed her into the pond but only said so to torment me）+ 主系表（I was their victim, not Rosie）。
+**句子结构**：首句用 It took me some years to realize 的形式主语结构，后接两个并列的 that 宾语从句（it was only Simeon and Mariah's cruelty 与 they had never pushed her into the pond but only said so to torment me）；末句是主系表，I 作主语，their victim 作表语，not Rosie 是补充。
 
 **关键词**：
 
-**为什么这样写**：用 "Simeon and Mariah's cruelty"把 Clem's trauma 具象化，"I was their victim, not Rosie"把 Clem's trauma resolution 具象化，为后文 "Now I am wiser" 做铺垫。
+**为什么这样写**：用受害者是他把旧事重新定性。仇恨的对象从一场意外变成两个人，Clem 后来针对 Simeon 的所有举动也就有了根。
 
 ---
 
 > **原句 8:** "There is one bit of good news. I've found a way to search for the lead case. It is due to an unexpected generosity, or perhaps it is one kindness in return for another."
 
-**中文理解**：Clem's ——、、。这是 Vera's role。
+**中文理解**：有一件好消息：他找到了搜寻那只铅盒的门路。这要归功于一份没料到的慷慨，或者说是以善报善。
 
-**句子结构**：主系表（There is one bit of good news）+ 主谓宾（I've found a way to search for the lead case）+ 主系表（It is due to an unexpected generosity, or perhaps it is one kindness in return for another）。
+**句子结构**：首句主系表（There is one bit of good news）；第二句主谓宾（I've found a way to search for the lead case）；末句是主系表，It is due to an unexpected generosity 后用 or perhaps 引出并列的表语从句 it is one kindness in return for another。
 
 **关键词**：
 
-**为什么这样写**：用 "one bit of good news"把 Clem's hope 具象化，"search for the lead case"把 Clem's plan 具象化，"unexpected generosity"把 Vera's role 具象化，为后文 "On Monday, you will be visited by a young lady in a maid's uniform" 做铺垫。
+**为什么这样写**：用好消息把信从回忆里拉回计划。前面几段是创伤，这一段是行动，全章的重量由此重新压回主线。
 
 ---
 
 > **原句 9:** "If I am found liable for fraud, so be it. We will at least have you back."
 
-**中文理解**：Clem 的 resolution——、。Clem 的 determination。
+**中文理解**：就算被判欺诈，他也认了：至少他们能把母亲接回来。
 
-**句子结构**：条件句（If I am found liable for fraud, so be it）+ 主谓宾（We will at least have you back）。
+**句子结构**：If 引导条件句（If I am found liable for fraud），主句 so be it 是省略式；第二句主谓宾（We will at least have you back）。
 
 **关键词**：
 
-**为什么这样写**：用 "so be it"把 Clem's acceptance 具象化，"We will at least have you back"把 Clem's hope 具象化，为后文 chapters 做铺垫。
+**为什么这样写**：用认了写取舍的决断。Clem 把输掉官司也算进代价里，读者由此看出他要救母亲的心意有多重。
 
 ---
 

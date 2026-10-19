@@ -19,109 +19,109 @@ start_date: 2026-10-19
 
 > **原句 1:** "With the benefit of hindsight, I should have stayed with Clementine and Rosetta. But when I saw them leaving Clover Hall in a hired coach, I thought the worst had passed, and so I departed to find Maxwell."
 
-**中文理解**：Sam 的 regret——、。Sam's regret。
+**中文理解**：Sam 说，事后看来他本该守在 Clementine 和 Rosetta 身边；可当时他看见两人雇车离开 Clover Hall，以为最坏的已经过去，就转身去找 Maxwell 了。
 
-**句子结构**：时间状语（With the benefit of hindsight）+ 主谓宾（I should have stayed with Clementine and Rosetta）+ 转折（But when I saw them leaving Clover Hall in a hired coach, I thought the worst had passed, and so I departed to find Maxwell）。
+**句子结构**：With the benefit of hindsight 是状语，主句用 I should have stayed 的虚拟语气；第二句用 But 转折，when I saw them leaving Clover Hall in a hired coach 是时间状语从句，主句是 I thought the worst had passed，and so I departed to find Maxwell 并列。
 
 **关键词**：
 
-**为什么这样写**：用 Sam's regret 把 his misjudgment 具象化，"I thought the worst had passed"把 his optimism 具象化，为后文 "It took me away from Clementine for more than a day, vital time that would, alas, cost me greatly" 做铺垫。
+**为什么这样写**：用本该守住开头，把一次判断失误摆到读者面前。他的离开并非疏忽，而是合情合理的判断，这比单纯的失职更让人难受。
 
 ---
 
 > **原句 2:** "It was slow work. And it took me away from Clementine for more than a day, vital time that would, alas, cost me greatly. I had no notion of what was coming."
 
-**中文理解**：Sam 的 realization——、、。Sam's regret。
+**中文理解**：那件事做得很慢，让他离开 Clementine 一天多；这段要紧的时间，唉，后来叫他付了很重的代价。他当时完全不知道要出什么事。
 
-**句子结构**：主系表（It was slow work）+ 主谓宾（And it took me away from Clementine for more than a day, vital time that would, alas, cost me greatly）+ 主谓宾（I had no notion of what was coming）。
+**句子结构**：首句主系表（It was slow work）；第二句主谓宾是 it took me away from Clementine for more than a day，vital time 是同位语，that would, alas, cost me greatly 是定语从句；末句主谓宾是 I had no notion，of what was coming 是介词短语作后置定语。
 
 **关键词**：
 
-**为什么这样写**：用 "It was slow work"把 Sam's assessment 具象化，"vital time that would, alas, cost me greatly"把 Sam's regret 具象化，"I had no notion of what was coming"把 Sam's ignorance 具象化，为后文 "When I finally turned my attention back to her on Monday afternoon" 做铺垫。
+**为什么这样写**：用要紧的时间把枯燥的差事与后来的灾祸接上。叙述者提前认账，读者的不安由此被提前拉起来。
 
 ---
 
 > **原句 3:** "With a speed I would have envied in life, I dashed to Clem's side and forced upon her the greatest urgency I could. It is Rosetta! I wanted to scream at her. We were wrong, the both of us! They were not after you, they were after HER! Run! Run! Run!"
 
-**中文理解**：Sam 的急迫——"With a speed I would have envied in life, I dashed to Clem's side"。Sam 的急迫警告。
+**中文理解**：他以活着时会羡慕的速度冲到 Clem 身边，把能聚起的最强的紧迫感推给他——是 Rosetta！他想冲她喊：他们俩都错了，那伙人要的不是你，是她！快跑、快跑、快跑！
 
-**句子结构**：时间状语（With a speed I would have envied in life）+ 主谓宾（I dashed to Clem's side and forced upon her the greatest urgency I could）+ 引语（It is Rosetta! I wanted to scream at her. We were wrong, the both of us! They were not after you, they were after HER! Run! Run! Run!）。
+**句子结构**：With a speed I would have envied in life 是状语加定语从句，主谓宾是 I dashed to Clem's side and forced upon her the greatest urgency；随后 It is Rosetta! 是主系表，I wanted to scream at her 是主谓宾；末段由 We were wrong, the both of us! 与 They were not after you, they were after HER! 两个并列句加三个祈使句 Run! 收束。
 
 **关键词**：
 
-**为什么这样写**：用 "With a speed I would have envied in life"把 Sam's urgency 具象化，"It is Rosetta!"把 Sam's realization 具象化，"They were not after you, they were after HER!"把 Sam's realization 具象化，为后文 "How had I not understood in time?" 做铺垫。
+**为什么这样写**：用三个快跑写来不及的急。前面他两次示警都没被采纳，这次他连喊都做不到，只能把恐慌推过去。
 
 ---
 
 > **原句 4:** "How had I not understood in time? Of course it would be Rosetta. Simeon had made his vile intentions clear. No doubt he was somewhere nearby now, artfully hidden, ensuring that Rosetta met the terrible end he intended for her."
 
-**中文理解**：Sam 的醒悟——"How had I not understood in time? Of course it would be Rosetta"。Sam 的悔恨。
+**中文理解**：他怎么就没早点想明白？当然会是 Rosetta：Simeon 早就把那份下作的心思露在外面。此刻他多半就在附近，藏得巧妙，等着看 Rosetta 落进他给她备好的结局。
 
-**句子结构**：问句（How had I not understood in time?）+ 主系表（Of course it would be Rosetta）+ 主谓宾（Simeon had made his vile intentions clear）+ 主谓宾（No doubt he was somewhere nearby now, artfully hidden, ensuring that Rosetta met the terrible end he intended for her）。
+**句子结构**：首句是 How had I not understood in time? 的疑问句；第二句主系表（Of course it would be Rosetta）；第三句主谓宾是 Simeon had made his vile intentions clear；末句用 No doubt 起头，he was somewhere nearby now 是主系表，artfully hidden 是过去分词短语，ensuring that Rosetta met the terrible end 是分词短语表结果，he intended for her 是省略 that 的定语从句。
 
 **关键词**：
 
-**为什么这样写**：用 "How had I not understood in time?"把 Sam's regret 具象化，"Of course it would be Rosetta"把 Sam's realization 具象化，"Simeon had made his vile intentions clear"把 Simeon's intentions 具象化，为后文 "At first, Clementine only frowned, perplexed" 做铺垫。
+**为什么这样写**：用一串反问与断定写追悔。读者与他同时把线索连上，可惜已经晚了一步。
 
 ---
 
 > **原句 5:** "At first, Clementine only frowned, perplexed. Then came the piercing sound of a constable's whistle, following by shouting. Clementine broke into a run."
 
-**中文理解**：Clem 的反应——"At first, Clementine only frowned, perplexed"。Clem 的反应。
+**中文理解**：起初 Clementine 只是困惑地皱眉；随后响起一声刺耳的警哨，接着是喊叫。她拔腿就跑。
 
-**句子结构**：时间状语（At first）+ 主系表（Clementine only frowned, perplexed）+ 时间状语（Then）+ 主谓宾（came the piercing sound of a constable's whistle, following by shouting）+ 主谓宾（Clementine broke into a run）。
+**句子结构**：首句用 At first 作状语，主系表是 Clementine only frowned, perplexed；第二句用完全倒装 Then came the piercing sound of a constable's whistle，following by shouting 是分词短语；末句主谓宾是 Clementine broke into a run。
 
 **关键词**：
 
-**为什么这样写**：用 "At first, Clementine only frowned, perplexed"把 Clem's initial confusion 具象化，"Then came the piercing sound of a constable's whistle"把 Clem's realization 具象化，"Clementine broke into a run"把 Clem's response 具象化，为后文 "I couldn't bear to watch her face as she reached the fallen figure" 做铺垫。
+**为什么这样写**：用哨声当转折点。她先是没听懂，接着被外部的声音推着跑起来，读者的心也跟着提起来。
 
 ---
 
 > **原句 6:** "She would not survive it. And Clementine hadn't arrived."
 
-**中文理解**：Sam 的评估——"She would not survive it. And Clementine hadn't arrived"。Sam 的绝望。
+**中文理解**：她撑不过去了；而 Clementine 还没到。
 
-**句子结构**：主系表（She would not survive it）+ 主谓宾（And Clementine hadn't arrived）。
+**句子结构**：两个短句：She would not survive it 是主谓宾，And Clementine hadn't arrived 是主谓句，全句十一词。
 
 **关键词**：
 
-**为什么这样写**：用 "She would not survive it"把 Sam's assessment 具象化，"And Clementine hadn't arrived"把 Sam's despair 具象化，为后文 "What could I possibly do for her?" 做铺垫。
+**为什么这样写**：用两个短句把结果先说出口。最坏的话被叙述者直接讲明，后面的场面因此不必渲染也够沉。
 
 ---
 
 > **原句 7:** "What could I possibly do for her? I brought myself as near as I could to Rosetta and sent her all my strength. I urged a sense of calm upon her, a calm that would, perhaps, allow her to breathe."
 
-**中文理解**：Sam 的尝试——"What could I possibly do for her?"。Sam 的无助。
+**中文理解**：他还能替她做什么？他尽力靠近 Rosetta，把全部力气推给她，又把一股平静压上去——也许那股平静能让她喘上一口气。
 
-**句子结构**：问句（What could I possibly do for her?）+ 主谓宾（I brought myself as near as I could to Rosetta and sent her all my strength）+ 主谓宾（I urged a sense of calm upon her, a calm that would, perhaps, allow her to breathe）。
+**句子结构**：首句是 What could I possibly do for her? 的疑问句；第二句主谓宾是 I brought myself as near as I could to Rosetta and sent her all my strength；末句主谓宾是 I urged a sense of calm upon her，a calm that would allow her to breathe 是同位语加定语从句，perhaps 是插入语。
 
 **关键词**：
 
-**为什么这样写**：用 "What could I possibly do for her?"把 Sam's helplessness 具象化，"I brought myself as near as I could to Rosetta and sent her all my strength"把 Sam's attempt 具象化，"I urged a sense of calm upon her"把 Sam's attempt 具象化，为后文 "A calm of perfect stillness, of the ocean horizon at sunset, of the moon rising placidly above our vicious, savage, indifferent world" 做铺垫。
+**为什么这样写**：用还能做什么写无用的努力。灵体唯一的手段在此显得可笑又可怜，读者的同情落在施救者身上。
 
 ---
 
 > **原句 8:** "I couldn't bear to watch her face as she reached the fallen figure and threw herself beside it. She did not scream or cry. She only folded over her sister's back and held her tightly, clutching the limp hand that rested in the dust."
 
-**中文理解**：Clem 的悲痛——"I couldn't bear to watch her face as she reached the fallen figure"。Clem 的悲痛。
+**中文理解**：他不敢看 Clem 赶到那具倒下的人身边、扑过去时的脸。她没有尖叫也没有哭，只是伏在妹妹背上紧紧抱着，攥住那只搁在尘土里的、无力垂着的手。
 
-**句子结构**：主谓宾（I couldn't bear to watch her face as she reached the fallen figure and threw herself beside it）+ 主谓宾（She did not scream or cry）+ 主谓宾（She only folded over her sister's back and held her tightly, clutching the limp hand that rested in the dust）。
+**句子结构**：首句主谓宾是 I couldn't bear to watch her face，as 引导时间状语从句，she reached the fallen figure and threw herself beside it 是并列谓语；第二句 She did not scream or cry 是主谓句；末句主谓宾是 She only folded over her sister's back and held her tightly，clutching the limp hand 是分词短语，that rested in the dust 是定语从句。
 
 **关键词**：
 
-**为什么这样写**：用 "I couldn't bear to watch her face"把 Sam's helplessness 具象化，"She did not scream or cry"把 Clem's grief 具象化，"She only folded over her sister's back and held her tightly"把 Clem's grief 具象化，为后文 "It seemed that she would never let go" 做铺垫。
+**为什么这样写**：用没有尖叫也没有哭写悲痛的形态。Clem 的痛被压进一个动作里，比哭喊更叫人受不了。
 
 ---
 
 > **原句 9:** "The minutes passed and still she remained that way, even as Maxwell crouched down to speak soothing words to her, and the gathered crowd was held at bay by a ring of constables, and the murmurs of rumor swelled to outrage. Maxwell tried gently to pull her off, but Clementine wouldn't move. It seemed that she would never let go."
 
-**中文理解**：Clem 的悲痛——"The minutes passed and still she remained that way"。Clem 的悲痛。
+**中文理解**：几分钟过去，她仍是那个姿势：Maxwell 蹲下身轻声劝她，一圈巡警把围观的人挡在外头，议论声渐渐涨成愤怒；Maxwell 试着轻轻把她拉开，Clementine 却不动。看来她永远不会松手。
 
-**句子结构**：主谓宾（The minutes passed and still she remained that way）+ 时间状语（even as Maxwell crouched down to speak soothing words to her, and the gathered crowd was held at bay by a ring of constables, and the murmurs of rumor swelled to outrage）+ 主谓宾（Maxwell tried gently to pull her off, but Clementine wouldn't move）+ 主系表（It seemed that she would never let go）。
+**句子结构**：首句主谓句是 The minutes passed and still she remained that way；随后用 even as 引导三个并列的时间状语从句（Maxwell crouched down to speak soothing words to her、the gathered crowd was held at bay by a ring of constables、the murmurs of rumor swelled to outrage）；再接主谓宾 Maxwell tried gently to pull her off，but Clementine wouldn't move；末句主系表是 It seemed that she would never let go。
 
 **关键词**：
 
-**为什么这样写**：用 "The minutes passed and still she remained that way"把 Clem's grief 具象化，"Maxwell tried gently to pull her off, but Clementine wouldn't move"把 Clem's grief 具象化，"It seemed that she would never let go"把 Clem's grief 具象化，为后文 chapters 做铺垫。
+**为什么这样写**：用永远不会松手作章末收束。周围的一切都在动，只有她不动，这份静止让死亡落到了实处。
 
 ---
 
@@ -141,15 +141,15 @@ start_date: 2026-10-19
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| `thew` | 灵体奴仆 | spirit thew |
-| `stones` | 石头 | The stones had come for her |
+| `illustration` | 灵体奴仆 | He was waiting for me patiently, adding color to an illustration of a bloodroot flower. |
+| `stones` | 石头 | She crouched down, making herself small, as small as possible, and the stones kept coming. |
 | `asthmatic` | 哮喘的 | she was having an asthmatic attack |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| `mother` | 母亲 | my mother |
+| `preoccupation` | 母亲 | She walked a little more slowly than usual, her brow furrowed with preoccupation. |
 | `constable` | 警官 | ordinary constable |
 | `run` | 跑 | Clementine broke into a run |
 

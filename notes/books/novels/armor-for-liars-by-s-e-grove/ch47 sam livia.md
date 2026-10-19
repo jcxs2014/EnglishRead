@@ -19,145 +19,145 @@ start_date: 2026-10-19
 
 > **原句 1:** "With Draken defeated and the portal destroyed, the Cisneros Society members had nothing to fight for at the Manse. They abandoned it to the Sor Juana Alliance, leaving only the bloated serpent and the Trenches behind."
 
-**中文理解**：Sam 的 opening——、。Sam's observation。
+**中文理解**：Draken 一倒、portal 一毁，Cisneros Society 的人在 Manse 就没什么可争的了；他们把那里让给了 Sor Juana Alliance，只留下一头肿胀的蛇和 Trench 一家。
 
-**句子结构**：时间状语（With Draken defeated and the portal destroyed）+ 主谓宾（the Cisneros Society members had nothing to fight for at the Manse）+ 主谓宾（They abandoned it to the Sor Juana Alliance, leaving only the bloated serpent and the Trenches behind）。
+**句子结构**：With Draken defeated and the portal destroyed 是 with 复合结构作原因状语；主谓宾是 the Cisneros Society members had nothing to fight for at the Manse；末句主谓宾是 They abandoned it to the Sor Juana Alliance，leaving only the bloated serpent and the Trenches behind 是分词短语表结果。
 
 **关键词**：
 
-**为什么这样写**：用 Sam's observation 把 Cisneros Society's defeat 具象化，"With Draken defeated and the portal destroyed"把 Cisneros Society's defeat 具象化，"They abandoned it to the Sor Juana Alliance, leaving only the bloated serpent and the Trenches behind"把 Cisneros Society's defeat 具象化，为后文 "Is Keel House safe?" 做铺垫。
+**为什么这样写**：用一句清算交代胜负。没有欢呼也没有追击，只剩一个蛇形的旧敌，这场胜利因此显得干净而冷淡。
 
 ---
 
 > **原句 2:** "The drive to Commonwealth was calm. The rampaging creatures that Draken had unleashed upon Salem had left a silence in their wake."
 
-**中文理解**：Sam 的 observation——、。Sam's observation。
+**中文理解**：去 Commonwealth 的路上很静。Draken 放出来在 Salem 横行的那些凶物，走后留下一片沉寂。
 
-**句子结构**：主系表（The drive to Commonwealth was calm）+ 主谓宾（The rampaging creatures that Draken had unleashed upon Salem had left a silence in their wake）。
+**句子结构**：首句主系表（The drive to Commonwealth was calm）；第二句主谓宾是 The rampaging creatures had left a silence in their wake，that Draken had unleashed upon Salem 是定语从句。
 
 **关键词**：
 
-**为什么这样写**：用 Sam's observation 把 Salem's state 具象化，"The drive to Commonwealth was calm"把 Salem's state 具象化，"The rampaging creatures that Draken had unleashed upon Salem had left a silence in their wake"把 Salem's state 具象化，为后文 "As we rolled through the city, we saw the trail left by the En Micó" 做铺垫。
+**为什么这样写**：用一片沉寂写灾后的城。凶物不见了，可安静本身就是它们的痕迹，读者由此感到这场乱的规模。
 
 ---
 
 > **原句 3:** "Clementine had been almost silent on our journey, and she grew uncharacteristically agitated as we neared Commonwealth."
 
-**中文理解**：本块引语的中文理解（见上文分析）。
+**中文理解**：一路 Clementine 几乎不说话，可越接近 Commonwealth，她越发显得反常地不安。
 
-**句子结构**：主谓宾（Clementine had been almost silent on our journey）+ 主谓宾（and she grew uncharacteristically agitated as we neared Commonwealth）。
+**句子结构**：首句主谓句是 Clementine had been almost silent on our journey；第二句用 and she grew uncharacteristically agitated 并列，as we neared Commonwealth 是时间状语从句。
 
 **关键词**：
 
-**为什么这样写**：用 Sam's observation 把 Clem's state 具象化，"Clementine had been almost silent on our journey"把 Clem's state 具象化，"she grew uncharacteristically agitated as we neared Commonwealth"把 Clem's state 具象化，为后文 "The carriage came to a stop outside the crooked house that lodged Throckmorton's office" 做铺垫。
+**为什么这样写**：用反常地不安写她的心事。读者已知道她此行的目的，这份躁动也就成了悬念。
 
 ---
 
 > **原句 4:** "But whose thew is it? I know of no enchanter who has a male thew."
 
-**中文理解**：Throckmorton 与 Clem 的 dialogue——、、。Throckmorton's confusion。
+**中文理解**：Throckmorton 问：这是谁的灵体奴仆？他从未听说哪个附魔师有一个男灵体。
 
-**句子结构**：引语（But whose thew is it? I know of no enchanter who has a male thew）+ 引语（Good afternoon, Professor Throckmorton. It is）+ 引语（Precisely... Just as you say. A man）。
+**句子结构**：引语由两句构成：But whose thew is it? 是疑问句，I know of no enchanter who has a male thew 是主谓宾加 who 定语从句，用双重否定表从未听说。
 
 **关键词**：
 
-**为什么这样写**：用 Throckmorton 与 Clem 的 dialogue 把 Throckmorton's confusion 具象化，"But whose thew is it? I know of no enchanter who has a male thew"把 Throckmorton's confusion 具象化，"Good afternoon, Professor Throckmorton. It is"把 Clem's response 具象化，"Precisely... Just as you say. A man"把 Clem's response 具象化，为后文 "Shaking his head, Throckmorton endeavored to overcome his wonder" 做铺垫。
+**为什么这样写**：用一个老学者的困惑写出规矩的边界。男灵体是闻所未闻的事，这一问也替 Sam 的出场造出意外。
 
 ---
 
 > **原句 5:** "'You bound this spirit to yourself? You? So young? But how? And why?' He was so astounded by his own questions that he actually rose several inches from his chair, like a balloon drifting free. Then he collapsed back down in the chair, overcome."
 
-**中文理解**：Throckmorton 的 astonishment——、。Throckmorton's astonishment。
+**中文理解**：Throckmorton 连声追问：是你把这灵体束缚到自己身上的？你？这么年轻？怎么做到的？为什么？他被自己这些问话惊得从椅子上飘起几寸，像个松开的气球，随后又瘫回椅中。
 
-**句子结构**：引语（You bound this spirit to yourself? You? So young? But how? And why?）+ 主谓宾（He was so astounded by his own questions that he actually rose several inches from his chair, like a balloon drifting free）+ 主谓宾（Then he collapsed back down in the chair, overcome）。
+**句子结构**：引语由五个短问句构成（You bound this spirit to yourself? / You? / So young? / But how? / And why?）；随后用 so… that 结构（He was so astounded by his own questions that he actually rose several inches from his chair），like a balloon drifting free 是比喻；末句用 Then 起头，主谓句是 he collapsed back down in the chair，overcome 是过去分词作补充。
 
 **关键词**：
 
-**为什么这样写**：用 Throckmorton 的 astonishment 把 his astonishment 具象化，"You bound this spirit to yourself? You? So young? But how? And why?"把 his astonishment 具象化，"He was so astounded by his own questions that he actually rose several inches from his chair, like a balloon drifting free"把 his astonishment 具象化，"Then he collapsed back down in the chair, overcome"把 his astonishment 具象化，为后文 "Ah! Interesting questions" 做铺垫。
+**为什么这样写**：用一个飘起的动作写惊奇。老先生的身体比话先表态，这份滑稽让严肃的场面松弛下来，也让他的无害一目了然。
 
 ---
 
 > **原句 6:** "'Ah! Interesting questions.' Clem held up a hand to enumerate her replies. 'How? Because I am not a member of the Cisneros Society'—Throckmorton's eyes popped at the mention of this august body—'I accomplished it the traditional way. By traveling into the realm. Why? For many reasons, but among them, because Sam knows as well as I do the crimes committed by the Cisneros Society. Now, thanks to Sam, we know how your thew was acquired.'"
 
-**中文理解**：Clem 的 explanation——、、。
+**中文理解**：Clem 说这些问题有意思，便抬手一件件回答：怎么做到的？因为她不是 Cisneros Society 的人——听到这个名号，Throckmorton 的眼睛都瞪圆了——她走的是老办法，自己进了灵域。为什么？理由很多，其中之一是 Sam 和她一样清楚 Society 犯下的罪；如今多亏 Sam，他们知道了他的灵体是怎么得来的。
 
-**句子结构**：引语（Ah! Interesting questions）+ 主谓宾（Clem held up a hand to enumerate her replies）+ 引语（How? Because I am not a member of the Cisneros Society... I accomplished it the traditional way. By traveling into the realm）+ 引语（Why? For many reasons, but among them, because Sam knows as well as I do the crimes committed by the Cisneros Society. Now, thanks to Sam, we know how your thew was acquired）。
+**句子结构**：引语 Ah! Interesting questions 是感叹式判断，后接主谓宾 Clem held up a hand to enumerate her replies；随后用 How? Because… 一问一答，Throckmorton's eyes popped at the mention of this august body 是插入的独立句；末段用 Why? For many reasons, but among them, because Sam knows as well as I do the crimes committed by the Cisneros Society 展开，再以 Now, thanks to Sam, we know how your thew was acquired 收尾，how 引导宾语从句。
 
 **关键词**：
 
-**为什么这样写**：用 Clem 的 explanation 把 her explanation 具象化，"Ah! Interesting questions"把 her response 具象化，"How? Because I am not a member of the Cisneros Society... I accomplished it the traditional way. By traveling into the realm"把 her explanation 具象化，"Why? For many reasons, but among them, because Sam knows as well as I do the crimes committed by the Cisneros Society. Now, thanks to Sam, we know how your thew was acquired"把 her explanation 具象化，为后文 "Abruptly, Throckmorton shifted from confused to indignant" 做铺垫。
+**为什么这样写**：用一句一件件的答话把审问变成交代。Clem 不急不辩，只把事实摆开，对手的体面在她的从容里一点点被剥掉。
 
 ---
 
 > **原句 7:** "'So one act of coercion justifies another? Justifies two others?' Clem reached into her jacket pocket and withdrew a small lead case about the size of a flask. It was the case Vera had delivered to Keel House."
 
-**中文理解**：Throckmorton 的 question——、。
+**中文理解**：Throckmorton 反问：难道一次胁迫就能替另一次开脱，替另外两次开脱？Clem 没答话，从外套口袋里取出一只像酒壶那么大的小铅盒——正是 Vera 送到 Keel House 的那只。
 
-**句子结构**：引语（So one act of coercion justifies another? Justifies two others?）+ 主谓宾（Clem reached into her jacket pocket and withdrew a small lead case about the size of a flask）+ 主系表（It was the case Vera had delivered to Keel House）。
+**句子结构**：引语由两句反问构成（So one act of coercion justifies another? Justifies two others?），第二句省略主语；随后主谓宾是 Clem reached into her jacket pocket and withdrew a small lead case，about the size of a flask 是后置定语；末句主系表是 It was the case Vera had delivered to Keel House，Vera had delivered 是省略 that 的定语从句。
 
 **关键词**：
 
-**为什么这样写**：用 Throckmorton 的 question 把 his question 具象化，"So one act of coercion justifies another? Justifies two others?"把 his question 具象化，"Clem reached into her jacket pocket and withdrew a small lead case about the size of a flask"把 Clem's action 具象化，"It was the case Vera had delivered to Keel House"把 Clem's action 具象化，为后文 "What?" Throckmorton rose tremulously to his feet" 做铺垫。
+**为什么这样写**：用一只盒子代替回答。争论在这里停下，证据一摆出来，对错就不必再辩。
 
 ---
 
 > **原句 8:** "That spirit was not yours to take."
 
-**中文理解**：Clem 的 explanation——、、、。
+**中文理解**：Clem 说：那个灵体不该归你。
 
-**句子结构**：引语（You have been kind to me）+ 引语（Which is why we have bothered to come here at all）+ 引语（You should know that Sam has just transformed Karl Draken into a serpent）+ 引语（But the fact remains that several years ago, you allowed a young man to travel into the realm on your behalf and find a spirit for you. That spirit was not yours to take. Not only because you didn't find her yourself, but because her life was stolen by Draken. She must be set free.）。
+**句子结构**：主系表结构，用 not… to take 表禁止，全句七词。
 
 **关键词**：
 
-**为什么这样写**：用 Clem 的 explanation 把 her explanation 具象化，"You have been kind to me"把 her acknowledgment 具象化，"Which is why we have bothered to come here at all"把 her acknowledgment 具象化，"You should know that Sam has just transformed Karl Draken into a serpent"把 her revelation 具象化，"But the fact remains that several years ago, you allowed a young man to travel into the realm on your behalf and find a spirit for you. That spirit was not yours to take. Not only because you didn't find her yourself, but because her life was stolen by Draken. She must be set free."把 her explanation 具象化，为后文 "'Take it. Take the shroud,' he said, waving his hand" 做铺垫。
+**为什么这样写**：用七个字下判词。前面她把来龙去脉讲全了，此处一句话把结论钉死，语气比任何责备都重。
 
 ---
 
 > **原句 9:** "'Take it. Take the shroud,' he said, waving his hand. He did not look defeated. Somehow, despite what he had just confessed and despite the fact that Livia did not need his permission to leave, he looked magnanimous, as if he had just bestowed upon her a great favor."
 
-**中文理解**：Throckmorton 的 response——、、。
+**中文理解**：他挥手说拿走那层外壳。他看上去不像认输：明明刚承认了那些事，明明 Livia 根本不需要他准许，他仍摆出一副宽宏的样子，仿佛刚赏了她天大的恩典。
 
-**句子结构**：引语（Take it. Take the shroud）+ 说话标签（he said, waving his hand）+ 主系表（He did not look defeated）+ 主系表（Somehow, despite what he had just confessed and despite the fact that Livia did not need his permission to leave, he looked magnanimous, as if he had just bestowed upon her a great favor）。
+**句子结构**：引语 Take it. Take the shroud 是两个祈使句，后接 he said, waving his hand 的说话标签；第二句主系表是 He did not look defeated；末句用 despite what he had just confessed 与 despite the fact that Livia did not need his permission to leave 两个让步结构，主系表是 he looked magnanimous，as if he had just bestowed upon her a great favor 是虚拟比较从句。
 
 **关键词**：
 
-**为什么这样写**：用 Throckmorton 的 response 把 his response 具象化，"Take it. Take the shroud"把 his response 具象化，"He did not look defeated"把 his response 具象化，"Somehow, despite what he had just confessed and despite the fact that Livia did not need his permission to leave, he looked magnanimous, as if he had just bestowed upon her a great favor"把 his response 具象化，为后文 "Clem bowed. 'Thank you.'" 做铺垫。
+**为什么这样写**：用一副宽宏的样子写他的自我宽解。老学者的体面在最后一刻仍要保住，这份可笑比愤怒更叫人无言。
 
 ---
 
 > **原句 10:** "There, there," Livia said. Her voice was soft and soothing. "We are together now at last. You've done it, my brave, dear Clem."
 
-**中文理解**：Livia 的 response——、、。Livia's response。
+**中文理解**：Livia 轻声说好了好了，声音柔和；她说他们终于在一起了，还说 Clem 做到了，她勇敢的、亲爱的 Clem。
 
-**句子结构**：引语（There, there）+ 说话标签（Livia said）+ 主系表（Her voice was soft and soothing）+ 引语（We are together now at last. You've done it, my brave, dear Clem）。
+**句子结构**：引语 There, there 是安抚式短句，后接 Livia said 的说话标签；随后主系表是 Her voice was soft and soothing；末段引语由 We are together now at last 与 You've done it, my brave, dear Clem 两个主谓句构成。
 
 **关键词**：
 
-**为什么这样写**：用 Livia 的 response 把 her response 具象化，"There, there"把 her response 具象化，"We are together now at last"把 her response 具象化，"You've done it, my brave, dear Clem"把 her response 具象化，为后文 "Clem's eyes, squeezed shut, ran with tears" 做铺垫。
+**为什么这样写**：用一句安抚收束整条寻母线。前面所有的寻找、代价与谎言都落在这句话上，母亲先安慰的是孩子而不是自己。
 
 ---
 
 > **原句 11:** "Clem's eyes, squeezed shut, ran with tears. She buried her face in Livia's shoulder, and she shuddered with the force of a sob. 'I thought I'd never get you back,' she whispered."
 
-**中文理解**：本块引语的中文理解（见上文分析）。
+**中文理解**：Clem 紧闭着眼，泪水直流；她把脸埋进 Livia 的肩头，哭得整个人发抖，低声说她以为再也见不到母亲了。
 
-**句子结构**：主谓宾（Clem's eyes, squeezed shut, ran with tears）+ 主谓宾（She buried her face in Livia's shoulder, and she shuddered with the force of a sob）+ 引语（I thought I'd never get you back）+ 说话标签（she whispered）。
+**句子结构**：首句主谓句是 Clem's eyes ran with tears，squeezed shut 是过去分词短语作后置定语；第二句用 and 连接 She buried her face in Livia's shoulder 与 she shuddered with the force of a sob；末段引语 I thought I'd never get you back 用虚拟语气，后接 she whispered 的说话标签。
 
 **关键词**：
 
-**为什么这样写**：用 Clem's response 把 her response 具象化，"Clem's eyes, squeezed shut, ran with tears"把 her response 具象化，"She buried her face in Livia's shoulder, and she shuddered with the force of a sob"把 her response 具象化，"'I thought I'd never get you back,' she whispered"把 her response 具象化，为后文 "Never mind," Livia said, as if calming a child. "Never mind now." 做铺垫。
+**为什么这样写**：用发抖的哭写积压的释放。此前她一直硬撑，此刻终于不必，读者也跟着松下来。
 
 ---
 
 > **原句 12:** "In her lifetime, Professor Throckmorton, Livia's name was Lydia Quiñones, or Lydia Quinn. She is Clem's mother."
 
-**中文理解**：本块引语的中文理解（见上文分析）。
+**中文理解**：Sam 对 Throckmorton 说：Livia 生前叫 Lydia Quiñones，也叫 Lydia Quinn；她是 Clem 的母亲。
 
-**句子结构**：主系表（In her lifetime, Professor Throckmorton, Livia's name was Lydia Quiñones, or Lydia Quinn）+ 主系表（She is Clem's mother）。
+**句子结构**：首句主系表是 Livia's name was Lydia Quiñones, or Lydia Quinn，In her lifetime, Professor Throckmorton 是插入的状语与称呼语；末句主系表是 She is Clem's mother。
 
 **关键词**：
 
-**为什么这样写**：用 Sam's revelation 把 his revelation 具象化，"In her lifetime, Professor Throckmorton, Livia's name was Lydia Quiñones, or Lydia Quinn"把 his revelation 具象化，"She is Clem's mother"把 his revelation 具象化，为后文 chapters 做铺垫。
+**为什么这样写**：用一句介绍把最后一层机关揭开。此前 Sam 独自知道这个秘密，此刻它被当众说出来，所有线索在此并拢。
 
 ---
 
@@ -179,7 +179,7 @@ start_date: 2026-10-19
 |---|---|---|
 | `thew` | 灵体奴仆 | spirit thew |
 | `shroud` | 裹尸布/外壳 | Take the shroud |
-| `portal` | 传送门 | portal to the spirit realm |
+| `portal` | 传送门 | They knew nothing about the portal, only that it was a Sor Juana refuge, so their approach was less ferocious than it might have been. |
 
 ### ⭐ 基础
 
@@ -187,7 +187,7 @@ start_date: 2026-10-19
 |---|---|---|
 | `mother` | 母亲 | She is Clem's mother |
 | `serpent` | 蛇 | transformed Karl Draken into a serpent |
-| `armor` | 装甲 | Cisneros Steel |
+| `armor` | 装甲 | I designed that damnably ridiculous armor with swans on it. |
 
 ## 一句话总结
 

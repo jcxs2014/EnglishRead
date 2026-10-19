@@ -17,123 +17,123 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 1:** "I’ve always been a meddler. Perhaps it’s wise, when witnessing mischief, to turn the other way. I’ve seen others do it often enough. But I cannot; something goads me on, making it impossible to look away."
+> **原句 1:** "I've always been a meddler. Perhaps it's wise, when witnessing mischief, to turn the other way. I've seen others do it often enough. But I cannot; something goads me on, making it impossible to look away."
 
-**中文理解**：Sam 的 self-portrait——、。这是 Sam 的 core character trait，也是他作为 thew 的动机。
+**中文理解**：这是 Sam 的自画像。他承认自己天生爱管闲事：明知撞见恶作剧时转身走开才是明智，也见过不少人这么做，可他做不到——有种东西驱使他上前，让他无法移开目光。
 
-**句子结构**：主系表 + when 引导的时间状语从句 + 主谓宾 + But I cannot + 主谓宾（something goads me on, making it impossible to look away）。"something goads me on"把 Sam 的 impulsiveness 具象化。
+**句子结构**：主系表起句（I've always been a meddler）；第二句用 Perhaps 引导让步，内嵌 when 时间状语从句；第三句 I've seen others do it often enough 作对照；末句用 But I cannot 转折，再接 something goads me on 与分词短语 making it impossible to look away。
 
 **关键词**：
 
-**为什么这样写**：用 Sam 的 self-portrait 建立他的 character，"meddler"把他的 thew 观察解释为 character trait，为后文 "I followed Vera" 做铺垫。
+**为什么这样写**：开篇先给叙述者定性，把窥视他人解释成一种性格，而不是灵体身份带来的特权。这样后面他一路跟随 Vera、插手 Simeon 的恶行，读起来是人物使然，不是情节需要。
 
 ---
 
-> **原句 2:** "It’s not a bad quality, Sam," my father said, when he had stopped laughing. "I love your meddling, for it comes from wanting to set wrongs to right. But you must be prepared to pay the price," he said, looking at me gravely. "For there will almost always be a price."
+> **原句 2:** "It's not a bad quality, Sam," my father said, when he had stopped laughing. "I love your meddling, for it comes from wanting to set wrongs to right. But you must be prepared to pay the price," he said, looking at me gravely. "For there will almost always be a price."
 
-**中文理解**：父亲对 Sam meddling 的评价——、、。这是 Sam 的 moral framework。
+**中文理解**：父亲止住笑后对 Sam 说：爱管闲事不算坏品质，因为它出自想把错事纠正过来的愿望；但他必须准备好付出代价，因为几乎总会有代价。
 
-**句子结构**：主谓宾 + when 引导的时间状语从句 + 引语（I love your meddling, for it comes from...）+ But you must be prepared... + For there will almost always be a price。
+**句子结构**：主句 my father said 前后插入引语；引语内部先给判断（It's not a bad quality），再用 for 说明理由（for it comes from wanting to set wrongs to right），随后 But you must be prepared to pay the price 转折，最后以 For there will almost always be a price 加重。
 
 **关键词**：
 
-**为什么这样写**：用父亲的 wisdom 把 Sam 的 meddling 与 price 连接，"there will almost always be a price"为 Sam 的 death（被 Simeon murder）做 foreshadowing。
+**为什么这样写**：借父亲之口把管闲事与代价绑在一起。这句话是全书对 Sam 结局的预言式伏笔——他后来确实为插手他人之事赔上了性命。
 
 ---
 
 > **原句 3:** "What kind of man wears a helmet to read a textbook?"
 
-**中文理解**：Sam 对 Clem 穿头盔读 textbook 的困惑。简短而直接，把 Clem 的 odd behavior 具象化。
+**中文理解**：Sam 想不通：什么样的人会戴着盔甲头盔读课本？一句短问把 Clem 的怪异行为钉在读者眼前。
 
-**句子结构**：疑问句（What kind of man...）。极简。
+**句子结构**：特殊疑问句。What kind of man 作主语，wears a helmet 是谓语，to read a textbook 是目的状语，全句只有九个词。
 
 **关键词**：
 
-**为什么这样写**：用 Sam 的困惑把 Clem 的 odd behavior 突出，为后文 "two reasons to wear armor" 做铺垫。
+**为什么这样写**：用一个不合常理的问题制造悬念。读者和 Sam 同时被这个画面困住，答案要等后文“穿盔甲只有两个理由”才给出一半。
 
 ---
 
 > **原句 4:** "There are only two reasons to wear armor. The first is to enter the spirit realm, where armor is a matter of survival. The second is to decorate one's person in public settings, where armor is a matter of vanity. Quinn was in neither place, and I could not fathom his purpose."
 
-**中文理解**：Sam 对 armor 的 two reasons——spirit realm survival / public vanity。Clem 两样都不是，Sam cannot fathom his purpose。
+**中文理解**：穿盔甲只有两个理由：一是进入 spirit realm，那里盔甲关乎生死；二是在公开场合装饰自己，那里盔甲关乎虚荣。Clem 两处都不在，Sam 猜不透他的用意。
 
-**句子结构**：主系表（There are only two reasons...）+ 第一 reason（The first is to enter...）+ 第二 reason（The second is to decorate...）+ 结论（Quinn was in neither place, and I could not fathom his purpose）。
+**句子结构**：There be 句型先给出总数（There are only two reasons to wear armor），随后 The first is to… 与 The second is to… 两条并列，各带一个 where 定语从句；末句用 Quinn was in neither place 收拢，再接 and I could not fathom his purpose。
 
 **关键词**：
 
-**为什么这样写**：用 Sam 的 analysis 把 armor 的功能具象化，Clem 的 "neither" 把他的 oddity 突出，为后文 "Introduction to Appraisal" 的 reading 做铺垫。
+**为什么这样写**：用两个理由搭起本书关于盔甲的核心设定，再用两处都不在把这个框架撑破。读者由此知道 Clem 的行为另有第三种解释，而 Sam 还不知道。
 
 ---
 
 > **原句 5:** "He put it on. The skull of the helmet was solid, smooth, and slightly pointed, covering the ears and forehead. Below this, chain mail draped across his face and neck, leaving only small slits for his eyes."
 
-**中文理解**：Clem 穿 helmet 的描述——、、。这是 Clem 的 protective gear。
+**中文理解**：Clem 戴上头盔：盔顶坚实光滑、略尖，护住耳朵与前额；下面一层锁子甲垂过脸和脖颈，只在双眼处留出细缝。
 
-**句子结构**：主谓宾（He put it on）+ 两个定语从句（The skull of the helmet was... / Below this, chain mail draped...）。
+**句子结构**：先一个短句 He put it on 点明动作，再用两个描写句展开：第一句用三个并列形容词（solid, smooth, and slightly pointed）加分词短语 covering the ears and forehead；Below this 引出第二句，chain mail draped… 后接分词 leaving only small slits for his eyes。
 
 **关键词**：
 
-**为什么这样写**：用 detailed description 把 helmet 具象化，"small slits for his eyes"暗示 Clem 的 limited perception，与 Sam 的 thew 视角形成对比。
+**为什么这样写**：用近乎工匠式的细描把头盔写成一件真能用的装备，而不是装饰品。眼睛处只剩细缝，也暗示 Clem 的视野被限制，与 Sam 无所不见的 thew 视角正好相反。
 
 ---
 
-> **原句 6:** "As he"
+> **原句 6:** "I still could not fathom why he would wear a helmet to study the scale method. But that is exactly what he did for another three hours."
 
-**中文理解**：Clem 的 course list——。这是 Clem 的 enrollment，把他的 academic identity 具象化。
+**中文理解**：Sam 依旧想不通：为什么读“天平法”也要戴头盔？可 Clem 就这么戴着，又读了三个小时。
 
-**句子结构**：时间状语从句（As he took a step forward in line）+ 主谓宾（the young man unfolded the square of paper in his hand）+ 主谓宾（It read: Clem Quinn, First Year）。
+**句子结构**：主句 I still could not fathom 后接 why 引导的宾语从句；第二句用 But 转折，that is exactly what he did 是表语从句，for another three hours 作时间状语。
 
 **关键词**：
 
-**为什么这样写**：用 "unfolded" 把 Clem 的 course list 具象化，"First Year"建立 Clem 的 academic starting point。
+**为什么这样写**：把想不通再说一遍，同时用三个小时给这份固执一个可度量的重量。Clem 的怪异由一次性画面变成持续行为，读者也就接受了他是个异类。
 
 ---
 
 > **原句 7:** "It is especially vexing in such situations to consider that while spirit thews have such tremendous powers, the dead who remain trapped in the spirit realm have almost no powers at all."
 
-**中文理解**：Sam 的 frustrated——spirit thews 有 tremendous powers，但 dead in spirit realm 几乎 no powers。这是 Sam 的 powerlessness。
+**中文理解**：Sam 说，这种时候格外憋闷：spirit thew 拥有那么大的力量，而困在 spirit realm 里的死者几乎没有力量。
 
-**句子结构**：主系表（It is especially vexing...）+ to consider that 引导的宾语从句 + while 引导的让步从句（while spirit thews have such tremendous powers）+ 主谓宾（the dead... have almost no powers at all）。
+**句子结构**：It is especially vexing 是形式主语结构，真正的主语是后面的 to consider that 不定式；从句里再嵌一个 while 让步状语从句，主句是 the dead… have almost no powers at all，the dead 后带 who 定语从句。
 
 **关键词**：
 
-**为什么这样写**：用 Sam 的 frustrated 把 thew 与 dead 的 power 差异具象化，为后文 "I could only watch" 做铺垫。
+**为什么这样写**：把灵体与死者的力量落差摆明，为 Sam 只能看着的处境做解释。后文他每一次无力干预，读者都会想起这句话。
 
 ---
 
 > **原句 8:** "I placed all my weight on Simeon, pressing anxiety upon him. He frowned but didn't alter his stance in the slightest. I was used to this."
 
-**中文理解**：Sam 尝试影响 Simeon——。但 Simeon 。Sam 的 暗示 repeated attempts。
+**中文理解**：Sam 把全部力气压向 Simeon，把焦虑推给他。Simeon 皱了下眉，姿势却丝毫没动——这种事 Sam 早就习惯了。
 
-**句子结构**：主谓宾（I placed all my weight on Simeon）+ 伴随分词短语（pressing anxiety upon him）+ 转折并列（He frowned but didn't alter his stance in the slightest）+ 主系表（I was used to this）。
+**句子结构**：主谓宾（I placed all my weight on Simeon）后接分词短语 pressing anxiety upon him；第二句用 but 连接两个并列谓语（frowned 与 didn't alter）；第三句 I was used to this 是主系表短句。
 
 **关键词**：
 
-**为什么这样写**：用 Sam 的 attempt 与 Simeon 的 immunity 形成对比，"I was used to this"暗示 Sam 的 repeated failures，为后文 "Most people ignore their sentiments" 做铺垫。
+**为什么这样写**：用皱眉但不动写影响无效，把失败落在身体反应上而不是对话里；再用一句早就习惯交代 Sam 反复失败的经历，后文他感叹多数人忽略自己的直觉才有分量。
 
 ---
 
 > **原句 9:** "I followed Vera."
 
-**中文理解**：Sam 的 decision——。简短而决定性，把 Sam 的 meddler character 具象化。
+**中文理解**：Sam 决定跟上去：我跟着 Vera 走了。
 
-**句子结构**：主谓宾。极简。
+**句子结构**：主谓宾，三个词。
 
 **关键词**：
 
-**为什么这样写**：用极简句式把 Sam 的 decision 具象化，"I followed"与 prologue 的 "I left them, for my point of interest lay elsewhere" 形成对比——Sam 的 "point of interest" 变成 Vera。
+**为什么这样写**：用一个三词短句作决定，不加犹豫也不加解释。它与后文 Simeon 在练习那句短句呼应，也把 Sam 的管闲事从童年回忆落回当下。
 
 ---
 
 > **原句 10:** "Simeon was practicing."
 
-**中文理解**：章节结尾——。简短而 ominous，把 Simeon 的 stone enchantment 练习具象化。
+**中文理解**：章末一句：Simeon 在练习。
 
-**句子结构**：主谓宾。极简。
+**句子结构**：主谓宾，三个词。
 
 **关键词**：
 
-**为什么这样写**：用极简句式把 Simeon 的 stone practice 具象化，"practicing"暗示 Simeon 在为 something larger 做准备，为后文 conflict 做铺垫。
+**为什么这样写**：用同样极简的句式收尾，语气却从决断换成不祥。练习二字说明他此前的出手还不是全部实力，为后文更重的伤害留出空间。
 
 ---
 
@@ -145,7 +145,7 @@ start_date: 2026-10-19
 |---|---|---|
 | `meddler` | 爱管闲事的人 | I've always been a meddler |
 | `fathom` | 理解/测深 | I could not fathom his purpose |
-| `vexing` | 令人 vexing 的 | It is especially vexing |
+| `vexing` | 令人沮丧的 | It is especially vexing |
 | `impervious` | 不受影响的 | impervious to vanity |
 | `supercilious` | 傲慢的 | Vera listened with an air of supercilious calm |
 
@@ -155,7 +155,7 @@ start_date: 2026-10-19
 |---|---|---|
 | `fiffle` | 学生聚会（本书设定） | a fiffle on the second floor |
 | `thew` | 灵体奴仆 | spirit thew |
-| `relic` | 遗物 | his source of power for enchantment |
+| `relic` | 遗物 | The greater that value, the more dead worth the relic possesses. |
 
 ### ⭐ 基础
 
@@ -166,9 +166,9 @@ start_date: 2026-10-19
 
 ## 一句话总结
 
-Sam 以 thew 视角观察 Clem Quinn 的 peculiar behavior（helmet reading），fiffle 聚会中 Vera 遇险，Clem 用 vomit/fire 救 Vera，Sam 跟随 Vera 并目睹 Simeon 练习 stone enchantment。
+Sam 以 thew 视角观察 Clem Quinn 的怪异行为（戴头盔读书），fiffle 聚会中 Vera 遇险，Clem 用呕吐/火焰救 Vera，Sam 跟随 Vera 并目睹 Simeon 练习石头 enchantment。
 
 ---
 
-**读者视角提示**：Sam 的 "meddler" character 与 "price" foreshadowing；Clem 的 helmet 与 "neither place" oddity；Vera 的 "no token" 与 "disguises"；Simeon 的 "practicing" 为后续 conflict 埋伏笔。
+**读者视角提示**：Sam 的 "meddler" 性格与 "price" 伏笔；Clem 的 helmet 与 "neither place" 怪异；Vera 的 "no token" 与 "disguises"；Simeon 的 "practicing" 为后续冲突埋伏笔。
 ---

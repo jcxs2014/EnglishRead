@@ -31,37 +31,37 @@ start_date: 2026-10-19
 
 > **原句 2:** "But, as you always said, appearances are deceiving."
 
-**中文理解**：Clem 引用母亲的格言——。这是 Clem 的怀疑种子：母亲可能并不如父亲所言。
+**中文理解**：Clem 说：可正如你一向说的，外表是会骗人的。
 
 **句子结构**：转折连词（But）+ as 引导的让步状语从句（as you always said）+ 主系表（appearances are deceiving）。简短而有力。
 
 **关键词**：
 
-**为什么这样写**：用母亲自己的话埋下怀疑的种子。后文 Clem 会发现母亲被 enchanter 束缚，此句成为伏笔。
+**为什么这样写**：借母亲自己的一句话埋下怀疑。读者由此知道 Clem 已经不信父亲的说法，后面他去追查母亲的下落也就不突然。
 
 ---
 
 > **原句 3:** "Father is lost without you. When I see him looking out the window, staring as if waiting for something to happen, I feel so afraid. I feel that he is lost somewhere, and that he might not come back."
 
-**中文理解**：父亲在母亲死后——Clem 看到他望窗外发呆，感到恐惧：父亲可能，可能回不来。Clem 对父亲的恐惧，暗示父亲可能已被 spirit realm 或 enchanter 影响。
+**中文理解**：Clem 写：没有你，父亲就丢了魂。他望着窗外发呆，像在等什么事发生，他看了害怕；他觉得父亲走失在什么地方，也许回不来了。
 
 **句子结构**：主系表（Father is lost without you）+ 时间状语从句（When I see him looking...）+ 两个宾语从句（I feel so afraid / I feel that he is lost somewhere, and that he might not come back）。"lost"重复，语义递进：先"lost without you"，后"lost somewhere"。
 
 **关键词**：
 
-**为什么这样写**：用 Clem 的恐惧暗示父亲的精神危机，为后文"Father says you are watching"的不可靠性埋伏笔。Clem 的"afraid"是读者的预警。
+**为什么这样写**：用 Clem 的害怕写父亲的精神危机。这段话既写出一个孩子的无助，也提前提示父亲说的话未必可信。
 
 ---
 
 > **原句 4:** "I opened the long letter that you left for me, but as soon as I saw your handwriting I could read no further. I can't yet—I just can't. Soon I will."
 
-**中文理解**：Clem 打开母亲遗信，但一见字迹就无法继续。的重复强调她的心理障碍；预示 eventual reading，为后文 Clem 的成长埋线。
+**中文理解**：Clem 说他打开母亲留下的那封长信，可一看见字迹就读不下去，现在还不能读，总有一天能读。
 
 **句子结构**：主谓宾 + 定语从句（that you left for me）+ 转折并列分句（but as soon as I saw your handwriting I could read no further）+ 破折号强调（I can't yet—I just can't）+ 简短承诺（Soon I will）。
 
 **关键词**：
 
-**为什么这样写**：用"不能读信"建立 Clem 的心理障碍，同时用"soon I will"承诺 eventual resolution。这封信将成为后文 Clem 了解母亲命运的关键。
+**为什么这样写**：用读不下去写心理上的障碍，再用总有一天能读埋下转折。这封信此后会成为 Clem 了解母亲命运的关键。
 
 ---
 

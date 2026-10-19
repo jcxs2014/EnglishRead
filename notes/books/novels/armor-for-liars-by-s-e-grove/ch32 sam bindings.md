@@ -19,145 +19,145 @@ start_date: 2026-10-19
 
 > **原句 1:** "Enchantment of bone is bound to betray. Even when it would seem to do good."
 
-**中文理解**：epigraph 的 opening——。这是 Sam 的 warning about bone。
+**中文理解**：引文说：用骨的附魔注定要反噬，哪怕它看上去是在做好事。
 
-**句子结构**：主系表（Enchantment of bone is bound to betray）+ 主系表（Even when it would seem to do good）。
+**句子结构**：主系表（Enchantment of bone is bound to betray），用 be bound to 表必然；第二句是让步状语从句（Even when it would seem to do good），用虚拟语气 would seem。
 
 **关键词**：
 
-**为什么这样写**：用 epigraph 建立 bone 的 betrayal，为后文 Sam's "I must tell you about Corbin" 做铺垫。
+**为什么这样写**：用注定要反噬给整章定调。后面所有关于骨的描写都带上阴影，读者也会一直等着它什么时候应验。
 
 ---
 
 > **原句 2:** "I must tell you one more thing from my own story—I must tell you about Corbin."
 
-**中文理解**：Sam 的 opening——。Sam's narrative purpose。
+**中文理解**：Sam 说他得再从自己的旧事里讲一件——得讲讲 Corbin。
 
-**句子结构**：主谓宾（I must tell you one more thing from my own story）+ 主谓宾（I must tell you about Corbin）。
+**句子结构**：两个并列主谓宾（I must tell you one more thing from my own story 与 I must tell you about Corbin），用破折号连接表递进。
 
 **关键词**：
 
-**为什么这样写**：用 Sam's opening 把 his narrative purpose 具象化，"Corbin"把 his guide 具象化，为后文 "Corbin's stone with names" 做铺垫。
+**为什么这样写**：用一句自陈把新人物引出来。上一章的造物让读者不安，这里插入一段旧事，正好解释他为何对骨如此戒备。
 
 ---
 
 > **原句 3:** "It was no whale. For the space of several seconds, before the roiling fog drew the curtain once more, I saw clearly a hundred long oars reaching and hauling, reaching and hauling, all in perfect synchrony."
 
-**中文理解**：Sam's observation——、。这是 Sam's first spirit realm sighting。
+**中文理解**：那不是鲸。在翻滚的雾重新合上之前有几秒钟，Sam 看清了上百支长桨一齐探出、拉回，探出、拉回，整齐得不差分毫。
 
-**句子结构**：主系表（It was no whale）+ 时间状语从句（For the space of several seconds, before the roiling fog drew the curtain once more）+ 主谓宾（I saw clearly a hundred long oars reaching and hauling, reaching and hauling, all in perfect synchrony）。
+**句子结构**：首句主系表（It was no whale）；第二句用 For the space of several seconds 作时间状语，before the roiling fog drew the curtain once more 是时间状语从句，主句是 I saw clearly a hundred long oars，reaching and hauling 重复出现表持续，all in perfect synchrony 是独立主格结构。
 
 **关键词**：
 
-**为什么这样写**：用 Sam's observation 把 spirit realm 具象化，"a hundred long oars reaching and hauling"把 ship's oars 具象化，为后文 "the ship's passengers—or were they oarsmen?" 做铺垫。
+**为什么这样写**：用重复的探出拉回写划桨的机械感。那东西不是动物也不是船，读者的第一印象就被定在说不清上。
 
 ---
 
 > **原句 4:** "I heard human voices, woven into the roar like a strand of red threaded through a black garment."
 
-**中文理解**：Sam's observation——。这是 Sam's poetic description。
+**中文理解**：Sam 听见人声，它们织进那片轰鸣里，像一根红线穿过一件黑衣。
 
-**句子结构**：主谓宾（I heard human voices）+ 伴随分词短语（woven into the roar like a strand of red threaded through a black garment）。
+**句子结构**：主谓宾（I heard human voices），woven into the roar 是过去分词短语作后置定语，like a strand of red threaded through a black garment 是比喻，内嵌 threaded through 作过去分词短语。
 
 **关键词**：
 
-**为什么这样写**：用 Sam's poetic metaphor 把 spirit realm 具象化，"like a strand of red threaded through a black garment"把 voices 具象化为 thread，为后文 "like mourners standing beneath cascading ocean waves" 做铺垫。
+**为什么这样写**：用一根红线写人声在噪声里的细与亮。比喻把听觉转成视觉，也让那片灵域从一开始就带着哀悼的意味。
 
 ---
 
 > **原句 5:** "I am not sure how long it took, for after a while I ceased to think of time or destination and focused only on the worn rope before me, placing hand over hand, determined simply to go on because my exhaustion had narrowed my faculties."
 
-**中文理解**：Sam 的旅程——他不确定走了多久，疲惫收窄了感知，只专注于手中的绳索。
+**中文理解**：Sam 说不清走了多久：过了一会儿他就不再想时间，也不再想目的地，只盯着眼前那条磨损的绳索，一手接一手地往前挪，只因为疲惫已经把他的心思收窄到只剩走下去。
 
-**句子结构**：主系表（I am not sure how long it took）+ 原因状语从句（for after a while I ceased to think of time or destination and focused only on the worn rope before me, placing hand over hand, determined simply to go on because my exhaustion had narrowed my faculties）。
+**句子结构**：首句主系表（I am not sure how long it took），how long it took 是宾语从句；第二句用 for 引导原因状语从句，从句里 I ceased to think of time or destination and focused only on the worn rope 是并列谓语，placing hand over hand 是分词短语，determined simply to go on 是过去分词短语作状语，because my exhaustion had narrowed my faculties 是原因状语从句。
 
 **关键词**：
 
-**为什么这样写**：用 Sam's exhaustion 把 his journey 具象化，"my exhaustion had narrowed my faculties"把 his state 具象化，为后文 "Finally I pulled on the blue rope and felt not the loose, swaying motion..." 做铺垫。
+**为什么这样写**：用疲惫收窄了心思写极限状态。身体撑不住的时候，念头反而变得简单，这段路由此显得比任何凶险都漫长。
 
 ---
 
 > **原句 6:** "I was looking at the underside of a ship that soared—for it moved through air—far above me, two hundred yards at least, carrying some unearthly load of lamentation to some unknown destination."
 
-**中文理解**：Sam 的观察——他看见一艘船的底部，百支桨同步划动。
+**中文理解**：他抬头看着一艘高悬的船的船底——它是从空中穿过去的——离他至少两百码，载着一批不属于人间的哀声，送往某个无人知道的地方。
 
-**句子结构**：主谓宾（I was looking at the underside of a ship that soared—for it moved through air—far above me, two hundred yards at least）+ 伴随分词短语（carrying some unearthly load of lamentation to some unknown destination）。
+**句子结构**：主谓宾（I was looking at the underside of a ship），that soared 是定语从句，for it moved through air 是插入的原因从句，far above me, two hundred yards at least 是补充；末接 carrying some unearthly load of lamentation 的分词短语与 to some unknown destination 的方向状语。
 
 **关键词**：
 
-**为什么这样写**：用 Sam's observation 把 spirit realm 具象化，"carrying some unearthly load of lamentation"把 ship's purpose 具象化，为后文 "For all I knew, they had no destination" 做铺垫。
+**为什么这样写**：用哀声作货物写那艘船的用途。它运的不是人也不是物，而是一整船的悲痛，灵域的规矩由此变得可感。
 
 ---
 
 > **原句 7:** "'I don't think that will happen today,' he said gently. 'I am Corbin,' he added, extending his hand."
 
-**中文理解**：Corbin 的介绍——"I don't think that will happen today"、"I am Corbin"。Corbin 的温柔。
+**中文理解**：他温和地说，他想今天不会出那种事；又伸出手，说自己叫 Corbin。
 
-**句子结构**：引语（I don't think that will happen today）+ 说话标签（he said gently）+ 引语（I am Corbin）+ 伴随分词短语（extending his hand）。
+**句子结构**：引语 I don't think that will happen today 是宾语从句作否定判断，后接说话标签 he said gently；末段引语 I am Corbin 后接 he added，extending his hand 是分词短语作伴随状语。
 
 **关键词**：
 
-**为什么这样写**：用 Corbin's introduction 把 his character 具象化，"I don't think that will happen today"把 his reassurance 具象化，为后文 "All about him was an air of kindliness" 做铺垫。
+**为什么这样写**：用一句温和的否定先安人心，再报名字。Corbin 是全书里少见的善意，他的出场方式也就格外轻。
 
 ---
 
-> **原句 8:** "I am not sure how long it took, for after a while I ceased to think of time or destination and focused only on the worn rope before me, placing hand over hand, determined simply to go on because my exhaustion had narrowed my faculties."
+> **原句 8:** "The cable was slick with condensation, but I could gain no better purchase anywhere else."
 
-**中文理解**：Sam 的旅程——他不确定走了多久，疲惫收窄了感知。
+**中文理解**：他说那条缆绳被水汽浸得溜滑，可他再也找不到更牢的着力处。
 
-**句子结构**：主系表（I am not sure how long it took）+ 原因状语从句（for after a while I ceased to think of time or destination and focused only on the worn rope before me, placing hand over hand, determined simply to go on because my exhaustion had narrowed my faculties）。
+**句子结构**：首句主系表（The cable was slick with condensation）；第二句用 but 转折，I could gain no better purchase anywhere else 是主谓宾加地点状语。
 
 **关键词**：
 
-**为什么这样写**：用 Sam's exhaustion 把 his journey 具象化，"my exhaustion had narrowed my faculties"把 his state 具象化，为后文 "Finally I pulled on the blue rope and felt not the loose, swaying motion..." 做铺垫。
+**为什么这样写**：用溜滑却只能抓紧写别无选择。这段苦旅不靠意志取胜，只靠没有退路。
 
 ---
 
-> **原句 9:** "I saw"
+> **原句 9:** "As I stood in the realm of the dead, intent on following the instructions given to me in the bottle, the lullaby faded and the currents grew stronger. I gripped the blue rope beside me; then I walked and tugged myself forward."
 
-**中文理解**：Sam 的发现——他看见母亲的摇篮曲来自一组玻璃瓶。
+**中文理解**：他站在死者的国度里，一心想照瓶子里那些吩咐去做；摇篮曲渐渐淡下去，水流变强。他抓住身旁那根蓝色的绳索，一步步拽着自己向前。
 
-**句子结构**：主谓宾（I saw then where my mother's lullaby came from）+ 同位语（a cluster of glass bottles, strung by their necks from one of the ropes, chiming gently against a rusted iron chain）。
+**句子结构**：首句用 As I stood in the realm of the dead 作时间状语从句，intent on following the instructions 是形容词短语作伴随，given to me in the bottle 是过去分词短语作后置定语；主句是 the lullaby faded and the currents grew stronger；末句用分号连接 I gripped the blue rope beside me 与 then I walked and tugged myself forward 两个并列主谓句。
 
 **关键词**：
 
-**为什么这样写**：用 Sam's discovery 把 his mother's guidance 具象化，"a cluster of glass bottles, strung by their necks from one of the ropes, chiming gently against a rusted iron chain"把 mother's lullaby 具象化，为后文 "I gasped. No doubt my thoughts were confused, but it seemed to me that somehow, in this unlikely place and despite all odds, my mother was guiding me" 做铺垫。
+**为什么这样写**：用摇篮曲渐弱写依靠的消失。此前引他前行的歌声退去，他只能靠自己抓住绳子，读者的不安也随之上来。
 
 ---
 
 > **原句 10:** "I gasped."
 
-**中文理解**：Sam 的醒悟——他意识到母亲在引导他。
+**中文理解**：他倒吸一口气。
 
-**句子结构**：主谓宾（I gasped）+ 主系表（No doubt my thoughts were confused）+ 主系表（but it seemed to me that somehow, in this unlikely place and despite all odds, my mother was guiding me）。
+**句子结构**：主谓宾，两个词。
 
 **关键词**：
 
-**为什么这样写**：用 Sam's realization 把 his belief 具象化，"No doubt my thoughts were confused"把 his uncertainty 具象化，"it seemed to me that somehow, in this unlikely place and despite all odds, my mother was guiding me"把 his belief 具象化，为后文 "If I'd stopped to think, I would have realized that this was impossible" 做铺垫。
+**为什么这样写**：用两个词写惊觉。前面那一串推断都没有说出口，此处只留一个动作，读者自己把结论接上。
 
 ---
 
 > **原句 11:** "Comprehension settled upon me, as heavy as the stone in my hand. The thew was for another man, but the assistance was for me. The compassion Corbin extended was to spare my life."
 
-**中文理解**：Sam 的领悟——"Comprehension settled upon me, as heavy as the stone in my hand"。Sam 的醒悟。
+**中文理解**：他忽然明白了，那明白像手里那块石头一样沉：那个灵体是给别人准备的，而这份援手是给他的——Corbin 的同情，为的是保住他一条命。
 
-**句子结构**：主谓宾（Comprehension settled upon me, as heavy as the stone in my hand）+ 主系表（The thew was for another man, but the assistance was for me）+ 主系表（The compassion Corbin extended was to spare my life）。
+**句子结构**：首句主谓宾（Comprehension settled upon me），as heavy as the stone in my hand 是同级比较作补充；第二句用 The thew was for another man 与 but the assistance was for me 构成对照；末句主系表是 The compassion Corbin extended was to spare my life，Corbin extended 是省略 that 的定语从句。
 
 **关键词**：
 
-**为什么这样写**：用 Sam's comprehension 把 his realization 具象化，"Comprehension settled upon me, as heavy as the stone in my hand"把 his realization 具象化为 weight，"The thew was for another man, but the assistance was for me"把 Corbin's assistance 具象化，为后文 "Thank you" 做铺垫。
+**为什么这样写**：用石头的重量写领悟。灵体与性命的轻重在这里被摆在一起，读者由此明白 Sam 欠下了什么。
 
 ---
 
 > **原句 12:** "'Take nothing they give you, Sam. No matter how useful or harmless it seems. Take nothing and stay alive.'"
 
-**中文理解**：Corbin 的警告——"Take nothing they give you, Sam. No matter how useful or harmless it seems. Take nothing and stay alive"。Corbin 对 Sam 的警告。
+**中文理解**：Corbin 说：他们给你的东西，一样都别拿，不管它看起来多有用、多无害；什么都别拿，活下去。
 
-**句子结构**：引语（Take nothing they give you, Sam）+ 引语（No matter how useful or harmless it seems）+ 引语（Take nothing and stay alive）。
+**句子结构**：引语由三句祈使句构成：Take nothing they give you, Sam 是主谓宾加称呼语，they give you 是省略 that 的定语从句；No matter how useful or harmless it seems 是让步状语从句；Take nothing and stay alive 用并列谓语收尾。
 
 **关键词**：
 
-**为什么这样写**：用 Corbin's warning 把 his advice 具象化，"Take nothing they give you"把 his warning 具象化，"Take nothing and stay alive"把 his warning 具象化为 imperative，为后文 chapters 做铺垫。
+**为什么这样写**：用三句短促的叮嘱作全章收束。这句话既是忠告也是咒语，读者会记着它，看 Sam 后来有没有照做。
 
 ---
 
@@ -178,7 +178,7 @@ start_date: 2026-10-19
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | `thew` | 灵体奴仆 | spirit thew |
-| `portal` | 传送门 | portal to the spirit realm |
+| `portal` | 传送门 | I stumbled onward, and I wouldn’t have reached the portal without Eva’s relentless urging. |
 | `rope` | 绳索 | henequen ropes |
 
 ### ⭐ 基础
