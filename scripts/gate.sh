@@ -50,7 +50,10 @@ echo; echo "=== ② check_vocab（词汇真实性/例句/分档）==="
 #   **不把 FAIL 计入退出码** ⇒ gate.sh 报「0 条阻断型 · 退出码 0」而 check_vocab 实际 FAIL 147。
 #   ⇒ 改为与 ③ lane 同一口径：**先取退出码，再按结论行判红**。
 #   （判据仍是「结论/退出码」，不是 grep 匹配与否——记忆 #2048。）
-_cv_out=$(python3 scripts/check_vocab.py "$B" 2>&1); _cv_rc=$?
+# ⚠️ 2026-10-19 同步（与 ③ 同一处假警报）：check_vocab 在 FAIL>0 时退出码 1，
+#   原式会让它触发 ERR trap 打印「中途中止」——脚本仍跑完，但读数误导。
+#   同样改成 `&& A || B` 形式捕获退出码，判定逻辑不变。
+_cv_out=$(python3 scripts/check_vocab.py "$B" 2>&1) && _cv_rc=0 || _cv_rc=$?
 echo "$_cv_out" | grep -E "词条行合计|FAIL \(|WARN \("
 if [ "$_cv_rc" -ne 0 ]; then
   echo "--- check_vocab 阻断明细（FAIL 非 0）---"
@@ -64,7 +67,15 @@ echo; echo "=== ③ check_entities（梗概实体一致性）==="
 # 标题行 ⇒ **「无法判定」这一句会被吞掉，板面/日志上看着像正常跑过**。
 # ⇒ 改为 grep 出「❓ / ❌ / ⚠️」三类关键行；exit 2 是「未判定」，不进阻断聚合
 #   （与 ① 无 epub 同口径，见文件头「只认 ❌」）。
-_ce_out=$(python3 scripts/check_entities.py "$B" 2>&1); _ce_rc=$?
+# ⚠️ 2026-10-19 修正（captain-s-dinner 实测假警报）：原式
+#   `_ce_out=$(python3 ... ); _ce_rc=$?`
+# 会让**退出码 2（未判定，属合法结果）触发文件头的 ERR trap**，把
+# 「gate.sh 中途中止」打到 stderr——**而脚本其实跑完了 19 lane**。
+#   ⇒ 读日志的人会以为门禁没跑完，从而把「③ 实体层未核」误读成「干净」
+#   （与文件头记的第 ①②③ 次「汇总层误导读数」同族）。
+#   修法＝用 `&& A || B` 形式捕获退出码：失败命令不在 &&/|| 列表末尾 ⇒ 不触发 ERR trap，
+#   而 `$?` 仍是 python 的退出码，判定逻辑一字未改。
+_ce_out=$(python3 scripts/check_entities.py "$B" 2>&1) && _ce_rc=0 || _ce_rc=$?
 if [ "$_ce_rc" -eq 2 ]; then
   echo "$_ce_out" | grep -E '❓|⚠️ 口径只认'
 elif [ "$_ce_rc" -ne 0 ]; then
