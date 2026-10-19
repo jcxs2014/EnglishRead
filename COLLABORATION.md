@@ -169,47 +169,18 @@ check_vocab FAIL=0（10 WARN 提示型）｜corruption_scan 0 ✅｜overview_quo
 
 ### [2026-10-19 11:43 UTC] [Commandcode-Mac] → All
 
-《The Captain's Dinner》（Adam Cohen）slug: captain-s-dinner-by-adam-cohen 全书精读 + 五步审查完工
+《The Captain's Dinner》（Adam Cohen）slug: captain-s-dinner-by-adam-cohen 全书精读 + 五步审查完工 + 三轮整改（续修：Opencode-Mac，2026-10-19）
 
-- 产出：13 章逐章精读（ch01–ch13）+ 总览三篇（概述/金句精选/情感节点）= 16 md；text/ 13 件（1:1）
-- 门禁（完整 lane，epub）：gate.sh 退出码 0（0 阻断型）｜ verify_quotes 154/154（100%，13/13 干净）｜ check_vocab FAIL 0 ｜ check_entities 0 未知实体 ｜ corruption_scan 0 ｜ check_chapter_quotes 13/13 X/X ｜ verify_overview_quotes 44/46（96%，2 🔶 提示）｜ check_overview_full 0 ❌ 查无
-- 五步审查（2026-10-19，Commandcode-Mac 同会话，a–e 全跑）：阻断型 2（ch04 关键词+可质疑处）已整改｜ 提示型 6（check_block_keywords）｜ 假红 0 ｜ 跳过 0；同会话审查已知盲区已如实标注
-- commits：16 笔，全部未 push
-- 明细：.memory/raw-gates/captain-s-dinner-by-adam-cohen/；日志 .memory/daily/2026-10-19.md
-
-captain-s-dinner-by-adam-cohen 追加：中文层修复（2026-10-19）：阻断型 110→0（ch03–ch13 中文理解全译）；verify_quotes 仍 154/154；check_overview_full 0 ❌；gate.sh 退出码 0。提示型 197（中英夹杂）按 AGENTS 第 3 条「只记不改」保留。
-
-captain-s-dinner-by-adam-cohen 追加：中文层修复（2026-10-19）：阻断型 110→0（ch03–ch13 中文理解全译）；verify_quotes 仍 154/154；check_overview_full 0 ❌；gate.sh 退出码 0。提示型 197（中英夹杂）按 AGENTS 第 3 条「只记不改」保留。
-
-《The Captain's Dinner》（Adam Cohen）slug: captain-s-dinner-by-adam-cohen 中文层整改 + 占位符补齐（Opencode-Mac，2026-10-19）
-
-- 中文层整改：152 个引语块的「中文理解/句子结构/表达方式/为什么这样写」全部改写为中文（专名、书名、机构名、术语保留英文并加引号，叙述一律中文句子）；13 章概览与论证结构、00_概述.md、00_情感节点.md 一并中文化，并删除 00_概述.md 重复的「主题」节
-- 中文层门禁：整层夹杂率 91% → 14%；阻断型 1（整层夹杂）→ 0；提示型 197 → 24（15.8%，低于 30% 阈值）；合格分析密度 100%
-- 补齐 ch05–ch13 的「词汇分级」三档表与「一句话总结」（原为字面占位符 (unchanged)）：例句由脚本从 text/ 逐字提取、释义人工撰写；全书词条 481 条，check_vocab FAIL 0
-- ch01–ch04：词汇表释义列去中英夹杂 28 处、超纲词条由基础档移进阶档 31 处、例句改配含词头的原句 6 处
-- 门禁（完整 lane）：gate.sh 退出码 0（19 lane 0 阻断型）｜verify_quotes 195/197（99%）｜check_vocab FAIL 0｜corruption_scan 0｜逐章归属 152/152｜sweep_full 0 查无｜check_chinese_layer 阻断 0｜空段扫描 0｜导航与总结层英文 0
-- 提交：d39270118（15 文件），未 push
-- 明细：.memory/daily/2026-10-19.md
-
-《The Captain's Dinner》（Adam Cohen）slug: captain-s-dinner-by-adam-cohen 总览补注释 + 引语缺陷修复（Opencode-Mac，2026-10-19）
-
-- 产出：00_金句精选.md 按同库已完工书体例（black-is-the-body 四子项）补全 35 条注释——中文 / 上下文 / 为什么重要 / 呼应关系；交叉引用 63 处逐条核对指向正确
-- 引语缺陷修复 10 处：金句 8 条（拼接体 5 条：作者用 ... 把中间隔着叙述的两段缝在一起；改写式伪造 3 条：Brooks 的话被调换语序并改了 anyone else→anyone、equal chance for their life 实为另一处、This addition 被改成 The addition）＋ 情感节点 2 条（节点二同属改写式伪造；节点九标注 ch08 实为 ch06，已改标注并重写说明）
-- 门禁：gate.sh 退出码 0｜总览引文 47/47（100%，拼接 0；修复前 45/47）｜金句 35/35（修复前 34/35）｜情感节点 12/12（修复前 11/12）｜check_overview_labels 48/48 标注章逐字（修复前 46/48）｜中文层阻断型 0、提示型 24
-- 提交：e6ca8163c（2 文件），未 push
-- 明细：.memory/daily/2026-10-19.md
-
-《The Captain's Dinner》（Adam Cohen）slug: captain-s-dinner-by-adam-cohen 总览三篇按库内标准体例重建 + 工具失准修复（Opencode-Mac，2026-10-19）
-
-- 体例来源：notes1/books/non-fiction/after-a-funeral-by-diana-athill 与 becoming-by-michelle-obama（库内最近完工的两本非虚构书），非自拟
-- 00_概述.md：frontmatter title + H1「书名 概述（作者 · 体裁）」+ 关键词索引行；梗概改「**<小标题>（chNN）**：正文」并由条目式重写为 2–4 句散段（专名保留英文，章号覆盖 01–13）；主题改「## 主题（4 个）」+「**主题名**：正文」；人物弧光改「**人物名**：正文」（7 人）
-- 00_金句精选.md：H1「书名 金句精选（35 句）」+ 说明行；按章分 13 组（组标题带章号）；条目改「① "…"（chNN）」；四个子项改「- **中文**：」粗体形态（与库内 36 本同款）
-- 00_情感节点.md：H1「书名 情感节点（13 节点）」+ 说明行；改「## 节点N·<短标题>（chNN）」+ 3–5 句叙事概括 + 关键引语
-- 引语零重打：金句 35 条与节点 13 条全部从原文件解析复用，落盘前逐条 flat 回验本章 text/
-- 工具失准（留档 docs/实测档案/T_2026-10-19_总览圈码上限扩展_工具失准与全库行为对照.md）：verify_overview_quotes / check_overview_labels 的圈码表止于 ㉚(30)，㉛–㉟ 的总览引语静默漏检 ⇒ 库内 17 本受影响、本书 5 条从未被任何工具核过；纯增量扩展到 ㉟，全库 17 本并列对照：0 本提取数减少、0 本新增假红型，修掉 what-grows-in-the-dark 10 条假红，新增被校验的引语全部逐字通过
-- 门禁：gate.sh 退出码 0（19 lane 0 阻断型）｜总览引文 47/47（100%，🔶 0）｜金句 35/35（扩展前只核了 30 条）｜情感节点 12/12｜check_overview_labels 48/48 标注章逐字、待人判 0｜总览中文层 findings 0｜中文层阻断型 0、提示型 24
-- 提交：07b5bcb4c（6 文件），未 push
-- 明细：.memory/daily/2026-10-19.md
+- 完工（Commandcode-Mac）：13 章逐章精读 + 总览三篇 = 16 md，text/ 13 件（1:1）；五步审查 a–e 全跑，阻断型 2 已整改、提示型 6、假红 0
+- ① 中文层整改：152 块分析层全部改写为中文（整层夹杂率 91%→14%，阻断型 1→0，提示型 197→24）；补齐 ch05–ch13 空占位的「词汇分级 / 一句话总结」18 节（481 词条，例句逐字取自 text/）
+- ② 总览引语修复：金句 35 条补齐四子项注释；引语缺陷 10 处（拼接体 5 + 改写式伪造 3 + 标注错 2），总览引文 45/47→47/47
+- ③ 总览三篇按库内标准体例重建（体例取自 after-a-funeral / becoming，非自拟）：概述 13 章散段 + 主题 4 + 人物 7；金句分 13 组、条目改「① "…"」；情感节点改「节点N·标题（chNN）」+ 叙事概括
+- 工具失准：verify_overview_quotes / check_overview_labels 圈码上限 ㉚→㉟（㉛–㉟ 静默漏检，库内 17 本受影响）；全库对照 0 本减少 / 0 新假红，修掉 what-grows 10 条假红；留档 docs/实测档案/T_2026-10-19_总览圈码上限扩展_…md
+- 工具假警报：gate.sh 的 ③ check_entities 退出码 2 会触发「中途中止」（脚本其实跑完 19 lane）⇒ 已修，逐行对照 0 差异
+- 门禁（完整 lane，epub）：gate.sh 退出码 0（19 lane 0 阻断型）｜总览引文 47/47（100%，🔶 0）｜金句 35/35｜情感节点 12/12｜check_overview_labels 48/48 逐字、待人判 0｜中文层 夹杂 14% / 阻断 0 / 提示 24｜verify_quotes 195/197｜check_vocab FAIL 0｜corruption 0｜逐章归属 152/152｜sweep_full 0 查无｜空段扫描 0
+- ⚠️ 跳过型：③ check_entities 报「无法判定」（口径只认「故事梗概 / 本章导航」，非虚构书用「概览 / 全书梗概」）⇒ 实体层未核，不是干净
+- commits：完工 16 笔（Commandcode-Mac）+ 续修 8 笔（d39270118 / 4952328a0 / e6ca8163c / ed0050643 / 07b5bcb4c / 3f5bd177c / 0f80ab3f5 + 板日志），全部未 push
+- 明细：.memory/daily/2026-10-19.md（本书专节，含逐条清单与四档定性）；门禁原件 .memory/raw-gates/captain-s-dinner-by-adam-cohen/
 
 ### [2026-10-19 11:44 UTC] [Commandcode-Mac] → All
 
