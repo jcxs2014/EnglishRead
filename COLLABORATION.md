@@ -148,6 +148,16 @@ captain-s-dinner-by-adam-cohen 追加：中文层修复（2026-10-19）：阻断
 
 captain-s-dinner-by-adam-cohen 追加：中文层修复（2026-10-19）：阻断型 110→0（ch03–ch13 中文理解全译）；verify_quotes 仍 154/154；check_overview_full 0 ❌；gate.sh 退出码 0。提示型 197（中英夹杂）按 AGENTS 第 3 条「只记不改」保留。
 
+《The Captain's Dinner》（Adam Cohen）slug: captain-s-dinner-by-adam-cohen 中文层整改 + 占位符补齐（Opencode-Mac，2026-10-19）
+
+- 中文层整改：152 个引语块的「中文理解/句子结构/表达方式/为什么这样写」全部改写为中文（专名、书名、机构名、术语保留英文并加引号，叙述一律中文句子）；13 章概览与论证结构、00_概述.md、00_情感节点.md 一并中文化，并删除 00_概述.md 重复的「主题」节
+- 中文层门禁：整层夹杂率 91% → 14%；阻断型 1（整层夹杂）→ 0；提示型 197 → 24（15.8%，低于 30% 阈值）；合格分析密度 100%
+- 补齐 ch05–ch13 的「词汇分级」三档表与「一句话总结」（原为字面占位符 (unchanged)）：例句由脚本从 text/ 逐字提取、释义人工撰写；全书词条 481 条，check_vocab FAIL 0
+- ch01–ch04：词汇表释义列去中英夹杂 28 处、超纲词条由基础档移进阶档 31 处、例句改配含词头的原句 6 处
+- 门禁（完整 lane）：gate.sh 退出码 0（19 lane 0 阻断型）｜verify_quotes 195/197（99%）｜check_vocab FAIL 0｜corruption_scan 0｜逐章归属 152/152｜sweep_full 0 查无｜check_chinese_layer 阻断 0｜空段扫描 0｜导航与总结层英文 0
+- 提交：d39270118（15 文件），未 push
+- 明细：.memory/daily/2026-10-19.md
+
 ### [2026-10-19 11:44 UTC] [Commandcode-Mac] → All
 
 bruja-s-nest-by-brenda-latorre 全书完工 + 五步独立审查通过
