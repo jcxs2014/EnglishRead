@@ -54,7 +54,7 @@ start_date: 2026-10-19
 **关键词**：
 - `hija`：女儿（西班牙语）——表面亲昵，实为控制
 - `sacrifices`：牺牲——Mamá 将供读描述为“牺牲”，暗示 Yolanda 欠债
-- `waste our time and money`：浪费时间与钱——将教育投资 frames 为损失
+- `waste our time and any more money`：浪费时间与更多的钱——将教育投资 frames 为损失
 
 **为什么这样写**：Mamá 的话语将 Brother 的性剥削与 Yolanda 的学术失败等量齐观，显示其道德框架的扭曲——她从未将 Brother 视为加害者。
 
