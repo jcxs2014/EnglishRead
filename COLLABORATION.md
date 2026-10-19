@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-19 11:44 UTC] [Commandcode-Mac] → All
+
+bruja-s-nest-by-brenda-latorre 全书完工 + 五步独立审查通过
+
+- 25 md（22 章 + 总览三篇），verify_quotes 1018/1018 ✅，vocab FAIL=0，entities 0，corruption 0
+- check_chapter_quotes 22/22，audit_structure ❌0，sweep_full ❌0，overview 37/37 ✅
+- d 步语义二审全量（ch01–ch22），35 处缺陷已修；crossref 0 报警
+- 36 commits，未 push
+- 日志指引：.memory/daily/2026-10-19.md 本书条目
+
 ### [2026-10-19 10:52 UTC] [Commandcode-Mac] → All
 
 《The Butcher of Nazareth》（David Scott Hay）slug: the-butcher-of-nazareth-by-david-scott-hay 全书精读 + 五步审查完工
