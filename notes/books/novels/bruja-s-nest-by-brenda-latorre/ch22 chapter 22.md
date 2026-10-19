@@ -1622,7 +1622,7 @@ start_date: 2026-10-19
 - `We lay Javier next to the rotting lemon tree`：我们 lay Javier next to rotting lemon tree——burial
 - `Itzco’s eyes glisten`：Itzco 眼睛 glisten——emotion
 
-**为什么这样写**：Javier’s burial next to rotting lemon tree shows (limited) justice—Javier joins Valentín’s grave site。
+**为什么这样写**：Javier’s burial next to rotting lemon tree shows (limited) justice—Yolanda lays him beside the tree。
 
 ---
 
@@ -2893,13 +2893,10 @@ start_date: 2026-10-19
 
 ## 一句话总结
 
-本章 Yolanda & Panchito flee to Afontla; Cesarea reveals her history with Don Julián (impregnated, Javier operated, baby killed); Yolanda asks Cesarea for spell to kill Javier; Cesarea gives knife; Yolanda kills Javier, Panchito eats him; Panchito flies away; Yolanda becomes bruja; final scene: young woman comes seeking help, Yolanda accepts as bruja—her transformation complete。
+本章 Yolanda & Panchito flee to Afontla; Yolanda asks Cesarea for help to kill Javier; Cesarea gives knife; Yolanda kills Javier, Panchito eats him; Panchito flies away; Yolanda becomes bruja; final scene: young woman comes seeking help, Yolanda accepts as bruja—her transformation complete。
 
 ## 读者视角提示
 
-- Cesarea’s confession reveals her (limited) history—Don Julián impregnated her, Javier operated, baby killed
-- Cesarea’s "I wanted to punish Don Julián... Nothing like a little monster growing in the bosom of their good name" shows Panchito was weapon
-- Yolanda’s "What if we take back what’s ours?" shows her (limited) temptation—she considers using Cesarea’s power
 - Yolanda kills Javier with knife (Cesarea’s gift)—her transformation to bruja
 - Panchito eats Javier (eyes first)—shows his (limited) ritual
 - Panchito levitates/flys away—shows his (supernatural) nature
