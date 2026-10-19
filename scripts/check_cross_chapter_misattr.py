@@ -126,7 +126,7 @@ def main():
                 if hit:
                     # ⚠️ 2026-10-19：块内**已标出 chNN**的跨章回指是**合规**的
                     #（读者知道引自别章）⇒ 与「真误标」分开列。
-                    labeled = any(re.search(rf"\b{c}\b", s) for c in hit)
+                    labeled = any(re.search(rf"(?<![A-Za-z0-9]){c}(?![A-Za-z0-9])", s) for c in hit)
                     findings.append((name, i, sec, q, hit, labeled))
 
     print(f"=== 跨章误标检查（{os.path.basename(args.book_dir.rstrip('/'))}）===")

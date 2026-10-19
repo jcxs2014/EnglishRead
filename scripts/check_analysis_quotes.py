@@ -127,7 +127,7 @@ def collect(book_dir, only_file=None):
                     # ⚠️ 2026-10-19：跨章引用若**本块已标出 chNN**（＝已标注）
                     # 就不该再报「须在本块内标出 chNN」——那是已完成的动作。
                     other_chs = [c for c, r in per_chapter.items() if f in r]
-                    labeled = any(re.search(rf"\b{c}\b", body) for c in other_chs)
+                    labeled = any(re.search(rf"(?<![A-Za-z0-9]){c}(?![A-Za-z0-9])", body) for c in other_chs)
                     q_other.append((name, i, field, q, labeled, other_chs))
                 else:
                     q_none.append((name, i, field, q))
