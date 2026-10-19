@@ -333,20 +333,6 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 24:** "“If you insist on living on these grounds, I’ll move you and the baby to the guesthouse. There’s plenty of space there.”"
-
-**中文理解**：Don Julián’s "If you insist on living on these grounds..."—conditional. "There’s plenty of space there." Yolanda: "I shake my head and then close my mouth. Even the bunkhouse is a better place to live."
-
-**句子结构**：两句话。
-
-**关键词**：
-- `If you insist on living on these grounds`：如果你坚持住在这里——conditional
-- `Even the bunkhouse is a better place to live`：连 bunkhouse 都比这好——downgrade
-
-**为什么这样写**：Don Julián’s conditional shows his control—he offers "guesthouse" as punishment, not generosity。
-
----
-
 ## 一句话总结
 
 本章 Yolanda 在 shed 等待 Valentín surgery；Don Julián 召见，讨论 living arrangements；Yolanda 被 assigned to guesthouse (shed)；egg hidden in garden shed bed. Don Julián 的 "marvelous arrangement" 是 power exercise—Yolanda must perform gratitude to stay。

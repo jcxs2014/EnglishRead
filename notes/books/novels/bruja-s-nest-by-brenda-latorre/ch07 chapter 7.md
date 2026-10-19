@@ -151,33 +151,6 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 11:** "“You’re not allowed to have noviecitos here. You know that.”"
-
-**中文理解**：Alta’s repetition of "noviecitos" warning—she is suspicious but accepts excuse. "You know that" is accusatory but resigned。
-
-**句子结构**：两句话。
-
-**关键词**：
-- `noviecitos`：小男朋友——Alta’s assumption
-- `You know that`：你知道的——accusatory
-
-**为什么这样写**：Alta’s acceptance of "accident" shows her willful ignorance—she doesn’t want to know the truth。
-
----
-
-> **原句 12:** "“Let this be the last time, Yolanda.”"
-
-**中文理解**：Alta’s final warning—repetition from earlier. Shows pattern of warnings and Yolanda’s disregard。
-
-**句子结构**：祈使句。
-
-**关键词**：
-- `Let this be the last time`：这是最后一次——final warning
-
-**为什么这样写**：Alta’s repeated "last time" shows her patience is finite—Yolanda is testing limits。
-
----
-
 > **原句 13:** "I imagine Javier inside the shed. Using a scalpel to remove the organs that make living things function."
 
 **中文理解**：Yolanda imagines Javier in shed—scalpel removing organs. "Organs that make living things function" shows her awareness of violence beneath Javier’s charm。

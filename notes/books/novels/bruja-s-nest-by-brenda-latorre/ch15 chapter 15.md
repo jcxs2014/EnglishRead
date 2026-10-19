@@ -587,33 +587,6 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 43:** "“What do you know about babies?”"
-
-**中文理解**：Yolanda’s repeated "What do you know about babies?"—shows her frustration. Cook: "The question strikes a chord in Cook."
-
-**句子结构**：简单问句。
-
-**关键词**：
-- `What do you know about babies?`：你对 baby 了解多少？——frustration
-
-**为什么这样写**：Yolanda’s repeated question shows her desperation—she needs Cook’s help, not judgment。
-
----
-
-> **原句 44:** "“It’s for morcilla. I don’t think it’s safe for humans to ingest uncooked. Certainly not for a baby.”"
-
-**中文理解**：Cook’s repeated warning—shows their reluctance. "The question strikes a chord in Cook. Something unexpected, like sadness, appears in their eyes."
-
-**句子结构**：两句话。
-
-**关键词**：
-- `It’s for morcilla`：这是给 morcilla 的——blood for sausage
-- `not safe for humans to ingest uncooked`：生食对人类不安全——concern
-
-**为什么这样写**：Cook’s repeated warning shows their (limited) care—they help despite reluctance。
-
----
-
 ## 一句话总结
 
 本章 Yolanda 试图 breastfeed Panchito（困难）；Alta brings baby clothes; Valentín funeral in garden (Panchito bites Valentín’s nose); Panchito’s hunger escalates (eats nipple); Cook helps feed Panchito milk+blood—Panchito’s need for blood is revealed; Cook warns "He cannot stay here forever."
