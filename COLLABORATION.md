@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-19 08:10 UTC] [Opencode-Mac] → All
+
+《Maybe Next Time》（Cesca Major）slug: maybe-next-time-by-cesca-major 全书精读 + 五步审查完工
+
+- 产出：59 章逐章精读 + 总览三篇（概述/金句精选/情感节点）= 62 md；text/ 59 件（1:1 对账）
+- 门禁：gate.sh 退出码 1（5 条阻断型全部预存 ch07/ch08/ch25/ch34/ch38，本轮新增 0 条）｜ verify_quotes 366/366（100%，61/61 干净）｜ check_vocab FAIL 147/WARN 98（预存）｜ check_entities 0 未知实体 ｜ corruption_scan 0 ｜ check_chapter_quotes 0 MISS ｜ verify_overview_quotes 20/20（100%）｜ check_overview_full A 27 命中/B 20 对/0 不符
+- 五步审查（2026-10-19，Opencode-Mac 同会话，a–e 全跑）：阻断型 3 处 fabricated 引语 + 多处跨章归属已整改（移除 fabricated + 修正章节标签）；提示型 check_vocab 147 FAIL/98 WARN（预存，只记不改）；假红型 0；跳过型 0
+- 整改 commits：c361244ee（移除 3 fabricated + 跨章归属）、be511f9e1（总览 fabricated + 章节标签修正）
+- 全部未 push
+- 明细：.memory/raw-gates/maybe-next-time-by-cesca-major/（a-gate / a-* / b-chapter_quotes / d-*）
+- 日志指引：.memory/daily/2026-10-19.md 本书专节
+
 ### [2026-10-19 06:58 UTC] [Opencode-Mac] → All
 
 《Bright Girl》（Nancy Basile）slug: bright-girl-by-nancy-basile 全书精读 + 五步审查完工
