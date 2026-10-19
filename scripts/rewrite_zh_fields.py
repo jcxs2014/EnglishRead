@@ -110,11 +110,24 @@ def rewrite_block(lines, s, e, fields):
 
 
 def rewrite_tail(lines, new_body):
-    """替换文件级 `## 读者视角提示` 小节正文（保留标题行本身）。"""
+    """替换文件级 `## 读者视角提示` 小节正文（保留标题行本身）。
+
+    ⚠️ 2026-10-19 修正：若 `new_body` 自带标题行（子代理常把
+    「## 读者视角提示」一起写进 spec），会出现**重复标题**——
+    实测 B11 批 ch44–ch47 各出现 4 个 `## 读者视角提示`，
+    而 `check_chinese_layer` 的解析器会把**最后一个**当标签行、
+    **前面几个**当普通行 ⇒ 小节内容被误并进上一个引语块的 tip。
+    ⇒ 此处自动剥掉开头的标题行（幂等）。
+    """
     try:
         h = next(i for i, l in enumerate(lines) if l.strip() == TAIL_HEADING)
     except StopIteration:
         return lines
+    # 剥掉 new_body 开头的标题行（可能有多个）
+    body_lines = new_body.strip("\n").split("\n")
+    while body_lines and body_lines[0].strip() == TAIL_HEADING:
+        body_lines.pop(0)
+    new_body = "\n".join(body_lines)
     # 小节范围：到下一个 `## ` 标题或文末
     e = len(lines)
     for j in range(h + 1, len(lines)):
