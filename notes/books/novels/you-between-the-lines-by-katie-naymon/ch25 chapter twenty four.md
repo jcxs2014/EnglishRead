@@ -17,42 +17,32 @@ modified: "2026-10-18"
 
 > **原句 1:** "'The divorce has finalized.'"
 
-- **中文理解**："The divorce has finalized."（"The divorce has finalized."）
-- **关键词**：The divorce has finalized（The divorce has finalized）
-- **为什么这样写**：用"The divorce has finalized"把 Dad’s "revelation"具象化， he says "The divorce has finalized"； this is Leigh’s "disbelief"， she’s "disbelieving" about the divorce。
-- **读者视角提示**：读者应记住"The divorce has finalized"—— this is Leigh’s "disbelief"， she’s "disbelieving" about the divorce； this is the chapter’s emotional peak。
+- **中文理解**："离婚已经最终确定了。"（爸爸在晚餐中向 Leigh 宣布他与妈妈的离婚已经最终确定。）
+- **关键词**：The divorce has finalized（离婚已经最终确定了）／finalized（最终确定）
+- **为什么这样写**：用"The divorce has finalized"把爸爸的"揭露"具象化，他在 Leigh 面前直接宣布离婚已最终确定；Leigh 的反应是"像一块砖击中我的脸"，这种比喻把情感冲击具象化；这句话把 Leigh 的家庭 backstory 推到台前，是章节的第二个情感高峰。这种写法把家庭破裂的残酷事实具象化，让读者感到 Leigh 的震惊与痛苦。
+- **读者视角提示**：读者应记住"The divorce has finalized"——这是 Leigh 的"冲击"，她感到像砖头击面；这是章节的第二个情感高峰，与 Will 的 kiss 形成双重打击。
 
 > **原句 2:** "'But you told me counseling was going well,' I hear myself say."
 
-- **中文理解**："But you told me counseling was going well," I hear myself say（"But you told me counseling was going well," I hear myself say）。
-- **关键词**：But you told me counseling was going well（But you told me counseling was going well）
-- **为什么这样写**："But you told me counseling was going well"把 Leigh’s "disbelief"具象化， she says "But you told me counseling was going well"； this is Leigh’s "disbelief"， she’s "disbelieving" about the divorce。
-- **读者视角提示**：读者能感到 Leigh’s "disbelief"—— she’s "disbelieving" about the divorce， this is her "shock"。
+- **中文理解**："但你告诉我咨询进行得很顺利，"我听见自己说。（Leigh 难以置信地回应，引用爸爸此前的话来质疑离婚 finalized 的说法。）
+- **关键词**：But you told me counseling was going well（但你告诉我咨询进行得很顺利）／I hear myself say（我听见自己说）
+- **为什么这样写**：用"But you told me counseling was going well"把 Leigh 的"怀疑"具象化，她引用爸爸此前的话来质问；"I hear myself say"把 Leigh 的"解离"具象化，她在震惊中感到自己像在旁观自己说话；这种写法把 Leigh 从"接受"到"质疑"的转变具象化，是章节的情感转折。这种写法把 Leigh 的震惊具象化，让读者跟随她的心理变化。
+- **读者视角提示**：读者能感到 Leigh 的"怀疑"——她引用爸爸的话来质问，"I hear myself say"暗示她的解离状态；读者应记住 Leigh 的"不信任"——她感到被父母欺骗。
 
 > **原句 3:** "'We wanted to tell you together,' she says. 'I suggested a call next weekend. Not this weekend, for obvious reasons. But some of us can’t read the room, it seems.'"
 
-- **中文理解**："We wanted to tell you together," she says（"We wanted to tell you together," she says）。"I suggested a call next weekend. Not this weekend, for obvious reasons."（"I suggested a call next weekend. Not this weekend, for obvious reasons."）"But some of us can’t read the room, it seems."（"But some of us can’t read the room, it seems."）
-- **关键词**：We wanted to tell you together（We wanted to tell you together）／some of us can’t read the room（some of us can’t read the room）
-- **为什么这样写**：用"We wanted to tell you together"把 Mom’s "intention"具象化， she says "We wanted to tell you together"；"some of us can’t read the room"把 her "criticism" of Dad具象化， she says "some of us can’t read the room"； this is Mom’s "criticism" of Dad， she blames him for the timing。
-- **读者视角提示**：读者能感到 Mom’s "criticism"—— she blames Dad for the timing， this is her "defense mechanism"。
+- **中文理解**："我们想要一起告诉你，"她说。"我建议下周打个电话。不是这个周末，原因显而易见。但有些人就是不会看场合，看来。"（妈妈解释他们想一起告诉 Leigh，她建议下周打电话，但爸爸等不及；妈妈批评爸爸不会看场合。）
+- **关键词**：We wanted to tell you together（我们想要一起告诉你）／I suggested a call next weekend（我建议下周打个电话）／some of us can’t read the room（有些人就是不会看场合）
+- **为什么这样写**：用"We wanted to tell you together"把妈妈的"意图"具象化，她解释他们原本想一起告诉 Leigh；"I suggested a call next weekend. Not this weekend, for obvious reasons."把她的"计划"具象化，她建议下周打电话以避开 reading weekend；"some of us can’t read the room"把她的"批评"具象化，她指责爸爸不会看场合；这句话把父母间的矛盾具象化，让 Leigh 感到自己夹在中间。这种写法把父母的争吵具象化，让读者感到 Leigh 的孤立与痛苦。
+- **读者视角提示**：读者能感到妈妈的"批评"——她指责爸爸不会看场合，这是她的防御机制；读者也应记住父母在 Leigh 面前的争吵，这让 Leigh 感到更加孤立。
 
 ## 本章词汇
-
-### ⭐⭐⭐ 高级
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | all style, no substance | 只有形式，没有内容（重复） | And then I projectile-vomit in front of all of them, a Leigh Simon dream signature. |
-
-### ⭐ 基础
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
 
 ## 一句话总结
 

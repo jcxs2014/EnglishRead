@@ -7,7 +7,7 @@ modified: "2026-10-18"
 
 ## 本章导航
 
-- **一句话概括**：Leigh 收到 workshop packet，发现 Will 的诗"An Apology to the Oberlin College Department of Geology"；workshop 中 Leigh 的"Taylor Swift Sets the Record Straight"被 Jeananne 批评为"speaker hiding behind a mask of images"；Will 在 poem 上写"Taylor can be whomever she wants to be. So who will she choose?"；cohort 被 Christine 邀请去山间别墅周末。
+- **一句话概括**：Leigh 收到 workshop packet，发现 Will 的诗"An Apology to the Oberlin College Department of Geology"；workshop 中 Leigh 的"Taylor Swift Sets the Record Straight"被 Jeananne 批评为speaker hiding behind a mask of images；Will 在 poem 上写"Taylor can be whomever she wants to be. So who will she choose?"；cohort 被 Christine 邀请去山间别墅周末。
 - **情感弧线位置**：**上升（workshop 与 rivalry）**——Leigh 的 poem 被 critique，Will 的 poem 揭示 his "geology"与 father backstory；Will 的 marginal note 暗示他对 Leigh 的 poem 的" reading"。
 - **Tropes 兑现/反转**：兑现「**rivalry / competition**」——Leigh 与 Will 在 fellowship 竞争中互相"reading"对方的 work；同时以「**workshop as intimate exposure**」把 cohort 的 personal stories 推到台前（Jerry's alcoholic dad, Kacey's body issues, Hazel's estranged grandparents）。
 - **人物弧线**：Leigh 从"imposter syndrome"进入"strategic" mode（three-step plan），workshop 的 direct feedback 是 her 第三次" not enough"创伤；Will 的 poem 与 marginal note 暗示 he sees Leigh's potential。
@@ -17,59 +17,59 @@ modified: "2026-10-18"
 
 > **原句 1:** "In the MFA program, you can do whatever the fuck you want, and it’s a looseness that doesn’t seem to agree with me."
 
-- **中文理解**：In the MFA program（In the MFA program），you can do whatever the fuck you want（you can do whatever the fuck you want），and it’s a looseness that doesn’t seem to agree with me（and it’s a looseness that doesn’t seem to agree with me）。
-- **关键词**：looseness（looseness）／doesn’t seem to agree with me（doesn’t seem to agree with me）
-- **为什么这样写**：用"looseness"把 MFA program 的" freedom"具象化， she finds it "loose"；"doesn’t seem to agree with me"把 her "discomfort"具象化， she prefers "structure and deadlines"；这种" discomfort"是 her "people-pleasing"模式的变体—— she needs someone to tell her what to do。
-- **读者视角提示**：读者由此理解 Leigh’s "structure preference"—— she needs "structure and deadlines"， this is her "coping mechanism"。
+- **中文理解**：在 MFA 项目里，你可以随心所欲地做任何想做的事，而这种松散感似乎与我格格不入。
+- **关键词**：looseness（松散感）／doesn’t seem to agree with me（似乎格格不入）
+- **为什么这样写**：用 "looseness" 把 MFA 项目的"自由"具象化，Leigh 发现它"松散"；"doesn’t seem to agree with me" 把她的"不适"具象化，她偏好"结构与截止日期"；这种"不适"是她"取悦他人"模式的变体，她需要有人告诉她该做什么。
+- **读者视角提示**：读者由此理解 Leigh 的"结构偏好"——她需要"结构与截止日期"，这是她的"应对机制"。
 
 > **原句 2:** "My poem sits in the middle of the packet, both literally and quality-wise. It’s not significantly better or worse than anyone else’s. It’s a deep relief, and I wonder if any of my other classmates feel the same way."
 
-- **中文理解**：My poem sits in the middle of the packet（My poem sits in the middle of the packet），both literally and quality-wise（both literally and quality-wise）。It’s not significantly better or worse than anyone else’s（It’s not significantly better or worse than anyone else’s）。It’s a deep relief（It’s a deep relief），and I wonder if any of my other classmates feel the same way（and I wonder if any of my other classmates feel the same way）。
-- **关键词**：middle of the packet（middle of the packet）／both literally and quality-wise（both literally and quality-wise）／deep relief（deep relief）
-- **为什么这样写**：用"middle of the packet"把 Leigh’s "position"具象化， she’s "in the middle"；"both literally and quality-wise"把 her "assessment"具象化， she’s "middle" in both position and quality；"deep relief"把 her "comfort"具象化， she’s relieved to be "average"； this is Leigh’s "imposter syndrome"的变体—— she’s relieved to be "not the worst"。
-- **读者视角提示**：读者能感到 Leigh’s "relief"—— she’s relieved to be "average"， this is her "imposter syndrome"的具象化。
+- **中文理解**：我的诗在 packet 中处于中间位置，无论从实体上还是质量上都是如此。它并不比其他人的诗明显更好或更差。这让我深感宽慰，我也在想其他同学是否也有同样的感觉。
+- **关键词**：middle of the packet（packet 中间位置）／both literally and quality-wise（从实体与质量两方面）／deep relief（深深宽慰）
+- **为什么这样写**：用 "middle of the packet" 把 Leigh 的"位置"具象化，她在中间；"both literally and quality-wise" 把她的"评估"具象化，她从实体和质量两方面都处于中间；"deep relief" 把她的"宽慰"具象化，她为"中等"而宽慰；这是 Leigh "冒名顶替综合症" 的变体，她为"不是最差"而宽慰。
+- **读者视角提示**：读者能感到 Leigh 的"宽慰"——她为"中等"而宽慰，这是她的"冒名顶替综合症"的具象化。
 
-> **原句 3:** "He’s titled it 'An Apology to the Oberlin College Department of Geology.' / The poem is both gritty and lush."
+> **原句 3:** "He’s titled it 'An Apology to the Oberlin College Department of Geology.' … The poem is both gritty and lush."
 
-- **中文理解**："He’s titled it 'An Apology to the Oberlin College Department of Geology.'"（"He’s titled it 'An Apology to the Oberlin College Department of Geology.'"）／"The poem is both gritty and lush."（"The poem is both gritty and lush."）
-- **关键词**：An Apology to the Oberlin College Department of Geology（An Apology to the Oberlin College Department of Geology）／gritty and lush（gritty and lush）
-- **为什么这样写**：用"Apology to the Oberlin College Department of Geology"把 Will’s poem title具象化， it’s about "sneaking into a college office with a girl after dark while waiting for his dad"；"gritty and lush"把 Will’s style具象化， his poem is "gritty and lush"； this is Will’s "poetic voice"， contrasting with Leigh’s "pop culture" poems。
-- **读者视角提示**：读者由此理解 Will’s "poetic voice"—— his poem is "gritty and lush"， this is his "style"。
+- **中文理解**：他的诗题名为"对奥伯林学院地质学系的道歉"。这首诗既粗粝又丰饶。
+- **关键词**：An Apology to the Oberlin College Department of Geology（对奥伯林学院地质学系的道歉）／gritty and lush（粗粝而丰饶）
+- **为什么这样写**：用 "An Apology to the Oberlin College Department of Geology" 把 Will 诗的标题具象化，关于"深夜与女孩潜入学院办公室等待父亲"；"gritty and lush" 把 Will 的风格具象化，他的诗"粗粝而丰饶"；这是 Will 的"诗意声音"，与 Leigh 的"流行文化"诗形成对比。
+- **读者视角提示**：读者由此理解 Will 的"诗意声音"——他的诗"粗粝而丰饶"，这是他的"风格"。
 
-> **原句 4:** "I’m drowning deep blue easy / as Everest wonderland bodies"
+> **原句 4:** "I’m drowning deep blue easy … as Everest wonderland bodies"
 
-- **中文理解**："I’m drowning deep blue easy / as Everest wonderland bodies"（"I’m drowning deep blue easy / as Everest wonderland bodies"）
-- **关键词**：drowning deep blue easy（drowning deep blue easy）／Everest wonderland bodies（Everest wonderland bodies）
-- **为什么这样写**：用"Taylor Swift Sets the Record Straight"把 Leigh’s poem title具象化， it’s about Taylor Swift；"drowning deep blue easy"把 her "style"具象化， she uses "Swiftian" imagery； this is Leigh’s "pop culture" poem， contrasting with Will’s "geology" poem。
-- **读者视角提示**：读者能感到 Leigh’s "style"—— she writes "pop culture" poems， this is her "voice"。
+- **中文理解**：我在深蓝中轻盈地溺没，似珠峰仙境的躯体。
+- **关键词**：drowning deep blue easy（溺于深蓝的轻盈）／Everest wonderland bodies（珠峰仙境之躯）
+- **为什么这样写**：用 "Taylor Swift Sets the Record Straight" 把 Leigh 诗的标题具象化，关于 Taylor Swift；"drowning deep blue easy" 把她的"风格"具象化，她使用"斯威夫特式"意象；这是 Leigh 的"流行文化"诗，与 Will 的"地质"诗形成对比。
+- **读者视角提示**：读者能感到 Leigh 的"风格"——她写"流行文化"诗，这是她的"声音"。
 
 > **原句 5:** "'I guess I don’t know what’s going on, though. It feels like the speaker is hiding behind a mask of images that the audience is familiar with, but we don’t get to see the real Taylor.'"
 
-- **中文理解**："I guess I don’t know what’s going on, though."（"I guess I don’t know what’s going on, though."）"It feels like the speaker is hiding behind a mask of images that the audience is familiar with, but we don’t get to see the real Taylor."（"It feels like the speaker is hiding behind a mask of images that the audience is familiar with, but we don’t get to see the real Taylor."）
-- **关键词**：hiding behind a mask of images（hiding behind a mask of images）／we don’t get to see the real Taylor（we don’t get to see the real Taylor）
-- **为什么这样写**：用"hiding behind a mask of images"把 Jeananne’s critique具象化， she says Leigh’s speaker is "hiding"；"we don’t get to see the real Taylor"把 her "criticism"具象化， she wants to see "the real Taylor"； this is Leigh’s "workshop humiliation"， echoes high school "all style, no substance"。
-- **读者视角提示**：读者能感到 Leigh’s "humiliation"—— Jeananne’s "hiding behind a mask" echoes high school "all style, no substance"， this is her "third trauma"。
+- **中文理解**："我猜我也不太清楚是怎么回事。感觉说话人躲在观众熟悉的意象面具后面，我们却看不到真正的 Taylor。"
+- **关键词**：hiding behind a mask of images（躲在意象面具后面）／we don’t get to see the real Taylor（看不到真正的 Taylor）
+- **为什么这样写**：用 "hiding behind a mask of images" 把 Jeananne 的 critique 具象化，她说 Leigh 的说话人"躲在面具后面"；"we don’t get to see the real Taylor" 把她的"批评"具象化，她想看到"真正的 Taylor"；这是 Leigh 的"workshop 羞辱"，呼应高中"重形式、缺内容"。
+- **读者视角提示**：读者能感到 Leigh 的"羞辱"——Jeananne 的"躲在面具后面"呼应高中"重形式、缺内容"，这是她的"第三次创伤"。
 
 > **原句 6:** "Written there, in navy ink: Taylor can be whomever she wants to be. So who will she choose?"
 
-- **中文理解**：Written there, in navy ink（Written there, in navy ink）: Taylor can be whomever she wants to be. So who will she choose?（Taylor can be whomever she wants to be. So who will she choose?）
-- **关键词**：navy ink（navy ink）／Taylor can be whomever she wants to be（Taylor can be whomever she wants to be）／So who will she choose?（So who will she choose?）
-- **为什么这样写**：用"navy ink"把 Will’s "comment"具象化， he writes in "navy ink"；"Taylor can be whomever she wants to be. So who will she choose?"把 his "insight"具象化， he sees Leigh’s "mask" and asks "who will she choose"； this is Will’s "reading" of Leigh’s poem， suggesting he sees her potential。
-- **读者视角提示**：读者应记住 Will’s marginal note—— "Taylor can be whomever she wants to be. So who will she choose?" is his "insight" into Leigh’s poem， suggesting he sees her potential despite her "mask"。
+- **中文理解**：用海军蓝墨水写着：Taylor 可以成为她想成为的任何人。那么她会选谁呢？
+- **关键词**：navy ink（海军蓝墨水）／Taylor can be whomever she wants to be（Taylor 可以成为她想成为的任何人）／So who will she choose?（那么她会选谁？）
+- **为什么这样写**：用 "navy ink" 把 Will 的"批注"具象化，他用"海军蓝墨水"书写；"Taylor can be whomever she wants to be. So who will she choose?" 把他的"洞见"具象化，他看到 Leigh 的"面具"并追问"她会选择谁"；这是 Will 对 Leigh 诗的"解读"，暗示他看到她的潜力。
+- **读者视角提示**：读者应记住 Will 的批注——"Taylor can be whomever she wants to be. So who will she choose?" 是他对 Leigh 诗的"洞见"，暗示他看到她的潜力，尽管她的"面具"。
 
 > **原句 7:** "And Will? His writing is like being welcomed into a supernova. Bright and suffocating and dazing."
 
-- **中文理解**：And Will?（And Will?）His writing is like being welcomed into a supernova（His writing is like being welcomed into a supernova）。Bright and suffocating and dazing（Bright and suffocating and dazing）。
-- **关键词**：supernova（supernova）／Bright and suffocating and dazing（Bright and suffocating and dazing）
-- **为什么这样写**：用"supernova"把 Will’s writing具象化， it’s "bright and suffocating and dazing"； this is Leigh’s "reading" of Will’s work， she’s "dazed" by it； this is her "rivalry" mode—— she admires his talent despite her hostility。
-- **读者视角提示**：读者能感到 Leigh’s "admiration"—— she’s "dazed" by Will’s writing， this is her "rivalry" mode。
+- **中文理解**：而 Will 呢？他的写作就像被迎入一颗超新星——明亮、令人窒息、令人眩晕。
+- **关键词**：supernova（超新星）／Bright and suffocating and dazing（明亮、令人窒息、令人眩晕）
+- **为什么这样写**：用 "supernova" 把 Will 的写作具象化，它"明亮、令人窒息、令人眩晕"；这是 Leigh 对 Will 作品的"解读"，她被它"眩晕"；这是她的"竞争"模式——尽管怀有敌意，她仍钦佩他的才华。
+- **读者视角提示**：读者能感到 Leigh 的"钦佩"——她被 Will 的写作"眩晕"，这是她的"竞争"模式。
 
 > **原句 8:** "'Eh. Not everyone. Maybe a few.'"
 
-- **中文理解**："Eh. Not everyone. Maybe a few."（"Eh. Not everyone. Maybe a few."）
-- **关键词**：Not everyone（Not everyone）／Maybe a few（Maybe a few）
-- **为什么这样写**：用"Not everyone. Maybe a few."把 Will’s "selectivity"具象化， he’s "selective" about who he wants to spend time with；"Maybe a few"把 his "ambiguity"具象化， he doesn’t say who； this is Will’s "aloofness"， contrasting with Leigh’s "people-pleasing"。
-- **读者视角提示**：读者应记住 Will’s "Not everyone. Maybe a few."—— this is his "aloofness"， he’s "selective" about intimacy， this is his "defense mechanism"。
+- **中文理解**："呃，不是所有人。也许只有少数几个。"
+- **关键词**：Not everyone（不是所有人）／Maybe a few（也许只有少数几个）
+- **为什么这样写**：用 "Not everyone. Maybe a few." 把 Will 的"选择性"具象化，他对与谁共度时光"挑剔"；"Maybe a few" 把他的"模糊"具象化，他不说是谁；这是 Will 的"冷淡"，与 Leigh 的"取悦他人"形成对比。
+- **读者视角提示**：读者应记住 Will 的"Not everyone. Maybe a few."——这是他的"冷淡"，他对亲密关系"挑剔"，这是他的"防御机制"。
 
 ## 本章词汇
 
@@ -100,4 +100,4 @@ modified: "2026-10-18"
 
 ## 一句话总结
 
-Leigh 收到 workshop packet，发现 Will 的诗"An Apology to the Oberlin College Department of Geology"（"gritty and lush"）；workshop 中 Leigh 的"Taylor Swift Sets the Record Straight"被 Jeananne 批评为"speaker hiding behind a mask of images"， echoes 高中的"all style, no substance"；Will 在 poem 上写"Taylor can be whomever she wants to be. So who will she choose?"——这是 his "insight" into Leigh’s poem， suggesting he sees her potential；cohort 被 Christine 邀请去山间别墅周末，Will 的"Not everyone. Maybe a few."暴露 his "aloofness"；Leigh 的"supernova" metaphor 把 Will’s writing具象化为"bright and suffocating and dazing"， her "rivalry" mode 与 "admiration" 并存。
+Leigh 收到 workshop packet，发现 Will 的诗"An Apology to the Oberlin College Department of Geology"（"gritty and lush"）；workshop 中 Leigh 的"Taylor Swift Sets the Record Straight"被 Jeananne 批评为speaker hiding behind a mask of images， echoes 高中的"all style, no substance"；Will 在 poem 上写"Taylor can be whomever she wants to be. So who will she choose?"——这是 his "insight" into Leigh’s poem， suggesting he sees her potential；cohort 被 Christine 邀请去山间别墅周末，Will 的"Not everyone. Maybe a few."暴露 his "aloofness"；Leigh 的"supernova" metaphor 把 Will’s writing具象化为"bright and suffocating and dazing"， her "rivalry" mode 与 "admiration" 并存。

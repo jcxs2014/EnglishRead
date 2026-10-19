@@ -17,74 +17,73 @@ modified: "2026-10-18"
 
 > **原句 1:** "THERE ARE THREE THINGS I need to accomplish in order to get this damn fellowship and thus become a real, actual writer."
 
-- **中文理解**：THERE ARE THREE THINGS I need to accomplish（THERE ARE THREE THINGS I need to accomplish）in order to get this damn fellowship（in order to get this damn fellowship）and thus become a real, actual writer（and thus become a real, actual writer）。
-- **关键词**：three things（three things）／damn fellowship（damn fellowship）／real, actual writer（real, actual writer）
-- **为什么这样写**：用"three things"把 Leigh’s "plan"具象化， she has a three-step plan for fellowship；"damn fellowship"把 her "desperation"具象化， she calls it "damn"， suggesting urgency；"real, actual writer"把 her "identity"具象化， she wants to become a "real, actual writer"， not just a "hobby poet"。
-- **读者视角提示**：读者由此理解 Leigh’s "fellowship ambition"—— she has a three-step plan， this is her "strategic" mode。
+- **中文理解**：我为了拿到这该死的 fellowship、从而成为一个真正、实际的作家，需要完成三件事。
+- **关键词**：three things（三件事）／damn fellowship（该死的 fellowship）／real, actual writer（真正、实际的作家）
+- **为什么这样写**：以"三件事"把 Leigh 的 fellowship 计划具体化，她有明确的三步计划；"damn"把她的急切与执念具象化，她称它为"damn"，暗示紧迫与渴望；"real, actual writer"把她对身份的渴望具象化，她想成为"真正、实际的作家"，而非只是业余诗人。
+- **读者视角提示**：读者由此理解 Leigh 的 fellowship ambition——她有明确的三步计划，这是她的"战略"模式。
 
 > **原句 2:** "But it’s easy to forget that the MFA is not strictly poetry classes until you have a ten-page nonfiction assignment due in mere days."
 
-- **中文理解**：But it’s easy to forget that the MFA is not strictly poetry classes（But it’s easy to forget that the MFA is not strictly poetry classes）until you have a ten-page nonfiction assignment due in mere days（until you have a ten-page nonfiction assignment due in mere days）。
-- **关键词**：not strictly poetry classes（not strictly poetry classes）／ten-page nonfiction assignment（ten-page nonfiction assignment）／mere days（mere days）
-- **为什么这样写**：用"not strictly poetry classes"把 Leigh’s "surprise"具象化， she forgot MFA includes nonfiction；"ten-page nonfiction assignment"把 her "burden"具象化， she has to write a ten-page essay；"mere days"把 her "urgency"具象化， it’s due soon。
-- **读者视角提示**：读者能感到 Leigh’s "overwhelm"—— she has to write nonfiction， not just poetry， this is her "reality check"。
+- **中文理解**：但 MFA 并非严格意义上的诗歌课，这一点直到你有篇十页的非虚构作业几天内就要交，才容易被忘掉。
+- **关键词**：not strictly poetry classes（并非严格意义上的诗歌课）／ten-page nonfiction assignment（十页的非虚构作业）／mere days（几天内）
+- **为什么这样写**："not strictly poetry classes"把 Leigh 的"surprise"具象化，她忘了 MFA 包含非虚构写作；"ten-page nonfiction assignment"把她的"burden"具象化，她得写一篇十页的 essay；"mere days"把她的"urgency"具象化，作业很快就要交。
+- **读者视角提示**：读者能感到 Leigh 的"overwhelm"——她得写非虚构，而不只是诗歌，这是她的"reality check"。
 
 > **原句 3:** "I was born eight pounds, eight ounces, and eighteen inches long—which is to say, both too much and not enough."
 
-- **中文理解**：I was born eight pounds, eight ounces, and eighteen inches long（I was born eight pounds, eight ounces, and eighteen inches long）—which is to say（—which is to say），both too much and not enough（both too much and not enough）。
-- **关键词**：eight pounds, eight ounces, eighteen inches（eight pounds, eight ounces, eighteen inches）／both too much and not enough（both too much and not enough）
-- **为什么这样写**：用"eight pounds, eight ounces, eighteen inches"把 Will’s "birth stats"具象化， they’re specific numbers；"both too much and not enough"把 his "ambiguity"具象化， he’s "too much" and "not enough" at the same time； this is Will’s "birth story" opening， contrasting with Leigh’s "midwife POV" approach。
-- **读者视角提示**：读者应记住"both too much and not enough"—— this is Will’s "self-characterization"， he sees himself as "too much" and "not enough" simultaneously。
+- **中文理解**：我出生时八磅八盎司，身长十八英寸——也就是说，既太多又不够。
+- **关键词**：eight pounds, eight ounces, eighteen inches（八磅八盎司、十八英寸）／both too much and not enough（既太多又不够）
+- **为什么这样写**："eight pounds, eight ounces, eighteen inches"把 Will 的出生数据具象化，是具体数字；"both too much and not enough"把他的"ambiguity"具象化，他同时是"太多"与"不够"；这是 Will 的"birth story"开场，与 Leigh 的"midwife POV"写法形成对比。
+- **读者视角提示**：读者应记住"both too much and not enough"——这是 Will 的自我定性，他把自身视为同时"太多"与"不够"。
 
 > **原句 4:** "Kristen Hummel and William Langford met at Oberlin College, where William was a tenured professor in the English department and Kristen was a new hire to the admissions department."
 
-- **中文理解**：Kristen Hummel and William Langford met at Oberlin College（Kristen Hummel and William Langford met at Oberlin College），where William was a tenured professor in the English department（where William was a tenured professor in the English department）and Kristen was a new hire to the admissions department（and Kristen was a new hire to the admissions department）。
-- **关键词**：Oberlin College（Oberlin College）／tenured professor（tenured professor）／admissions department（admissions department）
-- **为什么这样写**：用"Oberlin College"把 Will’s parents’ "meeting place"具象化， they met at a liberal arts college；"tenured professor"把 Will’s dad’s "status"具象化， he’s a "tenured professor"；"admissions department"把 Will’s mom’s "role"具象化， she’s in "admissions"； this is Will’s "family backstory"， contrasting with Leigh’s "birth story" approach。
-- **读者视角提示**：读者由此理解 Will’s "family background"—— his dad is a "tenured professor"， his mom is in "admissions"， this is a "literary family"。
+- **中文理解**：Kristen Hummel 与 William Langford 在 Oberlin College 相识，William 是英语系的终身教授，Kristen 是招生部的新聘员工。
+- **关键词**：Oberlin College（Oberlin College）／tenured professor（终身教授）／admissions department（招生部）
+- **为什么这样写**："Oberlin College"把 Will 父母的"相识地"具象化，他们在一所文理学院相识；"tenured professor"把 Will 父亲的"地位"具象化，他是"终身教授"；"admissions department"把 Will 母亲的"角色"具象化，她在"招生部"；这是 Will 的"家庭背景"，与 Leigh 的"出生故事"写法形成对比。
+- **读者视角提示**：读者由此理解 Will 的"家庭背景"——他父亲是"终身教授"，母亲在"招生部"，这是一个"文学家庭"。
 
 > **原句 5:** "'You’re applying?' Of fucking course."
 
-- **中文理解**："You’re applying?"（"You’re applying?"）Of fucking course（Of fucking course）。
-- **关键词**：You’re applying?（You’re applying?）／Of fucking course（Of fucking course）
-- **为什么这样写**：用"You’re applying?"把 Leigh’s "surprise"具象化， she’s surprised Will is applying；"Of fucking course"把 her "frustration"具象化， she’s frustrated that Will is competing； this is Leigh’s "rivalry" mode。
-- **读者视角提示**：读者能感到 Leigh’s "rivalry"—— she’s surprised and frustrated that Will is applying， this is her "competitive" mode。
+- **中文理解**："你也在申请？" 当然，他妈的。
+- **关键词**：You’re applying?（你也在申请？）／Of fucking course（当然，他妈的）
+- **为什么这样写**："You’re applying?"把 Leigh 的"surprise"具象化，她惊讶 Will 也在申请；"Of fucking course"把她的"frustration"具象化，她因 Will 参与竞争而沮丧；这是 Leigh 的"rivalry"模式。
+- **读者视角提示**：读者能感到 Leigh 的"rivalry"——她因 Will 申请而惊讶与沮丧，这是她的"competitive"模式。
 
 > **原句 6:** "'You’ll think she’s all style, no substance, I’m sure.'"
 
-- **中文理解**："You’ll think she’s all style, no substance, I’m sure."（"You’ll think she’s all style, no substance, I’m sure."）
-- **关键词**：all style, no substance（all style, no substance）／I’m sure（I’m sure）
-- **为什么这样写**：用"all style, no substance"把 Leigh’s "provocation"具象化， she uses Will’s own words against him；"I’m sure"把 her "certainty"具象化， she’s "sure" he’ll think Erica is "all style, no substance"； this is Leigh’s "weaponization" of Will’s own words。
-- **读者视角提示**：读者应记住"all style, no substance"—— this is the "echo" of high school， Leigh weaponizes Will’s own words against him。
+- **中文理解**："你一定会觉得她是只有形式、没有内容的，我敢肯定。"
+- **关键词**：all style, no substance（只有形式、没有内容）／I’m sure（我敢肯定）
+- **为什么这样写**："all style, no substance"把 Leigh 的"provocation"具象化，她用 Will 自己的话反将他一军；"I’m sure"把她的"certainty"具象化，她"确信"Will 会认为 Erica 是"只有形式、没有内容"；这是 Leigh 对 Will 原话的"武器化"。
+- **读者视角提示**：读者应记住"all style, no substance"——这是高中的"echo"，Leigh 用 Will 的原话反将他一军。
 
-> **原句 7:** "'Leigh.' / It’s a scold. It’s a Why aren’t you over that? Why can’t you be fun? That’s how I hear it, at least."
+> **原句 7:** "'Leigh.' … It’s a scold. It’s a Why aren’t you over that? Why can’t you be fun? That’s how I hear it, at least."
 
-- **中文理解**："Leigh."（"Leigh."）／It’s a scold（It’s a scold）。It’s a Why aren’t you over that? Why can’t you be fun? That’s how I hear it, at least（It’s a Why aren’t you over that? Why can’t you be fun? That’s how I hear it, at least）。
-- **关键词**：scold（scold）／Why aren’t you over that?（Why aren’t you over that?）／Why can’t you be fun?（Why can’t you be fun?）
-- **为什么这样写**：用"scold"把 Will’s "tone"具象化， he says "Leigh" like a scold；"Why aren’t you over that? Why can’t you be fun?"把 Leigh’s "interpretation"具象化， she hears Will’s "Leigh" as "Why aren’t you over that? Why can’t you be fun?"； this is Leigh’s "interpretation" of Will’s tone。
-- **读者视角提示**：读者能感到 Leigh’s "interpretation"—— she hears Will’s "Leigh" as "Why aren’t you over that?"， this is her "projection" of her own insecurity。
+- **中文理解**："Leigh。"／这是在责备。这是"你怎么还没放下？你怎么不能有趣点？"——至少我是这么听的。
+- **关键词**：scold（责备）／Why aren’t you over that?（你怎么还没放下？）／Why can’t you be fun?（你怎么不能有趣点？）
+- **为什么这样写**："scold"把 Will 的"语气"具象化，他喊"Leigh"像在责备；"Why aren’t you over that? Why can’t you be fun?"把 Leigh 的"interpretation"具象化，她把 Will 的"Leigh"听成"你怎么还没放下？你怎么不能有趣点？"；这是 Leigh 对 Will 语气的"interpretation"。
+- **读者视角提示**：读者能感到 Leigh 的"interpretation"——她把 Will 的"Leigh"听成"你怎么还没放下？"，这是她自身不安全感的"projection"。
 
 > **原句 8:** "'He, uh, passed last year.'"
 
-- **中文理解**："He, uh, passed last year."（"He, uh, passed last year."）
-- **关键词**：passed last year（passed last year）
-- **为什么这样写**：用"passed last year"把 Will’s dad’s "death"具象化， he died last year；"uh" 的迟疑暴露 Will 的 discomfort。
-- **读者视角提示**：读者应记住 Will’s "uh"—— his discomfort betrays his grief.
+- **中文理解**："他，呃，去年去世了。"
+- **关键词**：passed last year（去年去世）／uh（呃）
+- **为什么这样写**："passed last year"把 Will 父亲的"死亡"具象化，他去年去世了；"uh"的迟疑暴露 Will 的不适。
+- **读者视角提示**：读者应记住 Will 的"uh"——他的不适 betray 他的 grief。
 
 > **原句 9:** "'How neutral his face was when he said it. How his body told a different answer.'"
 
-- **中文理解**："How neutral his face was when he said it. How his body told a different answer."（"How neutral his face was when he said it. How his body told a different answer."）
-- **关键词**：neutral his face（neutral his face）／body told a different answer（body told a different answer）
-- **为什么这样写**："neutral his face"把 Will’s "mask"具象化， he’s "neutral" when he says it；"body told a different answer"把 Will’s "grief"具象化， his body betrays his grief； this is Will’s "grief" revealed。
-- **读者视角提示**：读者应记住"body told a different answer"—— this is Will’s "grief"具象化， his body betrays his "neutral" face； this is the chapter’s emotional peak。
-
+- **中文理解**："他说这话时，他的表情有多平静。他的身体却给出了不同的答案。"
+- **关键词**：neutral his face（表情平静）／body told a different answer（身体给出了不同的答案）
+- **为什么这样写**："neutral his face"把 Will 的"mask"具象化，他说这话时"表情平静"；"body told a different answer"把 Will 的"grief"具象化，他的身体 betray 他的 grief；这是 Will 的"grief" revealed。
+- **读者视角提示**：读者应记住"body told a different answer"——这是 Will 的"grief"具象化，他的身体 betray 他的"neutral"表情；这是本章的情感高峰。
 
 > **原句 10:** "'Leigh, this was a creative setup, but not quite the assignment. In nonfiction, it’s essential to use the craft of fiction to create a real story. But I think this crosses the line into actual fiction, not nonfiction.'"
 
-- **中文理解**："Leigh, this was a creative setup, but not quite the assignment."（"Leigh, this was a creative setup, but not quite the assignment."）"In nonfiction, it’s essential to use the craft of fiction to create a real story."（"In nonfiction, it’s essential to use the craft of fiction to create a real story."）"But I think this crosses the line into actual fiction, not nonfiction."（"But I think this crosses the line into actual fiction, not nonfiction."）
-- **关键词**：creative setup（creative setup）／crosses the line into actual fiction（crosses the line into actual fiction）
-- **为什么这样写**：用"creative setup"把 Jen’s "feedback"具象化， she calls Leigh’s midwife POV "creative setup"；"crosses the line into actual fiction"把 Jen’s "criticism"具象化， she says Leigh’s essay "crosses the line into actual fiction"； this is Leigh’s "workshop humiliation"， echoes high school "all style, no substance"。
-- **读者视角提示**：读者能感到 Leigh’s "humiliation"—— Jen’s "crosses the line into actual fiction" echoes high school "all style, no substance"， this is her "second trauma"。
+- **中文理解**："Leigh，这是个有创意的设定，但不算完全切题。非虚构写作中，必须用小说的技艺来创造真实的故事。但我认为这越界了，成了真正的虚构，而非非虚构。"
+- **关键词**：creative setup（有创意的设定）／crosses the line into actual fiction（越界成了真正的虚构）
+- **为什么这样写**："creative setup"把 Jen 的"feedback"具象化，她称 Leigh 的 midwife POV 为"有创意的设定"；"crosses the line into actual fiction"把 Jen 的"criticism"具象化，她说 Leigh 的 essay "越界成了真正的虚构"；这是 Leigh 的"workshop humiliation"，echoes 高中的"all style, no substance"。
+- **读者视角提示**：读者能感到 Leigh 的"humiliation"——Jen 的"crosses the line into actual fiction" echoes 高中的"all style, no substance"，这是她的"second trauma"。
 
 ## 本章词汇
 

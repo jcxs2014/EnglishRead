@@ -17,59 +17,59 @@ modified: "2026-10-18"
 
 > **原句 1:** "This has never been my strong suit. In college English courses, I tended to take a back seat, preferring to let other people talk while I learned from them."
 
-- **中文理解**：这 never been my strong suit（ never been my strong suit）。In college English courses（In college English courses），I tended to take a back seat（I tended to take a back seat），preferring to let other people talk while I learned from them（preferring to let other people talk while I learned from them）。
-- **关键词**：strong suit（strong suit）／take a back seat（take a back seat）／learned from them（learned from them）
-- **为什么这样写**：用"strong suit"把 Leigh 的" imposter syndrome"具象化， she’s not good at "talking about famous published people"；"take a back seat"把 her "passivity"具象化， she prefers to let others talk；这种" passivity"是她的" people-pleasing"模式的变体。
-- **读者视角提示**：读者由此理解 Leigh 的" imposter syndrome"—— she feels "not smart enough" to be in MFA，这种" not smart enough"是 her core wound。
+- **中文理解**：这从来不是我的强项。在大学英语课上，我往往退居二线，宁可让别人发言，而我从他们那里学习。
+- **关键词**：strong suit（强项）／take a back seat（退居二线、不主动）／learned from them（向他们学习）
+- **为什么这样写**：用"strong suit"把 Leigh 的"不擅长在众人面前讨论名作家作品"具象化，她是那种"不会主动发言"的人。"take a back seat"则把她"被动旁观"的姿态写出来，她习惯让别人先说。这种"旁观式"姿态，正是她"取悦型人格"的变体——为了不暴露无知而选择沉默。
+- **读者视角提示**：读者由此理解 Leigh 的"冒名顶替综合征"——她觉得自己"不够聪明"，配不上 MFA 项目，这种"不配感"是她内心的核心创伤。
 
 > **原句 2:** "I find the words difficult to play with, to interpret. It’s the same issue I had in client meetings. Unless I’m 1,000 percent sure what I’m about to say is brilliant, I can’t risk saying it at all."
 
-- **中文理解**：I find the words difficult to play with, to interpret（I find the words difficult to play with, to interpret）。It’s the same issue I had in client meetings（It’s the same issue I had in client meetings）。Unless I’m 1,000 percent sure what I’m about to say is brilliant, I can’t risk saying it at all（Unless I’m 1,000 percent sure what I’m about to say is brilliant, I can’t risk saying it at all）。
-- **关键词**：difficult to play with（difficult to play with）／client meetings（client meetings）／1,000 percent sure（1,000 percent sure）
-- **为什么这样写**：用"difficult to play with"把 Leigh’s "insecurity"具象化， she can’t "play with" words like others；"same issue I had in client meetings"把 her "imposter syndrome"具象化为" cross-context"， she has the same issue in both ad agency and MFA；"1,000 percent sure"把 her " perfectionism"具象化， she needs to be "1,000 percent sure" before speaking。
-- **读者视角提示**：读者能感到 Leigh 的" perfectionism"—— she needs to be "1,000 percent sure" before speaking，这种" perfectionism"是 her "people-pleasing"模式的变体。
+- **中文理解**：我觉得这些文字很难玩味、难以解读。这和我在客户会议里遇到的问题如出一辙。除非我百分之千确定自己要说的话足够精彩，否则我根本不敢冒险开口。
+- **关键词**：difficult to play with（难以玩味）／client meetings（客户会议）／1000 percent sure（百分之千确定）
+- **为什么这样写**：用"difficult to play with"把 Leigh 对文本的"不自在"具象化，她不像别人那样能自如地"玩文字"。"same issue I had in client meetings"把她的"冒名顶替综合征"扩展到跨语境，说明广告公司和 MFA 里她面临的是同一种困境。"1,000 percent sure"则把她"完美主义"写得十分具体，她要求自己在开口前必须"绝对有把握"。
+- **读者视角提示**：读者能感到 Leigh 的"完美主义"——她要求自己"百分之千确定"才敢发言，这种"完美主义"是她"取悦型人格"的变体。
 
 > **原句 3:** "'I’m ignoring him. He’s ignoring me. Just two strangers who happened to go to the same high school.'"
 
-- **中文理解**："I’m ignoring him. He’s ignoring me. Just two strangers who happened to go to the same high school."（"I’m ignoring him. He’s ignoring me. Just two strangers who happened to go to the same high school."）
-- **关键词**：ignoring him（ignoring him）／ignoring me（ignoring me）／two strangers（two strangers）
-- **为什么这样写**：用"ignoring him"把 Leigh’s "strategy"具象化， she’s "ignoring" Will；"two strangers"把 her "denial"具象化， she frames them as "strangers" despite their history；这种" denial"是 her "coping mechanism"。
-- **读者视角提示**：读者能感到 Leigh’s "denial"—— she calls them "strangers" yet she looked at his Instagram，这种" denial" is performative.
+- **中文理解**："我在无视他，他在无视我。不过是两个碰巧上过同一所高中的陌生人罢了。"
+- **关键词**：ignoring him（无视他）／ignoring me（无视我）／two strangers（两个陌生人）
+- **为什么这样写**：用"ignoring him"把 Leigh 的"策略"具象化，她用"无视"来回避 Will。"two strangers"则把她"否认"具象化，尽管两人有共同的高中历史，她却把他们描述成"陌生人"。这种"否认"是她应对尴尬过往的"防御机制"。
+- **读者视角提示**：读者能感到 Leigh 的"否认"——她口口声声说他们是"陌生人"，却在 Instagram 上关注过 Will，这种"否认"是表演性的。
 
 > **原句 4:** "'To what, sweet Leigh, to what?'"
 
-- **中文理解**："To what, sweet Leigh, to what?"（"To what, sweet Leigh, to what?"）
-- **关键词**：to what（to what）／sweet Leigh（sweet Leigh）
-- **为什么这样写**：用"to what"把 Gen’s "challenge"具象化， she challenges Leigh’s "I’m here to write, not to..."；"sweet Leigh"把 Gen’s "affection"具象化， she calls Leigh "sweet"， suggesting intimacy；这种" challenge" is Gen’s role as Leigh’s " truth-teller"。
-- **读者视角提示**：读者应记住 Gen’s "to what"—— she challenges Leigh’s "denial"， this is Gen’s role as Leigh’s " truth-teller"。
+- **中文理解**："为了什么，亲爱的 Leigh，为了什么？"
+- **关键词**：to what（为了什么）／sweet Leigh（亲爱的 Leigh）
+- **为什么这样写**：用"to what"把 Gen 的"追问"具象化，她挑战 Leigh "我来这里是为了写作，不是为了……"的未尽之言。"sweet Leigh"则把 Gen 的"亲昵"具象化，她用"亲爱的"称呼 Leigh，暗示两人的亲密关系。这种"追问"是 Gen 作为 Leigh "真相讲述者"的角色体现。
+- **读者视角提示**：读者应记住 Gen 的"为了什么"——她挑战 Leigh 的"否认"，这是 Gen 作为 Leigh "真相讲述者"的角色体现。
 
 > **原句 5:** "'Erica Go for poetry.'"
 
-- **中文理解**："'Erica Go for poetry.'（'Erica Go for poetry.'）"
+- **中文理解**："诗歌类的访问教授是 Erica Go。"
 - **关键词**：Erica Go（Erica Go）
-- **为什么这样写**：用"Erica Go"把 visiting professor 具象化， she’s the poet who "made me feel like poetry was even something I was interested in"；这种" disbelief" is her "imposter syndrome"的变体。
-- **读者视角提示**：读者应记住 Erica Go—— she’s Leigh’s "poetry origin story"， her presence as visiting professor makes fellowship a "need" not a "want"。
+- **为什么这样写**：用"Erica Go"把访问教授具象化，她正是"让我觉得诗歌也值得我感兴趣的那位诗人"。这种"难以置信"是 Leigh "冒名顶替综合征"的变体——她不敢相信自己喜欢的诗人竟然成了 MFA 的访问教授。
+- **读者视角提示**：读者应记住 Erica Go——她是 Leigh "诗歌起源故事"的关键人物，她的出现把 fellowship 从"想要"升级为"需要"。
 
 > **原句 6:** "'Are you kidding?'"
 
-- **中文理解**："'Are you kidding?'（'Are you kidding?'）"
-- **关键词**：Are you kidding?（Are you kidding?）
-- **为什么这样写**：用"Are you kidding?"把 Leigh’s "disbelief"具象化， she can’t believe it；这种" disbelief" is her "imposter syndrome"的变体。
-- **读者视角提示**：读者应记住 Erica Go—— she’s Leigh’s "poetry origin story"， her presence as visiting professor makes fellowship a "need" not a "want"。
+- **中文理解**："你开玩笑吧？"
+- **关键词**：Are you kidding?（你开玩笑吧？）
+- **为什么这样写**：用"Are you kidding?"把 Leigh 的"难以置信"具象化，她无法相信这一消息。这种"难以置信"是 Leigh "冒名顶替综合征"的变体——她不敢相信自己喜欢的诗人竟然成了 MFA 的访问教授。
+- **读者视角提示**：读者应记住 Erica Go——她是 Leigh "诗歌起源故事"的关键人物，她的出现把 fellowship 从"想要"升级为"需要"。
 
 > **原句 7:** "I feel almost entitled to this."
 
-- **中文理解**：I feel almost entitled to this（I feel almost entitled to this）。
-- **关键词**：entitled（entitled）／almost（almost）
-- **为什么这样写**：用"entitled"把 Leigh’s "desire"具象化， she feels "entitled" to fellowship because Erica Go is "the poet who made me feel like poetry was even something I was interested in"；"almost"把 her "hesitation"具象化， she’s "almost" entitled， not fully；这种" almost" is her "imposter syndrome"的具象化。
-- **读者视角提示**：读者能感到 Leigh’s "entitlement"—— she feels "entitled" to fellowship， this is her "desire"的具象化。
+- **中文理解**：我几乎觉得这是理所当然的。
+- **关键词**：entitled（理所当然的、应得的）／almost（几乎、差不多）
+- **为什么这样写**：用"entitled"把 Leigh 的"渴望"具象化，她觉得 fellowship 是"应得的"，因为 Erica Go 是"让我觉得诗歌也值得我感兴趣的那位诗人"。"almost"则把她"犹豫"具象化，她"几乎"觉得应得，但并不完全——这种"几乎"是她"冒名顶替综合征"的具象化。
+- **读者视角提示**：读者能感到 Leigh 的"应得感"——她觉得 fellowship 是"应得的"，这是她"渴望"的具象化。
 
 > **原句 8:** "I’m getting that fellowship," I say, and it’s the most confident I’ve felt all week."
 
-- **中文理解**："I’m getting that fellowship," I say（"I’m getting that fellowship," I say），and it’s the most confident I’ve felt all week（and it’s the most confident I’ve felt all week）。
-- **关键词**：I’m getting that fellowship（I’m getting that fellowship）／most confident（most confident）
-- **为什么这样写**：用"I’m getting that fellowship"把 Leigh’s "determination"具象化， she’s "getting" it， not just "wanting" it；"most confident I’ve felt all week"把 her "confidence"具象化， this is her "peak confidence" moment；这种" confidence" is her "fellowship ambition"的具象化。
-- **读者视角提示**：读者应记住"I’m getting that fellowship"—— this is Leigh’s "turning point"， she goes from "imposter syndrome" to "determination"。
+- **中文理解**："我要拿下那个 fellowship，"我说，这是一周以来我最自信的时刻。
+- **关键词**：I’m getting that fellowship（我要拿下那个 fellowship）／most confident（最自信）
+- **为什么这样写**：用"I’m getting that fellowship"把 Leigh 的"决心"具象化，她"要拿下"它，而不仅仅是"想要"它。"most confident I’ve felt all week"则把她"自信"具象化，这是她"自信峰值"的时刻。这种"自信"是她"fellowship ambition"的具象化。
+- **读者视角提示**：读者应记住"I’m getting that fellowship"——这是 Leigh 的"转折点"，她从"冒名顶替综合征"转向"决心"。
 
 ## 本章词汇
 

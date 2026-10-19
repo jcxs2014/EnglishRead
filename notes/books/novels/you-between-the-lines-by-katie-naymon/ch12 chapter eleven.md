@@ -17,24 +17,24 @@ modified: "2026-10-18"
 
 > **原句 1:** "'A mood board. Ouch. I’ve heard that before. All style, no substance.'"
 
-- **中文理解**："A mood board."（"A mood board."）Ouch（Ouch）。I’ve heard that before（I’ve heard that before）。All style, no substance（All style, no substance）。
-- **关键词**：mood board（mood board）／All style, no substance（All style, no substance）
-- **为什么这样写**：用"mood board"把 Hazel’s critique具象化， she calls Leigh’s poem a "mood board"；"All style, no substance"把 Leigh’s "trauma"具象化， she’s heard this before（high school）； this is Leigh’s "third trauma"， echoes high school "all style, no substance"。
-- **读者视角提示**：读者应记住"All style, no substance"—— this is the "echo" of high school， Leigh’s "third trauma"。
+- **中文理解**：「心情板。哎哟。我以前听过这话。全是风格，没有实质。」
+- **关键词**：mood board（心情板）／All style, no substance（全形式无内容）／Ouch（哎哟，表刺痛）
+- **为什么这样写**：Hazel 用 "mood board" 把 Leigh 的诗贬为只有画面堆砌而无思想；Leigh 的内心反应 "Ouch" 与 "I've heard that before" 显示这评语击中了她高中时"全形式无内容"的旧伤。作者借外部批评把 Leigh 的不安全感具象化，也让读者看到她对"被看轻"的敏感。这种回声式羞辱为后续 Will 的辩护与 Leigh 的反击埋下张力。
+- **读者视角提示**：读者应记住 "All style, no substance" 这一回声——它把高中阴影带入当下，是 Leigh 核心不安全感的来源之一。
 
 > **原句 2:** "'I disagree with the sense that this is merely a mood board. I think the conceit here is that the speaker enjoys the performance. She’s actively participating, consenting—at least she thinks she’s consenting.'"
 
-- **中文理解**："I disagree with the sense that this is merely a mood board."（"I disagree with the sense that this is merely a mood board."）"I think the conceit here is that the speaker enjoys the performance."（"I think the conceit here is that the speaker enjoys the performance."）"She’s actively participating, consenting—at least she thinks she’s consenting."（"She’s actively participating, consenting—at least she thinks she’s consenting."）
-- **关键词**：disagree with the sense（disagree with the sense）／conceit（conceit）／actively participating, consenting（actively participating, consenting）
-- **为什么这样写**：用"disagree with the sense"把 Will’s "defense"具象化， he "disagrees" with Hazel’s critique；"conceit"把 his "insight"具象化， he sees the "conceit" of Leigh’s poem；"actively participating, consenting"把 his "interpretation"具象化， he sees the speaker as "actively participating, consenting"； this is Will’s "defense" of Leigh’s poem。
-- **读者视角提示**：读者能感到 Will’s "defense"—— he defends Leigh’s poem， this is his "attempt" at connection。
+- **中文理解**：「我不认为这只是心情板。我觉得这里的构思是说话人享受这种表演。她主动参与、同意——至少她以为自己在同意。」
+- **关键词**：disagree with the sense（不同意这种解读）／conceit（构思/立意）／actively participating, consenting（主动参与、同意）
+- **为什么这样写**：Will 不直接反驳 Hazel，而是换一个 interpretive frame，把 "mood board" 重新读成说话人主动参与表演。这既展示他的细读能力，也借诗作替 Leigh 辩护，暗示他对她作品与人物的在意。"at least she thinks she's consenting" 的让步更添复杂性，避免把诗简单化。
+- **读者视角提示**：读者能感到 Will 的辩护——他为 Leigh 的诗说话，也是他试图与她建立连接的一步。
 
 > **原句 3:** "'Tufts is in Medford,' I write above the line. 'Not Cambridge.'"
 
-- **中文理解**："Tufts is in Medford," I write above the line. "Not Cambridge."（"Tufts is in Medford," I write above the line. "Not Cambridge."）
-- **关键词**：Tufts is in Medford（Tufts is in Medford）／Not Cambridge（Not Cambridge）
-- **为什么这样写**：用"Tufts is in Medford"把 Leigh’s "correction"具象化， she corrects Will’s "Cambridge" to "Medford"；"Not Cambridge"把 her "precision"具象化， she’s "precise" about details； this is Leigh’s "attention" to Will’s poem， she notices his "error"。
-- **读者视角提示**：读者能感到 Leigh’s "attention"—— she notices Will’s "error"， this is her "care" for his work。
+- **中文理解**：「「塔夫茨大学在梅德福，」我在那行上面写道。「不在剑桥。」」
+- **关键词**：Tufts is in Medford（塔夫茨在梅德福）／Not Cambridge（不是剑桥）
+- **为什么这样写**：Leigh 在 Will 的诗页上悄悄纠正 "Cambridge" 为 "Medford"，以细节校对显示她认真读过他的作品。这个小动作暴露她对 Will 的关注与在意，与她嘴上"不关心"形成反差。作者用一个事实性批注替代情感告白，含蓄而有力。
+- **读者视角提示**：读者能感到 Leigh 的关注——她注意到 Will 的错误，这是她对他作品的在意与温柔。
 
 ## 本章词汇
 
