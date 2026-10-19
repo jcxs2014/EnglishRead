@@ -38,6 +38,12 @@
 **为什么这样写**：现在线第 1 轮。“I could still” 把「还来得及」说得很有底气：补救被当成一种还开着的门。可作者不立刻反驳她，而是让这份乐观在接下来的细节里慢慢泡软——她看见狗的呕吐物、看见 Dan 买下的花、看见他安静得反常（他会不会发现我今天忘了？又一次？）。她以为自己在往前赶，其实只是在原地打转。
 **读者视角提示**：I could still =「还来得及、仍然能」；a repeat of last year =「去年的重演」——去年她已经忘过一次（ch02 里 Dan 说「你又忘了」），所以「去年」不是修辞，是账。
 
+> **原句 5:** “I've been shit. And today, I'm so sorry. I feel bad. I know last year . . .” I didn't finish the sentence, wishing I could erase his hurt expression.
+**中文理解**：Emma 直白地自评「糟透了」，接着郑重道歉，说到「我知道去年……」便说不下去；她想抹掉 Dan 脸上受伤的神情。
+**关键词**：I've been shit / I'm so sorry / wishing I could erase
+**为什么这样写**：现在线第 1 轮。「I've been shit」是英式粗口的直白自评，比任何委婉说法都更有冲击力；「I'm so sorry」是真诚却不完整的道歉——话说到「I know last year . . .」便戛然而止；「wishing I could erase his hurt expression」点出 Emma 的控制欲：她想**消除**丈夫的受伤，而不只是承认它。这是她全书的行为模式——想「修好」情绪本身，而不是承受它。Dan 随后那句「It doesn't matter. You've been . . . busy.」既宽容又无奈：他已经学会接受她的缺席。
+**读者视角提示**：shit 在这里是「糟透了」的英式粗口（Emma 难得的一次不修边幅）；「wishing I could erase」暴露 Emma 的控制冲动——她要管理的是丈夫的情绪，而不只是道歉。Dan 的「You've been . . . busy」替她开脱，也把失望咽了下去。
+
 > **原句 6:** “Dan moved across to the sink to start the washing-up left over from breakfast. 'Is Poppy back yet? Did she talk to you about giving up Dance?'”
 **中文理解**：Dan 端着早餐没洗的碗走到水槽边，一边洗一边问：Poppy 回来了吗？她跟你提过不跳 Dance 了吗。
 **关键词**：washing-up / giving up Dance
