@@ -21,7 +21,7 @@ start_date: 2026-10-19
 
 **中文理解**：Yolanda 试图 breastfeed Panchito—his "elongated mouth and hardened nose" make it difficult. Shows maternal struggle。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `elongated mouth and hardened nose`：延长的嘴和硬化的鼻子——Panchito’s deformity
@@ -33,9 +33,9 @@ start_date: 2026-10-19
 
 > **原句 2:** "There’s a faint knock on the door, over the pattering rain on the shed roof."
 
-**中文理解**：Alta knocks—rain on shed roof. "I go down the stairs with Panchito in my arms." Shows Yolanda’s protective instinct。
+**中文理解**：显示 Alta knocks—rain on shed roof. "I go down the stairs with Panchito in my arms." Shows Yolanda’s protective instinct。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `faint knock on the door, over the pattering rain`：敲门声盖过雨声——Alta’s arrival
@@ -47,7 +47,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "“I don’t know if you want your boy to die,” she says over the rain."
 
-**中文理解**：Alta’s "I don’t know if you want your boy to die"—shows her concern (or manipulation). She brings baby clothes box。
+**中文理解**：显示 Alta’s "I don’t know if you want your boy to die"—shows her concern (or manipulation). She brings baby clothes box。
 
 **句子结构**：引语。
 
@@ -60,9 +60,9 @@ start_date: 2026-10-19
 
 > **原句 4:** "“If you’ve come to help me murder him, you shouldn’t have bothered with clothes. Babies are hard to keep alive, not hard to kill.”"
 
-**中文理解**：Yolanda’s retort—"Babies are hard to keep alive, not hard to kill." Shows her dark humor and maternal despair。
+**中文理解**：显示 Yolanda’s retort—"Babies are hard to keep alive, not hard to kill." Shows her dark humor and maternal despair。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Babies are hard to keep alive, not hard to kill`：baby 难养活，不难杀死——dark humor
@@ -73,7 +73,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "“What’s happened?” She points at my breast, now openly examining it."
 
-**中文理解**：Alta points at Yolanda’s exposed breast—"What’s happened?" Shows her observation. Yolanda: "I’m feeding him. Remember?"
+**中文理解**：显示 Alta points at Yolanda’s exposed breast—"What’s happened?" Shows her observation. Yolanda: "I’m feeding him. Remember?"
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -87,9 +87,9 @@ start_date: 2026-10-19
 
 > **原句 6:** "“I’m feeding him. Remember?”"
 
-**中文理解**：Yolanda’s "I’m feeding him. Remember?"—shows her defensiveness. Alta: "It’s not normal. Not normal at all."
+**中文理解**：显示 Yolanda’s "I’m feeding him. Remember?"—shows her defensiveness. Alta: "It’s not normal. Not normal at all."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `I’m feeding him. Remember?`：我在喂他，记得吗？——defensiveness
@@ -100,9 +100,9 @@ start_date: 2026-10-19
 
 > **原句 7:** "“It’s not normal. Not normal at all.”"
 
-**中文理解**：Alta’s "It’s not normal. Not normal at all."—shows her medical concern. "Maybe it is unusual to have breasts in the state mine are. The bulging veins like a ball of yarn."
+**中文理解**：显示 Alta’s "It’s not normal. Not normal at all."—shows her medical concern. "Maybe it is unusual to have breasts in the state mine are. The bulging veins like a ball of yarn."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `It’s not normal. Not normal at all.`：不正常，一点也不正常——concern
@@ -114,7 +114,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "“Thank you, Alta. See you tomorrow.”"
 
-**中文理解**：Yolanda’s "Thank you, Alta. See you tomorrow."—shows her dismissal. Alta hesitates: "There are more, you know."
+**中文理解**：显示 Yolanda’s "Thank you, Alta. See you tomorrow."—shows her dismissal. Alta hesitates: "There are more, you know."
 
 **句子结构**：引语。
 
@@ -127,9 +127,9 @@ start_date: 2026-10-19
 
 > **原句 9:** "There are more, you know."
 
-**中文理解**：Alta’s "There are more, you know."—reveals more baby clothes. "Boxes of clothes. Don Julián asked me to donate them to the poor."
+**中文理解**：显示 Alta’s "There are more, you know."—reveals more baby clothes. "Boxes of clothes. Don Julián asked me to donate them to the poor."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `There are more, you know`：还有更多，你知道——revelation
@@ -140,9 +140,9 @@ start_date: 2026-10-19
 
 > **原句 10:** "More?"
 
-**中文理解**：Yolanda’s "More?"—surprise. Alta: "Boxes of clothes. Don Julián asked me to donate them to the poor."
+**中文理解**：显示 Yolanda’s "More?"—surprise. Alta: "Boxes of clothes. Don Julián asked me to donate them to the poor."
 
-**句子结构**：简单问句。
+**句子结构**：简单问句，疑问词引导。
 
 **关键词**：
 - `More?`：还有更多？——surprise
@@ -153,7 +153,7 @@ start_date: 2026-10-19
 
 > **原句 11:** "“Boxes of clothes. Don Julián asked me to donate them to the poor. I always thought our Señora Cynthia would have more children. And that there would be another boy. Not that he was needed, we had Valentín, but with important families, such as this one, it’s always good to have a spare. Then Don Julián would tell me: ‘You did good, Alta. I’m glad you saved them.’” She blinks rapidly. “Of course, none of us counted on her disappearance.”"
 
-**中文理解**：Alta’s revelation—boxes of clothes from Cynthia (Don Julián’s disappeared wife). "None of us counted on her disappearance." Shows Cynthia’s mysterious absence。
+**中文理解**：显示 Alta’s revelation—boxes of clothes from Cynthia (Don Julián’s disappeared wife). "None of us counted on her disappearance." Shows Cynthia’s mysterious absence。
 
 **句子结构**：多句。
 
@@ -168,9 +168,9 @@ start_date: 2026-10-19
 
 > **原句 12:** "The hole in the garden is ready. Right next to the carcass of the lemon tree."
 
-**中文理解**：Valentín’s grave ready—"Right next to the carcass of the lemon tree." Shows irony: lemon tree (Valentín’s injury source) near grave。
+**中文理解**：显示 Valentín’s grave ready—"Right next to the carcass of the lemon tree." Shows irony: lemon tree (Valentín’s injury source) near grave。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `hole in the garden is ready`：花园里的洞准备好了——grave
@@ -182,7 +182,7 @@ start_date: 2026-10-19
 
 > **原句 13:** "“We should get the tree removed, Papá,” says Odette."
 
-**中文理解**：Odette’s "We should get the tree removed, Papá."—shows her desire to erase Valentín’s memory. Don Julián: "Not now, hija. We’ll discuss it later."
+**中文理解**：显示 Odette’s "We should get the tree removed, Papá."—shows her desire to erase Valentín’s memory. Don Julián: "Not now, hija. We’ll discuss it later."
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -195,9 +195,9 @@ start_date: 2026-10-19
 
 > **原句 14:** "Not now, hija. We’ll discuss it later."
 
-**中文理解**：Don Julián’s "Not now, hija. We’ll discuss it later."—shows his deferral. "You think removing the tree is free?" Shows financial distress。
+**中文理解**：显示 Don Julián’s "Not now, hija. We’ll discuss it later."—shows his deferral. "You think removing the tree is free?" Shows financial distress。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Not now, hija. We’ll discuss it later.`：现在不，女儿。我们以后讨论——deferral
@@ -208,9 +208,9 @@ start_date: 2026-10-19
 
 > **原句 15:** "“Padre Bernardo will arrive shortly.”"
 
-**中文理解**：Don Julián’s "Padre Bernardo will arrive shortly."—shows his expectation of priest. But Padre won’t come: "Not if Valentín won’t rest in sacred land."
+**中文理解**：显示 Don Julián’s "Padre Bernardo will arrive shortly."—shows his expectation of priest. But Padre won’t come: "Not if Valentín won’t rest in sacred land."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `Padre Bernardo will arrive shortly`：Padre Bernardo 即将到达——expectation
@@ -221,9 +221,9 @@ start_date: 2026-10-19
 
 > **原句 16:** "“Padre Bernardo will not come,” he says. “Not if Valentín won’t rest in sacred land. Carajo.”"
 
-**中文理解**：Don Julián’s "Padre Bernardo will not come."—shows priest’s refusal. "Carajo" shows his frustration. He must perform funeral himself。
+**中文理解**：显示 Don Julián’s "Padre Bernardo will not come."—shows priest’s refusal. "Carajo" shows his frustration. He must perform funeral himself。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Padre Bernardo will not come`：Padre Bernardo 不会来——refusal
@@ -235,9 +235,9 @@ start_date: 2026-10-19
 
 > **原句 17:** "“We will miss you forever, my love.”"
 
-**中文理解**：Yolanda’s eulogy—"We will miss you forever, my love."—shows her grief. "The sentiment of loss comes back like a wave of sorrow." Shows genuine emotion。
+**中文理解**：显示 Yolanda’s eulogy—"We will miss you forever, my love."—shows her grief. "The sentiment of loss comes back like a wave of sorrow." Shows genuine emotion。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `We will miss you forever, my love`：我们会永远想念你，我的爱人——grief
@@ -248,9 +248,9 @@ start_date: 2026-10-19
 
 > **原句 18:** "“Let’s say goodbye,” says Don Julián."
 
-**中文理解**：Don Julián’s "Let’s say goodbye."—shows his control of funeral. Family lines up to kiss Valentín. Yolanda last。
+**中文理解**：显示 Don Julián’s "Let’s say goodbye."—shows his control of funeral. Family lines up to kiss Valentín. Yolanda last。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `Let’s say goodbye`：让我们说再见——control
@@ -261,9 +261,9 @@ start_date: 2026-10-19
 
 > **原句 19:** "Slowly I lower Panchito until he is face-to-face with the man who saved our lives. Panchito blinks his black eyes at him."
 
-**中文理解**：Yolanda lowers Panchito to Valentín’s face—Panchito blinks at him. Shows maternal instinct (letting baby say goodbye)。
+**中文理解**：显示 Yolanda lowers Panchito to Valentín’s face—Panchito blinks at him. Shows maternal instinct (letting baby say goodbye)。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `lower Panchito until he is face-to-face with the man who saved our lives`：把 Panchito 降到和救命恩人面对面——maternal instinct
@@ -275,9 +275,9 @@ start_date: 2026-10-19
 
 > **原句 20:** "Panchito swallows. It’s not until I settle and stand that I realize Valentín now has a black hole in his face."
 
-**中文理解**：Panchito bites Valentín’s nose—"Panchito swallows." Shows baby’s instinct. "Valentín now has a black hole in his face." Shows horror。
+**中文理解**：显示 Panchito bites Valentín’s nose—"Panchito swallows." Shows baby’s instinct. "Valentín now has a black hole in his face." Shows horror。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Panchito swallows`：Panchito 吞咽——instinct
@@ -289,9 +289,9 @@ start_date: 2026-10-19
 
 > **原句 21:** "I cover Panchito’s face with my arms to protect him from the stares of these people."
 
-**中文理解**：Yolanda covers Panchito’s face—protective instinct. "There’s a logical explanation behind the incident. A very embarrassing one. I don’t have enough milk."
+**中文理解**：显示 Yolanda covers Panchito’s face—protective instinct. "There’s a logical explanation behind the incident. A very embarrassing one. I don’t have enough milk."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `cover Panchito’s face with my arms`：用手臂遮住 Panchito 的脸——protective
@@ -302,9 +302,9 @@ start_date: 2026-10-19
 
 > **原句 22:** "I remove us from the funeral. I turn around and walk toward the shed, just a few steps away, but a rustle of sheets causes me to pause and glance back."
 
-**中文理解**：Yolanda leaves funeral—Javier tosses Valentín’s body into hole "without care, as if he were making a bed." Shows disregard。
+**中文理解**：显示 Yolanda leaves funeral—Javier tosses Valentín’s body into hole "without care, as if he were making a bed." Shows disregard。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `remove us from the funeral`：带我们离开葬礼——departure
@@ -316,9 +316,9 @@ start_date: 2026-10-19
 
 > **原句 23:** "The days that follow are quiet."
 
-**中文理解**：post-funeral quiet—"The days that follow are quiet." Shows mourning atmosphere. "Even though it’s over, the atmosphere remains altered."
+**中文理解**：显示 post-funeral quiet—"The days that follow are quiet." Shows mourning atmosphere. "Even though it’s over, the atmosphere remains altered."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `The days that follow are quiet`：接下来的日子很安静——mourning
@@ -329,9 +329,9 @@ start_date: 2026-10-19
 
 > **原句 24:** "He squirms in my bed and then makes a noise that causes my throat to tighten. He is hungry again."
 
-**中文理解**：Panchito hungry again—Yolanda’s "I shudder. Please don’t wake up." Shows her dread of feeding. "Please don’t wake up. Please. But he does."
+**中文理解**：显示 Panchito hungry again—Yolanda’s "I shudder. Please don’t wake up." Shows her dread of feeding. "Please don’t wake up. Please. But he does."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `squirms in my bed... makes a noise`：扭动发出声音——hunger
@@ -343,9 +343,9 @@ start_date: 2026-10-19
 
 > **原句 25:** "I pick Panchito up and he instantly pinches my breast with his beak."
 
-**中文理解**：Panchito pinches breast with beak—"I do my best to close my eyes and shift the pain to pleasure." Shows maternal sacrifice。
+**中文理解**：显示 Panchito pinches breast with beak—"I do my best to close my eyes and shift the pain to pleasure." Shows maternal sacrifice。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `pinches my breast with his beak`：用喙夹住乳房——painful feeding
@@ -357,9 +357,9 @@ start_date: 2026-10-19
 
 > **原句 26:** "This time it’s different. The burning is too great, and it drapes me like the night he was conceived."
 
-**中文理解**：Yolanda’s breast destroyed—"This time it’s different. The burning is too great, and it drapes me like the night he was conceived." Shows pain’s intensity。
+**中文理解**：显示 Yolanda’s breast destroyed—"This time it’s different. The burning is too great, and it drapes me like the night he was conceived." Shows pain’s intensity。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `The burning is too great`：灼烧太剧烈——pain
@@ -371,9 +371,9 @@ start_date: 2026-10-19
 
 > **原句 27:** "Panchito is masticating. I glance back down at my breast. The bleeding won’t stop, and then, Panchito spits my nipple on the bed."
 
-**中文理解**：Panchito chews and spits nipple—"Panchito spits my nipple on the bed." Horror. "We both stare at each other." Shows shock。
+**中文理解**：显示 Panchito chews and spits nipple—"Panchito spits my nipple on the bed." Horror. "We both stare at each other." Shows shock。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Panchito is masticating`：Panchito 在咀嚼——horror
@@ -385,9 +385,9 @@ start_date: 2026-10-19
 
 > **原句 28:** "I ask Itzco to come with me to Cook."
 
-**中文理解**：Yolanda asks Itzco to come with her to Cook—shows her need for support. "Panchito rests peacefully in my arms."
+**中文理解**：显示 Yolanda asks Itzco to come with her to Cook—shows her need for support. "Panchito rests peacefully in my arms."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `ask Itzco to come with me to Cook`：请 Itzco 陪我去 Cook——support
@@ -398,7 +398,7 @@ start_date: 2026-10-19
 
 > **原句 29:** "“How can I help you?” Their eyes wander to my baby and then right up, as if trying to avoid Panchito’s haunting eyes."
 
-**中文理解**：Cook’s "How can I help you?"—shows reluctance. "Their eyes wander to my baby and then right up, as if trying to avoid Panchito’s haunting eyes." Shows Cook’s discomfort。
+**中文理解**：显示 Cook’s "How can I help you?"—shows reluctance. "Their eyes wander to my baby and then right up, as if trying to avoid Panchito’s haunting eyes." Shows Cook’s discomfort。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -412,9 +412,9 @@ start_date: 2026-10-19
 
 > **原句 30:** "“There’s no milk left,” I say."
 
-**中文理解**：Yolanda’s "There’s no milk left."—shows her confession. "In me, I mean." clarifies。
+**中文理解**：显示 Yolanda’s "There’s no milk left."—shows her confession. "In me, I mean." clarifies。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `There’s no milk left`：没奶了——confession
@@ -426,9 +426,9 @@ start_date: 2026-10-19
 
 > **原句 31:** "“No milk?” Cook frowns."
 
-**中文理解**：Cook’s "No milk?"—shows surprise. "Tell Don Julián. He is the one who authorizes our expenses. I can’t buy a can of formula and pretend it’s for a cream."
+**中文理解**：显示 Cook’s "No milk?"—shows surprise. "Tell Don Julián. He is the one who authorizes our expenses. I can’t buy a can of formula and pretend it’s for a cream."
 
-**句子结构**：简单问句。
+**句子结构**：简单问句，疑问词引导。
 
 **关键词**：
 - `No milk?`：没奶？——surprise
@@ -439,9 +439,9 @@ start_date: 2026-10-19
 
 > **原句 32:** "“In me, I mean.”"
 
-**中文理解**：Yolanda’s "In me, I mean."—clarifies. Cook: "Tell Don Julián. He is the one who authorizes our expenses."
+**中文理解**：显示 Yolanda’s "In me, I mean."—clarifies. Cook: "Tell Don Julián. He is the one who authorizes our expenses."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `In me, I mean`：我的意思是没奶了——clarification
@@ -452,9 +452,9 @@ start_date: 2026-10-19
 
 > **原句 33:** "“Tell Don Julián. He is the one who authorizes our expenses. I can’t buy a can of formula and pretend it’s for a cream.”"
 
-**中文理解**：Cook’s "Tell Don Julián."—shows protocol. "He is the one who authorizes our expenses." Shows hacienda’s economy. "I can’t buy a can of formula and pretend it’s for a cream." Shows secrecy needed。
+**中文理解**：显示 Cook’s "Tell Don Julián."—shows protocol. "He is the one who authorizes our expenses." Shows hacienda’s economy. "I can’t buy a can of formula and pretend it’s for a cream." Shows secrecy needed。
 
-**句子结构**：三句话。
+**句子结构**：三句话，递进关系。
 
 **关键词**：
 - `Tell Don Julián`：告诉 Don Julián——protocol
@@ -467,9 +467,9 @@ start_date: 2026-10-19
 
 > **原句 34:** "“We’ll repay the favor, one way or another. But right now, Don Julián can’t know.”"
 
-**中文理解**：Itzco’s "We’ll repay the favor, one way or another."—shows his support. "But right now, Don Julián can’t know." Shows secrecy。
+**中文理解**：显示 Itzco’s "We’ll repay the favor, one way or another."—shows his support. "But right now, Don Julián can’t know." Shows secrecy。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `We’ll repay the favor`：我们会报答——support
@@ -481,9 +481,9 @@ start_date: 2026-10-19
 
 > **原句 35:** "“Why shouldn’t Don Julián know? I don’t like secrets.”"
 
-**中文理解**：Cook’s "Why shouldn’t Don Julián know? I don’t like secrets."—shows their reluctance. "That’s a lie. Cook knows every little hacienda secret." Shows Cook’s hypocrisy。
+**中文理解**：显示 Cook’s "Why shouldn’t Don Julián know? I don’t like secrets."—shows their reluctance. "That’s a lie. Cook knows every little hacienda secret." Shows Cook’s hypocrisy。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Why shouldn’t Don Julián know?`：为什么 Don Julián 不该知道？——reluctance
@@ -495,7 +495,7 @@ start_date: 2026-10-19
 
 > **原句 36:** "“Because,” I say, “I thought I could give him what he needed. Isn’t that how nature works? You’re supposed to be the person who nourishes the baby. Your entire being is supposed to be enough. But I’m not. I’m not enough. It’s part of my obligations as a mother. What kind of mamá fails at that?”"
 
-**中文理解**：Yolanda’s confession—"I thought I could give him what he needed. Isn’t that how nature works?" Shows her maternal guilt. "What kind of mamá fails at that?" Shows her self-blame。
+**中文理解**：显示 Yolanda’s confession—"I thought I could give him what he needed. Isn’t that how nature works?" Shows her maternal guilt. "What kind of mamá fails at that?" Shows her self-blame。
 
 **句子结构**：多句。
 
@@ -509,7 +509,7 @@ start_date: 2026-10-19
 
 > **原句 37:** "“Well”—they turn—“you tell me.”"
 
-**中文理解**：Cook’s "Well—you tell me."—shows their judgment. "We’ll get him milk," says Cook. Shows their reluctant help。
+**中文理解**：显示 Cook’s "Well—you tell me."—shows their judgment. "We’ll get him milk," says Cook. Shows their reluctant help。
 
 **句子结构**：引语 + 叙述者评注 + 引语。
 
@@ -522,9 +522,9 @@ start_date: 2026-10-19
 
 > **原句 38:** "“We’ll get him milk,” says Cook."
 
-**中文理解**：Cook’s "We’ll get him milk."—shows reluctant help. "Their words almost make me forget their insult." Shows Yolanda’s relief。
+**中文理解**：显示 Cook’s "We’ll get him milk."—shows reluctant help. "Their words almost make me forget their insult." Shows Yolanda’s relief。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `We’ll get him milk`：我们会给他奶——reluctant help
@@ -535,9 +535,9 @@ start_date: 2026-10-19
 
 > **原句 39:** "“He cannot stay here forever, you know. Sooner or later, they’ll realize.”"
 
-**中文理解**：Cook’s "He cannot stay here forever, you know. Sooner or later, they’ll realize."—shows their warning. "Realize what?" Yolanda asks。
+**中文理解**：显示 Cook’s "He cannot stay here forever, you know. Sooner or later, they’ll realize."—shows their warning. "Realize what?" Yolanda asks。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `He cannot stay here forever`：他不能永远待在这里——warning
@@ -549,9 +549,9 @@ start_date: 2026-10-19
 
 > **原句 40:** "“Realize what?”"
 
-**中文理解**：Yolanda’s "Realize what?"—shows her fear. Cook doesn’t answer. Shows mystery。
+**中文理解**：显示 Yolanda’s "Realize what?"—shows her fear. Cook doesn’t answer. Shows mystery。
 
-**句子结构**：简单问句。
+**句子结构**：简单问句，疑问词引导。
 
 **关键词**：
 - `Realize what?`：发现什么？——fear
@@ -562,9 +562,9 @@ start_date: 2026-10-19
 
 > **原句 41:** "“What do you know about babies?”"
 
-**中文理解**：Yolanda’s "What do you know about babies?"—challenges Cook. "The question strikes a chord in Cook. Something unexpected, like sadness, appears in their eyes." Shows Cook’s hidden trauma。
+**中文理解**：显示 Yolanda’s "What do you know about babies?"—challenges Cook. "The question strikes a chord in Cook. Something unexpected, like sadness, appears in their eyes." Shows Cook’s hidden trauma。
 
-**句子结构**：简单问句。
+**句子结构**：简单问句，疑问词引导。
 
 **关键词**：
 - `What do you know about babies?`：你对 baby 了解多少？——challenge
@@ -575,9 +575,9 @@ start_date: 2026-10-19
 
 > **原句 42:** "“It’s for morcilla. I don’t think it’s safe for humans to ingest uncooked. Certainly not for a baby.”"
 
-**中文理解**：Cook’s "It’s for morcilla."—shows blood is for sausage. "I don’t think it’s safe for humans to ingest uncooked." Shows their concern。
+**中文理解**：显示 Cook’s "It’s for morcilla."—shows blood is for sausage. "I don’t think it’s safe for humans to ingest uncooked." Shows their concern。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `It’s for morcilla`：这是给 morcilla 的——blood for sausage
