@@ -108,6 +108,31 @@ LAZY_TEMPLATES = {
     "一个简单句", "对白", "独白", "对话", "叙述句", "简单", "复杂",
 }
 
+# 占位桩——**内容被删、只留一句指路语**的字段。
+# ⚠️ 2026-10-19 实测（the-book-of-the-dead）：批量改写脚本把 81 个「中文理解」替换成
+#    `0 （本块引语分析见上）`（NUL 字节被写进文件，git 判为 binary）——
+#    **它含汉字，所以「整段无中文」「名义中文」「密度」三条判据全部不命中**，
+#    检测器当时只报「阻断型 5」，而实际 81/180 的字段是空壳。**这是真实的假绿。**
+# ⇒ 必须单列一条判据：字段值本身就是个指路语，没有实质分析。
+PLACEHOLDER = re.compile(r"(见上|见下|同上|如上|详见|待补充|待完善|TODO|占位|本块引语分析)")
+PLACEHOLDER_MAXLEN = 14   # 去掉数字/括号/空白后，剩余核心文本的长度上限
+
+
+def is_placeholder_field(text):
+    """字段是不是只剩一句指路语（占位桩）？
+
+    判据：剥掉数字、括号、空白后，核心文本 ≤ PLACEHOLDER_MAXLEN 字
+    **且**含占位词（见上/见下/同上/如上/详见/待补充/待完善/TODO/占位/本块引语分析）。
+    长度上限是必需的——正常句子里也会出现「详见上节」这类话，不能一律判红。
+    """
+    if not text:
+        return False
+    core = re.sub(r"[\s\uff08\uff09()（）0-9：:、，。．.\-—_]", "", text)
+    if len(core) > PLACEHOLDER_MAXLEN:
+        return False
+    return bool(PLACEHOLDER.search(core))
+
+
 # 残句——删除/改写后留下的空壳。
 # ⚠️ 判据要窄，两个实测坑：
 #   1. `列出 A、B。` 里「、」后面是「B」不是「。」，不会误命中。
@@ -318,7 +343,7 @@ def main():
         return 2
 
     blocking = {k: [] for k in
-                ("英文理解", "缺中文理解", "敷衍句构", "残句", "形式性规避", "英文为什么")}
+                ("英文理解", "缺中文理解", "敷衍句构", "残句", "形式性规避", "英文为什么", "占位桩")}
     hinting = {k: [] for k in ("夹杂理解", "夹杂为什么")}
     mixed_ids = set()
     good_blocks = 0
@@ -356,6 +381,9 @@ def main():
             if has_hollow(zh):
                 blocking["残句"].append(b)
                 block_hits.append("残句")
+            if is_placeholder_field(zh):
+                blocking["占位桩"].append(b)
+                block_hits.append("占位桩")
             if is_formal_evasion(zh, why, st):
                 blocking["形式性规避"].append(b)
                 block_hits.append("形式性规避")

@@ -57,6 +57,23 @@ PLACEHOLDER = re.compile(
 def scan_file(path):
     """返回 (fail_hits, report_hits)；每项 (行号, 类型, 说明)。"""
     fails, reports = [], []
+    # ⚠️ 2026-10-19 增补：**NUL 字节（U+0000）**。
+    #   起因（the-book-of-the-dead 实测）：批量改写脚本把 26/29 个章文件写进了
+    #   NUL 字节 ⇒ `file` 判为 data、**git 判为 binary**（diff 只显示「Bin x -> y」，
+    #   行级 diff 全废），而本脚本原来只查 U+FFFD 与双句号 ⇒ **FAIL 0 处、退出码 0**，
+    #   污染完全隐身。**NUL 属于同一类（写盘/改写环节残留），且危害更大**——
+    #   它让整个文件在 git 与编辑器里变成二进制。
+    #   ⇒ 必须在**按文本读之前**先按字节查。
+    with open(path, 'rb') as raw_fh:
+        blob = raw_fh.read()
+    if b'\x00' in blob:
+        n = blob.count(b'\x00')
+        first = blob.find(b'\x00')
+        line_no = blob[:first].count(b'\n') + 1
+        fails.append((line_no, 'NUL字节',
+                      '文件含 %d 个 NUL 字节（U+0000），首处在第 %d 行——'
+                      '**写盘/改写脚本写坏了文件**，git 会判为 binary、行级 diff 全废'
+                      % (n, line_no)))
     with open(path, encoding='utf-8', errors='ignore') as fh:
         for i, ln in enumerate(fh.read().split('\n'), 1):
             if len(ln) < 20:
