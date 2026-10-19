@@ -2,79 +2,79 @@
 
 ## 本章导航
 
-- **一句话概括**：Exorcist artist Woojin (Korean international student at New School) 用 ink-on-rice-paper 技术捕捉 ghost Ms. Young；Ms. Young (dead mother) 雇 Woojin 找 son Yejun（250k 美元）；Woojin 找到 Yejun (Jonathan Yejun Young, MBA at Stern)；Ms. Young 发现 son 有 stepmom，愤怒 possess Woojin，hug Yejun，then release；Woojin burns portrait; "You're dead, Ms. Young" = exorcism's truth.
+- **一句话概括**：纽约的韩籍留学生 Woojin Joo 靠给鬼画像驱魔为生。他用宣纸、火葬骨灰墨条与水晶画在纸上作画，先是在西 76 街的客户公寓接下一单，遇见女鬼 Ms. Young——她死于儿子三岁那年，如今账户里有二十五万美元，只求在儿子二十三岁那年见上一面。Woojin 找到那位如今叫 Jonathan-Yejun Young 的儿子，却在最后关头目睹 Ms. Young 附身、动手，逼得他在画像前做了一场驱魔，把她的画烧掉。
 
-- **时间**：当代 New York (Manhattan, LIC, F train)
+- **时间**：当代纽约的一个学期：画室评图之夜、连续数日在商学院大厅蹲守、以及最后那场在画室里完成的驱魔。
 
-- **地点**：321 West 76th Street (haunted apartment); Woojin's LIC one-bedroom; New School (studio, critique); Stern business school; fire escape
+- **地点**：曼哈顿西 76 街 321 号的客户公寓；Woojin 位于长岛城（LIC）的一居室与新校（New School）的画室；Stern 商学院的大厅；画室外的消防梯。
 
-- **人物**：Woojin Joo (exorcist artist, Korean international student, brush made of his own hair)；Ms. Young (ghost, dead mother, "quarter million dollars")；Jonathan Yejun Young (son, MBA, stepmom raised him)；Yichen (friend, wealthy, industry-bound)；Johnsons (clients)
+- **人物**：Woojin Joo（韩籍留学生，兼职驱魔者，笔头是自己上次剪下的头发，笔杆是墓地里长出的竹子）；Ms. Young（女鬼，死时儿子尚小，如今攒下二十五万美元，只想再见儿子一面）；Jonathan-Yejun Young（她要找的儿子，改用了西式名字，商学院学生，很喜欢自己的猫）；Yichen（同学兼朋友，即将从艺术转入工业界）；Johnsons（西 76 街的客户夫妇）。
 
-- **叙事手法**：Third-person limited (Woojin); exorcism as art practice; ink-on-rice-paper ghost capture; ghost possession; "eastern tradition draws corpus in ink, western paints in oil"; "ghosts are notorious liars"; "you could not help ghosts, they were dead and beyond helping"
+- **叙事手法**：第三人称限知，紧贴着 Woojin 的手与行当写：研墨、铺纸、落笔都是动作细节，驱魔仪式与移民打工生活交替推进；鬼被封进画像后不受画像的眼睛束缚，画像于是成了他们可以搬动的住处；最重的一场戏让鬼附身主角，把外部视角换成第一人称的记忆洪流；结尾以消防梯上的一小堆火与两瓶养乐多收束。
 
-- **与后文的钩子**：Strahan Introduction 提到 "Isabel J. Kim's story of an exorcist who paints ghosts, and the mother who hires him to find her son." 本篇是选集的 exorcism-as-art 代表——death 作为 art medium (ink); ghost as client (not enemy); exorcism as both art and compassion. Theme: death as art; "you could not help ghosts" vs. Woojin's compassion; ghosts as liars; possession as empathy.
+- **与后文的钩子**：本篇是选集里「驱魔」这一行当的样本：仪式、器物、佣金与移民的生计都写得极实；而作者真正关心的是那句「鬼是出了名地会撒谎」——Woojin 接下这单，恰恰是因为他愿意相信鬼的请求。
 
 ## 精读
 
 > **原句 1:** "The eastern tradition draws the corpus in ink. The western tradition paints the corpus in oil."
 
-- **中文理解**：「The eastern tradition draws the corpus in ink。The western tradition paints the corpus in oil。」Kim 的 opening—eastern exorcism uses ink (rice paper, crematory ash), western uses oil paints. "Corpus" = body/corpse. Ink = portable, practical; oil = heavy, aristocratic. This establishes Woojin's medium (ink) vs. western (oil).
+- **中文理解**：「东方传统用墨描摹躯体，西方传统用油彩作画。」这是全篇的第一句论点：驱魔也是画画的行当，而东西方用的是两套材料。作者随即搬出移民社区的统计——用本族技法处理「本族」鬼魂，成功率高出百分之十五——又立刻点破其中的讽刺：宣纸与火葬骨灰墨条远比画布、松节油和亚麻仁油便于携带。
 
 - **关键词**：eastern tradition / draws the corpus in ink / western tradition / paints the corpus in oil
 
-- **为什么这样写**：Kim establishes exorcism's cultural divide—eastern (ink, portable, immigrant) vs. western (oil, heavy, aristocratic). "Corpus" = body/corpse (double meaning: body of art, body of dead). Ink = immigrant practicality; oil = old-money privilege. This frames Woojin's practice as immigrant art.
+- **为什么这样写**：开篇把两套传统并置，而对照的不是风格而是可携带性：宣纸与墨条能塞进旧背包，油画却要占地、要有车、要一整间屋子。这正是移民的处境——他们做得出全套东方仪轨，却只能背着工具挤 F 线。corpus 一词双关，既指鬼要显形的躯体，也指作品整体，于是驱魔与作画在此刻重合。后面的「统计数据」用学术口吻给行当背书，作者借此讽刺拿数据为玄学站台的做法。
 
-- **读者视角提示**：Kim's "corpus" = body/corpse (double meaning). Eastern ink = portable, practical, immigrant; western oil = heavy, aristocratic. Exorcism as cultural practice.
+- **读者视角提示**：墨条用火葬骨灰制成；作者的笔头是自己上次剪下的头发，笔杆是墓地里长出的竹子。
 
 > **原句 2:** "Ghosts were notorious liars."
 
-- **中文理解**：「Ghosts were notorious liars。」 （本块引语分析见上）
+- **中文理解**：「鬼是出了名地会撒谎。」这是 Woojin 这门生意里的一条老规矩：把鬼画进纸上、送走本人、收钱交差；可这一句也提醒读者，鬼的话不能全信。
 
 - **关键词**：Ghosts were notorious liars
 
-- **为什么这样写**：Kim establishes ghosts as unreliable narrators—like living people, they lie. Ms. Young's "just want to see how he's doing" is a lie (she wants to possess/claim). "Notorious liars" = ghosts' nature. This is the story's tension: can Woojin trust Ms. Young's request? He can't, but he's softhearted.
+- **为什么这样写**：短促的断言放在画像之前，既像免责声明，也像给读者的一副有色眼镜：此后 Ms. Young 说的每一句话都该被折价，尤其是那句「我只想看看他过得好不好」。作者不点名说谁在骗人，而是先立一条行业经验，再让情节慢慢验证——而结尾回望时读者才明白，Woojin 从头到尾没问过她：为什么非要找这个儿子。
 
-- **读者视角提示**：Kim's "notorious liars" = ghosts lie. Ms. Young's request is deceptive. Woojin's softheartedness = his flaw.
+- **读者视角提示**：鬼被封进画像后并不受画像的眼睛束缚，画像因此成了他们可以搬动的「住处」。
 
 > **原句 3:** "You could not help ghosts. They were dead and beyond helping."
 
-- **中文理解**：「You could not help ghosts。They were dead and beyond helping。」 （本块引语分析见上）
+- **中文理解**：「你没法帮鬼。他们已经死了，超出了被帮助的范围。」这是驱魔者师父传下来的规矩：驱魔是做送走，不是做搭救。可眼前这位说着带口音的乡音、在这座他还没有完全习惯的城市里死去的年轻女士，偏偏勾住了他的心。
 
 - **关键词**：You could not help ghosts / dead and beyond helping
 
-- **为什么这样写**：Kim establishes exorcism's ethic—ghosts are beyond help (dead), exorcism removes not helps. Woojin's teacher drilled this. But Woojin helps Ms. Young (softhearted), violating ethic. This is the story's moral: helping ghosts is dangerous (Ms. Young possesses him). "Beyond helping" = death's finality.
+- **为什么这样写**：这条规矩是全篇的伦理底座，而作者一上来就让它被违反。「帮」字从职业术语滑向私人冲动，理由也被推翻了：规矩说死了就没法帮，可 Ms. Young 要的只是看一眼儿子——那恰恰是活人的愿望，也是「帮」真能兑现的部分。破例之后故事才开始有代价，所以这句规矩的真正作用，是让读者提前预感到代价何时会来。
 
-- **读者视角提示**：Kim's "beyond helping" = exorcism ethic. Woojin violates it by helping Ms. Young. Consequence: possession.
+- **读者视角提示**：规矩的另一面是：强大到不讲道理的鬼，就只能送去「第二次死亡」，即彻底毁灭。
 
 > **原句 4:** “You’re dead, Ms. Young,” Woojin said, his voice hoarse, as if he had been screaming. “It’s over. I’m sorry. It was beautiful, but it’s over.”
 
-- **中文理解**：「You're dead, Ms. Young," Woojin said, his voice hoarse, as if he had been screaming。"I'm sorry。It was beautiful, but it's over。" Woojin 的 exorcism speech——acknowledging Ms. Young 的 death, apologizing, declaring it over。"It was beautiful, but it's over" = her life/memories beautiful but ended。This is the exorcism 的 truth-telling。
+- **中文理解**：「你死了，Young 女士。……结束了。对不起。它很美，但结束了。」这是 Woojin 被附身之后对眼前的男人说出口的驱魔词：承认她的死，宣布结束，并且道歉。他的嗓子哑得像喊了很久。
 
 - **关键词**：You're dead, Ms. Young / It was beautiful, but it's over
 
-- **为什么这样写**：Kim's exorcism speech is truth-telling—Ms. Young is dead, it's over. "It was beautiful, but it's over" = her life (beautiful) ended. This is the exorcism's core: acknowledge death, declare end. Woojin's "I'm sorry" = compassion. "Beautiful" = Ms. Young's life/memories (he experienced them during possession).
+- **为什么这样写**：作者把驱魔写成一次说出真相的动作，而不是一场斗法：咒语是事实陈述——你死了，结束了，抱歉。「它很美」三个字是全篇唯一一处温柔：美的是她的一生，Woojin 在附身时确实见过它（婚礼、孩子的黄靴子、第一支 gelato），所以这句悼词有实据。而「但它结束了」紧跟其后，把美与终局钉在一起，不留回旋余地。
 
-- **读者视角提示**：Kim's exorcism = truth-telling + compassion. "Beautiful, but over" = life's beauty and finality.
+- **读者视角提示**：这一场是全篇的高潮：画像转向人、墙上的漆开始剥落，咒语是在身体不属于自己时喊出来的。
 
 > **原句 5:** "It had felt so strange to have had Ms. Young inside him."
 
-- **中文理解**：「It had felt so strange to have had Ms. Young inside him。」 （本块引语分析见上）
+- **中文理解**：「Ms. Young 在他体内待过，这件事感觉怪极了。」驱魔之后，Woojin 独自回想那场附身：她在他身体里跳舞、吃 gelato、抱着自己的孩子，而那份悲伤一度就是他的悲伤。他甚至怀疑这样做对不对——借用死者的悲伤来办事，是否正当。
 
 - **关键词**：strange to have had Ms. Young inside him
 
-- **为什么这样写**：Kim's "strange" = possession's uncanniness. "Inside him" = literal possession. Woojin experienced Ms. Young's memories (dancing, ice cream, holding son)—empathy through possession. This is the story's thesis: understanding the dead requires experiencing their life. "Strange" = both uncomfortable and revelatory.
+- **为什么这样写**：作者用一个「怪」字收住全篇最重的一次经验。附身在技术上是鬼上身，在伦理上却是他借用了死者的悲恸；「感觉像自己的悲伤」这句既是共情的胜利，也是越界的开始——他确实理解了她，也确实动用了她。这句自我怀疑把全篇的道德难题留在了原地：驱魔者救的是活人，用的却是死人的材料。
 
-- **读者视角提示**：Kim's "strange" = possession as empathy. Woojin experienced Ms. Young's life. Understanding through embodiment.
+- **读者视角提示**：附身期间他经历了她的记忆片段：婚礼那夜的跳舞、五岁孩子踢着新黄靴子、第一次吃 gelato、考驾照、搬家、抱着孩子。
 
 > **原句 6:** "He was imagining being alive, so briefly, after having been dead."
 
-- **中文理解**：「He was imagining being alive, so briefly, after having been dead。」 （本块引语分析见上）
+- **中文理解**：「他在想象：死去之后，能再活这么一小会儿。」烧掉画像之后，Woojin 陷进一段白日梦式的独白：想象黑灰与墨装在一只可以踏进去的盒子里、想象挖开展厅地板只留一个针尖大的开口、想象由别人替自己住进那个一直想活成的样子——而这一句，就是他自己短暂地重新活着。
 
 - **关键词**：imagining being alive / so briefly / after having been dead
 
-- **为什么这样写**：Kim's "imagining being alive, so briefly, after having been dead" = death's perspective on life—life is brief, precious. "After having been dead" = from dead perspective, life's brevity. This is the story's thesis: death gives perspective on life's value. Woojin's final thought: life is brief but precious.
+- **为什么这样写**：这是全篇的主题句，却藏在主角的一段出神里。前一刻他刚送走一位母亲、烧掉她的画像，此刻却在想象以另一种方式活着：把展出的洞口留成针尖大小，让别人钻进自己没活成的故事里。这不是赞美，是疲惫的副作用——一个靠与死者打交道谋生的人，对「活着」的理解已经被改造成了可设计的项目。结尾他把这一切拉回日常：给 Jonathan 递上一瓶养乐多，并决定给母亲打个电话。
 
-- **读者视角提示**：Kim's "imagining being alive, so briefly, after having been dead" = death's perspective on life. Life as brief, precious.
+- **读者视角提示**：结尾的两瓶养乐多：Jonathan 说小时候喝过，Woojin 童年也天天喝——一瓶饮料把两个陌生人接了起来。
 
 ## 本章词汇
 
@@ -109,4 +109,4 @@
 
 ## 一句话总结
 
-Kim 的 "The Invocation of the Ghost, the Exorcism of the Muse" 是选集中最 art-as-exorcism 的 story：Exorcist artist Woojin (Korean international student at New School) 用 ink-on-rice-paper 技术捕捉 ghost Ms. Young；Ms. Young (dead mother) 雇 Woojin 找 son Yejun（250k 美元）；Woojin 找到 Yejun (Jonathan Yejun Young, MBA at Stern)；Ms. Young 发现 son 有 stepmom，愤怒 possess Woojin，hug Yejun，then release；Woojin burns portrait; "You're dead, Ms. Young" = exorcism's truth. Kim 的 thesis："death as art medium"—ink captures ghost; "ghosts are notorious liars"—ghosts lie (like living); "you could not help ghosts, they were dead and beyond helping"—exorcism ethic; "It had felt so strange to have had Ms. Young inside him"—possession as empathy (understanding through embodiment); "imagining being alive, so briefly, after having been dead"—death's perspective on life's brevity. This is the anthology's "death as art" counterpoint. Theme: death as art medium; exorcism as both art and compassion; ghosts as liars; possession as empathy; "you could not help ghosts" vs. Woojin's compassion. "You're dead, Ms. Young" = exorcism's truth-telling. Death's finality acknowledged with compassion. Life as brief, precious. "He was imagining being alive, so briefly, after having been dead" = death makes life's brevity visible. "She was crying. He was crying." = shared grief across death/life boundary. Art as death's medium; possession as understanding.
+Isabel J. Kim 的「召鬼与逐缪斯」把驱魔写成了一门画家的生意：韩籍留学生 Woojin Joo 背着宣纸、墨条与旧背包，在纽约的公寓与画室之间替人捉鬼。这一单的女鬼 Ms. Young 死于儿子三岁那年，攒着二十五万美元只想再见他一面；Woojin 找到了改名换姓、在商学院念书的儿子，却被一场附身逼到必须对她说破那句最残忍也最温柔的话——你死了，结束了，对不起，它很美，但结束了。他烧掉她的画像，在消防梯上陪儿子喝了两瓶养乐多，而故事最后落在他的一句自白上：死去之后，能再活这么一小会儿。

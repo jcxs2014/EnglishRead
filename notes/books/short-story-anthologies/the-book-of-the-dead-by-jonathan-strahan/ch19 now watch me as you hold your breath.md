@@ -2,79 +2,79 @@
 
 ## 本章导航
 
-- **一句话概括**：叙述者（"Insect Girl" artist）与 friends Rinko/Aya 在 Halloween 前后经历：Rinko 被 abuse（bruise on neck），vocalist spikes drinks，narrator witnesses Aya (predator/monster) eating the vocalist (slow devouring excavation)，narrator accepts Aya's nature and her own desire to watch; Rinko disappears/reappears; narrator reflects on parents' death, love, sex, violence, and "Aya wanted me to live."
+- **一句话概括**：第一人称的黑暗幻想短篇。美术生「昆虫女孩」与好友 Rinko、乐队主唱、鼓手等人在万圣节前后经历了一连串夜晚：Rinko 遭主唱虐待、颈上留下淤痕；主唱在酒里下了药，随后被长着昆虫口器的 Aya 吃掉，而叙述者亲眼看完全程、还给 Aya 点了点头；万圣节游行那夜她在人群里找回 Rinko 与 Aya，也终于确认了一件事——Aya 想让她活着。
 
-- **时间**：当代日本（university, Namba, Dotonbori, Halloween parade）
+- **时间**：当代日本；万圣节前后（乐队排练、卡拉 OK 之夜、游行当夜），叙述者仍在美术学校念书。
 
-- **地点**：Osaka (Namba, Dotonbori, Kyogei art school, karaoke rooms)
+- **地点**：大阪——难波、道顿堀；狂言（Kyogei）专业的美术学校；卡拉 OK 包厢；便利店里那只Don Quixote；结尾的猫头鹰咖啡馆。
 
-- **人物**：叙述者 (Insect Girl, artist, orphan)；Rinko (beautiful, abused by vocalist, blue pigtails)；Aya (predator, "gap moe," eats people)；drummer (Korean exchange student)；vocalist (missing, spiked drinks, eaten by Aya)；narrator's parents (car accident)
+- **人物**：叙述者（校园里被称作「昆虫女孩」的美术生，父母在她读高中时死于车祸）；Rinko（好友，蓝色双马尾，长期被主唱虐待，颈上有淤痕）；Aya（长着昆虫口器、吃人的女孩，穿人衣、逛便利店、买软冰淇淋）；鼓手（韩籍交换生，戴水手金星假发，兄长穿水星服，母亲去年因癌症去世）；主唱（下药后被 Aya 吃掉，失踪两周）；叙述者的父母（只以回忆和一段留言的形式出现）。
 
-- **叙事手法**：First-person (narrator); dark fantasy/horror with magical realism (Aya as predator/monster); coming-of-age with death; "eaten" people (vocalist, office lady, Sailor Moon); narrator as witness/complicit; love as hunger
+- **叙事手法**：第一人称贴着内心独白走，句与句之间是跳跃的联想而非连贯的叙事；黑暗奇幻与日常质感混在一起（Aya 吃人，却照样在人群里排队买软冰淇淋）；性、暴力、死亡与爱在同一条思绪里互相渗透；叙述者既是目击者也是共犯——她对着进食的 Aya 点了点头；结尾用一长串「我爱……」的排比收束，把恐惧翻译成欲望。
 
-- **与后文的钩子**：Strahan Introduction 提到 "Silvia Park's story of a young woman who witnesses her friend being eaten, and must decide what to do." 本篇是选集的 dark fantasy/horror 代表——death 作为 predation ("eaten"); Aya as monster who "loves" by consuming; narrator's acceptance of violence. Theme: death as predation; love as hunger; complicity as witness; "Aya wanted me to live."
+- **与后文的钩子**：本篇是选集里最直接的「死亡即捕食」样本：死者不是被安葬的，是被吃掉的，而叙述者的位置尤其刺眼——她既说得出「有些人就是活该」，又说得出「Aya 想让我活着」，两句之间没有任何缓冲。
 
 ## 精读
 
 > **原句 1:** "People really didn’t know how to deal with death, especially if they started weighing who had it worse."
 
-- **中文理解**：「People really didn't know how to deal with death, especially if they started weighing who had it worse。」叙述者对 drummer 说 "my parents died" 后的反应——"Wow, that's really, yeah." People don't know how to deal with death; they start "weighing" (comparing) grief. "Who had it worse" = grief Olympics.
+- **中文理解**：「人们真的不知道该怎么面对死亡，尤其是当他们开始掂量谁的命更苦的时候。」这句话是叙述者对鼓手那句「你父母都没了？哇，那真是……」的私下评注。她说的不是某一场具体的丧事，而是一种社会反应：一旦有人提起失去，旁人的第一反应往往不是安慰，而是比较——谁更难熬。
 
 - **关键词**：didn't know how to deal with death / weighing who had it worse
 
-- **为什么这样写**：Park's observation—people are bad at death, they compare ("who had it worse"). "Weighing" = measuring grief; "who had it worse" = grief competition. This is the story's social critique: death makes people uncomfortable, they deflect with comparison. Narrator's dead parents make others awkward.
+- **为什么这样写**：作者把观察放在主角心里而不是写成议论，等于让读者跟她一起做一件不太体面的事：在别人的痛苦面前盘算高低。weighing（掂量）这个动词把哀伤写成了可称重的东西，「谁更惨」也就成了一场隐形的比赛。这句评注紧接在她主动讲出自己父母死讯之后——她清楚自己正在做那件她刚批评过的事，于是讽刺落在了自己身上。
 
-- **读者视角提示**：Park's "weighing who had it worse" = grief Olympics. People compare losses instead of acknowledging.
+- **读者视角提示**：这是全篇对死亡的第一层态度：人们不会谈死亡，只会比较谁承受得更多。
 
 > **原句 2:** "It wasn’t quick at all. It didn’t seem painless. It was a slow, devouring excavation."
 
-- **中文理解**：「It wasn't quick at all。It didn't seem painless。It was a slow, devouring excavation。」叙述者目睹 Aya 吃 vocalist—slow, painful, devouring. "Devouring excavation" = Aya's eating as archaeological dig—slow, methodical, consuming. Not quick, not painless.
+- **中文理解**：「一点也不快。看起来也不是无痛的。是一场缓慢的、吞噬一切的挖掘。」这是叙述者目睹 Aya 进食主唱时的判断，与她先前那句「对死去的人来说，快一点反而是好事」形成直接冲突。快与 painless 是她对车祸中父母之死的想象，而眼前这桩死是慢的、痛的、被围观着的。
 
 - **关键词**：wasn't quick / didn't seem painless / slow, devouring excavation
 
-- **为什么这样写**：Park's "slow, devouring excavation" = death by predation as slow process, not instant. "Devouring excavation" = eating as digging/excavating—methodical consumption. "Wasn't quick/painless" = narrator witnesses death's slowness. This contrasts with narrator's parents' quick death (car accident). Death by predation = slow, witnessed, complicit.
+- **为什么这样写**：作者用一个矛盾的短语收束整场戏：devouring（吞噬）与 excavation（挖掘）本是互斥的动作，却用来形容同一件事——既在吃，又在一点一点刨。这个比喻把捕食写成了考古式的耐心，也把叙述者的观看姿态暴露出来：她不是被拖走的目击者，而是站在坑边记录的人。这句与前文的「快一点更好」构成全篇第一处自我否定。
 
-- **读者视角提示**：Park's "devouring excavation" = predation as slow process. "Excavation" = digging up/consuming. Death witnessed.
+- **读者视角提示**：Aya 用口器进食，进食时眼睛一直盯着叙述者——那一眼才是这场戏真正的高潮。
 
 > **原句 3:** "I think he was eaten."
 
-- **中文理解**：「I think he was eaten。」叙述者对 drummer 说 vocalist "was eaten"—casual, matter-of-fact. "Eaten" = death by predation (Aya). Narrator's certainty: "sixty percent sure" → "seventy-five." She knows Aya eats people.
+- **中文理解**：「我觉得他被吃了。」两周后，叙述者这样回答鼓手关于主唱失踪的追问。她心里有底：主唱当晚在酒里下了药，她自己喝到断片；她的把握从六成升到七成半。她说得像在报告天气，而旁边的 Rinko 喊了起来——「你怎么能这么问！」
 
 - **关键词**：I think he was eaten
 
-- **为什么这样写**：Park's "was eaten" = death as predation, stated casually. Narrator's certainty (60%→75%) = growing awareness. "Eaten" (not "killed" or "died") = predation vocabulary. This is the story's central revelation: Aya is predator, narrator knows, doesn't stop it.
+- **为什么这样写**：作者故意让最可怕的事实用最平淡的动词落地：不是被杀、不是死了，是被吃了。叙述者的语气越轻，读者越能感到她早已在心里排练过这个答案。Rinko 的失态说明在这个圈子里「被吃掉」是禁忌话题，而叙述者能在众目睽睽之下说出口，恰恰暴露她与 Aya 之间的那层默契。
 
-- **读者视角提示**：Park's "eaten" = predation. Narrator's casual certainty = complicity.
+- **读者视角提示**：「被吃掉」在这篇里是日常口语，不是不祥的比喻——这正是它最令人不安的地方。
 
 > **原句 4:** "Rinko thinks a person disappears for a reason"
 
-- **中文理解**：「Rinko thinks a person disappears for a reason。」 （本块引语分析见上）
+- **中文理解**：「Rinko 认为人消失是有原因的。」全篇对死亡有三种说法：Rinko 相信消失皆有缘由，Aya 把主唱的失踪称作运气不好，叙述者则说出了第三种——「有些人就是活该。」她说这话时，Aya 笑得呛了烟，三个人交换了一个心照不宣的眼神。
 
 - **关键词**：Rinko thinks a person disappears for a reason
 
-- **为什么这样写**：Park uses "disappears for a reason" vs. "luck" vs. "deserve it" as three stances on death—Rinko (fate), Aya (luck), narrator (desert). "Some people deserve it" = narrator's judgment: vocalist (who drugged/spiked) deserved to be eaten. This is the story's moral ambiguity—death as deserved punishment.
+- **为什么这样写**：作者把三种死亡观排在一处对照：宿命、运气、应得，层层递进地往冷处走。Rinko 的说法其实带着创伤——她的外婆失踪使她相信死亡有意义；Aya 的玩笑话则是捕食者才有的轻松；而叙述者那句「活该」既是在说主唱给她们下药，也是给自己的开脱。三个人的态度差异，正是三个人性格的差异。
 
-- **读者视角提示**：Park's three stances on death: fate (Rinko), luck (Aya), desert (narrator). "Some people deserve it" = narrator's complicity.
+- **读者视角提示**：叙述者说自己「总是忍不住想保护那些并不需要、也不想要她帮助的人」——保护欲与旁观欲在这篇里是同一件事。
 
 > **原句 5:** "Aya wanted me to live."
 
-- **中文理解**：「Aya wanted me to live。」 （本块引语分析见上）
+- **中文理解**：「Aya 想让我活着。」这句是叙述者在万圣节游行的人群里得出的结论，也是她给自己的定心丸。Aya 是吃人的，可她对叙述者说过想让她活着；于是叙述者选择抓住这一点，不再追问别的。这句同时是爱、也是依赖、也可能是关于捕食者心思的自我安慰。
 
 - **关键词**：Aya wanted me to live
 
-- **为什么这样写**：Park's "Aya wanted me to live" = narrator's hope—Aya protects her. But ambiguous: Aya protects prey (to eat later?) or friend? "Wanted me to live" = Aya's agency over narrator's life. This is the story's central tension: narrator's dependence on predator who "wants her to live."
+- **为什么这样写**：作者把整篇最重的一句放在最轻的位置——不是宣言，而是一个自问自答的念头，前面还缀着「Aya 爱 Rinko 吗？Aya 会爱我这样的人吗？两个问题她都答不上来」。于是「Aya 想让我活着」既可能是友情的承诺，也可能是别的什么，叙述者不查证、不深究，直接拿它当结论用——这正是她整晚的处世方式。
 
-- **读者视角提示**：Park's "Aya wanted me to live" = ambiguous protection. Aya as predator/friend.
+- **读者视角提示**：全篇的悬念压在这一句上：捕食者对猎物的「想让你活」，是慈悲，还是另一种打算？
 
 > **原句 6:** "I loved my Kyogei professor who said I surprised her."
 
-- **中文理解**：「I loved my Kyogei professor who said I surprised her。」 （本块引语分析见上）
+- **中文理解**：「我爱那位说我让她吃了一惊的狂言老师。」这句出自结尾那串越滚越长的「我爱……」：我爱万圣节、我爱游行、我爱那层层叠叠的芭菲、我爱父亲塞进母亲饭盒里的纸条、我爱父亲替母亲捏肩的样子、我爱自己虽然是女孩却总觉得自己又小又弱、我爱那些不像女孩的女孩、我爱 Aya 比世上任何人都更说得通，我爱父亲留下的那段留言——「别担心，我们很快就回来。专心画画。今晚吃什么？回家路上买。」
 
 - **关键词**：I loved my Kyogei professor who said I surprised her
 
-- **为什么这样写**：Park's "I loved..." list = narrator's affirmation of life. "Surprised her" = professor saw narrator's potential. This is the story's ending—narrator embraces life (love list) despite witnessing predation. "I loved being a girl even though I felt so small and weak" = affirmation despite vulnerability.
+- **为什么这样写**：作者用排比把恐怖故事翻译成了欲望清单：前面刚说完捕食与共犯，这里就一路爱到最琐碎的东西（芭菲、纸条、捏肩、留言），像是在用密集的小事抵挡刚才发生的事。但清单里始终有一处空缺：她爱 Rinko 与 Aya，却愿望她们相爱、也愿望她们不相爱；她爱一切，却始终没敢说自己爱的是谁。
 
-- **读者视角提示**：Park's love list = life affirmation. "I loved being a girl" = embracing vulnerability.
+- **读者视角提示**：结尾的留言把父母的死重新收回到「日常」里——最后一次出场，他们仍只是她的父亲和母亲。
 
 ## 本章词汇
 
@@ -110,4 +110,4 @@
 
 ## 一句话总结
 
-Park 的 "Now Watch Me as You Hold Your Breath" 是选集中最 dark fantasy/horror 的 story：叙述者（"Insect Girl" artist）与 friends Rinko/Aya 在 Halloween 前后经历：Rinko 被 abuse（bruise on neck），vocalist spikes drinks，narrator witnesses Aya (predator/monster) eating the vocalist (slow devouring excavation)，narrator accepts Aya's nature and her own desire to watch; Rinko disappears/reappears; narrator reflects on parents' death, love, sex, violence, and "Aya wanted me to live." Park 的 thesis："death as predation"—Aya eats people (vocalist, office lady, Sailor Moon); "slow, devouring excavation" = death by predation as slow process; "Aya wanted me to live" = predator protects narrator (ambiguous); "Some people deserve it" = narrator's judgment (vocalist deserved to be eaten). "I loved being a girl even though I felt so small and weak" = affirmation despite vulnerability. This is the anthology's "death as predation" counterpoint. Theme: death as predation; love as hunger; complicity as witness; "Aya wanted me to live"; violence for the sake of violence; love for the sake of love. Narrator's final love list = life affirmation despite witnessing predation. "I wished I could get drunk. I wished Rinko and Aya fell in love." = narrator's desires amid darkness. The story's horror: narrator accepts Aya's predation, even desires to watch. Death as consumption, not ending.
+Silvia Park 的「看着我，在你屏息的时候」是一则把人写成虫、把死亡写成捕食的短篇。美术生叙述者与 Rinko、Aya、鼓手在万圣节前后厮混：Rinko 挨过主唱的毒打，主唱在酒里下了药，而长着昆虫口器的 Aya 当着叙述者的面把主唱吃掉，叙述者不但没有阻止，还在她动手时给了她一个几乎看不见的点头——事后她说，有些人就是活该。全篇最锋利处在于叙述者并不否认自己也是世界的一部分：她可以冷冷地比较谁死得更惨，可以在深夜列出自己爱过的一切，却始终绕不开那句「Aya 想让我活着」。
