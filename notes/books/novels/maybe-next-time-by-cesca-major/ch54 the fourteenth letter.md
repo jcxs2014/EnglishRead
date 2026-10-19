@@ -54,26 +54,6 @@
 
 **读者视角提示**：Poppy is changing so quickly = Dan's observation; "it is you she often needs" = his acknowledgment; "the fourth evening you're talking to someone on a screen" = his realization; "Poppy has barely spoken to you since the weekend" = his observation; "I'm sorry if this makes you feel guilty" = his apology; "you need to ask whether everything is as important" = his advice; this is Dan's honest confrontation—Emma's busyness affects the family.
 
-> **原句 5:** “I'm glad we celebrated it. Forty is huge. And, despite almost dying together on a Vespa, I'm so glad we went to Florence. You were right about the place—it was romantic with all those courtyard cafés and cobbled side streets.”
-
-**中文理解**："I'm glad we celebrated it. Forty is huge. And, despite almost dying together on a Vespa, I'm so glad we went to Florence. You were right about the place—it was romantic with all those courtyard cafés and cobbled side streets."
-
-**关键词**：I'm glad we celebrated it / Forty is huge / almost dying together on a Vespa / Florence
-
-**为什么这样写**：I'm glad we celebrated it = Dan's reflection—he's glad they celebrated Emma's 40th. "Forty is huge" = Dan's acknowledgment—40 is a big milestone. "despite almost dying together on a Vespa" = Dan's humor—they almost died on a Vespa in Florence. "I'm so glad we went to Florence" = Dan's appreciation—he's glad they went. "You were right about the place" = Dan's admission—Emma was right about Florence. "it was romantic with all those courtyard cafés and cobbled side streets" = Dan's description—Florence was romantic. "The best thing? Being alone for a few days, lying in, mooching around side streets, holding hands without embarrassing two children." = Dan's memory—the best part was being alone together. "We must make sure we don't wait for your fiftieth to tick off another destination on your bucket list." = Dan's advice—they should travel more. This is Dan's reflection on their relationship: the good times (Florence) and the need to make more of them.
-
-**读者视角提示**：I'm glad we celebrated it = Dan's reflection; "Forty is huge" = his acknowledgment; "almost dying together on a Vespa" = his humor; "I'm so glad we went to Florence" = his appreciation; "You were right about the place" = his admission; "Being alone for a few days" = his memory; "We must make sure we don't wait for your fiftieth" = his advice; this is Dan's reflection on their relationship.
-
-> **原句 6:** “I love you, Emma. Here's to plenty more times together. Here's to slowing down a bit in your forties and taking time out to soak it all in.”
-
-**中文理解**："I love you, Emma. Here's to plenty more times together. Here's to slowing down a bit in your forties and taking time out to soak it all in."
-
-**关键词**：I love you, Emma / plenty more times together / slowing down a bit in your forties
-
-**为什么这样写**：I love you, Emma = Dan's affirmation—he loves Emma. "Here's to plenty more times together" = Dan's hope—he wants more time. "Here's to slowing down a bit in your forties and taking time out to soak it all in" = Dan's advice—Emma should slow down. This is the letter's closing: Dan's love and hope, combined with his advice for Emma to slow down. The irony (for the reader) is that Dan will die on Dec 3, 2021—he won't have "plenty more times together." The reader knows this; Emma doesn't yet. This is the novel's cruelest dramatic irony, repeated from ch47 and ch51.
-
-**读者视角提示**：I love you, Emma = Dan's affirmation; "plenty more times together" = his hope; "slowing down a bit in your forties" = his advice; this is the letter's closing—Dan's love and hope, combined with advice to slow down. The dramatic irony: Dan will die on Dec 3, 2021.
-
 ## 词汇
 
 ### ⭐⭐⭐ 高级

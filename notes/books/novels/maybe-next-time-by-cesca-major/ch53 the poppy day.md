@@ -14,16 +14,6 @@
 
 ## 精读
 
-> **原句 1:** “'Miles,' I said, 'is everything all right, Miles? At school?'”
-
-**中文理解**："Miles," I said, "is everything all right, Miles? At school?"
-
-**关键词**：Miles / is everything all right / At school
-
-**为什么这样写**：Miles = Emma's son—she asks Miles. "is everything all right" = Emma's question—she's checking on him. "At school?" = Emma's specification—she's asking about school. "There it was, the tiniest bite of a lip, before he answered. 'It's OK.'" = Miles's hesitation—he hesitates. "I frowned. Stopping Poppy posting anything online meant that Miles wouldn't have been teased, which meant him and Poppy didn't fall out, so why hadn't that fixed everything?" = Emma's confusion—she thought stopping Poppy's posting would fix everything. "And then I remembered what he'd told me, what had also been worrying him." = Emma's realization—she remembers Miles's other problem. "You know," I said, taking a bite of my Twix before picking my words, "when I was at school I was always a bit worried that other people seemed to have a best friend, and I didn't." = Emma's empathy—she shares her own experience. "But do you know what?" I said, looking at them both, "I liked being friends with lots of people, moving between groups." = Emma's advice—she encourages Miles. "Miles sat up, peeking at me under his eyelashes. 'Albie won't even play with me anymore and we used to be friends.'" = Miles's confession—Albie won't play with him. "I think Liam told him not to because he's his best friend." = Miles's explanation—Liam told Albie not to play with him. This is Emma's "gift" in action: she's listening to Miles and helping him with his friendship problem.
-
-**读者视角提示**：Miles = Emma's son; "is everything all right" = her question; "the tiniest bite of a lip" = Miles's hesitation; "Stopping Poppy posting anything online meant that Miles wouldn't have been teased" = Emma's confusion; "when I was at school I was always a bit worried" = her empathy; "Albie won't even play with me anymore" = Miles's confession; "Liam told him not to" = Miles's explanation; this is Emma's "gift" in action—listening and helping.
-
 > **原句 2:** “'Holly and the girls from school. Even Gee's in it.'”
 
 **中文理解**："Holly and the girls from school. Even Gee's in it."
@@ -63,16 +53,6 @@
 **为什么这样写**：Most mornings began in bed = Emma's routine—mornings start in bed. "a lot of mornings began with sex" = Emma's routine—morning intimacy. "savoring Dan's enjoyment" = Emma's appreciation—she savors Dan's pleasure. "our closeness, the smell of him, his hands on my skin, his eyes darkening" = Emma's sensory experience—she's fully present. This is Emma's "gift" routine: she's savoring every moment with Dan. "I'd get ready, book the vet appointment for first thing" = her routine—vet appointment. "walk the kids to school, warn Poppy off messaging anyone" = her routine—school walk and warning. "I headed to the vet's after that" = her routine—vet visit. "I often went to the office, told Jas she was right about the pages" = her routine—office visit. "I messaged Lou arranging to meet up" = her routine—Lou meeting. "phoned Scarlet about how much I adored her fourth book idea" = her routine—Scarlet call. "I left a note for Linda resigning my job" = her routine—resignation. "Then I'd get a coffee with Jurek" = her routine—coffee with Jurek. "My good deeds of the day made me feel so light and happy." = Emma's feeling—good deeds make her happy. This is Emma's "gift" routine: a checklist of positive actions that make her happy.
 
 **读者视角提示**：Most mornings began in bed = Emma's routine; "a lot of mornings began with sex" = her routine; "savoring Dan's enjoyment" = her appreciation; "our closeness, the smell of him" = her sensory experience; "I'd get ready, book the vet appointment" = her routine; "walk the kids to school" = her routine; "I often went to the office" = her routine; "I messaged Lou" = her routine; "phoned Scarlet" = her routine; "I left a note for Linda resigning" = her routine; "Then I'd get a coffee with Jurek" = her routine; "My good deeds of the day made me feel so light and happy" = her feeling; this is Emma's "gift" routine.
-
-> **原句 6:** “'Better yet, I could bring joy to other people too.'”
-
-**中文理解**："Better yet, I could bring joy to other people too."
-
-**关键词**：Better yet / bring joy to other people
-
-**为什么这样写**：Better yet = Emma's escalation—she can do even more. "I could bring joy to other people too" = Emma's purpose—she can help others. This is Emma's "gift" philosophy: the loop is not just about her happiness; it's about bringing joy to others. "I thought of the pages I'd read earlier, the fact that Jas was waiting on a call." = Emma's thought—she thinks of Jas. "I drew out my phone and scrolled down the names feeling a frisson of possibility, a spark in my belly." = Emma's action—she scrolls through contacts. "Something I hadn't felt in ages." = Emma's feeling—she feels possibility. "A gift." = Emma's mantra—she repeats "gift." This is Emma's "gift" philosophy in action: she's using the loop to bring joy to others. The chapter ends with text messages: Emma @Dan (looking forward to dinner), Dan @Emma (Happy Dateversary!), Emma @Dan (Seriously stop calling it that). The normalcy of these messages contrasts with the loop's extraordinary nature.
-
-**读者视角提示**：Better yet = Emma's escalation; "I could bring joy to other people too" = her purpose; "I thought of the pages I'd read earlier" = her thought; "I drew out my phone" = her action; "a frisson of possibility" = her feeling; "A gift" = her mantra; this is Emma's "gift" philosophy—bringing joy to others.
 
 ## 词汇
 

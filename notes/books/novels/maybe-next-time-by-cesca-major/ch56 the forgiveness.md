@@ -24,16 +24,6 @@
 
 **读者视角提示**：I went back to the same spot = Emma's compulsion; "the next night, and the next" = the loop's repetition; "unable to stop scratching the itch" = her compulsion; "The car would appear" = her observation; "I would watch as she seemed to inexplicably lose control" = her observation; "He was always gone. 10:17 p.m." = her observation; "And I knew he would always be gone" = her realization; this is Emma's compulsion—she returns every night, watching Hattie crash, then finding Dan dead.
 
-> **原句 2:** “Someone else needed me. The car was in the same position, the glass scattered on the glistening icy street.”
-
-**中文理解**："Someone else needed me. The car was in the same position, the glass scattered on the glistening icy street."
-
-**关键词**：Someone else needed me / car was in the same position / glass scattered
-
-**为什么这样写**：Someone else needed me = Emma's realization—Hattie needs her. "The car was in the same position" = the accident—Hattie's car is there. "the glass scattered on the glistening icy street" = the scene—glass on the icy street. "I thought of her words, all those nights ago now, the car losing control, her swerving Gus and Dan." = Emma's memory—she remembers Hattie's words. "The glass crunched beneath me as I stepped hesitatingly to the driver's side, staring down at her lost to the airbag." = Emma's approach—she goes to the car. "Reaching forward I pulled on the handle, wanting to release her, wanting to help her out." = Emma's action—she opens the door. "She was shocked, shaky as I shouldered her weight." = Hattie's state—she's shocked and shaky. "Confusion etched her features as she realized it was me, her forehead creasing." = Hattie's confusion—she doesn't expect Emma. "Emma, I was . . ." = Hattie's words—she's confused. "She stared at the crumpled hood, the damage to the side of a parked car." = Hattie's focus—she stares at the damage. "As lights popped on behind curtains I guided her to the pavement." = Emma's action—she guides Hattie. This is Emma's decision: she goes to Hattie instead of going home. The shift from ch55 (where she ran away) to ch56 (where she helps Hattie) is the chapter's turning point.
-
-**读者视角提示**：Someone else needed me = Emma's realization; "car was in the same position" = the accident; "glass scattered" = the scene; "I thought of her words" = Emma's memory; "Reaching forward I pulled on the handle" = Emma's action; "She was shocked, shaky" = Hattie's state; "Confusion etched her features" = Hattie's confusion; "As lights popped on behind curtains I guided her to the pavement" = Emma's action; this is Emma's decision—she goes to Hattie instead of going home.
-
 > **原句 3:** “'I had to come,' she said. 'I had to go somewhere safe.'”
 
 **中文理解**："I had to come," she said. "I had to go somewhere safe."

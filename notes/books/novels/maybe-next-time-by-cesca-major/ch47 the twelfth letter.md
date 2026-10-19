@@ -54,36 +54,6 @@
 
 **读者视角提示**：turning forty = Emma's milestone; "made you a little quiet" = Dan's observation; "someone clicked and your thirties were gone" = Emma's feeling; "trying to impress someone that doesn't exist" = Dan's insight; "say something to your parents" = Dan's advice; this is Dan's understanding of Emma's psychology.
 
-> **原句 5:** “You are always thinking of someone else. You've got me into vitamins after telling me to get into vitamins for like twenty months.”
-
-**中文理解**："You are always thinking of someone else. You've got me into vitamins after telling me to get into vitamins for like twenty months."
-
-**关键词**：always thinking of someone else / got me into vitamins
-
-**为什么这样写**：always thinking of someone else = Dan's observation—Emma is always thinking of others. "You've got me into vitamins" = Emma's care—she got Dan to take vitamins. "after telling me to get into vitamins for like twenty months" = Emma's persistence—she nagged Dan. "And I've been less ill and you don't even rub it in that it's the vitamins" = Dan's appreciation—Emma doesn't gloat. "You remember what our kids' friends like to eat, and you send brownies when a friend is sad, flowers when someone is ill" = Emma's thoughtfulness—she remembers details. "You are insanely big-hearted" = Dan's praise—Emma is generous. This is Dan's portrait of Emma: generous, thoughtful, always thinking of others. But then the turn: "BUT—can I say something honestly now? You might not like it. But sometimes, because you are trying to do everything, for everyone, sometimes you're exhausted for us." = Dan's honest confrontation—Emma's generosity comes at a cost.
-
-**读者视角提示**：always thinking of someone else = Dan's observation; "You've got me into vitamins" = Emma's care; "You are insanely big-hearted" = Dan's praise; "BUT—can I say something honestly now?" = Dan's honest confrontation; "sometimes you're exhausted for us" = the cost of Emma's generosity; this is Dan's portrait of Emma—generous but exhausted.
-
-> **原句 6:** “Mentally you disappear—you wander away. Miles or Poppy will be telling you something, or I'll ask you a question and . . . you're just not with us—you're somewhere else.”
-
-**中文理解**："Mentally you disappear—you wander away. Miles or Poppy will be telling you something, or I'll ask you a question and . . . you're just not with us—you're somewhere else."
-
-**关键词**：Mentally you disappear / you wander away / you're just not with us
-
-**为什么这样写**：Mentally you disappear = Dan's observation—Emma is mentally absent. "you wander away" = Dan's description—Emma's mind wanders. "Miles or Poppy will be telling you something, or I'll ask you a question and . . . you're just not with us" = Dan's example—Emma is physically present but mentally absent. "you're somewhere else. In a conference room at a publisher's, or in a manuscript that has kept you up" = Dan's list—Emma is thinking about work. "or worrying about a friend's divorce or dreaming up a letter to force the council to reinstate the lollipop man" = Dan's list—Emma is worrying about others. This is Dan's honest observation: Emma's generosity and busyness mean she's not fully present with her family. "I've taken things off you, only to find you doing them anyway" = Dan's frustration—Emma won't delegate. "it's like you don't trust me to get it right" = Dan's hurt—Emma doesn't trust him.
-
-**读者视角提示**：Mentally you disappear = Dan's observation; "you're just not with us" = his description; "In a conference room... or in a manuscript" = his list; "I've taken things off you, only to find you doing them anyway" = his frustration; "it's like you don't trust me" = his hurt; this is Dan's honest observation—Emma is not fully present.
-
-> **原句 7:** “I know I can't ever take back what I did when Poppy was born but I've made up for it now, so *deep breath* you need to stop throwing it back in my face when we argue, because it hurts.”
-
-**中文理解**："I know I can't ever take back what I did when Poppy was born but I've made up for it now, so *deep breath* you need to stop throwing it back in my face when we argue, because it hurts."
-
-**关键词**：can't ever take back what I did when Poppy was born / stop throwing it back in my face
-
-**为什么这样写**：can't ever take back what I did when Poppy was born = Dan's admission—he did something wrong when Poppy was born (he was absent/depressed). "but I've made up for it now" = Dan's claim—he's made amends. "so *deep breath*" = Dan's pause—he's taking a breath before saying something difficult. "you need to stop throwing it back in my face when we argue, because it hurts" = Dan's hurt—Emma brings up his past failure. This is Dan's vulnerability: he admits his past failure and asks Emma to stop using it against him. "I'm here, I'm present: I'm not going anywhere" = Dan's reassurance—he's committed. This is the letter's emotional core: Dan's honesty about his past and his request for Emma to let it go.
-
-**读者视角提示**：can't ever take back what I did when Poppy was born = Dan's admission; "I've made up for it now" = his claim; "stop throwing it back in my face" = his hurt; "I'm here, I'm present" = his reassurance; this is Dan's vulnerability—admitting his past failure and asking Emma to let it go.
-
 > **原句 8:** “I love you, Emma. Here's to plenty more times together. Here's to slowing down a bit in your forties and taking time out to soak it all in.”
 
 **中文理解**："I love you, Emma. Here's to plenty more times together. Here's to slowing down a bit in your forties and taking time out to soak it all in."

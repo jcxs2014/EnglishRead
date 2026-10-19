@@ -54,16 +54,6 @@
 
 **读者视角提示**：Tell our children = Dan's request; "their father loved them" = his declaration; "more than they will ever understand" = his emphasis; "Poppy, our beautiful firstborn" = his memory—her birth; "My memories of her are endless and wonderful" = his memories; "Now she is talented and funny and fiery" = his observation; "We get flashes of the woman she'll become" = his pride; this is Dan's love letter to Poppy.
 
-> **原句 5:** “Miles, our gentle, sweet boy. When did you get so big? You were this tiny thing, this wriggling, squirming little thing that I was terrified to hold.”
-
-**中文理解**："Miles, our gentle, sweet boy. When did you get so big? You were this tiny thing, this wriggling, squirming little thing that I was terrified to hold."
-
-**关键词**：Miles, our gentle, sweet boy / When did you get so big / tiny thing / wriggling, squirming little thing / terrified to hold
-
-**为什么这样写**：Miles, our gentle, sweet boy = Dan's description—Miles is gentle and sweet. "When did you get so big?" = Dan's amazement—he's amazed at Miles's growth. "You were this tiny thing" = Dan's memory—Miles was tiny. "this wriggling, squirming little thing" = Dan's memory—Miles was active. "that I was terrified to hold" = Dan's memory—he was scared to hold Miles. This is Dan's love letter to Miles: he remembers Miles's birth and his fear of holding him. "I used to be so scared of dropping you" = Dan's memory—he was scared of dropping Miles. "I remember the night you were born, the way you cried and cried and wouldn't stop" = Dan's memory—Miles's birth. "I paced the hospital corridor for hours" = Dan's memory—he paced. "I thought something was wrong" = Dan's memory—he was worried. "But you were just fine, you just wanted to be held" = Dan's memory—Miles just wanted to be held. "And I held you and you stopped" = Dan's memory—he held Miles and Miles stopped crying. "That's when I knew I was a dad" = Dan's realization—that's when he knew. This is Dan's love letter to Miles: he remembers the moment he became a father.
-
-**读者视角提示**：Miles, our gentle, sweet boy = Dan's description; "When did you get so big?" = his amazement; "You were this tiny thing" = his memory; "I was terrified to hold" = his memory; "I used to be so scared of dropping you" = his memory; "I remember the night you were born" = his memory; "I paced the hospital corridor for hours" = his memory; "That's when I knew I was a dad" = his realization; this is Dan's love letter to Miles.
-
 > **原句 6:** “I've loved my life. I love my life.”
 
 **中文理解**："I've loved my life. I love my life."

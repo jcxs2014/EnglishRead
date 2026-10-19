@@ -64,26 +64,6 @@
 
 **读者视角提示**：I knew I had to go soon = Emma's decision; "give myself some purpose" = her need; "pull me one step back from the edge" = her position; "Would you ever consider leaving the agency?" = her question; "Because I'm going to leave" = her decision; "you won't remember this tomorrow" = her loop awareness; "laughter... became a sob" = her emotional release.
 
-> **原句 6:** “It's a gift, I repeated. It's a gift.”
-
-**中文理解**："It's a gift, I repeated. It's a gift."
-
-**关键词**：It's a gift / I repeated
-
-**为什么这样写**：It's a gift = Emma's mantra—she repeats "gift." "I repeated" = Emma's reinforcement—she says it again. This is Emma's acceptance: she's internalizing Jas's reframing. "Something shifted inside me, a little beam pushing the shadows back." = Emma's transformation—the shadows recede. "Oh, but Emma?" Jas said, letting go of my hand. "Promise me you'll take Gus to the vet stat, yeah?" = Jas's reminder—Gus needs the vet. This is the chapter's turning point: Emma accepts the loop as a gift and begins to act on it. The rest of the chapter shows Emma's "gift" day: sex with Dan, walks kids to school, warns Poppy, reads pages, calls editors, helps Jurek's mum, takes Gus to vet. "I had been missing so many of these small, precious moments, not just in this loop but before too, leaping ahead on the To Do List in my head rather than pausing to look around, to feel, to taste, to smell: to live." = Emma's realization—she's been missing life's small moments. "Better yet, I could bring joy to other people too." = Emma's purpose—she can help others. "A gift." = Emma's mantra—repeated.
-
-**读者视角提示**：It's a gift = Emma's mantra; "I repeated" = her reinforcement; "Something shifted inside me" = her transformation; "Promise me you'll take Gus to the vet" = Jas's reminder; "I had been missing so many of these small, precious moments" = her realization; "Better yet, I could bring joy to other people too" = her purpose; this is Emma's acceptance and transformation.
-
-> **原句 7:** “I had been missing so many of these small, precious moments, not just in this loop but before too, leaping ahead on the To Do List in my head rather than pausing to look around, to feel, to taste, to smell: to live.”
-
-**中文理解**："I had been missing so many of these small, precious moments, not just in this loop but before too, leaping ahead on the To Do List in my head rather than pausing to look around, to feel, to taste, to smell: to live."
-
-**关键词**：missing so many of these small, precious moments / leaping ahead on the To Do List / to live
-
-**为什么这样写**：I had been missing so many of these small, precious moments = Emma's realization—she's been missing life's small moments. "not just in this loop but before too" = Emma's admission—this was true before the loop. "leaping ahead on the To Do List in my head" = Emma's habit—she's always thinking ahead. "rather than pausing to look around, to feel, to taste, to smell: to live" = Emma's new awareness—she needs to live in the moment. This is the chapter's thesis: Emma has been missing life's small moments because she's always rushing ahead. The loop gives her the chance to slow down and live. "Better yet, I could bring joy to other people too." = Emma's purpose—she can help others. "The phone rang and a woman greeted me. 'Charlie,' I said, launching in, 'this isn't totally normal but I'm sending you over a few chapters and a synopsis and I need you to read them today'" = Emma's action—she calls an editor about Ernestina's book. This is Emma's transformation in action: she's using the loop to help others.
-
-**读者视角提示**：I had been missing so many of these small, precious moments = Emma's realization; "not just in this loop but before too" = her admission; "leaping ahead on the To Do List" = her habit; "to live" = her new awareness; "Better yet, I could bring joy to other people too" = her purpose; this is Emma's transformation—slowing down and living.
-
 ## 词汇
 
 ### ⭐⭐⭐ 高级
