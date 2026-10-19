@@ -105,6 +105,7 @@ title: "ch01 Alpha"
 **关键词**：finish, Culling, eradicate, memory, false king
 
 **为什么这样写**：The ellipsis between the two sentences creates a pause that suggests the Butcher's hesitation or the gravity of his task. "Finish the Culling" reframes the Massacre of the Innocents as an incomplete project, with Jesus as the one who escaped. "Eradicate any with memory" elevates the task from assassination to erasure—eliminating not just the person but the very possibility of his story being told.
+
 **关键词**：eradicate, memory, false king
 
 
