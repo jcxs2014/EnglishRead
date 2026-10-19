@@ -160,7 +160,7 @@ start_date: 2026-10-19
 
 > **原句 11:** "“How much we’ll be paying is none of your business. You’re here to work, not to get paid.”"
 
-**中文理解**：Alta’s response—wage is "none of your business"— reveals the labor exploitation: Yolanda works for "cleaning sins," not money. "not to get paid" directly contradicts "work."
+**中文理解**：Alta 对 Yolanda 工资问题的回应——“不关你的事”——揭示了 hacienda 的劳动剥削：Yolanda 工作不是为了赚钱，而是为了“清洗罪孽”。"not to get paid" 与 "here to work" 直接矛盾，显示 hacienda 的“劳动”本质是惩罚而非雇佣。
 
 **句子结构**：两句话：第一句否定（none of your business）→ 第二句重新定义（here to work, not to get paid）。
 
@@ -168,13 +168,13 @@ start_date: 2026-10-19
 - `none of your business`：不关你的事——financial control
 - `not to get paid`：不是为了赚钱——labor as punishment/penance
 
-**为什么这样写**：Alta’s logic mirrors Mamá’s: Yolanda’s labor is penance for "evil," not employment. This is the hacienda’s economy of sin.
+**为什么这样写**：Alta 的逻辑与 Mamá 相互呼应：Yolanda 的劳动是为“邪恶”赎罪，而非谋生。这是 hacienda 的“罪孽经济”——以劳动惩罚女性身体与欲望。
 
 ---
 
 > **原句 12:** "“You have to clean your sins. Your mamá will save your money until you’ve learned your lesson.”"
 
-**中文理解**：Alta frames Yolanda’s labor as "cleaning sins"—spiritual punishment disguised as employment. Mamá "saving money" echoes Mamá’s control over Yolanda’s wages.
+**中文理解**：Alta 将 Yolanda 的劳动定义为“清洗罪孽”——精神惩罚伪装成就业。Mamá “saving money” 呼应 Mamá 对 Yolanda 工资的控制。
 
 **句子结构**：两句话：命令（You have to clean your sins）→ 解释（Your mamá will save your money...）。
 
@@ -182,13 +182,13 @@ start_date: 2026-10-19
 - `clean your sins`：清洗罪孽——labor as penance
 - `until you’ve learned your lesson`：直到你学会教训——indefinite punishment
 
-**为什么这样写**：Alta’s "clean your sins" connects to Mamá’s "something evil lives inside you"—both women frame Yolanda’s body/desire as sin requiring labor-penance.
+**为什么这样写**：Alta 的 "clean your sins" 与 Mamá 的 "something evil lives inside you" 相呼应——两位女性都将 Yolanda 的身体/欲望定义为需要劳动赎罪的“罪孽”。
 
 ---
 
 > **原句 13:** "“I saw you looking at that boy, Yolanda.”"
 
-**中文理解**：Alta’s warning—Yolanda’s gaze at Valentín is policed. "That boy" diminishes Valentín, but also reveals Alta’s surveillance.
+**中文理解**：Alta 的警告——Yolanda 对 Valentín 的目光被监视。"That boy" 贬低 Valentín，同时显示 Alta 的 surveillance。
 
 **句子结构**：简单陈述句，"I saw" 强调 Alta’s watchfulness.
 
@@ -196,13 +196,13 @@ start_date: 2026-10-19
 - `saw you looking`：看到你在看——surveillance
 - `that boy`：那个男孩——diminutive, disapproving
 
-**为什么这样写**：Alta’s gaze mirrors Mamá’s—women policing women’s desire, especially toward men.
+**为什么这样写**：Alta 的目光与 Mamá 相呼应——女性监视女性的欲望，尤其对男性的欲望。
 
 ---
 
 > **原句 14:** "“Don Julián doesn’t like the staff mingling with the family,” she continues. “If such a thing were to happen, I’d have to let you go. You understand that, don’t you?”"
 
-**中文理解**：Alta threatens Yolanda with job loss if she "mingles" with family—class boundary enforcement. "You understand that, don’t you?" is rhetorical coercion.
+**中文理解**：Alta 以解雇威胁 Yolanda，若她与 family “mingles”——阶级边界执行。"You understand that, don’t you?" 是修辞胁迫。
 
 **句子结构**：引语 + "she continues" + 引语（条件句 + 问句）。
 
@@ -210,13 +210,13 @@ start_date: 2026-10-19
 - `mingling with the family`：与家人混在一起——class transgression
 - `I’d have to let you go`：我得解雇你——economic threat
 
-**为什么这样写**：Alta’s threat establishes the hacienda’s sexual economy: staff cannot access family, but Yolanda’s fantasy depends on transgressing this boundary.
+**为什么这样写**：Alta 的威胁建立 hacienda 的性经济：staff 不能接触 family，但 Yolanda 的 fantasy 依赖于跨越这一边界。
 
 ---
 
 > **原句 15:** "“Not that he’d ever look at you that way. My poor Valentincito is crooked.”"
 
-**中文理解**：Alta reveals Valentín is "crooked" (gay)—"poor Valentincito" shows maternal pity. This is Yolanda’s first obstacle: Valentín "prefers men."
+**中文理解**：Alta 揭示 Valentín 是 "crooked"（gay）——"poor Valentincito" 显示母性 pity。这是 Yolanda 的第一个障碍：Valentín "prefers men"。
 
 **句子结构**：两句话：否定（Not that he’d ever look at you that way）+ 解释（My poor Valentincito is crooked）。
 
@@ -224,13 +224,13 @@ start_date: 2026-10-19
 - `crooked`：歪的，不正的——homophobic slur (está torcido)
 - `poor Valentincito`：可怜的 Valentín——Alta’s pity
 
-**为什么这样写**：Alta’s "crooked" frames homosexuality as curse/illness, revealing hacienda’s conservative sexual politics—and Yolanda’s opportunity: "the right woman" can "cure" him.
+**为什么这样写**：Alta 的 "crooked" 将 homosexuality 定义为诅咒/疾病，揭示 hacienda 的保守性政治——而 Yolanda 的机会："the right woman" 可以 "cure" 他。
 
 ---
 
 > **原句 16:** "“It’s a curse that will wear off soon. When the right woman approaches him. Not a maid, of course.”"
 
-**中文理解**：Alta’s "curse that will wear off" frames homosexuality as temporary illness curable by "the right woman"—and "Not a maid" excludes Yolanda. But Yolanda interprets this as challenge: "It could happen."
+**中文理解**：Alta 的 "curse that will wear off" 将 homosexuality 定义为可被 "the right woman" 治愈的临时疾病——而 "Not a maid" 排除 Yolanda。但 Yolanda 将其解读为挑战："It could happen"。
 
 **句子结构**：三句：诊断（It’s a curse...）→ 条件（When the right woman approaches him）→ 排除（Not a maid, of course）。
 
@@ -239,13 +239,13 @@ start_date: 2026-10-19
 - `the right woman`：合适的女人——Yolanda’s aspirational target
 - `Not a maid, of course`：当然不是女仆——class exclusion
 
-**为什么这样写**：Alta’s exclusion ("Not a maid") becomes Yolanda’s motivation—she will "play her cards right" to become "the right woman," repeating Rubí’s strategy.
+**为什么这样写**：Alta 的排除（"Not a maid"）成为 Yolanda 的动力——她将 "play her cards right" 以成为 "the right woman"，重复 Rubí 的策略。
 
 ---
 
 > **原句 17:** "“¡Suata!” she yells at me. Once she is close, she snatches the broom from my hands. I stare at her, not understanding what I did wrong. “What do you think you’re doing? These are Persian carpets from Iran.”"
 
-**中文理解**：Alta’s outburst—"¡Suata!" (shut up/fool)—over carpet mistake shows her rage and Yolanda’s ignorance of hacienda’s material value. "Persian carpets from Iran" emphasizes luxury beyond Yolanda’s comprehension.
+**中文理解**：Alta 的爆发——"¡Suata!"（闭嘴/蠢货）——因地毯错误而起，显示她的愤怒与 Yolanda 对 hacienda 物质价值的无知。"Persian carpets from Iran" 强调超越 Yolanda 理解的 luxury。
 
 **句子结构**：引语 + 引语。"¡Suata!" 是 colloquial insult; "What do you think you’re doing?" 是 rhetorical accusation.
 
@@ -253,13 +253,13 @@ start_date: 2026-10-19
 - `¡Suata!`：（西班牙语俚语）闭嘴/蠢货
 - `Persian carpets from Iran`：伊朗波斯地毯——hacienda 的 luxury
 
-**为什么这样写**：Alta’s rage over carpet (vs Yolanda’s survival concerns) shows class disconnect—staff cannot comprehend family’s material world.
+**为什么这样写**：Alta 对地毯的愤怒（vs Yolanda 的生存关切）显示阶级断层——staff 无法理解 family 的物质世界。
 
 ---
 
 > **原句 18:** "“Perra,” says Itzco once she’s out. “Alta is such a bitch.”"
 
-**中文理解**：Itzco’s "Perra" (bitch) echoes Alta’s "¡Suata!"—both use gendered insults. Itzco’s solidarity with Yolanda against Alta establishes potential alliance.
+**中文理解**：Itzco 的 "Perra"（婊子）呼应 Alta 的 "¡Suata!"——两者都使用性别化侮辱。Itzco 与 Yolanda 对 Alta 的团结建立潜在联盟。
 
 **句子结构**：引语 + 引语。"once she’s out" 时间从句显示 Itzco’s caution.
 
@@ -267,20 +267,20 @@ start_date: 2026-10-19
 - `Perra`：母狗，婊子——gendered insult
 - `such a bitch`：十足的婊子——Itzco’s contempt for Alta
 
-**为什么这样写**：Itzco’s insult mirrors Alta’s, showing hacienda’s culture of verbal violence; also establishes Itzco as Yolanda’s potential ally/adversary.
+**为什么这样写**：Itzco 的侮辱呼应 Alta 的，显示 hacienda 的言语暴力文化；同时也建立 Itzco 作为 Yolanda 潜在盟友/对手。
 
 ---
 
 > **原句 19:** "“Beware of that woman, Yolanda.”"
 
-**中文理解**：Itzco warns Yolanda about Alta and Javier—Javier "always tries to sleep with the newbies" as part of open relationship with Odette. This reveals hacienda’s sexual economy and Yolanda’s precarity.
+**中文理解**：Itzco 警告 Yolanda 提防 Alta 与 Javier——Javier "always tries to sleep with the newbies" 作为与 Odette open relationship 的一部分。这揭示 hacienda 的性经济与 Yolanda 的 precariousness。
 
 **句子结构**：两句话：警告（Beware of that woman）+ 警告（And beware of Javier）。"Of Javier? Why?" 显示 Yolanda’s curiosity.
 
 **关键词**：
 - `Beware`：小心，提防
 
-**为什么这样写**：Itzco’s warnings establish hacienda’s dangers: Alta (control) and Javier (sexual predation). Yolanda’s "I’m not sure what to make of his words" shows her naivety.
+**为什么这样写**：Itzco 的警告建立 hacienda 的危险：Alta（控制）与 Javier（性掠夺）。Yolanda 的 "I’m not sure what to make of his words" 显示她的 naïveté。
 
 ---
 
