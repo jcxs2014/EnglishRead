@@ -12,7 +12,7 @@
 
 - **叙事手法**：7 sections, multiple POVs (canal first-person plural, coroner official report, psychopomp first-person, dead man's rant, Judeth, dog? Philippa, Philippa+Judeth); fantasy worldbuilding (Royal Society of Wizards, Quing's Bench); abuse survivor narrative; death as multi-perspective; dog POV section (6) is unusual
 
-- **与后文的钩子**：Strahan Introduction 提到 "Premee Mohamed's story of a man who drowns in a canal, told from seven perspectives including the water itself." 本篇是选集的 multi-POV 代表——death 作为 shared event with irreconcilable perspectives; water as active agent. Theme: death as relief (for survivors); abuse's aftermath; "the beautiful world... I can now see to be beautiful."
+- **与后文的钩子**：Strahan Introduction 提到 Premee Mohamed's story of a man who drowns in a canal, told from seven perspectives including the water itself。本篇是选集的 multi-POV 代表——death 作为 shared event with irreconcilable perspectives; water as active agent。主题：death as relief (for survivors); abuse's aftermath; "the beautiful world... I can now see to be beautiful."
 
 ## 精读
 

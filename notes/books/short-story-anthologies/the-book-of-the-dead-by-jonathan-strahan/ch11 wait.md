@@ -12,7 +12,7 @@
 
 - **叙事手法**：Third-person limited (Antigone)；dark fantasy with literary horror; death personified as dog; suicide contemplation; "wait" as title and theme; magical realism (witch bloodline, death as psychopomp); grief/choice; open ending
 
-- **与后文的钩子**：Strahan Introduction 提到 "Cassandra Khaw's lyrical story of a woman whose death arrives as a black dog, and the choice she must make." 本篇是选集的 dark fantasy/lyrical 代表——death 作为 companion not enemy; "wait" as both death's patience and life's invitation. Theme: choice in dying; "all love was paid for with grief"; "The cold could wait."
+- **与后文的钩子**：Strahan Introduction 提到 Cassandra Khaw's lyrical story of a woman whose death arrives as a black dog, and the choice she must make。本篇是选集的 dark fantasy/lyrical 代表——death 作为 companion not enemy; "wait" as both death's patience and life's invitation。主题：choice in dying; "all love was paid for with grief"; "The cold could wait."
 
 ## 精读
 

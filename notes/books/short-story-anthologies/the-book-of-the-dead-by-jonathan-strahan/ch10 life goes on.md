@@ -12,7 +12,7 @@
 
 - **叙事手法**：First-person (narrator)；dark fantasy/horror with black comedy; unreliable narrator (admits lies: "I killed a man there" untrue); pseudo-scholarly tone (theology, Copinian model); walker as zombie-like undead; "life goes on" as ironic refrain; theological horror
 
-- **与后文的钩子**：Strahan Introduction 提到 "K. J. Parker's darkly comic tale of a land where the dead don't stay dead, and a priest who must confront his family's legacy." 本篇是选集的 dark fantasy 代表——death 作为 curse not blessing（resurrection = terror）; "life goes on" 的 dual meaning (survival vs. eternal torment). Theme: death as punishment; the undead as family inheritance; faith as terror.
+- **与后文的钩子**：Strahan Introduction 提到 K. J. Parker's darkly comic tale of a land where the dead don't stay dead, and a priest who must confront his family's legacy。本篇是选集的 dark fantasy 代表——death 作为 curse not blessing（resurrection = terror）; "life goes on" 的 dual meaning (survival vs. eternal torment). 主题：death as punishment; the undead as family inheritance; faith as terror。
 
 ## 精读
 

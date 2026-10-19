@@ -12,7 +12,7 @@
 
 - **叙事手法**：Third-person limited (Arthur) with embedded séance frame; historical fiction (1880s Philadelphia, grave robbing, Spiritualism, anatomy); dual timeline (past narrative + present séance); séance as frame device; "is there suffering?" as final question; open ending
 
-- **与后文的钩子**：Strahan Introduction 提到 "Samantha Mills's dark tale of grave robbers and a scientist who seeks to anchor the soul." 本篇是选集的 historical horror 代表——death 作为 experimental subject; soul-tether; "is there suffering?" as the question death can't answer. Theme: death as scientific problem; grief as haunting; the dead's experience unknowable.
+- **与后文的钩子**：Strahan Introduction 提到 Samantha Mills's dark tale of grave robbers and a scientist who seeks to anchor the soul。本篇是选集的 historical horror 代表——death 作为 experimental subject; soul-tether; "is there suffering?" as the question death can't answer。主题：death as scientific problem; grief as haunting; the dead's experience unknowable。
 
 ## 精读
 
