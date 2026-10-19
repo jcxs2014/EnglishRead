@@ -29,42 +29,42 @@
 
 - **中文理解**：谋杀后，Charlie 的兄弟 Marion 需要钱维持他的房子和 Charlie 的房子，所以 Marion 把 murder house 开放为旅游景点——成人 ten cents，小孩 nickel。Duncan 用 economic motive ("needed money") 解释 commodification of tragedy.
 - **关键词**：Marion / tourist attraction / ten cents a head
-- **为什么这样写**：This is historical fact—Marion Lawson did open the house as a tourist attraction. Duncan's "needed money to keep up his place and Charlie's too" shows economic desperation driving exploitation. "ten cents a head and a nickel apiece for the little ones" has the cadence of a carnival barker—Duncan reduces tragedy to commerce. The phrase "murder house" (title) is now literalized.
+- **为什么这样写**：这是 historical fact——Marion Lawson did open the house as a tourist attraction。Duncan's "needed money to keep up his place and Charlie's too" shows economic desperation driving exploitation。"ten cents a head and a nickel apiece for the little ones" has the cadence of a carnival barker——Duncan reduces tragedy to commerce。The phrase "murder house" (title) is now literalized。
 - **读者视角提示**：Marion Lawson = Charlie's brother; he opened the house as "Lawson Family Murder House" tourist attraction in 1926. "ten cents a head" = 10 美分/人（1920s 价格）；"nickel" = 5 美分。
 
 > **原句 4:** "'They say Charlie Lawson had a fight with some foreigner, a drifter, just a few days before, and that so-and-so come back and killed all of them.'"
 
 - **中文理解**：游客在排队时传播 conspiracy theory——Charlie 与某个 foreigner/drifter 争吵，drifter 回来杀了全家。Duncan 通过 dialogue 展示 community's need to find alternative explanation—refusing to accept that a father could kill his own family.
 - **关键词**：foreigner / drifter / so-and-so
-- **为什么这样写**：The "foreigner/drifter" theory is a historical rumor that circulated after the murders (blaming an outsider rather than Charlie). Duncan uses dialogue to show community denial and scapegoating. "so-and-so" is deliberately vague—no specific suspect. The conspiracy theory reveals collective inability to process familial violence. The dialogue format (unattributed, overlapping) creates oral history texture.
+- **为什么这样写**：The "foreigner/drifter" theory 是一个 historical rumor，circulated after the murders（blaming an outsider rather than Charlie）。Duncan uses dialogue to show community denial and scapegoating。"so-and-so" is deliberately vague——no specific suspect。The conspiracy theory reveals collective inability to process familial violence。The dialogue format (unattributed, overlapping) creates oral history texture。
 - **读者视角提示**：foreigner/drifter = 外来者/流浪汉（scapegoat）；"so-and-so" = 某人（模糊指代）；coroner = 验尸官。The rumor that Charlie fought a foreigner is historically documented but unverified.
 
 > **原句 5:** "'Well, according to all of them, I guess, Marie confided to the friend just before Christmas that she was with child.' The last two words are whispered but still carry a good twelve feet. 'And no man on the premises but her own father.'"
 
 - **中文理解**：游客传播 incest rumor——Marie (17) 怀孕，父亲是唯一男性。"with child" 被 whisper 但 still carry twelve feet。The incest theory (Charlie impregnated Marie) is the most disturbing and historically debated motive.
 - **关键词**：with child / whispered / no man on the premises but her own father
-- **为什么这样写**：Duncan dramatizes the incest rumor through gossip chain ("daughter → cousin → best friend → Marie")—hearsay layered on hearsay. "whispered but still carry a good twelve feet" is dark comedy—secret that isn't secret. The rumor (Charlie raped/impregnated Marie) is historically debated; Duncan presents it as community speculation, not fact. "no man on the premises but her own father" is the devastating implication.
+- **为什么这样写**：Duncan 通过 gossip chain ("daughter → cousin → best friend → Marie") dramatizes the incest rumor——hearsay layered on hearsay。"whispered but still carry a good twelve feet" is dark comedy——secret that isn't secret。The rumor (Charlie raped/impregnated Marie) is historically debated；Duncan presents it as community speculation，not fact。"no man on the premises but her own father" is the devastating implication。
 - **读者视角提示**：with child = 怀孕（archaic expression）；"no man on the premises but her own father" = 房子里只有她父亲一个男人（暗示乱伦）。This rumor is historically documented but unproven; Charlie's motive remains unknown.
 
 > **原句 6:** "You walk slowly through the yard, studying the faces in the photograph, wondering what has become of Arthur, wondering whether the boy has taken the tour. You look up from the photo to see that you have automatically gotten back in line, waiting to buy another ticket and take another number. You’ve walked in a circle, just like Charlie Lawson. Clearly you are not done with the murder house, and the murder house is not done with you."
 
 - **中文理解**：「you」离开 murder house 时， study 照片中的人脸， wondered Arthur 去了哪里， wondered 他是否也来 tour 过。Then "you" 发现自己自动 got back in line，waiting to buy another ticket。"You've walked in a circle, just like Charlie Lawson." Murder house is not done with "you."
 - **关键词**：gotten back in line / walked in a circle / not done with you
-- **为什么这样写**：This is the story's pivot from tourist to complicit participant. "automatically gotten back in line" shows compulsion—the murder house (and reader's voyeurism) traps "you." "just like Charlie Lawson" equates tourist with killer—both walk in circles (Charlie walked around pine tree for 2h48min). "not done with you" personifies the murder house as predator. Duncan implicates the reader in voyeuristic consumption of violence.
+- **为什么这样写**：这是 story's pivot from tourist to complicit participant。"automatically gotten back in line" shows compulsion——the murder house (and reader's voyeurism) traps "you"。"just like Charlie Lawson" equates tourist with killer——both walk in circles (Charlie walked around pine tree for 2h48min)。"not done with you" personifies the murder house as predator。Duncan implicates the reader in voyeuristic consumption of violence。
 - **读者视角提示**：gotten back in line = 重新排队；"not done with you" = 还没完事/还没放过你。The circular walk parallels Charlie's 2h48min walk around the pine tree before suicide.
 
 > **原句 7:** "You dream yourself onto a dirt road. On both sides are tobacco fields. You do not walk but instead move forward. You glide. You cannot control your progress. You cannot stop. You cannot slow down. You cannot turn around. You want to turn around."
 
 - **中文理解**：「you」 dream 自己 onto dirt road，tobacco fields on both sides。"You do not walk but instead move forward. You glide." "You cannot control...cannot stop...cannot slow down...cannot turn around. You want to turn around." Duncan's nightmare sequence—second person becomes Charlie's dream/ghost, moving toward the barn against his will.
 - **关键词**：glide / cannot control / cannot turn around
-- **为什么这样写**：The dream sequence shifts "you" from tourist to Charlie's consciousness. "You glide" (not walk) suggests ghost/possession. "Cannot control...cannot stop...cannot turn around" = compulsion—the killer's actions are inevitable, predetermined. "You want to turn around" = reader's/Charlie's desire to escape, but impossible. Duncan uses anaphora ("You cannot...") to create hypnotic, compulsive rhythm. This is the story's horror: becoming the perpetrator.
+- **为什么这样写**：这是 the dream sequence shifts "you" from tourist to Charlie's consciousness。"You glide" (not walk) suggests ghost/possession。"Cannot control...cannot stop...cannot turn around" = compulsion——the killer's actions are inevitable, predetermined。"You want to turn around" = reader's/Charlie's desire to escape, but impossible。Duncan uses anaphora ("You cannot...") to create hypnotic, compulsive rhythm。This is the story's horror：becoming the perpetrator。
 - **读者视角提示**：glide = 滑行/飘行（非走）；anaphora = 排比/重复修辞。The dream sequence is structured as a walkthrough of the murder (tobacco fields → barn → house → nursery), with "you" as Charlie.
 
 > **原句 8:** "The black hole widens for you."
 
 - **中文理解**：「黑洞在你面前扩大。」Final sentence—Charlie's mouth becomes "a third hole" (after eyes), widening into black hole. "For you" = the black hole is for you (the reader/Charlie). Ambiguous: is it swallowing Charlie, or swallowing "you"?
 - **关键词**：black hole / widens / for you
-- **为什么这样写**：The ending is the story's most terrifying moment—Charlie's mouth becomes a black hole (void/death) that "widens for you." "For you" is ambiguous: it could mean "for your benefit" (sarcastic) or "to swallow you." Duncan refuses to resolve—death as void that consumes both perpetrator and spectator. The "black hole" imagery connects to the story's earlier "black stains" (blood) and "black" (evil) motifs. The ending shows Charlie becoming death itself.
+- **为什么这样写**：The ending 是 story 最 terrifying 的 moment——Charlie's mouth becomes a black hole (void/death) that "widens for you"。"For you" is ambiguous：it could mean "for your benefit" (sarcastic) or "to swallow you"。Duncan refuses to resolve——death as void that consumes both perpetrator and spectator。The "black hole" imagery connects to story earlier "black stains" (blood) and "black" (evil) motifs。The ending shows Charlie becoming death itself。
 - **读者视角提示**：black hole = 黑洞（天文术语，此处 metaphor for death/void）；"for you" = 为你/为了你（ambiguous）。The ending echoes the opening's "if survival is the word"—survival is ambiguous, death is certain.
 
 ## 本章词汇

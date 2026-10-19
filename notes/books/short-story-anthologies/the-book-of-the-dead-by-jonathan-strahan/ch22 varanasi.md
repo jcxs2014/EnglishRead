@@ -82,7 +82,7 @@
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| mortician | 殡葬师、验尸官 | Lucy as mortician (Kirkland & Sons) |
+| undertaker | 承办丧葬的人 | Our family have been undertakers for generations. Seventy years of Kirkland and |
 | vocation | 职业、天职 | I have my vocation |
 | taboo | 禁忌、忌讳 | Death, not sex, is the last taboo |
 | Varanasi | 瓦拉纳西（印度圣城，死亡之城） | The Indian city of pilgrimage |
@@ -105,7 +105,7 @@
 |---|---|---|
 | mortuary | 殡仪馆、太平间 | the mortuary proper |
 | cremation | 火化、火葬 | cremation forms |
-| hearse | 灵车、柩车 | hire whatever else is needed (hearses) |
+| hearse | 灵车、柩车 | hated. Now they’re in a large glossy unit with sliding doors. Sometimes |
 
 ## 一句话总结
 

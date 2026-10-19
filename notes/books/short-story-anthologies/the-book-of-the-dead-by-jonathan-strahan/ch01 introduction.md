@@ -95,7 +95,7 @@
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| inevitably | 不可避免地 | the quiet inevitability that waits just beyond the frame |
+| skulls | 骷髅、颅骨 | calaveras—Day of the Dead skulls. It showed sixteen highly decorated skulls, each |
 
 ## 一句话总结
 

@@ -84,7 +84,7 @@
 |---|---|---|
 | memento mori | 死亡纪念（拉丁语："remember you must die"） | not so much a memento mori |
 | memento vitae | 生命纪念（Warren 虚构：remember life） | but a memento vitae, if you will |
-| ornamental hermit | 装饰性隐士（18 世纪英国庄园雇用的"隐士"） | Uncle Hermit (ornamental hermit) |
+| ornamental hermit | 装饰性隐士（18 世纪英国庄园雇用的"隐士"） | was something called an ornamental hermit, contracted to live in the garden |
 | absorption | 吸收、融入（死亡后灵魂融入墙壁/物体） | death is absorption |
 | still life | 静物画（Warren 双关：still = 静止/死亡） | Still Life by Sarah De'ath |
 | memento vitae | 生命纪念 | memento vitae |
@@ -93,8 +93,8 @@
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| hermitage | 隐士居所、隐修院 | Uncle Hermit's hermitage |
-| absorption | 吸收 | soul absorbed into walls/objects |
+| hermitage | 隐士居所、隐修院 | And there was the hermitage. You could see its stonework through the |
+| absorption | 吸收 | I hung my art there and the progression |
 | still life | 静物画 | Still Life by Sarah De'ath |
 | ornamental hermit | 装饰性隐士 | ornamental hermit |
 | greasiness | 油腻、滑腻（grief 的物理质感） | there's a griefy film over everything |

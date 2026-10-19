@@ -95,7 +95,7 @@
 | benediction | 祝福、赐福 | I spread my wings in benediction |
 | contralto | 女低音（声部） | my contralto celebrated for its depth |
 | puissance | 力量、威力（古语） | Would that I had the puissance to bless all the seas |
-| sublimated | 升华的、升华 | his voice pulsing, sublimated, through every one of those things |
+| sublimated | 升华的、升华 | hear Johnny’s voice pulsing, sublimated, through every one of those things. |
 | demesne | 领地、庄园（古语） | my tiny demesne was empty and still |
 | au courant | 时髦的、潮流的 | Carmilla was au courant and all the rage |
 

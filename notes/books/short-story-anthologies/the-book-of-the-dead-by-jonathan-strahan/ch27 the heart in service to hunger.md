@@ -98,7 +98,7 @@
 | salver | 银盘 | new silver salver |
 | corset | 胸衣 | twenty-four lengths of whalebone |
 | weevils | 象鼻虫、米虫 | weevils, their brown bodies |
-| malingering | 装病、偷懒 | this ridiculous malingering |
+| malingering | 装病、偷懒 | of there at once. I have had enough of this malingering; do |
 
 ### ⭐ 基础
 

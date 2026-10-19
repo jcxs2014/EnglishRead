@@ -84,8 +84,8 @@
 |---|---|---|
 | phantom | 幽灵的、幻影的 | passing all the phantom cars with no people inside |
 | debauchery | 放荡、 libertinage | potluck of debauchery |
-| existential | 存在主义的、存在的 | existential calculus |
-| theodicy | 神义论（为上帝辩护） | Turnbull's critique of theodicy |
+| phantom | 幻影车（循环里重复行驶的空车） | lanes, passing all the phantom cars with no people inside. Come by |
+| potluck | 百乐餐（各人自带食物的聚会） | the last minute, a potluck of debauchery. So far I hadn’t witnessed |
 | metamorphosis | 变形、蜕变 | Slow metamorphosis, transformation by inches |
 | elusive | 难以捉摸的、逃避的 | the elusive project called heaven |
 

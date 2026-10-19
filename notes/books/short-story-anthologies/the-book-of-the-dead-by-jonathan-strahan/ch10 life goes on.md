@@ -95,7 +95,7 @@
 |---|---|---|
 | mitigate | 缓和、减轻 | once all relevant mitigating factors have been taken into account |
 | carrion | 腐肉、死尸 | nothing's left except carrion |
-| immutable | 不可改变的、永恒的 | The Dale is essentially timeless |
+| cantankerous | 脾气坏的、爱与人争的 | point out, was a cantankerous sort of man, even by Dale standards. |
 | cantankerous | 脾气暴躁的、爱争吵的 | my father, let me point out, was a cantankerous sort of man |
 | reacclimatized | 重新适应气候的 | I was beginning to get reacclimatized |
 

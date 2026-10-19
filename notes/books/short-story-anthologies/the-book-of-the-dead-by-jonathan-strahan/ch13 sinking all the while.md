@@ -22,9 +22,9 @@
 
 - **关键词**：didn't kill him / fell / accustomed to blame / toward the center
 
-- **为什么这样写**：Mohamed gives canal agency and voice—water as active participant, not passive setting. "Toward the center" = canal's cosmology (water pulls toward center of things, not down). "Accustomed to blame" = canal is blamed for deaths (bodies found in water), but canal claims innocence. This is the story's first perspective: death as environmental, not personal.
+- **为什么这样写**：这是 Mohamed gives canal agency and voice—water as active participant, not passive setting. "Toward the center" = canal's cosmology (water pulls toward center of things, not down). "Accustomed to blame" = canal is blamed for deaths (bodies found in water), but canal claims innocence. This is the story's first perspective: death as environmental, not personal.
 
-- **读者视角提示**：Mohamed's canal is sentient—first-person plural, defensive, poetic. "Toward" vs. "down" = canal's alternative geometry.
+- **读者视角提示**：这是 Mohamed's canal is sentient—first-person plural, defensive, poetic. "Toward" vs. "down" = canal's alternative geometry.
 
 > **原句 2:** "You cannot cut water; we think he still tried. The scabbard on his belt was empty. His hand clutched a knife."
 
@@ -32,7 +32,7 @@
 
 - **关键词**：cannot cut water / scabbard empty / hand clutched a knife
 
-- **为什么这样写**：Mohamed uses "cannot cut water" as metaphor—Bartram (wizard, violent, arrogant) tries to fight water with violence, fails. Water is invulnerable to his methods. "Empty scabbard" + "clutched knife" = he died fighting, not accepting. This contrasts with the canal's embrace ("Like a lover, entered him, tenderly"). Death as embrace vs. resistance.
+- **为什么这样写**：这是 Mohamed uses "cannot cut water" as metaphor—Bartram (wizard, violent, arrogant) tries to fight water with violence, fails. Water is invulnerable to his methods. "Empty scabbard" + "clutched knife" = he died fighting, not accepting. This contrasts with the canal's embrace ("Like a lover, entered him, tenderly"). Death as embrace vs. resistance.
 
 - **读者视角提示**：scabbard = 剑鞘；clutched = 紧握。Mohamed's "cannot cut water" = violence useless against death/water.
 
@@ -42,7 +42,7 @@
 
 - **关键词**：not the torturer / only deliver souls / torturers
 
-- **为什么这样写**：Mohamed's death is female, rides fox (not horse), speaks plainly. "Not the torturer" = death is not punishment; she delivers to punishers (elsewhere). This reframes death as neutral transport, not judgment. "Only" = limited agency—she can't change outcome, only deliver. This contrasts with Bartram's arrogance (thinks he's important) and Judeth's relief (death frees her).
+- **为什么这样写**：这是 Mohamed's death is female, rides fox (not horse), speaks plainly. "Not the torturer" = death is not punishment; she delivers to punishers (elsewhere). This reframes death as neutral transport, not judgment. "Only" = limited agency—she can't change outcome, only deliver. This contrasts with Bartram's arrogance (thinks he's important) and Judeth's relief (death frees her).
 
 - **读者视角提示**：psychopomp = 引魂者；Mohamed's is female, rides fox (black and silver), speaks plainly. "Torturers" = afterlife punishers (not her).
 
@@ -52,9 +52,9 @@
 
 - **关键词**：carry none of that / only what you had within you / learning, memory, love, grief
 
-- **为什么这样写**：Mohamed's afterlife is minimalist—only internal qualities survive. "Love and grief" are the final possessions. This is Mohamed's thesis: death strips away material, leaves only what's internal. Bartram (obsessed with gold, crystal, status) loses everything; his "love and grief" are his only baggage. Ironically, his daughters' grief (love/hate) is what he carries.
+- **为什么这样写**：这是 Mohamed's afterlife is minimalist—only internal qualities survive. "Love and grief" are the final possessions. This is Mohamed's thesis: death strips away material, leaves only what's internal. Bartram (obsessed with gold, crystal, status) loses everything; his "love and grief" are his only baggage. Ironically, his daughters' grief (love/hate) is what he carries.
 
-- **读者视角提示**：Mohamed's afterlife = "learning, memory, love, grief"—no material. Bartram's possessions are irrelevant.
+- **读者视角提示**：这是 Mohamed's afterlife = "learning, memory, love, grief"—no material. Bartram's possessions are irrelevant.
 
 > **原句 5:** "I hope so. I damn myself by saying so. But I ache with hope—I feel it within myself like a cramp."
 
@@ -62,9 +62,9 @@
 
 - **关键词**：I hope so / damn myself / ache with hope / like a cramp
 
-- **为什么这样写**：Mohamed's Judeth hopes for Philippa's revenge—complex emotion (hope for murder). "Damn myself" = moral awareness; "ache with hope like a cramp" = hope as physical sensation. This is Mohamed's thesis: abuse survivors hope for the abuser's death, and this hope is both relief and damnation. Judeth's "I hope so" is her freedom.
+- **为什么这样写**：这是 Mohamed's Judeth hopes for Philippa's revenge—complex emotion (hope for murder). "Damn myself" = moral awareness; "ache with hope like a cramp" = hope as physical sensation. This is Mohamed's thesis: abuse survivors hope for the abuser's death, and this hope is both relief and damnation. Judeth's "I hope so" is her freedom.
 
-- **读者视角提示**：Mohamed's Judeth is abuse survivor—hopes father was killed by sister. "Cramp" = hope as pain. Complex, not simple revenge.
+- **读者视角提示**：这是 Mohamed's Judeth is abuse survivor—hopes father was killed by sister. "Cramp" = hope as pain. Complex, not simple revenge.
 
 > **原句 6:** "Tears to wash the world in which I now live. The beautiful world. Or the world I can now see to be beautiful."
 
@@ -72,9 +72,9 @@
 
 - **关键词**：tears to wash the world / beautiful world / can now see to be beautiful
 
-- **为什么这样写**：Mohamed's ending is Judeth's liberation—father's death reveals world's beauty. "Tears to wash" = cleansing; "beautiful world" = freedom. "Can now see to be beautiful" = perception shifts with abuser's death. This is Mohamed's thesis: death (of abuser) as liberation; survival as seeing beauty. The sisters reunite, leave together.
+- **为什么这样写**：这是 Mohamed's ending is Judeth's liberation—father's death reveals world's beauty. "Tears to wash" = cleansing; "beautiful world" = freedom. "Can now see to be beautiful" = perception shifts with abuser's death. This is Mohamed's thesis: death (of abuser) as liberation; survival as seeing beauty. The sisters reunite, leave together.
 
-- **读者视角提示**：Mohamed's ending is hopeful—Judeth and Philippa leave together, Dux the dog. "Beautiful world" = freedom from abuse.
+- **读者视角提示**：这是 Mohamed's ending is hopeful—Judeth and Philippa leave together, Dux the dog. "Beautiful world" = freedom from abuse.
 
 ## 本章词汇
 
@@ -96,7 +96,7 @@
 | spasm | 痉挛、抽搐 | His movements were spasmodic, twitching without purpose |
 | taut | 紧绷的、拉紧的 | not taut with anger, distorted with screaming |
 | inert | 不活跃的、惰性的 | compress it into a piece of coal, dull and inert |
-| mottled | 斑驳的、花的 | his hair mottled and thready |
+| mottled | 斑驳的、花的 | hair. What remains is mottled and thready, like nettle-stock before it is |
 | scuffle | 扭打、混战 | the small, fresh marks of a fight or a scuffle |
 
 ### ⭐ 基础

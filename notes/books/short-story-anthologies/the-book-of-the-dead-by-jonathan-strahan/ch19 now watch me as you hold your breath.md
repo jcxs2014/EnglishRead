@@ -83,8 +83,8 @@
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | devouring excavation | 吞噬性挖掘（Aya 吃 vocalist 的过程） | It was a slow, devouring excavation |
-| complicity | 共谋、同谋 | narrator as witness/complicit |
-| predator | 捕食者、掠食者 | Aya as predator/monster |
+| corset | 束腰（紧身胸衣） | attached to Anna Sui-style corsets, lacy and violent. They were held upright |
+| Lolita | 洛丽塔（阿努托夫斯基笔下的少女符号） | wallpaper was a blue-haired Lolita. I was small and cute enough, I |
 | satiated | 满足的、吃饱的 | Aya looked unnerving when she was satiated |
 | gormlessly | 愚蠢地、呆滞地 | I'd stare kind of gormlessly at our professor |
 | nubile | 妖娆的、青春的 | lush, nubile 3D world |

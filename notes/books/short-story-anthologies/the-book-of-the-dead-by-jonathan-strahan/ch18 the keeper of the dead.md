@@ -94,7 +94,7 @@
 |---|---|---|
 | broods | 孵化、沉思、忧郁 | On the Shores of Midnight broods a lone tower |
 | waif | 流浪儿、孤女 | A waif of a child, skin stretched over fragile bones |
-| provenance | 来源、出处 | why his magic refused to work on her. And therein lay his conundrum... understand her provenance |
+| provenance | 来源、出处 | been here longer than a few hours. But she was dead. He |
 | lopsided | 不平衡的、歪斜的 | A man stands outside a lopsided bookshop |
 | indelible | 不可磨灭的、深刻的 | left an indelible mark on him |
 | crocodile leather | 鳄鱼皮 | emerald crocodile leather-bound book |

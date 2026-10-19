@@ -77,7 +77,7 @@
 | in absentia | 缺席审判、缺席宣布 | declared dead in absentia |
 | disintegrated | 解体、瓦解 | parental revenants disintegrated |
 | homeopathic dilution |顺势疗法稀释 | Duygul has been doing wonderful work experimenting with homeopathic dilution techniques |
-| proximate cause | 近因、直接原因 | idle revenants wandering... is the proximate cause of all the troubles |
+| proximate cause | 近因、直接原因 | Similarly, I have heard a few reports from other |
 
 ### ⭐⭐ 进阶
 

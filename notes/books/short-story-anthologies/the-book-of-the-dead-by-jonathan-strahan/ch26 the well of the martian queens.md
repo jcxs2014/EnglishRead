@@ -78,7 +78,7 @@
 | obsequies | 葬礼 | obsequies fulfilled |
 | vertigo | 眩晕 | height vertigo |
 | hypostyle | 列柱式的（建筑） | hypostyle hall |
-| sarcophagus | 石棺、棺椁 | (not in text) |
+| embalming | 防腐处理（遗体防腐） | abdomen. The quality of embalming, and hence the current state of preservation, |
 
 ### ⭐ 基础
 

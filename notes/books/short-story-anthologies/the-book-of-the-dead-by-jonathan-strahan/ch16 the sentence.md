@@ -24,7 +24,7 @@
 
 - **为什么这样写**：Tremblay 用 "fire" 作 metaphor for crisis—COVID, political, social. "Continues to burn" = crisis is ongoing, not resolved. This establishes the story's tone: apocalyptic present. The narrator's "obviously" = resigned acceptance. This is the story's backdrop: death in a burning world.
 
-- **读者视角提示**：Tremblay's "fire" = COVID-19 pandemic + social unrest. "Continues to burn" = crisis persists.
+- **读者视角提示**：这是 Tremblay's "fire" = COVID-19 pandemic + social unrest. "Continues to burn" = crisis persists.
 
 > **原句 2:** "my brain left me here, in Schrödinger’s room, or some shit like that"
 
@@ -32,7 +32,7 @@
 
 - **关键词**：Schrödinger's room / my brain left me here
 
-- **为什么这样写**：Tremblay uses Schrödinger's cat (superposition: alive/dead simultaneously) as metaphor for dying state—narrator is both alive and dead, trapped in "room" (final moments). "My brain left me here" = consciousness persists; "or some shit like that" = narrator's voice (profane, uncertain). This is the story's central image: death as quantum trap.
+- **为什么这样写**：这是 Tremblay uses Schrödinger's cat (superposition: alive/dead simultaneously) as metaphor for dying state—narrator is both alive and dead, trapped in "room" (final moments). "My brain left me here" = consciousness persists; "or some shit like that" = narrator's voice (profane, uncertain). This is the story's central image: death as quantum trap.
 
 - **读者视角提示**：Schrödinger's cat = 量子力学思想实验（猫同时 alive/dead）；Tremblay applies to dying consciousness. "Schrödinger's room" = narrator's trap.
 
@@ -42,7 +42,7 @@
 
 - **关键词**：infinite halving of time / final seconds on earth
 
-- **为什么这样写**：Tremblay uses Zeno's paradox (infinite subdivision) as metaphor for dying—final seconds never end. "Infinite halving" = time becomes fractal, unending. This is the story's horror: death is not moment but eternity. "Final seconds on earth" = narrator is stuck in last moments forever.
+- **为什么这样写**：这是 Tremblay uses Zeno's paradox (infinite subdivision) as metaphor for dying—final seconds never end. "Infinite halving" = time becomes fractal, unending. This is the story's horror: death is not moment but eternity. "Final seconds on earth" = narrator is stuck in last moments forever.
 
 - **读者视角提示**：Zeno's paradox = 芝诺悖论（无限细分，永远不到终点）。Tremblay's "infinite halving" = dying as eternal present.
 
@@ -52,7 +52,7 @@
 
 - **关键词**：three-headed dog Cerberus / guarded the underworld / someone took its place and set it free
 
-- **为什么这样写**：Tremblay uses Cerberus (underworld guardian) as metaphor for narrator's death trap—someone must take his place. "Until someone took its place and set it free" = narrator's hope: death is not permanent if someone else takes your place. This is the story's thesis: death as swap, not end. "Set it free" = liberation through replacement.
+- **为什么这样写**：这是 Tremblay uses Cerberus (underworld guardian) as metaphor for narrator's death trap—someone must take his place. "Until someone took its place and set it free" = narrator's hope: death is not permanent if someone else takes your place. This is the story's thesis: death as swap, not end. "Set it free" = liberation through replacement.
 
 - **读者视角提示**：Cerberus = 希腊神话三头犬（守护冥界）; "took its place and set it free" = Heracles took Cerberus's place? (myth variant). Tremblay's hope: replacement frees.
 
@@ -62,9 +62,9 @@
 
 - **关键词**：train my dying/dead brain / make it believe / truly believe / someone else / there will be you
 
-- **为什么这样写**：Tremblay's "train" = narrator attempts to manufacture hope. "Dying/dead brain" = narrator is already dead but conscious. "Truly believe" = faith as effort, not revelation. "Someone else/you" = narrator's projection—creating a successor who will take his place. This is the story's thesis: hope as delusion, death as self-perpetuating trap.
+- **为什么这样写**：这是 Tremblay's "train" = narrator attempts to manufacture hope. "Dying/dead brain" = narrator is already dead but conscious. "Truly believe" = faith as effort, not revelation. "Someone else/you" = narrator's projection—creating a successor who will take his place. This is the story's thesis: hope as delusion, death as self-perpetuating trap.
 
-- **读者视角提示**：Tremblay's "train" = narrator's attempt to manufacture hope. "You" = the reader/successor who will take his place.
+- **读者视角提示**：这是 Tremblay's "train" = narrator's attempt to manufacture hope. "You" = the reader/successor who will take his place.
 
 > **原句 6:** "there will be a swap, you’ll take my place, my sentence will be over, and, then, yours will be just beginning."
 
@@ -72,9 +72,9 @@
 
 - **关键词**：swap / take my place / my sentence will be over / yours will be just beginning
 
-- **为什么这样写**：Tremblay's "swap" = death's perpetuation—someone must always be trapped. "My sentence will be over" = death as prison sentence (punishment). "Yours will be just beginning" = the trap transfers, doesn't end. This is the story's thesis: death is not end but transfer; hope (swap) is delusion. The narrator's "hope" is actually damning another. The ending is the story's horror: death perpetuates itself.
+- **为什么这样写**：这是 Tremblay's "swap" = death's perpetuation—someone must always be trapped. "My sentence will be over" = death as prison sentence (punishment). "Yours will be just beginning" = the trap transfers, doesn't end. This is the story's thesis: death is not end but transfer; hope (swap) is delusion. The narrator's "hope" is actually damning another. The ending is the story's horror: death perpetuates itself.
 
-- **读者视角提示**：Tremblay's "sentence" = double meaning (prison sentence/death sentence). "Swap" = death's transfer, not liberation. The narrator's hope is actually curse.
+- **读者视角提示**：这是 Tremblay's "sentence" = double meaning (prison sentence/death sentence). "Swap" = death's transfer, not liberation. The narrator's hope is actually curse.
 
 ## 本章词汇
 
@@ -86,7 +86,7 @@
 | infinite halving | 无限细分（芝诺悖论） | this infinite halving of time |
 | insidious | 阴险的、潜伏的 | that's the insidious part |
 | conjuring | 召唤、变戏法 | do the conjuring thing |
-| superposition | 叠加态（量子力学） | alive/dead simultaneously |
+| conjuring | 召唤、施法（也含「变戏法」之意） | room, but it really wasn’t about conjuring the room itself, it was more about the |
 | eternal | 永恒的、不朽的 | my sentence will be over |
 
 ### ⭐⭐ 进阶
@@ -96,7 +96,7 @@
 | fledgling | 初出茅庐的、新生的 | our fledgling relationship |
 | crucible | 熔炉、严峻考验 | intensified by the crucible of the pandemic's early months |
 | quarantine | 隔离、检疫 | our cramped apartment quarantines |
-| parlor tricks | 客厅魔术、小把戏 | parlor tricks, mirrors and lights |
+| halving | 对半切分（魔术里的分割手法） | sort of like the idea of halving a second, then halving a half second, and |
 | bull's-eye | 靶心、正中目标 | isn't exactly a bull's-eye |
 
 ### ⭐ 基础

@@ -83,9 +83,9 @@
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | interstate | 州际公路 | Down the Interstate |
-| purgatory | 炼狱（死亡的中间状态） | fog as purgatory |
-| redemption | 救赎、赎回 | Somebody paid for you |
-| grace | 恩典、恩惠 | grace received, not earned |
+| interchange | 互通立交 | onto a long concrete interchange that hadn’t been signposted anywhere. Without his |
+| toll | 通行费 | “What’s the toll?” |
+| grace | 恩典、恩惠 | fog. One by one, graceless as hippos, cars merged left. This slowed |
 | chauvinist | 沙文主义者 | chauvinist pig |
 | alimony | 赡养费 | Cindie had fled without asking for alimony |
 
@@ -97,7 +97,7 @@
 | toll | 通行费、过路费 | ALL VEHICLES $2.75 |
 | turnpike | 收费公路 | turnpike |
 | rearview mirror | 后视镜 | glimmered in his rearview mirror |
-| oblivious | 无意识的、未察觉的 | (not in text) |
+| fog | 浓雾 | Brown watched the thick fog that lidded the interstate gather in a |
 
 ### ⭐ 基础
 

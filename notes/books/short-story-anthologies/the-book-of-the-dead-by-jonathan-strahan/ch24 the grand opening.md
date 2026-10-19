@@ -74,18 +74,18 @@
 |---|---|---|
 | trapdoor | 陷阱门、暗门 | hatch isn't the right word, quite. Trapdoor? |
 | schedule | 时间表、进度表 | The new resident is here, right on schedule |
-| crematory | 火葬场的 | (not in text) |
-| superintendent | 监工、主管 | Floyd as supervisor |
+| foundations | 地基 | clowns who pour the foundations. Well, really, it’s the clay that goes |
+| ramrod | 验收员（专管质量检查的人） | as none of the ramrods are looking over your shoulder, doing their |
 | possum | 装死、假装 | Floyd's playing possum in there |
-| insidious | 阴险的、潜伏的 | (not in text) |
+| supervisor | 监工 | and on. If the supervisor doesn’t see it, though? If the incoming |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| baseboard | 踢脚板、墙裙 | getting a baseboard level |
+| baseboard | 踢脚板、墙裙 | who’s trying to get a baseboard level on a floor that most |
 | thermos | 保温瓶 | drinking from their thermoses |
-| Sheetrock | 石膏板 | registers anchor into studs, not just Sheetrock |
+| Sheetrock | 石膏板 | into studs, not just Sheetrock, and on and on. If the supervisor |
 | ramrod | 监工、工头 | none of the ramrods are looking over your shoulder |
 | possum | 装死 | Floyd's playing possum |
 

@@ -22,9 +22,9 @@
 
 - **关键词**：For every call / there is a response
 
-- **为什么这样写**：Talabi uses "For every call, there is a response" as the story's broken axiom—ancestors always respond, until they don't. Bisi's silence violates this. Ireti repeats it to encourage himself ("we have spoken, we continue to listen"). The repetition emphasizes the promise's failure. This is the story's central tension: the axiom breaks.
+- **为什么这样写**：这是 Talabi uses "For every call, there is a response" as the story's broken axiom—ancestors always respond, until they don't. Bisi's silence violates this. Ireti repeats it to encourage himself ("we have spoken, we continue to listen"). The repetition emphasizes the promise's failure. This is the story's central tension: the axiom breaks.
 
-- **读者视角提示**：ìdáwò = Yoruba divination consultation; Babaláwo = priest/diviner. "For every call, there is a response" = ancient ritual words. Talabi's breaking of this axiom = crisis.
+- **读者视角提示**：这是 ìdáwò = Yoruba divination consultation; Babaláwo = priest/diviner. "For every call, there is a response" = ancient ritual words. Talabi's breaking of this axiom = crisis.
 
 > **原句 2:** "Spirits are never destroyed; they only change form. Death is nothing more than a transformation of spirit information into higher order dimensions."
 
@@ -32,9 +32,9 @@
 
 - **关键词**：Spirits are never destroyed / only change form / Death is nothing more than a transformation / spirit information / higher order dimensions
 
-- **为什么这样写**：Talabi establishes the story's cosmology—spirits conserved (law of conservation of spirits), death as transformation. This is the "law" Bisi questions ("What if the law is wrong?"). Ireti's belief: death is information transfer, not destruction. The singularity violates this: spirits are being consumed/destroyed (or transferred to other universes). Talabi's thesis: the law holds at higher scale (multiverse), not individual universe.
+- **为什么这样写**：这是 Talabi establishes the story's cosmology—spirits conserved (law of conservation of spirits), death as transformation. This is the "law" Bisi questions ("What if the law is wrong?"). Ireti's belief: death is information transfer, not destruction. The singularity violates this: spirits are being consumed/destroyed (or transferred to other universes). Talabi's thesis: the law holds at higher scale (multiverse), not individual universe.
 
-- **读者视角提示**：Talabi's cosmology = Yoruba + quantum physics. "Conservation of spirits" = spirits never destroyed, only change form. Death = information transfer. The singularity = violation at individual universe scale.
+- **读者视角提示**：这是 Talabi's cosmology = Yoruba + quantum physics. "Conservation of spirits" = spirits never destroyed, only change form. Death = information transfer. The singularity = violation at individual universe scale.
 
 > **原句 3:** "What if the law is wrong?"
 
@@ -42,9 +42,9 @@
 
 - **关键词**：What if the law is wrong
 
-- **为什么这样写**：Talabi uses Bisi's question as the story's catalyst—Ireti dismisses it, but her death and the spreading silence force him to consider it. "What if the law is wrong?" = what if spirits ARE being destroyed? The answer: the law holds at multiverse scale, not individual universe. Spirits transfer between universes. Bisi's question is the story's central inquiry.
+- **为什么这样写**：这是 Talabi uses Bisi's question as the story's catalyst—Ireti dismisses it, but her death and the spreading silence force him to consider it. "What if the law is wrong?" = what if spirits ARE being destroyed? The answer: the law holds at multiverse scale, not individual universe. Spirits transfer between universes. Bisi's question is the story's central inquiry.
 
-- **读者视角提示**：Talabi's "law is wrong" = spirits destroyed? No—they transfer between universes. The law holds at higher scale.
+- **读者视角提示**：这是 Talabi's "law is wrong" = spirits destroyed? No—they transfer between universes. The law holds at higher scale.
 
 > **原句 4:** "I am going to unfold my spirit to higher order dimensionality."
 
@@ -52,9 +52,9 @@
 
 - **关键词**：unfold my spirit / higher order dimensionality
 
-- **为什么这样写**：Talabi uses "unfold" (not "die") to describe death—death as expansion, not ending. "Higher order dimensionality" = afterlife as higher-dimensional space. Ireti's voluntary death is scientific sacrifice. This is Talabi's thesis: death can be chosen for knowledge, not just suffered.
+- **为什么这样写**：这是 Talabi uses "unfold" (not "die") to describe death—death as expansion, not ending. "Higher order dimensionality" = afterlife as higher-dimensional space. Ireti's voluntary death is scientific sacrifice. This is Talabi's thesis: death can be chosen for knowledge, not just suffered.
 
-- **读者视角提示**：Talabi's "unfold" = death as expansion. Ireti's death is scientific sacrifice, not despair (contrast Bisi's suicide).
+- **读者视角提示**：这是 Talabi's "unfold" = death as expansion. Ireti's death is scientific sacrifice, not despair (contrast Bisi's suicide).
 
 > **原句 5:** "It was alive. It was conscious. It was growing."
 
@@ -62,9 +62,9 @@
 
 - **关键词**：alive / conscious / growing
 
-- **为什么这样写**：Talabi uses three short sentences to build revelation—alive (biological), conscious (mental), growing (developmental). The singularity is a living entity, not mechanical process. "Growing" = it's expanding, consuming more spirits. This is the story's horror: death's mechanism is alive and hungry. But also wonder: it's a "perpetual god machine," transferring spirits between universes.
+- **为什么这样写**：这是 Talabi uses three short sentences to build revelation—alive (biological), conscious (mental), growing (developmental). The singularity is a living entity, not mechanical process. "Growing" = it's expanding, consuming more spirits. This is the story's horror: death's mechanism is alive and hungry. But also wonder: it's a "perpetual god machine," transferring spirits between universes.
 
-- **读者视角提示**：Talabi's singularity = living entity (perpetual god machine). "Growing" = expanding consumption. Death as alive process.
+- **读者视角提示**：这是 Talabi's singularity = living entity (perpetual god machine). "Growing" = expanding consumption. Death as alive process.
 
 > **原句 6:** "perpetual god machines"
 
@@ -72,9 +72,9 @@
 
 - **关键词**：perpetual god machines
 
-- **为什么这样写**：Talabi's "perpetual god machines" = singularity as living portal between universes. "Perpetual" = eternal function; "god machines" = entities that serve as universe-connecting infrastructure. They are "neurons in the mind of the god"—spirits transferred between universes like neural signals. This is Talabi's thesis: death is transfer between universes, mediated by living machines. "Egún Akọkọ" = first ancestor = the sum of all spirits.
+- **为什么这样写**：这是 Talabi's "perpetual god machines" = singularity as living portal between universes. "Perpetual" = eternal function; "god machines" = entities that serve as universe-connecting infrastructure. They are "neurons in the mind of the god"—spirits transferred between universes like neural signals. This is Talabi's thesis: death is transfer between universes, mediated by living machines. "Egún Akọkọ" = first ancestor = the sum of all spirits.
 
-- **读者视角提示**：Talabi's "perpetual god machines" = living portals between universes. Spirits transferred like neurons in god's mind. Death as interdimensional transfer.
+- **读者视角提示**：这是 Talabi's "perpetual god machines" = living portals between universes. Spirits transferred like neurons in god's mind. Death as interdimensional transfer.
 
 ## 本章词汇
 
@@ -82,7 +82,7 @@
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| Babaláwo | 巴巴拉沃（Yoruba 祭司/占卜师） | I, Tituli Ched, serve as coroner → Ireti as Babaláwo |
+| Babaláwo | 巴巴拉沃（Yoruba 祭司/占卜师） | ìdáwòs from the other Babaláwos and cross-referenced them against mine—checking everything from |
 | ìdáwò | 伊达沃（Yoruba 占卜咨询） | I hardly ever took ìdáwò requests anymore |
 | Orun | 奥伦（Yoruba 精神世界/祖先居所） | Our people have always said there was no heaven or hell. Only Orun. |
 | Egún Akọkọ | 埃贡·阿科科（Yoruba：第一祖先/所有精神的总和） | Egún Akọkọ. The only way to cross the membranes between universes. |
@@ -96,8 +96,8 @@
 | singularity | 奇点（物理/数学概念） | a subatomic spiritual singularity |
 | multidimensional | 多维的 | multidimensional vibration of captive boson strings |
 | entropy | 熵（热力学） | The energy loss associated with the unfolding of the spirit |
-| reincarnation | 转世、轮回 | they would come back, reincarnated, without true memory |
-| psychopomp | 引魂者 | Was this how all of us arrived... without as much as a psychopomp |
+| divination | 占卜、卜筮 | spent on client-facing practical divination, lest our skills ossify, and we lose |
+| psychopomp | 引魂者 | as much as a psychopomp to soften the blow to our minds? |
 | tethered | 系绳的、连接的 | conduct a tethered ìdáwò |
 
 ### ⭐ 基础

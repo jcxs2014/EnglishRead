@@ -95,8 +95,8 @@
 |---|---|---|
 | bindis | 刺草籽（澳洲） | Doesn't feel the bindis or sharp cutting little stones |
 | dubbin | 靴油、靴蜡 | smell of dubbin wax |
-| gout | 痛风 | (not in text) |
-| charlatan | 江湖骗子 | (not in text) |
+| kelpies | 凯尔派（神话里好叫的恶犬） | remain untended. Outside the kelpies have mostly given up barking their upset |
+| digestion | 消化 | Just his digestion was a bit tricky, so a few sandwiches sat better in his stomach. |
 | passivity | 被动性、顺从 | passivity; it's habit |
 | alchemical | 炼金术的、化学的 | An alchemical reaction morphing ordinary dislike into pure golden hatred |
 

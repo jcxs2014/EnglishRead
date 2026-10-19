@@ -93,9 +93,9 @@
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| exorcist | 驱魔师、招魂师 | Woojin as exorcist artist |
+| exorcist | 驱魔师、招魂师 | why, outside of his exorcist work, Woojin’s art was abstract. No representation |
 | portrait | 肖像、画像 | ghost portrait |
-| possession | 附身、附体 | Ms. Young possessed Woojin |
+| crematory | 焚化用的（火葬所用） | rice paper and a crematory ash inkstick are infinitely more portable |
 | verisimilitude | 逼真度 | verisimilitude |
 | verisimilitude | 真实感 | verisimilitude |
 

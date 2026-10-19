@@ -32,7 +32,7 @@
 
 - **关键词**：Romero / no more room in hell / dead will walk the earth
 
-- **为什么这样写**：Ford uses Romero's zombie quote to frame afterlife overcrowding as comic problem—not apocalyptic, just logistical. "Same for heaven" inverts the horror: heaven has the same space crisis as hell. This sets the story's tone: afterlife as bureaucratic system with tech problems. The angel's explanation ("celestial Best Buy for a portable hard drive") extends the comedy.
+- **为什么这样写**：Ford 用 Romero's zombie quote to frame afterlife overcrowding as comic problem—not apocalyptic, just logistical。"Same for heaven" inverts the horror：heaven has the same space crisis as hell。This sets the story's tone：afterlife as bureaucratic system with tech problems。The angel's explanation ("celestial Best Buy for a portable hard drive") extends the comedy。
 
 - **读者视角提示**：George A. Romero = 僵尸电影之父（《Night of the Living Dead》等）；"When there's no more room in hell, the dead will walk the earth" = 《Dawn of the Dead》(1978) 的 tagline。Ford uses this pop-culture reference to frame afterlife as zombie-movie logistics.
 
@@ -42,7 +42,7 @@
 
 - **关键词**：fresh body / trick knee / bad back / bald head
 
-- **为什么这样写**：Ford's comedy comes from heaven's mundane imperfections—no idealization, just "you were you." This undercuts traditional afterlife fantasies (perfect bodies in paradise). The detail about car accident victims being "patched up" adds grotesque comedy. Bidi's growth on her leg persists—pets aren't perfected either. This creates a heaven that's more like a retirement community than paradise.
+- **为什么这样写**：Ford 的 comedy comes from heaven's mundane imperfections—no idealization, just "you were you"。This undercuts traditional afterlife fantasies (perfect bodies in paradise)。The detail about car accident victims being "patched up" adds grotesque comedy。Bidi's growth on her leg persists—pets aren't perfected either。This creates a heaven that's more like a retirement community than paradise。
 
 - **读者视角提示**：trick knee = 坏膝盖（容易受伤的膝盖）；"That was that" = 就这样/没得选。Ford's afterlife is deliberately un-idealized.
 
@@ -52,7 +52,7 @@
 
 - **关键词**：knew this whole enterprise / can't put one over / Almighty
 
-- **为什么这样写**：Ford plays with predestination vs. free will—God knows everything, but angel can still help. "Like last month some time" trivializes divine foreknowledge. Athenial's rebellion (stealing time from moon's orbit) is a minor angelic crime, not cosmic rebellion. This is Ford's comic theology: God is powerful but not micromanaging; angels have autonomy.
+- **为什么这样写**：Ford 玩 predestination vs. free will—God knows everything, but angel can still help。"Like last month some time" trivializes divine foreknowledge。Athenial's rebellion (stealing time from moon's orbit) is a minor angelic crime, not cosmic rebellion。This is Ford's comic theology：God is powerful but not micromanaging; angels have autonomy。
 
 - **读者视角提示**：enterprise = 事业/计划；omniscient = 全知的；"can't put one over on" = 骗不过/蒙不过。Athenial's time theft is the story's clever mechanism for enabling the plot.
 
@@ -62,7 +62,7 @@
 
 - **关键词**：every soul's afterlife exists in their own image / dopey husband / message for you
 
-- **为什么这样写**：This is Ford's central thesis: afterlife is personalized, not standardized. Athenial sends message through Ivy: "every soul's afterlife exists in their own image" = identity persists beyond death, afterlife reflects who you are. Purgatory for Stu is snowy mountain (he likes), for Ivy is garden (she likes). This contrasts with heaven's bureaucratic sameness (everyone gets same flawed body). Purgatory's personalization is actually more "heavenly" than heaven. "dopey husband" = Athenial's affectionate teasing of Stu.
+- **为什么这样写**：这是 Ford's central thesis: afterlife is personalized, not standardized. Athenial sends message through Ivy: "every soul's afterlife exists in their own image" = identity persists beyond death, afterlife reflects who you are. Purgatory for Stu is snowy mountain (he likes), for Ivy is garden (she likes). This contrasts with heaven's bureaucratic sameness (everyone gets same flawed body). Purgatory's personalization is actually more "heavenly" than heaven. "dopey husband" = Athenial's affectionate teasing of Stu.
 
 - **读者视角提示**：in one's own image = 按自己的形象/本性；Purgatory = 炼狱（天主教概念，介于 heaven 和 hell 之间的净化之地）；"beauty of it" = 它的 beauty/美。Ford's Purgatory is not punishment but personalized afterlife.
 
@@ -72,7 +72,7 @@
 
 - **关键词**：Found you / laughed and wept / scarf / goggles
 
-- **为什么这样写**：Ford's restraint here is powerful—after 8000 words of comic adventure, the reunion is understated. "Found you" = Ivy's arrival in Purgatory (she died and found him). "Stu laughed and wept at the same time" = emotional payoff. Bidi's tail wagging = dog's joy. This contrasts with the story's comic excess (Athenial's time theft, God's omniscience, bureaucratic heaven). The final image: Stu writes in Purgatory ("new stories" become possible again in Purgatory, not heaven). Ivy's afterlife is personalized (she found him)—"every soul's afterlife exists in their own image."
+- **为什么这样写**：Ford 的 restraint here is powerful—after 8000 words of comic adventure, the reunion is understated。"Found you" = Ivy's arrival in Purgatory (she died and found him)。"Stu laughed and wept at the same time" = emotional payoff。Bidi's tail wagging = dog's joy。This contrasts with the story's comic excess (Athenial's time theft, God's omniscience, bureaucratic heaven)。The final image：Stu writes in Purgatory ("new stories" become possible again in Purgatory, not heaven)。Ivy's afterlife is personalized (she found him)—"every soul's afterlife exists in their own image."
 
 - **读者视角提示**：porch = 门廊/走廊；Purgatory = 炼狱（天主教概念）。Ford's ending suggests Purgatory is actually better than heaven—personalized, creative, loving.
 

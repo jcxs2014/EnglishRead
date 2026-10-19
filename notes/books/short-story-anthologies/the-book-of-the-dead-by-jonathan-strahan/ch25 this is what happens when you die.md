@@ -97,8 +97,8 @@
 | zinzolin | 兹因佐林 | zinzolin culture |
 | Elytra | 伊莱特拉 | Elytrial doctrines |
 | ponask | ponask（Elytra 的器官） | the ponask bongs out |
-| fractal | 分形的、碎形的 | iridescent fractal pattern |
-| verisimilitude | 逼真度 | (not in text) |
+| lunarium | 月室（死后世界里那间核心房间） | things because of the lunarium. That is where I learned about the |
+| contraction | 收缩 | It is the limit that triggers contraction and expansion. |
 
 ### ⭐ 基础
 

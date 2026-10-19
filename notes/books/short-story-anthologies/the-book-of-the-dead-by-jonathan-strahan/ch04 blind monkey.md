@@ -13,9 +13,9 @@
 
 > **原句 1:** "The macaque didn’t know what was going to happen next. This ignorance was a gift, the lab tech thought—for the monkey, yes, but also for him."
 
-- **中文理解**：macaque 不知道接下来会发生什么。这份无知是一份礼物——对猴子 yes，对他也是。 Gregory 用 "ignorance was a gift" 建立 story 的 moral framework：ignorance = protection from suffering；knowledge = burden. Lab tech 自己也 benefits from not knowing (or pretending not to know) the full implications.
+- **中文理解**：macaque 不知道接下来会发生什么。这份无知是一份礼物——对猴子 yes，对他也是。 Gregory 用 "ignorance was a gift" 建立 story 的 moral framework：无知 = protection from suffering；知识 = burden。Lab tech 自己也 benefits from not knowing (or pretending not to know) the full implications。
 - **关键词**：ignorance / gift / didn't know
-- **为什么这样写**：Opening sentence establishes the story's central irony—"ignorance was a gift" will be inverted by the ending ("He knew what was going to happen next. The knowledge was a gift."). The macaque's ignorance protects her from fear; the lab tech's growing knowledge (shared visual data) becomes his burden. Gregory uses parallel structure (opening/ending) to create circular narrative. "for the monkey, yes, but also for him" shows lab tech's self-awareness—he benefits from not knowing too.
+- **为什么这样写**：Opening sentence 建立 story 的 central irony——"ignorance was a gift" 将在 ending 被 invert（"He knew what was going to happen next. The knowledge was a gift."）。macaque 的 ignorance 保护她免于 fear；lab tech 不断增长的 knowledge（shared visual data）成为他的 burden。Gregory 用 parallel structure（opening/ending）创造 circular narrative。"for the monkey, yes, but also for him" 显示 lab tech 的 self-awareness——他也 benefit from not knowing too。
 - **读者视角提示**：macaque = 猕猴（rhesus macaque，实验动物）；X2 = 视觉芯片（fictional neural implant）；ketamine = 麻醉药；sodium pentobarbital = 安乐死药物。
 
 > **原句 2:** "He was not authorized to turn the device off."
@@ -29,36 +29,36 @@
 
 - **中文理解**：「她不知道，」他想。她是 data scientist，所有信息来自 Health and Condition reports。她知道 infection rates，能看到 death count，以为这告诉她所有需要知道的。data people 很少再进 AHR 了。他们不想面对 wet reality。 Gregory 用 "wet reality" 对比 "clean data"—data abstraction vs. bodily suffering.
 - **关键词**：wet reality / data people / reckon with
-- **为什么这样写**：This passage establishes the story's ethical critique: data abstraction (clean, numerical) vs. bodily reality (wet, messy, suffering). Martha represents the "data people" who believe numbers tell the whole story; lab tech represents "wet reality" (feces, urine, blood, death). "reckon with wet reality" is the story's moral demand—scientists must confront the physical suffering their data represents. The lab tech's growing disillusionment stems from this gap.
+- **为什么这样写**：This passage 建立 story 的 ethical critique：data abstraction（clean, numerical）vs. bodily reality（wet, messy, suffering）。Martha 代表 "data people"（相信 numbers tell the whole story）；lab tech 代表 "wet reality"（feces, urine, blood, death）。"reckon with wet reality" 是 story 的 moral demand——scientists must confront the physical suffering their data represents。lab tech 不断增长的 disillusionment 源于 this gap。
 - **读者视角提示**：wet reality = 湿的现实/血肉现实（与 clean data 对比）；Health and Condition reports = 健康状况报告（lab tech 的日常 paperwork）；AHR = Animal Housing Room（动物饲养室）。
 
 > **原句 4:** "The monkeys were learning from each other."
 
 - **中文理解**：「猴子们在互相学习。即使一只 macaque 被牺牲，它算法中最成功的 code 也会转发给其他动物。」X2 的 software 更新机制——dead monkeys' visual data 被 transferred to living ones. This is the story's horror core: death becomes learning opportunity.
 - **关键词**：learning from each other / forwarded / sacrificed
-- **为什么这样写**：Gregory reveals the X2's dark mechanism—death is data transfer. Dead monkeys' visual experience (including their death, including the lab tech's face as killer) becomes shared data. This explains the ending: "They know what I am"—monkeys recognize lab tech as the one who killed their predecessors. The word "sacrificed" is euphemistic; the story gradually replaces euphemism with reality.
+- **为什么这样写**：Gregory 揭示 X2 的 dark mechanism——death is data transfer。dead monkeys' visual experience（包括 their death、包括 lab tech's face as killer）成为 shared data。This explains the ending："They know what I am"——monkeys recognize lab tech as the one who killed their predecessors。"sacrificed" 一词是 euphemistic；story 逐渐用 reality 替代 euphemism。
 - **读者视角提示**：sacrificed = 牺牲（euphemism for killed）；algorithm = 算法；code = 代码（X2 的软件）。The X2 creates a collective visual memory across subjects.
 
 > **原句 5:** "They’re all through the feed," he said. "You must have seen them too."
 
 - **中文理解**：「它们遍布 feed。你肯定也看到了。」……「我一直以为人类是唯一知道自己会死的动物。但如果是我们教会了它们呢？」Lab tech 发现 "twin polygons"（hexagons = pairs of eyes/glasses) 在 replay feed 中反复出现——monkeys' brains have learned to recognize the lab tech's glasses as threat (because dead monkeys saw him as killer). "What if we've taught them?" 是 story's philosophical climax.
 - **关键词**：twin polygons / taught them / knew we were going to die
-- **为什么这样写**：The "twin polygons" are hexagons = lab tech's wire-rimmed glasses (two lenses). Monkeys' brains have learned to recognize this shape as threat because dead monkeys saw the lab tech (wearing glasses) before/while being killed. The X2 transfers this visual memory. "What if we've taught them?"—Gregory's thesis: humans have taught animals to know death, through shared suffering. This is the story's horror: not animal suffering itself, but animal awareness of suffering.
+- **为什么这样写**：The "twin polygons" 是 hexagons = lab tech's wire-rimmed glasses (two lenses)。monkeys' brains 已学会把 this shape 识别为 threat，因为 dead monkeys 在被 kill 前/时 saw lab tech（wearing glasses）。X2 transfers this visual memory。"What if we've taught them?"——Gregory's thesis：humans have taught animals to know death，through shared suffering。This is the story's horror：not animal suffering itself，but animal awareness of suffering。
 - **读者视角提示**：twin polygons = 双多边形（hexagons = 眼镜镜片形状）；feed = 数据流/视频流；amygdala = 杏仁核（情绪处理）；superior colliculus = 上丘（视觉-情绪通路）。
 
 > **原句 6:** "Carol screamed."
 
 - **中文理解**：Carol 尖叫，扑向 lab tech，咬他的脸。因为 X2 的 shared data，Carol (blind human) sees lab tech through dead monkeys' eyes—as the killer. She attacks him instinctively.
 - **关键词**：screamed / bit him / X2
-- **为什么这样写**：Carol's attack is the story's climax—shared visual data makes her perceive lab tech as threat. "She'd bit him" parallels animal behavior (Junebug biting). The human/animal boundary collapses: Carol becomes like the monkeys, attacking the killer. Gregory uses physical violence to show the consequence of shared death-memory.
-- **读者视角提示**：X2 = Carol's visual chip (human version of monkey X2); the bite is instinctive, not conscious—Carol doesn't know why she attacked.
+- **为什么这样写**：Carol's attack 是 story 的 climax——shared visual data 使她把 lab tech perceive 为 threat。"She'd bit him" parallels animal behavior (Junebug biting)。human/animal boundary collapses：Carol becomes like the monkeys，attacking the killer。Gregory 用 physical violence 展示 shared death-memory 的 consequence。
+- **读者视角提示**：X2 = Carol 的 visual chip（human version of monkey X2）；the bite is instinctive, not conscious——Carol doesn't know why she attacked。
 
 > **原句 7:** "He knew what was going to happen next. The knowledge was a gift."
 
 - **中文理解**：「他知道接下来会发生什么。这份知识是一份礼物。」Ending mirrors opening: "The macaque didn't know what was going to happen next. This ignorance was a gift." Now lab tech knows (he's opening cages, releasing animals) and "the knowledge was a gift." Inversion complete.
 - **关键词**：knew / knowledge was a gift
-- **为什么这样写**：Circular structure—opening's "ignorance was a gift" becomes ending's "knowledge was a gift." The lab tech now chooses knowledge (opening cages, whistleblowing) over ignorance (continuing the experiment). "He knew what was going to happen next" = he knows monkeys will attack him, but he does it anyway. The "gift" has transformed from protective ignorance to liberating knowledge. Gregory's ending is ambiguous: is this suicide, liberation, or redemption?
-- **读者视角提示**：The ending parallels Gilda's death (lab tech opening cages like opening the refrigerator for Gilda's body). The "gift" inversion suggests moral growth.
+- **为什么这样写**：Circular structure——opening's "ignorance was a gift" 变成 ending's "knowledge was a gift"。lab tech now chooses knowledge (opening cages, whistleblowing) over ignorance (continuing the experiment)。"He knew what was going to happen next" = he knows monkeys will attack him，but he does it anyway。"gift" 已从 protective ignorance 转化为 liberating knowledge。Gregory's ending 是 ambiguous：is this suicide, liberation, or redemption?
+- **读者视角提示**：ending 与 Gilda 的 death 平行（lab tech opening cages like opening the refrigerator for Gilda's body）。The "gift" inversion suggests moral growth。
 
 ## 本章词汇
 
@@ -92,7 +92,7 @@
 |---|---|---|
 | macaque | 猕猴（基础义） | The macaque didn't know what was going to happen next. |
 | sacrifice | 牺牲（euphemism for kill） | His first sacrifice, ever. |
-| cubicle | 小隔间、办公间 | He pinned her picture to the corkboard in his cubicle, on top of the OSHA safety flyers. |
+| cubicle | 小隔间、办公间 | the corkboard in his cubicle, on top of the OSHA safety flyers. |
 
 ## 一句话总结
 
