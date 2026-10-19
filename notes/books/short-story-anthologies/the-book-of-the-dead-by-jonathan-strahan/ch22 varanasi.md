@@ -12,7 +12,7 @@
 
 - **叙事手法**：First-person (Lucy); mortuary family drama; second-person address to Jude ("you"); embedded childhood memory; "Grief is all the love that remains" as thesis; death as profession vs. calling
 
-- **与后文的钩子**：Strahan Introduction 提到 "Priya Sharma's story of a mortician and her brother who has been to Varanasi, and what he brings back." 本篇是选集的 mortuary family drama 代表——death 作为 family business; Jude as "keeper of the dead" (draws out souls); "Grief is all the love that remains which we don't know what to do with" = death's grief theory. Theme: death as vocation; grief as unspent love; "I've brought Varanasi to you" = death's gift.
+- **与后文的钩子**：Strahan Introduction 提到 Priya Sharma's story of a mortician and her brother who has been to Varanasi, and what he brings back。本篇是选集的 mortuary family drama 代表——death 作为 family business; Jude as "keeper of the dead" (draws out souls); "Grief is all the love that remains which we don't know what to do with" = death's grief theory。主题：death as vocation; grief as unspent love; "I've brought Varanasi to you" = death's gift。
 
 ## 精读
 

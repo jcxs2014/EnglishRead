@@ -12,7 +12,7 @@
 
 - **叙事手法**：Epistolary (letters) with scholarly commentary between letters; frame narrative (academic analysis of letters); "Death Letters" as title; five letters (first paper, second calendar backs, third photos, fourth book margins, fifth blood-soaked scrap); undead labor economy
 
-- **与后文的钩子**：Strahan Introduction 提到 "Vajra Chandrasekera's epistolary story of a family whose dead labor has failed, and the letters they write about it." 本篇是选集的 epistolary/undead-labor 代表——death 作为 economic resource (revenants as labor); "Death Letters" = letters about death (Amoghi's) and letters that are death (blood-soaked final letter). Theme: death as labor; revenants as exploited workers; "we pray at night to till our own fields again" = liberation from undead labor.
+- **与后文的钩子**：Strahan Introduction 提到 Vajra Chandrasekera's epistolary story of a family whose dead labor has failed, and the letters they write about it。本篇是选集的 epistolary/undead-labor 代表——death 作为 economic resource (revenants as labor); "Death Letters" = letters about death (Amoghi's) and letters that are death (blood-soaked final letter)。主题：death as labor; revenants as exploited workers; "we pray at night to till our own fields again" = liberation from undead labor。
 
 ## 精读
 

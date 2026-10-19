@@ -12,7 +12,7 @@
 
 - **叙事手法**：Third-person limited (Woojin); exorcism as art practice; ink-on-rice-paper ghost capture; ghost possession; "eastern tradition draws corpus in ink, western paints in oil"; "ghosts are notorious liars"; "you could not help ghosts, they were dead and beyond helping"
 
-- **与后文的钩子**：Strahan Introduction 提到 "Isabel J. Kim's story of an exorcist who paints ghosts, and the mother who hires him to find her son." 本篇是选集的 exorcism-as-art 代表——death 作为 art medium (ink); ghost as client (not enemy); exorcism as both art and compassion. Theme: death as art; "you could not help ghosts" vs. Woojin's compassion; ghosts as liars; possession as empathy.
+- **与后文的钩子**：Strahan Introduction 提到 Isabel J. Kim's story of an exorcist who paints ghosts, and the mother who hires him to find her son。本篇是选集的 exorcism-as-art 代表——death 作为 art medium (ink); ghost as client (not enemy); exorcism as both art and compassion。主题：death as art; "you could not help ghosts" vs. Woojin's compassion; ghosts as liars; possession as empathy。
 
 ## 精读
 

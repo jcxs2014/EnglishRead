@@ -12,7 +12,7 @@
 
 - **叙事手法**：Third-person (Keeper) with fairy-tale tone; Keeper's POV; Enitan's diary as embedded narrative; Fates as deus ex machina; transformation/rebirth; "On the Shores of Midnight broods a lone tower" as opening refrain
 
-- **与后文的钩子**：Strahan Introduction 提到 "Tobi Ogundiran's story of the Keeper of the Dead, who must confront a child who shouldn't be in his domain." 本篇是选集的 fairy-tale fantasy 代表——death 作为 "domain" (Keeper's realm); Keeper as immortal caretaker who learns love through Enitan; "give yourself in exchange" = death as sacrifice for life. Theme: death as duty vs. love; "Father" as earned title; rebirth through sacrifice.
+- **与后文的钩子**：Strahan Introduction 提到 Tobi Ogundiran's story of the Keeper of the Dead, who must confront a child who shouldn't be in his domain。本篇是选集的 fairy-tale fantasy 代表——death 作为 "domain" (Keeper's realm); Keeper as immortal caretaker who learns love through Enitan; "give yourself in exchange" = death as sacrifice for life。主题：death as duty vs. love; "Father" as earned title; rebirth through sacrifice。
 
 ## 精读
 
