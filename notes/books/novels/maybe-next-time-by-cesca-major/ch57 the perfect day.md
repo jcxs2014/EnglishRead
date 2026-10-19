@@ -69,36 +69,35 @@
 ### ⭐⭐⭐ 高级
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| overcame | 克服；战胜 | The temptation to tell him overcame me |
-| leaden | 沉重的；铅一般的 | my body leaden with my secret |
-| inevitable | 不可避免的 | Dan's death is inevitable |
-| resolution | 解决；了结 | the chapter's resolution |
-| peace | 和平；安宁 | Emma has found peace |
-| confession | 坦白；供认 | Emma's confession |
+|---|---|---|
+| playground | 操场；游乐场 | Smiling as I listened to the shouts and giggles of the children in the playground as they bustled inside. |
+| appreciating | 欣赏；品味 | I looked forward to my list of jobs, changing my routes some days to explore new London streets, appreciating the vivid red of an unseen wreath or a cheering Christmas tree hung with scrawled homemade decorations. |
+| silhouetted | 成剪影的 | The Natural History Museum looked beautiful silhouetted in the twilight; dramatic colored lights softened the grand walls as we approached in a babbling group, Hattie linking arms with Poppy and Miles, her face content, the kids smiling. |
+| confidence | 自信；信心 | Dan’s hand was firm in mine as we made our way around, growing in confidence with every circuit. |
+| bittersweet | 苦乐参半的 | A glow within me—it had been perfect, giving way to that bittersweet ache when I thought of what was about to happen. |
+| temptation | 诱惑 | The temptation to tell him overcame me. |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| temptation | 诱惑 | The temptation to tell him |
-| secret | 秘密 | my body leaden with my secret |
-| confession | 坦白 | Emma's confession |
-| acceptance | 接受；承认 | Emma's acceptance |
-| perfect | 完美的 | Today was perfect |
-| peace | 和平 | Emma has found peace |
+|---|---|---|
+| twilight | 黄昏 | The Natural History Museum looked beautiful silhouetted in the twilight; dramatic colored lights softened the grand walls as we approached in a babbling group, Hattie linking arms with Poppy and Miles, her face content, the kids smiling. |
+| creperie | 可丽饼店 | The creperie in South Kensington was almost closed as we powered through the doors, filling the small space with noise. |
+| pancakes | 松饼；煎饼 | We ordered savory pancakes, enormous ice cream sundaes, chocolate sauce dribbling down the sides. |
+| dribbling | 滴落；流淌 | We ordered savory pancakes, enormous ice cream sundaes, chocolate sauce dribbling down the sides. |
+| cushions | 靠垫；坐垫 | Blankets, cushions, the candles lit as the weather worsened outside. |
+| tiredness | 疲倦 | Hattie almost had to carry Miles upstairs, his head dipping onto his chest with tiredness. |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| gin rummy | 金拉米（纸牌游戏） | Hattie playing gin rummy with Miles |
-| Aunt Tattie | Aunt Tattie（Miles 对 Hattie 的昵称） | his pet name for her |
-| Natural History Museum | 自然历史博物馆 | The Natural History Museum looked beautiful |
-| creperie | 可丽饼店 | The creperie in South Kensington |
-| silhouetted | 成剪影的 | silhouetted in the twilight |
-| fairy lights | 彩灯；小彩灯 | fairy lights hung in the trees |
-
+|---|---|---|
+| cab | 出租车 | “I’ll order a cab; you tell Dad to be ready in five. |
+| attic | 阁楼 | I’d emptied the attic, dusting off games we hadn’t played for years, or ever, rejected Christmas presents, trips to the charity shop. |
+| mug | 马克杯；大杯 | I was sitting in the kitchen today, Gus nestled at my feet, hands wrapped around my mug, only the gentle tick of the gold sunflower filling the quiet. |
+| kiosk | 售货亭 | The outdoor rink was stunning; fairy lights hung in the trees that surrounded it, a kiosk selling mulled cider scented the whole place in sweetness. |
+| seal | 海豹 | Miles pretended to be too old, too mature to laugh at such things, and then couldn’t help dissolving when she clapped like a seal. |
+| walrus | 海象 | Hattie was making him laugh, two straws under her top lip, a walrus. |
 ## 一句话总结
 
 Emma 的"完美"日——Hattie 住进家中、全家滑冰、Emma 告诉 Dan 循环真相："You die. Tonight. And there's nothing I can do to stop it." Dan 安静倾听，两人相拥而眠。

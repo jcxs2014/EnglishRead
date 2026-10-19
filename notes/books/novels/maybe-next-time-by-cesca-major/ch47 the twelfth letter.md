@@ -69,36 +69,35 @@
 ### ⭐⭐⭐ 高级
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| middle-aged | 中年的 | I am middle-aged |
-| manifest | 表现；显现 | how it'll manifest |
-| arsehole | 混蛋（英式俚语） | I don't want to be an arsehole |
-| jolted | 震动；惊醒 | They've jolted me |
-| navigation | 导航；航行 | navigate the rest of this pandemic |
-| improvising | 即兴创作 | We've improvised |
+|---|---|---|
+| INCREDIBLY | 难以置信地；极其 | I mean, it seems two seconds ago Miles was chewing on his crib, now the guy is playing chess (I mean, INCREDIBLY BADLY but STILL). |
+| scattering | 撒（花瓣）；使散开 | Seeing Miles and Poppy walk down that aisle scattering petals for Hattie was one of the cutest things EVER, although Miles breaking away because he wanted to show you “THERE’S A MAN STUCK ON A CROSS” definitely pissed off Ed. |
+| definitely | 肯定；确实 | Seeing Miles and Poppy walk down that aisle scattering petals for Hattie was one of the cutest things EVER, although Miles breaking away because he wanted to show you “THERE’S A MAN STUCK ON A CROSS” definitely pissed off Ed. |
+| embarrassing | 令人尴尬的 | Being alone for a few days, lying in, mooching around side streets, holding hands without embarrassing two children. |
+| destination | 目的地 | We must make sure we don’t wait for your fiftieth to tick off another destination on your bucket list. |
+| complicated | 复杂的；难办的 | Miles now being at school means life is a tiny bit less complicated. |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| milestone | 里程碑 | turning forty |
-| confrontation | 对抗；质问 | hide your phone |
-| distraction | 分心；分散注意力 | Mentally you disappear |
-| vulnerability | 脆弱；弱点 | Dan's vulnerability |
-| reassurance | 安慰；保证 | I'm here, I'm present |
-| generosity | 慷慨；大方 | You are insanely big-hearted |
+|---|---|---|
+| celebrated | 庆祝了；庆贺过 | I’m glad we celebrated it. |
+| mooching | 闲逛；闲混 | Being alone for a few days, lying in, mooching around side streets, holding hands without embarrassing two children. |
+| romantic | 浪漫的 | You were right about the place—it was romantic with all those courtyard cafés and cobbled side streets. |
+| courtyard | 庭院；天井 | You were right about the place—it was romantic with all those courtyard cafés and cobbled side streets. |
+| nominated | 获提名的 | And yes, I know sometimes that annoys you, but my job is also important and I manage it—OK, not quite a book sold at auction for six figures and in twelve countries and counting (show off) BUT we were nominated in The Drum Awards AND Matt finally got us a coffee machine that froths the milk. |
+| half-days | 半日（不上班/不上学） | I love the half-days we take when we drop them both off and sit in our kitchen, drinking coffee, Gus at our feet begging for some more cinnamon swirl. |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| fountain pen | 钢笔 | A fountain pen! |
-| ballpoint | 圆珠笔 | sneer at a ballpoint pen |
-| Vespa | 威斯巴（意大利踏板车） | almost dying together on a Vespa |
-| Florence | 佛罗伦萨 | we went to Florence |
-| Drum Awards | Drum 奖（营销/创意奖项） | nominated in The Drum Awards |
-| cataracts | 白内障 | her eyes are the cataracts |
-
+|---|---|---|
+| Vespa | 威斯巴（意大利踏板车） | And, despite almost dying together on a Vespa, I’m so glad we went to Florence. |
+| Florence | 佛罗伦萨 | And, despite almost dying together on a Vespa, I’m so glad we went to Florence. |
+| Drum Awards | Drum 奖（营销/创意奖项） | And yes, I know sometimes that annoys you, but my job is also important and I manage it—OK, not quite a book sold at auction for six figures and in twelve countries and counting (show off) BUT we were nominated in The Drum Awards AND Matt finally got us a coffee machine that froths the milk. |
+| Seychelles | 塞舌尔（群岛） | Did I tell you Dad’s going to the Seychelles with Irene? |
+| mask | 面具；伪装 | I felt something cold slice into me—like a mask slipped and only I saw it. |
+| twelfth letter | 第十二封信 | I can’t believe this is my twelfth letter to you. |
 ## 一句话总结
 
 Dan 的第十二封周年纪念信（2018 年 12 月 3 日）——Hattie 的婚礼、Miles 上学、Emma 四十岁生日、佛罗伦萨之旅；Dan 坦诚 Emma 的分心与"消失"，同时 reaffirm 爱情与共同时间的重要性。

@@ -59,36 +59,35 @@
 ### ⭐⭐⭐ 高级
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| betrayal | 背叛 | Gee's betrayal |
-| complicit | 串通的；同谋的 | Gee is complicit |
-| self-awareness | 自我意识；自知之明 | Emma's self-awareness |
-| routine | 例行程序；日常 | Emma's "gift" routine |
-| checklist | 清单；核对表 | a kind of checklist |
-| sensory | 感官的；感觉的 | Emma's sensory experience |
+|---|---|---|
+| manuscript | 手稿；书稿 | It wasn’t long before I had a list of four editors crying out for the full manuscript, desperate for Jas to contact them about it, and I was certain that this book would be the making of her. |
+| horrifying | 骇人的；可怕的 | Her eyes widened, her hands flew to her bare stomach, and I backed out as if I had stumbled into something horrifying. |
+| atmosphere | 气氛；氛围 | Then Dan was in the room, taking in the scene, and he was asking his own questions and the atmosphere was fraught and then Miles was there and he was saying “Tell them Poppy” and Poppy had started to cry. |
+| intercepted | 截住；拦截 | I’d remembered to warn her in the morning not to write anything online and then I intercepted Poppy after school, knocked on the door of her room to change her bedding, folded sheets in my arms. |
+| tentatively | 试探地；犹豫地 | She looked up, smiling tentatively, then flicked her phone screen open to show me one of her latest clips on her mobile. |
+| overwhelmed | 压得喘不过气；不堪重负 | Sometimes I failed, overwhelmed her, or made her cross, but the next day I would tweak things and I’d get it spot on. |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| bullying | 霸凌；欺凌 | Poppy is being bullied |
-| exclusion | 排斥；排除 | her exclusion |
-| betrayal | 背叛 | Gee's betrayal |
-| routine | 例行程序 | Emma's "gift" routine |
-| checklist | 清单 | a kind of checklist |
-| savoring | 品味；欣赏 | savoring Dan's enjoyment |
+|---|---|---|
+| squealed | 尖声叫 | I rang Jas, holding the phone away from my ear as she squealed in excitement. |
+| betrayed | 背叛了 | The girls targeted—Holly, who had set it up, and Gee, her best friend who had betrayed her—those were the accounts she’d written nasty comments on. |
+| wrenching | 扭曲；使痛苦 | I thought then of Miles’s downturned mouth, the covert looks at his beloved older sister who was being bullied in a way that even he could see was wrenching her apart. |
+| whispered | 低声说 | “Yes,” she whispered, tingeing as though bracing for a lecture about trust. |
+| tingling | 麻刺感 | Glancing at my phone I remembered every message I’d deleted in anger, my fingers tingling. |
+| checklist | 清单 | So I nailed down a sort of routine, a kind of checklist. |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| TikTok | TikTok（短视频平台） | Is this TikTok? |
-| WhatsApp | WhatsApp（即时通讯软件） | WhatsApp group |
-| Holly | Holly（Poppy 的同学） | Holly set up a group |
-| Gee | Gee（Poppy 的好友） | Gee's betrayal |
-| Liam | Liam（Poppy 的同学） | Liam was laughing about me |
-| Albie | Albie（Miles 的朋友） | Albie won't even play with me |
-
+|---|---|---|
+| ring light | 环形补光灯 | Some days I was exhausted, wanting to speed up the conversation, admit I knew more than I did (I’d learned the light was a ring light, she’d told Dan it was for an art project, he’d got it off Amazon), but other days I just relished the fact that I knew her better, that she was opening up and we could find a way through this weird pre-teen world I needed to admit to myself she was in. |
+| tripod | 三脚架 | And there was the tripod folded in the corner. |
+| makeup | 化妆品；化妆 | She had been using my makeup. |
+| bronzer | 古铜修容粉 | I remembered the orange dots in my sink, my bronzer. |
+| street | 街道 | “That’s not kind,” I said, wanting to rip down the walls of Holly’s home, pull her out into the street, and get her to apologize. |
+| whale | 鲸 | Traveling in Australia, walking along a deserted beach on Fraser Island at dusk, a whale turning elegantly in the water only fifty feet from the shore: a performance just for us. |
 ## 一句话总结
 
 Emma 的"礼物" routine 继续——发现 Poppy 的 TikTok 霸凌真相（Holly 的 WhatsApp 群、Gee 的背叛）、与 Poppy 深谈、Miles 的友谊问题、Emma 的每日 checklist（做爱、送孩子上学、警告 Poppy、读书稿、给 Jurek 妈妈送有声书、给 Dan 写信、全家游戏夜）。

@@ -49,36 +49,35 @@
 ### ⭐⭐⭐ 高级
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| betrayal | 背叛 | Gee's betrayal |
-| complicit | 串通的；同谋的 | Gee is complicit |
-| self-awareness | 自我意识；自知之明 | Emma's self-awareness |
-| routine | 例行程序；日常 | Emma's "gift" routine |
-| checklist | 清单；核对表 | a kind of checklist |
-| sensory | 感官的；感觉的 | Emma's sensory experience |
+|---|---|---|
+| dismissively | 轻蔑地；不屑地 | “Oh,” I waved a hand dismissively, “I didn’t go. |
+| impatiently | 不耐烦地 | I waggled my fingers impatiently. |
+| submissions | 投稿；来稿 | I was used to reading submissions; you could tell something might have potential from a synopsis, even a cover letter sometimes. |
+| overwhelmed | 不堪重负的；被压垮的 | How overwhelmed and self-deprecating she’d been on the phone. |
+| motherhood | 母职；做母亲 | That exploring the darker side of motherhood was fascinating, and her setting in the Lake District—the descriptions never slowing the pace—was perfect. |
+| boundaries | 界线；界限 | I needed to set boundaries with her and try to remind her of the excitement rather than the anxiety of it all, manage her expectations better, give her a clearer insight into the world of publishing. |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| bullying | 霸凌；欺凌 | Poppy is being bullied |
-| exclusion | 排斥；排除 | her exclusion |
-| betrayal | 背叛 | Gee's betrayal |
-| routine | 例行程序 | Emma's "gift" routine |
-| checklist | 清单 | a kind of checklist |
-| savoring | 品味；欣赏 | savoring Dan's enjoyment |
+|---|---|---|
+| corridor | 走廊 | I didn’t remove my coat but barreled down the narrow corridor and into our office. |
+| synopsis | 内容梗概 | “Actually could you print out the synopsis and first three chapters. |
+| paragraph | 段落 | Sometimes a first paragraph had given me a thrill. |
+| potential | 潜力 | I was used to reading submissions; you could tell something might have potential from a synopsis, even a cover letter sometimes. |
+| thrilling | 扣人心弦的 | Marketing departments talk in jargon that all sounds so thrilling. |
+| grinning | 咧嘴笑 | Jurek was grinning at me as I placed the cup down, my face twisted in disgust. |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| TikTok | TikTok（短视频平台） | Is this TikTok? |
-| WhatsApp | WhatsApp（即时通讯软件） | WhatsApp group |
-| Holly | Holly（Poppy 的同学） | Holly set up a group |
-| Gee | Gee（Poppy 的好友） | Gee's betrayal |
-| Liam | Liam（Poppy 的同学） | Liam was laughing about me |
-| Albie | Albie（Miles 的朋友） | Albie won't even play with me |
-
+|---|---|---|
+| pram | 婴儿车 | The café was almost empty, two women leaning across the narrow table lost in conversation, a pram idling by the side. |
+| cert | 保证；凭证 | As a heady first-time author you really don’t have a clue—imagining when you get an agent, a publishing deal is a cert. |
+| clue | 线索 | As a heady first-time author you really don’t have a clue—imagining when you get an agent, a publishing deal is a cert. |
+| pace | 节奏 | That exploring the darker side of motherhood was fascinating, and her setting in the Lake District—the descriptions never slowing the pace—was perfect. |
+| counter | 柜台 | Jurek greeted me warmly as I approached the counter. |
+| agent | 经纪人 | As a heady first-time author you really don’t have a clue—imagining when you get an agent, a publishing deal is a cert. |
 ## 一句话总结
 
 Emma 溜进办公室找 Jas，躲掉 Linda 与 Arthur 出的那场会；谈到 Ernestina 的书稿她立刻来了兴致，要纸本（概要加前三章）打算带去咖啡馆读；她连说两遍「没事没事」把解释推到下次，把话头转回那本书——这是她把循环里的一个上午换成「做点正事」的又一步。

@@ -89,36 +89,35 @@
 ### ⭐⭐⭐ 高级
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| lethargic | 嗜睡的；无精打采的 | I felt lethargic |
-| churning | 翻腾的；搅动的 | the sea churning gray |
-| reignite | 重新点燃 | reignite the anger |
-| detachment | 超脱；冷漠 | Emma's detachment |
-| suicidal | 自杀的 | suicidal ideation |
-| muffling | 捂住；使沉默 | muffling their agony |
+|---|---|---|
+| churning | 翻腾的；搅动的 | It was overcast, the sea churning gray, and when I breathed in the salty air wanting to be brought to life, I didn’t feel anything. |
+| reignite | 重新点燃 | Then I pushed those thoughts deeper inside me, and when the night came round it wasn’t difficult to reignite the anger every time I heard the bang. |
+| muffling | 捂住；使沉默 | As I got under the covers, Miles and Poppy frantic downstairs, Poppy screaming my name, Miles crying for his father, I stuffed the pillow over my head, muffling their agony. |
+| confrontations | 冲突；对峙 | Some days, when I had no energy for confrontations, or even thoughts, I watched every streaming service. |
+| frantically | 拼命地；慌张地 | Poppy frantically summoning an ambulance, Miles wordlessly clutching Tigger as he stared at his father on the floor, stared at me, wondering at my inaction. |
+| wordlessly | 一言不发地 | Poppy frantically summoning an ambulance, Miles wordlessly clutching Tigger as he stared at his father on the floor, stared at me, wondering at my inaction. |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| binge | 狂欢；沉迷 | binge watching |
-| numbness | 麻木 | Emma's numbness |
-| roaming | 徘徊 | I roamed |
-| arrested | 被逮捕 | I was arrested three times |
-| detachment | 超脱 | Emma's detachment |
-| suicidal | 自杀的 | suicidal ideation |
+|---|---|---|
+| roaming | 徘徊；游荡 | On other days I roamed. |
+| arrested | 被逮捕 | I was arrested three times. |
+| rambling | 絮叨；胡言乱语 | Of her rambling words that night, trying to piece together the fragments of what she’d said. |
+| simmering | 慢火煨；暗涌（情绪） | I stayed in our room and watched the light fade from the windows as the clouds came, watched as it got dark, as the sleet fell in tiny, slushy flakes, listened to Miles and Poppy fighting in the next room, heard Dan intervene in that calm voice, simmering it down. |
+| overcast | 阴的；多云的 | It was overcast, the sea churning gray, and when I breathed in the salty air wanting to be brought to life, I didn’t feel anything. |
+| swerving | 急转；蛇行 | Shout at people in the street, stand in the road, cars swerving, ambulances, helicopters. |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| Brighton | 布莱顿（英国 seaside 城市） | taxi to Brighton |
-| Nobu | Nobu（高端日料餐厅） | I went to Nobu |
-| Chanel | 香奈儿 | Chanel perfume |
-| Tiffany | 蒂芙尼 | Tiffany bracelets |
-| Netflix | 奈飞 | watched every streaming service |
-| Kindle | Kindle 电子书阅读器 | leave my Kindle fully charged |
-
+|---|---|---|
+| Brighton | 布莱顿（英国海滨城市） | I once got a taxi to Brighton because I wanted to see the sea. |
+| Nobu | Nobu（高端日料餐厅） | I went to Nobu and ordered sushi and champagne and stared at the chair opposite and I remembered Hattie in the Ritz and the things she told me. |
+| Chanel | 香奈儿 | I bought stuff (Tiffany bracelets, silk scarves, Chanel perfume, a sapphire brooch, a ruby ring) and then discarded them nearby. |
+| Tiffany | 蒂芙尼 | I bought stuff (Tiffany bracelets, silk scarves, Chanel perfume, a sapphire brooch, a ruby ring) and then discarded them nearby. |
+| Netflix | 奈飞（流媒体平台） | Some days I felt full of energy, a crazy fizzing energy, and those were the days when Netflix wouldn’t do, when I would go out in search of adventure or trouble. |
+| Kindle | Kindle 电子书阅读器 | He would wish me a Happy Anniversary, stroke me on my head, leave pills by a cup of water for me to take, leave my Kindle fully charged in case I wanted to read. |
 ## 一句话总结
 
 Emma 陷入绝望循环—— binge watching、漫无目的的购物、Brighton 海边、Nobu 独酌、街头闹事被捕、闭门不出；Dan 每晚死在不同地点；最终 Emma 产生自杀念头："I couldn't do this anymore."

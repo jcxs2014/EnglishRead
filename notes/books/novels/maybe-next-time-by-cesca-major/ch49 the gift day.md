@@ -49,36 +49,35 @@
 ### ⭐⭐⭐ 高级
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| assured | 有保证的；自信的 | assured hands |
-| poignant | 令人感动的；辛酸的 | wonderfully poignant moments |
-| tepid | 微温的；不冷不热的 | moved beyond tepid to cold |
-| immersed | 沉浸的；专心的 | I had finished the twenty-four pages |
-| absorption | 专注；全神贯注 | Emma's absorption |
-| jumpy | 紧张的；坐立不安的 | She still looked jumpy |
+|---|---|---|
+| jumpy | 紧张的；坐立不安的 | She still looked jumpy, her focus not really on me as her eyes darted about the railings of the school. |
+| irresponsible | 不负责任的 | We had started letting them walk the three residential streets at the start of the school year and in four months I had probably walked with them once, right at the start, to check it really was safe and Dan and I weren’t being irresponsible parents. |
+| smattering | 稀疏点缀；零星 | I looked across at her, at her smooth skin, a smattering of freckles crossing her nose, the gap in her teeth when she spoke—it seemed impossible that she would do anything so unpleasant. |
+| silhouetted | 成剪影的 | I noticed Christmas wreaths in golds, reds, and greens, green bushy trees silhouetted in windows. |
+| starfished | 四肢摊开成大字形的 | Amazing,” he said, lying starfished and sweaty. |
+| encouraged | 鼓励；使振奋 | Then he looked back at me, encouraged when I met his eye and wiggled out of my own pajama bottoms. |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| submissions | 投稿；提交的稿件 | used to reading submissions |
-| synopsis | 概要；梗概 | potential from a synopsis |
-| protagonist | 主人公；主角 | the protagonist seemed really interesting |
-| reconnecting | 重新连接 | Emma reconnecting with Poppy |
-| bullying | 霸凌；欺凌 | Poppy is being bullied |
-| vulnerability | 脆弱；弱点 | Emma's vulnerability |
+|---|---|---|
+| actively | 主动地 | “Hey,” I smiled, actively recalling the things I had gone to sleep promising myself. |
+| recalling | 回想起 | “Hey,” I smiled, actively recalling the things I had gone to sleep promising myself. |
+| straddle | 跨坐；跨立 | He smiled widely as I moved to straddle him, his eyes traveling my naked body. |
+| stroking | 抚弄；轻抚 | Dan laughed, his finger stroking my nipple. |
+| reminded | 使想起；提醒 | Seeing the kids in their winter hats and coats, cheeks flushed, reminded me of Bonfire Nights and woodland walks. |
+| squeezed | 挤；挤过 | We squeezed down the hallway, out of the house, and I breathed in the chilly winter morning. |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| TikTok | TikTok（短视频平台） | Is this TikTok? |
-| Jurek | Jurek（咖啡馆老板） | Today you are happy, Jurek commented |
-| Ernestina | Ernestina（作者） | Ernestina's book |
-| audiobooks | 有声书 | box of audiobooks |
-| bronzer | 腮红；古铜粉 | orange dots in my sink, my bronzer |
-| ring light | 环形灯 | the light was a ring light |
-
+|---|---|---|
+| curtains | 窗帘 | A slight crack in the curtains, a shaft of sunlight crossing my face. |
+| sunlight | 阳光 | A slight crack in the curtains, a shaft of sunlight crossing my face. |
+| freckles | 雀斑 | I looked across at her, at her smooth skin, a smattering of freckles crossing her nose, the gap in her teeth when she spoke—it seemed impossible that she would do anything so unpleasant. |
+| rucksack | 背包 | “Love you,” I said, quickly, as she adjusted the rucksack on her back. |
+| Christmas | 圣诞节 | I noticed Christmas wreaths in golds, reds, and greens, green bushy trees silhouetted in windows. |
+| bicycle bell | 自行车铃声 | The sound of a bicycle bell. |
 ## 一句话总结
 
 Emma 的"礼物"日——与 Dan 做爱、送孩子上学、警告 Poppy、读 Ernestina 的书稿、给 Jurek 妈妈送有声书、在咖啡馆享受正常生活；Emma 开始重新欣赏小事物，"Today you are happy."

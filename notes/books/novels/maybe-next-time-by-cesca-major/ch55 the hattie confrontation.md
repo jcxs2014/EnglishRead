@@ -59,36 +59,35 @@
 ### ⭐⭐⭐ 高级
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| rediscovered | 重新发现 | I had rediscovered the joys in my day |
-| cast a shadow | 投下阴影；笼罩 | someone who always cast a shadow |
-| compulsion | 强迫；冲动 | Emma's compulsion |
-| devastation | 毁灭；破坏 | the devastation in the road |
-| accusation | 指控；指责 | Emma's accusation |
-| fragility | 脆弱；易碎 | Hattie's fragility |
+|---|---|---|
+| rediscovered | 重新发现 | There was no doubt I had rediscovered the joys in my day. |
+| thoughtfulness | 体贴；细心 | I loved her kindness and her thoughtfulness and our shared memories. |
+| glistening | 闪光的；反光的 | The car was in the same position, the glass scattered on the glistening icy street. |
+| hesitatingly | 犹豫地 | The glass crunched beneath me as I stepped hesitatingly to the driver’s side, staring down at her lost to the airbag. |
+| resolution | 了结；解决 | The urge to see her, to achieve some resolution, weakened as I felt her thin frame. |
+| tightening | 收紧；绷紧 | “You did this,” I said, my throat tightening, unable to forget, not wanting to accept another reason for this nightmare, needing someone to blame for everything I’d lived through. |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| shadow | 阴影 | someone who always cast a shadow |
-| stab of pain | 一阵刺痛 | sent a stab of pain through my stomach |
-| red-hot anger | 炽热的怒火 | red-hot anger fire through me |
-| resolution | 解决；了结 | achieve some resolution |
-| reassurance | 安慰；保证 | wanting to reassure her |
-| refusal | 拒绝 | Emma's refusal |
+|---|---|---|
+| lessened | 减轻；减弱 | Any mention of her name from the kids, or Dan, sent a stab of pain through my stomach that never lessened. |
+| multiply | 增多；成倍增加 | The questions didn’t go away either; in fact, they seemed to multiply over time. |
+| intending | 打算 | Sometimes I left the house with Gus myself, intending to walk that short distance, drawn to that scene. |
+| swerving | 急转；蛇行 | I thought of her words, all those nights ago now, the car losing control, her swerving Gus and Dan. |
+| piercing | 刺耳的；穿透的 | The alarm was piercing my skull, the sleet like icy prickles on my skin. |
+| clutching | 紧抓；抱住 | “No,” I said, backing away, clutching Gus to me. |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| Gus | Gus（狗的名字） | Pulling on Gus to come |
-| Hattie | Hattie（Emma 的好友） | her name there |
-| sleet | 雨夹雪；冰雹 | Sleet coated my face |
-| airbag | 气囊 | lost to the airbag |
-| crumpled | 弄皱的；压扁的 | the crumpled hood |
-| devastation | 毁灭 | the devastation in the road |
-
+|---|---|---|
+| car | 汽车 | I thought of her words, all those nights ago now, the car losing control, her swerving Gus and Dan. |
+| glass | 玻璃 | The glass crunched beneath me as I stepped hesitatingly to the driver’s side, staring down at her lost to the airbag. |
+| police | 警方 | I need to come home with you, after the police. |
+| shadow | 阴影 | But there was someone who always cast a shadow. |
+| skull | 头骨 | The alarm was piercing my skull, the sleet like icy prickles on my skin. |
+| dressing gown | 睡袍 | The man in the dressing gown was there, he had his mobile out, others soon joined him, staring at the drama in their small street, “The police are on their way. |
 ## 一句话总结
 
 Emma 的怒火转向 Hattie——无法原谅 Hattie 的"鲁莽"（开车撞死 Dan）；Emma 去事故现场 confrontation Hattie，Hattie 恳求 Emma 带她回家，Emma 拒绝："You did this."

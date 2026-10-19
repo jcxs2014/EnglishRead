@@ -59,36 +59,35 @@
 ### ⭐⭐⭐ 高级
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| pandemic | 疫情；大流行病 | global pandemics suck balls |
-| lockdown | 封锁；居家令 | second lockdown |
-| furlough | 停薪留职；休假 | clapping/sunshine/whoop/furlough |
-| homeschooling | 家庭教育；在家上学 | homeschool hell |
-| reassurance | 安慰；保证 | advice or reassurance |
-| milestone | 里程碑 | Forty is huge |
+|---|---|---|
+| comforting | 安慰的；令人慰藉的 | You’re on a committee or dropping a sack of toddler clothes to a neighbor or comforting a friend over the phone on her marital breakup or an author over a rejected book. |
+| frustrated | 沮丧的；受挫的 | Maybe I’m feeling frustrated because when we’ve done things together this year it’s reminded me how much I love you, love our family. |
+| meaningful | 有意义的 | In fact, what with back-to-back Zooms, endless reading in the evenings and weekends to catch up because of homeschool hell it feels like although I see you all the time, it is rarely in any meaningful way. |
+| presentation | 演示；汇报 | Obviously where I excelled (and I’m glad to see at least ONE of our children might take after me) was presentation—getting them their own little box file, upgrading our home printer, having the excuse to buy myself an industrial-sized hole puncher was the dream. |
+| impossible | 不可能的；做不到的 | But God, those crunch times were nuts—the crisis over tickets for Cheltenham, that 200-page presentation for the RFU (it became your turn to remind me that I’d barely spoken a word to the kids for a week), the production company canceling the option on Scarlet’s book, trying to be the kids’ parent/friend/teacher/counselor—it felt impossible for us both to juggle it all. |
+| nonexistent | 不存在的 | Despite the work being almost nonexistent right now, despite the panic in our industry, I’m lucky that, so far, the family and friends we love are OK, that we are not grieving like so many others. |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| uncertainty | 不确定性 | hard to tell what the next few months will bring |
-| generosity | 慷慨；大方 | you are so generous, loving, kind |
-| priority | 优先事项；优先权 | we're so far down your list |
-| flatmate | 室友；同住者 | I feel like we are flatmates sometimes |
-| milestone | 里程碑 | Forty is huge |
-| bucket list | 愿望清单 | tick off another destination on your bucket list |
+|---|---|---|
+| furlough | 停职；休假 | After the clapping/sunshine/whoop/furlough first lockdown the year has dragged on. |
+| flatpack | 平板包装的家具 | Remember how long it takes to build flatpack furniture? |
+| flatmates | 合租室友 | I feel like we are flatmates sometimes. |
+| generous | 慷慨的 | And it is one of the things I love about you—that you are so generous, loving, kind—but sometimes I feel like we’re so far down your list, or we need to be hurting or sad for you to notice us. |
+| navigate | 应对；度过 | So I know this year has been hard, I know we still need to navigate the rest of this pandemic but I am grateful that if they were going to lock me in a house, then at least it was with you. |
+| reminder | 提醒；提示 | They’ve jolted me; they’ve acted as a reminder of what I could lose. |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| COVID | 新冠病毒 | it's COVID |
-| Zoom | Zoom（视频会议软件） | back-to-back Zooms |
-| Vespa | 威斯巴（意大利踏板车） | almost dying together on a Vespa |
-| Florence | 佛罗伦萨 | we went to Florence |
-| Les Mis | 《悲惨世界》（音乐剧） | Even that Les Mis family have gone quiet |
-| homeschool | 家庭教育 | homeschool hell |
-
+|---|---|---|
+| hot tub | 热水浴池 | The renting of a hot tub was a particular stroke of genius. |
+| electric drill | 电钻 | And I wouldn’t lend you my electric drill if you left me. |
+| lockdown | 封城；封锁 | And I’ve convinced myself it’s the lockdown, it’s COVID, it’s all the added stresses on you but . |
+| parents | 父母 | And sod your parents—if they want to stay in Spain it’s their loss. |
+| plane | 飞机 | God, it made me want to get on a plane, virus or no virus, and tell them how much they’ve missed out on. |
+| clapping | 鼓掌 | After the clapping/sunshine/whoop/furlough first lockdown the year has dragged on. |
 ## 一句话总结
 
 Dan 的第十四封周年纪念信（2020 年 12 月 3 日）——COVID-19 封锁、homeschooling、Emma 的过度忙碌、Dan 的沮丧与恳求；Dan 坦诚 Emma 的"消失"与过度忙碌，同时 reaffirm 爱情与家庭的重要性。

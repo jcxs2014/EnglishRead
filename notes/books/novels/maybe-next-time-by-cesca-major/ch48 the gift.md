@@ -69,36 +69,35 @@
 ### ⭐⭐⭐ 高级
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| dejectedly | 沮丧地；垂头丧气地 | staring dejectedly around |
-| fruitlessly | 徒劳地；无用地 | wiped fruitlessly at my eyes |
-| wrung out | 精疲力竭的 | wrung out of tears |
-| mantra | 真言；咒语 | Emma's mantra |
-| tingle | 刺痛；颤动 | my fingers tingling |
-| bittersweet | 苦乐参半的 | Every touch bittersweet |
+|---|---|---|
+| dejectedly | 沮丧地；垂头丧气地 | He’d left, the same bang and I was sitting on the sofa staring dejectedly around. |
+| fruitlessly | 徒劳地；无用地 | Jas patted me as I wiped fruitlessly at my eyes. |
+| bittersweet | 苦乐参半的 | Every touch bittersweet. |
+| anticipation | 期待； anticipation | The anticipation was killing me, the moment stretching for infinity as he reached a hand out to cup my face. |
+| breathless | 气喘吁吁的；屏息的 | When we pulled away we were both breathless, staring at each other, and then he grinned at me, a smile so perfect it made me burst into laughter. |
+| straightforward | 简单明了的；直截了当的 | It was all so easy, so straightforward. |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| normality | 正常；常态 | wished for a day of normality |
-| confession | 坦白；供认 | Emma's confession |
-| reframing | 重新定义；重新框架 | Jas's reframing |
-| transformation | 转变；转型 | Emma's transformation |
-| purpose | 目的；意义 | give myself some purpose |
-| edge | 边缘；悬崖 | pull me one step back from the edge |
+|---|---|---|
+| normality | 正常；常态 | As I snuggled close to him, my whole body feeling weighty and aged, I wished for a day of normality. |
+| purpose | 目的；意义 | I knew I had to go soon, had to give myself some purpose because this wasn’t it. |
+| edge | 边缘；边缘地带 | Helped pull me one step back from the edge. |
+| anguished | 痛苦的；悲痛的 | They were the most terrible, anguished sounds. |
+| snuggled | 依偎；蹭 | As I snuggled close to him, my whole body feeling weighty and aged, I wished for a day of normality. |
+| lingered | 徘徊；逗留 | I’d lingered on the doorstep, fumbling with my house keys and wondering what had come over me. |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| Gumtree | Gumtree（英国分类广告网站） | met on Gumtree |
-| Ealing | 伊灵（伦敦西部地区） | flat in Ealing |
-| Nobu | Nobu（高端日料餐厅） | I went to Nobu |
-| Synulox | Synulox（兽用抗生素） | inject him with Synulox |
-| audiobooks | 有声书 | box of audiobooks |
-| Kindle | Kindle 电子书阅读器 | leave my Kindle fully charged |
-
+|---|---|---|
+| Gumtree | Gumtree（英国分类广告网站） | He had dropped me back at my flat in Ealing which I’d shared with a girl who I’d met on Gumtree and who, I was fairly sure, was a witch—but not one of the good ones—despite the fact it was the opposite end of the Central Line to his house share in Stratford. |
+| Ealing | 伊灵（伦敦西部地区） | He had dropped me back at my flat in Ealing which I’d shared with a girl who I’d met on Gumtree and who, I was fairly sure, was a witch—but not one of the good ones—despite the fact it was the opposite end of the Central Line to his house share in Stratford. |
+| brand-new | 全新的；崭新的 | He must have put it down to shock but there was Poppy pale as a ghost in the hallway behind me, listening to the brand-new information. |
+| sunlight | 阳光 | As I lay on my side, still staring at the now-familiar sight of the crack in the curtains, the shaft of sunlight on my face, the briefest hope that something would be different, then scratching that thought when I turned over to see Dan still there. |
+| following | 接下来的 | Those sounds were still with me the following morning. |
+| forehead | 额头 | So I’d continued to fumble and then I’d felt him move closer, his breath hot on my forehead as I stayed bent over in the dark. |
 ## 一句话总结
 
 Emma 决定把循环当作"礼物"——与 Jas 和解、辞掉工作、带 Gus 看兽医、读 Ernestina 的书稿、给 Jurek 的妈妈送有声书、在咖啡馆享受正常生活；Emma 开始重新欣赏小事物，"I'd been missing so many of these small, precious moments"（ch52 原句）

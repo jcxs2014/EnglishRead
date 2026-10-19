@@ -1,0 +1,88 @@
+# ch51 候选池（词头 + 逐字例句，由 vocab_candidates 从本章 text/ 抽取）
+
+
+## ⭐⭐⭐ 高级
+- super-soft :: And yes, I know you laugh that I keep it in its own special super-soft suede box but that is how you do not lose things, Emma Jacobs *coughs RIP so many sunglasses.
+- sunglasses :: And yes, I know you laugh that I keep it in its own special super-soft suede box but that is how you do not lose things, Emma Jacobs *coughs RIP so many sunglasses.
+- Middle-aged :: Middle-aged if you will.
+- collecting :: I have never been that fussed about cars, I’m not keen on a younger woman so I think I’m just going to go all out weird and start collecting something like bicycle parts or rocks from a specific part of Scotland.
+- thoughtful :: So, of course after more than a year or so of me harping on about Florence and what a great and thoughtful husband I am you pulled out the stops too.
+- admittedly :: OK, so admittedly I think you struggled a little with the last five (“The way you nibble on your bread rather than take a bite’?
+- hole-punched :: Because you’d printed it off, hole-punched it so I could put it in my “Memories” folder and remembered to put the stickers around the holes because you knew I would love that.
+- remembered :: Because you’d printed it off, hole-punched it so I could put it in my “Memories” folder and remembered to put the stickers around the holes because you knew I would love that.
+- manuscript :: You remember what our kids’ friends like to eat, and you send brownies when a friend is sad, flowers when someone is ill, frozen COOK meals to anyone who has given birth, you phone authors late at night when you’ve just finished their manuscript and are buzzing, you send cards to people for literally anything.
+- big-hearted :: You are insanely big-hearted.
+- physically :: Not physically, not like your own parents, and not like I did.
+- conference :: In a conference room at a publisher’s, or in a manuscript that has kept you up or in an author meeting, or worrying about a friend’s divorce or dreaming up a letter to force the council to reinstate the lollipop man.
+- socialization :: I know you worry about play dates and socialization and what size shoes the kids now take, and their optician appointments and if the dog has been walked long enough (he always has, Gus is literally the laziest dog I know) but it’s too much for one human person.
+- directions :: The kids pull you in a million directions too and you can’t run this committee, or set up that online petition, or host every time.
+- conversation :: I try to talk to Ed about it but he just shuts down the conversation.
+- embarrassed :: Maybe he’s embarrassed or I’m not who he wants to talk to about it.
+- prioritizing :: We said we would find time together: once the kids were both at school, once our jobs calmed down, once the house got sorted, but there is always something else sucking our time, so we need to be better at prioritizing time off.
+- rain-soaked :: There is nothing better than the movie afternoons as a family, or bundling the kids into the car for a weekend on some rain-soaked British beach, sand in our toes and mugs of coffee in our hands.
+- absolutely :: And there is absolutely nothing better than us sat opposite each other at a table eating and talking and laughing.
+- completely :: Being with you makes me feel completely content.
+- Thirteenth :: Happy Thirteenth Anniversary.
+- Anniversary :: Happy Thirteenth Anniversary.
+
+## ⭐⭐ 进阶
+- ballpoint :: No mere ballpoint pens for me.
+- prepping :: I am prepping for the midlife crisis.
+- specific :: I have never been that fussed about cars, I’m not keen on a younger woman so I think I’m just going to go all out weird and start collecting something like bicycle parts or rocks from a specific part of Scotland.
+- Scotland :: I have never been that fussed about cars, I’m not keen on a younger woman so I think I’m just going to go all out weird and start collecting something like bicycle parts or rocks from a specific part of Scotland.
+- certainly :: I’m certainly excited to discover how it’ll manifest.
+- discover :: I’m certainly excited to discover how it’ll manifest.
+- manifest :: I’m certainly excited to discover how it’ll manifest.
+- Florence :: So, of course after more than a year or so of me harping on about Florence and what a great and thoughtful husband I am you pulled out the stops too.
+- arranging :: Hattie and you arranging the secret Grease fancy party in the vintage bowling alley with all my friends—er tick—brunch in bed with the kids and then lunch out with you handing me the list.
+- struggled :: OK, so admittedly I think you struggled a little with the last five (“The way you nibble on your bread rather than take a bite’?
+- Memories :: Because you’d printed it off, hole-punched it so I could put it in my “Memories” folder and remembered to put the stickers around the holes because you knew I would love that.
+- stickers :: Because you’d printed it off, hole-punched it so I could put it in my “Memories” folder and remembered to put the stickers around the holes because you knew I would love that.
+- thinking :: You are always thinking of someone else.
+- brownies :: You remember what our kids’ friends like to eat, and you send brownies when a friend is sad, flowers when someone is ill, frozen COOK meals to anyone who has given birth, you phone authors late at night when you’ve just finished their manuscript and are buzzing, you send cards to people for literally anything.
+- finished :: You remember what our kids’ friends like to eat, and you send brownies when a friend is sad, flowers when someone is ill, frozen COOK meals to anyone who has given birth, you phone authors late at night when you’ve just finished their manuscript and are buzzing, you send cards to people for literally anything.
+- literally :: You remember what our kids’ friends like to eat, and you send brownies when a friend is sad, flowers when someone is ill, frozen COOK meals to anyone who has given birth, you phone authors late at night when you’ve just finished their manuscript and are buzzing, you send cards to people for literally anything.
+- insanely :: You are insanely big-hearted.
+- honestly :: BUT—can I say something honestly now?
+- exhausted :: But sometimes, because you are trying to do everything, for everyone, sometimes you’re exhausted for us.
+- disappear :: You disappear on us.
+- throwing :: I know I can’t ever take back what I did when Poppy was born but I’ve made up for it now, so *deep breath* you need to stop throwing it back in my face when we argue, because it hurts.
+- anywhere :: I’m here, I’m present: I’m not going anywhere.
+- Mentally :: Mentally you disappear—you wander away.
+- question :: Miles or Poppy will be telling you something, or I’ll ask you a question and .
+- somewhere :: you’re just not with us—you’re somewhere else.
+- publisher :: In a conference room at a publisher’s, or in a manuscript that has kept you up or in an author meeting, or worrying about a friend’s divorce or dreaming up a letter to force the council to reinstate the lollipop man.
+- worrying :: In a conference room at a publisher’s, or in a manuscript that has kept you up or in an author meeting, or worrying about a friend’s divorce or dreaming up a letter to force the council to reinstate the lollipop man.
+- dreaming :: In a conference room at a publisher’s, or in a manuscript that has kept you up or in an author meeting, or worrying about a friend’s divorce or dreaming up a letter to force the council to reinstate the lollipop man.
+- reinstate :: In a conference room at a publisher’s, or in a manuscript that has kept you up or in an author meeting, or worrying about a friend’s divorce or dreaming up a letter to force the council to reinstate the lollipop man.
+- lollipop :: In a conference room at a publisher’s, or in a manuscript that has kept you up or in an author meeting, or worrying about a friend’s divorce or dreaming up a letter to force the council to reinstate the lollipop man.
+- doubling :: I’ve taken things off you, only to find you doing them anyway, and yes, doubling up on jobs makes me cross—but it’s like you don’t trust me to get it right.
+- committee :: The kids pull you in a million directions too and you can’t run this committee, or set up that online petition, or host every time.
+- petition :: The kids pull you in a million directions too and you can’t run this committee, or set up that online petition, or host every time.
+- different :: You worry about Hattie like she is your own younger sister too, and she opens up to you in a different way.
+- forgiven :: He’s never really forgiven me for that comment at the wedding.
+- shoulder :: But you can’t shoulder it all.
+- checklist :: You can’t just checklist the day away.
+- together :: We said we would find time together: once the kids were both at school, once our jobs calmed down, once the house got sorted, but there is always something else sucking our time, so we need to be better at prioritizing time off.
+- bundling :: There is nothing better than the movie afternoons as a family, or bundling the kids into the car for a weekend on some rain-soaked British beach, sand in our toes and mugs of coffee in our hands.
+- opposite :: And there is absolutely nothing better than us sat opposite each other at a table eating and talking and laughing.
+- laughing :: And there is absolutely nothing better than us sat opposite each other at a table eating and talking and laughing.
+
+## ⭐ 基础
+- author :: In a conference room at a publisher’s, or in a manuscript that has kept you up or in an author meeting, or worrying about a friend’s divorce or dreaming up a letter to force the council to reinstate the lollipop man.
+- baby stuff :: About the baby stuff.
+- bite :: OK, so admittedly I think you struggled a little with the last five (“The way you nibble on your bread rather than take a bite’?
+- day away :: You can’t just checklist the day away.
+- family :: There is nothing better than the movie afternoons as a family, or bundling the kids into the car for a weekend on some rain-soaked British beach, sand in our toes and mugs of coffee in our hands.
+- fountain pen :: A fountain pen!
+- friend :: In a conference room at a publisher’s, or in a manuscript that has kept you up or in an author meeting, or worrying about a friend’s divorce or dreaming up a letter to force the council to reinstate the lollipop man.
+- guts wrench :: I can’t imagine losing two babies, it makes my guts wrench.
+- hands :: There is nothing better than the movie afternoons as a family, or bundling the kids into the car for a weekend on some rain-soaked British beach, sand in our toes and mugs of coffee in our hands.
+- jobs :: We said we would find time together: once the kids were both at school, once our jobs calmed down, once the house got sorted, but there is always something else sucking our time, so we need to be better at prioritizing time off.
+- kids :: You remember what our kids’ friends like to eat, and you send brownies when a friend is sad, flowers when someone is ill, frozen COOK meals to anyone who has given birth, you phone authors late at night when you’ve just finished their manuscript and are buzzing, you send cards to people for literally anything.
+- kids pull :: The kids pull you in a million directions too and you can’t run this committee, or set up that online petition, or host every time.
+- laziest dog :: I know you worry about play dates and socialization and what size shoes the kids now take, and their optician appointments and if the dog has been walked long enough (he always has, Gus is literally the laziest dog I know) but it’s too much for one human person.
+- list :: Hattie and you arranging the secret Grease fancy party in the vintage bowling alley with all my friends—er tick—brunch in bed with the kids and then lunch out with you handing me the list.
+- movie afternoons :: There is nothing better than the movie afternoons as a family, or bundling the kids into the car for a weekend on some rain-soaked British beach, sand in our toes and mugs of coffee in our hands.
+- optician appointments :: I know you worry about play dates and socialization and what size shoes the kids now take, and their optician appointments and if the dog has been walked long enough (he always has, Gus is literally the laziest dog I know) but it’s too much for one human person.
+- vitamins :: And I’ve been less ill and you don’t even rub it in that it’s the vitamins, you’re just happy I get less sick.

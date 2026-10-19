@@ -1,0 +1,170 @@
+# ch57 候选池（词头 + 逐字例句，由 vocab_candidates 从本章 text/ 抽取）
+
+
+## ⭐⭐⭐ 高级
+- restaurant :: Then I’d take Hattie to a different restaurant in London.
+- playground :: Smiling as I listened to the shouts and giggles of the children in the playground as they bustled inside.
+- appreciating :: I looked forward to my list of jobs, changing my routes some days to explore new London streets, appreciating the vivid red of an unseen wreath or a cheering Christmas tree hung with scrawled homemade decorations.
+- decorations :: I looked forward to my list of jobs, changing my routes some days to explore new London streets, appreciating the vivid red of an unseen wreath or a cheering Christmas tree hung with scrawled homemade decorations.
+- Pictionary :: The kids would be home soon and today I didn’t feel like another game of Pictionary.
+- ice-skating :: “Let’s go ice-skating,” I said, beaming around the room, Hattie playing gin rummy with Miles.
+- silhouetted :: The Natural History Museum looked beautiful silhouetted in the twilight; dramatic colored lights softened the grand walls as we approached in a babbling group, Hattie linking arms with Poppy and Miles, her face content, the kids smiling.
+- approached :: The Natural History Museum looked beautiful silhouetted in the twilight; dramatic colored lights softened the grand walls as we approached in a babbling group, Hattie linking arms with Poppy and Miles, her face content, the kids smiling.
+- surrounded :: The outdoor rink was stunning; fairy lights hung in the trees that surrounded it, a kiosk selling mulled cider scented the whole place in sweetness.
+- confidence :: Dan’s hand was firm in mine as we made our way around, growing in confidence with every circuit.
+- frightened :: Miles was frightened at first, clinging to the sides or Hattie’s hand, but once he realized he could get round slowly he let go and, eyes wide, was seen passing us, legs rigid as he called out a hello, or spinning round grabbing Hattie’s waist until they ended up in a laughing heap on the ice.
+- completely :: Poppy seemed completely comfortable; she really did have a talent for balance, dance, was able to control her limbs in a way I never could.
+- comfortable :: Poppy seemed completely comfortable; she really did have a talent for balance, dance, was able to control her limbs in a way I never could.
+- Kensington :: The creperie in South Kensington was almost closed as we powered through the doors, filling the small space with noise.
+- ivy-covered :: I felt like Miles and Poppy when they were small, stopping on a pavement to point to a bug on the stone, a yellow-speckled leaf, a disused red postbox buried in an ivy-covered wall.
+- appreciation :: When had I lost that appreciation of the smaller things?
+- dissolving :: Miles pretended to be too old, too mature to laugh at such things, and then couldn’t help dissolving when she clapped like a seal.
+- bittersweet :: A glow within me—it had been perfect, giving way to that bittersweet ache when I thought of what was about to happen.
+- temptation :: The temptation to tell him overcame me.
+- half-opening :: His eyes widened, his mouth half-opening and then snapping shut.
+- eventually :: But eventually it made me realize how much time I’ve wasted on the wrong things, the wrong people, when all I wanted was more time with you.
+- wordlessly :: I nodded wordlessly, biting back the words I couldn’t help thinking: tomorrow someone will press the Reset button and I will need to find the energy to do it all over again.
+
+## ⭐⭐ 进阶
+- agreeing :: It would begin with me agreeing to meet her for lunch.
+- checklist :: I would do my “jobs” that morning, my checklist that made people happy, that made me happy.
+- different :: Then I’d take Hattie to a different restaurant in London.
+- persuaded :: I always persuaded her to come home with me.
+- bleeping :: My phone on silent, bleeping away to nobody from people I didn’t need in this new life.
+- sunflower :: I was sitting in the kitchen today, Gus nestled at my feet, hands wrapped around my mug, only the gentle tick of the gold sunflower filling the quiet.
+- relished :: I relished the feel of Miles’s hand in mine as we ambled along.
+- listened :: Smiling as I listened to the shouts and giggles of the children in the playground as they bustled inside.
+- changing :: I looked forward to my list of jobs, changing my routes some days to explore new London streets, appreciating the vivid red of an unseen wreath or a cheering Christmas tree hung with scrawled homemade decorations.
+- cheering :: I looked forward to my list of jobs, changing my routes some days to explore new London streets, appreciating the vivid red of an unseen wreath or a cheering Christmas tree hung with scrawled homemade decorations.
+- Christmas :: I looked forward to my list of jobs, changing my routes some days to explore new London streets, appreciating the vivid red of an unseen wreath or a cheering Christmas tree hung with scrawled homemade decorations.
+- scrawled :: I looked forward to my list of jobs, changing my routes some days to explore new London streets, appreciating the vivid red of an unseen wreath or a cheering Christmas tree hung with scrawled homemade decorations.
+- homemade :: I looked forward to my list of jobs, changing my routes some days to explore new London streets, appreciating the vivid red of an unseen wreath or a cheering Christmas tree hung with scrawled homemade decorations.
+- returned :: I returned from lunch with Hattie relaxed and happy.
+- shouting :: It had been painful enough the second or third time but now I knew all the answers and had to remind myself to stop shouting out IRONING and FISHING BOAT after they’d drawn the first line.
+- appealed :: None of the other games appealed either.
+- rejected :: I’d emptied the attic, dusting off games we hadn’t played for years, or ever, rejected Christmas presents, trips to the charity shop.
+- presents :: I’d emptied the attic, dusting off games we hadn’t played for years, or ever, rejected Christmas presents, trips to the charity shop.
+- relented :: She relented within seconds.
+- beautiful :: The Natural History Museum looked beautiful silhouetted in the twilight; dramatic colored lights softened the grand walls as we approached in a babbling group, Hattie linking arms with Poppy and Miles, her face content, the kids smiling.
+- twilight :: The Natural History Museum looked beautiful silhouetted in the twilight; dramatic colored lights softened the grand walls as we approached in a babbling group, Hattie linking arms with Poppy and Miles, her face content, the kids smiling.
+- dramatic :: The Natural History Museum looked beautiful silhouetted in the twilight; dramatic colored lights softened the grand walls as we approached in a babbling group, Hattie linking arms with Poppy and Miles, her face content, the kids smiling.
+- softened :: The Natural History Museum looked beautiful silhouetted in the twilight; dramatic colored lights softened the grand walls as we approached in a babbling group, Hattie linking arms with Poppy and Miles, her face content, the kids smiling.
+- babbling :: The Natural History Museum looked beautiful silhouetted in the twilight; dramatic colored lights softened the grand walls as we approached in a babbling group, Hattie linking arms with Poppy and Miles, her face content, the kids smiling.
+- stunning :: The outdoor rink was stunning; fairy lights hung in the trees that surrounded it, a kiosk selling mulled cider scented the whole place in sweetness.
+- sweetness :: The outdoor rink was stunning; fairy lights hung in the trees that surrounded it, a kiosk selling mulled cider scented the whole place in sweetness.
+- clinging :: Miles was frightened at first, clinging to the sides or Hattie’s hand, but once he realized he could get round slowly he let go and, eyes wide, was seen passing us, legs rigid as he called out a hello, or spinning round grabbing Hattie’s waist until they ended up in a laughing heap on the ice.
+- realized :: Miles was frightened at first, clinging to the sides or Hattie’s hand, but once he realized he could get round slowly he let go and, eyes wide, was seen passing us, legs rigid as he called out a hello, or spinning round grabbing Hattie’s waist until they ended up in a laughing heap on the ice.
+- spinning :: Miles was frightened at first, clinging to the sides or Hattie’s hand, but once he realized he could get round slowly he let go and, eyes wide, was seen passing us, legs rigid as he called out a hello, or spinning round grabbing Hattie’s waist until they ended up in a laughing heap on the ice.
+- grabbing :: Miles was frightened at first, clinging to the sides or Hattie’s hand, but once he realized he could get round slowly he let go and, eyes wide, was seen passing us, legs rigid as he called out a hello, or spinning round grabbing Hattie’s waist until they ended up in a laughing heap on the ice.
+- laughing :: Miles was frightened at first, clinging to the sides or Hattie’s hand, but once he realized he could get round slowly he let go and, eyes wide, was seen passing us, legs rigid as he called out a hello, or spinning round grabbing Hattie’s waist until they ended up in a laughing heap on the ice.
+- encourage :: As I watched her I vowed to encourage that side of her.
+- throwing :: All this,” I said, throwing out one arm and wobbling as I did so.
+- wobbling :: All this,” I said, throwing out one arm and wobbling as I did so.
+- thinking :: I really am just thinking that.
+- together :: “Well, me too,” he said, both of us moving in time together over the smooth surface, watching our children.
+- watching :: “Well, me too,” he said, both of us moving in time together over the smooth surface, watching our children.
+- creperie :: The creperie in South Kensington was almost closed as we powered through the doors, filling the small space with noise.
+- chocolate :: The smells—bacon, and cheese and apple and chocolate—clashed in the air as I squeezed into the booth next to Hattie.
+- squeezed :: The smells—bacon, and cheese and apple and chocolate—clashed in the air as I squeezed into the booth next to Hattie.
+- stopping :: I felt like Miles and Poppy when they were small, stopping on a pavement to point to a bug on the stone, a yellow-speckled leaf, a disused red postbox buried in an ivy-covered wall.
+- pavement :: I felt like Miles and Poppy when they were small, stopping on a pavement to point to a bug on the stone, a yellow-speckled leaf, a disused red postbox buried in an ivy-covered wall.
+- pancakes :: We ordered savory pancakes, enormous ice cream sundaes, chocolate sauce dribbling down the sides.
+- enormous :: We ordered savory pancakes, enormous ice cream sundaes, chocolate sauce dribbling down the sides.
+- dribbling :: We ordered savory pancakes, enormous ice cream sundaes, chocolate sauce dribbling down the sides.
+- breakfast :: Miles’s face lighter, a total contrast to the glum boy at breakfast.
+- pretended :: Miles pretended to be too old, too mature to laugh at such things, and then couldn’t help dissolving when she clapped like a seal.
+- twitching :: The taxi took us back home, and we dropped Hattie on the way, Ed twitching at the living room curtain.
+- question :: She paused, but only for a second, Dan tipping his head to one side in a question.
+- Actually :: “Actually,” I said, “if it’s OK, I think I’m going to keep it.
+- enjoying :: Too busy enjoying the heat from Dan’s body next to mine, our legs pressed together, Hattie curled in the armchair looking relaxed, Miles and Poppy cuddled into our sides.
+- armchair :: Too busy enjoying the heat from Dan’s body next to mine, our legs pressed together, Hattie curled in the armchair looking relaxed, Miles and Poppy cuddled into our sides.
+- Blankets :: Blankets, cushions, the candles lit as the weather worsened outside.
+- cushions :: Blankets, cushions, the candles lit as the weather worsened outside.
+- worsened :: Blankets, cushions, the candles lit as the weather worsened outside.
+- upstairs :: Hattie almost had to carry Miles upstairs, his head dipping onto his chest with tiredness.
+- tiredness :: Hattie almost had to carry Miles upstairs, his head dipping onto his chest with tiredness.
+- droplets :: A few more droplets of sleet spattered the windows.
+- spattered :: A few more droplets of sleet spattered the windows.
+- overcame :: The temptation to tell him overcame me.
+- dismissed :: I hadn’t told him, not since those early days when he had dismissed it all as a dream.
+- miserably :: I nod miserably.
+- happening :: He listened in perfect silence as I told him what had been happening.
+- snapping :: His eyes widened, his mouth half-opening and then snapping shut.
+- continued :: “You always die,” I continued.
+- wherever :: It would happen wherever he was, during whatever he was doing.
+- literally :: “I used to think I could stop it; it literally made me lose my head.
+- continue :: He squeezed my hand as I forced myself to continue, despite his quiet, shocked face.
+- wonderful :: “We’ve had wonderful days,” I said, trying to swallow down the catch in my throat.
+- tomorrow :: I nodded wordlessly, biting back the words I couldn’t help thinking: tomorrow someone will press the Reset button and I will need to find the energy to do it all over again.
+- believed :: I don’t know whether he truly believed me but he was quiet for a long time.
+- loosening :: As we lay down on our bed and he held me close to him, I felt myself relax, limbs loosening, thankful to have shared it all with him.
+- thankful :: As we lay down on our bed and he held me close to him, I felt myself relax, limbs loosening, thankful to have shared it all with him.
+
+## ⭐ 基础
+- cab :: “I’ll order a cab; you tell Dad to be ready in five.
+- children :: “Well, me too,” he said, both of us moving in time together over the smooth surface, watching our children.
+- quiet :: I was sitting in the kitchen today, Gus nestled at my feet, hands wrapped around my mug, only the gentle tick of the gold sunflower filling the quiet.
+- attic :: I’d emptied the attic, dusting off games we hadn’t played for years, or ever, rejected Christmas presents, trips to the charity shop.
+- bag :: “Go and get a bag.
+- body leaden :: But I wanted to share this with him, this enormous thing; I could feel my body leaden with my secret.
+- breath :: I took a breath.
+- candles lit :: Blankets, cushions, the candles lit as the weather worsened outside.
+- crumpled car :: An image of a crumpled car a little more faded.
+- deep breath :: Dust motes danced in the shafts of winter sun as I closed my eyes and took a deep breath.
+- discreet table :: The South Bank, Mayfair, Fulham; a discreet table, good food.
+- disused :: I felt like Miles and Poppy when they were small, stopping on a pavement to point to a bug on the stone, a yellow-speckled leaf, a disused red postbox buried in an ivy-covered wall.
+- doors :: The creperie in South Kensington was almost closed as we powered through the doors, filling the small space with noise.
+- dream :: I hadn’t told him, not since those early days when he had dismissed it all as a dream.
+- eyebrows shot :: His eyebrows shot toward the sky.
+- eyes :: His eyes widened, his mouth half-opening and then snapping shut.
+- face content :: The Natural History Museum looked beautiful silhouetted in the twilight; dramatic colored lights softened the grand walls as we approached in a babbling group, Hattie linking arms with Poppy and Miles, her face content, the kids smiling.
+- fingers :: He nodded and I squeezed his fingers.
+- gentle fizz :: The room was quiet, a gurgle from a radiator, the gentle fizz of the candle.
+- gentle tick :: I was sitting in the kitchen today, Gus nestled at my feet, hands wrapped around my mug, only the gentle tick of the gold sunflower filling the quiet.
+- gift :: A gift.
+- grand walls :: The Natural History Museum looked beautiful silhouetted in the twilight; dramatic colored lights softened the grand walls as we approached in a babbling group, Hattie linking arms with Poppy and Miles, her face content, the kids smiling.
+- hallway :: I’ll make popcorn,” I called as we all squeezed past the bike in the hallway.
+- hand :: I reached across and held his hand.
+- head :: “I used to think I could stop it; it literally made me lose my head.
+- head back :: “What a perfect day,” Dan said, resting his head back on the sofa.
+- head closer :: He reached to kiss me, pulling my head closer with a scarf, making my insides tingle.
+- hello :: Miles was frightened at first, clinging to the sides or Hattie’s hand, but once he realized he could get round slowly he let go and, eyes wide, was seen passing us, legs rigid as he called out a hello, or spinning round grabbing Hattie’s waist until they ended up in a laughing heap on the ice.
+- hundred times :: These days I seemed to notice subtle smells, details in places I’d walked past a hundred times.
+- ice :: Bundled up in layers we got our skates on and wobbled onto the ice.
+- insides tingle :: He reached to kiss me, pulling my head closer with a scarf, making my insides tingle.
+- kids :: The Natural History Museum looked beautiful silhouetted in the twilight; dramatic colored lights softened the grand walls as we approached in a babbling group, Hattie linking arms with Poppy and Miles, her face content, the kids smiling.
+- kiosk :: The outdoor rink was stunning; fairy lights hung in the trees that surrounded it, a kiosk selling mulled cider scented the whole place in sweetness.
+- kitchen :: Then I’d cycle or walk or sit in the window seat at home, warming my hands over frothy coffee as Dan moved around the kitchen, as Hattie stroked Gus, or reading on days I couldn’t quite keep the act up in front of them both.
+- legs :: Too busy enjoying the heat from Dan’s body next to mine, our legs pressed together, Hattie curled in the armchair looking relaxed, Miles and Poppy cuddled into our sides.
+- lip :: I bit my lip.
+- mantelpiece :: He couldn’t stop the glance at the clock over the mantelpiece, the math making him pause.
+- memory :: Her terrible scream now just a whimper in my memory.
+- mouth :: His eyes widened, his mouth half-opening and then snapping shut.
+- mug :: I was sitting in the kitchen today, Gus nestled at my feet, hands wrapped around my mug, only the gentle tick of the gold sunflower filling the quiet.
+- perfect day :: “What a perfect day,” Dan said, resting his head back on the sofa.
+- pet name :: Miles leaned in to give her a hug, “Do come, Aunt Tattie,” he said, his pet name for her.
+- present :: To live in the present, to live in a world where he is still alive.
+- radiator :: The room was quiet, a gurgle from a radiator, the gentle fizz of the candle.
+- relief :: I felt the relief, the same relief I felt every day that she was safe and home with us.
+- seal :: Miles pretended to be too old, too mature to laugh at such things, and then couldn’t help dissolving when she clapped like a seal.
+- skin :: I could feel his warm breath on my hair, his hands on my skin, and that was the last thing I remember before I fell asleep.
+- sky :: His eyebrows shot toward the sky.
+- small space :: The creperie in South Kensington was almost closed as we powered through the doors, filling the small space with noise.
+- smooth surface :: “Well, me too,” he said, both of us moving in time together over the smooth surface, watching our children.
+- stone :: I felt like Miles and Poppy when they were small, stopping on a pavement to point to a bug on the stone, a yellow-speckled leaf, a disused red postbox buried in an ivy-covered wall.
+- terrible scream :: Her terrible scream now just a whimper in my memory.
+- throat :: “We’ve had wonderful days,” I said, trying to swallow down the catch in my throat.
+- tiny laugh :: Believe me,” I said, a tiny laugh I didn’t feel, “I’ve tried to stop it.
+- top lip :: Hattie was making him laugh, two straws under her top lip, a walrus.
+- total contrast :: Miles’s face lighter, a total contrast to the glum boy at breakfast.
+- true :: My true family.
+- ugly truth :: Ask her to talk to me about Ed, reveal the ugly truth of him.
+- vivid :: I looked forward to my list of jobs, changing my routes some days to explore new London streets, appreciating the vivid red of an unseen wreath or a cheering Christmas tree hung with scrawled homemade decorations.
+- voice tight :: “Call him,” I said, my voice tight, not wanting her to go through the pain of that day.
+- walrus :: Hattie was making him laugh, two straws under her top lip, a walrus.
+- warm breath :: I could feel his warm breath on my hair, his hands on my skin, and that was the last thing I remember before I fell asleep.
+- weather :: Blankets, cushions, the candles lit as the weather worsened outside.
+- whole place :: The outdoor rink was stunning; fairy lights hung in the trees that surrounded it, a kiosk selling mulled cider scented the whole place in sweetness.
+- windows :: A few more droplets of sleet spattered the windows.
+- wrong people :: But eventually it made me realize how much time I’ve wasted on the wrong things, the wrong people, when all I wanted was more time with you.
+- yellow-speckled leaf :: I felt like Miles and Poppy when they were small, stopping on a pavement to point to a bug on the stone, a yellow-speckled leaf, a disused red postbox buried in an ivy-covered wall.

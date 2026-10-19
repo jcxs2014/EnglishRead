@@ -45,7 +45,18 @@ if [ -n "$EPUB" ]; then python3 scripts/verify_quotes.py "$B" "$EPUB" --full 2>&
 else echo "❓ 无 epub，无法判定"; fi
 
 echo; echo "=== ② check_vocab（词汇真实性/例句/分档）==="
-python3 scripts/check_vocab.py "$B" 2>&1 | grep -E "词条行合计|FAIL \(|WARN \("
+# ⚠️ 2026-10-19 修**假绿**（Maybe Next Time 批次实测）：
+#   原写法 `| grep -E "词条行合计|FAIL \(|WARN \("` **只打印** `FAIL (147)` 这行文字，
+#   **不把 FAIL 计入退出码** ⇒ gate.sh 报「0 条阻断型 · 退出码 0」而 check_vocab 实际 FAIL 147。
+#   ⇒ 改为与 ③ lane 同一口径：**先取退出码，再按结论行判红**。
+#   （判据仍是「结论/退出码」，不是 grep 匹配与否——记忆 #2048。）
+_cv_out=$(python3 scripts/check_vocab.py "$B" 2>&1); _cv_rc=$?
+echo "$_cv_out" | grep -E "词条行合计|FAIL \(|WARN \("
+if [ "$_cv_rc" -ne 0 ]; then
+  echo "--- check_vocab 阻断明细（FAIL 非 0）---"
+  echo "$_cv_out" | awk '/^--- FAIL/,/^--- WARN/' | grep -E "^  ch" -A1 | head -40
+  echo "❌ check_vocab FAIL != 0（词表层缺陷：例句不命中本章 / 词条虚构 / 占位符）"
+fi
 
 echo; echo "=== ③ check_entities（梗概实体一致性）==="
 # ⚠️ 2026-10-18：本 lane 原为 `| tail -1`，而 check_entities 修完真空绿后

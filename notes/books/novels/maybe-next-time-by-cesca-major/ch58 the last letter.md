@@ -79,36 +79,35 @@
 ### ⭐⭐⭐ 高级
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| gratitude | 感激；感谢 | Dan's gratitude |
-| farewell | 告别；送别 | Dan's farewell |
-| declaration | 宣言；声明 | Dan's declaration |
-| reflection | 反思；回顾 | Dan's reflection |
-| acceptance | 接受；承认 | Dan's acceptance |
-| expansion | 扩张；扩大 | my heart expands and expands |
+|---|---|---|
+| perma-frown | 永久的愁容 | Poppy, our beautiful firstborn with her perma-frown and her impossibly small fingers. |
+| starfishing | 四肢摊成大字形 | Her tiny body in that first white bodysuit, the way she’d nuzzle into my neck on dark nights, her warm, chubby toddler body starfishing when she snuck into our bed, trick or treating dressed as a ghost running around the streets on Halloween or curled up in my lap as we watched Frozen for the billionth time. |
+| comforting | 安慰的；抚慰的 | His countless childhood fears of grass and sand and buttons and balloons that would send him flying in our direction for a comforting cuddle, his hand reaching to squeeze ours. |
+| miraculously | 奇迹般地 | That fall from the second story of that house, Hattie finding me in the street below barely conscious, my fall miraculously broken by an old mattress. |
+| intervention | 干预；介入 | And whether that was luck or chance or divine intervention, I’ll never know. |
+| instructions | 指引；交代事项 | And to stop me breaking down now, I want to leave you some practical instructions. |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| gratitude | 感激 | Dan's gratitude |
-| farewell | 告别 | Dan's farewell |
-| declaration | 宣言 | Dan's declaration |
-| reflection | 反思 | Dan's reflection |
-| acceptance | 接受 | Dan's acceptance |
-| expansion | 扩张 | my heart expands and expands |
+|---|---|---|
+| bodysuit | 婴儿连体衣 | Her tiny body in that first white bodysuit, the way she’d nuzzle into my neck on dark nights, her warm, chubby toddler body starfishing when she snuck into our bed, trick or treating dressed as a ghost running around the streets on Halloween or curled up in my lap as we watched Frozen for the billionth time. |
+| Halloween | 万圣节前夜 | Her tiny body in that first white bodysuit, the way she’d nuzzle into my neck on dark nights, her warm, chubby toddler body starfishing when she snuck into our bed, trick or treating dressed as a ghost running around the streets on Halloween or curled up in my lap as we watched Frozen for the billionth time. |
+| talented | 有天赋的 | Now she is talented and funny and fiery and has her own secrets, her own opinions. |
+| vivacious | 活泼的；精力充沛的 | You are my wonderful, vivacious, ambitious, gorgeous wife. |
+| ambitious | 有抱负的；野心勃勃的 | You are my wonderful, vivacious, ambitious, gorgeous wife. |
+| earphones | 耳机 | On that flight back, as I stared across the aisle at you, earphones on, tears streaking your face from the movie you were absorbed in, I knew I would never be without you. |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| bathroom | 浴室 | I'm in our bathroom writing this |
-| Poppy | Poppy（女儿） | Poppy, our beautiful firstborn |
-| Miles | Miles（儿子） | Miles, our gentle, sweet boy |
-| Hattie | Hattie（妹妹） | Hattie's wedding |
-| Ed | Ed（Hattie 的丈夫） | Ed's abuse |
-| miscarriage | 流产 | I lost a baby |
-
+|---|---|---|
+| dad | 爸爸 | You have my dad, my sister. |
+| universe | 宇宙 | What if this was the universe granting you that same privilege? |
+| older sister | 姐姐 | His adoration of his older sister and his gentle approach with any baby or toddler who crosses his path. |
+| best aunt | 最棒的姑姑 | Tell her that she is the best aunt, the best friend, and she will survive it if she leaves him. |
+| gentlest soul | 最温柔的灵魂 | And Miles, the gentlest soul, with a line of steel running through him. |
+| life together | 共同的生活 | Our love, our life together, has been the best thing that ever happened to me. |
 ## 一句话总结
 
 Dan 在死前半小时写的信——"I'm in our bathroom writing this. You are asleep in our bed and, if what you've said is true, I am going to die in less than half an hour so I need to be quick."——Dan 向 Emma、Poppy、Miles 告别，表达对生命的感激与爱。

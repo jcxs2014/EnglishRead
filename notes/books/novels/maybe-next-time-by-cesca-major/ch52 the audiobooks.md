@@ -59,36 +59,35 @@
 ### ⭐⭐⭐ 高级
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| lethargic | 嗜睡的；无精打采的 | He's lethargic |
-| fixable | 可修复的；可解决的 | Gus's problems were fixable |
-| prognosis | 预后；预测 | the vet's prognosis |
-| conviction | 坚信；信念 | Emma's conviction |
-| contented | 满足的；知足的 | something solid and contented |
-| frisson | 颤栗；兴奋 | a frisson of possibility |
+|---|---|---|
+| cryptically | 神秘地；含糊地 | “Keep your mobile on today,” I called cryptically before slamming the door. |
+| appointment | 预约；约诊 | The vet had moved an appointment to see him and I drove the short distance and coaxed him out. |
+| responsibility | 责任 | To teach them responsibility, empathy, and care. |
+| consultation | 问诊；会诊 | Inside the small, square consultation room I gently laid Gus on the table. |
+| flagrantly | 肆无忌惮地 | He loved having his belly rubbed and would flagrantly roll about on the floor in front of visitors to see if they would oblige and, if their biscuit just happened to be in reach, they would lose their custard cream to his innocent face. |
+| medication | 药物；治疗 | We left the vet with me professing my thanks, medication in a bag. |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| thoughtful | 体贴的；周到的 | you are very thoughtful |
-| modesty | 谦虚；谦逊 | Emma's modesty |
-| relief | 解脱；宽慰 | My body sagged with the relief |
-| routine | 例行程序；日常 | Emma's "gift" routine |
-| good deeds | 善行；好事 | My good deeds of the day |
-| light | 轻盈的；轻松的 | made me feel so light and happy |
+|---|---|---|
+| perplexed | 困惑的；不知所措 | “I wasn’t sure which genre she’d like but perhaps your mum could try a few of these,” I said, as, perplexed, he picked up one of the CDs. |
+| reassure | 使安心 | I wanted the vet to reassure me he’d be OK, that he’d be back to being the idiot we loved. |
+| lethargic | 昏昏欲睡的；无精打采的 | “He’s lethargic, he’s off his food,” I explained to the vet, the stethoscope round his neck, the mask back up as he felt gently around Gus’s body. |
+| intention | 意图；打算 | Gus had been rescued with the intention of being the children’s dog. |
+| backroom | 后屋；里间 | Jurek closed the lid of the box and gently carried it into a backroom. |
+| crinkled | 起皱的 | The vet emerged in blue scrubs, crinkled eyes over a face mask that he pulled down when he greeted me. |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| Synulox | Synulox（兽用抗生素） | inject him with Synulox |
-| cataracts | 白内障 | her eyes are the cataracts |
-| audiobooks | 有声书 | box of audiobooks |
-| Jurek | Jurek（咖啡馆老板） | I'll see you tomorrow |
-| Charlie | Charlie（编辑） | The phone rang and a woman greeted me |
-| Ernestina | Ernestina（作者） | Ernestina's book |
-
+|---|---|---|
+| vet | 兽医 | The vet emerged in blue scrubs, crinkled eyes over a face mask that he pulled down when he greeted me. |
+| leash | 牵引绳；狗绳 | Finding his leash, I carried him out to the car. |
+| gift | 礼物 | It’s a gift, I repeated. |
+| belly | 肚子 | I drew out my phone and scrolled down the names feeling a frisson of possibility, a spark in my belly. |
+| mum | 妈妈 | Did he not want me knowing so much about his mum? |
+| shoulders | 肩膀 | I realized then it wasn’t an uncomfortable silence as he pushed back his shoulders, his expression wobbling. |
 ## 一句话总结
 
 Emma 给 Jurek 妈妈送有声书 CD、带 Gus 看兽医（Gus 只是感染、可治）、给编辑 Charlie 打电话推荐 Ernestina 的书；Emma 的"礼物" routine 继续——帮助他人让她感到轻盈快乐。

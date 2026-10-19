@@ -79,36 +79,35 @@
 ### ⭐⭐⭐ 高级
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| wholeheartedly | 全心全意地；真心地 | I accepted wholeheartedly |
-| dissolved | 溶解；消失 | Months of fury dissolved |
-| inevitability | 不可避免性 | Dan's death was inevitable |
-| compulsion | 强迫；冲动 | Emma's compulsion |
-| miscarriage | 流产 | I lost a baby. A baby girl. Seven weeks. |
-| emotional abuse | 情感虐待 | Ed is emotionally abusive |
+|---|---|---|
+| scratching | 抓挠 | I was unable to stop scratching the itch that began every evening as the sleet started dotting the windows. |
+| inexplicably | 莫名其妙地 | I would watch as she seemed to inexplicably lose control, black ice, the car swerving helplessly, the terrible moment metal hit metal and the back wheels lifted off the ground, the jolt running through the whole vehicle. |
+| helplessly | 无助地 | I would watch as she seemed to inexplicably lose control, black ice, the car swerving helplessly, the terrible moment metal hit metal and the back wheels lifted off the ground, the jolt running through the whole vehicle. |
+| wholeheartedly | 全心全意地 | And in that second I accepted wholeheartedly that it was not Hattie’s fault. |
+| splintering | 碎裂；心碎 | She hiccuped as I waited, heart splintering for my friend. |
+| devastating | 毁灭性的；令人心碎的 | Like he hadn’t just said the most devastating thing. |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| forgiveness | 原谅；宽恕 | Emma's forgiveness of Hattie |
-| compulsion | 强迫；冲动 | Emma's compulsion |
-| revelation | 揭示；揭露 | the chapter's revelation |
-| abuse | 虐待 | Ed is emotionally abusive |
-| miscarriage | 流产 | I lost a baby |
-| forgiveness | 原谅 | Emma forgives Hattie |
+|---|---|---|
+| wreckage | 残骸；碎片 | My heart ached as I forgot for a moment about my own pain and watched my friend, a faithful friend, stumble out of her car, staring at the wreckage around her, shocked and upset as she stood on the pavement. |
+| tangible | 确实的；有形的 | I’d wanted to cling to the anger, blame someone, focus all my energy on something tangible. |
+| appalled | 惊骇的 | “He said, ‘At least next time it might be a boy,’ and then,” she swallowed, unable to hold my appalled gaze, “he kept eating his dinner. |
+| childhood | 童年 | I’d find them sometimes gripping their sides over a shared joke from childhood, swapping memories of their mum, Dan casually slinging an arm across her shoulders on a walk. |
+| fiercely | 猛烈地；深深地 | She loved him fiercely, would do anything for him, and had never let us down. |
+| shivering | 发抖的；战栗的 | Her whole body was shivering as I let her quietly into the house, steered her to an armchair. |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| Gus | Gus（狗的名字） | Pulling on Gus to come |
-| Hattie | Hattie（Emma 的好友） | She was safe, she would stay here with us |
-| Ed | Ed（Hattie 的丈夫） | I'm leaving him, Emma |
-| Dover sole | 多佛尔鳎鱼（一种鱼） | His Dover sole |
-| airbag | 气囊 | lost to the airbag |
-| crumpled | 弄皱的；压扁的 | the crumpled hood |
-
+|---|---|---|
+| baby | 婴儿 | “I lost a baby. |
+| anger | 愤怒 | I’d wanted to cling to the anger, blame someone, focus all my energy on something tangible. |
+| heart | 心；内心 | My heart ached as I forgot for a moment about my own pain and watched my friend, a faithful friend, stumble out of her car, staring at the wreckage around her, shocked and upset as she stood on the pavement. |
+| jolt | 震动；颠簸 | I would watch as she seemed to inexplicably lose control, black ice, the car swerving helplessly, the terrible moment metal hit metal and the back wheels lifted off the ground, the jolt running through the whole vehicle. |
+| dinner | 晚餐 | “He said, ‘At least next time it might be a boy,’ and then,” she swallowed, unable to hold my appalled gaze, “he kept eating his dinner. |
+| best friend | 最好的朋友 | My best friend. |
 ## 一句话总结
 
 Emma 每晚回到事故现场，最终原谅 Hattie；Hattie 揭露 Ed 的虐待与流产；Emma 接纳 Hattie 住进家中——"And in that second I accepted wholeheartedly that it was not Hattie's fault. He always died."

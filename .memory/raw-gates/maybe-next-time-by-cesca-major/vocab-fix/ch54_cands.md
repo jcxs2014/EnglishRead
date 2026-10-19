@@ -1,0 +1,95 @@
+# ch54 候选池（词头 + 逐字例句，由 vocab_candidates 从本章 text/ 抽取）
+
+
+## ⭐⭐⭐ 高级
+- definitely :: And we should all definitely be awarded some kind of medal.
+- s-make-a-viral-video-in-our-downtime :: It’s not as sunny and warm and we’re all definitely wearier and less let’s-make-a-viral-video-in-our-downtime.
+- back-to-back :: In fact, what with back-to-back Zooms, endless reading in the evenings and weekends to catch up because of homeschool hell it feels like although I see you all the time, it is rarely in any meaningful way.
+- homeschool :: In fact, what with back-to-back Zooms, endless reading in the evenings and weekends to catch up because of homeschool hell it feels like although I see you all the time, it is rarely in any meaningful way.
+- meaningful :: In fact, what with back-to-back Zooms, endless reading in the evenings and weekends to catch up because of homeschool hell it feels like although I see you all the time, it is rarely in any meaningful way.
+- comforting :: You’re on a committee or dropping a sack of toddler clothes to a neighbor or comforting a friend over the phone on her marital breakup or an author over a rejected book.
+- experience :: Sorry, I don’t want to be an arsehole for the whole letter, but I know from past experience that when we write stuff like this down it can prompt us to talk more.
+- frustrated :: Maybe I’m feeling frustrated because when we’ve done things together this year it’s reminded me how much I love you, love our family.
+- homeschooling :: I thought I’d hate homeschooling the kids but—it was, AT TIMES (let’s not go too far) a little bit fun.
+- pretending :: You googling what a fronted adverbial was (I totally saw you) and then pretending to just know, was a highlight.
+- presentation :: Obviously where I excelled (and I’m glad to see at least ONE of our children might take after me) was presentation—getting them their own little box file, upgrading our home printer, having the excuse to buy myself an industrial-sized hole puncher was the dream.
+- Cheltenham :: But God, those crunch times were nuts—the crisis over tickets for Cheltenham, that 200-page presentation for the RFU (it became your turn to remind me that I’d barely spoken a word to the kids for a week), the production company canceling the option on Scarlet’s book, trying to be the kids’ parent/friend/teacher/counselor—it felt impossible for us both to juggle it all.
+- impossible :: But God, those crunch times were nuts—the crisis over tickets for Cheltenham, that 200-page presentation for the RFU (it became your turn to remind me that I’d barely spoken a word to the kids for a week), the production company canceling the option on Scarlet’s book, trying to be the kids’ parent/friend/teacher/counselor—it felt impossible for us both to juggle it all.
+- challenges :: Although this lockdown has a very Winter Is Coming vibe, it’s made me cherish you all even more knowing that families have faced far worse challenges.
+- nonexistent :: Despite the work being almost nonexistent right now, despite the panic in our industry, I’m lucky that, so far, the family and friends we love are OK, that we are not grieving like so many others.
+- improvised :: Well, instead of comedy nights or trips to the West End or jazz in Soho, we’ve improvised.
+
+## ⭐⭐ 进阶
+- official :: I think it’s official that global pandemics suck balls.
+- pandemics :: I think it’s official that global pandemics suck balls.
+- together :: We’re still together.
+- flatpack :: Remember how long it takes to build flatpack furniture?
+- furniture :: Remember how long it takes to build flatpack furniture?
+- sunshine :: After the clapping/sunshine/whoop/furlough first lockdown the year has dragged on.
+- furlough :: After the clapping/sunshine/whoop/furlough first lockdown the year has dragged on.
+- convinced :: And I’ve convinced myself it’s the lockdown, it’s COVID, it’s all the added stresses on you but .
+- weekends :: In fact, what with back-to-back Zooms, endless reading in the evenings and weekends to catch up because of homeschool hell it feels like although I see you all the time, it is rarely in any meaningful way.
+- although :: In fact, what with back-to-back Zooms, endless reading in the evenings and weekends to catch up because of homeschool hell it feels like although I see you all the time, it is rarely in any meaningful way.
+- flatmates :: I feel like we are flatmates sometimes.
+- committee :: You’re on a committee or dropping a sack of toddler clothes to a neighbor or comforting a friend over the phone on her marital breakup or an author over a rejected book.
+- dropping :: You’re on a committee or dropping a sack of toddler clothes to a neighbor or comforting a friend over the phone on her marital breakup or an author over a rejected book.
+- neighbor :: You’re on a committee or dropping a sack of toddler clothes to a neighbor or comforting a friend over the phone on her marital breakup or an author over a rejected book.
+- generous :: And it is one of the things I love about you—that you are so generous, loving, kind—but sometimes I feel like we’re so far down your list, or we need to be hurting or sad for you to notice us.
+- important :: I just think sometimes you need to ask whether everything is as important.
+- arsehole :: Sorry, I don’t want to be an arsehole for the whole letter, but I know from past experience that when we write stuff like this down it can prompt us to talk more.
+- reminder :: They’ve jolted me; they’ve acted as a reminder of what I could lose.
+- reminded :: Maybe I’m feeling frustrated because when we’ve done things together this year it’s reminded me how much I love you, love our family.
+- googling :: You googling what a fronted adverbial was (I totally saw you) and then pretending to just know, was a highlight.
+- laughing :: You laughing with me because I LITERALLY COULD NOT DO POPPY’S LONG DIVISION (math has definitely got harder).
+- LITERALLY :: You laughing with me because I LITERALLY COULD NOT DO POPPY’S LONG DIVISION (math has definitely got harder).
+- DIVISION :: You laughing with me because I LITERALLY COULD NOT DO POPPY’S LONG DIVISION (math has definitely got harder).
+- Obviously :: Obviously where I excelled (and I’m glad to see at least ONE of our children might take after me) was presentation—getting them their own little box file, upgrading our home printer, having the excuse to buy myself an industrial-sized hole puncher was the dream.
+- excelled :: Obviously where I excelled (and I’m glad to see at least ONE of our children might take after me) was presentation—getting them their own little box file, upgrading our home printer, having the excuse to buy myself an industrial-sized hole puncher was the dream.
+- children :: Obviously where I excelled (and I’m glad to see at least ONE of our children might take after me) was presentation—getting them their own little box file, upgrading our home printer, having the excuse to buy myself an industrial-sized hole puncher was the dream.
+- upgrading :: Obviously where I excelled (and I’m glad to see at least ONE of our children might take after me) was presentation—getting them their own little box file, upgrading our home printer, having the excuse to buy myself an industrial-sized hole puncher was the dream.
+- appearing :: Sometimes I did drop the baton (I am still very sorry about appearing in the back of that marketing meeting asking you whether it was a mole on my bum cheek or a bit of chocolate) and sometimes nailing it—two kids educated, our jobs done, wine opened, nowhere to go, just us moaning about it but feeling like we were doing it together.
+- marketing :: Sometimes I did drop the baton (I am still very sorry about appearing in the back of that marketing meeting asking you whether it was a mole on my bum cheek or a bit of chocolate) and sometimes nailing it—two kids educated, our jobs done, wine opened, nowhere to go, just us moaning about it but feeling like we were doing it together.
+- chocolate :: Sometimes I did drop the baton (I am still very sorry about appearing in the back of that marketing meeting asking you whether it was a mole on my bum cheek or a bit of chocolate) and sometimes nailing it—two kids educated, our jobs done, wine opened, nowhere to go, just us moaning about it but feeling like we were doing it together.
+- educated :: Sometimes I did drop the baton (I am still very sorry about appearing in the back of that marketing meeting asking you whether it was a mole on my bum cheek or a bit of chocolate) and sometimes nailing it—two kids educated, our jobs done, wine opened, nowhere to go, just us moaning about it but feeling like we were doing it together.
+- canceling :: But God, those crunch times were nuts—the crisis over tickets for Cheltenham, that 200-page presentation for the RFU (it became your turn to remind me that I’d barely spoken a word to the kids for a week), the production company canceling the option on Scarlet’s book, trying to be the kids’ parent/friend/teacher/counselor—it felt impossible for us both to juggle it all.
+- counselor :: But God, those crunch times were nuts—the crisis over tickets for Cheltenham, that 200-page presentation for the RFU (it became your turn to remind me that I’d barely spoken a word to the kids for a week), the production company canceling the option on Scarlet’s book, trying to be the kids’ parent/friend/teacher/counselor—it felt impossible for us both to juggle it all.
+- greeting :: “You again’—a morning greeting from you a definite low point.
+- definite :: “You again’—a morning greeting from you a definite low point.
+- families :: Although this lockdown has a very Winter Is Coming vibe, it’s made me cherish you all even more knowing that families have faced far worse challenges.
+- grieving :: Despite the work being almost nonexistent right now, despite the panic in our industry, I’m lucky that, so far, the family and friends we love are OK, that we are not grieving like so many others.
+- watching :: I’m not sure I’ll ever get over watching you faking Miles’s birthday card from them.
+- birthday :: I’m not sure I’ll ever get over watching you faking Miles’s birthday card from them.
+- realized :: And I’m sorry I hadn’t realized how much it can affect you.
+- deckchair :: Her evenings, blanket round her shoulders, on a deckchair on our tiny path with her flask of tea as you chat really brought home who loves us.
+- navigate :: So I know this year has been hard, I know we still need to navigate the rest of this pandemic but I am grateful that if they were going to lock me in a house, then at least it was with you.
+- pandemic :: So I know this year has been hard, I know we still need to navigate the rest of this pandemic but I am grateful that if they were going to lock me in a house, then at least it was with you.
+- grateful :: So I know this year has been hard, I know we still need to navigate the rest of this pandemic but I am grateful that if they were going to lock me in a house, then at least it was with you.
+
+## ⭐ 基础
+- added stresses :: And I’ve convinced myself it’s the lockdown, it’s COVID, it’s all the added stresses on you but .
+- baton :: Sometimes I did drop the baton (I am still very sorry about appearing in the back of that marketing meeting asking you whether it was a mole on my bum cheek or a bit of chocolate) and sometimes nailing it—two kids educated, our jobs done, wine opened, nowhere to go, just us moaning about it but feeling like we were doing it together.
+- building :: Neither of us can leave the building—but would you even have the energy to leave me?
+- bum cheek :: Sometimes I did drop the baton (I am still very sorry about appearing in the back of that marketing meeting asking you whether it was a mole on my bum cheek or a bit of chocolate) and sometimes nailing it—two kids educated, our jobs done, wine opened, nowhere to go, just us moaning about it but feeling like we were doing it together.
+- clapping :: After the clapping/sunshine/whoop/furlough first lockdown the year has dragged on.
+- dream :: Obviously where I excelled (and I’m glad to see at least ONE of our children might take after me) was presentation—getting them their own little box file, upgrading our home printer, having the excuse to buy myself an industrial-sized hole puncher was the dream.
+- electric drill :: And I wouldn’t lend you my electric drill if you left me.
+- evenings :: Her evenings, blanket round her shoulders, on a deckchair on our tiny path with her flask of tea as you chat really brought home who loves us.
+- family :: Maybe I’m feeling frustrated because when we’ve done things together this year it’s reminded me how much I love you, love our family.
+- fronted adverbial :: You googling what a fronted adverbial was (I totally saw you) and then pretending to just know, was a highlight.
+- highlight :: You googling what a fronted adverbial was (I totally saw you) and then pretending to just know, was a highlight.
+- home printer :: Obviously where I excelled (and I’m glad to see at least ONE of our children might take after me) was presentation—getting them their own little box file, upgrading our home printer, having the excuse to buy myself an industrial-sized hole puncher was the dream.
+- hot tub :: The renting of a hot tub was a particular stroke of genius.
+- industrial-sized hole :: Obviously where I excelled (and I’m glad to see at least ONE of our children might take after me) was presentation—getting them their own little box file, upgrading our home printer, having the excuse to buy myself an industrial-sized hole puncher was the dream.
+- industry :: Despite the work being almost nonexistent right now, despite the panic in our industry, I’m lucky that, so far, the family and friends we love are OK, that we are not grieving like so many others.
+- lockdown :: And I’ve convinced myself it’s the lockdown, it’s COVID, it’s all the added stresses on you but .
+- loss :: And sod your parents—if they want to stay in Spain it’s their loss.
+- marital breakup :: You’re on a committee or dropping a sack of toddler clothes to a neighbor or comforting a friend over the phone on her marital breakup or an author over a rejected book.
+- morning :: “You again’—a morning greeting from you a definite low point.
+- parents :: And sod your parents—if they want to stay in Spain it’s their loss.
+- particular stroke :: The renting of a hot tub was a particular stroke of genius.
+- plane :: God, it made me want to get on a plane, virus or no virus, and tell them how much they’ve missed out on.
+- production company :: But God, those crunch times were nuts—the crisis over tickets for Cheltenham, that 200-page presentation for the RFU (it became your turn to remind me that I’d barely spoken a word to the kids for a week), the production company canceling the option on Scarlet’s book, trying to be the kids’ parent/friend/teacher/counselor—it felt impossible for us both to juggle it all.
+- rejected book :: You’re on a committee or dropping a sack of toddler clothes to a neighbor or comforting a friend over the phone on her marital breakup or an author over a rejected book.
+- shoulders :: Her evenings, blanket round her shoulders, on a deckchair on our tiny path with her flask of tea as you chat really brought home who loves us.
+- week :: But God, those crunch times were nuts—the crisis over tickets for Cheltenham, that 200-page presentation for the RFU (it became your turn to remind me that I’d barely spoken a word to the kids for a week), the production company canceling the option on Scarlet’s book, trying to be the kids’ parent/friend/teacher/counselor—it felt impossible for us both to juggle it all.
+- year :: What a year.

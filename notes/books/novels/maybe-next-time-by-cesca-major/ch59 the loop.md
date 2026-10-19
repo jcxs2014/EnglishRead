@@ -29,33 +29,31 @@
 ### ⭐⭐⭐ 高级
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| restart | 重新开始 | the loop restarts |
-| awakening | 觉醒；醒悟 | Emma's awakening |
-| continuation | 继续；延续 | the loop's continuation |
-| circular | 循环的 | the novel's structure is circular |
-| thesis | 论点；论题 | the novel's thesis |
+|---|---|---|
+| curtains | 窗帘 | A slight crack in the curtains, showing gray clouds. |
+| laughing | 笑着；笑闹着 | A child laughing in the street. |
+| facing | 面向；正对着 | I am on my side, facing the window. |
+| showing | 显现；显出 | A slight crack in the curtains, showing gray clouds. |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| restart | 重新开始 | the loop restarts |
-| awakening | 觉醒 | Emma's awakening |
-| continuation | 继续 | the loop's continuation |
-| circular | 循环的 | the novel's structure is circular |
-| thesis | 论点 | the novel's thesis |
+|---|---|---|
+| alarm | 闹钟；警报 | The sound of the alarm. |
+| window | 窗户 | I am on my side, facing the window. |
+| street | 街道 | A child laughing in the street. |
+| crack | 裂缝；缝隙 | A slight crack in the curtains, showing gray clouds. |
+| clouds | 云；云层 | A slight crack in the curtains, showing gray clouds. |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| alarm | 闹钟；警报 | The sound of the alarm |
-| hiss | 嗤嗤声；嘶嘶声 | The hiss of a bus |
-| crack | 裂缝；缝隙 | A slight crack in the curtains |
-| gray clouds | 灰云 | showing gray clouds |
-| turn over | 翻身；转身 | I turn over |
-
+|---|---|---|
+| bus | 公共汽车 | The hiss of a bus. |
+| child | 孩子 | A child laughing in the street. |
+| eyes | 眼睛 | I open my eyes. |
+| gray | 灰的 | A slight crack in the curtains, showing gray clouds. |
+| turn over | 翻身；转身 | I turn over. |
 ## 一句话总结
 
 循环重新开始——"The sound of the alarm. I am on my side, facing the window. The hiss of a bus. A child laughing in the street. I open my eyes. A slight crack in the curtains, showing gray clouds. I turn over."——与 ch02 的开头几乎相同，但 Emma 已经不同。

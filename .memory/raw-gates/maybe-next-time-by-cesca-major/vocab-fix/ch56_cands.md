@@ -1,0 +1,108 @@
+# ch56 候选池（词头 + 逐字例句，由 vocab_candidates 从本章 text/ 抽取）
+
+
+## ⭐⭐⭐ 高级
+- scratching :: I was unable to stop scratching the itch that began every evening as the sleet started dotting the windows.
+- inexplicably :: I would watch as she seemed to inexplicably lose control, black ice, the car swerving helplessly, the terrible moment metal hit metal and the back wheels lifted off the ground, the jolt running through the whole vehicle.
+- helplessly :: I would watch as she seemed to inexplicably lose control, black ice, the car swerving helplessly, the terrible moment metal hit metal and the back wheels lifted off the ground, the jolt running through the whole vehicle.
+- frightened :: His fall, his almost death, had frightened her to her core, the fear she might have lost him and their mum in such a short space of time.
+- frustrated :: She had been frantic about the fact that she’d been angry with him that week, frustrated that he wasn’t fixing things with me, being a better father.
+- relationship :: Their relationship grew even closer.
+- wholeheartedly :: And in that second I accepted wholeheartedly that it was not Hattie’s fault.
+- Instinctively :: Instinctively I stepped across to her.
+- splintering :: She hiccuped as I waited, heart splintering for my friend.
+- devastating :: Like he hadn’t just said the most devastating thing.
+
+## ⭐⭐ 进阶
+- imagined :: The car would appear, slower than I’d imagined.
+- swerving :: I would watch as she seemed to inexplicably lose control, black ice, the car swerving helplessly, the terrible moment metal hit metal and the back wheels lifted off the ground, the jolt running through the whole vehicle.
+- wherever :: And I knew he would always be gone at that time, wherever he was.
+- forgotten :: I’d never forgotten the agony on her face when I’d rushed to the hospital after his fall from that balcony a decade ago.
+- hospital :: I’d never forgotten the agony on her face when I’d rushed to the hospital after his fall from that balcony a decade ago.
+- trembling :: She’d been bent over him, white and trembling, clutching his hand as she urged him to open his eyes.
+- clutching :: She’d been bent over him, white and trembling, clutching his hand as she urged him to open his eyes.
+- happiness :: Then the relief and happiness when that accident had been such a turning point for him, grateful he’d sought help, chosen life.
+- accident :: Then the relief and happiness when that accident had been such a turning point for him, grateful he’d sought help, chosen life.
+- grateful :: Then the relief and happiness when that accident had been such a turning point for him, grateful he’d sought help, chosen life.
+- gripping :: I’d find them sometimes gripping their sides over a shared joke from childhood, swapping memories of their mum, Dan casually slinging an arm across her shoulders on a walk.
+- childhood :: I’d find them sometimes gripping their sides over a shared joke from childhood, swapping memories of their mum, Dan casually slinging an arm across her shoulders on a walk.
+- swapping :: I’d find them sometimes gripping their sides over a shared joke from childhood, swapping memories of their mum, Dan casually slinging an arm across her shoulders on a walk.
+- memories :: I’d find them sometimes gripping their sides over a shared joke from childhood, swapping memories of their mum, Dan casually slinging an arm across her shoulders on a walk.
+- casually :: I’d find them sometimes gripping their sides over a shared joke from childhood, swapping memories of their mum, Dan casually slinging an arm across her shoulders on a walk.
+- slinging :: I’d find them sometimes gripping their sides over a shared joke from childhood, swapping memories of their mum, Dan casually slinging an arm across her shoulders on a walk.
+- shoulders :: I’d find them sometimes gripping their sides over a shared joke from childhood, swapping memories of their mum, Dan casually slinging an arm across her shoulders on a walk.
+- fiercely :: She loved him fiercely, would do anything for him, and had never let us down.
+- returned :: I returned to the scene again and again.
+- wreckage :: My heart ached as I forgot for a moment about my own pain and watched my friend, a faithful friend, stumble out of her car, staring at the wreckage around her, shocked and upset as she stood on the pavement.
+- pavement :: My heart ached as I forgot for a moment about my own pain and watched my friend, a faithful friend, stumble out of her car, staring at the wreckage around her, shocked and upset as she stood on the pavement.
+- dressing :: Later the owner of the parked car would emerge in a dressing gown, his swear words clear from my end of the street as she cowered, taking it all, before the policeman would draw him away.
+- policeman :: Later the owner of the parked car would emerge in a dressing gown, his swear words clear from my end of the street as she cowered, taking it all, before the policeman would draw him away.
+- answered :: One night I answered, listening to her crying into the receiver.
+- listening :: One night I answered, listening to her crying into the receiver.
+- receiver :: One night I answered, listening to her crying into the receiver.
+- somewhere :: “I had to go somewhere safe.
+- worrying :: She was so shocked she agreed to follow me, worrying that she should wait for the police to come.
+- followed :: She followed me meekly as we walked back in the freezing cold, our breath cloudy in the icy air.
+- freezing :: She followed me meekly as we walked back in the freezing cold, our breath cloudy in the icy air.
+- shivering :: Her whole body was shivering as I let her quietly into the house, steered her to an armchair.
+- armchair :: Her whole body was shivering as I let her quietly into the house, steered her to an armchair.
+- carefully :: “He went to bed early,” I said carefully.
+- accepted :: And in that second I accepted wholeheartedly that it was not Hattie’s fault.
+- dissolved :: Months of fury dissolved as I looked across at her now, curled into herself in the oversized chair, her face a mask of pain, a red mark across one cheek.
+- tangible :: I’d wanted to cling to the anger, blame someone, focus all my energy on something tangible.
+- heaviness :: The heaviness I’d been dragging around dissolved, the last of my anger left.
+- dragging :: The heaviness I’d been dragging around dissolved, the last of my anger left.
+- sleeping :: Stepping inside I looked at him there on our bed, his face unlined as if he really was just sleeping.
+- whispered :: “I’ll see you in the morning,” I whispered to her.
+- murmured :: “I’m leaving him, Emma,” she murmured.
+- squeezed :: She squeezed her eyes closed as her voice shook, “Thank you.
+- admitted :: With Ed,” she admitted.
+- different :: “He’s different when we’re alone.
+- hiccuped :: She hiccuped as I waited, heart splintering for my friend.
+- swallowed :: “He said, ‘At least next time it might be a boy,’ and then,” she swallowed, unable to hold my appalled gaze, “he kept eating his dinner.
+- appalled :: “He said, ‘At least next time it might be a boy,’ and then,” she swallowed, unable to hold my appalled gaze, “he kept eating his dinner.
+- wobbling :: “Oh my God,” I said, my own voice wobbling in the face of her pain.
+- pathetic :: If we had a girl he’ll tell her she’s ugly, fat, pathetic.
+- together :: We would fix it together.
+- Tomorrow :: Tomorrow.
+- exhausted :: I stayed with her until she fell asleep in my arms, exhausted.
+- screeched :: An owl screeched in the dark outside as I held her close, felt her breathing even out.
+- breathing :: An owl screeched in the dark outside as I held her close, felt her breathing even out.
+
+## ⭐ 基础
+- baby :: “I lost a baby.
+- anger :: I’d wanted to cling to the anger, blame someone, focus all my energy on something tangible.
+- arm across :: I’d find them sometimes gripping their sides over a shared joke from childhood, swapping memories of their mum, Dan casually slinging an arm across her shoulders on a walk.
+- away :: “I’ve told them where to find you,” I lied as I led her away.
+- back wheels :: I would watch as she seemed to inexplicably lose control, black ice, the car swerving helplessly, the terrible moment metal hit metal and the back wheels lifted off the ground, the jolt running through the whole vehicle.
+- best friend :: My best friend.
+- better father :: She had been frantic about the fact that she’d been angry with him that week, frustrated that he wasn’t fixing things with me, being a better father.
+- boy :: “He said, ‘At least next time it might be a boy,’ and then,” she swallowed, unable to hold my appalled gaze, “he kept eating his dinner.
+- breath cloudy :: She followed me meekly as we walked back in the freezing cold, our breath cloudy in the icy air.
+- car :: I would watch as she seemed to inexplicably lose control, black ice, the car swerving helplessly, the terrible moment metal hit metal and the back wheels lifted off the ground, the jolt running through the whole vehicle.
+- child :: “He’ll do what he’s always done to me to our child.
+- decade ago :: I’d never forgotten the agony on her face when I’d rushed to the hospital after his fall from that balcony a decade ago.
+- dinner :: “He said, ‘At least next time it might be a boy,’ and then,” she swallowed, unable to hold my appalled gaze, “he kept eating his dinner.
+- eyes :: She wiped a sleeve over her eyes.
+- face :: One moment I could see her face, the next a white cloud of airbag.
+- faithful friend :: My heart ached as I forgot for a moment about my own pain and watched my friend, a faithful friend, stumble out of her car, staring at the wreckage around her, shocked and upset as she stood on the pavement.
+- fall :: His fall, his almost death, had frightened her to her core, the fear she might have lost him and their mum in such a short space of time.
+- feet :: “Stay here,” I said, sinking to sit by her feet.
+- friend :: My heart ached as I forgot for a moment about my own pain and watched my friend, a faithful friend, stumble out of her car, staring at the wreckage around her, shocked and upset as she stood on the pavement.
+- heart :: My heart ached as I forgot for a moment about my own pain and watched my friend, a faithful friend, stumble out of her car, staring at the wreckage around her, shocked and upset as she stood on the pavement.
+- house :: Her whole body was shivering as I let her quietly into the house, steered her to an armchair.
+- jolt :: I would watch as she seemed to inexplicably lose control, black ice, the car swerving helplessly, the terrible moment metal hit metal and the back wheels lifted off the ground, the jolt running through the whole vehicle.
+- legs :: “I’m sorry,” I said, resting my head against her legs.
+- oversized chair :: Months of fury dissolved as I looked across at her now, curled into herself in the oversized chair, her face a mask of pain, a red mark across one cheek.
+- parked car :: Later the owner of the parked car would emerge in a dressing gown, his swear words clear from my end of the street as she cowered, taking it all, before the policeman would draw him away.
+- red mark :: Months of fury dissolved as I looked across at her now, curled into herself in the oversized chair, her face a mask of pain, a red mark across one cheek.
+- shared joke :: I’d find them sometimes gripping their sides over a shared joke from childhood, swapping memories of their mum, Dan casually slinging an arm across her shoulders on a walk.
+- short space :: His fall, his almost death, had frightened her to her core, the fear she might have lost him and their mum in such a short space of time.
+- swear words :: Later the owner of the parked car would emerge in a dressing gown, his swear words clear from my end of the street as she cowered, taking it all, before the policeman would draw him away.
+- terrible moment :: I would watch as she seemed to inexplicably lose control, black ice, the car swerving helplessly, the terrible moment metal hit metal and the back wheels lifted off the ground, the jolt running through the whole vehicle.
+- turning point :: Then the relief and happiness when that accident had been such a turning point for him, grateful he’d sought help, chosen life.
+- voice shook :: She squeezed her eyes closed as her voice shook, “Thank you.
+- voice stronger :: “It hit me then,” she said, her voice stronger.
+- whole body :: Her whole body was shivering as I let her quietly into the house, steered her to an armchair.
+- whole vehicle :: I would watch as she seemed to inexplicably lose control, black ice, the car swerving helplessly, the terrible moment metal hit metal and the back wheels lifted off the ground, the jolt running through the whole vehicle.
+- windows :: I was unable to stop scratching the itch that began every evening as the sleet started dotting the windows.

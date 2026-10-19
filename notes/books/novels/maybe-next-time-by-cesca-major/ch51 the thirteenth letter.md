@@ -79,36 +79,35 @@
 ### ⭐⭐⭐ 高级
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| middle-aged | 中年的 | I am middle-aged |
-| manifest | 表现；显现 | how it'll manifest |
-| jolted | 震动；惊醒 | They've jolted me |
-| reassurance | 安慰；保证 | I'm here, I'm present |
-| generosity | 慷慨；大方 | You are insanely big-hearted |
-| vulnerability | 脆弱；弱点 | Dan's vulnerability |
+|---|---|---|
+| manuscript | 手稿；书稿 | You remember what our kids’ friends like to eat, and you send brownies when a friend is sad, flowers when someone is ill, frozen COOK meals to anyone who has given birth, you phone authors late at night when you’ve just finished their manuscript and are buzzing, you send cards to people for literally anything. |
+| thoughtful | 体贴的；周到的 | So, of course after more than a year or so of me harping on about Florence and what a great and thoughtful husband I am you pulled out the stops too. |
+| embarrassed | 尴尬的；难堪的 | Maybe he’s embarrassed or I’m not who he wants to talk to about it. |
+| prioritizing | 排定优先次序 | We said we would find time together: once the kids were both at school, once our jobs calmed down, once the house got sorted, but there is always something else sucking our time, so we need to be better at prioritizing time off. |
+| conference | 会议；研讨会 | In a conference room at a publisher’s, or in a manuscript that has kept you up or in an author meeting, or worrying about a friend’s divorce or dreaming up a letter to force the council to reinstate the lollipop man. |
+| socialization | 社交；社交训练 | I know you worry about play dates and socialization and what size shoes the kids now take, and their optician appointments and if the dog has been walked long enough (he always has, Gus is literally the laziest dog I know) but it’s too much for one human person. |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
-| milestone | 里程碑 | turning forty |
-| confrontation | 对抗；质问 | hide your phone |
-| distraction | 分心；分散注意力 | Mentally you disappear |
-| persistence | 坚持；毅力 | telling me to get into vitamins for twenty months |
-| reassurance | 安慰；保证 | I'm here, I'm present |
-| generosity | 慷慨；大方 | You are insanely big-hearted |
+|---|---|---|
+| manifest | 显现；显露 | I’m certainly excited to discover how it’ll manifest. |
+| exhausted | 筋疲力尽的 | But sometimes, because you are trying to do everything, for everyone, sometimes you’re exhausted for us. |
+| publisher | 出版商 | In a conference room at a publisher’s, or in a manuscript that has kept you up or in an author meeting, or worrying about a friend’s divorce or dreaming up a letter to force the council to reinstate the lollipop man. |
+| petition | 请愿书 | The kids pull you in a million directions too and you can’t run this committee, or set up that online petition, or host every time. |
+| reinstate | 恢复；重新任用 | In a conference room at a publisher’s, or in a manuscript that has kept you up or in an author meeting, or worrying about a friend’s divorce or dreaming up a letter to force the council to reinstate the lollipop man. |
+| forgiven | 原谅了 | He’s never really forgiven me for that comment at the wedding. |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句（本章） |
-|------|------|-------------|
+|---|---|---|
+| kids | 孩子们 | You remember what our kids’ friends like to eat, and you send brownies when a friend is sad, flowers when someone is ill, frozen COOK meals to anyone who has given birth, you phone authors late at night when you’ve just finished their manuscript and are buzzing, you send cards to people for literally anything. |
+| author | 作者 | In a conference room at a publisher’s, or in a manuscript that has kept you up or in an author meeting, or worrying about a friend’s divorce or dreaming up a letter to force the council to reinstate the lollipop man. |
 | fountain pen | 钢笔 | A fountain pen! |
-| ballpoint | 圆珠笔 | sneer at a ballpoint pen |
-| Vespa | 威斯巴（意大利踏板车） | almost dying together on a Vespa |
-| Florence | 佛罗伦萨 | we went to Florence |
-| Drum Awards | Drum 奖（营销/创意奖项） | nominated in The Drum Awards |
-| cataracts | 白内障 | her eyes are the cataracts |
-
+| vitamins | 维生素 | And I’ve been less ill and you don’t even rub it in that it’s the vitamins, you’re just happy I get less sick. |
+| bite | 一口；咬 | OK, so admittedly I think you struggled a little with the last five (“The way you nibble on your bread rather than take a bite’? |
+| laziest dog | 最懒的狗 | I know you worry about play dates and socialization and what size shoes the kids now take, and their optician appointments and if the dog has been walked long enough (he always has, Gus is literally the laziest dog I know) but it’s too much for one human person. |
 ## 一句话总结
 
 Dan 的第十三封周年纪念信（2019 年 12 月 3 日）——Emma 四十岁生日派对、佛罗伦萨、Hattie 的婚礼、Emma 父母的缺席；Dan 坦诚 Emma 的分心与" checklist the day away"，同时 reaffirm 爱情。
