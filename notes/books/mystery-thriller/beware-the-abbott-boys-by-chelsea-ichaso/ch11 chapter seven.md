@@ -15,61 +15,93 @@ modified: "2026-10-19"
 
 ## 精读
 
-### 第1处：Lydia 透露 Kennedy 的秘密男友
+### 第1处：Hayden 通过 Instagram 联系 Lydia
 
 > **原句 1:** "After knocking on Adam’s door and getting no response again, I walk home and spend my time scrolling social media like a true winner."
-中文理解：该引语为原文节选。
-关键词：After
+
+中文理解：Hayden 敲 Adam 的门没回应后，walk home 并 spend time scrolling social media like a true winner——显示她的 frustration 与 loneliness。
+
+句子结构：时间状语 (After knocking on Adam's door and getting no response again) + 主语 I + 谓语 walk home and spend + 宾语 (my time scrolling social media like a true winner)。
+
+关键词：scrolling social media（scrolling social media） / like a true winner（like a true winner）
+
+表达方式：Hayden 的内心独白，显示她的 frustration。
+
+为什么这样写：Hayden 的"scrolling social media like a true winner"显示她的 loneliness——Adam 不回应，Henry 不回消息，她只能通过 social media 寻找线索。
 
 ---
 
-### 第2处：Lydia 跟踪 Kennedy 到 Abbott 家 property
+### 第2处：Lydia 的 Instagram 帖文
 
 > **原句 2:** "As soon as I click on one post about Kennedy, another half dozen related posts pop onto my feed."
-中文理解：该引语为原文节选。
-关键词：soon
+
+中文理解：Hayden 点击 Kennedy 的帖子，立刻有 half dozen related posts 弹出——显示 social media 的 echo chamber effect。
+
+句子结构：时间状语 (As soon as I click on one post about Kennedy) + 主语 another half dozen related posts + 谓语 pop + 介词短语 (onto my feed)。
+
+关键词：click on one post（点击一个帖子） / half dozen related posts（half dozen related posts） / pop onto my feed（弹出到我的 feed）
+
+表达方式：Hayden 的叙述，显示 social media 的 algorithmic amplification。
+
+为什么这样写：social media 的 echo chamber 显示 townspeople 的偏见如何 online amplify——这种 amplification 为后续剧情埋下伏笔。
 
 ---
 
-### 第3处：Adam 对 Dr. Russo 的仇恨
+### 第3处：Lydia 透露 Kennedy 的秘密男友
 
 > **原句 3:** "Then I see a new post by Lydia Costas, time-stamped ten minutes ago, this one decidedly darker than the first."
-中文理解：该引语为原文节选。
-关键词：Then
+
+中文理解：Hayden 看到 Lydia Costas 的新帖子，time-stamped ten minutes ago，this one decidedly darker than the first——Lydia 声称"我知道谁是凶手"。
+
+句子结构：主语 I + 谓语 see + 宾语 (a new post by Lydia Costas) + 后置定语 (time-stamped ten minutes ago, this one decidedly darker than the first)。
+
+关键词：new post（新帖子） / time-stamped ten minutes ago（time-stamped ten minutes ago） / decidedly darker（decidedly darker）
+
+表达方式：Hayden 的叙述，显示 Lydia 的 post 的 ominous tone。
+
+为什么这样写：Lydia 的"decidedly darker" post 显示她的 confidence——她 claims to know who the killer is，这种 confidence 为后续剧情埋下伏笔。
 
 ---
 
-### 第4处：Hayden 的疑问——"Adam doesn't seem like he'll ever willingly answer"
+### 第4处：Lydia 透露 Kennedy 的秘密男友
 
 > **原句 4:** "The caption accompanies a photo of Lydia and Kennedy as grade school students with matching pigtails:."
-中文理解：该引语为原文节选。
-关键词：caption
+
+中文理解：Lydia 的帖子 caption 附带一张她和 Kennedy 作为 grade school students 的照片，matching pigtails——Lydia 以"我失去了最好的朋友"的 grief 为 cover，暗示她知道凶手。
+
+句子结构：主语 The caption + 谓语 accompanies + 宾语 (a photo of Lydia and Kennedy as grade school students with matching pigtails)。
+
+关键词：caption（caption） / grade school students（grade school students） / matching pigtails（matching pigtails）
+
+表达方式：Hayden 的叙述，显示 Lydia 的 post 的 deceptive tone。
+
+为什么这样写：Lydia 的"matching pigtails" photo 与 "I know who did this" caption 形成 contrast——表面是 grief，实际是 accusation，这种 deceptive tone 为后续剧情埋下伏笔。
 
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| conspiratorially | 共谋地；秘密地 | "she leans in conspiratorially" |
-| skittish | 易受惊的；胆小的 | "skittish too, you know?" |
-| pliant | 顺从的；柔顺的 | "in a more pliant, empathetic mood" |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| conspiratorially | ⭐⭐⭐ | 共谋地；秘密地 |
+| skittish | ⭐⭐⭐ | 易受惊的；胆小的 |
+| pliant | ⭐⭐⭐ | 顺从的；柔顺的 |
 
 ### ⭐⭐ 进阶
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| dead end | 死胡同 | "I'm at a dead end" |
-| bluff | 虚张声势 | "Even my bluff about fearing for my own safety" |
-| glimmer | 闪烁；微光 | "The glimmer of a smile crosses Lydia's face" |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| dead end | ⭐⭐ | 死胡同 |
+| bluff | ⭐⭐ | 虚张声势 |
+| glimmer | ⭐⭐ | 闪烁；微光 |
 
 ### ⭐ 基础
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| wrangle | 争执；扭打 | "When I finally wrangle it" |
-| amble | 漫步 | "I amble over to the large playpen" |
-| scoot | 滑动；挪动 | "I scoot closer to him" |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| wrangle | ⭐ | 争执；扭打 |
+| amble | ⭐ | 漫步 |
+| scoot | ⭐ | 滑动；挪动 |
 
 ## 一句话总结
 

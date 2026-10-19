@@ -18,51 +18,90 @@ modified: "2026-10-19"
 ### 第1处：章节题词——Frankenstein 的"如果我不能激发爱，我将引起恐惧"
 
 > **原句 1:** "As he left Henry in the auto shop, Adam continued to hear the voice whisper in his ear."
-中文理解：该引语为原文节选。
+
+中文理解：Adam 离开 Henry 在 auto shop，continued to hear the voice whisper in his ear——显示他的 plan 正在执行，voice 说"it had to be today"。
+
+句子结构：时间状语 (As he left Henry in the auto shop) + 主语 Adam + 谓语 continued to hear + 宾语 (the voice whisper in his ear)。
+
 关键词：left
 
-为什么这样写：Adam 的"plan"——告诉 Mariana Bram 的 cheating——是本章的核心；这种"善意"的 revelation 实际上是 Adam 为了自己目的而操纵 Mariana，显示他的 dark side。
+表达方式：叙述性描写，显示 Adam 的 plan 执行。
+
+为什么这样写：Adam 的"voice whisper"显示他的 plan——这种 plan 为后续剧情埋下伏笔。
+
+---
+
+### 第2处：Adam 的 plan——告诉 Mariana Bram 的 cheating
+
+> **原句 2:** "Bram had never returned down the path, which meant he and Mariana were up at the house doing God knows what."
+
+中文理解：Bram had never returned down the path，which meant he and Mariana were up at the house doing God knows what——显示 Adam 对 Bram 与 Mariana 关系的 suspicion。
+
+句子结构：主语 Bram + 谓语 had never returned + 介词短语 (down the path) + 定语从句 (which meant he and Mariana were up at the house doing God knows what)。
+
+关键词：Bram
+
+表达方式：Adam 的内心独白，显示他的 suspicion。
+
+为什么这样写：Adam 的 suspicion 显示他对 Bram 与 Mariana 关系的 jealousy——这种 jealousy 为后续剧情埋下伏笔。
 
 ---
 
 ### 第3处：Adam 的 plan 成功——Mariana 决定与 Bram 分手
 
-> **原句 3:** "Bram had never returned down the path, which meant he and Mariana were up at the house doing God knows what."
-中文理解：该引语为原文节选。
-关键词：Bram
+> **原句 3:** "He got out his phone and typed a text."
+
+中文理解：Adam got out his phone and typed a text——"Need to speak with you. It's urgent. Don't tell Bram."——显示他的 plan 正在执行。
+
+句子结构：主语 He + 谓语 got out + 宾语 his phone + and 连接并列句 (typed a text)。
+
+关键词：phone
+
+表达方式：Adam 的 action，显示他的 plan。
+
+为什么这样写：Adam 的"typed a text"显示他的 plan——这种 plan 为后续剧情埋下伏笔。
 
 ---
 
 ### 第4处：结尾——Dracula 题词
 
-> **原句 4:** "He got out his phone and typed a text."
-中文理解：该引语为原文节选。
-关键词：phone
-| sardonic | 讽刺的；挖苦的 | "There was no mistaking the man's sardonic tone" (ch13) |
-| grotesque | 丑陋的；怪异的 | "as grotesque as what had appeared in the mirror" (ch13) |
+> **原句 4:** "“He was kissing someone.”"
 
-### ⭐⭐ 进阶
+中文理解：Adam 说"他 was kissing someone"，licked his lips——Once it was out，there'd be no going back——显示他的 plan 执行与 regret。
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| induced coma | 诱导昏迷 | "putting him into an induced coma" (ch13) |
-| grafting | 移植（皮肤） | "skin grafting" (ch13) |
-| disdainful | 蔑视的 | "another disdainful look" (ch13) |
+句子结构：直接引语 ("He was kissing someone.") + 主语 Adam + 谓语 licked + 宾语 his lips + 独立句 (Once it was out, there'd be no going back)。
 
-### ⭐ 基础
+关键词：kissing
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| gurney | 推车；担架车 | "his gurney was rolled through the hospital doors" (ch13) |
-| emesis basin | 呕吐盆 | "an intern raced to grab an emesis basin" (ch13) |
-| numbness | 麻木 | "The numbness he'd felt while scrolling" (ch13) |
+表达方式：Adam 的 direct speech，显示他的 plan 执行。
 
+为什么这样写：Adam 的"no going back"显示他的 plan 的 irreversibility——这种 irreversibility 为后续剧情埋下伏笔。
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
 | 词/短语 | 难度 | 释义 |
 |---------|------|------|
-| said | ⭐⭐ | 说 | "said" |
+| visceral | ⭐⭐⭐ | 内脏的；深切的 |
+| sardonic | ⭐⭐⭐ | 讽刺的；挖苦的 |
+| grotesque | ⭐⭐⭐ | 丑陋的；怪异的 |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| induced coma | ⭐⭐ | 诱导昏迷 |
+| grafting | ⭐⭐ | 移植（皮肤） |
+| disdainful | ⭐⭐ | 蔑视的 |
+
+### ⭐ 基础
+
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| gurney | ⭐ | 推车；担架车 |
+| emasis basin | ⭐ | 呕吐盆 |
+| numbness | ⭐ | 麻木 |
 
 ## 一句话总结
 

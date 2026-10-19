@@ -17,59 +17,91 @@ modified: "2026-10-19"
 
 ### 第1处：章节题词——Dracula 的"最后我看到德古拉"
 
-> **原句 1:** "“The last I saw of Count Dracula was his kissing his hand to me, with a red light of triumph in his eyes, and with a smile that Judas in hell might be proud of."
-中文理解：该引语为原文节选。
-关键词：last
+> **原句 1:** "The last I saw of Count Dracula was his kissing his hand to me, with a red light of triumph in his eyes, and with a smile that Judas in hell might be proud of."
+
+中文理解：Dracula 中 Harker 的独白——"我 last saw of Count Dracula was his kissing his hand to me，with a red light of triumph in his eyes，and with a smile that Judas in hell might be proud of。"题词暗示 Bram 的"黑暗"面——"red light of triumph"与 Mariana 之死的"fire"关联。
+
+句子结构：主语 The last I saw of Count Dracula + 谓语 was + 表语 his kissing his hand to me + 介词短语 (with a red light of triumph in his eyes, and with a smile that Judas in hell might be proud of)。
+
+关键词：red light of triumph（triumph 的 red light） / smile that Judas in hell might be proud of（Judas in hell might be proud of 的 smile）
+
+表达方式：章节题词，直接引用《德古拉》中 Harker 的独白。
+
+为什么这样写：题词暗示 Bram 的"黑暗"面——"red light of triumph"与 Mariana 之死的"fire"关联，"Judas"的背叛暗示 Bram 对 Mariana 的背叛（secret relationship）。
 
 ---
 
 ### 第2处：Mariana 与 Bram 分手
 
-> **原句 2:** "“There you are,” Bram said, finding Mariana on the path up to the mansion."
-中文理解：该引语为原文节选。
-关键词：There
+> **原句 2:** "There you are," Bram said, finding Mariana on the path up to the mansion.
+
+中文理解：Bram 说"There you are"，finding Mariana on the path up to the mansion——Mariana 的 curls were windswept，她 crying，Bram stunned。
+
+句子结构：直接引语 ("There you are") + 主语 Bram + 谓语 said + 分词短语 (finding Mariana on the path up to the mansion) 作伴随状语。
+
+关键词：There you are（你在那里）/ finding Mariana（finding Mariana）/ on the path up to the mansion（on the path up to the mansion）
+
+表达方式：Bram 的 direct speech，显示他的 surprise。
+
+为什么这样写：Bram 的"finding Mariana"显示他的 concern——Mariana 在 crying，这种 concern 为后续剧情埋下伏笔。
 
 ---
 
 ### 第3处：Bram 与"her"的会面——"This has to end"
 
 > **原句 3:** "When he reached for her, she shrank back."
-中文理解：该引语为原文节选。
-关键词：When
+
+中文理解：当 Bram reached for her，she shrank back——Mariana 与 Bram 分手，Bram 试图 comfort 她但 she shrank back。
+
+句子结构：时间状语从句 (When he reached for her) + 主语 she + 谓语 shrank back。
+
+关键词：reached for her（reached for her） / shrank back（shrank back）
+
+表达方式：叙述性描写，显示 Mariana 的 withdrawal。
+
+为什么这样写：Mariana 的"shrank back"显示她的 withdrawal——她与 Bram 分手，这种 withdrawal 为后续剧情埋下伏笔。
 
 ---
 
 ### 第4处：结尾——"The sky itself was on fire"
 
 > **原句 4:** "Bram stood there in the mottled shade of a birch tree, stunned."
-中文理解：该引语为原文节选。
-关键词：Bram
+
+中文理解：Bram stood there in the mottled shade of a birch tree，stunned——他目睹 Mariana 之死，sky itself was on fire。
+
+句子结构：主语 Bram + 谓语 stood + 介词短语 (there in the mottled shade of a birch tree) + 分词短语 (stunned) 作伴随状语。
+
+关键词：stood there（stood there） / mottled shade（mottled shade） / birch tree（birch tree） / stunned（stunned）
+
+表达方式：叙述性描写，显示 Bram 的 shock。
+
+为什么这样写：Bram 的"stunned"显示他的 shock——他目睹 Mariana 之死，这种 shock 为后续剧情埋下伏笔。
 
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| triumph | 胜利； triumph | "a red light of triumph in his eyes" |
-| Judas | 犹大； betrayer | "a smile that Judas in hell might be proud of" |
-| mottled | 斑驳的； mottled | "the mottled shade of a birch tree" |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| triumph | ⭐⭐⭐ | 胜利； triumph |
+| Judas | ⭐⭐⭐ | 犹大； betrayer |
+| mottled | ⭐⭐⭐ | 斑驳的； mottled |
 
 ### ⭐⭐ 进阶
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| shrank back | 退缩；畏缩 | "she shrank back" |
-| craved | 渴望；渴求 | "He craved it" |
-| stew | 炖； anger | "He continued to stew" |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| shrank back | ⭐⭐ | 退缩；畏缩 |
+| craved | ⭐⭐ | 渴望；渴求 |
+| stew | ⭐⭐ | 炖； anger |
 
 ### ⭐ 基础
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| mumbled | 嘟囔 | "he mumbled that there were snacks" (ch07) |
-| giggling | 咯咯笑 | "Mariana giggled" (ch07) |
-| swaying | 摇摆 | "The grass around him swayed" (ch04) |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| mumbled | ⭐ | 嘟囔 |
+| giggling | ⭐ | 咯咯笑 |
+| swaying | ⭐ | 摇摆 |
 
 ## 一句话总结
 

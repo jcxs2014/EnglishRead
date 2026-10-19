@@ -17,53 +17,91 @@ modified: "2026-10-19"
 
 ### 第1处：Hayden 怀疑 Henry——"If Henry didn't kill Kennedy, who did?"
 
-> **原句 1:** "“At that time my virtue slumbered; my evil, kept awake by ambition, was alert and swift to seize the occasion; and the thing that was projected was Edward Hyde."
-中文理解：该引语为原文节选。
-关键词：that
+> **原句 1:** "At that time my virtue slumbered; my evil, kept awake by ambition, was alert and swift to seize the occasion; and the thing that was projected was Edward Hyde."
+
+中文理解：Dr. Jekyll and Mr. Hyde 中的题词——"At that time my virtue slumbered; my evil, kept awake by ambition, was alert and swift to seize the occasion; and the thing that was projected was Edward Hyde." Henry 读的是 Dr. Jekyll and Mr. Hyde，而非 Frankenstein——这种 literary choice 暗示 Henry 的 dual nature（Jekyll/Hyde）。
+
+句子结构：主语 my virtue + 谓语 slumbered + 时间状语 (At that time)；and 连接并列句 (my evil, kept awake by ambition, was alert and swift to seize the occasion)；and 连接并列句 (the thing that was projected was Edward Hyde)。
+
+关键词：virtue slumbered（virtue slumbered） / Edward Hyde（Edward Hyde）
+
+表达方式：章节题词，直接引用《Dr. Jekyll and Mr. Hyde》。
+
+为什么这样写：Henry 读 Dr. Jekyll and Mr. Hyde（而非 Frankenstein）——这种 literary choice 暗示 Henry 的 dual nature（Jekyll/Hyde），为后续剧情埋下伏笔。
 
 ---
 
 ### 第2处：Bram 透露 Henry 与 Kennedy 的关系
 
-> **原句 2:** "—The Strange Case of Dr."
-中文理解：该引语为原文节选。
-关键词：Strange
+> **原句 2:** "Henry had been back at school only two weeks when Kennedy Russo asked if he’d tutor her in math."
+
+中文理解：Henry 回到 school only two weeks 时，Kennedy Russo asked if he'd tutor her in math——显示 Kennedy 的 approach 与 Henry 的 confusion。
+
+句子结构：主语 Henry + 谓语 had been + 介词短语 (back at school) + 时间状语 (only two weeks) + 时间状语从句 (when Kennedy Russo asked if he'd tutor her in math)。
+
+关键词：back at school（back at school） / only two weeks（only two weeks） / tutor her in math（tutor her in math）
+
+表达方式：叙述性描写，显示 Kennedy 的 approach。
+
+为什么这样写：Kennedy 的"asked if he'd tutor her"显示她的 approach——这种 approach 为后续剧情埋下伏笔。
 
 ---
 
 ### 第3处：Bram 透露 Henry asked him to pull the fire alarm
 
-> **原句 3:** "Henry had been back at school only two weeks when Kennedy Russo asked if he’d tutor her in math."
-中文理解：该引语为原文节选。
-关键词：Henry
+> **原句 3:** "“At that time my virtue slumbered; my evil, kept awake by ambition, was alert and swift to seize the occasion; and the thing that was projected was Edward Hyde.”"
 
-为什么这样写：Hayden 发现 Henry 读 Dr. Jekyll and Mr. Hyde（而非 Frankenstein）——这种 literary choice 暗示 Henry 的 dual nature（Jekyll/Hyde）；"He isn't smiling"的 ominous 结尾显示 Henry 的 anger。
+中文理解：Henry 回到 school only two weeks 时，Kennedy Russo asked if he'd tutor her in math——显示 Kennedy 的 approach 与 Henry 的 confusion。
+
+句子结构：同上。
+
+关键词：that
+
+表达方式：叙述性描写，显示 Kennedy 的 approach。
+
+为什么这样写：Kennedy 的"asked if he'd tutor her"显示她的 approach——这种 approach 为后续剧情埋下伏笔。
+
+---
+
+### 第4处：结尾——Henry 的愤怒
+
+> **原句 4:** "Hyde by Robert Louis Stevenson"
+
+中文理解：Henry 回到 school only two weeks 时，Kennedy Russo asked if he'd tutor her in math——显示 Kennedy 的 approach 与 Henry 的 confusion。
+
+句子结构：同上。
+
+关键词：Hyde
+
+表达方式：叙述性描写，显示 Kennedy 的 approach。
+
+为什么这样写：Kennedy 的"asked if he'd tutor her"显示她的 approach——这种 approach 为后续剧情埋下伏笔。
 
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| ominous | 不祥的 | (context) |
-| vindicated | 证明无罪 | (ch05) |
-| corroboration | 佐证 | (ch10) |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| ominous | ⭐⭐⭐ | 不祥的 |
+| vindicated | ⭐⭐⭐ | 证明无罪 |
+| corroboration | ⭐⭐⭐ | 证实；佐证 |
 
 ### ⭐⭐ 进阶
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| speculations | 推测 | "speculations concerning possible negligence" |
-| pliant | 顺从的 | (ch11) |
-| skew | 歪曲；扭曲 | "trying to skew the facts" |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| speculations | ⭐⭐ | 推测 |
+| pliant | ⭐⭐ | 顺从的 |
+| skew | ⭐⭐ | 歪曲；扭曲 |
 
 ### ⭐ 基础
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| dead end | 死胡同 | "I'm at a dead end" |
-| bluff | 虚张声势 | "Even my bluff" (ch11) |
-| grumbling | 嘟囔 | (ch02) |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| dead end | ⭐ | 死胡同 |
+| bluff | ⭐ | 虚张声势 |
+| grumbling | ⭐ | 嘟囔 |
 
 ## 一句话总结
 

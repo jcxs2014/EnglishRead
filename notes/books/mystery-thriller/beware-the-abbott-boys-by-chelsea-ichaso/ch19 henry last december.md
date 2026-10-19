@@ -15,58 +15,77 @@ modified: "2026-10-19"
 
 ## 精读
 
-### 第1处：Henry 的 secret project——"the thing that kept him awake"
+### 第1处：章节题词——Frankenstein 的"隐藏规律"
 
-> **原句 1:** "“There is something at work in my soul, which I do not understand."
-中文理解：该引语为原文节选。
-关键词：There
+> **原句 1:** "There is something at work in my soul, which I do not understand."
+
+中文理解：Frankenstein 中的题词——"我灵魂中有什么东西在 work，我不 understand。"Henry 的 secret project 与 Victor 的 secret research 形成 intertextual 对话。
+
+句子结构：主语 There + 谓语 is + 表语 something at work in my soul + 定语从句 (which I do not understand)。which 引导定语从句。
+
+关键词：something at work in my soul（我灵魂中有什么东西在 work） / which I do not understand（我不 understand）
+
+表达方式：章节题词，直接引用《弗兰肯斯坦》。
+
+为什么这样写：Henry 的"secret project"与 Frankenstein 中 Victor 的"secret research"形成 intertextual 对话——Henry 的实验可能是某种科学/技术项目，暗示他也有"隐藏"的一面。
+
+---
+
+### 第2处：Henry 的 secret project
+
+> **原句 2:** "Henry was in the shed, working on his invention when he got the text from Bram."
+
+中文理解：Henry 在棚屋里 working on his invention，当 he got the text from Bram——显示他的 secret project 与 Bram 的 communication。
+
+句子结构：主语 Henry + 谓语 was + 介词短语 (in the shed) + 分词短语 (working on his invention) + 时间状语从句 (when he got the text from Bram)。
+
+关键词：in the shed（在棚屋里） / working on his invention（working on his invention） / text from Bram（Bram 的 text）
+
+表达方式：叙述性描写，显示 Henry 的 secret activity。
+
+为什么这样写：Henry 的"working on his invention"显示他的 secret project——这种 secrecy 为后续剧情埋下伏笔。
 
 ---
 
 ### 第3处：Henry 躲进棚屋 tinkering
 
-> **原句 3:** "Henry was in the shed, working on his invention when he got the text from Bram."
-中文理解：该引语为原文节选。
-关键词：Henry
-| obsession | 痴迷；执念 | "the thing that had become a bit of an obsession" |
+> **原句 3:** "Henry growled and tucked the parts and tools back in the box."
 
-### ⭐⭐ 进阶
+中文理解：Henry growled and tucked the parts and tools back in the box——显示他的 frustration 与 secrecy。
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| absentmindedly | 心不在焉地 | "Henry said absentmindedly" (ch09) |
-| lured | 引诱；吸引 | "he was being lured to the back of the shop" |
-| tinker | 摆弄； tinkering | "tinker on his project in secret" |
+句子结构：主语 Henry + 谓语 growled + and 连接并列句 (tucked the parts and tools back in the box)。
 
-### ⭐ 基础
+关键词：growled（growled） / tucked the parts and tools（tucked the parts and tools） / back in the box（back in the box）
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| huffed | 哼了一声；不耐烦地 | "Adam huffed from beneath the hood" (ch09) |
-| clomping | 重步走 | "Adam stomp his feet louder" (ch09) |
-| squinting | 眯眼；斜视 | "squinting at his brother through his frames" (ch09) |
+表达方式：叙述性描写，显示 Henry 的 frustration。
 
-
-
-### 第4处：补充引语
-
-> **原句 4:** "Henry growled and tucked the parts and tools back in the box."
-
-中文理解：该引语为原文节选。
-
-关键词：Henry
-
-表达方式：引语。
-
-为什么这样写：补充引语。
-
----
+为什么这样写：Henry 的"growled"显示他的 frustration——他的实验可能遇到了困难，这种 frustration 为后续剧情埋下伏笔。
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
 | 词/短语 | 难度 | 释义 |
 |---------|------|------|
-| said | ⭐⭐ | 说 | "said" |
+| divine | ⭐⭐⭐ | 探知；推测 |
+| rapture | ⭐⭐⭐ | 狂喜；出神 |
+| obsession | ⭐⭐⭐ | 痴迷；执念 |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| absentmindedly | ⭐⭐ | 心不在焉地 |
+| lured | ⭐⭐ | 引诱；吸引 |
+| tinker | ⭐⭐ | 摆弄；tinkering |
+
+### ⭐ 基础
+
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| huffed | ⭐ | 哼了一声；不耐烦地 |
+| clomping | ⭐ | 重步走 |
+| squinting | ⭐ | 眯眼；斜视 |
 
 ## 一句话总结
 

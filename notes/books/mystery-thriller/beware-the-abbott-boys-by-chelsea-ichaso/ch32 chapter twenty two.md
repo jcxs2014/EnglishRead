@@ -18,54 +18,90 @@ modified: "2026-10-19"
 ### 第1处：Sage 的威胁——"You'll probably end up being the next dead girl"
 
 > **原句 1:** "I can tell the moment our car pulls up in front of the school that this is going to be the Monday morning from hell."
-中文理解：该引语为原文节选。
-关键词：tell
 
-为什么这样写：Sage 推 Hayden off the bridge 是本章的 climax——Hayden finally understands Sage's role in Kennedy's murder。
+中文理解：Hayden 说"I can tell the moment our car pulls up in front of the school that this is going to be the Monday morning from hell"——显示她的 anxiety 与 townspeople 的 hostility。
+
+句子结构：主语 I + 谓语 can tell + 宾语从句 (the moment our car pulls up in front of the school that this is going to be the Monday morning from hell)。
+
+关键词：Monday morning from hell（Monday morning from hell） / pulls up in front of the school（pulls up in front of the school）
+
+表达方式：Hayden 的内心独白，显示她的 anxiety。
+
+为什么这样写：Hayden 的"Monday morning from hell"显示她的 anxiety——townspeople 的 hostility 为后续剧情埋下伏笔。
+
+---
+
+### 第2处：Sage 推 Hayden off the bridge
+
+> **原句 2:** "Sage, I know that Kennedy confessed to killing Mariana. I know she killed your cousin, so it wouldn't be—"
+
+中文理解：Hayden 说"Sage, I know that Kennedy confessed to killing Mariana"——显示她的 realization 与 Sage's role in Kennedy's murder。
+
+句子结构：直接引语 ("Sage, I know that Kennedy confessed to killing Mariana. I know she killed your cousin, so it wouldn't be—")。
+
+关键词：Kennedy confessed to killing Mariana（Kennedy confessed to killing Mariana） / she killed your cousin（she killed your cousin）
+
+表达方式：Hayden 的 direct speech，显示她的 realization。
+
+为什么这样写：Hayden 的 realization 显示 Sage's role——这种 realization 为后续剧情埋下伏笔。
 
 ---
 
 ### 第3处：Adam 救 Hayden——"He leapt off"
 
 > **原句 3:** "The first days after Kennedy’s murder, a few reporters from local stations parked outside, trying to get students to comment on the case."
-中文理解：该引语为原文节选。
-关键词：first
+
+中文理解：Hayden 说"The first days after Kennedy's murder, a few reporters from local stations parked outside"——显示 townspeople 的 reaction 与 media frenzy。
+
+句子结构：时间状语 (The first days after Kennedy's murder) + 主语 a few reporters from local stations + 谓语 parked + 介词短语 (outside)。
+
+关键词：reporters from local stations（reporters from local stations）
+
+表达方式：Hayden 的叙述，显示 media frenzy。
+
+为什么这样写：media frenzy 显示 townspeople 的 reaction——这种 reaction 为后续剧情埋下伏笔。
 
 ---
 
 ### 第4处：Sage 试图用 rock 杀 Hayden
 
 > **原句 4:** "Henry and Adam are staying home, but I send off a quick warning text just to make sure."
-中文理解：该引语为原文节选。
-关键词：Henry
 
-为什么这样写：章节以 Adam's rescue 与 Lydia's call 为 climax——Adam saved Hayden's life，Lydia called for help，显示 Adam 的 heroism 与 Hayden's survival。
+中文理解：Hayden 说"Henry and Adam are staying home, but I send off a quick warning text just to make sure"——显示她的 concern 与 caution。
+
+句子结构：主语 Henry and Adam + 谓语 are staying home + but 连接并列句 (I send off a quick warning text just to make sure)。
+
+关键词：Henry and Adam are staying home（Henry and Adam are staying home） / send off a quick warning text（send off a quick warning text）
+
+表达方式：Hayden 的叙述，显示她的 concern。
+
+为什么这样写：Hayden 的"send off a quick warning text"显示她的 concern——这种 concern 为后续剧情埋下伏笔。
 
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| visceral | 内脏的；深切的 | "visceral and real" (ch13) |
-| sardonic | 讽刺的；挖苦的 | "There was no mistaking the man's sardonic tone" (ch13) |
-| grotesque | 丑陋的；怪异的 | "as grotesque as what had appeared in the mirror" (ch13) |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| visceral | ⭐⭐⭐ | 内脏的；深切的 |
+| sardonic | ⭐⭐⭐ | 讽刺的；挖苦的 |
+| grotesque | ⭐⭐⭐ | 丑陋的；怪异的 |
 
 ### ⭐⭐ 进阶
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| induced coma | 诱导昏迷 | "putting him into an induced coma" (ch13) |
-| grafting | 移植（皮肤） | "skin grafting" (ch13) |
-| disdainful | 蔑视的 | "another disdainful look" (ch13) |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| induced coma | ⭐⭐ | 诱导昏迷 |
+| grafting | ⭐⭐ | 移植（皮肤） |
+| disdainful | ⭐⭐ | 蔑视的 |
 
 ### ⭐ 基础
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| gurney | 推车；担架车 | "his gurney was rolled through the hospital doors" (ch13) |
-| emesis basin | 呕吐盆 | "an intern raced to grab an emesis basin" (ch13) |
-| numbness | 麻木 | "The numbness he'd felt while scrolling" (ch13) |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| gurney | ⭐ | 推车；担架车 |
+| emesis basin | ⭐ | 呕吐盆 |
+| numbness | ⭐ | 麻木 |
 
 ## 一句话总结
 

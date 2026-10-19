@@ -18,46 +18,74 @@ modified: "2026-10-19"
 ### 第1处：Dr. Russo 的投资失败——仇恨的根源
 
 > **原句 1:** "My heart is beating out of my chest."
-中文理解：该引语为原文节选。
-关键词：heart
+
+中文理解：Hayden 的 heart is beating out of her chest——她 research social media 上 Adam 烧伤照片的泄露，感到 anxiety 与 concern。
+
+句子结构：主语 My heart + 谓语 is beating + 介词短语 (out of my chest)。现在进行时。
+
+关键词：heart is beating out of my chest（心 beating out of my chest）
+
+表达方式：Hayden 的 physiological reaction，显示她的 anxiety。
+
+为什么这样写：Hayden 的"heart beating out of my chest"显示她的 emotional state——她 research Adam 的烧伤照片泄露，感到 concern 与 anxiety。
+
+---
+
+### 第2处：Dr. Russo 的投资失败——仇恨的根源
 
 > **原句 2:** "But among all the comments from Adam’s haters, there are several football fanatics and medical professionals claiming that Dr."
-中文理解：该引语为原文节选。
-关键词：among
+
+中文理解：Hayden 看到 social media 上 Adam 烧伤照片的 comments，其中 several football fanatics and medical professionals claiming that Dr. Russo failed his patient——显示 townspeople 对 Dr. Russo 的怀疑。
+
+句子结构：介词短语 (But among all the comments from Adam's haters) + 主语 there + 谓语 are + 宾语 (several football fanatics and medical professionals claiming that Dr. Russo failed his patient)。there be 句型。
+
+关键词：among all the comments（among all the comments） / football fanatics（football fanatics）
+
+表达方式：Hayden 的叙述，显示 social media 上的 debate。
+
+为什么这样写：social media 上的 debate 显示 townspeople 对 Dr. Russo 的怀疑——这种 suspicion 为后续剧情埋下伏笔。
 
 ---
 
 ### 第3处：Hayden 的怀疑——"Maybe he lied. Maybe he knew Kennedy liked him"
 
 > **原句 3:** "Maybe none of it’s true."
-中文理解：该引语为原文节选。
+
+中文理解：Hayden 想：maybe none of it's true——maybe Dr. Russo gave Adam the very best treatment possible，但 if Adam saw this post，he may have started to think otherwise。
+
+句子结构：主语 Maybe none of it + 谓语 is + 表语 true。简单句。
+
 关键词：Maybe
+
+表达方式：Hayden 的内心独白，显示她的 rationalization。
+
+为什么这样写：Hayden 的"maybe none of it's true"显示她的 rationalization——她试图 rationalize Dr. Russo 的行为，但 deep down 她怀疑。
 
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| incriminating | 有罪的；不言自明的 | "incriminating" (context) |
-| enigma | 谜；谜团 | "the man remains an enigma" |
-| vindicated | 证明无罪 | (ch05) |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| incriminating | ⭐⭐⭐ | 有罪的；不言自明的 |
+| enigma | ⭐⭐⭐ | 谜；谜团 |
+| vindicated | ⭐⭐⭐ | 证明无罪 |
 
 ### ⭐⭐ 进阶
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| spearheaded | 带头；领导 | "Dr. Russo supposedly spearheaded the whole thing" |
-| biding his time | 等待时机 | "he'd been biding his time" |
-| crackerjack | 一流的；优秀的 | "Real crackerjack journalism" |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| spearheaded | ⭐⭐ | 带头；领导 |
+| biding his time | ⭐⭐ | 等待时机 |
+| crackerjack | ⭐⭐ | 一流的；优秀的 |
 
 ### ⭐ 基础
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| needles | 刺激；使烦恼 | "Another question needles its sharp point" |
-| banish | 驱逐；排除 | "I banish the thought" |
-| grumbling | 嘟囔 | "My stomach starts to grumble" |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| needles | ⭐ | 刺激；使烦恼 |
+| banish | ⭐ | 驱逐；排除 |
+| grumbling | ⭐ | 嘟囔 |
 
 ## 一句话总结
 

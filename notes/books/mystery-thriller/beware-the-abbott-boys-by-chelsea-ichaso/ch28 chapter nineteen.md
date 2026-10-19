@@ -18,51 +18,74 @@ modified: "2026-10-19"
 ### 第1处：Hayden 质问 Bram——"Why did you pull the fire alarm?"
 
 > **原句 1:** "I wake in a panic, not knowing where I am or what day it is."
-中文理解：该引语为原文节选。
-关键词：wake
 
-为什么这样写：Bram 的 revelation 解释了 Adam 的 story——"the girl in Adam's story wasn't me. It was Kennedy"—这种 revelation 为 Hayden 提供 new information，同时显示 Bram 的 secret。
+中文理解：Hayden wake in a panic，not knowing where she is or what day it is——显示她的 disorientation 与 fear after the party。
+
+句子结构：主语 I + 谓语 wake + 介词短语 (in a panic) + 分词短语 (not knowing where I am or what day it is) 作伴随状语。
+
+关键词：wake in a panic（wake in a panic） / not knowing where I am（not knowing where I am） / what day it is（what day it is）
+
+表达方式：Hayden 的叙述，显示她的 disorientation。
+
+为什么这样写：Hayden 的"wake in a panic"显示她的 fear——party 后的 fear 为后续剧情埋下伏笔。
+
+---
+
+### 第2处：Hayden 怀疑 Henry——"If Henry didn't kill Kennedy, who did?"
+
+> **原句 2:** "We talked for a while, and then he put a movie on."
+
+中文理解：Hayden 与 Bram talked for a while，then he put a movie on——显示他们的 comfortable relationship。
+
+句子结构：主语 We + 谓语 talked + 时间状语 (for a while) + and 连接并列句 (then he put a movie on)。
+
+关键词：talked for a while（talked for a while） / put a movie on（put a movie on）
+
+表达方式：Hayden 的叙述，显示她的 comfortable relationship with Bram。
+
+为什么这样写：Hayden 与 Bram 的"talked for a while"显示他们的 comfortable relationship——这种 relationship 为后续剧情埋下伏笔。
 
 ---
 
 ### 第3处：Hayden 怀疑 Henry——"If Henry didn't kill Kennedy, who did?"
 
-> **原句 3:** "We talked for a while, and then he put a movie on."
-中文理解：该引语为原文节选。
-关键词：talked
+> **原句 3:** "But the feeling turns to panic when I think of Dad."
 
----
+中文理解：Hayden 的 feeling turns to panic when she thinks of Dad——显示她的 anxiety 与 concern。
 
-### 第4处：结尾——Hayden 决定独自调查 Henry 的 phone
+句子结构：主语 the feeling + 谓语 turns + 介词短语 (to panic) + 时间状语从句 (when I think of Dad)。
 
-> **原句 4:** "But the feeling turns to panic when I think of Dad."
-中文理解：该引语为原文节选。
-关键词：feeling
-| misconstrued | 误解；曲解 | "misconstrued everything" |
-| traitorous | 叛逆的； treacherous 的 | "A traitorous thought sneaks in" |
+关键词：feeling turns to panic（feeling turns to panic） / when I think of Dad（when I think of Dad）
 
-### ⭐⭐ 进阶
+表达方式：Hayden 的内心独白，显示她的 anxiety。
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| prickle | 刺痛； tingling | "goose bumps prickle up my arms" |
-| ambling | 漫步 | "ambling off" (ch17) |
-| daft | 愚蠢的 | "Don't be so daft" (ch17) |
-
-### ⭐ 基础
-
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| heft | 举起 | "I heft my backpack" (ch02) |
-| flinch | 畏缩 | "I flinch, shock hitting me" (ch10) |
-| scowl | 怒视 | "he scowls" (ch04) |
-
+为什么这样写：Hayden 的"feeling turns to panic"显示她的 anxiety——这种 anxiety 为后续剧情埋下伏笔。
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
 | 词/短语 | 难度 | 释义 |
 |---------|------|------|
-| said | ⭐⭐ | 说 | "said" |
+| damning | ⭐⭐⭐ | 有罪的； condemnatory 的 |
+| misconstrued | ⭐⭐⭐ | 误解；曲解 |
+| traitorous | ⭐⭐⭐ | 叛逆的； treacherous 的 |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| prickle | ⭐⭐ | 刺痛； tingling |
+| ambling | ⭐⭐ | 漫步 |
+| daft | ⭐⭐ | 愚蠢的 |
+
+### ⭐ 基础
+
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| heft | ⭐ | 举起 |
+| flinch | ⭐ | 畏缩 |
+| scowl | ⭐ | 怒视 |
 
 ## 一句话总结
 

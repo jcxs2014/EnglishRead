@@ -18,54 +18,90 @@ modified: "2026-10-19"
 ### 第1处：Bram 透露 cops 有"damning evidence"
 
 > **原句 1:** "I scream and jab an elbow back, nailing my attacker in the stomach."
-中文理解：该引语为原文节选。
-关键词：scream
+
+中文理解：Hayden 在 maze 中被 Bram 抓住，她 scream and jab an elbow back，nailing my attacker in the stomach——显示她的 fear 与 self-defense。
+
+句子结构：主语 I + 谓语 scream and jab + 宾语 an elbow + 介词短语 (back, nailing my attacker in the stomach)。
+
+关键词：scream（尖叫） / jab an elbow（用肘 jab） / nailing my attacker（nailing my attacker）
+
+表达方式：Hayden 的 action，显示她的 fear。
+
+为什么这样写：Hayden 的"scream and jab"显示她的 fear——Bram 在 maze 中抓住她，这种 fear 为后续剧情埋下伏笔。
 
 ---
 
 ### 第2处：Hayden 与 Bram 拥抱——"It's okay"
 
 > **原句 2:** "I whip around. “Bram? Why the hell did you grab me?”"
-中文理解：该引语为原文节选。
-关键词：whip
+
+中文理解：Hayden whip around，问"Bram? Why the hell did you grab me?"——显示她的 confusion 与 Bram 的 proximity。
+
+句子结构：主语 I + 谓语 whip around + 直接引语 ("Bram? Why the hell did you grab me?")。
+
+关键词：whip around（whip around） / Why the hell did you grab me（你为什么 grab me）
+
+表达方式：Hayden 的 direct speech，显示她的 confusion。
+
+为什么这样写：Hayden 的"whip around"显示她的 surprise——Bram 在 maze 中抓住她，这种 surprise 为后续剧情埋下伏笔。
+
+---
+
+### 第3处：Hayden 与 Bram 拥抱——"It's okay"
 
 > **原句 3:** "I wince, the incident replaying in my mind."
-中文理解：该引语为原文节选。
-关键词：wince
+
+中文理解：Hayden wince，the incident replaying in her mind——显示她的 guilt 与 Bram 的 proximity。
+
+句子结构：主语 I + 谓语 wince + 分词短语 (the incident replaying in my mind) 作伴随状语。
+
+关键词：wince（wince） / the incident replaying（the incident replaying）
+
+表达方式：Hayden 的 physiological reaction，显示她的 guilt。
+
+为什么这样写：Hayden 的"wince"显示她的 guilt——Bram 的 proximity 使她想起 their past encounter，这种 guilt 为后续剧情埋下伏笔。
 
 ---
 
 ### 第4处：结尾——Adam 的 accusation
 
 > **原句 4:** "“It got loud.” He stops fussing with his injury to rub his temples."
-中文理解：该引语为原文节选。
-关键词：loud
+
+中文理解：Bram 说"It got loud"，He stops fussing with his injury to rub his temples——显示他的 frustration 与 concern。
+
+句子结构：直接引语 ("It got loud.") + 主语 He + 谓语 stops + 宾语 fussing with his injury + 不定式短语 (to rub his temples)。
+
+关键词：It got loud（It got loud） / stops fussing（stops fussing） / rub his temples（rub his temples）
+
+表达方式：Bram 的 direct speech，显示他的 frustration。
+
+为什么这样写：Bram 的"stops fussing"显示他的 frustration——townspeople 的 party 使他 uncomfortable，这种 frustration 为后续剧情埋下伏笔。
 
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| damning | 有罪的； condemnatory 的 | "This evidence, it's pretty damning" |
-| malice | 恶意；怨恨 | "the malice in that grin" |
-| beguiling | 迷人的 | "a beguiling sense of danger" (ch17) |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| damning | ⭐⭐⭐ | 有罪的； condemnatory 的 |
+| malice | ⭐⭐⭐ | 恶意；怨恨 |
+| beguiling | ⭐⭐⭐ | 迷人的 |
 
 ### ⭐⭐ 进阶
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| flustered | 慌乱的 | "all flustered" (ch17) |
-| balking | 退缩；犹豫 | "I balk" (ch17) |
-| thump | 重击声 | "a thump sounds" (ch17) |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| flustered | ⭐⭐ | 慌乱的 |
+| balking | ⭐⭐ | 退缩；犹豫 |
+| thump | ⭐⭐ | 重击声 |
 
 ### ⭐ 基础
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| heft | 举起 | "I heft my backpack" (ch02) |
-| flinch | 畏缩 | "I flinch, shock hitting me" (ch10) |
-| scowl | 怒视 | "he scowls" (ch04) |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| heft | ⭐ | 举起 |
+| flinch | ⭐ | 畏缩 |
+| scowl | ⭐ | 怒视 |
 
 ## 一句话总结
 

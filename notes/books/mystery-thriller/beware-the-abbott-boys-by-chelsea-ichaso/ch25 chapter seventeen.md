@@ -17,59 +17,91 @@ modified: "2026-10-19"
 
 ### 第1处：Adam 对 Dr. Russo 的仇恨
 
-> **原句 1:** "“I thought you had no memory of what happened that day,” I say quietly, my mind still reeling."
-中文理解：该引语为原文节选。
-关键词：thought
+> **原句 1:** "I thought you had no memory of what happened that day," I say quietly, my mind still reeling.
+
+中文理解：Hayden 说"I thought you had no memory of what happened that day"——显示她的 confusion 与 Adam 的 revelation 之间的 tension。
+
+句子结构：直接引语 ("I thought you had no memory of what happened that day") + 主语 I + 谓语 say + 副词 quietly + 分词短语 (my mind still reeling) 作伴随状语。
+
+关键词：thought you had no memory（thought you had no memory）/ what happened that day（what happened that day）/ mind still reeling（mind still reeling）
+
+表达方式：Hayden 的 direct speech，显示她的 confusion。
+
+为什么这样写：Hayden 的 confusion 显示 Adam 的 revelation 的 impact——Adam 声称 he remembers everything up until Creek Bridge，这种 selective memory 为后续剧情埋下伏笔。
 
 ---
 
 ### 第2处：Adam 的兄弟关系破裂
 
 > **原句 2:** "Adam’s glassy eyes spark now."
-中文理解：该引语为原文节选。
-关键词：Adam
+
+中文理解：Adam 的 glassy eyes spark now——显示他的 emotional state 从 numbness 到 anger 的转变。
+
+句子结构：主语 Adam's glassy eyes + 谓语 spark + 副词 now。简单句。
+
+关键词：glassy eyes（glassy eyes） / spark（spark） / now（now）
+
+表达方式：叙述性描写，显示 Adam 的 emotional state。
+
+为什么这样写：Adam 的"glassy eyes spark"显示他的 emotional awakening——从 numbness 到 anger 的转变，这种转变 for subsequent plot 埋下伏笔。
 
 ---
 
 ### 第3处：Hayden 与 Henry 的对质——Henry 的可疑行为
 
 > **原句 3:** "I still hear the pain in his voice."
-中文理解：该引语为原文节选。
-关键词：still
+
+中文理解：Hayden 说"I still hear the pain in his voice"——显示她对 Adam 的 concern 与 empathy。
+
+句子结构：主语 I + 谓语 still hear + 宾语 (the pain in his voice)。
+
+关键词：still hear（still hear） / the pain（the pain） / in his voice（in his voice）
+
+表达方式：Hayden 的 direct speech，显示她的 concern。
+
+为什么这样写：Hayden 的"still hear the pain"显示她的 empathy——尽管 Adam 说了 cruel 的话，Hayden 仍然关心他，这种 empathy 为后续剧情埋下伏笔。
 
 ---
 
 ### 第4处：Hayden 研究 Mariana 案件新闻——"长期亏损"的可疑说法
 
 > **原句 4:** "“That’s because you can’t accept the truth."
-中文理解：该引语为原文节选。
+
+中文理解：Adam 说"That's because you can't accept the truth"——显示他的 frustration 与 conviction。
+
+句子结构：直接引语 ("That's because you can't accept the truth.")。简单句。
+
 关键词：That
+
+表达方式：Adam 的 direct speech，显示他的 frustration。
+
+为什么这样写：Adam 的"can't accept the truth"显示他的 conviction——他相信自己的 version of events，这种 conviction 为后续剧情埋下伏笔。
 
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| ominous | 不祥的 | (context) |
-| vindicated | 证明无罪 | (ch05) |
-| corroboration | 佐证 | (ch10) |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| ominous | ⭐⭐⭐ | 不祥的 |
+| vindicated | ⭐⭐⭐ | 证明无罪 |
+| corroboration | ⭐⭐⭐ | 证实；佐证 |
 
 ### ⭐⭐ 进阶
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| speculations | 推测 | "speculations concerning possible negligence" |
-| pliant | 顺从的 | (ch11) |
-| skew | 歪曲；扭曲 | "trying to skew the facts" |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| speculations | ⭐⭐ | 推测 |
+| pliant | ⭐⭐ | 顺从的 |
+| skew | ⭐⭐ | 歪曲；扭曲 |
 
 ### ⭐ 基础
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| dead end | 死胡同 | "I'm at a dead end" |
-| bluff | 虚张声势 | "Even my bluff" (ch11) |
-| grumbling | 嘟囔 | (ch02) |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| dead end | ⭐ | 死胡同 |
+| bluff | ⭐ | 虚张声势 |
+| grumbling | ⭐ | 嘟囔 |
 
 ## 一句话总结
 

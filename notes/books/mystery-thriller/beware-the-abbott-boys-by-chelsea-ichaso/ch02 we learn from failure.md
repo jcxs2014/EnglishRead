@@ -18,34 +18,52 @@ modified: "2026-10-19"
 ### 第1处：Mrs. Lieu 的引语与 Hayden 的自嘲
 
 > **原句 1:** "That’s what Mrs. Lieu has written in red at the top of my English paper, above t"
-中文理解：该引语为原文节选。
-关键词：That
+中文理解：Mrs. Lieu 在 Hayden 的英语试卷顶部用红笔写下了"从失败中学习"的格言，Hayden 得了 C+ 成绩，她抗拒住揉碎试卷的冲动。
+句子结构：主语 Mrs. Lieu + 谓语 has written + 宾语 (what Mrs. Lieu has written) + 介词短语 (in red, at the top of my English paper, above the C-plus)。
+关键词：Mrs. Lieu（老师） / written in red（用红笔写）
+
+表达方式：新闻报道式客观叙述，引述 Mrs. Lieu 的评语。
+
+为什么这样写：以 Mrs. Lieu 的评语开场，建立 Hayden 的学业处境与自嘲语气，同时暗示"失败"主题。
 
 ---
 
 ### 第2处：Sage 与 Hayden 的友谊裂痕
 
 > **原句 2:** "I resist the urge to crumple up the paper and tell my teacher that actually, a C-plus isn’t a failing grade."
-中文理解：该引语为原文节选。
-关键词：resist
+中文理解：Hayden 抗拒住揉碎试卷的冲动，虽然 C+ 感觉像失败，但她知道 Mrs. Lieu 的意思——失败是学习的机会。
+句子结构：主语 I + 谓语 resist + 宾语 (the urge to crumple up the paper and tell my teacher...)。不定式短语作宾语补足语。
+关键词：resist（抗拒） / urge（冲动） / crumple up（揉成一团）
 
-为什么这样写：Hayden 的辩护不是基于证据，而是基于情感与个人经历——这种"我知道他们不会"的信念是 Hayden 人物弧线的起点，也是她后续调查的动机。
+表达方式：内心独白式叙述，展示 Hayden 的自嘲与理性。
+
+为什么这样写：Hayden 的内心活动显示她的成熟——她能控制情绪并理解老师意图，为后续"辩护 Abbott 兄弟"的坚定立场埋下伏笔。
 
 ---
 
 ### 第4处：Abbott 家族历史——Peter Abbott 的继承
 
 > **原句 4:** "The room is in a state of grumbling dissent, and I look around to find everyone with their heads bent over their papers."
-中文理解：该引语为原文节选。
-关键词：room
+中文理解：教室里一片嘟囔的不满，Hayden 环顾四周，发现大家也都低着头看试卷——原来不是只有她得了低分。
+句子结构：主语 The room + 谓语 is + 表语 in a state of grumbling dissent；and 连接并列句 (I look around to find everyone with their heads bent over their papers)。
+关键词：grumbling dissent（嘟囔的不满） / bent over their papers（低着头看试卷）
+
+表达方式：环境描写 + Hayden 的观察，展示集体的学业焦虑。
+
+为什么这样写：通过 Hayden 的观察建立"大家都不好过"的氛围，暗示 Mrs. Lieu 的严格是普遍的，也为 Sage 的"我从没得过 B"埋下伏笔。
 
 ---
 
 ### 第6处：食堂欺凌与 Bram 的爆发
 
 > **原句 6:** "“This is bull,” she says, rolling her eyes."
-中文理解：该引语为原文节选。
-关键词：This
+中文理解：Sage 对成绩表示不满，说"这算什么"并翻白眼，随后威胁要让爸爸打电话给老师。
+句子结构：主语 she + 谓语 says + 宾语从句 ("This is bull")；分词短语 (rolling her eyes) 作伴随状语。
+关键词：This is bull（这算什么） / rolling her eyes（翻白眼）
+
+表达方式：直接引语 + 分词短语，展示 Sage 的傲慢与 entitlement。
+
+为什么这样写：Sage 的反应与 Hayden 的自嘲形成对比——Sage 无法接受失败，而 Hayden 能够理性对待，暗示两人的性格差异。
 
 ## 本章词汇
 

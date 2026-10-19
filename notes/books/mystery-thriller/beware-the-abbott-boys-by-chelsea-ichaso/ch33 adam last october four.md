@@ -18,48 +18,90 @@ modified: "2026-10-19"
 ### 第1处：Adam 救 Hayden——"He leapt off"
 
 > **原句 1:** "Adam gripped the phone tightly as he made his way through the woods."
-中文理解：该引语为原文节选。
+
+中文理解：Adam gripped the phone tightly as he made his way through the woods——显示他的 concern 与 urgency。
+
+句子结构：主语 Adam + 谓语 gripped + 宾语 the phone + 副词 tightly + 时间状语 (as he made his way through the woods)。
+
 关键词：Adam
+
+表达方式：Adam 的 action，显示他的 concern。
+
+为什么这样写：Adam 的"gripped the phone tightly"显示他的 concern——这种 concern 为后续剧情埋下伏笔。
 
 ---
 
 ### 第2处：Adam CPR 救 Hayden——"And she coughed"
 
 > **原句 2:** "He never should’ve left the house to go for a walk."
-中文理解：该引语为原文节选。
+
+中文理解：Adam 思考 he never should've left the house to go for a walk——显示他的 regret 与 self-blame。
+
+句子结构：主语 He + 谓语 never should've left + 宾语 the house + 不定式短语 (to go for a walk)。
+
 关键词：never
 
-> **原句 4:** "No, you’re not, Adam had replied."
-中文理解：该引语为原文节选。
+表达方式：Adam 的内心独白，显示他的 regret。
+
+为什么这样写：Adam 的"never should've left"显示他的 regret——这种 regret 为后续剧情埋下伏笔。
+
+---
+
+### 第3处：Sage 试图用 rock 杀 Hayden
+
+> **原句 3:** "No, you’re not, Adam had replied."
+
+中文理解：Adam 回复"No, you're not"——显示他的 defiance 与 concern for Hayden。
+
+句子结构：直接引语 ("No, you're not") + 主语 Adam + 谓语 had replied。
+
 关键词：Adam
 
-为什么这样写：章节以 Adam's rescue 与 Lydia's call 为 climax——Adam saved Hayden's life，Lydia called for help，显示 Adam 的 heroism 与 Hayden's survival。
+表达方式：Adam 的 direct speech，显示他的 defiance。
+
+为什么这样写：Adam 的"No, you're not"显示他的 defiance——他拒绝 Sage's accusation，这种 defiance 为后续剧情埋下伏笔。
+
+---
+
+### 第4处：Adam 回忆 Mariana 之死——"The car was in flames"
+
+> **原句 4:** "His jaw clenched as he reread the text from Henry: I’m going to tell the cops I’m the guy in the video."
+
+中文理解：Adam 回忆：At least，that's what everyone assumed those first couple of weeks——显示 townspeople 的 initial assumption（heroism）与 subsequent suspicion（foul play）的 contrast。
+
+句子结构：主语 that + 谓语 is + 表语 what everyone assumed + 时间状语 (those first couple of weeks)。
+
+关键词：clenched
+
+表达方式：Adam 的回忆，显示 townspeople 的 shifting perception。
+
+为什么这样写：townspeople 的 initial assumption（heroism）与 subsequent suspicion（foul play）的 contrast 显示 community 的 shifting perception——这种 perception 为后续剧情埋下伏笔。
 
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| visceral | 内脏的；深切的 | "visceral and real" (ch13) |
-| sardonic | 讽刺的；挖苦的 | "There was no mistaking the man's sardonic tone" (ch13) |
-| grotesque | 丑陋的；怪异的 | "as grotesque as what had appeared in the mirror" (ch13) |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| visceral | ⭐⭐⭐ | 内脏的；深切的 |
+| sardonic | ⭐⭐⭐ | 讽刺的；挖苦的 |
+| grotesque | ⭐⭐⭐ | 丑陋的；怪异的 |
 
 ### ⭐⭐ 进阶
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| induced coma | 诱导昏迷 | "putting him into an induced coma" (ch13) |
-| grafting | 移植（皮肤） | "skin grafting" (ch13) |
-| disdainful | 蔑视的 | "another disdainful look" (ch13) |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| induced coma | ⭐⭐ | 诱导昏迷 |
+| grafting | ⭐⭐ | 移植（皮肤） |
+| disdainful | ⭐⭐ | 蔑视的 |
 
 ### ⭐ 基础
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| gurney | 推车；担架车 | "his gurney was rolled through the hospital doors" (ch13) |
-| emesis basin | 呕吐盆 | "an intern raced to grab an emesis basin" (ch13) |
-| numbness | 麻木 | "The numbness he'd felt while scrolling" (ch13) |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| gurney | ⭐ | 推车；担架车 |
+| emasis basin | ⭐ | 呕吐盆 |
+| numbness | ⭐ | 麻木 |
 
 ## 一句话总结
 

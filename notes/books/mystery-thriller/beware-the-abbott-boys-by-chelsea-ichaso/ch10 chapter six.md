@@ -18,52 +18,90 @@ modified: "2026-10-19"
 ### 第1处：小镇居民的辱骂
 
 > **原句 1:** "Lunch in town was predictably short."
-中文理解：该引语为原文节选。
-关键词：Lunch
 
-为什么这样写：Bram 的撒谎是他的 character flaw——他为了保护 Adam 而撒谎，但这种"善意的谎言"反而加深了 townspeople 的怀疑；Hayden 的"shock"显示她对 Bram 的信任被打破。
+中文理解：Hayden 与 Henry 在 town 吃午饭，时间 predictably short——因为小镇居民对 Henry 的敌意。
+
+句子结构：主语 Lunch in town + 谓语 was + 表语 predictably short。简单句。
+
+关键词：Lunch in town（在 town 吃午饭） / predictably short（predictably short）
+
+表达方式：Hayden 的叙述，显示小镇对 Abbott 兄弟的敌意。
+
+为什么这样写：Hayden 与 Henry 在 town 的 lunch 被小镇居民的敌意缩短，显示 townspeople 的偏见如何影响日常。
+
+---
+
+### 第2处：小镇居民的辱骂
+
+> **原句 2:** "Got a problem?" I finally asked her like a six-year-old.
+
+中文理解：Hayden 对辱骂 Henry 的中年妇女说"Got a problem?"，像 six-year-old——显示她的 immature 反应与愤怒。
+
+句子结构：直接引语 ("Got a problem?") + 主语 I + 谓语 asked + 间接宾语 her + 比较状语 (like a six-year-old)。
+
+关键词：Got a problem（有问题吗）/ like a six-year-old（像六岁小孩）
+
+表达方式：Hayden 的直接引语，显示她的 anger。
+
+为什么这样写：Hayden 的"like a six-year-old"显示她的 immature 反应——面对 townspeople 的偏见，她无法保持冷静。
 
 ---
 
 ### 第3处：Bram 的 hoodie 被偷
 
-> **原句 3:** "“Got a problem?” I finally asked her like a six-year-old."
-中文理解：该引语为原文节选。
-关键词：problem
+> **原句 3:** "She shrugged. “Just wondering how he can sit there and enjoy a warm meal while Kennedy Russo’s body is still going cold."
+
+中文理解：中年妇女 shrug，说"只是 wondering 他怎么能在 Kennedy Russo 的尸体 still going cold 时 sit there and enjoy a warm meal"——显示 townspeople 的偏见。
+
+句子结构：直接引语 ("Just wondering how he can sit there and enjoy a warm meal while Kennedy Russo's body is still going cold") + 主语 She + 谓语 shrugged。
+
+关键词：Just wondering（只是 wondering） / still going cold（still going cold） / enjoy a warm meal（enjoy a warm meal）
+
+表达方式：直接引语，显示 townspeople 的偏见。
+
+为什么这样写：中年妇女的"still going cold"显示 townspeople 的 cruelty——他们无法理解 Abbott 兄弟也有 right to eat。
 
 ---
 
-### 第4处：结尾——"everyone hates the Abbott brothers"
+### 第4处：Bram 的 hoodie 被偷
 
 > **原句 4:** "She shrugged. “Just wondering how he can sit there and enjoy a warm meal while K"
-中文理解：该引语为原文节选。
-关键词：shrugged
+
+中文理解：中年妇女 shrugged，继续辱骂 Henry——显示 townspeople 的偏见与 cruelty。
+
+句子结构：同上。
+
+关键词：shrugged（shrugged） / enjoy a warm meal（enjoy a warm meal）
+
+表达方式：直接引语，显示 townspeople 的偏见。
+
+为什么这样写：townspeople 的辱骂显示 Abbott 兄弟的 social isolation——这种 isolation 为后续剧情埋下伏笔。
 
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| impersonating | 冒充；模仿 | "Someone impersonating him" |
-| vindicated | 证明无罪 | (ch05) |
-| corroboration | 佐证 | (ch10) |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| impersonating | ⭐⭐⭐ | 冒充；模仿 |
+| vindicated | ⭐⭐⭐ | 证明无罪 |
+| corroboration | ⭐⭐⭐ | 证实；佐证 |
 
 ### ⭐⭐ 进阶
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| clipped tone | clipped 的语气 | "he says in a clipped tone" |
-| wary | 谨慎的；警觉的 | (context) |
-| ominous | 不祥的 | (context) |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| clipped tone | ⭐⭐ | clipped 的语气 |
+| wary | ⭐⭐ | 谨慎的；警觉的 |
+| ominous | ⭐⭐ | 不祥的 |
 
 ### ⭐ 基础
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| rack my brain | 绞尽脑汁 | "I try to rack my brain" |
-| heft | 举起 | "I heft my backpack" (ch02) |
-| flinch | 畏缩 | "I flinch, shock hitting me" |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| rack my brain | ⭐ | 绞尽脑汁 |
+| heft | ⭐ | 举起 |
+| flinch | ⭐ | 畏缩 |
 
 ## 一句话总结
 

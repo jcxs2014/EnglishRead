@@ -18,54 +18,90 @@ modified: "2026-10-19"
 ### 第1处：Lydia 的"secret boyfriend"理论升级
 
 > **原句 1:** "There are no streetlamps on the road outside the Abbotts’ wrought iron gate, so I use my phone’s light as I approach on foot."
-中文理解：该引语为原文节选。
-关键词：There
+
+中文理解：Hayden 走向 Abbott 家 property，路上没有 streetlamps，她用 phone's light——显示 Abbott 家 property 的 isolation 与 Hayden 的 determination。
+
+句子结构：主语 There + 谓语 are + 表语 no streetlamps + 介词短语 (on the road outside the Abbotts' wrought iron gate)；so 连接并列句 (I use my phone's light as I approach on foot)。
+
+关键词：no streetlamps（没有 streetlamps） / wrought iron gate（wrought iron gate）
+
+表达方式：Hayden 的叙述，显示 Abbott 家 property 的 isolation。
+
+为什么这样写：Abbott 家 property 的 isolation 显示 Abbott 家族的"局外人"地位——这种 isolation 为后续剧情埋下伏笔。
 
 ---
 
 ### 第2处：Hayden 与 Henry 的关系升级——"What would I do without you?"
 
 > **原句 2:** "Lydia gets out quickly, locking the door three times, apparently for good measure."
-中文理解：该引语为原文节选。
-关键词：Lydia
 
-> **原句 3:** "“Because everyone at school is horrible to the Abbotts."
-中文理解：该引语为原文节选。
-关键词：Because
+中文理解：Lydia 快速下车，锁门三次，apparently for good measure——显示她的 fear 与 caution。
+
+句子结构：主语 Lydia + 谓语 gets out + 副词 quickly + 分词短语 (locking the door three times, apparently for good measure) 作伴随状语。
+
+关键词：gets out quickly（快速下车） / locking the door three times（锁门三次） / for good measure（for good measure）
+
+表达方式：Hayden 的叙述，显示 Lydia 的 fear。
+
+为什么这样写：Lydia 的"locking the door three times"显示她的 fear——这种 fear 为后续剧情埋下伏笔。
+
+---
+
+### 第3处：Hayden 与 Henry 的关系升级——"What would I do without you?"
+
+> **原句 3:** "Because everyone at school is horrible to the Abbotts."
+
+中文理解：Hayden 说"Because everyone at school is horrible to the Abbotts"——显示她的 defense of the Abbotts。
+
+句子结构：直接引语 ("Because everyone at school is horrible to the Abbotts.")。简单句。
+
+关键词：Because（因为） / everyone at school（everyone at school） / horrible to the Abbotts（对 Abbotts horrible）
+
+表达方式：Hayden 的 direct speech，显示她的 defense。
+
+为什么这样写：Hayden 的"horrible to the Abbotts"显示她的 defense——这种 defense 为后续剧情埋下伏笔。
 
 ---
 
 ### 第4处：Adam 看到 Hayden 与 Bram 拥抱——"he steals girls"
 
 > **原句 4:** "She keeps her gaze on the birds."
-中文理解：该引语为原文节选。
-关键词：keeps
+
+中文理解：Lydia keeps her gaze on the birds——显示她的 distraction 与 unease。
+
+句子结构：主语 She + 谓语 keeps + 宾语 her gaze + 介词短语 (on the birds)。
+
+关键词：keeps her gaze（keeps her gaze） / on the birds（on the birds）
+
+表达方式：Hayden 的叙述，显示 Lydia 的 distraction。
+
+为什么这样写：Lydia 的"keeps her gaze on the birds"显示她的 distraction——这种 distraction 为后续剧情埋下伏笔。
 
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| damning | 有罪的； condemnatory 的 | "This evidence, it's pretty damning" |
-| malice | 恶意；怨恨 | "the malice in that grin" |
-| beguiling | 迷人的 | "a beguiling sense of danger" (ch17) |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| damning | ⭐⭐⭐ | 有罪的； condemnatory 的 |
+| malice | ⭐⭐⭐ | 恶意；怨恨 |
+| beguiling | ⭐⭐⭐ | 迷人的 |
 
 ### ⭐⭐ 进阶
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| flustered | 慌乱的 | "all flustered" (ch17) |
-| balking | 退缩；犹豫 | "I balk" (ch17) |
-| thump | 重击声 | "a thump sounds" (ch17) |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| flustered | ⭐⭐ | 慌乱的 |
+| balking | ⭐⭐ | 退缩；犹豫 |
+| thump | ⭐⭐ | 重击声 |
 
 ### ⭐ 基础
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| heft | 举起 | "I heft my backpack" (ch02) |
-| flinch | 畏缩 | "I flinch, shock hitting me" (ch10) |
-| scowl | 怒视 | "he scowls" (ch04) |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| heft | ⭐ | 举起 |
+| flinch | ⭐ | 畏缩 |
+| scowl | ⭐ | 怒视 |
 
 ## 一句话总结
 

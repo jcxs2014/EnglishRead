@@ -17,55 +17,91 @@ modified: "2026-10-19"
 
 ### 第1处：章节题词——Dracula 的"灵魂与记忆"
 
-> **原句 1:** "“Souls and memories can do strange things during trance."
-中文理解：该引语为原文节选。
-关键词：Souls
+> **原句 1:** "Souls and memories can do strange things during trance."
 
-> **原句 2:** "“Mariana?” Bram called again when he found the downstairs bathroom unoccupied."
-中文理解：该引语为原文节选。
-关键词：Mariana
+中文理解：Dracula 中的题词——"灵魂与记忆在 trance 中会做 strange things"。Bram 的 secret relationship 像 trance 一样控制他，"souls and memories"显示他的内心冲突。
+
+句子结构：主语 Souls and memories + 谓语 can do + 宾语 strange things + 介词短语 (during trance)。
+
+关键词：Souls and memories（灵魂与记忆） / strange things during trance（trance 中的 strange things）
+
+表达方式：章节题词，直接引用《德古拉》。
+
+为什么这样写：题词暗示 Bram 的"trance"状态——他的秘密关系像 trance 一样控制他，"souls and memories"显示他的内心冲突。
+
+---
+
+### 第2处：Bram 与 Mariana 的"裂痕"——神秘短信
+
+> **原句 2:** "It was her. The guilt returned in a wave, washing over him like sticky salt water."
+
+中文理解：Bram 收到"her"的短信，guilt returned in a wave，washing over him like sticky salt water——显示他的 shame 与道德挣扎。
+
+句子结构：主语 It + 谓语 was + 表语 her。The guilt returned in a wave（主谓宾）。分词短语 (washing over him like sticky salt water) 作伴随状语。
+
+关键词：It was her（是她） / guilt returned in a wave（愧疚如 wave 返回） / sticky salt water（sticky salt water）
+
+表达方式：Bram 的内心独白，显示他的 guilt。
+
+为什么这样写："guilt returned in a wave"显示 Bram 的 moral struggle——他有 secret relationship，这种 guilt 为后续 plot 埋下伏笔。
 
 ---
 
 ### 第3处：Bram 决定告诉 Mariana 真相
 
 > **原句 3:** "It was very strange, the way she’d left her belongings there in the living room."
-中文理解：该引语为原文节选。
-关键词：very
+
+中文理解：Bram 发现 Mariana 的 belongings left in the living room，他 wonder if she sensed the chasm he created——显示他的 guilt 与 uncertainty。
+
+句子结构：主语 It + 谓语 was + 表语 very strange；同位语 (the way she'd left her belongings there in the living room)。
+
+关键词：very strange（very strange）
+
+表达方式：Bram 的叙述，显示他的 guilt。
+
+为什么这样写：Bram 的"very strange"显示他的 guilt——他 wondered if Mariana sensed the chasm，这种 uncertainty 为后续 plot 埋下伏笔。
 
 ---
 
 ### 第4处：结尾——Bram 前往修车店
 
 > **原句 4:** "Bram headed toward the back door to see if maybe she’d gone for a walk around the gardens when his phone buzzed in his back pocket again."
-中文理解：该引语为原文节选。
-关键词：Bram
+
+中文理解：Bram headed toward the back door to see if maybe she'd gone for a walk around the gardens——when his phone buzzed in his back pocket again，显示他的 distraction 与 concern。
+
+句子结构：主语 Bram + 谓语 headed + 介词短语 (toward the back door) + 不定式短语 (to see if maybe she'd gone for a walk around the gardens) + 时间状语从句 (when his phone buzzed in his back pocket again)。
+
+关键词：headed toward the back door（headed toward the back door） / phone buzzed（phone buzzed）
+
+表达方式：Bram 的 action，显示他的 concern。
+
+为什么这样写：Bram 的"headed toward the back door"显示他的 concern——他 wonder where Mariana went，这种 concern 为后续 plot 埋下伏笔。
 
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| trance | 恍惚；出神 | "Souls and memories can do strange things during trance" |
-| filthy feeling | 肮脏的感觉 | "Leaving that filthy feeling behind" |
-| dread | 恐惧； dread | "dread to rise in his chest" |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| trance | ⭐⭐⭐ | 恍惚；出神 |
+| filthy feeling | ⭐⭐⭐ | 肮脏的感觉 |
+| dread | ⭐⭐⭐ | 恐惧；dread |
 
 ### ⭐⭐ 进阶
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| crave | 渴望；渴求 | "He craved it" |
-| immersing | 沉浸 | (ch07) |
-| broodily | 阴郁地 | (ch07) |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| crave | ⭐⭐ | 渴望；渴求 |
+| immersing | ⭐⭐ | 沉浸 |
+| broodily | ⭐⭐ | 阴郁地 |
 
 ### ⭐ 基础
 
-| 词/短语 | 释义 | 原文例句 |
-|---------|------|---------|
-| mumbled | 嘟囔 | "he mumbled that there were snacks" (ch07) |
-| giggling | 咯咯笑 | "Mariana giggled" (ch07) |
-| swaying | 摇摆 | "The grass around him swayed" (ch04) |
+| 词/短语 | 难度 | 释义 |
+|---------|------|------|
+| mumbled | ⭐ | 嘟囔 |
+| giggling | ⭐ | 咯咯笑 |
+| swaying | ⭐ | 摇摆 |
 
 ## 一句话总结
 
