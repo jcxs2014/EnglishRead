@@ -34,6 +34,16 @@
 
 **读者视角提示**：Oh my God = Emma's excitement; "I want to read it" = her enthusiasm; "print out the synopsis" = her preference; "All right, Linda" = Jas's tease; "I'm going to take them to the café" = Emma's plan; "how are you not more worried?" = Jas's concern; this is Emma's professional engagement.
 
+> **原句 3:** “It’s OK, it’s OK, I’ll explain another time. I wanted to ask you about that book.”
+
+**中文理解**："It's OK, it's OK, I'll explain another time. I wanted to ask you about that book."
+
+**关键词**：It's OK / I'll explain another time / I wanted to ask you about that book
+
+**为什么这样写**：It's OK = Emma's reassurance—she calms Jas. "I'll explain another time" = Emma's deflection—she doesn't want to explain now. "I wanted to ask you about that book" = Emma's focus—she wants to talk about Ernestina's book. This is Emma's "gift" day at the office: she's avoiding Linda/Arthur drama and focusing on what matters—Ernestina's book. Emma's professional engagement is her escape from the loop's despair.
+
+**读者视角提示**：It's OK = Emma's reassurance; "I'll explain another time" = her deflection; "I wanted to ask you about that book" = her focus; this is Emma's professional engagement as escape.
+
 ## 词汇
 
 ### ⭐⭐⭐ 高级

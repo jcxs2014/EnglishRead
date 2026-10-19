@@ -33,8 +33,9 @@
 **读者视角提示**：Band-Aids =「创可贴」；Hattie as Emma's "favorite friend" contrasts with Dan's "I see a different side to you when you're with Hattie" (ch05)—Hattie is Emma's mirror and anchor.
 
 > **原句 4:** “I was hiding,” Jas said.
+**关键词**：was / hiding
 
-> **原句 5:** “I heard them upstairs—quite ranty—and they called out so I hid—you know she only uses the bathroom on the first floor—and then I got obsessed with this submission on my phone.”
+> **原句 5:** “I heard them upstairs—quite ranty—and they called out so I hid—you know she only uses the bathroom on the first floor—and then I thought they’d gone but I wasn’t absolutely sure and then I got obsessed with this submission on my phone.”
 **中文理解**：Jas 解释她为什么躲在浴室：听到楼上 ranty，就躲起来；然后被手机上的 submission 迷住。
 **关键词**：hiding / ranty / obsessed with this submission
 **为什么这样写**：Jas's hiding is comic relief but also workplace survival—she avoids Linda/Arthur's toxicity by physically disappearing. "ranty" (slang for ranting) is Jas's Gen-Z voice, contrasting with Emma's more formal register. "obsessed with this submission" shows Jas's genuine engagement with books—she's a good editor hiding in a bathroom. The "witches but like, so not cliché" pitch shows her taste. This is the novel's workplace comedy: Jas as Emma's younger mirror.
@@ -47,6 +48,7 @@
 **读者视角提示**：This is Emma's third lie (ch02: two lies; ch06: bursary lie; here: reporting the lie as fact). The lie is now self-sustaining—Emma is building on it.
 
 > **原句 7:** “Oh God.”
+**关键词**：God
 
 > **原句 8:** “How had I not realized its significance until now?”
 **中文理解**："Oh God." "我怎么直到现在才意识到它的意义？"
@@ -55,8 +57,10 @@
 **读者视角提示**："Oh God." vs ch02's "Oh my God." = same interjection, different registers; "How had I not realized" is Emma's self-reckoning; the date reveal is the loop's trigger.
 
 > **原句 9:** “Me @Dan Don’t worry about the sausages! I’ll shop! I’ll get the zucchinis too!”
+**关键词**：@Dan / Don’t / worry / about
 
 > **原句 10:** “Me @Dan And I’ll cook for us tonight.”
+**关键词**：@Dan / And / I’ll / cook
 
 > **原句 11:** “Me @Dan Hope you’re having a good day. See you later”
 **中文理解**：Emma 的 chat："别担心香肠！我去买！我也会买西葫芦！""今晚我来煮饭。""希望你今天过得好。回头见。"

@@ -39,6 +39,7 @@
 **读者视角提示**：I was going mad = Emma's self-diagnosis; "maybe I was the one who had died" = her fear; "some test? Some purgatory?" = her question about the loop's nature; this is the novel's deepest philosophical moment.
 
 > **原句 5:** “I thought it was you! I was sent out to buy—”
+**关键词**：thought / was / you / was
 
 > **原句 6:** “Coffee,” I finished in a flat voice, the last two days suddenly swooping back into my vision.
 **中文理解**："Emma?" Jas was standing in front of her. "I thought it was you! I was sent out to buy—" "Coffee," Emma finished in a flat voice, the last two days suddenly swooping back into her vision。

@@ -35,6 +35,7 @@
 
 
 > **原句 5:** “Dan told me he's barely seen you.”
+**关键词**：Dan / told / he's / barely
 
 > **原句 6:** “She didn't meet my eye.”
 **中文理解**：Hattie told Emma that Dan said he's barely seen her. She didn't meet my eye。

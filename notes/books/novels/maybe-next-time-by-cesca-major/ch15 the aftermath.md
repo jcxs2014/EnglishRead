@@ -27,10 +27,11 @@
 **读者视角提示**：nothing there of Dan = Dan's essence is gone; this is the loop's "After" moment—Dan is dead, the loop will reset.
 
 > **原句 3:** “This wasn’t what he wanted.”
+**关键词**：This / wasn’t / what / wanted
 
 > **原句 4:** “He wanted to die in his bed. He told me.”
 **中文理解**："这不是他想要的。他想在床里死。他告诉过我。"
-**关键词**：This wasn’t what he wanted / He wanted to die in his bed
+**关键词**：wanted / die / his / bed
 **为什么这样写**：This is Emma's memory of Dan's wish (from ch09: "I want to die in my bed. With you. When we've really lived."). "He wanted to die in his bed. He told me." = Emma's guilt—she couldn't give him his wish. "He hadn't wanted this" = the gap between Dan's wish and reality. "I hoped Gus had been the last thing he'd seen" = Emma's consolation—she hopes Dan's last sight was Gus, not the car, not the road. This is Emma's grief mechanism: she constructs a better ending for Dan in her mind.
 **读者视角提示**："He wanted to die in his bed" = Dan's wish from ch09; "I hoped Gus had been the last thing he'd seen" = Emma's consolation fantasy.
 

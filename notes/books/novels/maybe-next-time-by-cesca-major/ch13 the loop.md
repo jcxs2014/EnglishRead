@@ -45,6 +45,7 @@
 **读者视角提示**：This is verbatim from ch02—Dan's loop line. "bloody sad" (not "angry") = his emotion is hurt, not rage.
 
 > **原句 6:** “'Were you fighting?'”
+**关键词**：Were / you / fighting
 
 > **原句 7:** “'No, darling. It was the telly. Night, night.'”
 **中文理解**：Miles 问 "你们在打架吗？" Emma 答 "不是，宝贝。是电视。晚安。"
@@ -59,6 +60,7 @@
 **读者视角提示**：royally screwed up =「 royally 搞砸了」；the alarm sound = the loop's reset trigger, identical to ch02's ending.
 
 > **原句 9:** “My skin broke into goosebumps as my head turned toward our front door.”
+**关键词**：skin / broke / into / goosebumps
 
 > **原句 10:** “What was that?”
 **中文理解**："我的皮肤起满鸡皮疙瘩，头转向前门。/ 那是什么？"

@@ -28,7 +28,7 @@
 
 > **原句 3:** “e) You’re kind to me. Even when I’m being a dick. I’m not sure why I’m choosing to bring this up in my romantic letter to you but I still feel ashamed about that night I fell out with you because I thought it was pronounced ex-press-oh and you were adamant it was es-press-oh.”
 **中文理解**：Emma 对他好，即使他 being a dick；他不知道为什么要在浪漫信里提这个，但还为 espresso 发音争吵那晚羞愧——他坚持 ex-press-oh，Emma 坚持 es-press-oh。
-**关键词**：Even when I'm being a dick / ashamed / ex-press-oh vs es-press-oh
+**关键词**：You’re / kind / me / Even
 **为什么这样写**：Even when I'm being a dick is Dan's self-diagnosis—he knows he's difficult. "I'm not sure why I'm choosing to bring this up in my romantic letter" is meta-commentary: Dan is aware the letter should be romantic but can't help being honest. The espresso incident is a micro-conflict that reveals their dynamic: Dan is wrong (ex-press-oh), Emma is right (es-press-oh), and Emma's kindness is letting him "climb down off my embarrassing high horse." "You gave me the space to climb down" = Emma's patience as love. "Yeah I googled it didn't I? See, I am a dick" = Dan's self-mocking honesty.
 **读者视角提示**：dick =「混蛋」（英式口语）；adamant =「坚决的」；espresso 的正确发音是 es-press-oh; "climb down off my high horse" =「从高马上下来、认错」。This is Dan's pattern: he's wrong, Emma is patient, he apologizes.
 
@@ -39,6 +39,7 @@
 **读者视角提示**：subtly =「巧妙地、不露痕迹地」；cardigan =「开襟羊毛衫」；Emma's generosity without boundaries is both her virtue and her vulnerability—she gives to strangers, neglects Dan/Hattie.
 
 > **原句 5:** “I still can’t really believe it.”
+**关键词**：still / can’t / really / believe
 
 > **原句 6:** “It’s not that I’m not excited—you know I am. I just can’t believe that in seven months I’m going to be a dad.”
 **中文理解**："我真的不敢相信。""不是不兴奋——你知道我是。我只是不敢相信七个月后我将成为爸爸。"

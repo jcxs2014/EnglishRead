@@ -63,6 +63,7 @@
 **读者视角提示**：loo roll =「厕纸」。
 
 > **原句 9:** “Catching sight of my face before it disappeared in the fog, I frowned.”
+**关键词**：Catching / sight / face / before
 
 > **原句 10:** “was that a new line? Did I need Botox? My client, Scarlet, had told me about a Viscoderm filler that was better. And what was the vitamin that was good for skin? D? B? Was B the one for hair?”
 **中文理解**：Emma 照镜子，怀疑新皱纹、想 Botox、纠结维生素 D 还是 B。
@@ -83,6 +84,7 @@
 **读者视角提示**：lurch =「猛冲、摇晃」；Arthur tweet 是 Emma 的 work crisis（an author's misconduct?）；"for today" 的 repetition across the chapter is the loop's verbal marker.
 
 > **原句 13:** “Oh, and Miles . . . TEDDIES.”
+**关键词**：Oh / and / Miles / TEDDIES
 
 > **原句 14:** “Sorry,” I adjusted the volume, my brain flying off in five different directions.
 **中文理解**：Emma 突然想起泰迪熊义卖，大喊 "Miles . . . TEDDIES"；"Sorry"，她调低音量，脑子飞向五个方向。
@@ -91,10 +93,11 @@
 **读者视角提示**：TEDDIES =「泰迪熊义卖」；"brain flying off in five different directions" 是 Emma 对自己 attention fragmentation 的 meta-commentary；Dan's quietness ("seemed so quiet") is his response to this pattern.
 
 > **原句 15:** “Why are you organizing that again? They left playgroup years ago.”
+**关键词**：Why / are / you / organizing
 
 > **原句 16:** “I know but, well, I've promised now.”
 **中文理解**：Dan 质疑 Emma 为什么又组织泰迪熊义卖（孩子们早离开 playgroup 了）；Emma 答 "我知道，但答应了"。
-**关键词**：Why are you organizing that again? / I've promised now
+**关键词**：know / but / well / I've
 **为什么这样写**：Dan's question is gentle pushback disguised as question—he's asking "why are you still doing this?" which is really "why can't you let go?" Emma's "I know but, well, I've promised now" is her default mode: commit to obligations she can't fulfill, then fail. "They left playgroup years ago" is Dan's quiet logic; "I know but" is Emma's emotional override. This exchange establishes their dynamic: Dan sees clearly, Emma overcommits, Dan doesn't push further ("He was right, of course, I'd told him I would step down, but no one had offered to take my place"). The playgroup volunteering is Emma's way of holding onto a lifeline from "those crazy early years."
 **读者视角提示**：playgroup =「幼儿游戏小组」；Dan's "He was right, of course" shows Emma's self-awareness without behavior change—she knows but doesn't act.
 

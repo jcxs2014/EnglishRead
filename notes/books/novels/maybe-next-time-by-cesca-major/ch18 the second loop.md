@@ -27,6 +27,7 @@
 **读者视角提示**：no rub from any heels = the loop's physical reset; Emma's body is restored; this is her reality test.
 
 > **原句 3:** “It wasn’t actually too bad.”
+**关键词**：wasn’t / actually / too / bad
 
 > **原句 4:** “The film, The Sound of Music, we’d watched on Sunday night, bunched all together on our big L-shaped sofa.”
 **中文理解**：Miles 说 "It wasn't actually too bad" (The Sound of Music)；Emma remembers they watched it Sunday night, bunched on the L-shaped sofa。
@@ -41,8 +42,10 @@
 **读者视角提示**：Please don't go anywhere = Emma's attempt to prevent Dan's death; "Together. Now." = her urgency; Dan doesn't understand the stakes.
 
 > **原句 6:** “'Mum's being weird.'”
+**关键词**：Mum's / being / weird
 
 > **原句 7:** “'Yeah. Really weird.'”
+**关键词**：Yeah / Really / weird
 
 > **原句 8:** “'She just loves us,' I heard Dan reply as my hand stilled on the doorknob.”
 **中文理解**："Mum's being weird." "Yeah. Really weird." "She just loves us," Dan reply as Emma's hand stilled on the doorknob。

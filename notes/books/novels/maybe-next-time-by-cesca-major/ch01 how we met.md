@@ -51,6 +51,7 @@
 **读者视角提示**：aloud =「出声地」；Tourette's = 图雷特综合征（不自主的抽动/发声）。全大写在英文写作里通常表示 shouting/panic，此处模拟 Dan 记忆中的惊恐。boobs 为 boobs 的口语化，Dan 想说的是 boots（靴子）。
 
 > **原句 7:** “How normal are you compared to today? 1 being completely normal, BORINGLY so; 10 being, well, like you were today?”
+**关键词**：How / normal / are / you
 **中文理解**：Emma 临睡前发来的消息：「和今天比，你正常程度几分？1 是完全正常，无聊到爆；10 是，嗯，就像你今天这样。」
 **为什么这样写**：这是 Emma 的声音第一次以引语出现（此前她只被 Dan 转述）。用问句 + 量表（1–10）把 Dan 的尴尬量化成一个数字游戏——Emma 用 humor 把他的羞愧接住、反转成 flirtation。BORINGLY so 的副词化（boringly =「无聊地」）是 Emma 的语言风格：把形容词变副词，制造口语的机智。分号 ; 与 well, like you were today 的犹豫停顿，模拟短信的节奏。这是两人关系的真正开始：不是地铁上的 hat，而是这条消息。
 **读者视角提示**：全句是 Emma 的短信；normal / BORINGLY / like you were today 三组对照把「今天」定义为「不正常但可爱」。这是全书 present-day 危机的对照基线——一年后 Emma 仍会用这种 humor，但 Dan 会发现她「拖回另一个地方」。

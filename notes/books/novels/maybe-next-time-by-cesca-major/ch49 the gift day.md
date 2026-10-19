@@ -34,6 +34,16 @@
 
 **读者视角提示**：Poppy, can I ask you something = Emma's approach; "She still looked jumpy" = Poppy's nervousness; "How had I not picked up on this nervous energy?" = Emma's realization; "promise me you won't post anything" = her warning; "Can we talk later? Properly." = her invitation; "Love you" = their exchange; this is Emma reconnecting with Poppy.
 
+> **原句 3:** “Let’s have breakfast all together this morning,” I said.
+
+**中文理解**："Let's have breakfast all together this morning," I said.
+
+**关键词**：Let's have breakfast all together / this morning
+
+**为什么这样写**：Let's have breakfast all together = Emma's suggestion—she wants a family breakfast. "this morning" = her timing—she wants it now. This is Emma's "gift" day: she's choosing to spend time with her family. "A gift" = Emma's mantra—she's framing the day as a gift. The family breakfast is a small moment that Emma used to skip (in previous loops, she was too busy or too numb). Now she's savoring it.
+
+**读者视角提示**：Let's have breakfast all together = Emma's suggestion; "this morning" = her timing; this is Emma's "gift" day—choosing to spend time with family.
+
 ## 词汇
 
 ### ⭐⭐⭐ 高级

@@ -27,8 +27,10 @@
 **读者视角提示**：For fuck . . . = the loop's first checkpoint; "It just couldn't be. How?" = Emma's disbelief; the cyclist is the loop's confirmation.
 
 > **原句 3:** “I'm not sure I should have caffeine,” I said, almost to myself.
+**关键词**：I'm / not / sure / should
 
 > **原句 4:** “Headache?” the barista asked sympathetically.
+**关键词**：Headache
 
 > **原句 5:** “Something like that,” I said, chewing my lip as I stared at the chalkboard behind him. “I'll have a freshly squeezed orange juice, please.”
 **中文理解**：Emma says "I'm not sure I should have caffeine," almost to herself. Barista asks "Headache?" She says "Something like that" and orders "freshly squeezed orange juice."
@@ -49,6 +51,7 @@
 **读者视角提示**：tree falling in the wood = Emma's philosophical question about determinism; "If I wasn't there would it still happen?" = her fear that Dan will die regardless.
 
 > **原句 8:** “Emma @Dan Just checking in with you! Message me back OK!”
+**关键词**：Emma / @Dan / Just / checking
 
 > **原句 9:** “Emma @Dan X X X”
 **中文理解**：Emma @Dan "Just checking in with you! Message me back OK!" / "X X X"

@@ -45,6 +45,7 @@
 **读者视角提示**：The rota doesn't know yet but I'm not coming and I'm quitting too = Emma's digital correction; "Byyyyyyeeeeeeeeeeeee" = her manic sign-off; this is Emma's breakdown in digital form.
 
 > **原句 6:** “Emma @Poppy Wear anything. Love you. X”
+**关键词**：Emma / @Poppy / Wear / anything
 
 > **原句 7:** “Emma @AuthorLou Nothing matters.”
 **中文理解**：Emma @Poppy "Wear anything. Love you. X" / Emma @AuthorLou "Nothing matters."

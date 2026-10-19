@@ -38,12 +38,6 @@
 **为什么这样写**："I can still fix things" is Emma's core delusion—she believes her actions can control outcomes. "stop a repeat of last year" reveals the loop's history: last year she also forgot, and the "repeat" is the pattern. This is the novel's central irony: Emma thinks she can "fix" things, but her "fixing" (shopping, cooking, promising) is what perpetuates the loop. The loop isn't something that happens to her; it's something she creates through her distractedness.
 **读者视角提示**：This is Emma's delusion: she believes she can control the loop through action, but her actions are the loop's fuel.
 
-> **原句 5:** “I've been shit. And today, I'm so sorry. I feel bad. I know last year . . .” I didn't finish the sentence, wishing I could erase his hurt expression. the sentence, wishing I could erase his hurt expression.
-**中文理解**："我表现得糟透了。今天，我真的很抱歉。我知道去年……"她没说完，希望抹去他受伤的表情。
-**关键词**：I've been shit / I'm so sorry / wishing I could erase
-**为什么这样写**："I've been shit" is Emma's blunt self-assessment (British slang "shit" = terrible). "I'm so sorry" is her apology—sincere but incomplete ("I know last year . . ." trails off). "wishing I could erase his hurt expression" = Emma wants to control Dan's emotions (erase his hurt), not just acknowledge them. This is her pattern: she wants to fix the feeling, not sit with it. Dan's response ("It doesn't matter. You've been . . . busy.") is generous but also resigned—he's learned to accept her absence.
-**读者视角提示**：shit =「糟透了」（英式）；"wishing I could erase" shows Emma's control impulse—she wants to manage Dan's emotions, not just apologize.
-
 > **原句 6:** “Dan moved across to the sink to start the washing-up left over from breakfast. 'Is Poppy back yet? Did she talk to you about giving up Dance?'”
 **中文理解**：Dan 去水槽洗早餐碗碟："Poppy 回来了吗？她跟你谈过放弃 Dance 的事吗？"
 **关键词**：washing-up / giving up Dance

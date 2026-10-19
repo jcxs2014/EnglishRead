@@ -21,10 +21,11 @@
 **读者视角提示**：urge to tell someone = Emma's need to share; "a friend" = Hayley; overwhelmed = physical need; the loop isolates Emma.
 
 > **原句 2:** “'Ow,' I shrieked, grabbing my arm.”
+**关键词**：Ow / shrieked / grabbing / arm
 
 > **原句 3:** “'Sorry,' I whispered, holding up my arm. 'Just . . . checking.'”
 **中文理解**："Ow," Emma shrieked, grabbing her arm. "Sorry," she whispered, holding up her arm. "Just . . . checking."
-**关键词**：Ow / Just . . . checking
+**关键词**：Sorry / whispered / holding / arm
 **为什么这样写**："Ow" = Emma jabbing her pen into her arm to check if this is real (pain = reality). "Just . . . checking" = her euphemistic explanation—she's checking if she's in a dream. The ellipsis (Just . . . checking) shows her hesitation—she can't explain what she's checking. This is Emma's loop-verification: pain = reality. Everyone swiveled toward me, Melissa's speech tailing away—Emma's outburst disrupts the meeting. "Sorry" = her apology for the disruption.
 **读者视角提示**：Ow = Emma's pain check (reality verification); "Just . . . checking" = her euphemism; the ellipsis shows her hesitation; everyone swiveled = the meeting's disruption.
 
@@ -35,6 +36,7 @@
 **读者视角提示**：come off Twitter altogether = Emma's suggestion (backfires); "voice bright" = her performance; the suggestion makes things worse—Arthur storms out, Linda is angry.
 
 > **原句 5:** “As Linda got into the lift with Arthur she held her hand up. 'I need to talk to my client alone,' she told me, and then added in a hiss, 'I will talk to you later today.'”
+**关键词**：Linda / got / into / the
 
 > **原句 6:** “'I will talk to you later today.'”
 **中文理解**：Linda held her hand up: "I need to talk to my client alone." Then added in a hiss: "I will talk to you later today."

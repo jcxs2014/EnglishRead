@@ -15,10 +15,13 @@
 ## 精读
 
 > **原句 1:** “'Liam was being mean,' he said, his eyes sliding over the surface of the table, unable to meet mine.”
+**关键词**：Liam / was / being / mean
 
 > **原句 2:** “Being mean how?”
+**关键词**：Being / mean / how
 
 > **原句 3:** “He was . . . saying stuff. About . . .”
+**关键词**：was / saying / stuff / About
 
 > **原句 4:** “About what Poppy did . . .”
 **中文理解**："Liam was being mean," Miles said, his eyes sliding over the surface of the table, unable to meet mine. "Being mean how?" "He was . . . saying stuff. About . . . what Poppy did . . ."
@@ -27,6 +30,7 @@
 **读者视角提示**：Liam was being mean = Miles's confession; "saying stuff. About . . . what Poppy did" = the secret; Emma's minimization (playground scuffle) = her failure to see the real problem.
 
 > **原句 5:** “I wake up and it's the same day all over again . . .”
+**关键词**：wake / and / it's / the
 
 > **原句 6:** “Like . . . a memory thing?” He clearly wasn't getting it.
 **中文理解**："I wake up and it's the same day all over again . . ." "Like . . . a memory thing?" He clearly wasn't getting it。
@@ -34,7 +38,7 @@
 **为什么这样写**：I wake up and it's the same day all over again = Emma's claim—she's telling Dan about the loop. "Like . . . a memory thing?" = Dan's misinterpretation—he thinks it's a memory problem, not a time loop. "He clearly wasn't getting it" = Emma's frustration—Dan can't understand. This is the loop's central communication failure: Emma can't explain the loop to Dan. "Nothing much," I said, my head dipping onto my chest" = Emma's surrender—she gives up trying to explain.
 **读者视角提示**：I wake up and it's the same day all over again = Emma's claim; "Like . . . a memory thing?" = Dan's misinterpretation; "He clearly wasn't getting it" = Emma's frustration; this is the loop's communication failure.
 
-> **原句 7:** “'You have to promise me,' I said; Gus whined softly in the background. 'Promise me you'll stay in the house?'”
+> **原句 7:** ““You have to promise me,” I said; Gus whined softly in the background. “Promise me you won’t move from this sofa?””
 **中文理解**："You have to promise me," Emma said; Gus whined softly in the background. "Promise me you'll stay in the house?"
 **关键词**：You have to promise me / Promise me you'll stay in the house?
 **为什么这样写**：You have to promise me = Emma's command—she's making Dan promise. "Promise me you'll stay in the house?" = her specific request—Dan must stay inside. This is Emma's correction: she's preventing Dan from going out (unlike ch02/ch13/ch29 where she let him go). "Where else do you think I'd go?" = Dan's response—he doesn't understand why she's asking. "I just, well, I just want you to relax" = Emma's deflection—she can't tell him why. This is the loop's irony: Emma prevents Dan from going out, but Dan still dies.
@@ -47,10 +51,13 @@
 **读者视角提示**：heard the bang = the loop's trigger; "as I was crouched over him" = Emma's position; "squeezed my eyes closed" = her fear; "Dan was in our house" = her relief—Dan is safe.
 
 > **原句 9:** “'Dan?' I stage-whispered. 'Are you there?'”
+**关键词**：Dan / stage-whispered / Are / you
 
 > **原句 10:** “Dan was in the room.”
+**关键词**：Dan / was / the / room
 
 > **原句 11:** “He was lying on the floor next to the sofa.”
+**关键词**：was / lying / the / floor
 
 > **原句 12:** “And he was dead.”
 **中文理解**："Dan?" Emma stage-whispered. "Are you there?" Dan was in the room. He was lying on the floor next to the sofa. And he was dead。

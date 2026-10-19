@@ -75,6 +75,7 @@
 **读者视角提示**：panicked glance =「惊慌的一瞥」；the four-part list (agency/Arthur/her/me) shows Emma's expanding anxiety; "Under control?" is Linda's question that Emma cannot truthfully answer.
 
 > **原句 11:** “What was I doing?”
+**关键词**：What / was / doing
 **中文理解**："我在干什么？"
 **为什么这样写**：This is the chapter's final question—Emma's existential doubt, placed after Arthur's "To our chariot" (Oscars fantasy) and Linda's "So naughty." The question is not about the meeting; it's about her life. "What was I doing?" echoes ch03's "brain flying off in five different directions" and ch02's "dragging herself back from another place entirely"—Emma is questioning her own presence. Placed at the end of a chapter full of motion (walking, texting, ordering, extracting her hand), the question stops the momentum and asks: to what end?
 **读者视角提示**：This is Emma's core question—repeated throughout the novel; the taxi scene (sitting, watching, wondering) is the first moment of stillness in a chapter of motion.

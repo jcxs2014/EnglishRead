@@ -32,12 +32,6 @@
 **为什么这样写**：I love you = Emma's correction (from ch17: "I love you" as her correction of ch15's "I had ruined it"). "infused with warmth" = Dan's voice carrying love. "filled me up" = Emma's emotional response—she's filled with warmth. This is the loop's emotional peak: Emma and Dan exchanging love. But the loop will reset, and Emma will forget. The warmth is temporary.
 **读者视角提示**：I love you = Emma's correction; "infused with warmth" = Dan's love; "filled me up" = Emma's response; the warmth is temporary (the loop will reset).
 
-> **原句 4:** “Emma @Dan Just heading home! See you later! Can't wait! / Dan @Emma OK! Love you! You are messaging me a lot today! / Dan @Emma Breast lol.”
-**中文理解**：Emma @Dan "Just heading home! See you later! Can't wait!" / Dan @Emma "OK! Love you! You are messaging me a lot today!" / "Breast lol."
-**关键词**：Just heading home! / You are messaging me a lot today! / Breast lol
-**为什么这样写**：Emma @Dan "Just heading home! See you later! Can't wait!" = Emma's correction—she's messaging Dan (in ch04, she didn't; in ch07, she messaged "Don't worry about the sausages!"). "Can't wait!" = her excitement—she wants to be home with Dan. Dan @Emma "OK! Love you! You are messaging me a lot today!" = Dan's response—he notices her increased messaging. "You are messaging me a lot today!" = Dan's observation (Emma is texting more than usual). "Breast lol" = Dan's joke (Emma's "abreast" autocorrected to "breast")—Dan's humor. This is the chat's comedy: Emma's "abreast" → "breast" autocorrect.
-**读者视角提示**：Just heading home! = Emma's correction; "You are messaging me a lot today!" = Dan's observation; "Breast lol" = Dan's joke (autocorrect); the chat is the loop's communication channel.
-
 ## 词汇
 
 ### ⭐⭐⭐ 高级
