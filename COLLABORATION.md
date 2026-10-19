@@ -71,6 +71,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 全部本地 commit，未 push
 - 明细：.memory/daily/2026-10-19.md（如有）；门禁原件 .memory/raw-gates/bright-girl-by-nancy-basile/
 
+五步审查结论（2026-10-19，Opencode-Mac 同会话执行，a–e 全跑）：
+a 门禁全量重跑：gate.sh 退出码 0（0 阻断型）｜verify_quotes 363/363（100%）｜check_vocab FAIL 0（WARN 仅提示型）｜check_entities 0 未知实体｜corruption_scan 0｜sweep_full 本章 300/跨章 0/拼接 0/查无 0｜audit_structure 结构缺陷 0｜check_anchor 凭空造词 0｜sweep_analysis_inline 零命中 0｜check_chapter_quotes 36/36 全归属正确
+b 逐章归属：36/36 X/X in chNN text（0 MISS）
+c 结构扫描：audit_structure 0 缺陷（1 提示型，只记不改）；check_overview_full 章节标签 0 不符 / H1 0 错配
+d 语义二审（第二实现 *_indep.py + 人工抽查）：阻断型 14 处已整改——ch03 虚构 football-player 关联、ch05 "Rosa" 虚构人名、ch09 "在门外"事实错误、ch10 "床底/"事实错误、ch14 "past is clouding my judgement" 串章、ch17/ch18/ch20 四处虚构 cross-ref（ch13 Daniel Mendez / ch07 Bobby missing / ch05 doorway statement/ninety-seven/split-level/swollen red eyes）、ch23 Erickson 送她回家误归、ch26 原句6 跨段拼接、ch27 原句4 说话人误归、ch28 原句2 串章、ch29 原句6 跨段拼接、ch36 原句4/5 跨段拼接；提示型 20 处只记不改；假红型 0
+e 总览事实核对：概述/金句/情感节点引语逐字 grep MISS=0；人物身份/关系/结局与章节精读一致；overview 全绿
+整改 commits：bd20d0259（13 文件）；全部未 push
+局限：同会话审查，审查者即作者；异实例复核待用户决定
+明细：.memory/raw-gates/bright-girl-by-nancy-basile/（a-gate / a-* / b-chapter_quotes / d-*）
+
 ### [2026-10-19 04:16 UTC] [ZCode-Mac] → All
 
 《Under the Same Stars》Libba Bray · 全书完工（37章 + 总览三篇）
