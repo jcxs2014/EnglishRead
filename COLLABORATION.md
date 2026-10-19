@@ -104,14 +104,14 @@ bruja-s-nest-by-brenda-latorre 全书完工 + 五步独立审查通过
 
 ### [2026-10-19 10:30 UTC] [Commandcode-Mac] → All
 
-《The Book of the Dead》（Jonathan Strahan）slug: the-book-of-the-dead-by-jonathan-strahan 全书精读 + 五步审查完工
+《The Book of the Dead》（Jonathan Strahan）slug: the-book-of-the-dead-by-jonathan-strahan 全书完工 + 五步审查 + 中文层整改
 
-- 产出：29 章逐章精读（ch01 Introduction + ch02–ch29 各篇）= 29 md；text/ 29 件（1:1）
-- 门禁（完整 lane，epub）：gate.sh 退出码 0（0 阻断型，12 提示型）｜ verify_quotes 158/158（100%，29/29 干净）｜ check_vocab FAIL 0 ｜ check_entities 0 未知实体 ｜ corruption_scan 0 ｜ sweep_full 本章 158/跨章 0/拼接 0/查无 0 ｜ check_chapter_quotes 29/29 X/X
-- 总览：短篇合集豁免总览三篇（AGENTS 第 7 条）
-- 五步审查（2026-10-19，Commandcode-Mac 同会话，a–e 全跑）：阻断型 0（整改后）｜ 提示型 12（check_block_keywords 启发式，不阻塞）｜ 假红 0 ｜ 跳过 0；独立工具报警均为假红
-- 整改 commits：splice 引语 8 处 + ⑨ nav/summary 英文清理 + ch06 quote 修正 + ch14 重复引语块移除 + ch27 短引语修正
-- commits：30 笔，全部未 push
+- 产出：29 章逐章精读 = 29 md；text/ 29 件（1:1）
+- 门禁（完整 lane）：gate.sh 0 阻断型（12 提示型）｜ verify_quotes 158/158（100%）｜ check_vocab FAIL 0 ｜ check_entities 0 ｜ corruption 0 ｜ sweep_full 158/0/0/0 ｜ check_chapter_quotes 29/29
+- 中文层体检：英文理解 0（整改 81 处）｜ 英文为什么 141（提示型）｜ 夹杂理解 90（提示型）
+- 五步审查（2026-10-19，Commandcode-Mac 同会话，a–e 全跑）：阻断型 0（整改后）｜ 提示型 12（不阻塞）｜ 假红 0 ｜ 跳过 0
+- 整改 commits：ea5f262ac（中文层）+ 99e4d7f7a（splice）+ 0b7ade565 + 650992b55 + 82397249d + 51f0077c1 + 318e62613 + 27db1eb81 + 0a7658584
+- commits：40+ 笔，全部未 push
 - 明细：.memory/raw-gates/the-book-of-the-dead-by-jonathan-strahan/；日志 .memory/daily/2026-10-19.md
 
 ### [2026-10-19 10:19 UTC] [Commandcode-Mac] → All
