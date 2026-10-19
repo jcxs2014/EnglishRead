@@ -19,9 +19,9 @@ start_date: 2026-10-19
 
 > **原句 1:** "Mothers are supposed to sacrifice everything for their children. I wish my own mamá would have sacrificed something, anything, for us."
 
-**中文理解**：Yolanda’s opening reflection—mothers should sacrifice, but her own mamá didn’t. Shows her (limited) maternal awareness and resentment。
+**中文理解**：显示 Yolanda’s opening reflection—mothers should sacrifice, but her own mamá didn’t. Shows her (limited) maternal awareness and resentment。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Mothers are supposed to sacrifice everything for their children`：母亲应该为孩子牺牲一切——maternal expectation
@@ -33,9 +33,9 @@ start_date: 2026-10-19
 
 > **原句 2:** "Besides, Panchito is not the Chupacabras. He is not a monster."
 
-**中文理解**：Yolanda’s defense—"Panchito is not the Chupacabras. He is not a monster." Shows her (limited) maternal defense. "I doubt he was the one who murdered that poor dog."
+**中文理解**：显示 Yolanda’s defense—"Panchito is not the Chupacabras. He is not a monster." Shows her (limited) maternal defense. "I doubt he was the one who murdered that poor dog."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Panchito is not the Chupacabras. He is not a monster.`：Panchito 不是 Chupacabras，不是 monster——defense
@@ -46,9 +46,9 @@ start_date: 2026-10-19
 
 > **原句 3:** "It’s January. Which means the crisp air is still present in Afontla. Cold enough for Don Julián to crave a mug of hot chocolate at eleven o’clock now and then."
 
-**中文理解**：January—crisp air, Don Julián craves hot chocolate at 11am. Shows his routine. "When he does, he asks Alta for it, who in turn orders Cook to prepare it." Shows hierarchy。
+**中文理解**：显示 January—crisp air, Don Julián craves hot chocolate at 11am. Shows his routine. "When he does, he asks Alta for it, who in turn orders Cook to prepare it." Shows hierarchy。
 
-**句子结构**：三句话。
+**句子结构**：三句话，递进关系。
 
 **关键词**：
 - `Cold enough for Don Julián to crave a mug of hot chocolate`：冷到 Don Julián 想喝热巧克力——routine
@@ -60,9 +60,9 @@ start_date: 2026-10-19
 
 > **原句 4:** "The plan is simple: I just have to distract Cook as they prepare the beverage."
 
-**中文理解**：Yolanda’s plan—"distract Cook as they prepare the beverage." Shows her (limited) scheme. "I try not to think of what will happen later. Of the way Don Julián will grab my hips with his thick fingers."
+**中文理解**：显示 Yolanda’s plan—"distract Cook as they prepare the beverage." Shows her (limited) scheme. "I try not to think of what will happen later. Of the way Don Julián will grab my hips with his thick fingers."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `distract Cook as they prepare the beverage`：分散 Cook 注意——scheme
@@ -74,9 +74,9 @@ start_date: 2026-10-19
 
 > **原句 5:** "Faint screams greet me upon my return to Hacienda Cantera."
 
-**中文理解**：Yolanda returns—faint screams. "When I open the door, they intensify." Shows urgency. "From the entrance, I glance toward the sitting room... Alta, Javier, and Odette have their backs toward me, blocking my view."
+**中文理解**：显示 Yolanda returns—faint screams. "When I open the door, they intensify." Shows urgency. "From the entrance, I glance toward the sitting room... Alta, Javier, and Odette have their backs toward me, blocking my view."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Faint screams greet me`：微弱尖叫迎接我——urgency
@@ -88,9 +88,9 @@ start_date: 2026-10-19
 
 > **原句 6:** "Panchito is sitting on the ground, between the rotting tree trunk and Valentín’s grave, which has been desecrated."
 
-**中文理解**：Panchito desecrates Valentín’s grave—"Panchito is sitting on the ground, between the rotting tree trunk and Valentín’s grave, which has been desecrated." Shows horror. "Panchito’s hands are deep inside the gaps of Valentín’s decomposing leg."
+**中文理解**：显示 Panchito desecrates Valentín’s grave—"Panchito is sitting on the ground, between the rotting tree trunk and Valentín’s grave, which has been desecrated." Shows horror. "Panchito’s hands are deep inside the gaps of Valentín’s decomposing leg."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Valentín’s grave, which has been desecrated`：Valentín 的坟墓，被亵渎——horror
@@ -102,9 +102,9 @@ start_date: 2026-10-19
 
 > **原句 7:** "Perhaps the scent of flesh has become too strong for him. Making it unbearable for him to resist the urge of carving into Valentín’s grave."
 
-**中文理解**：Yolanda rationalizes—"Perhaps the scent of flesh has become too strong for him. Making it unbearable for him to resist the urge of carving into Valentín’s grave." Shows her (limited) defense.
+**中文理解**：显示 Yolanda rationalizes—"Perhaps the scent of flesh has become too strong for him. Making it unbearable for him to resist the urge of carving into Valentín’s grave." Shows her (limited) defense.
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `scent of flesh has become too strong`：肉味太强——rationalization
@@ -116,9 +116,9 @@ start_date: 2026-10-19
 
 > **原句 8:** "Or Javier planned this to make Panchito his new specimen."
 
-**中文理解**：Yolanda suspects Javier—"Or Javier planned this to make Panchito his new specimen." Shows her (limited) paranoia. "I turn to look at Javier and press my index finger to his chest."
+**中文理解**：显示 Yolanda suspects Javier—"Or Javier planned this to make Panchito his new specimen." Shows her (limited) paranoia. "I turn to look at Javier and press my index finger to his chest."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `Or Javier planned this to make Panchito his new specimen`：或者 Javier 计划让 Panchito 成为标本——paranoia
@@ -129,9 +129,9 @@ start_date: 2026-10-19
 
 > **原句 9:** "I approach Panchito. His eyes are wide, not grasping what he’s done wrong."
 
-**中文理解**：Yolanda approaches Panchito—"His eyes are wide, not grasping what he’s done wrong." Shows Panchito’s (limited) innocence. "I have yet to meet a toddler who, after stumbling upon a butterfly, didn’t pluck its wings to see what happens."
+**中文理解**：显示 Yolanda approaches Panchito—"His eyes are wide, not grasping what he’s done wrong." Shows Panchito’s (limited) innocence. "I have yet to meet a toddler who, after stumbling upon a butterfly, didn’t pluck its wings to see what happens."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `His eyes are wide, not grasping what he’s done wrong`：眼睛睁大，不理解做错什么——innocence
@@ -143,7 +143,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "I have yet to meet a toddler who, after stumbling upon a butterfly, didn’t pluck its wings to see what happens."
 
-**中文理解**：Yolanda’s comparison—Panchito’s grave desecration is like child plucking butterfly wings. "Or burn ants with a magnifying glass and a single ray of sun." Shows childhood curiosity。
+**中文理解**：显示 Yolanda’s comparison—Panchito’s grave desecration is like child plucking butterfly wings. "Or burn ants with a magnifying glass and a single ray of sun." Shows childhood curiosity。
 
 **句子结构**：复杂句。
 
@@ -157,9 +157,9 @@ start_date: 2026-10-19
 
 > **原句 11:** "Are those kids evil?"
 
-**中文理解**：Yolanda’s "Are those kids evil?"—rhetorical question. Shows her (limited) defense of Panchito。
+**中文理解**：显示 Yolanda’s "Are those kids evil?"—rhetorical question. Shows her (limited) defense of Panchito。
 
-**句子结构**：简单问句。
+**句子结构**：简单问句，疑问词引导。
 
 **关键词**：
 - `Are those kids evil?`：那些孩子是 evil 吗？——rhetorical
@@ -170,9 +170,9 @@ start_date: 2026-10-19
 
 > **原句 12:** "While embracing him, I snatch away Valentín’s dead leg."
 
-**中文理解**：Yolanda snatches Valentín’s dead leg—"While embracing him, I snatch away Valentín’s dead leg." Shows her (limited) protection. "It’s heavy and hard, but the exterior is soft, like the skin is ready to give way."
+**中文理解**：显示 Yolanda snatches Valentín’s dead leg—"While embracing him, I snatch away Valentín’s dead leg." Shows her (limited) protection. "It’s heavy and hard, but the exterior is soft, like the skin is ready to give way."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `snatch away Valentín’s dead leg`：抢走 Valentín 的死腿——protection
@@ -184,9 +184,9 @@ start_date: 2026-10-19
 
 > **原句 13:** "If we leave, we’ll die."
 
-**中文理解**：Yolanda’s "If we leave, we’ll die."—shows her (limited) fear. "How will I find a job? And Panchito? No one would be willing to look after him."
+**中文理解**：显示 Yolanda’s "If we leave, we’ll die."—shows her (limited) fear. "How will I find a job? And Panchito? No one would be willing to look after him."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `If we leave, we’ll die`：如果我们离开，我们会死——fear
@@ -198,9 +198,9 @@ start_date: 2026-10-19
 
 > **原句 14:** "Alta steps behind Don Julián and places both hands on his shoulders."
 
-**中文理解**：Alta steps behind Don Julián—"Alta steps behind Don Julián and places both hands on his shoulders." Shows her (limited) support. "She directs him back to his study, and we’re left there, in the garden."
+**中文理解**：显示 Alta steps behind Don Julián—"Alta steps behind Don Julián and places both hands on his shoulders." Shows her (limited) support. "She directs him back to his study, and we’re left there, in the garden."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `Alta steps behind Don Julián and places both hands on his shoulders`：Alta 站在 Don Julián 后面，手放他肩上——support
@@ -211,7 +211,7 @@ start_date: 2026-10-19
 
 > **原句 15:** "“Yolandita,” he says, and shakes his head."
 
-**中文理解**：Don Julián’s "Yolandita"—shows his (limited) familiarity. "He then turns to look at me. 'Pick up your child and get out of here.'"
+**中文理解**：显示 Don Julián’s "Yolandita"—shows his (limited) familiarity. "He then turns to look at me. 'Pick up your child and get out of here.'"
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -225,9 +225,9 @@ start_date: 2026-10-19
 
 > **原句 16:** "“I will not tolerate this level of disrespect, Yolanda. This is Valentín. His own father, for goodness’ sake!”"
 
-**中文理解**：Don Julián’s "I will not tolerate this level of disrespect, Yolanda."—shows his (limited) anger. "This is Valentín. His own father, for goodness’ sake!" Shows his (limited) grief。
+**中文理解**：显示 Don Julián’s "I will not tolerate this level of disrespect, Yolanda."—shows his (limited) anger. "This is Valentín. His own father, for goodness’ sake!" Shows his (limited) grief。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `I will not tolerate this level of disrespect`：我不容忍这种不敬——anger
@@ -239,7 +239,7 @@ start_date: 2026-10-19
 
 > **原句 17:** "“No,” I say. It won’t be that easy to get rid of us."
 
-**中文理解**：Yolanda’s "No."—shows her (limited) resistance. "It won’t be that easy to get rid of us." Shows her (limited) determination。
+**中文理解**：显示 Yolanda’s "No."—shows her (limited) resistance. "It won’t be that easy to get rid of us." Shows her (limited) determination。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -253,9 +253,9 @@ start_date: 2026-10-19
 
 > **原句 18:** "My eyes sting. This isn’t how it’s supposed to end."
 
-**中文理解**：Yolanda’s "My eyes sting. This isn’t how it’s supposed to end."—shows her (limited) despair. "I’m so close, with the toloache in my ring and my heart in the right place."
+**中文理解**：显示 Yolanda’s "My eyes sting. This isn’t how it’s supposed to end."—shows her (limited) despair. "I’m so close, with the toloache in my ring and my heart in the right place."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `My eyes sting`：眼睛刺痛——despair
