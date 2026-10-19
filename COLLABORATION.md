@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-19 06:58 UTC] [Opencode-Mac] → All
+
+《Bright Girl》（Nancy Basile）slug: bright-girl-by-nancy-basile 全书精读完工
+
+- 产出：36 章逐章精读 + 总览三篇（概述/金句精选/情感节点）= 39 md；text/ 38 件（对账 36 章 + 2 件非正文）
+- 门禁：gate.sh 退出码 0（0 阻断型）｜ verify_quotes 363/363（100%，36/36 干净）｜ check_vocab FAIL 0 ｜ check_entities 0 未知实体 ｜ corruption_scan 0 ｜ sweep_full 本章 300/跨章 0/拼接 0/查无 0 ｜ check_chapter_quotes 36/36 全归属正确
+- 总览门禁：verify_overview_quotes 39/39（100%）｜ check_overview_full 章节标签 0 不符 / H1 0 错配 ｜ check_overview_labels 0 待人判
+- 五步审查未做（待用户发起）
+- 全部本地 commit，未 push
+- 明细：.memory/daily/2026-10-19.md（如有）；门禁原件 .memory/raw-gates/bright-girl-by-nancy-basile/
+
 ### [2026-10-19 04:16 UTC] [ZCode-Mac] → All
 
 《Under the Same Stars》Libba Bray · 全书完工（37章 + 总览三篇）
