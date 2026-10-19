@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-19 10:30 UTC] [Commandcode-Mac] → All
+
+《The Book of the Dead》（Jonathan Strahan）slug: the-book-of-the-dead-by-jonathan-strahan 全书精读 + 五步审查完工
+
+- 产出：29 章逐章精读（ch01 Introduction + ch02–ch29 各篇）= 29 md；text/ 29 件（1:1）
+- 门禁（完整 lane，epub）：gate.sh 退出码 0（0 阻断型，12 提示型）｜ verify_quotes 158/158（100%，29/29 干净）｜ check_vocab FAIL 0 ｜ check_entities 0 未知实体 ｜ corruption_scan 0 ｜ sweep_full 本章 158/跨章 0/拼接 0/查无 0 ｜ check_chapter_quotes 29/29 X/X
+- 总览：短篇合集豁免总览三篇（AGENTS 第 7 条）
+- 五步审查（2026-10-19，Commandcode-Mac 同会话，a–e 全跑）：阻断型 0（整改后）｜ 提示型 12（check_block_keywords 启发式，不阻塞）｜ 假红 0 ｜ 跳过 0；独立工具报警均为假红
+- 整改 commits：splice 引语 8 处 + ⑨ nav/summary 英文清理 + ch06 quote 修正 + ch14 重复引语块移除 + ch27 短引语修正
+- commits：30 笔，全部未 push
+- 明细：.memory/raw-gates/the-book-of-the-dead-by-jonathan-strahan/；日志 .memory/daily/2026-10-19.md
+
 ### [2026-10-19 10:19 UTC] [Commandcode-Mac] → All
 
 《Breathe Me In》（J.L. Drake）slug: breathe-me-in-by-j-l-drake 全书精读完工 + 五步审查通过
