@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "I know that you can’t come to us, but I hope that you might find a way, just once. Perhaps in the middle of the night, when the enchanter is sleeping? Can you get away then?"
 
-**中文理解**：Clem 试图在 enchanter 睡眠时让母亲短暂逃离。"Perhaps in the middle of the night, when the enchanter is sleeping?"把母亲的束缚写成需要"机会"才能逃脱。
+**中文理解**：Clem 试图在 enchanter 睡眠时让母亲短暂逃离。把母亲的束缚写成需要才能逃脱。
 
 **句子结构**：主谓宾 + 宾语从句（but I hope that you might find a way, just once）+ 问句（Perhaps in the middle of the night, when the enchanter is sleeping? Can you get away then?）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "I hadn’t looked at them for more than two years, but today I looked at the letters you wrote me before passing into the realm."
 
-**中文理解**：Clem 重新读母亲遗信——"more than two years"的回避，"today"的转变。这是 Clem 的 emotional turning point。
+**中文理解**：Clem 重新读母亲遗信——的回避，的转变。这是 Clem 的 emotional turning point。
 
 **句子结构**：主谓宾 + 时间状语（I hadn't looked at them for more than two years）+ 转折并列（but today I looked at the letters you wrote me before passing into the realm）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "That day, I had decided expressly to visit the handkerchief tree at the public park, and the breeze was perfect, causing the handkerchief blooms to fall, fluttering, to the ground."
 
-**中文理解**：母亲遗信中的 handkerchief tree 场景——"expressly to visit"、"breeze was perfect"、"blooms to fall, fluttering"。这是 Clem 父母的 meet-cute。
+**中文理解**：母亲遗信中的 handkerchief tree 场景——、、。这是 Clem 父母的 meet-cute。
 
 **句子结构**：主谓宾 + 时间状语（That day）+ 不定式（to visit the handkerchief tree）+ 并列分句（and the breeze was perfect, causing...）。"causing"分词短语作结果状语。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "'I believe you may have dropped this, miss,' he said. 'Oh, it is not mine,' I said, playing along but not to be taken in so easily. 'Perhaps it is yours?'"
 
-**中文理解**：父母的 meet-cute 对话——"I believe you may have dropped this"的 flirtatious opening，"Oh, it is not mine"的 playful denial，"Perhaps it is yours?"的 counter。这是 Clem 父母的 romantic beginning。
+**中文理解**：父母的 meet-cute 对话——的 flirtatious opening，的 playful denial，的 counter。这是 Clem 父母的 romantic beginning。
 
 **句子结构**：三个引语连用，形成 dialogue。"playing along but not to be taken in so easily"是母亲的 character note。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "He was so gently humorous that I liked him at once. That is your father in a nutshell. That is how we met."
 
-**中文理解**：母亲对父亲的评价——"gently humorous"、"in a nutshell"。这是 Clem 对父亲的重新认识。
+**中文理解**：母亲对父亲的评价——、。这是 Clem 对父亲的重新认识。
 
 **句子结构**：主系表（He was so gently humorous that I liked him at once）+ 两个并列分句（That is your father in a nutshell. That is how we met.）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "He did chuckle a little at the story, which he said he had not thought of for a long time. It did not cheer him, exactly, but his agony was replaced with something more like melancholy—for a little while, at least."
 
-**中文理解**：父亲听故事的反应——"chuckle a little"、"had not thought of for a long time"、"agony replaced with melancholy"。这是 Clem 父亲的 brief relief。
+**中文理解**：父亲听故事的反应——、、。这是 Clem 父亲的 brief relief。
 
 **句子结构**：主谓宾（He did chuckle a little）+ 定语从句（which he said he had not thought of for a long time）+ 转折并列（It did not cheer him, exactly, but his agony was replaced with something more like melancholy—for a little while, at least）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "If he could only see you before he goes. Please find a way to come to us, just once, so he might be able to leave this world in peace."
 
-**中文理解**：Clem 的 plea——"If he could only see you before he goes"、"Please find a way"、"leave this world in peace"。这是 Clem 对母亲的 desperation。
+**中文理解**：Clem 的 plea——、、。这是 Clem 对母亲的 desperation。
 
 **句子结构**：条件句（If he could only see you before he goes）+ 祈使句（Please find a way to come to us, just once）+ 目的从句（so he might be able to leave this world in peace）。
 

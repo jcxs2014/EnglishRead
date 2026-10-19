@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "I knew that they would act against me somehow, but I hadn't imagined it would be like this. I am called to court. Commonwealth accuses me of fraud."
 
-**中文理解**：Clem 的 opening——"I hadn't imagined it would be like this"、"Commonwealth accuses me of fraud"。Clem 的 shock。
+**中文理解**：Clem 的 opening——、。Clem 的 shock。
 
 **句子结构**：主谓宾（I knew that they would act against me somehow）+ 转折（but I hadn't imagined it would be like this）+ 主谓宾（I am called to court）+ 主谓宾（Commonwealth accuses me of fraud）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "And to pour salt in the wound, the Trenches came today—Norbert and Simeon."
 
-**中文理解**：Clem 的 frustration——"pour salt in the wound"、"the Trenches came today"。Clem 的 bad timing。
+**中文理解**：Clem 的 frustration——、。Clem 的 bad timing。
 
 **句子结构**：主谓宾（And to pour salt in the wound, the Trenches came today—Norbert and Simeon）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "I could feel Rosetta's tokens straining with Simeon's presence. I hadn't known this about tokens. I've never read it; I've never heard of it. Could it be that I am peculiar, and it only happens to me?"
 
-**中文理解**：Clem 的 discovery——"Rosetta's tokens straining with Simeon's presence"、"I hadn't known this about tokens"。Clem's new knowledge。
+**中文理解**：Clem 的 discovery——、。Clem's new knowledge。
 
 **句子结构**：主谓宾（I could feel Rosetta's tokens straining with Simeon's presence）+ 主谓宾（I hadn't known this about tokens）+ 主谓宾（I've never read it; I've never heard of it）+ 疑问句（Could it be that I am peculiar, and it only happens to me?）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "He is a devil. I never told you of the time he locked me in the conservatory on a visit to Clover Hall."
 
-**中文理解**：Clem's accusation——"He is a devil"、"I never told you of the time he locked me in the conservatory"。Clem's backstory of Simeon's cruelty。
+**中文理解**：Clem 的指控——、。Clem 关于 Simeon 残忍的往事。
 
 **句子结构**：主系表（He is a devil）+ 主谓宾（I never told you of the time he locked me in the conservatory on a visit to Clover Hall）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "And then I had the strangest idea; I thought, in that confused way of a child, that I would bring her back to life. I could picture her, pulled from the pond by the strength of my will, eyes opened, alive once more."
 
-**中文理解**：Clem's childlike delusion——"I thought... that I would bring her back to life"、"I could picture her, pulled from the pond by the strength of my will, eyes opened, alive once more"。这是 Clem's childhood trauma。
+**中文理解**：Clem's childlike delusion——、。这是 Clem's childhood trauma。
 
 **句子结构**：主谓宾（And then I had the strangest idea）+ 主谓宾（I thought, in that confused way of a child, that I would bring her back to life）+ 主谓宾（I could picture her, pulled from the pond by the strength of my will, eyes opened, alive once more）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "I was so fervent in my anguish and delusion that I convinced myself it was true. And then I saw her, through the glass of the conservatory, running along the lawn back toward you and Father and the Trenches."
 
-**中文理解**：Clem's delusion——"I was so fervent in my anguish and delusion that I convinced myself it was true"、"I saw her... running along the lawn back toward you and Father and the Trenches"。这是 Clem's childhood trauma 的 resolution。
+**中文理解**：Clem's delusion——、。这是 Clem's childhood trauma 的 resolution。
 
 **句子结构**：主系表（I was so fervent in my anguish and delusion that I convinced myself it was true）+ 主谓宾（And then I saw her, through the glass of the conservatory, running along the lawn back toward you and Father and the Trenches）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "It took me some years to realize that it was only Simeon and Mariah's cruelty, and that they had never pushed her into the pond but only said so to torment me. I was their victim, not Rosie."
 
-**中文理解**：Clem's realization——"It took me some years to realize that it was only Simeon and Mariah's cruelty"、"I was their victim, not Rosie"。这是 Clem's trauma resolution。
+**中文理解**：Clem's realization——、。这是 Clem's trauma resolution。
 
 **句子结构**：主谓宾（It took me some years to realize that it was only Simeon and Mariah's cruelty）+ 主谓宾（and that they had never pushed her into the pond but only said so to torment me）+ 主系表（I was their victim, not Rosie）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "There is one bit of good news. I've found a way to search for the lead case. It is due to an unexpected generosity, or perhaps it is one kindness in return for another."
 
-**中文理解**：Clem's "one bit of good news"——"I've found a way to search for the lead case"、"unexpected generosity"、"one kindness in return for another"。这是 Vera's role。
+**中文理解**：Clem's ——、、。这是 Vera's role。
 
 **句子结构**：主系表（There is one bit of good news）+ 主谓宾（I've found a way to search for the lead case）+ 主系表（It is due to an unexpected generosity, or perhaps it is one kindness in return for another）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "If I am found liable for fraud, so be it. We will at least have you back."
 
-**中文理解**：Clem 的 resolution——"If I am found liable for fraud, so be it"、"We will at least have you back"。Clem 的 determination。
+**中文理解**：Clem 的 resolution——、。Clem 的 determination。
 
 **句子结构**：条件句（If I am found liable for fraud, so be it）+ 主谓宾（We will at least have you back）。
 

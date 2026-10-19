@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "I saw the stones before she did. I had not imagined that they would return again so soon, but there they were: pursuing her quite openly, their clattering inaudible in the falling rain."
 
-**中文理解**：Sam 的 opening——"I saw the stones before she did"、"pursuing her quite openly, their clattering inaudible in the falling rain"。Sam's foresight。
+**中文理解**：Sam 的 opening——、。Sam's foresight。
 
 **句子结构**：主谓宾（I saw the stones before she did）+ 主谓宾（I had not imagined that they would return again so soon）+ 主谓宾（but there they were: pursuing her quite openly, their clattering inaudible in the falling rain）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "Morder," Clem shouted over the pelting rain. The trap leaped away from her, the broken splints of wood flapping madly like long, sharp teeth. It lunged at the stones and snapped them up hungrily."
 
-**中文理解**：Clem 的 response——"Morder"、"The trap leaped away from her, the broken splints of wood flapping madly like long, sharp teeth"、"It lunged at the stones and snapped them up hungrily"。这是 Clem's enchantment。
+**中文理解**：Clem 的 response——、、。这是 Clem's enchantment。
 
 **句子结构**：引语（Morder）+ 主谓宾（The trap leaped away from her, the broken splints of wood flapping madly like long, sharp teeth）+ 主谓宾（It lunged at the stones and snapped them up hungrily）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "I am not sure what emotion I conveyed to Clem with my agitation, but it must have been arresting, because she stood still in the pouring rain, staring into the distance. 'I understand,' she said quietly. She clenched her fists for a moment. 'I wish you were here, too. Truly.'"
 
-**中文理解**：Clem 与 Sam 的 communication——"I wish you were here, too. Truly"。Clem's longing for Sam's presence。
+**中文理解**：Clem 与 Sam 的 communication——。Clem's longing for Sam's presence。
 
 **句子结构**：主谓宾（I am not sure what emotion I conveyed to Clem with my agitation）+ 主系表（but it must have been arresting, because she stood still in the pouring rain, staring into the distance）+ 引语（I understand）+ 主谓宾（She clenched her fists for a moment）+ 引语（I wish you were here, too. Truly）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "It was Father."
 
-**中文理解**：Rosie 的 apparition——"I could have sworn I saw him. It was Father"、"something told me to wait"、"It must have been someone very like him. We know Father is gone"。Rosie's experience of spirit communication。
+**中文理解**：Rosie 的 apparition——、、。Rosie's experience of spirit communication。
 
 **句子结构**：引语（I could have sworn I saw him. It was Father. I'm sure of it）+ 引语（But when I came down, something told me to wait）+ 引语（It must have been someone very like him. We know Father is gone）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "'Often when I'm feeling a little sad, I'll suddenly feel comforted, and it's just like when Father would put his arms around me and say, 'Tranquila, pequeña.' Her voice was wistful."
 
-**中文理解**：Rosie 的 spirit communication——"Often when I'm feeling a little sad, I'll suddenly feel comforted, and it's just like when Father would put his arms around me and say, 'Tranquila, pequeña'"。Rosie's experience of Lydia's spirit。
+**中文理解**：Rosie 的 spirit communication——。Rosie's experience of Lydia's spirit。
 
 **句子结构**：引语（Often when I'm feeling a little sad, I'll suddenly feel comforted, and it's just like when Father would put his arms around me and say, 'Tranquila, pequeña'）+ 主谓宾（Her voice was wistful）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "I did not trust that creature of bone. Not at all."
 
-**中文理解**：Sam's assessment——"I did not trust that creature of bone. Not at all"。Sam's distrust。
+**中文理解**：Sam 的评估——他不信任那个骨制生物。
 
 **句子结构**：主谓宾（I did not trust that creature of bone）+ 语气词（Not at all）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "It was a clever spell, combining in a single word the acts of assembling and arming, but nothing happened. She moved the bone to the right sabaton and tried again. 'Armar.' Once again, the armor lay unmoved."
 
-**中文理解**：Clem's failed attempt——"Armar"、"nothing happened"、"the armor lay unmoved"。Clem's initial failure。
+**中文理解**：Clem 的失败尝试——"Armar"咒语起初无效，骨被移来移去。
 
 **句子结构**：主系表（It was a clever spell, combining in a single word the acts of assembling and arming）+ 转折（but nothing happened）+ 主谓宾（She moved the bone to the right sabaton and tried again）+ 引语（Armar）+ 主谓宾（Once again, the armor lay unmoved）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "Reluctantly, I withdrew my opposition. Trapped in the realm, who was I to forbid her the few tools she had for defense? There was nothing I could do for her. Nothing."
 
-**中文理解**：Sam's resignation——"Reluctantly, I withdrew my opposition"、"Trapped in the realm, who was I to forbid her the few tools she had for defense?"、"There was nothing I could do for her. Nothing"。Sam's helplessness。
+**中文理解**：Sam 的让步——他撤回反对，因为被困在 realm，无权禁止她使用防御工具。
 
 **句子结构**：副词（Reluctantly）+ 主谓宾（I withdrew my opposition）+ 疑问句（Trapped in the realm, who was I to forbid her the few tools she had for defense?）+ 主谓宾（There was nothing I could do for her. Nothing）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "For a moment, the gauntlet lay still. Then, very slowly, as if the figure within were still sleeping and only just beginning to stir, the fingers of the gauntlet closed and opened. The gauntlet moved in unison with the vambrace, which bent experimentally at the elbow. Now the other gauntlet began to move, the fingers flexing. The sabatons followed, and the greaves, looking for all the world as though some invisible being inside the armor had begun to stretch its feet and legs, shoulders and arms, hips and back. Piece by piece, waking slowly, the suit pulled itself together, the helmet joining last of all. Then the creature sat up and lifted itself from the bed."
 
-**中文理解**：bone creature's animation——"the fingers of the gauntlet closed and opened"、"Piece by piece, waking slowly, the suit pulled itself together, the helmet joining last of all"、"Then the creature sat up and lifted itself from the bed"。这是 bone creature's creation。
+**中文理解**：bone creature's animation——、、。这是 bone creature's creation。
 
 **句子结构**：时间状语（For a moment, the gauntlet lay still）+ 时间状语从句（Then, very slowly, as if the figure within were still sleeping and only just beginning to stir, the fingers of the gauntlet closed and opened）+ 主谓宾（The gauntlet moved in unison with the vambrace, which bent experimentally at the elbow）+ 主谓宾（Now the other gauntlet began to move, the fingers flexing）+ 主谓宾（The sabatons followed, and the greaves, looking for all the world as though some invisible being inside the armor had begun to stretch its feet and legs, shoulders and arms, hips and back）+ 主谓宾（Piece by piece, waking slowly, the suit pulled itself together, the helmet joining last of all）+ 主谓宾（Then the creature sat up and lifted itself from the bed）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "'Good,' she said quietly. 'You have one task, and one task only. Cuidar,' she whispered. The suit of armor bowed smoothly, making no noise."
 
-**中文理解**：Clem's command——"You have one task, and one task only. Cuidar"、"The suit of armor bowed smoothly, making no noise"。这是 bone creature's purpose。
+**中文理解**：Clem's command——、。这是 bone creature's purpose。
 
 **句子结构**：引语（Good）+ 说话标签（she said quietly）+ 引语（You have one task, and one task only. Cuidar）+ 主谓宾（The suit of armor bowed smoothly, making no noise）。
 

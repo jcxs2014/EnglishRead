@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "It is true that being confined to the realm of the dead presented a significant obstacle to the pursuit of my murderer."
 
-**中文理解**：Sam 的开场——being confined to dead realm 是 obstacle，但 "significant" 不是 "insurmountable"。Sam 的 determination。
+**中文理解**：Sam 的开场——being confined to dead realm 是 obstacle，但 不是 。Sam 的 determination。
 
 **句子结构**：主系表（It is true that...）+ 主谓宾（being confined... presented a significant obstacle）+ 介词短语（to the pursuit of my murderer）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "During the summer, I'd recruited an assistant. His name was Constable Roy Maxwell."
 
-**中文理解**：Sam 的 "recruited an assistant"——Maxwell。简短而直接，把 Sam 的 ally 具象化。
+**中文理解**：Sam 的 ——Maxwell。简短而直接，把 Sam 的 ally 具象化。
 
 **句子结构**：时间状语（During the summer）+ 主谓宾（I'd recruited an assistant）+ 主系表（His name was Constable Roy Maxwell）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "Maxwell ignored the heat. Though he was sweating through his shirt, he wore his coat buttoned."
 
-**中文理解**：Maxwell 的 character——"ignored the heat"、"wore his coat buttoned"。这是 Maxwell 的 disciplined character。
+**中文理解**：Maxwell 的 character——、。这是 Maxwell 的 disciplined character。
 
 **句子结构**：主谓宾（Maxwell ignored the heat）+ 让步状语从句（Though he was sweating through his shirt）+ 主谓宾（he wore his coat buttoned）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "I could imagine what would come next. Maxwell would be insistent in his questioning; the men would be reckless in their self-defense. It would not end well."
 
-**中文理解**：Sam 的 foresight——"I could imagine what would come next"、"It would not end well"。Sam 通过 thew 视角预判 danger。
+**中文理解**：Sam 的 foresight——、。Sam 通过 thew 视角预判 danger。
 
 **句子结构**：主谓宾（I could imagine what would come next）+ 并列分句（Maxwell would be insistent...; the men would be reckless...）+ 主谓宾（It would not end well）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "'I'm listening,' he said quietly."
 
-**中文理解**：Maxwell 的 response——"I'm listening"。简短而 surprising，把 Maxwell 的 openness to spirit 具象化。
+**中文理解**：Maxwell 的 response——。简短而 surprising，把 Maxwell 的 openness to spirit 具象化。
 
 **句子结构**：引语 + 说话标签（he said quietly）。极简。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "Are you Mrs. Baines?" / "No—her mother's passed away."
 
-**中文理解**：Beth Baines 的 death 揭示——"her mother's passed away"。Maxwell 的 investigation 把 Beth 的 story 具象化。
+**中文理解**：Beth Baines 的 death 揭示——。Maxwell 的 investigation 把 Beth 的 story 具象化。
 
 **句子结构**：问句（Are you Mrs. Baines?）+ 回答（No—her mother's passed away）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "Maxwell nodded gently at the locket. 'I see. I'm very sorry. I have bad news for you about Beth.'"
 
-**中文理解**：Maxwell 的 delivery of bad news——"I'm very sorry"、"I have bad news for you about Beth"。Maxwell 的 empathy 具象化。
+**中文理解**：Maxwell 的 delivery of bad news——、。Maxwell 的 empathy 具象化。
 
 **句子结构**：主谓宾（Maxwell nodded gently）+ 引语（I see. I'm very sorry. I have bad news for you about Beth.）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "He shook his head, dismayed. 'Many more?'"
 
-**中文理解**：Maxwell 对 moth fairy 的反应——"Many more?"的 dismay。Maxwell 的 moral outrage 具象化。
+**中文理解**：Maxwell 对 moth fairy 的反应——的 dismay。Maxwell 的 moral outrage 具象化。
 
 **句子结构**：主谓宾（He shook his head, dismayed）+ 引语（Many more?）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "'Thank you,' he said quietly. 'You were right to bring me.' He took his truncheon out from the inner pocket of his coat and made a circle in the air. The brown oak leaves all around her drifted upward, swirling gently, until they made a loose, protective wall around the fallen fairy."
 
-**中文理解**：Maxwell 的 gratitude 与 protection——"Thank you"、"You were right to bring me"、"made a circle in the air"、"protective wall"。Maxwell 的 empathy 与 action。
+**中文理解**：Maxwell 的 gratitude 与 protection——、、、。Maxwell 的 empathy 与 action。
 
 **句子结构**：引语（Thank you... You were right to bring me）+ 主谓宾（He took his truncheon... and made a circle in the air）+ 主谓宾（The brown oak leaves... drifted upward, swirling gently, until they made a loose, protective wall...）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "We had taken a step together: a perilous step. From that moment on, my connection with Maxwell would not be the same."
 
-**中文理解**：Sam 的 conclusion——"We had taken a step together: a perilous step"、"my connection with Maxwell would not be the same"。这是 Sam 与 Maxwell 的 partnership turning point。
+**中文理解**：Sam 的 conclusion——、。这是 Sam 与 Maxwell 的 partnership turning point。
 
 **句子结构**：主谓宾（We had taken a step together）+ 同位语（a perilous step）+ 主谓宾（my connection with Maxwell would not be the same）。
 

@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "The message on Clementine's arms had left me no choice. More urgent action was needed."
 
-**中文理解**：Sam 的 opening——"The message on Clementine's arms had left me no choice"、"More urgent action was needed"。Sam's determination。
+**中文理解**：Sam 的 opening——、。Sam's determination。
 
 **句子结构**：主谓宾（The message on Clementine's arms had left me no choice）+ 主系表（More urgent action was needed）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "I considered him, attempting to see him as Clementine would, a stranger on her doorstep. He had an air of brooding melancholy about him."
 
-**中文理解**：Sam 对 Maxwell 的 observation——"an air of brooding melancholy about him"。Sam's perspective of Maxwell。
+**中文理解**：Sam 对 Maxwell 的 observation——。Sam's perspective of Maxwell。
 
 **句子结构**：主谓宾（I considered him, attempting to see him as Clementine would, a stranger on her doorstep）+ 主谓宾（He had an air of brooding melancholy about him）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "'I am Constable Maxwell, of the Salem City Marshal's Office. I investigate criminal enchantment.'"
 
-**中文理解**：Maxwell 的 introduction——"I am Constable Maxwell, of the Salem City Marshal's Office. I investigate criminal enchantment"。Maxwell's identity。
+**中文理解**：Maxwell 的 introduction——。Maxwell's identity。
 
 **句子结构**：引语（I am Constable Maxwell, of the Salem City Marshal's Office）+ 引语（I investigate criminal enchantment）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "'I've no doubt that the enchanter meant her serious harm. Had the judge's thew not intervened, Clementine would have been badly hurt.' / 'It was only paper,' Clem said quietly."
 
-**中文理解**：Rosie 与 Clem 的 contrasting responses——Rosie's "I've no doubt..."、Clem's "It was only paper"。Clem's downplaying。
+**中文理解**：Rosie 与 Clem 的 contrasting responses——Rosie's 、Clem's 。Clem's downplaying。
 
 **句子结构**：引语（I've no doubt that the enchanter meant her serious harm. Had the judge's thew not intervened, Clementine would have been badly hurt）+ 引语（It was only paper）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "I was incensed! I wanted to shake her. Since I couldn't, I sent her a burst of furious indignation, which she responded to by frowning. It was the most outrageous lie by omission!"
 
-**中文理解**：Sam's reaction——"I was incensed!"、"I wanted to shake her"、"It was the most outrageous lie by omission!"。Sam's frustration。
+**中文理解**：Sam 的愤怒——"I was incensed! I wanted to shake her. Since I couldn't, I sent her a burst of furious indignation"。Sam 的愤怒。
 
 **句子结构**：主系表（I was incensed!）+ 主谓宾（I wanted to shake her）+ 主谓宾（Since I couldn't, I sent her a burst of furious indignation, which she responded to by frowning）+ 主系表（It was the most outrageous lie by omission!）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "'I'm investigating a series of cases,' he said with a newly pensive tone. 'There have been five such crimes already this year, all of them against young women. All of them fatal,' he added quietly."
 
-**中文理解**：Maxwell's revelation——"I'm investigating a series of cases"、"five such crimes already this year, all of them against young women. All of them fatal"。Maxwell's investigation。
+**中文理解**：Maxwell 的揭露——"I'm investigating a series of cases"、"There have been five such crimes already this year, all of them against young women. All of them fatal"。Maxwell 的调查。
 
 **句子结构**：引语（I'm investigating a series of cases）+ 引语（There have been five such crimes already this year, all of them against young women. All of them fatal）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "'The cases I'm investigating are stoning deaths, Miss Quinn. Perhaps you have read about them—there have been one or two newspaper accounts.'"
 
-**中文理解**：Maxwell's revelation——"The cases I'm investigating are stoning deaths"、"Perhaps you have read about them"。Maxwell's investigation。
+**中文理解**：Maxwell 的揭露——"The cases I'm investigating are stoning deaths, Miss Quinn. Perhaps you have read about them"。Maxwell 的调查。
 
 **句子结构**：引语（The cases I'm investigating are stoning deaths, Miss Quinn）+ 引语（Perhaps you have read about them—there have been one or two newspaper accounts）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "'In some cases, yes. There's one account that particularly disturbs me. A witness who knew the victim saw her in the company of her mother; she was following her into the woods near their home.' Maxwell paused. 'The mother has been dead more than a year.'"
 
-**中文理解**：Maxwell's revelation——"A witness who knew the victim saw her in the company of her mother; she was following her into the woods near their home"、"The mother has been dead more than a year"。Maxwell's investigation。
+**中文理解**：Maxwell 的揭露——"In some cases, yes. There's one account that particularly disturbs me. A witness who knew the victim saw her in the company of her mother; she was following her into the woods near their home"。Maxwell 的调查。
 
 **句子结构**：引语（In some cases, yes. There's one account that particularly disturbs me. A witness who knew the victim saw her in the company of her mother; she was following her into the woods near their home）+ 主谓宾（Maxwell paused）+ 引语（The mother has been dead more than a year）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "They make deliberate markings."
 
-**中文理解**：Maxwell's revelation——"the bruises are not arbitrary. They make deliberate markings"、"Writing. The bruises write letters upon them"。Maxwell's investigation。
+**中文理解**：Maxwell 的揭露——"They make deliberate markings"。Maxwell 的调查。
 
 **句子结构**：引语（I've no doubt that it is）+ 主谓宾（Maxwell agreed）+ 引语（Because the bruises are not arbitrary. They make deliberate markings）+ 引语（Writing. The bruises write letters upon them. I've not yet been able to understand what they mean. They are incomplete words, or initials, perhaps）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "'My mother was killed by an enchanter six years ago. No one in the police force could be persuaded that her death merited any attention. She was deemed a suicide, contemptible and pathetic. She was left to her fate, and we were left utterly without recourse. So I'll heed your words, and I'll take precautions, but it's unlikely that you'll have my trust.'"
 
-**中文理解**：Clem's revelation——"My mother was killed by an enchanter six years ago"、"She was deemed a suicide, contemptible and pathetic"、"we were left utterly without recourse"。Clem's backstory。
+**中文理解**：Clem 的揭露——"My mother was killed by an enchanter six years ago. No one in the police force could be persuaded that her death merited any attention. She was deemed a suicide, contemptible and pathetic. She was left to her fate, and we were left utterly without recourse"。Clem 的往事。
 
 **句子结构**：引语（My mother was killed by an enchanter six years ago）+ 引语（No one in the police force could be persuaded that her death merited any attention）+ 引语（She was deemed a suicide, contemptible and pathetic）+ 引语（She was left to her fate, and we were left utterly without recourse）+ 引语（So I'll heed your words, and I'll take precautions, but it's unlikely that you'll have my trust）。
 

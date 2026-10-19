@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "It had been four months and eleven days since my death, and I was here to watch my murderer attend a party. Where was he?"
 
-**中文理解**：Sam 的第一人称叙述——他死已四个月十一日，此行目的是看 murderer 参加聚会。"Where was he?"把悬念抛给读者。
+**中文理解**：Sam 的第一人称叙述——他死已四个月十一日，此行目的是看 murderer 参加聚会。把悬念抛给读者。
 
 **句子结构**：主谓宾 + 时间状语（It had been four months and eleven days since my death）+ 并列分句（and I was here to watch my murderer attend a party）+ 疑问句（Where was he?）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "I left them, for my point of interest lay elsewhere. I had still not found him."
 
-**中文理解**：Sam 离开年轻 Cygnets，因为他的兴趣点在别处——他还没找到 murderer。"my point of interest"把 Sam 的目的与聚会的社交功能并置。
+**中文理解**：Sam 离开年轻 Cygnets，因为他的兴趣点在别处——他还没找到 murderer。把 Sam 的目的与聚会的社交功能并置。
 
 **句子结构**：主谓宾 + 原因状语从句（for my point of interest lay elsewhere）+ 并列分句（I had still not found him）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "The ballroom was lit by chandeliers, their candle smoke casting a dusk over the room."
 
-**中文理解**：舞厅由枝形吊灯照明，烛烟在房间上空投下暮色。"casting a dusk"把烛烟写成暮色的制造者，与 prologue 的" dusky evenings"呼应。
+**中文理解**：舞厅由枝形吊灯照明，烛烟在房间上空投下暮色。把烛烟写成暮色的制造者，与 prologue 的呼应。
 
 **句子结构**：主系表（The ballroom was lit by chandeliers）+ 伴随分词短语（their candle smoke casting a dusk over the room）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "I saw one man, at least, who wasn't pushing his way urgently toward the moths but was, instead, lounging comfortably by the double doors of the ballroom. Simeon was smiling, watching the transformations with an air of easy languor."
 
-**中文理解**：Sam 观察到 Simeon 不急于挤向蛾，而是舒服地靠在门边，微笑观看变身，带着轻松的倦怠。Sam 看穿 Simeon 的"indifference"是伪装。
+**中文理解**：Sam 观察到 Simeon 不急于挤向蛾，而是舒服地靠在门边，微笑观看变身，带着轻松的倦怠。Sam 看穿 Simeon 的是伪装。
 
 **句子结构**：主谓宾 + 定语从句（who wasn't pushing... but was, instead, lounging...）+ 并列分句（Simeon was smiling, watching... with an air of easy languor）。
 

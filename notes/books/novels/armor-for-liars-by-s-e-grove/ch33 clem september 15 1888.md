@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "Thank you for the armor. I have made our defender, just as you advised. I didn't feel any terrible sensations as a result of using bone; I felt perfectly myself, and I am not afraid."
 
-**中文理解**：Clem 的 report——"Thank you for the armor"、"I have made our defender, just as you advised"、"I didn't feel any terrible sensations as a result of using bone; I felt perfectly myself, and I am not afraid"。Clem's confidence in bone armor。
+**中文理解**：Clem 的 report——、、。Clem's confidence in bone armor。
 
 **句子结构**：主谓宾（Thank you for the armor）+ 主谓宾（I have made our defender, just as you advised）+ 主系表（I didn't feel any terrible sensations as a result of using bone; I felt perfectly myself, and I am not afraid）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "He is very fine, I must say. And not a moment too soon, for the streets are no longer safe."
 
-**中文理解**：Clem 的 assessment——"He is very fine"、"And not a moment too soon, for the streets are no longer safe"。Clem's urgency。
+**中文理解**：Clem 的 assessment——、。Clem's urgency。
 
 **句子结构**：主系表（He is very fine, I must say）+ 主系表（And not a moment too soon, for the streets are no longer safe）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "I believe there's no other choice, for—as you know—Vera has still not found the case. We are out of time."
 
-**中文理解**：Clem 的 analysis——"I believe there's no other choice"、"Vera has still not found the case"、"We are out of time"。Clem's urgency。
+**中文理解**：Clem 的 analysis——、、。Clem's urgency。
 
 **句子结构**：主谓宾（I believe there's no other choice）+ 原因状语从句（for—as you know—Vera has still not found the case）+ 主系表（We are out of time）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "However much I may trust in my own abilities, I'm not a fool. I know when I can no longer succeed alone, and I know the wisdom of trusting an ally. It will be better to have aid."
 
-**中文理解**：Clem 的 self-awareness——"However much I may trust in my own abilities, I'm not a fool"、"I know when I can no longer succeed alone"、"I know the wisdom of trusting an ally"。Clem's maturity。
+**中文理解**：Clem 的 self-awareness——、、。Clem's maturity。
 
 **句子结构**：让步状语从句（However much I may trust in my own abilities）+ 主系表（I'm not a fool）+ 主谓宾（I know when I can no longer succeed alone）+ 主谓宾（and I know the wisdom of trusting an ally）+ 主系表（It will be better to have aid）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "It will be worth it, Mother. You'll see."
 
-**中文理解**：Clem 的 promise——"It will be worth it, Mother. You'll see"。简短而 decisive，把 Clem's confidence 具象化。
+**中文理解**：Clem 的 promise——。简短而 decisive，把 Clem's confidence 具象化。
 
 **句子结构**：主系表（It will be worth it, Mother）+ 主谓宾（You'll see）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "Today we must visit the Trenches. This is our last hurdle. If we can get through the visit with Simeon and Uncle Norbert, I hope everything else will fall into place."
 
-**中文理解**：Clem 的 plan——"Today we must visit the Trenches"、"This is our last hurdle"、"If we can get through the visit with Simeon and Uncle Norbert, I hope everything else will fall into place"。
+**中文理解**：Clem 的 plan——、、。
 
 **句子结构**：主谓宾（Today we must visit the Trenches）+ 主系表（This is our last hurdle）+ 条件句（If we can get through the visit with Simeon and Uncle Norbert, I hope everything else will fall into place）。
 

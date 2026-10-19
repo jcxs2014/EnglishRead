@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "It is difficult, when your life has been abruptly cut short by a detestable scoundrel, to ignore that scoundrel and pretend you are at peace."
 
-**中文理解**：Sam 的 opening——被"detestable scoundrel" abruptly cut short life 后，难以 ignore 他并 pretends peace。Sam 的愤怒与执念。
+**中文理解**：Sam 的 opening——被 abruptly cut short life 后，难以 ignore 他并 pretends peace。Sam 的愤怒与执念。
 
 **句子结构**：主系表 + when 引导的时间状语从句 + 不定式（to ignore that scoundrel and pretend you are at peace）。长难句，主语 "It" 作形式主语。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "Have you noticed that sometimes, the more detestable the man, the more popular he is? So it was with Simeon."
 
-**中文理解**：Sam 的观察——越 detestable 的人越 popular。"So it was with Simeon"把 Simeon 定为这类人。
+**中文理解**：Sam 的观察——越 detestable 的人越 popular。把 Simeon 定为这类人。
 
 **句子结构**：问句（Have you noticed that...）+ the more... the more... 比较结构 + 结论分句（So it was with Simeon）。
 
@@ -81,7 +81,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "Quinn seemed not to notice. 'Dear me!' he exclaimed, surprised. 'That's very odd. I've never had that happen.'"
 
-**中文理解**：Clem 对 enchantment 失误的反应——"Dear me!"的惊愕与 "I've never had that happen"的无辜。Clem 的 naive 与 Simeon 的 fury 形成对比。
+**中文理解**：Clem 对 enchantment 失误的反应——的惊愕与 的无辜。Clem 的 naive 与 Simeon 的 fury 形成对比。
 
 **句子结构**：主谓宾 + 引语 + 引语。Clem 的 innocent 反应。
 
@@ -93,7 +93,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "Simeon did not laugh, but raised his eyes to Quinn's face, and the look he gave him was, for just a second, murderous."
 
-**中文理解**：Simeon 的 murderous look——"for just a second"把 Simeon 的真实面目短暂暴露。这是 Simeon 作为 antagonist 的关键瞬间。
+**中文理解**：Simeon 的 murderous look——把 Simeon 的真实面目短暂暴露。这是 Simeon 作为 antagonist 的关键瞬间。
 
 **句子结构**：主谓宾 + 并列分句（but raised his eyes... and the look... was, for just a second, murderous）。"for just a second"强调短暂性。
 
@@ -105,7 +105,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "Who was he, this poor fool? It was like watching a small child wander off into a dark forest, unaware of the gathering dusk, the deepening cold, the distant howls of wolves."
 
-**中文理解**：Sam 对 Clem 的担忧——"poor fool"与 "small child wander off into a dark forest"的比喻。Sam 的 thew 视角把 Clem 的 naive 写成危险。
+**中文理解**：Sam 对 Clem 的担忧——与 的比喻。Sam 的 thew 视角把 Clem 的 naive 写成危险。
 
 **句子结构**：疑问句（Who was he, this poor fool?）+ 比喻（It was like watching a small child wander off...）+ 三个并列名词短语（the gathering dusk, the deepening cold, the distant howls of wolves）。
 
@@ -117,7 +117,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "But my concerns were misplaced. Clem was already in far greater danger than I realized."
 
-**中文理解**：章节结尾——Sam 的担忧 "misplaced"，Clem 的 danger "far greater than I realized"。这是 cliffhanger，暗示 Clem 的真实处境。
+**中文理解**：章节结尾——Sam 的担忧 ，Clem 的 danger 。这是 cliffhanger，暗示 Clem 的真实处境。
 
 **句子结构**：转折并列（But my concerns were misplaced）+ 主谓宾（Clem was already in far greater danger than I realized）。
 

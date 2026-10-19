@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "The first thing I did when I arrived was to walk by your window, and I did see you there, I think, but it was hard to tell."
 
-**中文理解**：Clem 抵达后先看母亲窗口——"I did see you there, I think, but it was hard to tell"。Clem 的 uncertain observation 把母亲的囚禁具象化。
+**中文理解**：Clem 抵达后先看母亲窗口——。Clem 的 uncertain observation 把母亲的囚禁具象化。
 
 **句子结构**：主谓宾 + 时间状语（The first thing I did when I arrived）+ 并列分句（and I did see you there, I think, but it was hard to tell）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "In the past it has always been nighttime when I arrive to leave a letter, and I had not noticed then how very dirty the window is, and how the others are practically barricaded with objects from the inside."
 
-**中文理解**：Clem 发现窗口"very dirty"、"barricaded with objects from the inside"。母亲的囚禁环境比 Clem 想象的 worse。
+**中文理解**：Clem 发现窗口、。母亲的囚禁环境比 Clem 想象的 worse。
 
 **句子结构**：主系表（In the past it has always been nighttime when I arrive...）+ 并列分句（and I had not noticed then how very dirty the window is, and how the others are practically barricaded...）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "What manner of room is it? Is it that he keeps you in a storeroom of some kind, surrounded by crates and boxes?"
 
-**中文理解**：Clem 的追问——"What manner of room is it?"、"storeroom"、"crates and boxes"。把母亲的囚禁写成 physical confinement。
+**中文理解**：Clem 的追问——、、。把母亲的囚禁写成 physical confinement。
 
 **句子结构**：两个问句连用，形成 rhetorical accumulation。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "I have heeded your warning about the Commonwealth students. And yet…they are mere children, Mother. Malicious children, yes, but so terribly young in their abilities and aspirations."
 
-**中文理解**：Clem 对母亲 warning 的回应——"mere children"、"Malicious children, yes, but so terribly young"。Clem 的 underestimation of Commonwealth students。
+**中文理解**：Clem 对母亲 warning 的回应——、。Clem 的 underestimation of Commonwealth students。
 
 **句子结构**：主谓宾（I have heeded your warning）+ 转折（And yet...）+ 主系表（they are mere children）+ 并列分句（Malicious children, yes, but so terribly young...）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "It’s true that at first I felt some unease walking among them. They have a kind of recklessness to them, many an air of abandon almost, that feels like walking with my back to a knife thrower. But soon enough I realized that the knives are all dull."
 
-**中文理解**：Clem 的 reassessment——"at first I felt some unease"、"recklessness"、"knife thrower"、"knives are all dull"。Clem 从 unease 到 confidence 的转变。
+**中文理解**：Clem 的 reassessment——、、、。Clem 从 unease 到 confidence 的转变。
 
 **句子结构**：主系表（It's true that...）+ 主谓宾（I felt some unease）+ 定语从句（that feels like walking with my back to a knife thrower）+ 转折（But soon enough I realized that the knives are all dull）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "As luck would have it, I have already encountered Simeon twice. The first time I avoided him, thinking he would recognize me, but I needn’t have been concerned. He sees what he wishes to see, and so he sees admirers all around him."
 
-**中文理解**：Clem 遇 Simeon 两次——"avoided him, thinking he would recognize me"、"He sees what he wishes to see"。Simeon 的 perception 被 Clem 的 disguise  fool。
+**中文理解**：Clem 遇 Simeon 两次——、。Simeon 的 perception 被 Clem 的 disguise fool。
 
 **句子结构**：时间状语（As luck would have it）+ 主谓宾（I have already encountered Simeon twice）+ 第一次 encounter（The first time I avoided him, thinking...）+ 转折（but I needn't have been concerned）+ 主谓宾（He sees what he wishes to see, and so he sees admirers all around him）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "I will come to see you on Monday, at last."
 
-**中文理解**：Clem 的 promise——"I will come to see you on Monday, at last"。"at last"把 Clem 的 long-awaited visit 具象化。
+**中文理解**：Clem 的 promise——。把 Clem 的 long-awaited visit 具象化。
 
 **句子结构**：主谓宾 + 时间状语（on Monday）+ 语气词（at last）。简短而有力。
 

@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "The Salem Lyceum has an upper balcony and a ground floor. Seats on the ground floor are reserved for enchanters and their spirit thews."
 
-**中文理解**：Sam 的 opening——"The Salem Lyceum has an upper balcony and a ground floor. Seats on the ground floor are reserved for enchanters and their spirit thews"。Lyceum 的 structure。
+**中文理解**：Sam 的 opening——。Lyceum 的 structure。
 
 **句子结构**：主谓宾（The Salem Lyceum has an upper balcony and a ground floor）+ 主谓宾（Seats on the ground floor are reserved for enchanters and their spirit thews）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "Since we were new to the Lyceum and unfamiliar to the manager, we'd been slated to summon last."
 
-**中文理解**：Sam 的 observation——"Since we were new to the Lyceum and unfamiliar to the manager, we'd been slated to summon last"。Sam & Clem's position。
+**中文理解**：Sam 的 observation——。Sam & Clem's position。
 
 **句子结构**：时间状语从句（Since we were new to the Lyceum and unfamiliar to the manager）+ 主谓宾（we'd been slated to summon last）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "I found myself nervous as we waited in the cramped room backstage."
 
-**中文理解**：Sam's state——"I found myself nervous as we waited in the cramped room backstage"。Sam's nervousness。
+**中文理解**：Sam 的状态——"I found myself nervous as we waited in the cramped room backstage"。Sam 的紧张。
 
 **句子结构**：主谓宾（I found myself nervous as we waited in the cramped room backstage）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "Clementine and I were given a small room backstage in which to prepare for the séance. Clementine was outfitted as she had been at Commonwealth: as a trim young man with a tidy beard. I was disguised as a female thew of middle age, unremarkable in appearance, with respectable clothes, a loose bun, and pudgy cheeks."
 
-**中文理解**：Sam & Clem's disguises——"Clementine was outfitted as she had been at Commonwealth: as a trim young man with a tidy beard"、"I was disguised as a female thew of middle age, unremarkable in appearance, with respectable clothes, a loose bun, and pudgy cheeks"。Sam & Clem's disguises。
+**中文理解**：Sam 与 Clem 的伪装——"Clementine and I were given a small room backstage"。Sam 与 Clem 的伪装。
 
 **句子结构**：主谓宾（Clementine and I were given a small room backstage in which to prepare for the séance）+ 主系表（Clementine was outfitted as she had been at Commonwealth: as a trim young man with a tidy beard）+ 主系表（I was disguised as a female thew of middle age, unremarkable in appearance, with respectable clothes, a loose bun, and pudgy cheeks）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "I found myself nervous as we waited in the cramped room backstage."
 
-**中文理解**：Sam's nervousness——"I found that I was nervous as we waited in the cramped room backstage"、"It was filled with props from past performances, including a glass harmonica, the papier-mâché head of a horse, and a collection of swords that did little to inspire confidence"。Sam's nervousness。
+**中文理解**：Sam 的紧张——"I found myself nervous as we waited in the cramped room backstage"。Sam 的紧张。
 
 **句子结构**：主谓宾（I found that I was nervous as we waited in the cramped room backstage）+ 主系表（It was filled with props from past performances, including a glass harmonica, the papier-mâché head of a horse, and a collection of swords that did little to inspire confidence）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "Clementine stood beside the table and raised her arms. 'In the Salem courthouse,' she said, 'only a few miles from here, the Honorable Brice Richardson issued an invitation to a young woman named Clementine Quinn that was also a challenge.'"
 
-**中文理解**：Clem's opening——"Clementine stood beside the table and raised her arms"、"'In the Salem courthouse,' she said, 'only a few miles from here, the Honorable Brice Richardson issued an invitation to a young woman named Clementine Quinn that was also a challenge'"。Clem's performance。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主谓宾（Clementine stood beside the table and raised her arms）+ 引语（In the Salem courthouse... the Honorable Brice Richardson issued an invitation... that was also a challenge）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "I allowed my eyes to close. We had perfected the summoning over the last several days, and Clementine's strength had grown apace. I found the way open before me at once, and I reached with my consciousness into the mist, plunging forward with the knowledge that I was expected on the other side."
 
-**中文理解**：Sam's summoning——"I allowed my eyes to close"、"We had perfected the summoning over the last several days, and Clementine's strength had grown apace"、"I found the way open before me at once, and I reached with my consciousness into the mist, plunging forward with the knowledge that I was expected on the other side"。Sam's summoning。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主谓宾（I allowed my eyes to close）+ 主谓宾（We had perfected the summoning over the last several days, and Clementine's strength had grown apace）+ 主谓宾（I found the way open before me at once, and I reached with my consciousness into the mist, plunging forward with the knowledge that I was expected on the other side）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "Corbin, I thought. The mist cleared, and I found myself plummeting through the higher reaches of the spirit realm, plunging toward an assembly of spirits who had gathered there to await my arrival."
 
-**中文理解**：Sam's summoning——"Corbin, I thought"、"The mist cleared, and I found myself plummeting through the higher reaches of the spirit realm, plunging toward an assembly of spirits who had gathered there to await my arrival"。Sam's summoning。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主谓宾（Corbin, I thought）+ 主谓宾（The mist cleared, and I found myself plummeting through the higher reaches of the spirit realm, plunging toward an assembly of spirits who had gathered there to await my arrival）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "'Do you have anything else to tell us, Mr. Corbin?' / 'I do,' Corbin said with a grave bow. 'I wish the people of Salem to know that in the last several months, five women have been murdered so that five enchanters could take them as thews.'"
 
-**中文理解**：Clem 与 Corbin 的 dialogue——"Do you have anything else to tell us, Mr. Corbin?"、"I do... I wish the people of Salem to know that in the last several months, five women have been murdered so that five enchanters could take them as thews"。Clem 与 Corbin 的 dialogue。
+**中文理解**：Clem 与 Corbin 的 dialogue——、。Clem 与 Corbin 的 dialogue。
 
 **句子结构**：引语（Do you have anything else to tell us, Mr. Corbin?）+ 引语（I do... I wish the people of Salem to know that in the last several months, five women have been murdered so that five enchanters could take them as thews）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "'Which enchanters?' / Rapidly, the spirits around him called out five names: 'Henry Lyman, Theodore Paine, Edward Morton, Philip Knowles, John Perkins.'"
 
-**中文理解**：Clem 与 spirits 的 dialogue——"Which enchanters?"、"Rapidly, the spirits around him called out five names: 'Henry Lyman, Theodore Paine, Edward Morton, Philip Knowles, John Perkins'"。Clem 与 spirits 的 dialogue。
+**中文理解**：Clem 与 spirits 的 dialogue——、。Clem 与 spirits 的 dialogue。
 
 **句子结构**：引语（Which enchanters?）+ 主谓宾（Rapidly, the spirits around him called out five names: 'Henry Lyman, Theodore Paine, Edward Morton, Philip Knowles, John Perkins'）。
 
@@ -139,7 +139,7 @@ start_date: 2026-10-19
 
 > **原句 11:** "I felt myself yanked upward, away from Corbin and the other spirits, who diminished into mere specks and then disappeared entirely. Something had happened; my connection to the realm had been broken."
 
-**中文理解**：Sam's experience——"I felt myself yanked upward, away from Corbin and the other spirits, who diminished into mere specks and then disappeared entirely"、"Something had happened; my connection to the realm had been broken"。Sam's experience。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主谓宾（I felt myself yanked upward, away from Corbin and the other spirits, who diminished into mere specks and then disappeared entirely）+ 主谓宾（Something had happened; my connection to the realm had been broken）。
 
@@ -151,7 +151,7 @@ start_date: 2026-10-19
 
 > **原句 12:** "The twelve thews made a semicircle around me and Clementine, hemming us in toward the audience. They raised their arms to link hands. Then they spoke together in a slow, measured chant: 'The prophecy of Reynaldo Murcia de Quintanilla is fulfilled: the destruction wrought by a woman enchanter. She has unleashed the five terrors: the Urco, the Rabeno, the Carpia, the En Micó, the Drago. Who will defend you from them?'"
 
-**中文理解**：Cisneros thews 的 chant——"The twelve thews made a semicircle around me and Clementine, hemming us in toward the audience"、"They raised their arms to link hands"、"Then they spoke together in a slow, measured chant: 'The prophecy of Reynaldo Murcia de Quintanilla is fulfilled: the destruction wrought by a woman enchanter. She has unleashed the five terrors: the Urco, the Rabeno, the Carpia, the En Micó, the Drago. Who will defend you from them?'"。Cisneros thews 的 chant。
+**中文理解**：Cisneros thews 的 chant——、、。Cisneros thews 的 chant。
 
 **句子结构**：主谓宾（The twelve thews made a semicircle around me and Clementine, hemming us in toward the audience）+ 主谓宾（They raised their arms to link hands）+ 主谓宾（Then they spoke together in a slow, measured chant）+ 引语（The prophecy of Reynaldo Murcia de Quintanilla is fulfilled...）。
 
@@ -163,7 +163,7 @@ start_date: 2026-10-19
 
 > **原句 13:** "Then, with a sense of horror, I understood. It was just as Draken had boasted at the Cygnets gathering. The Cisneros Steel: the shining scale armor engraved with swans, the moths turned into fairies, the fish turned into mermaids. Creatures of the imagination could, regrettably, be all too real."
 
-**中文理解**：Sam's realization——"Then, with a sense of horror, I understood"、"It was just as Draken had boasted at the Cygnets gathering"、"The Cisneros Steel: the shining scale armor engraved with swans, the moths turned into fairies, the fish turned into mermaids"、"Creatures of the imagination could, regrettably, be all too real"。Sam's realization。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：时间状语（Then, with a sense of horror）+ 主谓宾（I understood）+ 主谓宾（It was just as Draken had boasted at the Cygnets gathering）+ 主系表（The Cisneros Steel: the shining scale armor engraved with swans, the moths turned into fairies, the fish turned into mermaids）+ 主系表（Creatures of the imagination could, regrettably, be all too real）。
 

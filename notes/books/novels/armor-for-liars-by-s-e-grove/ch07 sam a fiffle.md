@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "I’ve always been a meddler. Perhaps it’s wise, when witnessing mischief, to turn the other way. I’ve seen others do it often enough. But I cannot; something goads me on, making it impossible to look away."
 
-**中文理解**：Sam 的 self-portrait——"meddler"、"cannot look away"。这是 Sam 的 core character trait，也是他作为 thew 的动机。
+**中文理解**：Sam 的 self-portrait——、。这是 Sam 的 core character trait，也是他作为 thew 的动机。
 
 **句子结构**：主系表 + when 引导的时间状语从句 + 主谓宾 + But I cannot + 主谓宾（something goads me on, making it impossible to look away）。"something goads me on"把 Sam 的 impulsiveness 具象化。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "It’s not a bad quality, Sam," my father said, when he had stopped laughing. "I love your meddling, for it comes from wanting to set wrongs to right. But you must be prepared to pay the price," he said, looking at me gravely. "For there will almost always be a price."
 
-**中文理解**：父亲对 Sam meddling 的评价——"not a bad quality"、"comes from wanting to set wrongs to right"、"you must be prepared to pay the price"。这是 Sam 的 moral framework。
+**中文理解**：父亲对 Sam meddling 的评价——、、。这是 Sam 的 moral framework。
 
 **句子结构**：主谓宾 + when 引导的时间状语从句 + 引语（I love your meddling, for it comes from...）+ But you must be prepared... + For there will almost always be a price。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "He put it on. The skull of the helmet was solid, smooth, and slightly pointed, covering the ears and forehead. Below this, chain mail draped across his face and neck, leaving only small slits for his eyes."
 
-**中文理解**：Clem 穿 helmet 的描述——"solid, smooth, and slightly pointed"、"chain mail draped"、"small slits for his eyes"。这是 Clem 的 protective gear。
+**中文理解**：Clem 穿 helmet 的描述——、、。这是 Clem 的 protective gear。
 
 **句子结构**：主谓宾（He put it on）+ 两个定语从句（The skull of the helmet was... / Below this, chain mail draped...）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "As he"
 
-**中文理解**：Clem 的 course list——"Clem Quinn, First Year"。这是 Clem 的 enrollment，把他的 academic identity 具象化。
+**中文理解**：Clem 的 course list——。这是 Clem 的 enrollment，把他的 academic identity 具象化。
 
 **句子结构**：时间状语从句（As he took a step forward in line）+ 主谓宾（the young man unfolded the square of paper in his hand）+ 主谓宾（It read: Clem Quinn, First Year）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "I placed all my weight on Simeon, pressing anxiety upon him. He frowned but didn't alter his stance in the slightest. I was used to this."
 
-**中文理解**：Sam 尝试影响 Simeon——"placed all my weight on Simeon, pressing anxiety upon him"。但 Simeon "didn't alter his stance"。Sam 的 "I was used to this"暗示 repeated attempts。
+**中文理解**：Sam 尝试影响 Simeon——。但 Simeon 。Sam 的 暗示 repeated attempts。
 
 **句子结构**：主谓宾（I placed all my weight on Simeon）+ 伴随分词短语（pressing anxiety upon him）+ 转折并列（He frowned but didn't alter his stance in the slightest）+ 主系表（I was used to this）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "I followed Vera."
 
-**中文理解**：Sam 的 decision——"I followed Vera"。简短而决定性，把 Sam 的 meddler character 具象化。
+**中文理解**：Sam 的 decision——。简短而决定性，把 Sam 的 meddler character 具象化。
 
 **句子结构**：主谓宾。极简。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "Simeon was practicing."
 
-**中文理解**：章节结尾——"Simeon was practicing"。简短而 ominous，把 Simeon 的 stone enchantment 练习具象化。
+**中文理解**：章节结尾——。简短而 ominous，把 Simeon 的 stone enchantment 练习具象化。
 
 **句子结构**：主谓宾。极简。
 

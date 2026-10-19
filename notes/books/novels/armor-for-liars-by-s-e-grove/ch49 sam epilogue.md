@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "It was late October, and the mornings had dawned with frost for three days in a row. The window of my room on Saddle Street was laced with ice, so much that it obscured my view of the street."
 
-**中文理解**：Sam 的 opening——"It was late October, and the mornings had dawned with frost for three days in a row"、"The window of my room on Saddle Street was laced with ice, so much that it obscured my view of the street"。Sam's setting。
+**中文理解**：Sam 的 opening——、。Sam's setting。
 
 **句子结构**：主系表（It was late October, and the mornings had dawned with frost for three days in a row）+ 主系表（The window of my room on Saddle Street was laced with ice, so much that it obscured my view of the street）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "I hadn't slept, of course; a spirit never does. I used the nights for writing. While the house was quiet, while Saddle Street was quiet, I penned page after page."
 
-**中文理解**：Sam's activity——"I hadn't slept, of course; a spirit never does"、"I used the nights for writing"、"While the house was quiet, while Saddle Street was quiet, I penned page after page"。Sam's writing。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主谓宾（I hadn't slept, of course; a spirit never does）+ 主谓宾（I used the nights for writing）+ 时间状语从句（While the house was quiet, while Saddle Street was quiet, I penned page after page）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "It was pleasing to give order to the past in this way, to see the circumstances take shape in a manner that would exist outside my own head. Perhaps, even, in a manner that would interest a reader."
 
-**中文理解**：Sam's reflection——"It was pleasing to give order to the past in this way"、"to see the circumstances take shape in a manner that would exist outside my own head"、"Perhaps, even, in a manner that would interest a reader"。Sam's reflection。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主系表（It was pleasing to give order to the past in this way）+ 不定式（to see the circumstances take shape in a manner that would exist outside my own head）+ 不定式（Perhaps, even, in a manner that would interest a reader）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "I doubt you wish to hear of yet a third tearful reunion, so I will only tell you that it was on the day following our duel with the Cisneros Society, and Clementine entered the shops on Saddle Street before me to explain the circumstances."
 
-**中文理解**：Sam's reflection——"I doubt you wish to hear of yet a third tearful reunion, so I will only tell you that it was on the day following our duel with the Cisneros Society, and Clementine entered the shops on Saddle Street before me to explain the circumstances"。Sam's reflection。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主谓宾（I doubt you wish to hear of yet a third tearful reunion）+ 主谓宾（so I will only tell you that it was on the day following our duel with the Cisneros Society, and Clementine entered the shops on Saddle Street before me to explain the circumstances）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "I put down my pen and drifted down the stairs. There was Clem, leaning against the doorframe, wearing her enchantment trousers, as she called them. She smiled at me as I drifted into the room. I gave her a wink and the smile broadened."
 
-**中文理解**：Sam's observation——"I put down my pen and drifted down the stairs"、"There was Clem, leaning against the doorframe, wearing her enchantment trousers, as she called them"、"She smiled at me as I drifted into the room. I gave her a wink and the smile broadened"。Sam's observation。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主谓宾（I put down my pen and drifted down the stairs）+ 主系表（There was Clem, leaning against the doorframe, wearing her enchantment trousers, as she called them）+ 主谓宾（She smiled at me as I drifted into the room）+ 主谓宾（I gave her a wink and the smile broadened）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "It was wondrous to see the change in her now that her mother had returned. She frowned less; she rested more; sometimes she even laughed."
 
-**中文理解**：Sam's observation——"It was wondrous to see the change in her now that her mother had returned"、"She frowned less; she rested more; sometimes she even laughed"。Sam's observation。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主系表（It was wondrous to see the change in her now that her mother had returned）+ 主谓宾（She frowned less; she rested more; sometimes she even laughed）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "Our work for the Sor Juana Alliance had many parts. In his guise as constable, Roy continued tracking down members of the Cisneros Society who had participated in what all of the commonwealth now called 'the séance crimes,' so named for their exposure by Clem at the Grand Séance."
 
-**中文理解**：Sam's observation——"Our work for the Sor Juana Alliance had many parts"、"In his guise as constable, Roy continued tracking down members of the Cisneros Society who had participated in what all of the commonwealth now called 'the séance crimes'"。Sam's observation。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主谓宾（Our work for the Sor Juana Alliance had many parts）+ 主谓宾（In his guise as constable, Roy continued tracking down members of the Cisneros Society who had participated in what all of the commonwealth now called 'the séance crimes'）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "I was not sure their disgrace would last. Already Roy had told us of a certain reluctance among his fellow officers of criminal enchantment to pursue those members of Cisneros who had not personally acquired thews from the stoning deaths."
 
-**中文理解**：Sam's reflection——"I was not sure their disgrace would last"、"Already Roy had told us of a certain reluctance among his fellow officers of criminal enchantment to pursue those members of Cisneros who had not personally acquired thews from the stoning deaths"。Sam's reflection。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主系表（I was not sure their disgrace would last）+ 主谓宾（Already Roy had told us of a certain reluctance among his fellow officers of criminal enchantment to pursue those members of Cisneros who had not personally acquired thews from the stoning deaths）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "I doubt you wish to hear of yet a third tearful reunion, so I will only tell you that it was on the day following our duel with the Cisneros Society, and Clementine entered the shops on Saddle Street before me to explain the circumstances."
 
-**中文理解**：Sam's reflection——"I doubt you wish to hear of yet a third tearful reunion, so I will only tell you that it was on the day following our duel with the Cisneros Society, and Clementine entered the shops on Saddle Street before me to explain the circumstances"。Sam's reflection。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主谓宾（I doubt you wish to hear of yet a third tearful reunion）+ 主谓宾（so I will only tell you that it was on the day following our duel with the Cisneros Society, and Clementine entered the shops on Saddle Street before me to explain the circumstances）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "A portal has been discovered."
 
-**中文理解**：Clem 的 announcement——"A portal has been discovered"、"Where?"、"Lawrence. In one of the mills"。Clem's announcement。
+**中文理解**：Clem 的 announcement——、、。Clem's announcement。
 
 **句子结构**：引语（A portal has been discovered）+ 引语（Where?）+ 引语（Lawrence. In one of the mills）。
 
@@ -139,7 +139,7 @@ start_date: 2026-10-19
 
 > **原句 11:** "I had been meaning to address the matter for some time, and now, with two hours ahead and then a potential confrontation with Cisneros men, there seemed to be no better moment. 'Clementine,' I began gently, 'I think you know that I will forever be glad to remain by your side, but I feel that I must remind you of the difference between us, and…'"
 
-**中文理解**：Sam 的 reflection——"I had been meaning to address the matter for some time, and now, with two hours ahead and then a potential confrontation with Cisneros men, there seemed to be no better moment"、"'Clementine,' I began gently, 'I think you know that I will forever be glad to remain by your side, but I feel that I must remind you of the difference between us, and…'"。Sam's reflection。
+**中文理解**：Sam 的 reflection——、。Sam's reflection。
 
 **句子结构**：主谓宾（I had been meaning to address the matter for some time, and now, with two hours ahead and then a potential confrontation with Cisneros men, there seemed to be no better moment）+ 引语（Clementine, I began gently, I think you know that I will forever be glad to remain by your side, but I feel that I must remind you of the difference between us, and…）。
 
@@ -151,7 +151,7 @@ start_date: 2026-10-19
 
 > **原句 12:** "Clem cut me off. 'You think I'm not aware that you are a spirit?' She looked up at me, her gaze as direct and unflinching as ever, full of corazón. / 'Of course I know that you're aware…' I said helplessly. / 'Then trust that I act with that awareness.' / 'But Clem…' I reached out with my other hand and ran a thumb across her cheek. 'As a spirit there is only so much I can give you.' / She smiled up at me. 'I know. And that is what I want. Only what you can give, nothing more.' She held my gaze, and I tried to find in the depths of her eyes some reason to pull back, to deny myself and her the bond that tethered us. I couldn't find it. I dipped my head to kiss her."
 
-**中文理解**：Sam 与 Clem 的 dialogue——"You think I'm not aware that you are a spirit?"、"Of course I know that you're aware…"、"Then trust that I act with that awareness"、"But Clem… As a spirit there is only so much I can give you"、"I know. And that is what I want. Only what you can give, nothing more"、"I dipped my head to kiss her"。Sam 与 Clem 的 dialogue。
+**中文理解**：Sam 与 Clem 的 dialogue——、、、、、。Sam 与 Clem 的 dialogue。
 
 **句子结构**：引语（You think I'm not aware that you are a spirit?）+ 说话标签（She looked up at me, her gaze as direct and unflinching as ever, full of corazón）+ 引语（Of course I know that you're aware…）+ 说话标签（I said helplessly）+ 引语（Then trust that I act with that awareness）+ 引语（But Clem… As a spirit there is only so much I can give you）+ 说话标签（I reached out with my other hand and ran a thumb across her cheek）+ 引语（I know. And that is what I want. Only what you can give, nothing more）+ 说话标签（She held my gaze, and I tried to find in the depths of her eyes some reason to pull back, to deny myself and her the bond that tethered us. I couldn't find it. I dipped my head to kiss her）。
 
@@ -163,7 +163,7 @@ start_date: 2026-10-19
 
 > **原句 13:** "I had the strangest sensation, as I felt her pressed against me, that the warmth I felt from her hands and lips was not hers alone, but shared: that somehow, her touch brought life to me, and that between us there was, in fact, no difference at all."
 
-**中文理解**：Sam's sensation——"I had the strangest sensation, as I felt her pressed against me, that the warmth I felt from her hands and lips was not hers alone, but shared: that somehow, her touch brought life to me, and that between us there was, in fact, no difference at all"。Sam's sensation。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主系表（I had the strangest sensation, as I felt her pressed against me, that the warmth I felt from her hands and lips was not hers alone, but shared）+ 主系表（that somehow, her touch brought life to me, and that between us there was, in fact, no difference at all）。
 
@@ -175,7 +175,7 @@ start_date: 2026-10-19
 
 > **原句 14:** "'Ah!' she exclaimed, leaning forward with excitement. 'We've reached North Street. Excellent. Now we can speed up. Girar con prisa,' she called happily to the barouche, and the wheels obligingly turned faster, carrying us onward along the smooth thoroughfare toward our destination."
 
-**中文理解**：Clem 的 exclamation——"'Ah!' she exclaimed, leaning forward with excitement"、"'We've reached North Street. Excellent. Now we can speed up. Girar con prisa,' she called happily to the barouche, and the wheels obligingly turned faster, carrying us onward along the smooth thoroughfare toward our destination"。Clem's exclamation。
+**中文理解**：Clem 的 exclamation——、。Clem's exclamation。
 
 **句子结构**：引语（Ah!）+ 说话标签（she exclaimed, leaning forward with excitement）+ 引语（We've reached North Street. Excellent. Now we can speed up. Girar con prisa）+ 说话标签（she called happily to the barouche）+ 主谓宾（and the wheels obligingly turned faster, carrying us onward along the smooth thoroughfare toward our destination）。
 

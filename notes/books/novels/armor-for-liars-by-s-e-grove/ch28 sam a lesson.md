@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "Like"
 
-**中文理解**：epigraph 定义 thew discipline——"Like a child, the thew must be disciplined into obedience"、"the captured shroud leaves the spirit vulnerable"、"a slight pressure... will awaken a sensation of inner pain and anguish"。
+**中文理解**：epigraph 定义 thew discipline——、、。
 
 **句子结构**：主系表（Like a child, the thew must be disciplined into obedience）+ 主谓宾（Once inside the lead case, the captured shroud leaves the spirit vulnerable）+ 主谓宾（Even a slight pressure upon the shroud with the index finger or thumb will awaken a sensation of inner pain and anguish that the spirit finds unbearable）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "The single thing most important to your survival is staying anchored. You need to build up your leg strength and practice walking with weighted armor."
 
-**中文理解**：Wister's instruction——"The single thing most important to your survival is staying anchored"、"You need to build up your leg strength and practice walking with weighted armor"。
+**中文理解**：Wister 的指导——、。
 
 **句子结构**：主系表（The single thing most important to your survival is staying anchored）+ 主谓宾（You need to build up your leg strength and practice walking with weighted armor）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "The currents pull you in almost at once, away from the portal, and then carry you in a stream, like a whirlpool, toward the archipelago."
 
-**中文理解**：Wister's explanation——"The currents pull you in almost at once, away from the portal, and then carry you in a stream, like a whirlpool, toward the archipelago"。这是 spirit realm 的 navigation。
+**中文理解**：Wister's explanation——。这是 spirit realm 的 navigation。
 
 **句子结构**：主谓宾（The currents pull you in almost at once, away from the portal）+ 并列分句（and then carry you in a stream, like a whirlpool, toward the archipelago）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "Enchanters manipulate matter. They break things, they make things, they mend things, they change things. With the power of a thew, these abilities are heightened. With my relics, I can mend a stone wall. But with a thew, I can transform a stone wall into a cathedral."
 
-**中文理解**：Wister 的 distinction——"Enchanters manipulate matter... With the power of a thew, these abilities are heightened"、"With my relics, I can mend a stone wall. But with a thew, I can transform a stone wall into a cathedral"。
+**中文理解**：Wister 的 distinction——、。
 
 **句子结构**：主谓宾（Enchanters manipulate matter）+ 并列分句（They break things, they make things, they mend things, they change things）+ 主系表（With the power of a thew, these abilities are heightened）+ 主谓宾（With my relics, I can mend a stone wall）+ 转折（But with a thew, I can transform a stone wall into a cathedral）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "Enchanters are a power-hungry lot, aren't they?"
 
-**中文理解**：Wister 的 observation——"Enchanters are a power-hungry lot, aren't they?"。简短而 decisive，把 enchanter's character 具象化。
+**中文理解**：Wister 的 observation——。简短而 decisive，把 enchanter's character 具象化。
 
 **句子结构**：主系表（Enchanters are a power-hungry lot, aren't they?）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "They're not ghosts so much as ghostly impressions, of the living and the dead. Fleeting images of things that have occurred, sentiments that have passed through."
 
-**中文理解**：Wister's explanation of residues——"They're not ghosts so much as ghostly impressions, of the living and the dead. Fleeting images of things that have occurred, sentiments that have passed through"。
+**中文理解**：Wister 对残影的解释——。
 
 **句子结构**：主系表（They're not ghosts so much as ghostly impressions, of the living and the dead）+ 主系表（Fleeting images of things that have occurred, sentiments that have passed through）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "When the law is wrong, disobedience is just."
 
-**中文理解**：Wister 的 philosophy——"When the law is wrong, disobedience is just"。简短而 decisive，把 Wister's moral stance 具象化。
+**中文理解**：Wister 的 philosophy——。简短而 decisive，把 Wister's moral stance 具象化。
 
 **句子结构**：主系表（When the law is wrong, disobedience is just）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "The key to medical enchantment is a proper knowledge of"
 
-**中文理解**：Wister's explanation——"The key to medical enchantment is a proper knowledge of anatomy"、"repairing torn flesh is no different from fixing a broken plate"、"Only instead of a relic, we use bone"。
+**中文理解**：Wister 的解释——、、。
 
 **句子结构**：主系表（The key to medical enchantment is a proper knowledge of anatomy）+ 主系表（Once you know the body well, repairing torn flesh is no different from fixing a broken plate）+ 主系表（Only instead of a relic, we use bone）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "Stay," the face hissed. The slit of the mouth moved awkwardly, the lower stone hanging like a broken jaw. "Stay away from her."
 
-**中文理解**：stones 的 message——"Stay"、"Stay away from her"。这是 stones 的 threat。
+**中文理解**：stones 的 message——、。这是 stones 的 threat。
 
 **句子结构**：引语（Stay）+ 主谓宾（The slit of the mouth moved awkwardly, the lower stone hanging like a broken jaw）+ 引语（Stay away from her）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "'Make me,' Clementine said, her voice hard. She shook the banners once more, saying, 'Atar,' decisively. The bandages hung in the air for a moment, limp and soft, and suddenly they extended, swooping toward the stones with a feline leap, lithe as hunters."
 
-**中文理解**：Clem 的 response——"Make me"、"Atar"、"The bandages hung in the air for a moment, limp and soft, and suddenly they extended, swooping toward the stones with a feline leap, lithe as hunters"。这是 Clem's enchantment。
+**中文理解**：Clem 的 response——、、。这是 Clem's enchantment。
 
 **句子结构**：引语（Make me）+ 说话标签（Clementine said, her voice hard）+ 主谓宾（She shook the banners once more, saying, 'Atar,' decisively）+ 主谓宾（The bandages hung in the air for a moment, limp and soft）+ 并列分句（and suddenly they extended, swooping toward the stones with a feline leap, lithe as hunters）。
 
@@ -139,7 +139,7 @@ start_date: 2026-10-19
 
 > **原句 11:** "'You underestimated me,' she said quietly."
 
-**中文理解**：Clem 的 conclusion——"You underestimated me"。简短而 decisive，把 Clem's confidence 具象化。
+**中文理解**：Clem 的 conclusion——。简短而 decisive，把 Clem's confidence 具象化。
 
 **句子结构**：引语（You underestimated me）+ 说话标签（she said quietly）。
 

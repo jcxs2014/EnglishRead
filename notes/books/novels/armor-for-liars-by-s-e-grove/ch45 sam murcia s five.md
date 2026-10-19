@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "The mad scramble for the exits had begun, but the narrow doorways would allow only so many people at once, and the Lyceum was still mostly full as the wolf took a step forward, its teeth bared, spittle dripping from its chin."
 
-**中文理解**：Sam 的 opening——"The mad scramble for the exits had begun"、"the Lyceum was still mostly full as the wolf took a step forward, its teeth bared, spittle dripping from its chin"。Urco 的 appearance。
+**中文理解**：Sam 的 opening——、。Urco 的 appearance。
 
 **句子结构**：主谓宾（The mad scramble for the exits had begun）+ 主系表（but the narrow doorways would allow only so many people at once）+ 主系表（and the Lyceum was still mostly full as the wolf took a step forward, its teeth bared, spittle dripping from its chin）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "I'd already placed myself between Clementine and the wolf—it would have to contend with me first—but the creature ignored us. It took several steps toward the apron of the stage and gazed out at the scrambling audience."
 
-**中文理解**：Sam 的 action——"I'd already placed myself between Clementine and the wolf"、"the creature ignored us"、"It took several steps toward the apron of the stage and gazed out at the scrambling audience"。Sam's protection。
+**中文理解**：Sam 的 action——、、。Sam's protection。
 
 **句子结构**：主谓宾（I'd already placed myself between Clementine and the wolf）+ 主系表（it would have to contend with me first）+ 转折（but the creature ignored us）+ 主谓宾（It took several steps toward the apron of the stage and gazed out at the scrambling audience）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "This, of course, was the performance the enchanters wanted the audience to see: a play in two acts, in which the commonwealth's finest enchanters defeated the monster created by the malicious enchantress."
 
-**中文理解**：Sam's observation——"This, of course, was the performance the enchanters wanted the audience to see: a play in two acts, in which the commonwealth's finest enchanters defeated the monster created by the malicious enchantress"。Sam's analysis。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主系表（This, of course, was the performance the enchanters wanted the audience to see）+ 同位语（a play in two acts, in which the commonwealth's finest enchanters defeated the monster created by the malicious enchantress）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "The wolf lay prone, its limbs kicking uselessly in ungainly death throes. Some people in the crowd were looking past the wolf at us, and their expressions were not sympathetic."
 
-**中文理解**：Sam's observation——"The wolf lay prone, its limbs kicking uselessly in ungainly death throes"、"Some people in the crowd were looking past the wolf at us, and their expressions were not sympathetic"。Sam's observation。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主谓宾（The wolf lay prone, its limbs kicking uselessly in ungainly death throes）+ 主谓宾（Some people in the crowd were looking past the wolf at us, and their expressions were not sympathetic）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "'SO!' a piercing voice cried. We paused and looked out toward the audience. 'The malefactors flee from the destruction they have wrought!' It was Principa, who floated some distance above the swarming crowd and pointed at us gleefully. 'Look at them, running to save themselves from the consequences of their actions.'"
 
-**中文理解**：Principa's accusation——"The malefactors flee from the destruction they have wrought!"、"Look at them, running to save themselves from the consequences of their actions"。Principa's accusation。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：引语（SO!）+ 说话标签（a piercing voice cried）+ 主谓宾（We paused and looked out toward the audience）+ 引语（The malefactors flee from the destruction they have wrought!）+ 主谓宾（It was Principa, who floated some distance above the swarming crowd and pointed at us gleefully）+ 引语（Look at them, running to save themselves from the consequences of their actions）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "A shadow fell upon the cobblestone. It moved slowly, awkwardly, with a lumbering gait. Then all at once it appeared, fully as tall as the Lyceum that had until then obstructed it from view: a pale, hairless, naked giant, its skin cadaverously white, showing the branching of blue veins below the surface. The Rabeno."
 
-**中文理解**：Rabeno's appearance——"A shadow fell upon the cobblestone"、"It moved slowly, awkwardly, with a lumbering gait"、"a pale, hairless, naked giant, its skin cadaverously white, showing the branching of blue veins below the surface"、"The Rabeno"。Rabeno's appearance。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主谓宾（A shadow fell upon the cobblestone）+ 主谓宾（It moved slowly, awkwardly, with a lumbering gait）+ 时间状语（Then all at once it appeared, fully as tall as the Lyceum that had until then obstructed it from view）+ 主系表（a pale, hairless, naked giant, its skin cadaverously white, showing the branching of blue veins below the surface）+ 主系表（The Rabeno）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "I swallowed my reluctance—it was the first coach I'd touched since my death—and climbed up onto the seat. It was very odd, sitting in the barouche with no horses before us. Clementine made a circular motion in the air and said, 'Girar.' The barouche jolted into motion obligingly, rolling over the cobblestones in the most natural manner, as if there were indeed a pair of horses diligently pulling us forward."
 
-**中文理解**：Clem 的 escape——"I swallowed my reluctance"、"It was very odd, sitting in the barouche with no horses before us"、"Clementine made a circular motion in the air and said, 'Girar.' The barouche jolted into motion obligingly, rolling over the cobblestones in the most natural manner, as if there were indeed a pair of horses diligently pulling us forward"。Clem's escape。
+**中文理解**：Clem 的 escape——、、。Clem's escape。
 
 **句子结构**：主谓宾（I swallowed my reluctance—it was the first coach I'd touched since my death—and climbed up onto the seat）+ 主系表（It was very odd, sitting in the barouche with no horses before us）+ 主谓宾（Clementine made a circular motion in the air and said, 'Girar'）+ 主谓宾（The barouche jolted into motion obligingly, rolling over the cobblestones in the most natural manner, as if there were indeed a pair of horses diligently pulling us forward）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "Here on Essex Street, farther from the path of the Rabeno, some people still dared to open shutters and windows to look down on the street below, though their doors remained firmly closed."
 
-**中文理解**：Sam's observation——"Here on Essex Street, farther from the path of the Rabeno, some people still dared to open shutters and windows to look down on the street below, though their doors remained firmly closed"。Sam's observation。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：时间状语（Here on Essex Street, farther from the path of the Rabeno）+ 主谓宾（some people still dared to open shutters and windows to look down on the street below）+ 转折（though their doors remained firmly closed）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "A young man in a second-story window stared at us, mouth agape, as we bounced by. I gave him a cheerful wave before resuming my grip on the handrail."
 
-**中文理解**：Sam's observation——"A young man in a second-story window stared at us, mouth agape, as we bounced by"、"I gave him a cheerful wave before resuming my grip on the handrail"。Sam's observation。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主谓宾（A young man in a second-story window stared at us, mouth agape, as we bounced by）+ 主谓宾（I gave him a cheerful wave before resuming my grip on the handrail）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "'Con prisa,' Clem said again, and the carriage, with an air of gleeful liberation, burst into furious speed."
 
-**中文理解**：Clem 的 command——"'Con prisa,' Clem said again, and the carriage, with an air of gleeful liberation, burst into furious speed"。Clem's command。
+**中文理解**：Clem 的 command——。Clem's command。
 
 **句子结构**：引语（Con prisa）+ 说话标签（Clem said again）+ 主谓宾（and the carriage, with an air of gleeful liberation, burst into furious speed）。
 

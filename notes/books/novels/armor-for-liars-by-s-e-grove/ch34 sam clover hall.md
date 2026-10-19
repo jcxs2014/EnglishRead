@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "I wasn't the only one discomfited by the creature of bone. Rosetta shrieked the next morning when she encountered Clem asleep on the yellow chair, the suit of armor standing beside her."
 
-**中文理解**：Sam 的 opening——"I wasn't the only one discomfited by the creature of bone"、"Rosetta shrieked the next morning"。Erauso 的 unsettling effect。
+**中文理解**：Sam 的 opening——、。Erauso 的 unsettling effect。
 
 **句子结构**：主系表（I wasn't the only one discomfited by the creature of bone）+ 主谓宾（Rosetta shrieked the next morning when she encountered Clem asleep on the yellow chair, the suit of armor standing beside her）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "Clem debated the question in silence, and I understood her hesitation. On the one hand, Simeon would be there, and Simeon was dangerous. On the other hand, was Erauso the right defender for a confrontation with Simeon? Only if the situation became very dire."
 
-**中文理解**：Clem 的 deliberation——"On the one hand, Simeon would be there, and Simeon was dangerous. On the other hand, was Erauso the right defender for a confrontation with Simeon?"。Clem's strategic thinking。
+**中文理解**：Clem 的 deliberation——。Clem's strategic thinking。
 
 **句子结构**：主谓宾（Clem debated the question in silence）+ 主谓宾（and I understood her hesitation）+ 主谓宾（On the one hand, Simeon would be there, and Simeon was dangerous）+ 主谓宾（On the other hand, was Erauso the right defender for a confrontation with Simeon?）+ 主系表（Only if the situation became very dire）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "Simeon screamed. It was an unpleasant sound, shrill and exaggerated."
 
-**中文理解**：Sam's observation——"I had no doubt that the sister had been lingering outside the door for some time, waiting for a propitious moment to enter"。Sam's perception of Mariah's strategy。
+**中文理解**：Sam 的观察——Simeon 尖叫，不愉快的声音。
 
 **句子结构**：主谓宾（I had no doubt that the sister had been lingering outside the door for some time, waiting for a propitious moment to enter）+ 主谓宾（She had been wanting to catch Clem alone, and the moment she had arrived, she seized the opportunity）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "I could"
 
-**中文理解**：Sam's observation——"I could feel the weight of the hostility against her and the slim ribbon of decorum held in place by Mead's cold stare"。Sam's perception of the room's atmosphere。
+**中文理解**：Sam 的观察——房间里充满敌意。
 
 **句子结构**：主谓宾（I could feel the weight of the hostility against her）+ 主谓宾（and the slim ribbon of decorum held in place by Mead's cold stare）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "Clem knew! Yes, Clem had somehow divined what was happening."
 
-**中文理解**：Sam's reaction——"Under ordinary circumstances I would have enjoyed watching Simeon worked up into such a lather of indignant fury"、"In these circumstances, however, I feared for the person who had provoked such fury"。Sam's concern for Clem。
+**中文理解**：Sam 的反应——他对 Clem 的关切。
 
 **句子结构**：条件句（Under ordinary circumstances I would have enjoyed watching Simeon worked up into such a lather of indignant fury）+ 转折（In these circumstances, however, I feared for the person who had provoked such fury）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "I did what no one else there could do: I ducked beneath the table."
 
-**中文理解**：Sam's action——"I did what no one else there could do: I ducked beneath the table"。Sam's thew advantage。
+**中文理解**：Sam 的行动——他钻到桌下。
 
 **句子结构**：主谓宾（I did what no one else there could do）+ 主谓宾（I ducked beneath the table）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "It was as I'd suspected. Simeon's hand was engaged in silent, steady battle in Rosetta's lap, digging insistently into the yellow poplin while Rosetta's hands ineffectually attempted to claw it away."
 
-**中文理解**：Sam's discovery——"Simeon's hand was engaged in silent, steady battle in Rosetta's lap, digging insistently into the yellow poplin while Rosetta's hands ineffectually attempted to claw it away"。Simeon's harassment。
+**中文理解**：Sam 的发现——Simeon 的手在 Rosetta 的腿上做无声的斗争。
 
 **句子结构**：主系表（It was as I'd suspected）+ 主谓宾（Simeon's hand was engaged in silent, steady battle in Rosetta's lap）+ 伴随分词短语（digging insistently into the yellow poplin while Rosetta's hands ineffectually attempted to claw it away）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "Clem knew! Yes, Clem had somehow divined what was happening. I sent her a surge of encouragement. As if in response, she suddenly released the fork. For a moment the fork floated above her knees, and then it shuttled under the table at incredible speed, burying itself in the tangled knot of skirts and hands in Rosetta's lap."
 
-**中文理解**：Clem's intervention——"Clem knew! Yes, Clem had somehow divined what was happening"、"the fork floated above her knees, and then it shuttled under the table at incredible speed, burying itself in the tangled knot of skirts and hands in Rosetta's lap"。Clem's enchantment。
+**中文理解**：Clem 的干预——叉子浮起并射向 Simeon。
 
 **句子结构**：主谓宾（Clem knew! Yes, Clem had somehow divined what was happening）+ 主谓宾（I sent her a surge of encouragement）+ 时间状语从句（As if in response, she suddenly released the fork）+ 主谓宾（For a moment the fork floated above her knees）+ 并列分句（and then it shuttled under the table at incredible speed, burying itself in the tangled knot of skirts and hands in Rosetta's lap）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "Simeon screamed. It was an unpleasant sound, shrill and exaggerated. He pushed back his chair and stood abruptly, holding his hand out in front of him. The fork was buried in the back of his hand. Blood trickled out of the four puncture points in a revolting manner."
 
-**中文理解**：Simeon's reaction——"Simeon screamed"、"The fork was buried in the back of his hand"、"Blood trickled out of the four puncture points in a revolting manner"。Simeon's injury。
+**中文理解**：Simeon 的反应——叉子扎入手背，血流出。
 
 **句子结构**：主谓宾（Simeon screamed）+ 主系表（It was an unpleasant sound, shrill and exaggerated）+ 主谓宾（He pushed back his chair and stood abruptly, holding his hand out in front of him）+ 主系表（The fork was buried in the back of his hand）+ 主谓宾（Blood trickled out of the four puncture points in a revolting manner）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "'I believe this is yours,' he said. / Clem looked up at him mildly. 'How on earth did my fork end up in your hand?' She blinked. 'Dear me, your hand must have been wandering quite a bit.' She stood up and leaned forward, her eyes wilting with concern. 'Are you very badly hurt? That looks like quite a serious injury.'"
 
-**中文理解**：Clem's response——"How on earth did my fork end up in your hand?"、"Dear me, your hand must have been wandering quite a bit"、"Are you very badly hurt? That looks like quite a serious injury"。Clem's sarcasm。
+**中文理解**：Clem 的回应——"How on earth did my fork end up in your hand?"。Clem 的讽刺。
 
 **句子结构**：引语（I believe this is yours）+ 主谓宾（Clem looked up at him mildly）+ 引语（How on earth did my fork end up in your hand?）+ 主谓宾（She blinked）+ 引语（Dear me, your hand must have been wandering quite a bit）+ 主谓宾（She stood up and leaned forward, her eyes wilting with concern）+ 引语（Are you very badly hurt? That looks like quite a serious injury）。
 
@@ -139,7 +139,7 @@ start_date: 2026-10-19
 
 > **原句 11:** "'Esperar,' she called out through the window. From there she could see Erauso, pausing abruptly as commanded in his ferocious climb up the long drive."
 
-**中文理解**：Clem 的 command——"Esperar"、"Erauso, pausing abruptly as commanded"。Clem's control over Erauso。
+**中文理解**：Clem 的 command——、。Clem's control over Erauso。
 
 **句子结构**：引语（Esperar）+ 说话标签（she called out through the window）+ 主谓宾（From there she could see Erauso, pausing abruptly as commanded in his ferocious climb up the long drive）。
 
@@ -151,7 +151,7 @@ start_date: 2026-10-19
 
 > **原句 12:** "I wondered at her restraint, for in her place I would have chosen one of these over the fork."
 
-**中文理解**：Sam's observation——"I wondered at her restraint, for in her place I would have chosen one of these over the fork"。Sam's assessment of Clem's restraint。
+**中文理解**：Sam 的观察——Clem 的克制，Sam 为 Clem 的克制感到惊讶。
 
 **句子结构**：主谓宾（I wondered at her restraint）+ 原因状语从句（for in her place I would have chosen one of these over the fork）。
 

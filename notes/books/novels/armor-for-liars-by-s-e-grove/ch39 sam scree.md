@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "Every spirit knows that it's folly to go through the Weer without the company of a living soul. I held on to Clem's rope tightly."
 
-**中文理解**：Sam 的 opening——"Every spirit knows that it's folly to go through the Weer without the company of a living soul"、"I held on to Clem's rope tightly"。Sam's awareness of danger。
+**中文理解**：Sam 的 opening——、。Sam's awareness of danger。
 
 **句子结构**：主系表（Every spirit knows that it's folly to go through the Weer without the company of a living soul）+ 主谓宾（I held on to Clem's rope tightly）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "Clem," I said loudly. I couldn't turn to shake her without dislodging her hands. Her eyes sought mine. "You must stay alert," I said, almost shouting. "Don't lose sight of where we are. Only a little more than a hundred paces left. We're three-quarters of the way there."
 
-**中文理解**：Sam 的 concern——"You must stay alert"、"Don't lose sight of where we are"、"Only a little more than a hundred paces left"。Sam's guidance。
+**中文理解**：Sam 的 concern——、、。Sam's guidance。
 
 **句子结构**：引语（Clem）+ 主谓宾（I said loudly）+ 主谓宾（I couldn't turn to shake her without dislodging her hands）+ 主谓宾（Her eyes sought mine）+ 引语（You must stay alert... Don't lose sight of where we are... Only a little more than a hundred paces left. We're three-quarters of the way there）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "Clem!" I called desperately, now as terrified for myself as for her. The sudden gusts of wind lifted the fog, and I saw her thirty paces away, crumpled to the ground beside the mooring line. "Get up, Clem," I shouted at her. She raised her head—she was still alive. But I couldn't close the distance fast enough."
 
-**中文理解**：Sam's panic——"Clem!" I called desperately"、"now as terrified for myself as for her"、"She raised her head—she was still alive. But I couldn't close the distance fast enough"。Sam's panic。
+**中文理解**：Sam 的恐慌——"Clem!" I called desperately。Sam 的恐慌。
 
 **句子结构**：引语（Clem!）+ 说话标签（I called desperately）+ 时间状语（now as terrified for myself as for her）+ 主谓宾（The sudden gusts of wind lifted the fog, and I saw her thirty paces away, crumpled to the ground beside the mooring line）+ 引语（Get up, Clem）+ 说话标签（I shouted at her）+ 主谓宾（She raised her head—she was still alive. But I couldn't close the distance fast enough）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "Just before it came upon me, the scree fell silent. I felt a blow, but nothing like my collision with the carriage as a living man. No—this blow was an embrace."
 
-**中文理解**：scree's embrace——"Just before it came upon me, the scree fell silent"、"this blow was an embrace"。scree 的 nature。
+**中文理解**：scree's embrace——、。scree 的 nature。
 
 **句子结构**：时间状语（Just before it came upon me, the scree fell silent）+ 主谓宾（I felt a blow, but nothing like my collision with the carriage as a living man）+ 主系表（No—this blow was an embrace）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "The scree wasn't a physical being, I realized dimly; it was a spirit—pure spirit, with no flesh or casing to encumber it. It tugged on my consciousness, saying, Come, come this way, without any need for words."
 
-**中文理解**：Sam's realization——"The scree wasn't a physical being, I realized dimly; it was a spirit—pure spirit, with no flesh or casing to encumber it"、"It tugged on my consciousness, saying, Come, come this way, without any need for words"。scree 的 nature。
+**中文理解**：Sam's realization——、。scree 的 nature。
 
 **句子结构**：主系表（The scree wasn't a physical being, I realized dimly; it was a spirit—pure spirit, with no flesh or casing to encumber it）+ 主谓宾（It tugged on my consciousness, saying, Come, come this way, without any need for words）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "I felt a surge of desire to comply, and then delight at giving in. What delight! I had such a sense of calm and contentment that I hadn't experienced since arriving in the realm—no, since well before that."
 
-**中文理解**：Sam's temptation——"I felt a surge of desire to comply, and then delight at giving in"、"I had such a sense of calm and contentment"。Sam's temptation。
+**中文理解**：Sam 的诱惑——"I felt a surge of desire to comply, and then delight at giving in"。Sam 的诱惑。
 
 **句子结构**：主谓宾（I felt a surge of desire to comply, and then delight at giving in）+ 主系表（What delight! I had such a sense of calm and contentment that I hadn't experienced since arriving in the realm—no, since well before that）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "Then it was broken. Something appeared in my line of vision, blocking the lovely pale light. A gruesome thing of metal and flesh and floating hair. 'SAM!' it shouted."
 
-**中文理解**：Clem's rescue——"Then it was broken"、"A gruesome thing of metal and flesh and floating hair"、"'SAM!' it shouted"。Clem's rescue of Sam。
+**中文理解**：Clem 的救援——"SAM!" it shouted。Clem 救了 Sam。
 
 **句子结构**：主系表（Then it was broken）+ 主谓宾（Something appeared in my line of vision, blocking the lovely pale light）+ 主系表（A gruesome thing of metal and flesh and floating hair）+ 引语（SAM!）+ 说话标签（it shouted）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "Clem, I realized. Clem was my sense of unease. I could not leave her here alone."
 
-**中文理解**：Sam's realization——"Clem, I realized. Clem was my sense of unease. I could not leave her here alone"。Sam's motivation。
+**中文理解**：Sam 的醒悟——"Clem, I realized. Clem was my sense of unease"。Sam 的动机。
 
 **句子结构**：主谓宾（Clem, I realized）+ 主系表（Clem was my sense of unease）+ 主谓宾（I could not leave her here alone）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "I need the case." Her eyes closed, but she slid her hand upward toward her trouser pocket. Then her fingers fell away. "It's lead," I said to her. "I can't touch it." She shook her head slightly, the barest shift from side to side. What did she mean? She couldn't do it? She wouldn't? Gingerly, I pulled at the opening of her trouser pocket. I could see the rectangular lump in the satin lining. What would happen if I touched lead? Would it burn me? Turn me to dust? Or would my fingers simply fail to grasp it, sliding through like mere air? I thrust my hand into the pocket.
 
-**中文理解**：Sam's dilemma——"I need the case"、"It's lead... I can't touch it"、"What would happen if I touched lead?"、"I thrust my hand into the pocket"。Sam's risk。
+**中文理解**：Sam 的困境——"I need the case"。Sam 的风险。
 
 **句子结构**：引语（I need the case）+ 主谓宾（Her eyes closed, but she slid her hand upward toward her trouser pocket）+ 主谓宾（Then her fingers fell away）+ 引语（It's lead... I can't touch it）+ 主谓宾（She shook her head slightly, the barest shift from side to side）+ 问句（What did she mean? She couldn't do it? She wouldn't?）+ 主谓宾（Gingerly, I pulled at the opening of her trouser pocket）+ 主谓宾（I could see the rectangular lump in the satin lining）+ 问句（What would happen if I touched lead? Would it burn me? Turn me to dust? Or would my fingers simply fail to grasp it, sliding through like mere air?）+ 主谓宾（I thrust my hand into the pocket）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "The case lay in my hand: a small, dainty box made of rosewood. I blinked, not comprehending. Then I realized—it was Clem's jewelry box. Wood, not lead! Of course! Clem would never keep her sister's shroud in a lead box, denying her access to her own liberty."
 
-**中文理解**：Sam's discovery——"The case lay in my hand: a small, dainty box made of rosewood"、"Then I realized—it was Clem's jewelry box. Wood, not lead!"、"Clem would never keep her sister's shroud in a lead box, denying her access to her own liberty"。Sam's realization。
+**中文理解**：Sam 的发现——"The case lay in my hand: a small, dainty box made of rosewood"。Sam 的醒悟。
 
 **句子结构**：主谓宾（The case lay in my hand: a small, dainty box made of rosewood）+ 主谓宾（I blinked, not comprehending）+ 主谓宾（Then I realized—it was Clem's jewelry box. Wood, not lead!）+ 主谓宾（Of course! Clem would never keep her sister's shroud in a lead box, denying her access to her own liberty）。
 
@@ -139,7 +139,7 @@ start_date: 2026-10-19
 
 > **原句 11:** "'I have it,' I said. 'But this part you must do.' I leaned down close. 'You must take the shroud. I can't.' Her eyes flickered. 'Do this and we are done. We open the portal, and this will all be over. Only one more step, Clementine.' I lifted her hand and put it against my heart. 'Pull. Pull off the shroud.'"
 
-**中文理解**：Sam's instruction——"I have it"、"But this part you must do"、"You must take the shroud. I can't"、"Do this and we are done. We open the portal, and this will all be over. Only one more step, Clementine"、"I lifted her hand and put it against my heart. 'Pull. Pull off the shroud.'"。Sam's instruction。
+**中文理解**：Sam 的指令——"I have it"。Sam 的指令。
 
 **句子结构**：引语（I have it）+ 引语（But this part you must do）+ 主谓宾（I leaned down close）+ 引语（You must take the shroud. I can't）+ 主谓宾（Her eyes flickered）+ 引语（Do this and we are done. We open the portal, and this will all be over. Only one more step, Clementine）+ 主谓宾（I lifted her hand and put it against my heart）+ 引语（Pull. Pull off the shroud）。
 
@@ -151,7 +151,7 @@ start_date: 2026-10-19
 
 > **原句 12:** "I could not let her down."
 
-**中文理解**：Sam's conviction——"I could not let her down"。简短而 decisive，把 Sam's conviction 具象化。
+**中文理解**：Sam's conviction——。简短而 decisive，把 Sam's conviction 具象化。
 
 **句子结构**：主谓宾。极简。
 

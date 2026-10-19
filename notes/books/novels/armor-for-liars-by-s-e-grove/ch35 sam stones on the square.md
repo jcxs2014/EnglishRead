@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "With the benefit of hindsight, I should have stayed with Clementine and Rosetta. But when I saw them leaving Clover Hall in a hired coach, I thought the worst had passed, and so I departed to find Maxwell."
 
-**中文理解**：Sam 的 regret——"With the benefit of hindsight, I should have stayed with Clementine and Rosetta"、"I thought the worst had passed"。Sam's regret。
+**中文理解**：Sam 的 regret——、。Sam's regret。
 
 **句子结构**：时间状语（With the benefit of hindsight）+ 主谓宾（I should have stayed with Clementine and Rosetta）+ 转折（But when I saw them leaving Clover Hall in a hired coach, I thought the worst had passed, and so I departed to find Maxwell）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "It was slow work. And it took me away from Clementine for more than a day, vital time that would, alas, cost me greatly. I had no notion of what was coming."
 
-**中文理解**：Sam 的 realization——"It was slow work"、"It took me away from Clementine for more than a day, vital time that would, alas, cost me greatly"、"I had no notion of what was coming"。Sam's regret。
+**中文理解**：Sam 的 realization——、、。Sam's regret。
 
 **句子结构**：主系表（It was slow work）+ 主谓宾（And it took me away from Clementine for more than a day, vital time that would, alas, cost me greatly）+ 主谓宾（I had no notion of what was coming）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "With a speed I would have envied in life, I dashed to Clem's side and forced upon her the greatest urgency I could. It is Rosetta! I wanted to scream at her. We were wrong, the both of us! They were not after you, they were after HER! Run! Run! Run!"
 
-**中文理解**：Sam's urgency——"With a speed I would have envied in life, I dashed to Clem's side and forced upon her the greatest urgency I could"、"It is Rosetta! I wanted to scream at her. We were wrong, the both of us! They were not after you, they were after HER! Run! Run! Run!"。Sam's desperate warning。
+**中文理解**：Sam 的急迫——"With a speed I would have envied in life, I dashed to Clem's side"。Sam 的急迫警告。
 
 **句子结构**：时间状语（With a speed I would have envied in life）+ 主谓宾（I dashed to Clem's side and forced upon her the greatest urgency I could）+ 引语（It is Rosetta! I wanted to scream at her. We were wrong, the both of us! They were not after you, they were after HER! Run! Run! Run!）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "How had I not understood in time? Of course it would be Rosetta. Simeon had made his vile intentions clear. No doubt he was somewhere nearby now, artfully hidden, ensuring that Rosetta met the terrible end he intended for her."
 
-**中文理解**：Sam's realization——"How had I not understood in time?"、"Of course it would be Rosetta"、"Simeon had made his vile intentions clear"。Sam's regret。
+**中文理解**：Sam 的醒悟——"How had I not understood in time? Of course it would be Rosetta"。Sam 的悔恨。
 
 **句子结构**：问句（How had I not understood in time?）+ 主系表（Of course it would be Rosetta）+ 主谓宾（Simeon had made his vile intentions clear）+ 主谓宾（No doubt he was somewhere nearby now, artfully hidden, ensuring that Rosetta met the terrible end he intended for her）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "At first, Clementine only frowned, perplexed. Then came the piercing sound of a constable's whistle, following by shouting. Clementine broke into a run."
 
-**中文理解**：Clem's realization——"At first, Clementine only frowned, perplexed"、"Then came the piercing sound of a constable's whistle"、"Clementine broke into a run"。Clem's response。
+**中文理解**：Clem 的反应——"At first, Clementine only frowned, perplexed"。Clem 的反应。
 
 **句子结构**：时间状语（At first）+ 主系表（Clementine only frowned, perplexed）+ 时间状语（Then）+ 主谓宾（came the piercing sound of a constable's whistle, following by shouting）+ 主谓宾（Clementine broke into a run）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "She would not survive it. And Clementine hadn't arrived."
 
-**中文理解**：Sam's assessment——"She would not survive it"、"And Clementine hadn't arrived"。Sam's despair。
+**中文理解**：Sam 的评估——"She would not survive it. And Clementine hadn't arrived"。Sam 的绝望。
 
 **句子结构**：主系表（She would not survive it）+ 主谓宾（And Clementine hadn't arrived）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "What could I possibly do for her? I brought myself as near as I could to Rosetta and sent her all my strength. I urged a sense of calm upon her, a calm that would, perhaps, allow her to breathe."
 
-**中文理解**：Sam's attempt——"What could I possibly do for her?"、"I brought myself as near as I could to Rosetta and sent her all my strength"、"I urged a sense of calm upon her"。Sam's helplessness。
+**中文理解**：Sam 的尝试——"What could I possibly do for her?"。Sam 的无助。
 
 **句子结构**：问句（What could I possibly do for her?）+ 主谓宾（I brought myself as near as I could to Rosetta and sent her all my strength）+ 主谓宾（I urged a sense of calm upon her, a calm that would, perhaps, allow her to breathe）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "I couldn't bear to watch her face as she reached the fallen figure and threw herself beside it. She did not scream or cry. She only folded over her sister's back and held her tightly, clutching the limp hand that rested in the dust."
 
-**中文理解**：Clem's grief——"I couldn't bear to watch her face as she reached the fallen figure and threw herself beside it"、"She did not scream or cry. She only folded over her sister's back and held her tightly"。Clem's grief。
+**中文理解**：Clem 的悲痛——"I couldn't bear to watch her face as she reached the fallen figure"。Clem 的悲痛。
 
 **句子结构**：主谓宾（I couldn't bear to watch her face as she reached the fallen figure and threw herself beside it）+ 主谓宾（She did not scream or cry）+ 主谓宾（She only folded over her sister's back and held her tightly, clutching the limp hand that rested in the dust）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "The minutes passed and still she remained that way, even as Maxwell crouched down to speak soothing words to her, and the gathered crowd was held at bay by a ring of constables, and the murmurs of rumor swelled to outrage. Maxwell tried gently to pull her off, but Clementine wouldn't move. It seemed that she would never let go."
 
-**中文理解**：Clem's grief——"The minutes passed and still she remained that way"、"Maxwell tried gently to pull her off, but Clementine wouldn't move"、"It seemed that she would never let go"。Clem's grief。
+**中文理解**：Clem 的悲痛——"The minutes passed and still she remained that way"。Clem 的悲痛。
 
 **句子结构**：主谓宾（The minutes passed and still she remained that way）+ 时间状语（even as Maxwell crouched down to speak soothing words to her, and the gathered crowd was held at bay by a ring of constables, and the murmurs of rumor swelled to outrage）+ 主谓宾（Maxwell tried gently to pull her off, but Clementine wouldn't move）+ 主系表（It seemed that she would never let go）。
 

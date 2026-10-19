@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "I have no wish to describe more of what happened to me, of how I was tricked into doing the Society's bidding. But I fear I must."
 
-**中文理解**：Sam 的 opening——"I have no wish to describe more... But I fear I must"。Sam 的 reluctance 与 necessity。
+**中文理解**：Sam 的 opening——。Sam 的 reluctance 与 necessity。
 
 **句子结构**：主谓宾（I have no wish to describe more of what happened to me）+ 主谓宾（of how I was tricked into doing the Society's bidding）+ 转折（But I fear I must）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "By allowing them to believe that they have scored a deal, when in fact the only thing they have scored is a Pyrrhic victory."
 
-**中文理解**：Cisneros Society 的 method——"By allowing them to believe that they have scored a deal, when in fact the only thing they have scored is a Pyrrhic victory"。这是 Cisneros Society's manipulation。
+**中文理解**：Cisneros Society 的 method——。这是 Cisneros Society's manipulation。
 
 **句子结构**：介词短语（By allowing them to believe that they have scored a deal）+ 时间状语从句（when in fact the only thing they have scored is a Pyrrhic victory）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "I was, in my defense, preoccupied. After that visit home, I began to worry: Could I even become an enchanter without also becoming one of them?"
 
-**中文理解**：Sam 的 worry——"Could I even become an enchanter without also becoming one of them?"。Sam's moral dilemma。
+**中文理解**：Sam 的 worry——。Sam's moral dilemma。
 
 **句子结构**：主系表（I was, in my defense, preoccupied）+ 时间状语（After that visit home）+ 主谓宾（I began to worry）+ 疑问句（Could I even become an enchanter without also becoming one of them?）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "If only I had walked on! His oddness was undeniable, but instead of feeling uneasy I felt intrigued by his friendly smile and the prospect of seeing the precious reliquary."
 
-**中文理解**：Sam 的 regret——"If only I had walked on!"、"instead of feeling uneasy I felt intrigued"。Sam's fatal decision。
+**中文理解**：Sam 的 regret——、。Sam's fatal decision。
 
 **句子结构**：条件句（If only I had walked on!）+ 主谓宾（His oddness was undeniable）+ 转折（but instead of feeling uneasy I felt intrigued by his friendly smile and the prospect of seeing the precious reliquary）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "Juno smiled. 'Professor Mead has come to talk with you, Byron.' / I stared at him. Now this really was odd. Mead had come to talk with me? What about? And if so, why had he ignored me as he arrived? I had never met Mead."
 
-**中文理解**：Juno 的 revelation——"Professor Mead has come to talk with you, Byron"、"Now this really was odd"。Sam's confusion。
+**中文理解**：Juno 的 revelation——、。Sam's confusion。
 
 **句子结构**：引语（Professor Mead has come to talk with you, Byron）+ 主谓宾（I stared at him）+ 主系表（Now this really was odd）+ 问句（Mead had come to talk with me? What about? And if so, why had he ignored me as he arrived? I had never met Mead.）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "Mead smiled. 'The Society has many, many tasks it must undertake to serve its members, and I'm grateful to Hornsby and Juno for realizing that you would be ideal for one of them. You will undertake this task, and, in exchange, you will be permitted to continue your studies at Commonwealth.'"
 
-**中文理解**：Mead 的 offer——"You will undertake this task, and, in exchange, you will be permitted to continue your studies at Commonwealth"。Mead's coercion。
+**中文理解**：Mead 的 offer——。Mead's coercion。
 
 **句子结构**：引语（The Society has many, many tasks...）+ 引语（You will undertake this task, and, in exchange, you will be permitted to continue your studies at Commonwealth）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "'You don't belong at Commonwealth,' Mead said in a conversational tone, 'but if you'd like to continue here, the Society will allow you to do so. I've heard from Professor Sanders that you're the best student he's had in a decade. It would be a shame to abandon your studies.' He smiled, showing worn, yellow teeth. 'The choice is yours.'"
 
-**中文理解**：Mead's threat——"You don't belong at Commonwealth"、"The choice is yours"。Mead's false choice。
+**中文理解**：Mead 的威胁——、。Mead 的虚假选择。
 
 **句子结构**：引语（You don't belong at Commonwealth... but if you'd like to continue here, the Society will allow you to do so）+ 引语（I've heard from Professor Sanders that you're the best student he's had in a decade）+ 引语（The choice is yours）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "'The door before you,' Draken said, 'is a portal to the spirit realm.'"
 
-**中文理解**：Draken's revelation——"The door before you... is a portal to the spirit realm"。这是 portal's location。
+**中文理解**：Draken's revelation——。这是 portal's location。
 
 **句子结构**：引语（The door before you... is a portal to the spirit realm）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "I had no choice in this at all. My choice had already been made the moment I stumbled onto the Commonwealth campus."
 
-**中文理解**：Sam's realization——"I had no choice in this at all"、"My choice had already been made the moment I stumbled onto the Commonwealth campus"。Sam's loss of agency。
+**中文理解**：Sam 的醒悟——、。Sam 失去自主。
 
 **句子结构**：主谓宾（I had no choice in this at all）+ 主谓宾（My choice had already been made the moment I stumbled onto the Commonwealth campus）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "It was a journey I never intended to take. But I chose it. I thought I was buying my liberty, and in truth it was all the contrary. I was only falling into greater and greater debt."
 
-**中文理解**：Sam 的 conclusion——"It was a journey I never intended to take. But I chose it"、"I thought I was buying my liberty, and in truth it was all the contrary"、"I was only falling into greater and greater debt"。
+**中文理解**：Sam 的 conclusion——、、。
 
 **句子结构**：主系表（It was a journey I never intended to take）+ 转折（But I chose it）+ 主谓宾（I thought I was buying my liberty, and in truth it was all the contrary）+ 主谓宾（I was only falling into greater and greater debt）。
 

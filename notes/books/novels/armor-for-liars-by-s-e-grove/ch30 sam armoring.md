@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "My relief at Clementine's triumph did not last long. I doubted very much that the Cisneros Society would abandon its pursuit simply because Clem had managed to outwit them once."
 
-**中文理解**：Sam 的 opening——"My relief at Clementine's triumph did not last long"、"I doubted very much that the Cisneros Society would abandon its pursuit"。Sam's foresight。
+**中文理解**：Sam 的 opening——、。Sam's foresight。
 
 **句子结构**：主谓宾（My relief at Clementine's triumph did not last long）+ 主谓宾（I doubted very much that the Cisneros Society would abandon its pursuit simply because Clem had managed to outwit them once）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "In a flash, I understood. Of course! Clementine had suggested the idea to Livia as she neared campus. She would use actual armor to protect herself from the stones! Ingenious, simple, and effective; I sent Clem a rush of approval."
 
-**中文理解**：Sam 的 realization——"Clementine had suggested the idea to Livia"、"She would use actual armor to protect herself from the stones! Ingenious, simple, and effective"。Sam's admiration。
+**中文理解**：Sam 的 realization——、。Sam's admiration。
 
 **句子结构**：时间状语（In a flash）+ 主谓宾（I understood）+ 主谓宾（Clementine had suggested the idea to Livia as she neared campus）+ 主谓宾（She would use actual armor to protect herself from the stones!）+ 主谓宾（Ingenious, simple, and effective; I sent Clem a rush of approval）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "'Truly, her powers are astonishing. How could she see the future?' / 'Oh no!' Throckmorton scoffed. 'Thews are not prophets. She only saw your thoughts as you neared campus.'"
 
-**中文理解**：Clem 与 Throckmorton 的 dialogue——Clem's amazement at Livia's powers、Throckmorton's explanation "Thews are not prophets. She only saw your thoughts as you neared campus"。
+**中文理解**：Clem 与 Throckmorton 的 dialogue——Clem's amazement at Livia's powers、Throckmorton's explanation 。
 
 **句子结构**：引语（Truly, her powers are astonishing. How could she see the future?）+ 引语（Oh no! Thews are not prophets. She only saw your thoughts as you neared campus）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "I was getting these for you."
 
-**中文理解**：Throckmorton 的 gift——"I was getting these for you"、"Livia told me you were coming"、"It is sometimes still very satisfying to be always one step ahead"。Throckmorton's pleasure。
+**中文理解**：Throckmorton 的 gift——、、。Throckmorton's pleasure。
 
 **句子结构**：引语（I was getting these for you）+ 引语（For me?）+ 引语（Yes, yes. Livia told me you were coming）+ 引语（Aha! It is sometimes still very satisfying to be always one step ahead）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** “Would you like to tell me the rest of the story of Rosetta’s illness?”
 
-**中文理解**：Wister 的 question 与 Clem's response——"I'll tell you the rest of the story of Rosetta's illness?"、"No," Clem said quickly. "Not now"、"It was a momentous event in our lives... I find myself here because of it"。
+**中文理解**：Wister 的 question 与 Clem's response——、 Clem said quickly. 、。
 
 **句子结构**：引语（I'll tell you the rest of the story of Rosetta's illness?）+ 引语（No, Clem said quickly. Not now, she amended, in a softer tone）+ 引语（It was a momentous event in our lives, and one with many repercussions. I find myself here because of it）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "'You may have heard that my given surname is Croix, not Amsel,' she said."
 
-**中文理解**：Wister 的 revelation——"You may have heard that my given surname is Croix, not Amsel"。Wister's backstory。
+**中文理解**：Wister 的 revelation——。Wister's backstory。
 
 **句子结构**：引语（You may have heard that my given surname is Croix, not Amsel）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "I was getting these for you."
 
-**中文理解**：Wister's confession——"I was also self-taught"、"But I failed to secure a spirit thew"。Wister's vulnerability。
+**中文理解**：Wister 的童年故事——"I was exploring in the woods that surrounded my father's estate, and I fell into a sort of narrow cave"。Wister 的童年。
 
 **句子结构**：引语（I was also self-taught）+ 伴随分词短语（leaning forward to rest her elbows on her knees）+ 主谓宾（She fixed Clem with a hard stare）+ 引语（But I failed to secure a spirit thew）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "'I was exploring in the woods that surrounded my father's estate, and I fell into a sort of narrow cave. It was too steep for me to climb out. But I'd brought with me the tinderbox that my mother had always insisted I carry, and I tried to light a fire. No luck—there was nothing to burn. I called and called to no avail. And then darkness fell.'"
 
-**中文理解**：Wister's childhood story——"I fell into a sort of narrow cave"、"I'd brought with me the tinderbox that my mother had always insisted I carry"、"I called and called to no avail"。Wister's survival。
+**中文理解**：Wister 的获救——"I thought I'd be cold, but I wasn't. I felt perfectly comfortable, only anxious and hungry"。Wister 的获救。
 
 **句子结构**：引语（I was exploring in the woods that surrounded my father's estate, and I fell into a sort of narrow cave）+ 引语（It was too steep for me to climb out）+ 引语（But I'd brought with me the tinderbox that my mother had always insisted I carry, and I tried to light a fire）+ 引语（No luck—there was nothing to burn）+ 引语（I called and called to no avail）+ 引语（And then darkness fell）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "'I thought I'd be cold, but I wasn't. I felt perfectly comfortable, only anxious and hungry. In the morning, I heard the search party looking for me, and I called to them. They pulled me out with a rope. My mother was there, desperate and fearful, and she clung to me the entire way back to the house.'"
 
-**中文理解**：Wister's rescue——"I thought I'd be cold, but I wasn't"、"My mother was there, desperate and fearful, and she clung to me the entire way back to the house"。Wister's survival。
+**中文理解**：Wister 的醒悟——"I understood then how her power had protected me in my great moment of peril"。Wister 的醒悟。
 
 **句子结构**：引语（I thought I'd be cold, but I wasn't）+ 引语（I felt perfectly comfortable, only anxious and hungry）+ 引语（In the morning, I heard the search party looking for me, and I called to them）+ 引语（They pulled me out with a rope）+ 引语（My mother was there, desperate and fearful, and she clung to me the entire way back to the house）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "'I understood then how her power had protected me in my great moment of peril, even when she herself couldn't be present. It was as if she had been with me all along. I knew then that I would become an enchanter.'"
 
-**中文理解**：Wister's realization——"I understood then how her power had protected me"、"It was as if she had been with me all along"、"I knew then that I would become an enchanter"。Wister's motivation。
+**中文理解**：Wister 的往事——"For a time I wandered. Well, not at first—at first I was imprisoned by the commonwealth for having practiced enchantment"。Wister 的往事。
 
 **句子结构**：引语（I understood then how her power had protected me in my great moment of peril, even when she herself couldn't be present）+ 引语（It was as if she had been with me all along）+ 引语（I knew then that I would become an enchanter）。
 
@@ -139,7 +139,7 @@ start_date: 2026-10-19
 
 > **原句 11:** "'For a time I wandered. Well, not at first—at first I was imprisoned by the commonwealth for having practiced enchantment. Then, once I'd been freed, the warden recommended I come here, to Keel House.'"
 
-**中文理解**：Wister's backstory——"at first I was imprisoned by the commonwealth for having practiced enchantment"、"the warden recommended I come here, to Keel House"。Wister's imprisonment。
+**中文理解**：Wister 的决定——"I decided I would use it for Keel House. It means we can accept more women into the house"。Wister 的决定。
 
 **句子结构**：引语（For a time I wandered）+ 引语（Well, not at first—at first I was imprisoned by the commonwealth for having practiced enchantment）+ 引语（Then, once I'd been freed, the warden recommended I come here, to Keel House）。
 
@@ -151,7 +151,7 @@ start_date: 2026-10-19
 
 > **原句 12:** "I decided I would use it for Keel House. It means we can accept more women into the house, and we don't worry about the income made by our work."
 
-**中文理解**：Wister's decision——"I decided I would use it for Keel House"、"we can accept more women into the house, and we don't worry about the income made by our work"。Wister's philanthropy。
+**中文理解**：Wister 的决定——她决定把遗产用于 Keel House，让更多女性入住，不必担心收入。
 
 **句子结构**：引语（I decided I would use it for Keel House）+ 引语（It means we can accept more women into the house, and we don't worry about the income made by our work）。
 

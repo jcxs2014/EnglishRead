@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "Clementine could not understand the bargain she had made. I had no doubt that she believed she had scored a victory. Equally, I had no doubt that the Cisneros Society would make her regret she had ever made the bargain in the first place."
 
-**中文理解**：Sam 的 opening——"Clementine could not understand the bargain she had made"、"she believed she had scored a victory"、"the Cisneros Society would make her regret"。Sam 的 foresight。
+**中文理解**：Sam 的 opening——、、。Sam 的 foresight。
 
 **句子结构**：主谓宾（Clementine could not understand the bargain she had made）+ 主谓宾（I had no doubt that she believed she had scored a victory）+ 主谓宾（Equally, I had no doubt that the Cisneros Society would make her regret she had ever made the bargain in the first place）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "'My clients are not, at present, interested in ideas,' Mr. Smythe replied, with what I thought reflected a rather expansive pessimism."
 
-**中文理解**：Smythe 的 response to Walter——"My clients are not, at present, interested in ideas"、"rather expansive pessimism"。Smythe's character。
+**中文理解**：Smythe 的 response to Walter——、。Smythe's character。
 
 **句子结构**：引语（My clients are not, at present, interested in ideas）+ 主谓宾（Mr. Smythe replied, with what I thought reflected a rather expansive pessimism）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "Fortunately, while good lawyers can be efficient and thorough, they are never overly convivial."
 
-**中文理解**：Sam 的 observation——"good lawyers can be efficient and thorough, they are never overly convivial"。Sam's characterization of lawyers。
+**中文理解**：Sam 的 observation——。Sam's characterization of lawyers。
 
 **句子结构**：主系表（Fortunately, while good lawyers can be efficient and thorough, they are never overly convivial）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "With the door firmly closed, she dropped the shawl from her arms. The pinstripe fabric of her sleeves was saturated with blood."
 
-**中文理解**：Clem's injury revealed——"The pinstripe fabric of her sleeves was saturated with blood"。Clem's wounds from paper attack。
+**中文理解**：Clem 的伤情——门 firmly closed，她 dropped the shawl，袖子被 blood 饱和。Clem 的伤情。
 
 **句子结构**：时间状语（With the door firmly closed）+ 主谓宾（she dropped the shawl from her arms）+ 主系表（The pinstripe fabric of her sleeves was saturated with blood）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "TWO DAYS  STONES"
 
-**中文理解**：paper attack 的 message——"TWO DAYS STONES"。这是 Simeon's threat，把 Clem's danger 具象化为 time-limited。
+**中文理解**：paper attack 的 message——。这是 Simeon's threat，把 Clem's danger 具象化为 time-limited。
 
 **句子结构**：名词短语，独立成句。极简。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "She was so determined. So persistent in the face of such formidable obstacles. I then sent her all the admiration I would have pressed into her hand, had I been in the room to clasp it."
 
-**中文理解**：Sam's admiration——"She was so determined. So persistent in the face of such formidable obstacles"、"I then sent her all the admiration I would have pressed into her hand"。Sam's emotional response。
+**中文理解**：Sam 的赞赏——"She was so determined. So persistent in the face of such formidable obstacles"。Clem 的决心。
 
 **句子结构**：主系表（She was so determined）+ 主系表（So persistent in the face of such formidable obstacles）+ 主谓宾（I then sent her all the admiration I would have pressed into her hand, had I been in the room to clasp it）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "Clem sighed. 'Yes. Yes and no, because both of the things I need are still eluding me. I need Mother's lead case, and I need a portal.'"
 
-**中文理解**：Clem's analysis——"both of the things I need are still eluding me. I need Mother's lead case, and I need a portal."。Clem's plan。
+**中文理解**：Clem 的 sigh——"Clem sighed. 'Yes. Yes and no, because both of the things I need are still eluding me. I need Mother's lead case, and I need a portal.'"。Clem 的 sigh。
 
 **句子结构**：主谓宾（Clem sighed）+ 引语（Yes. Yes and no, because both of the things I need are still eluding me）+ 引语（I need Mother's lead case, and I need a portal）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "'I just can't seem to put my thoughts together,' Rosie said anxiously. 'My hands won't do what they are supposed to.'"
 
-**中文理解**：Rosie 的 distress——"I just can't seem to put my thoughts together"、"My hands won't do what they are supposed to"。Rosie's trauma response。
+**中文理解**：Rosie 的 distress——、。Rosie's trauma response。
 
 **句子结构**：引语（I just can't seem to put my thoughts together）+ 引语（My hands won't do what they are supposed to）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "'Dear Miss Quinn, the pleasure of seeing you and meeting your sister,' and so on," she read. "Here is the important part: 'I am hopeful of undertaking a more direct course: that is, to pass along the name of an individual who would be able to assist you in your undertaking.'"
 
-**中文理解**：Walter Ainsley's letter——"I am hopeful of undertaking a more direct course: that is, to pass along the name of an individual who would be able to assist you in your undertaking"。Walter's offer。
+**中文理解**：Walter 的信——"Dear Miss Quinn, the pleasure of seeing you and meeting your sister"、"Here is the important part: 'I am hopeful of undertaking a more direct course: that is, to pass along the name of an individual who would be able to assist you in your undertaking.'"。Walter 的提议。
 
 **句子结构**：引语（Dear Miss Quinn, the pleasure of seeing you and meeting your sister, and so on）+ 引语（Here is the important part: I am hopeful of undertaking a more direct course...）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "'Through my sister Iris, I have learned of the existence of a female enchanter who, more than thirty years ago now, made the only known attempt by a woman to enter the spirit realm. Her name is largely forgotten, but perhaps you have heard of her—Wister Amsel, of Keel House.'"
 
-**中文理解**：Walter's letter——"a female enchanter who, more than thirty years ago now, made the only known attempt by a woman to enter the spirit realm"、"Wister Amsel, of Keel House"。这是 Wister Amsel 的 introduction。
+**中文理解**：Walter's letter——、。这是 Wister Amsel 的 introduction。
 
 **句子结构**：引语（Through my sister Iris, I have learned of the existence of a female enchanter who... made the only known attempt by a woman to enter the spirit realm）+ 引语（Her name is largely forgotten, but perhaps you have heard of her—Wister Amsel, of Keel House）。
 

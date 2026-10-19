@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "With Draken defeated and the portal destroyed, the Cisneros Society members had nothing to fight for at the Manse. They abandoned it to the Sor Juana Alliance, leaving only the bloated serpent and the Trenches behind."
 
-**中文理解**：Sam 的 opening——"With Draken defeated and the portal destroyed, the Cisneros Society members had nothing to fight for at the Manse"、"They abandoned it to the Sor Juana Alliance, leaving only the bloated serpent and the Trenches behind"。Sam's observation。
+**中文理解**：Sam 的 opening——、。Sam's observation。
 
 **句子结构**：时间状语（With Draken defeated and the portal destroyed）+ 主谓宾（the Cisneros Society members had nothing to fight for at the Manse）+ 主谓宾（They abandoned it to the Sor Juana Alliance, leaving only the bloated serpent and the Trenches behind）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "The drive to Commonwealth was calm. The rampaging creatures that Draken had unleashed upon Salem had left a silence in their wake."
 
-**中文理解**：Sam 的 observation——"The drive to Commonwealth was calm"、"The rampaging creatures that Draken had unleashed upon Salem had left a silence in their wake"。Sam's observation。
+**中文理解**：Sam 的 observation——、。Sam's observation。
 
 **句子结构**：主系表（The drive to Commonwealth was calm）+ 主谓宾（The rampaging creatures that Draken had unleashed upon Salem had left a silence in their wake）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "Clementine had been almost silent on our journey, and she grew uncharacteristically agitated as we neared Commonwealth."
 
-**中文理解**：Sam's observation——"Clementine had been almost silent on our journey, and she grew uncharacteristically agitated as we neared Commonwealth"。Sam's observation。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主谓宾（Clementine had been almost silent on our journey）+ 主谓宾（and she grew uncharacteristically agitated as we neared Commonwealth）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "But whose thew is it? I know of no enchanter who has a male thew."
 
-**中文理解**：Throckmorton 与 Clem 的 dialogue——"But whose thew is it? I know of no enchanter who has a male thew"、"Good afternoon, Professor Throckmorton. It is"、"Precisely... Just as you say. A man"。Throckmorton's confusion。
+**中文理解**：Throckmorton 与 Clem 的 dialogue——、、。Throckmorton's confusion。
 
 **句子结构**：引语（But whose thew is it? I know of no enchanter who has a male thew）+ 引语（Good afternoon, Professor Throckmorton. It is）+ 引语（Precisely... Just as you say. A man）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "'You bound this spirit to yourself? You? So young? But how? And why?' He was so astounded by his own questions that he actually rose several inches from his chair, like a balloon drifting free. Then he collapsed back down in the chair, overcome."
 
-**中文理解**：Throckmorton 的 astonishment——"You bound this spirit to yourself? You? So young? But how? And why?"、"He was so astounded by his own questions that he actually rose several inches from his chair, like a balloon drifting free"。Throckmorton's astonishment。
+**中文理解**：Throckmorton 的 astonishment——、。Throckmorton's astonishment。
 
 **句子结构**：引语（You bound this spirit to yourself? You? So young? But how? And why?）+ 主谓宾（He was so astounded by his own questions that he actually rose several inches from his chair, like a balloon drifting free）+ 主谓宾（Then he collapsed back down in the chair, overcome）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "'Ah! Interesting questions.' Clem held up a hand to enumerate her replies. 'How? Because I am not a member of the Cisneros Society'—Throckmorton's eyes popped at the mention of this august body—'I accomplished it the traditional way. By traveling into the realm. Why? For many reasons, but among them, because Sam knows as well as I do the crimes committed by the Cisneros Society. Now, thanks to Sam, we know how your thew was acquired.'"
 
-**中文理解**：Clem 的 explanation——"Ah! Interesting questions"、"How? Because I am not a member of the Cisneros Society... I accomplished it the traditional way. By traveling into the realm"、"Why? For many reasons, but among them, because Sam knows as well as I do the crimes committed by the Cisneros Society. Now, thanks to Sam, we know how your thew was acquired"。
+**中文理解**：Clem 的 explanation——、、。
 
 **句子结构**：引语（Ah! Interesting questions）+ 主谓宾（Clem held up a hand to enumerate her replies）+ 引语（How? Because I am not a member of the Cisneros Society... I accomplished it the traditional way. By traveling into the realm）+ 引语（Why? For many reasons, but among them, because Sam knows as well as I do the crimes committed by the Cisneros Society. Now, thanks to Sam, we know how your thew was acquired）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "'So one act of coercion justifies another? Justifies two others?' Clem reached into her jacket pocket and withdrew a small lead case about the size of a flask. It was the case Vera had delivered to Keel House."
 
-**中文理解**：Throckmorton 的 question——"So one act of coercion justifies another? Justifies two others?"、"Clem reached into her jacket pocket and withdrew a small lead case about the size of a flask. It was the case Vera had delivered to Keel House"。
+**中文理解**：Throckmorton 的 question——、。
 
 **句子结构**：引语（So one act of coercion justifies another? Justifies two others?）+ 主谓宾（Clem reached into her jacket pocket and withdrew a small lead case about the size of a flask）+ 主系表（It was the case Vera had delivered to Keel House）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "That spirit was not yours to take."
 
-**中文理解**：Clem 的 explanation——"You have been kind to me"、"Which is why we have bothered to come here at all"、"You should know that Sam has just transformed Karl Draken into a serpent"、"But the fact remains that several years ago, you allowed a young man to travel into the realm on your behalf and find a spirit for you. That spirit was not yours to take. Not only because you didn't find her yourself, but because her life was stolen by Draken. She must be set free."。
+**中文理解**：Clem 的 explanation——、、、。
 
 **句子结构**：引语（You have been kind to me）+ 引语（Which is why we have bothered to come here at all）+ 引语（You should know that Sam has just transformed Karl Draken into a serpent）+ 引语（But the fact remains that several years ago, you allowed a young man to travel into the realm on your behalf and find a spirit for you. That spirit was not yours to take. Not only because you didn't find her yourself, but because her life was stolen by Draken. She must be set free.）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "'Take it. Take the shroud,' he said, waving his hand. He did not look defeated. Somehow, despite what he had just confessed and despite the fact that Livia did not need his permission to leave, he looked magnanimous, as if he had just bestowed upon her a great favor."
 
-**中文理解**：Throckmorton 的 response——"'Take it. Take the shroud,' he said, waving his hand"、"He did not look defeated"、"Somehow, despite what he had just confessed and despite the fact that Livia did not need his permission to leave, he looked magnanimous, as if he had just bestowed upon her a great favor"。
+**中文理解**：Throckmorton 的 response——、、。
 
 **句子结构**：引语（Take it. Take the shroud）+ 说话标签（he said, waving his hand）+ 主系表（He did not look defeated）+ 主系表（Somehow, despite what he had just confessed and despite the fact that Livia did not need his permission to leave, he looked magnanimous, as if he had just bestowed upon her a great favor）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "There, there," Livia said. Her voice was soft and soothing. "We are together now at last. You've done it, my brave, dear Clem."
 
-**中文理解**：Livia 的 response——"There, there"、"We are together now at last"、"You've done it, my brave, dear Clem"。Livia's response。
+**中文理解**：Livia 的 response——、、。Livia's response。
 
 **句子结构**：引语（There, there）+ 说话标签（Livia said）+ 主系表（Her voice was soft and soothing）+ 引语（We are together now at last. You've done it, my brave, dear Clem）。
 
@@ -139,7 +139,7 @@ start_date: 2026-10-19
 
 > **原句 11:** "Clem's eyes, squeezed shut, ran with tears. She buried her face in Livia's shoulder, and she shuddered with the force of a sob. 'I thought I'd never get you back,' she whispered."
 
-**中文理解**：Clem's response——"Clem's eyes, squeezed shut, ran with tears"、"She buried her face in Livia's shoulder, and she shuddered with the force of a sob"、"'I thought I'd never get you back,' she whispered"。Clem's response。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主谓宾（Clem's eyes, squeezed shut, ran with tears）+ 主谓宾（She buried her face in Livia's shoulder, and she shuddered with the force of a sob）+ 引语（I thought I'd never get you back）+ 说话标签（she whispered）。
 
@@ -151,7 +151,7 @@ start_date: 2026-10-19
 
 > **原句 12:** "In her lifetime, Professor Throckmorton, Livia's name was Lydia Quiñones, or Lydia Quinn. She is Clem's mother."
 
-**中文理解**：Sam's revelation——"In her lifetime, Professor Throckmorton, Livia's name was Lydia Quiñones, or Lydia Quinn. She is Clem's mother"。Sam's revelation。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主系表（In her lifetime, Professor Throckmorton, Livia's name was Lydia Quiñones, or Lydia Quinn）+ 主系表（She is Clem's mother）。
 

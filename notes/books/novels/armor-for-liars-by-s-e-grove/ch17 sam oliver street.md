@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "With the benefit of hindsight, of course, I could see what a fool I'd been for trying to pretend I was something other than myself. And so, while I had no wish to see Clementine foiled in her efforts, some part of me was glad she'd been unmasked."
 
-**中文理解**：Sam 的 opening——"what a fool I'd been for trying to pretend I was something other than myself"、"glad she'd been unmasked"。Sam 对 Clem 的 "unmasking" 的 mixed feeling。
+**中文理解**：Sam 的 opening——、。Sam 对 Clem 的 的 mixed feeling。
 
 **句子结构**：时间状语（With the benefit of hindsight, of course）+ 主谓宾（I could see what a fool I'd been...）+ 转折（And so, while I had no wish... some part of me was glad she'd been unmasked）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "Clem stopped. She spun her cloak into the air overhead, saying 'Endurecer,' and as it whirled, the fabric hardened, becoming a long, rigid shield. She held it before her defensively."
 
-**中文理解**：Clem 的 defense——"Endurecer"、"fabric hardened, becoming a long, rigid shield"。这是 Clem's enchantment。
+**中文理解**：Clem 的 defense——、。这是 Clem's enchantment。
 
 **句子结构**：主谓宾（Clem stopped）+ 主谓宾（She spun her cloak into the air overhead, saying 'Endurecer'）+ 时间状语从句（as it whirled, the fabric hardened, becoming a long, rigid shield）+ 主谓宾（She held it before her defensively）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "'Don't be ridiculous,' the boy said. He turned away, sighing, and then Cassandra stood in his place. 'You can put that down,' she said dismissively."
 
-**中文理解**：Cassandra 的 appearance——"the boy" transforms into Cassandra。这是 Cassandra's shape-shifting。
+**中文理解**：Cassandra 的 appearance—— transforms into Cassandra。这是 Cassandra's shape-shifting。
 
 **句子结构**：引语（Don't be ridiculous）+ 主谓宾（He turned away, sighing）+ 主谓宾（and then Cassandra stood in his place）+ 引语（You can put that down）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "'I'm here to tell you that I did you a kindness.' / 'Forgive me if I'm unable to see how. You revealed me.' / 'To protect you.'"
 
-**中文理解**：Cassandra 与 Clem 的 dialogue——"I did you a kindness"、"You revealed me"、"To protect you"。这是 Cassandra's justification。
+**中文理解**：Cassandra 与 Clem 的 dialogue——、、。这是 Cassandra's justification。
 
 **句子结构**：三个引语连用，形成 dialogue。"To protect you"简短而 decisive。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "'The stones will come for you.'"
 
-**中文理解**：Cassandra 的 warning——"The stones will come for you"。简短而 ominous，把 Clem's danger 具象化。
+**中文理解**：Cassandra 的 warning——。简短而 ominous，把 Clem's danger 具象化。
 
 **句子结构**：主谓宾。极简。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "'Take this.' Cassandra swept close to Clem and placed a small, gray lump in her palm. 'For your armor,' she said. Abruptly, she gripped her chest and gasped, seized by a sudden pain. 'I must go,' she whispered. 'He calls me back.'"
 
-**中文理解**：Cassandra 给 Clem gray lump——"Take this"、"For your armor"、"He calls me back"。这是 Cassandra's gift 与 departure。
+**中文理解**：Cassandra 给 Clem gray lump——、、。这是 Cassandra's gift 与 departure。
 
 **句子结构**：引语（Take this）+ 主谓宾（Cassandra swept close to Clem and placed a small, gray lump in her palm）+ 引语（For your armor）+ 主谓宾（she gripped her chest and gasped, seized by a sudden pain）+ 引语（I must go / He calls me back）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "I hoped fervently that the strange gift from Cassandra would indeed provide some protection, but as yet I couldn't see how."
 
-**中文理解**：Sam 的 hope——"I hoped fervently that the strange gift from Cassandra would indeed provide some protection, but as yet I couldn't see how"。Sam 的 uncertainty。
+**中文理解**：Sam 的 hope——。Sam 的 uncertainty。
 
 **句子结构**：主谓宾（I hoped fervently that the strange gift from Cassandra would indeed provide some protection）+ 转折（but as yet I couldn't see how）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "They were sisters. I could see this now, the clear resemblance in their wide brown eyes, arched brows, and slightly long faces."
 
-**中文理解**：Sam 的 discovery——"They were sisters"、"clear resemblance"。Sam 的 observation of Clem/Rosie's relation。
+**中文理解**：Sam 的 discovery——、。Sam 的 observation of Clem/Rosie's relation。
 
 **句子结构**：主系表（They were sisters）+ 主谓宾（I could see this now, the clear resemblance in their wide brown eyes, arched brows, and slightly long faces）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "She also warned me of something. She said the stones would come for me."
 
-**中文理解**：Clem/Rosie 的 dialogue——"What a devil!"、"I wish she'd explained herself more"。这是 Clem/Rosie 的 reaction to Cassandra's warning。
+**中文理解**：Clem/Rosie 的 dialogue——、。这是 Clem/Rosie 的 reaction to Cassandra's warning。
 
 **句子结构**：主谓宾（Clem sat back, chewing）+ 引语（What a devil!）+ 主谓宾（Rosie replied, still looking worried）+ 引语（I wish she'd explained herself more）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "And suddenly I saw it. That face. That face. I stared at the painting, wondering if it could be mere uncanny resemblance. But no, of course it could not be. Their features were unmistakably identical. The woman in the painting, Clem and Rosie's mother, was the same woman I'd seen two days earlier in a messy office at Commonwealth. She was Livia, Professor Throckmorton's spirit thew."
 
-**中文理解**：Sam 的 revelation——"That face. That face."、"She was Livia, Professor Throckmorton's spirit thew"。这是 Sam 的 discovery of Lydia Quinn = Livia。
+**中文理解**：Sam 的 revelation——、。这是 Sam 的 discovery of Lydia Quinn = Livia。
 
 **句子结构**：主谓宾（And suddenly I saw it）+ 重复（That face. That face.）+ 主谓宾（I stared at the painting, wondering...）+ 转折（But no, of course it could not be）+ 主系表（Their features were unmistakably identical）+ 主系表（The woman in the painting... was the same woman I'd seen two days earlier...）+ 主系表（She was Livia, Professor Throckmorton's spirit thew）。
 

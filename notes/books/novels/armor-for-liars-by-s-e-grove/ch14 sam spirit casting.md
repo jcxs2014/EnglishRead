@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "It is possible to guard one's thoughts from the uninvited gaze of a spirit thew, and no enchantment is required to do so. One requires only deliberate focus on a neutral object or subject."
 
-**中文理解**：epigraph 定义 guarding thoughts from thew——"deliberate focus on a neutral object or subject"。这是 Sam 无法 read Quinn thoughts 的原因。
+**中文理解**：epigraph 定义 guarding thoughts from thew——。这是 Sam 无法 read Quinn thoughts 的原因。
 
 **句子结构**：主系表（It is possible to guard one's thoughts...）+ 主谓宾（One requires only deliberate focus...）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "It was clear to me that the words scored onto Quinn's back were only a first warning. Simeon, and the larger Society around him, would not stop at a few malicious scratches."
 
-**中文理解**：Sam 的 assessment——"first warning"、"would not stop at a few malicious scratches"。Sam 的 foresight。
+**中文理解**：Sam 的 assessment——、。Sam 的 foresight。
 
 **句子结构**：主系表（It was clear to me that the words... were only a first warning）+ 主谓宾（Simeon, and the larger Society around him, would not stop at a few malicious scratches）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "Whatever the reason, her assistance made it possible for Quinn to pay the warning less attention than he should have."
 
-**中文理解**：Livia's assistance 使 Quinn "pay the warning less attention than he should have"。Sam 的 critique of Quinn's complacency。
+**中文理解**：Livia's assistance 使 Quinn 。Sam 的 critique of Quinn's complacency。
 
 **句子结构**：主谓宾（her assistance made it possible for Quinn to pay the warning less attention than he should have）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "Spirit Casting is taught by the venerable Professor Selwyn Mead. His spirit thew, an ancient one by the name of Cassandra, was said to be as lovely as she was powerful."
 
-**中文理解**：Mead 与 Cassandra 的介绍——"venerable Professor"、"as lovely as she was powerful"。这是 Mead/Cassandra 的 reputation。
+**中文理解**：Mead 与 Cassandra 的介绍——、。这是 Mead/Cassandra 的 reputation。
 
 **句子结构**：主系表（Spirit Casting is taught by the venerable Professor Selwyn Mead）+ 主系表（His spirit thew... was said to be as lovely as she was powerful）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "'Spirit Casting,' Mead said, looking at his papers again as if to confirm the veracity of the statement, 'is the practice of casting power through a spirit thew. It is the foundation of advanced enchantment, which is, needless to say, impossible to practice without a spirit thew.'"
 
-**中文理解**：Mead 定义 Spirit Casting——"casting power through a spirit thew"、"foundation of advanced enchantment"、"impossible to practice without a spirit thew"。
+**中文理解**：Mead 定义 Spirit Casting——、、。
 
 **句子结构**：引语（Spirit Casting... is the practice of casting power through a spirit thew）+ 引语（It is the foundation of advanced enchantment...）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "Cassandra began turning away slowly from the room, as if she had finally lost all interest in its occupants, until her back was to the students. And then she continued turning, slowly, as her aspect altered gradually from head to toe. When she had completed the slow twirl, Laurence Fishbane, founder of Commonwealth University, stood in her place."
 
-**中文理解**：Cassandra 的 shape-shifting 演示——"as if she had finally lost all interest"、"aspect altered gradually from head to toe"、"Laurence Fishbane... stood in her place"。
+**中文理解**：Cassandra 的 shape-shifting 演示——、、。
 
 **句子结构**：主谓宾（Cassandra began turning away slowly...）+ 并列分句（And then she continued turning, slowly, as her aspect altered...）+ 时间状语从句（When she had completed the slow twirl, Laurence Fishbane... stood in her place）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "Mead indulged in a quiet chuckle. 'Very apropos, Cassandra. And very convincing,' he said to the students, 'as you can see. A talented and experienced thew, such as Cassandra, can effect a transformation so persuasive that it even deceives other thews.'"
 
-**中文理解**：Mead 的 commentary——"Very apropos, Cassandra"、"A talented and experienced thew... can effect a transformation so persuasive that it even deceives other thews"。
+**中文理解**：Mead 的 commentary——、。
 
 **句子结构**：主谓宾（Mead indulged in a quiet chuckle）+ 引语（Very apropos, Cassandra. And very convincing...）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "She lifted her arm slowly and held her hand out, palm open, facing downward; she might have been taking the pulse of some invisible being who lay before her."
 
-**中文理解**：Cassandra 的 reading——"She lifted her arm slowly and held her hand out, palm open, facing downward"、"taking the pulse of some invisible being"。这是 Cassandra 的 perception demonstration。
+**中文理解**：Cassandra 的 reading——、。这是 Cassandra 的 perception demonstration。
 
 **句子结构**：主谓宾（She lifted her arm slowly and held her hand out）+ 伴随分词短语（palm open, facing downward）+ 比喻（she might have been taking the pulse of some invisible being who lay before her）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "Her voice was slow, ponderous. 'There is one person in this room who spent the whole of last night at his father's sickbed.' Her hand shifted slightly in a balletic gesture, and her eyes flickered. 'There is another who dove, last spring, into the cold waters of the Charles to save a drowning man.' She paused. The room was utterly silent. 'Another has a stain upon his heart; he wishes the death of his brother.'"
 
-**中文理解**：Cassandra 的 observations——"There is one person..."、"There is another..."、"Another has a stain upon his heart"。这是 Cassandra's perception demonstration。
+**中文理解**：Cassandra 的 observations——、、。这是 Cassandra's perception demonstration。
 
 **句子结构**：主系表（Her voice was slow, ponderous）+ 三个引语连用 + 伴随分词短语（Her hand shifted slightly in a balletic gesture, and her eyes flickered）+ 主系表（The room was utterly silent）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "Cassandra's gaze shifted again, and she seemed to look toward the back of the room. 'And yet another does not belong here.' Her lovely bare arm and delicate finger pointed at Clem Quinn. 'That one, at the very back,' she said, her voice cool, imperious, and certain, 'is not a man at all. She is a woman.'"
 
-**中文理解**：Cassandra 的 revelation——"And yet another does not belong here"、"is not a man at all. She is a woman"。这是 Clem 的 exposure。
+**中文理解**：Cassandra 的 revelation——、。这是 Clem 的 exposure。
 
 **句子结构**：主谓宾（Cassandra's gaze shifted again）+ 主谓宾（and she seemed to look toward the back of the room）+ 引语（And yet another does not belong here）+ 主谓宾（Her lovely bare arm and delicate finger pointed at Clem Quinn）+ 引语（That one, at the very back... is not a man at all. She is a woman）。
 

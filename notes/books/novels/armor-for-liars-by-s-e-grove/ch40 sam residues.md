@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "We tumbled into Keel House, and I closed the door to the spirit realm behind us: shutting out the Oarings and the scree; the aimless, endless drifting; the vast, yawning sense that my soul was starving for sustenance it would never receive. They were all behind me now."
 
-**中文理解**：Sam 的 opening——"We tumbled into Keel House, and I closed the door to the spirit realm behind us"、"shutting out the Oarings and the scree; the aimless, endless drifting; the vast, yawning sense that my soul was starving for sustenance it would never receive"。Sam's relief。
+**中文理解**：Sam 的 opening——、。Sam's relief。
 
 **句子结构**：主谓宾（We tumbled into Keel House）+ 主谓宾（and I closed the door to the spirit realm behind us）+ 伴随分词短语（shutting out the Oarings and the scree; the aimless, endless drifting; the vast, yawning sense that my soul was starving for sustenance it would never receive）+ 主系表（They were all behind me now）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "What a wonder, to feel thoughts! As I looked at Clem, a swirl of impressions appeared to me effortlessly, as clearly as if she were speaking them aloud: stones, more stones; a terrible sense of cold; desperation and horror."
 
-**中文理解**：Sam's discovery——"What a wonder, to feel thoughts!"、"a swirl of impressions appeared to me effortlessly, as clearly as if she were speaking them aloud: stones, more stones; a terrible sense of cold; desperation and horror"。Sam's thew power。
+**中文理解**：Sam 的发现——"What a wonder, to feel thoughts!"。Sam 的 thew 之力。
 
 **句子结构**：主系表（What a wonder, to feel thoughts!）+ 主谓宾（As I looked at Clem, a swirl of impressions appeared to me effortlessly, as clearly as if she were speaking them aloud）+ 同位语（stones, more stones; a terrible sense of cold; desperation and horror）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "I found that I was kneeling by the side of the bed, and my hand rested on Clem's tousled hair. The others had drawn back and were watching me."
 
-**中文理解**：Sam's action——"I found that I was kneeling by the side of the bed, and my hand rested on Clem's tousled hair"、"The others had drawn back and were watching me"。Sam's unconscious action。
+**中文理解**：Sam 的行动——"I found that I was kneeling by the side of the bed"。Sam 的无意识行动。
 
 **句子结构**：主谓宾（I found that I was kneeling by the side of the bed, and my hand rested on Clem's tousled hair）+ 主谓宾（The others had drawn back and were watching me）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "As I turned to look at them, I realized that their thoughts were also there, utterly plain to me, if I only focused my attention purposefully upon them."
 
-**中文理解**：Sam's discovery——"their thoughts were also there, utterly plain to me, if I only focused my attention purposefully upon them"。Sam's thew power。
+**中文理解**：Sam 的发现——"As I turned to look at them, I realized that their thoughts were also there"。Sam 的 thew 之力。
 
 **句子结构**：时间状语从句（As I turned to look at them）+ 主谓宾（I realized that their thoughts were also there, utterly plain to me, if I only focused my attention purposefully upon them）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "I was"
 
-**中文理解**：Sam 对 Maxwell 的 observation——"I was long accustomed to how his eyes bored into things, pensive and thoughtful"、"it's possible he seemed more menacing than observant"。Sam's perspective of Maxwell。
+**中文理解**：Sam 对 Maxwell 的 observation——、。Sam's perspective of Maxwell。
 
 **句子结构**：主谓宾（I was long accustomed to how his eyes bored into things, pensive and thoughtful）+ 主系表（but it's possible he seemed more menacing than observant）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "I felt no exhaustion or physical strain, no hunger or sleepiness; I didn't even feel the discomfort in my knees that would naturally arise from kneeling beside the bed for long stretches of time."
 
-**中文理解**：Sam's discovery——"I felt no exhaustion or physical strain, no hunger or sleepiness; I didn't even feel the discomfort in my knees"。Sam's thew body。
+**中文理解**：Sam 的发现——"I felt no exhaustion or physical strain"。Sam 的 thew 之体。
 
 **句子结构**：主谓宾（I felt no exhaustion or physical strain, no hunger or sleepiness）+ 主谓宾（I didn't even feel the discomfort in my knees that would naturally arise from kneeling beside the bed for long stretches of time）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "The Sor Juana Alliance was created centuries ago, not by Sor Juana Inés de la Cruz herself, but by others who practiced with her and wished to honor her memory."
 
-**中文理解**：Wister's explanation——"The Sor Juana Alliance was created centuries ago, not by Sor Juana Inés de la Cruz herself, but by others who practiced with her and wished to honor her memory"。Sor Juana Alliance's origin。
+**中文理解**：Wister 的解释——"The Sor Juana Alliance was created centuries ago"。Sor Juana Alliance 的起源。
 
 **句子结构**：主系表（The Sor Juana Alliance was created centuries ago, not by Sor Juana Inés de la Cruz herself, but by others who practiced with her and wished to honor her memory）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "I've learned a great deal about the realm during my travels. I've learned about the Weer and the wall, the Oarings that travel overhead, and the scree. But all the spirits who inhabit the outer ring between the wall and the first isle know almost nothing of what exists beyond the first isle."
 
-**中文理解**：Wister's knowledge——"I've learned a great deal about the realm during my travels"、"I've learned about the Weer and the wall, the Oarings that travel overhead, and the scree"、"But all the spirits who inhabit the outer ring between the wall and the first isle know almost nothing of what exists beyond the first isle"。
+**中文理解**：Wister 的知识——"I've learned a great deal about the realm during my travels"。Wister 的知识。
 
 **句子结构**：主谓宾（I've learned a great deal about the realm during my travels）+ 主谓宾（I've learned about the Weer and the wall, the Oarings that travel overhead, and the scree）+ 主谓宾（But all the spirits who inhabit the outer ring between the wall and the first isle know almost nothing of what exists beyond the first isle）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "Roy Marcel, of Port-au-Prince, known in Massachusetts as Constable Roy Maxwell. I've served the alliance since I was sixteen, and I've been an agent in Greater Boston for the last three years. I answer to Wister Amsel, the head of the Massachusetts chapter."
 
-**中文理解**：Maxwell's revelation——"Roy Marcel, of Port-au-Prince, known in Massachusetts as Constable Roy Maxwell"、"I've served the alliance since I was sixteen"、"I've been an agent in Greater Boston for the last three years"、"I answer to Wister Amsel, the head of the Massachusetts chapter"。
+**中文理解**：Maxwell 的揭露——"Roy Marcel, of Port-au-Prince, known in Massachusetts as Constable Roy Maxwell"。Maxwell 的身份。
 
 **句子结构**：主系表（Roy Marcel, of Port-au-Prince, known in Massachusetts as Constable Roy Maxwell）+ 主谓宾（I've served the alliance since I was sixteen）+ 主谓宾（and I've been an agent in Greater Boston for the last three years）+ 主谓宾（I answer to Wister Amsel, the head of the Massachusetts chapter）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "Perhaps I can still be of assistance in my new guise."
 
-**中文理解**：Sam's offer——"Perhaps I can still be of assistance in my new guise"。简短而 decisive，把 Sam's offer 具象化。
+**中文理解**：Sam's offer——。简短而 decisive，把 Sam's offer 具象化。
 
 **句子结构**：主谓宾。极简。
 

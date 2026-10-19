@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "It cannot be avoided. I have no desire to dwell on these memories, but you must hear what they did. You have seen what they did to Rosetta, and you will hear what they did to me."
 
-**中文理解**：Sam 的 opening——"I have no desire to dwell on these memories, but you must hear what they did"、"You have seen what they did to Rosetta, and you will hear what they did to me"。Sam's narrative purpose。
+**中文理解**：Sam 的 opening——、。Sam's narrative purpose。
 
 **句子结构**：主谓宾（It cannot be avoided）+ 主谓宾（I have no desire to dwell on these memories, but you must hear what they did）+ 主谓宾（You have seen what they did to Rosetta, and you will hear what they did to me）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "Perhaps the only surprise is that I lasted as long as I did. All through that winter, Corbin and the other spirits kept me alive in the realm, over and over again."
 
-**中文理解**：Sam's reflection——"Perhaps the only surprise is that I lasted as long as I did"、"Corbin and the other spirits kept me alive in the realm, over and over again"。Sam's survival。
+**中文理解**：Sam 的反思——"Perhaps the only surprise is that I lasted as long as I did"。Sam 的生存。
 
 **句子结构**：主系表（Perhaps the only surprise is that I lasted as long as I did）+ 主谓宾（All through that winter, Corbin and the other spirits kept me alive in the realm, over and over again）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "Evil is merely the incapacity to see and imagine how one's own desires destroy others."
 
-**中文理解**：Sam's insight——"Evil is merely the incapacity to see and imagine how one's own desires destroy others"。这是 Sam's moral insight。
+**中文理解**：Sam's insight——。这是 Sam's moral insight。
 
 **句子结构**：主系表（Evil is merely the incapacity to see and imagine how one's own desires destroy others）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "I would not be able to continue my work for Cisneros. Until now, the work had been dangerous, but Corbin had always found spirits who wished to enter the world as thews, and those women had died natural deaths. This was something else altogether."
 
-**中文理解**：Sam's realization——"I would not be able to continue my work for Cisneros"、"This was something else altogether"。Sam's moral line。
+**中文理解**：Sam 的醒悟——"I would not be able to continue my work for Cisneros"。Sam 的道德底线。
 
 **句子结构**：主谓宾（I would not be able to continue my work for Cisneros）+ 时间状语（Until now, the work had been dangerous, but Corbin had always found spirits who wished to enter the world as thews, and those women had died natural deaths）+ 主系表（This was something else altogether）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "I had no"
 
-**中文理解**：Sam's realization——"I had no choice in this at all"、"My choice had already been made the moment I stumbled onto the Commonwealth campus"。Sam's loss of agency。
+**中文理解**：Sam 的醒悟——"I had no choice in this at all"。Sam 失去自主。
 
 **句子结构**：主谓宾（I had no choice in this at all）+ 主谓宾（My choice had already been made the moment I stumbled onto the Commonwealth campus）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "I thought"
 
-**中文理解**：Sam's illusion——"I thought I'd gained the upper hand. I thought I'd scored a bargain"。Sam's false confidence。
+**中文理解**：Sam 的幻觉——"I thought I'd gained the upper hand"。Sam 的虚假自信。
 
 **句子结构**：主谓宾（I thought I'd gained the upper hand）+ 主谓宾（I thought I'd scored a bargain）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "I would"
 
-**中文理解**：Hornsby's threat——"I would so like to see your brother, Cris, and your mother, Camille, flourish, wouldn't you?"。Hornsby's coercion。
+**中文理解**：Hornsby 的威胁——"I would so like to see your brother, Cris, and your mother, Camille, flourish"。Hornsby 的胁迫。
 
 **句子结构**：引语（I would so like to see your brother, Cris, and your mother, Camille, flourish, wouldn't you?）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "I would not be able to continue my work for Cisneros."
 
-**中文理解**：Hornsby's threat——"They've been so fortunate until now"、"and yet you know how seemingly random misfortune can be when it strikes"。Hornsby's coercion。
+**中文理解**：Hornsby 的威胁——"They've been so fortunate until now"。Hornsby 的胁迫。
 
 **句子结构**：引语（They've been so fortunate until now）+ 说话标签（he said, his voice low and oily）+ 引语（and yet you know how seemingly random misfortune can be when it strikes）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "I understood"
 
-**中文理解**：Sam's realization——"I understood then what I'd been too stupid to realize earlier that day in the Camera"、"I had no choice in this at all"。Sam's loss of agency。
+**中文理解**：Sam 的醒悟——"I understood then what I'd been too stupid to realize earlier"。Sam 失去自主。
 
 **句子结构**：主谓宾（I understood then what I'd been too stupid to realize earlier that day in the Camera）+ 主谓宾（I had no choice in this at all）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "'Get back!' I cried. / I pushed Cris aside with all my strength."
 
-**中文理解**：Sam's sacrifice——"Get back!" I cried"、"I pushed Cris aside with all my strength"。Sam's sacrifice for Cris。
+**中文理解**：Sam 的牺牲——"Get back!" I cried。Sam 为 Cris 牺牲。
 
 **句子结构**：引语（Get back!）+ 说话标签（I cried）+ 主谓宾（I pushed Cris aside with all my strength）。
 
@@ -139,7 +139,7 @@ start_date: 2026-10-19
 
 > **原句 11:** "It was my last glimpse of the world as a living man."
 
-**中文理解**：Sam's death——"It was my last glimpse of the world as a living man"。Sam's death。
+**中文理解**：Sam 的死亡——"It was my last glimpse of the world as a living man"。Sam 的死亡。
 
 **句子结构**：主系表（It was my last glimpse of the world as a living man）。
 

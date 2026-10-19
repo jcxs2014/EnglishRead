@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "We are victorious, thank the spirits. I am not found liable for fraud."
 
-**中文理解**：Clem 的 opening——"We are victorious, thank the spirits"、"I am not found liable for fraud"。Clem 的 relief。
+**中文理解**：Clem 的 opening——、。Clem 的 relief。
 
 **句子结构**：主系表（We are victorious）+ 语气词（thank the spirits）+ 主系表（I am not found liable for fraud）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "And, even better, the judge has seen fit (with some gentle provocation) to set me a test. If I 'acquire' a thew by the end of the month, he will encourage Commonwealth to admit women."
 
-**中文理解**：Clem 的 report——"the judge has seen fit (with some gentle provocation) to set me a test"、"If I 'acquire' a thew by the end of the month, he will encourage Commonwealth to admit women"。Clem's task。
+**中文理解**：Clem 的 report——、。Clem's task。
 
 **句子结构**：主谓宾（And, even better, the judge has seen fit (with some gentle provocation) to set me a test）+ 条件句（If I 'acquire' a thew by the end of the month, he will encourage Commonwealth to admit women）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "I recognize the time constraint, but you and I both know what he does not: we are running out of time regardless."
 
-**中文理解**：Clem's analysis——"I recognize the time constraint"、"you and I both know what he does not: we are running out of time regardless"。Clem's urgency。
+**中文理解**：Clem 的分析——"I recognize the time constraint"、"you and I both know what he does not: we are running out of time regardless"。Clem 的紧迫感。
 
 **句子结构**：主谓宾（I recognize the time constraint）+ 转折（but you and I both know what he does not）+ 主谓宾（we are running out of time regardless）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "Even better, a young man I met at Commonwealth, Walter Ainsley, has written, proposing an introduction to Wister Amsel, a woman enchanter who traveled to the realm decades ago. She will know a portal, Mother."
 
-**中文理解**：Clem 的 good news——"Walter Ainsley, has written, proposing an introduction to Wister Amsel"、"a woman enchanter who traveled to the realm decades ago"、"She will know a portal"。
+**中文理解**：Clem 的 good news——、、。
 
 **句子结构**：主谓宾（Even better, a young man I met at Commonwealth, Walter Ainsley, has written, proposing an introduction to Wister Amsel）+ 定语从句（a woman enchanter who traveled to the realm decades ago）+ 主谓宾（She will know a portal, Mother）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "Against all this triumph, there was one mishap. It's possible that Cassandra meant 'armor' in a more prosaic way. At the courthouse, I received another message, this time through pieces of paper folded into sharp points. They wrote across my arms."
 
-**中文理解**：Clem 的 mishap——"Against all this triumph, there was one mishap"、"Cassandra meant 'armor' in a more prosaic way"、"pieces of paper folded into sharp points. They wrote across my arms"。
+**中文理解**：Clem 的 mishap——、、。
 
 **句子结构**：主系表（Against all this triumph, there was one mishap）+ 主系表（It's possible that Cassandra meant 'armor' in a more prosaic way）+ 主谓宾（At the courthouse, I received another message, this time through pieces of paper folded into sharp points）+ 主谓宾（They wrote across my arms）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "Judge Richardson's thew stopped them, so I don't know what the intended message was. As the papers came near me, they uttered a litany of colorful insults, including 'vile vermin' and 'Spanish hag.' This enchanter has more vitriol than strategy, it seems."
 
-**中文理解**：Clem 的 report——"Judge Richardson's thew stopped them"、"they uttered a litany of colorful insults, including 'vile vermin' and 'Spanish hag'"、"This enchanter has more vitriol than strategy"。Clem 的 assessment。
+**中文理解**：Clem 的 report——、、。Clem 的 assessment。
 
 **句子结构**：主谓宾（Judge Richardson's thew stopped them）+ 主谓宾（so I don't know what the intended message was）+ 时间状语从句（As the papers came near me, they uttered a litany of colorful insults, including 'vile vermin' and 'Spanish hag'）+ 主系表（This enchanter has more vitriol than strategy, it seems）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "Whoever he is, he will not stop me. We triumphed today and we will triumph again."
 
-**中文理解**：Clem 的 declaration——"Whoever he is, he will not stop me"、"We triumphed today and we will triumph again"。Clem 的 determination。
+**中文理解**：Clem 的 declaration——、。Clem 的 determination。
 
 **句子结构**：主谓宾（Whoever he is, he will not stop me）+ 主谓宾（We triumphed today and we will triumph again）。
 

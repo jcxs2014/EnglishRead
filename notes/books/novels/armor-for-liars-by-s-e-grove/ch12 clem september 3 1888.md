@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "Do not worry yourself. The cuts are minor."
 
-**中文理解**：Clem 的 reassurance——"The cuts are minor"。把 pine needle attack 的 wounds 具象化为 minor。
+**中文理解**：Clem 的 reassurance——。把 pine needle attack 的 wounds 具象化为 minor。
 
 **句子结构**：祈使句（Do not worry yourself）+ 主系表（The cuts are minor）。简短。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "As the needles lifted, they made a figure in the air: a swan with wings outstretched. The cisne. Its signature couldn't have been clearer. Warning me away."
 
-**中文理解**：cisne warning——"a swan with wings outstretched"、"The cisne"、"Its signature couldn't have been clearer"、"Warning me away"。这是 Cisneros Society 的 threat。
+**中文理解**：cisne warning——、、、。这是 Cisneros Society 的 threat。
 
 **句子结构**：时间状语（As the needles lifted）+ 主谓宾（they made a figure in the air）+ 同位语（a swan with wings outstretched）+ 主系表（The cisne）+ 主系表（Its signature couldn't have been clearer）+ 分词短语（Warning me away）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "I'm certain this is ordinary intimidation, not something more informed. If they knew about you, then Throckmorton would know, too. No, it is mere bullying for being an outsider."
 
-**中文理解**：Clem 的 assessment——"ordinary intimidation"、"mere bullying for being an outsider"。Clem 的 overconfidence。
+**中文理解**：Clem 的 assessment——、。Clem 的 overconfidence。
 
 **句子结构**：主系表（I'm certain this is ordinary intimidation, not something more informed）+ 条件句（If they knew about you, then Throckmorton would know, too）+ 主系表（No, it is mere bullying for being an outsider）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "But it wasn't the only warning I received. Before the swan took shape, I felt an inner pressure, a surge of fear, that I might have mistaken for my own instincts if I ever had such instincts."
 
-**中文理解**：Father's spirit warning——"inner pressure, a surge of fear"、"that I might have mistaken for my own instincts"。Clem 的 "instincts" 与 Father's spirit 的 distinction。
+**中文理解**：Father's spirit warning——、。Clem 的 与 Father's spirit 的 distinction。
 
 **句子结构**：转折（But it wasn't the only warning I received）+ 时间状语（Before the swan took shape）+ 主谓宾（I felt an inner pressure, a surge of fear）+ 定语从句（that I might have mistaken for my own instincts if I ever had such instincts）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "I believe it must be Father, urging caution upon me from the spirit realm. Who else would understand the danger? Who else would care to warn me?"
 
-**中文理解**：Clem 的 belief——"it must be Father"、"urging caution"、"Who else would understand the danger?"。Clem 对 Father's spirit 的 attribution。
+**中文理解**：Clem 的 belief——、、。Clem 对 Father's spirit 的 attribution。
 
 **句子结构**：主谓宾（I believe it must be Father, urging caution upon me from the spirit realm）+ 两个问句（Who else would understand the danger? Who else would care to warn me?）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "He was desperate with worry, so desperate that it made him furious. 'They are villains, Clem,' he shouted, 'consummate villains!'"
 
-**中文理解**：Father's past warning——"desperate with worry"、"so desperate that it made him furious"、"They are villains, consummate villains!"。Father's character。
+**中文理解**：父亲过去的警告——、、。父亲的性格。
 
 **句子结构**：主系表（He was desperate with worry）+ 结果状语从句（so desperate that it made him furious）+ 引语（They are villains, Clem... consummate villains!）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "Now he is warning me again. I hate to think of the worry I cause him, even now. When he should be resting."
 
-**中文理解**：Clem 的 reflection——"Now he is warning me again"、"I hate to think of the worry I cause him"、"When he should be resting"。Clem 的 guilt。
+**中文理解**：Clem 的 reflection——、、。Clem 的 guilt。
 
 **句子结构**：主谓宾（Now he is warning me again）+ 主谓宾（I hate to think of the worry I cause him）+ 时间状语（even now. When he should be resting）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "But it can't be helped. Neither warning can be heeded. Our plans continue."
 
-**中文理解**：Clem 的 resolution——"Neither warning can be heeded"、"Our plans continue"。Clem 的 determination。
+**中文理解**：Clem 的 resolution——、。Clem 的 determination。
 
 **句子结构**：转折（But it can't be helped）+ 主谓宾（Neither warning can be heeded）+ 主谓宾（Our plans continue）。
 

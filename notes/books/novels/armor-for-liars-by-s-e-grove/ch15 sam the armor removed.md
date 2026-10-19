@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "I experienced a burst of satisfaction, followed by a flush of sympathy. I'd suspected for some days now that Clem and I were two of a kind, both of us impostors and dissemblers!"
 
-**中文理解**：Sam 的 opening——"burst of satisfaction, followed by a flush of sympathy"、"two of a kind, both of us impostors and dissemblers"。Sam 对 Clem 的 solidarity。
+**中文理解**：Sam 的 opening——、。Sam 对 Clem 的 solidarity。
 
 **句子结构**：主谓宾（I experienced a burst of satisfaction）+ 并列分句（followed by a flush of sympathy）+ 主谓宾（I'd suspected for some days now that Clem and I were two of a kind, both of us impostors and dissemblers!）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "As she withdrew her hand from the tokens, Quinn's mustache and beard vanished. There was a collective gasp."
 
-**中文理解**：Clem 移除 tokens——"mustache and beard vanished"、"collective gasp"。这是 Clem's transformation 的 moment。
+**中文理解**：Clem 移除 tokens——、。这是 Clem's transformation 的 moment。
 
 **句子结构**：时间状语（As she withdrew her hand from the tokens）+ 主谓宾（Quinn's mustache and beard vanished）+ 主谓宾（There was a collective gasp）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "The greatest change was in Quinn's expression. Gone was the wide-eyed innocent who bounded to class and blinked at insults. I didn't recognize the face that gazed out onto the classroom."
 
-**中文理解**：Clem 的 expression change——"Gone was the wide-eyed innocent"、"I didn't recognize the face"。Sam 的 observation of Clem's true self。
+**中文理解**：Clem 的 expression change——、。Sam 的 observation of Clem's true self。
 
 **句子结构**：主系表（The greatest change was in Quinn's expression）+ 主系表（Gone was the wide-eyed innocent who bounded to class and blinked at insults）+ 主谓宾（I didn't recognize the face that gazed out onto the classroom）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "'I am appalled,' he began coldly, 'to realize that all of Commonwealth has already been subjected to this outrageous deceit for an entire week. You, young lady, are an intruder.'"
 
-**中文理解**：Mead's reaction——"I am appalled"、"outrageous deceit"、"You, young lady, are an intruder"。Mead 的 cold condemnation。
+**中文理解**：Mead's reaction——、、。Mead 的 cold condemnation。
 
 **句子结构**：引语（I am appalled... to realize that...）+ 引语（You, young lady, are an intruder）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "'It may be a public institution, young lady,' Mead said, once the laughter had died down somewhat, 'but it is open and free to all men. I should have thought'—he waved his arm around the room—'that this was obvious.'"
 
-**中文理解**：Mead's justification——"open and free to all men"、"this was obvious"。Mead 的 gendered exclusion。
+**中文理解**：Mead's justification——、。Mead 的 gendered exclusion。
 
 **句子结构**：引语（It may be a public institution, young lady... but it is open and free to all men）+ 引语（I should have thought... that this was obvious）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "'None of the rules of the university forbid the admission of women,' she said, keeping her eyes trained on Mead, 'and the laws of the commonwealth don't bar them either.'"
 
-**中文理解**：Clem's counter——"None of the rules... forbid the admission of women"、"the laws of the commonwealth don't bar them either"。Clem 的 legal argument。
+**中文理解**：Clem's counter——、。Clem 的 legal argument。
 
 **句子结构**：引语（None of the rules of the university forbid the admission of women）+ 引语（and the laws of the commonwealth don't bar them either）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "An ordinary person would have considered the wisdom of giving a false name or not giving a name at all. But Quinn merely paused to wait for silence, as some in the room jeeringly echoed Mead's question. I believe this was the moment when I first felt a spark of affection for Quinn: her chin held high, her eyes hard and unyielding, she was the very picture of resistance."
 
-**中文理解**：Sam 的 admiration——"I first felt a spark of affection for Quinn"、"her chin held high, her eyes hard and unyielding, she was the very picture of resistance"。Sam 的 emotional response。
+**中文理解**：Sam 的 admiration——、。Sam 的 emotional response。
 
 **句子结构**：主谓宾（An ordinary person would have considered...）+ 转折（But Quinn merely paused...）+ 主谓宾（I believe this was the moment when I first felt a spark of affection for Quinn）+ 同位语（her chin held high, her eyes hard and unyielding, she was the very picture of resistance）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "'Clementine Quinn, daughter of Robert and Lydia Quinn, and my cousin.' It was Simeon Trench who had interrupted her in acid tones."
 
-**中文理解**：Simeon 的 interruption——"Clementine Quinn, daughter of Robert and Lydia Quinn, and my cousin"、"in acid tones"。Simeon 揭露 Clem's identity。
+**中文理解**：Simeon 的 interruption——、。Simeon 揭露 Clem's identity。
 
 **句子结构**：引语（Clementine Quinn, daughter of Robert and Lydia Quinn, and my cousin）+ 主谓宾（It was Simeon Trench who had interrupted her in acid tones）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "You will be receiving a summons, Miss Quinn, and I suggest that you do not ignore it."
 
-**中文理解**：Mead's summons——"You will be receiving a summons"、"I suggest that you do not ignore it"。Mead 的 official response。
+**中文理解**：Mead's summons——、。Mead 的 official response。
 
 **句子结构**：主谓宾（You will be receiving a summons）+ 主谓宾（I suggest that you do not ignore it）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "She didn't look back at the building where her studies of enchantment had so unexpectedly come to an end."
 
-**中文理解**：Clem 的 departure——"She didn't look back"、"her studies of enchantment had so unexpectedly come to an end"。Clem 的 composure。
+**中文理解**：Clem 的 departure——、。Clem 的 composure。
 
 **句子结构**：主谓宾（She didn't look back at the building）+ 定语从句（where her studies of enchantment had so unexpectedly come to an end）。
 

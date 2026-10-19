@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "A spirit in the realm can see most of the visible world, one thing at a time. A spirit thew in the world can see most of the invisible world, one thing at a time. But there are limits. A thew cannot perceive thoughts at a distance, and a thew cannot penetrate the thoughts of another thew. There is no omniscience, for spirits are not gods."
 
-**中文理解**：epigraph 定义 spirit/thew 的 perception limits——"one thing at a time"、"cannot perceive thoughts at a distance"、"cannot penetrate the thoughts of another thew"、"spirits are not gods"。
+**中文理解**：epigraph 定义 spirit/thew 的 perception limits——、、、。
 
 **句子结构**：四个并列句，形成 limits 的递进。"one thing at a time"重复，强调 perception 的 sequentiality。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "Some spirits among us focus on a single person for long stretches of time—months, even years. A fixation of fury, or concern, or love, may ensnare one's attention indefinitely."
 
-**中文理解**：Sam 介绍 spirit 的 "fixation"——"focus on a single person for long stretches"、"fixation of fury, or concern, or love"。Sam 自己对 Simeon 的 grudge 与对 Quinn 的 concern。
+**中文理解**：Sam 介绍 spirit 的 ——、。Sam 自己对 Simeon 的 grudge 与对 Quinn 的 concern。
 
 **句子结构**：主谓宾（Some spirits among us focus on a single person...）+ 主系表（A fixation... may ensnare one's attention indefinitely）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "I could see that Quinn was caught in the web, but I couldn't yet see how."
 
-**中文理解**：Sam 的 observation——"Quinn was caught in the web, but I couldn't yet see how"。Sam 的 spider web metaphor。
+**中文理解**：Sam 的 observation——。Sam 的 spider web metaphor。
 
 **句子结构**：主谓宾（I could see that Quinn was caught in the web）+ 转折（but I couldn't yet see how）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "The person who forgives every injury will never be the one to seek justice."
 
-**中文理解**：Sam 的 philosophy——"The person who forgives every injury will never be the one to seek justice"。这是 Sam 的 moral framework。
+**中文理解**：Sam 的 philosophy——。这是 Sam 的 moral framework。
 
 **句子结构**：主系表（The person who forgives every injury will never be the one to seek justice）。主语是 "The person who forgives every injury"。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "The Cisneros Society had many objectives, some more mundane and petty than others, but all were in the greater service of strengthening the Society's hold upon the world around them, and the single most imperative goal toward that end was monopolizing portals."
 
-**中文理解**：Sam 的 analysis——Cisneros Society 的 objectives，"single most imperative goal"是 "monopolizing portals"。这是 Cisneros Society 的 core mission。
+**中文理解**：Sam 的 analysis——Cisneros Society 的 objectives，是 。这是 Cisneros Society 的 core mission。
 
 **句子结构**：主谓宾（The Cisneros Society had many objectives）+ 定语从句（some more mundane and petty than others）+ 并列分句（but all were in the greater service of...）+ 主系表（the single most imperative goal... was monopolizing portals）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "I didn't stay to watch."
 
-**中文理解**：Sam 的 flight——"I didn't stay to watch"。简短而 decisive，把 Sam 的 trauma response 具象化。
+**中文理解**：Sam 的 flight——。简短而 decisive，把 Sam 的 trauma response 具象化。
 
 **句子结构**：主谓宾。极简。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "A thew with no master is terribly dangerous. She has no conscience, no greater intelligence to guide her. She is pure spirit—impulsive, vengeful, driven by all the female emotions that prove such a liability in the living."
 
-**中文理解**：Throckmorton 的 warning——"A thew with no master is terribly dangerous"、"pure spirit—impulsive, vengeful, driven by all the female emotions"。这是 Throckmorton's view of masterless thews。
+**中文理解**：Throckmorton 的 warning——、。这是 Throckmorton's view of masterless thews。
 
 **句子结构**：主系表（A thew with no master is terribly dangerous）+ 主谓宾（She has no conscience, no greater intelligence to guide her）+ 主系表（She is pure spirit—impulsive, vengeful, driven by all the female emotions that prove such a liability in the living）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "No! Remember, they can't manipulate lead. Livia has no way of locating the lead case."
 
-**中文理解**：Throckmorton 的 explanation——"Livia has no way of locating the lead case"、"So it's just as well I don't need it"。这是 Throckmorton's control over Livia。
+**中文理解**：Throckmorton 的 explanation——、。这是 Throckmorton's control over Livia。
 
 **句子结构**：主谓宾（Livia has no way of locating the lead case）+ 主系表（So it's just as well I don't need it）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "This solution should be applied to where the writing did the most damage," Livia said. She reached up with her hand and pointed to her own back. Throckmorton, seated before her, didn't see the gesture."
 
-**中文理解**：Livia's warning to Quinn——"This solution should be applied to where the writing did the most damage"、"She reached up with her hand and pointed to her own back"。Livia communicates Clem's injury to him indirectly。
+**中文理解**：Livia 对 Quinn 的警告——、。Livia 间接向他传达 Clem 的伤情。
 
 **句子结构**：引语（This solution should be applied...）+ 说话标签（Livia said）+ 主谓宾（She reached up with her hand and pointed to her own back）+ 主谓宾（Throckmorton, seated before her, didn't see the gesture）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "The result is that the Providence portal has become a thing of some historical importance. This manuscript won't change the circumstances, of course—I doubt we'll ever get the portal back—but it's worth having. For posterity."
 
-**中文理解**：Throckmorton's explanation of the manuscript——"the Providence portal has become a thing of some historical importance"、"I doubt we'll ever get the portal back"、"worth having. For posterity"。
+**中文理解**：Throckmorton 对手稿的解释——、、。
 
 **句子结构**：主系表（The result is that the Providence portal has become...）+ 主谓宾（This manuscript won't change the circumstances）+ 主谓宾（I doubt we'll ever get the portal back）+ 主系表（it's worth having. For posterity）。
 

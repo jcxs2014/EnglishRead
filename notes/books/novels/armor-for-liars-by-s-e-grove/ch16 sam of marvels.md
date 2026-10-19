@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "This is, assuredly, Clementine's story. But I cannot aptly explain how I came to be part of it without telling you a bit more about myself: enough so that you can appreciate the ties that bound us, me and Clem, even across the great divide of life and death."
 
-**中文理解**：Sam 的 framing——"This is, assuredly, Clementine's story"、"ties that bound us, me and Clem, even across the great divide of life and death"。Sam 把 his story 与 Clem's 连接。
+**中文理解**：Sam 的 framing——、。Sam 把 his story 与 Clem's 连接。
 
 **句子结构**：主系表（This is, assuredly, Clementine's story）+ 转折（But I cannot aptly explain... without telling you a bit more about myself）+ 目的从句（enough so that you can appreciate the ties that bound us...）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "I remember the first time I saw the marvels of enchantment with my own"
 
-**中文理解**：Sam 的 first encounter with enchantment——"marvels of enchantment"、"A child... is far more impressed by showmanship than by the slow, steady work of good care"。Sam 的 child perspective。
+**中文理解**：Sam 的 first encounter with enchantment——、。Sam 的 child perspective。
 
 **句子结构**：主谓宾（I remember the first time I saw the marvels of enchantment with my own eyes）+ 主系表（A child, lamentably, is far more impressed by showmanship than by the slow, steady work of good care）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "I had told my mother and Cris about my ambition, but mostly I cultivated the vision in silence: I saw myself in twenty years, with my own enchantment practice, setting right all the little wrongs of Saddle Street."
 
-**中文理解**：Sam 的 ambition——"setting right all the little wrongs of Saddle Street"、"magical repairman and a fairy godmother"。Sam 的 idealistic vision。
+**中文理解**：Sam 的 ambition——、。Sam 的 idealistic vision。
 
 **句子结构**：主谓宾（I had told my mother and Cris about my ambition）+ 转折（but mostly I cultivated the vision in silence）+ 主谓宾（I saw myself in twenty years...）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "My mother understood the value of appearances. She understood that transparency is a privilege, and a costly one at that. Most people, she said to me many times, have to dissemble. Only the very powerful, the very beautiful, and the very wealthy can truly afford to be who they are."
 
-**中文理解**：Mamá's wisdom——"transparency is a privilege, and a costly one at that"、"Most people... have to dissemble"、"Only the very powerful, the very beautiful, and the very wealthy can truly afford to be who they are"。这是 token 的 moral foundation。
+**中文理解**：Mamá's wisdom——、、。这是 token 的 moral foundation。
 
 **句子结构**：主谓宾（My mother understood the value of appearances）+ 主谓宾（She understood that transparency is a privilege...）+ 引语（Most people... have to dissemble）+ 主系表（Only the very powerful... can truly afford to be who they are）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "I learned, by how Mamá changed with the brooch, that enchantments could be complicated. They bestowed something, but they also took something away."
 
-**中文理解**：Sam 的 insight——"enchantments could be complicated"、"They bestowed something, but they also took something away"。这是 token 的 dual nature。
+**中文理解**：Sam 的 insight——、。这是 token 的 dual nature。
 
 **句子结构**：主谓宾（I learned, by how Mamá changed with the brooch, that enchantments could be complicated）+ 主谓宾（They bestowed something, but they also took something away）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "We become the person we are perceived to be. The people around me beyond Saddle Street perceived me as Byron, a smart, affable boy who would doubtlessly study enchantment one day. Such perceptions are self-fulfilling prophecies."
 
-**中文理解**：Sam 的 reflection——"We become the person we are perceived to be"、"Such perceptions are self-fulfilling prophecies"。这是 token 的 identity effect。
+**中文理解**：Sam 的 reflection——、。这是 token 的 identity effect。
 
 **句子结构**：主谓宾（We become the person we are perceived to be）+ 主谓宾（The people around me beyond Saddle Street perceived me as Byron...）+ 主系表（Such perceptions are self-fulfilling prophecies）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "Byron, it must be admitted, was becoming detestable. And how could that not, also, affect Sam?"
 
-**中文理解**：Sam 的 self-critique——"Byron... was becoming detestable"、"how could that not, also, affect Sam?"。Sam 的 moral awareness。
+**中文理解**：Sam 的 self-critique——、。Sam 的 moral awareness。
 
 **句子结构**：主系表（Byron, it must be admitted, was becoming detestable）+ 疑问句（And how could that not, also, affect Sam?）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "I experienced a change that would be lasting. A sense of peace settled upon me, despite the degrading work and the insult that had made it necessary. I didn't realize it then, but the sensation I felt was the unalloyed pleasure Cris described of being in my own skin."
 
-**中文理解**：Sam's turning point——"A sense of peace settled upon me"、"the unalloyed pleasure Cris described of being in my own skin"。Sam 的 identity shift。
+**中文理解**：Sam's turning point——、。Sam 的 identity shift。
 
 **句子结构**：主谓宾（I experienced a change that would be lasting）+ 主系表（A sense of peace settled upon me）+ 主谓宾（I didn't realize it then, but the sensation I felt was the unalloyed pleasure Cris described of being in my own skin）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "She was wrong, however. I couldn't go back to who I was—not wholly. In particular, I couldn't go back to the selective ignorance granted to me by the tokens that I wore."
 
-**中文理解**：Sam's conclusion——"I couldn't go back to who I was—not wholly"、"I couldn't go back to the selective ignorance granted to me by the tokens"。Sam's identity shift 的 permanence。
+**中文理解**：Sam's conclusion——、。Sam's identity shift 的 permanence。
 
 **句子结构**：主系表（She was wrong, however）+ 主谓宾（I couldn't go back to who I was—not wholly）+ 主谓宾（In particular, I couldn't go back to the selective ignorance granted to me by the tokens that I wore）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "We both required peculiar armor to study at Commonwealth."
 
-**中文理解**：Sam 的 conclusion——"We both required peculiar armor to study at Commonwealth"。Sam 与 Clem 的 "two of a kind"。
+**中文理解**：Sam 的 conclusion——。Sam 与 Clem 的 。
 
 **句子结构**：主谓宾（We both required peculiar armor to study at Commonwealth）。
 

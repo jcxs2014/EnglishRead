@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "The"
 
-**中文理解**：Sam 的 opening——"The knowledge of Livia's identity had overturned my understanding of Clementine's purpose"。Sam's realization。
+**中文理解**：Sam 的 opening——。Sam's realization。
 
 **句子结构**：主谓宾（The knowledge of Livia's identity had overturned my understanding of Clementine's purpose）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "Somehow, between Washington Square and the city morgue, it appears that we've lost Rosetta's body."
 
-**中文理解**：Maxwell 的 bad news——"Somehow, between Washington Square and the city morgue, it appears that we've lost Rosetta's body"。Maxwell's report。
+**中文理解**：Maxwell 的 bad news——。Maxwell's report。
 
 **句子结构**：主谓宾（Somehow, between Washington Square and the city morgue, it appears that we've lost Rosetta's body）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "I will go to the spirit realm tonight."
 
-**中文理解**：Clem 的 declaration——"I will go to the spirit realm tonight"。简短而 decisive，把 Clem's determination 具象化。
+**中文理解**：Clem 的 declaration——。简短而 decisive，把 Clem's determination 具象化。
 
 **句子结构**：主谓宾。极简。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "I will find Rosetta and bring her back."
 
-**中文理解**：Clem 的 purpose——"I will find Rosetta and bring her back"。简短而 decisive，把 Clem's purpose 具象化。
+**中文理解**：Clem 的 purpose——。简短而 decisive，把 Clem's purpose 具象化。
 
 **句子结构**：主谓宾。极简。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "I have nothing else to live for," Clementine said harshly. "The only reason I cared about enchantment was so that I could one day learn the medical enchantment that would allow me to keep Rosetta in good health. That was my only purpose, Wister, do you understand that? My only purpose."
 
-**中文理解**：Clem 的 declaration——"I have nothing else to live for"、"The only reason I cared about enchantment was so that I could one day learn the medical enchantment that would allow me to keep Rosetta in good health"、"That was my only purpose, Wister, do you understand that? My only purpose"。Clem's grief。
+**中文理解**：Clem 的 declaration——、、。Clem's grief。
 
 **句子结构**：引语（I have nothing else to live for）+ 引语（The only reason I cared about enchantment was so that I could one day learn the medical enchantment that would allow me to keep Rosetta in good health）+ 引语（That was my only purpose, Wister, do you understand that? My only purpose）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "We are the Sor Juana Alliance, an ancient and renowned society dedicated to the fair practice of enchantment. I am the head of the Massachusetts chapter. We are everything Cisneros is not, and we have protected this portal from them for years—I won't allow you to imperil that."
 
-**中文理解**：Wister 的 revelation——"We are the Sor Juana Alliance, an ancient and renowned society dedicated to the fair practice of enchantment"、"I am the head of the Massachusetts chapter"、"We are everything Cisneros is not"。Wister's identity。
+**中文理解**：Wister 的 revelation——、、。Wister's identity。
 
 **句子结构**：引语（We are the Sor Juana Alliance, an ancient and renowned society dedicated to the fair practice of enchantment）+ 引语（I am the head of the Massachusetts chapter）+ 引语（We are everything Cisneros is not, and we have protected this portal from them for years—I won't allow you to imperil that）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "On the other side of the portal, I was waiting."
 
-**中文理解**：Sam's closing——"On the other side of the portal, I was waiting. At last"。Sam's presence at portal。
+**中文理解**：Sam 的结语——。Sam 在传送门另一侧的存在。
 
 **句子结构**：主谓宾（On the other side of the portal, I was waiting）+ 语气词（At last）。
 

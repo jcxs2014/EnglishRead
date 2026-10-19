@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "The"
 
-**中文理解**：epigraph 定义 spirit realm outer reaches——"The outer reaches of the realm, closest to the portals, are inhabited only by younger spirits"、"The most ancient spirit I have encountered in the realm had passed into the realm one hundred and twenty years before"。
+**中文理解**：epigraph 定义 spirit realm outer reaches——、。
 
 **句子结构**：主系表（The outer reaches of the realm, closest to the portals, are inhabited only by younger spirits）+ 主系表（The most ancient spirit I have encountered in the realm had passed into the realm one hundred and twenty years before）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "The spirits who dwell between the wall and the first isle are still, in some ways, attached to the living world. They watch the living, they think about the living, and they wait in hope of being contacted by the living."
 
-**中文理解**：epigraph 定义 spirit realm inhabitants——"The spirits who dwell between the wall and the first isle are still, in some ways, attached to the living world"、"They watch the living, they think about the living, and they wait in hope of being contacted by the living"。
+**中文理解**：epigraph 定义 spirit realm inhabitants——、。
 
 **句子结构**：主系表（The spirits who dwell between the wall and the first isle are still, in some ways, attached to the living world）+ 主谓宾（They watch the living, they think about the living, and they wait in hope of being contacted by the living）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "The spirits who dwell between the wall and the first isle are still, in some ways, attached to the living world."
 
-**中文理解**：Sam's observation——"All Wednesday afternoon she lay in bed, eating only a little of the tempting food Gertie brought her"、"when her thoughts were visible to me, I didn't see sorrow for Rosetta. I saw the realm"。Clem's depression。
+**中文理解**：Sam 的观察——"All Wednesday afternoon she lay in bed"。Clem 的抑郁。
 
 **句子结构**：时间状语（All Wednesday afternoon）+ 主谓宾（she lay in bed, eating only a little of the tempting food Gertie brought her）+ 主谓宾（I thought about Wister's counsel, wondering whether grief over Rosetta had destroyed her sense of conviction）+ 转折（But when her thoughts were visible to me, I didn't see sorrow for Rosetta. I saw the realm）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "The spirits who dwell between the wall and the first isle are still, in some ways, attached to the living world."
 
-**中文理解**：Wister's counsel——"Neither of you is ready for that"、"We're still here, for the work of the living world is dear to us, and urgent"、"This is where we belong—you as well, Sam"。Wister's counsel。
+**中文理解**：Wister 的劝告——"Neither of you is ready for that"。Wister 的劝告。
 
 **句子结构**：主系表（Neither of you is ready for that）+ 主系表（Nor am I）+ 主系表（We're still here, for the work of the living world is dear to us, and urgent）+ 主系表（This is where we belong—you as well, Sam）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "Once I was able to reach the realm, we found that Clementine's stamina did not last long enough for me to venture far. She was, after all, still recovering."
 
-**中文理解**：Sam's observation——"Once I was able to reach the realm, we found that Clementine's stamina did not last long enough for me to venture far"、"She was, after all, still recovering"。Sam's observation。
+**中文理解**：Sam 的观察——"Once I was able to reach the realm"。Sam 的观察。
 
 **句子结构**：时间状语从句（Once I was able to reach the realm）+ 主谓宾（we found that Clementine's stamina did not last long enough for me to venture far）+ 主系表（She was, after all, still recovering）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "Success occurred at last on the day the residues vanished. Clem's mood hadn't lifted; she still moved through the day as if forcing herself to complete each task. But with the residues gone she seemed less burdened, and she proposed that we attempt a summoning in the front parlor for the benefit of Gertie, Meg, and Wister."
 
-**中文理解**：Sam's observation——"Success occurred at last on the day the residues vanished"、"Clem's mood hadn't lifted; she still moved through the day as if forcing herself to complete each task"、"with the residues gone she seemed less burdened, and she proposed that we attempt a summoning in the front parlor for the benefit of Gertie, Meg, and Wister"。
+**中文理解**：Sam 的观察——"Success occurred at last on the day the residues vanished"。Sam 的观察。
 
 **句子结构**：主谓宾（Success occurred at last on the day the residues vanished）+ 主系表（Clem's mood hadn't lifted; she still moved through the day as if forcing herself to complete each task）+ 主谓宾（But with the residues gone she seemed less burdened, and she proposed that we attempt a summoning in the front parlor for the benefit of Gertie, Meg, and Wister）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "I sat with my eyes closed at the table and Clementine stood behind me, her hands resting on my shoulders, a gentle pressure I did not mind in the least."
 
-**中文理解**：Sam's observation——"I sat with my eyes closed at the table and Clementine stood behind me, her hands resting on my shoulders, a gentle pressure I did not mind in the least"。Sam's experience。
+**中文理解**：Sam 的体验——"I sat with my eyes closed at the table"。Sam 的体验。
 
 **句子结构**：主谓宾（I sat with my eyes closed at the table）+ 主谓宾（and Clementine stood behind me, her hands resting on my shoulders, a gentle pressure I did not mind in the least）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "I had the uncomfortable sensation, as the spirit of Bess looked over my shoulder, that I was serving as a kind of window between the spirit realm and Keel House. Bess could see me, but she could also see through me into the living world."
 
-**中文理解**：Sam's observation——"I had the uncomfortable sensation, as the spirit of Bess looked over my shoulder, that I was serving as a kind of window between the spirit realm and Keel House"、"Bess could see me, but she could also see through me into the living world"。Sam's experience。
+**中文理解**：Sam 的体验——"I had the uncomfortable sensation"。Sam 的体验。
 
 **句子结构**：主谓宾（I had the uncomfortable sensation, as the spirit of Bess looked over my shoulder, that I was serving as a kind of window between the spirit realm and Keel House）+ 主谓宾（Bess could see me, but she could also see through me into the living world）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "We did it, Sam," she whispered, closing her eyes. / "We did it," I agreed. We'd accomplished a summoning. Now we had only to find the spirit we sought before the next Grand Séance at the Salem Lyceum."
 
-**中文理解**：Clem 与 Sam 的 dialogue——"We did it, Sam"、"We did it"、"We'd accomplished a summoning. Now we had only to find the spirit we sought before the next Grand Séance at the Salem Lyceum"。Clem 与 Sam 的 success。
+**中文理解**：Clem 与 Sam 的 dialogue——、、。Clem 与 Sam 的 success。
 
 **句子结构**：引语（We did it, Sam）+ 说话标签（she whispered, closing her eyes）+ 引语（We did it）+ 说话标签（I agreed）+ 主谓宾（We'd accomplished a summoning）+ 主谓宾（Now we had only to find the spirit we sought before the next Grand Séance at the Salem Lyceum）。
 

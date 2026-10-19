@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "Father has told me. I cannot believe it."
 
-**中文理解**：Clem 的惊愕——父亲终于透露了真相。"I cannot believe it"把 Clem 的震惊具象化，为后文父亲的解释做铺垫。
+**中文理解**：Clem 的惊愕——父亲终于透露了真相。把 Clem 的震惊具象化，为后文父亲的解释做铺垫。
 
 **句子结构**：主谓宾 + 宾语从句（Father has told me）+ 主谓宾（I cannot believe it）。简短而直接。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "But he says he has seen you. More than two years ago, when he was called to Commonwealth University to administer a language exam. He said you were there, and that you saw each other from a distance."
 
-**中文理解**：父亲曾在 Commonwealth 大学见过母亲的 spirit——"from a distance"暗示两人无法接近，母亲被某种力量控制。
+**中文理解**：父亲曾在 Commonwealth 大学见过母亲的 spirit——暗示两人无法接近，母亲被某种力量控制。
 
 **句子结构**：转折并列（But he says he has seen you）+ 时间状语（More than two years ago, when he was called...）+ 宾语从句（He said you were there, and that you saw each other from a distance）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "He said, 'You think it is better for your mother’s spirit to be deprived of rest, chained to another man’s will for eternity?'"
 
-**中文理解**：父亲的愤怒质问——母亲的 spirit 被"deprived of rest, chained to another man's will"。"chained"把母亲的处境写成奴役。
+**中文理解**：父亲的愤怒质问——母亲的 spirit 被。把母亲的处境写成奴役。
 
 **句子结构**：引语（He said, "You think it is better..."）。引语内嵌套反问句。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "I have no case, I have no case."
 
-**中文理解**：父亲的重复——"I have no case"。在法律体系中，父亲无法通过法律手段救母，因为 enchanter "own the courts"。
+**中文理解**：父亲的重复——。在法律体系中，父亲无法通过法律手段救母，因为 enchanter 。
 
 **句子结构**：重复短语。极简而绝望。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "What foul magic does he make you do? Is he a very terrible man? Is he vicious?"
 
-**中文理解**：Clem 对母亲处境的追问——"foul magic"、"terrible man"、"vicious"。一连串问号表达 Clem 的焦虑与决心。
+**中文理解**：Clem 对母亲处境的追问——、、。一连串问号表达 Clem 的焦虑与决心。
 
 **句子结构**：三个问句连用，形成 rhetorical accumulation。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "They own this world. They own the city. They own the courts. They own enchantment. There is nothing we can do."
 
-**中文理解**：父亲的绝望宣言——"They own..."的重复把 enchanter 的权力写成全方位的垄断，"There is nothing we can do"把 Clem 推向反抗。
+**中文理解**：父亲的绝望宣言——的重复把 enchanter 的权力写成全方位的垄断，把 Clem 推向反抗。
 
 **句子结构**：四个 "They own..." 并列分句 + 结论分句（There is nothing we can do）。排比递进。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "You only need one light to find your way in the darkness. One light."
 
-**中文理解**：母亲的格言——"you only need one light"。Clem 把这格言作为反抗的信念，"One light"的重复强调。
+**中文理解**：母亲的格言——。Clem 把这格言作为反抗的信念，的重复强调。
 
 **句子结构**：主谓宾 + 不定式（to find your way in the darkness）+ 重复短语（One light）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "I will find a way to free you."
 
-**中文理解**：Clem 的宣言——"I will find a way to free you." 简短而决绝，把全章推向 Clem 的主动反抗。
+**中文理解**：Clem 的宣言—— 简短而决绝，把全章推向 Clem 的主动反抗。
 
 **句子结构**：主谓宾 + 不定式（to free you）。简短而有力。
 

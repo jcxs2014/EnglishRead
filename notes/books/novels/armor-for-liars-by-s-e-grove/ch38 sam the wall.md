@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "I waited for Clementine at the wall."
 
-**中文理解**：Sam 的 opening——"I waited for Clementine at the wall"。简短而 decisive，把 Sam's waiting 具象化。
+**中文理解**：Sam 的 opening——。简短而 decisive，把 Sam's waiting 具象化。
 
 **句子结构**：主谓宾。极简。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "She would come. I knew she would come. If anyone had the strength and tenacity to come this far, my Clementine did."
 
-**中文理解**：Sam 的 confidence——"She would come. I knew she would come"、"If anyone had the strength and tenacity to come this far, my Clementine did"。Sam's faith in Clem。
+**中文理解**：Sam 的 confidence——、。Sam's faith in Clem。
 
 **句子结构**：主谓宾（She would come）+ 主谓宾（I knew she would come）+ 条件句（If anyone had the strength and tenacity to come this far, my Clementine did）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "No, she wouldn't make it. In that moment I didn't think about the scree; Clementine was in danger, that was all that mattered. I needed to reach her. I vaulted the wall and closed the distance between us."
 
-**中文理解**：Sam 的 action——"No, she wouldn't make it"、"I vaulted the wall and closed the distance between us"。Sam's determination。
+**中文理解**：Sam 的 action——、。Sam's determination。
 
 **句子结构**：主系表（No, she wouldn't make it）+ 时间状语从句（In that moment I didn't think about the scree; Clementine was in danger, that was all that mattered）+ 主谓宾（I needed to reach her）+ 主谓宾（I vaulted the wall and closed the distance between us）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "'Hold on,' I cried."
 
-**中文理解**：Sam's command——"Hold on"。简短而 urgent，把 Sam's command 具象化。
+**中文理解**：Sam's command——。简短而 urgent，把 Sam's command 具象化。
 
 **句子结构**：引语（Hold on）+ 说话标签（I cried）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "I felt less worried then. I'd seen her so many times, watched her do so many things, but I'd never felt her gaze upon me, never felt the force of her being looking directly into mine."
 
-**中文理解**：Sam 的 observation——"I'd never felt her gaze upon me, never felt the force of her being looking directly into mine"。Sam's experience of Clem's gaze。
+**中文理解**：Sam 的 observation——。Sam's experience of Clem's gaze。
 
 **句子结构**：主谓宾（I felt less worried then）+ 主谓宾（I'd seen her so many times, watched her do so many things）+ 主谓宾（but I'd never felt her gaze upon me, never felt the force of her being looking directly into mine）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "My name is Samuel May."
 
-**中文理解**：Sam's introduction——"My name is Samuel May"。简短而 decisive，把 Sam's identity 具象化。
+**中文理解**：Sam's introduction——。简短而 decisive，把 Sam's identity 具象化。
 
 **句子结构**：主系表。极简。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "You won't find Rosetta's spirit here. She's already gone."
 
-**中文理解**：Sam's revelation——"You won't find Rosetta's spirit here. She's already gone"。Sam's bad news。
+**中文理解**：Sam 的揭露——"You won't find Rosetta's spirit here. She's already gone"。Sam 的坏消息。
 
 **句子结构**：主谓宾（You won't find Rosetta's spirit here）+ 主系表（She's already gone）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "You must take me back to the realm of the living. As your thew."
 
-**中文理解**：Sam's proposal——"You must take me back to the realm of the living. As your thew"。Sam's proposal。
+**中文理解**：Sam 的提议——"You must take me back to the realm of the living. As your thew"。Sam 的提议。
 
 **句子结构**：主谓宾（You must take me back to the realm of the living）+ 介词短语（As your thew）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "Being your thew would not be the same as being a thew for the Cisneros Society."
 
-**中文理解**：Sam's assurance——"Being your thew would not be the same as being a thew for the Cisneros Society"。Sam's distinction。
+**中文理解**：Sam 的保证——"Being your thew would not be the same as being a thew for the Cisneros Society"。Sam 的区别。
 
 **句子结构**：主系表（Being your thew would not be the same as being a thew for the Cisneros Society）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "Call me Clem," she said. "And yes. I agree."
 
-**中文理解**：Clem's response——"Call me Clem"、"And yes. I agree"。Clem's acceptance。
+**中文理解**：Clem 的回应——"Call me Clem"。Clem 的接受。
 
 **句子结构**：引语（Call me Clem）+ 说话标签（she said）+ 引语（And yes. I agree）。
 

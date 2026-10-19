@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "For a short time through the weekend and into Monday morning, I thought that Quinn would escape the inevitable retribution that was coming for him."
 
-**中文理解**：Sam 的 opening——"inevitable retribution" coming for Quinn。Sam 的 foresight。
+**中文理解**：Sam 的 opening—— coming for Quinn。Sam 的 foresight。
 
 **句子结构**：时间状语（For a short time through the weekend and into Monday morning）+ 主谓宾（I thought that Quinn would escape the inevitable retribution that was coming for him）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "Good morning, class," Hornsby said, visibly enjoying the awe and horror provoked by his display.
 
-**中文理解**：Sam 对 enchanter 的 critique——"air of self-congratulation" like odor/perfume，"alluring and asphyxiating"。这是 Sam 的 thew 视角 critique。
+**中文理解**：Sam 对 enchanter 的 critique—— like odor/perfume，。这是 Sam 的 thew 视角 critique。
 
 **句子结构**：主系表（Enchanters are so certain of their importance）+ 主谓宾（the air of self-congratulation follows them everywhere）+ 比喻（like an odor, a perfume by turns alluring and asphyxiating）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "Dashing into the classroom, I sent Quinn a warning. He grew still for a moment and frowned, but he did not budge from his chair."
 
-**中文理解**：Sam 的 attempt to warn Quinn——"Dashing into the classroom, I sent Quinn a warning"。但 Quinn "did not budge"。Sam 的 frustrated。
+**中文理解**：Sam 的 attempt to warn Quinn——。但 Quinn 。Sam 的 frustrated。
 
 **句子结构**：分词短语（Dashing into the classroom）+ 主谓宾（I sent Quinn a warning）+ 转折并列（He grew still for a moment and frowned, but he did not budge from his chair）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "You will find this ridiculous, but I can't stand the sight of blood."
 
-**中文理解**：Sam 的 confession——"I can't stand the sight of blood"。这是 Sam 的 trauma from death。
+**中文理解**：Sam 的 confession——。这是 Sam 的 trauma from death。
 
 **句子结构**：主谓宾（You will find this ridiculous）+ but 引导的转折（but I can't stand the sight of blood）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "'Good morning, class,' Hornsby said, visibly enjoying the awe and horror provoked by his display."
 
-**中文理解**：Hornsby 的 entrance——"visibly enjoying the awe and horror"。这是 Hornsby 的 character：enjoys shock。
+**中文理解**：Hornsby 的 entrance——。这是 Hornsby 的 character：enjoys shock。
 
 **句子结构**：引语 + 说话标签（Hornsby said）+ 伴随分词短语（visibly enjoying the awe and horror provoked by his display）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "I wasn't always this way. As a living person, I had an ordinary distaste for blood and gore. I once sewed up a nasty cut on my leg that bled abundantly, and I tended to more than a few of my mother's burns from the iron. But since those horrific moments before my death, I find the sight of blood and damaged flesh unbearable."
 
-**中文理解**：Sam 的 backstory——"I wasn't always this way"、"since those horrific moments before my death"。这是 Sam 的 trauma origin。
+**中文理解**：Sam 的 backstory——、。这是 Sam 的 trauma origin。
 
 **句子结构**：主系表（I wasn't always this way）+ as 引导的时间状语从句（As a living person, I had an ordinary distaste...）+ 并列分句（I once sewed up... and I tended to...）+ 转折（But since those horrific moments before my death, I find the sight of blood and damaged flesh unbearable）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "And then Hornsby removed the wadded bandages. Oh, spirits! The oozing blood, the torn muscle, the unexpected sight of bone. Giles gasped in pain, lifting his legs with difficulty, and his innards shifted like glistening serpents. I couldn't take another moment."
 
-**中文理解**：Hornsby 移除 bandages——"oozing blood, the torn muscle, the unexpected sight of bone"。Sam 的 reaction——"I couldn't take another moment"。
+**中文理解**：Hornsby 移除 bandages——。Sam 的 reaction——。
 
 **句子结构**：主谓宾（And then Hornsby removed the wadded bandages）+ 感叹（Oh, spirits!）+ 并列名词短语（The oozing blood, the torn muscle, the unexpected sight of bone）+ 主谓宾（Giles gasped in pain...）+ 主谓宾（I couldn't take another moment）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "I was gone."
 
-**中文理解**：Sam 的 flight——"I was gone"。简短而决定性，把 Sam 的 trauma response 具象化。
+**中文理解**：Sam 的 flight——。简短而决定性，把 Sam 的 trauma response 具象化。
 
 **句子结构**：主系表。极简。
 

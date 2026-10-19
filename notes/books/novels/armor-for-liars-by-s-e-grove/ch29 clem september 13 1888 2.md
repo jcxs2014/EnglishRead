@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "Of course I forgive you. I understand your wish to protect us. We must do it together—that is what I mean. And no; I have not changed my mind. If anything, I am more determined than ever. We will strike at the cisne's heart, and it will be a terrible blow."
 
-**中文理解**：Clem 的 response——"Of course I forgive you"、"I am more determined than ever"、"We will strike at the cisne's heart, and it will be a terrible blow"。Clem 的 determination。
+**中文理解**：Clem 的 response——、、。Clem 的 determination。
 
 **句子结构**：主谓宾（Of course I forgive you）+ 主谓宾（I understand your wish to protect us）+ 主谓宾（We must do it together—that is what I mean）+ 转折（And no; I have not changed my mind）+ 条件句（If anything, I am more determined than ever）+ 主谓宾（We will strike at the cisne's heart, and it will be a terrible blow）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "Something unexpected has come to light. I have thought all this time, as I told you, that the spirit counseling caution at every turn was Father."
 
-**中文理解**：Clem 的 discovery——"Something unexpected has come to light"、"I have thought all this time... that the spirit counseling caution at every turn was Father"。Clem's realization。
+**中文理解**：Clem 的 discovery——、。Clem's realization。
 
 **句子结构**：主系表（Something unexpected has come to light）+ 主谓宾（I have thought all this time, as I told you, that the spirit counseling caution at every turn was Father）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "Speaking with Wister, I asked her why a spirit would wish to become a thew, and she said, among other things, that the spirit might wish to right a wrong. I felt an unmistakable sense of agreement that was not mine."
 
-**中文理解**：Clem's discovery——"I felt an unmistakable sense of agreement that was not mine"。Clem's realization that the spirit is not Father。
+**中文理解**：Clem 的发现——"Speaking with Wister, I asked her why a spirit would wish to become a thew, and she said, among other things, that the spirit might wish to right a wrong. I felt an unmistakable sense of agreement that was not mine"。Clem 的发现。
 
 **句子结构**：主谓宾（Speaking with Wister, I asked her why a spirit would wish to become a thew）+ 主谓宾（and she said, among other things, that the spirit might wish to right a wrong）+ 主谓宾（I felt an unmistakable sense of agreement that was not mine）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "Father would never respond in that manner. He detests thews. And not just because of you, Mother. What I mean is that he considers all thews a kind of perversion, a distortion of what is natural."
 
-**中文理解**：Clem's analysis——"Father would never respond in that manner"、"He detests thews"、"he considers all thews a kind of perversion, a distortion of what is natural"。Clem's reasoning。
+**中文理解**：Clem 的分析——"Father would never respond in that manner"、"He detests thews"、"he considers all thews a kind of perversion, a distortion of what is natural"。Clem 的推理。
 
 **句子结构**：主谓宾（Father would never respond in that manner）+ 主谓宾（He detests thews）+ 主谓宾（And not just because of you, Mother）+ 主谓宾（What I mean is that he considers all thews a kind of perversion, a distortion of what is natural）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "Whenever Rosie or I expressed amazement for some creation of thew-magic, he would shake his head and say, 'Las muertas deben descansar.' He found all thews, their very existence, abhorrent and unnatural."
 
-**中文理解**：Father's attitude——"Las muertas deben descansar"、"He found all thews, their very existence, abhorrent and unnatural"。Father's belief。
+**中文理解**：Father 的态度——"Las muertas deben descansar"、"He found all thews, their very existence, abhorrent and unnatural"。Father 的信念。
 
 **句子结构**：时间状语从句（Whenever Rosie or I expressed amazement for some creation of thew-magic）+ 主谓宾（he would shake his head and say, 'Las muertas deben descansar'）+ 主谓宾（He found all thews, their very existence, abhorrent and unnatural）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "Do you see what this means, Mother? It means some other spirit has been haunting my steps. Some other spirit who knows the cisnes and wishes to see them struck down. Who are they? Whoever they are, they may be able to help."
 
-**中文理解**：Clem 的 conclusion——"It means some other spirit has been haunting my steps"、"Some other spirit who knows the cisnes and wishes to see them struck down"、"Who are they? Whoever they are, they may be able to help"。Clem's realization。
+**中文理解**：Clem 的 conclusion——、、。Clem's realization。
 
 **句子结构**：问句（Do you see what this means, Mother?）+ 主谓宾（It means some other spirit has been haunting my steps）+ 主谓宾（Some other spirit who knows the cisnes and wishes to see them struck down）+ 问句（Who are they?）+ 主谓宾（Whoever they are, they may be able to help）。
 

@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "The knowledge of Livia's identity had overturned my understanding of Clementine's purpose."
 
-**中文理解**：Sam 的 opening——"The knowledge of Livia's identity had overturned my understanding of Clementine's purpose"。Sam 的 realization。
+**中文理解**：Sam 的 opening——。Sam 的 realization。
 
 **句子结构**：主谓宾（The knowledge of Livia's identity had overturned my understanding of Clementine's purpose）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "Well, I would not passively stand by, either."
 
-**中文理解**：Sam 的 declaration——"Well, I would not passively stand by, either"。简短而 decisive，把 Sam's agency 具象化。
+**中文理解**：Sam 的 declaration——。简短而 decisive，把 Sam's agency 具象化。
 
 **句子结构**：主谓宾。极简。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "It was a spiritoscope."
 
-**中文理解**：Maxwell 的 spiritoscope——"It was a spiritoscope"。简短而 decisive，把 Maxwell's tool 具象化。
+**中文理解**：Maxwell 的 spiritoscope——。简短而 decisive，把 Maxwell's tool 具象化。
 
 **句子结构**：主系表。极简。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "S-A-M. Sam." He said my name aloud, and it was curiously thrilling to hear myself addressed in this way, as if I were truly in the room."
 
-**中文理解**：Maxwell 读 Sam's name——"S-A-M. Sam"、"curiously thrilling to hear myself addressed in this way"。Sam 的 emotional response。
+**中文理解**：Maxwell 读 Sam's name——、。Sam 的 emotional response。
 
 **句子结构**：主谓宾（He said my name aloud）+ 主系表（and it was curiously thrilling to hear myself addressed in this way）+ 比喻（as if I were truly in the room）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "'Sam. Is it the Cisneros Society?' / He knew. He knew! No, he suspected. Something had made him suspect the shadowy Cisneros Society—perhaps its very secrecy—and now I gladly confirmed his suspicion."
 
-**中文理解**：Maxwell 的 question——"Is it the Cisneros Society?"、"He knew. He knew! No, he suspected."、"Something had made him suspect the shadowy Cisneros Society—perhaps its very secrecy"。Sam 的 confirmation。
+**中文理解**：Maxwell 的 question——、、。Sam 的 confirmation。
 
 **句子结构**：引语（Sam. Is it the Cisneros Society?）+ 主谓宾（He knew. He knew! No, he suspected）+ 主谓宾（Something had made him suspect the shadowy Cisneros Society—perhaps its very secrecy）+ 主谓宾（and now I gladly confirmed his suspicion）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "'I will be careful. I promise you.' / Finally, I assented. Yes."
 
-**中文理解**：Maxwell 的 promise——"I will be careful. I promise you"、"Finally, I assented. Yes"。Sam's trust in Maxwell。
+**中文理解**：Maxwell 的 promise——、。Sam's trust in Maxwell。
 
 **句子结构**：引语（I will be careful. I promise you.）+ 主谓宾（Finally, I assented）+ 引语（Yes）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "Norbert Trench, as you may know, worked for the Bank of Boston. Managing the money of others over so many years had left him with a permanently proprietary air, as if charged by some higher power with managing not only his clients' finances but the affairs of everyone around him, too."
 
-**中文理解**：Norbert Trench 的 character——"permanently proprietary air"、"as if charged by some higher power with managing not only his clients' finances but the affairs of everyone around him"。这是 Norbert's character。
+**中文理解**：Norbert Trench 的 character——、。这是 Norbert's character。
 
 **句子结构**：主系表（Norbert Trench, as you may know, worked for the Bank of Boston）+ 主谓宾（Managing the money of others over so many years had left him with a permanently proprietary air）+ 比喻（as if charged by some higher power with managing...）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "She gazed at Rosetta with dull, menacing eyes."
 
-**中文理解**：Principa 的 appearance——"Norbert Trench’s spirit thew, a legacy who had been in his family for three generations"、"dull, menacing eyes"。这是 Principa's character。
+**中文理解**：Principa 的 appearance——、。这是 Principa's character。
 
 **句子结构**：主系表（She was Norbert Trench’s spirit thew, a legacy who had been in his family for three generations）+ 主谓宾（She gazed at Rosetta with dull, menacing eyes）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "Clementine's expression shifted to one of distress. 'You're right that I hadn't considered it. That's very concerning. Perhaps,' she said tentatively, 'it would be best to keep some slight…distance from us, for a time.'"
 
-**中文理解**：Clem's strategy——"Clementine's expression shifted to one of distress"、"it would be best to keep some slight…distance from us, for a time"。Clem 的 manipulation。
+**中文理解**：Clem's strategy——、。Clem 的 manipulation。
 
 **句子结构**：主谓宾（Clementine's expression shifted to one of distress）+ 引语（You're right that I hadn't considered it. That's very concerning. Perhaps... it would be best to keep some slight…distance from us, for a time）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "Do you think," he said quietly to the deserted street, "that a few more members of the Society will attend the court proceedings?"
 
-**中文理解**：Maxwell 的 question——"Do you think... that a few more members of the Society will attend the court proceedings?"。Maxwell's hope for Cisneros Society's exposure。
+**中文理解**：Maxwell 的 question——。Maxwell's hope for Cisneros Society's exposure。
 
 **句子结构**：引语（Do you think... that a few more members of the Society will attend the court proceedings?）。
 

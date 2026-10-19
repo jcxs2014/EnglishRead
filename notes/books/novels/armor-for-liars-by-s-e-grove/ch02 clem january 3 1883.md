@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "Father says you are watching over us. He says you can see us from the spirit realm, and see everything that we are doing."
 
-**中文理解**：Clem 的第一句话就建立世界观——父亲相信母亲在 spirit realm 监视一切。"watching over us"把死亡转化为持续的在场，这是 Clem 家庭对 loss 的处理方式。
+**中文理解**：Clem 的第一句话就建立世界观——父亲相信母亲在 spirit realm 监视一切。把死亡转化为持续的在场，这是 Clem 家庭对 loss 的处理方式。
 
 **句子结构**：主谓宾 + 宾语从句（Father says ...）+ 宾语从句内 another 宾语从句（you can see us from the spirit realm）+ 并列分句（and see everything that we are doing）。嵌套从句，Clem 转述父亲的话。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "But, as you always said, appearances are deceiving."
 
-**中文理解**：Clem 引用母亲的格言——" appearances are deceiving"。这是 Clem 的怀疑种子：母亲可能并不如父亲所言" peaceful watching"。
+**中文理解**：Clem 引用母亲的格言——。这是 Clem 的怀疑种子：母亲可能并不如父亲所言。
 
 **句子结构**：转折连词（But）+ as 引导的让步状语从句（as you always said）+ 主系表（appearances are deceiving）。简短而有力。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "Father is lost without you. When I see him looking out the window, staring as if waiting for something to happen, I feel so afraid. I feel that he is lost somewhere, and that he might not come back."
 
-**中文理解**：父亲在母亲死后"lost"——Clem 看到他望窗外发呆，感到恐惧：父亲可能"lost somewhere"，可能回不来。Clem 对父亲的恐惧，暗示父亲可能已被 spirit realm 或 enchanter 影响。
+**中文理解**：父亲在母亲死后——Clem 看到他望窗外发呆，感到恐惧：父亲可能，可能回不来。Clem 对父亲的恐惧，暗示父亲可能已被 spirit realm 或 enchanter 影响。
 
 **句子结构**：主系表（Father is lost without you）+ 时间状语从句（When I see him looking...）+ 两个宾语从句（I feel so afraid / I feel that he is lost somewhere, and that he might not come back）。"lost"重复，语义递进：先"lost without you"，后"lost somewhere"。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "I opened the long letter that you left for me, but as soon as I saw your handwriting I could read no further. I can't yet—I just can't. Soon I will."
 
-**中文理解**：Clem 打开母亲遗信，但一见字迹就无法继续。"I can't yet—I just can't"的重复强调她的心理障碍；"Soon I will"预示 eventual reading，为后文 Clem 的成长埋线。
+**中文理解**：Clem 打开母亲遗信，但一见字迹就无法继续。的重复强调她的心理障碍；预示 eventual reading，为后文 Clem 的成长埋线。
 
 **句子结构**：主谓宾 + 定语从句（that you left for me）+ 转折并列分句（but as soon as I saw your handwriting I could read no further）+ 破折号强调（I can't yet—I just can't）+ 简短承诺（Soon I will）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "I miss you so much, Mother."
 
-**中文理解**：全信的收尾——"I miss you so much, Mother." 简短而直接，把所有分析与怀疑落回到情感核心。
+**中文理解**：全信的收尾—— 简短而直接，把所有分析与怀疑落回到情感核心。
 
 **句子结构**：主谓宾 + 呼格（Mother）。极简。
 

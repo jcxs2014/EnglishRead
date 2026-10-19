@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "A short time later, we were once again aboard the horseless carriage, now with rather less space on the driver's seat. But Clem needed to see the road to drive, she and her mother wouldn't be parted, and I certainly wasn't going to ride inside."
 
-**中文理解**：Sam 的 opening——"we were once again aboard the horseless carriage, now with rather less space on the driver's seat"、"Clem needed to see the road to drive, she and her mother wouldn't be parted, and I certainly wasn't going to ride inside"。Sam's observation。
+**中文理解**：Sam 的 opening——、。Sam's observation。
 
 **句子结构**：主系表（A short time later, we were once again aboard the horseless carriage, now with rather less space on the driver's seat）+ 主系表（But Clem needed to see the road to drive, she and her mother wouldn't be parted, and I certainly wasn't going to ride inside）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "'I've been so worried for you,' Lydia said to Clem. 'That last note you sent me…' / 'I was unwell,' Clem admitted. 'Very unwell. The realm did something to me. You saw, Sam,' she said to me."
 
-**中文理解**：Lydia 与 Clem 的 dialogue——"I've been so worried for you"、"That last note you sent me…"、"I was unwell"、"Very unwell. The realm did something to me. You saw, Sam"。Lydia 与 Clem 的 dialogue。
+**中文理解**：Lydia 与 Clem 的 dialogue——、、、。Lydia 与 Clem 的 dialogue。
 
 **句子结构**：引语（I've been so worried for you）+ 引语（That last note you sent me…）+ 引语（I was unwell）+ 引语（Very unwell. The realm did something to me. You saw, Sam）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "'But now you seem better,' Lydia observed. 'What changed?' / 'It was Sam.' Clem smiled. 'Sam reminded me of who I was. None of this could have happened without him.'"
 
-**中文理解**：Lydia 与 Clem 的 dialogue——"But now you seem better"、"What changed?"、"It was Sam"、"Sam reminded me of who I was. None of this could have happened without him"。Lydia 与 Clem 的 dialogue。
+**中文理解**：Lydia 与 Clem 的 dialogue——、、、。Lydia 与 Clem 的 dialogue。
 
 **句子结构**：引语（But now you seem better）+ 说话标签（Lydia observed）+ 引语（What changed?）+ 引语（It was Sam）+ 说话标签（Clem smiled）+ 引语（Sam reminded me of who I was. None of this could have happened without him）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "'Thank the spirits,' she said softly. 'Especially you, Sam.' I was touched by this, but I could not say anything in reply, given the speed of Clementine's driving."
 
-**中文理解**：Lydia 的 gratitude——"Thank the spirits"、"Especially you, Sam"。Sam's response。
+**中文理解**：Lydia 的 gratitude——、。Sam's response。
 
 **句子结构**：引语（Thank the spirits）+ 说话标签（she said softly）+ 引语（Especially you, Sam）+ 主谓宾（I was touched by this, but I could not say anything in reply, given the speed of Clementine's driving）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "I was so confounded by the sight of Erauso that I was momentarily distracted from all other considerations. Erauso? But why was Erauso here, of all places? How had he arrived? When? And whom was he protecting?"
 
-**中文理解**：Sam 的 observation——"I was so confounded by the sight of Erauso that I was momentarily distracted from all other considerations"、"Erauso? But why was Erauso here, of all places? How had he arrived? When? And whom was he protecting?"。Sam's observation。
+**中文理解**：Sam 的 observation——、。Sam's observation。
 
 **句子结构**：主谓宾（I was so confounded by the sight of Erauso that I was momentarily distracted from all other considerations）+ 问句（Erauso? But why was Erauso here, of all places? How had he arrived? When? And whom was he protecting?）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "I realized with shock why the place around me looked familiar. I had seen it in Clem's thoughts. I had seen Rosetta here, holding hands with Walter, in Clem's thoughts."
 
-**中文理解**：Sam's realization——"I realized with shock why the place around me looked familiar"、"I had seen it in Clem's thoughts"、"I had seen Rosetta here, holding hands with Walter, in Clem's thoughts"。Sam's realization。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主谓宾（I realized with shock why the place around me looked familiar）+ 主谓宾（I had seen it in Clem's thoughts）+ 主谓宾（I had seen Rosetta here, holding hands with Walter, in Clem's thoughts）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "Clem took my hand and looked at me earnestly. 'Sam. I'm so sorry I couldn't tell you; Mother swore me to secrecy. Do not tell a soul, were her words. I had to comply. I did almost tell you, by accident.'"
 
-**中文理解**：Clem 的 explanation——"Sam. I'm so sorry I couldn't tell you; Mother swore me to secrecy. Do not tell a soul, were her words. I had to comply. I did almost tell you, by accident."。Clem's explanation。
+**中文理解**：Clem 的 explanation——。Clem's explanation。
 
 **句子结构**：引语（Sam. I'm so sorry I couldn't tell you; Mother swore me to secrecy. Do not tell a soul, were her words. I had to comply. I did almost tell you, by accident.）+ 说话标签（Clem took my hand and looked at me earnestly）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "'I understand,' I said, slowly reconciling myself to the deception. 'But then if you didn't go to the spirit realm for Rosetta, why did you go?' / Clem searched my face. 'You don't know?' / 'No.' I truly didn't. And then she showed me her thoughts: a strange jumble of impressions, all of them about me."
 
-**中文理解**：Sam 与 Clem 的 dialogue——"I understand"、"But then if you didn't go to the spirit realm for Rosetta, why did you go?"、"You don't know?"、"No. I truly didn't. And then she showed me her thoughts: a strange jumble of impressions, all of them about me"。Sam 与 Clem 的 dialogue。
+**中文理解**：Sam 与 Clem 的 dialogue——、、、。Sam 与 Clem 的 dialogue。
 
 **句子结构**：引语（I understand）+ 说话标签（I said, slowly reconciling myself to the deception）+ 引语（But then if you didn't go to the spirit realm for Rosetta, why did you go?）+ 引语（You don't know?）+ 引语（No. I truly didn't. And then she showed me her thoughts: a strange jumble of impressions, all of them about me）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "'Sam,' Clem said quietly. 'When I was in danger, you warned me; when I was alone, you comforted me; when the entire might of Cisneros was arrayed against me, you gave me strength.' She smiled, a tender smile that I didn't recognize and that made my stomach drop. 'I didn't know who you were, but I could feel who you were. So I went there to find you.'"
 
-**中文理解**：Clem 的 confession——"When I was in danger, you warned me; when I was alone, you comforted me; when the entire might of Cisneros was arrayed against me, you gave me strength"、"I didn't know who you were, but I could feel who you were. So I went there to find you"。Clem's confession。
+**中文理解**：Clem 的 confession——、。Clem's confession。
 
 **句子结构**：引语（Sam）+ 引语（When I was in danger, you warned me; when I was alone, you comforted me; when the entire might of Cisneros was arrayed against me, you gave me strength）+ 引语（I didn't know who you were, but I could feel who you were. So I went there to find you）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "There was a strange sensation in my chest, a peculiar feeling similar to what I'd felt when Clementine took the shroud: a sudden lightness, as if I'd just given a part of myself away. I couldn't think how to reply. I took Clem's face in my hands, and she didn't recoil at the coldness of my fingers. Her eyes met mine; she smiled. I leaned forward and pressed my forehead to hers."
 
-**中文理解**：Sam's response——"There was a strange sensation in my chest, a peculiar feeling similar to what I'd felt when Clementine took the shroud: a sudden lightness, as if I'd just given a part of myself away"、"I couldn't think how to reply. I took Clem's face in my hands, and she didn't recoil at the coldness of my fingers. Her eyes met mine; she smiled. I leaned forward and pressed my forehead to hers"。Sam's response。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主系表（There was a strange sensation in my chest, a peculiar feeling similar to what I'd felt when Clementine took the shroud: a sudden lightness, as if I'd just given a part of myself away）+ 主谓宾（I couldn't think how to reply）+ 主谓宾（I took Clem's face in my hands, and she didn't recoil at the coldness of my fingers）+ 主谓宾（Her eyes met mine; she smiled）+ 主谓宾（I leaned forward and pressed my forehead to hers）。
 
@@ -139,7 +139,7 @@ start_date: 2026-10-19
 
 > **原句 11:** "There we were: two souls, standing together, watching the sun set over the autumn garden."
 
-**中文理解**：Sam 的 closing——"There we were: two souls, standing together, watching the sun set over the autumn garden"。Sam's closing。
+**中文理解**：Sam 的 closing——。Sam's closing。
 
 **句子结构**：主系表（There we were: two souls, standing together, watching the sun set over the autumn garden）。
 

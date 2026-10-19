@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "The coach driver, a taciturn but responsible man who never indulged in drink, took the twisting path westward at a moderate pace."
 
-**中文理解**：开篇先给车夫 Platt 定性——寡言、可靠、不沾酒，再让他驾车西行。这种"人物先于事件"的写法，让读者先认识一个普通劳动者，再看他卷入超自然危机。
+**中文理解**：开篇先给车夫 Platt 定性——寡言、可靠、不沾酒，再让他驾车西行。这种的写法，让读者先认识一个普通劳动者，再看他卷入超自然危机。
 
 **句子结构**：主句 + 两个形容词短语作同位语（a taciturn but responsible man）+ 定语从句（who never indulged in drink）+ 动词短语（took the twisting path westward at a moderate pace）。长定语把人物性格压在动词之前，节奏缓慢，与"moderate pace"呼应。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "In the fading light, Platt didn't see the figure in the road until they were almost upon it."
 
-**中文理解**：暮色中 Platt 直到马车几乎撞上，才看到路上的影子。"almost upon it"把危险的逼近写成时间差——看见时已来不及。
+**中文理解**：暮色中 Platt 直到马车几乎撞上，才看到路上的影子。把危险的逼近写成时间差——看见时已来不及。
 
 **句子结构**：时间状语（In the fading light）+ 主谓宾 + until 引导的时间从句。"didn't see ... until"结构把认知延迟化，制造悬念。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "Such dusky evenings are apt to distort and conceal; presence and absence cannot always be counted on; the innocent may appear menacing and the menacing may, for just a moment, appear innocent."
 
-**中文理解**：暮色的夜晚容易扭曲与遮蔽；存在与不存在不能总是依靠；无辜者可能显得危险，而危险者可能在一瞬间显得无辜。这是叙述者对"暮色"的哲学化扩展——也是对整本小说主题的预言。
+**中文理解**：暮色的夜晚容易扭曲与遮蔽；存在与不存在不能总是依靠；无辜者可能显得危险，而危险者可能在一瞬间显得无辜。这是叙述者对的哲学化扩展——也是对整本小说主题的预言。
 
 **句子结构**：三个分号连接的分句，形成排比递进：① evenings are apt to distort and conceal；② presence and absence cannot be counted on；③ innocent/menacing 的互换。第三个分句用 may ... appear ... and ... may appear ... 的对称结构。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "It was a woman lying in the road, her long white dress shapeless and vast, her downturned face obscured by an arm and tangled strands of black hair."
 
-**中文理解**：躺在路上的是个女人，长白裙无形状地铺展，脸朝下被手臂和乱发遮住。"shapeless and vast"把白裙写成一种覆盖性的存在，像裹尸布。
+**中文理解**：躺在路上的是个女人，长白裙无形状地铺展，脸朝下被手臂和乱发遮住。把白裙写成一种覆盖性的存在，像裹尸布。
 
 **句子结构**：主系表（It was a woman）+ 两个独立分词短语作伴随状语（her long white dress ...；her downturned face ...）。视觉细节堆叠，但不解释身份。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "Afterward, Platt would wonder if he might yet have acted in time, had he given greater rein to the unthinking instincts that he relied on implicitly and that had saved him many times while driving."
 
-**中文理解**：事后 Platt 会想，若他更放手地跟随那些 driving 时隐性依赖、多次救过他的"不假思索的本能"，是否还来得及行动。这是 Platt 的 retrospective guilt。
+**中文理解**：事后 Platt 会想，若他更放手地跟随那些 driving 时隐性依赖、多次救过他的，是否还来得及行动。这是 Platt 的 retrospective guilt。
 
 **句子结构**：主句（Platt would wonder）+ if 引导的条件从句（might yet have acted in time）+ had given greater rein to ... + 两个定语从句（that he relied on implicitly / that had saved him many times while driving）。嵌套条件，时间层次复杂。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "The low voice that answered her, rich and resonant, spoke with surprising assurance. 'But I am not.' The woman smiled, opening her eyes fully, and her entire aspect changed."
 
-**中文理解**：回答 Mrs. Quinn 的低沉声音，丰富而洪亮，带着出人意料的自信。"But I am not."——"但我不是（活的）"。女人微笑，完全睁开眼睛，整个神态改变。这是女灵 thew 的 reveal。
+**中文理解**：回答 Mrs. Quinn 的低沉声音，丰富而洪亮，带着出人意料的自信。——。女人微笑，完全睁开眼睛，整个神态改变。这是女灵 thew 的 reveal。
 
 **句子结构**：第一句主谓宾 + 两个形容词 + 不定式短语（spoke with assurance）。引语 "But I am not." 短促，与 "She's alive!" 形成直接反驳。第三句并列分句（smiled, opening her eyes fully, and her entire aspect changed）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "Platt's knees buckled and he fell to the ground, his hands covering his mouth, which streamed dark blood."
 
-**中文理解**：Platt 的膝盖软了，他倒在地上，双手捂住嘴，嘴里涌出黑血。enchanter 的"twist fingers"惩罚使 Platt 失舌。
+**中文理解**：Platt 的膝盖软了，他倒在地上，双手捂住嘴，嘴里涌出黑血。enchanter 的惩罚使 Platt 失舌。
 
 **句子结构**：并列分句（knees buckled and he fell）+ 伴随分词短语（his hands covering his mouth）+ 定语从句（which streamed dark blood）。"dark blood"与"streamed"形成画面。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "'Please,' she whispered, 'let it be me instead.'"
 
-**中文理解**：Lydia 跪在 enchanter 面前，低声请求："请让我代。"这是本 prologue 的情感高潮——母亲以身代子。
+**中文理解**：Lydia 跪在 enchanter 面前，低声请求：这是本 prologue 的情感高潮——母亲以身代子。
 
 **句子结构**：引语 + 说话标签（she whispered）+ 引语。"let it be me instead" 简短而决绝。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "Seven days."
 
-**中文理解**："七天。"thew 的回答，Lydia 的死期。两个词，把 prologue 的一切推向悲剧终点。
+**中文理解**：thew 的回答，Lydia 的死期。两个词，把 prologue 的一切推向悲剧终点。
 
 **句子结构**：名词短语，独立成句。极简。
 

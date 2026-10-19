@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "Enchantment of bone is bound to betray. Even when it would seem to do good."
 
-**中文理解**：epigraph 的 opening——"Enchantment of bone is bound to betray. Even when it would seem to do good."。这是 Sam 的 warning about bone。
+**中文理解**：epigraph 的 opening——。这是 Sam 的 warning about bone。
 
 **句子结构**：主系表（Enchantment of bone is bound to betray）+ 主系表（Even when it would seem to do good）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "I must tell you one more thing from my own story—I must tell you about Corbin."
 
-**中文理解**：Sam 的 opening——"I must tell you one more thing from my own story—I must tell you about Corbin"。Sam's narrative purpose。
+**中文理解**：Sam 的 opening——。Sam's narrative purpose。
 
 **句子结构**：主谓宾（I must tell you one more thing from my own story）+ 主谓宾（I must tell you about Corbin）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "It was no whale. For the space of several seconds, before the roiling fog drew the curtain once more, I saw clearly a hundred long oars reaching and hauling, reaching and hauling, all in perfect synchrony."
 
-**中文理解**：Sam's observation——"It was no whale"、"a hundred long oars reaching and hauling, reaching and hauling, all in perfect synchrony"。这是 Sam's first spirit realm sighting。
+**中文理解**：Sam's observation——、。这是 Sam's first spirit realm sighting。
 
 **句子结构**：主系表（It was no whale）+ 时间状语从句（For the space of several seconds, before the roiling fog drew the curtain once more）+ 主谓宾（I saw clearly a hundred long oars reaching and hauling, reaching and hauling, all in perfect synchrony）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "I heard human voices, woven into the roar like a strand of red threaded through a black garment."
 
-**中文理解**：Sam's observation——"I heard human voices, woven into the roar like a strand of red threaded through a black garment"。这是 Sam's poetic description。
+**中文理解**：Sam's observation——。这是 Sam's poetic description。
 
 **句子结构**：主谓宾（I heard human voices）+ 伴随分词短语（woven into the roar like a strand of red threaded through a black garment）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "I am not sure how long it took, for after a while I ceased to think of time or destination and focused only on the worn rope before me, placing hand over hand, determined simply to go on because my exhaustion had narrowed my faculties."
 
-**中文理解**：Sam's journey——"I am not sure how long it took"、"my exhaustion had narrowed my faculties"。Sam's exhaustion。
+**中文理解**：Sam 的旅程——他不确定走了多久，疲惫收窄了感知，只专注于手中的绳索。
 
 **句子结构**：主系表（I am not sure how long it took）+ 原因状语从句（for after a while I ceased to think of time or destination and focused only on the worn rope before me, placing hand over hand, determined simply to go on because my exhaustion had narrowed my faculties）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "I was looking at the underside of a ship that soared—for it moved through air—far above me, two hundred yards at least, carrying some unearthly load of lamentation to some unknown destination."
 
-**中文理解**：Sam's observation——"I was looking at the underside of a ship that soared—for it moved through air—far above me, two hundred yards at least, carrying some unearthly load of lamentation to some unknown destination"。
+**中文理解**：Sam 的观察——他看见一艘船的底部，百支桨同步划动。
 
 **句子结构**：主谓宾（I was looking at the underside of a ship that soared—for it moved through air—far above me, two hundred yards at least）+ 伴随分词短语（carrying some unearthly load of lamentation to some unknown destination）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "'I don't think that will happen today,' he said gently. 'I am Corbin,' he added, extending his hand."
 
-**中文理解**：Corbin's introduction——"I don't think that will happen today"、"I am Corbin"。Corbin's gentle demeanor。
+**中文理解**：Corbin 的介绍——"I don't think that will happen today"、"I am Corbin"。Corbin 的温柔。
 
 **句子结构**：引语（I don't think that will happen today）+ 说话标签（he said gently）+ 引语（I am Corbin）+ 伴随分词短语（extending his hand）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "I am not sure how long it took, for after a while I ceased to think of time or destination and focused only on the worn rope before me, placing hand over hand, determined simply to go on because my exhaustion had narrowed my faculties."
 
-**中文理解**：Sam's journey——"I am not sure how long it took"、"my exhaustion had narrowed my faculties"。Sam's exhaustion。
+**中文理解**：Sam 的旅程——他不确定走了多久，疲惫收窄了感知。
 
 **句子结构**：主系表（I am not sure how long it took）+ 原因状语从句（for after a while I ceased to think of time or destination and focused only on the worn rope before me, placing hand over hand, determined simply to go on because my exhaustion had narrowed my faculties）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "I saw"
 
-**中文理解**：Sam's discovery——"I saw then where my mother's lullaby came from: a cluster of glass bottles, strung by their necks from one of the ropes, chiming gently against a rusted iron chain"。Sam's mother's guidance。
+**中文理解**：Sam 的发现——他看见母亲的摇篮曲来自一组玻璃瓶。
 
 **句子结构**：主谓宾（I saw then where my mother's lullaby came from）+ 同位语（a cluster of glass bottles, strung by their necks from one of the ropes, chiming gently against a rusted iron chain）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "I gasped."
 
-**中文理解**：Sam's realization——"No doubt my thoughts were confused, but it seemed to me that somehow, in this unlikely place and despite all odds, my mother was guiding me"。Sam's belief in mother's guidance。
+**中文理解**：Sam 的醒悟——他意识到母亲在引导他。
 
 **句子结构**：主谓宾（I gasped）+ 主系表（No doubt my thoughts were confused）+ 主系表（but it seemed to me that somehow, in this unlikely place and despite all odds, my mother was guiding me）。
 
@@ -139,7 +139,7 @@ start_date: 2026-10-19
 
 > **原句 11:** "Comprehension settled upon me, as heavy as the stone in my hand. The thew was for another man, but the assistance was for me. The compassion Corbin extended was to spare my life."
 
-**中文理解**：Sam's comprehension——"Comprehension settled upon me, as heavy as the stone in my hand"、"The thew was for another man, but the assistance was for me"、"The compassion Corbin extended was to spare my life"。Sam's realization。
+**中文理解**：Sam 的领悟——"Comprehension settled upon me, as heavy as the stone in my hand"。Sam 的醒悟。
 
 **句子结构**：主谓宾（Comprehension settled upon me, as heavy as the stone in my hand）+ 主系表（The thew was for another man, but the assistance was for me）+ 主系表（The compassion Corbin extended was to spare my life）。
 
@@ -151,7 +151,7 @@ start_date: 2026-10-19
 
 > **原句 12:** "'Take nothing they give you, Sam. No matter how useful or harmless it seems. Take nothing and stay alive.'"
 
-**中文理解**：Corbin's warning——"Take nothing they give you, Sam. No matter how useful or harmless it seems. Take nothing and stay alive"。Corbin's warning to Sam。
+**中文理解**：Corbin 的警告——"Take nothing they give you, Sam. No matter how useful or harmless it seems. Take nothing and stay alive"。Corbin 对 Sam 的警告。
 
 **句子结构**：引语（Take nothing they give you, Sam）+ 引语（No matter how useful or harmless it seems）+ 引语（Take nothing and stay alive）。
 

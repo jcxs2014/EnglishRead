@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "I've returned in one piece. His name is Samuel May, the spirit who has guided me this last month, who is with me now as a thew. It has been worthwhile, Mother, for he has found the case."
 
-**中文理解**：Clem 的 opening——"I've returned in one piece"、"His name is Samuel May, the spirit who has guided me this last month, who is with me now as a thew"、"It has been worthwhile, Mother, for he has found the case"。Clem's report。
+**中文理解**：Clem 的 opening——、、。Clem's report。
 
 **句子结构**：主谓宾（I've returned in one piece）+ 主系表（His name is Samuel May, the spirit who has guided me this last month, who is with me now as a thew）+ 主系表（It has been worthwhile, Mother, for he has found the case）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "I'm glad it will be soon, for my spirit feels heavy, Mother. So very heavy. It has since I went to the realm. Something happened to me there."
 
-**中文理解**：Clem's state——"my spirit feels heavy, Mother. So very heavy"、"Something happened to me there"。Clem's psychological state。
+**中文理解**：Clem 的状态——"I'm glad it will be soon, for my spirit feels heavy"。Clem 的心理状态。
 
 **句子结构**：主系表（I'm glad it will be soon, for my spirit feels heavy, Mother. So very heavy）+ 主系表（It has since I went to the realm）+ 主谓宾（Something happened to me there）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "I thought it would be like everything else I've been told would be difficult. Dead reckoning wasn't difficult; enchantment itself felt easy, almost natural; even making Erauso with bone was simple. But that has led me, I see now, to a false confidence."
 
-**中文理解**：Clem's realization——"I thought it would be like everything else I've been told would be difficult"、"Dead reckoning wasn't difficult; enchantment itself felt easy, almost natural; even making Erauso with bone was simple"、"But that has led me, I see now, to a false confidence"。Clem's realization。
+**中文理解**：Clem 的醒悟——"I thought it would be like everything else"。Clem 的醒悟。
 
 **句子结构**：主谓宾（I thought it would be like everything else I've been told would be difficult）+ 主谓宾（Dead reckoning wasn't difficult; enchantment itself felt easy, almost natural; even making Erauso with bone was simple）+ 转折（But that has led me, I see now, to a false confidence）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "For when I was on the mooring line, I suddenly thought: I can't. I am not able. I am not strong enough. Then I realized something terrible. That all my conviction to do what I do in this world is illusory. My confidence only exists because I believe it exists. It is not real."
 
-**中文理解**：Clem's realization——"I can't. I am not able. I am not strong enough"、"all my conviction to do what I do in this world is illusory"、"My confidence only exists because I believe it exists. It is not real"。Clem's crisis。
+**中文理解**：Clem 的危机——"For when I was on the mooring line, I suddenly thought: I can't"。Clem 的危机。
 
 **句子结构**：时间状语从句（For when I was on the mooring line）+ 主谓宾（I suddenly thought: I can't. I am not able. I am not strong enough）+ 主谓宾（Then I realized something terrible）+ 主谓宾（That all my conviction to do what I do in this world is illusory）+ 主谓宾（My confidence only exists because I believe it exists. It is not real）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "How much that we hold dear is like this? Existing only because we choose to believe in it? Everything. Everything in our world is a mirage, Mother. The knowledge we think we possess, the high regard of others, even the love that we believe binds us. All of it exists only because we believe it exists."
 
-**中文理解**：Clem's philosophical reflection——"How much that we hold dear is like this?"、"Everything. Everything in our world is a mirage, Mother"、"The knowledge we think we possess, the high regard of others, even the love that we believe binds us. All of it exists only because we believe it exists"。Clem's philosophical reflection。
+**中文理解**：Clem 的哲学反思——"How much that we hold dear is like this?"。Clem 的哲学反思。
 
 **句子结构**：问句（How much that we hold dear is like this?）+ 问句（Existing only because we choose to believe in it?）+ 主系表（Everything. Everything in our world is a mirage, Mother）+ 主谓宾（The knowledge we think we possess, the high regard of others, even the love that we believe binds us）+ 主谓宾（All of it exists only because we believe it exists）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "I know you and Rosetta are counting on me, but the urgency I felt before is gone. Though I am here, back among the living, I look about me and see only the gray expanse of the spirit world. It seems to me that this world is false, an illusion conjured to conceal the real world, the truth of a world filled infinitely with death. I don't belong here. I can't shake the sense that we all belong there."
 
-**中文理解**：Clem's state——"the urgency I felt before is gone"、"I look about me and see only the gray expanse of the spirit world"、"It seems to me that this world is false, an illusion conjured to conceal the real world, the truth of a world filled infinitely with death"、"I don't belong here. I can't shake the sense that we all belong there"。Clem's state。
+**中文理解**：Clem 的状态——"I know you and Rosetta are counting on me"。Clem 的状态。
 
 **句子结构**：主谓宾（I know you and Rosetta are counting on me, but the urgency I felt before is gone）+ 转折（Though I am here, back among the living, I look about me and see only the gray expanse of the spirit world）+ 主系表（It seems to me that this world is false, an illusion conjured to conceal the real world, the truth of a world filled infinitely with death）+ 主系表（I don't belong here. I can't shake the sense that we all belong there）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "Perhaps when I return with you to undo the binding, I will stay there with you."
 
-**中文理解**：Clem 的 declaration——"Perhaps when I return with you to undo the binding, I will stay there with you"。Clem's declaration。
+**中文理解**：Clem 的 declaration——。Clem's declaration。
 
 **句子结构**：条件句（Perhaps when I return with you to undo the binding, I will stay there with you）。
 

@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "Once again, more slowly this time without the currents of the Weer all around me, I told the story of my involvement with the Cisneros Society and the damage its enchanters had done after my death."
 
-**中文理解**：Sam 的 opening——"Once again, more slowly this time without the currents of the Weer all around me, I told the story of my involvement with the Cisneros Society"。Sam's narrative to Sor Juana Alliance。
+**中文理解**：Sam 的 opening——。Sam's narrative to Sor Juana Alliance。
 
 **句子结构**：时间状语（Once again, more slowly this time without the currents of the Weer all around me）+ 主谓宾（I told the story of my involvement with the Cisneros Society and the damage its enchanters had done after my death）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "All Wednesday afternoon she lay in bed, eating only a little of the tempting food Gertie brought her. I thought about Wister's counsel, wondering whether grief over Rosetta had destroyed her sense of conviction. But when her thoughts were visible to me, I didn't see sorrow for Rosetta. I saw the realm."
 
-**中文理解**：Sam's observation——"All Wednesday afternoon she lay in bed, eating only a little of the tempting food Gertie brought her"、"when her thoughts were visible to me, I didn't see sorrow for Rosetta. I saw the realm"。Clem's depression。
+**中文理解**：Sam 的观察——"All Wednesday afternoon she lay in bed"。Clem 的抑郁。
 
 **句子结构**：时间状语（All Wednesday afternoon）+ 主谓宾（she lay in bed, eating only a little of the tempting food Gertie brought her）+ 主谓宾（I thought about Wister's counsel, wondering whether grief over Rosetta had destroyed her sense of conviction）+ 转折（But when her thoughts were visible to me, I didn't see sorrow for Rosetta. I saw the realm）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "Something happened to me there, Sam. On the way back.""
 
-**中文理解**：Clem's confession——"Something happened to me there, Sam. On the way back"、"Something…something left me. I don't know what. Something…whatever it is that keeps a person moving forward, wanting things, pushing on"。Clem's loss of drive。
+**中文理解**：Clem 的坦白——"Something happened to me there, Sam. On the way back"。Clem 失去动力。
 
 **句子结构**：引语（Something happened to me there, Sam. On the way back）+ 引语（Something…something left me. I don't know what. Something…whatever it is that keeps a person moving forward, wanting things, pushing on）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "I need a little time alone. Don't worry; I won't go anywhere."
 
-**中文理解**：Clem's request——"I need a little time alone. Don't worry; I won't go anywhere"。Clem's request for space。
+**中文理解**：Clem 的请求——"I need a little time alone"。Clem 的空间需求。
 
 **句子结构**：引语（I need a little time alone）+ 引语（Don't worry; I won't go anywhere）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "I thought about what you both said. I don't feel any different, but…" She looked down at her knees. "I made a promise to my mother. I have to keep it."
 
-**中文理解**：Clem's resolution——"I thought about what you both said"、"I don't feel any different, but…"、"I made a promise to my mother. I have to keep it"。Clem's resolution。
+**中文理解**：Clem 的决心——"I thought about what you both said"。Clem 的决心。
 
 **句子结构**：引语（I thought about what you both said）+ 引语（I don't feel any different, but…）+ 主谓宾（She looked down at her knees）+ 引语（I made a promise to my mother. I have to keep it）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "I wonder, Clem, if you might want to visit Vera before we do anything else.""
 
-**中文理解**：Sam's revelation——"I know where it is"。Sam's knowledge。
+**中文理解**：Sam 的揭露——"I know where it is"。Sam 的知识。
 
 **句子结构**：引语（I wonder, Clem, if you might want to visit Vera before we do anything else）+ 引语（No, I don't think so. I'm sure she hasn't found the case）+ 引语（Probably not. But she doesn't have to）+ 主谓宾（I paused, waiting for her to look at me, and smiled）+ 引语（I know where it is）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "He never moves it. It's inside a false book on his shelf."
 
-**中文理解**：Sam's revelation——"He never moves it. It's inside a false book on his shelf"。Sam's knowledge of lead case location。
+**中文理解**：Sam 的 revelatory——"He never moves it. It's inside a false book on his shelf"。Sam 的知识。
 
 **句子结构**：主谓宾（He never moves it）+ 主系表（It's inside a false book on his shelf）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "She rose from the bed in a single bound and threw her arms around me; surprised and gratified, I returned her embrace. Could it be that my spirit form, cold and damp, did not disgust her? She spoke into my shoulder, and the warmth of her voice stole over me. 'Thank you, Sam. Thank you.'"
 
-**中文理解**：Clem's embrace——"She rose from the bed in a single bound and threw her arms around me"、"surprised and gratified, I returned her embrace"、"the warmth of her voice stole over me"、"Thank you, Sam. Thank you"。Clem's gratitude。
+**中文理解**：Clem 的拥抱——"She rose from the bed in a single bound"。Clem 的感激。
 
 **句子结构**：主谓宾（She rose from the bed in a single bound and threw her arms around me）+ 伴随分词短语（surprised and gratified, I returned her embrace）+ 主谓宾（She spoke into my shoulder, and the warmth of her voice stole over me）+ 引语（Thank you, Sam. Thank you）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "Exposing them publicly will be most effective," Clem said as we debated possibilities. She still looked wan, and her spirits seemed to me depressed, but I could see that her thoughts were clear. "Their power comes from their lofty reputation. If we destroy that, they are weak."
 
-**中文理解**：Clem's strategy——"Exposing them publicly will be most effective"、"Their power comes from their lofty reputation. If we destroy that, they are weak"。Clem's strategy。
+**中文理解**：Clem 的策略——"Exposing them publicly will be most effective"。Clem 的策略。
 
 **句子结构**：引语（Exposing them publicly will be most effective）+ 说话标签（Clem said as we debated possibilities）+ 主谓宾（She still looked wan, and her spirits seemed to me depressed, but I could see that her thoughts were clear）+ 引语（Their power comes from their lofty reputation. If we destroy that, they are weak）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "I'll only be a moment."
 
-**中文理解**：Walter's letter——"I am hopeful of undertaking a more direct course: that is, to pass along the name of an individual who would be able to assist you in your undertaking"。Walter's offer。
+**中文理解**：Walter 的信——"I wonder, Clem, if you might want to visit Vera before we do anything else"。Walter 的提议。
 
 **句子结构**：引语（I am hopeful of undertaking a more direct course: that is, to pass along the name of an individual who would be able to assist you in your undertaking）。
 
@@ -139,7 +139,7 @@ start_date: 2026-10-19
 
 > **原句 11:** "I've come from Keel House," I said. "With a message from Clementine."
 
-**中文理解**：Sam's introduction——"I've come from Keel House"、"With a message from Clementine"。Sam's mission。
+**中文理解**：Sam 的介绍——"I've come from Keel House"。Sam 的任务。
 
 **句子结构**：引语（I've come from Keel House）+ 说话标签（I said）+ 引语（With a message from Clementine）。
 
@@ -151,7 +151,7 @@ start_date: 2026-10-19
 
 > **原句 12:** "She's given me these letters: one for you, one for Throckmorton's thew. She's learned the location of the case. The details are there."
 
-**中文理解**：Sam's message——"She's given me these letters: one for you, one for Throckmorton's thew"、"She's learned the location of the case. The details are there"。Sam's message。
+**中文理解**：Sam 的消息——"She's given me these letters"。Sam 的消息。
 
 **句子结构**：引语（She's given me these letters: one for you, one for Throckmorton's thew）+ 引语（She's learned the location of the case. The details are there）。
 

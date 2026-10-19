@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "Our original plan had not required racing to the Manse in an enchanted barouche. The Sor Juana Alliance would venture to the Manse while we conducted the séance, and Clem and I would arrive afterward with Roy. But what I'd seen in Roy's thoughts had upended our plans."
 
-**中文理解**：Sam 的 opening——"Our original plan had not required racing to the Manse in an enchanted barouche"、"what I'd seen in Roy's thoughts had upended our plans"。Sam's realization。
+**中文理解**：Sam 的 opening——、。Sam's realization。
 
 **句子结构**：主谓宾（Our original plan had not required racing to the Manse in an enchanted barouche）+ 主谓宾（The Sor Juana Alliance would venture to the Manse while we conducted the séance, and Clem and I would arrive afterward with Roy）+ 主谓宾（But what I'd seen in Roy's thoughts had upended our plans）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "Wister and the other Sor Juanas never arrived at the Manse."
 
-**中文理解**：Sam's revelation——"Wister and the other Sor Juanas never arrived at the Manse"。Sam's revelation。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主谓宾。极简。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "The Cisneros Society attacked Keel House."
 
-**中文理解**：Sam 与 Clem 的 dialogue——"The Cisneros Society attacked Keel House"、"It might have been worse, for as soon as we started the séance, all of Cisneros descended upon the Lyceum"。Sam's report。
+**中文理解**：Sam 与 Clem 的 dialogue——、。Sam's report。
 
 **句子结构**：引语（The Cisneros Society attacked Keel House）+ 引语（What happened?）+ 引语（It might have been worse, for as soon as we started the séance, all of Cisneros descended upon the Lyceum）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "We stood across from them, separated by the green grass, and as I looked at Simeon pulling the armor down over his golden curls, an expression of unrestrained excitement on his face, I felt a surge of something unpleasant in my belly."
 
-**中文理解**：Sam's desire——"I felt a surge of something unpleasant in my belly: a desire to see him crushed, utterly crushed. No, more—to bring it about with my own hands"。Sam's desire。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主谓宾（She stood across from them, separated by the green grass）+ 时间状语从句（as I looked at Simeon pulling the armor down over his golden curls, an expression of unrestrained excitement on his face）+ 主谓宾（I felt a surge of something unpleasant in my belly: a desire to see him crushed, utterly crushed. No, more—to bring it about with my own hands）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "I call Samuel May as my second."
 
-**中文理解**：Clem 的 declaration——"I call Samuel May as my second"。简短而 decisive，把 Clem's declaration 具象化。
+**中文理解**：Clem 的 declaration——。简短而 decisive，把 Clem's declaration 具象化。
 
 **句子结构**：主谓宾。极简。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "A duel," she shouted.
 
-**中文理解**：Clem 的 declaration——"I call a duel"、"With any member of the Cisneros Society who will represent the rest"。Clem's declaration。
+**中文理解**：Clem 的 declaration——、。Clem's declaration。
 
 **句子结构**：引语（I call a duel）+ 说话标签（she shouted）+ 引语（With any member of the Cisneros Society who will represent the rest）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "'I will,' Simeon called out, cutting into the silence. His voice was eager, and I confess that I felt some eagerness in return. Yes, I thought. Let it be Simeon."
 
-**中文理解**：Simeon 的 response——"I will"、"His voice was eager, and I confess that I felt some eagerness in return. Yes, I thought. Let it be Simeon"。Simeon's response。
+**中文理解**：Simeon 的 response——、。Simeon's response。
 
 **句子结构**：引语（I will）+ 说话标签（Simeon called out, cutting into the silence）+ 主谓宾（His voice was eager, and I confess that I felt some eagerness in return）+ 主谓宾（Yes, I thought. Let it be Simeon）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "We stood, perfectly still, watching Simeon's armor gleam in the sun. I studied his thoughts as he weighed possibilities. Unsurprisingly, Simeon favored petty cruelty."
 
-**中文理解**：Sam's observation——"We stood, perfectly still, watching Simeon's armor gleam in the sun"、"I studied his thoughts as he weighed possibilities"、"Unsurprisingly, Simeon favored petty cruelty"。Sam's observation。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主谓宾（We stood, perfectly still, watching Simeon's armor gleam in the sun）+ 主谓宾（I studied his thoughts as he weighed possibilities）+ 主谓宾（Unsurprisingly, Simeon favored petty cruelty）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "First I aged my face by a decade, and another. Then a decade more. I made my figure frail, my shoulders stooped. My hair grew gray, then white. I raised spotted hands and let them tremble piteously. I showed Simeon his own decline, year by year."
 
-**中文理解**：Sam's disguise——"First I aged my face by a decade, and another. Then a decade more. I made my figure frail, my shoulders stooped. My hair grew gray, then white. I raised spotted hands and let them tremble piteously. I showed Simeon his own decline, year by year"。Sam's disguise。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主谓宾（First I aged my face by a decade, and another）+ 主谓宾（Then a decade more）+ 主谓宾（I made my figure frail, my shoulders stooped）+ 主谓宾（My hair grew gray, then white）+ 主谓宾（I raised spotted hands and let them tremble piteously）+ 主谓宾（I showed Simeon his own decline, year by year）。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "I showed Simeon his own decline, year by year. Simeon's horror held him fast. With great effort, he closed his eyes and focused his thoughts."
 
-**中文理解**：Sam's disguise effect——"I showed Simeon his own decline, year by year"、"Simeon's horror held him fast"、"With great effort, he closed his eyes and focused his thoughts"。Sam's disguise effect。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主谓宾（I showed Simeon his own decline, year by year）+ 主谓宾（Simeon's horror held him fast）+ 伴随分词短语（With great effort, he closed his eyes and focused his thoughts）。
 
@@ -139,7 +139,7 @@ start_date: 2026-10-19
 
 > **原句 11:** "'The ground,' I said quickly, reaching out for Clementine. I couldn't catch her in time. As soon as the words were out of my mouth, the earth beneath us parted, and Clem disappeared."
 
-**中文理解**：Sam's warning——"'The ground,' I said quickly, reaching out for Clementine"、"I couldn't catch her in time"、"As soon as the words were out of my mouth, the earth beneath us parted, and Clem disappeared"。Sam's warning。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：引语（The ground）+ 说话标签（I said quickly）+ 伴随分词短语（reaching out for Clementine）+ 主谓宾（I couldn't catch her in time）+ 时间状语从句（As soon as the words were out of my mouth, the earth beneath us parted, and Clem disappeared）。
 
@@ -151,7 +151,7 @@ start_date: 2026-10-19
 
 > **原句 12:** "I had stopped her descent into the earth. But how far had she fallen? I was aghast at the small pile of rope beside me. Now, hand over hand, I began to pull."
 
-**中文理解**：Sam's rescue——"I had stopped her descent into the earth"、"But how far had she fallen? I was aghast at the small pile of rope beside me"、"Now, hand over hand, I began to pull"。Sam's rescue。
+**中文理解**：本块引语的中文理解（见上文分析）。
 
 **句子结构**：主谓宾（I had stopped her descent into the earth）+ 问句（But how far had she fallen?）+ 主系表（I was aghast at the small pile of rope beside me）+ 主谓宾（Now, hand over hand, I began to pull）。
 

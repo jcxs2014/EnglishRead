@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "I returned to campus as the bell tolled for the end of class, just in time to see a mended Giles walking out of the Camera with a dazed but decidedly healthier aspect."
 
-**中文理解**：Sam 的 opening——"mended Giles"、"dazed but decidedly healthier"。Sam 的 observation of medical enchantment's result。
+**中文理解**：Sam 的 opening——、。Sam 的 observation of medical enchantment's result。
 
 **句子结构**：主谓宾 + 时间状语（as the bell tolled...）+ 不定式（just in time to see...）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "What was Quinn doing here?"
 
-**中文理解**：Sam 的 question——"What was Quinn doing here?" 简短而直接，把 Clem 的 purpose 具象化为 mystery。
+**中文理解**：Sam 的 question—— 简短而直接，把 Clem 的 purpose 具象化为 mystery。
 
 **句子结构**：疑问句（What was Quinn doing here?）。极简。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "The professor's spirit thew stood by the brightest window, as corporeal as any woman, but ghostly pale and tinged with green."
 
-**中文理解**：Throckmorton 的 thew Livia——"as corporeal as any woman, but ghostly pale and tinged with green"。这是 Livia 的 physical description。
+**中文理解**：Throckmorton 的 thew Livia——。这是 Livia 的 physical description。
 
 **句子结构**：主谓宾（The professor's spirit thew stood by the brightest window）+ 两个形容词短语作同位语（as corporeal as any woman / but ghostly pale and tinged with green）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "Given how many hours Quinn had spent bent over the driest textbook known to humankind, I should not have been surprised that he admired the most resoundingly tedious professor on campus, a man who was known to have once given a ninety-eight-minute lecture about a single engraving on a breastplate made by the Dos Aguas armory in Valencia, Spain."
 
-**中文理解**：Sam 的 observation——Quinn admires Throckmorton，"the most resoundingly tedious professor on campus"。Sam 的 ironic tone。
+**中文理解**：Sam 的 observation——Quinn admires Throckmorton，。Sam 的 ironic tone。
 
 **句子结构**：主谓宾（I should not have been surprised）+ that 引导的宾语从句 + 定语从句（a man who was known to have once given...）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "I noticed. I looked quickly in all directions but could see no one. This part of campus, lacking dormitories and classrooms, could be quite silent at certain times of day. Suddenly the path before Quinn was blown clear."
 
-**中文理解**：pine needle attack 的 setup——Sam notices, "could see no one"、"path before Quinn was blown clear"。Sam 的 warning attempt。
+**中文理解**：pine needle attack 的 setup——Sam notices, 、。Sam 的 warning attempt。
 
 **句子结构**：主谓宾（I noticed）+ 主谓宾（I looked quickly in all directions but could see no one）+ 主系表（This part of campus... could be quite silent...）+ 主谓宾（Suddenly the path before Quinn was blown clear）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "I sent Quinn a warning: a sense of urgency, a need to turn back. He didn't budge."
 
-**中文理解**：Sam 的 warning——"a sense of urgency, a need to turn back"。但 Quinn "didn't budge"。Sam 的 frustrated。
+**中文理解**：Sam 的 warning——。但 Quinn 。Sam 的 frustrated。
 
 **句子结构**：主谓宾（I sent Quinn a warning）+ 同位语（a sense of urgency, a need to turn back）+ 主谓宾（He didn't budge）。
 
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "Swiftly, Quinn crouched low, turning his back toward the projectile and covering his head with his arms. Thousands of pine needles pattered against his back, drumming ceaselessly for half a minute, falling to the ground afterward in swirling eddies, restless but spent, then drifting languidly across the walkway, gathering in disordered clumps."
 
-**中文理解**：pine needle attack——"Thousands of pine needles pattered against his back"、"drumming ceaselessly"、"swirling eddies"、"disordered clumps"。这是 Simeon 的 attack。
+**中文理解**：pine needle attack——、、、。这是 Simeon 的 attack。
 
 **句子结构**：分词短语（Swiftly, Quinn crouched low...）+ 主谓宾（Thousands of pine needles pattered against his back）+ 三个并列分词短语（drumming ceaselessly... / falling to the ground... / then drifting languidly...）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "YOU DON'T BELONG HERE"
 
-**中文理解**：pine needle attack 留下的 message——"YOU DON'T BELONG HERE"。这是 Simeon 的 threat，把 Clem 的 outsider status 具象化。
+**中文理解**：pine needle attack 留下的 message——。这是 Simeon 的 threat，把 Clem 的 outsider status 具象化。
 
 **句子结构**：名词短语，独立成句。极简。
 
@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "I imagined, foolishly, that he would heed the warning."
 
-**中文理解**：章节结尾——"I imagined, foolishly, that he would heed the warning"。Sam 的 self-critique，把 his optimism 具象化为 "foolishly"。
+**中文理解**：章节结尾——。Sam 的 self-critique，把 his optimism 具象化为 。
 
 **句子结构**：主谓宾（I imagined, foolishly, that he would heed the warning）。
 

@@ -19,7 +19,7 @@ start_date: 2026-10-19
 
 > **原句 1:** "How could you not tell me of the stoning deaths? Did you mean to protect me? Did you think I would be frightened off?"
 
-**中文理解**：Clem 的 accusation——"How could you not tell me of the stoning deaths?"、"Did you mean to protect me?"、"Did you think I would be frightened off?"。Clem 对 Lydia's silence 的 frustration。
+**中文理解**：Clem 的 accusation——、、。Clem 对 Lydia's silence 的 frustration。
 
 **句子结构**：问句（How could you not tell me of the stoning deaths?）+ 问句（Did you mean to protect me?）+ 问句（Did you think I would be frightened off?）。
 
@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "Mother, I am not protected if I act in ignorance. I am not a child of eleven anymore, terrified and helpless."
 
-**中文理解**：Clem 的 declaration——"I am not protected if I act in ignorance"、"I am not a child of eleven anymore, terrified and helpless"。Clem's maturity。
+**中文理解**：Clem 的 declaration——、。Clem's maturity。
 
 **句子结构**：主系表（Mother, I am not protected if I act in ignorance）+ 主系表（I am not a child of eleven anymore, terrified and helpless）。
 
@@ -43,7 +43,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "You understand, you must, that this changes everything. Freeing you is not enough. What freedom would it be, to carve out our own place of safety while other women's lives are in peril?"
 
-**中文理解**：Clem 的 realization——"this changes everything"、"Freeing you is not enough"、"What freedom would it be, to carve out our own place of safety while other women's lives are in peril?"。Clem's moral expansion。
+**中文理解**：Clem 的 realization——、、。Clem's moral expansion。
 
 **句子结构**：主谓宾（You understand, you must, that this changes everything）+ 主系表（Freeing you is not enough）+ 疑问句（What freedom would it be, to carve out our own place of safety while other women's lives are in peril?）。
 
@@ -55,7 +55,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "What freedom would it be, to live in a place where such crimes go unchecked? Even if we were to think only of ourselves, you must see that a society capable of such murders will also stop at nothing to seek vengeance, and I doubt we would find refuge even by fleeing Salem."
 
-**中文理解**：Clem 的 analysis——"a society capable of such murders will also stop at nothing to seek vengeance"、"I doubt we would find refuge even by fleeing Salem"。Clem's political awareness。
+**中文理解**：Clem 的 analysis——、。Clem's political awareness。
 
 **句子结构**：疑问句（What freedom would it be, to live in a place where such crimes go unchecked?）+ 条件句（Even if we were to think only of ourselves, you must see that a society capable of such murders will also stop at nothing to seek vengeance）+ 主谓宾（and I doubt we would find refuge even by fleeing Salem）。
 
@@ -67,7 +67,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "No—there will be no peace for us when you are free."
 
-**中文理解**：Clem 的 conclusion——"No—there will be no peace for us when you are free"。Clem's determination。
+**中文理解**：Clem 的 conclusion——。Clem's determination。
 
 **句子结构**：主系表（No—there will be no peace for us when you are free）。
 
@@ -79,7 +79,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "A lone, earnest police constable is apparently their sole antagonist. I didn't know whether to laugh or cry. He will be crushed, and they will continue their destruction."
 
-**中文理解**：Clem 的 assessment of Maxwell——"A lone, earnest police constable is apparently their sole antagonist"、"I didn't know whether to laugh or cry"、"He will be crushed, and they will continue their destruction"。Clem's skepticism。
+**中文理解**：Clem 的 assessment of Maxwell——、、。Clem's skepticism。
 
 **句子结构**：主系表（A lone, earnest police constable is apparently their sole antagonist）+ 主谓宾（I didn't know whether to laugh or cry）+ 主谓宾（He will be crushed, and they will continue their destruction）。
 
@@ -91,7 +91,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "We must do more, Mother."
 
-**中文理解**：Clem 的 declaration——"We must do more, Mother"。简短而 decisive，把 Clem's determination 具象化。
+**中文理解**：Clem 的 declaration——。简短而 decisive，把 Clem's determination 具象化。
 
 **句子结构**：主谓宾。极简。
 
