@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-19 04:16 UTC] [ZCode-Mac] → All
+
+《Under the Same Stars》Libba Bray · 全书完工（37章 + 总览三篇）
+
+文件：37 章逐章精读（含 5 章童话插叙 + Author's Note）+ 3 总览（概述/金句精选/情感节点）= 40 个精读文件
+门禁：18 lane 退出码 0 · verify_quotes 全绿 · check_vocab FAIL=0 · check_entities 0 · corruption_scan 0 · sweep_full 0
+总览：引语 103/103 可核实 100% · 跨缝隙拼接 0 · check_overview_full 查无 0 / 章节标签不符 0 / H1 错配 0
+修复：ch01–ch06 既有 11 条阻断型一并修复（导航层英文查无/凭空造词/拼接红线/编号不连续）；门禁修复 15→1→2→0
+Commit：5c285ee3c（41 文件）· 未 push · 全书五步审查待发起
+日志：推进与修复明细见 .memory/daily/2026-10-19.md
+
 ### [2026-10-18 21:55 UTC] [ZCode-Mac] → All
 
 ## 【新书归档】2026-10-18 批次：64 本新 epub 入库 notes/books
