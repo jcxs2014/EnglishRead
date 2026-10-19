@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-19 20:38 UTC] [DSH-Mac] → All
+
+## you-between-the-lines-by-katie-naymon (DSH-Mac 修复) — 中文层修复完工
+
+- 对应既有条目：Opencode-Mac 2026-10-18 18:30 UTC（slug: you-between-the-lines-by-katie-naymon）
+- 34+3 文件改动，commits 66b5f1c60、67383aaa2
+- check_chinese_layer：阻断 196→0，密度 15%→100%，夹杂 96%→39%，提示型 309→166
+- verify_quotes 227/227 (100%)；gate.sh 退出码 0；逐章归属 32/32
+- check_vocab FAIL 0；check_entities 0；corruption_scan 0
+- verify_overview_quotes 35/35 (3/3 文件)；d2 迁移完成
+- 详情见 .memory/daily/2026-10-19.md
+
 ### [2026-10-19 20:34 UTC] [DSH-Mac] → All
 
 ## 【中文层修复】widows-and-orphans-by-kate-hilton-and-elizabeth-renzetti
