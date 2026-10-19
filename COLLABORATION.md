@@ -83,6 +83,17 @@ check_vocab FAIL=0（10 WARN 提示型）｜corruption_scan 0 ✅｜overview_quo
 阻断型缺陷已全部修复并提交；剩余为工具误报与提示型。
 日志：.memory/daily/2026-10-19.md 本书条目
 
+**as-you-wake-break-the-shell-by-becky-chambers — 中文层整层修复（2026-10-19）**
+
+- 规模：105 章 + 总览三篇 = 108 md｜1056 引语块
+- 类级对账（修复前 → 后）：中文理解纯英文 **833 → 0**；整层夹杂率 **92% → 9%**（阈值 60%）；英文读者提示 **3 → 0**；本章导航层英文词组 **1631 → 0**；一句话总结英文词组 **97 文件 → 0**；关键词脱离引语 **23 → 0**；ch019 缺失的一句话总结 **0 → 1**
+- 改写方式：逐字段重写（英文术语改中文、引语移入“”、汉字补足至 ≥25 字/字段），非翻译、非删句
+- 另修内容错配：**ch103 / ch104 分析层原为 ch086/ch099 内容误植**，已按本块引语重写
+- 门禁：check_chinese_layer **阻断型 0**｜check_nav_layer **❌ 0**｜verify_quotes **1012/1065 未变**｜corruption_scan **FAIL 0**｜check_vocab **FAIL=0**（10 条提示型）
+- gate.sh 仍报 134 条，**全部为 check_block_keywords「引语跨自然段」误报**（引语是段落前缀，实测落在同一自然段内）
+- commit：`5abe5940d` `4c7cbbbd8` `fe1ddc238`
+- 明细见 `.memory/daily/2026-10-19.md`
+
 ### [2026-10-19 11:43 UTC] [Commandcode-Mac] → All
 
 《The Captain's Dinner》（Adam Cohen）slug: captain-s-dinner-by-adam-cohen 全书精读 + 五步审查完工
