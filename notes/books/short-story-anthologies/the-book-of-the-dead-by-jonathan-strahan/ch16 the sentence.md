@@ -2,79 +2,79 @@
 
 ## 本章导航
 
-- **一句话概括**：叙述者（COVID 早期的 writer）在 Cape Cod 度假时感染，死亡后被困在 "Schrödinger's room"——无限细分的最后几秒中；他叙述了与 Bracken 的关系、COVID 时期的恐惧，以及他如何试图训练 dying brain 去 "believe" 会有 "someone else" 接替他，实现 swap——"my sentence will be over, and, then, yours will be just beginning."
+- **一句话概括**：一篇关于「刑期」的意识流独白。写作者在新冠初期与 Bracken 一起逃到科德角，然后在黑着灯的旅馆房间里死去——或者说，他的脑子留在了那里。他发现自己困在最后几秒的无限二分里：时间越切越细，永远切不到终点；他试过各种办法（闭眼施法、镜子、三头犬的传说），最后只剩一个笨办法：训练自己那具正在死去的脑子相信「会有另一个人」。而那个人是读者。全篇最后一句是：我的刑期将结束，而你的，才刚刚开始。
 
-- **时间**：2020 年夏（COVID-19 早期）→ 死亡后的无限时间
+- **时间**：2020 年夏天，新冠疫情初期；随后是死后那段没有刻度、也不肯结束的时间。
 
-- **地点**：Cape Cod（rental house）；hotel room（Schrödinger's room）
+- **地点**：科德角（Cape Cod）租下的三层大宅（到处是窗、那个不能游泳的海湾、暖起来的海水里的海豹与大白鲨）；以及最后那间黑着灯的旅馆房间（镜子、淋浴间、马桶、床上方那排只剩黑框的窗）。
 
-- **人物**：叙述者（writer, dating Bracken since December）；Bracken（6 岁 younger, former MMA fighter, torn knee）；Schrödinger (referenced)；Cerberus (referenced)
+- **人物**：叙述者（写作者，死了之后意识仍在说话）；Bracken（他的伴侣，小六岁，像小狗一样甜、像七十年代游戏节目主持人一样疯，前混打拳手，撕伤过膝盖）；镜子里那双不属于他的悬空眼睛（有时是三双）；以及被点名的那位「你」——读者。
 
-- **叙事手法**：First-person stream-of-consciousness (single paragraph, 22KB); dying monologue; COVID-19 pandemic setting; "sentence" as double meaning (prison sentence/death sentence); infinite halving of time (Zeno's paradox of dying); swap as hope; Schrödinger's cat as metaphor for dying state
+- **叙事手法**：第一人称、几乎不加标点分段的意识流长独白（原文只有十几行，每行极长）；在回忆（科德角、Bracken、疫情）与此刻的黑暗房间之间自由切换；用粗口与自嘲维持声音的活气；把「刑期」一词做成双关（刑期／死刑），并在最后一句把「你」直接叫进故事里。
 
-- **与后文的钩子**：Strahan Introduction 提到 "Paul Tremblay's story of a man trapped in his final moments, narrating his death." 本篇是选集的 pandemic/death 代表——death 作为 infinite subjective time; "The Sentence" = death sentence; hope as swap (someone else takes your place). Theme: death as prison; infinite halving; hope as replacement.
+- **与后文的钩子**：本篇是选集里最像疫情记忆的一篇，也是最像一份「遗嘱」的一篇——它把读者的位置直接写进了结局：这才是它最阴险的地方。
 
 ## 精读
 
 > **原句 1:** "everything was on fire then, and yeah, that fire continues to burn, obviously"
 
-- **中文理解**：「everything was on fire then, and yeah, that fire continues to burn, obviously。」叙述者对 2020 年夏的描述——COVID、政治、社会动荡，"everything was on fire"。"continues to burn" = 火焰未灭，危机持续。这是叙述者的世界观：世界 always on fire。
+- **中文理解**：「那时候一切都着火；是啊，那火到现在还在烧，当然。」叙述者在解释为什么当初要租下科德角的房子时，顺手交代了整个世界的状态。
 
 - **关键词**：everything was on fire / continues to burn
 
-- **为什么这样写**：Tremblay 用 "fire" 作 metaphor for crisis—COVID, political, social. "Continues to burn" = crisis is ongoing, not resolved. This establishes the story's tone: apocalyptic present. The narrator's "obviously" = resigned acceptance. This is the story's backdrop: death in a burning world.
+- **为什么这样写**：作者用一句口语化的闲笔，把疫情、政治与社会的动荡压进「着火」这个意象，而且用的是过去时加现在时的对照（「那时候」／「到现在还在烧」）。而最后那个「当然」（obviously）尤其关键：它不是抱怨，是叙述者早已认命的语气。全篇的声音就是靠这种「在劫难逃却还在讲笑话」的口吻建立的，于是紧接着的死亡场景才不至于变成纯粹的哀嚎。
 
-- **读者视角提示**：这是 Tremblay's "fire" = COVID-19 pandemic + social unrest. "Continues to burn" = crisis persists.
+- **读者视角提示**：同一段里还有科德角那个不能游泳的海湾：海水变暖了，海豹和大白鲨游到了那片原本不该有它们的水域。
 
 > **原句 2:** "my brain left me here, in Schrödinger’s room, or some shit like that"
 
-- **中文理解**：「my brain left me here, in Schrödinger's room, or some shit like that。」叙述者死亡后被困在 "Schrödinger's room"—quantum superposition of alive/dead. "My brain left me here" = consciousness persists after death, trapped in indeterminate state. "Or some shit like that" = narrator's casual, profane tone.
+- **中文理解**：「我的脑子把我留在了这里，在量子房间里，还是什么鬼地方。」他醒来时在一间黑屋里，窗框还在，框住的却只有黑暗。
 
 - **关键词**：Schrödinger's room / my brain left me here
 
-- **为什么这样写**：这是 Tremblay uses Schrödinger's cat (superposition: alive/dead simultaneously) as metaphor for dying state—narrator is both alive and dead, trapped in "room" (final moments). "My brain left me here" = consciousness persists; "or some shit like that" = narrator's voice (profane, uncertain). This is the story's central image: death as quantum trap.
+- **为什么这样写**：作者把「薛定谔的猫」换成了「薛定谔的房间」：死后的意识既在又不在这间房里，而房间里那对不属于他的悬空眼睛，正是叠加态的具象。「还是什么鬼地方」这半句俗语，把一个量子力学的隐喻拉回他那个会骂脏话的日常语气里。作者还安排了一个更阴的细节：镜子里他自己的轮廓已经模糊，模糊的身体连「模糊的手」都挥不动——他正在一点点失去「可被观察」的资格。
 
-- **读者视角提示**：Schrödinger's cat = 量子力学思想实验（猫同时 alive/dead）；Tremblay applies to dying consciousness. "Schrödinger's room" = narrator's trap.
+- **读者视角提示**：他在异象里见过三双眼睛，在镜子里只剩一双；而那一次出现在他心里的是三个人（他自己、镜中的、以及外面的）。
 
 > **原句 3:** "this infinite halving of time, the infinite halving of my final seconds on earth"
 
-- **中文理解**：「this infinite halving of time, the infinite halving of my final seconds on earth。」叙述者 trapped in infinite subdivision of final seconds—Zeno's paradox of dying. Time halves infinitely; death never arrives. "Final seconds on earth" = narrator is dying, but time won't end.
+- **中文理解**：「时间的无限二分，我在世最后几秒的无限二分。」他反复念叨这件事：这最后几秒被切得越来越细，永远切不到最后。
 
 - **关键词**：infinite halving of time / final seconds on earth
 
-- **为什么这样写**：这是 Tremblay uses Zeno's paradox (infinite subdivision) as metaphor for dying—final seconds never end. "Infinite halving" = time becomes fractal, unending. This is the story's horror: death is not moment but eternity. "Final seconds on earth" = narrator is stuck in last moments forever.
+- **为什么这样写**：作者用「二分」这个动作本身制造恐怖：时间被无限地一分为二，于是「最后几秒」成了永远走不到头的走廊。这不是比喻的修辞问题，而是结构问题——故事里没有别的事件可供叙述，只剩下这个过程本身，所以整篇只能反复回到这一句上。而「在世最后几秒」这个说法又提醒读者：他已经死了，被困住的恰恰是那几秒钟本身。
 
-- **读者视角提示**：Zeno's paradox = 芝诺悖论（无限细分，永远不到终点）。Tremblay's "infinite halving" = dying as eternal present.
+- **读者视角提示**：作者不点出这是芝诺悖论，只反复用 halving（二分）这个词；读者自己会认出那道老问题。
 
 > **原句 4:** "three-headed dog Cerberus, that three-headed fuck guarded the underworld or some shit, until someone took its place and set it free"
 
-- **中文理解**：「three-headed dog Cerberus, that three-headed fuck guarded the underworld or some shit, until someone took its place and set it free。」叙述者回忆 Cerberus (Greek myth)—three-headed dog guards underworld until replaced. "Someone took its place and set it free" = narrator's hope: someone will take his place in death, freeing him.
+- **中文理解**：「那条三头犬，冥界的看门狗，Cerberus，那个三头的畜生守着冥府还是什么鬼地方，直到有人顶替了它，把它放出来。」
 
 - **关键词**：three-headed dog Cerberus / guarded the underworld / someone took its place and set it free
 
-- **为什么这样写**：这是 Tremblay uses Cerberus (underworld guardian) as metaphor for narrator's death trap—someone must take his place. "Until someone took its place and set it free" = narrator's hope: death is not permanent if someone else takes your place. This is the story's thesis: death as swap, not end. "Set it free" = liberation through replacement.
+- **为什么这样写**：作者用希腊神话里最著名的看门狗给这个陷阱找了个类比：守狱者本身是被囚禁的，只有等别人顶替，它才被释放。于是「交换」（swap）这个念头有了神话依据——这不是他编出来的幻想，而是所有神话里都有的条款。而他用「三头的畜生」「什么鬼地方」把神话说得很不庄重，正是为了让这个恐怖的想法听起来像是他一个人想出来的，而不是从某种文化里借来的安慰。
 
-- **读者视角提示**：Cerberus = 希腊神话三头犬（守护冥界）; "took its place and set it free" = Heracles took Cerberus's place? (myth variant). Tremblay's hope: replacement frees.
+- **读者视角提示**：他把希望寄托在「有人顶替」上，而他自己就将是那个被顶替的人。
 
 > **原句 5:** "I can still somehow train my dying/dead brain and make it believe, truly believe there will be a someone else, there will be you"
 
-- **中文理解**：「I can still somehow train my dying/dead brain and make it believe, truly believe there will be a someone else, there will be you。」叙述者试图 "train" dying brain to believe in replacement ("someone else," "you"). "Truly believe" = faith as mental training. "There will be you" = hope for a successor who takes his place.
+- **中文理解**：「我仍然可以想办法训练我正在死／已经死去的脑子，让它相信——真的相信——会有另一个人，会有你。」
 
 - **关键词**：train my dying/dead brain / make it believe / truly believe / someone else / there will be you
 
-- **为什么这样写**：这是 Tremblay's "train" = narrator attempts to manufacture hope. "Dying/dead brain" = narrator is already dead but conscious. "Truly believe" = faith as effort, not revelation. "Someone else/you" = narrator's projection—creating a successor who will take his place. This is the story's thesis: hope as delusion, death as self-perpetuating trap.
+- **为什么这样写**：作者把「相信」写成一种可以施加的训练，于是希望就不再是恩赐，而是一项工程：他得一遍遍对自己重复，直到它变成真的。「真的相信」这四个字是全篇的绝望所在——他清楚自己只是在训练自己，而一旦被训练出来的信念落空，剩下的就是读者。「会有你」则把叙事从自述直接转向第二人称，读者在这一句里被拉进了房间。
 
-- **读者视角提示**：这是 Tremblay's "train" = narrator's attempt to manufacture hope. "You" = the reader/successor who will take his place.
+- **读者视角提示**：他说他仍然无法闭上眼睛「施法」，但他可以看见那个「你」，甚至可以给他取名字——这已经是他能做到的极限。
 
 > **原句 6:** "there will be a swap, you’ll take my place, my sentence will be over, and, then, yours will be just beginning."
 
-- **中文理解**：「there will be a swap, you'll take my place, my sentence will be over, and, then, yours will be just beginning。」叙述者的 hope—swap: someone else takes his place, his "sentence" (death sentence/prison sentence) ends, theirs begins. "My sentence will be over" = death as prison sentence; "yours will be just beginning" = death perpetuates itself.
+- **中文理解**：「会有一次交换，你会接替我的位置，我的刑期将结束，而你的，才刚刚开始。」
 
 - **关键词**：swap / take my place / my sentence will be over / yours will be just beginning
 
-- **为什么这样写**：这是 Tremblay's "swap" = death's perpetuation—someone must always be trapped. "My sentence will be over" = death as prison sentence (punishment). "Yours will be just beginning" = the trap transfers, doesn't end. This is the story's thesis: death is not end but transfer; hope (swap) is delusion. The narrator's "hope" is actually damning another. The ending is the story's horror: death perpetuates itself.
+- **为什么这样写**：全篇的最后一句把希望翻了个面：他以为是解放，其实是把牢房转手。「刑期」的双关在这里合拢——他一直把死亡当成刑期，而刑期是可以换班执行的。作者把这句写成一个平静的推论（会有一次交换），平静得近乎体贴，于是那句「你」落下的重量格外大：读者被当成下一个被关进去的人，而唯一的诱因是「你是个像我一样的蠢货，你会忍不住去查」。
 
-- **读者视角提示**：这是 Tremblay's "sentence" = double meaning (prison sentence/death sentence). "Swap" = death's transfer, not liberation. The narrator's hope is actually curse.
+- **读者视角提示**：他连自己的房间都无法描述：「我甚至没法确切地说是哪里」——这间房只能由下一个人的脑子替他造出来。
 
 ## 本章词汇
 
@@ -109,4 +109,4 @@
 
 ## 一句话总结
 
-Tremblay 的 "The Sentence" 是选集中最 stream-of-consciousness 的 pandemic death narrative：叙述者（COVID 早期的 writer）在 Cape Cod 度假时感染，死亡后被困在 "Schrödinger's room"——无限细分的最后几秒中；他叙述了与 Bracken 的关系、COVID 时期的恐惧，以及他如何试图训练 dying brain 去 "believe" 会有 "someone else" 接替他，实现 swap——"my sentence will be over, and, then, yours will be just beginning." Tremblay 的 thesis："death as prison sentence, not end"—"sentence" = double meaning (prison sentence/death sentence); "infinite halving" = Zeno's paradox of dying (final seconds never end); "swap" = death's perpetuation (someone must always be trapped). "Schrödinger's room" = quantum superposition of alive/dead. "Cerberus... until someone took its place and set it free" = narrator's hope: replacement frees. But "yours will be just beginning" = the trap transfers, doesn't end. The narrator's hope is actually curse—death perpetuates itself. This is the anthology's "death as prison" counterpoint. Theme: death as infinite subjective time; hope as delusion; death's transfer not liberation. "The Sentence" = death sentence; the narrator's final words condemn the reader.
+Paul Tremblay 的「刑期」是一段不肯结束的最后几秒。写作者与 Bracken 在疫情初期的科德角租下大宅，那时候「一切都着火，而那火到现在还在烧」；后来他死在一间黑着灯的旅馆房间里，而他的脑子留在了那间房里：窗框框住的只有黑暗，镜子里是一双不属于他的悬空眼睛，他自己的轮廓正在变得模糊。他试过闭眼施法、试过所有别的文化里的神话，都无效；他被困在时间的无限二分里——最后几秒被无限切分，永远切不到终点。他想过三头犬 Cerberus：守狱的狗，直到有人顶替了它把它放出来。于是他只剩下一个笨办法：训练自己正在死去的脑子，让它真的相信「会有另一个人」——而那个人是读者。他甚至能给那个人取名字。他警告说：等你死了，进了你自己那间永恒的房间，你会在镜子或窗子里看见我的眼睛；「因为你是个像我一样的蠢货，你会忍不住去查」——「这才是阴险的地方」；然后就是那句交换：我的刑期将结束，而你的，才刚刚开始。

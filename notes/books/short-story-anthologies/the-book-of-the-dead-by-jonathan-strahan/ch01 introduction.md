@@ -2,12 +2,12 @@
 
 ## 本章导航
 
-- **一句话概括**：编辑 Jonathan Strahan 回溯《The Book of the Dead》的起源——2023 年塔斯马尼亚之行中被 Day of the Dead 骷髅启发，进而思考 SF/幻想/恐怖三大类型中「死亡」的不同处理方式，最终集结二十余位作者，以死亡为主题编成这部选集。
+- **一句话概括**：编辑 Jonathan Strahan 回溯《The Book of the Dead》的起源——2023 年塔斯马尼亚之行中被亡灵节骷髅启发，进而思考科幻、幻想、恐怖三大类型中「死亡」的不同处理方式，最终集结二十余位作者，以死亡为主题编成这部选集。
 - **时间**：2023 年初（Strahan 完成《The Book of Witches》之后）→ 塔斯马尼亚之行（秋）→ 2025 年 8 月（Perth）定稿
-- **地点**：塔斯马尼亚 Hobart（ Mexican 餐厅）；Perth（定稿地）
-- **人物**：Jonathan Strahan（编辑/叙述者）；Terry Pratchett（Bill Door）；Garth Nix（Sabriel）；Ursula K. Le Guin（Earthsea）；Tolkien；Mary Shelley（Frankenstein）；Stephen Graham Jones；Tamsyn Muir；Indrapramit Das；Kaaron Warren；Daryl Gregory；Jeffrey Ford；Paolo Bacigalupi
-- **叙事手法**：第一人称编辑手记——从个人灵感出发，扩展为类型史综述，最后落回选集的组织逻辑与阅读顺序
-- **与后文的钩子**：Strahan 明确指出阅读顺序：Das 开篇（火车上的道德抉择）→ Warren 收尾（熟悉死亡却需逃离的家庭）；中间穿插 Gregory 的动物实验恐怖、Ford 的死后重逢幻想、Bacigalupi 的暴力刺客、Nix 的 Old Kingdom 回归。全书是一幅「死亡的巨幅壁画」。
+- **地点**：塔斯马尼亚 Hobart（墨西哥餐厅）；Perth（定稿地）
+- **人物**：Jonathan Strahan（编辑兼叙述者）；Terry Pratchett（Bill Door）；Garth Nix（Sabriel）；Ursula K. Le Guin（Earthsea）；Tolkien；Mary Shelley（Frankenstein）；Stephen Graham Jones；Tamsyn Muir；Indrapramit Das；Kaaron Warren；Daryl Gregory；Jeffrey Ford；Paolo Bacigalupi
+- **叙事手法**：第一人称编辑手记——从个人灵感出发，扩展为类型史综述，最后落回选集的组织逻辑与推荐阅读顺序
+- **与后文的钩子**：Strahan 明确指出阅读顺序：Das 开篇（火车上的道德抉择）→ Warren 收尾（熟悉死亡却偶尔需要逃开的家庭）；中间穿插 Gregory 的动物实验恐怖、Ford 的死后重逢幻想、Bacigalupi 的暴力刺客、Nix 的旧王国回归。全书是一幅「死亡的巨幅壁画」。
 
 ## 精读
 
@@ -27,9 +27,9 @@
 
 > **原句 3:** "My favorite, and possibly the most famous, of these is Terry Pratchett’s Bill Door, talking in ALL CAPS and sharing kindness and wisdom as he moves through what is a difficult job, though there are others."
 
-- **中文理解**：Strahan 最喜欢、也可能是最著名的「死神人物化」是 Terry Pratchett 的 Bill Door——用 ALL CAPS 说话，在执行一项艰难的工作时分享善意与智慧。though there are others 表示还有其他例子。
+- **中文理解**：Strahan 最喜欢、也可能是最著名的「死神人物化」，是 Terry Pratchett 笔下的 Bill Door——用全大写说话，在做一份艰难工作的同时分享善意与智慧。句末那句「不过还有别的例子」是在交代：这种写法不止一种。
 - **关键词**：Bill Door / ALL CAPS / kindness and wisdom
-- **为什么这样写**：Bill Door 是 Discworld 系列中死神的化身，以 ALL CAPS 发言、骑白马、提镰刀，却常被描写为 kindly and wise。Strahan 用他作「死神人物化」的代表，强调死亡可以是温柔的、有尊严的——与 Horror 段落中「死亡是威胁」形成对照。这也是全书的另一极：死亡不是只有恐怖，也可以是善与智慧。
+- **为什么这样写**：Bill Door 是 Discworld 系列里死神的化身：全大写发言、骑白马、提镰刀，却常被写成善良而睿智的样子。Strahan 选他当「死神人物化」的代表，是为了强调死亡也可以是温柔的、有尊严的——这与恐怖段落里「死亡是威胁」的说法正好构成对照。所以这一段替全书立住了另一极：死亡不只有恐怖，也可以是善与智慧。
 - **读者视角提示**：Bill Door 是 Pratchett《Discworld》系列的死神角色，以全大写对话、骑白马、持镰刀著称，却常被描写为 kindly and wise。ALL CAPS 是 Pratchett 的标志性排版（死神说话时所有字母大写）。Discworld 是 Pratchett 的奇幻系列（1983-2015）。
 
 > **原句 4:** "Science fiction, on the other hand, rarely treats Death as an end in itself. Instead, it focuses on how death might be deferred, cheated, or technologically transformed."
@@ -41,16 +41,16 @@
 
 > **原句 5:** "In Mary Shelley’s Frankenstein, death is challenged through reanimation—an early, gothic vision of scientific hubris later revisited by authors from Poe to Lovecraft."
 
-- **中文理解**：在 Mary Shelley 的《Frankenstein》中，死亡通过再动画化（reanimation）被挑战——这是科学傲慢的早期哥特式愿景，后来被 Poe 到 Lovecraft 的作者反复重访。Frankenstein 是 SF 死亡叙事的起点：试图用科学逆转死亡。
+- **中文理解**：在 Mary Shelley 的《Frankenstein》中，死亡被「复活死人」（reanimation）挑战——这是科学傲慢的早期哥特式愿景，后来被从 Poe 到 Lovecraft 的作者反复重访。《Frankenstein》正是科幻死亡叙事的起点：试图用科学逆转死亡。
 - **关键词**：reanimation / scientific hubris / gothic vision
-- **为什么这样写**：Strahan 把 Frankenstein 放在 SF 死亡叙事的起点，用 "scientific hubris"（科学傲慢）定义其本质——死亡是科学挑战的对象，但挑战本身包含道德危险。"later revisited by authors from Poe to Lovecraft" 把 Frankenstein 连接到整个哥特/恐怖传统，显示 SF 与 Horror 的边界模糊。
+- **为什么这样写**：Strahan 把《Frankenstein》放在科幻死亡叙事的起点，用「科学傲慢」来定义它的本质——死亡是科学挑战的对象，但挑战本身自带道德危险。「后来被从 Poe 到 Lovecraft 的作者重访」这一句，把《Frankenstein》接到了整个哥特与恐怖传统上，也显示出科幻与恐怖之间的边界并不分明。
 - **读者视角提示**：reanimation = 再动画化/复活（将尸体重新赋予生命）；scientific hubris = 科学傲慢（试图超越人类限度的科学野心，通常以灾难收场）；gothic vision = 哥特式愿景（黑暗、恐怖、超自然的美学风格）。Poe（Edgar Allan Poe）和 Lovecraft（H. P. Lovecraft）是恐怖文学先驱。
 
 > **原句 6:** "Horror keeps death close at hand. Sometimes it is the quiet inevitability that waits just beyond the frame, and sometimes it bursts forth in blood and terror."
 
 - **中文理解**：恐怖文学把死亡紧握在手边。有时它是画面之外静候的必然性（quiet inevitability），有时它以鲜血与恐怖爆裂而出。 Horror 对死亡的态度是「不可回避的在场」——死亡不是要解决的问题，而是要面对的现实。
 - **关键词**：close at hand / quiet inevitability / bursts forth
-- **为什么这样写**：Horror 段落与 SF/Fantasy 段落形成三极对照：Fantasy 把死亡人物化/土地化（Bill Door、Sabriel 的 precincts），SF 把死亡技术化（deferred/cheated/transformed），Horror 把死亡「在场化」（close at hand）。"quiet inevitability" vs "bursts forth in blood and terror" 是恐怖文学的两种模式：隐性恐怖（鬼故事、悬念）与显性恐怖（血浆、怪物）。
+- **为什么这样写**：恐怖这一段与前面的科幻、奇幻形成三极对照：奇幻把死亡人物化或土地化（Bill Door、Sabriel 世界的九重险境），科幻把死亡技术化（推迟、欺骗、转化），恐怖则把死亡「放在手边」。「静候在画面之外的必然」与「以鲜血和恐怖爆裂而出」，是恐怖文学的两种模式：隐性恐怖（鬼故事、悬念）与显性恐怖（血浆、怪物）。
 - **读者视角提示**：close at hand = 近在手边/触手可及；quiet inevitability = 静默的必然性（指死亡不可避免但不喧嚣）；bursts forth = 爆裂而出/喷涌而出。"just beyond the frame" 指画面/叙事之外，暗示恐怖的来源往往是不可见的。
 
 > **原句 7:** "So what of this book of the dead? As you might expect, the stories draw on all these genres, and sometimes challenge their boundaries."
@@ -64,7 +64,7 @@
 
 - **中文理解**：如果你选择按顺序读（不是所有人都这样），旅程从 Indrapramit Das 的火车上面临可怕抉择的年轻女子开始，以 Kaaron Warren 描绘的对死亡了如指掌却偶尔需要逃离它的家庭结束。Strahan 给出了选集的阅读地图。
 - **关键词**：in order / faced with terrible choices / deeply familiar with death
-- **为什么这样写**：这是 Introduction 的「阅读指南」——Strahan 不强求顺序阅读（"not everyone does"），但提供了顺序阅读的叙事弧：Das 的道德困境（火车）→ Warren 的家庭熟悉死亡（hermitage）。中间还有 Gregory 的动物实验、Ford 的死后重逢、Bacigalupi 的刺客、Nix 的 Old Kingdom 回归。这个弧线把 28 篇故事串成一个从「面对死亡的抉择」到「与死亡共处」的旅程。
+- **为什么这样写**：这是导言里的「阅读指南」——Strahan 不强求顺序阅读（「不是所有人都这么读」），但他确实给出了一条顺序阅读的叙事弧：从 Das 在火车上的道德困境，走到 Warren 那个对死亡太熟、有时需要逃开的家庭。中间还穿插着 Gregory 的动物实验、Ford 的死后重逢、Bacigalupi 的暴力刺客，以及 Nix 的旧王国回归。这条弧线把二十八篇故事串成一段旅程：从「面对死亡的抉择」走到「与死亡共处」。
 - **读者视角提示**：Indrapramit Das 是印度裔 SF 作家，《Passengers》是本选集的首篇；Kaaron Warren 是澳大利亚恐怖/奇幻作家，《Uncle Hermit》是终篇。"not everyone does" 显示 Strahan 对读者自主性的尊重——选集可以乱序读。
 
 ## 本章词汇
@@ -99,4 +99,5 @@
 
 ## 一句话总结
 
-Strahan 的 Introduction 是整部选集的「策展宣言」：从塔斯马尼亚餐厅里十六个 calaveras 骷髅的视觉冲击出发，他把「死亡」翻译为 SF/幻想/恐怖三种类型的不同处理方式——Fantasy 把死亡人物化与土地化（Bill Door、Sabriel 的九层 precincts），SF 把死亡技术化（deferred/cheated/transformed），Horror 把死亡「在场化」（close at hand）——然后集结二十余位作者，以 Das 的火车道德困境开篇、Warren 的家庭熟悉死亡收尾，编成一幅「死亡的巨幅壁画」。全篇的核心主张是：死亡不是抽象的，而是「我们最深的弱点与最强的力量」。
+
+Strahan 的导言是整部选集的「策展宣言」：从塔斯马尼亚那间墨西哥餐厅里十六个亡灵节骷髅的视觉冲击出发，他把「死亡」翻译成科幻、幻想、恐怖三种类型各自不同的处理方式——幻想把死亡人物化与土地化（Bill Door、Sabriel 世界的九层险境），科幻把死亡技术化（推迟、欺骗、转化），恐怖把死亡「放在手边」——然后召集二十余位作者，以 Das 的火车道德困境开篇、以 Warren 那个熟悉死亡的家庭收尾，编成一幅「死亡的巨幅壁画」。全篇的核心主张是：死亡不是抽象的，而是「我们最深的弱点与最强的力量」。

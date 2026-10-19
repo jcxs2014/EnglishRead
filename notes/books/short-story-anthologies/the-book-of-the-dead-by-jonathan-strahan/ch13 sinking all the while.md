@@ -2,79 +2,79 @@
 
 ## 本章导航
 
-- **一句话概括**：Premee Mohamed 的多视角死亡叙事——1. 运河（canal）吞噬 Bartram Tellman；2. Coroner Tituli Ched 的 inquisition（溺水死，无魔法/犯罪）；3. 死亡 psychopomp（女骑士骑黑狐）接引 Bartram 的 soul；4. Bartram 的 post-mortem rant（arrogant wizard, abuse of daughters）；5. Judeth（大女儿）在 morgue 看到父亲尸体，回忆 abuse 与 Philippa 的可能 revenge；6. Philippa 的视角（dog POV? no—dog section 6 is the dog's? Actually section 6 is the dog's POV? Let me check: section 6 starts "It rained. I heard it from the place where I sleep..." — that's the dog Dux's POV)；7. Philippa & Judeth reunite at morgue, decide to leave together.
+- **一句话概括**：同一场溺亡的七个视角。运河吞掉了一位巫师巴特拉姆·特尔曼；开口的第一个是运河本身（有知觉、为自己辩解），第二个是验尸官提图利·切德的官方笔录，第三个是骑黑狐的引魂者（她只负责把灵魂送到刽子手那里），第四个是死者本人的墓中呓语（傲慢、否认诸神、虐待过两个女儿），第五个是大女儿朱德斯的希望，第六个是那条叫杜克斯的狗，第七个是两个女儿在停尸房重逢。没有一节说清那把刀是怎么来的，而活着的人已经决定一起离开。
 
-- **时间**：Year of the Two Columns of Granite（fantasy calendar）
+- **时间**：「双柱花岗岩之年」——本篇自带的历法；以及巴特拉姆落水那一天。
 
-- **地点**：Canal city（fantasy）；coroner's office；morgue；Bartram's house
+- **地点**：运河城：黑石砌成的运河与渡口桥、面包铺、奶牛场、教堂里的停尸房与太平间、皇家魔法师协会。
 
-- **人物**：Bartram Tellman（deceased wizard, Royal Society of Wizards, abusive father）；Judeth（older daughter, abused, runs dairy）；Philippa（younger daughter, accepted to St. Algomir's wizardry program）；Tituli Ched（coroner）；death psychopomp (female, rides black fox); Mrs. Shirley Lindi (housekeeper); Matthias Trag (baker's boy); Dux (dog)
+- **人物**：巴特拉姆·特尔曼（皇家魔法师协会的巫师，否认诸神，虐待两个女儿，死于运河）；朱德斯（长女，经营奶牛场）；菲莉帕（幼女，被圣阿尔戈米里魔法学院录取）；提图利·切德（验尸官）；引魂者（骑黑银双色狐狸的女性，她只递送灵魂、不施刑）；杜克斯（那条狗）；雪莉·林迪（管家）；马蒂亚斯·特拉格（面包铺学徒）。
 
-- **叙事手法**：7 sections, multiple POVs (canal first-person plural, coroner official report, psychopomp first-person, dead man's rant, Judeth, dog? Philippa, Philippa+Judeth); fantasy worldbuilding (Royal Society of Wizards, Quing's Bench); abuse survivor narrative; death as multi-perspective; dog POV section (6) is unusual
+- **叙事手法**：七节七视角：运河以第一人称复数自辩，验尸官以公文体记账，引魂者以冷峻的第一人称执行，第四节直接写死者（死后依旧自以为是），第五节是幸存者的创伤，第六节换成一条狗，第七节让两个女儿在同一间太平间里说话；每一节都用自己的语言说话，因此七节无法合并成一个结论。
 
-- **与后文的钩子**：Strahan Introduction 提到 "Premee Mohamed's story of a man who drowns in a canal, told from seven perspectives including the water itself." 本篇是选集的 multi-POV 代表——death 作为 shared event with irreconcilable perspectives; water as active agent. Theme: death as relief (for survivors); abuse's aftermath; "the beautiful world... I can now see to be beautiful."
+- **与后文的钩子**：Strahan 在导言里说这是「一个溺死在运河里的人、由七个视角讲的故事，其中一个视角就是水本身」——本篇正是那一篇；它把死亡写成一件各方说法互不相容的公共事件，而唯一能确定的只有活着的人如何继续。
 
 ## 精读
 
 > **原句 1:** "We didn't kill him. He fell—sometimes people die of a fall—it's known—we are accustomed to blame but we are not to blame."
 
-- **中文理解**：「We didn't kill him。He fell—sometimes people die of a fall—it's known—we are accustomed to blame but we are not to blame。」Canal (first-person plural) 的 defense—we didn't kill him, he fell. "We are accustomed to blame" = canal is blamed for deaths (bodies found in canal), but canal claims innocence. "Toward" not "down"—canal pulls toward center, not down.
+- **中文理解**：「我们没有杀他。他摔下去了——有时候人就是摔死的，这是明摆着的——我们习惯了被责怪，但我们没有责任。」
 
-- **关键词**：didn't kill him / fell / accustomed to blame / toward the center
+- **关键词**：didn't kill him / He fell / accustomed to blame
 
-- **为什么这样写**：这是 Mohamed gives canal agency and voice—water as active participant, not passive setting. "Toward the center" = canal's cosmology (water pulls toward center of things, not down). "Accustomed to blame" = canal is blamed for deaths (bodies found in water), but canal claims innocence. This is the story's first perspective: death as environmental, not personal.
+- **为什么这样写**：作者让运河开口第一句话，而且开口就是辩解。「我们」这个复数把水写成一个有集体人格的被告，它的辩词层层递进：先推给「摔死」这个常识，再抬出「被责怪」这桩旧账，最后落在「我们没法知道」上。这一整套修辞正是水的嘴脸——它一直在收尸，也一直在被冤枉；而「不是往下！是往中心！」这句自我更正更狠：它连方向都跟人类不一样，人类的东南西北上下被它换成了「远离」与「趋向中心」。
 
-- **读者视角提示**：这是 Mohamed's canal is sentient—first-person plural, defensive, poetic. "Toward" vs. "down" = canal's alternative geometry.
+- **读者视角提示**：运河接下来的句子全是它的世界观：拥抱、进入、无声、不越过界——它把溺亡写成了比陆地更亲密的一种下坠。
 
 > **原句 2:** "You cannot cut water; we think he still tried. The scabbard on his belt was empty. His hand clutched a knife."
 
-- **中文理解**：「You cannot cut water; we think he still tried。The scabbard on his belt was empty。His hand clutched a knife。」Bartram 试图用刀与水搏斗——徒劳。"Cannot cut water" = 水的不可战胜性；Bartram 的暴力（剑/刀）对水无用。Empty scabbard = 他拔出了刀。
+- **中文理解**：「你切不开水；我们觉得他还是试了。他腰上的剑鞘是空的，手里攥着一把刀。」他沉下去的时候带着暴力。
 
 - **关键词**：cannot cut water / scabbard empty / hand clutched a knife
 
-- **为什么这样写**：这是 Mohamed uses "cannot cut water" as metaphor—Bartram (wizard, violent, arrogant) tries to fight water with violence, fails. Water is invulnerable to his methods. "Empty scabbard" + "clutched knife" = he died fighting, not accepting. This contrasts with the canal's embrace ("Like a lover, entered him, tenderly"). Death as embrace vs. resistance.
+- **为什么这样写**：作者把「水是不可切的」写成一句水自己的箴言，而它同时是对死者一生的判词：这个人一辈子用刀、用杖、用协会的权势去切割世界，最后面对水，刀毫无用处。剑鞘空着、手里攥着刀，两个细节写尽了他的姿态——他是拔了刀才掉下去的，也就是说他是抵抗着死的；而引魂者那一节补上刀的样子：那是一把小到只够做装饰的匕首，「要捅到对手，你得近到能被对方咬回来」。
 
-- **读者视角提示**：scabbard = 剑鞘；clutched = 紧握。Mohamed's "cannot cut water" = violence useless against death/water.
+- **读者视角提示**：一件贵重却没用的武器，是作者给这个人的全部速写。
 
 > **原句 3:** "I am not the torturer; I only deliver souls to the torturers."
 
-- **中文理解**：「I am not the torturer; I only deliver souls to the torturers。」Death psychopomp 的自我描述——她（女性，骑黑狐）是护送者，非惩罚者。"Only deliver" = 她的角色是运输，非审判。Torturers 在别处（afterlife）。
+- **中文理解**：「我不是刽子手；我只是把灵魂送到刽子手那里。」那个还在喊「放我出去，怪物！刽子手！」的人这样得到回答。
 
 - **关键词**：not the torturer / only deliver souls / torturers
 
-- **为什么这样写**：这是 Mohamed's death is female, rides fox (not horse), speaks plainly. "Not the torturer" = death is not punishment; she delivers to punishers (elsewhere). This reframes death as neutral transport, not judgment. "Only" = limited agency—she can't change outcome, only deliver. This contrasts with Bartram's arrogance (thinks he's important) and Judeth's relief (death frees her).
+- **为什么这样写**：作者把死亡写成运输而不是审判，于是全篇的残忍变得冷：她不决定任何人的下场，只负责把灵魂送到别处；而那人临终喊的「刽子手」指的并不是她。她后面那句「人只死一次」是这一节的钥匙——她的工作不可逆，于是这个「送」字里带着全部重量。
 
-- **读者视角提示**：psychopomp = 引魂者；Mohamed's is female, rides fox (black and silver), speaks plainly. "Torturers" = afterlife punishers (not her).
+- **读者视角提示**：她的坐骑是黑银双色的狐狸；她说自己从前还有白马与金乌鸦，「而名次永远不会变」——她所在的行列有它自己的等级。
 
 > **原句 4:** “You can carry none of that where we are going,” I replied. “Only what you had within you: your learning, your memory. Your love and your grief.”
 
-- **中文理解**：「You can carry none of that where we are going。Only what you had within you: your learning, your memory。Your love and your grief。」Death 对 Bartram——物质财产（房屋、地毯、水晶吊灯、黄金）无法跨越；只有内部之物（学习、记忆、爱、悲伤）存活。"Love and grief" = 唯一重要的东西。
+- **中文理解**：「那些东西你一样也带不走。只带你身上本来就有的：你的学识、你的记忆、你的爱，和你的哀恸。」巴特拉姆在死前清点自己的财产：房子、地毯、水晶吊灯、金子。
 
 - **关键词**：carry none of that / only what you had within you / learning, memory, love, grief
 
-- **为什么这样写**：这是 Mohamed's afterlife is minimalist—only internal qualities survive. "Love and grief" are the final possessions. This is Mohamed's thesis: death strips away material, leaves only what's internal. Bartram (obsessed with gold, crystal, status) loses everything; his "love and grief" are his only baggage. Ironically, his daughters' grief (love/hate) is what he carries.
+- **为什么这样写**：作者用一份行李清单写完整个来世观：物质在死亡这道关卡上全部作废，只有内部的四样东西随人同行。最狠的一笔是：这四样东西他其实都有，只是他一生都在数钱，从没数过它们。而他带走的「爱与哀恸」，恰恰是两个女儿给他的——他一生否认的东西，最后成了他唯一的行李。
 
-- **读者视角提示**：这是 Mohamed's afterlife = "learning, memory, love, grief"—no material. Bartram's possessions are irrelevant.
+- **读者视角提示**：他的灵魂离体时是一团柔软的淡绿色光球，比水面上的月光还弱。
 
 > **原句 5:** "I hope so. I damn myself by saying so. But I ache with hope—I feel it within myself like a cramp."
 
-- **中文理解**：「I hope so。I damn myself by saying so。But I ache with hope—I feel it within myself like a cramp。」Judeth 希望 Philippa 杀了父亲——希望复仇。"Damn myself by saying so" = 承认希望的罪。"Ache with hope like a cramp" = 希望作为身体疼痛。
+- **中文理解**：「我希望是吧。我这么一说就该遭报应。可我心里抽着疼地希望——就像抽筋一样，在身体里发紧。」朱德斯希望父亲是被人害死的。
 
 - **关键词**：I hope so / damn myself / ache with hope / like a cramp
 
-- **为什么这样写**：这是 Mohamed's Judeth hopes for Philippa's revenge—complex emotion (hope for murder). "Damn myself" = moral awareness; "ache with hope like a cramp" = hope as physical sensation. This is Mohamed's thesis: abuse survivors hope for the abuser's death, and this hope is both relief and damnation. Judeth's "I hope so" is her freedom.
+- **为什么这样写**：作者把幸存者最难以启齿的那种念头写得极准：那不是复仇的快意，而是「希望」，而希望本身带着罪感。「我这么一说就该遭报应」是自我审判，「像抽筋一样」则把希望还原成一种生理反应——它不是想法，是身体里的一处抽搐。这一句让「死亡是解脱」这个主题有了真实的代价：要享受这份解脱的人，得先疼成那样。
 
-- **读者视角提示**：这是 Mohamed's Judeth is abuse survivor—hopes father was killed by sister. "Cramp" = hope as pain. Complex, not simple revenge.
+- **读者视角提示**：同一节里她提到父亲对姐妹二人身体的占有（她们「属于我」），这是全篇虐待线的源头。
 
 > **原句 6:** "Tears to wash the world in which I now live. The beautiful world. Or the world I can now see to be beautiful."
 
-- **中文理解**：「Tears to wash the world in which I now live。The beautiful world。Or the world I can now see to be beautiful。」Judeth 的最终泪水——解脱、自由、看见美。"Wash the world" = 泪水作为清洗。"Beautiful world" = 没有父亲的世界。"Can now see to be beautiful" = 感知因他的死亡而改变。
+- **中文理解**：「泪水，来洗我如今身处的这个世界。这个美丽的世界。或者说，我终于能看出它美丽的世界。」停尸房里，朱德斯看着父亲的尸身。
 
 - **关键词**：tears to wash the world / beautiful world / can now see to be beautiful
 
-- **为什么这样写**：这是 Mohamed's ending is Judeth's liberation—father's death reveals world's beauty. "Tears to wash" = cleansing; "beautiful world" = freedom. "Can now see to be beautiful" = perception shifts with abuser's death. This is Mohamed's thesis: death (of abuser) as liberation; survival as seeing beauty. The sisters reunite, leave together.
+- **为什么这样写**：作者把全篇最沉的一处情绪安放在一句近乎套话的话里，却靠最后半句「我终于能看出它美丽」把它撬开：美不是世界的属性，而是观看者的状态——父亲活着的时候她看不见。而「泪水来洗这个世界」既是洗刷（泪洗掉那十五年的天地），也是洗礼。作者用「我能看出」这个转折，替全篇那些互相矛盾的说法下了唯一的裁决：真相不可得，但活着的人可以换一种看世界的方式。
 
-- **读者视角提示**：这是 Mohamed's ending is hopeful—Judeth and Philippa leave together, Dux the dog. "Beautiful world" = freedom from abuse.
+- **读者视角提示**：结尾两姐妹带着杜克斯一起走：菲莉帕的奖学金够两个人用，而她们坚持说「是他放了我们」——不对，是她们自己走出去的那一步放了自己。
 
 ## 本章词汇
 
@@ -109,4 +109,4 @@
 
 ## 一句话总结
 
-Mohamed 的 "Sinking All the While" 是选集中最 multi-perspective 的 death narrative：7 sections, 7 POVs (canal as sentient first-person plural; coroner's official inquisition; death psychopomp on black fox; Bartram's post-mortem rant; Judeth's abuse-survivor perspective; dog Dux's POV; Philippa & Judeth reunion). Mohamed 的 thesis："death as shared event with irreconcilable perspectives"—canal claims innocence ("we are accustomed to blame but we are not to blame"); death delivers souls ("I only deliver souls to the torturers"); Bartram's materialism stripped away ("only what you had within you: your learning, your memory, your love and your grief"); Judeth's liberation ("Tears to wash the world... The beautiful world"). The abuse narrative (Bartram abused Judeth, possibly Philippa killed him) is the story's moral core—death as relief for survivors. "Toward the center" (canal's geometry) vs. "down" (human geometry) = death's perspective differs from living's. This is the anthology's "death as multi-perspective" counterpoint. Theme: death as shared event; abuse's aftermath; survival as seeing beauty.
+Premee Mohamed 的「一直沉下去」是选集里最像结构实验的一篇。一个巫师巴特拉姆·特尔曼掉进运河死了，而故事用七个视角把同一件事讲七遍：运河先出来辩解——是他自己摔下去的，我们习惯了被责怪，却不该被责怪；验尸官随后出具一份认定溺死、无涉魔法的公文；骑黑狐的引魂者说她不是刽子手，只把灵魂送到刽子手那里，并且点破这个人一生贪恋的房子、地毯与金子一样也带不走，只有学识、记忆、爱和哀恸随行；接着是死者自己的呓语，傲慢、否认诸神、还记着女儿们「属于我」；大女儿朱德斯则说她希望父亲是被人害死的，「我这么一说就该遭报应，可我心里像抽筋一样地希望」；第六节是一条叫杜克斯的狗听见雨声；最后一节里两个女儿在停尸房重逢，父亲的尸身安静地躺在那里，朱德斯流下泪来：泪水来洗我如今身处的这个世界，这个我能看出它美丽的世界——而她们带着狗一起走了出去。

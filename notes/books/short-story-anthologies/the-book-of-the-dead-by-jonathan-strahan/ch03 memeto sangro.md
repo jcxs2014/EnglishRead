@@ -13,30 +13,30 @@
 
 > **原句 1:** "My name is Izio. I am a stilettotore."
 
-- **中文理解**：「我叫 Izio。我是一个 stilettotore。」开篇两句确立叙述者身份与职业。"stilettotore" 是意大利语 "stilettatore"（用 stiletto 刺杀的人），Bacigalupi 创造了一个 fantasy 世界中的刺客身份。两句的简洁与陈述性语气设定 Izio 冷静、自我清醒的声音。
+- **中文理解**：「我叫 Izio。我是一个 stilettotore。」开篇两句确立了叙述者的身份与职业。「stilettotore」是意大利语「stilettatore」（用匕首行刺的人），Bacigalupi 造出的这个幻想世界的刺客名号。两句的简洁与陈述语气，设定出 Izio 冷静而自知的声音。
 - **关键词**：stilettotore / My name is
-- **为什么这样写**：Bacigalupi 用极简的自我介绍开启——"My name is X. I am Y." 是 assassin 叙事的经典 opening（类似 "My name is Inigo Montoya"）。"stilettotore" 一词立刻确立了 fantasy 设定（意大利语 flavor）与职业（assassin）。这种陈述性 opening 让读者知道叙述者是杀手，但尚未了解他的 backstory 与 moral complexity。
+- **为什么这样写**：Bacigalupi 用极简的自我介绍开场——「我叫 X。我是 Y。」是刺客叙事的经典起手式（可以对照「我是伊尼戈·蒙托亚」）。而「stilettotore」一词同时立住了两件事：意大利风味的幻想设定，以及这一行的职业。这种陈述式的开场让读者立刻知道叙述者是杀手，却还不知道他的来历与道德上的复杂性。
 - **读者视角提示**：stilettotore = 意大利语 "stilettatore"（用 stiletto/匕首杀人的人）；stiletto = 细长匕首。Bacigalupi 的 fantasy 世界融合意大利 Renaissance 风格与原创 cosmology（Scuro、Amo、Venaius 等）。
 
 > **原句 2:** "I was born under the docks to a whore whose slit reeked like the catch that is dumped every day into barrels to make pescapesto."
 
-- **中文理解**：「我出生在码头下，母亲是妓女，她的阴户闻起来像每天倒进桶里做 pescapesto 的渔获。」Izio 的出身故事——出生在码头下，母亲是 whore，用强烈的嗅觉细节建立 childhood trauma。"pescapesto" 是 fantasy 世界中的鱼酱。
+- **中文理解**：「我出生在码头下面，母亲是妓女，她的阴户闻起来像每天倒进桶里做 pescapesto 的渔获。」这是 Izio 的出身：出生在码头下，母亲是妓女，而作者用嗅觉细节建立他的童年创伤。「pescapesto」是幻想世界里的鱼酱。
 - **关键词**：born under the docks / whore / pescapesto
-- **为什么这样写**：Bacigalupi 用嗅觉细节而非视觉来建立童年——Izio 最早的记忆是气味而非影像。"under the docks" 确立贫困与边缘化；"whore" 用词 blunt、unromantic。这段为 Izio 的 self-loathing（"美丽的人内心丑陋 / 丑陋的人内心丑陋"）与他把人类视为 "viscerasacci, clods of organs, bags of shit" 的世界观做铺垫。母亲在难产中死亡（下一段）是 formative trauma。
+- **为什么这样写**：Bacigalupi 用嗅觉而不是视觉来写童年——Izio 最早的记忆是气味，不是影像。「在码头下面」确立了贫穷与边缘化；而「妓女」这个用词毫不浪漫、也不加修饰。这一段为他的自我憎恶（「美丽的人内心丑陋／丑陋的人内心丑陋」）以及他把人看成「viscerasacci、器官块、屎袋」的世界观做了铺垫；母亲在难产中死去，则是他一生的原罪。
 - **读者视角提示**：pescapesto = fantasy 世界中的鱼酱/鱼膏（类似 garum/鱼露）；Quartiere Pescana = "Fish Quarter"（fisherman's district）；Vesuna = Izio's hometown。嗅觉意象（fish, sweat, sex）是 Bacigalupi 的 signature style。
 
 > **原句 3:** "Beautiful people are ugly within. / Ugly people are ugly within. / We are nothing but viscerasacci, clods of organs, bags of shit, and ropes of entrails."
 
-- **中文理解**：「美丽的人内心丑陋。丑陋的人内心丑陋。我们 nothing but viscerasacci（内脏袋）、器官块、屎袋和肠子绳。」Izio 的 nihilistic worldview——beauty/ugliness are surface, all humans are "bags of shit." "viscerasacci" 是 fantasy 词汇，强调 biological reductionism。
+- **中文理解**：「美丽的人内心丑陋。丑陋的人内心丑陋。我们不过是 viscerasacci（内脏袋）、器官块、屎袋和肠子绳。」这是 Izio 的虚无主义世界观：美丑都是表面，人人在内里都是「屎袋」。「viscerasacci」是幻想世界的自造词，强调把一切还原成生物学。
 - **关键词**：viscerasacci / bags of shit / ropes of entrails
-- **为什么这样写**：这是 Izio's core philosophy——humanity reduced to biology, no soul, no dignity. The parallel structure (Beautiful... / Ugly...) collapses the beauty/ugliness binary; both are "ugly within." "viscerasacci" (viscera + sacchi/bags) is Bacigalupi's invented word for "gut-bags." This nihilism is Izio's defense mechanism (trauma from childhood abuse) and his justification for killing. The story's arc is his eventual rejection of this view (through the three-eyed dog and the raft of suffering).
+- **为什么这样写**：这是 Izio 的核心哲学：人只剩生理，没有灵魂，也没有尊严。「美丽的人……／丑陋的人……」的平行句式把美丑这个二元对立压塌了——两种人在内里都是丑陋的。「viscerasacci」（viscera 加 sacchi，两语拼合）是 Bacigalupi 造的词，把人降格成装内脏的袋子。他一生都在用这套说法为自己辩护：他杀的那些人，根本不算人。
 - **读者视角提示**：viscerasacci = 意大利语 "viscere" (内脏) + "sacchi" (袋子) 的合成词；Scuro = 意大利语 "dark"（黑暗之神/冥界）；Amo = 意大利语 "love"（爱之神）。Bacigalupi uses Italian-flavored fantasy names.
 
 > **原句 4:** "The man I hunted, this little princiino, he was nothing to me. Livo Arosciinto Venaius, he was called by others. Livo il Gaz, he called himself. Livo the Cat."
 
-- **中文理解**：「我追捕的人，这个小 princiino（小王子），对我来说 nothing。Livo Arosciinto Venaius，别人这么叫他。Livo il Gaz，他自己这么叫。Livo the Cat。」Izio 对目标抱持轻蔑的态度——"nothing to me" 表明了情感上的疏离；"little princiino"（小王子）是轻蔑的称呼；"Livo the Cat" 是 Venaius 自己起的绰号。
+- **中文理解**：「我追捕的人，这个小 princiino（小王子），对我来说什么也不是。Livo Arosciinto Venaius，别人这么叫他。Livo il Gaz，他自己这么叫。Livo the Cat。」Izio 对目标的轻蔑：「对我来说什么也不是」表明了他的情感疏离；「小 princiino」是轻蔑的称呼；「Livo the Cat」是 Venaius 自己起的绰号。
 - **关键词**：princiino / Livo il Gaz / Livo the Cat
-- **为什么这样写**：Bacigalupi 用命名来塑造人物——Venaius 自称 "the Cat"（predator、pride），而 Izio 称他 "little princiino"（diminutive、contempt）。"He was nothing to me" 确立了 Izio 的专业疏离，但 story 会削弱这一点（Venaius 的 akiz 本性、raft of suffering）。Venaius 的自我形象（Cat）与 Izio 的看法（little prince）之间的对比建立了权力动态。
+- **为什么这样写**：Bacigalupi 用命名塑造人物：Venaius 自称「猫」（掠食者与骄傲），Izio 却叫他「小王子」（指小与轻蔑）。「对我来说什么也不是」确立了 Izio 的职业性疏离，而故事恰恰要削弱它——Venaius 恶魔的本性、冥界里那筏苦难都会揭穿这层冷漠。Venaius 的自我形象（猫）与 Izio 的看法（小子）之间的落差，就是权力关系的写照。
 - **读者视角提示**：princiino = 意大利语 "principino" (小王子)；Livo il Gaz = "Livo the Cat" (il Gaz = the Cat in fantasy Italian); archinomo = fantasy title (archduke/prince). Venaius is a minor Venaius family member who "likes to be seen."
 
 > **原句 5:** "I drove my stiletto between his ribs, tickled his heart. One. Two. Three. He gasped. He arched. No more."
@@ -48,29 +48,61 @@
 
 > **原句 6:** "Venaius swallowed me entirely. / My name is Izio. Though I am dead, I still continue."
 
-- **中文理解**：「Venaius 完全吞下了我。/ 我叫 Izio。虽然我死了，我仍然继续。」story 的 pivot——Venaius 是 akiz（demon），他的 mouth 变成 "cave"，吞下 Izio。"Though I am dead, I still continue" 是 afterlife revelation——Izio 现在在 Scuro's Unseen Realms。
+- **中文理解**：「Venaius 把我整个吞了下去。／我叫 Izio。虽然我死了，我仍然继续。」这是故事的转折：Venaius 是恶魔，他的嘴变成一个洞，把 Izio 吞了进去。「虽然我死了，我仍然继续」是死后世界的第一次揭示——Izio 此刻已在 Scuro 的「不可见国度」。
 - **关键词**：swallowed me entirely / Though I am dead / I still continue
-- **为什么这样写**：这是 story 从 assassin tale 转向 afterlife journey 的转折。"swallowed me entirely" 是 visceral 的（mouth as cave, darkness）；"Though I am dead, I still continue" 与 opening "My name is Izio. I am a stilettotore" 平行——现在 "I am dead" 替代 "I am a stilettotore"。"My name is Izio" 的重复将叙事框定为新身份（dead Izio vs. living Izio）。Unseen Realms 是 Scuro 的领域（darkness/hell）。
+- **为什么这样写**：这是故事从刺客传奇转向死后旅程的拐点。「整个吞下」写得极其感官化（嘴变成洞、黑暗）；而「虽然我死了，我仍然继续」与开篇那两句平行——如今「我是个死鬼」替换了「我是个 stilettotore」。「我叫 Izio」的重复把叙事框成了一次身份的改写：死者仍然用生者的名字称呼自己，而这正是他此后全部困惑的起点。
 - **读者视角提示**：akiz = 恶魔/黑暗生物（Khur 商人用的词，Venaius 是 akiz）；Scuro = 意大利语 "dark"（黑暗之神/冥界）；Unseen Realms = Scuro 的冥界。mouth-as-cave 意象与 Venaius 自称的 "Livo the Cat"（cat's mouth）相连。
 
 > **原句 7:** "A raft of human animals, a raft of misery."
 
-- **中文理解**：「一筏人类动物，一筏苦难。……一人动，全动。一人伤一人，全伤全。」Izio 在冥界看到 raft of suffering——被绑在一起的人类，他们无休止地互相折磨。"When one moves, all move" / "When one wounds one, all wound all" 是 raft 的运作机制——collective punishment。
-- **关键词**：raft of misery / When one moves, all move / When one wounds one, all wound all
-- **为什么这样写**：这是 story 的 central metaphor——violence 的 cyclical nature。raft 不是外部的 hell 惩罚，而是自我施加的集体苦难："This is a suffering of my own making, of all our making. Pain, delivered from one person to the next, to the next, to the next... Our pain binds us to one another, dooms us all to this seething mass of ruination and rage and retribution." Izio 认识到自己的 violence（as assassin）是这个循环的一部分。raft 包含他的母亲、Matra Desira 与他的 first kill——所有受害者与施害者被 lashed together。
+- **中文理解**：「一筏人类动物，一筏苦难。……一人动，全动。一人伤一人，全伤全。」Izio 在冥界看到的那筏苦难：被捆在一起的人类，无休止地互相折磨——「一人动，全动；一人伤一人，全伤全」正是这筏人的运作机制。
+- **关键词**：raft of misery / a raft of human animals
+- **为什么这样写**：这是全篇的核心隐喻：暴力的循环性。那筏人不是外部施加的地狱惩罚，而是自己制造的集体苦难——「这是我们自找的苦难，是我们所有人一起找的；痛苦从一个人传给下一个人，再传给下一个……我们的痛苦把我们绑在一起，把我们全都判了死刑」。Izio 由此认清自己的暴力（刺客这份行当）正是这个循环的一环；而那筏人里就有他的母亲、Matra Desira 与他的第一个目标。
 - **读者视角提示**：raft of suffering = 苦难之筏（冥界刑罚）；Scuro's realms = 黑暗之神的冥界；akiz = 恶魔。raft 意象回响 Dante's Inferno（circles of hell）与 Buddhist concepts of karma/samsara（cyclic suffering）。
 
 > **原句 8:** "I gather the pup into my arms and stumble from the burning building. Behind me, I leave my stiletto. I leave all my evils."
 
-- **中文理解**：「我把小狗搂进怀里，从燃烧的建筑中跌跌撞撞地逃出。身后，我留下 stiletto。我留下所有罪恶。……一切落下了。」Izio 获救——three-eyed dog charm（Khur 商人给的）变成 real pup，拖他出 raft of suffering。他抛弃 stiletto（武器/身份），离开所有 evils。"It all falls away" 重复两次，强调 release。
+- **中文理解**：「我把小狗搂进怀里，从燃烧的建筑里跌跌撞撞地逃出来。身后，我留下 stiletto。我留下所有罪恶。……一切都卸下了。」Izio 获救：Khur 商人给他的三眼狗护身符变成了一只真正的小狗，把他拖出了苦难之筏。他丢下 stiletto（武器，也是身份），丢下所有恶行。「一切都卸下了」重复两次，强调的是解脱。
 - **关键词**：leave my stiletto / It all falls away / pup
-- **为什么这样写**：three-eyed dog（Khur 商人给的 charm）是 story 的 deus ex machina / guardian angel。在 Khur mythology 中，three-eyed dogs "guard the path to the afterlife" and "herd the dead onward, push back the living." The pup (small, real, alive) 与 akiz (demonic, stitched-together) 形成 contrast。Izio 放弃 stiletto = 放弃 assassin 身份。"It all falls away" 是 story 的 emotional climax——从 violence 循环中解脱。The ending (Izio paints gods, refuses murder) shows redemption。
+- **为什么这样写**：三眼狗（商人给的护身符）是故事里的机械降神兼守护天使。在 Khur 的神话里，三眼犬「守着通往死后之路，把死者赶向前方，把活人挡回去」。那只小狗（小的、真的、活着的）与 Venaius 那个缝合的恶魔形成对照。Izio 丢下 stiletto，就是丢下刺客的身份；「一切都卸下了」是全篇的情感顶点——而结尾他改行画神像、不再杀人，才让这场解脱落到实处。
 - **读者视角提示**：three-eyed dog = 三眼狗（Khur 守护神兽，守护亡灵之路）；charm = 护身符/符咒；"It all falls away" = 一切落下了/一切卸下。pup 是 real（not charm），暗示 supernatural saved him。
 
 ## 本章词汇
 
-(keep)
+
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 原文例句 |
+|---|---|---|
+| pescapesto | 鱼酱（幻想世界里的廉价鱼酱） | I was born under the docks to a whore whose slit reeked like the catch that is dumped every day into barrels to make pescapesto. |
+| viscerasacci | 内脏袋（作者自造词：viscera＋sacchi） | We are nothing but viscerasacci, clods of organs, bags of shit, and ropes of entrails. |
+| quattopezzi | 铜币（幻想世界的货币） | Matra Desira found me rifling his clothes for copper quattopezzi. |
+| Pagnanopol | 帕尼亚诺波尔（幻想世界的城市） | I joined a merchant caravan at the city gates, bound for Pagnanopol. |
+| slaughtered | 宰杀、屠杀 | I had already gutted many fish and slaughtered many chickens by that time. |
+| distinctly | 清楚地、分明地 | Distinctly, I remember her death. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 原文例句 |
+|---|---|---|
+| pleasant | 讨人喜欢的 | I have been told that I am not a pleasant man, but that is neither the blood nor the wine. |
+| stiletto | 匕首 | A stiletto does not have to shine to spill blood. |
+| boniness | 骨感、瘦削 | I remember the boniness of her thighs, the slack folds of her belly and sagging tits. |
+| scrubbed | 擦洗 | I remember the smell of her sex as she scrubbed after she lay with men. |
+| spasming | 痉挛、抽动 | My mother might have already been dead, even as she birthed, her body spasming, finishing the job even as her soul leaked out. |
+| shadowed | 阴影覆盖的、深陷的 | Her shadowed sunken eyes. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 原文例句 |
+|---|---|---|
+| stilettotore | 匕首刺客（作者自造的意大利语式称谓） | I am a stilettotore. |
+| akiz | 恶魔（幻想世界里的称呼） | An akiz. |
+| charm | 护身符 | I will give you a charm. |
+| floorboards | 木地板 | The men's belts mostly, or else their pantaloni discarded upon the creaking muddy floorboards as I gripped the bed and took their thrusts. |
+| neck | 脖颈 | I remember their hands upon my neck. |
 
 ## 一句话总结
 
-(keep)
+
+Paolo Bacigalupi 的「Memeto Sangro」是选集里最像寓言的一篇：一个出生在码头下的刺客 Izio 接到一桩刺杀「小王子」的命令，却发现目标 Livo Arosciinto Venaius 是个 akiz（恶魔），一口把他吞了下去。「我叫 Izio。虽然我死了，我仍然继续。」他在 Scuro 的「不可见国度」里遇见被绑成一筏的苦难：「一人动，全动；一人伤一人，全伤全」——而那筏人里就有他的母亲与他杀过的人。他一直以为人只是内脏袋与屎袋，直到他发现那束光；最后是一只三眼小狗把他从燃烧的建筑里拖了出来，他丢下匕首、丢下所有罪恶，从此改行画神像。全篇真正的主题不是死亡，是循环：他一生用来杀人的那套世界观，最终把他自己也送进了那筏苦难。
