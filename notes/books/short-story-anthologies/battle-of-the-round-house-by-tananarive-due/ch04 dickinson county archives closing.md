@@ -15,57 +15,56 @@
 
 - **中文理解**：Hickok 以 "cannot submit official document because of jurisdiction lines" 开头，把信定位为 unofficial 但 official-adjacent。第一 matter：Freeman 是 colored blacksmith，Texas highwaymen 追他（water-stained 使动词不可读），Hickok 找不到 warrant/rewards on Freeman，允许其 passage。Freeman 去向不明，但 Hickok 推测 rode down to Indian Territory。整段是 legal-administrative register，用 [sic] 标注拼写错误。
 - **关键词**：jurisdiction lines / no evidence of warrant / passage
-- **为什么这样写**：Due 用 [sic] 与 [water stained] 制造 archival authenticity——letter 是 damaged, unedited document. Hickok 的 "no evidence of warrant or rewards" is legal clearance (Freeman not wanted), but his "I do not know where" admits ignorance. The Indian Territory guess is Hickok's rational inference, contrasting with Lucy's magical account. This dual framing (official ignorance vs. personal witness) structures the novella's epistemology.
-- **读者视角提示**：jurisdiction lines = county/state boundaries; [water stained] = document damage obscuring verb. Hickok's "allowed him passage" shows his authority and sympathy. The [sic] notations are editorial (WPA transcriber), not Hickok's—Due uses them to signal archival mediation.
+- **为什么这样写**：Hickok 的"因司法管辖权限而无法提交正式文件"把信定位为非正式却与官方相接。"找不到针对 Freeman 的逮捕令或赏金"是对 Freeman 的法律澄清（他不被通缉），但"不知道他和家人去了哪里"承认无知。"骑马南下 Indian Territory"是 Hickok 的理性推断，与 Lucy 的魔法叙事形成对照。
+- **读者视角提示**：jurisdiction lines = 县/州边界；[water stained] = 文件损坏遮蔽动词。Hickok 的"允许他通行"显示他的权力与同情。[sic] 注记是编辑层（WPA 转录员）而非 Hickok 的——Due 用它们暗示档案的中介性。
 
 > **原句 2:** "The second matter is a mystery and has caused more than a little stir in town, especialy [sic] among the Texas drovers. Twelve menn [sic] set out on horseback on the eve. of Sept 10 and were never seen again."
 
-- **中文理解**：第二 matter 是 mystery：十二 men on horseback Sept 10 eve never seen again. "more than a little stir" is understatement; "especialy among Texas drovers" shows community impact. This is the official record of the battle's aftermath—Hickok frames disappearance as mystery, not murder.
+- **中文理解**：Hickok 把第二个 matter 称为 mystery，说它在镇上引起不小的 stir，尤其在 Texas drovers 中间。十二个人在 Sept 10 傍晚骑马出发，此后从未再被看见。整句用 mystery 与 never seen again 制造悬念，把十二人失踪 framing 为不可解释的事件。
 - **关键词**：mystery / stir / never seen again
-- **为什么这样写**：Due contrasts Hickok's "mystery" with Lucy's detailed account (bulls, magic). The official record reduces twelve deaths to "never seen again"—no bodies, no investigation closure. This gap between official and personal narrative is the novella's central tension. "Texas drovers" as affected party shows the mob's social network.
-- **读者视角提示**：Hickok's "mystery" is technically accurate (no bodies found) but epistemologically insufficient. The "stir" among drovers implies ongoing threat—Bandera Boys's disappearance doesn't end conflict, it creates rumor. This sets up Lucy's "witches" rebuttal.
+- **为什么这样写**：Hickok 承认他们说的大概不错，然后透露：过去他家地窖里曾藏过地下铁路逃奴；pappy 十五岁时死了，但母亲还活着，做 marshal 之外的善事，会让母亲微笑。Mama 追问：他是指地下铁路？Hickok 答：圣洁双亲归功于。
+- **读者视角提示**：mystery 在 Hickok 的理性框架里意味着"尚未解释"而非"超自然"；"never seen again" 与后文 "vanish in thin air" 形成呼应。Hickok 的行政语气与 Lucy 的 firsthand testimony 之间的 gap 是小说认识论的核心。
 
 > **原句 3:** "Two of these menn [sic] the brothers Lucas and Lyndon Avery are known highwaymen [sic] who prayed [sic] on Mr Freeman’s family. They gathered a mob with a gang called the Bandera Boys who are wanted for the murder and plunder of settlers along the Chisholm Trail, including womenn [sic] and children. I also hear they have commited [sic] many other crimes including horse theft."
 
-- **中文理解**：Lucas and Lyndon Avery brothers 是 known highwaymen preying on Freeman family；他们 gathered Bandera Boys mob（wanted for murder/plunder of settlers incl. women/children along Chisholm Trail）。“I also hear” marks hearsay。Hickok 为 mob 的 disappearance 提供 criminal context——justice，not mystery。
+- **中文理解**：通知以 "$500 Reward!!! Dead or Alive" 的 headline scream 开始，指控 1866 年 4 月 1 日一个叫 Isaiah 的人在 Galveston, Texas rustled 一群马并杀人以逃脱。Papa 用 manumission letter、apprenticeship letter、Bible 家庭记录逐条反驳：他 1866 年 3 月 30 日刚失去新生儿子 Solomon，不可能在 Galveston；他是黑铁匠，不会 rustle horses。
 - **关键词**：highwaymen / Bandera Boys / murder and plunder
-- **为什么这样写**：Due uses Hickok's letter to establish the mob's criminality, justifying their fate (whatever it was). "prayed" (preyed) [sic] is typo; "womenn" [sic] shows unedited document. Bandera Boys as real gang (Texas) grounds fiction in history. "I also hear" (hearsay) parallels Lucy's "I can't say where" (withheld)—both narrators control information.
-- **读者视角提示**：Bandera Boys were real post-Civil War Texas gang. Hickok's "known highwaymen" + "wanted for murder" reframes the mob from "drovers" to criminals, making their disappearance less tragic. "including women and children" emphasizes their cruelty, aligning with Lucy's "nits make lice" dehumanization.
+- **为什么这样写**：Hickok 通过列举 Bandera Boys 的罪行（murder and plunder of settlers, including women and children）把他们定性为不可饶恕的犯罪集团，从而让 Freeman 的恐惧与 Zipporah 的魔法防御显得合理。"I also hear" 显示信息来源是 hearsay（传闻），显示 Hickok 的证据链并不完整。
+- **读者视角提示**：highwaymen = 公路强盗；Bandera Boys 是虚构帮派名（Due 创作）。Chisholm Trail 是历史 cattle trail。"including women and children" 强调其残暴，为 Zipporah 的魔法反击提供道德正当性。
 
 > **原句 4:** "Some superstetious [sic] folks in Abilene tell storys [sic] about a rich colored settlement where those menn [sic] met their end at the hands of witches. On the matter of witches nothing need be said. We both know that Kansas has colored settlers but they do not have the means to fight off such a deadly gang. And they could no more vanish in thin air then [sic] you or me."
 
-- **中文理解**：Hickok reports “superstitious folks” telling stories of witches at rich colored settlement。他 dismisses：“On the matter of witches nothing need be said。”他 argue colored settlers “do not have the means to fight off such a deadly gang” and “could no more vanish in thin air then you or me。”Rational denial of magic。
+- **中文理解**：Hickok reports "superstitious folks" telling stories of witches at rich colored settlement。他 dismisses："On the matter of witches nothing need be said。"他 argue colored settlers "do not have the means to fight off such a deadly gang"，和 "could no more vanish in thin air then you or me。"Rational denial of magic。
 - **关键词**：superstitious / witches / vanish in thin air
-- **为什么这样写**：Due puts Hickok's rational denial directly against Lucy's account (Boss Bulls, magic). "nothing need be said" is Hickok's epistemological closure—refusing to engage with magic claim. "do not have the means" is class/race assumption (colored settlers as weak), which ch03's defense refutes. "vanish in thin air" echoes "never seen again"—Hickok insists on physical reality.
-- **读者视角提示**：Hickok's denial is historically plausible (rational lawman) but narratively insufficient (reader has witnessed magic). The gap between "superstitious folks" (Hickok's label) and Lucy's testimony (firsthand) is the novella's epistemological crux. Due doesn't resolve which is "true"—both frames coexist.
+- **为什么这样写**：Due 把 Hickok 的理性否认直接放在 Lucy 的魔法叙事（Boss Bulls）对面。"nothing need be said" 是 Hickok 的认识论封闭——拒绝与魔法主张交锋。"do not have the means" 是阶级/种族假设（有色定居者作为弱者），这被第三章的防御反驳。"vanish in thin air" 呼应 "never seen again"——Hickok 坚持物理现实。
+- **读者视角提示**：Hickok 的否认在历史上合理（理性执法者），但在叙事上不足（读者已目睹魔法）。"superstitious folks"（Hickok 的标签）与 Lucy 的 firsthand testimony 之间的 gap 是小说的认识论核心。Due 不裁决孰真——两种框架并存。
 
 > **原句 5:** "lost steam after Marshal Hickok’s letter to the judge, so people stopped looking for Papa and that gang to boot. I spent the rest of my childhood days at Zipporah Ranch, and Papa grew to be happy as a blacksmith there, although he couldn’t serve the town and gain the wider reputation he craved."
 
-- **中文理解**：Lucy's closing：Hickok's letter “lost steam”（investigation ended）。Lucy spent childhood at Zipporah；Papa became happy blacksmith 但 couldn't gain wider reputation（craved）。这是 Papa's ambition conflict 的 resolution（ch02：prideful, wants bigger business）。
+- **中文理解**：Lucy's closing：Hickok's letter "lost steam"（investigation ended）。Lucy spent childhood at Zipporah；Papa became happy blacksmith 但 couldn't gain wider reputation（craved）。这是 Papa's ambition conflict 的 resolution（ch02：prideful，wants bigger business）。
 - **关键词**：lost steam / blacksmith / craved
-- **为什么这样写**："lost steam" shows Hickok's letter had limited effect—investigation ended by administrative fatigue, not resolution. Papa's happiness ("grew to be happy") with unfulfilled ambition ("couldn't serve the town") is bittersweet resolution. This avoids fairy-tale ending (Papa doesn't become successful businessman) while affirming community over individual ambition.
-- **读者视角提示**：Papa's arc: Lexington (slavery, hidden literacy) → flight → Abilene (Hickok's help) → Zipporah (blacksmith, community) → happiness without fame. This is Due's portrait of freemen's constrained agency—freedom without full economic participation. Lucy's "craved" acknowledges ambition's cost.
+- **为什么这样写**：Hickok 的信 "lost steam" 显示调查因行政疲劳而结束，而非因真相大白。Papa 的"变得快乐"与"无法服务镇上"的未竟野心构成苦乐参半的收束。这避免了童话式结局（Papa 并未成为成功的商人），同时肯定了社群高于个人野心。
+- **读者视角提示**：Papa 的弧线：Lexington（奴役、隐藏的读写能力）→ 逃亡 → Abilene（Hickok 的帮助）→ Zipporah（铁匠、社群）→ 没有名声的幸福。这是 Due 对 freemen 受限 agency 的刻画——自由而无完全的经济参与。Lucy 的 "craved" 承认了野心的代价。
 
 > **原句 6:** "Now, you can believe me or not about my “whispers,” but after I was living on the ranch, I realized I wasn’t the only one in my family who could communicate without opening my mouth, especially with the animals. Uncle Billy and my cousins could too! You’d be shocked at the difference a deeper relationship makes when it comes to those creatures being healthy and happy, especially when they can understand a communication even though they don’t share our human language. No wonder that milk tasted so good! And I hear the beef was top notch, too, but I’ve never tasted a bite of beef since that night the Boss Bulls spared me."
 
-- **中文理解**：Lucy's "whispers" claim: she realized she wasn't alone—Uncle Billy and cousins could too (animal communication). "You'd be shocked at the difference a deeper relationship makes" explains Zipporah's cattle success (singing, whispering). "No wonder that milk tasted so good!" connects magic to ch02 中牛奶的描述。 "never tasted a bite of beef since that night" is Lucy's vow (Boss Bulls spared her, so she won't eat beef).
+- **中文理解**：Lucy's "whispers" claim：she realized she wasn't alone——Uncle Billy and cousins could too（animal communication）。"You'd be shocked at the difference a deeper relationship makes" 解释 Zipporah 的 "magical" cattle success（singing，whispering）。The milk/beef connection ties magic to daily life。"never tasted a bite of beef since that night" 是 Lucy's vow（Boss Bulls spared her，so she won't eat beef）。
 - **关键词**：whispers / communicate without opening my mouth / never tasted a bite of beef
-- **为什么这样写**：Lucy's closing expands whispering from individual ability to family trait, explaining Zipporah's "magical" cattle success (Fulani tradition + whispering). The milk/beef connection ties magic to daily life. "never tasted a bite of beef since that night" is Lucy's trauma response (Boss Bulls spared her) and ethical stance (gratitude = vegetarianism). This grounds magic in embodied, ethical choice.
-- **读者视角提示**：Lucy's "you can believe me or not" directly addresses reader skepticism, echoing Hickok's "superstitious folks." The animal communication as "deeper relationship" (not control) distinguishes Zipporah magic from domination. Lucy's beef vow is both trauma and respect—she won't consume what saved her.
+- **为什么这样写**：Lucy 的 closing 把 whispering 从个人能力扩展为家族特质，解释了 Zipporah"magical" cattle success（Fulani tradition + whispering）。牛奶与牛肉的联系把魔法与日常生活联系起来。"never tasted a bite of beef since that night" 是 Lucy 的创伤反应（Boss Bulls spared her）与道德立场（感恩 = 素食）。
+- **读者视角提示**：Lucy 的 "you can believe me or not" 直接回应读者的怀疑，呼应 Hickok 的 "superstitious folks。"动物沟通作为 "deeper relationship"（而非 control）把 Zipporah 魔法与 domination 区分。Lucy 的 beef vow 既是 trauma 也是 respect——她不会消费拯救过她的东西。
 
 > **原句 7:** "Zipporah thrived for ten years after those bandits chased us, but as Kansas developed and more homesteaders moved out to claim land, it became impossible to keep our ranch hidden—so the Elders decided to sell our land and move on to a new location. It operates under a different name today, but it still practices the old ways and boasts the best milk cows in the whole wide world, I bet."
 
-- **中文理解**：Zipporah thrived ten years post-battle；Kansas development/homesteaders made concealment impossible；Elders sold land and relocated。Still operates under different name, practices old ways, best milk cows。这是 Lucy's closing testament to Zipporah's survival（not destruction）。
-- **关键词**：thrived / Elders / different name
-- **为什么这样写**：Due avoids tragic ending (Zipporah destroyed) in favor of adaptive survival (relocation, name change). "Elders decided" shows community governance. "practices the old ways" affirms cultural continuity (Fulani, Kaw, African American). "whole wide world 最好的奶牛" 回应 ch01 的 "三州最好的奶牛"——Lucy 的自夸跨越数十年。
-- **读者视角提示**：The relocation explains why no physical trace remains (Hickok's "vanish in thin air" is technically wrong—Zipporah moved, didn't vanish). "different name" maintains secrecy (phantom in wind). This is Due's answer to historical erasure: Zipporah survived by hiding, not by being found.
+- **中文理解**：Zipporah 在 bandits 追击后又繁盛了十年，但随着 Kansas 开发、越来越多 homesteader 占地，ranch 再无法隐藏——所以 Elders 决定卖地迁居。如今它以别名运营，仍守旧俗，并自夸养出全世界最好的奶牛（"I bet"）。Lucy 用 "I bet" 收尾，把确定性事实与老人的自豪语气缝在一起。- **关键词**：thrived / Elders / different name
+- **为什么这样写**：Due 避免了悲剧式结局（Zipporah 被摧毁），转而采用适应性生存（relocation，name change）。"Elders decided" 显示 community governance。"practices the old ways" 肯定了文化连续性（Fulani，Kaw，African American）。"whole wide world 最好的奶牛" 回应 ch01 的 "三州最好的奶牛"——Lucy 的自夸跨越数十年。
+- **读者视角提示**：relocation 解释了为什么没有 physical trace remains（Hickok 的 "vanish in thin air" 是 technically wrong——Zipporah moved，没 vanished）。"different name" 维持 secrecy（phantom in wind）。这是 Due 对 historical erasure 的 answer：Zipporah 通过 hiding 幸存，不是被找到。
 
 > **原句 8:** "Didn’t you hear what I just said? Sorry, but I can’t say where they are out loud for your machine to hear. But if you listen real close with the quietest part of your mind, I’ll tell you and only you . . ."
 
-- **中文理解**：Lucy 的 final whisper to interviewer（and reader）：“listen real close with the quietest part of your mind, I'll tell you and only you...” The ellipsis invites reader into Lucy's whispering——reader becomes recipient of secret。This breaks frame：Lucy addresses “your machine”（WPA recorder）and “you”（reader）。
+- **中文理解**：Lucy 的 final whisper to interviewer（and reader）："listen real close with the quietest part of your mind，I'll tell you and only you..." The ellipsis invites reader into Lucy's whispering——reader becomes recipient of secret。This breaks frame：Lucy addresses "your machine"（WPA recorder）和 "you"（reader）。
 - **关键词**：quietest part of your mind / I’ll tell you and only you
-- **为什么这样写**：Due's ending is an invitation: reader must "以内心最安静处聆听" 才能接收 Lucy 的 secret——mirroring Lucy's whispering ability. The ellipsis (not period) leaves story open, implying magic continues. "your machine" (WPA recorder) = reader's text; Lucy's whisper transcends medium. This is meta-narrative: the novella itself is Lucy's whisper to reader.
-- **读者视角提示**：The ending refuses to locate Zipporah (Lucy "can't say where"), preserving its hidden status. "only you" makes reader complicit in secrecy. This is Due's thematic statement: magic survives through whispered transmission, not public record. Hickok's letter (official) vs. Lucy's whisper (personal) = dual epistemologies, reader chooses.
+- **为什么这样写**：Due 的结局是一种邀请：读者必须"以内心最安静处聆听"才能接收 Lucy 的秘密——呼应 Lucy 的低语能力。省略号（而非句号）使故事保持开放，暗示魔法继续。"your machine"（WPA 录音机）对应读者手中的文本；Lucy 的低语超越媒介。这是元叙事：novella 本身是 Lucy 对读者的低语。
+- **读者视角提示**：结局拒绝定位 Zipporah（Lucy "can't say where"），保留其 hidden 状态。"only you" 使读者 complicit in secrecy。这是 Due 的主题陈述：魔法通过 whispered transmission 存续，而非 public record。Hickok 的 letter（official）与 Lucy 的 whisper（personal）= dual epistemologies，读者选择。
 
 ## 本章词汇
 
