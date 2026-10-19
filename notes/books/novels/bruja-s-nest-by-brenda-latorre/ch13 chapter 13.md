@@ -216,7 +216,7 @@ start_date: 2026-10-19
 
 > **原句 15:** "“I thought you were going to take a bath?”"
 
-**中文理解**：Itzco’s "I thought you were going to take a bath?"—shows his surveillance. Yolanda: "It’s for good luck." (about egg) "I try to give him a reassuring smile, already regretting having shown him."
+**中文理解**：Javier’s "I thought you were going to take a bath?"—shows his unexpected arrival. Yolanda hides egg. "A sigh escapes me." Shows her frustration.
 
 **句子结构**：简单问句。
 
@@ -227,20 +227,7 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 16:** "“Good luck? Says who?”"
-
-**中文理解**：Itzco’s "Good luck? Says who?"—skepticism about Yolanda’s "good luck" (egg). Shows his perception。
-
-**句子结构**：问句。
-
-**关键词**：
-- `Good luck? Says who?`：好运？谁说的？——skepticism
-
-**为什么这样写**：Itzco’s skepticism shows he doesn’t believe Yolanda’s cover story—his perception threatens her secrets。
-
----
-
-> **原句 26:** "A contraction hits my womb."
+> **原句 16:** "While I stand there, hovering over Valentín, a contraction hits my womb."
 
 **中文理解**：Yolanda’s "A contraction hits my womb."—shows her body’s reaction to stress. "It’s as if my body has forgotten it already gave birth."
 
