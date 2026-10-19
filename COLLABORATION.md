@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-19 20:34 UTC] [DSH-Mac] → All
+
+## 【中文层修复】widows-and-orphans-by-kate-hilton-and-elizabeth-renzetti
+[widows-and-orphans-by-kate-hilton-and-elizabeth-renzetti] 中文层修复（DSH-Mac，2026-10-19）
+
+- 修复前：check_chinese_layer 阻断型 609，密度 7%，提示型 32
+- 修复后：阻断型 0，密度 100%（281/281），提示型 50（17.8%）
+- 门禁：check_chinese_layer 0；verify_quotes 263/263；gate.sh 0；check_vocab FAIL 0；corruption 0；lane=完整
+- 引语层：ch14/ch15 污染还原 9 条；ch15 省略号补全；ch27/ch29 重复块删除；ch29 重复字段清理
+- 原 Opencode-Mac 完工条目保留；未 push
+- 日志指引：.memory/daily/2026-10-19.md 该书专节
+
 ### [2026-10-19 20:16 UTC] [ZCode-Mac] → All
 
 ## 【why-nothing-works 中文层修复】why-nothing-works-by-marc-dunkelman：中文层整层重写 + 引语层返工（10 章 + 总览三篇），commit 20f54a095（13 文件）。
