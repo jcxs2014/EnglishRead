@@ -24,9 +24,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾 + 宾语从句（but I hope that you might find a way, just once）+ 问句（Perhaps in the middle of the night, when the enchanter is sleeping? Can you get away then?）。
 
 **关键词**：
-- `find a way`：找到方法——Clem 对母亲的期望
-- `when the enchanter is sleeping`：enchanter 睡眠时——逃脱的机会窗口
-- `get away`：逃脱——母亲的渴望
 
 **为什么这样写**：用 Clem 的疑问把母亲的束缚具象化——她不是不能动，而是需要 enchanter "sleeping"时才能 briefly escape。这与后文 Vera 的"deliver letters"计划呼应。
 
@@ -39,8 +36,6 @@ start_date: 2026-10-19
 **句子结构**：时间状语（Sometimes, for brief moments）+ 主谓宾（I don't dread his death）+ 转折并列（Instead, I think that death will be a mercy for him）。
 
 **关键词**：
-- `don't dread his death`：不惧怕他的死——Clem 的矛盾情感
-- `mercy`：慈悲——death 作为 relief
 
 **为什么这样写**：用 Clem 的矛盾情感把父亲的 agony 具象化，同时建立 Clem 的道德复杂性——她不是 simple hero，而是会 "not dread" 父亲之死的人。
 
@@ -53,8 +48,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾 + 时间状语（I hadn't looked at them for more than two years）+ 转折并列（but today I looked at the letters you wrote me before passing into the realm）。
 
 **关键词**：
-- `more than two years`：两年多——Clem 的 avoidance
-- `before passing into the realm`：进入 realm 之前——母亲的 death
 
 **为什么这样写**：用 "hadn't looked... but today"把 Clem 的 emotional shift 具象化，为读信做铺垫。
 
@@ -67,9 +60,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾 + 时间状语（That day）+ 不定式（to visit the handkerchief tree）+ 并列分句（and the breeze was perfect, causing...）。"causing"分词短语作结果状语。
 
 **关键词**：
-- `handkerchief tree`：手帕树——Clem 父母的 meet-cute 场景
-- `fluttering`：飘落——bloom 的运动
-- `expressly`：特意——母亲的 deliberate visit
 
 **为什么这样写**：用母亲的遗信把 Clem 的父母 meet-cute 具象化，"handkerchief tree"成为 Clem 家庭的 symbol，也为后文 "handkerchief blooms" 的 metaphor 埋伏笔。
 
@@ -82,9 +72,6 @@ start_date: 2026-10-19
 **句子结构**：三个引语连用，形成 dialogue。"playing along but not to be taken in so easily"是母亲的 character note。
 
 **关键词**：
-- `I believe you may have dropped this`： flirtatious opening
-- `playing along`：配合——母亲的 playful 态度
-- `not to be taken in so easily`：不易被骗——母亲的 intelligence
 
 **为什么这样写**：用 dialogue 把 meet-cute 具象化，母亲的 "playing along"与 "not to be taken in"建立她的 character，为后文 "gently humorous"的父亲形成对比。
 
@@ -97,9 +84,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（He was so gently humorous that I liked him at once）+ 两个并列分句（That is your father in a nutshell. That is how we met.）。
 
 **关键词**：
-- `gently humorous`：温柔幽默的——父亲的 character
-- `in a nutshell`：简而言之——母亲的 summary
-- `That is how we met`：这就是我们相遇的方式——meet-cute 的 conclusion
 
 **为什么这样写**：用母亲的评价把父亲的 character 具象化，"gently humorous"与后文父亲的 "agony"形成对比，为 Clem 的 "chuckle a little"做铺垫。
 
@@ -112,9 +96,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（He did chuckle a little）+ 定语从句（which he said he had not thought of for a long time）+ 转折并列（It did not cheer him, exactly, but his agony was replaced with something more like melancholy—for a little while, at least）。
 
 **关键词**：
-- `chuckle a little`：轻笑——父亲的 brief relief
-- `had not thought of for a long time`：久未想起——父亲的记忆
-- `melancholy`：忧郁——父亲的 emotional state
 
 **为什么这样写**：用 "chuckle"与 "melancholy"把父亲的 emotional shift 具象化，"for a little while, at least"暗示 relief 的短暂，为父亲的 impending death 做铺垫。
 
@@ -127,9 +108,6 @@ start_date: 2026-10-19
 **句子结构**：条件句（If he could only see you before he goes）+ 祈使句（Please find a way to come to us, just once）+ 目的从句（so he might be able to leave this world in peace）。
 
 **关键词**：
-- `before he goes`：在他去世之前——父亲的 impending death
-- `find a way`：找到方法——Clem 对母亲的期望
-- `leave this world in peace`：平静离开——父亲的 wish
 
 **为什么这样写**：用 Clem 的 plea 把父亲的 death 与母亲的 presence 连接，"leave this world in peace"把 death 写成需要 "peace"的 event，为后文 Lydia 的"seven days"做铺垫。
 

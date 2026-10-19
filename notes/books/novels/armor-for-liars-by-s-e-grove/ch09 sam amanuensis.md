@@ -24,9 +24,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（It is true that...）+ 主谓宾（being confined... presented a significant obstacle）+ 介词短语（to the pursuit of my murderer）。
 
 **关键词**：
-- `confined to the realm of the dead`：被限制在死灵 realm——Sam 的状态
-- `significant obstacle`：重大障碍——Sam 的困难
-- `pursuit of my murderer`：追查 murderer——Sam 的动机
 
 **为什么这样写**：用 Sam 的 "significant obstacle"把 his limitation 具象化，但 "significant" 不是 "insurmountable"，暗示 Sam 的 resourcefulness。
 
@@ -39,8 +36,6 @@ start_date: 2026-10-19
 **句子结构**：时间状语（During the summer）+ 主谓宾（I'd recruited an assistant）+ 主系表（His name was Constable Roy Maxwell）。
 
 **关键词**：
-- `recruited`：招募——Sam 的 initiative
-- `assistant`：助手——Maxwell 的 role
 
 **为什么这样写**：用 "recruited"把 Sam 的 agency 具象化，暗示 Sam 作为 thew 的 resourcefulness。
 
@@ -53,8 +48,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（Maxwell ignored the heat）+ 让步状语从句（Though he was sweating through his shirt）+ 主谓宾（he wore his coat buttoned）。
 
 **关键词**：
-- `ignored the heat`：无视 heat——Maxwell 的 discipline
-- `wore his coat buttoned`：扣紧外套——Maxwell 的 formality
 
 **为什么这样写**：用 Maxwell 的 physical details 把他的 character 具象化，"buttoned"与 "sweating"形成对比，暗示他的 self-control。
 
@@ -67,10 +60,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（I could imagine what would come next）+ 并列分句（Maxwell would be insistent...; the men would be reckless...）+ 主谓宾（It would not end well）。
 
 **关键词**：
-- `could imagine`：能想象——Sam 的 foresight
-- `insistent`：坚持的——Maxwell 的 approach
-- `reckless`： reckless 的——men 的 self-defense
-- `would not end well`：不会好——Sam 的 prediction
 
 **为什么这样写**：用 Sam 的 foresight 把 thew 视角的 "seeing ahead" 具象化，为后文 "I urged caution" 做铺垫。
 
@@ -83,8 +72,6 @@ start_date: 2026-10-19
 **句子结构**：引语 + 说话标签（he said quietly）。极简。
 
 **关键词**：
-- `I'm listening`：我在听——Maxwell 的 openness
-- `quietly`：安静地——Maxwell 的 demeanor
 
 **为什么这样写**：用 Maxwell 的 "I'm listening"把 his unique quality 具象化——他能 hear Sam 的 subtle suggestions，把 Sam 的 "meddling" 转化为 partnership。
 
@@ -97,8 +84,6 @@ start_date: 2026-10-19
 **句子结构**：问句（Are you Mrs. Baines?）+ 回答（No—her mother's passed away）。
 
 **关键词**：
-- `Are you Mrs. Baines?`：你是 Baines 夫人吗——Maxwell 的 query
-- `her mother's passed away`：她母亲去世了——Beth 的 family situation
 
 **为什么这样写**：用 dialogue 把 Beth 的 death 揭示具象化，"mother's passed away"把 Beth 的 vulnerability 具象化，为后文 "Morton's culpability" 做铺垫。
 
@@ -111,9 +96,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（Maxwell nodded gently）+ 引语（I see. I'm very sorry. I have bad news for you about Beth.）。
 
 **关键词**：
-- `nodded gently`：温柔地点头——Maxwell 的 empathy
-- `I'm very sorry`：我很抱歉——Maxwell 的 compassion
-- `bad news`：坏消息——Beth 的 death
 
 **为什么这样写**：用 Maxwell 的 "gently"与 "very sorry"把 his empathy 具象化，为后文 "sat with the young woman's grandmother" 做铺垫。
 
@@ -126,8 +108,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（He shook his head, dismayed）+ 引语（Many more?）。
 
 **关键词**：
-- `shook his head, dismayed`：摇头， dismayed——Maxwell 的 reaction
-- `Many more?`：更多吗——Maxwell 的 concern
 
 **为什么这样写**：用 Maxwell 的 "dismayed"与 "Many more?"把 his moral concern 具象化，为后文 "We had taken a step together" 做铺垫。
 
@@ -140,9 +120,6 @@ start_date: 2026-10-19
 **句子结构**：引语（Thank you... You were right to bring me）+ 主谓宾（He took his truncheon... and made a circle in the air）+ 主谓宾（The brown oak leaves... drifted upward, swirling gently, until they made a loose, protective wall...）。
 
 **关键词**：
-- `Thank you`：谢谢——Maxwell 的 gratitude
-- `protective wall`： protective wall——Maxwell 的 care
-- `truncheon`：警棍——Maxwell 的 tool
 
 **为什么这样写**：用 Maxwell 的 "protective wall"把 his empathy 具象化，把 his truncheon（defense tool）转化为 protective tool，暗示 Maxwell 的 character。
 
@@ -155,8 +132,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（We had taken a step together）+ 同位语（a perilous step）+ 主谓宾（my connection with Maxwell would not be the same）。
 
 **关键词**：
-- `perilous step`： perilous step——partnership 的 risk
-- `would not be the same`：不会一样——partnership 的 change
 
 **为什么这样写**：用 "perilous step"把 Sam-Maxwell partnership 的 risk 具象化，"would not be the same"暗示 partnership 的 deepening，为后文 collaboration 做铺垫。
 

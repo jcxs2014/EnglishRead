@@ -24,8 +24,6 @@ start_date: 2026-10-19
 **句子结构**：时间状语（With the benefit of hindsight）+ 主谓宾（I should have stayed with Clementine and Rosetta）+ 转折（But when I saw them leaving Clover Hall in a hired coach, I thought the worst had passed, and so I departed to find Maxwell）。
 
 **关键词**：
-- `With the benefit of hindsight, I should have stayed`：With the benefit of hindsight——Sam's regret
-- `I thought the worst had passed`：I thought the worst had passed——Sam's misjudgment
 
 **为什么这样写**：用 Sam's regret 把 his misjudgment 具象化，"I thought the worst had passed"把 his optimism 具象化，为后文 "It took me away from Clementine for more than a day, vital time that would, alas, cost me greatly" 做铺垫。
 
@@ -38,9 +36,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（It was slow work）+ 主谓宾（And it took me away from Clementine for more than a day, vital time that would, alas, cost me greatly）+ 主谓宾（I had no notion of what was coming）。
 
 **关键词**：
-- `It was slow work`：It was slow work——Sam's assessment
-- `It took me away from Clementine for more than a day, vital time that would, alas, cost me greatly`：It took me away——Sam's regret
-- `I had no notion of what was coming`：I had no notion——Sam's ignorance
 
 **为什么这样写**：用 "It was slow work"把 Sam's assessment 具象化，"vital time that would, alas, cost me greatly"把 Sam's regret 具象化，"I had no notion of what was coming"把 Sam's ignorance 具象化，为后文 "When I finally turned my attention back to her on Monday afternoon" 做铺垫。
 
@@ -53,9 +48,6 @@ start_date: 2026-10-19
 **句子结构**：时间状语（With a speed I would have envied in life）+ 主谓宾（I dashed to Clem's side and forced upon her the greatest urgency I could）+ 引语（It is Rosetta! I wanted to scream at her. We were wrong, the both of us! They were not after you, they were after HER! Run! Run! Run!）。
 
 **关键词**：
-- `With a speed I would have envied in life`：With a speed I would have envied——Sam's urgency
-- `It is Rosetta!`：It is Rosetta!——Sam's realization
-- `They were not after you, they were after HER!`：They were not after you, they were after HER!——Sam's realization
 
 **为什么这样写**：用 "With a speed I would have envied in life"把 Sam's urgency 具象化，"It is Rosetta!"把 Sam's realization 具象化，"They were not after you, they were after HER!"把 Sam's realization 具象化，为后文 "How had I not understood in time?" 做铺垫。
 
@@ -68,9 +60,6 @@ start_date: 2026-10-19
 **句子结构**：问句（How had I not understood in time?）+ 主系表（Of course it would be Rosetta）+ 主谓宾（Simeon had made his vile intentions clear）+ 主谓宾（No doubt he was somewhere nearby now, artfully hidden, ensuring that Rosetta met the terrible end he intended for her）。
 
 **关键词**：
-- `How had I not understood in time?`：How had I not understood in time?——Sam's regret
-- `Of course it would be Rosetta`：Of course it would be Rosetta——Sam's realization
-- `Simeon had made his vile intentions clear`：Simeon had made his vile intentions clear——Sam's assessment
 
 **为什么这样写**：用 "How had I not understood in time?"把 Sam's regret 具象化，"Of course it would be Rosetta"把 Sam's realization 具象化，"Simeon had made his vile intentions clear"把 Simeon's intentions 具象化，为后文 "At first, Clementine only frowned, perplexed" 做铺垫。
 
@@ -83,9 +72,6 @@ start_date: 2026-10-19
 **句子结构**：时间状语（At first）+ 主系表（Clementine only frowned, perplexed）+ 时间状语（Then）+ 主谓宾（came the piercing sound of a constable's whistle, following by shouting）+ 主谓宾（Clementine broke into a run）。
 
 **关键词**：
-- `At first, Clementine only frowned, perplexed`：At first, Clementine only frowned——Clem's initial confusion
-- `Then came the piercing sound of a constable's whistle`：Then came the piercing sound——Clem's realization
-- `Clementine broke into a run`：Clementine broke into a run——Clem's response
 
 **为什么这样写**：用 "At first, Clementine only frowned, perplexed"把 Clem's initial confusion 具象化，"Then came the piercing sound of a constable's whistle"把 Clem's realization 具象化，"Clementine broke into a run"把 Clem's response 具象化，为后文 "I couldn't bear to watch her face as she reached the fallen figure" 做铺垫。
 
@@ -98,8 +84,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（She would not survive it）+ 主谓宾（And Clementine hadn't arrived）。
 
 **关键词**：
-- `She would not survive it`：She would not survive it——Sam's assessment
-- `And Clementine hadn't arrived`：And Clementine hadn't arrived——Sam's despair
 
 **为什么这样写**：用 "She would not survive it"把 Sam's assessment 具象化，"And Clementine hadn't arrived"把 Sam's despair 具象化，为后文 "What could I possibly do for her?" 做铺垫。
 
@@ -112,9 +96,6 @@ start_date: 2026-10-19
 **句子结构**：问句（What could I possibly do for her?）+ 主谓宾（I brought myself as near as I could to Rosetta and sent her all my strength）+ 主谓宾（I urged a sense of calm upon her, a calm that would, perhaps, allow her to breathe）。
 
 **关键词**：
-- `What could I possibly do for her?`：What could I possibly do for her?——Sam's helplessness
-- `I brought myself as near as I could to Rosetta and sent her all my strength`：I brought myself as near as I could——Sam's attempt
-- `I urged a sense of calm upon her`：I urged a sense of calm——Sam's attempt
 
 **为什么这样写**：用 "What could I possibly do for her?"把 Sam's helplessness 具象化，"I brought myself as near as I could to Rosetta and sent her all my strength"把 Sam's attempt 具象化，"I urged a sense of calm upon her"把 Sam's attempt 具象化，为后文 "A calm of perfect stillness, of the ocean horizon at sunset, of the moon rising placidly above our vicious, savage, indifferent world" 做铺垫。
 
@@ -127,9 +108,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（I couldn't bear to watch her face as she reached the fallen figure and threw herself beside it）+ 主谓宾（She did not scream or cry）+ 主谓宾（She only folded over her sister's back and held her tightly, clutching the limp hand that rested in the dust）。
 
 **关键词**：
-- `I couldn't bear to watch her face`：I couldn't bear to watch her face——Sam's helplessness
-- `She did not scream or cry`：She did not scream or cry——Clem's grief
-- `She only folded over her sister's back and held her tightly`：She only folded over——Clem's grief
 
 **为什么这样写**：用 "I couldn't bear to watch her face"把 Sam's helplessness 具象化，"She did not scream or cry"把 Clem's grief 具象化，"She only folded over her sister's back and held her tightly"把 Clem's grief 具象化，为后文 "It seemed that she would never let go" 做铺垫。
 
@@ -142,9 +120,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（The minutes passed and still she remained that way）+ 时间状语（even as Maxwell crouched down to speak soothing words to her, and the gathered crowd was held at bay by a ring of constables, and the murmurs of rumor swelled to outrage）+ 主谓宾（Maxwell tried gently to pull her off, but Clementine wouldn't move）+ 主系表（It seemed that she would never let go）。
 
 **关键词**：
-- `The minutes passed and still she remained that way`：The minutes passed——Clem's grief
-- `Maxwell tried gently to pull her off, but Clementine wouldn't move`：Maxwell tried gently——Clem's grief
-- `It seemed that she would never let go`：It seemed that she would never let go——Clem's grief
 
 **为什么这样写**：用 "The minutes passed and still she remained that way"把 Clem's grief 具象化，"Maxwell tried gently to pull her off, but Clementine wouldn't move"把 Clem's grief 具象化，"It seemed that she would never let go"把 Clem's grief 具象化，为后文 chapters 做铺垫。
 

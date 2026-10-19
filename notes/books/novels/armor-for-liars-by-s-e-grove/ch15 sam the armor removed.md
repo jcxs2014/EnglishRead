@@ -24,9 +24,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（I experienced a burst of satisfaction）+ 并列分句（followed by a flush of sympathy）+ 主谓宾（I'd suspected for some days now that Clem and I were two of a kind, both of us impostors and dissemblers!）。
 
 **关键词**：
-- `burst of satisfaction`：burst of satisfaction——Sam 的 recognition
-- `flush of sympathy`：flush of sympathy——Sam 的 empathy
-- `impostors and dissemblers`：impostors and dissemblers——Sam 与 Clem 的 shared identity
 
 **为什么这样写**：用 Sam 的 "two of a kind"把 his solidarity with Clem 具象化，"impostors and dissemblers"把 their shared secrecy 具象化。
 
@@ -39,8 +36,6 @@ start_date: 2026-10-19
 **句子结构**：时间状语（As she withdrew her hand from the tokens）+ 主谓宾（Quinn's mustache and beard vanished）+ 主谓宾（There was a collective gasp）。
 
 **关键词**：
-- `mustache and beard vanished`：mustache and beard vanished——Clem's transformation
-- `collective gasp`：collective gasp——students' reaction
 
 **为什么这样写**：用 "vanished"把 Clem's transformation 具象化，"collective gasp"把 students' shock 具象化，为后文 "disgust, hostility, indignation, and disdain" 做铺垫。
 
@@ -53,8 +48,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（The greatest change was in Quinn's expression）+ 主系表（Gone was the wide-eyed innocent who bounded to class and blinked at insults）+ 主谓宾（I didn't recognize the face that gazed out onto the classroom）。
 
 **关键词**：
-- `Gone was the wide-eyed innocent`：Gone was the wide-eyed innocent——Clem's transformation
-- `I didn't recognize the face`：I didn't recognize——Sam's observation
 
 **为什么这样写**：用 "Gone was the wide-eyed innocent"把 Clem's true self 具象化，"I didn't recognize"把 Sam's observation 具象化，暗示 Clem's disguise was effective even to Sam。
 
@@ -67,9 +60,6 @@ start_date: 2026-10-19
 **句子结构**：引语（I am appalled... to realize that...）+ 引语（You, young lady, are an intruder）。
 
 **关键词**：
-- `I am appalled`：I am appalled——Mead's reaction
-- `outrageous deceit`：outrageous deceit——Mead's assessment
-- `intruder`：intruder——Mead's label
 
 **为什么这样写**：用 Mead's cold tone 把 his reaction 具象化，"intruder"把 Clem's status 具象化，为后文 "summons" 做铺垫。
 
@@ -82,8 +72,6 @@ start_date: 2026-10-19
 **句子结构**：引语（It may be a public institution, young lady... but it is open and free to all men）+ 引语（I should have thought... that this was obvious）。
 
 **关键词**：
-- `open and free to all men`：open and free to all men——Mead's gendered exclusion
-- `this was obvious`：this was obvious——Mead's assumption
 
 **为什么这样写**：用 Mead's "all men"把 his gendered exclusion 具象化，"this was obvious"把 his assumption 具象化，为后文 Clem's "None of the rules... forbid the admission of women" 做铺垫。
 
@@ -96,8 +84,6 @@ start_date: 2026-10-19
 **句子结构**：引语（None of the rules of the university forbid the admission of women）+ 引语（and the laws of the commonwealth don't bar them either）。
 
 **关键词**：
-- `None of the rules... forbid the admission of women`：None of the rules forbid——Clem's legal argument
-- `the laws of the commonwealth don't bar them either`：laws don't bar them——Clem's legal argument
 
 **为什么这样写**：用 Clem's legal argument 把 her counter 具象化，"None of the rules"与 "laws of the commonwealth"把 her argument 具象化为 legal challenge，为后文 Mead's "summons" 做铺垫。
 
@@ -110,9 +96,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（An ordinary person would have considered...）+ 转折（But Quinn merely paused...）+ 主谓宾（I believe this was the moment when I first felt a spark of affection for Quinn）+ 同位语（her chin held high, her eyes hard and unyielding, she was the very picture of resistance）。
 
 **关键词**：
-- `spark of affection`：spark of affection——Sam's emotional response
-- `chin held high`：chin held high——Clem's resistance
-- `very picture of resistance`：very picture of resistance——Clem's demeanor
 
 **为什么这样写**：用 Sam's "spark of affection"把 his emotional response 具象化，"very picture of resistance"把 Clem's character 具象化，为后文 Sam's continued support 做铺垫。
 
@@ -125,9 +108,6 @@ start_date: 2026-10-19
 **句子结构**：引语（Clementine Quinn, daughter of Robert and Lydia Quinn, and my cousin）+ 主谓宾（It was Simeon Trench who had interrupted her in acid tones）。
 
 **关键词**：
-- `daughter of Robert and Lydia Quinn`：daughter of Robert and Lydia Quinn——Clem's parentage
-- `and my cousin`：and my cousin——Simeon's relation to Clem
-- `acid tones`：acid tones——Simeon's anger
 
 **为什么这样写**：用 Simeon's interruption 把 Clem's identity 具象化，"and my cousin"把 Simeon-Clem relation 具象化，为后文 "This is unconscionable, Clementine" 做铺垫。
 
@@ -140,8 +120,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（You will be receiving a summons）+ 主谓宾（I suggest that you do not ignore it）。
 
 **关键词**：
-- `summons`：summons——Mead's official response
-- `do not ignore it`：do not ignore it——Mead's warning
 
 **为什么这样写**：用 Mead's summons 把 Clem's expulsion 具象化，"do not ignore it"把 summons 的 seriousness 具象化，为后文 Clem's fate 做铺垫。
 
@@ -154,8 +132,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（She didn't look back at the building）+ 定语从句（where her studies of enchantment had so unexpectedly come to an end）。
 
 **关键词**：
-- `didn't look back`：didn't look back——Clem's composure
-- `so unexpectedly come to an end`：so unexpectedly come to an end——Clem's studies' end
 
 **为什么这样写**：用 "didn't look back"把 Clem's composure 具象化，"so unexpectedly come to an end"把 Clem's fate 具象化，为后文 chapters 做铺垫。
 

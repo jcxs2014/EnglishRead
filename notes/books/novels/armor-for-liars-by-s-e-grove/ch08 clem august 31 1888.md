@@ -24,8 +24,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾 + 时间状语（The first thing I did when I arrived）+ 并列分句（and I did see you there, I think, but it was hard to tell）。
 
 **关键词**：
-- `walk by your window`：走到你窗下——Clem 的 first action
-- `hard to tell`：难以分辨——母亲的囚禁状态
 
 **为什么这样写**：用 Clem 的 first action 把母亲的囚禁具象化，"hard to tell"把母亲的 status 写成 uncertain，为后文 "filthy window" 做铺垫。
 
@@ -38,8 +36,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（In the past it has always been nighttime when I arrive...）+ 并列分句（and I had not noticed then how very dirty the window is, and how the others are practically barricaded...）。
 
 **关键词**：
-- `very dirty`：非常脏——母亲的环境
-- `barricaded with objects from the inside`：从内 barricaded——母亲的囚禁
 
 **为什么这样写**：用 "dirty"与 "barricaded"把母亲的囚禁具象化，"from the inside"暗示母亲自己 barricaded（或 enchanter 的控制），为后文 "storeroom" 做铺垫。
 
@@ -52,8 +48,6 @@ start_date: 2026-10-19
 **句子结构**：两个问句连用，形成 rhetorical accumulation。
 
 **关键词**：
-- `storeroom`：储藏室——母亲的囚禁空间
-- `crates and boxes`：板条箱与盒子——母亲的 surroundings
 
 **为什么这样写**：用问句把 Clem 的 concern 具象化，"storeroom"与 "crates and boxes"把母亲的囚禁写成 physical confinement，与 ch04 的 "chained to another man's will" 形成对比。
 
@@ -66,9 +60,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（I have heeded your warning）+ 转折（And yet...）+ 主系表（they are mere children）+ 并列分句（Malicious children, yes, but so terribly young...）。
 
 **关键词**：
-- `heeded your warning`：听从你的警告——母亲的 prior advice
-- `mere children`： mere children——Clem 的 underestimation
-- `Malicious children, yes, but so terribly young`：恶意但 young——Clem 的 assessment
 
 **为什么这样写**：用 Clem 的 "mere children"把 Commonwealth students 的 threat 具象化，"Malicious children, yes, but so terribly young"把 threat 写成 manageable，为后文 "knives are all dull" 做铺垫。
 
@@ -81,10 +72,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（It's true that...）+ 主谓宾（I felt some unease）+ 定语从句（that feels like walking with my back to a knife thrower）+ 转折（But soon enough I realized that the knives are all dull）。
 
 **关键词**：
-- `unease`：不安——Clem 的 initial fear
-- `recklessness`： reckless ——students 的 behavior
-- `knife thrower`：飞刀者——Clem 的 metaphor
-- `knives are all dull`：刀都钝——Clem 的 reassessment
 
 **为什么这样写**：用 "knife thrower" metaphor 把 students 的 threat 具象化，"knives are all dull"把 threat 写成 negligible，建立 Clem 的 confidence（可能 misguided）。
 
@@ -97,8 +84,6 @@ start_date: 2026-10-19
 **句子结构**：时间状语（As luck would have it）+ 主谓宾（I have already encountered Simeon twice）+ 第一次 encounter（The first time I avoided him, thinking...）+ 转折（but I needn't have been concerned）+ 主谓宾（He sees what he wishes to see, and so he sees admirers all around him）。
 
 **关键词**：
-- `encountered Simeon twice`：遇 Simeon 两次——Clem 的 proximity to danger
-- `He sees what he wishes to see`：他只看到他想看的——Simeon 的 perception bias
 
 **为什么这样写**：用 "He sees what he wishes to see"把 Simeon 的 perception 具象化，暗示 Simeon 的 arrogance 使他 blind to Clem 的 true identity，为后文 Clem 的 "one light" 做铺垫。
 
@@ -111,8 +96,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾 + 时间状语（on Monday）+ 语气词（at last）。简短而有力。
 
 **关键词**：
-- `come to see you`：来看你——Clem 的 promise
-- `at last`：终于——Clem 的 long wait
 
 **为什么这样写**：用 "at last"把 Clem 的 visit 写成 culmination，为后文 Clem 与母亲的 reunion 做铺垫。
 

@@ -24,8 +24,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（It is possible to guard one's thoughts...）+ 主谓宾（One requires only deliberate focus...）。
 
 **关键词**：
-- `guard one's thoughts`：guard thoughts——thew 的 mind-reading 的 counter
-- `deliberate focus on a neutral object`：deliberate focus——guarding method
 
 **为什么这样写**：用 epigraph 建立 thew mind-reading 的 counter，为后文 Sam "I could not see beyond the visible" 做铺垫。
 
@@ -38,8 +36,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（It was clear to me that the words... were only a first warning）+ 主谓宾（Simeon, and the larger Society around him, would not stop at a few malicious scratches）。
 
 **关键词**：
-- `first warning`：first warning——Quinn's danger 的开始
-- `would not stop`：would not stop——Society's persistence
 
 **为什么这样写**：用 Sam 的 assessment 把 Quinn's danger 具象化为 ongoing，为后文 "irreversibly" 做铺垫。
 
@@ -52,7 +48,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（her assistance made it possible for Quinn to pay the warning less attention than he should have）。
 
 **关键词**：
-- `pay the warning less attention than he should have`：pay less attention——Quinn's complacency
 
 **为什么这样写**：用 Sam 的 critique 把 Quinn's underestimation 具象化，为后文 "his circumstances changed irreversibly" 做铺垫。
 
@@ -65,8 +60,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（Spirit Casting is taught by the venerable Professor Selwyn Mead）+ 主系表（His spirit thew... was said to be as lovely as she was powerful）。
 
 **关键词**：
-- `venerable Professor`：venerable Professor——Mead's reputation
-- `as lovely as she was powerful`：as lovely as powerful——Cassandra's reputation
 
 **为什么这样写**：用 Mead/Cassandra 的 reputation 建立 their authority，为后文 Mead's lecture 做铺垫。
 
@@ -79,9 +72,6 @@ start_date: 2026-10-19
 **句子结构**：引语（Spirit Casting... is the practice of casting power through a spirit thew）+ 引语（It is the foundation of advanced enchantment...）。
 
 **关键词**：
-- `casting power through a spirit thew`：casting power through a thew——Spirit Casting 的 definition
-- `foundation of advanced enchantment`：foundation of advanced enchantment——Spirit Casting 的 importance
-- `impossible to practice without a spirit thew`：impossible without a thew——thew 的 necessity
 
 **为什么这样写**：用 Mead's definition 建立 Spirit Casting 的 importance，为后文 "singular and joint casting" 做铺垫。
 
@@ -94,9 +84,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（Cassandra began turning away slowly...）+ 并列分句（And then she continued turning, slowly, as her aspect altered...）+ 时间状语从句（When she had completed the slow twirl, Laurence Fishbane... stood in her place）。
 
 **关键词**：
-- `as if she had finally lost all interest`：as if lost all interest——Cassandra's indifference
-- `aspect altered gradually from head to toe`：aspect altered——Cassandra's transformation
-- `Laurence Fishbane... stood in her place`：Fishbane stood in her place——Cassandra's demonstration
 
 **为什么这样写**：用 Cassandra's transformation 把 thew's shape-shifting 具象化，"Laurence Fishbane"把 thew's power 具象化为 impersonation，为后文 "A talented and experienced thew, such as Cassandra, can effect a transformation so persuasive that it even deceives other thews" 做铺垫。
 
@@ -109,8 +96,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（Mead indulged in a quiet chuckle）+ 引语（Very apropos, Cassandra. And very convincing...）。
 
 **关键词**：
-- `Very apropos`：Very apropos——Mead's approval
-- `effect a transformation so persuasive that it even deceives other thews`：transformation so persuasive——Cassandra's power
 
 **为什么这样写**：用 Mead's commentary 把 Cassandra's power 具象化，"even deceives other thews"把 thew's power 具象化为 potentially deceptive，为后文 Cassandra's "reading" students 做铺垫。
 
@@ -123,8 +108,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（She lifted her arm slowly and held her hand out）+ 伴随分词短语（palm open, facing downward）+ 比喻（she might have been taking the pulse of some invisible being who lay before her）。
 
 **关键词**：
-- `palm open, facing downward`：palm open, facing downward——Cassandra's gesture
-- `taking the pulse of some invisible being`：taking the pulse——Cassandra's perception metaphor
 
 **为什么这样写**：用 Cassandra's gesture 把 thew's perception 具象化，"taking the pulse"把 perception 具象化为 medical metaphor，为后文 Cassandra's "observations" 做铺垫。
 
@@ -137,9 +120,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（Her voice was slow, ponderous）+ 三个引语连用 + 伴随分词短语（Her hand shifted slightly in a balletic gesture, and her eyes flickered）+ 主系表（The room was utterly silent）。
 
 **关键词**：
-- `There is one person in this room who spent the whole of last night at his father's sickbed`：one person at father's sickbed——Cassandra's perception
-- `There is another who dove... to save a drowning man`：another who dove to save——Cassandra's perception
-- `Another has a stain upon his heart; he wishes the death of his brother`：stain upon his heart——Cassandra's perception
 
 **为什么这样写**：用 Cassandra's observations 把 thew's perception 具象化，"stain upon his heart"把 moral corruption 具象化，为后文 "And yet another does not belong here" 做铺垫。
 
@@ -152,8 +132,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（Cassandra's gaze shifted again）+ 主谓宾（and she seemed to look toward the back of the room）+ 引语（And yet another does not belong here）+ 主谓宾（Her lovely bare arm and delicate finger pointed at Clem Quinn）+ 引语（That one, at the very back... is not a man at all. She is a woman）。
 
 **关键词**：
-- `And yet another does not belong here`：And yet another does not belong here——Cassandra's revelation
-- `is not a man at all. She is a woman`：is not a man at all. She is a woman——Clem's exposure
 
 **为什么这样写**：用 Cassandra's revelation 把 Clem's secret 具象化，"cool, imperious, and certain"把 Cassandra's demeanor 具象化，为后文 Clem's danger 做铺垫。
 

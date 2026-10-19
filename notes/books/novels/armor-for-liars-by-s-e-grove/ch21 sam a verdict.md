@@ -24,7 +24,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（Their case was scheduled for ten thirty）+ 时间状语从句（by the time the sisters arrived）+ 主系表（the Salem courthouse was packed）。
 
 **关键词**：
-- `the Salem courthouse was packed`：the Salem courthouse was packed——trial 的 public interest
 
 **为什么这样写**：用 "packed"把 trial 的 public interest 具象化，为后文 "Simeon was there, of course, relishing his position of authority" 做铺垫。
 
@@ -37,8 +36,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（I considered him, trying to ascertain his inclinations）+ 时间状语（Until now）+ 主系表（the Honorable Brice Richardson had seemed neither hostile nor friendly to Clem's case）。
 
 **关键词**：
-- `neither hostile nor friendly`：neither hostile nor friendly——Richardson's neutrality
-- `trying to ascertain his inclinations`：trying to ascertain——Sam's assessment
 
 **为什么这样写**：用 Sam's assessment 把 Richardson's neutrality 具象化，"neither hostile nor friendly"把 his stance 具象化，为后文 "He wore a familiar signet ring, engraved with a swan" 做铺垫。
 
@@ -51,8 +48,6 @@ start_date: 2026-10-19
 **句子结构**：引语（Your Honor...）+ 主谓宾（Clementine Quinn has presented not only a threat... but indeed a threat...）。
 
 **关键词**：
-- `not only a threat to the revered traditions`：not only a threat——Pombaline's rhetoric
-- `but indeed a threat to the standards of education more generally`：but indeed a threat——Pombaline's rhetoric
 
 **为什么这样写**：用 Pombaline's rhetoric 把 his argument 具象化，"not only... but indeed"把 his argument 具象化为 rhetorical escalation，为后文 "There were cheers from the packed seats" 做铺垫。
 
@@ -65,8 +60,6 @@ start_date: 2026-10-19
 **句子结构**：引语（Second... both the rules... and the laws... mention 'men' many times, but they never explicitly bar women...）。
 
 **关键词**：
-- `both the rules of the university and the laws of the commonwealth mention 'men' many times`：both mention 'men'——Smythe's legal argument
-- `but they never explicitly bar women from applying or enrolling`：but they never explicitly bar women——Smythe's legal argument
 
 **为什么这样写**：用 Smythe's legal argument 把 his counter 具象化，"mention 'men' many times, but they never explicitly bar women"把 his legal argument 具象化为 textual analysis，为后文 "Third" 做铺垫。
 
@@ -79,9 +72,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（Abruptly, one spear of paper peeled away from the rest, diving rapidly）+ 并列分句（and the others followed until they made a single, pointed cone, shuttling downward）+ 伴随分词短语（With dreadful familiarity, they narrowed and sharpened, descending toward Clementine at full speed）。
 
 **关键词**：
-- `one spear of paper peeled away`：one spear peeled away——attack 的开始
-- `single, pointed cone, shuttling downward`：single, pointed cone——attack 的 form
-- `narrowed and sharpened, descending toward Clementine at full speed`：narrowed and sharpened, descending——attack 的 threat
 
 **为什么这样写**：用 detailed description 把 paper attack 具象化，"With dreadful familiarity"把 attack 具象化为 familiar (pine needle attack)，为后文 "No!" Rosetta cried 做铺垫。
 
@@ -94,9 +84,6 @@ start_date: 2026-10-19
 **句子结构**：引语（I have reached a verdict）+ 引语（I have set a task commensurate to the situation）+ 条件句（If you succeed... I will ask Commonwealth... If you fail... the university will remain closed to women）+ 祈使句（Go to the spirit realm. Find a spirit, bind it to yourself, and return）+ 主谓宾（You have until the end of the month）+ 主谓宾（Nineteen days）。
 
 **关键词**：
-- `task commensurate to the situation`：task commensurate——Richardson's verdict
-- `Go to the spirit realm. Find a spirit, bind it to yourself, and return`：Go to the spirit realm...——Richardson's task
-- `Nineteen days`：Nineteen days——Clem's deadline
 
 **为什么这样写**：用 Richardson's verdict 把 Clem's task 具象化，"Go to the spirit realm"把 task 具象化为 spirit journey，"Nineteen days"把 deadline 具象化，为后文 Clem's portal quest 做铺垫。
 
@@ -109,9 +96,6 @@ start_date: 2026-10-19
 **句子结构**：引语（All I need is the location of the Boston portal）+ 主谓宾（Judge Richardson eyed her narrowly）+ 引语（I cannot disclose that. The Boston portal is proprietary, and its location is secret）+ 引语（You will have to find another portal for your errand of doom）。
 
 **关键词**：
-- `All I need is the location of the Boston portal`：All I need——Clem's request
-- `The Boston portal is proprietary, and its location is secret`：proprietary, secret——Richardson's refusal
-- `errand of doom`：errand of doom——Richardson's characterization
 
 **为什么这样写**：用 Clem's request 把 her portal need 具象化，"proprietary, and its location is secret"把 portal's secrecy 具象化，"errand of doom"把 Richardson's characterization 具象化，为后文 Clem's portal quest 做铺垫。
 

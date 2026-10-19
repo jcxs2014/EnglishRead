@@ -24,9 +24,6 @@ start_date: 2026-10-19
 **句子结构**：问句（How could you not tell me of the stoning deaths?）+ 问句（Did you mean to protect me?）+ 问句（Did you think I would be frightened off?）。
 
 **关键词**：
-- `How could you not tell me of the stoning deaths?`：How could you not tell me——Clem's frustration
-- `Did you mean to protect me?`：Did you mean to protect me——Clem's accusation
-- `Did you think I would be frightened off?`：Did you think I would be frightened off——Clem's accusation
 
 **为什么这样写**：用 Clem's questions 把 her frustration 具象化，"How could you not tell me"把 Lydia's silence 具象化为 betrayal，为后文 "Mother, I am not protected if I act in ignorance" 做铺垫。
 
@@ -39,8 +36,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（Mother, I am not protected if I act in ignorance）+ 主系表（I am not a child of eleven anymore, terrified and helpless）。
 
 **关键词**：
-- `I am not protected if I act in ignorance`：I am not protected if I act in ignorance——Clem's declaration
-- `I am not a child of eleven anymore, terrified and helpless`：I am not a child anymore——Clem's maturity
 
 **为什么这样写**：用 "I am not a child of eleven anymore"把 Clem's maturity 具象化，"terrified and helpless"把 her past 具象化，为后文 "I understand that you wish me to risk as little as possible" 做铺垫。
 
@@ -53,9 +48,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（You understand, you must, that this changes everything）+ 主系表（Freeing you is not enough）+ 疑问句（What freedom would it be, to carve out our own place of safety while other women's lives are in peril?）。
 
 **关键词**：
-- `this changes everything`：this changes everything——Clem's realization
-- `Freeing you is not enough`：Freeing you is not enough——Clem's moral expansion
-- `What freedom would it be, to carve out our own place of safety while other women's lives are in peril?`：What freedom would it be——Clem's moral question
 
 **为什么这样写**：用 "this changes everything"把 Clem's realization 具象化，"Freeing you is not enough"把 Clem's moral expansion 具象化，"What freedom would it be"把 Clem's moral question 具象化，为后文 "What freedom would it be, to live in a place where such crimes go unchecked?" 做铺垫。
 
@@ -68,8 +60,6 @@ start_date: 2026-10-19
 **句子结构**：疑问句（What freedom would it be, to live in a place where such crimes go unchecked?）+ 条件句（Even if we were to think only of ourselves, you must see that a society capable of such murders will also stop at nothing to seek vengeance）+ 主谓宾（and I doubt we would find refuge even by fleeing Salem）。
 
 **关键词**：
-- `a society capable of such murders will also stop at nothing to seek vengeance`：a society capable of such murders——Clem's political awareness
-- `I doubt we would find refuge even by fleeing Salem`：I doubt we would find refuge——Clem's strategic thinking
 
 **为什么这样写**：用 "a society capable of such murders"把 Clem's political awareness 具象化，"I doubt we would find refuge even by fleeing Salem"把 Clem's strategic thinking 具象化，为后文 "No—there will be no peace for us when you are free" 做铺垫。
 
@@ -82,7 +72,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（No—there will be no peace for us when you are free）。
 
 **关键词**：
-- `no peace for us when you are free`：no peace for us when you are free——Clem's determination
 
 **为什么这样写**：用 "no peace for us when you are free"把 Clem's determination 具象化，把 her moral expansion 具象化为 refusal to accept personal freedom at the cost of others' safety，为后文 "We must do more, Mother" 做铺垫。
 
@@ -95,8 +84,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（A lone, earnest police constable is apparently their sole antagonist）+ 主谓宾（I didn't know whether to laugh or cry）+ 主谓宾（He will be crushed, and they will continue their destruction）。
 
 **关键词**：
-- `A lone, earnest police constable is apparently their sole antagonist`：A lone, earnest police constable——Clem's assessment
-- `He will be crushed, and they will continue their destruction`：He will be crushed——Clem's skepticism
 
 **为什么这样写**：用 "A lone, earnest police constable"把 Clem's assessment 具象化，"He will be crushed"把 Clem's skepticism 具象化，为后文 "We must do more, Mother" 做铺垫。
 
@@ -109,7 +96,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾。极简。
 
 **关键词**：
-- `We must do more`：We must do more——Clem's determination
 
 **为什么这样写**：用极简句式把 Clem's determination 具象化，"We must do more"把 Clem's moral expansion 具象化，为后文 chapters 做铺垫。
 

@@ -24,8 +24,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾 + 宾语从句（Father has told me）+ 主谓宾（I cannot believe it）。简短而直接。
 
 **关键词**：
-- `has told me`：告诉了我——父亲的 disclosure
-- `cannot believe`：无法相信——Clem 的震惊
 
 **为什么这样写**：用 Clem 的震惊作为章节入口，把读者拉入 Clem 的认知转变。父亲的"told me"暗示这是 Clem 首次了解真相。
 
@@ -38,8 +36,6 @@ start_date: 2026-10-19
 **句子结构**：转折并列（But he says he has seen you）+ 时间状语（More than two years ago, when he was called...）+ 宾语从句（He said you were there, and that you saw each other from a distance）。
 
 **关键词**：
-- `from a distance`：远距离——母亲被束缚，无法靠近
-- `Commonwealth University`：大学——enchanter 的学术背景
 
 **为什么这样写**：用"from a distance"建立母亲被束缚的图像，同时把 enchanter 与学术机构关联，暗示权力的制度化。
 
@@ -52,9 +48,6 @@ start_date: 2026-10-19
 **句子结构**：引语（He said, "You think it is better..."）。引语内嵌套反问句。
 
 **关键词**：
-- `deprived of rest`：剥夺休息——母亲的 torment
-- `chained to another man's will`：被锁链束缚于他人意志——enchanter 的控制
-- `for eternity`：永恒——母亲的困境无期限
 
 **为什么这样写**：用父亲的引语把母亲的处境具象化，"chained"与"will"把 enchanter 的控制写成奴役，与后文 Clem 的"steal her back"形成反抗。
 
@@ -67,7 +60,6 @@ start_date: 2026-10-19
 **句子结构**：重复短语。极简而绝望。
 
 **关键词**：
-- `no case`：无案可诉——法律手段的失效
 
 **为什么这样写**：用重复强调父亲的绝望，同时把 enchanter 的权力写成制度化的（own the courts），为 Clem 的"enchantment"方案做铺垫。
 
@@ -80,8 +72,6 @@ start_date: 2026-10-19
 **句子结构**：三个问句连用，形成 rhetorical accumulation。
 
 **关键词**：
-- `foul magic`：邪恶魔法——enchanter 的手段
-- `vicious`：恶毒的——enchanter 的性格
 
 **为什么这样写**：用问句把 Clem 的焦虑具象化，同时把 enchanter 的形象留白（"what foul magic"），为后文揭示做铺垫。
 
@@ -94,8 +84,6 @@ start_date: 2026-10-19
 **句子结构**：四个 "They own..." 并列分句 + 结论分句（There is nothing we can do）。排比递进。
 
 **关键词**：
-- `They own`：他们拥有——enchanter 的垄断
-- `There is nothing we can do`：我们无能为力——父亲的绝望
 
 **为什么这样写**：用 "They own" 的重复把 enchanter 的权力写成系统性的，为 Clem 的"steal her back with enchantment"形成反抗动机。
 
@@ -108,8 +96,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾 + 不定式（to find your way in the darkness）+ 重复短语（One light）。
 
 **关键词**：
-- `one light`：一盏灯——母亲的格言，Clem 的信念
-- `darkness`：黑暗——enchanter 的世界
 
 **为什么这样写**：用母亲的格言把 Clem 的反抗与母亲的智慧连接，"One light"成为 Clem 的行动准则。
 
@@ -122,8 +108,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾 + 不定式（to free you）。简短而有力。
 
 **关键词**：
-- `find a way`：找到方法——Clem 的决心
-- `free you`：解放你——Clem 的目标
 
 **为什么这样写**：用最简短的宣言把 Clem 从被动（父亲的 despair）转向主动（enchantment 反抗），建立她的 character arc。
 

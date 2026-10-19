@@ -24,9 +24,6 @@ start_date: 2026-10-19
 **句子结构**：主系表 + when 引导的时间状语从句 + 不定式（to ignore that scoundrel and pretend you are at peace）。长难句，主语 "It" 作形式主语。
 
 **关键词**：
-- `abruptly cut short`：突然截断——Sam 的死亡
-- `detestable scoundrel`：可憎的恶棍——murderer
-- `at peace`：平和——Sam 无法达到的状态
 
 **为什么这样写**：用 Sam 的愤怒建立他作为 thew 的动机，"detestable scoundrel"把 murderer 定为 Simeon，为后续 Sam 的 search 提供方向。
 
@@ -39,9 +36,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（All magic comes from the dead）+ 主系表（That is what you must remember）+ as 引导的时间状语从句（as you admire...）。长句，用 "as" 串接多个场景。
 
 **关键词**：
-- `All magic comes from the dead`：所有魔法来自死灵——核心设定
-- `middlemen`：中间人——enchanter 的真实角色
-- `swindlers`：骗子——enchanter 的道德评价
 
 **为什么这样写**：用 Sam 的 thew 视角颠覆读者对 enchanter 的想象，把魔法体系的道德基础（exploitation of dead）暴露出来。
 
@@ -54,8 +48,6 @@ start_date: 2026-10-19
 **句子结构**：问句（Have you noticed that...）+ the more... the more... 比较结构 + 结论分句（So it was with Simeon）。
 
 **关键词**：
-- `the more detestable the man, the more popular he is`：越 detestable 越 popular——Simeon 的魅力悖论
-- `So it was with Simeon`：Simeon 正是如此
 
 **为什么这样写**：用 Sam 的 thew 视角揭示 Simeon 的魅力与危险并存，为后续 Simeon 的 "murderous" look 做铺垫。
 
@@ -68,8 +60,6 @@ start_date: 2026-10-19
 **句子结构**：祈使句（Do not be mistaken...）+ 主系表（It's true that we can see...）+ 伴随分词短语（all without leaving the spirit realm）。
 
 **关键词**：
-- `limits of our powers`：powers 的限制——thew 的能力边界
-- `all without leaving the spirit realm`：不离开 spirit realm——thew 的存在状态
 
 **为什么这样写**：用 Sam 的 self-awareness 建立 thew 视角的可靠性与局限，让读者知道 Sam 的观察不是全知。
 
@@ -82,10 +72,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（How I wished...）+ 主谓宾（But I could only watch—watch and wonder...）+ 两个宾语从句（Was he wondering... / Was he considering...）。破折号与问句制造 Sam 的无力与好奇。
 
 **关键词**：
-- `How I wished`：希望——Sam 对 thew 限制的 frustrated
-- `read thoughts`：读取思想——thew 无法做到
-- `relic`：遗物——Clem 的 power source
-- `dead worth`：死灵价值——enchantment 的资源
 
 **为什么这样写**：用 Sam 的 frustrated 把 thew 视角的无力具象化，同时把 Clem 对 pen relic 的凝视写成悬念——Sam 无法读 Clem 的 thoughts，只能 watch。
 
@@ -100,8 +86,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾 + 引语 + 引语。Clem 的 innocent 反应。
 
 **关键词**：
-- `Dear me!`：天哪——Clem 的 innocent 反应
-- `I've never had that happen`：从没发生过——Clem 的 inexpertise
 
 **为什么这样写**：用 Clem 的 naive 与 Simeon 的 murderous look 形成对比，建立 Clem 的 "soft-eyed innocent" 形象与 Simeon 的 "calculating avarice"。
 
@@ -114,8 +98,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾 + 并列分句（but raised his eyes... and the look... was, for just a second, murderous）。"for just a second"强调短暂性。
 
 **关键词**：
-- `murderous`： murderous 的——Simeon 的真实面目
-- `for just a second`：仅一瞬间——Simeon 的伪装
 
 **为什么这样写**：用 "for just a second"把 Simeon 的 murderous look 写成闪现，暗示他的危险与伪装能力。
 
@@ -128,9 +110,6 @@ start_date: 2026-10-19
 **句子结构**：疑问句（Who was he, this poor fool?）+ 比喻（It was like watching a small child wander off...）+ 三个并列名词短语（the gathering dusk, the deepening cold, the distant howls of wolves）。
 
 **关键词**：
-- `poor fool`：可怜的 fool——Sam 对 Clem 的评价
-- `dark forest`：黑暗森林——Clem 的处境比喻
-- `howls of wolves`：狼嚎——危险的预兆
 
 **为什么这样写**：用 "dark forest"比喻把 Clem 的 naive 与危险并置，"howls of wolves"把 Simeon 等人写成 predators，建立 Sam 的 protective concern。
 
@@ -143,8 +122,6 @@ start_date: 2026-10-19
 **句子结构**：转折并列（But my concerns were misplaced）+ 主谓宾（Clem was already in far greater danger than I realized）。
 
 **关键词**：
-- `misplaced`：放错了——Sam 的担忧方向错误
-- `far greater danger`：更大的危险——Clem 的真实处境
 
 **为什么这样写**：用 "misplaced"把 Sam 的担忧反转，暗示 Clem 的 danger 来源不是 Simeon 的 direct threat，而是其他（可能是 enchanter 或 Commonwealth）。这是章节的 cliffhanger。
 

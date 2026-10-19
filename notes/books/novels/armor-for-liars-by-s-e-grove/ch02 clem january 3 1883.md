@@ -24,8 +24,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾 + 宾语从句（Father says ...）+ 宾语从句内 another 宾语从句（you can see us from the spirit realm）+ 并列分句（and see everything that we are doing）。嵌套从句，Clem 转述父亲的话。
 
 **关键词**：
-- `spirit realm`：灵域——本书核心设定，死亡后的存在状态
-- `watching over us`：守护/监视——母亲的持续在场
 
 **为什么这样写**：用 Clem 的转述建立"spirit realm"的存在，不直接解释。读者通过人物对话接受设定，而非作者说明。
 
@@ -38,7 +36,6 @@ start_date: 2026-10-19
 **句子结构**：转折连词（But）+ as 引导的让步状语从句（as you always said）+ 主系表（appearances are deceiving）。简短而有力。
 
 **关键词**：
-- `appearances are deceiving`：表象骗人——Clem 对"peaceful realm"的怀疑
 
 **为什么这样写**：用母亲自己的话埋下怀疑的种子。后文 Clem 会发现母亲被 enchanter 束缚，此句成为伏笔。
 
@@ -51,9 +48,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（Father is lost without you）+ 时间状语从句（When I see him looking...）+ 两个宾语从句（I feel so afraid / I feel that he is lost somewhere, and that he might not come back）。"lost"重复，语义递进：先"lost without you"，后"lost somewhere"。
 
 **关键词**：
-- `lost without you`：失去你而迷失——父亲的依赖
-- `staring as if waiting for something to happen`：凝视等待——父亲的精神状态
-- `lost somewhere`：迷失某处——暗示父亲可能被 spirit realm 吸引
 
 **为什么这样写**：用 Clem 的恐惧暗示父亲的精神危机，为后文"Father says you are watching"的不可靠性埋伏笔。Clem 的"afraid"是读者的预警。
 
@@ -66,9 +60,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾 + 定语从句（that you left for me）+ 转折并列分句（but as soon as I saw your handwriting I could read no further）+ 破折号强调（I can't yet—I just can't）+ 简短承诺（Soon I will）。
 
 **关键词**：
-- `long letter`：长信——母亲的遗物，后文 Clem 读信获得关键信息
-- `I can't yet—I just can't`：重复强调——心理障碍
-- `Soon I will`：承诺——Clem 的成长弧线起点
 
 **为什么这样写**：用"不能读信"建立 Clem 的心理障碍，同时用"soon I will"承诺 eventual resolution。这封信将成为后文 Clem 了解母亲命运的关键。
 
@@ -81,7 +72,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾 + 呼格（Mother）。极简。
 
 **关键词**：
-- `miss you so much`：想念——Clem 的情感核心
 
 **为什么这样写**：用最简短的句式收束全信，把复杂的情感（怀疑、恐惧、爱）落回到"想念"这个基本情感。这是 Clem 人物弧线的情感锚点。
 

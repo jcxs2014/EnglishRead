@@ -24,8 +24,6 @@ start_date: 2026-10-19
 **句子结构**：祈使句（Understand that...）+ 主系表（the line... is blurred）+ 主谓宾（For the most part the skills are basic）+ 比较（mending skin is just like mending fabric, or stone）+ 转折（But since medical enchantment is... it requires...）。
 
 **关键词**：
-- `sanctioned use of bone upon human beings`：sanctioned use——medical enchantment 的合法性
-- `considerable caution`：considerable caution——medical enchantment 的危险性
 
 **为什么这样写**：用 epigraph 建立 medical enchantment 的 magic 体系，"sanctioned"暗示其他 uses of bone are unsanctioned（如 Cisneros Steel），为全书 magic morality 做铺垫。
 
@@ -38,22 +36,18 @@ start_date: 2026-10-19
 **句子结构**：时间状语（For a short time through the weekend and into Monday morning）+ 主谓宾（I thought that Quinn would escape the inevitable retribution that was coming for him）。
 
 **关键词**：
-- `inevitable retribution`：inevitable retribution——Quinn 的 fate
-- `coming for him`：coming for him——danger 的 proximity
 
 **为什么这样写**：用 "inevitable retribution"把 Quinn 的 danger 具象化，暗示 Quinn 的 fate 不可避免，为后文 Hornsby's demonstration 做铺垫。
 
 ---
 
-> **原句 3:** "Enchanters are so certain of their importance, the air of self-congratulation follows them everywhere like an odor, a perfume by turns alluring and asphyxiating."
+> **原句 3:** "Good morning, class," Hornsby said, visibly enjoying the awe and horror provoked by his display.
 
 **中文理解**：Sam 对 enchanter 的 critique——"air of self-congratulation" like odor/perfume，"alluring and asphyxiating"。这是 Sam 的 thew 视角 critique。
 
 **句子结构**：主系表（Enchanters are so certain of their importance）+ 主谓宾（the air of self-congratulation follows them everywhere）+ 比喻（like an odor, a perfume by turns alluring and asphyxiating）。
 
 **关键词**：
-- `air of self-congratulation`：self-congratulation 的 air——enchanter 的 arrogance
-- `alluring and asphyxiating`：alluring and asphyxiating——enchanter 的 dual nature
 
 **为什么这样写**：用 Sam 的 critique 把 enchanter 的 character 具象化，"alluring and asphyxiating"把 enchanter 的 power 写成 dual-natured，为后文 "swindlers" 做铺垫。
 
@@ -66,8 +60,6 @@ start_date: 2026-10-19
 **句子结构**：分词短语（Dashing into the classroom）+ 主谓宾（I sent Quinn a warning）+ 转折并列（He grew still for a moment and frowned, but he did not budge from his chair）。
 
 **关键词**：
-- `sent Quinn a warning`：send warning——Sam 的 attempt
-- `did not budge`：did not budge——Quinn 的 stubbornness
 
 **为什么这样写**：用 Sam 的 attempt 与 Quinn 的 "did not budge"形成对比，暗示 Quinn 的 stubbornness 与 danger，为后文 Hornsby's demonstration 做铺垫。
 
@@ -80,8 +72,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（You will find this ridiculous）+ but 引导的转折（but I can't stand the sight of blood）。
 
 **关键词**：
-- `can't stand the sight of blood`：can't stand blood——Sam 的 trauma
-- `ridiculous`：ridiculous——Sam 的 self-awareness
 
 **为什么这样写**：用 Sam 的 confession 把 his trauma 具象化，"can't stand"把 his vulnerability 具象化，为后文 "I was gone" 做铺垫。
 
@@ -94,8 +84,6 @@ start_date: 2026-10-19
 **句子结构**：引语 + 说话标签（Hornsby said）+ 伴随分词短语（visibly enjoying the awe and horror provoked by his display）。
 
 **关键词**：
-- `visibly enjoying`：visibly enjoying——Hornsby 的 character
-- `awe and horror`：awe and horror——students 的 reaction
 
 **为什么这样写**：用 "visibly enjoying"把 Hornsby 的 character 具象化，把 his pedagogy 写成 "shock and awe"，为后文 "great leaps" 做铺垫。
 
@@ -108,8 +96,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（I wasn't always this way）+ as 引导的时间状语从句（As a living person, I had an ordinary distaste...）+ 并列分句（I once sewed up... and I tended to...）+ 转折（But since those horrific moments before my death, I find the sight of blood and damaged flesh unbearable）。
 
 **关键词**：
-- `those horrific moments before my death`：horrific moments before death——Sam 的 trauma origin
-- `unbearable`：unbearable——Sam 的 reaction
 
 **为什么这样写**：用 Sam 的 backstory 把 his trauma 具象化，"horrific moments before my death"把 his death 写成 traumatic，为后文 "I was gone" 做铺垫。
 
@@ -122,10 +108,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（And then Hornsby removed the wadded bandages）+ 感叹（Oh, spirits!）+ 并列名词短语（The oozing blood, the torn muscle, the unexpected sight of bone）+ 主谓宾（Giles gasped in pain...）+ 主谓宾（I couldn't take another moment）。
 
 **关键词**：
-- `oozing blood`：oozing blood——Giles 的 wound
-- `torn muscle`：torn muscle——Giles 的 injury
-- `unexpected sight of bone`：unexpected sight of bone——Sam 的 trauma trigger
-- `I couldn't take another moment`：I couldn't take——Sam's flight
 
 **为什么这样写**：用 "oozing blood, torn muscle, unexpected sight of bone"把 Giles 的 injury 具象化，"I couldn't take another moment"把 Sam 的 flight 具象化，为后文 "I was gone" 做铺垫。
 
@@ -138,7 +120,6 @@ start_date: 2026-10-19
 **句子结构**：主系表。极简。
 
 **关键词**：
-- `I was gone`：I was gone——Sam's flight
 
 **为什么这样写**：用极简句式把 Sam 的 flight 具象化，"gone"与 "confined to the realm of the dead" 形成对比——Sam 可以 "go" (flit away) 但不能 leave realm。
 

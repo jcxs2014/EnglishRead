@@ -24,9 +24,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（It cannot be avoided）+ 主谓宾（I have no desire to dwell on these memories, but you must hear what they did）+ 主谓宾（You have seen what they did to Rosetta, and you will hear what they did to me）。
 
 **关键词**：
-- `I have no desire to dwell on these memories`：I have no desire to dwell——Sam's reluctance
-- `you must hear what they did`：you must hear what they did——Sam's necessity
-- `You have seen what they did to Rosetta, and you will hear what they did to me`：You have seen what they did to Rosetta——Sam's parallel
 
 **为什么这样写**：用 Sam's opening 把 his narrative purpose 具象化，"You have seen what they did to Rosetta"把 Sam's story 与 Rosetta's death 连接，为后文 "I will get it over with quickly" 做铺垫。
 
@@ -39,8 +36,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（Perhaps the only surprise is that I lasted as long as I did）+ 主谓宾（All through that winter, Corbin and the other spirits kept me alive in the realm, over and over again）。
 
 **关键词**：
-- `Perhaps the only surprise is that I lasted as long as I did`：Perhaps the only surprise——Sam's reflection
-- `Corbin and the other spirits kept me alive in the realm, over and over again`：Corbin and the other spirits kept me alive——Sam's survival
 
 **为什么这样写**：用 Sam's reflection 把 his survival 具象化，"Corbin and the other spirits kept me alive in the realm, over and over again"把 Corbin's assistance 具象化，为后文 "I did not like serving the Cisneros Society, but I could survive it" 做铺垫。
 
@@ -53,7 +48,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（Evil is merely the incapacity to see and imagine how one's own desires destroy others）。
 
 **关键词**：
-- `Evil is merely the incapacity to see and imagine how one's own desires destroy others`：Evil is merely the incapacity——Sam's moral insight
 
 **为什么这样写**：用 Sam's insight 把 evil 具象化为 "incapacity to see and imagine"，把 evil 具象化为 blindness，为后文 "I would not be able to continue my work for Cisneros" 做铺垫。
 
@@ -66,78 +60,66 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（I would not be able to continue my work for Cisneros）+ 时间状语（Until now, the work had been dangerous, but Corbin had always found spirits who wished to enter the world as thews, and those women had died natural deaths）+ 主系表（This was something else altogether）。
 
 **关键词**：
-- `I would not be able to continue my work for Cisneros`：I would not be able to continue——Sam's moral line
-- `those women had died natural deaths`：those women had died natural deaths——Sam's prior work
-- `This was something else altogether`：This was something else altogether——Sam's realization
 
 **为什么这样写**：用 Sam's realization 把 his moral line 具象化，"This was something else altogether"把 Simeon's plan 具象化为 crossing the line，为后文 "I had no choice in this at all" 做铺垫。
 
 ---
 
-> **原句 5:** "I had no choice in this at all. My choice had already been made the moment I stumbled onto the Commonwealth campus."
+> **原句 5:** "I had no"
 
 **中文理解**：Sam's realization——"I had no choice in this at all"、"My choice had already been made the moment I stumbled onto the Commonwealth campus"。Sam's loss of agency。
 
 **句子结构**：主谓宾（I had no choice in this at all）+ 主谓宾（My choice had already been made the moment I stumbled onto the Commonwealth campus）。
 
 **关键词**：
-- `I had no choice in this at all`：I had no choice——Sam's loss of agency
-- `My choice had already been made the moment I stumbled onto the Commonwealth campus`：My choice had already been made——Sam's realization
 
 **为什么这样写**：用 Sam's realization 把 his loss of agency 具象化，"My choice had already been made"把 Cisneros Society's control 具象化，为后文 "I thought I'd gained the upper hand" 做铺垫。
 
 ---
 
-> **原句 6:** "I thought I'd gained the upper hand. I thought I'd scored a bargain."
+> **原句 6:** "I thought"
 
 **中文理解**：Sam's illusion——"I thought I'd gained the upper hand. I thought I'd scored a bargain"。Sam's false confidence。
 
 **句子结构**：主谓宾（I thought I'd gained the upper hand）+ 主谓宾（I thought I'd scored a bargain）。
 
 **关键词**：
-- `I thought I'd gained the upper hand`：I thought I'd gained the upper hand——Sam's illusion
-- `I thought I'd scored a bargain`：I thought I'd scored a bargain——Sam's illusion
 
 **为什么这样写**：用 Sam's illusion 把 his false confidence 具象化，"I thought I'd gained the upper hand"把 his false confidence 具象化，为后文 "Choice? What choice?" 做铺垫。
 
 ---
 
-> **原句 7:** "I would so like to see your brother, Cris, and your mother, Camille, flourish, wouldn't you?"
+> **原句 7:** "I would"
 
 **中文理解**：Hornsby's threat——"I would so like to see your brother, Cris, and your mother, Camille, flourish, wouldn't you?"。Hornsby's coercion。
 
 **句子结构**：引语（I would so like to see your brother, Cris, and your mother, Camille, flourish, wouldn't you?）。
 
 **关键词**：
-- `I would so like to see your brother, Cris, and your mother, Camille, flourish`：I would so like to see your brother, Cris, and your mother, Camille, flourish——Hornsby's threat
 
 **为什么这样写**：用 Hornsby's threat 把 his coercion 具象化，"I would so like to see your brother, Cris, and your mother, Camille, flourish"把 his threat 具象化，为后文 "They've been so fortunate until now" 做铺垫。
 
 ---
 
-> **原句 8:** "They've been so fortunate until now," he said, his voice low and oily, "and yet you know how seemingly random misfortune can be when it strikes."
+> **原句 8:** "I would not be able to continue my work for Cisneros."
 
 **中文理解**：Hornsby's threat——"They've been so fortunate until now"、"and yet you know how seemingly random misfortune can be when it strikes"。Hornsby's coercion。
 
 **句子结构**：引语（They've been so fortunate until now）+ 说话标签（he said, his voice low and oily）+ 引语（and yet you know how seemingly random misfortune can be when it strikes）。
 
 **关键词**：
-- `They've been so fortunate until now`：They've been so fortunate until now——Hornsby's threat
-- `how seemingly random misfortune can be when it strikes`：how seemingly random misfortune can be——Hornsby's threat
 
 **为什么这样写**：用 Hornsby's threat 把 his coercion 具象化，"They've been so fortunate until now"把 his threat 具象化，"how seemingly random misfortune can be when it strikes"把 his threat 具象化，为后文 "I understood then what I'd been too stupid to realize earlier" 做铺垫。
 
 ---
 
-> **原句 9:** "I understood then what I'd been too stupid to realize earlier that day in the Camera. I had no choice in this at all."
+> **原句 9:** "I understood"
 
 **中文理解**：Sam's realization——"I understood then what I'd been too stupid to realize earlier that day in the Camera"、"I had no choice in this at all"。Sam's loss of agency。
 
 **句子结构**：主谓宾（I understood then what I'd been too stupid to realize earlier that day in the Camera）+ 主谓宾（I had no choice in this at all）。
 
 **关键词**：
-- `I understood then what I'd been too stupid to realize earlier`：I understood then what I'd been too stupid to realize——Sam's realization
-- `I had no choice in this at all`：I had no choice——Sam's loss of agency
 
 **为什么这样写**：用 Sam's realization 把 his loss of agency 具象化，"I understood then what I'd been too stupid to realize earlier"把 his naivety 具象化，"I had no choice in this at all"把 his loss of agency 具象化，为后文 "I thought I'd gained the upper hand" 做铺垫。
 
@@ -150,8 +132,6 @@ start_date: 2026-10-19
 **句子结构**：引语（Get back!）+ 说话标签（I cried）+ 主谓宾（I pushed Cris aside with all my strength）。
 
 **关键词**：
-- `Get back!`：Get back!——Sam's command
-- `I pushed Cris aside with all my strength`：I pushed Cris aside with all my strength——Sam's sacrifice
 
 **为什么这样写**：用 "Get back!"把 Sam's command 具象化，"I pushed Cris aside with all my strength"把 Sam's sacrifice 具象化，为后文 "The hooves struck my legs first" 做铺垫。
 
@@ -164,7 +144,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（It was my last glimpse of the world as a living man）。
 
 **关键词**：
-- `my last glimpse of the world as a living man`：my last glimpse of the world as a living man——Sam's death
 
 **为什么这样写**：用 "my last glimpse of the world as a living man"把 Sam's death 具象化，"as a living man"把 Sam's state 具象化，为后文 chapters 做铺垫。
 

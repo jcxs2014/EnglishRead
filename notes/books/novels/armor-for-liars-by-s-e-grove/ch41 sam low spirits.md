@@ -24,8 +24,6 @@ start_date: 2026-10-19
 **句子结构**：时间状语（Once again, more slowly this time without the currents of the Weer all around me）+ 主谓宾（I told the story of my involvement with the Cisneros Society and the damage its enchanters had done after my death）。
 
 **关键词**：
-- `Once again, more slowly this time without the currents of the Weer all around me`：Once again, more slowly this time——Sam's narrative
-- `I told the story of my involvement with the Cisneros Society`：I told the story——Sam's narrative
 
 **为什么这样写**：用 Sam's narrative 把 his story 具象化，"Once again, more slowly this time without the currents of the Weer all around me"把 his narrative 具象化，为后文 "The Sor Juana Alliance, for all its strength in numbers and long history, had not known about the ropers" 做铺垫。
 
@@ -38,23 +36,18 @@ start_date: 2026-10-19
 **句子结构**：时间状语（All Wednesday afternoon）+ 主谓宾（she lay in bed, eating only a little of the tempting food Gertie brought her）+ 主谓宾（I thought about Wister's counsel, wondering whether grief over Rosetta had destroyed her sense of conviction）+ 转折（But when her thoughts were visible to me, I didn't see sorrow for Rosetta. I saw the realm）。
 
 **关键词**：
-- `All Wednesday afternoon she lay in bed, eating only a little of the tempting food Gertie brought her`：All Wednesday afternoon she lay in bed——Clem's depression
-- `when her thoughts were visible to me, I didn't see sorrow for Rosetta. I saw the realm`：when her thoughts were visible to me——Sam's observation
 
 **为什么这样写**：用 Sam's observation 把 Clem's depression 具象化，"All Wednesday afternoon she lay in bed, eating only a little"把 Clem's depression 具象化，"when her thoughts were visible to me, I didn't see sorrow for Rosetta. I saw the realm"把 Clem's depression 具象化为 realm fixation，为后文 "Something happened to me there, Sam. On the way back" 做铺垫。
 
 ---
 
-> **原句 3:** "Something happened to me there, Sam. On the way back." / "Something…something left me. I don't know what. Something…whatever it is that keeps a person moving forward, wanting things, pushing on."
+> **原句 3:** "Something happened to me there, Sam. On the way back.""
 
 **中文理解**：Clem's confession——"Something happened to me there, Sam. On the way back"、"Something…something left me. I don't know what. Something…whatever it is that keeps a person moving forward, wanting things, pushing on"。Clem's loss of drive。
 
 **句子结构**：引语（Something happened to me there, Sam. On the way back）+ 引语（Something…something left me. I don't know what. Something…whatever it is that keeps a person moving forward, wanting things, pushing on）。
 
 **关键词**：
-- `Something happened to me there, Sam. On the way back`：Something happened to me there——Clem's confession
-- `Something…something left me`：Something…something left me——Clem's loss
-- `whatever it is that keeps a person moving forward, wanting things, pushing on`：whatever it is that keeps a person moving forward——Clem's loss
 
 **为什么这样写**：用 Clem's confession 把 her loss 具象化，"Something…something left me"把 her loss 具象化，"whatever it is that keeps a person moving forward, wanting things, pushing on"把 her loss 具象化，为后文 "I think what you are feeling is Rosetta's loss" 做铺垫。
 
@@ -67,8 +60,6 @@ start_date: 2026-10-19
 **句子结构**：引语（I need a little time alone）+ 引语（Don't worry; I won't go anywhere）。
 
 **关键词**：
-- `I need a little time alone`：I need a little time alone——Clem's request
-- `Don't worry; I won't go anywhere`：Don't worry; I won't go anywhere——Clem's reassurance
 
 **为什么这样写**：用 Clem's request 把 her need for space 具象化，"I need a little time alone"把 her need 具象化，"Don't worry; I won't go anywhere"把 her reassurance 具象化，为后文 "I thought about what you both said" 做铺垫。
 
@@ -81,22 +72,18 @@ start_date: 2026-10-19
 **句子结构**：引语（I thought about what you both said）+ 引语（I don't feel any different, but…）+ 主谓宾（She looked down at her knees）+ 引语（I made a promise to my mother. I have to keep it）。
 
 **关键词**：
-- `I thought about what you both said`：I thought about what you both said——Clem's reflection
-- `I don't feel any different, but…`：I don't feel any different——Clem's state
-- `I made a promise to my mother. I have to keep it`：I made a promise to my mother——Clem's resolution
 
 **为什么这样写**：用 Clem's resolution 把 her recovery 具象化，"I thought about what you both said"把 her reflection 具象化，"I don't feel any different, but…"把 her state 具象化，"I made a promise to my mother. I have to keep it"把 her resolution 具象化，为后文 "I wonder, Clem, if you might want to visit Vera before we do anything else" 做铺垫。
 
 ---
 
-> **原句 6:** "I wonder, Clem, if you might want to visit Vera before we do anything else." / "No, I don't think so. I'm sure she hasn't found the case." / "Probably not. But she doesn't have to." I paused, waiting for her to look at me, and smiled. "I know where it is."
+> **原句 6:** "I wonder, Clem, if you might want to visit Vera before we do anything else.""
 
 **中文理解**：Sam's revelation——"I know where it is"。Sam's knowledge。
 
 **句子结构**：引语（I wonder, Clem, if you might want to visit Vera before we do anything else）+ 引语（No, I don't think so. I'm sure she hasn't found the case）+ 引语（Probably not. But she doesn't have to）+ 主谓宾（I paused, waiting for her to look at me, and smiled）+ 引语（I know where it is）。
 
 **关键词**：
-- `I know where it is`：I know where it is——Sam's revelation
 
 **为什么这样写**：用 Sam's revelation 把 his knowledge 具象化，"I know where it is"把 his knowledge 具象化，为后文 "He never moves it. It's inside a false book on his shelf" 做铺垫。
 
@@ -109,8 +96,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（He never moves it）+ 主系表（It's inside a false book on his shelf）。
 
 **关键词**：
-- `He never moves it`：He never moves it——Sam's knowledge
-- `It's inside a false book on his shelf`：It's inside a false book on his shelf——Sam's knowledge
 
 **为什么这样写**：用 Sam's revelation 把 his knowledge 具象化，"He never moves it"把 Throckmorton's habit 具象化，"It's inside a false book on his shelf"把 lead case location 具象化，为后文 "She rose from the bed in a single bound and threw her arms around me" 做铺垫。
 
@@ -123,10 +108,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（She rose from the bed in a single bound and threw her arms around me）+ 伴随分词短语（surprised and gratified, I returned her embrace）+ 主谓宾（She spoke into my shoulder, and the warmth of her voice stole over me）+ 引语（Thank you, Sam. Thank you）。
 
 **关键词**：
-- `She rose from the bed in a single bound and threw her arms around me`：She rose from the bed——Clem's gratitude
-- `surprised and gratified, I returned her embrace`：surprised and gratified——Sam's response
-- `the warmth of her voice stole over me`：the warmth of her voice stole over me——Sam's experience
-- `Thank you, Sam. Thank you`：Thank you, Sam——Clem's gratitude
 
 **为什么这样写**：用 Clem's embrace 把 her gratitude 具象化，"She rose from the bed in a single bound"把 her gratitude 具象化，"surprised and gratified, I returned her embrace"把 Sam's response 具象化，"the warmth of her voice stole over me"把 Sam's experience 具象化，"Thank you, Sam. Thank you"把 Clem's gratitude 具象化，为后文 "Exposing them publicly will be most effective" 做铺垫。
 
@@ -139,23 +120,18 @@ start_date: 2026-10-19
 **句子结构**：引语（Exposing them publicly will be most effective）+ 说话标签（Clem said as we debated possibilities）+ 主谓宾（She still looked wan, and her spirits seemed to me depressed, but I could see that her thoughts were clear）+ 引语（Their power comes from their lofty reputation. If we destroy that, they are weak）。
 
 **关键词**：
-- `Exposing them publicly will be most effective`：Exposing them publicly——Clem's strategy
-- `Their power comes from their lofty reputation`：Their power comes from their lofty reputation——Clem's analysis
-- `If we destroy that, they are weak`：If we destroy that, they are weak——Clem's strategy
 
 **为什么这样写**：用 Clem's strategy 把 her plan 具象化，"Exposing them publicly will be most effective"把 her strategy 具象化，"Their power comes from their lofty reputation"把 her analysis 具象化，"If we destroy that, they are weak"把 her strategy 具象化，为后文 "A double exposure—demonstrate that they are cowards by revealing the ropers, then demonstrate that they are criminals by revealing the stoning deaths" 做铺垫。
 
 ---
 
-> **原句 10:** "I am hopeful of undertaking a more direct course: that is, to pass along the name of an individual who would be able to assist you in your undertaking."
+> **原句 10:** "I'll only be a moment."
 
 **中文理解**：Walter's letter——"I am hopeful of undertaking a more direct course: that is, to pass along the name of an individual who would be able to assist you in your undertaking"。Walter's offer。
 
 **句子结构**：引语（I am hopeful of undertaking a more direct course: that is, to pass along the name of an individual who would be able to assist you in your undertaking）。
 
 **关键词**：
-- `I am hopeful of undertaking a more direct course`：I am hopeful of undertaking a more direct course——Walter's offer
-- `pass along the name of an individual who would be able to assist you in your undertaking`：pass along the name——Walter's assistance
 
 **为什么这样写**：用 Walter's letter 把 his offer 具象化，"I am hopeful of undertaking a more direct course"把 his offer 具象化，"pass along the name of an individual who would be able to assist you in your undertaking"把 his assistance 具象化，为后文 "Wister Amsel, of Keel House" 做铺垫。
 
@@ -168,8 +144,6 @@ start_date: 2026-10-19
 **句子结构**：引语（I've come from Keel House）+ 说话标签（I said）+ 引语（With a message from Clementine）。
 
 **关键词**：
-- `I've come from Keel House`：I've come from Keel House——Sam's mission
-- `With a message from Clementine`：With a message from Clementine——Sam's mission
 
 **为什么这样写**：用 Sam's introduction 把 his mission 具象化，"I've come from Keel House"把 his mission 具象化，"With a message from Clementine"把 his mission 具象化，为后文 "She's given me these letters: one for you, one for Throckmorton's thew" 做铺垫。
 
@@ -182,8 +156,6 @@ start_date: 2026-10-19
 **句子结构**：引语（She's given me these letters: one for you, one for Throckmorton's thew）+ 引语（She's learned the location of the case. The details are there）。
 
 **关键词**：
-- `She's given me these letters: one for you, one for Throckmorton's thew`：She's given me these letters——Sam's message
-- `She's learned the location of the case. The details are there`：She's learned the location of the case——Sam's message
 
 **为什么这样写**：用 Sam's message 把 his mission 具象化，"She's given me these letters: one for you, one for Throckmorton's thew"把 his message 具象化，"She's learned the location of the case. The details are there"把 his message 具象化，为后文 "How?" 做铺垫。
 

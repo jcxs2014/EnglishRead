@@ -24,8 +24,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（We tumbled into Keel House）+ 主谓宾（and I closed the door to the spirit realm behind us）+ 伴随分词短语（shutting out the Oarings and the scree; the aimless, endless drifting; the vast, yawning sense that my soul was starving for sustenance it would never receive）+ 主系表（They were all behind me now）。
 
 **关键词**：
-- `shutting out the Oarings and the scree`：shutting out the Oarings and the scree——Sam's relief
-- `the vast, yawning sense that my soul was starving for sustenance it would never receive`：the vast, yawning sense——Sam's relief
 
 **为什么这样写**：用 Sam's relief 把 his return 具象化，"shutting out the Oarings and the scree"把 Sam's relief 具象化，"the vast, yawning sense that my soul was starving for sustenance it would never receive"把 Sam's relief 具象化，为后文 "We were in the kitchen" 做铺垫。
 
@@ -38,9 +36,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（What a wonder, to feel thoughts!）+ 主谓宾（As I looked at Clem, a swirl of impressions appeared to me effortlessly, as clearly as if she were speaking them aloud）+ 同位语（stones, more stones; a terrible sense of cold; desperation and horror）。
 
 **关键词**：
-- `What a wonder, to feel thoughts!`：What a wonder, to feel thoughts!——Sam's discovery
-- `a swirl of impressions appeared to me effortlessly`：a swirl of impressions appeared to me effortlessly——Sam's thew power
-- `stones, more stones; a terrible sense of cold; desperation and horror`：stones, more stones; a terrible sense of cold——Clem's thoughts
 
 **为什么这样写**：用 Sam's discovery 把 his thew power 具象化，"What a wonder, to feel thoughts!"把 his discovery 具象化，"a swirl of impressions appeared to me effortlessly"把 his thew power 具象化，为后文 "I found that I was kneeling by the side of the bed" 做铺垫。
 
@@ -53,8 +48,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（I found that I was kneeling by the side of the bed, and my hand rested on Clem's tousled hair）+ 主谓宾（The others had drawn back and were watching me）。
 
 **关键词**：
-- `I found that I was kneeling by the side of the bed, and my hand rested on Clem's tousled hair`：I found that I was kneeling——Sam's unconscious action
-- `The others had drawn back and were watching me`：The others had drawn back——Sam's observation
 
 **为什么这样写**：用 Sam's unconscious action 把 his thew behavior 具象化，"I found that I was kneeling"把 his unconscious action 具象化，"The others had drawn back and were watching me"把 others' reaction 具象化，为后文 "As I turned to look at them, I realized that their thoughts were also there" 做铺垫。
 
@@ -67,22 +60,18 @@ start_date: 2026-10-19
 **句子结构**：时间状语从句（As I turned to look at them）+ 主谓宾（I realized that their thoughts were also there, utterly plain to me, if I only focused my attention purposefully upon them）。
 
 **关键词**：
-- `their thoughts were also there, utterly plain to me`：their thoughts were also there——Sam's thew power
-- `if I only focused my attention purposefully upon them`：if I only focused my attention purposefully——Sam's thew power
 
 **为什么这样写**：用 Sam's discovery 把 his thew power 具象化，"their thoughts were also there, utterly plain to me"把 his thew power 具象化，"if I only focused my attention purposefully upon them"把 his thew power 具象化，为后文 "Gertie's mind was a tangle of concern over Clem" 做铺垫。
 
 ---
 
-> **原句 5:** "I was long accustomed to how his eyes bored into things, pensive and thoughtful, but it's possible he seemed more menacing than observant."
+> **原句 5:** "I was"
 
 **中文理解**：Sam 对 Maxwell 的 observation——"I was long accustomed to how his eyes bored into things, pensive and thoughtful"、"it's possible he seemed more menacing than observant"。Sam's perspective of Maxwell。
 
 **句子结构**：主谓宾（I was long accustomed to how his eyes bored into things, pensive and thoughtful）+ 主系表（but it's possible he seemed more menacing than observant）。
 
 **关键词**：
-- `I was long accustomed to how his eyes bored into things, pensive and thoughtful`：I was long accustomed——Sam's perspective
-- `it's possible he seemed more menacing than observant`：it's possible he seemed more menacing——Sam's perspective
 
 **为什么这样写**：用 Sam's observation 把 Maxwell's demeanor 具象化，"I was long accustomed to how his eyes bored into things"把 Sam's perspective 具象化，"it's possible he seemed more menacing than observant"把 Sam's perspective 具象化，为后文 "Constable Maxwell nodded" 做铺垫。
 
@@ -95,8 +84,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（I felt no exhaustion or physical strain, no hunger or sleepiness）+ 主谓宾（I didn't even feel the discomfort in my knees that would naturally arise from kneeling beside the bed for long stretches of time）。
 
 **关键词**：
-- `I felt no exhaustion or physical strain, no hunger or sleepiness`：I felt no exhaustion——Sam's thew body
-- `I didn't even feel the discomfort in my knees`：I didn't even feel the discomfort——Sam's thew body
 
 **为什么这样写**：用 Sam's discovery 把 his thew body 具象化，"I felt no exhaustion or physical strain, no hunger or sleepiness"把 his thew body 具象化，"I didn't even feel the discomfort in my knees"把 his thew body 具象化，为后文 "My spirit body was quite unencumbered" 做铺垫。
 
@@ -109,8 +96,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（The Sor Juana Alliance was created centuries ago, not by Sor Juana Inés de la Cruz herself, but by others who practiced with her and wished to honor her memory）。
 
 **关键词**：
-- `The Sor Juana Alliance was created centuries ago`：The Sor Juana Alliance was created centuries ago——Sor Juana Alliance's origin
-- `not by Sor Juana Inés de la Cruz herself, but by others who practiced with her and wished to honor her memory`：not by Sor Juana herself——Sor Juana Alliance's origin
 
 **为什么这样写**：用 Wister's explanation 把 Sor Juana Alliance's origin 具象化，"The Sor Juana Alliance was created centuries ago"把 Sor Juana Alliance 具象化，"not by Sor Juana Inés de la Cruz herself, but by others who practiced with her and wished to honor her memory"把 Sor Juana Alliance's origin 具象化，为后文 "The alliance that emerged, entirely in secret, has always pursued knowledge for its own sake rather than for material gain or worldly power" 做铺垫。
 
@@ -123,9 +108,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（I've learned a great deal about the realm during my travels）+ 主谓宾（I've learned about the Weer and the wall, the Oarings that travel overhead, and the scree）+ 主谓宾（But all the spirits who inhabit the outer ring between the wall and the first isle know almost nothing of what exists beyond the first isle）。
 
 **关键词**：
-- `I've learned a great deal about the realm during my travels`：I've learned a great deal——Wister's knowledge
-- `I've learned about the Weer and the wall, the Oarings that travel overhead, and the scree`：I've learned about the Weer and the wall——Wister's knowledge
-- `all the spirits who inhabit the outer ring between the wall and the first isle know almost nothing of what exists beyond the first isle`：all the spirits who inhabit the outer ring know almost nothing——Wister's knowledge
 
 **为什么这样写**：用 Wister's knowledge 把 her knowledge 具象化，"I've learned a great deal about the realm during my travels"把 her knowledge 具象化，"I've learned about the Weer and the wall, the Oarings that travel overhead, and the scree"把 her knowledge 具象化，"all the spirits who inhabit the outer ring between the wall and the first isle know almost nothing of what exists beyond the first isle"把 spirit realm's mystery 具象化，为后文 "It's rumored that there are seven isles, each larger than the last" 做铺垫。
 
@@ -138,10 +120,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（Roy Marcel, of Port-au-Prince, known in Massachusetts as Constable Roy Maxwell）+ 主谓宾（I've served the alliance since I was sixteen）+ 主谓宾（and I've been an agent in Greater Boston for the last three years）+ 主谓宾（I answer to Wister Amsel, the head of the Massachusetts chapter）。
 
 **关键词**：
-- `Roy Marcel, of Port-au-Prince, known in Massachusetts as Constable Roy Maxwell`：Roy Marcel, of Port-au-Prince——Maxwell's real identity
-- `I've served the alliance since I was sixteen`：I've served the alliance since I was sixteen——Maxwell's service
-- `I've been an agent in Greater Boston for the last three years`：I've been an agent——Maxwell's role
-- `I answer to Wister Amsel, the head of the Massachusetts chapter`：I answer to Wister Amsel——Maxwell's hierarchy
 
 **为什么这样写**：用 Maxwell's revelation 把 his real identity 具象化，"Roy Marcel, of Port-au-Prince"把 his origin 具象化，"I've served the alliance since I was sixteen"把 his service 具象化，"I've been an agent in Greater Boston for the last three years"把 his role 具象化，"I answer to Wister Amsel, the head of the Massachusetts chapter"把 his hierarchy 具象化，为后文 "Wister looked at Marcel proudly" 做铺垫。
 
@@ -154,7 +132,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾。极简。
 
 **关键词**：
-- `Perhaps I can still be of assistance in my new guise`：Perhaps I can still be of assistance——Sam's offer
 
 **为什么这样写**：用极简句式把 Sam's offer 具象化，"Perhaps I can still be of assistance"把 Sam's offer 具象化，"in my new guise"把 Sam's new state 具象化，为后文 "Of course. You know more than any of us" 做铺垫。
 

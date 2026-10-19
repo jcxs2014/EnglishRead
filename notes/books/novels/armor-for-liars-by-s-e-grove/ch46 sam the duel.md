@@ -24,8 +24,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（Our original plan had not required racing to the Manse in an enchanted barouche）+ 主谓宾（The Sor Juana Alliance would venture to the Manse while we conducted the séance, and Clem and I would arrive afterward with Roy）+ 主谓宾（But what I'd seen in Roy's thoughts had upended our plans）。
 
 **关键词**：
-- `Our original plan had not required racing to the Manse`：Our original plan had not required——Sam's realization
-- `what I'd seen in Roy's thoughts had upended our plans`：what I'd seen in Roy's thoughts——Sam's realization
 
 **为什么这样写**：用 Sam's realization 把 his understanding 具象化，"Our original plan had not required racing to the Manse in an enchanted barouche"把 Sam's realization 具象化，"what I'd seen in Roy's thoughts had upended our plans"把 Sam's realization 具象化，为后文 "Wister and the other Sor Juanas never arrived at the Manse" 做铺垫。
 
@@ -38,7 +36,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾。极简。
 
 **关键词**：
-- `Wister and the other Sor Juanas never arrived at the Manse`：Wister and the other Sor Juanas never arrived——Sam's revelation
 
 **为什么这样写**：用极简句式把 Sam's revelation 具象化，"Wister and the other Sor Juanas never arrived at the Manse"把 Sam's revelation 具象化，为后文 "The Cisneros Society attacked Keel House" 做铺垫。
 
@@ -51,8 +48,6 @@ start_date: 2026-10-19
 **句子结构**：引语（The Cisneros Society attacked Keel House）+ 引语（What happened?）+ 引语（It might have been worse, for as soon as we started the séance, all of Cisneros descended upon the Lyceum）。
 
 **关键词**：
-- `The Cisneros Society attacked Keel House`：The Cisneros Society attacked Keel House——Sam's report
-- `It might have been worse, for as soon as we started the séance, all of Cisneros descended upon the Lyceum`：It might have been worse——Sam's report
 
 **为什么这样写**：用 Sam 与 Clem 的 dialogue 把 Sam's report 具象化，"The Cisneros Society attacked Keel House"把 Sam's report 具象化，"It might have been worse, for as soon as we started the séance, all of Cisneros descended upon the Lyceum"把 Sam's report 具象化，为后文 "So the Manse is unguarded" 做铺垫。
 
@@ -65,8 +60,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（She stood across from them, separated by the green grass）+ 时间状语从句（as I looked at Simeon pulling the armor down over his golden curls, an expression of unrestrained excitement on his face）+ 主谓宾（I felt a surge of something unpleasant in my belly: a desire to see him crushed, utterly crushed. No, more—to bring it about with my own hands）。
 
 **关键词**：
-- `I felt a surge of something unpleasant in my belly: a desire to see him crushed, utterly crushed`：I felt a surge of something unpleasant——Sam's desire
-- `No, more—to bring it about with my own hands`：No, more—to bring it about with my own hands——Sam's desire
 
 **为什么这样写**：用 Sam's desire 把 his desire 具象化，"I felt a surge of something unpleasant in my belly: a desire to see him crushed, utterly crushed"把 his desire 具象化，"No, more—to bring it about with my own hands"把 his desire 具象化，为后文 "Clem, I beg you, let me tackle him" 做铺垫。
 
@@ -79,7 +72,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾。极简。
 
 **关键词**：
-- `I call Samuel May as my second`：I call Samuel May as my second——Clem's declaration
 
 **为什么这样写**：用极简句式把 Clem's declaration 具象化，"I call Samuel May as my second"把 Clem's declaration 具象化，为后文 "A spirit cannot act as a second" 做铺垫。
 
@@ -92,8 +84,6 @@ start_date: 2026-10-19
 **句子结构**：引语（I call a duel）+ 说话标签（she shouted）+ 引语（With any member of the Cisneros Society who will represent the rest）。
 
 **关键词**：
-- `I call a duel`：I call a duel——Clem's declaration
-- `With any member of the Cisneros Society who will represent the rest`：With any member of the Cisneros Society——Clem's declaration
 
 **为什么这样写**：用 Clem's declaration 把 her declaration 具象化，"I call a duel"把 her declaration 具象化，"With any member of the Cisneros Society who will represent the rest"把 her declaration 具象化，为后文 "I will," Simeon called out" 做铺垫。
 
@@ -106,9 +96,6 @@ start_date: 2026-10-19
 **句子结构**：引语（I will）+ 说话标签（Simeon called out, cutting into the silence）+ 主谓宾（His voice was eager, and I confess that I felt some eagerness in return）+ 主谓宾（Yes, I thought. Let it be Simeon）。
 
 **关键词**：
-- `I will`：I will——Simeon's response
-- `His voice was eager, and I confess that I felt some eagerness in return`：His voice was eager——Simeon's response
-- `Yes, I thought. Let it be Simeon`：Yes, I thought. Let it be Simeon——Sam's response
 
 **为什么这样写**：用 Simeon's response 把 his response 具象化，"I will"把 his response 具象化，"His voice was eager, and I confess that I felt some eagerness in return"把 Sam's response 具象化，"Yes, I thought. Let it be Simeon"把 Sam's response 具象化，为后文 "You're the only man here without a thew" 做铺垫。
 
@@ -121,9 +108,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（We stood, perfectly still, watching Simeon's armor gleam in the sun）+ 主谓宾（I studied his thoughts as he weighed possibilities）+ 主谓宾（Unsurprisingly, Simeon favored petty cruelty）。
 
 **关键词**：
-- `We stood, perfectly still, watching Simeon's armor gleam in the sun`：We stood, perfectly still——Sam's observation
-- `I studied his thoughts as he weighed possibilities`：I studied his thoughts——Sam's observation
-- `Unsurprisingly, Simeon favored petty cruelty`：Unsurprisingly, Simeon favored petty cruelty——Sam's observation
 
 **为什么这样写**：用 Sam's observation 把 Simeon's character 具象化，"We stood, perfectly still, watching Simeon's armor gleam in the sun"把 Sam's observation 具象化，"I studied his thoughts as he weighed possibilities"把 Sam's observation 具象化，"Unsurprisingly, Simeon favored petty cruelty"把 Simeon's character 具象化，为后文 "First I aged my face by a decade, and another" 做铺垫。
 
@@ -136,11 +120,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（First I aged my face by a decade, and another）+ 主谓宾（Then a decade more）+ 主谓宾（I made my figure frail, my shoulders stooped）+ 主谓宾（My hair grew gray, then white）+ 主谓宾（I raised spotted hands and let them tremble piteously）+ 主谓宾（I showed Simeon his own decline, year by year）。
 
 **关键词**：
-- `First I aged my face by a decade, and another. Then a decade more`：First I aged my face——Sam's disguise
-- `I made my figure frail, my shoulders stooped`：I made my figure frail——Sam's disguise
-- `My hair grew gray, then white`：My hair grew gray——Sam's disguise
-- `I raised spotted hands and let them tremble piteously`：I raised spotted hands——Sam's disguise
-- `I showed Simeon his own decline, year by year`：I showed Simeon his own decline——Sam's disguise
 
 **为什么这样写**：用 Sam's disguise 把 his disguise 具象化，"First I aged my face by a decade, and another. Then a decade more"把 his disguise 具象化，"I made my figure frail, my shoulders stooped"把 his disguise 具象化，"My hair grew gray, then white"把 his disguise 具象化，"I raised spotted hands and let them tremble piteously"把 his disguise 具象化，"I showed Simeon his own decline, year by year"把 his disguise 具象化，为后文 "Simeon's horror held him fast" 做铺垫。
 
@@ -153,9 +132,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（I showed Simeon his own decline, year by year）+ 主谓宾（Simeon's horror held him fast）+ 伴随分词短语（With great effort, he closed his eyes and focused his thoughts）。
 
 **关键词**：
-- `I showed Simeon his own decline, year by year`：I showed Simeon his own decline——Sam's disguise effect
-- `Simeon's horror held him fast`：Simeon's horror held him fast——Sam's disguise effect
-- `With great effort, he closed his eyes and focused his thoughts`：With great effort, he closed his eyes and focused his thoughts——Simeon's response
 
 **为什么这样写**：用 Sam's disguise effect 把 his disguise effect 具象化，"I showed Simeon his own decline, year by year"把 his disguise effect 具象化，"Simeon's horror held him fast"把 his disguise effect 具象化，"With great effort, he closed his eyes and focused his thoughts"把 Simeon's response 具象化，为后文 "The ground," I said quickly, reaching out for Clementine" 做铺垫。
 
@@ -168,9 +144,6 @@ start_date: 2026-10-19
 **句子结构**：引语（The ground）+ 说话标签（I said quickly）+ 伴随分词短语（reaching out for Clementine）+ 主谓宾（I couldn't catch her in time）+ 时间状语从句（As soon as the words were out of my mouth, the earth beneath us parted, and Clem disappeared）。
 
 **关键词**：
-- `'The ground,' I said quickly, reaching out for Clementine`：The ground——Sam's warning
-- `I couldn't catch her in time`：I couldn't catch her in time——Sam's warning
-- `As soon as the words were out of my mouth, the earth beneath us parted, and Clem disappeared`：As soon as the words were out of my mouth——Sam's warning
 
 **为什么这样写**：用 Sam's warning 把 his warning 具象化，"'The ground,' I said quickly, reaching out for Clementine"把 his warning 具象化，"I couldn't catch her in time"把 his warning 具象化，"As soon as the words were out of my mouth, the earth beneath us parted, and Clem disappeared"把 his warning 具象化，为后文 "A mound of gigantic earthworms, each as thick as my arms, churned the soil in front of me" 做铺垫。
 
@@ -183,9 +156,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（I had stopped her descent into the earth）+ 问句（But how far had she fallen?）+ 主系表（I was aghast at the small pile of rope beside me）+ 主谓宾（Now, hand over hand, I began to pull）。
 
 **关键词**：
-- `I had stopped her descent into the earth`：I had stopped her descent into the earth——Sam's rescue
-- `But how far had she fallen? I was aghast at the small pile of rope beside me`：But how far had she fallen?——Sam's rescue
-- `Now, hand over hand, I began to pull`：Now, hand over hand, I began to pull——Sam's rescue
 
 **为什么这样写**：用 Sam's rescue 把 his rescue 具象化，"I had stopped her descent into the earth"把 his rescue 具象化，"But how far had she fallen? I was aghast at the small pile of rope beside me"把 his rescue 具象化，"Now, hand over hand, I began to pull"把 his rescue 具象化，为后文 "Thank the spirits for my unnatural strength as a thew" 做铺垫。
 

@@ -24,8 +24,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（My relief at Clementine's triumph did not last long）+ 主谓宾（I doubted very much that the Cisneros Society would abandon its pursuit simply because Clem had managed to outwit them once）。
 
 **关键词**：
-- `My relief... did not last long`：My relief... did not last long——Sam's foresight
-- `would abandon its pursuit`：would abandon its pursuit——Cisneros Society's persistence
 
 **为什么这样写**：用 Sam's foresight 把 his concern 具象化，"would abandon its pursuit"把 Cisneros Society's persistence 具象化，为后文 "They would persist, and perhaps now they would take into account Clem's abilities" 做铺垫。
 
@@ -38,9 +36,6 @@ start_date: 2026-10-19
 **句子结构**：时间状语（In a flash）+ 主谓宾（I understood）+ 主谓宾（Clementine had suggested the idea to Livia as she neared campus）+ 主谓宾（She would use actual armor to protect herself from the stones!）+ 主谓宾（Ingenious, simple, and effective; I sent Clem a rush of approval）。
 
 **关键词**：
-- `Clementine had suggested the idea to Livia`：Clementine had suggested the idea——Clem's strategy
-- `She would use actual armor to protect herself from the stones`：She would use actual armor——Clem's plan
-- `Ingenious, simple, and effective`：Ingenious, simple, and effective——Sam's admiration
 
 **为什么这样写**：用 Sam's realization 把 Clem's strategy 具象化，"Ingenious, simple, and effective"把 Sam's admiration 具象化，为后文 "Throckmorton gave Clem a toothy grin" 做铺垫。
 
@@ -53,9 +48,6 @@ start_date: 2026-10-19
 **句子结构**：引语（Truly, her powers are astonishing. How could she see the future?）+ 引语（Oh no! Thews are not prophets. She only saw your thoughts as you neared campus）。
 
 **关键词**：
-- `Truly, her powers are astonishing`：Truly, her powers are astonishing——Clem's amazement
-- `Thews are not prophets`：Thews are not prophets——Throckmorton's explanation
-- `She only saw your thoughts as you neared campus`：She only saw your thoughts——Throckmorton's explanation
 
 **为什么这样写**：用 dialogue 把 Livia's powers 具象化，"Thews are not prophets"把 thew's limits 具象化，为后文 "I see, I see" 做铺垫。
 
@@ -68,9 +60,6 @@ start_date: 2026-10-19
 **句子结构**：引语（I was getting these for you）+ 引语（For me?）+ 引语（Yes, yes. Livia told me you were coming）+ 引语（Aha! It is sometimes still very satisfying to be always one step ahead）。
 
 **关键词**：
-- `I was getting these for you`：I was getting these for you——Throckmorton's gift
-- `Livia told me you were coming`：Livia told me you were coming——Livia's foresight
-- `always one step ahead`：always one step ahead——Throckmorton's pleasure
 
 **为什么这样写**：用 Throckmorton's gift 把 his generosity 具象化，"Livia told me you were coming"把 Livia's foresight 具象化，"always one step ahead"把 Throckmorton's pleasure 具象化，为后文 "There's about a suit and a half there" 做铺垫。
 
@@ -83,9 +72,6 @@ start_date: 2026-10-19
 **句子结构**：引语（I'll tell you the rest of the story of Rosetta's illness?）+ 引语（No, Clem said quickly. Not now, she amended, in a softer tone）+ 引语（It was a momentous event in our lives, and one with many repercussions. I find myself here because of it）。
 
 **关键词**：
-- `I'll tell you the rest of the story of Rosetta's illness?`：I'll tell you the rest——Wister's question
-- `No. Not now`：No. Not now——Clem's refusal
-- `It was a momentous event in our lives`：It was a momentous event——Clem's characterization
 
 **为什么这样写**：用 Wister's question 把 her curiosity 具象化，"No. Not now"把 Clem's refusal 具象化，"It was a momentous event"把 Rosie's illness 具象化，为后文 "Wister nodded. 'Very well. When you wish to speak of it, I'll be glad to listen.'" 做铺垫。
 
@@ -98,21 +84,18 @@ start_date: 2026-10-19
 **句子结构**：引语（You may have heard that my given surname is Croix, not Amsel）。
 
 **关键词**：
-- `my given surname is Croix, not Amsel`：my given surname is Croix——Wister's revelation
 
 **为什么这样写**：用 Wister's revelation 把 her backstory 具象化，"Croix, not Amsel"把 her name change 具象化，为后文 "My father disowned me when I made the attempt to enter the spirit realm" 做铺垫。
 
 ---
 
-> **原句 7:** "'I was also self-taught,' Wister said, leaning forward to rest her elbows on her knees. She fixed Clem with a hard stare. 'But I failed to secure a spirit thew,' she said softly."
+> **原句 7:** "I was getting these for you."
 
 **中文理解**：Wister's confession——"I was also self-taught"、"But I failed to secure a spirit thew"。Wister's vulnerability。
 
 **句子结构**：引语（I was also self-taught）+ 伴随分词短语（leaning forward to rest her elbows on her knees）+ 主谓宾（She fixed Clem with a hard stare）+ 引语（But I failed to secure a spirit thew）。
 
 **关键词**：
-- `I was also self-taught`：I was also self-taught——Wister's background
-- `I failed to secure a spirit thew`：I failed to secure a spirit thew——Wister's failure
 
 **为什么这样写**：用 Wister's confession 把 her vulnerability 具象化，"I failed to secure a spirit thew"把 her failure 具象化，为后文 "What have you studied so far pertaining to the spirit realm?" 做铺垫。
 
@@ -125,9 +108,6 @@ start_date: 2026-10-19
 **句子结构**：引语（I was exploring in the woods that surrounded my father's estate, and I fell into a sort of narrow cave）+ 引语（It was too steep for me to climb out）+ 引语（But I'd brought with me the tinderbox that my mother had always insisted I carry, and I tried to light a fire）+ 引语（No luck—there was nothing to burn）+ 引语（I called and called to no avail）+ 引语（And then darkness fell）。
 
 **关键词**：
-- `I fell into a sort of narrow cave`：I fell into a sort of narrow cave——Wister's childhood peril
-- `the tinderbox that my mother had always insisted I carry`：the tinderbox——Wister's survival tool
-- `I called and called to no avail`：I called and called to no avail——Wister's helplessness
 
 **为什么这样写**：用 Wister's childhood story 把 her backstory 具象化，"the tinderbox that my mother had always insisted I carry"把 Wister's survival tool 具象化，为后文 "I thought I'd be cold, but I wasn't" 做铺垫。
 
@@ -140,8 +120,6 @@ start_date: 2026-10-19
 **句子结构**：引语（I thought I'd be cold, but I wasn't）+ 引语（I felt perfectly comfortable, only anxious and hungry）+ 引语（In the morning, I heard the search party looking for me, and I called to them）+ 引语（They pulled me out with a rope）+ 引语（My mother was there, desperate and fearful, and she clung to me the entire way back to the house）。
 
 **关键词**：
-- `I thought I'd be cold, but I wasn't`：I thought I'd be cold, but I wasn't——Wister's survival
-- `My mother was there, desperate and fearful, and she clung to me`：My mother was there——Wister's survival
 
 **为什么这样写**：用 Wister's rescue 把 her survival 具象化，"I thought I'd be cold, but I wasn't"把 Wister's survival tool 具象化，"My mother was there, desperate and fearful"把 Wister's mother 具象化，为后文 "I understood then how her power had protected me" 做铺垫。
 
@@ -154,9 +132,6 @@ start_date: 2026-10-19
 **句子结构**：引语（I understood then how her power had protected me in my great moment of peril, even when she herself couldn't be present）+ 引语（It was as if she had been with me all along）+ 引语（I knew then that I would become an enchanter）。
 
 **关键词**：
-- `I understood then how her power had protected me`：I understood then how her power had protected me——Wister's realization
-- `It was as if she had been with me all along`：It was as if she had been with me all along——Wister's realization
-- `I knew then that I would become an enchanter`：I knew then that I would become an enchanter——Wister's motivation
 
 **为什么这样写**：用 Wister's realization 把 her motivation 具象化，"It was as if she had been with me all along"把 Wister's mother's power 具象化，"I knew then that I would become an enchanter"把 Wister's motivation 具象化，为后文 "She had some knowledge of enchantment" 做铺垫。
 
@@ -169,8 +144,6 @@ start_date: 2026-10-19
 **句子结构**：引语（For a time I wandered）+ 引语（Well, not at first—at first I was imprisoned by the commonwealth for having practiced enchantment）+ 引语（Then, once I'd been freed, the warden recommended I come here, to Keel House）。
 
 **关键词**：
-- `at first I was imprisoned by the commonwealth for having practiced enchantment`：at first I was imprisoned——Wister's imprisonment
-- `the warden recommended I come here, to Keel House`：the warden recommended——Wister's path to Keel House
 
 **为什么这样写**：用 Wister's backstory 把 her imprisonment 具象化，"at first I was imprisoned by the commonwealth for having practiced enchantment"把 Wister's persecution 具象化，"the warden recommended I come here, to Keel House"把 Wister's path 具象化，为后文 "I rejected this outright" 做铺垫。
 
@@ -183,8 +156,6 @@ start_date: 2026-10-19
 **句子结构**：引语（I decided I would use it for Keel House）+ 引语（It means we can accept more women into the house, and we don't worry about the income made by our work）。
 
 **关键词**：
-- `I decided I would use it for Keel House`：I decided I would use it for Keel House——Wister's decision
-- `we can accept more women into the house`：we can accept more women——Wister's philanthropy
 
 **为什么这样写**：用 Wister's decision 把 her philanthropy 具象化，"we can accept more women into the house"把 Wister's purpose 具象化，为后文 "When the time came, and Wister reached out her hand, Clementine would take it" 做铺垫。
 

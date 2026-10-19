@@ -24,9 +24,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾 + 三个并列分句（they are able to... / they are able to... / they enhance...）。并列结构。
 
 **关键词**：
-- `perceiving the thoughts and sentiments`：感知 thoughts/sentiments——thew 的 mind-reading
-- `alter their appearance by mere will`：仅凭 will 改变 appearance——thew 的 shapeshifting
-- `enhance... a hundredfold`：增强百倍——thew 的 amplification
 
 **为什么这样写**：用 epigraph 建立 thew 的 powers，为后文 Sam 的 "I could detect what others would not" 做铺垫。
 
@@ -39,8 +36,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾 + 时间状语（as the bell tolled...）+ 不定式（just in time to see...）。
 
 **关键词**：
-- `mended Giles`：mended Giles——medical enchantment 的 result
-- `dazed but decidedly healthier`：dazed but healthier——Giles 的 state
 
 **为什么这样写**：用 Sam 的 observation 把 medical enchantment 的 result 具象化，"mended"暗示 enchantment's effectiveness。
 
@@ -53,7 +48,6 @@ start_date: 2026-10-19
 **句子结构**：疑问句（What was Quinn doing here?）。极简。
 
 **关键词**：
-- `What was Quinn doing here?`：Quinn 在这里做什么——Sam 的 curiosity
 
 **为什么这样写**：用 Sam 的 question 把 Clem 的 Throckmorton visit 具象化为 mystery，为后文 Clem 的 "research assistant" 做铺垫。
 
@@ -66,8 +60,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（The professor's spirit thew stood by the brightest window）+ 两个形容词短语作同位语（as corporeal as any woman / but ghostly pale and tinged with green）。
 
 **关键词**：
-- `as corporeal as any woman`：像 any woman 一样 corporeal——thew 的 physicality
-- `ghostly pale and tinged with green`：ghostly pale and green-tinged——thew 的 non-human quality
 
 **为什么这样写**：用 Livia 的 description 把 thew 的 dual nature 具象化——corporeal yet ghostly，为后文 Throckmorton 的 "Livia" 做铺垫。
 
@@ -80,8 +72,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（I should not have been surprised）+ that 引导的宾语从句 + 定语从句（a man who was known to have once given...）。
 
 **关键词**：
-- `most resoundingly tedious`：最 resoundingly tedious——Throckmorton 的 character
-- `ninety-eight-minute lecture`：98 分钟 lecture——Throckmorton 的 pedantry
 
 **为什么这样写**：用 Sam 的 ironic tone 把 Throckmorton 的 character 具象化，"most resoundingly tedious"与 Quinn 的 admiration 形成对比，暗示 Clem 的 strategic thinking。
 
@@ -94,8 +84,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（I noticed）+ 主谓宾（I looked quickly in all directions but could see no one）+ 主系表（This part of campus... could be quite silent...）+ 主谓宾（Suddenly the path before Quinn was blown clear）。
 
 **关键词**：
-- `could see no one`：could see no one——attack 的 stealth
-- `blown clear`：blown clear——pine needle attack 的开始
 
 **为什么这样写**：用 Sam 的 observation 把 attack 的 setup 具象化，"could see no one"把 attack 写成 stealthy，为后文 "Simeon's moment of revenge" 做铺垫。
 
@@ -108,8 +96,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（I sent Quinn a warning）+ 同位语（a sense of urgency, a need to turn back）+ 主谓宾（He didn't budge）。
 
 **关键词**：
-- `sense of urgency`：urgency 的 sense——Sam 的 warning method
-- `didn't budge`：didn't budge——Quinn 的 stubbornness
 
 **为什么这样写**：用 Sam 的 warning 与 Quinn 的 "didn't budge"形成对比，暗示 Quinn 的 stubbornness 与 danger，为后文 pine needle attack 做铺垫。
 
@@ -122,10 +108,6 @@ start_date: 2026-10-19
 **句子结构**：分词短语（Swiftly, Quinn crouched low...）+ 主谓宾（Thousands of pine needles pattered against his back）+ 三个并列分词短语（drumming ceaselessly... / falling to the ground... / then drifting languidly...）。
 
 **关键词**：
-- `Thousands of pine needles`：Thousands of pine needles——attack 的 scale
-- `pattered against his back`：pattered against his back——attack 的 impact
-- `drumming ceaselessly`：drumming ceaselessly——attack 的 duration
-- `swirling eddies`：swirling eddies——attack 的 motion
 
 **为什么这样写**：用 detailed description 把 pine needle attack 具象化，"Thousands"与 "ceaselessly"把 attack 的 intensity 具象化，为后文 "YOU DON'T BELONG HERE" 做铺垫。
 
@@ -138,7 +120,6 @@ start_date: 2026-10-19
 **句子结构**：名词短语，独立成句。极简。
 
 **关键词**：
-- `YOU DON'T BELONG HERE`：YOU DON'T BELONG HERE——Simeon 的 threat
 
 **为什么这样写**：用极简句式把 Simeon 的 threat 具象化，"DON'T BELONG"把 Clem 的 outsider status 具象化，为后文 Clem 的 "I can't clean the cuts myself" 做铺垫。
 
@@ -151,8 +132,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（I imagined, foolishly, that he would heed the warning）。
 
 **关键词**：
-- `imagined, foolishly`：imagined, foolishly——Sam 的 self-critique
-- `heed the warning`：heed the warning——Quinn's non-compliance
 
 **为什么这样写**：用 "foolishly"把 Sam 的 self-critique 具象化，暗示 Sam 的 underestimation of Simeon's threat，为后文 conflict 做铺垫。
 

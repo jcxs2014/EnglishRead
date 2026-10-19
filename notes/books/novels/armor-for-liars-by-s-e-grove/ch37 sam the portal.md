@@ -17,15 +17,13 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 1:** "The knowledge of Livia's identity had overturned my understanding of Clementine's purpose."
+> **原句 1:** "The"
 
 **中文理解**：Sam 的 opening——"The knowledge of Livia's identity had overturned my understanding of Clementine's purpose"。Sam's realization。
 
 **句子结构**：主谓宾（The knowledge of Livia's identity had overturned my understanding of Clementine's purpose）。
 
 **关键词**：
-- `knowledge of Livia's identity`：knowledge of Livia's identity——Sam's discovery
-- `overturned my understanding`：overturned my understanding——Sam's realization
 
 **为什么这样写**：用 Sam's realization 把 his understanding 具象化，"overturned"把 Sam's paradigm shift 具象化，为后文 "I had been misled by her innocent appearance" 做铺垫。
 
@@ -38,7 +36,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（Somehow, between Washington Square and the city morgue, it appears that we've lost Rosetta's body）。
 
 **关键词**：
-- `Somehow, between Washington Square and the city morgue, it appears that we've lost Rosetta's body`：Somehow, between Washington Square and the city morgue——Maxwell's report
 
 **为什么这样写**：用 Maxwell's report 把 Rosetta's body loss 具象化，"Somehow, between Washington Square and the city morgue"把 loss 具象化，为后文 "Who would take her body? Why? To what purpose? What more do they want from her?" 做铺垫。
 
@@ -51,7 +48,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾。极简。
 
 **关键词**：
-- `I will go to the spirit realm tonight`：I will go to the spirit realm tonight——Clem's determination
 
 **为什么这样写**：用极简句式把 Clem's determination 具象化，"I will go to the spirit realm tonight"把 Clem's plan 具象化，为后文 "I will find Rosetta and bring her back" 做铺垫。
 
@@ -64,7 +60,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾。极简。
 
 **关键词**：
-- `I will find Rosetta and bring her back`：I will find Rosetta and bring her back——Clem's purpose
 
 **为什么这样写**：用极简句式把 Clem's purpose 具象化，"I will find Rosetta and bring her back"把 Clem's purpose 具象化，为后文 "I have nothing else to live for" 做铺垫。
 
@@ -77,9 +72,6 @@ start_date: 2026-10-19
 **句子结构**：引语（I have nothing else to live for）+ 引语（The only reason I cared about enchantment was so that I could one day learn the medical enchantment that would allow me to keep Rosetta in good health）+ 引语（That was my only purpose, Wister, do you understand that? My only purpose）。
 
 **关键词**：
-- `I have nothing else to live for`：I have nothing else to live for——Clem's grief
-- `The only reason I cared about enchantment was so that I could one day learn the medical enchantment that would allow me to keep Rosetta in good health`：The only reason I cared about enchantment——Clem's purpose
-- `That was my only purpose, Wister, do you understand that? My only purpose`：That was my only purpose——Clem's declaration
 
 **为什么这样写**：用 Clem's declaration 把 her grief 具象化，"I have nothing else to live for"把 her grief 具象化，"That was my only purpose"把 her purpose 具象化，为后文 "I don't believe you" 做铺垫。
 
@@ -92,9 +84,6 @@ start_date: 2026-10-19
 **句子结构**：引语（We are the Sor Juana Alliance, an ancient and renowned society dedicated to the fair practice of enchantment）+ 引语（I am the head of the Massachusetts chapter）+ 引语（We are everything Cisneros is not, and we have protected this portal from them for years—I won't allow you to imperil that）。
 
 **关键词**：
-- `We are the Sor Juana Alliance`：We are the Sor Juana Alliance——Wister's identity
-- `an ancient and renowned society dedicated to the fair practice of enchantment`：an ancient and renowned society——Sor Juana Alliance's identity
-- `We are everything Cisneros is not`：We are everything Cisneros is not——Sor Juana Alliance's opposition
 
 **为什么这样写**：用 Wister's revelation 把 her identity 具象化，"We are the Sor Juana Alliance"把 Sor Juana Alliance 具象化，"We are everything Cisneros is not"把 Sor Juana Alliance's opposition 具象化，为后文 "I won't allow you to imperil that" 做铺垫。
 
@@ -107,8 +96,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（On the other side of the portal, I was waiting）+ 语气词（At last）。
 
 **关键词**：
-- `On the other side of the portal, I was waiting`：On the other side of the portal, I was waiting——Sam's presence
-- `At last`：At last——Sam's anticipation
 
 **为什么这样写**：用 Sam's closing 把 his presence 具象化，"On the other side of the portal, I was waiting"把 Sam's presence 具象化，"At last"把 Sam's anticipation 具象化，为后文 chapters 做铺垫。
 

@@ -24,9 +24,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（We are victorious）+ 语气词（thank the spirits）+ 主系表（I am not found liable for fraud）。
 
 **关键词**：
-- `We are victorious`：We are victorious——Clem's relief
-- `thank the spirits`：thank the spirits——Clem's gratitude
-- `not found liable for fraud`：not found liable for fraud——Clem's verdict
 
 **为什么这样写**：用 "We are victorious"把 Clem's relief 具象化，"thank the spirits"把 Clem's gratitude 具象化，为后文 "the judge has seen fit... to set me a test" 做铺垫。
 
@@ -39,9 +36,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（And, even better, the judge has seen fit (with some gentle provocation) to set me a test）+ 条件句（If I 'acquire' a thew by the end of the month, he will encourage Commonwealth to admit women）。
 
 **关键词**：
-- `set me a test`：set me a test——Clem's task
-- `acquire a thew`：acquire a thew——Clem's task
-- `encourage Commonwealth to admit women`：encourage Commonwealth to admit women——Clem's goal
 
 **为什么这样写**：用 "set me a test"把 Clem's task 具象化，"acquire a thew"把 task 具象化为 spirit journey，为后文 "I recognize the time constraint" 做铺垫。
 
@@ -54,8 +48,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（I recognize the time constraint）+ 转折（but you and I both know what he does not）+ 主谓宾（we are running out of time regardless）。
 
 **关键词**：
-- `recognize the time constraint`：recognize the time constraint——Clem's awareness
-- `we are running out of time regardless`：we are running out of time——Clem's urgency
 
 **为什么这样写**：用 "recognize the time constraint"把 Clem's awareness 具象化，"we are running out of time regardless"把 Clem's urgency 具象化，为后文 "Even better, a young man I met at Commonwealth, Walter Ainsley, has written" 做铺垫。
 
@@ -68,9 +60,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（Even better, a young man I met at Commonwealth, Walter Ainsley, has written, proposing an introduction to Wister Amsel）+ 定语从句（a woman enchanter who traveled to the realm decades ago）+ 主谓宾（She will know a portal, Mother）。
 
 **关键词**：
-- `Walter Ainsley, has written, proposing an introduction to Wister Amsel`：Walter Ainsley has written——Clem's good news
-- `a woman enchanter who traveled to the realm decades ago`：a woman enchanter——Wister Amsel's identity
-- `She will know a portal`：She will know a portal——Wister Amsel's value
 
 **为什么这样写**：用 Walter's letter 把 Wister Amsel 具象化，"a woman enchanter who traveled to the realm decades ago"把 Wister Amsel 具象化为 precedent，"She will know a portal"把 Wister Amsel 具象化为 portal source，为后文 "If I can learn the location from her, we are halfway there" 做铺垫。
 
@@ -83,9 +72,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（Against all this triumph, there was one mishap）+ 主系表（It's possible that Cassandra meant 'armor' in a more prosaic way）+ 主谓宾（At the courthouse, I received another message, this time through pieces of paper folded into sharp points）+ 主谓宾（They wrote across my arms）。
 
 **关键词**：
-- `Against all this triumph, there was one mishap`：Against all this triumph, there was one mishap——Clem's mishap
-- `pieces of paper folded into sharp points`：pieces of paper folded into sharp points——paper attack
-- `They wrote across my arms`：They wrote across my arms——paper attack's message
 
 **为什么这样写**：用 "Against all this triumph, there was one mishap"把 Clem's mishap 具象化，"pieces of paper folded into sharp points"把 paper attack 具象化，"They wrote across my arms"把 paper attack's message 具象化，为后文 "Judge Richardson's thew stopped them" 做铺垫。
 
@@ -98,9 +84,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（Judge Richardson's thew stopped them）+ 主谓宾（so I don't know what the intended message was）+ 时间状语从句（As the papers came near me, they uttered a litany of colorful insults, including 'vile vermin' and 'Spanish hag'）+ 主系表（This enchanter has more vitriol than strategy, it seems）。
 
 **关键词**：
-- `Judge Richardson's thew stopped them`：Judge Richardson's thew stopped them——thew's intervention
-- `vile vermin` and `Spanish hag`：vile vermin and Spanish hag——paper attack's insults
-- `more vitriol than strategy`：more vitriol than strategy——Clem's assessment
 
 **为什么这样写**：用 "Judge Richardson's thew stopped them"把 thew's intervention 具象化，"vile vermin and Spanish hag"把 paper attack's insults 具象化，"more vitriol than strategy"把 Clem's assessment 具象化，为后文 "Whoever he is, he will not stop me" 做铺垫。
 
@@ -113,8 +96,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（Whoever he is, he will not stop me）+ 主谓宾（We triumphed today and we will triumph again）。
 
 **关键词**：
-- `Whoever he is, he will not stop me`：Whoever he is, he will not stop me——Clem's determination
-- `We triumphed today and we will triumph again`：We triumphed today and we will triumph again——Clem's confidence
 
 **为什么这样写**：用 "Whoever he is, he will not stop me"把 Clem's determination 具象化，"We triumphed today and we will triumph again"把 Clem's confidence 具象化，为后文 chapters 做铺垫。
 

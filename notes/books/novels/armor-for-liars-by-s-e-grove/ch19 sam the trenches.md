@@ -24,8 +24,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（The knowledge of Livia's identity had overturned my understanding of Clementine's purpose）。
 
 **关键词**：
-- `knowledge of Livia's identity`：knowledge of Livia's identity——Sam's discovery
-- `overturned my understanding`：overturned my understanding——Sam's realization
 
 **为什么这样写**：用 Sam's realization 把 his understanding 具象化，"overturned"把 Sam's paradigm shift 具象化，为后文 "I had been misled by her innocent appearance" 做铺垫。
 
@@ -38,7 +36,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾。极简。
 
 **关键词**：
-- `would not passively stand by`：would not passively stand by——Sam's agency
 
 **为什么这样写**：用极简句式把 Sam's agency 具象化，"either"把 Sam's action 与 Clem's 连接，为后文 "It was Saturday again, my designated day for leading Maxwell to breadcrumbs" 做铺垫。
 
@@ -51,7 +48,6 @@ start_date: 2026-10-19
 **句子结构**：主系表。极简。
 
 **关键词**：
-- `spiritoscope`：spiritoscope——Maxwell's communication tool
 
 **为什么这样写**：用极简句式把 spiritoscope 具象化，"spiritoscope"把 Sam-Maxwell communication 具象化，为后文 "Sam, thank you" 做铺垫。
 
@@ -64,9 +60,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（He said my name aloud）+ 主系表（and it was curiously thrilling to hear myself addressed in this way）+ 比喻（as if I were truly in the room）。
 
 **关键词**：
-- `S-A-M. Sam.`：S-A-M. Sam.——Sam's name
-- `curiously thrilling`：curiously thrilling——Sam's emotional response
-- `as if I were truly in the room`：as if I were truly in the room——Sam's feeling
 
 **为什么这样写**：用 "curiously thrilling"把 Sam's emotional response 具象化，"as if I were truly in the room"把 Sam's thew state 具象化，为后文 "I could not tell him in so many words" 做铺垫。
 
@@ -79,9 +72,6 @@ start_date: 2026-10-19
 **句子结构**：引语（Sam. Is it the Cisneros Society?）+ 主谓宾（He knew. He knew! No, he suspected）+ 主谓宾（Something had made him suspect the shadowy Cisneros Society—perhaps its very secrecy）+ 主谓宾（and now I gladly confirmed his suspicion）。
 
 **关键词**：
-- `Is it the Cisneros Society?`：Is it the Cisneros Society?——Maxwell's question
-- `He knew. He knew! No, he suspected.`：He knew. He knew! No, he suspected.——Maxwell's state
-- `shadowy Cisneros Society`：shadowy Cisneros Society——Cisneros Society's secrecy
 
 **为什么这样写**：用 Maxwell's question 把 his suspicion 具象化，"He knew. He knew! No, he suspected"把 Maxwell's state 具象化，"perhaps its very secrecy"把 Cisneros Society's secrecy 具象化，为后文 "We have our work cut out for us" 做铺垫。
 
@@ -94,9 +84,6 @@ start_date: 2026-10-19
 **句子结构**：引语（I will be careful. I promise you.）+ 主谓宾（Finally, I assented）+ 引语（Yes）。
 
 **关键词**：
-- `I will be careful`：I will be careful——Maxwell's promise
-- `I promise you`：I promise you——Maxwell's commitment
-- `Finally, I assented. Yes`：Finally, I assented. Yes——Sam's trust
 
 **为什么这样写**：用 Maxwell's promise 把 his commitment 具象化，"Finally, I assented. Yes"把 Sam's trust 具象化，为后文 "Lead on, Sam. I'm ready" 做铺垫。
 
@@ -109,8 +96,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（Norbert Trench, as you may know, worked for the Bank of Boston）+ 主谓宾（Managing the money of others over so many years had left him with a permanently proprietary air）+ 比喻（as if charged by some higher power with managing...）。
 
 **关键词**：
-- `permanently proprietary air`：permanently proprietary air——Norbert's character
-- `as if charged by some higher power`：as if charged by some higher power——Norbert's authority
 
 **为什么这样写**：用 "permanently proprietary air"把 Norbert's character 具象化，"as if charged by some higher power"把 Norbert's authority 具象化，为后文 "I've no doubt that you misrepresented yourself" 做铺垫。
 
@@ -123,8 +108,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（She was Norbert Trench’s spirit thew, a legacy who had been in his family for three generations）+ 主谓宾（She gazed at Rosetta with dull, menacing eyes）。
 
 **关键词**：
-- `legacy who had been in his family for three generations`：legacy who had been in his family for three generations——Principa's origin
-- `dull, menacing eyes`：dull, menacing eyes——Principa's demeanor
 
 **为什么这样写**：用 "legacy who had been in his family for three generations"把 Principa's origin 具象化，"dull, menacing eyes"把 Principa's demeanor 具象化，为后文 "The spirit thew Principa let out a little sigh" 做铺垫。
 
@@ -137,8 +120,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（Clementine's expression shifted to one of distress）+ 引语（You're right that I hadn't considered it. That's very concerning. Perhaps... it would be best to keep some slight…distance from us, for a time）。
 
 **关键词**：
-- `expression shifted to one of distress`：expression shifted to distress——Clem's manipulation
-- `keep some slight…distance from us, for a time`：keep some slight distance——Clem's strategy
 
 **为什么这样写**：用 "expression shifted to one of distress"把 Clem's manipulation 具象化，"keep some slight…distance"把 Clem's strategy 具象化，为后文 "I completely understand, Uncle" 做铺垫。
 
@@ -151,7 +132,6 @@ start_date: 2026-10-19
 **句子结构**：引语（Do you think... that a few more members of the Society will attend the court proceedings?）。
 
 **关键词**：
-- `a few more members of the Society will attend the court proceedings`：a few more members will attend——Maxwell's hope
 
 **为什么这样写**：用 Maxwell's question 把 his hope 具象化，"a few more members of the Society"把 Cisneros Society's exposure 具象化，为后文 chapters 做铺垫。
 

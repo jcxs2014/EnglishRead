@@ -24,8 +24,6 @@ start_date: 2026-10-19
 **句子结构**：时间状语（With the benefit of hindsight, of course）+ 主谓宾（I could see what a fool I'd been...）+ 转折（And so, while I had no wish... some part of me was glad she'd been unmasked）。
 
 **关键词**：
-- `pretend I was something other than myself`：pretend I was something other——Sam 的 own experience
-- `glad she'd been unmasked`：glad she'd been unmasked——Sam's relief
 
 **为什么这样写**：用 Sam's reflection 把 his own "pretend" experience 具象化，"glad she'd been unmasked"把 Sam's relief 具象化，为后文 "But I was mistaken" 做铺垫。
 
@@ -38,8 +36,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（Clem stopped）+ 主谓宾（She spun her cloak into the air overhead, saying 'Endurecer'）+ 时间状语从句（as it whirled, the fabric hardened, becoming a long, rigid shield）+ 主谓宾（She held it before her defensively）。
 
 **关键词**：
-- `Endurecer`：Endurecer——Clem's enchantment spell
-- `fabric hardened, becoming a long, rigid shield`：fabric hardened, becoming a shield——Clem's defense
 
 **为什么这样写**：用 Clem's "Endurecer"把 her enchantment 具象化，"rigid shield"把 her defense 具象化，为后文 Cassandra's appearance 做铺垫。
 
@@ -52,8 +48,6 @@ start_date: 2026-10-19
 **句子结构**：引语（Don't be ridiculous）+ 主谓宾（He turned away, sighing）+ 主谓宾（and then Cassandra stood in his place）+ 引语（You can put that down）。
 
 **关键词**：
-- `the boy`：the boy——Cassandra's disguise
-- `Cassandra stood in his place`：Cassandra stood in his place——Cassandra's transformation
 
 **为什么这样写**：用 "the boy"→"Cassandra"把 Cassandra's shape-shifting 具象化，"dismissively"把 her demeanor 具象化，为后文 "I did you a kindness" 做铺垫。
 
@@ -66,9 +60,6 @@ start_date: 2026-10-19
 **句子结构**：三个引语连用，形成 dialogue。"To protect you"简短而 decisive。
 
 **关键词**：
-- `I did you a kindness`：I did you a kindness——Cassandra's justification
-- `You revealed me`：You revealed me——Clem's accusation
-- `To protect you`：To protect you——Cassandra's rationale
 
 **为什么这样写**：用 dialogue 把 Cassandra-Clem interaction 具象化，"To protect you"把 Cassandra's rationale 具象化，为后文 "The stones will come for you" 做铺垫。
 
@@ -81,7 +72,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾。极简。
 
 **关键词**：
-- `The stones will come for you`：The stones will come for you——Cassandra's warning
 
 **为什么这样写**：用极简句式把 Cassandra's warning 具象化，"stones"把 Clem's danger 具象化为 stoning，为后文 "Take this. For your armor" 做铺垫。
 
@@ -94,9 +84,6 @@ start_date: 2026-10-19
 **句子结构**：引语（Take this）+ 主谓宾（Cassandra swept close to Clem and placed a small, gray lump in her palm）+ 引语（For your armor）+ 主谓宾（she gripped her chest and gasped, seized by a sudden pain）+ 引语（I must go / He calls me back）。
 
 **关键词**：
-- `small, gray lump`：small, gray lump——Cassandra's gift
-- `For your armor`：For your armor——gift's purpose
-- `He calls me back`：He calls me back——Cassandra's master's control
 
 **为什么这样写**：用 "small, gray lump"把 Cassandra's gift 具象化，"He calls me back"把 Cassandra's bondage 具象化，暗示 Cassandra's agency despite bondage。
 
@@ -109,8 +96,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（I hoped fervently that the strange gift from Cassandra would indeed provide some protection）+ 转折（but as yet I couldn't see how）。
 
 **关键词**：
-- `hoped fervently`：hoped fervently——Sam's hope
-- `couldn't see how`：couldn't see how——Sam's uncertainty
 
 **为什么这样写**：用 Sam's hope 与 uncertainty 具象化，"couldn't see how"把 Sam's uncertainty 具象化，为后文 Clem's "I failed" 做铺垫。
 
@@ -123,8 +108,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（They were sisters）+ 主谓宾（I could see this now, the clear resemblance in their wide brown eyes, arched brows, and slightly long faces）。
 
 **关键词**：
-- `They were sisters`：They were sisters——Clem/Rosie's relation
-- `clear resemblance`：clear resemblance——Sam's observation
 
 **为什么这样写**：用 Sam's discovery 把 Clem/Rosie's relation 具象化，"clear resemblance"把 their sisterhood 具象化，为后文 "Their absence made their absence greater" 做铺垫。
 
@@ -137,8 +120,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（Clem sat back, chewing）+ 引语（What a devil!）+ 主谓宾（Rosie replied, still looking worried）+ 引语（I wish she'd explained herself more）。
 
 **关键词**：
-- `What a devil!`：What a devil!——Clem's reaction
-- `I wish she'd explained herself more`：I wish she'd explained herself more——Rosie's concern
 
 **为什么这样写**：用 dialogue 把 Clem/Rosie's reaction 具象化，"What a devil!"把 Cassandra 具象化为 ambiguous ally，为后文 "The stones will come for you" 做铺垫。
 
@@ -151,9 +132,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾（And suddenly I saw it）+ 重复（That face. That face.）+ 主谓宾（I stared at the painting, wondering...）+ 转折（But no, of course it could not be）+ 主系表（Their features were unmistakably identical）+ 主系表（The woman in the painting... was the same woman I'd seen two days earlier...）+ 主系表（She was Livia, Professor Throckmorton's spirit thew）。
 
 **关键词**：
-- `That face. That face.`：That face. That face.——Sam's recognition
-- `unmistakably identical`：unmistakably identical——Sam's certainty
-- `She was Livia, Professor Throckmorton's spirit thew`：She was Livia——Sam's revelation
 
 **为什么这样写**：用 "That face. That face."把 Sam's recognition 具象化，"unmistakably identical"把 Sam's certainty 具象化，"She was Livia"把 revelation 具象化，为后文 chapters 做铺垫。
 

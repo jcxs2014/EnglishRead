@@ -24,8 +24,6 @@ start_date: 2026-10-19
 **句子结构**：主句 + 两个形容词短语作同位语（a taciturn but responsible man）+ 定语从句（who never indulged in drink）+ 动词短语（took the twisting path westward at a moderate pace）。长定语把人物性格压在动词之前，节奏缓慢，与"moderate pace"呼应。
 
 **关键词**：
-- `taciturn`（形容词）：寡言的——Platt 的性格底色，与后文他"spoke forcefully"形成反差
-- `moderate pace`（名词短语）：中等速度——与后文"abrupt halt"的节奏突变呼应
 
 **为什么这样写**：以平凡人物与平凡节奏开场，随后的超自然事件才更有冲击力。Platt 的可靠与寡言，使他后来的暴怒与反抗显得更真实。
 
@@ -38,8 +36,6 @@ start_date: 2026-10-19
 **句子结构**：时间状语（In the fading light）+ 主谓宾 + until 引导的时间从句。"didn't see ... until"结构把认知延迟化，制造悬念。
 
 **关键词**：
-- `fading light`：渐暗的光线——暮色既是物理条件，也是主题隐喻（真相被遮蔽）
-- `figure`：人影/身影——中性词，保留"人还是物"的悬疑
 
 **为什么这样写**：把"看见"推迟到"几乎撞上"，让读者与 Platt 同时陷入措手不及。这是悬念写作的基本技巧：先抛出危机，再逐步揭示。
 
@@ -52,9 +48,6 @@ start_date: 2026-10-19
 **句子结构**：三个分号连接的分句，形成排比递进：① evenings are apt to distort and conceal；② presence and absence cannot be counted on；③ innocent/menacing 的互换。第三个分句用 may ... appear ... and ... may appear ... 的对称结构。
 
 **关键词**：
-- `distort and conceal`：扭曲与遮蔽—— applies to both vision and truth
-- `presence and absence`：存在与不存在——小说中灵体/thew 的核心二元
-- `menacing`：危险的——与 innocent 互换，预言人物身份的不可靠
 
 **为什么这样写**：把暮色的视觉不确定性提升为认识论命题，为全书"灵体/真实身份"的主题埋伏笔。这句话也解释了后文 Platt 对女灵的误判与 Lydia 的选择。
 
@@ -67,8 +60,6 @@ start_date: 2026-10-19
 **句子结构**：主系表（It was a woman）+ 两个独立分词短语作伴随状语（her long white dress ...；her downturned face ...）。视觉细节堆叠，但不解释身份。
 
 **关键词**：
-- `shapeless and vast`：无形状而巨大——白裙的视觉压迫感
-- `obscured`：遮蔽——身份被遮，呼应上句"conceal"
 
 **为什么这样写**：用身体与衣着的细节制造"非人/超人"的模糊感。读者先看到"女人"，再通过 dress/face 的描写感到不对劲，与 Platt 的认知同步。
 
@@ -81,8 +72,6 @@ start_date: 2026-10-19
 **句子结构**：主句（Platt would wonder）+ if 引导的条件从句（might yet have acted in time）+ had given greater rein to ... + 两个定语从句（that he relied on implicitly / that had saved him many times while driving）。嵌套条件，时间层次复杂。
 
 **关键词**：
-- `unthinking instincts`：不假思索的本能——Platt 的职业经验，与后文"rage"的冲动形成对比
-- `greater rein`：更大的自由/放手——Platt 自责的焦点
 
 **为什么这样写**：用 hindsight 叙述把 Platt 的职业经验（驾车本能）与他的失败（没及时推 spirit）并置，暗示职业本能本可救他，但被"理性谨慎"拖慢。这也预示后文他最终用"rage"而非"instinct"行动。
 
@@ -95,9 +84,6 @@ start_date: 2026-10-19
 **句子结构**：第一句主谓宾 + 两个形容词 + 不定式短语（spoke with assurance）。引语 "But I am not." 短促，与 "She's alive!" 形成直接反驳。第三句并列分句（smiled, opening her eyes fully, and her entire aspect changed）。
 
 **关键词**：
-- `rich and resonant`：丰富而洪亮——女灵声音的质感，与"low voice"呼应
-- `surprising assurance`：出人意料的自信——reveal 的节奏
-- `But I am not.`：简短的否定——thew 的身份宣言
 
 **为什么这样写**：用短引语 "But I am not." 制造反转，把 Mrs. Quinn 的"她活着"直接推翻。"entire aspect changed"把灵体 reveal 视觉化，与后文 underwater imagery 连接。
 
@@ -110,9 +96,6 @@ start_date: 2026-10-19
 **句子结构**：主谓宾 + 两个独立分词短语作伴随状语（her hair and dress billowing ...；her white skin shining ...）。两个 as 比较从句（as they would have underwater / as if struck by sunlight beneath ocean waves）。
 
 **关键词**：
-- `floated inches above`：浮在地面几英寸——thew 的非人状态
-- `billowing`：鼓动/翻涌——水下意象
-- `as if struck by sunlight beneath ocean waves`：像被水下阳光照耀——超自然光影
 
 **为什么这样写**：用水下意象把灵体"非人"化，同时保留美感。thew 不是恐怖怪物，而是有吸引力的超自然存在，这与后文 Lydia 的"请让我代"形成道德张力。
 
@@ -125,9 +108,6 @@ start_date: 2026-10-19
 **句子结构**：并列分句（knees buckled and he fell）+ 伴随分词短语（his hands covering his mouth）+ 定语从句（which streamed dark blood）。"dark blood"与"streamed"形成画面。
 
 **关键词**：
-- `knees buckled`：膝盖软了——无力/恐惧的生理反应
-- `streamed dark blood`：涌出黑血——enchanter 惩罚的残酷性
-- `covering his mouth`：捂住嘴——Platt 失去说话能力的具象
 
 **为什么这样写**：把 enchanter 的"twist fingers"惩罚具象化，展示魔法暴力的直接性。Platt 的"rage"与"tongue"被夺，形成"说/不说"的权力主题。
 
@@ -140,8 +120,6 @@ start_date: 2026-10-19
 **句子结构**：引语 + 说话标签（she whispered）+ 引语。"let it be me instead" 简短而决绝。
 
 **关键词**：
-- `whispered`：低声——Lydia 的谦卑与决绝
-- `instead`：代之——自我牺牲的核心词
 
 **为什么这样写**：用最简短的引语承载最大的情感重量。Lydia 的"instead"把全章的道德张力（孩子 vs 母亲）推向顶点，也为后文"seven days"的代价埋下伏笔。
 
@@ -154,7 +132,6 @@ start_date: 2026-10-19
 **句子结构**：名词短语，独立成句。极简。
 
 **关键词**：
-- `seven days`：七天——Lydia 的生命期限，也是全书时间结构的锚点（Clem 的信 dated Sep 15 等）
 
 **为什么这样写**：用极短句制造冲击。thew 从"pity"的语气转为冷静的期限宣告，把超自然的"契约"具象为时间。这句话也解释了 Lydia "did not fight the illness"——她接受了七日之限。
 
