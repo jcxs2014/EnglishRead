@@ -851,7 +851,7 @@ start_date: 2026-10-19
 **句子结构**：简单陈述句。
 
 **关键词**：
-- `gasps when I turn to Odette, who is sprawled over the bed`：gasps when turn to Odette, sprawled over bed——shock
+- `gasp when I turn to Odette, who is sprawled over the bed`：gasp when turn to Odette, sprawled over bed——shock
 - `Foam dribbles down her chin`：foam dribbles——suicide
 
 **为什么这样写**：Odette’s corpse shows her (limited) suicide—she overdosed, like Don Julián。
