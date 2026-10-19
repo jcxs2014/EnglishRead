@@ -179,7 +179,7 @@ check_vocab FAIL=0（10 WARN 提示型）｜corruption_scan 0 ✅｜overview_quo
 - 工具假警报：gate.sh 的 ③ check_entities 退出码 2 会触发「中途中止」（脚本其实跑完 19 lane）⇒ 已修，逐行对照 0 差异
 - 门禁（完整 lane，epub）：gate.sh 退出码 0（19 lane 0 阻断型）｜总览引文 47/47（100%，🔶 0）｜金句 35/35｜情感节点 12/12｜check_overview_labels 48/48 逐字、待人判 0｜中文层 夹杂 14% / 阻断 0 / 提示 24｜verify_quotes 195/197｜check_vocab FAIL 0｜corruption 0｜逐章归属 152/152｜sweep_full 0 查无｜空段扫描 0
 - ⚠️ 跳过型：③ check_entities 报「无法判定」（口径只认「故事梗概 / 本章导航」，非虚构书用「概览 / 全书梗概」）⇒ 实体层未核，不是干净
-- commits：完工 16 笔（Commandcode-Mac）+ 续修 8 笔（d39270118 / 4952328a0 / e6ca8163c / ed0050643 / 07b5bcb4c / 3f5bd177c / 0f80ab3f5 + 板日志），全部未 push
+- commits：完工 16 笔（Commandcode-Mac）+ 续修 9 笔（d39270118 / 4952328a0 / e6ca8163c / ed0050643 / 07b5bcb4c / 3f5bd177c / 0f80ab3f5 / 17fbf6564 + 板日志），全部未 push
 - 明细：.memory/daily/2026-10-19.md（本书专节，含逐条清单与四档定性）；门禁原件 .memory/raw-gates/captain-s-dinner-by-adam-cohen/
 
 ### [2026-10-19 11:44 UTC] [Commandcode-Mac] → All
