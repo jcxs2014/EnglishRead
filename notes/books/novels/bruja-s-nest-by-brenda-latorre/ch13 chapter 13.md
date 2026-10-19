@@ -33,9 +33,9 @@ start_date: 2026-10-19
 
 > **原句 2:** "I make a small bow. Odette turns her head to her left and then back at me."
 
-**中文理解**：Yolanda bows to Odette—shows deference. Odette’s "Going somewhere?" with watch-glance shows suspicion/contempt。
+**中文理解**：显示 Yolanda bows to Odette—shows deference. Odette’s "Going somewhere?" with watch-glance shows suspicion/contempt。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `small bow`：小鞠躬——deference
@@ -47,7 +47,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "“Going somewhere?” She glances at her watch. “Last time I checked, people weren’t dismissed until eight.”"
 
-**中文理解**：Odette’s "Going somewhere?" + watch glance—shows her contempt and surveillance. "People weren’t dismissed until eight" treats Yolanda as staff, not family。
+**中文理解**：显示 Odette’s "Going somewhere?" + watch glance—shows her contempt and surveillance. "People weren’t dismissed until eight" treats Yolanda as staff, not family。
 
 **句子结构**：引语 + 叙述者评注 + 引语。
 
@@ -61,7 +61,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "“I’m going to take a bath,” I say, because I’m tired."
 
-**中文理解**：Yolanda’s excuse—"I’m going to take a bath"—because tired. "I’ve run out of steam to fight." Shows exhaustion and resignation。
+**中文理解**：显示 Yolanda’s excuse—"I’m going to take a bath"—because tired. "I’ve run out of steam to fight." Shows exhaustion and resignation。
 
 **句子结构**：引语 + 从句（because I’m tired）。
 
@@ -75,7 +75,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "“Compermiso,” I say, and my engorged belly helps me make my way through the middle of the line, between Odette and Javier."
 
-**中文理解**：Yolanda’s "Compermiso" (excuse me) + engorged belly helps her through line. Shows pregnancy as social tool—belly commands space。
+**中文理解**：显示 Yolanda’s "Compermiso" (excuse me) + engorged belly helps her through line. Shows pregnancy as social tool—belly commands space。
 
 **句子结构**：引语 + 从句（and my engorged belly helps...）。
 
@@ -89,9 +89,9 @@ start_date: 2026-10-19
 
 > **原句 6:** "Out in the garden, the door of the shed is stuck."
 
-**中文理解**：Shed door stuck—humidity expanded wood. Yolanda pulls with force. Shows her urgency to check egg。
+**中文理解**：显示 Shed door stuck—humidity expanded wood. Yolanda pulls with force. Shows her urgency to check egg。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `door of the shed is stuck`：shed 门卡住了——humidity
@@ -103,9 +103,9 @@ start_date: 2026-10-19
 
 > **原句 7:** "Slowly I remove the blanket. There it is: my egg. I lift it, and it moves."
 
-**中文理解**：Yolanda checks egg—"my egg. I lift it, and it moves." Shows maternal connection. "As if it knows I’m Mamá." anthropomorphizes egg。
+**中文理解**：显示 Yolanda checks egg—"my egg. I lift it, and it moves." Shows maternal connection. "As if it knows I’m Mamá." anthropomorphizes egg。
 
-**句子结构**：三句话。
+**句子结构**：三句话：Slowly I remove the blanket. + There it is: my egg. + I lift it, and it moves.
 
 **关键词**：
 - `my egg. I lift it, and it moves`：我的蛋，我抬起它，它动了——maternal connection
@@ -117,9 +117,9 @@ start_date: 2026-10-19
 
 > **原句 8:** "The door below creaks open."
 
-**中文理解**：Door creaks—Javier arrives. Yolanda hides egg. "I do my best to drop the egg back in the box without damaging it." Shows protective instinct。
+**中文理解**：显示 Door creaks—Javier arrives. Yolanda hides egg. "I do my best to drop the egg back in the box without damaging it." Shows protective instinct。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `door below creaks open`：下面的门吱吱作响——Javier arrives
@@ -131,7 +131,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "“I thought you were going to take a bath?” Javier pinches his mustache and twirls it."
 
-**中文理解**：Javier’s "I thought you were going to take a bath?"—shows his surveillance. "Pinches his mustache and twirls it" shows his nervous habit。
+**中文理解**：显示 Javier’s "I thought you were going to take a bath?"—shows his surveillance. "Pinches his mustache and twirls it" shows his nervous habit。
 
 **句子结构**：引语 + 动作（pinches his mustache...）。
 
@@ -145,7 +145,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "“There are some matters doctors cannot tend to. Like the matters of the heart.”"
 
-**中文理解**：Javier’s "matters of the heart"—euphemism for emotional/romantic. "He loves mocking me." Shows his condescension。
+**中文理解**：显示 Javier’s "matters of the heart"—euphemism for emotional/romantic. "He loves mocking me." Shows his condescension。
 
 **句子结构**：两句话：引语 + 叙述者评注。
 
@@ -159,7 +159,7 @@ start_date: 2026-10-19
 
 > **原句 11:** "“Thank you for your kindness, Javier. I’ll be right there.”"
 
-**中文理解**：Yolanda’s "Thank you for your kindness, Javier."—performative gratitude. "I’ll be right there." Shows compliance。
+**中文理解**：显示 Yolanda’s "Thank you for your kindness, Javier."—performative gratitude. "I’ll be right there." Shows compliance。
 
 **句子结构**：引语 + 引语。
 
@@ -173,9 +173,9 @@ start_date: 2026-10-19
 
 > **原句 12:** "“It’s still Señor Javier, you know?” ... “According to who?” ... “To me. I love it when you call me that.” He winks and leaves before I can reply."
 
-**中文理解**：Javier’s "It’s still Señor Javier"—demands respect. "I love it when you call me that." Shows his enjoyment of power. "He winks and leaves" shows his dismissal。
+**中文理解**：显示 Javier’s "It’s still Señor Javier"—demands respect. "I love it when you call me that." Shows his enjoyment of power. "He winks and leaves" shows his dismissal。
 
-**句子结构**：三句话。
+**句子结构**：三句话：It’s still Señor Javier... + According to who? + To me. I love it when you call me that.
 
 **关键词**：
 - `It’s still Señor Javier`：还是 Señor Javier——demand for respect
@@ -188,7 +188,7 @@ start_date: 2026-10-19
 
 > **原句 13:** "“Itzco!” I run down the stairs and hug him."
 
-**中文理解**：Yolanda hugs Itzco—"I’ve finally come to like him." Shows her growing affection. Itzco’s "This is a bad place for a mother" shows his concern。
+**中文理解**：显示 Yolanda hugs Itzco—"I’ve finally come to like him." Shows her growing affection. Itzco’s "This is a bad place for a mother" shows his concern。
 
 **句子结构**：引语 + 动作（I run down the stairs and hug him）。
 
@@ -202,7 +202,7 @@ start_date: 2026-10-19
 
 > **原句 14:** "“This is a bad place for a mother. For anyone, but it’s worse for a mom.”"
 
-**中文理解**：Itzco’s "This is a bad place for a mother"—shows his concern for Yolanda/Panchito. "He’s been taking better care of me since I got him his nightly visits with Valentín." Shows transactional care。
+**中文理解**：显示 Itzco’s "This is a bad place for a mother"—shows his concern for Yolanda/Panchito. "He’s been taking better care of me since I got him his nightly visits with Valentín." Shows transactional care。
 
 **句子结构**：问句 + 引语。
 
@@ -216,9 +216,9 @@ start_date: 2026-10-19
 
 > **原句 15:** "“I thought you were going to take a bath?”"
 
-**中文理解**：Javier’s "I thought you were going to take a bath?"—shows his unexpected arrival. Yolanda hides egg. "A sigh escapes me." Shows her frustration.
+**中文理解**：显示 Javier’s "I thought you were going to take a bath?"—shows his unexpected arrival. Yolanda hides egg. "A sigh escapes me." Shows her frustration.
 
-**句子结构**：简单问句。
+**句子结构**：简单问句，疑问词引导。
 
 **关键词**：
 - `I thought you were going to take a bath?`：我以为你要洗澡？——surveillance
@@ -229,9 +229,9 @@ start_date: 2026-10-19
 
 > **原句 16:** "While I stand there, hovering over Valentín, a contraction hits my womb."
 
-**中文理解**：Yolanda’s "A contraction hits my womb."—shows her body’s reaction to stress. "It’s as if my body has forgotten it already gave birth."
+**中文理解**：显示 Yolanda’s "A contraction hits my womb."—shows her body’s reaction to stress. "It’s as if my body has forgotten it already gave birth."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `A contraction hits my womb`：宫缩袭击我的子宫——stress reaction
