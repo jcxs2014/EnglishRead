@@ -46,7 +46,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "“There’s something rotten inside you. Podrido,” I hear Mamá say."
 
-**中文理解**：Mamá’s voice echoing—"something rotten inside you. Podrido" (rotten)—shows Yolanda’s internalized shame. Mamá’s demonization becomes Yolanda’s self-perception。
+**中文理解**：Mamá 的声音回响——"something rotten inside you. Podrido"（腐烂）——显示 Yolanda 的 internalized shame。Mamá 的 demonization 成为 Yolanda 的 self-perception。
 
 **句子结构**：引语 + "I hear Mamá say"。
 
@@ -88,7 +88,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "“Come inside,” she rasps."
 
-**中文理解**：Cesarea’s "Come inside" invitation—her raspy voice adds eeriness. Yolanda follows despite fear。
+**中文理解**：Cesarea 的 "Come inside" invitation——她的 raspy voice 增添 eeriness。Yolanda 尽管 fear 仍跟随。
 
 **句子结构**：引语 + 叙述者评注（she rasps）。
 
@@ -101,7 +101,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "“Worry not,” she says. “These are friendly spirits.”"
 
-**中文理解**：Cesarea’s reassurance—"These are friendly spirits"—about jumping gravel. Yolanda rationalizes (chapulines), but Cesarea frames as spirits。
+**中文理解**：Cesarea 的 reassurance——"These are friendly spirits"——关于 jumping gravel。Yolanda rationalizes (chapulines)，但 Cesarea frames as spirits。
 
 **句子结构**：两句话：安慰（Worry not）+ 解释（These are friendly spirits）。
 
@@ -114,7 +114,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "“First, a limpia. Extend your arms.”"
 
-**中文理解**：Cesarea’s "limpia" (cleansing ritual)—"Extend your arms" is command. Yolanda obeys, showing submission to bruja’s authority。
+**中文理解**：Cesarea 的 "limpia"（cleansing ritual）——"Extend your arms" 是 command。Yolanda 服从，显示 submission to bruja’s authority。
 
 **句子结构**：两句话：声明（First, a limpia）+ 命令（Extend your arms）。
 
@@ -128,7 +128,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "“Look. This is what you carried.”"
 
-**中文理解**：Cesarea shows egg with black mass—"This is what you carried." Yolanda is disturbed but rationalizes (egg was altered beforehand)。
+**中文理解**：Cesarea 显示 egg with black mass——"This is what you carried." Yolanda disturbed 但 rationalizes (egg was altered beforehand)。
 
 **句子结构**：两句话：命令（Look）+ 声明（This is what you carried）。
 
@@ -141,7 +141,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "“What brings you here, mi niña?” Her words warm me. It’s been too long since anybody has called me “niña.”"
 
-**中文理解**：Cesarea’s "mi niña" (my girl) warms Yolanda—"It’s been too long since anybody has called me 'niña.'" Shows Yolanda’s emotional starvation (Mamá’s absence of affection)。
+**中文理解**：Cesarea 的 "mi niña"（my girl）warms Yolanda——"It’s been too long since anybody has called me 'niña.'" 显示 Yolanda’s emotional starvation（Mamá’s absence of affection）。
 
 **句子结构**：引语 + 叙述者评注（Her words warm me...）。
 
@@ -155,9 +155,9 @@ start_date: 2026-10-19
 
 > **原句 11:** "“I think my position at the hacienda may be in danger.”"
 
-**中文理解**：Yolanda’s stated concern—her "position may be in danger" (after lying about Itzco, fearing retaliation). But Cesarea reads deeper: "So soon?"
+**中文理解**：Yolanda 的 stated concern——她的 "position may be in danger"（lying about Itzco 后，fearing retaliation）。但 Cesarea reads deeper："So soon?"
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主语 I + 谓语 think + 宾语从句 my position at the hacienda may be in danger。
 
 **关键词**：
 - `position at the hacienda may be in danger`：在 hacienda 的职位可能危险——Yolanda’s fear
@@ -168,7 +168,7 @@ start_date: 2026-10-19
 
 > **原句 12:** "“As a maid?” Cesarea stands up from the mattress and walks to the window to stare at the dark night through the gap between the boards."
 
-**中文理解**：Cesarea’s "As a maid?" questions Yolanda’s ambition—she sees through "position in danger" to "want to be señora." "Stare at the dark night" shows Cesarea’s contemplation。
+**中文理解**：Cesarea 的 "As a maid?" questions Yolanda’s ambition——她 see through "position in danger" to "want to be señora"。"Stare at the dark night" 显示 Cesarea’s contemplation。
 
 **句子结构**：引语 + 动作（Cesarea stands up... walks to the window...）。
 
@@ -182,7 +182,7 @@ start_date: 2026-10-19
 
 > **原句 13:** "“All I ever wanted was to be successful. I studied hard. I did everything one is supposed to do. What else can I do?”"
 
-**中文理解**：Yolanda’s self-justification—"I studied hard. I did everything one is supposed to do."—shows her meritocratic belief. "What else can I do?" is desperation。
+**中文理解**：Yolanda 的 self-justification——"I studied hard. I did everything one is supposed to do."——显示她的 meritocratic belief。"What else can I do?" 是 desperation。
 
 **句子结构**：四句话：声明（All I ever wanted...）+ 证据（I studied hard. I did everything...）+ 问句（What else can I do?）。
 
@@ -196,7 +196,7 @@ start_date: 2026-10-19
 
 > **原句 14:** "“If I’m the señora, I could travel the world. Show Mamá I made it. My hands would become soft, and my back would stop hurting. I wouldn’t worry about food or a roof over my head, or all that nonsense.”"
 
-**中文理解**：Yolanda’s fantasy of being señora—travel, show Mamá, soft hands, no worry. "All that nonsense" dismisses labor concerns. This is her ultimate desire。
+**中文理解**：Yolanda 的 fantasy of being señora——travel，show Mamá，soft hands，no worry。"All that nonsense" dismisses labor concerns。这是她的 ultimate desire。
 
 **句子结构**：条件句（If I’m the señora...）+ 并列愿望。
 
@@ -210,7 +210,7 @@ start_date: 2026-10-19
 
 > **原句 15:** "“Why don’t you steal some stuff and try your luck in the city? Isn’t that what most of you do? Isn’t that why people disappear without a trace after working at the hacienda?”"
 
-**中文理解**：Cesarea’s suggestion—steal and flee to city. "Isn’t that why people disappear without a trace" reveals hacienda’s dark history (staff vanish). Yolanda rejects: "I want to stay here."
+**中文理解**：Cesarea 的 suggestion——steal and flee to city。"Isn’t that why people disappear without a trace" reveals hacienda’s dark history (staff vanish)。Yolanda rejects："I want to stay here"。
 
 **句子结构**：三问连发：Why don’t you steal...? Isn’t that what most of you do? Isn’t that why people disappear...?
 
@@ -224,7 +224,7 @@ start_date: 2026-10-19
 
 > **原句 16:** "“I want to get pregnant,” I tell her. “But this is all I have.” I show her the crystal angel I stole from Altagracia’s room, hoping it’s enough."
 
-**中文理解**：Yolanda’s confession—"I want to get pregnant"—and payment (stolen crystal angel). "Hoping it’s enough" shows her desperation。
+**中文理解**：Yolanda 的 confession——"I want to get pregnant"——and payment (stolen crystal angel)。"Hoping it’s enough" 显示她的 desperation。
 
 **句子结构**：引语 + 引语 + 动作（I show her...）。
 
@@ -238,9 +238,9 @@ start_date: 2026-10-19
 
 > **原句 17:** "“This is worthless, niña.”"
 
-**中文理解**：Cesarea’s dismissal—"This is worthless"—shows the angel’s (and Alta’s) value is nil to bruja. "Niña" is affectionate but firm。
+**中文理解**：Cesarea 的 dismissal——"This is worthless"——显示 angel（和 Alta）的 value 对 bruja 为 nil。"Niña" 是 affectionate but firm。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主语 This + 系动词 is + 表语 worthless。
 
 **关键词**：
 - `worthless`：毫无价值的——Cesarea’s assessment
@@ -251,7 +251,7 @@ start_date: 2026-10-19
 
 > **原句 18:** "“I’ll only help you ’cause I like you.”"
 
-**中文理解**：Cesarea’s "I’ll only help you ’cause I like you"—affection as motivation. Shows bruja’s humanity beneath her power。
+**中文理解**：Cesarea 的 "I’ll only help you ’cause I like you"——affection as motivation。Shows bruja’s humanity beneath her power。
 
 **句子结构**：引语。
 
@@ -264,7 +264,7 @@ start_date: 2026-10-19
 
 > **原句 19:** "“I knew he’d come in handy.” She lifts the rooster’s cage and shakes it, causing the poor animal to caw."
 
-**中文理解**：Cesarea’s "I knew he’d come in handy"—the rooster (from butcher) is for sacrifice. "Poor animal to caw" shows its suffering。
+**中文理解**：Cesarea 的 "I knew he’d come in handy"——the rooster (from butcher) is for sacrifice。"Poor animal to caw" 显示 its suffering。
 
 **句子结构**：引语 + 两句话：She lifts... shakes it... causing...。
 
@@ -278,7 +278,7 @@ start_date: 2026-10-19
 
 > **原句 20:** "“Take off your dress.”"
 
-**中文理解**：Cesarea’s command—"Take off your dress."—Yolanda obeys, showing submission to ritual. "Grateful for shadows" shows her modesty/vulnerability。
+**中文理解**：Cesarea 的 command——"Take off your dress."——Yolanda obeys，显示 submission to ritual。"Grateful for shadows" 显示她的 modesty/vulnerability。
 
 **句子结构**：简单祈使句。
 
@@ -291,7 +291,7 @@ start_date: 2026-10-19
 
 > **原句 21:** "“You’re not feeling the pain, mi niña. Focus.”"
 
-**中文理解**：Cesarea’s "Focus" during cutting—Yolanda must feel pain for ritual to work. "You’re not feeling the pain" shows Cesarea’s assessment of Yolanda’s dissociation。
+**中文理解**：Cesarea 的 "Focus" during cutting——Yolanda must feel pain for ritual to work。"You’re not feeling the pain" 显示 Cesarea’s assessment of Yolanda’s dissociation。
 
 **句子结构**：两句话：声明（You’re not feeling the pain）+ 命令（Focus）。
 
@@ -305,7 +305,7 @@ start_date: 2026-10-19
 
 > **原句 22:** "“Push, Yolanda!”"
 
-**中文理解**：Cesarea’s "Push, Yolanda!"—mimics childbirth. Yolanda pushes, showing her commitment to ritual despite fear。
+**中文理解**：Cesarea 的 "Push, Yolanda!"——mimics childbirth。Yolanda pushes，显示她的 commitment to ritual despite fear。
 
 **句子结构**：祈使句。
 
@@ -318,7 +318,7 @@ start_date: 2026-10-19
 
 > **原句 23:** "“You must lie with him tonight. Wear the shadow of the moon as your blanket. The darkness in the sky will be your cloak. You mustn’t wait till morn.”"
 
-**中文理解**：Cesarea’s final instruction—"lie with him tonight"—with poetic imagery ("shadow of the moon as your blanket"). Yolanda must seduce Valentín tonight。
+**中文理解**：Cesarea 的 final instruction——"lie with him tonight"——with poetic imagery ("shadow of the moon as your blanket")。Yolanda must seduce Valentín tonight。
 
 **句子结构**：四句话：命令（You must lie with him tonight）+ 两比喻（Wear the shadow... The darkness...）+ 命令（You mustn’t wait till morn）。
 
@@ -333,7 +333,7 @@ start_date: 2026-10-19
 
 > **原句 24:** "“Good luck, niña,” she says, and gestures for me to leave."
 
-**中文理解**：Cesarea’s "Good luck, niña"—final blessing. "Gestures for me to leave" shows ritual’s end. Yolanda must now act。
+**中文理解**：Cesarea 的 "Good luck, niña"——final blessing。"Gestures for me to leave" 显示 ritual’s end。Yolanda must now act。
 
 **句子结构**：引语 + 两句话：She says... and gestures...。
 
