@@ -81,9 +81,9 @@ modified: "2026-10-19"
 
 ---
 
-> **原句 6:** “Same material.” Erickson closed his eyes, no doubt thinking the same thing as Shelby was. That the number of jerseys hanging in closets all around Locust Grove just doubled, or more. … “Maybe they would have to round up every single jersey in Locust Grove.”
+> **原句 6:** “Same material.” Erickson closed his eyes, no doubt thinking the same thing as Shelby was. That the number of jerseys hanging in closets all around Locust Grove just doubled, or more.
 
-**中文理解**：Erickson 说：“Same material。”Erickson closed his eyes, no doubt thinking the same thing as Shelby was。That the number of jerseys hanging in closets all around Locust Grove just doubled, or more。…“Maybe they would have to round up every single jersey in Locust Grove.”
+**中文理解**：Erickson 说：“Same material。”Erickson closed his eyes, no doubt thinking the same thing as Shelby was。That the number of jerseys hanging in closets all around Locust Grove just doubled, or more。
 
 **关键词**：Same material／number of jerseys hanging in closets all around Locust Grove just doubled／round up every single jersey
 

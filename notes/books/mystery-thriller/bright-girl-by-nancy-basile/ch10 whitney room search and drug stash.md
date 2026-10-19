@@ -7,7 +7,7 @@ modified: "2026-10-19"
 
 ## 本章导航
 
-- **一句话概括**：Shelby 与 Erickson 在 Chandler 家搜查 Whitney 房间，从 Polaroids 与 “red jerseys” 照片推进到床底/灯座里藏匿的药片与翻盖手机，最终在家长面前摊开 “Whitney was dealing” 的事实，Mr. Chandler 拒绝接受并威胁请律师。
+- **一句话概括**：Shelby 与 Erickson 在 Chandler 家搜查 Whitney 房间，从 Polaroids 与 “red jerseys” 照片推进到灯座里藏匿的药片与翻盖手机，最终在家长面前摊开 “Whitney was dealing” 的事实，Mr. Chandler 拒绝接受并威胁请律师。
 
 - **情感弧线位置**：全书的 “search & reveal” 格：从 “room as expected” 走到 “stash in the lamp”，Shelby 的 “stress drawing her muscles tight as a tripwire” 把 “murderer slipping away” 的焦虑推到前台，Mr. Chandler 的 “You’re lying” 把 “wholesome image” 与 “hidden life” 的 tension 立住。
 
@@ -210,4 +210,4 @@ modified: "2026-10-19"
 | room | 房间 | Whitney’s room was exactly what Shelby expected it to be. |
 
 ## 一句话总结
-Shelby 与 Erickson 在 Chandler 家搜查 Whitney 房间，从 Polaroids 与 “red jerseys” 照片推进到床底/灯座里藏匿的药片与翻盖手机，最终在家长面前摊开 “Whitney was dealing” 的事实，Mr. Chandler 拒绝接受并威胁请律师。
+Shelby 与 Erickson 在 Chandler 家搜查 Whitney 房间，从 Polaroids 与 “red jerseys” 照片推进到灯座里藏匿的药片与翻盖手机，最终在家长面前摊开 “Whitney was dealing” 的事实，Mr. Chandler 拒绝接受并威胁请律师。

@@ -35,11 +35,11 @@ modified: "2026-10-19"
 
 > **原句 2:** “Officer Kim, I need you to check security footage of the Rivers Casino in Pittsburgh for the night Whitney was murdered.”
 
-**中文理解**：Naomi 说，他们收到了 Louderback bird feeder 的视频，约在 Bobby 家与 swimming pool 的中途。Shelby 说她不喜欢 presumption，但 Naomi 说得对。
+**中文理解**：Shelby 对 Naomi 说，需要查 Pittsburgh Rivers Casino 的 security footage，因为 Damien Mendez 声称那晚他在那里、直到一点才离开。
 
 **关键词**：security footage of the Rivers Casino／Rivers Casino in Pittsburgh
 
-**为什么这样写**：作者把 “evidence” 写成 “I don’t like to presume anything”——deliberate 让 “Shelby” 落成 “careful, professional” 的 register，把 “who else would it be?” 作为 “assumption” 的 thread。这条 “I don’t like to presume anything” 把 “Shelby” 从 “hopeful” 推进到 “cautious” 的 thread。
+**为什么这样写**：作者把 “alibi verification” 写成 “check security footage”——deliberate 让 “Shelby” 落成 “methodical, thorough” 的 register，把 “Rivers Casino” 作为 “alibi” 的 thread。这条 “Damien Mendez said he was there” 把 “Damien” 从 “suspect” 推进到 “to be verified” 的 thread。
 
 **读者视角提示**：记住 “I don’t like to presume anything”——这条 “caution” 后文会被 “father” 验证。
 

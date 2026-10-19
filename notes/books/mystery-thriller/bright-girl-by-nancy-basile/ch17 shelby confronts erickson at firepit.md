@@ -51,7 +51,7 @@ modified: "2026-10-19"
 
 **关键词**：Bobby Garza killed Whitney／bring him in ASAP／dismissed him for no motive
 
-**为什么这样写**：作者把 “report” 写成 “Bobby killed Whitney + bring in ASAP”——deliberate 让 “Erickson” 落成 “premature closure” 的 register，把 “Daniel Mendez dismissed for no motive” 作为 “tunnel vision” 的 first signal。这条 “dismissed” 与 ch13 “Daniel Mendez” 形成 contrast：suspect introduced then dropped.
+**为什么这样写**：作者把 “report” 写成 “Bobby killed Whitney + bring in ASAP”——deliberate 让 “Erickson” 落成 “premature closure” 的 register，把 “Daniel Mendez dismissed for no motive” 作为 “tunnel vision” 的 first signal。这条 “dismissed” 与 “Daniel Mendez” 形成 contrast：suspect introduced then dropped.
 
 **读者视角提示**：记住 “dismissed him for no motive”——这条 “tunnel vision” 后文会被 “Shelby’s pushback” 验证。
 
@@ -87,7 +87,7 @@ modified: "2026-10-19"
 
 **关键词**：history of violence／took off, disappeared／blood on his hands
 
-**为什么这样写**：作者把 “Bobby’s guilt” 写成 “boyfriend + violence + jersey + disappeared”——deliberate 让 “suspect” 落成 “overwhelming” 的 register，把 “bird at the feeder took flight” 作为 “nature recoiling” 的 image。这条 “disappeared” 与 ch07 “Bobby missing” 形成 echo：same absence, different readings.
+**为什么这样写**：作者把 “Bobby’s guilt” 写成 “boyfriend + violence + jersey + disappeared”——deliberate 让 “suspect” 落成 “overwhelming” 的 register，把 “bird at the feeder took flight” 作为 “nature recoiling” 的 image。这条 “disappeared” 形成 echo：same absence, different readings.
 
 **读者视角提示**：记住 “took off, disappeared”——这条 “absence” 后文会被 “Bobby’s actual location” 验证。
 

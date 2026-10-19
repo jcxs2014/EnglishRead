@@ -7,7 +7,7 @@ modified: "2026-10-19"
 
 ## 本章导航
 
-- **一句话概括**：Shelby 在站里与 Erickson 复盘，确认 Bobby 被排除、转查 Adderall/Ambien 供应商；Erickson 送她回家，Shelby 回家喂猫 Queenie、推断 supplier 是 “a father”，章末凌晨被砖块砸窗，纸条写 “BOBBY DID IT”。
+- **一句话概括**：Shelby 在站里与 Erickson 复盘，确认 Bobby 被排除、转查 Adderall/Ambien 供应商；Shelby 送 Erickson 回家后自己回家喂猫 Queenie、推断 supplier 是 “a father”，章末凌晨被砖块砸窗，纸条写 “BOBBY DID IT”。
 
 - **情感弧线位置**：全书的 “quiet aftermath + threat” 格：从站里 “flatlining” 的疲惫到回家 “absolute exhaustion”，再到 “crash startled Shelby awake” 的惊吓，把调查从 “professional” 推到 “personal threat”。
 
@@ -160,4 +160,4 @@ modified: "2026-10-19"
 | Smith & Wesson | 史密斯威森（枪） | department issued Smith & Wesson |
 
 ## 一句话总结
-Shelby 在站里与 Erickson 复盘，确认 Bobby 被排除、转查 Adderall/Ambien 供应商；Erickson 送她回家，Shelby 回家喂猫 Queenie、推断 supplier 是 “a father”，章末凌晨被砖块砸窗，纸条写 “BOBBY DID IT”。
+Shelby 在站里与 Erickson 复盘，确认 Bobby 被排除、转查 Adderall/Ambien 供应商；Shelby 送 Erickson 回家后自己回家喂猫 Queenie、推断 supplier 是 “a father”，章末凌晨被砖块砸窗，纸条写 “BOBBY DID IT”。

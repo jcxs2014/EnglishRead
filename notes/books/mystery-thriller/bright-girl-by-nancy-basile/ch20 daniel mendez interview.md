@@ -23,7 +23,7 @@ modified: "2026-10-19"
 
 **关键词**：cracked lot／abandoned lot／prying eyes
 
-**为什么这样写**：作者把会面地点写成 “abandoned Kmart lot”——deliberate 让 “interview” 落成 “covert, off-the-books” 的 register，把 “cover from prying eyes” 作为 “teen drug culture” 的 setting。这条 “abandoned lot” 与 ch05 的 “split-level suburban home” 形成 contrast：Bobby 的体面 vs. Daniel 的边缘。
+**为什么这样写**：作者把会面地点写成 “abandoned Kmart lot”——deliberate 让 “interview” 落成 “covert, off-the-books” 的 register，把 “cover from prying eyes” 作为 “teen drug culture” 的 setting。这条 “abandoned lot” 形成 contrast：Bobby 的体面 vs. Daniel 的边缘。
 
 **读者视角提示**：记住 “prying eyes”——这条 “cover” 后文会被 “Daniel’s friends watching” 验证。
 
@@ -59,7 +59,7 @@ modified: "2026-10-19"
 
 **关键词**：wiry build／ready for a fight
 
-**为什么这样写**：作者把 Daniel 的 “first appearance” 写成 “ready for a fight”——deliberate 让 “suspect” 落成 “defensive” 的 register，把 “wiry build” 作为 “physical match” 的 thread。这条 “ready for a fight” 与 ch05 “Bobby’s swollen red eyes” 形成 contrast：Bobby 的 grief vs. Daniel 的 defiance。
+**为什么这样写**：作者把 Daniel 的 “first appearance” 写成 “ready for a fight”——deliberate 让 “suspect” 落成 “defensive” 的 register，把 “wiry build” 作为 “physical match” 的 thread。这条 “ready for a fight” 形成 contrast：Bobby 的 grief vs. Daniel 的 defiance。
 
 **读者视角提示**：记住 “wiry build”——这条 “physical” 后文会被 “bruising pattern” 验证/证伪。
 

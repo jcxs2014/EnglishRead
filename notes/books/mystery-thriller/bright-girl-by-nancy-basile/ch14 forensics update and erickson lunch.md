@@ -7,7 +7,7 @@ modified: "2026-10-19"
 
 ## 本章导航
 
-- **一句话概括**：Shelby 与 Erickson 在 Mario’s 吃晚餐时因 Bobby 是否为凶手激烈争执，Shelby 首次向 Erickson 坦露自己因“past is clouding my judgement”而过度谨慎；章末 Naomi 电话确认避孕套盒上除 Whitney 外还有 Daniel Mendez 的指纹，Shelby 因家庭承诺提前离开，Erickson 留在警局继续跟进。
+- **一句话概括**：Shelby 与 Erickson 在 Mario’s 吃晚餐时因 Bobby 是否为凶手激烈争执，Shelby 首次向 Erickson 坦露自己因 first big case “went sideways”（headline news / media pressure）而过度谨慎；章末 Naomi 电话确认避孕套盒上除 Whitney 外还有 Daniel Mendez 的指纹，Shelby 因家庭承诺提前离开，Erickson 留在警局继续跟进。
 
 - **情感弧线位置**：全书的 “investigation vs. instinct” 格：Shelby 用“big case went sideways / headline news”压住 Erickson 的“Bobby has something to hide”指控，章末以“family commitment”把案件与私人生活并置，Shelby 的 professional wall 与 personal life 第一次正面碰撞。
 
@@ -29,7 +29,7 @@ modified: "2026-10-19"
 
 **为什么这样写**：作者用 Erickson 的“吃饭的快乐”把“detective”落成“human, bodily” 的 register，把“case pressure”与“dinner break”并置——这条“obscene sounds”是 Erickson 的 “sunny” 人格的 first instance，与 Shelby 的 “glowered” 形成 direct contrast。
 
-**读者视角提示**：记住 “obscene sounds”——这条 “sunny” 的 echo 后文 Shelby 的 “past is clouding my judgement” 会把 “big personality” 与 “small, quiet” 并置。
+**读者视角提示**：记住 “obscene sounds”——这条 “sunny” 的 echo 后文 Shelby 的 “first big case went sideways” 会把 “big personality” 与 “small, quiet” 并置。
 
 ---
 
@@ -175,4 +175,4 @@ modified: "2026-10-19"
 | caplets | 胶囊片 | popping two caplets. |
 
 ## 一句话总结
-Shelby 与 Erickson 在 Mario’s 晚餐时因 Bobby 是否为凶手激烈争执，Shelby 首次向 Erickson 坦露自己因“past is clouding my judgement”而过度谨慎；章末 Naomi 电话确认避孕套盒上除 Whitney 外还有 Daniel Mendez 的指纹，Shelby 因家庭承诺提前离开，Erickson 留在警局继续跟进。
+Shelby 与 Erickson 在 Mario’s 晚餐时因 Bobby 是否为凶手激烈争执，Shelby 首次向 Erickson 坦露自己因 first big case “went sideways”（headline news / media pressure）而过度谨慎；章末 Naomi 电话确认避孕套盒上除 Whitney 外还有 Daniel Mendez 的指纹，Shelby 因家庭承诺提前离开，Erickson 留在警局继续跟进。

@@ -45,11 +45,11 @@ modified: "2026-10-19"
 
 ---
 
-> **原句 3:** “He’s a hot mess.” … “He’s got a lot of traffic violations, but he never pays the fines. He’s got a lawyer who always shows up and gets the penalties waived.” Naomi shook her head. “I don’t know how he can afford it.”
+> **原句 3:** “He’s a hot mess.”
 
 **中文理解**：Naomi 说：“He’s a hot mess。”…“He’s got a lot of traffic violations, but he never pays the fines。He’s got a lawyer who always shows up and gets the penalties waived。”Naomi shook her head。“I don’t know how he can afford it.”
 
-**关键词**：hot mess／traffic violations／lawyer who always shows up
+**关键词**：hot mess
 
 **为什么这样写**：作者把 “Damien” 写成 “hot mess”——deliberate 让 “Naomi” 落成 “knowing, local” 的 register，把 “lawyer who always shows up” 作为 “mystery” 的 thread。这条 “I don’t know how he can afford it” 把 “Damien” 从 “poor” 推进到 “suspicious” 的 thread。
 
@@ -59,7 +59,7 @@ modified: "2026-10-19"
 
 > **原句 4:** “Was there a zombie apocalypse, and we missed it?”
 
-**中文理解**：Erickson 说：“Was there a zombie apocalypse, and we missed it?”…Shelby 说：“Hello?”…“Can I help you?”A raspy voice piped up behind them。Shelby was thankful she hadn’t startled。That’s never a good look for a detective。
+**中文理解**：Erickson 说：“Was there a zombie apocalypse, and we missed it?”…Shelby 说：“Hello?” Damien（raspy voice）答：“Can I help you?” Shelby was thankful she hadn’t startled。That’s never a good look for a detective。
 
 **关键词**：zombie apocalypse／never a good look for a detective
 

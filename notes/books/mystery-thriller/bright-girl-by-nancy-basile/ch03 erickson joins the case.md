@@ -207,7 +207,7 @@ modified: "2026-10-19"
 
 **关键词**：steer clear of Bobby Garza
 
-**为什么这样写**：作者把 “Bobby Garza” 从 suspect 推进到 “personal trigger”——把 “personal” 与 “professional” 并置：Bobby Garza 是 football player，Shelby’s husband died in a way that involves a football player / similar? 这条 “reason” 是 ch01 “worst day”的 echo。
+**为什么这样写**：作者把 “Bobby Garza” 从 suspect 推进到 “personal trigger”——把 “personal” 与 “professional” 并置：Bobby Garza 是 football player，Naomi 暗示 Shelby 与 Bobby 有未言明的 “reason” 需要避开。这条 “reason” 是 ch01 “worst day”的 echo，但具体原因到 ch36 才揭示。
 
 **读者视角提示**：记住 “steer clear of Bobby Garza”——后文所有 “Bobby” 的 scene 都要回到这条 “personal trigger” 上。
 

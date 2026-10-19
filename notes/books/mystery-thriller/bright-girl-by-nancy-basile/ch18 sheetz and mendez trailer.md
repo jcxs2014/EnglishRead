@@ -59,7 +59,7 @@ modified: "2026-10-19"
 
 **关键词**：met with someone／different person came along and killed her
 
-**为什么这样写**：作者把 “hypothesis” 写成 “two someones”——deliberate 让 “detective” 落成 “speculative” 的 register，把 “different person” 作为 “alternative” 的 first signal。这条 “two someones” 与 ch05 “Bobby’s doorway statement” 形成 contrast：one suspect vs. multiple actors.
+**为什么这样写**：作者把 “hypothesis” 写成 “two someones”——deliberate 让 “detective” 落成 “speculative” 的 register，把 “different person” 作为 “alternative” 的 first signal。这条 “two someones” 形成 contrast：one suspect vs. multiple actors.
 
 **读者视角提示**：记住 “different person came along and killed her”——这条 “alternative” 后文会被 “forensics” 验证/证伪。
 
@@ -95,7 +95,7 @@ modified: "2026-10-19"
 
 **关键词**：the jersey／red and white jersey
 
-**为什么这样写**：作者把 “suspect pool” 写成 “jersey”——deliberate 让 “Shelby” 落成 “connecting dots” 的 register，把 “Daniel Mendez” 作为 “new suspect” 的 first signal。这条 “jersey” 与 ch05 “Bobby’s ninety-seven” 形成 contrast：two jerseys, two suspects.
+**为什么这样写**：作者把 “suspect pool” 写成 “jersey”——deliberate 让 “Shelby” 落成 “connecting dots” 的 register，把 “Daniel Mendez” 作为 “new suspect” 的 first signal。这条 “jersey” 形成 contrast：two jerseys, two suspects.
 
 **读者视角提示**：记住 “red and white jersey”——这条 “suspect” 后文会被 “Mendez trailer” 验证/证伪。
 

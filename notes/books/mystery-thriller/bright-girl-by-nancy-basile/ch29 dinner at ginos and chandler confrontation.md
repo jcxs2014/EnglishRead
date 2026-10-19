@@ -81,11 +81,11 @@ modified: "2026-10-19"
 
 ---
 
-> **原句 6:** “Lisa.” … “You said your piece. Time to go.”
+> **原句 6:** “You said your piece. Time to go.”
 
 **中文理解**：Mr. Chandler 说：“Lisa。”…“You said your piece。Time to go。”He glared at Shelby, but led his wife out of the restaurant。
 
-**关键词**：Lisa／You said your piece. Time to go／glared at Shelby
+**关键词**：You said your piece. Time to go
 
 **为什么这样写**：作者把 “Mr. Chandler” 写成 “You said your piece. Time to go”——deliberate 让 “Mr. Chandler” 落成 “grieving, controlled” 的 register，把 “glared at Shelby” 作为 “blame” 的 thread。这条 “Time to go” 把 “Mr. Chandler” 从 “passive” 推进到 “protective” 的 thread。
 

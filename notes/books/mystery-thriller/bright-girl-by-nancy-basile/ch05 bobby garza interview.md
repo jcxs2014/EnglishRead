@@ -7,7 +7,7 @@ modified: "2026-10-19"
 
 ## 本章导航
 
-- **一句话概括**：Shelby 与 Erickson 去 Bobby Garza 家 notify-and-interview，Bobby 与母亲 Rosa 从 “crying” 到 “alibi”（afterparty ~40 人、Bobby 全程在场、Del Coleman 收尾），章末 Bobby 在门口主动 statement “I didn’t do it. I was here all night”，Shelby 的 “big hands / icicles” 与 Erickson 的 “interesting speech” 把 Bobby 推进 “suspect with alibi” 的 thread，forensics 召回。
+- **一句话概括**：Shelby 与 Erickson 去 Bobby Garza 家 notify-and-interview，Bobby 与母亲（Mrs. Garza）从 “crying” 到 “alibi”（afterparty ~40 人、Bobby 全程在场、Del Coleman 收尾），章末 Bobby 在门口主动 statement “I didn’t do it. I was here all night”，Shelby 的 “big hands / icicles” 与 Erickson 的 “interesting speech” 把 Bobby 推进 “suspect with alibi” 的 thread，forensics 召回。
 
 - **情感弧线位置**：全书的 “suspect interview” 格：Bobby 的 grief 从 “swollen red eyes” 到 “broke down, finally letting out his grief”，Shelby 的 “icy chill / mouth dry” 把 Bobby 的 “hands” 与 “neck bruising” 并置。
 
@@ -237,4 +237,4 @@ modified: "2026-10-19"
 | tissue | 纸巾 | His mother, also with tears brimming in her eyes, rubbed her hand over his back. |
 
 ## 一句话总结
-Shelby 与 Erickson 去 Bobby Garza 家 notify-and-interview，Bobby 与母亲 Rosa 从 “crying” 到 “alibi”（afterparty ~40 人、Bobby 全程在场、Del Coleman 收尾），章末 Bobby 在门口主动 statement “I didn’t do it. I was here all night”，Shelby 的 “big hands / icicles” 与 Erickson 的 “interesting speech” 把 Bobby 推进 “suspect with alibi” 的 thread，forensics 召回。
+Shelby 与 Erickson 去 Bobby Garza 家 notify-and-interview，Bobby 与母亲（Mrs. Garza）从 “crying” 到 “alibi”（afterparty ~40 人、Bobby 全程在场、Del Coleman 收尾），章末 Bobby 在门口主动 statement “I didn’t do it. I was here all night”，Shelby 的 “big hands / icicles” 与 Erickson 的 “interesting speech” 把 Bobby 推进 “suspect with alibi” 的 thread，forensics 召回。
