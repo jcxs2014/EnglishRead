@@ -18,9 +18,11 @@ modified: "2026-10-19"
 ### 第1处：Dr. Russo 的投资失败——仇恨的根源
 
 > **原句 1:** "My heart is beating out of my chest."
+中文理解：该引语为原文节选。
 关键词：heart
 
 > **原句 2:** "But among all the comments from Adam’s haters, there are several football fanatics and medical professionals claiming that Dr."
+中文理解：该引语为原文节选。
 关键词：among
 
 ---
@@ -28,6 +30,7 @@ modified: "2026-10-19"
 ### 第3处：Hayden 的怀疑——"Maybe he lied. Maybe he knew Kennedy liked him"
 
 > **原句 3:** "Maybe none of it’s true."
+中文理解：该引语为原文节选。
 关键词：Maybe
 
 ## 本章词汇

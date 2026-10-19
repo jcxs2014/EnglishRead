@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：Adam 救 Hayden——"He leapt off"
 
 > **原句 1:** "The instant Adam struck the water, panic consumed him."
+中文理解：该引语为原文节选。
 关键词：instant
 
 ---
@@ -25,9 +26,11 @@ modified: "2026-10-19"
 ### 第2处：Adam CPR 救 Hayden——"And she coughed"
 
 > **原句 2:** "But he was surfacing."
+中文理解：该引语为原文节选。
 关键词：surfacing
 
 > **原句 4:** "Frantically, he began to search the creek."
+中文理解：该引语为原文节选。
 关键词：Frantically
 
 为什么这样写：章节以 Adam's rescue 与 Lydia's call 为 climax——Adam saved Hayden's life，Lydia called for help，显示 Adam 的 heroism 与 Hayden's survival。

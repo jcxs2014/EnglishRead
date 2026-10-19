@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：Hayden 的辩护——"They were all wearing it"
 
 > **原句 1:** "“You know the brothers well,” Detective Wilson prods, resting an elbow on the desk."
+中文理解：该引语为原文节选。
 关键词：know
 
 ---
@@ -25,12 +26,15 @@ modified: "2026-10-19"
 ### 第2处：监控视频的揭示
 
 > **原句 2:** "“I—” I blink, as if it will erase whatever I just saw on the footage."
+中文理解：该引语为原文节选。
 关键词：blink
 
 > **原句 3:** "“The teachers took attendance at the drill,” I say, like the most helpful little witness to have ever sat in this chair."
+中文理解：该引语为原文节选。
 关键词：teachers
 
 > **原句 4:** "“Yes, we’ve spoken with their teachers."
+中文理解：该引语为原文节选。
 关键词：spoken
 
 ## 本章词汇

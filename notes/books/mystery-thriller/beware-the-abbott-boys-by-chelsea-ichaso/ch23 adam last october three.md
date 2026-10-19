@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：章节题词——Frankenstein 的"如果我不能激发爱，我将引起恐惧"
 
 > **原句 1:** "As he left Henry in the auto shop, Adam continued to hear the voice whisper in his ear."
+中文理解：该引语为原文节选。
 关键词：left
 
 为什么这样写：Adam 的"plan"——告诉 Mariana Bram 的 cheating——是本章的核心；这种"善意"的 revelation 实际上是 Adam 为了自己目的而操纵 Mariana，显示他的 dark side。
@@ -27,6 +28,7 @@ modified: "2026-10-19"
 ### 第3处：Adam 的 plan 成功——Mariana 决定与 Bram 分手
 
 > **原句 3:** "Bram had never returned down the path, which meant he and Mariana were up at the house doing God knows what."
+中文理解：该引语为原文节选。
 关键词：Bram
 
 ---
@@ -34,6 +36,7 @@ modified: "2026-10-19"
 ### 第4处：结尾——Dracula 题词
 
 > **原句 4:** "He got out his phone and typed a text."
+中文理解：该引语为原文节选。
 关键词：phone
 | sardonic | 讽刺的；挖苦的 | "There was no mistaking the man's sardonic tone" (ch13) |
 | grotesque | 丑陋的；怪异的 | "as grotesque as what had appeared in the mirror" (ch13) |
@@ -59,7 +62,7 @@ modified: "2026-10-19"
 
 | 词/短语 | 难度 | 释义 |
 |---------|------|------|
-| word | ⭐⭐ | placeholder |
+| said | ⭐⭐ | 说 | "said" |
 
 ## 一句话总结
 

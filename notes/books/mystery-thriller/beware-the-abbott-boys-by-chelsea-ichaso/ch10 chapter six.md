@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：小镇居民的辱骂
 
 > **原句 1:** "Lunch in town was predictably short."
+中文理解：该引语为原文节选。
 关键词：Lunch
 
 为什么这样写：Bram 的撒谎是他的 character flaw——他为了保护 Adam 而撒谎，但这种"善意的谎言"反而加深了 townspeople 的怀疑；Hayden 的"shock"显示她对 Bram 的信任被打破。
@@ -27,6 +28,7 @@ modified: "2026-10-19"
 ### 第3处：Bram 的 hoodie 被偷
 
 > **原句 3:** "“Got a problem?” I finally asked her like a six-year-old."
+中文理解：该引语为原文节选。
 关键词：problem
 
 ---
@@ -34,6 +36,7 @@ modified: "2026-10-19"
 ### 第4处：结尾——"everyone hates the Abbott brothers"
 
 > **原句 4:** "She shrugged. “Just wondering how he can sit there and enjoy a warm meal while K"
+中文理解：该引语为原文节选。
 关键词：shrugged
 
 ## 本章词汇

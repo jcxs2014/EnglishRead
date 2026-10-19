@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：Hayden 试图获取 Henry 的 phone
 
 > **原句 1:** "“I need to get home,” I tell Bram when I finally check the time."
+中文理解：该引语为原文节选。
 关键词：need
 
 ---
@@ -25,9 +26,11 @@ modified: "2026-10-19"
 ### 第2处：Henry 的 confession——Kennedy 的 truth
 
 > **原句 2:** "“Henry took care of it,” Bram says in a calming voice."
+中文理解：该引语为原文节选。
 关键词：Henry
 
 > **原句 3:** "“And my dad was okay with that?” Even after his little warning about them in my room after Kennedy’s murder? And the way my questions about the Abbott-Russo feud seemed to freak him out? I guess Dad meant what he said about not believing the rumors."
+中文理解：该引语为原文节选。
 关键词：okay
 
 ---
@@ -35,6 +38,7 @@ modified: "2026-10-19"
 ### 第4处：结尾——Henry 的愤怒
 
 > **原句 4:** "For the first time in my life though, I’m not sure I do."
+中文理解：该引语为原文节选。
 关键词：first
 
 ## 本章词汇

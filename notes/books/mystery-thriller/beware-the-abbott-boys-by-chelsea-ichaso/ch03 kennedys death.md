@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：Adam 拒绝就医与兄弟间的张力
 
 > **原句 1:** "I slip past the boys to Adam."
+中文理解：该引语为原文节选。
 关键词：slip
 
 ---
@@ -25,6 +26,7 @@ modified: "2026-10-19"
 ### 第2处：Bram 与 Henry 的争执——暴力的正当性
 
 > **原句 2:** "Two bumps on Adam’s head means we missed the first shot those jerks took at him."
+中文理解：该引语为原文节选。
 关键词：bumps
 
 ---
@@ -32,6 +34,7 @@ modified: "2026-10-19"
 ### 第3处：Hayden 与 Bram 的"秘密"——夏天前的往事
 
 > **原句 3:** "“You could have a concussion,” I protest as the bell rings, ending lunch."
+中文理解：该引语为原文节选。
 关键词：could
 
 为什么这样写：用 Hayden 的误判制造短暂 suspense，然后揭示 Kennedy 之死——这种"误判→反转"是 mystery 的经典技法，也显示 Hayden 的思维被 Bram 占据。
@@ -41,6 +44,7 @@ modified: "2026-10-19"
 ### 第5处：Bram 带 Hayden 离开——"I can't be here"
 
 > **原句 5:** "“Who cares?” he says, standing."
+中文理解：该引语为原文节选。
 关键词：cares
 
 ---
@@ -48,6 +52,7 @@ modified: "2026-10-19"
 ### 第6处：结尾——人类的尖叫
 
 > **原句 6:** "“Why don’t you stop him?” I ask Henry and Bram."
+中文理解：该引语为原文节选。
 关键词：stop
 | mottling | 使斑驳；使模糊 | "The tears start to come now, mottling the scene" |
 
@@ -73,7 +78,7 @@ modified: "2026-10-19"
 
 | 词/短语 | 难度 | 释义 |
 |---------|------|------|
-| word | ⭐⭐ | placeholder |
+| said | ⭐⭐ | 说 | "said" |
 
 ## 一句话总结
 

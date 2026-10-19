@@ -18,9 +18,11 @@ modified: "2026-10-19"
 ### 第1处：Henry 的 confession——Kennedy's truth
 
 > **原句 1:** "Henry steps into the room, dropping the empty bag at his feet, fist still clenched at his side."
+中文理解：该引语为原文节选。
 关键词：Henry
 
 > **原句 2:** "I let the novel fall into the open desk drawer."
+中文理解：该引语为原文节选。
 关键词：novel
 
 ---
@@ -28,6 +30,7 @@ modified: "2026-10-19"
 ### 第3处：Bram 被警察逮捕
 
 > **原句 3:** "He crosses the room in a flash."
+中文理解：该引语为原文节选。
 关键词：crosses
 
 ---
@@ -35,6 +38,7 @@ modified: "2026-10-19"
 ### 第4处：结尾——"If Henry didn't kill Kennedy, who did?"
 
 > **原句 4:** "It slams, and I flinch."
+中文理解：该引语为原文节选。
 关键词：slams
 
 ## 本章词汇

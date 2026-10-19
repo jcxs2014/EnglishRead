@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：Mrs. Lieu 的引语与 Hayden 的自嘲
 
 > **原句 1:** "That’s what Mrs. Lieu has written in red at the top of my English paper, above t"
+中文理解：该引语为原文节选。
 关键词：That
 
 ---
@@ -25,6 +26,7 @@ modified: "2026-10-19"
 ### 第2处：Sage 与 Hayden 的友谊裂痕
 
 > **原句 2:** "I resist the urge to crumple up the paper and tell my teacher that actually, a C-plus isn’t a failing grade."
+中文理解：该引语为原文节选。
 关键词：resist
 
 为什么这样写：Hayden 的辩护不是基于证据，而是基于情感与个人经历——这种"我知道他们不会"的信念是 Hayden 人物弧线的起点，也是她后续调查的动机。
@@ -34,6 +36,7 @@ modified: "2026-10-19"
 ### 第4处：Abbott 家族历史——Peter Abbott 的继承
 
 > **原句 4:** "The room is in a state of grumbling dissent, and I look around to find everyone with their heads bent over their papers."
+中文理解：该引语为原文节选。
 关键词：room
 
 ---
@@ -41,6 +44,7 @@ modified: "2026-10-19"
 ### 第6处：食堂欺凌与 Bram 的爆发
 
 > **原句 6:** "“This is bull,” she says, rolling her eyes."
+中文理解：该引语为原文节选。
 关键词：This
 
 ## 本章词汇

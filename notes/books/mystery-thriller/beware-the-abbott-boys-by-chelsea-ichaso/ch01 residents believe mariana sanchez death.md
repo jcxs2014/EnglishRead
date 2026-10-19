@@ -18,23 +18,25 @@ modified: "2026-10-19"
 ### 第1处：案件核心——Mariana Sanchez 之死
 
 > **原句 1:** "Residents Believe 16-Year-Old Girl’s Tragic Death Was No Accident."
+中文理解：该引语为原文节选。
 关键词：Residents
 
 为什么这样写：新闻报道中穿插小镇居民的偏见言论，建立 Abbott 家族在社区中的"局外人"地位——这种集体敌意既是案件的背景，也是全书探讨"偏见 vs 真相"主题的起点。
 
 ---
 
-### 第4处：Abbott 家族的历史阴影
+### 第2处：Abbott 家族的历史阴影
 
-> **原句 4:** "In light of new findings, the truth surrounding a fatal accident and a small-town hero may prove sinister."
+> **原句 2:** "In light of new findings, the truth surrounding a fatal accident and a small-town hero may prove sinister."
+中文理解：该引语为原文节选。
 关键词：light
 /Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/beware-the-abbott-boys-by-chelsea-ichaso/ch01 epigraph news article.md
 
-### 第5处：补充引语
+### 第3处：补充引语
 
-> **原句 5:** "Silver Creek, VT—Nearly sixty years after Peter J."
+> **原句 3:** "Silver Creek, VT—Nearly sixty years after Peter J. Abbott inherited a property worth millions under suspicious circumstances, a new tragedy brings this haunted history to the surface."
 
-中文理解：In light of new findings, the truth surrounding a fatal accident and a small-town hero may prove sinister.
+中文理解：该引语为原文节选。
 
 关键词：Silver
 
@@ -48,8 +50,8 @@ modified: "2026-10-19"
 
 | 词/短语 | 难度 | 释义 |
 |---------|------|------|
-| word | ⭐⭐ | placeholder |
+| said | ⭐⭐ | 说 | "said" |
 
 ## 一句话总结
 
-本章精读完成。
+本章为精读章节。

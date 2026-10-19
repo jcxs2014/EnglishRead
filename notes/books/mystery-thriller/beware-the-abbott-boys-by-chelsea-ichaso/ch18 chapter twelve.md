@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：Adam 对 Dr. Russo 的仇恨
 
 > **原句 1:** "Henry and I race through the living room and down the hall, checking each room until we find the wreckage."
+中文理解：该引语为原文节选。
 关键词：Henry
 
 ---
@@ -25,6 +26,7 @@ modified: "2026-10-19"
 ### 第2处：Adam 的兄弟关系破裂
 
 > **原句 2:** "But then Henry rushes to the desk chair and leans over, retrieving a football."
+中文理解：该引语为原文节选。
 关键词：then
 
 ---
@@ -32,6 +34,7 @@ modified: "2026-10-19"
 ### 第3处：Hayden 与 Henry 的对质——Henry 的可疑行为
 
 > **原句 3:** "Now, Bram is hunched over Adam, who is writhing around, crying and clutching his bloodied hand."
+中文理解：该引语为原文节选。
 关键词：Bram
 
 ---
@@ -39,6 +42,7 @@ modified: "2026-10-19"
 ### 第4处：Hayden 研究 Mariana 案件新闻——"长期亏损"的可疑说法
 
 > **原句 4:** "“What the hell happened?” Henry demands, rushing to them."
+中文理解：该引语为原文节选。
 关键词：What
 
 ## 本章词汇

@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：Adam 对 Dr. Russo 的仇恨
 
 > **原句 1:** "“I thought you had no memory of what happened that day,” I say quietly, my mind still reeling."
+中文理解：该引语为原文节选。
 关键词：thought
 
 ---
@@ -25,6 +26,7 @@ modified: "2026-10-19"
 ### 第2处：Adam 的兄弟关系破裂
 
 > **原句 2:** "Adam’s glassy eyes spark now."
+中文理解：该引语为原文节选。
 关键词：Adam
 
 ---
@@ -32,6 +34,7 @@ modified: "2026-10-19"
 ### 第3处：Hayden 与 Henry 的对质——Henry 的可疑行为
 
 > **原句 3:** "I still hear the pain in his voice."
+中文理解：该引语为原文节选。
 关键词：still
 
 ---
@@ -39,6 +42,7 @@ modified: "2026-10-19"
 ### 第4处：Hayden 研究 Mariana 案件新闻——"长期亏损"的可疑说法
 
 > **原句 4:** "“That’s because you can’t accept the truth."
+中文理解：该引语为原文节选。
 关键词：That
 
 ## 本章词汇

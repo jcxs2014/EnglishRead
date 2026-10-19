@@ -18,9 +18,11 @@ modified: "2026-10-19"
 ### 第1处：章节题词——Dracula 的"灵魂与记忆"
 
 > **原句 1:** "“Souls and memories can do strange things during trance."
+中文理解：该引语为原文节选。
 关键词：Souls
 
 > **原句 2:** "“Mariana?” Bram called again when he found the downstairs bathroom unoccupied."
+中文理解：该引语为原文节选。
 关键词：Mariana
 
 ---
@@ -28,6 +30,7 @@ modified: "2026-10-19"
 ### 第3处：Bram 决定告诉 Mariana 真相
 
 > **原句 3:** "It was very strange, the way she’d left her belongings there in the living room."
+中文理解：该引语为原文节选。
 关键词：very
 
 ---
@@ -35,6 +38,7 @@ modified: "2026-10-19"
 ### 第4处：结尾——Bram 前往修车店
 
 > **原句 4:** "Bram headed toward the back door to see if maybe she’d gone for a walk around the gardens when his phone buzzed in his back pocket again."
+中文理解：该引语为原文节选。
 关键词：Bram
 
 ## 本章词汇

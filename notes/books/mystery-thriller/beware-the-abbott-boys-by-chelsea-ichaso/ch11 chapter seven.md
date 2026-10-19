@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：Lydia 透露 Kennedy 的秘密男友
 
 > **原句 1:** "After knocking on Adam’s door and getting no response again, I walk home and spend my time scrolling social media like a true winner."
+中文理解：该引语为原文节选。
 关键词：After
 
 ---
@@ -25,6 +26,7 @@ modified: "2026-10-19"
 ### 第2处：Lydia 跟踪 Kennedy 到 Abbott 家 property
 
 > **原句 2:** "As soon as I click on one post about Kennedy, another half dozen related posts pop onto my feed."
+中文理解：该引语为原文节选。
 关键词：soon
 
 ---
@@ -32,6 +34,7 @@ modified: "2026-10-19"
 ### 第3处：Adam 对 Dr. Russo 的仇恨
 
 > **原句 3:** "Then I see a new post by Lydia Costas, time-stamped ten minutes ago, this one decidedly darker than the first."
+中文理解：该引语为原文节选。
 关键词：Then
 
 ---
@@ -39,6 +42,7 @@ modified: "2026-10-19"
 ### 第4处：Hayden 的疑问——"Adam doesn't seem like he'll ever willingly answer"
 
 > **原句 4:** "The caption accompanies a photo of Lydia and Kennedy as grade school students with matching pigtails:."
+中文理解：该引语为原文节选。
 关键词：caption
 
 ## 本章词汇

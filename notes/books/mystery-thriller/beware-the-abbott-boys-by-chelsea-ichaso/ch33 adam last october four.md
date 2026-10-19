@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：Adam 救 Hayden——"He leapt off"
 
 > **原句 1:** "Adam gripped the phone tightly as he made his way through the woods."
+中文理解：该引语为原文节选。
 关键词：Adam
 
 ---
@@ -25,9 +26,11 @@ modified: "2026-10-19"
 ### 第2处：Adam CPR 救 Hayden——"And she coughed"
 
 > **原句 2:** "He never should’ve left the house to go for a walk."
+中文理解：该引语为原文节选。
 关键词：never
 
 > **原句 4:** "No, you’re not, Adam had replied."
+中文理解：该引语为原文节选。
 关键词：Adam
 
 为什么这样写：章节以 Adam's rescue 与 Lydia's call 为 climax——Adam saved Hayden's life，Lydia called for help，显示 Adam 的 heroism 与 Hayden's survival。

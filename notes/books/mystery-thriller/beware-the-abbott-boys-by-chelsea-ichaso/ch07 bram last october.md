@@ -18,9 +18,11 @@ modified: "2026-10-19"
 ### 第1处：章节题词——Dracula 的镜像
 
 > **原句 1:** "“Welcome to my house! Enter freely and of your own will!”."
+中文理解：该引语为原文节选。
 关键词：Welcome
 
 > **原句 2:** "Bram Abbott’s body temperature always ran cold."
+中文理解：该引语为原文节选。
 关键词：Bram
 
 ---
@@ -28,6 +30,7 @@ modified: "2026-10-19"
 ### 第4处：神秘短信与 Mariana 的消失
 
 > **原句 4:** "“Ugh,” Mariana said, a smile on her lips even while complaining."
+中文理解：该引语为原文节选。
 关键词：Mariana
 | immersed | 沉浸的 | "Bram found himself immersed in the tale" |
 
@@ -52,7 +55,7 @@ modified: "2026-10-19"
 
 | 词/短语 | 难度 | 释义 |
 |---------|------|------|
-| word | ⭐⭐ | placeholder |
+| said | ⭐⭐ | 说 | "said" |
 
 ## 一句话总结
 

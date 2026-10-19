@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：章节题词——Frankenstein 的"被诅咒的生存"
 
 > **原句 1:** "“Why did I not die? More miserable than man ever was before, why did I not sink into forgetfulness and rest?… Of what materials was I made, that I could thus resist so many shocks, which, like the turning of the wheel, continually renewed the torture? But I was doomed to live."
+中文理解：该引语为原文节选。
 关键词：More
 
 ---
@@ -25,6 +26,7 @@ modified: "2026-10-19"
 ### 第2处：Dr. Russo 的询问——"You don't want to tell me?"
 
 > **原句 2:** "When Adam awoke at Central Springs Hospital, he learned he’d already been there for three days."
+中文理解：该引语为原文节选。
 关键词：When
 
 ---
@@ -32,6 +34,7 @@ modified: "2026-10-19"
 ### 第3处：Dr. Russo 的 disdain——"Calm down, boy"
 
 > **原句 3:** "Adam also learned that while he was under, having managed to stave off infection for two days, the team led by Dr."
+中文理解：该引语为原文节选。
 关键词：Adam
 
 ---
@@ -39,6 +42,7 @@ modified: "2026-10-19"
 ### 第4处：social media 泄露——"Now, he was a monster"
 
 > **原句 4:** "At least, that’s what everyone assumed those first couple of weeks."
+中文理解：该引语为原文节选。
 关键词：least
 
 ## 本章词汇

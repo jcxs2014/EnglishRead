@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：Hayden 质问 Bram——"Why did you pull the fire alarm?"
 
 > **原句 1:** "I wake in a panic, not knowing where I am or what day it is."
+中文理解：该引语为原文节选。
 关键词：wake
 
 为什么这样写：Bram 的 revelation 解释了 Adam 的 story——"the girl in Adam's story wasn't me. It was Kennedy"—这种 revelation 为 Hayden 提供 new information，同时显示 Bram 的 secret。
@@ -27,6 +28,7 @@ modified: "2026-10-19"
 ### 第3处：Hayden 怀疑 Henry——"If Henry didn't kill Kennedy, who did?"
 
 > **原句 3:** "We talked for a while, and then he put a movie on."
+中文理解：该引语为原文节选。
 关键词：talked
 
 ---
@@ -34,6 +36,7 @@ modified: "2026-10-19"
 ### 第4处：结尾——Hayden 决定独自调查 Henry 的 phone
 
 > **原句 4:** "But the feeling turns to panic when I think of Dad."
+中文理解：该引语为原文节选。
 关键词：feeling
 | misconstrued | 误解；曲解 | "misconstrued everything" |
 | traitorous | 叛逆的； treacherous 的 | "A traitorous thought sneaks in" |
@@ -59,7 +62,7 @@ modified: "2026-10-19"
 
 | 词/短语 | 难度 | 释义 |
 |---------|------|------|
-| word | ⭐⭐ | placeholder |
+| said | ⭐⭐ | 说 | "said" |
 
 ## 一句话总结
 

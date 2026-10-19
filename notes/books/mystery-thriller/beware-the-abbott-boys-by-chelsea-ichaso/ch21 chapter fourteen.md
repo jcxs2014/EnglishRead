@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：Lydia 的"secret boyfriend"理论升级
 
 > **原句 1:** "There are no streetlamps on the road outside the Abbotts’ wrought iron gate, so I use my phone’s light as I approach on foot."
+中文理解：该引语为原文节选。
 关键词：There
 
 ---
@@ -25,9 +26,11 @@ modified: "2026-10-19"
 ### 第2处：Hayden 与 Henry 的关系升级——"What would I do without you?"
 
 > **原句 2:** "Lydia gets out quickly, locking the door three times, apparently for good measure."
+中文理解：该引语为原文节选。
 关键词：Lydia
 
 > **原句 3:** "“Because everyone at school is horrible to the Abbotts."
+中文理解：该引语为原文节选。
 关键词：Because
 
 ---
@@ -35,6 +38,7 @@ modified: "2026-10-19"
 ### 第4处：Adam 看到 Hayden 与 Bram 拥抱——"he steals girls"
 
 > **原句 4:** "She keeps her gaze on the birds."
+中文理解：该引语为原文节选。
 关键词：keeps
 
 ## 本章词汇

@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：Adam 的 revelation——"I told her the truth about Bram"
 
 > **原句 1:** "Bram’s voice calls after me through the gardens, but I don’t stop."
+中文理解：该引语为原文节选。
 关键词：Bram
 
 ---
@@ -25,6 +26,7 @@ modified: "2026-10-19"
 ### 第2处：Adam 的 plan——"He steals girls"
 
 > **原句 2:** "His back is to me, and he’s helping himself to a drink."
+中文理解：该引语为原文节选。
 关键词：back
 
 ---
@@ -32,6 +34,7 @@ modified: "2026-10-19"
 ### 第3处：Adam 的 alibi——"I was helping him. He asked me to play lookout"
 
 > **原句 3:** "“Oh, you don’t want to talk about what you were doing out there in front of”—his finger does a turn of the room, brushing over Emma, zigzagging past a couple of girls over at the kitchen nook, and finally landing on the doorway—“him?”."
+中文理解：该引语为原文节选。
 关键词：want
 
 为什么这样写：Sage 的 post 是本章的 climax——监控视频显示 Bram pull the fire alarm，直接指向 Bram 为 Kennedy 之死的 suspect；这种 evidence 为案件提供 decisive 线索。

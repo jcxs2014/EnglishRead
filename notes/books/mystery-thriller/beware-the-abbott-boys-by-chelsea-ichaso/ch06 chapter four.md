@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：Hayden 的辩护——"They were all wearing it"
 
 > **原句 1:** "“Come in,” I call out groggily, checking my phone on the nightstand: 10:37 a."
+中文理解：该引语为原文节选。
 关键词：Come
 
 ---
@@ -25,12 +26,15 @@ modified: "2026-10-19"
 ### 第2处：监控视频的揭示
 
 > **原句 2:** "Last night, we learned that emergency personnel had pronounced Kennedy Russo dead at the scene."
+中文理解：该引语为原文节选。
 关键词：Last
 
 > **原句 3:** "On the drive home yesterday, Bram kept saying he couldn’t be locked away again, the way he had been after Mariana’s death, when he and his brothers were forced to stay home from school to do independent study."
+中文理解：该引语为原文节选。
 关键词：drive
 
 > **原句 4:** "After the news last night, I’d tried calling Bram."
+中文理解：该引语为原文节选。
 关键词：After
 
 ## 本章词汇

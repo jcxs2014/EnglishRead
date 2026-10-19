@@ -18,9 +18,11 @@ modified: "2026-10-19"
 ### 第1处：Hayden 的 recovery——hospital 与 Sage's arrest
 
 > **原句 1:** "I’m lying on the couch, all comfy in front of the TV, when there’s a knock at the door."
+中文理解：该引语为原文节选。
 关键词：lying
 
 > **原句 2:** "I get up to find Henry in the doorway."
+中文理解：该引语为原文节选。
 关键词：find
 
 ---
@@ -28,9 +30,11 @@ modified: "2026-10-19"
 ### 第3处：Henry 的 secret project——star projector
 
 > **原句 3:** "“Actually,” he says, reaching for my arm, “would your dad kill me if I took you on a field trip?”."
+中文理解：该引语为原文节选。
 关键词：Actually
 
 > **原句 4:** "“Yes,” I say. “But it’s a risk I’m willing to take.” I’m desperate to get out of"
+中文理解：该引语为原文节选。
 关键词：risk
 | basking | 沐浴；享受 | "basking in the sound" |
 | visceral | 内脏的；深切的 | "visceral and real" (ch13) |
@@ -56,7 +60,7 @@ modified: "2026-10-19"
 
 | 词/短语 | 难度 | 释义 |
 |---------|------|------|
-| word | ⭐⭐ | placeholder |
+| said | ⭐⭐ | 说 | "said" |
 
 ## 一句话总结
 

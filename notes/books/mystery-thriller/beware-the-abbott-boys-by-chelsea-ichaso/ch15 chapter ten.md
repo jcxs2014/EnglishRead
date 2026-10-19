@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：Lydia 透露 Kennedy 的秘密男友
 
 > **原句 1:** "On the walk, I text Henry that I’m on my way."
+中文理解：该引语为原文节选。
 关键词：walk
 
 ---
@@ -25,6 +26,7 @@ modified: "2026-10-19"
 ### 第2处：Lydia 跟踪 Kennedy 到 Abbott 家 property
 
 > **原句 2:** "He rests a shoulder on the doorjamb, a coy grin on his lips."
+中文理解：该引语为原文节选。
 关键词：rests
 
 ---
@@ -32,6 +34,7 @@ modified: "2026-10-19"
 ### 第3处：Lydia 的"narrowed down to three people"
 
 > **原句 3:** "“Yes,” I admit. “I didn’t see you, though. Were you spying on me or something?”"
+中文理解：该引语为原文节选。
 关键词：admit
 
 ---
@@ -39,6 +42,7 @@ modified: "2026-10-19"
 ### 第4处：Hayden 的疑问——"Kennedy had been afraid of Dr. Russo?"
 
 > **原句 4:** "“Your visit put my little brother in bad spirits."
+中文理解：该引语为原文节选。
 关键词：Your
 
 ## 本章词汇

@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：Hayden 怀疑 Henry——"If Henry didn't kill Kennedy, who did?"
 
 > **原句 1:** "“At that time my virtue slumbered; my evil, kept awake by ambition, was alert and swift to seize the occasion; and the thing that was projected was Edward Hyde."
+中文理解：该引语为原文节选。
 关键词：that
 
 ---
@@ -25,6 +26,7 @@ modified: "2026-10-19"
 ### 第2处：Bram 透露 Henry 与 Kennedy 的关系
 
 > **原句 2:** "—The Strange Case of Dr."
+中文理解：该引语为原文节选。
 关键词：Strange
 
 ---
@@ -32,6 +34,7 @@ modified: "2026-10-19"
 ### 第3处：Bram 透露 Henry asked him to pull the fire alarm
 
 > **原句 3:** "Henry had been back at school only two weeks when Kennedy Russo asked if he’d tutor her in math."
+中文理解：该引语为原文节选。
 关键词：Henry
 
 为什么这样写：Hayden 发现 Henry 读 Dr. Jekyll and Mr. Hyde（而非 Frankenstein）——这种 literary choice 暗示 Henry 的 dual nature（Jekyll/Hyde）；"He isn't smiling"的 ominous 结尾显示 Henry 的 anger。

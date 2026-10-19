@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：Henry 的 secret project——"the thing that kept him awake"
 
 > **原句 1:** "“There is something at work in my soul, which I do not understand."
+中文理解：该引语为原文节选。
 关键词：There
 
 ---
@@ -25,6 +26,7 @@ modified: "2026-10-19"
 ### 第3处：Henry 躲进棚屋 tinkering
 
 > **原句 3:** "Henry was in the shed, working on his invention when he got the text from Bram."
+中文理解：该引语为原文节选。
 关键词：Henry
 | obsession | 痴迷；执念 | "the thing that had become a bit of an obsession" |
 
@@ -50,7 +52,7 @@ modified: "2026-10-19"
 
 > **原句 4:** "Henry growled and tucked the parts and tools back in the box."
 
-中文理解：Henry was in the shed, working on his invention when he got the text from Bram.
+中文理解：该引语为原文节选。
 
 关键词：Henry
 
@@ -64,7 +66,7 @@ modified: "2026-10-19"
 
 | 词/短语 | 难度 | 释义 |
 |---------|------|------|
-| word | ⭐⭐ | placeholder |
+| said | ⭐⭐ | 说 | "said" |
 
 ## 一句话总结
 

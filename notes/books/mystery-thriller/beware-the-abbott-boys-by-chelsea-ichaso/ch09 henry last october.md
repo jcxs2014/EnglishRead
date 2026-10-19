@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：章节题词——Frankenstein 的"隐藏规律"
 
 > **原句 1:** "“The world was to me a secret which I desired to divine."
+中文理解：该引语为原文节选。
 关键词：world
 
 为什么这样写：通过日常对话建立 Henry 与 Adam 的兄弟关系——Henry 耐心、Adam 急躁；这种性格差异在后续剧情中将产生影响。
@@ -27,6 +28,7 @@ modified: "2026-10-19"
 ### 第3处：Henry 的"secret project"
 
 > **原句 3:** "“Didn’t Bram say he’d be right back?” Adam huffed from beneath the hood of Mariana’s car."
+中文理解：该引语为原文节选。
 关键词：Bram
 | rapture | 狂喜；出神 | "gladness akin to rapture" |
 | obsession | 痴迷；执念 | "the thing that had become a bit of an obsession" |
@@ -53,7 +55,7 @@ modified: "2026-10-19"
 
 > **原句 4:** "“Uh, yeah,” Henry said absentmindedly, eyes on his phone screen."
 
-中文理解：“Didn’t Bram say he’d be right back?” Adam huffed from beneath the hood of Mariana’s car.
+中文理解：该引语为原文节选。
 
 关键词：yeah
 
@@ -67,7 +69,7 @@ modified: "2026-10-19"
 
 | 词/短语 | 难度 | 释义 |
 |---------|------|------|
-| word | ⭐⭐ | placeholder |
+| said | ⭐⭐ | 说 | "said" |
 
 ## 一句话总结
 

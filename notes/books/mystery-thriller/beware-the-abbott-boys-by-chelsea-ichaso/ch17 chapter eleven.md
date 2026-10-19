@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：Bram 透露 Henry 的秘密
 
 > **原句 1:** "The sound of the front door wrenches me from Bram’s trance."
+中文理解：该引语为原文节选。
 关键词：sound
 
 ---
@@ -25,6 +26,7 @@ modified: "2026-10-19"
 ### 第2处：Hayden 与 Henry 的关系升级
 
 > **原句 2:** "I stand up quickly, like I’m shaking a spider off my clothes."
+中文理解：该引语为原文节选。
 关键词：stand
 
 
@@ -32,7 +34,7 @@ modified: "2026-10-19"
 
 > **原句 3:** "“Hey!” I say brightly the moment he enters the room."
 
-中文理解：I stand up quickly, like I’m shaking a spider off my clothes.
+中文理解：该引语为原文节选。
 
 关键词：brightly
 

@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：Sage 的威胁——"You'll probably end up being the next dead girl"
 
 > **原句 1:** "I can tell the moment our car pulls up in front of the school that this is going to be the Monday morning from hell."
+中文理解：该引语为原文节选。
 关键词：tell
 
 为什么这样写：Sage 推 Hayden off the bridge 是本章的 climax——Hayden finally understands Sage's role in Kennedy's murder。
@@ -27,6 +28,7 @@ modified: "2026-10-19"
 ### 第3处：Adam 救 Hayden——"He leapt off"
 
 > **原句 3:** "The first days after Kennedy’s murder, a few reporters from local stations parked outside, trying to get students to comment on the case."
+中文理解：该引语为原文节选。
 关键词：first
 
 ---
@@ -34,6 +36,7 @@ modified: "2026-10-19"
 ### 第4处：Sage 试图用 rock 杀 Hayden
 
 > **原句 4:** "Henry and Adam are staying home, but I send off a quick warning text just to make sure."
+中文理解：该引语为原文节选。
 关键词：Henry
 
 为什么这样写：章节以 Adam's rescue 与 Lydia's call 为 climax——Adam saved Hayden's life，Lydia called for help，显示 Adam 的 heroism 与 Hayden's survival。

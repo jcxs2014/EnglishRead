@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：Hayden 的内疚与 Dad 的警告
 
 > **原句 1:** "“What was that?” I ask, not really wanting to know."
+中文理解：该引语为原文节选。
 关键词：What
 
 ---
@@ -25,6 +26,7 @@ modified: "2026-10-19"
 ### 第3处：Hayden 与 Sage 的对峙
 
 > **原句 3:** "“Maybe we should just go,” Adam says, slipping into the driver’s seat."
+中文理解：该引语为原文节选。
 关键词：Maybe
 
 ---
@@ -32,9 +34,11 @@ modified: "2026-10-19"
 ### 第4处：审讯——监控视频的揭示
 
 > **原句 4:** "The screams continue."
+中文理解：该引语为原文节选。
 关键词：screams
 
 > **原句 5:** "“Oh my god,” I breathe, my chest tightening at a horrible realization."
+中文理解：该引语为原文节选。
 关键词：breathe
 
 ## 本章词汇

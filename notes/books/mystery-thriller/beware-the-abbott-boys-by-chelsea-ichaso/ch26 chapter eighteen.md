@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：Bram 透露 Henry 的秘密
 
 > **原句 1:** "In the morning, feelings of guilt, embarrassment, and fear rush back before my eyes are even open."
+中文理解：该引语为原文节选。
 关键词：morning
 
 ---
@@ -25,6 +26,7 @@ modified: "2026-10-19"
 ### 第2处：Hayden 与 Henry 的关系升级
 
 > **原句 2:** "Last night, Sage left the party immediately after posting."
+中文理解：该引语为原文节选。
 关键词：Last
 
 
@@ -32,7 +34,7 @@ modified: "2026-10-19"
 
 > **原句 3:** "Bram had locked himself up in his room, so it was up to Henry, Adam, and me to send everyone home."
 
-中文理解：Last night, Sage left the party immediately after posting.
+中文理解：该引语为原文节选。
 
 关键词：Bram
 

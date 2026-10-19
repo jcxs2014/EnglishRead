@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：Hayden 的怀疑——"I'm not sure they're wrong"
 
 > **原句 1:** "“I can’t believe we’re not going to the mountains,” Sage whines beside me on the bleachers, examining an acrylic nail—pastel pink this time."
+中文理解：该引语为原文节选。
 关键词：believe
 
 ---
@@ -25,6 +26,7 @@ modified: "2026-10-19"
 ### 第2处：Adam 的"回归"——green sweatshirt
 
 > **原句 2:** "“At least we get to have a retreat,” I tell her, still bitter about her comment to me last week regarding the Abbotts."
+中文理解：该引语为原文节选。
 关键词：least
 
 ---
@@ -32,6 +34,7 @@ modified: "2026-10-19"
 ### 第3处：Hayden 的 Frankenstein 引用——"It's his fault we're in this situation"
 
 > **原句 3:** "She rolls her eyes. “A day on campus is literally the opposite of a retreat. We "
+中文理解：该引语为原文节选。
 关键词：rolls
 
 ---
@@ -39,6 +42,7 @@ modified: "2026-10-19"
 ### 第4处：结尾——"something will end up broken"
 
 > **原句 4:** "“That’s not true.” Technically, we just can’t go into the woods, though they’re "
+中文理解：该引语为原文节选。
 关键词：That
 
 ## 本章词汇

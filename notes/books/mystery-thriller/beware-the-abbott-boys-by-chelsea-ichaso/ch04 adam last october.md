@@ -18,9 +18,11 @@ modified: "2026-10-19"
 ### 第1处：章节题词——Frankenstein 的镜像
 
 > **原句 1:** "“Listen to my tale; when you have heard that, abandon or commiserate me, as you shall judge that I deserve."
+中文理解：该引语为原文节选。
 关键词：Listen
 
 > **原句 2:** "Adam scanned the list of outside reading novels, his eyes glazing over the titles."
+中文理解：该引语为原文节选。
 关键词：Adam
 
 ---
@@ -28,6 +30,7 @@ modified: "2026-10-19"
 ### 第3处：Adam 对 Mariana 的复杂情感——"It all made Adam's stomach curl"
 
 > **原句 3:** "They were to choose a book by the end of the week, only there was no bookstore in Silver Creek."
+中文理解：该引语为原文节选。
 关键词：They
 
 ---
@@ -35,6 +38,7 @@ modified: "2026-10-19"
 ### 第4处：Adam 对 Bram 与 Mariana 关系的嫉妒
 
 > **原句 4:** "Adam wandered over to the classroom bookshelf."
+中文理解：该引语为原文节选。
 关键词：Adam
 
 ---
@@ -42,6 +46,7 @@ modified: "2026-10-19"
 ### 第5处：结尾——"The whispers said it had to be today"
 
 > **原句 5:** "“Hey, Adam.” Tanya Rockwell gave a shy smile and sidled up next to him. Her eyes"
+中文理解：该引语为原文节选。
 关键词：Adam
 | enigmatic | 神秘的 | "His charm and enigmatic allure" (ch03) |
 | commiserate | 同情；怜悯 | "abandon or commiserate me" |
@@ -67,7 +72,7 @@ modified: "2026-10-19"
 
 | 词/短语 | 难度 | 释义 |
 |---------|------|------|
-| word | ⭐⭐ | placeholder |
+| said | ⭐⭐ | 说 | "said" |
 
 ## 一句话总结
 

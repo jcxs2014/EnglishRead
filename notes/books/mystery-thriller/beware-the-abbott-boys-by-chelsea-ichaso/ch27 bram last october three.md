@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：章节题词——Dracula 的"最后我看到德古拉"
 
 > **原句 1:** "“The last I saw of Count Dracula was his kissing his hand to me, with a red light of triumph in his eyes, and with a smile that Judas in hell might be proud of."
+中文理解：该引语为原文节选。
 关键词：last
 
 ---
@@ -25,6 +26,7 @@ modified: "2026-10-19"
 ### 第2处：Mariana 与 Bram 分手
 
 > **原句 2:** "“There you are,” Bram said, finding Mariana on the path up to the mansion."
+中文理解：该引语为原文节选。
 关键词：There
 
 ---
@@ -32,6 +34,7 @@ modified: "2026-10-19"
 ### 第3处：Bram 与"her"的会面——"This has to end"
 
 > **原句 3:** "When he reached for her, she shrank back."
+中文理解：该引语为原文节选。
 关键词：When
 
 ---
@@ -39,6 +42,7 @@ modified: "2026-10-19"
 ### 第4处：结尾——"The sky itself was on fire"
 
 > **原句 4:** "Bram stood there in the mottled shade of a birch tree, stunned."
+中文理解：该引语为原文节选。
 关键词：Bram
 
 ## 本章词汇

@@ -18,6 +18,7 @@ modified: "2026-10-19"
 ### 第1处：Bram 透露 cops 有"damning evidence"
 
 > **原句 1:** "I scream and jab an elbow back, nailing my attacker in the stomach."
+中文理解：该引语为原文节选。
 关键词：scream
 
 ---
@@ -25,9 +26,11 @@ modified: "2026-10-19"
 ### 第2处：Hayden 与 Bram 拥抱——"It's okay"
 
 > **原句 2:** "I whip around. “Bram? Why the hell did you grab me?”"
+中文理解：该引语为原文节选。
 关键词：whip
 
 > **原句 3:** "I wince, the incident replaying in my mind."
+中文理解：该引语为原文节选。
 关键词：wince
 
 ---
@@ -35,6 +38,7 @@ modified: "2026-10-19"
 ### 第4处：结尾——Adam 的 accusation
 
 > **原句 4:** "“It got loud.” He stops fussing with his injury to rub his temples."
+中文理解：该引语为原文节选。
 关键词：loud
 
 ## 本章词汇
