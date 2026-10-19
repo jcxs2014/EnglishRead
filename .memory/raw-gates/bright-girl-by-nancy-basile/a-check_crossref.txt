@@ -1,0 +1,14 @@
+交叉引用核对：31 对，报警 11
+  ⚠️ ch03 erickson joins the case.md:198 → ch01 查无「worst day…」
+  ⚠️ ch03 erickson joins the case.md:210 → ch01 查无「worst day…」
+  ⚠️ ch07 captain briefing and bobby missing.md:126 → ch01 查无「cameras off since summer…」
+  ⚠️ ch17 shelby confronts erickson at firepit.md:54 → ch13 查无「Daniel Mendez…」
+  ⚠️ ch17 shelby confronts erickson at firepit.md:90 → ch07 查无「Bobby missing…」
+  ⚠️ ch17 shelby confronts erickson at firepit.md:102 → ch01 查无「sunny…」
+  ⚠️ ch17 shelby confronts erickson at firepit.md:126 → ch01 查无「Shawn died…」
+  ⚠️ ch18 sheetz and mendez trailer.md:62 → ch05 查无「Bobby’s doorway statement…」
+  ⚠️ ch18 sheetz and mendez trailer.md:98 → ch05 查无「Bobby’s ninety-seven…」
+  ⚠️ ch20 daniel mendez interview.md:26 → ch05 查无「split-level suburban home…」
+  ⚠️ ch20 daniel mendez interview.md:62 → ch05 查无「Bobby’s swollen red eyes…」
+
+⚠️ 报警须人工读行复核（同行多引用会误配）；确认后再判缺陷

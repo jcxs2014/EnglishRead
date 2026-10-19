@@ -1,0 +1,5 @@
+=== 精读结构扫描（bright-girl-by-nancy-basile）===
+  扫 39 个 md、392 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 10
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 1 ｜ 🔀 映射不一致 0
+  ⚠️ ch28 casino footage and mendez priors.md  第 36 行引语与第 24 行重复（提示型）：Officer Kim, I need you to check security fo
