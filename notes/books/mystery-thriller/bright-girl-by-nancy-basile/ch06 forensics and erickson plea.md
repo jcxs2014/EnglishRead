@@ -35,7 +35,7 @@ modified: "2026-10-19"
 
 > **原句 2:** “I’m going through yearbooks from Bellmoor Prep, looking at candid photos to see if we can connect Whitney with someone we haven’t heard about yet.”
 
-**中文理解**：Naomi 说：她在翻学校的年鉴，看那些抓拍照片，看能不能把 Whitney 和一个我们还没听说过的人联系起来。
+**中文理解**：Naomi 说：她正在翻 Bellmoor Prep 的年鉴，看那些抓拍照片，看能不能把 Whitney 和一个我们还没听说过的人联系起来——她想从照片里再找出一个和 Whitney 有关联的人出来，认出来。
 
 **关键词**：yearbooks from Bellmoor Prep／candid photos／connect Whitney with someone
 
@@ -47,7 +47,7 @@ modified: "2026-10-19"
 
 > **原句 3:** “Alleged BFF,” Naomi replied. “Possibly more like frenemy.”
 
-**中文理解**：Naomi 回答：所谓最好的朋友，也可能更像是一对友敌——她当时就是这么说的。
+**中文理解**：Naomi 回答：所谓最好的朋友，也可能更像是一对友敌。
 
 **关键词**：Alleged BFF／frenemy
 
@@ -107,7 +107,7 @@ modified: "2026-10-19"
 
 > **原句 8:** “Technically, it could have been anyone wearing a Bobcats jersey.”
 
-**中文理解**：Shelby 说：严格来说，穿 Bobcats 球衣的人可能是任何一个——这件球衣根本锁不住人。
+**中文理解**：Shelby 说：严格来说，穿 Bobcats 球衣的人可能是任何一个——球衣根本锁不住人。
 
 **关键词**：Technically／anyone wearing a Bobcats jersey
 

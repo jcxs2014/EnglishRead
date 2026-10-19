@@ -35,7 +35,7 @@ modified: "2026-10-19"
 
 > **原句 2:** I’d like you to meet Detective Jasper Erickson, from the Brooke County sheriff’s office.
 
-**中文理解**：队长接着介绍：这位是警长办派来的 Erickson 警探，我给你们介绍一下。
+**中文理解**：队长接着介绍：这位是来自 Brooke County 警长办公室的 Jasper Erickson 警探，我给你们两位介绍一下；她特意点明是警长办而不是市局，因为跨县借调要交代归属。
 
 **关键词**：Detective Jasper Erickson, from the Brooke County sheriff’s office
 

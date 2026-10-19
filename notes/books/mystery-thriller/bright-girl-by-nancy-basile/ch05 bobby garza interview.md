@@ -47,7 +47,7 @@ modified: "2026-10-19"
 
 > **原句 3:** “Bobby, did you know?” ... Bobby nodded. “Mr. Chandler called me. He thought I should know.”
 
-**中文理解**：屋里的母亲问：Bobby，你知道了吗？Bobby 点了点头说：是 Chandler 先生打过电话给我，他大概觉得我应该知道。
+**中文理解**：屋里的母亲问：Bobby，你知道了吗？Bobby 点了点头说：是 Chandler 先生打过电话给我，他觉得我应该知道这件事。
 
 **关键词**：Mr. Chandler called me／He thought I should know
 
@@ -167,7 +167,7 @@ modified: "2026-10-19"
 
 > **原句 13:** We’ll have to talk to Del Coleman. I got a text while we were talking to the Garzas.
 
-**中文理解**：Shelby 说：我们得去跟 Del 谈谈了。刚才跟 Bobby 一家谈话的时候，她收到一条短信，得马上过去。
+**中文理解**：Shelby 说：我们得去跟 Del Coleman 谈了。Del 是这案子里另一个名字。刚才跟 Garza 一家谈话的时候，她收到一条短信，得过去问一趟，看看到底是谁找她。
 
 **关键词**：Del Coleman
 

@@ -59,7 +59,7 @@ modified: "2026-10-19"
 
 > **原句 4:** “His parents say he was home all night.”
 
-**中文理解**：Erickson 重复了对方的话：他父母说他整晚都在家。
+**中文理解**：Erickson 答：他父母说他整晚都在家，这是他父母替他作的证。
 
 **关键词**：home all night
 

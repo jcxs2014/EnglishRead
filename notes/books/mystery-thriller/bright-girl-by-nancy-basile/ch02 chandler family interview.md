@@ -156,7 +156,7 @@ modified: "2026-10-19"
 
 > **原句 12:** We’ll need to question Bobby next.
 
-**中文理解**：回到车上，Shelby 跟搭档说：接下来得去问 Bobby 的下落和口供了。
+**中文理解**：回到车上，Shelby 跟搭档说：接下来得去问 Bobby 了，这是接下来的下一站。
 
 **关键词**：question Bobby next
 

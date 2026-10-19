@@ -119,7 +119,7 @@ modified: "2026-10-19"
 
 > **原句 9:** Yes, there were a couple of incidents when Bobby took his trash talk too far.
 
-**中文理解**：Wheeler 说：是啊，有过两回 Bobby 垃圾话说过头、把人都惹毛了的那种时候。
+**中文理解**：Wheeler 说：是啊，有过两回 Bobby 垃圾话说过头、最后闹出事情来的时候。
 
 **关键词**：trash talk too far
 
@@ -143,7 +143,7 @@ modified: "2026-10-19"
 
 > **原句 11:** This is a murder investigation, Detective. I’d appreciate it if you’d take it a little more seriously.
 
-**中文理解**：Shelby 在车里对他说：这是一起谋杀案，Detective，希望你能再认真一点，别再敷衍我们才对。
+**中文理解**：Shelby 在车里对他说：这是一起谋杀案，Detective，希望你能再认真一点、别再当成小事。
 
 **关键词**：take it a little more seriously
 
