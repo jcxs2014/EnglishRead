@@ -41,13 +41,13 @@ start_date: 2026-10-19
 - `can’t be seen together`：不能被看到在一起——secrecy imperative
 - `they’ll know`：他们会知道——threat of exposure
 
-**为什么这样写**：Valentín’s anxiety mirrors Yolanda’s—both are hiding something, both fear Alta’s surveillance。
+**为什么这样写**：Valentín 的 anxiety mirrors Yolanda’s——both are hiding something，both fear Alta’s surveillance。
 
 ---
 
 > **原句 3:** "“Yes,” says Itzco. “I know. But I love you, and I can’t stand being away from you.”"
 
-**中文理解**：Itzco’s confession reveals the affair—his "I love you" confirms Valentín’s "crooked" status. Yolanda’s scheme now has an obstacle: Valentín is already in love with Itzco.
+**中文理解**：Itzco 的告白揭示 affair——他的 "I love you" 确认 Valentín 的 "crooked" 身份。Yolanda 的 scheme 现在有了障碍：Valentín 已经爱上 Itzco。
 
 **句子结构**：两句话：确认（Yes, I know）+ 情感宣言（But I love you...）。
 
@@ -55,13 +55,13 @@ start_date: 2026-10-19
 - `I love you`：我爱你——Itzco’s confession
 - `can’t stand being away from you`：无法忍受分离——affair’s intensity
 
-**为什么这样写**：Itzco’s declaration is the inciting incident for Yolanda’s jealousy—she must now eliminate Itzco to access Valentín。
+**为什么这样写**：Itzco 的表白是 Yolanda 嫉妒的 inciting incident——她现在必须除掉 Itzco 才能接近 Valentín。
 
 ---
 
 > **原句 4:** "They kiss for what seems to be an eternity. I take in a sharp, deep breath. So this is what Alta was referring to when she said Valentín was crooked. Does she know he is having an affair with Itzco?"
 
-**中文理解**：Yolanda witnesses the kiss—"eternity" emphasizes duration and intensity. Her "sharp, deep breath" shows shock. She connects Alta’s "crooked" to the affair, questioning Alta’s awareness.
+**中文理解**：Yolanda 目睹接吻——"eternity" 强调持续时间与强度。她的 "sharp, deep breath" 显示 shock。她将 Alta 的 "crooked" 与 affair 联系起来，质疑 Alta 是否知情。
 
 **句子结构**：三句：观察（They kiss...）+ 反应（I take in...）+ 推理（So this is... Does she know...?）。
 
@@ -69,13 +69,13 @@ start_date: 2026-10-19
 - `kiss for what seems to be an eternity`：吻了似乎永恒——affair’s intensity
 - `crooked`：歪的——Alta’s homophobic label now explained
 
-**为什么这样写**：Yolanda’s deduction ("Does she know?") shows her analytical mind—she is always calculating others’ knowledge and vulnerabilities。
+**为什么这样写**：Yolanda 的推断（"Does she know?"）显示她的分析性思维——她总是在计算他人的知识与弱点。
 
 ---
 
 > **原句 5:** "“Give this to the butcher. Tell him you’re picking up the package for the Fernández De la Rosa family. He should give you a box with tonight’s dinner. Expect it to be heavy.”"
 
-**中文理解**：Alta sends Yolanda to butcher—delegating a task that exposes her to town and bruja. "Expect it to be heavy" foreshadows barbacoa (cow head).
+**中文理解**：Alta 派 Yolanda 去肉店——委托一项将她暴露给小镇与 bruja 的任务。"Expect it to be heavy" 预示 barbacoa（牛头）。
 
 **句子结构**：四句：命令（Give this to the butcher）+ 指示（Tell him...）+ 期待（He should give you...）+ 警告（Expect it to be heavy）。
 
@@ -83,39 +83,39 @@ start_date: 2026-10-19
 - `Fernández De la Rosa family`：家族名——name-dropping for authority
 - `Expect it to be heavy`：预计会很重——foreshadowing
 
-**为什么这样写**：Alta’s delegation shows Yolanda’s liminal status—she is neither family nor fully staff, sent on errands that expose her to town’s gossip。
+**为什么这样写**：Alta 的委托显示 Yolanda 的 liminal status——她既非 family 也非 fully staff，被派去暴露于小镇 gossip 的 errands。
 
 ---
 
 > **原句 6:** "“I haven’t had the chance, between all the vacuuming and tending beds.”"
 
-**中文理解**：Yolanda’s reply to Itzco—work as excuse for not exploring town. "Vacuuming and tending beds" summarizes her labor.
+**中文理解**：Yolanda 对 Itzco 的回答——以 work 为借口不探索小镇。"Vacuuming and tending beds" 概括她的劳动。
 
 **句子结构**：否定 + 原因（between all the...）。
 
 **关键词**：
 - `vacuuming and tending beds`：吸尘和铺床——Yolanda’s labor
 
-**为什么这样写**：Yolanda’s deflection shows her guardedness—she won’t reveal her ignorance or loneliness。
+**为什么这样写**：Yolanda 的 deflect 显示她的 guardedness——她不会暴露自己的无知或孤独。
 
 ---
 
 > **原句 7:** "“You the new one?”"
 
-**中文理解**：Butcher’s greeting—Yolanda reduced to "the new one," showing her interchangeable status in town’s eyes.
+**中文理解**：Butcher 的问候——Yolanda 被简化为 "the new one"，显示她在小镇眼中可替代的地位。
 
 **句子结构**：简单问句，主谓倒装（You the new one?）。
 
 **关键词**：
 - `the new one`：新人——interchangeable labor
 
-**为什么这样写**：Butcher’s indifference contrasts with Cesarea’s attention—town sees Yolanda as nobody, bruja sees her as something。
+**为什么这样写**：Butcher 的 indifference 与 Cesarea 的 attention 形成对比——小镇将 Yolanda 视为 nobody，bruja 将她视为 something。
 
 ---
 
 > **原句 8:** "“Excuse me?” I say to the woman. “I was here first. And let me tell you something, I work for the Fernández De la Rosa family.”"
 
-**中文理解**：Yolanda asserts priority and name-drops family—showing her learned strategy (from Rubí) of using association for power. "Excuse me?" is indignant.
+**中文理解**：Yolanda 断言优先权并 name-drops family——显示她从 Rubí 学来的 strategy：用 association 换取 power。"Excuse me?" 表示愤慨。
 
 **句子结构**：引语 + 引语。第一句疑问，第二句陈述 + 名字。
 
@@ -123,13 +123,13 @@ start_date: 2026-10-19
 - `I was here first`：我先来的——priority claim
 - `I work for the Fernández De la Rosa family`：我为家族工作——name-dropping
 
-**为什么这样写**：Yolanda’s "name-dropping" echoes Rubí’s strategy—using association to gain respect, but it backfires with Cesarea。
+**为什么这样写**：Yolanda 的 "name-dropping" 呼应 Rubí 的 strategy——用 association 换取 respect，但在 Cesarea 面前 backfires。
 
 ---
 
 > **原句 9:** "“The Fernández De la Rosa, you say?” she asks without turning to look at me. From her neck hangs a jar of minuscule bones."
 
-**中文理解**：Cesarea’s response—she doesn’t turn, showing indifference to family name. "Jar of minuscule bones" is her bruja signifier.
+**中文理解**：Cesarea 的回应——她不转身，显示对家族名的 indifference。"Jar of minuscule bones" 是她的 bruja signifier。
 
 **句子结构**：引语 + "she asks without turning" + 描述（From her neck hangs...）。
 
@@ -137,13 +137,13 @@ start_date: 2026-10-19
 - `without turning to look at me`：不转身看我——indifference to authority
 - `jar of minuscule bones`：小骨罐——bruja’s tool
 
-**为什么这样写**：Cesarea’s indifference to family name shows her power—she operates outside hacienda’s hierarchy, making her dangerous。
+**为什么这样写**：Cesarea 对家族名的 indifference 显示她的 power——她在 hacienda hierarchy 之外运作，making her dangerous。
 
 ---
 
 > **原句 10:** "“I know them well . . .” She shakes her head. “You should be careful, naming that family here. They aren’t everyone’s cup of tea.”"
 
-**中文理解**：Cesarea’s warning—"They aren’t everyone’s cup of tea"—shows family’s controversial status in town. Her "I know them well" implies hidden knowledge.
+**中文理解**：Cesarea 的警告——"They aren’t everyone’s cup of tea"——显示 family 在小镇的 controversial status。她的 "I know them well" 暗示 hidden knowledge。
 
 **句子结构**：引语 + 动作（She shakes her head）+ 引语（You should be careful...）。
 
@@ -151,13 +151,13 @@ start_date: 2026-10-19
 - `I know them well`：我很了解他们——hidden knowledge
 - `aren’t everyone’s cup of tea`：不讨所有人喜欢——controversial status
 
-**为什么这样写**：Cesarea’s warning positions her as outsider with knowledge—Yolanda ignores it, showing her naivety。
+**为什么这样写**：Cesarea 的警告将她定位为 outsider with knowledge——Yolanda 忽视它，显示她的 naivety。
 
 ---
 
 > **原句 11:** "“You already upset the bruja? Phew, you’ll get cursed before the week’s end, won’t you?” He laughs."
 
-**中文理解**：Butcher’s teasing—Yolanda has "upset the bruja" in minutes. "Cursed before the week’s end" is town’s superstition, but Yolanda’s "what if there’s something to it?" shows her uncertainty.
+**中文理解**：Butcher 的 tease——Yolanda 在几分钟内 "upset the bruja"。"Cursed before the week’s end" 是小镇的 superstition，但 Yolanda 的 "what if there’s something to it?" 显示她的 uncertainty。
 
 **句子结构**：引语 + "He laughs"。
 
@@ -165,13 +165,13 @@ start_date: 2026-10-19
 - `upset the bruja`：得罪 bruja——social faux pas
 - `get cursed`：被诅咒——superstition
 
-**为什么这样写**：Butcher’s laugh shows town’s familiarity with bruja—Yolanda is the outsider who doesn’t know the rules。
+**为什么这样写**：Butcher 的笑显示小镇对 bruja 的熟悉——Yolanda 是不知道规则的 outsider。
 
 ---
 
 > **原句 12:** "“Never call her that. Never. Not to her face anyway.”"
 
-**中文理解**：Butcher’s warning—bruja rejects the label "bruja." This reveals the gap between self-identification (curandera) and external labeling (bruja).
+**中文理解**：Butcher 的警告——bruja 拒绝 "bruja" 这个 label。这揭示 self-identification（curandera）与 external labeling（bruja）之间的 gap。
 
 **句子结构**：三句递进：Never call her that. Never. Not to her face anyway. Increasing emphasis.
 
@@ -179,39 +179,39 @@ start_date: 2026-10-19
 - `Never call her that`：永远别叫她那个——label rejection
 - `Not to her face anyway`：至少不当面——practical advice
 
-**为什么这样写**：Butcher’s warning establishes bruja’s power—Yolanda must learn town’s unwritten rules。
+**为什么这样写**：Butcher 的警告建立 bruja 的 power——Yolanda 必须学会小镇的 unwritten rules。
 
 ---
 
 > **原句 13:** "“What?” says the witch, savoring the word."
 
-**中文理解**：Cesarea’s "What?" with "savoring the word"—she enjoys Yolanda’s discomfort, showing her power and theatricality.
+**中文理解**：Cesarea 的 "What?" 伴随 "savoring the word"——她享受 Yolanda 的 discomfort，显示她的 power 与 theatricality。
 
 **句子结构**：引语 + "says the witch, savoring the word"。
 
 **关键词**：
 - `savoring the word`：品味这个词——Cesarea’s enjoyment of power
 
-**为什么这样写**：Cesarea’s theatricality contrasts with Yolanda’s nervousness—bruja as performer, Yolanda as audience。
+**为什么这样写**：Cesarea 的 theatricality 与 Yolanda 的 nervousness 形成对比——bruja 是 performer，Yolanda 是 audience。
 
 ---
 
 > **原句 14:** "“I came to apologize.”"
 
-**中文理解**：Yolanda’s apology—simple, direct. Shows her adaptability and survival instinct.
+**中文理解**：Yolanda 的道歉——simple, direct。显示她的 adaptability 与 survival instinct。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主语 I + 谓语 came + 不定式 to apologize。
 
 **关键词**：
 - `I came to apologize`：我来道歉——Yolanda’s pragmatism
 
-**为什么这样写**：Yolanda’s quick apology shows she can adapt to power dynamics—she doesn’t cling to pride。
+**为什么这样写**：Yolanda 的 quick apology 显示她能 adapt to power dynamics——她不 cling to pride。
 
 ---
 
 > **原句 15:** "“Noted.” She picks up the cage and pushes the dark green gate forward with her body."
 
-**中文理解**：Cesarea’s "Noted"—minimal, dismissive. "Pushes the dark green gate forward with her body" shows physical control of space.
+**中文理解**：Cesarea 的 "Noted"——minimal, dismissive。"Pushes the dark green gate forward with her body" 显示 physical control of space。
 
 **句子结构**：引语 + 动作（She picks up... pushes...）。
 
@@ -219,65 +219,65 @@ start_date: 2026-10-19
 - `Noted`：记下了——minimal acknowledgment
 - `pushes the dark green gate forward with her body`：用身体推门——physical control
 
-**为什么这样写**：Cesarea’s "Noted" is ambiguous—acceptance or dismissal? Yolanda’s "overwhelming need to see inside" shows her curiosity about bruja’s power。
+**为什么这样写**：Cesarea 的 "Noted" 是 ambiguous——acceptance or dismissal？Yolanda 的 "overwhelming need to see inside" 显示她对 bruja’s power 的 curiosity。
 
 ---
 
 > **原句 16:** "“Have you ever been inside the bruja’s house?”"
 
-**中文理解**：Yolanda’s question to Itzco—her curiosity about bruja’s interior. Itzco’s "You shouldn’t be thinking about that" shows town’s fear of bruja.
+**中文理解**：Yolanda 对 Itzco 的问题——她对 bruja interior 的 curiosity。Itzco 的 "You shouldn’t be thinking about that" 显示小镇对 bruja 的 fear。
 
 **句子结构**：问句。
 
 **关键词**：
 - `inside the bruja’s house`：bruja 的房子内部——forbidden space
 
-**为什么这样写**：Yolanda’s curiosity about bruja mirrors her curiosity about hacienda’s secrets—she is drawn to hidden knowledge。
+**为什么这样写**：Yolanda 对 bruja 的 curiosity mirrors 她对 hacienda secrets 的 curiosity——她被 hidden knowledge 吸引。
 
 ---
 
 > **原句 17:** "“You shouldn’t be thinking about that,” he says. “She hates the family.”"
 
-**中文理解**：Itzco’s warning—bruja "hates the family," showing hacienda-bruja antagonism. This positions bruja as anti-hacienda force.
+**中文理解**：Itzco 的警告——bruja "hates the family"，显示 hacienda-bruja antagonism。这将 bruja 定位为 anti-hacienda force。
 
 **句子结构**：两句话：警告（You shouldn’t be thinking about that）+ 理由（She hates the family）。
 
 **关键词**：
 - `She hates the family`：她恨这个家族——bruja-hacienda antagonism
 
-**为什么这样写**：Itzco’s warning reinforces town’s fear—bruja is positioned as enemy of Fernández De la Rosa, suggesting historical conflict。
+**为什么这样写**：Itzco 的警告强化小镇的 fear——bruja 被定位为 Fernández De la Rosa 的 enemy，暗示 historical conflict。
 
 ---
 
 > **原句 18:** "“Dinner,” he says."
 
-**中文理解**：Javier’s single word "Dinner" after pulling cow head from box—his casual treatment of barbacoa shows his comfort with death/meat, contrasting with Yolanda’s disgust.
+**中文理解**：Javier 拉出牛头后的单字 "Dinner"——他对 barbacoa 的 casual treatment 显示他对 death/meat 的 comfort，与 Yolanda 的 disgust 形成对比。
 
 **句子结构**：单字引语。
 
 **关键词**：
 - `Dinner`：晚餐——Javier’s casualness
 
-**为什么这样写**：Javier’s "Dinner" is chilling— he treats cow head as mundane, showing his desensitization. Yolanda’s "Deep breaths" shows her trying to cope.
+**为什么这样写**：Javier 的 "Dinner" 令人 chilling——他将牛头视为 mundane，显示他的 desensitization。Yolanda 的 "Deep breaths" 显示她 trying to cope。
 
 ---
 
 > **原句 19:** "“Gracias, Javier. For the help,” I say, remembering what Itzco told me: Javier always tries to sleep with the new girls."
 
-**中文理解**：Yolanda’s "Gracias" is performative—she remembers Itzco’s warning but still thanks Javier. "Always tries to sleep with the new girls" shows Javier’s predatory pattern.
+**中文理解**：Yolanda 的 "Gracias" 是 performative——她记得 Itzco 的 warning 但仍感谢 Javier。"Always tries to sleep with the new girls" 显示 Javier 的 predatory pattern。
 
 **句子结构**：引语 + 叙述者评注（remembering what Itzco told me...）。
 
 **关键词**：
 - `always tries to sleep with the new girls`：总是试图与新人睡觉——Javier’s pattern
 
-**为什么这样写**：Yolanda’s performative gratitude shows her strategic thinking—she must maintain appearances while protecting herself。
+**为什么这样写**：Yolanda 的 performative gratitude 显示她的 strategic thinking——她必须 maintain appearances while protecting herself。
 
 ---
 
 > **原句 20:** "“It’s okay.” The scent of alcohol wafts from his mouth. He pinches my cheek, almost as if he expects a piece of meat to detach from my face too. “It’s okay,” he repeats. “This little lady can call me whatever she wants.”"
 
-**中文理解**：Javier’s "It’s okay" + alcohol breath + cheek pinch—his predatory behavior mirrors Brother. "This little lady can call me whatever she wants" shows his condescension and entitlement.
+**中文理解**：Javier 的 "It’s okay" + alcohol breath + cheek pinch——他的 predatory behavior mirrors Brother。"This little lady can call me whatever she wants" 显示他的 condescension and entitlement。
 
 **句子结构**：引语 + 描述（scent of alcohol... pinches my cheek...）+ 引语 + 引语。
 
@@ -286,13 +286,13 @@ start_date: 2026-10-19
 - `pinches my cheek`：捏脸——predatory familiarity
 - `This little lady can call me whatever she wants`：这位小女士可以随便叫我——condescension
 
-**为什么这样写**：Javier’s behavior parallels Brother’s—both use physical contact and alcohol to assert power. Yolanda’s "He reminds me of Brother" confirms this pattern.
+**为什么这样写**：Javier 的 behavior parallels Brother’s——两者都用 physical contact and alcohol 来 assert power。Yolanda 的 "He reminds me of Brother" 确认这个 pattern。
 
 ---
 
 > **原句 21:** "“It’s barbacoa. The butcher, or someone who works for him, more likely, buried it in a hole in the ground and then cooked it.”"
 
-**中文理解**：Alta explains barbacoa—underground cooking. "Tastes of the underworld" is Alta’s dark humor, showing her knowledge of traditional methods.
+**中文理解**：Alta 解释 barbacoa——地下烹饪。"Tastes of the underworld" 是 Alta 的 dark humor，显示她对 traditional methods 的 knowledge。
 
 **句子结构**：两句话：定义（It’s barbacoa...）+ 描述（buried it in a hole...）。
 
@@ -300,78 +300,78 @@ start_date: 2026-10-19
 - `barbacoa`：墨西哥地下烤肉
 - `buried it in a hole in the ground`：埋在地下——traditional cooking
 
-**为什么这样写**：Alta’s "tastes of the underworld" connects food to death/underworld—foreshadowing hacienda’s dark secrets。
+**为什么这样写**：Alta 的 "tastes of the underworld" 将 food 与 death/underworld 联系——foreshadowing hacienda 的 dark secrets。
 
 ---
 
 > **原句 22:** "“Rich people are disgusting,” says Itzco as he hands me a woven basket of tortillas."
 
-**中文理解**：Itzco’s class critique—"Rich people are disgusting"—while serving rich people’s dinner. His hypocrisy or genuine resentment?
+**中文理解**：Itzco 的 class critique——"Rich people are disgusting"——while serving rich people’s dinner。His hypocrisy or genuine resentment？
 
 **句子结构**：引语 + "says Itzco as he hands me..."。
 
 **关键词**：
 - `Rich people are disgusting`：富人恶心——class resentment
 
-**为什么这样写**：Itzco’s resentment mirrors Yolanda’s—both are staff serving family, both harbor class anger. But Itzco’s warning about Javier shows he’s not naive。
+**为什么这样写**：Itzco 的 resentment mirrors Yolanda’s——both are staff serving family，both harbor class anger。But Itzco’s warning about Javier shows he’s not naive。
 
 ---
 
 > **原句 23:** "“Señor,” I say."
 
-**中文理解**：Yolanda addresses Valentín as "Señor"—formal, respectful. Her nervousness ("swallow, stunned that he knows my name") shows her infatuation.
+**中文理解**：Yolanda 以 "Señor" 称呼 Valentín——formal, respectful。她的 nervousness（"swallow, stunned that he knows my name"）显示她的 infatuation。
 
 **句子结构**：简单引语。
 
 **关键词**：
 - `Señor`：先生——formal address
 
-**为什么这样写**：Yolanda’s formality with Valentín shows her strategic performance—she is playing the respectful maid, but her "lost in his perfect kaleidoscopic irises" reveals desire。
+**为什么这样写**：Yolanda 对 Valentín 的 formality 显示她的 strategic performance——她扮演 respectful maid，但 "lost in his perfect kaleidoscopic irises" 揭示 desire。
 
 ---
 
 > **原句 24:** "“Yolanda.”"
 
-**中文理解**：Valentín knows her name—Yolanda is "stunned." This small recognition fuels her fantasy.
+**中文理解**：Valentín 知道她的名字——Yolanda "stunned"。这个 small recognition fuels 她的 fantasy。
 
 **句子结构**：单字引语。
 
 **关键词**：
 - `Yolanda`：她的名字——Valentín 的 recognition
 
-**为什么这样写**：Valentín’s use of her name (vs "the new one" from butcher) shows his kindness—and Yolanda’s vulnerability to kindness。
+**为什么这样写**：Valentín 使用她的名字（vs butcher 的 "the new one"）显示他的 kindness——以及 Yolanda 对 kindness 的 vulnerability。
 
 ---
 
 > **原句 25:** "“How may I help you?”"
 
-**中文理解**：Valentín’s polite offer—"How may I help you?"—contrasts with Javier’s pinch and Alta’s commands. Yolanda is "trapped" in his gaze。
+**中文理解**：Valentín 的 polite offer——"How may I help you?"——与 Javier 的 pinch 和 Alta 的 commands 形成对比。Yolanda "trapped" in his gaze。
 
 **句子结构**：问句。
 
 **关键词**：
 - `How may I help you?`：我可以帮你什么？——Valentín’s kindness
 
-**为什么这样写**：Valentín’s kindness is dangerous—it gives Yolanda hope, making her more invested in scheme。
+**为什么这样写**：Valentín 的 kindness 是 dangerous——它给 Yolanda hope，making her more invested in scheme。
 
 ---
 
 > **原句 26:** "“If you need anything, all you need to do is ask. Okay? I want everyone to be happy here.”"
 
-**中文理解**：Valentín’s "I want everyone to be happy here" is genuine benevolence—or naivety. Yolanda interprets it as opportunity。
+**中文理解**：Valentín 的 "I want everyone to be happy here" 是 genuine benevolence——或 naivety。Yolanda 将其解读为 opportunity。
 
 **句子结构**：两句话：条件（If you need anything...）+ 声明（I want everyone to be happy here）。
 
 **关键词**：
 - `I want everyone to be happy here`：我希望这里 everyone 都快乐——Valentín’s idealism
 
-**为什么这样写**：Valentín’s idealism contrasts with hacienda’s reality—his kindness will be exploited by Yolanda。
+**为什么这样写**：Valentín 的 idealism 与 hacienda 的 reality 形成对比——他的 kindness 将被 Yolanda exploit。
 
 ---
 
 > **原句 27:** "“It’s Itzco.” I think of this as a Band-Aid. The faster I get rid of him, the better."
 
-**中文理解**：Yolanda’s plan to eliminate Itzco—she frames it as "Band-Aid" (quick fix), but it’s actually strategic removal of rival. "The faster I get rid of him" shows her ruthlessness.
+**中文理解**：Yolanda 消除 Itzco 的 plan——她将之 frame 为 "Band-Aid"（quick fix），但实际上是 strategic removal of rival。"The faster I get rid of him" 显示她的 ruthlessness。
 
 **句子结构**：引语 + 叙述者评注（I think of this as a Band-Aid...）。
 
@@ -379,13 +379,13 @@ start_date: 2026-10-19
 - `Band-Aid`：创可贴——quick fix metaphor
 - `get rid of him`：除掉他——rival elimination
 
-**为什么这样写**：Yolanda’s "Band-Aid" framing shows her self-justification—she converts jealousy into strategy, echoing Rubí。
+**为什么这样写**：Yolanda 的 "Band-Aid" framing 显示她的 self-justification——她将 jealousy 转化为 strategy，echoing Rubí。
 
 ---
 
 > **原句 28:** "“Yes?” Alta crosses her hands over her chest, right where her silver cross rests."
 
-**中文理解**：Alta’s posture—"crosses her hands over her chest, right where her silver cross rests"—shows her religious identity and defensive stance. Yolanda is about to lie.
+**中文理解**：Alta 的 posture——"crosses her hands over her chest, right where her silver cross rests"——显示她的 religious identity and defensive stance。Yolanda 即将 lie。
 
 **句子结构**：引语 + 动作（Alta crosses her hands...）。
 
@@ -393,33 +393,33 @@ start_date: 2026-10-19
 - `silver cross`：银十字架——Alta’s religious identity
 - `crosses her hands over her chest`：双手抱胸——defensive posture
 
-**为什么这样写**：Alta’s cross is both religious symbol and barrier—Yolanda must overcome it with her lie。
+**为什么这样写**：Alta 的 cross 既是 religious symbol 也是 barrier——Yolanda 必须用她的 lie 克服它。
 
 ---
 
 > **原句 29:** "“He is sneaking into the women’s bunkhouse at night.”"
 
-**中文理解**：Yolanda’s lie—she accuses Itzco of sneaking into women’s bunkhouse. This is fabrication to eliminate rival. "My stomach clenches" shows her guilt.
+**中文理解**：Yolanda 的 lie——她指控 Itzco 偷偷溜进女宿舍。这是 fabrication to eliminate rival。"My stomach clenches" 显示她的 guilt。
 
-**句子结构**：陈述句。
+**句子结构**：简单陈述句，主语 He + 谓语 is sneaking + 介词短语 into the women’s bunkhouse at night。
 
 **关键词**：
 - `sneaking into the women’s bunkhouse at night`：晚上偷偷溜进女宿舍——fabricated accusation
 
-**为什么这样写**：Yolanda’s lie is "small white lie" in her mind, but it targets Itzco’s relationship with Valentín—she is willing to destroy others for her scheme。
+**为什么这样写**：Yolanda 的 lie 在她心中是 "small white lie"，但它针对 Itzco 与 Valentín 的关系——她愿意为 scheme 摧毁他人。
 
 ---
 
 > **原句 30:** "“Did he try to force you or one of the girls to . . . do something?”"
 
-**中文理解**：Alta’s follow-up—she immediately jumps to sexual assault, showing her assumption about Itzco. Yolanda denies, but the question reveals Alta’s suspicion about Itzco.
+**中文理解**：Alta 的 follow-up——她立即跳到 sexual assault，显示她对 Itzco 的 assumption。Yolanda 否认，但这个问题 reveals Alta 对 Itzco 的 suspicion。
 
 **句子结构**：问句，with ellipsis (...).
 
 **关键词**：
 - `force you or one of the girls to . . . do something`：强迫你或女孩做某事——Alta’s assumption
 
-**为什么这样写**：Alta’s question shows hacienda’s sexual anxiety—Itzco’s homosexuality is conflated with sexual predation in Alta’s mind。
+**为什么这样写**：Alta 的 question 显示 hacienda 的 sexual anxiety——Itzco 的 homosexuality 在 Alta 心中与 sexual predation conflated。
 
 ---
 
