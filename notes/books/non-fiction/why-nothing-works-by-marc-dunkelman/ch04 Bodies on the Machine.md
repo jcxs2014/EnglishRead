@@ -44,66 +44,66 @@ modified: "2026-10-17"
 
 > **原句 1:** "The morbid darkness of that era had helped to fuel what would later be termed the Great Migration."
 
-- **中文理解**：that era 的 morbid darkness had helped to fuel what would later be termed the Great Migration。
+- **中文理解**：那个时代的病态黑暗，助长了后来被称为「大迁徙」的浪潮。
 - **句子结构**：主语 + had helped to fuel + 宾语从句。
 - **关键词**：`morbid darkness`、`Great Migration`
-- **表达方式**：morbid darkness 把 Jim Crow 的恐怖具象化；fuel 强调 causation。
-- **为什么这样写**：prologue 的 historical setup——Black migration 北上是 progressivism 面临 "ghetto problem" 的 precondition。
+- **表达方式**：用「病态黑暗」把吉姆·克劳制度下的恐怖具象化；fuel（助燃）一词强调因果关系。
+- **为什么这样写**：这是开篇的历史铺垫——黑人北迁是进步主义面对「贫民窟问题」的先决条件。
 
 > **原句 2:** "The problem, of course, was that the challenge of 'youth crime,' to use the euphemism of the moment, wasn't solvable in the same manner. There were no rivers to dam or arsenals to build."
 
-- **中文理解**：problem 是 "youth crime" 这个 challenge 不是 solvable in the same manner（euphemism of the moment）；there were no rivers to dam or arsenals to build。
+- **中文理解**：问题在于，「青少年犯罪」这一挑战——借用当时的委婉说法——无法用同样的方式解决。这里没有可以拦河筑坝的河流，也没有可以建造的军火库。
 - **句子结构**：两句话：第一句 problem was... wasn't solvable...；第二句 there were no...
 - **关键词**：`euphemism`、`no rivers to dam or arsenals to build`
-- **表达方式**：no rivers to dam 直接呼应 TVA 的 Hamiltonian solution，突出 "ghetto problem" 的 unsolvability by centralized infrastructure。
-- **为什么这样写**：transition from Hamiltonian to Jeffersonian—when infrastructure solutions fail, "empowerment" becomes the alternative.
+- **表达方式**：「没有河流可筑坝」直接呼应 TVA 的汉密尔顿式解决方案，突出「贫民窟问题」无法靠中央集权式基础设施解决。
+- **为什么这样写**：完成从汉密尔顿式到杰斐逊式的过渡——当基础设施方案失灵时，「赋权」便成为替代选项。
 
 > **原句 3:** "The watchword for their strategy was 'institutional reform.'"
 
-- **中文理解**：their strategy 的 watchword was "institutional reform"。
+- **中文理解**：他们战略的口号是「机构改革」。
 - **句子结构**：主系表。
 - **关键词**：`watchword`、`institutional reform`
-- **表达方式**：watchword 把 abstract strategy 压缩为 slogan。
-- **为什么这样写**：mark the Jeffersonian turn within Kennedy White House；"institutional reform" = empower critics, not Establishment.
+- **表达方式**：watchword（口号）一词把抽象的战略压缩成一句标语。
+- **为什么这样写**：标志肯尼迪白宫内部的杰斐逊式转向——「机构改革」意味着赋权给批评者，而不是建制派。
 
 > **原句 4:** "The legislation specified that each initiative should be 'developed, conducted, and administered with the maximum feasible participation of residents of the areas and members of the groups serviced.' And that last phrase—'maximum feasible participation'—became the crux of the whole enterprise."
 
-- **中文理解**：legislation specified each initiative should be "developed, conducted, and administered with the maximum feasible participation of residents..."；that last phrase—'maximum feasible participation'—became the crux of the whole enterprise。
+- **中文理解**：法案规定，每项举措都应由服务地区居民和服务群体成员「最大限度地切实参与」来制定、实施和管理。而这最后一句话——「最大可行参与」——成了整个事业的关键。
 - **句子结构**：主句 + 宾语从句；第二句破折号强调 crux。
 - **关键词**：`maximum feasible participation`、`crux`
-- **表达方式**：crux 把 phrase 的 centrality 点出；"maximum feasible" 的 ambiguity 是后文 conflict 的 source。
-- **为什么这样写**：the key phrase that defined CAPs—and its ambiguity fueled conflict.
+- **表达方式**：用 crux（关键）点出这一短语的中心地位；「最大可行」的含混性是后文冲突的根源。
+- **为什么这样写**：这是定义社区行动计划（CAPs）的关键短语——而它的含混性助长了冲突。
 
 > **原句 5:** "There's a time when the operation of the machine becomes so odious, makes you so sick at heart that you can't take part! You can't even passively take part! And you've got to put your bodies upon the gears and upon the wheels, upon the levers, upon all the apparatus—and you've got to make it stop!"
 
-- **中文理解**：Mario Savio 的 Free Speech Movement 演讲：当 machine 的 operation 变得 so odious，makes you so sick at heart that you can't take part... you've got to put your bodies upon the gears...
+- **中文理解**：马里奥·萨维奥（Mario Savio）在自由言论运动中的演讲：当机器的运转变得如此可憎、让你恶心到无法参与时……你就必须把身体压上齿轮……
 - **句子结构**：exclamatory sentences, anaphora。
 - **关键词**：`odious`、`bodies upon the gears`
-- **表达方式**：bodies on the machine 的 imagery——本章标题的 source。
-- **为什么这样写**：把 New Left 的 anti-machine rhetoric 推到 climax；"bodies" 与 "machine" 的 juxtaposition 是本章 thesis 的 embodiment。
+- **表达方式**：「身体堵住机器」（bodies on the machine）的意象——这正是本章标题的来源。
+- **为什么这样写**：把新左派反机器的修辞推向高潮；「身体」与「机器」并置，正是本章论点的具象化身。
 
 > **原句 6:** "Liberals traced their common lineage to the Enlightenment. They believed that society could be understood and, once understood, rationally steered through responsible action. Reason was the name of their faith, and the government its instrument."
 
-- **中文理解**：Gitlin 的总结：Liberals traced their common lineage to the Enlightenment；they believed society could be understood and rationally steered；Reason was the name of their faith, and the government its instrument。
+- **中文理解**：吉特林（Gitlin）总结道：自由派把自己的谱系追溯到启蒙运动；他们相信社会可以被理解，并且一旦被理解，就能通过负责任的行为被理性地引导。理性是他们信仰的名字，政府则是其工具。
 - **句子结构**：三句话，progressive。
 - **关键词**：`common lineage`、`Reason was the name of their faith`
-- **表达方式**：Reason as faith——Hamiltonian progressivism 的 epistemic foundation。
-- **为什么这样写**：establish what New Left was reacting against；"Reason as faith" 的 critique 是 Jeffersonian turn 的 intellectual fuel.
+- **表达方式**：把理性当作信仰——这是汉密尔顿式进步主义的认识论根基。
+- **为什么这样写**：确立新左派所要反对的对象；「理性即信仰」的批判是杰斐逊式转向的智识燃料。
 
 > **原句 7:** "There aren't any more state governments. We have these honorary pigs like [San Francisco] Mayor Alioto… presiding over the distribution of a lot of federal funds. He's plugged into one gigantic system, one octopus spanning the continent from one end to the other, reaching its tentacles all around the world, in everybody's pocket and around everybody's neck. We have just one octopus."
 
-- **中文理解**：Eldridge Cleaver 的 indictment：no more state governments；one octopus spanning the continent... in everybody's pocket and around everybody's neck。
+- **中文理解**：埃尔德里奇·克利弗（Eldridge Cleaver）的控诉：州政府已经不存在了；只有一只章鱼横跨大陆……触手伸进每个人的口袋、缠住每个人的脖子。
 - **句子结构**：exclamatory + metaphorical elaboration。
 - **关键词**：`one octopus`、`tentacles`
-- **表达方式**：octopus metaphor 把 all Establishment universalized 为 single menace。
-- **为什么这样写**：本章 thesis 的 rhetorical climax—"just one octopus" 把 Jeffersonian suspicion 推到 its logical extreme。
+- **表达方式**：章鱼隐喻把整个建制派普遍化为单一的威胁。
+- **为什么这样写**：这是本章论点的修辞高潮——「只有一只章鱼」把杰斐逊式怀疑推到逻辑的极致。
 
 > **原句 8:** "In the cultural battle for the heart of the movement, the aversion to power had prevailed."
-- **中文理解**：在 movement 心脏的 cultural battle 中，aversion to power had prevailed。
+- **中文理解**：在这场争夺运动心脏的文化战争中，对权力的厌恶占据了上风。
 - **句子结构**：介词短语 + 主句，主系表。
 - **关键词**：`cultural battle`、`aversion to power`、`prevailed`
-- **表达方式**：cultural battle 把 ideological shift 具象化；prevailed 一词把 Jeffersonian 的胜利定性为 decisive。
-- **为什么这样写**：本章 thesis 的收束——aversion to power had prevailed，为后文 "paralysis" 的 consequence 铺垫。
+- **表达方式**：「文化战争」把意识形态的转变具象化；prevailed（胜出）一词把杰斐逊派的胜利定性为决定性的。
+- **为什么这样写**：收束本章论点——对权力的厌恶已占上风，为后文「瘫痪」的后果作铺垫。
 
 ## 词汇分级
 

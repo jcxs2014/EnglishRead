@@ -44,66 +44,66 @@ modified: "2026-10-17"
 
 > **原句 1:** "To save the city, they argued, you needed to build through it."
 
-- **中文理解**：To save the city, they argued, you needed to build through it。
+- **中文理解**：他们认为，要拯救这座城市，就必须把公路修穿它。
 - **句子结构**：To save the city + they argued + you needed to build through it。
 - **关键词**：`build through it`
-- **表达方式**：build through it 把 expressway 的 invasive nature 具象化。
-- **为什么这样写**：establish the Hamiltonian premise—expressways as urban salvation—before showing its Jeffersonian rejection.
+- **表达方式**：「修穿城市」（build through it）把高速公路的侵入性具象化。
+- **为什么这样写**：先确立汉密尔顿式的前提——高速公路是城市的救星——再展示它如何被杰斐逊式地拒绝。
 
 > **原句 2:** "a mandatory prohibition against the use of the enumerated lands, but rather, a discretionary authority which must be used with both wisdom and reason."
-- **中文理解**：4(f) was not intended to issue 'a mandatory prohibition against the use of the enumerated lands, but rather, a discretionary authority which must be used with both wisdom and reason.'
+- **中文理解**：4(f) 条款并非意在发布「一项禁止使用所列土地的强制性禁令，而是一项必须审慎而理性地运用的裁量权」。
 - **句子结构**：主系表 + 宾语从句。
 - **关键词**：`discretionary authority`、`wisdom and reason`
-- **表达方式**：discretionary authority 把 4(f) 的 original intent 具象化—discretion, not prohibition。
-- **为什么这样写**：establish the gap between legislative intent (discretionary) and judicial interpretation (paramount importance)。
+- **表达方式**：「裁量权」一词把 4(f) 条款的立法原意具象化——是裁量，不是禁令。
+- **为什么这样写**：确立立法原意（裁量）与司法解释（压倒性重要）之间的落差。
 
 > **原句 3:** "It is obvious that in most cases considerations of cost, directness of route, and community disruption will indicate that parkland should be used for highway construction whenever possible."
 
-- **中文理解**：Marshall: "It is obvious that in most cases considerations of cost, directness of route, and community disruption will indicate that parkland should be used for highway construction whenever possible."
+- **中文理解**：马歇尔（Marshall）大法官说：「显然，在大多数情况下，对成本、路线直捷程度和社区扰动的考量，都会表明只要有可能就应该利用公园用地来修建高速公路。」
 - **句子结构**：It is obvious that + 宾语从句。
 - **关键词**：`cost, directness of route, and community disruption`
-- **表达方式**：Marshall's acknowledgment of practical considerations—then pivots to "paramount importance" of parkland。
-- **为什么这样写**：set up the tension between practical considerations and environmental protection; Marshall's "Jeffersonian earthquake."
+- **表达方式**：马歇尔先承认现实考量——随即转向公园用地的「压倒性重要」。
+- **为什么这样写**：为现实考量与环境保护之间的张力作铺垫；这是马歇尔引发的「杰斐逊式地震」。
 
 > **原句 4:** "Congress clearly did not intend that cost and disruption of the community were to be ignored.… The statute indicates that protection of the parkland was to be given paramount importance."
 
-- **中文理解**：Marshall: "Congress clearly did not intend that cost and disruption of the community were to be ignored.… The statute indicates that protection of the parkland was to be given paramount importance."
+- **中文理解**：马歇尔写道：「国会显然无意让成本和社区扰动被忽视……该法表明，保护公园用地应被置于压倒一切的重要地位。」
 - **句子结构**：两句话：第一句 Congress did not intend...；第二句 The statute indicates...
 - **关键词**：`paramount importance`
-- **表达方式**：paramount importance 把 parkland protection elevated above cost/disruption。
-- **为什么这样写**：the "Jeffersonian earthquake"—judicial reinterpretation elevating environmental protection over practical considerations。
+- **表达方式**：「压倒一切的重要地位」把公园用地保护提升到成本与扰动之上。
+- **为什么这样写**：这就是「杰斐逊式地震」——司法重新解释，把环境保护抬高到现实考量之上。
 
 > **原句 5:** "The first place where individual citizens used the law to stop the state and federal highway building and all the money and power behind them."
 
-- **中文理解**：Sierra Club president: "the first place where individual citizens used the law to stop the state and federal highway building and all the money and power behind them."
+- **中文理解**：塞拉俱乐部主席说：「这是普通公民第一次利用法律来阻止州政府和联邦政府修建公路，以及它们背后所有的金钱与权力。」
 - **句子结构**：名词短语。
 - **关键词**：`individual citizens used the law to stop`
-- **表达方式**：individual citizens used the law—Jeffersonian triumphalism。
-- **为什么这样写**：illustrate the environmental movement's embrace of judicial power as progressive tool.
+- **表达方式**：「普通公民利用法律来阻止」——杰斐逊式的胜利宣言。
+- **为什么这样写**：说明环保运动如何拥抱司法权力作为进步主义的工具。
 
 > **原句 6:** "The individual has to yield in matters of this kind to the entire country, to the advantages and needs of the majority of people."
 
-- **中文理解**：Moses: "The individual has to yield in matters of this kind to the entire country, to the advantages and needs of the majority of people."
+- **中文理解**：摩西说：「在这类事情上，个人必须向整个国家、向多数人的利益与需要让步。」
 - **句子结构**：主句 + 介词短语。
 - **关键词**：`individual has to yield`、`majority of people`
-- **表达方式**：Moses's imperiousness—individual rights subordinated to majority/Establishment。
-- **为什么这样写**：establish the Establishment's ethos that Jeffersonian reformers would reject.
+- **表达方式**：这是摩西的专横——个人权利服从于多数人与建制派。
+- **为什么这样写**：确立建制的作风——这正是杰斐逊派改革者所要反对的。
 
 > **原句 7:** "It was not a simple challenge. By dint of Overton Park, no federally funded project... could impinge on a public green space except in the most limited circumstances."
 
-- **中文理解**：It was not a simple challenge. By dint of Overton Park, no federally funded project... could impinge on a public green space except in the most limited circumstances。
+- **中文理解**：这并不是一个简单的挑战。由于奥弗顿公园案的裁决，任何由联邦资助的项目……除非在最有限的情况下，都不得侵犯公共绿地。
 - **句子结构**：两句话：第一句 negation；第二句 By dint of + 主句。
 - **关键词**：`By dint of Overton Park`、`impinge on a public green space`
-- **表达方式**：By dint of Overton Park—Marshall's decision as binding constraint。
-- **为什么这样写**：illustrate how Overton Park became a binding constraint on all federal infrastructure.
+- **表达方式**：「由于奥弗顿公园案」（By dint of Overton Park）——马歇尔的判决成了有约束力的限制。
+- **为什么这样写**：说明奥弗顿公园案如何成为所有联邦基础设施项目的有约束力限制。
 
 > **原句 8:** "The question today, as we'll see, is whether that shift has all been for the good."
 
-- **中文理解**：The question today, as we'll see, is whether that shift has all been for the good。
+- **中文理解**：今天的问题是——我们将会看到——这种转变是否全都是好事。
 - **句子结构**：主系表 + 宾语从句。
 - **关键词**：`whether that shift has all been for the good`
-- **表达方式**：closing question—bridge to book's thesis (rebalance).
-- **为什么这样写**：close the chapter with the book's central question—is Jeffersonian imbalance all for the good?
+- **表达方式**：以疑问收尾——通往全书论点（重新平衡）的桥梁。
+- **为什么这样写**：用全书的核心问题收束本章——杰斐逊式的失衡是否真的全是好事？
 
 ## 词汇分级
 

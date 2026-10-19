@@ -42,66 +42,66 @@ modified: "2026-10-17"
 
 > **原句 1:** "By healing those scars on the urban landscape, UDC would be, in Rockefeller's imagination, 'a monument to King that's more than just a statue.'"
 
-- **中文理解**：By healing those scars on the urban landscape, UDC would be, in Rockefeller's imagination, 'a monument to King that's more than just a statue.'
+- **中文理解**：通过治愈城市景观上的那些伤疤，城市发展公司（UDC）在洛克菲勒的想象中将成为「一座不仅仅是一座雕像的金博士纪念碑」。
 - **句子结构**：By + gerund phrase, 主系表 + 宾语从句。
 - **关键词**：`healing those scars`、`monument to King`
-- **表达方式**：Rockefeller 的 Hamiltonian vision—UDC as tribute to King。
-- **为什么这样写**：establish UDC 的 moral framing—housing as civil rights legacy。
+- **表达方式**：这是洛克菲勒的汉密尔顿式愿景——UDC 是对金博士的致敬。
+- **为什么这样写**：确立 UDC 的道德框架——住房是民权事业的遗产。
 
 > **原句 2:** "who had, by reputation, worked wonders in New Haven and Boston."
-- **中文理解**：Logue, who had, by reputation, worked wonders in New Haven and Boston。
+- **中文理解**：据传，洛格（Logue）在纽黑文和波士顿创造了奇迹。
 - **句子结构**：主语 + 定语从句。
 - **关键词**：`worked wonders`、`by reputation`
-- **表达方式**：by reputation 强调 Logue 的 track record—Hamiltonian expert。
-- **为什么这样写**：establish Logue as the "good guy's Robert Moses"—expert-led centralized power。
+- **表达方式**：「据传」（by reputation）强调洛格的过往业绩——他是汉密尔顿式的专家。
+- **为什么这样写**：把洛格塑造成「好人版的罗伯特·摩西」——由专家主导的中央集权式权力。
 
 > **原句 3:** "'Fuck it,' he told one aide. 'I'm going to do that anyway.'"
 
-- **中文理解**：Logue to aide: "Fuck it. I'm going to do that anyway."
+- **中文理解**：「去他妈的，」他对一位助手说。「我无论如何都要做。」
 - **句子结构**：两句话，imperative + future。
 - **关键词**：`Fuck it`、`I'm going to do that anyway`
-- **表达方式**：Moses-like imperiousness—centralized power's disregard for critics。
-- **为什么这样写**：illustrate how Hamiltonian power, even well-intentioned, replicates Moses's disregard。
+- **表达方式**：这种摩西式的专横——中央集权式权力对批评者的无视。
+- **为什么这样写**：说明汉密尔顿式权力即使初衷良好，也会复制摩西对反对意见的无视。
 
 > **原句 4:** "'Mr. Ravitch,' Wriston said, 'pay your debts, and then we'll talk.'"
 
-- **中文理解**：Wriston to Ravitch: "Mr. Ravitch, pay your debts, and then we'll talk."
+- **中文理解**：「拉维奇先生，」里斯顿（Wriston）说，「先还清你的债务，然后我们再谈。」
 - **句子结构**：直接引语，imperative + coordinating clause。
 - **关键词**：`pay your debts, and then we'll talk`
-- **表达方式**：Wriston 的 imperiousness—Wall Street vs state power。
-- **为什么这样写**：establish the standoff—Wall Street's refusal to bail out UDC; Hamiltonian power's financial vulnerability。
+- **表达方式**：这是里斯顿的专横——华尔街对决国家权力。
+- **为什么这样写**：确立这场对峙——华尔街拒绝救助 UDC；汉密尔顿式权力在财政上的脆弱性暴露无遗。
 
 > **原句 5:** "Whether or not Amazon's proposal was worthwhile, no single state senator should have the authority to scuttle a deal of this magnitude on his own."
 
-- **中文理解**：Whether or not Amazon's proposal was worthwhile, no single state senator should have the authority to scuttle a deal of this magnitude on his own。
+- **中文理解**：无论亚马逊的提议是否值得，任何一位州参议员都不应有权独自毁掉一笔如此规模的交易。
 - **句子结构**：Whether or not 从句 + 主句。
 - **关键词**：`scuttle a deal of this magnitude`
-- **表达方式**：scuttle 把 veto 的 destructive impact 具象化。
-- **为什么这样写**：PACB 的 unintended consequence—Jeffersonian check becomes veto power abuse。
+- **表达方式**：「毁掉」（scuttle）一词把否决权的破坏性影响具象化。
+- **为什么这样写**：这是 PACB 意想不到的后果——杰斐逊式的制衡变成了否决权的滥用。
 
 > **原句 6:** "'urban renewal means Negro removal.'"
 
-- **中文理解**：James Baldwin: "urban renewal means Negro removal."
+- **中文理解**：詹姆斯·鲍德温说：「城市更新意味着黑人迁移。」
 - **句子结构**：主系表。
 - **关键词**：`urban renewal`、`Negro removal`
-- **表达方式**：Baldwin 的 aphorism—urban renewal 的 racial subtext。
-- **为什么这样写**：establish the racial dimension of Hamiltonian housing policy。
+- **表达方式**：这是鲍德温的格言——城市更新背后的种族潜台词。
+- **为什么这样写**：确立汉密尔顿式住房政策中的种族维度。
 
 > **原句 7:** "exclusionary zoning was redlining by another name."
 
-- **中文理解**：exclusionary zoning was redlining by another name。
+- **中文理解**：排他性分区不过是换了个名字的红线政策。
 - **句子结构**：主系表。
 - **关键词**：`exclusionary zoning`、`redlining by another name`
-- **表达方式**：redlining by another name—Jeffersonian tool serving exclusionary ends。
-- **为什么这样写**：connect exclusionary zoning to its racial lineage—progressivism's Jeffersonian turn serving bigotry。
+- **表达方式**：「换了个名字的红线政策」——杰斐逊式工具服务于排他性目的。
+- **为什么这样写**：把排他性分区与它的种族谱系连接起来——进步主义的杰斐逊式转向服务于偏见。
 
 > **原句 8:** "The same political zeitgeist that had been born to push power down from Jim Crow legislators so that ordinary Black people could enjoy the full fruits of American citizenship—the Jeffersonian impulse that had birthed the civil rights and voting rights bills in the early 1960s—was now being used as a tool by white homeowners determined to keep their neighborhoods functionally segregated."
 
-- **中文理解**：The same political zeitgeist that had been born to push power down from Jim Crow legislators... was now being used as a tool by white homeowners determined to keep their neighborhoods functionally segregated。
+- **中文理解**：同一个政治时代精神——它诞生于把权力从吉姆·克劳立法者手中夺下来、让普通黑人能享受美国公民身份全部果实——如今却被白人房主当作工具，用来维持他们社区的实质性隔离。
 - **句子结构**：主语 + 系动词 + 表语 + 定语从句。
 - **关键词**：`same political zeitgeist`、`functionally segregated`
-- **表达方式**：same... now being used—irony of Jeffersonian tool serving exclusionary ends。
-- **为什么这样写**：本章 thesis 的 closing—progressivism's Jeffersonian turn serving bigotry。
+- **表达方式**：「同一个……如今却被用来」——杰斐逊式工具服务于排他性目的的讽刺。
+- **为什么这样写**：收束本章论点——进步主义的杰斐逊式转向服务于偏见。
 
 ## 词汇分级
 

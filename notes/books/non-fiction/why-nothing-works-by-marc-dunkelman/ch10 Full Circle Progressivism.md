@@ -42,66 +42,66 @@ modified: "2026-10-17"
 
 > **原句 1:** "They cut the Executive down to a term too short to carry through any constructive policy; they took away his chiefs of department, and made them either elective or otherwise independent of him; they separated him as far as possible from the representative lawmaking body with which he must work; and in every way they reduced him to a mere ornament of doubtful beauty."
 
-- **中文理解**：Stimson 引述 Founding Generation 对 executive 的削弱：cut the Executive down to a term too short... reduced him to a mere ornament of doubtful beauty。
+- **中文理解**：史汀生（Stimson）转述开国一代对行政权的削弱：把总统任期砍得太短，无法推行任何建设性政策；撤走他的各部首长，让他们要么民选、要么独立于他；尽可能把他与必须合作的代议立法机构隔开；总而言之，把他贬低为一件「美丽存疑的装饰品」。
 - **句子结构**：并列分句，分号连接。
 - **关键词**：`ornament of doubtful beauty`、`cut the Executive down`
-- **表达方式**：ornament of doubtful beauty 把 weak executive 具象化。
-- **为什么这样写**：establish Articles of Confederation 的 "cultural aversion to power" 类比，为 book's thesis 铺垫。
+- **表达方式**：「美丽存疑的装饰品」把软弱行政权的处境具象化。
+- **为什么这样写**：确立《邦联条例》时代「对权力的文化厌恶」这一类比，为全书论点作铺垫。
 
 > **原句 2:** "The boss and his power is the direct outgrowth of depriving the public officer of his power."
 
-- **中文理解**：Stimson: "The boss and his power is the direct outgrowth of depriving the public officer of his power."
+- **中文理解**：史汀生说：「党魁及其权力，正是剥夺公职人员权力的直接产物。」
 - **句子结构**：主系表。
 - **关键词**：`direct outgrowth`、`depriving the public officer of his power`
-- **表达方式**：direct outgrowth 把 corruption 的 causation 具象化—weak public authority breeds machine bosses。
-- **为什么这样写**：establish the historical pattern—weak government → corruption → reform → rebalance。
+- **表达方式**：「直接产物」把腐败的因果链具象化——软弱的公共权威滋生出机器党魁。
+- **为什么这样写**：确立历史模式——软弱的政府 → 腐败 → 改革 → 重新平衡。
 
 > **原句 3:** "Jeffersonian ends by Hamiltonian means."
 
-- **中文理解**：Herbert Croly 的 progressivism 定义："Jeffersonian ends by Hamiltonian means."
+- **中文理解**：赫伯特·克罗利（Herbert Croly）对进步主义的定义：「以汉密尔顿式的手段达成杰斐逊式的目的。」
 - **句子结构**：名词短语。
 - **关键词**：`Jeffersonian ends`、`Hamiltonian means`
-- **表达方式**：Croly's famous phrase—compresses progressivism's dual impulse into 4 words。
-- **为什么这样写**：the movement's founding formula; book's thesis is that this balance has been lost。
+- **表达方式**：克罗利的名言——把进步主义的双重冲动压缩进四个词。
+- **为什么这样写**：这是运动的创始公式；本书的论点正是这种平衡已经丧失。
 
 > **原句 4:** "We can't forever endure the false choice of tyranny or nothing—of either letting Robert Moses tear up the South Bronx or allowing a fetid Penn Station to fester for decades. We need a process that considers broad public interests and that provides everyone a voice but not a veto."
 
-- **中文理解**：We can't forever endure the false choice of tyranny or nothing—of either letting Robert Moses tear up the South Bronx or allowing a fetid Penn Station to fester for decades. We need a process that considers broad public interests and that provides everyone a voice but not a veto。
+- **中文理解**：我们不能永远忍受「暴政或一事无成」的虚假选择——要么任由罗伯特·摩西拆毁南布朗克斯，要么让一座恶臭的宾州车站烂上几十年。我们需要一个兼顾广泛公共利益的过程，让每个人都有发言权，但没有否决权。
 - **句子结构**：两句话：第一句 false choice；第二句 We need a process...
 - **关键词**：`false choice of tyranny or nothing`、`voice but not a veto`
-- **表达方式**：false choice of tyranny or nothing—book's central framing; voice but not a veto—book's solution。
-- **为什么这样写**：the book's thesis in one sentence—reject the false choice, embrace "voice but not a veto."
+- **表达方式**：「暴政或一事无成」的虚假选择——这是全书的中心框架；「有发言权但无否决权」——这是全书的解决方案。
+- **为什么这样写**：用一句话概括全书论点——拒绝虚假选择，拥抱「有发言权但无否决权」。
 
 > **原句 5:** "Progressivism, born more than a century ago, has come full circle."
-- **中文理解**：Progressivism, born more than a century ago, has come full circle。
+- **中文理解**：诞生于一个多世纪前的进步主义，已经走完了一个轮回。
 - **句子结构**：主语 + 过去分词短语 + 系动词 + 表语。
 - **关键词**：`born more than a century ago`、`come full circle`
-- **表达方式**：come full circle 把 book's thesis 压缩成一句话。
-- **为什么这样写**：conclusion 的 thesis 重申—progressivism has come full circle, needs to rebalance。
+- **表达方式**：「走完轮回」（come full circle）把全书论点压缩成一句话。
+- **为什么这样写**：在结论中重申论点——进步主义已走完一个轮回，需要重新平衡。
 
 > **原句 6:** "Lionizing government and then ensuring it fails is, in the end, among the worst of bad political strategies."
 
-- **中文理解**：Lionizing government and then ensuring it fails is, in the end, among the worst of bad political strategies。
+- **中文理解**：把政府捧上神坛、然后又确保它失败，归根结底是最糟糕的政治策略之一。
 - **句子结构**：动名词短语作主语 + 系动词 + 表语。
 - **关键词**：`Lionizing government and then ensuring it fails`
-- **表达方式**：lionizing... then ensuring it fails—progressivism's self-defeating strategy。
-- **为什么这样写**：the book's political argument—government incompetence fuels populism.
+- **表达方式**：「神化政府然后确保其失败」——进步主义自我拆台的政治策略。
+- **为什么这样写**：这是本书的政治论证——政府无能会助长民粹主义。
 
 > **原句 7:** "No amount of righteous sanctimony can substitute for the political benefits of making public authority serve the public interest."
 
-- **中文理解**：No amount of righteous sanctimony can substitute for the political benefits of making public authority serve the public interest。
+- **中文理解**：再多的道貌岸然，也替代不了让公共权威服务于公共利益所带来的政治收益。
 - **句子结构**：主语 + 谓语 can substitute + 介词短语。
 - **关键词**：`righteous sanctimony`、`making public authority serve the public interest`
-- **表达方式**：righteous sanctimony 把 progressive moralism 具象化。
-- **为什么这样写**：the book's closing argument—substance over sanctimony。
+- **表达方式**：「道貌岸然」（righteous sanctimony）把进步主义的道德姿态具象化。
+- **为什么这样写**：这是全书的收束论证——实质重于道德表演。
 
 > **原句 8:** "The movement has been justified to erect protections against Robert Moses–era abuse—to manacle the octopus. But that Jeffersonian retrenchment, now more than fifty years old, has run its course. Now, the core obstacle to the movement's substantive success... isn't centralized power. It's the absence of centralized power."
 
-- **中文理解**：The movement has been justified to erect protections against Robert Moses–era abuse—to manacle the octopus. But that Jeffersonian retrenchment, now more than fifty years old, has run its course. Now, the core obstacle... isn't centralized power. It's the absence of centralized power。
+- **中文理解**：这场运动竖起防护墙、抵御罗伯特·摩西时代的滥权——也就是「铐住章鱼」——是正当的。但那种杰斐逊式的收缩，如今已持续五十多年，早已走到尽头。当下阻碍运动取得实质性成功的核心障碍……不是中央集权式权力，而是中央集权式权力的缺席。
 - **句子结构**：三句话：第一句 justified to erect; 第二句 retrenchment has run its course; 第三句 obstacle isn't X, it's Y。
 - **关键词**：`manacle the octopus`、`Jeffersonian retrenchment... has run its course`、`absence of centralized power`
-- **表达方式**：has run its course—Jeffersonian retrenchment's expiration; absence of centralized power—the book's final diagnosis。
-- **为什么这样写**：the book's thesis in its final form—progressivism needs to come full circle。
+- **表达方式**：「已走到尽头」——杰斐逊式收缩的过期；「中央集权式权力的缺席」——全书的最终诊断。
+- **为什么这样写**：这是全书论点的最终形态——进步主义需要走完一个轮回。
 
 ## 词汇分级
 

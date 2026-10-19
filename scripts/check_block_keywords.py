@@ -606,6 +606,13 @@ def check(md: Path, book: Path):
     if _p is None:
         return out + [f"{md.name}: 找不到 text/ch{n:02d}{suffix}*.txt（分隔符已兼容 _ . 空格）"]
     t = Path(_p).read_text(encoding="utf-8")
+    # ⚠️ 2026-10-19（why-nothing-works 实测）：text/ 提取件把 epub 脚注号内联成
+    #   `serviced.”21 And` / `check.52 Salt` 这类裸数字，紧跟句末标点、后接大写或行尾，
+    #   夹在引语的两个连续自然段之间，把**逐字正确**的引语（verify_quotes 对 epub 全绿）
+    #   打断成「跨自然段拼接红线」。脚注号是提取伪影、不是原文内容 ⇒ 只清参照侧；
+    #   真实数字（年份 `1936`、金额 `$950 million`、页数）前面有空格或处于词内，
+    #   不受影响。只作用于本脚本的「引语连续子串」判据，关键词锚定仍走原 norm/_flat。
+    t = re.sub(r'(?<=[.”’])\d+(?=\s*[A-Z“]|\s*$)', '', t)
     ps = paras(t)
     tn = norm(t)
     pn = [norm(x) for x in ps]
@@ -774,7 +781,12 @@ def check(md: Path, book: Path):
                 _skip_single = True
             else:
                 _skip_single = False
-            _parts = [x for x in re.split(r"\s*…\s*", q) if x.strip()]
+            # ⚠️ 2026-10-19（why-nothing-works 实测）：md 里省略号有两种写法——
+            # Unicode `…` 与 ASCII `...`。原实现只按 `…` 切分，用 `...` 的合法省略引语
+            # （verify_quotes 对 epub 全绿）整串在原文里查无 ⇒ 恒报「跨自然段拼接红线」。
+            # 处置：`...` 与 `…` 同样视为省略号分隔符（Evelyn Hugo / Some Other Time
+            # 的 `…` 判据原样适用，负控不变）。
+            _parts = [x for x in re.split(r"\s*(?:…|\.{3})\s*", q) if x.strip()]
             _same_para = bool(_parts) and any(
                 all(norm(x) in p for x in _parts) for p in pn)
             # ⚠️ 2026-10-11 修正（Evelyn Hugo ch29 原句 1 实测假红）：单段引语路径

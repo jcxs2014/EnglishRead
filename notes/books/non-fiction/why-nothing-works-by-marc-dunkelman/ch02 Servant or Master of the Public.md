@@ -40,67 +40,67 @@ modified: "2026-10-17"
 
 > **原句 1:** "In that moment, set little more than thirty-five years since the end of Reconstruction, many believed America was on the brink of being swallowed by industrialization."
 
-- **中文理解**：在那个时刻——距离 Reconstruction 结束仅三十多年——许多人相信美国即将被 industrialization 吞没。
+- **中文理解**：在那个时刻——距南方重建结束仅三十多年——许多人相信美国正处在被工业化吞噬的边缘。
 - **句子结构**：In that moment + 分词短语作时间状语 + 主句，many believed + 宾语从句。
 - **关键词**：`on the brink of`（濒临）、`swallowed by`（被吞没）
-- **表达方式**：brink/swallowed 的末日修辞把 progressivism 的 born anxiety 具象化。
-- **为什么这样写**：开章建立 urgency frame，为后文 "new brand of politics" 的 necessity 铺垫。
+- **表达方式**：用 brink（边缘）、swallowed（吞噬）这类末日修辞，把进步主义诞生时的焦虑具象化。
+- **为什么这样写**：开章就建立紧迫感，为后文「一种全新政治」的必要性作铺垫。
 
 > **原句 2:** "the concentration of modern business [is]… both inevitable and necessary for national and international efficiency."
 
-- **中文理解**：modern business 的 concentration 既是 inevitable 又是 necessary for national and international efficiency。
+- **中文理解**：现代工商业的集中，对国家与全球效率而言既是不可避免的，也是必要的。
 - **句子结构**：主语 + 系动词 + 表语（both...and...）。
 - **关键词**：`inevitable and necessary`、`efficiency`
-- **表达方式**：Perkins 的 Hamiltonian credo，把 bigness 当作 given 而非 threat。
-- **为什么这样写**：引出 Hamiltonian 的 "salve = build public power" logic，与 Jeffersonian 的 "salve = break bigness" 对立。
+- **表达方式**：这是珀金斯（Perkins）的汉密尔顿式信条，把「庞大」当作既定事实而非威胁。
+- **为什么这样写**：引出汉密尔顿派「解药＝建立公共权力」的逻辑，与杰斐逊派「解药＝拆解庞大」形成对立。
 
 > **原句 3:** "The underlying question of how to solve big, public vexations—or, really, how to target the sources of those challenges—tracked back to what Walter Lippmann would eventually term 'the pictures in people’s heads.'"
 
-- **中文理解**：如何 solve big public vexations——或者说如何 target 这些 challenges 的 sources——这个问题 tracked back 到 Lippmann 所称的 "pictures in people's heads"。
+- **中文理解**：如何解决重大公共难题——或者更准确地说，如何对准这些挑战的根源——这个根本问题，可以追溯到沃尔特·李普曼（Walter Lippmann）后来所称的「人们脑海中的图景」。
 - **句子结构**：主语（The underlying question of how...）+ 谓语 tracked back to + 宾语。
-- **关键词**：`vexations`（ vexations/烦恼）、`pictures in people's heads`（Lippmann 术语）
-- **表达方式**：破折号让 "how to solve" 与 "how to target sources" 的 distinction 显现，再 link 到 Lippmann 的 cognitive frame。
-- **为什么这样写**：把 policy debate 上升到 epistemic 层面——我们 disagreement 的根源是 mental frames，不是 facts。
+- **关键词**：`vexations`（烦恼、困扰）、`pictures in people's heads`（Lippmann 术语）
+- **表达方式**：破折号让「如何解决」与「如何对准根源」的区别显现出来，再把话题引到李普曼的认知框架。
+- **为什么这样写**：把政策争论提升到认识论层面——我们分歧的根源在于心智框架，而非事实本身。
 
 > **原句 4:** "Nothing in American history approximates, to the same degree, cartoonish depictions of flying saucers darkening the sky. The railroad industry’s power was effectively unchecked."
 
-- **中文理解**：美国历史上没有任何事物像 flying saucers darkening the sky 的 cartoonish depictions 那样；railroad industry 的 power was effectively unchecked。
+- **中文理解**：美国历史上没有任何事物能与之相比，连飞碟遮蔽天空的漫画式描绘都相形见绌——铁路行业的权力实际上不受任何约束。
 - **句子结构**：否定主句 + 比较状语；第二句独立断言。
 - **关键词**：`cartoonish depictions`、`unchecked`
-- **表达方式**：用 sci-fi imagery 把 corporate power 的 magnitude 超现实化；"effectively unchecked" 一锤定音。
-- **为什么这样写**：establish railroad 作为 "punctuated equilibrium" 的 magnitude，为 Jeffersonian 反应的 inevitability 铺垫。
+- **表达方式**：用科幻意象把企业权力的规模渲染得超现实；"effectively unchecked" 一锤定音。
+- **为什么这样写**：确立铁路作为「突变式均衡」的规模，为杰斐逊式反应的必然性作铺垫。
 
 > **原句 5:** "The sheer inequity of the situation came into clearer focus when the industry’s overgrowth morphed into an economic affliction."
 
-- **中文理解**：当 industry 的 overgrowth morphed into an economic affliction，situation 的 sheer inequity came into clearer focus。
+- **中文理解**：当行业的过度膨胀演变成经济祸患时，局面那赤裸裸的不公才变得清晰起来。
 - **句子结构**：主语 + 谓语 came into focus，when 从句。
 - **关键词**：`sheer inequity`、`morphed into`、`affliction`
-- **表达方式**：morphed 一词把 gradual change 转为 qualitative transformation。
-- **为什么这样写**：transition from economic to cultural framing——affliction 不只是 economic，是 moral/cultural。
+- **表达方式**：morphed（变形）一词把渐进的变化转写为质变。
+- **为什么这样写**：完成从经济框架向文化框架的过渡——「祸患」不只是经济性的，更是道德与文化层面的。
 
 > **原句 6:** "Power returned to the people."
 
 - **中文理解**：权力归还人民。
 - **句子结构**：主语 + 过去分词作谓语（elliptical）。
 - **关键词**：`Power returned to the people`
-- **表达方式**：三词短句，作为 Jeffersonian mantra 的 crystallization。
-- **为什么这样写**：repetition 作为 rhetorical device；全章反复出现，把 Jeffersonian impulse 压缩为 slogan。
+- **表达方式**：三个词组成的短句，是杰斐逊式口号的高度结晶。
+- **为什么这样写**：重复是修辞手法；这句话在全章反复出现，把杰斐逊式冲动压缩成一句口号。
 
 > **原句 7:** "Progressives have, from the very beginning, been torn perennially between their desires to build public authority up and to tear centralized power down."
 
-- **中文理解**：从 very beginning 起，progressives 就 perennially 被 torn 在 build public authority up 与 tear centralized power down 之间。
+- **中文理解**：从一开始，进步人士就始终被撕裂在两种渴望之间：一是把公共权威建立起来，一是把集中的权力拆解下去。
 - **句子结构**：主语 + have been torn + between A and B。
 - **关键词**：`torn perennially between`、`build up / tear down`
-- **表达方式**：把全书 thesis 用一句话 encapsulate；"perennially" 强调 everlasting nature。
-- **为什么这样写**：引言的 "strange and awkward amalgam" 在本章得到 historical substantiation。
+- **表达方式**：用一句话浓缩全书的论点；"perennially"（长久地）强调这种撕裂的永恒性质。
+- **为什么这样写**：引言中的「怪异而不合拍的混合物」在本章获得了历史层面的实证支撑。
 
 > **原句 8:** "It is difficult, today, to appreciate the menace the old robber barons posed more than a century ago."
 
-- **中文理解**：today，很难 appreciate 一个世纪前 old robber barons 所 pose 的 menace。
+- **中文理解**：今天，我们已经很难体会一个多世纪前那些老牌强盗大亨所带来的威胁。
 - **句子结构**：It is difficult + to-infinitive + 宾语从句。
 - **关键词**：`menace`、`appreciate`
-- **表达方式**：opening of Hamiltonian section，先 acknowledge magnitude of problem。
-- **为什么这样写**：为 Hamiltonian 的 "salve = build public power" 提供 necessity justification。
+- **表达方式**：汉密尔顿派章节的开头，先承认问题的严重程度。
+- **为什么这样写**：为汉密尔顿派「解药＝建立公共权力」提供必要性上的正当性论证。
 
 ## 词汇分级
 

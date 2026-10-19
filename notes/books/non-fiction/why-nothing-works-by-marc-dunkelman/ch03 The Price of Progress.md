@@ -42,66 +42,66 @@ modified: "2026-10-17"
 
 > **原句 1:** "The region was not entirely forlorn."
 
-- **中文理解**：这个 region 并非 entirely forlorn。
+- **中文理解**：这个地区并非完全凄凉无望。
 - **句子结构**：主语 + 系动词 + 表语（not entirely forlorn）。
 - **关键词**：`forlorn`（凄凉的、被遗弃的）
-- **表达方式**： understatement 作转折——在描述 region 的悲惨之后，用 "not entirely forlorn" 引入 Muscle Shoals dam 的希望。
-- **为什么这样写**：prologue 的 pivot point；为 FDR's vision 铺垫 "there was something to build on"。
+- **表达方式**：用克制低调的陈述作转折——在描述该地区的悲惨境况之后，用「并非完全凄凉」引出马瑟尔浅滩水坝（Muscle Shoals dam）带来的希望。
+- **为什么这样写**：这是开场叙事的转折点，为罗斯福的构想铺垫「这里还有可以依托的东西」。
 
 > **原句 2:** "is really a secondary matter. What we are doing there is taking a watershed with about three and a half million people in it, almost all of them rural, and we are trying to make a different type of citizen out of them."
-- **中文理解**：Power 真的是 secondary matter。我们正在那里 take 一个 watershed，里面有 about three and a half million people，几乎都是 rural，我们正在 try to make a different type of citizen out of them。
+- **中文理解**：电力真的是次要的事。我们正在那里治理一片流域，其中生活着大约三百五十万人，几乎全是农村人口；我们正在努力把他们改造成一种不同的公民。
 - **句子结构**：两句话：第一句 dismissive；第二句 take + 宾语从句 + try to make...。
 - **关键词**：`secondary matter`、`make a different type of citizen`
-- **表达方式**：FDR 的 paternalistic confession——power 不是目的，civilization 才是。
-- **为什么这样写**：把 TVA 的 Hamiltonian essence 暴露出来——不是 market failure 的 technical fix，而是 social engineering；为后文 "paternalism" critique 埋伏笔。
+- **表达方式**：这是罗斯福家长式统治的自白——电力不是目的，改造文明才是。
+- **为什么这样写**：把田纳西流域管理局（TVA）的汉密尔顿式本质暴露出来——它不是对市场失灵的纯技术修补，而是社会工程；为后文对「家长主义」的批判埋下伏笔。
 
 > **原句 3:** "We cannot return to a simpler standard of living, for that is to begin a retreat."
 
-- **中文理解**：我们 cannot return to a simpler standard of living，for that is to begin a retreat。
+- **中文理解**：我们无法回到更简单的生活水准，因为那意味着开始退却。
 - **句子结构**：主句 + for 从句（解释）。
 - **关键词**：`retreat`
-- **表达方式**：Lilienthal 的 Hamiltonian credo——progress 不能 reverse。
-- **为什么这样写**：与 Arthur Morgan 的 Jeffersonian "restore traditional Southern society" 对立；defining the two-minds tension.
+- **表达方式**：这是利连撒尔（Lilienthal）的汉密尔顿式信条——进步不能倒退。
+- **为什么这样写**：与阿瑟·摩根（Arthur Morgan）杰斐逊式的「重建传统南方社会」主张对立，由此界定「两种心态」的张力。
 
 > **原句 4:** "The TVA, still in operation as late as 2025, would come to construct sixteen dams—a feat of engineering, many have argued, equal to a century's worth of the nation's railroad construction combined."
 
-- **中文理解**：TVA，still in operation as late as 2025，would come to construct sixteen dams——a feat of engineering，many have argued，equal to a century's worth of the nation's railroad construction combined。
+- **中文理解**：田纳西流域管理局（TVA）直到 2025 年仍在运转，它后来建造了十六座大坝——许多人认为，这一工程壮举相当于全国一个世纪的铁路建设量之和。
 - **句子结构**：主语 + would come to + 宾语，破折号补充。
 - **关键词**：`feat of engineering`、`a century's worth`
-- **表达方式**：量化 TVA 的 magnitude；与 railroad 时代对照。
-- **为什么这样写**：establish TVA 的 historical stature，为 "triumph of centralized power" 的 claim 提供 empirical anchor。
+- **表达方式**：用数字量化田纳西流域管理局的规模，并与铁路时代形成对照。
+- **为什么这样写**：确立 TVA 的历史地位，为「中央集权式权力的胜利」这一论点提供经验锚点。
 
 > **原句 5:** "[The TVA] was the proving ground, as it were, of a dynamic democracy. Here were tested the broad construction of the Constitution, large-scale planning, the recasting of federalism along regional lines, new techniques of administration and new standards of civil service, the alliance of science and politics, and the revitalization of democracy through a calculated program of economic and social reconstruction."
 
-- **中文理解**：TVA 是 dynamic democracy 的 proving ground。这里 tested broad construction of Constitution, large-scale planning, recasting of federalism, new techniques of administration, alliance of science and politics, revitalization of democracy through calculated program of economic and social reconstruction。
+- **中文理解**：TVA 是一个充满活力的民主制度的试验场。这里检验了宪法的宽泛解释、大规模规划、沿区域路线重塑联邦制、新的行政技术与新的文官标准、科学与政治的联盟，以及通过一套周密的经济社会重建计划来复兴民主。
 - **句子结构**：主系表 + Here were tested + 一长串宾语。
 - **关键词**：`proving ground`、`dynamic democracy`、`calculated program`
-- **表达方式**：Henry Steele Commager 的 celebratory rhetoric；"calculated program" 暗含 planning 的 deliberate nature。
-- **为什么这样写**：把 TVA 升华为 democracy 的 experiment，而不仅是 infrastructure；为 "Hamiltonian triumph" 的 thesis 提供 intellectual authority。
+- **表达方式**：这是亨利·斯蒂尔·康马杰（Henry Steele Commager）的颂扬式修辞；「周密计划」（calculated program）暗含规划的自愿自觉性质。
+- **为什么这样写**：把 TVA 升华为民主制度的实验，而不仅是基础设施；为「汉密尔顿式胜利」的论点提供智识权威。
 
-> **原句 6:** "This is the end of this business of centralization. You must see that [Brandeis acolyte, Roosevelt confidant, and future Supreme Court justice Felix Frankfurter] understands the situation and explains it to the President. You must explain it to the men Felix brought into the Government. They must understand that these… decisions change everything. The President has been living in a fool's paradise.… We're not going to let this government centralize everything."
+> **原句 6:** "This is the end of this business of centralization… You must see that [Brandeis acolyte, Roosevelt confidant, and future Supreme Court justice Felix Frankfurter] understands the situation and explains it to the President. You must explain it to the men Felix brought into the Government. They must understand that these… decisions change everything. The President has been living in a fool's paradise.… We're not going to let this government centralize everything."
 
-- **中文理解**：Brandeis 对 Roosevelt aide 的 seething：centralization 的 business 到此为止；these decisions change everything；President has been living in a fool's paradise；we're not going to let this government centralize everything。
+- **中文理解**：布兰代斯（Brandeis）对罗斯福的助手怒不可遏：中央集权这件事到此为止；这些决定改变一切；总统一直活在愚人的天堂里；我们绝不让这个政府把一切都中央集权化。
 - **句子结构**：多句 imperative + 断言。
 - **关键词**：`fool's paradise`、`centralize everything`
-- **表达方式**：Brandeis 的 Jeffersonian backlash，把 First New Deal 的 associationalism 定性为 "fool's paradise"。
-- **为什么这样写**：mark the turning point—Jeffersonian impulse reasserts itself，setting up Second New Deal's regulatory turn。
+- **表达方式**：这是布兰代斯的杰斐逊式反击，把第一次新政的协作主义定性为「愚人的天堂」。
+- **为什么这样写**：标志转折点——杰斐逊式冲动重新抬头，为第二次新政的管制转向铺路。
 
 > **原句 7:** "Instead of assigning executive branch agencies the role of serving as economic maestros, this Second New Deal would deploy executive agencies as players themselves."
 
-- **中文理解**：Second New Deal 不再让 executive branch agencies 担任 economic maestros，而是 deploy executive agencies as players themselves。
+- **中文理解**：第二次新政不再让行政部门担任经济总指挥的角色，而是把行政机构本身部署为棋手。
 - **句子结构**：Instead of... this Second New Deal would deploy...
 - **关键词**：`maestros`、`players themselves`
-- **表达方式**：Arnold 的 adversarial regulatory model——regulators as players, not conductors。
-- **为什么这样写**：Second New Deal 的 Hamiltonian turn——regulation 替代 associationalism，更 adversarial。
+- **表达方式**：这是阿诺德（Arnold）对抗式管制模型的写照——监管者是球员，而不是指挥。
+- **为什么这样写**：体现第二次新政的汉密尔顿式转向——用管制取代协作主义，姿态更具对抗性。
 
 > **原句 8:** "We are fashioning an instrument of unimagined power for the establishment of a morally better world."
 
-- **中文理解**：我们正在 fashion an instrument of unimagined power，for the establishment of a morally better world。
+- **中文理解**：我们正在打造一件拥有难以想象之权力的工具，用以建立一个道德上更美好的世界。
 - **句子结构**：We are fashioning... for...
 - **关键词**：`instrument of unimagined power`、`morally better world`
-- **表达方式**：FDR 的 second inaugural，把 regulatory state 升华为 moral enterprise。
-- **为什么这样写**：Hamiltonian progressivism 的 rhetorical peak——power 与 morality 的 alignment。
+- **表达方式**：这句话出自罗斯福的第二任期就职演说，把管制国家升华为一项道德事业。
+- **为什么这样写**：这是汉密尔顿式进步主义的修辞巅峰——权力与道德结盟。
 
 ## 词汇分级
 

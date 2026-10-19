@@ -39,66 +39,66 @@ modified: "2026-10-17"
 
 > **原句 1:** "Caro’s telling of the horrors—Moses blithely imposing his will on enfeebled citizens—was not only damning but indicative of why, by the time of the book’s publication in 1974, the public had turned against public authority."
 
-- **中文理解**：Caro 对恐怖的叙述——Moses 轻慢地把意志强加给无力抵抗的市民——不仅是有罪判决，更说明了为什么到 1974 年书出版时，公众已经转向反对公权力。
+- **中文理解**：Caro 对那段恐怖的叙述——摩西（Moses）漫不经心地把自己的意志强加给无力抵抗的市民——不仅是给摩西定罪，更解释了为什么到 1974 年本书出版时，公众已经转而反对公权力。
 - **句子结构**：主语 + 系动词，表语由 not only...but also... 连接两个形容词/分词短语，末尾时间状语从句。
 - **关键词**：`blithely`（轻慢地、漫不经心地）、`enfeebled`（被削弱的、无力抵抗的）、`indicative of`（表明、指示）
-- **表达方式**：破折号插入短语把 Moses 的形象具体化；"not only...but also" 把道德谴责升级为历史解释。
-- **为什么这样写**：引言一开就把 Moses 定位为" villains of public authority"，为后文 Jeffersonian 反应埋伏笔——正是这种 narrating of abuse 让 progressivism 转向"speaking truth to power"。
+- **表达方式**：用破折号插入短语把摩西的形象具体化；"not only...but also" 的递进结构把道德谴责升级为历史解释。
+- **为什么这样写**：引言一开就把摩西定位成「公权力的反派」，为后文的杰斐逊式反应埋下伏笔——正是这种对滥权行为的叙述，让进步主义转向「向权力说真话」。
 
 > **原句 2:** "This wasn’t a shift in personality—it was a transformation in the architecture of power itself."
 
-- **中文理解**：这不是个性的转变，而是权力架构本身的转型。
+- **中文理解**：这不是性格上的转变，而是权力架构本身的转型。
 - **句子结构**：It was not X—it was Y 的对照句式，破折号强调。
 - **关键词**：`architecture of power`（权力架构）、`transformation`
-- **表达方式**：用 architectural 隐喻把抽象的权力分布具象化；全句 only 14 词，却把全书的诊断浓缩成一句话。
-- **为什么这样写**：在 Moses vs Penn Station 对比之后，作者必须 preempt "personalities differ" 的 naive 解释，把诊断提升到 structural 层面——这是整本书的 analytical frame。
+- **表达方式**：用建筑隐喻把抽象的权力分布具象化；全句仅 14 个词，却把全书的诊断浓缩成一句话。
+- **为什么这样写**：在摩西与宾州车站的对比之后，作者必须抢先反驳「这只是人物性格不同」的天真解释，把诊断提升到结构层面——这正是整本书的分析框架。
 
 > **原句 3:** "progressivism itself has changed. Once committed to galvanizing experts to tackle big problems, the movement has more recently turned in the other direction."
 
-- **中文理解**：进步主义本身已经改变。一度致力于动员专家 tackle 大问题，运动最近却转向了相反方向。
+- **中文理解**：进步主义本身已经改变。它一度致力于动员专家解决重大问题，如今却转向了相反的方向。
 - **句子结构**：两句话：第一句断言；第二句 Once committed to... the movement has... turned... 的现在完成时态。
 - **关键词**：`galvanizing`（动员、激发）、`turned in the other direction`
-- **表达方式**：先结论后解释；"galvanizing experts" 把 Hamiltonian progressivism 压缩成一个短语。
-- **为什么这样写**：引言的核心 claim 之一；把"progressivism itself has changed"作为 thesis，避免把政府失能归咎于外部敌人（conservatives）。
+- **表达方式**：先给结论再作解释；"galvanizing experts" 把汉密尔顿式进步主义压缩成一个短语。
+- **为什么这样写**：这是引言的核心论点之一；把「进步主义自身已经改变」当作主线论点，避免把政府失能归咎于外部敌人（保守派）。
 
 > **原句 4:** "progressivism can’t be boiled down to one governing impulse—it’s actually a strange and awkward amalgam of two."
 
-- **中文理解**：进步主义不能被简化为一种 governing impulse——它实际上是一种 strange and awkward 的两股冲动 amalgam。
+- **中文理解**：进步主义不能被简化为单一的治理冲动——它实际上是两种冲动怪异而不合拍的混合物。
 - **句子结构**：主句 + 破折号补充句；amalgam of two 作表语。
 - **关键词**：`amalgam`（混合物、合金）、`governing impulse`
-- **表达方式**：amalgam 一词把两种冲动的化学式融合具象化；"strange and awkward" 提前承认 tension。
-- **为什么这样写**：定义 progressivism 的 dual nature，为后文 Hamiltonian/Jeffersonian 的二元框架铺路。
+- **表达方式**：用 amalgam（混合物）一词把两种冲动的化学式融合具象化；"strange and awkward" 提前承认其中的张力。
+- **为什么这样写**：为进步主义的双重本性下定义，为后文汉密尔顿派与杰斐逊派的二元框架铺路。
 
 > **原句 5:** "The first of the two is framed by the misery born of chaos... In the face of these privations, progressives rue the absence of authority—they long for a heroic figure equipped to save the day."
 
-- **中文理解**：第一种 narrative 由 chaos 诞生的 misery framing——面对这些 privations，progressives 为 authority 的缺席而 rue，渴望 hero 能 save the day。
+- **中文理解**：第一种叙事以混乱所催生的苦难为底色——面对这些匮乏，进步人士为权威的缺席而痛惜，渴望出现一个能拯救时局的英雄人物。
 - **句子结构**：The first of the two is framed by... 的主系表 + 多个介词短语；第二句 rue the absence + 长定语从句。
 - **关键词**：`misery born of chaos`、`rue`（懊悔、惋惜）、`heroic figure`
-- **表达方式**：先列举 concrete images（tenement immigrants, Okies, Katrina, polar bears），再抽象出 Hamiltonian impulse。
-- **为什么这样写**：用 visceral images 让读者先 felt 然后 think；把 Hamiltonian impulse 与"chaos → authority" 的 emotional logic 绑定。
+- **表达方式**：先罗列具体的画面（廉租公寓移民、俄克拉何马农民、卡特里娜飓风灾民、北极熊），再抽象出汉密尔顿式冲动。
+- **为什么这样写**：用触目可及的画面让读者先「感受」再「思考」，把汉密尔顿式冲动与「混乱 → 需要权威」的情感逻辑绑定。
 
 > **原句 6:** "The second narrative is born not from chaos but from tyranny... the progressive impulse isn’t to push authority up—it’s “to speak truth to power,” to cashier the tyrant and shield the victim."
 
-- **中文理解**：第二种 narrative 诞生于 tyranny 而非 chaos——progressive impulse 不是 push authority up，而是 "speak truth to power"，cashier tyrant 并 shield victim。
+- **中文理解**：第二种叙事诞生于暴政而非混乱——进步冲动不是把权威往上推，而是「向权力说真话」，罢免暴君、保护受害者。
 - **句子结构**：born not from X but from Y 的对照；主句 + 两个不定式短语。
-- **关键词**：`tyranny`、`speak truth to power`、`cashier`（罢免、 cashier）、`shield`
-- **表达方式**：与原句 5 的 Hamiltonian 对照；"manacle a pernicious octopus" 的意象在后文出现。
-- **为什么这样写**：establish Jeffersonian impulse 的 emotional logic（tyranny → speak truth to power），为全书的 dual-narrative frame 完成拼图。
+- **关键词**：`tyranny`、`speak truth to power`、`cashier`（罢免、免职）、`shield`
+- **表达方式**：与原句 5 的汉密尔顿式叙事形成对照；「铐住一只有害的章鱼」这一意象在后文再次出现。
+- **为什么这样写**：确立杰斐逊式冲动的情感逻辑（暴政 → 向权力说真话），为全书双重叙事框架完成最后的拼图。
 
 > **原句 7:** "The movement discounts whatever good government might do in service of ensuring it won’t do bad."
 
-- **中文理解**：运动 discount 了 government 可能做的任何 good，以确保它不会做 bad。
+- **中文理解**：这场运动为了确保政府不会作恶，不惜贬低政府可能做的一切好事。
 - **句子结构**：主语 + 动词 + 宾语从句 in service of... 的目的状语。
 - **关键词**：`discounts`（低估、漠视）、`in service of`
-- **表达方式**：一句话把 Jeffersonian 过度的 cost 摘出来——good government 被 collateral damage。
-- **为什么这样写**：引言的 diagnostic climax；把"aversion to power"的 policy consequence（competence loss）直接点出。
+- **表达方式**：一句话就把杰斐逊式冲动过头的代价挑明——好政府成了被殃及的池鱼。
+- **为什么这样写**：这是引言的诊断高潮，直接把「厌恶权力」的政策后果（治理能力流失）点破。
 
 > **原句 8:** "the movement needs to come full circle—to rebalance its Jeffersonian and Hamiltonian impulses."
-- **中文理解**：progressivism 需要 come full circle——重新平衡 Jeffersonian 与 Hamiltonian 两种冲动。
+- **中文理解**：进步主义需要走完一个轮回——重新平衡杰斐逊式与汉密尔顿式两种冲动。
 - **句子结构**：主语 + need to + 不定式，破折号解释。
 - **关键词**：`come full circle`、`rebalance`
-- **表达方式**：full circle 呼应引言开头的 Moses/Penn Station 循环；solution 简洁。
-- **为什么这样写**：全书 thesis 的 solution 部分；把"rebalance"作为 actionable takeaway。
+- **表达方式**：full circle 呼应引言开头的摩西与宾州车站的循环；解决方案简洁有力。
+- **为什么这样写**：这是全书论点的解决方案部分，把「重新平衡」作为可付诸行动的落点。
 
 ## 词汇分级
 

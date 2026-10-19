@@ -43,66 +43,66 @@ modified: "2026-10-17"
 
 > **原句 1:** "Slated to cost a mere $950 million—a bargain when compared to Northern Pass's $1.6 billion—NECEC turned out to be more than a big extension cord."
 
-- **中文理解**：Slated to cost a mere $950 million—a bargain when compared to Northern Pass's $1.6 billion—NECEC turned out to be more than a big extension cord。
+- **中文理解**：这条线路预计造价仅为 9.5 亿美元——与北方通道项目（Northern Pass）的 16 亿美元相比堪称便宜——而 NECEC 最终证明自己不仅仅是一根大号延长线。
 - **句子结构**：主语 + 谓语 turned out to be + 表语。
 - **关键词**：`mere $950 million`、`more than a big extension cord`
-- **表达方式**：mere + bargain 把 cost framing 为 "deal"；more than a big extension cord 把 project's scope 具象化。
-- **为什么这样写**：establish NECEC as "bonanza"—Hamiltonian infrastructure project with clear benefits.
+- **表达方式**：「仅」（mere）与「便宜」（bargain）把造价框定为「划算」；「不止是大号延长线」把项目的分量具象化。
+- **为什么这样写**：把 NECEC 确立为「意外之财」——一个利益清晰的汉密尔顿式基础设施项目。
 
 > **原句 2:** "For a state that had long struggled economically, the infusion of capital appeared to represent a true lifeline."
 
-- **中文理解**：For a state that had long struggled economically, the infusion of capital appeared to represent a true lifeline。
+- **中文理解**：对于一个长期在经济上挣扎的州来说，这笔资本的注入似乎代表着一条真正的生命线。
 - **句子结构**：介词短语 + 主句。
 - **关键词**：`infusion of capital`、`true lifeline`
-- **表达方式**：lifeline 把 economic benefit 具象化。
-- **为什么这样写**：establish the stakes—NECEC as economic salvation for Maine.
+- **表达方式**：「生命线」（lifeline）把经济利益具象化。
+- **为什么这样写**：确立利害关系——NECEC 对缅因州而言是经济上的救赎。
 
 > **原句 3:** "The better part of a year later, in August 2022, the Maine Supreme Court weighed in."
 
-- **中文理解**：The better part of a year later, in August 2022, the Maine Supreme Court weighed in。
+- **中文理解**：大约一年后，2022 年 8 月，缅因州最高法院出手了。
 - **句子结构**：时间状语 + 主句。
 - **关键词**：`weighed in`
-- **表达方式**：weighed in 把 judicial intervention 具象化。
-- **为什么这样写**：mark the judicial resolution—vested rights doctrine saves NECEC.
+- **表达方式**：「出手」（weighed in）把司法介入具象化。
+- **为什么这样写**：标志司法裁决——「既得权利」原则保住了 NECEC。
 
 > **原句 4:** "The line, when initially approved, had been slated to cost $950 million—an amount that ratepayers in Massachusetts had agreed to cover. Now, however, Avangrid estimated that inflation and delay had driven the costs up to $1.5 billion."
-- **中文理解**：The project, when initially approved, had been slated to cost $950 million—an amount that ratepayers in Massachusetts had agreed to cover. Now, however, Avangrid estimated that inflation and delay had driven the costs up to $1.5 billion。
+- **中文理解**：这条线路在最初获批时，预计造价为 9.5 亿美元——这笔钱已由马萨诸塞州的缴费者同意承担。然而现在，阿万格里德公司（Avangrid）估计，通胀与延误已把成本推高到 15 亿美元。
 - **句子结构**：两句话：第一句 had been slated to cost；第二句 Avangrid estimated that...
 - **关键词**：`inflation and delay`、`$1.5 billion`
-- **表达方式**：inflation and delay 把 process paralysis 的 cost 具象化。
-- **为什么这样写**：illustrate the financial cost of regulatory delay—even "victorious" projects suffer.
+- **表达方式**：「通胀与延误」把程序瘫痪的代价具象化。
+- **为什么这样写**：说明监管拖延的财务成本——即使是「获胜」的项目也要受损。
 
 > **原句 5:** "The trial in April 2023 had generated two million documents."
 
-- **中文理解**：The trial in April 2023 had generated two million documents。
+- **中文理解**：2023 年 4 月的庭审已经产生了两百万份文件。
 - **句子结构**：主语 + 谓语 had generated + 宾语。
 - **关键词**：`two million documents`
-- **表达方式**：two million documents—quantify the process paralysis。
-- **为什么这样写**：provide empirical anchor for "process paralysis" claim.
+- **表达方式**：「两百万份文件」——把程序瘫痪量化。
+- **为什么这样写**：为「程序瘫痪」的论断提供经验锚点。
 
 > **原句 6:** "Insull proposed to replace the jerry-rigged network with a top-down system powered by a single, efficient plant sited along Lake Michigan."
 
-- **中文理解**：Insull proposed to replace the jerry-rigged network with a top-down system powered by a single, efficient plant sited along Lake Michigan。
+- **中文理解**：英萨尔（Insull）提议用一套自上而下的系统取代临时拼凑的网络，由密歇根湖畔一座单一而高效的发电厂供电。
 - **句子结构**：主语 + 谓语 proposed + 不定式 + 宾语。
 - **关键词**：`jerry-rigged network`、`top-down system`
-- **表达方式**：jerry-rigged 把 old system 的 inefficiency 具象化；top-down 把 Hamiltonian solution 具象化。
-- **为什么这样写**：establish Hamiltonian origins of electricity grid—Insull's Lake County project。
+- **表达方式**：「临时拼凑」（jerry-rigged）把旧系统的低效具象化；「自上而下」把汉密尔顿式解决方案具象化。
+- **为什么这样写**：确立电网的汉密尔顿式起源——英萨尔的莱克县项目。
 
 > **原句 7:** "Insull's success was a near-perfect distillation of Hamiltonian progressivism's great promise—professional expertise and public authority combined to do for ordinary people what neither the market nor the government was capable of doing on its own."
 
-- **中文理解**：Insull's success was a near-perfect distillation of Hamiltonian progressivism's great promise—professional expertise and public authority combined to do for ordinary people what neither the market nor the government was capable of doing on its own。
+- **中文理解**：英萨尔的成功，近乎完美地浓缩了汉密尔顿式进步主义的伟大承诺——专业专长与公共权威相结合，为普通人做成市场与政府各自都做不到的事。
 - **句子结构**：主系表 + 同位语。
 - **关键词**：`near-perfect distillation`、`professional expertise and public authority combined`
-- **表达方式**：near-perfect distillation 把 Insull's success 升华为 Hamiltonian progressivism 的 paradigm。
-- **为什么这样写**：establish the baseline—Hamiltonian triumph—before showing its Jeffersonian dismantling.
+- **表达方式**：「近乎完美的浓缩」把英萨尔的成功升华为汉密尔顿式进步主义的典范。
+- **为什么这样写**：先确立基线——汉密尔顿式的胜利——再展示它如何被杰斐逊式地拆解。
 
 > **原句 8:** "The barriers thwarting construction of this one high-voltage transmission line aren't unique—they were, and are, indicative of a more typical rigmarole."
 
-- **中文理解**：The barriers thwarting construction of this one high-voltage transmission line aren't unique—they were, and are, indicative of a more typical rigmarole。
+- **中文理解**：阻碍这条高压输电线路建设的障碍并不独特——它们过去是、现在也是那种更典型的繁琐程序的写照。
 - **句子结构**：主系表 + 同位语。
 - **关键词**：`indicative of a more typical rigmarole`
-- **表达方式**：rigmarole 把 process complexity 具象化。
-- **为什么这样写**：close the chapter—NECEC as paradigmatic case of infrastructure paralysis.
+- **表达方式**：「繁琐程序」（rigmarole）把程序的复杂性具象化。
+- **为什么这样写**：收束本章——NECEC 是基础设施瘫痪的典型案例。
 
 ## 词汇分级
 

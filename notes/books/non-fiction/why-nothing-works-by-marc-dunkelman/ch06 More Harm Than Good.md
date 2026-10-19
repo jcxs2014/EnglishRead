@@ -42,67 +42,67 @@ modified: "2026-10-17"
 
 > **原句 1:** "Here appeared an example of Hamiltonian progressivism in its finest form."
 
-- **中文理解**：Here appeared an example of Hamiltonian progressivism in its finest form。
+- **中文理解**：这里出现了汉密尔顿式进步主义最纯粹形态的一个范例。
 - **句子结构**：Here appeared + 主语 + 介词短语。
 - **关键词**：`Hamiltonian progressivism in its finest form`
-- **表达方式**：finest form 把 CAB 作为 paradigmatic Hamiltonian success。
-- **为什么这样写**：establish the baseline—CAB as Hamiltonian triumph—before showing its Jeffersonian dismantling.
+- **表达方式**：「最纯粹形态」把民航委员会（CAB）定位为汉密尔顿式成功的典范。
+- **为什么这样写**：先确立基线——CAB 是汉密尔顿式的胜利——再展示它如何被杰斐逊式拆解。
 
 > **原句 2:** "It was a cartel, a simple cartel organized by the government," he explained to his boss, Senator Edward Kennedy (D-MA). This archetypical triumph of the New Deal had turned… bad."
 
-- **中文理解**：Breyer to Kennedy: "It was a cartel, a simple cartel organized by the government." This archetypical triumph of the New Deal had turned… bad。
+- **中文理解**：布雷耶（Breyer）向他的上司、参议员爱德华·肯尼迪（Edward Kennedy）解释道：「这是一个卡特尔，一个由政府组织的简单卡特尔。」这个新政时代的典型胜利，已经变质……变坏了。
 - **句子结构**：引语 + 主句。
 - **关键词**：`cartel organized by the government`、`archetypical triumph... had turned bad`
-- **表达方式**：cartel 一词把 CAB 的 capture 具象化；"turned... bad" 的 ellipsis 表达 disillusionment。
-- **为什么这样写**：mark the moment of progressive disillusionment with CAB—capture, not incompetence.
+- **表达方式**：「卡特尔」一词把民航委员会被俘获的事实具象化；「已经变质……变坏」中的省略号表达幻灭感。
+- **为什么这样写**：标记进步主义对民航委员会幻灭的时刻——问题是被俘获，而非无能。
 
 > **原句 3:** "Using his perch on the Senate Judiciary Committee, Kennedy convened a series of hearings to study the issue."
 
-- **中文理解**：Using his perch on the Senate Judiciary Committee, Kennedy convened a series of hearings to study the issue。
+- **中文理解**：肯尼迪利用他在参议院司法委员会的职位，召集了一系列听证会来研究这个问题。
 - **句子结构**：分词短语作状语 + 主句。
 - **关键词**：`perch`、`convened hearings`
-- **表达方式**：perch 把 Kennedy 的 institutional leverage 具象化。
-- **为什么这样写**：establish Kennedy's role in progressive deregulation—not just conservative Chicago School.
+- **表达方式**：「高位」（perch）一词把肯尼迪的机构杠杆具象化。
+- **为什么这样写**：确立肯尼迪在进步式去管制中的角色——这件事不只是保守派芝加哥学派在做。
 
 > **原句 4:** "In what can only be described as the deepest of ironies, political movements that had been at odds when the economy was good—with progressives pushing for more government while conservatives demanded less—began tugging in the same direction during the 1970s."
 
-- **中文理解**：In what can only be described as the deepest of ironies, political movements that had been at odds when the economy was good—with progressives pushing for more government while conservatives demanded less—began tugging in the same direction during the 1970s。
+- **中文理解**：只能用「最深沉的讽刺」来形容的是：经济景气时彼此对立的政治运动——进步派要求更多政府，保守派要求更少——到了 1970 年代竟开始朝同一方向使劲。
 - **句子结构**：主句 + 同位语从句。
 - **关键词**：`deepest of ironies`、`tugging in the same direction`
-- **表达方式**：deepest of ironies 把 progressive/conservative convergence 具象化。
-- **为什么这样写**：book's thesis moment—progressivism's Jeffersonian turn aligns with conservatism's anti-government stance.
+- **表达方式**：「最深沉的讽刺」把进步派与保守派的合流具象化。
+- **为什么这样写**：这是全书的论点时刻——进步主义的杰斐逊式转向与保守派的反政府立场合流。
 
 > **原句 5:** "The Federal Register compiling government decisions grew from 2,400 pages in 1936 to 20,000 in 1970, to a remarkable 60,000 pages in 1976."
 
-- **中文理解**：The Federal Register compiling government decisions grew from 2,400 pages in 1936 to 20,000 in 1970, to a remarkable 60,000 pages in 1976。
+- **中文理解**：汇编政府决策的《联邦公报》（Federal Register）从 1936 年的 2,400 页，增长到 1970 年的 20,000 页，再到 1976 年惊人的 60,000 页。
 - **句子结构**：主语 + 谓语 grew + 介词短语。
 - **关键词**：`Federal Register`、`2,400 → 20,000 → 60,000`
-- **表达方式**：quantitative evidence of regulatory ossification。
-- **为什么这样写**：provide empirical anchor for "vetocracy" claim.
+- **表达方式**：用数量级递增的数据来呈现管制僵化。
+- **为什么这样写**：为「否决政体」的论点提供经验锚点。
 
 > **原句 6:** "If the market was permitted to resolve these concerns expeditiously, some companies were bound to fail. The bureaucracy became a tool to protect entrenched interests to insulate firms that could not compete."
 
-- **中文理解**：If the market was permitted to resolve these concerns expeditiously, some companies were bound to fail. The bureaucracy became a tool to protect entrenched interests to insulate firms that could not compete。
+- **中文理解**：如果允许市场迅速解决这些担忧，一些公司注定要倒闭。于是官僚机构变成了保护既得利益、为无法竞争的企业提供庇护的工具。
 - **句子结构**：条件从句 + 主句；第二句主系表。
 - **关键词**：`expeditiously`、`entrenched interests`、`insulate firms`
-- **表达方式**：entrenched interests + insulate firms 把 regulatory capture 具象化。
-- **为什么这样写**：explain why bureaucracy became tool for losers, not public good.
+- **表达方式**：「既得利益」加「庇护企业」把监管俘获具象化。
+- **为什么这样写**：解释官僚机构为何变成了失败者的工具，而非公共利益的守护者。
 
 > **原句 7:** "Well, Johnny, I think one of the things is that people keep looking to the government for the answer—but government is the problem."
 
-- **中文理解**：Reagan on Johnny Carson's Tonight Show: "Well, Johnny, I think one of the things is that people keep looking to the government for the answer—but government is the problem."
+- **中文理解**：里根（Reagan）在约翰尼·卡森（Johnny Carson）的《今夜秀》上说：「呃，约翰尼，我想问题之一在于，人们一直指望政府给出答案——但政府本身就是问题。」
 - **句子结构**：引语，主从复合句。
 - **关键词**：`government is the problem`
-- **表达方式**：Reagan's iconic quip—often attributed to conservatism, but author argues it resonated with progressive aversion too.
-- **为什么这样写**：set up the claim that Reagan's animus shared progressive Jeffersonian roots.
+- **表达方式**：这是里根标志性的俏皮话——人们通常把它归给保守主义，但作者认为它同样呼应了进步派对权力的厌恶。
+- **为什么这样写**：为「里根的敌意与进步主义杰斐逊式根源同源」这一论断作铺垫。
 
 > **原句 8:** "With agencies captured by the Establishment, judges appeared more like a cudgel against corruptible institutions."
 
-- **中文理解**：With agencies captured by the Establishment, judges appeared more like a cudgel against corruptible institutions。
+- **中文理解**：当各机构被建制派俘获时，法官看起来更像是用来对付腐败机构的棍棒。
 - **句子结构**：With 介词短语 + 主句。
 - **关键词**：`cudgel`、`corruptible institutions`
-- **表达方式**：cudgel 把 judiciary's new role as weapon 具象化。
-- **为什么这样写**：establish judiciary as progressive tool—standing expansion & public interest litigation.
+- **表达方式**：「棍棒」（cudgel）把司法机构作为武器的新角色具象化。
+- **为什么这样写**：确立司法系统作为进步主义工具的角色——扩大诉讼资格与公益诉讼。
 
 ## 词汇分级
 

@@ -42,67 +42,67 @@ modified: "2026-10-17"
 
 > **原句 1:** "Who, at long last, was going to protect the officers from the chiefs?"
 
-- **中文理解**：Who, at long last, was going to protect the officers from the chiefs?
+- **中文理解**：到底是谁，终于要保护警察不受警长的欺压？
 - **句子结构**：疑问句，主语 + 助动词 + 不定式 + 宾语。
 - **关键词**：`at long last`、`protect the officers from the chiefs`
-- **表达方式**：rhetorical question 把 officer vulnerability 的 irony 摘出。
-- **为什么这样写**：prologue 的 diagnostic question——progressivism's Jeffersonian impulse 从 "protect suspects" 转向 "protect officers"。
+- **表达方式**：用反问句把警察处于弱势的讽刺意味挑明。
+- **为什么这样写**：这是开场白的诊断式提问——进步主义的杰斐逊式冲动从「保护嫌疑人」转向「保护警察」。
 
 > **原句 2:** "Progressives had cheered when the judiciary began requiring cops to adhere to more rigorous standards of professionalism. And now, many wanted to apply the same approach to another circumstance defined by vast disparities of power."
 
-- **中文理解**：Progressives had cheered when the judiciary began requiring cops to adhere to more rigorous standards of professionalism. And now, many wanted to apply the same approach to another circumstance defined by vast disparities of power。
+- **中文理解**：当司法部门开始要求警察遵守更严格的专业标准时，进步人士曾为之欢呼。如今，许多人想把同样的做法应用于另一个权力差距悬殊的领域。
 - **句子结构**：两句话：第一句 past perfect + when 从句；第二句 many wanted to apply...
 - **关键词**：`vast disparities of power`、`same approach`
-- **表达方式**：parallel structure 把 police rights 与 officer rights 的 extension 类比。
-- **为什么这样写**：establish LEOBORs as progressive project—same Jeffersonian logic, different target.
+- **表达方式**：用平行的句式把「警方权利」与「警察权利」的延伸作类比。
+- **为什么这样写**：确立 LEOBOR（执法人员权利法案）是一项进步事业——同样的杰斐逊式逻辑，不同的目标。
 
 > **原句 3:** "LEOBORs would protect Black cops from being harassed by white chiefs. Or so many reformers at the time had initially presumed."
 
-- **中文理解**：LEOBORs would protect Black cops from being harassed by white chiefs. Or so many reformers at the time had initially presumed。
+- **中文理解**：LEOBOR 会保护黑人警察免受白人警长的骚扰。至少当时许多改革者最初是这样设想的。
 - **句子结构**：两句话：第一句 would + 动词；第二句 Or so... had initially presumed。
 - **关键词**：`initially presumed`
-- **表达方式**："Or so... presumed" 的 hindsight framing 把 reformers 的 naive optimism 点出。
-- **为什么这样写**：mark the gap between intention and outcome—progressive reform's unintended consequence。
+- **表达方式**：「至少当时……是这样设想的」（Or so... presumed）这一事后回看的框架，点出了改革者的天真乐观。
+- **为什么这样写**：标示意图与结果之间的落差——进步主义改革意想不到的后果。
 
 > **原句 4:** "The rights revolution broadly encompassed Jeffersonian progressivism's strategy of pushing authority down by investing individuals with new rights."
 
-- **中文理解**：The rights revolution broadly encompassed Jeffersonian progressivism's strategy of pushing authority down by investing individuals with new rights。
+- **中文理解**：权利革命在广义上涵盖了杰斐逊式进步主义的策略——通过赋予个人新的权利来把权威向下推。
 - **句子结构**：主语 + 动词 + 宾语 + by + 分词短语。
 - **关键词**：`rights revolution`、`investing individuals with new rights`
-- **表达方式**：rights revolution 作为 unified phenomenon 的 definition。
-- **为什么这样写**：connect police LEOBORs 与 welfare entitlements 为 same Jeffersonian strategy。
+- **表达方式**：把「权利革命」定义为一种统一的现象。
+- **为什么这样写**：把警方 LEOBOR 与福利权利化连接为同一种杰斐逊式策略。
 
 > **原句 5:** "The denial of any form of privilege or benefit on the basis of undisclosed reasons should no longer be tolerated. Nor should the same person sit as legislator, prosecutor, judge and jury, combining all the functions of government in such a way as to make fairness virtually impossible."
 
-- **中文理解**：Reich 的 "The New Property"：The denial of any form of privilege or benefit on the basis of undisclosed reasons should no longer be tolerated. Nor should the same person sit as legislator, prosecutor, judge and jury...
+- **中文理解**：赖希（Reich）在《新财产》中写道：以未披露的理由剥夺任何形式的特权或福利，不应再被容忍；同样，同一个人也不应同时担任立法者、检察官、法官和陪审团，把政府的所有职能集于一身，以致公平几乎不可能实现。
 - **句子结构**：两句话：第一句 should no longer be tolerated；第二句 Nor should... sit...
 - **关键词**：`undisclosed reasons`、`legislator, prosecutor, judge and jury`
-- **表达方式**：Reich 的 rights-based critique of administrative state。
-- **为什么这样写**： intellectual anchor for rights revolution—Charles Reich's "New Property"。
+- **表达方式**：这是赖希基于权利对行政国家的批判。
+- **为什么这样写**：为权利革命提供智识锚点——查尔斯·赖希的「新财产」理论。
 
 > **原句 6:** "The last thing a young mother struggling to raise her children needs is the added burden of tracking down a letter to prove her family's eligibility for a little plus-up in their monthly check. Salt in the wound of poverty."
 
-- **中文理解**：The last thing a young mother struggling to raise her children needs is the added burden of tracking down a letter to prove her family's eligibility for a little plus-up in their monthly check. Salt in the wound of poverty。
+- **中文理解**：一位拼命抚养孩子的年轻母亲，最不需要的就是还要费劲去找一封信，来证明她的家庭有资格在每月支票上多拿一点钱。这无异于往贫困的伤口上撒盐。
 - **句子结构**：主系表 + 独立短句。
 - **关键词**：`plus-up`、`Salt in the wound of poverty`
-- **表达方式**：Salt in the wound—metaphor 把 depersonalization 的 cost 具象化。
-- **为什么这样写**：balance the rights revolution's triumph with its human cost—cold programs.
+- **表达方式**：「往伤口撒盐」这一隐喻把去个人化的代价具象化。
+- **为什么这样写**：用权利革命胜利的代价来平衡其成就——冰冷的项目。
 
 > **原句 7:** "It's worth taking note of the narrative arc here because it tracks a pattern that will be made evident again and again in the chapters that follow."
 
-- **中文理解**：It's worth taking note of the narrative arc here because it tracks a pattern that will be made evident again and again in the chapters that follow。
+- **中文理解**：值得留意这里的叙事弧线，因为它追踪的模式会在后面的章节中一再显现。
 - **句子结构**：It's worth + 动名词 + because 从句。
 - **关键词**：`narrative arc`、`pattern`
-- **表达方式**：meta-commentary 把本章 thesis 升华为 book-wide pattern。
-- **为什么这样写**：explicitly frame the book's recurring structure—Hamiltonian → Jeffersonian → incompetence.
+- **表达方式**：这段元评论把本章的论点升华为全书反复出现的模式。
+- **为什么这样写**：明确点出本书的循环结构——汉密尔顿式 → 杰斐逊式 → 无能。
 
 > **原句 8:** "The ultimate irony was that progressivism's effort to preclude social workers from prying into people's personal lives created what felt like more government."
 
-- **中文理解**：The ultimate irony was that progressivism's effort to preclude social workers from prying into people's personal lives created what felt like more government。
+- **中文理解**：最大的讽刺在于，进步主义为防止社会工作者窥探人们私生活所做的努力，反而制造了一种「政府更多了」的感觉。
 - **句子结构**：主系表 + that 从句。
 - **关键词**：`ultimate irony`、`preclude`、`more government`
-- **表达方式**：irony 把 rights revolution 的 paradox 摘出—less discretion → more rules.
-- **为什么这样写**：本章 thesis 的 closing—Jeffersonian means produce Hamiltonian-ish outcomes (more government).
+- **表达方式**：用「讽刺」揭示权利革命的悖论——自由裁量减少，规则却更多。
+- **为什么这样写**：收束本章论点——杰斐逊式的手段产生了汉密尔顿式的结果（更多的政府）。
 
 ## 词汇分级
 
