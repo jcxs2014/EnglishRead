@@ -35,14 +35,14 @@
 > **原句 4:** "$500 Reward!!! Dead or Alive, the headline screamed. The notice claimed that on April 1, 1866, a man known as Isaiah had rustled a herd of horses and killed a man to escape in Galveston, Texas."
 
 - **中文理解**：通知以 “Dead or Alive” 开头，指控 1866 年 4 月 1 日一个叫以赛亚的人在 Galveston, Texas 骗走一群马并杀死一个人以逃脱。Papa 用免籍证明书、学徒证明与圣经家庭记录逐条反驳：他 1866 年 3 月 30 日刚失去新生儿子所罗门，不可能在当地；他是黑铁匠，不会偷走牲口。
-- **关键词**：Dead or Alive / rustled / manumission
+- **关键词**：Dead or Alive / rustled / Galveston, Texas
 - **为什么这样写**：Lucy 把通知的标题与 Papa 的防御并置，形成“指控→证据”的法律戏剧。Papa 的防御用家庭事件（出生与死亡）作不在场证明，把法律指控转化为个人证词。Lucy 的 “文件可能是生与死的区别” 点出 Emancipation 后 freemen 的生存策略：文件如同盔甲。
 - **读者视角提示**：“Dead or Alive”是赏金通告的标准短语；rustled 意为偷走牲口。Papa 的 “six two” 身高与通知的 “nineteen years old” 只有相似点，显示指控的脆弱。免籍证明书是 Papa 自由的法律证据，学徒证明证明技能——都是存世的战前文件。
 
 > **原句 5:** "More’n likely," the marshal agreed. "And truth be told, y’all remind me of dozens of families just like you that came through my family’s basement before the war trying to get north. I lost my pappy when I was fifteen, but while my sweet mother still lives, it would make her smile to know I’m doing more than busting up bar fights and shooting strays in Abilene."
 
 - **中文理解**：Hickok 承认他们说的大概不错，然后透露：过去他家地窖里曾藏过地下铁路逃奴；pappy 十五岁时死了，但母亲还活着，做 marshal 之外的善事，会让母亲微笑。Mama 追问：他是指地下铁路？Hickok 答：圣洁双亲归功于。
-- **关键词**：Underground Railroad / saintly parents / basement
+- **关键词**：basement / before the war / bar fights
 - **为什么这样写**：Hickok 的自白把地下铁路的 legacy 与家庭记忆联系起来，显示 marshal 身份之外的道德来源；Mama 的追问让“地下铁路”从暗示转为确认，也把堪萨斯与肯塔基的地区差异具象化。
 - **读者视角提示**：地下铁路在解放后是公开话题，但 Lucy 在列克星敦难以想象庇护所——显示地区差异（堪萨斯对比肯塔基）。Hickok 的 “圣洁双亲” 是宗教性修辞，与 Zipporah 的 “上帝所膏立” 形成信仰主题。
 
@@ -56,7 +56,7 @@
 > **原句 7:** "There!" Papa shouted, pointing. "Those are the rocks we’re heading for. My brother said to look for the Twins. He calls ’em Jacob and Esau."
 
 - **中文理解**：Papa 指向弗林特高地中的两座灰白石灰岩柱，叫雅各和以扫（圣经双生子）——比利叔叔取的名。这是确认 Zipporah 存在的路标：民警把她说成童话后，这一指确认了她说的是真的。圣经取名呼应 Zipporah（摩西的妻子）。
-- **关键词**：Flint Hills / Twins / Jacob and Esau
+- **关键词**：the Twins / Jacob and Esau / the rocks
 - **为什么这样写**：双山作为路标，把民警的怀疑转化为导航证明：Papa 的地图指到真实地理。圣经取名（雅各和以扫，双子与争执）预示小说的冲突（Freeman 家族 vs 得州人，Freeman 家 vs 暴徒）。"东边"的第二次转向是具体的导航，把魔法锚定在真实的路线知识里。
 - **读者视角提示**：弗林特高地是真实的堪萨斯地理；Jacob and Esau 是创世记中的双生子（争执、长子名分）。取名方式暗示兄弟/竞争的张力，却不直说。Lucy 的 “视觉证据” 证明目的地真实，反驳 marshal 的 “fairy tales”，显示 colored family 对传说与现实的辨别。
 
