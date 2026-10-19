@@ -90,7 +90,7 @@ start_date: 2026-10-19
 
 **中文理解**：Yolanda drifts to Javier’s jars—human fetuses, cat eyes. Shows her curiosity and unease. "I think of visiting Valentín, but he may be sleeping."
 
-**句子结构**：两句话。
+**句子结构**：一句话。
 
 **关键词**：
 - `jars on the floating shelves`：浮动搁板上的罐子——Javier’s specimens
@@ -224,7 +224,7 @@ start_date: 2026-10-19
 
 > **原句 16:** "Valentín presses his hand in mine."
 
-**中文理解**：Valentín presses hand in Yolanda’s—physical connection. "That’s not my life. Luck hasn’t wanted to touch me..." Shows Yolanda’s yearning for genuine connection。
+**中文理解**：Valentín presses hand in Yolanda’s—physical connection. Shows Yolanda’s yearning for genuine connection。
 
 **句子结构**：简单陈述句。
 

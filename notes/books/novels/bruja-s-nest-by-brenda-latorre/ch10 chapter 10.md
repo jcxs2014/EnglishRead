@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 **中文理解**：Yolanda gives birth to egg—"white oval that I can’t call anything other than an egg." Horror reveal: baby is egg. "My baby is an egg." Shows her shock。
 
-**句子结构**：两句话：I’ve given birth to... + My baby is an egg。
+**句子结构**：一句话：I’ve given birth to a white oval that I can’t call anything other than an egg。
 
 **关键词**：
 - `white oval... egg`：白色卵形... 蛋——horror reveal
@@ -117,7 +117,7 @@ start_date: 2026-10-19
 
 **中文理解**：Egg moves—"When I caress the heavy oval, it moves." Shows it’s alive. "A slight shake in my arms to let me know it’s there." maternal connection despite horror。
 
-**句子结构**：两句话。
+**句子结构**：一句话。
 
 **关键词**：
 - `caress the heavy oval, it moves`：抚摸沉重的卵形，它移动——alive
@@ -265,7 +265,7 @@ start_date: 2026-10-19
 
 > **原句 19:** "“Very well,” says Don Julián."
 
-**中文理解**：Don Julián’s "Very well"—acceptance. Shows his pragmatism (or resignation). "He glances at Javier, as if silently reaffirming what I just said."
+**中文理解**：Don Julián’s "Very well"—acceptance. Shows his pragmatism (or resignation).
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -305,14 +305,14 @@ start_date: 2026-10-19
 
 > **原句 22:** "“Y tú, maldita zorra,” she says to me."
 
-**中文理解**：Odette’s "Y tú, maldita zorra" (And you, damn whore)—direct insult. Yolanda’s reaction: "I want to glance down, afraid he’ll read the truth that’s there in the open."
+**中文理解**：Odette’s "Y tú, maldita zorra" (And you, damn whore)—direct insult.
 
 **句子结构**：引语 + 叙述者评注。
 
 **关键词**：
 - `maldita zorra`：该死的婊子——insult
 
-**为什么这样写**：Odette’s insult is accurate—Yolanda is deceiving them all. Her fear of Javier "reading the truth" shows her anxiety。
+**为什么这样写**：Odette’s insult is accurate—Yolanda is deceiving them all。
 
 ---
 

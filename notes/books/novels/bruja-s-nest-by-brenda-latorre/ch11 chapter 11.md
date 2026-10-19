@@ -21,7 +21,7 @@ start_date: 2026-10-19
 
 **中文理解**：Family waits during Valentín’s surgery—silence shows tension. "No one dares to say a word" shows fear。
 
-**句子结构**：三句话：We wait... + First in the hallway. + Then outside his room. + No one dares...
+**句子结构**：四句话：We wait... + First in the hallway. + Then outside his room. + No one dares...
 
 **关键词**：
 - `No one dares to say a word`：没人敢说话——tension/fear
@@ -198,7 +198,7 @@ start_date: 2026-10-19
 
 **中文理解**：Alta’s "Valentincito needs you. They cut off his arm."—shows Valentín’s amputation. "Do you understand?" is demand. Yolanda: "I stand from the bed... I’m elated. I’m needed. I’m important."
 
-**句子结构**：两句话：Valentincito needs you... + Do you understand?
+**句子结构**：三句话：Valentincito needs you... + They cut off his arm. + Do you understand?
 
 **关键词**：
 - `They cut off his arm`：他们切掉了他的手臂——amputation
@@ -224,9 +224,9 @@ start_date: 2026-10-19
 
 > **原句 16:** "Then I see it. At the foot of the bed. His arm, with the shears stuck inside, like a beak trespassing the flesh."
 
-**中文理解**：Yolanda sees severed arm—"His arm, with the shears stuck inside, like a beak trespassing the flesh." Shows horror. "I want to bury it. Honor it in some way."
+**中文理解**：Yolanda sees Valentín’s amputated arm with shears—"like a beak trespassing the flesh." Horror imagery. "Then I see it" shows shock。
 
-**句子结构**：两句话。
+**句子结构**：三句话。
 
 **关键词**：
 - `His arm, with the shears stuck inside, like a beak trespassing the flesh`：他的手臂，剪刀插在里面，像鸟喙刺穿肉——horror

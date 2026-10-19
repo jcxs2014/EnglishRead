@@ -62,7 +62,7 @@ start_date: 2026-10-19
 
 **中文理解**：Kid asks if hacienda is "embrujada" (bewitched). Yolanda’s "I stick out my tongue at them" shows defiance. " embrujada" connects to bruja/Cesarea。
 
-**句子结构**：三问：Hey! Is it true then? + What? + That the hacienda is embrujada。
+**句子结构**：两问 + 一陈述：Hey! Is it true then? + What? + That the hacienda is embrujada（kid’s statement）。
 
 **关键词**：
 - `embrujada`：被施魔法的——hacienda’s supernatural reputation
@@ -144,7 +144,7 @@ start_date: 2026-10-19
 
 **中文理解**：Yolanda’s report—doctor won’t come, needs upfront payment, family owes money. Shows hacienda’s financial precarity。
 
-**句子结构**：三句话：He won’t come... + He said we have to pay upfront + We owe money... + He doesn’t trust...
+**句子结构**：四句话：He won’t come... + He said we have to pay upfront + We owe money... + He doesn’t trust...
 
 **关键词**：
 - `pay upfront`：预付——financial demand
@@ -158,7 +158,7 @@ start_date: 2026-10-19
 
 **中文理解**：Yolanda’s suggestion—sell taxidermied birds/silver to pay doctor. Shows her pragmatism. Alta rejects: "Those decisions aren’t up to us."
 
-**句子结构**：三句话：We could sell those + And maybe the silver as well + Or perhaps we wouldn’t even have to sell them...
+**句子结构**：四句话：We could sell those + And maybe the silver as well + Or perhaps we wouldn’t even have to sell them + We could give them directly to the doctor.
 
 **关键词**：
 - `sell those`：卖那些——pragmatic suggestion
@@ -172,7 +172,7 @@ start_date: 2026-10-19
 
 **中文理解**：Alta’s "Those decisions aren’t up to us" + "We are not family"—shows class boundary. "All we can do is care for him now" is Yolanda’s opportunity。
 
-**句子结构**：两句话：Those decisions aren’t up to us + We are not family. All we can do...
+**句子结构**：三句话：Those decisions aren’t up to us + We are not family + All we can do is care for him now.
 
 **关键词**：
 - `Those decisions aren’t up to us`：这些决定不由我们——class boundary
@@ -227,14 +227,14 @@ start_date: 2026-10-19
 
 > **原句 16:** "“Don’t worry. I’m Itzco’s friend,” I say."
 
-**中文理解**：Yolanda’s "I’m Itzco’s friend"—lie to gain Valentín’s trust. "He relaxes back into the bed" shows it works。
+**中文理解**：Yolanda’s "I’m Itzco’s friend"—she claims friendship (not a lie, she wants to think she is). "He relaxes back into the bed" shows it works。
 
 **句子结构**：引语。
 
 **关键词**：
-- `I’m Itzco’s friend`：我是 Itzco 的朋友——lie for trust
+- `I’m Itzco’s friend`：我是 Itzco 的朋友——claim for trust (not a lie)
 
-**为什么这样写**：Yolanda’s lie (Itzco’s friend) is strategic—she uses Itzco’s name to gain Valentín’s comfort, while simultaneously using Itzco for scheme。
+**为什么这样写**：Yolanda’s claim (Itzco’s friend) is strategic—she uses Itzco’s name to gain Valentín’s comfort, while simultaneously using Itzco for scheme。
 
 ---
 
