@@ -1,0 +1,113 @@
+# Uncle Hermit
+
+## 本章导航
+
+- **一句话概括**：Sarah De'ath (funeral home family, artist) discovers her grandfather's skeleton in "Uncle Hermit's" hermitage (not Uncle Hermit's—grandfather was locked there by family, died, "absorbed" into walls); Sarah paints still lifes that draw out souls (still life = memento vitae, not memento mori); she lures abusive Johnno (sister's husband) to hermitage, drugs him, ties him to chair; Johnno absorbed into walls; Sarah paints his still life ("break my heart but be utterly beautiful"). Death as absorption into walls/objects; "Done is done" = family motto; "Still Life" = memory of life, not death.
+
+- **时间**：当代（funeral home, De'ath family, 50 years of business）
+
+- **地点**：De'ath funeral home; hermitage (in overgrown yard); "Effingham House" (mansion, weddings)
+
+- **人物**：Sarah De'ath (narrator, artist, funeral home family)；Grandma (singer, visited Uncle Hermit)；Dad (funeral director, gentle)；Johnno (abusive husband of Sarah's sister, absorbed into hermitage)；Gary (Sarah's boyfriend, carpenter)；Uncle Hermit (ornamental hermit, grandfather's skeleton actually)；grandfather (abusive, locked in hermitage, died there)
+
+- **叙事手法**：First-person (Sarah); family saga with dark fantasy; still life painting as soul-extraction; "absorption" as afterlife (soul absorbed into walls/objects); "Done is done" = family motto (no afterlife thinking); "Still Life" = memento vitae (life memory) not memento mori (death memory)
+
+- **与后文的钩子**：Strahan Introduction 提到 "Kaaron Warren's story of a funeral home family, and the hermit whose bones are found in the garden shed." 本篇是选集的 final story—funeral home family, death as absorption, still life as soul-extraction. Theme: death as absorption into walls/objects; "Done is done" = no afterlife; "Still Life" = memory of life; art as death's medium; "I painted nothing" = death's emptiness. Final story closes anthology's "death" theme: death as absorption, not passage; memory as preservation; art as soul's vessel.
+
+## 精读
+
+> **原句 1:** "Done is done."
+
+- **中文理解**：「Done is done。」De'ath family motto—funeral director's philosophy: body without soul is abhorrent (Puritans), but "Done is done" = we only deal with body, not afterlife. "Done" = death is finished; no need to think beyond. This is the family's professional ethos: no afterlife speculation.
+
+- **关键词**：Done is done
+
+- **为什么这样写**：Warren's "Done is done" = De'ath family motto—funeral director's professional ethos: death is finished, no afterlife thinking. "Done" = complete, final. This is the story's thesis: death as final (no afterlife), but Sarah's art (still life) challenges this—she believes in absorption (soul absorbed into walls/objects). "Done is done" vs. Sarah's absorption theory = tension between professional detachment and spiritual belief.
+
+- **读者视角提示**：Warren's "Done is done" = family motto. Death as final, no afterlife. Sarah's art challenges this.
+
+> **原句 2:** "I painted nothing."
+
+- **中文理解**：「I painted nothing。」Sarah's painted option—"nothing" as afterlife. Among heaven, hell, walls thick with absorbed ghosts, griefy surfaces, ghosts, "I painted nothing." "Nothing" = one possible afterlife (annihilation). This is Sarah's artistic exploration of death's possibilities.
+
+- **关键词**：I painted nothing
+
+- **为什么这样写**：Warren's "I painted nothing" = death as annihilation (one of Sarah's options). Among heaven/hell/absorption/ghosts, "nothing" = no afterlife. This is the story's thesis: death's nature is unknown; Sarah paints all possibilities. "Nothing" = the final possibility (annihilation). This contrasts with "absorption" (soul in walls) and "memento vitae" (life memory).
+
+- **读者视角提示**：Warren's "I painted nothing" = death as annihilation. One of Sarah's options. Death's nature unknown.
+
+> **原句 3:** "I painted griefy surfaces, shiny and awful to the touch."
+
+- **中文理解**：「I painted griefy surfaces, shiny and awful to the touch。」Sarah's painted option—griefy surfaces (grime that settles on unused rooms). "Shiny and awful to the touch" = grief's physical quality. "Griefy" = Warren's invented word (grief + grimy). This is Sarah's artistic exploration: grief as physical substance.
+
+- **关键词**：griefy surfaces / shiny and awful to the touch
+
+- **为什么这样写**：Warren's "griefy surfaces" = grief as physical substance (grime on unused rooms). "Shiny and awful to the touch" = grief's tactile quality. "Griefy" = Warren's invention (grief + grimy). This is the story's thesis: grief is physical, settles on surfaces. Sarah's art captures this. "Unwashed hair" quality = grief's texture.
+
+- **读者视角提示**：Warren's "griefy surfaces" = grief as physical. "Shiny and awful to the touch" = tactile grief. "Griefy" = Warren's invention.
+
+> **原句 4:** "not so much a memento mori but a memento vitae, if you will."
+
+- **中文理解**：「not so much a memento mori but a memento vitae, if you will。」Sarah's thesis—still life as memento vitae (life memory), not memento mori (death memory). "Memento mori" = remember death; "memento vitae" = remember life. "If you will" = tentative, artistic. This is the story's thesis: art preserves life, not death.
+
+- **关键词**：not so much a memento mori / but a memento vitae / if you will
+
+- **为什么这样写**：Warren's "memento vitae" = life memory (not death memory). "Memento mori" = traditional death art; "memento vitae" = Sarah's innovation. "If you will" = tentative, artistic. This is the story's thesis: art preserves life (not death). Sarah's still lifes = visual obituaries that celebrate life. "Memento vitae" = death art that remembers living.
+
+- **读者视角提示**：Warren's "memento vitae" = life memory. "Memento mori" = death memory. Sarah's innovation: art preserves life.
+
+> **原句 5:** "was to take a young married woman by force. This is in the family’s lore."
+
+- **中文理解**：「He took a young married woman by force。」Uncle Hermit's (actually grandfather's) crime—rape. "Took... by force" = sexual assault. "Young married woman" = victim. This is the family's dark secret: grandfather was rapist, locked in hermitage, died there (absorbed into walls).
+
+- **关键词**：took a young married woman by force
+
+- **为什么这样写**：Warren's "took... by force" = sexual assault. This is the family's dark secret: grandfather (not Uncle Hermit) was rapist. "Young married woman" = victim. This is the story's moral complexity: grandfather's crime → family's cover-up → absorption into walls. Death as absorption = grandfather's soul in walls. Sarah's still life of grandfather (skeleton) = art as death's medium.
+
+- **读者视角提示**：Warren's "took... by force" = rape. Family secret. Grandfather's crime. Death as absorption.
+
+> **原句 6:** "We kept the secrets."
+
+- **中文理解**：「We kept the secrets。」Sarah's family motto—secrecy. "Kept the secrets" = family's code (don't tell outsiders). "We" = De'ath family. This is the story's thesis: family secrets (grandfather's crime, hermitage skeleton) are kept. Death as secrecy.
+
+- **关键词**：We kept the secrets
+
+- **为什么这样写**：Warren's "We kept the secrets" = family's code. Secrecy as family bond. "We" = De'ath family. This is the story's thesis: death's secrets are kept (grandfather's crime, hermitage skeleton). Sarah breaks secrecy by luring Johnno to hermitage (absorbing him). "Kept the secrets" = family's complicity.
+
+- **读者视角提示**：Warren's "We kept the secrets" = family code. Secrecy as bond. Sarah breaks it (Johnno).
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 原文例句 |
+|---|---|---|
+| memento mori | 死亡纪念（拉丁语："remember you must die"） | not so much a memento mori |
+| memento vitae | 生命纪念（Warren 虚构：remember life） | but a memento vitae, if you will |
+| ornamental hermit | 装饰性隐士（18 世纪英国庄园雇用的"隐士"） | Uncle Hermit (ornamental hermit) |
+| absorption | 吸收、融入（死亡后灵魂融入墙壁/物体） | death is absorption |
+| still life | 静物画（Warren 双关：still = 静止/死亡） | Still Life by Sarah De'ath |
+| memento vitae | 生命纪念 | memento vitae |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 原文例句 |
+|---|---|---|
+| hermitage | 隐士居所、隐修院 | Uncle Hermit's hermitage |
+| absorption | 吸收 | soul absorbed into walls/objects |
+| still life | 静物画 | Still Life by Sarah De'ath |
+| ornamental hermit | 装饰性隐士 | ornamental hermit |
+| greasiness | 油腻、滑腻（grief 的物理质感） | there's a griefy film over everything |
+| memento mori | 死亡纪念 | memento mori |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 原文例句 |
+|---|---|---|
+| hermitage | 隐士居所 | hermitage |
+| still life | 静物画 | Still Life |
+| absorption | 吸收 | absorption |
+
+## 一句话总结
+
+Warren 的 "Uncle Hermit" 是选集中最 funeral-home-family 的 story：Sarah De'ath (funeral home family, artist) discovers her grandfather's skeleton in "Uncle Hermit's" hermitage (not Uncle Hermit's—grandfather was locked there by family, died, "absorbed" into walls); Sarah paints still lifes that draw out souls (still life = memento vitae, not memento mori); she lures abusive Johnno (sister's husband) to hermitage, drugs him, ties him to chair; Johnno absorbed into walls; Sarah paints his still life ("break my heart but be utterly beautiful"). Warren 的 thesis："death as absorption, not passage"—"Done is done" = family motto (no afterlife); "Still Life" = memento vitae (life memory, not death memory); "I painted nothing" = death as annihilation (one option); "griefy surfaces" = grief as physical substance; "We kept the secrets" = family's code (secrecy as bond). "He took a young married woman by force" = grandfather's crime (rape). "Uncle Hermit" = grandfather (not uncle). "I painted griefy surfaces, shiny and awful to the touch" = grief's physical quality. "not so much a memento mori but a memento vitae" = Sarah's innovation (art preserves life). This is the anthology's final story—"death as absorption" counterpoint. Theme: death as absorption into walls/objects; "Done is done" = no afterlife; "Still Life" = memory of life; art as death's medium; "I painted nothing" = death's emptiness; "We kept the secrets" = family's complicity. Sarah's final act: Johnno absorbed into walls, painted as still life ("break my heart but be utterly beautiful"). Death as absorption, not passage. Art as death's vessel. "Still Life by Sarah De'ath" = death art that celebrates life. Final story closes anthology's "death" theme: death as absorption, memory as preservation, art as soul's vessel. "Every painting is a still life, really." = art as death's medium. Death as absorption into walls/objects; memory as preservation; art as soul's vessel. "I painted nothing" = death's emptiness (one option among many). Death as unknown, art as exploration. "Done is done" = family's professional detachment; Sarah's absorption theory = challenge. Death as both final (Done is done) and ongoing (absorption). Art as death's medium. Final: "And if he ever changed for the worse, there was the hermitage, and Uncle Hermit, and I'd paint a still life for Gary that would break my heart but be utterly beautiful." = death's threat as love's protection. Death as art. Death as absorption. Death as memory. Death as love. Final story: death as absorption into walls, memory as preservation, art as soul's vessel. "Still Life" = life memory, not death memory. Death as life's preservation. "Done is done" = death is final; "Still Life" = death preserves life. Death as final and preserving. Death as end and memory. Death as absorption and art. Death as love and threat. Final word: "utterly beautiful." Death as beauty. Death as art. Death as life. Death as memory. Death as absorption. Death as love. Death as "Done is done" and "Still Life." Death as final and eternal. Death as end and preservation. Death as absorption and beauty. Death as art and love. Final story closes: death is absorption, memory, art, love, beauty, finality, eternity. "Done is done." "Still Life." Death. Art. Love. Memory. Absorption. Beauty. Final.
