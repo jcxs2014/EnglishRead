@@ -118,15 +118,15 @@ start_date: 2026-10-16
 
 > **原句 8:** "Her dark blond hair was tucked into a severe bun revealing a square face."
 
-**中文理解**：Martina 把她的深金色头发盘成一个严肃的发髻，露出四方脸型。这句话是 Martina 的外貌速写——一个与 Jenny 完全相反的"乖乖女"形象。
+**中文理解**：这句话描写的是 Jenny 一家抵达后开门迎接他们的女佣 Helga——她把深金色头发盘成一个严肃的发髻，露出四方脸型。这是 Helga 的外貌速写，而非邻居女孩 Martina：Martina 的形象到后文才出场（毛巾布短装、条纹中筒袜、婴儿蓝眼影、草莓金色卷发）。
 
 **句子结构**：主语（Her dark blond hair）+ 谓语（was tucked）+ 分词短语作结果状语（revealing a square face）。
 
 **关键词**：
-- `severe bun`：严肃的发髻——刻板的"好女孩"发型，与 Jenny 的"tomboyish"形成对比
-- `square face`：四方脸——与 Jenny 圆润的身体意象形成对比，两人代表两种截然不同的女性形象
+- `severe bun`：严肃的发髻——女佣职业性的利落发型，透出老式家庭勤务人员的规矩感
+- `square face`：四方脸——Helga 的面部特征，不加修饰、直白朴素，与后文 Martina 精心打理的草莓金色卷发形成对照
 
-**为什么这样写**：Martina 的外貌是 Jenny 的反面：严肃的发髻、四方脸、"terrycloth short set"（毛巾布短装）。Jenny 对 Martina 的第一印象已经透露了她对这个"标准女孩"的不认同。
+**为什么这样写**：Helga 是 Jenny 一家抵达西柏林后见到的第一个人——身着围裙制服、发型一丝不苟的女佣。这个外貌速写先于 Martina 出场，勾勒出德国老式家庭佣工的日常形象：整齐、严肃、训练有素。Jenny 初来乍到，对公寓里每个人、每件陈设都在仔细观察，Helga 是她记下的第一张面孔。
 
 ---
 
@@ -160,15 +160,15 @@ start_date: 2026-10-16
 
 > **原句 11:** "Old magic. Folk magic. Goddesses and sorceresses. She talks about the forest as an enchanted place."
 
-**中文理解**：古老的魔法。民间魔法。女神和女巫。她把森林说成一个有魔力的地方。这段话是 Frau Hermann 向 Jenny 透露的信息——她对森林魔法（seidr）的兴趣，与 ch01 的 Sophie 和 Hanna 遥相呼应。
+**中文理解**：古老的魔法。民间魔法。女神和女巫。她把森林说成一个有魔力的地方。这段话是 Martina 回答 Jenny 的追问（"What kind of magic?"）时说的话——她并不知道这些魔法的具体含义，只是把自己听说的 Frau Hermann 的"怪癖"复述给 Jenny。真正谈论魔法的不是 Martina，而是她口中的 Frau Hermann（"She talks about..."）。
 
-**句子结构**：四个平行名词短语，是 Frau Hermann 说的话，列举了她对"魔法"的理解类型。
+**句子结构**：四个平行名词短语，是 Martina 转述的 Frau Hermann 谈论魔法的内容（"She talks about the forest..." 中的 she 指 Frau Hermann）。
 
 **关键词**：
-- `Old magic / Folk magic`：古老的魔法 / 民间魔法——北欧/日耳曼文化中的传统魔法，与 ch01 的 seidr 直接关联
+- `Old magic / Folk magic`：古老的魔法 / 民间魔法——Martina 转述的魔法类型，指向北欧/日耳曼民间传统，与 ch01 的 seidr 直接关联
 - `the forest as an enchanted place`：森林是有魔力的地方——这是 Bridegroom's Oak 传说的核心
 
-**为什么这样写**：这是连接两段叙事的关键信息。Frau Hermann 对森林魔法的研究不是偶然的兴趣——她讲的是 Sophie 和 Hanna 的故事（"two girls from my village"）。Frau Hermann 可能是知情者，或者——她就是那个时代的人。
+**为什么这样写**：这是连接两段叙事的关键信息——通过 Martina 的转述，读者第一次得知 Frau Hermann 谈论森林魔法。Martina 只把这一切当作 Frau Hermann 的古怪之处（她此前还说"我觉得她可能是个女巫"），而 Jenny 却因此被吸引，为后文 Frau Hermann 亲自讲述 Sophie 和 Hanna 的故事（"two girls from my village"）做了铺垫。
 
 ---
 
@@ -286,7 +286,7 @@ start_date: 2026-10-16
 
 > **原句 20:** "Unless there's a revolution first!"
 
-**中文理解**：除非先来一场革命！这是 ch02 的最后一句，与 ch01 的结尾"Hanna shook her head. 'Too heavy.'"和 ch01 的第7句（"Unless there's a revolution first!"）形成首尾呼应。两章的结尾是同一句话，但情感重量完全不同。
+**中文理解**：除非先来一场革命！这是 ch02 的最后一句——Lena 对 Jenny"明天见"的回应。她以一句玩笑式的预言收束整章：明天的重逢能否实现，取决于会不会先发生一场革命。这句话只在 ch02 出现，并非 ch01 的句子；ch01 的结尾是"The forest had betrayed them after all."（森林终究背叛了她们）。
 
 **句子结构**：简短的条件句，unless 引导的条件状语从句。
 
@@ -294,7 +294,7 @@ start_date: 2026-10-16
 - `revolution`：革命——双重含义：政治革命（东西柏林的对峙）和个人革命（Jenny 对自我身份的探索）
 - `first`：先——这个字暗示：革命会来的，但不是现在；Jenny 还有时间
 
-**为什么这样写**：这句话在全书中具有结构性的回响意义——它在 ch01 出现在西柏林的语境中，在 ch02 的结尾再次出现，但叙事者变成了 Jenny。这种重复不是偶然的——它是两段叙事之间的深层连接符号。"革命"在个人层面是 Jenny 的故事：在父母安排的"完美人生"与 Lena 代表的"真实自我"之间的冲突。
+**为什么这样写**：这句话是 ch02 的收束句，由 Lena 说出。她把"革命"挂在嘴边，既是冷战背景下柏林日常的一部分——墙两侧的对抗随时可能升级为某种剧变——也是一种个人姿态：革命意味着打破现状、拒绝按部就班。对 Jenny 来说，"革命"暗指她在父母安排的"完美人生"与 Lena 代表的"真实自我"之间的摇摆。以此结尾，把重逢的悬念与"改变随时可能发生"的暗示一起留给读者。
 
 ---
 

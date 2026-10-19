@@ -146,9 +146,9 @@ start_date: 2026-10-16
 
 > **原句 10:** "'The headline says: "Search for Missing Youths Continues. Hanna Schmidt, age 17; Oskar Gerber, age 17; Sophie Muller, age 17." Do you know any of these people?'"
 
-**中文理解**：头条写着："失踪青少年搜寻行动持续进行。Hanna Schmidt，17岁；Oskar Gerber，17岁；Sophie Muller，17岁。"你认识这些人吗？
+**中文理解**：Miles 应 Chloe 的请求，为她逐字读出并翻译报纸头条："失踪青少年搜寻行动持续进行。Hanna Schmidt，17岁；Oskar Gerber，17岁；Sophie Muller，17岁。"读完后，他问 Chloe："你认识这些人吗？"
 
-**句子结构**：直接引语中的直接引语——Chloe 引用报纸头条的内容。这段话包含三个名字，都是17岁，与前几章的 Sophie 和 Hanna 名字有部分重叠（Sophie = Sophie Muller？Hanna = Hanna Schmidt？）。
+**句子结构**：直接引语中的直接引语——Miles 引用报纸头条的内容（外层引号是 Miles 对 Chloe 说出的话，内层引号是剪报头条的原文）。这段话包含三个名字，都是17岁，与前几章的 Sophie 和 Hanna 名字有部分重叠（Sophie = Sophie Muller？Hanna = Hanna Schmidt？）。
 
 **关键词**：
 - `Hanna Schmidt, Oskar Gerber, Sophie Muller`：三个失踪的青少年——与 ch01 的 Sophie 和 Hanna 以及传说中的 Oskar 有什么关系？ch01 只有两个女孩（Sophie 和 Hanna），这里出现了三个名字

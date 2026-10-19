@@ -286,18 +286,20 @@ start_date: 2026-10-16
 
 ---
 
-> **原句 19:** "“I wasn’t honest on Halloween. When you asked me about my type, I wanted to say, you. You’re my type, Chlo. You always have been."
+> **原句 19:** "“I wasn’t honest on Halloween. When you asked me about my type, I wanted to say, you. You’re my type, Chlo. You always have been. Type seems like I’m putting you in some category. You have always been my person. I should’ve told you before, but I was scared of losing our friendship.”"
 
-**中文理解**：Miles 终于向 Chloe 坦白：万圣节那天他没有说实话，当她问起他喜欢什么类型时，他真正想说的是——你。你一直是我的类型。这句迟到已久的告白，是 Miles 在本章学会"真诚"后的最高体现。
+**中文理解**：Miles 终于向 Chloe 坦白：万圣节那天他没有说实话，当她问起他喜欢什么类型时，他真正想说的是——你。你一直是他的类型；他先觉得"类型"这个词像在把她归类，又改口说"你一直是我的人"，还承认自己一直不敢开口是怕失去这段友谊。这句迟到已久、带着犹豫的告白，是 Miles 在本章学会"真诚"后的最高体现。
 
-**句子结构**：第一句是过去时否定（I wasn’t honest on Halloween）；第二句是 when 时间状语从句 + 主句 I wanted to say, you，you 单独成词作宾语；第三、四句是直接告白（You’re my type, Chlo. You always have been.），最后一句省略了 my type（have been my type）。
+**句子结构**：第一句是过去时否定（I wasn’t honest on Halloween）；第二句是 when 时间状语从句 + 主句 I wanted to say, you，you 单独成词作宾语；第三、四句是直接告白（You’re my type, Chlo. You always have been.），第四句省略了 my type；第五句用 Type seems like 解释自己对"类型"一词的顾虑；第六句以 You have always been my person 完成更正与强调；最后一句用 but 转折，坦白一直没说出口的原因是怕失去友谊。
 
 **关键词**：
 - `honest`：诚实的——Miles 此前未能做到的事
-- `type`：类型，喜欢的类型——他借"类型"这个词来表达心意
+- `type`：类型，喜欢的类型——他先说这个词，又觉得像在把她归类
+- `category`：类别，归类——Type seems like I’m putting you in some category，他对自己用词的犹豫
+- `my person`：我的人——You have always been my person，比"类型"更亲密的告白
 - `You always have been`：你一直都是——补足省略，完成告白
 
-**为什么这样写**：作者让 Miles 的告白带着青涩的笨拙——他先说"类型"这个词把她归类不合适，再改口说"你一直是我的人"。这种犹豫反而真实可信，也让读者看到他从"用玩笑躲避感情"到"直面感情"的成长。
+**为什么这样写**：作者让 Miles 的告白带着青涩的笨拙——他先说"类型"这个词把她归类不合适，再改口说"你一直是我的人"，最后才承认一直不敢说是因为怕失去友谊。这种犹豫反而真实可信，也让读者看到他从"用玩笑躲避感情"到"直面感情"的成长。
 
 ---
 

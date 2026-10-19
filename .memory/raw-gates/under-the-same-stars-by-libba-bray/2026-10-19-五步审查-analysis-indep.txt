@@ -1,0 +1,28 @@
+抽出分析层英文片段 1420 条
+❌ 未命中 6 条：
+  ch02 west berlin.md:5  YA historical literary fiction
+      未命中词: ['literary']
+  ch03 brooklyn new york.md:5  YA historical literary fiction
+      未命中词: ['literary']
+  ch04 kleinwald germany.md:5  YA historical literary fiction
+      未命中词: ['literary']
+  ch05 west berlin.md:5  YA historical literary fiction
+      未命中词: ['literary']
+  ch06 brooklyn new york.md:5  YA historical literary fiction
+      未命中词: ['literary']
+  ch06 brooklyn new york.md:196  normalization of fascism
+      未命中词: ['normalization']
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）13 条 —— 只报不判红，须人判：
+  ch02 west berlin.md:67  an ominous ribbon of concrete came into view
+  ch02 west berlin.md:137  had a stash of Kinder chocolate bars
+  ch10 brooklyn new york.md:53  the notepad is beside him
+  ch12 west berlin.md:238  secured it around her neck
+  ch13 brooklyn new york.md:244  Until it isn’t theoretical
+  ch13 brooklyn new york.md:259  Egon Wagner will spend the summer in Kleinwald
+  ch14 the tale of the hare and the deer.md:216  if the worse should come to the worst
+  ch19 west berlin.md:83  a glimpse of the girl is in it
+  ch20 the tale of the hare and the deer.md:217  that he was not a very good rooster
+  ch27 brooklyn new york.md:83  ribbon looped through a wildflower
+  ch27 brooklyn new york.md:285  Dodger trots in and whimpers
+  ch31 brooklyn new york.md:127  one of Mama D's photos hangs on the wall
+  ch34 kleinwald.md:119  the best-laid plans of mice and men

@@ -207,7 +207,7 @@ start_date: 2026-10-16
 
 **关键词**：
 - `take a turn`：发生转变——从"记录"变成"研究"；EW 在某个时刻开始专注于画这个女孩
-- `Valkyrie / Norse-looking goddess`：女武神 / 北欧女神——这是对北欧神话的引用，与 ch01 的"Norn priestesses"主题相关联
+- `Valkyrie / Norse-looking goddess`：女武神 / 北欧女神——这是对北欧神话的引用，与 ch04 的"Norn priestesses"主题相关联
 
 **为什么这样写**：EW 开始专注画 Hanna Schmidt——这是为什么？是因为他暗恋她？是因为她是"model"？还是因为他在预感某种危险？这与"Die Eichel"（橡果）有什么关系？"Norse-looking goddess"的意象出现在 1941 年的德国，这不是巧合。
 
@@ -303,7 +303,7 @@ start_date: 2026-10-16
 ## 读者视角提示
 
 - EW 的身份是全章最大的悬念：这些素描是谁画的？他/她与 Mormor 是什么关系？与 Frau Hermann 呢？
-- "Norse-looking goddess"和"Valkyrie"的意象与 ch01 的"Norn priestesses"主题形成互文——1941 年的 Kleinwald 有某种北欧/日耳曼异教活动
+- "Norse-looking goddess"和"Valkyrie"的意象与 ch04 的"Norn priestesses"主题形成互文——1941 年的 Kleinwald 有某种北欧/日耳曼异教活动
 - Miles 在网课上的沉默（half-listens / memes / avoids speaking）与 Chi 的敢于发言形成鲜明对比；这是"沉默的特权"vs"被迫发声的负担"的精确体现
 - Mom Lisa 在一线抗疫，而 Miles 独自在家吃 Mac & Cheese——疫情对不同人的影响是不对称的
 - 本章以发现 EW 和 Hanna Schmidt 的关联结束，同时 Mom Lisa 在一线的危险贯穿全章；两条叙事线（历史调查和当代危机）都在积累能量

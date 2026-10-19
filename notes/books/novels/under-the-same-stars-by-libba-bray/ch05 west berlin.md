@@ -97,7 +97,7 @@ start_date: 2026-10-16
 - `Sophie Scholl`：Sophie Scholl——德国反纳粹抵抗组织成员（白玫瑰），1943 年因散发反纳粹传单被处死；Lena 的朋克乐队以此命名，是朋克精神与政治抗议的结合
 - `FUCK! YOU!`：对权力 / 审查制度 / 法西斯的直接挑战
 
-**为什么这样写**：这是全章最有力的时刻——朋克音乐 + 历史记忆 = 一种跨时代的反抗精神。Sophie Scholl 在 1943 年的抵抗，和 Lena 在 1980 年的抵抗，是同一种声音。Jenny 听到这个名字会有什么感受？她是"知道"Sophie 这个名字的（ch02 里 Frau Hermann 提到过），现在她在朋克音乐里又遇到了它。
+**为什么这样写**：这是全章最有力的时刻——朋克音乐 + 历史记忆 = 一种跨时代的反抗精神。Sophie Scholl 在 1943 年的抵抗，和 Lena 在 1980 年的抵抗，是同一种声音。Jenny 听到这个名字会有什么感受？她此时还无法把眼前的乐队名与 Frau Hermann 的传说联系起来——ch02 里 Frau Hermann 只提到"两个来自北方村庄的女孩"，从未说出她们的名字；但读者认得 ch01 的 Sophie，这个呼应构成了戏剧反讽。
 
 ---
 
@@ -304,7 +304,7 @@ start_date: 2026-10-16
 
 ## 读者视角提示
 
-- "Sophie Scholl"这个名字在三条时间线里都有出现：ch01 的 Sophie（1941 年）、Lena 的乐队（1980 年）、Jenny 在 Frau Hermann 处听到的故事（1980 年）——三个 Sophie，三个反抗者
+- "Sophie"在三条时间线里都有出现：ch01 的 Sophie（1941 年）、Lena 的乐队名 Sophie Scholl（1980 年）、Frau Hermann 讲述的两个失踪女孩——读者知道其中一个正是 Sophie——三个 Sophie，三个反抗者
 - "同一片星空"的主题在本章通过多重意象实现：柏林墙（分裂）/ ghost stations（不能停靠的列车/轨道）/ "Heroes"（墙边的接吻情侣）
 - Jenny 和 Lena 的关系从"陌生人"发展到"某种亲近"，但本章结尾暗示了危险——那个盯梢的男人是谁？
 - Lena 的"Always"是 Jenny 收到的第一个"承诺"；这对一个"five months of complete radio silence"后重新联络朋友的人有特殊意义

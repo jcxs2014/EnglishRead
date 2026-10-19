@@ -100,7 +100,7 @@ start_date: 2026-10-16
 - `impudent`（形容词）：粗鲁无礼的——词义更负面，只是单纯的 rude rude
 - `mischief`（名词）：顽皮、恶作剧——impertinent 与 impudent 的分界点
 
-**为什么这样写**：这是 Sophie"词之收集者"身份的最佳展示——她用一个刚学到的词给好友的性格贴标签。同时，这个词在后文会再次出现：当 Hanna 用"impudent"回敬她时，Sophie 的词典成了两人争吵的武器。
+**为什么这样写**：这是 Sophie"词之收集者"身份的最佳展示——她用一个刚学到的词给好友的性格贴标签。同时，这个词在后文会再次出现：当 Sophie 与 Hanna 争吵时，她朝 Hanna 喊出"You are … impudent!"，Sophie 的词典成了两人争吵的武器。
 
 ---
 

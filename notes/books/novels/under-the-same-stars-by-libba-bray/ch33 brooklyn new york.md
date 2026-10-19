@@ -306,7 +306,7 @@ start_date: 2026-10-16
 - `network of nutrients`：养分网络——把森林写成互相连接的有机体
 - `comforting`：令人安心的——与白天的暴力形成对照的宁静
 
-**为什么这样写**：这个梦境把 2020 年的 Miles 与 1941 年的森林时间线连接起来。他梦见的是 Hanna（他的血脉祖先）当年逃亡的那片森林——虽然他并不知道。读者此时已经知道答案，这个梦因此具有了宿命般的暗示：记忆会以他无法理解的方式找到他。
+**为什么这样写**：这个梦境把 2020 年的 Miles 与 1941 年的森林时间线连接起来。他梦见的是当年 Hanna 逃亡的那片森林——虽然他并不知道。梦里的 ancestors 指 Miles 自身未曾谋面的血脉祖先（他由 Mom Lisa 与 Mama D 两位母亲抚养长大，从未见过捐精的父亲），与 Hanna 无关——Hanna 是 Chloe 的外祖母，并非 Miles 的血亲。读者此时已经知道答案，这个梦因此具有了宿命般的暗示：记忆会以他无法理解的方式找到他。
 
 ---
 
@@ -335,7 +335,7 @@ Miles 在 2020 年布鲁克林的抗议之夜经历了从旁观到在场的觉�
 - 本章发生在 2020 年春季的布鲁克林，背景是 Minneapolis 事件后的抗议浪潮；文中的 #JUSTICE、Say Their Names、Voices of Resistance 等标语与组织名全部来自抗议现场。
 - Miles 的身份：由 Mom Lisa（护士）与 Mama D 两位母亲养大的青少年，他第一次"站在自己的感受里"（standing in them），从逃避者变成见证者与参与者。
 - 注意"Milk"这个意象：在暴力中心，一个无名的女人用牛奶接住被胡椒喷雾击中的 Miles——这与本章结尾祖母"双手沾血"的比喻构成善与罪的两极。
-- 结尾的森林之梦（forest、snow、ancestors）是 2020 年与 1941 年两条时间线的潜意识连接——Miles 梦见的是他血脉祖先 Hanna 曾逃亡的森林。
+- 结尾的森林之梦（forest、snow、ancestors）是 2020 年与 1941 年两条时间线的潜意识连接——Miles 梦见的是当年 Hanna 逃亡的那片森林；梦里的 ancestors 指 Miles 自己未曾谋面的血脉源头，Hanna 是 Chloe 的外祖母，并非 Miles 的血亲。
 - 人物拼写一律照抄原文：Miles、Chi、Danny、Chloe、Mormor、Mom Lisa、Mama D、Officer Vega、Hanna Schmidt、Greta Andersson。
 
 ## 词汇

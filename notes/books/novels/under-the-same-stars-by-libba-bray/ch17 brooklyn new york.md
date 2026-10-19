@@ -320,7 +320,7 @@ start_date: 2026-10-16
 
 ## 读者视角提示
 
-- 本章是 2019 年万圣节的场景，接续的是 2020 年春季隔离期的叙事线——这是疫情爆发前的最后一个万圣节，Miles 说 "this is our last Halloween before we scatter"，一语成谶。
+- 本章是 2019 年万圣节的场景，接续的是 2020 年春季隔离期的叙事线——这是疫情爆发前的最后一个万圣节，Chloe 说 "this is our last Halloween before we scatter"，一语成谶。
 - Chloe 问 Miles 的类型（"Smart. Funny. Weird. Not weird-weird but, you know. Unique."）几乎就是在描述 Miles 自己——留意他听完后的静止反应，这是两人心照不宣的试探。
 - Coney Island 闪回中，Miles 用亲吻 Expensive Panda 逃避了与 Chloe 的初吻——这个细节与他后来在派对上选择 Daria 形成呼应：他总是用"不那么可怕的选择"回避真正的感情。
 - "It is both the truth and a lie in one."——这个简单的 No 既是事实也是谎言，是理解 Miles 全章行为的关键钥匙。

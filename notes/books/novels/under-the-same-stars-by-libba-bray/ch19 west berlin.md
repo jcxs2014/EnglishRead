@@ -316,7 +316,7 @@ start_date: 2026-10-16
 - 本章时间线：1980 年夏的西柏林，与 1941 年 Kleinwald 的往事在 Frau Hermann 的讲述中交汇——两个时代隔着近四十年，而"背叛"与"追猎"的主题仍在延续。
 - Lena 的朋克造型细节（"Mia’s abandoned black duster"、橡胶管束腰、银色铆钉腰带）集中在 ch19 开头段落——她的形象是理解她愤怒与防御的钥匙。
 - "Der Hase und der Hirsch"（兔与鹿）既是 Frau Hermann 哼唱的德国民谣，也是本书第 7 章童话的标题——建议回看 ch07。
-- Frau Hermann 说的 "Frightened people can be dangerous." 是一句双关——既可指 Lena，也可能指她本人；她在楼梯口说的 "Vergib mir" 与深夜 Jenny 心中的 "Vergib mir" 形成回环。
+- Frau Hermann 说的 "Frightened people can be dangerous." 是一句双关——既可指 Lena，也可能指她本人；而 "Vergib mir" 出自她写给自己的信（由 Jenny 当面揭出），这句话与深夜 Jenny 心中默念的 "Vergib mir" 形成回环。
 - Lena 打电话时报的名字 "Nina Hagen" 是西德著名朋克歌手——这个时代细节再次表明，Lena 生活在 1980 年西柏林的青年亚文化之中。
 
 ## 词汇

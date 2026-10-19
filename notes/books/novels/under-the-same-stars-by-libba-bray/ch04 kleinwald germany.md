@@ -11,7 +11,7 @@ start_date: 2026-10-16
 ## 本章导航
 
 - **时间地点**：1939 年夏，德国克莱因瓦尔德（Kleinwald）；延续 ch01 的 1941 冬时间线之前
-- **人物**：Sophie（叙事者，16岁，书呆子型，安静，爱编故事）；Hanna（Sophie 的青梅竹马，15岁，健壮漂亮，叛逆，正在超越 Sophie）；Karl（Hanna 的哥哥）；Oskar（修车铺学徒，喜欢 Hanna）；Leon（Karl 的好友，书呆子）；Klara & Lotte（邻居姐妹）
+- **人物**：Sophie（叙事者，14岁，尚未满 15 岁，书呆子型，安静，爱编故事）；Hanna（Sophie 的青梅竹马，15岁，健壮漂亮，叛逆，正在超越 Sophie）；Karl（Hanna 的哥哥）；Oskar（修车铺学徒，喜欢 Hanna）；Leon（Karl 的好友，书呆子）；Klara & Lotte（邻居姐妹）
 - **核心事件**：Sophie 和 Hanna 收到婚介树回信（von der Trottel 两兄弟），Sophie 对 Hanna 的秘密吻感到震惊；回程遭遇 SS 军官的军车；Sophie 在窗口偷看 Karl
 - **悬念钩子**：战争第一次被明确提及——两个女孩对此有截然不同的态度；Sophie 对 Karl 的暗恋浮出水面
 
@@ -209,7 +209,7 @@ start_date: 2026-10-16
 - `a lost puppy hoping for a soup bone`：像一只迷路的小狗在盼着一根汤骨——Oskar 的形象描写；"lost puppy"在英语里是"可怜虫"的代名词
 - `It's very irritating`：真的很烦人——Hanna 的语气是恼怒，不是骄傲；她并不因为"初吻"而感到特别，只是觉得 Oskar 的执着很讨厌
 
-**为什么这样写**：Hanna 对 Oskar 的评价与 Sophie 对 Karl 的暗恋形成对照：Hanna 有一个"追她的男孩"，但她不想要；Sophie 想要一个"追她的男孩"（Karl），但她不敢说。Sophie 用"lost puppy"来贬低 Oskar，但她不知道的是：Hanna 也在用 Karl 来贬低自己——Karl 是"Strong, handsome, better"（Sophie 对 Karl 的评价），而 Hanna 也在与 Karl 比较（他们都是 athletic、model German）。
+**为什么这样写**：Hanna 对 Oskar 的评价与 Sophie 对 Karl 的暗恋形成对照：Hanna 有一个"追她的男孩"（Oskar），但她不想要，甚至嫌他像"a lost puppy hoping for a soup bone"一样烦人；Sophie 想要一个"追她的男孩"（Karl），却连名字都不敢说出口（"There was a boy but Sophie didn't want to say"）。同一个 Kleinwald 里，一个女孩被自己不想要的爱慕者纠缠，另一个女孩却只能把渴望藏在心里——Hanna 的不耐烦反衬出 Sophie 的胆怯。
 
 ---
 
