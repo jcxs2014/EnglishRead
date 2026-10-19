@@ -47,7 +47,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "Garlic, burnt oil, green tomatoes. The essence of the salsa wafts from the kitchen into my nostrils and then gathers in my throat, like a cloud that expands. Now I experience the world like a dog, with my nose."
 
-**中文理解**：Yolanda’s hyperosmia (pregnancy symptom)—"experience the world like a dog, with my nose." Sensory overload. "Like a cloud that expands" shows nausea building。
+**中文理解**：Yolanda 的 hyperosmia（pregnancy symptom）——"experience the world like a dog, with my nose." Sensory overload。"Like a cloud that expands" 显示 nausea building。
 
 **句子结构**：三句：列举（Garlic, burnt oil, green tomatoes）+ 主句（The essence... wafts...）+ 比喻（like a cloud that expands）。
 
@@ -61,7 +61,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "My back hurts from mopping the hallway. Maybe I should go to Cesarea. She could check my baby and slather balm on my wound to stop the infection. Something is not right. Maybe she saw me as la cara de estúpida."
 
-**中文理解**：Yolanda’s physical pain + consideration of returning to Cesarea. "Maybe she saw me as la cara de estúpida" shows her paranoia about bruja。
+**中文理解**：Yolanda 的 physical pain + consideration of returning to Cesarea。"Maybe she saw me as la cara de estúpida" 显示她对 bruja 的 paranoia。
 
 **句子结构**：两句话：My back hurts... + Maybe I should go to Cesarea。
 
@@ -75,7 +75,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "“What bicho did you catch? You think it’s contagious?”"
 
-**中文理解**：Alta’s "What bicho did you catch?" (what bug did you catch)—shows Alta’s concern is about contagion, not Yolanda’s health. "You think it’s contagious?" reveals Alta’s fear of Yolanda infecting staff。
+**中文理解**：Alta 的 "What bicho did you catch?"（what bug did you catch）——显示 Alta’s concern 是 about contagion，not Yolanda’s health。"You think it’s contagious?" reveals Alta’s fear of Yolanda infecting staff。
 
 **句子结构**：两问连发。
 
@@ -89,9 +89,9 @@ start_date: 2026-10-19
 
 > **原句 6:** "“No, Alta.”"
 
-**中文理解**：Yolanda’s denial—brief, defensive. She doesn’t know if she’s contagious (infection vs pregnancy symptoms)。
+**中文理解**：Yolanda 的 denial——brief, defensive。She doesn’t know if she’s contagious (infection vs pregnancy symptoms)。
 
-**句子结构**：简单否定。
+**句子结构**：简单否定，主语 Yolanda（省略）+ 谓语 No + 呼格 Alta。
 
 **关键词**：
 - `No, Alta.`：不，Alta——denial
@@ -102,7 +102,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "It’s Valentín who walks up behind Alta. His eyes widen when they fall upon the mess. All he does is open and close his palms until he gets the courage to turn around and leave. Now I’m certain he’ll never look at me the same way."
 
-**中文理解**：Valentín witnesses Yolanda vomit—his "eyes widen" + "open and close his palms" shows shock/disgust. "Now I’m certain he’ll never look at me the same way" shows Yolanda’s realization that her scheme is failing。
+**中文理解**：Valentín witnesses Yolanda vomit——his "eyes widen" + "open and close his palms" 显示 shock/disgust。"Now I’m certain he’ll never look at me the same way" 显示 Yolanda’s realization that her scheme is failing。
 
 **句子结构**：四句：It’s Valentín who walks up... + His eyes widen... + All he does... + Now I’m certain...。
 
@@ -117,7 +117,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "“Can we talk?”"
 
-**中文理解**：Itzco’s nighttime visit—"Can we talk?"—shows his concern despite betrayal. Yolanda is surprised: "Despite my treason, he has risked it all."
+**中文理解**：Itzco 的 nighttime visit——"Can we talk?"——显示他的 concern despite betrayal。Yolanda is surprised："Despite my treason, he has risked it all."
 
 **句子结构**：简单问句。
 
@@ -130,7 +130,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "“Are you all right?”"
 
-**中文理解**：Itzco’s "Are you all right?"—genuine concern. Yolanda’s stomach tightens at his gesture (touching her hand)。
+**中文理解**：Itzco 的 "Are you all right?"——genuine concern。Yolanda’s stomach tightens at his gesture (touching her hand)。
 
 **句子结构**：简单问句。
 
@@ -143,7 +143,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "“I’m fine.” I wonder what he’s doing here."
 
-**中文理解**：Yolanda’s "I’m fine" + "I wonder what he’s doing here"—defensive. She doesn’t trust Itzco’s motives。
+**中文理解**：Yolanda 的 "I’m fine" + "I wonder what he’s doing here"——defensive。She doesn’t trust Itzco’s motives。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -157,7 +157,7 @@ start_date: 2026-10-19
 
 > **原句 11:** "“Haven’t you been feeling strange?”"
 
-**中文理解**：Itzco’s "Haven’t you been feeling strange?"—he suspects pregnancy. Yolanda’s "Oh no, what if he knows of the baby?" shows her fear of exposure。
+**中文理解**：Itzco 的 "Haven’t you been feeling strange?"——he suspects pregnancy。Yolanda’s "Oh no, what if he knows of the baby?" shows her fear of exposure。
 
 **句子结构**：问句。
 
@@ -170,7 +170,7 @@ start_date: 2026-10-19
 
 > **原句 12:** "“It’s nothing.” The purplish line extends horizontally across my center, stopping where each hip bone begins. Specks of yellow liquid peer from the wound."
 
-**中文理解**：Yolanda’s "It’s nothing" + showing wound—she tries to distract Itzco from pregnancy with infection. "Purplish line" describes bruja’s cut. "Specks of yellow liquid peer from the wound" shows infection。
+**中文理解**：Yolanda 的 "It’s nothing" + showing wound——she tries to distract Itzco from pregnancy with infection。"Purplish line" describes bruja’s cut。"Specks of yellow liquid peer from the wound" 显示 infection。
 
 **句子结构**：引语 + 两句话描述 wound。
 
@@ -185,7 +185,7 @@ start_date: 2026-10-19
 
 > **原句 13:** "“Good luck? Says who?”"
 
-**中文理解**：Itzco’s "Good luck? Says who?"—he questions Yolanda’s "good luck" explanation. Shows his skepticism。
+**中文理解**：Itzco 的 "Good luck? Says who?"——he questions Yolanda’s "good luck" explanation。Shows his skepticism。
 
 **句子结构**：问句。
 
@@ -198,7 +198,7 @@ start_date: 2026-10-19
 
 > **原句 14:** "“Ay, Yolanda. You have an infection, but you’re also pregnant.” He blurts it out as if it’s nothing."
 
-**中文理解**：Itzco’s revelation—"You have an infection, but you’re also pregnant."—delivered casually ("blurts it out as if it’s nothing"). Yolanda’s shock: "I frown, not finding words."
+**中文理解**：Itzco 的 revelation——"You have an infection, but you’re also pregnant."——delivered casually ("blurts it out as if it’s nothing")。Yolanda’s shock："I frown, not finding words."
 
 **句子结构**：引语 + 叙述者评注（He blurts it out...）。
 
@@ -212,7 +212,7 @@ start_date: 2026-10-19
 
 > **原句 15:** "“Who’s the father?”"
 
-**中文理解**：Itzco’s "Who’s the father?"—his curiosity about gossip. Yolanda considers lying: "I let out a deep breath, consider lying to him."
+**中文理解**：Itzco 的 "Who’s the father?"——his curiosity about gossip。Yolanda considers lying："I let out a deep breath, consider lying to him."
 
 **句子结构**：简单问句。
 
@@ -225,7 +225,7 @@ start_date: 2026-10-19
 
 > **原句 16:** "“Es de Javier.” Once the words are out there, I can’t pull them back."
 
-**中文理解**：Yolanda’s confession—"Es de Javier" (It’s Javier’s). "Once the words are out there, I can’t pull them back" shows her regret/relief。
+**中文理解**：Yolanda 的 confession——"Es de Javier" (It’s Javier’s)。"Once the words are out there, I can’t pull them back" 显示她的 regret/relief。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -239,7 +239,7 @@ start_date: 2026-10-19
 
 > **原句 17:** "“Did he force you?”"
 
-**中文理解**：Itzco’s "Did he force you?"—his concern about coercion. Yolanda: "No..." and "It was spontaneous." Shows her agency (or lack thereof)。
+**中文理解**：Itzco 的 "Did he force you?"——his concern about coercion。Yolanda："No..." and "It was spontaneous." Shows her agency (or lack thereof)。
 
 **句子结构**：问句。
 
@@ -252,7 +252,7 @@ start_date: 2026-10-19
 
 > **原句 18:** "“It was spontaneous,” I say. “Please don’t tell anyone.”"
 
-**中文理解**：Yolanda’s "spontaneous" + "Please don’t tell anyone."—she frames Javier sex as unplanned and wants secrecy. Shows her shame and strategic thinking。
+**中文理解**：Yolanda 的 "spontaneous" + "Please don’t tell anyone."——she frames Javier sex as unplanned and wants secrecy。Shows her shame and strategic thinking。
 
 **句子结构**：两句话：引语 + 引语。
 
@@ -266,7 +266,7 @@ start_date: 2026-10-19
 
 > **原句 19:** "“I won’t, if you get me a lemon pie,” he says."
 
-**中文理解**：Itzco’s condition—"I won’t, if you get me a lemon pie."—shows his humor and humanity. "Lemon pie" as "price of my silence" is both joke and genuine request。
+**中文理解**：Itzco 的 condition——"I won’t, if you get me a lemon pie."——shows his humor and humanity。"Lemon pie" as "price of my silence" is both joke and genuine request。
 
 **句子结构**：引语 + 叙述者评注（he says）。
 
@@ -279,9 +279,9 @@ start_date: 2026-10-19
 
 > **原句 20:** "“I’m so tired of this place,” he says. “It’s a shithole.”"
 
-**中文理解**：Itzco’s "I’m so tired of this place. It’s a shithole."—his exhaustion with hacienda. Shows his desire to escape。
+**中文理解**：Itzco 的 "I’m so tired of this place. It’s a shithole."——his exhaustion with hacienda。Shows his desire to escape。
 
-**句子结构**：两句话。
+**句子结构**：两句话：第一句 I’m so tired of this place.（主系表 + 介词短语），第二句 It’s a shithole.（主系表）。
 
 **关键词**：
 - `tired of this place`：厌倦这个地方——exhaustion
@@ -293,9 +293,9 @@ start_date: 2026-10-19
 
 > **原句 21:** "My stomach is swollen. The bump hides under my dress, but it’s there."
 
-**中文理解**：Yolanda’s pregnancy visible—"My stomach is swollen. The bump hides under my dress, but it’s there." Shows physical reality of pregnancy。
+**中文理解**：Yolanda 的 pregnancy visible——"My stomach is swollen. The bump hides under my dress, but it’s there." Shows physical reality of pregnancy。
 
-**句子结构**：两句话。
+**句子结构**：两句话：第一句 My stomach is swollen.（主系表），第二句 The bump hides under my dress, but it’s there.（主谓 + 并列从句）。
 
 **关键词**：
 - `stomach is swollen`：肚子肿了——pregnancy visible
@@ -307,9 +307,9 @@ start_date: 2026-10-19
 
 > **原句 22:** "Valentín buries his hand in the basket to grab a pair of pruning shears."
 
-**中文理解**：Valentín pruning lemons—"Valentín buries his hand in the basket to grab a pair of pruning shears." Yolanda watches, fantasizing about seduction。
+**中文理解**：Valentín 剪柠檬——"Valentín buries his hand in the basket to grab a pair of pruning shears." Yolanda watches, fantasizing about seduction。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主语 Valentín + 谓语 buries + 宾语 his hand + 介词短语 in the basket + 不定式 to grab...。
 
 **关键词**：
 - `pruning shears`：修枝剪——Valentín’s tool
@@ -320,7 +320,7 @@ start_date: 2026-10-19
 
 > **原句 23:** "A scream makes me look back to the garden. I gasp. My hands instantly cover my mouth. Valentín is lying on the grass. The pruning shears nail his left arm to the grass. Blood circles the shirt around the wound, expanding."
 
-**中文理解**：Valentín’s accident—pruning shears nail his arm to grass. "Blood circles the shirt around the wound, expanding" shows injury severity. Yolanda’s "I gasp. My hands instantly cover my mouth" shows shock。
+**中文理解**：Valentín’s accident——pruning shears nail his arm to grass。"Blood circles the shirt around the wound, expanding" 显示 injury severity。Yolanda’s "I gasp. My hands instantly cover my mouth" 显示 shock。
 
 **句子结构**：六句话：A scream... + I gasp. + My hands... + Valentín is lying... + The pruning shears... + Blood circles...。
 
@@ -334,7 +334,7 @@ start_date: 2026-10-19
 
 > **原句 24:** "“¡Ayuda!” I shout while wiping my hands on my dress. But no one hears me."
 
-**中文理解**：Yolanda’s "¡Ayuda!" (Help!)—she shouts but "no one hears me." Shows her isolation and hacienda’s size。
+**中文理解**：Yolanda 的 "¡Ayuda!" (Help!)——she shouts but "no one hears me." Shows her isolation and hacienda’s size。
 
 **句子结构**：引语 + 叙述者评注（while wiping...）+ 陈述（But no one hears me）。
 
@@ -348,7 +348,7 @@ start_date: 2026-10-19
 
 > **原句 25:** "“Sí?” He is holding a brandy despite it being about ten in the morning. “Your name?”"
 
-**中文理解**：Don Julián’s "Sí?"—he holds brandy at 10am, showing his alcoholism. "Your name?" shows he doesn’t know Yolanda—she is invisible to family。
+**中文理解**：Don Julián 的 "Sí?"——he holds brandy at 10am，显示他的 alcoholism。"Your name?" 显示他 doesn’t know Yolanda——she is invisible to family。
 
 **句子结构**：引语 + 叙述者评注 + 引语。
 
@@ -362,7 +362,7 @@ start_date: 2026-10-19
 
 > **原句 26:** "“Soy Yolanda, Señor. But your son—”"
 
-**中文理解**：Yolanda’s "Soy Yolanda, Señor. But your son—"—she tries to report emergency but Don Julián interrupts. Shows her urgency and his dismissiveness。
+**中文理解**：Yolanda 的 "Soy Yolanda, Señor. But your son—"——she tries to report emergency but Don Julián interrupts。Shows her urgency and his dismissiveness。
 
 **句子结构**：引语。
 
@@ -376,7 +376,7 @@ start_date: 2026-10-19
 
 > **原句 27:** "“¡Quieto Valentín! Se un hombre, for goodness’ sake.”"
 
-**中文理解**：Don Julián’s "¡Quieto Valentín! Se un hombre"—"Be a man" shows his toxic masculinity. He tells wounded Valentín to be quiet and manly。
+**中文理解**：Don Julián 的 "¡Quieto Valentín! Se un hombre"——"Be a man" 显示他的 toxic masculinity。He tells wounded Valentín to be quiet and manly。
 
 **句子结构**：祈使句 + 祈使句。
 
@@ -390,7 +390,7 @@ start_date: 2026-10-19
 
 > **原句 28:** "“What are you staring at? Go fetch the doctor.”"
 
-**中文理解**：Don Julián’s "What are you staring at? Go fetch the doctor."—dismisses Yolanda after she reported emergency. "What are you staring at?" shows his contempt。
+**中文理解**：Don Julián 的 "What are you staring at? Go fetch the doctor."——dismisses Yolanda after she reported emergency。"What are you staring at?" 显示他的 contempt。
 
 **句子结构**：两句话：What are you staring at? + Go fetch the doctor。
 
