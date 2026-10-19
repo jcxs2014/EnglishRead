@@ -243,7 +243,7 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 17:** "“¡Suata!” she yells at me."
+> **原句 17:** "“¡Suata!” she yells at me. Once she is close, she snatches the broom from my hands. I stare at her, not understanding what I did wrong. “What do you think you’re doing? These are Persian carpets from Iran.”"
 
 **中文理解**：Alta’s outburst—"¡Suata!" (shut up/fool)—over carpet mistake shows her rage and Yolanda’s ignorance of hacienda’s material value. "Persian carpets from Iran" emphasizes luxury beyond Yolanda’s comprehension.
 
@@ -279,8 +279,6 @@ start_date: 2026-10-19
 
 **关键词**：
 - `Beware`：小心，提防
-- `sleep with the newbies`：与新人睡觉——Javier’s predatory behavior
-- `open relationship`：开放关系——Odette & Javier’s arrangement
 
 **为什么这样写**：Itzco’s warnings establish hacienda’s dangers: Alta (control) and Javier (sexual predation). Yolanda’s "I’m not sure what to make of his words" shows her naivety.
 

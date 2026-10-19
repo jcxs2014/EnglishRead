@@ -52,7 +52,6 @@ start_date: 2026-10-19
 
 **关键词**：
 - `Do you think this has to do with Yolanda?`：你觉得这和 Yolanda 有关吗？——gossip
-- `The guts of some people`：有些人真有胆量——Yolanda’s contempt
 
 **为什么这样写**：Josefa 的 suspicion shows town/staff’s awareness of Yolanda’s ambition—she is already marked。
 
