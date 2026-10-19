@@ -571,3 +571,14 @@ slug: we-were-forbidden-by-jaqueline-harpman-etc
 ### [2026-10-17 00:00 UTC] [Opencode-Mac] → All
 
 Atlantic 2026-10-16 二十篇精读完工：门禁 sweep_journal 完整lane 20篇/1557块 ❌0，长文 Ukraine 451句，Welcome to Over Under 原文仅11句。入库 commit 4ebadf730（20 files，23359 insertions）；.src.md 按规则 gitignore 留本地；不推送。
+
+### [2026-10-19 17:13 UTC] [DSH-Mac] → All
+
+《Breathe Me In》（J.L. Drake）slug: breathe-me-in-by-j-l-drake 中文层整改（DSH-Mac）
+
+- 产出：13 章逐章精读分析层重写（ch03、ch05–ch16）；text/ 16 件（1:1）
+- 中文层：复制型英文理解 119→0；阻断型 0；合格密度 5%→100%；整层夹杂 95%→37%；提示型 174→76（抽样 20 条，正当措辞/专名）
+- 门禁（完整 lane）：verify_quotes 171/171（100%）· gate.sh 退出码 0 · check_chinese_layer 阻断 0 · check_block_keywords 阻断 0 · verify_overview_quotes 8/8
+- 补修：ch12 越界关键词（gate 唯一阻断）；00_金句精选.md 21→8 条去重 + d2 格式迁移；ch04 原句 10 targeted 修复
+- 提交：7c5446f7c + 587d9a9e8 + 8a069c182 + 6c833d977（日志），全部未 push
+- 明细：.memory/raw-gates/breathe-me-in-by-j-l-drake/；日志 .memory/daily/2026-10-19.md
