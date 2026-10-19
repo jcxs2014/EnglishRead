@@ -56,23 +56,23 @@
 
 - **读者视角提示**：enterprise = 事业/计划；omniscient = 全知的；"can't put one over on" = 骗不过/蒙不过。Athenial's time theft is the story's clever mechanism for enabling the plot.
 
-> **原句 5:** "'Every soul's afterlife exists in their own image,' he said. 'You can't escape what you are. That's the beauty of it.'"
+> **原句 5:** "Athenial said he had a message for you. He said, 'Whatever you do, tell that dopey husband of yours that every soul’s afterlife exists in their own image."
 
-- **中文理解**：「'每个 soul 的 afterlife 都按自己的 image 存在，'他说，'你无法逃脱你是什么。这就是它的 beauty。'」Athenial 的 afterlife 哲学——Purgatory 对 Stu 是 snowy mountain（他喜欢），对 Ivy 是 garden（她喜欢）。Afterlife 不是统一的 heaven/hell，而是个性化的 reflected reality。
+- **中文理解**：「Athenial said he had a message for you。He said, 'Whatever you do, tell that dopey husband of yours that every soul's afterlife exists in their own image。'」Athenial 通过 Ivy 传话——"every soul's afterlife exists in their own image" = afterlife 是个性化的 reflected reality。Purgatory 对 Stu 是 snowy mountain（他喜欢），对 Ivy 是 garden（她喜欢）。Afterlife 不是统一的 heaven/hell，而是个性化的。 "dopey husband" = Athenial 对 Stu 的戏称。
 
-- **关键词**：in their own image / escape what you are / beauty
+- **关键词**：every soul's afterlife exists in their own image / dopey husband / message for you
 
-- **为什么这样写**：This is Ford's central thesis: afterlife is personalized, not standardized. "You can't escape what you are" = identity persists beyond death. "That's the beauty of it" reframes limitation as gift—imperfection is the point. This contrasts with heaven's bureaucratic sameness (everyone gets the same flawed body). Purgatory's personalization is actually more "heavenly" than heaven.
+- **为什么这样写**：This is Ford's central thesis: afterlife is personalized, not standardized. Athenial sends message through Ivy: "every soul's afterlife exists in their own image" = identity persists beyond death, afterlife reflects who you are. Purgatory for Stu is snowy mountain (he likes), for Ivy is garden (she likes). This contrasts with heaven's bureaucratic sameness (everyone gets same flawed body). Purgatory's personalization is actually more "heavenly" than heaven. "dopey husband" = Athenial's affectionate teasing of Stu.
 
 - **读者视角提示**：in one's own image = 按自己的形象/本性；Purgatory = 炼狱（天主教概念，介于 heaven 和 hell 之间的净化之地）；"beauty of it" = 它的 beauty/美。Ford's Purgatory is not punishment but personalized afterlife.
 
-> **原句 6:** "Ivy was sitting on the porch of a cabin, looking out at the mountains. She was reading a book. She looked up and saw him and smiled."
+> **原句 6:** "Bidi's tail was wagging before the scarf was undone. The goggles came off, and there was Ivy, a smile on her face. 'Found you,' she said. Stu laughed and wept at the same time."
 
-- **中文理解**：「Ivy 坐在 cabin 的 porch 上，看着 mountains。她在读一本书。她抬起头看到他，smiled。」Ivy 死后找到 Stu in Purgatory——reunion scene，minimalist and tender. "She was reading a book" = Ivy's afterlife is her own image (she loved reading). The smile is the story's emotional payoff.
+- **中文理解**：「Bidi's tail was wagging before the scarf was undone。The goggles came off, and there was Ivy, a smile on her face。'Found you,' she said。Stu laughed and wept at the same time。」Ivy 死后找到 Stu in Purgatory——reunion scene，minimalist and tender. Ivy 在 snowy mountain 上找到 Stu，"Found you" = 重聚。Stu "laughed and wept at the same time" = 情感 payoff。Bidi's tail wagging = dog's joy. This is the story's emotional climax—love transcends death.
 
-- **关键词**：porch / mountains / reading a book / smiled
+- **关键词**：Found you / laughed and wept / scarf / goggles
 
-- **为什么这样写**：Ford's restraint here is powerful—after 8000 words of comic adventure, the reunion is understated. "She was reading a book" = Ivy's personalized afterlife (she's a reader). The smile is the only emotional beat needed. This contrasts with the story's comic excess (Athenial's time theft, God's omniscience, bureaucratic heaven). The final image: Stu writes in Purgatory ("new stories" become possible again in Purgatory, not heaven).
+- **为什么这样写**：Ford's restraint here is powerful—after 8000 words of comic adventure, the reunion is understated. "Found you" = Ivy's arrival in Purgatory (she died and found him). "Stu laughed and wept at the same time" = emotional payoff. Bidi's tail wagging = dog's joy. This contrasts with the story's comic excess (Athenial's time theft, God's omniscience, bureaucratic heaven). The final image: Stu writes in Purgatory ("new stories" become possible again in Purgatory, not heaven). Ivy's afterlife is personalized (she found him)—"every soul's afterlife exists in their own image."
 
 - **读者视角提示**：porch = 门廊/走廊；Purgatory = 炼狱（天主教概念）。Ford's ending suggests Purgatory is actually better than heaven—personalized, creative, loving.
 
