@@ -55,6 +55,29 @@ def piece_is_cjk(s):
     return bool(re.search(r"[\u3400-\u9fff\uf900-\ufaff\u3040-\u30ff\uac00-\ud7af]", s))
 
 
+def _is_apostrophe(s: str, i: int) -> bool:
+    """位置 i 的 `'` 是否是**单词内部**的所有格/缩写撇号（而非引号）。
+
+    判据：前一字符是字母 **且** 后一字符是字母 ⇒ `Emma's` / `don't` / `I'll`。
+    ⚠️ 2026-10-19 实测：本库 md 里 `'` 成对包住英文段有 **11,263 处**
+    （真引语写作单引号），所以**不能**把 `'` 整个从引号字符集里移除——
+    那会丢掉 11k 处真引语的校验能力（假阴性）。
+    ⇒ 正确做法是**区分**这两种用法，而不是二选一。
+    """
+    return (i > 0 and s[i - 1].isalpha()
+            and i + 1 < len(s) and s[i + 1].isalpha())
+
+
+def _find_closing(chunk: str, q: str, start: int) -> int:
+    """从 start 起找 `q` 的闭合位置；跳过单词内部的撇号。找不到返回 -1。"""
+    j = chunk.find(q, start)
+    while j != -1:
+        if q != "'" or not _is_apostrophe(chunk, j):
+            return j
+        j = chunk.find(q, j + 1)
+    return -1
+
+
 def _paired_segments(chunk):
     """逐个切出**闭合**的引号内容，结构上杜绝跨段吞并。
 
@@ -62,6 +85,16 @@ def _paired_segments(chunk):
     （67 → 17 条仍全假），根因是未配对的单只左引号会让 `.*?` 一路吃到下一段。
     这里改为**从左引号起、找它自己的同类右引号**，找不到就跳过该左引号，
     绝不跨越。返回的内容块互不重叠。
+
+    ⚠️ 2026-10-19 修正（Maybe Next Time 实测 159 → 31 条阻断型）：
+    **直撇号 `'` 既是引号，又是英文所有格/缩写撇号**——工具必须区分：
+      ① 单词内部（`Emma's` / `don't`）⇒ **不是**引号，跳过；
+      ② 成对包住一段英文（`'Come with me.'`）⇒ **是**引号，照常配对。
+    原实现不区分，于是 `Emma'` 的撇号被当成左引号，一路配对到下一个 `'`,
+    抽出 `s perfect day—Hattie stays, ice skating, telling Dan); "A gift" ...`
+    这种**跨段垃圾**，再拿去全文比对 → 必然「全书查无」→ 报成阻断型。
+    ⚠️ 但**不能**把 `'` 整个移出引号字符集——实测本库 md 里 `'` 成对包住
+    英文段有 11,263 处（真引语），整体移除会丢 11k 处校验（假阴性）。
     """
     out, i, n = [], 0, len(chunk)
     while i < n:
@@ -74,7 +107,17 @@ def _paired_segments(chunk):
                 continue
             out.append(chunk[i + 1:j])
             i = j + 1
-        elif ch in "\"'`":
+        elif ch == "'":
+            if _is_apostrophe(chunk, i):   # 所有格/缩写撇号 → 不是引号
+                i += 1
+                continue
+            j = _find_closing(chunk, "'", i + 1)
+            if j == -1:
+                i += 1
+                continue
+            out.append(chunk[i + 1:j])
+            i = j + 1
+        elif ch in "\"`":
             j = chunk.find(ch, i + 1)
             if j == -1:
                 i += 1
@@ -129,7 +172,21 @@ for md in targets:
     # `## 一句话总结` 那份 `text.split(...)[1]` **延伸到文件尾**，于是
     # `## 本章引语`(:24) 里 12 条真引语被当导航层去 text/ 查无 ⇒ 12 条假红。
     # 改为：锚点行 → 到**下一个同级标题行**为止。
-    _SEC_ANCHOR = re.compile(r"(?m)^(?:#{2,4}[ \t]+|\*\*[^*]+\*\*[ \t]*$)")
+    # ⚠️ 2026-10-19 修正（Maybe Next Time 全库对照 18 本新增 ❌ 追因）：
+    # 原锚点只认 `## `/`#### ` 标题行与**独占一行**的加粗标签，于是
+    # **「`## 本章导航` 之下直接接精读块、没有独立 `## 精读` 标题」**的写法
+    # （under-the-same-stars 全书 34 章都是这个结构）⇒ 导航节的 body
+    # 一直吞到下一个 `## 一句话总结`，把**精读层的关键词标签**（`**关键词**`
+    # 行里的反引号短语、谚语引用）当成导航层引语去查无 ⇒ 假红。
+    # ⚠️ 这个假红**一直存在**，只是被「撇号当引号」的 bug 掩盖了：
+    # 旧版把 `Emma'` 的撇号配对到下一个 `'`，整段吞掉，真问题反而看不见。
+    # ⇒ 修法：把**精读块的字段行**（`**中文理解**` / `**句子结构**` / `**关键词**`
+    # / `**为什么这样写**` / `**读者视角提示**` 等）也当节边界。
+    _SEC_ANCHOR = re.compile(
+        r"(?m)^(?:#{2,4}[ \t]+"
+        r"|\*\*[^*]+\*\*[ \t]*$"
+        r"|\*\*[^*]+\*\*[ \t]*[：:])"
+    )
 
     def _section(anchor: str) -> str:
         """返回 `anchor` 标题行之后、下一个同级标题行之前的内容；无此节返回 ''。

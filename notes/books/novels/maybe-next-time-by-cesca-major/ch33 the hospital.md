@@ -15,34 +15,34 @@
 ## 精读
 
 > **原句 1:** “'I have lived today before, twice in fact.'”
-**中文理解**："I have lived today before, twice in fact."
+**中文理解**：护士的眉头皱得更深。Emma 接着说：她不是要疯，是真的——「我今天活过不止一次，确切说是两次。」
 **关键词**：I have lived today before, twice in fact
-**为什么这样写**：I have lived today before, twice in fact = Emma's claim to the nurse—she's lived today before (twice). "twice in fact" = her precision—she's counting the loops. This is Emma's first attempt to tell a medical professional about the loop. The nurse's response ("The nurse's frown deepened") = skepticism. Emma's "I'd be skeptical" = her self-awareness—she knows how it sounds.
-**读者视角提示**：I have lived today before, twice in fact = Emma's claim; "twice in fact" = her precision; the nurse's frown = skepticism; Emma's self-awareness.
+**为什么这样写**：这一句是全章的起点，也是 Emma 第一次对一个「专业人士」说出循环。原文的 “I have lived today before, twice in fact” 用最平的语气陈述最不可能的事，flat 到近乎公文。作者让这句话紧跟在护士的怀疑之后，读者能感到她**在赌**——她知道对方不会信，但除了说没有别的路。“twice in fact” 里的 in fact 是自我加固，护士越皱眉，她越要加码。
+**读者视角提示**：「I have lived today before, twice in fact」用最平的语气说最不可能的事；“twice in fact”是自我加固——护士越皱眉，她越要加码。
 
 > **原句 2:** “'My husband dies. At the end of today. So he has died twice now but he is totally fine.'”
-**中文理解**："My husband dies. At the end of today. So he has died twice now but he is totally fine."
+**中文理解**：Emma 不给护士插话的机会，抓紧解释：她基本就是睡一觉醒来，然后一切照旧；时间没有前进，过去二十四小时根本没有发生。接着她说：也许我真的是病了，脑瘤什么的，是它让我觉得这一切都是真的——不，是真的，你听我说，**我丈夫会死。就在今天结束前**。所以他已经死了两次，可他现在好好的。
 **关键词**：My husband dies / At the end of today / he has died twice now but he is totally fine
-**为什么这样写**：My husband dies = Emma's confession—the loop's central secret. "At the end of today" = the temporal marker—Dan dies at the end of Dec 3. "he has died twice now but he is totally fine" = Emma's paradox—Dan has died (twice) but he's fine (because the loop reset). This is the loop's central contradiction: Dan is dead and alive simultaneously. The nurse can't process this contradiction.
-**读者视角提示**：My husband dies = Emma's confession; "At the end of today" = the temporal marker; "he has died twice now but he is totally fine" = the loop's paradox—Dan is dead and alive simultaneously.
+**为什么这样写**：“my husband dies. At the end of today.” 用两个短句砸出来，主语和时点都放到最重。“So he has died twice now but he is totally fine” 里的 **but** 是全句的支点：死亡与「没事」被同一个连词压在一起，逻辑上荒谬，情感上却是事实——这正是循环的本质。中间那句自我更正 “it feels absolutely real—I mean it is real” 写一个人在两种确信之间来回，最后还是站到了「这是真的」这边。
+**读者视角提示**：「my husband dies. At the end of today.」两个短句砸出主语和时点；「but he is totally fine」＝死亡与「没事」被同一个 but 压在一起，荒谬却是事实。
 
 > **原句 3:** “'Let's see where we get to with talking.'”
-**中文理解**："Let's see where we get to with talking."
+**中文理解**：医生不肯开扫描单，也不做任何检查，只说：先聊聊看，看能聊到哪儿。Emma 尽量让声音平稳、眼神稳定，双手压在身下以免自己做出会被当成精神不稳的手势。
 **关键词**：Let's see where we get to with talking
-**为什么这样写**：Let's see where we get to with talking = the doctor's (psychiatrist's) approach—she wants to talk, not scan. "She didn't want to refer me for a scan, or any test" = the doctor's refusal—she won't do medical tests. This is the loop's institutional failure: the medical system can't help Emma because the loop is not a medical condition. The psychiatrist can only offer "talking therapy." Emma's frustration: "Why couldn't she take me to an MRI scan?"
-**读者视角提示**：Let's see where we get to with talking = the psychiatrist's approach; "didn't want to refer me for a scan" = her refusal; the loop's institutional failure—the medical system can't help.
+**为什么这样写**：“She didn’t want to refer me for a scan, or any test.” 一句把 Emma 的全部希望堵死——她要的是机器给出的证据，得到的却是对话。“Let’s see where we get to with talking.” 是全章最客气也最无力的一个转折：医生把「检查」换成了「聊聊”。“I sat on my hands to stop any wild gesticulations that would have me pegged as unstable” 用一个自嘲的动作写她在被诊断——她知道自己的每一个手势都可能被记录成症状。
+**读者视角提示**：「Let’s see where we get to with talking.」＝检查被换成聊天；“I sat on my hands to stop any wild gesticulations”＝她知道自己的每个手势都可能被记成症状。
 
 > **原句 4:** “'Just seeing my husband die,' I said, almost petulantly.”
-**中文理解**："Just seeing my husband die," Emma said, almost petulantly。
+**中文理解**：医生问她最近压力大不大、关系如何、有什么情绪困扰。Emma 几乎是赌气地说：只是看着她丈夫死掉。这跟排练过的完全不一样——她本来准备好的是有逻辑、有条理、听起来正常、不像疯子。
 **关键词**：Just seeing my husband die / petulantly
-**为什么这样写**：Just seeing my husband die = Emma's answer to the doctor's question ("Was there anything causing me emotional distress?"). "petulantly" = Emma's tone—she's frustrated, childlike. This is Emma's breaking point: the doctor is asking about emotional distress, and Emma is saying "my husband dies" as if it's obvious. The doctor's response ("Is there a reason you're intent on focusing on your husband's mortality?") = the doctor's misinterpretation—she thinks Emma is fixated on Dan's mortality, not that Dan is actually dying in a loop.
-**读者视角提示**：Just seeing my husband die = Emma's answer; "petulantly" = her frustration; the doctor's misinterpretation—she thinks Emma is fixated, not that Dan is dying in a loop.
+**为什么这样写**：“Just seeing my husband die,” I said, almost petulantly. 全章最短的一句实话。almost petulantly（几乎像在赌气）这个词很狠：她一路都在配合医嘱、压着嗓子、坐着手，可一开口就是最直白的那个事实，口气还不像个病人。“This was not going how I’d rehearsed” 把前一段医生问她「Is there a reason you’re intent on focusing on your husband’s mortality?」造成的落差挑明——她准备的是一场说明会，得到的却是「你有没有想过是你自己怕死」。
+**读者视角提示**：「almost petulantly」＝她一路配合医嘱，一开口却是最直白的实话，语气还不像个病人；「This was not going how I’d rehearsed」＝准备好的说明会变成了审判。
 
 > **原句 5:** “'I think I'll go home,' I said.”
-**中文理解**："I think I'll go home," Emma said。
+**中文理解**：整场问诊毫无进展，Emma 筋疲力尽地瘫在椅子上，能量从身上漏光。没有人帮得了她——其实她早该知道。于是她只能做一件事：把控制权抢回来，去改变那件唯一要紧的事，别再搞砸。医生还在说话，她就站起来说：我先回家了。医生提议转介给她的家庭医生做谈话治疗，她只是闷闷地点头，心想：那要等到什么时候？
 **关键词**：I think I'll go home
-**为什么这样写**：I think I'll go home = Emma's decision—she's leaving the hospital. "I got up when she was mid-sentence" = Emma's abrupt exit—she's done with the doctor. "No one could help me. I suppose I'd known it really." = Emma's acceptance—the medical system can't help her. "So all I could do was take control back, change the only thing that mattered. Not screw it up again." = Emma's resolution—she'll take control herself. This is the loop's turning point: Emma stops relying on institutions (hospital, committee) and takes personal responsibility.
-**读者视角提示**：I think I'll go home = Emma's decision; "No one could help me" = her acceptance; "take control back" = her resolution; this is the loop's turning point—Emma stops relying on institutions.
+**为什么这样写**：“the energy leaking from me” 把「治疗无效」写成一个**流失**的过程——不是被拒绝，是被抽干。“I suppose I’d known it really. That whatever was happening was happening” 是全章的认输：她其实早知道。“So all I could do was take control back, change the only thing that mattered. Not screw it up again.” 三句短句把崩溃转成了行动清单——**最后一节拍是「离开」**：她在医生说到一半时起身（“I got up when she was mid-sentence”），这是全章唯一一次她打断权威，也是循环里 Emma 第一次不再求人。
+**读者视角提示**：「the energy leaking from me」＝治疗无效不是被拒，是被抽干；「I suppose I’d known it really」＝认输；「I got up when she was mid-sentence」＝她唯一一次打断权威——也是循环里第一次不再求人。
 
 ## 词汇
 
@@ -84,10 +84,9 @@
 Emma goes to the hospital, tries to get a brain specialist ("I have lived today before, twice in fact"), sees a nurse, then a psychiatrist ("Let's see where we get to with talking"), who doesn't help; Emma leaves ("I think I'll go home")——the loop's institutional failure: the medical system can't help her.
 
 ## 读者视角提示
-
-- **"I have lived today before, twice in fact"**：Emma's claim to the nurse—she's lived today before (twice). "twice in fact" = her precision. The nurse's frown = skepticism. Emma's self-awareness: "I'd be skeptical."
-- **"My husband dies. At the end of today."**：Emma's confession—the loop's central secret. "he has died twice now but he is totally fine" = the loop's paradox. The nurse can't process this contradiction.
-- **"Let's see where we get to with talking"**：the psychiatrist's approach—she wants to talk, not scan. "She didn't want to refer me for a scan" = her refusal. The loop's institutional failure: the medical system can't help Emma because the loop is not a medical condition.
-- **"Just seeing my husband die"**：Emma's answer to "Was there anything causing me emotional distress?" "petulantly" = her frustration. The doctor's misinterpretation: "Is there a reason you're intent on focusing on your husband's mortality?" = she thinks Emma is fixated, not that Dan is dying in a loop.
-- **"I think I'll go home"**：Emma's decision—she's leaving the hospital. "No one could help me. I suppose I'd known it really." = her acceptance. "take control back, change the only thing that mattered. Not screw it up again." = her resolution. This is the loop's turning point: Emma stops relying on institutions and takes personal responsibility.
-- **loop structure**：ch17 (loop reset, "Again.") → ch18 (loop #2, Emma tests reality) → ch20 (loop #3, Emma tries to change small things) → ch21 (loop #3 continues, Emma's big change backfires) → ch22 (loop #3 continues, Emma tries to share with Hattie) → ch24 (loop #3 continues, Emma shares with Jas) → ch25 (loop #3 continues, Emma calls Dan) → ch27 (loop #3 continues, Emma writes letter, Miles's secret) → ch28 (loop #3 continues, Emma quits committee) → ch29 (loop #4, Emma tries to prevent Dan's death directly) → ch31 (loop #5, Emma accepts the loop, tries to change everything at once) → ch32 (loop #6, Emma's deepest despair—she's alone on a bench, questioning reality) → ch33 (loop #6 continues, Emma tries the medical system—the loop's institutional failure). The loop is giving Emma more agency and more despair simultaneously. She's trying every institutional recourse (committee, hospital) and failing. The loop's central tension: can Emma change the outcome? The novel's answer is in the remaining chapters. Emma's "I'd been given a chance to stop it" (ch24) = her mission. Can she? The loop suggests: small changes are allowed, but the big event (Dan's death) may be fixed. Emma's tragedy: she can't make the one change that matters. The loop will repeat. But will it eventually stop? The novel's answer is in the ending.
+- **「I have lived today before, twice in fact」**：全章起点——用最平的语气说最不可能的事。
+- **「my husband dies. At the end of today. So he has died twice now but he is totally fine」**：but 是支点：死亡与「没事」被同一个连词压在一起。
+- **「Let’s see where we get to with talking」**：医生把「检查」换成「聊聊」——Emma 要的是证据，拿到的是对话。
+- **「Just seeing my husband die」**：全章最短的实话，almost petulantly 把她的赌气写尽。
+- **「I got up when she was mid-sentence」**：她唯一一次打断权威——循环里第一次不再求人。
+- **loop structure**：本章是循环第 6 轮的后半（承接 ch32）：Emma 走完了「求医—被否定—认输—自己接手」的全过程；本章末尾的手机短信（Dan / Hattie / Catrin / Linda / Jas）把下一轮的一天重新铺好。

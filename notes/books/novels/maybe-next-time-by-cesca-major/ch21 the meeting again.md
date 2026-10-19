@@ -46,7 +46,7 @@
 
 > **原句 6:** “'I will talk to you later today.'”
 **中文理解**：同一句威胁在上一块里已经被 Linda 压着嗓子说出来，这里再收束一次：这是她留给 Emma 的最后一句，也是整场会留给 Emma 的全部后果。它不是预告，是通知——今天之内，她得为这一轮的选择给个解释。
-**关键词**：I need to talk to my client alone / I will talk to you later today
+**关键词**：I will talk to you later today
 **为什么这样写**：叙述的重复让这句从「补话」变成「判决」：前一遍它是 Linda 转身后挤出来的一句，后一遍它成了落槌。Emma 只能听着——她咬着嘴唇没有还嘴，因为 Arthur 是 Linda 的客户，她清楚自己越界的身份。威胁之所以有效，是因为它不凶：语气是公事公办的，内容却悬着，等于把「你完了」包在礼貌里。
 **读者视角提示**：I will talk to you later today ＝「我今天会找你谈」；这句是通知，不是商量；读的时候留意它出现的时机——Arthur 刚走、Emma 连辩解的位置都没有。
 

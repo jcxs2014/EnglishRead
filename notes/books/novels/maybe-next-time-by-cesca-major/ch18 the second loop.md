@@ -40,7 +40,7 @@
 
 > **原句 5:** “Please don’t. Just stay. I want us all to have breakfast here. Together. Now.”
 **中文理解**：循环第 2 轮，Emma 连说三句：别走；留下来；我要我们所有人在这里吃早饭——一起，现在。她想把人按在家里。
-**关键词**：Please don't go anywhere
+**关键词**：Please don't / Just stay
 **为什么这样写**：三个短句像三下敲击，每句都被「别」字截断；Dan 想说 “But I want to get you a—”，话没说完就被她接过去。Together 与 Now 各自独立成句：一个是空间上的聚合，一个是时间上的催促；她要的不只是安全，是「此刻」这个状态被延长。Emma 心里其实已经承认 “I needed more time. If this was really real, I needed more.”——她知道留人买不到时间，她只是不敢让这个上午照常流走。这也是第 2 轮里她第一次主动干预：上一轮她只顾着确认现实，这一轮她开始动手改结果。
 **读者视角提示**：“Just” =「就（这样）」；“Together. Now.” 两个单词成句＝她要的是此刻被延长。Emma 心里清楚自己留不住 Dan 一整天，但她要先抢下这个早晨。
 

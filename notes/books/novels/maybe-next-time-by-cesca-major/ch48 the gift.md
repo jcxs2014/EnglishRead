@@ -8,7 +8,7 @@
 
 - **一句话概括**：present-day 循环的转折点——Emma 忘了再拦 Dan，Dan 又死了；她和 Dan 躺在床上却只想要「一天普通日子」；周年纪念日的早晨把她的记忆拉回初吻；她在办公室向 Jas 和盘托出循环，Jas 说「也许这是给你的机会」；Emma 决定辞职，走出办公室时忽然想起来——Jas 明天就不会记得这场谈话了。
 - **情感弧线位置**：present-day 循环的转折点（从 despair 到 acceptance/gift mindset；Emma's transformation begins）
-- **Tropes 兆现/反转**：loop repetition with variation (Emma's "gift" day—sex with Dan, walks kids to school, tells Poppy, reads pages, calls editors); "A gift" as Emma's new mantra; Jas 的 "It could be a sort of gift." as the seed that ch52 turns into a daily routine
+- **Tropes 兆现/反转**：loop repetition with variation (Emma's "gift" day—sex with Dan, walks kids to school, tells Poppy, reads pages, calls editors); "A gift" as Emma's new mantra; Jas 的 "It could be a sort of gift." as the seed that ch52 turns into a daily routine（ch52 的 "I'd been missing so many of these small, precious moments" 是它的回响）
 - **人物弧线**：Emma 从「我撑不下去了」到 "I knew I had to go soon, had to give myself some purpose"——her transformation begins; Dan (through Emma's eyes) = the man she's rediscovering; Gus = the dog she's saving; Jas = the friend she's reconnecting with
 - **叙事手法**：close third (Emma); loop repetition (same morning, different outcome—Emma chooses positivity); "A gift" as recurring motif; 回忆闪回（初吻）承担时间跳转; "It could be a sort of gift." as the chapter's seed
 
@@ -101,7 +101,7 @@
 
 ## 一句话总结
 
-Emma 决定把循环当作"礼物"——与 Jas 和解、辞掉工作、带 Gus 看兽医、读 Ernestina 的书稿、给 Jurek 的妈妈送有声书、在咖啡馆享受正常生活；Emma 开始重新欣赏小事物，"I had been missing so many of these small, precious moments."
+Emma 决定把循环当作"礼物"——与 Jas 和解、辞掉工作、带 Gus 看兽医、读 Ernestina 的书稿、给 Jurek 的妈妈送有声书、在咖啡馆享受正常生活；Emma 开始重新欣赏小事物，"I'd been missing so many of these small, precious moments"（ch52 原句）
 
 ## 读者视角提示
 - **“I’d forgotten to stop him again last night”**：全书的起点是一句认输——Emma 忘了拦下 Dan，Dan 又死在夜里那声熟悉的撞击中；同一夜，女儿听见警笛，母亲几乎没反应。这一段把「循环」写成「又一次」，把「麻木」和「创伤」分给两个人。

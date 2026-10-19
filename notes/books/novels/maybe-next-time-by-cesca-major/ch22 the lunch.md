@@ -6,7 +6,7 @@
 
 ## 本章导航
 
-- **一句话概括**：Emma 在 café 与 Hattie 吃 lunch，试图解释 loop ("I have lived today before. I lived it yesterday.")；Hattie rationalizes ("Maybe that's what your dream was about? Giving you a second chance?")；Hattie mentions Dan told her he's barely seen Emma；chat interlude: Jas/AuthorLou messages。
+- **一句话概括**：Emma 在 café 与 Hattie 吃 lunch，试图解释 loop ("I have lived today before. I lived it yesterday.")；Hattie rationalizes ("Maybe that's what your dream was about?" / "Giving you a second chance?")；Hattie mentions Dan told her he's barely seen Emma；chat interlude: Jas/AuthorLou messages。
 - **情感弧线位置**：present-day 危机的 loop iteration #3 (Emma tries to share the loop with Hattie; Hattie can't understand; Emma's isolation deepens)
 - **Tropes 兑现/反转**：loop explanation scene; Hattie as the "rational" voice（ch58 里 Dan 也用 rational 形容过她）; "Maybe that's what your dream was about?" as Hattie's interpretation; "Have you wondered whether maybe it's just stress?" as Hattie's concern
 - **人物弧线**：Emma 从 "I need to talk to you" 到 "I can't explain"；Hattie 从 "you're being crazy intense" 到 "maybe it's just stress"; Hattie's "No one knows what goes on behind closed doors" as her own marital concern
@@ -16,7 +16,7 @@
 
 > **原句 1:** “'I'm not,' I protested, a fraction too loudly. The waiter in the reindeer ears looked over. 'OK,' I admitted, gulping wine, I was almost down to the final mouthful. 'I need to talk to you.'”
 **中文理解**：开场 Emma 情绪太满，Hattie 问她为什么这么紧张，她脱口否认，声音却大了一点，把戴鹿角头饰的服务员都引得回头看了一眼。她随即认输，灌了一大口酒（杯底只剩最后一口），然后才说出真正想说的话：我要跟你谈谈。否认、认输、坦白，几句话里就走完了——她已经撑不住体面。
-**关键词**：crazy intense / gulping wine / I need to talk to you
+**关键词**：gulping wine / I need to talk to you
 **为什么这样写**：作者用 a fraction too loudly（只高了一点点）写 Emma 失控的边缘：她自以为还在掩饰，其实已经吵到服务员回头。句子的节奏跟着她的失守走——否认时声音过大，被发现后立刻灌酒改口，末了才把真正的请求放出来。gulping wine 把她的急躁落到身体上：她不是在品酒，是在抢时间。作家让这场谈话从一个失败的掩饰开始，于是「我要跟你谈谈」这句真正重要的话，出现在最狼狈的时点上。
 **读者视角提示**：a fraction too loudly ＝「稍微高了一点点」；gulping wine ＝「大口灌酒」；I need to talk to you ＝「我有话要跟你说」；读这一段注意问答的错位：Hattie 问的是「你为什么这么紧张」，Emma 答的却是「我有话要跟你说」——她绕开了问题，直接要谈话。
 
@@ -42,7 +42,7 @@
 
 > **原句 6:** “She didn't meet my eye.”
 **中文理解**：Emma 说起 Hattie 刚才那句话时注意到：Hattie 说这番话时没有看她。躲开的目光说明她也不确定该不该说、说完自己也不舒服——她夹在丈夫和妹妹之间，两头都不好多说。Emma 的观察只到这里就停了：她看见了，却没有追问。这正是她这个人物的惯常动作——看见、记下、不处理。
-**关键词**：Dan told me he's barely seen you / She didn't meet my eye
+**关键词**：She didn't meet my eye
 **为什么这样写**：作者用一句简短的观察把 Hattie 的心虚摊在台面上，不加任何解释。写法上的关键是那个「她」而不是「Hattie」——视角贴到 Emma 的眼睛上，读者跟着她一起注意到那个没对视的瞬间。作家借此落下一枚小小的钉子：这场谈话里 Hattie 也有不能说的话，而 Emma 照例没有追问——她的克制既是体贴，也是她一直没走到局内的原因。
 **读者视角提示**：meet my eye ＝「对视」；这一句是 Emma 的观察，不是 Hattie 的话；读的时候注意说话人切换——引的是叙述句，主语是 Hattie，视角是 Emma；她看见了但没问，这个「不追问」是 Emma 在全书的习惯。
 
@@ -88,7 +88,7 @@
 
 ## 一句话总结
 
-Emma 在 café 与 Hattie 吃 lunch，试图解释 loop ("I have lived today before. I lived it yesterday.")；Hattie rationalizes ("Maybe that's what your dream was about? Giving you a second chance?")；Hattie mentions Dan told her he's barely seen Emma；chat interlude: Jas/AuthorLou messages。"Have we ever?" = the chapter's final question.
+Emma 在 café 与 Hattie 吃 lunch，试图解释 loop ("I have lived today before. I lived it yesterday.")；Hattie rationalizes ("Maybe that's what your dream was about?" / "Giving you a second chance?")；Hattie mentions Dan told her he's barely seen Emma；chat interlude: Jas/AuthorLou messages。"Have we ever?" = the chapter's final question.
 
 ## 读者视角提示
 

@@ -86,7 +86,7 @@
 
 ## 一句话总结
 
-Dan 的第二周年信把 Emma 写成 "bravery source + enigma + childhood-trauma survivor + Hattie's chosen sister"，落回 "Here's to an amazing third year together"——loop 的第二个 Dec 3，Emma 的 "missing letter" motif 的对照标本。
+Dan 的第二周年信把 Emma 写成勇敢之源、谜一样的存在、童年创伤幸存者，以及 Hattie 认下的妹妹，落回 "Here's to an amazing third year together"——loop 的第二个 Dec 3，Emma 的 "missing letter" motif 的对照标本。
 
 ## 读者视角提示
 - **这一章在时间线上的位置**：整章是 Dan 写于 2008 年 12 月 3 日的第二封周年信，回顾的是两人相处的第 2 年；现在线那一年的 12 月 3 日还没到。

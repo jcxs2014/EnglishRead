@@ -6,7 +6,7 @@
 
 ## 本章导航
 
-- **一句话概括**：Emma and Hattie at the Ritz—Emma's manic energy (dancing to the pianist, £14 orange juice, £480 boots, £1,160 coat), Hattie's miscarriage revelation ("I had a miscarriage. At seven weeks."), Ed's cruelty ("He thinks I should quit my job completely"), Emma gets drunk, Hattie leaves, Emma vomits outside the Ritz, loses her £1,160 coat; chat interlude: AuthorLou, CharterHayley, Denise, Amelia。
+- **一句话概括**：Emma and Hattie at the Ritz—Emma's manic energy (dancing to the pianist, £14 orange juice, £480 boots, £1,160 coat), Hattie's miscarriage revelation ("I had a miscarriage" / "At seven weeks."), Ed's cruelty ("He thinks I should quit my job completely"), Emma gets drunk, Hattie leaves, Emma vomits outside the Ritz, loses her £1,160 coat; chat interlude: AuthorLou, CharterHayley, Denise, Amelia。
 - **情感弧线位置**：present-day 危机的 loop iteration #8 (Emma's day off continues—she's at the Ritz with Hattie)
 - **Tropes 兑现/反转**：loop repetition with variations (Emma's day off continues); Ritz as Emma's manic indulgence; Hattie's miscarriage as the chapter's emotional core; "It was hours later and miles away when I realized I'd left my new £1,160 coat behind" as the chapter's terminal line
 - **人物弧线**：Emma 从 "I've always wanted to come here" 到 "It was hours later and miles away when I realized I'd left my new £1,160 coat behind"——her manic indulgence; Hattie 从 "I had a miscarriage" 到 leaving the Ritz; Ed as the hidden antagonist
@@ -81,7 +81,7 @@
 
 ## 一句话总结
 
-Emma and Hattie at the Ritz—Emma's manic energy (dancing to the pianist, £14 orange juice, £480 boots, £1,160 coat), Hattie's miscarriage revelation ("I had a miscarriage. At seven weeks."), Ed's cruelty ("He thinks I should quit my job completely"), Emma gets drunk, Hattie leaves, Emma vomits outside the Ritz, loses her £1,160 coat; chat interlude: AuthorLou, CharterHayley, Denise, Amelia。
+Emma and Hattie at the Ritz—Emma's manic energy (dancing to the pianist, £14 orange juice, £480 boots, £1,160 coat), Hattie's miscarriage revelation ("I had a miscarriage" / "At seven weeks."), Ed's cruelty ("He thinks I should quit my job completely"), Emma gets drunk, Hattie leaves, Emma vomits outside the Ritz, loses her £1,160 coat; chat interlude: AuthorLou, CharterHayley, Denise, Amelia。
 
 ## 读者视角提示
 - **"I had a miscarriage"** 与 **"At seven weeks"**：Hattie 在丽兹终于交出这句话。场景与内容对撞是这段的核心：一杯橙汁 14 镑、班尼迪克蛋 42 镑、鱼子酱 700 镑，而她说出来的是七周的孕周。「her voice almost drowned by the voices, tink of cutlery, the piano」——不是她小声，是这个空间装不下这句话。

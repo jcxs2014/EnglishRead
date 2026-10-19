@@ -6,7 +6,7 @@
 
 ## 本章导航
 
-- **一句话概括**：Emma finally quits the committee—Alan in high-vis jacket ("I've got something in the slow cooker"), "this little gathering runs the playgroup for you, without which you wouldn't pay your mortgage", "I'm stepping down from the committee", "we're not flaky, we're overworked", "I've done my time, more than my time"; Catrin: "Be free!"
+- **一句话概括**：Emma finally quits the committee—Alan in high-vis jacket ("I've got something in the slow cooker"), "You know, Alan, this little gathering," / "runs the playgroup for you, without which you wouldn't pay your mortgage", "I'm stepping down from the committee", "we're not flaky, we're overworked", "I've done my time, more than my time"; Catrin: "Be free!"
 - **情感弧线位置**：present-day 危机的 loop iteration #3 (Emma's correction: finally quitting the committee—something she should have done years ago)
 - **Tropes 兑现/反转**：committee meeting as set piece; Alan as patriarch; Emma's "I've done my time" as her declaration of independence; "Be free!" as Catrin's blessing
 - **人物弧线**：Emma 从 "I'd never liked letting people down" 到 "I'm stepping down from the committee"; Alan from "gracious enough to wait" to "notoriously flaky"; Catrin as Emma's ally
@@ -86,7 +86,7 @@
 
 ## 一句话总结
 
-Emma finally quits the committee—Alan in high-vis jacket ("I've got something in the slow cooker"), "this little gathering runs the playgroup for you, without which you wouldn't pay your mortgage", "I'm stepping down from the committee", "we're not flaky, we're overworked", "I've done my time, more than my time"; Catrin: "Be free!"
+Emma finally quits the committee—Alan in high-vis jacket ("I've got something in the slow cooker"), "You know, Alan, this little gathering," / "runs the playgroup for you, without which you wouldn't pay your mortgage", "I'm stepping down from the committee", "we're not flaky, we're overworked", "I've done my time, more than my time"; Catrin: "Be free!"
 
 ## 读者视角提示
 - **"I’ve done my time, more than my time"**：Emma 给自己这几年的付出结账——她想退已经退了两年，现在要的不是脱身，是清算。她退出委员会的真正理由是家里的人：想起 Hattie、想起 Miles、最后想起 Dan。

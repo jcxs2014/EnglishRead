@@ -8,7 +8,7 @@
 
 - **一句话概括**：Dan 的第十四封周年纪念信（2020 年 12 月 3 日）——COVID-19 封锁、homeschooling、Emma 的过度忙碌、Dan 的沮丧与恳求；Dan 坦诚 Emma 的"消失"与过度忙碌，同时 reaffirm 爱情与家庭的重要性。
 - **情感弧线位置**：past-year anchor #14 (2020)；pandemic lockdown year; "I'm sorry if this makes you feel guilty" as Dan's honest confrontation; "I am grateful that if they were going to lock me in a house, then at least it was with you." as closing
-- **Tropes 兆现/反转**：anniversary letter as marriage audit; pandemic lockdown as the year's challenge; "You are on a committee or dropping a sack of toddler clothes to a neighbor" as Dan's observation; "I love you Emma" as closing
+- **Tropes 兆现/反转**：anniversary letter as marriage audit; pandemic lockdown as the year's challenge; "You're on a committee or dropping a sack of toddler clothes to a neighbor" as Dan's observation; "I love you Emma" as closing
 - **人物弧线**：Dan 从 "What a year. We're almost there, maybe. Or not." 到 "I love you Emma," / "Dan x x"——his humor and honesty; Emma (through Dan's eyes) = the woman who is "always thinking of someone else"（ch51）but now even more so during pandemic
 - **叙事手法**：epistolary (Dan→Emma); marriage audit as the letter's structure; pandemic lockdown as the year's challenge; Dan's honest confrontation about Emma's busyness as the letter's thesis; "I love you Emma" as closing
 

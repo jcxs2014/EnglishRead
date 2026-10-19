@@ -9,7 +9,7 @@
 - **一句话概括**：Emma writes Dan's letter in the conservatory (with Gus), Miles comes home upset ("I want a best friend"), Poppy and Miles have a secret ("Don't tell Mum"), Emma cancels US agent call, stays for kids' tea, Dan "You never tell me I'm right" (kiss), Emma goes to committee to quit; chat interlude: Catrin/Lena/Denise about Alan。
 - **情感弧线位置**：present-day 危机的 loop iteration #3 (Emma writes the letter—correction attempt; Miles's secret as hidden thread; Emma's "Check the conservatory" = Dan's letter waiting)
 - **Tropes 兑现/反转**：letter-writing as correction (Emma finally writes Dan's letter); Miles's "I want a best friend" as emotional thread; "You never tell me I'm right" as Dan's humor; "Check the conservatory" as the letter's delivery
-- **人物弧线**：Emma 从 "I wouldn't forget the letter today" 到 "I needed to get through the next few hours"; Miles 从 ch10 的 "most placid" to "I want a best friend"; Dan 从 "something's up with the kids" 到 "You never tell me I'm right"
+- **人物弧线**：Emma 从 "I wouldn't forget the letter today" 到 "I needed to get through the next few hours"; Miles 从 ch10 的 "most placid" to "I want a best friend"; Dan 从 "Something's definitely going on with the kids." 到 "You never tell me I'm right"
 - **叙事手法**：close third (Emma); the letter as correction; Miles's secret as hidden thread; "Check the conservatory" as the letter's delivery; chat interlude as workplace coda
 
 ## 精读

@@ -6,9 +6,9 @@
 
 ## 本章导航
 
-- **一句话概括**：Dan 的第十五周年信（2021 年 12 月 3 日），从 "Tomorrow will be fifteen years since we met" 开始，历数 Emma 的 phone-glued distractedness、Arthur Chump 危机、forgot letter again、"I love you but sometimes I lie here and even when you're next to me I feel alone"——this is Dan's last letter (he'll die tonight).
+- **一句话概括**：Dan 的第十五周年信（2021 年 12 月 3 日），从 "Tomorrow will be fifteen years since we met" 开始，历数 Emma 的 phone-glued distractedness、Arthur Chump 危机、forgot letter again、"I love you, Emma, I love you so much. But sometimes I lie here and even when you're next to me I feel alone"——this is Dan's last letter (he'll die tonight).
 - **情感弧线位置**：past-year anchor #15 (2021) = present-day; this is Dan's last letter, written the night before his death. "I've searched for your letter. And I can't find one." = Emma forgot again (loop).
-- **Tropes 兑现/反转**：anniversary letter as Dan's last words; "I love you but sometimes I feel alone" as the marriage's final confession; P.S. "you'd make a fucking amazing spy" as Dan's humor masking hurt
+- **Tropes 兑现/反转**：anniversary letter as Dan's last words; "I love you, Emma, I love you so much. But sometimes I lie here and even when you're next to me I feel alone" as the marriage's final confession; P.S. "you'd make a fucking amazing spy" as Dan's humor masking hurt
 - **人物弧线**：Dan 从 "I'm pissed off" 到 "I love you, Emma, I love you so much" 到 "I feel alone"; Emma (through Dan's eyes) = phone-glued, distracted, forgot letter again
 - **叙事手法**：epistolary (Dan→Emma); the letter is Dan's last communication before death; "I won't assume you've forgotten again... I really HOPE I'm wrong" = Dan's hope against evidence; P.S. as the letter's comic relief (masking pain)
 
@@ -92,7 +92,7 @@
 
 ## 一句话总结
 
-Dan 的第十五周年信：Emma forgot the letter again (loop)，Arthur Chump 危机，"I love you but sometimes I lie here and even when you're next to me I feel alone"——Dan's last letter, written the night before his death. P.S. "you'd make a fucking amazing spy" = Dan's final joke.
+Dan 的第十五周年信：Emma forgot the letter again (loop)，Arthur Chump 危机，"I love you, Emma, I love you so much. But sometimes I lie here and even when you're next to me I feel alone"——Dan's last letter, written the night before his death. P.S. "you'd make a fucking amazing spy" = Dan's final joke.
 
 ## 读者视角提示
 - **信的身份**：这是 Dan 写给 Emma 的第 15 封周年信（信头 2021 年 12 月 3 日），回顾的是他们相遇后的第 15 年。按信里的年份算它晚于 ch19（2011 年），但在书里属于现在线的一封——读信时先记住写信人的处境：写下这些字的那个夜里，他并不觉得自己会出事。

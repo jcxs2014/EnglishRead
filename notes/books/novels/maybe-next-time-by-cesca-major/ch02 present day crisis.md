@@ -8,7 +8,7 @@
 
 - **一句话概括**：present-day 2021 年 12 月 3 日，Emma 忘了写周年纪念信，Dan 伤心离开；Miles 被吵醒，Gus 不肯出门；Emma 独自站在厨房，听到门边传来异响——章节以 "Oh my God." 戛然而止。
 - **情感弧线位置**：present-day 危机（全书时间循环的起点/触发点；婚姻裂痕的首次外显）
-- **Tropes 兑现/反转**：anniversary-letter 的 ritual 崩塌——Dan 的信是每年的 anchor，Emma 的遗忘是 she's "dragging herself back from another place entirely" 的外化；门边异响是 time-loop 的 mechanism
+- **Tropes 兑现/反转**：anniversary-letter 的 ritual 崩塌——Dan 的信是每年的 anchor，Emma 的遗忘是 她像 ch01 信里写的 "you're dragging yourself back from another place entirely" 那样心不在焉；门边异响是 time-loop 的 mechanism
 - **人物弧线**：Dan 从 placid 到 stern/tearful（"Dan rarely sounded stern"）；Emma 从 defensive 到愧疚到惊惧；Miles 的童声把童年创伤的 intergenerational echo 挂上
 - **叙事手法**：第三人称限知（Emma 视角）；dialogue-driven；present tense 的 "heard it" 把章节停在 cliffhanger；Dan 的信/Emma 的信的 asymmetry（他写了、她没写）是全书的 structural engine
 

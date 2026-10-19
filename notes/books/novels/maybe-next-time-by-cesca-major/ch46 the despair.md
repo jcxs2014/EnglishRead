@@ -9,7 +9,7 @@
 - **一句话概括**：Emma 陷入绝望循环—— binge watching、漫无目的的购物、Brighton 海边、Nobu 独酌、街头闹事被捕、闭门不出；Dan 每晚死在不同地点；最终 Emma 产生自杀念头："I couldn't do this anymore."
 - **情感弧线位置**：present-day 循环的最低谷（Emma 的 despair arc 顶点；从 ch45 的 "I couldn't forgive her" 到本章的 "I wanted to die"）
 - **Tropes 兆现/反转**：loop repetition with variation (Emma's despair days—streaming, roaming, arrested, bedridden); "I wanted to die" as Emma's lowest point; "I walked past them both and went upstairs to start the day again" as Emma's detachment
-- **人物弧线**：Emma 从 ch45 的 "I couldn't forgive her, couldn't forget that without her recklessness I wouldn't be stuck in this endless loop" 到本章的 "I wanted to die. I couldn't do this anymore."——her complete breakdown; Dan dies alone (kitchen, sitting room, brushing teeth) or with Emma by his side
+- **人物弧线**：Emma 从 ch45 的 "I couldn't forgive her, couldn't forget that without her recklessness I wouldn't be stuck in this endless loop" 到本章的 "I wanted to be dead. I couldn't do this anymore."——her complete breakdown; Dan dies alone (kitchen, sitting room, brushing teeth) or with Emma by his side
 - **叙事手法**：close third (Emma); loop repetition (same morning, different despair variation); "Some days... On other days... Some days I felt full of energy... Other days I felt the bone-aching weariness" as Emma's despair catalog; "I walked past them both and went upstairs to start the day again" as Emma's detachment; "I couldn't do this anymore" as the chapter's thesis
 
 ## 精读

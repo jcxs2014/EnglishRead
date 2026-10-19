@@ -6,10 +6,10 @@
 
 ## 本章导航
 
-- **一句话概括**：Dan 的第五周年信（2011 年 12 月 3 日），从 "I'm sorry" 开始——Dan 和 Emma 分居已 6 个月，Dan 在 new life 里，seeing GP/therapist，Hattie 帮助，"You didn't do this to us. I let you down."，Emma 刚 drop Poppy round（"her hair in bunches, yellow leggings with zebras"），Dan 想 "be brave"，seal the letter and drop it to Emma—"Because this day is the day I met you and you were the best thing that ever happened to me."
+- **一句话概括**：Dan 的第五周年信（2011 年 12 月 3 日），从 "I'm sorry" 开始——Dan 和 Emma 分居已 6 个月，Dan 在 new life 里，seeing GP/therapist，Hattie 帮助，"You didn't do this to us. I know you saw us as a team. I let you down."，Emma 刚 drop Poppy round（"her hair in bunches, yellow leggings with zebras"），Dan 想 "be brave"，seal the letter and drop it to Emma—"Because this day is the day I met you and you were the best thing that ever happened to me."
 - **情感弧线位置**：past-year anchor #5 (2011)；marriage crisis 的 separation year; Dan's apology and plea for reconciliation
-- **Tropes 兑现/反转**：anniversary letter as apology; separation as the marriage's lowest point; "You didn't do this to us. I let you down." as Dan's accountability
-- **人物弧线**：Dan 从 "I'm sorry" 到 "I want to be brave this year"; Emma (through Dan's eyes) = "hair in bunches, yellow leggings with zebras, eyes red rimmed"; Hattie as Dan's support
+- **Tropes 兑现/反转**：anniversary letter as apology; separation as the marriage's lowest point; "You didn't do this to us. I know you saw us as a team. I let you down." as Dan's accountability
+- **人物弧线**：Dan 从 "I'm sorry" 到 "I want to be brave this year"; Emma (through Dan's eyes) = "her hair in bunches, yellow leggings with zebras I've never seen before. Your hair is longer, your eyes red rimmed"; Hattie as Dan's support
 - **叙事手法**：epistolary (Dan→Emma); the letter is written during separation; "I'm going to seal this letter now and drop it straight to you before I change my mind" = Dan's vulnerability; "Because this day is the day I met you" = the anniversary's enduring meaning
 
 ## 精读
@@ -87,7 +87,7 @@
 
 ## 一句话总结
 
-Dan 的第五周年信（2011 年 12 月 3 日）：分居 6 个月，Dan 在 new life 里，seeing GP/therapist，"You didn't do this to us. I let you down."，Emma drop Poppy round（"hair in bunches, yellow leggings with zebras"），"I want to be brave this year"，seal the letter and drop it to Emma—"Because this day is the day I met you and you were the best thing that ever happened to me."
+Dan 的第五周年信（2011 年 12 月 3 日）：分居 6 个月，Dan 在 new life 里，seeing GP/therapist，"You didn't do this to us. I know you saw us as a team. I let you down."，Emma drop Poppy round（"hair in bunches, yellow leggings with zebras"），"I want to be brave this year"，seal the letter and drop it to Emma—"Because this day is the day I met you and you were the best thing that ever happened to me."
 
 ## 读者视角提示
 - **信的身份**：Dan 的第 5 封周年信，写于 2011 年 12 月 3 日，回顾的是第 5 年——这一年两人分居：Emma 和孩子住在家里，Dan 搬了出去（「It's been more than six months now in this new life without you」）。

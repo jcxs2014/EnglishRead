@@ -9,46 +9,46 @@
 - **一句话概括**：Dan 的第九周年信（2015 年 12 月 3 日）——house renovation (Farrow and Ball, myrtle-green cupboards, gold sunflower clock), camping trip in South Wales, Hattie (needling Ed about kids), work (Emma works weekends), "Sometimes I worry you don't feel the same", "I love you, so very, very much."
 - **情感弧线位置**：past-year anchor #9 (2015)；house renovation year; Dan's worry about Emma's work-life balance
 - **Tropes 兑现/反转**：anniversary letter as domestic idyll; "Sometimes I worry you don't feel the same" as Dan's vulnerability; "I love you, so very, very much" as closing
-- **人物弧线**：Dan 从 "I should spatter the pages with Farrow and Ball" 到 "I love you, so very, very much"; Emma (through Dan's eyes) = Interior Design Head, hairbrush, Desert Island Discs; Poppy/Miles growing up
+- **人物弧线**：Dan 从 "I should spatter the pages of this letter with Farrow and Ball" 到 "I love you, so very, very much"; Emma (through Dan's eyes) = Interior Design Head, hairbrush, Desert Island Discs; Poppy/Miles growing up
 - **叙事手法**：epistolary (Dan→Emma); "Sometimes I worry you don't feel the same" as Dan's vulnerability; "I love you, so very, very much" as the letter's closing (no "Dan x" this time, just "Dan x x")
 
 ## 精读
 
 > **原句 1:** “I should spatter the pages of this letter with Farrow and Ball because it seems to be all we’ve done this year.”
-**中文理解**："I should spatter the pages of this letter with Farrow and Ball because it seems to be all we've done this year."
+**中文理解**：Dan 写第九周年信（2015 年 12 月 3 日）：这一整年我们好像只做了一件事——把房子漆成 Farrow and Ball 的颜色。不过不是头一个月那样只打扫（“第一个月基本只有打扫，其实没什么意思”），那些关于烂掉的椽子、壁炉烟囱那截塌下来的旧床品、房子大概是七十年代初布的线，都没闹到要吵一架。他问：是不是因为我穿工装好看？还是其实你只是累到懒得出门？
 **关键词**：spatter the pages with Farrow and Ball
-**为什么这样写**：spatter the pages with Farrow and Ball = Dan's metaphor—the year has been dominated by house renovation (Farrow and Ball is a British paint brand). "all we've done this year" = Dan's observation—2015 was the renovation year. This is Dan's voice at its most wry—opening the letter with a joke about paint. The tone is warm, domestic, humorous.
-**读者视角提示**：spatter the pages = Dan's metaphor; Farrow and Ball = British paint brand; "all we've done this year" = the renovation year.
+**为什么这样写**：“I should spatter the pages of this letter with Farrow and Ball” 用**溅**（spatter）而不是刷——他说这一年的信纸全是油漆味，连信纸上都该溅上颜色。紧接着 “because it seems to be all we’ve done this year” 是全信的自我吐槽，但作者让他马上自我纠正（“But it’s coming along, isn’t it?”）——一个人抱怨完了会自己找补，这是本信全程的节奏。“Is it because I look so attractive in overalls?” 用一个玩笑把装修劳动换算成魅力，而 “Or is it that you are simply too exhausted to leave me?” 才是真话。
+**读者视角提示**：「spatter」＝不是刷是溅，信纸都该染上油漆味；“But it’s coming along, isn’t it?”＝抱怨完自己找补——这是本信全程的节奏。
 
 > **原句 2:** “Sunday brunch around the table with the kids and you sat on the window seat, eyes closed as the sun streams in, is absolutely my favorite time of the week.”
-**中文理解**：Sunday brunch around the table with the kids and you sat on the window seat, eyes closed as the sun streams in, is absolutely Dan's favorite time of the week。
+**中文理解**：Dan 说，让 Emma 当室内设计总监这个决定他不是随便做的（Poppy 的情绪板确实很有前途），而她做到了：梅子绿的橱柜，他当初觉得「有点过了」的那只巨大的金色向日葵挂钟。厨房真的好看。而他最喜欢的一周时刻，是周日在桌边和孩子们一起吃早餐，Emma 坐在窗台上，闭着眼，阳光照进来。
 **关键词**：window seat / eyes closed as the sun streams in / favorite time of the week
-**为什么这样写**：window seat = Emma's reading nook (from ch30: "a perfect reading nook"). "eyes closed as the sun streams in" = Emma's relaxation—she's basking in sunlight. "favorite time of the week" = Dan's valuation—Sunday brunch is their best moment. This is Dan's domestic idyll: family, food, sunlight, Emma on the window seat. The image is peaceful, settled.
-**读者视角提示**：window seat = Emma's reading nook (ch30); "eyes closed as the sun streams in" = Emma basking; "favorite time of the week" = Dan's valuation of their domestic life.
+**为什么这样写**：“you nailed it” 与 “I thought was ‘a bit much’” 一扬一抑：那个挂钟他自己都觉得过分，她却做成了。“myrtle-green cupboards” 换成具体颜色，让读者看见这间厨房；“the massive shiny gold sunflower clock” 三个形容词全是「夸张」——他写的是自己的品味，不是她的。全信最柔的一句是周日早餐的窗台：三个并置的画面（全家、Emma、阳光），没有一句形容词，却是他每周最想留住的时间。
+**读者视角提示**：「you nailed it」＋「I thought was ‘a bit much’」＝他写的是自己的品味；周日窗台那段没有一句形容词，却是他每周最想留住的时间。
 
 > **原句 3:** “I know I should stop needling Ed about it but what is he waiting for? He knows as well as I that Hattie wants to start a family. Sometimes I just don’t get why you like him so much.”
-**中文理解**：Dan: "I know I should stop needling Ed about it but what is he waiting for? He knows as well as I that Hattie wants to start a family. Sometimes I just don't get why you like him so much."
+**中文理解**：Dan 说低洼处就不细说了（好吧，浴室里那个「新尝试」不是，他该早点叫水管工的；再说 Miles 说得对，滚筒刷看起来确实像玩具），但他们基本完好地撑过了这些压力。房子真正属于他们了——每次走进玄关他都还会兴奋一下（他知道自己该装个衣帽架）。花销略微超了预算（干腐病！），但他们总算没淹在水里。
 **关键词**：needling Ed / what is he waiting for / start a family
-**为什么这样写**：needling Ed = Dan's provocation—he's pressing Ed about having kids with Hattie. "what is he waiting for?" = Dan's impatience—Hattie wants kids, Ed is delaying. "He knows as well as I that Hattie wants to start a family" = Dan's awareness—Hattie's desire for children. "Sometimes I just don't get why you like him so much" = Dan's admission—he doesn't understand Emma's affection for Ed. This is Dan's honesty: he doesn't like Ed, he's pressing him about kids, and he's confused by Emma's loyalty to Ed.
-**读者视角提示**：needling Ed = Dan's provocation; "what is he waiting for?" = his impatience; "I just don't get why you like him so much" = Dan's admission about Ed.
+**为什么这样写**：“I’ll gloss over the low points” 是自嘲式结构：紧接着 “fine, I was not ‘trying something new’ in the bathroom” 立刻用引号把妻子的辩解引出来——Dan 替她说了她当时的托词。“paint rollers DO look like toys” 里的 DO 是他在替儿子辩护时那种强撑的正经。“I still get a thrill when I step inside the hallway (I know, I know, I need to sort a coat rack, I will)” 用括号里的自我打断写出一个正在努力当好丈夫的男人：兴奋是真的，懒也是真的，他在括号里向读者保证。
+**读者视角提示**：「I’ll gloss over the low points」后面立刻替妻子引出她的托词；括号里的「I know, I know」＝他一边兴奋一边心虚地保证自己会改。
 
 > **原句 4:** “I’m not getting at you about work by the way—I hate it when we row about that but sometimes it feels like we just never see you. And I’m sorry for the times I pretend not to understand that the launch parties or author dinners are work—but it’s hard to share you.”
-**中文理解**：Dan: "I'm not getting at you about work by the way—I hate it when we row about that but sometimes it feels like we just never see you. And I'm sorry for the times I pretend not to understand that the launch parties or author dinners are work—but it's hard to share you."
+**中文理解**：因为要省钱，他们终于答应去了一次家庭露营。Dan 承认 Emma 喜欢床、喜欢干净的床单、喜欢热水这些「享受」，但南威尔士那一周真的很棒：他闭上眼睛看到的全是那片沙滩，两个人抱着热馅饼纸袋，Poppy 在沙里横冲直撞、兜帽戴着、脚上粘着沙子，笑着、挖着、跑回来报告「有只大海鸥把那个人的冰淇淋吃了，还有人说昨天看见鲨鱼」；Miles 迈着小短腿跟在后面。
 **关键词**：I'm not getting at you about work / it feels like we just never see you / it's hard to share you
-**为什么这样写**：I'm not getting at you about work = Dan's reassurance—he's not criticizing Emma's work. "it feels like we just never see you" = Dan's loneliness—Emma is always at work. "I'm sorry for the times I pretend not to understand" = Dan's admission—he pretends not to understand that launch parties are work. "it's hard to share you" = Dan's vulnerability—Emma's work takes her away from him. This is Dan's honesty about the marriage's strain: Emma's career success is creating distance.
-**读者视角提示**：I'm not getting at you about work = Dan's reassurance; "it feels like we just never see you" = his loneliness; "it's hard to share you" = his vulnerability—Emma's work creates distance.
+**为什么这样写**：“I know you love a bed and clean sheets and INDULGENCES like hot water” 里 INDULGENCES 全大写，是 Dan 故意夸张地模仿妻子的口吻——他在用自己的方式说「我知道你不爱这些」。紧接着 “All I can see when I close my eyes is that stretch of sand” 把整封信的落点推给一个画面：闭上眼睛就能看见。“a massive seagull just ate that man’s ice-cream” 里的 A SHARK 全大写，是 Poppy 的原话被原样搬进信里——Dan 记得女儿说话的腔调。
+**读者视角提示**：「INDULGENCES」全大写＝他在模仿妻子的口吻；“All I can see when I close my eyes is that stretch of sand”＝整封信的落点是一个画面；“A SHARK”全大写＝他记得女儿说话的腔调。
 
 > **原句 5:** “Sometimes I worry you don't feel the same.”
-**中文理解**："Sometimes I worry you don't feel the same."
+**中文理解**：他们学会了用眼神交流——他喜欢这样：接上你的目光、读到你的表情、立刻知道你在想什么。嘴角一点抽动就是分享笑意，眉毛微微一抬就是全部消息。“他是个白痴。你是个白痴。我爱我们的孩子。我早就说过了。我爱你。轮到你了：我在看。”
 **关键词**：Sometimes I worry you don't feel the same
-**为什么这样写**：Sometimes I worry you don't feel the same = Dan's deepest vulnerability—he's worried Emma doesn't love him as much as he loves her. This is Dan's fear: that Emma's career, her busyness, her independence mean she doesn't need him. "You hate turning people down or disappointing people—I get that, but I suppose I'm just reminding you that I'm still here, wanting to see you, spend time with you" = Dan's plea—he's asking Emma to remember him. This is the letter's emotional core: Dan is worried about the marriage.
-**读者视角提示**：Sometimes I worry you don't feel the same = Dan's deepest vulnerability—his fear that Emma doesn't love him as much; "I'm still here, wanting to see you" = his plea.
+**为什么这样写**：“When did we learn to communicate so much by a look?” 是全信的核心句，也是这封信最动人的地方：他们有了不用语言的共享频道。“He’s an idiot. You’re an idiot.” 写的是 Dan 对自己和 Emma 的同一种评语——他把她放在并列的位置上，不是崇拜，是同盟。“Your turn: I’m reading.” 是把信直接递到读者手里：他不写信了，他跟你说话。
+**读者视角提示**：「When did we learn to communicate so much by a look?」＝全信核心；「He’s an idiot. You’re an idiot.」＝他把妻子放在并列的同盟位置；“Your turn: I’m reading.”＝把信直接递到读者手里。
 
 > **原句 6:** “Most of all Emma, I love you, so very, very much, / Dan x x”
-**中文理解**："Most of all Emma, I love you, so very, very much," Dan x x
+**中文理解**：Dan 写：那次假期现在感觉像上辈子的事了。我们生活的疯狂节奏有时还是吓到他——那个墙上的日历表有时看得他眼睛发酸（虽然他希望 Emma 尊重一下色标系统）。新的托儿所、新的学校、新的父母、新的作者、新的客户、新的房子……有时真的喘不过气。有时这让他害怕，因为他看见 Poppy 已经五岁了、长高了，像在他转身的两秒里突然蹿起来；或者听见 Miles 用了一个新词（「妙极了，爸爸！」），心里突然一痛，想起他那时还不会说话、不会走、不会自己脱尿布，也不会把尿撒在刚烘干的木地板上。最后是：谢谢你在我读稿或者翻旧合同时照顾这个家——他真的希望 Hattie 能更珍惜 Emma；他等不及她有自己的孩子，他知道她有多想要。他知道自己该停止拿这件事刺激 Ed，可 Ed 在等什么？Hattie 想要一个家庭，Ed 心里清楚。他有时真不明白 Emma 为什么这么喜欢他。Emma 和 Hattie 总拿他那个烂爹说事，可很多人都有悲惨的过去，并没有因此觉得全世界欠他们。
 **关键词**：Most of all Emma, I love you, so very, very much
-**为什么这样写**：Most of all Emma, I love you = Dan's closing—after all the lists (house, kids, Hattie, work), "most of all" = Emma is the priority. "so very, very much" = Dan's emphasis—two "very"s. "Dan x x" = two kisses (not one, not "Dan x" but "Dan x x")—Dan is expressing more love. This is the letter's closing: after the vulnerability ("Sometimes I worry you don't feel the same"), Dan reaffirms his love. The letter ends here—warm, worried, loving.
-**读者视角提示**：Most of all Emma, I love you = Dan's closing—Emma is the priority; "so very, very much" = two "very"s = emphasis; "Dan x x" = two kisses = more love than usual; this is the letter's closing.
+**为什么这样写**：“New nursery, new school, new set of parents, new authors, new clients, new house . . . sometimes it’s actually hard to catch a breath” 一串并列用省略号收尾，把「生活加速」写成一份清单，最后用「喘不过气」收束。“a sudden pang for when he couldn’t talk or walk or take his nappy off and pee over the newly laid kiln-dried timber floorboards” 用四个动作并列写父母的记忆，最末一个动作又具体又狼狈——疼的是爱。“I know I should stop needling Ed about it” 让 Dan 承认自己越界，Hattie 的困境因此不是书里的背景而是他们的家庭内部问题。“lots of people have sad stories and don’t act like the world owes them” 是 Dan 罕见的立场表态，也预告了后面 Hattie 线的走向。
+**读者视角提示**：「New nursery, new school, new set of parents」＋「new authors, new clients, new house」＝生活加速被写成一份清单；“a sudden pang for when he couldn’t talk or walk…”＝最疼的记忆是父母的四个动作；「I know I should stop needling Ed about it」＝Dan 承认自己越界，Hattie 的困境是家庭内部问题。
 
 ## 词汇
 
@@ -90,10 +90,11 @@
 Dan 的第九周年信（2015 年 12 月 3 日）——house renovation (Farrow and Ball, myrtle-green cupboards, gold sunflower clock), camping trip in South Wales, Hattie (needling Ed about kids), work (Emma works weekends), "Sometimes I worry you don't feel the same", "I love you, so very, very much."——Emma's career year, Dan's vulnerability about the marriage.
 
 ## 读者视角提示
-
-- **"Sometimes I worry you don't feel the same"**：Dan's deepest vulnerability—his fear that Emma doesn't love him as much as he loves her. "You hate turning people down or disappointing people—I get that, but I suppose I'm just reminding you that I'm still here, wanting to see you, spend time with you" = Dan's plea—he's asking Emma to remember him. This is the letter's emotional core: Dan is worried about the marriage.
-- **"I love you, so very, very much"**：Dan's closing—after the vulnerability, he reaffirms his love. "so very, very much" = two "very"s = emphasis. "Dan x x" = two kisses = more love than usual. This is the letter's closing.
-- **"you're being dramatic when you say things like that"** (ch30) vs "Sometimes I worry you don't feel the same" (ch35)：Dan's honesty has deepened—from calling Emma dramatic (ch30) to admitting his own worry (ch35). The marriage is showing strain: Emma's career success is creating distance.
-- **"I can't wait for her to have her own kids"**：Dan's wish for Hattie—she wants children. "I know I should stop needling Ed about it" = Dan's provocation. This is Dan's care for Hattie—his sister.
-- **"Most of all Emma, I love you, so very, very much"** (ch26) vs "Most of all Emma, I love you, so very, very much" (ch35)：Dan's closing has evolved—from "I love everything about you, Emma Jacobs" (ch26) to "I love you, so very, very much" (ch35). The love is the same, but the worry has grown.
-- **loop structure**：This letter is from 2015 (6 years before the present-day loop). The marriage is showing strain—Emma's career is creating distance. The present-day loop (ch02–ch34) will show the marriage's further decline (Arthur crisis, forgot letter, Dan's death). The past letters show the marriage's arc: meeting (ch01) → crisis (ch12) → separation (ch16, ch19) → fall (ch23) → recovery (ch23) → domestic bliss (ch26) → strain (ch30, ch35). The loop's tragedy: all of this history is erased when Dan dies on Dec 3, 2021. Emma relives the day Dan died, but she can't relive the years of their marriage. The loop only gives her Dec 3. The warmth of this letter (ch35) contrasts with the coldness of the present-day loop. The reader feels the loss.
+- **「I should spatter the pages of this letter with Farrow and Ball」**：用「溅」不用「刷」——信纸都该染上油漆味；抱怨完自己找补是本信全程的节奏。
+- **「you nailed it」＋「I thought was ‘a bit much’」**：他写的是自己的品味，不是她的。
+- **「I still get a thrill when I step inside the hallway」**：括号里的「I know, I know」＝他一边兴奋一边心虚地保证自己会改。
+- **「All I can see when I close my eyes is that stretch of sand」**：整封信的落点是一个画面。
+- **「He’s an idiot. You’re an idiot.」**：他把妻子放在并列的同盟位置，不是崇拜。
+- **「New nursery, new school, new parents, new authors, new clients, new house」**：生活加速被写成一份清单，最后用「喘不过气」收束。
+- **「I know I should stop needling Ed about it」**：Dan 承认自己越界——Hattie 的困境是家庭内部问题，不是背景板。
+- **loop structure**：本章是 2015 年的第九周年信（回信线，2015-12-03），紧接 2014 年（ch26）与 2016 年（ch47）；本信里的露营、装修、Hattie 想要孩子，与 ch56–ch59 的「原谅」「完美的一天」直接呼应。

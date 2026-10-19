@@ -45,7 +45,33 @@ FIELD_RE = re.compile(
 )
 BLOCK_RE = re.compile(r'^> \*\*原句 (\d+):\*\*')
 # 引号内英文整段（弯引号 / 直引号 / 书名号）
-QUOTED_RE = re.compile(r'[“"「]([^”"」]{6,})[”"」]')
+# ⚠️ 2026-10-19 修正：原正则 `[“"「]([^”"」]{6,})[”"」]` 允许**错配**——
+# 开引号与闭引号不必同类，于是 `"angry") = Dan's emotion is sadness, ... "I'm allowed"`
+# 里 `"angry"` 因内容不足 6 字符配不上，**那个闭引号被当成开引号**，
+# 一路吞到下一个 `"`，抽出 `) = Dan's emotion is sadness, ...` 这种
+# 根本不是引语的碎片，再判「全书查无」⇒ 报成「疑似伪造」假红。
+# ⇒ 改为**同类配对扫描**：开引号只找同类的闭引号，且配不上就跳过。
+_QUOTE_PAIRS = {'"': '"', '“': '”', '「': '」'}
+
+
+def _paired_quoted(body: str):
+    """逐个切出**同类配对**的引号内容；配不上的开引号直接跳过。"""
+    out, i, n = [], 0, len(body)
+    while i < n:
+        ch = body[i]
+        if ch in _QUOTE_PAIRS:
+            close = _QUOTE_PAIRS[ch]
+            j = body.find(close, i + 1)
+            if j == -1:
+                i += 1
+                continue
+            out.append(body[i + 1:j])
+            i = j + 1
+        else:
+            i += 1
+    return out
+
+
 # 裸英文词组
 BARE_RE = re.compile(r"\b[A-Za-z][A-Za-z'’-]*(?:\s+[A-Za-z][A-Za-z'’-]*){2,}\b")
 # 汉字
@@ -113,8 +139,7 @@ def collect(book_dir, only_file=None):
                 continue
             field, body = m.group(1), m.group(2)
             seen = set()
-            for qm in QUOTED_RE.finditer(body):
-                q = qm.group(1)
+            for q in _paired_quoted(body):
                 if not has_en(q) or q in seen:
                     continue
                 seen.add(q)

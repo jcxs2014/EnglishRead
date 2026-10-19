@@ -7,8 +7,8 @@
 ## 本章导航
 
 - **一句话概括**：Emma 陪 Linda 与 Arthur Chumley 去 Charter Publishing 开会，Arthur 的 "I would much rather be stuck in bed with her, not her book" 推文危机；Emma 编造 bursary scheme 谎言救场，Arthur 脱身，Emma 却被 "Shame filled me" 困住——章节以 Me @Dan chat（"Dan . . . ?"）收尾。
-- **情感弧线位置**：present-day 危机的 professional stakes（Emma 用 lie 保住 Arthur 的合同，代价是 moral compromise；这是她的 "dragging herself back from another place" 的 professional 版本）
-- **Tropes 兑现/反转**：cancel-culture meeting 作为 set piece；Emma as "subordinate, solidifying their opinion that he was the most important author"；the lie (bursary scheme) 作为 Emma's moral pivot
+- **情感弧线位置**：present-day 危机的 professional stakes（Emma 用 lie 保住 Arthur 的合同，代价是 moral compromise；这是 ch01 那句 "you're dragging yourself back from another place entirely" 的职业版本）
+- **Tropes 兑现/反转**：cancel-culture meeting 作为 set piece；Emma as "a subordinate, solidifying their own opinion that he was the most important author out there"；the lie (bursary scheme) 作为 Emma's moral pivot
 - **人物弧线**：Emma 从 "I needed to help her now" 到 "Shame filled me"；Arthur 从 "bemoaning cancel culture" 到 "bristling"; Linda 从 "barely containing her eye roll" 到 "stony"; Melissa as institutional voice
 - **叙事手法**：close third (Emma); the fart-in-lift as doom metaphor; Arthur's Samuel Johnson quote vs Melissa's "Twitter is not private"; Emma's bursary lie as her "third lie" (after ch02's two); Me @Dan chat as epistolary coda
 

@@ -6,10 +6,10 @@
 
 ## 本章导航
 
-- **一句话概括**：Emma tells Jas about the loop—she knows about the apple turnover, witches submission, audiobook contracts; Jas believes her ("That's pretty freaky shit"); Emma reveals "Dan died. He gets run over"; Jas: "You have to save him. You've been given a second chance."——the loop's purpose revealed.
+- **一句话概括**：Emma tells Jas about the loop—she knows about the apple turnover, witches submission, audiobook contracts; Jas believes her ("That's pretty freaky shit"); Emma reveals "Dan . . . Dan died."; Jas: "You have to save him. You've been given a second chance."——the loop's purpose revealed.
 - **情感弧线位置**：present-day 危机的 loop iteration #3 (Emma finally shares the loop with someone; Jas believes her; the loop's purpose = save Dan)
 - **Tropes 兑现/反转**：Groundhog Day comparison; Emma's knowledge as proof; Jas as the believer; "You've been given a second chance" as the loop's thesis
-- **人物弧线**：Emma 从 "I need to talk to you" 到 "Dan died. He gets run over"; Jas 从 "What's going on?" 到 "You have to save him"
+- **人物弧线**：Emma 从 "I need to talk to you" 到 "Dan . . . Dan died."; Jas 从 "What's going on?" 到 "You have to save him"
 - **叙事手法**：close third (Emma); the loo hiding as comedy; Jas's belief as the novel's turning point; chat interlude as workplace coda
 
 ## 精读
@@ -86,7 +86,7 @@
 
 ## 一句话总结
 
-Emma tells Jas about the loop—she knows about the apple turnover, witches submission, audiobook contracts; Jas believes her ("That's pretty freaky shit"); Emma reveals "Dan died. He gets run over"; Jas: "You have to save him. You've been given a second chance."——the loop's purpose revealed.
+Emma tells Jas about the loop—she knows about the apple turnover, witches submission, audiobook contracts; Jas believes her ("That's pretty freaky shit"); Emma reveals "Dan . . . Dan died."; Jas: "You have to save him. You've been given a second chance."——the loop's purpose revealed.
 
 ## 读者视角提示
 - **Jas 是相信者**：循环第三轮，Emma 把循环说给同事听；Jas 没有像 ch22 里 Hattie 那样把这件事归给一个梦，而是直接说 “Yep. That’s pretty freaky shit.”——她是信的人。
