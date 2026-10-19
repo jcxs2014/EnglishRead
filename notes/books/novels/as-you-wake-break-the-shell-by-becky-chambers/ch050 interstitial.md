@@ -7,7 +7,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-（待补充）
+Cora 爬上 Cypsela 表面——ugly sweet potato 般的 moonlet；她享受 view（star field, Solace, rings），pat 了最近的 rock。
 
 ## 本章导航
 

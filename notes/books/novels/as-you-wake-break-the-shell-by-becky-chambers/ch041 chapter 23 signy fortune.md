@@ -7,7 +7,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-（待补充）
+Signy 和 Cora 的 relationship deepens——通过 shared daily moments 与 quiet understanding。
 
 ## 本章导航
 

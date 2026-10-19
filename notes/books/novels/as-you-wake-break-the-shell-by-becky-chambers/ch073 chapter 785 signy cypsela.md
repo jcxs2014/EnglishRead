@@ -7,7 +7,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-（待补充）
+Signy 和 Cora 乘 The Kestrel 去 Lodestone 取 groceries——Cora 坚持给飞船取名，Signy 虽然觉得没必要但也 humored her。
 
 ## 本章导航
 

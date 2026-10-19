@@ -7,7 +7,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-（待补充）
+Signy 和 Cora 的 domestic life——signy 的 garden experiments 与 Cora 的 patience with her chaos。
 
 ## 本章导航
 

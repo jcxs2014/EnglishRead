@@ -7,7 +7,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-（待补充）
+Signy 用合法 fabricator 工作但偷偷做未授权 genome edits——her moral ambiguity and scientific passion。
 
 ## 本章导航
 

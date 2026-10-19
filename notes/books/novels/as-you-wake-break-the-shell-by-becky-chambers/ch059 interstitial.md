@@ -7,7 +7,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-（待补充）
+Chicory greens 的食谱——sautéed, boiled, chopped；极简的 recipe 形式。
 
 ## 本章导航
 

@@ -7,7 +7,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-（待补充）
+Hasty Madder 的植物档案——common name, species name, adaptation path；Signy 的 breeding record。
 
 ## 本章导航
 

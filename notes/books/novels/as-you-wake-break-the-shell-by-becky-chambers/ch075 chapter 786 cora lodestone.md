@@ -7,7 +7,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-（待补充）
+Cora 睡不着时用 tablet 学习新知识——这次学了人类进化树，发现 Lodestone 居民的"burrow deep"与 genetic ancestors 的相似性。
 
 ## 本章导航
 

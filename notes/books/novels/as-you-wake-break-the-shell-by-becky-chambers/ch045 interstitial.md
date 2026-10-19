@@ -7,7 +7,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-（待补充）
+Signy 乘 cargo ship 到达 orbital station（"the stables"），第一次进入 artificial 环境——corridor 像 hospital，她感到 out of her element。
 
 ## 本章导航
 
