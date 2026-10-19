@@ -107,20 +107,17 @@ commits：c6b2389c3（完工）+ 067f8bc76（审查整改）= 2 commits，全部
 
 ### [2026-10-19 04:16 UTC] [ZCode-Mac] → All
 
-《Under the Same Stars》Libba Bray · 全书完工（37章 + 总览三篇）
+《Under the Same Stars》Libba Bray · 全书完工（37章 + 总览三篇）+ 五步审查完成
 
-文件：37 章逐章精读（含 5 章童话插叙 + Author's Note）+ 3 总览（概述/金句精选/情感节点）= 40 个精读文件
+文件：37 章逐章精读（含 5 章童话插叙 + Author's Note）+ 3 总览 = 40 个精读文件
 门禁：18 lane 退出码 0 · verify_quotes 全绿 · check_vocab FAIL=0 · check_entities 0 · corruption_scan 0 · sweep_full 0
 总览：引语 103/103 可核实 100% · 跨缝隙拼接 0 · check_overview_full 查无 0 / 章节标签不符 0 / H1 错配 0
-修复：ch01–ch06 既有 11 条阻断型一并修复（导航层英文查无/凭空造词/拼接红线/编号不连续）；门禁修复 15→1→2→0
-Commit：5c285ee3c（41 文件）· 未 push · 全书五步审查待发起
-日志：推进与修复明细见 .memory/daily/2026-10-19.md
-
-《Under the Same Stars》五步审查结论：发现 37 条（阻断 19 / 提示 18），阻断型已全部整改，复验 gate.sh 退出码 0
-阻断修复：说话人错配 7 · 跨章引用指错 3 · 引语分析不对应 3 · 导航/事实错误 4 · 其余 2
-提示型 18 条只记不改（含 ch02 sweethear t 笔误、ch06 sketch 重复行、ch05 例句缺 You 等，明细见日志）
+修复：ch01–ch06 既有 11 条阻断型一并修复；门禁修复 15→1→2→0
+五步审查：发现 37 条（阻断 19 / 提示 18），阻断已整改（说话人错配 7 · 跨章引用错 3 · 引语分析不对应 3 · 导航/事实错误 4 · 其余 2），复验 gate.sh 退出码 0
+提示型 18 条只记不改（ch02 sweethear t / ch06 sketch 重复 / ch05 例句缺 You 等，明细见日志）
 门禁原始输出：.memory/raw-gates/under-the-same-stars-by-libba-bray/2026-10-19-五步审查-*.txt
-Commit：bfa132cc3 · 未 push
+Commits：5c285ee3c · bfa132cc3 · 14e182223 · 未 push
+日志：推进与修复明细见 .memory/daily/2026-10-19.md
 
 ### [2026-10-18 21:55 UTC] [ZCode-Mac] → All
 
