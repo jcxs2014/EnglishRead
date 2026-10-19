@@ -33,15 +33,15 @@ modified: "2026-10-19"
 
 ---
 
-> **原句 2:** “Officer Kim, I need you to check security footage of the Rivers Casino in Pittsburgh for the night Whitney was murdered.”
+> **原句 2:** “Hope you wrap up this case soon. My neighbors are asking me questions. You don’t want this to hit the news.”
 
-**中文理解**：这一块只截了 Shelby 下令的那一句。她把地点、时段和对象一次交代完：不在本地的 Rivers Casino，Whitney 被杀的那一夜，要调的是那晚的监控录像。命令下得干脆，没有一句解释。
+**中文理解**：Shelby 挂掉给 Naomi 的电话，紧接着收到父亲发来的一条短信：希望她赶紧把这案子了结；邻居已经在问他话了；他更不希望这件事见报。
 
-**关键词**：security footage of the Rivers Casino／Rivers Casino in Pittsburgh
+**关键词**：wrap up this case soon／neighbors are asking me questions／this to hit the news
 
-**为什么这样写**：同一句指令被单独拎出来，作者借重复把它的分量再压一次。第一次听到是背景，这回只剩一句话，读者被迫单独掂量它——调查从此不靠感觉跑，而靠一份别人能调出来的录像。
+**为什么这样写**：作者让父亲的短信紧跟在 Shelby 派完活之后进来，一句话就把两件事对上：她在外面查案，他在家等一个能说出去的结论。父亲那句“我的邻居在问我”把一场谋杀案压成了一场面子工程——“我”的邻居，而不是“我们”的女儿；而最后那句“不希望这件事见报”又反过来点出他真正怕的不是儿子受伤，是邻里怎么看他。Shelby 读完短信“点掉”它继续走，这个动作就是她的回答。
 
-**读者视角提示**：记住“监控录像”这四个字的分量——它是这条线上唯一能替活人作证的东西。
+**读者视角提示**：记住父亲短信里的“邻居”和“新闻”——这才是他急着结案的真实理由，也是他后来打电话、报纸那条标题背后的同一根线。
 
 ---
 
