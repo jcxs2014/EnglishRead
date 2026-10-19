@@ -1,0 +1,438 @@
+{
+ "batch": "B03",
+ "note": "",
+ "chapters": [
+  {
+   "file": "ch11 the committee meeting.md",
+   "chapter": "ch11",
+   "text_path": "text/ch11_chapter_11.txt",
+   "note": "",
+   "tail_lines": 6,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“No wonder Denise had been so insistent on a prompt start. It was an Alan meeting, and she was always fluttery about an Alan meeting.”",
+     "zh": "Emma 想起 Denise 为什么坚持准时开始——是 Alan meeting，Denise 总是 fluttery。",
+     "why": "fluttery 把 Denise 的态度写成 nervous excitement—she's performing for Alan. \"Alan meeting\" as a proper-noun phrase shows the committee's hierarchy: Alan (male, property owner) > Denise (female, chair) > the rest. \"fluttery\" is Emma's dismissive word—she sees through Denise's performance. This is the novel's satire of institutional patriarchy: Alan sweeps in with PowerPoint, Denise simmers, the women do the work.",
+     "tip": "fluttery =「紧张兴奋的、慌张的」；Alan owns the playgroup premises—his power is property-based.",
+     "flags": [
+      "MIX_ZH",
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“'The minutes, Emma. Let’s not keep everyone waiting. Alan says he has timed his casserole and can’t stay long and I for one don’t want to make him late.'”",
+     "zh": "Denise：\"会议记录，Emma。别让大家等。Alan 说他定时了 casserole，不能久留，我可不想让他迟。\"",
+     "why": "Denise's priority is Alan's schedule, not the meeting's substance. \"timed his casserole\" = Alan's domestic life (he cooks) takes precedence over the playgroup's needs. \"I for one don't want to make him late\" = Denise performing deference. The comedy: a playgroup committee meeting is being rushed for a man's casserole. Emma's \"feigned regret\" (about forgetting her laptop) is her small rebellion.",
+     "tip": "casserole =「砂锅菜」；Denise's deference to Alan is the chapter's institutional satire.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“'I just thought we could probably land on something a bit more mainstream?' I said through my teeth.”",
+     "zh": "Emma 咬牙：\"我就觉得我们大概可以选个更 mainstream 的？\"",
+     "why": "through my teeth = Emma's suppressed anger—she's biting back. \"mainstream\" is her reasonable suggestion (superheroes is mainstream enough), but Denise frames it as \"elitist\" (gymkhana). The irony: Emma is the \"kill-joy\" for wanting something normal, while Denise's \"superheroes\" is actually the more mainstream choice. Emma's teeth-clenching shows her physical restraint—she's holding back from snapping.",
+     "tip": "through my teeth =「咬牙切齿地」；mainstream =「主流的」；Emma's restraint is her pattern: she holds back, then overcompensates (chat messages, cooking promises).",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 35,
+     "quote": "“'You’re being a kill-joy,' Alan sing-songed at me, wagging a finger. 'I’m sure many women would want to give up their time for their children.'”",
+     "zh": "Alan 唱歌般：\"你扫兴。\"\"我确信很多女性会愿意为孩子奉献时间。\"",
+     "why": "sing-songed = Alan's patronizing tone—his voice goes up and down like a nursery rhyme. \"wagging a finger\" = physical condescension, like scolding a child. \"many women would want to give up their time for their children\" = Alan's gendered assumption—women's time is freely available for children; men's time (his casserole) is precious. \"kill-joy\" = Emma is framed as the problem for wanting efficiency. This is the novel's sharpest institutional satire: Alan, a man who owns the premises, tells women to give up their time.",
+     "tip": "sing-songed =「 singsong 地」；wagging a finger =「摇手指」；kill-joy =「扫兴的人」。Alan's \"many women\" is the chapter's central irony—Emma IS a woman giving her time, and it's destroying her marriage.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 41,
+     "quote": "“Catrin gave me a sympathetic grimace. I hope Alan’s lentil casserole burned through.”",
+     "zh": "Catrin 给 Emma 一个同情的 grimace；Emma 希望 Alan 的 lentil casserole 烧穿。",
+     "why": "sympathetic grimace = Catrin's wordless solidarity—she can't speak (Denise's meeting) but her face shows support. \"I hope Alan's lentil casserole burned through\" = Emma's private revenge fantasy, written in the minutes (she's taking notes, but her mind is elsewhere). The casserole (Alan's domestic life) burning through = Emma's wish for his comfort to fail. This is Emma's passive resistance: she can't fight Alan directly, but she can wish his casserole burned.",
+     "tip": "grimace =「鬼脸」；burned through =「烧穿」；Emma's private fantasy is her only outlet in the meeting.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 47,
+     "quote": "“Missed Call: Hattie (2) / Missed Call: School Office (2)”",
+     "zh": "未接来电：Hattie (2) / 学校办公室 (2)。",
+     "why": "The chat interlude's final lines are the chapter's cliffhanger: Hattie called twice (Emma's closest friend, neglected), School Office called twice (Miles's secret escalating). The (2) = urgency—each called twice, Emma didn't answer. This is the loop's pressure: Emma's world is calling and she's not picking up. \"School Office (2)\" is the Miles crisis—something has happened at school. The parallel structure (Hattie (2) / School Office (2)) links personal (friend) and professional (child) neglect.",
+     "tip": "Missed Call: Hattie (2) / School Office (2) = the chapter's cliffhanger; Emma's missed calls are the loop's escalating pressure—she's not answering anyone. \"you can't do it all!\"：Catrin's thesis is the chapter's moral center—Emma cannot do everything, and her attempt to do so is destroying her marriage, her children, her friendships. Emma hears it but doesn't act. Alan as patriarch：Alan owns the premises, sweeps in with PowerPoint, tells women to \"give up their time for their children,\" and leaves for his casserole. The committee's hierarchy mirrors publishing's: men make decisions, women do the work. \"Missed Call: Hattie (2) / School Office (2)\"：the chapter's cliffhanger. Hattie called twice (Emma's closest friend, neglected), School Office called twice (Miles's crisis). The parallel (2) = urgency. Emma is not answering anyone—her phone is full of missed connections. Miles's secret escalating：\"Don't tell?\" (ch10) + \"School Office (2)\" (ch11) = Miles's crisis is deepening. Emma promised \"We'll sort it at breakfast\" but went to the committee meeting instead. The loop's hidden thread tightens. Chat interlude：Jas/Hayley/Claire/Emma@Dan/Amelia/School Office's messages show Emma's world fragmenting—Arthur crisis (Hayley), Amelia's non-delivery (Claire), Dan's \"Coming home now!\" (Emma@Dan), Amelia's excuses (Amelia@Emma), School Office's calls. Emma is the hub of a wheel that's coming off.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ch12 four years.md",
+   "chapter": "ch12",
+   "text_path": "text/ch12_chapter_12.txt",
+   "note": "",
+   "tail_lines": 6,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“You looked so in control: bright eyes, flushed skin, a book in one hand and Poppy nestled in the crook of your other arm, her tiny hand grazing your chest, her eyes rested closed.”",
+     "zh": "Emma 看起来 so in control：bright eyes, flushed skin, 一只手拿书，另一只胳膊 crook 里 nestled 着 Poppy，她的小手 grazing Emma 的胸，eyes rested closed。",
+     "why": "in control 是 Dan 对 Emma 的 perception—she's managing motherhood effortlessly while he struggles. \"bright eyes, flushed skin\" = Emma's vitality; \"a book in one hand\" = she's still reading (her passion from ch09). \"Poppy nestled in the crook of your other arm, her tiny hand grazing your chest\" = the image of maternal ease that Dan envies. \"When you turned the page you didn't even nudge her\" = Emma's multitasking mastery. Dan's awe at Emma's competence is also his shame: he can't match it.",
+     "tip": "crook =「臂弯」；grazing =「轻触」；nestled =「依偎」；Dan's perception of Emma as \"in control\" is the novel's central asymmetry—he sees her as capable, she feels alone.",
+     "flags": [
+      "MIX_ZH",
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“I always thought I’d be a pretty good dad. I had clips in my head: me chucking some happy, giggling child in the air, running across sand chasing them. But having Poppy, this tiny, fragile baby—more often crying than smiling—has thrown me.”",
+     "zh": "Dan 总以为自己会是 pretty good dad；他有 clips in his head：把快乐咯咯笑的孩子抛向空中、在沙滩上追他们。但 Poppy 这 tiny, fragile baby—more often crying than smiling—has thrown him。",
+     "why": "clips in my head = Dan's fantasy of fatherhood (film-like, idealized). \"chucking some happy, giggling child in the air\" = his imagined future, all joy. \"But having Poppy, this tiny, fragile baby—more often crying than smiling—has thrown me\" = reality's collision with fantasy. thrown me = Dan's disorientation—he's lost his script. \"more often crying than smiling\" = Poppy's actuality vs his fantasy. This is Dan's core struggle: the gap between imagined and real fatherhood.",
+     "tip": "clips =「片段、剪辑」；thrown me =「把我甩了、让我措手不及」；Dan's fantasy-reality gap is the letter's emotional engine.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“It feels like complaining about a broken furnace to someone who’s homeless.”",
+     "zh": "\"向无家可归的人抱怨暖气坏了\"。",
+     "why": "The simile is Dan's self-deprecation—his struggles (fatherhood) are trivial compared to Emma's (recovery from caesarean, birth plan upended, nausea, back pain). \"broken furnace\" = his emotional coldness; \"homeless\" = Emma's greater suffering. Dan minimizes his own pain because Emma's is greater. This is his pattern: he doesn't complain, he withdraws (\"I leave the room every time I try and talk to you about her\" — Emma's unsent letter). The simile shows Dan's self-awareness but also his inability to express need.",
+     "tip": "furnace =「暖气炉」；homeless =「无家可归的」；Dan's self-minimization is his coping mechanism—he can't ask for help because Emma's suffering is greater.",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 35,
+     "quote": "“I know I need to do better.”",
+     "zh": "\"我知道我需要做得更好。\"",
+     "why": "This phrase appears twice in the letter (lines 24 and 53)—repetition as refrain. \"I know I need to do better\" is Dan's acknowledgment without action: he knows but doesn't change. This will recur in present-day (ch08: \"You said you would quit\" = Dan's version of the same refrain, but directed at Emma). The phrase is the marriage's central irony: both know they need to do better, neither does.",
+     "tip": "This is Dan's recurring refrain—\"I know I need to do better\" appears twice here, and will echo in present-day as \"You said you would quit.\" The gap between knowing and doing is the marriage's engine.",
+     "flags": [
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 41,
+     "quote": "“I still think of that last visit to the house, her skeletal hand gripping mine. She asked me if it was a boy or a girl. We were going to keep it as a surprise but I told her it was a girl. We both knew she wouldn’t live to see for herself.”",
+     "zh": "他想起 last visit，她 skeletal hand gripping his；她问是男孩女孩；他们原想惊喜，但他说了是女孩；两人都知她不会活到 see for herself。",
+     "why": "skeletal hand = Dan's mother's terminal illness (cancer?)—her body is wasting. \"She asked me if it was a boy or a girl\" = her last connection to the future she won't see. \"We both knew she wouldn't live to see for herself\" = the shared knowledge of impending death. This is Dan's grief: not just losing his mother, but losing her from Poppy's life. \"How does life change like that?\" = Dan's bewilderment at mortality's speed (airport sign → diagnosis). The mother's absence haunts the marriage: Dan withdraws into grief, Emma feels abandoned.",
+     "tip": "skeletal =「骨骼的、皮包骨的」；\"wouldn't live to see for herself\" = her death is imminent; this is the grief that will paralyze Dan throughout the novel. Emma's unsent letter: \"you can't leave the room every time I try and talk to you about her.\"",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 47,
+     "quote": "“*unsent* / Dear Dan, / I don’t have the energy for a long letter. And writing this reminds me of our other letters. I don’t recognize the people in those letters.”",
+     "zh": "unsent letter：Emma 给 Dan——\"我没精力写长信。写这个让我想起我们其他信。我不认得那些信里的人。\"",
+     "why": "unsent = Emma's suppressed truth—she writes but doesn't send. \"I don't have the energy for a long letter\" = her exhaustion (postpartum, grief, neglect). \"I don't recognize the people in those letters\" = the marriage's alienation—Dan's letters (ch01, ch05, ch09, this one) are romantic, but the people in them (the couple who met on the tube, who flew to Sydney) are gone. This is the novel's central tragedy: the letters persist, but the people who wrote them have changed. Emma's unsent letter is her first unfiltered voice—she's not performing for Dan, she's raw.",
+     "tip": "unsent =「未发送的」；\"I don't recognize the people in those letters\" = the marriage's alienation; this is Emma's first unfiltered voice in the novel (all previous Emma-voice is filtered through narration or Dan's letters).",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 7,
+     "line": 53,
+     "quote": "“you can’t leave the room every time I try and talk to you about her. God, Dan, you’re so good at leaving the room or hiding behind 'work.'”",
+     "zh": "\"你不能每次我试着和你谈她就离开房间。天啊，Dan，你太擅长离开房间或躲在'工作'后面了。\"",
+     "why": "leaving the room is Dan's grief-avoidance strategy—he physically exits when Emma mentions his mother. \"hiding behind 'work'\" = Dan's professional withdrawal (he's \"busy\" with strategy consultancy). Emma's frustration: she's grieving too (she lost a mother-in-law she loved), but Dan won't share. \"It's not work when you come back in drunk from a client meeting in some bar, waking up Poppy, apologizing with wine breath\" = Dan's drinking as escape. This is the marriage's crack: grief + newborn + Dan's withdrawal = Emma's isolation.",
+     "tip": "leaving the room = Dan's physical avoidance; \"hiding behind 'work'\" = his professional escape; \"wine breath\" = his drinking. Emma's unsent letter reveals the marriage's hidden crisis.",
+     "flags": [
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 8,
+     "line": 59,
+     "quote": "“Oh God, I can’t give this to you. I can’t tell you this stuff. And I know you don’t want to be like this. That grief for your mum, becoming parents, has turned your whole world upside-down. But you’re not yourself, Dan, you’re lost and I can’t get to you. So wherever you are please come back, pleas—”",
+     "zh": "\"Oh God, 我不能把这个给你。我不能告诉你这些。我知道你不想这样。你妈妈的 grief、成为父母，把你的整个世界翻转了。但你不是你自己了，Dan，你 lost 了，我够不到你。所以无论你在哪请回来，pleas—\"",
+     "why": "I can't give this to you is Emma's suppression—she can't send the truth because it would hurt Dan. \"you're lost and I can't get to you\" = Emma's perception of Dan's depression/grief; she's reaching but can't reach (mirroring ch02's \"dragging herself back from another place\" but now Dan is the one elsewhere). \"please come back, pleas—\" = the letter's trailing off—Emma can't finish the plea, can't finish the word \"please.\" The em dash + incomplete word = Emma's voice breaking off. This is the novel's most raw moment: Emma's love and frustration, unsent, unfinished.",
+     "tip": "pleas— = Emma's voice breaking off (incomplete word); \"you're lost and I can't get to you\" = Dan's grief-depression; \"I can't give this to you\" = Emma's suppression. The unsent letter is the novel's hidden truth—Emma's real feelings, never shared with Dan. unsent letter：这是全书 Emma 的 first unfiltered voice—所有之前的 Emma-voice 都经过叙述过滤或 Dan 的信。unsent letter 揭示 Emma 的真实感受：Dan 的 grief withdrawal, 她的 isolation, 她的 resentment. \"I don't recognize the people in those letters\" 是 marriage 的 alienation. \"I know I need to do better\"：Dan's recurring refrain（出现两次）。这是 marriage 的 central irony: both know they need to do better, neither does. This phrase will echo in present-day as \"You said you would quit.\" Dan's mum：skeletal hand, Italian swearing, farting in tent—Dan's grief is specific, embodied. \"How does life change like that? One minute she'd been picking us up from the airport... And then she was sitting me and Hattie down...\" = mortality's speed. \"please come back, pleas—\"：Emma's voice breaking off (incomplete word \"please\"). This is the novel's most raw moment—Emma's love and frustration, unsent, unfinished. The em dash + incomplete word = her inability to finish the plea. \"you're lost and I can't get to you\"：Dan's grief-depression; Emma is reaching but can't reach. This mirrors ch02's \"dragging herself back from another place\" but now Dan is the one elsewhere. The loop's emotional throughline: someone is always \"elsewhere.\"",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ch13 the loop.md",
+   "chapter": "ch13",
+   "text_path": "text/ch13_chapter_13.txt",
+   "note": "",
+   "tail_lines": 7,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“I bashed myself on the bloody bike as I flew in, flinging my coat at a hook and missing.”",
+     "zh": "Emma 飞奔回家，撞上 bloody bike，把外套扔向 hook 没挂住。",
+     "why": "bashed myself = Emma's physical collision with the bike (which she still hasn't removed—ch04's \"handlebars of my bike dug into my side\"). \"bloody bike\" = her frustration at the obstacle she created and won't remove. \"flinging my coat at a hook and missing\" = her carelessness—she throws, doesn't place. This is Emma's physical signature: rushing, colliding, missing. The bike (unsold, unremoved) is the chapter's first symbol of Emma's inaction.",
+     "tip": "bashed =「猛撞」；bloody =「该死的」（英式）；flinging =「猛扔」；the bike is Emma's self-created obstacle.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“I reached the kitchen. There was no one there: two clean plates, the table laid—but no Dan.”",
+     "zh": "她到厨房，没人；两块干净盘子，桌子摆好——但没有 Dan。",
+     "why": "\"no one there\" = Emma's arrival into emptiness—Dan has set the table but isn't there (he's with Miles). \"two clean plates, the table laid\" = Dan's care (he cooked, set the table). \"but no Dan\" = the absence that defines Emma's homecoming—she's always arriving to someone who's already left or about to leave. This is the loop's domestic pattern: Dan prepares, Emma arrives late, Dan is gone.",
+     "tip": "table laid =「摆好桌子」；\"but no Dan\" = Dan's absence as Emma's arrival pattern.",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“Both looked up and Dan gave me a warning look and then plastered a smile on his face as he ruffled Miles’s hair, 'He’s just off upstairs, aren’t you?'”",
+     "zh": "两人都抬头，Dan 给 Emma 一个 warning look，然后 plastered a smile，ruffle Miles 的头发：\"他就要上楼了，是不是？\"",
+     "why": "warning look = Dan signaling Emma to be careful (Miles is upset). \"plastered a smile\" = Dan performing normalcy for Miles—his smile is a mask, not genuine. \"He's just off upstairs, aren't you?\" = Dan managing Miles's exit, deflecting Emma's questions. This is Dan's parenting: he protects Miles from Emma's intensity. The \"warning look\" shows Dan and Emma's communication has become coded—looks, not words.",
+     "tip": "plastered =「贴上去的、强装的」；warning look =「警告的眼神」；Dan is managing both Miles and Emma.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 35,
+     "quote": "“I had it in my bag all day. So I just put it there while you were gone.”",
+     "zh": "Emma 又一次 lied：\"我包里带了一天。我刚才去厕所时才放那。\"",
+     "why": "This is the identical lie from ch02 (verbatim repetition). The loop: Emma forgot the letter, lied the same lie, Dan didn't believe (again). \"I had it in my bag all day\" is Emma's default forgery narrative—she's repeating the same lie because she has no other strategy. The loop's tragedy: Emma doesn't learn; she repeats. Dan's \"I don't believe you, Emma\" is also repeated. The déjà vu is structural: ch02 and ch13 are the same scene with variations (Miles awake, orange flowers, Dan's dinner).",
+     "tip": "This is verbatim repetition from ch02—Emma's loop. The lie is her \"go-to\" because she has no other strategy. The loop doesn't improve; it repeats.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 41,
+     "quote": "“I’m not being like anything. I’m allowed to be bloody sad.”",
+     "zh": "\"我啥样都没。我有权利 bloody sad。\"",
+     "why": "This is Dan's identical line from ch02 (verbatim). \"I'm allowed to be bloody sad\" = Dan's assertion of his right to grief/hurt. \"bloody\" (British intensifier) + \"sad\" (not \"angry\") = Dan's emotion is sadness, not rage—he's hurt, not furious. The repetition shows the loop: Dan says the same thing because the same thing keeps happening. \"I'm allowed\" = he's claiming his right to feel, against Emma's \"Why are you making such a big deal?\"",
+     "tip": "This is verbatim from ch02—Dan's loop line. \"bloody sad\" (not \"angry\") = his emotion is hurt, not rage.",
+     "flags": [
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 47,
+     "quote": "“'Were you fighting?'”",
+     "zh": "",
+     "why": "",
+     "tip": "",
+     "flags": [
+      "NO_ZH",
+      "NO_WHY",
+      "NO_TIP"
+     ]
+    },
+    {
+     "n": 7,
+     "line": 50,
+     "quote": "“'No, darling. It was the telly. Night, night.'”",
+     "zh": "Miles 问 \"你们在打架吗？\" Emma 答 \"不是，宝贝。是电视。晚安。\"",
+     "why": "Miles's \"Were you fighting?\" is identical to ch02—child-as-witness. Emma's \"It was the telly\" is her second lie (again from ch02). The loop: Miles asks the same question, Emma gives the same lie. Miles's presence (he's awake, he heard) adds new information: the children are witnesses to the loop. \"taking two steps at a time\" = Miles escaping the scene. \"Love you\" = Emma's trailing words (she says it after he's gone).",
+     "tip": "\"Were you fighting?\" / \"It was the telly\" = verbatim from ch02—loop repetition. Miles as witness = new information.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 8,
+     "line": 56,
+     "quote": "“I had royally screwed up. Dan deserved so much better than this.”",
+     "zh": "Emma 自承 \"I had royally screwed up. Dan deserved so much better than this.\"",
+     "why": "royally screwed up = Emma's self-assessment (stronger than ch08's \"I've been shit\"). \"Dan deserved so much better than this\" = her guilt—she knows she's failing him. \"And then to be angry at him when I'd been the one at fault\" = she recognizes her misdirection (yelling at Dan for \"pulling on Gus\" when she was the one who forgot). \"A loud bang made me jump. The wail of an alarm followed, high-pitched, over and over.\" = the loop's reset trigger—the same sound from ch02's ending.",
+     "tip": "royally screwed up =「 royally 搞砸了」；the alarm sound = the loop's reset trigger, identical to ch02's ending.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 9,
+     "line": 62,
+     "quote": "“My skin broke into goosebumps as my head turned toward our front door.”",
+     "zh": "",
+     "why": "",
+     "tip": "",
+     "flags": [
+      "NO_ZH",
+      "NO_WHY",
+      "NO_TIP"
+     ]
+    },
+    {
+     "n": 10,
+     "line": 65,
+     "quote": "“What was that?”",
+     "zh": "\"我的皮肤起满鸡皮疙瘩，头转向前门。/ 那是什么？\"",
+     "why": "This is verbatim from ch02's ending (\"My skin broke into goosebumps as my head turned toward the door. / What was that?\"). The loop: same sound, same reaction, same question. But this time the reader knows more (Miles is awake, Dan left, Emma forgot the letter again). The repetition with added context creates dramatic irony: Emma doesn't know she's in a loop, but the reader does. \"What was that?\" is the loop's reset question—unanswered, hanging.",
+     "tip": "This is verbatim from ch02's ending—the loop's reset trigger. Reader now has more context (Miles awake, Dan left) but Emma doesn't know she's looping. The dramatic irony is maximum. loop repetition：ch02 和 ch13 是 the same day with variations. ch02 = Emma's first \"Oh my God.\" (sound at door); ch13 = same sound, same reaction, but now reader knows more (Miles awake, Dan left, Emma forgot letter again). The repetition is the loop's structure. Miles as witness：Miles's \"Were you fighting?\" (identical to ch02) + \"Love you\" (trailing) + taking two steps at a time (escaping) = the child's perspective on the loop. He's watching his parents repeat. \"I had it in my bag all day\" (verbatim from ch02)：Emma's default forgery narrative—she has no other strategy. The loop doesn't improve; it repeats. Dan's \"I don't believe you, Emma\" is also repeated. \"What was that?\"：the loop's reset trigger, identical to ch02. Unanswered, hanging. Reader recognizes the loop; Emma doesn't. orange flowers + envelope with my name：Dan's anniversary gestures (flowers, letter) mirror ch08 (orange roses). Emma's guilt (\"I had royally screwed up\") is deeper—she knows she's repeating. \"Miles was already halfway up the staircase, taking two steps at a time\"：Miles escaping the scene = the child's response to parental conflict. This is the loop's generational echo: Emma's childhood (parents' rows) → Miles's childhood (parents' rows).",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ch15 the aftermath.md",
+   "chapter": "ch15",
+   "text_path": "text/ch15_chapter_15.txt",
+   "note": "",
+   "tail_lines": 7,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“I don’t remember moving toward Dan until my knees scratched on the tarmac, my palms sticky as I knelt by his head.”",
+     "zh": "Emma 不记得自己 how she moved toward Dan，直到 knees scratched on tarmac, palms sticky as she knelt by his head。",
+     "why": "don't remember moving = Emma's dissociation—her body acted without her mind's participation. \"knees scratched on the tarmac\" = physical injury from kneeling (she's hurting herself). \"palms sticky\" = Dan's blood on her hands. This is the loop's first aftermath moment: Emma is physically present but mentally absent—she's \"dragging herself back from another place\" but this time the \"another place\" is grief, not distraction.",
+     "tip": "scratched =「擦伤」；sticky =「黏的」（blood）；Emma's dissociation is the loop's grief mechanism.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“There was nothing there of Dan.”",
+     "zh": "\"Dan 已经不在了。\"",
+     "why": "nothing there of Dan = Dan's essence is gone—his eyes are open but empty (\"staring unseeingly\"). \"nothing there\" = the body is Dan's but Dan isn't in it. This is the novel's most devastating observation: death as absence, not presence. \"His expression was strange, unfamiliar\" = the face she knew is gone. \"His face slack, cheek crushed against the hard ground\" = the physical reality of death. \"There was nothing there of Dan\" is the loop's \"After\" arriving—Dan is gone, and Emma is alone.",
+     "tip": "nothing there of Dan = Dan's essence is gone; this is the loop's \"After\" moment—Dan is dead, the loop will reset.",
+     "flags": [
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“This wasn’t what he wanted.”",
+     "zh": "",
+     "why": "",
+     "tip": "",
+     "flags": [
+      "NO_ZH",
+      "NO_WHY",
+      "NO_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 32,
+     "quote": "“He wanted to die in his bed. He told me.”",
+     "zh": "\"这不是他想要的。他想在床里死。他告诉过我。\"",
+     "why": "This is Emma's memory of Dan's wish (from ch09: \"I want to die in my bed. With you. When we've really lived.\"). \"He wanted to die in his bed. He told me.\" = Emma's guilt—she couldn't give him his wish. \"He hadn't wanted this\" = the gap between Dan's wish and reality. \"I hoped Gus had been the last thing he'd seen\" = Emma's consolation—she hopes Dan's last sight was Gus, not the car, not the road. This is Emma's grief mechanism: she constructs a better ending for Dan in her mind.",
+     "tip": "\"He wanted to die in his bed\" = Dan's wish from ch09; \"I hoped Gus had been the last thing he'd seen\" = Emma's consolation fantasy.",
+     "flags": [
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 38,
+     "quote": "“My words hit him like they were real things, his face shocked, tiny body crumpling where he stood on the bottom stair.”",
+     "zh": "Emma 的话像 real things 一样 hit him，his face shocked，tiny body crumpling where he stood on the bottom stair。",
+     "why": "hit him like they were real things = Emma's words have physical force—she's telling Miles his father is dead, and the words hit like objects. \"tiny body crumpling\" = Miles's physical collapse—his body can't hold him up. \"where he stood on the bottom stair\" = Miles was on the bottom stair (the same stair from ch10 where he stood when Emma found him and Poppy arguing). \"We stared at each other, time still for those seconds\" = time stopping—the loop's first pause.",
+     "tip": "crumpling =「 crumpling」；\"time still for those seconds\" = the loop's first pause; Miles on the bottom stair = same location as ch10's argument.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 44,
+     "quote": "“I never read it.”",
+     "zh": "\"我从没读过它。\"",
+     "why": "I never read it = Emma's confession about Dan's letter (the envelope with the heart, still unopened on the table). \"I never read it\" is the chapter's terminal confession—she never read Dan's last letter to her. This is the novel's most devastating detail: Dan wrote her a letter (as he did every anniversary), and she never read it. The envelope, with his name and a small heart, sits on the table. Emma's guilt (\"I knew I would regret those things until my very last day\") is compounded by this unread letter. The letter motif (ch01, ch05, ch09, ch12) reaches its tragic end: Dan's last letter is unread.",
+     "tip": "I never read it = Emma's confession about Dan's last letter; the envelope (with heart) is on the table; this is the letter motif's tragic end—Dan's last letter, unread by Emma.",
+     "flags": [
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 7,
+     "line": 50,
+     "quote": "“The Day After. The Community Support Officer. The day I had to call Dan’s dad. Had to call Hattie. Oh my God, poor Hattie.”",
+     "zh": "\"The Day After. Community Support Officer. 我必须打电话给 Dan 的爸爸。必须打电话给 Hattie。Oh my God, poor Hattie.\"",
+     "why": "The Day After = the novel's temporal marker—the loop's \"After\" has arrived. \"The Community Support Officer\" = the bureaucratic reality of death. \"The day I had to call Dan's dad\" = Emma's dread (Dan's dad is already a widow). \"Had to call Hattie\" = Emma's guilt (Hattie is Dan's sister, Emma's closest friend). \"Oh my God, poor Hattie\" = Emma's empathy for Hattie, even in her own grief. This is Emma's character: even in crisis, she thinks of others.",
+     "tip": "The Day After = the novel's temporal marker; \"poor Hattie\" = Emma's empathy; the loop's \"After\" has arrived—Dan is dead, and the loop will reset. \"I never read it\"：这是全书最 devastating 的细节——Dan 写了最后一封信（如每年一样），Emma 从没读。信封（带 heart）在桌上。Emma 的 guilt（\"I knew I would regret those things until my very last day\"）被这未读的信加重。信件 motif（ch01, ch05, ch09, ch12）到达悲剧终点。 \"The Day After\"：这是 novel 的 temporal marker——loop 的 \"After\" 已到达。Dan 死了，loop 会重置，Emma 会醒来、Dan 会活着（但 Emma 会忘记）。\"The Day After\" = the novel's new temporal zone. Gus as witness：Gus circling Dan's body (ch14), howling (ch14), \"something broke inside me\" (ch14), now \"good boy, good boy\" (ch15) = Gus 是 loop 的 witness。他记得 Dan，即使 Emma 忘了。 children's reactions：Miles crumpling (ch15) = \"most placid child\" 的 collapse; Poppy screaming (ch15) = her explosion. The generational echo: Emma's childhood (parents' rows) → Miles/Poppy's childhood (father's death). The loop's generational dimension. \"This wasn't what he wanted\"：Dan's wish (ch09: \"die in my bed, with you, when we've really lived\") vs reality (car accident, road, ice). Emma's guilt: she couldn't give him his wish. loop structure：ch02 (sound) → ch13 (same sound, Miles awake) → ch14 (Emma finds Dan dead) → ch15 (aftermath, \"The Day After\"). The loop's four iterations. The reader now sees the full cycle. The loop will reset from \"Dan was gone.\" (ch14's terminal sentence).",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    }
+   ]
+  }
+ ]
+}

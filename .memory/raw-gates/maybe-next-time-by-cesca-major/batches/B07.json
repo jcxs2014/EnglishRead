@@ -1,0 +1,345 @@
+{
+ "batch": "B07",
+ "note": "",
+ "chapters": [
+  {
+   "file": "ch28 quitting.md",
+   "chapter": "ch28",
+   "text_path": "text/ch28_chapter_28.txt",
+   "note": "",
+   "tail_lines": 8,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“'You know, Alan, this little gathering,' I said suddenly, 'runs the playgroup for you, without which you wouldn't pay your mortgage.'”",
+     "zh": "\"You know, Alan, this little gathering,\" Emma 突然说，\"runs the playgroup for you, without which you wouldn't pay your mortgage.\"",
+     "why": "this little gathering = Emma's reclamation—she's naming the committee's value (it runs the playgroup). \"runs the playgroup for you\" = the committee does the work, Alan benefits. \"without which you wouldn't pay your mortgage\" = Emma's sharpest accusation—Alan's mortgage depends on the women's unpaid labor. This is the novel's institutional critique: women's invisible labor sustains men's property. Alan \"blinked twice\" = his shock at being challenged.",
+     "tip": "this little gathering = Emma's reclamation; \"without which you wouldn't pay your mortgage\" = the novel's sharpest institutional critique; Alan's \"blinked twice\" = his shock.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“'I'm stepping down from the committee,' I said in a rush, knowing I needed to do this quickly, otherwise I would end up apologizing, going back on myself.”",
+     "zh": "\"I'm stepping down from the committee,\" Emma said in a rush, knowing she needed to do this quickly, otherwise she would end up apologizing, going back on herself。",
+     "why": "I'm stepping down = Emma's declaration—she's quitting. \"in a rush\" = she's forcing herself—she knows if she hesitates, she'll apologize and stay (her pattern). \"knowing I needed to do this quickly, otherwise I would end up apologizing, going back on myself\" = Emma's self-awareness—she knows her own pattern (apologize, stay, overcommit). This is Emma's correction: she's breaking her pattern of overcommitment. \"going back on myself\" = her fear of reversal—she's afraid she'll undo her own decision.",
+     "tip": "I'm stepping down = Emma's declaration; \"in a rush\" = she's forcing herself; \"going back on myself\" = her fear of reversal; this is Emma's correction—breaking her overcommitment pattern.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“'Women on this committee have often proved to be notoriously flaky, not you of course, Denise, not you.'”",
+     "zh": "Alan：\"Women on this committee have often proved to be notoriously flaky, not you of course, Denise, not you.\"",
+     "why": "notoriously flaky = Alan's gendered insult—women are unreliable. \"not you of course, Denise, not you\" = Alan's patronizing exception—Denise is \"not flaky\" because she serves him. This is the novel's sharpest institutional satire: Alan, a man who owns the premises and \"can't stay long\" because of his casserole, calls women \"flaky.\" The irony: Emma is quitting because she's OVER-committing, not under-committing. Alan's \"flaky\" is projection—he's the one who's flaky (he doesn't come to most meetings).",
+     "tip": "notoriously flaky = Alan's gendered insult; \"not you of course, Denise\" = his patronizing exception; the irony: Emma is over-committing, not under-committing.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 35,
+     "quote": "“'And we're not flaky, we're overworked and expected to juggle an insane number of things with fuck-all thanks.'”",
+     "zh": "\"And we're not flaky, we're overworked and expected to juggle an insane number of things with fuck-all thanks.\"",
+     "why": "we're not flaky = Emma's rebuttal—she's rejecting Alan's gendered insult. \"overworked\" = the truth—women on the committee are overworked. \"juggle an insane number of things\" = Emma's description of her own life (from ch04: \"brain flying off in five different directions\"). \"fuck-all thanks\" = Emma's anger—she's done with being unappreciated. The profanity (\"fuck-all\") shows Emma's breaking point—she's done being polite. This is Emma's first real anger at the institution.",
+     "tip": "overworked = the truth; \"juggle an insane number of things\" = Emma's life (ch04); \"fuck-all thanks\" = her breaking point; this is Emma's first real anger at the institution.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 41,
+     "quote": "“'I'm sorry, I really am,' I said. 'But I am sure you can agree things without me anyway, and put a call-out for other volunteers. And I've done my time, more than my time,' I added.”",
+     "zh": "\"I'm sorry, I really am,\" Emma said. \"But I am sure you can agree things without me anyway, and put a call-out for other volunteers. And I've done my time, more than my time,\" she added。",
+     "why": "I've done my time = Emma's assertion—she's served, she's done. \"more than my time\" = she's over-served—she's given more than required. \"I'm sorry, I really am\" = Emma's politeness—she's still apologizing even as she quits. \"put a call-out for other volunteers\" = her suggestion for replacement. This is Emma's graceful exit—she's sorry but firm. \"I've done my time\" is the chapter's key phrase: Emma is recognizing her own labor and its value.",
+     "tip": "I've done my time, more than my time = Emma's assertion—she's served, she's done; this is her recognition of her own labor.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 47,
+     "quote": "“'Be free!' she called after me as I turned toward home, toward Dan. 'Be free!'”",
+     "zh": "\"Be free!\" Catrin called after Emma as she turned toward home, toward Dan. \"Be free!\"",
+     "why": "Be free! = Catrin's blessing—she's releasing Emma. \"turned toward home, toward Dan\" = Emma's direction—she's going home to Dan. The repetition (\"Be free!\" twice) = Catrin's emphasis—she's shouting it. This is the chapter's terminal blessing: Emma is free from the committee, free to go home to Dan. \"Be free!\" is the novel's most liberating phrase.",
+     "tip": "Be free! = Catrin's blessing; \"turned toward home, toward Dan\" = Emma's direction; the repetition = Catrin's emphasis; this is the chapter's terminal blessing. \"I've done my time, more than my time\"：Emma's recognition of her own labor—she's served, she's done. This is Emma's correction: she's breaking her pattern of overcommitment. The committee was Emma's avoidance mechanism (she used it to escape family). Quitting is her first step toward being present. \"we're not flaky, we're overworked\"：Emma's rebuttal of Alan's gendered insult. \"juggle an insane number of things with fuck-all thanks\" = Emma's description of her life (ch04: \"brain flying off in five different directions\"). This is Emma's first real anger at the institution. \"Be free!\"：Catrin's blessing—she's releasing Emma. \"turned toward home, toward Dan\" = Emma's direction. The repetition = Catrin's emphasis. This is the chapter's terminal blessing: Emma is free from the committee, free to go home to Dan. \"I thought of Hattie... I'd taken that for granted\"：Emma's recognition of Hattie's value—she's been neglecting Hattie (ch04: left Hattie's message unopened; ch22: \"I hadn't seen Hattie in weeks\"). This is Emma's correction: she's recognizing Hattie's importance. \"I thought of Miles, lonely and sad at home\"：Emma's recognition of Miles's loneliness—she's been missing it (ch27: \"I want a best friend\"). This is Emma's correction: she's seeing Miles. \"I thought of Dan\"：Emma's thought of Dan—the loop's emotional center. She's quitting for Dan, for them. loop structure：ch20 (loop #3, Emma tries to change small things) → ch21 (loop #3 continues, Emma's big change backfires) → ch22 (loop #3 continues, Emma tries to share with Hattie) → ch24 (loop #3 continues, Emma shares with Jas) → ch25 (loop #3 continues, Emma calls Dan) → ch27 (loop #3 continues, Emma writes letter, Miles's secret) → ch28 (loop #3 continues, Emma quits committee). The loop is giving Emma more agency each iteration. She's making corrections: writing the letter, calling Dan, sharing with Jas, quitting the committee. But the outcome (Dan's death) remains fixed. The loop's central tension: can Emma change the outcome? The novel's answer is in the remaining chapters. Emma's \"I'd been given a chance to stop it\" (ch24) = her mission. Can she? The loop suggests: small changes are allowed, but the big event (Dan's death) may be fixed. Emma's tragedy: she can't make the one change that matters (preventing Dan's death) without making things worse. The loop's answer will be in ch29+—Emma will try to prevent Dan's death directly. Will she succeed? The novel's answer is in the ending.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ch29 the attempt.md",
+   "chapter": "ch29",
+   "text_path": "text/ch29_chapter_29.txt",
+   "note": "",
+   "tail_lines": 8,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“'You're back.' Dan turned, wooden spoon in hand, something bubbling on the burner behind him. The kitchen smelled of tarragon. He was here. Of course he was here.”",
+     "zh": "\"You're back.\" Dan turned, wooden spoon in hand, something bubbling on the burner. The kitchen smelled of tarragon. He was here. Of course he was here。",
+     "why": "You're back = Dan's greeting—Emma has returned from the committee meeting. \"He was here. Of course he was here.\" = Emma's relief—Dan is alive (loop iteration #4). \"Of course\" = she's trying to convince herself—of course he's here, he's always here (but she knows he won't be). The tarragon smell = Dan's cooking (from ch02: \"Dan had cooked chicken thighs in tarragon sauce\"). The domestic scene is Emma's anchor—she's home, Dan is cooking, everything is normal.",
+     "tip": "You're back = Dan's greeting; \"He was here. Of course he was here.\" = Emma's relief + self-conviction; tarragon = Dan's cooking (from ch02).",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“'I quit,' I mumbled into his chest, the cashmere soft on my cheek.”",
+     "zh": "\"I quit,\" Emma mumbled into his chest, the cashmere soft on her cheek。",
+     "why": "I quit = Emma's announcement—she quit the committee (her correction from ch28). \"mumbled into his chest\" = she's pressing against Dan, speaking into him. \"cashmere soft on my cheek\" = Dan's sweater—she's feeling his body, confirming he's real. This is Emma's loop-verification: touching Dan, feeling his cashmere, confirming he's alive. The loop's sensory confirmation.",
+     "tip": "I quit = Emma's correction (quitting committee); \"mumbled into his chest\" = she's pressing against Dan; \"cashmere soft\" = her sensory verification.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“'I don't want to go to school tomorrow,' he said, his voice quiet.”",
+     "zh": "\"I don't want to go to school tomorrow,\" Miles said, his voice quiet。",
+     "why": "I don't want to go to school tomorrow = Miles's confession—he doesn't want to go to school. This is from ch10's \"Don't tell?\" secret—Miles has a problem at school (bullying? the \"some boy in his year is being a di—being not nice\"). Emma's \"Miles did love school\" = her surprise—Miles loves school, so this is an anomaly. \"You just need a good night's sleep\" = Emma's dismissal—she's minimizing Miles's concern (her pattern: notes but doesn't act). This is Emma's failure: Miles is telling her something is wrong, and she dismisses it.",
+     "tip": "I don't want to go to school tomorrow = Miles's confession; \"Miles did love school\" = Emma's surprise; \"You just need a good night's sleep\" = Emma's dismissal—her pattern of noting but not acting.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 37,
+     "quote": "“'No,' I said, pulling on a boot. / 'But Dan had already scooped Gus up, marched to the door with him. 'We'll be two seconds, stay here.'”",
+     "zh": "\"No,\" Emma said, pulling on a boot. But Dan had already scooped Gus up, marched to the door with him. \"We'll be two seconds, stay here.\"",
+     "why": "No = Emma's command—she's trying to stop Dan. \"But Dan had already scooped Gus up, marched to the door with him\" = Dan doesn't listen—he's already gone. \"We'll be two seconds, stay here\" = Dan's dismissal—he thinks it's quick, no danger. This is the loop's climax: Emma tries to physically stop Dan, but he's already gone. The loop's determinism: Emma can change small things, but she can't stop Dan from going out. \"two seconds\" = Dan's underestimation—he thinks it's quick, safe. But it's not.",
+     "tip": "No = Emma's command; \"But Dan had already scooped Gus up\" = Dan doesn't listen; \"We'll be two seconds\" = his underestimation; this is the loop's climax—Emma tries to stop Dan, but he's already gone.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 43,
+     "quote": "“'DAN. Fuck,' I said to myself, pausing to tug on the other boot, panic making my fingers slippery. 'Fuck.'”",
+     "zh": "\"DAN. Fuck,\" Emma said to herself, pausing to tug on the other boot, panic making her fingers slippery. \"Fuck.\"",
+     "why": "DAN. Fuck = Emma's desperate cry—she's calling Dan's name, then swearing. \"panic making my fingers slippery\" = her physical state—she can't put on her boots because her hands are shaking. \"Fuck.\" (standalone) = her helplessness—she can't stop him. This is Emma's most desperate moment: she's trying to run after Dan, but her body won't cooperate. The loop's determinism: Emma can't prevent Dan's death.",
+     "tip": "DAN. Fuck = Emma's desperate cry; \"panic making my fingers slippery\" = her physical state; \"Fuck.\" = her helplessness; this is the loop's climax.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 7,
+     "line": 49,
+     "quote": "“There was no missing the bang. My body jumped involuntarily. The wail of the alarm following immediately, screeching in my head over and over again as I made a terrible noise.”",
+     "zh": "There was no missing the bang. My body jumped involuntarily. The wail of the alarm following immediately, screeching in my head over and over again as I made a terrible noise。",
+     "why": "no missing the bang = Emma hears the crash—Dan has been hit. \"body jumped involuntarily\" = her physical response—she can't control her body. \"wail of the alarm\" = the same sound from ch02/ch13 (the loop's trigger). \"screeching in my head over and over again\" = the sound is in her head—she's hearing it internally. \"as I made a terrible noise\" = Emma's scream—the same \"Oh my God\" from ch02/ch13, but now a \"terrible noise.\" This is the loop's reset trigger: the bang, the alarm, the scream. The loop repeats.",
+     "tip": "no missing the bang = Emma hears the crash; \"body jumped involuntarily\" = her physical response; \"wail of the alarm\" = the loop's trigger sound; \"made a terrible noise\" = her scream; the loop resets. Emma's most desperate correction：Emma tries to physically stop Dan from going out (\"No!\" \"DAN. Fuck\"). She runs after him, can't put on her boots, bumps into the bike. This is the loop's climax—Emma's most desperate attempt to prevent Dan's death. But she fails: Dan is already gone, the bang follows. \"Miles swatted my hand away\"：Miles's reaction to Emma's touch—he's pulling away. \"Miles was normally so placid\" = his anger is an anomaly. \"There's no need to be like that\" = Emma's dismissal (her pattern: notes but doesn't act). Miles's anger is the hidden thread—his secret. Poppy's secret：\"something in front of it, something heavy—her school rucksack\" = Poppy is hiding something. \"I suddenly recalled a detail from all the other terrible details of last night, something that made me frown: wiping a black smudge from her left cheek\" = Poppy had a black smudge (from what?). \"Are you sure? Has something happened?\" / \"No\" = Poppy's denial. The secret deepens. \"You're staring at me, Emma\"：Dan's observation—Emma is staring at him because she's afraid of losing him. \"In the light his hair was darker, no gray. He was still so young.\" = Emma's perception of Dan's youth—she's seeing him as he was when they met (no gray, young). The loop's temporal compression: Emma sees Dan as he was (young, dark hair) and as he is (older, gray). The loop collapses time. \"Dan, DAN...\"：Emma's desperate call—she's running after Dan, can't catch him. \"My hand reached for the front door\" = she's trying to follow him. But the bang comes first. The loop's determinism: Emma can't prevent Dan's death. She's too late. \"no missing the bang\"：Emma hears the crash—Dan has been hit. \"body jumped involuntarily\" = her physical response. \"wail of the alarm\" = the loop's trigger sound (from ch02/ch13/ch14). \"made a terrible noise\" = her scream. The loop resets. loop structure：ch17 (loop reset, \"Again.\") → ch18 (loop #2, Emma tests reality) → ch20 (loop #3, Emma tries to change small things) → ch21 (loop #3 continues, Emma's big change backfires) → ch22 (loop #3 continues, Emma tries to share with Hattie) → ch24 (loop #3 continues, Emma shares with Jas) → ch25 (loop #3 continues, Emma calls Dan) → ch27 (loop #3 continues, Emma writes letter, Miles's secret) → ch28 (loop #3 continues, Emma quits committee) → ch29 (loop #4, Emma tries to prevent Dan's death directly). The loop is giving Emma more agency each iteration. She's making bigger corrections: writing the letter, calling Dan, sharing with Jas, quitting the committee, trying to stop Dan. But the outcome (Dan's death) remains fixed. The loop's central tension: can Emma change the outcome? The novel's answer is in the remaining chapters. Emma's \"I'd been given a chance to stop it\" (ch24) = her mission. Can she? The loop suggests: small changes are allowed, big changes are punished. Preventing Dan's death is the biggest change of all. Emma's tragedy: she can't make the one change that matters. The loop will repeat. But will it eventually stop? The novel's answer is in the ending.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ch30 eight years.md",
+   "chapter": "ch30",
+   "text_path": "text/ch30_chapter_30.txt",
+   "note": "",
+   "tail_lines": 7,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“I knew you were bored of being PA to Brian, building contractor, and wannabe professional darts player (who knew!). There were just too many days when I’d walk in and you’d be playing with your hair—I liked the side plait, no, I didn’t think you should get a bob, it’s not going gray—or holding a hairbrush and pretending to be interviewed by Kirsty Young on Desert Island Discs.”",
+     "zh": "Dan knew Emma was bored of being PA to Brian (building contractor, wannabe professional darts player)。Too many days when he'd walk in and she'd be playing with her hair (side plait, not a bob, not going gray) or holding a hairbrush pretending to be interviewed by Kirsty Young on Desert Island Discs。",
+     "why": "bored of being PA = Dan's observation—Emma was bored in her job. \"building contractor, and wannabe professional darts player (who knew!)\" = Dan's humor about Brian's side gig. \"playing with your hair—I liked the side plait, no, I didn't think you should get a bob, it's not going gray\" = Dan's observation of Emma's habits + reassurance (not going gray). \"holding a hairbrush and pretending to be interviewed by Kirsty Young on Desert Island Discs\" = Dan's catch—Emma was fantasizing about being on Desert Island Discs (a BBC radio show where guests choose 8 records). \"I know that's what you're doing, it's not a big flat, Emma\" = Dan's humor—Emma's pretending was obvious in their small flat. This is Dan's love language: he notices Emma's habits, fantasies, and anxieties.",
+     "tip": "Desert Island Discs = BBC radio show (guests choose 8 records); \"I know that's what you're doing\" = Dan's catch; \"it's not a big flat, Emma\" = his humor about their small space.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“But the best thing? You love it. You've shelved the hairbands and hairbrush and now you are emailing or reading or editing or managing a crisis. You love being in the book world.”",
+     "zh": "But the best thing? You love it. You've shelved the hairbands and hairbrush and now you are emailing or reading or editing or managing a crisis. You love being in the book world。",
+     "why": "You love it = Dan's celebration—Emma loves her new job. \"shelved the hairbands and hairbrush\" = Emma has stopped her anxious habits (playing with hair, pretending to be interviewed). \"emailing or reading or editing or managing a crisis\" = Emma's new work—varied, active, engaged. \"managing a crisis\" = Dan's humor about publishing (there's always a crisis). \"You love being in the book world\" = Dan's observation—Emma has found her place. This is Dan's recognition of Emma's career fulfillment.",
+     "tip": "shelved the hairbands and hairbrush = Emma has stopped anxious habits; \"managing a crisis\" = Dan's humor about publishing; \"You love being in the book world\" = Dan's recognition of Emma's fulfillment.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“You're being dramatic when you say things like that. Can I be honest? Sometimes you panic if you're not needed. Because you worry that your children won't know you are always there for them. But they will grow up knowing ABSOLUTELY that they are loved, that you are interested in them. History will not repeat itself.”",
+     "zh": "Dan: \"You're being dramatic when you say things like that. Can I be honest? Sometimes you panic if you're not needed. Because you worry that your children won't know you are always there for them. But they will grow up knowing ABSOLUTELY that they are loved, that you are interested in them. History will not repeat itself.\"",
+     "why": "you're being dramatic = Dan's honesty—he's calling Emma out. \"sometimes you panic if you're not needed\" = Dan's diagnosis of Emma's anxiety—she panics when she feels unnecessary. \"Because you worry that your children won't know you are always there for them\" = Dan's understanding—Emma's fear is that her kids won't feel loved (because Emma's own mother was absent). \"they will grow up knowing ABSOLUTELY that they are loved\" = Dan's reassurance—ABSOLUTELY (capitalized) = his emphasis. \"History will not repeat itself\" = the letter's key reassurance—Emma's childhood (absent mother) will not repeat with Poppy and Miles. This is Dan's deepest reassurance: Emma's kids will not experience what Emma experienced.",
+     "tip": "you're being dramatic = Dan's honesty; \"sometimes you panic if you're not needed\" = Dan's diagnosis; \"History will not repeat itself\" = the letter's key reassurance—Emma's childhood (absent mother) won't repeat.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 35,
+     "quote": "“I think you crave that more than any of us—I forget sometimes that you were brought up in that quiet, adult home with your own room, the ability to find a space just for you.”",
+     "zh": "Dan: \"I think you crave that more than any of us—I forget sometimes that you were brought up in that quiet, adult home with your own room, the ability to find a space just for you.\"",
+     "why": "quiet, adult home = Dan's description of Emma's childhood—quiet, adult (no children), with Emma's own room. \"the ability to find a space just for you\" = Dan's recognition—Emma grew up with space (her own room, quiet). This is Dan's understanding of Emma's need for space—she needs her own room, her own quiet. The new house (with en suite, window seat) will give her that. \"I forget sometimes\" = Dan's admission—he doesn't always remember Emma's childhood.",
+     "tip": "quiet, adult home = Emma's childhood (no siblings, quiet); \"your own room\" = Emma grew up with space; \"the ability to find a space just for you\" = Dan's recognition of Emma's need for solitude.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 41,
+     "quote": "“And fine, yes, I'll admit the main reason I want it is for its storage space alone—you know how a big attic gives me a hard-on. And this one has wooden loft boards and fucking integrated cupboards in the eaves.”",
+     "zh": "Dan admits the main reason he wants the house is for its storage space—\"you know how a big attic gives me a hard-on. And this one has wooden loft boards and fucking integrated cupboards in the eaves.\"",
+     "why": "big attic gives me a hard-on = Dan's humor—storage space excites him (sexual metaphor for practical desire). \"wooden loft boards\" = Dan's specific desire—proper loft boards (not just beams). \"fucking integrated cupboards in the eaves\" = Dan's excitement (profanity for emphasis). This is Dan's voice at its most domestic and humorous—he's excited about storage. The contrast with Emma's \"window seat, a perfect reading nook\" shows their complementary desires: Dan wants storage, Emma wants reading space.",
+     "tip": "big attic gives me a hard-on = Dan's humor (storage excites him); \"wooden loft boards\" = his specific desire; \"fucking integrated cupboards\" = his excitement; Dan's domestic excitement.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 47,
+     "quote": "“God, I am so glad I met you all those years ago.”",
+     "zh": "\"God, I am so glad I met you all those years ago.\"",
+     "why": "God, I am so glad I met you = Dan's closing—gratitude for meeting Emma. \"all those years ago\" = the passage of time (8 years). This is Dan's simplest, most direct statement of gratitude. After the detailed lists (storage, kids, Emma's career), \"God, I am so glad I met you\" is the letter's emotional core. The letter ends here—no \"Dan x\" this time, just the statement.",
+     "tip": "God, I am so glad I met you = Dan's closing—simple gratitude; \"all those years ago\" = 8 years; this is the letter's emotional core. \"History will not repeat itself\"：Dan's reassurance—Emma's childhood (absent mother, quiet adult home) will not repeat with Poppy and Miles. \"Sometimes you panic if you're not needed\" = Dan's diagnosis of Emma's anxiety. \"But they will grow up knowing ABSOLUTELY that they are loved\" = his emphasis. This is the letter's emotional core. \"you're being dramatic\"：Dan's honesty—he's calling Emma out on her anxiety. This is Dan's love language: direct, honest, unvarnished. He doesn't coddle Emma; he tells her the truth. \"I forget sometimes that you were brought up in that quiet, adult home with your own room\"：Dan's recognition of Emma's childhood—she grew up alone, with space. The new house (en suite, window seat) will give her that space again. \"I forget sometimes\" = Dan's admission. \"big attic gives me a hard-on\"：Dan's humor—storage space excites him. This is Dan's voice at its most domestic and humorous. The contrast with Emma's \"window seat, a perfect reading nook\" shows their complementary desires. \"God, I am so glad I met you all those years ago\"：Dan's closing—simple gratitude. No \"Dan x\" this time, just the statement. The letter ends here. loop structure：This letter is from 2014 (7 years before the present-day loop). Emma's career year—she's found her dream job. The marriage is strong (new house, career, kids growing). The present-day loop (ch02–ch29) will show the marriage's decline (Arthur crisis, forgot letter, Dan's death). The past letters show what was lost: a marriage that was warm, a woman who found her career, a family that was growing. The loop's tragedy: all of this is erased when Dan dies on Dec 3, 2021. Emma relives the day Dan died, but she can't relive the years of growth. The loop only gives her Dec 3. The warmth of this letter (ch30) contrasts with the coldness of the present-day loop. The reader feels the loss.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ch31 the fifth loop.md",
+   "chapter": "ch31",
+   "text_path": "text/ch31_chapter_31.txt",
+   "note": "",
+   "tail_lines": 7,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“'It was Monday. Again.'”",
+     "zh": "\"It was Monday. Again.\"",
+     "why": "It was Monday. Again. = Emma's realization—the loop has repeated. \"Again.\" as a standalone sentence (period, not comma) = the finality of the loop's repetition. This is the novel's second \"Again.\" (ch17: \"It was Monday, 3rd December. Again.\"). The first \"Again.\" was shock; this one is despair. Emma has lived through Dan's death multiple times now. The loop is not ending.",
+     "tip": "It was Monday. Again. = Emma's realization; the standalone \"Again.\" = the loop's finality; this is the second \"Again.\" (ch17 was the first)—shock vs despair.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“'I think I just had a terrible dream,' I said slowly and carefully.”",
+     "zh": "\"I think I just had a terrible dream,\" Emma said slowly and carefully。",
+     "why": "I think I just had a terrible dream = Emma's lie to Dan—she's not telling him about the loop. \"slowly and carefully\" = she's choosing her words—she's not telling the truth. This is Emma's pattern: she hides the loop from Dan (ch17: \"I think it was a dream\"). But this time, she's not even telling Dan about the loop's repetition—she's just saying \"a terrible dream.\" The lie is smaller, more contained. Emma is learning to hide the loop.",
+     "tip": "I think I just had a terrible dream = Emma's lie; \"slowly and carefully\" = her word choice; Emma is learning to hide the loop from Dan.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“'I love you,' I whispered. 'I love you both.'”",
+     "zh": "\"I love you,\" Emma whispered. \"I love you both.\"",
+     "why": "I love you = Emma's correction (from ch17: \"I love you\" as her correction of ch15's \"I had ruined it\"). \"I love you both\" = Emma's addition—she's loving Dan and the kids. This is Emma's loop-awareness: she's expressing love to everyone, knowing she might lose them. \"I love you both\" is new—she's not just loving Dan, she's loving the family. The loop's emotional expansion.",
+     "tip": "I love you = Emma's correction; \"I love you both\" = her addition—loving Dan and the kids; the loop's emotional expansion.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 35,
+     "quote": "“Emma left @CommitteeChat group”",
+     "zh": "Emma left the CommitteeChat group。",
+     "why": "Emma left @CommitteeChat group = Emma's digital correction—she's quitting the committee via chat (not in person like ch28). This is the loop's most efficient correction: she doesn't even go to the meeting, she just leaves the group. \"Emma left\" = the chat's notification—Emma's exit is announced to the group. This is Emma's new strategy: change everything at once (quit committee, love Dan, love kids). The loop allows small changes, but will it allow this many?",
+     "tip": "Emma left @CommitteeChat group = Emma's digital correction; she's quitting via chat (not in person); this is the loop's most efficient correction.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 41,
+     "quote": "“I needed to get out of the house, away so I could think, plan.”",
+     "zh": "Emma needed to get out of the house, away so she could think, plan。",
+     "why": "I needed to get out of the house = Emma's need for space—she's overwhelmed by the loop's repetition. \"away so I could think, plan\" = her strategy—she needs to plan her next correction. This is Emma's new approach: instead of reacting (ch20–ch29), she's planning. The loop is forcing Emma to become strategic.",
+     "tip": "I needed to get out of the house = Emma's need for space; \"away so I could think, plan\" = her new strategy—she's becoming strategic. \"It was Monday. Again.\"：the novel's second \"Again.\" (ch17 was the first). The first was shock; this is despair. Emma has lived through Dan's death multiple times now. The loop is not ending. \"I think I just had a terrible dream\"：Emma's lie—she's not telling Dan about the loop. This is her pattern (ch17: \"I think it was a dream\"). But this time, the lie is smaller, more contained. Emma is learning to hide the loop. \"I love you both\"：Emma's addition—she's loving Dan and the kids. The loop's emotional expansion. Emma is becoming more expressive, more desperate. \"Emma left @CommitteeChat group\"：Emma's digital correction—she's quitting the committee via chat. This is the loop's most efficient correction. Emma is changing everything at once. \"I needed to get out of the house, away so I could think, plan\"：Emma's new strategy—she's not just reacting, she's planning. The loop is forcing Emma to become strategic. loop structure：ch17 (loop reset, \"Again.\") → ch18 (loop #2, Emma tests reality) → ch20 (loop #3, Emma tries to change small things) → ch21 (loop #3 continues, Emma's big change backfires) → ch22 (loop #3 continues, Emma tries to share with Hattie) → ch24 (loop #3 continues, Emma shares with Jas) → ch25 (loop #3 continues, Emma calls Dan) → ch27 (loop #3 continues, Emma writes letter, Miles's secret) → ch28 (loop #3 continues, Emma quits committee) → ch29 (loop #4, Emma tries to prevent Dan's death directly) → ch31 (loop #5, Emma accepts the loop, tries to change everything at once). The loop is giving Emma more agency each iteration. She's making more corrections: writing the letter, calling Dan, sharing with Jas, quitting the committee, trying to stop Dan, leaving committee group. But the outcome (Dan's death) remains fixed. The loop's central tension: can Emma change the outcome? The novel's answer is in the remaining chapters. Emma's \"I'd been given a chance to stop it\" (ch24) = her mission. Can she? The loop suggests: small changes are allowed, but the big event (Dan's death) may be fixed. Emma's tragedy: she can't make the one change that matters. The loop will repeat. But will it eventually stop? The novel's answer is in the ending.<|end|><|start|>write to=assistant<|channel|>analysis<|message|>§643§ Created file successfully: notes/books/novels/maybe-next-time-by-cesca-major/ch31 the fifth loop.md",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,263 @@
+{
+ "batch": "B15",
+ "note": "",
+ "chapters": [
+  {
+   "file": "ch01 how we met.md",
+   "chapter": "ch01",
+   "text_path": "text/ch01_chapter_1.txt",
+   "note": "",
+   "tail_lines": 5,
+   "tail_english": false,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“If it were up to me we’d celebrate our anniversary on the day of our first date. But of course, you want to mark it today. You love telling people this story.”",
+     "zh": "Dan 开门见山：若按他，周年纪念该在初遇当天；但 Emma 偏要今天的日期，因为她爱把这段故事讲给别人听。",
+     "why": "条件虚拟句 If it were up to me 把「他的偏好」弱化为假设，让步给 Emma 的选择，一开头就立住两人关系里的权力分配——他宠她、她掌控叙事。of course 与 love telling people 这对短语把 Emma 的性格压成一个动词：她是故事的讲述者、编排者。全章末尾「Here's to one year together」与之呼应：一年后他还在按她的规矩过纪念日。",
+     "tip": "这是全书第一句，读者尚未知道「今天」是什么日子；这句话先抛出「纪念日」与「故事」两个钩子，引读者往下读。",
+     "flags": [
+      "MIX_WHY"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“Did you know I actually spotted you first on that crammed tube?”",
+     "zh": "Dan 抢先申明：其实他先看到 Emma 的——在那节挤满人的地铁车厢里。",
+     "why": "疑问句 Did you know 伪装成分享秘密，实则是 Dan 在 Emma 的版本里插入自己的视角——她可能以为是偶遇，他却在悄悄注视。crammed tube 用一个形容词把车厢的拥挤写成背景，使「 spotted you first」的主动动词更突出：在人堆里，他的目光先落到了她身上。这种「我先看到你」的占有欲贯穿全书 Dan 对 Emma 的态度。",
+     "tip": "crammed 是 crowded 的口语化变体，比 crowded 更口语、更英式，与 tube 搭配自然；spot 作动词 =「瞥见、发现」，比 see 更具「目光锁定」的意味。",
+     "flags": [
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“It's a nice hat.” The first words you said to me.",
+     "zh": "「帽子不错。」——Emma 对他开口的第一句话。",
+     "why": "引语被单独成句，随后用 The first words you said to me 把它 elevated 为里程碑——这是 Dan 记忆里一切的起点。短句 It's a nice hat 与随后的解释（Your voice was confident, smooth）形成「简短引语 + 感官扩展」的节奏：引语本身平淡，Dan 的反应却极丰富，这种反差把 Emma 的魅力写成「让说话的人失去语言」。The first words 的定冠词 the 把这句话从「一句话」变成「那句话」——在 Dan 的记忆里，它已是专有名词。",
+     "tip": "hat 指他的 Tyrolean hat（蒂罗尔帽）；nice 在此是礼貌性的、略带 pity 的夸奖，与后文 \"pity obviously\" 呼应——Emma 当时的微笑是怜悯，不是迷恋。",
+     "flags": [
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 35,
+     "quote": "“I smoothed out the back of the receipt from Boots and quickly scrawled my number.”",
+     "zh": "他把 Boots 药店小票背面抹平，匆匆写下自己的号码。",
+     "why": "smoothed out 与 scrawled 一对动词：前者是细致的、后者是急促的，把 Dan 的手写成「先镇定、后慌乱」的两段。receipt from Boots 用 from 标明来源，把小票变成道具——它不是空白纸，是有来处的、有内容的（后文揭晓是 Anusol 收据），这条伏笔在此埋下。scrawled 比 wrote 更具「潦草、慌张」的意味，与后文 \"went over it twice\" 的焦虑呼应。",
+     "tip": "Boots 是英国连锁药店；scrawled =「潦草地写」；receipt 在此作「收据/小票」。后文 \"I'd written my number on the back of a receipt for Anusol\" 是本章最大的喜剧反转，此句是 setup。",
+     "flags": [
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 41,
+     "quote": "“Holy shit. / I wanted to snatch it straight back.”",
+     "zh": "「我靠。」他想一把把小票夺回来。",
+     "why": "Holy shit 独立成段（一行），是 Dan 内心的惊叫——读者与他同时意识到小票背面写着什么。snatch … straight back 用 snatch（猛夺）+ straight（直接地）把冲动写成物理动作，而 \"wanted to\" 的未完成态让读者悬在「他没夺回来」的瞬间。Purple nail varnish swam in front of me as I panicked 把 Emma 的手指写成幻觉（swam = 游动/晃动），强调 Dan 的慌乱已到生理层面。",
+     "tip": "Anusol 是治疗痔疮的药膏；Dan 是替妈妈买的。snatch =「抢夺、猛拿」；swam =「（视觉）晃动、游动」。这是全章喜剧的高潮，但 Dan 的羞愧是真诚的——他真怕 Emma 以为这是他的药。",
+     "flags": [
+      "MIX_WHY"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 47,
+     "quote": "“I OBVIOUSLY DIDN'T MEAN TO SAY ALOUD 'I LIKE YOUR BOOBS.'”",
+     "zh": "他「显然」不是故意把「我喜欢你的胸」说出口的。",
+     "why": "全大写 + 引号嵌套 = Dan 的记忆在尖声叫喊。OBVIOUSLY 是对读者/Emma 的辩解，全大写把辩解写成咆哮；引号内的 \"I LIKE YOUR BOOBS\" 是他真正说出口的话（小写还原成引语），而外层的大写是他的惊恐。这种「引语嵌在惊恐中」的排版让读者同时看到「他说了什么」与「他有多 horrified」。后文 \"YOUR BOOTS, YOUR BOOTS\" 的重复像 Tourette's（图雷特综合征）——Dan 用 humor 包装羞愧，是全章的喜剧引擎。",
+     "tip": "aloud =「出声地」；Tourette's = 图雷特综合征（不自主的抽动/发声）。全大写在英文写作里通常表示 shouting/panic，此处模拟 Dan 记忆中的惊恐。boobs 为 boobs 的口语化，Dan 想说的是 boots（靴子）。",
+     "flags": [
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 7,
+     "line": 53,
+     "quote": "“How normal are you compared to today? 1 being completely normal, BORINGLY so; 10 being, well, like you were today?”",
+     "zh": "Emma 临睡前发来的消息：「和今天比，你正常程度几分？1 是完全正常，无聊到爆；10 是，嗯，就像你今天这样。」",
+     "why": "这是 Emma 的声音第一次以引语出现（此前她只被 Dan 转述）。用问句 + 量表（1–10）把 Dan 的尴尬量化成一个数字游戏——Emma 用 humor 把他的羞愧接住、反转成 flirtation。BORINGLY so 的副词化（boringly =「无聊地」）是 Emma 的语言风格：把形容词变副词，制造口语的机智。分号 ; 与 well, like you were today 的犹豫停顿，模拟短信的节奏。这是两人关系的真正开始：不是地铁上的 hat，而是这条消息。",
+     "tip": "全句是 Emma 的短信；normal / BORINGLY / like you were today 三组对照把「今天」定义为「不正常但可爱」。这是全书 present-day 危机的对照基线——一年后 Emma 仍会用这种 humor，但 Dan 会发现她「拖回另一个地方」。",
+     "flags": [
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 8,
+     "line": 59,
+     "quote": "“You said I love you on 17th August (See? We could make THAT our Dateversary) and I still attest I said it first and you didn't hear me.”",
+     "zh": "Emma 在 8 月 17 日先说了「我爱你」；Dan 坚持是他先说的，只是她没听见。",
+     "why": "attest 是法律/正式语境的词，Dan 用它来描述一场情侣的日常争执，制造反差幽默。括号里的 (See? We could make THAT our Dateversary) 是 Dan 对 Emma 的让步姿态——他嘴上争「我先说」，身体上却在帮她找另一个纪念日。didn't hear me 把 Emma 的「先说」重新解释为「没听见」，是 Dan 的自我安慰，也是对 Emma 性格的暗示：她常「拖回另一个地方」（后文 \"Your hearing is actually one of the things I'd criticize about you\"）。",
+     "tip": "attest =「证明、作证」（正式词）；Dateversary =「纪念日」的混成词（date + anniversary）；17th August 是他们关系的里程碑。这句话埋下 Emma「听力/注意力」的问题，与全书 present-day 的「她拖回另一个地方」呼应。",
+     "flags": [
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 9,
+     "line": 65,
+     "quote": "“Here's to one year together.”",
+     "zh": "敬我们在一起的一年。",
+     "why": "Here's to + 名词是祝酒/祝颂的固定公式，Dan 用它把整封信落回「纪念日」的框架。one year together 用 together 而非 \"our first year\"——强调的是「在一起」而非「第一年」，暗示他期待更多年。短句独立成段，与开头 \"If it were up to me…\" 形成环形：开头是假设，结尾是确认。全章以这句收束，把喜剧与感动压成同一句话。",
+     "tip": "Here's to =「敬……」（祝酒公式）；together 强调共同性。这句是全章最后一句，也是全书 present-day 危机的对照：一年后 Dan 还在说 \"Here's to\"，但 Emma 已经不在了——时间循环把这一年的幸福反复重演，而 Dan 每次都会失去它。 全书框架：本章以书信体开篇，立下「Dan 写信给 Emma」的叙事框架；后续章节将交替 Dan 的信与 present-day 叙事，最终揭示时间循环的真相。 喜剧与真诚并置：Anusol 小票、boobs/boots 口误等笑料从不削弱 Dan 的真诚——Dan 一边自嘲一边确认「I do love you though, Emma, you're amazing」。 Emma 的声音：Emma 在本章只以两条短信出现（\"It's a nice hat\" 与 \"How normal are you…\"），却已立住她的性格：自信、幽默、用数字游戏接住羞愧。 伏笔：Dan 提到 Emma \"sometimes it's like you're dragging yourself back from another place entirely\"——这是全书 time-loop 的最早暗示；\"Your hearing is actually one of the things I'd criticize\" 也埋下 Emma 注意力分散的线索。",
+     "flags": [
+      "MIX_TIP"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ch02 present day crisis.md",
+   "chapter": "ch02",
+   "text_path": "text/ch02_chapter_2.txt",
+   "note": "",
+   "tail_lines": 5,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“You just wrote this when you went to the loo.”",
+     "zh": "Dan 一眼识破：她刚去厕所时才匆匆写下这张纸条。",
+     "why": "just + 过去式把时间压到「刚才」，loo（厕所，英式口语）把 Emma 的 forgery 行为钉在具体的地点与时刻——她是在 Dan 不在的几秒内编造的。Dan 的 \"Not a flicker on his face betrayed his emotions\" 是 stoic 的表演，与 Emma 的 \"I put a hand to my chest\" 的 theatrical  defence 形成对照：一个控制表情，一个控制叙事。",
+     "tip": "loo = toilet (英式)；betrayed his emotions =「泄露情绪」；Dan 的 \"flicker\" 强调他努力维持平静，其实是 deeper hurt 的信号。",
+     "flags": [
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“Admit it!”",
+     "zh": "Dan 要她承认。",
+     "why": "命令式，Dan 第一次在本章 assert dominance；\"Admit it!\" 的感叹号把 demand 写成 shout，显示 Dan 的 patience 已经 break。这是他从 \"Not a flicker on his face\" 的 stoic 表演到情绪外露的转折点。",
+     "tip": "Admit it =「承认吧」；Dan 的 anger 第一次 verbalize。",
+     "flags": [
+      "MIX_ZH",
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“I had it in my bag all day. So, I just put it there while you were gone.”",
+     "zh": "Emma 顺嘴编出「包里带了一天」的谎。",
+     "why": "Emma 用 had（过去完成）编造时间线，\"So, I just put it there\" 的 So 是 fabricated causality——她把一个 lie 伪装成 logical explanation。括号里的 \"(OK, I had, I totally had.)\" 是叙述者对读者的 wink——Emma 承认 forgery，但只在内心承认，这种\"不可靠叙述者\"的 self-awareness 是全书 Emma 的 signature move。",
+     "tip": "括号内的 \"(OK, I had, I totally had.)\" 是 free indirect discourse 的变体——叙述者 Emma 直接对读者招供，建立 intimacy 但同时暴露她的 unreliability。",
+     "flags": [
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 35,
+     "quote": "“You misspelled affection.”",
+     "zh": "Dan 指出她把 affection 拼错了。",
+     "why": "misspelled 是 fact-check 的动词，Dan 用拼写错误把 Emma 的 forgery 证据化——affection 的拼写错误是 Emma \"dragging herself back from another place\" 的 textual symptom。Dan 的 precision（noticing the misspelling) contrasts with Emma's carelessness, marking the asymmetry in their marriage.",
+     "tip": "affection =「深情、关爱」；misspelled =「拼写错误」；Dan 的 \"And it's three lines long\" 是 second blow。",
+     "flags": [
+      "MIX_ZH",
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 41,
+     "quote": "“It's a tricky word,” I stuttered.",
+     "zh": "Emma 嘴硬「这词难拼」，结结巴巴。",
+     "why": "\"It's a tricky word\" 是 Emma 的 verbal tic：把错误归因于外部难度而非自身疏忽。stuttered 把她的辩解还原成结巴，显示 defense 已经 collapse。Dan 的 \"And it's three lines long\"（原文 \"And it's three lines long\"）是 second blow——不仅拼错，还太短，对比 \"early letters had often been six pages long\"。",
+     "tip": "stuttered =「结结巴巴地说」；tricky =「棘手的」。",
+     "flags": [
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 47,
+     "quote": "“Emma.” He cut me off, his voice stern; Dan rarely sounded stern. If it had been a lighter moment I might have commented that it was quite sexy.",
+     "zh": "Dan 用 Emma 的名字打断她，声音严厉——他极少严厉；Emma 想到若在轻松时刻，她可能会说这很 sexy。",
+     "why": "Dan rare 的 sternness 是一个 character beat——他的 anger 是 signal，不是 noise。\"Dan rarely sounded stern\" 用 rarely 把他的性格 baseline 建立为 placid，使这次 sternness 成为 anomaly。Emma 的 \"If it had been a lighter moment I might have commented that it was quite sexy\" 是她的 coping mechanism：把严肃的 conflict 转化为 playful observation，这种 deflection 是她 \"dragging back from another place\" 的证据——她无法 fully present 于冲突中。",
+     "tip": "cut off =「打断」；stern =「严厉的」；Emma 的 internal monologue 用 if-clause（past unreal）把 present 的危机 distanciate，显示她的 dissociation 倾向。",
+     "flags": [
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 7,
+     "line": 53,
+     "quote": "“His brown eyes were sad: magnified by the new reading glasses he loathed ('Reading glasses! I'm forty-two, Emma!'): he was hurt. Again.”",
+     "zh": "他的棕眼满是悲伤，被那副他讨厌的新老花镜放大；他又一次受伤了。",
+     "why": "magnified by the new reading glasses 把 Dan 的 sadness 物理化——老花镜是 aging 的 symbol，而 aging 是他们婚姻的 undercurrent。括号内的 \"Reading glasses! I'm forty-two, Emma!\" 是 Dan 之前的 protest，用 direct quote 把他的 vanity 与 vulnerability 并置。Again 是全句的 kicker——这不是第一次 Emma 忘记/伤害他，this is a pattern。Dan 的 hurt 是 accumulated，不是 singular。",
+     "tip": "loathed =「深恶痛绝」；magnified =「放大」；Again 大写暗示 Emma 的 repeated failures。Dan 42 岁——aging 是本章的 subtext（reading glasses, \"forty-two\"）。",
+     "flags": [
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 8,
+     "line": 59,
+     "quote": "“Were you fighting?”",
+     "zh": "Miles 从楼梯上探出头，直接问「你们在打架吗」。",
+     "why": "child's directness 把 adult 的 euphemism 打穿——Miles 不接受 \"It was the telly\" 的敷衍，直接命名 conflict。His small voice from the top of the stairs 把 child 作为 moral witness，Emma 的 guilt 瞬间具象化。\"Were you fighting?\" 是一个 yes/no 问题，Emma 只能答 \"No\"——lie #2 的起点。",
+     "tip": "Miles 8 岁；clutching Tigger 是 childhood vulnerability 的 prop；\"Were you fighting?\" 的直接ness 对比 adult 的 evasion 是本章的 moral axis。",
+     "flags": [
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 9,
+     "line": 65,
+     "quote": "“No, darling,” I choked and forced a smile. “It was the telly.”",
+     "zh": "Emma 哽住，强笑，谎称「是电视」。",
+     "why": "\"choked\" 把 guilt 物理化（喉咙被堵）；\"forced a smile\" 把 smile 变成 labor；\"It was the telly\" 是 Emma 的 second lie（first 是 \"I had it in my bag all day\"），建立她的 pattern of covering conflict with plausible fiction。Memories of my own childhood fears when I'd heard the regular rows between my parents late at night floored me for a moment 把 Emma 的 childhood trauma 作为 her reaction 的 engine——她 not just managing Miles，她's managing her own ghosts。",
+     "tip": "choked =「哽住、窒息」；the telly =「电视」（英式口语）；floored =「击倒、压垮」。Miles 8 岁，clutching Tigger——childhood object 作为 vulnerability 的 prop。",
+     "flags": [
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 10,
+     "line": 71,
+     "quote": "“Dan never got angry. I got angry, I was the one to swear when I scalded myself or flew off the handle over the fact I'd forgotten recycling day or some company had put me on hold, or when my parents made another excuse as to why they couldn't visit.”",
+     "zh": "Dan 从不生气；Emma 自承是那个会爆粗口的人——把自己烫伤、为忘记回收日或被客服挂起而发火，或因父母又一次找借口不来探望而炸。",
+     "why": "placid 是 Dan 的 baseline adjective，与 Emma 的 volatile 形成 complementary pairing。\"I got angry, I was the one to swear\" 是 Emma 的 self-awareness，但 \"when my parents made another excuse as to why they couldn't visit\" 把她的 anger 归因于 family trauma，与 Miles 的 scene 呼应。as if he was about to explode 用 simile 把 Dan 的 anger 写成 potential energy——他还没炸，但 Emma 已经 fear 了。\"Don't pull on him like that\" 是 Emma 从 Dan 的 anger 转移到 Gus 的 welfare，是她的 redirect pattern。",
+     "tip": "placid =「平静的、温和的」；rigid =「僵硬的」；tense =「紧绷的」。Gus（狗）的 resistance（crouched low, whimper）mirrors Emma's resistance to Dan's anger.",
+     "flags": [
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 11,
+     "line": 77,
+     "quote": "“My skin broke into goosebumps as my head turned toward the door. What was that? Oh my God.”",
+     "zh": "她的皮肤起满鸡皮疙瘩，头转向门；「那是什——」；「我的天啊。」",
+     "why": "goosebumps 是 involuntary physiological response，把 Emma 的 fear 写成 bodily fact。三段分行（My skin... / What was that? / Oh my God.）模拟 perception 的 deceleration：先身体反应，再认知疑问，再惊叫。章节停在 \"Oh my God.\"——不揭晓 sound 是什么，把 reader 与 Emma 一起悬在 threshold。这是 time-loop 的 trigger：sound = the loop's reset signal。",
+     "tip": "goosebumps =「鸡皮疙瘩」；章节以 cliffhanger 结束，sound 的 source 是全书的 central mystery。\"Oh my God.\" 的句号（而非问号）暗示 Emma 已经知道/认出这个声音——这是 loop 的 familiarity signal。 时间循环的触发：\"Oh my God.\" 是全书 time-loop 的 trigger sound——Emma 认识这个声音，loop 即将 reset；读者在 ch01 的 \"Here's to one year together\" 之后立刻被抛入 present-day 危机，形成 dramatic irony。 Dan 的 hurt 是 accumulated：\"Again\" 一词揭示这不是第一次 Emma 忘记/伤害他——Dan 的 reading glasses、\"forty-two\"、tears film his eyes 都把 aging 与 neglect 并置。 Emma 的 unreliability：两次 lie（\"I had it in my bag all day\" / \"It was the telly\"）建立她的 pattern；括号内的 \"(OK, I had, I totally had.)\" 是对读者的 wink，使读者比 Dan 更了解 Emma。 Miles 的 intergenerational echo：\"Memories of my own childhood fears when I'd heard the regular rows between my parents\" 把 Emma 的 childhood trauma 作为 her parenting anxiety 的 engine——她 repeating her parents' pattern 是全书的 thematic core。",
+     "flags": [
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    }
+   ]
+  }
+ ]
+}

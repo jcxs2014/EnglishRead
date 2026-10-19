@@ -1,0 +1,563 @@
+{
+ "batch": "B01",
+ "note": "",
+ "chapters": [
+  {
+   "file": "ch03 the morning of.md",
+   "chapter": "ch03",
+   "text_path": "text/ch03_chapter_3.txt",
+   "note": "",
+   "tail_lines": 6,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“15 hours earlier . . .”",
+     "zh": "章节以 \"15 小时前……\" 开场——把 ch02 的 present-day 危机回溯到当日上午。",
+     "why": "time-stamp 作为章节 header 是 time-loop 叙事的 structural device：它把 \"Oh my God.\"（ch02 末）锚定到一个可回溯的时刻，让 reader 知道 \"we are counting down to the sound\"。省略号 . . . 模拟 memory 的 fade-in，把 present-day 的 Emma 与 15 小时前的 Emma 连接成同一个人的不同时间切片。这是全书 loop 机制的第一次显性标记。",
+     "tip": "本章与 ch02 形成回溯结构；\"15 hours\" 的精确数字让 reader 开始计时 toward the 10 p.m. crisis。",
+     "flags": [
+      "MIX_ZH",
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“Shit.”",
+     "zh": "Emma 被闹钟惊醒，坐起 dizzy，\"Shit\"。",
+     "why": "\"Shit\" 独立成句是 Emma 的 verbal tic——每次 she's caught off-guard 都是这个 interjection，显示她的 default frustration response。与 ch02 的 \"Oh my God.\" 形成 interjection spectrum。",
+     "tip": "Shit =「该死」（英式口语）。",
+     "flags": [
+      "MIX_ZH",
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“Hold on,” I said. “Headrush. I thought I set an alarm for earlier.”",
+     "zh": "Emma 让 Dan 等等，解释头晕、以为设了更早闹钟。",
+     "why": "\"Headrush\" 把 dizzy 写成 compound noun，是英式口语；\"I thought I set an alarm for earlier\" 是 Emma 的 recurring excuse pattern（与 ch02 的 \"I had it in my bag all day\" 同族）——她总是在解释 why she's behind。Dan 的 \"Come back to bed, Emma. The kids aren't even up yet.\" 是 gentle pushback，显示他的 patience 与 her urgency 的 contrast。",
+     "tip": "Headrush =「头晕目眩」；\"thought I set\" 的 past tense + \"earlier\" 的 vagueness 是 Emma 的 self-exculpation 的语法形状。",
+     "flags": [
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 35,
+     "quote": "“No loo roll.”",
+     "zh": "Emma 发现没卷纸。",
+     "why": "\"No loo roll\" 是 Emma 的 complaint-as-statement——she states the problem rather than asking for help，显示她把 household management 当作 solo task。Dan 不答，silence 作 signal。",
+     "tip": "loo roll =「厕纸」。",
+     "flags": [
+      "MIX_ZH",
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 41,
+     "quote": "He didn’t reply. I rolled my eyes and stood up, turning on the shower.",
+     "zh": "Dan 不答；Emma 翻白眼、起身冲澡。",
+     "why": "\"He didn't reply\" 是 Dan's silence as signal——he's already sensing something (later \"seemed so quiet\")，but here his silence reads as avoidance. \"rolled my eyes\" 是 Emma's micro-gesture of impatience，与 ch02 的 \"I rolled my eyes at Dan\" 形成 pattern。The bathroom details (orange dusting, mirror steaming) ground the scene in physical specificity.",
+     "tip": "\"rolled my eyes\" =「翻白眼」；Dan's silence here is the first hint of his \"something unreadable\" mood.",
+     "flags": [
+      "MIX_ZH",
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 47,
+     "quote": "“Oh for . . .”",
+     "zh": "Emma 一声 frustrated interjection。",
+     "why": "\"Oh for . . .\" 是 British English 的 frustrated interjection（ellipsis 表示未完成的咒骂），与 ch02 的 \"Oh my God.\" 形成 interjection 的 spectrum：从 mild frustration 到 shock.",
+     "tip": "\"Oh for...\" 的 ellipsis 是 British understatement 的 verbal tic。",
+     "flags": [
+      "MIX_ZH",
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 7,
+     "line": 53,
+     "quote": "“What is it?” Dan called.",
+     "zh": "Dan 从床上问怎么了。",
+     "why": "his calling from the bed shows physical distance; he's not in the bathroom with her. Dan's \"called\" vs Emma's action shows their morning choreography—she manages, he observes.",
+     "tip": "\"called\" =「喊」；Dan is still in bed while Emma is already up.",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 8,
+     "line": 59,
+     "quote": "“No loo roll.”",
+     "zh": "Emma 答没厕纸。",
+     "why": "The \"no loo roll\" problem is delegated to no one—Emma just moves on, establishing her \"do everything myself\" pattern. \"No loo roll\" 是 complaint-as-statement.",
+     "tip": "loo roll =「厕纸」。",
+     "flags": [
+      "MIX_ZH",
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 9,
+     "line": 65,
+     "quote": "“Catching sight of my face before it disappeared in the fog, I frowned.”",
+     "zh": "",
+     "why": "",
+     "tip": "",
+     "flags": [
+      "NO_ZH",
+      "NO_WHY",
+      "NO_TIP"
+     ]
+    },
+    {
+     "n": 10,
+     "line": 68,
+     "quote": "“was that a new line? Did I need Botox? My client, Scarlet, had told me about a Viscoderm filler that was better. And what was the vitamin that was good for skin? D? B? Was B the one for hair?”",
+     "zh": "Emma 照镜子，怀疑新皱纹、想 Botox、纠结维生素 D 还是 B。",
+     "why": "self-interrogation 的 stream of questions 把 Emma's attention fragmentation 写成 syntax——每个 question 是一个 new tangent，none resolved. \"was that a new line?\" 把 aging anxiety 写成 immediate perception；\"Viscoderm filler\" 是 product-name drop，显示 Emma 的 industry vocabulary; \"D? B? Was B the one for hair?\" 的 repetition of question marks 模拟 her spiraling. This is the \"brain flying off in five different directions\" that Dan will later (ch02) sense as \"dragging herself back from another place entirely.\"",
+     "tip": "Viscoderm =「一种皮肤填充剂」；Botox =「肉毒毒素」；Emma 的 self-care anxiety 是 her \"distractedness\" 的 somatic expression.",
+     "flags": [
+      "MIX_ZH",
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 11,
+     "line": 74,
+     "quote": "“Oh my God, why did Dan have to scald himself every time he washed?”",
+     "zh": "Emma 抱怨 Dan 每次洗澡都把水烫到她。",
+     "why": "scald 是 verb（烫伤），Emma 把 Dan's shower habit 写成 repeated offense (\"every time\")—she's already in grievance mode. \"Oh my God\" 在此是 mild complaint, 与 ch02 末的 \"Oh my God.\" (shock) 形成 interjection 的 recurrence—same phrase, different intensity. This is the loop's verbal leitmotif. The complaint about Dan's shower is one of many \"micro-irritations\" that accumulate into her distractedness.",
+     "tip": "scald =「烫伤」；\"every time\" 的 generalization 是 Emma's cognitive distortion—she's converting a habit into a pattern of neglect.",
+     "flags": [
+      "MIX_ZH",
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 12,
+     "line": 80,
+     "quote": "“The Arthur tweet was up to over 1.2k likes and 391 retweets. My insides lurched in panic; what would this mean for today?”",
+     "zh": "Arthur 的推文已超 1.2k 点赞、391 转推；Emma 内心一沉，这会对今天意味着什么？",
+     "why": "lurched in panic 把 anxiety 写成 physical motion (lurch =「猛冲、摇晃」)，显示 Emma's body reacts before her mind. \"what would this mean for today?\" is the chapter's central anxiety question—Arthur's tweet is a professional crisis that will shadow the whole day. \"for today\" echoes the time-loop: Emma is always asking \"what does this mean for today?\" because today is the day that keeps repeating. The Twitter/Instagram/Bookseller scrolling establishes Emma's attention as fragmented across platforms.",
+     "tip": "lurch =「猛冲、摇晃」；Arthur tweet 是 Emma 的 work crisis（an author's misconduct?）；\"for today\" 的 repetition across the chapter is the loop's verbal marker.",
+     "flags": [
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 13,
+     "line": 86,
+     "quote": "“Oh, and Miles . . . TEDDIES.”",
+     "zh": "",
+     "why": "",
+     "tip": "",
+     "flags": [
+      "NO_ZH",
+      "NO_WHY",
+      "NO_TIP"
+     ]
+    },
+    {
+     "n": 14,
+     "line": 89,
+     "quote": "“Sorry,” I adjusted the volume, my brain flying off in five different directions.",
+     "zh": "Emma 突然想起泰迪熊义卖，大喊 \"Miles . . . TEDDIES\"；\"Sorry\"，她调低音量，脑子飞向五个方向。",
+     "why": "\"Oh, and Miles . . . TEDDIES\" 的 ellipsis 模拟 Emma's thought arriving late—she's been distracted and the TEDDIES task surfaces mid-conversation. Capitalized TEDDIES is her shouting the reminder; \"Sorry\" + \"adjusted the volume\" shows her self-correction. \"my brain flying off in five different directions\" is Emma's self-diagnosis of her own distractedness—she names her own condition. \"both Dan and Miles jumped\" shows the collateral damage of her scattered attention. This is the trait Dan senses in ch02 (\"dragging herself back from another place entirely\").",
+     "tip": "TEDDIES =「泰迪熊义卖」；\"brain flying off in five different directions\" 是 Emma 对自己 attention fragmentation 的 meta-commentary；Dan's quietness (\"seemed so quiet\") is his response to this pattern.",
+     "flags": [
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 15,
+     "line": 95,
+     "quote": "“Why are you organizing that again? They left playgroup years ago.”",
+     "zh": "",
+     "why": "",
+     "tip": "",
+     "flags": [
+      "NO_ZH",
+      "NO_WHY",
+      "NO_TIP"
+     ]
+    },
+    {
+     "n": 16,
+     "line": 98,
+     "quote": "“I know but, well, I've promised now.”",
+     "zh": "Dan 质疑 Emma 为什么又组织泰迪熊义卖（孩子们早离开 playgroup 了）；Emma 答 \"我知道，但答应了\"。",
+     "why": "Dan's question is gentle pushback disguised as question—he's asking \"why are you still doing this?\" which is really \"why can't you let go?\" Emma's \"I know but, well, I've promised now\" is her default mode: commit to obligations she can't fulfill, then fail. \"They left playgroup years ago\" is Dan's quiet logic; \"I know but\" is Emma's emotional override. This exchange establishes their dynamic: Dan sees clearly, Emma overcommits, Dan doesn't push further (\"He was right, of course, I'd told him I would step down, but no one had offered to take my place\"). The playgroup volunteering is Emma's way of holding onto a lifeline from \"those crazy early years.\"",
+     "tip": "playgroup =「幼儿游戏小组」；Dan's \"He was right, of course\" shows Emma's self-awareness without behavior change—she knows but doesn't act.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 17,
+     "line": 104,
+     "quote": "“A voice called back, 'You forgot your cinnam—' but I'd already slammed the door.”",
+     "zh": "一个声音叫回 \"你忘了你的肉桂——\"，但她已经 slamming the door。",
+     "why": "slammed the door is the chapter's final action—Emma literally closes out Dan's voice mid-word. The em-dash (—) in \"cinnam—\" cuts the word off, mirroring the door slam: Dan's care (cinnamon swirl) is interrupted, not received. \"but I'd already slammed the door\" uses \"already\" to emphasize irreversibility—she was already gone. This is the chapter's motif: Emma leaving, missing, not receiving. The cinnamon swirl (Dan's gesture) becomes the day's first casualty; it will recur (ch02's \"the envelope that had started this whole thing\"). The door slam is also Emma's physical escape from the morning's chaos—and from Dan's quiet question.",
+     "tip": "cinnam— = cinnamon swirl 的 truncated form; \"slammed\" (past perfect \"I'd already slammed\") emphasizes the action was completed before Dan could finish. The door slam is Emma's signature exit move, repeated in the loop. 时间循环的 setup：\"15 hours earlier...\" 是 ch02 \"Oh my God.\" 的回溯；Emma 的 distractedness（Arthur、Amelia、TEDDIES、playgroup）是她 \"dragging herself back from another place entirely\" 的日常版本——loop 的 seeds 在此埋下。 Dan 的 silence：\"seemed so quiet\" / \"leaving a gap for something\" 是 Dan sensing 问题的 early signals；他不 confront，只 observe——这是 marriage 的 quiet crisis mode。 Miles 的 off mood：\"dull eyes\" / \"shrugged him off with a huff\" / \"never irritable\" 是 child-as-warning-signal；Miles 是 Emma 的 mirror（both irritable, both \"off\"）。 cinnamon swirl motif：Dan 的 gesture（brown paper bag）被 Emma miss；door slam 截断 \"You forgot your cinnam—\"，把 \"missing\" 写成 physical action——这是全书 \"missing things\" motif 的 first instance。 interlude (committee chat)：章节末尾的 chat thread 是 Emma 的 \"work world\"——Denise/Catrin/Jas/Hattie/AuthorLou/Poppy 的 messages 显示她 simultaneous commitments; \"Poppy @Mum Dad says he doesn't know where my blazer is\" 是 Emma's parenting failure echoed in real time.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ch04 the commute.md",
+   "chapter": "ch04",
+   "text_path": "text/ch04_chapter_4.txt",
+   "note": "",
+   "tail_lines": 5,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“Normally he’d reply with a teasing emoji or a 'Yes your majesty' but today I got a terse 'OK.' Frowning, I looked at the two letters. What was up with him?”",
+     "zh": "Dan 平时会回一个调侃 emoji 或 \"Yes your majesty\"，今天却只回了冷冰冰的 \"OK.\" Emma 皱眉，两个字母，他怎么了？",
+     "why": "teasing emoji 与 terse \"OK.\" 的对比把 Dan 的 mood change 写成 text-message evidence——Emma 通过 punctuation/length 读取情绪。\"two letters\" 强调 \"OK\" 的极简，与 \"Yes your majesty\" 的 playful length 对比。\"What was up with him?\" 是 Emma's recurring interpretive gap—she reads Dan's silences as puzzles to solve, not as signals to heed. This is the \"dragging herself back from another place\" pattern: she's already analyzing rather than present.",
+     "tip": "terse =「简短冷淡的」；\"two letters\" = OK 的两个字母；Dan's \"OK\" echoes his \"something unreadable\" face in ch03—his quiet concern is now textually visible.",
+     "flags": [
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“For fuck . . .” The cyclist glared over his shoulder.",
+     "zh": "Emma 被自行车撞，\"For fuck . . .\"，骑车人回头瞪她。",
+     "why": "\"For fuck . . .\" 是 Emma's street-level interjection (ellipsis = unfinished curse), contrasting with ch03's \"Shit.\" and \"Oh for . . .\"—three interjections, three registers (frustration/shock/street). The cyclist's glare is a stranger's judgment, mirroring Dan's unspoken judgment. \"lurched backward\" + \"heel caught in the drain\" = physical vulnerability; Emma's body is always in peril (scalded, caught, panicked). The near-miss is a micro-version of the day's larger collision.",
+     "tip": "For fuck . . . =「该死……」（英式）；glared =「怒视」；lurched =「猛冲/摇晃」。The drain/heel detail grounds the accident in physical specificity.",
+     "flags": [
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“Another Monday, another ordinary day.”",
+     "zh": "\"又一个周一，又一个平凡的日子。\"",
+     "why": "repetition of \"Another\" creates a litany of routine—Emma's life is composed of repeated Mondays. But the dramatic irony is sharp: today is NOT ordinary (Arthur's tweet, Dan's silence, Miles's off mood, the \"Oh my God.\" that will come 15 hours later). \"ordinary\" is Emma's self-soothing label; she's telling herself it's fine. This is the loop's core irony: she keeps calling it ordinary while the loop keeps breaking.",
+     "tip": "The reader knows (from ch02's \"Oh my God.\") that this Monday is not ordinary—dramatic irony at maximum.",
+     "flags": [
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 35,
+     "quote": "“Hazelnut latte, please,” I said distractedly to the barista with the tattoo on his neck, a twisted symbol in black.",
+     "zh": "Emma 心不在焉地向脖子上有纹身的 barista 点 hazelnut latte。",
+     "why": "distractedly modifies the order—Emma isn't present even in the café. The barista's namelessness (\"Would it be too embarrassing to ask his name now?\") mirrors Emma's failure to see people fully. The tattoo detail (twisted symbol in black) is observed but never inquired about—another instance of Emma's surface-level engagement.",
+     "tip": "distractedly =「心不在焉地」；barista =「咖啡师」。",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 41,
+     "quote": "“And a blueberry muffin?”",
+     "zh": "barista 问要不要 blueberry muffin。",
+     "why": "The barista's gap-toothed smile \"reminded me of Poppy\" inserts family into the commercial transaction—he's a person Emma sees daily but doesn't truly know. \"All right,\" I mumbled, realizing how often I ordered the two things, a creature of habit shows her self-diagnosis.",
+     "tip": "blueberry muffin =「蓝莓玛芬」。",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 47,
+     "quote": "“All right,” I mumbled, realizing how often I ordered the two things, a creature of habit.",
+     "zh": "Emma 咕哝 \"All right\"，意识到自己多常点这两样，习惯的动物。",
+     "why": "mumbled shows her half-presence; \"creature of habit\" is her self-diagnosis (naming her own pattern, like \"brain flying off in five different directions\" in ch03). She orders the same thing every day—routine as self-soothing.",
+     "tip": "mumbled =「咕哝」；creature of habit =「习惯的动物」。",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 7,
+     "line": 53,
+     "quote": "“Oh, skimmed milk,” I added quickly, looking back up, remembering Amelia star-jumping on the beach that morning. Like skimmed milk would combat the hazelnut syrup hit.",
+     "zh": "Emma 补 \"Oh, skimmed milk\"，想起 Amelia 在沙滩上跳跃；自嘲脱脂奶抵消不了榛果糖浆。",
+     "why": "\"Like skimmed milk would combat the hazelnut syrup hit\" is Emma's self-mocking internal commentary—she knows the skimmed milk is futile, but orders it anyway. This is her pattern: small, symbolic gestures of control (skimmed milk, toad-in-the-hole) that change nothing. \"I really needed to lose the half stone\" connects the skimmed milk to her body anxiety.",
+     "tip": "skimmed milk =「脱脂奶」；\"combat\" 的 military metaphor for a dietary choice shows Emma's tendency to dramaticize small decisions.",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 8,
+     "line": 59,
+     "quote": "“I left the message unopened so Hattie wouldn't see I'd read it.”",
+     "zh": "Emma 把 Hattie 的消息留着未读，这样 Hattie 不会知道她已读过。",
+     "why": "This is Emma's social avoidance tactic—she reads the preview but doesn't open, so she can delay response without appearing rude. \"When had I even last seen her? It'd been ages for us, way too long and I missed her\" shows she genuinely misses Hattie, yet still avoids. This is the \"dragging herself back from another place\" pattern in social form: she's present in the preview but absent in the reply. The \"I'd definitely reply when I knew what my day looked like\" is another deferral—she'll reply when she's \"ready,\" which she never is.",
+     "tip": "unopened =「未打开的」；this is Emma's passive avoidance, contrasting with Dan's active (if quiet) concern.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 9,
+     "line": 65,
+     "quote": "“Gemma,” Arthur said, lifting my right hand to his dry lips.",
+     "zh": "Arthur 叫她 \"Gemma\"，亲吻她的右手。",
+     "why": "Arthur's misnaming (\"Gemma\" instead of Emma) is a power move—Emma's identity is erased by the agency's most important client. \"dry lips\" is a physical detail that makes the kiss unpleasant, not romantic. \"The hand that pretty much paid all our wages\" establishes Arthur's economic dominance. Emma's \"quickly extracting my hand\" is her small resistance. The misnaming recurs (Arthur calls her Gemma again later in the novel), establishing his casual disrespect.",
+     "tip": "Gemma =「艾玛的误名」；dry lips =「干燥的嘴唇」；Arthur's \"Gemma\" is a recurring micro-aggression that Emma tolerates because of his economic power.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 10,
+     "line": 71,
+     "quote": "“I couldn't help the panicked glance in her direction. Under control? I'd spent every second since her phone call that had blown up my weekend worrying what might happen in the next couple of hours. This meeting could change everything: for the agency, for Arthur, for her, for me.”",
+     "zh": "Emma 惊慌地看向 Linda；\"Under control?\"；她整个周末都在担心接下来几小时会发生什么；这会改变一切。",
+     "why": "\"Under control?\" is a question that Linda asks and Emma cannot answer—Linda's confidence vs Emma's panic. \"change everything: for the agency, for Arthur, for her, for me\" is a four-part list that escalates from professional (agency) to personal (me)—Emma's anxiety is both professional and existential. \"Linda soothing him from her seat\" shows Linda managing Arthur while Emma manages the crisis—Emma is the subordinate, not the partner. The colon after \"everything\" turns the list into a cascade of stakes.",
+     "tip": "panicked glance =「惊慌的一瞥」；the four-part list (agency/Arthur/her/me) shows Emma's expanding anxiety; \"Under control?\" is Linda's question that Emma cannot truthfully answer.",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 11,
+     "line": 77,
+     "quote": "“What was I doing?”",
+     "zh": "\"我在干什么？\"",
+     "why": "This is the chapter's final question—Emma's existential doubt, placed after Arthur's \"To our chariot\" (Oscars fantasy) and Linda's \"So naughty.\" The question is not about the meeting; it's about her life. \"What was I doing?\" echoes ch03's \"brain flying off in five different directions\" and ch02's \"dragging herself back from another place entirely\"—Emma is questioning her own presence. Placed at the end of a chapter full of motion (walking, texting, ordering, extracting her hand), the question stops the momentum and asks: to what end?",
+     "tip": "This is Emma's core question—repeated throughout the novel; the taxi scene (sitting, watching, wondering) is the first moment of stillness in a chapter of motion. loop 的 seeds：\"Another Monday, another ordinary day\" 是 Emma 的 self-soothing label；reader 知道今天不 ordinary（ch02 的 \"Oh my God.\" 在 15 小时后）。Dan's \"OK\" + \"seemed so quiet\" (ch03) + Miles's \"dull eyes\" (ch03) 都是 loop 的 early signals。 Arthur Chumley = Linda's \"most important client\" = Emma's burden; \"Gemma\" 的 misnaming 是 recurring micro-aggression; \"ten million copies worldwide\" establishes his economic dominance over Emma. skimmed milk motif：Emma's futile gesture of control (skimmed milk vs hazelnut syrup; toad-in-the-hole vs forgotten letter) = her pattern of symbolic actions that change nothing. committee chat interlude：Denise/Catrin/Jas/AuthorLou/Claire/Hattie 的 messages 显示 Emma's simultaneous commitments; \"Poppy @Mum Dad says he doesn't know where my blazer is\" echoes ch03's blazer crisis.",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ch05 two years.md",
+   "chapter": "ch05",
+   "text_path": "text/ch05_chapter_5.txt",
+   "note": "",
+   "tail_lines": 6,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“Two whole years. You've upgraded us from 'Friends' to 'In a Relationship' on Facebook so I know we're pretty serious!”",
+     "zh": "Dan 开场：整整两年，Emma 把 Facebook 关系从 \"Friends\" 升级到 \"In a Relationship\"——所以他知道他们挺认真的。",
+     "why": "upgraded us 把关系升级写成 social-media action——Dan 用 Facebook 的 vocabulary 量化 intimacy，显示他们关系的 modern, slightly ironic tone. \"pretty serious\" 的 understatement (\"pretty\" = \"quite\") 是 Dan's voice: he downplays emotion with casual adverbs. This is the second anniversary letter (ch01 was first), establishing the annual ritual that Emma will break in ch02 (2021).",
+     "tip": "Facebook relationship status 是 2008 年的 cultural marker; \"upgraded\" 把 intimacy 写成 software update, humorous but sincere.",
+     "flags": [
+      "MIX_ZH",
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“I see a different side to you when you're with Hattie—I like busting in on you both when you're 'working from home' together—onesies and face masks on, laptops on standby as you make each other peal with laughter.”",
+     "zh": "Dan 看到 Emma 与 Hattie 在一起时的另一面——他喜欢撞见她们 \"在家办公\"：onesie + 面膜，laptop 待机，笑作一团。",
+     "why": "busting in on 把 Dan 的 intrusion 写成 playful (not jealous)—he's the observer of Emma's joy with Hattie. \"working from home\" 的引号暗示她们其实没在工作. onesies and face masks + laptops on standby = domestic intimacy tableau. peal with laughter (peal =「钟声般响起」) 把 laughter 写成 sound, not emotion. This is Dan's love language: he catalogues Emma's happiness with Hattie rather than resenting it.",
+     "tip": "peal =「（钟声般）鸣响」；busting in =「闯入」；Dan's jealousy is named (\"Maybe I should be a bit jealous\") but dismissed—his security is the point.",
+     "flags": [
+      "MIX_ZH",
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“You hint at the different childhoods we had. You say things casually sometimes, like the Christmas holiday you spent with Jules's family because your parents booked to go to Antigua for six weeks without you, and I'm sorry if my appalled looks derail you.”",
+     "zh": "Emma 暗示两人童年不同；她 casually 提到某年圣诞与 Jules 家过，因为父母订了六周 Antigua 而没带她；Dan 的 \"appalled looks\" 可能 derail 她。",
+     "why": "hint at + casually 把 Emma's trauma disclosure 写成 oblique, not dramatic—she drops it in passing. \"booked to go to Antigua for six weeks without you\" is the devastating fact, delivered in a subordinate clause. Dan's \"appalled looks\" + \"derail you\" shows his reaction is the problem (he can't hide shock), not her telling. \"these stories are your way of explaining why you work through things on your own sometimes\" is Dan's insight: Emma's independence is trauma-born, not personality. \"Why you forget that you're meant to tell your boyfriend where you're going\" connects childhood neglect to present-day communication failure—Emma doesn't announce plans because she learned no one is listening.",
+     "tip": "Antigua =「安提瓜岛」；derail =「使脱轨、打断」；appalled =「震惊的」。This is the childhood-trauma seed that explains ch02's \"dragging herself back from another place entirely.\"",
+     "flags": [
+      "MIX_ZH",
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 35,
+     "quote": "“You make my insides go haywire when you look at me a certain way.”",
+     "zh": "Emma 以某种眼神看他时，他的五脏六腑都翻腾。",
+     "why": "insides go haywire 把 love 写成 physiological chaos—Dan's body, not his mind, responds. \"a certain way\" is deliberately vague—the look is unnameable, which makes it more powerful. This is Dan's first \"You make me...\" item in the list that structures the letter's second half. The list format (You make my insides... / You fit in... / You give me space...) turns love into evidence, each item a proof. \"Should I admit that? Is that weird?\" shows Dan's self-consciousness about his own emotion.",
+     "tip": "haywire =「失控的、狂乱的」；\"a certain way\" 的 vagueness is the point—the look is felt, not described.",
+     "flags": [
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 41,
+     "quote": "“You make me braver. I can't believe I'm writing this from an airplane. You're right though, why not? It gives us both a chance to think about what we want to do long-term while also surfing.”",
+     "zh": "Emma 让他更勇敢；他不敢相信自己在飞机上写信；Emma 说得对，为什么不呢？给他们机会想长期计划，同时冲浪。",
+     "why": "make me braver is the letter's thesis—Emma as courage-source. \"I can't believe I'm writing this from an airplane\" shows Dan stepping out of comfort (he left his job, they're flying to Sydney). \"You're right though, why not?\"—Emma's spontaneity (mid-week Brighton, unicycle) has infected Dan. The airplane is a liminal space—between jobs, between countries, between years. \"sixteen whole weeks of JUST US\" (from earlier context) shows the trip's scale. This is Dan's growth arc: from \"burning out\" (strategy consultancy) to surfing in Sydney.",
+     "tip": "braver =「更勇敢的」；airplane as liminal space; \"JUST US\" (capitalized) emphasizes couple-ness; the trip is Emma's influence on Dan's life choices.",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 47,
+     "quote": "“Here's to an amazing third year together.”",
+     "zh": "敬我们精彩的第三年。",
+     "why": "Here's to 是 Dan's recurring toast formula (ch01: \"Here's to one year together\"). \"third year\" increments the count—ch01 was year 1, this is year 2→3. The toast is Dan's way of making the future concrete: he's not just celebrating, he's projecting. Placed at the end (after \"I am totally in love with you\"), it's both celebration and promise. The \"Here's to\" formula will recur in ch01's \"Here's to one year together\"—the loop's circularity.",
+     "tip": "Here's to =「敬……」；the \"third year\" count is the loop's temporal marker—each letter marks a Dec 3, and the count increments while Emma's attention fragments. childhood trauma seed：\"your parents booked to go to Antigua for six weeks without you\" 是 Emma's neglect 的 concrete instance; \"why you work through things on your own sometimes\" + \"why you forget that you're meant to tell your boyfriend where you're going\" 把 trauma 连接到 present-day communication failure (ch02's \"I had it in my bag all day\"). Hattie as chosen sister：Dan's letter reveals Emma's closeness to Hattie as compensatory (Emma's biological family is absent); \"Hattie always wished I was a girl\" shows Hattie's gender longing, Emma as substitute. \"You're still a bit of an enigma\"：Dan's observation that Emma is unknowable even to him—this is the loop's epistemological problem: Dan can't fully know Emma because she's always \"dragging herself back from another place.\" \"You make me braver\"：Dan's growth arc (leaving strategy consultancy, flying to Sydney) is attributed to Emma's spontaneity; this is the positive version of \"dragging herself back from another place\"—Emma's elsewhere-ness is also her freedom. \"Here's to an amazing third year together\"：the toast formula recurs; each Dec 3 letter marks a year, and the count increments while Emma's attention fragments—the loop's temporal engine.",
+     "flags": [
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ch06 the meeting.md",
+   "chapter": "ch06",
+   "text_path": "text/ch06_chapter_6.txt",
+   "note": "",
+   "tail_lines": 5,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“The well-lit, high-ceilinged lobby of the publishers was a relief after the taxi ride. Arthur now sat on a purple sofa directly beneath a large poster of his latest bestseller, bemoaning cancel culture and the extinction of the white male.”",
+     "zh": "publishers 的明亮高顶大厅在 taxi 之后是一种 relief；Arthur 坐在紫色沙发下，他最新 bestseller 的 poster 正上方，哀叹 cancel culture 与 white male 的 extinction。",
+     "why": "bemoaning (正式词) 与 Arthur 的 pompous voice 匹配；\"extinction of the white male\" 是 Arthur's self-dramatizing rhetoric—他把 industry 的 accountability 写成 species extinction. \"directly beneath a large poster of his latest bestseller\" 把 Arthur 的 ego 物理化—he's literally under his own image. purple sofa + poster = the agency's client-as-commodity reality.",
+     "tip": "bemoaning =「哀叹、抱怨」；extinction =「灭绝」；Arthur's rhetoric is the novel's satire of \"cancel culture\" discourse—Emma's job is to manage it.",
+     "flags": [
+      "MIX_ZH",
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“No one acknowledged the rancid stench, and as we stood in that tiny steel space I knew that scent was the smell of impending doom.”",
+     "zh": "没人承认那股腐臭；在那狭小的钢铁空间里，Emma 知道那气味就是 impending doom 的味道。",
+     "why": "rancid stench 是 fart 的 euphemistic but vivid description; \"no one acknowledged\" = collective denial, mirroring the meeting's dynamic (Arthur won't acknowledge harm). \"that scent was the smell of impending doom\" converts a bodily mishap into prophecy—Emma reads the lift's silence as omen. \"tiny steel space\" = claustrophobia; the lift as coffin. This is Emma's pattern: she reads environments for emotional truth.",
+     "tip": "rancid =「腐臭的」；stench =「恶臭」；impending doom =「迫在眉睫的厄运」。The fart-in-lift is the chapter's central metaphor: unacknowledged stench = unacknowledged harm.",
+     "flags": [
+      "MIX_ZH",
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“'I would much rather be stuck in bed with her, not her book. There'd be more action.'”",
+     "zh": "Arthur 的推文：「我宁可和她困在床上，而不是和她的书。那样会有更多 action。」",
+     "why": "The quote is Arthur's actual tweet—sexist, diminishing, comparing a female author's book to her body. \"stuck in bed with her, not her book\" reduces the author to a sexual object; \"more action\" implies her book is boring. This is the harm Melissa names (\"entirely unwarranted, disparaging remark\"). Emma's job is to manage this. The tweet is the chapter's inciting incident—everything else (the meeting, the lie) flows from it.",
+     "tip": "disparaging =「贬低的」；\"more action\" 的 double entendre (sexual action vs narrative action) is Arthur's \"joke\" that no one finds funny. This is the novel's critique of \"just a joke\" defenses.",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 35,
+     "quote": "“'Twitter is not private,' Melissa snapped, her mouth set in a hard line.”",
+     "zh": "Melissa 断然：\"Twitter 不是私下的。\"",
+     "why": "Melissa's snap + hard line = institutional authority. \"Twitter is not private\" is the chapter's thesis statement—Arthur's defense (\"I was speaking privately\") fails against platform reality. Melissa represents the publisher's brand-protection imperative; she's not Emma's ally but the industry's accountability mechanism. \"her mouth set in a hard line\" = her face as verdict.",
+     "tip": "snapped =「厉声说」；Melissa = Charter Publishing CEO; \"Twitter is not private\" is the novel's meta-commentary on social media accountability.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 41,
+     "quote": "“'Arthur knows how badly he got it wrong,' I piped up. 'In fact,' I added, straightening my shoulders, 'just on the way over, he mentioned how refreshing it was to see so many young female writers in the crime world. Didn't you, Arthur?'”",
+     "zh": "Emma 为 Arthur 辩护：\"Arthur 知道他错得有多离谱。\"\"事实上，\"她挺直肩膀，\"就在路上，他说看到犯罪小说界这么多年轻女作家，感到多么 refreshing。不是吗，Arthur？\"",
+     "why": "piped up =「插嘴、 chiming in」—Emma inserts herself into the conflict. \"straightening my shoulders\" = physical performance of confidence she doesn't feel. The lie (bursary scheme, \"refreshing to see so many young female writers\") is Emma's invention—she manufactures Arthur's redemption on the spot. \"Didn't you, Arthur?\" turns the lie into a question, forcing Arthur to assent. This is Emma's core skill: narrative management, converting harm into \"progress.\" The lie is also her moral pivot: she knows it's false (\"I sat on my hands, hoping I would not be smote down by my lies\").",
+     "tip": "piped up =「插嘴」；straightening shoulders =「挺直肩膀」；the lie is Emma's invention, not Arthur's—she's the one who fabricates the bursary scheme. This is her \"dragging herself back from another place\" in professional form.",
+     "flags": [
+      "MIX_ZH",
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 47,
+     "quote": "“Shame filled me as I realized my part in helping him.”",
+     "zh": "羞耻充满她，意识到自己在帮他脱身。",
+     "why": "Shame filled me is the chapter's emotional climax—Emma's moral reckoning. \"filled me\" = shame as bodily occupation, not thought. \"my part in helping him\" = she recognizes her complicity. This is the first time Emma names her own moral cost. The shame is the seed of her later questioning (\"What was I doing?\" in ch04). Arthur's \"getting away with it\" (\"Arthur was getting away with it; I could feel my shoulders dropping\") contrasts with Emma's shame—she's the one who pays.",
+     "tip": "Shame filled me =「羞耻充满我」；this is Emma's moral pivot point—the lie saves Arthur but costs Emma; the shame will recur in the loop.",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 7,
+     "line": 53,
+     "quote": "“Me @Dan Have we got any zucchini? The kids are really bored of peas.”",
+     "zh": "Emma 的 chat 消息：\"Dan，我们有西葫芦吗？孩子们吃豌豆都吃腻了。\"",
+     "why": "The chat interlude (Me @Dan) is Emma's \"normal life\" intruding on her professional crisis—she's managing dinner while processing shame. \"Have we got any zucchini?\" is domestic minutiae; \"The kids are really bored of peas\" is Emma's parenting guilt. The chat's triviality contrasts with the meeting's gravity—Emma compartmentalizes. \"Me @Dan Dan . . . ?\" (the final message) echoes ch02's \"Oh my God.\"—Emma reaching for Dan and not getting a response. The ellipsis \"Dan . . . ?\" is her uncertainty about their connection.",
+     "tip": "zucchini =「西葫芦」；peas =「豌豆」；the chat interlude shows Emma's domestic life continuing alongside professional crisis; \"Dan . . . ?\" is her reaching for connection that ch02 showed was already fraying. Emma's third lie：ch02 有两次 lie（\"I had it in my bag all day\" / \"It was the telly\"）；ch06 的 bursary lie 是第三次，且是 professional lie—她 now lies for Arthur, not just for herself. This is her moral pivot. \"Shame filled me\"：Emma's first named moral cost; the shame will recur in the loop. Arthur \"getting away with it\" while Emma pays is the novel's critique of publishing's power structure. \"Gemma\"：Arthur's misnaming recurs; Emma tolerates it because of his economic power. This is the agency's hierarchy: Linda manages Arthur, Emma manages the crisis, Arthur manages nothing. Me @Dan chat：Emma's domestic life (zucchini, peas) continues alongside professional shame; \"Dan . . . ?\" echoes ch02's \"Oh my God.\"—she reaches for Dan and he's not there. This is the loop's emotional throughline.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    }
+   ]
+  }
+ ]
+}

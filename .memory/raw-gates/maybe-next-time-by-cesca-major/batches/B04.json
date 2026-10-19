@@ -1,0 +1,393 @@
+{
+ "batch": "B04",
+ "note": "",
+ "chapters": [
+  {
+   "file": "ch16 fifteen years.md",
+   "chapter": "ch16",
+   "text_path": "text/ch16_chapter_16.txt",
+   "note": "",
+   "tail_lines": 7,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“Tomorrow will be fifteen years since we met. That is an achievement, something to celebrate. Well, I think it is. And I used to think you did too.”",
+     "zh": "Dan 开场：\"明天是我们相遇十五周年。那是 achievement，值得庆祝。Well, 我觉得是。我曾经觉得你也觉得。\"",
+     "why": "fifteen years since we met = the loop's temporal count (ch01: year 1, ch05: year 3, ch09: year 4, ch12: year 5, now: year 15). \"I used to think you did too\" = Dan's perception shift—Emma used to celebrate, now she doesn't. The \"used to\" is devastating: it marks the marriage's decline. \"Well, I think it is\" = Dan hedging, defending his own feeling against Emma's indifference.",
+     "tip": "fifteen years = the loop's maximum count; \"I used to think you did too\" = Dan's perception of Emma's decline; this is Dan's last letter.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“I went to kiss you good night but you turned back to your phone so it just skidded onto your chin.”",
+     "zh": "Dan 去 kiss Emma good night，但她 turned back to phone，kiss 就 skidded onto her chin。",
+     "why": "turned back to your phone = Emma's reflex—she's physically turning away from Dan toward her phone. \"skidded onto your chin\" = the kiss missing its target—Dan's affection literally slides off Emma's face. This is the marriage's physical language: Dan reaches, Emma turns away. \"skidded\" (like a car skidding) = the kiss's failed trajectory. This is the novel's most intimate image of disconnection.",
+     "tip": "skidded =「滑行、滑落」；\"turned back to your phone\" = Emma's reflex; this is the marriage's physical disconnection—Dan reaches, Emma turns away.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“Arthur Chump, or whatever his name is, is a big deal but actually it’s been a really shit weekend watching you glued to your mobile as Twitter explodes because the guy is a complete arsehole.”",
+     "zh": "Arthur Chump（或 whatever his name is）is a big deal，but actually it's been a really shit weekend watching you glued to your mobile as Twitter explodes because the guy is a complete arsehole。",
+     "why": "Arthur Chump = Dan's dismissive renaming (chump =「傻瓜」)—he's reducing Arthur to a nickname, diminishing Emma's professional investment. \"glued to your mobile\" = Emma's physical attachment to her phone (like ch04's \"creature of habit\"). \"complete arsehole\" = Dan's judgment of Arthur—he sees through the \"most successful client\" facade. \"really shit weekend\" = Dan's frustration at Emma's absence during their anniversary weekend. This is Dan's voice at its most honest: he's angry but also hurt.",
+     "tip": "Chump =「傻瓜」；glued to your mobile = Emma's physical attachment to phone; arsehole =「混蛋」（英式）；Dan's anger is both professional (Arthur is Linda's client, not Emma's) and personal (Emma is absent).",
+     "flags": [
+      "MIX_ZH",
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 35,
+     "quote": "“I’ve searched for your letter. And I can’t find one.”",
+     "zh": "\"我搜过你的信。我找不到。\"",
+     "why": "I've searched for your letter = Dan's desperation—he's looking for Emma's annual letter. \"I can't find one\" = Emma forgot again (the loop). \"I also stooped to dropping pretty weak cryptic hints this evening and you didn't respond\" = Dan's attempts to jog her memory (The Sound of Music, lederhosen, busy tube, 3rd of December). \"Why do you think I suggested we watched The Sound of Music despite the kids moaning about it?\" = Dan's clue was the film from ch01 (he was dressed as an extra in The Sound of Music when they met). Emma didn't recognize it. This is the loop's deepest cut: Dan is trying to remind Emma of their origin story, and she doesn't see it.",
+     "tip": "I've searched for your letter = Dan's desperation; \"weak cryptic hints\" = his attempts to jog her memory; The Sound of Music = the film from ch01 (their meeting); Emma didn't recognize the clue. This is the loop's deepest cut—Dan is trying to remind Emma of their origin, and she doesn't see it.",
+     "flags": [
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 41,
+     "quote": "“If you’ve forgotten again I don’t know what I’ll do, Emma—because what does it mean? How low on your To Do List am I? Am I just another thing to check off, another thing to manage?”",
+     "zh": "\"如果你又忘了，我不知道我还能做什么，Emma——这意味着什么？我在你 To Do List 上有多低？我只是 another thing to check off, another thing to manage?\"",
+     "why": "what does it mean? = Dan's existential question—if Emma forgot the letter, does the anniversary mean nothing? \"How low on your To Do List am I?\" = Dan is quantifying his importance to Emma—am I below Arthur, below Twitter, below the committee? \"another thing to check off, another thing to manage\" = Dan's fear of being reduced to a task. This is Emma's core flaw (from ch04's \"brain flying off in five different directions\") externalized: Emma manages everything, including Dan, as tasks. \"I want to be the thing, the person, who makes you hop out of bed in the morning\" = Dan's desire—to be Emma's priority, not her task.",
+     "tip": "To Do List = Emma's management framework; \"check off\" = reducing Dan to a task; \"hop out of bed\" = Dan's desire to be Emma's excitement, not her obligation. This is Dan's deepest fear: being managed, not loved.",
+     "flags": [
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 47,
+     "quote": "“I love you, Emma, I love you so much. But sometimes I lie here and even when you’re next to me I feel alone.”",
+     "zh": "\"我爱你，Emma，我非常爱你。但有时我躺在这，即使你在我身边，我也感到孤独。\"",
+     "why": "This is Dan's last declaration of love—and his last confession. \"I love you so much\" = sincere, doubled for emphasis. \"even when you're next to me I feel alone\" = the marriage's final diagnosis—physical proximity without emotional presence. \"lie here\" = Dan is in bed, Emma is next to him, but he's alone. This is the novel's central tragedy: two people in the same bed, one feeling alone. The sentence will be the last thing Dan writes to Emma before he dies (tonight). It's his final truth.",
+     "tip": "\"even when you're next to me I feel alone\" = the marriage's final diagnosis; this is Dan's last letter; he'll die tonight; this is his final truth to Emma.",
+     "flags": [
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 7,
+     "line": 53,
+     "quote": "“P.S. And if you have remembered, and you are just playing this REALLY well, then a) I’m sorry for the rant and b) you’d make a fucking amazing spy.”",
+     "zh": "P.S. \"如果你记得了，只是装得很好，那么 a) 对 rant 抱歉 b) 你'd make a fucking amazing spy.\"",
+     "why": "P.S. = Dan's comic relief—after the raw confession, he retreats to humor. \"playing this REALLY well\" = Dan's hope that Emma is pretending to forget (she's not). \"you'd make a fucking amazing spy\" = Dan's final joke—Emma's ability to seem present while being elsewhere is spy-like. The humor is Dan's defense mechanism: when he's most vulnerable, he jokes. \"fucking\" = his frustration breaking through. This is Dan's last line to Emma—humor as love, humor as armor.",
+     "tip": "P.S. = Dan's comic relief; \"fucking amazing spy\" = his final joke; this is Dan's last communication before death. The humor masks the pain. \"playing this REALLY well\" = Dan's hope (false) that Emma is pretending. Dan's last letter：这是 Dan 死前最后的信。他死于今晚（Dec 3, 2021）。这封信是他的 final communication to Emma. \"I love you so much. But sometimes I lie here and even when you're next to me I feel alone\" = his final truth. Emma will find this letter (or not?) after his death. The envelope (ch15: \"I never read it\")—wait, that was Dan's letter in the present-day (2021), not this one. This IS the letter Emma didn't read (ch15: \"The envelope, with his letter to me inside, still unopened on the table. I never read it.\"). So Dan's last letter IS this one, and Emma never read it. \"I've searched for your letter. And I can't find one.\" = Emma forgot again. The loop: every year Dan writes, Emma sometimes forgets. This year she forgot again. Dan's \"I won't assume you've forgotten again... I really HOPE I'm wrong\" = his hope against evidence. He's wrong. The Sound of Music clue：Dan suggested watching The Sound of Music (ch01: he was dressed as an extra in The Sound of Music when they met). Emma didn't recognize the clue. This is the loop's deepest cut—Dan is trying to remind Emma of their origin story, and she doesn't see it. \"even when you're next to me I feel alone\"：the marriage's final diagnosis. This is the novel's central tragedy: two people in the same bed, one feeling alone. Dan's final truth. P.S. \"you'd make a fucking amazing spy\"：Dan's final joke. Emma's ability to seem present while being elsewhere is spy-like. The humor masks the pain. This is Dan's last line to Emma—humor as love, humor as armor. loop structure：This letter is written the night of Dec 3, 2021—the same night Dan dies (ch14). The letter is written before the accident. Dan doesn't know he'll die tonight. The letter's final line (\"you'd make a fucking amazing spy\") is his last words to Emma. She'll find the letter (or not?) after his death. The unread letter (ch15: \"I never read it\") is this letter. The loop's tragedy: Dan's last words to Emma are unread.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ch17 the reset.md",
+   "chapter": "ch17",
+   "text_path": "text/ch17_chapter_17.txt",
+   "note": "",
+   "tail_lines": 8,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“I bolted upright, a strange noise escaping from my lips.”",
+     "zh": "Emma bolt upright，a strange noise escaping from her lips。",
+     "why": "bolted upright = Emma's body reacts before her mind—she's jolted awake by the dream/memory of Dan's death. \"a strange noise escaping from my lips\" = she can't speak, only make noise—her body is processing trauma before her mind catches up. This is the loop's reset moment: Emma wakes up, Dan is alive, but her body remembers.",
+     "tip": "bolted upright =「猛坐起来」；strange noise = Emma's body processing trauma before her mind; the loop's reset is physical before cognitive.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“You died,” I said, my voice catching.",
+     "zh": "\"你死了，\"Emma 说，voice catching。",
+     "why": "\"You died\" is Emma's first spoken acknowledgment of the loop—she's telling Dan he died (in the previous iteration). \"voice catching\" = her voice breaking on the words—she's terrified. Dan's response (\"Woah, that was some dream\") shows he doesn't understand—Emma is in the loop, Dan isn't. This is the novel's central asymmetry: Emma remembers, Dan doesn't. \"You died\" is the loop's first verbal marker.",
+     "tip": "You died = Emma's first spoken acknowledgment of the loop; Dan doesn't understand (he's not in the loop); this is the novel's central asymmetry—Emma remembers, Dan doesn't.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“His hand gripped my arm and I stared down at it: solid, warm, real.”",
+     "zh": "Dan 的 hand gripped her arm，她 stared down at it：solid, warm, real。",
+     "why": "solid, warm, real = Emma's sensory verification—she's checking if Dan is real. \"solid\" (physical), \"warm\" (alive), \"real\" (not a dream). This is Emma's loop-verification: she touches Dan to confirm he's alive. The three adjectives escalate: solid (exists) → warm (alive) → real (not dream). This is the loop's sensory confirmation: Dan is alive, the previous iteration was real.",
+     "tip": "solid, warm, real = Emma's sensory verification; the three adjectives escalate from existence to life to reality.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 35,
+     "quote": "“I love you,” I mumbled into his back. Because, if this was going to end, if this was the dream, I wanted those to be the words I said to him.",
+     "zh": "\"I love you,\" Emma mumbled into his back. Because, if this was going to end, if this was the dream, she wanted those to be the words she said to him.",
+     "why": "Emma says \"I love you\" because she fears this moment will end—she's hedging against the loop resetting. \"if this was going to end, if this was the dream\" = she doesn't know if this is real or a dream (the loop's ambiguity). \"I wanted those to be the words I said to him\" = Emma's regret from ch15 (\"the last things I'd said to Dan... I had ruined it\")—she's correcting her last words. This is Emma's loop-correction: she's trying to say the right thing this time.",
+     "tip": "I love you = Emma's correction of her last words (ch15: \"I had ruined it\"); \"if this was going to end\" = her fear of the loop resetting; this is the loop's first correction attempt.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 41,
+     "quote": "“Be careful!” I said suddenly.",
+     "zh": "\"Be careful!\" Emma 突然说。",
+     "why": "Be careful! = Emma's desperate warning to Dan (she knows he'll die today if she doesn't prevent it). Dan's response (\"I will be extra careful\") + laugh = he doesn't understand the stakes. \"His laugh was loud and strange in the small space\" = Dan's laugh is \"strange\" to Emma—she's hearing it as if for the first time (because, in a sense, she is: she's reliving this moment). \"Please don't let it end\" = Emma's fear of the loop resetting—she wants this moment to last.",
+     "tip": "Be careful! = Emma's desperate warning; Dan doesn't understand; \"Please don't let it end\" = her fear of the loop resetting.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 47,
+     "quote": "“Monday. / It was Monday, 3rd December. / Again.”",
+     "zh": "\"Monday.\" \"It was Monday, 3rd December.\" \"Again.\"",
+     "why": "This is the loop's mechanical reveal: Emma checks her phone and sees \"Monday, 3rd December\"—the same date as the day Dan died. \"Again.\" is the chapter's terminal word—one word, capitalized, period. It confirms: Emma is reliving Dec 3. The loop is real. \"Again\" is the novel's key word—the loop's confirmation. Emma now knows she's in a loop (or at least that today is Dec 3 again). This is the novel's central structural reveal.",
+     "tip": "Monday, 3rd December. Again. = the loop's mechanical reveal; \"Again.\" is the chapter's terminal word; Emma now knows she's reliving Dec 3. This is the novel's central structural pivot. \"Again.\"：这是 novel 的 central structural reveal—Emma is reliving Dec 3. The loop is real. \"Again.\" is one word, capitalized, period. It confirms everything: the sound, the run, Dan's death, the \"After.\" The reader now knows the loop's mechanism. \"You died\"：Emma's first spoken acknowledgment of the loop—she's telling Dan he died (in the previous iteration). Dan doesn't understand (he's not in the loop). This is the novel's central asymmetry: Emma remembers, Dan doesn't. \"solid, warm, real\"：Emma's sensory verification—she's checking if Dan is alive. The three adjectives escalate: solid (exists) → warm (alive) → real (not dream). This is the loop's sensory confirmation. \"I love you\"：Emma's correction of her last words (ch15: \"I had ruined it\"). She's trying to say the right thing this time. The loop's first correction attempt. \"Be careful!\"：Emma's desperate warning to Dan (she knows he'll die today if she doesn't prevent it). Dan doesn't understand. \"Please don't let it end\" = her fear of the loop resetting. committee chat interlude：same as ch03 (Denise/Catrin)—the loop's reset content. Emma is reliving the same day, and the same messages appear. This confirms the loop: same day, same messages, same events. loop structure：ch02 (sound) → ch13 (same sound, Miles awake) → ch14 (Emma finds Dan dead) → ch15 (aftermath, \"The Day After\") → ch17 (loop reset, Emma wakes up, Dan alive, \"Again.\"). The loop's five iterations. The reader now sees the full cycle: wake → live → sound → run → find Dan dead → reset → wake again. Emma is the only one who remembers (partially—she remembers the \"dream\" but not that she's looping).",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ch18 the second loop.md",
+   "chapter": "ch18",
+   "text_path": "text/ch18_chapter_18.txt",
+   "note": "",
+   "tail_lines": 7,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“What. The. Hell.”",
+     "zh": "\"What. The. Hell.\"",
+     "why": "Three words, each a separate sentence, each a period—Emma's shock at finding herself in the loop again. \"What. The. Hell.\" is more profane than ch17's \"You died\"—she's moved from grief to disbelief. The periods create staccato rhythm—each word a separate thought. This is the loop's second iteration: Emma knows (or suspects) she's reliving Dec 3, but she's testing reality rather than accepting.",
+     "tip": "What. The. Hell. = Emma's shock at the loop's repetition; three separate sentences = staccato shock; this is the loop's second iteration.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“I lifted my heel, felt the smooth skin with my finger: no rub from any heels.”",
+     "zh": "Emma lifted her heel, felt the smooth skin with her finger: no rub from any heels。",
+     "why": "no rub from any heels = Emma's reality test—she's checking if the day's damage (ch04's cyclist incident, heel rub) has occurred. The smooth skin = the loop has reset—Emma's body is unharmed. \"smooth skin\" = the loop's physical reset: Emma's body is restored. This is Emma's diagnostic: she's checking if the loop is real by checking her body's damage. The heel rub (from ch04) is gone = the day hasn't happened yet.",
+     "tip": "no rub from any heels = the loop's physical reset; Emma's body is restored; this is her reality test.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“It wasn’t actually too bad.”",
+     "zh": "",
+     "why": "",
+     "tip": "",
+     "flags": [
+      "NO_ZH",
+      "NO_WHY",
+      "NO_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 32,
+     "quote": "“The film, The Sound of Music, we’d watched on Sunday night, bunched all together on our big L-shaped sofa.”",
+     "zh": "Miles 说 \"It wasn't actually too bad\" (The Sound of Music)；Emma remembers they watched it Sunday night, bunched on the L-shaped sofa。",
+     "why": "\"It wasn't actually too bad\" = Miles's concession about The Sound of Music (ch16: Dan's clue—The Sound of Music was the film from their meeting). Emma's \"we'd watched on Sunday night\" = she's confirming the timeline: Sunday night they watched the film, Monday (today) is Dec 3. This is Emma's reality test: the film was Sunday, not today. The loop has reset to Monday morning. \"bunched all together on our big L-shaped sofa\" = the family's togetherness—Emma is holding onto this image.",
+     "tip": "The Sound of Music = the film from ch01 (Dan was dressed as an extra); \"Sunday night\" = the timeline anchor; Emma is confirming the loop has reset to Monday morning.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 38,
+     "quote": "“Please don’t. Just stay. I want us all to have breakfast here. Together. Now.”",
+     "zh": "\"Please don't go anywhere, please. I want us all to have breakfast here. Together. Now.\"",
+     "why": "Please don't go anywhere = Emma's desperate attempt to keep Dan home (she knows he'll die if he goes out). \"Together. Now.\" = Emma's urgency—she wants the family together, now, before the loop's trigger (the sound, the accident). This is Emma's first correction attempt: she's trying to prevent Dan's death by keeping him home. But Dan doesn't understand (he's not in the loop). \"I needed more time. If this was really real, I needed more.\" = Emma's realization that she needs time to figure out the loop.",
+     "tip": "Please don't go anywhere = Emma's attempt to prevent Dan's death; \"Together. Now.\" = her urgency; Dan doesn't understand the stakes.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 44,
+     "quote": "“'Mum's being weird.'”",
+     "zh": "",
+     "why": "",
+     "tip": "",
+     "flags": [
+      "NO_ZH",
+      "NO_WHY",
+      "NO_TIP"
+     ]
+    },
+    {
+     "n": 7,
+     "line": 47,
+     "quote": "“'Yeah. Really weird.'”",
+     "zh": "",
+     "why": "",
+     "tip": "",
+     "flags": [
+      "NO_ZH",
+      "NO_WHY",
+      "NO_TIP"
+     ]
+    },
+    {
+     "n": 8,
+     "line": 50,
+     "quote": "“'She just loves us,' I heard Dan reply as my hand stilled on the doorknob.”",
+     "zh": "\"Mum's being weird.\" \"Yeah. Really weird.\" \"She just loves us,\" Dan reply as Emma's hand stilled on the doorknob。",
+     "why": "Mum's being weird / Yeah. Really weird = the children's observation—Emma's loop-awareness reads as \"weird\" behavior. \"She just loves us\" = Dan's interpretation—Emma's weirdness is love, not madness. This is the family's misreading of Emma's loop-awareness: they see her behavior as odd, Dan reframes it as love. \"I do love you, I thought, closing my eyes for a moment. I love you so much.\" = Emma's internal confirmation—she does love them, and her weirdness is her trying to hold onto them. The loop's irony: Emma's love manifests as \"weirdness\" because she knows what's coming.",
+     "tip": "Mum's being weird = the family's misreading of Emma's loop-awareness; \"She just loves us\" = Dan's interpretation; Emma's weirdness is her trying to prevent the loop's tragedy. reality-testing：Emma's reality tests (heel rub, Miles's room, Sound of Music) are the loop's diagnostic—she's checking if the day has reset. The smooth skin (no heel rub) = the loop has reset Emma's body. \"The Sound of Music\" was Sunday (not today) = the loop has reset the timeline. This is Emma's first systematic test of the loop. \"Please don't go anywhere\"：Emma's first correction attempt—she's trying to prevent Dan's death by keeping him home. But Dan doesn't understand (he's not in the loop). Emma can't tell him why (she can't explain the loop without sounding insane). This is the loop's central tension: Emma knows, Dan doesn't. \"Mum's being weird.\" / \"She just loves us.\"：the family's misreading of Emma's loop-awareness. Emma's \"weirdness\" is her love—she's trying to hold onto them because she knows what's coming. Dan reframes her weirdness as love, which is both true and insufficient. committee chat interlude：same as ch03/ch17—the loop's reset content. Emma is reliving the same day, and the same messages appear. This confirms the loop: same day, same messages, same events. \"I do love you\"：Emma's \"I do love you\" (ch18) echoes ch17's \"I love you\" (her correction of ch15's \"I had ruined it\"). The loop is giving Emma a second chance to say the right thing. But she'll forget again (the loop resets). loop structure：ch17 (loop reset, Emma wakes, \"Again.\") → ch18 (loop iteration #2, Emma tests reality, tries to prevent Dan's death). The loop is giving Emma another chance. But she can't prevent it (she goes to work, Dan goes out). The loop will repeat.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ch19 five years.md",
+   "chapter": "ch19",
+   "text_path": "text/ch19_chapter_19.txt",
+   "note": "",
+   "tail_lines": 7,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“I’m sorry.”",
+     "zh": "\"I'm sorry.\"",
+     "why": "Two words, standalone, period. This is the letter's opening—no greeting, no preamble. \"I'm sorry\" is Dan's rawest admission. The brevity is the point: Dan has no capacity for the elaborate lists (ch05's a–f, ch09's a–f) or the humor (ch16's \"Arthur Chump\"). He's stripped down. This is Dan at his lowest—separated, in therapy, writing an apology. The period after \"sorry\" is final, not conversational.",
+     "tip": "I'm sorry = Dan's rawest admission; the brevity is the point—no lists, no humor, just apology.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“You didn’t do this to us. I know you saw us as a team. I let you down.”",
+     "zh": "\"You didn't do this to us. I know you saw us as a team. I let you down.\"",
+     "why": "You didn't do this to us = Dan absolving Emma—she didn't cause the separation. \"I know you saw us as a team\" = Emma's perception (they were partners) vs Dan's reality (he failed). \"I let you down\" = Dan's accountability—three words, no excuses. This is the marriage's central confession: Dan takes responsibility. The contrast with Emma's unsent letter (ch12: \"you're lost and I can't get to you\") shows both are suffering, but Dan is the one who left.",
+     "tip": "You didn't do this to us = Dan absolving Emma; \"I let you down\" = his accountability; this is the marriage's central confession.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“I’ve been to the GP who has helped and I’ve booked to see a new therapist. Hattie’s been brilliant too—I’m so lucky to have her, I know she wants me to piece myself together.”",
+     "zh": "Dan 去了 GP（有帮助），booked a new therapist；Hattie 很 brilliant，他 so lucky to have her，她想让他 piece himself together。",
+     "why": "GP (General Practitioner) + therapist = Dan is seeking professional help—this is his recovery narrative. \"Hattie's been brilliant\" = Hattie as Dan's support (she's his sister, Emma's sister-in-law). \"piece myself together\" = Dan's self-diagnosis—he's fragmented, broken. The phrase echoes ch12's \"I know I need to do better\" but with action: he's not just knowing, he's doing (therapy, GP). This is Dan's growth: from \"I know I need to do better\" (ch12) to \"I've booked to see a new therapist\" (ch19).",
+     "tip": "GP =「全科医生」；therapist =「治疗师」；\"piece myself together\" = Dan's fragmentation; Hattie as support; this is Dan's recovery narrative.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 35,
+     "quote": "“You were just here, dropping Poppy round, her hair in bunches, yellow leggings with zebras I’ve never seen before. Your hair is longer, your eyes red rimmed. I wanted to snatch up your hand and beg you to come in too but, like a coward, I’ve let you leave.”",
+     "zh": "Emma 刚 drop Poppy round，her hair in bunches, yellow leggings with zebras；Emma's hair longer, eyes red rimmed；Dan wanted to snatch her hand and beg her to come in, but like a coward, let her leave。",
+     "why": "dropping Poppy round = the custody arrangement—Emma brings Poppy to Dan, then leaves. \"her hair in bunches, yellow leggings with zebras\" = Poppy's appearance (Dan notices details). \"Your hair is longer, your eyes red rimmed\" = Dan reading Emma's body (she's been crying, she's changed). \"I wanted to snatch up your hand and beg you to come in too\" = Dan's desire (physical, desperate). \"like a coward, I've let you leave\" = Dan's self-judgment—he couldn't ask Emma to stay. This is Dan's pattern: he wants but doesn't ask (ch05: \"Maybe I should be a bit jealous\" but doesn't act).",
+     "tip": "red rimmed =「红 rimmed」；\"like a coward\" = Dan's self-judgment; \"snatch up your hand\" = his physical desire for Emma; this is Dan's vulnerability.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 41,
+     "quote": "“I’m going to seal this letter now and drop it straight to you before I change my mind.”",
+     "zh": "\"I'm going to seal this letter now and drop it straight to you before I change my mind.\"",
+     "why": "seal this letter now = Dan's urgency—he's sending it immediately. \"before I change my mind\" = Dan's vulnerability—he might not send it if he waits. This is Dan's pattern: he writes, then hesitates, then sends. The letter is an act of courage (he's reaching out). \"drop it straight to you\" = physical delivery (not mail—hand-delivered). This is Dan's effort to reconnect.",
+     "tip": "seal this letter now = Dan's urgency; \"before I change my mind\" = his vulnerability; \"drop it straight to you\" = hand-delivered, personal.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 47,
+     "quote": "“Because this day is the day I met you and you were the best thing that ever happened to me.”",
+     "zh": "\"因为这天是我遇见你的日子，你是我生命中 ever happened 的 best thing。\"",
+     "why": "this day is the day I met you = the anniversary's enduring meaning—Dec 3 is sacred. \"you were the best thing that ever happened to me\" = Dan's final valuation of Emma. \"best thing that ever happened to me\" = no hedging, no irony—pure sincerity. This is Dan's most direct statement of love in the novel (after ch01's \"Thank God for that Boots receipt\" and ch05's \"I am totally in love with you\"). The letter ends here—Dan's last words of this year.",
+     "tip": "best thing that ever happened to me = Dan's purest statement of love; this is the anniversary's enduring meaning despite the separation. separation year：这是 Dan 和 Emma 分居的第一年。Dan 离开了家，Emma 和 Poppy（+ Miles?）留在家里。Dan 的 \"You didn't do this to us\" = 他 absolving Emma—she didn't cause the separation. \"I let you down\" = his accountability. Dan's recovery：GP + therapist + Hattie's support = Dan is trying to recover. \"I want to be brave this year\" = his commitment to change. This is Dan's growth from \"I know I need to do better\" (ch12) to action. \"I'm going to seal this letter now and drop it straight to you before I change my mind\"：Dan's vulnerability—he might not send it if he waits. This is Dan reaching out, despite his fear. \"Because this day is the day I met you and you were the best thing that ever happened to me\"：Dan's purest statement of love. Despite the separation, Dec 3 remains sacred. This is the anniversary's enduring meaning. Poppy's appearance：\"her hair in bunches, yellow leggings with zebras\" = Dan notices Poppy's details (he's been missing her). \"Your hair is longer, your eyes red rimmed\" = Emma has changed (crying, grown). \"I wanted to snatch up your hand\" = Dan's physical desire for Emma. loop structure：This letter is from 2011 (10 years before the present-day loop). Dan and Emma are separated but Dan is trying to reconnect. The letter's \"I want to be brave this year\" is Dan's commitment to change. In the loop, Dan will die on Dec 3, 2021—but in 2011, he's alive and trying. The loop's temporal structure: past letters (ch01, ch05, ch09, ch12, ch16, ch19) show the marriage's arc from meeting to separation to (eventually) reconciliation. The present-day loop (ch02–ch18) is the loop's \"After\"—Dan dies, Emma relives, tries to prevent. The past letters show what was lost.",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    }
+   ]
+  }
+ ]
+}

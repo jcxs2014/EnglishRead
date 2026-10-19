@@ -1,0 +1,345 @@
+{
+ "batch": "B06",
+ "note": "",
+ "chapters": [
+  {
+   "file": "ch24 telling jas.md",
+   "chapter": "ch24",
+   "text_path": "text/ch24_chapter_24.txt",
+   "note": "",
+   "tail_lines": 7,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“'Emma, EMMA,' she called over me scrabbling around for more examples. 'What's going on? Why are you having a nervous breakdown? You're freaking me out.'”",
+     "zh": "Jas 叫 Emma：\"Emma, EMMA\"，over her scrabbling around for more examples。\"What's going on? Why are you having a nervous breakdown? You're freaking me out.\"",
+     "why": "nervous breakdown = Jas's interpretation of Emma's behavior—she thinks Emma is having a breakdown, not experiencing a loop. \"freaking me out\" = Jas's fear—Emma's knowledge is unsettling. This is the loop's first sharing: Emma tries to explain, Jas resists. The comedy (Emma knowing about the apple turnover, witches) becomes the evidence.",
+     "tip": "nervous breakdown = Jas's interpretation; \"freaking me out\" = her fear; Emma's knowledge as evidence.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“'I'm not guessing, Jas. I'm not guessing. I know this because I lived it before. Literally before. We talked yesterday, which was today, and you were in the loo and I found you and you gave me an apple turnover and . . .'”",
+     "zh": "\"I'm not guessing, Jas. I'm not guessing. I know this because I lived it before. Literally before. We talked yesterday, which was today, and you were in the loo and I found you and you gave me an apple turnover and . . .\"",
+     "why": "I lived it before = Emma's claim—the loop is real, she's lived this day. \"Literally before\" = her emphasis—she's not speaking figuratively. \"We talked yesterday, which was today\" = Emma's confusion about temporal language—the loop collapses yesterday and today. \"and you were in the loo and I found you and you gave me an apple turnover\" = her evidence—specific, verifiable details. This is Emma's proof: she knows things she shouldn't know.",
+     "tip": "I lived it before = Emma's claim; \"Literally before\" = her emphasis; the specific details (apple turnover, loo, witches) are her evidence.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“'This so happened in a book I read. Where this man kept waking up every day and reliving it.'”",
+     "zh": "\"This so happened in a book I read. Where this man kept waking up every day and reliving it.\"",
+     "why": "Jas's comparison to a book = she's processing the loop through fiction (she's a reader, like Emma). \"Where this man kept waking up every day and reliving it\" = Jas's description of the loop—she understands the concept. \"No, I don't think so\" (Emma's response) = Emma's denial—she doesn't want it to be Groundhog Day (repeating forever). \"I think it's just a one-off, maybe?\" = Emma's hope—it's a one-time thing, not a loop. But it's not.",
+     "tip": "This so happened in a book I read = Jas processing through fiction; \"waking up every day and reliving it\" = her description of the loop; Emma's denial (\"I don't think so\") = her hope.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 35,
+     "quote": "“'Dan . . . Dan died. I saw him, he was . . . dead. Last night, at the end of the day.'”",
+     "zh": "\"Dan . . . Dan died. I saw him, he was . . . dead. Last night, at the end of the day.\"",
+     "why": "Dan died = Emma's confession—she's telling Jas about Dan's death. \"he was . . . dead\" = the ellipsis shows her hesitation—she can't say it cleanly. \"Last night, at the end of the day\" = the temporal marker—Dan died at the end of Dec 3. Jas's response (\"What?\" / \"I love Dan\") = her shock and love. \"I know you do\" (Emma) = their shared connection. This is Emma's first confession of Dan's death to another person (she couldn't tell Hattie in ch22). Jas is the first person who knows.",
+     "tip": "Dan died = Emma's confession; \"he was . . . dead\" = her hesitation; Jas's \"I love Dan\" = their shared connection; Emma's first confession of Dan's death.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 41,
+     "quote": "“'He gets run over. In the street near our house.'”",
+     "zh": "\"He gets run over. In the street near our house.\"",
+     "why": "He gets run over = the fact—Dan is hit by a car. \"In the street near our house\" = the location—near their home. This is Emma's description of Dan's death—simple, factual, devastating. Jas's response: \"Fuck.\" / \"I know.\" = their shared grief. \"The panic swelled within me\" = Emma's fear returning.",
+     "tip": "He gets run over = the fact; \"In the street near our house\" = the location; Jas's \"Fuck\" = their shared grief.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 47,
+     "quote": "“'Well, it's obvious . . .' Jas said, placing the cup on the side. 'You have to save him. You've been given a second chance. That's . . . that's pretty amazing.'”",
+     "zh": "\"Well, it's obvious . . .\" Jas said, placing the cup on the side. \"You have to save him. You've been given a second chance. That's . . . that's pretty amazing.\"",
+     "why": "You have to save him = Jas's instruction—the loop's purpose is clear. \"You've been given a second chance\" = Jas's interpretation—the loop is a gift, not a curse. \"That's . . . that's pretty amazing\" = Jas's awe—she sees the miracle in the horror. \"And I felt a heat spread through my body as she said it. She was right.\" = Emma's acceptance—Jas is right, the loop's purpose is to save Dan. \"Other things might go differently but I couldn't let that happen. This was the point. It had to be why.\" = Emma's realization—the loop exists to save Dan. \"I'd been given a chance to stop it.\" = the loop's thesis.",
+     "tip": "You have to save him = the loop's purpose; \"You've been given a second chance\" = Jas's interpretation; \"I'd been given a chance to stop it\" = Emma's realization. This is the loop's thesis: the loop exists to save Dan. Jas as believer：Jas is the first person who believes Emma. Hattie (ch22) rationalized (\"Maybe that's what your dream was about?\"). Jas doesn't rationalize—she believes. \"That's pretty freaky shit\" = her acceptance. This is Emma's first successful sharing of the loop. \"You have to save him\"：Jas's instruction is the loop's thesis—the loop exists to save Dan. \"You've been given a second chance\" = the loop as gift. \"That's pretty amazing\" = Jas's awe. This is the novel's central revelation: the loop is not a curse, it's a chance. \"I'd been given a chance to stop it\"：Emma's realization—the loop's purpose is to prevent Dan's death. This is Emma's mission: she must save Dan. The loop's tension: can she? The loop allows small changes but punishes big ones (ch21). Can she make the one change that matters? Groundhog Day comparison：Jas compares the loop to a book she read (not the film). Emma says \"it was based on the film Groundhog Day.\" Jas: \"I've never seen that. Is it good?\" This is the novel's meta-commentary on its own premise—it's aware of the Groundhog Day comparison but distinguishes itself. \"Dan died. He gets run over.\"：Emma's confession—she tells Jas about Dan's death. This is the first time Emma speaks Dan's death aloud to another person (she couldn't tell Hattie). Jas's \"I love Dan\" = their shared connection. The loop's central secret is now shared. loop structure：ch20 (loop #3, Emma tries to change) → ch21 (loop #3 continues, Emma's big change backfires) → ch22 (loop #3 continues, Emma tries to share with Hattie) → ch24 (loop #3 continues, Emma shares with Jas, Jas believes). The loop is giving Emma more agency and more allies each iteration. But the outcome (Dan's death) remains fixed. The loop's central tension: can Emma change the outcome? Or is Dan's death inevitable? Jas's \"You have to save him\" = the loop's mission. Emma's \"I'd been given a chance to stop it\" = her acceptance of the mission. But can she? The loop suggests: small changes are allowed, big changes are punished. Preventing Dan's death is the biggest change of all. Can Emma do it? The novel's answer is in the remaining chapters.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ch25 checking dan.md",
+   "chapter": "ch25",
+   "text_path": "text/ch25_chapter_25.txt",
+   "note": "",
+   "tail_lines": 6,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“'See,' I said, relief coursing through me too as I held out my phone to her in triumph. 'Not dead!'”",
+     "zh": "\"Not dead!\" Emma 说，relief coursing through her too as she held out her phone to Jas in triumph。",
+     "why": "Not dead! = Emma's relief—Dan is alive, he answered the phone. \"in triumph\" = Emma's victory—she's saved Dan (for now). \"relief coursing through me\" = her physical response—relief as bodily sensation. This is the loop's first successful correction: Emma called Dan, and he's alive. The loop allows this small change.",
+     "tip": "Not dead! = Emma's relief; \"in triumph\" = her victory; \"relief coursing through me\" = physical response; this is the loop's first successful correction.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“Jas was miming something in front of me. Both hands in front of her like she was holding the imaginary handles of a bike, her body wobbling urgently from side to side, and then she sank to the floor, her tongue out of her mouth to the side.”",
+     "zh": "Jas was miming something—both hands like holding imaginary bike handles, body wobbling urgently from side to side, then sank to the floor, tongue out to the side。",
+     "why": "Jas's mime = she's warning Emma about the cyclist (from ch04/ch18/ch20)—the cyclist who nearly hit Emma. \"imaginary handles of a bike\" = the cyclist. \"body wobbling urgently from side to side\" = the cyclist swerving. \"sank to the floor, tongue out of her mouth to the side\" = the cyclist's \"For fuck . . .\" glare. This is Jas's comedy—she's performing the cyclist's near-miss to warn Emma. Emma translates: \"But don't hurry... Be careful. Like appropriately careful. Not speedy. Or, you know, reckless.\" This is Emma's correction: she's telling Dan to be careful (she knows he'll die if he's reckless).",
+     "tip": "Jas's mime = warning about the cyclist; \"imaginary handles of a bike\" = the cyclist; \"tongue out\" = the cyclist's glare; Emma's translation: \"Don't hurry... Be careful.\"",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“'I love you.' / 'I love you too, Emma,' his voice was infused with warmth for a moment and it filled me up.”",
+     "zh": "\"I love you.\" / \"I love you too, Emma,\" his voice was infused with warmth for a moment and it filled me up。",
+     "why": "I love you = Emma's correction (from ch17: \"I love you\" as her correction of ch15's \"I had ruined it\"). \"infused with warmth\" = Dan's voice carrying love. \"filled me up\" = Emma's emotional response—she's filled with warmth. This is the loop's emotional peak: Emma and Dan exchanging love. But the loop will reset, and Emma will forget. The warmth is temporary.",
+     "tip": "I love you = Emma's correction; \"infused with warmth\" = Dan's love; \"filled me up\" = Emma's response; the warmth is temporary (the loop will reset). \"Not dead!\"：Emma's relief—Dan is alive, he answered the phone. \"in triumph\" = her victory. This is the loop's first successful correction: Emma called Dan, and he's alive. The loop allows this small change. Jas's mime：Jas warns Emma about the cyclist (from ch04/ch18/ch20). \"imaginary handles of a bike\" = the cyclist. \"body wobbling urgently from side to side\" = the cyclist swerving. \"sank to the floor, tongue out\" = the cyclist's \"For fuck . . .\" glare. Emma translates: \"Don't hurry... Be careful.\" This is Emma's correction: she's telling Dan to be careful. \"I love you\" / \"I love you too, Emma\"：the loop's emotional peak—Emma and Dan exchanging love. \"infused with warmth\" = Dan's love. \"filled me up\" = Emma's response. But the loop will reset, and Emma will forget. The warmth is temporary. \"Breast lol\"：Dan's joke (Emma's \"abreast\" autocorrected to \"breast\"). This is the chat's comedy—Dan's humor persists even in the loop. \"You are messaging me a lot today!\" = Dan's observation—Emma is texting more than usual (her correction attempt). loop structure：ch24 (Emma shares the loop with Jas) → ch25 (Emma calls Dan, tells him to be careful). The loop is giving Emma more agency: she's sharing the loop (Jas) and actively preventing (calling Dan). But the outcome (Dan's death) remains fixed. The loop's central tension: can Emma change the outcome? The loop suggests: small changes are allowed, but the big event (Dan's death) may be fixed. Emma's \"I'd been given a chance to stop it\" (ch24) = her mission. Can she? The novel's answer is in the remaining chapters.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ch26 seven years.md",
+   "chapter": "ch26",
+   "text_path": "text/ch26_chapter_26.txt",
+   "note": "",
+   "tail_lines": 7,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“I’m currently writing this with a full French press of coffee and a Chelsea bun as I watch Miles, trapped in baby prison (aka the Sweateroo) which has been the best £30 we’ve ever spent.”",
+     "zh": "Dan 正在写这封信，full French press of coffee and a Chelsea bun，watching Miles trapped in baby prison (aka the Sweateroo)，which has been the best £30 we've ever spent。",
+     "why": "French press + Chelsea bun = Dan's domestic scene—coffee and pastry while watching Miles. \"baby prison (aka the Sweateroo)\" = Dan's humor—Miles is trapped in a baby bouncer, and Dan calls it \"baby prison.\" \"best £30 we've ever spent\" = Dan's practical satisfaction. This is Dan's voice at its most content: domestic, humorous, appreciative. The tone is warm—this is the marriage's high point.",
+     "tip": "French press =「法压壶」；Chelsea bun =「切尔西面包卷」；Sweateroo =「婴儿蹦跳椅」；baby prison = Dan's humor for the bouncer.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“I know you’re going to miss Hattie when she moves away and it will be strange without her round the corner but she’s not going far. And I think she needs to do it, her and Ed have been so on/off/on/off it’s good she’s finally made a decision.”",
+     "zh": "Dan acknowledges Emma will miss Hattie (moving away with Ed); \"she's not going far\"; \"she needs to do it\"; \"on/off/on/off\" = Hattie and Ed's rocky relationship.",
+     "why": "on/off/on/off = Dan's description of Hattie and Ed's relationship—repeated breakups and reconciliations. \"she needs to do it\" = Dan's support for Hattie's decision (moving with Ed). \"she's not going far\" = reassurance. This shows Dan's care for Hattie (his sister) and for Emma (who'll miss her). \"And I know you won't believe me but he's growing on me\" = Dan's admission about Ed—he's warming to him. This is Dan's generosity—he's accepting Ed into the family.",
+     "tip": "on/off/on/off = Hattie and Ed's rocky relationship; \"he's growing on me\" = Dan's warming to Ed; \"she's not going far\" = reassurance.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“I want a large kitchen with a table we can all sit round rather than a breakfast bar. I want somewhere with loads of light and room to breathe and our own bathroom so we don’t have to navigate foam letters and toy ducks to have a bath. I’m desperate for a place with adequate storage.”",
+     "zh": "Dan wants a large kitchen with a table, loads of light, room to breathe, own bathroom (no foam letters/toy ducks), adequate storage。",
+     "why": "large kitchen with a table = Dan's domestic dream—family meals around a table. \"foam letters and toy ducks\" = the reality of parenting (bath toys everywhere). \"our own bathroom\" = Dan's desire for privacy (currently shared with kids' toys). \"adequate storage\" = Dan's practical need. This is Dan's domestic vision—simple, practical, family-centered. The contrast with Emma's London-love (comedy nights, Tate Modern) shows their complementary desires: Dan wants home, Emma wants London.",
+     "tip": "foam letters and toy ducks = bath toys; \"adequate storage\" = Dan's practical need; Dan's domestic vision is simple and family-centered.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 35,
+     "quote": "“I love you for your wonderful energy and your outlandish hand gestures, and the light in your eyes when you want to share something funny.”",
+     "zh": "Dan loves Emma for her wonderful energy, outlandish hand gestures, and the light in her eyes when she wants to share something funny。",
+     "why": "wonderful energy = Emma's vitality (from ch09: \"You love the sky\"). \"outlandish hand gestures\" = Emma's physical expressiveness—Dan notices and loves her body language. \"light in your eyes when you want to share something funny\" = Dan's observation of Emma's joy—she lights up when sharing humor. This is Dan's love language: he catalogues Emma's physical expressions of joy. The list format (\"I love you for...\") is Dan's annual inventory.",
+     "tip": "outlandish =「奇异的、夸张的」；\"light in your eyes\" = Emma's joy; Dan's love language is cataloguing Emma's physical expressions.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 41,
+     "quote": "“I love the way you are with Poppy and Miles. Your endless patience as Poppy learns to read, mouthing the words at her encouragingly until she gets it right. I know it is taking up all your energy not racing ahead or doing it for her.”",
+     "zh": "Dan loves the way Emma is with Poppy and Miles—her endless patience as Poppy learns to read, mouthing the words encouragingly until she gets it right. He knows it takes all her energy not racing ahead or doing it for her。",
+     "why": "endless patience = Emma's parenting strength—she's patient with Poppy's reading. \"mouthing the words at her encouragingly\" = Emma's physical support (she mouths the words, doesn't say them aloud). \"not racing ahead or doing it for her\" = Emma's restraint—she lets Poppy learn at her own pace. \"I know it is taking up all your energy\" = Dan's awareness of Emma's effort. This is Dan's appreciation of Emma's parenting—she's patient, encouraging, restrained.",
+     "tip": "endless patience = Emma's parenting strength; \"mouthing the words\" = her physical support; \"not racing ahead\" = her restraint; Dan's appreciation of Emma's parenting.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 47,
+     "quote": "“I love the way you fit neatly into me when we hug or kiss. I can't get to sleep now without you in bed with me. When I feel the mattress sink down I automatically reach for the soft warmth of you, for the weight of your arm across my chest, your breath steady on my shoulder. The smell of you.”",
+     "zh": "Dan loves the way Emma fits neatly into him when they hug or kiss. He can't get to sleep without her in bed. When he feels the mattress sink down he automatically reaches for the soft warmth of her, the weight of her arm across his chest, her breath steady on his shoulder. The smell of you。",
+     "why": "fit neatly into me = Emma's physical compatibility—she fits Dan's body. \"I can't get to sleep now without you in bed with me\" = Dan's dependency on Emma's presence. \"mattress sink down\" = Emma getting into bed—Dan feels it. \"automatically reach for the soft warmth of you\" = his reflex—he reaches for her without thinking. \"weight of your arm across my chest\" = Emma's arm on Dan. \"breath steady on my shoulder\" = Emma's breathing. \"The smell of you\" = Dan's sensory memory—Emma's scent. This is Dan's most intimate physical description of Emma—body, warmth, breath, smell. The intimacy is domestic, not sexual—this is married love.",
+     "tip": "fit neatly into me = physical compatibility; mattress sink down = Dan's sensory awareness of Emma; \"breath steady on my shoulder\" = Emma's breathing; \"The smell of you\" = Dan's sensory memory. This is married love's physical language.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 7,
+     "line": 53,
+     "quote": "“I love everything about you, Emma Jacobs. / Seven years and no itch here, / Dan x”",
+     "zh": "\"I love everything about you, Emma Jacobs.\" \"Seven years and no itch here,\" Dan x",
+     "why": "I love everything about you = Dan's total acceptance—he loves everything, not just parts. \"Emma Jacobs\" = Emma's full name (not \"Emma\" or \"wife\")—Dan uses her name, not a role. \"Seven years and no itch here\" = Dan's humor—the \"seven-year itch\" is the cliché about marriage boredom; Dan is saying there's no itch. The comma after \"here\" + \"Dan x\" = the letter's sign-off. This is Dan's voice at its warmest: total love + humor + casual sign-off. This is the marriage's high point.",
+     "tip": "I love everything about you = Dan's total acceptance; \"Emma Jacobs\" = her full name (not a role); \"Seven years and no itch here\" = Dan's humor (no seven-year itch); this is the marriage's high point. The letter ends here—warm, settled, domestic. domestic bliss：这是 marriage 的 high point—Dan and Emma settled with two kids, planning a house, Hattie moving with Ed. The letter is warm, humorous, appreciative. \"I love everything about you, Emma Jacobs\" = total acceptance. \"Seven years and no itch here\"：Dan's humor—the seven-year itch cliché, inverted. The marriage is strong. This is the warmest letter in the novel. \"I love the way you fit neatly into me\"：Dan's most intimate physical description of Emma—body, warmth, breath, smell. Married love's physical language. \"I can't get to sleep now without you in bed with me\" = dependency. \"You don't mind taking tubes or trains to people's houses in the arse end of wherever, saying 'I can read my book.'\"：Dan's observation of Emma's London-love—she travels anywhere for people. This is Emma's generosity (from ch09's \"make friends anywhere\"). \"I want a large kitchen with a table we can all sit round\"：Dan's domestic dream—family meals around a table. The contrast with Emma's London-love (comedy nights, Tate Modern) shows their complementary desires. loop structure：This letter is from 2013 (8 years before the present-day loop). The marriage is at its high point—warm, settled, domestic. The present-day loop (ch02–ch25) will show the marriage's decline (Arthur crisis, forgot letter, Dan's death). The past letters show what was lost: a marriage that was warm, a man who loved his wife's energy, a family that was happy. The loop's tragedy: all of this is erased when Dan dies on Dec 3, 2021. Emma relives the day Dan died, but she can't relive the years of happiness. The loop only gives her Dec 3. The warmth of this letter (ch26) contrasts with the coldness of the present-day loop. The reader feels the loss.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ch27 the letter.md",
+   "chapter": "ch27",
+   "text_path": "text/ch27_chapter_27.txt",
+   "note": "",
+   "tail_lines": 7,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“I used to love sitting in here, a submission on my Kindle, the light streaming in as I looked out on our garden.”",
+     "zh": "Emma used to love sitting in the conservatory, a submission on her Kindle, the light streaming in as she looked out on the garden。",
+     "why": "used to love = Emma's nostalgia—she used to love this room, but now it's cluttered with junk. \"a submission on my Kindle, the light streaming in\" = her past self: reading, light, garden. \"These days it seemed perpetually filled with drying clothes and junk—abandoned scooters, piles of books, a punctured soccer ball\" = the present: clutter, neglect. The conservatory is Emma's metaphor: she used to have space, light, time; now it's filled with stuff. The garden is \"more jungle than manicured lawn\"—Emma's life is overgrown, unmanaged.",
+     "tip": "used to love = Emma's nostalgia; \"light streaming in\" = her past self; the conservatory as metaphor for Emma's life (cluttered, overgrown).",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“I wouldn’t forget the letter today. I filled it with my thoughts from those walks with Gus. I wanted to capture the feeling I always got when Dan and I were alone, his arm slung casually over mine, his profile in laughter.”",
+     "zh": "Emma wouldn't forget the letter today. She filled it with thoughts from walks with Gus. She wanted to capture the feeling she always got when Dan and I were alone, his arm slung casually over hers, his profile in laughter。",
+     "why": "I wouldn't forget the letter today = Emma's correction—she's writing the letter (unlike ch02/ch13). \"filled it with my thoughts from those walks with Gus\" = her content—she's writing about their walks (from ch26's \"I love the way you fit neatly into me\"). \"capture the feeling\" = Emma's goal—to preserve the feeling in words. \"his arm slung casually over mine, his profile in laughter\" = Emma's memory of Dan—physical closeness, laughter. This is Emma's first successful letter—she's breaking the loop's pattern (forgot letter → row → accident).",
+     "tip": "I wouldn't forget the letter today = Emma's correction; \"capture the feeling\" = her goal; \"his arm slung casually over mine\" = her memory of Dan; this is the loop's first successful correction.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“'I want a best friend,' he said suddenly, his voice startling me with its passion.”",
+     "zh": "\"I want a best friend,\" Miles said suddenly, his voice startling Emma with its passion。",
+     "why": "I want a best friend = Miles's confession—his core need. \"startling me with its passion\" = Emma's surprise—Miles's voice has passion she didn't expect. \"Everyone has a best friend and I don't\" = Miles's perception of social exclusion. \"Aunt Hattie's your best friend\" / \"Dad's your best friend\" = Miles's observations about Emma's relationships. \"You don't need a best friend\" = Emma's reassurance (but she's wrong—Miles does need one). This is Miles's emotional thread: he's lonely, he wants connection.",
+     "tip": "I want a best friend = Miles's core need; \"startling me with its passion\" = Emma's surprise; \"Everyone has a best friend and I don't\" = his social exclusion; Miles's loneliness is the chapter's hidden thread.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 35,
+     "quote": "“'I can't,' he said, so quiet I almost missed it.”",
+     "zh": "\"I can't,\" Miles said, so quiet I almost missed it。",
+     "why": "I can't = Miles's refusal—he can't tell Emma what's bothering him. \"so quiet I almost missed it\" = his voice is barely audible—his secret is too heavy to speak. This is the loop's hidden thread: Miles has a secret (\"Don't tell Mum\" from ch10), and he can't share it. \"It's too late\" (his earlier words) = he believes the secret is too big to fix. Emma's \"I'm sure I can help\" is met with \"It's too late\"—Miles has given up.",
+     "tip": "I can't = Miles's refusal; \"so quiet I almost missed it\" = his voice barely audible; \"It's too late\" = his despair; Miles's secret is the chapter's hidden thread.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 41,
+     "quote": "“'I really need you two to come downstairs and be nice to each other. OK? Just for this evening. It's . . . important to me. Please.'”",
+     "zh": "\"I really need you two to come downstairs and be nice to each other. OK? Just for this evening. It's . . . important to me. Please.\"",
+     "why": "I really need you two to come downstairs and be nice to each other = Emma's plea—she wants peace for one evening. \"Just for this evening\" = her desperation—she's not asking for forever, just tonight. \"It's . . . important to me\" = her reason (she has the letter, she's writing; she needs the evening to be calm). \"Please\" = Emma's vulnerability—she's asking, not commanding. This is Emma's correction: she's being gentle with the kids instead of flying in \"too fast, too fierce.\"",
+     "tip": "I really need you two to come downstairs and be nice = Emma's plea; \"Just for this evening\" = her desperation; \"It's . . . important to me\" = her reason (the letter); \"Please\" = her vulnerability.",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 47,
+     "quote": "“'You never tell me I'm right.' / 'Shut up,' I said, leaning in to kiss him. Our lips fitted together so easily. I closed my eyes and absorbed the warmth of him.”",
+     "zh": "\"You never tell me I'm right.\" \"Shut up,\" Emma said, leaning in to kiss him. Our lips fitted together so easily. I closed my eyes and absorbed the warmth of him。",
+     "why": "You never tell me I'm right = Dan's humor—he's teasing Emma about her inability to admit he's right. \"Shut up\" = Emma's playful response (not angry). \"Our lips fitted together so easily\" = their physical compatibility—kissing is natural. \"I closed my eyes and absorbed the warmth of him\" = Emma's sensory focus—she's present, absorbing Dan. \"He was safe here, I reminded myself, he wouldn't leave the kids alone in the house. He wouldn't head out into the road.\" = Emma's loop-awareness—she's checking Dan's safety. \"And I could do this small thing for him, for us.\" = Emma's correction—she's going to quit the committee (for Dan, for them).",
+     "tip": "You never tell me I'm right = Dan's humor; \"lips fitted together so easily\" = physical compatibility; \"absorbed the warmth of him\" = Emma's presence; \"He was safe here\" = her loop-awareness; \"I could do this small thing for him\" = her correction (quitting committee).",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 7,
+     "line": 53,
+     "quote": "“'Check the conservatory,' I said, scooping up my bag and heading for the door, narrowly avoiding the stupid bike. 'There's something for you on the table,' I shouted, enjoying feeling the smile on my face as I thought of him finding that letter while I was gone.”",
+     "zh": "\"Check the conservatory,\" Emma said, scooping up her bag and heading for the door, narrowly avoiding the stupid bike. \"There's something for you on the table,\" she shouted, enjoying feeling the smile on her face as she thought of him finding that letter while she was gone。",
+     "why": "Check the conservatory = Emma's delivery of the letter—she's telling Dan where to find it. \"There's something for you on the table\" = the letter (Dan's anniversary letter, which Emma wrote this time). \"enjoying feeling the smile on my face\" = Emma's satisfaction—she wrote the letter, she's delivering it. \"as she thought of him finding that letter while she was gone\" = Emma's anticipation—Dan will read her letter. This is Emma's first successful letter delivery—the loop's correction. In ch02/ch13, Emma forgot the letter; here, she wrote it and delivered it.",
+     "tip": "Check the conservatory = Emma's letter delivery; \"There's something for you on the table\" = the letter; \"enjoying feeling the smile\" = her satisfaction; this is the loop's first successful letter delivery. letter as correction：Emma writes Dan's letter (unlike ch02/ch13 where she forgot). \"I wouldn't forget the letter today\" = her correction. \"Check the conservatory\" = her delivery. This is the loop's first successful letter delivery—Emma is breaking the pattern. Miles's \"I want a best friend\"：Miles's core need—loneliness, social exclusion. \"Everyone has a best friend and I don't\" = his perception. \"Aunt Hattie's your best friend\" / \"Dad's your best friend\" = his observations about Emma's relationships. Miles's loneliness is the chapter's hidden thread. Miles's secret：\"Don't tell Mum\" (from ch10) + \"I can't\" (ch27) + \"It's too late\" = Miles has a secret he can't share. Emma notices but can't extract it. This is the loop's hidden thread—Miles's secret will be revealed later. \"You never tell me I'm right\"：Dan's humor—he's teasing Emma about her inability to admit he's right. \"Our lips fitted together so easily\" = physical compatibility. \"He was safe here\" = Emma's loop-awareness—she's checking Dan's safety. \"I could do this small thing for him\" = her correction (quitting committee). \"Check the conservatory\"：Emma's letter delivery—\"There's something for you on the table.\" Dan will find the letter while Emma is at the committee meeting. This is the loop's first successful letter exchange. loop structure：ch20 (loop #3, Emma tries to change small things) → ch21 (loop #3 continues, Emma's big change backfires) → ch22 (loop #3 continues, Emma tries to share with Hattie) → ch24 (loop #3 continues, Emma shares with Jas) → ch25 (loop #3 continues, Emma calls Dan) → ch27 (loop #3 continues, Emma writes letter, Miles's secret). The loop is giving Emma more agency each iteration. She's writing the letter (correction), calling Dan (correction), sharing with Jas (correction). But the outcome (Dan's death) remains fixed. The loop's central tension: can Emma change the outcome? The loop suggests: small changes are allowed, but the big event (Dan's death) may be fixed. Emma's \"I'd been given a chance to stop it\" (ch24) = her mission. Can she? The novel's answer is in the remaining chapters.<|end|><|start|>write to=assistant<|channel|>analysis<|message|>§563§ Created file successfully: notes/books/novels/maybe-next-time-by-cesca-major/ch27 the letter.md",
+     "flags": [
+      "EN_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    }
+   ]
+  }
+ ]
+}

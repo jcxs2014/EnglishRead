@@ -1,0 +1,210 @@
+=== B10 门禁原始输出（ch40/ch41/ch42/ch43 · 2026-10-19）===
+
+######## ① check_chinese_layer（全书）########
+=== 中文层体检（check_chinese_layer）：maybe-next-time-by-cesca-major ===
+❌ 英文理解：76 处
+     ch24 telling jas.md:23
+     ch24 telling jas.md:29
+     ch24 telling jas.md:35
+     ch24 telling jas.md:41
+     ch24 telling jas.md:47
+     ch25 checking dan.md:23
+     ch25 checking dan.md:29
+     ch26 seven years.md:23
+     ch26 seven years.md:29
+     ch26 seven years.md:35
+     ch26 seven years.md:41
+     ch26 seven years.md:47
+     …… 另有 64 处
+❌ 缺中文理解：16 处
+     ch07 the realization.md:35
+     ch07 the realization.md:50
+     ch07 the realization.md:59
+     ch07 the realization.md:62
+     ch09 three years.md:41
+     ch13 the loop.md:47
+     ch13 the loop.md:62
+     ch15 the aftermath.md:29
+     ch32 the bench.md:41
+     ch34 the death.md:17
+     ch34 the death.md:20
+     ch34 the death.md:23
+     …… 另有 4 处
+❌ 敷衍句构：0 处
+❌ 残句：0 处
+❌ 形式性规避：9 处
+     ch10 the committee.md:41
+     ch11 the committee meeting.md:23
+     ch12 four years.md:29
+     ch12 four years.md:47
+     ch15 the aftermath.md:17
+     ch15 the aftermath.md:38
+     ch24 telling jas.md:17
+     ch25 checking dan.md:17
+     ch26 seven years.md:17
+❌ 英文为什么：129 处
+     ch07 the realization.md:38
+     ch07 the realization.md:44
+     ch07 the realization.md:53
+     ch07 the realization.md:65
+     ch08 the evening.md:29
+     ch08 the evening.md:35
+     ch08 the evening.md:41
+     ch08 the evening.md:47
+     ch08 the evening.md:53
+     ch09 three years.md:17
+     ch09 three years.md:23
+     ch09 three years.md:29
+     …… 另有 117 处
+❌ 占位桩：0 处
+⚠️ 夹杂理解：39 处（提示型，不判红）
+     ch07 the realization.md:17
+     ch07 the realization.md:23
+     ch07 the realization.md:38
+     ch07 the realization.md:44
+     ch07 the realization.md:65
+     ch08 the evening.md:17
+     ch09 three years.md:17
+     ch09 three years.md:29
+     ch09 three years.md:50
+     ch10 the committee.md:17
+     ch10 the committee.md:23
+     ch10 the committee.md:29
+     …… 另有 27 处
+⚠️ 夹杂为什么：44 处（提示型，不判红）
+     ch07 the realization.md:17
+     ch07 the realization.md:23
+     ch07 the realization.md:29
+     ch08 the evening.md:17
+     ch08 the evening.md:23
+     ch11 the committee meeting.md:17
+     ch12 four years.md:17
+     ch14 the accident.md:17
+     ch14 the accident.md:23
+     ch14 the accident.md:29
+     ch14 the accident.md:41
+     ch14 the accident.md:47
+     …… 另有 32 处
+⚠️ 总览行内引语：1 处（提示型，不判红）
+     00_概述.md:35
+=== 汇总：381 个引语块 | 合格分析密度 62% | 整层夹杂率 20% | 阻断型 230 | 提示型 84 ===
+=== 结论：有阻断型，必须改（中文层不是中文 = 精读内容缺失）===
+
+######## ①-b 本批四章在上述输出中的出现次数 ########
+0
+
+######## ② verify_quotes ########
+00_情感节点.md: 6/6 ✅（另有 3 条短引语未校验）
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 14/14 ✅（另有 4 条短引语未校验）
+ch01 how we met.md: 9/9 ✅
+ch02 present day crisis.md: 9/9 ✅（另有 2 条短引语未校验）
+ch03 the morning of.md: 10/10 ✅（另有 6 条短引语未校验）
+ch04 the commute.md: 9/9 ✅（另有 2 条短引语未校验）
+ch05 two years.md: 6/6 ✅
+ch06 the meeting.md: 7/7 ✅
+ch07 the realization.md: 9/9 ✅（另有 2 条短引语未校验）
+ch08 the evening.md: 7/7 ✅
+ch09 three years.md: 8/8 ✅
+ch10 the committee.md: 7/7 ✅（另有 1 条短引语未校验）
+ch11 the committee meeting.md: 6/6 ✅
+ch12 four years.md: 8/8 ✅
+ch13 the loop.md: 8/8 ✅（另有 2 条短引语未校验）
+ch14 the accident.md: 6/6 ✅（另有 2 条短引语未校验）
+ch15 the aftermath.md: 6/6 ✅（另有 1 条短引语未校验）
+ch16 fifteen years.md: 7/7 ✅
+ch17 the reset.md: 6/6 ✅
+ch18 the second loop.md: 5/5 ✅（另有 3 条短引语未校验）
+ch19 five years.md: 5/5 ✅（另有 1 条短引语未校验）
+ch20 the third loop.md: 8/8 ✅（另有 1 条短引语未校验）
+ch21 the meeting again.md: 8/8 ✅
+ch22 the lunch.md: 4/4 ✅（另有 2 条短引语未校验）
+ch23 six years.md: 6/6 ✅
+ch24 telling jas.md: 6/6 ✅
+ch25 checking dan.md: 3/3 ✅
+ch26 seven years.md: 7/7 ✅
+ch27 the letter.md: 7/7 ✅
+ch28 quitting.md: 6/6 ✅
+ch29 the attempt.md: 6/6 ✅
+ch30 eight years.md: 6/6 ✅
+ch31 the fifth loop.md: 4/4 ✅（另有 1 条短引语未校验）
+ch32 the bench.md: 7/7 ✅
+ch33 the hospital.md: 5/5 ✅
+ch34 the death.md: 8/8 ✅（另有 4 条短引语未校验）
+ch35 nine years.md: 6/6 ✅
+ch36 the breakdown.md: 7/7 ✅
+ch37 the zoo.md: 5/5 ✅（另有 1 条短引语未校验）
+ch38 the ritz.md: 5/5 ✅
+ch39 ten years.md: 5/5 ✅
+ch40 the sleep.md: 4/4 ✅
+ch41 the revelation.md: 5/5 ✅
+ch42 eleven years.md: 4/4 ✅
+ch43 the truth.md: 5/5 ✅（另有 1 条短引语未校验）
+ch44 the despair.md: 4/4 ✅
+ch45 the phone calls.md: 6/6 ✅
+ch46 the despair.md: 6/6 ✅（另有 1 条短引语未校验）
+ch47 the twelfth letter.md: 5/5 ✅
+ch48 the gift.md: 5/5 ✅
+ch49 the gift day.md: 3/3 ✅
+ch50 the tiktok day.md: 3/3 ✅
+ch51 the thirteenth letter.md: 6/6 ✅
+ch52 the audiobooks.md: 4/4 ✅
+ch53 the poppy day.md: 4/4 ✅
+ch54 the fourteenth letter.md: 4/4 ✅
+ch55 the hattie confrontation.md: 4/4 ✅
+ch56 the forgiveness.md: 6/6 ✅
+ch57 the perfect day.md: 5/5 ✅
+ch58 the last letter.md: 5/5 ✅（另有 1 条短引语未校验）
+ch59 the loop.md: 1/1 ✅
+
+⚠️ 全书共 41 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 366/366 引文可核实（100%）；完全干净文件 61/61；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+######## ③ corruption_scan ########
+
+=== 编辑损坏扫描（maybe-next-time-by-cesca-major）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+######## ④ check_chapter_quotes（逐章归属）########
+--- ch40 ---
+全章扫描: 解析引语块 346，命中本章 346（100%）
+✅ 全部引语均归属正确章节
+--- ch41 ---
+全章扫描: 解析引语块 346，命中本章 346（100%）
+✅ 全部引语均归属正确章节
+--- ch42 ---
+全章扫描: 解析引语块 346，命中本章 346（100%）
+✅ 全部引语均归属正确章节
+--- ch43 ---
+全章扫描: 解析引语块 346，命中本章 346（100%）
+✅ 全部引语均归属正确章节
+
+######## ⑤ check_analysis_quotes（本批四文件）########
+--- ch40 the sleep.md ---
+=== 分析层英文取证（maybe-next-time-by-cesca-major）===
+    引号内英文：0 条（本章命中 0 · 他章命中 0 · 全书查无 0）
+    裸英文词组：15 条（不判红，仅供人工扫一眼）
+✅ 引号内英文全部能在 text/ 里查到
+退出码: 0
+--- ch41 the revelation.md ---
+=== 分析层英文取证（maybe-next-time-by-cesca-major）===
+    引号内英文：0 条（本章命中 0 · 他章命中 0 · 全书查无 0）
+    裸英文词组：24 条（不判红，仅供人工扫一眼）
+✅ 引号内英文全部能在 text/ 里查到
+退出码: 0
+--- ch42 eleven years.md ---
+=== 分析层英文取证（maybe-next-time-by-cesca-major）===
+    引号内英文：0 条（本章命中 0 · 他章命中 0 · 全书查无 0）
+    裸英文词组：29 条（不判红，仅供人工扫一眼）
+✅ 引号内英文全部能在 text/ 里查到
+退出码: 0
+--- ch43 the truth.md ---
+=== 分析层英文取证（maybe-next-time-by-cesca-major）===
+    引号内英文：1 条（本章命中 1 · 他章命中 0 · 全书查无 0）
+    裸英文词组：42 条（不判红，仅供人工扫一眼）
+✅ 引号内英文全部能在 text/ 里查到
+退出码: 0

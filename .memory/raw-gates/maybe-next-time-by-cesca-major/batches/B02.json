@@ -1,0 +1,474 @@
+{
+ "batch": "B02",
+ "note": "",
+ "chapters": [
+  {
+   "file": "ch07 the realization.md",
+   "chapter": "ch07",
+   "text_path": "text/ch07_chapter_7.txt",
+   "note": "",
+   "tail_lines": 6,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“I wilted on the pavement. Did they have no idea what might have happened? Did she really not understand what I’d potentially stopped?”",
+     "zh": "Emma 在人行道上 wilted；他们不知道可能发生了什么吗？Linda 真的不明白她 potentially stopped 了什么吗？",
+     "why": "wilted 把 Emma 的 disappointment 写成植物性衰弱——她像被踩的花。\"Did they have no idea\" / \"Did she really not understand\" 是 rhetorical questions，显示 Emma's need for recognition. \"what I'd potentially stopped\" 是她的 self-justification—she saved Arthur's contract, but no one acknowledges it. This is Emma's pattern: she does the work, others take the credit (Arthur \"getting away with it\", Linda \"sweeping Arthur off\"). The gap between her effort and others' recognition is her professional frustration.",
+     "tip": "wilted =「枯萎、萎靡」；potentially stopped =「可能阻止的」；Emma's need for acknowledgment is her vulnerability.",
+     "flags": [
+      "MIX_ZH",
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“Find your backbone, Emma.”",
+     "zh": "Linda 丢下一句：\"找找你的脊梁骨，Emma。\"",
+     "why": "backbone =「脊梁骨、勇气」；Linda's command is both dismissal and diagnosis—she's telling Emma to be tougher, but also revealing that Emma's backbone is Linda's to command. \"Find your backbone\" implies Emma has lost hers (or never had it). The pointed \"Emma\" (after \"Arthur\" and \"Linda\" in the taxi) shows Linda's control of naming. This is Emma's professional reality: she's competent enough to save the contract but not valued enough to be acknowledged.",
+     "tip": "backbone =「脊梁骨、勇气」；Linda's \"Emma\" (not \"Gemma\"—that's Arthur's) shows Linda knows her name but still dismisses her. \"Find your backbone\" is the novel's critique of how women's labor is invisibilized in publishing.",
+     "flags": [
+      "MIX_ZH",
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“I knew how lucky I was that my sister-in-law also happened to be my favorite friend. If I rang her now and told her about my heel no doubt she’d appear with a pack of Band-Aids.”",
+     "zh": "Emma 知道自己多幸运——弟媳同时也是她最好的朋友；如果她现在打电话说脚跟痛，Hattie 肯定会带着一包创可贴出现。",
+     "why": "sister-in-law + favorite friend 把 Hattie 定位为 Emma's chosen family (contrasting with Emma's biological parents in Antigua). \"no doubt she'd appear with a pack of Band-Aids\" shows Hattie's care as practical, immediate, physical—she shows up. This contrasts with Emma's avoidance (leaving Hattie's message unopened in ch04). \"It really had been too long\" + \"I hadn't seen Hattie in weeks\" shows Emma's guilt about neglecting her closest friend.",
+     "tip": "Band-Aids =「创可贴」；Hattie as Emma's \"favorite friend\" contrasts with Dan's \"I see a different side to you when you're with Hattie\" (ch05)—Hattie is Emma's mirror and anchor.",
+     "flags": [
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 35,
+     "quote": "“I was hiding,” Jas said.",
+     "zh": "",
+     "why": "",
+     "tip": "",
+     "flags": [
+      "NO_ZH",
+      "NO_WHY",
+      "NO_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 38,
+     "quote": "“I heard them upstairs—quite ranty—and they called out so I hid—you know she only uses the bathroom on the first floor—and then I thought they’d gone but I wasn’t absolutely sure and then I got obsessed with this submission on my phone.”",
+     "zh": "Jas 解释她为什么躲在浴室：听到楼上 ranty，就躲起来；然后被手机上的 submission 迷住。",
+     "why": "Jas's hiding is comic relief but also workplace survival—she avoids Linda/Arthur's toxicity by physically disappearing. \"ranty\" (slang for ranting) is Jas's Gen-Z voice, contrasting with Emma's more formal register. \"obsessed with this submission\" shows Jas's genuine engagement with books—she's a good editor hiding in a bathroom. The \"witches but like, so not cliché\" pitch shows her taste. This is the novel's workplace comedy: Jas as Emma's younger mirror.",
+     "tip": "ranty =「 ranting 的」；Jas's hiding is survival strategy; \"she only uses the bathroom on the first floor\" shows Linda's territoriality.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 44,
+     "quote": "“I suggested he contribute to the scheme you were telling me about last week actually, for underrepresented female crime writers.”",
+     "zh": "Emma 告诉 Jas：她建议 Arthur 资助 underrepresented female crime writers 的 scheme。",
+     "why": "This is Emma's lie callback—she's now reporting her fabricated bursary scheme to Jas as if it's real. \"the scheme you were telling me about last week\" borrows Jas's earlier suggestion and retrofits it onto Arthur—Emma is recycling real ideas to cover fake ones. \"I suggested he contribute\" makes Emma the originator, not Arthur. This is her professional self-mythologizing: she takes credit for a lie she invented to save a man she despises. Jas's \"Oh cool—thank you\" shows the lie is working.",
+     "tip": "This is Emma's third lie (ch02: two lies; ch06: bursary lie; here: reporting the lie as fact). The lie is now self-sustaining—Emma is building on it.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 7,
+     "line": 50,
+     "quote": "“Oh God.”",
+     "zh": "",
+     "why": "",
+     "tip": "",
+     "flags": [
+      "NO_ZH",
+      "NO_WHY",
+      "NO_TIP"
+     ]
+    },
+    {
+     "n": 8,
+     "line": 53,
+     "quote": "“How had I not realized its significance until now?”",
+     "zh": "\"Oh God.\" \"我怎么直到现在才意识到它的意义？\"",
+     "why": "This is the chapter's pivot—Emma finally sees Dec 3's significance. \"Oh God.\" echoes ch02's \"Oh my God.\" (same interjection, different intensity: ch02 was shock at the sound; here it's shock at her own obliviousness). \"How had I not realized\" is the key question—Emma has been so distracted (Arthur, Jas, Hattie) that she forgot her own anniversary. \"its significance\" = the date's weight (anniversary + loop trigger). This is Emma's \"dragging herself back from another place\" reaching its climax: she's been elsewhere all day, and now the elsewhere catches up.",
+     "tip": "\"Oh God.\" vs ch02's \"Oh my God.\" = same interjection, different registers; \"How had I not realized\" is Emma's self-reckoning; the date reveal is the loop's trigger.",
+     "flags": [
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 9,
+     "line": 59,
+     "quote": "“Me @Dan Don’t worry about the sausages! I’ll shop! I’ll get the zucchinis too!”",
+     "zh": "",
+     "why": "",
+     "tip": "",
+     "flags": [
+      "NO_ZH",
+      "NO_WHY",
+      "NO_TIP"
+     ]
+    },
+    {
+     "n": 10,
+     "line": 62,
+     "quote": "“Me @Dan And I’ll cook for us tonight.”",
+     "zh": "",
+     "why": "",
+     "tip": "",
+     "flags": [
+      "NO_ZH",
+      "NO_WHY",
+      "NO_TIP"
+     ]
+    },
+    {
+     "n": 11,
+     "line": 65,
+     "quote": "“Me @Dan Hope you’re having a good day. See you later”",
+     "zh": "Emma 的 chat：\"别担心香肠！我去买！我也会买西葫芦！\"\"今晚我来煮饭。\"\"希望你今天过得好。回头见。\"",
+     "why": "Three messages in rapid succession = Emma's overcompensation. \"Don't worry about the sausages! I'll shop!\" = she's taking over the domestic labor she neglected. \"I'll cook for us tonight\" = promise of presence (after a day of absence). \"Hope you're having a good day. See you later\" = she's trying to reconnect. The exclamation marks show her urgency. This is Emma's pattern: when she realizes she's failed, she overcorrects with promises. Dan's silence (no reply in the chat) mirrors ch02's \"Dan . . . ?\" unanswered.",
+     "tip": "The chat is Emma's overcompensation; \"Hope you're having a good day\" is her reaching for Dan; his non-reply is the loop's emotional throughline. date reveal：\"Oh God. How had I not realized its significance until now?\" 是 Emma's self-reckoning—she's been so distracted that she forgot her own anniversary. This is the loop's trigger: the date is the key, and Emma's obliviousness is the mechanism. Emma's third lie callback：\"I suggested he contribute to the scheme\" reports her fabricated bursary as fact to Jas— the lie is now self-sustaining. This is Emma's professional moral compromise. Hattie avoidance：\"I hadn't seen Hattie in weeks\" + leaving her message unopened (ch04) = Emma's pattern of neglecting her closest friend. The guilt (\"What I wouldn't give to see her face\") doesn't change behavior. \"Find your backbone, Emma\"：Linda's dismissal diagnoses Emma's professional erasure—she's competent but undervalued. This is the novel's critique of publishing's hierarchy. Me @Dan overcompensation：\"I'll shop! I'll get the zucchinis too! And I'll cook for us tonight\" = Emma's panic-response to realizing her failure. Dan's non-reply mirrors ch02's \"Dan . . . ?\" unanswered—the loop's emotional throughline.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ch08 the evening.md",
+   "chapter": "ch08",
+   "text_path": "text/ch08_chapter_8.txt",
+   "note": "",
+   "tail_lines": 6,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“Arthur would not be making any commitment to any 'woke scheme.'”",
+     "zh": "Linda 的消息：Arthur 不会承诺任何 \"woke scheme\"。",
+     "why": "Arthur's refusal to commit to the bursary (Emma's lie) is the professional crisis's resolution—Emma's lie is unraveling. \"woke scheme\" 是 Arthur's dismissive label for diversity initiatives, showing his resistance. Linda's terse message (no greeting, no context) mirrors Dan's \"OK\"—both of Emma's worlds are sending her cold signals. This is the loop's professional thread: Emma's lie is being exposed.",
+     "tip": "woke scheme =「觉醒计划」（Arthur 的蔑称）；Linda's message is the lie's unraveling.",
+     "flags": [
+      "MIX_ZH",
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“My nose wrinkled as I realized my heel was covered in something disgusting. A small puddle of vomit on the floorboards, the plastic around the potatoes coated with it too.”",
+     "zh": "Emma 鼻子皱起，意识到鞋跟沾了恶心的东西；地板上一小滩呕吐物，土豆塑料袋也沾到了。",
+     "why": "nose wrinkled 是 Emma's involuntary disgust response—she's repelled by mess (Gus's vomit) but also by the metaphor: her life is messy and she's stepping in it. \"the plastic around the potatoes coated with it too\" = the vomit contaminates everything, including her carefully bought groceries (she shopped to compensate). This is the loop's domestic thread: the dog is sick, the marriage is sick, Emma is stepping in it.",
+     "tip": "puddle of vomit =「呕吐物」；Gus's sickness is the chapter's domestic crisis; \"coated\" shows contamination spreading.",
+     "flags": [
+      "MIX_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“The fresh flowers on the kitchen island, orange roses in our best crystal vase. Dan had obviously bought them to mark the day. Another wave of guilt overwhelmed me.”",
+     "zh": "厨房岛台上的新鲜花，橙色玫瑰在最好的水晶花瓶里；Dan 显然是买来纪念这天的。又一波愧疚淹没她。",
+     "why": "orange roses = Dan's anniversary gesture (orange = warmth, not red = passion—Dan's understated love language). \"our best crystal vase\" = he used the good china for her. \"Dan had obviously bought them\" shows Emma reading the flowers as evidence (she's always interpreting, never present). \"Another wave of guilt\" = guilt as tide—each reminder (flowers, cinnamon swirl, his quiet) adds another wave. \"Had he realized this morning I'd forgotten? Again?\" = the \"Again\" is the loop's key: this is not the first time.",
+     "tip": "orange roses =「橙色玫瑰」；crystal vase =「水晶花瓶」；\"Again\" echoes ch02's \"Again\" (Dan's hurt)—Emma's forgetting is recurrent, the loop's engine.",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 35,
+     "quote": "“But it was OK, I could still fix things, I could still stop a repeat of last year.”",
+     "zh": "\"我还能补救，还能阻止去年的重演。\"",
+     "why": "\"I can still fix things\" is Emma's core delusion—she believes her actions can control outcomes. \"stop a repeat of last year\" reveals the loop's history: last year she also forgot, and the \"repeat\" is the pattern. This is the novel's central irony: Emma thinks she can \"fix\" things, but her \"fixing\" (shopping, cooking, promising) is what perpetuates the loop. The loop isn't something that happens to her; it's something she creates through her distractedness.",
+     "tip": "This is Emma's delusion: she believes she can control the loop through action, but her actions are the loop's fuel.",
+     "flags": [
+      "EN_WHY",
+      "EN_TIP"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 41,
+     "quote": "“Dan moved across to the sink to start the washing-up left over from breakfast. 'Is Poppy back yet? Did she talk to you about giving up Dance?'”",
+     "zh": "Dan 去水槽洗早餐碗碟：\"Poppy 回来了吗？她跟你谈过放弃 Dance 的事吗？\"",
+     "why": "Dan's pivot from Emma's apology to Poppy's Dance shows his priorities: he's concerned about their daughter, not just his own hurt. \"washing-up left over from breakfast\" = Emma didn't clean up (she left for work), so Dan does it. \"Did she talk to you about giving up Dance?\" = Dan is the parent who notices; Emma is the parent who's \"busy.\" This is the novel's critique of gendered labor: Dan does the emotional and domestic work while Emma is \"out there.\"",
+     "tip": "washing-up =「洗碗碟」（英式）；giving up Dance = Poppy 想放弃舞蹈；Dan's concern for Poppy contrasts with Emma's phone distraction.",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 7,
+     "line": 47,
+     "quote": "“'You said you would quit,' his voice was low, his grip on the plate in his hand tight.”",
+     "zh": "\"你说过你会退出的，\"他的声音低沉，手紧握着盘子。",
+     "why": "\"You said you would quit\" is Dan's core grievance—not the forgotten letter, but Emma's broken promise to quit the committee. This is the marriage's real issue: Emma overcommits and breaks promises. \"his voice was low, his grip on the plate in his hand tight\" = Dan's anger is physical (tight grip) but controlled (low voice)—he's not shouting, he's clenching. The plate is a domestic object; his grip on it mirrors his grip on the marriage. \"quit\" = Emma promised to step down from the committee (ch03: \"I'd told him I would step down, but no one had offered to take my place\").",
+     "tip": "quit =「退出」；\"grip on the plate tight\" = Dan's controlled anger; this is the marriage's structural problem, not the forgotten letter.",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 8,
+     "line": 53,
+     "quote": "“'It's just Hattie. It's OK.' / 'You'll only say you have to phone her back later.' He took the plastic ladle from me. 'Just answer it.'”",
+     "zh": "\"只是 Hattie，没事。\"\"你只会说你得稍后回电话。\"他从我手里拿走塑料勺。\"接吧。\"",
+     "why": "Emma's \"It's just Hattie\" dismisses Hattie (her closest friend) as \"just\"—minimizing. Dan's \"You'll only say you have to phone her back later\" predicts Emma's pattern (she always defers). \"He took the plastic ladle from me\" = Dan physically removes the distraction (the ladle/phone) from Emma's hands—intervention. \"Just answer it.\" is Dan's final push: he's forcing Emma to connect. This is the chapter's emotional climax: Dan is trying to make Emma present, and Emma is resisting (phone, committee, \"I need to deal with this\").",
+     "tip": "\"Just answer it.\" = Dan's imperative to connect; the ladle removal is physical intervention; Dan is the one fighting for the relationship while Emma is distracted. \"You said you would quit\"：Dan 的 core grievance 不是 forgotten letter，而是 Emma's broken promise to quit the committee. This is the marriage's structural problem: Emma overcommits and breaks promises. The letter is symptom, not cause. phone-as-barrier motif peaks：Emma scrolls Facebook/Instagram while Dan talks about Poppy's Dance, Gus's sickness, dinner. \"surreptitiously liking one of my client's photos on Instagram\" while Dan speaks = Emma's inability to be present. Dan's \"Just answer it.\" is his intervention. Gus's vomiting：the dog's sickness is the chapter's domestic crisis; Gus as foreshadowing (he'll die later in the loop). \"His food was untouched\" = Gus is declining; Emma doesn't notice until she steps in the vomit. \"I can still fix things\"：Emma's delusion—she believes she can control the loop through action (shopping, cooking, promising). But her \"fixing\" is the loop's fuel. committee chat interlude：AuthorLou/Jas/Denise/Catrin's messages show Emma's work world intruding; \"Alan will be joining us this evening\" = the meeting Emma can't escape. \"Jas @Emma Gah! Have you seen the Guardian piece about Arthur??\" = Arthur's crisis continues.<|end|><|start|>write to=assistant<|channel|>analysis<|message|>§189§ Created file successfully: notes/books/novels/maybe-next-time-by-cesca-major/ch08 the evening.md",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ch09 three years.md",
+   "chapter": "ch09",
+   "text_path": "text/ch09_chapter_9.txt",
+   "note": "",
+   "tail_lines": 6,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“What have I discovered about you this year?”",
+     "zh": "Dan 开场：\"这一年里，我发现了你什么？\"",
+     "why": "The question frames the letter as annual inventory—Dan is cataloguing Emma, turning love into knowledge. \"this year\" establishes the Dec 3 ritual (ch01 = year 1, ch05 = year 2, this = year 3). The list format (a–f) that follows is Dan's attempt to know Emma systematically, but the list's items (fear of fowl, espresso incident, cardigan giveaway) show Emma is knowable only in fragments. This is the novel's epistemological problem: Dan catalogues Emma but can't fully know her.",
+     "tip": "discovered =「发现」；the annual inventory format recurs; each letter adds to Dan's (incomplete) knowledge of Emma.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“b) You love the sky. At dawn, at dusk, puffy with clouds, ribboned with pinks and purples. You’re always pointing it out to me. As if I don’t see it. I suppose I sort of don’t. Not in the way you do.”",
+     "zh": "Emma 爱天空——黎明、黄昏，云朵蓬松，粉紫色的带子；她总指给我看，好像我没看见；我大概确实没看见，不是以她的方式。",
+     "why": "ribboned with pinks and purples is Dan's attempt to describe Emma's perception—he's translating her seeing into words. \"As if I don't see it. I suppose I sort of don't. Not in the way you do.\" is Dan's self-awareness: he sees the sky physically but not emotionally. This is the \"dragging herself back from another place\" motif's positive version—Emma's elsewhere-ness is also her capacity for wonder. \"Getting me up on my thirtieth to see the dawn was pretty special\" shows Emma sharing her perception with Dan.",
+     "tip": "ribboned =「带状的」；puffy =「蓬松的」；Dan's \"Not in the way you do\" is his recognition that Emma's attention is qualitatively different from his.",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“e) You’re kind to me. Even when I’m being a dick. I’m not sure why I’m choosing to bring this up in my romantic letter to you but I still feel ashamed about that night I fell out with you because I thought it was pronounced ex-press-oh and you were adamant it was es-press-oh.”",
+     "zh": "Emma 对他好，即使他 being a dick；他不知道为什么要在浪漫信里提这个，但还为 espresso 发音争吵那晚羞愧——他坚持 ex-press-oh，Emma 坚持 es-press-oh。",
+     "why": "Even when I'm being a dick is Dan's self-diagnosis—he knows he's difficult. \"I'm not sure why I'm choosing to bring this up in my romantic letter\" is meta-commentary: Dan is aware the letter should be romantic but can't help being honest. The espresso incident is a micro-conflict that reveals their dynamic: Dan is wrong (ex-press-oh), Emma is right (es-press-oh), and Emma's kindness is letting him \"climb down off my embarrassing high horse.\" \"You gave me the space to climb down\" = Emma's patience as love. \"Yeah I googled it didn't I? See, I am a dick\" = Dan's self-mocking honesty.",
+     "tip": "dick =「混蛋」（英式口语）；adamant =「坚决的」；espresso 的正确发音是 es-press-oh; \"climb down off my high horse\" =「从高马上下来、认错」。This is Dan's pattern: he's wrong, Emma is patient, he apologizes.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 35,
+     "quote": "“f) You make friends anywhere and easily. You’re always outside a loo, holding hands with some stranger, subtly waving me away as you hand her a tissue for her eyes. How do you get people to tell you stuff that makes them cry after three seconds of meeting them?”",
+     "zh": "Emma 随处随地交朋友；总在厕所外和陌生人手牵手，悄悄挥走 Dan，递纸巾；怎么三秒内就让人哭着倾诉？",
+     "why": "make friends anywhere and easily is Emma's defining trait—her openness. \"outside a loo, holding hands with some stranger\" is a specific, vivid image of Emma's instant intimacy. \"subtly waving me away\" shows Emma managing Dan's presence—she's including the stranger, excluding Dan. \"How do you get people to tell you stuff that makes them cry after three seconds\" is Dan's awe at Emma's emotional accessibility. \"You lent that one girl the soft pink cardigan you adored because she was cold and seemed sad. YOU DIDN'T EVEN KNOW HER NAME.\" = Emma's generosity without boundaries—she gives even to strangers. This is the trait that makes Emma \"an enigma\" (ch05): she's open to everyone but fully known by no one.",
+     "tip": "subtly =「巧妙地、不露痕迹地」；cardigan =「开襟羊毛衫」；Emma's generosity without boundaries is both her virtue and her vulnerability—she gives to strangers, neglects Dan/Hattie.",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 41,
+     "quote": "“I still can’t really believe it.”",
+     "zh": "",
+     "why": "",
+     "tip": "",
+     "flags": [
+      "NO_ZH",
+      "NO_WHY",
+      "NO_TIP"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 44,
+     "quote": "“It’s not that I’m not excited—you know I am. I just can’t believe that in seven months I’m going to be a dad.”",
+     "zh": "\"我真的不敢相信。\"\"不是不兴奋——你知道我是。我只是不敢相信七个月后我将成为爸爸。\"",
+     "why": "The tonal shift from list (a–f) to \"I can't really believe it\" is the letter's pivot—Dan has been cataloguing Emma, now he reveals the news. \"It's not that I'm not excited\" is Dan's double negative (classic British understatement)—he IS excited but can't process it. \"seven months\" = pregnancy timeline (Emma ~2 months pregnant, due in 7 months = Miles). \"going to be a dad. A father. Someone's old man.\" = Dan's identity shift, each term more formal/aged. \"Pot and Pan. Me old geezer.\" = Dan's self-mocking humor about aging.",
+     "tip": "old man =「老头」（Dan's self-mocking）；Pot and Pan = Dan's future nickname for himself as dad; \"seven months\" = Miles's gestation; this is the novel's first hint of Miles's existence.",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 7,
+     "line": 50,
+     "quote": "“You drifted toward me like a ghost; I was gripped with fear. What had happened? I knew from the look you were giving me that something fundamental had shifted. We were careering into the 'After.'”",
+     "zh": "Emma 像鬼魂一样飘向他；他被恐惧攫住；发生了什么？从 Emma 的眼神他知 something fundamental had shifted；他们正在 careering into the \"After.\"",
+     "why": "drifted toward me like a ghost = Emma's pregnancy announcement as spectral—she's transformed, unfamiliar. \"I was gripped with fear\" = Dan's terror at the unknown. \"something fundamental had shifted\" = pregnancy as ontological change. \"careering into the 'After'\" = the novel's key phrase: \"After\" = life after the news, after the loop's beginning. \"careering\" (British: moving fast, out of control) + \"After\" (capitalized, like a place) = they're entering a new temporal zone. This is the loop's origin: Miles's conception is the \"After\" that will repeat.",
+     "tip": "drifted =「飘动」；gripped with fear =「被恐惧攫住」；careering =「猛冲、失控地前进」；\"After\" (capitalized) = the novel's temporal marker—life after Miles's conception, which will loop. This is the loop's seed moment.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 8,
+     "line": 56,
+     "quote": "“I love you (and the bump) (?!). Shhhhhiiittttttt. I can’t wait to see what our fourth year brings us . . .”",
+     "zh": "\"我爱你（和肚子里的）（?!）。Shhhhhiiittttttt。我等不及看我们的第四年会带来什么……\"",
+     "why": "\"(and the bump)\" = Dan including the unborn child in his love; \"(?!)\" = his disbelief/humor. \"Shhhhhiiittttttt\" = Dan's verbal tic (elongated, like a moan of overwhelm). \"our fourth year\" = the toast formula, incremented (ch01: year 1, ch05: year 3, now: fourth year). The ellipsis \" . . .\" = trailing off, wonder. This is Dan's voice at its most vulnerable: the list-maker overwhelmed by the future.",
+     "tip": "bump =「孕肚」；Shhhhhiiittttttt = Dan's elongated interjection (British); \"fourth year\" = the loop's temporal count; \" . . .\" = trailing off into wonder. The \"After\" has begun. \"careering into the After\"：这是全书的关键短语——\"After\" = life after Miles's conception, which will loop. \"careering\" (失控地前进) + \"After\" (大写，如地名) = 他们正在进入一个新的时间区域。这是 loop 的 origin: Miles's conception 是 \"After\" 的起点，而 \"After\" 会被时间循环反复重演。 pregnancy as time-machine：Emma's body (the bump) 是 time-loop 的物理载体——每次 loop 重置，Emma 都会重新怀孕、重新经历 Miles 的成长。Dan's \"I can't really believe it\" 是 loop 的 first iteration. list format as knowledge-attempt：Dan's a–f list 是他试图 \"know\" Emma 的努力，但 items (fear of fowl, cardigan giveaway) 显示 Emma 只能在碎片中被知。This is the novel's epistemological problem. \"You make friends anywhere\"：Emma's generosity without boundaries (cardigan to stranger) 是她的 virtue and vulnerability—she gives to strangers, neglects Dan/Hattie. This trait will recur in the loop. toast formula：\"our fourth year\" increments the count; each letter marks a Dec 3; the count grows while Emma's attention fragments—the loop's temporal engine.<|end|><|start|>write to=assistant<|channel|>analysis<|message|>§215§ Created file successfully: notes/books/novels/maybe-next-time-by-cesca-major/ch09 three years.md",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ch10 the committee.md",
+   "chapter": "ch10",
+   "text_path": "text/ch10_chapter_10.txt",
+   "note": "",
+   "tail_lines": 6,
+   "tail_english": true,
+   "blocks": [
+    {
+     "n": 1,
+     "line": 17,
+     "quote": "“By the time I’d left the room Hattie had rung off. Settling into the office on the first floor, I fired up my laptop, wishing I’d thought to make myself a cup of tea.”",
+     "zh": "Emma 离开 Miles 房间时 Hattie 已挂电话；她坐进一楼办公室，打开 laptop， wishing 她想到了泡茶。",
+     "why": "fired up my laptop = Emma's immediate pivot to work—she's already leaving Miles's crisis behind. \"wishing I'd thought to make myself a cup of tea\" is her self-care deferral—she'll tend to herself later (she never does). The transition from Miles's yelling to office work shows Emma's compartmentalization: family crisis → professional crisis, no pause. This is the \"dragging herself back from another place\" pattern in action.",
+     "tip": "fired up =「打开、启动」；Hattie rung off = Emma missed another connection; the tea wish is never fulfilled.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 2,
+     "line": 23,
+     "quote": "“Another agent was asking if I was OK, if I’d seen Twitter. I immediately abandoned the drawer and logged in, searching for the agency handle.”",
+     "zh": "另一个 agent 问 Emma 是否 OK、是否看过 Twitter；她立刻放弃抽屉、登录、搜索 agency handle。",
+     "why": "immediately abandoned shows Emma's priority: professional crisis over personal (she was looking for paper for Dan's letter). \"searching for the agency handle\" = she's monitoring her public reputation. \"A stream of angry responses, many retweeting the incredibly damaging Guardian piece\" = the crisis is escalating. \"I had to sort this, Arthur was Linda's client but this was our agency and we were, rightly, getting dragged for our lack of response\" = Emma's moral stance (they deserve criticism) vs her professional obligation (sort it).",
+     "tip": "abandoned =「放弃」；agency handle =「机构账号」；\"rightly getting dragged\" = Emma's self-awareness about the agency's complicity.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 3,
+     "line": 29,
+     "quote": "“Opening my office door, I realized they were coming from his room next door, the wood decorated with remnants of some rocket stickers he removed last year as being 'too babyish' (I cried). I stepped forward, craning to listen. My eyebrows shot up—Miles was actually yelling.”",
+     "zh": "Emma 开门，意识到声音来自 Miles 房间；她 stepped forward, craning to listen；眉毛扬起——Miles 真的在 yelling。",
+     "why": "craning to listen = Emma eavesdropping on her own children—she's spying, not parenting. \"My eyebrows shot up\" = surprise; Miles yelling is an anomaly (\"Miles didn't get angry; he was the most placid child I'd ever known\"). The fire doors (\"Why did we install fire doors? They made it so much harder to hear things.\") are Emma's complaint about barriers—she wants to hear, to know, but the doors (and Miles) block her. This is the novel's theme: Emma wants to know but can't reach.",
+     "tip": "craning =「伸长脖子」；\"most placid child\" = Miles's baseline; the fire doors are both literal and metaphorical barriers.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 4,
+     "line": 35,
+     "quote": "“Don’t tell?”",
+     "zh": "\"别告诉？\"",
+     "why": "Poppy's \"Don't tell, OK?\" is the chapter's unanswered question—what secret are the children hiding? \"Don't tell?\" (Emma's repetition, with question mark) shows her registering the phrase but not pursuing it. This is the novel's hidden thread: Miles's secret, the \"something wrong\" that Emma senses but doesn't investigate. The question mark transforms Poppy's command (\"Don't tell\") into Emma's uncertainty. This will become the loop's central mystery.",
+     "tip": "Don't tell? =「别告诉？」；this is the chapter's hook—what are the children hiding? Emma's failure to pursue it is her pattern: she notes but doesn't act.",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 5,
+     "line": 41,
+     "quote": "“'Arthur did not appreciate being blind-sided in that manner. And he will not bend to this wokery.'”",
+     "zh": "Linda：\"Arthur 不欣赏被这样 blind-sided。他不会屈服于这种 wokery。\"",
+     "why": "blind-sided = Linda's framing of Emma's actions (she told Melissa about the bursary without Arthur's consent). \"wokery\" = Linda's dismissive term for accountability—she frames diversity initiatives as ideological extremism. \"And he will not bend\" = Arthur's (and Linda's) refusal to adapt. \"We will discuss your disappointing response to all of this in our meeting on Friday\" = Linda's threat—Emma is in trouble for trying to help. This is the professional crisis's escalation: Emma's lie is not just unraveling, it's being weaponized against her.",
+     "tip": "blind-sided =「 blindsided」；wokery =「觉醒主义」（蔑称）；Linda's \"disappointing response\" = Emma is blamed for her own lie.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 6,
+     "line": 47,
+     "quote": "“'OK. Well . . .' I said, aware of the time I simply hadn’t got, the committee meeting any minute, Dan who I needed to talk to too, 'we can talk about it at breakfast, OK? We’ll sort it.'”",
+     "zh": "\"OK. Well . . .\" Emma 说，意识到自己 simply hadn't got 的时间，committee meeting any minute，Dan 也得谈，\"我们早餐时谈，OK？我们 sorted。\"",
+     "why": "\"aware of the time I simply hadn't got\" = Emma's time-anxiety—she's always running out of time (the loop's temporal pressure). \"the committee meeting any minute\" = her escape hatch—she'll leave. \"Dan who I needed to talk to too\" = she knows she should talk to Dan but defers. \"We'll sort it\" = her promise to Miles, which she'll break (she goes to the committee meeting instead). \"He didn't reply\" = Miles's silence is his answer—he doesn't believe her.",
+     "tip": "sort it =「解决了」；Emma's \"We'll sort it\" is another unfulfilled promise; Miles's silence = his distrust.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 7,
+     "line": 53,
+     "quote": "“Rushing to my bedroom I tried to shrug off my unease, my instinct whispering in my ear that something was really wrong as I rummaged for a Band-Aid to stick over the rub on my heel.”",
+     "zh": "Emma 冲向卧室，试图 shrug off unease，instinct whispering something really wrong，翻找 Band-Aid 贴在 heel 的 rub 上。",
+     "why": "shrug off my unease = Emma dismissing her own instinct—she knows something is wrong but chooses to ignore it. \"instinct whispering in my ear\" = her body knows before her mind does. \"something was really wrong\" = the novel's central tension—Miles's secret, the loop's hidden thread. \"rummaged for a Band-Aid to stick over the rub on my heel\" = Emma's physical self-care (Band-Aid on heel) while ignoring the deeper wound (Miles). The Band-Aid is the chapter's metaphor: surface fixes for deep problems.",
+     "tip": "shrug off =「摆脱、甩掉」；unease =「不安」；rummaged =「翻找」；the heel rub is from ch04 (the cyclist incident)—Emma's body carries the day's damage.",
+     "flags": [
+      "MIX_ZH",
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    },
+    {
+     "n": 8,
+     "line": 59,
+     "quote": "“Didn't you hear me call you?” he said, not turning around.",
+     "zh": "\"你没听见我叫你吗？\"他没转身。",
+     "why": "Dan's question is the chapter's final line—not \"How was work?\" or \"How are the kids?\" but \"Didn't you hear me call you?\" = he called, she didn't hear (or pretended not to). \"not turning around\" = Dan's back is to her—he's withdrawing. This is the marriage's emotional temperature: Dan is present (washing up, calling) but Emma is elsewhere (phone, committee, \"I need to deal with this\"). The question is both literal (did you hear me?) and metaphorical (do you hear me at all?).",
+     "tip": "Didn't you hear me call you? = Dan's question about Emma's presence; \"not turning around\" = his withdrawal; this mirrors ch02's \"Dan . . . ?\" (Emma reaching, Dan not responding) but reversed—now Dan reaches, Emma doesn't hear. \"Don't tell?\"：Poppy 的 \"Don't tell, OK?\" 是本章的 unanswered question—Miles 和 Poppy 隐藏着什么？Emma 的 failure to pursue it is her pattern: she notes but doesn't act. This will become the loop's central mystery. \"You said you would quit\" (ch08) + \"will not bend to this wokery\" (ch10)：Emma's professional crisis is escalating—her lie is unraveling, Linda is blaming her, Arthur refuses to commit. The professional thread is tightening. Miles's secret：\"something was really wrong\" (Emma's instinct) + \"Don't tell?\" + Miles lying on bed = the novel's hidden thread. Emma promises \"We'll sort it at breakfast\" but goes to the committee meeting instead—her absence from Miles's crisis is the loop's engine. \"Didn't you hear me call you?\"：Dan's question is the chapter's final line—literal (did you hear?) and metaphorical (do you hear me at all?). This mirrors ch02's \"Dan . . . ?\" (Emma reaching, Dan not responding) but reversed: now Dan reaches, Emma doesn't hear. The loop's emotional throughline. committee meeting as escape：Emma goes to the committee meeting instead of staying with Miles/Dan—her pattern of escaping into work. \"I'll be five minutes, literally\" = she's always minimizing her absence.",
+     "flags": [
+      "EN_WHY",
+      "MIX_TIP"
+     ]
+    }
+   ]
+  }
+ ]
+}
