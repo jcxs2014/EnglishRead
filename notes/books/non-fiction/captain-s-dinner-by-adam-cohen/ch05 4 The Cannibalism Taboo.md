@@ -111,7 +111,6 @@ modified: "2026-10-19"
 - **表达方式**：用 The Times 引语把 "rigged" 写成 "media consensus"——这种 "authority" framing 为后文 "necessary defense" 提供 "social" critique。
 - **为什么这样写**：作者在此用 The Times 作 "authority"——这种 "authority" 为 "necessary defense" 提供 "contemporary" critique（Victorian England itself recognized the rigged nature of "lots"）。
 
-> **原句 10:** "Given these patterns, the selection of Parker was likely, perhaps even inevitable. Parker was at the bottom of every hierarchy in the Mignonette lifeboat." (covered above)
 
 ## 词汇分级
 

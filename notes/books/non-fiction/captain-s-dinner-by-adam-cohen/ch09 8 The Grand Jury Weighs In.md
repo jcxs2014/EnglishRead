@@ -69,7 +69,7 @@ modified: "2026-10-19"
 
 - **中文理解**：Having rejected necessity defense，Baron Huddleston went on to explain why doctrine of self-defense did not apply。It was true，he said，that law sometimes permitted people to kill to prevent someone from killing them。But that had not been case in lifeboat，he said。Dudley and Stephens may have been in danger of dying of hunger and thirst，but Parker，"at the bottom of the boat, was not endangering their lives by any act of his," judge pointed out。As result，it was "impossible to say that act of Dudley and Stephens was an act of self-defense."
 - **句子结构**：五句：rejected necessity → self-defense sometimes permitted → not case in lifeboat → Parker not endangering → impossible to say self-defense。
-- **关键词**：`"at the bottom of the boat, was not endangering their lives by any act of his"`、`"impossible to say...act of self-defense"`
+- **关键词**：`"at the bottom of the boat, was not endangering their lives by any act of his"`、`"impossible to say that the act of Dudley and Stephens was an act of self-defense"`
 - **表达方式**：用 "impossible to say" 把 self-defense 写成 "inapplicable"——这种 "inapplicable" framing 为后文 "no legal defense" 提供 "legal" basis。
 - **为什么这样写**：作者在此把 Baron Huddleston 写成 "rejecting self-defense"——这种 "rejection" 为后文 "no legal defense" 提供 "legal" basis（neither necessity nor self-defense applies）。
 
@@ -85,7 +85,7 @@ modified: "2026-10-19"
 
 - **中文理解**：Another broad Victorian reform principle that Baron Huddleston invoked was importance of protecting weak from being exploited by strong。Baron Huddleston noted that Dudley considered Parker's illness to be reason for sacrificing him，but he maintained that opposite was true。"One would have imagined that state of his health, and misery in which he was at time, would have obtained for him more consideration," he said。
 - **句子结构**：三句：protect weak → Dudley considered illness as reason → "One would have imagined..." quote。
-- **关键词**：`"protecting the weak from being exploited by the strong"`、`"One would have imagined that the state of his health...would have obtained for him more consideration"`
+- **关键词**：`"protecting the weak from being exploited by the strong"`、`"One would have imagined that the state of his health, and the misery in which he was at the time, would have obtained for him more consideration"`
 - **表达方式**：用 "One would have imagined..." 把 Parker's illness 写成 "reason for more consideration"——这种 "consideration" framing 为后文 "Victorian reform" 提供 "moral" basis。
 - **为什么这样写**：作者在此把 Baron Huddleston 写成 "invoking reform principle"——这种 "invocation" 为后文 "Victorian reform" 提供 "moral" basis（protect weak, not exploit them）。
 

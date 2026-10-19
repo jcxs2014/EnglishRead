@@ -104,7 +104,7 @@ modified: "2026-10-19"
 
 - **中文理解**：当然，还有食人这一层。法律是 capacious 的，几乎涵盖人类经验的每一变体——但很难想到还有哪起重大法律案件是关于人们冷静地决定自己有权杀掉朋友、靠吃他的尸体维生。食人这一面始终给案件一种特殊的 dark allure。弗洛伊德观察到，人既被食人 repelled，又在某种层面上被它 drawn。
 - **句子结构**：四句：引出 cannibalism → 法律的容量 + 食人案件的稀缺 → dark allure → Freud 引语。
-- **关键词**：`capacious`（容量大的）、`dark allure`、`repelled...drawn`
+- **关键词**：`capacious`（容量大的）、`dark allure`、`repelled`
 - **表达方式**：Freud 引语作为 authority，把"读者为什么会被这个案子吸引"从心理上解释清楚——不是猎奇，而是 repulsion 与 attraction 的并存。
 - **为什么这样写**：引言必须正面处理"食人"这个卖点，否则读者会怀疑作者在回避——把食人写成"dark allure"而非猎奇，既承认吸引力，又把吸引力提升到心理/哲学层面。
 

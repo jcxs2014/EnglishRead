@@ -94,7 +94,6 @@ modified: "2026-10-19"
 - **表达方式**：用 Lord Coleridge 的 two questions 把 "utilitarian calculus" 写成 "untrustworthy"——这种 "untrustworthy" framing 为后文 "modern applications" 提供 "philosophical" basis。
 - **为什么这样写**：作者在此把 Lord Coleridge 写成 "questioning"——这种 "questioning" 为后文 "modern applications" 提供 "philosophical" basis（case questions utilitarian calculus in medicine/torture/AI）。
 
-> **原句 8:** "The reason Dudley and Stephens has remained an object of fascination for close to a century and a half, though, is not its pathos, its humor, its coincidences, or even its impact on the law of homicide, significant though all those things are. It is, rather, that the case stands as an almost perfect real-world experiment about one of the great fault lines in philosophy: the debate between utilitarianism and rights-based moral theories." (covered in quote 2)
 
 ## 词汇分级
 
@@ -175,4 +174,4 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-Afterword 把 Dudley and Stephens 从"食人案"提升为 "soaring legal tower at one end of a great philosophical divide"——utilitarianism vs rights-based moral theories；Lord Coleridge 的 opinion 不仅 changed law of cannibalism at sea forever，更 championed human rights 与 equality；modern applications（medicine/ventilators, torture/ticking bomb, AI/self-driving cars）显示 case 的 ongoing relevance；Victorian reform ethic 的 best elements（human dignity, equality, human rights）与 worst elements（imperialism, colonialism）并存；final image：Parker "staring out into the fog undisturbed, searching for a mast and a sail"。All this provides the book's final thesis: no matter how low people are on the hierarchy, their lives belong to them and them alone.
+Afterword 把 Dudley and Stephens 从"食人案"提升为 "soaring legal tower at one end of a great philosophical divide"——utilitarianism vs rights-based moral theories；Lord Coleridge 的 opinion 不仅 changed law of cannibalism at sea forever，更 championed human rights 与 equality；modern applications（medicine/ventilators, torture/ticking bomb, AI/self-driving cars）显示 case 的 ongoing relevance；Victorian reform ethic 的 best elements（human dignity, equality, human rights）与 worst elements（imperialism, colonialism）并存；final image：Parker "有权在雾中凝视，搜寻桅杆与船帆"。All this provides the book's final thesis: no matter how low people are on the hierarchy, their lives belong to them and them alone.

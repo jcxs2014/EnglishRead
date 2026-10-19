@@ -161,7 +161,7 @@ modified: "2026-10-19"
 
 - **中文理解**：There was one small source of freshwater in lifeboat。Two tins Dudley grabbed while evacuating Mignonette—turnips, not meat—contained a little liquid along with soggy vegetables。After two days in lifeboat，men so thirsty they opened first tin。It contained five turnips，carefully divided。They appreciated something to eat，even if not much，but it was the liquid that really lifted spirits。"That one mouthful," Stephens later said, "seemed so cool to our parched throats."
 - **句子结构**：六句：source → tins → opened → turnips → appreciated → Stephens 引语。
-- **关键词**：`turnips, not meat`、`five turnips`、`carefully divided`、`"That one mouthful...seemed so cool to our parched throats"`
+- **关键词**：`turnips, not meat`、`five turnips`、`carefully divided`、`"seemed so cool to our parched throats"`
 - **表达方式**：用 "turnips, not meat" 把 Dudley 的 mistake 具象化（他以为是 meat）；"carefully divided" 把 five turnips 写成 "rationed"；Stephens 引语 "seemed so cool to our parched throats" 把 "tiny sip" 写成 "relief"。
 - **为什么这样写**：作者在此把"turnip tins"写成 "irony"——Dudley 抓了 turnips 而非 meat，liquid 有限，men 仍 thirsty。这种 "irony" 为后文"必要性"（食人）提供 "no other option" 的事实基础。
 

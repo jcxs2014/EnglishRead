@@ -88,7 +88,7 @@ modified: "2026-10-19"
 
 - **中文理解**：同时，Dudley 的履历中有几处本该让船代 pause：他主要在英国近海航行，从未越过赤道（远航水手的 notable marker），更别说航行到澳洲；更从未在 mere yacht 上做过这些。这意味着他对前方风险与准备毫无 firsthand knowledge。
 - **句子结构**：五句：pause 引入 → 近海 → 未越赤道 → 未在 yacht 上 → 无 firsthand knowledge。用 "much less" 与 "certainly never" 加强递进。
-- **关键词**：`should have given...pause`、`crossed the equator`、`firsthand knowledge`
+- **关键词**：`should have given the yacht agency pause`、`crossed the equator`、`firsthand knowledge`
 - **表达方式**：用 "should have given pause" 把"疏忽"写成"本该注意却未注意"，暗示船代的失职；"mere yacht" 用 "mere" 贬低游艇，与 "rarefied world" 形成反差。
 - **为什么这样写**：作者在此揭示 Dudley 的"盲目自信"——他有勇气但无经验，这种组合在后文海难中致命。这是本章的 thesis 落地：产业衰落压出的船长，没有能力评估风险。
 
@@ -128,7 +128,7 @@ modified: "2026-10-19"
 
 - **中文理解**：送二手游艇到澳洲对 Stephens 曾经的职位是 significant step down，但他 by now used to that。更大的 concern 是 voyage 的 riskiness：父亲死于一次 mishap at sea，他自己 steamer officer career 也因另一次事故终结——他比多数水手更有理由 wary of dangerous assignment。
 - **句子结构**：四句：step down → used to → riskiness → 父亲之死与 career 终结 → warier than most。
-- **关键词**：`significant step down`、`mishap at sea`、`wary`、`black mark`
+- **关键词**：`significant step down`、`mishap at sea`、`wary`、`significant step down`
 - **表达方式**：用 "mishap at sea" 把两次海难轻描淡写（mishap = 小事故），与 "significant step down" 形成反差——Stephens 的人生是"小事故累积成大悲剧"。
 - **为什么这样写**：作者在此把 Stephens 的" desperation"写成"被两次海难塑形"——他不是 fearless，而是"有理由 fear 但还是去了"，这种矛盾让后文的食人更有悲剧性。
 
@@ -176,7 +176,7 @@ modified: "2026-10-19"
 
 - **中文理解**：loom over Mignonette 的还有 three things：Frost 兄弟与 Haynes。Sailors 是 superstitious lot，fear Friday 启航、向风 whistling、countless taboos。Dudley 与 crew 有一个 more tangible bad omen：在船 ever start journey 之前，as many sailors had dropped out as had decided to go。
 - **句子结构**：四句：loom → superstitious lot（列举 taboos）→ tangible bad omen → "as many...as..." 的对称句。
-- **关键词**：`loomed over`、`superstitious lot`、`bad omen`、`as many...as`
+- **关键词**：`loomed over`、`superstitious lot`、`bad omen`、`as many sailors had dropped out as had decided to go`
 - **表达方式**：把"三人退出 vs 三人留下"写成 "bad omen"，把统计事实转为预兆——作者在此用 "as many...as" 的对称修辞把"不稳定"写成"宿命"。
 - **为什么这样写**：全章以 "bad omen" 收尾，把 Mignonette 的启航写成"注定悲剧的开始"——这种 narrative framing 为后文海难与食人提供宿命感，也呼应引言的 "A great deal followed from the wreck of a small ship."
 
@@ -313,4 +313,4 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-本章把 Mignonette 号的启航写成"帆船垂死时代"的一个缩影：澳洲律师 Want 为炫耀买下二手游艇，船代在产业衰落中艰难招募船长 Dudley——Dudley 有游艇经验却无赤道以南航行经历、被经济压力与移民梦推上船；救生艇 dinghy 本就脆弱不堪； Brooks、Stephens、Parker 各自被金钱与澳洲梦引诱上船，三人启航前已有 Frost 兄弟与 Haynes 退出——"as many dropped out as decided to go" 的 bad omen 预示悲剧。海难与食人的 seeds，早在启航前就已埋下。
+本章把 Mignonette 号的启航写成"帆船垂死时代"的一个缩影：澳洲律师 Want 为炫耀买下二手游艇，船代在产业衰落中艰难招募船长 Dudley——Dudley 有游艇经验却无赤道以南航行经历、被经济压力与移民梦推上船；救生艇 dinghy 本就脆弱不堪； Brooks、Stephens、Parker 各自被金钱与澳洲梦引诱上船，三人启航前已有 Frost 兄弟与 Haynes 退出——退出者与留下者数量相等 的 bad omen 预示悲剧。海难与食人的 seeds，早在启航前就已埋下。

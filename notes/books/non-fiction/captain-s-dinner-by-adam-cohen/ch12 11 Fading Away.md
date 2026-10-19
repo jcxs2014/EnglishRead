@@ -109,7 +109,7 @@ modified: "2026-10-19"
 
 - **中文理解**：As city's first official casualty，Dudley's name was widely reported in news。If there was any larger meaning to be gleaned from Dudley's inglorious end，any sense that score had been evened for what he had done years earlier to his cabin boy，press did not notice it。With his move to Australia，Dudley had managed to put killing of Richard Parker and his murder conviction behind him。Virtually none of news accounts of Dudley's death mentioned his past life，and official public health report referred to him simply as "Captain Dudley, a sailmaker."
 - **句子结构**：四句：widely reported → no larger meaning → put past behind → "Captain Dudley, a sailmaker."
-- **关键词**：`"Captain Dudley, a sailmaker"`、`"Virtually none of the news accounts...mentioned his past life"`
+- **关键词**：`"Captain Dudley, a sailmaker"`
 - **表达方式**：用 "Captain Dudley, a sailmaker" 把 Dudley 写成 "ordinary"——这种 "ordinary" framing 为后文 "fading away" 提供 "erasure" basis。
 - **为什么这样写**：作者在此把 Dudley 写成 "ordinary"——这种 "ordinary" 为后文 "fading away" 提供 "erasure" basis（Dudley's past was erased, he became "Captain Dudley, a sailmaker"）。
 

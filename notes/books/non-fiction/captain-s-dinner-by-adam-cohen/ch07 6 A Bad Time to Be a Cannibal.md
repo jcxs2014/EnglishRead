@@ -27,7 +27,7 @@ modified: "2026-10-19"
   | Mathew Hale opposition | 评论家 | 显示 opposing view（dangerous doctrine） |
   | Victorian reform：Merchant Shipping Act, child protection, "cult of the child" | 社会史 | 显示 legal landscape 变化 |
   | Norbert Elias "civilizing process" / "expanding threshold of repugnance" | 社会学 | 解释 violence 的 decline |
-  | Cannibalism as "prime symbol of barbarism" | 文化话语 | 显示 1884 是 "worst year to be cannibal" |
+  | Cannibalism as "prime symbol of barbarism" | 文化话语 | 显示 1884 是 "最糟的食人之年" |
   | Euxine case (1874) near-prosecution | 历史 | 显示 Board of Trade 已开始考虑 prosecution |
 
 - **论证脉络**：prosecution case 强 → necessity defense 的不确定性 → Holmes 案（precedent + strict conditions）→ Bacon/Blackstone vs Hale → Victorian reform（maritime laws, child protection）→ "civilizing process" → cannibalism as "barbarism" → Euxine near-prosecution → "poised to end long tradition"
@@ -124,7 +124,7 @@ modified: "2026-10-19"
 - **中文理解**：Cannibalism had long been seen as "the prime symbol or signifier of 'barbarism,'" as anthropologist Shirley Lindenbaum observed。For Victorians，cannibalism was "the absolute nadir of human behavior," Patrick Brantlinger notes in Taming Cannibals: Race and the Victorians。Englishmen of era believed that it was "practiced by black or brown savages but not by white Christians, who are horrified by it."
 - **句子结构**：三句：prime symbol → absolute nadir → practiced by savages not Christians。
 - **关键词**：`"prime symbol or signifier of 'barbarism'"`、`"absolute nadir of human behavior"`、`"black or brown savages but not by white Christians"`
-- **表达方式**：用 Lindenbaum/Brantlinger 引语把 "cannibalism" 写成 "barbarism"——这种 "barbarism" framing 为后文 "worst year to be cannibal" 提供 "cultural" basis。
+- **表达方式**：用 Lindenbaum/Brantlinger 引语把 "cannibalism" 写成 "barbarism"——这种 "barbarism" framing 为后文 "最糟的食人之年" 提供 "cultural" basis。
 - **为什么这样写**：作者在此把 "cannibalism" 写成 "barbarism"——这种 "barbarism" framing 为后文 "Dudley, Stephens, Brooks = barbarians" 提供 "cultural" basis（Victorians saw cannibalism as non-Christian/savage）。
 
 > **原句 12:** "In the end, the investigation was dropped. Even so, the crew had briefly been treated as possible criminal defendants. It is unlikely the Mignonette survivors knew of the case. There was little coverage of it in English papers, and the articles that were written presented the Euxine survivors as unfortunate victims rather than suspects. But if Dudley, Stephens, and Brooks had known how close the Euxine case had come to a prosecution, they would no doubt have been more worried."
@@ -389,4 +389,4 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-本章把 Dudley 等人的 legal defense 写成 "uphill battle"：prosecution case "straightforward"（所有 murder elements present + sworn statements + murder weapon）；necessity defense 在 English law 无 precedent，Holmes 案提供 "helpful" 但 "not helpful at all"（Dudley 未 draw lots，American court not binding）；Bacon/Blackstone endorsement vs Hale "dangerous doctrine" 的评论家分歧；Victorian reform（Merchant Shipping Act, child protection, "cult of the child"）与 "civilizing process"（Elias）使 cannibalism 从 "acceptable" 变为 "barbaric"；1884 是 "worst year to be cannibal"（Seeley's empire discussion, cannibalism as "prime symbol of barbarism"）；Euxine 案（1874）near-prosecution 显示 Board of Trade 已开始认真考虑 prosecution——"poised to end that long tradition"。所有这些为后文审判的 "guilty" 提供 historical context。
+本章把 Dudley 等人的 legal defense 写成 "uphill battle"：prosecution case "straightforward"（所有 murder elements present + sworn statements + murder weapon）；necessity defense 在 English law 无 precedent，Holmes 案提供 "helpful" 但 "not helpful at all"（Dudley 未 draw lots，American court not binding）；Bacon/Blackstone endorsement vs Hale "dangerous doctrine" 的评论家分歧；Victorian reform（Merchant Shipping Act, child protection, "cult of the child"）与 "civilizing process"（Elias）使 cannibalism 从 "acceptable" 变为 "barbaric"；1884 是 "最糟的食人之年"（Seeley's empire discussion, cannibalism as "prime symbol of barbarism"）；Euxine 案（1874）near-prosecution 显示 Board of Trade 已开始认真考虑 prosecution——"poised to end that long tradition"。所有这些为后文审判的 "guilty" 提供 historical context。
