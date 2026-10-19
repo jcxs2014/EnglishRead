@@ -20,33 +20,33 @@ Signy 用合法 fabricator 工作但偷偷做未授权 genome edits——her mor
 
 > **原句 1:** "Signy mindlessly tapped her way through the prompts that followed. Yes, she would only use genetic templates approved by the Berth City Government Agricultural Bureau. No, she would not fabricate anything designed to cause harm or that could be used for malicious purposes. Yes, she would submit a full report of all fabricated seeds to the Agricultural Bureau every two weeks for review, and yes, she understood that tampering with her report would lead to a loss of her license as well as criminal prosecution."
 
-**中文理解**：Signy 机械地通过 fabricator 的 license 确认——所有"official"承诺她都会遵守，但这些都是表面文章。
+**中文理解**：Signy 机械地逐条通过合成器的许可确认——那些“官方”承诺她照单全收，但都只是表面文章。
 
 **关键词**：genetic templates / Agricultural Bureau / tampering with her report
 
-**为什么这样写**：用 Yes/No/Yes/Yes 的机械节奏写出 Signy 的 compliance as performance——she's going through the motions, not真正承诺；"tampering with her report"直接暗示她确实在 tamper。
+**为什么这样写**：用“是、否、是、是”的机械节奏把合规写成一场表演——她只是走个过场，并非真心承诺；而“篡改报告”这一条更直接暗示她确实在动手脚。
 
-**读者视角提示**：Signy 的 self-awareness——she knows she's lying to the bureau。
+**读者视角提示**：Signy 的自我觉察——她清楚自己在对管理局撒谎。
 
 > **原句 2:** "Some of her answers were honest. The ones that weren't didn't concern her a bit. She'd yet to have a tampered report flagged, and moreover, she understood how the Ag Bureau's screening process worked. They weren't scanning for genome edits as subtle as hers. They were looking for new species, major deviations, crop strains that could disrupt the food supply, unauthorized canvas plants that would produce fully synthesized compounds more or less ready to bottle at extraction."
 
-**中文理解**：Signy 的 illegal work——she knows exactly what the Bureau scans for (new species, major deviations, drug precursors) and what they miss (subtle genome edits for medicine)。
+**中文理解**：Signy 的非法工作——她清楚管理局筛查什么（新物种、重大变异、毒品前体），也清楚他们漏掉什么（为制药而做的细微基因编辑）。
 
 **关键词**：genome edits as subtle / new species / major deviations
 
-**为什么这样写**：把 Signy 的 illegal work 写成 technical expertise——she's not a criminal, she's a specialist exploiting regulatory gaps; "didn't concern her a bit"写出 her moral self-justification。
+**为什么这样写**：把她的非法工作写成技术专长——她不是罪犯，而是利用监管漏洞的专家；“一点也不担心”写出她的道德自我开脱。
 
-**读者视角提示**：Signy 的 ethics——she draws the line at recreational drugs, but crosses it for medicine。
+**读者视角提示**：Signy 的伦理底线——她拒绝消遣性药物，却为治病越过了界线。
 
 > **原句 3:** "And sure, the Bureau did sometimes go looking for individual ingredients hidden away in ordinary-looking plants, but Signy had a copy of that hit list. The things that would get a report flagged were the building blocks for recreational drugs, not heart medicine and T-blockers, and she was very, very careful to not use any triggering chemicals in her recipes. Sometimes, that required finding creative work-arounds, which just made her job all the more enjoyable. She didn't do this work for fun, of course—but all the same, who didn't like a puzzle?"
 
-**中文理解**：Signy 的 justifications——she has the Bureau's "hit list", avoids triggering chemicals, and frames illegal work as "puzzle-solving"。
+**中文理解**：Signy 的自我辩解——她手里有管理局的“黑名单”，避开会触发警报的化学品，并把非法工作说成“解谜”。
 
 **关键词**：hit list / triggering chemicals / creative work-arounds / puzzle
 
-**为什么这样写**：把 illegal work 重新包装为 intellectual challenge——"who didn't like a puzzle?"是 Signy 的 self-deception; 反讽语气（"of course"）暗示她确实 enjoys it。
+**为什么这样写**：把非法工作重新包装成智力挑战——“谁不喜欢解谜呢？”是她的自我欺骗；而“当然”一词的反讽语气暗示她其实很享受。
 
-**读者视角提示**：Signy 的 character——puzzle-solver who justifies illegal work as medicine。
+**读者视角提示**：Signy 的性格——一个用“为了治病”为非法行为开脱的解谜者。
 
 ## 本章词汇
 

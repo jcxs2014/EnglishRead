@@ -26,7 +26,7 @@ modified: "2026-10-19"
 
 > **原句 2:** "Species name: Theobroma cypsela"
 
-**中文理解**：species name——Theobroma cypsela（Theobroma cypsela）。
+**中文理解**：学名——Theobroma cypsela（可可属）。
 
 **关键词**：Theobroma cypsela
 

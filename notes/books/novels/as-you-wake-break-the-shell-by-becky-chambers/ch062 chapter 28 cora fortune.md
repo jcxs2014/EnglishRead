@@ -126,7 +126,7 @@ modified: "2026-10-19"
 
 > **原句 12:** "It's the fucking worst." / "It really is."
 
-**中文理解**：Lemon Cupcake——「It's the fucking worst.」/「It really is.」。
+**中文理解**：Lemon Cupcake 的评价——“It's the fucking worst.”／“It really is.”——两人难得一致地嫌弃。
 
 **关键词**：It's the fucking worst / It really is
 

@@ -20,11 +20,11 @@ Chicory greens 的食谱——sautéed, boiled, chopped；极简的 recipe 形�
 
 > **原句 1:** "Sautéed chicory greens"
 
-**中文理解**：食谱标题——sautéed chicory greens（煎炒菊苣）。
+**中文理解**：这一页的食谱标题——煎炒菊苣叶。
 
 **关键词**：sautéed / chicory greens
 
-**为什么这样写**：用食谱格式写出家庭生活在——simple、functional、无修饰；暗示 Signy 与 Cora 的烹饪讲究实用。
+**为什么这样写**：用食谱的格式写出家庭生活——简单、实用、不加修饰；也暗示两人的烹饪讲究的是能用。
 
 **读者视角提示**：家庭生活——烹饪即例行。
 

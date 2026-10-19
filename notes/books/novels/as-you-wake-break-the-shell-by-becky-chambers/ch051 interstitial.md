@@ -26,37 +26,37 @@ modified: "2026-10-19"
 
 > **原句 2:** "This is dwarf foxglove, Signy said. I use it to make heart medication. That's periwinkle. I've tweaked it to produce antidepressants."
 
-**中文理解**：Signy 的植物讲解——dwarf foxglove（心脏药）、periwinkle（抗抑郁药）。
+**中文理解**：她的植物讲解——矮毛地黄用于心脏药，长春花用于抗抑郁药。
 
 **关键词**：dwarf foxglove / periwinkle
 
 **为什么这样写**：把 Signy 的植物写成药材来源——她的工作；“tweaked it to produce”写出她的基因改造。
 
-**读者视角提示**：Signy 的植物——dwarf foxglove（心脏）、periwinkle（抗抑郁）。
+**读者视角提示**：她的那些植物——矮毛地黄治心脏，长春花抗抑郁。
 
 > **原句 3:** "Those are for Cora, Signy had said, adding no detail beyond that."
 
-**中文理解**：Signy 的烟草（伪装成 bell pepper）——“Those are for Cora”——不添细节。
+**中文理解**：她的烟草伪装成甜椒——只说这是给对方的，不添任何细节。
 
 **关键词**：Those are for Cora / adding no detail
 
 **为什么这样写**：把 Signy 的保密写成“adding no detail”——她的谨慎；“Those are for Cora”写出她们的羁绊。
 
-**读者视角提示**：Signy 给 Cora 的烟草——秘密、无细节。
+**读者视角提示**：她为对方准备的烟草——秘密，且不透露细节。
 
 > **原句 4:** "Ah, he'd said. Your lady's favor."
 
-**中文理解**：Otto 的“Your lady's favor”——骑士用语。
+**中文理解**：老人的那句“你家姑娘的信物”——一句骑士腔的玩笑。
 
 **关键词**：Your lady's favor
 
 **为什么这样写**：把 Otto 的话写成“Your lady's favor”——他老派的浪漫框架；“Ah”写出他的辨认。
 
-**读者视角提示**：Otto 的“lady's favor”——指 Cora 的植物，骑士用语。
+**读者视角提示**：老人说的“信物”——指的是对方带来的那株植物，一句骑士用语。
 
 > **原句 5:** "Cora hadn't known what he'd meant by that. She thought he meant like the plants were a favor Signy was doing for her—a way of helping her out."
 
-**中文理解**：Cora 的误解——以为“lady's favor”是指 Signy 替她做的“favor”。
+**中文理解**：她的误解——以为那是指她替对方做的一件小事。
 
 **关键词**：favor Signy was doing for her
 
@@ -66,7 +66,7 @@ modified: "2026-10-19"
 
 > **原句 6:** "It wasn't until years and years later, during a movie night on Lodestone, when Cora found out what he'd actually meant."
 
-**中文理解**：Cora 的醒悟——多年以后在 Lodestone 的电影之夜。
+**中文理解**：她的醒悟——是很多年以后，在石岩站的一个电影之夜。
 
 **关键词**：years and years later / movie night on Lodestone
 
@@ -76,7 +76,7 @@ modified: "2026-10-19"
 
 > **原句 7:** "A ribbon got tied around someone's upper sleeve, and Cora's ears pricked at what they called it. She looked it up in the Primer's dictionary when she and Signy got home that night, and once she scrolled down enough to hit the line labeled noun (archaic), she'd cried, a little."
 
-**中文理解**：Cora 的发现——Primer 词典里的“noun (archaic)”；“she'd cried, a little”。
+**中文理解**：她的发现——在词典里查到这是个古旧的名词；她为此哭了一小会儿。
 
 **关键词**：noun (archaic) / cried, a little
 
@@ -86,17 +86,17 @@ modified: "2026-10-19"
 
 > **原句 8:** "Not because it was mushy, though, okay, sure, she was a marshmallow and it was also that. But no, the real reason she'd cried was because she wanted to call Otto and tell him what a sweetheart he was, and . . . that wasn't something she could do anymore."
 
-**中文理解**：Cora 真正的理由——“wanted to call Otto and tell him what a sweetheart he was, and . . . that wasn't something she could do anymore”。
+**中文理解**：她真正的理由——想打电话告诉老人他有多好，可这件事她已经再也做不到了。
 
 **关键词**：wanted to call Otto / that wasn't something she could do anymore
 
 **为什么这样写**：把 Cora 的悲伤写成“wanted to call Otto”——她的失去；“that wasn't something she could do anymore”写出 Otto 的死亡。
 
-**读者视角提示**：Cora 的悲伤——Otto 去世，无法再打电话。
+**读者视角提示**：她的悲伤——老人已经去世，那通电话再也打不成。
 
 > **原句 9:** "Cora had been really soft on that phrase, after that. She still was."
 
-**中文理解**：Cora 持续的柔软——“really soft on that phrase, after that. She still was.”。
+**中文理解**：她此后一直对那句话心软——而且至今还是。
 
 **关键词**：soft on that phrase / She still was
 

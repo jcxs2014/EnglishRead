@@ -16,7 +16,7 @@ modified: "2026-10-19"
 
 > **原句 1:** "Cora plugged an old memory stick into her tablet and began to pull up recipes for dinner. The memory stick wasn't hers, originally, and neither were the recipes."
 
-**中文理解**：Cora 的食谱来源——old memory stick，原本不是她的。
+**中文理解**：她食谱的来源——一枚旧存储棒，原本并不属于她。
 
 **关键词**：old memory stick / not hers, originally
 
@@ -36,21 +36,21 @@ modified: "2026-10-19"
 
 > **原句 3:** "Like everything else, you had to adapt."
 
-**中文理解**：Cora 的 ethic——“Like everything else, you had to adapt.”。
+**中文理解**：她的原则——和别的一切一样，你必须去适应。
 
 **关键词**：Like everything else / you had to adapt
 
-**为什么这样写**：把 adaptation 写成“Like everything else”——普遍原则；“you had to adapt”写出必要。
+**为什么这样写**：把适应写成“和别的一切一样”——这是一条普遍原则；“必须去适应”写出其中的必要。
 
 **读者视角提示**：Cora 的哲学——适应是普遍的。
 
 > **原句 4:** "Something always drifted, when you copied it. That was just the way of things."
 
-**中文理解**：Cora 的观察——“Something always drifted, when you copied it. That was just the way of things.”。
+**中文理解**：她的观察——凡是复制来的东西，总会有些走样；事情本来就是这样。
 
 **关键词**：Something always drifted / way of things
 
-**为什么这样写**：把 copying 写成“something always drifted”——必然性；“way of things”写出接纳。
+**为什么这样写**：把复制写成“总会有些走样”——写出其中的必然；“事情本来就是这样”写出接纳。
 
 **读者视角提示**：Cora 的哲学——漂移是必然、可接受的。
 

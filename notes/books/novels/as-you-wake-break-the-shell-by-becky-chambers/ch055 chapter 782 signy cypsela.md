@@ -16,47 +16,47 @@ modified: "2026-10-19"
 
 > **原句 1:** "There was an irony, of sorts, in writing descriptions for seed templates. Seeds were simply containers for DNA, and DNA was, of course, nothing but instructions."
 
-**中文理解**：Signy 的开场——“irony in writing descriptions for seed templates”——seeds 是 DNA 的容器，DNA 是指令。
+**中文理解**：她的开场——为种子模板写描述有种反讽：种子是 DNA 的容器，而 DNA 本身是指令。
 
 **关键词**：irony / seeds / containers for DNA / instructions
 
-**为什么这样写**：把 seed templates 写成“instructions for instructions”——Signy 的元反思；“irony”写出她对递归的自觉。
+**为什么这样写**：把种子模板写成“为指令写指令”——这是她的元反思；“反讽”写出她对这种递归的自觉。
 
-**读者视角提示**：Signy 的哲学——seeds 即指令，descriptions 即元指令。
+**读者视角提示**：她的哲学——种子即指令，而描述是元指令。
 
 > **原句 2:** "As far as humans had documented, biological life passed on instructions to future generations in one of two ways: reproduction or teaching."
 
-**中文理解**：生物通过 reproduction 或 teaching 传递指令。
+**中文理解**：生物靠繁殖或传授来传递指令。
 
 **关键词**：reproduction or teaching
 
 **为什么这样写**：把信息传递写成“reproduction or teaching”——Signy 的生物学框架；“as far as humans had documented”写出她的认知谦逊。
 
-**读者视角提示**：Signy 的框架——reproduction 对比 teaching。
+**读者视角提示**：她的框架——繁殖与传授这两条路径。
 
 > **原句 3:** "Homo sapiens, however, had another trick up their collective sleeve, and inasmuch as you could trust the Primer as an exhaustive resource, they were the only species discovered thus far who practiced it: recorded information."
 
-**中文理解**：人类的第三种把戏——recorded information（书写、绘画、雕刻、编码）。
+**中文理解**：人类的第三种把戏——记录下来的信息：书写、绘画、雕刻与编码。
 
 **关键词**：recorded information / writing, drawing, carving, coding
 
-**为什么这样写**：把 recorded information 写成“another trick up their collective sleeve”——Signy 的欣赏；“only species discovered thus far”写出她的认知谦逊。
+**为什么这样写**：把记录信息写成“它们集体袖子里藏着的另一手”——写出她的欣赏；“迄今发现的唯一物种”写出她认知上的谦逊。
 
-**读者视角提示**：人类是唯一有 recorded information 的物种——Primer 的断言。
+**读者视角提示**：人类是唯一会记录信息的物种——这是那本手册的断言。
 
 > **原句 4:** "You didn't need to remain in that place physically for other people to receive that instruction, and you didn't need to leave any of your genome behind. So long as the sign persisted, and so long as people were taught how to read it, the instructions would continue to be passed along."
 
-**中文理解**：recorded information 的力量——超越肉身在场所致的持续。
+**中文理解**：记录信息的力量——它能让事物超越肉身在场而持续下去。
 
 **关键词**：persisted / taught how to read it / passed along
 
-**为什么这样写**：把 recorded information 写成“persisted”——它的耐久性；“so long as people were taught how to read it”写出对识读能力的依赖。
+**为什么这样写**：把记录信息写成“得以延续”——写出它的耐久；“只要有人教过怎么读它”写出这份延续对识读能力的依赖。
 
-**读者视角提示**：Signy 的反思——recorded info 作为持续。
+**读者视角提示**：她的反思——记录下来的信息意味着延续。
 
 > **原句 5:** "What was funny about that to Signy was how roundabout the practice was."
 
-**中文理解**：Signy 的幽默——“roundabout the practice”——人类用大脑发现 DNA，再为 DNA 操作写下指令。
+**中文理解**：她的幽默——绕了一大圈：人类先用大脑发现 DNA，再为操作 DNA 写下指令。
 
 **关键词**：roundabout
 
@@ -66,13 +66,13 @@ modified: "2026-10-19"
 
 > **原句 6:** "You needed to write instructions for your instructions."
 
-**中文理解**：Signy 的收尾——“You needed to write instructions for your instructions.”。
+**中文理解**：她的收尾——你得为你的指令再写一份指令。
 
 **关键词**：instructions for your instructions
 
-**为什么这样写**：把 seed templates 写成“instructions for your instructions”——Signy 的元反思；收尾句作为格言。
+**为什么这样写**：把种子模板写成“为你的指令写指令”——这是她的元反思；收尾那句话像一句格言。
 
-**读者视角提示**：Signy 的哲学——元指令、递归。
+**读者视角提示**：她的哲学——元指令与递归。
 
 ## 本章词汇
 

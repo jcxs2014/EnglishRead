@@ -22,37 +22,37 @@ modified: "2026-10-19"
 
 **为什么这样写**：把问候写成相互的“Hello”——他们的例行；无引号的心灵感应格式。
 
-**读者视角提示**：Cora 与 Colibri 的关系——问候即仪式。
+**读者视角提示**：她与鲸鱼的关系——问候即仪式。
 
 > **原句 2:** "Is it time to go? / No, not yet. It's still time to rest."
 
-**中文理解**：Colibri 问“Is it time to go?”——Cora 的“No, not yet. It's still time to rest.”。
+**中文理解**：它问是不是该出发了——对方答还不是时候，现在仍该休息。
 
 **关键词**：Is it time to go? / still time to rest
 
-**为什么这样写**：把 Colibri 的时间感写成“Is it time to go?”——她的不安；Cora 的“rest”即体贴。
+**为什么这样写**：把它的时间感写成一句“是不是该走了”——写出它的不安；而“休息”二字即是体贴。
 
-**读者视角提示**：Colibri 的时间感知——与人类不同（ch001）。
+**读者视角提示**：它对时间的感知——与人类不同（ch001）。
 
 > **原句 3:** "I open to you and I feel air sacs filled to a pleasing strain with helium atoms gulped lavishly from the trough. Satisfaction. Sleepiness. A tickle in your lymph. Every cell is fueled. You are sated."
 
-**中文理解**：Cora“opens to”Colibri——感受她（氦气、air sacs、lymph、sated）。
+**中文理解**：她向鲸鱼敞开自己——感受到对方体内的氦气、气囊、淋巴，还有一份餍足。
 
 **关键词**：open to you / air sacs / helium atoms / sated
 
-**为什么这样写**：把 Cora-Colibri 的融合写成“I open to you”——感官共享；“helium atoms gulped lavishly”写出 Colibri 的异星生理。
+**为什么这样写**：把二者的融合写成“我向你敞开”——感官共享；“大口吞下氦原子”写出鲸鱼那异星的生理。
 
-**读者视角提示**：Cora 与 Colibri 的神经融合——感官共享。
+**读者视角提示**：她与鲸鱼的神经融合——共享彼此的感官。
 
 > **原句 4:** "You open to me and I share a short stack of blueberry pancakes, dripping with sorghum and spread. Scramble, sausage, a cup of chicory and cream. I chew and I swallow and I savor."
 
-**中文理解**：Colibri 向 Cora 敞开——分享她的早餐（blueberry pancakes、sorghum、scramble、sausage、chicory）。
+**中文理解**：鲸鱼也向她敞开——分享她早餐的滋味：蓝莓松饼、高粱、炒蛋、香肠与菊苣。
 
 **关键词**：blueberry pancakes / sorghum / scramble, sausage / chicory
 
-**为什么这样写**：把 Cora 的早餐写成“short stack of blueberry pancakes”——对 Colibri 是异星体验的人类食物；“I chew and I swallow and I savor”写出 Colibri 处理人类感觉的过程。
+**为什么这样写**：把她的早餐写成一小摞蓝莓松饼——对人类再平常不过，对鲸鱼却是异星体验；咀嚼、吞咽、品味三个动作写出它处理人类感觉的过程。
 
-**读者视角提示**：Colibri 体验人类食物——感官共享。
+**读者视角提示**：鲸鱼体验人类的食物——一场感官共享。
 
 > **原句 5:** "I do not understand these things. / I know. I do not understand yours."
 
@@ -62,41 +62,41 @@ modified: "2026-10-19"
 
 **为什么这样写**：把他们的关系写成相互不解加接受；“I know”写出 Cora 的接纳。
 
-**读者视角提示**：Cora 与 Colibri——相互不解作为信任的基础。
+**读者视角提示**：她与鲸鱼——彼此的“不理解”反倒成了信任的基础。
 
 > **原句 6:** "Signy. Signy is coming to visit."
 
-**中文理解**：Cora 告诉 Colibri Signy 要来——“Signy. Signy is coming to visit.”。
+**中文理解**：她告诉鲸鱼有人要来——那个人叫 Signy，她要来看我们了。
 
 **关键词**：Signy is coming to visit
 
-**为什么这样写**：把 Signy 的来访写成宣告——“Signy. Signy is coming to visit.”的强调；Colibri 的“What is Signy?”（谁/什么混淆）。
+**为什么这样写**：把这次来访写成一句宣告——名字被重复两遍以示强调；而鲸鱼回问“Signy 是什么”，暴露出它分不清“谁”与“什么”。
 
-**读者视角提示**：Colibri 的认知——无谁/什么之分。
+**读者视角提示**：鲸鱼的认知——它分不清“谁”和“什么”。
 
 > **原句 7:** "I do not understand the difference between who and what."
 
-**中文理解**：Colibri 的认知局限——“I do not understand the difference between who and what”。
+**中文理解**：鲸鱼的认知局限——它说自己弄不懂“谁”和“什么”之间的区别。
 
 **关键词**：who and what
 
 **为什么这样写**：把 Colibri 的非人类认知写成“do not understand who/what”——她物种的认知差异；“I know, I'm sorry”写出 Cora 的歉意。
 
-**读者视角提示**：Colibri 的认知——无谁/什么之分（ch001 的“anthropomorphizing”）。
+**读者视角提示**：鲸鱼的认知——它分不清“谁”与“什么”（ch001 谈过拟人化的问题）。
 
 > **原句 8:** "Oh. Oh, the sickness. The sickness. I am sorry, I am sorry, I am sorry sorry sorry sorry sorry—"
 
-**中文理解**：Colibri 得知 Cora 的 mindbleed——“Oh. Oh, the sickness.”——反复的 sorry。
+**中文理解**：鲸鱼得知她有心语——“哦。哦，那毛病”——它一遍遍地说着对不起。
 
 **关键词**：the sickness / sorry sorry sorry
 
 **为什么这样写**：把 Colibri 的反应写成“sorry sorry sorry sorry sorry”——愧疚的重复；“The sickness”写出她的辨认。
 
-**读者视角提示**：Colibri 的愧疚——她知道 mindbleed 的成因（她的认知模式）。
+**读者视角提示**：鲸鱼的愧疚——它清楚心语的成因，那正是它自己的认知模式。
 
 > **原句 9:** "Hush, friend. Hush and quiet. Were I not so small, I would hold you. In my mind, I am holding you. I pretend that I am big and you are small, and I wrap my arms around your soft body and I hold you."
 
-**中文理解**：Cora 的安慰——“Were I not so small, I would hold you. In my mind, I am holding you.”。
+**中文理解**：她的安慰——我要不是这么小，就会把你抱住；在我心里，我已经抱住你了。
 
 **关键词**：Were I not so small / I am holding you / pretend that I am big
 
@@ -106,63 +106,63 @@ modified: "2026-10-19"
 
 > **原句 10:** "I regret."
 
-**中文理解**：Colibri 的悔恨——“I regret.”——一个词。
+**中文理解**：鲸鱼的悔恨——只说了一个词，我后悔。
 
 **关键词**：I regret
 
-**为什么这样写**：把 Colibri 的愧疚写成“I regret”——单个词；Cora 的“I know”回应。
+**为什么这样写**：把它的愧疚写成一个词“我后悔”；而她只回一句“我知道”。
 
-**读者视角提示**：Colibri 的愧疚——她觉得自己对 mindbleed 负有责任。
+**读者视角提示**：鲸鱼的愧疚——它觉得自己对心语负有责任。
 
 > **原句 11:** "The only fault is old and beyond us both. It is what is."
 
-**中文理解**：Cora 的赦免——“The only fault is old and beyond us both. It is what is.”。
+**中文理解**：她的赦免——这唯一的过错太古老，也超出了你我；事情就是这样。
 
 **关键词**：old and beyond us both / It is what is
 
-**为什么这样写**：把 Cora 的赦免写成“old and beyond us both”——mindbleed 自古就有，不是 Colibri 的错；“It is what is”写出接纳。
+**为什么这样写**：把她的赦免写成“太古老，也超出你我”——心语自古就有，不是鲸鱼的错；“事情就是这样”写出接纳。
 
-**读者视角提示**：Cora 的赦免——mindbleed 是宿命，不是 Colibri 的错。
+**读者视角提示**：她的赦免——心语是一种宿命，不是鲸鱼的错。
 
 > **原句 12:** "This medicine. Something in you says this information is not to be shared."
 
-**中文理解**：Colibri 的察觉——“Something in you says this information is not to be shared”——mindbleed 药物是秘密。
+**中文理解**：鲸鱼的察觉——它感到你身上有什么在说，这件事不该说出去；那是心语药物的秘密。
 
 **关键词**：Something in you says / not to be shared
 
-**为什么这样写**：把 Colibri 的感知写成“Something in you says”——她读出 Cora 的隐秘；“not to be shared”写出 Colibri 的谨慎。
+**为什么这样写**：把它的感知写成“你身上有什么在说”——它读出了她的隐秘；“不该说出去”写出鲸鱼的谨慎。
 
-**读者视角提示**：Colibri 读出 Cora 的隐秘——信任建立。
+**读者视角提示**：鲸鱼读出了她的隐秘——信任由此建立。
 
 > **原句 13:** "I visit with no other humans. I rarely speak with my others. I will not share your secret."
 
-**中文理解**：Colibri 的承诺——“I will not share your secret”。
+**中文理解**：鲸鱼的承诺——我不会把你的秘密说出去。
 
 **关键词**：I will not share your secret
 
 **为什么这样写**：把 Colibri 的谨慎写成“I will not share your secret”——她的忠诚；“I visit with no other humans”写出她的孤立。
 
-**读者视角提示**：Colibri 的忠诚——保密、信任。
+**读者视角提示**：鲸鱼的忠诚——替她保密，也赢得了信任。
 
 > **原句 14:** "What if I want her to? Not poking and not probing, but a hand? A hello?"
 
-**中文理解**：Colibri 的渴望——“Not poking and not probing, but a hand? A hello?”——想要触碰。
+**中文理解**：鲸鱼的渴望——不是戳弄，也不是探察，只是想有一只手，一声问候。
 
 **关键词**：a hand? A hello?
 
-**为什么这样写**：把 Colibri 的渴望写成“a hand? A hello?”——她对 Signy 好奇；“Not poking and not probing”区别于医学检查。
+**为什么这样写**：把它的渴望写成“一只手，一声问候”——它对新来的人很好奇；“不是戳弄，也不是探察”把它与医学检查区别开来。
 
-**读者视角提示**：Colibri 对 Signy 好奇——渴望触碰。
+**读者视角提示**：鲸鱼对 Signy 的好奇——它渴望触碰。
 
 > **原句 15:** "You feel curious about her. / I am. Her visit will go well. / Why do you think that? / She and I share a commonality. We are curious about each other. / That's not enough reason to trust someone. / No. But it is a good start."
 
-**中文理解**：Colibri 的评估——“She and I share a commonality. We are curious about each other.” / “That's not enough reason to trust someone.” / “No. But it is a good start.”。
+**中文理解**：鲸鱼的评估——她和它有个共同点，就是彼此都好奇；而这不足以成为信任一个人的理由；对，但它是个不错的开始。
 
 **关键词**：share a commonality / curious about each other / good start
 
 **为什么这样写**：把 Colibri 的评估写成“commonality”加“curious about each other”——她的乐观；“good start”写出信任是过程。
 
-**读者视角提示**：Colibri 的信任——好奇作为基础。
+**读者视角提示**：鲸鱼的信任——以好奇作为基础。
 
 ## 本章词汇
 

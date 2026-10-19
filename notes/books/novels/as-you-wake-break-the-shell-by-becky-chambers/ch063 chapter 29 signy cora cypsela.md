@@ -36,7 +36,7 @@ modified: "2026-10-19"
 
 > **原句 3:** "Use a spatula to toss the flour in the oil and keep stirring for about four minutes, until the flour clumps are a bit toasty."
 
-**中文理解**：roux——「toss the flour in the oil」/「until the flour clumps are a bit toasty」。
+**中文理解**：炒面糊（roux）——把面粉倒进油里翻炒约四分钟，直到结成微焦的块。
 
 **关键词**：toss the flour / toasty
 
@@ -56,7 +56,7 @@ modified: "2026-10-19"
 
 > **原句 5:** "Mix together until it looks like dough. You know what dough looks like."
 
-**中文理解**：dumpling dough——「You know what dough looks like.」。
+**中文理解**：饺子面团——「Mix together until it looks like dough. You know what dough looks like.」——Otto 式的随性指令。
 
 **关键词**：You know what dough looks like
 

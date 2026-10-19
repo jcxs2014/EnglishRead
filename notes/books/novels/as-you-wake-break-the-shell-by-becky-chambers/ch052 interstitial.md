@@ -16,53 +16,53 @@ modified: "2026-10-19"
 
 > **原句 1:** "The surface garden was home to three primary things."
 
-**中文理解**：surface garden 的三样主要事物——seed vault、ammonia patch，第三样待揭晓。
+**中文理解**：地表花园的三样主要事物——种子库、氨气田，第三样还留着没揭晓。
 
 **关键词**：three primary things
 
-**为什么这样写**：把 surface garden 写成“three primary things”——Signy 的组织；“home to”写出它的用途。
+**为什么这样写**：把地表花园写成“三样主要事物”——这是她的归类方式；“容纳着”写出它的用途。
 
-**读者视角提示**：Cypsela surface garden——三个区域。
+**读者视角提示**：这颗卫星的地表花园——分成三个区域。
 
 > **原句 2:** "Common wheat, the packets read. Soybean. Cotton. The same seeds human beings had been filling their pockets with since before they had any idea that other worlds and other moons existed."
 
-**中文理解**：seed vault——普通小麦、大豆、棉花——「same seeds human beings had been filling their pockets with since before they had any idea that other worlds and other moons existed」。
+**中文理解**：种子库——普通小麦、大豆、棉花——人类早在知道还有其他世界和卫星之前，就一直在兜里揣着这些种子。
 
 **关键词**：Common wheat / Soybean / Cotton / filling their pockets
 
 **为什么这样写**：把 seeds 写成“same seeds human beings had been filling their pockets with”——历史连续性；“since before they had any idea”写出人类扩张。
 
-**读者视角提示**：Seed vault——保存人类的农业遗产。
+**读者视角提示**：种子库——保存着人类的农业遗产。
 
 > **原句 3:** "The ammonia patch was a hydro setup—heated tubes and bioplastic, a system that would've fit in perfectly in the canvas plant farms back at the Berth, if it weren't for the super illegal weirdos they housed."
 
-**中文理解**：ammonia patch——水培装置，「super illegal weirdos」（chemophile plants）。
+**中文理解**：氨气田——一套水培装置，里面养着一群见不得光的怪植物。
 
 **关键词**：hydro setup / super illegal weirdos
 
-**为什么这样写**：把 ammonia patch 写成“super illegal weirdos”——Signy 的非法工作；“would've fit in perfectly in canvas plant farms”写出 Berth 的熟悉。
+**为什么这样写**：把氨气田写成“一群见不得光的怪东西”——指向她的非法工作；而“本来完全能混进那些棚架农场”写出那份熟悉感。
 
-**读者视角提示**：Ammonia patch——非法、chemophile plants。
+**读者视角提示**：氨气田——非法养殖的嗜氨植物。
 
 > **原句 4:** "There was no disguising these plants as anything other than alien. They were Argosan in origin, but engineered into something that planet wouldn't have recognized, either. Real funky little guys. Whitish purple spirals without leaves or a hint of green."
 
-**中文理解**：ammonia plants——“no disguising these plants as anything other than alien”——Argosan 起源，经改造；“Real funky little guys. Whitish purple spirals without leaves or a hint of green.”。
+**中文理解**：这些嗜氨植物——没法把它们伪装成非外星的东西；它们源自阿尔戈斯，经过改造；是些怪模怪样的小家伙，白紫色的螺旋，没有叶子，也没有一点绿色。
 
 **关键词**：no disguising / Real funky little guys / Whitish purple spirals
 
-**为什么这样写**：把 ammonia plants 写成“Real funky little guys”——Signy 的喜爱；“Whitish purple spirals without leaves”写出它们的异质。
+**为什么这样写**：把这些植物写成“怪模怪样的小家伙”——写出她的喜爱；“白紫色的螺旋，没有叶子”写出它们的异质。
 
-**读者视角提示**：Ammonia plants——异质、怪异、经改造。
+**读者视角提示**：这些嗜氨植物——异质、怪异，而且经过改造。
 
 > **原句 5:** "They were chemophiles, bred to consume nothing but water and fine-ground rock."
 
-**中文理解**：ammonia plants——chemophiles，只消耗水和细磨岩石。
+**中文理解**：这些嗜氨植物——只消耗水和磨细的岩石。
 
 **关键词**：chemophiles / water and fine-ground rock
 
-**为什么这样写**：把 ammonia plants 写成“chemophiles”——它们的代谢；“water and fine-ground rock”写出它们极低的需求。
+**为什么这样写**：把这些植物写成“嗜化学者”——点出它们的代谢方式；“水和磨细的岩石”写出它们需求极低。
 
-**读者视角提示**：Ammonia plants——chemophiles、极低代谢。
+**读者视角提示**：这些嗜氨植物——靠化学为生，代谢极低。
 
 > **原句 6:** "Every few days, the ammonia the plants exhaled needed to be tapped, so to speak. The domes handled this automatically, shutting off the line of plant-friendly air and pumping the pungent stuff out. Cora and Signy didn't collect the ammonia, or bottle it, or anything like that. It was simply kicked right out into space."
 
@@ -72,47 +72,47 @@ modified: "2026-10-19"
 
 **为什么这样写**：把 ammonia 排放写成“kicked right out into space”——有意的浪费；“This, like everything here, was on purpose.”写出其刻意性。
 
-**读者视角提示**：Ammonia 排放——刻意、不收集。
+**读者视角提示**：氨气的排放——刻意为之，且不予收集。
 
 > **原句 7:** "This, like everything here, was on purpose."
 
-**中文理解**：ammonia 一节收尾——“This, like everything here, was on purpose.”。
+**中文理解**：这一节的收尾——这件事和这里的其他一切一样，都是有意为之。
 
 **关键词**：on purpose
 
-**为什么这样写**：把 ammonia 排放写成“on purpose”——Signy 的刻意；“like everything here”写出她的设计。
+**为什么这样写**：把氨气排放写成“有意为之”——这是她的刻意；“和这里的其他一切一样”写出整个设计。
 
 **读者视角提示**：Signy 的设计——一切都是有意的。
 
 > **原句 8:** "Signy had labored for three years on the template for this crop, and Cora had yet to stop feeling humbled by that."
 
-**中文理解**：Signy 为这个作物模板劳作了三年——Cora 至今仍“humbled”。
+**中文理解**：她为这个作物模板埋头做了三年——对方至今仍为此心生敬意。
 
 **关键词**：labored for three years / humbled
 
-**为什么这样写**：把 Signy 的工作写成“labored for three years”——她的投入；“Cora had yet to stop feeling humbled”写出 Cora 的敬佩。
+**为什么这样写**：把这份工作写成“埋头做了三年”——写出她的投入；“至今仍为此心生敬意”写出对方的敬佩。
 
 **读者视角提示**：Signy 的工作——三年的模板劳作。
 
 > **原句 9:** "Maybe it was a dumb name for a coiled mutant that smelled like window cleaner, but then again, why did love have to look like flowers?"
 
-**中文理解**：Cora 的命名——“Lady's Favor”——“why did love have to look like flowers?”。
+**中文理解**：对方给它起的名字——“姑娘的信物”——为什么爱一定要长成花的模样？
 
 **关键词**：Lady's Favor / why did love have to look like flowers
 
-**为什么这样写**：把 ammonia plant 命名写成“Lady's Favor”——Cora 的建议；“why did love have to look like flowers?”写出爱不必是花的形态。
+**为什么这样写**：把命名写成“姑娘的信物”——这是对方的建议；“为什么爱一定要长成花的模样”写出爱本不必是花的形态。
 
-**读者视角提示**：Cora 的命名——“Lady's Favor”（ch051 的骑士用语）用于 ammonia plant。
+**读者视角提示**：对方的命名——“姑娘的信物”，借用了 ch051 的骑士用语。
 
 > **原句 10:** "Scientific name: Rorqualopsis cypsela, the template file read. Common name: Lady's Favor."
 
-**中文理解**：学名（Rorqualopsis cypsela）加 common name（Lady's Favor）。
+**中文理解**：它的学名里嵌着卫星之名，俗名则借了 ch051 的那句骑士用语。
 
 **关键词**：Rorqualopsis cypsela / Lady's Favor
 
-**为什么这样写**：把命名写成“Scientific name... Common name”——正式；“Rorqualopsis cypsela”（rorqual-like、Cypsela）与 rorqual 相连；“Lady's Favor”（ch051 的骑士用语）闭合回环。
+**为什么这样写**：把命名写成学名加俗名——格式正式；学名里嵌着“像鲸鱼的”与卫星之名，与鲸鱼相连；俗名则借 ch051 的骑士用语，闭合回环。
 
-**读者视角提示**：Ammonia plant 命名“Lady's Favor”——连接 ch051（Otto 的“lady's favor”）与 rorqual（Rorqualopsis）。
+**读者视角提示**：这株植物的命名——把 ch051 的那句骑士用语与鲸鱼连在了一起。
 
 ## 本章词汇
 

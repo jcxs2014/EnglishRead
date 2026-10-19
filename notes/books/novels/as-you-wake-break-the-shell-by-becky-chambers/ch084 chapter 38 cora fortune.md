@@ -76,7 +76,7 @@ modified: "2026-10-19"
 
 > **原句 7:** "These are his grandmother Lissa's thumbprint cookies. And he never met her, but his father taught him this recipe."
 
-**中文理解**：thumbprint cookies——「his grandmother Lissa's thumbprint cookies」/「he never met her, but his father taught him this recipe」。
+**中文理解**：指纹饼干——用外婆 Lissa 的配方；他从未见过外婆，配方却是父亲传下来的。
 
 **关键词**：grandmother Lissa's thumbprint cookies / never met her / his father taught him this recipe
 

@@ -16,37 +16,37 @@ modified: "2026-10-19"
 
 > **原句 1:** "It had been a long time since Signy had gone up."
 
-**中文理解**：Signy 的太空间隔——“a long time since Signy had gone up”。
+**中文理解**：她已久未上太空——距离上一次升空隔了很久。
 
 **关键词**：long time / gone up
 
 **为什么这样写**：把 Signy 的太空经历写成“long time”——她的回避；“gone up”写出这趟旅程的稀少。
 
-**读者视角提示**：Signy 的太空回避——童年晕动。
+**读者视角提示**：她对太空的回避——源于童年的晕动。
 
 > **原句 2:** "Her younger self had not enjoyed school, and even something as ostensibly exciting as going on a spaceship ride hadn't been enough to combat the purgatory of spending an extra-long day in the company of her classmates."
 
-**中文理解**：Signy 童年的太空之旅——“purgatory of spending an extra-long day in the company of her classmates”。
+**中文理解**：她童年的那次太空之旅——和同学们多待了漫长的一天，简直是炼狱。
 
 **关键词**：purgatory / classmates
 
 **为什么这样写**：把童年的太空之旅写成“purgatory”——Signy 的社交焦虑；“ostensibly exciting”写出她的怀疑。
 
-**读者视角提示**：Signy 的童年——社交焦虑、厌学。
+**读者视角提示**：她的童年——社交焦虑，也讨厌上学。
 
 > **原句 3:** "Signy had no idea what the clouds she was passing through now looked like. The cargo transport she'd managed to book a ride on didn't have windows, at least not in the hold."
 
-**中文理解**：Signy 当下的旅程——cargo hold 没有窗户；船名“Tell Me I'm Pretty”。
+**中文理解**：她此行的旅程——货舱没有窗户；船名叫“夸我好看”。
 
 **关键词**：no windows / cargo transport
 
 **为什么这样写**：把太空旅行写成无窗的货舱——Signy 务实的选择（最便宜的选项）；“Tell Me I'm Pretty”船名的反讽。
 
-**读者视角提示**：Signy 的务实——最便宜、无窗。
+**读者视角提示**：她的务实——挑了最便宜、没有窗户的那班。
 
 > **原句 4:** "Having learned from her prepubescent experience, she'd picked up a bottle of promethazine at a Flytown pharmacy."
 
-**中文理解**：Signy 的防晕——从药房买的 promethazine（不是她自己的货）。
+**中文理解**：她的防晕药——是从药房买的异丙嗪，不是她自己配的货。
 
 **关键词**：promethazine / prepubescent experience
 
@@ -62,7 +62,7 @@ modified: "2026-10-19"
 
 **为什么这样写**：把发射的 G-force 写成“shipping crates on chest”——感官；“weighing down her ribs and lungs”写出身体的压迫。
 
-**读者视角提示**：Signy 的发射体验——身体压迫。
+**读者视角提示**：她经历发射的体验——身体被死死压住。
 
 > **原句 6:** "From one shaking second to the next, a threshold was crossed, and Fortune released its grasp."
 
@@ -72,11 +72,11 @@ modified: "2026-10-19"
 
 **为什么这样写**：把进入太空写成“Fortune released its grasp”——星球松手；“threshold”写出过渡。
 
-**读者视角提示**：Signy 的太空进入——Fortune 放手。
+**读者视角提示**：她进入太空的一刻——故土终于松开了手。
 
 > **原句 7:** "She had forgotten this feeling. No longer a nauseous, apathetic ten-year-old, she explored the sensation with more seasoned curiosity."
 
-**中文理解**：Signy 的重新发现——“forgotten this feeling”——“more seasoned curiosity”。
+**中文理解**：她重新发现的感觉——这种久违的体验，是一种更成熟的好奇。
 
 **关键词**：forgotten this feeling / more seasoned curiosity
 
@@ -86,7 +86,7 @@ modified: "2026-10-19"
 
 > **原句 8:** "She felt . . . comfortable. She hadn't realized how heavy her body was, how much effort went into carrying herself around. It was actually quite nice, to feel the world let go of you."
 
-**中文理解**：Signy 的舒适——“comfortable” / “how heavy her body was” / “world let go of you”。
+**中文理解**：她的舒适感——身体本该很沉，可世界却松开了你。
 
 **关键词**：comfortable / how heavy her body was / world let go of you
 
@@ -96,7 +96,7 @@ modified: "2026-10-19"
 
 > **原句 9:** "She smiled, almost. Maybe there was something to being in space."
 
-**中文理解**：Signy 的收尾——“She smiled, almost. Maybe there was something to being in space.”。
+**中文理解**：她的收尾——她几乎笑了；也许待在太空里还真有点意思。
 
 **关键词**：smiled, almost / Maybe there was something
 

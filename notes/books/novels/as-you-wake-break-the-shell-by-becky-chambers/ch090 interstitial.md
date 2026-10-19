@@ -16,7 +16,7 @@ modified: "2026-10-19"
 
 > **原句 1:** "The very last touch had been the nook—a snug, semispheric pocket carved right up against Cypsela's surface."
 
-**中文理解**：nook——「snug, semispheric pocket carved right up against Cypsela's surface」。
+**中文理解**：nook 是最后添上的部分——紧贴 Cypsela 地表凿出的一个舒适的半球形凹室。
 
 **关键词**：snug, semispheric pocket / carved right up against Cypsela's surface
 

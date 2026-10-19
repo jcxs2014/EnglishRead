@@ -20,13 +20,13 @@ modified: "2026-10-19"
 
 **关键词**：hey I just got back
 
-**为什么这样写**：以带时间戳的 chat 开场，把 Cora-Signy 的沟通写成 daily routine；“hey”的 casualness。
+**为什么这样写**：以带时间戳的聊天记录开场，把两人的沟通写成日常惯例；“嘿”的随意口吻。
 
-**读者视角提示**：Signy 与 Cora 的 text-based intimacy。
+**读者视角提示**：两人以文字维系的亲密。
 
 > **原句 2:** "Signy [13:33]: test garden"
 
-**中文理解**：Signy 的回复——“test garden”——一行定位。
+**中文理解**：Signy 的回复只有一句——“试验花园”——报了个位置而已。
 
 **关键词**：test garden
 
@@ -36,61 +36,61 @@ modified: "2026-10-19"
 
 > **原句 3:** "Cora [13:34]: I was thinking I might go take a nap but I don't have to if you need an extra pair of hands"
 
-**中文理解**：Cora 的提议——小睡还是帮 Signy；“extra pair of hands”。
+**中文理解**：Cora 的提议——去小睡，还是过来帮她一把手。
 
 **关键词**：take a nap / extra pair of hands
 
-**为什么这样写**：把 Cora 的体贴写成“don't have to if you need”——她的弹性；“extra pair of hands”写出两人的 partnership。
+**为什么这样写**：把 Cora 的体贴写成“你需要的话就不必”——她的弹性；“多一双手”写出两人的伙伴关系。
 
-**读者视角提示**：Cora-Signy 的体贴交换——Cora 把 Signy 的需要放在前。
+**读者视角提示**：两人之间的体贴交换——Cora 把 Signy 的需要放在了前面。
 
 > **原句 4:** "Signy [13:34]: no go ahead"
 
-**中文理解**：Signy 的许可——“no go ahead”——Cora 该去小睡。
+**中文理解**：Signy 的许可很简单——“不用，你去吧”——让 Cora 去补觉。
 
 **关键词**：no go ahead
 
 **为什么这样写**：把 Signy 的体贴写成“go ahead”——把 Cora 的休息置于自己的工作之上。
 
-**读者视角提示**：Signy 对 Cora 的体贴——相互的。
+**读者视角提示**：Signy 对 Cora 的体贴——两人是彼此照应的。
 
 > **原句 5:** "Signy [13:34]: why"
 
-**中文理解**：Signy 的“why”——Cora 主动帮忙，引来一句“why”。
+**中文理解**：Signy 的“为什么”——Cora 主动跑来帮忙，却只换来她一句反问。
 
 **关键词**：why
 
 **为什么这样写**：把 Signy 的“why”写成一个词——她的直率；质疑 Cora 为何需要帮忙。
 
-**读者视角提示**：Signy 的务实——不需要何必帮？
+**读者视角提示**：Signy 的务实——既然不需要，何必来帮？
 
 > **原句 6:** "Cora [13:37]: have you been in there the entire time I've been out"
 
-**中文理解**：Cora 的担心——Signy 在 Cora 外出的整段时间都待在 test garden。
+**中文理解**：Cora 的担心——她外出的整段时间里，Signy 都待在试验花园。
 
 **关键词**：entire time I've been out
 
-**为什么这样写**：把 Cora 的担心写成一个问句——Signy 的工作沉浸令 Cora 担忧。
+**为什么这样写**：把 Cora 的担心写成一个问句——Signy 的工作沉浸让她放心不下。
 
-**读者视角提示**：Cora 作为 Signy 的 caretaker——关注她的工时。
+**读者视角提示**：Cora 扮演着照料者的角色——盯着她的工作时长。
 
 > **原句 7:** "Signy [13:38]: I will take a break"
 
-**中文理解**：Signy 的承诺——“I will take a break”。
+**中文理解**：Signy 给出的承诺很简短——“我会抽空休息的”。
 
 **关键词**：I will take a break
 
-**为什么这样写**：把 Signy 的承诺写成 future tense——对休息的 commitment。
+**为什么这样写**：把她的承诺写成将来时——对“休息”这件事的许诺。
 
 **读者视角提示**：Signy 的自我照顾承诺（常常落空）。
 
 > **原句 8:** "Signy [13:39]: promise"
 
-**中文理解**：Signy 的“promise”——再强调一次。
+**中文理解**：Signy 又补上一句“我保证”——再强调了一次。
 
 **关键词**：promise
 
-**为什么这样写**：把“promise”写成独立成行——强调 commitment；“I will take a break”加“promise”的重复。
+**为什么这样写**：把“我保证”单独成行——强调这份许诺；与前面那句承诺构成重复。
 
 **读者视角提示**：Signy 的强调——这次她是认真的。
 
@@ -106,7 +106,7 @@ modified: "2026-10-19"
 
 > **原句 10:** "Signy [13:39]: you can come get a hug for it"
 
-**中文理解**：Signy 的提议——“you can come get a hug for it”——抚慰 Cora 那个“mixed bag”的日子。
+**中文理解**：Signy 的提议——“回来让我抱一下”——用来抚慰 Cora 那个糟心的飞行日。
 
 **关键词**：come get a hug for it
 
@@ -120,9 +120,9 @@ modified: "2026-10-19"
 
 **关键词**：I love you / I love you too
 
-**为什么这样写**：把 love 写成 chat 交换——casual、reciprocal、带时间戳；“too”的添加补全这一对。
+**为什么这样写**：把爱写成聊天记录里的一来一往——随意、对等、带时间戳；一个“也”字补全了这对人。
 
-**读者视角提示**：Signy 与 Cora 的 intimacy——爱是每日的收尾仪式。
+**读者视角提示**：两人的亲密——爱是每天收尾时的一道仪式。
 
 ## 本章词汇
 

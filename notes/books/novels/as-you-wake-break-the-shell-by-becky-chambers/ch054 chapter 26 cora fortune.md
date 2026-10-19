@@ -16,7 +16,7 @@ modified: "2026-10-19"
 
 > **原句 1:** "I'm sorry to hear your heartleaf plant is doing poorly. It's likely some adjustments to its watering and fertilizing routine will solve the problem, but if convenient, I'd like you to bring it by the shop so I can make sure it's not diseased or damaged in some other way (I will offer a replacement free of charge if so)."
 
-**中文理解**：Signy 的专业回应——heartleaf plant 出问题、调整养护、带到店里、免费替换。
+**中文理解**：她的专业回应——心叶藤出了问题，先调整养护，再带回店里，免费更换。
 
 **关键词**：heartleaf plant / adjustments / replacement free of charge
 
@@ -26,17 +26,17 @@ modified: "2026-10-19"
 
 > **原句 2:** "How about 15:00?"
 
-**中文理解**：Signy 的预约时间——“How about 15:00?”。
+**中文理解**：她给出的预约时间——三点怎么样？
 
 **关键词**：How about 15:00
 
 **为什么这样写**：把预约写成“How about 15:00?”——Signy 的营业效率；简短直接。
 
-**读者视角提示**：Signy 的专业模式——排期效率。
+**读者视角提示**：她的专业模式——排期讲效率。
 
 > **原句 3:** "Hey again, Signy. There's something I'd like to ask you that has nothing to do with my plant, and if I've read this wrong, then I'm very sorry, and please forget I said anything."
 
-**中文理解**：Cora 脆弱的开场——“something I'd like to ask you that has nothing to do with my plant”加“if I've read this wrong”。
+**中文理解**：对方脆弱的开场——有件事想问你，和我的植物无关；如果是我会错意了，就当我没说。
 
 **关键词**：nothing to do with my plant / if I've read this wrong
 
@@ -46,37 +46,37 @@ modified: "2026-10-19"
 
 > **原句 4:** "I had a really nice time with you at the stables. I know I was kind of out of it for most of it, but I had fun showing you the ropes, and I liked having chicory with you afterward."
 
-**中文理解**：Cora 的回忆——“really nice time at the stables” / “fun showing you the ropes” / “liked having chicory with you afterward”。
+**中文理解**：对方的回忆——那次去马厩玩得很开心，带你熟悉流程很有意思，之后一起喝菊苣也很愉快。
 
 **关键词**：really nice time / showing you the ropes / liked having chicory
 
 **为什么这样写**：把 Cora 的回忆写成“really nice time”——她的温暖；“showing you the ropes”写出她的引导角色；“liked having chicory”写出她的欣赏。
 
-**读者视角提示**：Cora 的回忆——stables 之行为正面、温暖。
+**读者视角提示**：对方的回忆——那趟马厩之行是正面而温暖的。
 
 > **原句 5:** "I thought it was a good conversation, and I got the feeling maybe there was a little more behind it."
 
-**中文理解**：Cora 的感知——“a little more behind it”——可能有 mutual interest。
+**中文理解**：对方的感知——那背后似乎还有点什么；也许是彼此都有意。
 
 **关键词**：a little more behind it
 
 **为什么这样写**：把 Cora 的感知写成“a little more behind it”——她的直觉；“got the feeling”写出她的敏感。
 
-**读者视角提示**：Cora 的直觉——察觉 mutual interest。
+**读者视角提示**：对方的直觉——她察觉到了彼此的心意。
 
 > **原句 6:** "Would you like to have chicory again, from a real cup this time? Or if you drink, maybe a drink? Ahead of our plant appointment, if you're not too busy?"
 
-**中文理解**：Cora 的邀请——“chicory again, from a real cup” / “if you drink, maybe a drink” / “Ahead of our plant appointment”。
+**中文理解**：对方的邀请——再一起喝次菊苣，用真正的杯子；你要是喝酒，也可以喝一杯；就约在植物那件事之前。
 
 **关键词**：chicory again, from a real cup / if you drink, maybe a drink
 
 **为什么这样写**：把 Cora 的邀请写成“chicory again, from a real cup”——她偏爱真的杯子；“if you drink, maybe a drink”写出她的弹性；“Ahead of our plant appointment”写出托辞。
 
-**读者视角提示**：Cora 的邀请——chicory（真杯子）加饮品选项加 plant appointment 托辞。
+**读者视角提示**：对方的邀请——菊苣配真杯子，外加喝酒的选项，再用植物的预约做托辞。
 
 > **原句 7:** "Again, if you're not interested, no worries. We can just stick to plants and never talk about this again."
 
-**中文理解**：Cora 的退路——“if you're not interested, no worries. We can just stick to plants and never talk about this again.”。
+**中文理解**：对方留的退路——你要是不感兴趣也没关系，我们只谈植物，这事以后再也不提。
 
 **关键词**：if you're not interested, no worries / stick to plants
 
@@ -86,33 +86,33 @@ modified: "2026-10-19"
 
 > **原句 8:** "I do drink, but I'd prefer chicory."
 
-**中文理解**：Signy 的回应——“I do drink, but I'd prefer chicory.”。
+**中文理解**：她的回应——酒我也喝，不过我更喜欢菊苣。
 
 **关键词**：I do drink, but I'd prefer chicory
 
 **为什么这样写**：把 Signy 的回应写成“I do drink, but I'd prefer chicory”——她的偏好；“but I'd prefer”写出她的选择。
 
-**读者视角提示**：Signy 的回应——接受约会，偏好 chicory（非酒）。
+**读者视角提示**：她的回应——接受了邀约，选的是菊苣而不是酒。
 
 > **原句 9:** "I have an All-Raft pass. You pick the place. Saturday would be best."
 
-**中文理解**：Signy 的务实——“All-Raft pass” / “You pick the place” / “Saturday would be best”。
+**中文理解**：她的务实——她有全区通行证，地方由你来定，周六最合适。
 
 **关键词**：All-Raft pass / You pick the place / Saturday would be best
 
 **为什么这样写**：把 Signy 的回应写成“All-Raft pass”——她的独立；“You pick the place”写出她的顺从；“Saturday would be best”写出她的排期。
 
-**读者视角提示**：Signy 的回应——务实、独立、顺从。
+**读者视角提示**：她的回应——务实、独立，又愿意配合。
 
 > **原句 10:** "I liked our conversation, too."
 
-**中文理解**：Signy 的收尾——“I liked our conversation, too.”。
+**中文理解**：她的收尾——我也喜欢我们那次聊天。
 
 **关键词**：I liked our conversation, too
 
-**为什么这样写**：把 Signy 的回应写成“I liked our conversation, too”——她的敞开；“too”呼应 Cora 的“I had a really nice time”。
+**为什么这样写**：把她的回应写成“我也喜欢我们那次聊天”——这是她的敞开；“也”字呼应对方先前那句“我玩得很开心”。
 
-**读者视角提示**：Signy 的敞开——接受 Cora 的邀请。
+**读者视角提示**：她的敞开——接受了对方的邀约。
 
 ## 本章词汇
 

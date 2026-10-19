@@ -16,7 +16,7 @@ modified: "2026-10-19"
 
 > **原句 1:** "Cora had spent a whole evening doing thorough field research on the cafés of raft eleven."
 
-**中文理解**：Cora 的约会准备——“thorough field research on the cafés of raft eleven”。
+**中文理解**：对方为约会做的准备——把十一号浮筏上的咖啡馆通通考察了一遍。
 
 **关键词**：thorough field research
 
@@ -26,7 +26,7 @@ modified: "2026-10-19"
 
 > **原句 2:** "The Yellow Bowl was cute, but a little too cute for Cora's tastes. The kind of place you might take a nibling for an after-school treat."
 
-**中文理解**：Cora 的咖啡馆评估——Yellow Bowl “too cute”，“nibling for after-school treat”。
+**中文理解**：对方对咖啡馆的评估——黄碗那家太花哨，是给小孩放学后吃点心的地方。
 
 **关键词**：too cute / nibling for an after-school treat
 
@@ -42,21 +42,21 @@ modified: "2026-10-19"
 
 **为什么这样写**：把约会失败写成“if there hadn't been”——Cora 的厄运；“on the night itself”写出时机。
 
-**读者视角提示**：Cora 的约会——时机不佳（open mic）。
+**读者视角提示**：对方的约会安排——时机不巧，正赶上开放麦。
 
 > **原句 4:** "Signy visibly hated it."
 
-**中文理解**：Signy 的反应——“Signy visibly hated it.”。
+**中文理解**：她的反应——她显然很讨厌这里。
 
 **关键词**：visibly hated it
 
-**为什么这样写**：把 Signy 的不适写成“visibly hated it”——Cora 的观察；“visibly”写出她的透明。
+**为什么这样写**：把她的不适写成“显然很讨厌”——这是对方的观察；“显然”二字写出她藏不住情绪。
 
-**读者视角提示**：Signy 的不适——open mic、噪音。
+**读者视角提示**：她的不适——开放麦加上噪音。
 
 > **原句 5:** "Again, Cora persevered. Goddammit, she was going to salvage this."
 
-**中文理解**：Cora 的决心——“Goddammit, she was going to salvage this.”。
+**中文理解**：对方的决心——不行，她非把这局面救回来不可。
 
 **关键词**：salvage this
 
@@ -66,23 +66,23 @@ modified: "2026-10-19"
 
 > **原句 6:** "Signy looked at Cora with a clarity that would shut anybody under any circumstances up."
 
-**中文理解**：Signy 的“clarity”——“would shut anybody under any circumstances up”。
+**中文理解**：她的干脆——只要她想，就能让任何人当场闭嘴。
 
 **关键词**：clarity that would shut anybody up
 
 **为什么这样写**：把 Signy 的沟通写成“clarity that would shut anybody up”——她的直接；“under any circumstances”写出她的力量。
 
-**读者视角提示**：Signy 的直接——终止对话。
+**读者视角提示**：她的直接——能一句话终止对话。
 
 > **原句 7:** "I didn't finish university because I didn't need it anymore," Signy said. "Maybe that sounds arrogant. Maybe it is."
 
-**中文理解**：Signy 的辍学——“didn't finish university because I didn't need it anymore”加“Maybe that sounds arrogant.”。
+**中文理解**：她的辍学——没念完大学，因为她不再需要它；也许这话听起来有点狂妄。
 
 **关键词**：didn't need it anymore / Maybe that sounds arrogant
 
 **为什么这样写**：把 Signy 的辍学写成“didn't need it anymore”——她的自足；“Maybe that sounds arrogant”写出她的自知。
 
-**读者视角提示**：Signy 的辍学——自足，非失败。
+**读者视角提示**：她的辍学——是自足，而非失败。
 
 > **原句 8:** "One day, I was in this awful lecture where the professor was talking about genetic drift as though it were some evil to be avoided at all costs. Inefficient, he called it. Inefficient!"
 
@@ -92,61 +92,61 @@ modified: "2026-10-19"
 
 **为什么这样写**：把教授的观点写成“evil to be avoided”——他的狭隘；“Inefficient!”的惊叹写出 Signy 的愤慨。
 
-**读者视角提示**：Signy 的辍学——教授对 genetic drift 的无知。
+**读者视角提示**：她辍学的缘由——教授连遗传漂变都不懂。
 
 > **原句 9:** "I picked up my tablet and my bag, and I walked out, and I never went back."
 
-**中文理解**：Signy 的举动——“walked out, and I never went back”。
+**中文理解**：她的举动——当场走了出去，再也没回去过。
 
 **关键词**：walked out / never went back
 
 **为什么这样写**：把 Signy 的辍学写成“walked out, and I never went back”——她果断的行动；“never went back”写出决绝。
 
-**读者视角提示**：Signy 的辍学——果断、决绝。
+**读者视角提示**：她的辍学——果断而决绝。
 
 > **原句 10:** "For the first time since they'd said hello at the door to Hopscotch, Signy smiled. Behind her breathing mask, her face was warm and pleased. "I would love to explain it to you," she said. "But first, when we get to my place, would you like to have sex?""
 
-**中文理解**：Signy 的微笑加性邀请——“would you like to have sex?”。
+**中文理解**：她笑了笑，接着直白地发出邀请——你想不想做爱？
 
 **关键词**：would you like to have sex
 
-**为什么这样写**：把性邀请写成“would you like to have sex?”——Signy 的直接；“But first”写出她的排序（先性后解释 genetic drift）。
+**为什么这样写**：把这份邀请写得直截了当——这是她的直接；“不过先说”写出她的排序：先谈这个，再解释遗传漂变。
 
 **读者视角提示**：Signy 的直接——性邀请作为实际问题。
 
 > **原句 11:** "We don't have to, obviously," Signy said. "But I'd like to, and I think you'd like to. It's very sweet of you to be all chicory and noodles about it, but . . . I mean, that is why you asked me out, right?"
 
-**中文理解**：Signy 的框架——“We don't have to, obviously” / “I'd like to, and I think you'd like to” / “that is why you asked me out, right?”。
+**中文理解**：她的说法——当然我们不必如此；但我愿意，我想你也愿意；你约我出来不就是为这个吗？
 
 **关键词**：We don't have to, obviously / that is why you asked me out, right
 
 **为什么这样写**：把 Signy 的框架写成“We don't have to, obviously”——她尊重同意；“that is why you asked me out, right?”写出她的直接。
 
-**读者视角提示**：Signy 的直接——同意加清晰。
+**读者视角提示**：她的直接——既同意，又说得清楚。
 
 > **原句 12:** "It's very sweet of you to be all chicory and noodles about it, but . . ."
 
-**中文理解**：Signy 的“chicory and noodles”——Cora 的紧张。
+**中文理解**：她说的“菊苣和面条”——指的是对方的紧张。
 
 **关键词**：chicory and noodles about it
 
-**为什么这样写**：把 Cora 的紧张写成“chicory and noodles”——Signy 的隐喻；“very sweet”写出她的喜爱。
+**为什么这样写**：把对方的紧张写成“菊苣和面条”——这是她的隐喻；“非常可爱”写出她的喜爱。
 
-**读者视角提示**：Signy 的喜爱——把 Cora 的紧张读作“sweet”。
+**读者视角提示**：她的喜爱——把对方的紧张读成了可爱。
 
 > **原句 13:** "I'd never withhold care just because things got awkward. I've never done this with a customer before, but I've been thinking about it, and that's a boundary I can keep to."
 
-**中文理解**：Signy 的边界——“I'd never withhold care just because things got awkward” / “that's a boundary I can keep to”。
+**中文理解**：她划下的边界——绝不会因为关系变得尴尬就不再照顾对方；这条底线她守得住。
 
 **关键词**：never withhold care / boundary I can keep to
 
-**为什么这样写**：把 Signy 的 ethic 写成“never withhold care”——她的职业操守；“boundary I can keep to”写出她的自知。
+**为什么这样写**：把她的原则写成“绝不收回照顾”——这是她的职业操守；“守得住的底线”写出她对自己的了解。
 
-**读者视角提示**：Signy 的 ethic——无论关系状态都给予照顾。
+**读者视角提示**：她的原则——无论关系如何都给予照顾。
 
 > **原句 14:** "Signy smirked. She reached one hand out and hooked her pinky around Cora's. "Is that a yes?" she asked."
 
-**中文理解**：Signy 勾小指——“Is that a yes?”。
+**中文理解**：她伸出小指——这算是答应了吗？
 
 **关键词**：hooked her pinky / Is that a yes
 
@@ -156,7 +156,7 @@ modified: "2026-10-19"
 
 > **原句 15:** "Yeah," Cora said, baffled but grinning. "Yeah, it is. Definitely. Definitely, yes."
 
-**中文理解**：Cora 的回应——“baffled but grinning” / “Definitely, yes.”。
+**中文理解**：对方的回应——一脸茫然却咧嘴笑着，说当然是，愿意。
 
 **关键词**：baffled but grinning / Definitely, yes
 

@@ -16,13 +16,13 @@ modified: "2026-10-19"
 
 > **原句 1:** "I like your plant," Twig said."
 
-**中文理解**：Twig 的开场——“I like your plant”——Signy 的 heartleaf（ch011）。
+**中文理解**：妹妹一开口就说喜欢那盆植物——那是 Signy 留在 Cora 房里的一株心叶藤（ch011）。
 
 **关键词**：I like your plant
 
-**为什么这样写**：把 Twig 的观察写成“I like your plant”——天真的切入；“your plant”写出 Signy 放在 Cora 房间的礼物。
+**为什么这样写**：把她的观察写成一句“我喜欢你的植物”——天真的切入点；“你的植物”三字点出那是 Signy 留在房间里的礼物。
 
-**读者视角提示**：Signy 的植物（heartleaf）作为 Cora 房间里的存在。
+**读者视角提示**：那株心叶藤作为她留在房间里的一份存在。
 
 > **原句 2:** "And I am definitely gonna kill it."
 
@@ -36,27 +36,27 @@ modified: "2026-10-19"
 
 > **原句 3:** "New friend, or new friend?" Twig asked, chewing."
 
-**中文理解**：Twig 的提问——“New friend, or new friend?”——恋爱意味。
+**中文理解**：妹妹的提问——是新朋友，还是“新朋友”？——分明带着恋爱的意味。
 
 **关键词**：New friend, or new friend?
 
 **为什么这样写**：把 Twig 的察觉写成“new friend, or new friend?”——浪漫与友情的模糊；“chewing”写出随意。
 
-**读者视角提示**：Twig 察觉到 Cora 的社交生活。
+**读者视角提示**：妹妹察觉到了姐姐的社交生活。
 
 > **原句 4:** "I don't see how being mad all the time helps anybody," Cora said."
 
-**中文理解**：Cora 的反驳——“being mad all the time”对比行动。
+**中文理解**：姐姐的反驳——整天生气并不能代替行动。
 
 **关键词**：being mad all the time / helps anybody
 
 **为什么这样写**：把 Cora 的务实写成“being mad all the time”——她对 Twig 愤怒的批评；“helps anybody”写出她的行动导向。
 
-**读者视角提示**：Cora-Twig 的张力——务实对比行动主义。
+**读者视角提示**：姐妹之间的张力——务实与行动主义之争。
 
 > **原句 5:** "Anger is what fuels action," Twig stated in a tone that suggested she'd picked up the phrase elsewhere."
 
-**中文理解**：Twig 的“Anger is what fuels action”——学来的说法。
+**中文理解**：妹妹那句“愤怒才是行动的动力”——是从别处学来的说法。
 
 **关键词**：Anger is what fuels action / picked up the phrase elsewhere
 
@@ -66,83 +66,83 @@ modified: "2026-10-19"
 
 > **原句 6:** "I just want someone to have gotten out of here, y'know? I want to know someone is at least trying."
 
-**中文理解**：Twig 的渴望——“someone to have gotten out of here” / “at least trying”。
+**中文理解**：妹妹的渴望——盼着有人真的离开过这里，哪怕只是在尝试也好。
 
 **关键词**：gotten out of here / at least trying
 
 **为什么这样写**：把 Twig 的希望写成“someone to have gotten out”——她渴望逃离；“at least trying”写出她需要希望。
 
-**读者视角提示**：Twig 的核心渴望——逃离 Fortune。
+**读者视角提示**：妹妹最核心的渴望——逃离这里。
 
 > **原句 7:** "I do get that, you know," Cora said. "I never want to come back down, when I'm in the saddle. I would love to fly forever."
 
-**中文理解**：Cora 的共情——“I never want to come back down, when I'm in the saddle. I would love to fly forever.”。
+**中文理解**：姐姐的共情——每次骑上鞍座，她都不想再落地，恨不得永远飞下去。
 
 **关键词**：never want to come back down / fly forever
 
 **为什么这样写**：把 Cora 的共情写成“never want to come back down”——她共享的渴望；“fly forever”写出她自己的向往。
 
-**读者视角提示**：Cora-Twig 共享的渴望——逃离 Fortune。
+**读者视角提示**：姐妹俩共享的那份渴望——离开这里。
 
 > **原句 8:** "It's a color we don't have words for. It's . . . it's bright. Sharp."
 
-**中文理解**：Cora 描述 Colibri 感受 Mothership——“a color we don't have words for” / “bright. Sharp.”。
+**中文理解**：她形容鲸鱼感知母船的方式——那是一种人类没有词语可以命名的颜色，明亮而锐利。
 
 **关键词**：color we don't have words for / bright / Sharp
 
 **为什么这样写**：把 Colibri 的感知写成“color we don't have words for”——无法言说的感官体验；“bright. Sharp.”写出她找词的艰难。
 
-**读者视角提示**：Colibri 的感知——超出人类语言。
+**读者视角提示**：鲸鱼的感知——超出了人类语言的边界。
 
 > **原句 9:** "The headache blossomed. It ran in twin stripes from her eye sockets, shooting across her scalp and down the sides of her spine."
 
-**中文理解**：mindbleed 发作——“headache blossomed” / “twin stripes from her eye sockets”。
+**中文理解**：心语发作——头痛像花一样绽开，两道痕迹从眼窝里淌下来。
 
 **关键词**：headache blossomed / twin stripes / eye sockets
 
-**为什么这样写**：把 mindbleed 写成“blossomed”——有机的生长；“twin stripes from eye sockets”写出感官扭曲。
+**为什么这样写**：把心语发作写成“绽开”——一种有机的生长；“眼窝里淌下两道”写出感官的扭曲。
 
-**读者视角提示**：Cora 的 mindbleed——感官崩溃。
+**读者视角提示**：她的心语发作——感官的崩溃。
 
 > **原句 10:** "She was supposed to see everything, everything, because Colibri could see everything, except Colibri didn't see at all, so that was wrong, too."
 
-**中文理解**：Cora 的感知混乱——Colibri 的感知对比她自己的；“wrong, too”。
+**中文理解**：她的感知陷入混乱——鲸鱼所感知的与她自己的感知叠在一起，都不对劲。
 
 **关键词**：see everything / Colibri could see everything / wrong, too
 
-**为什么这样写**：把 mindbleed 写成感知混乱——Colibri 的“看见”对比 Cora 的；“wrong, too”写出她的迷失。
+**为什么这样写**：把心语写成感知的混乱——鲸鱼的“看见”与她自己的感知叠在一起；“也不对劲”写出她的迷失。
 
-**读者视角提示**：Cora 的 mindbleed——Colibri 的感知渗入她的。
+**读者视角提示**：她的心语——鲸鱼的感知渗了进来。
 
 > **原句 11:** "Cora turned to her sister. Her sister who was the wrong color. Too few colors, too few waves, reality distorted, heavy and strange."
 
-**中文理解**：Cora 眼中的 Twig——“the wrong color. Too few colors, too few waves, reality distorted, heavy and strange.”。
+**中文理解**：她眼里的妹妹——颜色不对，色彩太少、波动太少，现实被扭曲，又沉又怪。
 
 **关键词**：wrong color / Too few colors / too few waves / reality distorted
 
-**为什么这样写**：把 mindbleed 写成“wrong color”——感知扭曲；“Too few colors, too few waves”写出她的感官匮乏。
+**为什么这样写**：把心语写成“颜色不对”——感知的扭曲；“色彩太少、波动太少”写出她感官上的匮乏。
 
-**读者视角提示**：Cora 的 mindbleed——Twig 显得“wrong color”。
+**读者视角提示**：她的心语发作——连妹妹看上去都成了错误的颜色。
 
 > **原句 12:** "Later, she was sure, she'd feel grateful that she'd managed to shut the door, run down the hall, lock herself in a bathroom, shove the trash can under the door handle, and huddle in the far corner before the storm hit for real."
 
-**中文理解**：Cora 的躲藏——“shut the door, run down the hall, lock herself in a bathroom, shove the trash can under the door handle, huddle in the far corner”。
+**中文理解**：她的躲藏——关上门，冲过走廊，把自己锁进洗手间，用垃圾桶抵住门把，缩在最远的角落里。
 
 **关键词**：shut the door / run down the hall / lock herself in a bathroom / huddle in the far corner
 
 **为什么这样写**：把 Cora 的躲藏写成一连串动作——她的 coping 机制；“before the storm hit for real”写出时机。
 
-**读者视角提示**：Cora 的 mindbleed coping——躲藏、隔离。
+**读者视角提示**：她应对心语的方式——躲藏与隔离。
 
 > **原句 13:** "But for the time being, all she could do was wad the collar of her shirt into her mouth, close her eyes, and bite down."
 
-**中文理解**：Cora 的最后举动——“wad the collar of her shirt into her mouth, close her eyes, and bite down”。
+**中文理解**：她最后的动作——把衣领塞进嘴里，闭上眼，咬紧。
 
 **关键词**：wad the collar / bite down
 
-**为什么这样写**：把 Cora 的疼痛管理写成“wad the collar... bite down”——身体 coping；“close her eyes”写出她的退缩。
+**为什么这样写**：把她的止痛办法写成“把衣领塞进嘴里咬紧”——一种身体上的应对；“闭上眼”写出她的退缩。
 
-**读者视角提示**：Cora 的 mindbleed——身体的疼痛管理（咬衣领）。
+**读者视角提示**：她的心语发作——用咬衣领来止痛。
 
 ## 本章词汇
 

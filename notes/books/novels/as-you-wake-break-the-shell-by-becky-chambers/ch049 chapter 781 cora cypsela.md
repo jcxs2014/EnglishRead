@@ -20,23 +20,23 @@ modified: "2026-10-19"
 
 **关键词**：going out to the surface on foot / a little weird
 
-**为什么这样写**：把地表行走写成“a little weird”——Cora 的迷失；“over a decade”写出她在 Cypsela 的居住。
+**为什么这样写**：把地表行走写成“有点怪”——写出她的迷失；而“十多年”写出她在这颗小卫星上住了多久。
 
-**读者视角提示**：Cora 的 Cypsela 生活——地表如异域。
+**读者视角提示**：她在这里的生活——脚下的地表反倒像异域。
 
 > **原句 2:** "The bunker's interior was designed so its inhabitants could continue living with the framework of up and down. There were floors and ceilings, tables and chairs. Gravity mesh was laced through the whole thing, sanding the illusion smooth."
 
-**中文理解**：bunker 内部——gravity mesh“sanding the illusion smooth”。
+**中文理解**：掩体内部——重力网把上下之分这种错觉打磨得平平整整。
 
 **关键词**：gravity mesh / sanding the illusion smooth
 
-**为什么这样写**：把 gravity mesh 写成“sanding the illusion smooth”——Cora 的诗意；“illusion”写出上下是建构的。
+**为什么这样写**：把重力网写成“把错觉打磨平整”——这是她的诗意；“错觉”一词写出上下之分其实是人为建构的。
 
 **读者视角提示**：Cora 的理解——重力如幻觉/建构。
 
 > **原句 3:** "In this airlock, it appeared as though there was a ladder bolted to the floor, but as soon as the air rushed out and your feet lifted free, the camera flipped. The floor became a wall, and the ladder became something you could climb."
 
-**中文理解**：airlock 的重力翻转——floor 变成 wall，ladder 变成可攀爬。
+**中文理解**：气闸里的重力翻转——地板变成墙壁，梯子成了可以攀爬的东西。
 
 **关键词**：camera flipped / floor became a wall / ladder became something you could climb
 
@@ -56,37 +56,37 @@ modified: "2026-10-19"
 
 > **原句 5:** "In her younger years, there'd been a bustling team of people who'd done this part for her. Med staff, flight techs, the whole kit and caboodle. On a launch day, she couldn't sneeze without somebody popping up to wipe her nose."
 
-**中文理解**：Cora 的过去——有一队人（med staff、flight techs）替她打理这部分。
+**中文理解**：她的过去——曾有一队人替她打理这些事：医疗人员和飞行技师。
 
 **关键词**：bustling team / kit and caboodle / couldn't sneeze without somebody popping up
 
-**为什么这样写**：把 pilot 的后勤写成“kit and caboodle”——Cora 的怀旧；“couldn't sneeze without somebody popping up”写出那番忙乱。
+**为什么这样写**：把骑手的后勤写成“全套家当”——这是她的怀旧；“打个喷嚏都有人冒出来”写出那番忙乱。
 
-**读者视角提示**：Cora 的 pilot 过去——后勤团队、公主/硬件。
+**读者视角提示**：她当骑手的过去——身后跟着后勤团队，像公主又像硬件。
 
 > **原句 6:** "She'd never been sure if being at the center of all that fuss made her feel like a very special princess or a very fragile piece of hardware. Honestly, pilots were kind of both."
 
-**中文理解**：Cora 的自我评估——“very special princess or very fragile piece of hardware”——“pilots were kind of both”。
+**中文理解**：她的自我评估——要么是被捧着的公主，要么是极脆弱的硬件；而骑手其实两者都是。
 
 **关键词**：very special princess / very fragile piece of hardware / pilots were kind of both
 
-**为什么这样写**：把 pilot 身份写成“princess or hardware”——Cora 的自知幽默；“pilots were kind of both”写出她的接纳。
+**为什么这样写**：把骑手身份写成“公主或硬件”——这是她的自知式幽默；“其实两者都是”写出她的接纳。
 
-**读者视角提示**：Cora 的 pilot 身份——公主/硬件的双重性。
+**读者视角提示**：她的骑手身份——公主与硬件的双重性。
 
 > **原句 7:** "It was tempting to say it was in another life, but that just wasn't true. It was the same life, then and now. Fortune and Solace, the Quarries and Cypsela (not to mention the messy pause in between)."
 
-**中文理解**：Cora 的回想——“same life, then and now”——Fortune、Solace、Quarries、Cypsela。
+**中文理解**：她的回想——无论过去还是现在，都是同一种生活；只是辗转了故土、索拉斯、采石场和这颗小卫星。
 
 **关键词**：same life, then and now / Fortune and Solace, the Quarries and Cypsela
 
-**为什么这样写**：把职业弧线写成“same life, then and now”——Cora 的连续性；“messy pause in between”写出那段空档（mindbleed？）。
+**为什么这样写**：把她的职业轨迹写成“过去与现在都是同一种生活”——强调连续性；“中间那段混乱的停顿”写出那段空档。
 
-**读者视角提示**：Cora 的职业弧线——Fortune → Solace → Quarries → Cypsela。
+**读者视角提示**：她的职业轨迹——从故土到索拉斯，再到采石场，最后落脚在这颗小卫星。
 
 > **原句 8:** "Cora found the congruity of it—the fact that she was the common element between those disparate points—even more of a headfuck to think about."
 
-**中文理解**：Cora 的回想——“congruity... common element between disparate points”——“headfuck”。
+**中文理解**：她的自省——那些截然不同的节点之间竟有某种连贯性；这让她心里乱作一团。
 
 **关键词**：congruity / common element / headfuck
 
@@ -96,13 +96,13 @@ modified: "2026-10-19"
 
 > **原句 9:** "Flip."
 
-**中文理解**：收尾——“Flip.”——airlock 打开、重力释放。
+**中文理解**：收尾——一个“翻”字，气闸打开，重力释放。
 
 **关键词**：Flip
 
-**为什么这样写**：把 airlock 打开写成“Flip.”——一个词、突兀；呼应 ch044 的“Fortune released its grasp”。
+**为什么这样写**：把气闸打开写成一个“翻”字——只有一个词，突兀得很；呼应 ch044 那句“故土松开了手”。
 
-**读者视角提示**：Cora 的地表行走——开始。
+**读者视角提示**：她的地表行走——就此开始。
 
 ## 本章词汇
 

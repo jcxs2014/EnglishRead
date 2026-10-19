@@ -22,21 +22,21 @@ modified: "2026-10-19"
 
 **为什么这样写**：把深夜沟通写成“hey”交换——极简、亲密。
 
-**读者视角提示**：Signy 与 Cora 的夜间节奏。
+**读者视角提示**：两人之间的夜间节奏。
 
 > **原句 2:** "Cora [23:09]: are you coming to bed"
 
-**中文理解**：Cora 的问话——“are you coming to bed”。
+**中文理解**：对方的问话——你还不来睡吗？
 
 **关键词**：are you coming to bed
 
-**为什么这样写**：把 Cora 的体贴写成问句——关心 Signy 的工作沉浸。
+**为什么这样写**：把她的体贴写成一个问句——关心对方是不是又沉浸在工作里。
 
-**读者视角提示**：Cora 作为 Signy 的 caretaker——关注工时。
+**读者视角提示**：她作为照料者——关注对方的工时。
 
 > **原句 3:** "Signy [23:09]: oh god I didn't see the time I'm sorry"
 
-**中文理解**：Signy 的道歉——“oh god I didn't see the time I'm sorry”——工作沉浸。
+**中文理解**：她的道歉——天哪，她都没注意时间，实在抱歉——全因埋头工作。
 
 **关键词**：didn't see the time / I'm sorry
 
@@ -46,23 +46,23 @@ modified: "2026-10-19"
 
 > **原句 4:** "Cora [23:09]: it's all good / Cora [23:09]: but this bed sucks without you in it / Cora [23:09]: it is too big and too cold"
 
-**中文理解**：Cora 的“this bed sucks without you in it”——脆弱；“too big and too cold”。
+**中文理解**：对方说这张床没有你就糟糕透了——透着脆弱；床太大，也太冷。
 
 **关键词**：this bed sucks without you in it / too big and too cold
 
 **为什么这样写**：把 Cora 的需要写成“this bed sucks without you”——她的脆弱；“too big and too cold”写出身体上的缺席。
 
-**读者视角提示**：Cora 需要 Signy 的在场——床作为伴侣关系的象征。
+**读者视角提示**：她需要对方的陪伴——床成了这段关系的象征。
 
 > **原句 5:** "Signy [23:09]: that sounds terrible"
 
-**中文理解**：Signy 的回应——“that sounds terrible”——共情 Cora 的孤独。
+**中文理解**：她的回应——那听起来确实糟糕——共情对方的孤独。
 
 **关键词**：that sounds terrible
 
-**为什么这样写**：把 Signy 的共情写成“that sounds terrible”——承认 Cora 的需要。
+**为什么这样写**：把她的共情写成“那听起来确实糟糕”——承认对方的需要。
 
-**读者视角提示**：Signy 的体贴——承认 Cora 的需要。
+**读者视角提示**：她的体贴——承认对方的需要。
 
 > **原句 6:** "Cora [23:10]: it's very terrible"
 
@@ -70,13 +70,13 @@ modified: "2026-10-19"
 
 **关键词**：it's very terrible
 
-**为什么这样写**：把 Cora 的 playful 写成“it's very terrible”——为效果而升级。
+**为什么这样写**：把对方的玩闹写成“那可太糟糕了”——为效果而刻意升级。
 
 **读者视角提示**：Cora 的幽默——为效果夸张。
 
 > **原句 7:** "Cora [23:10]: I could draw us a bath, if you want"
 
-**中文理解**：Cora 的提议——“I could draw us a bath”——亲密暗示。
+**中文理解**：对方的提议——我可以给咱们放一缸热水——带着亲密的暗示。
 
 **关键词**：draw us a bath
 
@@ -86,7 +86,7 @@ modified: "2026-10-19"
 
 > **原句 8:** "Signy [23:11]: aren't you already in bed / Cora [23:11]: yeah / Cora [23:11]: I didn't say I wanted to sleep"
 
-**中文理解**：Cora 的澄清——“I didn't say I wanted to sleep”——洗澡邀请。
+**中文理解**：对方又澄清——我可没说想睡觉——这是一份洗澡的邀请。
 
 **关键词**：I didn't say I wanted to sleep
 
@@ -96,13 +96,13 @@ modified: "2026-10-19"
 
 > **原句 9:** "Signy [23:11]: in that case, I'll be right there"
 
-**中文理解**：Signy 的回应——“in that case, I'll be right there”——接受。
+**中文理解**：她的回应——既然这样，我马上就来——接受了。
 
 **关键词**：in that case, I'll be right there
 
-**为什么这样写**：把 Signy 的回应写成“in that case, I'll be right there”——接受 Cora 的邀请；“right there”写出即时。
+**为什么这样写**：把她的回应写成“既然这样，我马上就来”——接受了对方的邀请；“马上”写出那份即时。
 
-**读者视角提示**：Signy 与 Cora 的亲密——Signy 把 Cora 放在优先。
+**读者视角提示**：两人的亲密——她这一次把对方放在了优先。
 
 ## 本章词汇
 

@@ -16,17 +16,17 @@ modified: "2026-10-19"
 
 > **原句 1:** "Typically, Signy and Otto spent a couple of hours after dinner listening to the Friday Night Live Jam on K-NYT, which he enjoyed and she had grown to."
 
-**中文理解**：Signy 与 Otto 的 Friday 仪式——听 K-NYT 的 Friday Night Live Jam。
+**中文理解**：Signy 与 Otto 的周五仪式——一起听电台的周五夜现场即兴节目。
 
 **关键词**：Friday Night Live Jam / K-NYT
 
-**为什么这样写**：把他们的 ritual 写成“spent a couple of hours”——既定的 routine；“she had grown to”写出 Signy 逐渐生出的欣赏。
+**为什么这样写**：把他们的仪式写成“一坐就是几个小时”——固定的惯例；“她渐渐喜欢上”写出 Signy 慢慢生出的欣赏。
 
-**读者视角提示**：Signy-Otto 的 Friday 仪式——音乐加交谈。
+**读者视角提示**：两人每周五的仪式——音乐配上交谈。
 
 > **原句 2:** "See, this is why people who get snobby about pop are missing out," he said. "Listen to that. Listen to those chords. Nothing is wasted here. This isn't fluff, this is a well-oiled machine. It's got structure. Mm!"
 
-**中文理解**：Otto 的音乐分析——“people who get snobby about pop are missing out”；“well-oiled machine”。
+**中文理解**：Otto 的音乐见解——对流行乐摆架子的人其实错过了好东西；整支乐队像一台运转顺畅的机器。
 
 **关键词**：snobby about pop / well-oiled machine / structure
 
@@ -56,23 +56,23 @@ modified: "2026-10-19"
 
 > **原句 5:** "Henry once said there were three things to always be prepared for: eruptions, funerals, and Margaret."
 
-**中文理解**：Henry（Otto 的丈夫，composer）的名言——“three things to always be prepared for: eruptions, funerals, and Margaret”。
+**中文理解**：作曲家的丈夫常说，要随时准备应付三样东西：火山爆发、葬礼，还有那位制片人。
 
 **关键词**：three things / eruptions, funerals, and Margaret
 
-**为什么这样写**：把 Margaret（制片人）写成如火山/葬礼般的自然力——Henry 的幽默；“three things”的三元结构。
+**为什么这样写**：把制片人 Margaret 写成与火山、葬礼并列的一种自然力——Henry 的幽默；三样东西的并列结构。
 
-**读者视角提示**：Margaret 作为可怕的制片人——Henry 的敬畏/畏惧。
+**读者视角提示**：那位制片人令人生畏——作曲家对她既敬佩又发怵。
 
 > **原句 6:** "If we weren't in production, they were thick as thieves. Before we hit post, though . . . there was no quicker way to burn his biscuits than for him to get a note like 'Margaret says the closing theme needs to be six seconds shorter.'"
 
-**中文理解**：Margaret 与 Henry 的 dynamic——不在制作时“thick as thieves”；进入后期则“burn his biscuits”。
+**中文理解**：Margaret 与 Henry 的相处——不赶工时两人亲密无间；一进后期制作，她就把他折腾得够呛。
 
 **关键词**：thick as thieves / burn his biscuits
 
 **为什么这样写**：把他们的关系写成“thick as thieves”（协作）对比“burn his biscuits”（冲突）——创作伙伴关系的双重性。
 
-**读者视角提示**：Margaret-Henry——带张力的创作伙伴关系。
+**读者视角提示**：两人的关系——一对带着张力的创作伙伴。
 
 > **原句 7:** "It was magnificent. Kissing your someone as you fly through the shadow of a moon? Nothing quite like it."
 
@@ -80,87 +80,87 @@ modified: "2026-10-19"
 
 **关键词**：eclipse flight / shadow of a moon / Nothing quite like it
 
-**为什么这样写**：把 eclipse flight 写成浪漫的顶峰——“Kissing your someone as you fly through the shadow of a moon”——Otto 对 Henry 的回忆。
+**为什么这样写**：把日食飞行写成浪漫的顶峰——飞过月亮投下的阴影时亲吻你的那个人——这是 Otto 对 Henry 的回忆。
 
-**读者视角提示**：Otto-Henry 的浪漫——eclipse flight 作为顶峰记忆。
+**读者视角提示**：两人的浪漫——那次日食飞行是 Otto 心中最顶峰的记忆。
 
 > **原句 8:** "Have you . . . Have you ever seen a rorqual?" / "What, in person?" / "No," Otto said. "Well . . . ish."
 
-**中文理解**：Signy 问起 rorqual——Otto 的“ish”（小时候远远见过，“just a blob”）。
+**中文理解**：Signy 问起鲸鱼——Otto 答得含糊，说小时候远远见过，也就是一团模糊的影子。
 
 **关键词**：ever seen a rorqual / ish / just a blob
 
-**为什么这样写**：把 Otto 的 rorqual 目击写成“ish”加“blob”——他的谦虚；“just a blob”写出距离。
+**为什么这样写**：把 Otto 那次目击写成含糊的“算是吧”加“一团影子”——他的谦虚；“就是一团影子”写出距离之远。
 
-**读者视角提示**：Otto 对 rorqual 的了解——有限、二手。
+**读者视角提示**：Otto 对鲸鱼的了解——有限，而且只是二手。
 
 > **原句 9:** "I'm going up to the stables," she said. "Or, at least, that's the plan."
 
-**中文理解**：Signy 的计划——“going up to the stables”（去看 Cora 的 rorqual）。
+**中文理解**：Signy 的计划——上到轨道站的马厩去（去看 Cora 那边的鲸鱼）。
 
 **关键词**：going up to the stables
 
-**为什么这样写**：把 Signy 的计划写成“going up to the stables”——Cora 给她的报酬；“that's the plan”写出不确定。
+**为什么这样写**：把她的计划写成“上马厩去”——那是 Cora 付给她的报酬；“就这么打算”写出其中的不确定。
 
-**读者视角提示**：Signy 的 stables 之行——Cora 医药的报酬。
+**读者视角提示**：Signy 这趟远行——是对方付给她的医药费报酬。
 
 > **原句 10:** "Would you like it to be?" / "She's a customer. So, no." / "What's her name?" / "Cora," Signy said."
 
-**中文理解**：Otto 的调侃——“Would you like it to be?”——Signy 的回避；“Cora”名字的揭晓。
+**中文理解**：Otto 拿话打趣她——问她想不想让事情变成那样；Signy 只回避，直到 Cora 的名字说出口。
 
 **关键词**：Would you like it to be? / Cora
 
-**为什么这样写**：把 Otto 的调侃写成“Would you like it to be?”——探问 Signy 的心意；Signy 的“She's a customer. So, no.”写出她的防御。
+**为什么这样写**：把 Otto 的打趣写成一句“你想不想让它变成那样”——他在探她的心意；而她那句“她是我的顾客，所以不是”写出防御。
 
-**读者视角提示**：Otto 是 Signy 的媒人——拿 Cora 打趣。
+**读者视角提示**：老人在给她当媒人——总拿这件事打趣她。
 
 > **原句 11:** "She regretted inadvertently bringing them down this path."
 
-**中文理解**：Signy 的后悔——“regretted inadvertently bringing them down this path”。
+**中文理解**：Signy 的后悔——她懊恼自己无意间把话头引到了这条路上。
 
 **关键词**：regretted inadvertently
 
 **为什么这样写**：把 Signy 的后悔写成“inadvertently”——她并非有意敞开；“this path”写出 Otto 的探问。
 
-**读者视角提示**：Signy 的脆弱——Otto 的探问触到她的心意。
+**读者视角提示**：她的脆弱——老人的探问正触到了她的心意。
 
 > **原句 12:** "He'd go storming down the hall, they'd fight like rain and baking soda, and I'd make myself scarce."
 
-**中文理解**：Henry 与 Margaret 的冲突——“fight like rain and baking soda”——Otto 溜开。
+**中文理解**：这两人一碰就炸，像雨水遇上小苏打——老人干脆溜开。
 
 **关键词**：fight like rain and baking soda / make myself scarce
 
 **为什么这样写**：把冲突写成“rain and baking soda”——化学反应的隐喻；“make myself scarce”写出 Otto 的回避。
 
-**读者视角提示**：Otto 的 coping——回避 Henry 与 Margaret 的争吵。
+**读者视角提示**：老人的应对方式——干脆回避两人的争吵。
 
 > **原句 13:** "I went on a dive into the Primer, and I got us a bit of boar, a bit of elk, and a bit of humpback whale," Otto said. "Distorted the hell out of them. Added a dash of this good, chuggy air filter in my dentist's office, believe it or not, and turned it into a nice layer cake."
 
-**中文理解**：Otto 的 rorqual Foley——boar、elk、humpback whale 加牙医诊所的 air filter，叠成“layer cake”。
+**中文理解**：他为鲸鱼做的拟音——野猪、麋鹿、座头鲸，再加牙医诊所的空气过滤器，层层叠成一块蛋糕。
 
 **关键词**：boar / elk / humpback whale / layer cake
 
-**为什么这样写**：把 rorqual 声写成“layer cake”——Foley 手艺；“Distorted the hell out of them”写出他的创作过程。
+**为什么这样写**：把鲸鱼的声音写成一块“千层蛋糕”——这是他的拟音手艺；把素材彻底扭曲，写出他的创作过程。
 
-**读者视角提示**：Otto 的 Foley 艺术——rorqual 作为想象力的创造。
+**读者视角提示**：他的拟音艺术——鲸鱼的声音是想象力的创造。
 
 > **原句 14:** "The cheat was they were wild rorquals, y'see. A wild rorqual could sound however I wanted them to sound, because there's no recordings of those."
 
-**中文理解**：Otto 的“cheat”——wild rorquals 可以随他想要的方式发声（因为没有录音）。
+**中文理解**：他所谓的“作弊”——野生的鲸鱼可以随他想要的方式发声，因为根本没有录音。
 
 **关键词**：cheat / wild rorquals / no recordings
 
-**为什么这样写**：把 sound design 写成“cheat”——Otto 的创作自由；“no recordings”写出他的艺术自由。
+**为什么这样写**：把声音设计写成“作弊”——这是他的创作自由；没有录音这一条写出他的艺术自由。
 
-**读者视角提示**：Otto 的创作自由——wild rorquals 是空白画布。
+**读者视角提示**：他的创作自由——野生的鲸鱼就是一张空白画布。
 
 > **原句 15:** "Do you know how they communicate with their pilots?" / "It's pheromones, isn't it?" / "I'm not actually sure."
 
-**中文理解**：Signy 问起 rorqual 与 pilot 的沟通——pheromones？Otto 也不确定。
+**中文理解**：她问起鲸鱼与飞行员如何沟通——靠信息素吗？老人也不确定。
 
 **关键词**：pheromones / I'm not actually sure
 
-**为什么这样写**：把 rorqual 沟通写成“pheromones”——Signy 的猜测；Otto 的“not actually sure”写出他查阅资料的兴奋。
+**为什么这样写**：把鲸鱼的沟通写成“信息素”——这是她的猜测；老人那句“其实不太确定”写出他查阅资料的兴奋。
 
 **读者视角提示**：Otto 的雀跃——有了查资料的借口。
 

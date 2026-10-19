@@ -20,13 +20,13 @@ Signy 和 Cora 的 domestic life——signy 的 garden experiments 与 Cora 的 
 
 > **原句 1:** "In a perfect world, there wouldn't be a need for someone like her. Signy believed that wholeheartedly. Medicine, in all its varied forms, was not meant to be cooked up in a homemade lab reactor in the back of a random shop, nor should it be handed out by someone other than a doctor. And in fairness, that wasn't how most medicine in the Berth was made. The stuff you got from a clinic or a pharmacy—the mass-produced stuff, the legal stuff—that was made in dedicated labs with proper equipment and oversight."
 
-**中文理解**：Signy 的 self-awareness——she knows her work is illegal, but contrasts it with the legal alternative (dedicated labs, proper oversight)。
+**中文理解**：Signy 的自我认知——她清楚自己的工作违法，却拿它与合法的替代方案（专门的实验室、正规的监管）作对比。
 
 **关键词**：homemade lab reactor / mass-produced / proper equipment and oversight
 
-**为什么这样写**：用"in a perfect world"建立 moral tension——Signy knows she's not supposed to exist, yet she does; "not meant to be cooked up"用 domestic metaphor 降低 illegal gravity。
+**为什么这样写**：用“在一个完美的世界里”建立道德张力——她知道自己本不该存在，却偏偏存在；“本不该被熬制出来”这一家常比喻，淡化了违法的分量。
 
-**读者视角提示**：Signy 的 moral complexity——she's not a villain, she's a necessity。
+**读者视角提示**：Signy 的道德复杂性——她不是恶人，而是一种必需。
 
 > **原句 2:** "The problem wasn't a complete absence of medicine. The problem was too little medicine, and within an official capacity, that meant the cold logic of triage. Signy 的 list of orders that day was nothing if not a portrait of the downside."
 
@@ -34,29 +34,29 @@ Signy 和 Cora 的 domestic life——signy 的 garden experiments 与 Cora 的 
 
 **关键词**：cold logic of triage / portrait of the downside
 
-**为什么这样写**：把 systemic failure 写成"nothing if not a portrait of the downside"——ironic understatement; "cold logic"暗示 system 的非人化。
+**为什么这样写**：把制度性失灵写成“无非是一幅阴暗面的写照”——反讽式的轻描淡写；“冷酷的逻辑”暗示体系的非人化。
 
-**读者视角提示**：Signy as observer——she sees 系统的 failures firsthand。
+**读者视角提示**：Signy 作为观察者——她亲眼目睹体系的失灵。
 
 > **原句 3:** "Phoebe simply didn't want to be pregnant and was afraid of having an intake conversation with a counselor who would kindly, repeatedly point out that in all physical respects, she had no reason to not carry to term. Paul hated his clinic's psychiatrist and had struggled mightily to find one he was comfortable working with."
 
-**中文理解**：Signy 的 patients——Phoebe 不想怀孕但怕被 counselor 劝说；Paul 讨厌精神科医生——每个人的 struggle 都不同，但 system 不关心。
+**中文理解**：Signy 的病人——Phoebe 不想怀孕却怕被咨询师劝说；Paul 讨厌精神科医生——每个人的困境各不相同，但体制并不关心。
 
 **关键词**：intake conversation / psychiatrist / comfortable working with
 
-**为什么这样写**：用具体个人故事（Phoebe、Paul）让 triage 的数字变成人的故事——"kindly, repeatedly"的 irony（counselor 以为自己在帮忙）；"struggled mightily"写出 Paul's frustration。
+**为什么这样写**：用具体的个人故事让分诊的数字变成活人的故事——“好心地、一再地”饱含反讽（咨询师以为自己在帮忙）；“苦苦挣扎”写出 Paul 的挫败。
 
-**读者视角提示**：Signy 的 patients——each has a legitimate reason for needing her。
+**读者视角提示**：Signy 的病人——每个人需要她都有正当理由。
 
 > **原句 4:** "And Cora—"
 
-**中文理解**：悬念——Cora 是 Signy list 上的最后一个，也是最重要的。
+**中文理解**：悬念——Cora 是 Signy 名单上的最后一个，也是最重要的一个。
 
 **关键词**：悬念（dash）
 
-**为什么这样写**：用 em-dash 中断制造悬念——Cora 的 story will unfold; 暗示 Cora is special/different from the others。
+**为什么这样写**：用破折号的中断制造悬念——Cora 的故事将由此展开；暗示她与其他人不同。
 
-**读者视角提示**：Cora 的 introduction——she's the one who changes everything。
+**读者视角提示**：Cora 的登场——她就是那个改变一切的人。
 
 ## 本章词汇
 

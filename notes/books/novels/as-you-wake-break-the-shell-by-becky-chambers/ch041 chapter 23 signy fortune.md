@@ -24,29 +24,29 @@ Signy 和 Cora 的 relationship deepens——通过 shared daily moments 与 qui
 
 **关键词**：overhang / caustic / not eager to catch the ferry
 
-**为什么这样写**：用 physical details（rain, slippery, caustic）建立 mood——Signy 的 reluctance to leave; "borrowed tote bag"暗示她原本打算去 Cora 处。
+**为什么这样写**：用雨、湿滑、腐蚀性这些身体感受建立氛围——写出她的不愿离开；借来的手提袋暗示她原本打算去对方那儿。
 
-**读者视角提示**：Signy 的 mood——she's avoiding something (socializing? commitment?)。
+**读者视角提示**：她的心情——她似乎在回避什么：社交，还是某种承诺？
 
 > **原句 2:** "She eyed her shop front, just a quick dash ahead. Surely it was more sensible to spend the night there. So often, the ferries were delayed on nights like this. Surely the smart thing was to stay put."
 
-**中文理解**：Signy 的 rationalization——她给自己的逃避找借口："surely it was more sensible"、"surely the smart thing"。
+**中文理解**：她给自己的逃避找理由——一句“这样更明智”，又一句“这才是聪明的做法”。
 
 **关键词**：quick dash / sensible / smart thing / stay put
 
-**为什么这样写**：用重复的"surely"写出 Signy 的 self-persuasion——she's convincing herself; 但读者知道这是 excuse。
+**为什么这样写**：用反复出现的“想必”写出她的自我说服——她在劝自己相信；可读者清楚那只是借口。
 
-**读者视角提示**：Signy 的 self-deception——she's choosing work over people。
+**读者视角提示**：她的自我欺骗——她选择了工作，而不是人。
 
 > **原句 3:** "This was an excuse, and Signy knew it. The truth was that the puzzle of what sort of plant could you disguise tobacco as had been tugging at her ever since she'd mentioned it to Otto. Her shop was right here. Her work was right here. She didn't want to wait until morning, with a stupid commute on either end. She wanted to dive straight in and let her thoughts fly."
 
-**中文理解**：Signy 的 confession——she admits the excuse; the real reason is her obsession with the tobacco-disguise puzzle。
+**中文理解**：她的坦白——她承认那只是借口；真正的原因是那道伪装烟草的谜题让她着迷。
 
 **关键词**：tugging at her / dive straight in / let her thoughts fly
 
-**为什么这样写**：从"excuse"到"the truth was"的转折——Signy 的 honesty with herself; "let her thoughts fly"写出 her intellectual excitement。
+**为什么这样写**：从“借口”转到“事实是”的这一折——写出她对自己的诚实；“任思绪飞驰”写出她智力上的兴奋。
 
-**读者视角提示**：Signy 的 character——puzzle-solver who prioritizes work over social life。
+**读者视角提示**：她的性格——一个把工作排在社交前面的解谜者。
 
 ## 本章词汇
 
