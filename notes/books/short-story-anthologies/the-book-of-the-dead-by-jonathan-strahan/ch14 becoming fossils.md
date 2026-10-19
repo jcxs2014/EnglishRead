@@ -2,17 +2,17 @@
 
 ## 本章导航
 
-- **一句话概括**：播客主持人 Vita 回到 childhood home Victor, Iowa 的 Lake Coraline（已干涸的湖床），调查一种在干旱 crater 中生长的无籽 mulberry；她 nearly drowned in ghost lake（湖床短暂恢复为湖），目击神秘人携带 "body"，最终得出 "A ghost cannot heal us. A ghost cannot nourish our crops. The mulberries grow without seeds, are nothing but salt within purple skin."——气候危机中的 false hope 与 ghost 的不可持续性。
+- **一句话概括**：播客主持人 回到 , 的 （已干涸的湖床），调查一种在干旱 中生长的无籽 ；她 （湖床短暂恢复为湖），目击神秘人携带 ，最终得出 ——气候危机中的 与 的不可持续性。
 
-- **时间**：近未来（气候 crisis, hydration pipeline, AR visors, shuttles）
+- **时间**：近未来（气候 , , AR , ）
 
-- **地点**：Victor, Iowa（Merry Heights Apartments, Lake Coraline crater）；University of Iowa
+- **地点**：, （, ）；
 
-- **人物**：Vita (podcast host, "voice was her livelihood")；Mark (brother, marketing)；M.H. Security guard；stranger with bundle；Aimee (childhood friend, referenced); mother; tourists
+- **人物**： ； ；M.H. ；； ; ; 
 
-- **叙事手法**：First-person (Vita) with podcast narration frame; climate fiction; ghost lake as supernatural element; fossil imagery (Devonian Dunkleosteus, horn coral); "becoming fossils" as title metaphor—humans/earth becoming fossils
+- **叙事手法**：-; ; ; ; as —/
 
-- **与后文的钩子**：Strahan Introduction 提到 "Darcie Little Badger's story of a dried lakebed that grows mulberry trees, and the ghost that cannot heal." 本篇是选集的 climate fiction 代表——death 作为 environmental (lake died, became ghost); "a ghost cannot heal us" = false hope in climate crisis. Theme: nostalgia for lost ecosystems; ghost as unsustainable miracle; climate change as irreversible loss.
+- **与后文的钩子**： 提到 本篇是选集的 代表—— 作为 ; = . 
 
 ## 精读
 
@@ -66,16 +66,6 @@
 
 - **读者视角提示**：Little Badger's "had to be" = rationalist denial. Each item is supernatural; science fails.
 
-> **原句 6:** "Lakes couldn't become ghosts."
-
-- **中文理解**：「Lakes couldn't become ghosts。」(repeated motif) Vita's denial—lakes can't be ghosts. But Lake Coraline IS a ghost. This repetition emphasizes Vita's (and humanity's) denial of climate reality.
-
-- **关键词**：Lakes couldn't become ghosts
-
-- **为什么这样写**：Little Badger repeats "Lakes couldn't become ghosts" as refrain—Vita's (and humanity's) denial. The repetition (2x in story) emphasizes the denial's persistence. But the lake IS a ghost—denial is wrong. This is the story's thesis: we deny climate death, but it's real.
-
-- **读者视角提示**：Little Badger's refrain = denial. The lake IS a ghost.
-
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -109,4 +99,4 @@
 
 ## 一句话总结
 
-Little Badger 的 "Becoming Fossils" 是选集中最 climate fiction 的 story：Vita（podcast host）回到 childhood home Victor, Iowa 的 Lake Coraline（已干涸的湖床），调查一种在干旱 crater 中生长的无籽 mulberry；她 nearly drowned in ghost lake（湖床短暂恢复为湖），目击神秘人携带 "body"，最终得出 "A ghost cannot heal us. A ghost cannot nourish our crops. The mulberries grow without seeds, are nothing but salt within purple skin."——气候危机中的 false hope 与 ghost 的不可持续性。Little Badger 的 thesis："ghost cannot heal/nourish" = climate ghosts can't save us; "salt within purple skin" = beautiful exterior, empty interior; "Lakes couldn't become ghosts" = denial of climate reality. "A ghost cannot heal us" = the story's moral: we can't rely on ghost miracles; we must address climate change directly. This is the anthology's "death as environmental" counterpoint。主题：nostalgia for lost ecosystems; ghost as unsustainable miracle; climate change as irreversible loss; false hope in climate crisis。"Becoming fossils" = lake becoming fossil bed; humans becoming fossils (climate victims).
+ 的 是选集中最 的 ：（）回到 , 的 （已干涸的湖床），调查一种在干旱 中生长的无籽 ；她 （湖床短暂恢复为湖），目击神秘人携带 ，最终得出 ——气候危机中的 与 的不可持续性。 的 ： = 't ; = , ; = . = the 's : we can't ; we . 's 。主题：; ; ; 。 = ; .

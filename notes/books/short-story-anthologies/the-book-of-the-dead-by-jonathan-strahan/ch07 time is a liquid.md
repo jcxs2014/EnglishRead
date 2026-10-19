@@ -2,17 +2,17 @@
 
 ## 本章导航
 
-- **一句话概括**：导游 Elaine 接到 V-V-VIP 客人 Frank（一种水生共生体外星人），带他走访美洲多处暴力死亡遗址；Frank 反复在泥土里"探测"，声称能看见死者留下的信息（"ghosts"），而 Elaine 坚决否认鬼魂存在——直到 Frank 在 Kananaskis 山崩遗址（Elaine 五位家人遇难之地）附近指出她身边有五位"ghosts"，Elaine 才被迫面对：她不是孤独的，死者一直与她同在。
+- **一句话概括**：导游 接到 V-V-VIP 客人 （一种水生共生体外星人），带他走访美洲多处暴力死亡遗址； 反复在泥土里"探测"，声称能看见死者留下的信息（），而 坚决否认鬼魂存在——直到 在 山崩遗址（ 五位家人遇难之地）附近指出她身边有五位， 才被迫面对：她不是孤独的，死者一直与她同在。
 
-- **时间**：近未来（人类已能星际旅游、外星人普遍来访地球）；Elaine 丧亲后约一年
+- **时间**：近未来（人类已能星际旅游、外星人普遍来访地球）； 丧亲后约一年
 
-- **地点**：Cambodia（Phnom Penh handoff）→ São Paulo → Iquique（智利）→ Cinta Larga（巴西）→ Baía do Arraial → Tenochtitlan → Canudos → Goliad（Texas）→ Kananaskis（加拿大）→ Savannah
+- **地点**：（）→ São → （智利）→ （巴西）→ Baía do → → → （）→ （加拿大）→ 
 
-- **人物**：Elaine（导游，丧亲者，T-shirt 丝网印刷师）；Frank（V-V-VIP 水生外星 symbiote，cobalt blue，translator app）；Chantrea（柬埔寨导游，East Asia guide）；prez（neighborhood president，管鸡）；old woman（Goliad 鸡农）；Monica/Lee/Lu-bon/Priya/Venetta（Elaine 亡故的家人，以 ghost 形式陪伴）
+- **人物**：（导游，丧亲者，T- 丝网印刷师）；（V-V-VIP 水生外星 ，，）；（柬埔寨导游，）；（，管鸡）；old （ 鸡农）；/Lee/Lu-bon//（ 亡故的家人，以 形式陪伴）
 
-- **叙事手法**：第三人称有限视角 (Elaine)；SF realism；alien POV as defamiliarization device；"ghost" 一词的翻译歧义（translator app 提供多种解释）；death as information-theoretic phenomenon；grief narrative disguised as tourism SF
+- **叙事手法**：第三人称有限视角 ；SF ；； 一词的翻译歧义（ 提供多种解释）；-；
 
-- **与后文的钩子**：Strahan Introduction 提到 Kelly Robson 的 moving story of a grieving woman who encounters an alien who perceives the dead。本篇是选集的 SF 代表——死亡被重新定义为信息残留（"part of their being remains in the soil"），外星感知力让"ghosts"从超自然转为物理现象。主题：grief as isolation vs. connection; the dead never truly leave。
+- **与后文的钩子**： 提到（见原文）。本篇是选集的 SF 代表——死亡被重新定义为信息残留（），外星感知力让从超自然转为物理现象。主题：. ; the 。
 
 ## 精读
 
@@ -108,4 +108,4 @@
 
 ## 一句话总结
 
-Robson 的 "Time Is a Liquid" 是选集中最动人的 grief narrative：Elaine 丧亲后一年，仍活在 "gaps in reality" 的 void 中，无法填补家人死亡留下的空白；外星游客 Frank（水生 symbiote）的 perceptual framework 把 "ghosts" 重新定义为信息残留——soil holds the dead's "being"，时间是 liquid matrix 中 information 的 flow，而非 linear arrow。Elaine 坚决否认 ghosts 存在，Frank 却在 Kananaskis 山崩遗址（Elaine 五位家人遇难之地）指出她身边有五个 ghosts（Venetta, Monica, Lee, Priya, Lu-bon）。Robson 的 thesis："死亡不是 total erasure，而是 partial preservation"——死者的信息永远残留，只是人类无法 perceive。Frank 的 "Poor you" 不是 triumph 而是 compassion：Elaine 的 grief 不是 about absence 而是 about inability to perceive presence. 这是选集的 SF 代表——死亡被重新定义为信息现象，alien perception 作为 defamiliarization device，把 grief 从 "void" 转为 "presence"。Theme: the dead never truly leave; we just can't see them.
+ 的 是选集中最动人的 ： 丧亲后一年，仍活在 的 中，无法填补家人死亡留下的空白；外星游客 （水生 ）的 把 重新定义为信息残留——'s ，时间是 中 的 ，而非 。 坚决否认 存在， 却在 山崩遗址（ 五位家人遇难之地）指出她身边有五个 （, , Lee, , Lu-bon）。 的 ："死亡不是 ，而是 "——死者的信息永远残留，只是人类无法 。 的 不是 而是 ： 的 不是 而是 . 这是选集的 SF 代表——死亡被重新定义为信息现象， 作为 ，把 从 转为 。

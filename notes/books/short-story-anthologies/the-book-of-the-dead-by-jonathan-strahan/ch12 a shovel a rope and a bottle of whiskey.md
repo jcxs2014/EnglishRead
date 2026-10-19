@@ -2,17 +2,17 @@
 
 ## 本章导航
 
-- **一句话概括**：Arthur Sullivan 与 Joseph 作为 resurrection men（盗墓者）为 anatomist 提供尸体；Joseph 被 scientist Filippo Rossi 的 soul-tether 实验吸引，最终 volunteered 自己作为实验体死亡；Arthur 杀死 Rossi 为 Joseph 复仇，埋尸后多年求 séance 与 Joseph 通灵，medium 告诉他 "Undoubtedly" there is life after death，Arthur 问 "Is there suffering?"——故事停在 medium 的回答之前。
+- **一句话概括**： 与 作为 （盗墓者）为 提供尸体； 被 的 - 实验吸引，最终 自己作为实验体死亡； 杀死 为 复仇，埋尸后多年求 sé 与 通灵， 告诉他 ， 问 ——故事停在 的回答之前。
 
-- **时间**：1882-1883 年（Philadelphia）；Arthur 23 岁
+- **时间**：1882-1883 年（）； 23 岁
 
-- **地点**：Philadelphia（cotton mill, saloon, Jefferson Medical College, Rossi mansion, potter's field, séance room）
+- **地点**：（, , , , 's , sé）
 
-- **人物**：Arthur Sullivan（叙述者，orphan, resurrection man, atheist）；Joseph（friend, God-fearing, soul-believer, murdered by Rossi）；Filippo Rossi（scientist, soul-tether researcher）；Charlie Davis（deliveryman）；medium（female, channeling Joseph）；Arthur's grandparents (Spiritualists, séance attendees); Mary Sullivan (grandmother, Mumler spirit photo)
+- **人物**：（叙述者，, , ）；（, God-, -, ）；（, -）；（）；（, ）；'s ; 
 
-- **叙事手法**：Third-person limited (Arthur) with embedded séance frame; historical fiction (1880s Philadelphia, grave robbing, Spiritualism, anatomy); dual timeline (past narrative + present séance); séance as frame device; "is there suffering?" as final question; open ending
+- **叙事手法**：- sé; (1880s , , , ); ; sé; as ; 
 
-- **与后文的钩子**：Strahan Introduction 提到 Samantha Mills's dark tale of grave robbers and a scientist who seeks to anchor the soul。本篇是选集的 historical horror 代表——death 作为 experimental subject; soul-tether; "is there suffering?" as the question death can't answer。主题：death as scientific problem; grief as haunting; the dead's experience unknowable。
+- **与后文的钩子**： 提到（见原文）。本篇是选集的 代表—— 作为 ; -; as the 't 。主题：; ; the 's 。
 
 ## 精读
 
@@ -109,4 +109,4 @@
 
 ## 一句话总结
 
-Mills 的 "A Shovel, a Rope, and a Bottle of Whiskey" 是选集中最 darkly historical 的 horror：Arthur Sullivan 与 Joseph 作为 resurrection men（盗墓者）为 anatomist 提供尸体；Joseph 被 scientist Filippo Rossi 的 soul-tether 实验吸引，最终 volunteered 自己作为实验体死亡；Arthur 杀死 Rossi 为 Joseph 复仇，埋尸后多年求 séance 与 Joseph 通灵，medium 告诉他 "Undoubtedly" there is life after death，Arthur 问 "Is there suffering?"——故事停在 medium 的回答之前。Mills 的 thesis："death exists, but its quality (suffering or peace) is unknowable"—Arthur's guilt hinges on this unknown. The "light" (soul-tether evidence) shatters Arthur's materialism but doesn't resolve his guilt. "Is there suffering?" = the question death can't answer. This is the anthology's "death as scientific problem" counterpoint. Theme: death as experimental subject; grief as haunting; the dead's experience unknowable; faith as choice not revelation.
+ 的 是选集中最 的 ： 与 作为 （盗墓者）为 提供尸体； 被 的 - 实验吸引，最终 自己作为实验体死亡； 杀死 为 复仇，埋尸后多年求 sé 与 通灵， 告诉他 ， 问 ——故事停在 的回答之前。 的 ：—'s . The 's 't . = the 't . 's . 

@@ -2,17 +2,17 @@
 
 ## 本章导航
 
-- **一句话概括**：Documentary-style account of Martian Royal Shaft Grave 7 (Queenswell)—largest burial site on Mars; 85 queens buried over Fifth Empire; Queen 85's tomb (QW85) empty; mummy found 2000km away in Terra Sabaea (Lost Queen's Tomb); Neumann's autobiography suggests Queen 85 "found she did not want to go in"—refused burial in her tomb, fled to die elsewhere. Death as refusal of ritual; "The queen is dead. Long live the queen." (Powell's fictional account of ritual).
+- **一句话概括**：- 7 —; 85 ; 85's ; 2000km ; 's 85 —, . ; .
 
-- **时间**：Martian Year (MY) 131 discovery; Fifth Empire (Martian dynasty)
+- **时间**： 131 ; 
 
-- **地点**：Mars (Margaritifer Terra, Aram Chaos, Terra Sabaea, Olympus)
+- **地点**： 
 
-- **人物**：Professor Anna Neumann (areoarchaeologist, author of In the Footsteps of the Queens)；Sophie Becker (research assistant, fell to death)；Jeremiah Powell (bestselling author, Secrets of the Queenswell)；Queen Iron (first queen, QW1)；Queen 85 (missing mummy, found in Terra Sabaea)
+- **人物**： ； ； ； ； 85 
 
-- **叙事手法**：Academic documentary (archaeological report style); fictional academic paper with footnotes; Powell's fictional account embedded; Neumann's autobiography excerpts; "Perhaps she found she did not want to go in" as Neumann's closing speculation
+- **叙事手法**： ; ; 's ; 's ; as 's 
 
-- **与后文的钩子**：Strahan Introduction 提到 "Tamsyn Muir's story of a Martian royal tomb, and the queen who may have refused to be buried in it." 本篇是选集的 SF/documentary 代表——death 作为 ritual (burial ceremony); Queen 85's refusal = death as choice; "perhaps she found she did not want to go in" = death as refusal of expected path. Theme: death as ritual; burial as dynastic performance; refusal of burial as agency; "The queen is dead. Long live the queen" = death's continuity.
+- **与后文的钩子**： 提到 本篇是选集的 SF/ 代表—— 作为 ; 85's = ; = . 
 
 ## 精读
 
@@ -90,4 +90,4 @@
 
 ## 一句话总结
 
-Muir 的 "The Well of the Martian Queens" 是选集中最 documentary-style SF 的 story：Documentary-style account of Martian Royal Shaft Grave 7 (Queenswell)—largest burial site on Mars; 85 queens buried over Fifth Empire; Queen 85's tomb (QW85) empty; mummy found 2000km away in Terra Sabaea (Lost Queen's Tomb); Neumann's autobiography suggests Queen 85 "found she did not want to go in"—refused burial in her tomb, fled to die elsewhere. Muir 的 thesis："death as ritual and refusal"—burial as dynastic performance ("The queen is dead. Long live the queen" = death as continuity); Queen 85's refusal = death as choice (not duty); "layered treasures and layered sins" = dynastic accumulation (wealth + guilt); "like me" = Neumann's empathy (she felt pull to fall). "Perhaps she found she did not want to go in" = death as refusal of expected path. This is the anthology's "death as refusal" counterpoint. Theme: death as ritual; burial as dynastic performance; refusal of burial as agency; "The queen is dead. Long live the queen" = death's continuity; "did not want to go in" = death as choice. Queen 85's agency: she saw her tomb and refused. Death as choice, not duty. Neumann's empathy: "like me, she found she did not want to go in." Death as personal, not institutional. Powell's fictional account seized public imagination—"The queen is dead. Long live the queen." = death's power through simplicity. But the real story (Queen 85's refusal) is quieter, more human. Death as refusal. Death as choice. "Perhaps she found she did not want to go in." = the story's final word. Death as agency.
+ 的 是选集中最 - 的 ：- 7 —; 85 ; 85's ; 2000km ; 's 85 —, . 的 ：— ( = ); 85's = ; = ; = 's . = . 's . 

@@ -2,17 +2,17 @@
 
 ## 本章导航
 
-- **一句话概括**：Narrator (Vietnamese maid "Peony"/"Rose") 与 Xiulan (Chinese maid, ill, hungry) 服侍 Page family；Xiulan 病重， narrator 偷 food for her；Xiulan becomes monster (eats Mrs. Page's tongue/jaw), narrator helps her escape; on train, Xiulan says "sister, I'm hungry"—narrator realizes Xiulan will eat people (including narrator?). Death as hunger; "I'm hungry" refrain; transformation.
+- **一句话概括**： 与 服侍 ； 病重， 偷 ； , ; on , — . ; ; .
 
-- **时间**：19th century? (American South, Hollycross, Pages, servants)
+- **时间**：19th ? 
 
-- **地点**：Hollycross (Page house); Chicago Union Station
+- **地点**： ; 
 
-- **人物**：Narrator (Vietnamese maid, "Peony"/"Rose", orphan of Saigon port)；Xiulan (Chinese maid, Guangzhou, ill, becomes monster)；Mrs. Page (mistress, killed by Xiulan)；Mr. Page (killed by Xiulan)
+- **人物**： ； ；Mrs. ；Mr. 
 
-- **叙事手法**：First-person (narrator); Southern Gothic; death as hunger; "I'm hungry" refrain; Xiulan's transformation from ill maid to monster; narrator's complicity (helps Xiulan escape); "kind of living death" as maid work
+- **叙事手法**：- ; ; ; ; 's ; 's ; as 
 
-- **与后文的钩子**：Strahan Introduction 提到 "Nghi Vo's story of two maids in a household, and the hunger that consumes them." 本篇是选集的 Southern Gothic 代表——death 作为 hunger; "I'm hungry" = death's refrain; Xiulan's transformation from ill to monster; narrator's complicity. Theme: death as hunger; "kind of living death" = maid work; "I'm hungry" = death's voice; narrator's love/complicity.
+- **与后文的钩子**： 提到 本篇是选集的 代表—— 作为 ; = 's ; 's ; 's . 
 
 ## 精读
 
@@ -56,11 +56,11 @@
 
 - **读者视角提示**：Vo's "I'm hungry" = death's refrain. Xiulan's hunger = death's voice. Transformation complete.
 
-> **原句 5:** "sister, I'm hungry."
+> **原句 5:** "But sis, I'm hungry."
 
-- **中文理解**：「sister, I'm hungry。」Final line—Xiulan's final words on train. "Sister" = narrator (now "sister"); "I'm hungry" = death's demand. "Her eyes flickered to the other people on the platform" = Xiulan eyeing prey. This is the story's ending—Xiulan's hunger is now predatory.
+- **中文理解**：「But sis, I'm hungry。」Final line—Xiulan's final words on train. "Sister" = narrator (now "sister"); "I'm hungry" = death's demand. "Her eyes flickered to the other people on the platform" = Xiulan eyeing prey. This is the story's ending—Xiulan's hunger is now predatory.
 
-- **关键词**：sister, I'm hungry
+- **关键词**：sis, I'm hungry
 
 - **为什么这样写**：Vo's final line—"sister, I'm hungry" with Xiulan's eyes on other people = predatory hunger. "Sister" = narrator's new role (Xiulan's sister, not just maid). "I'm hungry" = death's demand, now directed at others. "Her eyes flickered to the other people" = Xiulan eyeing prey. This is the story's horror: Xiulan is now predator, narrator is complicit.
 
@@ -110,4 +110,4 @@
 
 ## 一句话总结
 
-Vo 的 "The Heart in Service to Hunger" 是选集中最 Southern Gothic 的 story：Narrator (Vietnamese maid "Peony"/"Rose") 与 Xiulan (Chinese maid, ill, hungry) 服侍 Page family；Xiulan 病重， narrator 偷 food for her；Xiulan becomes monster (eats Mrs. Page's tongue/jaw), narrator helps her escape; on train, Xiulan says "sister, I'm hungry"—narrator realizes Xiulan will eat people (including narrator?). Vo 的 thesis："death as hunger"—"I'm hungry, so hungry, sis" = death's refrain; "kind of living death" = maid work (invisible, exhausting, dehumanizing); "Mrs. Page's tongue" + "hollowed out" = Xiulan's predation; "sister, I'm hungry" = death's demand, now predatory. "I thought of Mrs. Page's tongue. I thought of Mr. Page, hollowed out" = narrator's complicity (knew Xiulan ate them, helped escape). "She wouldn't be dead" = narrator's denial. "Xiulan wants it, I'd tell them" = narrator's rationalization. "I'm hungry, so hungry, sis" = death's voice. This is the anthology's "death as hunger" counterpoint. Theme: death as hunger; "living death" = maid work; Xiulan's transformation from ill maid to monster; narrator's complicity; "I'm hungry" = death's refrain; violence for survival; love as complicity. The story's horror: Xiulan eats the Pages (tongue, organs), narrator helps her escape, Xiulan's final "sister, I'm hungry" with eyes on others = predatory hunger continues. Death as consumption, not ending. "sister, I'm hungry" = death's voice, now directed at others (including narrator). The narrator's final acceptance: "Of course you'll find me something good to eat." = narrator's resignation to Xiulan's predation. Death as hunger, complicity, transformation. "I'm hungry" = the story's final word—death's demand, unending.
+Vo 的 是选集中最 的 ： 与 服侍 ； 病重， 偷 ； , ; on , — . Vo 的 ：— = 's ; = ; + = 's ; = 's , now . = 's . = 's . = 's . = 's . 's . 

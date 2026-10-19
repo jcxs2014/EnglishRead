@@ -2,17 +2,17 @@
 
 ## 本章导航
 
-- **一句话概括**：叙述者（"Insect Girl" artist）与 friends Rinko/Aya 在 Halloween 前后经历：Rinko 被 abuse（bruise on neck），vocalist spikes drinks，narrator witnesses Aya (predator/monster) eating the vocalist (slow devouring excavation)，narrator accepts Aya's nature and her own desire to watch; Rinko disappears/reappears; narrator reflects on parents' death, love, sex, violence, and "Aya wanted me to live."
+- **一句话概括**：叙述者（ ）与 /Aya 在 前后经历： 被 （），， ，'s ; /; ' , , sex, , and 
 
-- **时间**：当代日本（university, Namba, Dotonbori, Halloween parade）
+- **时间**：当代日本（, , , ）
 
-- **地点**：Osaka (Namba, Dotonbori, Kyogei art school, karaoke rooms)
+- **地点**： 
 
-- **人物**：叙述者 (Insect Girl, artist, orphan)；Rinko (beautiful, abused by vocalist, blue pigtails)；Aya (predator, "gap moe," eats people)；drummer (Korean exchange student)；vocalist (missing, spiked drinks, eaten by Aya)；narrator's parents (car accident)
+- **人物**：叙述者 ； ；Aya ； ； ；'s 
 
-- **叙事手法**：First-person (narrator); dark fantasy/horror with magical realism (Aya as predator/monster); coming-of-age with death; "eaten" people (vocalist, office lady, Sailor Moon); narrator as witness/complicit; love as hunger
+- **叙事手法**：- ; / ; -of-age ; ; /; 
 
-- **与后文的钩子**：Strahan Introduction 提到 "Silvia Park's story of a young woman who witnesses her friend being eaten, and must decide what to do." 本篇是选集的 dark fantasy/horror 代表——death 作为 predation ("eaten"); Aya as monster who "loves" by consuming; narrator's acceptance of violence. Theme: death as predation; love as hunger; complicity as witness; "Aya wanted me to live."
+- **与后文的钩子**： 提到 本篇是选集的 / 代表—— 作为 (); Aya as ; 's . 
 
 ## 精读
 
@@ -110,4 +110,4 @@
 
 ## 一句话总结
 
-Park 的 "Now Watch Me as You Hold Your Breath" 是选集中最 dark fantasy/horror 的 story：叙述者（"Insect Girl" artist）与 friends Rinko/Aya 在 Halloween 前后经历：Rinko 被 abuse（bruise on neck），vocalist spikes drinks，narrator witnesses Aya (predator/monster) eating the vocalist (slow devouring excavation)，narrator accepts Aya's nature and her own desire to watch; Rinko disappears/reappears; narrator reflects on parents' death, love, sex, violence, and "Aya wanted me to live." Park 的 thesis："death as predation"—Aya eats people (vocalist, office lady, Sailor Moon); "slow, devouring excavation" = death by predation as slow process; "Aya wanted me to live" = predator protects narrator (ambiguous); "Some people deserve it" = narrator's judgment (vocalist deserved to be eaten). "I loved being a girl even though I felt so small and weak" = affirmation despite vulnerability. This is the anthology's "death as predation" counterpoint. Theme: death as predation; love as hunger; complicity as witness; "Aya wanted me to live"; violence for the sake of violence; love for the sake of love. Narrator's final love list = life affirmation despite witnessing predation. "I wished I could get drunk. I wished Rinko and Aya fell in love." = narrator's desires amid darkness. The story's horror: narrator accepts Aya's predation, even desires to watch. Death as consumption, not ending.
+ 的 是选集中最 / 的 ：叙述者（ ）与 /Aya 在 前后经历： 被 （），， ，'s ; /; ' , , sex, , and 的 ：—Aya ; = ; = ; = 's . = . 's . 

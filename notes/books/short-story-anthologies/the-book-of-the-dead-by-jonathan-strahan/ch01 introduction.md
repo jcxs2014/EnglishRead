@@ -2,12 +2,12 @@
 
 ## 本章导航
 
-- **一句话概括**：编辑 Jonathan Strahan 回溯《The Book of the Dead》的起源——2023 年塔斯马尼亚之行中被 Day of the Dead 骷髅启发，进而思考 SF/幻想/恐怖三大类型中「死亡」的不同处理方式，最终集结二十余位作者，以死亡为主题编成这部选集。
-- **时间**：2023 年初（Strahan 完成《The Book of Witches》之后）→ 塔斯马尼亚之行（秋）→ 2025 年 8 月（Perth）定稿
-- **地点**：塔斯马尼亚 Hobart（ Mexican 餐厅）；Perth（定稿地）
-- **人物**：Jonathan Strahan（编辑/叙述者）；Terry Pratchett（Bill Door）；Garth Nix（Sabriel）；Ursula K. Le Guin（Earthsea）；Tolkien；Mary Shelley（Frankenstein）；Stephen Graham Jones；Tamsyn Muir；Indrapramit Das；Kaaron Warren；Daryl Gregory；Jeffrey Ford；Paolo Bacigalupi
+- **一句话概括**：编辑 回溯《The 》的起源——2023 年塔斯马尼亚之行中被 Day of the 骷髅启发，进而思考 SF/幻想/恐怖三大类型中「死亡」的不同处理方式，最终集结二十余位作者，以死亡为主题编成这部选集。
+- **时间**：2023 年初（ 完成《The 》之后）→ 塔斯马尼亚之行（秋）→ 2025 年 8 月（）定稿
+- **地点**：塔斯马尼亚 （ 餐厅）；（定稿地）
+- **人物**：（编辑/叙述者）；（）；（）； K. Le （）；；（）；；；；；；；
 - **叙事手法**：第一人称编辑手记——从个人灵感出发，扩展为类型史综述，最后落回选集的组织逻辑与阅读顺序
-- **与后文的钩子**：Strahan 明确指出阅读顺序：Das 开篇（火车上的道德抉择）→ Warren 收尾（熟悉死亡却需逃离的家庭）；中间穿插 Gregory 的动物实验恐怖、Ford 的死后重逢幻想、Bacigalupi 的暴力刺客、Nix 的 Old Kingdom 回归。全书是一幅「死亡的巨幅壁画」。
+- **与后文的钩子**： 明确指出阅读顺序：Das 开篇（火车上的道德抉择）→ 收尾（熟悉死亡却需逃离的家庭）；中间穿插 的动物实验恐怖、 的死后重逢幻想、 的暴力刺客、Nix 的 Old 回归。全书是一幅「死亡的巨幅壁画」。
 
 ## 精读
 
@@ -99,4 +99,4 @@
 
 ## 一句话总结
 
-Strahan 的 Introduction 是整部选集的「策展宣言」：从塔斯马尼亚餐厅里十六个 calaveras 骷髅的视觉冲击出发，他把「死亡」翻译为 SF/幻想/恐怖三种类型的不同处理方式——Fantasy 把死亡人物化与土地化（Bill Door、Sabriel 的九层 precincts），SF 把死亡技术化（deferred/cheated/transformed），Horror 把死亡「在场化」（close at hand）——然后集结二十余位作者，以 Das 的火车道德困境开篇、Warren 的家庭熟悉死亡收尾，编成一幅「死亡的巨幅壁画」。全篇的核心主张是：死亡不是抽象的，而是「我们最深的弱点与最强的力量」。
+ 的 是整部选集的「策展宣言」：从塔斯马尼亚餐厅里十六个 骷髅的视觉冲击出发，他把「死亡」翻译为 SF/幻想/恐怖三种类型的不同处理方式—— 把死亡人物化与土地化（、 的九层 ），SF 把死亡技术化（//）， 把死亡「在场化」（）——然后集结二十余位作者，以 Das 的火车道德困境开篇、 的家庭熟悉死亡收尾，编成一幅「死亡的巨幅壁画」。全篇的核心主张是：死亡不是抽象的，而是「我们最深的弱点与最强的力量」。

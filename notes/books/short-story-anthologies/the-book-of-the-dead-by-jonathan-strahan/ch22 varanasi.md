@@ -2,17 +2,17 @@
 
 ## 本章导航
 
-- **一句话概括**：Lucy (mortician, Kirkland & Sons) 与 estranged brother Jude（在 Varanasi 成为 "keeper of the dead"）重逢；Jude 回来揭示自己能与死人沟通；Lucy 回忆 childhood mortuary incident（old woman's corpse possessed Jude with smoke），Jude explains "Grief is all the love that remains which we don't know what to do with"；Jude 带 Varanasi to Lucy—"I've brought Varanasi to you."
+- **一句话概括**： 与 （在 成为 ）重逢； 回来揭示自己能与死人沟通； 回忆 （old 's ）， ； 带 —
 
-- **时间**：当代英国（Lucy 中年，Jude 长期失踪后返回）
+- **时间**：当代英国（ 中年， 长期失踪后返回）
 
-- **地点**：Kirkland & Sons mortuary (Lucy's business); Varanasi (India, referenced); childhood home
+- **地点**： & ; ; 
 
-- **人物**：Lucy (narrator, mortician, "Diamond in the Sky")；Jude (brother, disappeared to Varanasi, "keeper of the dead")；Mum/Dad (deceased parents)；Uncle Peter (saved Dad's life with CPR)；Maria Brace (doctor, made mistake pronouncing woman dead)；Michelle (older sister, Inland Revenue)；Richard (Lucy's employee)
+- **人物**： ； ；Mum/Dad ； ； ； ； 
 
-- **叙事手法**：First-person (Lucy); mortuary family drama; second-person address to Jude ("you"); embedded childhood memory; "Grief is all the love that remains" as thesis; death as profession vs. calling
+- **叙事手法**：- ; ; - (); ; as ; . 
 
-- **与后文的钩子**：Strahan Introduction 提到 Priya Sharma's story of a mortician and her brother who has been to Varanasi, and what he brings back。本篇是选集的 mortuary family drama 代表——death 作为 family business; Jude as "keeper of the dead" (draws out souls); "Grief is all the love that remains which we don't know what to do with" = death's grief theory。主题：death as vocation; grief as unspent love; "I've brought Varanasi to you" = death's gift。
+- **与后文的钩子**： 提到（见原文）。本篇是选集的 代表—— 作为 ; ; = 's 。主题：; ; = 's 。
 
 ## 精读
 
@@ -109,4 +109,4 @@
 
 ## 一句话总结
 
-Sharma 的 "Varanasi" 是选集中最 mortuary-family-drama 的 story：Lucy (mortician, Kirkland & Sons) 与 estranged brother Jude（在 Varanasi 成为 "keeper of the dead"）重逢；Jude 回来揭示自己能与死人沟通；Lucy 回忆 childhood mortuary incident（old woman's corpse possessed Jude with smoke），Jude explains "Grief is all the love that remains which we don't know what to do with"；Jude 带 Varanasi to Lucy—"I've brought Varanasi to you." Sharma 的 thesis："death as vocation and gift"—Lucy's mortuary work (making death visible) vs. Jude's keeper work (communicating with dead); "Grief is all the love that remains which we don't know what to do with" = grief as unspent love; "Death, not sex, is the last taboo" = social critique (death hidden). "The dying flock to us" = Jude's vocation. "I've brought Varanasi to you" = death's gift (access to dead souls). This is the anthology's "death as vocation" counterpoint. Theme: death as family business; grief as unspent love; "I've brought Varanasi to you" = death's gift; communication with dead as healing. "Grief feels like fear" = grief's phenomenology. "Death is easy, but dying is the hardest thing in the world" = death (state) vs. dying (process). Jude's return = giving grief an outlet. Lucy's final acceptance: "It can't be wrong. It's you." = trust in death's communication. Death as vocation, not just profession.
+ 的 是选集中最 -- 的 ： 与 （在 成为 ）重逢； 回来揭示自己能与死人沟通； 回忆 （old 's ）， ； 带 — 的 ：—'s . 's ; = ; = . = 's . = 's . 's . 

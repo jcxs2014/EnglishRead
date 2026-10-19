@@ -2,17 +2,17 @@
 
 ## 本章导航
 
-- **一句话概括**：Valente 的 cosmic death narrative—叙述者死后 fall past universe's edge into "The Last House" (built from home's memories); lunarium (moonlight room) where all knowledge exists; narrator explores death's geography (Elytra, zinzolin, Auriga serpents); death as expansion into universe ("You lived. And you died. You contracted, cooled, regretted... And you will expand"); final: "Take my hand (which is not a hand). Take your time (which is nothing). And I will meet you in the sky when we are both big."
+- **一句话概括**： 的 —叙述者死后 's ; ; 's ; (); : 
 
-- **时间**：cosmic (death as universal timescale)
+- **时间**： 
 
-- **地点**：The Last House (at end of universe); lunarium; black disc (500km diameter); pond; tree
+- **地点**：The ; ; (500km ); ; 
 
-- **人物**：narrator (first-person, "I"); unnamed other (second-person "you"); Elytra (Thuban dragonfly-crabs); zinzolin (moons of pink-black world); Auriga serpents (rainbow, kilometer-long, aquatic intelligence)
+- **人物**： ; ; ; ; 
 
-- **叙事手法**：Second-person ("you") + first-person ("I"); cosmic prose poem; death as universal geography; "Nothing that follows this paragraph is true"; "In the End was the Word"; expansion/contraction cosmology; "Take my hand (which is not a hand)"
+- **叙事手法**：- () + - (); ; ; ; ; /; 
 
-- **与后文的钩子**：Strahan Introduction 提到 "Catherynne M. Valente's story of what happens when you die—falling past the universe's edge into a house built from memory." 本篇是选集的 cosmic death 代表——death 作为 universal expansion; "The House" = built from home's memories; "In the End was the Word" = death as language. Theme: death as expansion into universe; "You lived. And you died." = death as process not event; "Take my hand (which is not a hand)" = death as connection.
+- **与后文的钩子**： 提到 本篇是选集的 代表—— 作为 ; = 's ; = . 
 
 ## 精读
 
@@ -111,4 +111,4 @@
 
 ## 一句话总结
 
-Valente 的 "This Is What Happens When You Die" 是选集中最 cosmic 的 death narrative：narrator 死后 fall past universe's edge into "The Last House" (built from home's memories); lunarium (moonlight room) where all knowledge exists; narrator explores death's geography (Elytra, zinzolin, Auriga serpents); death as expansion into universe ("You lived. And you died. You contracted, cooled, regretted... And you will expand"); final: "Take my hand (which is not a hand). Take your time (which is nothing). And I will meet you in the sky when we are both big." Valente 的 thesis："death as expansion, not end"—"The matter in you must die. The space cannot" = matter dies, space persists; "It is not heaven. It is not hell. It simply is" = death beyond theology; "Nothing that follows this paragraph is true" = death beyond language; "In the End was the Word" = inversion of John 1:1 (death, not creation, is Word's home); "The Word is you" = identity persists; "Take my hand (which is not a hand)" = connection beyond physical; "Take your time (which is nothing)" = time's irrelevance; "meet you in the sky when we are both big" = death as cosmic expansion. "You lived. And you died." = pivot from cosmic to personal. "Both big" = death makes us universe-sized. This is the anthology's "death as cosmic expansion" counterpoint. Theme: death as expansion into universe; "The House" built from home's memories; lunarium where all knowledge exists; "In the End was the Word" = death as language; "Take my hand (which is not a hand)" = death as connection; "meet you in the sky when we are both big" = death as growth. Death not end but expansion—matter dies, space (and identity) persists. "All the loving, knowing dead still so close by." = death as proximity, not absence. "No one is alone in this place." = death as connection. "It was always you." = death's truth is self. "It was all of us." = death as universal. "Take my hand (which is not a hand). Take your time (which is nothing). And I will meet you in the sky when we are both big." = final invitation. Death as cosmic expansion, not end. Life as brief; death as eternal growth. "You will feel... the life of constellations... All these things, you will feel... as yourself." = death as feeling everything. "So will I." = narrator joins. "So will a kilometer-long iridescent ocean-wyrm... So will a moon... So will a dragonfly..." = all beings, together. Death as universal connection. "In the dark. In the light. In the beauty of it, beyond what any thought was meant to bear." = death's beauty beyond comprehension. Final: "Take my hand (which is not a hand). Take your time (which is nothing). And I will meet you in the sky when we are both big." = invitation to death as expansion.
+ 的 是选集中最 的 ： 死后 's ; ; 's ; (); : 的 ：— = , ; = ; = ; = 1:1 ; = ; = ; = 's ; = . = . = -. 's . 

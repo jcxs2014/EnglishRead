@@ -2,17 +2,17 @@
 
 ## 本章导航
 
-- **一句话概括**：Ship's engineer Benjamin Minoy 来访 sister Allison（Shrifby 的退休医生/Charter mage）；在 excavation 中发现 necromantic Seven Bells（埋藏的死灵法器）；bell 响起杀死 Alf Jerrow；Allison 与 Benjamin 护送 bells 到 Fort Janne，途中 Allison 死于 cancer/Charter magic exhaustion，Benjamin 也 fatally wounded；Abhorsen (Tizanael) 与 Abhorsen-in-Waiting 到达，用 Charter magic 度化 Allison 的 spirit（she stands in the death river, pulling Benjamin's soul across）——Allison 的 spirit 因 "calling"（healer/midwife, brought hundreds into Life) anchor her against the river's current, allowing her to guide Benjamin across.
+- **一句话概括**：'s 来访 （ 的退休医生/）；在 中发现 （埋藏的死灵法器）； 响起杀死 Alf ； 与 护送 到 ，途中 死于 /， 也 ； 与 -in- 到达，用 度化 的 （she , 's ）—— 的 因 （/, ) 's , .
 
-- **时间**：Ancelstierre/Old Kingdom universe (Nix's Old Kingdom series); "Year of the Two Columns of Granite"
+- **时间**：/Old ; 
 
-- **地点**：Shrifby (northernmost village, 22 miles south of Wall); Fort Janne; death river (afterlife)
+- **地点**： ; ; 
 
-- **人物**：Benjamin Minoy (ship's engineer, cancer); Allison Minoy (Dr. Minoy, retired doctor, Charter mage, heart failing); Alf Jerrow (victim of bell); Abhorsen Tizanael (death mage, woman); Abhorsen-in-Waiting (boy, Charter mage); necromancer (implied, drawn to bells)
+- **人物**： ; ; Alf ; ; -in- ; 
 
-- **叙事手法**：Third-person limited (Benjamin) → shifts to Tizanael (Abhorsen) in section 3-7; Old Kingdom series conventions (Charter magic, Free Magic, bells, Abhorsen, Wall); death as river crossing; psychopomp as Abhorsen
+- **叙事手法**：- → 3-7; Old ; ; 
 
-- **与后文的钩子**：Strahan Introduction 提到 Garth Nix's story of a village near the Wall, where seven necromantic bells are unearthed, and a doctor must confront the Dead。本篇是选集的 Old Kingdom fantasy 代表——death 作为 river crossing; bells as necromantic tools; Abhorsen as psychopomp。主题：death as service (healer's calling anchors her); "the river takes the departed swiftly" but love/calling can resist。
+- **与后文的钩子**： 提到（见原文）。本篇是选集的 Old 代表—— 作为 ; ; 。主题： ; but /。
 
 ## 精读
 
@@ -30,7 +30,7 @@
 
 - **中文理解**：「A necromancer's bells，」said Allison。」The warning bell in the village tower tolled as she spoke, as if to lend extra emphasis to her words。」Allison 识别出 Seven Bells 为 necromantic tools——埋藏在 swift running water 之下（water 作为 barrier against death magic）。One bell sounded = killed Alf Jerrow。"Bound in silver chain" = containment; "buried under swift running water" = water suppresses death magic. (详见 text 第 456-462 行)
 
-- **关键词**：necromancer's bells / buried under swift running water / one of the bells has sounded / killed Alf Jerrow
+- **关键词**：necromancer's bells
 
 - **为什么这样写**：Nix establishes bells as necromantic artifacts—buried under running water (water suppresses death magic). One sounding = death. "Bound in silver chain" = containment (silver = anti-death metal). The bells "seek to sound" (have agency). This is Nix's magic system: death magic can be contained but not destroyed; running water = natural barrier.
 
@@ -109,4 +109,4 @@
 
 ## 一句话总结
 
-Nix 的 "Seven Bells" 是选集中最 Old Kingdom fantasy 的 story：Ship's engineer Benjamin Minoy 来访 sister Allison（Shrifby 的退休医生/Charter mage）；在 excavation 中发现 necromantic Seven Bells（埋藏的死灵法器）；bell 响起杀死 Alf Jerrow；Allison 与 Benjamin 护送 bells 到 Fort Janne，途中 Allison 死于 cancer/Charter magic exhaustion，Benjamin 也 fatally wounded；Abhorsen (Tizanael) 与 Abhorsen-in-Waiting 到达，用 Charter magic 度化 Allison 的 spirit（she stands in the death river, pulling Benjamin's soul across）——Allison 的 spirit 因 "calling"（healer/midwife, brought hundreds into Life) anchor her against the river's current, allowing her to guide Benjamin across. Nix 的 thesis："death as river crossing; service persists"—Allison's calling as healer/midwife gives her power in death; "the river takes the departed swiftly" but "her power to remain comes from her calling." "Golden light" = Charter magic (life) persists in death; death as transformation, not destruction. This is the anthology's "death as service" counterpoint. Theme: death as service; calling as anchor; life magic in death; transformation not destruction. "Not arrogance of will, a desire for power, nor fear of the final death"—death resisted by purpose, not will.
+Nix 的 是选集中最 Old 的 ：'s 来访 （ 的退休医生/）；在 中发现 （埋藏的死灵法器）； 响起杀死 Alf ； 与 护送 到 ，途中 死于 /， 也 ； 与 -in- 到达，用 度化 的 （she , 's ）—— 的 因 （/, ) 's , . Nix 的 ：—'s /; but = ; , not . 's . 

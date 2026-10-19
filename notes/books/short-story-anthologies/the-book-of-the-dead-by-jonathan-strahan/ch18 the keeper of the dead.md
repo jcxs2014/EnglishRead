@@ -2,17 +2,17 @@
 
 ## 本章导航
 
-- **一句话概括**：Keeper of the Dead（不死的 domain lord）发现 study 里有 little girl Enitan（dead soul，但无法 banish）；Enitan 带来 cats，清理 home，Keeper 从 grumpy 变 soft；Keeper 发现 Enitan 是 living child（wish granted by burning her book）被送入 death realm，他送她进 Lake（whirlpool）以为 banish，但其实 killed her；Keeper 从 Fates 换回 Enitan（give himself in exchange），被 reborn as human father，Enitan 为 daughter，Christmas scene。
+- **一句话概括**：（不死的 ）发现 里有 （，但无法 ）； 带来 ，清理 ， 从 变 ； 发现 是 （）被送入 ，他送她进 （）以为 ，但其实 ； 从 换回 （），被 ， 为 ，。
 
-- **时间**：mythic/fantasy (Keeper immortal, "eons of routine")
+- **时间**：/ 
 
-- **地点**：Shores of Midnight (lone tower, Lake of Midnight, whirlpool); human world (bookshop at Christmas)
+- **地点**： ; 
 
-- **人物**：Keeper of the Dead (unnamed, immortal, lonely, "Grumpy")；Enitan (dead girl, living child who wished for better life, author of diary)；Muna (cat, tabby)；cats (many)；Fates (Crone, Mother, Maiden)
+- **人物**： ； ； ； ； 
 
-- **叙事手法**：Third-person (Keeper) with fairy-tale tone; Keeper's POV; Enitan's diary as embedded narrative; Fates as deus ex machina; transformation/rebirth; "On the Shores of Midnight broods a lone tower" as opening refrain
+- **叙事手法**：--; 's POV; 's ; ; /; as 
 
-- **与后文的钩子**：Strahan Introduction 提到 Tobi Ogundiran's story of the Keeper of the Dead, who must confront a child who shouldn't be in his domain。本篇是选集的 fairy-tale fantasy 代表——death 作为 "domain" (Keeper's realm); Keeper as immortal caretaker who learns love through Enitan; "give yourself in exchange" = death as sacrifice for life。主题：death as duty vs. love; "Father" as earned title; rebirth through sacrifice。
+- **与后文的钩子**： 提到（见原文）。本篇是选集的 - 代表—— 作为 ; ; = 。主题：. ; as ; 。
 
 ## 精读
 
@@ -119,4 +119,4 @@
 
 ## 一句话总结
 
-Ogundiran 的 "The Keeper of the Dead" 是选集中最 fairy-tale 的 story：Keeper of the Dead（不死的 domain lord）发现 study 里有 little girl Enitan（dead soul，但无法 banish）；Enitan 带来 cats，清理 home，Keeper 从 grumpy 变 soft；Keeper 发现 Enitan 是 living child（wish granted by burning her book）被送入 death realm，他送她进 Lake（whirlpool）以为 banish，但其实 killed her；Keeper 从 Fates 换回 Enitan（give himself in exchange），被 reborn as human father，Enitan 为 daughter，Christmas scene。Ogundiran 的 thesis："death as duty vs. love"—Keeper's duty (banish dead) vs. love (Enitan); "give yourself in exchange" = death as sacrifice for life; "Father" = earned trust. "And whatever you think it is that she writes, that is the truth" = open ending (wishes become reality). This is the anthology's "death as sacrifice" counterpoint. Theme: death as duty vs. love; "Father" as earned title; rebirth through sacrifice; wishes/dreams become reality. Keeper's transformation: from function ("I am the Keeper") to father (human, named by love). "Grumpy" = Enitan's name for him = identity through relationship. Death as Keeper's domain; life as Enitan's wish. Sacrifice as love's price.
+ 的 是选集中最 - 的 ：（不死的 ）发现 里有 （，但无法 ）； 带来 ，清理 ， 从 变 ； 发现 是 （）被送入 ，他送她进 （）以为 ，但其实 ； 从 换回 （），被 ， 为 ，。 的 ：—'s . ; = ; = . = . 's . 

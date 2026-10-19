@@ -2,17 +2,17 @@
 
 ## 本章导航
 
-- **一句话概括**：Premee Mohamed 的多视角死亡叙事——1. 运河（canal）吞噬 Bartram Tellman；2. Coroner Tituli Ched 的 inquisition（溺水死，无魔法/犯罪）；3. 死亡 psychopomp（女骑士骑黑狐）接引 Bartram 的 soul；4. Bartram 的 post-mortem rant（arrogant wizard, abuse of daughters）；5. Judeth（大女儿）在 morgue 看到父亲尸体，回忆 abuse 与 Philippa 的可能 revenge；6. Philippa 的视角（dog POV? no—dog section 6 is the dog's? Actually section 6 is the dog's POV? Let me check: section 6 starts "It rained. I heard it from the place where I sleep..." — that's the dog Dux's POV)；7. Philippa & Judeth reunite at morgue, decide to leave together.
+- **一句话概括**： 的多视角死亡叙事——1. 运河（）吞噬 ；2. 的 （溺水死，无魔法/犯罪）；3. 死亡 （女骑士骑黑狐）接引 的 ；4. 的 -（, ）；5. （大女儿）在 看到父亲尸体，回忆 与 的可能 ；6. 的视角（dog POV? no—dog 6 is the dog's? 6 is the dog's POV? Let me : 6 — 's the dog Dux's POV)；7. & , .
 
-- **时间**：Year of the Two Columns of Granite（fantasy calendar）
+- **时间**：（）
 
-- **地点**：Canal city（fantasy）；coroner's office；morgue；Bartram's house
+- **地点**：（）；'s ；；'s 
 
-- **人物**：Bartram Tellman（deceased wizard, Royal Society of Wizards, abusive father）；Judeth（older daughter, abused, runs dairy）；Philippa（younger daughter, accepted to St. Algomir's wizardry program）；Tituli Ched（coroner）；death psychopomp (female, rides black fox); Mrs. Shirley Lindi (housekeeper); Matthias Trag (baker's boy); Dux (dog)
+- **人物**：（, , ）；（, , ）；（, . 's ）；（）； ; Mrs. ; ; Dux 
 
-- **叙事手法**：7 sections, multiple POVs (canal first-person plural, coroner official report, psychopomp first-person, dead man's rant, Judeth, dog? Philippa, Philippa+Judeth); fantasy worldbuilding (Royal Society of Wizards, Quing's Bench); abuse survivor narrative; death as multi-perspective; dog POV section (6) is unusual
+- **叙事手法**：7 , ; ; ; -; dog POV (6) is 
 
-- **与后文的钩子**：Strahan Introduction 提到 Premee Mohamed's story of a man who drowns in a canal, told from seven perspectives including the water itself。本篇是选集的 multi-POV 代表——death 作为 shared event with irreconcilable perspectives; water as active agent。主题：death as relief (for survivors); abuse's aftermath; "the beautiful world... I can now see to be beautiful."
+- **与后文的钩子**： 提到（见原文）。本篇是选集的 -POV 代表—— 作为 ; 。主题： ; 's ; 
 
 ## 精读
 
@@ -109,4 +109,4 @@
 
 ## 一句话总结
 
-Mohamed 的 "Sinking All the While" 是选集中最 multi-perspective 的 death narrative：7 sections, 7 POVs (canal as sentient first-person plural; coroner's official inquisition; death psychopomp on black fox; Bartram's post-mortem rant; Judeth's abuse-survivor perspective; dog Dux's POV; Philippa & Judeth reunion). Mohamed 的 thesis："death as shared event with irreconcilable perspectives"—canal claims innocence ("we are accustomed to blame but we are not to blame"); death delivers souls ("I only deliver souls to the torturers"); Bartram's materialism stripped away ("only what you had within you: your learning, your memory, your love and your grief"); Judeth's liberation ("Tears to wash the world... The beautiful world"). The abuse narrative (Bartram abused Judeth, possibly Philippa killed him) is the story's moral core—death as relief for survivors. "Toward the center" (canal's geometry) vs. "down" (human geometry) = death's perspective differs from living's. This is the anthology's "death as multi-perspective" counterpoint. Theme: death as shared event; abuse's aftermath; survival as seeing beauty.
+ 的 是选集中最 - 的 ：7 , 7 . 的 ：— (); (); 's (); 's (). The 's —. vs. = 's 's. 's . 

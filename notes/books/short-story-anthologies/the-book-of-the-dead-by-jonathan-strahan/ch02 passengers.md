@@ -2,12 +2,12 @@
 
 ## 本章导航
 
-- **一句话概括**： narrator Soumik 在赴喜马拉雅 foothills 的学生旅行中，暗恋同班女生 Yamini；Yamini 在火车厕所里杀死了骚扰她的「红眼男人」，Soumik 帮她毁尸灭迹并短暂接吻；两人共享一个关于死亡列车的噩梦，此后 Soumik 一生被这次经历与 Yamini  haunt。
-- **时间**：学生旅行（ Kolkata → Siliguri → 喜马拉雅 foothills，被取消）；二十多年后 narrator 重坐 sleeper car 回忆
-- **地点**：印度铁路 sleeper coach（Howrah → Siliguri）；Siliguri 三星级酒店 banquet hall；加拿大（Yamini 后来就读）
-- **人物**：Soumik（叙述者，瘦小、暗恋 Yamini）、Yamini（被骚扰、杀人）、Abhishek/Abhi（Yamini 喜欢的男生）、Reya（Yamini 的好友）、Mrs. Bose（数学老师/监护人）、Dhruv（同学）、红眼男人（受害者，未命名）、Yamini 未来的伴侣（加拿大照片中的摄影师）
-- **叙事手法**：第一人称倒叙——成年 Soumik 在 sleeper car 上重忆青春创伤；大量内心独白与感官细节；结尾滑入超现实噩梦（死亡列车、 buffalo rider、 void city）
-- **与后文的钩子**：本篇是选集的开篇（Strahan 在 Introduction 中点名）， establishes 死亡主题的「道德抉择」极：Yamini 用暴力反抗性骚扰，Soumik 成为共犯；两人的 bond 以 shared dream 结束，永远无法确认对方是否真的杀了人。主题：teenage sexuality、violence、complicity、memory 的不可靠性。
+- **一句话概括**： 在赴喜马拉雅 的学生旅行中，暗恋同班女生 ； 在火车厕所里杀死了骚扰她的「红眼男人」， 帮她毁尸灭迹并短暂接吻；两人共享一个关于死亡列车的噩梦，此后 一生被这次经历与 。
+- **时间**：学生旅行（ → → 喜马拉雅 ，被取消）；二十多年后 重坐 回忆
+- **地点**：印度铁路 （ → ）； 三星级酒店 ；加拿大（ 后来就读）
+- **人物**：（叙述者，瘦小、暗恋 ）、（被骚扰、杀人）、/（ 喜欢的男生）、（ 的好友）、Mrs. （数学老师/监护人）、（同学）、红眼男人（受害者，未命名）、 未来的伴侣（加拿大照片中的摄影师）
+- **叙事手法**：第一人称倒叙——成年 在 上重忆青春创伤；大量内心独白与感官细节；结尾滑入超现实噩梦（死亡列车、 、 ）
+- **与后文的钩子**：本篇是选集的开篇（ 在 中点名）， 死亡主题的「道德抉择」极： 用暴力反抗性骚扰， 成为共犯；两人的 以 结束，永远无法确认对方是否真的杀了人。主题：、、、 的不可靠性。
 
 ## 精读
 
@@ -29,7 +29,7 @@
 
 - **中文理解**：Yamini 犹豫后说：「对面 bunk 的 uncle 一直盯着我，感觉 creepy。」她之前已告诉过他们关于那个斜睨她的男人——血红的眼睛。"uncle" 是印度语境中对陌生年长男性的尊称，这里被 Yamini 用来描述骚扰者，带讽刺意味。
 - **关键词**：uncle / leering / bloodshot red eyes
-- **为什么这样写**：这是 story 的 inciting incident——Yamini 预警了骚扰，但 Mrs. Bose 用 "This is India, everyone stares"  dismissal。"bloodshot red eyes" 是 Yamini 的 sensory detail，后来成为 "the man with the red eyes" 的固定指称。Das 通过 Mrs. Bose 的 dismissive response 展示了 institutional failure（老师不保护学生），为 Yamini 的 eventual violence 提供 justification。"creepy" 是 teen girl 的日常词汇，使恐惧显得真实而非戏剧化。
+- **为什么这样写**：这是 story 的 inciting incident——Yamini 预警了骚扰，但 Mrs. Bose 用 "This is India, everyone stares" dismissal。"bloodshot red eyes" 是 Yamini 的 sensory detail，后来成为 "the man with the red eyes" 的固定指称。Das 通过 Mrs. Bose 的 dismissive response 展示了 institutional failure（老师不保护学生），为 Yamini 的 eventual violence 提供 justification。"creepy" 是 teen girl 的日常词汇，使恐惧显得真实而非戏剧化。
 - **读者视角提示**：uncle 在印度英语中是对陌生年长男性的尊称（类似 "sir"）；leering = 斜睨、色眯眯地看；bloodshot = 布满血丝的（醉酒/疲劳）。Mrs. Bose 的 "This is India, everyone stares" 反映了印度社会对女性 harassment 的 normalization。
 
 > **原句 4:** "I killed I think I killed him."
@@ -91,4 +91,4 @@
 
 ## 一句话总结
 
-Das 的《Passengers》是选集的开篇之作，把死亡主题具象为一场 teenage train journey 上的 moral catastrophe：Yamini 用 Swiss Army knife 杀死骚扰她的红眼男人，Soumik 帮她毁尸灭迹并试图 romantic kiss，两人共享一个关于 eternal death-train 的 nightmare，此后 Soumik 一生被这次经历 haunting。故事的核心张力在于 desire 与 complicity 的 entanglement——Soumik 的 romantic advance 在 Yamini 最 vulnerable 的 moment 暴露了 desire 与 empathy 的不可分离，而 shared dream 的 ambiguity（是否真的 shared？Yamini 是否真的杀了人？）让 story 拒绝 closure。Das 的 prose 在 teen realism 与 cosmic horror 之间滑动，把 personal trauma 转化为 supernatural journey，最终落回 adult narrator 在 sleeper car 上的 unresolved longing——"Forever I will follow Yamini."
+Das 的《》是选集的开篇之作，把死亡主题具象为一场 上的 ： 用 杀死骚扰她的红眼男人， 帮她毁尸灭迹并试图 ，两人共享一个关于 - 的 ，此后 一生被这次经历 。故事的核心张力在于 与 的 —— 的 在 最 的 暴露了 与 的不可分离，而 的 （是否真的 ？ 是否真的杀了人？）让 拒绝 。Das 的 在 与 之间滑动，把 转化为 ，最终落回 在 上的 ——

@@ -2,17 +2,17 @@
 
 ## 本章导航
 
-- **一句话概括**：Burt（ abusive husband）wakes to find wife Hilda gone；Hilda（cancer, "exit"）leaves with antler crown (deer head antlers) into the night lights; Burt drives to Royal (pub), sees Hilda in headlights, she charges with antlers; story ends with her charge. "Leaving Season" = women leave abusive husbands (like Burt's mother, who walked into lights).
+- **一句话概括**：（ ）；（, ）; , , she ; . = .
 
-- **时间**：当代 Australian Outback
+- **时间**：当代 
 
-- **地点**：farmhouse (Outback); Royal (pub in town)
+- **地点**： ; 
 
-- **人物**：Burt (abusive husband, farmer)；Hilda (wife, cancer, "exit")；Grace & Evelyn (daughters, estranged)；Burt's mother (left via "lights" when Burt was 10)；Margery (Hilda's mother, warned her)；Barb (widow publican)
+- **人物**： ； ； & ；'s ； ； 
 
-- **叙事手法**：Third-person (Burt) + Hilda's POV (intercut); Australian Outback setting; "Leaving Season" as euphemism for women's escape; lights as psychopomp; antler crown as transformation; "crown of horns; crown of thorns"
+- **叙事手法**：- + 's POV ; ; as 's ; ; ; 
 
-- **与后文的钩子**：Strahan Introduction 提到 "Angela Slatter's story of a woman who leaves her husband, and the season when women walk into the light." 本篇是选集的 feminist horror 代表——death 作为 escape from abuse; "Leaving Season" = women's collective departure; Hilda's cancer as "exit" (choice). Theme: death as liberation; abusive marriage as death-in-life; women's collective escape.
+- **与后文的钩子**： 提到 本篇是选集的 代表—— 作为 ; = 's ; 's . 
 
 ## 精读
 
@@ -110,4 +110,4 @@
 
 ## 一句话总结
 
-Slatter 的 "The Leaving Season" 是选集中最 feminist horror 的 story：Burt（abusive husband）wakes to find wife Hilda gone；Hilda（cancer, "exit"）leaves with antler crown (deer head antlers) into the night lights; Burt drives to Royal (pub), sees Hilda in headlights, she charges with antlers; story ends with her charge. Slatter 的 thesis："death as escape from abuse"—"Leaving Season" = women's collective departure from abusive husbands; Hilda's cancer as "exit" (choice, not just disease); "crown of horns; crown of thorns" = dual transformation (animal power + Christian suffering); "Queenly" = abused wife claims authority. "Floats onto the verandah" = weightless departure (transformation). "Grief is all the love that remains" (not this story, but theme). "The start of the season" = women's escape as annual, predictable (like weather). Burt's helplessness (can't find address book, can't call daughters) = consequence of abuse. "She squares her shoulders... begins her charge" = abused wife becomes charging deer (active resistance). "Antlers pointed" = weaponized transformation. This is the anthology's "death as liberation" counterpoint. Theme: death as escape from abuse; "Leaving Season" = women's collective departure; Hilda's cancer as "exit" (choice); transformation through self-assertion; "crown of horns; crown of thorns" = power + suffering. The story's horror: Burt's realization that he drove Hilda away; his helplessness; Hilda's charge as final act. Death as liberation from abuse. "And it wasn't anything like he'd hoped it would be" = Burt's loneliness (consequence of abuse). Death as consequence and liberation.
+ 的 是选集中最 的 ：（）；（, ）; , , she ; . 的 ：— = 's ; 's ; = ; = . = . . = 's , . 's = . = . = . 's . 

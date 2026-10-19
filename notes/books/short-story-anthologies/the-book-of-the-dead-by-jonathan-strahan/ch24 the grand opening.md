@@ -2,17 +2,17 @@
 
 ## 本章导航
 
-- **一句话概括**：Construction worker Redding 与 coworker Chuckles 建造 townhomes；Chuckles 讲 brother Timothy 的 story（coffin has trapdoor, dead walk down staircase to new life）；Redding 回取 thermos，遇到 dead man in suit coming down stairs (trapdoor from coffin)；Redding runs but distance stretches to forever—"This death."
+- **一句话概括**： 与 建造 ； 讲 的 （, ）； 回取 ，遇到 ；—
 
-- **时间**：当代（construction site, townhomes）
+- **时间**：当代（, ）
 
-- **地点**：construction site (townhomes); bus stop; half bath
+- **地点**： ; bus ; 
 
-- **人物**：Redding (construction worker, "Philosopher with a Hammer")；Chuckles (coworker, brother Timothy story)；Floyd (supervisor)；dead man (in suit, makeup, dirt on shoulder—new resident)
+- **人物**： ； ； ； 
 
-- **叙事手法**：Third-person (Redding); working-class horror; construction site as death site; "trapdoor in coffin" as childhood myth; dead man as "new resident"; distance stretching to forever = death's arrival
+- **叙事手法**：- ; -; ; as ; ; = 's 
 
-- **与后文的钩子**：Strahan Introduction 提到 "Stephen Graham Jones's story of construction workers building townhomes, and the dead man who comes down the stairs." 本篇是选集的 working-class horror 代表——death 作为 "new resident"; construction site as death site; "This death." = final line. Theme: death as arrival; work as life; "this life, this death."
+- **与后文的钩子**： 提到 本篇是选集的 - 代表—— 作为 ; ; = . 
 
 ## 精读
 
@@ -99,4 +99,4 @@
 
 ## 一句话总结
 
-Jones 的 "The Grand Opening" 是选集中最 working-class horror 的 story：Construction worker Redding 与 coworker Chuckles 建造 townhomes；Chuckles 讲 brother Timothy 的 story（coffin has trapdoor, dead walk down staircase to new life）；Redding 回取 thermos，遇到 dead man in suit coming down stairs (trapdoor from coffin)；Redding runs but distance stretches to forever—"This death." Jones 的 thesis："death as arrival/new resident"—"new resident" = dead man as homeowner; "right on schedule" = death's predictability; "This death." = final realization (life = death, work = death preparation). "It's a living, if not much of a life" = working-class condition (survival vs. meaning). "Would you want to be buried here?" = death as residence. "The way coffins are built, the bottom opens too" = death as passage (trapdoor). Timothy's myth: dead walk down to new life. This is the anthology's "death as working-class" counterpoint. Theme: death as arrival; "new resident" = dead man; "This death." = life = death. Construction as death preparation; homes as graves. Work as life (and death). Redding's final run—distance stretches to forever = death's arrival. The dead man "on schedule" = death's predictability. Jones's horror: death is not event but condition; work is not life but death preparation. "This death." = the story's thesis.
+ 的 是选集中最 - 的 ： 与 建造 ； 讲 的 （, ）； 回取 ，遇到 ；— 的 ：— = ; = 's ; = . = - . = . = . 's : . 's . 

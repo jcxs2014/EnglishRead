@@ -2,17 +2,17 @@
 
 ## 本章导航
 
-- **一句话概括**：Charlotte（Bethesda Fountain 的 Angel of the Waters 雕像）在 1876 年被唤醒为不死之身，与 vampire Johnny Backus（纽约建造者）为伴；二人在纽约经历两个世纪，Johnny 随城市建设而强大，但气候变暖使城市被洪水淹没，Johnny 自杀（second death）后 Charlotte 被搬迁至上州，孤独地继续观察——一个关于死亡、城市、友谊与气候灾难的故事。
+- **一句话概括**：（ 的 雕像）在 1876 年被唤醒为不死之身，与 （纽约建造者）为伴；二人在纽约经历两个世纪， 随城市建设而强大，但气候变暖使城市被洪水淹没， 自杀（）后 被搬迁至上州，孤独地继续观察——一个关于死亡、城市、友谊与气候灾难的故事。
 
-- **时间**：1876 年（Charlotte 觉醒）→ 两个世纪 → 未来（纽约被洪水淹没）
+- **时间**：1876 年（ 觉醒）→ 两个世纪 → 未来（纽约被洪水淹没）
 
-- **地点**：New York City（Central Park, Bethesda Terrace, fountain）；Upstate New York（relocation site）
+- **地点**：New （, , ）；（）
 
-- **人物**：Charlotte Cushman（叙述者，演员/雕塑模特，statue Angel of the Waters）；Johnny Backus（vampire，纽约建造者，half Mohawk）；Emma Stebbins（雕塑家，Charlotte 的爱人，Angel of the Waters 的创作者）；Johnny 的 many-time great descendants
+- **人物**：（叙述者，演员/雕塑模特，）；（，纽约建造者，）；（雕塑家， 的爱人， 的创作者）； 的 -
 
-- **叙事手法**：First-person (Charlotte)；historical fantasy with climate fiction; vampire/immortal friendship; city as character; water as dual symbol (life/death, creation/destruction); "They say you cannot live in the past. But you can die there."
+- **叙事手法**：- ；; /; ; ; 
 
-- **与后文的钩子**：Strahan Introduction 提到 Elizabeth Bear's poignant story of a statue that comes to life, and the vampire who built the city she watches over。本篇是选集的 historical fantasy/immortal 代表——death 作为 "living in the past"（"you can die there"），water 作为 civilization 的 source and enemy。主题：love persists beyond death; city as body; climate change as slow apocalypse。
+- **与后文的钩子**： 提到（见原文）。本篇是选集的 / 代表—— 作为 （）， 作为 的 。主题：; ; 。
 
 ## 精读
 
@@ -119,4 +119,4 @@
 
 ## 一句话总结
 
-Bear 的 "Angels of the Waters" 是选集中最 atmospheric 的 historical fantasy/immortal story：Charlotte（Bethesda Fountain 的 Angel of the Waters 雕像）在 1876 年被唤醒为不死之身，与 vampire Johnny Backus（纽约建造者，half Mohawk）为伴；二人在纽约经历两个世纪——Johnny 建造城市（brownstones, tenements, Chrysler, Empire State, Twin Towers），Charlotte 作证（"I bear witness, and I endure"）；气候变暖使城市被洪水淹没，Johnny 自杀（second death）后 Charlotte 被搬迁至上州，孤独地继续观察。Bear 的 thesis："Water is the source and the enemy of civilization"—water blesses (Angel of Waters) and destroys (climate change); "They say you cannot live in the past. But you can die there"—death as temporal fixation; "I can't hear Johnny anymore, but I miss him"—love persists beyond death and destruction. This is the anthology's "death as witness" counterpoint to the darker pieces. Theme: immortality as isolation; city as body; climate change as slow apocalypse; love beyond death.
+ 的 是选集中最 的 /：（ 的 雕像）在 1876 年被唤醒为不死之身，与 （纽约建造者，）为伴；二人在纽约经历两个世纪—— 建造城市（, , , , ）， 作证（）；气候变暖使城市被洪水淹没， 自杀（）后 被搬迁至上州，孤独地继续观察。 的 ：— ; —; —. 's . 
