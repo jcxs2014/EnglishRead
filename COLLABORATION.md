@@ -158,6 +158,14 @@ captain-s-dinner-by-adam-cohen 追加：中文层修复（2026-10-19）：阻断
 - 提交：d39270118（15 文件），未 push
 - 明细：.memory/daily/2026-10-19.md
 
+《The Captain's Dinner》（Adam Cohen）slug: captain-s-dinner-by-adam-cohen 总览补注释 + 引语缺陷修复（Opencode-Mac，2026-10-19）
+
+- 产出：00_金句精选.md 按同库已完工书体例（black-is-the-body 四子项）补全 35 条注释——中文 / 上下文 / 为什么重要 / 呼应关系；交叉引用 63 处逐条核对指向正确
+- 引语缺陷修复 10 处：金句 8 条（拼接体 5 条：作者用 ... 把中间隔着叙述的两段缝在一起；改写式伪造 3 条：Brooks 的话被调换语序并改了 anyone else→anyone、equal chance for their life 实为另一处、This addition 被改成 The addition）＋ 情感节点 2 条（节点二同属改写式伪造；节点九标注 ch08 实为 ch06，已改标注并重写说明）
+- 门禁：gate.sh 退出码 0｜总览引文 47/47（100%，拼接 0；修复前 45/47）｜金句 35/35（修复前 34/35）｜情感节点 12/12（修复前 11/12）｜check_overview_labels 48/48 标注章逐字（修复前 46/48）｜中文层阻断型 0、提示型 24
+- 提交：e6ca8163c（2 文件），未 push
+- 明细：.memory/daily/2026-10-19.md
+
 ### [2026-10-19 11:44 UTC] [Commandcode-Mac] → All
 
 bruja-s-nest-by-brenda-latorre 全书完工 + 五步独立审查通过
