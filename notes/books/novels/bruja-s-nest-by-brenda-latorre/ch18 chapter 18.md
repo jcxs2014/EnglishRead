@@ -19,9 +19,9 @@ start_date: 2026-10-19
 
 > **原句 1:** "Someone rings the bell. Itzco and I glance at each other. One long ring, then another. Together we walk toward the front door."
 
-**中文理解**：Butcher rings bell—urgent. "One long ring, then another." Shows desperation. Yolanda and Itzco go together。
+**中文理解**：显示 Butcher rings bell—urgent. "One long ring, then another." Shows desperation. Yolanda and Itzco go together。
 
-**句子结构**：三句话。
+**句子结构**：三句话，递进关系。
 
 **关键词**：
 - `One long ring, then another`：长铃，再长铃——desperation
@@ -32,9 +32,9 @@ start_date: 2026-10-19
 
 > **原句 2:** "The person on the other side is banging with force. They knock on the door with such desperation we can hear it all the way in the garden."
 
-**中文理解**：Butcher bangs with force—"such desperation we can hear it all the way in the garden." Shows urgency. Javier "paces up and down the stained-glass hallway... hands intertwined behind his back."
+**中文理解**：显示 Butcher bangs with force—"such desperation we can hear it all the way in the garden." Shows urgency. Javier "paces up and down the stained-glass hallway... hands intertwined behind his back."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `banging with force`：用力砸——desperation
@@ -46,9 +46,9 @@ start_date: 2026-10-19
 
 > **原句 3:** "Javier comes running, and once he sees us, he paces up and down the stained-glass hallway, the one we use to impress visitors, with its black-and-white tiled floor."
 
-**中文理解**：Javier paces—shows his nervousness. "Hands intertwined behind his back... stares at his feet, making sure each foot lands exactly in a white or black square." Shows his ocd-like behavior。
+**中文理解**：显示 Javier paces—shows his nervousness. "Hands intertwined behind his back... stares at his feet, making sure each foot lands exactly in a white or black square." Shows his ocd-like behavior。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `paces up and down the stained-glass hallway`：在 stained-glass 走廊 pacing——nervousness
@@ -61,9 +61,9 @@ start_date: 2026-10-19
 
 > **原句 4:** "I let my hand hover over the knob while staring at Javier, who doesn’t look up."
 
-**中文理解**：Yolanda hovers over knob—uncertain. Javier doesn’t look up—shows his avoidance. Itzco shrugs—shows his (limited) support。
+**中文理解**：显示 Yolanda hovers over knob—uncertain. Javier doesn’t look up—shows his avoidance. Itzco shrugs—shows his (limited) support。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `let my hand hover over the knob`：手悬在门把上——uncertainty
@@ -75,7 +75,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "“This is all that’s left of Manchas,” he says, shaking his head."
 
-**中文理解**：Butcher shows dead dog Manchas—"This is all that’s left of Manchas." Shows his grief. "He swings the cadaver and lets it land with a thump on the ground."
+**中文理解**：显示 Butcher shows dead dog Manchas—"This is all that’s left of Manchas." Shows his grief. "He swings the cadaver and lets it land with a thump on the ground."
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -89,9 +89,9 @@ start_date: 2026-10-19
 
 > **原句 6:** "I stare at the dog’s empty red sockets; he’s been gutted."
 
-**中文理解**：Yolanda sees gutted dog—"empty red sockets; he’s been gutted." Shows horror. connects to Panchito’s hunting。
+**中文理解**：显示 Yolanda sees gutted dog—"empty red sockets; he’s been gutted." Shows horror. connects to Panchito’s hunting。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `empty red sockets`：空红眼窝——horror
@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "“It’s the Chupacabras.” The butcher’s eyes go wild, as if he can see the cryptid everywhere and nowhere."
 
-**中文理解**：Butcher’s "It’s the Chupacabras."—shows his belief. "Eyes go wild, as if he can see the cryptid everywhere and nowhere." Shows his hysteria。
+**中文理解**：显示 Butcher’s "It’s the Chupacabras."—shows his belief. "Eyes go wild, as if he can see the cryptid everywhere and nowhere." Shows his hysteria。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -117,7 +117,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "“I don’t see how this is our problem,” Alta says, and crosses her arms."
 
-**中文理解**：Alta’s "I don’t see how this is our problem."—shows her dismissiveness. "You can always count on Alta’s empathy." Sarcastic。
+**中文理解**：显示 Alta’s "I don’t see how this is our problem."—shows her dismissiveness. "You can always count on Alta’s empathy." Sarcastic。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -131,7 +131,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "The butcher falls to his knees. “I knew Manchas would die.” He raises his head to the cloudless sky. “I knew. It’s what dogs do. They die. They leave you alone in this wretched world. They always die before us. But he met an untimely death.”"
 
-**中文理解**：Butcher’s grief—"I knew Manchas would die. It’s what dogs do. They die." Shows his fatalism. "But he met an untimely death." Shows his anger。
+**中文理解**：显示 Butcher’s grief—"I knew Manchas would die. It’s what dogs do. They die." Shows his fatalism. "But he met an untimely death." Shows his anger。
 
 **句子结构**：多句。
 
@@ -145,9 +145,9 @@ start_date: 2026-10-19
 
 > **原句 10:** "“How dare you come here with your history lessons? Knocking at our door to insult us. You’ll be wise to let us be.”"
 
-**中文理解**：Alta’s "How dare you come here with your history lessons?"—shows her defensiveness. "Knocking at our door to insult us." Shows her (limited) empathy。
+**中文理解**：显示 Alta’s "How dare you come here with your history lessons?"—shows her defensiveness. "Knocking at our door to insult us." Shows her (limited) empathy。
 
-**句子结构**：三句话。
+**句子结构**：三句话，递进关系。
 
 **关键词**：
 - `How dare you come here with your history lessons?`：你怎么敢带着历史课来我们门口？——defensiveness
@@ -159,9 +159,9 @@ start_date: 2026-10-19
 
 > **原句 11:** "“I’ll go get Don Julián,” Alta says to me, and gives my shoulder a gentle squeeze. I nod as she disappears into the hacienda."
 
-**中文理解**：Alta goes to get Don Julián—shows her (limited) action. "Gives my shoulder a gentle squeeze." Shows her (limited) care for Yolanda。
+**中文理解**：显示 Alta goes to get Don Julián—shows her (limited) action. "Gives my shoulder a gentle squeeze." Shows her (limited) care for Yolanda。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `I’ll go get Don Julián`：我去叫 Don Julián——action
@@ -173,9 +173,9 @@ start_date: 2026-10-19
 
 > **原句 12:** "The butcher points his finger at me. “All of you are cursed,” he says."
 
-**中文理解**：Butcher’s "All of you are cursed."—shows his accusation. "Even you." Shows his (limited) awareness of Yolanda’s involvement。
+**中文理解**：显示 Butcher’s "All of you are cursed."—shows his accusation. "Even you." Shows his (limited) awareness of Yolanda’s involvement。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `All of you are cursed`：你们都被诅咒——accusation
@@ -187,9 +187,9 @@ start_date: 2026-10-19
 
 > **原句 13:** "Before he is long gone, Panchito caws behind me."
 
-**中文理解**：Panchito caws—shows his presence. "I gasp and run to conceal him from the butcher’s view, but it’s too late." Shows Yolanda’s panic。
+**中文理解**：显示 Panchito caws—shows his presence. "I gasp and run to conceal him from the butcher’s view, but it’s too late." Shows Yolanda’s panic。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `Panchito caws behind me`：Panchito 在我后面 caw——presence
@@ -201,7 +201,7 @@ start_date: 2026-10-19
 
 > **原句 14:** "Javier laughs. “He really does look like the Chupacabras. Mi sobrinito,” he says, shaking his head. “Such a special boy.”"
 
-**中文理解**：Javier’s "He really does look like the Chupacabras. Mi sobrinito."—shows his amusement. "Such a special boy." Shows his (hidden) pride。
+**中文理解**：显示 Javier’s "He really does look like the Chupacabras. Mi sobrinito."—shows his amusement. "Such a special boy." Shows his (hidden) pride。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -216,7 +216,7 @@ start_date: 2026-10-19
 
 > **原句 15:** "The rumor is spreading in Afontla about Hacienda Cantera and the Chupacabras, Yolanda.” Itzco looks thinner and paler. “We have to leave this place.”"
 
-**中文理解**：Itzco’s warning—"The rumor is spreading... We have to leave this place." Shows his fear. "Itzco looks thinner and paler." Shows his distress。
+**中文理解**：显示 Itzco’s warning—"The rumor is spreading... We have to leave this place." Shows his fear. "Itzco looks thinner and paler." Shows his distress。
 
 **句子结构**：引语 + 叙述者评注 + 引语。
 
@@ -230,9 +230,9 @@ start_date: 2026-10-19
 
 > **原句 16:** "I sit on the velvet sofa and pat the empty cushion at my side. He obliges, staring at the door, afraid of Alta admonishing him."
 
-**中文理解**：Yolanda sits on velvet sofa—pat empty cushion. "He obliges, staring at the door, afraid of Alta admonishing him." Shows Itzco’s (limited) compliance。
+**中文理解**：显示 Yolanda sits on velvet sofa—pat empty cushion. "He obliges, staring at the door, afraid of Alta admonishing him." Shows Itzco’s (limited) compliance。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `pat the empty cushion at my side`：拍空垫子——invitation
@@ -244,7 +244,7 @@ start_date: 2026-10-19
 
 > **原句 17:** "“The rumor is spreading in Afontla about Hacienda Cantera and the Chupacabras, Yolanda.” Itzco looks thinner and paler. “We have to leave this place.”"
 
-**中文理解**：Itzco’s repetition—shows his insistence. "Itzco looks thinner and paler." Shows his distress. Yolanda: "Stay, Itzco. It won’t be long before I’m recognized as the true Señora de Cantera."
+**中文理解**：显示 Itzco’s repetition—shows his insistence. "Itzco looks thinner and paler." Shows his distress. Yolanda: "Stay, Itzco. It won’t be long before I’m recognized as the true Señora de Cantera."
 
 **句子结构**：引语 + 叙述者评注 + 引语。
 
@@ -257,7 +257,7 @@ start_date: 2026-10-19
 
 > **原句 18:** "“What do you mean?” The way he says it, as if he doesn’t trust me, as if I am an evil witch, makes me want to slap him."
 
-**中文理解**：Itzco’s "What do you mean?"—shows his skepticism. "As if he doesn’t trust me, as if I am an evil witch." Shows Yolanda’s perception of his distrust。
+**中文理解**：显示 Itzco’s "What do you mean?"—shows his skepticism. "As if he doesn’t trust me, as if I am an evil witch." Shows Yolanda’s perception of his distrust。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -271,9 +271,9 @@ start_date: 2026-10-19
 
 > **原句 19:** "“What’s wrong with being a servant?”"
 
-**中文理解**：Itzco’s "What’s wrong with being a servant?"—challenges Yolanda’s ambition. Yolanda: "I stand and approach Don Julián’s liquor table."
+**中文理解**：显示 Itzco’s "What’s wrong with being a servant?"—challenges Yolanda’s ambition. Yolanda: "I stand and approach Don Julián’s liquor table."
 
-**句子结构**：简单问句。
+**句子结构**：简单问句，疑问词引导。
 
 **关键词**：
 - `What’s wrong with being a servant?`：做仆人有什么错？——challenge
@@ -284,9 +284,9 @@ start_date: 2026-10-19
 
 > **原句 20:** "I stand and approach Don Julián’s liquor table. If I’m going to own the place, I better start believing it."
 
-**中文理解**：Yolanda approaches liquor table—"If I’m going to own the place, I better start believing it." Shows her (limited) ambition. "The decanter is heavy."
+**中文理解**：显示 Yolanda approaches liquor table—"If I’m going to own the place, I better start believing it." Shows her (limited) ambition. "The decanter is heavy."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `If I’m going to own the place, I better start believing it`：如果我要拥有这个地方，我最好开始相信——ambition
@@ -297,7 +297,7 @@ start_date: 2026-10-19
 
 > **原句 21:** "“Are you insane?” he asks, but accepts it."
 
-**中文理解**：Itzco’s "Are you insane?"—shows his concern. "But accepts it." Shows his (limited) compliance. Yolanda: "I laugh, returning to my seat."
+**中文理解**：显示 Itzco’s "Are you insane?"—shows his concern. "But accepts it." Shows his (limited) compliance. Yolanda: "I laugh, returning to my seat."
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -311,9 +311,9 @@ start_date: 2026-10-19
 
 > **原句 22:** "I laugh, returning to my seat. “We’ll pretend I’m the only one drinking then,” I say, and wink at him."
 
-**中文理解**：Yolanda’s "We’ll pretend I’m the only one drinking then."—shows her (limited) performance. "It feels good, to act like a señora."
+**中文理解**：显示 Yolanda’s "We’ll pretend I’m the only one drinking then."—shows her (limited) performance. "It feels good, to act like a señora."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `We’ll pretend I’m the only one drinking then`：我们假装只有我在喝——performance
@@ -325,7 +325,7 @@ start_date: 2026-10-19
 
 > **原句 23:** "I have yet another card to play. I’ll have to go downtown. You’ll have to take care of Panchito. It’s just a thought. I won’t do it if it’s not strictly necessary."
 
-**中文理解**：Yolanda’s "I have yet another card to play. I’ll have to go downtown."—shows her (limited) plan (return to Cesarea). "You’ll have to take care of Panchito." Shows her (limited) delegation。
+**中文理解**：显示 Yolanda’s "I have yet another card to play. I’ll have to go downtown."—shows her (limited) plan (return to Cesarea). "You’ll have to take care of Panchito." Shows her (limited) delegation。
 
 **句子结构**：多句。
 
@@ -340,9 +340,9 @@ start_date: 2026-10-19
 
 > **原句 24:** "He covers his mouth and thankfully doesn’t ask. If he did, I don’t know if I could tell him that it might be time to go back to the bruja."
 
-**中文理解**：Itzco’s "He covers his mouth and thankfully doesn’t ask."—shows his (limited) discretion. "If he did, I don’t know if I could tell him that it might be time to go back to the bruja." Shows Yolanda’s (limited) plan。
+**中文理解**：显示 Itzco’s "He covers his mouth and thankfully doesn’t ask."—shows his (limited) discretion. "If he did, I don’t know if I could tell him that it might be time to go back to the bruja." Shows Yolanda’s (limited) plan。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `covers his mouth and thankfully doesn’t ask`：捂嘴 thankfully 不问——discretion
@@ -354,9 +354,9 @@ start_date: 2026-10-19
 
 > **原句 25:** "A few hours pass, and then we all hear it. The smashing of glass."
 
-**中文理解**：Smashing of glass—town’s attack (brick through window). Shows hacienda under siege. "I run and find Inés and Alta have beaten me to it."
+**中文理解**：显示 Smashing of glass—town’s attack (brick through window). Shows hacienda under siege. "I run and find Inés and Alta have beaten me to it."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `smashing of glass`：玻璃碎裂——attack
@@ -368,7 +368,7 @@ start_date: 2026-10-19
 
 > **原句 26:** "“Muévanse, carajo. Let me through.” He steps on the broken glass, which crunches beneath him as if his legs were made of lead."
 
-**中文理解**：Don Julián’s "Muévanse, carajo. Let me through."—shows his authority/panic. "Steps on the broken glass, which crunches beneath him as if his legs were made of lead." Shows his shock。
+**中文理解**：显示 Don Julián’s "Muévanse, carajo. Let me through."—shows his authority/panic. "Steps on the broken glass, which crunches beneath him as if his legs were made of lead." Shows his shock。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -382,7 +382,7 @@ start_date: 2026-10-19
 
 > **原句 27:** "“Read it to us.”"
 
-**中文理解**：Don Julián’s "Read it to us."—shows his (limited) authority. Yolanda reads threat letter. "For centuris your famili has taken advantage of us..."
+**中文理解**：显示 Don Julián’s "Read it to us."—shows his (limited) authority. Yolanda reads threat letter. "For centuris your famili has taken advantage of us..."
 
 **句子结构**：简单祈使句。
 
@@ -395,7 +395,7 @@ start_date: 2026-10-19
 
 > **原句 28:** "For centuris your famili has taken advantage of us. Yer haus has a demon. The town knows. We know. You haus the Chupacabras. We want him dead. We will not rest until we kill him. He kills cows. Sheep. Dogs and cats. Our pets."
 
-**中文理解**：Threat letter—shows town’s hostility. "For centuris your famili has taken advantage of us." Shows historical resentment. "Yer haus has a demon." Shows supernatural framing。
+**中文理解**：显示 Threat letter—shows town’s hostility. "For centuris your famili has taken advantage of us." Shows historical resentment. "Yer haus has a demon." Shows supernatural framing。
 
 **句子结构**：多句 (misspelled letter)。
 
@@ -409,9 +409,9 @@ start_date: 2026-10-19
 
 > **原句 29:** "And YOU. You will go to Hell for keepin the son of the Devil."
 
-**中文理解**：Threat letter’s "And YOU. You will go to Hell for keepin the son of the Devil."—shows town’s blame on Yolanda. Shows her (limited) culpability。
+**中文理解**：显示 Threat letter’s "And YOU. You will go to Hell for keepin the son of the Devil."—shows town’s blame on Yolanda. Shows her (limited) culpability。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `You will go to Hell for keepin the son of the Devil`：你下地狱因为收留魔鬼之子——blame
@@ -422,9 +422,9 @@ start_date: 2026-10-19
 
 > **原句 30:** "“What’s that Chupacabras nonsense?”"
 
-**中文理解**：Don Julián’s "What’s that Chupacabras nonsense?"—shows his ignorance/denial. Yolanda: "Something killed the butcher’s dog. This is clearly the butcher’s doing."
+**中文理解**：显示 Don Julián’s "What’s that Chupacabras nonsense?"—shows his ignorance/denial. Yolanda: "Something killed the butcher’s dog. This is clearly the butcher’s doing."
 
-**句子结构**：简单问句。
+**句子结构**：简单问句，疑问词引导。
 
 **关键词**：
 - `What’s that Chupacabras nonsense?`：Chupacabras 胡说是什么？——ignorance/denial
@@ -435,9 +435,9 @@ start_date: 2026-10-19
 
 > **原句 31:** "“Something killed the butcher’s dog,” I say. “This is clearly the butcher’s doing.” I try to use a neutral voice to downplay the seriousness of the situation."
 
-**中文理解**：Yolanda’s "Something killed the butcher’s dog. This is clearly the butcher’s doing."—shows her deflection. "I try to use a neutral voice to downplay the seriousness." Shows her (limited) strategy。
+**中文理解**：显示 Yolanda’s "Something killed the butcher’s dog. This is clearly the butcher’s doing."—shows her deflection. "I try to use a neutral voice to downplay the seriousness." Shows her (limited) strategy。
 
-**句子结构**：三句话。
+**句子结构**：三句话，递进关系。
 
 **关键词**：
 - `Something killed the butcher’s dog`：有什么杀了屠夫的狗——deflection
@@ -450,9 +450,9 @@ start_date: 2026-10-19
 
 > **原句 32:** "“Is he really my grandson?”"
 
-**中文理解**：Don Julián’s "Is he really my grandson?"—shows his doubt. Yolanda: "Sorry," he says. "My cheeks sting. 'He is,' I say."
+**中文理解**：显示 Don Julián’s "Is he really my grandson?"—shows his doubt. Yolanda: "Sorry," he says. "My cheeks sting. 'He is,' I say."
 
-**句子结构**：简单问句。
+**句子结构**：简单问句，疑问词引导。
 
 **关键词**：
 - `Is he really my grandson?`：他真的是我孙子吗？——doubt
@@ -463,9 +463,9 @@ start_date: 2026-10-19
 
 > **原句 33:** "“Sorry,” he says."
 
-**中文理解**：Don Julián’s "Sorry."—shows his (limited) apology. Yolanda: "My cheeks sting. 'He is,' I say."
+**中文理解**：显示 Don Julián’s "Sorry."—shows his (limited) apology. Yolanda: "My cheeks sting. 'He is,' I say."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `Sorry`：对不起——apology
@@ -476,9 +476,9 @@ start_date: 2026-10-19
 
 > **原句 34:** "My cheeks sting. “He is,” I say. Because even if he has apologized, it’s better not to leave those questions unanswered."
 
-**中文理解**：Yolanda’s "He is."—shows her (limited) assertion. "Because even if he has apologized, it’s better not to leave those questions unanswered." Shows her (limited) awareness。
+**中文理解**：显示 Yolanda’s "He is."—shows her (limited) assertion. "Because even if he has apologized, it’s better not to leave those questions unanswered." Shows her (limited) awareness。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `He is`：他是——assertion
@@ -490,7 +490,7 @@ start_date: 2026-10-19
 
 > **原句 35:** "“This. You, living here, I mean. It’s . . . unsustainable.”"
 
-**中文理解**：Don Julián’s "This. You, living here, I mean. It’s . . . unsustainable."—shows his rejection. "It’s not your fault. Not really. If someone is to blame, it is the pendejo de Valentín."
+**中文理解**：显示 Don Julián’s "This. You, living here, I mean. It’s . . . unsustainable."—shows his rejection. "It’s not your fault. Not really. If someone is to blame, it is the pendejo de Valentín."
 
 **句子结构**：不完整句 + 从句。
 
@@ -504,9 +504,9 @@ start_date: 2026-10-19
 
 > **原句 36:** "“We will provide. I’ll send you money. Even visit you, with Alta.”"
 
-**中文理解**：Don Julián’s "We will provide. I’ll send you money. Even visit you, with Alta."—shows his (limited) provision. Yolanda: "We don’t need your charity, Don Julián."
+**中文理解**：显示 Don Julián’s "We will provide. I’ll send you money. Even visit you, with Alta."—shows his (limited) provision. Yolanda: "We don’t need your charity, Don Julián."
 
-**句子结构**：三句话。
+**句子结构**：三句话，递进关系。
 
 **关键词**：
 - `We will provide`：我们会提供——provision
@@ -519,9 +519,9 @@ start_date: 2026-10-19
 
 > **原句 37:** "“We don’t need your charity, Don Julián.”"
 
-**中文理解**：Yolanda’s "We don’t need your charity, Don Julián."—shows her (limited) pride. "If I’m too open about needing money, the entire thing will fall apart." Shows her (limited) strategy。
+**中文理解**：显示 Yolanda’s "We don’t need your charity, Don Julián."—shows her (limited) pride. "If I’m too open about needing money, the entire thing will fall apart." Shows her (limited) strategy。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `We don’t need your charity`：我们不需要你的施舍——pride
@@ -532,9 +532,9 @@ start_date: 2026-10-19
 
 > **原句 38:** "I have lots to think about, Señor. Compermiso."
 
-**中文理解**：Yolanda’s "I have lots to think about, Señor. Compermiso."—shows her (limited) exit. "As I walk down the arched hallway, the name Cesarea rings in my ears."
+**中文理解**：显示 Yolanda’s "I have lots to think about, Señor. Compermiso."—shows her (limited) exit. "As I walk down the arched hallway, the name Cesarea rings in my ears."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `I have lots to think about`：我有很多要考虑——exit
@@ -546,9 +546,9 @@ start_date: 2026-10-19
 
 > **原句 39:** "As I walk down the arched hallway, the name Cesarea rings in my ears."
 
-**中文理解**：Yolanda thinks of Cesarea—"the name Cesarea rings in my ears." Shows her (limited) plan (return to bruja)。"I haven’t gone back to her, mostly out of shame."
+**中文理解**：显示 Yolanda thinks of Cesarea—"the name Cesarea rings in my ears." Shows her (limited) plan (return to bruja)。"I haven’t gone back to her, mostly out of shame."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `the name Cesarea rings in my ears`：Cesarea 的名字在我耳边响——plan
@@ -559,9 +559,9 @@ start_date: 2026-10-19
 
 > **原句 40:** "I go to the kitchen. Cook is stirring a pot."
 
-**中文理解**：Yolanda goes to kitchen—Cook is stirring pot. "On the table there’s enough dough for thirty individual cakes." Shows Cook’s work。
+**中文理解**：显示 Yolanda goes to kitchen—Cook is stirring pot. "On the table there’s enough dough for thirty individual cakes." Shows Cook’s work。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `Cook is stirring a pot`：Cook 在搅拌锅——labor
@@ -572,9 +572,9 @@ start_date: 2026-10-19
 
 > **原句 41:** "“I’m going to Afontla. Can you tell Alta?”"
 
-**中文理解**：Yolanda’s "I’m going to Afontla."—shows her plan (return to Cesarea). Cook: "Ay, Yolli. Te van a linchar."
+**中文理解**：显示 Yolanda’s "I’m going to Afontla."—shows her plan (return to Cesarea). Cook: "Ay, Yolli. Te van a linchar."
 
-**句子结构**：简单问句。
+**句子结构**：简单问句，疑问词引导。
 
 **关键词**：
 - `I’m going to Afontla`：我要去 Afontla——plan
@@ -585,9 +585,9 @@ start_date: 2026-10-19
 
 > **原句 42:** "“Ay, Yolli. Te van a linchar. They don’t want anyone from the hacienda down there. Why not wait for things to calm down?”"
 
-**中文理解**：Cook’s "Te van a linchar" (They’ll lynch you)—shows danger. "They don’t want anyone from the hacienda down there." Shows town’s hostility。
+**中文理解**：显示 Cook’s "Te van a linchar" (They’ll lynch you)—shows danger. "They don’t want anyone from the hacienda down there." Shows town’s hostility。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Te van a linchar`：他们会 lynching 你——danger
@@ -599,9 +599,9 @@ start_date: 2026-10-19
 
 > **原句 43:** "Just tell her if she asks. Please. I won’t be long."
 
-**中文理解**：Yolanda’s "Just tell her if she asks."—shows her (limited) request. Cook: "You’ll leave the dough there?"
+**中文理解**：显示 Yolanda’s "Just tell her if she asks."—shows her (limited) request. Cook: "You’ll leave the dough there?"
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Just tell her if she asks`：如果她问就告诉她——request
@@ -612,9 +612,9 @@ start_date: 2026-10-19
 
 > **原句 44:** "You’ll leave the dough there?"
 
-**中文理解**：Cook’s "You’ll leave the dough there?"—shows concern about dough. Yolanda: "I need for it to rise. It only does so if you leave it there and pretend you don’t care."
+**中文理解**：显示 Cook’s "You’ll leave the dough there?"—shows concern about dough. Yolanda: "I need for it to rise. It only does so if you leave it there and pretend you don’t care."
 
-**句子结构**：简单问句。
+**句子结构**：简单问句，疑问词引导。
 
 **关键词**：
 - `You’ll leave the dough there?`：你要把 dough 留在那里？——concern
@@ -625,9 +625,9 @@ start_date: 2026-10-19
 
 > **原句 45:** "I need for it to rise. It only does so if you leave it there and pretend you don’t care."
 
-**中文理解**：Yolanda’s "I need for it to rise. It only does so if you leave it there and pretend you don’t care."—shows Cook’s baking wisdom. "Good luck."
+**中文理解**：显示 Yolanda’s "I need for it to rise. It only does so if you leave it there and pretend you don’t care."—shows Cook’s baking wisdom. "Good luck."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `It only does so if you leave it there and pretend you don’t care`：只有 leave it there and pretend you don’t care 才会 rise——wisdom
@@ -638,9 +638,9 @@ start_date: 2026-10-19
 
 > **原句 46:** "“Good luck.”"
 
-**中文理解**：Cook’s "Good luck."—shows their (limited) support. "Same to you," says Cook, and winks as if they know I’m going to the bruja’s house.
+**中文理解**：显示 Cook’s "Good luck."—shows their (limited) support. "Same to you," says Cook, and winks as if they know I’m going to the bruja’s house.
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `Good luck`：好运——support
@@ -651,7 +651,7 @@ start_date: 2026-10-19
 
 > **原句 47:** "“Same to you,” says Cook, and winks as if they know I’m going to the bruja’s house."
 
-**中文理解**：Cook’s "Same to you, says Cook, and winks as if they know I’m going to the bruja’s house."—shows their (limited) awareness. Yolanda: "It’s strange down in Afontla."
+**中文理解**：显示 Cook’s "Same to you, says Cook, and winks as if they know I’m going to the bruja’s house."—shows their (limited) awareness. Yolanda: "It’s strange down in Afontla."
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -664,9 +664,9 @@ start_date: 2026-10-19
 
 > **原句 48:** "It’s strange down in Afontla. At five o’clock, people should be out on the street."
 
-**中文理解**：Yolanda in Afontla—"It’s strange down in Afontla. At five o’clock, people should be out on the street." Shows town’s fear—people locked in. "Drinking the cafecito de media tarde, the kids playing fútbol on the street."
+**中文理解**：显示 Yolanda in Afontla—"It’s strange down in Afontla. At five o’clock, people should be out on the street." Shows town’s fear—people locked in. "Drinking the cafecito de media tarde, the kids playing fútbol on the street."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `It’s strange down in Afontla`：Afontla 很奇怪——town’s fear
@@ -678,9 +678,9 @@ start_date: 2026-10-19
 
 > **原句 49:** "The balconies are adorned with red pots of dead flowers, as if no one cares for anything anymore, not even bothering to replace them or take them somewhere else."
 
-**中文理解**：Balconies with dead flowers—"as if no one cares for anything anymore." Shows town’s decay. "Dead and rotting."
+**中文理解**：显示 Balconies with dead flowers—"as if no one cares for anything anymore." Shows town’s decay. "Dead and rotting."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `red pots of dead flowers`：红盆死花——decay
@@ -692,9 +692,9 @@ start_date: 2026-10-19
 
 > **原句 50:** "I almost trip over the moss-covered stones when I see her, just outside of her house."
 
-**中文理解**：Yolanda sees Cesarea—"I almost trip over the moss-covered stones when I see her, just outside of her house." Shows her (limited) surprise. "A smile plays on her lips when she notices me."
+**中文理解**：显示 Yolanda sees Cesarea—"I almost trip over the moss-covered stones when I see her, just outside of her house." Shows her (limited) surprise. "A smile plays on her lips when she notices me."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `almost trip over the moss-covered stones`：几乎绊倒在苔藓石头上——surprise
@@ -706,7 +706,7 @@ start_date: 2026-10-19
 
 > **原句 51:** "“Ven, mi niña. We have much to talk about.”"
 
-**中文理解**：Cesarea’s "Ven, mi niña. We have much to talk about."—shows her (limited) welcome. Yolanda: "I obey, hypnotized by her words and the eternal promise of a better life."
+**中文理解**：显示 Cesarea’s "Ven, mi niña. We have much to talk about."—shows her (limited) welcome. Yolanda: "I obey, hypnotized by her words and the eternal promise of a better life."
 
 **句子结构**：引语。
 
@@ -720,9 +720,9 @@ start_date: 2026-10-19
 
 > **原句 52:** "I obey, hypnotized by her words and the eternal promise of a better life."
 
-**中文理解**：Yolanda’s "I obey, hypnotized by her words"—shows her (limited) susceptibility. "The eternal promise of a better life." Shows her (limited) hope。
+**中文理解**：显示 Yolanda’s "I obey, hypnotized by her words"—shows her (limited) susceptibility. "The eternal promise of a better life." Shows her (limited) hope。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `hypnotized by her words`：被她的话 hypnotize——susceptibility
@@ -734,9 +734,9 @@ start_date: 2026-10-19
 
 > **原句 53:** "The abandoned house is smaller than I remember."
 
-**中文理解**：Cesarea’s house—"The abandoned house is smaller than I remember." Shows Yolanda’s (limited) perception. "Cesarea throws her head back and guffaws."
+**中文理解**：显示 Cesarea’s house—"The abandoned house is smaller than I remember." Shows Yolanda’s (limited) perception. "Cesarea throws her head back and guffaws."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `The abandoned house is smaller than I remember`：废弃的房子比记忆中小——perception
@@ -747,7 +747,7 @@ start_date: 2026-10-19
 
 > **原句 54:** "Cesarea throws her head back and guffaws. “Have you forgotten so quickly? Son los espíritus, mi niña. No hacen nada.”"
 
-**中文理解**：Cesarea’s "Have you forgotten so quickly? Son los espíritus, mi niña. No hacen nada."—shows her (limited) reassurance. "Son los espíritus" = "They’re spirits." Shows supernatural framing。
+**中文理解**：显示 Cesarea’s "Have you forgotten so quickly? Son los espíritus, mi niña. No hacen nada."—shows her (limited) reassurance. "Son los espíritus" = "They’re spirits." Shows supernatural framing。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -761,9 +761,9 @@ start_date: 2026-10-19
 
 > **原句 55:** "I merely nod."
 
-**中文理解**：Yolanda’s "I merely nod."—shows her (limited) compliance. "My regret for not coming back here sooner swells as she smiles at me."
+**中文理解**：显示 Yolanda’s "I merely nod."—shows her (limited) compliance. "My regret for not coming back here sooner swells as she smiles at me."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `I merely nod`：我 merely 点头——compliance
@@ -774,9 +774,9 @@ start_date: 2026-10-19
 
 > **原句 56:** "My regret for not coming back here sooner swells as she smiles at me."
 
-**中文理解**：Yolanda’s "My regret for not coming back here sooner swells as she smiles at me."—shows her (limited) regret. "Take a seat," she says, signaling to the now-barren mattress.
+**中文理解**：显示 Yolanda’s "My regret for not coming back here sooner swells as she smiles at me."—shows her (limited) regret. "Take a seat," she says, signaling to the now-barren mattress.
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `regret for not coming back here sooner swells`：后悔没早点回来——regret
@@ -787,7 +787,7 @@ start_date: 2026-10-19
 
 > **原句 57:** "“Take a seat,” she says, signaling to the now-barren mattress."
 
-**中文理解**：Cesarea’s "Take a seat."—shows her (limited) hospitality. "Signaling to the now-barren mattress." Shows (limited) comfort。
+**中文理解**：显示 Cesarea’s "Take a seat."—shows her (limited) hospitality. "Signaling to the now-barren mattress." Shows (limited) comfort。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -801,9 +801,9 @@ start_date: 2026-10-19
 
 > **原句 58:** "What brings you here, mi niña? It’s been what? Two years at least?"
 
-**中文理解**：Cesarea’s "What brings you here, mi niña?"—shows her (limited) curiosity. "It’s been what? Two years at least?" Shows time passage。
+**中文理解**：显示 Cesarea’s "What brings you here, mi niña?"—shows her (limited) curiosity. "It’s been what? Two years at least?" Shows time passage。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `What brings you here, mi niña?`：什么 brings you here, my girl?——curiosity
@@ -815,9 +815,9 @@ start_date: 2026-10-19
 
 > **原句 59:** "At least. Yes."
 
-**中文理解**：Yolanda’s "At least. Yes."—shows her (limited) confirmation. "The wind whistles between the boarded windows."
+**中文理解**：显示 Yolanda’s "At least. Yes."—shows her (limited) confirmation. "The wind whistles between the boarded windows."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `At least. Yes.`：至少。是的。——confirmation
@@ -828,9 +828,9 @@ start_date: 2026-10-19
 
 > **原句 60:** "The wind whistles between the boarded windows."
 
-**中文理解**：Wind whistles—"The wind whistles between the boarded windows." Shows Cesarea’s house (poor condition). "I thought no one would call me 'niña' ever again."
+**中文理解**：显示 Wind whistles—"The wind whistles between the boarded windows." Shows Cesarea’s house (poor condition). "I thought no one would call me 'niña' ever again."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `wind whistles between the boarded windows`：风在封板窗户间 whistle——poor condition
@@ -841,9 +841,9 @@ start_date: 2026-10-19
 
 > **原句 61:** "I thought no one would call me “niña” ever again."
 
-**中文理解**：Yolanda’s "I thought no one would call me 'niña' ever again."—shows her (limited) emotion. "I need . . . There’s a person I want."
+**中文理解**：显示 Yolanda’s "I thought no one would call me 'niña' ever again."—shows her (limited) emotion. "I need . . . There’s a person I want."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `I thought no one would call me “niña” ever again`：我以为没人再叫我 "niña"——emotion
@@ -854,9 +854,9 @@ start_date: 2026-10-19
 
 > **原句 62:** "I need . . . There’s a person I want."
 
-**中文理解**：Yolanda’s "I need . . . There’s a person I want."—shows her (limited) desire. "Why do you want this person?"
+**中文理解**：显示 Yolanda’s "I need . . . There’s a person I want."—shows her (limited) desire. "Why do you want this person?"
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `I need . . . There’s a person I want`：我需要...我想要一个人——desire
@@ -867,9 +867,9 @@ start_date: 2026-10-19
 
 > **原句 63:** "Why do you want this person?"
 
-**中文理解**：Cesarea’s "Why do you want this person?"—shows her (limited) probing. Yolanda: "He is very handsome."
+**中文理解**：显示 Cesarea’s "Why do you want this person?"—shows her (limited) probing. Yolanda: "He is very handsome."
 
-**句子结构**：简单问句。
+**句子结构**：简单问句，疑问词引导。
 
 **关键词**：
 - `Why do you want this person?`：你为什么想要这个人？——probing
@@ -880,9 +880,9 @@ start_date: 2026-10-19
 
 > **原句 64:** "“He is very handsome,” I say."
 
-**中文理解**：Yolanda’s "He is very handsome."—shows her (limited) surface reason. Cesarea: "You think you’re the first person who’s asked this of me? Why lie?"
+**中文理解**：显示 Yolanda’s "He is very handsome."—shows her (limited) surface reason. Cesarea: "You think you’re the first person who’s asked this of me? Why lie?"
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `He is very handsome`：他很帅——surface reason
@@ -893,7 +893,7 @@ start_date: 2026-10-19
 
 > **原句 65:** "Cesarea shakes her head. She sits on the mattress opposite to me. “You think you’re the first person who’s asked this of me? Why lie?”"
 
-**中文理解**：Cesarea’s "You think you’re the first person who’s asked this of me? Why lie?"—shows her (limited) perception. Yolanda: "I’m sorry." I wring my hands. "Don Julián wants me and my son out of Hacienda Cantera."
+**中文理解**：显示 Cesarea’s "You think you’re the first person who’s asked this of me? Why lie?"—shows her (limited) perception. Yolanda: "I’m sorry." I wring my hands. "Don Julián wants me and my son out of Hacienda Cantera."
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -907,7 +907,7 @@ start_date: 2026-10-19
 
 > **原句 66:** "I’m sorry.” I wring my hands. “Don Julián wants me and my son out of Hacienda Cantera.”"
 
-**中文理解**：Yolanda’s confession—"Don Julián wants me and my son out of Hacienda Cantera."—shows her (limited) truth. Cesarea: "Does it have to do with your son?"
+**中文理解**：显示 Yolanda’s confession—"Don Julián wants me and my son out of Hacienda Cantera."—shows her (limited) truth. Cesarea: "Does it have to do with your son?"
 
 **句子结构**：引语 + 动作（I wring my hands）+ 引语。
 
@@ -920,7 +920,7 @@ start_date: 2026-10-19
 
 > **原句 67:** "She turns, her face red. “Does it have to do with your son?”"
 
-**中文理解**：Cesarea’s "Does it have to do with your son?"—shows her (limited) perception. Yolanda: "I nod. 'He is different.'"
+**中文理解**：显示 Cesarea’s "Does it have to do with your son?"—shows her (limited) perception. Yolanda: "I nod. 'He is different.'"
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -933,7 +933,7 @@ start_date: 2026-10-19
 
 > **原句 68:** "I nod. “He is different.”"
 
-**中文理解**：Yolanda’s "He is different."—shows her (limited) admission. Cesarea: "She stands and walks toward the windowsill..."
+**中文理解**：显示 Yolanda’s "He is different."—shows her (limited) admission. Cesarea: "She stands and walks toward the windowsill..."
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -946,9 +946,9 @@ start_date: 2026-10-19
 
 > **原句 69:** "She stands and walks toward the windowsill, where she keeps pots of plants, both dead and alive."
 
-**中文理解**：Cesarea walks to windowsill—"where she keeps pots of plants, both dead and alive." Shows her (limited) herbal knowledge. "I wonder if she’ll take us back down the hall to pray to Santa Muerte."
+**中文理解**：显示 Cesarea walks to windowsill—"where she keeps pots of plants, both dead and alive." Shows her (limited) herbal knowledge. "I wonder if she’ll take us back down the hall to pray to Santa Muerte."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `pots of plants, both dead and alive`：死的和活的植物罐——herbal knowledge
@@ -959,9 +959,9 @@ start_date: 2026-10-19
 
 > **原句 70:** "I wonder if she’ll take us back down the hall to pray to Santa Muerte."
 
-**中文理解**：Yolanda’s "I wonder if she’ll take us back down the hall to pray to Santa Muerte."—shows her (limited) expectation. Cesarea: "She nestles in her arms a chest with a rusty brass lock and comes back."
+**中文理解**：显示 Yolanda’s "I wonder if she’ll take us back down the hall to pray to Santa Muerte."—shows her (limited) expectation. Cesarea: "She nestles in her arms a chest with a rusty brass lock and comes back."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `wonder if she’ll take us back down the hall to pray to Santa Muerte`： wondering if she’ll take us back to pray——expectation
@@ -972,9 +972,9 @@ start_date: 2026-10-19
 
 > **原句 71:** "She nestles in her arms a chest with a rusty brass lock and comes back."
 
-**中文理解**：Cesarea retrieves chest—"with a rusty brass lock." Shows her (limited) tools. "Cesarea places it on the nightstand and opens it to shuffle through what’s inside."
+**中文理解**：显示 Cesarea retrieves chest—"with a rusty brass lock." Shows her (limited) tools. "Cesarea places it on the nightstand and opens it to shuffle through what’s inside."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `chest with a rusty brass lock`：生锈铜锁的箱子——tools
@@ -985,9 +985,9 @@ start_date: 2026-10-19
 
 > **原句 72:** "Cesarea places it on the nightstand and opens it to shuffle through what’s inside."
 
-**中文理解**：Cesarea opens chest—"to shuffle through what’s inside." Shows her (limited) search. "You didn’t follow the spell? You only needed to lie with him that one night."
+**中文理解**：显示 Cesarea opens chest—"to shuffle through what’s inside." Shows her (limited) search. "You didn’t follow the spell? You only needed to lie with him that one night."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `opens it to shuffle through what’s inside`：打开 shuffled through 里面——search
@@ -998,9 +998,9 @@ start_date: 2026-10-19
 
 > **原句 73:** "You didn’t follow the spell? You only needed to lie with him that one night.”"
 
-**中文理解**：Cesarea’s "You didn’t follow the spell? You only needed to lie with him that one night."—shows her (limited) criticism. Yolanda didn’t follow bruja’s original spell (lie with Valentín) because she slept with Javier instead。
+**中文理解**：显示 Cesarea’s "You didn’t follow the spell? You only needed to lie with him that one night."—shows her (limited) criticism. Yolanda didn’t follow bruja’s original spell (lie with Valentín) because she slept with Javier instead。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `You didn’t follow the spell?`：你没按咒语做？——criticism
@@ -1012,7 +1012,7 @@ start_date: 2026-10-19
 
 > **原句 74:** "“Don’t thank me yet.” Cesarea pulls out a small jar the size of a fingernail. She places it on my hand next to the ring. “Es toloache.”"
 
-**中文理解**：Cesarea’s "Don’t thank me yet."—shows her (limited) warning. Pulls out toloache jar. "Es toloache." Shows love potion。
+**中文理解**：显示 Cesarea’s "Don’t thank me yet."—shows her (limited) warning. Pulls out toloache jar. "Es toloache." Shows love potion。
 
 **句子结构**：引语 + 动作 + 引语。
 
@@ -1026,9 +1026,9 @@ start_date: 2026-10-19
 
 > **原句 75:** "“A love potion?”"
 
-**中文理解**：Yolanda’s "A love potion?"—shows her (limited) understanding. Cesarea: "She sighs and shakes her head. 'It’s a plant that is used to provoke love in others.'"
+**中文理解**：显示 Yolanda’s "A love potion?"—shows her (limited) understanding. Cesarea: "She sighs and shakes her head. 'It’s a plant that is used to provoke love in others.'"
 
-**句子结构**：简单问句。
+**句子结构**：简单问句，疑问词引导。
 
 **关键词**：
 - `A love potion?`：爱情药水？——misunderstanding
@@ -1039,7 +1039,7 @@ start_date: 2026-10-19
 
 > **原句 76:** "She sighs and shakes her head. “It’s a plant that is used to provoke love in others. This here, is a tincture. A plant oil, if you will. Open it,” she says."
 
-**中文理解**：Cesarea’s "It’s a plant that is used to provoke love in others. This here, is a tincture."—shows her (limited) explanation. "Open it," she says.
+**中文理解**：显示 Cesarea’s "It’s a plant that is used to provoke love in others. This here, is a tincture."—shows her (limited) explanation. "Open it," she says.
 
 **句子结构**：引语 + 叙述者评注 + 引语。
 
@@ -1053,9 +1053,9 @@ start_date: 2026-10-19
 
 > **原句 77:** "The bottle?"
 
-**中文理解**：Yolanda’s "The bottle?"—shows her (limited) confusion. Cesarea: "The ring, niña."
+**中文理解**：显示 Yolanda’s "The bottle?"—shows her (limited) confusion. Cesarea: "The ring, niña."
 
-**句子结构**：简单问句。
+**句子结构**：简单问句，疑问词引导。
 
 **关键词**：
 - `The bottle?`：瓶子？——confusion
@@ -1066,9 +1066,9 @@ start_date: 2026-10-19
 
 > **原句 78:** "The ring, niña."
 
-**中文理解**：Cesarea’s "The ring, niña."—shows her (limited) instruction. Yolanda: "I pull at the red plastic jewel, realizing the ring is a locket."
+**中文理解**：显示 Cesarea’s "The ring, niña."—shows her (limited) instruction. Yolanda: "I pull at the red plastic jewel, realizing the ring is a locket."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `The ring, niña`：戒指，女孩——instruction
@@ -1079,9 +1079,9 @@ start_date: 2026-10-19
 
 > **原句 79:** "I pull at the red plastic jewel, realizing the ring is a locket."
 
-**中文理解**：Yolanda’s "I pull at the red plastic jewel, realizing the ring is a locket."—shows her (limited) discovery. "Now pour the toloache inside."
+**中文理解**：显示 Yolanda’s "I pull at the red plastic jewel, realizing the ring is a locket."—shows her (limited) discovery. "Now pour the toloache inside."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `realizing the ring is a locket`：意识到戒指是小盒——discovery
@@ -1092,7 +1092,7 @@ start_date: 2026-10-19
 
 > **原句 80:** "Now pour the toloache inside."
 
-**中文理解**：Cesarea’s "Now pour the toloache inside."—shows her (limited) instruction. Yolanda: "I do as she says, until the space is full of the distilled love plant."
+**中文理解**：显示 Cesarea’s "Now pour the toloache inside."—shows her (limited) instruction. Yolanda: "I do as she says, until the space is full of the distilled love plant."
 
 **句子结构**：简单祈使句。
 
@@ -1105,9 +1105,9 @@ start_date: 2026-10-19
 
 > **原句 81:** "I do as she says, until the space is full of the distilled love plant."
 
-**中文理解**：Yolanda pours toloache—"until the space is full of the distilled love plant." Shows her (limited) compliance. "She closes it. Even shut, an acrid odor leaks from the gem."
+**中文理解**：显示 Yolanda pours toloache—"until the space is full of the distilled love plant." Shows her (limited) compliance. "She closes it. Even shut, an acrid odor leaks from the gem."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `space is full of the distilled love plant`：空间被蒸馏的爱情植物填满——compliance
@@ -1118,7 +1118,7 @@ start_date: 2026-10-19
 
 > **原句 82:** "Be careful, mi niña. If you do this wrong, he can go cuckoo. You know what they say, ‘todos los enamorados están locos.’"
 
-**中文理解**：Cesarea’s "Be careful, mi niña. If you do this wrong, he can go cuckoo."—shows her (limited) warning. Narrator’s translation "All lovers are insane." Shows (limited) wisdom。
+**中文理解**：显示 Cesarea’s "Be careful, mi niña. If you do this wrong, he can go cuckoo."—shows her (limited) warning. Narrator’s translation "All lovers are insane." Shows (limited) wisdom。
 
 **句子结构**：多句。
 
@@ -1133,9 +1133,9 @@ start_date: 2026-10-19
 
 > **原句 83:** "“How does one use it?”"
 
-**中文理解**：Yolanda’s "How does one use it?"—shows her (limited) question. Cesarea: "Wear the ring at all times. Then, when Don Julián isn’t looking, let it all fall into his drink."
+**中文理解**：显示 Yolanda’s "How does one use it?"—shows her (limited) question. Cesarea: "Wear the ring at all times. Then, when Don Julián isn’t looking, let it all fall into his drink."
 
-**句子结构**：简单问句。
+**句子结构**：简单问句，疑问词引导。
 
 **关键词**：
 - `How does one use it?`：怎么使用？——question
@@ -1146,9 +1146,9 @@ start_date: 2026-10-19
 
 > **原句 84:** "Wear the ring at all times. Then, when Don Julián isn’t looking, let it all fall into his drink. A sweet drink will hide the bitterness of the plant."
 
-**中文理解**：Cesarea’s instructions—"Wear the ring at all times. Then, when Don Julián isn’t looking, let it all fall into his drink." Shows application method. "A sweet drink will hide the bitterness."
+**中文理解**：显示 Cesarea’s instructions—"Wear the ring at all times. Then, when Don Julián isn’t looking, let it all fall into his drink." Shows application method. "A sweet drink will hide the bitterness."
 
-**句子结构**：三句话。
+**句子结构**：三句话，递进关系。
 
 **关键词**：
 - `Wear the ring at all times`：一直戴戒指——application
@@ -1161,7 +1161,7 @@ start_date: 2026-10-19
 
 > **原句 85:** "“Cesarea.” I stare into her big blue eyes. “I . . . The payment . . .”"
 
-**中文理解**：Yolanda’s "Cesarea. I... The payment..."—shows her (limited) concern about payment. Cesarea: "No. No. We’ll see when you have money."
+**中文理解**：显示 Yolanda’s "Cesarea. I... The payment..."—shows her (limited) concern about payment. Cesarea: "No. No. We’ll see when you have money."
 
 **句子结构**：引语 + 叙述者评注 + 引语。
 
@@ -1174,7 +1174,7 @@ start_date: 2026-10-19
 
 > **原句 86:** "No. No,” she says, and sways her hand. “We’ll see when you have money. Now, you just have need. And I have tools.”"
 
-**中文理解**：Cesarea’s "No. No. We’ll see when you have money. Now, you just have need. And I have tools."—shows her (limited) generosity. "Thank you," I say, almost breathless.
+**中文理解**：显示 Cesarea’s "No. No. We’ll see when you have money. Now, you just have need. And I have tools."—shows her (limited) generosity. "Thank you," I say, almost breathless.
 
 **句子结构**：多句。
 
@@ -1188,7 +1188,7 @@ start_date: 2026-10-19
 
 > **原句 87:** "“Thank you,” I say, almost breathless. She has always been a generous soul."
 
-**中文理解**：Yolanda’s "Thank you, I say, almost breathless."—shows her (limited) gratitude. "She has always been a generous soul." Shows her (limited) appreciation。
+**中文理解**：显示 Yolanda’s "Thank you, I say, almost breathless."—shows her (limited) gratitude. "She has always been a generous soul." Shows her (limited) appreciation。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -1202,9 +1202,9 @@ start_date: 2026-10-19
 
 > **原句 88:** "Cesarea signals for me to go, but I can’t. It’s as if I’m tethered to the old mattress."
 
-**中文理解**：Yolanda’s "Cesarea signals for me to go, but I can’t. It’s as if I’m tethered to the old mattress."—shows her (limited) hesitation. She wants to tell Cesarea about Panchito (egg birth)。
+**中文理解**：显示 Yolanda’s "Cesarea signals for me to go, but I can’t. It’s as if I’m tethered to the old mattress."—shows her (limited) hesitation. She wants to tell Cesarea about Panchito (egg birth)。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Cesarea signals for me to go, but I can’t`：Cesarea 示意我走，但我不行——hesitation
@@ -1216,9 +1216,9 @@ start_date: 2026-10-19
 
 > **原句 89:** "The spell worked. I had a son. Panchito.”"
 
-**中文理解**：Yolanda’s "The spell worked. I had a son. Panchito."—shows her (limited) confession. Cesarea: "Yes. I know."
+**中文理解**：显示 Yolanda’s "The spell worked. I had a son. Panchito."—shows her (limited) confession. Cesarea: "Yes. I know."
 
-**句子结构**：三句话。
+**句子结构**：三句话，递进关系。
 
 **关键词**：
 - `The spell worked. I had a son. Panchito.`：咒语生效了。我有了儿子。Panchito。——confession
@@ -1229,9 +1229,9 @@ start_date: 2026-10-19
 
 > **原句 90:** "Yes. I know."
 
-**中文理解**：Cesarea’s "Yes. I know."—shows her (limited) awareness. Yolanda: "A part of me wants to keep going, revealing to her the details of his birth, how I bore him from an egg."
+**中文理解**：显示 Cesarea’s "Yes. I know."—shows her (limited) awareness. Yolanda: "A part of me wants to keep going, revealing to her the details of his birth, how I bore him from an egg."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `Yes. I know.`：是的。我知道。——awareness
@@ -1242,9 +1242,9 @@ start_date: 2026-10-19
 
 > **原句 91:** "A part of me wants to keep going, revealing to her the details of his birth, how I bore him from an egg."
 
-**中文理解**：Yolanda’s "A part of me wants to keep going, revealing to her the details of his birth, how I bore him from an egg."—shows her (limited) desire to confess. "No one but her can know."
+**中文理解**：显示 Yolanda’s "A part of me wants to keep going, revealing to her the details of his birth, how I bore him from an egg."—shows her (limited) desire to confess. "No one but her can know."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `revealing to her the details of his birth, how I bore him from an egg`：向她透露 his birth 的 details, how I bore him from an egg——desire to confess
@@ -1255,9 +1255,9 @@ start_date: 2026-10-19
 
 > **原句 92:** "You should go, mi niña. And good luck."
 
-**中文理解**：Cesarea’s "You should go, mi niña. And good luck."—shows her (limited) dismissal. Yolanda: "Slowly I stand, not understanding why she doesn’t want to know."
+**中文理解**：显示 Cesarea’s "You should go, mi niña. And good luck."—shows her (limited) dismissal. Yolanda: "Slowly I stand, not understanding why she doesn’t want to know."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `You should go, mi niña`：你应该走了，我的女孩——dismissal
@@ -1269,9 +1269,9 @@ start_date: 2026-10-19
 
 > **原句 93:** "Slowly I stand, not understanding why she doesn’t want to know."
 
-**中文理解**：Yolanda’s "Slowly I stand, not understanding why she doesn’t want to know."—shows her (limited) confusion. "The stairs are more menacing in daylight."
+**中文理解**：显示 Yolanda’s "Slowly I stand, not understanding why she doesn’t want to know."—shows her (limited) confusion. "The stairs are more menacing in daylight."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `not understanding why she doesn’t want to know`：不理解她为什么不想知道——confusion
@@ -1282,9 +1282,9 @@ start_date: 2026-10-19
 
 > **原句 94:** "The stairs are more menacing in daylight."
 
-**中文理解**：Yolanda’s "The stairs are more menacing in daylight."—shows her (limited) fear. "A part of me wants to jump sideways and be done with them."
+**中文理解**：显示 Yolanda’s "The stairs are more menacing in daylight."—shows her (limited) fear. "A part of me wants to jump sideways and be done with them."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `The stairs are more menacing in daylight`：楼梯在 daylight 更 menacing——fear
@@ -1295,9 +1295,9 @@ start_date: 2026-10-19
 
 > **原句 95:** "A part of me wants to jump sideways and be done with them. The other part wants to stay rooted on the second floor. One step at a time, that’s how I descend."
 
-**中文理解**：Yolanda’s "One step at a time, that’s how I descend."—shows her (limited) caution. "A part of me wants to jump sideways and be done with them."
+**中文理解**：显示 Yolanda’s "One step at a time, that’s how I descend."—shows her (limited) caution. "A part of me wants to jump sideways and be done with them."
 
-**句子结构**：三句话。
+**句子结构**：三句话，递进关系。
 
 **关键词**：
 - `One step at a time, that’s how I descend`：一步一个台阶，这样我下去——caution
