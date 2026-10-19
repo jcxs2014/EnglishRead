@@ -124,7 +124,11 @@ def collect(book_dir, only_file=None):
                 if f in own:
                     q_own.append((name, i, field, q))
                 elif any(f in r for r in all_refs):
-                    q_other.append((name, i, field, q))
+                    # ⚠️ 2026-10-19：跨章引用若**本块已标出 chNN**（＝已标注）
+                    # 就不该再报「须在本块内标出 chNN」——那是已完成的动作。
+                    other_chs = [c for c, r in per_chapter.items() if f in r]
+                    labeled = any(re.search(rf"\b{c}\b", body) for c in other_chs)
+                    q_other.append((name, i, field, q, labeled, other_chs))
                 else:
                     q_none.append((name, i, field, q))
             for bm in BARE_RE.finditer(body):
@@ -173,13 +177,23 @@ def main():
         print("✅ 引号内英文全部能在 text/ 里查到")
 
     if q_other:
-        print(f"⚠️ 跨章引用（引号内英文在他章、本章查无）：{len(q_other)} 条"
-              f" —— 须在本块内标出 chNN，否则读者会误读为引自本章")
-        if not args.quiet:
-            for name, line, field, frag in q_other[: args.max_list]:
-                print(f"    {name}:{line} [{field}] {frag[:80]}")
-            if len(q_other) > args.max_list:
-                print(f"    …… 另有 {len(q_other) - args.max_list} 条")
+        labeled = [t for t in q_other if t[4]]
+        unlabeled = [t for t in q_other if not t[4]]
+        if unlabeled:
+            print(f"⚠️ 跨章引用**未标注**（英文在他章、本章查无、块内无 chNN）："
+                  f"{len(unlabeled)} 条 ⇒ 须在本块内标出 chNN，否则读者会误读为引自本章")
+            if not args.quiet:
+                for name, line, field, frag, _lbl, chs in unlabeled[: args.max_list]:
+                    print(f"    {name}:{line} [{field}] 实为 {'/'.join(chs)}：{frag[:80]}")
+                if len(unlabeled) > args.max_list:
+                    print(f"    …… 另有 {len(unlabeled) - args.max_list} 条")
+        if labeled:
+            print(f"ℹ️ 跨章引用**已标注**（块内已标 chNN）：{len(labeled)} 条 —— 合规，不判红")
+            if not args.quiet:
+                for name, line, field, frag, _lbl, chs in labeled[: args.max_list]:
+                    print(f"    {name}:{line} [{field}] 实为 {'/'.join(chs)}：{frag[:80]}")
+                if len(labeled) > args.max_list:
+                    print(f"    …… 另有 {len(labeled) - args.max_list} 条")
 
     if args.show_bare and bare:
         print(f"⚠️ 裸英文词组 {len(bare)} 条（不判红）")

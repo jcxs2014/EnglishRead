@@ -124,24 +124,44 @@ def main():
                 # 找它在哪些章
                 hit = [c for c, r in refs.items() if f in r]
                 if hit:
-                    findings.append((name, i, sec, q, hit))
+                    # ⚠️ 2026-10-19：块内**已标出 chNN**的跨章回指是**合规**的
+                    #（读者知道引自别章）⇒ 与「真误标」分开列。
+                    labeled = any(re.search(rf"\b{c}\b", s) for c in hit)
+                    findings.append((name, i, sec, q, hit, labeled))
 
     print(f"=== 跨章误标检查（{os.path.basename(args.book_dir.rstrip('/'))}）===")
+    unlabeled = [f for f in findings if not f[5]]
+    labeled = [f for f in findings if f[5]]
+    if unlabeled:
+        print(f"❌ 跨章误标（块内**未标 chNN**，读者会误读为本章引文）：{len(unlabeled)} 条")
+        by_file = {}
+        for name, line, sec, q, hit, _l in unlabeled:
+            by_file.setdefault(name, []).append((line, sec, q, hit))
+        for name in sorted(by_file):
+            items = by_file[name]
+            print(f"  {name}（{len(items)} 条）")
+            for line, sec, q, hit in items[: args.max_list]:
+                print(f"    L{line} [{sec}] 实为 {'/'.join(hit)}：{q[:70]}")
+            if len(items) > args.max_list:
+                print(f"    …… 另有 {len(items) - args.max_list} 条")
+    if labeled:
+        print(f"ℹ️ 跨章回指**已标注**（块内已标 chNN）：{len(labeled)} 条 —— 合规，不判红")
+        if args.quiet:
+            pass
+        else:
+            by_file = {}
+            for name, line, sec, q, hit, _l in labeled:
+                by_file.setdefault(name, []).append((line, sec, q, hit))
+            for name in sorted(by_file):
+                items = by_file[name]
+                print(f"  {name}（{len(items)} 条）")
+                for line, sec, q, hit in items[: args.max_list]:
+                    print(f"    L{line} [{sec}] 实为 {'/'.join(hit)}：{q[:70]}")
+                if len(items) > args.max_list:
+                    print(f"    …… 另有 {len(items) - args.max_list} 条")
     if not findings:
-        print("✅ 未发现跨章误标")
         return 0
-    print(f"⚠️ 跨章误标：{len(findings)} 条（英文在书里，但不在本章）")
-    by_file = {}
-    for name, line, sec, q, hit in findings:
-        by_file.setdefault(name, []).append((line, sec, q, hit))
-    for name in sorted(by_file):
-        items = by_file[name]
-        print(f"  {name}（{len(items)} 条）")
-        for line, sec, q, hit in items[: args.max_list]:
-            print(f"    L{line} [{sec}] 实为 {'/'.join(hit)}：{q[:70]}")
-        if len(items) > args.max_list:
-            print(f"    …… 另有 {len(items) - args.max_list} 条")
-    return 1
+    return 1 if unlabeled else 0
 
 
 if __name__ == "__main__":

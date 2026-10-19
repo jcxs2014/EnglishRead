@@ -124,7 +124,10 @@ def rewrite_tail(lines, new_body):
     except StopIteration:
         return lines
     # 剥掉 new_body 开头的标题行（可能有多个）
-    body_lines = new_body.strip("\n").split("\n")
+    if isinstance(new_body, list):
+        body_lines = list(new_body)
+    else:
+        body_lines = new_body.strip("\n").split("\n")
     while body_lines and body_lines[0].strip() == TAIL_HEADING:
         body_lines.pop(0)
     new_body = "\n".join(body_lines)
@@ -193,6 +196,18 @@ def main():
     book_dir, spec_path = sys.argv[1], sys.argv[2]
     dry = "--dry-run" in sys.argv
     spec = json.load(open(spec_path, encoding="utf-8"))
+
+    # ⚠️ 2026-10-19 修正：spec 常把 `_tail_` 写在**顶层**而不是文件字典内
+    #（实测我自己写 B14 spec 时连踩两次，脚本报「文件不存在：<book>/_tail_」）。
+    # ⇒ 单文件 spec 时自动下移；多文件时报错提示，避免静默丢尾节。
+    if "_tail_" in spec:
+        others = [k for k in spec if k != "_tail_"]
+        if len(others) == 1:
+            spec[others[0]]["_tail_"] = spec.pop("_tail_")
+        else:
+            raise SystemExit(
+                f"✗ spec 顶层有 _tail_ 但含 {len(others)} 个文件，无法判断归属；"
+                f"请把 _tail_ 放进文件字典内")
 
     touched = 0
     for fname, fspec in spec.items():
