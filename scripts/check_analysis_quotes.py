@@ -48,6 +48,8 @@ BLOCK_RE = re.compile(r'^> \*\*原句 (\d+):\*\*')
 QUOTED_RE = re.compile(r'[“"「]([^”"」]{6,})[”"」]')
 # 裸英文词组
 BARE_RE = re.compile(r"\b[A-Za-z][A-Za-z'’-]*(?:\s+[A-Za-z][A-Za-z'’-]*){2,}\b")
+# 汉字
+CJK = re.compile(r'[一-鿿]')
 
 # 本库惯用的语法术语/句式记法——不是引文，不该判伪造
 TERMINOLOGY = {
@@ -79,6 +81,15 @@ def build_reference(book_dir):
 
 
 def has_en(s: str) -> bool:
+    """片段是否算「英文原句」——**必须不含汉字**。
+
+    ⚠️ 2026-10-19 修正：原判据只看「≥8 个英文字母」，于是
+    `**中文理解**：Dan 去水槽洗早餐碗碟："Poppy 回来了吗？她跟你谈过放弃 Dance 的事吗？"`
+    这类**中文翻译被引号包住**的写法被当成英文原句 → 报「疑似伪造」假红。
+    ⇒ 加一条：**含汉字 ⇒ 不是英文原句**（中文译文被引号包住是合法写法）。
+    """
+    if CJK.search(s):
+        return False
     return len(re.findall(r"[A-Za-z]", s)) >= 8
 
 
