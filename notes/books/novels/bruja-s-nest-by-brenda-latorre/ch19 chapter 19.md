@@ -116,12 +116,12 @@ start_date: 2026-10-19
 
 > **原句 8:** "Or Javier planned this to make Panchito his new specimen."
 
-**中文理解**：Yolanda suspects Javier—"Perhaps Javier planned this to make Panchito his new specimen." Shows her (limited) paranoia. "I turn to look at Javier and press my index finger to his chest."
+**中文理解**：Yolanda suspects Javier—"Or Javier planned this to make Panchito his new specimen." Shows her (limited) paranoia. "I turn to look at Javier and press my index finger to his chest."
 
 **句子结构**：简单陈述句。
 
 **关键词**：
-- `Perhaps Javier planned this to make Panchito his new specimen`：也许 Javier 计划让 Panchito 成为标本——paranoia
+- `Or Javier planned this to make Panchito his new specimen`：或者 Javier 计划让 Panchito 成为标本——paranoia
 
 **为什么这样写**：Yolanda’s suspicion shows her (limited) paranoia—she blames Javier for Panchito’s behavior。
 

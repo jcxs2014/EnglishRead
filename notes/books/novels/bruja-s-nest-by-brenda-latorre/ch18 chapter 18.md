@@ -1116,9 +1116,9 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 82:** "Be careful, mi niña. If you do this wrong, he can go cuckoo. You know what they say, ‘todos los enamorados están locos.’ All lovers are insane."
+> **原句 82:** "Be careful, mi niña. If you do this wrong, he can go cuckoo. You know what they say, ‘todos los enamorados están locos.’"
 
-**中文理解**：Cesarea’s "Be careful, mi niña. If you do this wrong, he can go cuckoo."—shows her (limited) warning. "All lovers are insane." Shows (limited) wisdom。
+**中文理解**：Cesarea’s "Be careful, mi niña. If you do this wrong, he can go cuckoo."—shows her (limited) warning. Narrator’s translation "All lovers are insane." Shows (limited) wisdom。
 
 **句子结构**：多句。
 
