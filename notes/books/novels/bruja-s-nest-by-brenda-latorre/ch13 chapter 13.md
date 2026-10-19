@@ -103,7 +103,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "Slowly I remove the blanket. There it is: my egg. I lift it, and it moves."
 
-**中文理解**：Yolanda checks egg—"my egg. I lift it, and it moves." Shows maternal connection. "As if it knows I’m Mamá." Anthropomorphizes egg。
+**中文理解**：Yolanda checks egg—"my egg. I lift it, and it moves." Shows maternal connection. "As if it knows I’m Mamá." anthropomorphizes egg。
 
 **句子结构**：三句话。
 

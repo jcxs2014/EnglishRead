@@ -38,7 +38,7 @@ start_date: 2026-10-19
 **句子结构**：两句话。
 
 **关键词**：
-- `Silbón`：Silbón (Venezuelan legend)—whistling ghost
+- `Silbón`：Silbón (venezuelan legend)—whistling ghost
 - `murdered his father`：谋杀父亲——patricide
 
 **为什么这样写**：Silbón legend connects to Yolanda’s situation—she has "murdered" her own innocence (Brother, Javier, bruja). Whistling wind = bad omen。

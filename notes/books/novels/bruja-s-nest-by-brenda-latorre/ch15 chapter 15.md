@@ -162,7 +162,7 @@ start_date: 2026-10-19
 - `our Señora Cynthia`：我们的 Cynthia 夫人——disappeared wife
 - `none of us counted on her disappearance`：没人预料到她失踪——mystery
 
-**为什么这样写**：Alta’s revelation about Cynthia shows hacienda’s dark history—wife disappeared, leaving clothes for dead children. Connects to "disappear without a trace" theme。
+**为什么这样写**：Alta’s revelation about Cynthia shows hacienda’s dark history—wife disappeared, leaving clothes for dead children. connects to "disappear without a trace" theme。
 
 ---
 
@@ -316,7 +316,7 @@ start_date: 2026-10-19
 
 > **原句 23:** "The days that follow are quiet."
 
-**中文理解**：Post-funeral quiet—"The days that follow are quiet." Shows mourning atmosphere. "Even though it’s over, the atmosphere remains altered."
+**中文理解**：post-funeral quiet—"The days that follow are quiet." Shows mourning atmosphere. "Even though it’s over, the atmosphere remains altered."
 
 **句子结构**：简单陈述句。
 
@@ -412,7 +412,7 @@ start_date: 2026-10-19
 
 > **原句 30:** "“There’s no milk left,” I say."
 
-**中文理解**：Yolanda’s "There’s no milk left."—shows her confession. "In me, I mean." Clarifies。
+**中文理解**：Yolanda’s "There’s no milk left."—shows her confession. "In me, I mean." clarifies。
 
 **句子结构**：简单陈述句。
 

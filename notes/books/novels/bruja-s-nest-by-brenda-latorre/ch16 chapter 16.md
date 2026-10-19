@@ -124,7 +124,7 @@ start_date: 2026-10-19
 - `Cook has spent hundreds of pesos on blood`：Cook 花了数百比索买血——resource strain
 - `He must be the devil’s son`：他一定是魔鬼的儿子——Alta’s fear
 
-**为什么这样写**：Alta’s accusation shows her fear—Panchito’s deformity + blood consumption = "devil’s son." Connects to religious anxiety。
+**为什么这样写**：Alta’s accusation shows her fear—Panchito’s deformity + blood consumption = "devil’s son." connects to religious anxiety。
 
 ---
 
@@ -514,7 +514,7 @@ start_date: 2026-10-19
 
 > **原句 37:** "He is the son of Santa Muerte. I am but her vessel."
 
-**中文理解**：Yolanda’s "He is the son of Santa Muerte. I am but her vessel."—shows her belief (or rationalization). Connects to bruja ritual。
+**中文理解**：Yolanda’s "He is the son of Santa Muerte. I am but her vessel."—shows her belief (or rationalization). connects to bruja ritual。
 
 **句子结构**：两句话。
 
@@ -528,7 +528,7 @@ start_date: 2026-10-19
 
 > **原句 38:** "Perhaps if I work for Muerte, too, I’ll be somehow rewarded."
 
-**中文理解**：Yolanda’s "Perhaps if I work for Muerte, too, I’ll be somehow rewarded."—shows her transactional spirituality. Connects to bruja’s "life for a life."
+**中文理解**：Yolanda’s "Perhaps if I work for Muerte, too, I’ll be somehow rewarded."—shows her transactional spirituality. connects to bruja’s "life for a life."
 
 **句子结构**：简单陈述句。
 

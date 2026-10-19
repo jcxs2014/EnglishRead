@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "When I caress the heavy oval, it moves."
 
-**中文理解**：Egg moves—"When I caress the heavy oval, it moves." Shows it’s alive. "A slight shake in my arms to let me know it’s there." Maternal connection despite horror。
+**中文理解**：Egg moves—"When I caress the heavy oval, it moves." Shows it’s alive. "A slight shake in my arms to let me know it’s there." maternal connection despite horror。
 
 **句子结构**：两句话。
 

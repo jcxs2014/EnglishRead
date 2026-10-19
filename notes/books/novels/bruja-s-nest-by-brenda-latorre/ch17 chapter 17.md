@@ -33,7 +33,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "It’s someone else’s blood. Perhaps it’s not blood. A tomato orchard is kept near the bruja’s house—he could’ve gone on a vegetable rampage."
 
-**中文理解**：Yolanda finds Panchito splattered in red—"It’s someone else’s blood. Perhaps it’s not blood." Shows her denial. "A tomato orchard is kept near the bruja’s house—he could’ve gone on a vegetable rampage." Rationalization.
+**中文理解**：Yolanda finds Panchito splattered in red—"It’s someone else’s blood. Perhaps it’s not blood." Shows her denial. "A tomato orchard is kept near the bruja’s house—he could’ve gone on a vegetable rampage." rationalization.
 
 **句子结构**：三句话。
 
@@ -422,14 +422,14 @@ start_date: 2026-10-19
 
 > **原句 31:** "“When the clock strikes twelve, there’s a knock on the hacienda’s front door.”"
 
-**中文理解**：Midnight knock—Itzco brings food. "A pounding on the shed’s door distracts me." Shows Itzco’s arrival。
+**中文理解**：midnight knock—Itzco brings food. "A pounding on the shed’s door distracts me." Shows Itzco’s arrival。
 
 **句子结构**：简单陈述句。
 
 **关键词**：
 - `When the clock strikes twelve, there’s a knock`：钟敲十二点，门响——midnight arrival
 
-**为什么这样写**：Midnight knock shows Itzco’s care—he brings food on Christmas Eve。
+**为什么这样写**：midnight knock shows Itzco’s care—he brings food on Christmas Eve。
 
 ---
 

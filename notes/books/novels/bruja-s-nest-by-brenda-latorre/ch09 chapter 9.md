@@ -106,7 +106,7 @@ start_date: 2026-10-19
 **句子结构**：引语 + 从句（don’t they?）+ 陈述（That’s what you’ve promised）。
 
 **关键词**：
-- `Doctors make a pledge`：医生发誓——Hippocratic oath appeal
+- `Doctors make a pledge`：医生发誓——hippocratic oath appeal
 - `They’ll save anyone if they can`：他们能救任何人就救——oath’s promise
 
 **为什么这样写**：Yolanda’s appeal to medical ethics fails—doctor prioritizes payment over oath, showing town’s transactional nature。

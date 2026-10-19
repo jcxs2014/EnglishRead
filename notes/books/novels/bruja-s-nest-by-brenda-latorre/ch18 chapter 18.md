@@ -46,7 +46,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "Javier comes running, and once he sees us, he paces up and down the stained-glass hallway, the one we use to impress visitors, with its black-and-white tiled floor."
 
-**中文理解**：Javier paces—shows his nervousness. "Hands intertwined behind his back... stares at his feet, making sure each foot lands exactly in a white or black square." Shows his OCD-like behavior。
+**中文理解**：Javier paces—shows his nervousness. "Hands intertwined behind his back... stares at his feet, making sure each foot lands exactly in a white or black square." Shows his ocd-like behavior。
 
 **句子结构**：两句话。
 
@@ -89,7 +89,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "I stare at the dog’s empty red sockets; he’s been gutted."
 
-**中文理解**：Yolanda sees gutted dog—"empty red sockets; he’s been gutted." Shows horror. Connects to Panchito’s hunting。
+**中文理解**：Yolanda sees gutted dog—"empty red sockets; he’s been gutted." Shows horror. connects to Panchito’s hunting。
 
 **句子结构**：两句话。
 
