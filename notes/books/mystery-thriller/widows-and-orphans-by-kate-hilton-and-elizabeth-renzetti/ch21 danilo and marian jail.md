@@ -10,61 +10,66 @@ modified: "2026-10-17"
 - **一句话概括**：Danilo confesses (Bliss conspiring with Clarity, Bree sneaking with Bodhi, pregnancy high-risk, Bodhi as suspect, Bodhi as gaslighter); Cat finds Marian's room empty, finds "YOU WILL PAY" note in Grit and Gumption; Cat learns Marian is in jail; Cat attacked by Peter/Kyle on highway (tire iron, side mirror smashed), rescued by bingo woman.
 - **情感弧线位置**：全书第二十一章——Danilo's testimony adds suspects (Bodhi, Clarity); Marian's jail reveals her as suspect; Peter/Kyle's highway attack escalates convoy violence.
 - **Tropes**：Danilo's confession / "YOU WILL PAY" note / Marian in jail / highway attack / bingo woman rescue.
-- **人物弧线**：Cat 从 "investigator" 转向 "target of violence + daughter of jailed suspect"; Danilo 从 "PR guy" 转向 "witness"; Marian 从 "witness" 转向 "jailed suspect."
+- **人物弧线**：Cat 从 "investigator" 转向 target of violence + daughter of jailed suspect; Danilo 从 "PR guy" 转向 "witness"; Marian 从 "witness" 转向 "jailed suspect."
 - **叙事手法**：第一人称限知 + Danilo's confession + empty room + "YOU WILL PAY" note + highway attack as chapter climax.
 
 ## 精读
 
 > **原句 1:** “On the one side, you had Bliss conspiring with Clarity K to build a spiritual empire—although if you ask me, Clarity was planning on strip-mining Bliss for followers and then dumping her within a year. Clarity’s an evil genius; you can’t trust a word that comes out of her mouth.”
 
-- **中文理解**："Bliss was conspiring with Clarity K to build a spiritual empire—although if you ask me, Clarity was planning on strip-mining Bliss for followers and then dumping her within a year. Clarity's an evil genius; you can't trust a word that comes out of her mouth."
-- **关键词**：conspiring with Clarity K—— conspiring with Clarity K；strip-mining Bliss for followers—— strip-mining Bliss for followers；evil genius—— evil genius
-- **为什么这样写**：Danilo's "conspiring with Clarity K" is his assessment of Bliss's plan. "strip-mining Bliss for followers" is his metaphor for Clarity's exploitation. "evil genius" is his characterization of Clarity. This is Danilo's insider testimony.
-- **读者视角提示**：Danilo's "Clarity was planning on strip-mining Bliss" connects to ch14's mistaken identity theory. Track whether Clarity's plan involved Bliss's death.
+- **中文理解**：Danilo 说 Bliss 与 Clarity K 合谋打造灵性帝国——不过依他看，后者只是想把前者的追随者榨干，一年内就把她甩掉。Clarity 是个邪恶天才，她说的每句话都不能信。
+- **关键词**：conspiring with Clarity K——与克拉丽蒂合谋；strip-mining Bliss for followers——榨取布利斯的追随者；evil genius——邪恶天才
+- **为什么这样写**：Danilo 的"与 Clarity K 合谋"是他对 Bliss 计划的判断；"榨干 Bliss 的追随者"是他形容 Clarity 剥削的比喻；"邪恶天才"是他对 Clarity 的定性。这是他基于偷听所得的二手证词，反映他对 Clarity 的负面判断，也揭示了两人之间的权力游戏。
+- **读者视角提示**：他对 Clarity"想榨干 Bliss"的说法与第 14 章的"身份误认"理论相呼应。追踪 Clarity 的计划是否涉及 Bliss 的死，以及 Bliss 是否因此遇害，注意其中的阴谋色彩与布局。
 
 > **原句 2:** “On the other side, Bree was sneaking around with Bodhi. She wanted to get away from the woo-woo stuff and break into the market for nutritional supplements and generally be more science-y. But then Bodhi knocked her up and the pregnancy turned out to be high-risk, and she ended up on bedrest. She insisted on coming to this conference against her doctor’s orders because she didn’t want to give Bliss an advantage in their little war.”
 
-- **中文理解**："On the other side, Bree was sneaking around with Bodhi. She wanted to get away from the woo-woo stuff and break into the market for nutritional supplements and generally be more science-y. But then Bodhi knocked her up and the pregnancy turned out to be high-risk, and she ended up on bedrest. She insisted on coming to this conference against her doctor's orders because she didn't want to give Bliss an advantage in their little war."
-- **关键词**：sneaking around with Bodhi—— sneaking around with Bodhi；knocked her up—— knocked her up；high-risk—— high-risk；bedrest—— bedrest；little war—— little war
-- **为什么这样写**：Danilo's summary is the chapter's key intelligence. "Bree was sneaking around with Bodhi" confirms their affair. "knocked her up" + "high-risk" + "bedrest" confirms Bree's pregnancy (ch20). "She insisted on coming to this conference against her doctor's orders" explains Bree's presence. "little war" frames Bliss/Bree conflict.
-- **读者视角提示**：Danilo's "little war" frames the Bliss/Bree conflict as military. Track whether this "war" led to murder.
+- **中文理解**：另一方面，Bree 偷偷与 Bodhi 勾搭。她想摆脱那些玄学玩意儿，打入营养补剂市场，整体更"科学"一点。可 Bodhi 把她搞怀孕，孕期又成了高危，最后卧床保胎。她不顾医生反对坚持来参会，是因为不想在两人小战争里给 Bliss 任何优势。
+- **关键词**：sneaking around with Bodhi——偷偷与博迪勾搭；knocked her up——把她搞怀孕；high-risk——高危；bedrest——卧床保胎；little war——小战争
+- **为什么这样写**：Danilo 的这段总结是本章的关键情报。"偷偷与 Bodhi 勾搭"证实了他们的私情；"搞怀孕"+"高危"+"卧床"证实 Bree 怀孕（第 20 章）；"不顾医嘱坚持参会"解释了 Bree 为何在场；"小战争"框定了 Bliss/Bree 的冲突，显示两人矛盾升级。
+- **读者视角提示**：他的"小战争"把 Bliss/Bree 的冲突军事化。追踪这场"战争"是否导致了谋杀，以及 Bree 是否因此遇害，注意双方的敌意与升级。
 
 > **原句 3:** “Has anyone told me any of this directly? No. I know it because I’m a professional-level eavesdropper. The best around.”
 
-- **中文理解**："Has anyone told me any of this directly? No. I know it because I'm a professional-level eavesdropper. The best around."
-- **关键词**：professional-level eavesdropper—— professional-level eavesdropper
-- **为什么这样写**：Danilo's "professional-level eavesdropper" is his self-assessment. "Has anyone told me any of this directly? No" is his admission that his information is secondhand. This is Danilo's honesty about his sources.
-- **读者视角提示**：Danilo's information is eavesdropped, not direct. Track its reliability.
+- **中文理解**：有人直接告诉我这些吗？没有。我知道这些，是因为我是专业级的偷听高手。全行里最好的。
+- **关键词**：professional-level eavesdropper——专业级偷听高手
+- **为什么这样写**：Danilo 的"专业级偷听高手"是他对自己的评价；"有人直接告诉我吗？没有"是他承认信息是二手的。这是他对消息来源的坦诚，显示其信息的二手性质。
+- **读者视角提示**：Danilo 的信息是偷听来的，不是第一手。追踪其可靠性，以及这些二手信息的可信度。
 
 > **原句 4:** “Has he been staying in Bree’s room for the entire conference?”
 
+- **关键词**：staying in Bree’s room——住在布丽的房间
+- **中文理解**："整个会议期间他一直住在 Bree 房间里吗？"
+- **为什么这样写**：Cat 的追问把 Bodhi 与 Bree 的同住关系挑明——她用"整个会议期间"强调时间跨度，确认他们关系的亲密与持续；这是 Cat 把 Danilo 的证词落地为具体事实的一步。
+- **读者视角提示**：Bodhi 整个会议期间住在 Bree 房间，坐实了他们的亲密关系。追踪这一同住是否与 Bliss 之死有关，以及 Bree 是否知情他的动机。
+
 > **原句 5:** “I can’t believe Bree hasn’t figured out that he’s in it for the money.”
 
-- **中文理解**："Has he been staying in Bree's room for the entire conference?" ... "I can't believe Bree hasn't figured out that he's in it for the money."
-- **关键词**：in it for the money—— in it for the money
-- **为什么这样写**：Cat's question + Danilo's answer establishes Bodhi's motive (money). "in it for the money" is Danilo's assessment of Bodhi. This connects to ch20's "tiny Larrys" (Bodhi's financial interest in Bree's pregnancy).
-- **读者视角提示**：Bodhi's financial motive is established. Track whether this connects to the murder.
+- **中文理解**："整个会议期间他一直住在 Bree 房间里吗？"……"我不信 Bree 还没看出来他图的是钱。"
+- **关键词**：in it for the money——图的是钱
+- **为什么这样写**：她的提问 + 他的回答确立了此人的动机（钱）；"图的是钱"是他的评价。这与第 20 章"小小 Larry 们"（他对伴侣孕育的经济利益）相呼应，显示他的经济动机与贪婪。
+- **读者视角提示**：Bodhi 的经济动机已确立。追踪它是否与谋杀相关，以及 Bodhi 是否因此涉案。
 
 > **原句 6:** “I bet he thinks Jenny will give him an alibi but that is so not happening. She hates his guts.”
 
-- **中文理解**："I bet he thinks Jenny will give him an alibi but that is so not happening. She hates his guts."
-- **关键词**：alibi—— alibi；hates his guts—— hates his guts
-- **为什么这样写**：Danilo's "I bet he thinks Jenny will give him an alibi" is his prediction. "She hates his guts" is his assessment of Jenny's feelings. This establishes Jenny as a potential witness against Bodhi.
-- **读者视角提示**：Jenny as witness against Bodhi is established. Track whether Jenny provides an alibi or not.
+- **中文理解**："我猜他觉得 Jenny 会给他不在场证明，但这绝对不可能。她恨他入骨。"
+- **关键词**：alibi——不在场证明；hates his guts——恨他入骨
+- **为什么这样写**：Danilo 的"我猜他觉得 Jenny 会给他不在场证明"是他的预测；"她恨他入骨"是他对 Jenny 感情的判断。这把 Jenny 确立为潜在证人，显示不在场证明可能落空，她不会帮他。
+- **读者视角提示**：Jenny 作为证人已确立。追踪 Jenny 是否提供不在场证明，以及她对 Bodhi 的态度，注意她对他的憎恨。
 
 > **原句 7:** “Yes, I know,” he said. “That’s because she’s in jail.”
 
-- **中文理解**："Yes, I know," he said. "That's because she's in jail."
-- **关键词**：she's in jail—— she's in jail
-- **为什么这样写**：Stewart Conway's "she's in jail" is the chapter's shock. "That's because she's in jail" is his explanation for Marian's unreachability. This is the chapter's central revelation: Marian is in jail.
-- **读者视角提示**：Marian's arrest is the chapter's turning point. Track whether Marian's arrest is for murder or something else.
+- **中文理解**："是的，我知道，"他说，"那是因为她在监狱里。"
+- **关键词**：she's in jail——她在监狱里
+- **为什么这样写**：Stewart Conway 的"她在监狱里"是本章的冲击。"那是因为她在监狱里"是他解释 Marian 无法联系的原因。这是本章的核心揭露，被捕的消息震动了所有人，改变调查方向。
+- **读者视角提示**：Marian 被捕是本章的转折点。追踪她的被捕是因为谋杀还是别的事，以及案件走向。
 
 > **原句 8:** “Our movement has friends in very high places, and they don’t want you here. If you know what’s good for you, you’ll hightail it back to Toronto.”
 
-- **中文理解**："Our movement has friends in very high places, and they don't want you here. If you know what's good for you, you'll hightail it back to Toronto."
-- **关键词**：friends in very high places—— friends in very high places；hightail it back to Toronto—— hightail it back to Toronto
-- **为什么这样写**：Peter Johnson's "Our movement has friends in very high places" is his threat—convoy has political allies. "they don't want you here" is his warning. "hightail it back to Toronto" is his demand. This is Peter Johnson's cold menace.
-- **读者视角提示**：Peter's "friends in very high places" suggests convoy has political protection. Track who these friends are.
+- **中文理解**："我们的运动在高位上有朋友，他们不希望你待在这里。你识相的话就赶紧滚回多伦多。"
+- **关键词**：friends in very high places——在高位上有朋友；hightail it back to Toronto——赶紧滚回多伦多
+- **为什么这样写**：Peter Johnson 的"在高位上有朋友"是他的威胁——车队有政治盟友；"他们不希望你待在这里"是他的警告；"赶紧滚回多伦多"是他的要求。这是他的冷酷威慑，显示车队的权势。
+- **读者视角提示**：Peter 的"高位上的朋友"暗示车队有政治庇护。追踪这些朋友是谁，以及车队的影响力。
 
 ## 本章词汇
 

@@ -16,78 +16,66 @@ modified: "2026-10-17"
 ## 精读
 
 > **原句 1:** Murder. Did Bree have a suspect in mind? Did she think there was a murderer hiding under Clarity’s creativity cloak? Or was she trying to deflect attention from her own guilt? If she’d loathed Bliss as much as Danilo had suggested, she would definitely be on the police’s radar.
-
-- **中文理解**："Murder。Bree 有 suspect in mind 吗？她 think 有 murderer hiding under Clarity's creativity cloak 吗？还是 she was trying to deflect attention from her own guilt？If she'd loathed Bliss as much as Danilo had suggested，she would definitely be on the police's radar。"
-- **关键词**：suspect in mind—— suspect in mind；deflect attention—— deflect attention；on the police's radar—— on the police's radar
-- **为什么这样写**：Cat's three questions (suspect? deflect? radar?) are her investigative framework. "murderer hiding under Clarity's creativity cloak" is her metaphor—wellness figures as potential killers. "deflect attention from her own guilt" is her suspicion of Bree. "on the police's radar" is her assessment that Bree is already a suspect.
-- **读者视角提示**：Cat's three hypotheses (Bree has suspect / Bree deflecting / Bree is suspect) structure the investigation. Track which hypothesis proves correct.
+- **关键词**：suspect in mind—— 心中有嫌疑人；deflect attention—— 转移注意；on the police's radar—— 在警方的雷达上
+- **中文理解**：谋杀。Bree 心中有嫌疑人吗？她认为有凶手藏在 Clarity 的创意斗篷下吗？还是她在试图把注意从自己的愧疚上转移？如果她像 Danilo 暗示的那样厌恶 Bliss，她肯定已在警方的雷达上。
+- **为什么这样写**：“Cat” 的三个问题（嫌疑人？转移？雷达？）是她的调查框架。把凶手藏在 “Clarity” 的创意斗篷下是她的比喻——“wellness” 人物作为 “potential” “killers”。把注意从自己的愧疚上转移是她对 “Bree” 的 “suspicion”。已在警方的 “radar” 上是她对 “Bree” 已是 “suspect” 的 “assessment”。
+- **读者视角提示**：“Cat” 的 “three” “hypotheses”（“Bree” “has” “suspect” / “Bree” “deflecting” / “Bree” “is” “suspect”）“structure” “the” “investigation”。留意 “which” “hypothesis” “proves” “correct”。
 
 > **原句 2:** “Whoa, slow down. Start from the beginning.”
-
-- **中文理解**："Whoa，slow down。Start from the beginning。"
-- **关键词**：Whoa, slow down—— Whoa，slow down；Start from the beginning—— Start from the beginning
-- **为什么这样写**：Cat's "Whoa, slow down" is her journalistic instinct—she needs structured information, not panic. "Start from the beginning" is her interview technique (same as with Danilo). This establishes Cat as the information-gatherer even in personal crisis.
-- **读者视角提示**：Cat's professional reflexes (structuring information) are her coping mechanism. Track when she can't maintain this control.
+- **关键词**：Whoa, slow down—— 慢点；Start from the beginning—— 从头说起
+- **中文理解**：她说，慢点，从头说起。
+- **为什么这样写**：“Cat” 的“Whoa, slow down”是她的 “journalistic” “instinct”——她需要 “structured” “information”，不是 “panic”。“Start from the beginning”是她的 “interview” “technique”（与 “Danilo” 时相同）。这确立 “Cat” 即使在 “personal” “crisis” 中也是 “information-gatherer”。
+- **读者视角提示**：“Cat” 的 “professional” “reflexes”（“structuring” “information”）是她的 “coping” “mechanism”。留意 “she” “can't” “maintain” “this” “control” 时。
 
 > **原句 3:** “Cheryl Bell came by my booth. She asked if I’d seen Marian Conway. They were hoping to have a word with her.”
-
-- **中文理解**："Cheryl Bell came by my booth。She asked if I'd seen Marian Conway。They were hoping to have a word with her。"
-- **关键词**：have a word with her—— have a word with her
-- **为什么这样写**：Kaydence's report is the chapter's first revelation—police want to question Marian. "have a word with her" is police euphemism for formal questioning. Inspector Bell's involvement (senior OPP) confirms the seriousness. This connects to Marian's "infinitesimal pause" (ch5)—Cat's suspicion of Marian is now validated by police interest.
-- **读者视角提示**：Marian is now a person of interest. Track whether Marian's disappearance is flight (guilt) or something else.
+- **关键词**：have a word with her—— 和她谈谈
+- **中文理解**：调查员来过我的摊位，问是否见过 “Marian Conway”，希望和她谈谈。
+- **为什么这样写**：“Kaydence” 的 “report” 是本章的第一个 “revelation”——“police” “want” “to” “question” “Marian”。“have a word with her”是 “police” “euphemism” “for” “formal” “questioning”。“Inspector” “Bell” 的 “involvement”（“senior” “OPP”）确认了 “seriousness”。这与 “Marian” 的“infinitesimal pause”（第五章）相连——“Cat” 对 “Marian” 的 “suspicion” 现在被 “police” “interest” 验证。
+- **读者视角提示**：“Marian” 现在是 “person” “of” “interest”。留意 “Marian” 的 “disappearance” 是 “flight”（“guilt”）还是 “something” “else”。
 
 > **原句 4:** “I did kind of see her a couple of hours ago.”
-
-- **中文理解**："I did kind of see her a couple of hours ago。"
-- **关键词**：kind of see—— kind of see
-- **为什么这样写**：Kaydence's "kind of see" is her hedging—she's admitting she saw Marian but didn't report it. "a couple of hours ago" establishes the timeline (Marian was seen near the lookout). This is Kaydence's loyalty to Cat (protecting Marian) vs. her duty (reporting to police). "kind of" is her minimization.
-- **读者视角提示**：Kaydence's "kind of see" will be tested. Did she lie to police? Track her reliability as a source.
+- **关键词**：kind of see—— 大概看见
+- **中文理解**：几小时前我大概看见过她。
+- **为什么这样写**：“Kaydence” 的“kind of see”是她的 “hedging”——她承认看见了 “Marian” 但没 “report”。“a couple of hours ago”确立 “timeline”（“Marian” 被看见在 “lookout” 附近）。这是 “Kaydence” 对 “Cat” 的 “loyalty”（保护 “Marian”）与 “duty”（向 “police” “report”）的冲突。“kind of”是她的 “minimization”。
+- **读者视角提示**：“Kaydence” 的“kind of see”将被 “tested”。她对 “police” 说谎了吗？留意她作为 “source” 的 “reliability”。
 
 > **原句 5:** “Out the back way. Walking toward the clearing where there’s a secret trail to the lookout. She was wearing a very chic puffer coat, moving like she was heading to a sale at Saks. Your mom’s hard to miss.”
-
-- **中文理解**："Out the back way。Walking toward the clearing where there's a secret trail to the lookout。She was wearing a very chic puffer coat，moving like she was heading to a sale at Saks。Your mom's hard to miss。"
-- **关键词**：secret trail to the lookout—— secret trail to the lookout；chic puffer coat—— chic puffer coat；heading to a sale at Saks—— heading to a sale at Saks
-- **为什么这样写**：Kaydence's description of Marian is the chapter's key clue—Marian was heading to the lookout (where Bliss died) via a secret trail. "very chic puffer coat" and "heading to a sale at Saks" are Kaydence's fashion observations (she's a seamstress). "Your mom's hard to miss" is Kaydence's wry assessment of Marian's visibility. The "secret trail" is suspicious—why would Marian go to the murder scene?
-- **读者视角提示**：Marian's trip to the lookout is the chapter's central mystery. Is she investigating? Covering up? Meeting someone? Track.
+- **关键词**：secret trail to the lookout—— 通往瞭望点的秘密小径；chic puffer coat—— 时尚棉服；heading to a sale at Saks—— 去百货血拼
+- **中文理解**：从后门出去。朝空地走去，那里有一条秘密小径通向瞭望点。她穿着一件非常时尚的棉服，走起来像去 Saks 百货血拼。你妈妈很难不被注意到。
+- **为什么这样写**：“Kaydence” 对 “Marian” 的描述是本章的关键 “clue”——“Marian” 正 “heading” “to” “the” “lookout”（“Bliss” 死亡之处）“via” “a” “secret” “trail”。“very chic puffer coat”和“heading to a sale at Saks”是 “Kaydence” 的 “fashion” “observations”（她是 “seamstress”）。“Your mom's hard to miss”是 “Kaydence” 对 “Marian” “visibility” 的 “wry” “assessment”。这个“secret trail”很可疑——为什么 “Marian” 会去 “murder” “scene”？
+- **读者视角提示**：“Marian” 的 “trip” “to” “the” “lookout” 是本章的 “central” “mystery”。她在 “investigate”？“Covering” “up”？“Meeting” “someone”？留意。
 
 > **原句 6:** “Is that—”
-
-- **中文理解**："Is that—"
-- **关键词**：Is that—— Is that
-- **为什么这样写**：Cat's interrupted question is her shock. "Is that—" is incomplete because she can't finish—she's seeing the photo and the words won't come. This is her loss of control moment.
-- **读者视角提示**：Cat's "Is that—" shows her composure cracking. Track when she loses her verbal control.
+- **关键词**：Is that—— 那是
+- **中文理解**：那是——
+- **为什么这样写**：“Cat” 的 “interrupted” “question” 是她的 “shock”。“Is that—”是 “incomplete” “because” “she” “can't” “finish”——“she's” “seeing” “the” “photo” “and” “the” “words” “won't” “come”。这是她的 “loss” “of” “control” “moment”。
+- **读者视角提示**：“Cat” 的“Is that—”显示她的 “composure” “cracking”。留意 “she” “loses” “her” “verbal” “control” 时。
 
 > **原句 7:** “Amir’s wife.”
-
-- **中文理解**："Amir's wife."
-- **关键词**：Amir's wife—— Amir's wife
-- **为什么这样写**：Azra's "Amir's wife" is delivered with "surprise. Or possibly pity?" Cat's narration can't tell which. The two-word sentence is Azra's entire revelation. "wife" (not "ex-wife") is the shock—Amir is still married.
-- **读者视角提示**：Azra's "Amir's wife" (not "ex-wife") is the key. Cat will notice the distinction. Track whether Azra knows the marriage is over.
+- **关键词**：Amir's wife—— 他的妻子
+- **中文理解**：“Azra” 指着照片说，那是 “Amir” 的妻子，“Cat” 很震惊。
+- **为什么这样写**：“Azra” 的“Amir's wife”是 “delivered” “with” “surprise. Or possibly pity?” “Cat” 的 “narration” “can't” “tell” “which”。这个 “two-word” “sentence” 是 “Azra” 的 “entire” “revelation”。“wife”（不是“ex-wife”）是 “shock”——“Amir” 仍然 “married”。
+- **读者视角提示**：“Azra” 的“Amir's wife”（不是“ex-wife”）是 “key”。“Cat” 会 “notice” “the” “distinction”。留意 “Azra” 是否知道 “marriage” 已 “over”。
 
 > **原句 8:** “Ex-wife,” Amir said, drying a fork. “We’re just working out the final details, then we’ll be divorced.”
+- **关键词**：Ex-wife—— 前妻；final details—— 最终细节；divorced—— 离婚
+- **中文理解**：前妻，Amir 说。我们只是在敲定最终细节，然后就会离婚。
+- **为什么这样写**：“Amir” 的“Ex-wife”是他的 “correction” “of” “Azra”。“We're just working out the final details” “implies” “the” “divorce” “isn't” “complete”。“then we'll be divorced”是 “future” “tense”——他还没 “divorced”。这是本章的 “personal” “revelation”：“Amir” 仍然 “married”。
+- **读者视角提示**：“Amir” 的“final details”是 “hedge”。留意 “divorce” 是否 “complete” 或 “stall”。“Ex-wife” “vs”. “still married”是 “Cat” 的 “internal” “distinction”。
 
-- **中文理解**："Ex-wife," Amir said. "We're just working out the final details, then we'll be divorced."
-- **关键词**：Ex-wife—— Ex-wife；final details—— final details；divorced—— divorced
-- **为什么这样写**：Amir's "Ex-wife" is his correction of Azra. "We're just working out the final details" implies the divorce isn't complete. "then we'll be divorced" is future tense—he's not divorced yet. This is the chapter's personal revelation: Amir is still married.
-- **读者视角提示**：Amir's "final details" is a hedge. Track whether the divorce completes or stalls. "Ex-wife" vs. "still married" is Cat's internal distinction.
 > **原句 9:** “I had no right to be hurt; he was my friend and my boss, nothing more.”
-
-- **中文理解**："I had no right to be hurt; he was my friend and my boss, nothing more."
-- **关键词**：no right to be hurt—— no right to be hurt；friend and my boss, nothing more—— friend and my boss, nothing more
-- **为什么这样写**：Cat's self-policing is the chapter's emotional resolution. "no right to be hurt" is her denial of her own feelings. "friend and my boss, nothing more" is her re-categorization of Amir. But "nothing more" is the tell—she's arguing with herself. This echoes ch4's "Nothing to do with the image of my hand next to Amir's."
-- **读者视角提示**：Cat's "nothing more" is not convincing. Track her emotional state as the Amir situation develops.
+- **关键词**：no right to be hurt—— 无权感到伤心；friend and my boss, nothing more—— 朋友和上司，仅此而已
+- **中文理解**：我无权感到伤心；他只是我的朋友和上司，仅此而已。
+- **为什么这样写**：“Cat” 的 “self-policing” 是本章的 “emotional” “resolution”。“no right to be hurt”是她 “denial” “of” “her” “own” “feelings”。“friend and my boss, nothing more”是她 “re-categorization” “of” “Amir”。但“nothing more”是 “tell”——她在与自己 “argue”。这回响第四章的“Nothing to do with the image of my hand next to Amir's.”
+- **读者视角提示**：“Cat” 的“nothing more”并不 “convincing”。留意 “Amir” “situation” 发展时她的 “emotional” “state”。
 
 > **原句 10:** “Amir's parents folded him into a bear hug the moment we stepped inside their cottage.”
-
-- **中文理解**："Amir's parents folded him into a bear hug the moment we stepped inside their cottage."
-- **关键词**：folded him into a bear hug—— folded him into a bear hug
-- **为什么这样写**：The Mahars' "bear hug" is the chapter's warmth moment—contrast with Marian's coldness. "folded him into" is the physical embrace. This is Cat's observation of a family she envies. The Mahars' cottage (unchanged over decades) is Cat's ideal of home.
-- **读者视角提示**：The Mahars represent the family Cat wishes she had. Track how this contrast with Marian affects Cat's emotional state.
-
+- **关键词**：folded him into a bear hug—— 把他紧紧抱在怀里
+- **中文理解**：我们一踏进他们的小屋，Amir 的父母就把 Amir 紧紧抱在怀里。
+- **为什么这样写**：“The” “Mahars” 的“bear hug”是本章的 “warmth” “moment”——“contrast” “with” “Marian's” “coldness”。“folded him into”是 “physical” “embrace”。这是 “Cat” 对她羡慕的 “family” 的 “observation”。“Mahars” 的 “cottage”（“unchanged” “over” “decades”）是 “Cat” 对 “home” 的 “ideal”。
+- **读者视角提示**：“The” “Mahars” 代表 “Cat” 希望拥有的 “family”。留意这种 “contrast” “with” “Marian” 如何影响 “Cat” 的 “emotional” “state”。
 ## 本章词汇
-
 ### ⭐⭐⭐ 高级
-
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | shabby | 破旧的； shabby | "shabby desk chairs" |
@@ -99,9 +87,7 @@ modified: "2026-10-17"
 | Hail Mary pass | 孤注一掷； Hail Mary pass | "My next call was a Hail Mary pass" |
 | bittersweet stasis | 苦乐参半的停滞； bittersweet stasis | "a bittersweet stasis" |
 | swan's neck | 天鹅颈； swan's neck | "high cheekbones and a swan's neck" |
-
 ### ⭐⭐ 进阶
-
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | puffer coat | 棉服； puffer coat | "wearing a very chic puffer coat" |
@@ -114,9 +100,7 @@ modified: "2026-10-17"
 | naan | 印度烤饼； naan | "fluffy naan" |
 | okra | 秋葵； okra | "fried okra" |
 | Model UN | 模拟联合国； Model UN | "All the time with the Model UN" |
-
 ### ⭐ 基础
-
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | newsroom | 新闻编辑室 | "quiet in the newsroom" |
@@ -129,7 +113,5 @@ modified: "2026-10-17"
 | kitchen | 厨房 | "followed Azra to the kitchen" |
 | photographs | 照片 | "a short hallway lined with photographs" |
 | wife | 妻子 | "Amir's wife" |
-
 ## 一句话总结
-
 Cat 在 newsroom 看到 Hannah 的 SkyWords 照片（Bree 的 "MURDER"）；Kaydence 告诉她 Marian 被 Inspector Bell 询问、Marian 消失；Cat 打 Jake 电话；Amir 带 Cat 去 Mahars' 吃饭，Mahars 透露 Amir 有前妻 Julia；Cat 在 Amir 家的厨房里 discovery Julia 照片，Amir 解释 "ex-wife, final details"——全章把 Marian 的 disappearance 与 Amir's hidden marriage 两条 revelation 并置，Cat 的 romantic hope (Amir) 被 crush，Mahars' warmth 与 Marian's coldness 对比。
