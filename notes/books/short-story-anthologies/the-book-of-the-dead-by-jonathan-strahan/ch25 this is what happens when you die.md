@@ -2,79 +2,79 @@
 
 ## 本章导航
 
-- **一句话概括**：Valente 的 cosmic death narrative—叙述者死后 fall past universe's edge into "The Last House" (built from home's memories); lunarium (moonlight room) where all knowledge exists; narrator explores death's geography (Elytra, zinzolin, Auriga serpents); death as expansion into universe ("You lived. And you died. You contracted, cooled, regretted... And you will expand"); final: "Take my hand (which is not a hand). Take your time (which is nothing). And I will meet you in the sky when we are both big."
+- **一句话概括**：宇宙学式的死后指南。宇宙号称无限，其实只「几乎」无限：它在离永恒只差一位小数点的地方停住、收缩、冷却、后悔、许诺改过，然后再次胀开——所谓死亡，正是这段由热到冷的收缩。人死后物质会死，原子之间的空隙不会；那空隙要走过几乎无穷的坠落，落在一片直径五百公里的黑色圆盘上，那儿有一栋用你所有关于「家」的记忆盖成的房子、一棵不一定存在的树、一池不一定有水的池塘，以及一间叫作月室的核心房间——里面装着你这辈子答得出与答不出的全部问题。
 
-- **时间**：cosmic (death as universal timescale)
+- **时间**：宇宙尺度上的时间：坠落要走过无数光年，圆盘上的时间「比物理更无意义」；结尾提到「一千年零四」才够研究一张可能属于你的孩子的脸；而在「不久之前——一个 eon 或九个之前」，有一只 zinzolin 也掉到过这栋房子。
 
-- **地点**：The Last House (at end of universe); lunarium; black disc (500km diameter); pond; tree
+- **地点**：黑色圆盘（直径约五百公里、平均厚十一公里的圆环状陆地）与盘上的「最后的房子」；房子里的月室；圆盘之外的空无；以及三个用来标定尺度的异星参照：蛇群所在的 Auriga、十字座南端那颗绿星周围的 zinzolin、以及 Thuban 治下的 Elytra。
 
-- **人物**：narrator (first-person, "I"); unnamed other (second-person "you"); Elytra (Thuban dragonfly-crabs); zinzolin (moons of pink-black world); Auriga serpents (rainbow, kilometer-long, aquatic intelligence)
+- **人物**：叙述者（已死的「我」，记得自己读过的学校、祖母家的客厅、父亲离开的那扇窗）；读者（「你」，将要坠到这里的人）；最好的朋友（童年老屋与阁楼半壁橱的所在）；zinzolin（月即生命的种族）；Auriga 的彩虹蛇；Elytra（龙蜓蟹似的种族，心是一枚跳动的锥体）；一株永远可以爬的树。
 
-- **叙事手法**：Second-person ("you") + first-person ("I"); cosmic prose poem; death as universal geography; "Nothing that follows this paragraph is true"; "In the End was the Word"; expansion/contraction cosmology; "Take my hand (which is not a hand)"
+- **叙事手法**：第二人称与第一人称交替的「死后说明书」；用三段异星文明（蛇、zinzolin、Elytra）标定死后的时间尺度与旁人的死后观；句子时而精确如论文、时而抒情如祷词；反复用括号做撤除式注解（which is not a tree／which is nothing），把抒情与反讽焊在一起；结尾以三条排比收束到一句邀请。
 
-- **与后文的钩子**：Strahan Introduction 提到 "Catherynne M. Valente's story of what happens when you die—falling past the universe's edge into a house built from memory." 本篇是选集的 cosmic death 代表——death 作为 universal expansion; "The House" = built from home's memories; "In the End was the Word" = death as language. Theme: death as expansion into universe; "You lived. And you died." = death as process not event; "Take my hand (which is not a hand)" = death as connection.
+- **与后文的钩子**：本篇把「死后的世界」写成一场物质与空隙的博弈——它不追问灵魂，只追问死后那部分「不是你的东西」会到哪里；也是全书中把悼念与宇宙学焊在一起的一篇：那个「还要再花一千年零四」才能学会爱的过程，正是它给出的全部安慰。
 
 ## 精读
 
 > **原句 1:** "The matter in you must die. The space cannot."
 
-- **中文理解**：「The matter in you must die。The space cannot。」Valente 的 opening thesis—matter (body) dies; space (emptiness between atoms) cannot die. "Matter must die" = physical death; "space cannot" = emptiness persists. This is the story's cosmological foundation: death is matter's end, not space's.
+- **中文理解**：「你身上的物质必须死去。空隙不能。」这是全篇的公理：原子之间的那些空洞——那些把你与不可复得、不可平息、不可湮灭的一切暂时黏合起来的无组织——会在这场漫长的坠落中存活下来。作者随即补上它的危险：小小的空隙很容易融进更大的那个，融进平安、寂静，融进不思不想的解脱，像黑锅里的黄油化开。
 
 - **关键词**：matter in you must die / space cannot
 
-- **为什么这样写**：Valente's thesis: matter (physical body) dies; space (void between atoms) persists. "Must die" = necessity; "cannot" = impossibility. This establishes death as matter's transformation, not space's end. "There was always so much more space in you than matter" = humans are mostly empty space. Death = matter's end, space's persistence.
+- **为什么这样写**：作者把通常被称作「灵魂」的东西换成了空间：不是灵魂不死，是空隙不死。这一个换词就改写了整个死后的伦理——你要守住的不是「我」，而是「我身上那些没被填满的部分」。而「融进大空隙」的诱惑写得极具说服力：平安、寂静、停止思考，正是耗尽的人最想要的。公理之后立刻跟一句劝告，读者才不会被误以为这是安慰。
 
-- **读者视角提示**：Valente's "matter/space" distinction = body dies, void persists. Death as matter's end, not space's.
+- **读者视角提示**：括号式注解是这篇的招牌手法，后文会反复出现：「（那不是一棵树）」「（那不是手）」——先给承诺，再拆台。
 
 > **原句 2:** "It is not heaven. It is not hell."
 
-- **中文理解**：「It is not heaven。It is not hell。」 （本块引语分析见上）
+- **中文理解**：「那不是天堂，也不是地狱。」也不是中阴，不是冥府，不是炼狱。作者给出的理由冷得彻底：宇宙里从来没有足够的秩序与目的，容得下这些东西。它只是存在。
 
 - **关键词**：not heaven / not hell / It simply is
 
-- **为什么这样写**：Valente denies traditional afterlife (heaven/hell/bardo/sheol/purgatory). "It simply is" = death's place exists without theology. "Never enough order or purpose" = universe lacks design for afterlife categories. This is the story's anti-theological thesis: death is not reward/punishment but existence.
+- **为什么这样写**：作者先连否四个来生框架，再给出否的理由——不是「我们不知道」，而是「宇宙里没有足够的秩序来支持这类东西」。这把安慰从信仰问题转成了结构问题：天堂要靠宇宙怀有目的心，而它没有。于是全篇后半段所有壮丽描写都建立在「没有超自然保证」的地基上——房子、树、池塘既不是奖赏也不是惩罚，只是剩下的东西自然会去的地方。
 
-- **读者视角提示**：Valente's "not heaven, not hell" = anti-theological. Death's place = "it simply is." No cosmic justice.
+- **读者视角提示**：「它只是存在」（It simply is）这个短句在文中出现两次，是全篇的骨架。
 
 > **原句 3:** "Nothing that follows this paragraph is true. At least, not exactly."
 
-- **中文理解**：「Nothing that follows this paragraph is true。At least, not exactly。」 （本块引语分析见上）
+- **中文理解**：「本段之后所写的一切都不为真。至少，不完全为真。」作者给接下来整段描写挂上一张免责声明：每个词一靠近它所描述的东西，就在表面化开，像贴在海面上的儿童贴纸。
 
 - **关键词**：Nothing that follows this paragraph is true / not exactly
 
-- **为什么这样写**：Valente's disclaimer = death resists language. "Nothing... is true" = death can't be described accurately. "Not exactly" = approximations only. "Words dissolve" = language fails for death. This is the story's metafictional thesis: death is beyond description, but we try anyway.
+- **为什么这样写**：这是全篇最漂亮的元写作装置：一句话宣布马上要写的房子、树、池塘全是「不精确」的，于是这些描写既拿到抒情的许可，又保住了智识上的诚实。作者甚至替这些好词辩护：「不是它们的错，它们是好词，它们尽力了。」于是一篇文章同时是赞美与免责声明——而这正是本书最需要的诚实姿态。
 
-- **读者视角提示**：Valente's disclaimer = death beyond language. "Words dissolve" = language fails. But we try.
+- **读者视角提示**：后文那些「（那不是一棵树）」式注解，正是这句免责声明的具体化。
 
 > **原句 4:** "In the End was the Word, and the Word will be with you, and the Word is you."
 
-- **中文理解**：「In the End was the Word, and the Word will be with you, and the Word is you。」 （本块引语分析见上）
+- **中文理解**：「起初有道，道将与你同在，道就是你。」全篇唯一一句直接的宗教语汇，作者用它承接了三个「你」：道、读者、叙述者——「一直是你；是我；是我们所有人。」
 
 - **关键词**：In the End was the Word / the Word will be with you / the Word is you
 
-- **为什么这样写**：Valente inverts John 1:1 ("In the beginning was the Word")—"In the End was the Word." "The Word is you" = death's truth is self-identity. Language persists in death. This is the story's thesis: death is not Word's end but its location. "In the End" = death as Word's home.
+- **为什么这样写**：作者在此处做了一次极不设防的转换：前面还是纯粹的科学诗学（熵、原子、膨胀），忽然借用了《约翰福音》的句式。用意不是皈依，而是借这三个「你」完成一个必要的转折——把「死后是个物理过程」转成「死后有一种关系」。而紧接的「一直是你／是我／是我们所有人」把叙述者从旁观者挪进集体，故事于是从「我死后看到了什么」变成「我们都在里面」。
 
-- **读者视角提示**：Valente's "In the End was the Word" = inversion of John 1:1. Death, not creation, is Word's home. "The Word is you" = identity persists.
+- **读者视角提示**：这句里的「道」既是逻各斯，也是「词」——你在月室里读到的每一个答案都是道。
 
 > **原句 5:** "You lived. And you died."
 
-- **中文理解**：「You lived。And you died。」 （本块引语分析见上）
+- **中文理解**：「你活过。然后你死了。」作者在这里把宇宙的开场白缩成两句：膨胀、收缩、冷却、后悔、承诺改变、学习、成长、争取下次做对——然后你慢慢爬上你所能想象的那棵最好的树。
 
 - **关键词**：You lived / And you died
 
-- **为什么这样写**：Valente's "You lived. And you died." = pivot from cosmic to personal. "You" = reader. "Lived" = past; "died" = present. This is the story's turn—after describing death's place, narrator addresses reader's death. "And you died" = the reader is dead. This is the story's thesis: death is universal (everyone dies) and personal (your death).
+- **为什么这样写**：这两句是全篇的脊柱，它复述的正是宇宙的循环，于是「死」与「宇宙的收缩期」被画上了等号。真正的主题在这里露头：作者要写的那件「爬树」的动作，就是把有限的存在推向极限——「轻轻地、极其轻柔地，抵住你的边界」。而边界之后是膨胀：「像熵，像一切。」死不是终点，是一次极端的扩张。
 
-- **读者视角提示**：Valente's "You lived. And you died." = pivot. Reader is dead. Death is universal and personal.
+- **读者视角提示**：「你们活着的时候都是小的」——全篇的成长主题由此定位在死后而非生前。
 
 > **原句 6:** "Take my hand (which is not a hand). Take your time (which is nothing). And I will meet you in the sky when we are both big."
 
-- **中文理解**：「Take my hand (which is not a hand)。Take your time (which is nothing)。And I will meet you in the sky when we are both big。」 （本块引语分析见上）
+- **中文理解**：「握住我的手（那不是手）。慢慢来（时间本就是虚无）。当我们都变大了，我会在天空里等你。」全篇的最后三句，是邀请，也是诀别。
 
 - **关键词**：Take my hand (which is not a hand) / Take your time (which is nothing) / meet you in the sky when we are both big
 
-- **为什么这样写**：Valente's ending is invitation—take my hand (connection), take your time (timelessness), meet in sky (cosmic expansion). "Which is not a hand" = connection beyond physical. "Which is nothing" = time's irrelevance. "When we are both big" = death as growth/expansion. This is the story's thesis: death is expansion into universe, not end. "Both big" = death makes us cosmic. Final line: "And I will meet you in the sky when we are both big."
+- **为什么这样写**：三个括号是全篇的最终形态：承诺（我等你）配三道撤除（那不是手／那没有时间／我们说的天空并不是天空）。作者用「慢慢来」把永恒的时间尺度还给读者——在这里时间比物理更没有意义，所以「慢慢来」既是体贴也是反讽。而「当我们都变大了」把叙述者与读者放在同一条成长曲线上：那个还没准备好爬树的叙述者，也终会到的。
 
-- **读者视角提示**：Valente's ending = invitation to death. "Take my hand" = connection. "Take your time" = timelessness. "Meet you in the sky when we are both big" = death as cosmic expansion. "Both big" = death makes us universe-sized.
+- **读者视角提示**：呼应前文那句「我们生来都是小的，但总有一天会长大」：本篇的安慰不是「你不会死」，而是「你还没长完」。
 
 ## 本章词汇
 
@@ -111,4 +111,4 @@
 
 ## 一句话总结
 
-Valente 的 "This Is What Happens When You Die" 是选集中最 cosmic 的 death narrative：narrator 死后 fall past universe's edge into "The Last House" (built from home's memories); lunarium (moonlight room) where all knowledge exists; narrator explores death's geography (Elytra, zinzolin, Auriga serpents); death as expansion into universe ("You lived. And you died. You contracted, cooled, regretted... And you will expand"); final: "Take my hand (which is not a hand). Take your time (which is nothing). And I will meet you in the sky when we are both big." Valente 的 thesis："death as expansion, not end"—"The matter in you must die. The space cannot" = matter dies, space persists; "It is not heaven. It is not hell. It simply is" = death beyond theology; "Nothing that follows this paragraph is true" = death beyond language; "In the End was the Word" = inversion of John 1:1 (death, not creation, is Word's home); "The Word is you" = identity persists; "Take my hand (which is not a hand)" = connection beyond physical; "Take your time (which is nothing)" = time's irrelevance; "meet you in the sky when we are both big" = death as cosmic expansion. "You lived. And you died." = pivot from cosmic to personal. "Both big" = death makes us universe-sized. This is the anthology's "death as cosmic expansion" counterpoint. Theme: death as expansion into universe; "The House" built from home's memories; lunarium where all knowledge exists; "In the End was the Word" = death as language; "Take my hand (which is not a hand)" = death as connection; "meet you in the sky when we are both big" = death as growth. Death not end but expansion—matter dies, space (and identity) persists. "All the loving, knowing dead still so close by." = death as proximity, not absence. "No one is alone in this place." = death as connection. "It was always you." = death's truth is self. "It was all of us." = death as universal. "Take my hand (which is not a hand). Take your time (which is nothing). And I will meet you in the sky when we are both big." = final invitation. Death as cosmic expansion, not end. Life as brief; death as eternal growth. "You will feel... the life of constellations... All these things, you will feel... as yourself." = death as feeling everything. "So will I." = narrator joins. "So will a kilometer-long iridescent ocean-wyrm... So will a moon... So will a dragonfly..." = all beings, together. Death as universal connection. "In the dark. In the light. In the beauty of it, beyond what any thought was meant to bear." = death's beauty beyond comprehension. Final: "Take my hand (which is not a hand). Take your time (which is nothing). And I will meet you in the sky when we are both big." = invitation to death as expansion.
+Catherynne M. Valente 的「你死后会发生什么」把一段坠落写成了宇宙学。作者先说宇宙其实只差一点就无限，然后在它停住的地方，它收缩、冷却、后悔、许诺改过——死，就是这段由热到冷的收缩。人身上的物质会死，原子之间的空隙不会；空隙落过几乎无穷的距离，落在一片五百公里宽的黑色圆盘上，那儿有一栋房子、一棵树、一池水，还有一间叫月室的房间——里面装着你所有答得出与答不出的问题，从你弄丢钥匙的每一次，到你十九岁流产的那个孩子会长成什么样。作者顺手引入三个异星文明来证明「这里没有天堂也没有地狱，只有剩下什么就剩下什么」，最后用一句「起初有道」把读者从物理带进关系，再用「你活过。然后你死了」把膨胀写成最终的结局：你会慢慢爬上你能想象的那棵最好的树，抵住自己的边界，然后向所有方向同时涨开——像熵，像一切。

@@ -2,79 +2,79 @@
 
 ## 本章导航
 
-- **一句话概括**：Lucy (mortician, Kirkland & Sons) 与 estranged brother Jude（在 Varanasi 成为 "keeper of the dead"）重逢；Jude 回来揭示自己能与死人沟通；Lucy 回忆 childhood mortuary incident（old woman's corpse possessed Jude with smoke），Jude explains "Grief is all the love that remains which we don't know what to do with"；Jude 带 Varanasi to Lucy—"I've brought Varanasi to you."
+- **一句话概括**：第一人称的家庭戏，写的是殡葬这一行。Lucy 接手家族七十年的殡仪馆生意，哥哥 Jude 却在四十年前离家出走；如今他忽然出现在门口——晒得脱皮、瘦骨嶙峋，说自己在瓦拉纳西成了「守死者的人」。他带她走进太平间，掀开她童年最深的伤口：当年一具老妪的遗体曾俯身抱起年幼的他、把灰烟灌进他的嘴——而灌进他身体里的，正是她四十年不敢承认的真相。结尾，他把瓦拉纳西带到了她面前。
 
-- **时间**：当代英国（Lucy 中年，Jude 长期失踪后返回）
+- **时间**：当代英国；Jude 失踪四十年后突然登门；中间夹着童年记忆——六月里父亲猝死的那一夜，以及更早的、第一次在太平间看见伸出来的手。
 
-- **地点**：Kirkland & Sons mortuary (Lucy's business); Varanasi (India, referenced); childhood home
+- **地点**：Kirkland & Sons 殡仪馆（Lucy 接手后改造过的太平间与追思室、办公的谈话间）；Lucy 与 Jude 从前的家；瓦拉纳西（印度圣城，恒河岸边，由 Jude 讲述）。
 
-- **人物**：Lucy (narrator, mortician, "Diamond in the Sky")；Jude (brother, disappeared to Varanasi, "keeper of the dead")；Mum/Dad (deceased parents)；Uncle Peter (saved Dad's life with CPR)；Maria Brace (doctor, made mistake pronouncing woman dead)；Michelle (older sister, Inland Revenue)；Richard (Lucy's employee)
+- **人物**：Lucy（叙述者，殡仪馆老板，父母的独女，昵称「科伊诺尔钻石」）；Jude（哥哥，失踪四十年，成为瓦拉纳西的「守死者的人」）；父亲与母亲（均已病故，父亲做了一辈子遗体防腐）；Uncle Peter（父亲的弟弟，用 CPR 把父亲救回来）；Maria Brace 医生（当年误判老妪已死，多年想找 Jude 当面说清）；Michelle（长姐，在税务局做事）；Richard（Lucy 的员工，将来接手这桩生意）。
 
-- **叙事手法**：First-person (Lucy); mortuary family drama; second-person address to Jude ("you"); embedded childhood memory; "Grief is all the love that remains" as thesis; death as profession vs. calling
+- **叙事手法**：第一人称，通篇用第二人称「你」直呼 Jude，把一个缺席四十年的人拉进此刻的对话；现在与童年两条线交替推进，句首常以「当我……」滑进记忆；行业细节（防腐、入殓、火化单、骨灰）与家庭恩怨并排推进；结尾以一个把地名当礼物送出的动作收束。
 
-- **与后文的钩子**：Strahan Introduction 提到 "Priya Sharma's story of a mortician and her brother who has been to Varanasi, and what he brings back." 本篇是选集的 mortuary family drama 代表——death 作为 family business; Jude as "keeper of the dead" (draws out souls); "Grief is all the love that remains which we don't know what to do with" = death's grief theory. Theme: death as vocation; grief as unspent love; "I've brought Varanasi to you" = death's gift.
+- **与后文的钩子**：Strahan 在 Introduction 里把它列为「一位殡葬师与去过瓦拉纳西的哥哥重逢的故事，以及他带回来的东西」；本篇因此成为选集里把死亡当作「天职」来写的样本——Lucy 送走遗体，Jude 送走亡魂，两人做的是同一件事的两端。
 
 ## 精读
 
 > **原句 1:** "Death is easy, but dying is the hardest thing in the world."
 
-- **中文理解**：「Death is easy, but dying is the hardest thing in the world。」 （本块引语分析见上）
+- **中文理解**：「死亡是容易的，而死去却是世上最难的事。」这是全篇的第一句格言。Lucy 用它框住整篇小说：成为死者是静止的、干脆的；难的是正在死去的那个过程，以及活着的人不得不收拾的那一摊。
 
 - **关键词**：Death is easy / dying is the hardest thing
 
-- **为什么这样写**：Sharma's opening aphorism establishes the story's core—death (state) vs. dying (process). "Easy" = death is final, simple; "hardest" = dying (and grieving) is complex, painful. This frames the entire story: Lucy's parents' deaths (easy for them, hard for her), Jude's disappearance (easy for him? hard for her), the old woman's death (easy? but she possessed Jude). Death is easy; dying (and living with death) is hard.
+- **为什么这样写**：开篇先给判断、再给故事，是这一路作者惯用的次序。妙处在于「死亡」一词在英文里本就把状态与过程裹在一起，作者用「是」把它切成两半，于是全篇的重量提前压在过程那一侧：真正折磨人的不是死，是正在死、正在消失、正在被人忘记。而这句格言在结尾被弟弟轻轻抵消——他已死过一次，所以他说死并不可怕。
 
-- **读者视角提示**：Sharma's aphorism = story's thesis. Death (state) vs. dying (process). Living with death is hardest.
+- **读者视角提示**：这是全篇题眼，后文「最后一道禁忌不是性而是死亡」与「临终者涌向我们」都由它派生。
 
 > **原句 2:** "Grief is all the love that remains which we don't know what to do with."
 
-- **中文理解**：「Grief is all the love that remains which we don't know what to do with。」 （本块引语分析见上）
+- **中文理解**：「悲伤就是剩下的那份爱，而我们不知道该拿它怎么办。」Jude 这样解释自己与死者打交道的经验：那些魂有时愤怒、有时释然，可他们和我们一样迷失，也同样想念我们。
 
 - **关键词**：Grief is all the love that remains / don't know what to do with
 
-- **为什么这样写**：Sharma's "grief is all the love that remains" = grief redefined as love, not loss. "Don't know what to do with" = grief as unspent love seeking expression. This is the story's emotional core—Lucy's grief (parents, Jude) is love without outlet. Jude's return = giving grief an outlet (Varanasi, communication with dead).
+- **为什么这样写**：这句把悲伤重新定义了一次：它不是「失去了什么」，而是「多出来的爱没处去」。这个定义让整篇的丧葬职业获得了一种必要性——哀伤若是一种无处安放的爱，那么把亡者送走、把话带到他们那里，就是安置这份爱的办法。作者没有让 Lucy 立刻接受：她先用身体反应承认（胸口那处痛），再用「是你」把它交出去。
 
-- **读者视角提示**：Sharma's thesis: grief = unspent love. "Don't know what to do with" = grief seeks expression. Jude provides outlet.
+- **读者视角提示**：这句同时是弟弟对姐姐的诊断——她替父母洗身、化妆、戴上金耳环，却从没替自己哭过。
 
 > **原句 3:** "Grief feels like fear."
 
-- **中文理解**：「I've brought Varanasi to you。」 （本块引语分析见上）
+- **中文理解**：「悲伤的感觉像恐惧。」Lucy 脱口而出的回答。Jude 说悲伤是没处安放的爱，她却说自己感到的是害怕：两者说的是同一件事，只是方向相反——爱指向逝者，恐惧指向自己。
 
 - **关键词**：Grief feels like fear
 
-- **为什么这样写**：Sharma's "grief feels like fear" = grief's physical phenomenology. Grief and fear share bodily sensations (chest pain, trembling, dry mouth). Lucy's grief (parents, Jude) feels like fear. This is the story's emotional truth: grief is experienced as fear. "Feels like" = not identical, but similar.
+- **为什么这样写**：三个字的判断把上一句的抒情拉回身体层面。Jude 讲的是亡魂与生者共享的悲伤，Lucy 答的却是她自己的恐惧：父母死于肺纤维化与前列腺癌，她亲手为他们洗身、穿上最好的鞋、涂好指甲戴上金耳环，却在弟弟面前说不出一句真正的怕。作者用「像」而不是「是」，留住了生理与心理的双重余地。
 
-- **读者视角提示**：Sharma's "grief feels like fear" = phenomenological similarity. Grief's body = fear's body.
+- **读者视角提示**：Lucy 胸口的痛在故事里反复出现，对应她「身体记得、脑子躲开」的记忆方式。
 
 > **原句 4:** "Death, not sex, is the last taboo."
 
-- **中文理解**：「Death, not sex, is the last taboo。」 （本块引语分析见上）
+- **中文理解**：「最后一道禁忌不是性，而是死亡。」这是 Lucy 对英国丧葬现状的判词：性还能谈，死亡却被藏起来；所以人们只忙着处理死亡证明、通知供电公司、取消自动扣款，而不是真正地哀悼。
 
 - **关键词**：Death, not sex, is the last taboo
 
-- **为什么这样写**：Sharma's "death, not sex, is the last taboo" = social critique. Sex is discussable; death is hidden. Lucy's mortuary work = making death visible. "Last taboo" = death is the final unspeakable. This explains Lucy's profession: she makes death visible, talks about it.
+- **为什么这样写**：作者用「不是性，而是死亡」的对比把公众注意力从最热门的话题一把抢到最被回避的话题上，随后开列一份「我们本该有的哀悼方式」的清单：涂香油、设灵位、供菊花与巧克力、做天葬让鹰啄食尸身。清单既是控诉也是她的职业宣言——她把丧葬的琐碎环节做好，正是为了让活人腾出地方来悲伤。
 
-- **读者视角提示**：Sharma's "death, not sex, is the last taboo" = social critique. Death hidden; sex discussable. Lucy's work = making death visible.
+- **读者视角提示**：这段清单是全篇社会批评最集中的地方：作者要的不是更漂亮的葬礼，是把死亡重新变成可谈论之物。
 
 > **原句 5:** "The dying flock to us."
 
-- **中文理解**：「The dying flock to us。」 （本块引语分析见上）
+- **中文理解**：「临终的人会像羊群一样涌向我们。」Jude 解释自己这行的聚集效应：瓦拉纳西总有一些像他这样的人，而将死之人会成群结队地找上门来。
 
 - **关键词**：The dying flock to us
 
-- **为什么这样写**：Sharma's "flock" = bird imagery (souls as birds). "The dying flock to us" = keepers attract dying. This is Jude's vocation: he receives dying souls. "Us" = community of keepers. This explains Jude's disappearance: he went to Varanasi to become keeper. "Flock" = collective, natural movement.
+- **为什么这样写**：一个「群」字把「守死者的人」从孤立的神职改写成集体现象——像羊群被什么吸引而至，既庄重又不祥。作者顺势接上「那里的人做着和我一样的事，我觉得安心」，把玄学写成了职业归属：不是他在召回谁，而是这一行天然有人来。也正因如此，一个在异乡一待四十年的人始终没有说出自己究竟在做什么。
 
-- **读者视角提示**：Sharma's "flock" = bird/soul imagery. Jude as keeper; dying flock to him. Varanasi as destination.
+- **读者视角提示**：这一行没有正式名号，作者只写「总有我们这样的人」；瓦拉纳西因此不是地点，是身份。
 
 > **原句 6:** "I've brought Varanasi to you."
 
-- **中文理解**：「I've brought Varanasi to you。」 （本块引语分析见上）
+- **中文理解**：「我把瓦拉纳西带给你了。」全篇的最后一句。Jude 用手指按住 Lucy 胸口那处痛，说她一直都在、她是那颗科伊诺尔钻石，所以他把她要去的地方带到了她面前。
 
 - **关键词**：I've brought Varanasi to you
 
-- **为什么这样写**：Sharma's "I've brought Varanasi to you" = Jude's gift—death's access. Lucy (mortician) has been dealing with dead bodies; Jude gives her dead souls. "Brought Varanasi" = brought death's holy city to her. This is the story's resolution: Lucy's grief (parents, Jude) finds outlet through Jude's gift. "Varanasi" = death's destination, now accessible.
+- **为什么这样写**：作者把全篇的谜底压进两个动作：一是手指按在痛处，二是「带来」这个动词——瓦拉纳西不是一处地址，而是亡魂的通道，是弟弟这四十年所从事的那件事本身。Lucy 一生送走遗体，弟弟送走亡魂；那句「你一直都在」既是道歉也是交代：她从未离开，只是去了另一边。而全篇开篇那句格言在此刻被悄悄抵消——对 Jude 而言死亡是容易的，因为死过一次；难的只是这四十年。
 
-- **读者视角提示**：Sharma's "I've brought Varanasi to you" = death's gift. Jude gives Lucy access to dead souls. Grief finds outlet.
+- **读者视角提示**：呼应开篇：妹妹说「死亡是容易的」，哥哥用一个四十年证明他比我们更懂这句格言的反面。
 
 ## 本章词汇
 
@@ -109,4 +109,4 @@
 
 ## 一句话总结
 
-Sharma 的 "Varanasi" 是选集中最 mortuary-family-drama 的 story：Lucy (mortician, Kirkland & Sons) 与 estranged brother Jude（在 Varanasi 成为 "keeper of the dead"）重逢；Jude 回来揭示自己能与死人沟通；Lucy 回忆 childhood mortuary incident（old woman's corpse possessed Jude with smoke），Jude explains "Grief is all the love that remains which we don't know what to do with"；Jude 带 Varanasi to Lucy—"I've brought Varanasi to you." Sharma 的 thesis："death as vocation and gift"—Lucy's mortuary work (making death visible) vs. Jude's keeper work (communicating with dead); "Grief is all the love that remains which we don't know what to do with" = grief as unspent love; "Death, not sex, is the last taboo" = social critique (death hidden). "The dying flock to us" = Jude's vocation. "I've brought Varanasi to you" = death's gift (access to dead souls). This is the anthology's "death as vocation" counterpoint. Theme: death as family business; grief as unspent love; "I've brought Varanasi to you" = death's gift; communication with dead as healing. "Grief feels like fear" = grief's phenomenology. "Death is easy, but dying is the hardest thing in the world" = death (state) vs. dying (process). Jude's return = giving grief an outlet. Lucy's final acceptance: "It can't be wrong. It's you." = trust in death's communication. Death as vocation, not just profession.
+Priya Sharma 的「瓦拉纳西」把一桩家庭旧事写成了两种生业的对照。Lucy 守着家族七十年的殡仪馆，哥哥 Jude 却在四十年前出走，如今带着一身被恒河与太阳磨出来的疲惫登门，说自己成了「守死者的人」；他把童年的真相摊开——当年那具被判了死亡的老妪遗体曾抱起他、把灰烟灌进他的嘴——而这真相正是 Lucy 一直不敢承认的那一件。弟弟给出的解释是：悲伤就是那份多出来的、没处安放的爱。于是全篇的落点成了那句「我把瓦拉纳西带给你」——他带回来的不是地点，是亡魂本身，是让一个替所有人办完丧事、却从不为自己的亲人哭一场的人，终于有地方可以安放那份爱。
