@@ -1,0 +1,21 @@
+词条行合计: 513
+
+--- FAIL (0) ---
+
+--- WARN (16) ---
+  ch01 prologue.md [基础] 基础档疑含超纲词「`enchanter`」
+  ch04 clem may 12 1885.md [基础] 基础档疑含超纲词「`enchantment`」
+  ch05 sam commonwealth.md [基础] 例句不含词头「`shoes`」
+  ch09 sam amanuensis.md [基础] 基础档疑含超纲词「`constable`」
+  ch13 sam fundamentals of spirit realm.md [基础] 基础档疑含超纲词「`satisfactorily`」
+  ch13 sam fundamentals of spirit realm.md [基础] 基础档疑含超纲词「`manuscript`」
+  ch14 sam spirit casting.md [基础] 基础档疑含超纲词「`enchantment`」
+  ch15 sam the armor removed.md [基础] 基础档疑含超纲词「`enchantment`」
+  ch19 sam the trenches.md [基础] 基础档疑含超纲词「`constable`」
+  ch25 sam wister amsel.md [基础] 基础档疑含超纲词「`settlement house`」
+  ch26 sam criminal enchantment.md [基础] 基础档疑含超纲词「`constable`」
+  ch30 sam armoring.md [基础] 基础档疑含超纲词「`enchantment`」
+  ch35 sam stones on the square.md [基础] 基础档疑含超纲词「`preoccupation`」
+  ch35 sam stones on the square.md [基础] 基础档疑含超纲词「`constable`」
+  ch42 clem september 21 1888.md [基础] 基础档疑含超纲词「`infinitely`」
+  ch43 sam summoning.md [基础] 基础档疑含超纲词「`uncomfortable`」

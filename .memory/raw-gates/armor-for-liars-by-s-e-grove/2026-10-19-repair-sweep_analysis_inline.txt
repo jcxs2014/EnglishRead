@@ -1,0 +1,167 @@
+=== 分析层行内英文逐字核查（armor-for-liars-by-s-e-grove）===
+  参照集：text/（49 个提取件） + epub 交叉验证 ；扫 52 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：807 个表格行、480 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 2590 ｜ ⚠️ 跨章 29 ｜ 🔶 拼接 7 ｜ 🟠 部分命中 124 ｜ 🟡 词形 3 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 156
+  ⚠️  ch04 clem may 12 1885.md:148  「appearances are deceiving」→ 实为 ch02
+  ⚠️  ch05 sam commonwealth.md:164  「calculating avarice」→ 实为 ch03
+  ⚠️  ch06 clem november 21 1887.md:16  「one light」→ 实为 ch04
+  ⚠️  ch06 clem november 21 1887.md:149  「seven days」→ 实为 ch01
+  ⚠️  ch09 sam amanuensis.md:173  「meddler」→ 实为 ch07
+  ⚠️  ch10 sam medical enchantment.md:161  「murderous」→ 实为 ch05
+  ⚠️  ch11 sam a message.md:172  「disguises」→ 实为 ch07,28
+  ⚠️  ch11 sam a message.md:172  「rely on disguises, too」→ 实为 ch07
+  ⚠️  ch12 clem september 3 1888.md:122  「Cisneros Society」→ 实为 ch03,05,07,09
+  ⚠️  ch14 sam spirit casting.md:174  「I could not tell him in so many words」→ 实为 ch13
+  ⚠️  ch16 sam of marvels.md:16  「two of a kind」→ 实为 ch15
+  ⚠️  ch16 sam of marvels.md:174  「two of a kind」→ 实为 ch15
+  ⚠️  ch18 clem september 7 1888.md:145  「the stones will come for you」→ 实为 ch17
+  ⚠️  ch18 clem september 7 1888.md:149  「the stones will come for you」→ 实为 ch17
+  ⚠️  ch19 sam the trenches.md:174  「acid tones」→ 实为 ch15
+  ⚠️  ch24 clem september 11 1888.md:137  「I am hopeful of undertaking a more direct course」→ 实为 ch23
+  ⚠️  ch24 clem september 11 1888.md:137  「Wister Amsel, of Keel House」→ 实为 ch23
+  ⚠️  ch27 clem september 13 1888 1.md:16  「warning」→ 实为 ch08,09,10,11
+  ⚠️  ch29 clem september 13 1888 2.md:108  「Cisneros Society」→ 实为 ch03,05,07,09
+  ⚠️  ch32 sam bindings.md:198  「I thought I was buying my liberty, and in truth it was a」→ 实为 ch22
+  ⚠️  ch34 sam clover hall.md:188  「stones」→ 实为 ch01,05,09,10
+  ⚠️  ch34 sam clover hall.md:198  「something told me to wait」→ 实为 ch31
+  ⚠️  ch35 sam stones on the square.md:162  「something told me to wait」→ 实为 ch31
+  ⚠️  ch36 sam unbound.md:186  「I had no choice in this at all」→ 实为 ch22
+  ⚠️  ch36 sam unbound.md:186  「I would so like to see your brother, Cris, and your moth」→ 实为 ch22
+  ⚠️  ch36 sam unbound.md:186  「They've been so fortunate until now」→ 实为 ch22
+  ⚠️  ch40 sam residues.md:174  「We are everything Cisneros is not」→ 实为 ch37
+  ⚠️  ch43 sam summoning.md:161  「I found that I was kneeling by the side of the bed, and 」→ 实为 ch40
+  ⚠️  ch46 sam the duel.md:198  「Simeon screamed」→ 实为 ch34
+  🔶 ch01 prologue.md:36  「didn't see ... until」→ 分段命中
+  🔶 ch18 clem september 7 1888.md:15  「an enchanter... is a genuine torturer」→ 分段命中
+  🔶 ch18 clem september 7 1888.md:145  「an enchanter... is a genuine torturer」→ 分段命中
+  🔶 ch21 sam a verdict.md:138  「Do you think... that a few more members of the Society w」→ 分段命中
+  🔶 ch25 sam wister amsel.md:198  「I was also self-taught... But I failed to secure a spiri」→ 分段命中
+  🔶 ch26 sam criminal enchantment.md:174  「five such crimes... all of them fatal」→ 分段命中
+  🔶 ch30 sam armoring.md:198  「I was also self-taught... But I failed to secure a spiri」→ 分段命中
+  🟡 ch03 sam cygnets.md:176  「 invisibility」→ 疑派生词，原书作 i/in
+  🟡 ch03 sam cygnets.md:176  「envious」→ 疑派生词，原书作 e/en
+  🟡 ch10 sam medical enchantment.md:161  「assisting」→ 词形不符，原书词干 assist/assiste
+  🟠 00_情感节点.md:53  「failed to secure a thew」→ 内容词 3/3 命中（failed/secure/thew）——疑漏词或改写
+  🟠 00_情感节点.md:61  「Clem arrives too late」→ 内容词 2/3 命中（clem/late）——疑漏词或改写
+  🟠 00_情感节点.md:77  「Simeon's hand with fork」→ 内容词 2/3 命中（fork/hand）——疑漏词或改写
+  🟠 00_情感节点.md:85  「new portal discovered in」→ 内容词 3/3 命中（discovered/new/portal）——疑漏词或改写
+  🟠 00_概述.md:15  「Draken transformed into serpent」→ 内容词 3/3 命中（draken/serpent/transformed）——疑漏词或改写
+  🟠 00_概述.md:28  「ultimately burned by his own armor」→ 内容词 2/3 命中（armor/burned）——疑漏词或改写
+  🟠 ch01 prologue.md:48  「presence and absence cannot be counted on」→ 内容词 4/4 命中（absence/cannot/counted/presence）——疑漏词或改写
+  🟠 ch01 prologue.md:72  「had given greater rein to」→ 内容词 3/3 命中（given/greater/rein）——疑漏词或改写
+  🟠 ch02 clem january 3 1883.md:106  「peaceful realm」→ 内容词 1/2 命中（realm）——疑漏词或改写
+  🟠 ch05 sam commonwealth.md:98  「the look he gave him was murderous」→ 内容词 3/3 命中（gave/look/murderous）——疑漏词或改写
+  🟠 ch06 clem november 21 1887.md:149  「not dread his death」→ 内容词 2/2 命中（death/dread）——疑漏词或改写
+  🟠 ch07 sam a fiffle.md:173  「no token」→ 内容词 1/1 命中（token）——疑漏词或改写
+  🟠 ch08 clem august 31 1888.md:16  「warning about Commonwealth students」→ 内容词 3/3 命中（commonwealth/students/warning）——疑漏词或改写
+  🟠 ch10 sam medical enchantment.md:96  「tended to my mother's burns」→ 内容词 2/3 命中（burns/tended）——疑漏词或改写
+  🟠 ch11 sam a message.md:24  「they are capable of perceiving」→ 内容词 2/2 命中（capable/perceiving）——疑漏词或改写
+  🟠 ch13 sam fundamentals of spirit realm.md:174  「female emotions liability」→ 内容词 3/3 命中（emotions/female/liability）——疑漏词或改写
+  🟠 ch14 sam spirit casting.md:48  「make it possible for sb to do」→ 内容词 2/2 命中（make/possible）——疑漏词或改写
+  🟠 ch14 sam spirit casting.md:72  「which is impossible to practice without a spirit thew」→ 内容词 5/5 命中（impossible/practice/spirit/thew）——疑漏词或改写
+  🟠 ch15 sam the armor removed.md:174  「chin held high, eyes hard and unyielding」→ 内容词 6/6 命中（chin/eyes/hard/held）——疑漏词或改写
+  🟠 ch16 sam of marvels.md:60  「Most people have to dissemble」→ 内容词 2/2 命中（dissemble/people）——疑漏词或改写
+  🟠 ch16 sam of marvels.md:72  「I learned that enchantments could be complicated」→ 内容词 3/3 命中（complicated/enchantments/learned）——疑漏词或改写
+  🟠 ch16 sam of marvels.md:170  「lively stranger's talking horse」→ 内容词 3/4 命中（horse/lively/talking）——疑漏词或改写
+  🟠 ch18 clem september 7 1888.md:96  「I realized that an enchanter」→ 内容词 2/2 命中（enchanter/realized）——疑漏词或改写
+  🟠 ch18 clem september 7 1888.md:149  「dejected by the reversal」→ 内容词 2/2 命中（dejected/reversal）——疑漏词或改写
+  🟠 ch20 clem september 9 1888.md:158  「search for lead case」→ 内容词 3/3 命中（case/lead/search）——疑漏词或改写
+  🟠 ch21 sam a verdict.md:15  「procuring a thew in」→ 内容词 2/2 命中（procuring/thew）——疑漏词或改写
+  🟠 ch21 sam a verdict.md:134  「procuring a thew in」→ 内容词 2/2 命中（procuring/thew）——疑漏词或改写
+  🟠 ch22 sam the camera.md:13  「how he was recruited by」→ 内容词 1/1 命中（recruited）——疑漏词或改写
+  🟠 ch22 sam the camera.md:15  「Sam forced to secure thews for」→ 内容词 4/4 命中（forced/sam/secure/thews）——疑漏词或改写
+  🟠 ch22 sam the camera.md:15  「Sam's first spirit realm journey」→ 内容词 4/5 命中（first/journey/realm/spirit）——疑漏词或改写
+  🟠 ch22 sam the camera.md:16  「Sam's   in spirit realm」→ 内容词 2/3 命中（realm/spirit）——疑漏词或改写
+  🟠 ch22 sam the camera.md:170  「Sam forced to secure thews」→ 内容词 4/4 命中（forced/sam/secure/thews）——疑漏词或改写
+  🟠 ch22 sam the camera.md:170  「Sam's first spirit realm journey with   guiding him」→ 内容词 5/6 命中（first/guiding/journey/realm）——疑漏词或改写
+  🟠 ch23 sam a proposition.md:16  「Vera's search for lead case」→ 内容词 3/4 命中（case/lead/search）——疑漏词或改写
+  🟠 ch24 clem september 11 1888.md:36  「the judge has seen fit to set me a test」→ 内容词 5/5 命中（fit/judge/seen/set）——疑漏词或改写
+  🟠 ch25 sam wister amsel.md:15  「failed to secure a thew」→ 内容词 3/3 命中（failed/secure/thew）——疑漏词或改写
+  🟠 ch25 sam wister amsel.md:15  「Wister agrees to tutor」→ 内容词 3/3 命中（agrees/tutor/wister）——疑漏词或改写
+  🟠 ch25 sam wister amsel.md:194  「failed to secure a thew」→ 内容词 3/3 命中（failed/secure/thew）——疑漏词或改写
+  🟠 ch25 sam wister amsel.md:194  「Wister agrees to tutor」→ 内容词 3/3 命中（agrees/tutor/wister）——疑漏词或改写
+  🟠 ch26 sam criminal enchantment.md:15  「Clem about courthouse paper attack」→ 内容词 4/4 命中（attack/clem/courthouse/paper）——疑漏词或改写
+  🟠 ch26 sam criminal enchantment.md:15  「mother killed by enchanter」→ 内容词 3/3 命中（enchanter/killed/mother）——疑漏词或改写
+  🟠 ch26 sam criminal enchantment.md:170  「Clem about courthouse paper attack」→ 内容词 4/4 命中（attack/clem/courthouse/paper）——疑漏词或改写
+  🟠 ch26 sam criminal enchantment.md:170  「mother killed by enchanter」→ 内容词 3/3 命中（enchanter/killed/mother）——疑漏词或改写
+  🟠 ch27 clem september 13 1888 1.md:15  「Lydia of not telling her」→ 内容词 2/2 命中（lydia/telling）——疑漏词或改写
+  🟠 ch27 clem september 13 1888 1.md:48  「You understand that this changes everything」→ 内容词 3/3 命中（changes/everything/understand）——疑漏词或改写
+  🟠 ch27 clem september 13 1888 1.md:132  「Lydia of not telling her」→ 内容词 2/2 命中（lydia/telling）——疑漏词或改写
+  🟠 ch28 sam a lesson.md:15  「Clem spirit realm navigation」→ 内容词 3/4 命中（clem/realm/spirit）——疑漏词或改写
+  🟠 ch28 sam a lesson.md:15  「Clem uses   to bind stones」→ 内容词 4/4 命中（bind/clem/stones/uses）——疑漏词或改写
+  🟠 ch28 sam a lesson.md:182  「Clem spirit realm navigation」→ 内容词 3/4 命中（clem/realm/spirit）——疑漏词或改写
+  🟠 ch28 sam a lesson.md:182  「Clem uses   to bind stones」→ 内容词 4/4 命中（bind/clem/stones/uses）——疑漏词或改写
+  🟠 ch29 clem september 13 1888 2.md:15  「has been counseling her」→ 内容词 1/1 命中（counseling）——疑漏词或改写
+  🟠 ch29 clem september 13 1888 2.md:16  「Who is the other spirit」→ 内容词 1/1 命中（spirit）——疑漏词或改写
+  🟠 ch29 clem september 13 1888 2.md:48  「and she said that the spirit might wish to right a wrong」→ 内容词 5/5 命中（right/said/spirit/wish）——疑漏词或改写
+  🟠 ch29 clem september 13 1888 2.md:72  「He found all thews abhorrent and unnatural」→ 内容词 4/4 命中（abhorrent/found/thews/unnatural）——疑漏词或改写
+  🟠 ch29 clem september 13 1888 2.md:120  「has been counseling her」→ 内容词 1/1 命中（counseling）——疑漏词或改写
+  🟠 ch30 sam armoring.md:96  「make the attempt to」→ 内容词 2/2 命中（attempt/make）——疑漏词或改写
+  🟠 ch30 sam armoring.md:132  「I understood how her power had protected me」→ 内容词 3/3 命中（power/protected/understood）——疑漏词或改写
+  🟠 ch32 sam bindings.md:13  「first spirit realm journey」→ 内容词 4/4 命中（first/journey/realm/spirit）——疑漏词或改写
+  🟠 ch32 sam bindings.md:15  「Sam's first spirit realm journey」→ 内容词 4/5 命中（first/journey/realm/spirit）——疑漏词或改写
+  🟠 ch32 sam bindings.md:16  「Corbin's stone with names」→ 内容词 2/3 命中（names/stone）——疑漏词或改写
+  🟠 ch32 sam bindings.md:194  「Sam's first spirit realm journey」→ 内容词 4/5 命中（first/journey/realm/spirit）——疑漏词或改写
+  🟠 ch32 sam bindings.md:198  「We don't do this for them. We do it for you」→ 内容词 1/2 命中（them）——疑漏词或改写
+  🟠 ch33 clem september 15 1888.md:15  「Vera still not found case」→ 内容词 4/4 命中（case/found/still/vera）——疑漏词或改写
+  🟠 ch33 clem september 15 1888.md:120  「Vera still not found case」→ 内容词 4/4 命中（case/found/still/vera）——疑漏词或改写
+  🟠 ch34 sam clover hall.md:15  「Erauso rushes to defense」→ 内容词 2/3 命中（defense/erauso）——疑漏词或改写
+  🟠 ch34 sam clover hall.md:194  「Erauso rushes to defense」→ 内容词 2/3 命中（defense/erauso）——疑漏词或改写
+  🟠 ch35 sam stones on the square.md:15  「Clem arrives too late」→ 内容词 2/3 命中（clem/late）——疑漏词或改写
+  🟠 ch35 sam stones on the square.md:96  「a calm that would allow her to breathe」→ 内容词 3/3 命中（allow/breathe/calm）——疑漏词或改写
+  🟠 ch35 sam stones on the square.md:158  「Clem arrives too late」→ 内容词 2/3 命中（clem/late）——疑漏词或改写
+  🟠 ch36 sam unbound.md:13  「how he was killed by」→ 内容词 1/1 命中（killed）——疑漏词或改写
+  🟠 ch36 sam unbound.md:15  「Sam's attempt to warn her」→ 内容词 2/3 命中（attempt/warn）——疑漏词或改写
+  🟠 ch36 sam unbound.md:15  「silent horse and coach」→ 内容词 3/3 命中（coach/horse/silent）——疑漏词或改写
+  🟠 ch36 sam unbound.md:182  「Sam's attempt to warn her」→ 内容词 2/3 命中（attempt/warn）——疑漏词或改写
+  🟠 ch36 sam unbound.md:182  「silent horse and coach」→ 内容词 3/3 命中（coach/horse/silent）——疑漏词或改写
+  🟠 ch37 sam the portal.md:15  「go to spirit realm to find」→ 内容词 3/3 命中（find/realm/spirit）——疑漏词或改写
+  🟠 ch37 sam the portal.md:16  「Clem's spirit realm journey」→ 内容词 3/4 命中（journey/realm/spirit）——疑漏词或改写
+  🟠 ch37 sam the portal.md:16  「Sam's presence at portal」→ 内容词 2/3 命中（portal/presence）——疑漏词或改写
+  🟠 ch37 sam the portal.md:134  「go to spirit realm to find」→ 内容词 3/3 命中（find/realm/spirit）——疑漏词或改写
+  🟠 ch37 sam the portal.md:134  「Sam waiting on other side」→ 内容词 3/3 命中（sam/side/waiting）——疑漏词或改写
+  🟠 ch37 sam the portal.md:138  「On the other side of the portal, I was waiting. At last」→ 内容词 4/4 命中（last/portal/side/waiting）——疑漏词或改写
+  🟠 ch38 sam the wall.md:15  「Clem take him as thew」→ 内容词 3/3 命中（clem/take/thew）——疑漏词或改写
+  🟠 ch38 sam the wall.md:169  「Clem take him as thew」→ 内容词 3/3 命中（clem/take/thew）——疑漏词或改写
+  🟠 ch39 sam scree.md:16  「Clem's return to living world」→ 内容词 3/4 命中（living/return/world）——疑漏词或改写
+  🟠 ch39 sam scree.md:198  「Clem's rescue   it shouted」→ 内容词 1/3 命中（shouted）——疑漏词或改写
+  🟠 ch40 sam residues.md:15  「Maxwell reveals identity as」→ 内容词 2/3 命中（identity/maxwell）——疑漏词或改写
+  🟠 ch40 sam residues.md:72  「be a discussion between confederates」→ 内容词 3/3 命中（between/confederates/discussion）——疑漏词或改写
+  🟠 ch40 sam residues.md:108  「all the spirits know almost nothing」→ 内容词 4/4 命中（almost/know/nothing/spirits）——疑漏词或改写
+  🟠 ch40 sam residues.md:170  「Maxwell reveals identity as」→ 内容词 2/3 命中（identity/maxwell）——疑漏词或改写
+  🟠 ch41 sam low spirits.md:15  「Sam discovers lead case location」→ 内容词 4/5 命中（case/lead/location/sam）——疑漏词或改写
+  🟠 ch41 sam low spirits.md:15  「Sam practices appearance alteration」→ 内容词 3/4 命中（alteration/appearance/sam）——疑漏词或改写
+  🟠 ch41 sam low spirits.md:15  「Sam delivers letters to」→ 内容词 2/3 命中（letters/sam）——疑漏词或改写
+  🟠 ch41 sam low spirits.md:16  「Vera's search for case」→ 内容词 2/3 命中（case/search）——疑漏词或改写
+  🟠 ch41 sam low spirits.md:194  「Sam discovers lead case location」→ 内容词 4/5 命中（case/lead/location/sam）——疑漏词或改写
+  🟠 ch41 sam low spirits.md:194  「Sam practices appearance alteration」→ 内容词 3/4 命中（alteration/appearance/sam）——疑漏词或改写
+  🟠 ch41 sam low spirits.md:194  「Sam delivers letters to」→ 内容词 2/3 命中（letters/sam）——疑漏词或改写
+  🟠 ch42 clem september 21 1888.md:15  「philosophical reflection on belief」→ 内容词 3/3 命中（belief/philosophical/reflection）——疑漏词或改写
+  🟠 ch42 clem september 21 1888.md:130  「philosophical reflection on belief」→ 内容词 3/3 命中（belief/philosophical/reflection）——疑漏词或改写
+  🟠 ch43 sam summoning.md:15  「spirit realm outer reaches」→ 内容词 4/4 命中（outer/reaches/realm/spirit）——疑漏词或改写
+  🟠 ch43 sam summoning.md:15  「Sam-Wister dialogue about spirits' attachment to living 」→ 内容词 3/6 命中（attachment/living/world）——疑漏词或改写
+  🟠 ch43 sam summoning.md:36  「are still attached to the living world」→ 内容词 4/4 命中（attached/living/still/world）——疑漏词或改写
+  🟠 ch43 sam summoning.md:108  「I had the uncomfortable sensation that」→ 内容词 2/2 命中（sensation/uncomfortable）——疑漏词或改写
+  🟠 ch43 sam summoning.md:157  「spirit realm outer reaches」→ 内容词 4/4 命中（outer/reaches/realm/spirit）——疑漏词或改写
+  🟠 ch43 sam summoning.md:157  「Sam-Wister dialogue about spirits' attachment to living 」→ 内容词 3/6 命中（attachment/living/world）——疑漏词或改写
+  🟠 ch44 sam the september s ance.md:15  「ropers who name enchanters」→ 内容词 3/3 命中（enchanters/name/ropers）——疑漏词或改写
+  🟠 ch44 sam the september s ance.md:48  「bewhiskered man opened the door and announced our turn」→ 内容词 6/6 命中（announced/bewhiskered/door/man）——疑漏词或改写
+  🟠 ch44 sam the september s ance.md:168  「Creatures of the imagination could be all too real」→ 内容词 3/3 命中（creatures/imagination/real）——疑漏词或改写
+  🟠 ch44 sam the september s ance.md:206  「ropers who name enchanters」→ 内容词 3/3 命中（enchanters/name/ropers）——疑漏词或改写
+  🟠 ch45 sam murcia s five.md:15  「Clem uses   and   to escape in coach」→ 内容词 4/4 命中（clem/coach/escape/uses）——疑漏词或改写
+  🟠 ch45 sam murcia s five.md:96  「I swallowed my reluctance and climbed up onto the seat」→ 内容词 5/5 命中（climbed/onto/reluctance/seat）——疑漏词或改写
+  🟠 ch45 sam murcia s five.md:132  「the carriage burst into furious speed」→ 内容词 4/4 命中（burst/carriage/furious/speed）——疑漏词或改写
+  🟠 ch45 sam murcia s five.md:169  「Clem uses   and   to escape in coach」→ 内容词 4/4 命中（clem/coach/escape/uses）——疑漏词或改写
+  🟠 ch46 sam the duel.md:15  「Simeon's hand with fork」→ 内容词 2/3 命中（fork/hand）——疑漏词或改写
+  🟠 ch46 sam the duel.md:194  「Simeon's hand with fork」→ 内容词 2/3 命中（fork/hand）——疑漏词或改写
+  🟠 ch47 sam livia.md:16  「Clem's reunion with mother」→ 内容词 2/3 命中（mother/reunion）——疑漏词或改写
+  🟠 ch47 sam livia.md:36  「The rampaging creatures had left a silence in their wake」→ 内容词 5/5 命中（creatures/left/rampaging/silence）——疑漏词或改写
+  🟠 ch47 sam livia.md:144  「Clem's eyes ran with tears」→ 内容词 3/4 命中（eyes/ran/tears）——疑漏词或改写
+  🟠 ch48 sam the arbor.md:15  「Rosie reveals she was disguised as」→ 内容词 2/3 命中（disguised/rosie）——疑漏词或改写
+  🟠 ch48 sam the arbor.md:15  「Clem went to spirit realm for him」→ 内容词 4/4 命中（clem/realm/spirit/went）——疑漏词或改写
+  🟠 ch48 sam the arbor.md:84  「I realized why the place around me looked familiar」→ 内容词 5/5 命中（around/familiar/looked/place）——疑漏词或改写
+  🟠 ch48 sam the arbor.md:182  「Rosie reveals she was disguised as」→ 内容词 2/3 命中（disguised/rosie）——疑漏词或改写
+  🟠 ch48 sam the arbor.md:182  「Clem went to spirit realm for him」→ 内容词 4/4 命中（clem/realm/spirit/went）——疑漏词或改写
+  🟠 ch49 sam epilogue.md:15  「new portal discovered in」→ 内容词 3/3 命中（discovered/new/portal）——疑漏词或改写
+  🟠 ch49 sam epilogue.md:168  「that the warmth was not hers alone」→ 内容词 2/2 命中（alone/warmth）——疑漏词或改写
+  🟠 ch49 sam epilogue.md:218  「new portal discovered in」→ 内容词 3/3 命中（discovered/new/portal）——疑漏词或改写
