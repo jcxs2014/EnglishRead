@@ -17,7 +17,7 @@ modified: "2026-10-18"
 
 > **原句 1:** "There are things hidden from all except those who know exactly where to look. If you gaze out your window in the early twilight hours, when all the world is still asleep, you might notice an orb of light flitting through the late-summer leaves, each one blushing red in its wake. You might see faint ribbons of gold in the air, shimmering just above the hyacinths pushing through the newly thawed earth. Perhaps, if you are truly observant, you might appreciate the chisel marks scoring the crystal lacework of each snowflake. Alas, few are. And so, few will ever experience true wonder. Few will ever know that even the most mundane thing—the waning of the moon, the flow of the tide, the serendipitous reappearance of a lost trinket beneath your kitchen table—is magical."
 
-**中文理解：** 有些东西，只有知道该往哪儿看的人才看得见。你在黄昏时分望向窗外，或许会 noticed 一粒光球在晚夏的叶子间飞掠，每一片叶子都在它身后泛红；或许会看见金色的丝带在空气中微光，就在破土而出的风信子上方；或许，如果你真的够细心，你会欣赏到每一片雪花上那些雕刻般的纹路。可惜，很少人如此。所以，很少人能体验真正的奇观。很少人知道，即使最平凡的事——月亮的盈亏、潮汐的流动、厨房桌下偶然重见的遗失小物件——也是魔法。
+**中文理解：** 有些东西，只有知道该往哪儿看的人才能看见。在所有世界都还在沉睡的黄昏时分，你望向窗外，或许会看见一粒光球在晚夏的叶子间飞掠，每片叶子都在它身后泛红；或许会看见金色的丝带在空气中微光，就在破土而出的风信子上方；或许，如果你真的够细心，你还会欣赏到每一片雪花上那些如雕刻般的纹路。可惜，很少有人如此。所以，很少有人能体验真正的奇观。很少有人知道，即使最平凡的事——月亮的盈亏、潮汐的流动、厨房桌下偶然重见的遗失小物件——也是魔法。
 
 **关键词：** hidden · observant · mundane · magical
 
@@ -27,29 +27,29 @@ modified: "2026-10-18"
 
 > **原句 2:** "They orchestrate the turn of the season in a single night, then return home."
 
-**中文理解：** "They orchestrate the turn of the season in a single night, then return home。" Never Fairies 在一夜之间编排季节的更替，然后回家。
+**中文理解：** Never Fairies 在一夜之间编排季节的更替，然后回家。这句话以极简的句式交代了暖季妖精的日常职责：季节更迭在他们手中如同一场有条不紊的演出，完成后便安然返回家园。
 
 **关键词：** orchestrate · season · night · return · home
 
 > **原句 3:** "The denizens of the warm seasons do their best to keep the Winter Woods far out of their minds. But when they catch a glimpse of it beneath the vast shadow of the mountain, they cannot help thinking of its skeletal trees, or the icicles glittering like bared fangs in the moonlight, or those who dwell in such a gray and lifeless place. The winter fairies—so the warm fairies reason—are best left to their snowy solitude. They have managed their own affairs for centuries. Besides, the cold there is so bitter and cruel it will shatter a warm fairy's wings in an instant. No good would ever come of crossing its border."
 
-**中文理解：** 暖季的居民们竭力把 Winter Woods 赶出脑海。但当他们 glimpses 到山影下那一片时，他们忍不住想：枯骨般的树、月光下 glittering 像 bare fangs 的冰柱、还有那些住在如此灰败死寂之地的妖精。暖季妖精们 reasoning：冬林妖精最好留在自己的雪地 solitude 里。他们自己管了自己几百年了。再说，那里的 cold so bitter and cruel 会在瞬间 shatter 一个暖季妖精的翅膀。跨过边界不会有什么 good。
+**中文理解：** 暖季的居民们竭力把冬林（Winter Woods）赶出脑海。但当他们瞥见山影下的那一片时，他们忍不住想起：枯骨般的树、月光下如獠牙般闪烁的冰柱、还有那些住在如此灰败死寂之地的妖精。暖季妖精们心想：冬林妖精最好留在自己的雪地独处里。他们自己管了自己几百年了。再说，那里的严寒苦涩而残酷，会在瞬间粉碎一个暖季妖精的翅膀。跨过边界不会有什么好处。
 
 **关键词：** denizens · skeletal · solitude · shatter
 
-**为什么这样写：** 用暖季妖精的「推理」（reason）把偏见伪装成常识——「他们自己管了几百年」「cold 会 shatter 翅膀」，每一条都半真半假。叙述者并不 endorse 这些推理，只是 report 它们，为后文 Clarion 打破边界埋下伏笔：偏见不是 villain，是 ignorance，而 ignorance 才是本章末尾暗影能溜进来的门。
+**为什么这样写：** 用暖季妖精的「推理」把偏见伪装成常识——「他们自己管了几百年」「寒冷会粉碎翅膀」，每一条都半真半假。叙述者并不认可这些推理，只是转述它们，为后文 Clarion 打破边界埋下伏笔：偏见不是反派，而是无知，而无知才是本章末尾暗影能溜进来的门。
 
 **读者视角提示：** 「No good would ever come of crossing its border」是本章的题眼——这句话会在全书被反复挑战与反转。请留意谁说的、谁信了、谁最终越界。
 
 > **原句 4:** "Then: something—barely a wisp of shadow—rose like smoke from the broken ice. It seethed, then coalesced into a form it remembered from the nightmare that birthed it. In the darkness, it was nearly impossible to see, but its footprints fell heavy against the earth. Then, compelled by some horrible, ancient instinct, it lumbered toward the warm seasons."
 
-**中文理解：** 然后：某样东西——几乎只是一缕影子——像烟一样从破冰处升起。它 seethed，然后 coalesced 成它从 birth 了它的 nightmare 里 remember 的形状。在黑暗中，几乎 impossible to see，但它沉重的 footprints 落在大地上。然后，被某种 horrible, ancient instinct compelled，它 lumbered 向暖季方向走去。
+**中文理解：** 然后：某样东西——几乎只是一缕影子——像烟一样从破冰处升起。它翻腾，然后凝聚成它从孕育它的噩梦中记住的形状。在黑暗中，几乎看不见，但它沉重的脚印落在大地上。然后，被某种可怕而古老的本能驱使，它笨重地向暖季方向走去。
 
 **关键词：** seethed · coalesced · compelled · lumbered
 
-**为什么这样写：** 四个动词把 creature 的诞生拆成四步：seethe（沸腾）→ coalesce（凝聚）→ compelled（被驱使）→ lumber（笨重行进）。它不是被召唤的，是「born from nightmare」——born of fear itself，这意味着它不是 villain，而是 fear 的产物，后文 Clarion 对它的态度 therefore 不能是简单的 kill-or-not。
+**为什么这样写：** 四个动词把生物的诞生拆成四步：翻腾→凝聚→被驱使→笨重行进。它不是被召唤的，而是「从噩梦中诞生」——由恐惧本身所生，这意味着它并非反派，而是恐惧的产物，因此后文 Clarion 对它的态度不能是简单的杀或不杀。
 
-**读者视角提示：** 「a form it remembered from the nightmare that birthed it」——它记得 nightmare 的形状，但 nightmare 里是谁的 nightmare？这条线会在全书被 Clarion 与 Peter Pan 的恐惧反复照应。请留意 nightmare 一词在后文的每次出现。
+**读者视角提示：** 「它记得噩梦中诞生时的形状」——它记得噩梦的形状，但那噩梦是谁的噩梦？这条线会在全书被 Clarion 与 Peter Pan 的恐惧反复照应。请留意「nightmare」一词在后文的每次出现。
 
 ## 本章词汇
 

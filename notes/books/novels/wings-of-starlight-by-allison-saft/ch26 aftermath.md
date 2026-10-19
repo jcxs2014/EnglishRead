@@ -17,19 +17,19 @@ modified: "2026-10-18"
 
 > **原句 1:** "'You should have left me on the border.'"
 
-**中文理解：** "You should have left me on the border。" Clarion 告诉 Milori 他应该 leave 她 on the border。
+**中文理解：** "你应该把我留在边界上。"Clarion 对 Milori 说道。这句话里满是自责与心疼：她认为 Milori 不该为她冒险、折断双翼，宁可被独自留在边界，也不愿他因此付出惨痛代价。这也是 Clarion 从"强大"到"破碎"的转折点——她第一次因自己的无能为力而感到愧疚。
 
 **关键词：** should have left · border
 
 > **原句 2:** "'A love like theirs was ruinous.'"
 
-**中文理解：** "A love like theirs was ruinous。" Clarion 认为他们的 love 是 ruinous。
+**中文理解：** "像他们这样的爱是毁灭性的。"Clarion 在此道出她与 Milori 分离的核心理由——他们之间的爱不仅被律法所禁，更会招致毁灭性的后果。她把爱情与职责对立起来，最终选择职责，认为分开才是保护两人与彼此所守护的王国的方式。这句是全书「爱与职责」母题的最终落点。
 
 **关键词：** love · ruinous
 
 > **原句 3:** "'I've decided I want my coronation to take place where all my subjects can be in attendance, on the border. So if you'll come…'"
 
-**中文理解：** "I've decided I want my coronation to take place where all my subjects can be in attendance, on the border。So if you'll come…" Clarion 邀请 Milori 参加 coronation。
+**中文理解：** "我决定把加冕礼安排在所有臣民都能到场的地方——边界上。所以，如果你愿意来……"Clarion 邀请 Milori 参加她的加冕礼。她把地点选在边界，是想让身处 Winter 的 Milori 也能出席；结尾的"如果你愿意来……"留有余地，既温柔又悲伤，暗示两人虽分离却仍彼此牵挂。
 
 **关键词：** coronation · attendance · border
 
@@ -48,7 +48,6 @@ modified: "2026-10-18"
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | irreplaceable | 不可替代的； irreplaceable | she could almost believe she was something precious and irreplaceable |
-| ruefully | 后悔地； ruefully | Elvina smiled ruefully |
 | wretched | 可怜的； wretched | How broken and how wretched she felt |
 | glower | 怒视； glower | with a glower that could curdle cream |
 
@@ -56,9 +55,8 @@ modified: "2026-10-18"
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| solstice | 夏至；冬至 | We have until the summer solstice before the bridges are destroyed |
-| coronation | 加冕；加冕礼 | Your coronation is in a week |
-| pine | 渴望；思慕 | Perhaps it would have been better to pine than to mourn |
+| coronation | 加冕；加冕礼 | “I’ve decided I want my coronation to take place where all my subjects can be in attendance, on the border. |
+| pine | 渴望；思慕 | His hands, skimming down the ridge of her spine and spanning the curve of her waist. |
 
 ## 一句话总结
 

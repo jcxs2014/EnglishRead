@@ -17,55 +17,53 @@ modified: "2026-10-18"
 
 > **原句 1:** "Watching her filled Clarion with renewed fondness. Few were so dependable."
 
-**中文理解：** "Watching her filled Clarion with renewed fondness。Few were so dependable。"……"I trust your judgment of character，of course，but that is a very dangerous trip to undertake。"（Artemis 的话）
+**中文理解：** Clarion 看着 Artemis，心中涌起了 renewed fondness（ renewed affection）。她意识到，很少有人像 Artemis 这样可靠。Artemis 说："I trust your judgment of character，of course，but that is a very dangerous trip to undertake。"——她信任 Clarion 的判断，却也为她的安全担忧。
 
 **关键词：** fondness · dependable · renewed
 
-**为什么这样写：** 用 "Few were so dependable" 作 Clarion 对 Artemis 的评价——Artemis 的可靠是 Clarion 的 anchor。"I trust your judgment of character, of course, but..." 作 Artemis 的 dilemma——她 trust Clarion 但 also fears for her。这个 dual response（trust + fear）是 Artemis character 的 core。
+**为什么这样写：** 用 "Few were so dependable" 作 Clarion 对 Artemis 的评价，Artemis 的可靠是 Clarion 的锚点。"I trust your judgment of character, of course, but..." 作 Artemis 的两难处境——她信任 Clarion 但也为她担忧。这种信任与担忧并存的双重反应，是 Artemis 人物的核心。
 
-**读者视角提示：** 注意 Artemis 用 "I trust your judgment of character" 而不是 "I trust you"——她 trust Clarion 的判断力，但 not necessarily her safety. 这是 Artemis 的 professional distance: 她 can trust Clarion's mind but not her body.
+**读者视角提示：** 注意 Artemis 说 "I trust your judgment of character" 而不是 "I trust you"——她信任 Clarion 的判断力，却不必然信任她的安全。这是 Artemis 的 professional distance：她能信任 Clarion 的头脑，却不能信任她的身体。
 
 > **原句 2:** "'I need you to help me cross into the Winter Woods.'"
 
-**中文理解：** "I need you to help me cross into the Winter Woods。" "Gah!" Petra stumbled back from her worktable and nearly crashed into the wall。……"But it's against the rules!"……"Crossing the border isn't forbidden。" It wasn't，technically。It was，however，deadly without proper precautions，which made it something of an unpopular destination。
+**中文理解：** Clarion 请求 Petra 帮她穿越进入冬季森林。Petra 吓得从工作台后 stumbled back，几乎撞上墙，坚持 "But it's against the rules!"。Clarion 则指出 "Crossing the border isn't forbidden"，technically 越境并非被禁止；然而没有恰当的预防措施就是致命的，因此是个 unpopular destination。
 
 **关键词：** help · cross · Winter
 
-**为什么这样写：** 用 Petra's "Gah!" 作 comic relief—Petra's physical reaction to Clarion's request is exaggerated. "It's against the rules!" 作 Petra's instinct—she's risk-averse. "Crossing the border isn't forbidden. It wasn't, technically" 作 Clarion's loophole—she's finding legalistic ways around Elvina's control. "deadly without proper precautions" 作 stakes—this isn't a game.
+**为什么这样写：** 用 Petra 的 "Gah!" 作喜剧调剂，Petra 对 Clarion 请求的身体反应被夸张化。"It's against the rules!" 作 Petra 的本能——她厌恶风险。"Crossing the border isn't forbidden. It wasn't, technically" 作 Clarion 的漏洞——她在 Elvina 的控制之外寻找合法化手段。"deadly without proper precautions" 作赌注——这不是游戏。
 
-**读者视角提示：** 注意 Clarion uses "technically" to justify—she's learning to work around rules like Elvina does. But unlike Elvina, Clarion is transparent about it (she tells Petra the truth). This is Clarion's style: honest defiance, not secret control.
+**读者视角提示：** 注意 Clarion 用 "technically" 来 justify——她正在像 Elvina 一样学会绕过规则。但与 Elvina 不同，Clarion 对此是坦诚的（她把 truth 告诉 Petra）。这是 Clarion 的 style：honest defiance，而非 secret control。
 
 > **原句 3:** "Slowly, Clarion settled on the bridge beside him until they sat almost shoulder to shoulder."
 
-**中文理解：** Slowly，Clarion settled on the bridge beside him until they sat almost shoulder to shoulder。……This close，she could see the snowflakes gathering in his white hair and the feathered shadows his eyelashes cast on his cheekbones。That troublesome thought resurfaced，unbidden: Beautiful。And dangerous，she reminded herself。
+**中文理解：** Clarion 缓缓在桥上 settle beside him，直到他们 almost shoulder to shoulder（几乎肩并肩）。This close，她能看到 snowflakes gathering in his white hair，以及 eyelashes 在 cheekbones 上 cast 的 feathered shadows。那个 troublesome thought unbidden resurfaced：Beautiful。And dangerous，她 reminded herself。
 
 **关键词：** settled · bridge · shoulder
 
-**为什么这样写：** 用 "shoulder to shoulder" 作 physical proximity—Clarion and Milori are sitting close, border gone. "snowflakes gathering in his white hair" 作 romantic image—Winter's beauty on Milori. "feathered shadows his eyelashes cast" 作 detail—Clarion is studying him closely. "Beautiful. And dangerous" 作 Clarion's internal conflict—she's attracted to him but knows the risk.
+**为什么这样写：** 用 "shoulder to shoulder" 作身体靠近——Clarion 与 Milori 坐得很近，边界消失。"snowflakes gathering in his white hair" 作浪漫意象——Winter's beauty on Milori。"feathered shadows his eyelashes cast" 作细节——Clarion 正在仔细打量他。"Beautiful. And dangerous" 作 Clarion 的内心冲突——她被他吸引，却也知道风险。
 
-**读者视角提示：** 注意 "And dangerous, she reminded herself"——Clarion is reminding herself, not stating fact. She's managing her own feelings. This is the book's central tension: Clarion wants connection but fears its consequences.
+**读者视角提示：** 注意 "And dangerous, she reminded herself"——Clarion 在提醒自己，而非陈述事实。她正在管理自己的情绪。这是本书的 central tension：Clarion 想要连接，却惧怕其后果。
 
 > **原句 4:** "'I don't think you have any idea what you're doing, but I have placed my trust in you.'"
 
-**中文理解：** "I don't think you have any idea what you're doing，but I have placed my trust in you。"（Artemis 的话）——Artemis 对 Clarion 的 trust 与 fear 并存。
+**中文理解：** Artemis 说："I don't think you have any idea what you're doing，but I have placed my trust in you。"——Artemis 对 Clarion 的信任与担忧并存。她承认 Clarion 不知道自己在做什么，却仍然把信任交给了她。
 
-**关键词：** trust · placed · judgment
+**关键词：** trust · placed · doing
 
-**为什么这样写：** 用 "I have placed my trust in you" 作 Artemis 的 surrender——她 transfer agency to Clarion, despite her fear. "I don't think you have any idea what you're doing" 作 honest assessment——Artemis doesn't pretend Clarion is competent, she trusts her anyway. This is different from Elvina's "I have this in hand" (control). Artemis trusts Clarion's judgment, not just her safety.
+**为什么这样写：** 用 "I have placed my trust in you" 作 Artemis 的交出——她把主动权转移给 Clarion，尽管害怕。"I don't think you have any idea what you're doing" 作诚实评估——Artemis 不假装 Clarion 能力出众，她仍然信任她。这与 Elvina 的 "I have this in hand"（控制）不同。Artemis 信任 Clarion 的判断，不只信任她的安全。
 
-**读者视角提示：** 注意 Artemis says "I have placed my trust in you" not "I'll allow it"——she's not granting permission, she's expressing faith. This is the chapter's emotional climax: Clarion finally gets the trust she's been seeking.
-
-**读者视角提示：** 注意 "No one is above me in station but you" is Milori's response to Clarion's "Does no one miss you?" He's not saying no one misses him—he's saying no one is above him but Clarion. This is both political (she's queen) and romantic (she's the one). The double meaning is intentional.
+**读者视角提示：** 注意 Artemis 说 "I have placed my trust in you" 而不是 "I'll allow it"——she's not granting permission（不是授予权限），she's expressing faith（而是表达信念）。This is the chapter's emotional climax：Clarion finally gets the trust she's been seeking（终于得到她所寻求的信任）。
 
 > **原句 5:** "'The necessity of that worldview? Clarion felt the weight of his words like a knife to the heart. Perhaps he was not a governing-talent like her. Perhaps they had not endured exactly the same things. But in that moment, it didn't matter. The shape of his pain matched her own. Milori was just as lonely as she was. She yearned to rest her hand atop his, but she felt anchored in place. For so long, she'd wished for someone to see her—truly see her. Now that someone might, she understood just how terrifying it would feel to allow it—and just how much more complicated that would make this entire mission. I've always wanted things I shouldn't. Never had that felt truer.'"
 
-**中文理解：** "The necessity of that worldview?" Clarion felt the weight of his words like a knife to the heart。Perhaps he was not a governing-talent like her。Perhaps they had not endured exactly the same things。But in that moment，it didn't matter。The shape of his pain matched her own。Milori was just as lonely as she was。She yearned to rest her hand atop his，but she felt anchored in place。For so long，she'd wished for someone to see her——truly see her。Now that someone might，she understood just how terrifying it would feel to allow it——and just how much more complicated that would make this entire mission。I've always wanted things I shouldn't。Never had that felt truer。
+**中文理解：** Milori 问"The necessity of that worldview?"，Clarion 感受到他话语的重量，如同一把刀刺入她的心。也许他并非像她那样的治理之才；也许他们并未经历完全相同的事。但那一刻，这并不重要。The shape of his pain matched her own；Milori was just as lonely as she was（Milori 与她一样孤独）。她 yearned to rest her hand atop his，却感到 anchored in place（被锚定在原地）。长久以来，她渴望有人能 see her——truly see her。Now that someone might，她明白了 just how terrifying it would feel to allow it——and just how much more complicated that would make this entire mission。I've always wanted things I shouldn't。Never had that felt truer。
 
 **关键词：** knife to the heart · shape of his pain · anchored · truly see her · terrifying
 
-**为什么这样写：** 用 "The shape of his pain matched her own" 作 recognition—Clarion and Milori share loneliness, not circumstances. "Milori was just as lonely as she was" 作 narrator's statement—this is the book's central revelation: Clarion is not alone in her loneliness. "She yearned to rest her hand atop his, but she felt anchored in place" 作 physical desire vs emotional paralysis—Clarion wants connection but is afraid. "truly see her" 作 Clarion's deepest desire—being known, not just seen. "I've always wanted things I shouldn't. Never had that felt truer" 作 theme statement—desire is not failure.
+**为什么这样写：** 用 "The shape of his pain matched her own" 作识别——Clarion 与 Milori 共享孤独，而非处境。"Milori was just as lonely as she was" 作叙述者陈述——这是本书的核心揭示：Clarion 在孤独中并不孤单。"She yearned to rest her hand atop his, but she felt anchored in place" 作身体欲望与情感瘫痪——Clarion 渴望连接却感到恐惧。"truly see her" 作 Clarion 的最深渴望——被真正理解，而不仅是被看见。"I've always wanted things I shouldn't. Never had that felt truer" 作主题陈述——欲望并非失败。
 
-**读者视角提示：** 注意 "The shape of his pain matched her own"——pain's shape, not pain's cause. Clarion and Milori have different circumstances but same emotional experience. This is the book's argument: connection is possible across difference. "I've always wanted things I shouldn't" echoes ch01's "few will ever experience true wonder"—wonder and desire are linked, and both are "shouldn't."
+**读者视角提示：** 注意 "The shape of his pain matched her own"——pain's shape，not pain's cause（痛苦的形状，而非痛苦的原因）。Clarion 与 Milori have different circumstances but same emotional experience。This is the book's argument：connection is possible across difference（连接可能跨越差异）。"I've always wanted things I shouldn't" echoes ch01's "few will ever experience true wonder"——wonder and desire are linked，and both are "shouldn't"（都不该）。
 
 ## 本章词汇
 
@@ -73,24 +71,20 @@ modified: "2026-10-18"
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| jeopardize | 危及；损害 | I would never do anything intentionally to jeopardize your position |
 | unbidden | 未经请求的；自发的 | That troublesome thought resurfaced, unbidden |
-| cobble | 拼凑；草率地做 | to cobble things together from what someone else had left behind |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| incredulity | 不信；怀疑 | Clarion could not keep the incredulity out of her voice |
-| deference | 敬意；顺从 | to inspire such deference in the Warden of the Winter Woods |
-| flutteriness | 心慌意乱；飘忽 | to shake off this…flutteriness |
+| trust | 信任；信赖 | I trust your judgment of character, of course, but that is a very dangerous trip to undertake. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| Neverberry | Neverberry（树莓） | the Pixie Dust Tree had sprouted a veritable orchard in miniature |
-| waxing crescent | 娥眉月；渐盈新月 | a thin waxing crescent, like an eye cracking open |
+| coat | 外套；大衣 | But a winter coat? |
+
 
 ## 一句话总结
 

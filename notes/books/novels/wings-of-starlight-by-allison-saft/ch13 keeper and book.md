@@ -17,45 +17,45 @@ modified: "2026-10-18"
 
 > **原句 1:** "'He's the Keeper's wolf.'"
 
-**中文理解：** "He's the Keeper's wolf。" Milori 介绍 Fenris 是 Keeper 的狼。
+**中文理解：** Milori 介绍 Fenris 是 Keeper 的狼。这句话简短而直接，既点明了 Fenris 的归属，也为 Keeper 的正式出场做了铺垫。读者由此得知，这只狼并非野生，而是与 Keeper 紧密相连。
 
 **关键词：** Keeper · wolf
 
 > **原句 2:** "'Long ago, when the Pixie Dust Tree was still but a sapling, children's dreams—both good and bad—traveled over Pixie Hollow,' she said—or did she? Clarion could hardly tell if the voice she heard was her own, because the words certainly were not. They slipped out as though by recitation; the story unfolded in her mind so clearly, she could almost see it like a reflection on still water."
 
-**中文理解：** "Long ago，when the Pixie Dust Tree was still but a sapling，children's dreams——both good and bad——traveled over Pixie Hollow，" she said——or did she? Clarion could hardly tell if the voice she heard was her own，because the words certainly were not。They slipped out as though by recitation；the story unfolded in her mind so clearly，she could almost see it like a reflection on still water。
+**中文理解：** Clarion 说出一段古老的故事：很久以前，当 Pixie Dust Tree 还只是树苗时，孩子们的梦——无论好坏——都会飘过 Pixie Hollow。她几乎分不清这声音是不是自己的，因为这些词显然不是她平时会说的。它们像背诵一样自然流出，而故事在她脑中清晰展开，几乎能看见，仿佛静水中的倒影。
 
 **关键词：** recitation · reflection · still water · unfolded
 
-**为什么这样写：** 用 "or did she?" 作 narrator's uncertainty—Clarion is channeling, not reading. "slipped out as though by recitation" 作 magic—governing-talent magic is not control but channeling. "reflection on still water" 作 vision metaphor—Clarion sees the story, not just reads it. This connects to Elvina's "absence of emotion"—Clarion's magic works through connection (to the story), not control.
+**为什么这样写：** 用 "or did she?" 制造叙述者的不确定——Clarion 正在通道般地传达故事，而非主动朗读。原文中像背诵般滑出的语句，暗示 governing-talent 的魔法不是控制，而是通道。以静水倒影的视觉比喻，把 Clarion 的体验从"读"提升为"看见"，呼应 Elvina 所说的"情感缺席"——Clarion 的魔法靠与故事的连接而非控制来运作。
 
-**读者视角提示：** 注意 "children's dreams—both good and bad"——dream-talents handled both. Nightmares are not inherently evil; they're part of dreams. This reframes the conflict: Nightmares aren't monsters to destroy, they're dreams to manage.
+**读者视角提示：** 注意 "children's dreams—both good and bad"——dream-talents 处理好坏两种梦。噩梦并非天生邪恶，它们也是梦的一部分。这重新定义了冲突：Nightmares 不是需要消灭的怪物，而是需要管理的梦。
 
 > **原句 3:** "'Such is the way of nature,' Clarion murmured."
 
-**中文理解：** "Such is the way of nature," Clarion murmured。Clarion 感叹自然的规律。
+**中文理解：** Clarion 低声感叹，这就是自然的规律。这句话在 Keeper 讲述 dream-talents 的历史之后出现，显示 Clarion 接受了自然中同时存在好坏两类梦的设定。这也呼应了前文对 nightmare 的重新定义——坏梦同样是梦的一部分，需要管理而非消灭。
 
 **关键词：** nature · way
 
 > **原句 4:** "'Because you were made for this. I feel it, when I look at you. Perhaps it's your magic. Perhaps it's you. Whatever it is, you have an aura about you. You command respect, yes, but more than that, you inspire hope. It is the first time I have felt it in a very long time.'"
 
-**中文理解：** "Because you were made for this。I feel it，when I look at you。Perhaps it's your magic。Perhaps it's you。Whatever it is，you have an aura about you。You command respect，yes，but more than that，you inspire hope。It is the first time I have felt it in a very long time。"
+**中文理解：** Milori 对 Clarion 说，她生来就是为了这件事。他看着她时能感到这一点。或许是她的魔法，或许是她本人。无论如何，她身上有一种气场，能赢得尊重，更能激发希望——而这是他久违的感受。
 
 **关键词：** made for this · aura · inspire hope · first time
 
-**为什么这样写：** 用 "you were made for this" 作 Milori's belief—Clarion is destined. "Perhaps it's your magic. Perhaps it's you" 作 ambiguity—Milori doesn't know if it's her power or her person. "you inspire hope" 作 key phrase—hope is the book's theme. "first time I have felt it in a very long time" 作 Milori's vulnerability—he's been hopeless, and Clarion gives him hope.
+**为什么这样写：** 用"你生来就是为了这件事"表达 Milori 的信念——Clarion 是命中注定的。保留"或许是魔法，或许是她本人"的歧义——Milori 不确定这种力量来自她的魔法还是个人魅力。"激发希望"是关键短语——希望是全书主题。而"这是他久违的感受"展现 Milori 的脆弱——他长期处于绝望，Clarion 给了他希望。
 
-**读者视角提示：** 注意 "It is the first time I have felt it in a very long time"——Milori has been alone with his burden. Clarion is the first person to give him hope. This is the romantic climax: not "I love you" but "you give me hope."
+**读者视角提示：** 注意 "It is the first time I have felt it in a very long time"——Milori 长期独自承受重担。Clarion 是第一个给他希望的人。这是浪漫高潮：不是"我爱你"，而是"你给了我希望"。
 
 > **原句 5:** "'Tomorrow,' Clarion said, with far more conviction than she felt, 'take me to this prison. I want to put the Keeper's theory to the test.'"
 
-**中文理解：** "Tomorrow," Clarion said，with far more conviction than she felt，"take me to this prison。I want to put the Keeper's theory to the test。"
+**中文理解：** Clarion 说"明天"，但她的坚定远超过她真实感到的。她要求 Milori 带她去那座监狱，她想验证 Keeper 的理论。这句话表面决断，内心却仍存疑虑。
 
 **关键词：** conviction · prison · test
 
-**为什么这样写：** 用 "with far more conviction than she felt" 作 Clarion's self-awareness—she's acting braver than she feels. "take me to this prison" 作 next-chapter setup—Clarion will confront Nightmares directly. "put the Keeper's theory to the test" 作 scientific framing—Clarion approaches magic as hypothesis, not faith.
+**为什么这样写：** 用"她表现得比真实感受更勇敢"显示 Clarion 的自我觉察——她清楚自己在表演勇气。"带我去那座监狱"为下一章做铺垫——Clarion 将直接面对 Nightmares。"验证 Keeper 的理论"以科学方式对待魔法——Clarion 把魔法当作假设而非信仰来检验。
 
-**读者视角提示：** 注意 "with far more conviction than she felt"——Clarion is performing courage. This is the same pattern as ch10's "I've always wanted things I shouldn't." She's not confident, but she's acting anyway. This is the book's argument: courage is not absence of fear, it's action despite fear.
+**读者视角提示：** 注意 "with far more conviction than she felt"——Clarion 在表演勇气。这与 ch10 的 "I've always wanted things I shouldn't" 是同一模式：她并不自信，却仍然行动。这是全书的主张：勇气不是无所畏惧，而是在畏惧中仍然前行。
 
 ## 本章词汇
 
@@ -83,7 +83,7 @@ modified: "2026-10-18"
 |---|---|---|
 | dream-talent | 梦境天赋（妖精种类） | There were dream-talent fairies who gathered up the dreams |
 | aurora borealis | 北极光 | lit up the night like an aurora borealis |
-| starlight | 星光 | An entire world made of starlight |
+| starlight | 星光 | Pixie dust lifted from the ink, glimmering in the darkness like starlight. |
 
 ## 一句话总结
 
