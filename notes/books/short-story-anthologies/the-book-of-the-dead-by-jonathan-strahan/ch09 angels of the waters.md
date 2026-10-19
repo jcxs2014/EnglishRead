@@ -12,7 +12,7 @@
 
 - **叙事手法**：First-person (Charlotte)；historical fantasy with climate fiction; vampire/immortal friendship; city as character; water as dual symbol (life/death, creation/destruction); "They say you cannot live in the past. But you can die there."
 
-- **与后文的钩子**：Strahan Introduction 提到 "Elizabeth Bear's poignant story of a statue that comes to life, and the vampire who built the city she watches over." 本篇是选集的 historical fantasy/immortal 代表——death 作为 "living in the past"（"you can die there"），water 作为 civilization 的 source and enemy。Theme: love persists beyond death; city as body; climate change as slow apocalypse.
+- **与后文的钩子**：Strahan Introduction 提到 Elizabeth Bear's poignant story of a statue that comes to life, and the vampire who built the city she watches over。本篇是选集的 historical fantasy/immortal 代表——death 作为 "living in the past"（"you can die there"），water 作为 civilization 的 source and enemy。主题：love persists beyond death; city as body; climate change as slow apocalypse。
 
 ## 精读
 

@@ -2,7 +2,7 @@
 
 ## 本章导航
 
-- **一句话概括**：叙述者 Trevor 与 crew（Brit/Reina/Jed）在死后被锁定在 2025 年的 time loop 中，收到 Arizona 的 "Dead-End Party" 坐标，驱车前往沙漠中的临时城市；party 上他们体验 bumper cars、bonfire 辩论，Trevor 最终在沙漠岩石边与 Reina 重逢、接吻，两人在 "everything forever vs. nothing forever" 的对话中找到片刻的 connection。
+- **一句话概括**：叙述者 Trevor 与 crew（Brit/Reina/Jed）在死后被锁定在 2025 年的 time loop 中，收到 Arizona 的 "Dead-End Party" 坐标，驱车前往沙漠中的临时城市；party 上他们体验 bumper cars、bonfire 辩论，Trevor 最终在沙漠岩石边与 Reina 重逢、接吻，两人在 "永恒的一切 vs. 永恒的虚无" 的对话中找到片刻的连接。
 
 - **时间**：2025 年（loop 年份）；死后约 1-2 年（crew 已 loop 多轮）
 
@@ -12,7 +12,7 @@
 
 - **叙事手法**：First-person (Trevor)；time-loop SF with social realism；ensemble cast；pop-culture references（slasher movies, Happy Death Day, Burning Man）；race/class awareness（"various shades of brown" crew vs. white party-goers）；philosophical dialogue as plot; kiss as emotional climax
 
-- **与后文的钩子**：Strahan Introduction 提到 "Cadwell Turnbull's ensemble piece about the dead gathering at a party in the desert, where they must decide what to do with eternity." 本篇是选集的 ensemble/SF 代表——death 作为 time-loop 社会实验，party 作为 dead community 的 microcosm。Theme: eternity as social condition; connection vs. isolation; "absentee parent for all occasions."
+- **与后文的钩子**：Strahan Introduction 提到 Cadwell Turnbull's ensemble piece about the dead gathering at a party in the desert, where they must decide what to do with eternity。本篇是选集的 ensemble/SF 代表——death 作为 time-loop 社会实验，party 作为 dead community 的 microcosm。主题：eternity as social condition; connection vs. isolation; "absentee parent for all occasions."
 
 ## 精读
 
@@ -32,7 +32,7 @@
 
 - **关键词**：traumatized / front tooth / grow back / only one
 
-- **为什么这样写**：Turnbull 用 physical regeneration (tooth grows back) 对比 psychological trauma (persists). Dead can heal physically but not emotionally—this is the story's central tension. Trevor's "apparently I was the only one" shows his isolation within the crew; he's the sensitive one, the one who still feels. This sets up his final conversation with Reina about "everything forever vs. nothing forever."
+- **为什么这样写**：Turnbull 用 physical regeneration (tooth grows back) 对比 psychological trauma (persists). Dead can heal physically but not emotionally—this is the story's central tension. Trevor's "apparently I was the only one" shows his isolation within the crew; he's the sensitive one, the one who still feels. This sets up his final conversation with Reina about "永恒的一切 vs. 永恒的虚无."
 
 - **读者视角提示**：traumatized = 创伤的；regeneration = 再生。Turnbull's dead have superhuman healing but normal human psychology—death doesn't cure trauma.
 
@@ -109,4 +109,4 @@
 
 ## 一句话总结
 
-Turnbull 的 "The Dead-End Party" 是选集中最 ensemble 的 SF：Trevor 与 crew（Brit/Reina/Jed）死后被锁定在 2025 年 time loop，收到 Arizona 坐标驱车前往沙漠中的临时城市 (Dead-End Party)；party 上他们体验 bumper cars、fairground games、bonfire 辩论（dead aliens? million-year horizon?），Trevor 最终在沙漠岩石边与 Reina 重逢、接吻。Turnbull 的 thesis："死亡不是终点而是 social condition"—dead 保留 agency（"world was on loop, not us"），但 eternity 是 sentence not freedom ("million years from now, we'd all still be here"). Reina 的 "everything forever vs. nothing forever" 是 existential calculus; "absentee parent for all occasions" 是 theological critique. The kiss ("Shut up, Trev") 是 Turnbull 的 resolution: philosophy insufficient, connection is the answer. This is the anthology's "death as social experiment" counterpoint to the darker pieces. Theme: eternity's meaning is interpersonal, not cosmic.
+Turnbull 的 "The Dead-End Party" 是选集中最 ensemble 的 SF：Trevor 与 crew（Brit/Reina/Jed）死后被锁定在 2025 年 time loop，收到 Arizona 坐标驱车前往沙漠中的临时城市 (Dead-End Party)；party 上他们体验 bumper cars、fairground games、bonfire 辩论（dead aliens? million-year horizon?），Trevor 最终在沙漠岩石边与 Reina 重逢、接吻。Turnbull 的 thesis："死亡不是终点而是 social condition"—dead 保留 agency（"world was on loop, not us"），但 eternity 是 sentence not freedom ("百万年后我们仍在这里等待"). Reina 的 "永恒的一切 vs. 永恒的虚无" 是 existential calculus; "缺席的父母" 是 theological critique. The kiss ("Shut up, Trev") 是 Turnbull 的 resolution: philosophy insufficient, connection is the answer. This is the anthology's "death as social experiment" counterpoint to the darker pieces. Theme: eternity's meaning is interpersonal, not cosmic.

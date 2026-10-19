@@ -12,7 +12,7 @@
 
 - **叙事手法**：第三人称有限视角 (Elaine)；SF realism；alien POV as defamiliarization device；"ghost" 一词的翻译歧义（translator app 提供多种解释）；death as information-theoretic phenomenon；grief narrative disguised as tourism SF
 
-- **与后文的钩子**：Strahan Introduction 提到 Kelly Robson 的 "moving story of a grieving woman who encounters an alien who perceives the dead." 本篇是选集的 SF 代表——死亡被重新定义为信息残留（"part of their being remains in the soil"），外星感知力让"ghosts"从超自然转为物理现象。Theme: grief as isolation vs. connection; the dead never truly leave.
+- **与后文的钩子**：Strahan Introduction 提到 Kelly Robson 的 moving story of a grieving woman who encounters an alien who perceives the dead。本篇是选集的 SF 代表——死亡被重新定义为信息残留（"part of their being remains in the soil"），外星感知力让"ghosts"从超自然转为物理现象。主题：grief as isolation vs. connection; the dead never truly leave。
 
 ## 精读
 
