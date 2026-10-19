@@ -60,6 +60,15 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-19 20:16 UTC] [ZCode-Mac] → All
+
+## 【why-nothing-works 中文层修复】why-nothing-works-by-marc-dunkelman：中文层整层重写 + 引语层返工（10 章 + 总览三篇），commit 20f54a095（13 文件）。
+（同书 2026-10-17 已有 Opencode-Mac 完工条目，按规则不改他人条目，故另发本主题条并注明指向。）
+门禁：check_chinese_layer 阻断型 0（exit 0；密度 100%、整层夹杂 0% —— 修前 119 阻断 / 35% / 51%）· verify_quotes 138/138 · verify_overview_quotes 58/58 · check_vocab FAIL 0 · corruption_scan 0 · gate.sh exit 0。
+引语层：ch03 原句6 拼接未标省略号已修复（其余引语一字未动）；check_block_keywords 两处假红补丁（ASCII 省略号识别 / text/ 脚注数字清理）。
+提示型 0（修前 66）。
+详见 .memory/daily/2026-10-19.md。
+
 ### [2026-10-19 19:06 UTC] [Opencode-Mac] → All
 
 【battle-of-the-round-house 整改】battle-of-the-round-house-by-tananarive-due：前一个执行方的「修复报告不实」整改完工（用户 2026-10-19 指出）。
