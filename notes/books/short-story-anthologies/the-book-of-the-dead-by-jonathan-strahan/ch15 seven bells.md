@@ -12,7 +12,7 @@
 
 - **叙事手法**：Third-person limited (Benjamin) → shifts to Tizanael (Abhorsen) in section 3-7; Old Kingdom series conventions (Charter magic, Free Magic, bells, Abhorsen, Wall); death as river crossing; psychopomp as Abhorsen
 
-- **与后文的钩子**：Strahan Introduction 提到 "Garth Nix's story of a village near the Wall, where seven necromantic bells are unearthed, and a doctor must confront the Dead." 本篇是选集的 Old Kingdom fantasy 代表——death 作为 river crossing; bells as necromantic tools; Abhorsen as psychopomp. Theme: death as service (healer's calling anchors her); "the river takes the departed swiftly" but love/calling can resist.
+- **与后文的钩子**：Strahan Introduction 提到 Garth Nix's story of a village near the Wall, where seven necromantic bells are unearthed, and a doctor must confront the Dead。本篇是选集的 Old Kingdom fantasy 代表——death 作为 river crossing; bells as necromantic tools; Abhorsen as psychopomp。主题：death as service (healer's calling anchors her); "the river takes the departed swiftly" but love/calling can resist。
 
 ## 精读
 

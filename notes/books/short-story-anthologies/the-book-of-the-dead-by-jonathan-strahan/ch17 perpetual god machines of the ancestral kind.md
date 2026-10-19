@@ -12,7 +12,7 @@
 
 - **叙事手法**：First-person (Ireti); SF with Yoruba cosmology (Orun, Egun, ìdáwò, Babaláwo, Charter-like quantum divination); sections numbered 1-4; death as voluntary sacrifice for knowledge; singularity as living portal between universes
 
-- **与后文的钩子**：Strahan Introduction 提到 "Wole Talabi's story of a world where ancestral spirits have gone silent, and a diviner who must die to find out why." 本篇是选集的 Africanfuturism 代表——death 作为 interdimensional transfer; spirits as building blocks of all universes; "perpetual god machines" as living portals. Theme: death as transfer not end; "For every call, there is a response" broken; ancestors as universal infrastructure.
+- **与后文的钩子**：Strahan Introduction 提到 Wole Talabi's story of a world where ancestral spirits have gone silent, and a diviner who must die to find out why。本篇是选集的 Africanfuturism 代表——death 作为 interdimensional transfer; spirits as building blocks of all universes; "perpetual god machines" as living portals。主题：death as transfer not end; "For every call, there is a response" broken; ancestors as universal infrastructure。
 
 ## 精读
 

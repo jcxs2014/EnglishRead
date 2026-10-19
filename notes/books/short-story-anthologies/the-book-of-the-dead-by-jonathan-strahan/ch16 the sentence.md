@@ -12,7 +12,7 @@
 
 - **叙事手法**：First-person stream-of-consciousness (single paragraph, 22KB); dying monologue; COVID-19 pandemic setting; "sentence" as double meaning (prison sentence/death sentence); infinite halving of time (Zeno's paradox of dying); swap as hope; Schrödinger's cat as metaphor for dying state
 
-- **与后文的钩子**：Strahan Introduction 提到 "Paul Tremblay's story of a man trapped in his final moments, narrating his death." 本篇是选集的 pandemic/death 代表——death 作为 infinite subjective time; "The Sentence" = death sentence; hope as swap (someone else takes your place). Theme: death as prison; infinite halving; hope as replacement.
+- **与后文的钩子**：Strahan Introduction 提到 Paul Tremblay's story of a man trapped in his final moments, narrating his death。本篇是选集的 pandemic/death 代表——death 作为 infinite subjective time; "The Sentence" = death sentence; hope as swap (someone else takes your place)。主题：death as prison; infinite halving; hope as replacement。
 
 ## 精读
 
