@@ -16,23 +16,23 @@ modified: "2026-10-19"
 
 > **原句 1:** "Important: You will need 1½ cups of cooked navy beans for this recipe. If you do not have any shelf-stable packs on hand, make sure to cook a dry batch ahead of time. You can also use any white bean instead."
 
-**中文理解**：食谱开场——navy beans（或任何 white bean）；shelf-stable packs 或 dry batch。
+**中文理解**：食谱开场——白豆或任何白芸豆都行；用耐储存的包装或干豆都可以。
 
 **关键词**：navy beans / shelf-stable packs / white bean
 
-**为什么这样写**：把 recipe 写成“Important:”开场——Otto 务实的声音；“any white bean instead”写出弹性。
+**为什么这样写**：把食谱以“注意”二字开场——是老人务实的声音；“任何白豆都可以代替”写出弹性。
 
-**读者视角提示**：Recipe——豆子的弹性选择。
+**读者视角提示**：这份食谱——豆子的选择留有余地。
 
 > **原句 2:** "If you can't get vat-grown spuds, do NOT substitute this with mash powder, it will not work. I suppose you could use cauliflower instead, but it is not going to be the same."
 
-**中文理解**：potato 注——“do NOT substitute with mash powder”（脚注1：“Fuck vat-grown. Solace Golds all the way.”）。
+**中文理解**：关于土豆的注——千万不要用土豆粉代替；脚注还骂了句去他的槽培，说非索拉斯金土豆不可。
 
 **关键词**：do NOT substitute / mash powder / Solace Golds
 
-**为什么这样写**：把 potato 写成“do NOT substitute”——Otto 的强调；脚注1“Fuck vat-grown. Solace Golds all the way.”写出他的偏好。
+**为什么这样写**：把土豆写成“千万不要代替”——这是老人的强调；那条脚注则写出他对某种土豆的执着偏好。
 
-**读者视角提示**：Recipe——potato 偏好（Solace Golds，非 vat-grown）。
+**读者视角提示**：这份食谱——土豆有讲究：要真土豆，不要槽培的。
 
 > **原句 3:** "Use a spatula to toss the flour in the oil and keep stirring for about four minutes, until the flour clumps are a bit toasty."
 
@@ -42,7 +42,7 @@ modified: "2026-10-19"
 
 **为什么这样写**：把 roux 写成“toasty”——视觉提示；“toss”写出技法。
 
-**读者视角提示**：Recipe——roux 的视觉提示。
+**读者视角提示**：这份食谱——炒面糊靠视觉判断。
 
 > **原句 4:** "Add ½ teaspoon of sweet paprika and a dash of black pepper."
 
@@ -50,29 +50,29 @@ modified: "2026-10-19"
 
 **关键词**：sweet paprika / dash of black pepper
 
-**为什么这样写**：把 seasoning 写成“dash”——Otto 的随意；“sweet paprika”写出他的偏好。
+**为什么这样写**：把调味写成“少许”——这是老人的随意；“甜椒粉”写出他的偏好。
 
-**读者视角提示**：Recipe——随意的调味。
+**读者视角提示**：这份食谱——调味很随意。
 
 > **原句 5:** "Mix together until it looks like dough. You know what dough looks like."
 
-**中文理解**：饺子面团——「Mix together until it looks like dough. You know what dough looks like.」——Otto 式的随性指令。
+**中文理解**：饺子面团——拌到看起来像面团就行，你总知道面团长什么样——老人式的随性指令。
 
 **关键词**：You know what dough looks like
 
-**为什么这样写**：把 dough 写成“You know what dough looks like”——Otto 信任读者；无精确描述。
+**为什么这样写**：把面团写成“你总知道面团长什么样”——老人信任读者；不给精确描述。
 
-**读者视角提示**：Recipe——信任读者的知识。
+**读者视角提示**：这份食谱——信任读者已有的常识。
 
 > **原句 6:** "Drop spoonfuls of dough straight into the soup. You should have enough dough for fourteen dumplings, ish."
 
-**中文理解**：drop dumplings——“fourteen dumplings, ish”（脚注2：“This always turns out to be more like ten or twelve for me.”）。
+**中文理解**：下饺子——大概十四个左右；脚注里老实交代说他自己做出来总归只有十个十二个。
 
 **关键词**：fourteen dumplings, ish
 
-**为什么这样写**：把 dumpling 数量写成“ish”——Otto 的随意；脚注2的“more like ten or twelve”写出他的诚实。
+**为什么这样写**：把饺子数量写成“大概”——这是老人的随意；脚注里那句“其实只有十个十二个”写出他的诚实。
 
-**读者视角提示**：Recipe——随意的数量加诚实的脚注。
+**读者视角提示**：这份食谱——数量随意，脚注却很诚实。
 
 > **原句 7:** "Serve as soon as it's cool enough to eat."
 
@@ -80,9 +80,9 @@ modified: "2026-10-19"
 
 **关键词**：as soon as it's cool enough to eat
 
-**为什么这样写**：把 serving 写成“as soon as it's cool enough”——Otto 的急切；收尾注。
+**为什么这样写**：把上菜写成“一凉到能入口就吃”——写出老人的急切；这是收尾的叮嘱。
 
-**读者视角提示**：Recipe——趁热上菜。
+**读者视角提示**：这份食谱——要趁热上桌。
 
 ## 本章词汇
 

@@ -30,7 +30,7 @@ Hasty Madder 的植物档案——common name, species name, adaptation path；S
 
 > **原句 2:** "Species name: Rubia alexandrae"
 
-**中文理解**：学名——Rubia alexandrae；后半段表明它是以某个人命名的。
+**中文理解**：学名的后半段表明，它是以某个人的名字来命名的。
 
 **关键词**：species name / Rubia alexandrae
 

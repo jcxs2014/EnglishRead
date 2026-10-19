@@ -26,27 +26,27 @@ modified: "2026-10-19"
 
 > **原句 2:** "Signy and Sam worked together to make Otto's bedroom comfortable before the paramedics brought him home. Because that's what you did when the doctor said he'd have to call security if you didn't stop yelling at him after he told you the patient wasn't eligible for a transplant. You stopped yelling so that you wouldn't be taken away from the patient any sooner than you were already going to be, and then you brought him back home, and you gave him every comfort you could think of."
 
-**中文理解**：Signy 与 Sam 的准备——“because that's what you did when the doctor said he'd have to call security if you didn't stop yelling at him”。
+**中文理解**：她和 Sam 的准备——因为医生说要是不停止冲他吼，就得叫保安了，你就只能照做。
 
 **关键词**：doctor said he'd have to call security / you stopped yelling / brought him back home / gave him every comfort
 
-**为什么这样写**：把 Signy 的愤怒写成“doctor said he'd have to call security”——她为 Otto 抗争；“brought him back home, and you gave him every comfort you could think of”写出她的关心。
+**为什么这样写**：把这份愤怒写成“医生说要叫保安”——这是她为老人抗争；“把他接回家，给他能想到的每一种安慰”写出她的关心。
 
-**读者视角提示**：Signy 为 Otto 抗争——移植被拒，带他回家。
+**读者视角提示**：她为老人抗争——移植被拒，只好把他接回家。
 
 > **原句 3:** "Then Otto came home, and despite how full the apartment was, Signy could feel just how empty it was going to become."
 
-**中文理解**：Otto 归来——“despite how full the apartment was, Signy could feel just how empty it was going to become.”。
+**中文理解**：老人归来——尽管公寓里那么满，她仍能感到它将要变得多空。
 
 **关键词**：despite how full the apartment was / empty it was going to become
 
-**为什么这样写**：把 Otto 的归来写成“empty it was going to become”——Signy 的预见；“despite how full”写出对比（人在，但 Otto 将死）。
+**为什么这样写**：把这次归来写成“将要变得多空”——这是她的预见；“尽管那么满”写出对比：人都在，可老人要走了。
 
-**读者视角提示**：Signy 的预见——Otto 的死临近。
+**读者视角提示**：她的预见——老人的死正在临近。
 
 > **原句 4:** "I don't know," Otto said with the slightest nod of his head. "I just like to think he buys cupcakes for his kids on Tuesdays." / "How do you know he has kids?" Signy asked. / Otto smiled. "I don't know," he said. "I just like to think he buys cupcakes for his kids on Tuesdays."
 
-**中文理解**：Otto 的“I just like to think he buys cupcakes for his kids on Tuesdays”——虚构邻里。
+**中文理解**：老人的话——他就是愿意想着那人周二会给孩子们买纸杯蛋糕；这是他的虚构。
 
 **关键词**：I just like to think he buys cupcakes for his kids on Tuesdays
 
@@ -56,67 +56,67 @@ modified: "2026-10-19"
 
 > **原句 5:** "The parts that needed some oomph," Otto said. "Every script needs an editor."
 
-**中文理解**：Otto 的“The parts that needed some oomph” / “Every script needs an editor.”。
+**中文理解**：老人的话——那些需要加点劲的部分；每个剧本都需要一位剪辑。
 
 **关键词**：The parts that needed some oomph / Every script needs an editor
 
-**为什么这样写**：把 Otto 的虚构写成“Every script needs an editor”——他 Foley artist 的身份；“oomph”写出他的创作润色。
+**为什么这样写**：把这份虚构写成“每个剧本都需要一位剪辑”——这是他的拟音师身份；“加点劲”写出他的创作润色。
 
-**读者视角提示**：Otto 的 Foley artist 身份——为叙事编辑现实。
+**读者视角提示**：老人的拟音师身份——为叙事去编辑现实。
 
 > **原句 6:** "Where's Henry?" Otto asked. / Signy didn't miss a beat. "He'll be home tomorrow," she said. "He misses you, too."
 
-**中文理解**：Otto 的“Where's Henry?” / Signy 的“He'll be home tomorrow. He misses you, too.”。
+**中文理解**：老人问 Henry 呢；她答：他明天就回来；他也很想你。
 
 **关键词**：Where's Henry? / He'll be home tomorrow / He misses you, too
 
-**为什么这样写**：把 Otto 的困惑写成“Where's Henry?”——他的迷失（Henry 已故）；Signy 的“He'll be home tomorrow”写出她的善意（不纠正他）。
+**为什么这样写**：把这份困惑写成“Henry 呢”——这是他的迷失，因为 Henry 已经去世；她那句“他明天就回来”写出她的善意，不去纠正他。
 
-**读者视角提示**：Otto 的困惑——Henry（已故）/ Signy 的善意（不纠正）。
+**读者视角提示**：老人的困惑——他惦记着已经去世的人；她的善意——不去纠正他。
 
 > **原句 7:** "Are you comfortable?" they asked. It was all they needed to say to answer Signy's question."
 
-**中文理解**：Nurse Arlo 的“Are you comfortable?”——“It was all they needed to say to answer Signy's question.”（Otto 将死）。
+**中文理解**：护士问的那句“你舒服吗”——只需这一句就回答了那个问题；老人快走了。
 
 **关键词**：Are you comfortable / It was all they needed to say to answer Signy's question
 
-**为什么这样写**：把 Arlo 的提问写成“It was all they needed to say to answer Signy's question”——Signy 的领悟（Otto 将死）；“Are you comfortable?”作为临终护士的评估。
+**为什么这样写**：把这句话写成“只需这一句就回答了那个问题”——这是她的领悟，老人快走了；“你舒服吗”作为临终护士的评估。
 
-**读者视角提示**：Arlo 的评估——Otto 将死（hospice）。
+**读者视角提示**：那位护士的评估——老人已进入临终。
 
 > **原句 8:** "I know you're the one who supplies him with blood pressure meds. There's no way he could've turned around like he did on diet and exercise alone, especially with as messed up as his knee is."
 
-**中文理解**：Arlo 的揭晓——“I know you're the one who supplies him with blood pressure meds.”。
+**中文理解**：那位护士的揭晓——我知道他的降压药是你给的。
 
 **关键词**：I know you're the one who supplies him with blood pressure meds
 
 **为什么这样写**：把 Arlo 的知晓写成“I know you're the one who supplies him”——他们的觉察；“There's no way he could've turned around like he did on diet and exercise alone”写出他们的推论。
 
-**读者视角提示**：Arlo 的觉察——Signy 供 Otto 的药（非食物/运动）。
+**读者视角提示**：那位护士的觉察——老人的药是她供的，不是靠饮食和运动。
 
 > **原句 9:** "Somebody at the hospital caught it." They held out their tablet and scrolled through Otto's file, stopping at a block of red highlighting. A flag to investigate further."
 
-**中文理解**：Arlo 的警告——“Somebody at the hospital caught it.” / “A flag to investigate further.”。
+**中文理解**：那位护士的警告——医院里有人发现了；已经立了标记要查下去。
 
 **关键词**：Somebody at the hospital caught it / A flag to investigate further
 
 **为什么这样写**：把 Arlo 的警告写成“Somebody at the hospital caught it”——医院的发现；“A flag to investigate further”写出调查。
 
-**读者视角提示**：Arlo 的警告——医院标记了 Otto 的药（调查开始）。
+**读者视角提示**：那位护士的警告——医院标记了老人的药，调查已经开始。
 
 > **原句 10:** "No, no, no—not a medication reaction. It wasn't anything you gave him. This was just . . . one of those things. Hearts do this, when they get old. You kept his going for longer than it would have otherwise."
 
-**中文理解**：Arlo 的安抚——“It wasn't anything you gave him. This was just . . . one of those things. Hearts do this, when they get old.”。
+**中文理解**：那位护士的安抚——不是你给他的东西造成的；这只是……那种事；心脏老了就会这样。
 
 **关键词**：It wasn't anything you gave him / one of those things / Hearts do this, when they get old / You kept his going for longer than it would have otherwise
 
-**为什么这样写**：把 Arlo 的安抚写成“It wasn't anything you gave him”——减轻 Signy 的愧疚；“Hearts do this, when they get old”写出自然原因；“You kept his going for longer”写出 Signy 的益处。
+**为什么这样写**：把这份安抚写成“不是你给他的东西造成的”——用来减轻她的愧疚；“心脏老了就会这样”写出自然原因；“你让他的心脏多跳了几年”写出她的功劳。
 
-**读者视角提示**：Arlo 的安抚——Signy 的药未导致 Otto 心脏病；它们延长了他的生命。
+**读者视角提示**：那位护士的安抚——那副药没有导致心脏病；它反而延长了他的生命。
 
 > **原句 11:** "This was flagged last night. I would bet good money it's already being chased down. Someone is picking this apart as we are talking, right now. Do you understand what I'm saying?"
 
-**中文理解**：Arlo 的警告——“This was flagged last night. I would bet good money it's already being chased down.”。
+**中文理解**：那位护士的警告——昨晚就被标记了；我敢打赌现在已经有人在追查。
 
 **关键词**：flagged last night / already being chased down / Someone is picking this apart as we are talking, right now
 
@@ -126,17 +126,17 @@ modified: "2026-10-19"
 
 > **原句 12:** "You need to shut it down. Now. Get rid of whatever setup you've got, and shut it down."
 
-**中文理解**：Arlo 的命令——“You need to shut it down. Now.”。
+**中文理解**：那位护士的命令——你必须把它关掉，现在。
 
 **关键词**：You need to shut it down. Now.
 
 **为什么这样写**：把 Arlo 的命令写成“You need to shut it down. Now.”——紧迫；“Get rid of whatever setup you've got”写出行动。
 
-**读者视角提示**：Arlo 的命令——立刻关闭 Signy 的操作。
+**读者视角提示**：那位护士的命令——立刻停掉她的那摊事。
 
 > **原句 13:** "I can't do that," she said sharply. "I—I can't do that. Do you think it's only him?"
 
-**中文理解**：Signy 的拒绝——“I can't do that” / “Do you think it's only him?”。
+**中文理解**：她的拒绝——我做不到；你以为只有他一个吗？
 
 **关键词**：I can't do that / Do you think it's only him
 
@@ -146,7 +146,7 @@ modified: "2026-10-19"
 
 > **原句 14:** "Do you think it's only him that I take care of?" / "Well, no, but—" / "I can't," Signy said. "I can't stop." She looked at Arlo's scrubs, their tablet, their nurse's badge. "You understand this. I know you understand this. People need me. I cannot let them slip. I cannot stop."
 
-**中文理解**：Signy 的拒绝——“People need me. I cannot let them slip. I cannot stop.”。
+**中文理解**：她的拒绝——有人需要我；我不能让他们滑下去；我不能停。
 
 **关键词**：People need me / I cannot let them slip / I cannot stop
 
@@ -156,33 +156,33 @@ modified: "2026-10-19"
 
 > **原句 15:** "My friend is dying," she said, her voice coming out strange and strangled. "Do you understand? My friend is dying, I can't—" She pressed her knuckles against her eyes. "I can't be having this right now. My friend is dying."
 
-**中文理解**：Signy 的哭喊——“My friend is dying”（×3）。
+**中文理解**：她的哭喊——我的朋友要死了——这句话她说了三遍。
 
 **关键词**：My friend is dying
 
 **为什么这样写**：把 Signy 的哭喊写成“My friend is dying”——重复 3 次；“strange and strangled”写出她的悲伤。
 
-**读者视角提示**：Signy 的悲伤——Otto 将死，无法处理 Arlo 的警告。
+**读者视角提示**：她的悲伤——老人将死，她根本处理不了那番警告。
 
 > **原句 16:** "He is," Nurse Arlo said, softly speaking fact. "And he loves you so much. So how about you keep his friend safe, hmm? Because that's why he wants your company right now. Not because of what you make for him, but because he loves you. This is your exit. You have to take it."
 
-**中文理解**：Arlo 的呼吁——“he loves you so much” / “keep his friend safe” / “This is your exit. You have to take it.”。
+**中文理解**：那位护士的劝说——他那么爱你；保住他的朋友；这就是你的出口，你得走。
 
 **关键词**：he loves you so much / keep his friend safe / This is your exit. You have to take it.
 
-**为什么这样写**：把 Arlo 的呼吁写成“he loves you so much”——Otto 对 Signy 的爱；“keep his friend safe”（Signy）写出 Arlo 的关心；“This is your exit”写出机会。
+**为什么这样写**：把这份劝说写成“他那么爱你”——这是老人对她的爱；“保住他的朋友”写出那位护士的关心；“这就是你的出口”写出那个机会。
 
-**读者视角提示**：Arlo 的呼吁——Otto 爱 Signy；抓住出口（关闭）。
+**读者视角提示**：那位护士的劝说——老人爱她；让她抓住这个出口。
 
 > **原句 17:** "Hey, it's okay. It's okay, it's okay. I'm here. I've got you." / "She rooted herself in Cora's arms, and in the protective chant of words that fell in between the kisses planted across her hair, her forehead, her temples."
 
-**中文理解**：Cora 的安慰——“Hey, it's okay. It's okay, it's okay. I'm here. I've got you.” / “protective chant of words”。
+**中文理解**：对方的安慰——嘿，没事的，没事的，没事的；我在这儿，有我呢；像一句护佑的咒语。
 
 **关键词**：Hey, it's okay / I'm here / I've got you / protective chant of words
 
 **为什么这样写**：把 Cora 的安慰写成“I've got you”——她的口头禅（ch033 对婴儿 Twig 的“I've got you. I've got you.”）；“protective chant of words”写出她的重复；“kisses planted across her hair, her forehead, her temples”写出她身体上的关心。
 
-**读者视角提示**：Cora 的安慰——“I've got you”（呼应 ch033 的婴儿 Twig）。
+**读者视角提示**：对方的安慰——那句“有我呢”，呼应 ch033 对婴儿说过的话。
 
 ## 本章词汇
 

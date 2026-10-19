@@ -20,109 +20,109 @@ modified: "2026-10-19"
 
 **关键词**：In through the nose, out through the mouth
 
-**为什么这样写**：把 breathing 写成 mantra——Cora 的 coping；全章反复作为锚点。
+**为什么这样写**：把呼吸写成一个口诀——这是对方的应对方式；全章反复出现，充当锚点。
 
-**读者视角提示**：Cora 的 coping——呼吸口诀。
+**读者视角提示**：对方的应对方式——一个呼吸口诀。
 
 > **原句 2:** "It wasn't ideal, having her brain glitch while she was away from home, but she and Signy had a standing plan of action for when this happened on Lodestone, and besides, this episode was just a baby one."
 
-**中文理解**：Cora 的 mindbleed——“brain glitch” / “standing plan of action” / “baby one”（轻微发作）。
+**中文理解**：对方的心语——一次大脑的小故障；她们有一套既定方案；而这次算是轻的。
 
 **关键词**：brain glitch / standing plan of action / baby one
 
-**为什么这样写**：把 mindbleed 写成“brain glitch”——Cora 的正常化；“standing plan of action”写出她们的准备；“baby one”写出严重度评估。
+**为什么这样写**：把心语写成“大脑的小故障”——这是对方的正常化说法；“既定方案”写出两人早有准备；“轻的”写出对严重程度的评估。
 
-**读者视角提示**：Cora 的 mindbleed 管理——既定计划、“baby one”严重度。
+**读者视角提示**：对方对心语的管理——有既定方案，也会评估轻重。
 
 > **原句 3:** "The world was a little too sharp and a little too monochrome, but it would pass. Her symptoms still knocked her on her ass sometimes, sure, but not today."
 
-**中文理解**：Cora 的症状——“a little too sharp and a little too monochrome” / “knocked her on her ass sometimes, but not today”。
+**中文理解**：对方的症状——一切略嫌锐利，也略嫌单调；它有时会把她彻底放倒，但今天没有。
 
 **关键词**：too sharp / too monochrome / knocked her on her ass
 
-**为什么这样写**：把 symptoms 写成“too sharp and too monochrome”——Cora 的感官扭曲；“not today”写出她的释然。
+**为什么这样写**：把症状写成“太锐利、太单调”——这是对方的感官扭曲；“今天没有”写出她的释然。
 
-**读者视角提示**：Cora 的 mindbleed——感官扭曲（过锐、单色）。
+**读者视角提示**：对方的心语——感官扭曲：过锐、单色。
 
 > **原句 4:** "It's so nice here," she said, looking at the plants surrounding them. "It was kind of silly, leaving the gardens at home to come hang out in a different garden, but it was a different garden."
 
-**中文理解**：Cora 的欣赏——“It's so nice here” / “leaving the gardens at home to come hang out in a different garden”。
+**中文理解**：对方的欣赏——这里真好；把家里的花园丢下，跑来逛另一座花园。
 
 **关键词**：It's so nice here / different garden
 
-**为什么这样写**：把 garden visit 写成“It's so nice here”——Cora 的欣赏；“leaving the gardens at home to come hang out in a different garden”写出她们求多样。
+**为什么这样写**：把这次逛园写成“这里真好”——这是对方的欣赏；“把家里的花园丢下，跑来逛另一座”写出她们想换换口味。
 
-**读者视角提示**：Cora 的欣赏——药园螺旋（Lodestone）。
+**读者视角提示**：对方的欣赏——石岩站那座螺旋状的药园。
 
 > **原句 5:** "Signy took a sip of her tea—black tea, which Cora still didn't like, even after years of trying."
 
-**中文理解**：Signy 的 black tea——“which Cora still didn't like, even after years of trying”。
+**中文理解**：她的红茶——对方试了这么多年，还是不爱喝。
 
 **关键词**：black tea / Cora still didn't like
 
-**为什么这样写**：把 Signy 的茶写成“black tea, which Cora still didn't like”——她们的差异；“even after years of trying”写出 Cora 的努力。
+**为什么这样写**：把她的茶写成“对方试了这么多年还是不爱喝”——这是两人的差异；“试了这么多年”写出对方的努力。
 
-**读者视角提示**：Cora 与 Signy 的差异——茶偏好（black 对比 chicory）。
+**读者视角提示**：两人的差异——喝茶的偏好：一个要红茶，一个爱菊苣。
 
 > **原句 6:** "Their pea plants are coming up well," she said. "I always had such trouble with that one."
 
-**中文理解**：Signy 的豌豆——“Their pea plants are coming up well” / “I always had such trouble with that one.”。
+**中文理解**：她的豌豆——那边的豌豆长得很好；而这一种她从前总是种不好。
 
 **关键词**：pea plants / always had such trouble
 
-**为什么这样写**：把 Signy 的豌豆写成“always had such trouble”——她过去的挣扎；“Their pea plants”写出 Lodestone 的所有权。
+**为什么这样写**：把豌豆写成“总是种不好”——这是她过去的挣扎；“那边的豌豆”写出那是石岩站的东西。
 
-**读者视角提示**：Signy 的豌豆（血糖稳定剂）——她过去的挣扎，如今 Lodestone 的成功。
+**读者视角提示**：她的豌豆——能稳定血糖，从前她总种不好，如今那边却种成了。
 
 > **原句 7:** "When the Ring was first being settled, Cora and Signy had talked at length about whether they should live on Lodestone—whether Signy should oversee the med clinic's garden directly. The job was made with her in mind, and it would've been hers if she'd said yes. But she'd made the good point that keeping all your veggies in one basket was never a good idea."
 
-**中文理解**：Signy 的决定——“keeping all your veggies in one basket was never a good idea”——Cypsela 作为 Lodestone 药园的 fallback。
+**中文理解**：她的考量——把所有菜都放在一个篮子里从来不是好主意；这颗小卫星正是石岩站药园的备份。
 
 **关键词**：keeping all your veggies in one basket / fallback
 
 **为什么这样写**：把 Signy 的决定写成“keeping all your veggies in one basket”——她的风险管理；“Cypsela's medicine garden served as a fallback”写出她的策略。
 
-**读者视角提示**：Signy 的策略——Cypsela 作为 Lodestone 药园的 fallback。
+**读者视角提示**：她的策略——把这颗小卫星当作石岩站药园的备份。
 
 > **原句 8:** "Cora put her arm around Signy's shoulders, pulled her in close, kissed the top of her head. She breathed in the scent of her wife's hair and floated on top of her own ebbing pain. It was the finest privilege she'd ever had, blending their lives like this."
 
-**中文理解**：Cora 的亲密——“floated on top of her own ebbing pain” / “the finest privilege she'd ever had, blending their lives like this”。
+**中文理解**：对方的亲密感——她像漂在自己渐渐退去的疼痛之上；能把两人的生活这样融在一起，是她拥有过最好的特权。
 
 **关键词**：floated on top of her own ebbing pain / finest privilege / blending their lives
 
-**为什么这样写**：把 Cora 的亲密写成“floated on top of her own ebbing pain”——她的 coping；“finest privilege... blending their lives”写出她的感激。
+**为什么这样写**：把这份亲密写成“漂在渐渐退去的疼痛之上”——这是对方的应对；“把两人的生活融在一起”写出她的感激。
 
 **读者视角提示**：Cora 的亲密——融合生命即特权。
 
 > **原句 9:** "Tell me five kinds of pie," Signy said. / "Strawberry rhubarb, blueberry, apple, peanut butter, and . . . strawberry." / "You already said strawberry." / "Strawberry rhubarb is a whole different situation."
 
-**中文理解**：Signy 的 grounding 技巧——“Tell me five kinds of pie” / Cora 的“Strawberry rhubarb, blueberry, apple, peanut butter, and . . . strawberry.” / Signy 的“You already said strawberry.” / Cora 的“Strawberry rhubarb is a whole different situation.”。
+**中文理解**：她帮对方回到现实的技巧——说五种派；对方数了草莓大黄、蓝莓、苹果、花生酱，还有……草莓；她指出草莓已经说过；对方辩解说草莓大黄完全是另一回事。
 
 **关键词**：Tell me five kinds of pie / Strawberry rhubarb is a whole different situation
 
-**为什么这样写**：把 Signy 的 grounding 写成“Tell me five kinds of pie”——她的方法；“Strawberry rhubarb is a whole different situation”写出 Cora 的辩护。
+**为什么这样写**：把这个办法写成“说五种派”——这是她的方法；“草莓大黄完全是另一回事”写出对方的辩解。
 
-**读者视角提示**：Signy 的 grounding 技巧——五种 pie（mindbleed coping）。
+**读者视角提示**：她帮对方回到现实的技巧——数五种派，用来应对心语发作。
 
 > **原句 10:** "Tell me five movies you like." / "Ooh, okay. Uh, let's see . . . One Restless Summer. Short Bread. Comfort. The Lemon Tree. A Pair of Laces. The Woman with a Big Sword—" / "That's six." / "Oh." Cora chuckled. "I guess I like a lot of movies."
 
-**中文理解**：Signy 的 grounding 技巧——“Tell me five movies you like.” / Cora 列了六个 / “That's six.” / Cora 的“I guess I like a lot of movies.”。
+**中文理解**：她的办法——说五部你喜欢的电影；对方一下列了六部；她指出那是六部；对方说，大概我喜欢的电影挺多的。
 
 **关键词**：Tell me five movies you like / That's six / I guess I like a lot of movies
 
-**为什么这样写**：把 Signy 的 grounding 写成“Tell me five movies you like”——她的方法；Cora 列六个写出她的热情；“I guess I like a lot of movies”写出她的自知。
+**为什么这样写**：把这个办法写成“说五部你喜欢的电影”——这是她的方法；对方列了六部，写出她的热情；“大概我喜欢的挺多”写出她的自知。
 
-**读者视角提示**：Signy 的 grounding 技巧——五部电影（Cora 列了六个）。
+**读者视角提示**：她帮对方回到现实的技巧——数五部电影，结果对方列了六部。
 
 > **原句 11:** Signy kissed Cora's forehead. "And I like you."
 
-**中文理解**：Signy 的收尾——“And I like you.”。
+**中文理解**：她的收尾只有一句——而我喜欢你。
 
 **关键词**：And I like you
 
 **为什么这样写**：把 Signy 的收尾写成“And I like you”——她的喜爱；“kissed Cora's forehead”写出她的温柔。
 
-**读者视角提示**：Signy 的喜爱——吻加“I like you”。
+**读者视角提示**：她的喜爱——一个吻，加一句“我喜欢你”。
 
 ## 本章词汇
 

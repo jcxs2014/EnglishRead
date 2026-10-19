@@ -16,27 +16,27 @@ modified: "2026-10-19"
 
 > **原句 1:** "Signy knew what Cora's job was, obviously. It was the first thing she'd ever learned about her. Sometimes Cora flew to the moon on the back of a giant space beast and couldn't pick up her phone for a while."
 
-**中文理解**：Signy 的知晓——“Sometimes Cora flew to the moon on the back of a giant space beast”。
+**中文理解**：她心里清楚的事——有时对方是骑着一头巨大的太空巨兽飞到那颗卫星上去的。
 
 **关键词**：flew to the moon on the back of a giant space beast
 
-**为什么这样写**：把 Cora 的工作写成“flew to the moon on the back of a giant space beast”——Signy 的框架；“couldn't pick up her phone for a while”写出分离。
+**为什么这样写**：把对方的工作写成“骑着一头巨大的太空巨兽飞到卫星上去”——这是她的说法；“有阵子连电话都接不了”写出这种分离。
 
-**读者视角提示**：Signy 的知晓——Cora 的工作即分离。
+**读者视角提示**：她心里清楚的事——对方的工作就意味着分离。
 
 > **原句 2:** ". . . and in that moment, the wait was intolerable. Her lips ached and her chest ached and everything between her legs ached, and it didn't matter how many times she told herself she was being ridiculous, it didn't matter how many times she reread old texts from Cora, it didn't matter how many times she touched herself. Signy wanted."
 
-**中文理解**：Signy 的渴望——“Her lips ached and her chest ached and everything between her legs ached”——“Signy wanted.”。
+**中文理解**：她的渴望——她的嘴唇发疼，胸口发疼，两腿之间的一切也在发疼；她想要。
 
 **关键词**：Her lips ached / her chest ached / everything between her legs ached / Signy wanted
 
 **为什么这样写**：把 Signy 的渴望写成三个“ached”——她的身体渴望；“Signy wanted.”作为独立句写出她的欲望。
 
-**读者视角提示**：Signy 的渴望——对 Cora 的身体渴望。
+**读者视角提示**：她的渴望——对对方的身体渴望。
 
 > **原句 3:** "She would be fine without Cora. She had been fine without Cora for the majority of her life. She wasn't a child. She could survive two whole weeks."
 
-**中文理解**：Signy 的自我安慰——“She would be fine without Cora. She had been fine without Cora for the majority of her life.”。
+**中文理解**：她的自我安慰——没有对方她也能过得好；她这辈子大部分时间都是没有对方也过得好。
 
 **关键词**：She would be fine without Cora / She had been fine without Cora / She wasn't a child / She could survive two whole weeks
 
@@ -46,7 +46,7 @@ modified: "2026-10-19"
 
 > **原句 4:** "Except that her lips ached and her chest ached and everything between her legs ached, and god."
 
-**中文理解**：Signy 的让步——“Except that her lips ached and her chest ached and everything between her legs ached, and god.”。
+**中文理解**：她的让步——只是她的嘴唇发疼，胸口发疼，两腿之间的一切也在发疼，天哪。
 
 **关键词**：Except that / and god
 
@@ -66,7 +66,7 @@ modified: "2026-10-19"
 
 > **原句 6:** "Why did something as universal to the human experience as love require originality in order to prove its legitimacy?"
 
-**中文理解**：Signy 的提问——“Why did something as universal to the human experience as love require originality in order to prove its legitimacy?”。
+**中文理解**：她的疑问——爱这种东西，明明是人人都有过的经验，为什么非得标新立异才能证明它的正当？
 
 **关键词**：Why did something as universal to the human experience as love require originality in order to prove its legitimacy
 
@@ -76,7 +76,7 @@ modified: "2026-10-19"
 
 > **原句 7:** "Were there not thousands of years of written human history in which no other topic had been covered as extensively? How many ballads, how many stories, how many songs had been composed about exactly this? That quantity of experience didn't make any of it any less profound."
 
-**中文理解**：Signy 的反思——“thousands of years of written human history” / “How many ballads, how many stories, how many songs” / “That quantity of experience didn't make any of it any less profound.”。
+**中文理解**：她的反思——人类有文字的历史已有几千年；有多少歌谣、多少故事、多少首歌写过这件事；而数量再多，也不会让它变得浅薄半分。
 
 **关键词**：thousands of years of written human history / How many ballads, how many stories, how many songs / That quantity of experience didn't make any of it any less profound
 
@@ -86,7 +86,7 @@ modified: "2026-10-19"
 
 > **原句 8:** "Signy knew she was stalling by way of overthinking it, but now that she was overthinking it, she was annoyed."
 
-**中文理解**：Signy 的自知——“Signy knew she was stalling by way of overthinking it, but now that she was overthinking it, she was annoyed.”。
+**中文理解**：她的自知——她知道自己在借过度思虑拖延；可既然已经想多了，她反倒生起气来。
 
 **关键词**：stalling by way of overthinking it / now that she was overthinking it, she was annoyed
 
@@ -96,17 +96,17 @@ modified: "2026-10-19"
 
 > **原句 9:** "Do you want to move in together? I have no idea how we'd make that work, but I want to. Do you?"
 
-**中文理解**：Signy 的短信——“Do you want to move in together? I have no idea how we'd make that work, but I want to. Do you?”。
+**中文理解**：她发出的短信——你想不想搬来一起住？我完全不知道这该怎么安排，但我想；你呢？
 
 **关键词**：Do you want to move in together / I have no idea how we'd make that work, but I want to / Do you
 
 **为什么这样写**：把 Signy 的提议写成“Do you want to move in together?”——她的直接；“I have no idea how we'd make that work, but I want to”写出她的脆弱；“Do you?”写出她的提问。
 
-**读者视角提示**：Signy 的提议——直接、脆弱、提问。
+**读者视角提示**：她的提议——直接，也脆弱，最后还带一句反问。
 
 > **原句 10:** "She hit send before she could second-guess, then turned on the radio and fussed with genes."
 
-**中文理解**：Signy 的举动——“She hit send before she could second-guess, then turned on the radio and fussed with genes.”。
+**中文理解**：她的举动——趁着还没反悔就按下了发送，然后打开收音机，摆弄起基因来。
 
 **关键词**：hit send before she could second-guess / turned on the radio and fussed with genes
 
@@ -116,13 +116,13 @@ modified: "2026-10-19"
 
 > **原句 11:** "Yes."
 
-**中文理解**：Cora 的回复——“Yes.”（一个词）。
+**中文理解**：对方的回复——只回了一个字：好。
 
 **关键词**：Yes
 
 **为什么这样写**：把 Cora 的回复写成“Yes.”——一个词；“She didn't need full consciousness to understand the single word”写出它的简洁。
 
-**读者视角提示**：Cora 的回复——一个词“Yes.”。
+**读者视角提示**：对方的回复——只有“好”这一个字。
 
 ## 本章词汇
 

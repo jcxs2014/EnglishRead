@@ -20,13 +20,13 @@ Signy 被心叶藤蔓唤醒，轻抚叶片边缘——她不对植物说话，�
 
 > **原句 1:** "Something grazed Signy's cheek, waking her. It wasn't Cora, who remained asleep beside her. It was a leaf—a heartleaf, vining past the rim of the planter, down to the heap of cushions. Signy reached up with a fingertip, brushing the leaf's curved edges."
 
-**中文理解**：Signy 被心叶唤醒——轻触面颊；"brushing the leaf's curved edges"是温柔的 gesture。
+**中文理解**：她被心叶唤醒——那叶子轻触她的面颊；轻抚叶片弯弯的边缘，是一个温柔的动作。
 
 **关键词**：grazed / heartleaf / vining / brushing the leaf's curved edges
 
-**为什么这样写**：用"grazed"的轻触写出晨间亲密；"heartleaf"是象征——爱（heart）+ 植物（leaf）；"brushing the leaf's curved edges"是 Signy 对植物特有的温柔。
+**为什么这样写**：用“轻轻擦过”这个动作写出清晨的亲密；“心叶”本身是个象征——心是爱，叶是植物；而轻抚叶片弯弯的边缘，写出她对植物特有的温柔。
 
-**读者视角提示**：Signy 的温柔——她对 living things 温柔。
+**读者视角提示**：她的温柔——她对一切活物都温柔。
 
 > **原句 2:** "Cora had once asked her, a long time ago, if she ever talked to her plants. Signy had answered no, which was as true then as it was now. She sometimes spoke aloud while working—what's wrong with you, why won't you flower, that kind of thing—but that was just the sound of her own mind working. She didn't speak to her plants as though they were listening."
 
@@ -46,7 +46,7 @@ Signy 被心叶藤蔓唤醒，轻抚叶片边缘——她不对植物说话，�
 
 **为什么这样写**：用简洁的 conditional 写出 Signy 隐藏的情感——她实际但不冷漠；"if they could"是向往式的结尾——她希望不可能的事，但这没关系；全书以这个安静的时刻结束，暗示 Signy-Cora 的关系是故事真正的"心"。
 
-**读者视角提示**：结尾——安静、家庭、温柔；Signy 对 Cora 和她的植物的爱。
+**读者视角提示**：结尾——安静、家常、温柔；写出她对对方、也对她那些植物的爱。
 
 ## 本章词汇
 

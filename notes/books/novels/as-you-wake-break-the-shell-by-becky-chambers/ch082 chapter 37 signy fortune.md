@@ -16,37 +16,37 @@ modified: "2026-10-19"
 
 > **原句 1:** "Signy didn't know what to do."
 
-**中文理解**：Signy 的开场——“Signy didn't know what to do.”。
+**中文理解**：她的开场——她不知道该怎么做。
 
 **关键词**：didn't know what to do
 
 **为什么这样写**：把 Signy 的无助写成“didn't know what to do”——她的不确定；“didn't know”写出她的局限。
 
-**读者视角提示**：Signy 的无助——Cora 的 mindbleed 危机。
+**读者视角提示**：她的无助——对方的心语发作了。
 
 > **原句 2:** "No, not the wall. The door. Cora was leaning against the door, Signy was fairly sure."
 
-**中文理解**：Signy 的推断——“No, not the wall. The door.”。
+**中文理解**：她的推断——不，不是那面墙，是门。
 
 **关键词**：No, not the wall. The door
 
 **为什么这样写**：把 Signy 的推断写成“No, not the wall. The door.”——她的推理；“Signy was fairly sure”写出她的不确定。
 
-**读者视角提示**：Signy 的推断——Cora 靠着门。
+**读者视角提示**：她的推断——对方正靠着门。
 
 > **原句 3:** "Cora?" Signy called softly. She knelt down and placed her palm flat against the door, as though she could reach through. "Please—please don't hurt yourself."
 
-**中文理解**：Signy 的恳求——“Please—please don't hurt yourself.”。
+**中文理解**：她的恳求——求你，求你别伤到自己。
 
 **关键词**：placed her palm flat against the door / Please—please don't hurt yourself
 
 **为什么这样写**：把 Signy 的关心写成“placed her palm flat against the door”——她的触及；“Please—please don't hurt yourself”写出她的恐惧。
 
-**读者视角提示**：Signy 的关心——害怕 Cora 自伤。
+**读者视角提示**：她的关心——怕对方伤到自己。
 
 > **原句 4:** "I'm so sorry," Cora sobbed, her voice uncharacteristically brittle. "I'm so sorry. I took my meds. I did."
 
-**中文理解**：Cora 的哭泣——“I'm so sorry. I took my meds. I did.”。
+**中文理解**：对方的哭泣——对不起，我吃过药了，真的吃了。
 
 **关键词**：I'm so sorry / I took my meds. I did
 
@@ -56,7 +56,7 @@ modified: "2026-10-19"
 
 > **原句 5:** "The dosage must not have been right. Or maybe it was binding to the wrong thing in Cora's system, or maybe it was a problem with the delivery agent, or—no, no, this wouldn't help, not right now."
 
-**中文理解**：Signy 的分析——“The dosage must not have been right. Or maybe it was binding to the wrong thing...”。
+**中文理解**：她的分析——剂量一定不对；又或者它结合到了不该结合的东西上。
 
 **关键词**：The dosage must not have been right / binding to the wrong thing
 
@@ -66,7 +66,7 @@ modified: "2026-10-19"
 
 > **原句 6:** "I'm not a doctor. I wasn't even a doctor's daughter, really."
 
-**中文理解**：Signy 的自我评估——“I'm not a doctor. I wasn't even a doctor's daughter, really.”。
+**中文理解**：她的自我评估——我不是医生；严格说来，我连医生的女儿都算不上。
 
 **关键词**：I'm not a doctor / I wasn't even a doctor's daughter, really
 
@@ -76,27 +76,27 @@ modified: "2026-10-19"
 
 > **原句 7:** "Cora moaned like she'd been kicked somewhere already bruised. When she spoke again, it wasn't clear if she was talking to Signy or merely talking. "I don't—I don't want—" / "You don't want what?" Signy asked, keeping her voice gentle."
 
-**中文理解**：Cora 的呻吟——“I don't—I don't want—” / Signy 的“You don't want what?”。
+**中文理解**：对方的呻吟——我不想——我不想——她轻声追问：你不想什么？
 
 **关键词**：I don't—I don't want / You don't want what?
 
-**为什么这样写**：把 Cora 的 distress 写成“I don't—I don't want”——她无法表达；Signy 的“You don't want what?”写出她温和的探问。
+**为什么这样写**：把这份痛苦写成“我不想——我不想”——她说不完整；那句“你不想什么”写出她温和的探问。
 
-**读者视角提示**：Cora 的 distress——无法表达欲望。
+**读者视角提示**：对方的痛苦——连自己想要什么都说不清。
 
 > **原句 8:** "This," Cora said. "I don't want this. I don't want it. I am tired, I am tired, I am tired of—no, fuck, no no no, that's not me." A frustrated sob left her. "That's not me."
 
-**中文理解**：Cora 的拒绝——“I don't want this. I don't want it. I am tired, I am tired, I am tired of—” / “That's not me.”。
+**中文理解**：对方的拒绝——我不要这个，我不要它；我累了，我累了，我受够了——那不是我。
 
 **关键词**：I don't want this / I am tired, I am tired, I am tired of / That's not me
 
-**为什么这样写**：把 Cora 的拒绝写成“I am tired, I am tired, I am tired of”——“tired”的重复；“That's not me”写出她的身份危机（mindbleed 即非我）。
+**为什么这样写**：把这份拒绝写成“我累了，我累了，我受够了”——“累了”反复三次；“那不是我”写出她的身份危机：心语就是“非我”。
 
-**读者视角提示**：Cora 的身份危机——mindbleed 即“not me”。
+**读者视角提示**：对方的身份危机——心语就是那个“不是我”。
 
 > **原句 9:** "Cora, I love you," Signy said firmly. It was the first time she'd said those four words aloud in that combination, even though you weren't supposed to say it like this."
 
-**中文理解**：Signy 的“I love you”——首次、“firmly”、“even though you weren't supposed to say it like this”。
+**中文理解**：她第一次说“我爱你”——说得坚定，尽管这种话本不该在这种情况下说出口。
 
 **关键词**：I love you / first time / firmly / you weren't supposed to say it like this
 
@@ -106,17 +106,17 @@ modified: "2026-10-19"
 
 > **原句 10:** "You were supposed to say it over low lamplight and paper flowers, or in bed with your clothes strewn artfully over the floor, or holding hands over a dinner neither of you could actually afford."
 
-**中文理解**：Signy 的“supposed to”——“over low lamplight and paper flowers, or in bed with your clothes strewn artfully over the floor, or holding hands over a dinner neither of you could actually afford”。
+**中文理解**：她心里那句“本该”——本该在昏黄的灯下、就着纸花；本该在床上、衣服散落一地；本该牵着手吃一顿两人其实都请不起的晚餐。
 
 **关键词**：low lamplight and paper flowers / clothes strewn artfully / dinner neither of you could actually afford
 
-**为什么这样写**：把“supposed to”写成三个场景——low lamplight/paper flowers、bed/clothes strewn、dinner neither could afford；“supposed to”写出她对常规的自觉。
+**为什么这样写**：把“本该”写成三个场景——昏灯与纸花、床上散落的衣物、两人都请不起的一顿晚餐；这个“本该”写出她对所谓常规的自觉。
 
-**读者视角提示**：Signy 的自觉——常规的“I love you”场景。
+**读者视角提示**：她的自觉——那些说“我爱你”的常规场景。
 
 > **原句 11:** "But they were the only words Signy had, the only words that made sense to say. And when she said them, they weren't tied up in ribbons, and she wasn't being sweet about it."
 
-**中文理解**：Signy 的“only words”——“they weren't tied up in ribbons, and she wasn't being sweet about it”。
+**中文理解**：她说的只是几个字——没有系上缎带，也没有说得甜言蜜语。
 
 **关键词**：only words Signy had / weren't tied up in ribbons / wasn't being sweet about it
 
@@ -126,7 +126,7 @@ modified: "2026-10-19"
 
 > **原句 12:** "I love you," she said again, hard and defiant, a retort to the suggestion that whatever was behind the door had any chance of changing the feeling that had been lacing itself through the entire fabric of her being for months now, stitch by stitch, thread by thread."
 
-**中文理解**：Signy 的第二次“I love you”——“hard and defiant, a retort” / “lacing itself through the entire fabric of her being for months now, stitch by stitch, thread by thread”。
+**中文理解**：她第二次说“我爱你”——说得又硬又倔，像一句回击；而这句话其实几个月来已一针一线地织进了她的整个身心。
 
 **关键词**：hard and defiant / retort / lacing itself through the entire fabric of her being / stitch by stitch, thread by thread
 
@@ -136,47 +136,47 @@ modified: "2026-10-19"
 
 > **原句 13:** "Please." / "After a long moment, the lock clicked back."
 
-**中文理解**：Signy 的“Please”——“After a long moment, the lock clicked back.”。
+**中文理解**：她说了一声“求你”——过了很久，门锁咔地开了。
 
 **关键词**：Please / lock clicked back
 
 **为什么这样写**：把 Signy 的恳求写成“Please”——单个词；“After a long moment”写出 Cora 的犹豫；“lock clicked back”写出她的屈服。
 
-**读者视角提示**：Signy 的恳求——Cora 的屈服（锁开了）。
+**读者视角提示**：她的恳求——对方终于让步，锁开了。
 
 > **原句 14:** "Signy went to her, and she, too, sat on the floor. She tried to pull Cora into her arms, but that was too much, too much. A single hand stretched out to stroke her hair, though—that, Cora accepted."
 
-**中文理解**：Signy 的安慰——“tried to pull Cora into her arms, but that was too much, too much. A single hand stretched out to stroke her hair, though—that, Cora accepted.”。
+**中文理解**：她的安慰——想把对方揽进怀里，可那太多了，太多了；于是只伸出一只手去抚她的头发，这个对方接受了。
 
 **关键词**：tried to pull Cora into her arms / that was too much, too much / A single hand stretched out to stroke her hair
 
 **为什么这样写**：把 Signy 的安慰写成“tried to pull Cora into her arms, but that was too much”——她的克制；“A single hand stretched out to stroke her hair—that, Cora accepted”写出她的调整。
 
-**读者视角提示**：Signy 的安慰——顺应 Cora 的需要（单手，非全抱）。
+**读者视角提示**：她的安慰——顺着对方的需要来：只用一只手，而不是整个拥抱。
 
 > **原句 15:** "Thank you," Signy said, her own eyes stinging. "Thank you for letting me in."
 
-**中文理解**：Signy 的“Thank you for letting me in.”。
+**中文理解**：她说谢谢你让我进来。
 
 **关键词**：Thank you for letting me in
 
 **为什么这样写**：把 Signy 的感激写成“Thank you for letting me in”——她的感谢；“her own eyes stinging”写出她的情绪。
 
-**读者视角提示**：Signy 的感激——Cora 的信任（让她进来）。
+**读者视角提示**：她的感激——对方肯让她进来。
 
 > **原句 16:** "I can't find them," she said. / "Can't find what?" Signy asked. / "The colors," Cora said. "These . . . these colors are all wrong. I can't find the ones I need."
 
-**中文理解**：Cora 的“I can't find the colors”——“These . . . these colors are all wrong. I can't find the ones I need.”。
+**中文理解**：对方说找不到颜色——这些颜色全都不对，她找不到自己需要的那几种。
 
 **关键词**：I can't find them / The colors / These colors are all wrong / I can't find the ones I need
 
-**为什么这样写**：把 Cora 的 mindbleed 写成“I can't find the colors”——她的感知匮乏；“These colors are all wrong”写出她的迷失。
+**为什么这样写**：把心语写成“找不到颜色”——写出她感知上的匮乏；“颜色全都不对”写出她的迷失。
 
-**读者视角提示**：Cora 的 mindbleed——找不到颜色（感知匮乏）。
+**读者视角提示**：对方的心语——找不到颜色，感知匮乏。
 
 > **原句 17:** "No," Signy said. "What you need to do is breathe."
 
-**中文理解**：Signy 的回应——“No. What you need to do is breathe.”。
+**中文理解**：她的回应——不；你现在要做的是呼吸。
 
 **关键词**：No / What you need to do is breathe
 

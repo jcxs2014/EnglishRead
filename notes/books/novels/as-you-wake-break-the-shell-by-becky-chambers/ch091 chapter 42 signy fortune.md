@@ -16,17 +16,17 @@ modified: "2026-10-19"
 
 > **原句 1:** "There had to be a way to make this work."
 
-**中文理解**：Signy 的开场——“There had to be a way to make this work.”（找公寓）。
+**中文理解**：她的开场——总得有个办法把这件事办成；说的是找公寓。
 
 **关键词**：There had to be a way to make this work
 
 **为什么这样写**：把 Signy 的决心写成“There had to be a way”——她解决问题的态度；“to make this work”写出她的目标（同居）。
 
-**读者视角提示**：Signy 的决心——找公寓。
+**读者视角提示**：她的决心——一定要找到公寓。
 
 > **原句 2:** "There are three different floor plans available, depending on your needs," he said, displaying the options on one of his computer monitors. "Do either of you have any extended family you want to have room for? Elderly relatives?" He glanced at Cora. "Live-in siblings?"
 
-**中文理解**：Red 的户型——“three different floor plans”加“Elderly relatives? Live-in siblings?”。
+**中文理解**：那人给的几种户型——有三套平面图；还问有没有年长的亲戚、有没有同住的兄弟姐妹。
 
 **关键词**：three different floor plans / Elderly relatives / Live-in siblings
 
@@ -36,13 +36,13 @@ modified: "2026-10-19"
 
 > **原句 3:** "No," Cora and Signy replied at the same time."
 
-**中文理解**：Cora 与 Signy 同时“No”（无大家庭、无孩子）。
+**中文理解**：两人同时说不——没有大家庭，也没有孩子。
 
 **关键词**：No / at the same time
 
 **为什么这样写**：把他们的回答写成“at the same time”——他们的同步；“No”写出他们共同的决定。
 
-**读者视角提示**：Cora 与 Signy 的同步——共同的“No”（无孩子）。
+**读者视角提示**：两人的同步——一起说不，都没有孩子。
 
 > **原句 4:** "No kitchen?" she asked. / "No, all cooking spaces here at the dorms are communal," Red said. "There are kitchens available if you want to cook, but most folks just use the cafeteria or go out to eat."
 
@@ -50,69 +50,69 @@ modified: "2026-10-19"
 
 **关键词**：No kitchen / communal
 
-**为什么这样写**：把 no-kitchen 写成“all cooking spaces are communal”——Flytown 的设计；“most folks just use the cafeteria”写出常态。
+**为什么这样写**：把没有厨房写成“所有做饭的地方都是公用的”——这是那片居住区的设计；“大多数人干脆去食堂”写出这里的常态。
 
-**读者视角提示**：Flytown 的设计——公共厨房、无私人厨房。
+**读者视角提示**：那片居住区的设计——厨房公用，没有私人厨房。
 
 > **原句 5:** "It's not like you cook anyway," Cora said to Signy with a somewhat nervous smile."
 
-**中文理解**：Cora 的“It's not like you cook anyway”——nervous smile。
+**中文理解**：对方说反正你也不做饭——带着一个紧张的笑。
 
 **关键词**：It's not like you cook anyway / nervous smile
 
 **为什么这样写**：把 Cora 的安慰写成“It's not like you cook anyway”——她试图缓和；“nervous smile”写出她的焦虑。
 
-**读者视角提示**：Cora 的安慰——nervous smile（担心 Signy 的舒适）。
+**读者视角提示**：对方的安慰——一个紧张的笑，其实是担心她不自在。
 
 > **原句 6:** "Signy didn't really know her neighbors on raft sixteen. She kept to herself, didn't chat at the taps, didn't chat in the showers, just used her apartment as the point A mundanely destined for a point B."
 
-**中文理解**：Signy 在 raft sixteen 的生活——“kept to herself” / “point A mundanely destined for a point B”。
+**中文理解**：她从前在那片居住区的生活——独来独往；从一个点到另一个点，平平淡淡，别无去处。
 
 **关键词**：kept to herself / point A mundanely destined for a point B
 
 **为什么这样写**：把 Signy 的生活写成“point A mundanely destined for a point B”——她的例行；“kept to herself”写出她的内向。
 
-**读者视角提示**：Signy 的内向——raft sixteen 如 A 点到 B 点。
+**读者视角提示**：她的内向——日子就是从一处到另一处，别无去处。
 
 > **原句 7:** "Pilots, as she'd learned, were gossipy as hell in one another's company. Signy had neither patience for nor interest in that, but she was also afraid that if she did keep to herself, it would reflect badly on Cora."
 
-**中文理解**：Signy 的恐惧——“Pilots... gossipy as hell” / “afraid that if she did keep to herself, it would reflect badly on Cora”。
+**中文理解**：她的顾虑——飞行员们闲话多得要命；她怕自己真独来独往，会连累到对方。
 
 **关键词**：gossipy as hell / afraid that if she did keep to herself, it would reflect badly on Cora
 
 **为什么这样写**：把 Signy 的恐惧写成“gossipy as hell”——她的评估；“afraid that if she did keep to herself, it would reflect badly on Cora”写出她对 Cora 声誉的担心。
 
-**读者视角提示**：Signy 的恐惧——Flytown 的闲话波及 Cora。
+**读者视角提示**：她的顾虑——怕那片居住区的闲话波及到对方。
 
 > **原句 8:** "But they both knew it would be hard tacking a commute onto a pilot's complicated schedule, and Signy's apartment was already starting to feel cramped for any shared use longer than an overnight stay."
 
-**中文理解**：Signy 的理由——“hard tacking a commute onto a pilot's complicated schedule” / “Signy's apartment was already starting to feel cramped”。
+**中文理解**：她的理由——在飞行员本就复杂的日程上再添一段通勤太难；而她自己的公寓已经开始显得拥挤。
 
 **关键词**：hard tacking a commute / Signy's apartment was already starting to feel cramped
 
 **为什么这样写**：把 Signy 的理由写成“hard tacking a commute”——她的务实；“Signy's apartment was already starting to feel cramped”写出她的空间局限。
 
-**读者视角提示**：Signy 的理由——通勤对 Cora 难、公寓拥挤。
+**读者视角提示**：她的理由——通勤对对方太难，自己的公寓又太挤。
 
 > **原句 9:** "Lots of people was not a claim supported by good apartments standing empty, but Signy didn't say anything further."
 
-**中文理解**：Signy 的观察——“Lots of people was not a claim supported by good apartments standing empty”。
+**中文理解**：她的观察——说有“很多人”想住，可空着的都是好公寓，这说法站不住脚。
 
 **关键词**：Lots of people was not a claim supported by good apartments standing empty
 
 **为什么这样写**：把 Signy 的观察写成“Lots of people was not a claim supported by good apartments standing empty”——她的怀疑；“didn't say anything further”写出她的克制。
 
-**读者视角提示**：Signy 的怀疑——Red 的“lots of people”缺乏空公寓支持。
+**读者视角提示**：她的怀疑——那人说的“很多人”，跟那些空置的好公寓对不上。
 
 > **原句 10:** "It's an emergency." / "What is it?" / "It's Otto," Ramona replied, her voice cracking. "It's his heart."
 
-**中文理解**：Ramona 的电话——“It's an emergency” / “It's Otto” / “It's his heart.”。
+**中文理解**：那通电话——出事了；是 Otto；是他的心脏。
 
 **关键词**：It's an emergency / It's Otto / It's his heart
 
-**为什么这样写**：把 Ramona 的电话写成“It's his heart”——她的急切；“her voice cracking”写出她的 distress；“It's Otto”（非“Otto is”）写出个人的联结。
+**为什么这样写**：把这通电话写成“是他的心脏”——写出她的急切；“声音都裂了”写出她的慌乱；说的是“是 Otto”而不是“Otto 出事了”，写出那份私人的联结。
 
-**读者视角提示**：Ramona 的电话——Otto 的心脏急症。
+**读者视角提示**：那通电话——老人心脏出了急症。
 
 ## 本章词汇
 

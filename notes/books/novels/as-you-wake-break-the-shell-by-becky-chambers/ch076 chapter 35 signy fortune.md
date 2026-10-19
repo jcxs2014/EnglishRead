@@ -16,37 +16,37 @@ modified: "2026-10-19"
 
 > **原句 1:** "Cora had brought a toothbrush to Signy's apartment, and on the shelf above the hot plate, chicory packets now sat next to the tea."
 
-**中文理解**：Cora 的牙刷在 Signy 的公寓——“chicory packets now sat next to the tea”（她们开始同居）。
+**中文理解**：对方的牙刷出现在她的公寓里——菊苣包如今和茶叶摆在一起——两人开始同居了。
 
 **关键词**：toothbrush / chicory packets next to the tea
 
-**为什么这样写**：把 cohabitation 写成“toothbrush... chicory packets next to tea”——她们的融合；“now sat next to”写出整合。
+**为什么这样写**：把同居写成“牙刷……菊苣包挨着茶叶”——这是两人的融合；“如今摆在旁边”写出这种整合。
 
-**读者视角提示**：Cora 与 Signy 的同居——小小的家庭整合。
+**读者视角提示**：两人的同居——一点一滴的家庭整合。
 
 > **原句 2:** "The two of them sat facing each other in the middle of Signy's bed, naked and cross-legged."
 
-**中文理解**：Cora 与 Signy——“naked and cross-legged”在 Signy 的床上。
+**中文理解**：两人在她的床上——赤着身子盘腿坐着。
 
 **关键词**：naked and cross-legged
 
-**为什么这样写**：把 intimacy 写成“naked and cross-legged”——随意、自在；“facing each other”写出她们的平等。
+**为什么这样写**：把这份亲密写成“赤着身子盘腿坐着”——随意而自在；“面对着面”写出两人的平等。
 
-**读者视角提示**：Cora 与 Signy 的亲密——随意、自在。
+**读者视角提示**：两人的亲密——随意而自在。
 
 > **原句 3:** "Cora ripped the rinds away in quick and careless chunks, like she always had, but Signy, she'd discovered, liked to peel her citrus in one long, unbroken strip that formed a hollow sphere when set back down."
 
-**中文理解**：剥橘风格——Cora 的“quick and careless chunks”对比 Signy 的“one long, unbroken strip”形成“hollow sphere”。
+**中文理解**：剥橘子的方式——对方剥得又快又随便，而她能剥出一整条不断的皮，最后成一只空心的球。
 
 **关键词**：quick and careless chunks / one long, unbroken strip / hollow sphere
 
-**为什么这样写**：把 peeling 写成“hollow sphere”——Signy 的精确；“quick and careless”对比“unbroken strip”写出她们的对比。
+**为什么这样写**：把剥橘子写成“一只空心的球”——这是她的精确；“又快又随便”与“一整条不断”形成两人的对比。
 
-**读者视角提示**：Cora 与 Signy 的对比——粗放对比精确。
+**读者视角提示**：两人的对比——一个粗放，一个精确。
 
 > **原句 4:** "Cora was captivated by this habit, though she couldn't say why. It didn't mean anything. It was just a way to peel a mandarin. But the sight of it sparked a glow inside of her, the same glow that fired up when she watched Signy wash her face or ball her socks or stir sorghum into her tea. Tiny details, little nothings, but with each one, she burned a little brighter."
 
-**中文理解**：Cora 的“captivated”——“sparked a glow inside of her... Tiny details, little nothings, but with each one, she burned a little brighter.”。
+**中文理解**：对方着迷的心情——她心里被点起一团光；都是些细枝末节、微不足道的小事，可每一件都让她烧得更亮一点。
 
 **关键词**：captivated / sparked a glow / Tiny details, little nothings / burned a little brighter
 
@@ -56,27 +56,27 @@ modified: "2026-10-19"
 
 > **原句 5:** "Have you ever had a period? After your first one, I mean?" / "Yeah, for a little bit. A few months in my teens." / "Really?" Signy said with surprise. "Why?"
 
-**中文理解**：Cora 的经期史——“Yeah, for a little bit. A few months in my teens.” / Signy 的“Why?”。
+**中文理解**：对方谈自己的经期——有过一小段时间，十几岁时来过几个月；她追问为什么。
 
 **关键词**：had a period / a few months in my teens / Why?
 
-**为什么这样写**：把 period 写成“a few months in my teens”——Cora 的简短；Signy 的“Why?”写出她的好奇。
+**为什么这样写**：把这段经期写成“十几岁时来过几个月”——对方的回答很简短；而她那句“为什么”写出她的好奇。
 
-**读者视角提示**：Cora 的经期史——短暂、在青少年时期（canvas plant mold 短缺）。
+**读者视角提示**：对方的经期史——只有很短一段，在青少年时期，那时棚架植物正闹霉病。
 
 > **原句 6:** "You remember when the canvas plant farms got that weird mold and—" / "Oh, god, yes," Signy said with a grimace. "My mom's clinic was out of everything. She couldn't even do antibiotics."
 
-**中文理解**：canvas plant farms 的 mold——“My mom's clinic was out of everything. She couldn't even do antibiotics.”。
+**中文理解**：棚架农场的霉病——那时她母亲的诊所什么都缺，连抗生素都用不上。
 
 **关键词**：canvas plant farms got that weird mold / out of everything / couldn't even do antibiotics
 
-**为什么这样写**：把 mold 爆发写成“out of everything”——Signy 诊所的经历；“couldn't even do antibiotics”写出稀缺。
+**为什么这样写**：把这场霉病写成“什么都缺”——这是她诊所里的经历；“连抗生素都用不上”写出当时的稀缺。
 
-**读者视角提示**：Canvas plant mold 爆发——医疗稀缺。
+**读者视角提示**：棚架植物的霉病——导致医疗物资奇缺。
 
 > **原句 7:** "Can you see the egg when it comes out of you?" / "Not that I remember," Cora said. "It's just . . . blood. Blood and other stuff I didn't want to look too hard at."
 
-**中文理解**：Signy 的提问——“Can you see the egg when it comes out of you?” / Cora 的“Not that I remember. It's just . . . blood.”。
+**中文理解**：她的提问——卵子排出时你看得见吗？对方答：我不记得看得见，就只是……血。
 
 **关键词**：Can you see the egg / Not that I remember / blood and other stuff
 
@@ -86,43 +86,43 @@ modified: "2026-10-19"
 
 > **原句 8:** "It's funny to think about, isn't it? That we're both full of eggs right now?" / "Huh," she said. / "Does that bother you?" / "Kind of," Cora said. / "Why?" / "I dunno, I don't like the thought of, like . . . little bundles of eggs in me."
 
-**中文理解**：Signy 的“full of eggs right now”——Cora 的“Kind of”不适 / “little bundles of eggs in me”。
+**中文理解**：她说对方此刻体内满是卵子——对方有点不适地答“算是吧”，说自己肚子里装着一小包一小包的卵。
 
 **关键词**：full of eggs right now / little bundles of eggs in me
 
-**为什么这样写**：把 eggs 写成“little bundles of eggs in me”——Cora 的不适；“full of eggs right now”写出 Signy 的科学框架。
+**为什么这样写**：把卵子写成“一小包一小包的卵”——写出对方的不适；“此刻满是卵子”写出她那种科学的框架。
 
 **读者视角提示**：Cora 的不适——蛋如“little bundles”在她体内。
 
 > **原句 9:** "It's an ovary," Signy said clinically. / "What?" / "Fruit. Fruit is a plant ovary."
 
-**中文理解**：Signy 的揭晓——“Fruit. Fruit is a plant ovary.”。
+**中文理解**：她的揭晓——水果，水果就是植物的卵巢。
 
 **关键词**：Fruit is a plant ovary
 
-**为什么这样写**：把 fruit 写成“plant ovary”——Signy 的科学揭晓；“clinically”写出她的疏离。
+**为什么这样写**：把水果写成“植物的卵巢”——这是她的科学揭晓；“冷冷地”写出她那种疏离。
 
-**读者视角提示**：Signy 的揭晓——fruit 即 plant ovary。
+**读者视角提示**：她的揭晓——水果就是植物的卵巢。
 
 > **原句 10:** "The taxonomical tangent Signy had begun to skip merrily along was lost on Cora. She was too busy falling headlong into a quiet calamity. She stared down at the remaining mandarin segments filling her palm, her lovely little mandarins, so cute, so orange, and now, irrevocably fucked."
 
-**中文理解**：Cora 的“quiet calamity”——“so cute, so orange, and now, irrevocably fucked.”。
+**中文理解**：对方的无声崩溃——那么可爱，那么橙黄，可现在彻底完了。
 
 **关键词**：quiet calamity / so cute, so orange / irrevocably fucked
 
 **为什么这样写**：把 Cora 的领悟写成“quiet calamity”——她内在的震惊；“so cute, so orange, and now, irrevocably fucked”写出她纯真的丧失。
 
-**读者视角提示**：Cora 的“quiet calamity”——fruit 再也不是“只是 fruit”。
+**读者视角提示**：对方的无声崩溃——水果再也不是“只是水果”了。
 
 > **原句 11:** "I think next time, I'll bring muffins instead." / "I have really bad news for you about what flour is."
 
-**中文理解**：Cora 的“muffins instead” / Signy 的“I have really bad news for you about what flour is.”。
+**中文理解**：对方说那改吃松饼吧；她答：关于面粉是什么，我有个非常坏的消息要告诉你。
 
 **关键词**：muffins instead / really bad news for you about what flour is
 
-**为什么这样写**：把 Cora 的逃避写成“muffins instead”——她试图避开 fruit；Signy 的“really bad news”写出她的知识（flour = 磨碎的种子）。
+**为什么这样写**：把这份逃避写成“那改吃松饼吧”——对方想绕开水果；她那句“非常坏的消息”写出她知道面粉就是磨碎的种子。
 
-**读者视角提示**：Signy 的打趣——flour 即磨碎的种子（也是植物繁殖）。
+**读者视角提示**：她的打趣——面粉就是磨碎的种子，同样是植物的繁殖。
 
 ## 本章词汇
 

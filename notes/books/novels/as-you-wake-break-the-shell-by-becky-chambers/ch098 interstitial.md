@@ -16,77 +16,77 @@ modified: "2026-10-19"
 
 > **原句 1:** "Please don't be mad at me. You probably are mad at me and I'm really sorry."
 
-**中文理解**：Twig 的开场——“Please don't be mad at me. You probably are mad at me and I'm really sorry.”。
+**中文理解**：妹妹的开场——求你别生我的气；你多半在生我的气；我真的很抱歉。
 
 **关键词**：Please don't be mad at me / You probably are mad at me / I'm really sorry
 
 **为什么这样写**：把 Twig 的信写成“Please don't be mad at me”——她的道歉；“You probably are mad at me”写出她的觉察；“I'm really sorry”写出她的悔。
 
-**读者视角提示**：Twig 的信——道歉式开场。
+**读者视角提示**：妹妹的信——一开头就是道歉。
 
 > **原句 2:** "I know you won't understand why I've done this but you'll see, I'll prove you wrong this time. This time you'll be the dipshit, ha ha."
 
-**中文理解**：Twig 的辩解——“I'll prove you wrong this time. This time you'll be the dipshit, ha ha.”。
+**中文理解**：妹妹的辩解——这次我会证明你错了；这回轮到你当笨蛋了，哈哈。
 
 **关键词**：I'll prove you wrong this time / This time you'll be the dipshit
 
 **为什么这样写**：把 Twig 的辩解写成“I'll prove you wrong this time”——她的反抗；“This time you'll be the dipshit, ha ha”写出她的幽默（呼应 Cora 的“dipshit”）。
 
-**读者视角提示**：Twig 的辩解——反抗加幽默（呼应 Cora 的“dipshit”）。
+**读者视角提示**：妹妹的辩解——带着反抗，也带着幽默，呼应对方先前那句“笨蛋”。
 
 > **原句 3:** "I'm going to see you out in space. I know you said rorquals can't hear the ships that leave from the surface, but I know that's not true."
 
-**中文理解**：Twig 的宣称——“I'm going to see you out in space” / “rorquals can't hear the ships that leave from the surface, but I know that's not true.”。
+**中文理解**：妹妹的宣称——我会在太空里见到你；鲸鱼听不见从地表起飞的飞船，可我知道那不是真的。
 
 **关键词**：I'm going to see you out in space / rorquals can't hear the ships that leave from the surface, but I know that's not true
 
 **为什么这样写**：把 Twig 的宣称写成“I'm going to see you out in space”——她的希望；“rorquals can't hear the ships... but I know that's not true”写出她的信念（ch038 的“Colibri can feel the Mothership”）。
 
-**读者视角提示**：Twig 的宣称——rorquals 能听见船（信念，非事实）。
+**读者视角提示**：妹妹的宣称——她相信鲸鱼能听见飞船，那是信念而非事实。
 
 > **原句 4:** "The people I'm going with really know their stuff. I know you're probably worried but trust me, these guys are legit. They have so much equipment and they're really good at math. They've done computer models and everything. They really know what they're doing."
 
-**中文理解**：Twig 的安慰——“these guys are legit” / “really good at math” / “computer models”。
+**中文理解**：妹妹的安慰——这些人是靠谱的；数学很好；还做过计算机模型。
 
 **关键词**：these guys are legit / really good at math / computer models
 
 **为什么这样写**：把 Twig 的安慰写成“these guys are legit”——她对 Chapter 252 的信任；“really good at math” / “computer models”写出她的天真（信任业余者）。
 
-**读者视角提示**：Twig 的安慰——对 Chapter 252 的天真信任（ch038 的“Sucker's Luck”讨论）。
+**读者视角提示**：妹妹的安慰——对那伙人的天真信任（呼应 ch038 的那段讨论）。
 
 > **原句 5:** "I'm not just a passenger, I'm on the crew! Right now I'm a flight tech, which basically means I just do whatever somebody tells me to do."
 
-**中文理解**：Twig 的角色——“I'm on the crew! Right now I'm a flight tech”。
+**中文理解**：妹妹的角色——我是船员；现在做飞行技术员。
 
 **关键词**：I'm on the crew / flight tech
 
 **为什么这样写**：把 Twig 的角色写成“I'm on the crew!”——她的兴奋；“flight tech”（做任何被吩咐的事）写出她的初级角色。
 
-**读者视角提示**：Twig 的角色——Sucker's Luck 远征的 flight tech。
+**读者视角提示**：妹妹的角色——在那趟远征里当飞行技术员。
 
 > **原句 6:** "I lied when I said it pays good because it doesn't actually pay anything but I was telling the truth when I said it's a good job. I get to be part of something actually good for once."
 
-**中文理解**：Twig 的诚实——“I lied when I said it pays good because it doesn't actually pay anything” / “I get to be part of something actually good for once.”。
+**中文理解**：妹妹的诚实——她说薪水不错是撒了谎，因为其实一分钱都没有；可这一次她终于能参与一件真正的好事。
 
 **关键词**：I lied when I said it pays good / it doesn't actually pay anything / I get to be part of something actually good for once
 
 **为什么这样写**：把 Twig 的诚实写成“I lied when I said it pays good”——她的承认；“I get to be part of something actually good for once”写出她对意义的渴望。
 
-**读者视角提示**：Twig 的诚实——无薪，但“something actually good for once”。
+**读者视角提示**：妹妹的诚实——没有薪水，但她说终于能参与一件真正的好事。
 
 > **原句 7:** "This isn't goodbye forever. I'm going to see you again out there. We're going to get to the Mothership. Everybody on Fortune will see that it's possible and we'll all get out of this shitshow together."
 
-**中文理解**：Twig 的希望——“This isn't goodbye forever” / “We're going to get to the Mothership” / “we'll all get out of this shitshow together”。
+**中文理解**：妹妹的希望——这不是永别；我们会到达母船；大家会一起离开这摊烂事。
 
 **关键词**：This isn't goodbye forever / We're going to get to the Mothership / we'll all get out of this shitshow together
 
 **为什么这样写**：把 Twig 的希望写成“This isn't goodbye forever”——她的乐观；“We're going to get to the Mothership” / “we'll all get out of this shitshow together”写出她的使命。
 
-**读者视角提示**：Twig 的希望——Mothership、逃离 Fortune。
+**读者视角提示**：妹妹的希望——到达母船，离开故土。
 
 > **原句 8:** "But I miss you SO MUCH already. I don't have anything I can give you, and I really wish I could. I think you get my savings account because we're family but there isn't anything in there. You can sell my computer and my phone, if you want. I'm sorry I can't pay you all the way back for all the times you helped me, but we're not going to need money out there anyway."
 
-**中文理解**：Twig 的道歉——“I miss you SO MUCH already” / “I don't have anything I can give you” / “You can sell my computer and my phone” / “I'm sorry I can't pay you all the way back”。
+**中文理解**：妹妹的道歉——我已经那么想你了；我没有什么能给你；你可以把我的电脑和手机卖掉；对不起我没法把欠你的都还上。
 
 **关键词**：I miss you SO MUCH already / I don't have anything I can give you / You can sell my computer and my phone / I'm sorry I can't pay you all the way back
 
@@ -96,7 +96,7 @@ modified: "2026-10-19"
 
 > **原句 9:** "I love you, sis. You are the best one in the whole house. See you soon."
 
-**中文理解**：Twig 的收尾——“I love you, sis. You are the best one in the whole house. See you soon.”。
+**中文理解**：妹妹的收尾——我爱你，姐；你是这整座屋子里最好的一个；回头见。
 
 **关键词**：I love you, sis / You are the best one in the whole house / See you soon
 

@@ -16,7 +16,7 @@ modified: "2026-10-19"
 
 > **原句 1:** "[11.6 10:38] Hey Twig, just wanted to let you know that I'm gonna be on the ground for another three weeks."
 
-**中文理解**：Cora 的第一条短信——“Hey Twig, just wanted to let you know that I'm gonna be on the ground for another three weeks.”。
+**中文理解**：对方的第一条短信——嗨妹妹，就想跟你说一声，我还要在地面待三周。
 
 **关键词**：Hey Twig / gonna be on the ground for another three weeks
 
@@ -26,17 +26,17 @@ modified: "2026-10-19"
 
 > **原句 2:** "[11.8 16:07] Jeez kid, how hard are they working you? Take a break sometimes, yeah?"
 
-**中文理解**：Cora 的第二条短信——“Jeez kid, how hard are they working you? Take a break sometimes, yeah?”。
+**中文理解**：对方的第二条短信——天哪，他们到底让你干多重的活？偶尔也歇歇，行吗？
 
 **关键词**：Jeez kid / how hard are they working you / Take a break sometimes
 
 **为什么这样写**：把 Cora 的短信写成“Jeez kid”——她的关心；“Take a break sometimes”写出她的体贴。
 
-**读者视角提示**：Cora 的关心——Twig 未回。
+**读者视角提示**：对方的关心——妹妹一直没回。
 
 > **原句 3:** "[11.10 09:47] Have you forgotten how to answer your phone? Can you text me back? Just one word even?"
 
-**中文理解**：Cora 的第三条短信——“Have you forgotten how to answer your phone? Can you text me back? Just one word even?”。
+**中文理解**：对方的第三条短信——你忘了怎么接电话了吗？能回我一条吗？哪怕一个字也行。
 
 **关键词**：Have you forgotten how to answer your phone / Just one word even
 
@@ -46,17 +46,17 @@ modified: "2026-10-19"
 
 > **原句 4:** "[11.10 17:21] Seriously just send me a thumbs up"
 
-**中文理解**：Cora 的第四条短信——“Seriously just send me a thumbs up”。
+**中文理解**：对方的第四条短信——说真的，就给我发个大拇指也行。
 
 **关键词**：Seriously just send me a thumbs up
 
 **为什么这样写**：把 Cora 的短信写成“Seriously just send me a thumbs up”——她的绝望（降低门槛）；“Seriously”写出她的紧迫。
 
-**读者视角提示**：Cora 的绝望——降低门槛到 thumbs up。
+**读者视角提示**：对方的绝望——把门槛降到一个点赞表情就行。
 
 > **原句 5:** "[11.10 23:08] Dipshit, if this is because you lost your phone, I'm gonna be so pissed"
 
-**中文理解**：Cora 的第五条短信——“Dipshit, if this is because you lost your phone, I'm gonna be so pissed”。
+**中文理解**：对方的第五条短信——笨蛋，要是因为你把手机弄丢了，我可要气死了。
 
 **关键词**：Dipshit / if this is because you lost your phone / I'm gonna be so pissed
 
@@ -66,7 +66,7 @@ modified: "2026-10-19"
 
 > **原句 6:** "[11.11 08:08] Twig, this isn't cool. If you're mad at me for something, just say so"
 
-**中文理解**：Cora 的第六条短信——“Twig, this isn't cool. If you're mad at me for something, just say so”。
+**中文理解**：对方的第六条短信——妹妹，这样可不行；你要是生我的气，就直说。
 
 **关键词**：this isn't cool / If you're mad at me for something, just say so
 
@@ -76,7 +76,7 @@ modified: "2026-10-19"
 
 > **原句 7:** "[11.12 14:03] Okay, where the fuck are you? I went to your apartment but nobody answered the doorbell and your neighbors were the opposite of helpful"
 
-**中文理解**：Cora 的第七条短信——“Okay, where the fuck are you? I went to your apartment but nobody answered the doorbell and your neighbors were the opposite of helpful”。
+**中文理解**：对方的第七条短信——你到底在哪儿？我去了你的公寓，按门铃没人应，邻居也一点忙都不帮。
 
 **关键词**：where the fuck are you / nobody answered the doorbell / neighbors were the opposite of helpful
 
@@ -96,7 +96,7 @@ modified: "2026-10-19"
 
 > **原句 9:** "[11.13 07:34] Look, you're all the way grown and you don't need my permission for anything. If you want me to fuck off, fine, but I love you and you're scaring me. I'm this close to calling the cops, and nobody wants that. Please call me back."
 
-**中文理解**：Cora 的最后一条短信——“I love you and you're scaring me. I'm this close to calling the cops... Please call me back.”。
+**中文理解**：对方的最后一条短信——我爱你，可你吓到我了；我差一点就要报警；求你回我电话。
 
 **关键词**：I love you and you're scaring me / I'm this close to calling the cops / Please call me back
 

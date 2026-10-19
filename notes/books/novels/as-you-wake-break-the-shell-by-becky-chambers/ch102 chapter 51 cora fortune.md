@@ -16,103 +16,103 @@ modified: "2026-10-19"
 
 > **原句 1:** "Cora let Signy hold her as the nook held them both. There were no sounds in the little room except for their own breathing and the soft hum of the irrigation line that kept the plants around them happy."
 
-**中文理解**：nook 场景——「Cora let Signy hold her as the nook held them both」/「no sounds... except their own breathing and the soft hum of the irrigation line」。
+**中文理解**：那个凹室里的场景——她任由对方抱着她，而凹室像是把两个人都拢住了；除了彼此的呼吸，只有灌溉管低低的嗡鸣。
 
 **关键词**：Cora let Signy hold her / the nook held them both / soft hum of the irrigation line
 
-**为什么这样写**：把 nook 写成「the nook held them both」——它的拥抱；「no sounds except their own breathing and the soft hum」写出安静。
+**为什么这样写**：把这个凹室写成“把两个人都拢住了”——这是它的拥抱；“除了彼此的呼吸，只有低低的嗡鸣”写出这份安静。
 
-**读者视角提示**：Nook as embrace——安静、灌溉管低鸣。
+**读者视角提示**：凹室像一次拥抱——安静，只有灌溉管低鸣。
 
 > **原句 2:** "I cannot begin to imagine who I'd be if I hadn't met you," Cora said."
 
-**中文理解**：Cora 的「I cannot begin to imagine who I'd be if I hadn't met you.」。
+**中文理解**：对方说——我根本没法想象，要是没遇见你，我会是谁。
 
 **关键词**：I cannot begin to imagine who I'd be if I hadn't met you
 
-**为什么这样写**：把 Cora 的脆弱写成「I cannot begin to imagine who I'd be if I hadn't met you」——她的依赖；「begin to imagine」写出她的无力。
+**为什么这样写**：把这份脆弱写成“根本没法想象，要是没遇见你我会是谁”——这是她的依赖；“根本没法”写出她的无力。
 
-**读者视角提示**：Cora 的脆弱——无法想象没有 Signy 的自我。
+**读者视角提示**：对方的脆弱——无法想象一个没有对方的自己。
 
 > **原句 3:** "That's because it's unimaginable," she said. "The person I am now doesn't exist without you, and vice versa. So, you're trying to imagine your existence in a scenario in which you—the person doing the imagining—doesn't exist. It's a contradiction. It can't be done."
 
-**中文理解**：Signy 的回应——「That's because it's unimaginable」/「The person I am now doesn't exist without you, and vice versa」/「It's a contradiction. It can't be done.」。
+**中文理解**：她的回应——那是因为它本就无法想象；现在的我离了你不存在，反过来也一样；这是个矛盾，做不到。
 
 **关键词**：That's because it's unimaginable / The person I am now doesn't exist without you, and vice versa / It's a contradiction. It can't be done.
 
-**为什么这样写**：把 Signy 的回应写成「That's because it's unimaginable」——她的逻辑；「The person I am now doesn't exist without you, and vice versa」写出他们的相互构成；「It's a contradiction. It can't be done.」写出她的结论。
+**为什么这样写**：把这份回应写成“那是因为它本就无法想象”——这是她的逻辑；“现在的我离了你不存在，反过来也一样”写出两人彼此构成；“这是个矛盾，做不到”写出她的结论。
 
 **读者视角提示**：Signy 的逻辑——相互构成、想象自我无他人的矛盾。
 
 > **原句 4:** "Cora flicked her eyes up toward Signy's, catching them as best she could. Her wife had an incredible knack for making an existential crisis worse. She always had. And yet, Cora found Signy's eternal commitment to the no-bullshit bit more grounding than any platitudes."
 
-**中文理解**：Cora 的观察——「Her wife had an incredible knack for making an existential crisis worse」/「Cora found Signy's eternal commitment to the no-bullshit bit more grounding than any platitudes.」。
+**中文理解**：对方的观察——她这个妻子有一种本事，能把存在主义危机说得更糟；可她又觉得，对方那种从不来虚的劲头，比任何漂亮话都让人踏实。
 
 **关键词**：incredible knack for making an existential crisis worse / eternal commitment to the no-bullshit bit / more grounding than any platitudes
 
-**为什么这样写**：把 Signy 写成「incredible knack for making an existential crisis worse」——Cora 的幽默；「eternal commitment to the no-bullshit bit」写出她的欣赏；「more grounding than any platitudes」写出她的价值。
+**为什么这样写**：把对方写成“能把存在主义危机说得更糟的一种本事”——这是叙述者的幽默；“从不来虚的劲头”写出她的欣赏；“比任何漂亮话都踏实”写出那份价值。
 
-**读者视角提示**：Cora 的欣赏——Signy 的 no-bullshit bit as grounding。
+**读者视角提示**：叙述者的欣赏——对方那份不玩虚的劲头让人踏实。
 
 > **原句 5:** "It scares me, sometimes," she said. / "What?" Signy asked. "Not being able to see a different life?" / "Yeah." / "Why?" / "Because I couldn't have imagined any of this, either. Back then, I mean. And so it freaks me out, because . . . how different is my life gonna be in another ten years, or whatever?"
 
-**中文理解**：Cora 的恐惧——「It scares me, sometimes」/「Not being able to see a different life?」/「Because I couldn't have imagined any of this, either.」。
+**中文理解**：对方的恐惧——有时这让她害怕；怕的是看不见另一种人生？因为她当年也想象不到现在这一切。
 
 **关键词**：It scares me, sometimes / Not being able to see a different life / I couldn't have imagined any of this, either
 
-**为什么这样写**：把 Cora 的恐惧写成「It scares me, sometimes」——她的脆弱；「I couldn't have imagined any of this, either」写出她对自己生活的惊讶。
+**为什么这样写**：把这份恐惧写成“有时这让她害怕”——这是她的脆弱；“当年也想象不到现在这一切”写出她对自己生活的惊讶。
 
 **读者视角提示**：Cora 的恐惧——看不到不同的生活（对自己生活的惊讶）。
 
 > **原句 6:** "It's been fourteen years." / "Yes, I know. I meant figuratively." / "You can't have a figurative ten." / Cora gave Signy's calf a light flick. "You know what I fucking mean."
 
-**中文理解**：Cora-Signy 交换——「It's been fourteen years.」/「You can't have a figurative ten.」/「You know what I fucking mean.」。
+**中文理解**：两人的来回——都十四年了；你不能拿“十来年”当虚数；你知道我他妈在说什么。
 
 **关键词**：It's been fourteen years / You can't have a figurative ten / You know what I fucking mean
 
-**为什么这样写**：把他们的交换写成「You can't have a figurative ten」——Signy 的学究气；「You know what I fucking mean」写出 Cora 的恼怒。
+**为什么这样写**：把这段来回写成“你不能拿十来年当虚数”——这是她的学究气；“你知道我他妈在说什么”写出对方的恼怒。
 
-**读者视角提示**：Cora-Signy dynamic——Signy 的学究气 vs Cora 的恼怒。
+**读者视角提示**：两人的相处——一个学究气，一个被气到。
 
 > **原句 7:** "Do you actually think you would be able to function at all, knowing what was going to happen next?" Signy asked. / "Probably not," Cora replied. / She could feel Signy nod behind her. "That's good, because that would also be a paradox," she said.
 
-**中文理解**：Signy 的提问——「Do you actually think you would be able to function at all, knowing what was going to happen next?」/ Cora 的「Probably not」/ Signy 的「That's good, because that would also be a paradox.」。
+**中文理解**：她的提问——要是知道接下来会发生什么，你真觉得自己还能正常过日子吗？对方答大概不能；她说那正好，因为那又会是一个悖论。
 
 **关键词**：Do you actually think you would be able to function at all, knowing what was going to happen next / That's good, because that would also be a paradox
 
-**为什么这样写**：把 Signy 的提问写成「Do you actually think you would be able to function at all」——她的逻辑；「That's good, because that would also be a paradox」写出她的结论。
+**为什么这样写**：把这份提问写成“你真觉得自己还能正常过日子吗”——这是她的逻辑；“那正好，因为那又会是一个悖论”写出她的结论。
 
 **读者视角提示**：Signy 的逻辑——知道未来＝悖论（无法功能）。
 
 > **原句 8:** "Because I don't think there is such a thing as 'the future,'" Signy said. "I think the entire concept is misleading. There are things that have happened, and things that are happening now. By definition, whatever comes next is something that doesn't exist. We haven't made it happen yet. There is no future. There is only now."
 
-**中文理解**：Signy 的哲学——「There is no future. There is only now.」。
+**中文理解**：她的哲学——没有未来，只有现在。
 
 **关键词**：There is no future. There is only now.
 
-**为什么这样写**：把 Signy 的哲学写成「There is no future. There is only now.」——她的当下主义；「There are things that have happened, and things that are happening now」写出她的时间框架。
+**为什么这样写**：把这份哲学写成“没有未来，只有现在”——这是她的当下主义；“有些事已经发生，有些事正在发生”写出她的时间框架。
 
-**读者视角提示**：Signy 的哲学——presentism（no future, only now）。
+**读者视角提示**：她的哲学——当下主义：没有未来，只有现在。
 
 > **原句 9:** "That's very rorqual of you," Cora chuckled."
 
-**中文理解**：Cora 的回应——「That's very rorqual of you.」。
+**中文理解**：对方的回应——你这想法很鲸鱼。
 
 **关键词**：That's very rorqual of you
 
-**为什么这样写**：把 Cora 的回应写成「That's very rorqual of you」——她的幽默；「very rorqual」（rorquals 活在当下）写出她的平行。
+**为什么这样写**：把这份回应写成“你这想法很鲸鱼”——这是她的幽默；鲸鱼就活在当下，这一比写出两者的平行。
 
-**读者视角提示**：Cora 的幽默——Signy 的 presentism as「rorqual」（living in present）。
+**读者视角提示**：对方的幽默——把她的当下主义说成“很鲸鱼”，因为鲸鱼就活在当下。
 
 > **原句 10:** "Well, what can I say?" Signy wrapped her legs around Cora's waist in order to double up the hug. "I learned from the best."
 
-**中文理解**：Signy 的收尾——「I learned from the best.」（Colibri）。
+**中文理解**：她的收尾——我是跟最好的那位学的；指的是鲸鱼。
 
 **关键词**：I learned from the best
 
-**为什么这样写**：把 Signy 的收尾写成「I learned from the best」——她的承认（Colibri 教她 presentism）；「wrapped her legs around Cora's waist in order to double up the hug」写出她的身体关心。
+**为什么这样写**：把这份收尾写成“我是跟最好的那位学的”——这是她的承认，那套当下主义是鲸鱼教的；接着她把腿缠上对方的腰，把拥抱加倍，写出她身体上的亲近。
 
-**读者视角提示**：Signy 的收尾——learned from Colibri（presentism）。
+**读者视角提示**：她的收尾——那套当下主义是跟鲸鱼学的。
 
 ## 本章词汇
 

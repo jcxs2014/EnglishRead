@@ -20,33 +20,33 @@ Signy 和 Cora 乘 The Kestrel 去 Lodestone 取 groceries——Cora 坚持给�
 
 > **原句 1:** "Once or twice, Signy had tried to imagine telling her younger self that one day, she'd own a spaceship, and that her primary use for it would be going to pick up groceries. She never got very far with this imagining. Her younger self wouldn't have had the patience for that kind of nonsense."
 
-**中文理解**：Signy 的 humor——spaceship 的主要用途是买 groceries；"younger self"会觉得这是 nonsense。
+**中文理解**：她的自嘲——这艘飞船最主要的用途竟是买杂货；要是告诉年轻时的自己，准会觉得荒唐。
 
 **关键词**：primary use / groceries / nonsense
 
-**为什么这样写**：用"imagine telling her younger self"建立 ironic distance——Signy 的 current domesticity vs. her younger self's ambitions; "nonsense"是 self-deprecating humor。
+**为什么这样写**：用“要是告诉年轻时的自己”拉开一层反讽的距离——写出现在这份居家生活与当年抱负的落差；“荒唐”二字是自嘲式的幽默。
 
-**读者视角提示**：Signy 的 character——she's found contentment in mundane life。
+**读者视角提示**：她的性格——她在平淡的日子里找到了满足。
 
 > **原句 2:** "Signy climbed aboard her spaceship, which was nothing fancy—one of the same five prefab shuttle designs from the Primer owned by everybody living in the Ring. There were two seats up front, a bench in the back in case somebody needed a ride, and a respectable amount of space to fill with supplies and the occasional piece of domestic machinery."
 
-**中文理解**：The Kestrel 的描述——prefab shuttle, two seats, bench, space for supplies——完全 domestic，不是 adventure vessel。
+**中文理解**：对那艘飞船的描述——预制的小型穿梭机，两个座位，一条长凳，还有放补给的地方——完全是居家用的，不是探险船。
 
 **关键词**：prefab shuttle / domestic machinery / respectable amount of space
 
-**为什么这样写**：用"nothing fancy"和"domestic machinery"强调这艘飞船的 mundane purpose——it's a grocery run, not exploration; "domestic machinery"暗示 Signy 用它运 home equipment。
+**为什么这样写**：用“没什么花哨的”与“家用的机器”强调这艘飞船的平常用途——它是去买菜的，不是去探险的；“家用的机器”暗示她用这艘船运的是家里的东西。
 
-**读者视角提示**：The Kestrel as characterization——Signy 的 practical vs. Cora 的 romantic。
+**读者视角提示**：这艘飞船本身就是一种刻画——她的务实与对方的浪漫。
 
 > **原句 3:** "Signy hadn't thought it necessary for a craft this small to have a name, but Cora had disagreed vehemently on that point. She'd named the shuttle The Kestrel. When asked what that was, Cora had replied, It's an Earth bird. When asked why that was her choice, she'd further explained, Because it sounds cool."
 
-**中文理解**：Signy 和 Cora dynamic——Signy 觉得没必要取名，Cora 坚持；Cora 的 reason is simply "it sounds cool"。
+**中文理解**：两人的相处——她觉得没必要取名，对方却坚持；而对方的理由很简单，就是听起来酷。
 
 **关键词**：disagreed vehemently / named the shuttle / sounds cool
 
-**为什么这样写**：用"vehemently"写出 Cora 的 passion vs. Signy 的 practicality; "Because it sounds cool"是 Cora 的 characteristic simplicity——she does things because they're fun, not for practical reasons。
+**为什么这样写**：用“激烈地”写出对方的热情与她的务实；“就因为听起来酷”是对方一贯的简单——她做一件事是因为有趣，而不是因为有用。
 
-**读者视角提示**：Signy 和 Cora relationship——Signy humors Cora 的 quirks, Cora brings joy to the mundane。
+**读者视角提示**：两人的关系——她纵容对方的小怪癖，而对方给平淡的日子带来乐趣。
 
 ## 本章词汇
 
