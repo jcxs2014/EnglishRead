@@ -21,7 +21,7 @@ start_date: 2026-10-19
 
 **中文理解**：Yolanda 以 Rubí 为 template，幻想 seduce Valentín——"grab Valentín by the arm" + "caress him and press her plump lips" 显示其 sexualized strategy. "Like me" 显示 self-projection。
 
-**句子结构**：两句话：思考（I think of what Rubí would do...）+ 描述（She would go and grab...）。
+**句子结构**：三句话：思考（I think of what Rubí would do...）+ 抓臂（She would go and grab Valentín by the arm.）+ 爱抚压唇（With her thin hands, she would caress him and press her plump lips onto his.）。
 
 **关键词**：
 - `grab Valentín by the arm`：抓住 Valentín 的手臂——aggressive seduction

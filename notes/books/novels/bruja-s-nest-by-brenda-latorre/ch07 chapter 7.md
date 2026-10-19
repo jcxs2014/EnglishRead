@@ -21,7 +21,7 @@ start_date: 2026-10-19
 
 **中文理解**：Yolanda 回 hacienda 路上——shadows 舞动，她 uncertain 是否 real. "A baby" thought makes her nervous; "set the thought aside" shows her avoidance of maternal responsibility。
 
-**句子结构**：问句 + 问句 + 陈述 + 从句（which means...）。
+**句子结构**：陈述（Shadows dance...）+ 问句（Are they animals?）+ 问句（Or figments of my imagination.）+ 陈述（A baby.）+ 从句（which means...）。
 
 **关键词**：
 - `figments of my imagination`：想象的产物——Yolanda’s uncertainty
@@ -38,7 +38,7 @@ start_date: 2026-10-19
 **句子结构**：两句话：Once I get there... + I see the judgment...。
 
 **关键词**：
-- `stone woman... frowns at me`：石女皱眉——judgment personified
+- `stone woman at the top of the front steps frowns at me`：石女皱眉——judgment personified
 - `eroded face`：风化脸——time but judgment persists
 
 **为什么这样写**：Statue as silent judge—Yolanda is always being watched, even by inanimate objects。
@@ -62,7 +62,7 @@ start_date: 2026-10-19
 
 **中文理解**：Alta’s threat—"Don Julián is going to hear about this"—but her "lower lip trembles" shows concern beneath anger. "Didn’t you listen when I said we need our jobs?" shows economic anxiety。
 
-**句子结构**：引语 + 叙述者评注（Her lower lip trembles）+ 引语。
+**句子结构**：引语（Don Julián is going to hear about this.）+ 叙述者评注（Her lower lip trembles.）+ 引语（Dios mío. I don’t even know what to tell you. Didn’t you listen when I said we need our jobs?）。
 
 **关键词**：
 - `lower lip trembles`：下唇颤抖——Alta’s hidden concern
@@ -151,7 +151,7 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 13:** "I imagine Javier inside the shed. Using a scalpel to remove the organs that make living things function."
+> **原句 11:** "I imagine Javier inside the shed. Using a scalpel to remove the organs that make living things function."
 
 **中文理解**：Yolanda imagines Javier in shed—scalpel removing organs. "Organs that make living things function" shows her awareness of violence beneath Javier’s charm。
 
@@ -165,7 +165,7 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 14:** "“What a pleasant surprise.” He pulls at his mustache. “Are you here as a visitor or an apprentice?”"
+> **原句 12:** "“What a pleasant surprise.” He pulls at his mustache. “Are you here as a visitor or an apprentice?”"
 
 **中文理解**：Javier’s greeting—"What a pleasant surprise"—shows his charm. "Visitor or apprentice?" frames Yolanda’s presence as either social or professional。
 
@@ -179,7 +179,7 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 15:** "“I . . .” This is the first time I’ve been inside. The shed smells of pine with an underlying layer of metal."
+> **原句 13:** "“I . . .” This is the first time I’ve been inside. The shed smells of pine with an underlying layer of metal."
 
 **中文理解**：Yolanda’s hesitation—"I..."—shows her uncertainty. Shed’s smell (pine + metal) creates atmosphere of death masked by pleasantness。
 
@@ -193,7 +193,7 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 16:** "“Specimens?”"
+> **原句 14:** "“Specimens?”"
 
 **中文理解**：Javier’s "Specimens?"—euphemism for dead animals. Shows his professional distance from death。
 
@@ -206,7 +206,7 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 17:** "“You are a curious little bird, aren’t you?”"
+> **原句 15:** "“You are a curious little bird, aren’t you?”"
 
 **中文理解**：Javier’s "curious little bird"—patronizing but affectionate. "Little bird" diminishes Yolanda, showing his condescension。
 
@@ -219,7 +219,7 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 18:** "“May I?” he asks, but his hands are already on my foot."
+> **原句 16:** "“May I?” he asks, but his hands are already on my foot."
 
 **中文理解**：Javier’s "May I?"—asks permission but acts without waiting. Shows his disregard for consent。
 
@@ -233,7 +233,7 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 19:** "“This wasn’t an accident.”"
+> **原句 17:** "“This wasn’t an accident.”"
 
 **中文理解**：Javier’s deduction—"This wasn’t an accident."—shows his perceptiveness. He sees through Yolanda’s lie。
 
@@ -246,7 +246,7 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 20:** "“Who did this to you? What savagery is this? We must fire them. This is a whole other level of-of cruelty, that’s what it is.”"
+> **原句 18:** "“Who did this to you? What savagery is this? We must fire them. This is a whole other level of-of cruelty, that’s what it is.”"
 
 **中文理解**：Javier’s outrage—"Who did this to you? What savagery?"—shows his protective response. "We must fire them" shows his authority. But his outrage is performative— he will exploit Yolanda anyway。
 
@@ -260,7 +260,7 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 21:** "“Can I keep it?”"
+> **原句 19:** "“Can I keep it?”"
 
 **中文理解**：Javier asks to keep pin—"Can I keep it?"—shows his collector mentality. The pin becomes his trophy。
 
@@ -273,7 +273,7 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 22:** "“Anytime,” he says."
+> **原句 20:** "“Anytime,” he says."
 
 **中文理解**：Javier’s "Anytime"—after sex, he doesn’t even know her name. "Anytime" is dismissive, transactional。
 
@@ -286,7 +286,7 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 23:** "“Yes, love,” I tell him, and mean it. “Cum for me. You are mine.”"
+> **原句 21:** "“Yes, love,” I tell him, and mean it. “Cum for me. You are mine.”"
 
 **中文理解**：Yolanda’s "Yes, love... Cum for me. You are mine."—she performs desire. "I tell him, and mean it" shows her genuine arousal despite disgust. "You are mine" echoes Rubí’s possessiveness。
 

@@ -31,7 +31,7 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 2:** "I also know I’m pregnant, but I’ve been robbed of the joy of that knowledge."
+> **原句 2:** "I also know I’m pregnant, but I’ve been robbed of the joy of that knowledge. A part of me thought that when life sprung inside me, something in my mind would switch and I’d become different. Better. That’s not the case."
 
 **中文理解**：Yolanda 知道怀孕但 "robbed of the joy"——pregnancy 是 transaction，不是 celebration. "A part of me thought... I’d become different. Better. That’s not the case." 显示 her disappointment。
 
@@ -45,7 +45,7 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 3:** "Garlic, burnt oil, green tomatoes. The essence of the salsa wafts from the kitchen into my nostrils and then gathers in my throat, like a cloud that expands."
+> **原句 3:** "Garlic, burnt oil, green tomatoes. The essence of the salsa wafts from the kitchen into my nostrils and then gathers in my throat, like a cloud that expands. Now I experience the world like a dog, with my nose."
 
 **中文理解**：Yolanda’s hyperosmia (pregnancy symptom)—"experience the world like a dog, with my nose." Sensory overload. "Like a cloud that expands" shows nausea building。
 
@@ -59,7 +59,7 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 4:** "My back hurts from mopping the hallway. Maybe I should go to Cesarea."
+> **原句 4:** "My back hurts from mopping the hallway. Maybe I should go to Cesarea. She could check my baby and slather balm on my wound to stop the infection. Something is not right. Maybe she saw me as la cara de estúpida."
 
 **中文理解**：Yolanda’s physical pain + consideration of returning to Cesarea. "Maybe she saw me as la cara de estúpida" shows her paranoia about bruja。
 
@@ -168,7 +168,7 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 12:** "“It’s nothing.” The purplish line extends horizontally across my center, stopping where each hip bone begins."
+> **原句 12:** "“It’s nothing.” The purplish line extends horizontally across my center, stopping where each hip bone begins. Specks of yellow liquid peer from the wound."
 
 **中文理解**：Yolanda’s "It’s nothing" + showing wound—she tries to distract Itzco from pregnancy with infection. "Purplish line" describes bruja’s cut. "Specks of yellow liquid peer from the wound" shows infection。
 
@@ -272,7 +272,6 @@ start_date: 2026-10-19
 
 **关键词**：
 - `I won’t, if you get me a lemon pie`：我不说，只要你给我柠檬派——humor/condition
-- `price of my silence`：沉默的代价——Itzco’s framing
 
 **为什么这样写**：Itzco’s "lemon pie" condition humanizes him—his silence is purchasable with dessert, not money. Shows his character。
 
@@ -323,7 +322,7 @@ start_date: 2026-10-19
 
 **中文理解**：Valentín’s accident—pruning shears nail his arm to grass. "Blood circles the shirt around the wound, expanding" shows injury severity. Yolanda’s "I gasp. My hands instantly cover my mouth" shows shock。
 
-**句子结构**：五句话：A scream... + I gasp. + My hands... + Valentín is lying... + The pruning shears... + Blood circles...。
+**句子结构**：六句话：A scream... + I gasp. + My hands... + Valentín is lying... + The pruning shears... + Blood circles...。
 
 **关键词**：
 - `pruning shears nail his left arm to the grass`：修枝剪钉住左臂——accident
