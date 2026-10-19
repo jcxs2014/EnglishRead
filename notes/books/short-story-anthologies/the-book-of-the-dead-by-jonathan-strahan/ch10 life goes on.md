@@ -2,17 +2,17 @@
 
 ## 本章导航
 
-- **一句话概括**：（死者之国）的 off- 叙述者（牧师/歌手）被 （城市行政官夫人）雇为向导，带她去 寻找 的真相；（死者复活者）杀死 ，叙述者继承其财产、埋葬她于 ，却在 遇到自己父亲的 ，被迫用家族剑 杀死父亲；最终叙述者获得 与 ，但永远活在 的 中——因为 会复活，而他杀了父亲。
+- **一句话概括**：Hjortsriverdale（死者之国）的 off-comer 叙述者（牧师/歌手）被 Lady Eudoxia（城市行政官夫人）雇为向导，带她去 Dale 寻找 undead 的真相；Walker（死者复活者）杀死 Eudoxia，叙述者继承其财产、埋葬她于 cave，却在 cave 遇到自己父亲的 walker，被迫用家族剑 Woodpecker 杀死父亲；最终叙述者获得 tenure 与 parish，但永远活在 "resurrection of the dead and the life everlasting" 的 terror 中——因为 walker 会复活，而他杀了父亲。
 
-- **时间**：中世纪 （, , , ）；叙述者离开 16 年后返回
+- **时间**：中世纪 fantasy（Studium, College of Divinity, archbishop, city prefect）；叙述者离开 Dale 16 年后返回
 
-- **地点**：（, , bog）；（ 的唯一城镇）；（叙述者老家）；（埋葬处）；（港口）
+- **地点**：Hjortsriverdale（moorland, mountains, bog）；Ketilsheath（Dale 的唯一城镇）；Ohtarsvatn（叙述者老家）；Myri cave（埋葬处）；Barsness（港口）
 
-- **人物**：叙述者（， 出身，牧师/歌手，）；（ 夫人，）；'s （，, , 's ）；（-, ）；（-, ）； & （）；（）
+- **人物**：叙述者（unnamed，Hjortsriverdale 出身，牧师/歌手，tenor）；Lady Eudoxia（city prefect 夫人，death scholar）；narrator's father（walker，cantankerous, killed cousin Bjarni, burned Hrapp's family）；Geir（great-uncle, walker）；Kari（great-uncle, buried with sword）；Hrapp & sons（murdered neighbors）；sword Woodpecker（family magic sword）
 
-- **叙事手法**：- ；/; ; - ; -; as ; 
+- **叙事手法**：First-person (narrator)；dark fantasy/horror with black comedy; unreliable narrator (admits lies: "I killed a man there" untrue); pseudo-scholarly tone (theology, Copinian model); walker as zombie-like undead; "life goes on" as ironic refrain; theological horror
 
-- **与后文的钩子**： 提到（见原文）。本篇是选集的 代表—— 作为 （ = ）; 的 . 主题：; the ; 。
+- **与后文的钩子**：Strahan Introduction 提到 "K. J. Parker's darkly comic tale of a land where the dead don't stay dead, and a priest who must confront his family's legacy." 本篇是选集的 dark fantasy 代表——death 作为 curse not blessing（resurrection = terror）; "life goes on" 的 dual meaning (survival vs. eternal torment). Theme: death as punishment; the undead as family inheritance; faith as terror.
 
 ## 精读
 
@@ -50,7 +50,7 @@
 
 - **中文理解**：「They do that, apparently。They're very patient。If you don't make a move, neither do they... Oh, and he had sad eyes, like a cow or an old dog。Very sad eyes。」Walker 的 behavior—patient, sad-eyed, almost gentle. "Like a cow or an old dog" = animal comparison, not monster. Walker isn't evil; he's tragic, lost, patient.
 
-- **关键词**：very patient / sad eyes
+- **关键词**：very patient / sad eyes / like a cow or an old dog
 
 - **为什么这样写**：Parker humanizes (animalizes?) the walker—sad eyes, patience, gentleness. This undermines horror tropes (walkers as monsters); instead they're lost, confused, patient. "Very sad eyes" is the story's emotional core—the dead aren't angry, they're sad. This connects to the ending: narrator's father walker says "cold... you can't get warm nohow. But it's not so bad after a while." Death as cold, not hellfire.
 
@@ -60,7 +60,7 @@
 
 - **中文理解**：「What's it like, dying? ... Like falling asleep and then you wake up. And? That's it。」Walker father 的 death 描述——simple, unremarkable, no drama。"Like falling asleep" = 死亡作为过渡，而非事件。"That's it" = 没有来世神学，只是……继续。这与叙述者的神学（天堂/地狱）矛盾，确认了 Eudoxia 的（死亡作为转化）。
 
-- **关键词**：Like falling asleep / and then you wake up
+- **关键词**：Like falling asleep / and then you wake up / That's it
 
 - **为什么这样写**：Parker gives the walker's voice—simple, direct, Dale-accented ("Gaw whoam"). Death is mundane: "like falling asleep and then you wake up." No God, no angels, no hellfire. This is the story's theological climax: death is not what theology says. The narrator's "No God? No angels?" questions are answered with "No, nothing like that." Parker's afterlife is materialist, not spiritual.
 
@@ -110,4 +110,4 @@
 
 ## 一句话总结
 
- 的 是选集中最 的 ：（死者之国）的 off- 叙述者（牧师/歌手）被 （城市行政官夫人）雇为向导，带她去 寻找 的真相；（死者复活者）杀死 ，叙述者继承其财产、埋葬她于 ，却在 遇到自己父亲的 ，被迫用家族剑 杀死父亲；最终叙述者获得 与 ，但永远活在 的 中——因为 会复活，而他杀了父亲。 的 ： 是 —. ; ; = , not . 的 人化死者——他们不是 而是 , , . = 的 . 's . 
+Parker 的 "Life Goes On" 是选集中最 darkly comic 的 fantasy：Hjortsriverdale（死者之国）的 off-comer 叙述者（牧师/歌手）被 Lady Eudoxia（城市行政官夫人）雇为向导，带她去 Dale 寻找 undead 的真相；Walker（死者复活者）杀死 Eudoxia，叙述者继承其财产、埋葬她于 cave，却在 cave 遇到自己父亲的 walker，被迫用家族剑 Woodpecker 杀死父亲；最终叙述者获得 tenure 与 parish，但永远活在 "resurrection of the dead and the life everlasting" 的 terror 中——因为 walker 会复活，而他杀了父亲。Parker 的 thesis："Life goes on" 是 dual meaning—survival (optimistic) vs. eternal torment (pessimistic); death as curse not blessing (resurrection = walker curse, not salvation); "like falling asleep and then you wake up" = death as mundane continuation, not theological drama. Walker 的 "sad eyes, like a cow or an old dog" 人化死者——他们不是 monster 而是 lost, patient, cold. "Life goes on isn't an optimistic sentiment in Hjortsriverdale. Quite the opposite." = Parker 的 dark inversion. This is the anthology's "death as punishment" counterpoint. Theme: death as inheritance; the undead as family legacy; faith as terror.

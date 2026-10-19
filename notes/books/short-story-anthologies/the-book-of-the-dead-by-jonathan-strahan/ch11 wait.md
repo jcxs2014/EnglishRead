@@ -2,17 +2,17 @@
 
 ## 本章导航
 
-- **一句话概括**：（女巫，能预见死亡）发现自己的 （黑狗 ）已到家； （母亲自杀先例），她与 约定等一周；在河畔遇见神秘男伴（ /），向他讲述生活琐事，最终决定 —选择活下去。
+- **一句话概括**：Antigone（女巫，能预见死亡）发现自己的 death（黑狗 psychopomp）已到家； contemplating suicide（母亲自杀先例），她与 friend Vera 约定等一周；在河畔遇见神秘男伴（ possibly immortal/death figure），向他讲述生活琐事，最终决定 "The cold could wait"—选择活下去。
 
-- **时间**：当代（ 40 岁）； 已到家数周
+- **时间**：当代（Antigone 40 岁）；death 已到家数周
 
-- **地点**： 的家（, , ）；咖啡馆；河畔
+- **地点**：Antigone 的家（stoop, couch, garden）；咖啡馆；河畔
 
-- **人物**：（40 岁女巫， 血脉，能预见死亡）；（黑狗 ，, ）；（，沙漠爱好者）；（，7 年 ，）；'s （ 52）；（, ）；（, -ish, ）；ex-
+- **人物**：Antigone（40 岁女巫，herbalism 血脉，能预见死亡）；death（黑狗 psychopomp，velveteen belly, amber eyes）；Lisa（sister，沙漠爱好者）；Vera（oldest friend，7 年 senior，baker）；Antigone's mother（suicide by gunshot at 52）；grandmother（cancer, polite terrier death）；mysterious companion（river, immortal-ish, name unrememberable）；ex-lover
 
-- **叙事手法**：- ；; ; ; as ; ; /; 
+- **叙事手法**：Third-person limited (Antigone)；dark fantasy with literary horror; death personified as dog; suicide contemplation; "wait" as title and theme; magical realism (witch bloodline, death as psychopomp); grief/choice; open ending
 
-- **与后文的钩子**： 提到（见原文）。本篇是选集的 / 代表—— 作为 ; as 's 's 。主题：; ; 
+- **与后文的钩子**：Strahan Introduction 提到 "Cassandra Khaw's lyrical story of a woman whose death arrives as a black dog, and the choice she must make." 本篇是选集的 dark fantasy/lyrical 代表——death 作为 companion not enemy; "wait" as both death's patience and life's invitation. Theme: choice in dying; "all love was paid for with grief"; "The cold could wait."
 
 ## 精读
 
@@ -20,7 +20,7 @@
 
 - **中文理解**：「By and large, her bloodline was unburdened with blessings。」Antigone 的家族血脉——大多数代际 "escaped with nothing more than an affinity for herbalism"，但 Antigone 像母亲/姐妹一样能预见死亡。"Unburdened with blessings" = 遗传的 "gift" 其实是 curse—foreknowledge of death.
 
-- **关键词**：bloodline / unburdened with blessings
+- **关键词**：bloodline / unburdened with blessings / affinity for herbalism
 
 - **为什么这样写**：Khaw 用 "unburdened with blessings" (not "cursed") 来描述 death-foreknowledge—ironic understatement. "Blessings" 指 death-seeing ability (psychopomp dogs appear); "unburdened" = most family members don't have it. Antigone's "chagrin" = she inherited it. This establishes death as inherited trait, not punishment.
 
@@ -109,4 +109,4 @@
 
 ## 一句话总结
 
- 的 是选集中最 的 ：（40 岁女巫，能预见死亡）发现自己的 （黑狗 ）已到家； （母亲自杀先例，），她与 约定等一周；在河畔遇见神秘男伴（ /），向他讲述 , , 等生活琐事，最终决定 —选择活下去。 的 ：—; —; = 's 's . . The — 's . 
+Khaw 的 "Wait" 是选集中最 lyrical 的 dark fantasy：Antigone（40 岁女巫，能预见死亡）发现自己的 death（黑狗 psychopomp）已到家； contemplating suicide（母亲自杀先例，"forty is a good run"），她与 friend Vera 约定等一周；在河畔遇见神秘男伴（ possibly immortal/death figure），向他讲述 tomatoes, roses, cake 等生活琐事，最终决定 "The cold could wait"—选择活下去。Khaw 的 thesis："all love was paid for with grief"—love and grief are transactional; "What frightened Antigone was the lack of choice"—fear of death is fear of no control; "Wait" = both death's patience and life's invitation. Death as companion (black dog, velveteen belly) not enemy. The ending is hopeful but uncertain—"Tomorrow, maybe." This is the anthology's "death as companion" counterpoint. Theme: choice in dying; "wait" as both patience and invitation.

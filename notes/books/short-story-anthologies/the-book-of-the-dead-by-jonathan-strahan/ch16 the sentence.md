@@ -2,17 +2,17 @@
 
 ## 本章导航
 
-- **一句话概括**：叙述者（ 早期的 ）在 度假时感染，死亡后被困在 ——无限细分的最后几秒中；他叙述了与 的关系、 时期的恐惧，以及他如何试图训练 去 会有 接替他，实现 ——
+- **一句话概括**：叙述者（COVID 早期的 writer）在 Cape Cod 度假时感染，死亡后被困在 "Schrödinger's room"——无限细分的最后几秒中；他叙述了与 Bracken 的关系、COVID 时期的恐惧，以及他如何试图训练 dying brain 去 "believe" 会有 "someone else" 接替他，实现 swap——"my sentence will be over, and, then, yours will be just beginning."
 
-- **时间**：2020 年夏（-19 早期）→ 死亡后的无限时间
+- **时间**：2020 年夏（COVID-19 早期）→ 死亡后的无限时间
 
-- **地点**：（）；（ö's ）
+- **地点**：Cape Cod（rental house）；hotel room（Schrödinger's room）
 
-- **人物**：叙述者（, ）；（6 岁 , , ）；ö ； 
+- **人物**：叙述者（writer, dating Bracken since December）；Bracken（6 岁 younger, former MMA fighter, torn knee）；Schrödinger (referenced)；Cerberus (referenced)
 
-- **叙事手法**：--of- ; ; -19 ; as ; ; ; ö's cat as 
+- **叙事手法**：First-person stream-of-consciousness (single paragraph, 22KB); dying monologue; COVID-19 pandemic setting; "sentence" as double meaning (prison sentence/death sentence); infinite halving of time (Zeno's paradox of dying); swap as hope; Schrödinger's cat as metaphor for dying state
 
-- **与后文的钩子**： 提到（见原文）。本篇是选集的 / 代表—— 作为 ; = ; 。主题：; ; 。
+- **与后文的钩子**：Strahan Introduction 提到 "Paul Tremblay's story of a man trapped in his final moments, narrating his death." 本篇是选集的 pandemic/death 代表——death 作为 infinite subjective time; "The Sentence" = death sentence; hope as swap (someone else takes your place). Theme: death as prison; infinite halving; hope as replacement.
 
 ## 精读
 
@@ -109,4 +109,4 @@
 
 ## 一句话总结
 
- 的 是选集中最 -of- 的 ：叙述者（ 早期的 ）在 度假时感染，死亡后被困在 ——无限细分的最后几秒中；他叙述了与 的关系、 时期的恐惧，以及他如何试图训练 去 会有 接替他，实现 —— 的 ：— = ; = 's ; = 's . = /. = 's : . But = the , 't end. The 's —. 's . 
+Tremblay 的 "The Sentence" 是选集中最 stream-of-consciousness 的 pandemic death narrative：叙述者（COVID 早期的 writer）在 Cape Cod 度假时感染，死亡后被困在 "Schrödinger's room"——无限细分的最后几秒中；他叙述了与 Bracken 的关系、COVID 时期的恐惧，以及他如何试图训练 dying brain 去 "believe" 会有 "someone else" 接替他，实现 swap——"my sentence will be over, and, then, yours will be just beginning." Tremblay 的 thesis："death as prison sentence, not end"—"sentence" = double meaning (prison sentence/death sentence); "infinite halving" = Zeno's paradox of dying (final seconds never end); "swap" = death's perpetuation (someone must always be trapped). "Schrödinger's room" = quantum superposition of alive/dead. "Cerberus... until someone took its place and set it free" = narrator's hope: replacement frees. But "yours will be just beginning" = the trap transfers, doesn't end. The narrator's hope is actually curse—death perpetuates itself. This is the anthology's "death as prison" counterpoint. Theme: death as infinite subjective time; hope as delusion; death's transfer not liberation. "The Sentence" = death sentence; the narrator's final words condemn the reader.

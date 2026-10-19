@@ -2,12 +2,12 @@
 
 ## 本章导航
 
-- **一句话概括**：在神经科技公司，一位匿名 lab （动物饲养员）负责 X2 视觉芯片实验的 们；随实验加速、动物大量死亡，他逐渐意识到 通过 认识了他（），最终在 媒体事件中被 袭击，lab 反而理解了 的恐惧，打开所有 门锁，让 自由。
-- **时间**：lab 的入职（第一月）→ 媒体事件（约 6 个月后）→ 发送数据
-- **地点**：神经科技公司（未命名）的 、、、lab 的 
-- **人物**：lab （未命名叙述者，， résumé）；（）；（，唯一与 lab 平等对话的科学家）；（，）；（，， X2）；（-，）；（）；（）； M-2、J-3（）；'s （6 岁）
-- **叙事手法**：第三人称 （）—— ；, 渐渐被 穿透；（）； 的 与 镜像
-- **与后文的钩子**：本篇是 中提到的 的 。主题：动物苦难、企业科学、牺牲的伦理、"死者所见"（共享视觉数据创造死亡的集体记忆）。死亡作为数据传输——猴子继承死猴的视觉经验，将实验员识别为杀手。
+- **一句话概括**：在神经科技公司，一位匿名 lab tech（动物饲养员）负责 X2 视觉芯片实验的 macaque 们；随实验加速、动物大量死亡，他逐渐意识到 monkeys 通过 shared visual data 认识了他（"They know what I am"），最终在 Carol Romine 媒体事件中被 Carol 袭击，lab tech 反而理解了 monkeys 的恐惧，打开所有 cage 门锁，让 animals 自由。
+- **时间**：lab tech 的入职（第一月）→ Carol Romine 媒体事件（约 6 个月后）→  whistleblower 发送数据
+- **地点**：神经科技公司（未命名）的 Animal Housing Room (AHR)、procedure room、research area、lab tech 的 apartment
+- **人物**：lab tech（未命名叙述者，veterinary tech， lied on résumé）；Gilda（first sacrifice macaque）；Martha Chou（data scientist，唯一与 lab tech 平等对话的科学家）；Alberto（founder，billionaire）；Carol Romine（human volunteer，blind，receives X2）；Junebug（longest-lived macaque，bites lab tech）；Henry（sacrificed macaque）；Marty（sacrificed macaque）；Subject M-2、J-3（sacrificed）；Carol's granddaughter（6 岁）
+- **叙事手法**：第三人称 limited（"the lab tech"）—— unusual for short story；clinical, detached voice 渐渐被 emotional reality 穿透；time compression（"Time became slippery"）；ending 的 "He knew what was going to happen next. The knowledge was a gift." 与 opening 镜像
+- **与后文的钩子**：本篇是 Strahan Introduction 中提到的 Daryl Gregory 的 stark horror tale of animal experimentation。主题：动物苦难、企业科学、牺牲的伦理、"死者所见"（共享视觉数据创造死亡的集体记忆）。死亡作为数据传输——猴子继承死猴的视觉经验，将实验员识别为杀手。
 
 ## 精读
 
@@ -35,21 +35,21 @@
 > **原句 4:** "The monkeys were learning from each other."
 
 - **中文理解**：「猴子们在互相学习。即使一只 macaque 被牺牲，它算法中最成功的 code 也会转发给其他动物。」X2 的 software 更新机制——dead monkeys' visual data 被 transferred to living ones. This is the story's horror core: death becomes learning opportunity.
-- **关键词**：learning from each other / sacrificed
+- **关键词**：learning from each other / forwarded / sacrificed
 - **为什么这样写**：Gregory reveals the X2's dark mechanism—death is data transfer. Dead monkeys' visual experience (including their death, including the lab tech's face as killer) becomes shared data. This explains the ending: "They know what I am"—monkeys recognize lab tech as the one who killed their predecessors. The word "sacrificed" is euphemistic; the story gradually replaces euphemism with reality.
 - **读者视角提示**：sacrificed = 牺牲（euphemism for killed）；algorithm = 算法；code = 代码（X2 的软件）。The X2 creates a collective visual memory across subjects.
 
 > **原句 5:** "They’re all through the feed," he said. "You must have seen them too."
 
 - **中文理解**：「它们遍布 feed。你肯定也看到了。」……「我一直以为人类是唯一知道自己会死的动物。但如果是我们教会了它们呢？」Lab tech 发现 "twin polygons"（hexagons = pairs of eyes/glasses) 在 replay feed 中反复出现——monkeys' brains have learned to recognize the lab tech's glasses as threat (because dead monkeys saw him as killer). "What if we've taught them?" 是 story's philosophical climax.
-- **关键词**：twin polygons / taught them
+- **关键词**：twin polygons / taught them / knew we were going to die
 - **为什么这样写**：The "twin polygons" are hexagons = lab tech's wire-rimmed glasses (two lenses). Monkeys' brains have learned to recognize this shape as threat because dead monkeys saw the lab tech (wearing glasses) before/while being killed. The X2 transfers this visual memory. "What if we've taught them?"—Gregory's thesis: humans have taught animals to know death, through shared suffering. This is the story's horror: not animal suffering itself, but animal awareness of suffering.
 - **读者视角提示**：twin polygons = 双多边形（hexagons = 眼镜镜片形状）；feed = 数据流/视频流；amygdala = 杏仁核（情绪处理）；superior colliculus = 上丘（视觉-情绪通路）。
 
 > **原句 6:** "Carol screamed."
 
 - **中文理解**：Carol 尖叫，扑向 lab tech，咬他的脸。因为 X2 的 shared data，Carol (blind human) sees lab tech through dead monkeys' eyes—as the killer. She attacks him instinctively.
-- **关键词**：screamed / bit him
+- **关键词**：screamed / bit him / X2
 - **为什么这样写**：Carol's attack is the story's climax—shared visual data makes her perceive lab tech as threat. "She'd bit him" parallels animal behavior (Junebug biting). The human/animal boundary collapses: Carol becomes like the monkeys, attacking the killer. Gregory uses physical violence to show the consequence of shared death-memory.
 - **读者视角提示**：X2 = Carol's visual chip (human version of monkey X2); the bite is instinctive, not conscious—Carol doesn't know why she attacked.
 
@@ -96,4 +96,4 @@
 
 ## 一句话总结
 
- 的《》是选集中最 的 ：在神经科技公司，lab （未命名， résumé）负责 X2 视觉芯片实验的 ；随实验加速（ 12→8→4 ，3 →1），动物大量死亡，但 X2 的 机制让 ' （包括 lab 's ） 到 。Lab 通过 发现 （his ）在 中反复出现，意识到 已通过 认识他为 。（）在媒体事件中因 攻击 lab 。Lab 最终打开所有 门锁，让 自由，。核心论点：——人类通过共享苦难教会动物认识死亡；死亡成为数据，苦难成为集体记忆。循环结构（ a → a ）展示从 到 的道德成长。
+Gregory 的《Blind Monkey》是选集中最 visceral 的 science fiction horror：在神经科技公司，lab tech（未命名，lied on résumé）负责 X2 视觉芯片实验的 macaques；随实验加速（training 12→8→4 weeks，3 procedures→1），动物大量死亡，但 X2 的 data transfer 机制让 dead monkeys' visual experience（包括 lab tech's face as killer）forward 到 living ones。Lab tech 通过 replay videos 发现 "twin polygons"（his glasses）在 feed 中反复出现，意识到 monkeys 已通过 shared data 认识他为 killer。Carol Romine（blind human recipient）在媒体事件中因 shared visual memory 攻击 lab tech。Lab tech 最终打开所有 cage 门锁，让 animals 自由，whistleblows data。核心论点："What if we've taught them?"——人类通过共享苦难教会动物认识死亡；死亡成为数据，苦难成为集体记忆。循环结构（ignorance was a gift → knowledge was a gift）展示从 complicity 到 liberation 的道德成长。

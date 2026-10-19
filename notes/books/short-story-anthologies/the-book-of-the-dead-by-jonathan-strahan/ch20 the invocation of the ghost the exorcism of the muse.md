@@ -2,23 +2,23 @@
 
 ## 本章导航
 
-- **一句话概括**： 用 ink-on-- 技术捕捉 . ；Ms. 雇 找 son （250k 美元）； 找到 ；Ms. 发现 son 有 ，愤怒 ，hug ，；; = 's .
+- **一句话概括**：Exorcist artist Woojin (Korean international student at New School) 用 ink-on-rice-paper 技术捕捉 ghost Ms. Young；Ms. Young (dead mother) 雇 Woojin 找 son Yejun（250k 美元）；Woojin 找到 Yejun (Jonathan Yejun Young, MBA at Stern)；Ms. Young 发现 son 有 stepmom，愤怒 possess Woojin，hug Yejun，then release；Woojin burns portrait; "You're dead, Ms. Young" = exorcism's truth.
 
-- **时间**：当代 New 
+- **时间**：当代 New York (Manhattan, LIC, F train)
 
-- **地点**：321 76th ; 's LIC one-; New ; ; 
+- **地点**：321 West 76th Street (haunted apartment); Woojin's LIC one-bedroom; New School (studio, critique); Stern business school; fire escape
 
-- **人物**： ；Ms. ； ； ； 
+- **人物**：Woojin Joo (exorcist artist, Korean international student, brush made of his own hair)；Ms. Young (ghost, dead mother, "quarter million dollars")；Jonathan Yejun Young (son, MBA, stepmom raised him)；Yichen (friend, wealthy, industry-bound)；Johnsons (clients)
 
-- **叙事手法**：- ; ; ink-on--; ; ; ; 
+- **叙事手法**：Third-person limited (Woojin); exorcism as art practice; ink-on-rice-paper ghost capture; ghost possession; "eastern tradition draws corpus in ink, western paints in oil"; "ghosts are notorious liars"; "you could not help ghosts, they were dead and beyond helping"
 
-- **与后文的钩子**： 提到（见原文）。本篇是选集的 -as-art 代表—— 作为 art ; ; 。主题：; vs. 's ; ; 。
+- **与后文的钩子**：Strahan Introduction 提到 "Isabel J. Kim's story of an exorcist who paints ghosts, and the mother who hires him to find her son." 本篇是选集的 exorcism-as-art 代表——death 作为 art medium (ink); ghost as client (not enemy); exorcism as both art and compassion. Theme: death as art; "you could not help ghosts" vs. Woojin's compassion; ghosts as liars; possession as empathy.
 
 ## 精读
 
 > **原句 1:** "The eastern tradition draws the corpus in ink. The western tradition paints the corpus in oil."
 
-- **中文理解**：「The eastern tradition draws the corpus in ink。The western tradition paints the corpus in oil。」Kim 的 — (, ), . "" = /. Ink = , ; oil = , . 's (ink) vs. (oil).
+- **中文理解**：「The eastern tradition draws the corpus in ink。The western tradition paints the corpus in oil。」Kim 的 opening—eastern exorcism uses ink (rice paper, crematory ash), western uses oil paints. "Corpus" = body/corpse. Ink = portable, practical; oil = heavy, aristocratic. This establishes Woojin's medium (ink) vs. western (oil).
 
 - **关键词**：eastern tradition / draws the corpus in ink / western tradition / paints the corpus in oil
 
@@ -109,4 +109,4 @@
 
 ## 一句话总结
 
-Kim 的 是选集中最 art-as- 的 ： 用 ink-on-- 技术捕捉 . ；Ms. 雇 找 son （250k 美元）； 找到 ；Ms. 发现 son 有 ，愤怒 ，hug ，；; = 's . Kim 的 ：—ink ; — ; —; — ; —'s 's . 's . 
+Kim 的 "The Invocation of the Ghost, the Exorcism of the Muse" 是选集中最 art-as-exorcism 的 story：Exorcist artist Woojin (Korean international student at New School) 用 ink-on-rice-paper 技术捕捉 ghost Ms. Young；Ms. Young (dead mother) 雇 Woojin 找 son Yejun（250k 美元）；Woojin 找到 Yejun (Jonathan Yejun Young, MBA at Stern)；Ms. Young 发现 son 有 stepmom，愤怒 possess Woojin，hug Yejun，then release；Woojin burns portrait; "You're dead, Ms. Young" = exorcism's truth. Kim 的 thesis："death as art medium"—ink captures ghost; "ghosts are notorious liars"—ghosts lie (like living); "you could not help ghosts, they were dead and beyond helping"—exorcism ethic; "It had felt so strange to have had Ms. Young inside him"—possession as empathy (understanding through embodiment); "imagining being alive, so briefly, after having been dead"—death's perspective on life's brevity. This is the anthology's "death as art" counterpoint. Theme: death as art medium; exorcism as both art and compassion; ghosts as liars; possession as empathy; "you could not help ghosts" vs. Woojin's compassion. "You're dead, Ms. Young" = exorcism's truth-telling. Death's finality acknowledged with compassion. Life as brief, precious. "He was imagining being alive, so briefly, after having been dead" = death makes life's brevity visible. "She was crying. He was crying." = shared grief across death/life boundary. Art as death's medium; possession as understanding.

@@ -2,23 +2,23 @@
 
 ## 本章导航
 
-- **一句话概括**：áwo 调查 ónẹ́yìn 的 （祖先沉默）； 扩散全球； 自杀； 自己死亡以追踪 到 ，发现 被一个 （）吞噬并转移到其他 —— 是 all 的 ， 是 （）。
+- **一句话概括**：Babaláwo (priest/diviner) Ireti 调查 Bisi Shónẹ́yìn 的 ancestral silence（祖先沉默）；silence 扩散全球；Bisi 自杀；Ireti 自己死亡以追踪 ancestors 到 higher dimensionality，发现 spirits 被一个 living singularity（perpetual god machine）吞噬并转移到其他 universe——spirits 是 all universes 的 building blocks，singularity 是 "Egún Akọkọ"（first ancestor）。
 
-- **时间**：未来 （Ilé-Ifẹ̀）；; Òṣùpá 
+- **时间**：未来 Nigeria（Ilé-Ifẹ̀）；Lunar war veteran Bisi; Òṣùpá Lunar station
 
-- **地点**：Akínmóyèró （76th ）；Ilé-Ifẹ̀ ；Òde-Ìdèpé 
+- **地点**：Akínmóyèró Institute of Spiritual Cosmology（76th floor shrine）；Ilé-Ifẹ̀ metropolis；Òde-Ìdèpé (Bisi's ancestral home)
 
-- **人物**： ；ónẹ́yìn ； ；'s ; 's 
+- **人物**：Ireti (Babaláwo, narrator, infertile, adopted daughter)；Bisi Shónẹ́yìn (Balogun, Lunar war veteran)；Yinka Osuniyi (apprentice, Iyaláwo)；Bisi's ancestors (silent); Ireti's parents (dead 3 days after his birth)
 
-- **叙事手法**：- ; SF ; 1-4; ; 
+- **叙事手法**：First-person (Ireti); SF with Yoruba cosmology (Orun, Egun, ìdáwò, Babaláwo, Charter-like quantum divination); sections numbered 1-4; death as voluntary sacrifice for knowledge; singularity as living portal between universes
 
-- **与后文的钩子**： 提到（见原文）。本篇是选集的 代表—— 作为 ; ; as 。主题：; ; 。
+- **与后文的钩子**：Strahan Introduction 提到 "Wole Talabi's story of a world where ancestral spirits have gone silent, and a diviner who must die to find out why." 本篇是选集的 Africanfuturism 代表——death 作为 interdimensional transfer; spirits as building blocks of all universes; "perpetual god machines" as living portals. Theme: death as transfer not end; "For every call, there is a response" broken; ancestors as universal infrastructure.
 
 ## 精读
 
 > **原句 1:** "For every call, there is a response."
 
-- **中文理解**：「For every call, there is a response。」á 的 —每次 都有 。这是 ìdáwò 的基本假设：
+- **中文理解**：「For every call, there is a response。」Babaláwo 的 ancient words—每次 call 都有 response。这是 ìdáwò 的基本假设：ancestors always respond. Bisi's silence violates this. "For every call, there is a response" = the story's broken promise.
 
 - **关键词**：For every call / there is a response
 
@@ -28,7 +28,7 @@
 
 > **原句 2:** "Spirits are never destroyed; they only change form. Death is nothing more than a transformation of spirit information into higher order dimensions."
 
-- **中文理解**：「Spirits are never destroyed; they only change form。Death is nothing more than a transformation of spirit information into higher order dimensions。」的（与 的）—，。" 的 。，。
+- **中文理解**：「Spirits are never destroyed; they only change form。Death is nothing more than a transformation of spirit information into higher order dimensions。」Ireti 的 (and society 的) belief—spirits conserved, death as transformation not destruction。"Law of conservation of spirits" = Talabi 的 cosmology。Death = information transfer, not destruction。
 
 - **关键词**：Spirits are never destroyed / only change form / Death is nothing more than a transformation / spirit information / higher order dimensions
 
@@ -38,7 +38,7 @@
 
 > **原句 3:** "What if the law is wrong?"
 
-- **中文理解**：「What if the law is wrong?」的 —? ，: ")。 的 的 。
+- **中文理解**：「What if the law is wrong?」Bisi 的 question—what if conservation of spirits is wrong? Ireti dismisses it, but later considers: "perhaps it can be wrong in any given universe while holding true at a higher scale" (multiverse)。Bisi 的 question is the story 的 thesis question。
 
 - **关键词**：What if the law is wrong
 
@@ -48,7 +48,7 @@
 
 > **原句 4:** "I am going to unfold my spirit to higher order dimensionality."
 
-- **中文理解**：「I am going to unfold my spirit to higher order dimensionality。」的 —。"，。"。
+- **中文理解**：「I am going to unfold my spirit to higher order dimensionality。」Ireti 的 plan—die voluntarily to track ancestors。"Unfold" = death as expansion, not ending。"Higher order dimensionality" = afterlife。Ireti sacrifices himself for knowledge。
 
 - **关键词**：unfold my spirit / higher order dimensionality
 
@@ -58,7 +58,7 @@
 
 > **原句 5:** "It was alive. It was conscious. It was growing."
 
-- **中文理解**：「It was alive。It was conscious。It was growing。」的 —。"//)。 的 ：。
+- **中文理解**：「It was alive。It was conscious。It was growing。」Ireti 的 discovery—the singularity is alive, conscious, growing。It consumes spirits。"Alive/conscious/growing" = the singularity is a living entity (perpetual god machine)。This is the story 的 revelation：death's mechanism is alive。
 
 - **关键词**：alive / conscious / growing
 
@@ -68,7 +68,7 @@
 
 > **原句 6:** "perpetual god machines"
 
-- **中文理解**：「perpetual god machines。」的 —。"; "。
+- **中文理解**：「perpetual god machines。」Talabi 的 title concept—singularity as "perpetual god machine," transferring spirits between universes。"Perpetual" = eternal, ongoing; "god machines" = living entities that function as universe-connecting portals。They are "neurons in the mind of the god" that had first existed at the beginning of all things。
 
 - **关键词**：perpetual god machines
 
@@ -110,4 +110,4 @@
 
 ## 一句话总结
 
- 的 是选集中最 的 ：áwo 调查 ónẹ́yìn 的 （祖先沉默）； 扩散全球； 自杀； 自己死亡以追踪 到 ，发现 被一个 （）吞噬并转移到其他 —— 是 all 的 ， 是 （），. 的 ：—; , not . → 's → . = . = , not . 's . 
+Talabi 的 "Perpetual God Machines of the Ancestral Kind" 是选集中最 Africanfuturist 的 story：Babaláwo Ireti 调查 Bisi Shónẹ́yìn 的 ancestral silence（祖先沉默）；silence 扩散全球；Bisi 自杀；Ireti 自己死亡以追踪 ancestors 到 higher dimensionality，发现 spirits 被一个 living singularity（perpetual god machine）吞噬并转移到其他 universe——spirits 是 all universes 的 building blocks，singularity 是 "Egún Akọkọ"（first ancestor），living portals between universes. Talabi 的 thesis："death as interdimensional transfer, not end"—"Death is nothing more than a transformation of spirit information"; "spirits are never destroyed; they only change form" holds at multiverse scale, not individual universe. "For every call, there is a response" breaks (ancestors silenced) → Ireti's sacrifice → discovery of perpetual god machines. "It was alive. It was conscious. It was growing." = singularity as living entity. "Love and hate and wonder... became one" = death as union, not loss. This is the anthology's "death as transfer" counterpoint. Theme: death as interdimensional transfer; ancestors as universal infrastructure; "perpetual god machines" as living portals; union of all spirits. "Egún Akọkọ" = first ancestor = sum of all spirits = god's mind. Death as becoming one with all.

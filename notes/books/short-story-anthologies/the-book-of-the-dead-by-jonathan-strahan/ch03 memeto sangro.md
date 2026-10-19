@@ -2,12 +2,12 @@
 
 ## 本章导航
 
-- **一句话概括**：在 废墟之城，杀手 接受 商人委托刺杀 家族的 （），却在杀死他后被 的 （恶魔）拖入 的冥界；在冥界 中， 通过三眼小狗 获救，醒来后放弃杀手生涯，转而绘制神像残片。
-- **时间**：成年 的杀手生涯（ 任务）；回忆童年（）；冥界经历
-- **地点**：（ 帝国废墟城市，位于 Aro 河畔）；（ 童年）；； 庙宇
-- **人物**：（叙述者，/刺客）；（童年照料者）；（皮条客，）； 的母亲（妓女，死于难产）； 商人（雇主，女儿被 绑架）； / （目标，）；三眼小狗 （守护神）； 的 （恶魔）； 的 （被阉割的男人）
-- **叙事手法**：第一人称杀手独白——从自我介绍到童年创伤到任务执行到冥界经历到救赎；大量 （、sex、）； （、's 、 帝国）
-- **与后文的钩子**：本篇是 对「死亡」的 处理——死亡不是终点，而是 's 中的 （）； 通过 - 获得救赎，放弃 。与 中提到的 对应。主题： 的循环性、、、. 。
+- **一句话概括**：在 Torre Amo 废墟之城，杀手 Izio 接受 Khur 商人委托刺杀 Venaius 家族的 Livo（"the Cat"），却在杀死他后被 Venaius 的 akiz（恶魔）拖入 Scuro 的冥界；在冥界 raft of suffering 中，Izio 通过三眼小狗 charm 获救，醒来后放弃杀手生涯，转而绘制神像残片。
+- **时间**：成年 Izio 的杀手生涯（Torre Amo 任务）；回忆童年（Quartiere Pescana）；冥界经历
+- **地点**：Torre Amo（Amonese 帝国废墟城市，位于 Aro 河畔）；Quartiere Pescana（Izio 童年）；Pagnanopol；Torre Amo 庙宇
+- **人物**：Izio（叙述者，stilettotore/刺客）；Matra Giulia（童年照料者）；Matra Desira（皮条客，whored Izio and his mother）；Izio 的母亲（妓女，死于难产）；Khur 商人（雇主，女儿被 Venaius 绑架）；Livo Arosciinto Venaius / Livo il Gaz（目标，"the Cat"）；三眼小狗 charm（守护神）；Venaius 的 akiz（恶魔）；Izio 的 first kill（被阉割的男人）
+- **叙事手法**：第一人称杀手独白——从自我介绍到童年创伤到任务执行到冥界经历到救赎；大量 sensory detail（blood、sex、violence）； fantasy worldbuilding（Torre Amo、Scuro's Unseen Realms、Amonese 帝国）
+- **与后文的钩子**：本篇是 Bacigalupi 对「死亡」的 fantasy 处理——死亡不是终点，而是 Scuro's Unseen Realms 中的 eternal punishment（raft of suffering）；Izio 通过 three-eyed dog charm 获得救赎，放弃 violence。与 Strahan Introduction 中提到的 "Paolo Bacigalupi's violent assassin tale" 对应。主题：violence 的循环性、childhood trauma、redemption、death as punishment vs. release。
 
 ## 精读
 
@@ -56,7 +56,7 @@
 > **原句 7:** "A raft of human animals, a raft of misery."
 
 - **中文理解**：「一筏人类动物，一筏苦难。……一人动，全动。一人伤一人，全伤全。」Izio 在冥界看到 raft of suffering——lashed-together humans who torture each other endlessly. "When one moves, all move" / "When one wounds one, all wound all" 是 raft 的运作机制——collective punishment.
-- **关键词**：raft of misery
+- **关键词**：raft of misery / When one moves, all move / When one wounds one, all wound all
 - **为什么这样写**：这是 story's central metaphor—violence's cyclical nature. The raft is not hell as external punishment but self-inflicted collective suffering: "This is a suffering of my own making, of all our making. Pain, delivered from one person to the next, to the next, to the next... Our pain binds us to one another, dooms us all to this seething mass of ruination and rage and retribution." Izio recognizes his own violence (as assassin) as part of this cycle. The raft includes his mother, Matra Desira, and his first kill—all victims and perpetrators lashed together.
 - **读者视角提示**：raft of suffering = 苦难之筏（冥界刑罚）；Scuro's realms = 黑暗之神的冥界；akiz = 恶魔。The raft imagery echoes Dante's Inferno (circles of hell) and Buddhist concepts of karma/samsara (cyclic suffering).
 
@@ -103,4 +103,4 @@
 
 ## 一句话总结
 
- 的《》是选集中最 的 ： 从 下的 之子、被 卖身的 ，成长为 ；在 执行 时，发现目标是 （），被拖入 's 的 ——-。 的救赎来自 商人给的 -（变成 ），它拖他出 ，他抛弃 ，醒来后放弃 ，转而绘制神像残片。's : 是 （）， 需要 （the pup）与 （）。与 Das 的《》形成对照：Das 的 是 ， 的 是 .
+Bacigalupi 的《Memeto Sangro》是选集中最 visceral 的 fantasy piece：Izio 从 docks 下的 whore 之子、被 Matra Desira 卖身的 abused child，成长为 professional assassin；在 Torre Amo 执行 Venaius assassination 时，发现目标是 akiz（demon），被拖入 Scuro's Unseen Realms 的 raft of suffering——lashed-together victims and perpetrators who torture each other endlessly。Izio 的救赎来自 Khur 商人给的 three-eyed dog charm（变成 real pup），它拖他出 raft，他抛弃 stiletto，醒来后放弃 violence，转而绘制神像残片。Story's core thesis: violence 是 cycle（"Our pain binds us to one another"），redemption 需要 external grace（the pup）与 internal choice（leaving the stiletto）。与 Das 的《Passengers》形成对照：Das 的 violence 是 teenage moral catastrophe，Bacigalupi 的 violence 是 fantasy epic with supernatural consequences.

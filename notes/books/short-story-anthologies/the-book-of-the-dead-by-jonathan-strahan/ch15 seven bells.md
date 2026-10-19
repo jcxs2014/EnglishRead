@@ -2,23 +2,23 @@
 
 ## 本章导航
 
-- **一句话概括**：'s 来访 （ 的退休医生/）；在 中发现 （埋藏的死灵法器）； 响起杀死 Alf ； 与 护送 到 ，途中 死于 /， 也 ； 与 -in- 到达，用 度化 的 （she , 's ）—— 的 因 （/, ) 's , .
+- **一句话概括**：Ship's engineer Benjamin Minoy 来访 sister Allison（Shrifby 的退休医生/Charter mage）；在 excavation 中发现 necromantic Seven Bells（埋藏的死灵法器）；bell 响起杀死 Alf Jerrow；Allison 与 Benjamin 护送 bells 到 Fort Janne，途中 Allison 死于 cancer/Charter magic exhaustion，Benjamin 也 fatally wounded；Abhorsen (Tizanael) 与 Abhorsen-in-Waiting 到达，用 Charter magic 度化 Allison 的 spirit（she stands in the death river, pulling Benjamin's soul across）——Allison 的 spirit 因 "calling"（healer/midwife, brought hundreds into Life) anchor her against the river's current, allowing her to guide Benjamin across.
 
-- **时间**：/Old ; 
+- **时间**：Ancelstierre/Old Kingdom universe (Nix's Old Kingdom series); "Year of the Two Columns of Granite"
 
-- **地点**： ; ; 
+- **地点**：Shrifby (northernmost village, 22 miles south of Wall); Fort Janne; death river (afterlife)
 
-- **人物**： ; ; Alf ; ; -in- ; 
+- **人物**：Benjamin Minoy (ship's engineer, cancer); Allison Minoy (Dr. Minoy, retired doctor, Charter mage, heart failing); Alf Jerrow (victim of bell); Abhorsen Tizanael (death mage, woman); Abhorsen-in-Waiting (boy, Charter mage); necromancer (implied, drawn to bells)
 
-- **叙事手法**：- → 3-7; Old ; ; 
+- **叙事手法**：Third-person limited (Benjamin) → shifts to Tizanael (Abhorsen) in section 3-7; Old Kingdom series conventions (Charter magic, Free Magic, bells, Abhorsen, Wall); death as river crossing; psychopomp as Abhorsen
 
-- **与后文的钩子**： 提到（见原文）。本篇是选集的 Old 代表—— 作为 ; ; 。主题： ; but /。
+- **与后文的钩子**：Strahan Introduction 提到 "Garth Nix's story of a village near the Wall, where seven necromantic bells are unearthed, and a doctor must confront the Dead." 本篇是选集的 Old Kingdom fantasy 代表——death 作为 river crossing; bells as necromantic tools; Abhorsen as psychopomp. Theme: death as service (healer's calling anchors her); "the river takes the departed swiftly" but love/calling can resist.
 
 ## 精读
 
 > **原句 1:** "Shrifby was the northernmost village of Ancelstierre, only twenty-two miles south of the Wall and the Old Kingdom beyond. Its continued existence was entirely due to its sheltering, swift rivers, barriers against the Dead and other things that might come when the wind blew from the north."
 
-- **中文理解**：「Shrifby was the northernmost village of Ancelstierre, only twenty-two miles south of the Wall and the Old Kingdom beyond。Its continued existence was entirely due to its sheltering, swift rivers, barriers against the Dead and other things that might come when the wind blew from the north。」的地理/战略位置—— 以南 22 英里， 作为 。" 的 :
+- **中文理解**：「Shrifby was the northernmost village of Ancelstierre, only twenty-two miles south of the Wall and the Old Kingdom beyond。Its continued existence was entirely due to its sheltering, swift rivers, barriers against the Dead and other things that might come when the wind blew from the north。」Shrifby 的地理/战略位置——Wall 以南 22 英里，swift rivers 作为 barrier against Dead。"Wind blew from the north" = death incursion 的 trigger. This establishes the story's world: death is geographic (comes from north, across Wall).
 
 - **关键词**：northernmost village / Wall / Old Kingdom / swift rivers / barriers against the Dead / wind blew from the north
 
@@ -28,9 +28,9 @@
 
 > **原句 2:** “A necromancer’s bells,” said Allison. “The warning bell in the village tower tolled as she spoke, as if to lend extra emphasis to her words.”
 
-- **中文理解**：「A necromancer's bells，」。」。」 识别出 为 ——埋藏在 之下（ 作为 ）。"; " (详见 第 456-462 行)
+- **中文理解**：「A necromancer's bells，」said Allison。」The warning bell in the village tower tolled as she spoke, as if to lend extra emphasis to her words。」Allison 识别出 Seven Bells 为 necromantic tools——埋藏在 swift running water 之下（water 作为 barrier against death magic）。One bell sounded = killed Alf Jerrow。"Bound in silver chain" = containment; "buried under swift running water" = water suppresses death magic. (详见 text 第 456-462 行)
 
-- **关键词**：necromancer's bells
+- **关键词**：necromancer's bells / buried under swift running water / one of the bells has sounded / killed Alf Jerrow
 
 - **为什么这样写**：Nix establishes bells as necromantic artifacts—buried under running water (water suppresses death magic). One sounding = death. "Bound in silver chain" = containment (silver = anti-death metal). The bells "seek to sound" (have agency). This is Nix's magic system: death magic can be contained but not destroyed; running water = natural barrier.
 
@@ -38,7 +38,7 @@
 
 > **原句 3:** "Charter magic exacts its toll. I trust you will sleep well, Benjamin."
 
-- **中文理解**：「Charter magic exacts its toll。I trust you will sleep well, Benjamin。」的 （维持她的心跳）——她正在死去。" 消耗生命力量。 用 维持衰竭的心脏；代价是她的生命。这是 的魔法系统： 有代价。
+- **中文理解**：「Charter magic exacts its toll。I trust you will sleep well, Benjamin。」Allison 的 Charter magic（维持她的心跳）exacts toll——她正在死去。"Exacts its toll" = magic 消耗生命力量。Allison 用 Charter magic 维持衰竭的心脏；代价是她的生命。这是 Nix 的魔法系统：magic 有代价。
 
 - **关键词**：Charter magic exacts its toll
 
@@ -48,7 +48,7 @@
 
 > **原句 4:** "The river took the departed swiftly, dragged them down and carried them away, and though she knew Allison was very much imbued with Charter magic, and might delay a little, she had not imagined her spirit could stand against the current so close to Life."
 
-- **中文理解**：「The river took the departed swiftly, dragged them down and carried them away, and though she knew Allison was very much imbued with Charter magic, and might delay a little, she had not imagined her spirit could stand against the current so close to Life。」；； 的 + )。" 的 抵抗跨越，停留在 附近。
+- **中文理解**：「The river took the departed swiftly, dragged them down and carried them away, and though she knew Allison was very much imbued with Charter magic, and might delay a little, she had not imagined her spirit could stand against the current so close to Life。」Death river = afterlife；takes departed swiftly；Allison 的 spirit stands against current (Charter magic + calling)。"So close to Life" = Allison 的 spirit 抵抗跨越，停留在 Life 附近。
 
 - **关键词**：river took the departed swiftly / dragged them down / stand against the current / so close to Life
 
@@ -58,7 +58,7 @@
 
 > **原句 5:** "Her power to remain comes from her calling, all those she brought into Life, they anchor her here. Not arrogance of will, a desire for power, nor fear of the final death."
 
-- **中文理解**：「Her power to remain comes from her calling, all those she brought into Life, they anchor her here。Not arrogance of will, a desire for power, nor fear of the final death。」—/。//。这是 的 ： 的 可以被 / 抵抗。
+- **中文理解**：「Her power to remain comes from her calling, all those she brought into Life, they anchor her here。Not arrogance of will, a desire for power, nor fear of the final death。」Tizanael (Abhorsen) explains Allison's spirit's resistance—her calling (healer/midwife, brought hundreds into Life) anchors her。Not arrogance/power/fear, but service。这是 Nix 的 thesis：death 的 pull 可以被 service/calling 抵抗。
 
 - **关键词**：power to remain / her calling / all those she brought into Life / anchor her here / not arrogance of will
 
@@ -68,7 +68,7 @@
 
 > **原句 6:** "Allison drew him close, and Tizanael let out a tiny gasp of surprise as the man's spirit shrank and changed, and golden light ran from Allison's Charter mark, limning her face, running down her arms and hands, spilling over on to the spirit of Benjamin Minoy."
 
-- **中文理解**：「Allison drew him close, and Tizanael let out a tiny gasp of surprise as the man's spirit shrank and changed, and golden light ran from Allison's Charter mark, limning her face, running down her arms and hands, spilling over on to the spirit of Benjamin Minoy。」—)。" 的 ；" 的 。 的 。
+- **中文理解**：「Allison drew him close, and Tizanael let out a tiny gasp of surprise as the man's spirit shrank and changed, and golden light ran from Allison's Charter mark, limning her face, running down her arms and hands, spilling over on to the spirit of Benjamin Minoy。」Allison guides Benjamin's spirit across—her Charter mark's golden light transforms him (from bear of a man to something smaller, changed)。"Shrank and changed" = death 的 transformation；"golden light" = Charter magic 的 healing。Allison 的 service extends to guiding brother across。
 
 - **关键词**：drew him close / spirit shrank and changed / golden light ran / spilling over on to the spirit
 
@@ -109,4 +109,4 @@
 
 ## 一句话总结
 
-Nix 的 是选集中最 Old 的 ：'s 来访 （ 的退休医生/）；在 中发现 （埋藏的死灵法器）； 响起杀死 Alf ； 与 护送 到 ，途中 死于 /， 也 ； 与 -in- 到达，用 度化 的 （she , 's ）—— 的 因 （/, ) 's , . Nix 的 ：—'s /; but = ; , not . 's . 
+Nix 的 "Seven Bells" 是选集中最 Old Kingdom fantasy 的 story：Ship's engineer Benjamin Minoy 来访 sister Allison（Shrifby 的退休医生/Charter mage）；在 excavation 中发现 necromantic Seven Bells（埋藏的死灵法器）；bell 响起杀死 Alf Jerrow；Allison 与 Benjamin 护送 bells 到 Fort Janne，途中 Allison 死于 cancer/Charter magic exhaustion，Benjamin 也 fatally wounded；Abhorsen (Tizanael) 与 Abhorsen-in-Waiting 到达，用 Charter magic 度化 Allison 的 spirit（she stands in the death river, pulling Benjamin's soul across）——Allison 的 spirit 因 "calling"（healer/midwife, brought hundreds into Life) anchor her against the river's current, allowing her to guide Benjamin across. Nix 的 thesis："death as river crossing; service persists"—Allison's calling as healer/midwife gives her power in death; "the river takes the departed swiftly" but "her power to remain comes from her calling." "Golden light" = Charter magic (life) persists in death; death as transformation, not destruction. This is the anthology's "death as service" counterpoint. Theme: death as service; calling as anchor; life magic in death; transformation not destruction. "Not arrogance of will, a desire for power, nor fear of the final death"—death resisted by purpose, not will.

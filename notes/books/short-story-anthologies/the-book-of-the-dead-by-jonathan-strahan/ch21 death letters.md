@@ -2,23 +2,23 @@
 
 ## 本章导航
 
-- **一句话概括**：—'s ; 's , ; 's ; ; -. : 
+- **一句话概括**：Epistolary story—Ferride (elder sister) writes letters to Naryman (younger brother, diaspora) about eldest brother Amoghi's death in war; family's ancestral revenants (dead labor) disintegrated, forcing them to work; Ferride uses Naryman's blood (from his letter) to create revenants (illegal, diaspora kin do it too); Naryman declared legally dead in absentia; final letter is blood-soaked scrap. Story ends: "Global productivity is the highest it has ever been. We pray at night to till our own fields again."
 
-- **时间**： ; 16 
+- **时间**：fictional island nation (post-revenant era); 16 harvests since parental revenants disintegrated
 
-- **地点**： ; ; 
+- **地点**：island nation (Dale-like?); diaspora (Naryman abroad); Wild Fields (Antea/Roxol wars)
 
-- **人物**： ; ; ; ; Old 
+- **人物**：Ferride (elder sister, narrator of letters); Naryman (younger brother, diaspora, declared dead); Amoghi (eldest brother, killed in war); Duygul (sibling); Old Mukhul (postman)
 
-- **叙事手法**：; ; as ; ; 
+- **叙事手法**：Epistolary (letters) with scholarly commentary between letters; frame narrative (academic analysis of letters); "Death Letters" as title; five letters (first paper, second calendar backs, third photos, fourth book margins, fifth blood-soaked scrap); undead labor economy
 
-- **与后文的钩子**： 提到（见原文）。本篇是选集的 /- 代表—— 作为 ; = 。主题：; ; = 。
+- **与后文的钩子**：Strahan Introduction 提到 "Vajra Chandrasekera's epistolary story of a family whose dead labor has failed, and the letters they write about it." 本篇是选集的 epistolary/undead-labor 代表——death 作为 economic resource (revenants as labor); "Death Letters" = letters about death (Amoghi's) and letters that are death (blood-soaked final letter). Theme: death as labor; revenants as exploited workers; "we pray at night to till our own fields again" = liberation from undead labor.
 
 ## 精读
 
 > **原句 1:** "I have terrible news. Our beloved eldest brother Amoghi has been killed in the war and his blood has been lost to us. More soon."
 
-- **中文理解**：「I have terrible news。Our beloved eldest brother Amoghi has been killed in the war and his blood has been lost to us。More soon。」 的 — 死于 war，"his " = ( = ). "" = .
+- **中文理解**：「I have terrible news。Our beloved eldest brother Amoghi has been killed in the war and his blood has been lost to us。More soon。」Ferride 的 first letter—Amoghi 死于 war，"his blood has been lost to us" = death as loss of labor resource (blood = revenant creation material). "More soon" = promise of details.
 
 - **关键词**：terrible news / Amoghi has been killed / his blood has been lost to us / More soon
 
@@ -99,4 +99,4 @@
 
 ## 一句话总结
 
- 的 是选集中最 的 -：'s ; 's , ; 's ; ; -. 的 ：— = ; = = → ; = . . = . = . = 's . 's . 
+Chandrasekera 的 "Death Letters" 是选集中最 epistolary 的 undead-labor story：Ferride (elder sister) writes letters to Naryman (younger brother, diaspora) about eldest brother Amoghi's death in war; family's ancestral revenants (dead labor) disintegrated, forcing them to work; Ferride uses Naryman's blood (from his letter) to create revenants (illegal, diaspora kin do it too); Naryman declared legally dead in absentia; final letter is blood-soaked scrap. Chandrasekera 的 thesis："death as labor resource"—"his blood has been lost to us" = death as loss of labor material; "Revenants are the perfect workers" = capitalist fantasy (obedient, silent, tireless, free) but "idle revenants wander and get into trouble" = labor without purpose → trouble; "Global productivity is the highest it has ever been. We pray at night to till our own fields again." = capitalist productivity vs. human labor. "Dead in absentia" = legal death for labor extraction. Revenants = exploited labor (dead raised to work). "Parental revenants disintegrated" = undead labor's temporality. This is the anthology's "death as labor" counterpoint. Theme: death as economic resource; revenants as exploited workers; "we pray at night to till our own fields again" = liberation from undead labor. Death Letters = letters about death (Amoghi's) and letters that are death (blood-soaked final letter). The final scrap of blood-soaked paper = death's letter, unreadable, dangerous. Death as both subject and medium.

@@ -2,17 +2,17 @@
 
 ## 本章导航
 
-- **一句话概括**：Lee ; he , , 's car; ; . ; fog as ; 
+- **一句话概括**：Lee Evenson Brown (abusive father/husband) trapped on interstate in fog with passengers (mother, daughter Andrea, ex-wife Cindie) who are dead; he encounters accident scene (his own body), argues with ghosts of family, pays toll for stranger's car; "Somebody paid for you" (someone paid his toll); exits to turnpike toward home. Death as interstate journey; fog as purgatory; "Somewhere ahead of him, miles away, was the exit where he would turn off for home."
 
-- **时间**：当代（, fog, ）
+- **时间**：当代（interstate, fog, endless drive）
 
-- **地点**： ; ; 
+- **地点**：interstate (fog, traffic jam); toll plaza; turnpike
 
-- **人物**：Lee ； ； ； ; ； H. ； + son 
+- **人物**：Lee Evenson Brown (narrator, abusive father/husband, dead)；Cindie (ex-wife, dead)；Andrea (daughter, dead, drummer)；mother (dead); father (dead, abusive, alcoholic)；Karen H. (toll collector)；stranger mother + son (in Camry)
 
-- **叙事手法**：- ; ; fog as ; (20→97); = 's ; = 's 
+- **叙事手法**：Third-person (Lee) with ghost passengers (Cindie, Andrea, mother, father); death as interstate journey; fog as purgatory; clock counting up (20→97); "Somebody paid for you" = someone paid Lee's toll (redemption?); exits to turnpike toward home = death's resolution
 
-- **与后文的钩子**： 提到 本篇是选集的 代表—— 作为 ; fog as ; = ' . 
+- **与后文的钩子**：Strahan Introduction 提到 "E. Lily Yu's story of a man driving down an interstate in the fog, with passengers who aren't really there." 本篇是选集的 purgatory 代表——death 作为 interstate journey; fog as purgatory; "Somebody paid for you" = redemption through others' payment. Theme: death as journey; family as ghosts; "Somewhere ahead of him, miles away, was the exit where he would turn off for home" = death's resolution.
 
 ## 精读
 
@@ -109,4 +109,4 @@
 
 ## 一句话总结
 
-Yu 的 是选集中最 - 的 ：Lee ; he , , 's car; ; . Yu 的 ：— = 's ; = ; = ; = , ; = ; = 's . 's . 
+Yu 的 "Down the Interstate" 是选集中最 purgatory-journey 的 story：Lee Evenson Brown (abusive father/husband) trapped on interstate in fog with passengers (mother, daughter Andrea, ex-wife Cindie) who are dead; he encounters accident scene (his own body), argues with ghosts of family, pays toll for stranger's car; "Somebody paid for you" (someone paid his toll); exits to turnpike toward home. Yu 的 thesis："death as interstate journey"—"clock showed 20" = death's timelessness; "He was alone" = realization (ghost passengers = projections); "Can anyone?" = despair (no one can leave); "Fail and get on with it" = universal failure, continue; "Somebody paid for you" = redemption (grace received, not earned); "Somewhere ahead... exit... home" = death's resolution (hope exists). This is the anthology's "death as purgatory journey" counterpoint. Theme: death as interstate journey; fog as purgatory; family as ghosts; "Somebody paid for you" = redemption; "Somewhere ahead... exit... home" = death's resolution. Lee's journey: from hostility (flipping bird at fog) to acceptance (paying toll for stranger) to hope (exit toward home). Death as journey with exit, not trap. "Can anyone?" = despair answered by "Somewhere ahead... exit... home" = hope. Grace received (someone paid for him) not earned. Death as journey, not destination. "Somewhere ahead of him, miles away, was the exit where he would turn off for home." = final hope. Death's resolution exists, ahead.

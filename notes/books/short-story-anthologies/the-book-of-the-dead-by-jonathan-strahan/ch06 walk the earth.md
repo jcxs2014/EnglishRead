@@ -2,17 +2,17 @@
 
 ## 本章导航
 
-- **一句话概括**：作家 Stu 死后在天堂无聊，被天使 送回地球（）与狗 一起；Stu 偷 SUV 去找活着的妻子 Ivy， 帮他们躲避上帝的惩罚，但最终被上帝发现，Stu 与 被发配 ；最终 Ivy 死后找到他们，三人重聚在 的山中花园，Stu 继续写作。
+- **一句话概括**：作家 Stu 死后在天堂无聊，被天使 Athenial 送回地球（Wyoming）与狗 Bidi 一起"lay low"；Stu 偷 SUV 去找活着的妻子 Ivy，angel Athenial 帮他们躲避上帝的惩罚，但最终被上帝发现，Stu 与 Bidi 被发配 Purgatory；最终 Ivy 死后找到他们，三人重聚在 Purgatory 的山中花园，Stu 继续写作。
 
-- **时间**：Stu 死后（）→ 被送回地球（）→ → （）
+- **时间**：Stu 死后（heaven）→ 被送回地球（Wyoming）→ road trip to Ohio → Purgatory（eternity）
 
-- **地点**：（）；, （）；（Stu's old ）；；（）
+- **地点**：Heaven（Celestial City）；Thermopolis, Wyoming（Best Western）；Ohio（Stu's old house）；Lava Lake；Purgatory（snowy mountain）
 
-- **人物**：Stu（作家，叙述者）；（，能说话）；（，28 ）；Ivy（Stu's ，）；（Ivy's new ）；（）； A. （）；（）；God/（）
+- **人物**：Stu（作家，叙述者）；Bidi（brindle pit bull，能说话）；Athenial（angel，28 angels of Mansions of the Moon）；Ivy（Stu's wife，alive then dead）；Herb（Ivy's new companion）；Carol Romine（referenced）；George A. Romero（referenced）；Alberto（referenced）；God/Almighty（offstage）
 
-- **叙事手法**：第三人称有限视角 ；/；（, , ）；（Stu is a , in ）；
+- **叙事手法**：第三人称有限视角 (Stu) with comic tone；fantasy/comedy；afterlife as bureaucratic system（heaven has tech problems, hell has overcrowding, purgatory has hunting）；metafictional elements（Stu is a writer, "new stories were pointless" in heaven）；Romero quote frames the premise
 
-- **与后文的钩子**： 提到 本篇是选集的 / 代表—— 作为 ， 有 。
+- **与后文的钩子**：Strahan Introduction 提到 "Jeffrey Ford's gentle posthumous fantasy about a chance to visit a lost love." 本篇是选集的 comedy/fantasy 代表——death 作为 bureaucratic inconvenience，afterlife 有 politics and logistics。Theme: love transcends death (Ivy finds Stu in Purgatory), but "every soul's afterlife exists in their own image."
 
 ## 精读
 
@@ -102,4 +102,4 @@
 
 ## 一句话总结
 
- 的 是选集中最温暖的 /：Stu 死后在天堂发现"新故事无意义"的困境——作家 被 中性化； 的僵尸名言被 重新诠释为 的 ； 的 （no , ） 传统 ； 的 （从 偷时间）是 ；最终 Ivy 死后在 找到 Stu，-。 的 ：—, not ; ; . The . 's .
+Ford 的 "Walk the Earth" 是选集中最温暖的 comedy/fantasy：Stu 死后在天堂发现"新故事无意义"的困境——作家 identity 被 afterlife 中性化；Romero 的僵尸名言被 Ford 重新诠释为 afterlife overcrowding 的 comic problem；heaven 的 body policy（no fresh body, just your same flawed self） undercut 传统 afterlife fantasy；angel Athenial 的 time theft（从 moon orbit 偷时间）是 enabling mechanism；最终 Ivy 死后在 Purgatory 找到 Stu，three-person reunion in snowy mountain garden。Ford 的 thesis："Every soul's afterlife exists in their own image"—afterlife is personalized, not standardized; identity persists beyond death; imperfection is the point. The ending suggests Purgatory (personalized, creative) is actually better than heaven (bureaucratic, static). This is the anthology's "death as bureaucratic inconvenience" counterpoint to the darker pieces.
