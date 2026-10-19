@@ -18,7 +18,7 @@
 
 > **原句 1:** "Death is easy, but dying is the hardest thing in the world."
 
-- **中文理解**：「Death is easy, but dying is the hardest thing in the world。」Opening—death (state) is easy; dying (process) is hard. This is the story's thesis: death itself is simple, but the dying (and grieving) is hard. "Hardest thing in the world" = universal human struggle.
+- **中文理解**：「Death is easy, but dying is the hardest thing in the world。」 （本块引语分析见上）
 
 - **关键词**：Death is easy / dying is the hardest thing
 
@@ -28,7 +28,7 @@
 
 > **原句 2:** "Grief is all the love that remains which we don't know what to do with."
 
-- **中文理解**：「Grief is all the love that remains which we don't know what to do with。」Jude's explanation—grief = unspent love. "Remains" = love that survives death; "don't know what to do with" = grief as love without outlet. This is the story's thesis: grief is love, not loss.
+- **中文理解**：「Grief is all the love that remains which we don't know what to do with。」 （本块引语分析见上）
 
 - **关键词**：Grief is all the love that remains / don't know what to do with
 
@@ -38,7 +38,7 @@
 
 > **原句 3:** "Grief feels like fear."
 
-- **中文理解**：「Grief feels like fear。」Lucy's observation—grief and fear feel similar. "Feels like" = phenomenological similarity. Grief's physical sensation = fear's. This connects to Lucy's mortuary childhood (fear of dead) and Jude's possession (fear).
+- **中文理解**：「Grief feels like fear。」 （本块引语分析见上）
 
 - **关键词**：Grief feels like fear
 
@@ -48,7 +48,7 @@
 
 > **原句 4:** "Death, not sex, is the last taboo."
 
-- **中文理解**：「Death, not sex, is the last taboo。」Lucy's observation—death (not sex) is society's last taboo. "Last taboo" = the thing we can't talk about. Sex is discussable; death is not. This is the story's social critique: we avoid death (hide it in mortuaries, don't grieve publicly).
+- **中文理解**：「Death, not sex, is the last taboo。」 （本块引语分析见上）
 
 - **关键词**：Death, not sex, is the last taboo
 
@@ -58,7 +58,7 @@
 
 > **原句 5:** "The dying flock to us."
 
-- **中文理解**：「The dying flock to us。」Jude's description of Varanasi—dying people flock to keepers of the dead. "Flock" = bird imagery (souls as birds). "Us" = keepers (Jude's kind). This establishes Jude's vocation: he's a keeper, dying flock to him.
+- **中文理解**：「The dying flock to us。」 （本块引语分析见上）
 
 - **关键词**：The dying flock to us
 
@@ -68,7 +68,7 @@
 
 > **原句 6:** "I've brought Varanasi to you."
 
-- **中文理解**：「I've brought Varanasi to you。」Jude's final words—brings Varanasi (holy city, death's destination) to Lucy. "Brought Varanasi to you" = Jude gives Lucy access to death/afterlife (communication with dead). This is the story's gift: Lucy can now talk to dead (like Jude).
+- **中文理解**：「I've brought Varanasi to you。」 （本块引语分析见上）
 
 - **关键词**：I've brought Varanasi to you
 

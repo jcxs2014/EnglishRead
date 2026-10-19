@@ -18,7 +18,7 @@
 
 > **原句 1:** "The car’s clock showed 20, whatever that meant. It had shown 20 for a while now."
 
-- **中文理解**：「The car's clock showed 20, whatever that meant。It had shown 20 for a while now。」Lee trapped on interstate—clock stuck at 20 (timeless purgatory). "Whatever that meant" = time's meaninglessness in death. Clock later ticks up (64, 81, 97) = time passing in death's journey.
+- **中文理解**：「The car's clock showed 20, whatever that meant。It had shown 20 for a while now。」 （本块引语分析见上）
 
 - **关键词**：clock showed 20 / whatever that meant / shown 20 for a while now
 
@@ -28,7 +28,7 @@
 
 > **原句 2:** "He was alone. The interstate stretched endlessly before him"
 
-- **中文理解**：「He was alone。The interstate stretched endlessly before him。」Lee's realization—ghost passengers (Cindie, Andrea, mother, father) were not real; he's alone. "Interstate stretched endlessly" = death's journey without end. But then: "Somewhere ahead of him, miles away, was the exit where he would turn off for home." = death's resolution exists.
+- **中文理解**：「He was alone。The interstate stretched endlessly before him。」 （本块引语分析见上）
 
 - **关键词**：He was alone / interstate stretched endlessly before him
 
@@ -38,7 +38,7 @@
 
 > **原句 3:** "Can anyone?"
 
-- **中文理解**：「Can anyone?」Stranger mother's question—can anyone get out of this interstate/purgatory? Lee asks "You can't get him to—he can't get out?" (about her son). She replies "Can anyone?" = no one can leave. This is the story's central question: can anyone escape death's interstate?
+- **中文理解**：「Can anyone?」 （本块引语分析见上）
 
 - **关键词**：Can anyone?
 
@@ -48,7 +48,7 @@
 
 > **原句 4:** "Fail and get on with it."
 
-- **中文理解**：「Fail and get on with it。」Lee's mother's advice—everyone fails (father, Lee himself); "get on with it" = continue despite failure. "Fail and get on with it" = death's acceptance—everyone fails, continue. This is the story's thesis: failure is universal; continue anyway.
+- **中文理解**：「Fail and get on with it。」 （本块引语分析见上）
 
 - **关键词**：Fail and get on with it
 
@@ -58,7 +58,7 @@
 
 > **原句 5:** "Somebody paid for you."
 
-- **中文理解**：「Somebody paid for you。」Toll collector's statement—someone paid Lee's toll. Lee didn't pay (he paid for stranger's car). "Somebody paid for you" = redemption—someone (God? deceased? Cindie?) paid Lee's way. This is the story's grace moment—Lee receives unearned payment.
+- **中文理解**：「Somebody paid for you。」 （本块引语分析见上）
 
 - **关键词**：Somebody paid for you
 
@@ -68,7 +68,7 @@
 
 > **原句 6:** "Somewhere ahead of him, miles away, was the exit where he would turn off for home."
 
-- **中文理解**：「Somewhere ahead of him, miles away, was the exit where he would turn off for home。」Final line—Lee knows where he's going: exit to home. "Somewhere ahead" = hope exists; "miles away" = distance; "turn off for home" = death's resolution (home). This is the story's ending—death's journey has exit.
+- **中文理解**：「Somewhere ahead of him, miles away, was the exit where he would turn off for home。」 （本块引语分析见上）
 
 - **关键词**：Somewhere ahead of him / miles away / exit where he would turn off for home
 

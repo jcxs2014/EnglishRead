@@ -58,7 +58,7 @@
 
 > **原句 5:** "Like falling asleep and then you wake up."
 
-- **中文理解**：「What's it like, dying? ... Like falling asleep and then you wake up. And? That's it。」Walker father's description of death—simple, unremarkable, no drama. "Like falling asleep" = death as transition, not event. "That's it" = no afterlife theology, just... continuation. This contradicts narrator's theology (heaven/hell) and confirms Eudoxia's (death as transformation).
+- **中文理解**：「What's it like, dying? ... Like falling asleep and then you wake up. And? That's it。」Walker father 的 death 描述——simple, unremarkable, no drama。"Like falling asleep" = 死亡作为过渡，而非事件。"That's it" = 没有来世神学，只是……继续。这与叙述者的神学（天堂/地狱）矛盾，确认了 Eudoxia 的（死亡作为转化）。
 
 - **关键词**：Like falling asleep / and then you wake up
 

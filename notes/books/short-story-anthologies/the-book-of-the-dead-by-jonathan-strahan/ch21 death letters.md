@@ -18,7 +18,7 @@
 
 > **原句 1:** "I have terrible news. Our beloved eldest brother Amoghi has been killed in the war and his blood has been lost to us. More soon."
 
-- **中文理解**：「I have terrible news。Our beloved eldest brother Amoghi has been killed in the war and his blood has been lost to us。More soon。」Ferride 的 first letter—Amoghi 死于 war，"his blood has been lost to us" = death as loss of labor resource (blood = revenant creation material). "More soon" = promise of details.
+- **中文理解**：「I have terrible news。Our beloved eldest brother Amoghi has been killed in the war and his blood has been lost to us。More soon。」 的 — 死于 war，"his " = ( = ). "" = .
 
 - **关键词**：terrible news / Amoghi has been killed / his blood has been lost to us / More soon
 
@@ -28,7 +28,7 @@
 
 > **原句 2:** "harvests since our parental revenants disintegrated and the fields first became untended."
 
-- **中文理解**：「harvests since our parental revenants disintegrated and the fields first became untended。」Family's parental revenants (dead parents raised as labor) disintegrated—after 16 harvests, dead labor failed. "Fields first became untended" = loss of undead labor → fields untended. This is the story's premise: death's labor is temporary; revenants decay.
+- **中文理解**：「harvests since our parental revenants disintegrated and the fields first became untended。」 （本块引语分析见上）
 
 - **关键词**：parental revenants disintegrated / fields first became untended
 
@@ -38,7 +38,7 @@
 
 > **原句 3:** "You have now formally been declared dead in absentia."
 
-- **中文理解**：「You have now formally been declared dead in absentia。」Ferride uses Naryman's blood (from his letter) to create revenants; magistrate accepts petition; Naryman declared legally dead. "Dead in absentia" = legal death without actual death. This is the story's horror: living people declared dead for labor extraction.
+- **中文理解**：「You have now formally been declared dead in absentia。」 （本块引语分析见上）
 
 - **关键词**：declared dead in absentia
 
@@ -48,7 +48,7 @@
 
 > **原句 4:** "Revenants are the perfect workers—they are completely obedient to their callers, hardly speak, never tire, and require no pay"
 
-- **中文理解**：「Revenants are the perfect workers—they are completely obedient to their callers, hardly speak, never tire, and require no pay。」Ferride's description—revenants as perfect labor: obedient, silent, tireless, unpaid. "Perfect workers" = capitalist dream. But "idle revenants have a tendency to wander and get into trouble" = undead labor's problem (idleness → trouble).
+- **中文理解**：「Revenants are the perfect workers—they are completely obedient to their callers, hardly speak, never tire, and require no pay。」 （本块引语分析见上）
 
 - **关键词**：perfect workers / completely obedient / hardly speak / never tire / require no pay
 
@@ -58,7 +58,7 @@
 
 > **原句 5:** "Global productivity is the highest it has ever been. We pray at night to till our own fields again."
 
-- **中文理解**：「Global productivity is the highest it has ever been。We pray at night to till our own fields again。」Final line—global productivity (from undead labor) is highest ever, but people pray to till own fields again. "Pray at night" = desperate hope; "till our own fields again" = liberation from undead labor. The final blood-soaked scrap = death (blood) as end of letter sequence.
+- **中文理解**：「Global productivity is the highest it has ever been。We pray at night to till our own fields again。」 （本块引语分析见上）
 
 - **关键词**：Global productivity is the highest it has ever been / We pray at night to till our own fields again
 

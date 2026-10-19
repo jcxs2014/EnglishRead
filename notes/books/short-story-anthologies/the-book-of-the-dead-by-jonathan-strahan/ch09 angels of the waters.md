@@ -58,7 +58,7 @@
 
 > **原句 5:** "They did not hear the echoes change when the city began to drown."
 
-- **中文理解**：「They did not hear the echoes change when the city began to drown。」New Yorkers didn't hear the acoustic change as city flooded—human perceptual limitation. "Echoes change" = sound/infrastructure degradation; "began to drown" = climate change's slow onset. Humans are oblivious to gradual catastrophe.
+- **中文理解**：「They did not hear the echoes change when the city began to drown。」纽约人没有听到城市被洪水淹没时声学的变化——人类感知的局限。"Echoes change" = 声音/基础设施退化；"began to drown" = 气候变化的缓慢发作。人类对渐进性灾难无动于衷。
 
 - **关键词**：echoes change / city began to drown
 
@@ -68,7 +68,7 @@
 
 > **原句 6:** "It's not easy for a vampire to die by suicide, but Johnny managed."
 
-- **中文理解**：「It's not easy for a vampire to die by suicide, but Johnny managed。」Johnny's second death—vampire suicide is difficult (immortals don't easily die), but Johnny found a way. "Managed" = grim accomplishment. His death is response to city's destruction—can't bear watching his creation drown.
+- **中文理解**：「It's not easy for a vampire to die by suicide, but Johnny managed。」Johnny 的第二次死亡——吸血鬼自杀很难（永生者不易死），但 Johnny 找到了方法。"Managed" = 令人沮丧的成就。他的死亡是对城市毁灭的回应——无法忍受看着自己创造的城市被淹没。
 
 - **关键词**：not easy for a vampire to die by suicide / Johnny managed
 
@@ -78,7 +78,7 @@
 
 > **原句 7:** "I guess I won't be free of this statue for a long time. Bronze is a durable metal. I can't hear Johnny anymore, but I miss him."
 
-- **中文理解**：「I guess I won't be free of this statue for a long time。Bronze is a durable metal。I can't hear Johnny anymore, but I miss him。」Charlotte's final state—trapped in bronze, can't hear Johnny (city drowned), but misses him. "Durable metal" = immortality as prison. "Can't hear Johnny" = connection severed by city's destruction.
+- **中文理解**：「I guess I won't be free of this statue for a long time。Bronze is a durable metal。I can't hear Johnny anymore, but I miss him。」Charlotte 的最终状态——被困在青铜中，听不到 Johnny（城市被淹），但想念他。"Durable metal" = 永生作为监狱。"Can't hear Johnny" = 连接被城市毁灭切断。
 
 - **关键词**：free of this statue / durable metal / can't hear Johnny / miss him
 

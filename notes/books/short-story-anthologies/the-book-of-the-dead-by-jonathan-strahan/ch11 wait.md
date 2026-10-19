@@ -58,7 +58,7 @@
 
 > **原句 5:** "Forty is a good run."
 
-- **中文理解**：「Forty is a good run。」Antigone's refrain—40 years as "good run," repeated. "Good run" = life as race/performance; 40 as sufficient. She says it to herself, to Vera, to companion—repetition = self-conviction attempt.
+- **中文理解**：「Forty is a good run。」Antigone 的 refrain——40 年作为 "good run"，反复出现。"Good run" = 生命作为比赛/表演；40 为 sufficient。她对自己说，对 Vera 说，对 companion 说——repetition = self-conviction attempt。
 
 - **关键词**：Forty is a good run
 
@@ -68,7 +68,7 @@
 
 > **原句 6:** "The cold could wait."
 
-- **中文理解**：「The cold could wait。」Antigone's final decision—drowning/death ("cold") can wait. She chooses to live: "Tomorrow, maybe... It'll wait." The cold = death (water, drowning); "could wait" = postponement, not rejection. She doesn't reject death, just delays it.
+- **中文理解**：「The cold could wait。」Antigone 的最终决定——drowning/death ("cold") 可以等待。她选择活下去："Tomorrow, maybe... It'll wait." The cold = death (water, drowning)；"could wait" = postponement, not rejection。她不拒绝死亡，只是延迟它。
 
 - **关键词**：The cold could wait
 

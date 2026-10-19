@@ -28,7 +28,7 @@
 
 > **原句 2:** "You cannot cut water; we think he still tried. The scabbard on his belt was empty. His hand clutched a knife."
 
-- **中文理解**：「You cannot cut water; we think he still tried。The scabbard on his belt was empty。His hand clutched a knife。」Bartram tried to fight the water with a knife—futile. "Cannot cut water" = water's invulnerability; Bartram's violence (sword/knife) useless against water. Empty scabbard = he drew the knife.
+- **中文理解**：「You cannot cut water; we think he still tried。The scabbard on his belt was empty。His hand clutched a knife。」Bartram 试图用刀与水搏斗——徒劳。"Cannot cut water" = 水的不可战胜性；Bartram 的暴力（剑/刀）对水无用。Empty scabbard = 他拔出了刀。
 
 - **关键词**：cannot cut water / scabbard empty / hand clutched a knife
 
@@ -38,7 +38,7 @@
 
 > **原句 3:** "I am not the torturer; I only deliver souls to the torturers."
 
-- **中文理解**：「I am not the torturer; I only deliver souls to the torturers。」Death psychopomp's self-description—she (female, rides black fox) is escort, not punisher. "Only deliver" = her role is transport, not judgment. Torturers are elsewhere (afterlife).
+- **中文理解**：「I am not the torturer; I only deliver souls to the torturers。」Death psychopomp 的自我描述——她（女性，骑黑狐）是护送者，非惩罚者。"Only deliver" = 她的角色是运输，非审判。Torturers 在别处（afterlife）。
 
 - **关键词**：not the torturer / only deliver souls / torturers
 
@@ -48,7 +48,7 @@
 
 > **原句 4:** “You can carry none of that where we are going,” I replied. “Only what you had within you: your learning, your memory. Your love and your grief.”
 
-- **中文理解**：「You can carry none of that where we are going。Only what you had within you: your learning, your memory。Your love and your grief。」Death to Bartram—material possessions (house, carpets, crystal chandelier, gold) can't cross; only internal things (learning, memory, love, grief) survive. "Love and grief" = the only things that matter.
+- **中文理解**：「You can carry none of that where we are going。Only what you had within you: your learning, your memory。Your love and your grief。」Death 对 Bartram——物质财产（房屋、地毯、水晶吊灯、黄金）无法跨越；只有内部之物（学习、记忆、爱、悲伤）存活。"Love and grief" = 唯一重要的东西。
 
 - **关键词**：carry none of that / only what you had within you / learning, memory, love, grief
 
@@ -58,7 +58,7 @@
 
 > **原句 5:** "I hope so. I damn myself by saying so. But I ache with hope—I feel it within myself like a cramp."
 
-- **中文理解**：「I hope so。I damn myself by saying so。But I ache with hope—I feel it within myself like a cramp。」Judeth hopes Philippa killed their father—hopes for revenge. "Damn myself by saying so" = acknowledging the sin of hoping. "Ache with hope like a cramp" = hope as physical pain.
+- **中文理解**：「I hope so。I damn myself by saying so。But I ache with hope—I feel it within myself like a cramp。」Judeth 希望 Philippa 杀了父亲——希望复仇。"Damn myself by saying so" = 承认希望的罪。"Ache with hope like a cramp" = 希望作为身体疼痛。
 
 - **关键词**：I hope so / damn myself / ache with hope / like a cramp
 
@@ -68,7 +68,7 @@
 
 > **原句 6:** "Tears to wash the world in which I now live. The beautiful world. Or the world I can now see to be beautiful."
 
-- **中文理解**：「Tears to wash the world in which I now live。The beautiful world。Or the world I can now see to be beautiful。」Judeth's final tears—relief, freedom, seeing beauty. "Wash the world" = tears as cleansing. "Beautiful world" = world without father. "Can now see to be beautiful" = perception changed by his death.
+- **中文理解**：「Tears to wash the world in which I now live。The beautiful world。Or the world I can now see to be beautiful。」Judeth 的最终泪水——解脱、自由、看见美。"Wash the world" = 泪水作为清洗。"Beautiful world" = 没有父亲的世界。"Can now see to be beautiful" = 感知因他的死亡而改变。
 
 - **关键词**：tears to wash the world / beautiful world / can now see to be beautiful
 

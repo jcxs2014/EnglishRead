@@ -18,7 +18,7 @@
 
 > **原句 1:** "People really didn’t know how to deal with death, especially if they started weighing who had it worse."
 
-- **中文理解**：「People really didn't know how to deal with death, especially if they started weighing who had it worse。」叙述者对 drummer 说 "my parents died" 后的反应——"Wow, that's really, yeah." People don't know how to deal with death; they start "weighing" (comparing) grief. "Who had it worse" = grief Olympics.
+- **中文理解**：「People really didn't know how to deal with death, especially if they started weighing who had it worse。」叙述者对 说 "" 后的反应——"; 。"。
 
 - **关键词**：didn't know how to deal with death / weighing who had it worse
 
@@ -28,7 +28,7 @@
 
 > **原句 2:** "It wasn’t quick at all. It didn’t seem painless. It was a slow, devouring excavation."
 
-- **中文理解**：「It wasn't quick at all。It didn't seem painless。It was a slow, devouring excavation。」叙述者目睹 Aya 吃 vocalist—slow, painful, devouring. "Devouring excavation" = Aya's eating as archaeological dig—slow, methodical, consuming. Not quick, not painless.
+- **中文理解**：「It wasn't quick at all。It didn't seem painless。It was a slow, devouring excavation。」叙述者目睹 吃 —。"—。
 
 - **关键词**：wasn't quick / didn't seem painless / slow, devouring excavation
 
@@ -38,7 +38,7 @@
 
 > **原句 3:** "I think he was eaten."
 
-- **中文理解**：「I think he was eaten。」叙述者对 drummer 说 vocalist "was eaten"—casual, matter-of-fact. "Eaten" = death by predation (Aya). Narrator's certainty: "sixty percent sure" → "seventy-five." She knows Aya eats people.
+- **中文理解**：「I think he was eaten。」叙述者对 说 "—。")。: "" → "。
 
 - **关键词**：I think he was eaten
 
@@ -48,7 +48,7 @@
 
 > **原句 4:** "Rinko thinks a person disappears for a reason"
 
-- **中文理解**：「Rinko thinks a person disappears for a reason。」Rinko's belief—disappearance has meaning/purpose (fate). Narrator: "I don't know about that. I think it's luck." Aya: "Bad luck." Narrator: "Some people deserve it."—hinting vocalist deserved to be eaten.
+- **中文理解**：「Rinko thinks a person disappears for a reason。」 （本块引语分析见上）
 
 - **关键词**：Rinko thinks a person disappears for a reason
 
@@ -58,7 +58,7 @@
 
 > **原句 5:** "Aya wanted me to live."
 
-- **中文理解**：「Aya wanted me to live。」Narrator's realization—Aya (predator) wants narrator to live. "Wanted me to live" = Aya's protection/predation? Aya feeds narrator (softcream, chocolate), watches out for her. "Wanted me to live" = Aya sees narrator as... prey? or friend?
+- **中文理解**：「Aya wanted me to live。」 （本块引语分析见上）
 
 - **关键词**：Aya wanted me to live
 
@@ -68,7 +68,7 @@
 
 > **原句 6:** "I loved my Kyogei professor who said I surprised her."
 
-- **中文理解**：「I loved my Kyogei professor who said I surprised her。」Narrator's final love list—things she loves, including professor, parents' notes, dog, Rinko, Aya. "Surprised her" = professor's validation. This is narrator's love list—affirmation of life despite death/predation.
+- **中文理解**：「I loved my Kyogei professor who said I surprised her。」 （本块引语分析见上）
 
 - **关键词**：I loved my Kyogei professor who said I surprised her
 

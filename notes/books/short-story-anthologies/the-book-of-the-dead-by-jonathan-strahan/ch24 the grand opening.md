@@ -18,7 +18,7 @@
 
 > **原句 1:** "It’s a living, if not much of a life."
 
-- **中文理解**：「It's a living, if not much of a life。」Redding 对 construction work 的 assessment—living (income) but not life (meaning). "Living" = survival; "life" = meaningful existence. This is the story's thesis: work is survival, not life.
+- **中文理解**：「It's a living, if not much of a life。」 对 的 — () but not (). "" = ; "" = . 's : , not .
 
 - **关键词**：living / not much of a life
 
@@ -28,7 +28,7 @@
 
 > **原句 2:** "Would you want to be buried here?"
 
-- **中文理解**：「Would you want to be buried here?」Redding asks Chuckles—would you want to be buried in the townhome? "Buried here" = death in the constructed home. This is the story's central question—death as residence, home as grave.
+- **中文理解**：「Would you want to be buried here?」 （本块引语分析见上）
 
 - **关键词**：buried here
 
@@ -38,7 +38,7 @@
 
 > **原句 3:** "the way coffins are built, the bottom opens too, right?"
 
-- **中文理解**：「the way coffins are built, the bottom opens too, right?」Chuckles' brother Timothy's story—coffin bottom opens (trapdoor) so dead walk down staircase to new life. "Bottom opens" = death as passage, not end. "Right?" = seeking confirmation.
+- **中文理解**：「the way coffins are built, the bottom opens too, right?」 （本块引语分析见上）
 
 - **关键词**：coffins are built / bottom opens / right?
 
@@ -48,7 +48,7 @@
 
 > **原句 4:** "The new resident is here, right on schedule."
 
-- **中文理解**：「The new resident is here, right on schedule。」Redding's realization—dead man in suit is "new resident" (of the townhome). "Right on schedule" = death's arrival is planned, expected. "New resident" = dead man moving in (like new homeowner).
+- **中文理解**：「The new resident is here, right on schedule。」 （本块引语分析见上）
 
 - **关键词**：new resident / right on schedule
 
@@ -58,7 +58,7 @@
 
 > **原句 5:** "This death."
 
-- **中文理解**：「This death。」Final line—Redding's realization. "This death" = this (job/life/death) is death. Not "this life" but "this death." Redding's work (building townhomes) = death. The whole story = death. "This death" = the final realization.
+- **中文理解**：「This death。」 （本块引语分析见上）
 
 - **关键词**：This death
 

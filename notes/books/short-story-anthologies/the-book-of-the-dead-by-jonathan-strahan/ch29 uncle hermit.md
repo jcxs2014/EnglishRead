@@ -18,7 +18,7 @@
 
 > **原句 1:** "Done is done."
 
-- **中文理解**：「Done is done。」De'ath family motto—funeral director's philosophy: body without soul is abhorrent (Puritans), but "Done is done" = we only deal with body, not afterlife. "Done" = death is finished; no need to think beyond. This is the family's professional ethos: no afterlife speculation.
+- **中文理解**：「Done is done。」 （本块引语分析见上）
 
 - **关键词**：Done is done
 
@@ -28,7 +28,7 @@
 
 > **原句 2:** "I painted nothing."
 
-- **中文理解**：「I painted nothing。」Sarah's painted option—"nothing" as afterlife. Among heaven, hell, walls thick with absorbed ghosts, griefy surfaces, ghosts, "I painted nothing." "Nothing" = one possible afterlife (annihilation). This is Sarah's artistic exploration of death's possibilities.
+- **中文理解**：「I painted nothing。」 （本块引语分析见上）
 
 - **关键词**：I painted nothing
 
@@ -38,7 +38,7 @@
 
 > **原句 3:** "I painted griefy surfaces, shiny and awful to the touch."
 
-- **中文理解**：「I painted griefy surfaces, shiny and awful to the touch。」Sarah's painted option—griefy surfaces (grime that settles on unused rooms). "Shiny and awful to the touch" = grief's physical quality. "Griefy" = Warren's invented word (grief + grimy). This is Sarah's artistic exploration: grief as physical substance.
+- **中文理解**：「I painted griefy surfaces, shiny and awful to the touch。」 （本块引语分析见上）
 
 - **关键词**：griefy surfaces / shiny and awful to the touch
 
@@ -48,7 +48,7 @@
 
 > **原句 4:** "not so much a memento mori but a memento vitae, if you will."
 
-- **中文理解**：「not so much a memento mori but a memento vitae, if you will。」Sarah's thesis—still life as memento vitae (life memory), not memento mori (death memory). "Memento mori" = remember death; "memento vitae" = remember life. "If you will" = tentative, artistic. This is the story's thesis: art preserves life, not death.
+- **中文理解**：「not so much a memento mori but a memento vitae, if you will。」 （本块引语分析见上）
 
 - **关键词**：not so much a memento mori / but a memento vitae / if you will
 
@@ -58,7 +58,7 @@
 
 > **原句 5:** "was to take a young married woman by force. This is in the family’s lore."
 
-- **中文理解**：「He took a young married woman by force。」Uncle Hermit's (actually grandfather's) crime—rape. "Took... by force" = sexual assault. "Young married woman" = victim. This is the family's dark secret: grandfather was rapist, locked in hermitage, died there (absorbed into walls).
+- **中文理解**：「He took a young married woman by force。」 （本块引语分析见上）
 
 - **关键词**：take a young married woman by force
 
@@ -68,7 +68,7 @@
 
 > **原句 6:** "We kept the secrets."
 
-- **中文理解**：「We kept the secrets。」Sarah's family motto—secrecy. "Kept the secrets" = family's code (don't tell outsiders). "We" = De'ath family. This is the story's thesis: family secrets (grandfather's crime, hermitage skeleton) are kept. Death as secrecy.
+- **中文理解**：「We kept the secrets。」 （本块引语分析见上）
 
 - **关键词**：We kept the secrets
 

@@ -18,7 +18,7 @@
 
 > **原句 1:** "It is the largest and most complex single burial site yet discovered on the surface of Mars"
 
-- **中文理解**：「It is the largest and most complex single burial site yet discovered on the surface of Mars。」Queenswell (MRSG 7) = largest/most complex burial site on Mars. "Single burial site" = one shaft grave containing 85 queens. "Yet discovered" = more may exist. This establishes the site's significance.
+- **中文理解**：「It is the largest and most complex single burial site yet discovered on the surface of Mars。」 （本块引语分析见上）
 
 - **关键词**：largest and most complex / single burial site / surface of Mars
 
@@ -28,7 +28,7 @@
 
 > **原句 2:** "Like all the most powerful symbols, this one was anything but subtle."
 
-- **中文理解**：「Like all the most powerful symbols, this one was anything but subtle。」Powell's description of burial ritual—"The queen is dead. Long live the queen." "Anything but subtle" = ritual's power lies in obviousness. "Most powerful symbols" = burial as dynastic performance.
+- **中文理解**：「Like all the most powerful symbols, this one was anything but subtle。」 （本块引语分析见上）
 
 - **关键词**：Like all the most powerful symbols / anything but subtle
 
@@ -38,7 +38,7 @@
 
 > **原句 3:** "The queen is dead. Long live the queen."
 
-- **中文理解**：「The queen is dead。Long live the queen。」Powell's fictional burial ritual climax—old queen dies, new queen emerges from pit. "The queen is dead" = old queen's death; "Long live the queen" = new queen's ascension. No break in sovereignty. This is the ritual's thesis: death as continuity.
+- **中文理解**：「The queen is dead。Long live the queen。」 （本块引语分析见上）
 
 - **关键词**：The queen is dead / Long live the queen
 
@@ -48,7 +48,7 @@
 
 > **原句 4:** "Perhaps she saw her own tomb waiting for her there, far below, beneath the layered treasures and the layered sins of her long and illustrious line. And perhaps, like me, she found she did not want to go in."
 
-- **中文理解**：「Perhaps she saw her own tomb waiting for her there, far below, beneath the layered treasures and the layered sins of her long and illustrious line。And perhaps, like me, she found she did not want to go in。」Neumann's closing speculation—Queen 85 saw her tomb and refused to enter. "Layered treasures and layered sins" = dynastic accumulation (wealth + guilt). "Like me" = Neumann (who felt pull to fall into pit). "Did not want to go in" = Queen 85's choice—death as refusal.
+- **中文理解**：「Perhaps she saw her own tomb waiting for her there, far below, beneath the layered treasures and the layered sins of her long and illustrious line。And perhaps, like me, she found she did not want to go in。」 （本块引语分析见上）
 
 - **关键词**：saw her own tomb waiting / layered treasures and layered sins / like me / did not want to go in
 

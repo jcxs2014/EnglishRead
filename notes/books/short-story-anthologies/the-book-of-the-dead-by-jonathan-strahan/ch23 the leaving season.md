@@ -18,7 +18,7 @@
 
 > **原句 1:** "The start of the season."
 
-- **中文理解**：「The start of the season。」Burt realizes what day it is—Hilda's "Leaving Season" (women leave abusive husbands). "Season" = euphemism for women's mass departure. Burt has seen it happen to his father, brother, friends—"other men wakened to empty beds and homes."
+- **中文理解**：「The start of the season。」 （本块引语分析见上）
 
 - **关键词**：start of the season
 
@@ -28,7 +28,7 @@
 
 > **原句 2:** "crown of horns; crown of thorns."
 
-- **中文理解**：「crown of horns; crown of thorns。」Hilda puts deer antlers on her head—crown of horns (animal power) + crown of thorns (Christ's suffering). "Queenly, she thinks, nods." Hilda transforms into queen (antler crown) and martyr (thorns). This is her transformation—abused wife → queen/martyr.
+- **中文理解**：「crown of horns; crown of thorns。」 （本块引语分析见上）
 
 - **关键词**：crown of horns / crown of thorns / Queenly
 
@@ -38,7 +38,7 @@
 
 > **原句 3:** "Hilda opens the front door, floats onto the verandah."
 
-- **中文理解**：「Hilda opens the front door, floats onto the verandah。」Hilda's departure—she "floats" (not walks), suggesting supernatural/psychopomp guidance. "Floats" = weightless, transformed. She follows "lights" (psychopomp) into the night.
+- **中文理解**：「Hilda opens the front door, floats onto the verandah。」 （本块引语分析见上）
 
 - **关键词**：opens the front door / floats onto the verandah
 
@@ -48,7 +48,7 @@
 
 > **原句 4:** "Queenly, she thinks, nods. Feels the antlers bow and sway with the motion of her head."
 
-- **中文理解**：「Queenly, she thinks, nods。Feels the antlers bow and sway with the motion of her head。」Hilda's self-perception—she feels queenly (antler crown). Antlers "bow and sway" = regal movement. This is Hilda's transformation—abused wife → queen.
+- **中文理解**：「Queenly, she thinks, nods。Feels the antlers bow and sway with the motion of her head。」 （本块引语分析见上）
 
 - **关键词**：Queenly / antlers bow and sway
 
@@ -58,7 +58,7 @@
 
 > **原句 5:** "And even if he could find that little address book—Did it have a pink cover? Did he remember a small pink book in her hands?—even if he could find those numbers, make his thick fingers dial, what would he say?"
 
-- **中文理解**：「And even if he could find that little address book—Did it have a pink cover? Did he remember a small pink book in her hands?—even if he could find those numbers, make his thick fingers dial, what would he say?」Burt's helplessness—Hilda managed all social connections; without her, he can't even call daughters. "Thick fingers" = Burt's physicality vs. Hilda's delicate management. "What would he say?" = no words for loss.
+- **中文理解**：「And even if he could find that little address book—Did it have a pink cover? Did he remember a small pink book in her hands?—even if he could find those numbers, make his thick fingers dial, what would he say?」 （本块引语分析见上）
 
 - **关键词**：little address book / thick fingers dial / what would he say
 
@@ -68,7 +68,7 @@
 
 > **原句 6:** "His wife squares her shoulders, settles her feet into the dirt for purchase, drops her head, antlers pointed in the direction of the oncoming vehicle, and begins her charge . . ."
 
-- **中文理解**：「His wife squares her shoulders, settles her feet into the dirt for purchase, drops her head, antlers pointed in the direction of the oncoming vehicle, and begins her charge . . .」Hilda charges Burt's ute—antlers as weapon. "Squares her shoulders" = warrior stance; "settles her feet" = grounded; "antlers pointed" = weapon. "Begins her charge" = active, not passive. Hilda fights back.
+- **中文理解**：「His wife squares her shoulders, settles her feet into the dirt for purchase, drops her head, antlers pointed in the direction of the oncoming vehicle, and begins her charge . . .」 （本块引语分析见上）
 
 - **关键词**：squares her shoulders / settles her feet / antlers pointed / begins her charge
 

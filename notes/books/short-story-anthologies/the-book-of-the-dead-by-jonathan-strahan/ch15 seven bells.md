@@ -18,7 +18,7 @@
 
 > **原句 1:** "Shrifby was the northernmost village of Ancelstierre, only twenty-two miles south of the Wall and the Old Kingdom beyond. Its continued existence was entirely due to its sheltering, swift rivers, barriers against the Dead and other things that might come when the wind blew from the north."
 
-- **中文理解**：「Shrifby was the northernmost village of Ancelstierre, only twenty-two miles south of the Wall and the Old Kingdom beyond。Its continued existence was entirely due to its sheltering, swift rivers, barriers against the Dead and other things that might come when the wind blew from the north。」Shrifby 的地理/战略位置——Wall 以南 22 英里，swift rivers 作为 barrier against Dead。"Wind blew from the north" = death incursion 的 trigger. This establishes the story's world: death is geographic (comes from north, across Wall).
+- **中文理解**：「Shrifby was the northernmost village of Ancelstierre, only twenty-two miles south of the Wall and the Old Kingdom beyond。Its continued existence was entirely due to its sheltering, swift rivers, barriers against the Dead and other things that might come when the wind blew from the north。」的地理/战略位置—— 以南 22 英里， 作为 。" 的 :
 
 - **关键词**：northernmost village / Wall / Old Kingdom / swift rivers / barriers against the Dead / wind blew from the north
 
@@ -28,7 +28,7 @@
 
 > **原句 2:** “A necromancer’s bells,” said Allison. “The warning bell in the village tower tolled as she spoke, as if to lend extra emphasis to her words.”
 
-- **中文理解**：「A necromancer's bells，」said Allison。」The warning bell in the village tower tolled as she spoke, as if to lend extra emphasis to her words。」Allison 识别出 Seven Bells 为 necromantic tools——埋藏在 swift running water 之下（water 作为 barrier against death magic）。One bell sounded = killed Alf Jerrow。"Bound in silver chain" = containment; "buried under swift running water" = water suppresses death magic. (详见 text 第 456-462 行)
+- **中文理解**：「A necromancer's bells，」。」。」 识别出 为 ——埋藏在 之下（ 作为 ）。"; " (详见 第 456-462 行)
 
 - **关键词**：necromancer's bells
 
@@ -38,7 +38,7 @@
 
 > **原句 3:** "Charter magic exacts its toll. I trust you will sleep well, Benjamin."
 
-- **中文理解**：「Charter magic exacts its toll。I trust you will sleep well, Benjamin。」Allison's Charter magic (keeping her heart beating) exacts toll—she's dying. "Exacts its toll" = magic costs life force. Allison uses Charter magic to sustain her failing heart; the cost is her life. This is Nix's magic system: magic costs.
+- **中文理解**：「Charter magic exacts its toll。I trust you will sleep well, Benjamin。」的 （维持她的心跳）——她正在死去。" 消耗生命力量。 用 维持衰竭的心脏；代价是她的生命。这是 的魔法系统： 有代价。
 
 - **关键词**：Charter magic exacts its toll
 
@@ -48,7 +48,7 @@
 
 > **原句 4:** "The river took the departed swiftly, dragged them down and carried them away, and though she knew Allison was very much imbued with Charter magic, and might delay a little, she had not imagined her spirit could stand against the current so close to Life."
 
-- **中文理解**：「The river took the departed swiftly, dragged them down and carried them away, and though she knew Allison was very much imbued with Charter magic, and might delay a little, she had not imagined her spirit could stand against the current so close to Life。」Death river = afterlife; takes departed swiftly; Allison's spirit stands against current (Charter magic + calling). "So close to Life" = Allison's spirit resists crossing, staying near Life.
+- **中文理解**：「The river took the departed swiftly, dragged them down and carried them away, and though she knew Allison was very much imbued with Charter magic, and might delay a little, she had not imagined her spirit could stand against the current so close to Life。」；； 的 + )。" 的 抵抗跨越，停留在 附近。
 
 - **关键词**：river took the departed swiftly / dragged them down / stand against the current / so close to Life
 
@@ -58,7 +58,7 @@
 
 > **原句 5:** "Her power to remain comes from her calling, all those she brought into Life, they anchor her here. Not arrogance of will, a desire for power, nor fear of the final death."
 
-- **中文理解**：「Her power to remain comes from her calling, all those she brought into Life, they anchor her here。Not arrogance of will, a desire for power, nor fear of the final death。」Tizanael (Abhorsen) explains Allison's spirit's resistance—her calling (healer/midwife, brought hundreds into Life) anchors her. Not arrogance/power/fear, but service. This is Nix's thesis: death's pull can be resisted by service/calling.
+- **中文理解**：「Her power to remain comes from her calling, all those she brought into Life, they anchor her here。Not arrogance of will, a desire for power, nor fear of the final death。」—/。//。这是 的 ： 的 可以被 / 抵抗。
 
 - **关键词**：power to remain / her calling / all those she brought into Life / anchor her here / not arrogance of will
 
@@ -68,7 +68,7 @@
 
 > **原句 6:** "Allison drew him close, and Tizanael let out a tiny gasp of surprise as the man's spirit shrank and changed, and golden light ran from Allison's Charter mark, limning her face, running down her arms and hands, spilling over on to the spirit of Benjamin Minoy."
 
-- **中文理解**：「Allison drew him close, and Tizanael let out a tiny gasp of surprise as the man's spirit shrank and changed, and golden light ran from Allison's Charter mark, limning her face, running down her arms and hands, spilling over on to the spirit of Benjamin Minoy。」Allison guides Benjamin's spirit across—her Charter mark's golden light transforms him (from bear of a man to something smaller, changed). "Shrank and changed" = death's transformation; "golden light" = Charter magic's healing. Allison's service extends to guiding brother across.
+- **中文理解**：「Allison drew him close, and Tizanael let out a tiny gasp of surprise as the man's spirit shrank and changed, and golden light ran from Allison's Charter mark, limning her face, running down her arms and hands, spilling over on to the spirit of Benjamin Minoy。」—)。" 的 ；" 的 。 的 。
 
 - **关键词**：drew him close / spirit shrank and changed / golden light ran / spilling over on to the spirit
 

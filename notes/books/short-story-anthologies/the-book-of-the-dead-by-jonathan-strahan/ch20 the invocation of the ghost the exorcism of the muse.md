@@ -18,7 +18,7 @@
 
 > **原句 1:** "The eastern tradition draws the corpus in ink. The western tradition paints the corpus in oil."
 
-- **中文理解**：「The eastern tradition draws the corpus in ink。The western tradition paints the corpus in oil。」Kim 的 opening—eastern exorcism uses ink (rice paper, crematory ash), western uses oil paints. "Corpus" = body/corpse. Ink = portable, practical; oil = heavy, aristocratic. This establishes Woojin's medium (ink) vs. western (oil).
+- **中文理解**：「The eastern tradition draws the corpus in ink。The western tradition paints the corpus in oil。」Kim 的 — (, ), . "" = /. Ink = , ; oil = , . 's (ink) vs. (oil).
 
 - **关键词**：eastern tradition / draws the corpus in ink / western tradition / paints the corpus in oil
 
@@ -28,7 +28,7 @@
 
 > **原句 2:** "Ghosts were notorious liars."
 
-- **中文理解**：「Ghosts were notorious liars。」Kim's narrator observation—ghosts lie (like living people). Ms. Young lies about her motives (says "just want to see how he's doing," actually wants to possess/claim son). "Notorious liars" = ghosts' unreliability.
+- **中文理解**：「Ghosts were notorious liars。」 （本块引语分析见上）
 
 - **关键词**：Ghosts were notorious liars
 
@@ -38,7 +38,7 @@
 
 > **原句 3:** "You could not help ghosts. They were dead and beyond helping."
 
-- **中文理解**：「You could not help ghosts。They were dead and beyond helping。」Woojin's teacher's lesson—ghosts are beyond help (dead). "Beyond helping" = death is final; exorcism is not help but removal. But Woojin helps Ms. Young anyway (softhearted).
+- **中文理解**：「You could not help ghosts。They were dead and beyond helping。」 （本块引语分析见上）
 
 - **关键词**：You could not help ghosts / dead and beyond helping
 
@@ -48,7 +48,7 @@
 
 > **原句 4:** “You’re dead, Ms. Young,” Woojin said, his voice hoarse, as if he had been screaming. “It’s over. I’m sorry. It was beautiful, but it’s over.”
 
-- **中文理解**：「You're dead, Ms. Young," Woojin said, his voice hoarse, as if he had been screaming。"I'm sorry。It was beautiful, but it's over。" Woojin's exorcism speech—acknowledging Ms. Young's death, apologizing, declaring it over. "It was beautiful, but it's over" = her life/memories beautiful but ended. This is the exorcism's truth-telling.
+- **中文理解**：「You're dead, Ms. Young," Woojin said, his voice hoarse, as if he had been screaming。"I'm sorry。It was beautiful, but it's over。" Woojin 的 exorcism speech——acknowledging Ms. Young 的 death, apologizing, declaring it over。"It was beautiful, but it's over" = her life/memories beautiful but ended。This is the exorcism 的 truth-telling。
 
 - **关键词**：You're dead, Ms. Young / It was beautiful, but it's over
 
@@ -58,7 +58,7 @@
 
 > **原句 5:** "It had felt so strange to have had Ms. Young inside him."
 
-- **中文理解**：「It had felt so strange to have had Ms. Young inside him。」Woojin's reflection after possession—Ms. Young inside him (in his body). "Strange" = uncanny; "inside him" = possession. He experienced her memories (dancing, ice cream, holding son). This is the story's empathy moment—possession as understanding.
+- **中文理解**：「It had felt so strange to have had Ms. Young inside him。」 （本块引语分析见上）
 
 - **关键词**：strange to have had Ms. Young inside him
 
@@ -68,7 +68,7 @@
 
 > **原句 6:** "He was imagining being alive, so briefly, after having been dead."
 
-- **中文理解**：「He was imagining being alive, so briefly, after having been dead。」Woojin's final thought—imagining being alive after being dead (Ms. Young's experience). "So briefly" = life's brevity. "After having been dead" = from dead perspective, life is brief. This is the story's final reflection: death makes life's brevity visible.
+- **中文理解**：「He was imagining being alive, so briefly, after having been dead。」 （本块引语分析见上）
 
 - **关键词**：imagining being alive / so briefly / after having been dead
 

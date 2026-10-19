@@ -18,7 +18,7 @@
 
 > **原句 1:** "On the Shores of Midnight broods a lone tower, which is the only structure to be seen for miles. Within its walls broods an even lonelier soul."
 
-- **中文理解**：「On the Shores of Midnight broods a lone tower, which is the only structure to be seen for miles。Within its walls broods an even lonelier soul。」Opening—Shores of Midnight 的 lone tower 与 even lonelier soul (Keeper)。"Broods" = brooding, melancholic. "Even lonelier" = tower is lonely, Keeper is lonelier. This establishes Keeper's isolation.
+- **中文理解**：「On the Shores of Midnight broods a lone tower, which is the only structure to be seen for miles。Within its walls broods an even lonelier soul。」— 的 与 )。"
 
 - **关键词**：Shores of Midnight / lone tower / even lonelier soul
 
@@ -28,7 +28,7 @@
 
 > **原句 2:** "You are dead, you shouldn't be here."
 
-- **中文理解**：「You are dead, you shouldn't be here。」Keeper 对 Enitan 的 declaration—she's dead, doesn't belong in his domain (his home). "Shouldn't be here" = dead souls belong in Lake of Midnight, not his study. This is Keeper's duty: banish dead to Lake.
+- **中文理解**：「You are dead, you shouldn't be here。」对 的 —:
 
 - **关键词**：You are dead / shouldn't be here
 
@@ -38,7 +38,7 @@
 
 > **原句 3:** "I am the Keeper of the Dead."
 
-- **中文理解**：「I am the Keeper of the Dead。」Keeper's self-definition—only by function, no name. "I am the Keeper" = identity = role. Enitan challenges: "If you only have a title, then you are replaceable." Keeper: "I am one of a kind. I cannot be replaced." Enitan: "I will call you Grumpy."
+- **中文理解**：「I am the Keeper of the Dead。」的 —。"。: ": ": ""
 
 - **关键词**：I am the Keeper of the Dead
 
@@ -48,7 +48,7 @@
 
 > **原句 4:** "She had called him 'Father.' Why did she have to call him Father?"
 
-- **中文理解**：「She had called him 'Father.' Why did she have to call him Father?」Keeper's guilt—Enitan called him "Father" (trust), but he sent her to Lake (death). "Why did she have to call him Father?" = guilt of betrayal. He was supposed to protect her, but he killed her (unknowingly).
+- **中文理解**：「She had called him 'Father.' Why did she have to call him Father?」的 —)。"?" = 。)。
 
 - **关键词**：called him Father / Why did she have to call him Father
 
@@ -58,7 +58,7 @@
 
 > **原句 5:** ". . . good gods, he sent her to the lake!"
 
-- **中文理解**：「I sent her to the lake!」Keeper's realization—he sent Enitan (living child) to Lake of Midnight (death). "Sent her to the lake" = he killed her (unknowingly). This is the story's turning point: Keeper discovers his error, guilt overwhelms.
+- **中文理解**：「I sent her to the lake!」的 —)。")。 的 ：。
 
 - **关键词**：sent her to the lake
 
@@ -68,7 +68,7 @@
 
 > **原句 6:** "You must give yourself in exchange."
 
-- **中文理解**：「You must give yourself in exchange。」Fates' condition—Keeper must give himself to bring Enitan back. "Give yourself in exchange" = sacrifice: Keeper's immortality/life for Enitan's life. Keeper: "Yes! I'll do it. If it means she can... she can live."
+- **中文理解**：「You must give yourself in exchange。」 （本块引语分析见上）
 
 - **关键词**：give yourself in exchange
 
@@ -78,7 +78,7 @@
 
 > **原句 7:** "And whatever you think it is that she writes, that is the truth."
 
-- **中文理解**：「And whatever you think it is that she writes, that is the truth。」Final line—Enitan's diary (wishes) becomes reality. "Whatever you think it is that she writes, that is the truth" = open ending: reader imagines what Enitan writes. The story ends with Keeper reborn as human father, Enitan as daughter, Christmas scene.
+- **中文理解**：「And whatever you think it is that she writes, that is the truth。」 （本块引语分析见上）
 
 - **关键词**：whatever you think it is that she writes, that is the truth
 

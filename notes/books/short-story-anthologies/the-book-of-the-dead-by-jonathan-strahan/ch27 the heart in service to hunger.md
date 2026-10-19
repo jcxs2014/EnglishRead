@@ -18,7 +18,7 @@
 
 > **原句 1:** "I killed the cockerels in the morning and at eight o’clock they hit the table for Mr. Page’s birthday, gleaming with butter, gizzards simmered and strained into gravy, and garnished with rosemary and thyme."
 
-- **中文理解**：「I killed the cockerels in the morning and at eight o'clock they hit the table for Mr. Page's birthday, gleaming with butter, gizzards simmered and strained into gravy, and garnished with rosemary and thyme。」Narrator's morning—killing cockerels, preparing feast for Page's birthday. "Gleaming with butter" = food's abundance (for Pages) vs. narrator's hunger. "I killed" = narrator as killer (of animals), later Xiulan kills humans.
+- **中文理解**：「I killed the cockerels in the morning and at eight o'clock they hit the table for Mr. Page's birthday, gleaming with butter, gizzards simmered and strained into gravy, and garnished with rosemary and thyme。」 （本块引语分析见上）
 
 - **关键词**：killed the cockerels / gleaming with butter / gizzards simmered
 
@@ -28,7 +28,7 @@
 
 > **原句 2:** "It’s a kind of living death, that kind of work, a blur of aching muscles and pressure-bruised fingers from the endless cleaning, smelling like sweat and vinegar while pretending you don’t."
 
-- **中文理解**：「It's a kind of living death, that kind of work, a blur of aching muscles and pressure-bruised fingers from the endless cleaning, smelling like sweat and vinegar while pretending you don't。」Narrator's description of maid work—"living death." "Aching muscles, pressure-bruised fingers" = physical toll; "smelling like sweat and vinegar" = bodily reality hidden; "pretending you don't" = performed invisibility. Maid work = living death.
+- **中文理解**：「It's a kind of living death, that kind of work, a blur of aching muscles and pressure-bruised fingers from the endless cleaning, smelling like sweat and vinegar while pretending you don't。」 （本块引语分析见上）
 
 - **关键词**：living death / aching muscles / pressure-bruised fingers / smelling like sweat and vinegar
 
@@ -38,7 +38,7 @@
 
 > **原句 3:** "She wouldn’t be dead."
 
-- **中文理解**：「She wouldn't be dead。」Narrator's belief—Xiulan wouldn't die (from illness). "Wouldn't be dead" = hope/denial. But Xiulan does die (or transforms). This is the story's turning point—narrator's denial of Xiulan's death.
+- **中文理解**：「She wouldn't be dead。」 （本块引语分析见上）
 
 - **关键词**：She wouldn't be dead
 
@@ -48,7 +48,7 @@
 
 > **原句 4:** "I’m hungry, so hungry, sis."
 
-- **中文理解**：「I'm hungry, so hungry, sis。」Xiulan's refrain—hunger as death's voice. "So hungry" = intensification; "sis" = sister (narrator). This is Xiulan's transformation—hunger becomes her identity. "I'm hungry" = death's call.
+- **中文理解**：「I'm hungry, so hungry, sis。」 （本块引语分析见上）
 
 - **关键词**：I'm hungry, so hungry, sis
 
@@ -58,7 +58,7 @@
 
 > **原句 5:** "But sis, I'm hungry."
 
-- **中文理解**：「But sis, I'm hungry。」Final line—Xiulan's final words on train. "Sister" = narrator (now "sister"); "I'm hungry" = death's demand. "Her eyes flickered to the other people on the platform" = Xiulan eyeing prey. This is the story's ending—Xiulan's hunger is now predatory.
+- **中文理解**：「But sis, I'm hungry。」 （本块引语分析见上）
 
 - **关键词**：sis, I'm hungry
 
@@ -68,7 +68,7 @@
 
 > **原句 6:** "I thought of Mrs. Page's tongue. I thought of Mr. Page, hollowed out so that he seemed like an empty basket, the liver, lungs, heart, and intestines all gone."
 
-- **中文理解**：「I thought of Mrs. Page's tongue。I thought of Mr. Page, hollowed out so that he seemed like an empty basket, the liver, lungs, heart, and intestines all gone。」Narrator's memory—Mrs. Page's tongue (Xiulan ate it), Mr. Page hollowed out (Xiulan ate his organs). "Empty basket" = body without organs. This is the story's horror: Xiulan ate the Pages (tongue, organs). Narrator's complicity (helped Xiulan escape).
+- **中文理解**：「I thought of Mrs. Page's tongue。I thought of Mr. Page, hollowed out so that he seemed like an empty basket, the liver, lungs, heart, and intestines all gone。」 （本块引语分析见上）
 
 - **关键词**：Mrs. Page's tongue / hollowed out / empty basket / liver, lungs, heart, intestines all gone
 

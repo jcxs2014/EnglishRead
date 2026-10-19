@@ -18,7 +18,7 @@
 
 > **原句 1:** "For every call, there is a response."
 
-- **中文理解**：「For every call, there is a response。」Babaláwo 的 ancient words—每次 call 都有 response。这是 ìdáwò 的基本假设：ancestors always respond. Bisi's silence violates this. "For every call, there is a response" = the story's broken promise.
+- **中文理解**：「For every call, there is a response。」á 的 —每次 都有 。这是 ìdáwò 的基本假设：
 
 - **关键词**：For every call / there is a response
 
@@ -28,7 +28,7 @@
 
 > **原句 2:** "Spirits are never destroyed; they only change form. Death is nothing more than a transformation of spirit information into higher order dimensions."
 
-- **中文理解**：「Spirits are never destroyed; they only change form。Death is nothing more than a transformation of spirit information into higher order dimensions。」Ireti's (and society's) belief—spirits conserved, death as transformation not destruction. "Law of conservation of spirits" = Talabi's cosmology. Death = information transfer to higher dimensions.
+- **中文理解**：「Spirits are never destroyed; they only change form。Death is nothing more than a transformation of spirit information into higher order dimensions。」的（与 的）—，。" 的 。，。
 
 - **关键词**：Spirits are never destroyed / only change form / Death is nothing more than a transformation / spirit information / higher order dimensions
 
@@ -38,7 +38,7 @@
 
 > **原句 3:** "What if the law is wrong?"
 
-- **中文理解**：「What if the law is wrong?」Bisi's question—what if conservation of spirits is wrong? Ireti dismisses it, but later considers: "perhaps it can be wrong in any given universe while holding true at a higher scale" (multiverse). Bisi's question is the story's thesis question.
+- **中文理解**：「What if the law is wrong?」的 —? ，: ")。 的 的 。
 
 - **关键词**：What if the law is wrong
 
@@ -48,7 +48,7 @@
 
 > **原句 4:** "I am going to unfold my spirit to higher order dimensionality."
 
-- **中文理解**：「I am going to unfold my spirit to higher order dimensionality。」Ireti's plan—die voluntarily to track ancestors. "Unfold" = death as unfolding (spirit expands to higher dimensions). "Higher order dimensionality" = afterlife. Ireti sacrifices himself for knowledge.
+- **中文理解**：「I am going to unfold my spirit to higher order dimensionality。」的 —。"，。"。
 
 - **关键词**：unfold my spirit / higher order dimensionality
 
@@ -58,7 +58,7 @@
 
 > **原句 5:** "It was alive. It was conscious. It was growing."
 
-- **中文理解**：「It was alive。It was conscious。It was growing。」Ireti's discovery—the singularity is alive, conscious, growing. It consumes spirits. "Alive/conscious/growing" = the singularity is a living entity (perpetual god machine). This is the story's revelation: death's mechanism is alive.
+- **中文理解**：「It was alive。It was conscious。It was growing。」的 —。"//)。 的 ：。
 
 - **关键词**：alive / conscious / growing
 
@@ -68,7 +68,7 @@
 
 > **原句 6:** "perpetual god machines"
 
-- **中文理解**：「perpetual god machines。」Talabi's title concept—singularity as "perpetual god machine," transferring spirits between universes. "Perpetual" = eternal, ongoing; "god machines" = living entities that function as universe-connecting portals. They are "neurons in the mind of the god that had first existed at the beginning of all things."
+- **中文理解**：「perpetual god machines。」的 —。"; "。
 
 - **关键词**：perpetual god machines
 

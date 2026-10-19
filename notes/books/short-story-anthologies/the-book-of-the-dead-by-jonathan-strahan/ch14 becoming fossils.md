@@ -18,7 +18,7 @@
 
 > **原句 1:** "The lake was shrinking. And I'd been wrong. He could still scare me."
 
-- **中文理解**：「The lake was shrinking。And I'd been wrong。He could still scare me。」Vita 9 岁时，brother Mark 告诉她 "There's probably hundreds of skulls in the mud, becoming fossils"——她以为是吓唬，但 Lake Coraline 确实在 shrink（气候 crisis）。Mark 的 "bodies in mud" 预言成真：湖干涸，fossils 暴露。"He could still scare me" = brother's childhood scare became adult reality.
+- **中文理解**：「The lake was shrinking。And I'd been wrong。He could still scare me。」9 岁时， 告诉她 ""——她以为是吓唬，但 确实在 （气候 ）。 的 "" 预言成真：湖干涸， 暴露。"
 
 - **关键词**：lake was shrinking / wrong / could still scare me
 
@@ -28,7 +28,7 @@
 
 > **原句 2:** "Lakes couldn't become ghosts."
 
-- **中文理解**：「Lakes couldn't become ghosts。」Vita 的 rationalist denial—lakes can't be ghosts (scientific impossibility). But Lake Coraline IS a ghost (manifests as water, floats, asphyxiates). Vita's denial is the story's tension: science vs. supernatural, rationality vs. climate reality.
+- **中文理解**：「Lakes couldn't become ghosts。」的 —:
 
 - **关键词**：Lakes couldn't become ghosts
 
@@ -38,7 +38,7 @@
 
 > **原句 3:** "A ghost cannot heal us. A ghost cannot nourish our crops. The mulberries grow without seeds, are nothing but salt within purple skin."
 
-- **中文理解**：「A ghost cannot heal us。A ghost cannot nourish our crops。The mulberries grow without seeds, are nothing but salt within purple skin。」Vita 的 final conclusion—ghost lake's "miracle" (mulberry growth) is false hope. Mulberries grow without seeds (sterile, unsustainable), taste of salt (not nourishment). "Ghost cannot heal/nourish" = climate ghosts can't save us.
+- **中文理解**：「A ghost cannot heal us。A ghost cannot nourish our crops。The mulberries grow without seeds, are nothing but salt within purple skin。」的 —/
 
 - **关键词**：ghost cannot heal / ghost cannot nourish / mulberries grow without seeds / salt within purple skin
 
@@ -48,7 +48,7 @@
 
 > **原句 4:** "The mulberries grow without seeds, are nothing but salt within purple skin."
 
-- **中文理解**：「The mulberries grow without seeds, are nothing but salt within purple skin。」Mulberry 的 false nature—grow without seeds (sterile, can't reproduce), taste of salt (not sugar). "Salt within purple skin" = beautiful exterior, empty interior. The mulberries are ghost fruit—appear real but provide no nourishment.
+- **中文理解**：「The mulberries grow without seeds, are nothing but salt within purple skin。」的 ——
 
 - **关键词**：grow without seeds / nothing but salt / purple skin
 
@@ -58,7 +58,7 @@
 
 > **原句 5:** "There had to be a scientific explanation for the mulberries, for Mark's resurrected plant. For the fossils bubbling to the surface as Coraline died. For Vita's near-death experience, when she'd felt trapped within deep water. For the silvery, spectral ripples."
 
-- **中文理解**：「There had to be a scientific explanation for the mulberries, for Mark's resurrected plant。For the fossils bubbling to the surface as Coraline died。For Vita's near-death experience, when she'd felt trapped within deep water。For the silvery, spectral ripples。」Vita's rationalist insistence—everything has scientific explanation. "Had to be" = denial of supernatural. But there isn't one: mulberries are ghost fruit, lake is ghost, ripples are spectral. Vita's "had to be" is the story's tension—science can't explain climate ghosts.
+- **中文理解**：「There had to be a scientific explanation for the mulberries, for Mark's resurrected plant。For the fossils bubbling to the surface as Coraline died。For Vita's near-death experience, when she'd felt trapped within deep water。For the silvery, spectral ripples。」的 —。"。: 。—。
 
 - **关键词**：had to be a scientific explanation / mulberries / resurrected plant / fossils bubbling / near-death experience / spectral ripples
 

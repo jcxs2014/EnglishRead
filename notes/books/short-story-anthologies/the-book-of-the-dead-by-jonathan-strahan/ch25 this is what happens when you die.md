@@ -18,7 +18,7 @@
 
 > **原句 1:** "The matter in you must die. The space cannot."
 
-- **中文理解**：「The matter in you must die。The space cannot。」Valente 的 opening thesis—matter (body) dies; space (emptiness between atoms) cannot die. "Matter must die" = physical death; "space cannot" = emptiness persists. This is the story's cosmological foundation: death is matter's end, not space's.
+- **中文理解**：「The matter in you must die。The space cannot。」 的 — () ; () . "" = ; "" = . 's : 's end, not 's.
 
 - **关键词**：matter in you must die / space cannot
 
@@ -28,7 +28,7 @@
 
 > **原句 2:** "It is not heaven. It is not hell."
 
-- **中文理解**：「It is not heaven。It is not hell。」Valente's denial of traditional afterlife—The Last House is neither heaven nor hell. "It simply is." = death's place is beyond theology. No bardo, sheol, purgatory. "There was never enough order or purpose in the universe for such things."
+- **中文理解**：「It is not heaven。It is not hell。」 （本块引语分析见上）
 
 - **关键词**：not heaven / not hell / It simply is
 
@@ -38,7 +38,7 @@
 
 > **原句 3:** "Nothing that follows this paragraph is true. At least, not exactly."
 
-- **中文理解**：「Nothing that follows this paragraph is true。At least, not exactly。」Valente's epistemological disclaimer—death can't be described truthfully. "Not exactly" = approximations. "Words dissolve on the surface of what it describes" = language fails for death. This is the story's metafictional thesis: death beyond language.
+- **中文理解**：「Nothing that follows this paragraph is true。At least, not exactly。」 （本块引语分析见上）
 
 - **关键词**：Nothing that follows this paragraph is true / not exactly
 
@@ -48,7 +48,7 @@
 
 > **原句 4:** "In the End was the Word, and the Word will be with you, and the Word is you."
 
-- **中文理解**：「In the End was the Word, and the Word will be with you, and the Word is you。」Valente's inversion of John 1:1 ("In the beginning was the Word")—"In the End was the Word." "The Word is you" = death's truth is self. Language/identity persists. This is the story's theological inversion: death, not creation, is where Word resides.
+- **中文理解**：「In the End was the Word, and the Word will be with you, and the Word is you。」 （本块引语分析见上）
 
 - **关键词**：In the End was the Word / the Word will be with you / the Word is you
 
@@ -58,7 +58,7 @@
 
 > **原句 5:** "You lived. And you died."
 
-- **中文理解**：「You lived。And you died。」Valente's pivot—after cosmic description, narrator addresses "you" directly. "You lived" = past; "you died" = present. This is the story's turn—from cosmic to personal. "And you died" = the reader's death. This is the story's thesis: death is personal, universal.
+- **中文理解**：「You lived。And you died。」 （本块引语分析见上）
 
 - **关键词**：You lived / And you died
 
@@ -68,7 +68,7 @@
 
 > **原句 6:** "Take my hand (which is not a hand). Take your time (which is nothing). And I will meet you in the sky when we are both big."
 
-- **中文理解**：「Take my hand (which is not a hand)。Take your time (which is nothing)。And I will meet you in the sky when we are both big。」Final lines—invitation to death. "Hand (which is not a hand)" = connection beyond physical. "Time (which is nothing)" = time's irrelevance in death. "Meet you in the sky when we are both big" = death as growth, expansion. "Both big" = death makes us cosmic.
+- **中文理解**：「Take my hand (which is not a hand)。Take your time (which is nothing)。And I will meet you in the sky when we are both big。」 （本块引语分析见上）
 
 - **关键词**：Take my hand (which is not a hand) / Take your time (which is nothing) / meet you in the sky when we are both big
 
