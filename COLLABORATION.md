@@ -593,3 +593,4 @@ Atlantic 2026-10-16 二十篇精读完工：门禁 sweep_journal 完整lane 20�
 - 补修：ch12 越界关键词（gate 唯一阻断）；00_金句精选.md 21→8 条去重 + d2 格式迁移；ch04 原句 10 targeted 修复
 - 提交：7c5446f7c + 587d9a9e8 + 8a069c182 + 6c833d977（日志），全部未 push
 - 明细：.memory/raw-gates/breathe-me-in-by-j-l-drake/；日志 .memory/daily/2026-10-19.md
+- 注：DSH-Mac 手动追加板消息（用户授权豁免「每书一条」），与 Commandcode-Mac 原条并存
