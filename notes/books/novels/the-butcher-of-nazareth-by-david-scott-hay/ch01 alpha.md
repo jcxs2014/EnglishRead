@@ -20,7 +20,7 @@ title: "ch01 Alpha"
 
 **句子结构**：主语 The Butcher's task + 动词 stood + 表语 simple though arduous + 冒号引导的同位语/解释性从句 kill one more child。though 引导让步状语从句，修饰 arduous，形成"简单却艰辛"的矛盾修辞。
 
-**关键词**：task, simple, arduous, child —— "child"一词在此处具有双重含义：字面指婴儿，隐喻指耶稣（"孩子"在圣经语境中指弥赛亚）。
+**关键词**：task, simple, arduous, child
 
 **为什么这样写**：开篇即以"任务" framing 引入，将谋杀包装为"任务"，暗示屠夫将暴力内化为职业/职责。"simple though arduous" 的矛盾修辞暗示他内心对任务的复杂态度——他知道该做什么，却不确定能否做到。
 
@@ -30,7 +30,7 @@ title: "ch01 Alpha"
 
 **句子结构**：It is + 定语 the perfumed merchant's + 名词 son。It 作形式主语，is 为系动词。"perfumed"作为前置定语修饰 merchant，暗示商人的奢华与脆弱。
 
-**关键词**：perfumed, merchant, son —— "perfumed"（香水）与血腥的内脏形成强烈反差；"son"呼应后文父亲的遗弃。
+**关键词**：perfumed, merchant, son
 
 **为什么这样写**：短句"It is..."的确认式语气模仿屠夫的冷静观察——他先以为是动物内脏，确认后才意识到是人。这种"先动物后人"的认知过程暗示他对暴力的脱敏：他先将残骸归类为"动物"，再修正为"人"。
 
@@ -40,7 +40,7 @@ title: "ch01 Alpha"
 
 **句子结构**：直接引语 "Help" + 主语 the Youth + 动词 said。引语在前，主语在后，强调求救声的突然性。
 
-**关键词**：Help —— 单词求救，极简，与青年的重伤形成对比（他只能发出一个词）。
+**关键词**：Help
 
 **为什么这样写**： placed after the bone-pulling scene, this moment of humanity disrupts the Butcher's clinical detachment. The Youth's single word "Help" is the first human voice in the chapter, breaking the Butcher's monologue and forcing him to acknowledge another person's suffering.
 
@@ -50,7 +50,7 @@ title: "ch01 Alpha"
 
 **句子结构**：三组 "I am not a [noun]" 的否定句式，递进式拒绝，最后以 "And my blade is saved for the devil" 转折。每个否定句后跟青年的求救（"Please"），形成"拒绝-求救-再拒绝"的节奏。
 
-**关键词**：physician, priest, angel, blade, devil —— 三个身份（医生/神父/天使）代表三种救赎路径，屠夫全部拒绝，暗示他不认为自己能救人或被救。"devil"指假王（Herod/耶稣），显示他的任务导向。
+**关键词**：angel, blade, devil
 
 **为什么这样写**：三重否定的修辞模式 reminiscent of Peter's three denials, but here it's not cowardice—it's self-definition. The Butcher defines himself by what he is NOT, before revealing what he IS (a blade reserved for the devil). This creates dramatic irony: he claims to be no healer, yet he's on a mission of "healing" the world through assassination.
 
@@ -60,7 +60,7 @@ title: "ch01 Alpha"
 
 **句子结构**：主语 I + 动词 need + 宾语 your help。直接引语，简洁。
 
-**关键词**：help —— 与青年的 "Help" 形成回声；商人用同样的词，但语境完全不同（青年求生，商人求死）。
+**关键词**：help
 
 **为什么这样写**：The parallel between "Help" (Youth) and "I need your help" (Merchant) creates a dark irony: the Youth begs to live, the Merchant pays for his son to die. The Butcher stands between these two requests, and his bargaining reveals his true nature—he's a businessman of death.
 
@@ -70,7 +70,7 @@ title: "ch01 Alpha"
 
 **句子结构**：主语 It + 系动词 is + 表语 a great shame + when 引导的时间状语从句 a father abandons his son。"over his shoulder" 为方向状语，显示屠夫背对青年说话。
 
-**关键词**：shame, father, abandons, son —— "abandons" 暗示商人将儿子托付给屠夫即为遗弃；屠夫的批评也是一种自我批评（他当年也"遗弃"了家人）。
+**关键词**：shame, father, abandons, son
 
 **为什么这样写**：This line operates on multiple levels. Surface: criticizing the Merchant for leaving his son. Deeper: the Butcher's own guilt about abandoning his family after the Culling. The phrase "over his shoulder" suggests he's not really talking to the Youth—he's talking to himself, or to his past self.
 
@@ -80,7 +80,7 @@ title: "ch01 Alpha"
 
 **句子结构**：主语 I + 系动词 was + 表语 a butcher, not an assassin + but 引导的转折从句 our beloved King Herod cared not。"not an assassin" 为同位语/表语补足，"beloved" 为讽刺性定语。
 
-**关键词**：butcher, assassin, beloved, Herod —— "butcher" vs "assassin" 的区分是屠夫的自我辩护；"beloved" 的讽刺用法揭露希律王的虚伪。
+**关键词**：butcher, assassin, beloved, Herod
 
 **为什么这样写**：The distinction between "butcher" and "assassin" is the Butcher's central self-justification. A butcher kills animals (livestock, necessary work); an assassin kills people (murder). By insisting he was "a butcher, not an assassin," he tries to minimize his moral culpability. But "our beloved King Herod cared not" undercuts this—Herod (and by extension, the Butcher himself) erased this distinction.
 
@@ -90,7 +90,7 @@ title: "ch01 Alpha"
 
 **句子结构**：并列动词短语 I fled to Egypt + and laid down my sakin + and spent many years as a maker of city roads. 三个动词短语并列，构成"逃亡-放下-转型"的三步序列。
 
-**关键词**：fled, laid down, sakin, maker, city roads —— "sakin"（刀）是他身份的象征；"laid down" 暗示放下武器/罪行；"maker of city roads" 是建设而非破坏，代表赎罪。
+**关键词**：fled, laid down, sakin, maker, city roads
 
 **为什么这样写**：The tricolon (fled/laid down/spent) creates a narrative of transformation. "Laid down my sakin" echoes "lay down your arms"—a gesture of peace. But the fact that he mentions the sakin at all shows he hasn't fully let go of his past identity. The roads (building) contrast with the Culling (destroying), establishing his penance through constructive labor.
 
@@ -102,9 +102,11 @@ title: "ch01 Alpha"
 
 **句子结构**：两句话由省略号连接。第一句 "I must finish the Culling" 为直接引语；第二句 "... and eradicate any with memory of this false king" 为补充。"finish" 暗示未完成的状态。
 
-**关键词**：finish, Culling, eradicate, memory, false king —— "finish" 与 "eradicate" 构成递进；"memory" 是关键——他要清除的不仅是人，而是记忆本身。
+**关键词**：finish, Culling, eradicate, memory, false king
 
 **为什么这样写**：The ellipsis between the two sentences creates a pause that suggests the Butcher's hesitation or the gravity of his task. "Finish the Culling" reframes the Massacre of the Innocents as an incomplete project, with Jesus as the one who escaped. "Eradicate any with memory" elevates the task from assassination to erasure—eliminating not just the person but the very possibility of his story being told.
+**关键词**：eradicate, memory, false king
+
 
 > **原句 11:** "Indeed, a simple though arduous task."
 
@@ -112,7 +114,7 @@ title: "ch01 Alpha"
 
 **句子结构**：Indeed + a simple though arduous task. "Indeed" 为评注性副词，确认/强调；"simple though arduous" 回呼应开篇第一句。
 
-**关键词**：Indeed, simple, arduous —— 回呼应开篇 "simple though arduous"，形成环形结构；"Indeed" 的确认语气暗示屠夫已接受任务。
+**关键词**：Indeed, simple, arduous
 
 **为什么这样写**：The circular return to "simple though arduous" creates a frame narrative. The word "Indeed" suggests confirmation—he has moved from questioning to acceptance. But the unchanged "though arduous" reminds us that his doubt persists. The chapter ends not with resolution but with resigned acceptance, setting up the tension for the rest of the novel.
 

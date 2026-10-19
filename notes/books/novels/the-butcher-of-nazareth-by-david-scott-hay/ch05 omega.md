@@ -20,7 +20,7 @@ title: "ch05 Omega"
 
 **句子结构**：主语 Jesus + 动词 stands + 介词短语 on the edge of the world + 现在分词短语 looking into the desert。"edge of the world" 为隐喻。
 
-**关键词**：edge, world, desert —— "edge of the world" 暗示耶稣的孤独与使命的终点；"desert" 与屠夫的沙漠旅程呼应。
+**关键词**：edge, world, desert
 
 **为什么这样写**：The final chapter shifts from the Butcher to Jesus, completing the novel's theological inversion. Jesus—not the Butcher—is now the central figure, standing at the "edge of the world" (a liminal space between known and unknown). The desert, which was the Butcher's road of penance, becomes Jesus's road of mission. This perspective shift suggests the Butcher's story was always secondary to Jesus's.
 
@@ -30,21 +30,29 @@ title: "ch05 Omega"
 
 **句子结构**：六个单词，以换行分隔，无标点。 wind carries a word to the goat。
 
-**关键词**：father, sacrifice, healing, anger, rage, madness —— 六个词构成耶稣的内心图谱：父权（father）、牺牲（sacrifice）、治愈（healing）、愤怒（anger）、狂怒（rage）、疯狂（madness）。
+**关键词**：father, sacrifice, healing, anger, rage, madness
 
 **为什么这样写**：The six words form a psychological profile. "Father" (divine paternity) leads to "sacrifice" (the Crucifixion), which leads to "healing" (his mission), but also "anger," "rage," and "madness" (his human darkness). The progression from spiritual to psychological suggests Jesus is not purely divine—he contains the same violent potential the Butcher does. The goat, as silent witness, receives these words without judgment.
 
 > **原句 3:** "GREETINGS."
 
+**中文理解**：耶稣向山羊打招呼。
+
+**关键词**：Greetings
+
 > **原句 4:** "COME, ADVERSARY."
+
+**中文理解**：耶稣称山羊为「对手」。
+
+**关键词**：Adversary
 
 > **原句 5:** "I AM IN NEED OF A COMPANION."
 
-**中文理解**：耶稣向山羊打招呼，称其为「对手」，并邀请它为同伴。
+**中文理解**：耶稣邀请山羊为同伴。
 
-**句子结构**：三个直接引语。第一句 GREETINGS — 单词问候。第二句 COME, ADVERSARY — 动词 + 称呼。第三句 I AM IN NEED OF A COMPANION — 主语 I + 动词 am in need of + 宾语 a companion。
+**句子结构**：主语 I + 动词 am in need of + 宾语 a companion。
 
-**关键词**：Greetings, Adversary, companion —— "Adversary"（对手/撒旦）与"companion"（同伴）的并置；Jesus addresses the goat (the Butcher's companion) as "adversary."
+**关键词**：companion
 
 **为什么这样写**：The shift to ALL CAPS suggests divine authority or revelation. "Adversary" is the most loaded word in the novel—it's what Jesus calls the goat, which was the Butcher's companion. This redefines the Butcher's entire journey: the goat (and by extension, the Butcher) was Jesus's "adversary" all along, but now Jesus invites it to be his "companion." The transformation from adversary to companion mirrors the novel's central question: can violence be redeemed into fellowship?
 
@@ -54,7 +62,7 @@ title: "ch05 Omega"
 
 **句子结构**：主语 the beast + 动词 follows。简单句。
 
-**关键词**：beast, follows —— "beast" 与 Book III 的 "The Beast" 形成回响；"follows" 暗示服从/陪伴。
+**关键词**：beast, follows
 
 **为什么这样写**：The novel's final sentence is devastatingly ambiguous. "The beast follows" could mean: (1) the goat (the Butcher's companion) follows Jesus, (2) the Beast (the demonic entity from Book III) follows Jesus, or (3) the Butcher himself (now transformed into "the beast") follows Jesus. The absence of a period (em-dash "–The End–") suggests continuation rather than conclusion. The beast following Jesus into the desert echoes the Butcher's own desert journey, creating a circular structure: the Butcher followed the goat, now the beast follows Jesus.
 
