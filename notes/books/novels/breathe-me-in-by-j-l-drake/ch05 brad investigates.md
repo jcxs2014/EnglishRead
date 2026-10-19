@@ -17,15 +17,15 @@ modified: "2026-10-19"
 
 > **原句 1:** "I kid you not, she went white as a ghost when Bostwick brought it up." He leaned closer when the ref popped his head through the door to see if we were ready. "All I'm saying is maybe check in with her."
 
-**中文理解：** Kennedy 告诉 Bradley，Bree 在 pub 里被同事追问童年创伤时脸色煞白如鬼，建议 Bradley 去关心她。
+**中文理解：** Kennedy 告诉 Bradley，Bree 在同事 Bostwick 提起往事时脸色煞白如鬼，劝 Bradley 去关心她。
 
 **句子结构：** 直接引语 + 主谓宾（He leaned closer...）+ as 引导的时间状语从句 + 直接引语。
 
 **关键词：** went white as a ghost（脸色煞白如鬼—— fear response）、check in with her（去关心她—— concern）
 
-**表达方式：** Kennedy's observation of Bree's fear response shows his emotional intelligence. "went white as a ghost" 是 physical fear response 的具象化. "check in with her" 是 friend's concern, not romantic interest.
+**表达方式：** Kennedy 对 Bree 恐惧反应的观察显示他的情商。"went white as a ghost" 是身体恐惧反应的具象化。"check in with her" 是朋友的关心，而非浪漫兴趣。
 
-**为什么这样写：** 通过 Kennedy 作为 Bradley's confidant, 建立 Bradley's need to care for Bree. Kennedy's "maybe check in with her" 是 friend's advice, 但 Bradley interprets it through his own feelings. 这种 "friend as mirror" 的 technique 显示 Bradley's emotional state— he's already thinking about Bree.
+**为什么这样写：** 通过 Kennedy 作为 Bradley 的知己，建立 Bradley 照顾 Bree 的必要性。Kennedy 的 "maybe check in with her" 是朋友的建议，但 Bradley 会通过自己的感情来解读。这种"朋友作镜"的手法显示 Bradley 的情绪状态——他已经在想 Bree 了。
 
 > **原句 2:** Ever since Bree came back, all sorts of mixed and twisted feelings about so many things had come out of hiding. I'd tried to make a life with Sherry, but I'd failed miserably. The darkness inside me finished us. But in the short time since Bree had returned, I felt better—lighter actually. I just didn't know what to do with that.
 
@@ -35,9 +35,9 @@ modified: "2026-10-19"
 
 **关键词：** mixed and twisted feelings（复杂扭曲的感觉—— emotional confusion）、lighter（更轻松—— relief）、didn't know what to do with that（不知道怎么处理—— uncertainty）
 
-**表达方式：** "mixed and twisted feelings" 显示 Bradley's emotional complexity. "The darkness inside me finished us" 将婚姻失败归因于 PTSD. "lighter" 是 Bree's return 带来的 relief. "didn't know what to do with that" 显示 his uncertainty about his feelings.
+**表达方式：** "mixed and twisted feelings" 显示 Bradley 情感的复杂性。"The darkness inside me finished us" 将婚姻失败归因于创伤。"lighter" 是 Bree 回来带来的解脱。"didn't know what to do with that" 显示他对感情的不确定。
 
-**为什么这样写：** 通过 Bradley's introspection 建立 his emotional arc. "mixed and twisted feelings" + "lighter" 的 contrast 显示 Bree's return has positive effect on his mental health. "didn't know what to do with that" 是 the central romantic tension—Bradley is experiencing feelings he thought were gone.
+**为什么这样写：** 通过 Bradley 的内省建立他的情感弧线。"mixed and twisted feelings" 与 "lighter" 的对比显示 Bree 的回归对他的心理健康有积极影响。"didn't know what to do with that" 是中央浪漫张力——Bradley 正在体验他认为早已消失的感觉。
 
 > **原句 3:** "I know how your days get. Dinner will be ready at six."
 
@@ -47,9 +47,9 @@ modified: "2026-10-19"
 
 **关键词：** I know how your days get（我知道你日子怎么过—— dismissive familiarity）、Dinner will be ready（晚餐准备好—— domestic obligation）
 
-**表达方式：** Sherry's text is both caring (knowing his schedule) and controlling (setting dinner time). "I know how your days get" implies she understands his stress, but "Dinner will be ready at six" is a demand, not an invitation.
+**表达方式：** Sherry 的短信既有关心（了解他的日程）也有控制（规定晚餐时间）。"I know how your days get" 暗示她理解他的压力，但 "Dinner will be ready at six" 是要求而非邀请。
 
-**为什么这样写：** 通过 Sherry's text 建立 her character—controlling, domestic, unable to accept Bradley's rejection. "I know how your days get" 是 passive-aggressive; "Dinner will be ready at six" 是 presumptive. 这种 "care as control" 的 dynamic is common in toxic relationships.
+**为什么这样写：** 通过 Sherry 的短信建立她的人物形象——控制欲强、家庭导向、无法接受 Bradley 的拒绝。"I know how your days get" 是被动攻击；"Dinner will be ready at six" 是自作主张。这种"关心即控制"的动态在有毒关系中常见。
 
 > **原句 4:** "I see the coat room, the ID checkpoint, today's shipment of"—I turned the box around—"Grey Goose." I looked at her, not sure what she was getting at.
 
@@ -59,9 +59,9 @@ modified: "2026-10-19"
 
 **关键词：** coat room, ID checkpoint, Grey Goose（衣帽间、身份证检查点、灰雁伏特加—— nightclub infrastructure）、not sure what she was getting at（不确定她要表达什么—— Bradley's confusion）
 
-**表达方式：** Bradley's literal observation vs Bree's pattern recognition. He sees infrastructure; she sees marketing connections. 这种 "different investigative styles" 显示 their complementary skills.
+**表达方式：** Bradley 的字面观察与 Bree 的模式识别形成对比。他看到的是基础设施；她看到的是营销联系。这种"不同调查风格"显示他们的互补技能。
 
-**为什么这样写：** 通过 Bradley-Bree 的 investigative contrast 建立 their partnership dynamic. Bradley is methodical (infrastructure); Bree is intuitive (pattern recognition). 这种 "methodical vs intuitive" 的 dynamic is classic detective fiction trope, but here it serves to show their complementary strengths.
+**为什么这样写：** 通过 Bradley 与 Bree 的调查对比建立他们的搭档动态。Bradley 是有条理的（基础设施）；Bree 是直觉型的（模式识别）。这种"有条理 vs 直觉"的动态是侦探小说的经典套路，但此处用于显示他们的互补优势。
 
 > **原句 5:** "I see this." She pointed to the wall, at all the beer advertisements. "Which made me think about marketing, which led me to think about social media and how beer sponsors online are huge right now."
 
@@ -71,9 +71,9 @@ modified: "2026-10-19"
 
 **关键词：** beer advertisements（啤酒广告—— visual clue）、marketing → social media → beer sponsors（市场营销→社交媒体→啤酒赞助商—— deductive chain）
 
-**表达方式：** Bree's deductive chain shows her investigative method: visual clue → marketing → social media → beer sponsors. 这种 "observation → deduction → investigation" 的 chain 是 PI fiction 的 classic trope.
+**表达方式：** Bree 的演绎链显示她的调查方法：视觉线索→营销→社交媒体→啤酒赞助商。这种"观察→演绎→调查"的链是私家侦探小说的经典套路。
 
-**为什么这样写：** 通过 Bree's deductive chain 建立 her investigative competence. "I see this" → "marketing" → "social media" → "beer sponsors" 的 chain 显示 her ability to connect seemingly unrelated observations. 这种 "pattern recognition" skill is what makes her valuable to the case.
+**为什么这样写：** 通过 Bree 的演绎链建立她的调查能力。"I see this"→"marketing"→"social media"→"beer sponsors" 的链显示她连接看似无关观察的能力。这种"模式识别"技能使她对案件有价值。
 
 > **原句 6:** "I am kinda great, aren't I?" She laughed as I followed her out, but I stopped when she climbed into her truck. "What?"
 
@@ -83,9 +83,9 @@ modified: "2026-10-19"
 
 **关键词：** kinda great（ kinda great—— playful self-assessment）、stopped when she climbed（stopped when she climbed—— Bradley's protective instinct）
 
-**表达方式：** Bree's playful self-assessment ("kinda great") shows her confidence. Bradley's "stopped when she climbed into her truck" 显示 his protective instinct—he wants to control the situation (take his car).
+**表达方式：** Bree 调皮的自我评价显示她的自信。Bradley "stopped when she climbed into her truck" 显示他的保护本能——他想控制局面（坐他的车）。
 
-**为什么这样写：** 通过 Bradley's protectiveness 建立 his care for Bree. "stopped when she climbed into her truck" 显示 he's not comfortable with her driving (or being alone). 这种 "protective instinct" 是 romantic tension 的 foundation.
+**为什么这样写：** 通过 Bradley 的保护欲建立他对 Bree 的关心。"stopped when she climbed into her truck" 显示他不放心她开车（或独自行动）。这种"保护本能"是浪漫张力的基础。
 
 > **原句 7:** "Take whatever." She shrugged. Someone knocked on the door, and she walked over and opened it without even checking to see who it was. "Hey, girl." Her voice went high pitched, and I cringed.
 
@@ -95,9 +95,9 @@ modified: "2026-10-19"
 
 **关键词：** without even checking（without even checking—— naivety）、high pitched（high pitched—— performative femininity）、cringed（cringed—— Bradley's reaction）
 
-**表达方式：** Sophia's naivety (opening door without checking) contrasts with Bradley's caution. "Her voice went high pitched" 显示 her performative femininity. Bradley's "cringed" shows his disdain for her behavior.
+**表达方式：** Sophia 不检查就开门的天真与 Bradley 的谨慎形成对比。"Her voice went high pitched" 显示她的表演性女性气质。Bradley 的 "cringed" 显示他对她行为的反感。
 
-**为什么这样写：** 通过 Sophia's naivety 建立 generational contrast. Sophia represents young, carefree, reckless behavior; Bradley represents cautious, experienced, protective behavior. 这种 "youth vs experience" 的 dynamic is common in thriller, but here it serves to highlight Bradley's protective instincts toward Bree.
+**为什么这样写：** 通过 Sophia 的天真建立代际对比。Sophia 代表年轻、无忧、鲁莽的行为；Bradley 代表谨慎、有经验、保护性的行为。这种"青春 vs 经验"的动态在惊悚片中常见，但此处用于凸显 Bradley 对 Bree 的保护本能。
 
 > **原句 8:** "I prefer being the predator." She tried to joke, but fear made her voice quiver.
 
@@ -107,9 +107,9 @@ modified: "2026-10-19"
 
 **关键词：** prefer being the predator（prefer being the predator—— role reversal）、voice quiver（voice quiver—— fear）
 
-**表达方式：** Bree's "prefer being the predator" 是 dark humor, but "fear made her voice quiver" reveals her true state. 这种 "joke + fear" 的 contrast 显示 Bree's coping mechanism—using humor to manage fear.
+**表达方式：** Bree 的 "prefer being the predator" 是黑色幽默，但 "fear made her voice quiver" 揭示了她的真实状态。这种"玩笑+恐惧"的对比显示 Bree 的应对机制——用幽默管理恐惧。
 
-**为什么这样写：** 通过 Bree's dark humor 建立 her character. "prefer being the predator" 显示 her desire for control (after being a victim). "fear made her voice quiver" reveals the humor is a mask. 这种 "humor as defense" 的 dynamic is common in trauma survivors.
+**为什么这样写：** 通过 Bree 的黑色幽默建立她的人物形象。"prefer being the predator" 显示她渴望控制（在作为受害者之后）。"fear made her voice quiver" 揭示幽默是面具。这种"幽默作防御"的动态在创伤幸存者中常见。
 
 > **原句 9:** "I got you—I promise." As soon as the words were out of my mouth, I knew. Her eyes widened, and the sadness that passed through them pierced my chest like a knife.
 
@@ -119,33 +119,33 @@ modified: "2026-10-19"
 
 **关键词：** I got you—I promise（I got you—I promise—— echo of river scene）、sadness that passed through them（sadness that passed through them—— trauma memory）、pierced my chest like a knife（pierced my chest like a knife—— emotional pain）
 
-**表达方式：** "I got you—I promise" echoes Bradley's words from the river scene (ch01: "I got you. I promise."). 这种 echo 显示 the trauma bond between them. "sadness that passed through them" 显示 Bree's emotional response to the echo. "pierced my chest like a knife" 显示 Bradley's empathic pain.
+**表达方式：** "I got you—I promise" 回响 Bradley 在河边场景（ch01："I got you. I promise."）的话。这种回响显示他们之间的创伤纽带。"sadness that passed through them" 显示 Bree 对回响的情感反应。"pierced my chest like a knife" 显示 Bradley 的共情痛苦。
 
-**为什么这样写：** 通过 echo 建立 "trauma bond" 主题. Bradley's words from the river scene (when they were children) are repeated here (as adults), showing the trauma's lasting impact. Bree's "sadness" and Bradley's "pierced chest" show their shared trauma. 这种 "shared memory" 的 motif is central to their relationship.
+**为什么这样写：** 通过回响建立"创伤纽带"主题。Bradley 在河边场景（童年时）说的话在这里（成年后）重复，显示创伤的持久影响。Bree 的"悲伤"和 Bradley 的"胸口被刺穿"显示他们的共享创伤。这种"共享记忆"的母题是他们关系的核心。
 
 > **原句 10:** "Bree, get your ass inside the house before I bring it in myself," I commanded, and she jumped inside. I hid my smirk. See? She can listen.
 
-**中文理解：** "Bree，给我滚进屋里，不然我自己把你拖进去，"我命令道，她跳了进去。我隐藏住 smirk。看吧？她能听。
+**中文理解：** "Bree，给我滚进屋里，不然我自己把你拖进去，"我命令道，她跳了进去。我隐藏住偷笑。看吧？她能听。
 
 **句子结构：** 直接引语 + 主谓宾（I commanded）+ and 并列（she jumped inside）+ 主谓宾（I hid my smirk）+ 独立句（See? She can listen.）。
 
 **关键词：** get your ass inside（get your ass inside—— commanding）、hid my smirk（hid my smirk—— amusement）、See? She can listen（See? She can listen—— playful satisfaction）
 
-**表达方式：** Bradley's "command" voice (get your ass inside) shows his protective instinct. "hid my smirk" shows his amusement at Bree's compliance. "See? She can listen." 是 internal monologue, 显示 his playful side.
+**表达方式：** Bradley 的"命令"语气（get your ass inside）显示他的保护本能。"hid my smirk" 显示他对 Bree 顺从的愉悦。"See? She can listen." 是内心独白，显示他的顽皮一面。
 
-**为什么这样写：** 通过 Bradley's command 建立 his protective role. "get your ass inside" is both protective and playful. "See? She can listen." shows Bradley's satisfaction at Bree's compliance—this is the "strong man, feisty woman" dynamic. 这种 "command + compliance" 的 pattern is romantic tension's foundation.
+**为什么这样写：** 通过 Bradley 的命令建立他的保护角色。"get your ass inside" 既是保护也是顽皮。"See? She can listen." 显示 Bradley 对 Bree 顺从的满足——这是"强势男、倔强女"动态。这种"命令+顺从"的模式是浪漫张力的基础。
 
 > **原句 11:** "Don't tempt me." I darted my tongue and stole a quick taste of her sweet skin. She sucked in a sharp breath.
 
-**中文理解：** "别诱惑我。"我伸出舌头，偷尝了她甜蜜肌肤的味道。她 sharp 地吸了一口气。
+**中文理解：** "别诱惑我。"我伸出舌头，偷尝了她甜蜜肌肤的味道。她急促地吸了一口气。
 
 **句子结构：** 直接引语 + 主谓宾（I darted my tongue...）+ 主谓宾（She sucked in...）。
 
 **关键词：** Don't tempt me（Don't tempt me—— warning）、stole a quick taste（stole a quick taste—— stolen intimacy）、sucked in a sharp breath（sucked in a sharp breath—— arousal）
 
-**表达方式：** "Don't tempt me" 是 Bradley's warning to himself (and to Bree). "stole a quick taste" 是 brief, stolen intimacy. "sucked in a sharp breath" 是 Bree's physical response.
+**表达方式：** "Don't tempt me" 是 Bradley 对自己（和 Bree）的警告。"stole a quick taste" 是短暂、偷来的亲密。"sucked in a sharp breath" 是 Bree 的身体反应。
 
-**为什么这样写：** 通过 stolen kiss 建立 romantic tension. "Don't tempt me" shows Bradley's struggle with his feelings. "stole a quick taste" 是 brief, not full kiss—maintaining tension. "sucked in a sharp breath" shows Bree's arousal. 这种 "almost kiss" 的 technique maintains romantic suspense.
+**为什么这样写：** 通过偷来的亲吻建立浪漫张力。"Don't tempt me" 显示 Bradley 与自己感情的挣扎。"stole a quick taste" 是短暂的，不是完整的吻——维持张力。"sucked in a sharp breath" 显示 Bree 的兴奋。这种"几乎接吻"的技巧维持浪漫悬念。
 
 ## 词汇分级
 

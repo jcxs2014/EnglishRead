@@ -125,15 +125,15 @@ modified: "2026-10-19"
 
 > **原句 10:** "I think you'd agree the department would hardly let a teen solve a murder." I gave Ray a wry look.
 
-**中文理解：** "我想你会 agree the department would hardly let a teen solve a murder." 我 gave Ray a wry look.
+**中文理解：** "我想你会同意，警局绝不会让一个少年去破谋杀案。" 我对 Ray 投以一个苦笑。
 
 **句子结构：** 直接引语 + 主谓宾（I gave Ray a wry look）。
 
 **关键词：** hardly let a teen solve a murder（ hardly let a teen solve a murder—— dismissive of Bree's involvement）、wry look（wry look—— sarcastic expression）
 
-**表达方式：** Ray's challenge to Bree's credibility is deflected with sarcasm. "hardly let a teen solve a murder" dismisses Bree's childhood involvement as irrelevant. Bree's "wry look" shows her ability to handle confrontation without escalation.
+**表达方式：** Ray 对 Bree 可信度的质疑被她用苦笑化解。"hardly let a teen solve a murder" 把 Bree 童年涉案经历斥为无关紧要，Bree 的 "wry look" 显示她能在对抗中保持克制、不升级冲突。
 
-**为什么这样写：** 通过 Ray's hostility 建立 institutional resistance to Bree. Ray represents "old school" police culture that distrusts outsiders/consultants. 这种 "institutional friction" 是 PI fiction 的 common trope, but here it's personalized through Ray's antagonism. Bree's "wry look" shows her emotional intelligence—she doesn't take the bait.
+**为什么这样写：** 通过 Ray 的敌意建立体制对 Bree 的阻力。Ray 代表不信任外来者/顾问的 "老派" 警察文化，这种 "体制摩擦" 是私家侦探小说的常见套路，但此处通过 Ray 的针对性敌意被个人化了。Bree 的 "wry look" 显示她的高情商——她不接招。
 
 > **原句 11:** "Oh my god," I whispered as the tremors set in and rooted to my bones.
 

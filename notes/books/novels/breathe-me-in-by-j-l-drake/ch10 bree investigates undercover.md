@@ -23,9 +23,9 @@ modified: "2026-10-19"
 
 **关键词：** utterly exhausting（完全筋疲力竭—— extreme fatigue）
 
-**表达方式：** "utterly exhausting" 显示 Bree's fatigue. 这种 "exhaustion" 的 state 为后文的 reckless decision (going undercover alone) 做铺垫.
+**表达方式：** Bree 的疲惫显而易见。这种疲惫状态为后文她独自卧底的鲁莽决定做铺垫。
 
-**为什么这样写：** 通过 Bree's exhaustion 建立 her vulnerability. "utterly exhausting" shows the toll of investigation. 这种 "exhaustion → vulnerability → danger" 的 chain is thriller's classic structure.
+**为什么这样写：** 通过 Bree 的疲惫建立她的脆弱性。调查的代价显示在"完全筋疲力尽"上。这种"疲惫→脆弱→危险"的链条是惊悚小说的经典结构。
 
 > **原句 2:** "I think I'll manage." I gave him a wry look and started to gather my things.
 
@@ -35,9 +35,9 @@ modified: "2026-10-19"
 
 **关键词：** I think I'll manage（我想我应付得来—— self-sufficiency）、wry look（苦笑—— sarcastic expression）
 
-**表达方式：** Bree's "I think I'll manage" shows her independence. "wry look" shows her sarcasm. 这种 "independence + sarcasm" 的 dynamic shows Bree's character.
+**表达方式：** Bree 的"我想我应付得来"显示她的独立。"苦笑"显示她的讽刺。这种"独立+讽刺"的互动显示 Bree 的性格。
 
-**为什么这样写：** 通过 Bree's independence 建立 her character. "I think I'll manage" shows she doesn't need Bradley. "wry look" shows her sarcasm. 这种 "independence" 的 dynamic is PI fiction's classic technique.
+**为什么这样写：** 通过 Bree 的独立建立她的性格。"我想我应付得来"显示她不需要 Bradley。"苦笑"显示她的讽刺。这种"独立"的互动是私家侦探小说的经典技法。
 
 > **原句 3:** "I thought I was going to have to call 911," the man continued, "but after I threw up, I felt better."
 
@@ -47,33 +47,33 @@ modified: "2026-10-19"
 
 **关键词：** call 911（叫 911—— emergency）、threw up（呕吐—— hangover symptom）
 
-**表达方式：** The man's "call 911" + "threw up" shows his hypochondria. "felt better" after vomiting shows hangover, not poisoning. 这种 "hypochondria vs reality" 的 dynamic provides comic relief.
+**表达方式：** 证人的"叫 911"+"吐了"+"感觉好多了"显示他的疑病症。呕吐后感觉好转显示宿醉，而非中毒。这种"疑病症 vs 现实"的互动提供喜剧缓解。
 
-**为什么这样写：** 通过 hypochondriac witness 建立 investigation's frustration. "call 911" + "threw up" + "felt better" = hangover, not poisoning. 这种 "false lead" 的 technique is detective fiction's classic trope.
+**为什么这样写：** 通过疑病症证人建立调查的挫折感。"叫 911"+"吐了"+"感觉好多了"=宿醉，而非中毒。这种"虚假线索"的技法是侦探小说的经典套路。
 
 > **原句 4:** "I'm not sure, Detective, but I think I had a good dose of whatever took those two women down."
 
-**中文理解：** "我不确定，侦探，但我觉得我吃到了 whatever 把那两个女人放倒的东西的一剂好剂量。"
+**中文理解：** "我不确定，侦探，但我觉得我吃到了某种把那两个女人放倒的东西的一剂好剂量。"
 
 **句子结构：** 直接引语，复合句。
 
 **关键词：** good dose（好剂量—— hypochondriac claim）、whatever took those two women down（whatever 把那两个女人放倒—— vague reference）
 
-**表达方式：** The man's "good dose" claim is hypochondria. "whatever took those two women down" shows his vagueness. 这种 "hypochondria + vagueness" 的 dynamic provides comic relief.
+**表达方式：** 证人的"好剂量"说法是疑病症。"某种把那两个女人放倒的东西"显示他的含糊。这种"疑病症+含糊"的互动提供喜剧缓解。
 
-**为什么这样写：** 通过 hypochondriac witness 建立 investigation's frustration. "good dose" + "whatever took those two women down" shows the man's confusion. 这种 "false lead" 的 technique is detective fiction's classic trope.
+**为什么这样写：** 通过疑病症证人建立调查的挫折感。"好剂量"+"某种把那两个女人放倒的东西"显示证人的混乱。这种"虚假线索"的技法是侦探小说的经典套路。
 
 > **原句 5:** "I'm exhausted," I groaned. "We interviewed a bunch of hypochondriacs that got us nowhere."
 
-**中文理解：** "我精疲力竭，"我 groaned。"我们采访了一堆疑病症患者，什么都没得到。"
+**中文理解：** "我精疲力竭，"我呻吟道。"我们采访了一堆疑病症患者，什么都没得到。"
 
 **句子结构：** 直接引语，两个句子。
 
 **关键词：** exhausted（精疲力竭—— extreme fatigue）、hypochondriacs（疑病症患者—— false witnesses）
 
-**表达方式：** Bree's "exhausted" shows her fatigue. "hypochondriacs that got us nowhere" shows investigation's frustration. 这种 "exhaustion + frustration" 的 dynamic is detective fiction's classic technique.
+**表达方式：** Bree 的"精疲力竭"显示她的疲惫。"采访了一堆疑病症患者，什么都没得到"显示调查的挫折。这种"疲惫+挫折"的互动是侦探小说的经典技法。
 
-**为什么这样写：** 通过 Bree's exhaustion 建立 investigation's toll. "hypochondriacs that got us nowhere" shows the futility of interviewing false witnesses. 这种 "futility" 的 dynamic is detective fiction's classic technique.
+**为什么这样写：** 通过 Bree 的疲惫建立调查的代价。"采访了一堆疑病症患者，什么都没得到"显示采访虚假证人的徒劳。这种"徒劳"的互动是侦探小说的经典技法。
 
 > **原句 6:** "I thought I saw his fingers, but maybe I didn't."
 
@@ -83,9 +83,9 @@ modified: "2026-10-19"
 
 **关键词：** thought I saw his fingers（我想我看到了他的手指—— uncertain sighting）、maybe I didn't（也许没有—— doubt）
 
-**表达方式：** Bree's "thought I saw" shows uncertainty. "maybe I didn't" shows self-doubt. 这种 "uncertainty + self-doubt" 的 dynamic shows Bree's awareness of her limitations.
+**表达方式：** Bree 的"我想我看到了"显示不确定。"也许没有"显示自我怀疑。这种"不确定+自我怀疑"的互动显示 Bree 对自身局限的清醒。
 
-**为什么这样写：** 通过 Bree's uncertainty 建立 investigation's frustration. "thought I saw" + "maybe I didn't" shows the difficulty of spotting the suspect. 这种 "uncertain sighting" 的 dynamic is common in thriller, where the killer is hidden in plain sight.
+**为什么这样写：** 通过 Bree 的不确定建立调查的挫折。"我想我看到了"+"也许没有"显示发现嫌疑人的困难。这种"不确定的目击"的互动在惊悚小说中常见，杀手隐藏在显眼处。
 
 > **原句 7:** "No one leaves!" I shouted at the bouncers and police to bar the exits. I checked Sophia's pulse on her wrist even though I knew she was gone.
 
@@ -95,9 +95,9 @@ modified: "2026-10-19"
 
 **关键词：** No one leaves（谁也不准离开—— containment）、checked Sophia's pulse（检查 Sophia 的脉搏—— confirmation of death）
 
-**表达方式：** "No one leaves" shows Bree's command authority. "checked Sophia's pulse even though I knew she was gone" shows her protocol-following despite knowing the outcome.
+**表达方式：** "谁也不准离开"显示 Bree 的指挥权威。"检查 Sophia 的脉搏即使知道她已死"显示她尽管知道结果仍遵守规程。
 
-**为什么这样写：** 通过 Bree's response 建立 her professionalism. "No one leaves" shows her ability to take charge. "checked pulse even though I knew" shows her adherence to protocol. 这种 "professionalism under pressure" 的 dynamic is thriller's classic technique.
+**为什么这样写：** 通过 Bree 的反应建立她的专业性。"谁也不准离开"显示她能掌控局面。"即使知道仍检查脉搏"显示她遵守规程。这种"压力下的专业性"的互动是惊悚小说的经典技法。
 
 > **原句 8:** "What!" That completely blew me out of the water.
 
@@ -107,33 +107,33 @@ modified: "2026-10-19"
 
 **关键词：** blew me out of the water（让我大吃一惊—— shock）
 
-**表达方式：** Bree's "What!" shows shock. "blew me out of the water" shows the magnitude of the revelation (Sophia was strangled, not poisoned).
+**表达方式：** Bree 的"什么！"显示震惊。"完全让我大吃一惊"显示揭露的分量（Sophia 是被勒死，而非中毒）。
 
-**为什么这样写：** 通过 Bree's shock 建立 investigation's turn. Sophia's cause of death (strangulation) contradicts the poison MO, suggesting a different killer or a change in method. 这种 "unexpected revelation" 的 dynamic is thriller's classic technique.
+**为什么这样写：** 通过 Bree 的震惊建立调查的转折。Sophia 的死因（勒死）与投毒手法矛盾，暗示不同的杀手或方法的改变。这种"意外揭露"的互动是惊悚小说的经典技法。
 
 > **原句 9:** "Bree!" Brad's voice came from somewhere, and I fought to stay with it as the rocks on the shoreline dug into my aching body. "Bree, where are you?"
 
-**中文理解：** "Bree！"Bradley 的声音从某个地方传来，我在岩石 shoreline 上努力保持意识，岩石 dig into 我 aching 的身体。"Bree，你在哪儿？"
+**中文理解：** "Bree！"Bradley 的声音从某个地方传来，我强撑着保持清醒，岸边的岩石扎进了疼痛的身体。"Bree，你在哪儿？"
 
 **句子结构：** 直接引语 + 主谓宾（Brad's voice came from somewhere...）+ and 并列（I fought to stay with it...）+ 直接引语。
 
 **关键词：** fought to stay with it（努力保持意识—— consciousness）、rocks on the shoreline（shoreline 上的岩石—— physical pain）
 
-**表达方式：** "fought to stay with it" shows Bree's struggle to stay conscious. "rocks on the shoreline dug into my aching body" 显示 physical pain. 这种 "consciousness → pain" 的 dynamic is thriller's classic technique.
+**表达方式：** "强撑着保持清醒"显示 Bree 挣扎着保持意识。"岸边的岩石扎进了疼痛的身体"显示身体的疼痛。这种"意识→疼痛"的互动是惊悚小说的经典技法。
 
-**为什么这样写：** 通过 Bree's struggle 建立 her survival. "fought to stay with it" shows her determination. "rocks dug into my aching body" shows physical pain. 这种 "survival → pain" 的 dynamic is thriller's classic technique.
+**为什么这样写：** 通过 Bree 的挣扎建立她的生存。"强撑着保持清醒"显示她的决心。"岩石扎进了疼痛的身体"显示身体的疼痛。这种"生存→疼痛"的互动是惊悚小说的经典技法。
 
 > **原句 10:** "I will always protect you." I felt tears prickle my eyes. "I'll check on you later," he said as he straightened up and walked out of the room.
 
-**中文理解：** "我会永远保护你。"我感到泪水 prickled 我的眼睛。"我稍后会 check on 你，"他说着 straightened up 并走出房间。
+**中文理解：** "我会永远保护你。"泪水涌上我的眼睛。"我稍后会来看看你，"他说着起身走出房间。
 
 **句子结构：** 直接引语 + 主谓宾（I felt tears prickle...）+ 直接引语 + 主谓宾（he said as he straightened up...）。
 
 **关键词：** always protect you（永远保护你—— commitment）、tears prickle my eyes（泪水 prickled 我的眼睛—— emotional response）
 
-**表达方式：** Bradley's "always protect you" is commitment. "tears prickle my eyes" shows Bree's emotional response. 这种 "commitment → emotional response" 的 dynamic is romantic tension's foundation.
+**表达方式：** Bradley 的"永远保护你"是承诺。"泪水涌上我的眼睛"显示 Bree 的情感反应。这种"承诺→情感反应"的互动是浪漫张力的基础。
 
-**为什么这样写：** 通过 Bradley's commitment 建立 his role as Bree's protector. "always protect you" is the commitment Bree needs to hear. "tears prickle my eyes" shows Bree's emotional response. 这种 "commitment → tears" 的 dynamic is romantic fiction's classic technique.
+**为什么这样写：** 通过 Bradley 的承诺建立他作为 Bree 保护者的角色。"永远保护你"是 Bree 需要听到的承诺。"泪水涌上我的眼睛"显示 Bree 的情感反应。这种"承诺→泪水"的互动是浪漫小说的经典技法。
 
 > **原句 11:** "I don't think so," Brad said and licked his lips, "because if you had a good dose, you'd be dead."
 
@@ -143,9 +143,9 @@ modified: "2026-10-19"
 
 **关键词：** I don't think so（我不这么认为—— dismissal）、you'd be dead（你已经死了—— consequence）
 
-**表达方式：** Bradley's "I don't think so" shows dismissal. "you'd be dead" shows consequence. 这种 "dismissal + consequence" 的 dynamic shows Bradley's directness.
+**表达方式：** Bradley 的"我不这么认为"显示驳回。"你已经死了"显示后果。这种"驳回+后果"的互动显示 Bradley 的直率。
 
-**为什么这样写：** 通过 Bradley's directness 建立 his character. "I don't think so" shows dismissal. "you'd be dead" shows consequence. 这种 "directness" 的 dynamic is detective fiction's classic technique.
+**为什么这样写：** 通过 Bradley 的直率建立他的性格。"我不这么认为"显示驳回。"你已经死了"显示后果。这种"直率"的互动是侦探小说的经典技法。
 
 ## 词汇分级
 
