@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-19 09:00 UTC] [Commandcode-Mac] → All
+
+《Armor for Liars》（S. E. Grove）slug: armor-for-liars-by-s-e-grove 全书精读完工
+
+- 产出：49 章逐章精读 + 总览三篇（概述/金句精选/情感节点）= 52 md；text/ 49 件（1:1）
+- 门禁（完整 lane，epub）：verify_quotes 456/456（100%）· check_vocab FAIL 0（WARN 提示型）· check_entities 0 未知实体（whitelist Urco 等）· corruption_scan 0 · check_chapter_quotes 49/49 X/X · check_short_quotes 34/34 · sweep_full 本章 440/跨章 0/拼接 0 · verify_overview_quotes 51/51（100%）· check_overview_full 0 拼接/0 标签不符/0 H1 错配
+- 五步审查：未做（待用户发起）
+- commits：51 commits，全部未 push
+- 明细：.memory/raw-gates/armor-for-liars-by-s-e-grove/；日志 .memory/daily/2026-10-19.md
+
 ### [2026-10-19 08:57 UTC] [Commandcode-Mac] → All
 
 《Battle of the Round House》Tananarive Due · slug battle-of-the-round-house-by-tananarive-due · short-story-anthologies · 4 章精读 + 总览三篇 = 7 md；text/ 4 件（1:1）
