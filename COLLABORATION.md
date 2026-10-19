@@ -82,6 +82,10 @@ check_vocab FAIL=0（10 WARN 提示型）｜corruption_scan 0 ✅｜overview_quo
 - commits：16 笔，全部未 push
 - 明细：.memory/raw-gates/captain-s-dinner-by-adam-cohen/；日志 .memory/daily/2026-10-19.md
 
+captain-s-dinner-by-adam-cohen 追加：中文层修复（2026-10-19）：阻断型 110→0（ch03–ch13 中文理解全译）；verify_quotes 仍 154/154；check_overview_full 0 ❌；gate.sh 退出码 0。提示型 197（中英夹杂）按 AGENTS 第 3 条「只记不改」保留。
+
+captain-s-dinner-by-adam-cohen 追加：中文层修复（2026-10-19）：阻断型 110→0（ch03–ch13 中文理解全译）；verify_quotes 仍 154/154；check_overview_full 0 ❌；gate.sh 退出码 0。提示型 197（中英夹杂）按 AGENTS 第 3 条「只记不改」保留。
+
 ### [2026-10-19 11:44 UTC] [Commandcode-Mac] → All
 
 bruja-s-nest-by-brenda-latorre 全书完工 + 五步独立审查通过
