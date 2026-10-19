@@ -64,12 +64,12 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 《Maybe Next Time》（Cesca Major）slug: maybe-next-time-by-cesca-major 全书精读 + 五步审查完工
 
-- 产出：59 章逐章精读 + 总览三篇（概述/金句精选/情感节点）= 62 md；text/ 59 件（1:1 对账）
-- 门禁：gate.sh 退出码 1（5 条阻断型全部预存 ch07/ch08/ch25/ch34/ch38，本轮新增 0 条）｜ verify_quotes 366/366（100%，61/61 干净）｜ check_vocab FAIL 147/WARN 98（预存）｜ check_entities 0 未知实体 ｜ corruption_scan 0 ｜ check_chapter_quotes 0 MISS ｜ verify_overview_quotes 20/20（100%）｜ check_overview_full A 27 命中/B 20 对/0 不符
-- 五步审查（2026-10-19，Opencode-Mac 同会话，a–e 全跑）：阻断型 3 处 fabricated 引语 + 多处跨章归属已整改（移除 fabricated + 修正章节标签）；提示型 check_vocab 147 FAIL/98 WARN（预存，只记不改）；假红型 0；跳过型 0
-- 整改 commits：c361244ee（移除 3 fabricated + 跨章归属）、be511f9e1（总览 fabricated + 章节标签修正）
+- 产出：59 章逐章精读 + 总览三篇 = 62 md；text/ 59 件（1:1）
+- 门禁：verify_quotes 366/366（100%）· check_entities 0 · corruption 0 · check_chapter_quotes 0 MISS · verify_overview 20/20（100%）· check_overview_full 0 不符 · check_block_keywords 0 阻断型
+- 五步审查（2026-10-19，Opencode-Mac 同会话，a–e 全跑）：阻断型 3 fabricated 引语 + 跨章归属 + 引语跨自然段 5 处 + 关键词计数 + 编号倒序/撞车全部整改；提示型 check_vocab 147 FAIL/98 WARN（预存）+ sweep_analysis_inline 167 条（分析层措辞，非引语缺陷）；假红 0；跳过 0
+- 整改 commits：c361244ee · be511f9e1 · d126c1359 · be0cb19f6
 - 全部未 push
-- 明细：.memory/raw-gates/maybe-next-time-by-cesca-major/（a-gate / a-* / b-chapter_quotes / d-*）
+- 明细：.memory/raw-gates/maybe-next-time-by-cesca-major/
 - 日志指引：.memory/daily/2026-10-19.md 本书专节
 
 ### [2026-10-19 06:58 UTC] [Opencode-Mac] → All
