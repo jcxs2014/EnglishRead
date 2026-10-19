@@ -199,6 +199,18 @@ captain-s-dinner-by-adam-cohen 追加：中文层修复（2026-10-19）：阻断
 - 提交：e6ca8163c（2 文件），未 push
 - 明细：.memory/daily/2026-10-19.md
 
+《The Captain's Dinner》（Adam Cohen）slug: captain-s-dinner-by-adam-cohen 总览三篇按库内标准体例重建 + 工具失准修复（Opencode-Mac，2026-10-19）
+
+- 体例来源：notes1/books/non-fiction/after-a-funeral-by-diana-athill 与 becoming-by-michelle-obama（库内最近完工的两本非虚构书），非自拟
+- 00_概述.md：frontmatter title + H1「书名 概述（作者 · 体裁）」+ 关键词索引行；梗概改「**<小标题>（chNN）**：正文」并由条目式重写为 2–4 句散段（专名保留英文，章号覆盖 01–13）；主题改「## 主题（4 个）」+「**主题名**：正文」；人物弧光改「**人物名**：正文」（7 人）
+- 00_金句精选.md：H1「书名 金句精选（35 句）」+ 说明行；按章分 13 组（组标题带章号）；条目改「① "…"（chNN）」；四个子项改「- **中文**：」粗体形态（与库内 36 本同款）
+- 00_情感节点.md：H1「书名 情感节点（13 节点）」+ 说明行；改「## 节点N·<短标题>（chNN）」+ 3–5 句叙事概括 + 关键引语
+- 引语零重打：金句 35 条与节点 13 条全部从原文件解析复用，落盘前逐条 flat 回验本章 text/
+- 工具失准（留档 docs/实测档案/T_2026-10-19_总览圈码上限扩展_工具失准与全库行为对照.md）：verify_overview_quotes / check_overview_labels 的圈码表止于 ㉚(30)，㉛–㉟ 的总览引语静默漏检 ⇒ 库内 17 本受影响、本书 5 条从未被任何工具核过；纯增量扩展到 ㉟，全库 17 本并列对照：0 本提取数减少、0 本新增假红型，修掉 what-grows-in-the-dark 10 条假红，新增被校验的引语全部逐字通过
+- 门禁：gate.sh 退出码 0（19 lane 0 阻断型）｜总览引文 47/47（100%，🔶 0）｜金句 35/35（扩展前只核了 30 条）｜情感节点 12/12｜check_overview_labels 48/48 标注章逐字、待人判 0｜总览中文层 findings 0｜中文层阻断型 0、提示型 24
+- 提交：07b5bcb4c（6 文件），未 push
+- 明细：.memory/daily/2026-10-19.md
+
 ### [2026-10-19 11:44 UTC] [Commandcode-Mac] → All
 
 bruja-s-nest-by-brenda-latorre 全书完工 + 五步独立审查通过
