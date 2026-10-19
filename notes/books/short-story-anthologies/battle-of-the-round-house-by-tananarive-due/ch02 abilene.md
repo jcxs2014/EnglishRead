@@ -70,7 +70,7 @@
 
 > **原句 9:** "You’re just in time for a late supper!" she called out. "Welcome to Zipporah!"
 
-- **中文理解**： bull-riding girl (regal, indigo scarf, gold patches, men's riding pants) orders "Follow me" then the ridge woman calls down "You're just in time for a late supper! Welcome to Zipporah!" — hospitality as first word after danger. The chapter ends on welcome, not on the pursuit.
+- **中文理解**：骑牛女孩（regal，靛蓝围巾，金片，男式骑马裤）下令 “Follow me”，随后山脊上的女人喊下 “You're just in time for a late supper! Welcome to Zipporah!”——危险之后第一句话是款待。本章以欢迎而非追击收尾。
 - **关键词**：late supper / Welcome to Zipporah
 - **为什么这样写**：Ending on "Welcome to Zipporah!" rather than on the pursuers creates narrative relief and thematic contrast: Abilene was lawless and hostile; Zipporah is hospitable and prepared. The "late supper" grounds the magic in domesticity (women, children, food). This welcome also sets up ch03's night defense—the hospitality is real but so is the danger.
 - **读者视角提示**：The bull rider's "more an order than an invitation" shows Zipporah's military readiness beneath hospitality. The bull (stumpy snout, stealthy) is a practical scout mount, not a horse—Zipporah adapts to its environment. Lucy's "regal presence" observation establishes her capacity to recognize dignity in colored women, contrasting with Abilene's degradation.

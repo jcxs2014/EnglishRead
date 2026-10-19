@@ -41,42 +41,42 @@
 
 > **原句 5:** "There’s no greater blessing on this earth than family," Auntie Zee said, speaking loudly enough for the entire hushed dining hall to hear. "So we welcome my brother-in-law, Isaiah, with his wife, Lucille, and their three lovely children to enjoy the bounty of Zipporah Ranch—and hopefully they will choose to remain here with us to help keep our community strong."
 
-- **中文理解**：Auntie Zee's welcome speech frames family as "greatest blessing" and invites Freemans to stay "to help keep our community strong." The communal blessing and applause follow. Lucy's whisper to Auntie Zee ("We're awful hungry...") shows her using whispering for mundane needs, normalizing the ability.
+- **中文理解**：Auntie Zee 的 welcome speech 把 family 定为 “greatest blessing”，并邀请 Freeman 家留下 “to help keep our community strong”。communal blessing 与掌声随之而来。Lucy 对 Auntie Zee 的 whisper（“We're awful hungry...”）显示她用 whispering 满足日常需求，把这种能力日常化。
 - **关键词**：no greater blessing / family / community strong
 - **为什么这样写**：Auntie Zee's speech establishes Zipporah's communal ethos (family + community strength) and the practical need for men (Isaiah as blacksmith, given the ailing blacksmith). Lucy's whisper to Auntie Zee about hunger is a small, domestic use of her power—Due keeps magic grounded in everyday life. The "hopefully they will choose to remain" hints at Papa's reluctance (prideful, wants bigger business).
 - **读者视角提示**：Auntie Zee as "Mama Zee" to all shows her maternal authority over the community. The "hushed dining hall" and "warm sound" of applause create communal warmth that contrasts with the coming violence. Papa's "glumness" and "jaw tightened with disappointment" reveal his conflict—Zipporah is safe but not his ambition.
 
 > **原句 6:** "The bell in a wooden bell stand on a table near the wall tinkled, tugged by a rope that vanished into a mousehole. The sound was delicate, but the impact was that of a gunshot. Everyone jumped to their feet, rushing into formations."
 
-- **中文理解**：Bell tinkles "delicate" but impact is "gunshot"—sensory contrast. The rope "vanished into a mousehole" suggests hidden signaling system. Everyone's instant response ("rushing into formations") shows drilled preparedness. The Kaw girl's frantic gesture and birdcall signal complete the alarm system.
+- **中文理解**：Bell tinkles “delicate” 但 impact 是 “gunshot”——感官对比。rope “vanished into a mousehole” 暗示隐藏的信号系统。Everyone 的即时反应（“rushing into formations”）显示训练有素的戒备。Kaw girl 的 frantic gesture 与 birdcall 信号补全警报系统。
 - **关键词**：tinkled / mousehole / formations
 - **为什么这样写**：Due uses the bell scene to reveal Zipporah's military readiness—hidden infrastructure (rope through mousehole), practiced formations (children to wall, teenagers to loft), and multi-layered signaling (Kaw scout, birdcall, bell). The "delicate" vs "gunshot" contrast emphasizes how small signals trigger large responses in a prepared community.
 - **读者视角提示**：The mousehole rope is a clever detail—Zipporah's defense system is integrated into its architecture. The "mechanized precision" of women/teenagers sprinting to loft shows training, not panic. This preparedness contrasts with Freeman family's helplessness (Papa frozen, Mama small).
 
 > **原句 7:** "Watch ’em, watch ’em!" Auntie Zee said, still their steadfast general. "Keep ’em pinned left on the path! Don’t let ’em get near the door or out to the homesteads! Don’t give ’em nowhere to hide!"
 
-- **中文理解**：Auntie Zee's "Fire!" triggers the battle; her subsequent commands ("Watch 'em," "Keep 'em pinned," "Don't let 'em get near") show tactical leadership. "steadfast general" is Lucy's characterization. The battle is organized: women at windows with Winchesters, old-timers with breechloaders reloading via grandchildren.
+- **中文理解**：Auntie Zee 的 “Fire!” 触发战斗；其后续命令（“Watch 'em,”“Keep 'em pinned,”“Don't let 'em get near”）显示战术领导。“steadfast general” 是 Lucy 的 characterization。战斗有组织：women at windows with Winchesters，old-timers with breechloaders reloading via grandchildren。
 - **关键词**：steadfast general / pinned left
 - **为什么这样写**：Due structures the battle as coordinated defense, not chaos. Auntie Zee as "steadfast general" subverts gendered expectations (women as warriors). The old-timers' reloading regimen ("Cla-Clunk") shows generational cooperation. Lucy's witnessing from behind barrels creates a child's-eye view of violence—she sees discipline, not heroism.
 - **读者视角提示**：The battle scene's detail (old-timers' breechloader rhythm, children reloading) emphasizes community defense as collective effort. Lucy's "tether to her rational self broke" shows trauma's onset. Her unbarred door (later) is a child's error, not malice—Due avoids making Lucy a hero.
 
 > **原句 8:** "Leave us alone!" Lucy shouted.
 
-- **中文理解**：Lucy, wrapped in calf blanket as "hooded poncho," confronts the riders alone: first whispers (unheard), then shouts "Leave us alone!" The red-haired rider grins, raises rifle, calls her "nit" (louse egg). Papa shoots him. "nits make lice" is dehumanizing slur (children as pests). Lucy's "I'm sick of running" shows her transformation from fearful child to defiant witness.
+- **中文理解**：Lucy，裹着 calf blanket 作 “hooded poncho”，独自面对 riders：先 whisper（未被听见），再喊 “Leave us alone!” red-haired rider 嘲笑，举枪，称她 “nit”（虱卵）。Papa 射杀他。“nits make lice” 是 dehumanizing slur（把孩子当害虫）。Lucy 的 “I'm sick of running” 显示她从 fearful child 转化为 defiant witness。
 - **关键词**：Leave us alone
 - **为什么这样写**：Lucy's confrontation is the novella's emotional climax—she stops running, faces danger, uses both whisper and voice. The "nit" slur (children as lice) is historically accurate dehumanization, making Papa's shot an act of protection. Lucy's blanket-as-poncho is childlike magic thinking (invisibility cloak), blending with real magic.
 - **读者视角提示**：Lucy's "I'm sick of running" echoes her family's entire journey (fleeing Lexington, Topeka, Abilene). Her standing ground is character growth. The red-haired rider's "Barely worth a bullet" shows the mob's contempt for children, justifying the bulls' attack. Papa's shot (not Lucy's whisper) saves her—Due avoids making Lucy's magic too powerful.
 
 > **原句 9:** "A clear woman’s voice rose with song in the night, as melodic as a nightingale in a fairy tale. Lucy couldn’t see the singer in the dark, but she recognized the voice of Binta, the young woman who had led them inside on her bull. Binta’s voice was both in the air and like soft breath in Lucy’s ears, exactly like one of her whispers."
 
-- **中文理解**：Binta's song (nightingale-like) serves as signal to Boss Bulls. Lucy, frozen before charging bulls, whispers then sings Binta's melody despite not knowing the language. The bulls part around her "like the Red Sea" (Papa's later description). Lucy survives; bulls attack riders only.
+- **中文理解**：Binta's song（nightingale-like）作为 signal to Boss Bulls。Lucy，frozen before charging bulls，whispers then sings Binta's melody despite not knowing the language。bulls part around her “like the Red Sea”（Papa's later description）。Lucy survives；bulls attack riders only。
 - **关键词**：nightingale / Red Sea
 - **为什么这样写**：Due fuses whispering (Lucy's ability) with Binta's song (Zipporah's magic) in Lucy's survival. The "Red Sea" simile (Papa's description) connects to biblical liberation (Zipporah = Moses's wife). Bulls' selective targeting (riders only, not horses or Lucy) shows magical discrimination—magic has ethics. Lucy's uncertainty ("could she say for certain that her whisper and song had saved her?") preserves ambiguity.
 - **读者视角提示**：Lucy's "I'm not one of them" whisper to bulls is identity declaration (Freeman, not mob). Her singing "despite the language being foreign" shows magic working through intent, not vocabulary. The bulls' parting is the "little magic" of ch01 realized—Zipporah's defense, not Lucy's alone.
 
 > **原句 10:** "But on that morning after the battle, Lucy could only smile."
 
-- **中文理解**：Aftermath: no bodies, no blood, no hoofprints—"newly swept path." Papa's "Where they won't be found" and Mama's "Did you 'talk' to those bulls?" Lucy's uncertain answer and final smile. The novella ends ch03 on Lucy's smile, not on victory or explanation.
+- **中文理解**：Aftermath：no bodies, no blood, no hoofprints——“newly swept path.” Papa's “Where they won't be found” and Mama's “Did you 'talk' to those bulls?” Lucy's uncertain answer and final smile。novella 以 Lucy 的 smile 结束 ch03，而非胜利或解释。
 - **关键词**：newly swept path / Where they won’t be found / could only smile
 - **为什么这样写**：Due's ending refuses closure—magic's mechanism unexplained, bodies vanished, Lucy's agency uncertain. "could only smile" is ambiguous: relief? wonder? complicity? This ambiguity matches Lucy's lifelong uncertainty ("For the rest of her life, she wouldn't be quite sure"). The "newly swept path" suggests Zipporah's continued concealment (cleaning evidence).
 - **读者视角提示**：The vanished bodies (no blood, no hoofprints) are the "little magic" of ch01—Zipporah's defense leaves no trace. Papa's "Where they won't be found" is matter-of-fact, accepting magic's outcome. Mama's question ("Did you 'talk' to those bulls?") frames Lucy's whispering as possible cause, but Lucy's uncertainty preserves the mystery.
