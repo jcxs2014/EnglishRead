@@ -33,7 +33,7 @@ start_date: 2026-10-19
 
 > **原句 2:** "Once I get there, the stone woman at the top of the front steps frowns at me. I see the judgment in her eyes, beyond her eroded face."
 
-**中文理解**：stone woman statue "frowns" at Yolanda—personification of judgment. "Beyond her eroded face" shows time’s erosion but judgment remains。
+**中文理解**：stone woman statue "frowns" at Yolanda——personification of judgment。"Beyond her eroded face" 显示 time’s erosion 但 judgment remains。
 
 **句子结构**：两句话：Once I get there... + I see the judgment...。
 
@@ -47,7 +47,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "“Yolanda?” she asks, even though she knows it’s me. She blinks. After a few seconds, she remembers who she is. Or who she is supposed to be."
 
-**中文理解**：Alta’s "Yolanda?"—she knows but asks. "Remembers who she is. Or who she is supposed to be" shows Alta’s role-playing—she must be strict housekeeper, not concerned maternal figure。
+**中文理解**：Alta 的 "Yolanda?"——she knows but asks。"Remembers who she is. Or who she is supposed to be" 显示 Alta’s role-playing——she must be strict housekeeper，not concerned maternal figure。
 
 **句子结构**：引语 + 叙述者评注：She blinks. After a few seconds...。
 
@@ -60,7 +60,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "“Don Julián is going to hear about this.” Her lower lip trembles. “Dios mío. I don’t even know what to tell you. Didn’t you listen when I said we need our jobs?"
 
-**中文理解**：Alta’s threat—"Don Julián is going to hear about this"—but her "lower lip trembles" shows concern beneath anger. "Didn’t you listen when I said we need our jobs?" shows economic anxiety。
+**中文理解**：Alta 的 threat——"Don Julián is going to hear about this"——but her "lower lip trembles" 显示 concern beneath anger。"Didn’t you listen when I said we need our jobs?" 显示 economic anxiety。
 
 **句子结构**：引语（Don Julián is going to hear about this.）+ 叙述者评注（Her lower lip trembles.）+ 引语（Dios mío. I don’t even know what to tell you. Didn’t you listen when I said we need our jobs?）。
 
@@ -74,9 +74,9 @@ start_date: 2026-10-19
 
 > **原句 5:** "“You’re not allowed to have noviecitos here. You know that.”"
 
-**中文理解**：Alta’s "noviecitos" (little boyfriends)—she assumes Yolanda has a lover. "You know that" is accusatory。
+**中文理解**：Alta 的 "noviecitos" (little boyfriends)——she assumes Yolanda has a lover。"You know that" 是 accusatory。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主语 You + 谓语’re not allowed + 不定式 to have noviecitos here。
 
 **关键词**：
 - `noviecitos`：小男朋友——Alta’s assumption
@@ -87,9 +87,9 @@ start_date: 2026-10-19
 
 > **原句 6:** "“Let this be the last time, Yolanda.”"
 
-**中文理解**：Alta’s final warning—"Let this be the last time." Echoes ch05’s "Que sea la última vez." Pattern of warnings。
+**中文理解**：Alta 的 final warning——"Let this be the last time." Echoes ch05’s "Que sea la última vez." Pattern of warnings。
 
-**句子结构**：祈使句。
+**句子结构**：祈使句，Let this be the last time（祈使结构）。
 
 **关键词**：
 - `Let this be the last time`：这是最后一次——final warning
@@ -100,9 +100,9 @@ start_date: 2026-10-19
 
 > **原句 7:** "“I better get going.”"
 
-**中文理解**：Yolanda’s "I better get going"—she wants to escape Alta’s scrutiny. Shows her evasion。
+**中文理解**：Yolanda 的 "I better get going"——她想要 escape Alta’s scrutiny。Shows her evasion。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主语 I + 谓语 better get going。
 
 **关键词**：
 - `I better get going`：我最好走了——evasion
@@ -113,9 +113,9 @@ start_date: 2026-10-19
 
 > **原句 8:** "“Sí. Sí, Alta.”"
 
-**中文理解**：Yolanda’s compliant "Sí. Sí, Alta."—surface obedience, internal resistance。
+**中文理解**：Yolanda 的 compliant "Sí. Sí, Alta."——surface obedience，internal resistance。
 
-**句子结构**：两句话。
+**句子结构**：两句话，第一句 Sí.（是的），第二句 Sí, Alta.（是的，Alta）。
 
 **关键词**：
 - `Sí. Sí, Alta.`：是的，是的，Alta——compliance
@@ -126,7 +126,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "“What kind of accident?”"
 
-**中文理解**：Alta’s question—"What kind of accident?"—demands explanation. Yolanda must lie。
+**中文理解**：Alta 的 question——"What kind of accident?"——demands explanation。Yolanda must lie。
 
 **句子结构**：问句。
 
@@ -139,7 +139,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "“You know . . . I fell down the stairs.” Women say that all the time. It’s code for “My boyfriend hit me. My boyfriend cut me open. Maimed me.” There are few things men won’t do to women. We accept it in silence. Cover for them with that phrase, but not really. It’s a way of saying, “You know how men are. Boys will be boys. He hurt me. That’s the way life is.”"
 
-**中文理解**：Yolanda’s lie—"fell down the stairs"—and its social meaning. "Women say that all the time" shows this is universal excuse for male violence. "Boys will be boys" critiques gender norms。
+**中文理解**：Yolanda 的 lie——"fell down the stairs"——and its social meaning。"Women say that all the time" 显示这是 universal excuse for male violence。"Boys will be boys" critiques gender norms。
 
 **句子结构**：引语 + 叙述者评注（Women say that all the time...）+ 多句分析。
 
@@ -153,7 +153,7 @@ start_date: 2026-10-19
 
 > **原句 11:** "I imagine Javier inside the shed. Using a scalpel to remove the organs that make living things function."
 
-**中文理解**：Yolanda imagines Javier in shed—scalpel removing organs. "Organs that make living things function" shows her awareness of violence beneath Javier’s charm。
+**中文理解**：Yolanda imagines Javier in shed——scalpel removing organs。"Organs that make living things function" 显示她的 awareness of violence beneath Javier’s charm。
 
 **句子结构**：两句话：I imagine... + Using a scalpel...。
 
@@ -167,7 +167,7 @@ start_date: 2026-10-19
 
 > **原句 12:** "“What a pleasant surprise.” He pulls at his mustache. “Are you here as a visitor or an apprentice?”"
 
-**中文理解**：Javier’s greeting—"What a pleasant surprise"—shows his charm. "Visitor or apprentice?" frames Yolanda’s presence as either social or professional。
+**中文理解**：Javier 的 greeting——"What a pleasant surprise"——显示他的 charm。"Visitor or apprentice?" frames Yolanda’s presence as either social or professional。
 
 **句子结构**：引语 + 动作（He pulls at his mustache）+ 引语。
 
@@ -181,7 +181,7 @@ start_date: 2026-10-19
 
 > **原句 13:** "“I . . .” This is the first time I’ve been inside. The shed smells of pine with an underlying layer of metal."
 
-**中文理解**：Yolanda’s hesitation—"I..."—shows her uncertainty. Shed’s smell (pine + metal) creates atmosphere of death masked by pleasantness。
+**中文理解**：Yolanda 的 hesitation——"I..."——显示她的 uncertainty。Shed’s smell (pine + metal) 创建 atmosphere of death masked by pleasantness。
 
 **句子结构**：引语 + 两句话：This is the first time... + The shed smells...。
 
@@ -195,7 +195,7 @@ start_date: 2026-10-19
 
 > **原句 14:** "“Specimens?”"
 
-**中文理解**：Javier’s "Specimens?"—euphemism for dead animals. Shows his professional distance from death。
+**中文理解**：Javier 的 "Specimens?"——euphemism for dead animals。Shows his professional distance from death。
 
 **句子结构**：单字问句。
 
@@ -208,7 +208,7 @@ start_date: 2026-10-19
 
 > **原句 15:** "“You are a curious little bird, aren’t you?”"
 
-**中文理解**：Javier’s "curious little bird"—patronizing but affectionate. "Little bird" diminishes Yolanda, showing his condescension。
+**中文理解**：Javier 的 "curious little bird"——patronizing but affectionate。"Little bird" diminishes Yolanda，显示他的 condescension。
 
 **句子结构**：问句。
 
@@ -221,7 +221,7 @@ start_date: 2026-10-19
 
 > **原句 16:** "“May I?” he asks, but his hands are already on my foot."
 
-**中文理解**：Javier’s "May I?"—asks permission but acts without waiting. Shows his disregard for consent。
+**中文理解**：Javier 的 "May I?"——asks permission but acts without waiting。Shows his disregard for consent。
 
 **句子结构**：引语 + 从句（but his hands are already on my foot）。
 
@@ -235,9 +235,9 @@ start_date: 2026-10-19
 
 > **原句 17:** "“This wasn’t an accident.”"
 
-**中文理解**：Javier’s deduction—"This wasn’t an accident."—shows his perceptiveness. He sees through Yolanda’s lie。
+**中文理解**：Javier 的 deduction——"This wasn’t an accident."——显示他的 perceptiveness。He sees through Yolanda’s lie。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主语 This + 谓语 wasn’t + 表语 an accident。
 
 **关键词**：
 - `This wasn’t an accident`：这不是意外——Javier’s perception
@@ -248,7 +248,7 @@ start_date: 2026-10-19
 
 > **原句 18:** "“Who did this to you? What savagery is this? We must fire them. This is a whole other level of-of cruelty, that’s what it is.”"
 
-**中文理解**：Javier’s outrage—"Who did this to you? What savagery?"—shows his protective response. "We must fire them" shows his authority. But his outrage is performative— he will exploit Yolanda anyway。
+**中文理解**：Javier 的 outrage——"Who did this to you? What savagery?"——显示他的 protective response。"We must fire them" 显示他的 authority。But his outrage is performative—— he will exploit Yolanda anyway。
 
 **句子结构**：四问/陈述：Who did this...? What savagery...? We must fire them. This is a whole other level...。
 
@@ -262,7 +262,7 @@ start_date: 2026-10-19
 
 > **原句 19:** "“Can I keep it?”"
 
-**中文理解**：Javier asks to keep pin—"Can I keep it?"—shows his collector mentality. The pin becomes his trophy。
+**中文理解**：Javier asks to keep pin——"Can I keep it?"——显示他的 collector mentality。The pin becomes his trophy。
 
 **句子结构**：问句。
 
@@ -275,7 +275,7 @@ start_date: 2026-10-19
 
 > **原句 20:** "“Anytime,” he says."
 
-**中文理解**：Javier’s "Anytime"—after sex, he doesn’t even know her name. "Anytime" is dismissive, transactional。
+**中文理解**：Javier 的 "Anytime"——after sex，he doesn’t even know her name。"Anytime" is dismissive，transactional。
 
 **句子结构**：简单引语。
 
@@ -288,7 +288,7 @@ start_date: 2026-10-19
 
 > **原句 21:** "“Yes, love,” I tell him, and mean it. “Cum for me. You are mine.”"
 
-**中文理解**：Yolanda’s "Yes, love... Cum for me. You are mine."—she performs desire. "I tell him, and mean it" shows her genuine arousal despite disgust. "You are mine" echoes Rubí’s possessiveness。
+**中文理解**：Yolanda 的 "Yes, love... Cum for me. You are mine."——she performs desire。"I tell him, and mean it" 显示她的 genuine arousal despite disgust。"You are mine" echoes Rubí’s possessiveness。
 
 **句子结构**：引语 + 叙述者评注（I tell him, and mean it）+ 引语。
 
