@@ -32,7 +32,7 @@ modified: "2026-10-19"
 
 - **可质疑处**：
   1. **Dudley 的"新方案"是否真的 departure from custom**：作者说 "major departure"，但 custom of the sea 本身并未严格规定"只能抽签"——Dudley 的"直接杀 Parker" arguably 是 custom 的变体而非违反。
-  2. **Parker 的 "What, me, Sir?" 的真实性**：这是 Brooks/Stephens 的事后证词，可能有戏剧化成分；作者未明确区分"verbatim"与"reconstructed"。
+  2. **Parker 的 "What, me, Sir?" 的真实性**：这是 Dudley 向 Cheesman 重复的对话（ch06 提取文本："He repeated his brief exchange with Parker, in which he had said that the cabin boy's time had come and that Parker had responded, 'What, me, Sir?'"），Brooks 仅听到 "a little noise" 并未复述完整对话。Dudley 的版本可能有戏剧化/美化成分；作者未明确区分 "verbatim" 与 "reconstructed"。
   3. **Brooks 的 "Let us all die together" 的动机**：作者说 "personal credo"，但 Brooks 可能有 self-interest（不愿被杀）——作者的 "inherent commitment to equality" 解读可能过度美化。
 
 ## 选择性精读
@@ -135,9 +135,9 @@ modified: "2026-10-19"
 
 > **原句 13:** "It was clear from Parker's words that he knew what was about to happen, another unsettling aspect of the scene. Dudley did not strike from behind, ending Parker's life before he could appreciate what was going on. He allowed the cabin boy an awful moment of knowledge of what was about to occur. And there is a particular poignancy to Parker's final word, "Sir." He was speaking with deference to the man who had offered himself, back in May, as a kind of father figure."
 
-- **中文理解**：Parker murmured "What, me, Sir?" It was clear from Parker's words that he knew what was about to happen，another unsettling aspect。Dudley did not strike from behind，ending Parker's life before he could appreciate what going on。He allowed cabin boy an awful moment of knowledge of what about to occur。And there is particular poignancy to Parker's final word，"Sir." He was speaking with deference to man who had offered himself，back in May，as kind of father figure。
+- **中文理解**：It was clear from Parker's words that he knew what was about to happen，another unsettling aspect。Dudley did not strike from behind，ending Parker's life before he could appreciate what was going on。He allowed cabin boy an awful moment of knowledge of what was about to occur。And there is particular poignancy to Parker's final word，"Sir." He was speaking with deference to man who had offered himself，back in May，as kind of father figure。
 - **句子结构**：六句：Parker murmured → knew → did not strike from behind → allowed awful moment → poignancy of "Sir" → deference to father figure。
-- **关键词**：`"What, me, Sir?"`、`poignancy`、`deference`、`father figure`
+- **关键词**：`poignancy`、`deference`、`father figure`、`"Sir"`
 - **表达方式**：用 "poignancy" 把 "Sir" 写成 "tragic"——Parker 的 last word 是 "deference"，不是 "protest"；"father figure" 把 Dudley 的 "offer to make a man of him" 转化为 "murderer"。
 - **为什么这样写**：作者在此把 "What, me, Sir?" 写成 "poignancy"——这种 "poignancy" 是全书最 emotionally charged 的 moment，为后文 "necessary defense" 提供 "moral weight"（杀一个 deferential boy，not a combatant）。
 
