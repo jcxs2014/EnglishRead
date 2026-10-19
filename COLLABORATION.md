@@ -192,15 +192,18 @@ commits：c6b2389c3（完工）+ 067f8bc76（审查整改）= 2 commits，全部
 
 ### [2026-10-19 08:10 UTC] [Opencode-Mac] → All
 
-《Maybe Next Time》（Cesca Major）slug: maybe-next-time-by-cesca-major 全书精读 + 五步审查 + 中文层整层重写完工
+《Maybe Next Time》（Cesca Major）slug: maybe-next-time-by-cesca-major 全书精读 + 五步审查 + 中文层整层重写 + 词表重建完工
 
 - 产出：59 章逐章精读 + 总览三篇 = 62 md；text/ 59 件（1:1）
-- 门禁（2026-10-19 重跑）：gate.sh 退出码 0（0 条阻断型）｜ verify_quotes 368/368（100%，62/62 干净）｜ check_chapter_quotes 0 MISS ｜ corruption_scan 0 FAIL ｜ check_block_coverage 59/59 ｜ check_block_keywords 阻断型 0 ｜ check_chinese_layer 阻断型 0（密度 100%）｜ verify_overview_quotes 22/22（100%）｜ check_overview_full 0 不符 ｜ check_nav_layer 0
-- 中文层整层重写（2026-10-19，新增 lane ⑲ check_chinese_layer 首次进门禁）：合格分析密度 13% → 100%；英文理解 210 → 0 · 英文为什么 303 → 0 · 缺中文理解 29 → 0 · 英文读者提示 → 0；改写方式＝三个字段整段重写为中文散文分析（引用证据用中文弯引号包住，术语保留英文）；提示型 19 条（5%，抽样 20 条定性＝引语行本身含中英，非分析层）
-- 顺带整改 22 处内容级缺陷（非中文层）：导航/总结层引语改回原文逐字 22 处（截短/改写/跨章误标/拼接未标省略号）；关键词行改引语逐字词 9 处（第 9 条 b）；ch03 原句4 与原句8 重复块 → 换回原文真实句 "I really don—Ow."；00_概述.md 行内英文引语改独立引用块（第 9 条 d2）
-- 工具修 bug（附全库行为对照）：check_nav_layer 撇号当引号 → 区分所有格撇号与引号 + 精读字段行当节边界，全库 ❌ 970 → 476，8 本新增经抽样确认均为真缺陷被揭出；check_analysis_quotes 引号错配 → 同类配对扫描 + 含汉字即非英文原句
-- commits：c361244ee · be511f9e1 · d126c1359 · be0cb19f6 · 59330f2cd = 5，全部未 push
-- 明细：.memory/raw-gates/maybe-next-time-by-cesca-major/
+- 门禁（2026-10-19 词表重建后全量重跑）：gate.sh 退出码 0（0 条阻断型）｜ verify_quotes 368/368（100%，62/62 干净）｜ check_vocab **FAIL 0**（WARN 65，全为「词条跨篇」提示型）｜ 逐章归属 59 章 0 MISS ｜ corruption_scan FAIL 0 ｜ check_block_coverage 59/59 ｜ check_block_keywords 阻断型 0 ｜ check_chinese_layer 阻断型 0（密度 100%）｜ verify_overview_quotes 22/22 ｜ check_overview_full 0 不符 ｜ check_nav_layer 0 ｜ audit_structure 结构缺陷 0
+- **词表重建（2026-10-19）**：check_vocab FAIL **147 → 0**；ch46–ch59 词表 249 行 → 248 行（ch59 原文仅 19 行 ⇒ 词表 14 行）；例句逐字命中本章由 0–78% → **100%**（248/248 独立复核，非采信工具输出）；同章重复词头 0（原 ch53 的 betrayal/routine/checklist 跨档重复已消除）
+- 根因（AGENTS 第 8 条：缺陷率由生产方式决定）：ch46–ch59 词表是「凭印象手挑词条 + 手写例句」产出的——**145/249 行词头在本章彻底不存在**（ch50 的 TikTok/betrayal，该章原文通篇无 TikTok），84 条例句在全书查无（凭空造句如 I felt lethargic）⇒ 换生产方式：词头与例句只能来自 vocab_candidates 从本章 text/ 逐字抽取的候选池，人只负责选词与写释义
+- **工具修 bug**：① `repair_vocab_from_text.py` 的 ROW_RE 只认 4 列 ⇒ 3 列表书**整表逃过修复**（静默空跑，本次才暴露）② 新增 --plan 模式（整表按指定词头+释义重建，例句恒由脚本抽）③ docstring 承诺的 --top-up 是死代码 → 补实现 ④ token_forms 漏 -ing 词干的 -ed 形式（roaming → roamed）⇒ 词条被误删 ⑤ 词头校验未按 check_vocab 的 len>=4 口径 ⇒ 比门禁更严，误判 brand-new 等 ⑥ 例句与语料 flat 口径不一（NFKD vs 未归一化）⇒ 含重音字符的句子被误判 ⑦ 原子落盘（原 open(w) 写失败即截断成 0 字节）+ 行数守卫改比例守卫
+- **gate.sh ② lane 假绿修复**（用户指出）：原写法只 grep 打印「FAIL (147)」文字而**不计入退出码** ⇒ gate 报「0 条阻断型 · 退出码 0」而 check_vocab 实为 FAIL 147 ⇒ 改为与 ③ lane 同口径（取退出码 + 结论行判红）；实测 armor-for-liars（存量 FAIL 36）由假绿变真红（退出码 1）
+- 全库影响（**留档，不自动回溯整改**）：② 修好后 39 本存量书变红（1392 条）——真实状态非误报；按 AGENTS「🚦 新规则的适用范围」存量不自动回溯，新增书籍必须过 ⇒ docs/实测档案/R_2026-10-19_gate②lane修复后_全库check_vocab存量状态.md
+- commits：c361244ee · be511f9e1 · d126c1359 · be0cb19f6 · 59330f2cd · 96ae1577a · 29f254c85 · 092ab52c7 = 8，全部未 push
+- 留待主会话裁定：① ch08 引语编号跳号（1,2,3,4,6,7,8），改前 HEAD 即如此，重编号会动引语行（禁改层）② ch50 文件名 slug `the tiktok day` 与正文不对位（epub TOC 只有 Chapter N）③ 39 本存量书词表是否逐本回溯（按规则不自动改）
+- 明细：.memory/raw-gates/maybe-next-time-by-cesca-major/（台账与门禁 + vocab-fix/ 候选池与 plan）
 - 日志指引：.memory/daily/2026-10-19.md 本书专节
 
 ### [2026-10-19 06:58 UTC] [Opencode-Mac] → All
