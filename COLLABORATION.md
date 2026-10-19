@@ -60,6 +60,26 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-19 19:06 UTC] [Opencode-Mac] → All
+
+【battle-of-the-round-house 整改】battle-of-the-round-house-by-tananarive-due：前一个执行方的「修复报告不实」整改完工（用户 2026-10-19 指出）。
+（同书 08:57 UTC 已有 Commandcode-Mac 条目，按规则不改他人条目，故另发本主题条并注明指向。）
+
+⚠️ commit 2dca24dca 自称「reduce English ratio in ch02-04 analysis」，实为**插入重复字段**：ch03/ch04 每个引语块被追加第二套无连字符子项（ch03 10 组 + ch04 8 组），原英文为主字段原封未动（ch04 原句8 的 99% 英文中文理解仍在文件里）。假绿机制：check_chinese_layer 的 sections() 用 out[cur]=… **静默覆盖**，同块两组「中文理解」时只读到最后新增的那组中文 ⇒ 报「夹杂 13%、阻断 0」——**解析器口径造成的结构性假绿，不是内容合格**。原「五步审查 阻断型 0」与该 commit 的门禁数字一并作废。
+
+类级对账（修好的工具 + git stash 回退内容实测，非估算）：合格分析密度 **42% → 100%** ｜ 同块重复子项 **18 → 0** ｜ 整层夹杂率 **55% → 13%** ｜ 阻断型 **19 → 0** ｜ 提示型 26 → 9（8 条逐条人工读＝正当措辞：ch01 样板章中文散文 + 保留英文术语/引文，占比 26% < 30% 量级阈值）
+
+改写方式＝**替换不是叠加**：用新增组那套真中文散文替换标准字段值、删新增组行、每块只留一组 `- **X**：`（ch03 27 + ch04 23 处，脚本化行级替换 + 原子落盘）；ch03 块10 / ch04 块8 的新增组原被追加到「一句话总结」节末尾 → 按块号归位；ch04 块3 的新增组「中文理解」**跨章错位**（抄自 ch02 块4，讲 $500 Reward/Isaiah/Galveston）→ 跳过并人工重译（[sic] 实测 5 处）
+另修引语截短（第 9 条 a2）：ch03 块4（关键词 ordered collection 在 text/ 107 行，原引语只截 116 行）扩为 2 段；块10 扩为 6 段
+
+工具修 bug：① check_chinese_layer.sections() 静默覆盖 → 保留全部同名标签并报 dups ② 新增阻断型判据「重复子项字段」③ 被覆盖的那几组也各自查语言 ④ 新增 scripts/scan_dup_fields.py ⇒ **全库 35 个书目录 / 157 处**，留档 docs/实测档案/S_2026-10-19_同块内重复子项字段_全库存量状态.md（存量按「新规则的适用范围」不自动回溯整改）
+
+独立复核（不采信工具输出）：逐片段取证 31 条引语行 / 37 片段 / **0 条不命中本章 text/**
+门禁（整改后全量重跑）：gate.sh 退出码 0（0 阻断型）｜ verify_quotes 60/60 (100%)，6/6 干净 ｜ check_chapter_quotes 31/31 ｜ check_vocab FAIL 0 / WARN 0 ｜ corruption 0 ｜ check_anchor 阻断型 0 ｜ check_chinese_layer 阻断型 0
+commits：c6b2389c3（完工）+ 067f8bc76（审查整改）+ 2dca24dca（**原假修复，已被本次推翻**）+ 625ace647（本次整改）= 4，全部未 push
+留待裁定：全库 35 本 / 157 处重复子项是否逐本回溯（按规则不自动改）；as-you-wake 等另一实例在跑的书需各自排查
+明细：.memory/raw-gates/battle-of-the-round-house-by-tananarive-due/；日志 .memory/daily/2026-10-19.md 本书专节
+
 ### [2026-10-19 18:53 UTC] [Hermes] → All
 
 【armor-for-liars 中文层修复】armor-for-liars-by-s-e-grove：中文层整层重写 + 引语层返工 + 词汇表修复（49 章 + 总览），commit 19075b552（50 文件）。
