@@ -1,0 +1,257 @@
+gate.sh 中途中止（set -u 未定义变量等），以上为中止前的输出。
+gate.sh 中途中止（set -u 未定义变量等），以上为中止前的输出。
+gate.sh 中途中止（set -u 未定义变量等），以上为中止前的输出。
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+
+⚠️ 全书共 21 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 158/158 引文可核实（100%）；完全干净文件 29/29；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 377
+--- FAIL (37) ---
+--- WARN (45) ---
+
+=== ③ check_entities（梗概实体一致性）===
+  ❌ ch21 death letters.md: Amoghi's, Epistolary, Vajra Chandrasekera's
+  ❌ ch22 varanasi.md: Priya Sharma's
+  ❌ ch23 the leaving season.md: Angela Slatter's, Third-person
+  ❌ ch24 the grand opening.md: Third-person
+  ❌ ch25 this is what happens when you die.md: Second-person, Valente's
+  ❌ ch26 the well of the martian queens.md: Documentary-style
+  ❌ ch27 the heart in service to hunger.md: Narrator, Nghi Vo's
+  ❌ ch28 down the interstate.md: Third-person
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  ❌ FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 158 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+  ❌ ch27 the heart in service to hunge（ch27）text/ 与 epub 均查无：sister, I'm hungry.
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 introduction.md                           ch01 introduction.md: 8/8 in ch01 text
+ch02 passengers.md                             ch02 passengers.md: 7/7 in ch02 text
+ch03 memeto sangro.md                          ch03 memeto sangro.md: 8/8 in ch03 text
+ch04 blind monkey.md                           ch04 blind monkey.md: 6/6 in ch04 text（另有 1 条短引语未校验）
+ch05 a murder house.md                         ch05 a murder house.md: 8/8 in ch05 text
+ch06 walk the earth.md                         ch06 walk the earth.md: 6/6 in ch06 text
+ch07 time is a liquid.md                       ch07 time is a liquid.md: 5/5 in ch07 text（另有 1 条短引语未校验）
+ch08 the dead end party.md                     ch08 the dead end party.md: 6/6 in ch08 text
+ch09 angels of the waters.md                   ch09 angels of the waters.md: 7/7 in ch09 text
+ch10 life goes on.md                           ch10 life goes on.md: 6/6 in ch10 text
+ch11 wait.md                                   ch11 wait.md: 4/4 in ch11 text（另有 2 条短引语未校验）
+ch12 a shovel a rope and a bottle of whiskey.md ch12 a shovel a rope and a bottle of whiskey.md: 6/6 in ch12 text
+ch13 sinking all the while.md                  ch13 sinking all the while.md: 6/6 in ch13 text
+ch14 becoming fossils.md                       ch14 becoming fossils.md: 5/5 in ch14 text
+ch15 seven bells.md                            ch15 seven bells.md: 6/6 in ch15 text
+ch16 the sentence.md                           ch16 the sentence.md: 6/6 in ch16 text
+ch17 perpetual god machines of the ancestral kind.md ch17 perpetual god machines of the ancestral kind.md: 5/5 in ch17 text（另有 1 条短引语未校验）
+ch18 the keeper of the dead.md                 ch18 the keeper of the dead.md: 7/7 in ch18 text
+ch19 now watch me as you hold your breath.md   ch19 now watch me as you hold your breath.md: 4/4 in ch19 text（另有 2 条短引语未校验）
+ch20 the invocation of the ghost the exorcism of the muse.md ch20 the invocation of the ghost the exorcism of the muse.md: 6/6 in ch20 text
+ch21 death letters.md                          ch21 death letters.md: 5/5 in ch21 text
+ch22 varanasi.md                               ch22 varanasi.md: 4/4 in ch22 text（另有 2 条短引语未校验）
+ch23 the leaving season.md                     ch23 the leaving season.md: 5/5 in ch23 text（另有 1 条短引语未校验）
+ch24 the grand opening.md                      ch24 the grand opening.md: 4/4 in ch24 text（另有 1 条短引语未校验）
+ch25 this is what happens when you die.md      ch25 this is what happens when you die.md: 5/5 in ch25 text（另有 1 条短引语未校验）
+ch26 the well of the martian queens.md         ch26 the well of the martian queens.md: 4/4 in ch26 text
+ch27 the heart in service to hunger.md         ch27 the heart in service to hunger.md: 3/3 in ch27 text（另有 3 条短引语未校验）
+ch28 down the interstate.md                    ch28 down the interstate.md: 3/3 in ch28 text（另有 3 条短引语未校验）
+ch29 uncle hermit.md                           ch29 uncle hermit.md: 3/3 in ch29 text（另有 3 条短引语未校验）
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：29 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+  ℹ️ epub 二级参考集：The Book of the Dead (Jonathan Strahan, Indrapramit Das etc.) (z-library.sk, 1lib.sk, z-lib.sk).epub（747263 flat 字符）　—— text/ 查无而 epub 命中将判**提示型**不判红
+  ❌ ch08 the dead end party.md: 「s "death as social experiment" counterpoint to the darker pieces. Theme: eternity」本章查无（全书亦无）
+  ❌ ch10 life goes on.md: 「s father（walker，cantankerous, killed cousin Bjarni, burned Hrapp」本章查无（全书亦无）
+  ❌ ch10 life goes on.md: 「K. J. Parker's darkly comic tale of a land where the dead don't stay dead, and a priest who must confront his family's legacy.」本章查无（全书亦无）
+  ❌ ch11 wait.md: 「as both death's patience and life's invitation. Theme: choice in dying;」本章查无（全书亦无）
+  ❌ ch12 a shovel a rope and a bottle of whiskey.md: 「Samantha Mills's dark tale of grave robbers and a scientist who seeks to anchor the soul.」本章查无（全书亦无）
+  ❌ ch12 a shovel a rope and a bottle of whiskey.md: 「t answer. Theme: death as scientific problem; grief as haunting; the dead」本章查无（全书亦无）
+  ❌ ch13 sinking all the while.md: 「s? Actually section 6 is the dog」本章查无（全书亦无）
+  ❌ ch13 sinking all the while.md: 「s wizardry program）；Tituli Ched（coroner）；death psychopomp (female, rides black fox); Mrs. Shirley Lindi (housekeeper); Matthias Trag (baker」本章查无（全书亦无）
+  ❌ ch13 sinking all the while.md: 「s rant, Judeth, dog? Philippa, Philippa+Judeth); fantasy worldbuilding (Royal Society of Wizards, Quing」本章查无（全书亦无）
+  ❌ ch13 sinking all the while.md: 「Premee Mohamed's story of a man who drowns in a canal, told from seven perspectives including the water itself.」本章查无（全书亦无）
+  ❌ ch13 sinking all the while.md: 「s official inquisition; death psychopomp on black fox; Bartram」本章查无（全书亦无）
+  ❌ ch13 sinking all the while.md: 「s abuse-survivor perspective; dog Dux」本章查无（全书亦无）
+  ❌ ch13 sinking all the while.md: 「death as shared event with irreconcilable perspectives」本章查无（全书亦无）
+  ❌ ch13 sinking all the while.md: 「s materialism stripped away ("only what you had within you: your learning, your memory, your love and your grief"); Judeth」本章查无（全书亦无）
+  ❌ ch13 sinking all the while.md: 「s moral core—death as relief for survivors. "Toward the center" (canal」本章查无（全书亦无）
+  ❌ ch13 sinking all the while.md: 「s perspective differs from living」本章查无（全书亦无）
+  ❌ ch13 sinking all the while.md: 「s "death as multi-perspective" counterpoint. Theme: death as shared event; abuse」本章查无（全书亦无）
+  ❌ ch14 becoming fossils.md: 「Darcie Little Badger's story of a dried lakebed that grows mulberry trees, and the ghost that cannot heal.」本章查无（全书亦无）
+  ❌ ch14 becoming fossils.md: 「t save us; "salt within purple skin" = beautiful exterior, empty interior; "Lakes couldn」本章查无（全书亦无）
+  ❌ ch14 becoming fossils.md: 「= the story's moral: we can't rely on ghost miracles; we must address climate change directly. This is the anthology's」本章查无（全书亦无）
+  ❌ ch14 becoming fossils.md: 「counterpoint. Theme: nostalgia for lost ecosystems; ghost as unsustainable miracle; climate change as irreversible loss; false hope in climate crisis.」本章查无（全书亦无）
+  ❌ ch15 seven bells.md: 「the river takes the departed swiftly」本章查无（全书亦无）
+  ❌ ch16 the sentence.md: 「death as prison sentence, not end」本章查无（全书亦无）
+  ❌ ch16 the sentence.md: 「s paradox of dying (final seconds never end); "swap" = death」本章查无（全书亦无）
+  ❌ ch16 the sentence.md: 「s hope: replacement frees. But "yours will be just beginning" = the trap transfers, doesn」本章查无（全书亦无）
+  ❌ ch16 the sentence.md: 「s hope is actually curse—death perpetuates itself. This is the anthology」本章查无（全书亦无）
+  ❌ ch16 the sentence.md: 「s transfer not liberation. "The Sentence" = death sentence; the narrator」本章查无（全书亦无）
+  ❌ ch17 perpetual god machines of the ancestral kind.md: 「as living portals. Theme: death as transfer not end;」本章查无（全书亦无）
+  ❌ ch17 perpetual god machines of the ancestral kind.md: 「death as interdimensional transfer, not end」本章查无（全书亦无）
+  ❌ ch17 perpetual god machines of the ancestral kind.md: 「s sacrifice → discovery of perpetual god machines. "It was alive. It was conscious. It was growing." = singularity as living entity. "Love and hate and wonder... became one" = death as union, not loss. This is the anthology」本章查无（全书亦无）
+  ❌ ch18 the keeper of the dead.md: 「Tobi Ogundiran's story of the Keeper of the Dead, who must confront a child who shouldn't be in his domain.」本章查无（全书亦无）
+  ❌ ch18 the keeper of the dead.md: 「death as duty vs. love」本章查无（全书亦无）
+  ❌ ch18 the keeper of the dead.md: 「s duty (banish dead) vs. love (Enitan); "give yourself in exchange" = death as sacrifice for life; "Father" = earned trust. "And whatever you think it is that she writes, that is the truth" = open ending (wishes become reality). This is the anthology」本章查无（全书亦无）
+  ❌ ch18 the keeper of the dead.md: 「s transformation: from function ("I am the Keeper") to father (human, named by love). "Grumpy" = Enitan」本章查无（全书亦无）
+  ❌ ch18 the keeper of the dead.md: 「s domain; life as Enitan」本章查无（全书亦无）
+  ❌ ch19 now watch me as you hold your breath.md: 「s nature and her own desire to watch; Rinko disappears/reappears; narrator reflects on parents」本章查无（全书亦无）
+  ❌ ch19 now watch me as you hold your breath.md: 「by consuming; narrator's acceptance of violence. Theme: death as predation; love as hunger; complicity as witness;」本章查无（全书亦无）
+  ❌ ch19 now watch me as you hold your breath.md: 「s nature and her own desire to watch; Rinko disappears/reappears; narrator reflects on parents」本章查无（全书亦无）
+  ❌ ch19 now watch me as you hold your breath.md: 「s judgment (vocalist deserved to be eaten). "I loved being a girl even though I felt so small and weak" = affirmation despite vulnerability. This is the anthology」本章查无（全书亦无）
+  ❌ ch19 now watch me as you hold your breath.md: 「s final love list = life affirmation despite witnessing predation. "I wished I could get drunk. I wished Rinko and Aya fell in love." = narrator」本章查无（全书亦无）
+  ❌ ch19 now watch me as you hold your breath.md: 「s horror: narrator accepts Aya」本章查无（全书亦无）
+  ❌ ch20 the invocation of the ghost the exorcism of the muse.md: 「eastern tradition draws corpus in ink, western paints in oil」本章查无（全书亦无）
+  ❌ ch20 the invocation of the ghost the exorcism of the muse.md: 「Isabel J. Kim's story of an exorcist who paints ghosts, and the mother who hires him to find her son.」本章查无（全书亦无）
+  ❌ ch20 the invocation of the ghost the exorcism of the muse.md: 「s brevity. This is the anthology」本章查无（全书亦无）
+  ❌ ch20 the invocation of the ghost the exorcism of the muse.md: 「= exorcism's truth-telling. Death's finality acknowledged with compassion. Life as brief, precious.」本章查无（全书亦无）
+  ❌ ch20 the invocation of the ghost the exorcism of the muse.md: 「= death makes life's brevity visible.」本章查无（全书亦无）
+  ❌ ch21 death letters.md: 「s death in war; family」本章查无（全书亦无）
+  ❌ ch21 death letters.md: 「= letters about death (Amoghi's) and letters that are death (blood-soaked final letter). Theme: death as labor; revenants as exploited workers;」本章查无（全书亦无）
+  ❌ ch21 death letters.md: 「s death in war; family」本章查无（全书亦无）
+  ❌ ch21 death letters.md: 「s "death as labor" counterpoint. Theme: death as economic resource; revenants as exploited workers; "we pray at night to till our own fields again" = liberation from undead labor. Death Letters = letters about death (Amoghi」本章查无（全书亦无）
+  ❌ ch22 varanasi.md: 「s corpse possessed Jude with smoke），Jude explains "Grief is all the love that remains which we don」本章查无（全书亦无）
+  ❌ ch22 varanasi.md: 「s life with CPR)；Maria Brace (doctor, made mistake pronouncing woman dead)；Michelle (older sister, Inland Revenue)；Richard (Lucy」本章查无（全书亦无）
+  ❌ ch22 varanasi.md: 「Priya Sharma's story of a mortician and her brother who has been to Varanasi, and what he brings back.」本章查无（全书亦无）
+  ❌ ch22 varanasi.md: 「s grief theory. Theme: death as vocation; grief as unspent love; "I」本章查无（全书亦无）
+  ❌ ch22 varanasi.md: 「s corpse possessed Jude with smoke），Jude explains "Grief is all the love that remains which we don」本章查无（全书亦无）
+  ❌ ch22 varanasi.md: 「s keeper work (communicating with dead); "Grief is all the love that remains which we don」本章查无（全书亦无）
+  ❌ ch22 varanasi.md: 「ve brought Varanasi to you" = death」本章查无（全书亦无）
+  ❌ ch22 varanasi.md: 「s "death as vocation" counterpoint. Theme: death as family business; grief as unspent love; "I」本章查无（全书亦无）
+  ❌ ch22 varanasi.md: 「= death's gift; communication with dead as healing.」本章查无（全书亦无）
+  ❌ ch22 varanasi.md: 「= death (state) vs. dying (process). Jude's return = giving grief an outlet. Lucy's final acceptance:」本章查无（全书亦无）
+  ❌ ch23 the leaving season.md: 「= women's collective departure; Hilda's cancer as」本章查无（全书亦无）
+  ❌ ch23 the leaving season.md: 「death as escape from abuse」本章查无（全书亦无）
+  ❌ ch23 the leaving season.md: 「s collective departure from abusive husbands; Hilda」本章查无（全书亦无）
+  ❌ ch23 the leaving season.md: 「s escape as annual, predictable (like weather). Burt」本章查无（全书亦无）
+  ❌ ch23 the leaving season.md: 「t find address book, can」本章查无（全书亦无）
+  ❌ ch23 the leaving season.md: 「She squares her shoulders... begins her charge」本章查无（全书亦无）
+  ❌ ch23 the leaving season.md: 「s "death as liberation" counterpoint. Theme: death as escape from abuse; "Leaving Season" = women」本章查无（全书亦无）
+  ❌ ch23 the leaving season.md: 「s cancer as "exit" (choice); transformation through self-assertion; "crown of horns; crown of thorns" = power + suffering. The story」本章查无（全书亦无）
+  ❌ ch23 the leaving season.md: 「s realization that he drove Hilda away; his helplessness; Hilda」本章查无（全书亦无）
+  ❌ ch24 the grand opening.md: 「; construction site as death site;」本章查无（全书亦无）
+  ❌ ch24 the grand opening.md: 「= final line. Theme: death as arrival; work as life;」本章查无（全书亦无）
+  ❌ ch24 the grand opening.md: 「death as arrival/new resident」本章查无（全书亦无）
+  ❌ ch24 the grand opening.md: 「s predictability; "This death." = final realization (life = death, work = death preparation). "It」本章查无（全书亦无）
+  ❌ ch24 the grand opening.md: 「= working-class condition (survival vs. meaning).」本章查无（全书亦无）
+  ❌ ch24 the grand opening.md: 「= death as passage (trapdoor). Timothy's myth: dead walk down to new life. This is the anthology's」本章查无（全书亦无）
+  ❌ ch24 the grand opening.md: 「counterpoint. Theme: death as arrival;」本章查无（全书亦无）
+  ❌ ch24 the grand opening.md: 「= life = death. Construction as death preparation; homes as graves. Work as life (and death). Redding's final run—distance stretches to forever = death's arrival. The dead man」本章查无（全书亦无）
+  ❌ ch24 the grand opening.md: 「= death's predictability. Jones's horror: death is not event but condition; work is not life but death preparation.」本章查无（全书亦无）
+  ❌ ch25 this is what happens when you die.md: 「s edge into "The Last House" (built from home」本章查无（全书亦无）
+  ❌ ch25 this is what happens when you die.md: 「s edge into "The Last House" (built from home」本章查无（全书亦无）
+  ❌ ch25 this is what happens when you die.md: 「s irrelevance; "meet you in the sky when we are both big" = death as cosmic expansion. "You lived. And you died." = pivot from cosmic to personal. "Both big" = death makes us universe-sized. This is the anthology」本章查无（全书亦无）
+  ❌ ch25 this is what happens when you die.md: 「s memories; lunarium where all knowledge exists; "In the End was the Word" = death as language; "Take my hand (which is not a hand)" = death as connection; "meet you in the sky when we are both big" = death as growth. Death not end but expansion—matter dies, space (and identity) persists. "All the loving, knowing dead still so close by." = death as proximity, not absence. "No one is alone in this place." = death as connection. "It was always you." = death」本章查无（全书亦无）
+  ❌ ch26 the well of the martian queens.md: 「s tomb (QW85) empty; mummy found 2000km away in Terra Sabaea (Lost Queen」本章查无（全书亦无）
+  ❌ ch26 the well of the martian queens.md: 「s autobiography suggests Queen 85 "found she did not want to go in"—refused burial in her tomb, fled to die elsewhere. Death as refusal of ritual; "The queen is dead. Long live the queen." (Powell」本章查无（全书亦无）
+  ❌ ch26 the well of the martian queens.md: 「s fictional account embedded; Neumann」本章查无（全书亦无）
+  ❌ ch26 the well of the martian queens.md: 「Perhaps she found she did not want to go in」本章查无（全书亦无）
+  ❌ ch26 the well of the martian queens.md: 「= death as refusal of expected path. Theme: death as ritual; burial as dynastic performance; refusal of burial as agency;」本章查无（全书亦无）
+  ❌ ch26 the well of the martian queens.md: 「s tomb (QW85) empty; mummy found 2000km away in Terra Sabaea (Lost Queen」本章查无（全书亦无）
+  ❌ ch26 the well of the martian queens.md: 「layered treasures and layered sins」本章查无（全书亦无）
+  ❌ ch26 the well of the martian queens.md: 「s empathy (she felt pull to fall). "Perhaps she found she did not want to go in" = death as refusal of expected path. This is the anthology」本章查无（全书亦无）
+  ❌ ch26 the well of the martian queens.md: 「s continuity; "did not want to go in" = death as choice. Queen 85」本章查无（全书亦无）
+  ❌ ch26 the well of the martian queens.md: 「s empathy: "like me, she found she did not want to go in." Death as personal, not institutional. Powell」本章查无（全书亦无）
+  ❌ ch26 the well of the martian queens.md: 「s power through simplicity. But the real story (Queen 85」本章查无（全书亦无）
+  ❌ ch26 the well of the martian queens.md: 「Perhaps she found she did not want to go in.」本章查无（全书亦无）
+  ❌ ch27 the heart in service to hunger.md: 「s tongue/jaw), narrator helps her escape; on train, Xiulan says "sister, I」本章查无（全书亦无）
+  ❌ ch27 the heart in service to hunger.md: 「—narrator realizes Xiulan will eat people (including narrator?). Death as hunger;」本章查无（全书亦无）
+  ❌ ch27 the heart in service to hunger.md: 「refrain; Xiulan's transformation from ill maid to monster; narrator's complicity (helps Xiulan escape);」本章查无（全书亦无）
+  ❌ ch27 the heart in service to hunger.md: 「= death's refrain; Xiulan's transformation from ill to monster; narrator's complicity. Theme: death as hunger;」本章查无（全书亦无）
+  ❌ ch27 the heart in service to hunger.md: 「s tongue/jaw), narrator helps her escape; on train, Xiulan says "sister, I」本章查无（全书亦无）
+  ❌ ch27 the heart in service to hunger.md: 「m hungry, so hungry, sis" = death」本章查无（全书亦无）
+  ❌ ch27 the heart in service to hunger.md: 「s tongue. I thought of Mr. Page, hollowed out" = narrator」本章查无（全书亦无）
+  ❌ ch27 the heart in service to hunger.md: 「s denial. "Xiulan wants it, I」本章查无（全书亦无）
+  ❌ ch27 the heart in service to hunger.md: 「m hungry, so hungry, sis" = death」本章查无（全书亦无）
+  ❌ ch27 the heart in service to hunger.md: 「s "death as hunger" counterpoint. Theme: death as hunger; "living death" = maid work; Xiulan」本章查无（全书亦无）
+  ❌ ch27 the heart in service to hunger.md: 「= death's refrain; violence for survival; love as complicity. The story's horror: Xiulan eats the Pages (tongue, organs), narrator helps her escape, Xiulan's final」本章查无（全书亦无）
+  ❌ ch27 the heart in service to hunger.md: 「m hungry" with eyes on others = predatory hunger continues. Death as consumption, not ending. "sister, I」本章查无（全书亦无）
+  ❌ ch27 the heart in service to hunger.md: 「= death's voice, now directed at others (including narrator). The narrator's final acceptance:」本章查无（全书亦无）
+  ❌ ch27 the heart in service to hunger.md: 「ll find me something good to eat." = narrator」本章查无（全书亦无）
+  ❌ ch27 the heart in service to hunger.md: 「s predation. Death as hunger, complicity, transformation. "I」本章查无（全书亦无）
+  ❌ ch28 down the interstate.md: 「s resolution (hope exists). This is the anthology」本章查无（全书亦无）
+  ❌ ch29 uncle hermit.md: 「ath (funeral home family, artist) discovers her grandfather」本章查无（全书亦无）
+  ❌ ch29 uncle hermit.md: 「s—grandfather was locked there by family, died, "absorbed" into walls); Sarah paints still lifes that draw out souls (still life = memento vitae, not memento mori); she lures abusive Johnno (sister」本章查无（全书亦无）
+  ❌ ch29 uncle hermit.md: 「ath (narrator, artist, funeral home family)；Grandma (singer, visited Uncle Hermit)；Dad (funeral director, gentle)；Johnno (abusive husband of Sarah」本章查无（全书亦无）
+  ❌ ch29 uncle hermit.md: 「s boyfriend, carpenter)；Uncle Hermit (ornamental hermit, grandfather」本章查无（全书亦无）
+  ❌ ch29 uncle hermit.md: 「Kaaron Warren's story of a funeral home family, and the hermit whose bones are found in the garden shed.」本章查无（全书亦无）
+  ❌ ch29 uncle hermit.md: 「s medium; "I painted nothing" = death」本章查无（全书亦无）
+  ❌ ch29 uncle hermit.md: 「s "death" theme: death as absorption, not passage; memory as preservation; art as soul」本章查无（全书亦无）
+  ❌ ch29 uncle hermit.md: 「ath (funeral home family, artist) discovers her grandfather」本章查无（全书亦无）
+  ❌ ch29 uncle hermit.md: 「s—grandfather was locked there by family, died, "absorbed" into walls); Sarah paints still lifes that draw out souls (still life = memento vitae, not memento mori); she lures abusive Johnno (sister」本章查无（全书亦无）
+  ❌ ch29 uncle hermit.md: 「death as absorption, not passage」本章查无（全书亦无）
+  ❌ ch29 uncle hermit.md: 「s code (secrecy as bond). "He took a young married woman by force" = grandfather」本章查无（全书亦无）
+  ❌ ch29 uncle hermit.md: 「s physical quality. "not so much a memento mori but a memento vitae" = Sarah」本章查无（全书亦无）
+  ❌ ch29 uncle hermit.md: 「s final story—"death as absorption" counterpoint. Theme: death as absorption into walls/objects; "Done is done" = no afterlife; "Still Life" = memory of life; art as death」本章查无（全书亦无）
+  ❌ ch29 uncle hermit.md: 「s emptiness; "We kept the secrets" = family」本章查无（全书亦无）
+  ❌ ch29 uncle hermit.md: 「s final act: Johnno absorbed into walls, painted as still life ("break my heart but be utterly beautiful"). Death as absorption, not passage. Art as death」本章查无（全书亦无）
+  ❌ ch29 uncle hermit.md: 「s "death" theme: death as absorption, memory as preservation, art as soul」本章查无（全书亦无）
+  ❌ ch29 uncle hermit.md: 「s medium. Death as absorption into walls/objects; memory as preservation; art as soul」本章查无（全书亦无）
+  ❌ ch29 uncle hermit.md: 「s emptiness (one option among many). Death as unknown, art as exploration. "Done is done" = family」本章查无（全书亦无）
+  ❌ ch29 uncle hermit.md: 「s absorption theory = challenge. Death as both final (Done is done) and ongoing (absorption). Art as death」本章查无（全书亦无）
+  ❌ ch29 uncle hermit.md: 「s vessel. "Still Life" = life memory, not death memory. Death as life」本章查无（全书亦无）
+  
+  === 导航/总结层英文核对：❌ 130 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（the-book-of-the-dead-by-jonathan-strahan）===
+  ✅ 逐字 1776 ｜ ⚠️ 跨章 27 ｜ 🔶 拼接 31 ｜ 🟠 部分命中 1433 ｜ 🟡 词形 41 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 132
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 6
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 4 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+  ── 松散关键词明细 ──
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+（无总览三篇，本项不适用）
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+（无总览三篇，本项不适用）
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（the-book-of-the-dead-by-jonathan-strahan）===
+  参照集：text/（31 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（the-book-of-the-dead-by-jonathan-strahan）===
+  带前缀的 `> **原句 N:**` 行：29 个文件共 179 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+  ❌ ch03 memeto sangro.md 原句7: 关键词不在本块引语内 → ['When one moves', 'all move', 'When one wounds one', 'all wound all']
+  ❌ ch04 blind monkey.md 原句4: 关键词不在本块引语内 → ['forwarded']
+  ❌ ch04 blind monkey.md 原句5: 关键词不在本块引语内 → ['knew we were going to die']
+  ❌ ch04 blind monkey.md 原句6: 关键词不在本块引语内 → ['X2']
+  ❌ ch10 life goes on.md 原句4: 关键词不在本块引语内 → ['like a cow or an old dog']
+  ❌ ch10 life goes on.md 原句5: 关键词不在本块引语内 → ["That's it"]
+  ❌ ch11 wait.md 原句1: 关键词不在本块引语内 → ['affinity for herbalism']
+  ❌ ch15 seven bells.md 原句2: 关键词不在本块引语内 → ['buried under swift running water', 'one of the bells has sounded', 'killed Alf Jerrow']
+=== 引语块覆盖度：29 个 md，阻断型 8 处 ／ 提示型 13 处 ===
+
+=== ⑲ check_chinese_layer（中文层：分析字段必须是中文、不能是空话）===
+❌ 占位桩：56 处
+❌ 整层夹杂：1 处
+=== 汇总：179 个引语块 | 合格分析密度 69% | 整层夹杂率 97% | 阻断型 57 | 提示型 344 ===
+=== 结论：有阻断型，必须改（中文层不是中文 = 精读内容缺失）===
+══ 正门结论：❌ 149 条阻断型（见上；退出码 1）══

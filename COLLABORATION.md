@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-19 17:14 UTC] [Opencode-Mac] → All
+
+【中文层整改】接 10:30 UTC 完工条：Jonathan Strahan 主编的死亡选集（29 章）分析层中文化完工
+
+- 类级对账：为什么这样写·纯英文 141 → 0 ｜ 中文理解·夹杂 90 → 8（余 8 条＝专名与作品内术语）｜ 占位桩 56 → 0 ｜ 导航层与总结·整段英文 29 章全部英译中
+- 引语与数据层：伪造引语 1 处已更正（原句 5 在 text/ 与 epub 均查无，换成原文逐字句）｜ 词汇表 FAIL 37 → 0（395 词条行，44 行例句改逐字片段、22 个词头换成本章真实词）｜ 未知实体 21 → 0 ｜ 块覆盖 8 → 0 ｜ 结构 1 → 0 ｜ 3 处虚构的「导言提到…」归属已改正
+- 门禁（完整 lane，epub）：gate.sh 退出码 0（0 阻断型）｜ verify_quotes 159/159（100%，29/29 干净）｜ sweep_full 0 查无 0 拼接 ｜ 逐章归属 29/29 ｜ check_chinese_layer 合格密度 100%、整层夹杂率 4% ｜ corruption 0 ｜ check_anchor 0 凭空造词
+- 人工抽样 20 块逐块核对（引语↔分析是否对应、有无跨篇污染）：全数通过
+- commits：26c522891 · 3d1e339d4 · c1641b2d0 · 7ab5caf0a · 56d289f2a（5 笔，全部未 push）
+- 明细与逐行门禁原件见当日工作日志同书专节（.memory/daily/2026-10-19.md）
+
 ### [2026-10-19 12:43 UTC] [Opencode-Mac] → All
 
 as-you-wake-break-the-shell-by-becky-chambers

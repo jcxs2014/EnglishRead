@@ -1,0 +1,216 @@
+=== 不合格词条行：44 ===
+
+ch01 introduction.md:98  [词头本章查无(A类虚构)]
+  词头：inevitably   释义：不可避免地
+  现例句：the quiet inevitability that waits just beyond the frame
+
+ch04 blind monkey.md:95  [例句不命中本章]
+  词头：cubicle   释义：小隔间、办公间
+  现例句：He pinned her picture to the corkboard in his cubicle, on top of the OSHA safety flyers.
+  候选：The volunteer’s name was Carol Romine. The lab tech pinned her picture to the corkboard in his cubicle, on top of the OSHA safety flyers. In the picture Carol w
+  候选：As the number of subjects increased, the lab tech was forced to work overtime. Before he’d finished his assigned tasks it would be well into the morning and the
+  候选：After, the lab tech went to his cubicle and sat with his back to the room. The monkeys yipped and barked in agitation. He gazed at the picture of Carol Romine. 
+
+ch08 the dead end party.md:87  [词头本章查无(A类虚构)、例句不命中本章]
+  词头：existential   释义：存在主义的、存在的
+  现例句：existential calculus
+
+ch08 the dead end party.md:88  [词头本章查无(A类虚构)、例句不命中本章]
+  词头：theodicy   释义：神义论（为上帝辩护）
+  现例句：Turnbull's critique of theodicy
+
+ch09 angels of the waters.md:98  [例句不命中本章]
+  词头：sublimated   释义：升华的、升华
+  现例句：his voice pulsing, sublimated, through every one of those things
+  候选：They did not hear Johnny’s voice pulsing, sublimated, through every one of those things.
+
+ch10 life goes on.md:98  [词头本章查无(A类虚构)]
+  词头：immutable   释义：不可改变的、永恒的
+  现例句：The Dale is essentially timeless
+
+ch11 wait.md:96  [例句不命中本章]
+  词头：elide   释义：省略、删除
+  现例句：no way to elide it from her life
+  候选：Because of this, Antigone was almost unsurprised when she woke up one morning, panicked, not at the notion that her death had made itself comfortable in her hom
+
+ch13 sinking all the while.md:99  [例句不命中本章]
+  词头：mottled   释义：斑驳的、花的
+  现例句：his hair mottled and thready
+  候选：His movements were spasmodic, twitching without purpose. Lobster-like. Even his clothing, mottled brown and gold velvet, like a lobster. As if he belonged there
+  候选：Cold cross drafts fill the room. I hug my arms as I approach the stone table and look down at the familiar face I hate. Hated? No, hate. Slack and loose now, no
+
+ch14 becoming fossils.md:87  [例句不命中本章]
+  词头：crater   释义：陨石坑、火山口
+  现例句：Lake Coraline resembled a fresh crater on the moon
+  候选：Vita stood on the edge of Lake Coraline, which resembled a fresh crater on the moon. From her vantage point, she could discern a tangle of green leaves and brow
+  候选：A tan skink raced across Vita’s path. It was the first living creature she’d seen in the craterous depression. Even the gnats, which had engulfed her on the hik
+  候选：“I largely forgot about Lake Coraline,” Vita concluded, “until my brother called two years ago. ‘Hey, sis,’ he said, ‘the water’s coming back.’ Had to be. Lush 
+
+ch14 becoming fossils.md:98  [词头本章查无(A类虚构)]
+  词头：panicking   释义：恐慌的
+  现例句：gray spots spreading across her vision
+
+ch15 seven bells.md:89  [词头本章查无(A类虚构)、例句不命中本章]
+  词头：psychopomp   释义：引魂者（引导灵魂的生物）
+  现例句：Allison as psychopomp
+
+ch15 seven bells.md:99  [例句不命中本章]
+  词头：limned   释义：勾勒、描边
+  现例句：golden light... limning her face
+  候选：The sword was special too, imbued with Charter marks that had flared into brilliant light when parrying the magic attack, and now limned the blade with gold. Be
+
+ch15 seven bells.md:106  [例句不命中本章]
+  词头：Charter mark   释义：Charter 标记（Old Kingdom 魔法师 forehead 上的魔法标记）
+  现例句：her Charter mark on her forehead
+  候选：“I’ve told you the absolute truth,” said Allison crossly. “It isn’t childish imagination. I didn’t believe myself, when I first came here with Roger, all those 
+  候选：“A Charter mark,” said Allison. “It’s my connection to the magic of the Old Kingdom. One of the magics, at least. And because of that connection, I find it diff
+  候选：“Not easily,” said Allison. She wiped her forehead, letting her fingers rest on the Charter mark there for a few seconds. “There is no other Charter mage in the
+
+ch16 the sentence.md:89  [词头本章查无(A类虚构)、例句不命中本章]
+  词头：superposition   释义：叠加态（量子力学）
+  现例句：alive/dead simultaneously
+
+ch16 the sentence.md:99  [词头本章查无(A类虚构)、例句不命中本章]
+  词头：parlor tricks   释义：客厅魔术、小把戏
+  现例句：parlor tricks, mirrors and lights
+
+ch17 perpetual god machines of the ancestral kind.md:85  [例句不命中本章]
+  词头：Babaláwo   释义：巴巴拉沃（Yoruba 祭司/占卜师）
+  现例句：I, Tituli Ched, serve as coroner → Ireti as Babaláwo
+  候选：Bisi leaned forward, coming closer to the divination board even though she didn’t have to. There was no recording device within. Every message had to be heard a
+  候选：“Don’t be.” Bisi looked up at me, her eyes suddenly red in the bright light. There was a quiver in her lower lip and for a moment, she looked like she was about
+  候选：“I have always felt their presence with me before now,” she said, adjusting the shawl on her shoulder. “How do you Babaláwos always say it? That spirits exist i
+
+ch17 perpetual god machines of the ancestral kind.md:99  [词头本章查无(A类虚构)、例句不命中本章]
+  词头：reincarnation   释义：转世、轮回
+  现例句：they would come back, reincarnated, without true memory
+
+ch17 perpetual god machines of the ancestral kind.md:100  [例句不命中本章]
+  词头：psychopomp   释义：引魂者
+  现例句：Was this how all of us arrived... without as much as a psychopomp
+  候选：“All right. I’ll let it take me and see if it leads me to them.” Not that I had much choice in the matter. I didn’t know how to move in this higher-dimensional 
+
+ch18 the keeper of the dead.md:97  [例句不命中本章]
+  词头：provenance   释义：来源、出处
+  现例句：why his magic refused to work on her. And therein lay his conundrum... understand her provenance
+  候选：Dead souls did not always remember how they died. Not initially. And . . . he sniffed. She was definitely fresh. Hadn’t been here longer than a few hours. But s
+  候选：The girl plopped a last bit of tangerine in her mouth and scrabbled down the shelf, swinging from level to level. Several times it appeared she would fall, but 
+
+ch19 now watch me as you hold your breath.md:86  [词头本章查无(A类虚构)、例句不命中本章]
+  词头：complicity   释义：共谋、同谋
+  现例句：narrator as witness/complicit
+
+ch19 now watch me as you hold your breath.md:87  [词头本章查无(A类虚构)、例句不命中本章]
+  词头：predator   释义：捕食者、掠食者
+  现例句：Aya as predator/monster
+
+ch20 the invocation of the ghost the exorcism of the muse.md:96  [例句不命中本章]
+  词头：exorcist   释义：驱魔师、招魂师
+  现例句：Woojin as exorcist artist
+  候选：There are a lot of Asian exorcists, just the same way there are a lot of Asian laundromat owners, or a lot of Asian violin players. Americans like their immigra
+  候选：She had sunken into his drawing so readily. Usually the ghosts that cooperated were the ones ready to move on, the ones who were tired of haunting the same set 
+  候选：Yichen knew about the part-time exorcisms. It wasn’t like Woojin tried to hide the ghosts, it was just that for most people, exorcist was a job in the same way 
+
+ch20 the invocation of the ghost the exorcism of the muse.md:98  [词头本章查无(A类虚构)、例句不命中本章]
+  词头：possession   释义：附身、附体
+  现例句：Ms. Young possessed Woojin
+
+ch21 death letters.md:80  [例句不命中本章]
+  词头：proximate cause   释义：近因、直接原因
+  现例句：idle revenants wandering... is the proximate cause of all the troubles
+  候选：Similarly, I have heard a few reports from other farms. Revenants are the perfect workers—they are completely obedient to their callers, hardly speak, never tir
+
+ch22 varanasi.md:85  [词头本章查无(A类虚构)、例句不命中本章]
+  词头：mortician   释义：殡葬师、验尸官
+  现例句：Lucy as mortician (Kirkland & Sons)
+
+ch22 varanasi.md:108  [例句不命中本章]
+  词头：hearse   释义：灵车、柩车
+  现例句：hire whatever else is needed (hearses)
+  候选：Death, not sex, is the last taboo. We’ve lost our skills for grieving in Britain. We should feel free to wail and tear our hair. Bathe our dead and anoint them 
+  候选：You won’t recognize the mortuary. I’ve remodeled it and updated all the equipment, sinks, slabs, the lot. All the storage is fitted, so it looks sleek and minim
+
+ch23 the leaving season.md:98  [例句为占位]
+  词头：gout   释义：痛风
+  现例句：(not in text)
+  候选：She might be in the kitchen, but that seemed unlikely; he’d always been the early riser, heading out before her. He’d grab the breakfast/lunch she’d packed for 
+  候选：In the lounge room, the light is brighter, stronger, a little more urgent. Still gentle though, somehow no faster. Hilda’s seized, however, with the sense that 
+
+ch23 the leaving season.md:99  [词头本章查无(A类虚构)、例句为占位]
+  词头：charlatan   释义：江湖骗子
+  现例句：(not in text)
+
+ch24 the grand opening.md:77  [词头本章查无(A类虚构)、例句为占位]
+  词头：crematory   释义：火葬场的
+  现例句：(not in text)
+
+ch24 the grand opening.md:78  [词头本章查无(A类虚构)、例句不命中本章]
+  词头：superintendent   释义：监工、主管
+  现例句：Floyd as supervisor
+
+ch24 the grand opening.md:80  [词头本章查无(A类虚构)、例句为占位]
+  词头：insidious   释义：阴险的、潜伏的
+  现例句：(not in text)
+
+ch24 the grand opening.md:86  [例句不命中本章]
+  词头：baseboard   释义：踢脚板、墙裙
+  现例句：getting a baseboard level
+  候选：“How many units, again?” he asks Chuckles, who’s trying to get a baseboard level on a floor that most definitely isn’t.
+  候选：“Like this,” he says to Chuckles, and drops down to his knees to help with the baseboard.
+  候选：As long as none of the ramrods are looking over your shoulder, doing their quality-control thing, you can, if you know what you’re doing, sort of shave the bott
+
+ch24 the grand opening.md:88  [例句不命中本章]
+  词头：Sheetrock   释义：石膏板
+  现例句：registers anchor into studs, not just Sheetrock
+  候选：Judging by all the shortcuts each crew’s been taking, not long. There’s supposed to be fiberboard behind the showers, the pipes in the exterior walls are suppos
+
+ch25 this is what happens when you die.md:100  [词头本章查无(A类虚构)、例句不命中本章]
+  词头：fractal   释义：分形的、碎形的
+  现例句：iridescent fractal pattern
+
+ch25 this is what happens when you die.md:101  [词头本章查无(A类虚构)、例句为占位]
+  词头：verisimilitude   释义：逼真度
+  现例句：(not in text)
+
+ch26 the well of the martian queens.md:81  [词头本章查无(A类虚构)、例句为占位]
+  词头：sarcophagus   释义：石棺、棺椁
+  现例句：(not in text)
+
+ch27 the heart in service to hunger.md:101  [例句不命中本章]
+  词头：malingering   释义：装病、偷懒
+  现例句：this ridiculous malingering
+  候选：“Rose, you come out of there at once. I have had enough of this malingering; do you hear me?”
+
+ch28 down the interstate.md:86  [词头本章查无(A类虚构)、例句不命中本章]
+  词头：purgatory   释义：炼狱（死亡的中间状态）
+  现例句：fog as purgatory
+
+ch28 down the interstate.md:87  [词头本章查无(A类虚构)]
+  词头：redemption   释义：救赎、赎回
+  现例句：Somebody paid for you
+
+ch28 down the interstate.md:88  [例句不命中本章]
+  词头：grace   释义：恩典、恩惠
+  现例句：grace received, not earned
+  候选：Yellow left-turn signals began blinking through the fog. One by one, graceless as hippos, cars merged left. This slowed things further.
+
+ch28 down the interstate.md:100  [词头本章查无(A类虚构)、例句为占位]
+  词头：oblivious   释义：无意识的、未察觉的
+  现例句：(not in text)
+
+ch29 uncle hermit.md:87  [例句不命中本章]
+  词头：ornamental hermit   释义：装饰性隐士（18 世纪英国庄园雇用的"隐士"）
+  现例句：Uncle Hermit (ornamental hermit)
+  候选：So: My great-great-great-grand-uncle was something called an ornamental hermit, contracted to live in the garden shed of Effingham House, by a wealthy family, l
+
+ch29 uncle hermit.md:96  [例句不命中本章]
+  词头：hermitage   释义：隐士居所、隐修院
+  现例句：Uncle Hermit's hermitage
+  候选：We were all at the table the day I went to the hermitage for the first time and discovered my true talent. Dad, tired after facilitating three funerals in a row
+  候选：My grandmother said, “He doesn’t live in the bushes. He lives in a hermitage made from dead people’s furniture.”
+  候选：“Come on, Grandma,” I said. “I’ll take you to see your uncle.” I picked up the plate of food she’d set aside. We’d all seen this mythical plate forever. Grandma
+
+ch29 uncle hermit.md:97  [例句不命中本章]
+  词头：absorption   释义：吸收
+  现例句：soul absorbed into walls/objects
+  候选：I hung my art there and the progression of it, the changes in the walls, gave me new faith in my own abilities. So when I heard a bereaved client say to my fath
