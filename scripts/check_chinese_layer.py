@@ -121,13 +121,19 @@ PLACEHOLDER_MAXLEN = 14   # 去掉数字/括号/空白后，剩余核心文本�
 def is_placeholder_field(text):
     """字段是不是只剩一句指路语（占位桩）？
 
-    判据：剥掉数字、括号、空白后，核心文本 ≤ PLACEHOLDER_MAXLEN 字
+    判据：剥掉**引号内引文**与数字括号空白后，核心文本 ≤ PLACEHOLDER_MAXLEN 字
     **且**含占位词（见上/见下/同上/如上/详见/待补充/待完善/TODO/占位/本块引语分析）。
     长度上限是必需的——正常句子里也会出现「详见上节」这类话，不能一律判红。
+
+    ⚠️ 2026-10-19 修正：**必须先剥引号内引文**（含中文书名号「」）。
+       the-book-of-the-dead 基线实测 56 处形态是
+       `「<整段英文原句>」 （本块引语分析见上）`——不剥引文的话核心文本长达几十字，
+       **长度上限把占位桩全挡在门外**（第一版实测：占位桩 0 处，全书假绿）。
     """
     if not text:
         return False
-    core = re.sub(r"[\s\uff08\uff09()（）0-9：:、，。．.\-—_]", "", text)
+    core = re.sub(r"[“\"][^”\"]*[”\"]|[「『][^」』]*[」』]", "", text)
+    core = re.sub(r"[\s\uff08\uff09()（）0-9：:、，。．.\-—_]", "", core)
     if len(core) > PLACEHOLDER_MAXLEN:
         return False
     return bool(PLACEHOLDER.search(core))
@@ -343,7 +349,8 @@ def main():
         return 2
 
     blocking = {k: [] for k in
-                ("英文理解", "缺中文理解", "敷衍句构", "残句", "形式性规避", "英文为什么", "占位桩")}
+                ("英文理解", "缺中文理解", "敷衍句构", "残句", "形式性规避", "英文为什么",
+                 "占位桩", "英文读者提示", "英文表达方式")}
     hinting = {k: [] for k in ("夹杂理解", "夹杂为什么")}
     mixed_ids = set()
     good_blocks = 0
@@ -401,6 +408,17 @@ def main():
                 if ratio > MIX_WARN:
                     hinting["夹杂为什么"].append(b)
                     mixed_ids.add(bid)
+
+        # ⚠️ 2026-10-19 增补：**「读者视角提示」「表达方式」也必须查**。
+        #   v1/v2 只查「中文理解 / 句子结构 / 为什么这样写」三个字段 ⇒
+        #   the-book-of-the-dead 基线的 179 块里，「读者视角提示」**109 块整段是英文**
+        #   而检测器完全看不见——**又是一个真空绿**。
+        #   补上之后，「阻断型 0」才真正意味着**整层分析都是中文的**。
+        for lab, key in (("读者视角提示", "英文读者提示"), ("表达方式", "英文表达方式")):
+            v = (sec.get(lab) or "").strip()
+            if v and not HAN.search(v):
+                blocking[key].append(b)
+                block_hits.append(key)
 
         if not block_hits:
             good_blocks += 1
