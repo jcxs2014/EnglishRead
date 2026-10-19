@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 23. Chapter 771: Signy, Cypsela
 
 ## 本章导航
-
-- **一句话概括**：Signy 与 Cora 在 vault garden 检查 pepper strain，发现 leaves limp/brown tips；Signy 排除 bacterial/fungal/underwatering，归因 "something about this strain in these conditions"；Cora 引用 Signy 的 own advice（"A failed batch doesn't mean you failed..."），Signy "annoyed"但继续。
-- **情节位置**：Cypsela 线，紧跟 ch021（Chapter 770）；Signy-Cora 的 vault garden work。
-- **人物弧线**：Signy 从 frustration 到 Cora 的 reassurance——她的 perfectionism 与 Cora 的 encouragement；apprentices ("cubs") 建立。
-- **叙事手法**：dialogue-driven；"failed batch" metaphor；Signy's grumbling vs Cora's quoting。
+- **一句话概括**：她与对方在保险库里检查辣椒品系，发现叶片发软、叶尖发褐；她逐一排除细菌、真菌、缺水，最终归因于“这个品系在这些条件下有点问题”；对方引用她自己说过的话，她嘴上不服，却还是继续。
+- **情节位置**：小卫星线，紧跟 ch021；两人的保险库工作。
+- **人物弧线**：她从挫败到被对方宽慰——她的完美主义与对方的鼓励；学徒们在此出现。
+- **叙事手法**：对话驱动；以“失败的批次”作隐喻；她的嘟囔与对方的引用形成对照。
 
 ## 精读
 
@@ -18,7 +17,7 @@ modified: "2026-10-19"
 
 **中文理解**：穹顶花园比试验花园严格得多——分隔的种植槽、透明罩与空气净化器一应俱全。
 
-**关键词**：stricter environment / segmented / air purifiers
+**关键词**：far stricter environment / test garden
 
 **为什么这样写**：把穹顶花园写成受控环境，与试验花园的“疯长”作对比；“更严格”写出 Signy 的精细。
 
@@ -147,6 +146,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 771 章以 vault garden 的 pepper strain failure 与 Cora's "quoting me to me"，把 Signy's perfectionism 与 Cora's support 并置——Signy's "failed batch = learning" ethic 与 Cora's mirror role 建立，apprentices ("cubs") 与 robots 的 team worldbuilding。
+这一章用保险库里那株失败的辣椒品系，与对方“拿她自己说过的话回敬她”并置——她“失败的批次即学习”的原则与对方作为镜子的角色在此建立，学徒与机器人组成的团队也一并铺开。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch023 chapter 771 signy cypsela.md

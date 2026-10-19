@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 06. Chapter 2: Cora, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Cora 从太空 saddle 返航 Fortune，途中与同事 Adam/Smokey 互动，内心被 Colibri 的记忆（blue stars）占据，最终在 Berth 着陆时落泪又自愈。
-- **情节位置**：Fortune 线 Chapter 2，紧跟 ch004；Cora 的飞行循环与 homesickness 建立。
-- **人物弧线**：Cora 从"excitement, bliss, confusion, sadness, boredom, and impatience"的循环到落泪与自愈——她的人设（ longing for saddle、与 Colibri 的共生）确立。
-- **叙事手法**：循环句式（rhythm）；闪回式记忆插入（Colibri 对话）；环境描写（Berth）。
+- **一句话概括**：她从太空鞍座返航故土，途中与同事打交道，心里被鲸鱼的记忆占满，最终在城里着陆时落泪又自愈。
+- **情节位置**：故土线第二章，紧跟 ch004；确立她的飞行循环与乡愁。
+- **人物弧线**：她走完兴奋、狂喜、困惑、悲伤、厌倦、焦躁这一整圈，落到落泪与自愈——她依恋鞍座、与鲸鱼共生的人设确立。
+- **叙事手法**：循环句式贯穿全章；闪回式记忆插入（鲸鱼的对话）；环境描写（城里）。
 
 ## 精读
 

@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 77. Chapter 787: Signy, Lodestone
 
 ## 本章导航
-
-- **一句话概括**：Signy & Cora arrive at Lodestone City (elevator hub, Jeremy the greeter, "snap peas... strawberry rhubarb pie", Ryan's appendix, squash crop)——Signy's curiosity about squash (untested template)。
-- **情节位置**：Cypsela 线，Chapter 787；Signy-Cora's Lodestone market visit。
-- **人物弧线**：Signy 从 elevator ride (ch075) 到 market curiosity——her scientific interest in squash (untested template)；Cora's accommodation ("Before... pie? / Before everything.")。
-- **叙事手法**：dialogue-driven (Jeremy, Cora, Signy)；Lodestone worldbuilding (elevator hub, town oval, med clinic, school)；squash as untested template。
+- **一句话概括**：两人抵达石岩城（电梯枢纽、迎宾的男孩、豌豆与草莓大黄派、那人的阑尾、南瓜作物）——她对南瓜的好奇（一个没试过的模板）。
+- **情节位置**：小卫星线；两人的石岩站集市之行。
+- **人物弧线**：她从电梯那一段写到集市上的好奇——她对那个没试过的南瓜模板的兴趣；对方的迁就（先看南瓜，其它都往后排）。
+- **叙事手法**：对话驱动（男孩、两人）；石岩城的世界观铺陈（电梯枢纽、椭圆城、诊所、学校）；南瓜作为没试过的模板。
 
 ## 精读
 
@@ -117,6 +116,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 787 章以 Signy & Cora's Lodestone arrival，把 Lodestone City (elevator hub as stem, residential sectors as petals) 与 squash crop (untested template, high water cost, spring vs fall) 并置——Signy's curiosity ("We're about to find out") 与 Cora's accommodation ("Before... pie? / Before everything.") 建立 their dynamic。
+第 787 章写两人抵达石岩城，把石岩城（电梯枢纽像花茎、居住区像花瓣）与那批南瓜（没试过的模板、耗水高、春天还是秋天）并置——她那句“我们马上就能知道了”的好奇与对方那句“先看南瓜？／先看一切”的迁就，写出两人的相处。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch077 chapter 787 signy lodestone.md

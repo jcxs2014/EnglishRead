@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 57. Chapter 26: Cora, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Cora 的 date with Signy——failed café (open mic, noise, Josh with guitar), Signy's university dropout story (genetic drift lecture, "small-minded" professor), Cora's surprise sex invitation, Signy's "business arrangement" boundary, pinky hook, "Is that a yes?"。
-- **情节位置**：Fortune 线 Chapter 26，紧跟 ch054 (Chapter 25)；Cora-Signy's first date。
-- **人物弧线**：Cora 从 anxious date planner 到 Signy's apartment invitation——their relationship shifts from business to intimate; Signy's "business arrangement" boundary (care regardless of awkwardness)。
-- **叙事手法**：failed date comedy (open mic, noise)；Signy's backstory (university dropout)；sex invitation as business-like proposition; pinky hook as tender gesture。
+- **一句话概括**：她与对方的第一次约会——一场失败的咖啡馆约会（开放麦、噪音、抱着吉他的男人），她讲自己退学的往事，对方意外地发出性的邀请，她划出“生意关系”的界线，最后小指相勾，问“这算答应吗”。
+- **情节位置**：故土线第二十六章，紧跟 ch054；两人的第一次约会。
+- **人物弧线**：对方从紧张地安排约会到邀请她去自己家——两人的关系从生意转向亲密；她那条“生意关系”的界线（不论多尴尬都会照顾对方）。
+- **叙事手法**：失败约会的喜剧（开放麦、噪音）；她的往事（退学）；把性的邀请写成一份生意式的提议；小指相勾作为温柔的收束。
 
 ## 精读
 
@@ -187,6 +186,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 26 章以 Cora 的 failed date (open mic, noise) 与 Signy's apartment invitation，把 Signy's university dropout (genetic drift lecture, "walked out, and I never went back") 与 sex invitation ("would you like to have sex?" / "We don't have to, obviously" / "I'd never withhold care just because things got awkward") 并置——"Signy smirked. She reached one hand out and hooked her pinky around Cora's. "Is that a yes?""写出她的 directness + tenderness。
+第 26 章把对方那场失败的约会（开放麦、噪音）与她家中的邀请并置——她退学的往事（遗传漂变的讲座，“我走了出去，再也没回去”）与那句性的邀请（“你想做爱吗？”“当然我们也可以不做”“我不会因为事情变得尴尬就不管你”）——“她挑了挑眉，伸出一只手，用小指勾住对方的小指”写出那份温柔。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch057 chapter 26 cora fortune.md

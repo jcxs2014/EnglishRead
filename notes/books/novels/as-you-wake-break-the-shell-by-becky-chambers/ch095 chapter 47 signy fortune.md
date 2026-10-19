@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 95. Chapter 46: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy's last vigil with Otto——"You are so loved. I love you. And you are always going to be my friend."——Otto's death (kind strangers take body away)。
-- **情节位置**：Fortune 线 Chapter 46，紧跟 ch094 (Chapter 45)；Otto's death。
-- **人物弧线**：Signy 从 "tinkerer" (work) 到 "You are so loved. I love you."——her grief; Otto 从 "brilliant, kind, hilarious" to death (kind strangers take body)。
-- **叙事手法**：vigil scene (Signy alone with Otto)；"You are so loved. I love you. And you are always going to be my friend." as closing; "kind strangers came to take it away" as ending。
+- **一句话概括**：她陪老人最后一夜——“你被那么多人爱着；我爱你；你永远都会是我的朋友”——以及老人的死（好心的陌生人把遗体接走）。
+- **情节位置**：故土线第四十六章，紧跟 ch094；老人的死。
+- **人物弧线**：她从手艺人到“你被那么多人爱着”——她的悲伤；老人从精明、善良、风趣到离世。
+- **叙事手法**：守夜的场景；以那句告白收尾；以“好心的陌生人把它接走”作结。
 
 ## 精读
 
@@ -147,6 +146,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 46 章以 Signy's last vigil with Otto，把 "You are so loved. I love you. And you are always going to be my friend." (Signy's declaration) 与 "Otto mumbled something... Signy couldn't understand him, and she knew immediately that attempting to work out what he'd said was going to drive her crazy for the rest of her life." (Otto's last words unknowable) 并置——"He looked, and he kept looking, and that, she understood. He knew she was there. Perhaps that was enough. Perhaps it could be enough."写出 Otto's final perception; "They gathered in his room, and they sat with his body until kind strangers came to take it away."写出 Otto's death。
+第 46 章写她陪老人最后一夜，把那句“你被那么多人爱着；我爱你；你永远都会是我的朋友”与老人那句含糊的遗言并置——“她当即明白，去琢磨他到底说了什么，会让她往后的日子都不得安宁”。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch095 chapter 46 signy fortune.md

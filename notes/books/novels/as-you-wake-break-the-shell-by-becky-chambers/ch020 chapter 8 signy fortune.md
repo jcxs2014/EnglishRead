@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 20. Chapter 8: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy 与 Cora 在早餐时共同处理 Cypsela 的 inbox——L-tyrosine 供应、Oscar 的 fertilizer 问题、Imogen 的 maize strain、Palmer 的 potluck——Signy 的"social battery"与 Cora 的 gentle push。
-- **情节位置**：Cypsela 线，紧跟 ch017（Chapter 768）；Signy-Cora 的 daily routine。
-- **人物弧线**：Signy 从 workbench isolation 到 Cora 的 gentle push toward social engagement——她的 "social battery" metaphor 建立。
-- **叙事手法**：inbox epistolary structure；community worldbuilding（Lodestone, Gwen, Palmer, Oscar, Imogen）。
+- **一句话概括**：她与对方在早餐时一起处理这颗小卫星的收件箱——原料供应、邻居的肥料问题、学徒的玉米品系、社区的聚餐邀请——她的“社交电量”与对方的温和推动。
+- **情节位置**：小卫星线，紧跟 ch017；两人的日常作息。
+- **人物弧线**：她从工作台的封闭走向被对方温和地推向社交——她的“社交电量”这一比喻建立。
+- **叙事手法**：以收件箱串起的书信体结构；社区世界观铺陈（石岩站、Gwen、Palmer、Oscar、Imogen）。
 
 ## 精读
 
@@ -117,6 +116,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 769 章以 breakfast inbox processing 展示 Cypsela 的 community network（Lodestone, Gwen, Palmer, Oscar, Imogen）与 Signy-Cora 的 partnership——Signy 的 "social battery" metaphor 建立，Cora 作为 social facilitator。
+这一章用早餐时处理收件箱，展示这颗小卫星的社区网络与两人的伙伴关系——她的“社交电量”这一比喻在此建立，而对方充当把她带向社交的人。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch019 chapter 769 signy cypsela.md

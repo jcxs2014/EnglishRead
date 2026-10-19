@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 53. Interstitial: Surface Garden Towers (Radio & Light)
 
 ## 本章导航
-
-- **一句话概括**：Cypsela surface garden 的 third thing——twin lattice towers: radio transmitter (Cora's recorded message, never received reply) + light orb (colors without names, for rorquals, never received reply)。
-- **情节位置**：全书间插文本，Cora's surface walk continuation；Cypsela's signal to space。
-- **人物弧线**：Cora 从 surface garden (ch052) 到 towers——her "kept it going anyway" ethic (never received reply, but kept going)。
-- **叙事手法**：expository (towers' purpose)；"never received a reply... kept it going anyway" refrain；radio message + light signal as Cypsela's beacon。
+- **一句话概括**：这颗小卫星地表园的第三样东西——两座格子塔：一座无线电发射器（对方录下的留言，从未收到回复），一座发光球（没有名字的颜色，为鲸鱼而设，从未收到回复）。
+- **情节位置**：全书间插文本，对方地表行走的延续；这颗小卫星向太空发出的信号。
+- **人物弧线**：对方从上一章的地表园写到这两座塔——她“就算没有回音也一直做下去”的原则。
+- **叙事手法**：说明性段落（两座塔的用途）；“从未收到回复……却一直做下去”这句叠句；电波与光信号作为这颗小卫星的灯塔。
 
 ## 精读
 
@@ -117,6 +116,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-Interstitial (Surface garden towers) 以 twin lattice towers (radio transmitter + light orb) 把 Cora's persistence ("never received a reply. She kept it going anyway.") 与 ammonia trail ("tempting snack. An open hand.") 并置——radio's looped message ("My name is Cora Marten") 与 light's programmed pattern ("Three flashes, then two, then three more") 作为 Cypsela's beacon to space。
+这一段间插（地表园的两座塔）把两座格子塔（无线电发射器与发光球）并置——对方那份坚持（“从未收到回复，她仍一直做下去”）与那条氨水的气味（“诱人的点心，一只摊开的手”）——发射器里循环的那段留言与发光球里编好的闪烁，成为这颗小卫星向太空发出的信号。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch053 interstitial.md

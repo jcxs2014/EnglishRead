@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 101. Chapter 50: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy & Cora lying together after Twig's disappearance——"What if she's still out there and I give up too early?" / "Did she take your last name, when you adopted her?" (Marten = marten babies kicked out by moms) / "You know what I've always liked the thought of? A vacation." / "Do you wanna come to the stables with me, for my preflight next week?" / "Why not."。
-- **情节位置**：Fortune 线 Chapter 50，紧跟 ch097 (Chapter 48)；Signy-Cora's grief + stables invitation。
-- **人物弧线**：Signy 从 "tinkerer" (work) 到 "Why not." (stables vacation)—her openness to Cora's invitation; Cora 从 "What if she's still out there" to stables invitation——her hope。
-- **叙事手法**：dialogue-driven (Signy-Cora)；Marten backstory (marten babies kicked out by moms); "vacation" as grief response; "Why not." as closing.
+- **一句话概括**：妹妹失踪后，她与对方躺在一起——“要是她还在外面，而我又放弃得太早呢”“当年正式成为一家人的时候，她们选了这个姓”“我一直很喜欢一个念头——去度个假”“下周我做飞行前准备，你要不要跟我去那片停泊区”“好啊”。
+- **情节位置**：故土线第五十章，紧跟 ch097；两人的悲伤与停泊区之约。
+- **人物弧线**：她从手艺人到那句“好啊”——她对对方邀请的松动；对方从“要是她还在外面”到发出邀请——她仅存的一点希望。
+- **叙事手法**：两人的对话；这个姓的由来；把“度假”当作对悲伤的回应；以“好啊”收尾。
 
 ## 精读
 
@@ -187,6 +186,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 50 章以 Signy & Cora lying together after Twig's disappearance，把 "What if she's still out there and I give up too early?" (Cora's fear) 与 "Did she take your last name, when you adopted her?" (Marten backstory—marten babies kicked out by moms, "Just like us!") 并置——"You know what I've always liked the thought of? A vacation." (Signy's desire) 与 "Do you wanna come to the stables with me, for my preflight next week?" (Cora's invitation) 建立 their stables vacation; "The thing about grief was it threw all your hesitations and hang-ups out the airlock." + "Why not." (Signy's acceptance) 写出 grief removing hesitations。
+第 50 章写妹妹失踪后她与对方躺在一起，把“要是她还在外面，而我又放弃得太早呢”（对方的恐惧）与那个姓的由来（貂熊的幼崽很小就被母亲赶出去，“跟我们一样”）并置——“我一直很喜欢一个念头——去度个假”与那句“下周我做飞行前准备，你要不要跟我去那片停泊区”建立这次停泊区之约。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch101 chapter 50 signy fortune.md

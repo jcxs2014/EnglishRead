@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 90. Chapter 793: Signy, Cypsela
 
 ## 本章导航
-
-- **一句话概括**：Signy finds Cora crying in the nook——reading Lily Marten's essay (ch009 interstitial)——"Oh, sweetheart... Sometimes you should look." / "Well, I can't speak for you, but it helps me. Sometimes I have to look, too."。
-- **情节位置**：Cypsela 线，Chapter 793；Signy-Cora's nook scene (Lily Marten's essay)。
-- **人物弧线**：Signy 从 "tinkerer" (work) 到 "Sometimes I have to look, too."——her care for Cora's grief; Cora 从 "Oh, it's—old shit. Stupid." to Signy's comfort。
-- **叙事手法**：nook scene (Cora crying, reading Lily Marten's essay)；Signy's care (hair, nuzzle)；"Sometimes I have to look, too." as mutual grief。
+- **一句话概括**：她发现对方在那个凹室里哭——对方在读那孩子那篇文章；她说“哦，亲爱的”“有时候就该去看”；又说“我说不好你怎么样，但对我有用，有时候我也必须去看”。
+- **情节位置**：小卫星线；两人在凹室的场景。
+- **人物弧线**：她从手艺人到“有时候我也必须去看”——她对对方那份悲伤的照料；对方从“旧账，蠢事”到被安慰。
+- **叙事手法**：凹室的场景；她的照料（抚头发、蹭脸）；“有时候我也必须去看”写出两人共享的悲伤。
 
 ## 精读
 
@@ -97,6 +96,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 793 章以 Signy finding Cora crying in the nook (reading Lily Marten's essay, ch009), 把 "Oh, sweetheart... Yes, you should look. Sometimes you should look." 与 "Well, I can't speak for you, but it helps me. Sometimes I have to look, too." 并置——Signy's care (pulling Cora into arms, kissing crown, nuzzling nose) 与 shared grief (mutual looking) 建立 their emotional bond。
+第 793 章写她发现对方在那个凹室里哭（对方在读那孩子那篇文章），把“哦，亲爱的……不，你该去看，有时候就该去看”与“我说不好你怎么样，但对我有用，有时候我也必须去看”并置——她的照料（把对方揽进怀里、吻她的头顶、蹭她的鼻子）与两人共享的悲伤。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch090 chapter 793 signy cypsela.md

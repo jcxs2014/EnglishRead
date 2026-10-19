@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 30. Chapter 14: Cora, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Cora 在 pilots' common room 与 Smokey/Lydia/Adam 等同事互动，内心被 mindbleed 与 Signy 的"vitamin C" occupy；电话通知 Twig（sister）到达——panic 转为 resignation。
-- **情节位置**：Fortune 线 Chapter 14，紧跟 ch011；Cora 的 social scene 与 Twig's arrival。
-- **人物弧线**：Cora 从 mindbleed anxiety 到 Twig's arrival 的 panic-to-resignation；她的 social circle (Smokey, Lydia, Adam) 建立。
-- **叙事手法**：ensemble scene；internal monologue (Signy, mindbleed, Colibri)；phone call twist。
+- **一句话概括**：她在飞行员的公共休息室与同事们互动，心里被心语与对方那瓶“维C”占满；一通电话通知她妹妹到了——慌张转为认命。
+- **情节位置**：故土线第十四章，紧跟 ch011；她的社交场合与妹妹的登场。
+- **人物弧线**：她从心语的焦虑到妹妹到来时的慌张与认命；她的社交圈在此建立。
+- **叙事手法**：群像场景；内心独白（心语、鲸鱼）；一通电话带来的转折。
 
 ## 精读
 
@@ -168,6 +167,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 14 章以 Cora 的 common-room scene 与 Twig's arrival 电话，把 her mindbleed anxiety、Signy longing、与 Twig's recurring problem 并置——"steeled herself, then sighed"写出她的 caretaker resignation 与 social circle。
+这一章用她在公共休息室的场景与妹妹到来那通电话，把她的心语焦虑、对对方的想念与妹妹反复出现的老毛病并置——那句“定了定神，又叹了口气”写出她作为照料者的认命与她的社交圈。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch030 chapter 14 cora fortune.md

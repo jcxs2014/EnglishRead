@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 88. Chapter 40: Cora, The Stables
 
 ## 本章导航
-
-- **一句话概括**：Cora's comedown at stables——"five things" game, Colibri conversation (plants, eating plants, "Would you eat me, if you needed to?", "Are Signy's plants not of her love?", "You are allowed your paradoxes, Cora"), Dr. Coleman's medical check (blood pressure stabilizing faster, ginger stopped), "Goddammit. Five. Five flavors of porridge powder."。
-- **情节位置**：Fortune 线 Chapter 40，紧跟 ch084 (Chapter 38)；Cora's quarry run recovery。
-- **人物弧线**：Cora 从 comedown (mindbleed) 到 medical check (Dr. Coleman notices improvement)——her "five things" game as coping; Colibri's "You are allowed your paradoxes, Cora" as closing。
-- **叙事手法**：comedown scene (micrograv bed, "five things" game)；Colibri conversation (plants, eating, paradoxes)；Dr. Coleman's medical check (blood pressure stabilizing faster, ginger stopped)；"Goddammit. Five. Five flavors of porridge powder." as closing。
+- **一句话概括**：对方在停泊区从那种状态缓下来——那个“数五样”的游戏、与鲸鱼的对话（植物、吃植物、要是需要会不会吃我、那些植物不也是她的爱吗、“你可以有自己的矛盾”）、医生的检查（血压稳定得更快、姜片停了），最后那句“见鬼；五种，五种粥粉口味”。
+- **情节位置**：故土线第四十章，紧跟 ch084；对方一次采石场行程后的恢复。
+- **人物弧线**：对方从心语后的那种状态到医生的检查——那个“数五样”的游戏是她的应对方式；鲸鱼那句“你可以有自己的矛盾”作为收尾。
+- **叙事手法**：从那种状态缓下来的场景（微重力床、数五样的游戏）；与鲸鱼的对话（植物、吃、矛盾）；医生的检查；以那句数粥粉收尾。
 
 ## 精读
 
@@ -18,7 +17,7 @@ modified: "2026-10-19"
 
 **中文理解**：从那种状态缓下来的办法——身体扫描、看电影、冷海绵擦身、睡觉。
 
-**关键词**：body scans / movies / cold sponge baths / sleep
+**关键词**：body scans / watch a movie / cold sponge baths / sleep
 
 **为什么这样写**：把这段缓下来写成一套“窍门”——这是骑手们的应对办法；“有的骑手喜欢……有的只想”写出个体之间的差异。
 
@@ -147,6 +146,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 40 章以 Cora's comedown at stables，把 "five things" game (Signy's grounding trick) 与 Colibri conversation (plants, eating, "Would you eat me, if you needed to?", "Are Signy's plants not of her love?") 并置——Dr. Coleman's observation ("evening out a lot faster than you used to" / "more of a pronounced trend than I'd expect solely from ginger clearing out") 写出 Signy's medicine working; "You are allowed your paradoxes, Cora. I enjoy the time we spend with them."写出 Colibri's acceptance; "Goddammit. Five. Five flavors of porridge powder. Come on, Cora. Be here. Stay here."写出 Cora's grounding。
+第 40 章写对方在停泊区从那种状态缓下来，把那个“数五样”的游戏与与鲸鱼的对话（植物、吃植物、“要是需要，你会吃我吗？”“那些植物不也是她的爱吗？”）并置——医生那句“你稳定下来的速度比以前快得多”，写出那副药在起作用。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch088 chapter 40 cora the stables.md

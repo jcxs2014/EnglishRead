@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 37. Chapter 19: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy 的 Friday evening with Otto——music (Pocket Posey), Sam's new boss (traditionalist), Margaret (producer) & Henry (composer) stories, eclipse flight, rorqual (Otto's Foley art for "Lunar Larceny"), Otto's teasing about Cora's love life ("Would you like it to be?")。
-- **情节位置**：Fortune 线 Chapter 19，紧跟 ch034 (Chapter 17)；Signy's Friday ritual 与 Otto's storytelling。
-- **人物弧线**：Signy 从 work-focused to Otto's playful teasing about Cora；Otto's Foley artist backstory (rorqual sound)；Signy's openness to Cora's stables visit。
-- **叙事手法**：dialogue-driven (Otto's storytelling)；flashback (Margaret, Henry, eclipse flight, rorqual Foley)；Otto's teasing (love life)。
+- **一句话概括**：她与老人的星期五晚上——放音乐、朋友换了个守旧的新上司、当年那对搭档的故事、日食飞行、鲸鱼拟音、老人拿她的感情生活打趣。
+- **情节位置**：故土线第十九章，紧跟 ch034；她的星期五仪式与老人讲故事。
+- **人物弧线**：她从埋头工作到被老人拿她的感情生活打趣；老人拟音师的身世；她对去停泊区这件事的松动。
+- **叙事手法**：对话驱动（老人讲故事）；闪回（那对搭档、日食飞行、鲸鱼拟音）；老人打趣她的感情生活。
 
 ## 精读
 
@@ -78,7 +77,7 @@ modified: "2026-10-19"
 
 **中文理解**：日食飞行——“Kissing your someone as you fly through the shadow of a moon”。
 
-**关键词**：eclipse flight / shadow of a moon / Nothing quite like it
+**关键词**：shadow of a moon / Nothing quite like it
 
 **为什么这样写**：把日食飞行写成浪漫的顶峰——飞过月亮投下的阴影时亲吻你的那个人——这是 Otto 对 Henry 的回忆。
 
@@ -88,7 +87,7 @@ modified: "2026-10-19"
 
 **中文理解**：Signy 问起鲸鱼——Otto 答得含糊，说小时候远远见过，也就是一团模糊的影子。
 
-**关键词**：ever seen a rorqual / ish / just a blob
+**关键词**：ever seen a rorqual / in person / ish
 
 **为什么这样写**：把 Otto 那次目击写成含糊的“算是吧”加“一团影子”——他的谦虚；“就是一团影子”写出距离之远。
 
@@ -188,6 +187,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 19 章以 Signy 的 Friday evening with Otto，把 music (Pocket Posey), Sam's boss (traditionalist), Margaret-Henry (creative partnership), eclipse flight, rorqual Foley art ("layer cake" of boar/elk/whale + dentist's air filter), 与 Otto's teasing about Cora ("Would you like it to be?") 并置——Otto's backstory (Foley artist) 与 Signy's openness to Cora 建立。
+第 19 章写她与老人的星期五晚上——放音乐、朋友换了个守旧的新上司、当年那对搭档、日食飞行、鲸鱼拟音（野猪、麋鹿、座头鲸加牙医诊所的空气过滤器叠成的“千层蛋糕”），以及老人拿她的感情生活打趣——老人的拟音师身世与她对此事的松动一并建立。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch037 chapter 19 signy fortune.md

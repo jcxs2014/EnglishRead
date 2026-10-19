@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 80. Chapter 36: Cora, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Cora's 32nd birthday party at the Brick——Smokey, Adam, Twig, Signy; Colibri's stress pheromones from Adam's rorqual Blaze (Adam uses prods); Twig's conspiracy theories (Chapter 252, Second Lander); Signy's calm rebuttal ("Do you think there's ever been a time when recorded history was both comprehensive and objective?"); Cora's "I actually do want some cake"; Signy kisses Cora's palm。
-- **情节位置**：Fortune 线 Chapter 36，紧跟 ch076 (Chapter 34)；Cora's birthday party。
-- **人物弧线**：Cora 从 "hug everyone" party host 到 "I actually do want some cake"—her weariness with birthday party routine; Twig 从 "whole-ass" conspiracy theorist 到 Signy's calm rebuttal; Signy 从 outsider to Twig's challenger。
-- **叙事手法**：ensemble scene (Brick bar)；Colibri's stress pheromones (Blaze, Adam's prods)；Twig's conspiracy theories (Chapter 252, Second Lander)；Signy's calm rebuttal; "Signy kisses Cora's palm" closing。
+- **一句话概括**：对方三十二岁生日那天的聚会——同事、妹妹、她都在；另一头鲸鱼身上的应激信息素（因为那人用电击棒）；妹妹那套阴谋论；她冷静的反驳；对方说其实还真想吃点蛋糕；她吻了吻对方的掌心。
+- **情节位置**：故土线第三十六章，紧跟 ch076；对方的生日聚会。
+- **人物弧线**：对方从招呼所有人的主人到“其实还真想吃点蛋糕”——她对生日聚会的疲倦；妹妹从满口阴谋论到被她冷静地顶回去；她从外人变成妹妹的诘问者。
+- **叙事手法**：群像场景；鲸鱼的应激信息素；妹妹的阴谋论；她冷静的反驳；以她吻对方掌心收尾。
 
 ## 精读
 
@@ -167,6 +166,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 36 章以 Cora's 32nd birthday party，把 Colibri's stress pheromones (Blaze, Adam's prods) 与 Twig's conspiracy theories (Chapter 252, Second Lander) 并置——Adam's "just give him the prod" 写出 his cruelty; Signy's calm rebuttal ("Do you think there's ever been a time when recorded history was both comprehensive and objective?" / "I also think it might be wise for you to question what you're currently being sold by people who claim to have it all figured out") 写出 her skepticism; "I actually do want some cake" + Signy's palm kiss 写出 their relationship depth。
+第 36 章写对方三十二岁的生日聚会，把鲸鱼身上的应激信息素（因为那人用电击棒）与妹妹那套阴谋论并置——那人那句“直接给他上电击棒”写出他的残忍；她冷静的反驳（“你觉得历史上真有过一个既有记录、又客观全面的时代吗？”）写出她的立场。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch080 chapter 36 cora fortune.md

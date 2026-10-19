@@ -5,16 +5,11 @@ modified: "2026-10-19"
 
 # 24. Chapter 10: Signy, Fortune
 
-## 一句话总结
-
-Signy 和 Cora 的 domestic life——signy 的 garden experiments 与 Cora 的 patience with her chaos。
-
 ## 本章导航
-
-- **一句话概括**：Signy 的 triage list——Jonathan（工伤失明）、Madeline（癌症晚期）、Evie（零售工作）、Phoebe（不想怀孕）、Paul（讨厌精神科医生）、Cora——每个人的"low priority"背后是 system 的冷漠。
-- **情节位置**：Fortune 线 Chapter 10，紧跟 ch09；Signy 的 daily work——reveals 她的患者名单 and 系统的 failures。
-- **人物弧线**：Signy 从"in a perfect world"到具体每个患者的 story——her empathy vs. system's cold logic; Cora 的引入暗示特殊性。
-- **叙事手法**：list/roll-call structure; contrast (ideal vs. real); pathos through specifics。
+- **一句话概括**：她那份分诊名单——工伤失明的男人、癌症晚期的女人、做零售的病人、不想怀孕的女孩、讨厌精神科医生的病人，还有对方——每个人被列为“低优先”的背后，都是这套体制的冷漠。
+- **情节位置**：故土线第十章，紧跟 ch009；她的日常工作，揭示她的病人名单与体制的失灵。
+- **人物弧线**：她从“在一个完美的世界里”的抽象，落到每个病人的具体故事——她的共情与体制的冷逻辑对照；对方的出现暗示了特殊性。
+- **叙事手法**：名单式罗列；理想与现实的对照；以具体细节写出悲悯。
 
 ## 精读
 
@@ -75,3 +70,7 @@ Signy 和 Cora 的 domestic life——signy 的 garden experiments 与 Cora 的 
 | mass-produced | 批量生产的 | the mass-produced stuff, the legal stuff |
 | oversight | 监管、监督 | made in dedicated labs with proper equipment and oversight |
 | counsel | 劝说、建议 | a counselor who would kindly, repeatedly point out |
+
+## 一句话总结
+
+她那份分诊名单把制度的冷逻辑摊开——不是没有药，而是太少，于是必须挑谁先谁后；而名单最后那个被打断的名字，暗示了对方对她意味着什么。

@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 44. Chapter 24: Signy, Fortune (Above)
 
 ## 本章导航
-
-- **一句话概括**：Signy 的 first trip to space (stables visit)—cargo transport "Tell Me I'm Pretty", anti-nausea promethazine, gravity release, "It was actually quite nice, to feel the world let go of you."。
-- **情节位置**：Fortune 线 Chapter 24, 紧跟 ch041 (Chapter 23)；Signy's stables visit payoff。
-- **人物弧线**：Signy 从 "hadn't enjoyed school" kiddie catapult to adult space experience——her "world let go of you" moment。
-- **叙事手法**：sensory detail (gravity, anti-nausea), "world let go of you" as thematic line。
+- **一句话概括**：她第一次上太空——搭乘货船，吃止吐药，重力释放的那一刻，她感到“让世界松开你，其实挺不错”。
+- **情节位置**：故土线第二十四章，紧跟 ch041；她这次停泊区之行终于成行。
+- **人物弧线**：她从学生时代那种儿童弹射椅般的体验，长成成年人的太空经历——她“世界松开你”的那一刻。
+- **叙事手法**：感官细节（重力、止吐药）；“让世界松开你”作为主题句。
 
 ## 精读
 
@@ -128,6 +127,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 24 章以 Signy 的 first space trip (cargo transport "Tell Me I'm Pretty"), 把 her childhood space aversion (nausea, purgatory) 与 adult experience (comfort, "world let go of you") 对比——"She smiled, almost. Maybe there was something to being in space."写出她的 tentative opening。
+第 24 章写她第一次上太空（搭货船），把她童年对太空的厌恶（恶心、煎熬）与成年后的体验（舒适、“让世界松开你”）对照——“她几乎笑了，也许在太空里还真有点意思”写出她试探性的敞开。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch044 chapter 24 signy fortune above.md

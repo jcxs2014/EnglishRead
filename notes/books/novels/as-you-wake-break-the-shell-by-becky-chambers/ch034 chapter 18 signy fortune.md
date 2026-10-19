@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 34. Chapter 17: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy 的 Friday dinner with Otto——drop dumplings, Nurse Arlo's pamphlets (potassium), hospice policy (65+ comfort only), Otto's "you should be having more fun", Signy's "puzzle" (Cora's mindbleed), Sam (software engineer, report doctoring), "vitamin C" bottle sound for Otto's Foley art。
-- **情节位置**：Fortune 线 Chapter 17，紧跟 ch031 (Chapter 15)；Signy's Friday ritual 与 Otto's medical situation。
-- **人物弧线**：Signy 从 shopkeeper to Otto's caretaker—her medical ethic (anti-triage) 与 Otto's "you should have more fun" tension；Sam's introduction。
-- **叙事手法**：ensemble (Otto, Arlo, Sam, Nurse Cody flashback)；hospice policy exposition；Foley art (sound effects)；"vitamin C" bottle as sound effect。
+- **一句话概括**：她与老人的星期五晚餐——饺子、护士带来的宣传册、临终照护政策、老人那句“你该多找点乐子”、她那道“谜题”、做软件的朋友、“维C”药瓶给老人拟音当道具。
+- **情节位置**：故土线第十七章，紧跟 ch031；她的星期五仪式与老人的病情。
+- **人物弧线**：她从店主变成老人的照料者——她反分诊的医疗伦理与老人那句“你该多找点乐子”形成张力；做软件的朋友在此登场。
+- **叙事手法**：群像（老人、护士、朋友）；临终照护政策说明；拟音（音效）；“维C”药瓶当作音效道具。
 
 ## 精读
 
@@ -38,7 +37,7 @@ modified: "2026-10-19"
 
 **中文理解**：Otto 的血钾偏低，医嘱是多吃花生和绿叶菜。
 
-**关键词**：potassium / peanuts and leafy greens
+**关键词**：peanuts and leafy greens / a little low
 
 **为什么这样写**：把缺钾写成一句饮食建议——Otto 的轻描淡写；“没什么可担心的”是他的否认。
 
@@ -78,7 +77,7 @@ modified: "2026-10-19"
 
 **中文理解**：Signy 质疑那句“活过头了”——他不还在这儿吗？此刻不正是他的时光吗？
 
-**关键词**：lived past his time / Was he not still here
+**关键词**：Was he not still here / Was this not his time
 
 **为什么这样写**：把分诊的逻辑写成可被质疑的——“他不还在这儿吗？”一句发出存在主义的挑战。
 
@@ -118,7 +117,7 @@ modified: "2026-10-19"
 
 **中文理解**：Sam 是 Henry 的侄女，做软件工程——Otto 用一份终身报酬换药，而医生打印种子报告。
 
-**关键词**：Sam / software engineer / lifetime payment
+**关键词**：Sam / software engineer / Henry's niece
 
 **为什么这样写**：把 Sam 写成 Otto 付的“终身报酬”——这是他们的安排；她软件工程师的身份写出自己在 Signy 规避监管中的角色。
 
@@ -188,6 +187,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 17 章以 Signy's Friday dinner 与 Otto，把 hospice policy (65+ comfort only)、Nurse Arlo's veiled awareness、Otto's "you should have more fun" push、Signy's "puzzle" (Cora's mindbleed)、Sam (software engineer)、Ramona's charm、Otto's Foley art ("rattle rattle, then thunk") 与 mutual learning 并置——建立 Signy's anti-triage ethic 与 Otto's friendship network。
+第 17 章把她与老人的星期五晚餐并置——临终照护政策、护士那种心照不宣、老人那句“你该多找点乐子”、她那道“谜题”、做软件的朋友、那位太太的挂饰、老人的拟音（先咔哒咔哒，再咚的一声）与两人的互相学习——建立她反分诊的原则与老人的朋友圈。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch034 chapter 17 signy fortune.md

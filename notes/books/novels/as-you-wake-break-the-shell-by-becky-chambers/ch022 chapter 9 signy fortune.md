@@ -5,16 +5,11 @@ modified: "2026-10-19"
 
 # 22. Chapter 9: Signy, Fortune
 
-## 一句话总结
-
-Signy 用合法 fabricator 工作但偷偷做未授权 genome edits——her moral ambiguity and scientific passion。
-
 ## 本章导航
-
-- **一句话概括**：Signy 在 fabricator 前通过license scan，内心独白揭示她如何利用 Ag Bureau 的筛查盲区——只做"heart medicine and T-blockers"，不做 recreational drugs——将 illegal 工作包装成 puzzle。
-- **情节位置**：Fortune 线 Chapter 9，紧跟 ch011；Signy 的 daily routine at the fabricator——establishes her illegal-but-ethical medicine synthesis。
-- **人物弧线**：Signy 从"mindless taps"到享受"creative work-arounds"——her personality as puzzle-solver; self-justification for illegal work。
-- **叙事手法**：internal monologue；world-building (Ag Bureau, T-blockers, genome edits)；irony ("who didn't like a puzzle?")。
+- **一句话概括**：她在合成器前通过许可扫描，内心独白揭示她如何利用管理局的筛查盲区——只做“心脏药和激素阻滞剂”，不做娱乐性药物——把非法工作包装成解谜。
+- **情节位置**：故土线第九章，紧跟 ch011；她在合成器前的日常，确立她那种违法却合乎伦理的制药。
+- **人物弧线**：她从机械地点击到享受“创造性的绕行”——她作为解谜者的性格，以及对非法工作的自我辩解。
+- **叙事手法**：内心独白；世界观铺陈（管理局、激素阻滞剂、基因编辑）；反讽（“谁不喜欢一道谜题呢”）。
 
 ## 精读
 
@@ -67,3 +62,7 @@ Signy 用合法 fabricator 工作但偷偷做未授权 genome edits——her mor
 | subtle | 微妙的、不明显的 | genome edits as subtle as hers |
 | malicious | 恶意的 | fabricate anything designed to cause harm or that could be used for malicious purposes |
 | prosecution | 起诉 | criminal prosecution |
+
+## 一句话总结
+
+她在合成器前逐条通过许可确认，心里却清楚自己正在做的事——利用管理局的筛查盲区，只做心脏药与激素阻滞剂，把非法工作包装成一道谜题；她的道德暧昧与科学热情在此同时显形。

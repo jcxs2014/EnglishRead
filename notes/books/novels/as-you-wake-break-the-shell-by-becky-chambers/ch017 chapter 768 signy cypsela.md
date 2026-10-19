@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 17. Chapter 768: Signy, Cypsela
 
 ## 本章导航
-
-- **一句话概括**：Cora 用早餐（hashcakes + juice）把 Signy 从 workbench 拉回；两人讨论 pillow 上的 bee，Cora 接手 duct seals 检查——domestic intimacy 与分工。
-- **情节位置**：Cypsela 线，紧跟 ch015（Chapter 767）；Signy-Cora 的 breakfast scene。
-- **人物弧线**：Signy 从 workbench hyperfocus 到 Cora 的 gentle interruption；Cora 接手 practical task（duct seals）——他们的分工确立。
-- **叙事手法**：对话驱动；感官细节（hashcakes, juice, pH data）；"I don't wanna today"的轻松收尾。
+- **一句话概括**：对方用早餐把她从工作台拉回来；两人聊起枕头上的熊蜂，她接手检查导管密封——家庭式亲密与分工。
+- **情节位置**：小卫星线，紧跟 ch015；两人的早餐场景。
+- **人物弧线**：她从工作台的过度专注到被对方轻轻打断；对方接手实务——两人的分工确立。
+- **叙事手法**：对话驱动；感官细节（早餐、果汁、数据）；以一句轻松的“今天不想动”收尾。
 
 ## 精读
 
@@ -107,6 +106,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 768 章以 breakfast scene 把 Signy 的 workbench hyperfocus 与 Cora 的 gentle interruption 并置，bee mystery 引出分工（Cora=mechanical, Signy=plants）——Cora-Signy 的 domestic ease 与 task negotiation 建立。
+这一章用一场早餐，把她的工作台过度专注与对方温柔的打断并置；熊蜂的谜团引出两人的分工（对方管机械，她管植物）——两人的家庭式从容与事务上的协商在此建立。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch017 chapter 768 signy cypsela.md

@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 11. Chapter 4: Cora, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Cora 在 Midtown 寻找 J Street Plant Shop，结识 Signy（植物学家/地下医生），坦白 mindbleed 病情，Signy 同意制作 tritheragen，条件是 Cora 带她去看 Colibri——两人关系与 Cora 的生存策略在此确立。
-- **情节位置**：Fortune 线 Chapter 4，紧跟 ch006/ch010；Cora 的 quest for medicine 与 Signy 的 introduced。
-- **人物弧线**：Cora 从"risky to begin with"的犹豫到坦白 mindbleed——她的 vulnerability 与 Colibri 保护 ethic 确立；Signy 从 prickly 到 agreement——她的 "mean and concerned" 人格与植物医学 expertise 建立。
-- **叙事手法**：长对话驱动；细节堆叠 worldbuilding（Berth、ash、volcanoes）；Signy 的 clinical tone vs Cora 的 light mode。
+- **一句话概括**：她在中城找那家植物店，结识了对方（植物学家兼地下医生），坦白自己的病情，对方同意为她配药，条件是带对方去看鲸鱼——两人的关系与她的生存策略在此确立。
+- **情节位置**：故土线第四章，紧跟 ch006 与 ch010；她的求药之路与对方的登场。
+- **人物弧线**：她从“本来就有风险”的犹豫到坦白病情——她的脆弱与保护鲸鱼的原则确立；对方从冷淡到答应——她“又凶又在乎”的性格与植物医学的本事建立。
+- **叙事手法**：长对话驱动；细节堆叠式世界观铺陈；对方的冷静语气与她的轻松语气形成对照。
 
 ## 精读
 

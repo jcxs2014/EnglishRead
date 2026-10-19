@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 56. Interstitial: Soapmaker's Borage (Seed Template)
 
 ## 本章导航
-
-- **一句话概括**：Seed template description for Soapmaker's Borage (Borago cypsela)——adapted from Borago officinalis → astralis → cypsela; doubled seed count, higher oil yield, astringent taste; fertile strain。
-- **情节位置**：全书间插文本，Signy's seed template catalog。
-- **人物弧线**：无具体人物；Signy's work as template documentation。
-- **叙事手法**：technical documentation (seed template description)；botanical detail。
+- **一句话概括**：一份种子模板档案（制皂琉璃苣）——从地球原种到适应环系的两个阶段；种子数翻倍、含油量更高、味道发涩；是可育品系。
+- **情节位置**：全书间插文本，她的种子模板目录。
+- **人物弧线**：无具体人物；她的工作以模板档案的形式呈现。
+- **叙事手法**：技术文档（种子模板说明）；植物学细节。
 
 ## 精读
 
@@ -127,6 +126,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-Interstitial (Soapmaker's Borage seed template) 以 technical documentation 把 Borago cypsela (adapted officinalis → astralis → cypsela, twice seeds, higher oil, astringent taste, fertile, 92% germination) 呈现——Signy's work as template documentation, community-requested soap/lotion production。
+这一段间插（一份种子模板档案）以技术文档的形式呈现制皂琉璃苣——从地球原种到适应环系的两个阶段、种子数翻倍、含油量更高、味道发涩、可育、发芽率九成二——呈现她的工作，也交代社区请她做的肥皂与护肤品的生产。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch056 interstitial.md

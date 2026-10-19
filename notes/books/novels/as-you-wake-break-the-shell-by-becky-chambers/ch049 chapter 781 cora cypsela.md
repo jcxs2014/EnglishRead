@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 49. Chapter 781: Cora, Cypsela (Outside)
 
 ## 本章导航
-
-- **一句话概括**：Cora 在 moonlet surface 上 walking——gravity mesh, suit-up, "in another life" reflection，Flip.（airlock opening）。
-- **情节位置**：Cypsela 线，Chapter 781；Cora's surface walk outside moonlet。
-- **人物弧线**：Cora 从 pilot (past) 到 Cypsela resident (present)——"same life, then and now" reflection。
-- **叙事手法**：sensory detail (gravity flip, suit-up)；reflection on career arc；short, transitional。
+- **一句话概括**：她在这颗小卫星的地表上行走——重力网、穿好宇航服、一句“在另一种人生里”的回想，然后打开气闸。
+- **情节位置**：小卫星线；她在卫星外的地表行走。
+- **人物弧线**：她从过去的骑手到现在的居民——“同一种人生，那时和现在”的回想。
+- **叙事手法**：感官细节（重力翻转、穿宇航服）；对职业生涯的回想；篇幅短，过渡性。
 
 ## 精读
 
@@ -127,6 +126,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 781 章以 Cora 的 surface walk，把 her career arc (Fortune → Solace → Quarries → Cypsela) 与 "same life, then and now" 的 reflection 并置——"princess or hardware"的 identity duality 与 "congruity... common element between disparate points"的 self-awareness 建立 her continuity。
+第 781 章写她在小卫星地表的行走，把她的职业轨迹与“同一种人生，那时和现在”的回想并置——那种“公主还是硬件”的身份二重性与“不同点之间那个共同的东西”的自觉，写出她人生的连续性。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch049 chapter 781 cora cypsela outside.md

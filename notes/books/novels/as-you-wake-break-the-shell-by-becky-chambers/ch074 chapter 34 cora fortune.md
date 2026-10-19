@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 74. Chapter 33: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy & Cora's raft 2 date——police checkpoint (Signy's pill bottle "Vitamin C"), "It's very important that you turn around and kiss me right now", bathroom hiding, "Oh, good. It's just us." (Signy's selfish thought), "Stuff to do with Signy" list, "For being someone who will hide with me"。
-- **情节位置**：Fortune 线 Chapter 33，紧跟 ch068 (Chapter 31)；Signy-Cora's date + police checkpoint。
-- **人物弧线**：Signy 从 "tinkerer" (work) 到 "Oh, good. It's just us." (selfish relief)——her growing attachment to Cora; Cora from confident to "I have some ginger on me, but, um..." (mindbleed fear)。
-- **叙事手法**：ensemble (Signy-Cora dialogue)；police checkpoint as plot device (forced proximity); "Stuff to do with Signy" list as Cora's vulnerability; "For being someone who will hide with me" as emotional close。
+- **一句话概括**：两人去第二居住区的约会——警察检查站（她那瓶贴着“维C”的药）、一句“你现在马上转过来吻我，这非常重要”、躲进浴室、她心里那句自私的“太好了，只有我们俩”、对方列的“想和她一起做的事”、以及“因为你愿意和我一起躲起来”。
+- **情节位置**：故土线第三十三章，紧跟 ch068；两人的约会与警察检查站。
+- **人物弧线**：她从那句自私的“太好了”里，看出自己对对方的依恋在加深；对方从从容到说起自己身上带的姜片。
+- **叙事手法**：两人的对话；把检查站当作推动情节的装置（被迫共处）；对方列的清单写出她的脆弱；“因为你愿意和我一起躲起来”作为情感收束。
 
 ## 精读
 
@@ -197,6 +196,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 33 章以 Signy-Cora's raft 2 date + police checkpoint，把 "It's very important that you turn around and kiss me right now" (kiss as cover) 与 "Oh, good. It's just us." (Signy's selfish thought) 并置——"Stuff to do with Signy" list (Cora's vulnerability) 与 "For being someone who will hide with me" (Signy's gratitude) 建立 their relationship depth。
+第 33 章写两人去第二居住区的约会与警察检查站，把“你现在马上转过来吻我，这非常重要”（把亲吻当掩护）与“太好了，只有我们俩”（她那句自私的念头）并置——对方列的那份“想和她一起做的事”写出她的脆弱，而“因为你愿意和我一起躲起来”写出她的感激。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch074 chapter 33 signy fortune.md

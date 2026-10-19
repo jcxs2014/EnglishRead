@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 09. Interstitial: Lily Marten's Essay
 
 ## 本章导航
-
-- **一句话概括**：Lily Marten（Cora 的妹妹）的学校作业——一篇愤世嫉俗的 OCTA（Orion-Cygnus Trade Alliance）历史短文，附教师批注，揭示 Fortune 星球的殖民史、OCTA 的控制与 Primer 的宣传功能。
-- **情节位置**：全书间插文本；Lily 是 Cora 的妹妹（教师批注 "Have you showed this essay to Cora?"），提供 Cora 家庭与 Fortune 社会的儿童视角。
-- **人物弧线**：Lily 从愤世嫉俗的儿童到被教师规训——她的 voice 是全书的批判性母题的最直接表达。
-- **叙事手法**：儿童 narrator + 教师脚注的双声结构；反讽与批判；世界构建信息密集。
+- **一句话概括**：那孩子的一篇学校作业——一篇愤世嫉俗的联盟历史短文，附教师批注，揭示故土的殖民史、联盟的控制与手册的宣传功能。
+- **情节位置**：全书间插文本；那孩子是对方的妹妹（教师批注里问她有没有把这篇文章给对方看过），提供对方家庭与故土社会的儿童视角。
+- **人物弧线**：那孩子从愤世嫉俗到被教师规训——她的声音是全书批判性母题最直接的表达。
+- **叙事手法**：儿童叙述者加教师脚注的双声结构；反讽与批判；世界观信息密集。
 
 ## 精读
 
@@ -99,6 +98,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-Lily Marten 的儿童作业以反讽 voice 揭示 OCTA 的殖民控制与 Primer 的宣传功能，把 Fortune 星球的生存困境写成儿童的 despair——是全书 anti-colonial 母题的最直接表达。
+那孩子的作业用反讽的口吻揭开联盟的殖民控制与手册的宣传功能，把故土的生存困境写成孩子的绝望——是全书反殖民母题最直接的表达。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch009 interstitial.md

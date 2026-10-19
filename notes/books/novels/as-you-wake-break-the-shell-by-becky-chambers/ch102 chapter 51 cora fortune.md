@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 102. Chapter 794: Cora, Cypsela
 
 ## 本章导航
-
-- **一句话概括**：Cora & Signy in the nook——"I cannot begin to imagine who I'd be if I hadn't met you" / "That's because it's unimaginable" / "There is no future. There is only now." / "That's very rorqual of you."。
-- **情节位置**：Cypsela 线，Chapter 794；Cora-Signy's nook scene (grief + philosophy)。
-- **人物弧线**：Cora 从 "tinkerer" (work) 到 "I cannot begin to imagine who I'd be if I hadn't met you"—her vulnerability; Signy 从 "tinkerer" (work) 到 "There is no future. There is only now."——her philosophy。
-- **叙事手法**：nook scene (Cora's tears, Signy's comfort)；philosophical dialogue (future vs now); "That's very rorqual of you" (Cora's humor)。
+- **一句话概括**：两人在凹室里——“我根本没法想象，要是没遇见你，我会是谁”“那是因为它本就无法想象”“没有未来，只有现在”“你这想法很鲸鱼”。
+- **情节位置**：小卫星线；两人在凹室的场景（悲伤与哲学）。
+- **人物弧线**：对方从手艺人到那句“根本没法想象”——她的脆弱；她从手艺人到“没有未来，只有现在”——她的哲学。
+- **叙事手法**：凹室的场景；哲学对话（未来与现在）；“你这想法很鲸鱼”写出对方的幽默。
 
 ## 精读
 
@@ -137,6 +136,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 794 章以 Cora & Signy in the nook，把 "I cannot begin to imagine who I'd be if I hadn't met you" (Cora's vulnerability) 与 "That's because it's unimaginable... It's a contradiction. It can't be done." (Signy's logic) 并置——"There is no future. There is only now." (Signy's presentism) 与 "That's very rorqual of you" (Cora's humor) / "I learned from the best" (Signy's acknowledgment—Colibri) 写出 their philosophical bond。
+第 794 章写两人在凹室里，把“我根本没法想象，要是没遇见你，我会是谁”（对方的脆弱）与“那是因为它本就无法想象……这是个矛盾，做不到”（她的逻辑）并置——“没有未来，只有现在”（她的当下主义）与“你这想法很鲸鱼”（对方的幽默）。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch102 chapter 794 cora cypsela.md

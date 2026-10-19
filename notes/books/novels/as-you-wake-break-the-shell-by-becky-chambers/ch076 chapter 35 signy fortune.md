@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 76. Chapter 34: Cora, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Cora & Signy's morning (mandarins, peeling, "tiny details, little nothings"), Cora's sheltering (clinic, jab, menstrual blockers), Cora's period memory, "full of eggs" conversation, fruit as plant ovary, "I have really bad news for you about what flour is."。
-- **情节位置**：Fortune 线 Chapter 34，紧跟 ch074 (Chapter 33)；Cora-Signy's morning after sheltering。
-- **人物弧线**：Cora 从 "tiny details, little nothings" (burning brighter) 到 "full of eggs" revelation (quiet calamity)——her growing intimacy with Signy's world; Signy from "I don't like potted plants" to "full of eggs" (scientific curiosity)。
-- **叙事手法**：morning routine (mandarins, peeling)；Signy's scientific curiosity (fruit as ovary)；Cora's "quiet calamity" (fruit never "just fruit" again)。
+- **一句话概括**：两人的早晨（剥橘子、“细枝末节、微不足道的小事”）、对方谈自己避难时的经历（诊所、打针、经期抑制）、她关于经期的回忆、那句“此刻满是卵子”、水果即植物的卵巢，以及最后一句“关于面粉是什么，我有个非常坏的消息要告诉你”。
+- **情节位置**：故土线第三十四章，紧跟 ch074；两人躲避之后的早晨。
+- **人物弧线**：对方从那句“细枝末节”写到“满是卵子”带来的无声崩溃——她与对方的世界越来越近；她则从对植物没兴趣到追问“满是卵子”。
+- **叙事手法**：早晨的日常（橘子、剥皮）；她的科学好奇（水果即卵巢）；对方那句无声崩溃（水果再也不是“只是水果”）。
 
 ## 精读
 
@@ -147,6 +146,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 34 章以 Cora & Signy's morning (mandarins, peeling, "tiny details, little nothings, but with each one, she burned a little brighter") 与 "full of eggs" conversation 并置——Signy's "Fruit. Fruit is a plant ovary."写出她的 scientific revelation; Cora's "quiet calamity" ("so cute, so orange, and now, irrevocably fucked") 写出 fruit never "just fruit" again; "I have really bad news for you about what flour is."写出 Signy's tease。
+第 34 章写两人的早晨（橘子、剥皮、“细枝末节、微不足道的小事，可每一件都让她烧得更亮一点”）与那段关于“满是卵子”的对话并置——“水果，水果就是植物的卵巢”写出她那次科学上的揭晓；对方那句无声的崩溃（“那么可爱，那么橙黄，可现在彻底完了”）写出水果再也不是“只是水果”。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch076 chapter 34 cora fortune.md

@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 43. Interstitial: Cora and Colibri (Saddle Visit)
 
 ## 本章导航
-
-- **一句话概括**：Cora 在 saddle 与 Colibri 的 telepathic 对话——Signy 即将 visit, mindbleed secret, Colibri's trust, touch desire, "Warmth and light" refrain。
-- **情节位置**：全书间插文本，发生在 Cora 的 saddle visit；Signy's stables visit 前。
-- **人物弧线**：Cora 从 "I want to tell you about another visit" 到 "I trust you with my life"；Colibri's trust ("I am pleased to be of your trust") 与 touch desire ("Not poking and not probing, but a hand? A hello?")。
-- **叙事手法**：telepathic dialogue (no quotes, no speaker tags)；Colibri's non-human cognition (no who/what distinction, "Warmth and light" refrain)；Cora's vulnerability (mindbleed secret)。
+- **一句话概括**：对方在鞍座里与鲸鱼的心灵对话——对方即将来访，心语还是个秘密，鲸鱼的信任，想被触碰的渴望，反复出现的“温暖与光”。
+- **情节位置**：全书间插文本，发生在对方一次鞍座行程中；在来访之前。
+- **人物弧线**：对方从“我想跟你说另一次来访”到“我把命交给你”；鲸鱼的信任与想被触碰的渴望。
+- **叙事手法**：心灵对话（无引号、无说话人标签）；鲸鱼那种非人的认知（不分“谁”与“什么”，反复出现“温暖与光”）；对方的脆弱（心语的秘密）。
 
 ## 精读
 
@@ -188,6 +187,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-Interstitial (Cora & Colibri saddle visit) 以 telepathic dialogue 把 mindbleed secret、Signy's visit、Colibri's trust & touch desire 并置——"Hush, friend. In my mind, I am holding you"写出 Cora's telepathic love；"I will not share your secret"写出 Colibri's loyalty；"She and I share a commonality. We are curious about each other. That's not enough reason to trust someone. No. But it is a good start."写出 trust as process。
+这一段间插（对方与鲸鱼在鞍座里的对话）用心灵对话把心语的秘密、她即将来访、鲸鱼的信任与想被触碰的渴望并置——“别怕，朋友，在我心里，我抱着你”写出对方那种心灵上的爱；“我不会说出去”写出鲸鱼的忠诚；而那句“我们彼此好奇，可那不是信任一个人的足够理由”“对，但那是个不错的开始”写出信任的起点。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch043 interstitial.md

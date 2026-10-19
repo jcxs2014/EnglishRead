@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 86. Chapter 39: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy at police station with Cora (Twig arrested, bail paid), Cora-Twig argument (Sucker's Luck, stolen a bunch of fuel), Signy leaves, 灵长类电影类比 (screaming at each other / cuddled together), "For being someone who will hide with me" (ch074) callback, Sando Press vs Hot Stuff Skewer Shack ("stuff in bread")。
-- **情节位置**：Fortune 线 Chapter 39，紧跟 ch080 (Chapter 36)；Signy-Cora's police station night。
-- **人物弧线**：Signy 从修理铺工作到 "For being someone who will hide with me" (ch074 callback)—her care for Cora; Cora from "I'm going to kill her" to bail payment + anger (Twig's stolen a bunch of fuel)。
-- **叙事手法**：ensemble (police station)；Cora-Twig argument (Sucker's Luck, stolen a bunch of fuel); Signy's 灵长类电影类比 (screaming at each other / cuddled together); "stuff in bread" as Cora's comfort food.
+- **一句话概括**：她在警局陪着对方（妹妹被捕、保释金已付），姐妹俩吵了起来（那桩事、偷燃料），她先离开，并借灵长类纪录片打了个比方（先互相尖叫，再搂在一起），最后想到那顿夹馅面包。
+- **情节位置**：故土线第三十九章，紧跟 ch080；两人在警局的那一夜。
+- **人物弧线**：她从修理铺的活计写到对对方的关心（呼应 ch074 那句“愿意和我一起躲起来”）；对方从“我真想杀了她”到掏钱保释、再到愤怒。
+- **叙事手法**：群像（警局）；姐妹俩的争吵；她借灵长类纪录片打的比方；夹馅面包作为对方的安慰食物。
 
 ## 精读
 
@@ -207,6 +206,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 39 章以 Signy at police station with Cora (Twig arrested), 把 Cora-Twig's argument (Sucker's Luck, fuel theft) 与 Signy's primate movie analogy (screaming then cuddling) 并置——"I'm going to kill her" (Cora's anger) 与 "For being someone who will hide with me" (Signy's callback to ch074) 建立 their relationship depth; "stuff in bread" (Cora's comfort food) 写出 Signy's care。
+第 39 章写她在警局陪着对方（妹妹被捕），把姐妹俩的争吵（那桩事、偷燃料）与她借灵长类纪录片打的比方（先互相尖叫，再搂在一起）并置——对方那句“我真想杀了她”与她想到的那句“愿意和我一起躲起来”（呼应 ch074）写出两人的关系深度。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch086 chapter 39 signy fortune.md

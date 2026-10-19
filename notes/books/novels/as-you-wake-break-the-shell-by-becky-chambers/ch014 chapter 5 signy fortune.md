@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 14. Chapter 5: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy 的"Friday"——她挂出"closed"招牌，实际进行药物与种子工作；Friday 是她最喜爱的日子，因为能锁门独处。
-- **情节位置**：Fortune 线 Chapter 5，紧跟 ch011；Signy 的"actual work"（medicine/seeds）揭示。
-- **人物弧线**：Signy 从 shopkeeper 转为地下医生/植物学家——她的 Friday ritual 确立。
-- **叙事手法**：简短、揭示性；"first line wasn't true"的 meta 叙述。
+- **一句话概括**：她的星期五——挂出“停业”的牌子，实际上在里面做药和种子；星期五是她最喜欢的日子，因为可以锁上门独处。
+- **情节位置**：故土线第五章，紧跟 ch011；她真正的工作（药与种子）在此揭开。
+- **人物弧线**：她从店主转为地下医生兼植物学家——她的星期五仪式在此确立。
+- **叙事手法**：篇幅简短而带揭示性；以“第一句话不是真的”这种元叙述开场。
 
 ## 精读
 
@@ -77,6 +76,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 5 章以 Signy 的 Friday ritual 揭示她的"actual work"（medicine + seeds）与 cover（shop），把"lock her door and be alone"写成 relief——Signy 的地下医生/植物学家身份与 solitude ethic 确立。
+第五章用她的星期五仪式揭开她“真正的工作”（药与种子）与那层伪装（店面），把“锁上门一个人待着”写成一种解脱——她地下医生兼植物学家的身份与独处的原则在此确立。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch014 chapter 5 signy fortune.md

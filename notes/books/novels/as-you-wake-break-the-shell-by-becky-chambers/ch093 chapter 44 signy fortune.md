@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 93. Chapter 44: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy & Otto (Otto's heart attack, hospice, "Where's Henry?", Nurse Arlo's warning about flagged blood pressure meds, "You need to shut it down. Now.", "My friend is dying", Cora arrives with groceries, "I've got you")。
-- **情节位置**：Fortune 线 Chapter 44，紧跟 ch092 (Chapter 43)；Otto's hospice + Arlo's warning。
-- **人物弧线**：Signy 从 "tinkerer" (work) 到 "My friend is dying"——her crisis (Arlo's warning vs patient needs); Otto 从 "brilliant, kind, hilarious" to hospice (confused, "Where's Henry?")。
-- **叙事手法**：ensemble (Otto, Arlo, Signy, Cora, Darcy, Ramona, Sam)；Arlo's warning (flagged meds) as plot point; "I've got you" closing (Cora)。
+- **一句话概括**：她与老人（老人的心脏病、临终照护、那句“Henry 呢”、护士警告血压药被标记、“你必须把它关掉，现在”、“我的朋友要死了”、对方提着菜回来、“有我呢”）。
+- **情节位置**：故土线第四十四章，紧跟 ch092；老人的临终照护与护士的警告。
+- **人物弧线**：她从手艺人到“我的朋友要死了”——她的危机（护士的警告与病人的需要）；老人从精明、善良、风趣到临终。
+- **叙事手法**：群像（老人、护士、她、对方、室友、那位太太、朋友）；护士的警告作为情节转折；以对方那句“有我呢”收尾。
 
 ## 精读
 
@@ -207,6 +206,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 44 章以 Signy & Otto (Otto's heart attack, hospice), 把 "Where's Henry?" (Otto's confusion) 与 Arlo's warning ("Somebody at the hospital caught it" / "You need to shut it down. Now.") 并置——Signy's "I can't do that. Do you think it's only him?" / "People need me. I cannot let them slip. I cannot stop." 写出 her refusal; "My friend is dying" (×3) 写出 her grief; "This is your exit. You have to take it." (Arlo) 写出 the opportunity; Cora's "I've got you" (callback to ch033's baby Twig) 写出 comfort。
+第 44 章写她与老人（老人的心脏病、临终照护），把老人那句“Henry 呢”（他的困惑）与护士的警告（“医院里有人发现了”“你必须把它关掉，现在”）并置——她那句“我做不到。你以为只有他一个吗？”写出她的拒绝；“我的朋友要死了”写出她的崩溃。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch093 chapter 44 signy fortune.md

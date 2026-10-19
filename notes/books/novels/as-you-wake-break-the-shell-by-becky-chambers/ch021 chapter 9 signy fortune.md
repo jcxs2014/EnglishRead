@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 21. Chapter 770: Signy, Cypsela
 
 ## 本章导航
-
-- **一句话概括**： breakfast 对话中，Cora 列出 chores（shuttle engine click, compost turner, cauliflower dinner），Signy "tease" Cora with carrots instead of sex—— playful intimacy 与 daily life 的 blend。
-- **情节位置**：Cypsela 线，紧跟 ch019（Chapter 769）；Signy-Cora 的 morning routine。
-- **人物弧线**：Signy 从 work-focused 到 playful tease；Cora 的 warm, easy response；他们的 intimacy 与 humor。
-- **叙事手法**：dialogue-driven；"tease" as character trait；physical comedy（napkin throw）。
+- **一句话概括**：早餐对话中，对方列出一串杂活，她用胡萝卜把对方的调情岔开——玩闹式的亲密与日常生活混在一起。
+- **情节位置**：小卫星线，紧跟 ch019；两人的早晨日常。
+- **人物弧线**：她从专注工作到玩闹地打岔；对方温暖而随意的回应；两人的亲密与幽默。
+- **叙事手法**：对话驱动；把“打岔”写成性格特质；肢体喜剧（扔餐巾）。
 
 ## 精读
 
@@ -137,6 +136,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 770 章以 breakfast tease（carrots vs sex）写出 Signy-Cora 的 playful intimacy——Signy 的 "nicest face" compliment、"tease" dynamic、"genuinely this time" shift，把 love 写成 presence > content 与 work-play blend。
+第 770 章以早餐时的一次打岔（胡萝卜对上亲密），写出两人的玩闹式亲密——她称赞对方“最好的表情”、两人之间那种“打岔”的互动、以及那句“这次是真的”，把爱写成在场胜过内容、工作与玩闹混在一起。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch021 chapter 770 signy cypsela.md

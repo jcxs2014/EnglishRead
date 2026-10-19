@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 66. Chapter 30: Cora, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Cora & Signy's morning after——implant/tattoo explanation (nutrient dock, quarry runs, "something to ground you when you're planetside"), "I'm making my lover a sad excuse for breakfast", potted plants discussion (plants communicate via pheromones/volatile organic compounds, fungi networks), Signy's longing for "real dirt", Cora's "God, I want to give that to you."。
-- **情节位置**：Fortune 线 Chapter 30，紧跟 ch062 (Chapter 28)；Cora-Signy's post-intimacy morning + plant philosophy。
-- **人物弧线**：Cora 从 lover to plant-philosophy curious—her "God, I want to give that to you" (Signy's dirt longing)；Signy 从 tinkerer to "I don't like potted plants" (lonely plants)。
-- **叙事手法**：dialogue-driven (implant/tattoo explanation, plant philosophy)；Signy's "potted plants seem lonely" ethic；Cora's "God, I want to give that to you" closing。
+- **一句话概括**：两人亲密之后的早晨——她解释自己的植入物与纹身（营养接口、采石场行程、“落地时给你一个锚”），说自己在给爱人做一顿寒酸的早餐，聊起盆栽（植物靠信息素与挥发物交流、真菌网络），她说自己渴望“真正的泥土”，对方答“天哪，我真想给你这个”。
+- **情节位置**：故土线第三十章，紧跟 ch062；两人亲密之后的早晨与植物哲学。
+- **人物弧线**：对方从爱人到对植物哲学好奇——那句“我真想给你这个”；她从手艺人到“我不喜欢盆栽”（植物会孤独）。
+- **叙事手法**：对话驱动（植入物与纹身、植物哲学）；她那句“盆栽看起来很孤独”；对方那句“我真想给你这个”作为收束。
 
 ## 精读
 
@@ -187,6 +186,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 30 章以 Cora & Signy's morning after，把 implant/tattoo explanation (nutrient dock, quarry runs, "something to ground you when you're planetside") 与 plant philosophy (potted plants "seem lonely", plants communicate via pheromones/volatile organic compounds, fungal networks) 并置——Signy's "Dirt" longing ("I'd plant them in real, actual dirt... I'd let them mingle. I'd let them overgrow") 与 Cora's "God, I want to give that to you" 收尾。
+第 30 章写两人亲密之后的早晨，把植入物与纹身的解释（营养接口、采石场行程、“落地时给你一个锚”）与植物哲学（盆栽“看起来很孤独”、植物靠信息素与挥发物交流、真菌网络）并置——她对方“真正的泥土”的渴望与对方那句“天哪，我真想给你这个”。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch066 chapter 30 cora fortune.md

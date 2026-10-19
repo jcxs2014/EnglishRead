@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 29. Chapter 776: Signy & Cora, Cypsela
 
 ## 本章导航
-
-- **一句话概括**：Cora 与 Signy 的 text message exchange——Cora 回家，Signy 在 test garden 工作；Cora 提议 nap/lunch，Signy 要求 Cora nap；"you can come get a hug for it" / "I love you"。
-- **情节位置**：Cypsela 线，Chapter 776；Signy-Cora 的 daily text communication。
-- **人物弧线**：Signy 从 work absorption 到 Cora's care ("go take a nap")；Cora's "mixed bag" flying day；他们的 care exchange。
-- **叙事手法**：epistolary (chat log) format；timestamped messages；intimacy through brevity。
+- **一句话概括**：她与对方的短信往来——她回家，对方在试验花园工作；她提议睡一觉或吃午饭，对方反过来要她去睡；“过来换一个拥抱”“我爱你”。
+- **情节位置**：小卫星线；两人的日常短信沟通。
+- **人物弧线**：她从埋头工作到被对方照料（“去睡一觉”）；对方那天飞得不太顺；两人的互相关照。
+- **叙事手法**：书信体（聊天记录）格式；带时间戳的消息；以简短写出亲密。
 
 ## 精读
 
@@ -147,6 +146,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 776 章以 text message exchange 把 Signy-Cora 的 daily care 写成 chat rhythm——"no go ahead" / "promise" / "mixed bag" / "hug for it" / "I love you"——建立他们的 intimacy as daily, casual, reciprocal。
+这一章用短信往来把两人的日常照料写成一段聊天的节奏——“不用了，你去吧”“我保证”“那天不太顺”“过来换个拥抱”“我爱你”——写出两人的亲密是日常的、随意的、相互的。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch029 chapter 776 signy cora cypsela.md

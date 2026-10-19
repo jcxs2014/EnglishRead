@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 96. Chapter 47: Cora, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Cora's text messages to Twig (no replies)——escalating from friendly invitation to worry to desperation ("Twig, please" / "PICK UP YOUR PHONE" / "I love you and you're scaring me")。
-- **情节位置**：Fortune 线 Chapter 47，紧跟 ch092 (Chapter 43)；Cora's texts to Twig (missing)。
-- **人物弧线**：Cora 从 "tinkerer" (shop-sitting) 到 "I love you and you're scaring me"—her worry about Twig; Twig from "I got a job" to missing (no replies)。
-- **叙事手法**：epistolary (text messages) format；escalating worry; "I love you and you're scaring me" as emotional climax。
+- **一句话概括**：对方发给妹妹的一连串短信（没有回复）——从友好的邀约，到担心，到绝望（“求你回我电话”“接电话”“我爱你，可你吓到我了”）。
+- **情节位置**：故土线第四十七章，紧跟 ch092；对方给失踪妹妹发的短信。
+- **人物弧线**：对方从看店到“我爱你，可你吓到我了”——她对妹妹的担心；妹妹从“我找到工作了”到失联。
+- **叙事手法**：书信体（短信）格式；层层升级的担心；以那句“我爱你，可你吓到我了”作为情感高潮。
 
 ## 精读
 
@@ -127,6 +126,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 47 章以 Cora's text messages to Twig (no replies), 把 escalating worry ("Jeez kid, how hard are they working you?" → "Have you forgotten how to answer your phone?" → "Seriously just send me a thumbs up" → "Dipshit, if this is because you lost your phone" → "Twig, this isn't cool" → "Okay, where the fuck are you?" → "Call me" / "PICK UP YOUR PHONE" / "Twig, please" → "I love you and you're scaring me. I'm this close to calling the cops... Please call me back.") 写出 Cora's love + fear。
+第 47 章写对方发给妹妹的一连串短信（没有回复），把层层升级的担心（从“天哪，他们到底让你干多重的活？”到“你忘了怎么接电话了吗？”到“说真的，就给我发个大拇指也行”到“笨蛋，要是因为你把手机弄丢了”到“妹妹，这样可不行”到“你到底在哪儿？”到“接电话”“求你回我电话”到“我爱你，可你吓到我了”）写出她的爱与恐惧。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch096 chapter 47 cora fortune.md

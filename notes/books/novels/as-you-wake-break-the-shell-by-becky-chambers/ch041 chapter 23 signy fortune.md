@@ -5,16 +5,11 @@ modified: "2026-10-19"
 
 # 41. Chapter 23: Signy, Fortune
 
-## 一句话总结
-
-Signy 和 Cora 的 relationship deepens——通过 shared daily moments 与 quiet understanding。
-
 ## 本章导航
-
-- **一句话概括**：Signy 雨夜在公寓楼下纠结——回 shop 还是去 Cora 处；她选择回 shop 继续 tobacco-disguise 植物的 puzzle，不想等到明天。
-- **情节位置**：Fortune 线 Chapter 23，紧跟 ch040；Signy 的 late-night decision——establishes her obsession with puzzles。
-- **人物弧线**：Signy 从"excuse"到承认 "this was an excuse"——her self-awareness about preferring work over socializing; 暗示她 later meets Colibri。
-- **叙事手法**：internal debate; weather as mood (rain, caustic street); irony (she knows it's an excuse)。
+- **一句话概括**：她雨夜站在公寓楼下纠结——是回店里，还是去对方那里；最后她选择回店，继续那株伪装烟草的谜题，不肯等到明天。
+- **情节位置**：故土线第二十三章，紧跟 ch040；她深夜做的决定，确立她对谜题的执念。
+- **人物弧线**：她从找借口到承认“这只是个借口”——她对自己宁愿工作不愿社交有清醒的认识；也为她后来见鲸鱼埋下伏笔。
+- **叙事手法**：内心争辩；以天气写心情（雨、刺鼻的街道）；反讽（她自己知道那是借口）。
 
 ## 精读
 
@@ -64,3 +59,7 @@ Signy 和 Cora 的 relationship deepens——通过 shared daily moments 与 qui
 | caustic | 腐蚀性的、刺激的 | the street was slippery and caustic |
 | rationalization | 合理化（心理） | Surely it was more sensible to spend the night there |
 | tugging | 拉扯、牵引 | had been tugging at her ever since she'd mentioned it to Otto |
+
+## 一句话总结
+
+她雨夜站在公寓楼下，明知那只是借口，还是选择回店里继续那株伪装烟草的谜题；她对谜题的执念与对社交的回避在此同时显形。

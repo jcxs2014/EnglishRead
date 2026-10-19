@@ -5,16 +5,11 @@ modified: "2026-10-19"
 
 # 45. Interstitial: Signy Arrives at the Stables
 
-## 一句话总结
-
-Signy 乘 cargo ship 到达 orbital station（"the stables"），第一次进入 artificial 环境——corridor 像 hospital，她感到 out of her element。
-
 ## 本章导航
-
-- **一句话概括**：Signy 乘 cargo ship 到达 orbital station（"the stables"），第一次进入 artificial 环境——corridor 像 hospital，large room 里 people float about，她感到 out of her element。
-- **情节位置**：Fortune 线 interstitial，紧跟 ch044；Signy 的 arrival at the station——establishes the setting and her discomfort。
-- **人物弧线**：Signy 从 cargo ship 的乘客到 station 的新人——her first impression of the orbital community。
-- **叙事手法**：first-person arrival narrative; sensory details (dim hold → bright interior); self-deprecating humor ("forgivable lack of grace")。
+- **一句话概括**：她搭货船抵达轨道站，第一次进入人造环境——走廊像医院，大厅里人们飘来飘去，她感到格格不入。
+- **情节位置**：故土线间插文本，紧跟 ch044；她的抵达，交代环境与她的不适。
+- **人物弧线**：她从货船乘客变成站里的新人——她对轨道社区的第一印象。
+- **叙事手法**：第一人称的抵达叙事；感官细节（昏暗货舱到明亮内部）；自嘲式的幽默（“可以原谅的笨拙”）。
 
 ## 精读
 
@@ -74,3 +69,7 @@ Signy 乘 cargo ship 到达 orbital station（"the stables"），第一次进入
 | hatch | 舱口、舱门 | Signy didn't exit through the same hatch as the crates |
 | locomotion | 移动、运动 | her primary means of locomotion |
 | corridor | 走廊 | a corridor made for human passage |
+
+## 一句话总结
+
+她搭货船抵达轨道站，第一次进入人造环境——走廊像医院，人们飘来飘去，她感到格格不入；第一人称的抵达叙事与自嘲式的幽默，把她的不适写得具体。

@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 87. Chapter 792: Cora, Lodestone
 
 ## 本章导航
-
-- **一句话概括**：Cora's "Stuff In Bread" philosophy (pie, wontons, tortillas)——seasonal food rhythm (spring: strawberry/rhubarb, summer: peach/blueberry, fall: apple/pear, winter: dried/jam)；Cora decides to check out survivor's guilt support group; Wally's nosebleed (Harmony's kick)——Cora's "Don't worry, buddy. Your Aunt Cora's gonna clean you up."。
-- **情节位置**：Cypsela 线，Chapter 792；Cora's Lodestone visit (pie, support group decision, Wally's nosebleed)。
-- **人物弧线**：Cora 从 "Stuff In Bread" philosophy 到 "I think maybe I will check that group out" (survivor's guilt support group)——her openness; Cora's "Aunt Cora" role (Wally's nosebleed)。
-- **叙事手法**：expository (Stuff In Bread, seasonal food rhythm)；dialogue-driven (Cora-Signy, Wally); "Aunt Cora" as her community role。
+- **一句话概括**：对方的“夹馅面包”哲学——按季节吃东西的节奏；对方决定去那个幸存者愧疚支持小组看看；还有那孩子流鼻血时对方那句“别怕，小家伙，你的 Cora 阿姨来给你擦干净”。
+- **情节位置**：小卫星线；对方在石岩站的一天（派、决定去小组、孩子流鼻血）。
+- **人物弧线**：对方从“夹馅面包”哲学到决定去那个小组看看——她的敞开；以及她作为“Cora 阿姨”的角色。
+- **叙事手法**：说明性段落（夹馅面包、季节饮食）；对话驱动；“Cora 阿姨”作为她在社群里的角色。
 
 ## 精读
 
@@ -137,6 +136,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 792 章以 Cora's "Stuff In Bread" philosophy (pie, wontons, tortillas) 与 seasonal food rhythm (spring: strawberry/rhubarb, summer: peach/blueberry, fall: apple/pear, winter: dried/jam) 并置——Cora's "I think maybe I . . . will check that group out" (survivor's guilt support group) 与 "Don't worry, buddy. Your Aunt Cora's gonna clean you up." (Wally's nosebleed) 建立她的 community role (Aunt Cora)。
+第 792 章写对方的“夹馅面包”哲学（派、馄饨、玉米饼）与按季节吃东西的节奏并置——对方那句“我想，也许我该去那个小组看看”（幸存者愧疚支持小组）与“别怕，小家伙，你的 Cora 阿姨来给你擦干净”。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch087 chapter 792 cora lodestone.md

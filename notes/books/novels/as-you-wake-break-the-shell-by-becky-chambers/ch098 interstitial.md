@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 98. Interstitial: Twig's Letter to Cora (forcora.rd)
 
 ## 本章导航
-
-- **一句话概括**：Twig's letter to Cora (forcora.rd)——Sucker's Luck expedition, "I'm going to see you out in space", "I love you, sis. You are the best one in the whole house. See you soon."。
-- **情节位置**：全书间插文本，Twig's letter found in her computer (ch097's "forcora.rd")。
-- **人物弧线**：Twig 从 "fuckup" (ch092) 到 Sucker's Luck crew member——her escape from Fortune; Cora's fear ("I'm going to kill her" / "I'm this close to calling the cops")。
-- **叙事手法**：epistolary (letter format)；Twig's voice (apologetic, excited, hopeful)；"You are the best one in the whole house" (callback to ch033's "the best one in the whole house")。
+- **一句话概括**：妹妹写给对方的信——那趟远征、那句“我会在太空里见到你”、以及“我爱你，姐；你是这整座屋子里最好的一个；回头见”。
+- **情节位置**：全书间插文本，这封信是在妹妹的电脑里找到的。
+- **人物弧线**：妹妹从“不成器”到那趟远征的船员——她逃离故土的尝试；对方的恐惧。
+- **叙事手法**：书信体（信件）；妹妹的口吻（道歉、兴奋、抱着希望）；“你是这整座屋子里最好的一个”呼应 ch033。
 
 ## 精读
 
@@ -127,6 +126,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-Interstitial (Twig's letter to Cora) 以 epistolary format 把 Twig's Sucker's Luck expedition ("I'm going to see you out in space" / "We're going to get to the Mothership") 与 her apology ("I miss you SO MUCH already" / "I'm sorry I can't pay you all the way back") 并置——"I love you, sis. You are the best one in the whole house. See you soon." (callback to ch033's "the best one in the whole house") 写出 her love + hope。
+这一段间插（妹妹写给对方的信）以书信体把妹妹那趟远征（“我会在太空里见到你”“我们会到达母船”）与她的道歉（“我已经那么想你了”“对不起我没法把欠你的都还上”）并置——“我爱你，姐；你是这整座屋子里最好的一个；回头见”写出她的爱与希望。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch098 interstitial.md

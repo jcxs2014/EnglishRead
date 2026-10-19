@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 78. Chapter 35: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy brings Cora to Otto's apartment (206) for dinner——Darcy, Ramona, Sam present; Otto's insomnia (Darcy's report), Ramona's OCTA flag neighbor (blue dog charm), Cora's not-quite-cheek kiss practice, Otto teaching Cora to cook (basil, apron)。
-- **情节位置**：Fortune 线 Chapter 35，紧跟 ch074 (Chapter 33)；Signy-Cora's visit to Otto's。
-- **人物弧线**：Signy 从 "tinkerer" (work) 到 bringing Cora to Otto's—her social integration; Cora 从 outsider to Otto's kitchen helper—her acceptance by Signy's circle。
-- **叙事手法**：ensemble scene (Otto, Darcy, Ramona, Sam, Signy, Cora)；Otto's insomnia (Darcy's report)；Ramona's OCTA flag neighbor (blue dog charm); Cora's cooking lesson (Otto's teaching)。
+- **一句话概括**：她带对方去老人的公寓吃晚饭——室友、那位太太、做软件的朋友都在；老人的失眠、那位太太那位挂旗邻居、对方练习那种不算贴颊的吻、老人教对方做菜。
+- **情节位置**：故土线第三十五章，紧跟 ch074；两人去老人家。
+- **人物弧线**：她从手艺人到把对方带进老人的圈子——她的社交整合；对方从外人到老人厨房里的帮手——她被她这个圈子接纳。
+- **叙事手法**：群像场景（老人、室友、那位太太、朋友、两人）；老人的失眠；那位太太那位挂旗的邻居；老人教做菜。
 
 ## 精读
 
@@ -78,7 +77,7 @@ modified: "2026-10-19"
 
 **中文理解**：那位室友的担心——老人最近状态不太好；他觉得他睡得不多。
 
-**关键词**：doing a bit poorly / not getting much sleep
+**关键词**：doing a bit poorly / getting much sleep
 
 **为什么这样写**：把这份担心写成“状态不太好”——这是他的委婉说法；“睡得不多”写出他的观察。
 
@@ -167,6 +166,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 35 章以 Signy bringing Cora to Otto's apartment (206)，把 Darcy (civilian, wigless, teasing), Ramona (OCTA flag neighbor, blue dog charm), Sam (music, beer), Otto (insomnia, mushroom lasagna, teaching Cora to cook) 与 Cora's not-quite-cheek kiss practice 并置——Otto's "You can cook."写出 his confidence in Cora; Darcy's "Otto's been doing a bit poorly lately"写出 his concern。
+第 35 章写她带对方去老人的公寓，把室友（穿便服、没戴假发、爱打趣）、那位太太（挂旗的邻居、蓝色小狗挂饰）、做软件的朋友（音乐、啤酒）、老人（失眠、蘑菇千层面、教对方做菜）与对方练习那种不算贴颊的吻并置——老人那句“你能做饭”写出他对对方的信心。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch078 chapter 35 signy fortune.md

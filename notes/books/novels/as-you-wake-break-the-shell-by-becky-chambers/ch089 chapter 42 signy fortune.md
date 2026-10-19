@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 89. Chapter 41: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy's two-week wait for Cora (quarry run)——her ache (lips, chest, everything between her legs)——her overthinking about love's originality requirement——"Do you want to move in together? I have no idea how we'd make that work, but I want to. Do you?"——Cora's "Yes." reply。
-- **情节位置**：Fortune 线 Chapter 41，紧跟 ch086 (Chapter 39)；Signy's two-week wait + move-in proposal。
-- **人物弧线**：Signy 从 "tinkerer" (work) 到 "Do you want to move in together?"——her vulnerability + decision; Cora's "Yes." (single word) as response。
-- **叙事手法**：internal monologue (Signy's overthinking about love's originality)；text message exchange (Signy's proposal, Cora's "Yes.")；"She would be fine without Cora" vs "everything between her legs ached"。
+- **一句话概括**：她等对方两周（对方去采石场）——她的思念（嘴唇、胸口、两腿之间的一切）、她对“爱为什么需要标新立异”的过度思虑、那条“你想不想搬来一起住”的短信，以及对方只回了一个“好”。
+- **情节位置**：故土线第四十一章，紧跟 ch086；她等的两周与同居的提议。
+- **人物弧线**：她从手艺人到发出那句同居的提议——她的脆弱与决定；对方的回应只有一个字。
+- **叙事手法**：内心独白（她对爱之原创性的过度思虑）；短信往来；“没有对方她也能过得好”与“两腿之间的一切也在发疼”的对照。
 
 ## 精读
 
@@ -147,6 +146,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 41 章以 Signy's two-week wait for Cora (quarry run)，把 her ache ("Her lips ached and her chest ached and everything between her legs ached") 与 her overthinking about love's originality ("Why did something as universal to the human experience as love require originality in order to prove its legitimacy?") 并置——"Do you want to move in together? I have no idea how we'd make that work, but I want to. Do you?" (Signy's proposal) + "Yes." (Cora's single-word reply) 建立 their commitment。
+第 41 章写她等对方两周（对方去采石场），把她的思念（“她的嘴唇发疼，胸口发疼，两腿之间的一切也在发疼”）与她对爱之原创性的过度思虑并置——以及那条“你想不想搬来一起住”。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch089 chapter 41 signy fortune.md

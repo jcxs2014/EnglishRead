@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 31. Chapter 15: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy 的 Friday evening——climb to Otto's apartment (206)，与 Otto (74, Foley artist, customer)、Darcy (drag performer)、Ramona (charm maker) 的 interactions；Otto's dumpling soup, lucky turtle charm, medicine bottle "Vitamin C"。
-- **情节位置**：Fortune 线 Chapter 15，紧跟 ch024 (Chapter 10)；Signy's Friday ritual 与 social circle。
-- **人物弧线**：Signy 从 shopkeeper to Otto's friend——her social life (Otto, Darcy, Ramona) 与 medicine work 的 intersection 建立。
-- **叙事手法**：ensemble scene；Otto's apartment as "masterwork" (art, plants, ephemera)；Friday ritual；Foley artist backstory。
+- **一句话概括**：她的星期五晚上——爬上老人住的那间公寓，与老人、室友和那位太太相处；老人的饺子汤、幸运龟挂饰、贴着“维C”的药瓶。
+- **情节位置**：故土线第十五章，紧跟 ch024；她的星期五仪式与社交圈。
+- **人物弧线**：她从店主变成老人的朋友——她的社交生活与制药工作在老人家里交汇。
+- **叙事手法**：群像场景；老人的公寓像一件“杰作”（画、植物、杂物）；星期五仪式；老人拟音师的身世。
 
 ## 精读
 
@@ -78,7 +77,7 @@ modified: "2026-10-19"
 
 **中文理解**：Otto 七十四岁——世上最年长的人之一；Signy 不愿争辩任何让他开心的事。
 
-**关键词**：seventy-four / one of the oldest people alive / wouldn't argue
+**关键词**：seventy-four / one of the oldest people alive / wasn't about to argue
 
 **为什么这样写**：把 Otto 的年龄写成“世上最年长的人之一”——这里的生存奇迹；“不愿反驳任何让他开心的事”写出 Signy 的体贴。
 
@@ -108,7 +107,7 @@ modified: "2026-10-19"
 
 **中文理解**：Otto 与丈夫 Henry（作曲家）共同造出声效——鼓加铁皮是风暴，弦乐加浪声是晴空。
 
-**关键词**：Henry / composer / drums plus sheet metal / strings plus lapping waves
+**关键词**：Henry / composer / Otto's husband
 
 **为什么这样写**：把两人的合作写成互补的头脑——鼓加铁皮等于风暴；“制造魔法”写出他们的协作。
 
@@ -168,6 +167,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 15 章以 Signy 的 Friday dinner at Otto's apartment (206)，把她的 social circle (Otto, Darcy, Ramona) 与 medicine work (vitamin C bottle) 并置——Otto's Foley artist backstory、Henry (composer) partnership、Ramona's charms、Signy-Otto mutual learning 建立 Fortune 线的 community 与 friendship。
+这一章写她在老人公寓的星期五晚餐，把她的社交圈（老人、室友、那位太太）与她的制药工作（那个“维C”药瓶）并置——老人的拟音师生涯、他与他丈夫的搭档、那位太太的挂饰、她与老人互相学习，共同建立故土线的社群与友谊。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch031 chapter 15 signy fortune.md

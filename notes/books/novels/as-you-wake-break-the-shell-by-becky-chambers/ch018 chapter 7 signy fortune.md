@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 18. Chapter 7: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy 的 sketch pad 揭示为 hidden to-do list——每个 symbol 代表一个 customer 与需求；Cora 被编码为"onion flower"，需要 brain 停止"behave like that of a different species"。
-- **情节位置**：Fortune 线 Chapter 7，紧跟 ch014/ch016；Signy 的 customer list 揭示。
-- **人物弧线**：Signy 从 shopkeeper 转为 underground doctor——她的 patient list 与 ethic（safety almost as important as own）建立。
-- **叙事手法**：symbol system（drawings as code）；patient list enumeration；Cora 的 metaphor（onion flower / different species brain）。
+- **一句话概括**：她的素描本被揭示为一份藏在画里的待办清单——每个符号代表一位客人与一项需求；对方被编码成一朵“洋葱花”，而她的大脑需要停止“表现得像另一个物种”。
+- **情节位置**：故土线第七章，紧跟 ch014 与 ch016；她的客人清单在此揭开。
+- **人物弧线**：她从店主转为地下医生——她的病人名单与“安全几乎和自己的安全一样重要”这一原则建立。
+- **叙事手法**：符号系统（用画作密码）；病人名单的罗列；对方的隐喻（洋葱花、另一个物种的大脑）。
 
 ## 精读
 
@@ -97,6 +96,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 7 章以 Signy 的 sketch pad 揭示她的 hidden patient list 与 symbol system——把 Cora 编码为"onion flower"、mindbleed 为"brain trying to behave like a different species"，建立 Signy 的 underground doctor 身份与 ethic。
+第七章用她的素描本揭开那份藏在画里的病人名单与符号系统——把对方编码成一朵“洋葱花”，把心语写成“大脑试图表现得像另一个物种”——确立她地下医生的身份与原则。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch018 chapter 7 signy fortune.md

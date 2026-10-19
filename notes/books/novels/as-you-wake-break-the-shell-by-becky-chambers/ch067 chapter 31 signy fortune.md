@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 67. Interstitial: Apple Cake (Recipe)
 
 ## 本章导航
-
-- **一句话概括**：Recipe for Apple Cake (Otto's recipe)——peel 4 apples, mix dry/wet ingredients, topping (margarine, cinnamon, brown sugar, flour, oats), bake 35-40 min; footnotes (1: 175°C; 2: vat-grown molded apples vs tree-grown red apples; 3: sub beet sugar; 4: Mr. G blend = vat-grown clove + cinnamon, use 1 tsp cinnamon; 5: brown sugar hard to get, sorghum works better)。
-- **情节位置**：全书间插文本，Otto's recipe (ch031's Friday dinner)。
-- **人物弧线**：无具体人物；Otto's cooking voice (recipe as character)。
-- **叙事手法**：recipe format (imperative, measurements)；footnotes (Otto's voice, Signy's annotations)。
+- **一句话概括**：一份苹果蛋糕食谱（老人的方子）——四个苹果去皮，干湿料分开拌，撒上顶料，烤三十五到四十分钟；五条脚注（温度、槽培苹果与树上苹果之别、用甜菜糖替代、香料替代、红糖难得可用高粱糖浆）。
+- **情节位置**：全书间插文本，老人的食谱。
+- **人物弧线**：无具体人物；老人的声音通过食谱呈现。
+- **叙事手法**：食谱格式（祈使句、计量）；脚注（老人的口吻，她的批注）。
 
 ## 精读
 
@@ -97,6 +96,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-Interstitial (Apple cake recipe) 以 Otto's recipe voice 把 apple cake 写成 imperative with footnotes——"Just like with spuds, he's talking about vat-grown molded apples here... Size on tree-growns varies, so 3 to 4 apples, or whatever works." (footnote 2) / "Sub with beet sugar" (footnote 3) / "We don't have this here. Signy looked it up..." (footnote 4) / "Hard to get at the market, so honestly, sorghum works better than beet" (footnote 5)——establishing Otto's cooking voice (casual, honest, opinionated, with Signy's annotations)。
+这一段间插（一份苹果蛋糕食谱）用老人的食谱口吻把苹果蛋糕写成祈使句加脚注——关于槽培苹果与树上苹果之别、用甜菜糖替代、香料替代、红糖难得可用高粱糖浆——脚注里既有老人的口吻，也有她的批注。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch067 interstitial.md

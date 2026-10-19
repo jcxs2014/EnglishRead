@@ -5,16 +5,11 @@ modified: "2026-10-19"
 
 # 75. Chapter 786: Cora, Lodestone
 
-## 一句话总结
-
-Cora 睡不着时用 tablet 学习新知识——这次学了人类进化树，发现 Lodestone 居民的"burrow deep"与 genetic ancestors 的相似性。
-
 ## 本章导航
-
-- **一句话概括**：Cora 睡不着时用 tablet 学习新知识——这次学了人类进化树，发现 Lodestone 居民的"burrow deep"与 genetic ancestors 的相似性。
-- **情节位置**：Cypsela 线 Chapter 786，紧跟 ch073；Cora 的 insomnia and learning——establishes 她的性格 and foreshadows Signy 和 Cora 的 deeper bond。
-- **人物弧线**：Cora 从"fireworks / waterfalls / roller coasters"到"tiny skittery guys"——her intellectual curiosity; roller coasters "had been a mistake"暗示 her regret。
-- **叙事手法**：internal monologue; human evolution as metaphor for Ring society; humor ("that had been a mistake")。
+- **一句话概括**：她睡不着时用平板学新东西——这次学了人类的演化树，发现石岩站居民那种“往深处挖”与远古祖先的相似。
+- **情节位置**：小卫星线，紧跟 ch073；她的失眠与学习，交代她的性格，也为两人的关系埋下伏笔。
+- **人物弧线**：她从那串“烟花、瀑布、云霄飞车”到“四处乱窜的小东西”——她那份智识上的好奇；而学云霄飞车那次是个错误，暗示她的懊悔。
+- **叙事手法**：内心独白；把人类演化当作环系社会的隐喻；幽默（“那次是个错误”）。
 
 ## 精读
 
@@ -65,3 +60,7 @@ Cora 睡不着时用 tablet 学习新知识——这次学了人类进化树，�
 | moonlet | 小卫星、微型月球 | Some folks lived on moonlets, like she did |
 | radiation | 辐射 | wasn't enough to shield people from radiation |
 | primate | 灵长类动物 | Mammals and primates were concepts she'd learned in school |
+
+## 一句话总结
+
+她睡不着时用平板学新东西，从烟花、瀑布到云霄飞车，最后学到人类的演化树，发现石岩站居民那种“往深处挖”与远古祖先的相似；把人类演化当作环系社会的隐喻。

@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 99. Chapter 49: Cora, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Cora at police station——"I don't care what it takes, I want her back" / "Three weeks was..." (surface survival) / "I need a contact number—" (Red, university)。
-- **情节位置**：Fortune 线 Chapter 49，紧跟 ch096 (Chapter 47)；Cora's police station + contact university。
-- **人物弧线**：Cora 从 "I'm going to kill her" (ch096) 到 "I don't care what it takes, I want her back"—her desperation; Cora's "Three weeks was..." (surface survival)。
-- **叙事手法**：dialogue-driven (Cora-cop)；"Three weeks was..." as cliffhanger; "I need a contact number—" as action。
+- **一句话概括**：对方在警局——“不管要付出什么，我都要她回来”“三周那就……”（地表的生存极限）“我需要一个联系方式”（大学那边）。
+- **情节位置**：故土线第四十九章，紧跟 ch096；对方在警局与联系大学。
+- **人物弧线**：对方从“我真想杀了她”到“不管要付出什么，我都要她回来”——她的绝望；以及那个“三周那就……”的暗示。
+- **叙事手法**：对话驱动（对方与警察）；以“三周那就……”作悬念；以“我需要一个联系方式”作行动。
 
 ## 精读
 
@@ -157,6 +156,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 49 章以 Cora at police station，把 "That's unacceptable" (Cora's defiance) 与 "Ms. Marten, you might have to face the possibility that there is nothing left to be done." / "Three days on the surface would be hard, even if you had great gear. Three weeks was . . ." (cop's realism) 并置——"I don't care what it takes, I want her back. She's a good kid. She's just—lost." (Cora's plea) 与 "Hey, Red, it's Cora, I need a contact number—" (Cora's action) 写出她的 desperation + hope。
+第 49 章写对方在警局，把“这不可接受”（她的反抗）与警察那句“你可能得面对一个可能：已经没什么可做的了”“在地表撑三天都很难……三周那就……”（他的现实）并置——“不管要付出什么，我都要她回来”写出她的绝望。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch099 chapter 49 cora fortune.md

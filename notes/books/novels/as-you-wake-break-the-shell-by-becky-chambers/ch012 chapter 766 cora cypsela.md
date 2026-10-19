@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 12. Chapter 766: Cora, Cypsela
 
 ## 本章导航
-
-- **一句话概括**：Cora 在 test garden 找到 Signy（仅围裙与木屐），Signy 忙于笔记与草莓，Cora 站在身后，再次"fall in love"——不是因为某一部分，而是"the complete tableau, the whole portrait"。
-- **情节位置**：Cypsela 线，紧跟 ch007（Cora Cypsela）与 ch005（Signy Cypsela）；Cora 与 Signy 的关系确立后。
-- **人物弧线**：Cora 的"fall in love"不是 triggered by a single trait but by the whole—她的 love ethic（holistic）确立。
-- **叙事手法**：感官与细节堆叠；"For the hundred thousandth time, she fell in love"的循环；否定式列举（not X, not Y）建立 love 的不可还原性。
+- **一句话概括**：她在试验花园里找到对方（只穿围裙和木屐），对方正忙着笔记与草莓；她站在身后，又一次“坠入爱河”——不是因为某一部分，而是因为“完整的画面，整幅肖像”。
+- **情节位置**：小卫星线，紧跟 ch007 与 ch005；两人关系确立之后。
+- **人物弧线**：她的爱不是被某个特质触发的，而是被整体触发的——她整体式的爱在此确立。
+- **叙事手法**：感官与细节堆叠；“第一万次，她坠入爱河”的循环句式；以否定式列举写出爱不可还原。
 
 ## 精读
 
@@ -88,6 +87,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 766 章以 Cora 在 test garden 找到 Signy 的 tableau，把 love 写成"complete portrait"而非 single trait——Cora 的 love ethic（holistic, irreducible）确立，与 ch002 的"team"与 ch007 的"get back to okay"共同构成 Cypsela 线的关系底色。
+这一章写她在试验花园里找到对方的那幅画面，把爱写成“完整的肖像”而非某个单一特质——她整体式的、不可还原的爱在此确立，并与 ch002 的“一支队伍”和 ch007 的“总能回到没事”一起，构成这条线的关系底色。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch012 chapter 766 cora cypsela.md

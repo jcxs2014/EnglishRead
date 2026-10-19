@@ -5,16 +5,11 @@ modified: "2026-10-19"
 
 # 50. Interstitial: Cora on Cypsela's Surface
 
-## 一句话总结
-
-Cora 爬上 Cypsela 表面——ugly sweet potato 般的 moonlet；她享受 view（star field, Solace, rings），pat 了最近的 rock。
-
 ## 本章导航
-
-- **一句话概括**：Cora 爬上 Cypsela 表面——ugly sweet potato 般的 moonlet；她享受 view（star field, Solace, rings），pat 了最近的 rock。
-- **情节位置**：Cypsela 线 interstitial，紧跟 ch049；Cora 的 first walk on Cypsela——establishes her love for their home。
-- **人物弧线**：Cora 从"enormously fond"到"appreciative pat"——her affection for Cypsela; 对比 Signy 的 practicality。
-- **叙事手法**：descriptive narration; personification (rock as pet); scale contrast (Cypsela tiny vs. Solace vast)。
+- **一句话概括**：她爬上这颗小卫星的表面——一块丑陋的红薯；她享受眼前的景象（星野、那颗冰巨星、光环），还拍了拍最近的一块石头。
+- **情节位置**：小卫星线间插文本，紧跟 ch049；她第一次在卫星上行走，交代她对家的喜爱。
+- **人物弧线**：她从“极为喜爱”到“欣赏地一拍”——她对这颗卫星的感情；与对方的务实形成对照。
+- **叙事手法**：描写性叙述；拟人（把石头当宠物）；尺度对比（卫星极小，冰巨星极大）。
 
 ## 精读
 
@@ -75,3 +70,7 @@ Cora 爬上 Cypsela 表面——ugly sweet potato 般的 moonlet；她享受 vie
 | moonlet | 小卫星、微型月球 | she'd exited onto the moonlet's south side |
 | orbit | 轨道、环绕 | caught in orbit around an ice giant |
 | bumblebee | 大黄蜂 | a couple thousand bumblebees |
+
+## 一句话总结
+
+她爬上这颗小卫星的表面，享受眼前的星野、冰巨星与光环，还拍了拍最近的一块石头；描写性叙述与拟人，写出她对这颗卫星的感情。

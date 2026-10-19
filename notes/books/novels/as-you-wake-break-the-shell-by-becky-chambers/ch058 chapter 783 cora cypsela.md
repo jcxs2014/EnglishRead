@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 58. Chapter 783: Cora, Cypsela
 
 ## 本章导航
-
-- **一句话概括**：Cora 在 kitchen 拉出 memory stick recipes，freestyling 改动；recipe adaptation 作为 "mental thumbs-up" to recipe giver；chain reaching back to first bug on stick over campfire。
-- **情节位置**：Cypsela 线，Chapter 783；Cora's cooking philosophy。
-- **人物弧线**：Cora 从 pilot (past) 到 cook (present)——her recipe adaptation ethic 建立。
-- **叙事手法**：expository (recipe adaptation)；"chain reaching way back behind you" as theme。
+- **一句话概括**：她在厨房里翻出存储棒上的食谱，随手改动；把改编食谱当作向食谱作者“在心里竖大拇指”；这条链一直往回延伸，直到第一次篝火上那只存储棒里的虫。
+- **情节位置**：小卫星线；她的烹饪哲学。
+- **人物弧线**：她从过去的骑手到现在的厨子——她的食谱改编原则在此建立。
+- **叙事手法**：说明性段落（食谱改编）；“一直往回延伸的这条链”作为主题。
 
 ## 精读
 
@@ -18,7 +17,7 @@ modified: "2026-10-19"
 
 **中文理解**：她食谱的来源——一枚旧存储棒，原本并不属于她。
 
-**关键词**：old memory stick / not hers, originally
+**关键词**：old memory stick / wasn't hers, originally
 
 **为什么这样写**：把 recipes 写成继承的——原本不是她的；“memory stick”写出数据保存。
 
@@ -87,6 +86,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 783 章以 Cora 的 recipe adaptation，把 cooking 写成 "chain reaching way back behind you"—recipes as inherited tradition, "something always drifted, when you copied it"写出 drift as inevitable, "Like everything else, you had to adapt"写出 adaptation as universal ethic。
+第 783 章写她改编食谱，把烹饪写成“一条一直往回延伸的链”——食谱是被继承下来的传统；“抄的时候总会有东西漂移”写出漂移不可避免；“跟别的一切一样，你得学会适应”写出适应是普遍的法则。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch058 chapter 783 cora cypsela.md

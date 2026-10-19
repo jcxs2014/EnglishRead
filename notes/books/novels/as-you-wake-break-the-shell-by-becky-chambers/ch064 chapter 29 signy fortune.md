@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 64. Chapter 29: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy & Cora building shelves → Tantrum eruption → sheltering in place → "Oh, good. It's just us." (Signy's selfish thought) → Cora's mindbleed fear (ginger running out) → Signy's "I'm not a doctor, but my mother was" → "Would you still like to take that break?"。
-- **情节位置**：Fortune 线 Chapter 29，紧跟 ch062 (Chapter 28)；Signy-Cora's shelf-building + sheltering in place。
-- **人物弧线**：Signy 从 "tinkerer" (work) 到 "Oh, good. It's just us." (selfish relief)——her growing attachment to Cora; Cora from confident to mindbleed-fearful ("I don't want you to see me if it hits")。
-- **叙事手法**：ensemble (Signy-Cora dialogue)；Tantrum eruption as plot device (forced proximity); Signy's internal monologue (selfish thought); Cora's vulnerability (mindbleed fear)。
+- **一句话概括**：两人一起装架子，一场骚乱爆发，两人就地躲避，她心里冒出一句“太好了，只有我们俩”，随后是对方对心语的恐惧，她那句“我不是医生，但我母亲是”，最后问“你还想休息一下吗”。
+- **情节位置**：故土线第二十九章，紧跟 ch062；两人装架子与就地躲避。
+- **人物弧线**：她从那句自私的“太好了”里，看出自己对对方的依恋在加深；对方从自信到对心语的恐惧。
+- **叙事手法**：两人的对话；把骚乱当作推动情节的装置（被迫共处）；她的内心独白（那句自私的念头）；对方的脆弱。
 
 ## 精读
 
@@ -187,6 +186,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 29 章以 Signy-Cora's shelf-building + Tantrum eruption，把 "Oh, good. It's just us." (Signy's selfish thought) 与 Cora's mindbleed fear ("I don't want you to see me if it hits") 并置——Signy's "I'm not a doctor, but my mother was. I have seen . . . a lot." 与 "Would you still like to take that break?" 建立她的 care 与 intimacy reaffirmation。
+第 29 章写两人装架子时那场骚乱，把“太好了，只有我们俩”（她那句自私的念头）与对方对心语的恐惧（“真发作起来，我不想让你看到我那样”）并置——她那句“我不是医生，但我母亲是，我见过不少”与“你还想休息一下吗”写出她的照料与对亲密的重申。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch064 chapter 29 signy fortune.md

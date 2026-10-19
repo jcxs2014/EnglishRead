@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 71. Chapter 784: Signy & Cora, Cypsela
 
 ## 本章导航
-
-- **一句话概括**：Signy & Cora's domestic dialogue——dishes, cake, chicory, haircut, pants patch, "We've never minded the floor" / "We are too old for the floor" / "Bed? / Bed. / Yes. / Yes. / More. / Yes."。
-- **情节位置**：Cypsela 线，Chapter 784；Signy-Cora's daily domestic routine。
-- **人物弧线**：Signy & Cora 从 chores (dishes, cake) 到 intimacy ("Bed? / Bed.")——their domestic rhythm。
-- **叙事手法**：dialogue-driven (alternating lines, no speaker tags beyond implicit)；domestic comedy；"More. / Yes." as closing.
+- **一句话概括**：两人家常的对话——碗碟、蛋糕、菊苣、剪头发、补裤子，一句“我们从来不介意地上”，一句“我们太老了，地上不行了”，最后是“床？／床。／好。／好。／还要。／好。”
+- **情节位置**：小卫星线；两人的日常家事。
+- **人物弧线**：两人从家务到亲密——两人的家庭节奏。
+- **叙事手法**：对话驱动（交替成行）；家常喜剧；以“还要。／好。”收尾。
 
 ## 精读
 
@@ -157,6 +156,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 784 章以 Signy & Cora's domestic dialogue 把 their daily routine (hot sauce, market run, cake, chicory, haircut, knives, pants) 与 intimacy ("Forget the dishes. / Forget the chicory. / I already did." / "Bed? / Bed. / Yes. / Yes. / More. / Yes.") 并置——"We've never minded the floor. / We are too old for the floor."写出 their aging; "Bed? / Bed. / Yes. / Yes. / More. / Yes."写出 their closing。
+第 784 章写两人家常的对话，把他们的日常（辣酱、去集市、蛋糕、菊苣、剪头发、刀、裤子）与亲密（“别管碗碟了／别管菊苣了／我早就不管了”“床？／床。／好。／好。／还要。／好。”）并置——“我们从来不介意地上／我们太老了，地上不行了”写出两人的年纪。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch071 chapter 784 signy cora cypsela.md

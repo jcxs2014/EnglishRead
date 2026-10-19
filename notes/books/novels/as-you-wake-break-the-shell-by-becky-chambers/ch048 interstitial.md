@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 48. Interstitial: Signy & Cora in Stables Cafeteria
 
 ## 本章导航
-
-- **一句话概括**：Signy & Cora 在 stables cafeteria——Cora's "I'm a poem" description of being with Colibri, comedown (2-5 days), prods (negative reinforcement), "You give a lot of yourself to this job", Colibri's motivation (ice/water understanding)。
-- **情节位置**：全书间插文本，Signy's stables visit；Signy-Cora's cafeteria conversation。
-- **人物弧线**：Cora 从 "I'm a poem" 到 "prods" disclosure——her devotion to Colibri (no prods) 与 style difference; Signy's curiosity about Cora's sacrifice。
-- **叙事手法**：dialogue-driven；Cora's poetic self-description ("I'm a poem")；comedown as "head cold"；prods as taboo topic。
+- **一句话概括**：她与对方在站里的食堂——对方把与鲸鱼相融描述成“我是一首诗”，从那种状态缓下来要两到五天，以及电击棒这类负强化；她说“你为这份工作付出太多了”；鲸鱼的动力是理解冰与水。
+- **情节位置**：全书间插文本，她这次停泊区之行；两人在食堂的对话。
+- **人物弧线**：对方从“我是一首诗”到坦白电击棒——她对鲸鱼的付出（从不用电击棒）与工作方式的差异；她对对方付出的好奇。
+- **叙事手法**：对话驱动；对方那句诗意的自述；把从那种状态缓下来写成“一场感冒”；电击棒是禁忌话题。
 
 ## 精读
 
@@ -58,7 +57,7 @@ modified: "2026-10-19"
 
 **中文理解**：对方的描述——它会剥掉你身上那些连自己都不知道的伪装。
 
-**关键词**：get rid of all the bullshit / pretense
+**关键词**：get rid of all the bullshit / trying to be something you're not
 
 **为什么这样写**：把与鲸鱼在一起写成“剥掉所有那些伪装”——这是对方的自我剥离；“伪装”一词写出她卸下面具的过程。
 
@@ -167,6 +166,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-Interstitial (Signy & Cora in stables cafeteria) 以 Cora's "I'm a poem. We make a poem together" description of being with Colibri，把 her "pretense" stripping 与 comedown ("emotions have a head cold") 并置，prods ("negative reinforcement") 与 her refusal ("No. She did not elaborate") 建立她的 Colibri ethic (no prods, team, understanding)—"You give a lot of yourself to this job"写出 Signy's recognition。
+这一段间插（她与对方在站里的食堂）用对方那句“我是一首诗，我们合起来是一首诗”来描述与鲸鱼相融，把她卸下“伪装”与从那种状态缓下来（“情绪像得了场感冒”）并置；电击棒与对方的拒绝（“不”，然后不再多说）建立她对鲸鱼的原则——从不用电击棒，讲的是团队与理解；“你为这份工作付出太多了”写出她的观察。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch048 interstitial.md

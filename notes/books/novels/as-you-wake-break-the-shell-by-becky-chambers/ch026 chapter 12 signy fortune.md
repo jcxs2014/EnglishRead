@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 26. Chapter 11: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy 操作 seed printer 打印 altered white moon petunias，kincrete 的 "broken-down dead stuff" 本性，以及她对 wild seeds 的 longing——"She would've given almost anything to see the real thing."
-- **情节位置**：Fortune 线 Chapter 11，紧跟 ch024（Chapter 10）；Signy 的 seed printer work。
-- **人物弧线**：Signy 从 ethic declaration 到 print execution——她的 kincrete work 与 wild seed longing 建立。
-- **叙事手法**：expository (kincrete, seeds)；sensory (ramen, greens)；longing 收尾。
+- **一句话概括**：她操作种子打印机，打印出被改造过的白色月光矮牵牛；写到那种建材的“分解后的死物”本质，以及她对野生种子的渴望——她愿意付出几乎一切，只为看一眼真正的东西。
+- **情节位置**：故土线第十一章，紧跟 ch024；她的种子打印机工作。
+- **人物弧线**：她从伦理宣示到执行打印——她的建材工作与对野生种子的渴望在此建立。
+- **叙事手法**：说明性段落（建材、种子）；感官描写（拉面、青菜）；以渴望收尾。
 
 ## 精读
 
@@ -129,6 +128,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 11 章以 Signy 的 seed printer work 揭示 kincrete 的 "broken-down dead stuff" 本性与 wild seeds 的 longing——把 OCTA's reproductive control (infertile Primer plants) 与 Signy's desire to "snip them away" 对比，建立她的 scientific ethic 与 longing for authenticity。
+这一章用她的种子打印机工作，揭开那种建材“分解后的死物”的本质与她对方野生种子的渴望——把联盟对繁殖的控制（手册里那些不育的植物）与她“把它们剪掉”的念头对照，建立她的科学原则与对真实之物的渴望。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch026 chapter 11 signy fortune.md

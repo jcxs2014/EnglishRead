@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 84. Chapter 38: Cora, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Cora & Otto cooking (thumbprint cookies, Henry's grandmother Lissa's recipe), Otto's Foley artist backstory (rorqual sound = boar/elk/humpback whale + dentist's air filter = "layer cake"), "accuracy isn't everything" / "sometimes the wrong sound makes people feel the right thing", Cora's "I'd love to give it a listen" (Colibri's heartbeat), Otto's grief (Henry), Signy arrives, "Cora, at last!", "Hey, cutie" / "Hey, cutie" (Otto echoes), "Back off, bud, you're not her type", "Why does Cora get to help?" (Signy jealous), "He never let me help" (Otto's insight), "Her ass isn't skinny" (Cora correcting), Signy "I am finding some music", Otto "Do you think we're in trouble?", Cora "Nah... you're gonna have to let me crash on the couch."。
-- **情节位置**：Fortune 线 Chapter 38，紧跟 ch078 (Chapter 35)；Cora-Otto cooking + Signy arrives。
-- **人物弧线**：Cora 从 pilot (past) 到 Otto's kitchen helper—her "I'd love to give it a listen" (Colibri's heartbeat for Otto)；Otto 从 Foley artist to grief (Henry) to teaching Cora; Signy from jealous to "I am finding some music"。
-- **叙事手法**：dialogue-driven (Cora-Otto cooking, Signy arrives)；Otto's Foley backstory (rorqual sound)；"accuracy isn't everything" philosophy; Signy's jealousy (Otto never let her help)。
+- **一句话概括**：对方与老人一起做饼干（用的是老人丈夫外婆的方子），老人讲自己拟音师的身世（鲸鱼的声音是野猪、麋鹿、座头鲸加牙医诊所的空气过滤器叠出来的）、那句“准确不是一切”“有时错的声音反而让人感觉到对的东西”、对方说想听一听鲸鱼的心跳、老人的悲伤、她到来后的一连串打趣。
+- **情节位置**：故土线第三十八章，紧跟 ch078；对方与老人做菜、她到来。
+- **人物弧线**：对方从过去的骑手到老人厨房里的帮手——她说想录下鲸鱼的心跳给老人；老人从拟音师到陷入对丈夫的悲伤，再到教对方；她从吃味到“我去找点音乐”。
+- **叙事手法**：对话驱动（对方与老人做菜、她到来）；老人拟音师的身世；“准确不是一切”那句理念；她的吃味。
 
 ## 精读
 
@@ -187,6 +186,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 38 章以 Cora & Otto cooking (thumbprint cookies, Henry's grandmother Lissa's recipe), 把 Otto's Foley artist backstory (rorqual sound = boar/elk/humpback whale + dentist's air filter = "layer cake") 与 "accuracy isn't everything" / "sometimes the wrong sound makes people feel the right thing" 哲学并置——Cora's "I'd love to give it a listen" (Colibri's heartbeat) 与 Otto's grief (Henry) / teaching Cora to cook; Signy arrives ("Cora, at last!"), "Hey, cutie" / "Hey, cutie" (Otto echoes), "Back off, bud, you're not her type", "Why does Cora get to help?" (Signy jealous), "He never let me help" (Otto's insight), "Her ass isn't skinny" (Cora correcting), Signy "I am finding some music", Otto "Do you think we're in trouble?", Cora "Nah... you're gonna have to let me crash on the couch."。
+第 38 章写对方与老人一起做饼干（用的是老人丈夫外婆的方子），把老人拟音师的身世（鲸鱼的声音是野猪、麋鹿、座头鲸加牙医诊所的空气过滤器叠成的“千层蛋糕”）与那句“准确不是一切”“有时错的声音反而让人感觉到对的东西”并置——对方那句“我很想听一听”写出她想录下鲸鱼的心跳给老人。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch084 chapter 38 cora fortune.md

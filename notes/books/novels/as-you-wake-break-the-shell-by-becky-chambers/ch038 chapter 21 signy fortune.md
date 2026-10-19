@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 38. Chapter 20: Cora, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Cora 的 room scene with Twig——Twig's Chapter 252 (conspiracy theories about Second Lander), Cora's attempt to redirect Twig (stables crew, Quarries), then Cora's mindbleed episode (color distortion, "wrong color", hiding in bathroom)。
-- **情节位置**：Fortune 线 Chapter 20，紧跟 ch036 (Chapter 18)；Cora-Twig's evening + mindbleed crisis。
-- **人物弧线**：Cora 从 mindbleed anxiety (ch030) 到 full episode (color distortion, "wrong color")——her mindbleed's severity revealed；Twig's "I just want someone to have gotten out of here" desire。
-- **叙事手法**：dialogue-heavy (Twig's conspiracy theories)；mindbleed episode as sensory distortion；"wrong color" as perceptual breakdown。
+- **一句话概括**：她与妹妹在房间里的场景——妹妹谈起那套关于第二次登陆的阴谋论，她试着把妹妹引开，随后心语发作，颜色开始扭曲，她躲进浴室。
+- **情节位置**：故土线第二十章，紧跟 ch036；姐妹俩的傍晚与心语发作。
+- **人物弧线**：她从心语的焦虑到一次完整的发作——心语的严重程度在此揭开；妹妹那种“我只想有个人能逃出去”的渴望。
+- **叙事手法**：对话密集；把心语发作写成感官扭曲；用“颜色不对”写感知崩解。
 
 ## 精读
 
@@ -167,6 +166,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 20 章以 Cora-Twig's evening (Chapter 252 conspiracy theories, Second Lander) 与 Cora's mindbleed episode (color distortion, "wrong color", hiding in bathroom) 并置，把 her mindbleed's severity (perceptual breakdown, "wrong color") 与 Twig's "I just want someone to have gotten out of here" desire 对比——Cora's coping (hiding, biting collar) 与 Twig's longing for escape。
+第 20 章把姐妹俩的那个傍晚（那套阴谋论）与对方的心语发作（颜色扭曲、“颜色不对”、躲进浴室）并置——把心语的严重程度（感知崩解）与妹妹那句“我只想有个人能逃出去”的渴望对照——写出对方的应对（躲藏）与妹妹对逃离的渴望。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch038 chapter 20 cora fortune.md

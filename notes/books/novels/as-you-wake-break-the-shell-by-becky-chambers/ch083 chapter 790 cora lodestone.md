@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 83. Chapter 790: Cora, Lodestone
 
 ## 本章导航
-
-- **一句话概括**：Cora's mindbleed episode (baby one)—mint tea, Lodestone medicine garden (spiral layout, Signy's peas = blood sugar stabilizers), "five kinds of pie" trick, "I like you" closing。
-- **情节位置**：Cypsela 线，Chapter 790；Cora-Signy's Lodestone medicine garden visit。
-- **人物弧线**：Cora 从 mindbleed episode (baby one) 到 "Tell me five kinds of pie" trick (Signy's grounding method)——her recovery; Signy 从 "Better?" to "I like you"——her care。
-- **叙事手法**：mindbleed episode as sensory distortion (sharp, monochrome, "world was a little too sharp"); "five kinds of pie" trick (Signy's grounding method); medicine garden spiral (Signy's design)。
+- **一句话概括**：对方一次轻的心语发作——薄荷茶、石岩站的药园（螺旋布局、她那些能稳定血糖的豌豆）、那个“说五种派”的办法，最后一句“我喜欢你”。
+- **情节位置**：小卫星线；两人的石岩站药园之行。
+- **人物弧线**：对方从那一次轻的发作，靠“说五种派”回到现实——她的恢复；她从问“好点了吗”到“我喜欢你”。
+- **叙事手法**：把发作写成感官扭曲（过锐、单色）；“说五种派”这个办法；药园的螺旋布局。
 
 ## 精读
 
@@ -147,6 +146,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 790 章以 Cora's mindbleed episode (baby one) 与 Signy's grounding trick ("Tell me five kinds of pie" / "Tell me five movies you like")，把 "In through the nose, out through the mouth" (breathing mantra) 与 "And I like you" (Signy's closing) 并置——Signy's care (pea plants, blood sugar stabilizers, "keeping all your veggies in one basket") 与 Cora's gratitude ("It was the finest privilege she'd ever had, blending their lives like this") 建立 their relationship depth。
+第 790 章写对方一次轻的心语发作与她那套让人回到现实的办法（“说五种派”“说五部你喜欢的电影”），把那个呼吸口诀（“用鼻子吸，用嘴呼”）与她那句“我喜欢你”并置——她那些能稳定血糖的豌豆与“别把所有的菜都放在一个篮子里”的讲究，写出她的照料。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch083 chapter 790 cora lodestone.md

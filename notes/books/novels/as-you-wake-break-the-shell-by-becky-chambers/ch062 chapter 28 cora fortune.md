@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 62. Chapter 28: Cora, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Cora's morning after first night with Signy——waking up, "I loved everything about last night", "I want to do that again", "my lover a sad excuse for breakfast", shelves help, tea, porridge debate (Vanilla Sunrise vs Double Berry)。
-- **情节位置**：Fortune 线 Chapter 28，紧跟 ch057 (Chapter 26)；Cora-Signy's first morning after。
-- **人物弧线**：Cora 从 waking up to Signy's "lover" declaration——their relationship shifts from date to partnership; Signy's "lover" word establishes commitment。
-- **叙事手法**：morning-after tenderness (blanket, pillow); Signy's "lover" declaration; porridge debate as playful intimacy; "I'm making my lover a sad excuse for breakfast"。
+- **一句话概括**：她与对方第一次过夜后的早晨——醒来，说“昨晚的每一件事我都喜欢”“我还想再来一次”，说自己在给爱人做一顿寒酸的早餐，一起装架子，喝茶，争论粥的口味。
+- **情节位置**：故土线第二十八章，紧跟 ch057；两人第一次过夜后的早晨。
+- **人物弧线**：她从那句“爱人”开始，两人的关系从约会转为伴侣；“爱人”这个词确立了承诺。
+- **叙事手法**：过夜后的温柔（毯子、枕头）；那句“爱人”的宣告；把争论粥的口味写成玩闹式的亲密。
 
 ## 精读
 
@@ -167,6 +166,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 28 章以 Cora 的 morning after，把 Signy's "I loved everything about last night. I want to do that again, and I want to see more of you" declaration 与 "I'm making my lover a sad excuse for breakfast" 的 "lover" word 建立——"She'd love a cup. She still didn't like tea, but god, did she ever like this."写出 Cora's compromise (tea for Signy)；porridge flavor ranking (Vanilla Sunrise best, Lemon Cupcake worst) 写出 their playful intimacy。
+第 28 章写她过夜后的早晨，把对方那句“昨晚的每一件事我都喜欢，我还想再来一次，我也想更了解你”与那句“我在给我的爱人做一顿寒酸的早餐”里的“爱人”一词并置——“她会想喝一杯的；她还是不爱喝茶，可天哪，她真喜欢这个人”写出她的妥协；粥的口味排名写出玩闹式的亲密。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch062 chapter 28 cora fortune.md

@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 33. Chapter 16: Cora, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Cora 的 backstory——raft eighteen earthquake (age 9)，meeting baby Twig at Heartwise House，Twiggrowing up as Cora's "sister"；present-day Twig arrives at Flytown gatehouse after getting kicked out again。
-- **情节位置**：Fortune 线 Chapter 16，紧跟 ch030；Cora's Heartwise House backstory 与 Twig's arrival。
-- **人物弧线**：Cora 从 nine-year-old Responsible Kid 到 adult caretaker of Twig；Twig 从 baby Lily to "bedraggled twenty-two-year-old sister"。
-- **叙事手法**：flashback (earthquake, baby Twig) + present (Twig's arrival)；long backstory within single chapter；dialogue-driven Twig scene。
+- **一句话概括**：对方的过往——九岁时那场地震，在福利院遇见还是婴儿的妹妹，妹妹就这样作为她的“妹妹”长大；如今妹妹又一次被赶出来，来到那片居住区的门房。
+- **情节位置**：故土线第十六章，紧跟 ch030；对方的福利院往事与妹妹的登场。
+- **人物弧线**：对方从九岁就担起责任的孩子，长成妹妹的照料者；妹妹从婴儿长成二十二岁、蓬头垢面的样子。
+- **叙事手法**：闪回（地震、婴儿）与当下（妹妹到来）交织；在单章里塞进一段长背景；对话驱动。
 
 ## 精读
 
@@ -78,7 +77,7 @@ modified: "2026-10-19"
 
 **中文理解**：Twig 这个昵称的由来——她小时候瘦得像根细枝，于是就叫开了。
 
-**关键词**：skinny as a twig / name stuck
+**关键词**：the name stuck / Lily / Twig
 
 **为什么这样写**：把昵称写成“就这样叫开了”——自然形成，并非刻意选择；“私下里”写出 Cora 对 Lily 感受的体恤。
 
@@ -199,6 +198,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 16 章以 Cora 的 Heartwise House backstory (raft eighteen earthquake, baby Twig, "I've got you") 与 present-day Twig's arrival，把 Cora's caretaker identity 与 Twig's recurring instability 并置——"Cora would've fought god for Twig. Simultaneously, Twig was a tremendous pain in the ass"写出 their love + exasperation。
+第 16 章把对方的福利院往事（九岁那场地震、婴儿妹妹、“有我呢”）与如今妹妹的到来并置——她那句“为了妹妹她敢跟神打架；同时，妹妹又是个天大的麻烦”写出两人的爱与无奈。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch033 chapter 16 cora fortune.md

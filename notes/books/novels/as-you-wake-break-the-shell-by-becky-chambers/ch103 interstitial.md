@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 103. Interstitial: Cora & Colibri (After Twig's Death)
 
 ## 本章导航
-
-- **一句话概括**：Cora's saddle visit with Colibri after Twig's death——"I open to you and I show you Otto's corpse" / "Colibri, please be calm. Hush and steady" / "I would like to show her many of them, if you agree to this" / "Let us show Signy ourselves in a team."。
-- **情节位置**：全书间插文本，Cora's saddle visit (after Twig's death)；Colibri's emotional response to Cora's grief。
-- **人物弧线**：Cora 从 grief (Otto's death, Twig's death) 到 Colibri's support ("I would bear yours, Cora")——her vulnerability; Colibri 从 "No, Cora, this is wrong" to "Let us show Signy ourselves in a team."——her care。
-- **叙事手法**：telepathic dialogue (no quotes, no speaker tags)；Colibri's non-human cognition ("I do not understand these things" / "Warmth and light" refrain)；Cora's vulnerability (mindbleed, grief)；Signy's stables flight as healing.
+- **一句话概括**：妹妹死后，对方一次鞍座行程与鲸鱼的对话——“我向你敞开，让你看老人的遗体”“鲸鱼，请安静下来，请稳住”“要是你同意，我想带她看很多次”“让它们一起、作为一支队伍把她带出去看看”。
+- **情节位置**：全书间插文本，对方在妹妹死后的鞍座行程；鲸鱼对她悲伤的回应。
+- **人物弧线**：对方从悲伤到鲸鱼那句“我愿意替你承受”——她的脆弱；鲸鱼从“不对，这不对”到“让它们作为一支队伍带她看看”——它的在意。
+- **叙事手法**：心灵对话（无引号、无说话人标签）；鲸鱼那种非人的认知（反复出现的“温暖与光”）；对方的脆弱；这次飞行作为疗愈。
 
 ## 精读
 
@@ -48,7 +47,7 @@ modified: "2026-10-19"
 
 **中文理解**：鲸鱼说这不对；她又让它看见那些藏着秘密的植物——被撕碎、丢弃、烧掉。
 
-**关键词**：No / No, Cora, this is wrong, this is very wrong
+**关键词**：No, Cora, this is wrong / the plants with secrets / torn and discarded and burned
 
 **为什么这样写**：把这段对话写成来回的否定——鲸鱼连说“不对”，她则坚持把更多东西摊开给它看；“撕碎、丢弃、烧掉”写出那场毁灭。
 
@@ -187,6 +186,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-Interstitial (Cora & Colibri after Twig's death) 以 telepathic dialogue 把 Otto's death ("I open to you and I show you Otto's corpse") 与 Twig's death ("She didn't tell me. She didn't tell me.") 并置——Colibri's "Oh, I would bear yours, Cora. I would fill my bell with it and purge it into the sun." 写出她的 care; "I shake and I roil, I thrash and I spin. Cora, none of this is right." 写出她的 distress; Cora's "I would like to show her many of them, if you agree to this" + "Let us show Signy ourselves in a team. Let us show her what it means to fly." 写出 healing (shared flight with Signy)。
+这一段间插（妹妹死后对方与鲸鱼的对话）用心灵对话把老人的死（“我向你敞开，让你看老人的遗体”）与妹妹的死（“她没告诉我。她没告诉我。”）并置——鲸鱼那句“哦，我愿意替你承受，我要把你的痛装进鸣腔，再排进太阳里”写出它的在意；“我在颤抖、翻搅”写出它的不安。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch103 interstitial.md

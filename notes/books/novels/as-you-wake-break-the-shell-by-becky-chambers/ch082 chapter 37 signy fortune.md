@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 82. Chapter 37: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy outside bathroom door during Cora's mindbleed crisis——"I love you" (first time, "hard and defiant"), Cora's "I don't want you to stop liking me", "I'm not a doctor. I wasn't even a doctor's daughter, really." closing。
-- **情节位置**：Fortune 线 Chapter 37，紧跟 ch074 (Chapter 33)；Signy-Cora's mindbleed crisis。
-- **人物弧线**：Signy 从 "tinkerer" (work) 到 "I love you" (first declaration, "hard and defiant")——her care for Cora; Cora 从 "I'm broken. You'll know I'm broken." to "I can't find the colors"。
-- **叙事手法**：door scene (Signy outside, Cora inside)；"I love you" as first declaration (unconventional context)；"I'm not a doctor" closing。
+- **一句话概括**：对方心语发作时她守在浴室门外——她第一次说“我爱你”，说得又硬又倔；对方说不想让她停止喜欢自己；她最后说“我不是医生，严格说来连医生的女儿都算不上”。
+- **情节位置**：故土线第三十七章，紧跟 ch074；两人的心语危机。
+- **人物弧线**：她从那句第一次说出口的“我爱你”里，写出她对对方的在意；对方从“我坏了，你会知道我是坏的”到“我找不到颜色”。
+- **叙事手法**：门内门外的场景；把这句“我爱你”放在一个非常规的场合；以“我不是医生”收尾。
 
 ## 精读
 
@@ -207,6 +206,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 37 章以 Signy outside bathroom door during Cora's mindbleed crisis，把 "I love you" (first time, "hard and defiant, a retort to the suggestion that whatever was behind the door had any chance of changing the feeling that had been lacing itself through the entire fabric of her being for months now, stitch by stitch, thread by thread") 与 "I'm not a doctor. I wasn't even a doctor's daughter, really." 并置——Signy's "Thank you for letting me in" 与 Cora's "I can't find the colors. These colors are all wrong. I can't find the ones I need." 写出 her perceptual deficit; Signy's "No. What you need to do is breathe." 写出 her practical care。
+第 37 章写对方心语发作时她守在浴室门外——那句第一次说出口的“我爱你”，说得又硬又倔，像是回击那个暗示：门后发生的事，改变不了这几个月来一针一线织进她整个身心的那种感情。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch082 chapter 37 signy fortune.md

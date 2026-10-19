@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 104. Chapter _ (Final): Signy, Cora, & Colibri (Stables Flight)
 
 ## 本章导航
-
-- **一句话概括**：Signy's stables flight with Cora/Colibri——Colibri's "I HAVE NEVER GONE FAST" / Cora's nosebleed / red button dilemma / "Do you still trust me? / Always" / "Please don't hurt her" / "They'll hurt her" / Signy holding Cora。
-- **情节位置**：全书最终章节，Cora's stables flight with Signy as passenger。
-- **人物弧线**：Cora 从 pilot (past) 到 Colibri's "I have never gone fast"——her moral crisis; Signy 从 "tinkerer" (work) 到 "Always" (trust) + "Please don't hurt her"——her care for Colibri; Colibri 从 "I am tired of holding back" to "I WANT TO GO FAST"—her liberation attempt。
-- **叙事手法**：ensemble (Signy, Cora, Colibri)；Colibri's telepathic dialogue (caps = emotional overflow); red button dilemma (Signy's choice); "Always" as trust declaration; "Please don't hurt her" as Cora's plea; "Signy buried her face in the crook of Cora's neck, and she held on as tight as she could" as closing。
+- **一句话概括**：她搭着对方与鲸鱼做的那趟飞行——鲸鱼那句“我从来没有快过”、对方流鼻血、红色按钮的两难、“你还信我吗？一直信”“求你别伤到她”“它们会伤到她的”、最后她紧紧抱住对方。
+- **情节位置**：全书最终章，对方这次带着她一起飞。
+- **人物弧线**：对方从骑手到面对鲸鱼那句“我从来没有快过”——她的道德危机；她从手艺人到那句“一直信”与“求你别伤到她”——她对鲸鱼的在意；鲸鱼从“我厌倦了”到“我想要快”——它争取自由。
+- **叙事手法**：三人同场；鲸鱼的心灵对话（全大写表示情绪溢出）；红色按钮的两难；那句“一直信”；那句“求你别伤到她”；以她紧紧抱住对方收尾。
 
 ## 精读
 
@@ -187,6 +186,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 104 章 (final) 以 Signy's stables flight，把 Colibri's "I HAVE NEVER GONE FAST" / "I AM TIRED OF GIVING MY BODY AND MY FINITE PULSE TO THEM" (caps) 与 Signy's red button dilemma (prods hurt Colibri but make her stop) 并置——"Do you still trust me? / Always." (Signy's trust) 与 "Please don't hurt her... They'll hurt her." (Cora's plea) 建立 their trust; "She buried her face in the crook of Cora's neck, and she held on as tight as she could." 为 closing。
+第 104 章（终章）写她搭着对方与鲸鱼的那趟飞行，把鲸鱼那句“我从来没有快过”“我厌倦了把自己的身体和有限的心跳交给他们”（全大写）与她那场红色按钮的两难（按下能让她停，却会伤到她）并置——“你还信我吗？／一直信”（她的信任）与“求你别伤到她……它们会伤到她的”（对方的哀求）。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch104 chapter .md

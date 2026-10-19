@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 04. Chapter 1: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy 在 Fortune 星球的 Berth 城醒来，按部就班地完成洗漱、吃饭、上班通勤，内心反复以"be grateful"自我 admonishment，最终在渡轮上以音乐封闭自我。
-- **情节位置**：全书开篇，建立 Signy 的生存处境与心理底色；Fortune 线时间点"Chapter 1"。
-- **人物弧线**：Signy 从厌恶环境到以"be grateful"压抑不满，最终用音乐隔绝——她的人设（压抑、自责、渴望逃离）在此确立。
-- **叙事手法**：重复句式（"Be grateful, Signy told herself"）作为章节结构骨架；细节堆叠式 worldbuilding；第一人称限知。
+- **一句话概括**：她在故土的城里醒来，按部就班地洗漱、吃饭、通勤上班，心里反复念着“要感恩”来压住不满，最后在渡轮上用音乐把自己封起来。
+- **情节位置**：全书开篇，建立她的生存处境与心理底色；故土线第一章。
+- **人物弧线**：她从厌恶周遭到用“要感恩”压抑不满，最终用音乐隔绝自己——她压抑、自责、渴望逃离的人设在此确立。
+- **叙事手法**：以重复的“要感恩，她对自己说”作全章骨架；细节堆叠式世界观铺陈；第一人称限知。
 
 ## 精读
 
@@ -109,6 +108,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第一章以"be grateful"的自我 admonishment 为结构骨架，把 Signy 的生存日常（节水、劣质食物、通勤）写成一种压抑的循环，最终以音乐封闭自我—— establishes her character as someone who cannot allow herself dissatisfaction, setting the emotional baseline for the Fortune timeline.
+第一章以“要感恩”这句自我告诫作骨架，把她的生存日常（节水、劣质食物、通勤）写成一种压抑的循环，最后以音乐把自己封起来——确立了她这个人：一个不允许自己不满的人，也为故土线定下情绪的基调。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch004 signy fortune.md

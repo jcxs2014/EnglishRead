@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 52. Interstitial: Surface Garden (Seed Vault & Ammonia Patch)
 
 ## 本章导航
-
-- **一句话概括**：Cypsela surface garden——seed vault (common wheat, soybean, cotton), ammonia patch (chemophile plants, Argosan origin, "Lady's Favor"), Cora fixing air valve (O-ring), Signy's 3-year template work。
-- **情节位置**：全书间插文本，Cora's surface walk continuation；Signy's "Lady's Favor" (tobacco disguised as bell pepper, ch051) revealed as ammonia-producing plant。
-- **人物弧线**：Cora 从 surface walk 到 "Lady's Favor" naming——Signy's 3-year template work；Cora's naming (love doesn't have to look like flowers)。
-- **叙事手法**：expository (seed vault, ammonia patch)；"Lady's Favor" naming as emotional climax (Cora's cheeks wet, kissing Signy's neck)。
+- **一句话概括**：这颗小卫星的地表园——种子库（小麦、大豆、棉花）、氨水地块（嗜氨植物，源自那颗冰巨星，那株“女士的信物”）、对方在修气阀的密封圈、她三年的模板工作。
+- **情节位置**：全书间插文本，对方地表行走的延续；那株“女士的信物”在此揭晓为一株产氨的植物。
+- **人物弧线**：对方从地表行走写到给那株植物命名——她三年的模板工作；对方那个命名（爱不必长得像花）。
+- **叙事手法**：说明性段落（种子库、氨水地块）；把命名写成情感高潮（对方脸颊湿了，吻着她的脖子）。
 
 ## 精读
 
@@ -98,7 +97,7 @@ modified: "2026-10-19"
 
 **中文理解**：对方给它起的名字——“姑娘的信物”——为什么爱一定要长成花的模样？
 
-**关键词**：Lady's Favor / why did love have to look like flowers
+**关键词**：coiled mutant / why did love have to look like flowers
 
 **为什么这样写**：把命名写成“姑娘的信物”——这是对方的建议；“为什么爱一定要长成花的模样”写出爱本不必是花的形态。
 
@@ -137,6 +136,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-Interstitial (Surface garden) 以 seed vault (common wheat, soybean, cotton) + ammonia patch (chemophile plants, "Lady's Favor") 把 Signy's 3-year template work 与 Cora's naming (love doesn't have to look like flowers) 并置——"Scientific name: Rorqualopsis cypsela. Common name: Lady's Favor." closes the loop with ch051 (Otto's "lady's favor") and rorqual (Rorqualopsis)。
+这一段间插（地表园）把种子库（小麦、大豆、棉花）与氨水地块（嗜氨植物、那株“女士的信物”）并置，把她三年的模板工作与对方的命名（爱不必长得像花）并置——“学名：Rorqualopsis cypsela。俗名：女士的信物”——与 ch051 老人那句话、也与鲸鱼扣上了环。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch052 interstitial.md

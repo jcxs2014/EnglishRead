@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 70. Chapter 32: Signy & Cora, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy & Cora's sheltering-in-place conversation (Tantrum eruption)——genetic drift, plants (roots, fungi, volatile organic compounds), Signy's parents (mother died of "quiet cough"), her "unshackled plant" secret, Cora's pilot philosophy ("I am so proud of my wings... but I also don't feel that it's right, to not give rorquals a choice"), "I think I like us"。
-- **情节位置**：Fortune 线 Chapter 32，紧跟 ch064 (Chapter 29)；Signy-Cora's sheltering + deep conversation。
-- **人物弧线**：Signy 从 "tinkerer" (work) 到 "I want to grow an unshackled plant" (secret)——her openness to Cora; Cora 从 pilot to philosophical questioner——her moral questioning of rorqual exploitation。
-- **叙事手法**：poetic line-break format (each line = paragraph)；dialogue-driven (Signy & Cora alternating); "I think I like us" closing。
+- **一句话概括**：两人就地躲避时的长谈——遗传漂变、植物（根、真菌、挥发物）、她的父母（母亲死于久咳）、她那个“没上枷锁的植物”的秘密、对方作为骑手的道德追问（“我为我的翅膀骄傲，可我也觉得，不给鲸鱼选择权是不对的”），最后一句“我想我喜欢我们”。
+- **情节位置**：故土线第三十二章，紧跟 ch064；两人躲避时的深谈。
+- **人物弧线**：她从那句“我想种一株没上枷锁的植物”的秘密里，向对方敞开；对方从骑手变成道德追问者。
+- **叙事手法**：诗体分行（每行即一段）；对话驱动（两人交替）；以“我想我喜欢我们”收尾。
 
 ## 精读
 
@@ -217,6 +216,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 32 章以 Signy & Cora's sheltering conversation，把 genetic drift/plants/rorquals (hormone blockers, "keep them as we made them") 与 Cora's pilot philosophy ("I fly to the moons on the back of a creature profound and beautiful... we will always be something bright. And yet, that same perspective is what makes me question what we have done to her species") 并置——Signy's secret ("I want to grow an unshackled plant. I want to see a real seed") 与 "I think I like us." 收尾。
+第 32 章写两人就地躲避时的长谈，把遗传漂变、植物与鲸鱼（激素阻滞剂、“我们想保持成自己造出来的样子”）与对方作为骑手的道德追问（“我骑着一种深刻而美丽的生物飞向那些卫星……我们永远是明亮的东西；可也正是这种视角让我去质疑，我们对她的物种做了什么”）并置。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch070 chapter 32 signy cora fortune.md

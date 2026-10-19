@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 42. Chapter 780: Signy & Cora, Cypsela
 
 ## 本章导航
-
-- **一句话概括**：Signy & Cora 的 late-night text exchange——Cora "this bed sucks without you", Signy "I didn't see the time", Cora offers bath, Signy "I'll be right there"。
-- **情节位置**：Cypsela 线，Chapter 780；Signy-Cora 的 nighttime text communication。
-- **人物弧线**：Signy 从 work (ch041) to Cora's bed—her work absorption vs Cora's need for presence。
-- **叙事手法**：chat log format；"this bed sucks without you" as vulnerability; "I'll be right there" as resolution。
+- **一句话概括**：两人深夜的短信往来——对方说“没你在，这张床真难睡”；她说“我没注意时间”；对方提议泡澡；她回“我马上过去”。
+- **情节位置**：小卫星线；两人夜里的短信沟通。
+- **人物弧线**：她从上一章的工作转到对方的床上——她埋头工作与对方需要陪伴之间的对照。
+- **叙事手法**：聊天记录格式；“没你在，这张床真难睡”写出脆弱；“我马上过去”作为收束。
 
 ## 精读
 
@@ -127,6 +126,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 780 章以 late-night text exchange 把 Signy's work absorption ("didn't see the time") 与 Cora's need for presence ("this bed sucks without you in it") 并置——Cora's bath invitation ("I didn't say I wanted to sleep") 与 Signy's "I'll be right there" resolution。
+这一章用深夜的短信往来把她的工作投入（“没注意时间”）与对方需要陪伴（“没你在，这张床真难睡”）并置——对方那句“我又没说要睡”与她回的那句“我马上过去”。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch042 chapter 780 signy cora cypsela.md

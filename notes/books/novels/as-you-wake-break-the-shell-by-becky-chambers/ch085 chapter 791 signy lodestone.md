@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 85. Chapter 791: Signy, Lodestone
 
 ## 本章导航
-
-- **一句话概括**：Signy at James's repair shop——Cora's small talk (Lunar Larceny recommendation), James (bearded father of two, repurposed colony containers), Rosie (toddler, "Simmy"), Signy's reflection on Cora's gift (small talk, sticky hands, community), "Simmy" (Rosie's name for Signy)。
-- **情节位置**：Cypsela 线，Chapter 791；Signy-Cora's Lodestone market visit (repair shop)。
-- **人物弧线**：Signy 从 "tinkerer" (work) 到 reflecting on Cora's gift—her small talk, sticky hands, community; Signy's "I never really knew what to do with kids" to "Simmy" (Rosie's name)。
-- **叙事手法**：ensemble scene (James, Rosie, Cora, Signy)；Signy's internal reflection (Cora's gift); "Simmy" as Rosie's name for Signy。
+- **一句话概括**：她在维修铺里——对方的闲聊（推荐那档老节目）、店主（留着胡子、两个孩子、用回收的殖民舱改造）、店主家的小女孩（喊她“小辛”）、她对对方那份天赋的反思（闲聊、黏糊糊的小手、社群）。
+- **情节位置**：小卫星线；两人的石岩站集市之行（维修铺）。
+- **人物弧线**：她从手艺人到反思对方那份天赋——闲聊、黏糊糊的小手、社群；她从“从来不太知道该拿孩子怎么办”到被喊“小辛”。
+- **叙事手法**：群像场景（店主、小女孩、两人）；她的内心反思；小女孩喊她“小辛”。
 
 ## 精读
 
@@ -28,7 +27,7 @@ modified: "2026-10-19"
 
 **中文理解**：对方把一档老广播节目推荐给那人——那期叫“月亮盗窃案”。
 
-**关键词**：Lunar Larceny / Saturday Spectacular / stupid good
+**关键词**：stupid good / old radio / awfully good case
 
 **为什么这样写**：把这次推荐写成“好得离谱”——写出她的热情；那人说这理由相当充分，写出她说服人的本事。
 
@@ -167,6 +166,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 791 章以 Signy at James's repair shop，把 Cora's small talk (Lunar Larceny recommendation) 与 Signy's reflection on Cora's gift ("She no longer thought small talk was stupid... Passing through wasn't the same as living in. Cora had unlocked that door for her, and everything on the other side was so bright.") 并置——"Simmy" (Rosie's name for Signy) 与 Signy's engagement ("Hello, Rosie... Yes, you are. You are upside down.") 写出 Signy's growth from "a step apart" to "living in"。
+第 791 章写她在维修铺里，把对方的闲聊（推荐那档老节目）与她对对方那份天赋的反思（“她不再觉得闲聊是件蠢事……路过和住进去不是一回事。对方替她打开了那扇门，门后的一切都那么明亮”）并置——以及那个小女孩喊她“小辛”。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch085 chapter 791 signy lodestone.md

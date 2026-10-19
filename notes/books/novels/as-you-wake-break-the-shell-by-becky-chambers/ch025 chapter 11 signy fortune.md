@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 25. Chapter 772: Signy, Cypsela
 
 ## 本章导航
-
-- **一句话概括**：Signy 在 carrot patch 发现 single flower on single umbel——"It was happening. It was finally happening."——her breakthrough moment。
-- **情节位置**：Cypsela 线，紧跟 ch021（Chapter 770）；Signy's carrot plant breakthrough。
-- **人物弧线**：Signy 从 work focus 到 frozen/vibrating——her scientific breakthrough moment。
-- **叙事手法**：sensory narrowing ("entire universe contained nothing but one single flower")；short, intense。
+- **一句话概括**：她在胡萝卜地里发现一朵单生的花——它终于发生了；这是她的突破时刻。
+- **情节位置**：小卫星线，紧跟 ch021；她的胡萝卜植株突破。
+- **人物弧线**：她从埋头工作到僵住、发抖——她的科学突破时刻。
+- **叙事手法**：感官收窄（“整个宇宙里只剩那一朵花”）；篇幅短，强度高。
 
 ## 精读
 
@@ -97,6 +96,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 772 章以 Signy 在 carrot patch 发现 single flower，把 scientific breakthrough 写成 "frozen, vibrating" 的 sensory narrowing——"entire universe contained nothing but one single flower"，建立她的 focus ethic 与 breakthrough moment。
+这一章写她在胡萝卜地里发现那朵单生的花，把这次科学突破写成“僵住、发抖”的感官收窄——“整个宇宙里只剩那一朵花”——她的专注原则与突破时刻在此建立。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch025 chapter 772 signy cypsela.md

@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 28. Chapters 13 & 775: Signy
 
 ## 本章导航
-
-- **一句话概括**：Signy 的 essay/meditation on sexual reproduction——"information, food, and protection" as three ingredients of all life; seeds and eggs as "box lunch" and "chance"；repeated refrain "That's all there is to a seed" and "The pattern is beautiful."
-- **情节位置**：全书间插文本，Signy's scientific meditation；Fortune/Cypsela 线交界（Chapters 13 & 775）。
-- **人物弧线**：Signy 从 practitioner 到 philosopher——her scientific worldview (reproduction as pattern, beauty) 建立。
-- **叙事手法**：poetic essay；anaphora ("Live. Live. Live."); fragmented line breaks (poetic form)；refrain repetition。
+- **一句话概括**：她关于有性繁殖的一篇随笔式沉思——把“信息、食物、保护”当作一切生命的三种要素；种子与卵是“盒饭”和“机会”；反复出现的叠句是“一颗种子不过如此”与“这个模式很美”。
+- **情节位置**：全书间插文本，她的科学沉思；故土线与小卫星线的交界。
+- **人物弧线**：她从实践者变成哲思者——她的科学世界观（繁殖即模式、即美）在此建立。
+- **叙事手法**：诗体随笔；首语重复（“活。活。活。”）；碎片化分行（诗体）；叠句反复。
 
 ## 精读
 
@@ -78,7 +77,7 @@ modified: "2026-10-19"
 
 **中文理解**：要素二＝食物——一份便当，让新生命在出门闯荡前先长出简单的身体。
 
-**关键词**：food / box lunch / external energy sources
+**关键词**：food / external energy sources / sunlight or soil
 
 **为什么这样写**：把食物写成“便当”——诗意的隐喻；“升级到外部能量来源”写出生命的进阶。
 
@@ -138,6 +137,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 28 章（Chapters 13 & 775）以 Signy 的 essay on sexual reproduction，把 life 写成 "information, food, and protection" 的 triad——DNA as imperative poetry, food as "box lunch", protection as "barrier against neutral chaos"，以 "The pattern is beautiful" 的 refrain 收尾，建立她的 cosmic awe 与 scientific philosophy。
+这一章以她那篇关于有性繁殖的随笔，把生命写成“信息、食物、保护”的三元——基因像祈使句的诗、食物像“盒饭”、保护像“抵挡宇宙那中性的混乱”；以“这个模式很美”反复收尾，建立她那种宇宙尺度的敬畏与科学哲学。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch028 chapters 13 775 signy.md

@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 92. Chapter 43: Cora, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Cora running Signy's shop (Otto's heart emergency)——Twig's visit (shop tour, chard/aquatic plants), Twig's "I got a job" (full-time, good pay), "I want you to be proud of me" / "I want to make good on my own for once", Otto's condition ("not sounding good")。
-- **情节位置**：Fortune 线 Chapter 43，紧跟 ch091 (Chapter 42)；Cora's shop-sitting + Twig's visit。
-- **人物弧线**：Cora 从 "tinkerer" (shop-sitting) 到 Twig's "I got a job"—her pride in Twig; Twig 从 "fuckup" (self-assessment) 到 "I want to make good on my own for once"——her growth。
-- **叙事手法**：ensemble (Cora-Twig dialogue)；Twig's job news (vague, "I don't want to say yet"); Otto's heart condition as shadow。
+- **一句话概括**：她在对方的店里看店（老人心脏急症）——妹妹来店里逛，说自己找到了一份全职工作、薪水不错，说想让她为自己骄傲、想靠自己把事办成；老人的病情听起来不妙。
+- **情节位置**：故土线第四十三章，紧跟 ch091；她看店与妹妹来访。
+- **人物弧线**：她从看店到听妹妹说“我找到工作了”——她为妹妹骄傲；妹妹从自我评估“不成器”到“这一次想靠自己把事办成”——她的成长。
+- **叙事手法**：两人的对话；妹妹那份说不清的工作；老人的病情像一片阴影。
 
 ## 精读
 
@@ -167,6 +166,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 43 章以 Cora running Signy's shop (Otto's heart emergency), 把 Twig's surprise visit ("This place is really cool") 与 Twig's "I got a job" ("Full-time, good pay" / "I want to get my shit together. And I want you to be proud of me" / "I want to make good on my own for once") 并置——Cora's pride in Twig ("Of course I'm proud of you" / "Maybe not... But it doesn't mean I love you any less") 与 Otto's condition ("It's not sounding good") 建立 Cora's fear。
+第 43 章写她在对方的店里看店（老人心脏急症），把妹妹那次意外的来访（“这地方真不错”）与妹妹说“我找到工作了”（“全职，薪水不错”“我想把自己收拾利索，也想让你为我骄傲”“这一次我想靠自己把事办成”）并置——她为妹妹骄傲。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch092 chapter 43 cora fortune.md

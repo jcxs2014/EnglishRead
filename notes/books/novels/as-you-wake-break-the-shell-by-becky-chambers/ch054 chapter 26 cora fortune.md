@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 54. Chapter 25: Signy & Cora, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy & Cora 的 email exchange——plant problem ("my new plant") → Cora's date invitation ("Would you like to have chicory again...?") → Signy's "I do drink, but I'd prefer chicory" + "I liked our conversation, too."。
-- **情节位置**：Fortune 线 Chapter 25，紧跟 ch044 (Chapter 24)；Signy-Cora's email correspondence。
-- **人物弧线**：Signy 从 "business, not a date" (ch045) 到 "I liked our conversation, too"——her openness to Cora。
-- **叙事手法**：epistolary (email) format；plant problem as pretext；Cora's vulnerable invitation; Signy's measured response。
+- **一句话概括**：她与对方的邮件往来——从一株植物的毛病谈起，到对方约她再喝一次菊苣，她答“我也喝酒，但我更愿意喝菊苣”，又说“我也喜欢我们那次聊天”。
+- **情节位置**：故土线第二十五章，紧跟 ch044；两人的邮件往来。
+- **人物弧线**：她从“这是生意，不是约会”到“我也喜欢我们那次聊天”——她对对方的松动。
+- **叙事手法**：书信体（邮件）格式；以植物的毛病作借口；对方那句脆弱的邀请；她克制的回应。
 
 ## 精读
 
@@ -137,6 +136,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 25 章以 email exchange 把 plant problem (heartleaf) 与 date invitation 并置——Cora's vulnerable invitation ("if I've read this wrong, then I'm very sorry") 与 Signy's "I do drink, but I'd prefer chicory" + "I liked our conversation, too" 建立 Signy's openness to Cora (from "business, not a date" to "I liked our conversation, too")。
+第 25 章用邮件往来把一株植物的毛病与一次约会邀请并置——对方那句脆弱的邀请（“要是我读错了，那我很抱歉”）与她那句“我也喝酒，但我更愿意喝菊苣”“我也喜欢我们那次聊天”，写出她对方从“这是生意，不是约会”到“我也喜欢我们那次聊天”的松动。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch054 chapter 25 signy cora fortune.md

@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 68. Chapter 31: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy & Cora's shelf-building + lab reactor (jam jar) tour + "Why is doing this illegal?" (canvas plants, genetic drift) + Cora's tea confession ("I don't like tea") + hot chocolate。
-- **情节位置**：Fortune 线 Chapter 31，紧跟 ch066 (Chapter 30)；Signy-Cora's shelf-building + lab reactor + genetic drift explanation。
-- **人物弧线**：Signy 从 "tinkerer" (work) 到 explaining genetic drift (her dropout reason)；Cora 从 "Why is doing this illegal?" to tea confession ("I don't like tea")—her honesty。
-- **叙事手法**：dialogue-driven (shelf-building, lab reactor tour, genetic drift explanation, tea confession)；Signy's "tinkerer, not inventor" ethic; Cora's "I don't like tea" as honesty moment。
+- **一句话概括**：两人一起装架子，顺带参观她那台用果酱罐搭的反应器，她解释这门手艺为何违法（棚架植物、遗传漂变），对方坦白“我不喜欢喝茶”，最后改喝热可可。
+- **情节位置**：故土线第三十一章，紧跟 ch066；两人装架子、参观反应器、讲遗传漂变。
+- **人物弧线**：她从手艺人的身份讲到遗传漂变（也是她退学的原因）；对方从“这为什么违法”到坦白自己不爱喝茶——她的诚实。
+- **叙事手法**：对话驱动（装架子、参观反应器、讲遗传漂变、坦白喝茶）；她“是手艺人不算发明家”的原则；对方那句坦白作为诚实的时刻。
 
 ## 精读
 
@@ -217,6 +216,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 31 章以 Signy-Cora's shelf-building + lab reactor (jam jar) tour + genetic drift explanation + Cora's tea confession ("I don't like tea" / "Because . . . I like you and I didn't want to—" / "I was just being polite")，把 Signy's "tinkerer, not inventor" ethic 与 Cora's honesty 建立——"There were few things Signy found more of a waste of time than anything done solely for the sake of 'being polite.'" + "I think I have a few packs of hot chocolate mix, if you'd like... I keep them in case I get any kids sheltering here." + "Okay, you didn't have to say that part."写出他们的 playful dynamic。
+第 31 章写两人装架子、参观那台果酱罐反应器、她讲遗传漂变，以及对方坦白“我不喜欢喝茶”（“因为……我喜欢你，我不想——”“我只是客气一下”），把她“是手艺人不算发明家”的原则与对方的诚实建立起来。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch068 chapter 31 signy fortune.md

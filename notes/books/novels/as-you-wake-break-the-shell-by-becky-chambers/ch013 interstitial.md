@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 13. Interstitial: OCTA Primer Intro
 
 ## 本章导航
-
-- **一句话概括**：OCTA Primer 引言——解释为何殖民者必须从零开始（"Necessity drives innovation"），OCTA 的"自由殖民者"话语与"legacy"修辞，以及 hands-off policy 的真实目的。
-- **情节位置**：全书间插文本，Lily Marten 作业（ch009）引用的 Primer 的原文节选。
-- **人物弧线**：无具体人物；OCTA 的 institutional voice 建立。
-- **叙事手法**：伪殖民手册，修辞密集，irony 丰富（Lily 已批判为 propaganda）。
+- **一句话概括**：联盟手册的引言——解释殖民者为何必须从零开始（“需求驱动创新”）、联盟那套“自由殖民者”的说辞与“遗产”修辞，以及放手政策真正的目的。
+- **情节位置**：全书间插文本，是那孩子作业里引用过的手册原文节选。
+- **人物弧线**：无具体人物；联盟的机构口吻在此建立。
+- **叙事手法**：伪殖民手册，修辞密集，反讽丰富（那孩子已批判它是宣传）。
 
 ## 精读
 
@@ -99,6 +98,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-Primer 引言以"necessity drives innovation"把殖民苦难正当化，以"autonomy/agency"把 neglect 包装成 respect——是 Lily 批判的 propaganda 的原文，与 ch009 的儿童批判形成对照。
+手册的引言用“需求驱动创新”把殖民的苦难正当化，用“自主与能动”把放任包装成尊重——这正是那孩子批判的那种宣传的原文，与 ch009 的孩子式批判形成对照。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch013 interstitial.md

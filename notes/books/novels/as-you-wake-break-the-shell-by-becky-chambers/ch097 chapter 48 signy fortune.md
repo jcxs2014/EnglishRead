@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 97. Chapter 48: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy destroying her operation (plants, lab reactor, templates) after Arlo's warning——"Be grateful" mantra (warnings, help, Otto's friendship)——Twig's disappearance (moved out 3 weeks ago, left phone/computer)——Signy's "Come to me and we'll figure it out."。
-- **情节位置**：Fortune 线 Chapter 48，紧跟 ch093 (Chapter 44)；Signy's operation shutdown + Twig's disappearance。
-- **人物弧线**：Signy 从 "tinkerer" (work) 到 destroying her operation—her "Be grateful" mantra + grief; Cora 从 "I'm going to kill her" (ch096) 到 "She moved out. Three weeks ago."——her panic about Twig。
-- **叙事手法**：destruction scene (plants, lab reactor, templates)；"Be grateful" mantra; Twig's disappearance (left expensive stuff); Signy's "Come to me and we'll figure it out."。
+- **一句话概括**：她在护士警告之后销毁自己那摊事（植物、反应器、模板）——心里念着“要感恩”（感恩那些警告、那些帮助、老人的友谊）——以及妹妹的失踪（三周前搬走、手机和电脑都留下了）——最后一句“到我这儿来，我们一起想办法”。
+- **情节位置**：故土线第四十八章，紧跟 ch093；她销毁自己那摊事与妹妹的失踪。
+- **人物弧线**：她从手艺人到亲手销毁那摊事——她的“要感恩”与悲伤；对方从“我真想杀了她”到“她搬走了，三周前”——她对妹妹的慌张。
+- **叙事手法**：销毁的场景（植物、反应器、模板）；“要感恩”这句口诀；妹妹的失踪；以那句“到我这儿来”收尾。
 
 ## 精读
 
@@ -197,6 +196,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 48 章以 Signy destroying her operation (plants, lab reactor, templates) after Arlo's warning，把 "Be grateful" mantra (warnings, help, Otto's friendship) 与 Twig's disappearance ("She moved out. Three weeks ago." / "She left her phone." / "didn't leave a new number or an address") 并置——Signy's "Come to me and we'll figure it out."写出她的 care for Cora (reciprocal care)。
+第 48 章写她在护士警告之后销毁自己那摊事（植物、反应器、模板），把“要感恩”这句口诀（感恩那些警告、那些帮助、老人的友谊）与妹妹的失踪（“她搬走了，三周前”“她把手机留下了”“没留新号码也没留地址”）并置——最后那句“到我这儿来，我们一起想办法”。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch097 chapter 48 signy fortune.md

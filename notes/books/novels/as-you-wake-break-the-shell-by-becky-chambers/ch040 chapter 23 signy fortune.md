@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 40. Chapter 22: Cora, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Cora 的 mindbleed episode——perceptual breakdown ("wrong color", "too few colors, too few waves"), hiding in bathroom, color spectrum recovery (red-orange-yellow-green-blue-indigo-violet), Colibri's death fear ("They'd kill Colibri if they found Cora like this")。
-- **情节位置**：Fortune 线 Chapter 22，紧跟 ch038 (Chapter 20)；Cora's mindbleed crisis。
-- **人物弧线**：Cora 从 "wrong color" perceptual breakdown 到 color spectrum recovery (violet as "surety, a shelter")——her mindbleed's severity & coping mechanism revealed。
-- **叙事手法**：sensory distortion prose；color spectrum as recovery anchor；Colibri's death fear as stakes；physical hiding (trash can under door)。
+- **一句话概括**：对方的心语发作——感知崩解（颜色不对、颜色太少、波段太少），躲进浴室，靠光谱的次序慢慢恢复；以及鲸鱼对死的恐惧——要是让人发现她这样，他们会杀掉鲸鱼。
+- **情节位置**：故土线第二十二章，紧跟 ch038；对方的心语危机。
+- **人物弧线**：对方从“颜色不对”的感知崩解，到靠光谱恢复——心语的严重程度与她的应对方式在此揭开。
+- **叙事手法**：感官扭曲的笔法；用光谱次序作恢复的锚；以鲸鱼的死作为代价；躲进浴室的物理动作。
 
 ## 精读
 
@@ -159,6 +158,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 22 章以 Cora 的 mindbleed episode，把 perceptual breakdown ("wrong color", "too few colors, too few waves", "reality distorted") 与 color spectrum recovery (red-orange-yellow-green-blue-indigo-violet) 并置——"Violet. A surety, a shelter. She could hold fast to violet"写出 her recovery anchor，"They'd kill Colibri if they found Cora like this"写出 stakes。
+第 22 章写对方的心语发作，把感知崩解（“颜色不对”“颜色太少、波段太少”）与靠光谱恢复（红橙黄绿蓝靛紫）并置——“紫色，一种笃定，一处庇护，她可以紧紧抓住紫色”写出她恢复时的锚，“要是让人发现她这样，他们会杀掉鲸鱼”写出代价。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch040 chapter 22 cora fortune.md

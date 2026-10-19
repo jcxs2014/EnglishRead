@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 63. Interstitial: Drop Dumpling Soup (Recipe)
 
 ## 本章导航
-
-- **一句话概括**：Otto's drop dumpling soup recipe——navy beans, potatoes, carrots, celery, dill, thyme, rosemary; dumpling dough (flour, baking powder, salt, rosemary, oil, milk); "You know what dough looks like." / "Fuck vat-grown. Solace Golds all the way."。
-- **情节位置**：全书间插文本，Otto's recipe (ch031's Friday dinner)。
-- **人物弧线**：无具体人物；Otto's cooking voice (recipe as character)。
-- **叙事手法**：recipe format (imperative, measurements)；footnotes (1: "Fuck vat-grown. Solace Golds all the way." 2: "This always turns out to be more like ten or twelve for me.")。
+- **一句话概括**：老人的饺子汤食谱——白豆、土豆、胡萝卜、芹菜、莳萝、百里香、迷迭香；面团（面粉、泡打粉、盐、迷迭香、油、牛奶）；还有那两句旁注：“面团长什么样你知道”和“去他的槽培，就要那种金色的”。
+- **情节位置**：全书间插文本，老人的食谱。
+- **人物弧线**：无具体人物；老人的声音通过食谱呈现。
+- **叙事手法**：食谱格式（祈使句、计量）；脚注（一条骂槽培，一条说份量总比他写的多）。
 
 ## 精读
 
@@ -28,7 +27,7 @@ modified: "2026-10-19"
 
 **中文理解**：关于土豆的注——千万不要用土豆粉代替；脚注还骂了句去他的槽培，说非索拉斯金土豆不可。
 
-**关键词**：do NOT substitute / mash powder / Solace Golds
+**关键词**：do NOT substitute / mash powder / cauliflower instead
 
 **为什么这样写**：把土豆写成“千万不要代替”——这是老人的强调；那条脚注则写出他对某种土豆的执着偏好。
 
@@ -107,6 +106,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-Interstitial (Drop dumpling soup recipe) 以 Otto's recipe voice 把 drop dumpling soup 写成 imperative with footnotes—"Fuck vat-grown. Solace Golds all the way." (potato preference) / "This always turns out to be more like ten or twelve for me." (honest count)——establishing Otto's cooking voice (casual, honest, opinionated)。
+这一段间插（一份饺子汤食谱）用老人的食谱口吻把饺子汤写成祈使句加脚注——“去他的槽培，就要那种金色的”（对土豆的偏好）、“我这做出来总像有十到十二个”（老实的份量）——建立老人那种随意、诚实、有主见的做饭口吻。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch063 interstitial.md

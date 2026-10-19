@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 100. Interstitial: Sylvia Larson's Email (Sucker's Luck)
 
 ## 本章导航
-
-- **一句话概括**：Sylvia Larson (Deputy Program Director, Center for Orbital Traffic Management, University of Fortune) replies to Cora——"We have never detected a successful orbital launch from Sucker's Luck... What we have detected recently, however, are measurements consistent with some sort of large, ground-level fuel explosion, approximately two weeks ago."。
-- **情节位置**：全书间插文本，Cora's university contact (Red)——Sylvia Larson's email reply。
-- **人物弧线**：Cora 从 "I don't care what it takes, I want her back" (ch099) 到 receiving Sylvia's email (likely Twig's death)——her grief。
-- **叙事手法**：epistolary (email) format；Sylvia's blunt but kind tone; "ground-level fuel explosion, approximately two weeks ago" as death implication。
+- **一句话概括**：那位大学项目副主任回信给对方——他们从未在那个地点探测到一次成功的轨道发射；而最近探测到的读数，与大约两周前一场大规模的地面燃料爆炸相符。
+- **情节位置**：全书间插文本，对方通过熟人联系到的大学方面回信。
+- **人物弧线**：对方从“不管要付出什么，我都要她回来”到收到这封回信（多半是妹妹的死讯）——她的悲伤。
+- **叙事手法**：书信体（邮件）；那位副主任直率而善意的口吻；“大约两周前那场地面燃料爆炸”作为死亡的暗示。
 
 ## 精读
 
@@ -127,6 +126,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-Interstitial (Sylvia Larson's email) 以 epistolary format 把 "We have never detected a successful orbital launch from Sucker's Luck" 与 "What we have detected recently, however, are measurements consistent with some sort of large, ground-level fuel explosion, approximately two weeks ago." 并置——Sylvia's "Please accept my condolences during this difficult time." 写出 Twig's death implied; "equipment failures such as these are common with the fuel tank designs you forwarded along" 写出 Cora's contribution (Twig's schematics)。
+这一段间插（那位副主任的邮件）以书信体把“我们从未在那个地点探测到一次成功的轨道发射”与“而最近探测到的读数，与大约两周前一场大规模的地面燃料爆炸相符”并置——“请接受慰问”这句写出那个暗示。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch100 interstitial.md

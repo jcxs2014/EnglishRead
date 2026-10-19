@@ -5,16 +5,11 @@ modified: "2026-10-19"
 
 # 65. Interstitial: Better Guar
 
-## 一句话总结
-
-Better Guar 的植物档案——common name, species name, adaptation path；Signy 的 breeding record。
-
 ## 本章导航
-
-- **一句话概括**：Better Guar 的植物档案——common name, species name, adaptation path；Signy 的 breeding record。
-- **情节位置**：Cypsela 线 interstitial，紧跟 ch064；plant archive——documents Signy 的 breeding work。
-- **人物弧线**：N/A（archive 格式，无叙事弧线）。
-- **叙事手法**：encyclopedic entry; scientific naming; adaptation path as lineage。
+- **一句话概括**：一份植物档案（改良瓜尔豆）——俗名、学名、适应谱系；她的育种记录。
+- **情节位置**：小卫星线间插文本，紧跟 ch064；植物档案，记录她的育种工作。
+- **人物弧线**：无（档案格式，没有叙事弧线）。
+- **叙事手法**：百科式条目；科学命名；把适应谱系写成血统。
 
 ## 精读
 
@@ -63,3 +58,7 @@ Better Guar 的植物档案——common name, species name, adaptation path；Si
 |---|---|---|
 | species | 物种 | Species name: Cyamopsis cypsela |
 | lineage | 血统、谱系 | Adaptation path: Cyamopsis tetragonoloba -> Cyamopsis astralis -> Cyamopsis cypsela |
+
+## 一句话总结
+
+一份植物档案（改良瓜尔豆）——俗名、学名、适应谱系；以百科式条目记录她的育种工作。

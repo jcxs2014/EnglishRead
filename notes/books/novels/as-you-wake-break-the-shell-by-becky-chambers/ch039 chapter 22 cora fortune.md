@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 39. Chapter 21: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy & Otto research rorquals via Primer (Argosan video by Elizabeth Thompson, neural implants, pheromones, mindbleed article)—Signy learns Cora's rorqual piloting mechanics & mindbleed risk; Otto's "creepy" reaction vs Signy's clinical acceptance。
-- **情节位置**：Fortune 线 Chapter 21，紧跟 ch037 (Chapter 19)；Signy's rorqual research for Cora's payment (stables visit)。
-- **人物弧线**：Signy 从 plant-focused to rorqual-curious——her research for Cora's payment (seeing Colibri) becomes personal interest; Otto's "creepy" reaction vs Signy's clinical acceptance。
-- **叙事手法**：Primer research scene (video, article, diagrams)；Otto as research assistant；mindbleed article as foreshadowing。
+- **一句话概括**：她与老人通过手册查鲸鱼的资料——一段资料影像、神经植入物、信息素、以及一篇关于心语的文章——她由此了解对方驾驶鲸鱼的机制与心语的风险；老人的反应是觉得瘆人，而她是冷静地接受。
+- **情节位置**：故土线第二十一章，紧跟 ch037；她为兑现去看鲸鱼的承诺而做的功课。
+- **人物弧线**：她从只关心植物到对鲸鱼产生好奇——这份功课本是还债，却变成了她自己的兴趣；老人的瘆人与她的冷静形成对照。
+- **叙事手法**：手册查资料的场景（影像、文章、图解）；老人充当研究助手；那篇文章埋下伏笔。
 
 ## 精读
 
@@ -188,6 +187,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 21 章以 Signy & Otto's Primer research (Argosan video, neural implants, pheromones, mindbleed article)，把 Cora's rorqual piloting mechanics (six-year training, pheromone communication, saddle) 与 mindbleed risk (1 in 25, cumulative saddle time, cognitive pattern adoption) 建立——Otto's "creepy" reaction vs Signy's clinical acceptance ("from the outside, you wouldn't be able to tell at all")。
+第 21 章写她与老人通过手册查资料（一段资料影像、神经植入物、信息素、那篇关于心语的文章），把对方驾驶鲸鱼的机制（六年训练、靠信息素交流、鞍座）与心语的风险（约二十五分之一、鞍座时长累积、认知模式的同化）建立起来——老人的“瘆人”与她的冷静接受形成对照。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch039 chapter 21 signy fortune.md

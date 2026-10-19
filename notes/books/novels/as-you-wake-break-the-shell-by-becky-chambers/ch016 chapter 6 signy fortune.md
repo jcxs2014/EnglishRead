@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 16. Chapter 6: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy 在 J Street Plant Shop 的后间操作 seed printer，揭示她的 hidden to-do list（sketch pad）与 whiteboard 的"for appearances"——她的 secret work 的物理空间。
-- **情节位置**：Fortune 线 Chapter 6，紧跟 ch014（Friday）；Signy 的 seed printer 工作展示。
-- **人物弧线**：Signy 的"clunky but reliable" ethic 与 doodling-as-thinking 的 work style 建立。
-- **叙事手法**：细节堆叠（workstation inventory）；hidden/visible 的 dual space（sketch pad vs whiteboard）。
+- **一句话概括**：她在植物店的后间操作种子打印机，揭开那张藏在素描本里的待办清单，以及白板上“只是做给人看”的内容——她秘密工作的物理空间。
+- **情节位置**：故土线第六章，紧跟 ch014；展示她的种子打印机工作。
+- **人物弧线**：“笨重但可靠”的原则，以及“涂画即思考”的工作方式在此建立。
+- **叙事手法**：细节堆叠（工作台的物件清点）；藏与露的双重空间（素描本与白板）。
 
 ## 精读
 
@@ -88,6 +87,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 6 章以 Signy 的 seed printer workstation 揭示她的 hidden to-do list（sketch pad）与 whiteboard 的"for appearances"——把 Signy 的 secret work 的 physical space 与 dual life 建立起来。
+第六章用她那张种子打印机的工作台，揭开藏在素描本里的待办清单与白板上“只是做给人看”的内容——把她秘密工作的物理空间与双重生活建立起来。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch016 chapter 6 signy fortune.md

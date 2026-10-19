@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 81. Chapter 789: Signy, Lodestone
 
 ## 本章导航
-
-- **一句话概括**：Signy & Cora peruse Lodestone message board——message board origin (emergency protocol, library team), Jacob Williams' drone kite notice, survivor's guilt support group notice, Cora's "Do you think I need to go?", "I wouldn't be talking about the same thing", Cora's headache onset (mindbleed symptom)。
-- **情节位置**：Cypsela 线，Chapter 789；Signy-Cora's Lodestone market visit (message board)。
-- **人物弧线**：Signy 从 market visitor 到 Cora's support—her "maybe other people might benefit from hearing your perspective" + "being at ease with it doesn't preclude you from still needing support sometimes"；Cora 从 "Do you think I need to go?" 到 headache onset (mindbleed)。
-- **叙事手法**：dialogue-driven (message board perusing)；survivor's guilt support group as plot point; Cora's headache as mindbleed foreshadowing。
+- **一句话概括**：两人在石岩站的留言板前——留言板的由来、那孩子贴的无人机风筝启事、幸存者愧疚支持小组的启事、对方问自己要不要去、她说自己要谈的并不是同一回事、以及对方头痛的开始。
+- **情节位置**：小卫星线；两人的石岩站集市之行（留言板）。
+- **人物弧线**：她从集市访客变成对方的支持者；对方从“你觉得我需要去吗”到头痛发作。
+- **叙事手法**：对话驱动；把那个支持小组当作情节装置；对方的头痛是心语的前兆。
 
 ## 精读
 
@@ -157,6 +156,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 789 章以 Signy & Cora's Lodestone message board perusing，把 Jacob Williams' drone kite notice (child's voice) 与 survivor's guilt support group notice 并置——Cora's "Do you think I need to go?" / "I wouldn't be talking about the same thing" (her unique survivor's guilt) 与 Signy's "That's a fair reason to not go" 建立 her care; Cora's "I think I'm getting a headache" 为 mindbleed foreshadowing。
+第 789 章写两人在石岩站的留言板前，把那孩子贴的无人机风筝启事（孩子气的语气）与幸存者愧疚支持小组的启事并置——对方那句“你觉得我需要去吗”“我要谈的并不是同一回事”（她独特的幸存者愧疚）与她那句“这是个说得过去的理由”写出她的关心；而对方头痛的开始写出心语的前兆。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch081 chapter 789 signy lodestone.md

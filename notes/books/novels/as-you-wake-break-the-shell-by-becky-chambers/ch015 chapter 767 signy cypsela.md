@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 15. Chapter 767: Signy, Cypsela
 
 ## 本章导航
-
-- **一句话概括**：Cora 用早餐与亲吻把 Signy 从 workbench 的数据 study 中拉回——Signy 的 workaholic 与 Cora 的 care 之间的温柔互动。
-- **情节位置**：Cypsela 线，紧跟 ch012（Cora Cypsela）；Signy-Cora 的 domestic intimacy。
-- **人物弧线**：Signy 从 workbench 的 hyperfocus 到 Cora 的 gentle interruption——她的 workaholic 与 Cora 的 grounding care。
-- **叙事手法**：感官细节（亲吻、pH data ghosts）；简短、亲密。
+- **一句话概括**：对方用早餐和一个吻，把她从工作台的数据堆里拉回来——她埋头工作与对方温柔照料之间的一次互动。
+- **情节位置**：小卫星线，紧跟 ch012；两人的家庭式亲密。
+- **人物弧线**：她从工作台的过度专注到被对方轻轻打断——她的工作狂与对方的照料在此对照。
+- **叙事手法**：感官细节（亲吻、数据残影）；篇幅简短，气氛亲密。
 
 ## 精读
 
@@ -87,6 +86,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 767 章以 Cora 的 gentle interruption 把 Signy 从 workbench 的 hyperfocus 中拉回——他们的 domestic intimacy（亲吻、早餐、shared acceptance）与 Signy 的 workaholic tension 并置，建立 Cypsela 线的关系底色。
+这一章用对方温柔的打断，把她从工作台的过度专注里拉回来——两人的家庭式亲密（亲吻、早餐、彼此的接纳）与她的工作狂形成并置，为这条线定下关系的底色。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch015 chapter 767 signy cypsela.md

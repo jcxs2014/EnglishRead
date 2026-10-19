@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 36. Chapter 18: Cora, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Cora 的 backstory——raft eighteen earthquake (age 9)，meeting baby Twig (Lily) at Heartwise House，Twig's nickname origin，kinship adoption，ankle tattoos；present-day Twig arrives at Flytown (mattress, food, Smokey, handball night)。
-- **情节位置**：Fortune 线 Chapter 18，紧跟 ch033 (Chapter 16)；Cora's Heartwise House backstory 与 Twig's arrival。
-- **人物弧线**：Cora 从 nine-year-old Responsible Kid 到 adult caretaker of Twig；Twig 从 baby Lily to "bedraggled twenty-two-year-old sister"。
-- **叙事手法**：flashback (earthquake, baby Twig) + present (Twig's arrival)；long backstory within single chapter；dialogue-driven Twig scene。
+- **一句话概括**：对方的过往——九岁时那场地震，在福利院遇见还是婴儿的妹妹，妹妹这个称呼的来历，亲属收养，脚踝上的纹身；如今妹妹又一次来到那片居住区。
+- **情节位置**：故土线第十八章，紧跟 ch033；对方的福利院往事与妹妹的登场。
+- **人物弧线**：对方从九岁就担起责任的孩子，长成妹妹的照料者；妹妹从婴儿长成二十二岁、蓬头垢面的样子。
+- **叙事手法**：闪回与当下交织；在单章里塞进一段长背景；对话驱动。
 
 ## 精读
 
@@ -159,6 +158,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 18 章以 Cora 的 Heartwise House backstory (raft eighteen earthquake, baby Twig, "I've got you", nickname origin, kinship adoption, ankle tattoos) 与 present-day Twig's arrival (mattress, food, Smokey, handball night) 并置，把 Cora's caretaker identity 与 Twig's recurring instability 建立——"Cora would've fought god for Twig. Simultaneously, Twig was a tremendous pain in the ass"写出 their love + exasperation。
+第 18 章把对方的福利院往事（九岁那场地震、婴儿妹妹、“有我呢”、这个称呼的来历、亲属收养、脚踝上的纹身）与如今妹妹的到来并置——她那句“为了妹妹她敢跟神打架；同时，妹妹又是个天大的麻烦”写出两人的爱与无奈。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch036 chapter 18 cora fortune.md

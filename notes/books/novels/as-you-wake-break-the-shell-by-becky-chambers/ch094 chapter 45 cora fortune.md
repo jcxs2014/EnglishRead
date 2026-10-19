@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 94. Chapter 45: Cora, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Cora making mushroom lasagna in Otto's kitchen (Otto's deathbed)——Darcy's "You're making a fucking casserole in his kitchen while he's on his deathbed... You're family."——Otto's recipe memory stick offered to Cora。
-- **情节位置**：Fortune 线 Chapter 45，紧跟 ch093 (Chapter 44)；Cora's cooking in Otto's kitchen。
-- **人物弧线**：Cora 从 pilot (past) 到 Otto's family (present)——Darcy's "You're family" declaration; Darcy from drag performer to grieving flatmate。
-- **叙事手法**：dialogue-driven (Cora-Darcy)；Darcy's "You're family" as emotional climax; Otto's recipe memory stick as legacy。
+- **一句话概括**：对方在老人的厨房里做蘑菇千层面（老人已到临终）——室友那句“他还在临终的床上，你就在他的厨房里做烤菜；你就是家人”——以及室友把老人的食谱存储棒交给对方。
+- **情节位置**：故土线第四十五章，紧跟 ch093；对方在老人的厨房里做饭。
+- **人物弧线**：对方从过去的骑手到老人家里的一员——室友那句“你就是家人”；室友从变装表演者到哀伤的合住者。
+- **叙事手法**：两人的对话；那句“你就是家人”作为情感高潮；老人的食谱存储棒作为遗产。
 
 ## 精读
 
@@ -107,6 +106,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 45 章以 Cora making mushroom lasagna in Otto's kitchen，把 Darcy's "You're making a fucking casserole in his kitchen while he's on his deathbed... You're family." 声明与 Otto's recipe memory stick (Darcy's "He'd want you to have it") 并置——Darcy's "You're family" 写出 Cora's acceptance by Otto's circle; "You just stick it in your pocket" 写出 Darcy's casualness。
+第 45 章写对方在老人的厨房里做蘑菇千层面，把室友那句“他还在临终的床上，你就在他的厨房里做烤菜；你就是家人”与室友把老人的食谱存储棒交给她并置——那句“你就是家人”写出对方被老人的圈子接纳。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch094 chapter 45 cora fortune.md

@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 46. Interstitial: Signy Sees Colibri
 
 ## 本章导航
-
-- **一句话概括**：Signy 在 stables 首见 Colibri——"Oh god, she thought... It was huge"—Cora 的 anatomy tour (bell, thorax, ocelli, gas bags, sail, mouth)、Signy 的 sensory overwhelm、Cora's "would you like to say hi?"。
-- **情节位置**：全书间插文本，Signy's stables visit (payment for Cora's medicine)；Signy first sees Colibri。
-- **人物弧线**：Signy 从 "out of her element" 到 "swallowing her pride, Signy reached out and put her hand on Cora's forearm"——her courage + Colibri empathy ("Poor thing")。
-- **叙事手法**：sensory overload prose；Cora as anatomy guide；Signy's self-awareness ("Part of Signy scoffed... but she wasn't infallible")。
+- **一句话概括**：她第一次见到鲸鱼——天哪，好大——对方带着她看鲸鱼的身体结构（鸣腔、胸部、单眼、气囊、鳍帆、嘴），她被感官冲垮，对方问“要不要打个招呼”。
+- **情节位置**：全书间插文本，她这次停泊区之行（还对方的药债）；第一次见到鲸鱼。
+- **人物弧线**：她从格格不入到“咽下自尊，伸手抓住对方的小臂”——她的勇气，以及鲸鱼的那句“可怜的小东西”。
+- **叙事手法**：感官过载的笔法；对方充当解剖向导；她的自省（“她心里有一部分在嗤笑，可她并非不会犯错”）。
 
 ## 精读
 
@@ -38,7 +37,7 @@ modified: "2026-10-19"
 
 **中文理解**：Signy 的哭榕类比——Cora 在太空像健康植物迅速茁壮。
 
-**关键词**：weeping figs / growing vs thriving
+**关键词**：took to microgravity / dancing / healthy plant
 
 **为什么这样写**：把 Cora 在太空写成“healthy plant rapidly became one”——Signy 的植物类比；“growing vs thriving”写出她的框架。
 
@@ -209,6 +208,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-Interstitial (Signy sees Colibri) 以 Signy's first sight of Colibri ("Oh god... It was huge. Bulbous and hulking, the size of a ferry") 与 Cora's anatomy tour (bell/stomach, ocelli, gas bags, sail, mouth) 并置，把 her sensory overwhelm 与 Cora's care ("would you like to hold my hand?" / "She can't hurt you. And more importantly, she doesn't want to.") 建立——"Poor thing"写出 Signy's empathy (anthropomorphizing, ch001's theme)。
+这一段间插（她第一次见到鲸鱼）把她初见鲸鱼（“天哪……好大，鼓鼓囊囊、笨重，像一艘渡轮”）与对方带着她看身体结构（鸣腔与腹部、单眼、气囊、鳍帆、嘴）并置，把她的感官过载与对方的照料（“要不要拉住我的手？”“它伤不了你，更重要的是，它也不想伤你。”）建立起来——“可怜的小东西”写出她的共情。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch046 interstitial.md

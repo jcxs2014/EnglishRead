@@ -5,16 +5,11 @@ modified: "2026-10-19"
 
 # 73. Chapter 785: Signy, Cypsela
 
-## 一句话总结
-
-Signy 和 Cora 乘 The Kestrel 去 Lodestone 取 groceries——Cora 坚持给飞船取名，Signy 虽然觉得没必要但也 humored her。
-
 ## 本章导航
-
-- **一句话概括**：Signy 和 Cora 乘 The Kestrel 去 Lodestone 取 groceries——Cora 坚持给飞船取名，Signy 虽然觉得没必要但也 humored her。
-- **情节位置**：Cypsela 线 Chapter 785，紧跟 ch072；Signy 和 Cora 的 grocery run——domestic scene establishing their relationship dynamic。
-- **人物弧线**：Signy 从"younger self wouldn't have had the patience"到 humoring Cora——her acceptance of Cora 的 quirks; Cora from "it sounds cool"坚持。
-- **叙事手法**：domestic scene; humor (naming a shuttle); characterization through small disagreements。
+- **一句话概括**：她和对方乘那艘小飞船去石岩站采购——对方坚持给飞船取名，她虽觉得没必要，还是由着对方。
+- **情节位置**：小卫星线，紧跟 ch072；两人的采购之行，交代他们的相处方式。
+- **人物弧线**：她从“年轻时的自己不会有这个耐心”到由着对方——她接纳了对方的小怪癖；对方坚持“听起来酷”。
+- **叙事手法**：家常场景；幽默（给飞船取名）；用小分歧写人物。
 
 ## 精读
 
@@ -64,3 +59,7 @@ Signy 和 Cora 乘 The Kestrel 去 Lodestone 取 groceries——Cora 坚持给�
 | grocery | 食品杂货、生活用品 | going to pick up groceries |
 | shuttle | 穿梭机、小型飞船 | prefab shuttle designs |
 | humored | 迁就、顺应 | Signy had humored Cora |
+
+## 一句话总结
+
+她和对方乘那艘小飞船去石岩站采购，对方坚持给飞船取名，她虽觉得没必要还是由着对方；用小分歧写人物，也写出她接纳了对方的小怪癖。

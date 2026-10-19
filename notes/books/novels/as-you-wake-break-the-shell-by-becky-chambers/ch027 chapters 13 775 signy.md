@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 27. Chapter 773: Signy, Cypsela
 
 ## 本章导航
-
-- **一句话概括**：Signy 两年 ago took the brakes off kaleidoscope carrot template；carrots biennial，she waited patiently；today one tiny flower traded petals for fruit with soft spines——"An absolute wonder"；she needs tweezers。
-- **情节位置**：Cypsela 线，紧跟 ch025（Chapter 772）；Signy's carrot breakthrough moment。
-- **人物弧线**：Signy 从 waiting patiently 到 "absolute wonder"——her scientific patience ethic 建立；Cora's quick support (tweezers)。
-- **叙事手法**：time jumps (two years ago / a year ago / two weeks ago / today)；surprise catalog (bell pepper, spinach, pot marigold seeds)；"ovular and spined. An absolute wonder."
+- **一句话概括**：两年前她拆掉了万花筒胡萝卜模板的刹车；胡萝卜是两年生，她耐心等着；今天一朵小花用花瓣换来了带软刺的果实——堪称奇观；她需要一把镊子。
+- **情节位置**：小卫星线，紧跟 ch025；她的胡萝卜突破时刻。
+- **人物弧线**：她从耐心等待到“堪称奇观”——她科学式的耐心在此建立；对方的支持很快（找镊子）。
+- **叙事手法**：时间跳跃（两年前、一年前、两周前、今天）；一串意外之物（甜椒、菠菜、金盏菊的种子）；“卵形的，带刺的，堪称奇观”。
 
 ## 精读
 
@@ -18,7 +17,7 @@ modified: "2026-10-19"
 
 **中文理解**：Signy 两年前“took the brakes off”胡萝卜模板——她的实验由此开始。
 
-**关键词**：took the brakes off / kaleidoscope carrots
+**关键词**：taken the brakes off / kaleidoscope carrots
 
 **为什么这样写**：把基因改造写成“松开刹车”——这是她对解放生殖能力的说法；“万花筒胡萝卜”是她的品种名。
 
@@ -68,7 +67,7 @@ modified: "2026-10-19"
 
 **中文理解**：每次实验都有意外——甜椒种子扁平、菠菜种子皱缩成块、金盏花的木质瘦果形似小钩。
 
-**关键词**：surprise / flat / lumpish / woody achenes
+**关键词**：some sort of a surprise / an experiment like this
 
 **为什么这样写**：把种子的多样写成“意外”——她对自然形态的惊奇；一连串意想不到的形状。
 
@@ -129,6 +128,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 773 章以 Signy 的 carrot seed breakthrough（"Ovular and spined. An absolute wonder."）把 her patience ethic（"continued to wait patiently"）与 scientific wonder 并置——Primer's "print seeds" vs Signy's "wait for seeds" 对比，Cora's tweezers support 建立 partnership。
+这一章用她的胡萝卜种子突破（“卵形的，带刺的，堪称奇观”）把她的耐心（“继续耐心地等”）与科学上的惊奇并置——手册的“打印种子”与她的“等种子”形成对照，对方的镊子写出两人的搭档关系。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch027 chapter 773 signy cypsela.md

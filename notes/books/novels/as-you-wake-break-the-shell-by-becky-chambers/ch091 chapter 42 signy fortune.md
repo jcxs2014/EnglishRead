@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 91. Chapter 42: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy & Cora at Flytown (Red, apartment options)—Signy's hesitation (Flytown vs her apartment, "There had to be a way to make this work")——Ramona's call (Otto's heart emergency)。
-- **情节位置**：Fortune 线 Chapter 42，紧跟 ch090 (Chapter 793)；Signy-Cora's apartment search + Otto's heart emergency。
-- **人物弧线**：Signy 从 "tinkerer" (work) 到 "There had to be a way to make this work" (apartment search)——her hesitation about Flytown; Ramona's call (Otto's heart) as interruption。
-- **叙事手法**：dialogue-driven (Red, Cora, Signy)；Signy's internal monologue (Flytown hesitation)；Ramona's call (Otto's heart emergency) as cliffhanger。
+- **一句话概括**：两人在那片居住区看房（中介给的户型）——她的犹豫（住那边还是自己公寓，心里念着“总得有个办法把这件事办成”）——然后那通电话打来（老人心脏急症）。
+- **情节位置**：故土线第四十二章，紧跟 ch090；两人找公寓加老人心脏急症。
+- **人物弧线**：她从手艺人到“总得有个办法把这件事办成”——她对搬去那边的犹豫；那通电话打断了一切。
+- **叙事手法**：对话驱动（中介、两人）；她的内心独白；那通电话作为悬念。
 
 ## 精读
 
@@ -137,6 +136,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 42 章以 Signy & Cora's Flytown apartment search (Red, floor plans, "No kitchen?"), 把 Signy's hesitation ("There had to be a way to make this work" / "Pilots... gossipy as hell" / "Lots of people was not a claim supported by good apartments standing empty") 与 Ramona's call ("It's an emergency" / "It's Otto" / "It's his heart.") 并置——Otto's heart emergency as cliffhanger。
+第 42 章写两人在那片居住区找房（中介给的户型、“没有厨房？”），把她的犹豫（“总得有个办法把这件事办成”“飞行员们闲话多得要命”“说有‘很多人’想住，可空着的都是好公寓”）与那通电话（“出事了”“是 Otto”“是他的心脏”）并置。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch091 chapter 42 signy fortune.md

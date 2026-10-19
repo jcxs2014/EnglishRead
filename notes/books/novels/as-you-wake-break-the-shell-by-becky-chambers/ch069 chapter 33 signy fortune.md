@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 69. Interstitial: Dwarf Cacao (Seed Template)
 
 ## 本章导航
-
-- **一句话概括**：Seed template description for Dwarf Cacao (Theobroma cypsela)——adapted from Theobroma cacao → astralis → cypsela; ~1 meter height, lower irrigation need, 85% germination; includes hot chocolate recipe (cocoa powder, beet sugar/sorghum, oat milk, vanilla, salt)。
-- **情节位置**：全书间插文本，Signy's seed template catalog。
-- **人物弧线**：无具体人物；Signy's work as template documentation；kitchen head's recipe included。
-- **叙事手法**：technical documentation (seed template description) + recipe (hot chocolate)；botanical detail + culinary addition。
+- **一句话概括**：一份种子模板档案（矮生可可）——从地球原种到适应环系的两个阶段；株高约一米、灌溉需求更低、发芽率八成半；还附了一份热可可食谱。
+- **情节位置**：全书间插文本，她的种子模板目录。
+- **人物弧线**：无具体人物；她的工作以模板档案呈现；还附了厨房负责人的食谱。
+- **叙事手法**：技术文档（种子模板说明）加热可可食谱；植物学细节加烹饪内容。
 
 ## 精读
 
@@ -108,7 +107,7 @@ modified: "2026-10-19"
 
 **中文理解**：热巧克力食谱——可可粉、甜菜糖或高粱糖、燕麦奶、香草和盐。
 
-**关键词**：cocoa powder / beet sugar or sorghum / oat milk / vanilla / salt
+**关键词**：cocoa powder / beet sugar or sorghum / milk (oat tends to work best) / vanilla / salt
 
 **为什么这样写**：把 recipe 写成原料清单——厨房主管的食谱；“oat tends to work best”写出她的偏好。
 
@@ -147,6 +146,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-Interstitial (Dwarf cacao seed template) 以 technical documentation + recipe 把 Theobroma cypsela (adapted cacao → astralis → cypsela, ~1m height, lower irrigation, 85% germination) 与 kitchen head's hot chocolate recipe 呈现——Signy's critique of OCTA's error (forgot cacao cultures) 与 her correction (functional template), cocoa quality "on par or even better than vat-grown"。
+这一段间插（一份矮生可可的种子模板）以技术文档加热可可食谱的形式呈现——从地球原种到适应环系的两个阶段、株高约一米、灌溉需求更低、发芽率八成半——并写出她对联盟那处疏漏的批评与她自己的修正。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch069 interstitial.md

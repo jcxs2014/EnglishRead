@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 72. Interstitial: Cora & Colibri (Deep Conversation)
 
 ## 本章导航
-
-- **一句话概括**：Cora & Colibri's deep saddle conversation——mindbleed (Signy's pills, "You are blameless"), Signy ("I want to know and be known"), past lovers (Anna, Valerie, Cass), love as capacity ("edgeless, endless"), rorqual reproduction (hormone blockers, "We want to keep them as we made them"), pilot training ("build trust but maintain distance" = stupidest thing), "Why do you love? / It is necessary. / To what? / To existence."。
-- **情节位置**：全书间插文本，Cora's saddle visit (Quarry run)；deep conversation with Colibri。
-- **人物弧线**：Cora 从 pilot to philosopher——her questioning of rorqual exploitation, love as capacity, "I want to grow an unshackled plant" (shared with Signy)。
-- **叙事手法**：telepathic dialogue (no quotes, no speaker tags)；Colibri's non-human cognition ("I do not understand these things" / "Warmth and light" refrain)；poetic prose (Cora's "I want to know and be known")。
+- **一句话概括**：她与鲸鱼在鞍座里的深谈——心语（她吃的药、“你毫无过错”）、她对对方的渴望（“我想去认识，也被认识”）、过去的恋人、爱是一种容量（“无边无际”）、鲸鱼的繁殖（激素阻滞剂、“我们想保持成自己造出来的样子”）、飞行员训练那句“建立信任但保持距离”是最蠢的话，最后是“你为什么要爱？／因为必须如此。／对什么？／对存在本身。”
+- **情节位置**：全书间插文本，她一次鞍座行程；与鲸鱼的深谈。
+- **人物弧线**：她从骑手变成哲思者——她对鲸鱼被利用的质疑、爱即容量，以及那个与对方共有的“想种一株没上枷锁的植物”。
+- **叙事手法**：心灵对话（无引号、无说话人标签）；鲸鱼那种非人的认知（反复出现的“温暖与光”）；诗意的笔法。
 
 ## 精读
 
@@ -198,6 +197,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-Interstitial (Cora & Colibri deep conversation) 以 telepathic dialogue 把 mindbleed (Signy's pills, "You are blameless"), Signy ("I want to know and be known"), past lovers (Anna, Valerie, Cass), love as capacity ("edgeless, endless... Love is a capacity, not a substance") 与 rorqual reproduction (hormone blockers, "We want to keep them as we made them") 并置——"Why do you love? / It is necessary. / How so? / It is the only logical response. / To what? / To existence."写出 Colibri's love philosophy。
+这一段间插（对方与鲸鱼的深谈）用心灵对话把心语（她吃的药、“你毫无过错”）、她对对方的渴望（“我想去认识，也被认识”）、过去的恋人、爱是一种容量（“无边无际……爱是一种能力，不是一种物质”）与鲸鱼的繁殖（激素阻滞剂、“我们想保持成自己造出来的样子”）并置。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch072 interstitial.md

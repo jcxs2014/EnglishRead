@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 10. Chapter 3: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy 通勤渡轮因 cargo barge 延误，广播新闻轮番切换（水利项目/抗议/广告/天气），最终一名乘客因劣质呼吸面罩窒息，引发恐慌与斗殴，Signy 冷静旁观并最终选择"新闻"而非混乱。
-- **情节位置**：Fortune 线 Chapter 3，紧跟 ch004/ch006；Signy 的日常通勤被危机打断。
-- **人物弧线**：Signy 从"不 bothered"到"stayed exactly where she was"——她的"out of the way was the most useful place to be" ethic 确立。
-- **叙事手法**：广播蒙太奇（tap to change station）；群像 panic；Signy 的冷静旁观；以"新闻"收尾的黑色幽默。
+- **一句话概括**：她的通勤渡轮因货船延误，广播新闻轮番切换，最终一名乘客因劣质呼吸面罩窒息，引发恐慌与斗殴，她冷静旁观，最后选择“新闻”而非混乱。
+- **情节位置**：故土线第三章，紧跟 ch004 与 ch006；她的日常通勤被一场危机打断。
+- **人物弧线**：她从“不为所动”到“待在原地没动”——她“不挡路才最有用”的原则确立。
+- **叙事手法**：广播蒙太奇（换台）；群像恐慌；她的冷静旁观；以“新闻”收尾的黑色幽默。
 
 ## 精读
 
@@ -129,6 +128,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第三章以广播蒙太奇与乘客窒息危机，把 Fortune 星球的生存风险（劣质装备、社会分裂、资源短缺）写成 Signy 通勤的日常背景，同时确立她的"out of the way" ethic——不参与混乱，选择新闻而非暴力。
+第三章用广播蒙太奇与乘客窒息那场危机，把故土的生存风险（劣质装备、社会撕裂、资源短缺）写成她通勤路上的日常背景，同时确立她“不挡路”的原则——不掺和混乱，选择“新闻”而非暴力。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch010 chapter 3 signy fortune.md

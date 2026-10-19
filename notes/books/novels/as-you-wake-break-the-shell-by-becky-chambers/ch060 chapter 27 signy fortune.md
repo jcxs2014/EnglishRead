@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 60. Chapter 27: Signy, Fortune
 
 ## 本章导航
-
-- **一句话概括**：Signy & Cora's first intimate encounter——Signy's portrait of Cora (ink, implant, freckles, gap between front teeth), Cora's nervousness ("It's been a while"), Signy's "I like hookups just fine, but I'd likewise prefer this wasn't", Cora's "Yes" + "when Cora moaned, Signy ached, and when Cora gasped, Signy soared"。
-- **情节位置**：Fortune 线 Chapter 27，紧跟 ch057 (Chapter 26)；Signy-Cora's intimacy。
-- **人物弧线**：Signy 从 "business, not a date" (ch045) 到 "I'd likewise prefer this wasn't" (not hookup)——her openness to Cora；Cora's nervousness ("It's been a while")。
-- **叙事手法**：sensory detail (ink, implant, freckles, gap)；Signy's portrait of Cora；intimacy as discovery。
+- **一句话概括**：两人第一次亲密——她为对方画的那幅肖像（墨水、植入物、雀斑、门牙的缝），对方的紧张（“有一阵子了”），她那句“我不介意随便的关系，但我更希望这次不是”，对方的“好”，以及两人彼此的呼应。
+- **情节位置**：故土线第二十七章，紧跟 ch057；两人的亲密。
+- **人物弧线**：她从“这是生意，不是约会”到“我更希望这次不是随便的关系”——她对对方的敞开；对方的紧张。
+- **叙事手法**：感官细节（墨水、植入物、雀斑、牙缝）；她为对方画的肖像；把亲密写成一次发现。
 
 ## 精读
 
@@ -157,6 +156,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 27 章以 Signy & Cora's first intimate encounter，把 Signy's portrait of Cora (ink, implant, freckles, gap between front teeth) 与 Cora's nervousness ("It's been a while" / "One year and seven months") 并置，Signy's "I like hookups just fine, but I'd likewise prefer this wasn't" 与 "Would you like to find out what it is?" 建立 their openness——"And when Cora moaned, Signy ached, and when Cora gasped, Signy soared."写出 climax。
+第 27 章写两人第一次亲密，把她为对方画的那幅肖像（墨水、植入物、雀斑、门牙的缝）与对方的紧张（“有一阵子了”“一年零七个月”）并置；她那句“我不介意随便的关系，但我更希望这次不是”与“想不想知道那是什么”写出两人的敞开——“当对方呻吟时，她也发疼”。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch060 chapter 27 signy fortune.md

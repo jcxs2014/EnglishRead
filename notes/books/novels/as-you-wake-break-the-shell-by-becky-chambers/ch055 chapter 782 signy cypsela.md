@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 55. Chapter 782: Signy, Cypsela
 
 ## 本章导航
-
-- **一句话概括**：Signy 的 meditation on seed templates as "instructions for instructions"——reproduction (DNA) vs teaching vs recorded information (writing/drawing/carving/coding)；humans as only species with recorded information; "You needed to write instructions for your instructions."。
-- **情节位置**：Cypsela 线，Chapter 782；Signy's seed template upload。
-- **人物弧线**：Signy 从 practitioner 到 philosopher——her reflection on instructions/DNA/writing。
-- **叙事手法**：expository essay；triadic framework (reproduction/teaching/recorded information)；"instructions for instructions" closing。
+- **一句话概括**：她关于种子模板的沉思——把模板说成“给说明书写的说明书”；把繁殖、教学与记录下来的信息（文字、图画、雕刻、代码）并列；人类是唯一会记录信息的物种。
+- **情节位置**：小卫星线；她上传种子模板。
+- **人物弧线**：她从实践者变成哲思者——她对说明书、基因与书写的反思。
+- **叙事手法**：说明性随笔；三重框架（繁殖、教学、记录）；以“给说明书写的说明书”收尾。
 
 ## 精读
 
@@ -38,7 +37,7 @@ modified: "2026-10-19"
 
 **中文理解**：人类的第三种把戏——记录下来的信息：书写、绘画、雕刻与编码。
 
-**关键词**：recorded information / writing, drawing, carving, coding
+**关键词**：recorded information / another trick up their collective sleeve
 
 **为什么这样写**：把记录信息写成“它们集体袖子里藏着的另一手”——写出她的欣赏；“迄今发现的唯一物种”写出她认知上的谦逊。
 
@@ -97,6 +96,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 782 章以 Signy's meditation on seed templates as "instructions for instructions"，把 reproduction/teaching/recorded information 的 triad 与 human knowledge's circularity 并置——"You needed to write instructions for your instructions."写出她的 meta-philosophy。
+第 782 章写她关于种子模板的沉思——把模板说成“给说明书写的说明书”，把繁殖、教学与记录下来的信息这三元与人类知识的循环性并置——“你得为你的说明书再写一份说明书”写出她那套元哲学。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch055 chapter 782 signy cypsela.md

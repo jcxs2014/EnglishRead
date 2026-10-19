@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 32. Chapter 777: Signy & Cora, Cypsela
 
 ## 本章导航
-
-- **一句话概括**：Signy & Cora 的 text exchange——Signy "taking a break" joins Cora in the nook, Cora demands remaining cake ("desperately" / "emergency"), Signy agrees; "zzzzzzzzzzzz" Cora falling asleep。
-- **情节位置**：Cypsela 线，Chapter 777；Signy-Cora 的 daily text communication。
-- **人物弧线**：Signy 从 work to break (Cora's nook)；Cora's cake emergency；their playful dynamic。
-- **叙事手法**：chat log format；"emergency" as running joke；"zzzzzzzzzzzz" as sleep indicator。
+- **一句话概括**：她与对方的短信往来——她说要“休息一下”，于是到对方那个凹室去；对方讨要剩下的蛋糕（说“十万火急”），她答应了；结尾那串“zzz”表示对方已经睡着。
+- **情节位置**：小卫星线；两人的日常短信沟通。
+- **人物弧线**：她从工作转到休息（去对方的凹室）；对方那场“蛋糕危机”；两人的玩闹。
+- **叙事手法**：聊天记录格式；把“十万火急”当作反复出现的笑点；一串“z”表示睡着。
 
 ## 精读
 
@@ -107,6 +106,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 777 章以 text exchange 把 Signy-Cora 的 playful dynamic 写成 "cake emergency"—"desperately" / "it's an emergency" / "that is also an emergency" / "zzzzzzzzzzzz"——establishing their humor, care, and sleep rhythm。
+这一章用短信往来把两人的玩闹写成一场“蛋糕危机”——“十万火急”“这也是十万火急”“zzz”——写出他们的幽默、照料与睡眠节奏。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch032 chapter 777 signy cora cypsela.md

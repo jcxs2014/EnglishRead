@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 35. Chapter 778: Signy & Cora, Cypsela
 
 ## 本章导航
-
-- **一句话概括**：Signy & Cora 的 text exchange——Noah's delayed replacement part (drone on the way), Cora's frustration, Signy's "at least he read your emails", carrots update ("wonderful")。
-- **情节位置**：Cypsela 线，Chapter 778；Signy-Cora 的 daily text communication。
-- **人物弧线**：Cora 从 frustration (Noah) 到 Signy's gentle deflection; Signy's work (Lodestone print) 与 carrots update。
-- **叙事手法**：chat log format；Noah as running gag；carrots as shared joy。
+- **一句话概括**：她与对方的短信往来——对方等替换零件等得烦躁，她提醒“至少他读了你的邮件”，顺便更新胡萝卜的进展（“好极了”）。
+- **情节位置**：小卫星线；两人的日常短信沟通。
+- **人物弧线**：对方从烦躁到被她轻轻岔开；她的工作与胡萝卜进展。
+- **叙事手法**：聊天记录格式；那个人当作反复出现的笑点；胡萝卜是两人共享的喜悦。
 
 ## 精读
 
@@ -127,6 +126,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 778 章以 text exchange 把 Noah's unreliability (drone on the way, "fucking tell me that you did") 与 Signy-Cora's carrot joy ("wonderful") 并置——Signy's "at least he read your emails" deflection 与 Cora's "ignore the landing alert" practicality 建立 their coordination。
+这一章用短信往来把那个人的不可靠（零件还在路上）与她与对方共享的胡萝卜之喜（“好极了”）并置——她那句“至少他读了你的邮件”与对方那种务实的应对，写出两人的配合。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch035 chapter 778 signy cora cypsela.md

@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 47. Interstitial: Signy Meets Colibri (Conversation)
 
 ## 本章导航
-
-- **一句话概括**：Signy 与 Colibri 的 conversation (via Cora as go-between)——Colibri's "what do you think of her?" / Signy's "I'm a little afraid" / Colibri's "She thinks you're the smartest person in the universe" / Signy's plant communication explanation / Colibri's sadness at plants' inability to feel / Signy's plant gift offer / "Colibri says you are of her love"。
-- **情节位置**：全书间插文本，Signy's stables visit；Signy-Colibri first conversation。
-- **人物弧线**：Signy 从 "I'm a little afraid" 到 "no longer afraid"—her Colibri bond established；Cora as go-between, tears, blush。
-- **叙事手法**：three-way dialogue (Signy, Cora, Colibri via Cora)；Signy's plant-Colibri parallels (photoreception, patience, light-eaters)；emotional climax (Colibri's sadness at plant's lack of feeling)。
+- **一句话概括**：她与鲸鱼的对话（由对方居中传话）——鲸鱼问“你觉得她怎么样”；她说“我有点怕”；鲸鱼说“她觉得你是全宇宙最聪明的人”；她解释自己与植物的相处；鲸鱼为植物感觉不到而难过；她提出送植物；最后一句“鲸鱼说你属于她的爱”。
+- **情节位置**：全书间插文本，她这次停泊区之行；她与鲸鱼的第一次交谈。
+- **人物弧线**：她从“我有点怕”到“不再害怕”——她与鲸鱼的羁绊在此建立；对方居中传话，落泪，脸红。
+- **叙事手法**：三方对话（她、对方、鲸鱼经对方传话）；把植物与鲸鱼并列（感光、耐心、以光为食）；情感高潮（鲸鱼为植物感觉不到而难过）。
 
 ## 精读
 
@@ -58,7 +57,7 @@ modified: "2026-10-19"
 
 **中文理解**：Cora 的沟通模式——“less intense than when I'm in the saddle”——电话对比一英寸内的面对面。
 
-**关键词**：less intense / phone vs face-to-face
+**关键词**：less intense / talking on the phone / face-to-face conversation
 
 **为什么这样写**：把沟通模式写成类比——电话对比一英寸内的面对面；“less intense”写出差异。
 
@@ -217,6 +216,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-Interstitial (Signy meets Colibri) 以 three-way dialogue (Signy/Cora/Colibri) 把 Colibri's "what do you think of her?" 与 Signy's "I'm a little afraid" / "curious, but not afraid" / "I don't understand Colibri, but I want to" 并置，Colibri's sadness at plants' lack of feeling ("grateful for being full") 与 Signy's plant gift offer ("absorb light that bounced off of each other") 建立 their bond——"And with that, Signy was no longer afraid" / "Colibri says you are of her love"。
+这一段间插（她与鲸鱼见面）用三方对话把她与鲸鱼并置——鲸鱼问“你觉得她怎么样”，她说“我有点怕”“好奇，但不怕”“我不懂鲸鱼，可我想懂”；鲸鱼为植物感觉不到而难过（“只为满而感激”）与她提出送植物（“吸收彼此反射的光”）一并建立这份联系。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch047 interstitial.md

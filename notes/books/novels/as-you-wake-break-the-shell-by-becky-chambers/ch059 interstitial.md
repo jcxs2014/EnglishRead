@@ -5,16 +5,11 @@ modified: "2026-10-19"
 
 # 59. Interstitial: Sautéed Chicory Greens
 
-## 一句话总结
-
-Chicory greens 的食谱——sautéed, boiled, chopped；极简的 recipe 形式。
-
 ## 本章导航
-
-- **一句话概括**：Chicory greens 的食谱——sautéed, boiled, chopped；极简的 recipe 形式。
-- **情节位置**：Cypsela 线 interstitial，紧跟 ch058；domestic recipe——establishes Signy 和 Cora 的 home cooking。
-- **人物弧线**：N/A（recipe 格式，无叙事弧线）。
-- **叙事手法**：recipe format; minimalist domestic detail。
+- **一句话概括**：一份菊苣叶食谱——炒、煮、切；极简的食谱形式。
+- **情节位置**：小卫星线间插文本，紧跟 ch058；一道家常菜，交代两人家里的做饭。
+- **人物弧线**：无（食谱格式，没有叙事弧线）。
+- **叙事手法**：食谱格式；极简的家常细节。
 
 ## 精读
 
@@ -56,3 +51,7 @@ Chicory greens 的食谱——sautéed, boiled, chopped；极简的 recipe 形�
 |---|---|---|
 | sautéed | 煎炒的 | Sautéed chicory greens |
 | chicory | 菊苣 | Chop 200 grams or so of chicory greens |
+
+## 一句话总结
+
+一份极简的菊苣叶食谱——炒、煮、切；以食谱形式呈现两人家里的做饭。

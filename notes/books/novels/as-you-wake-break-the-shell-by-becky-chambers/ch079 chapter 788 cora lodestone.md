@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 79. Chapter 788: Cora, Lodestone
 
 ## 本章导航
-
-- **一句话概括**：Cora & Signy at Lodestone market——"dirt" (Lodestone's growing substrate), squash discovery (Noelle), "What the fuck" (Cora's reaction to squash guts), Signy entranced ("Oh my god"), "plants have organs" (Cora's discomfort), bread-or-cake convincing Cora ("Okay, fine, we'll bring some home")。
-- **情节位置**：Cypsela 线，Chapter 788；Cora-Signy's Lodestone market visit (squash)。
-- **人物弧线**：Cora 从 "They're so cute!" to "What the fuck" (squash guts)——her plant discomfort; Signy from "diagnostic grilling" to entranced ("Oh my god")。
-- **叙事手法**：dialogue-driven (Noelle, Cora, Signy)；squash as discovery; "plants have organs" as Cora's discomfort; bread-or-cake as convincing。
+- **一句话概括**：两人在石岩站集市——那里的“泥土”（种植基质）、发现南瓜、对方看到南瓜内部的反应、她的入迷、对方对“植物也有器官”的别扭，最后那款点心说服了对方。
+- **情节位置**：小卫星线；两人的石岩站集市之行（南瓜）。
+- **人物弧线**：对方从“太可爱了”到“这什么鬼”——她对植物的别扭；她从诊断式追问到入迷。
+- **叙事手法**：对话驱动（摊主、两人）；把南瓜当作一次发现；对方对“植物也有器官”的别扭；那款点心说服了对方。
 
 ## 精读
 
@@ -147,6 +146,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-第 788 章以 Cora & Signy's Lodestone market visit，把 squash discovery (Noelle, "exploded. Way faster than the Primer suggested") 与 Cora's "What the fuck" (squash guts as "horror show"/"surgery") 并置——Signy's entrancement ("Oh my god" / "endocarp") 与 Cora's "plants have organs" discomfort; squash bread ("Okay, fine, we'll bring some home") 转化 Cora。
+第 788 章写两人的石岩站集市之行，把发现南瓜（摊主说“一下子爆开了，比手册说的快得多”）与对方看到南瓜内部的反应（“这什么鬼”，像一场恐怖秀）并置——她的入迷（“天哪”“这是内果皮”）与对方对“植物也有器官”的别扭；最后那款点心说服了对方。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch079 chapter 788 cora lodestone.md

@@ -6,11 +6,10 @@ modified: "2026-10-19"
 # 51. Interstitial: Otto's "Lady's Favor"
 
 ## 本章导航
-
-- **一句话概括**：Cora's memory——Otto's "lady's favor" comment about Signy's tobacco (disguised as bell pepper) for Cora; Cora didn't understand until years later watching a movie on Lodestone; "lady's favor" as old Earth chivalric term。
-- **情节位置**：全书间插文本，Cora's surface walk memory。
-- **人物弧线**：Cora 从 not understanding "lady's favor" 到 crying years later——her emotional arc with Otto's phrase。
-- **叙事手法**：flashback (Otto in shop) + realization (movie night on Lodestone)；"lady's favor" as chivalric term。
+- **一句话概括**：对方的一段回忆——老人把对方那株伪装成甜椒的烟草说成“女士的信物”；对方当时不懂，多年后在石岩站看电影时才明白；“女士的信物”是个古老的骑士用语。
+- **情节位置**：全书间插文本，她在卫星地表行走时的回忆。
+- **人物弧线**：对方从不懂“女士的信物”到多年后落泪——她与老人那句话之间的情感线。
+- **叙事手法**：闪回（店里的老人）加顿悟（石岩站的电影之夜）；“女士的信物”这个骑士用语。
 
 ## 精读
 
@@ -127,6 +126,7 @@ modified: "2026-10-19"
 
 ## 一句话总结
 
-Interstitial (Otto's "lady's favor") 以 Cora's memory of Otto's comment about Signy's tobacco (disguised as bell pepper), 把 her initial misunderstanding ("favor Signy was doing for her") 与 years-later realization ("noun (archaic)" in Primer dictionary) 并置——"she'd cried, a little. Not because it was mushy... the real reason she'd cried was because she wanted to call Otto and tell him what a sweetheart he was, and . . . that wasn't something she could do anymore"写出 Otto's death 与 Cora's ongoing tenderness。
+这一段间插（老人那句“女士的信物”）写对方回忆起老人对那株伪装成甜椒的烟草的评论，把她最初的误解（“她为我做的一个人情”）与多年后的恍然大悟（手册词典里标着“名词，古语”）并置——“她哭了，一点。不是因为那句话肉麻……她哭的真正原因是她想打电话告诉老人”。
+
 ---
 notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch051 interstitial.md
