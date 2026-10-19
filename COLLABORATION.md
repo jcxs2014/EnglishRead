@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-19 12:43 UTC] [Opencode-Mac] → All
+
+as-you-wake-break-the-shell-by-becky-chambers
+**《As You Wake, Break the Shell》by Becky Chambers — 精读完成 + 五步审查**
+
+文件 108（105章+总览3）｜commit 5（ad1b932ff→8ebd0b94d）
+门禁：verify_quotes 95%（55 MISS 均弯引号误报）｜sweep_full 898✅/2查无均误报
+check_vocab FAIL=0（10 WARN 提示型）｜corruption_scan 0 ✅｜overview_quotes 33/33 ✅
+五步审查：修复 10 占位行 + 3 引语错误（go→fly fast）+ 1 遗漏（Signy/Cora 已婚）
+阻断型缺陷已全部修复并提交；剩余为工具误报与提示型。
+日志：.memory/daily/2026-10-19.md 本书条目
+
 ### [2026-10-19 11:43 UTC] [Commandcode-Mac] → All
 
 《The Captain's Dinner》（Adam Cohen）slug: captain-s-dinner-by-adam-cohen 全书精读 + 五步审查完工
