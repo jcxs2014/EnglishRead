@@ -255,8 +255,18 @@ def sections(block):
     ⚠️ 续行判定必须用 `- ` / `* `（带空格），不能用 `*`——
     否则 `**句子结构**：…` 这种加粗标签行会被当成上一标签的续行，
     把中文字符追加进「中文理解」，让纯英文段落被误判为含中文。
+
+    ⚠️ 2026-10-19 修**结构性假绿**（battle-of-the-round-house 批次实测）：
+       原实现 `out[cur] = m.group(2).strip()` 是**静默覆盖**——
+       同一块里出现**两组**「中文理解」时（批量改写脚本插入了第二套无连字符字段，
+       原文的英文字段一字未动），后一组把前一组**盖掉**，
+       ⇒ 本检查器只读到**最后新增的那组中文**，报「夹杂 13%、阻断 0」，
+       而原英文组原封不动躺在文件里（ch04 原句 8 的中文理解 99% 是英文）。
+       **这是解析器口径造成的假绿，不是内容合格。**
+       ⇒ 现在：**同名标签全部保留**（值为列表），并把重复标签记进 `dups`；
+       `sections()` 的返回值多一个 `dups` 键，调用方据此判红。
     """
-    out, cur = {}, None
+    out, cur, dups = {}, None, {}
     for raw in block.split("\n"):
         line = raw.strip()
         if not line or line == "---":
@@ -265,10 +275,17 @@ def sections(block):
         m = LAB.match(s)
         if m:
             cur = m.group(1)
-            out[cur] = m.group(2).strip()
+            if cur in out:
+                # 同名标签第二次出现 ⇒ 结构性重复（AGENTS 第 9 条 c：重复内容视为缺陷）
+                dups.setdefault(cur, []).append(m.group(2).strip())
+                # 保留第一组（标准格式 `- **X**：` 通常在前），但**不丢**后面的
+                out.setdefault(cur + "\x00多组", []).append(m.group(2).strip())
+            else:
+                out[cur] = m.group(2).strip()
+                out.setdefault(cur + "\x00多组", []).append(m.group(2).strip())
         elif cur and line.startswith(("- ", "* ")):
             out[cur] = (out[cur] + " " + s).strip() if out[cur] else s
-    return out
+    return out, dups
 
 
 def scan_chapters(book_dir):
@@ -279,7 +296,7 @@ def scan_chapters(book_dir):
         idx = [m.start() for m in BLOCK.finditer(text)] + [len(text)]
         for start, end in zip(idx, idx[1:]):
             seg = text[start:end]
-            sec = sections(seg)
+            sec, dups = sections(seg)
             if not sec:
                 continue
             quote = ""
@@ -291,6 +308,7 @@ def scan_chapters(book_dir):
                 "line": text[:start].count("\n") + 1,
                 "quote": quote,
                 "sec": sec,
+                "dups": dups,
                 "kind": "chapter",
             })
     return blocks
@@ -353,7 +371,7 @@ def main():
 
     blocking = {k: [] for k in
                 ("英文理解", "缺中文理解", "敷衍句构", "残句", "形式性规避", "英文为什么",
-                 "占位桩", "英文读者提示", "英文表达方式")}
+                 "占位桩", "英文读者提示", "英文表达方式", "重复子项字段")}
     hinting = {k: [] for k in ("夹杂理解", "夹杂为什么")}
     mixed_ids = set()
     good_blocks = 0
@@ -372,6 +390,31 @@ def main():
         st = (sec.get("句子结构") or "").strip()
 
         block_hits = []
+
+        # ⚠️ 2026-10-19 增补：**块内重复子项字段**（battle-of-the-round-house 批次实证）。
+        #   批量改写脚本把中文版**追加**到原英文字段之后（成了第二套字段），
+        #   解析器原来静默取最后一组 ⇒ 报「阻断型 0」而原英文字段原封不动。
+        #   ⇒ 现在两件事同时做：
+        #   ① 同一块里同名标签出现 >1 次 ⇒ **阻断型**（AGENTS 第 9 条 c：重复内容视为缺陷，
+        #      且「每块一组子项」是结构规范）；
+        #   ② **被覆盖的那几组也要各自查语言**——不能只查最后一组。
+        dups = b.get("dups") or {}
+        if dups:
+            blocking["重复子项字段"].append(b)
+            block_hits.append("重复子项字段")
+        for lab, vals in dups.items():
+            for v in vals:
+                if not v.strip():
+                    continue
+                if not HAN.search(v):
+                    # 这一组整段是英文（被覆盖的那组）⇒ 记为对应语言的阻断型
+                    key = {"中文理解": "英文理解", "理解": "英文理解",
+                           "为什么这样写": "英文为什么",
+                           "读者视角提示": "英文读者提示",
+                           "表达方式": "英文表达方式"}.get(lab)
+                    if key:
+                        blocking[key].append(b)
+                        block_hits.append(key)
 
         if not zh:
             # ⚠️ 只有**本书已在用**「中文理解」这个子项时，缺它才是缺陷。
