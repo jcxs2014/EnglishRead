@@ -35,7 +35,7 @@ start_date: 2026-10-19
 
 **中文理解**：Yolanda 认识 contraction—"A contraction. I know it is." Simple, direct. Shows her body knowledge despite no medical training。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `A contraction`：宫缩——Yolanda’s recognition
@@ -47,9 +47,9 @@ start_date: 2026-10-19
 
 > **原句 3:** "Cold water won’t be good for the baby. It could die."
 
-**中文理解**：Yolanda’s concern—"Cold water won’t be good for the baby. It could die." Shows her maternal instinct emerging, despite dissociation。
+**中文理解**：Yolanda 的 concern——"Cold water won’t be good for the baby. It could die." Shows her maternal instinct emerging，despite dissociation。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Cold water won’t be good for the baby`：冷水对 baby 不好——maternal concern
@@ -61,7 +61,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "The screeching yell that reaches my ears from afar, but that I somehow know has come from my own throat, confirms it."
 
-**中文理解**：Yolanda’s screeching yell—"confirms it." Pain is real, labor is happening. "From afar, but that I somehow know has come from my own throat" shows dissociation。
+**中文理解**：Yolanda 的 screeching yell——"confirms it." Pain is real, labor is happening。"From afar, but that I somehow know has come from my own throat" 显示 dissociation。
 
 **句子结构**：主从复合句。
 
@@ -75,9 +75,9 @@ start_date: 2026-10-19
 
 > **原句 5:** "“Muerte?” I ask."
 
-**中文理解**：Yolanda sees Santa Muerte—"Muerte?" she asks. Death saint appears during labor. Shows supernatural framing of birth。
+**中文理解**：Yolanda 看到 Santa Muerte——"Muerte?" she asks。Death saint appears during labor。显示 supernatural framing of birth。
 
-**句子结构**：简单问句。
+**句子结构**：简单问句，疑问词引导。
 
 **关键词**：
 - `Muerte?`：死神？——supernatural appearance
@@ -88,9 +88,9 @@ start_date: 2026-10-19
 
 > **原句 6:** "And then I split in half."
 
-**中文理解**：Yolanda’s "And then I split in half."—body horror. "The pain is unbearable." Shows labor’s extremity。
+**中文理解**：Yolanda 的 "And then I split in half."——body horror。"The pain is unbearable." 显示 labor’s extremity。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `split in half`：裂成两半——body horror
@@ -101,7 +101,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "I’ve given birth to a white oval that I can’t call anything other than an egg."
 
-**中文理解**：Yolanda gives birth to egg—"white oval that I can’t call anything other than an egg." Horror reveal: baby is egg. "My baby is an egg." Shows her shock。
+**中文理解**：Yolanda gives birth to egg——"white oval that I can’t call anything other than an egg." Horror reveal：baby is egg。"My baby is an egg." 显示她的 shock。
 
 **句子结构**：一句话：I’ve given birth to a white oval that I can’t call anything other than an egg。
 
@@ -115,9 +115,9 @@ start_date: 2026-10-19
 
 > **原句 8:** "When I caress the heavy oval, it moves."
 
-**中文理解**：Egg moves—"When I caress the heavy oval, it moves." Shows it’s alive. "A slight shake in my arms to let me know it’s there." maternal connection despite horror。
+**中文理解**：Egg moves——"When I caress the heavy oval, it moves." 显示 it’s alive。"A slight shake in my arms to let me know it’s there." maternal connection despite horror。
 
-**句子结构**：一句话。
+**句子结构**：一句话，单句结构。
 
 **关键词**：
 - `caress the heavy oval, it moves`：抚摸沉重的卵形，它移动——alive
@@ -129,9 +129,9 @@ start_date: 2026-10-19
 
 > **原句 9:** "That’s when I realize I can’t tell them about this."
 
-**中文理解**：Yolanda realizes she must hide egg—"can’t tell them about this." Shows her awareness of danger. "The family must never know I’ve birthed something other than a child."
+**中文理解**：Yolanda realizes she must hide egg——"can’t tell them about this." 显示 her awareness of danger。"The family must never know I’ve birthed something other than a child."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `can’t tell them about this`：不能告诉他们——secrecy
@@ -143,9 +143,9 @@ start_date: 2026-10-19
 
 > **原句 10:** "Only until the egg hatches. When it does, I can pretend I’ve given birth."
 
-**中文理解**：Yolanda’s plan—hide egg until hatching, then "pretend I’ve given birth." Shows her deception strategy. "Otherwise, they’ll never accept my baby as part of the Fernández De la Rosa family."
+**中文理解**：Yolanda’s plan——hide egg until hatching，then "pretend I’ve given birth." 显示她的 deception strategy。"Otherwise, they’ll never accept my baby as part of the Fernández De la Rosa family."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Only until the egg hatches`：直到蛋孵化——timeline
@@ -157,9 +157,9 @@ start_date: 2026-10-19
 
 > **原句 11:** "I grab a fistful of gauze. One by one, I open them until they become a single ball."
 
-**中文理解**：Yolanda uses gauze to soak blood—"fistful of gauze... single ball." Shows her resourcefulness. "At least that way the blood won’t trickle down my thighs."
+**中文理解**：Yolanda uses gauze to soak blood——"fistful of gauze... single ball." 显示她的 resourcefulness。"At least that way the blood won’t trickle down my thighs."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `fistful of gauze`：一把纱布——resourcefulness
@@ -171,9 +171,9 @@ start_date: 2026-10-19
 
 > **原句 12:** "I wait until almost noon to go to Valentín."
 
-**中文理解**：Yolanda waits until noon—timing her pregnancy announcement with family visit. Shows strategic planning。
+**中文理解**：Yolanda waits until noon——timing her pregnancy announcement with family visit。显示 strategic planning。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `wait until almost noon`：等到快中午——strategic timing
@@ -184,7 +184,7 @@ start_date: 2026-10-19
 
 > **原句 13:** "“You should be the one to say it,” he says. “I’ll act surprised.”"
 
-**中文理解**：Valentín and Yolanda rehearse announcement—Valentín will "act surprised." Shows charade. "Now I’m here, cleaning Valentín while we plan the best way to break the news."
+**中文理解**：Valentín and Yolanda rehearse announcement——Valentín will "act surprised." 显示 charade。"Now I’m here, cleaning Valentín while we plan the best way to break the news."
 
 **句子结构**：两句话：引语 + 引语。
 
@@ -198,9 +198,9 @@ start_date: 2026-10-19
 
 > **原句 14:** "At noon on the dot, they arrive."
 
-**中文理解**：Family arrives "at noon on the dot"—Yolanda’s timing perfect. Shows her control。
+**中文理解**：Family arrives "at noon on the dot"——Yolanda’s timing perfect。显示她的 control。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `at noon on the dot`：正午准时——Yolanda’s control
@@ -211,7 +211,7 @@ start_date: 2026-10-19
 
 > **原句 15:** "“Hello, everyone. I have something to say,” says Valentín."
 
-**中文理解**：Valentín opens announcement—"Hello, everyone. I have something to say." Family’s "sepulchral silence" shows tension。
+**中文理解**：Valentín opens announcement——"Hello, everyone. I have something to say." Family’s "sepulchral silence" 显示 tension。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -224,7 +224,7 @@ start_date: 2026-10-19
 
 > **原句 16:** "“Yolanda, and I . . .” He takes hold of my hand."
 
-**中文理解**：Valentín takes Yolanda’s hand—"Yolanda, and I..."—shows intimacy (performative). "I thought at least there’d be a collective gasp." Shows her expectation。
+**中文理解**：Valentín takes Yolanda’s hand——"Yolanda, and I..."——显示 intimacy (performative)。"I thought at least there’d be a collective gasp." 显示她的 expectation。
 
 **句子结构**：引语 + 动作（He takes hold of my hand）。
 
@@ -238,7 +238,7 @@ start_date: 2026-10-19
 
 > **原句 17:** "“I’m pregnant. Valentín is the father,” I blurt."
 
-**中文理解**：Yolanda’s announcement—"I’m pregnant. Valentín is the father." "Blurt" shows impulsivity. Family’s shocked reactions: Alta "hint of amusement," Odette "shakes her head furiously," Javier "side smile, amused."
+**中文理解**：Yolanda’s announcement——"I’m pregnant. Valentín is the father." "Blurt" 显示 impulsivity。Family’s shocked reactions：Alta "hint of amusement," Odette "shakes her head furiously," Javier "side smile, amused."
 
 **句子结构**：引语 + 叙述者评注（I blurt）。
 
@@ -252,20 +252,20 @@ start_date: 2026-10-19
 
 > **原句 18:** "“Is it true?” Alta is the first to speak."
 
-**中文理解**：Alta’s "Is it true?"—she questions Yolanda. "There’s a hint of amusement in her eyes." Shows Alta’s suspicion。
+**中文理解**：Alta 的 "Is it true?"——she questions Yolanda。"There’s a hint of amusement in her eyes." 显示 Alta’s suspicion。
 
 **句子结构**：引语 + 叙述者评注。
 
 **关键词**：
 - `Is it true?`：是真的吗？——suspicion
 
-**为什么这样写**：Alta’s suspicion shows her perception—she doesn’t believe Yolanda, but can’t prove it。
+**为什么这样写**：Alta 的 suspicion 显示她的 perception——she doesn’t believe Yolanda，but can’t prove it。
 
 ---
 
 > **原句 19:** "“Very well,” says Don Julián."
 
-**中文理解**：Don Julián’s "Very well"—acceptance. Shows his pragmatism (or resignation).
+**中文理解**：Don Julián 的 "Very well"——acceptance。Shows his pragmatism (or resignation)。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -278,20 +278,20 @@ start_date: 2026-10-19
 
 > **原句 20:** "“I’m not getting rid of it.”"
 
-**中文理解**：Yolanda’s "I’m not getting rid of it."—she resists Javier’s "proper arrangements" (abortion). Shows her determination to keep egg-secret。
+**中文理解**：Yolanda 的 "I’m not getting rid of it."——she resists Javier’s "proper arrangements" (abortion)。Shows her determination to keep egg-secret。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `I’m not getting rid of it`：我不打掉它——resistance
 
-**为什么这样写**：Yolanda’s resistance shows her commitment to scheme—she will protect egg at all costs。
+**为什么这样写**：Yolanda 的 resistance 显示她的 commitment to scheme——she will protect egg at all costs。
 
 ---
 
 > **原句 21:** "“Eres un idiota,” says Odette."
 
-**中文理解**：Odette’s "Eres un idiota" (You’re an idiot)—she blames Valentín. "Here comes the lagartona and you fall directly into her arms." Shows her contempt for Yolanda (lagartona = lizard, social climber)。
+**中文理解**：Odette 的 "Eres un idiota" (You’re an idiot)——she blames Valentín。"Here comes the lagartona and you fall directly into her arms." 显示她的 contempt for Yolanda (lagartona = lizard, social climber)。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -299,13 +299,13 @@ start_date: 2026-10-19
 - `Eres un idiota`：你是白痴——contempt
 - `lagartona`：蜥蜴，社会攀爬者——contempt for Yolanda
 
-**为什么这样写**：Odette’s "lagartona" shows town/hacienda’s view of Yolanda—she is seen as opportunist, not victim。
+**为什么这样写**：Odette 的 "lagartona" 显示 town/hacienda 对 Yolanda 的 view——she is seen as opportunist, not victim。
 
 ---
 
 > **原句 22:** "“Y tú, maldita zorra,” she says to me."
 
-**中文理解**：Odette’s "Y tú, maldita zorra" (And you, damn whore)—direct insult.
+**中文理解**：Odette 的 "Y tú, maldita zorra" (And you, damn whore)——direct insult。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -318,21 +318,21 @@ start_date: 2026-10-19
 
 > **原句 23:** "“Enough.” Don Julián raises his hand. She closes her mouth."
 
-**中文理解**：Don Julián’s "Enough."—he silences Odette. "Raises his hand" shows authority. Odette "closes her mouth"—obedience。
+**中文理解**：Don Julián 的 "Enough."——he silences Odette。"Raises his hand" shows authority。Odette "closes her mouth"——obedience。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Enough`：够了——authority
 - `raises his hand`：举起手——authority gesture
 
-**为什么这样写**：Don Julián’s silencing of Odette shows his control—he accepts pregnancy, will not allow dissent。
+**为什么这样写**：Don Julián 对 Odette 的 silencing 显示他的 control——he accepts pregnancy，will not allow dissent。
 
 ---
 
 > **原句 24:** "“Hijo,” says Don Julián. He sits on the bed next to Valentín and caresses his son’s good hand."
 
-**中文理解**：Don Julián’s "Hijo"—he sits by Valentín, caresses his hand. Shows paternal concern (or performance). "Not too close, so as not to soil his elegant suede jacket." Shows his vanity。
+**中文理解**：Don Julián 的 "Hijo"——he sits by Valentín，caresses his hand。Shows paternal concern (or performance)。"Not too close, so as not to soil his elegant suede jacket." 显示他的 vanity。
 
 **句子结构**：引语 + 两句话。
 
@@ -341,47 +341,47 @@ start_date: 2026-10-19
 - `caresses his son’s good hand`：抚摸儿子的好手——concern
 - `not too close, so as not to soil his elegant suede jacket`：不太近，以免弄脏他的翻毛皮夹克——vanity
 
-**为什么这样写**：Don Julián’s "not too close, so as not to soil his jacket" shows his vanity—paternal concern is performative。
+**为什么这样写**：Don Julián 的 "not too close, so as not to soil his jacket" 显示他的 vanity——paternal concern is performative。
 
 ---
 
 > **原句 25:** "“We’re getting rid of the arm.”"
 
-**中文理解**：Valentín announces arm amputation—"We’re getting rid of the arm." Shows his acceptance of loss. Family’s shock。
+**中文理解**：Valentín announces arm amputation——"We’re getting rid of the arm." 显示 his acceptance of loss。Family’s shock。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `getting rid of the arm`：除掉手臂——amputation
 
-**为什么这样写**：Valentín’s acceptance of amputation shows his resilience—and his awareness of mortality (will)。
+**为什么这样写**：Valentín’s acceptance of amputation 显示他的 resilience——and his awareness of mortality (will)。
 
 ---
 
 > **原句 26:** "“Yolanda is the love of my life,” he says."
 
-**中文理解**：Valentín’s "Yolanda is the love of my life."—Yolanda’s fantasy moment. "I want to tell him that we still have time together." Shows her hope。
+**中文理解**：Valentín 的 "Yolanda is the love of my life."——Yolanda’s fantasy moment。"I want to tell him that we still have time together." 显示她的 hope。
 
 **句子结构**：引语 + 叙述者评注。
 
 **关键词**：
 - `love of my life`：此生挚爱——Valentín’s declaration
 
-**为什么这样写**：Valentín’s "love of my life" is both genuine (he may believe it) and strategic (to protect Yolanda/baby). Yolanda’s "I want to tell him..." shows her hope。
+**为什么这样写**：Valentín 的 "love of my life" is both genuine (he may believe it) and strategic (to protect Yolanda/baby)。Yolanda’s "I want to tell him..." 显示她的 hope。
 
 ---
 
 > **原句 27:** "“Yolanda and your son will live on the hacienda grounds. They will want for nothing.”"
 
-**中文理解**：Don Julián’s promise—"Yolanda and your son will live on the hacienda grounds. They will want for nothing." Yolanda’s triumph: "With those words, I’ve become part of the family."
+**中文理解**：Don Julián 的 promise——"Yolanda and your son will live on the hacienda grounds. They will want for nothing." Yolanda’s triumph："With those words, I’ve become part of the family."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Yolanda and your son will live on the hacienda grounds`：Yolanda 和你儿子将住在 hacienda——promise
 - `They will want for nothing`：他们什么都不缺——security
 
-**为什么这样写**：Don Julián’s promise is Yolanda’s victory—her scheme succeeded. "I’ve become part of the family" shows her triumph。
+**为什么这样写**：Don Julián 的 promise 是 Yolanda’s victory——her scheme succeeded。"I’ve become part of the family" 显示她的 triumph。
 
 ---
 
