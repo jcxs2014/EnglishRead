@@ -46,7 +46,7 @@ start_date: 2026-10-19
 
 > **原句 3:** "“I told you,” says the kid to his friend in the red shirt. “It’s those ugly dresses they give them. You can tell right away.” He scrunches his nose. “They smell so bad too. Like a cow or something.”"
 
-**中文理解**：Kid’s insult—“ugly dresses,” "smell so bad... like a cow"—shows town’s contempt for hacienda staff. Yolanda’s "I shake my head" shows her shame。
+**中文理解**：Kid 的 insult——“ugly dresses,” "smell so bad... like a cow"——显示 town 对 hacienda staff 的 contempt。Yolanda 的 "I shake my head" 显示她的 shame。
 
 **句子结构**：引语 + 叙述者评注 + 引语。
 
@@ -60,7 +60,7 @@ start_date: 2026-10-19
 
 > **原句 4:** "“Hey! Is it true then?” ... “What?” ... “That the hacienda is embrujada.”"
 
-**中文理解**：Kid asks if hacienda is "embrujada" (bewitched). Yolanda’s "I stick out my tongue at them" shows defiance. " embrujada" connects to bruja/Cesarea。
+**中文理解**：Kid asks if hacienda is "embrujada" (bewitched)。Yolanda 的 "I stick out my tongue at them" 显示 defiance。" embrujada" connects to bruja/Cesarea。
 
 **句子结构**：两问 + 一陈述：Hey! Is it true then? + What? + That the hacienda is embrujada（kid’s statement）。
 
@@ -74,7 +74,7 @@ start_date: 2026-10-19
 
 > **原句 5:** "One of them says, “The doctor’s house is five blocks to your left. It’s blue and impossible to miss.”"
 
-**中文理解**：Kid gives directions—blue house, impossible to miss. Yolanda’s "I smile but don’t turn around" shows her relief and caution。
+**中文理解**：Kid gives directions——blue house, impossible to miss。Yolanda 的 "I smile but don’t turn around" 显示她的 relief and caution。
 
 **句子结构**：引语。
 
@@ -87,7 +87,7 @@ start_date: 2026-10-19
 
 > **原句 6:** "“Yes?” The doctor crosses his arms. He doesn’t open the metallic fence that keeps him safe from the people out here."
 
-**中文理解**：Doctor’s "Yes?" + crossed arms + not opening fence—shows his defensiveness and suspicion. "Keeps him safe from the people out here" shows town’s danger。
+**中文理解**：Doctor 的 "Yes?" + crossed arms + not opening fence——显示他的 defensiveness and suspicion。"Keeps him safe from the people out here" 显示 town’s danger。
 
 **句子结构**：引语 + 两句话：He crosses his arms. He doesn’t open...
 
@@ -101,7 +101,7 @@ start_date: 2026-10-19
 
 > **原句 7:** "“But doctor! Doctors make a pledge, don’t they? They’ll save anyone if they can. That’s what you’ve promised.”"
 
-**中文理解**：Yolanda appeals to doctor’s oath—"Doctors make a pledge... They’ll save anyone." Doctor rejects: "Lots of people have accidents."
+**中文理解**：Yolanda 诉诸 doctor’s oath——"Doctors make a pledge... They’ll save anyone." Doctor rejects："Lots of people have accidents."。
 
 **句子结构**：引语 + 从句（don’t they?）+ 陈述（That’s what you’ve promised）。
 
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "“Come back with the money, or not at all,” he says and shuts the door behind him."
 
-**中文理解**：Doctor’s ultimatum—"Come back with the money, or not at all." Shows town’s economy: money first, life second。
+**中文理解**：Doctor 的 ultimatum——"Come back with the money, or not at all." Shows town’s economy：money first, life second。
 
 **句子结构**：引语 + 动作（shuts the door）。
 
@@ -128,7 +128,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "Alta is already waiting for me at the front door, her lips pursed."
 
-**中文理解**：Alta’s "lips pursed"—shows anger/anxiety. She grabs silver cross with left hand—"Half of me expects her to raise it as if I were a vampire." Shows Alta’s religious authority。
+**中文理解**：Alta 的 "lips pursed"——显示 anger/anxiety。She grabs silver cross with left hand——"Half of me expects her to raise it as if I were a vampire." 显示 Alta’s religious authority。
 
 **句子结构**：简单陈述句 + 叙述者评注。
 
@@ -142,7 +142,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "“He won’t come, Alta. He said we have to pay upfront. We owe money to too many people. He doesn’t trust the family.”"
 
-**中文理解**：Yolanda’s report—doctor won’t come, needs upfront payment, family owes money. Shows hacienda’s financial precarity。
+**中文理解**：Yolanda 的 report——doctor won’t come，needs upfront payment，family owes money。Shows hacienda’s financial precarity。
 
 **句子结构**：四句话：He won’t come... + He said we have to pay upfront + We owe money... + He doesn’t trust...
 
@@ -156,7 +156,7 @@ start_date: 2026-10-19
 
 > **原句 11:** "“We could sell those,” I tell Alta. “And maybe the silver as well? Or perhaps we wouldn’t even have to sell them. We could give them directly to the doctor.”"
 
-**中文理解**：Yolanda’s suggestion—sell taxidermied birds/silver to pay doctor. Shows her pragmatism. Alta rejects: "Those decisions aren’t up to us."
+**中文理解**：Yolanda 的 suggestion——sell taxidermied birds/silver to pay doctor。Shows her pragmatism。Alta rejects："Those decisions aren’t up to us."
 
 **句子结构**：四句话：We could sell those + And maybe the silver as well + Or perhaps we wouldn’t even have to sell them + We could give them directly to the doctor.
 
@@ -170,7 +170,7 @@ start_date: 2026-10-19
 
 > **原句 12:** "“Those decisions aren’t up to us.” Her jaw tightens even more. “We are not family. All we can do is care for him now.”"
 
-**中文理解**：Alta’s "Those decisions aren’t up to us" + "We are not family"—shows class boundary. "All we can do is care for him now" is Yolanda’s opportunity。
+**中文理解**：Alta 的 "Those decisions aren’t up to us" + "We are not family"——shows class boundary。"All we can do is care for him now" 是 Yolanda’s opportunity。
 
 **句子结构**：三句话：Those decisions aren’t up to us + We are not family + All we can do is care for him now.
 
@@ -185,7 +185,7 @@ start_date: 2026-10-19
 
 > **原句 13:** "“You’ll be in charge of him,” says Alta."
 
-**中文理解**：Alta assigns Yolanda to care for Valentín—"You’ll be in charge of him." Yolanda: "Me? This is my opportunity." Shows her calculation。
+**中文理解**：Alta assigns Yolanda to care for Valentín——"You’ll be in charge of him." Yolanda："Me? This is my opportunity." 显示她的 calculation。
 
 **句子结构**：引语 + 叙述者评注（says Alta）。
 
@@ -199,7 +199,7 @@ start_date: 2026-10-19
 
 > **原句 14:** "“Me?” This is my opportunity. To be close to him. Everything will have to be done on a whim, before my stomach swells, revealing it as impossible for the baby to be his."
 
-**中文理解**：Yolanda’s "Me? This is my opportunity"—she sees caregiving as seduction opportunity. "Before my stomach swells, revealing it as impossible for the baby to be his" shows her timeline anxiety。
+**中文理解**：Yolanda 的 "Me? This is my opportunity"——she sees caregiving as seduction opportunity。"Before my stomach swells, revealing it as impossible for the baby to be his" 显示她的 timeline anxiety。
 
 **句子结构**：引语 + 两句话：This is my opportunity... + Everything will have to be done on a whim...
 
@@ -213,7 +213,7 @@ start_date: 2026-10-19
 
 > **原句 15:** "“Señor Valentín,” I say, and slowly push his good arm to wake him."
 
-**中文理解**：Yolanda wakes Valentín—"Señor Valentín" formal address. "Slowly push his good arm" shows her gentleness (performative)。
+**中文理解**：Yolanda wakes Valentín——"Señor Valentín" formal address。"Slowly push his good arm" 显示她的 gentleness (performative)。
 
 **句子结构**：引语 + 动作（and slowly push his good arm to wake him）。
 
@@ -227,7 +227,7 @@ start_date: 2026-10-19
 
 > **原句 16:** "“Don’t worry. I’m Itzco’s friend,” I say."
 
-**中文理解**：Yolanda’s "I’m Itzco’s friend"—she claims friendship (not a lie, she wants to think she is). "He relaxes back into the bed" shows it works。
+**中文理解**：Yolanda 的 "I’m Itzco’s friend"——she claims friendship (not a lie, she wants to think she is)。"He relaxes back into the bed" 显示 it works。
 
 **句子结构**：引语。
 
@@ -240,7 +240,7 @@ start_date: 2026-10-19
 
 > **原句 17:** "“I’m not a visitor. I’m his doctor.” I’m grateful his back is turned to me, so he doesn’t detect the shock on my face."
 
-**中文理解**：Javier’s "I’m his doctor"—reveals he went to medical school. Yolanda’s "shock" shows her surprise. "Grateful his back is turned" shows her hiding reaction。
+**中文理解**：Javier 的 "I’m his doctor"——reveals he went to medical school。Yolanda’s "shock" 显示她的 surprise。"Grateful his back is turned" 显示她 hiding reaction。
 
 **句子结构**：引语 + 叙述者评注（I’m grateful his back is turned...）。
 
@@ -254,7 +254,7 @@ start_date: 2026-10-19
 
 > **原句 18:** "“It’s very easy,” says Don Julián. “Our Javier here”—he extends his hand as if I didn’t know who Javier is—“he went to medical school."
 
-**中文理解**：Don Julián’s "It’s very easy"—Javier went to medical school. "As if I didn’t know who Javier is" shows Don Julián’s condescension to Yolanda。
+**中文理解**：Don Julián 的 "It’s very easy"——Javier went to medical school。"As if I didn’t know who Javier is" 显示 Don Julián’s condescension to Yolanda。
 
 **句子结构**：引语 + 叙述者评注。
 
