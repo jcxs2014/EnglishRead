@@ -169,7 +169,7 @@ start_date: 2026-10-19
 |---|---|---|
 | `clover hall` | Clover Hall（Trench 家族的庄园） | Sam: Clover Hall |
 | `discomfited` | 不安的/尴尬的 | I wasn't the only one discomfited |
-| `appreciatively` | 吉祥的/有利的 | But as Father has said, we’ll be seeing much more of Clem and Rosie.” Simeon and Mariah both looked appreciatively at their father, who gave a slight nod of acknowledgment. |
+| `appreciatively` | 欣赏地 | But as Father has said, we’ll be seeing much more of Clem and Rosie.” Simeon and Mariah both looked appreciatively at their father, who gave a slight nod of acknowledgment. |
 | `incorrigible` | 不可救药的 | He was detestable! He was incorrigible! |
 | `restraint` | 克制/约束 | I wondered at her restraint |
 

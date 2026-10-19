@@ -158,7 +158,7 @@ start_date: 2026-10-19
 | `arbor` | 凉亭/葡萄架 | Sam: The Arbor |
 | `perspicacity` | 洞察力/敏锐 | anyone with an ounce of perspicacity |
 | `semblance` | 外表/样子 | saw a semblance of our father's spirit |
-| `simultaneously` | 凌乱/不整洁 | As a result, we were all crammed together, Clem and Lydia very happily so, while Clem clung to her mother and directed the carriage simultaneously. |
+| `simultaneously` | 同时地 | As a result, we were all crammed together, Clem and Lydia very happily so, while Clem clung to her mother and directed the carriage simultaneously. |
 | `reconciling` | 和解/调和 | slowly reconciling myself to the deception |
 
 ### ⭐⭐ 进阶

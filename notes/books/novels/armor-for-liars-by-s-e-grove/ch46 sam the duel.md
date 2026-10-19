@@ -168,9 +168,9 @@ start_date: 2026-10-19
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | `duel` | 决斗 | Sam: The Duel |
-| `unrecognizable` | 皮洛士式胜利（惨胜） | I saw her hands first, clinging to the rope, and then her head, unrecognizable from the soil caked about her hair and face. |
-| `magnanimously` | 冒充者/骗子 | When he returned, he announced magnanimously, “We accept your second. |
-| `uninterrupted` | 掩饰者/伪装者 | The whirlwind surged suddenly, enlarging and widening, swooping upon the bat abruptly and continuing uninterrupted, touching down upon the lawn. |
+| `unrecognizable` | 认不出的 | I saw her hands first, clinging to the rope, and then her head, unrecognizable from the soil caked about her hair and face. |
+| `magnanimously` | 宽宏地 | When he returned, he announced magnanimously, “We accept your second. |
+| `uninterrupted` | 不间断的 | The whirlwind surged suddenly, enlarging and widening, swooping upon the bat abruptly and continuing uninterrupted, touching down upon the lawn. |
 | `vengeance` | 复仇/报复 | We both have our vengeances, Sam |
 
 ### ⭐⭐ 进阶

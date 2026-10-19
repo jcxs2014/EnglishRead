@@ -119,7 +119,7 @@ start_date: 2026-10-19
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| `cisne` | 天鹅（Cisneros Society 的 symbol） | The cisne |
+| `cisne` | 天鹅（Cisneros Society 的标记） | The cisne |
 | `consummate` | 完全的/彻底的 | consummate villains |
 | `intimidation` | 恐吓 | ordinary intimidation |
 

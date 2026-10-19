@@ -171,7 +171,7 @@ start_date: 2026-10-19
 | `barbute` | 巴尔布特头盔（意大利） | I'm especially fond of the barbute |
 | `repercussions` | 反响/后果 | one with many repercussions |
 | `momentous` | 重大的/重要的 | It was a momentous event |
-| `acquiescence` | 慈善/博爱 | I rejected this outright, wanting nothing to do with such a life—it seemed to me then an acquiescence to the judgment that had been rendered of me. |
+| `acquiescence` | 默许/顺从 | I rejected this outright, wanting nothing to do with such a life—it seemed to me then an acquiescence to the judgment that had been rendered of me. |
 
 ### ⭐⭐ 进阶
 

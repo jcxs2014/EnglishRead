@@ -132,7 +132,7 @@ start_date: 2026-10-19
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | `sanctioned` | 许可的/授权的 | the sanctioned use of bone upon human beings |
-| `demonstrations` | 令人窒息的 | On the ground floor, the students’ desks are arranged in concentric circles, with a broad table in the middle, the better to showcase demonstrations. |
+| `demonstrations` | 演示 | On the ground floor, the students’ desks are arranged in concentric circles, with a broad table in the middle, the better to showcase demonstrations. |
 | `audacious` | 大胆的 | medical enchantment has always been the most audacious of the arts |
 | `elucidation` | 阐明 | For the elucidation of the class |
 | `punctilious` | 一丝不苟的 | with a punctilious air |

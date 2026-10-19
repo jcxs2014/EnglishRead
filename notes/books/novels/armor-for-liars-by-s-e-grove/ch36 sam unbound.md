@@ -156,10 +156,10 @@ start_date: 2026-10-19
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | `unbound` | 解脱的/自由的 | Sam: Unbound |
-| `accountability` | 皮洛士式胜利（惨胜） | “The difference,” Draken said in a slow, commanding tone, “is accountability. |
+| `accountability` | 问责/责任 | “The difference,” Draken said in a slow, commanding tone, “is accountability. |
 | `incapacity` | 无能/无力 | Evil is merely the incapacity |
 | `premeditated` | 预谋的 | the penalty for my premeditated disobedience |
-| `considerations` | 牺牲 | As these considerations ran through my mind, I lifted my head. |
+| `considerations` | 思量/考虑 | As these considerations ran through my mind, I lifted my head. |
 
 ### ⭐⭐ 进阶
 

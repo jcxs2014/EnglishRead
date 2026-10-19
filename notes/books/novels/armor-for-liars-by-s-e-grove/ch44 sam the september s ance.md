@@ -179,11 +179,11 @@ start_date: 2026-10-19
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| `corresponding` | 降神会 | The spirits they summoned were vague shapes, puppetlike, only somewhat corresponding to human forms. |
+| `corresponding` | 相称的/对应的 | The spirits they summoned were vague shapes, puppetlike, only somewhat corresponding to human forms. |
 | `prophecy` | 预言 | The prophecy of Reynaldo Murcia de Quintanilla |
-| `unleashed` | 释放/ unleashed | She has unleashed the five terrors |
+| `unleashed` | 释放 | She has unleashed the five terrors |
 | `destruction` | 破坏/毁灭 | the destruction wrought by a woman enchanter |
-| `incongruously` | 恐惧的 | It plinked gently, incongruously against the wooden floor. |
+| `incongruously` | 不相称地 | It plinked gently, incongruously against the wooden floor. |
 
 ### ⭐⭐ 进阶
 
@@ -191,7 +191,7 @@ start_date: 2026-10-19
 |---|---|---|
 | `thew` | 灵体奴仆 | spirit thew |
 | `portal` | 传送门 | Only at the portal do they hand over the spirit for binding. |
-| `performances` | 降神会 | It was filled with props from past performances, including a glass harmonica, the papier-mâché head of a horse, and a collection of swords that did little to inspire confidence. |
+| `performances` | 演出 | It was filled with props from past performances, including a glass harmonica, the papier-mâché head of a horse, and a collection of swords that did little to inspire confidence. |
 
 ### ⭐ 基础
 

@@ -137,14 +137,14 @@ start_date: 2026-10-19
 | `middlemen` | 中间人 | mere middlemen |
 | `swindlers` | 骗子 | the swindlers who by their plodding alchemy |
 | `impermeability` | 不可渗透性 | detestable impermeability |
-| `affectionately` | 贪婪 | Between two of them, the stone behemoth affectionately dubbed “Pebbles” disgorged students who had arrived to enroll in their fall courses. |
+| `affectionately` | 亲昵地 | Between two of them, the stone behemoth affectionately dubbed “Pebbles” disgorged students who had arrived to enroll in their fall courses. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | `enchantment` | 附魔 | Quinn had, no doubt, badly overestimated the dead worth required for the enchantment. |
-| `congratulation` | 灵体奴仆 | Enchanters are so certain of their importance, the air of self-congratulation follows them everywhere like an odor, a perfume by turns alluring and asphyxiating. |
+| `congratulation` | 祝贺 | Enchanters are so certain of their importance, the air of self-congratulation follows them everywhere like an odor, a perfume by turns alluring and asphyxiating. |
 | `token` | 信物/法器 | I had no idea what he actually looked like; he was absolutely covered with tokens. |
 
 ### ⭐ 基础

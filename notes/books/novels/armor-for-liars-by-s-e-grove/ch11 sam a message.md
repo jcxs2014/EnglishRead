@@ -143,11 +143,11 @@ start_date: 2026-10-19
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| `disappointment` | 书记/助手 | To my disappointment, not only was the course full, but I learned that you’re now emeritus and no longer teaching.” “That’s true.” Throckmorton looked guardedly interested. |
+| `disappointment` | 失望 | To my disappointment, not only was the course full, but I learned that you’re now emeritus and no longer teaching.” “That’s true.” Throckmorton looked guardedly interested. |
 | `recluse` | 隐士 | confirmed recluse |
 | `ebullient` | 兴高采烈的 | less ebullient as he walked |
 | `pensive` | 沉思的 | a distracted, pensive air |
-| `inexpressibly` | 关切地 | I mean”—he composed himself, adopting a more formal air—“I would be inexpressibly delighted to assist in your research. |
+| `inexpressibly` | 难以言表地 | I mean”—he composed himself, adopting a more formal air—“I would be inexpressibly delighted to assist in your research. |
 
 ### ⭐⭐ 进阶
 
@@ -155,7 +155,7 @@ start_date: 2026-10-19
 |---|---|---|
 | `thew` | 灵体奴仆 | spirit thew |
 | `enchantment` | 附魔 | advanced enchantment |
-| `breastplates` | 遗物 | One windowless wall, entirely covered by bookshelves, had taken on the aspect of an embattled dam: the books were barely visible behind the piles of helmets, shields, and breastplates. |
+| `breastplates` | 胸甲 | One windowless wall, entirely covered by bookshelves, had taken on the aspect of an embattled dam: the books were barely visible behind the piles of helmets, shields, and breastplates. |
 
 ### ⭐ 基础
 

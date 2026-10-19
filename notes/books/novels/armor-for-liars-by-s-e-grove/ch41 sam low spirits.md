@@ -178,7 +178,7 @@ start_date: 2026-10-19
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | `thew` | 灵体奴仆 | There were no textbooks for thews, no courses to guide my first attempts. |
-| `attentiveness` | 传送门 | Gertie was scrubbing potatoes, and Meg was staring at me across the table with disconcerting attentiveness. |
+| `attentiveness` | 专注 | Gertie was scrubbing potatoes, and Meg was staring at me across the table with disconcerting attentiveness. |
 | `case` | 铅盒 | location of the case |
 
 ### ⭐ 基础

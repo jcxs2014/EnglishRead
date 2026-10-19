@@ -141,7 +141,7 @@ start_date: 2026-10-19
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| `illustration` | 灵体奴仆 | He was waiting for me patiently, adding color to an illustration of a bloodroot flower. |
+| `illustration` | 插图 | He was waiting for me patiently, adding color to an illustration of a bloodroot flower. |
 | `stones` | 石头 | She crouched down, making herself small, as small as possible, and the stones kept coming. |
 | `asthmatic` | 哮喘的 | she was having an asthmatic attack |
 
@@ -149,7 +149,7 @@ start_date: 2026-10-19
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| `preoccupation` | 母亲 | She walked a little more slowly than usual, her brow furrowed with preoccupation. |
+| `preoccupation` | 心事/全神贯注 | She walked a little more slowly than usual, her brow furrowed with preoccupation. |
 | `constable` | 警官 | ordinary constable |
 | `run` | 跑 | Clementine broke into a run |
 

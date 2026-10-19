@@ -123,7 +123,7 @@ start_date: 2026-10-19
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | `mother` | 母亲 | Dear Mother |
-| `infinitely` | 降神会 | It seems to me that this world is false, an illusion conjured to conceal the real world, the truth of a world filled infinitely with death. |
+| `infinitely` | 无限地 | It seems to me that this world is false, an illusion conjured to conceal the real world, the truth of a world filled infinitely with death. |
 
 ## 一句话总结
 

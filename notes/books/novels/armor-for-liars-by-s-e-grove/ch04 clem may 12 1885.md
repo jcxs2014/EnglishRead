@@ -127,7 +127,7 @@ start_date: 2026-10-19
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| `administer` | 欺骗的 | More than two years ago, when he was called to Commonwealth University to administer a language exam. |
+| `administer` | 施行/管理 | More than two years ago, when he was called to Commonwealth University to administer a language exam. |
 | `helpless` | 无助的 | we are helpless |
 
 ### ⭐ 基础

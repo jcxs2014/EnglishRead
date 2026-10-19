@@ -143,9 +143,9 @@ start_date: 2026-10-19
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| `the wall` | 墙壁（spirit realm 的 wall） | Sam: The Wall |
+| `the wall` | 墙壁（spirit realm 的那道墙） | Sam: The Wall |
 | `tenacity` | 坚韧/毅力 | strength and tenacity |
-| `emphatically` | 心碎 | Is he also helping now?” I shook my head emphatically. |
+| `emphatically` | 断然地 | Is he also helping now?” I shook my head emphatically. |
 | `corazón` | 心（西班牙语） | corazón, a strength and openness of heart |
 
 ### ⭐⭐ 进阶
@@ -153,7 +153,7 @@ start_date: 2026-10-19
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | `thew` | 灵体奴仆 | spirit thew |
-| `lamentations` | 传送门 | The Oaring was closer now, and its dreadful lamentations obliterated all other sound. |
+| `lamentations` | 哀号 | The Oaring was closer now, and its dreadful lamentations obliterated all other sound. |
 | `mooring line` | 系泊绳 | blue mooring line |
 
 ### ⭐ 基础

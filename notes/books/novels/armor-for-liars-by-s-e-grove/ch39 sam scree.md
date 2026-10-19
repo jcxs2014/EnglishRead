@@ -171,13 +171,13 @@ start_date: 2026-10-19
 | `soporific` | 催眠的/使人昏昏欲睡的 | sweet, soporific embrace |
 | `diaphanous` | 薄如蝉翼的/透明的 | tugging the diaphanous substance into the open case |
 | `corporeal` | 有形的/肉体的 | they become corporeal |
-| `understandable` | 哀悼/悲叹 | Their understandable terror of the scree prevents spirits from examining the beings—if so they are—more closely. |
+| `understandable` | 可以理解的 | Their understandable terror of the scree prevents spirits from examining the beings—if so they are—more closely. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| `contentment` | 灵体奴仆 | I had such a sense of calm and contentment that I hadn’t experienced since arriving in the realm—no, since well before that. |
+| `contentment` | 满足 | I had such a sense of calm and contentment that I hadn’t experienced since arriving in the realm—no, since well before that. |
 | `portal` | 传送门 | She was a small thing compared to me, but she’d taken me all the way to the portal. |
 | `shroud` | 裹尸布/外壳 | pull off the shroud |
 

@@ -134,14 +134,14 @@ start_date: 2026-10-19
 | `summoning` | 召唤/降神 | Sam: Summoning |
 | `residues` | 残留物/痕迹 | on the day the residues vanished |
 | `impassivity` | 无动于衷/冷漠 | mired in a state of impassivity |
-| `inadvertently` | 冒险/前往 | When she did—perhaps inadvertently—think of Rosetta, it was always the same way: looking happy, holding hands with Walter on the steps of a grand estate. |
+| `inadvertently` | 不经意地 | When she did—perhaps inadvertently—think of Rosetta, it was always the same way: looking happy, holding hands with Walter on the steps of a grand estate. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | `thew` | 灵体奴仆 | spirit thew |
-| `interrogation` | 传送门 | Most spirits have no inclination to appear among us briefly, much less for the kind of interrogation practiced at the Grand Séance every month at the Salem Lyceum. |
+| `interrogation` | 讯问 | Most spirits have no inclination to appear among us briefly, much less for the kind of interrogation practiced at the Grand Séance every month at the Salem Lyceum. |
 | `summoning` | 召唤/降神 | summoning |
 
 ### ⭐ 基础
@@ -149,7 +149,7 @@ start_date: 2026-10-19
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | `spirit` | 灵体 | spirit realm |
-| `uncomfortable` | 降神会 | “Of course we do, Bess!” I had the uncomfortable sensation, as the spirit of Bess looked over my shoulder, that I was serving as a kind of window between the spirit realm and Keel House. |
+| `uncomfortable` | 不适的 | “Of course we do, Bess!” I had the uncomfortable sensation, as the spirit of Bess looked over my shoulder, that I was serving as a kind of window between the spirit realm and Keel House. |
 | `realm` | 领域/王国 | spirit realm |
 
 ## 一句话总结

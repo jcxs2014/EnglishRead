@@ -105,7 +105,7 @@ start_date: 2026-10-19
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | `thew` | 灵体奴仆 | wish to become a thew |
-| `cisne` | 天鹅（Cisneros Society 的 symbol） | strike at the cisne's heart |
+| `cisne` | 天鹅（Cisneros Society 的标记） | strike at the cisne's heart |
 
 ### ⭐ 基础
 

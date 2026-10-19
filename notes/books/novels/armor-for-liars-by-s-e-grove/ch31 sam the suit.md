@@ -144,16 +144,16 @@ start_date: 2026-10-19
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | `the suit` | 装甲/套装 | Sam: The Suit |
-| `Morder` | 摩尔多（Clem 的 enchantment spell） | Morder |
-| `Armar` | 阿尔马（Clem 的 enchantment spell） | Armar |
-| `Cuidar` | 库达尔（Clem 的 enchantment command） | Cuidar |
+| `Morder` | 摩尔多（Clem 的咒语） | Morder |
+| `Armar` | 阿尔马（Clem 的咒语） | Armar |
+| `Cuidar` | 库达尔（Clem 的命令） | Cuidar |
 | `uncanny` | 离奇的/不可思议的 | Uncanny |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| `acknowledging` | 灵体奴仆 | Clementine nodded, as if acknowledging my acceptance. |
+| `acknowledging` | 承认/认可 | Clementine nodded, as if acknowledging my acceptance. |
 | `armor` | 装甲 | The suit of armor bowed smoothly |
 | `bone` | 骨 | Clem withdrew the bone from the sabaton and held it up to her face, scrutinizing its shape. |
 

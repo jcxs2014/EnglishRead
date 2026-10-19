@@ -109,7 +109,7 @@ start_date: 2026-10-19
 |---|---|---|
 | `verdict` | 裁决/判决 | I have reached a verdict |
 | `commensurate` | 相称的/相当的 | a task commensurate to the situation |
-| `meritless` |无 merit 的 | the claims of fraud are meritless |
+| `meritless` | 站不住脚的/无理由的 | the claims of fraud are meritless |
 | `proprietary` | 专有的/私有的 | The Boston portal is proprietary |
 | `errand of doom` | 死亡任务 | find another portal for your errand of doom |
 

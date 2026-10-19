@@ -154,7 +154,7 @@ start_date: 2026-10-19
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | `thew` | 灵体奴仆 | spirit thew |
-| `comprehending` | 装甲 | I followed rapidly, still not comprehending; Clem was already running toward the corner. |
+| `comprehending` | 理解 | I followed rapidly, still not comprehending; Clem was already running toward the corner. |
 
 ### ⭐ 基础
 

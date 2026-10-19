@@ -143,7 +143,7 @@ start_date: 2026-10-19
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| `correspondence` | 书记/助手 | Back in Salem, a young nanny sang to a fussy child, cooling the infant with a paper fan, and Constable Roy Maxwell worked through a pile of paperwork and correspondence. |
+| `correspondence` | 通信/往来信件 | Back in Salem, a young nanny sang to a fussy child, cooling the infant with a paper fan, and Constable Roy Maxwell worked through a pile of paperwork and correspondence. |
 | `fixation` | 固执/执念 | A fixation of fury, or concern, or love |
 | `vindictiveness` | 报复心 | the necessary vindictiveness |
 | `monopolizing` | 垄断 | monopolizing portals |
@@ -161,7 +161,7 @@ start_date: 2026-10-19
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| `satisfactorily` | 遗物 | For reasons no enchanter has satisfactorily explained, thews are unable to manipulate lead.” “But how does the receptacle work? |
+| `satisfactorily` | 令人满意地 | For reasons no enchanter has satisfactorily explained, thews are unable to manipulate lead.” “But how does the receptacle work? |
 | `armor` | 装甲 | opened the armor |
 | `manuscript` | 手稿 | This manuscript won't change the circumstances |
 

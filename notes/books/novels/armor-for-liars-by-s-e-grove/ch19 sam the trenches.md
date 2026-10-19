@@ -143,7 +143,7 @@ start_date: 2026-10-19
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| `unpleasantness` | 书记/助手 | “How are you?” “I’m well, thank you.” “I hope you’ve overcome yesterday’s unpleasantness,” he said, eyes glinting. |
+| `unpleasantness` | 不愉快 | “How are you?” “I’m well, thank you.” “I hope you’ve overcome yesterday’s unpleasantness,” he said, eyes glinting. |
 | `spiritoscope` | 灵体交流器 | It was a spiritoscope |
 | `proprietary` | 所有的/专有的 | permanently proprietary air |
 | `incongruous` | 不协调的 | Her thoughts are an incongruous jumble |
@@ -154,7 +154,7 @@ start_date: 2026-10-19
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | `thew` | 灵体奴仆 | spirit thew |
-| `indeterminate` | 传送门 | But then, instead of continuing, he rose slowly to his feet and stared across the room at some indeterminate point. |
+| `indeterminate` | 不确定的 | But then, instead of continuing, he rose slowly to his feet and stared across the room at some indeterminate point. |
 | `truncheon` | 警棍 | Then he sat on the little bench by the door to lace his boots; he donned his hat, took up his truncheon, and placed the Ovid in his coat pocket. |
 
 ### ⭐ 基础

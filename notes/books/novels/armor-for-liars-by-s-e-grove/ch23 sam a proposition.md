@@ -145,7 +145,7 @@ start_date: 2026-10-19
 |---|---|---|
 | `proposition` | 提议/方案 | Sam: A Proposition |
 | `eluding` | 逃避/躲避 | both of the things I need are still eluding me |
-| `disconsolately` | 不协调的 | “Good day!” He watched them disappear through the door and then stood for some time, muttering to himself disconsolately and rapping his knuckles on his forehead. |
+| `disconsolately` | 沮丧地 | “Good day!” He watched them disappear through the door and then stood for some time, muttering to himself disconsolately and rapping his knuckles on his forehead. |
 | `enchanter` | 附魔者 | female enchanter |
 | `portal` | 传送门 | Unfortunately, the locations of both the case and the portal were highly guarded secrets. |
 

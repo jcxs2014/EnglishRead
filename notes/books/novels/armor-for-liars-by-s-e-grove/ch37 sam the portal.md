@@ -111,7 +111,7 @@ start_date: 2026-10-19
 | `Sor Juana Alliance` | 索尔·胡安娜联盟 | We are the Sor Juana Alliance |
 | `imperil` | 危害/危及 | I won't allow you to imperil that |
 | `renowned` | 著名的/声名远播的 | an ancient and renowned society |
-| `distractedly` | 不安的/尴尬的 | What could we possibly do?” Clementine paced to Rosetta’s desk and rested a hand briefly, distractedly, on the back of her sister’s chair. |
+| `distractedly` | 心不在焉地 | What could we possibly do?” Clementine paced to Rosetta’s desk and rested a hand briefly, distractedly, on the back of her sister’s chair. |
 
 ### ⭐⭐ 进阶
 

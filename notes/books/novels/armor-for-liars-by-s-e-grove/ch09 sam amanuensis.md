@@ -152,7 +152,7 @@ start_date: 2026-10-19
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| `indecipherable` | 灵体奴仆 | With this last variety he showed a remarkable patience, seeming to accept them for what they were: indecipherable, but somehow still important. |
+| `indecipherable` | 难以辨认的 | With this last variety he showed a remarkable patience, seeming to accept them for what they were: indecipherable, but somehow still important. |
 | `truncheon` | 警棍 | thin, pewter truncheon |
 | `loom` | 织布机/出现 | locket |
 

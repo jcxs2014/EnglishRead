@@ -108,7 +108,7 @@ start_date: 2026-10-19
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | `abominable` | 可憎的/可恶的 | these abominable murders |
-| `peril` | 危险/ peril | other women's lives are in peril |
+| `peril` | 危险 | other women's lives are in peril |
 | `vengeance` | 复仇 | stop at nothing to seek vengeance |
 | `refuge` | 避难所/庇护 | find refuge even by fleeing Salem |
 
