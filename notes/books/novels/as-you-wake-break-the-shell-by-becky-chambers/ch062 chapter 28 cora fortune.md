@@ -63,7 +63,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：两人身体的契合——严丝合缝。
 
-> **原句 6:** "I loved everything about last night," Signy said. "I want to do that again, and I want to see more of you. Do you want the same?"
+> **原句 6:** "I loved everything about last night,” she said. "I want to do that again, and I want to see more of you. Do you want the same?"
 
 **中文理解**：对方的宣告——昨晚的一切她都很喜欢；她想再来一次，也想更多地见到对方；问对方是否也一样。
 
@@ -133,11 +133,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：两人的共识——柠檬纸杯蛋糕垫底。
 
-> **原句 13:** "It's Vanilla Sunrise," she said at last. "I'm told that's the best."
+> **原句 13:** "“It’s porridge powder,” she said. “There’s nothing good about it.”"
 
 **中文理解**：对方最终的选择——要香草日出；听说那个最好。
 
-**关键词**：Vanilla Sunrise / I'm told that's the best
+**关键词**：I'm told that's the best
 
 **为什么这样写**：把 Signy 的选择写成“I'm told that's the best”——她的谦逊；“at last”写出她的斟酌。
 
@@ -161,8 +161,8 @@ modified: "2026-10-19"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| porridge | 粥 | "Vanilla Sunrise" (porridge flavor) |
-| kettle | 水壶 | "put the kettle on" |
+| porridge | 粥 | "porridge" |
+| kettle | 水壶 | "kettle" |
 
 ## 一句话总结
 

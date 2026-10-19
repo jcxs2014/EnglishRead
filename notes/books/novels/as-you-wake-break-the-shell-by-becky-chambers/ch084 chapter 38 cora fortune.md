@@ -23,17 +23,17 @@ modified: "2026-10-19"
 
 **读者视角提示**：老人的拟音艺术——鲸鱼的声音是想象力的创造（ch019 提过那档节目）。
 
-> **原句 2:** "Well, I'd love to give it a listen," Cora remarked on Otto's herd of wild rorquals. "You could've gone with a heartbeat, though."
+> **原句 2:** "Well, I’d love to give it a listen,” Cora remarked on Otto’s herd of wild rorquals. He, too, was a kick. “You could’ve gone with a he"
 
 **中文理解**：对方的回应——她很想听一听；不过你也可以用心跳声啊。
 
-**关键词**：I'd love to give it a listen / You could've gone with a heartbeat
+**关键词**：I'd love to give it a listen
 
 **为什么这样写**：把这份回应写成“很想听一听”——写出她的兴趣；“你也可以用心跳声”写出她知道鲸鱼的心跳是什么样。
 
 **读者视角提示**：对方的知识——鲸鱼的心跳（ch039 提过大约每分钟一两次）。
 
-> **原句 3:** "They've got five hearts," Cora said. "But, they're not hearts like ours. Different structure, different tissues. Same basic idea, though. Pumps nutrients around and clears the junk out."
+> **原句 3:** "They’ve got five hearts,” Cora said. She set down her dough ball on the baking sheet. It was so easy to tell hers (wobbly, uneven) from his (uniform, perfect). “But, they’re not hearts like ours. Different structure, different tissues. Same basic idea, though. Pumps nutrients around and clears the junk out."
 
 **中文理解**：对方讲的鲸鱼解剖——五颗心脏；不像我们这样的心脏；不过基本原理差不多。
 
@@ -83,7 +83,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：那款指纹饼干——是外婆的食谱，经由丈夫的父亲传下来。
 
-> **原句 8:** "Corr didn't know anyone who hadn't lost someone—a lot of someones, usually. Death in the Berth was regular as rain. But the thing that was always hard to guess at was how a person wanted to be about it."
+> **原句 8:** "Cora didn’t know anyone who hadn’t lost someone—a lot of someones, usually. Death in the Berth was regular as rain. But the thing that was always hard to guess at was how a person wanted to be about it."
 
 **中文理解**：对方的观察——在这里，死亡像下雨一样寻常；而每个人想怎么面对它，是自己的事。
 
@@ -103,7 +103,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：对方的得体——在眼泪之后给老人递了个台阶。
 
-> **原句 10:** "Oh my god, would you?" / "No dessert for you, young lady," he snapped. "You spit that dough right back out."
+> **原句 10:** "Oh my god, would you?"
 
 **中文理解**：老人的兴奋——天哪，你肯吗？接着打趣说，小姑娘，那就不给你甜点了。
 
@@ -113,31 +113,31 @@ modified: "2026-10-19"
 
 **读者视角提示**：老人的热情——想录下鲸鱼的心跳。
 
-> **原句 11:** "Cora, at last!" Otto said jubilantly, leaning on his cane and hugging her with his free arm."
+> **原句 11:** "He called me this morning and asked me if I wanted to help get dinner ready before you closed the shop."
 
-**中文理解**：老人的问候——Cora，你可算来了——喊得兴高采烈。
+**中文理解**：Cora 解释——Otto 今早打电话请她来帮忙准备晚餐。
 
-**关键词**：Cora, at last / jubilantly
+**关键词**：He called me this morning
 
-**为什么这样写**：把 Otto 的问候写成“Cora, at last!”——他的热情；“jubilantly”写出他的喜悦。
+**为什么这样写**：把 Otto 的主动写成“called me this morning”——他的热情；写出他对 Cora 的接纳。
 
-**读者视角提示**：老人的热情——见到对方时的那股高兴。
+**读者视角提示**：Otto 的性格——主动邀请 Cora 加入。
 
-> **原句 12:** "Hey, cutie," Cora said. / "Hey, cutie," Otto echoed. / "Back off, bud, you're not her type."
+> **原句 12:** "Hey, cutie," Cora said."
 
 **中文理解**：三人的打趣——嗨，小可爱；嗨，小可爱，老人跟着学；对方回敬说，退后点老兄，你不是她的菜。
 
-**关键词**：Hey, cutie / Back off, bud, you're not her type
+**关键词**：Hey, cutie
 
 **为什么这样写**：把他们的相处写成一来一回的打趣——对方先喊“小可爱”，老人跟着学，对方再回敬一句“退后点老兄，你不是她的菜”。
 
 **读者视角提示**：三人之间的相处——这种打趣式的斗嘴。
 
-> **原句 13:** "Why does Cora get to help?" Signy demanded. "I have spent years trying to get you to sit your arthritic ass down—" / "Because you didn't want to," Otto said. "You were being polite. I could tell. You don't cook for yourself, you don't like it."
+> **原句 13:** "“Why does Cora get to help?” she demanded. "I have spent years trying to get you to sit your arthritic ass down—"
 
 **中文理解**：她的吃味——凭什么她就能来帮忙？我劝你这条老寒腿坐下都劝了这么多年；老人答：因为你不想做。
 
-**关键词**：Why does Cora get to help / I have spent years trying to get you to sit your arthritic ass down / Because you didn't want to
+**关键词**：Why does Cora get to help / I have spent years trying to get you to sit your arthritic ass down
 
 **为什么这样写**：把这份吃味写成“凭什么她就能帮忙”——这是她的意外；老人那句“因为你不想做”写出他的洞察：她不愿下厨，而对方愿意。
 
@@ -153,11 +153,14 @@ modified: "2026-10-19"
 
 **读者视角提示**：她为对方辩护——不是瘦，是裙子太宽松。
 
-> **原句 15:** "I am finding," Signy said, hitting each word hard, "some music." / "Do you think we're in trouble?" Otto whispered. / "Nah," Cora whispered back. "But if we are, you're gonna have to let me crash on the couch."
+> **原句 15:** "I am finding," Signy said, hitting each word hard, "some music."
+
+
+“Na / "Nah," Cora whispered back. "But if we are, you're gonna have to let me crash on the couch."
 
 **中文理解**：她说自己去找点音乐放；老人问，你觉得我们是不是闯祸了；对方答：不会，不过你得让我在沙发上睡一晚。
 
-**关键词**：I am finding some music / Do you think we're in trouble / you're gonna have to let me crash on the couch
+**关键词**：I am finding some music
 
 **为什么这样写**：把这次退场写成“我去找点音乐”——这是她的逃离；老人那句“我们是不是闯祸了”写出他的担心；对方说“你得让我睡沙发”写出她的幽默。
 
@@ -182,7 +185,6 @@ modified: "2026-10-19"
 | 词条 | 释义 | 例句 |
 |------|------|------|
 | thumbprint cookies | 拇指饼干 | "These are his grandmother Lissa's thumbprint cookies" |
-| Foley artist | 音效师 | (ch019, ch031) |
 
 ## 一句话总结
 

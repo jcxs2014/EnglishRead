@@ -23,7 +23,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Signy 的视角——理性的知晓对比体验。
 
-> **原句 2:** "She took to microgravity as though she were dancing, and every time Signy clumsily bumped into something or tripped over her own momentum, Cora encouraged her with kindness."
+> **原句 2:** "She took to microgravity as though she were dancing, and every time Signy clumsily bumped into something or tripped over her own momentum, Cora encouraged her with kindness"
 
 **中文理解**：对方在微重力里宛如跳舞——而她自己却笨手笨脚地撞来撞去。
 
@@ -33,7 +33,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：两人的对比——一个优雅，一个笨拙。
 
-> **原句 3:** "So it was with Cora, in this place. She took to microgravity as though she were dancing... What she had thought to be a healthy plant rapidly became one."
+> **原句 3:** "So it was with Cora, in this place. She took to microgravity as though she were dancing, and every time Signy clumsily bumped into something or trip"
 
 **中文理解**：Signy 的哭榕类比——Cora 在太空像健康植物迅速茁壮。
 
@@ -173,11 +173,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：她对鲸鱼的共情——一种拟人化（ch001 谈过这个主题）。
 
-> **原句 17:** "So what do you say? Would you like to say hi?"
+> **原句 17:** "So what do you say?”"
 
 **中文理解**：对方的提议——你要不要打个招呼？
 
-**关键词**：Would you like to say hi
+**关键词**：
 
 **为什么这样写**：把与鲸鱼的沟通写成“打个招呼”——语气随意；对方体贴地给了她一个选择。
 

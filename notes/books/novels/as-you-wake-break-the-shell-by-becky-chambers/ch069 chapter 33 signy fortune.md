@@ -103,11 +103,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：这株矮生可可——品质不输槽培，甚至更好。
 
-> **原句 10:** "Ingredients: 2 Tbsp. cocoa powder / 1–2 Tbsp. beet sugar or sorghum crystals / 1 cup of milk (oat tends to work best) / Small splash of vanilla flavoring / Pinch of salt"
+> **原句 10:** "Ingredients: 2 Tbsp. cocoa powder"
 
 **中文理解**：热巧克力食谱——可可粉、甜菜糖或高粱糖、燕麦奶、香草和盐。
 
-**关键词**：cocoa powder / beet sugar or sorghum / milk (oat tends to work best) / vanilla / salt
+**关键词**：cocoa powder
 
 **为什么这样写**：把 recipe 写成原料清单——厨房主管的食谱；“oat tends to work best”写出她的偏好。
 

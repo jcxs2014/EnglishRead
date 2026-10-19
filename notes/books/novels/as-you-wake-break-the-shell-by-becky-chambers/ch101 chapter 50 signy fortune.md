@@ -103,11 +103,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：她说的度假——像老电影里那样，塞个包就去一个新地方。
 
-> **原句 10:** "Do you wanna come to the stables with me, for my preflight next week?" / "Sure, all right." / "No, I'm being serious." / "And do . . . what?" / "Look at stars. Say hi to Colibri. Make out in micrograv. Drink chicory from a tube." Cora stroked Signy's cheek. "Not be here."
+> **原句 10:** "Do you wanna come to the stables with me, for my preflight next week?""
 
 **中文理解**：对方的邀请——下周我做飞行前准备，你要不要跟我去那片停泊区？看星星，跟鲸鱼打个招呼，在微重力里亲热，从管子里喝菊苣；就是不待在这儿。
 
-**关键词**：Do you wanna come to the stables with me / Look at stars / Say hi to Colibri / Make out in micrograv / Drink chicory from a tube / Not be here
+**关键词**：Do you wanna come to the stables with me
 
 **为什么这样写**：把这份邀请写成“看星星，跟鲸鱼打个招呼，在微重力里亲热，从管子里喝菊苣”——这是她列的一串；“就是不待在这儿”写出她想逃开的愿望。
 

@@ -83,7 +83,6 @@ modified: "2026-10-19"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| misconception | 误解 | "It's a common misunderstanding" |
 | innate | 天生的 | "an innate sense of linear time" |
 
 ## 一句话总结

@@ -63,7 +63,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：鲸鱼作为劳力——负责运输和采矿。
 
-> **原句 6:** "Do you ever think about how all our water comes from the moons? Every time you have a cup of something, every time you cook, every time you take a shower—moon ice. It's all moon ice! And it gets pulled along by these things."
+> **原句 6:** "“Do you ever think about how all our water comes from the moons?” He gestured to his mug, which he was holding against his left knee so as to let the warmth soothe the ache. “Every time you have a cup of something, every time you cook, every time you take a shower—moon ice. It's all moon ice! And it gets pulled along by these things."
 
 **中文理解**：老人的观察——所有的水都来自卫星，由鲸鱼一路拉过来。
 
@@ -123,7 +123,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：骑手与鲸鱼的沟通——基于思想，而非言语。
 
-> **原句 12:** "Mindbleed affects approximately one out of twenty-five rorqual pilots. The risk increases with the cumulative amount of time spent in the saddle."
+> **原句 12:** "Mindbleed affects approximately one out of twenty-five rorqual pilots. The risk increases with the cumulative amount of time spent in the saddle"
 
 **中文理解**：心语的发生率——每二十五人里有一例；风险随累计骑行时间上升。
 

@@ -93,7 +93,7 @@ modified: "2026-10-19"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| colony | 殖民地 | "establish colonies" |
+| colony | 殖民地 | "colony" |
 | innovation | 创新 | "Necessity drives innovation" |
 
 ## 一句话总结

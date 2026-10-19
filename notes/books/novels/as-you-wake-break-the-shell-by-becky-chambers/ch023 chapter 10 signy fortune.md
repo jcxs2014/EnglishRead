@@ -43,7 +43,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Signy 的团队——机器人与几名学徒。
 
-> **原句 4:** "Much as Signy liked to have her own space, her own curated peace and quiet, she did love the energy of a garden full of sweating, bustling people."
+> **原句 4:** "Much as Signy liked to have her own space, her own curated peace and quiet, she did love the energy of a garden full of sweating, bustling people"
 
 **中文理解**：Signy 虽喜欢独处的空间与精心营造的安静，却也爱一座满是流汗、忙碌之人的花园的活力。
 

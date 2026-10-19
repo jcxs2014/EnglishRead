@@ -143,17 +143,17 @@ modified: "2026-10-19"
 
 **读者视角提示**：Twig 的失踪——留下手机/电脑、无新号码/地址。
 
-> **原句 14:** "Because you don't need this right now." / "What?" Signy blinked. "Why are you sorry?" / "Because you're dealing with so much—" / "And you're not?" They couldn't see each other, but even so, Signy squinted at Cora like she was an idiot. "So, what, you can help me, but I can't help you?"
+> **原句 14:** "Because you don't need this right now.""
 
 **中文理解**：她对道歉的回应——怎么，你能帮我，我就不能帮你吗？
 
-**关键词**：So, what, you can help me, but I can't help you
+**关键词**：what, you can help me, but I can't help you
 
 **为什么这样写**：把 Signy 的回应写成“So, what, you can help me, but I can't help you?”——她的相互；“They couldn't see each other, but even so, Signy squinted at Cora like she was an idiot”写出她的无奈。
 
 **读者视角提示**：她的相互原则——也关心对方，能帮上就帮。
 
-> **原句 15:** "Can you get into her phone?" Signy asked. / "I tried," Cora said, "but I can't. I think I know her computer password, but I—I'm in a fucking service hallway, I can't—" / "Come to the shop and I'll call Sam," she said. "She'll be able to talk us through it."
+> **原句 15:** "Can you get into her phone?" Signy asked."
 
 **中文理解**：她的计划——来店里，我给 Sam 打电话；那位会破解手机和电脑。
 

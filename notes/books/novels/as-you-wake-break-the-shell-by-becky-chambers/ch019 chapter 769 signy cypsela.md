@@ -93,7 +93,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Cora 是她的社交催化剂——正是这份推动让 Signy 愿意走出花园。
 
-> **原句 9:** "Signy considered this possibility. 'I don't know . . .'"
+> **原句 9:** "Signy considered this possibility. “I don’t know"
 
 **中文理解**：Signy 犹豫——"I don't know . . ."是她对离开花园的抵抗。
 
@@ -103,7 +103,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Signy 的社交电量焦虑在本章首次被明确点出。
 
-> **原句 10:** "Cora nudged her. 'You like her skyroom.'"
+> **原句 10:** "Cora nudged her. “You like her skyroom"
 
 **中文理解**：Cora 轻推她——"You like her skyroom"是精确的读心。
 
@@ -143,7 +143,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：本章以"接受"结束——Signy 的弧线完成一个微小但重要的转折。
 
-## 词汇
+## 本章词汇
 
 | 单词 / 短语 | 音标 | 词性 | 含义 | 用例 |
 |---|---|---|---|---|

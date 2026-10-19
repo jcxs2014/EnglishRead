@@ -23,7 +23,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：这份食谱——豆子的选择留有余地。
 
-> **原句 2:** "If you can't get vat-grown spuds, do NOT substitute this with mash powder, it will not work. I suppose you could use cauliflower instead, but it is not going to be the same."
+> **原句 2:** "If you can't get vat-grown spuds,1 do NOT substitute this with mash powder, it will not work. I suppose you could use cauliflower instead, but it is not going to be the same."
 
 **中文理解**：关于土豆的注——千万不要用土豆粉代替；脚注还骂了句去他的槽培，说非索拉斯金土豆不可。
 
@@ -63,11 +63,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：这份食谱——信任读者已有的常识。
 
-> **原句 6:** "Drop spoonfuls of dough straight into the soup. You should have enough dough for fourteen dumplings, ish."
+> **原句 6:** "Drop spoonfuls of dough straight into the soup. You should have enough dough for fourteen dumplings,2 is"
 
 **中文理解**：下饺子——大概十四个左右；脚注里老实交代说他自己做出来总归只有十个十二个。
 
-**关键词**：fourteen dumplings, ish
+**关键词**：fourteen dumplings
 
 **为什么这样写**：把饺子数量写成“大概”——这是老人的随意；脚注里那句“其实只有十个十二个”写出他的诚实。
 
@@ -89,7 +89,7 @@ modified: "2026-10-19"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| ish | 大约/-ish | "fourteen dumplings, ish" |
+| ish | 大约/-ish | "ish" |
 
 ### ⭐⭐ 进阶
 

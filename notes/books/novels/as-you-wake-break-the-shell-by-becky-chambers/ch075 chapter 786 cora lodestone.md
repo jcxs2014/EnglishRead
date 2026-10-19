@@ -57,7 +57,6 @@ modified: "2026-10-19"
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
-| moonlet | 小卫星、微型月球 | Some folks lived on moonlets, like she did |
 | radiation | 辐射 | wasn't enough to shield people from radiation |
 | primate | 灵长类动物 | Mammals and primates were concepts she'd learned in school |
 

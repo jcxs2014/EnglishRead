@@ -63,7 +63,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Signy 的分析——科学的，然后转向关心。
 
-> **原句 6:** "I'm not a doctor. I wasn't even a doctor's daughter, really."
+> **原句 6:** "She wasn’t a doctor. She wasn’t a counselor. She wasn’t even particularly good with people"
 
 **中文理解**：她的自我评估——我不是医生；严格说来，我连医生的女儿都算不上。
 
@@ -133,7 +133,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Signy 的爱——渐进的、织物般的、数月的编织。
 
-> **原句 13:** "Please." / "After a long moment, the lock clicked back."
+> **原句 13:** "Please." / After a long moment, the lock clicked back"
 
 **中文理解**：她说了一声“求你”——过了很久，门锁咔地开了。
 
@@ -202,7 +202,7 @@ modified: "2026-10-19"
 | 词条 | 释义 | 例句 |
 |------|------|------|
 | bathroom | 浴室 | "bathroom door" |
-| colors | 颜色 | "I can't find the colors" |
+| colors | 颜色 | "colors" |
 
 ## 一句话总结
 

@@ -43,7 +43,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：对方的钦佩——她扛得住整天这么吃。
 
-> **原句 4:** "Twig!" Cora exclaimed. "What are you doing here?" / "You said in your text you were gonna be here, and I'm meeting a friend nearby, so I thought—I dunno, I thought I'd come say hey."
+> **原句 4:** "Twig!" Cora exclaimed. "What are you doing here?""
 
 **中文理解**：妹妹的造访——她想顺便过来打个招呼。
 
@@ -63,7 +63,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：妹妹的欣赏——她很喜欢这家店。
 
-> **原句 6:** "I got a job," Twig said. "Full-time, good pay."
+> **原句 6:** "I got a job," she said. "Full-time, good pay.""
 
 **中文理解**：妹妹的消息——她找到工作了；全职，薪水不错。
 
@@ -123,7 +123,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：妹妹的关心——为老人的病情道歉。
 
-> **原句 12:** "So what happened, did he overdose or something?" / "Yeah, because—jesus, Twig, because he's old, not because he took some bad shit." / "How old?" / "Like, seventy-four, seventy-five?" / "For reals?" / "Yes, for reals!"
+> **原句 12:** "So what happened, did he overdose or something?""
 
 **中文理解**：妹妹的猜测——他是嗑药过量还是怎么的？对方答：是因为他老了，不是因为他吃了什么烂东西。
 

@@ -33,7 +33,10 @@ modified: "2026-10-19"
 
 **读者视角提示**：Cora 的性格——对养不活植物有自知之明。
 
-> **原句 3:** "New friend, or new friend?" Twig asked, chewing."
+> **原句 3:** "New friend, or new friend?”
+
+
+“Just a friend,” Cora s"
 
 **中文理解**：妹妹的提问——是新朋友，还是“新朋友”？——分明带着恋爱的意味。
 
@@ -73,7 +76,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：妹妹最核心的渴望——逃离这里。
 
-> **原句 7:** "I do get that, you know," Cora said. "I never want to come back down, when I'm in the saddle. I would love to fly forever."
+> **原句 7:** "“I never want to come back down, when I’m in the saddle,” she said. “I would love to fly forever."
 
 **中文理解**：姐姐的共情——每次骑上鞍座，她都不想再落地，恨不得永远飞下去。
 
@@ -103,7 +106,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：她的心语发作——感官的崩溃。
 
-> **原句 10:** "She was supposed to see everything, everything, because Colibri could see everything, except Colibri didn't see at all, so that was wrong, too."
+> **原句 10:** "she was supposed to see everything, everything, because Colibri could see everything, except Colibri didn’t see at all, so that was wrong, too"
 
 **中文理解**：她的感知陷入混乱——鲸鱼所感知的与她自己的感知叠在一起，都不对劲。
 
@@ -161,7 +164,6 @@ modified: "2026-10-19"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| mindbleed | 心智出血 | "Cora's mindbleed" |
 | trash can | 垃圾桶 | "shove the trash can under the door handle" |
 
 ## 一句话总结

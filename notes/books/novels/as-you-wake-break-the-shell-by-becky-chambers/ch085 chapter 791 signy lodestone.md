@@ -23,11 +23,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：她理想中的闲聊——只听，不说。
 
-> **原句 2:** "—I'm telling you, it's a great show. And the music is stupid good." / "Y'know, I don't usually go for old radio, but you're making an awfully good case."
+> **原句 2:** "—I'm telling you, it's a great show. And the music is stupid good.""
 
 **中文理解**：对方把一档老广播节目推荐给那人——那期叫“月亮盗窃案”。
 
-**关键词**：stupid good / old radio / awfully good case
+**关键词**：stupid good
 
 **为什么这样写**：把这次推荐写成“好得离谱”——写出她的热情；那人说这理由相当充分，写出她说服人的本事。
 
@@ -63,7 +63,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：孩子对她的称呼——叫成了“小辛”。
 
-> **原句 6:** "Corale swooped in, scooped the now-shrieking kid into her arms, flipped her around, and held her aloft by her ankles."
+> **原句 6:** "Cora swooped in, scooped the now-shrieking kid into her arms, flipped her around, and held her aloft by her ankles."
 
 **中文理解**：对方带孩子——把正尖叫的孩子一把捞进怀里，翻了个身，又拎着脚踝举了起来。
 

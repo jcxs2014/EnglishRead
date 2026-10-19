@@ -13,47 +13,47 @@ modified: "2026-10-19"
 
 ## 精读
 
-> **原句 1:** "If you could put your hand—" / "Here?" / "Mm, maybe a little more—" / "Like this?" / "Yes, right there."
+> **原句 1:** "To anybody else’s eyes, the plant in front of them would have looked like a bell pepper."
 
-**中文理解**：两人一起装架子的对话——你能把手放到——这儿？对，就那儿。
+**中文理解**：在别人眼里，眼前的植物就像个甜椒——可它不只是甜椒。
 
-**关键词**：put your hand / Here? / right there
+**关键词**：looked like a bell pepper
 
-**为什么这样写**：把装架子写成一段协作对话——简短、实用；“对，就那儿”写出两人的配合。
+**为什么这样写**：把 Signy 的作品写成“甜椒的伪装”——药物藏在日常作物里；写出她的隐蔽技术。
 
-**读者视角提示**：两人的协作——一起装架子本身就是亲密。
+**读者视角提示**：她的药剂——藏在农作物外表下。
 
-> **原句 2:** "The screw sank into the wall, holding as steady as its counterpart on the other end of the brackets. Cora let go, took a couple of steps back to assess, and put her hands on her hips. "Looks good!" she said."
+> **原句 2:** "Signy was not in the habit of showing people around her workspace, not unless they lived in an apartment across the street."
 
-**中文理解**：架子完成——“Looks good!”。
+**中文理解**：她不习惯带人参观工作间——除非对方住街对面。
 
-**关键词**：Looks good
+**关键词**：not in the habit of showing people / across the street
 
-**为什么这样写**：把装架子写成一句“看着不错”——这是对方的满意；叉着腰的姿态写出她的得意。
+**为什么这样写**：把 Signy 的封闭写成“不习惯展示”——她的 workspace 是私密的；“across the street”写出 Cora 的特殊地位。
 
-**读者视角提示**：两人的协作——架子装成了。
+**读者视角提示**：她的 workspace——私密与 Cora 的例外。
 
-> **原句 3:** "She was too busy looking at Cora's arms, bared on either side of her tank top. God, it had been lovely to tangle up in those arms, then pin them down easy, then flip the script, then flip it again, and again, an endless mirrored free fall that lasted until the only thing either could manage was sleep."
+> **原句 3:** "Cora peered at the jumble of tubes, motors, and jars."
 
-**中文理解**：她凝视对方的手臂——被那样一双手臂缠住真好，像无止境的镜像自由落体。
+**中文理解**：Cora 瞄着那堆管子、马达和罐子——好奇地探看她的“实验室”。
 
-**关键词**：tangle up in those arms / endless mirrored free fall
+**关键词**：peered at the jumble
 
-**为什么这样写**：把 Signy 的吸引写成“tangle up in those arms”——她的回忆；“endless mirrored free fall”写出他们亲密的强度。
+**为什么这样写**：把 Cora 的好奇写成“peered”——她的探索欲；“jumble”写出 Signy 工具的拼凑感。
 
-**读者视角提示**：她被吸引之处——对方的手臂，以及两人亲密的记忆。
+**读者视角提示**：Cora 对 Signy 工作的好奇——探索她的世界。
 
-> **原句 4:** "Oh, Signy thought with a smirk. Oh, Cora wore that confidence well."
+> **原句 4:** "This is a lab reactor," Signy said."
 
-**中文理解**：她的念头——对方把那份自信穿得真好看。
+**中文理解**：她介绍——这就是一台实验室反应器。
 
-**关键词**：wore that confidence well
+**关键词**：lab reactor
 
-**为什么这样写**：把 Signy 的吸引写成“wore that confidence well”——她的欣赏；“Oh”写出她的意外。
+**为什么这样写**：把她的工具写成“lab reactor”——她把拼凑的设备 dignify 为 reactor；写出她的职业 pride。
 
-**读者视角提示**：她被吸引的地方——对方的自信。
+**读者视角提示**：她的 workspace——把拼凑当 reactor，职业自豪。
 
-> **原句 5:** "This is a lab reactor," Signy said. "Or, well, an approximation of one. It's a machine you use to mix chemical compounds together in controlled amounts."
+> **原句 5:** "This is a lab reactor,” Signy said. She pulled her work stool over and hopped up onto it. “Or, well, an approximation of one. It’s a machine you use to mix chemical compounds together in controlled amounts."
 
 **中文理解**：她的实验反应器——只是近似的一台；用来把化合物按受控的量混合起来。
 
@@ -93,11 +93,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：对方的钦佩——她能自己造出这么一台反应器。
 
-> **原句 9:** "Why is doing this illegal?" / "Because medicine should be made in a sterile lab with oversight. I mix biochemicals in a jam jar I hide in a fertilizer box. Nothing about what I do is okay. It should be illegal."
+> **原句 9:** "Why is doing this illegal?"
 
 **中文理解**：对方的提问——为什么做这些是违法的？她答：药本该在有监管的无菌实验室里制造；我做的事没有一件是对的，本来就该违法。
 
-**关键词**：Why is doing this illegal / medicine should be made in a sterile lab / Nothing about what I do is okay
+**关键词**：Why is doing this illegal
 
 **为什么这样写**：把合法性写成“药本该在有监管的无菌实验室里制造”——这是她的原则；“我做的事没有一件是对的”写出她的自知。
 
@@ -133,11 +133,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：她面临的监管障碍——那类植物只许在农场里种。
 
-> **原句 13:** "Because I'm not doing the same thing. A canvas plant was designed to have genes swapped in and out constantly. That is its purpose. But these—I have fundamentally changed these organisms. Your bell pepper is no longer the same bell pepper included in the Primer. Under the surface, it is tobacco, and I likewise turned that tobacco into a chemical factory. And that is what's not allowed."
+> **原句 13:** "Because I’m not doing the same thing. A canvas plant was designed to have genes swapped in and out constantly. That is its purpose. But these”—Signy gestured broadly at the plant shelf—“I have fundamentally changed these organisms. Your bell pepper is no longer the same bell pepper included in the Primer. Under the surface, it is tobacco, and I likewise turned that tobacco into a chem"
 
 **中文理解**：她的解释——棚架植物只是为替换基因而设计，而她对生物做的是根本改造：把甜椒变成烟草，再变成一座化学工厂。
 
-**关键词**：designed to have genes swapped in and out constantly / fundamentally changed these organisms / chemical factory
+**关键词**：designed to have genes swapped in and out constantly / fundamentally changed these organisms
 
 **为什么这样写**：把合法性写成“从根本上改变了这些生物”——这是她做的区分；“化学工厂”写出改造的程度。
 
@@ -153,7 +153,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：她的幽默——把喝茶和遗传漂变凑成一对。
 
-> **原句 15:** "I don't like tea." / "Why didn't you say so before?" / "Because . . . I like you and I didn't want to—" / "To what? Tell me your preferences?" / "I mean, it sounds bad when you put it that way! I was just being polite."
+> **原句 15:** "I don't like tea.""
 
 **中文理解**：对方的茶坦白——她其实不爱喝茶；因为喜欢对方，不想——；她只是在客气。
 
@@ -173,7 +173,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：她的原则——直接胜过客套。
 
-> **原句 17:** "I think I have a few packs of hot chocolate mix, if you'd like," Signy said. / "I keep them in case I get any kids sheltering here."
+> **原句 17:** "I think I have a few packs of hot chocolate mix, if you'd like," Signy said."
 
 **中文理解**：她的热巧克力——她常备着，万一有孩子来这里避难。
 
@@ -205,13 +205,13 @@ modified: "2026-10-19"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| canvas plants | 画布植物 (OCTA host plant) | "canvas plants were designed to have genes swapped" |
+| canvas plants | 画布植物 (OCTA host plant) | "canvas plants" |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| genetic drift | 基因漂移 | "talking about genetic drift" |
+| genetic drift | 基因漂移 | "genetic drift" |
 | jam jar | 果酱罐 | "it's an old jam jar" |
 
 ## 一句话总结

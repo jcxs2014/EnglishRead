@@ -93,11 +93,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：对方的绝望——妹妹迷了路，而她又非行动不可。
 
-> **原句 9:** "Ms. Marten, you might have to face the possibility that there is nothing left to be done." / "Judging by what you've told us and by our examinations of her telecommunications records, she most likely left the Berth three weeks ago." / "No. No, no, no. Cora shook her head."
+> **原句 9:** "Ms. Marten, you might have to face the possibility that there is nothing left to be done.""
 
 **中文理解**：警察的话——你可能得面对一个可能：已经没什么可做的了；她很可能三周前就离开了这里；对方只是反复说不，不，不。
 
-**关键词**：you might have to face the possibility that there is nothing left to be done / she most likely left the Berth three weeks ago / No. No, no, no
+**关键词**：you might have to face the possibility that there is nothing left to be done / , no, no
 
 **为什么这样写**：把这份评估写成“已经没什么可做的了”——这是他的现实；“三周前”写出时间线；对方反复说不，写出她拒绝接受。
 
@@ -113,11 +113,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：警察的评估——三周在地表＝可能死亡。
 
-> **原句 11:** "Who can I talk to about what goes on out at Sucker's Luck? There must be somebody who monitors—monitors launches." / "Uh, well, we don't monitor launches of any type, but I believe the university does" / "Oh. Shit. Yes, Cora did have an in there, maybe. Not directly, but she knew who would know."
+> **原句 11:** "Who can I talk to about what goes on out at Sucker's Luck? There must be somebody who monitors—monitors launches.""
 
 **中文理解**：对方找到的线索——我能找谁问那个地点发生的事？警察答：大学那边或许管；对方心里一动——对，她说不定真有个门路。
 
-**关键词**：Who can I talk to about what goes on out at Sucker's Luck / the university does / Oh. Shit. Yes, Cora did have an in there
+**关键词**：Who can I talk to about what goes on out at Sucker's Luck
 
 **为什么这样写**：把这条线索写成“我能找谁问那个地点的事”——这是她的绝望；“大学那边或许管”写出她的希望；“对，她说不定真有个门路”写出她的醒悟：她认识那边的人。
 
@@ -139,7 +139,6 @@ modified: "2026-10-19"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| hypocrisy | 伪善/虚伪 | "how much of a hypocrite she was" |
 
 ### ⭐⭐ 进阶
 

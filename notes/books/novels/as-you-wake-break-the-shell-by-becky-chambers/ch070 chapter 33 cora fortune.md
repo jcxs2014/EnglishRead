@@ -143,7 +143,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：对方对骑手训练的批评——信任与距离本就是矛盾的。
 
-> **原句 14:** "You chose trust." / "Yes."
+> **原句 14:** "You chose trust.” / “Yes.”"
 
 **中文理解**：她的评估——你选择了信任；对方答了一个“是”。
 
@@ -183,7 +183,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：她的秘密——一株不受束缚的植物，一颗真正的种子（ch011 那句“几乎愿意付出任何代价，只为见到真实的东西”）。
 
-> **原句 18:** "I think I like us." / "I think I do, too."
+> **原句 18:** "I think I like us / I think I do, too"
 
 **中文理解**：收尾——“I think I like us.” / “I think I do, too.”。
 

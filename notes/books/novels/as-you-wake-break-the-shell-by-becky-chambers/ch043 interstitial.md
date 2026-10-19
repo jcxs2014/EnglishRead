@@ -176,14 +176,14 @@ modified: "2026-10-19"
 | 词条 | 释义 | 例句 |
 |------|------|------|
 | pheromones | 信息素 | (ch039) |
-| commonality | 共性 | "We share a commonality" |
+| commonality | 共性 | "commonality" |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
 | warmth and light | 温暖与光 | "Warmth and light. Dance and sky." |
-| saddle | 马鞍 (飞行座舱) | "in the saddle" |
+| saddle | 马鞍 (飞行座舱) | "saddle" |
 
 ## 一句话总结
 

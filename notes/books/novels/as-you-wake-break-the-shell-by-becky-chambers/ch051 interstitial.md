@@ -115,7 +115,6 @@ modified: "2026-10-19"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| chivalric | 骑士的 | "lady's favor" (chivalric term) |
 
 ### ⭐ 基础
 

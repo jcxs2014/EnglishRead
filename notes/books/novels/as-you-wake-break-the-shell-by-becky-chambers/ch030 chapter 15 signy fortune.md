@@ -13,7 +13,7 @@ modified: "2026-10-19"
 
 ## 精读
 
-> **原句 1:** "Cora rubbed her right temple, pressing into it hard with the tip of her thumb. Her mouth was dry from the "vitamin C" she'd chased a tab of ginger with—the third tab she'd taken that day."
+> **原句 1:** "Cora rubbed her right temple, pressing into it hard with the tip of her thumb. Her mouth was dry from the “vitamin C” she’d chased a tab of ginger with—the third tab she’d taken that day"
 
 **中文理解**：Cora 的头痛与服药——“维C”加姜片，这是她当天吃的第三片。
 

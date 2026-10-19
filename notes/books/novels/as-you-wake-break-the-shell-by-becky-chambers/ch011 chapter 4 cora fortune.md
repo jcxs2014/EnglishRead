@@ -33,7 +33,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Cora 的 coping——把 planetside 的不适转化为对 space 的渴望。
 
-> **原句 3:** "But there was no material comfort that could fend off the four volcanoes constantly vomiting outside the crater—Tantrum, Clockwork, Pitchfork, and Bastard."
+> **原句 3:** "But there was no material comfort that could fend off the four volcanoes constantly vomiting outside the crater—Tantrum, Clockwork, Pitchfork, and Bastard"
 
 **中文理解**：Berth 被四座持续喷发的火山包围——Tantrum, Clockwork, Pitchfork, Bastard（原名 Bulwark）。
 
@@ -53,7 +53,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Cora 的 mindbleed secret 是其核心 vulnerability。
 
-> **原句 5:** "Printing medicine outside of a licensed medical facility is illegal."
+> **原句 5:** "Printing medicine outside of a licensed medical facility is illegal"
 
 **中文理解**：Signy 的 first rule——在非许可医疗设施外打印药物违法。
 
@@ -73,7 +73,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Signy 不是 idealist——她承认非法医疗的致命风险。
 
-> **原句 7:** "I have mindbleed."
+> **原句 7:** "I have mindbleed"
 
 **中文理解**：Cora 坦白病情——"mindbleed"，两个字改变一切。
 
@@ -93,7 +93,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Cora 的 Colibri 保护 ethic 是其人物核心。
 
-> **原句 9:** "There isn't a quick way to sum up what she is to me."
+> **原句 9:** "There isn’t a quick way to sum up what she is to me"
 
 **中文理解**：Cora 无法简述 Colibri 对她的意义，但必须保护她。
 

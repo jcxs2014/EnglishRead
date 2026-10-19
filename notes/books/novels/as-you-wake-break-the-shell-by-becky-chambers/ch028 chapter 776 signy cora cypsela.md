@@ -13,11 +13,17 @@ modified: "2026-10-19"
 
 ## 精读
 
-> **原句 1:** "At the most essential level, all forms of sexual reproduction followed the same template."
+> **原句 1:** "At the most essential level, all
+
+
+forms of sexual reproduction
+
+
+followed the same template"
 
 **中文理解**：有性生殖的模板——所有形式都遵循同一套模板。
 
-**关键词**：sexual reproduction / template
+**关键词**：
 
 **为什么这样写**：以“最本质的层面”开场，把生殖写成普适的模式；“模板”一词写出 Signy 设计式的思维。
 

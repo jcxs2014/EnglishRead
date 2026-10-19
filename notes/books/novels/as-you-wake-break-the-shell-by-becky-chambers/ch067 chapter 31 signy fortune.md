@@ -13,7 +13,7 @@ modified: "2026-10-19"
 
 ## 精读
 
-> **原句 1:** "Peel 4 apples. Chop them small until you have 3 cups' worth of apple bits."
+> **原句 1:** "Peel 4 apples. … Chop them small until you have 3 cups’ worth of apple bits."
 
 **中文理解**：食谱开场——削 4 个苹果，切小块至 3 杯的量。
 
@@ -85,7 +85,7 @@ modified: "2026-10-19"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| sorghum | 高粱/高粱糖 | "Sub with beet sugar" (footnote) |
+| sorghum | 高粱/高粱糖 | "sorghum" |
 
 ### ⭐ 基础
 

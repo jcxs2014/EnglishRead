@@ -33,7 +33,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Berth 的社群关怀——毯子作为普遍供给。
 
-> **原句 3:** "Cora wrote her name on the honor system form tacked onto the wall beside the shelf where the kits were kept, letting Red know that yes, she'd taken a kit outside of an emergency."
+> **原句 3:** "Cora wrote her name on the honor system form tacked onto the wall beside the shelf where the kits were kept, letting Red know that yes, she’d taken a kit outside of an emergency"
 
 **中文理解**：Cora 在诚信登记表上写下名字，让 Red 知道她在非紧急情况下取走了一套被褥。
 
@@ -63,11 +63,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：Twig 的情绪——闹别扭、不满。
 
-> **原句 6:** "That meant no. Cora knew better than to ask Twig if she had enough money to get herself something to eat, because undoubtedly she'd already spent it on a ferry ticket and a deep-fried peace offering."
+> **原句 6:** "Cora knew better than to ask Twig if she had enough money to get herself something to eat, because undoubtedly she'd already spent it on a ferry ticket and a deep-fried peace offering."
 
 **中文理解**：Cora 读懂了 Twig 那句“我没事”——那意思是“不行”；而 Twig 把钱都花在了船票和一份油炸的赔礼上。
 
-**关键词**：That meant no / deep-fried peace offering
+**关键词**：deep-fried peace offering
 
 **为什么这样写**：把 Cora 对 Twig 的了解写成“那意思是‘不行’”——她读得出言外之意；“油炸赔礼”四个字写出 Twig 的道歉策略。
 

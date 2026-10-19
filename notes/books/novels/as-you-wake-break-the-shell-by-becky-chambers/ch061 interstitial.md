@@ -50,14 +50,12 @@ modified: "2026-10-19"
 | 词条 | 释义 | 例句 |
 |---|---|---|
 | adaptation path | 适应路径 | Adaptation path: Rubia tinctorum -> Rubia astralis |
-| nomenclature | 命名法 | Species name: Rubia alexandrae |
 
 ### ⭐⭐ 中级
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
 | species | 物种 | Species name: Rubia alexandrae |
-| lineage | 血统、谱系 | Adaptation path: Rubia tinctorum -> Rubia astralis -> Rubia cypsela -> Rubia alexandrae |
 
 ## 一句话总结
 

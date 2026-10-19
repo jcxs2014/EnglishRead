@@ -163,11 +163,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：对方的招架不住——以及鲸鱼的独立，它能自己飞行。
 
-> **原句 16:** "Why do you love? / It is necessary. / How so? / It is the only logical response. / To what? / To existence."
+> **原句 16:** "Why do you love?"
 
 **中文理解**：鲸鱼的爱的哲学——你为什么要爱？因为必须如此。怎么会？因为那是唯一合乎逻辑的回应。对什么？对存在本身。
 
-**关键词**：Why do you love / It is necessary / It is the only logical response / To existence
+**关键词**：Why do you love / It is necessary / To existence
 
 **为什么这样写**：把 Colibri 的爱的哲学写成“It is necessary... To existence”——她的逻辑；“the only logical response”写出她的推理；“To existence”作为终极答案。
 
@@ -192,8 +192,6 @@ modified: "2026-10-19"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| hormone blockers | 激素阻断剂 | "We give them hormone blockers" |
-| mindbleed | 心智出血 | (ch040, ch064) |
 
 ## 一句话总结
 

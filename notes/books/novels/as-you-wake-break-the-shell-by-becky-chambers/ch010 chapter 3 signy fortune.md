@@ -23,7 +23,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Signy 的"不 bothered"是其 coping mechanism。
 
-> **原句 2:** "She wasn't bothered by the possibility of the shop opening late. The shop was hers and hers alone."
+> **原句 2:** "She wasn’t bothered by the possibility of the shop opening late. The shop was hers and hers alone"
 
 **中文理解**：Signy 不担心店开晚——店是她一个人的。
 

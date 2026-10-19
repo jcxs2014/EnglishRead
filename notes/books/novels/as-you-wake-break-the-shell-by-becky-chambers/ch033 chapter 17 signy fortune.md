@@ -43,7 +43,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Cora 就此被提拔为那个可靠的孩子。
 
-> **原句 4:** "Cora had been deemed not only a Big Kid, but a Responsible Kid, and the rush of that promotion conquered any other want."
+> **原句 4:** "But she had been deemed not only a Big Kid, but a Responsible Kid, and the rush of that promotion conquered any other want."
 
 **中文理解**：Cora 同时被认定为大孩子和可靠的孩子——那份被委以重任的兴奋压过了其他所有愿望。
 
@@ -123,7 +123,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Twig 的模式——先否认后承认。
 
-> **原句 12:** "This was the third time this fucking year that Twig had lost her home, and every time, every fucking time, it was for some idiotic reason that of course was never Twig's fault."
+> **原句 12:** "This was the third time this fucking year that Twig had lost her home, and every time, every fucking time, it was for some idiotic reason that of course was never Twig’s fault"
 
 **中文理解**：Twig 的老一套——今年都第三次了；而按她的说法，当然从来不是她的错。
 
@@ -133,7 +133,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Twig 反复出现的不稳定——也成了 Cora 的负担。
 
-> **原句 13:** "Goddammit. / Cora let out one prolonged exhale all the way over to the front desk."
+> **原句 13:** "Goddammit. / Cora let out one prolonged exhale all the way over to the front desk"
 
 **中文理解**：Cora 的认命——骂了一句，然后长长地叹了口气。
 

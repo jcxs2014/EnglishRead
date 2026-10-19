@@ -73,7 +73,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：她的直接——能一句话终止对话。
 
-> **原句 7:** "I didn't finish university because I didn't need it anymore," Signy said. "Maybe that sounds arrogant. Maybe it is."
+> **原句 7:** "I didn’t finish university because I didn’t need it anymore,” Signy said. She didn’t look at Cora as she spoke. She j"
 
 **中文理解**：她的辍学——没念完大学，因为她不再需要它；也许这话听起来有点狂妄。
 

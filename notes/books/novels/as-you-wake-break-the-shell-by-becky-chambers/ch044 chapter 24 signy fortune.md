@@ -73,11 +73,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：她进入太空的一刻——故土终于松开了手。
 
-> **原句 7:** "She had forgotten this feeling. No longer a nauseous, apathetic ten-year-old, she explored the sensation with more seasoned curiosity."
+> **原句 7:** "No longer a nauseous, apathetic ten-year-old, she explored the sensation with more seasoned curiosity."
 
 **中文理解**：她重新发现的感觉——这种久违的体验，是一种更成熟的好奇。
 
-**关键词**：forgotten this feeling / more seasoned curiosity
+**关键词**：more seasoned curiosity
 
 **为什么这样写**：把成年的太空体验写成“more seasoned curiosity”——从童年的晕动成长。
 

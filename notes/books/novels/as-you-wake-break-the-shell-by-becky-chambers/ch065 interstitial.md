@@ -50,14 +50,12 @@ modified: "2026-10-19"
 | 词条 | 释义 | 例句 |
 |---|---|---|
 | adaptation path | 适应路径 | Adaptation path: Cyamopsis tetragonoloba -> Cyamopsis astralis -> Cyamopsis cypsela |
-| nomenclature | 命名法 | Species name: Cyamopsis cypsela |
 
 ### ⭐⭐ 中级
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
 | species | 物种 | Species name: Cyamopsis cypsela |
-| lineage | 血统、谱系 | Adaptation path: Cyamopsis tetragonoloba -> Cyamopsis astralis -> Cyamopsis cypsela |
 
 ## 一句话总结
 

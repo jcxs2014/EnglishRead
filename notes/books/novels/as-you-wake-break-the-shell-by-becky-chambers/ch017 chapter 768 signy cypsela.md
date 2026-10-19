@@ -63,11 +63,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：Cora 的 mechanical skills 与 Signy 的 plant/medicine skills 互补。
 
-> **原句 6:** "I don't know which garden it came from, so—" / "Oh, right. Hm. Shit." / "Yeah, that's gonna be a tomorrow job."
+> **原句 6:** "I don't know which garden it came from, so—""
 
 **中文理解**：bee 的 garden origin 不明，Cora 判断为"tomorrow job"。
 
-**关键词**：tomorrow job
+**关键词**：
 
 **为什么这样写**：把任务推迟写出 Cora 的 pragmatism；"shit"的 casualness 写出他们的 ease。
 

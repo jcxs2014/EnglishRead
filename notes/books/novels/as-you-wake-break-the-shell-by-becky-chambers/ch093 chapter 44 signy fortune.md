@@ -43,11 +43,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：她的预见——老人的死正在临近。
 
-> **原句 4:** "I don't know," Otto said with the slightest nod of his head. "I just like to think he buys cupcakes for his kids on Tuesdays." / "How do you know he has kids?" Signy asked. / Otto smiled. "I don't know," he said. "I just like to think he buys cupcakes for his kids on Tuesdays."
+> **原句 4:** "“Yes,” Otto said with the slightest nod of his head. “He always buys a box of cupcakes on Tuesdays.""
 
 **中文理解**：老人的话——他就是愿意想着那人周二会给孩子们买纸杯蛋糕；这是他的虚构。
 
-**关键词**：I just like to think he buys cupcakes for his kids on Tuesdays
+**关键词**：
 
 **为什么这样写**：把 Otto 的观察写成“I just like to think”——他的虚构；“kids on Tuesdays”写出他想象式的关心。
 
@@ -63,11 +63,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：老人的拟音师身份——为叙事去编辑现实。
 
-> **原句 6:** "Where's Henry?" Otto asked. / Signy didn't miss a beat. "He'll be home tomorrow," she said. "He misses you, too."
+> **原句 6:** "Where's Henry?" Otto asked."
 
 **中文理解**：老人问 Henry 呢；她答：他明天就回来；他也很想你。
 
-**关键词**：Where's Henry? / He'll be home tomorrow / He misses you, too
+**关键词**：Where's Henry?
 
 **为什么这样写**：把这份困惑写成“Henry 呢”——这是他的迷失，因为 Henry 已经去世；她那句“他明天就回来”写出她的善意，不去纠正他。
 
@@ -143,7 +143,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Signy 的拒绝——不能停（其他病人需要她）。
 
-> **原句 14:** "Do you think it's only him that I take care of?" / "Well, no, but—" / "I can't," Signy said. "I can't stop." She looked at Arlo's scrubs, their tablet, their nurse's badge. "You understand this. I know you understand this. People need me. I cannot let them slip. I cannot stop."
+> **原句 14:** "Do you think it's only him that I take care of?""
 
 **中文理解**：她的拒绝——有人需要我；我不能让他们滑下去；我不能停。
 
@@ -173,7 +173,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：那位护士的劝说——老人爱她；让她抓住这个出口。
 
-> **原句 17:** "Hey, it's okay. It's okay, it's okay. I'm here. I've got you." / "She rooted herself in Cora's arms, and in the protective chant of words that fell in between the kisses planted across her hair, her forehead, her temples."
+> **原句 17:** "Hey, it’s okay. It’s okay, it’s okay. I’ve got you. I’m here"
 
 **中文理解**：对方的安慰——嘿，没事的，没事的，没事的；我在这儿，有我呢；像一句护佑的咒语。
 

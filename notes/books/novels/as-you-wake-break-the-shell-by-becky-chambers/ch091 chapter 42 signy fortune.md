@@ -103,11 +103,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：她的怀疑——那人说的“很多人”，跟那些空置的好公寓对不上。
 
-> **原句 10:** "It's an emergency." / "What is it?" / "It's Otto," Ramona replied, her voice cracking. "It's his heart."
+> **原句 10:** "It's an emergency.""
 
 **中文理解**：那通电话——出事了；是 Otto；是他的心脏。
 
-**关键词**：It's an emergency / It's Otto / It's his heart
+**关键词**：It's an emergency
 
 **为什么这样写**：把这通电话写成“是他的心脏”——写出她的急切；“声音都裂了”写出她的慌乱；说的是“是 Otto”而不是“Otto 出事了”，写出那份私人的联结。
 

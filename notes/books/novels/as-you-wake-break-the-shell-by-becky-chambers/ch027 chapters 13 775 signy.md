@@ -93,7 +93,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Signy 的工作沉浸——连穿衣都忘了。
 
-> **原句 9:** "Tweezers?" Cora asked. / "Yes," Signy said.
+> **原句 9:** "Tweezers?" Cora asked.
 
 **中文理解**：Signy 需要镊子；Cora 立刻应声赶来支援。
 

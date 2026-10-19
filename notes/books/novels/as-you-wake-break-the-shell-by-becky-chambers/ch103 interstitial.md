@@ -73,25 +73,25 @@ modified: "2026-10-19"
 
 **读者视角提示**：她对死亡的克制——他老了，这是常理。
 
-> **原句 7:** "I do not like these humans. / I don't like them, either."
+> **原句 7:** "Hello, Colibri."
 
-**中文理解**：鲸鱼说不喜欢这些人；她说她也不喜欢。
+**中文理解**：她向鲸鱼打招呼——“Hello, Colibri.”——开启两人的心语。
 
-**关键词**：I do not like these humans / I don't like them, either
+**关键词**：Hello, Colibri
 
-**为什么这样写**：把两人的立场写成一句附和——它说不喜欢这些人，她说她也不喜欢；这一呼一应写出他们的同频。
+**为什么这样写**：把心语的开场写成一句简单的招呼——“Hello, Colibri.”写出 Cora 对 Colibri 的亲密与日常。
 
-**读者视角提示**：两人的同频——都不喜欢那些人。
+**读者视角提示**：两人的关系——心语如日常问候。
 
-> **原句 8:** "I do not understand the distinction you are making. Are Signy's plants of a different love than friendship? / Yes, I believe so."
+> **原句 8:** "What is what?"
 
-**中文理解**：鲸鱼不明白她做的区分——那些植物是一种与友情不同的爱吗？她答是的，她这么认为。
+**中文理解**：鲸鱼问“what is what?”——它感知到 Cora 的 pain/gravity well，但 Cora 反问。
 
-**关键词**：Are Signy's plants of a different love than friendship / Yes, I believe so
+**关键词**：What is what
 
-**为什么这样写**：把这份困惑写成鲸鱼的追问——它在追问“爱”的边界；她答得简短，却并不确定。
+**为什么这样写**：把两人的交流写成疑问——Colibri 感知到 Cora 的 pain，Cora 反问“什么什么”，写出双方的信息差。
 
-**读者视角提示**：鲸鱼的追问——爱有没有边界。
+**读者视角提示**：两人的交流——感知与语言的错位。
 
 > **原句 9:** "I am merely angry, Colibri. I am charred. I am sobbing spit onto the cold metal floor that I cannot find the will to stand up from despite the stab of it pressing into my paper skin. I am angry at everything."
 

@@ -43,7 +43,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：对方的心语——感官扭曲：过锐、单色。
 
-> **原句 4:** "It's so nice here," she said, looking at the plants surrounding them. "It was kind of silly, leaving the gardens at home to come hang out in a different garden, but it was a different garden."
+> **原句 4:** "It’s so nice here,” she said, looking at the plants surrounding them. It was kind of silly, leaving the gardens at home to come hang out in a different garden, but it was a different garden"
 
 **中文理解**：对方的欣赏——这里真好；把家里的花园丢下，跑来逛另一座花园。
 
@@ -93,11 +93,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：Cora 的亲密——融合生命即特权。
 
-> **原句 9:** "Tell me five kinds of pie," Signy said. / "Strawberry rhubarb, blueberry, apple, peanut butter, and . . . strawberry." / "You already said strawberry." / "Strawberry rhubarb is a whole different situation."
+> **原句 9:** "Tell me five kinds of pie," Signy said."
 
 **中文理解**：她帮对方回到现实的技巧——说五种派；对方数了草莓大黄、蓝莓、苹果、花生酱，还有……草莓；她指出草莓已经说过；对方辩解说草莓大黄完全是另一回事。
 
-**关键词**：Tell me five kinds of pie / Strawberry rhubarb is a whole different situation
+**关键词**：Tell me five kinds of pie
 
 **为什么这样写**：把这个办法写成“说五种派”——这是她的方法；“草莓大黄完全是另一回事”写出对方的辩解。
 

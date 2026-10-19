@@ -83,7 +83,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：她对南瓜的入迷——一种植物学上的好奇。
 
-> **原句 8:** "Please ignore my wife," Signy said. "She hates remembering that plants have organs."
+> **原句 8:** "“Please ignore my wife,” she said. "She hates remembering that plants have organs."
 
 **中文理解**：她说对方讨厌想起植物也有器官这件事。
 

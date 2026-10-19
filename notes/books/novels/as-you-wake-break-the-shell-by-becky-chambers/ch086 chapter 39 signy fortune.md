@@ -33,11 +33,14 @@ modified: "2026-10-19"
 
 **读者视角提示**：她的不确定——对方其实需要陪伴。
 
-> **原句 3:** "It would suck less with a better drink," Signy replied. / "I owe you so big," Cora said. / "You don't owe me anything." / "Bullshit," Cora said. "Name it."
+> **原句 3:** "It would suck less with a better drink," Signy replied.
+
+
+S / "You don't owe me anything." / "Bullshit," Cora said. "Name it."
 
 **中文理解**：两人的交换——我欠你太多了；你什么都不欠我；少来，你说吧。
 
-**关键词**：I owe you so big / You don't owe me anything / Bullshit / Name it
+**关键词**：
 
 **为什么这样写**：把两人的相处写成“我欠你太多了”——这是对方的感激；“你什么都不欠我”写出她的拒绝；“少来，你说吧”写出对方的坚持。
 
@@ -93,11 +96,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：Twig 的轻描淡写对比现实（逃避逮捕）。
 
-> **原句 9:** "Why is she here?" / "Well, y'see," Cora said as she furiously entered her information into the tablet, "we were on our way to get takeout when I got a call from you. She came with me because she's nice and wanted to help, and also because otherwise, I might've fucking murdered you in the middle of a police station."
+> **原句 9:** "Why is she here?""
 
 **中文理解**：对方的解释——我们本来去买外带，你打电话来了；她跟来是因为人好、想帮忙，也因为不然我可能在警局里就把你宰了。
 
-**关键词**：we were on our way to get takeout / She came with me because she's nice and wanted to help / I might've fucking murdered you
+**关键词**：
 
 **为什么这样写**：把这份解释写成“我可能就把你宰了”——这是她的幽默；“她跟来是因为人好”写出对方的关心。
 
@@ -113,7 +116,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：这场争吵——对方拿妹妹无家可归这件事戳她。
 
-> **原句 11:** "You didn't have to come," Twig said. / "Okay? Well? I did." Cora gestured broadly at herself... "I'm here. Where have you been?"
+> **原句 11:** "You didn't have to come," Twig said. / Okay? Well? I did.” Cora gestured broadly at herself, giving her upper chest a qu"
 
 **中文理解**：妹妹说你不必来的；对方答：我来了，可你去哪儿了？
 

@@ -83,7 +83,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Cora 的恐慌——调查（公寓、邻居）。
 
-> **原句 8:** "[11.12 14:48] Call me" / "[11.12 15:05] PICK UP YOUR PHONE" / "[11.12 15:38] Twig, please"
+> **原句 8:** "11.12 14:48] Call me / 11.12 15:05] PICK UP YOUR PHONE / 11.12 15:38] Twig, please"
 
 **中文理解**：Cora 的第八/九/十条短信——“Call me” / “PICK UP YOUR PHONE” / “Twig, please”。
 

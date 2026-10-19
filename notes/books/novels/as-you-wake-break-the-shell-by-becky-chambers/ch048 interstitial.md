@@ -43,11 +43,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：Signy 的星空敬畏——首次见到星星。
 
-> **原句 4:** "What does it feel like?" Signy asked. "Being with her?" / "It's overwhelming, but in a good way."
+> **原句 4:** "What does it feel like?" Signy asked. "Being with her?""
 
 **中文理解**：她的提问——和她在一起是什么感觉？对方答：排山倒海，但那种感觉很好。
 
-**关键词**：overwhelming, but in a good way
+**关键词**：
 
 **为什么这样写**：把与鲸鱼在一起写成“排山倒海，但那种感觉很好”——这是对方的正面框架；“排山倒海”写出那份强度。
 
@@ -103,11 +103,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：对方与鲸鱼相处的理念——像团队一样合作、去理解，绝不强迫。
 
-> **原句 10:** "The saddle is equipped with various technologies that can be used for what we call 'negative reinforcement.' Stimuli that cause pain. It's nothing that will physically harm a rorqual in a lasting way, it's just a means of . . . making your point." / "We call them prods, if that helps sum it up."
+> **原句 10:** "The saddle is equipped with various technologies that can be used for what we call 'negative reinforcement.' Stimuli that cause pain. It's nothing that will physically harm a rorqual in a lasting way, it's just a means of . . . making your point.""
 
 **中文理解**：prods 是所谓的“电击棒”——用疼痛刺激来“纠正”鲸鱼，声称不会造成永久伤害。
 
-**关键词**：negative reinforcement / stimuli that cause pain / prods
+**关键词**：negative reinforcement / stimuli that cause pain
 
 **为什么这样写**：把电击棒写成“负强化”——一个临床用语；“让你表明态度”是委婉说法；“电击棒”则是最直白的概括。
 
@@ -149,7 +149,7 @@ modified: "2026-10-19"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| pretense | 假装/伪装 | "there's no pretense" |
+| pretense | 假装/伪装 | "pretense" |
 
 ### ⭐⭐ 进阶
 

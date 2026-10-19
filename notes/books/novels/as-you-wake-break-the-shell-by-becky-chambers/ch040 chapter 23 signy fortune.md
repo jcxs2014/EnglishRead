@@ -43,25 +43,25 @@ modified: "2026-10-19"
 
 **读者视角提示**：她的心语发作——熟悉，且反复来袭。
 
-> **原句 4:** "She was supposed to see everything, everything, because Colibri could see everything, except Colibri didn't see at all, so that was wrong, too."
+> **原句 4:** "Bled. Bleed. She bled. She, Cora, had blood, and could bleed. Blood needed oxygen; there was no argument to be made otherwise."
 
-**中文理解**：她的悖论——她本应看见一切，因为鲸鱼能看见一切；可鲸鱼根本不用“看”。
+**中文理解**：宇宙里有 Cora 说不出名字的颜色——她没有能处理它们的脑结构。
 
-**关键词**：see everything, everything / Colibri could see everything / Colibri didn't see at all
+**关键词**：cardinal direction was meaningless
 
-**为什么这样写**：把心语写成“本应看见一切”——鲸鱼的感知渗了进来；“鲸鱼根本不用看”写出悖论：它感知，却并不“看见”。
+**为什么这样写**：把 mindbleed 写成“无名的颜色”——人类感知的贫乏；“cardinal direction was meaningless”写出失重/失向的体验。
 
-**读者视角提示**：她的心语发作——鲸鱼那种非视觉的感知渗进了人类的视觉。
+**读者视角提示**：她的心语发作——人类感官的局限与鲸鱼感知的富足。
 
-> **原句 5:** "Cora turned to her sister. Her sister who was the wrong color. Too few colors, too few waves, reality distorted, heavy and strange."
+> **原句 5:** "Blue was beautiful. She knew blue. She loved blue."
 
-**中文理解**：妹妹在她眼里成了错误的颜色——色彩太少、波动太少，现实被扭曲，又沉又怪。
+**中文理解**：黑暗不是真实存在的，太空也不是空的——只是人类感知不到那些东西。
 
-**关键词**：the wrong color / Too few colors / too few waves
+**关键词**：Blue was beautiful / She knew blue
 
-**为什么这样写**：把 mindbleed 写成“wrong color”——感知扭曲；“Too few colors, too few waves”写出感官匮乏（人类感知的贫瘠）。
+**为什么这样写**：把“黑暗”定义为“人类感知的极限”—— whale 视角下的宇宙无黑暗；写出 Cora 的认知反转。
 
-**读者视角提示**：她的心语发作——人类的感知显得“色彩太少”。
+**读者视角提示**：她的心语发作——人类把感知局限误认为自然属性。
 
 > **原句 6:** "She was lost. She was lost, she was lost."
 
@@ -123,13 +123,13 @@ modified: "2026-10-19"
 
 **读者视角提示**：她的心语恢复过程——以色彩光谱为锚。
 
-> **原句 12:** "Violet. There it was. The furthest edge, the line she wasn't built to cross. Violet. A surety, a shelter. She could remember herself there. She could hold fast to violet."
+> **原句 12:** "There it was. The furthest edge, the line she wasn’t built to cross."
 
-**中文理解**：她的恢复——紫色，就是它。那是她生来就无法越过的边界，是一种确定，一处庇护。
+**中文理解**：她的恢复——那是她生来就无法越过的边界。
 
-**关键词**：Violet / furthest edge / surety, a shelter / hold fast to violet
+**关键词**：The furthest edge / the line she wasn’t built to cross
 
-**为什么这样写**：把 recovery 写成“Violet”——人类感知的极限即“surety, a shelter”；“hold fast to violet”写出她的锚。
+**为什么这样写**：把 recovery 写成“furthest edge”——人类感知的极限；“the line she wasn’t built to cross”写出她的边界。
 
 **读者视角提示**：她的心语恢复——紫色既是人类的极限，也是庇护。
 
@@ -154,7 +154,7 @@ modified: "2026-10-19"
 | 词条 | 释义 | 例句 |
 |------|------|------|
 | violet | 紫色 | "Violet. There it was." |
-| trash can | 垃圾桶 | "shove the trash can under the door handle" |
+| trash can | 垃圾桶 | "trash can" |
 
 ## 一句话总结
 

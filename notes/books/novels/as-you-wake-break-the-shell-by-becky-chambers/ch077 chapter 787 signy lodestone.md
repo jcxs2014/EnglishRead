@@ -13,7 +13,7 @@ modified: "2026-10-19"
 
 ## 精读
 
-> **原句 1:** "If you were to compare Lodestone City to a flower turned upside down, the elevator hub was the stem. Residential sectors stretched out from it like petals."
+> **原句 1:** "If you were to compare Lodestone City to a flower turned upside down, the elevator hub was the stem. Residential sectors stretched out from it like petals"
 
 **中文理解**：对石岩城的比喻——一朵倒过来的花；电梯枢纽是花茎，居住区是花瓣。
 
@@ -43,7 +43,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：这里的集市——有豌豆，也有草莓大黄派。
 
-> **原句 4:** "Well, shit, we gotta get strawberry rhubarb pie." / "Before . . . pie?" Cora said. / "Before everything." Signy held Cora's hand tightly and began to hustle in the direction of the produce stalls."
+> **原句 4:** "Well, shit, we gotta get strawberry rhubarb pie.""
 
 **中文理解**：她的优先——先看南瓜，再看派，其它都往后排。
 

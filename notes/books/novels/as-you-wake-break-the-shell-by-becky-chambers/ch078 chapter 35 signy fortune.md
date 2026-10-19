@@ -13,21 +13,21 @@ modified: "2026-10-19"
 
 ## 精读
 
-> **原句 1:** "Okay, so . . . he's going to kiss my cheek?" Cora said. / "Sort of," she said. "He's going to put his cheek against yours and kiss the air beside it."
+> **原句 1:** "Okay, so . . . he's going to kiss my cheek?" Cora said.
 
 **中文理解**：她解释老人的问候方式——把脸颊贴上你的，再在旁边虚吻一下。
 
-**关键词**：put his cheek against yours / kiss the air beside it
+**关键词**：
 
 **为什么这样写**：把老人的问候写成“在旁边虚吻一下”——这是她的说明；“算是吧”写出她的近似说法。
 
 **读者视角提示**：Otto 的问候仪式——贴脸旁的飞吻。
 
-> **原句 2:** "Signy rocked her head back and forth as she led Cora up the inner stairwell of Mountain Hearth Family Apartments. "Here, I'll show you." She leaned in and demonstrated Otto's not-quite-cheek kiss."
+> **原句 2:** "Signy rocked her head back and forth as she led Cora up the inner stairwell of Mountain Hearth Family Apartments. “Sort of,” she said. “He’s going to put his cheek against yours and kiss the air bes"
 
 **中文理解**：她的示范——一个不算真正贴颊的吻。
 
-**关键词**：not-quite-cheek kiss
+**关键词**：
 
 **为什么这样写**：把这个问候写成“不算真正贴颊的吻”——这是她的说法；“示范了一下”写出她的动作。
 
@@ -43,7 +43,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：老人的热情——见到对方时的那股高兴。
 
-> **原句 4:** "I thought she was going to be ugly, given how it's taken you four months to bring her by the old folks' home—" / "But she's a catch, is where I was going with that!"
+> **原句 4:** "I thought she was going to be ugly, given how it's taken you four months to bring her by the old folks' home—""
 
 **中文理解**：那位室友的打趣——他本以为她会长得难看；没想到是个难得的好人。
 
@@ -93,7 +93,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：她的评估——老人的失眠也许能交给那位护士处理。
 
-> **原句 9:** "And for you—" Ramona said, taking Signy's hands. / "For protection," Ramona said."
+> **原句 9:** "And for you—" Ramona said, taking Signy's hands.
 
 **中文理解**：那位太太送的蓝色小狗挂饰——说是用来保平安的。
 
@@ -113,15 +113,15 @@ modified: "2026-10-19"
 
 **读者视角提示**：那位太太的怀疑——因为邻居家门口挂着那面旗。
 
-> **原句 11:** "Otto was standing in front of the stove, stirring a pot with one hand, leaning on his cane with the other. He leaned his head toward her as she approached him, and he flashed a wrinkled smile. "Hello, honey," he said, leaning in and kissing the air beside where his cheek touched hers."
+> **原句 11:** "It’s something he saw in an old movie."
 
-**中文理解**：Otto 的问候——“Hello, honey”加贴脸旁的飞吻。
+**中文理解**：Otto 的“not-quite-cheek kiss”——他在老电影里看来的仪式。
 
-**关键词**：Hello, honey / kissing the air beside where his cheek touched hers
+**关键词**：something he saw in an old movie
 
-**为什么这样写**：把 Otto 的问候写成“Hello, honey”——他的温暖；“kissing the air beside where his cheek touched hers”写出他的仪式。
+**为什么这样写**：把 Otto 的问候写成“老电影里看来的”——他的怀旧；“not-quite-cheek kiss”写出他的 quirky 礼仪。
 
-**读者视角提示**：老人的问候——那套虚吻的仪式。
+**读者视角提示**：Otto 的性格——从老电影里学来的仪式感。
 
 > **原句 12:** "Mushroom lasagna," Otto said. "How does that suit?" / "Oh, I love mushrooms," Cora said. "That sounds great."
 
@@ -133,7 +133,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：老人的手艺——一道蘑菇千层面。
 
-> **原句 13:** "Would you like to?" / "Probably best that I don't. I'll just fuck it up—or, sorry, I mean—" / "Honey, if you think this is a home where you can't cuss, I don't know where you think you are. Can you chop things?" / "Yes, probably." / "Can you follow instructions?" / "Yes, sir." / "You can cook."
+> **原句 13:** "Would you like to?""
 
 **中文理解**：老人的烹饪课——你会切东西吗？你会照着做吗？那你能做饭。
 

@@ -23,55 +23,58 @@ modified: "2026-10-19"
 
 **读者视角提示**：她的好奇——对方体内的植入体，也就是神经接口。
 
-> **原句 2:** "That," Cora explained, "is my nutrient dock." / "And you hook this up to . . . ?" / "A nutrient pack. It's like this, um . . . this sort of brick-shaped thing they fill up with protein and vitamins and whatever."
+> **原句 2:** "That," Cora explained, "is my nutrient dock.""
 
 **中文理解**：对方体内的营养接口——一块砖形的装置，里面灌满蛋白质和维生素。
 
-**关键词**：nutrient dock / brick-shaped thing / protein and vitamins
+**关键词**：nutrient dock
 
 **为什么这样写**：把骑手的营养写成“一块砖形的东西”——这是对方的随意；“蛋白质和维生素”写出营养包的内容。
 
 **读者视角提示**：对方的骑手身体——营养接口是一种维生技术。
 
-> **原句 3:** "Do these bring you into your body?" Signy asked. / "Yeah," she said, tingling with the buzz of shared understanding. "Yeah, that's part of why we get them. Something to ground you when you're planetside."
+> **原句 3:** "Do these bring you into your body?”
+
+
+The comment / "Yeah," she said, tingling with the buzz of shared understanding. "Yeah, that's part of why we get them. Something to ground you when you're planetside."
 
 **中文理解**：她的提问——这些东西能让你回到自己的身体吗？对方答：是让你落地时有个锚。
 
-**关键词**：bring you into your body / ground you when you're planetside
+**关键词**：bring you into your body
 
 **为什么这样写**：把纹身写成“落地时给你的锚”——这是对方的说法；“让你回到自己的身体”写出她的洞察。
 
 **读者视角提示**：对方的纹身——骑手用来锚定自己的机制。
 
-> **原句 4:** "Do you want the same?" / "Yes," Cora said, both because it was true and because she had no idea how else to respond."
+> **原句 4:** "Signy ran two fingertips over the implant behind Cora’s left ear."
 
-**中文理解**：她的提问——你也想要同样的吗？问的是关系；对方答愿意。
+**中文理解**：Signy 用两根指尖轻触 Cora 左耳后的植入体——询问是否介意。
 
-**关键词**：Do you want the same / Yes
+**关键词**：two fingertips / implant behind Cora’s left ear
 
-**为什么这样写**：把 Signy 的提问写成“Do you want the same”——她的直接；Cora 的“Yes”（真实加无其他回应）写出她的真诚。
+**为什么这样写**：把两人的亲密写成“指尖轻触植入体”——Signy 的谨慎与好奇；写出她把 Cora 当作一个需要了解的人。
 
-**读者视角提示**：两人的关系——彼此都说了愿意。
+**读者视角提示**：两人的关系——身体 proximity 中的温柔探索。
 
-> **原句 5:** "In that case, until we decide we don't want those things anymore, I'm not being kind. I'm making my lover a sad excuse for breakfast, and if she'd like tea, I'd like to make her a cup."
+> **原句 5:** "Cora nodded, smiling. She liked the feeling of Signy learning her."
 
-**中文理解**：对方那句“爱人”的宣告——我正在给我的爱人做一顿凑合的早餐。
+**中文理解**：Cora 点头微笑——她喜欢 Signy 了解她的感觉。
 
-**关键词**：my lover / sad excuse for breakfast
+**关键词**：liked the feeling / Signy learning her
 
-**为什么这样写**：把 Signy 的承诺写成“my lover”——首次使用；“sad excuse for breakfast”写出她的谦逊。
+**为什么这样写**：把 Cora 的接受写成“喜欢被了解”——她对 Signy 的信任；写出关系中的 vulnerability 与接纳。
 
-**读者视角提示**：对方那声“爱人”——把关系确定了下来。
+**读者视角提示**：两人的关系——被了解的喜悦。
 
-> **原句 6:** "She still didn't like tea, but god, did she ever like this."
+> **原句 6:** "Signy studied her."
 
-**中文理解**：对方的想法——她仍然不爱喝茶，可她太喜欢这一切了。
+**中文理解**：Signy 审视她——带着好奇与温柔。
 
-**关键词**：didn't like tea / god, did she ever like this
+**关键词**：studied her
 
-**为什么这样写**：把这份妥协写成“不爱喝茶，可太喜欢这一切了”——写出她因对方而生的喜悦。
+**为什么这样写**：把 Signy 的观察写成“studied”——她的药剂师/工程师本能；写出她把 Cora 当作需要了解的对象。
 
-**读者视角提示**：对方的妥协——为了她而接受茶。
+**读者视角提示**：两人的关系——观察与被观察。
 
 > **原句 7:** "I don't like potted plants," Signy said with a smirk."
 
@@ -93,21 +96,21 @@ modified: "2026-10-19"
 
 **读者视角提示**：她的植物原则——困在盆里的植物就像被孤立。
 
-> **原句 9:** "They're supposed to share soil with others." / "Through their roots. And through fungal networks."
+> **原句 9:** "They're supposed to share soil with others."
 
 **中文理解**：她讲植物如何沟通——它们与他人共享土壤；通过根系，也通过真菌网络。
 
-**关键词**：share soil / roots / fungal networks
+**关键词**：share soil
 
 **为什么这样写**：把植物沟通写成“共享土壤”——这是她的知识；“真菌网络”写出她科学层面的理解。
 
 **读者视角提示**：她的植物学——根系与真菌网络就是沟通的渠道。
 
-> **原句 10:** "You're saying that plants . . . communicate." / "They do. Through their roots, and through their leaves, too. They send each other—oh, well, you'll understand this. They use chemicals that behave a lot like pheromones."
+> **原句 10:** "You're saying that plants . . . communicate."
 
 **中文理解**：她讲植物的沟通——会释放很像信息素的化学物质。
 
-**关键词**：chemicals that behave a lot like pheromones
+**关键词**：
 
 **为什么这样写**：把植物沟通写成“很像信息素的化学物质”——这是她为对方打的比方，借用了鲸鱼那套信息素。
 
@@ -133,7 +136,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Cora 的惊奇——植物此刻正在交谈。
 
-> **原句 13:** "If you could grow plants however you wanted . . . what would you do?" / "Dirt," Signy said, speaking of a substance no one on Fortune had ever seen. "I'd plant them in real, actual dirt."
+> **原句 13:** "If you could grow plants however you wanted . . . what would you do?""
 
 **中文理解**：对方的提问——要是你能随心所欲地种植物，你会做什么？她只答两个字：泥土。
 
@@ -143,7 +146,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：她的渴望——真正的泥土，而这里没有。
 
-> **原句 14:** "I'd let them mingle. I'd let them overgrow. I'd take what I needed for myself, and I'd make sure they were all healthy, but beyond that . . . Beyond that, I would just sit and watch them do whatever they did."
+> **原句 14:** "I’d let them mingle. I’d let them overgrow. I’d take what I needed for myself, and I’d make sure they were all healthy, but beyond that . . .” She smiled reverently, and when she opened her eyes, they shone. “B"
 
 **中文理解**：她对泥土的想象——让它们彼此交融，让它们疯长，自己坐下来看着它们做它们想做的事。
 
@@ -175,7 +178,7 @@ modified: "2026-10-19"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| nutrient dock | 营养接口 | "That's my nutrient dock" |
+| nutrient dock | 营养接口 | "nutrient dock" |
 
 ### ⭐ 基础
 

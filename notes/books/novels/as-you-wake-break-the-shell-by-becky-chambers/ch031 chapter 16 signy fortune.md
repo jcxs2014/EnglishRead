@@ -73,7 +73,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Otto 的性格——慷慨、以友谊为基础。
 
-> **原句 7:** "Otto was seventy-four years old—one of the oldest people alive. Signy wasn't about to argue anything that made him happy."
+> **原句 7:** "Otto was seventy-four years old—one of the oldest people alive. Signy wasn’t about to argue anything that made him happy"
 
 **中文理解**：Otto 七十四岁——世上最年长的人之一；Signy 不愿争辩任何让他开心的事。
 
@@ -83,7 +83,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Otto 的年龄是这里的一个奇迹——活到了七十四。
 
-> **原句 8:** "Before Otto had taken up advanced-level people watching, he'd been a Foley artist at K-CCN."
+> **原句 8:** "Before Otto had taken up advanced-level people watching, he’d been a Foley artist at K-CCN"
 
 **中文理解**：Otto 的过去——曾在电台做拟音师，用杂物制造音效。
 
@@ -133,7 +133,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Signy 的体贴——她留下了 Ramona 那件不完美的挂饰。
 
-> **原句 13:** "Signy was glad they'd fixed that for each other."
+> **原句 13:** "She was glad they’d fixed that for each other."
 
 **中文理解**：Signy 与 Otto 彼此补足——她教他认识植物，他教她做音效。
 

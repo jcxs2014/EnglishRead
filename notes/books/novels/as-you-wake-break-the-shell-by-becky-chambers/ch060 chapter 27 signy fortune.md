@@ -83,7 +83,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：她的专注——在读对方的脸。
 
-> **原句 8:** "I'm a little nervous," she admitted. "It's . . . been a while." / "One year and seven months," Cora said."
+> **原句 8:** "I'm a little nervous," she admitted. "It's . . . been a while.""
 
 **中文理解**：对方的紧张——她说有一阵子了；其实是一年零七个月。
 
@@ -103,7 +103,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：她的感知——对方既自大，又好看。
 
-> **原句 10:** "I don't really like hookups," Cora said. "It's not my—" / "I like hookups just fine, but I'd likewise prefer this wasn't."
+> **原句 10:** "I don't really like hookups," Cora said. "It's not my—""
 
 **中文理解**：对方说自己其实不喜欢随意的关系；而她答自己也接受，只是同样希望这一次不是。
 

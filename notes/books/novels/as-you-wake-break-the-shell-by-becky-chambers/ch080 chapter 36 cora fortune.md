@@ -23,11 +23,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：对方的生日——三十二岁，朋友照例冷幽默了一句。
 
-> **原句 2:** "I guess so," she said. / "How the fuck," Smokey asked, speaking the question as a statement. / "Got lucky," she said."
+> **原句 2:** "I guess so," she said."
 
 **中文理解**：对方那趟远行只用了六天——她只说运气好，用来掩饰鲸鱼的速度。
 
-**关键词**：Got lucky / How the fuck
+**关键词**：
 
 **为什么这样写**：把这趟行程写成“运气好”——这是她的掩护；朋友那句粗口式的惊叹写出钦佩。
 
@@ -103,7 +103,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Twig 的批评——继承作为未经审视的传统。
 
-> **原句 10:** "Do you think that's ever been different?" / "Do you think there's ever been a time when recorded history was both comprehensive and objective?"
+> **原句 10:** "Do you think that's ever been different?""
 
 **中文理解**：她的反驳——你觉得这以前有过不同吗？你觉得历史上真有过一个既有记录、又客观全面的时代吗？
 
@@ -133,7 +133,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：她的提醒——那群领袖正在兜售些什么。
 
-> **原句 13:** "I actually do want some cake," she said. / "Then let's get you some cake." Signy lifted Cora's hand, turned it over, and kissed her palm."
+> **原句 13:** "I actually do want some cake," she said. / Signy lifted Cora’s hand, turned it over, and kissed her palm. “Then let’s get you some cake.”"
 
 **中文理解**：对方说其实她还真想吃点蛋糕；而她吻了吻对方的掌心。
 

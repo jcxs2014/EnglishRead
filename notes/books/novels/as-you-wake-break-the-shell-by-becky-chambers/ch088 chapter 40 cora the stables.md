@@ -13,11 +13,11 @@ modified: "2026-10-19"
 
 ## 精读
 
-> **原句 1:** "There were lots of tricks for dealing with comedown after leaving the saddle. Some pilots liked to do body scans... Some pilots liked to watch a movie, listen to a show, find a distraction. Some pilots swore by cold sponge baths; others just wanted to sleep until it was over."
+> **原句 1:** "There were lots of tricks for dealing with comedown after leaving the saddle. Some pilots liked to do body scans—focus on your pinky toes, focus on your big toes, focus on your heels, and so on and so on, all the way up to your scalp. Some pilots liked to watch a movie, listen to"
 
 **中文理解**：从那种状态缓下来的办法——身体扫描、看电影、冷海绵擦身、睡觉。
 
-**关键词**：body scans / watch a movie / cold sponge baths / sleep
+**关键词**：body scans / watch a movie
 
 **为什么这样写**：把这段缓下来写成一套“窍门”——这是骑手们的应对办法；“有的骑手喜欢……有的只想”写出个体之间的差异。
 
@@ -43,7 +43,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：对方应对心语的办法——用“脸颊”这类细节记住自我，与鲸鱼区分开。
 
-> **原句 4:** "It was odd, it was odd to eat plants, Colibri had told her. Colibri did not eat organisms, she ate gases and vapors, the inorganic, the never-alive. Does it trouble you, to eat organisms? Colibri had asked, and Cora had replied, No, otherwise I'd die."
+> **原句 4:** "It was odd, it was odd to eat plants, Colibri had told her. Colibri did not eat organisms, she ate gases and vapors, the inorganic, the never-alive. Does it trouble you, to eat organisms? Colibri had asked, and Cora had replied, No, otherwise I’d die"
 
 **中文理解**：鲸鱼的提问——吃别的生物会让你不安吗？对方答：不会，不然我就死了。
 
@@ -53,7 +53,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：鲸鱼的好奇——吃别的生物，哪怕是植物，会不会让人不安。
 
-> **原句 5:** "I hope not but I guess I don't know. I can't communicate with them, and Colibri said, You cannot communicate with me natively, either. Would you eat me if you could? and Cora replied, No, never, I would never eat a friend."
+> **原句 5:** "I hope not but I guess I don’t know. I can’t communicate with them, and Colibri said, You cannot communicate with me natively, either. Would you eat me if you could? and Cora replied, No, never, I would never eat a friend"
 
 **中文理解**：鲸鱼问你要是能吃我，你会吃吗？对方答：不，绝不会，我绝不会吃朋友。
 
@@ -73,11 +73,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：鲸鱼的哲学探问——那些植物也是她所爱的一部分。
 
-> **原句 7:** "I swear you are evening out a lot faster than you used to." / "It's more of a pronounced trend than I'd expect solely from ginger clearing out of your system, though."
+> **原句 7:** "I swear you are evening out a lot faster than you used to.""
 
 **中文理解**：那位医生的观察——你稳定下来的速度比以前快得多；不过这个趋势比单靠姜片代谢出去所能解释的要明显。
 
-**关键词**：evening out a lot faster / more of a pronounced trend / ginger clearing out of your system
+**关键词**：evening out a lot faster
 
 **为什么这样写**：把这份观察写成“稳定下来快得多”——这是她的医学评估；“比单靠姜片代谢出去所能解释的更明显”写出她的怀疑：其实是那副药在起作用。
 

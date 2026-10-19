@@ -6,92 +6,62 @@ modified: "2026-10-19"
 # 20. Chapter 8: Signy, Fortune
 
 ## 本章导航
-- **一句话概括**：她与对方在早餐时一起处理这颗小卫星的收件箱——原料供应、邻居的肥料问题、学徒的玉米品系、社区的聚餐邀请——她的“社交电量”与对方的温和推动。
-- **情节位置**：小卫星线，紧跟 ch017；两人的日常作息。
-- **人物弧线**：她从工作台的封闭走向被对方温和地推向社交——她的“社交电量”这一比喻建立。
-- **叙事手法**：以收件箱串起的书信体结构；社区世界观铺陈（石岩站、Gwen、Palmer、Oscar、Imogen）。
+- **一句话概括**：她清晨在办公室里决定打印顺序——先从熟悉的配方做起，再攻新课题；权衡客户优先级后，她决定先做 Evie 的甲状腺药，而起始原料便是 L-tyrosine。
+- **情节位置**：故土线第八章，紧跟 ch016；她的药剂工作与客户网络。
+- **人物弧线**：她从店主到药剂师——把社区需求排进优先级，把“熟悉配方”与“新课题”分出先后。
+- **叙事手法**：以打印顺序串起的清单体；客户名单与病情轻重作为排序依据。
 
 ## 精读
 
-> **原句 1:** "So," Cora said, slathering her toast with jam, "who needs what?"
+> **原句 1:** "First things first: print order."
 
-**中文理解**：Cora 一边往吐司上抹果酱一边问“谁需要什么”——把处理 inbox 写成每日的固定仪式。
+**中文理解**：Signy 的第一件事是确定打印顺序——把所有订单按优先级排好。
 
-**关键词**：who needs what
+**关键词**：print order / First things first
 
-**为什么这样写**：以 Cora 的提问开场，把社区互助写成早餐例行；“抹果酱”这个家常动作是日常细节。
+**为什么这样写**：以一句口号式短语开场，把她的工作方式写成“先排序再动手”； establishes 她的条理性。
 
-**读者视角提示**：两人的伴侣关系——共同查看收件箱。
+**读者视角提示**：她的职业身份——药剂师先排单。
 
-> **原句 2:** "She and Cora had joint access to everything sent Cypsela's way, but they always went over their mail together in the morning, so as to get on the same page."
+> **原句 2:** "Signy tapped her chin with the tip of her stylus and considered which batch to start on."
 
-**中文理解**：两人共同拥有 Cypsela 一切信件的访问权，但她们总在早晨一起过一遍邮件——“get on the same page”。
+**中文理解**：她用笔尖轻敲下巴，盘算先从哪一批做起。
 
-**关键词**：joint access / get on the same page
+**关键词**：tapped her chin / considered which batch
 
-**为什么这样写**：把伴侣关系写成信息共享的例行；“步调一致”这一习语写出两人的默契。
+**为什么这样写**：把决策过程写成一个小动作——“敲下巴”是思考的外化；“which batch”写出她面对多订单的权衡。
 
-**读者视角提示**：两人在这座小卫星上的生活——凡事共同决策。
+**读者视角提示**：她的思考习惯——身体动作与脑内排序同步。
 
-> **原句 3:** "The med lab on Lodestone was running low on L-tyrosine, an amino acid used in a wide variety of medicines."
+> **原句 3:** "She weighed her customers' priorities. Phoebe had the most time-sensitive need on the list, but the compounds required for a medical abortion were something Signy always kept in supply."
 
-**中文理解**：邻近的医用实验室报告酪氨酸短缺，Cypsela 的药园便充当后援。
+**中文理解**：她权衡客户优先级——Phoebe 的需求最紧急，但流产所需化合物她常备。
 
-**关键词**：L-tyrosine / running low
+**关键词**：weighed / time-sensitive / kept in supply
 
-**为什么这样写**：把殖民地之间的资源共享写成例行；“running low”写出 Cypsela 在网络中的 role。
+**为什么这样写**：把“常备库存”写出她的职业素养；紧急与常规的对比建立她的供应网络。
 
-**读者视角提示**：Cypsela 作为药品供应者所扮演的经济角色。
+**读者视角提示**：她的客户网络——Phoebe 的紧急需求与她的常备库存。
 
-> **原句 4:** "Signy wrote back to say that was fine."
+> **原句 4:** "She would start with Evie's thyroid. Not a life-threatening condition, but a debilitating one."
 
-**中文理解**：Signy 回复了学徒 Imogen，答应周四与她一起看她培育的玉米品种。
+**中文理解**：她决定先做 Evie 的甲状腺药——不是危及生命的病，却是使人衰弱的病。
 
-**关键词**：that was fine
+**关键词**：thyroid / debilitating
 
-**为什么这样写**：以“没问题”的轻描淡写写出 Signy 的带教；学徒的身份确立了她的传授者角色。
+**为什么这样写**：把“不致命但使人衰弱”写出她的排序逻辑——优先帮助恢复日常功能的人。
 
-**读者视角提示**：她的导师身份——学徒 Imogen 便是明证。
+**读者视角提示**：她的医者之心——把“让人重新站起来”放在首位。
 
-> **原句 5:** "Palmer was having a potluck later that week and wanted both of Cypsela's residents to attend."
+> **原句 5:** "What she lacked at the moment was L-tyrosine, and she'd need that for other recipes as well, so that was where she'd start."
 
-**中文理解**：Palmer 发来聚餐邀请，请的是这座小卫星上的两位居民。
+**中文理解**：她眼下缺的是 L-tyrosine，而其他配方也需要它，所以以此为起点。
 
-**关键词**：potluck / both of Cypsela's residents
+**关键词**：L-tyrosine / lacked
 
-**为什么这样写**：把社区聚会写成邀请；“both of Cypsela's residents”写出 Cypsela 的小社群。
+**为什么这样写**：把“原料缺口”写成起点——她从最缺的原料反推生产顺序；L-tyrosine 也是 lodestone 医疗实验室的短缺品，呼应 ch019。
 
-**读者视角提示**：这座小卫星的社交生活——聚餐与天窗房。
-
-> **原句 6:** "Isn't that the same day you told Gwen you'd help fix her kitchen door?" Signy asked.
-
-**中文理解**：Signy 的实际顾虑——聚餐与去 Gwen 家修门撞在了同一天。
-
-**关键词**：kitchen door / same day
-
-**为什么这样写**：把时间冲突写成温和的协商；写出 Signy 的务实。
-
-**读者视角提示**：两人之间的任务协调。
-
-> **原句 7:** "You like her skyroom."
-
-**中文理解**：Cora 的轻推点出了她的社交动机——毕竟她喜欢那户人家的天窗房。
-
-**关键词**：skyroom
-
-**为什么这样写**：把 Signy 的社交投入写成由天窗房驱动；Cora 了解她的偏好。
-
-**读者视角提示**：Cora 在两人的社交中扮演推动者。
-
-> **原句 8:** "An afternoon spent reading in Gwen's skyroom sounded like a decent way to prepare her social battery before a communal meal."
-
-**中文理解**：Signy 的“社交电量”比喻——在天窗房读书，为集体聚餐做准备。
-
-**关键词**：social battery / communal meal
-
-**为什么这样写**：把社交精力写成“电量”——内向者的资源管理；“准备”写出她刻意的社交节奏。
-
-**读者视角提示**：Signy 的内向者原则——社交电量是一种需要管理的资源。
+**读者视角提示**：她的生产逻辑——从缺口原料反推，也与 lodestone 的 shortage 呼应。
 
 ## 本章词汇
 
@@ -99,24 +69,23 @@ modified: "2026-10-19"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| reluctant | 不情愿的 | "reluctant as Signy was to take a whole day" |
+| debilitating | 使人衰弱的 | "Not a life-threatening condition, but a debilitating one" |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| nudge | 轻推 | "Cora nudged her" |
+| time-sensitive | 时间紧迫的 | "Phoebe had the most time-sensitive need" |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| potluck | 百乐餐 | "Palmer was having a potluck" |
-| inbox | 收件箱 | "opened her inbox" |
+| thyroid | 甲状腺 | "Evie's thyroid" |
+| batch | 一批 | "which batch to start on" |
 
 ## 一句话总结
 
-这一章用早餐时处理收件箱，展示这颗小卫星的社区网络与两人的伙伴关系——她的“社交电量”这一比喻在此建立，而对方充当把她带向社交的人。
+第 8 章把她的药剂工作写成一次打印顺序的排序——从熟悉配方与客户优先级出发，决定先做 Evie 的甲状腺药，而 L-tyrosine 的短缺便是她动身的起点。
 
 ---
-notes/books/novels/as-you-wake-break-the-shell-by-becky-chambers/ch019 chapter 769 signy cypsela.md

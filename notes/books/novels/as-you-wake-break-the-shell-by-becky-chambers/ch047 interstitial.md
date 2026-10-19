@@ -63,7 +63,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：她与鲸鱼的沟通——鞍座强烈，笔则弱得多。
 
-> **原句 6:** "Colibri would like to know what you think of her."
+> **原句 6:** "Colibri would like to know what you think of her"
 
 **中文理解**：鲸鱼的第一个问题——问对方觉得她怎么样——直接，毫无客套。
 
@@ -73,7 +73,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：鲸鱼的直接——没有半句闲聊。
 
-> **原句 7:** "I'm a little afraid," she said. "I know you two are friends, and so I trust that. But I've never seen anyth—anyone like her before. I'm still learning what she is."
+> **原句 7:** "I’m a little afraid,” she said. New as this territory was, it didn’t seem the place for half-truths and white lies."
 
 **中文理解**：她的诚实回答——她有点害怕；她还在弄明白那到底是什么。
 
@@ -83,17 +83,17 @@ modified: "2026-10-19"
 
 **读者视角提示**：她的诚实——面对这头鲸鱼，她不肯敷衍。
 
-> **原句 8:** "If you bring a species to life that you've never seen before, are you afraid of it?" / "No. I am curious, but not afraid."
+> **原句 8:** "If you bring a species to life that you've never seen before, are you afraid of it?""
 
 **中文理解**：鲸鱼反问——你若把一个从没见过的物种创造出来，你会怕它吗？她答：不怕，我只是好奇。
 
-**关键词**：bring a species to life / curious, but not afraid
+**关键词**：bring a species to life
 
 **为什么这样写**：把这句提问写成一个类比，把植物与她本人相提并论——“好奇，但不怕”写出她的科学态度。
 
 **读者视角提示**：鲸鱼的类比——植物与它自己形成了平行。
 
-> **原句 9:** "The difference is . . . Plants are small and they don't move. I'm not accustomed to animals, or any living being this much bigger than me."
+> **原句 9:** "The difference is . . .” Signy searched within herself. “Plants are small and they don’t move.” I'm not accustomed to animals, or any living being this much bigger than me."
 
 **中文理解**：她做的区分——植物又小又不动，而鲸鱼既大又会动。
 
@@ -199,19 +199,19 @@ modified: "2026-10-19"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| nuance | 细微差别 | "She likes . . . um . . . what's it called. Nuance. Depth." |
+| nuance | 细微差别 | "nuance" |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| photoreceptive | 感光的 | "photoreceptive cellular mats" |
+| photoreceptive | 感光的 | "photoreceptive" |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| bell | 钟 (胃) | "That's her bell" |
+| bell | 钟 (胃) | "bell" |
 | ocelli | 简单眼 | (ch046) |
 
 ## 一句话总结

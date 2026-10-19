@@ -23,11 +23,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：Signy 的道德复杂性——她不是恶人，而是一种必需。
 
-> **原句 2:** "The problem wasn't a complete absence of medicine. The problem was too little medicine, and within an official capacity, that meant the cold logic of triage. Signy 的 list of orders that day was nothing if not a portrait of the downside."
+> **原句 2:** "The problem wasn’t a complete absence of medicine. The problem was too little medicine, and within an official capacity, that meant the cold logic of triage. Signy’s list of orders that day was nothing if not a portrait of the downsid"
 
 **中文理解**：Triage 的"cold logic"——不是没有药，而是太少，所以必须选择谁活谁死。
 
-**关键词**：cold logic of triage / portrait of the downside
+**关键词**：cold logic of triage
 
 **为什么这样写**：把制度性失灵写成“无非是一幅阴暗面的写照”——反讽式的轻描淡写；“冷酷的逻辑”暗示体系的非人化。
 

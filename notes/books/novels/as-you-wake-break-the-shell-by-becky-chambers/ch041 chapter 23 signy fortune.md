@@ -57,7 +57,6 @@ modified: "2026-10-19"
 |---|---|---|
 | overhang | 屋檐、悬垂 | Signy stood under the overhang of the apartment block's front door |
 | caustic | 腐蚀性的、刺激的 | the street was slippery and caustic |
-| rationalization | 合理化（心理） | Surely it was more sensible to spend the night there |
 | tugging | 拉扯、牵引 | had been tugging at her ever since she'd mentioned it to Otto |
 
 ## 一句话总结

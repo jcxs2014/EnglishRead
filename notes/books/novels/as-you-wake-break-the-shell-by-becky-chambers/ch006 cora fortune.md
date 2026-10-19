@@ -100,7 +100,6 @@ modified: "2026-10-19"
 | 词条 | 释义 | 例句 |
 |------|------|------|
 | symbiosis | 共生 | "Love was a symbiosis" |
-| incongruous | 不协调的 | "its nearly silent electric engine incongruous" |
 
 ### ⭐⭐ 进阶
 

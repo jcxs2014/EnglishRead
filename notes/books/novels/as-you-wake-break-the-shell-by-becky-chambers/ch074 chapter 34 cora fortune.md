@@ -23,7 +23,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：两人的对比——一个内向，一个是联结众人的那种人。
 
-> **原句 2:** "She spotted a jacket that was not adorned with aspirational pastiche, and it was a sight, like so many others, that had started to give her a little flutter when she noticed it."
+> **原句 2:** "Signy spotted a jacket that was not adorned with aspirational pastiche, and it was a sight, like so many others, that had started to give her a little flutter when she noticed it."
 
 **中文理解**：她的心动——源于对方那件夹克，不是刻意模仿出来的款式。
 
@@ -83,87 +83,87 @@ modified: "2026-10-19"
 
 **读者视角提示**：她的释然——对方很顺从，不多问。
 
-> **原句 8:** "Oh, good. It's just us."
+> **原句 8:** "It was a little exhausting."
 
-**中文理解**：她自私的念头——太好了，只有我们俩。
+**中文理解**：Signy 发现——新菜单与新音乐虽好，却有点累人。
 
-**关键词**：Oh, good. It's just us
+**关键词**：a little exhausting
 
-**为什么这样写**：把 Signy 的念头写成“Oh, good. It's just us”——她自私的解脱；“It's just us”写出她渴望 Cora 的陪伴。
+**为什么这样写**：把她的社交疲劳写成“a little exhausting”——她的 introvert 本性；与 Cora 的外向形成对照。
 
-**读者视角提示**：她自私的念头——比起收容别人，她更想要对方的陪伴。
+**读者视角提示**：她的性格——享受新体验，但需要独处充电。
 
-> **原句 9:** "I have some ginger on me, but, um . . ." / "Well, good news. In two days, I'll have some real medicine ready for you."
+> **原句 9:** "Signy didn’t need new menus or new music all the time, but she hadn’t found the heart to tell Cora that."
 
-**中文理解**：对方的姜片快用完了；而她说真正的药两天后就能备好。
+**中文理解**：她其实不总是需要新菜单、新音乐，却说不出口。
 
-**关键词**：some ginger on me / real medicine ready
+**关键词**：hadn’t found the heart to tell Cora
 
-**为什么这样写**：把 Cora 的用药写成“some ginger on me”——她仅剩的补给；Signy 的“real medicine ready in two days”写出她的工作进展。
+**为什么这样写**：把她的迁就写成“hadn’t found the heart to tell”——她的温柔；写出她不愿扫 Cora 的兴。
 
-**读者视角提示**：对方的用药——眼下靠姜片应急，真正的药很快就到。
+**读者视角提示**：她的性格——迁就对方， suppressed 自己的偏好。
 
-> **原句 10:** "I don't want you to see me if it hits," she said, very quietly."
+> **原句 10:** "Still, though. She was spending an awful lot of time on the ferry."
 
-**中文理解**：对方的恐惧——真发作起来，我不想让你看到我那样。
+**中文理解**：尽管如此，她花在渡轮上的时间实在太多。
 
-**关键词**：I don't want you to see me if it hits
+**关键词**：spending an awful lot of time on the ferry
 
-**为什么这样写**：把 Cora 的恐惧写成“I don't want you to see me if it hits”——她的脆弱；“very quietly”写出她的羞耻。
+**为什么这样写**：把她的奔波写成“awful lot of time on the ferry”——她的投入；写出她为 Cora 所付出。
 
-**读者视角提示**：对方对心语的恐惧——脆弱，也带着羞耻。
+**读者视角提示**：她的投入——为了 Cora，她跑遍 raft。
 
-> **原句 11:** "I'm not a doctor," she said. "But my mother was. I have seen . . . a lot."
+> **原句 11:** "On the fly, Cora had conjured the current alternative for dinner—the Old World Grill, she’d said."
 
-**中文理解**：她的安抚——我不是医生，但我母亲是；我见过不少。
+**中文理解**：她一眼认出 Cora 的夹克——不带 aspirational pastiche，总让她心动。
 
-**关键词**：I'm not a doctor / my mother was / I have seen . . . a lot
+**关键词**：a little flutter / aspirational pastiche
 
-**为什么这样写**：把 Signy 的安抚写成“my mother was”（医生）——她的医学背景；“I have seen . . . a lot”写出她的经验。
+**为什么这样写**：把她的 attraction 写成“a little flutter”——她的身体反应；“aspirational pastiche”写出 raft 2 的浮华 contrast。
 
-**读者视角提示**：Signy 的医学背景——母亲是医生、诊所长大。
+**读者视角提示**：她的感情——在人群中认出 Cora 的心动。
 
-> **原句 12:** "Would you rather we just do that?" Cora asked, with heartrending earnestness. "Seriously, this is your space, we don't have to—"
+> **原句 12:** "They kissed beneath the departure board, the seconds above clicking away."
 
-**中文理解**：对方的提议——你要不要我们就那么办？——给对方留出空间。
+**中文理解**：两人在 departure board 下接吻——头顶的秒数在跳动。
 
-**关键词**：Would you rather we just do that / heartrending earnestness
+**关键词**：kissed beneath the departure board
 
-**为什么这样写**：把 Cora 的体贴写成“Would you rather we just do that”——她尊重 Signy 的空间；“heartrending earnestness”写出她的真诚。
+**为什么这样写**：把他们的亲吻写成“beneath the departure board”——公共空间的亲密；“seconds above clicking away”写出时间的流逝。
 
-**读者视角提示**：对方的体贴——尊重她的空间。
+**读者视角提示**：两人的亲密——在公共场合也自然。
 
-> **原句 13:** "Would you still like to take that break?" she asked."
+> **原句 13:** "Not your fault," Signy said."
 
-**中文理解**：Signy 的提问——“Would you still like to take that break?”——重申他们的亲密。
+**中文理解**：她安慰 Cora——渡轮改道不是她的错。
 
-**关键词**：Would you still like to take that break
+**关键词**：Not your fault
 
-**为什么这样写**：把 Signy 的提问写成“Would you still like to take that break”——她的邀请；“still”写出她希望一切未变。
+**为什么这样写**：把 Signy 的安慰写成“Not your fault”——她的 straightforward；写出她对 Cora 的理解。
 
-**读者视角提示**：她的邀请——尽管有心语这层恐惧，她仍重申了亲密。
+**读者视角提示**：她的性格——直接、不 blaming。
 
-> **原句 14:** "The worry on Cora's face vanished, and all that remained was her smile. "Yes," she said."
+> **原句 14:** "Apparently they were known for doing good things with mock steak."
 
-**中文理解**：对方的回应——她脸上的担忧消散了，只剩下笑容。
+**中文理解**：Cora 有点不好意思——她买了纸花，觉得 silly。
 
-**关键词**：worry vanished / all that remained was her smile
+**关键词**：doing good things with mock steak
 
-**为什么这样写**：把 Cora 的回应写成“worry vanished... smile remained”——她的释然；“all that remained”写出她情绪的简化。
+**为什么这样写**：把 Cora 的送花写成“silly”——她的 modesty；“smirk, shrug, blush”写出她的 bashful delight。
 
-**读者视角提示**：对方的释然——她接纳了对方的心语。
+**读者视角提示**：Cora 的性格——送礼物时的 bashful。
 
-> **原句 15:** "Stuff to do with Signy" (list) / "I don't care at all about—what did you just say? Going out on the town?" / "I'm trying to impress you!" / "Because you're the coolest person I've ever met, and all I do and all I talk about is pilot shit, and I don't want you to get bored with me."
+> **原句 15:** "Sorry for the change in plans," Cora said.
 
-**中文理解**：对方列出的“想和她一起做的事”——看老电影、看陶艺展、去蓝月亮、去碎屑、做按摩和蒸汽浴、赶一次烧烤快闪、逛那家叫叶与茎的店；她说自己在努力打动她，因为她是她见过最酷的人。
+**中文理解**：Cora 道歉——改了计划。
 
-**关键词**：Stuff to do with Signy / I'm trying to impress you / coolest person I've ever met
+**关键词**：Sorry for the change in plans
 
-**为什么这样写**：把 Cora 的脆弱写成“Stuff to do with Signy”——她的努力；“I'm trying to impress you”写出她的恐惧；“coolest person I've ever met”写出她的钦佩。
+**为什么这样写**：把 Cora 的歉意写成“Sorry for the change in plans”——她的体贴；写出她对 Signy 的照顾。
 
-**读者视角提示**：对方的脆弱——努力想打动她，又怕被厌倦。
+**读者视角提示**：Cora 的性格——体贴、主动调整。
 
-> **原句 16:** "For being someone who will hide with me" was how Signy replied, but it didn't encompass all that she felt. For being someone who wants to, she thought."
+> **原句 16:** "“For hiding with me” was how Signy replied, but it didn’t encompass all that she felt. For being someone who will hide with me, she thought. For being someone who wants to."
 
 **中文理解**：她的收尾——因为你愿意和我一起躲起来，也因为你想这么做。
 
@@ -179,20 +179,18 @@ modified: "2026-10-19"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| heartrending | 令人心碎的 | "with heartrending earnestness" |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| earnestness | 认真/诚恳 | "heartrending earnestness" |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
 | Vitamin C | 维生素C (euphemism for medicine) | "a bottle labeled Vitamin C" |
-| hazard | 危险 | "HAZARD WARNING" |
+| hazard | 危险 | "hazard" |
 
 ## 一句话总结
 

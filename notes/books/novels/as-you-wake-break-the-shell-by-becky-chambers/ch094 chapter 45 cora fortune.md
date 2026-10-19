@@ -33,17 +33,17 @@ modified: "2026-10-19"
 
 **读者视角提示**：那人的悲伤——不化妆，不打点，整个人空落落的。
 
-> **原句 3:** "Can I help?" he asked. / "Nah, I've got it," she said. / "Oh, good," Darcy sighed. "I didn't really want to."
+> **原句 3:** "Can I help?" he asked."
 
 **中文理解**：那人问要不要帮忙；对方说不用，我自己来；那人答：哦，好，其实我也不太想干。
 
-**关键词**：Can I help / Nah, I've got it / I didn't really want to
+**关键词**：Can I help / , I've got it / I didn't really want to
 
 **为什么这样写**：把 Darcy 的提议写成“I didn't really want to”——他的诚实；Cora 的“Nah, I've got it”写出她的能干。
 
 **读者视角提示**：两人的相处——一个能干，一个老实。
 
-> **原句 4:** "Corar pointed at the fridge. "There's beer, there's Hop Pop, and there's chocolate pudding," she said. "Choose your poison.""
+> **原句 4:** "Cora pointed at the fridge. “There’s beer, there’s Hop Pop, and there’s chocolate pudding,” she said. "Choose your poison.""
 
 **中文理解**：对方的招待——有啤酒，有气泡饮料，还有巧克力布丁；挑你想要的吧。
 

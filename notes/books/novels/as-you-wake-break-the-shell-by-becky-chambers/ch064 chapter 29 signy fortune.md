@@ -53,35 +53,35 @@ modified: "2026-10-19"
 
 **读者视角提示**：她被吸引的地方——对方的自信。
 
-> **原句 5:** "I didn't finish university because I didn't need it anymore," Signy said. "Maybe that sounds arrogant. Maybe it is."
+> **原句 5:** "Signy aligned the screwdriver bit, then pulled the trigger as Cora held the shelf level."
 
-**中文理解**：她的辍学——没念完大学，因为她不再需要它；也许这话听起来有点狂妄。
+**中文理解**：她校准螺丝刀钻头，扣下扳机——Cora 在一旁扶着架子，两人搭手。
 
-**关键词**：didn't need it anymore / Maybe that sounds arrogant
+**关键词**：aligned the screwdriver bit / pulled the trigger
 
-**为什么这样写**：把 Signy 的辍学写成“didn't need it anymore”——她的自足；“Maybe that sounds arrogant”写出她的自知。
+**为什么这样写**：把两人的协作写成一次施工——“Signy 对准、Cora 扶持”写出互补；“ pulled the trigger”写出她动手的 decisive。
 
-**读者视角提示**：她的辍学——是自足，而非失败。
+**读者视角提示**：两人关系——共同修缮，身体 proximity 的开始。
 
-> **原句 6:** "One day, I was in this awful lecture where the professor was talking about genetic drift as though it were some evil to be avoided at all costs. Inefficient, he called it. Inefficient!"
+> **原句 6:** "The sound of the tool in motion set her teeth on edge, but building things was enjoyable, and the din would end soon enough."
 
-**中文理解**：Signy 辍学的原因——教授把“genetic drift”说成应不惜代价避免的恶，斥其“Inefficient!”。
+**中文理解**：钻机声让她牙酸，但造东西 enjoyable，噪音总会停。
 
-**关键词**：genetic drift / evil to be avoided / Inefficient
+**关键词**：set her teeth on edge / building things was enjoyable
 
-**为什么这样写**：把教授的观点写成“evil to be avoided”——他的狭隘；“Inefficient!”的惊叹写出 Signy 的愤慨。
+**为什么这样写**：把她的感官反应写成“牙酸”——与“enjoyable”形成矛盾，写出她对施工又爱又恨。
 
-**读者视角提示**：她辍学的缘由——教授连遗传漂变都不懂。
+**读者视角提示**：她的性格——对噪音敏感，但享受动手。
 
-> **原句 7:** "I picked up my tablet and my bag, and I walked out, and I never went back."
+> **原句 7:** "Cora caught Signy staring. Her smile shifted from one sort of pride to another."
 
-**中文理解**：她的举动——当场走了出去，再也没回去过。
+**中文理解**：Cora 察觉 Signy 在看她，笑容从“成就感”转为“被看”的骄傲。
 
-**关键词**：walked out / never went back
+**关键词**：caught Signy staring / smile shifted
 
-**为什么这样写**：把 Signy 的辍学写成“walked out, and I never went back”——她果断的行动；“never went back”写出决绝。
+**为什么这样写**：把两人间的张力写成“被看”——Cora 的自信；“one sort of pride to another”写出她的情欲自觉。
 
-**读者视角提示**：她的辍学——果断而决绝。
+**读者视角提示**：两人的化学反应——被看与回应。
 
 > **原句 8:** "HAZARD WARNING / LEVEL: SEVERE / TYPE: ERUPTION (Tantrum)"
 
@@ -103,7 +103,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：她自私的念头——比起收容别人，她更想要对方的陪伴。
 
-> **原句 10:** "I have some ginger on me, but, um . . ." / "Well, good news. In two days, I'll have some real medicine ready for you."
+> **原句 10:** "I have some ginger on me, but, um . . ."
 
 **中文理解**：对方的姜片快用完了；而她说真正的药两天后就能备好。
 

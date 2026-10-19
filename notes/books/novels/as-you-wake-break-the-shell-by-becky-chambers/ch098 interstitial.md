@@ -53,7 +53,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：妹妹的安慰——对那伙人的天真信任（呼应 ch038 的那段讨论）。
 
-> **原句 5:** "I'm not just a passenger, I'm on the crew! Right now I'm a flight tech, which basically means I just do whatever somebody tells me to do."
+> **原句 5:** "I’m not just a passenger, I’m on the crew! Right now I’m a flight tech, which basically means I just do whatever somebody tells me to do"
 
 **中文理解**：妹妹的角色——我是船员；现在做飞行技术员。
 
@@ -121,8 +121,6 @@ modified: "2026-10-19"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| drone kite | 无人机风筝 | "DROEN KITE" (ch081) |
-| Sucker's Luck | 骗子的幸运 (Second Lander site) | "Sucker's Luck" (ch038, ch086) |
 
 ## 一句话总结
 

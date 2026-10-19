@@ -142,7 +142,6 @@ modified: "2026-10-19"
 | 词条 | 释义 | 例句 |
 |------|------|------|
 | Saturday Spectacular | 星期六特别节目 (Otto's radio show) | "listening to old episodes of Saturday Spectacular" |
-| vigil | 守夜/守灵 | "Signy's last vigil with Otto" |
 
 ## 一句话总结
 

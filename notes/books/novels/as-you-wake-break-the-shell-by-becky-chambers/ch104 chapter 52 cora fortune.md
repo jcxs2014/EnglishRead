@@ -13,7 +13,7 @@ modified: "2026-10-19"
 
 ## 精读
 
-> **原句 1:** "The proceedings underway in Colibri's pen were a 'light launch,' Signy had been told. This flight would only take two hours, and so the heavy prep required for a quarry run wasn't necessary."
+> **原句 1:** "The proceedings underway in Colibri’s pen were a “light launch,” Signy had been told. This flight would only take two hours, and so the heavy prep required for a quarry run wasn’t necessary"
 
 **中文理解**：有人告诉她，鲸鱼围栏里正在进行的是一场“轻装起飞”；这趟只飞两小时，所以不必像去采石场那样做繁重的准备。
 
@@ -103,11 +103,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：鲸鱼的自述——它从来没有快过。
 
-> **原句 10:** "You are wrong. / It is always going to feel like my fault. / Then you're always going to be wrong."
+> **原句 10:** "You are wrong."
 
 **中文理解**：你错了；可这件事永远都会像是我的错；那你就永远都是错的。
 
-**关键词**：It is always going to feel like my fault / Then you're always going to be wrong
+**关键词**：
 
 **为什么这样写**：把这段对话写成一次温和的固执——她不肯松开那份自责，而鲸鱼也不肯让步，用一句“永远都是错的”把它顶回去。
 
@@ -133,11 +133,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：那个两难——按下按钮能让她停，却会伤到她。
 
-> **原句 13:** "Do you still trust me?" / "Always."
+> **原句 13:** "Do you still trust me?""
 
 **中文理解**：你还信我吗？一直信。
 
-**关键词**：Do you still trust me / Always
+**关键词**：Do you still trust me
 
 **为什么这样写**：用一问一答两个词收束整场危机；“一直信”这个回答短到不能再短，却把两人的关系钉住。
 
@@ -175,7 +175,7 @@ modified: "2026-10-19"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| paradox | 悖论 | "You are allowed your paradoxes, Cora" |
+| paradox | 悖论 | "paradox" |
 
 ### ⭐ 基础
 

@@ -51,7 +51,6 @@ modified: "2026-10-19"
 |---|---|---|
 | genome edit | 基因组编辑 | They weren't scanning for genome edits as subtle as hers. |
 | tampering | 篡改 | she understood that tampering with her report would lead to a loss of her license |
-| triage | 分类筛选（医疗） | the cold logic of triage |
 | work-around | 变通方法 | finding creative work-arounds |
 
 ### ⭐⭐ 中级

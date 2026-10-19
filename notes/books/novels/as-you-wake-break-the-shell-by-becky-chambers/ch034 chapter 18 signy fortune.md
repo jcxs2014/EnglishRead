@@ -53,7 +53,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：护士 Arlo 的知情——对她所扮角色的含蓄承认。
 
-> **原句 5:** "If Otto became sick or infirm or unable to care for himself, he'd be moved into a hospice home and kept out of pain. That was all someone like Nurse Arlo had license to offer."
+> **原句 5:** "If Otto became sick or infirm or unable to care for himself, he’d be moved into a hospice home and kept out of pain. That was all someone like Nurse Arlo had license to offer"
 
 **中文理解**：临终政策——六十五岁以上只提供舒缓照护，唯一能给的只是让他免于疼痛。
 
@@ -83,11 +83,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：Signy 对分诊逻辑发起的哲学挑战。
 
-> **原句 8:** "You should be having more fun." / "I have fun." / "Tell me where you go besides work." / "I like work."
+> **原句 8:** "You should be having more fun."
 
 **中文理解**：Otto 劝她多去玩乐散心；她的回答却是“我喜欢工作”。
 
-**关键词**：having more fun / I like work
+**关键词**：having more fun
 
 **为什么这样写**：把两人的相处写成“玩乐与工作”的对立——Otto 关心她生活的平衡。
 
@@ -113,7 +113,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：Signy 的工作即谜题——在限制中自得其乐。
 
-> **原句 11:** "Oh, Sam can sort that out, I'm sure," he said. By relation, Sam was Henry's niece. By profession, she was a software engineer."
+> **原句 11:** "Oh, Sam can sort that out, I’m sure,” he said. By relation, Sam was Henry’s niece. By profession, she was a software engineer"
 
 **中文理解**：Sam 是 Henry 的侄女，做软件工程——Otto 用一份终身报酬换药，而医生打印种子报告。
 
@@ -123,45 +123,45 @@ modified: "2026-10-19"
 
 **读者视角提示**：Signy 的关系网——Sam 替她篡改报告，Otto 则既是朋友也是掩护。
 
-> **原句 12:** "Otto turned his head back over his shoulder again, nodding toward something on the table. "Ramona left that for you.""
+> **原句 12:** "Otto leaned back in his chair with his hands folded over his stomach, his mouth pursed and his eyes closed."
 
-**中文理解**：Ramona 的幸运乌龟挂饰——她把这样一件小东西留给了 Signy。
+**中文理解**：Otto 饭后靠在椅背上、双手叠在肚子上，嘴抿着、眼闭着——这是他饭后舒坦的神态。
 
-**关键词**：Ramona left that for you
+**关键词**：leaned back / hands folded over his stomach
 
-**为什么这样写**：把 Ramona 的挂饰写成“left for you”——她的关心；“that”（乌龟）作为物件。
+**为什么这样写**：把 Otto 的饭后松弛写成一个身体姿态——与 Signy 的“敲下巴”思考形成对照；“mouth pursed and eyes closed”写出他的满足。
 
-**读者视角提示**：Ramona 的性格——爱做挂饰，也爱关心别人。
+**读者视角提示**：Otto 的性格——知足、松弛、把 Signy 当自己人。
 
-> **原句 13:** "Rattle rattle, then thunk."
+> **原句 13:** "I can't," she said, bowing to reality."
 
-**中文理解**：Otto 提出拟音要求——先哗啦哗啦，再来一声闷响——Signy 便照着重演瓶子的动作。
+**中文理解**：Signy 胃口有限——她“只能认输”，面对 Otto 的“再来一个”只能低头。
 
-**关键词**：rattle rattle, then thunk
+**关键词**：I can't / bowing to reality
 
-**为什么这样写**：把瓶子的声音写成一段拟音——这是 Otto 的手艺；两个象声词让音效活了起来。
+**为什么这样写**：把她的节制写成“bowing to reality”——与 Otto 的“再来一个”形成对照；写出她务实的一面。
 
-**读者视角提示**：Otto 的拟音艺术——声音即手艺，而 Signy 正是那个声源。
+**读者视角提示**：两人的相处——Otto 劝吃，Signy 守住身体限度。
 
-> **原句 14:** "If you heard weird sounds—sounds of Earth, sounds of animals, sounds of monsters and machines and made-up things—those had been Otto's specialty."
+> **原句 14:** "Was Arlo here today?" Signy asked."
 
-**中文理解**：Otto 的拟音专长——地球上的声音、动物的声音、怪物与机器发出的各种怪响。
+**中文理解**：Signy 一见柜台上那两本小册子，便问 Arlo 护士是不是来过。
 
-**关键词**：weird sounds / specialty
+**关键词**：Was Arlo here today
 
-**为什么这样写**：把 Otto 的手艺写成一门“专长”——这是他的身份；地球、动物、怪物、机器与虚构之物的声音，构成一份清单。
+**为什么这样写**：把护士的来访写成 Signy 的追问——她从“Joint and Soft Tissue Injections”“What Is Potassium?”两本册子读出 Otto 的病情。
 
-**读者视角提示**：Otto 的拟音手艺——把声音当作想象力的创造。
+**读者视角提示**：Signy 对 Otto 健康的关切——从册子到追问。
 
-> **原句 15:** "Signy was glad they'd fixed that for each other."
+> **原句 15:** "Your blood tests are all right? Especially when it comes to, say, potassium?"'
 
-**中文理解**：Signy 与 Otto 彼此补足——她教他认识植物，他则教她拟音。
+**中文理解**：Signy 追问 Otto 的血检——尤其是钾——因为她的降压药可能降低钾。
 
-**关键词**：fixed that for each other
+**关键词**：blood tests / potassium
 
-**为什么这样写**：把他们的友谊写成相互教与学——“彼此补上”一句写出这份互惠。
+**为什么这样写**：把药物副作用写成 Signy 的追问——她既供药又监测，写出她作为“地下药剂师”的责任感。
 
-**读者视角提示**：两人的友谊——彼此都在成长。
+**读者视角提示**：Signy 对 Otto 的照料——供药与监测并行。
 
 ## 本章词汇
 
@@ -175,7 +175,6 @@ modified: "2026-10-19"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| Foley artist | 音效师 | "he'd been a Foley artist at K-CCN" |
 | impishly | 淘气地 | "He smiled impishly" |
 
 ### ⭐ 基础

@@ -33,11 +33,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：Otto 的性格——爱音乐、欣赏工艺。
 
-> **原句 3:** "He's a traditionalist." / "Oh, no," Signy said, grimacing. / "Doesn't like breaks, doesn't like chitchat, doesn't leave people alone when they go home."
+> **原句 3:** "He's a traditionalist."
 
 **中文理解**：Sam 的新上司——“traditionalist”；不喜欢休息、闲聊，人回家了也不放过。
 
-**关键词**：traditionalist / doesn't like breaks / doesn't leave people alone
+**关键词**：traditionalist / doesn't leave people alone
 
 **为什么这样写**：把坏上司写成“traditionalist”——OCTA 式的工作文化；“doesn't leave people alone when they go home”写出边界侵犯。
 
@@ -63,7 +63,7 @@ modified: "2026-10-19"
 
 **读者视角提示**：那位制片人令人生畏——作曲家对她既敬佩又发怵。
 
-> **原句 6:** "If we weren't in production, they were thick as thieves. Before we hit post, though . . . there was no quicker way to burn his biscuits than for him to get a note like 'Margaret says the closing theme needs to be six seconds shorter.'"
+> **原句 6:** "If we weren’t in production, they were thick as thieves. Before we hit post, though”—he paused as he began to fold back down, and didn’t speak again until he’d landed—“there was no quicker way to burn his biscuits than for him to ge"
 
 **中文理解**：Margaret 与 Henry 的相处——不赶工时两人亲密无间；一进后期制作，她就把他折腾得够呛。
 
@@ -83,17 +83,17 @@ modified: "2026-10-19"
 
 **读者视角提示**：两人的浪漫——那次日食飞行是 Otto 心中最顶峰的记忆。
 
-> **原句 8:** "Have you . . . Have you ever seen a rorqual?" / "What, in person?" / "No," Otto said. "Well . . . ish."
+> **原句 8:** "“Have you . . .” She traced her finger around the edge of her mug. “Have you ever seen a rorqual?""
 
 **中文理解**：Signy 问起鲸鱼——Otto 答得含糊，说小时候远远见过，也就是一团模糊的影子。
 
-**关键词**：ever seen a rorqual / in person / ish
+**关键词**：ever seen a rorqual
 
 **为什么这样写**：把 Otto 那次目击写成含糊的“算是吧”加“一团影子”——他的谦虚；“就是一团影子”写出距离之远。
 
 **读者视角提示**：Otto 对鲸鱼的了解——有限，而且只是二手。
 
-> **原句 9:** "I'm going up to the stables," she said. "Or, at least, that's the plan."
+> **原句 9:** "I’m going up to the stables,” she said, reaching for the tin. “Or, at"
 
 **中文理解**：Signy 的计划——上到轨道站的马厩去（去看 Cora 那边的鲸鱼）。
 
@@ -103,17 +103,17 @@ modified: "2026-10-19"
 
 **读者视角提示**：Signy 这趟远行——是对方付给她的医药费报酬。
 
-> **原句 10:** "Would you like it to be?" / "She's a customer. So, no." / "What's her name?" / "Cora," Signy said."
+> **原句 10:** "Would you like it to be?""
 
 **中文理解**：Otto 拿话打趣她——问她想不想让事情变成那样；Signy 只回避，直到 Cora 的名字说出口。
 
-**关键词**：Would you like it to be? / Cora
+**关键词**：Would you like it to be?
 
 **为什么这样写**：把 Otto 的打趣写成一句“你想不想让它变成那样”——他在探她的心意；而她那句“她是我的顾客，所以不是”写出防御。
 
 **读者视角提示**：老人在给她当媒人——总拿这件事打趣她。
 
-> **原句 11:** "She regretted inadvertently bringing them down this path."
+> **原句 11:** "Signy regretted inadvertently bringing them down this path."
 
 **中文理解**：Signy 的后悔——她懊恼自己无意间把话头引到了这条路上。
 
@@ -153,11 +153,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：他的创作自由——野生的鲸鱼就是一张空白画布。
 
-> **原句 15:** "Do you know how they communicate with their pilots?" / "It's pheromones, isn't it?" / "I'm not actually sure."
+> **原句 15:** "Do you know how they communicate with their pilots?"
 
 **中文理解**：她问起鲸鱼与飞行员如何沟通——靠信息素吗？老人也不确定。
 
-**关键词**：pheromones / I'm not actually sure
+**关键词**：pheromones
 
 **为什么这样写**：把鲸鱼的沟通写成“信息素”——这是她的猜测；老人那句“其实不太确定”写出他查阅资料的兴奋。
 
@@ -175,8 +175,7 @@ modified: "2026-10-19"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| Foley artist | 音效师 | "he'd been a Foley artist at K-CCN" |
-| wry | 讽刺的/滑稽的 | "Otto gave a wry look" |
+| wry | 讽刺的/滑稽的 | "wry" |
 
 ### ⭐ 基础
 

@@ -53,11 +53,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：Cora 的吸引——微小的细节、越烧越亮。
 
-> **原句 5:** "Have you ever had a period? After your first one, I mean?" / "Yeah, for a little bit. A few months in my teens." / "Really?" Signy said with surprise. "Why?"
+> **原句 5:** "Have you ever had a period? After your first one, I mean?""
 
 **中文理解**：对方谈自己的经期——有过一小段时间，十几岁时来过几个月；她追问为什么。
 
-**关键词**：had a period / a few months in my teens / Why?
+**关键词**：had a period
 
 **为什么这样写**：把这段经期写成“十几岁时来过几个月”——对方的回答很简短；而她那句“为什么”写出她的好奇。
 
@@ -73,31 +73,31 @@ modified: "2026-10-19"
 
 **读者视角提示**：棚架植物的霉病——导致医疗物资奇缺。
 
-> **原句 7:** "Can you see the egg when it comes out of you?" / "Not that I remember," Cora said. "It's just . . . blood. Blood and other stuff I didn't want to look too hard at."
+> **原句 7:** "Can you see the egg when it comes out of you?""
 
 **中文理解**：她的提问——卵子排出时你看得见吗？对方答：我不记得看得见，就只是……血。
 
-**关键词**：Can you see the egg / Not that I remember / blood and other stuff
+**关键词**：Can you see the egg / blood and other stuff
 
 **为什么这样写**：把 Signy 的好奇写成“Can you see the egg”——她的科学兴趣；Cora 的“blood and other stuff”写出她的回避。
 
 **读者视角提示**：Signy 的科学好奇——经期作为生物过程。
 
-> **原句 8:** "It's funny to think about, isn't it? That we're both full of eggs right now?" / "Huh," she said. / "Does that bother you?" / "Kind of," Cora said. / "Why?" / "I dunno, I don't like the thought of, like . . . little bundles of eggs in me."
+> **原句 8:** "It's funny to think about, isn't it? That we're both full of eggs right now?""
 
 **中文理解**：她说对方此刻体内满是卵子——对方有点不适地答“算是吧”，说自己肚子里装着一小包一小包的卵。
 
-**关键词**：full of eggs right now / little bundles of eggs in me
+**关键词**：full of eggs right now
 
 **为什么这样写**：把卵子写成“一小包一小包的卵”——写出对方的不适；“此刻满是卵子”写出她那种科学的框架。
 
 **读者视角提示**：Cora 的不适——蛋如“little bundles”在她体内。
 
-> **原句 9:** "It's an ovary," Signy said clinically. / "What?" / "Fruit. Fruit is a plant ovary."
+> **原句 9:** "It's an ovary," Signy said clinically."
 
 **中文理解**：她的揭晓——水果，水果就是植物的卵巢。
 
-**关键词**：Fruit is a plant ovary
+**关键词**：
 
 **为什么这样写**：把水果写成“植物的卵巢”——这是她的科学揭晓；“冷冷地”写出她那种疏离。
 
@@ -113,11 +113,11 @@ modified: "2026-10-19"
 
 **读者视角提示**：对方的无声崩溃——水果再也不是“只是水果”了。
 
-> **原句 11:** "I think next time, I'll bring muffins instead." / "I have really bad news for you about what flour is."
+> **原句 11:** "I think next time, I'll bring muffins instead.""
 
 **中文理解**：对方说那改吃松饼吧；她答：关于面粉是什么，我有个非常坏的消息要告诉你。
 
-**关键词**：muffins instead / really bad news for you about what flour is
+**关键词**：muffins instead
 
 **为什么这样写**：把这份逃避写成“那改吃松饼吧”——对方想绕开水果；她那句“非常坏的消息”写出她知道面粉就是磨碎的种子。
 
