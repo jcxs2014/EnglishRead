@@ -1,0 +1,102 @@
+# Introduction
+
+## 本章导航
+
+- **一句话概括**：编辑 Jonathan Strahan 回溯《The Book of the Dead》的起源——2023 年塔斯马尼亚之行中被 Day of the Dead 骷髅启发，进而思考 SF/幻想/恐怖三大类型中「死亡」的不同处理方式，最终集结二十余位作者，以死亡为主题编成这部选集。
+- **时间**：2023 年初（Strahan 完成《The Book of Witches》之后）→ 塔斯马尼亚之行（秋）→ 2025 年 8 月（Perth）定稿
+- **地点**：塔斯马尼亚 Hobart（ Mexican 餐厅）；Perth（定稿地）
+- **人物**：Jonathan Strahan（编辑/叙述者）；Terry Pratchett（Bill Door）；Garth Nix（Sabriel）；Ursula K. Le Guin（Earthsea）；Tolkien；Mary Shelley（Frankenstein）；Stephen Graham Jones；Tamsyn Muir；Indrapramit Das；Kaaron Warren；Daryl Gregory；Jeffrey Ford；Paolo Bacigalupi
+- **叙事手法**：第一人称编辑手记——从个人灵感出发，扩展为类型史综述，最后落回选集的组织逻辑与阅读顺序
+- **与后文的钩子**：Strahan 明确指出阅读顺序：Das 开篇（火车上的道德抉择）→ Warren 收尾（熟悉死亡却需逃离的家庭）；中间穿插 Gregory 的动物实验恐怖、Ford 的死后重逢幻想、Bacigalupi 的暴力刺客、Nix 的 Old Kingdom 回归。全书是一幅「死亡的巨幅壁画」。
+
+## 精读
+
+> **原句 1:** "On a rainy evening some friends and I met in a Mexican restaurant to discuss books and other things, but throughout the evening my eye was repeatedly drawn to a display of calaveras—Day of the Dead skulls. It showed sixteen highly decorated skulls, each of which seemed to me to imply a world of stories about what had happened to the owners of those disparate heads, how they’d happened to come to be there, and why some of them seemed quite so happy about it."
+
+- **中文理解**：在一个雨夜，Strahan 与朋友在墨西哥餐厅吃饭谈书，但他的目光反复被一组 calaveras——亡灵节骷髅——吸引。十六个高度装饰的骷髅，每个似乎都暗示着一个故事：这些头骨的主人经历了什么、怎么来到这里、为什么有些看起来那么高兴。calaveras 是墨西哥亡灵节的装饰品，Strahan 把它们读作「故事的种子」。
+- **关键词**：calaveras / Day of the Dead / disparate heads
+- **为什么这样写**：全篇的起源就在这段——从一个视觉意象（骷髅）到「每个骷髅背后都有故事」的推断，直接催生了整部选集。Strahan 用 "seemed to me to imply a world of stories" 把客观观察转为主观创作冲动，是编辑/策展人典型的「从意象到项目」思维。"why some of them seemed quite so happy about it" 是整本书的底色——死亡也可以是快乐的、安详的，不只有恐怖。
+- **读者视角提示**：calaveras（单数 calavera）是墨西哥亡灵节（Día de los Muertos）的装饰骷髅，常画成快乐、滑稽的形象；Day of the Dead 是墨西哥传统节日，与天主教万灵节融合。disparate 是「不同的、异质的」，强调十六个骷髅各不相同。
+
+> **原句 2:** "The Book of the Dead itself belongs to another culture, as does the Day of the Dead, so I knew that, despite taking inspiration from those things, any book I assembled would have to draw on different sources, so I began to think about representations of death, dying, and the dead in science fiction, fantasy, and horror."
+
+- **中文理解**：《The Book of the Dead》本身属于另一种文化（埃及《死者之书》），亡灵节也属于墨西哥文化，所以 Strahan 明白：尽管从中汲取灵感，他编的书必须从不同源头取材。于是他开始思考 SF、幻想、恐怖三大类型中「死亡、垂死与死者」的不同表现形式。
+- **关键词**：belongs to another culture / draw on different sources
+- **为什么这样写**：这是 Strahan 的文化自觉——他明确承认灵感来源（亡灵节骷髅）不属于自己的文化，因此不直接挪用，而是把「死亡」这个主题翻译到自己熟悉的类型（SF/幻想/恐怖）中。这句为全书的类型多样性做了铺垫：SF、幻想、恐怖三种类型对死亡的处理方式截然不同，选集因此横跨三界。
+- **读者视角提示**：The Book of the Dead 指古埃及《死者之书》（Book of the Dead），一组用于引导死者通过冥界审判的咒语与插图；Day of the Dead 是墨西哥亡灵节。Strahan 的「自我翻译」策略——借异文化意象，用本文化类型表达——是策展人常见的创造性转化。
+
+> **原句 3:** "My favorite, and possibly the most famous, of these is Terry Pratchett’s Bill Door, talking in ALL CAPS and sharing kindness and wisdom as he moves through what is a difficult job, though there are others."
+
+- **中文理解**：Strahan 最喜欢、也可能是最著名的「死神人物化」是 Terry Pratchett 的 Bill Door——用 ALL CAPS 说话，在执行一项艰难的工作时分享善意与智慧。though there are others 表示还有其他例子。
+- **关键词**：Bill Door / ALL CAPS / kindness and wisdom
+- **为什么这样写**：Bill Door 是 Discworld 系列中死神的化身，以 ALL CAPS 发言、骑白马、提镰刀，却常被描写为 kindly and wise。Strahan 用他作「死神人物化」的代表，强调死亡可以是温柔的、有尊严的——与 Horror 段落中「死亡是威胁」形成对照。这也是全书的另一极：死亡不是只有恐怖，也可以是善与智慧。
+- **读者视角提示**：Bill Door 是 Pratchett《Discworld》系列的死神角色，以全大写对话、骑白马、持镰刀著称，却常被描写为 kindly and wise。ALL CAPS 是 Pratchett 的标志性排版（死神说话时所有字母大写）。Discworld 是 Pratchett 的奇幻系列（1983-2015）。
+
+> **原句 4:** "Science fiction, on the other hand, rarely treats Death as an end in itself. Instead, it focuses on how death might be deferred, cheated, or technologically transformed."
+
+- **中文理解**：SF 很少把死亡本身当作目的；相反，它关注死亡如何被推迟、作弊或技术性转化。SF 对死亡的态度是「工程问题」而非「存在命题」。
+- **关键词**：deferred / cheated / technologically transformed
+- **为什么这样写**：这是 Strahan 对 SF 的类型判断——SF 的死亡叙事是技术性的、可操作的（推迟/作弊/转化），与幻想中的「土地/人物化」和恐怖中的「威胁/后果」形成三极对照。deferred/cheated/transformed 三个动词递进：推迟是延缓、作弊是规避、转化是改变本质——SF 对死亡的态度越来越「主动」。
+- **读者视角提示**：deferred = 推迟/延缓；cheated = 作弊/欺骗（指骗过死亡）；technologically transformed = 技术性转化（如上传意识、身体替换）。这三个动词概括了 SF 死亡叙事的三种主流策略。
+
+> **原句 5:** "In Mary Shelley’s Frankenstein, death is challenged through reanimation—an early, gothic vision of scientific hubris later revisited by authors from Poe to Lovecraft."
+
+- **中文理解**：在 Mary Shelley 的《Frankenstein》中，死亡通过再动画化（reanimation）被挑战——这是科学傲慢的早期哥特式愿景，后来被 Poe 到 Lovecraft 的作者反复重访。Frankenstein 是 SF 死亡叙事的起点：试图用科学逆转死亡。
+- **关键词**：reanimation / scientific hubris / gothic vision
+- **为什么这样写**：Strahan 把 Frankenstein 放在 SF 死亡叙事的起点，用 "scientific hubris"（科学傲慢）定义其本质——死亡是科学挑战的对象，但挑战本身包含道德危险。"later revisited by authors from Poe to Lovecraft" 把 Frankenstein 连接到整个哥特/恐怖传统，显示 SF 与 Horror 的边界模糊。
+- **读者视角提示**：reanimation = 再动画化/复活（将尸体重新赋予生命）；scientific hubris = 科学傲慢（试图超越人类限度的科学野心，通常以灾难收场）；gothic vision = 哥特式愿景（黑暗、恐怖、超自然的美学风格）。Poe（Edgar Allan Poe）和 Lovecraft（H. P. Lovecraft）是恐怖文学先驱。
+
+> **原句 6:** "Horror keeps death close at hand. Sometimes it is the quiet inevitability that waits just beyond the frame, and sometimes it bursts forth in blood and terror."
+
+- **中文理解**：恐怖文学把死亡紧握在手边。有时它是画面之外静候的必然性（quiet inevitability），有时它以鲜血与恐怖爆裂而出。 Horror 对死亡的态度是「不可回避的在场」——死亡不是要解决的问题，而是要面对的现实。
+- **关键词**：close at hand / quiet inevitability / bursts forth
+- **为什么这样写**：Horror 段落与 SF/Fantasy 段落形成三极对照：Fantasy 把死亡人物化/土地化（Bill Door、Sabriel 的 precincts），SF 把死亡技术化（deferred/cheated/transformed），Horror 把死亡「在场化」（close at hand）。"quiet inevitability" vs "bursts forth in blood and terror" 是恐怖文学的两种模式：隐性恐怖（鬼故事、悬念）与显性恐怖（血浆、怪物）。
+- **读者视角提示**：close at hand = 近在手边/触手可及；quiet inevitability = 静默的必然性（指死亡不可避免但不喧嚣）；bursts forth = 爆裂而出/喷涌而出。"just beyond the frame" 指画面/叙事之外，暗示恐怖的来源往往是不可见的。
+
+> **原句 7:** "So what of this book of the dead? As you might expect, the stories draw on all these genres, and sometimes challenge their boundaries."
+
+- **中文理解**：那么这部《死亡之书》呢？正如你所料，这些故事汲取了所有这些类型（SF/幻想/恐怖），有时还挑战它们的边界。选集的定位 statement——类型混血。
+- **关键词**：draw on all these genres / challenge their boundaries
+- **为什么这样写**：这是 Introduction 的 thesis——选集不是单一类型的死亡故事集，而是类型边界的探索者。"challenge their boundaries" 为后文的混血故事（如 Valente 的诗性 SF、Muir 的火星墓葬）做铺垫。这句话把 Strahan 从「类型史综述者」转回「选集编辑」，完成从综述到策展的过渡。
+- **读者视角提示**：genres = 类型（文学分类）；boundaries = 边界。SF、幻想、恐怖在英语类型文学中是三个传统上相互区分但经常重叠的类别。
+
+> **原句 8:** "If you choose to read the stories in order (not everyone does), the journey begins with Indrapramit Das’s tale of a young woman on a train faced with terrible choices and ends with Kaaron Warren’s depiction of a family deeply familiar with death, but who occasionally need to escape it."
+
+- **中文理解**：如果你选择按顺序读（不是所有人都这样），旅程从 Indrapramit Das 的火车上面临可怕抉择的年轻女子开始，以 Kaaron Warren 描绘的对死亡了如指掌却偶尔需要逃离它的家庭结束。Strahan 给出了选集的阅读地图。
+- **关键词**：in order / faced with terrible choices / deeply familiar with death
+- **为什么这样写**：这是 Introduction 的「阅读指南」——Strahan 不强求顺序阅读（"not everyone does"），但提供了顺序阅读的叙事弧：Das 的道德困境（火车）→ Warren 的家庭熟悉死亡（hermitage）。中间还有 Gregory 的动物实验、Ford 的死后重逢、Bacigalupi 的刺客、Nix 的 Old Kingdom 回归。这个弧线把 28 篇故事串成一个从「面对死亡的抉择」到「与死亡共处」的旅程。
+- **读者视角提示**：Indrapramit Das 是印度裔 SF 作家，《Passengers》是本选集的首篇；Kaaron Warren 是澳大利亚恐怖/奇幻作家，《Uncle Hermit》是终篇。"not everyone does" 显示 Strahan 对读者自主性的尊重——选集可以乱序读。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 原文例句 |
+|---|---|---|
+| calaveras | 亡灵节装饰骷髅（墨西哥传统） | my eye was repeatedly drawn to a display of calaveras—Day of the Dead skulls. |
+| disparate | 不同的、异质的、迥异的 | what had happened to the owners of those disparate heads |
+| coalesce | 融合、凝聚、联合 | Those ideas began to coalesce during that trip |
+| hubris | 傲慢、狂妄（尤指超越人类限度的野心） | an early, gothic vision of scientific hubris |
+| reanimation | 再动画化、复活（将尸体重新赋予生命） | death is challenged through reanimation |
+| inevitability | 不可避免性、必然性 | the quiet inevitability that waits just beyond the frame |
+| personifications | 人格化、拟人化 | a range of personifications of death as a character |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 原文例句 |
+|---|---|---|
+| deferred | 推迟的、延缓的 | how death might be deferred, cheated, or technologically transformed |
+| cheated | 作弊、欺骗（指骗过死亡） | how death might be deferred, cheated, or technologically transformed |
+| transformed | 转化、改变形式 | how death might be deferred, cheated, or technologically transformed |
+| precincts | 辖区、区域（此处指 Sabriel 中死亡的九层） | necromancers descend through nine perilous precincts of death |
+| gothic | 哥特式的（黑暗、恐怖、超自然的美学风格） | an early, gothic vision of scientific hubris |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 原文例句 |
+|---|---|---|
+| inevitably | 不可避免地 | the quiet inevitability that waits just beyond the frame |
+
+## 一句话总结
+
+Strahan 的 Introduction 是整部选集的「策展宣言」：从塔斯马尼亚餐厅里十六个 calaveras 骷髅的视觉冲击出发，他把「死亡」翻译为 SF/幻想/恐怖三种类型的不同处理方式——Fantasy 把死亡人物化与土地化（Bill Door、Sabriel 的九层 precincts），SF 把死亡技术化（deferred/cheated/transformed），Horror 把死亡「在场化」（close at hand）——然后集结二十余位作者，以 Das 的火车道德困境开篇、Warren 的家庭熟悉死亡收尾，编成一幅「死亡的巨幅壁画」。全篇的核心主张是：死亡不是抽象的，而是「我们最深的弱点与最强的力量」。
