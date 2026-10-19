@@ -39,7 +39,7 @@ modified: "2026-10-19"
 
 > **原句 1:** "On July 10, the fifth day after the Mignonette sank, Brooks spotted something off in the distance. Whatever it was, it appeared to be moving. Brooks was eventually able to make out that it was a sea turtle, and he pointed it out to Dudley. The turtle was windward, and they were about to leave it behind. Brooks, who was steering, pulled the dinghy around to move toward it. When the lifeboat drew close, Stephens was able to grab the sea turtle by the flippers and turn it over. Brooks let go of the oar he was using to steer and helped lift the turtle into the boat. Although it was fairly large, Brooks later recalled that "it came on board as light as a fly.""
 
-- **中文理解**：7 月 10 日，Mignonette 沉没第五天，Brooks spotted something off in the distance，moving。Eventually make out sea turtle，pointed to Dudley。Turtle was windward，about to leave it behind。Brooks steering，pulled dinghy around toward it。Lifeboat drew close，Stephens grabbed sea turtle by flippers and turned it over。Brooks let go oar，helped lift turtle into boat。Although fairly large，Brooks recalled "it came on board as light as a fly."
+- **中文理解**：7 月 10 日，Mignonette 沉没第五天，Brooks 发现远处有东西在动。他最终看出是一只海龟，指给 Dudley 看。海龟在上风处，他们快要错过它了。掌舵的 Brooks 转动 dinghy 靠近。救生艇靠近后，Stephens 抓住海龟的鳍把它翻过来。Brooks 放开掌舵的桨帮忙把海龟抬上船。虽然海龟相当大，Brooks 后来回忆说"它上船轻得像只苍蝇"。
 - **句子结构**：八句：spot → make out → windward → pull around → grab → lift → "as light as a fly"。末句引语作收束。
 - **关键词**：`sea turtle`、`windward`、`flippers`、`"it came on board as light as a fly"`
 - **表达方式**：用 "as light as a fly" 把 sea turtle 的重量写成 "light"——Brooks 的引语把 capture 写成 "effortless"，与 men 的 desperate 形成反差。
@@ -47,7 +47,7 @@ modified: "2026-10-19"
 
 > **原句 2:** "The capture of the sea turtle was cause for excitement and joy. It would provide the men with the first food they had eaten in five days, other than the canned turnips, and it would be actual meat. Even more important, the turtle would provide them with drinkable liquid. "It gave us all fresh hopes," Dudley said later."
 
-- **中文理解**：Capture of sea turtle was cause for excitement and joy。It would provide first food in five days（other than canned turnips），actual meat。Even more important，turtle would provide drinkable liquid。"It gave us all fresh hopes," Dudley said later。
+- **中文理解**：捕获海龟是兴奋与喜悦的原因。它将给水手们提供五天来第一顿真正的食物——除了罐头芜菁之外，这将是真正的肉。更重要的是，海龟将为他们提供可饮用的液体。"它给了我们所有新的希望，"Dudley 后来说。
 - **句子结构**：四句：excitement/joy → food → liquid → Dudley 引语。
 - **关键词**：`cause for excitement and joy`、`actual meat`、`drinkable liquid`、`"It gave us all fresh hopes"`
 - **表达方式**：用 "fresh hopes" 把 turtle 写成 "hope"——与后文 "no hope" 形成对照；"actual meat" 强调 "real food" vs turnips。
@@ -55,7 +55,7 @@ modified: "2026-10-19"
 
 > **原句 3:** "It was a remarkable windfall. Apart from rainwater, sea turtle blood is one of the best sources of life-sustaining liquids available at sea. Fish blood is too rich with protein and salt to ward off dehydration, but sea turtle blood has a different chemistry, and it is a highly effective substitute for freshwater. A forty-five-pound turtle can produce a quart of blood and other fluids. Although the men were focused on their thirst, the sea turtle would also provide pounds of meat. After five days of near starvation, the men's relief and eagerness were overwhelming. The first thing they did was start drinking the sea turtle's blood, which they found enormously refreshing after days of thirst and parched mouths. They planned to save some of the blood for later, but in that they were less successful. They scrambled to catch some blood in the chronometer box, but seawater sprayed in. "We lost the biggest part of the blood through the salt water," Brooks recalled ruefully."
 
-- **中文理解**：It was remarkable windfall。Apart from rainwater，sea turtle blood is one of best sources of life-sustaining liquids at sea。Fish blood too rich with protein and salt to ward off dehydration，but sea turtle blood different chemistry，highly effective substitute for freshwater。45-pound turtle can produce quart of blood and other fluids。Although men focused on thirst，sea turtle would also provide pounds of meat。After five days near starvation，men's relief and eagerness overwhelming。First thing they did was start drinking sea turtle's blood，enormously refreshing after days of thirst and parched mouths。They planned to save some blood for later，but less successful。Scrambled to catch blood in chronometer box，but seawater sprayed in。"We lost the biggest part of the blood through the salt water," Brooks recalled ruefully。
+- **中文理解**：这是一次非凡的意外收获。除了雨水，海龟血是海上最好的维持生命的液体来源之一。鱼血因蛋白质和盐分太丰富而无法抵御脱水，但海龟血化学成分不同，是淡水的高效替代品。一只四十五磅的海龟能产出一夸脱血液和其他液体。虽然水手们专注于口渴，海龟还能提供几磅肉。五天接近饥饿后，水手们的解脱和急切压倒一切。他们做的第一件事就是开始喝海龟血——在几天的干渴和干裂的嘴唇之后，他们觉得异常清爽。他们计划保存一些血供后用，但在这方面不太成功。他们 scrambling 在天文钟盒里接血，但海水喷了进去。"我们通过盐水失去了大部分血，"Brooks 懊恼地回忆。
 - **句子结构**：十二句：windfall → blood source → fish vs turtle chemistry → 45-pound/quart → meat → relief/eagerness → drinking → refreshing → plan save → scrambled → seawater sprayed → Brooks 引语。
 - **关键词**：`remarkable windfall`、`life-sustaining liquids`、`different chemistry`、`enormously refreshing`、`ruefully`
 - **表达方式**：用 "remarkable windfall" 把 turtle 写成 "luck"；用 "different chemistry" 把 blood 写成 "science"；用 "ruefully" 把 loss 写成 "regret"。
@@ -63,7 +63,7 @@ modified: "2026-10-19"
 
 > **原句 4:** "The relief from the turtle blood did not last. If it had not been contaminated with seawater, Brooks estimated, they would have had a quart or more to drink, which would have lasted them several days. Instead, they were thirsty again almost immediately. Before long, the castaways resorted to something more desperate than drinking turtle blood. Around the eighth day in the lifeboat, they began to drink their own urine. They had held out as long as they could, but from that day on, they consumed urine on a regular basis. Drinking urine was more accepted among sailors than drinking seawater, but it could also be harmful. Like seawater, urine has high salt levels that can exacerbate dehydration. It also contains waste products and toxins. Urine drinking can also take a psychological toll. As one handbook on emergency medicine warns, drinking urine "will destroy a person's will to survive and hasten their death.""
 
-- **中文理解**：Relief from turtle blood did not last。If not contaminated with seawater，Brooks estimated，they would have had quart or more to drink，lasting several days。Instead，thirsty again almost immediately。Before long，castaways resorted to something more desperate than drinking turtle blood。Around eighth day in lifeboat，they began to drink their own urine。Held out as long as could，but from that day on，consumed urine on regular basis。Drinking urine more accepted among sailors than drinking seawater，but could also be harmful。Like seawater，urine has high salt levels that can exacerbate dehydration。Also contains waste products and toxins。Urine drinking can also take psychological toll。As one handbook on emergency medicine warns，drinking urine "will destroy a person's will to survive and hasten their death."
+- **中文理解**：海龟血带来的解脱没有持续。Brooks 估计，如果没有被海水污染，他们本可以喝到一夸脱或更多的血，够喝好几天。相反，他们几乎立刻又渴了。不久，漂流者诉诸比喝海龟血更绝望的手段。在救生艇上的第八天左右，他们开始喝自己的尿。他们坚持了能坚持的最久，但从那天起他们定期喝尿。在水手中，喝尿比喝海水更容易被接受，但也有害。像海水一样，尿液含盐量高，会加剧脱水。它还含废物和毒素。喝尿也会造成心理负担。正如一本急救手册警告的："喝尿会摧毁一个人求生的意志，加速死亡。"
 - **句子结构**：十四句：relief did not last → estimate → thirsty again → resorted → began urine → held out → regular → accepted → harmful → salt → waste/toxins → psychological toll → handbook warning。
 - **关键词**：`exacerbate dehydration`、`waste products and toxins`、`psychological toll`、`"will destroy a person's will to survive"`
 - **表达方式**：用 "handbook on emergency medicine" 引语把 urine drinking 写成 "medical warning"——这种 "expert voice" 提升 narrative 的 credibility，也为后文 "necessary" 提供 "desperation" 的事实基础。
@@ -71,7 +71,7 @@ modified: "2026-10-19"
 
 > **原句 5:** "Dudley was invoking a tradition known as "the custom of the sea." It had long been accepted in the sailing world that when there was not enough food or water to keep everyone alive, lots could be drawn to decide who should be killed and eaten. It was something to be done only in the most extreme circumstances, and Dudley had decided that they had reached that horrible point."
 
-- **中文理解**：Dudley was invoking tradition known as "the custom of the sea"。It had long been accepted in sailing world that when not enough food or water to keep everyone alive，lots could be drawn to decide who should be killed and eaten。Something to be done only in most extreme circumstances，and Dudley had decided they had reached that horrible point。
+- **中文理解**：Dudley 正在援引一种被称为"海难旧俗"的传统。在航海世界，长期被接受的是：当没有足够的食物或水维持所有人活着时，可以抽签决定谁该被杀死吃掉。这只能在最极端的情况下做，Dudley 已经决定他们到达了那个可怕的关头。
 - **句子结构**：三句：invoking → custom 定义 → extreme circumstances + Dudley's decision。
 - **关键词**：`the custom of the sea`、`lots could be drawn`、`most extreme circumstances`
 - **表达方式**：用 "invoking" 把 custom 写成 "tradition invoked"，暗示 Dudley 的 "appeal to tradition"；"horrible point" 把 "extreme" 写成 "moral threshold"。
@@ -79,7 +79,7 @@ modified: "2026-10-19"
 
 > **原句 6:** "Even many people with no connection to the sea knew of the custom of the sea. It had been written about in leading works of literature. Lord Byron, among the most revered writers of his day, depicted it in one of his most popular epic poems. In Don Juan, published between 1819 and 1824, the title character and his tutor, Pedrillo, escape a shipwreck in a lifeboat and run out of food. Desperate, "they spoke of lots for flesh and blood / And who should die to be his fellow's food." Pedrillo lost the drawing and was killed and eaten. In Edgar Allan Poe's only novel, The Narrative of Arthur Gordon Pym of Nantucket, sailors draw lots after a shipwreck so "one of us should die to preserve the existence of the others." The men in the Mignonette lifeboat were likely not familiar with this American novel, but if they had been, they might have been haunted by an eerie coincidence. In the book, which had been published forty-six years earlier, the sailor who drew the short straw and was eaten was named Richard Parker."
 
-- **中文理解**：Even many people with no connection to sea knew of custom of the sea。It had been written about in leading works of literature。Byron depicted it in Don Juan（1819-1824）：title character and tutor Pedrillo escape shipwreck in lifeboat，run out of food。Desperate，"they spoke of lots for flesh and blood / And who should die to be his fellow's food." Pedrillo lost drawing，killed and eaten。Poe's only novel The Narrative of Arthur Gordon Pym of Nantucket：sailors draw lots after shipwreck so "one of us should die to preserve the existence of the others." Mignonette men likely not familiar with this American novel，but if they had been，might have been haunted by eerie coincidence。In book，published forty-six years earlier，sailor who drew short straw and was eaten was named Richard Parker。
+- **中文理解**：即使很多与海无关的人也知道"海难旧俗"。它被写进主要文学作品。拜伦，他那个时代最受尊敬的作家之一，在他最流行的史诗之一中描绘了它。在 1819 至 1824 年间发表的《唐璜》中，主人公和他的导师 Pedrillo 从海难中逃到救生艇上，食物耗尽。绝望中，"他们谈论着抽签决定谁的肉和血 / 谁该死来当同伴的食物。"Pedrillo 输了抽签，被杀吃掉。在 Edgar Allan Poe 唯一的小说《ナンタケット的亚瑟·戈登·皮姆叙事》中，水手们在海难后抽签，以便"我们中的一个应该死来保全其他人的存在"。Mignonette 号救生艇上的水手们可能不熟悉这部美国小说，但如果他们熟悉，他们可能会被一个怪异的巧合所困扰。在那本书中——发表于四十六年前——抽到短签被吃掉的水手名叫 Richard Parker。
 - **句子结构**：十三句：literature knew → Byron → Don Juan plot → quote → Pedrillo killed → Poe → quote → Mignonette unfamiliar → eerie coincidence → Richard Parker coincidence。
 - **关键词**：`"they spoke of lots for flesh and blood"`、`eerie coincidence`、`Richard Parker`
 - **表达方式**：用 "eerie coincidence" 把 Poe 小说中的 "Richard Parker" 与真实 Parker 的名字并置——这种 "literary echo" 把海难写成 "literary fate"。
@@ -87,7 +87,7 @@ modified: "2026-10-19"
 
 > **原句 7:** "The custom of the sea had another virtue that some philosophers favored: egalitarianism. Sailing ships were notoriously hierarchical, with captains exercising dictatorial power. But the custom of the sea did not leave it to the captain to decide who should be killed. Nor did it decree that the lowest-ranking person on the ship be sacrificed. It required lots to be drawn on an equal basis so that everyone from the captain to the cabin boy would have the same chance to live."
 
-- **中文理解**：Custom of the sea had another virtue some philosophers favored：egalitarianism。Sailing ships notoriously hierarchical，captains exercising dictatorial power。But custom did not leave it to captain to decide who killed。Nor did it decree lowest-ranking sacrificed。It required lots drawn on equal basis so everyone from captain to cabin boy same chance to live。
+- **中文理解**："海难旧俗"还有哲学家们欣赏的另一个优点：平等主义。帆船 notoriously 等级森严，船长行使独裁权力。但"海难旧俗"不让船长决定谁该被杀。它也不规定船上最低级别的人员被牺牲。它要求在平等的基础上抽签，以便从船长到 cabin boy 每个人都有同样的生存机会。
 - **句子结构**：五句：egalitarianism → hierarchical → not captain → not lowest → equal basis。
 - **关键词**：`egalitarianism`、`notoriously hierarchical`、`dictatorial power`、`equal basis`
 - **表达方式**：用 "notoriously hierarchical" 把 sailing ship 写成 "authoritarian"，与 custom 的 "egalitarianism" 形成对照；"from the captain to the cabin boy" 把 "equality" 具象化。
@@ -95,7 +95,7 @@ modified: "2026-10-19"
 
 > **原句 8:** "Brooks's words were revealing. It was now clear that his objections were not about timing. He was not merely saying he did not believe it was necessary to kill someone now, but it might be in the future. Brooks was categorically rejecting the idea that any of them should be killed, at any point. There in the lifeboat, Brooks did not explain why he was resisting in this way, and in later statements about the events, he does not appear to have said any more about how he arrived at his position. It could have been a matter of religious conviction. Brooks was, after all, a man of faith, who prayed throughout the voyage. But the way he worded his objection does not sound particularly religious. He did not explicitly invoke the Bible or Jesus. He did not say it would be a sin to kill, or even that it would be "wrong." He said, "I should not like to," as if he had decided this all on his own. His statement sounded less like Christian dogma than like a personal credo, a statement of conscience."
 
-- **中文理解**：Brooks's words were revealing。It was now clear his objections were not about timing。He was not merely saying not necessary to kill someone now，but might be in future。Brooks was categorically rejecting idea that any of them should be killed，at any point。In lifeboat，Brooks did not explain why resisting，and in later statements does not appear to have said more about how arrived at position。Could have been religious conviction。Brooks was，after all，man of faith，who prayed throughout voyage。But way he worded objection does not sound particularly religious。He did not explicitly invoke Bible or Jesus。He did not say it would be sin to kill，or even "wrong." He said，"I should not like to," as if decided this all on his own。His statement sounded less like Christian dogma than like personal credo，statement of conscience。
+- **中文理解**：Brooks 的话很有启发。现在清楚了，他的反对不是关于时机的。他不仅仅是在说现在杀人不必要，但将来可能必要。Brooks 绝对地拒绝了任何情况下杀死任何人的想法。在救生艇上，Brooks 没有解释他为什么这样抵抗，后来关于事件的陈述中，他似乎也没有多说他是如何得出这个立场的。可能是宗教信念的问题。Brooks 毕竟是一个有信仰的人，在整个航行中祈祷。但他措辞反对的方式听起来并不特别宗教。他没有明确援引《圣经》或耶稣。他没有说杀人是罪，甚至没有说"wrong"。他说"我不愿意"，好像他自己决定了这一切。他的陈述听起来更像个人信条，一种良心的表白，而不是基督教教条。
 - **句子结构**：十二句：revealing → not timing → not merely → categorically rejecting → in lifeboat → later statements → religious conviction → man of faith → wording not religious → no Bible/Jesus → "I should not like to" → personal credo。
 - **关键词**：`categorically rejecting`、`personal credo`、`statement of conscience`
 - **表达方式**：用 "personal credo" 把 Brooks 的 "I should not like to" 写成 "individual conscience"——这种 "conscience" framing 与 Kant 的 "categorical imperative" 形成对照（作者在引言已铺垫）。
@@ -103,7 +103,7 @@ modified: "2026-10-19"
 
 > **原句 9:** "It is often said that in survival conditions, no rules apply. Thomas Hobbes, in Leviathan, wrote of what he called the battle for existence, which he called the war of "every man, against every man." But Brooks's stand refutes the idea that it has to be every man for himself. Brooks showed that it was possible to hold firmly to moral beliefs even under threat of death."
 
-- **中文理解**：It is often said that in survival conditions，no rules apply。Hobbes in Leviathan wrote of battle for existence，war of "every man, against every man." But Brooks's stand refutes idea that it has to be every man for himself。Brooks showed possible to hold firmly to moral beliefs even under threat of death。
+- **中文理解**：人们常说在生存条件下，没有规则适用。Hobbes 在《利维坦》中写了他所称的存在之战，他称之为"每个人对每个人"的战争。但 Brooks 的立场驳斥了"必须每个人为自己"的想法。Brooks 证明了即使在死亡威胁下，也有可能坚定地坚守道德信念。
 - **句子结构**：四句：often said → Hobbes quote → Brooks refutes → Brooks showed。
 - **关键词**：`"every man, against every man"`、`refutes`、`hold firmly to moral beliefs`
 - **表达方式**：用 Hobbes quote 作 "conventional wisdom"，用 Brooks's stand 作 "refutation"——这种 "thesis → antithesis" 结构把 Brooks 写成 "moral hero"。
@@ -111,7 +111,7 @@ modified: "2026-10-19"
 
 > **原句 10:** "Dudley's new plan also addressed another concern Stephens may have had. The captain had not been able to get Stephens to agree to a drawing in which he himself would have a one in four chance of being selected to be killed and eaten. But now he was offering a plan in which Dudley, Stephens, and Brooks would all be safe. Dudley was stipulating from the start that Parker would be the one to die."
 
-- **中文理解**：Dudley's new plan also addressed another concern Stephens may have had。Captain had not been able to get Stephens to agree to drawing in which he himself would have one in four chance of being selected to be killed and eaten。But now offering plan in which Dudley，Stephens，and Brooks would all be safe。Dudley was stipulating from start that Parker would be one to die。
+- **中文理解**：Dudley 的新方案还解决了 Stephens 可能有的另一个担忧。船长没能说服 Stephens 同意抽签——在抽签中 Stephens 自己有四分之一的机会被选中杀死吃掉。但现在他提供的是 Dudley、Stephens 和 Brooks 都安全的方案。Dudley 从一开始就规定 Parker 是要死的那个。
 - **句子结构**：四句：new plan → Stephens's concern → safe plan → Parker stipulated。
 - **关键词**：`one in four chance`、`all be safe`、`stipulating`
 - **表达方式**：用 "stipulating" 把 Dudley 的 "plan" 写成 "predetermined"——这种 "predetermination" 与 custom of the sea 的 "chance" 形成对照。
@@ -119,7 +119,7 @@ modified: "2026-10-19"
 
 > **原句 11:** "The captain's proposal was a major departure from the custom of the sea, and it lacked some of the classic virtues of that maritime tradition. It did not have the inherent equality of the custom of the sea, which required that everyone on the boat have the same chance of living or dying. And because it did not include the element of chance, there would be no way to believe God—or the fates—had determined the outcome."
 
-- **中文理解**：Captain's proposal was major departure from custom of the sea，and it lacked some classic virtues of that maritime tradition。It did not have inherent equality of custom，which required everyone on boat same chance of living or dying。And because it did not include element of chance，there would be no way to believe God—or fates—had determined outcome。
+- **中文理解**：船长的提议是与"海难旧俗"的重大背离，缺乏这一航海传统的某些经典优点。它没有"海难旧俗"固有的平等性——后者要求船上每个人都有同样的生存或死亡机会。而且因为它不包含偶然因素，就无法相信是上帝——或命运——决定了结果。
 - **句子结构**：三句：departure → lacked equality → no chance/God。
 - **关键词**：`major departure`、`inherent equality`、`element of chance`、`God—or the fates`
 - **表达方式**：用 "major departure" 把 Dudley 的 plan 写成 "violation" of custom；用 "God—or the fates" 把 "chance" 写成 "divine determination"。
@@ -127,7 +127,7 @@ modified: "2026-10-19"
 
 > **原句 12:** "Parker, who had been left out of all the previous discussions of drawing lots, was not included in the one about killing him, specifically. If he had known what was being planned, he almost certainly would have objected strenuously. At seventeen, Parker had his whole life ahead of him, and he had begun the voyage with an exuberant attitude about life. He wanted to become a man and was considering leaving England for new adventures in Australia. Even with dehydration and starvation taking their toll, he "never said anything to lead us to suppose that his life was a burden to him," Brooks said. Even as he lay on the floor sick and in pain, Parker kept thinking about being rescued. When he slept, he woke up talking about a ship arriving to save them. "A ship was all I ever heard him express a wish about," Brooks said."
 
-- **中文理解**：Parker，left out of all previous discussions of drawing lots，not included in one about killing him specifically。If he had known，almost certainly would have objected strenuously。At seventeen，Parker had whole life ahead of him，and he had begun voyage with exuberant attitude about life。He wanted to become a man and was considering leaving England for new adventures in Australia。Even with dehydration and starvation taking toll，he "never said anything to lead us to suppose that his life was a burden to him," Brooks said。Even as he lay on floor sick and in pain，Parker kept thinking about being rescued。When he slept，he woke up talking about ship arriving to save them。"A ship was all I ever heard him express a wish about," Brooks said。
+- **中文理解**：Parker 从未被纳入之前的抽签讨论，更未被纳入关于 specifically 杀死他的讨论。如果他知道正在计划什么，几乎肯定 strenuously 反对。十七岁的 Parker 前途似锦，以 exuberant 的人生态度开始航行。他想成为一个男人，正在考虑离开英国去澳洲冒险。即使脱水和饥饿正在折磨他，他"从未说过任何话让我们以为他的生命是一种负担，"Brooks 说。即使他躺在地板上生病疼痛，Parker 仍在想着被救。他睡觉时醒来谈论一艘船来救他们。"一艘船是我听他说出的唯一愿望，"Brooks 说。
 - **句子结构**：九句：left out → would have objected → seventeen → exuberant → wanted to become a man → "never said..." → even as sick → woke talking → "A ship was all..."
 - **关键词**：`exuberant attitude`、`"never said anything to lead us to suppose that his life was a burden to him"`、`"A ship was all I ever heard him express a wish about"`
 - **表达方式**：用 "exuberant attitude" 与 "A ship was all I ever heard him express a wish about" 把 Parker 写成 "hopeful"——这种 "hope" 与 "killing" 形成 "tragic irony"。
@@ -135,7 +135,7 @@ modified: "2026-10-19"
 
 > **原句 13:** "It was clear from Parker's words that he knew what was about to happen, another unsettling aspect of the scene. Dudley did not strike from behind, ending Parker's life before he could appreciate what was going on. He allowed the cabin boy an awful moment of knowledge of what was about to occur. And there is a particular poignancy to Parker's final word, "Sir." He was speaking with deference to the man who had offered himself, back in May, as a kind of father figure."
 
-- **中文理解**：It was clear from Parker's words that he knew what was about to happen，another unsettling aspect。Dudley did not strike from behind，ending Parker's life before he could appreciate what was going on。He allowed cabin boy an awful moment of knowledge of what was about to occur。And there is particular poignancy to Parker's final word，"Sir." He was speaking with deference to man who had offered himself，back in May，as kind of father figure。
+- **中文理解**：从 Parker 的话可以看出他知道即将发生什么，这是场景中另一个令人不安的方面。Dudley 没有从背后袭击，在 Parker 能意识到正在发生什么之前就结束了他的生命。他让 cabin boy 在可怕的知识中意识到即将发生的事。Parker 最后一个词"Sir"有一种特别的悲怆。他是在向那个在五月把自己当作某种父亲形象的人表示敬意。
 - **句子结构**：六句：Parker murmured → knew → did not strike from behind → allowed awful moment → poignancy of "Sir" → deference to father figure。
 - **关键词**：`poignancy`、`deference`、`father figure`、`"Sir"`
 - **表达方式**：用 "poignancy" 把 "Sir" 写成 "tragic"——Parker 的 last word 是 "deference"，不是 "protest"；"father figure" 把 Dudley 的 "offer to make a man of him" 转化为 "murderer"。
@@ -143,7 +143,7 @@ modified: "2026-10-19"
 
 > **原句 14:** "Dudley and Stephens stripped Parker's body, throwing his clothing overboard. When they were done, they sliced open the corpse and removed the internal organs. Dudley, Stephens, and Brooks devoured Parker's heart and liver while they were still warm. Then they tore flesh from Parker's body and immediately began eating it."
 
-- **中文理解**：Dudley and Stephens stripped Parker's body，throwing clothing overboard。When done，they sliced open corpse and removed internal organs。Dudley，Stephens，and Brooks devoured Parker's heart and liver while still warm。Then they tore flesh from Parker's body and immediately began eating it。
+- **中文理解**：Dudley 和 Stephens 剥光 Parker 的尸体，把衣服扔进海里。完成后，他们切开尸体取出内脏。Dudley、Stephens 和 Brooks 在 Parker 的心肝还温热时就吞食了。然后他们从 Parker 身上撕下肉，立即开始吃。
 - **句子结构**：四句：stripped → sliced open → devoured heart/liver → tore flesh。
 - **关键词**：`stripped`、`sliced open the corpse`、`devoured`、`while they were still warm`
 - **表达方式**：用 "devoured" 与 "while they were still warm" 把食人写成 "enthusiastic"——这种 "enthusiasm" 为后文 "partook with relish" 提供 "matter-of-fact" 的 tone。
@@ -151,7 +151,7 @@ modified: "2026-10-19"
 
 > **原句 15:** "The men dug into their meal enthusiastically. It did not deter them that the meat and blood were human—or, more particularly, that it came from a shipmate and friend. Brooks later said that they fully enjoyed the food and drink that had suddenly appeared before them. "I can say that we partook of it with quite as much relish as ordinary food," he said."
 
-- **中文理解**：Men dug into meal enthusiastically。It did not deter them that meat and blood were human—or，more particularly，that it came from shipmate and friend。Brooks later said they fully enjoyed food and drink that suddenly appeared before them。"I can say that we partook of it with quite as much relish as ordinary food," he said。
+- **中文理解**：水手们热情地投入到他们的饭食中。人肉和人血的事实——更确切地说，它来自一个船友和朋友——并没有阻止他们。Brooks 后来说他们充分享用了突然出现在他们面前的食物和饮料。"我可以保证，我们享用它就像享用普通食物一样津津有味，"他说。
 - **句子结构**：四句：dug in → did not deter → Brooks said → Brooks 引语。
 - **关键词**：`dug into their meal enthusiastically`、`did not deter them`、`partook of it with quite as much relish as ordinary food`
 - **表达方式**：用 "partook of it with quite as much relish as ordinary food" 把食人写成 "ordinary"——Brooks 的引语把 "cannibalism" 写成 "ordinary meal"，这种 "ordinariness" 是最 disturbing 的部分。
@@ -283,7 +283,6 @@ modified: "2026-10-19"
 | internal organs | 内脏 | removed the internal organs |
 | shipmate | 船友 | came from a shipmate and friend |
 | reenergized | 重新充满能量的 | reenergized the other three |
-
 
 ## 一句话总结
 

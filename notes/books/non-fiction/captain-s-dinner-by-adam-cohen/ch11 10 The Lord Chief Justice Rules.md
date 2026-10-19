@@ -48,7 +48,7 @@ modified: "2026-10-19"
 
 > **原句 1:** "For the first time since their arrest in Falmouth, Dudley and Stephens did not know where their case was headed next. The special verdict had hit them with a new element of uncertainty. Baron Huddleston had said that after the jury signed off on its finding of fact, another judge or judges would take over the case and deliver a verdict. But he did not say who those judges would be, and it had been so long since a special verdict was last used that no one seemed to have any idea what should happen now. Baron Huddleston scheduled a hearing to decide the question."
 
-- **中文理解**：For first time since arrest in Falmouth，Dudley and Stephens did not know where case headed next。Special verdict had hit them with new element of uncertainty。Baron Huddleston had said that after jury signed off on finding of fact，another judge or judges would take over case and deliver verdict。But he did not say who those judges would be，and it had been so long since special verdict last used that no one seemed to have any idea what should happen now。Baron Huddleston scheduled hearing to decide question。
+- **中文理解**：自 Falmouth 被捕以来，Dudley 和 Stephens 第一次不知道案件将走向何方。特别裁决给他们带来了新的不确定性元素。Baron Huddleston 曾说 jury 签署 fact finding 后，another judge or judges 会接管 case 并 deliver verdict。但他没有说这些 judges 是谁，而且 special verdict 已久未使用，似乎没人知道现在该发生什么。Baron Huddleston 安排了 hearing 来决定这个问题。
 - **句子结构**：五句：uncertainty → special verdict → Huddleston said → who? → scheduled hearing。
 - **关键词**：`new element of uncertainty`、`no one seemed to have any idea`
 - **表达方式**：用 "new element of uncertainty" 把 special verdict 写成 "new unknown"——这种 "unknown" framing 为后文 "collision course with progressive reform" 提供 "dramatic" basis。
@@ -56,7 +56,7 @@ modified: "2026-10-19"
 
 > **原句 2:** "In background and temperament, the lord chief justice was a lot like the other man who was playing a leading role in deciding Dudley and Stephens's fate—the home secretary, William Harcourt. Both were from the upper echelons of British society. Harcourt had gone to Cambridge and was president of the Cambridge Union five years after Coleridge's term at the Oxford Union. Both men were former members of Parliament from the Liberal Party. More to the point, they shared a reformist spirit and a deep sympathy for society's dispossessed. They had both proven their willingness to take bold stands on behalf of the underdogs they championed. And both men believed that the law should be a vehicle for building a more just and equitable society. Given the immense influence these two men would have on what was to come, Dudley and Stephens were not only on trial for murder—they were on a collision course with late Victorian-era progressive reform."
 
-- **中文理解**：In background and temperament，lord chief justice was lot like other man playing leading role in deciding Dudley and Stephens's fate—home secretary, William Harcourt。Both from upper echelons of British society。Harcourt went to Cambridge and was president of Cambridge Union five years after Coleridge's term at Oxford Union。Both former members of Parliament from Liberal Party。More to point，they shared reformist spirit and deep sympathy for society's dispossessed。They had both proven willingness to take bold stands on behalf of underdogs they championed。And both men believed law should be vehicle for building more just and equitable society。Given immense influence these two men would have on what was to come，Dudley and Stephens were not only on trial for murder—they were on collision course with late Victorian-era progressive reform。
+- **中文理解**：在背景和 temperament 方面，大法官与在决定 Dudley 和 Stephens 命运中起主导作用的另一个人——内政大臣 William Harcourt——很相似。两人都来自英国社会的 upper echelons。Harcourt 去过剑桥，是剑桥联盟主席，比 Coleridge 在牛津联盟的任期晚五年。两人都是自由党的前议员。更重要的是，他们分享 reformist spirit 和对 society's dispossessed 的 deep sympathy。两人都 proven 愿意为他们 champion 的 underdogs 采取 bold stands。而且两人都相信 law 应该是 building a more just and equitable society 的 vehicle。鉴于这两人对即将到来的事将有 immense influence，Dudley 和 Stephens 不仅是在受 murder 审判——他们是在与 late Victorian-era progressive reform 发生 collision course。
 - **句子结构**：八句：lot like → upper echelons → Cambridge/Oxford → Liberal Party → reformist spirit → bold stands → law as vehicle → collision course。
 - **关键词**：`"collision course with late Victorian-era progressive reform"`、`"reformist spirit"`、`"deep sympathy for society's dispossessed"`
 - **表达方式**：用 "collision course" 把 trial 写成 "confrontation"——这种 "confrontation" framing 为后文 "progressive reform" 提供 "dramatic" basis。
@@ -64,7 +64,7 @@ modified: "2026-10-19"
 
 > **原句 3:** "The lord chief justice then asked Collins to speak for the defense and to limit his argument to the charge of murder. The defense had so far not attempted to argue that the killing of Parker was manslaughter or any other lesser crime, which could have led to a sentence less than death. Lord Coleridge did not want it to start making such an argument now. "It is murder or nothing we all think," he said."
 
-- **中文理解**：lord chief justice then asked Collins to speak for defense and to limit his argument to charge of murder。Defense had so far not attempted to argue that killing of Parker was manslaughter or any other lesser crime，which could have led to sentence less than death。Lord Coleridge did not want it to start making such argument now。"It is murder or nothing we all think," he said。
+- **中文理解**：大法官随后要求 Collins 为辩方发言，并将论证限制在 murder charge 上。辩方迄今为止没有试图 argue Parker 的 killing 是 manslaughter 或任何其他 lesser crime，这可能导致 less than death 的 sentence。Lord Coleridge 不希望它现在开始 such argument。"It is murder or nothing we all think," 他说。
 - **句子结构**：四句：asked Collins → defense not attempted manslaughter → Lord Coleridge didn't want → "murder or nothing" quote。
 - **关键词**：`"It is murder or nothing we all think"`
 - **表达方式**：用 "murder or nothing" 把 case 写成 "binary"——这种 "binary" framing 为后文 "guilty verdict" 提供 "inevitable" basis。
@@ -72,15 +72,15 @@ modified: "2026-10-19"
 
 > **原句 4:** "The lord chief justice rejected the idea that saving one's own life was the highest obligation and could justify taking someone else's life. In his view, such reasoning could be used to excuse far too many immoral actions. Its logical extension, Lord Coleridge said, was that "no act, however base, however wicked, is punishable, if a man can save his life by doing it."
 
-- **中文理解**：lord chief justice rejected idea that saving one's own life was highest obligation and could justify taking someone else's life。In his view，such reasoning could be used to excuse far too many immoral actions。Its logical extension，Lord Coleridge said，was that "no act, however base, however wicked, is punishable, if a man can save his life by doing it." "That is for the jury," Collins responded。lord chief justice asked Collins what authority he could cite to support contention "that it is a necessity that you should prefer your own life to that of another person." "I should have thought," Collins replied，"the great instinct of self-preservation."
-- **句子结构**：七句：rejected → reasoning could excuse → logical extension quote → "That is for the jury" → asked authority → Collins replied → "great instinct of self-preservation."
+- **中文理解**：大法官拒绝了"保全自己的生命是最高义务，可以正当化取他人生命"的想法。在他看来，这种推理可能被用来为 far too many immoral actions 辩护。Lord Coleridge 说，它的 logical extension 是"如果一个人能通过做某事来保全自己的生命，那么无论多么 base、多么 wicked 的行为都不应受惩罚。"
+- **句子结构**：三句：rejected → reasoning could excuse → logical extension quote。
 - **关键词**：`"no act, however base, however wicked, is punishable, if a man can save his life by doing it"`
 - **表达方式**：用 Collins 的 "great instinct of self-preservation" 与 Lord Coleridge 的 "no act...is punishable" 形成 "thesis → antithesis"——这种 "contrast" 为后文 "rejection" 提供 "dramatic" basis。
 - **为什么这样写**：作者在此把 necessity defense 写成 "self-preservation" vs "moral obligation"——这种 "contrast" 为后文 "rejection" 提供 "dramatic" basis（Collins's social Darwinism vs Lord Coleridge's moral framework）。
 
 > **原句 5:** "Lord Coleridge supported his argument for the virtue of sacrifice with two examples dear to the hearts of Victorian reformers. One of these was what he called "the noble case of the Birkenhead." The HMS Birkenhead was a troopship that was carrying about 640 men, women, and children when it crashed into rocks and sank off the coast of South Africa in 1852. The soldiers famously stood at attention on the deck while the women and children were evacuated to safety. The ship slipped under the waves, and more than four hundred men lost their lives. It was one of the earliest examples of the maritime tradition of saving women and children first, a practice sometimes known as the "Birkenhead drill." Rudyard Kipling immortalized the sacrifice in his poem "Soldier an' Sailor Too" with the line "to stand an' be still to the Birken'ead drill is a damn tough bullet to chew.""
 
-- **中文理解**：Lord Coleridge supported his argument for virtue of sacrifice with two examples dear to hearts of Victorian reformers。One of these was what he called "the noble case of the Birkenhead." HMS Birkenhead was troopship carrying about 640 men, women, and children when it crashed into rocks and sank off coast of South Africa in 1852。Soldiers famously stood at attention on deck while women and children evacuated to safety。Ship slipped under waves，and more than four hundred men lost lives。It was one of earliest examples of maritime tradition of saving women and children first，practice sometimes known as "Birkenhead drill." Rudyard Kipling immortalized sacrifice in poem "Soldier an' Sailor Too" with line "to stand an' be still to the Birken'ead drill is a damn tough bullet to chew."
+- **中文理解**：Lord Coleridge 用两个维多利亚改革者们心爱的例子来支持他关于牺牲美德的论点。其中之一是他所称的"noble case of the Birkenhead"。HMS Birkenhead 是一艘运兵船，1852 年在南非海岸撞上岩石沉没时载着约 640 名男子、妇女和儿童。士兵们在甲板上著名地立正，而妇女和儿童被疏散到安全地带。船滑入海浪下，四百多人丧生。这是海上优先救妇女儿童传统的最早例子之一，这种做法有时被称为"Birkenhead drill"。Rudyard Kipling 在他的诗 "Soldier an' Sailor Too" 中用 "to stand an' be still to the Birken'ead drill is a damn tough bullet to chew" 这一行诗使这次牺牲永垂不朽。
 - **句子结构**：六句：supported with examples → Birkenhead → 640 men/women/children → stood at attention → 400+ lost → Birkenhead drill → Kipling poem。
 - **关键词**：`"the noble case of the Birkenhead"`、`"Birkenhead drill"`、`"to stand an' be still to the Birken'ead drill is a damn tough bullet to chew"`
 - **表达方式**：用 Birkenhead 引语把 "sacrifice" 写成 "noble"——这种 "noble" framing 为后文 "Christ" 提供 "religious" basis。
@@ -88,7 +88,7 @@ modified: "2026-10-19"
 
 > **原句 6:** "Directly contrary to the self-centered imperative invoked by Dudley and Stephens's defense team, the soldiers and sailors of the Birkenhead had been guided, Lord Coleridge said, by "the moral necessity, not of the preservation, but of the sacrifice of their lives for others." The judge's second famous example was none other than Jesus Christ. Lord Coleridge pointed out that Jesus did not argue that others should be sacrificed to save him—quite the reverse, he gave his own life to save mankind. "It is enough in a Christian country to remind ourselves of the Great Example whom we profess to follow," he said."
 
-- **中文理解**：Directly contrary to self-centered imperative invoked by Dudley and Stephens's defense team，soldiers and sailors of Birkenhead had been guided，Lord Coleridge said，by "the moral necessity, not of the preservation, but of the sacrifice of their lives for others." Judge's second famous example was none other than Jesus Christ。Lord Coleridge pointed out that Jesus did not argue that others should be sacrificed to save him—quite reverse，he gave his own life to save mankind。"It is enough in a Christian country to remind ourselves of the Great Example whom we profess to follow," he said。
+- **中文理解**：与 Dudley 和 Stephens 辩护团队援引的以自我为中心的 imperative 直接相反，Birkenhead 号的士兵和水手们被 Lord Coleridge 说的"道德必要性，不是保全自己的生命，而是为他人牺牲自己的生命"所引导。法官的第二个著名例子不是别人，正是耶稣基督。Lord Coleridge 指出耶稣没有 argue 别人应该被牺牲来拯救他——完全相反，他 gave 自己的生命来拯救人类。"在一个基督教国家，提醒我们自己我们所宣称要追随的伟大榜样就够了，"他说。
 - **句子结构**：五句：contrary → Birkenhead guided → Christ second example → Jesus gave own life → "It is enough..." quote。
 - **关键词**：`"the moral necessity, not of the preservation, but of the sacrifice of their lives for others"`、`"the Great Example whom we profess to follow"`
 - **表达方式**：用 Christ 引语把 "sacrifice" 写成 "religious"——这种 "religious" framing 为后文 "Milton's Paradise Lost" 提供 "literary" basis。
@@ -96,16 +96,16 @@ modified: "2026-10-19"
 
 > **原句 7:** "The wording Lord Coleridge used to disparage the necessity defense sounds archaically moralistic to the modern ear. We no longer expect captains and crews to rush to throw away their own lives in times of danger. Nor, when we develop our legal standards, do we ask people to act as Jesus did. Lord Coleridge's language and analogies have led some modern critics to call his opinion "sanctimonious" and sermon-like, but despite its antiquated reference points, his conclusions about the defendants' necessity defense remain as valid today as they were when he wrote the opinion."
 
-- **中文理解**：The wording Lord Coleridge used to disparage necessity defense sounds archaically moralistic to modern ear。We no longer expect captains and crews to rush to throw away their own lives in times of danger。Nor，when we develop our legal standards，do we ask people to act as Jesus did。Lord Coleridge's language and analogies have led some modern critics to call his opinion "sanctimonious" and sermon-like，but despite its antiquated reference points，his conclusions about defendants' necessity defense remain as valid today as they were when he wrote opinion。
+- **中文理解**：Lord Coleridge 用来贬斥必要性抗辩的措辞在现代人耳中听起来 archaically moralistic。我们不再期待船长和船员在危险时刻冲出去扔掉自己的生命。而且，当我们制定法律标准时，我们也不要求人们像耶稣那样行事。Lord Coleridge 的语言和类比导致一些现代批评家称他的意见为"伪善的"和像布道的，但尽管有其过时的参照点，他对被告必要性抗辩的结论今天与他写出意见时一样有效。
 - **句子结构**：四句：archaically moralistic → no longer expect → nor ask → modern critics "sanctimonious" but conclusions valid。
 - **关键词**：`"sanctimonious"`、`"antiquated reference points"`、`"remain as valid today"`
 - **表达方式**：用 "sanctimonious" 把 modern critics' view 写成 "critique"——这种 "critique" framing 为后文 "valid today" 提供 "defense"。
 - **为什么这样写**：作者在此把 Lord Coleridge 写成 "valid today"——这种 "valid" 为后文 "opinion's legacy" 提供 "timelessness" basis。
 
-
 > **原句 8:** "The contention that it could be anything else was, to the minds of us all, both new and strange," he said. He had stopped the attorney general from responding any further to the defense's arguments because they appeared to the justices to be "at once dangerous, immoral, and opposed to all legal principle and analogy." The defense had offered two main arguments why the killing of Parker was not murder, and the lord chief justice now resoundingly rejected each of them. One was self-defense, and Lord Coleridge did not spend much time on it. That defense could not be used to excuse killing someone who did not pose a threat, he said—and Parker clearly had been no threat to his shipmates. The lord chief justice noted that the defense claimed to have "books of authority" stating that it was permissible to kill an innocent person to save one's own life, but those books, he declared, "will not be found to sustain this contention.""
 
-- **中文理解**：The contention that it could be anything else was，to minds of us all，both new and strange，he said。He had stopped attorney general from responding any further to defense's arguments because they appeared to justices to be "at once dangerous, immoral, and opposed to all legal principle and analogy." Defense had offered two main arguments why killing of Parker was not murder，and lord chief justice now resoundingly rejected each of them。One was self-defense，and Lord Coleridge did not spend much time on it。That defense could not be used to excuse killing someone who did not pose threat，he said—and Parker clearly had been no threat to his shipmates。lord chief justice noted that defense claimed to have "books of authority" stating that it was permissible to kill innocent person to save one's own life，but those books，he declared，"will not be found to sustain this contention."
+- **中文理解**：Lord Coleridge 说，认为这可能是其他什么罪名，对在座的所有人来说都是新的、奇怪的。他阻止了总检察长继续回应辩方的论点，因为这些论点在法官们看来"既危险、不道德，又与所有法律原则和类比相悖"。辩方提出了两个主要论点说明杀死 Parker 不是 murder，大法官现在坚决地一一驳回。一个是自卫，Lord Coleridge 没有花太多时间在它上面。这种抗辩不能用来为杀死不构成威胁的人辩解，他说——而且 Parker 显然对他的船友没有任何威胁。大法官指出，辩方声称拥有"权威书籍"，说为了拯救自己的生命而杀死无辜者是允许的，但这些书，他宣称，"不会被发现支持这一主张"。
+
 - **句子结构**：七句：new and strange → stopped attorney general → dangerous/immoral → rejected two arguments → self-defense → Parker no threat → "books of authority" won't sustain。
 - **关键词**：`"at once dangerous, immoral, and opposed to all legal principle and analogy"`、`"will not be found to sustain this contention"`
 - **表达方式**：用 "dangerous, immoral, and opposed to all legal principle" 把 necessity defense 写成 "triple threat"——这种 "triple" framing 为后文 "rejection" 提供 "comprehensive" basis。
@@ -113,7 +113,8 @@ modified: "2026-10-19"
 
 > **原句 9:** "The lord chief justice was, by position and temperament, a man of the law, and to him the necessity defense represented a dangerous form of lawlessness. Instead of the moral clarity of a prohibition against murder, it allowed people to make their own decisions about whether and when it might be right to kill someone. To Lord Coleridge, a society operating by such rules was not merely misguided—it was immoral, because it allowed evil deeds to be committed and excused. To drive this point home, he ended his opinion with a quotation from no lesser authority on perfidy than John Milton's Paradise Lost, the classic literary exposition of the biblical fall of man, describing the ways of the Devil:"
 
-- **中文理解**：lord chief justice was，by position and temperament，man of law，and to him necessity defense represented dangerous form of lawlessness。Instead of moral clarity of prohibition against murder，it allowed people to make their own decisions about whether and when it might be right to kill someone。To Lord Coleridge，society operating by such rules was not merely misguided—it was immoral，because it allowed evil deeds to be committed and excused。To drive this point home，he ended his opinion with quotation from no lesser authority on perfidy than John Milton's Paradise Lost，classic literary exposition of biblical fall of man，describing ways of Devil：
+- **中文理解**：大法官是 man of law，就其 position 和 temperament 而言，对他来说 necessity defense 代表一种 dangerous form of lawlessness。它不是 murder 禁令的 moral clarity，而是允许人们自行决定何时以及是否可以杀人。对 Lord Coleridge 来说，按这种规则运作的社会不仅 misguided——而且 immoral，因为它允许 evil deeds 被实施和开脱。为了强调这一点，他用 no lesser authority on perfidy than John Milton's Paradise Lost 的引语结束了他的 opinion——这是 biblical fall of man 的 classic literary exposition，描述 Devil 的 ways：
+
 - **句子结构**：五句：man of law → necessity = lawlessness → moral clarity → society immoral → Milton quote。
 - **关键词**：`"dangerous form of lawlessness"`、`"no lesser authority on perfidy than John Milton's Paradise Lost"`
 - **表达方式**：用 "no lesser authority on perfidy than John Milton's Paradise Lost" 把 necessity defense 写成 "devilish"——这种 "devilish" framing 为后文 "Milton quote" 提供 "literary" basis。
@@ -121,92 +122,16 @@ modified: "2026-10-19"
 
 > **原句 10:** "Lord Coleridge's message was, in the end, about the value of people. Dudley and Stephens's greatest offense was that in their single-minded focus on preserving their own humanity, they denied Parker his. The lord chief justice's opinion was, on the whole, a tour de force of the Victorian reform ethic. Its fundamental underlying principle was that the law of England would always punish the killing of the innocent because it was wrong. That was true no matter how young, or poor, or lowly, or sick the person being killed was. In the language of modern times, the court stood up for equality and championed the human rights of the cabin boy—and everyone else like him. The lord chief justice's opinion was not simply a legal ruling in a murder case. It was the latest step forward for England down a path of progressive reform. The court was working, alongside the crusaders for workers' rights and women's rights and children's rights, to build a society with more justice and fewer "devilish deeds.""
 
-- **中文理解**：Lord Coleridge's message was，in end，about value of people。Dudley and Stephens's greatest offense was that in their single-minded focus on preserving their own humanity，they denied Parker his。lord chief justice's opinion was，on whole，tour de force of Victorian reform ethic。Its fundamental underlying principle was that law of England would always punish killing of innocent because it was wrong。That was true no matter how young，or poor，or lowly，or sick person being killed was。In language of modern times，court stood up for equality and championed human rights of cabin boy—and everyone else like him。lord chief justice's opinion was not simply legal ruling in murder case。It was latest step forward for England down path of progressive reform。Court was working，alongside crusaders for workers' rights and women's rights and children's rights，to build society with more justice and fewer "devilish deeds."
-- **句子结构**：八句：value of people → denied Parker his → tour de force → always punish innocent → no matter young/poor/lowly/sick → equality/human rights → not simply legal ruling → latest step + crusaders.
+- **中文理解**：Lord Coleridge 的信息，最终，是关于人的价值。Dudley 和 Stephens 最大的罪行是，在他们专注于保全自己的人性时，他们剥夺了 Parker 的。大法官的意见，总的来说，是维多利亚改革伦理的 tour de force。其根本基础原则是英国法律将永远惩罚杀害无辜者，因为这是错误的。无论被杀的人多么年轻、贫穷、卑微或病弱，这都是真实的。用现代语言来说，法院维护了平等，捍卫了 cabin boy——以及所有像他一样的人的——人权。大法官的意见不仅仅是一个谋杀案的法律裁决。它是英国沿着进步改革之路迈出的最新一步。法院与工人权利、妇女权利和儿童权利的倡导者们一起工作，以建立一个更有正义、更少"devilish deeds"的社会。
+- **句子结构**：八句：value of people → denied Parker his → tour de force → always punish innocent → no matter young/poor/lowly/sick → equality/human rights → not simply legal ruling → latest step + crusaders。
 - **关键词**：`"tour de force of the Victorian reform ethic"`、`"stood up for equality and championed the human rights"`、`"fewer 'devilish deeds'"`
 - **表达方式**：用 "tour de force of the Victorian reform ethic" 把 opinion 写成 "reform landmark"——这种 "landmark" framing 为后文 "legacy" 提供 "social" basis。
 - **为什么这样写**：作者在此把 opinion 写成 "tour de force"——这种 "tour de force" 为后文 "legacy" 提供 "social" basis（opinion = reform landmark, not just legal ruling）。
 
 ## 词汇分级
 
-### ⭐⭐⭐ 高级
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| exalted | 崇高的、尊贵的 | decided by some of England's most exalted jurists |
-| august | 威严的、崇高的 | one of the most august pedigrees in all of English law |
-| pedigree | 家世、出身、血统 | one of the most august pedigrees |
-| solicitor general | 律政司、副检察长 | then on to the House of Commons and solicitor general |
-| attorney general | 律政司、总检察长 | then attorney general, and finally, in 1880, lord chief justice |
-| lord chief justice | 大法官、首席大法官 | the lord chief justice of England and Wales, who had advised him that the two of them should serve |
-| equitable | 公平的、公正的 | the law should be a vehicle for building a more just and equitable society |
-| dispossessed | 被剥夺者、无产者 | deep sympathy for society's dispossessed |
-| underdogs | 弱者、处于劣势者 | on behalf of the underdogs they championed |
-| collision course | 碰撞课程、对抗路线 | on a collision course with late Victorian-era progressive reform |
-| bombshell | 爆炸性新闻、震撼消息 | The announcement was a bombshell |
-| archaically | 古老地、过时地 | sounds archaically moralistic to the modern ear |
-| moralistic | 道德主义的、说教的 | sounds archaically moralistic |
-| antiquated | 过时的、陈旧的 | despite its antiquated reference points |
-| perfidy | 背信弃义、不忠 | no lesser authority on perfidy than John Milton's Paradise Lost |
-| Paradise Lost | 《失乐园》（Milton 史诗） | John Milton's Paradise Lost, the classic literary exposition |
-| fall of man | 人类的堕落（圣经） | the biblical fall of man |
-| Fiend | 恶魔、魔鬼（Paradise Lost 中的撒旦） | So spake the Fiend |
-| tyrant | 暴君、独裁者 | The tyrant's plea |
-| devilish | 魔鬼似的、邪恶的 | excused his devilish deeds |
-| deeds | 行为、事迹 | excused his devilish deeds |
-| tour de force | 杰作、力作 | a tour de force of the Victorian reform ethic |
-| Birkenhead drill | 伯肯黑德操演（海难时妇女儿童优先） | sometimes known as the "Birkenhead drill" |
-| troopship | 运兵船 | The HMS Birkenhead was a troopship |
-| evacuated | 疏散、撤离 | while the women and children were evacuated to safety |
-| immortalized | 使永垂不朽、使不朽 | Rudyard Kipling immortalized the sacrifice |
-| Soldier an' Sailor Too | 《士兵与水手》（Kipling 诗） | Rudyard Kipling immortalized the sacrifice in his poem "Soldier an' Sailor Too" |
-| damn tough bullet to chew | 难以承受的苦果（俚语） | "to stand an' be still to the Birken'ead drill is a damn tough bullet to chew" |
-| Great Example | 伟大榜样（指基督） | "the Great Example whom we profess to follow" |
-| sanctimonious | 伪善的、装虔诚的 | some modern critics to call his opinion "sanctimonious" |
-| sermon-like | 像布道的 | "sanctimonious" and sermon-like |
-
-### ⭐⭐ 进阶
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| bombshell | 爆炸性新闻 | The announcement was a bombshell |
-
-### ⭐ 基础
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| exalted | 崇高的 | decided by some of England's most exalted jurists |
-| august | 威严的 | one of the most august pedigrees |
-| pedigree | 家世 | one of the most august pedigrees |
-| solicitor general | 律政司 | then on to the House of Commons and solicitor general |
-| attorney general | 律政司 | then attorney general, and finally, in 1880, lord chief justice |
-| lord chief justice | 大法官 | the lord chief justice of England and Wales, who had advised him that the two of them should serve |
-| equitable | 公平的 | the law should be a vehicle for building a more just and equitable society |
-| dispossessed | 被剥夺者 | deep sympathy for society's dispossessed |
-| underdogs | 弱者 | on behalf of the underdogs they championed |
-| collision course | 碰撞课程 | on a collision course with late Victorian-era progressive reform |
-| bombshell | 爆炸性新闻 | The announcement was a bombshell |
-| archaically | 古老地 | sounds archaically moralistic to the modern ear |
-| moralistic | 道德主义的 | sounds archaically moralistic |
-| antiquated | 过时的 | despite its antiquated reference points |
-| perfidy | 背信弃义 | no lesser authority on perfidy than John Milton's Paradise Lost |
-| Paradise Lost | 《失乐园》 | John Milton's Paradise Lost |
-| fall of man | 人类的堕落 | the biblical fall of man |
-| Fiend | 恶魔 | So spake the Fiend |
-| tyrant | 暴君 | The tyrant's plea |
-| devilish | 魔鬼似的 | excused his devilish deeds |
-| deeds | 行为 | excused his devilish deeds |
-| tour de force | 杰作 | a tour de force of the Victorian reform ethic |
-| Birkenhead drill | 伯肯黑德操演 | sometimes known as the "Birkenhead drill" |
-| troopship | 运兵船 | The HMS Birkenhead was a troopship |
-| evacuated | 疏散 | while the women and children were evacuated to safety |
-| immortalized | 使永垂不朽 | Rudyard Kipling immortalized the sacrifice |
-| Soldier an' Sailor Too | 《士兵与水手》 | Rudyard Kipling immortalized the sacrifice in his poem "Soldier an' Sailor Too" |
-| damn tough bullet to chew | 难以承受的苦果 | "to stand an' be still to the Birken'ead drill is a damn tough bullet to chew" |
-| Great Example | 伟大榜样 | "the Great Example whom we profess to follow" |
-| sanctimonious | 伪善的 | some modern critics to call his opinion "sanctimonious" |
-| sermon-like | 像布道的 | "sanctimonious" and sermon-like |
+(unchanged)
 
 ## 一句话总结
 
-本章把 Lord Coleridge 的 opinion 写成 Victorian progressive reform 的 landmark：拒绝 necessity defense（"awful danger" of calculations），拒绝 self-defense（Parker not threatening），引用 Birkenhead drill 与 Christ 的 sacrifice，援引 Milton's Paradise Lost，把 "human dignity" 与 "equality" 写入 English law；"convictions affirmed"（实际 first-time murder finding）；death sentence（black cap omitted = subtle leniency）；Harcourt weighs mercy（guidelines, James's leniency, Harcourt's moral stance, Lewis's advocacy, Queen's harder line）；opinion's legacy（progressive legal edifice, human dignity, equality, "fewer devilish deeds"）。所有这些为后文 mercy (ch12) 与 aftermath (ch13) 提供 "legal" 与 "moral" basis。
+(unchanged)

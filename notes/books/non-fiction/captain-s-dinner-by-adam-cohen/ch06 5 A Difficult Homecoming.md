@@ -44,7 +44,7 @@ modified: "2026-10-19"
 
 > **原句 1:** "While Dudley, Stephens, and Brooks sat in the lifeboat digesting Parker's body, they had time to reflect on what they had just done. As unpleasant as the whole matter had been for all three of the survivors, Dudley had no regrets about taking the cabin boy's life, then drinking his blood and feeding off his corpse. He was convinced that it was better than the alternative of allowing all four of them to die of thirst or hunger. "The act was absolutely necessary to sustain the existence of those remaining," he said later. Still, his conviction that he had done the right thing was mixed with an element of disgust. The events in the lifeboat that morning would leave an indelible mark on him. Dudley would later say that he could "never forget the sight of my two unfortunate companions over that ghastly meal" at which they all were "like mad wolfs.""
 
-- **中文理解**：Dudley, Stephens, and Brooks sat in lifeboat digesting Parker's body，had time to reflect on what they had just done。As unpleasant as whole matter had been for all three survivors，Dudley had no regrets about taking cabin boy's life，then drinking his blood and feeding off his corpse。He was convinced that it was better than alternative of allowing all four to die of thirst or hunger。"The act was absolutely necessary to sustain the existence of those remaining," he said later。Still，his conviction mixed with element of disgust。Events in lifeboat that morning would leave indelible mark on him。Dudley would later say he could "never forget the sight of my two unfortunate companions over that ghastly meal" at which they all were "like mad wolfs."
+- **中文理解**：Dudley、Stephens 和 Brooks 坐在救生艇上消化 Parker 的尸体，有时间反思他们刚刚做的事。尽管对所有三个幸存者来说整件事都不愉快，Dudley 对取 cabin boy 的命、喝他的血、吃他的尸体并不后悔。他确信这比让四个人都渴死饿死的替代方案更好。"这个行为绝对必要以维持剩余者的生存，"他后来说。尽管如此，他确信自己做了正确的事，却混杂着厌恶。那天上午救生艇上的事件会给他留下不可磨灭的印记。Dudley 后来说他永远无法忘记"我那两个不幸的同伴在那顿可怕饭食上的景象"，他们当时"像疯狼一样"。
 - **句子结构**：七句：reflect → no regrets → convinced better → 引语 → disgust → indelible mark → "never forget...like mad wolfs" 引语。
 - **关键词**：`"The act was absolutely necessary"`、`indelible mark`、`"like mad wolfs"`、`ghastly meal`
 - **表达方式**：用 "like mad wolfs" 把食人写成 "animalistic"——这种 "animalistic" framing 与 Freud 的 "repressed desire" 形成对照。
@@ -52,7 +52,7 @@ modified: "2026-10-19"
 
 > **原句 2:** "Brooks was more disturbed by what happened. He had never wavered in his opposition to killing anyone and had refused to participate. He shared in the blood and flesh once Parker was dead, but he was torn—willing to survive on Parker's flesh but continuing to believe the cabin boy should not have been killed. Looking back on it, Brooks found the whole series of events soul crushing. Until Parker was killed, Brooks had eagerly hoped to be rescued, but afterward, he said, "My heart was cold." He would later find these dark feelings impossible to put behind him. "When I am by myself I think about it a good deal," he said, "and my thoughts then of what I have seen and what we went through are very dreadful.""
 
-- **中文理解**：Brooks was more disturbed by what happened。He had never wavered in opposition to killing anyone and had refused to participate。He shared in blood and flesh once Parker dead，but he was torn—willing to survive on Parker's flesh but continuing to believe cabin boy should not have been killed。Looking back，Brooks found whole series of events soul crushing。Until Parker killed，Brooks eagerly hoped to be rescued，but afterward，"My heart was cold." He would later find these dark feelings impossible to put behind him。"When I am by myself I think about it a good deal," he said，"and my thoughts then of what I have seen and what we went through are very dreadful."
+- **中文理解**：Brooks 对所发生的事更加困扰。他从未动摇过反对杀人的立场，拒绝参与。Parker 死后他分享了血肉，但他很矛盾——愿意靠 Parker 的肉生存，但继续认为 cabin boy 不该被杀。回顾起来，Brooks 发现这一系列事件 soul crushing。在 Parker 被杀之前，Brooks 热切地希望被救，但之后，他说，"我的心冷了。"他后来发现这些黑暗的感觉无法释怀。"我独自一人时经常想这件事，"他说，"那时我想到我所见和我们所经历的，都非常的 dreadful。"
 - **句子结构**：八句：disturbed → never wavered → shared but torn → soul crushing → heart cold → dark feelings → "When I am by myself..." 引语。
 - **关键词**：`"My heart was cold"`、`"very dreadful"`、`soul crushing`
 - **表达方式**：用 "My heart was cold" 把 Brooks 的 moral injury 写成 "physical"——这种 "physical" framing 与 "soul crushing" 形成 "body + soul" 的双重 damage。
@@ -60,7 +60,7 @@ modified: "2026-10-19"
 
 > **原句 3:** "The men in the lifeboat ate heartily from their new bounty. The biggest problem with their harvest of human flesh was a practical one. With the hot sun beating down, it was not easy to keep it from spoiling. The men appreciated how valuable the meat was and did their best to preserve it. They washed it with salt water and kept it covered. They kept "cutting out the bad," as Dudley put it, and tossed the rotten parts overboard. In the four days following the killing, they consumed about half of Parker's flesh. They were grateful for the sustenance it provided. "We all said many times it and it alone kept life in our bodies," Dudley said."
 
-- **中文理解**：Men in lifeboat ate heartily from new bounty。Biggest problem with harvest of human flesh was practical one。With hot sun beating down，not easy to keep from spoiling。Men appreciated how valuable meat was，did best to preserve。Washed with salt water，kept covered。Kept "cutting out the bad," as Dudley put it，tossed rotten parts overboard。In four days following killing，consumed about half of Parker's flesh。Grateful for sustenance。"We all said many times it and it alone kept life in our bodies," Dudley said。
+- **中文理解**：救生艇上的水手们 hearty 地吃着他们的新收获。他们人肉收获的最大问题是实际的。在烈日暴晒下，不容易保存不坏。水手们欣赏肉有多珍贵，尽力保存。他们用盐水洗，盖着。他们不断"cutting out the bad"，如 Dudley 所说，把腐烂的部分扔进海里。在杀人后的四天里，他们消耗了约一半 Parker 的肉。他们感激它提供的 sustenance。"我们多次说它，只有它让我们的身体保持生命，"Dudley 说。
 - **句子结构**：九句：ate heartily → problem practical → hot sun → appreciated value → washed/covered → cutting out bad → consumed half → grateful → Dudley 引语。
 - **关键词**：`"cutting out the bad"`、`"it and it alone kept life in our bodies"`、`harvest of human flesh`
 - **表达方式**：用 "harvest of human flesh" 把食人写成 "agricultural"——这种 "harvest" framing 与 "cutting out the bad" 形成 "practical" tone。
@@ -68,7 +68,7 @@ modified: "2026-10-19"
 
 > **原句 4:** "The day after Parker was killed, it rained, and as Dudley recalled, "we caught a nice drink of water." They drank a good amount, and they were even able to store some rainwater for later. The timing of the rain raised a troubling question: Had it really been necessary to sacrifice Parker after all? If Dudley had not killed Parker and the cabin boy had managed to hold on for just one more day, all four of them would have had their thirsts quenched in a far more conventional way."
 
-- **中文理解**：Day after Parker killed，it rained，and as Dudley recalled，"we caught a nice drink of water." They drank good amount，even able to store some rainwater for later。Timing of rain raised troubling question：Had it really been necessary to sacrifice Parker after all? If Dudley had not killed Parker and cabin boy had managed to hold on for just one more day，all four would have had their thirsts quenched in far more conventional way。
+- **中文理解**：Parker 被杀的第二天，下雨了，正如 Dudley 回忆的，"我们接到了一点好水喝。"他们喝了相当多，甚至能储存一些雨水供后用。雨水 timing 引发一个 troubling 的问题：牺牲 Parker 真的 necessary 吗？如果 Dudley 没有杀死 Parker，而 cabin boy 能再多撑一天，四个人本可以用更 conventional 的方式解渴。
 - **句子结构**：五句：rained → caught drink → stored → troubling question → if not killed, all four quenched。
 - **关键词**：`"we caught a nice drink of water"`、`troubling question`、`necessary to sacrifice`
 - **表达方式**：用 "troubling question" 把 "rain after killing" 写成 "irony"——这种 "irony" 为后文 "necessary defense" 提供 "weakness"（maybe unnecessary）。
@@ -76,7 +76,7 @@ modified: "2026-10-19"
 
 > **原句 5:** "It would not have been hard for Dudley, Stephens, and Brooks to tell a different story, and they would not have had to change the facts much. They could have said that Parker had died from drinking seawater and that they had only begun to eat his corpse when he was already dead. In that telling, the men would have been corpse eaters, not people eaters—cannibals but not murderers."
 
-- **中文理解**：It would not have been hard for Dudley, Stephens, and Brooks to tell different story，and they would not have had to change facts much。They could have said Parker died from drinking seawater and they only began to eat his corpse when he was already dead。In that telling，men would have been corpse eaters，not people eaters—cannibals but not murderers。
+- **中文理解**：Dudley、Stephens 和 Brooks 要编一个不同的故事并不难，他们也不需要改变太多事实。他们可以说 Parker 死于喝海水，他们只是在他已经死后才开始吃他的尸体。按这种说法，这些人会是食尸者，而非食人者——食人者但不是谋杀者。
 - **句子结构**：三句：could tell different story → could say Parker died seawater → corpse eaters not people eaters。
 - **关键词**：`corpse eaters, not people eaters`、`cannibals but not murderers`
 - **表达方式**：用 "corpse eaters, not people eaters" 把 "cover-up" 写成 "easy"——这种 "easy" framing 为后文 "why told truth?" 提供 "puzzle"。
@@ -84,7 +84,7 @@ modified: "2026-10-19"
 
 > **原句 6:** "There is no way of knowing why they told their rescuers the truth. They might not even have thought about whether to engage in a cover-up. Up until they were saved, the men had been focused on not dying. Then when they found themselves safely on the German boat, they may have simply blurted it all out. Or they may have been proud of the strength and resourcefulness they had mustered in order to survive. Alternatively, there might have been disagreement among the men about how honest to be, and there is some reason to believe there was. Dudley's wife would later suggest in a letter that one of the men did not believe they should reveal to the world what they had done, while her husband insisted that they should."
 
-- **中文理解**：There is no way of knowing why they told rescuers truth。They might not even have thought about whether to engage in cover-up。Up until saved，men focused on not dying。Then when safely on German boat，they may have simply blurted it all out。Or they may have been proud of strength and resourcefulness they had mustered to survive。Alternatively，there might have been disagreement among men about how honest to be，and there is some reason to believe there was。Dudley's wife would later suggest in letter that one of men did not believe they should reveal to world what they had done，while her husband insisted that they should。
+- **中文理解**：无法知道他们为什么向救援者讲真相。他们可能甚至没想过是否要掩盖。直到获救，水手们一直专注于不死亡。然后当他们安全地在德国船上时，他们可能 simply blurted it all out。或者他们可能为求生所 muster 的 strength and resourcefulness 而自豪。或者水手们之间可能在应该多诚实上有分歧，有理由相信确实有。Dudley 的妻子后来在一封信中暗示，其中一人不相信他们应该向世界揭露所做之事，而她的丈夫坚持应该。
 - **句子结构**：六句：no way knowing → might not thought → focused on not dying → blurted → proud → disagreement + wife's letter。
 - **关键词**：`blurted it all out`、`proud of the strength and resourcefulness`、`disagreement`
 - **表达方式**：用 "blurted it all out" 把 "truth-telling" 写成 "unthinking"——这种 "unthinking" framing 为后文 "why told truth?" 提供 "naivety" 的可能。
@@ -92,7 +92,7 @@ modified: "2026-10-19"
 
 > **原句 7:** "The officials in Falmouth saw things differently. It was true that people who engaged in survival cannibalism at sea had never been prosecuted in an English court, but the legal landscape was changing in ways that may have escaped the notice of everyday seafarers like Dudley, Stephens, and Brooks."
 
-- **中文理解**：The officials in Falmouth saw things differently。It was true that people who engaged in survival cannibalism at sea had never been prosecuted in English court，but legal landscape was changing in ways that may have escaped notice of everyday seafarers like Dudley, Stephens, and Brooks。
+- **中文理解**：Falmouth 的官员们 differently 看待这件事。确实，海上生存食人者从未在英国法庭被起诉过，但 legal landscape 正在以 everyday seafarers like Dudley, Stephens, and Brooks 可能没有注意到的方式变化。
 - **句子结构**：二句：officials saw differently → legal landscape changing。
 - **关键词**：`legal landscape was changing`、`everyday seafarers`
 - **表达方式**：用 "legal landscape was changing" 把 "no prosecution" 写成 "past"——这种 "changing" framing 为后文 "section 269" 提供 "turning point"。
@@ -100,7 +100,7 @@ modified: "2026-10-19"
 
 > **原句 8:** "The change was being driven by wide-ranging reforms at the national level. Old ways of doing things were breaking down, including the long tradition of allowing captains to operate with near-total autonomy outside of the reach of English law. In recent decades, reformers had succeeded in extending the rule of law to the world of sailing in important ways. For one, major new legislation now covered fatalities at sea. The Merchant Shipping Act of 1854 said in section 269, "Whenever any case of Death happens on board any Foreign-going Ship, the Shipping Master shall on the Arrival of such Ship at the Port where the Crew is discharged inquire into the Cause of such Death." The law required the Custom House to make serious inquiries when seamen like Dudley, Stephens, and Brooks returned from a voyage on which someone had died. Furthermore, it stipulated if an inquiry suggested that a death had "been caused by Violence or other improper Means," the shipping master "shall either report the Matter to the Board of Trade, or, if the Emergency of the Case so requires, shall take immediate Steps for bringing the Offender or Offenders to Justice." When Dudley expected that he and the other men would be able to leave Falmouth after answering Cheesman's questions, he was apparently not thinking about section 269 of the Merchant Shipping Act."
 
-- **中文理解**：The change was being driven by wide-ranging reforms at national level。Old ways breaking down，including long tradition of allowing captains to operate with near-total autonomy outside reach of English law。In recent decades，reformers succeeded in extending rule of law to world of sailing in important ways。For one，major new legislation now covered fatalities at sea。Merchant Shipping Act of 1854 said in section 269，"Whenever any case of Death happens on board any Foreign-going Ship，the Shipping Master shall on the Arrival of such Ship at the Port where the Crew is discharged inquire into the Cause of such Death." Law required Custom House to make serious inquiries when seamen returned from voyage on which someone died。Furthermore，it stipulated if inquiry suggested death "been caused by Violence or other improper Means," shipping master "shall either report the Matter to the Board of Trade，or，if the Emergency of the Case so requires，shall take immediate Steps for bringing the Offender or Offenders to Justice." When Dudley expected he and other men would be able to leave Falmouth after answering Cheesman's questions，he was apparently not thinking about section 269。
+- **中文理解**：national level 的 wide-ranging reforms 正在驱动这一变化。Old ways of doing things 正在 breaking down，包括允许船长在英国法律触及范围外以 near-total autonomy 操作的 long tradition。In recent decades，reformers had succeeded in extending rule of law to world of sailing in important ways。For one，major new legislation now covered fatalities at sea。Merchant Shipping Act of 1854 的 section 269 说，"Whenever any case of Death happens on board any Foreign-going Ship，the Shipping Master shall on the Arrival of such Ship at the Port where the Crew is discharged inquire into the Cause of such Death." Law required Custom House to make serious inquiries when seamen like Dudley, Stephens, and Brooks returned from a voyage on which someone had died。Furthermore，it stipulated if an inquiry suggested that a death had "been caused by Violence or other improper Means," the shipping master "shall either report the Matter to the Board of Trade，or，if the Emergency of the Case so requires，shall take immediate Steps for bringing the Offender or Offenders to Justice." When Dudley expected that he and the other men would be able to leave Falmouth after answering Cheesman's questions，he was apparently not thinking about section 269 of the Merchant Shipping Act。
 - **句子结构**：八句：reforms → old ways breaking → extending rule of law → fatalities at sea → section 269 quote → Custom House inquiries → stipulation → Dudley not thinking。
 - **关键词**：`"bringing the Offender or Offenders to Justice"`、`section 269`、`Merchant Shipping Act of 1854`
 - **表达方式**：用 section 269 的 quote 把 "rule of law" 写成 "text"——这种 "textual" framing 为后文 "arrest" 提供 "legal basis"。
@@ -108,7 +108,7 @@ modified: "2026-10-19"
 
 > **原句 9:** "Dudley, Stephens, and Brooks were shocked. They had already made plans to leave for home that evening, and they certainly had not expected to be jailed. "If people could only imagine for a moment what our sufferings were in the boat, such a charge as that made against us would be about the last thing that would be thought of," Brooks said. For Brooks in particular, that reaction is easy to understand: He had argued against killing Parker and had covered his head to avoid watching it, but he was now in the same jail cell as Dudley, who had stabbed Parker in the neck, and Stephens, who had looked on, ready to hold down the cabin boy's legs."
 
-- **中文理解**：Dudley, Stephens, and Brooks were shocked。They had already made plans to leave for home that evening，and they certainly had not expected to be jailed。"If people could only imagine for a moment what our sufferings were in the boat，such a charge as that made against us would be about the last thing that would be thought of," Brooks said。For Brooks in particular，that reaction is easy to understand：He had argued against killing Parker and had covered his head to avoid watching it，but he was now in same jail cell as Dudley，who had stabbed Parker in neck，and Stephens，who had looked on，ready to hold down cabin boy's legs。
+- **中文理解**：Dudley、Stephens 和 Brooks 感到 shocked。他们已经计划那天晚上回家，certainly 没有 expect 会被 jailed。"If people could only imagine for a moment what our sufferings were in the boat，such a charge as that made against us would be about the last thing that would be thought of," Brooks said。For Brooks in particular，that reaction is easy to understand：He had argued against killing Parker and had covered his head to avoid watching it，but he was now in same jail cell as Dudley，who had stabbed Parker in neck，and Stephens，who had looked on，ready to hold down cabin boy's legs。
 - **句子结构**：四句：shocked → plans → Brooks 引语 → For Brooks...
 - **关键词**：`"If people could only imagine..."`、`shocked`、`same jail cell`
 - **表达方式**：用 "same jail cell" 把 Brooks 的 "innocence" 写成 "irony"——这种 "irony" 为后文 "trial" 提供 "dramatic" framing。
@@ -116,130 +116,8 @@ modified: "2026-10-19"
 
 ## 词汇分级
 
-### ⭐⭐⭐ 高级
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| indelible mark | 不可磨灭的印记 | leave an indelible mark on him |
-| soul crushing | 令人心碎的、摧毁灵魂的 | Brooks found the whole series of events soul crushing |
-| bounty | 意外收获、丰富所得 | ate heartily from their new bounty |
-| grim provenance | 冷酷的来源/出处 | despite its grim provenance |
-| sustenance | 营养、食物、维持生命的物质 | grateful for the sustenance it provided |
-| quenched | 解渴、熄灭（quench 的过去时） | their thirsts quenched in a far more conventional way |
-| blurted | 脱口而出、冲口说出（blurt 的过去时） | they may have simply blurted it all out |
-| resourcefulness | 机智、应变能力 | proud of the strength and resourcefulness |
-| autonomy | 自治、自主权 | near-total autonomy outside of the reach of English law |
-| wide-ranging | 范围广泛的、全面的 | wide-ranging reforms at the national level |
-| stipulated | 规定、约定（stipulate 的过去时） | it stipulated if an inquiry suggested |
-| equivocation | 模棱两可、含糊其辞 | admitted without equivocation |
-| hewing | 坚持、遵循（hew 的现在分词） | Dudley was now hewing closer to the truth |
-| incriminating | 使入罪的、不 利的 | avoid incriminating himself |
-| keepsake | 纪念品、留念物 | to have it as a "keepsake" |
-| lacerating | 割伤、撕裂（lacerate 的现在分词） | lacerating his backside |
-| convalescing | 康复中、恢复健康（convalesce 的现在分词） | spent thirty-eight days convalescing |
-
-### ⭐⭐ 进阶
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| digesting | 消化（digest 的现在分词） | sat in the lifeboat digesting Parker's body |
-| ghastly | 可怕的、惨不忍睹的 | over that ghastly meal |
-| mad wolfs | 疯狂的狼（比喻） | "like mad wolfs" |
-| torn | 纠结的、 torn 之间（torn 的形容词用法） | he was torn—willing to survive on Parker's flesh |
-| subsisted | 维持生存、靠...为生（subsist 的过去时） | "subsisted on the flesh until the twenty-fourth day" |
-| forthcoming | 坦率的 | Dudley was as forthcoming in it as he was in his discussions with his rescuers |
-| candid | 坦率的、直言的 | Stephens was candid about their cannibalism |
-| instigating | 煽动、发起（instigate 的现在分词） | accepted a greater role in instigating the killing |
-| cosigned | 共同签署（cosign 的过去时） | Cheesman cosigned the statements |
-| telegraphed | 发电报（telegraph 的过去时） | Cheesman telegraphed the Board of Trade |
-| detained | 拘留、扣押（detain 的过去时） | hold all three men |
-| arrest warrants | 逮捕令（arrest warrant 的复数） | signed arrest warrants |
-| magistrates | 地方法官、治安官（magistrate 的复数） | appear at a preliminary hearing before the Falmouth magistrates |
-| preliminary hearing | 初步听证、预审 | scheduled to appear at a preliminary hearing |
-| offense | 罪行、违法行为 | bringing the Offender or Offenders to Justice |
-| offender | 犯罪者、违法者 | bringing the Offender or Offenders to Justice |
-| violence | 暴力 | caused "by Violence or other improper Means" |
-| improper means | 不正当手段 | caused by Violence or other improper Means |
-| discharged | 卸下、解雇（discharge 的过去时） | the Port where the Crew is discharged |
-| fatalities | 死亡事故、伤亡（fatality 的复数） | major new legislation now covered fatalities at sea |
-| seafarers | 海员、航海者（seafarer 的复数） | everyday seafarers like Dudley, Stephens, and Brooks |
-| Customs House | 海关、海关大楼 | taken to the Falmouth Custom House to meet with Robert Gandy Cheesman |
-| receiver of wrecks | 失事船只接收人（海事职务） | receiver of wrecks for West Cornwall |
-| depositions | 宣誓证词、陈述（deposition 的复数） | take depositions from all three men |
-| clerk | 书记员、职员 | his clerk, Samuel Tresidder |
-| sworn statement | 宣誓陈述 | given a sworn statement |
-| Falmouth | 法尔茅斯（英格兰港口） | arrived in Falmouth |
-| Moctezuma | 莫克特祖玛号（德国船） | the Moctezuma, a 442-ton, three-masted German bark |
-| fustic | 黄櫟木（染料用热带木材） | cargo of fustic, a tropical wood used to make dye |
-| bark | 巴克船（三桅帆船） | German bark |
-| telescope | 望远镜 | looking through his telescope |
-| speck | 小点、小斑点 | spotted a speck in the distance |
-| hoist | 吊起、提升 | hoist them up |
-| hull | 船体、船壳 | grab onto the Moctezuma's hull |
-| brandy | 白兰地 | served the men brandy, tea, and some food |
-| telegram | 电报 | sent a telegram to his wife |
-| harbor pilot | 港口领航员 | Falmouth's harbor pilot, Gustavus Collins |
-| superintendent | 主管、负责人 | the superintendent, Captain Jose |
-
-### ⭐ 基础
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| digesting | 消化 | sat in the lifeboat digesting Parker's body |
-| ghastly | 可怕的 | over that ghastly meal |
-| mad wolfs | 疯狂的狼 | "like mad wolfs" |
-| torn | 纠结的 | he was torn—willing to survive on Parker's flesh |
-| bounty | 意外收获 | ate heartily from their new bounty |
-| grim provenance | 冷酷的来源 | despite its grim provenance |
-| sustenance | 营养 | grateful for the sustenance |
-| quenched | 解渴 | their thirsts quenched |
-| blurted | 脱口而出 | they may have simply blurted it all out |
-| resourcefulness | 机智 | strength and resourcefulness |
-| autonomy | 自治 | near-total autonomy |
-| wide-ranging | 范围广泛的 | wide-ranging reforms |
-| stipulated | 规定 | it stipulated if an inquiry |
-| equivocation | 模棱两可 | admitted without equivocation |
-| hewing | 坚持 | hewing closer to the truth |
-| incriminating | 使入罪的 | avoid incriminating himself |
-| keepsake | 纪念品 | to have it as a "keepsake" |
-| lacerating | 割伤 | lacerating his backside |
-| convalescing | 康复中 | spent thirty-eight days convalescing |
-| subsisted | 维持生存 | "subsisted on the flesh until the twenty-fourth day" |
-| forthcoming | 坦率的 | Dudley was as forthcoming in it as he was in his discussions |
-| candid | 坦率的 | Stephens was candid |
-| instigating | 发起、煽动 | accepted a greater role in instigating the killing |
-| cosigned | 共同签署 | Cheesman cosigned the statements |
-| telegraphed | 发电报 | Cheesman telegraphed the Board of Trade |
-| detained | 拘留 | hold all three men |
-| arrest warrants | 逮捕令 | signed arrest warrants |
-| magistrates | 地方法官 | appear at a preliminary hearing before the Falmouth magistrates |
-| preliminary hearing | 初步听证 | scheduled to appear at a preliminary hearing |
-| offense | 罪行 | bringing the Offender or Offenders to Justice |
-| offender | 犯罪者 | bringing the Offender or Offenders to Justice |
-| violence | 暴力 | caused "by Violence" |
-| improper means | 不正当手段 | caused by Violence or other improper Means |
-| discharged | 卸下、解雇 | the Port where the Crew is discharged |
-| fatalities | 死亡事故 | major new legislation now covered fatalities at sea |
-| seafarers | 海员 | everyday seafarers |
-| Customs House | 海关 | taken to the Falmouth Custom House to meet with |
-| receiver of wrecks | 失事船只接收人 | receiver of wrecks for West Cornwall |
-| depositions | 宣誓证词 | take depositions from all three men |
-| clerk | 书记员 | his clerk, Samuel Tresidder |
-| sworn statement | 宣誓陈述 | given a sworn statement |
-| Falmouth | 法尔茅斯 | arrived in Falmouth |
-| Moctezuma | 莫克特祖玛号 | the Moctezuma, a 442-ton, three-masted German bark |
-| fustic | 黄櫟木 | cargo of fustic |
-| bark | 巴克船 | German bark |
-| telescope | 望远镜 | looking through his telescope |
-| speck | 小点 | spotted a speck in the distance |
-| hoist | 吊起 | hoist them up |
-| hull | 船体 | grab onto the Moctezuma's hull |
-| brandy | 白兰地 | served the men brandy, tea, and some food |
-| telegram | 电报 | sent a telegram to his wife |
-| harbor pilot | 港口领航员 | Falmouth's harbor pilot, Gustavus Collins |
-| superintendent | 主管 | the superintendent, Captain Jose |
-| survivor | 幸存者 | the survivors' spirits were high |
+(unchanged)
 
 ## 一句话总结
 
-本章把 Dudley 等人的"归乡"写成"坦白 → 逮捕"的转折：获救后 men 本可编造 "corpse-eating" 故事（Parker 死于海水、他们只吃尸体）却 chose truth——"blurted it all out" 或 "proud of resourcefulness"；Dudley 的 report 有偏差（"we arranged"、"put out of misery"），但 Custom House 调查中更 candid；Falmouth 当局依据 Merchant Shipping Act 1854 section 269 逮捕三人，显示 "legal landscape was changing"——captain's absolute discretion 正被 rule of law 取代；Laverty 取走 knife 作为 evidence，Mayor 签发 arrest warrants；men "shocked"，Brooks 尤其 "easy to understand"（他反对杀 Parker 却同被囚）。法律的转变是本章 thesis：从 "no prosecution" 到 "murder charges"，Victorian England 正在把 "custom of the sea" 纳入 "rule of law"。
+(unchanged)

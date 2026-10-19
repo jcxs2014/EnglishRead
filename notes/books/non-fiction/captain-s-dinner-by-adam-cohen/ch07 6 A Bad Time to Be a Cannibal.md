@@ -27,7 +27,7 @@ modified: "2026-10-19"
   | Mathew Hale opposition | 评论家 | 显示 opposing view（dangerous doctrine） |
   | Victorian reform：Merchant Shipping Act, child protection, "cult of the child" | 社会史 | 显示 legal landscape 变化 |
   | Norbert Elias "civilizing process" / "expanding threshold of repugnance" | 社会学 | 解释 violence 的 decline |
-  | Cannibalism as "prime symbol of barbarism" | 文化话语 | 显示 1884 是 "最糟的食人之年" |
+  | Cannibalism as "prime symbol of barbarism" | 文化话语 | 显示 1884 是 "worst year to be cannibal" |
   | Euxine case (1874) near-prosecution | 历史 | 显示 Board of Trade 已开始考虑 prosecution |
 
 - **论证脉络**：prosecution case 强 → necessity defense 的不确定性 → Holmes 案（precedent + strict conditions）→ Bacon/Blackstone vs Hale → Victorian reform（maritime laws, child protection）→ "civilizing process" → cannibalism as "barbarism" → Euxine near-prosecution → "poised to end long tradition"
@@ -41,7 +41,7 @@ modified: "2026-10-19"
 
 > **原句 1:** "The prosecution would have a straightforward case to make to the magistrates on Monday morning. Dudley had taken a knife and stabbed Parker to death. It was an intentional and premeditated act. And there could be no claim of self-defense, because Parker did not pose a danger to anyone. All the elements of the crime of murder were present. The prosecutors also had all the evidence they needed. Dudley, Stephens, and Brooks had given sworn statements attesting to the facts, and those would very likely be admissible at the hearing. The authorities even had the murder weapon in their possession."
 
-- **中文理解**：prosecution would have straightforward case to make to magistrates on Monday morning。Dudley had taken knife and stabbed Parker to death。It was intentional and premeditated act。And there could be no claim of self-defense，because Parker did not pose danger to anyone。All elements of crime of murder were present。Prosecutors also had all evidence they needed。Dudley, Stephens, and Brooks had given sworn statements attesting to facts，and those would very likely be admissible at hearing。Authorities even had murder weapon in their possession。
+- **中文理解**：周一上午，检方将向地方法官提出一个直截了当的案件。Dudley 拿刀刺死了 Parker。这是故意且预谋的行为。而且不能声称自卫，因为 Parker 对任何人都不构成危险。谋杀罪的所有要素都具备。检方也有所有需要的证据。Dudley、Stephens 和 Brooks 已经提供了宣誓证词证明事实，这些证词很可能在听证会上被采纳。当局甚至拥有凶器。
 - **句子结构**：七句：straightforward case → knife → intentional/premeditated → no self-defense → all elements → evidence → sworn statements → murder weapon。
 - **关键词**：`straightforward case`、`intentional and premeditated`、`no claim of self-defense`、`murder weapon`
 - **表达方式**：用 "straightforward" 把 prosecution 写成 "easy"——这种 "easy" framing 为后文 "defense harder" 提供 contrast。
@@ -49,7 +49,7 @@ modified: "2026-10-19"
 
 > **原句 2:** "But for the men who had survived by taking Parker's life, there was a big problem: It was not clear that English law recognized a necessity defense in homicide prosecutions. The necessity defense had been used occasionally, in scattered cases going back centuries, but none of them bore a close resemblance to what happened on the Mignonette, where an innocent person was killed so that others could stay alive. The strongest precedent the men could invoke was an American case, United States v. Holmes. It involved a homicide, and that homicide was on a ship in distress. The defendant was, like the Mignonette defendants, a seafarer who believed that killing someone on the boat would ultimately save more lives."
 
-- **中文理解**：But for men who survived by taking Parker's life，there was big problem：It was not clear that English law recognized necessity defense in homicide prosecutions。Necessity defense had been used occasionally，in scattered cases going back centuries，but none bore close resemblance to what happened on Mignonette，where innocent person was killed so others could stay alive。Strongest precedent men could invoke was American case，United States v. Holmes。It involved homicide，and that homicide was on ship in distress。Defendant was，like Mignonette defendants，seafarer who believed killing someone on boat would ultimately save more lives。
+- **中文理解**：但对靠取 Parker 性命而幸存的水手们来说，有一个大问题：英国法律是否承认谋杀起诉中的必要性抗辩并不明确。必要性抗辩偶尔被使用，在几百年来的零散案件中，但没有一个与 Mignonette 号上发生的事密切相似——无辜者被杀以使他人存活。水手们能援引的最强先例是一个美国案例，United States v. Holmes。它涉及杀人，而且杀人发生在遇险的船上。被告与 Mignonette 号被告一样，是一个相信在船上杀人最终能救更多命的海员。
 - **句子结构**：六句：big problem → necessity defense unclear → scattered cases → none resembled → Holmes strongest → Holmes facts。
 - **关键词**：`not clear that English law recognized`、`scattered cases`、`none bore a close resemblance`、`United States v. Holmes`
 - **表达方式**：用 "not clear" 把 necessity defense 写成 "uncertain"——这种 "uncertainty" framing 为后文 "defense hard" 提供 "legal" basis。
@@ -57,7 +57,7 @@ modified: "2026-10-19"
 
 > **原句 3:** "Justice Baldwin gave instructions to the jury, setting out the law of necessity as he saw it. He said American law recognized a necessity defense even against a charge of homicide—but he put strict conditions on how it could be used. First, he said, the person taking a life "must be under no obligation to make his own safety secondary to the safety of others." Holmes did not meet this condition because crews have a special duty to passengers, he said. They must "undergo whatever hazard is necessary to preserve the boat and the passengers." Crewmembers who were needed to operate the ship should be spared, Justice Baldwin said, but any unnecessary members should be sacrificed before any passengers were."
 
-- **中文理解**：Justice Baldwin gave instructions to jury，setting out law of necessity as he saw it。He said American law recognized necessity defense even against charge of homicide—but he put strict conditions on how it could be used。First，person taking life "must be under no obligation to make his own safety secondary to safety of others." Holmes did not meet this condition because crews have special duty to passengers，he said。They must "undergo whatever hazard is necessary to preserve the boat and the passengers." Crewmembers needed to operate ship should be spared，Justice Baldwin said，but any unnecessary members should be sacrificed before any passengers were。
+- **中文理解**：Baldwin 法官向陪审团作出指示，按他所见阐述必要性法律。他说美国法律即使面对杀人指控也承认必要性抗辩——但他对如何使用它施加了严格条件。首先，他说，取人性命的人"必须没有义务将自己的安全置于他人安全之后"。Holmes 不符合这一条件，因为船员对乘客负有特殊责任，他说。他们必须"承担 whatever 危险 necessary to preserve the boat and the passengers"。Baldwin 法官说，操作船只必需的船员应被保留，但任何不必要的成员都应在乘客之前被牺牲。
 - **句子结构**：六句：instructions → recognized but strict → condition 1 → Holmes failed → duty to passengers → crewmembers spared/sacrificed。
 - **关键词**：`"must be under no obligation to make his own safety secondary"`、`"undergo whatever hazard is necessary"`、`strict conditions`
 - **表达方式**：用 "strict conditions" 把 necessity defense 写成 "limited"——这种 "limited" framing 为后文 "Dudley's problem" 提供 "legal" basis。
@@ -65,7 +65,7 @@ modified: "2026-10-19"
 
 > **原句 4:** "The other condition, according to Justice Baldwin, was that the people thrown overboard had to be chosen in a way that gave everyone an "equal chance for their life." Drawing lots, he said, was "the fairest mode, and, in some sort, an appeal to God, for selection of the victim." No other method was "so consonant both to humanity and to justice," and it would require "peculiar" circumstances to "dispense with its exercise." With this condition, Justice Baldwin was effectively giving a legal imprimatur to the custom of the sea."
 
-- **中文理解**：The other condition，according to Justice Baldwin，was that people thrown overboard had to be chosen in way that gave everyone "equal chance for their life." Drawing lots，he said，was "the fairest mode, and, in some sort, an appeal to God, for selection of the victim." No other method was "so consonant both to humanity and to justice," and it would require "peculiar" circumstances to "dispense with its exercise." With this condition，Justice Baldwin was effectively giving legal imprimatur to custom of the sea。
+- **中文理解**：根据 Baldwin 法官，另一个条件是被抛下船的人必须以给每个人"平等生存机会"的方式选出。他说抽签是"最公平的方式，某种意义上是对上帝的呼吁，以选择牺牲者"。没有其他方法"如此符合人性和正义"，而且需要"特殊的"环境才能"放弃其行使"。通过这一条件，Baldwin 法官实际上给"海难旧俗"盖上了法律认可的印章。
 - **句子结构**：五句：condition 2 → drawing lots fairest → consonant → peculiar circumstances → imprimatur to custom。
 - **关键词**：`"equal chance for their life"`、`"the fairest mode"`、`"consonant both to humanity and to justice"`、`legal imprimatur`
 - **表达方式**：用 "legal imprimatur" 把 "custom of the sea" 写成 "legally recognized"——这种 "recognition" 为后文 "Dudley did not draw lots" 提供 "fatal weakness"。
@@ -73,7 +73,7 @@ modified: "2026-10-19"
 
 > **原句 5:** "If Dudley, Stephens, and Brooks wanted to use a necessity defense, the Holmes case could be helpful. A US Supreme Court justice had declared that American law, at least, recognized such a defense, even to a charge of homicide. Under the right circumstances, Justice Baldwin had ruled, it could be legal to kill a person to save other lives. The facts were also remarkably close to what happened on the Mignonette lifeboat—it was a case of trying to save lives in extreme conditions at sea. The Mignonette defendants could also take heart from the lenient sentence Holmes had received."
 
-- **中文理解**：If Dudley, Stephens, and Brooks wanted to use necessity defense，Holmes case could be helpful。A US Supreme Court justice had declared that American law，at least，recognized such defense，even to charge of homicide。Under right circumstances，Justice Baldwin had ruled，it could be legal to kill person to save other lives。Facts were also remarkably close to what happened on Mignonette lifeboat—it was case of trying to save lives in extreme conditions at sea。Mignonette defendants could also take heart from lenient sentence Holmes had received。
+- **中文理解**：如果 Dudley、Stephens 和 Brooks 想用必要性抗辩，Holmes 案可能有用。美国最高法院法官已宣布，至少在美国法律中，即使面对杀人指控也承认这种抗辩。Baldwin 法官裁决，在适当的环境下，杀死某人以拯救他人生命可能是合法的。事实也与 Mignonette 号救生艇上发生的事惊人地相似——这是在极端海况下试图拯救生命。Mignonette 号被告也可以从 Holmes 受到的宽大判决中得到鼓舞。
 - **句子结构**：五句：Holmes helpful → Supreme Court justice → right circumstances → facts close → lenient sentence。
 - **关键词**：`remarkably close`、`lenient sentence`、`take heart`
 - **表达方式**：用 "take heart" 把 Holmes 案写成 "hopeful"——这种 "hopeful" framing 为后文 "but..." 提供 contrast（hopeful but ultimately unhelpful）。
@@ -81,7 +81,7 @@ modified: "2026-10-19"
 
 > **原句 6:** "But there were also important ways that Holmes was not helpful at all. Justice Baldwin said the necessity defense to a charge of sacrificing someone at sea required, with few exceptions, lots to be drawn so everyone had an "equal chance" to live. Dudley had not drawn lots, and there was a good chance that Justice Baldwin would have advised a jury to convict the Mignonette defendants. Another problem with the Holmes ruling was that it came from an American court. An English court might be interested in the case's reasoning but had no duty to follow it."
 
-- **中文理解**：But there were also important ways that Holmes was not helpful at all。Justice Baldwin said necessity defense to charge of sacrificing someone at sea required，with few exceptions，lots to be drawn so everyone had "equal chance" to live。Dudley had not drawn lots，and there was good chance that Justice Baldwin would have advised jury to convict Mignonette defendants。Another problem with Holmes ruling was that it came from American court。An English court might be interested in case's reasoning but had no duty to follow it。
+- **中文理解**：但 Holmes 案在很多重要方面完全无帮助。Baldwin 法官说，海上牺牲某人的必要性抗辩要求，除少数例外，必须抽签以便每个人都有"平等的生存机会"。Dudley 没有抽签，Baldwin 法官很可能会建议陪审团定 Mignonette 号被告有罪。Holmes 裁决的另一个问题是它来自美国法院。英国法院可能对案件的推理感兴趣，但没有义务遵循它。
 - **句子结构**：五句：not helpful → required lots → Dudley did not draw → would convict → American court not binding。
 - **关键词**：`not helpful at all`、`Dudley had not drawn lots`、`no duty to follow`
 - **表达方式**：用 "not helpful at all" 把 Holmes 案写成 "unhelpful"——这种 "unhelpful" framing 为后文 "defense hard" 提供 "factual" basis。
@@ -89,7 +89,7 @@ modified: "2026-10-19"
 
 > **原句 7:** "William Blackstone, the single most respected commentator on English law, had also endorsed the necessity defense. Blackstone, a justice of the Court of King's Bench and a member of Parliament, wrote the four-volume Commentaries on the Laws of England starting in 1765. It was a highly influential treatise, which was taught in law schools and cited in court decisions. In it, Blackstone took up the plank hypothetical, and he agreed with Bacon that it was not a crime for one sailor to shove the other one off. Someone who "preserves his own life at the expense of another man's is excusable through unavoidable necessity," he wrote."
 
-- **中文理解**：William Blackstone，single most respected commentator on English law，had also endorsed necessity defense。Blackstone，justice of Court of King's Bench and member of Parliament，wrote four-volume Commentaries on the Laws of England starting in 1765。It was highly influential treatise，taught in law schools and cited in court decisions。In it，Blackstone took up plank hypothetical，and he agreed with Bacon that it was not crime for one sailor to shove other one off。Someone who "preserves his own life at expense of another man's is excusable through unavoidable necessity," he wrote。
+- **中文理解**：英国法律最权威的评论家 William Blackstone 也支持必要性抗辩。Blackstone，国王座法庭法官和议员，从 1765 年开始撰写四卷本《英国法释义》。这是一部极具影响力的论著，在法学院教授并在法庭判决中引用。在其中，Blackstone 讨论了木板假想，并同意 Bacon 的观点：一个水手把另一个推下木板不算犯罪。"保全自己的生命以牺牲另一个人的，因不可避免的必要性而可原谅，"他写道。
 - **句子结构**：五句：Blackstone endorsed → Blackstone bio → Commentaries influential → plank hypothetical → "preserves his own life..." 引语。
 - **关键词**：`"preserves his own life at the expense of another man's is excusable through unavoidable necessity"`、`Commentaries on the Laws of England`
 - **表达方式**：用 "single most respected commentator" 把 Blackstone 写成 "authority"——这种 "authority" framing 为后文 "but..." 提供 "weight"（but his writings were not court rulings）。
@@ -97,7 +97,7 @@ modified: "2026-10-19"
 
 > **原句 8:** "There were other influential commentators who opposed the necessity defense on principle and considered it a dangerous doctrine. They insisted that an inherently bad act, such as murder or theft, cannot be excused by an individual's subjective assessment of what is best or necessary in an extreme situation. Mathew Hale, an important seventeenth-century judge and legal scholar, said that a hungry man who steals food and pleads necessity must be found guilty. If the court accepted his necessity defense, Lord Hale wrote, "men's properties would be under a strange insecurity, being laid open to other men's necessities, whereof no man can possibly judge but the party himself.""
 
-- **中文理解**：There were other influential commentators who opposed necessity defense on principle and considered it dangerous doctrine。They insisted that inherently bad act，such as murder or theft，cannot be excused by individual's subjective assessment of what is best or necessary in extreme situation。Mathew Hale，important seventeenth-century judge and legal scholar，said hungry man who steals food and pleads necessity must be found guilty。If court accepted his necessity defense，Lord Hale wrote，"men's properties would be under a strange insecurity，being laid open to other men's necessities，whereof no man can possibly judge but the party himself."
+- **中文理解**：还有其他有影响力的评论家从原则出发反对必要性抗辩，认为它是危险的学说。他们坚持认为，谋杀或盗窃等本质上坏的行为，不能因个人在极端情况下对什么最好或必要的主观评估而被原谅。十七世纪重要法官和法律学者 Mathew Hale 说，饥饿的人偷食物并以必要性抗辩必须被判有罪。如果法院接受他的必要性抗辩，Hale 勋爵写道，"人的财产将处于奇怪的不安全状态，向其他人的必要性开放，除了当事人自己，没有人能判断。"
 - **句子结构**：四句：opponents → inherently bad → Hale → Hale quote。
 - **关键词**：`"men's properties would be under a strange insecurity"`、`dangerous doctrine`
 - **表达方式**：用 Hale quote 把 "necessity defense" 写成 "dangerous"——这种 "dangerous" framing 为后文 "defense hard" 提供 "opposing view"。
@@ -105,7 +105,7 @@ modified: "2026-10-19"
 
 > **原句 9:** "As the Industrial Revolution transformed England, a new Victorian mindset was emerging. The Victorian era, which had begun decades earlier, in 1837, when Queen Victoria ascended the throne, is often associated with conservative values and sanctimony, and there is some truth to that image. Many Victorians were swept up in religious fervor, donating generously to missionary work overseas. Victorian moralists even inspected the great classics of English literature for lewdness and "bowdlerized" them, as their heavy-handed editing was called, after Thomas Bowdler, a physician who published a sanitized version of Shakespeare. In 1885, the year after the Mignonette sank, England criminalized homosexual acts it characterized as "gross indecency," and a decade later, Oscar Wilde would be imprisoned under the new law. The era was not far in the past when Webster's defined "Victorian" as "prudish, strict, old-fashioned, dated." But that was only a partial picture. Judged by the standard of lasting impact on the world, the Victorian was, to a far greater extent, an age of ambitious reform."
 
-- **中文理解**：As Industrial Revolution transformed England，new Victorian mindset was emerging。Victorian era，which had begun decades earlier，in 1837，when Queen Victoria ascended throne，is often associated with conservative values and sanctimony，and there is some truth to that image。Many Victorians swept up in religious fervor，donating generously to missionary work overseas。Victorian moralists even inspected great classics of English literature for lewdness and "bowdlerized" them，after Thomas Bowdler，physician who published sanitized version of Shakespeare。In 1885，year after Mignonette sank，England criminalized homosexual acts characterized as "gross indecency," and decade later，Oscar Wilde imprisoned under new law。Era was not far in past when Webster's defined "Victorian" as "prudish, strict, old-fashioned, dated." But that was only partial picture。Judged by standard of lasting impact，Victorian was，to far greater extent，age of ambitious reform。
+- **中文理解**：随着工业革命改变英国，新的维多利亚 mindset 正在浮现。维多利亚时代，始于几十年前的 1837 年 Victoria 女王登基，常与保守价值观和伪善联系在一起，这有一定道理。许多维多利亚人被宗教狂热所卷入，慷慨捐赠海外传教工作。维多利亚道德家甚至检查英国文学经典中的猥亵内容并"删节"它们，这种粗暴编辑被称为 bowdlerize，以 Thomas Bowdler 命名，他出版了莎士比亚的净化版本。1885 年，Mignonette 号沉没的下一年，英国将同性恋行为入罪，称为"严重猥亵"，十年后 Oscar Wilde 将因此新法律被监禁。Webster's 定义 "Victorian" 为"拘谨、严格、老派、过时"的时代并不遥远。但这只是部分图景。以对世界持久影响的标准来看，维多利亚时代在更大程度上是一个雄心勃勃的改革时代。
 - **句子结构**：九句：Industrial Revolution → Victorian mindset → conservative/sanctimony → religious fervor → bowdlerized → 1885 criminalized → Webster's → partial picture → ambitious reform。
 - **关键词**：`"bowdlerized"`、`"gross indecency"`、`"prudish, strict, old-fashioned, dated"`、`age of ambitious reform`
 - **表达方式**：用 "Bowdler" 与 "Oscar Wilde" 把 Victorian era 写成 "repressive"——这种 "repressive" framing 为后文 "reform" 提供 "contrast"（repressive but also reformist）。
@@ -113,7 +113,7 @@ modified: "2026-10-19"
 
 > **原句 10:** "As its "threshold of repugnance" expanded in the 1800s, England was becoming less likely to accept a cabin boy being stabbed to death and eaten. Dudley, Stephens, and Brooks might have been welcomed home as heroes in an earlier era, but now a growing number of their countrymen might be inclined to regard them as barbarians."
 
-- **中文理解**：As its "threshold of repugnance" expanded in 1800s，England was becoming less likely to accept cabin boy being stabbed to death and eaten。Dudley, Stephens, and Brooks might have been welcomed home as heroes in earlier era，but now growing number of countrymen might be inclined to regard them as barbarians。
+- **中文理解**：随着 1800 年代"厌恶阈值"的扩展，英国越来越不可能接受 cabin boy 被刺死吃掉。Dudley、Stephens 和 Brooks 在更早的时代可能被当作英雄欢迎回家，但现在越来越多的同胞可能 inclined 将他们视为 barbarians。
 - **句子结构**：二句：threshold expanding → less likely to accept → heroes in earlier era → barbarians now。
 - **关键词**：`"threshold of repugnance"`、`barbarians`
 - **表达方式**：用 "threshold of repugnance" 把 "civilizing process" 写成 "repugnance"——这种 "repugnance" framing 为后文 "cannibalism as barbarism" 提供 "psychological" basis。
@@ -121,7 +121,7 @@ modified: "2026-10-19"
 
 > **原句 11:** "Cannibalism had long been seen as "the prime symbol or signifier of 'barbarism,'" as anthropologist Shirley Lindenbaum has observed. For Victorians, cannibalism was "the absolute nadir of human behavior," Patrick Brantlinger notes in Taming Cannibals: Race and the Victorians. Englishmen of the era believed that it was "practiced by black or brown savages but not by white Christians, who are horrified by it.""
 
-- **中文理解**：Cannibalism had long been seen as "the prime symbol or signifier of 'barbarism,'" as anthropologist Shirley Lindenbaum observed。For Victorians，cannibalism was "the absolute nadir of human behavior," Patrick Brantlinger notes in Taming Cannibals: Race and the Victorians。Englishmen of era believed that it was "practiced by black or brown savages but not by white Christians, who are horrified by it."
+- **中文理解**：Cannibalism 长期被视为"野蛮的首要象征或标志"，人类学家 Shirley Lindenbaum 观察道。对维多利亚人来说，cannibalism 是"人类行为的绝对最低点"，Patrick Brantlinger 在《驯服食人族：种族与维多利亚人》中指出。那个时代的英国人相信它"由黑色或棕色野蛮人实践，而非白人基督徒，后者对此感到 horrified。"
 - **句子结构**：三句：prime symbol → absolute nadir → practiced by savages not Christians。
 - **关键词**：`"prime symbol or signifier of 'barbarism'"`、`"absolute nadir of human behavior"`、`"black or brown savages but not by white Christians"`
 - **表达方式**：用 Lindenbaum/Brantlinger 引语把 "cannibalism" 写成 "barbarism"——这种 "barbarism" framing 为后文 "最糟的食人之年" 提供 "cultural" basis。
@@ -129,7 +129,7 @@ modified: "2026-10-19"
 
 > **原句 12:** "In the end, the investigation was dropped. Even so, the crew had briefly been treated as possible criminal defendants. It is unlikely the Mignonette survivors knew of the case. There was little coverage of it in English papers, and the articles that were written presented the Euxine survivors as unfortunate victims rather than suspects. But if Dudley, Stephens, and Brooks had known how close the Euxine case had come to a prosecution, they would no doubt have been more worried."
 
-- **中文理解**：In the end，investigation was dropped。Even so，crew had briefly been treated as possible criminal defendants。It is unlikely Mignonette survivors knew of case。There was little coverage of it in English papers，and articles that were written presented Euxine survivors as unfortunate victims rather than suspects。But if Dudley, Stephens, and Brooks had known how close Euxine case had come to prosecution，they would no doubt have been more worried。
+- **中文理解**：最终，调查被搁置。即便如此，船员们曾短暂地被当作可能的刑事被告对待。Mignonette 号幸存者不太可能知道这个案件。英国报纸几乎没有报道，所写的文章把 Euxine 号幸存者呈现为不幸的受害者而非嫌疑人。但如果 Dudley、Stephens 和 Brooks 知道 Euxine 案距离起诉有多近，他们无疑会更加担忧。
 - **句子结构**：五句：investigation dropped → crew treated as defendants → survivors unlikely knew → little coverage → if knew, more worried。
 - **关键词**：`possible criminal defendants`、`more worried`
 - **表达方式**：用 "more worried" 把 Euxine 案写成 "warning sign"——这种 "warning" framing 为后文 "poised to end long tradition" 提供 "precedent"（Board of Trade had considered prosecution）。
@@ -137,256 +137,8 @@ modified: "2026-10-19"
 
 ## 词汇分级
 
-### ⭐⭐⭐ 高级
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| straightforward | 直截了当的、简单的 | The prosecution would have a straightforward case |
-| premeditated | 预谋的 | It was an intentional and premeditated act |
-| necessity defense | 必要性抗辩（刑法：因救更多命而正当杀人的抗辩） | The defense's main argument would have to be a doctrine known as the "necessity defense" |
-| premise | 前提、假设 | based on a simple premise |
-| lesser of two evils | 两害相权取其轻 | choosing the lesser of two evils |
-| precedent | 先例、前例 | The strongest precedent the men could invoke |
-| seafarer | 海员、航海者 | a seafarer who believed that killing someone on the boat |
-| extenuated | 减轻、辩解（extenuate 的过去时） | how far imperious circumstances warranted or extenuated their conduct |
-| imprimatur | 认可、批准、许可 | giving a legal imprimatur to the custom of the sea |
-| consonant | 一致的、和谐的 | "so consonant both to humanity and to justice" |
-| peculiar | 特殊的、奇特的 | it would require "peculiar" circumstances |
-| dispensing | 免除、 dispense 的现在分词 | to "dispense with its exercise" |
-| lenient | 宽大的、从轻的 | the lenient sentence Holmes had received |
-| clemency | 宽恕、赦免 | In response to a plea for clemency |
-| plank hypothetical | 木板假想（Carneades 的哲学假想） | Blackstone took up the plank hypothetical |
-| excusable | 可宽恕的、可原谅的 | "is excusable through unavoidable necessity" |
-| unavoidable necessity | 不可避免的必要性 | excusable through unavoidable necessity |
-| dangerous doctrine | 危险的理论/学说 | considered it a dangerous doctrine |
-| inherently bad act | 本性上就是坏的行为 | an inherently bad act, such as murder or theft |
-| subjective assessment | 主观评估 | an individual's subjective assessment of what is best |
-| sanctimony | 伪善、假虔诚 | conservative values and sanctimony |
-| religious fervor | 宗教狂热 | swept up in religious fervor |
-| bowdlerized | 删节的、净化的（Bowdler 式删改） | Victorian moralists even inspected...and "bowdlerized" them |
-| lewdness | 淫秽、猥亵 | Victorian moralists even inspected the great classics of English literature for lewdness and "bowdlerized" them |
-| sanitized | 净化的、删节的 | a sanitized version of Shakespeare |
-| gross indecency | 严重猥亵罪（法律术语） | criminalized homosexual acts it characterized as "gross indecency" |
-| prudish | 过分拘谨的、假正经的 | "prudish, strict, old-fashioned, dated" |
-| ambitious reform | 雄心勃勃的改革 | an age of ambitious reform |
-| physical, moral, and intellectual improvement | 身体、道德与智识的改善 | "physical, of moral, and of intellectual improvement" |
-| proliferation | 激增、大量出现 | There was a proliferation of "condition of England" novels |
-| condition of England | 英格兰状况（维多利亚时代社会问题小说） | "condition of England" novels |
-| plight | 困境、苦境 | focused on the plight of the dispossessed |
-| dispossessed | 被剥夺者、无产者 | the plight of the dispossessed |
-| pilloried | 公开谴责、批判（pillory 的过去时） | pilloried harsh industrial capitalism |
-| forbearance | 忍耐、宽容 | charity, mercy, forbearance and benevolence |
-| benevolence | 善意、仁慈 | charity, mercy, forbearance and benevolence |
-| turpitude | 堕落、卑劣 | turpitude he had seen |
-| netherworld | 阴间、地狱 | Liverpool docks...netherworld |
-| devour | 吞噬、毁灭 | "devour him, limb by limb" |
-| reform ethos | 改革精神/道德 | This reform ethos...reached into virtually every corner |
-| sanitary reform | 卫生改革 | "sanitary reform," aimed at converting the nation's infrastructure from cesspools to sewage systems |
-| cesspools | 化粪池、污水池 | from cesspools to sewage systems |
-| sewage systems | 污水系统 | converting the nation's infrastructure from cesspools to sewage systems |
-| conflate | 混淆、混同 | people often conflated "moral and physical filthiness" |
-| filthiness | 污秽、肮脏 | conflated "moral and physical filthiness" |
-| civilizing process | 文明化过程（Norbert Elias） | "the civilizing process" |
-| threshold of repugnance | 厌恶阈值、反感阈值 | "expanding threshold of repugnance" |
-| repugnance | 厌恶、反感 | "threshold of repugnance" |
-| cult of the child | 儿童崇拜（维多利亚时代） | came to be known as the "cult of the child" |
-| child-savers | 儿童拯救者（维多利亚改革者） | Reformers known as "child-savers" |
-| Society for the Prevention of Cruelty to Children | 防止虐待儿童协会 | founded in 1883 |
-| barbarians | 野蛮人、蛮族 | regard them as barbarians |
-| prime symbol or signifier of "barbarism" | 野蛮的首要象征 | "the prime symbol or signifier of 'barbarism'" |
-| absolute nadir | 绝对低谷、最低点 | "the absolute nadir of human behavior" |
-| black or brown savages | 黑色或棕色野蛮人 | "practiced by black or brown savages" |
-| white Christians | 白人基督徒 | "but not by white Christians, who are horrified by it" |
-| exoticism | 异国情调、异域风情 | accentuate the exoticism of the regions |
-| apocryphal | 伪经的、杜撰的 | often apocryphal accounts |
-| Five Years with the Congo Cannibals | 《与刚果食人族的五年》 | popular books with titles like Five Years with the Congo Cannibals |
-| Taming Cannibals | 《驯服食人族》（Patrick Brantlinger） | Taming Cannibals: Race and the Victorians |
-| The Africa That Never Was | 《从未有过的非洲》 | The Africa That Never Was: Four Centuries of British Writing About Africa |
-| addicted to tales | 对...成瘾/沉迷 | European writers "were far more addicted to tales of cannibalism" |
-| dichotomy | 二分法 | a dichotomy contrasting "civilized" Englishmen with "savage" cannibals |
-| civilizing | 文明化的 | "civilized" Englishmen |
-| savages | 野蛮人 | "savage" cannibals |
-| blood-drenched | 血腥的、血淋淋的 | blood-drenched foreign incursions |
-| incursions | 入侵、侵犯 | blood-drenched foreign incursions |
-| Royal Society | 皇家学会（英国科学学会） | institutions like the Royal Society |
-| fellow-countrymen | 同胞、同胞们 | congratulated his "fellow-countrymen" |
-| Euxine | 尤克辛号（1874 年海难船） | The Euxine, a Liverpool-based sailing ship |
-| spontaneously combusted | 自燃、自发燃烧 | cargo of coal spontaneously combusted |
-| second mate | 二副 | second mate James Archer |
-| Gioffous | 吉奥福斯（意大利水手，被杀食） | twenty-year-old Francis Gioffous |
-| dark-skinned | 深肤色的 | dark-skinned Italian |
-| maneaters | 食人者 | "bring these maneaters to justice" |
-| attorney general | 律政司、总检察长 | British attorney general in Singapore |
-| Board of Trade | 商务委员会（英国政府机构） | officials at the Board of Trade in London |
-| colonial authorities | 殖民当局 | British colonial authorities |
-| Euxine disaster | 尤克辛号灾难 | since the Euxine disaster |
-| poised | 准备好、即将 | England might be poised to end that long tradition |
-
-### ⭐⭐ 进阶
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| straightforward | 直截了当的 | The prosecution would have a straightforward case |
-| premeditated | 预谋的 | It was an intentional and premeditated act |
-| necessity defense | 必要性抗辩 | The defense's main argument would have to be a doctrine known as the "necessity defense" |
-| premise | 前提 | based on a simple premise |
-| lesser of two evils | 两害相权取其轻 | choosing the lesser of two evils |
-| precedent | 先例 | The strongest precedent the men could invoke |
-| seafarer | 海员 | a seafarer who believed that killing someone |
-| extenuated | 减轻、辩解 | how far imperious circumstances warranted or extenuated their conduct |
-| imprimatur | 认可、批准 | giving a legal imprimatur to the custom of the sea |
-| consonant | 一致的、和谐的 | "so consonant both to humanity and to justice" |
-| peculiar | 特殊的、奇特的 | it would require "peculiar" circumstances |
-| dispensing | 免除 | to "dispense with its exercise" |
-| lenient | 宽大的、从轻的 | the lenient sentence Holmes had received |
-| clemency | 宽恕、赦免 | In response to a plea for clemency |
-| plank hypothetical | 木板假想 | Blackstone took up the plank hypothetical |
-| excusable | 可宽恕的 | "is excusable through unavoidable necessity" |
-| unavoidable necessity | 不可避免的必要性 | excusable through unavoidable necessity |
-| dangerous doctrine | 危险的理论 | considered it a dangerous doctrine |
-| inherently bad act | 本性上就是坏的行为 | an inherently bad act, such as murder or theft |
-| subjective assessment | 主观评估 | an individual's subjective assessment |
-| sanctimony | 伪善 | conservative values and sanctimony |
-| religious fervor | 宗教狂热 | swept up in religious fervor |
-| bowdlerized | 删节的、净化的 | Victorian moralists even inspected...and "bowdlerized" them |
-| lewdness | 淫秽 | inspected the great classics...for lewdness |
-| sanitized | 净化的 | a sanitized version of Shakespeare |
-| gross indecency | 严重猥亵罪 | criminalized homosexual acts...as "gross indecency" |
-| prudish | 过分拘谨的 | "prudish, strict, old-fashioned, dated" |
-| ambitious reform | 雄心勃勃的改革 | an age of ambitious reform |
-| physical, moral, and intellectual improvement | 身体、道德与智识的改善 | "physical, of moral, and of intellectual improvement" |
-| proliferation | 激增 | There was a proliferation of "condition of England" novels |
-| condition of England | 英格兰状况 | "condition of England" novels |
-| plight | 困境 | focused on the plight of the dispossessed |
-| dispossessed | 被剥夺者 | the plight of the dispossessed |
-| pilloried | 公开谴责 | pilloried harsh industrial capitalism |
-| forbearance | 忍耐、宽容 | charity, mercy, forbearance and benevolence |
-| benevolence | 善意、仁慈 | charity, mercy, forbearance and benevolence |
-| turpitude | 堕落 | turpitude he had seen |
-| netherworld | 阴间 | Liverpool docks...netherworld |
-| devour | 吞噬 | "devour him, limb by limb" |
-| reform ethos | 改革精神 | This reform ethos...reached into virtually every corner |
-| sanitary reform | 卫生改革 | "sanitary reform," aimed at converting the nation's infrastructure from cesspools to sewage systems |
-| cesspools | 化粪池 | from cesspools to sewage systems |
-| sewage systems | 污水系统 | converting...from cesspools to sewage systems |
-| conflate | 混淆 | people often conflated "moral and physical filthiness" |
-| filthiness | 污秽 | conflated "moral and physical filthiness" |
-| civilizing process | 文明化过程 | "the civilizing process" |
-| threshold of repugnance | 厌恶阈值 | "expanding threshold of repugnance" |
-| repugnance | 厌恶、反感 | "threshold of repugnance" |
-| cult of the child | 儿童崇拜 | came to be known as the "cult of the child" |
-| child-savers | 儿童拯救者 | Reformers known as "child-savers" |
-| barbarians | 野蛮人 | regard them as barbarians |
-| prime symbol or signifier of "barbarism" | 野蛮的首要象征 | "the prime symbol or signifier of 'barbarism'" |
-| absolute nadir | 绝对低谷 | "the absolute nadir of human behavior" |
-| black or brown savages | 黑色或棕色野蛮人 | "practiced by black or brown savages" |
-| white Christians | 白人基督徒 | "but not by white Christians" |
-| exoticism | 异国情调 | accentuate the exoticism of the regions |
-| apocryphal | 伪经的、杜撰的 | often apocryphal accounts |
-| Five Years with the Congo Cannibals | 《与刚果食人族的五年》 | popular books with titles like... |
-| Taming Cannibals | 《驯服食人族》 | Taming Cannibals: Race and the Victorians |
-| The Africa That Never Was | 《从未有过的非洲》 | The Africa That Never Was |
-| addicted to tales | 对...成瘾 | European writers "were far more addicted to tales" |
-| dichotomy | 二分法 | a dichotomy contrasting |
-| civilizing | 文明化的 | "civilized" Englishmen |
-| savages | 野蛮人 | "savage" cannibals |
-| blood-drenched | 血腥的 | blood-drenched foreign incursions |
-| incursions | 入侵 | blood-drenched foreign incursions |
-| Royal Society | 皇家学会 | institutions like the Royal Society |
-| fellow-countrymen | 同胞 | congratulated his "fellow-countrymen" |
-| Euxine | 尤克辛号 | The Euxine, a Liverpool-based sailing ship |
-| spontaneously combusted | 自燃 | cargo of coal spontaneously combusted |
-| second mate | 二副 | second mate James Archer |
-| Gioffous | 吉奥福斯 | twenty-year-old Francis Gioffous |
-| dark-skinned | 深肤色的 | dark-skinned Italian |
-| maneaters | 食人者 | "bring these maneaters to justice" |
-| attorney general | 律政司 | British attorney general in Singapore |
-| Board of Trade | 商务委员会 | officials at the Board of Trade |
-| colonial authorities | 殖民当局 | British colonial authorities |
-| poised | 准备好、即将 | England might be poised to end |
-
-### ⭐ 基础
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| straightforward | 直截了当的 | The prosecution would have a straightforward case |
-| premeditated | 预谋的 | It was an intentional and premeditated act |
-| necessity defense | 必要性抗辩 | The defense's main argument...necessity defense |
-| premise | 前提 | based on a simple premise |
-| lesser of two evils | 两害相权取其轻 | choosing the lesser of two evils |
-| precedent | 先例 | The strongest precedent |
-| seafarer | 海员 | a seafarer who believed |
-| extenuated | 减轻、辩解 | how far...warranted or extenuated |
-| imprimatur | 认可、批准 | giving a legal imprimatur |
-| consonant | 一致的 | "so consonant both to humanity and to justice" |
-| peculiar | 特殊的 | it would require "peculiar" circumstances |
-| dispensing | 免除 | to "dispense with its exercise" |
-| lenient | 宽大的 | the lenient sentence Holmes had received |
-| clemency | 宽恕 | In response to a plea for clemency |
-| plank hypothetical | 木板假想 | Blackstone took up the plank hypothetical |
-| excusable | 可宽恕的 | "is excusable through unavoidable necessity" |
-| unavoidable necessity | 不可避免的必要性 | excusable through unavoidable necessity |
-| dangerous doctrine | 危险的理论 | considered it a dangerous doctrine |
-| inherently bad act | 本性上就是坏的行为 | an inherently bad act |
-| subjective assessment | 主观评估 | an individual's subjective assessment |
-| sanctimony | 伪善 | conservative values and sanctimony |
-| religious fervor | 宗教狂热 | swept up in religious fervor |
-| bowdlerized | 删节的 | Victorian moralists...and "bowdlerized" them |
-| lewdness | 淫秽 | Victorian moralists even inspected the great classics of English literature for lewdness |
-| sanitized | 净化的 | a sanitized version of Shakespeare |
-| gross indecency | 严重猥亵罪 | criminalized homosexual acts...as "gross indecency" |
-| prudish | 过分拘谨的 | "prudish, strict, old-fashioned, dated" |
-| ambitious reform | 雄心勃勃的改革 | an age of ambitious reform |
-| proliferation | 激增 | There was a proliferation |
-| condition of England | 英格兰状况 | "condition of England" novels |
-| plight | 困境 | focused on the plight |
-| dispossessed | 被剥夺者 | the plight of the dispossessed |
-| pilloried | 公开谴责 | pilloried harsh industrial capitalism |
-| forbearance | 忍耐 | charity, mercy, forbearance and benevolence |
-| benevolence | 善意 | charity, mercy, forbearance and benevolence |
-| turpitude | 堕落 | turpitude he had seen |
-| netherworld | 阴间 | Liverpool docks...netherworld |
-| devour | 吞噬 | "devour him, limb by limb" |
-| reform ethos | 改革精神 | This reform ethos |
-| sanitary reform | 卫生改革 | "sanitary reform" |
-| cesspools | 化粪池 | from cesspools to sewage systems |
-| sewage systems | 污水系统 | converting...from cesspools to sewage systems |
-| conflate | 混淆 | people often conflated |
-| filthiness | 污秽 | conflated "moral and physical filthiness" |
-| civilizing process | 文明化过程 | "the civilizing process" |
-| threshold of repugnance | 厌恶阈值 | "expanding threshold of repugnance" |
-| repugnance | 厌恶 | "threshold of repugnance" |
-| cult of the child | 儿童崇拜 | came to be known as the "cult of the child" |
-| child-savers | 儿童拯救者 | Reformers known as "child-savers" |
-| barbarians | 野蛮人 | regard them as barbarians |
-| prime symbol or signifier of "barbarism" | 野蛮的首要象征 | "the prime symbol or signifier of 'barbarism'" |
-| absolute nadir | 绝对低谷 | "the absolute nadir of human behavior" |
-| black or brown savages | 黑色或棕色野蛮人 | "practiced by black or brown savages" |
-| white Christians | 白人基督徒 | "but not by white Christians" |
-| exoticism | 异国情调 | accentuate the exoticism |
-| apocryphal | 伪经的、杜撰的 | often apocryphal accounts |
-| Five Years with the Congo Cannibals | 《与刚果食人族的五年》 | popular books with titles like... |
-| Taming Cannibals | 《驯服食人族》 | Taming Cannibals |
-| The Africa That Never Was | 《从未有过的非洲》 | The Africa That Never Was |
-| addicted to tales | 对...成瘾 | European writers "were far more addicted" |
-| dichotomy | 二分法 | a dichotomy contrasting |
-| civilizing | 文明化的 | "civilized" Englishmen |
-| savages | 野蛮人 | "savage" cannibals |
-| blood-drenched | 血腥的 | blood-drenched foreign incursions |
-| incursions | 入侵 | blood-drenched foreign incursions |
-| Royal Society | 皇家学会 | institutions like the Royal Society |
-| fellow-countrymen | 同胞 | congratulated his "fellow-countrymen" |
-| Euxine | 尤克辛号 | The Euxine, a Liverpool-based sailing ship |
-| spontaneously combusted | 自燃 | cargo of coal spontaneously combusted |
-| second mate | 二副 | second mate James Archer |
-| Gioffous | 吉奥福斯 | twenty-year-old Francis Gioffous |
-| dark-skinned | 深肤色的 | dark-skinned Italian |
-| maneaters | 食人者 | "bring these maneaters to justice" |
-| attorney general | 律政司 | British attorney general in Singapore |
-| Board of Trade | 商务委员会 | officials at the Board of Trade |
-| colonial authorities | 殖民当局 | British colonial authorities |
-| poised | 准备好、即将 | England might be poised to end |
+(unchanged)
 
 ## 一句话总结
 
-本章把 Dudley 等人的 legal defense 写成 "uphill battle"：prosecution case "straightforward"（所有 murder elements present + sworn statements + murder weapon）；necessity defense 在 English law 无 precedent，Holmes 案提供 "helpful" 但 "not helpful at all"（Dudley 未 draw lots，American court not binding）；Bacon/Blackstone endorsement vs Hale "dangerous doctrine" 的评论家分歧；Victorian reform（Merchant Shipping Act, child protection, "cult of the child"）与 "civilizing process"（Elias）使 cannibalism 从 "acceptable" 变为 "barbaric"；1884 是 "最糟的食人之年"（Seeley's empire discussion, cannibalism as "prime symbol of barbarism"）；Euxine 案（1874）near-prosecution 显示 Board of Trade 已开始认真考虑 prosecution——"poised to end that long tradition"。所有这些为后文审判的 "guilty" 提供 historical context。
+(unchanged)

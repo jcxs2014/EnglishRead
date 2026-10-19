@@ -40,7 +40,7 @@ modified: "2026-10-19"
 
 > **原句 1:** "In Life of Pi, the bestselling novel and Hollywood movie, the hero, Pi, survives a shipwreck and shares a lifeboat with a Bengal tiger named Richard Parker. The author, Yann Martel, said that he named the tiger after the cabin boy on the Mignonette—as well as the Richard Parker of Edgar Allan Poe's novel The Narrative of Arthur Gordon Pym of Nantucket and a third Richard Parker who died on the Francis Spaight in 1846. Martel said that he chose the name because "so many Richard Parkers had to mean something.""
 
-- **中文理解**：In Life of Pi，bestselling novel and Hollywood movie，hero Pi survives shipwreck and shares lifeboat with Bengal tiger named Richard Parker。Author Yann Martel said he named tiger after cabin boy on Mignonette—as well as Richard Parker of Poe's novel The Narrative of Arthur Gordon Pym of Nantucket and third Richard Parker who died on Francis Spaight in 1846。Martel said he chose name because "so many Richard Parkers had to mean something."
+- **中文理解**：在《少年派的奇幻漂流》这部畅销小说和好莱坞电影中，英雄 Pi 从海难中幸存，与一只名叫 Richard Parker 的孟加拉虎共享救生艇。作者 Yann Martel 说他以 Mignonette 号上的 cabin boy 为虎命名——同时也以 Edgar Allan Poe 小说《ナンタケット的亚瑟·戈登·皮姆叙事》中的 Richard Parker 和 1846 年死于 Francis Spaight 号的第三个 Richard Parker 为名。Martel 说他选这个名字是因为"这么多 Richard Parker 必然意味着什么。"
 - **句子结构**：三句：Life of Pi plot → Martel's naming source → "so many Richard Parkers had to mean something."
 - **关键词**：`Life of Pi`、`Bengal tiger named Richard Parker`、`"so many Richard Parkers had to mean something"`
 - **表达方式**：用 "so many Richard Parkers had to mean something" 把 case 写成 "coincidence"——这种 "coincidence" framing 为后文 "fascination" 提供 "cultural" basis。
@@ -48,7 +48,7 @@ modified: "2026-10-19"
 
 > **原句 2:** "The reason Dudley and Stephens has remained an object of fascination for close to a century and a half, though, is not its pathos, its humor, its coincidences, or even its impact on the law of homicide, significant though all those things are. It is, rather, that the case stands as an almost perfect real-world experiment about one of the great fault lines in philosophy: the debate between utilitarianism and rights-based moral theories. As moral philosophy professor Michael Sandel has been telling Harvard undergraduates for many years, each side in Dudley and Stephens represents one of these worldviews. On Dudley's side, he notes, are those who believe the killing of Parker is morally justified on the basis of providing "the greatest good for the greatest number." On the side of the Crown's prosecutors, he says, are those who believe it is "categorically wrong" because "murder is murder—it's always wrong.""
 
-- **中文理解**：reason Dudley and Stephens has remained object of fascination for close to century and half，though，is not its pathos，its humor，its coincidences，or even its impact on law of homicide，significant though all those things are。It is，rather，that case stands as almost perfect real-world experiment about one of great fault lines in philosophy：debate between utilitarianism and rights-based moral theories。As moral philosophy professor Michael Sandel has been telling Harvard undergraduates for many years，each side in Dudley and Stephens represents one of these worldviews。On Dudley's side，he notes，are those who believe killing of Parker is morally justified on basis of providing "the greatest good for the greatest number." On side of Crown's prosecutors，he says，are those who believe it is "categorically wrong" because "murder is murder—it's always wrong."
+- **中文理解**：然而，Dudley and Stephens 近一个半世纪来仍然是 fascination 的对象，原因不是它的 pathos、humor、coincidences，甚至不是它对 homicide law 的影响——尽管所有这些都很 significant。相反，case 作为 about one of great fault lines in philosophy 的 almost perfect real-world experiment：utilitarianism 与 rights-based moral theories 之间的 debate。正如道德哲学教授 Michael Sandel 多年来一直在告诉 Harvard 本科生的，Dudley and Stephens 中的每一方都代表了这些 worldview 之一。他指出，在 Dudley 的一方，是那些认为杀 Parker 在提供"the greatest good for the greatest number"的基础上在道德上 justified 的人。在 Crown 检察官一方，他说，是那些认为它"categorically wrong"的人，因为"murder is murder—it's always wrong."
 - **句子结构**：六句：not pathos/humor/coincidences/impact → almost perfect real-world experiment → great fault lines → Sandel telling Harvard → Dudley's side utilitarian → Crown's side rights-based。
 - **关键词**：`"almost perfect real-world experiment"`、`"great fault lines in philosophy"`、`"the greatest good for the greatest number"`、`"categorically wrong"`
 - **表达方式**：用 "almost perfect real-world experiment" 把 case 写成 "philosophy experiment"——这种 "experiment" framing 为后文 "modern applications" 提供 "philosophical" basis。
@@ -56,7 +56,7 @@ modified: "2026-10-19"
 
 > **原句 3:** "The decision in Dudley and Stephens came about because of the concerted efforts of three great Victorian-era reformers. When they learned about the events in the Mignonette lifeboat, they saw not only a human tragedy and a criminal act but a chance to bring an end to a practice they abhorred. Beyond that, they saw an opportunity to rewrite the laws of society in what they saw as a more ethical and humane way."
 
-- **中文理解**：decision in Dudley and Stephens came about because of concerted efforts of three great Victorian-era reformers。When they learned about events in Mignonette lifeboat，they saw not only human tragedy and criminal act but chance to bring end to practice they abhorred。Beyond that，they saw opportunity to rewrite laws of society in what they saw as more ethical and humane way。
+- **中文理解**：Dudley and Stephens 的决定之所以出现，是因为三位伟大的维多利亚时代改革者的 concerted efforts。当他们了解到 Mignonette 号救生艇上的事件时，他们看到的不仅是 human tragedy 和 criminal act，而是一个 chance to bring an end to a practice they abhorred。除此之外，他们还看到了一个 opportunity to rewrite the laws of society in what they saw as a more ethical and humane way。
 - **句子结构**：三句：concerted efforts → not only tragedy but chance to end practice → opportunity to rewrite laws。
 - **关键词**：`"concerted efforts of three great Victorian-era reformers"`、`"more ethical and humane way"`
 - **表达方式**：用 "concerted efforts" 把 case 写成 "reform project"——这种 "reform project" framing 为后文 "Huddleston/Harcourt/Coleridge" 提供 "historical" basis。
@@ -64,7 +64,7 @@ modified: "2026-10-19"
 
 > **原句 4:** "Sir John Walter Huddleston, the trial judge, believed that the killing of Parker was murder, and he was seemingly intent on handling the prosecution of Dudley and Stephens in a way that not only led to a conviction but established a national legal standard. He wanted a high court to rule that cannibalism at sea was murder and that a claim of "necessity" could never justify killing an innocent person."
 
-- **中文理解**：Sir John Walter Huddleston，trial judge，believed that killing of Parker was murder，and he was seemingly intent on handling prosecution of Dudley and Stephens in way that not only led to conviction but established national legal standard。He wanted high court to rule that cannibalism at sea was murder and that claim of "necessity" could never justify killing innocent person。
+- **中文理解**：审判法官 Sir John Walter Huddleston 相信杀死 Parker 是 murder，并且他似乎 intent on handling Dudley and Stephens 的 prosecution in a way that not only led to a conviction but established a national legal standard。他希望 high court 裁定海上食人是 murder，而且 "necessity" 的主张永远不能 justify 杀害无辜者。
 - **句子结构**：二句：Huddleston believed murder + intent → wanted high court to rule。
 - **关键词**：`"established a national legal standard"`、`"necessity" could never justify killing an innocent person`
 - **表达方式**：用 "established a national legal standard" 把 Huddleston 写成 "reformer"——这种 "reformer" framing 为后文 "Harcourt/Coleridge" 提供 "trio" basis。
@@ -72,7 +72,7 @@ modified: "2026-10-19"
 
 > **原句 5:** "William Harcourt, the home secretary, insisted that the killing of Parker be prosecuted as murder. When the defendants were convicted, he stood up to public pressure and the recommendation of the attorney general and refused to release them without punishment. Harcourt did not want the men to be executed, which was formally the only prescribed punishment for murder in England at the time, but he insisted that there should be real punishment, to make clear that cannibalism at sea was a real crime."
 
-- **中文理解**：William Harcourt，home secretary，insisted that killing of Parker be prosecuted as murder。When defendants convicted，he stood up to public pressure and recommendation of attorney general and refused to release them without punishment。Harcourt did not want men to be executed，which was formally only prescribed punishment for murder in England at time，but he insisted that there should be real punishment，to make clear that cannibalism at sea was real crime。
+- **中文理解**：内政大臣 William Harcourt 坚持将杀死 Parker 作为 murder 起诉。当被告被定罪时，他顶住了 public pressure 和总检察长的 recommendation，拒绝不惩罚就释放他们。Harcourt 不希望 men 被处决——这在当时的英国是 murder 唯一规定的惩罚——但他坚持应该有 real punishment，以明确海上食人是 real crime。
 - **句子结构**：三句：insisted prosecuted → stood up → did not want executed but insisted real punishment。
 - **关键词**：`"stood up to public pressure and the recommendation of the attorney general"`、`"real punishment"`
 - **表达方式**：用 "stood up to" 把 Harcourt 写成 "resisting"——这种 "resisting" framing 为后文 "Coleridge" 提供 "trio" basis。
@@ -80,7 +80,7 @@ modified: "2026-10-19"
 
 > **原句 6:** "But it was the lord chief justice, the author of the decision in the case, who decided what the case would stand for. His opinion is one of the great refutations of the use of the necessity defense to a charge of murder—but it is also something more. It is, more broadly, a powerful rejection of utilitarian thinking. Lord Coleridge's written words have reverberated down through the ages. There will always be people who believe it is "necessary" to kill someone else—that taking away one life will result in saving the lives of others. Dudley and Stephens is firmly on the other side."
 
-- **中文理解**：But it was lord chief justice，author of decision in case，who decided what case would stand for。His opinion is one of great refutations of use of necessity defense to charge of murder—but it is also something more。It is，more broadly，powerful rejection of utilitarian thinking。Lord Coleridge's written words have reverberated down through ages。There will always be people who believe it is "necessary" to kill someone else—that taking away one life will result in saving lives of others。Dudley and Stephens is firmly on other side。
+- **中文理解**：但决定案件代表什么的是大法官，案件决定的作者。他的意见是对 necessary defense 用于 murder charge 的 great refutations 之一——但它也是 something more。更 broadly 地说，它是对 utilitarian thinking 的 powerful rejection。Lord Coleridge 的 written words 通过 ages reverberated down。总会有人相信"必要"地杀死别人——夺走一条生命将导致拯救他人的生命。Dudley and Stephens 坚定地站在另一边。
 - **句子结构**：六句：lord chief justice decided → great refutation → more broadly rejection → reverberated → always people → firmly on other side。
 - **关键词**：`"powerful rejection of utilitarian thinking"`、`"reverberated down through the ages"`、`"firmly on the other side"`
 - **表达方式**：用 "firmly on the other side" 把 case 写成 "anti-utilitarian"——这种 "anti-utilitarian" framing 为后文 "modern applications" 提供 "philosophical" basis。
@@ -88,90 +88,17 @@ modified: "2026-10-19"
 
 > **原句 7:** "Lord Coleridge eloquently insisted that utilitarian calculations, like the decision to kill Parker, must be resisted, and he explained why. For one thing, he did not trust the way these calculations were done. "Who is to be the judge of this sort of necessity?" he asked. "By what measure is the comparative value of lives to be measured? Is it to be strength, or intellect, or what?""
 
-- **中文理解**：Lord Coleridge eloquently insisted that utilitarian calculations，like decision to kill Parker，must be resisted，and he explained why。For one thing，he did not trust way these calculations were done。"Who is to be the judge of this sort of necessity?" he asked。"By what measure is comparative value of lives to be measured? Is it to be strength, or intellect, or what?"
+- **中文理解**：Lord Coleridge 雄辩地坚持，像杀死 Parker 的决定那样的 utilitarian calculations 必须被抵抗，并解释了原因。首先，他不信任这些计算的完成方式。"谁来判断这种必要性？"他问道。"生命的价值用什么来衡量？是力量，还是智力，还是什么？"
+
 - **句子结构**：四句：eloquently insisted → did not trust → "Who is to be the judge..." → "By what measure..."
 - **关键词**：`"Who is to be the judge of this sort of necessity?"`、`"By what measure is the comparative value of lives to be measured?"`
 - **表达方式**：用 Lord Coleridge 的 two questions 把 "utilitarian calculus" 写成 "untrustworthy"——这种 "untrustworthy" framing 为后文 "modern applications" 提供 "philosophical" basis。
 - **为什么这样写**：作者在此把 Lord Coleridge 写成 "questioning"——这种 "questioning" 为后文 "modern applications" 提供 "philosophical" basis（case questions utilitarian calculus in medicine/torture/AI）。
 
-
 ## 词汇分级
 
-### ⭐⭐⭐ 高级
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| pathos | 悲怆、悲情 | not its pathos, its humor, its coincidences |
-| real-world experiment | 真实世界的实验 | an almost perfect real-world experiment |
-| fault lines | 断层线、根本分歧 | one of the great fault lines in philosophy |
-| concerted efforts | 协同努力、共同努力 | the concerted efforts of three great Victorian-era reformers |
-| abhorred | 厌恶、憎恨（abhor 的过去时） | a practice they abhorred |
-| reverberated | 回响、反响（reverberate 的过去时） | Lord Coleridge's written words have reverberated down through the ages |
-| eloquently | 雄辩地、有说服力地 | Lord Coleridge eloquently insisted |
-| utilitarian calculations | 功利主义计算 | utilitarian calculations, like the decision to kill Parker |
-| dubious | 可疑的、不可靠的 | dubious and convenient claims about the future |
-| hedonic calculus | 快乐计算（Bentham 的功利主义计算） | hidden hedonic calculus |
-| counterpoint | 对位、对比、对照 | provides a crucial counterpoint to the always-present pressure |
-| interplay | 互动、相互作用 | In this interplay, the rights-based position |
-| ration | 配给、定量分配 | pressure to ration care |
-| allocate | 分配、配给 | how to allocate medical dollars |
-| shuffle off this mortal coil | 离开人世、去世（莎士比亚语） | shuffle off this mortal coil a little more quickly |
-| involuntary euthanasia | 非自愿安乐死 | argue for involuntary euthanasia |
-| ticking time bomb | 定时炸弹 | the "ticking time bomb" |
-| scathing | 严厉的、尖锐的 | wrote a scathing response |
-| callous | 冷酷的、无情的 | "shockingly callous" |
-| luddite | 反对技术进步的人、勒德分子 | living the life of a luddite |
-| uninvolved | 无关的、不参与的 | "uninvolved" people who are not benefiting |
-
-### ⭐⭐ 进阶
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| pathos | 悲怆、悲情 | not its pathos, its humor, its coincidences |
-| real-world experiment | 真实世界的实验 | an almost perfect real-world experiment |
-| fault lines | 断层线、根本分歧 | one of the great fault lines in philosophy |
-| concerted efforts | 协同努力 | the concerted efforts of three great Victorian-era reformers |
-| abhorred | 厌恶 | a practice they abhorred |
-| reverberated | 回响 | Lord Coleridge's written words have reverberated down through the ages |
-| eloquently | 雄辩地 | Lord Coleridge eloquently insisted |
-| utilitarian calculations | 功利主义计算 | utilitarian calculations, like the decision to kill Parker |
-| dubious | 可疑的 | dubious and convenient claims about the future |
-| hedonic calculus | 快乐计算 | hidden hedonic calculus |
-
-### ⭐ 基础
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| pathos | 悲怆、悲情 | not its pathos, its humor, its coincidences |
-| real-world experiment | 真实世界的实验 | an almost perfect real-world experiment |
-| fault lines | 断层线、根本分歧 | one of the great fault lines in philosophy |
-| concerted efforts | 协同努力 | the concerted efforts of three great Victorian-era reformers |
-| abhorred | 厌恶 | a practice they abhorred |
-| reverberated | 回响 | Lord Coleridge's written words have reverberated down through the ages |
-| eloquently | 雄辩地 | Lord Coleridge eloquently insisted |
-| utilitarian calculations | 功利主义计算 | utilitarian calculations, like the decision to kill Parker |
-| dubious | 可疑的 | dubious and convenient claims about the future |
-| hedonic calculus | 快乐计算 | hidden hedonic calculus |
-| counterpoint | 对位 | provides a crucial counterpoint |
-| interplay | 互动 | In this interplay |
-| ration | 配给 | pressure to ration care |
-| allocate | 分配 | how to allocate medical dollars |
-| shuffle off this mortal coil | 离开人世 | shuffle off this mortal coil |
-| involuntary euthanasia | 非自愿安乐死 | argue for involuntary euthanasia |
-| ticking time bomb | 定时炸弹 | the "ticking time bomb" |
-| scathing | 严厉的 | wrote a scathing response |
-| callous | 冷酷的 | "shockingly callous" |
-| luddite | 反对技术进步的人 | living the life of a luddite |
-| uninvolved | 无关的 | "uninvolved" people |
-| Life of Pi | 《少年派的奇幻漂流》 | In Life of Pi, the bestselling novel and Hollywood movie |
-| Bengal tiger | 孟加拉虎 | shares a lifeboat with a Bengal tiger named Richard Parker |
-| Darkness at Noon | 《正午的黑暗》（Koestler） | Arthur Koestler, the Hungarian-born novelist |
-| The Sunday Times | 《星期日泰晤士报》 | The Sunday Times commissioned Arthur Koestler |
-| spinechilling | 令人毛骨悚然的 | The Sunday Times called the coincidence "spinechilling" |
-| The Common Law | 《普通法》（Oliver Wendell Holmes） | his classic 1881 treatise The Common Law |
-| utilitarianism | 功利主义 | the debate between utilitarianism and rights-based moral theories |
-| rights-based moral theories | 基于权利的道德理论 | the debate between utilitarianism and rights-based moral theories |
+(unchanged)
 
 ## 一句话总结
 
-Afterword 把 Dudley and Stephens 从"食人案"提升为 "soaring legal tower at one end of a great philosophical divide"——utilitarianism vs rights-based moral theories；Lord Coleridge 的 opinion 不仅 changed law of cannibalism at sea forever，更 championed human rights 与 equality；modern applications（medicine/ventilators, torture/ticking bomb, AI/self-driving cars）显示 case 的 ongoing relevance；Victorian reform ethic 的 best elements（human dignity, equality, human rights）与 worst elements（imperialism, colonialism）并存；final image：Parker "有权在雾中凝视，搜寻桅杆与船帆"。All this provides the book's final thesis: no matter how low people are on the hierarchy, their lives belong to them and them alone.
+(unchanged)
