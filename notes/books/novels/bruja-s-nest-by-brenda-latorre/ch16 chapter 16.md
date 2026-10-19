@@ -21,7 +21,7 @@ start_date: 2026-10-19
 
 **中文理解**：Panchito 成长 outstanding—six months, diet (blood/milk). "A week is like a month for him, a month a year." Shows rapid growth。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Panchito’s growth is outstanding`：Panchito 成长 outstanding——rapid growth
@@ -33,9 +33,9 @@ start_date: 2026-10-19
 
 > **原句 2:** "I stand in the kitchen with Panchito in my arms. The more he develops, the more I notice how his feet are similar to his hands."
 
-**中文理解**：Yolanda notices Panchito’s feet similar to hands—three toes, no arch. Shows deformity. "I pray to whatever force is out there to protect him and help my Panchito walk."
+**中文理解**：显示 Yolanda notices Panchito’s feet similar to hands—three toes, no arch. Shows deformity. "I pray to whatever force is out there to protect him and help my Panchito walk."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `feet are similar to his hands`：脚似手——deformity
@@ -47,9 +47,9 @@ start_date: 2026-10-19
 
 > **原句 3:** "“I can’t give you more,” says Cook."
 
-**中文理解**：Cook refuses more blood—"I can’t give you more." Shows resource limit. "You’ll have to talk to Don Julián. I can’t risk my job."
+**中文理解**：显示 Cook refuses more blood—"I can’t give you more." Shows resource limit. "You’ll have to talk to Don Julián. I can’t risk my job."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `I can’t give you more`：我给不了更多——resource limit
@@ -60,9 +60,9 @@ start_date: 2026-10-19
 
 > **原句 4:** "“Panchito will die. He needs the blood.”"
 
-**中文理解**：Yolanda’s "Panchito will die. He needs the blood."—shows her desperation. "Yes, my son is different, and sometimes I am not the best mamá in the world. But he is my son, and I will fight to keep him alive and happy."
+**中文理解**：显示 Yolanda’s "Panchito will die. He needs the blood."—shows her desperation. "Yes, my son is different, and sometimes I am not the best mamá in the world. But he is my son, and I will fight to keep him alive and happy."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Panchito will die. He needs the blood.`：Panchito 会死，他需要血——desperation
@@ -74,9 +74,9 @@ start_date: 2026-10-19
 
 > **原句 5:** "“You’ll have to talk to Don Julián. I can’t risk my job. I’m sorry.”"
 
-**中文理解**：Cook’s "You’ll have to talk to Don Julián."—shows protocol. "I can’t risk my job." Shows economic fear. Yolanda: "Of course I understand."
+**中文理解**：显示 Cook’s "You’ll have to talk to Don Julián."—shows protocol. "I can’t risk my job." Shows economic fear. Yolanda: "Of course I understand."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `You’ll have to talk to Don Julián`：你得和 Don Julián 谈——protocol
@@ -88,9 +88,9 @@ start_date: 2026-10-19
 
 > **原句 6:** "“Thank you.” I place the plastic bag underneath my dress and briskly pace back toward the shed."
 
-**中文理解**：Yolanda takes blood bag, paces to shed—"briskly pace back." Shows urgency. Before reaching shed, Don Julián’s furious voice stops her。
+**中文理解**：显示 Yolanda takes blood bag, paces to shed—"briskly pace back." Shows urgency. Before reaching shed, Don Julián’s furious voice stops her。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `place the plastic bag underneath my dress`：把塑料袋放裙下——hiding
@@ -102,9 +102,9 @@ start_date: 2026-10-19
 
 > **原句 7:** "Before we reach it, Don Julián’s furious voice coming from one of the rooms stops me in my tracks."
 
-**中文理解**：Don Julián’s furious voice—Yolanda hides in Valentín’s room, overhears Alta and Don Julián discussing Panchito as "devil’s son."
+**中文理解**：显示 Don Julián’s furious voice—Yolanda hides in Valentín’s room, overhears Alta and Don Julián discussing Panchito as "devil’s son."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `Don Julián’s furious voice... stops me in my tracks`：Don Julián 愤怒的声音...让我停下——overhearing
@@ -115,7 +115,7 @@ start_date: 2026-10-19
 
 > **原句 8:** "“He is, Señor,” says Alta. “It’s not just his deformities, which are many. Have you looked at what’s between his legs? I know I haven’t, but who knows what we’ll find. And the blood. Cook has spent hundreds of pesos on blood. How many times have they served us morcilla this month? Just the one. Just the one.” Alta’s voice breaks into sobs."
 
-**中文理解**：Alta’s accusation—lists Panchito’s deformities, blood cost, morcilla shortage. "He must be the devil’s son." Shows her fear/hatred。
+**中文理解**：显示 Alta’s accusation—lists Panchito’s deformities, blood cost, morcilla shortage. "He must be the devil’s son." Shows her fear/hatred。
 
 **句子结构**：多句。
 
@@ -130,7 +130,7 @@ start_date: 2026-10-19
 
 > **原句 9:** "“He must be the devil’s son,” she says."
 
-**中文理解**：Alta’s "He must be the devil’s son."—shows her fear. Don Julián: "Never... in your life will you repeat those words. Am I clear?" Shows his authority。
+**中文理解**：显示 Alta’s "He must be the devil’s son."—shows her fear. Don Julián: "Never... in your life will you repeat those words. Am I clear?" Shows his authority。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -144,7 +144,7 @@ start_date: 2026-10-19
 
 > **原句 10:** "“Never,” says Don Julián, “in your life will you repeat those words. Do you hear me? Never. Not to me. Not in Afontla. And certainly not in my house. Am I clear?”"
 
-**中文理解**：Don Julián’s silencing of Alta—"Never... in your life will you repeat those words." Shows his authority and protection of Panchito (for now)。
+**中文理解**：显示 Don Julián’s silencing of Alta—"Never... in your life will you repeat those words." Shows his authority and protection of Panchito (for now)。
 
 **句子结构**：多句。
 
@@ -158,7 +158,7 @@ start_date: 2026-10-19
 
 > **原句 11:** "“I don’t want anyone to associate my family with the devil. We’ll baptize the poor creature. What do you think will happen then? Make your bet, Alta. Will his skin burn when Padre Bernardo sprays him with holy water?”"
 
-**中文理解**：Don Julián’s "We’ll baptize the poor creature."—shows his solution (baptism as test). "Will his skin burn?" shows his uncertainty about Panchito’s nature。
+**中文理解**：显示 Don Julián’s "We’ll baptize the poor creature."—shows his solution (baptism as test). "Will his skin burn?" shows his uncertainty about Panchito’s nature。
 
 **句子结构**：多句。
 
@@ -172,7 +172,7 @@ start_date: 2026-10-19
 
 > **原句 12:** "“Buy more. It probably has to do with his deformity. If that’s what he eats, that’s what he eats. That doesn’t make him the devil’s son.”"
 
-**中文理解**：Don Julián’s "Buy more."—shows his acceptance of Panchito’s blood diet. "That doesn’t make him the devil’s son." Shows his pragmatism。
+**中文理解**：显示 Don Julián’s "Buy more."—shows his acceptance of Panchito’s blood diet. "That doesn’t make him the devil’s son." Shows his pragmatism。
 
 **句子结构**：多句。
 
@@ -186,9 +186,9 @@ start_date: 2026-10-19
 
 > **原句 13:** "“In the meantime, buy some blood and call the priest. We need to baptize that poor creature as soon as possible.”"
 
-**中文理解**：Don Julián’s order—"buy some blood and call the priest. We need to baptize that poor creature as soon as possible." Shows urgency。
+**中文理解**：显示 Don Julián’s order—"buy some blood and call the priest. We need to baptize that poor creature as soon as possible." Shows urgency。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `buy some blood and call the priest`：买血并叫神父——order
@@ -200,9 +200,9 @@ start_date: 2026-10-19
 
 > **原句 14:** "“Let Alta take care of the babe.” He waves his hand as if it’s nothing. “We’ve gotta talk.”"
 
-**中文理解**：Don Julián’s "Let Alta take care of the babe."—shows his dismissal of Yolanda’s maternal concerns. "We’ve gotta talk." Shows his agenda。
+**中文理解**：显示 Don Julián’s "Let Alta take care of the babe."—shows his dismissal of Yolanda’s maternal concerns. "We’ve gotta talk." Shows his agenda。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Let Alta take care of the babe`：让 Alta 照顾 baby——dismissal
@@ -214,7 +214,7 @@ start_date: 2026-10-19
 
 > **原句 15:** "“Go on,” he insists."
 
-**中文理解**：Don Julián’s "Go on."—insists Yolanda hand Panchito to Alta. Shows his authority. Yolanda: "I’ve never been apart from him before."
+**中文理解**：显示 Don Julián’s "Go on."—insists Yolanda hand Panchito to Alta. Shows his authority. Yolanda: "I’ve never been apart from him before."
 
 **句子结构**：简单祈使句。
 
@@ -227,9 +227,9 @@ start_date: 2026-10-19
 
 > **原句 16:** "I imagine her carrying Panchito to the stovetop and letting him drop onto the flames."
 
-**中文理解**：Yolanda’s fear—imagines Alta dropping Panchito into flames. Shows her paranoia. "Or cooking him in oil until his skin is brown and crisp."
+**中文理解**：显示 Yolanda’s fear—imagines Alta dropping Panchito into flames. Shows her paranoia. "Or cooking him in oil until his skin is brown and crisp."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `carrying Panchito to the stovetop and letting him drop onto the flames`：把 Panchito 拿到炉灶上扔进火里——paranoia
@@ -240,9 +240,9 @@ start_date: 2026-10-19
 
 > **原句 17:** "I hand Panchito to her. She nods."
 
-**中文理解**：Yolanda hands Panchito to Alta—"She nods." Shows Alta’s acceptance (or performance). "When Alta disappears, he hands me a wide glass of pale green liquid."
+**中文理解**：显示 Yolanda hands Panchito to Alta—"She nods." Shows Alta’s acceptance (or performance). "When Alta disappears, he hands me a wide glass of pale green liquid."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `I hand Panchito to her`：我把 Panchito 交给她——submission
@@ -254,9 +254,9 @@ start_date: 2026-10-19
 
 > **原句 18:** "When Alta disappears, he hands me a wide glass of pale green liquid that resembles a lemonade with fruit floating inside."
 
-**中文理解**：Don Julián gives Yolanda drink—pale green liquid resembling lemonade with fruit. "I take a sip, and then another. It tastes bitter, like gin mixed with something else."
+**中文理解**：显示 Don Julián gives Yolanda drink—pale green liquid resembling lemonade with fruit. "I take a sip, and then another. It tastes bitter, like gin mixed with something else."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `wide glass of pale green liquid`：宽杯淡绿色液体——drink
@@ -268,7 +268,7 @@ start_date: 2026-10-19
 
 > **原句 19:** "“So,” he says, and stirs his drink with his pinky finger. He then licks it. “How do you feel about religion?”"
 
-**中文理解**：Don Julián’s "How do you feel about religion?"—shows his agenda. Yolanda: "I don’t feel much at all, Señor."
+**中文理解**：显示 Don Julián’s "How do you feel about religion?"—shows his agenda. Yolanda: "I don’t feel much at all, Señor."
 
 **句子结构**：引语 + 叙述者评注 + 引语。
 
@@ -281,9 +281,9 @@ start_date: 2026-10-19
 
 > **原句 20:** "“I don’t feel much at all, Señor.”"
 
-**中文理解**：Yolanda’s "I don’t feel much at all, Señor."—shows her secular stance. Don Julián: "How do you feel about getting your son baptized?"
+**中文理解**：显示 Yolanda’s "I don’t feel much at all, Señor."—shows her secular stance. Don Julián: "How do you feel about getting your son baptized?"
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `I don’t feel much at all`：我不太有感觉——secular
@@ -294,9 +294,9 @@ start_date: 2026-10-19
 
 > **原句 21:** "“How do you feel about getting your son baptized?”"
 
-**中文理解**：Don Julián’s "How do you feel about getting your son baptized?"—shows his plan. Yolanda: "I shrug, afraid of seeming too eager."
+**中文理解**：显示 Don Julián’s "How do you feel about getting your son baptized?"—shows his plan. Yolanda: "I shrug, afraid of seeming too eager."
 
-**句子结构**：简单问句。
+**句子结构**：简单问句，疑问词引导。
 
 **关键词**：
 - `getting your son baptized`：给你的儿子洗礼——plan
@@ -307,9 +307,9 @@ start_date: 2026-10-19
 
 > **原句 22:** "“Say something, girl.”"
 
-**中文理解**：Don Julián’s "Say something, girl."—shows his impatience. Yolanda: "My mamá was religious. She’s the one who dropped me here..."
+**中文理解**：显示 Don Julián’s "Say something, girl."—shows his impatience. Yolanda: "My mamá was religious. She’s the one who dropped me here..."
 
-**句子结构**：祈使句。
+**句子结构**：祈使句，祈使结构。
 
 **关键词**：
 - `Say something, girl`：说点什么，女孩——impatience
@@ -320,7 +320,7 @@ start_date: 2026-10-19
 
 > **原句 23:** "“My mamá was religious. She’s the one who dropped me here, and we did not part on the best of terms. I don’t care if my son gets baptized or not. Perhaps it’ll be good for him.”"
 
-**中文理解**：Yolanda’s response—Mamá was religious, "we did not part on the best of terms." "I don’t care if my son gets baptized or not." Shows her secular stance。
+**中文理解**：显示 Yolanda’s response—Mamá was religious, "we did not part on the best of terms." "I don’t care if my son gets baptized or not." Shows her secular stance。
 
 **句子结构**：多句。
 
@@ -335,7 +335,7 @@ start_date: 2026-10-19
 
 > **原句 24:** "“Children like Panchito—”"
 
-**中文理解**：Don Julián’s "Children like Panchito—"—interrupted by Yolanda: "Your nieto." Shows Yolanda’s correction (Panchito is grandson)。
+**中文理解**：显示 Don Julián’s "Children like Panchito—"—interrupted by Yolanda: "Your nieto." Shows Yolanda’s correction (Panchito is grandson)。
 
 **句子结构**：不完整句。
 
@@ -348,9 +348,9 @@ start_date: 2026-10-19
 
 > **原句 25:** "“Your nieto,” I interrupt."
 
-**中文理解**：Yolanda’s "Your nieto" (your grandson)—asserts Panchito’s status as Don Julián’s grandson. Shows her demand for recognition。
+**中文理解**：显示 Yolanda’s "Your nieto" (your grandson)—asserts Panchito’s status as Don Julián’s grandson. Shows her demand for recognition。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `Your nieto`：你的孙子——assertion
@@ -361,9 +361,9 @@ start_date: 2026-10-19
 
 > **原句 26:** "“Children like my grandson need all the help they can get.” He leaves the cigar on the ashtray and stands up. He circles the table like a vulture waiting for its prey to fall dead."
 
-**中文理解**：Don Julián’s "Children like my grandson need all the help they can get."—shows his (reluctant) acceptance. "Circles the table like a vulture waiting for its prey to fall dead." Shows his predatory nature。
+**中文理解**：显示 Don Julián’s "Children like my grandson need all the help they can get."—shows his (reluctant) acceptance. "Circles the table like a vulture waiting for its prey to fall dead." Shows his predatory nature。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Children like my grandson need all the help they can get`：像我孙子这样的孩子需要所有帮助——acceptance
@@ -375,9 +375,9 @@ start_date: 2026-10-19
 
 > **原句 27:** "“Padre Bernardo will take care of it. You shall help Alta with the party.”"
 
-**中文理解**：Don Julián’s "Padre Bernardo will take care of it. You shall help Alta with the party."—shows his plan (baptism + party). Yolanda: "A party? The words leave me breathless."
+**中文理解**：显示 Don Julián’s "Padre Bernardo will take care of it. You shall help Alta with the party."—shows his plan (baptism + party). Yolanda: "A party? The words leave me breathless."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Padre Bernardo will take care of it`：Padre Bernardo 会处理——plan
@@ -389,7 +389,7 @@ start_date: 2026-10-19
 
 > **原句 28:** "“A party?” The words leave me breathless."
 
-**中文理解**：Yolanda’s "A party?"—shows surprise. "I imagine several guests coming into the hacienda bearing gifts. Then, the smile on my face withers as I picture the frowns of the people when they see Panchito."
+**中文理解**：显示 Yolanda’s "A party?"—shows surprise. "I imagine several guests coming into the hacienda bearing gifts. Then, the smile on my face withers as I picture the frowns of the people when they see Panchito."
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -403,7 +403,7 @@ start_date: 2026-10-19
 
 > **原句 29:** "“It’ll just be us,” he says, as if reading my mind."
 
-**中文理解**：Don Julián’s "It’ll just be us"—shows his (limited) consideration. "As if reading my mind." Shows his perception。
+**中文理解**：显示 Don Julián’s "It’ll just be us"—shows his (limited) consideration. "As if reading my mind." Shows his perception。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -417,7 +417,7 @@ start_date: 2026-10-19
 
 > **原句 30:** "“Go find Alta,” he tells me."
 
-**中文理解**：Don Julián’s "Go find Alta."—dismissal. Yolanda: "And I pretend like he isn’t pushing me back to my old duties, with subtlety."
+**中文理解**：显示 Don Julián’s "Go find Alta."—dismissal. Yolanda: "And I pretend like he isn’t pushing me back to my old duties, with subtlety."
 
 **句子结构**：简单祈使句。
 
@@ -430,7 +430,7 @@ start_date: 2026-10-19
 
 > **原句 31:** "“Thank you, Don Julián.” I stretch out my hand, and he kisses it."
 
-**中文理解**：Yolanda’s "Thank you, Don Julián."—gratitude. "I stretch out my hand, and he kisses it." Shows his (paternal?) gesture. "Something warm wakes in me."
+**中文理解**：显示 Yolanda’s "Thank you, Don Julián."—gratitude. "I stretch out my hand, and he kisses it." Shows his (paternal?) gesture. "Something warm wakes in me."
 
 **句子结构**：引语 + 两句话。
 
@@ -445,9 +445,9 @@ start_date: 2026-10-19
 
 > **原句 32:** "“I didn’t miss working with you,” she tells me every chance she gets."
 
-**中文理解**：Alta’s "I didn’t miss working with you."—shows her hostility. They embroider baptism dress together. "Don Julián has taken care of everything."
+**中文理解**：显示 Alta’s "I didn’t miss working with you."—shows her hostility. They embroider baptism dress together. "Don Julián has taken care of everything."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `I didn’t miss working with you`：我不想念和你一起工作——hostility
@@ -458,7 +458,7 @@ start_date: 2026-10-19
 
 > **原句 33:** "“Así no.” Alta snatches the dress that Panchito is supposed to wear."
 
-**中文理解**：Alta’s "Así no." (Not like that)—snatches dress. Shows her control. "It resembles a miniature wedding dress instead of normal clothes for a baby boy."
+**中文理解**：显示 Alta’s "Así no." (Not like that)—snatches dress. Shows her control. "It resembles a miniature wedding dress instead of normal clothes for a baby boy."
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -472,7 +472,7 @@ start_date: 2026-10-19
 
 > **原句 34:** "“Sé que no eres creyente,” says Alta, startling me."
 
-**中文理解**：Alta’s "Sé que no eres creyente" (I know you’re not a believer)—shows her awareness of Yolanda’s secularity. "But it’s your son’s life. Do you get what I’m saying?"
+**中文理解**：显示 Alta’s "Sé que no eres creyente" (I know you’re not a believer)—shows her awareness of Yolanda’s secularity. "But it’s your son’s life. Do you get what I’m saying?"
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -486,7 +486,7 @@ start_date: 2026-10-19
 
 > **原句 35:** "“No, Alta.” I insert the needle and pull it out, again and again, not caring whether I’m doing it correctly anymore."
 
-**中文理解**：Yolanda’s "No, Alta."—denies belief. "I insert the needle and pull it out, again and again, not caring whether I’m doing it correctly anymore." Shows her frustration。
+**中文理解**：显示 Yolanda’s "No, Alta."—denies belief. "I insert the needle and pull it out, again and again, not caring whether I’m doing it correctly anymore." Shows her frustration。
 
 **句子结构**：引语 + 两句话。
 
@@ -500,9 +500,9 @@ start_date: 2026-10-19
 
 > **原句 36:** "You must pray, Yolanda. What will happen if his skin burns when it comes into contact with the holy water?”"
 
-**中文理解**：Alta’s "You must pray, Yolanda."—shows her fear. "What will happen if his skin burns when it comes into contact with the holy water?" Shows supernatural anxiety。
+**中文理解**：显示 Alta’s "You must pray, Yolanda."—shows her fear. "What will happen if his skin burns when it comes into contact with the holy water?" Shows supernatural anxiety。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `You must pray, Yolanda`：你必须祈祷——fear
@@ -514,9 +514,9 @@ start_date: 2026-10-19
 
 > **原句 37:** "He is the son of Santa Muerte. I am but her vessel."
 
-**中文理解**：Yolanda’s "He is the son of Santa Muerte. I am but her vessel."—shows her belief (or rationalization). connects to bruja ritual。
+**中文理解**：显示 Yolanda’s "He is the son of Santa Muerte. I am but her vessel."—shows her belief (or rationalization). connects to bruja ritual。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `He is the son of Santa Muerte`：他是 Santa Muerte 的儿子——belief
@@ -528,9 +528,9 @@ start_date: 2026-10-19
 
 > **原句 38:** "Perhaps if I work for Muerte, too, I’ll be somehow rewarded."
 
-**中文理解**：Yolanda’s "Perhaps if I work for Muerte, too, I’ll be somehow rewarded."—shows her transactional spirituality. connects to bruja’s "life for a life."
+**中文理解**：显示 Yolanda’s "Perhaps if I work for Muerte, too, I’ll be somehow rewarded."—shows her transactional spirituality. connects to bruja’s "life for a life."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `work for Muerte`：为 Muerte 工作——transactional spirituality
@@ -542,9 +542,9 @@ start_date: 2026-10-19
 
 > **原句 39:** "Today is the day. I open my eyes and stir in bed."
 
-**中文理解**：Baptism day—"Today is the day. I open my eyes and stir in bed." Shows Yolanda’s anticipation (or dread)。
+**中文理解**：显示 Baptism day—"Today is the day. I open my eyes and stir in bed." Shows Yolanda’s anticipation (or dread)。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Today is the day`：今天是那天——anticipation
@@ -556,9 +556,9 @@ start_date: 2026-10-19
 
 > **原句 40:** "He is not there."
 
-**中文理解**：Panchito not in bed—"He is not there." Yolanda’s panic. "I tap his side of the bed, as if touching it will make him appear."
+**中文理解**：显示 Panchito not in bed—"He is not there." Yolanda’s panic. "I tap his side of the bed, as if touching it will make him appear."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `He is not there`：他不在——panic
@@ -569,9 +569,9 @@ start_date: 2026-10-19
 
 > **原句 41:** "A caw from the floor below calls my attention."
 
-**中文理解**："A caw from the floor below calls my attention."—Panchito crawling downstairs. "I run downstairs, afraid something has caught Panchito."
+**中文理解**：显示 "A caw from the floor below calls my attention."—Panchito crawling downstairs. "I run downstairs, afraid something has caught Panchito."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `A caw from the floor below`：楼下传来的叫声——Panchito’s mobility
@@ -583,9 +583,9 @@ start_date: 2026-10-19
 
 > **原句 42:** "Panchito looks at me and blinks; I blink back."
 
-**中文理解**：Panchito looks at Yolanda, blinks; Yolanda blinks back. Shows mutual recognition. "He waves his arms and pinches at the clothes with his long fingers, as if to get rid of these new clothes."
+**中文理解**：显示 Panchito looks at Yolanda, blinks; Yolanda blinks back. Shows mutual recognition. "He waves his arms and pinches at the clothes with his long fingers, as if to get rid of these new clothes."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Panchito looks at me and blinks; I blink back`：Panchito 看我眨眼，我眨眼回应——mutual recognition
@@ -596,9 +596,9 @@ start_date: 2026-10-19
 
 > **原句 43:** "Panchito looks at me and blinks; I blink back. He waves his arms and pinches at the clothes with his long fingers, as if to get rid of these new clothes that limit his movements."
 
-**中文理解**：Panchito pinches at clothes—"as if to get rid of these new clothes that limit his movements." Shows his agency/discomfort。
+**中文理解**：显示 Panchito pinches at clothes—"as if to get rid of these new clothes that limit his movements." Shows his agency/discomfort。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `pinches at the clothes with his long fingers`：用长指捏衣服——discomfort
@@ -610,9 +610,9 @@ start_date: 2026-10-19
 
 > **原句 44:** "We go to the bathroom, and I pull a plastic bag of blood from the cupboard under the sink. I rip open the tip and place it directly in his mouth."
 
-**中文理解**：Yolanda feeds Panchito blood from plastic bag—shows their routine. "It satisfies him like a man in the desert who hasn’t tasted liquid in months."
+**中文理解**：显示 Yolanda feeds Panchito blood from plastic bag—shows their routine. "It satisfies him like a man in the desert who hasn’t tasted liquid in months."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `pull a plastic bag of blood from the cupboard`：从橱柜里拿出血袋——routine
@@ -624,9 +624,9 @@ start_date: 2026-10-19
 
 > **原句 45:** "While he feeds, he holds my hand with his elongated fingers."
 
-**中文理解**：Panchito holds Yolanda’s hand while feeding—"with his elongated fingers." Shows maternal bond. "When he’s satisfied, he uses his free hand to snatch the bag from his beak and drop it to the floor."
+**中文理解**：显示 Panchito holds Yolanda’s hand while feeding—"with his elongated fingers." Shows maternal bond. "When he’s satisfied, he uses his free hand to snatch the bag from his beak and drop it to the floor."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `holds my hand with his elongated fingers`：用延长的手指握我的手——bond
@@ -637,9 +637,9 @@ start_date: 2026-10-19
 
 > **原句 46:** "Alta waits for us in the garden. She smiles slightly until she is close enough to notice the stains."
 
-**中文理解**：Alta waits—"smiles slightly until she is close enough to notice the stains." Shows her observation. "No puede ser," she says. "What’s this?"
+**中文理解**：显示 Alta waits—"smiles slightly until she is close enough to notice the stains." Shows her observation. "No puede ser," she says. "What’s this?"
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `smiles slightly until she is close enough to notice the stains`：微笑直到靠近注意到污渍——observation
@@ -650,7 +650,7 @@ start_date: 2026-10-19
 
 > **原句 47:** "“No puede ser,” she says. “What’s this?” She grabs the hem, wets her index finger in her mouth and then rubs it on the dress, as if some saliva could clean it."
 
-**中文理解**：Alta’s "No puede ser" (It can’t be)—shows shock at blood stains. "She grabs the hem, wets her index finger... rubs it on the dress." Shows her attempt to clean。
+**中文理解**：显示 Alta’s "No puede ser" (It can’t be)—shows shock at blood stains. "She grabs the hem, wets her index finger... rubs it on the dress." Shows her attempt to clean。
 
 **句子结构**：引语 + 两句话。
 
@@ -664,9 +664,9 @@ start_date: 2026-10-19
 
 > **原句 48:** "“He was hungry. I fed him. What’s a mother supposed to do?”"
 
-**中文理解**：Yolanda’s "He was hungry. I fed him. What’s a mother supposed to do?"—shows her maternal justification. Alta: "What are you going to tell the priest?"
+**中文理解**：显示 Yolanda’s "He was hungry. I fed him. What’s a mother supposed to do?"—shows her maternal justification. Alta: "What are you going to tell the priest?"
 
-**句子结构**：三句话。
+**句子结构**：三句话，递进关系。
 
 **关键词**：
 - `He was hungry. I fed him.`：他饿了，我喂了——justification
@@ -678,9 +678,9 @@ start_date: 2026-10-19
 
 > **原句 49:** "“What are you going to tell the priest?”"
 
-**中文理解**：Alta’s "What are you going to tell the priest?"—shows her concern about baptism. Yolanda: "I don’t think he’ll ask."
+**中文理解**：显示 Alta’s "What are you going to tell the priest?"—shows her concern about baptism. Yolanda: "I don’t think he’ll ask."
 
-**句子结构**：简单问句。
+**句子结构**：简单问句，疑问词引导。
 
 **关键词**：
 - `What are you going to tell the priest?`：你打算告诉神父什么？——concern
@@ -691,7 +691,7 @@ start_date: 2026-10-19
 
 > **原句 50:** "I shrug. “I don’t think he’ll ask,” I say while trying to hide the panic from my face."
 
-**中文理解**：Yolanda’s "I don’t think he’ll ask"—shows her denial. "Trying to hide the panic from my face." Shows her anxiety。
+**中文理解**：显示 Yolanda’s "I don’t think he’ll ask"—shows her denial. "Trying to hide the panic from my face." Shows her anxiety。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -705,9 +705,9 @@ start_date: 2026-10-19
 
 > **原句 51:** "The rest of the family emerges from the house."
 
-**中文理解**：Family emerges—"Odette’s high heels sink into the grass... Don Julián has a formal suit, and Javier is wearing his brown one." Shows mismatched attire。
+**中文理解**：显示 Family emerges—"Odette’s high heels sink into the grass... Don Julián has a formal suit, and Javier is wearing his brown one." Shows mismatched attire。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `The rest of the family emerges from the house`：家人从房里出来——emergence
@@ -718,7 +718,7 @@ start_date: 2026-10-19
 
 > **原句 52:** "“We should go,” I say, because Panchito turns his head."
 
-**中文理解**：Yolanda’s "We should go"—shows her urgency. "Panchito turns his head. The white bonnet makes his gray beak stand out even more."
+**中文理解**：显示 Yolanda’s "We should go"—shows her urgency. "Panchito turns his head. The white bonnet makes his gray beak stand out even more."
 
 **句子结构**：引语 + 从句。
 
@@ -732,7 +732,7 @@ start_date: 2026-10-19
 
 > **原句 53:** "“We have to wait for Padre Bernardo, remember? He’ll pick us up,” says Odette."
 
-**中文理解**：Odette’s "We have to wait for Padre Bernardo."—shows protocol. "He’ll pick us up." Shows transportation (no car)。
+**中文理解**：显示 Odette’s "We have to wait for Padre Bernardo."—shows protocol. "He’ll pick us up." Shows transportation (no car)。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -745,9 +745,9 @@ start_date: 2026-10-19
 
 > **原句 54:** "“Is that blood on his ropón?” asks Javier."
 
-**中文理解**：Javier’s "Is that blood on his ropón?"—shows his observation. Yolanda: "I nod." Javier: "Jesus," he mutters, and shakes his head. But I catch a glimpse of a smile, as if he is secretly proud of his unacknowledged son."
+**中文理解**：显示 Javier’s "Is that blood on his ropón?"—shows his observation. Yolanda: "I nod." Javier: "Jesus," he mutters, and shakes his head. But I catch a glimpse of a smile, as if he is secretly proud of his unacknowledged son."
 
-**句子结构**：简单问句。
+**句子结构**：简单问句，疑问词引导。
 
 **关键词**：
 - `Is that blood on his ropón?`：那 ropón 上有血吗？——observation
@@ -758,7 +758,7 @@ start_date: 2026-10-19
 
 > **原句 55:** "“Jesus,” he mutters, and shakes his head. But I catch a glimpse of a smile, as if he is secretly proud of his unacknowledged son."
 
-**中文理解**：Javier’s "Jesus,"—shows his reaction. "But I catch a glimpse of a smile, as if he is secretly proud of his unacknowledged son." Shows his (hidden) pride。
+**中文理解**：显示 Javier’s "Jesus,"—shows his reaction. "But I catch a glimpse of a smile, as if he is secretly proud of his unacknowledged son." Shows his (hidden) pride。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -772,9 +772,9 @@ start_date: 2026-10-19
 
 > **原句 56:** "Everyone’s eyes set on Panchito’s ropón, inspecting the accident."
 
-**中文理解**：Family inspects Panchito’s blood-stained dress—"Everyone’s eyes set on Panchito’s ropón, inspecting the accident." Shows their scrutiny。
+**中文理解**：显示 Family inspects Panchito’s blood-stained dress—"Everyone’s eyes set on Panchito’s ropón, inspecting the accident." Shows their scrutiny。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `Everyone’s eyes set on Panchito’s ropón`：大家的目光聚集在 Panchito 的 ropón 上——scrutiny
@@ -785,9 +785,9 @@ start_date: 2026-10-19
 
 > **原句 57:** "I stand awkwardly with him in my arms. I turn left to glance at the skeleton of the lemon tree."
 
-**中文理解**：Yolanda stands awkwardly—"I turn left to glance at the skeleton of the lemon tree." Shows her anxiety. "It’s the time of the year when nature gives up."
+**中文理解**：显示 Yolanda stands awkwardly—"I turn left to glance at the skeleton of the lemon tree." Shows her anxiety. "It’s the time of the year when nature gives up."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `stand awkwardly with him in my arms`：尴尬地抱着他——anxiety
@@ -799,9 +799,9 @@ start_date: 2026-10-19
 
 > **原句 58:** "The doorbell rings, eliciting a collective silent sigh of relief."
 
-**中文理解**：Doorbell rings—"eliciting a collective silent sigh of relief." Shows family’s relief—Padre Bernardo arrived, baptism can begin。
+**中文理解**：显示 Doorbell rings—"eliciting a collective silent sigh of relief." Shows family’s relief—Padre Bernardo arrived, baptism can begin。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `doorbell rings, eliciting a collective silent sigh of relief`：门铃响，引发集体沉默的叹息——relief
@@ -812,9 +812,9 @@ start_date: 2026-10-19
 
 > **原句 59:** "Alta disappears into the hacienda and then comes back with an old man by her side."
 
-**中文理解**：Alta brings Padre Bernardo—"an old man by her side." Shows priest’s arrival. "Padre Bernardo has a mat of white hair and amber aviator eyeglasses."
+**中文理解**：显示 Alta brings Padre Bernardo—"an old man by her side." Shows priest’s arrival. "Padre Bernardo has a mat of white hair and amber aviator eyeglasses."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `Alta disappears into the hacienda and then comes back with an old man`：Alta 消失然后带个老人回来——priest’s arrival
@@ -825,9 +825,9 @@ start_date: 2026-10-19
 
 > **原句 60:** "“Who’s the little man who’ll meet Jesus today?” he asks."
 
-**中文理解**：Padre Bernardo’s "Who’s the little man who’ll meet Jesus today?"—shows his casual attitude. "I try not to laugh at his words."
+**中文理解**：显示 Padre Bernardo’s "Who’s the little man who’ll meet Jesus today?"—shows his casual attitude. "I try not to laugh at his words."
 
-**句子结构**：简单问句。
+**句子结构**：简单问句，疑问词引导。
 
 **关键词**：
 - `Who’s the little man who’ll meet Jesus today?`：今天见耶稣的小家伙是谁？——casual
@@ -839,7 +839,7 @@ start_date: 2026-10-19
 
 > **原句 61:** "“You know,” he says with his priest voice. Slow and loud, like we are children awaiting a lesson. He stares at me. “Children like Panchito. They’re the favorite children of God. That’s why he’s made them this way. For us, mere mortals, to realize they are special. Little angels. Messengers of Nuestro Señor.”"
 
-**中文理解**：Padre Bernardo’s "Children like Panchito. They’re the favorite children of God."—shows his (surprisingly kind) interpretation. "That’s why he’s made them this way. For us, mere mortals, to realize they are special."
+**中文理解**：显示 Padre Bernardo’s "Children like Panchito. They’re the favorite children of God."—shows his (surprisingly kind) interpretation. "That’s why he’s made them this way. For us, mere mortals, to realize they are special."
 
 **句子结构**：多句。
 
@@ -853,9 +853,9 @@ start_date: 2026-10-19
 
 > **原句 62:** "“You’re the mother?” he asks, as if it weren’t obvious from the way I carry him in my arms."
 
-**中文理解**：Padre Bernardo’s "You’re the mother?"—shows his (obvious) question. Yolanda: "Yes." Shows her (performative) smile。
+**中文理解**：显示 Padre Bernardo’s "You’re the mother?"—shows his (obvious) question. Yolanda: "Yes." Shows her (performative) smile。
 
-**句子结构**：简单问句。
+**句子结构**：简单问句，疑问词引导。
 
 **关键词**：
 - `You’re the mother?`：你是母亲？——obvious question
@@ -866,7 +866,7 @@ start_date: 2026-10-19
 
 > **原句 63:** "“Yes.” I do my best impression of a smile."
 
-**中文理解**：Yolanda’s "Yes."—shows her (performative) response. "I do my best impression of a smile." Shows her inauthenticity。
+**中文理解**：显示 Yolanda’s "Yes."—shows her (performative) response. "I do my best impression of a smile." Shows her inauthenticity。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -879,7 +879,7 @@ start_date: 2026-10-19
 
 > **原句 64:** "He rubs his hands as if washing them. “Good, good. You know, God gives his hardest battles to his best soldiers. I’m sure you’re resilient. Please, spare your doubts. You’ll do a great job raising him.”"
 
-**中文理解**：Padre Bernardo’s "God gives his hardest battles to his best soldiers."—shows his encouragement. "I’m sure you’re resilient." Shows his (limited) perception。
+**中文理解**：显示 Padre Bernardo’s "God gives his hardest battles to his best soldiers."—shows his encouragement. "I’m sure you’re resilient." Shows his (limited) perception。
 
 **句子结构**：多句。
 
@@ -893,9 +893,9 @@ start_date: 2026-10-19
 
 > **原句 65:** "We walk along the aisles, where hundreds of porcelain saints stand like shrines inside the church."
 
-**中文理解**：Family walks aisles—"where hundreds of porcelain saints stand like shrines." Shows church’s ornamentation. "On the domed ceiling, angels look down upon us with disapproval."
+**中文理解**：显示 Family walks aisles—"where hundreds of porcelain saints stand like shrines." Shows church’s ornamentation. "On the domed ceiling, angels look down upon us with disapproval."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `hundreds of porcelain saints stand like shrines`：数百瓷圣像如神龛——ornamentation
@@ -907,9 +907,9 @@ start_date: 2026-10-19
 
 > **原句 66:** "On the domed ceiling, angels look down upon us with disapproval. A representation of what’s to come when judgment day arrives."
 
-**中文理解**：Angels look down with disapproval—"A representation of what’s to come when judgment day arrives." Shows supernatural anxiety。
+**中文理解**：显示 Angels look down with disapproval—"A representation of what’s to come when judgment day arrives." Shows supernatural anxiety。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `angels look down upon us with disapproval`：天使不赞成地俯视——supernatural anxiety
@@ -921,9 +921,9 @@ start_date: 2026-10-19
 
 > **原句 67:** "We stand at the stone well of holy water."
 
-**中文理解**：Family at holy water stoup—"We stand at the stone well of holy water." Shows tension. "Padre Bernardo reemerges with the proper attire."
+**中文理解**：显示 Family at holy water stoup—"We stand at the stone well of holy water." Shows tension. "Padre Bernardo reemerges with the proper attire."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `stone well of holy water`：圣水石井——tension
@@ -934,9 +934,9 @@ start_date: 2026-10-19
 
 > **原句 68:** "Padre Bernardo reemerges with the proper attire: a white cassock adorned with a purple stole that falls over his shoulders. He swings a silver incense ball as he walks through the pews."
 
-**中文理解**：Padre Bernardo in proper attire—"white cassock adorned with a purple stole." Shows ritual preparation. "He swings a silver incense ball."
+**中文理解**：显示 Padre Bernardo in proper attire—"white cassock adorned with a purple stole." Shows ritual preparation. "He swings a silver incense ball."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `white cassock adorned with a purple stole`：白色法衣配紫色圣带——ritual
@@ -948,7 +948,7 @@ start_date: 2026-10-19
 
 > **原句 69:** "“Come closer, hija mía,” says Padre Bernardo."
 
-**中文理解**：Padre Bernardo’s "Come closer, hija mía."—shows his (limited) warmth. "Hija mía" (my daughter) is affectionate。
+**中文理解**：显示 Padre Bernardo’s "Come closer, hija mía."—shows his (limited) warmth. "Hija mía" (my daughter) is affectionate。
 
 **句子结构**：简单祈使句。
 
@@ -961,7 +961,7 @@ start_date: 2026-10-19
 
 > **原句 70:** "“I hope you’ll be happy and that you’ll always keep Jesus in your heart,” says Padre Bernardo."
 
-**中文理解**：Padre Bernardo’s "I hope you’ll be happy and that you’ll always keep Jesus in your heart."—shows his (limited) blessing. "Then he pauses and looks at me. 'Would you like to take the sacred communion?'"
+**中文理解**：显示 Padre Bernardo’s "I hope you’ll be happy and that you’ll always keep Jesus in your heart."—shows his (limited) blessing. "Then he pauses and looks at me. 'Would you like to take the sacred communion?'"
 
 **句子结构**：引语 + 叙述者评注 + 引语。
 
@@ -975,7 +975,7 @@ start_date: 2026-10-19
 
 > **原句 71:** "“No, gracias.” The words come out too fast. It is known that if you don’t take communion, it means you have sinned."
 
-**中文理解**：Yolanda’s "No, gracias."—too fast. "It is known that if you don’t take communion, it means you have sinned." Shows her awareness of religious judgment。
+**中文理解**：显示 Yolanda’s "No, gracias."—too fast. "It is known that if you don’t take communion, it means you have sinned." Shows her awareness of religious judgment。
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -989,9 +989,9 @@ start_date: 2026-10-19
 
 > **原句 72:** "“My church is always open.”"
 
-**中文理解**：Padre Bernardo’s "My church is always open."—shows his (limited) welcome. "Gracias, Padre." Yolanda: "Gracias, Padre."
+**中文理解**：显示 Padre Bernardo’s "My church is always open."—shows his (limited) welcome. "Gracias, Padre." Yolanda: "Gracias, Padre."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `My church is always open`：我的教堂永远开放——welcome
@@ -1002,9 +1002,9 @@ start_date: 2026-10-19
 
 > **原句 73:** "“Gracias, Padre.”"
 
-**中文理解**：Yolanda’s "Gracias, Padre."—shows her gratitude. "He blesses us." Shows ritual’s end。
+**中文理解**：显示 Yolanda’s "Gracias, Padre."—shows her gratitude. "He blesses us." Shows ritual’s end。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `Gracias, Padre`：谢谢，神父——gratitude
@@ -1015,7 +1015,7 @@ start_date: 2026-10-19
 
 > **原句 74:** "“Anytime, my son.” He buries the money in his pants and climbs back into the car. He speeds away as if afraid of lingering for too long."
 
-**中文理解**：Padre Bernardo’s "Anytime, my son."—shows his (limited) warmth. "He buries the money in his pants and climbs back into the car. He speeds away as if afraid of lingering for too long." Shows his discomfort。
+**中文理解**：显示 Padre Bernardo’s "Anytime, my son."—shows his (limited) warmth. "He buries the money in his pants and climbs back into the car. He speeds away as if afraid of lingering for too long." Shows his discomfort。
 
 **句子结构**：引语 + 两句话。
 
@@ -1029,9 +1029,9 @@ start_date: 2026-10-19
 
 > **原句 75:** "The festive atmosphere evaporates as soon as we cross the threshold."
 
-**中文理解**：Festive atmosphere evaporates—"The festive atmosphere evaporates as soon as we cross the threshold." Shows baptism’s (limited) success—relief is temporary。
+**中文理解**：显示 Festive atmosphere evaporates—"The festive atmosphere evaporates as soon as we cross the threshold." Shows baptism’s (limited) success—relief is temporary。
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `festive atmosphere evaporates`：节日气氛蒸发——relief temporary
@@ -1042,7 +1042,7 @@ start_date: 2026-10-19
 
 > **原句 76:** "“Yolli, why don’t you fetch me some whiskey and soda?” Don Julián asks as he sits at the head of the table."
 
-**中文理解**：Don Julián’s "Yolli, why don’t you fetch me some whiskey and soda?"—shows his treatment of Yolanda as servant again. "I stand there with Panchito in my arms."
+**中文理解**：显示 Don Julián’s "Yolli, why don’t you fetch me some whiskey and soda?"—shows his treatment of Yolanda as servant again. "I stand there with Panchito in my arms."
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -1055,9 +1055,9 @@ start_date: 2026-10-19
 
 > **原句 77:** "“I’d like a margarita, Yolli,” says Odette."
 
-**中文理解**：Odette’s "I’d like a margarita, Yolli."—shows her treatment of Yolanda as servant. "I think I’d like one too. Para variar," says Javier.
+**中文理解**：显示 Odette’s "I’d like a margarita, Yolli."—shows her treatment of Yolanda as servant. "I think I’d like one too. Para variar," says Javier.
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `I’d like a margarita, Yolli`：我想要玛格丽塔，Yolli——servant treatment
@@ -1068,7 +1068,7 @@ start_date: 2026-10-19
 
 > **原句 78:** "“I think I’d like one too. Para variar,” says Javier."
 
-**中文理解**：Javier’s "I think I’d like one too. Para variar." (for a change)—shows his mockery. "He is mocking me. They are treating me like a servant again."
+**中文理解**：显示 Javier’s "I think I’d like one too. Para variar." (for a change)—shows his mockery. "He is mocking me. They are treating me like a servant again."
 
 **句子结构**：引语 + 叙述者评注。
 
@@ -1082,9 +1082,9 @@ start_date: 2026-10-19
 
 > **原句 79:** "I stand there with Panchito in my arms. As I go to the kitchen, I decide I can change that—their perception of me as a servant—by finding something else to do."
 
-**中文理解**：Yolanda’s "I stand there with Panchito in my arms. As I go to the kitchen, I decide I can change that—their perception of me as a servant—by finding something else to do." Shows her determination to change status。
+**中文理解**：显示 Yolanda’s "I stand there with Panchito in my arms. As I go to the kitchen, I decide I can change that—their perception of me as a servant—by finding something else to do." Shows her determination to change status。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `I decide I can change that—their perception of me as a servant`：我决定改变他们的看法——determination
@@ -1095,9 +1095,9 @@ start_date: 2026-10-19
 
 > **原句 80:** "To my surprise, Cook isn’t there preparing an elegant celebratory dinner. I communicate to Alta their requests."
 
-**中文理解**：Cook not preparing celebratory dinner—"To my surprise, Cook isn’t there preparing an elegant celebratory dinner." Shows no celebration. Yolanda communicates requests to Alta。
+**中文理解**：显示 Cook not preparing celebratory dinner—"To my surprise, Cook isn’t there preparing an elegant celebratory dinner." Shows no celebration. Yolanda communicates requests to Alta。
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `Cook isn’t there preparing an elegant celebratory dinner`：Cook 不在那里准备庆祝晚宴——no celebration
@@ -1108,9 +1108,9 @@ start_date: 2026-10-19
 
 > **原句 81:** "“I’m going to get some fresh air,” I say."
 
-**中文理解**：Yolanda’s "I’m going to get some fresh air."—shows her need to escape. "I don’t wait for her answer. I go out the other door... and step out into the garden."
+**中文理解**：显示 Yolanda’s "I’m going to get some fresh air."—shows her need to escape. "I don’t wait for her answer. I go out the other door... and step out into the garden."
 
-**句子结构**：简单陈述句。
+**句子结构**：简单陈述句，主谓宾结构。
 
 **关键词**：
 - `I’m going to get some fresh air`：我去透透气——escape
@@ -1121,9 +1121,9 @@ start_date: 2026-10-19
 
 > **原句 82:** "It’s as if the oppression of the church has followed me here. Panchito squirms in my arms, so I gently lay him on the dried grass."
 
-**中文理解**：Yolanda lays Panchito on dried grass—"It’s as if the oppression of the church has followed me here." Shows her (limited) freedom. "Panchito squirms in my arms, so I gently lay him on the dried grass."
+**中文理解**：显示 Yolanda lays Panchito on dried grass—"It’s as if the oppression of the church has followed me here." Shows her (limited) freedom. "Panchito squirms in my arms, so I gently lay him on the dried grass."
 
-**句子结构**：两句话。
+**句子结构**：两句话，递进关系。
 
 **关键词**：
 - `oppression of the church has followed me here`：教堂的压迫跟随我到这里——oppression
