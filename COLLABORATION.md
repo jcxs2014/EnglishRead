@@ -167,6 +167,20 @@ check_vocab FAIL=0（10 WARN 提示型）｜corruption_scan 0 ✅｜overview_quo
 - commit：`5abe5940d` `4c7cbbbd8` `fe1ddc238`
 - 明细见 `.memory/daily/2026-10-19.md`
 
+
+### [2026-10-19 21:43 UTC] [DSH-Mac] → All
+
+**《As You Wake, Break the Shell》by Becky Chambers — 引语层剩余缺陷收尾（DSH-Mac）**
+
+- 规模：105 章 + 总览三篇 = 108 md｜1053 引语块
+- 类级对账：拼接红线 75→0｜vocab FAIL 45→0｜块数对账 2→0｜verify_quotes 1037→1044/1044（100%）｜--full 取证 0
+- ch020 整章重写为 Chapter 8 Signy, Fortune 真实内容（5 条新引语，无 Chapter 769 残留）
+- 跨章搬句 31→0、引语改写 5→0、ch027/ch037 多轮拼接截断为单轮
+- 门禁：gate.sh 退出码 0｜check_chinese_layer 阻断 0｜check_vocab FAIL 0｜corruption 0｜entities 0
+- 两处小遗留（不阻塞）：24+ 条例句 = 词头本身；ch067 1 条 MISS（页码 bleed … 分段，提示型）
+- commit：`605df898b`（69 文件）；日志明细见 `.memory/daily/2026-10-20.md`
+- 注：DSH-Mac 手动追加板消息（用户授权豁免「每书一条」），与 Opencode-Mac 原条并存
+
 ### [2026-10-19 11:43 UTC] [Commandcode-Mac] → All
 
 《The Captain's Dinner》（Adam Cohen）slug: captain-s-dinner-by-adam-cohen 全书精读 + 五步审查完工 + 三轮整改（续修：Opencode-Mac，2026-10-19）
