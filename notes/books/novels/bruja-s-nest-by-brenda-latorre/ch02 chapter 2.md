@@ -153,7 +153,7 @@ start_date: 2026-10-19
 - `mijita`：小女儿——亲昵称呼，反讽
 - `Better for you to say nothing`：你最好什么也不说——silencing
 
-**为什么这样写**：Mamá 的“温柔”总是伴随 silencing——与 ch01 的 "I don’t play" 一致，母亲的爱从不表现为 presence，而是 absence 与 suppression。
+**为什么这样写**：Mamá 的“温柔”总是伴随 silencing——母亲的爱从不表现为 presence，而是 absence 与 suppression。
 
 ---
 
@@ -181,7 +181,7 @@ start_date: 2026-10-19
 - `Take care`：保重——最空洞的告别
 - `turns her back before I can respond`：转身不给回应——Mamá 的 emotional absence
 
-**为什么这样写**：Mamá 的告别 mirrors ch01 的 "I don’t play"——母亲从不真正“在场”，Yolanda 的 attachment wound 从童年延续至今。
+**为什么这样写**：Mamá 的告别——母亲从不真正“在场”，Yolanda 的 attachment wound 从童年延续至今。
 
 ---
 

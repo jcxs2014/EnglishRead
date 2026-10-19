@@ -1192,7 +1192,7 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 87:** "We run to Odette’s room. It has a four-poster bed and green curtains with golden tassels. She has a dresser with an oval mirror. We open the sliding door to run back to the garden."
+> **原句 87:** "We run to Odette’s room."
 
 **中文理解**：Yolanda/Javier run to Odette’s room—"We run to Odette’s room. It has a four-poster bed and green curtains with golden tassels." Shows Odette’s (limited) luxury. "We open the sliding door to run back to the garden."
 

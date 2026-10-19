@@ -271,7 +271,7 @@ start_date: 2026-10-19
 
 ---
 
-> **原句 19:** "“Beware of that woman, Yolanda.” ... “And beware of Javier.”"
+> **原句 19:** "“Beware of that woman, Yolanda.”"
 
 **中文理解**：Itzco warns Yolanda about Alta and Javier—Javier "always tries to sleep with the newbies" as part of open relationship with Odette. This reveals hacienda’s sexual economy and Yolanda’s precarity.
 
