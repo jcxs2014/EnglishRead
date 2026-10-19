@@ -39,7 +39,7 @@
 - **为什么这样写**：Gregory reveals the X2's dark mechanism—death is data transfer. Dead monkeys' visual experience (including their death, including the lab tech's face as killer) becomes shared data. This explains the ending: "They know what I am"—monkeys recognize lab tech as the one who killed their predecessors. The word "sacrificed" is euphemistic; the story gradually replaces euphemism with reality.
 - **读者视角提示**：sacrificed = 牺牲（euphemism for killed）；algorithm = 算法；code = 代码（X2 的软件）。The X2 creates a collective visual memory across subjects.
 
-> **原句 5:** "They’re all through the feed," he said. "You must have seen them too." ... "I always thought humans were the only animals who knew we were going to die. But what if we’ve taught them?"
+> **原句 5:** "They’re all through the feed," he said. "You must have seen them too."
 
 - **中文理解**：「它们遍布 feed。你肯定也看到了。」……「我一直以为人类是唯一知道自己会死的动物。但如果是我们教会了它们呢？」Lab tech 发现 "twin polygons"（hexagons = pairs of eyes/glasses) 在 replay feed 中反复出现——monkeys' brains have learned to recognize the lab tech's glasses as threat (because dead monkeys saw him as killer). "What if we've taught them?" 是 story's philosophical climax.
 - **关键词**：twin polygons / taught them / knew we were going to die

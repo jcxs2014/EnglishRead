@@ -60,7 +60,7 @@
 
 - **中文理解**：「He took a young married woman by force。」Uncle Hermit's (actually grandfather's) crime—rape. "Took... by force" = sexual assault. "Young married woman" = victim. This is the family's dark secret: grandfather was rapist, locked in hermitage, died there (absorbed into walls).
 
-- **关键词**：took a young married woman by force
+- **关键词**：take a young married woman by force
 
 - **为什么这样写**：Warren's "took... by force" = sexual assault. This is the family's dark secret: grandfather (not Uncle Hermit) was rapist. "Young married woman" = victim. This is the story's moral complexity: grandfather's crime → family's cover-up → absorption into walls. Death as absorption = grandfather's soul in walls. Sarah's still life of grandfather (skeleton) = art as death's medium.
 

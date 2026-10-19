@@ -53,14 +53,14 @@
 - **为什么这样写**：This is the story's turn from assassin tale to afterlife journey. "swallowed me entirely" is visceral (mouth as cave, darkness); "Though I am dead, I still continue" parallels the opening "My name is Izio. I am a stilettotore"—now "I am dead" replaces "I am a stilettotore." The repetition of "My name is Izio" frames the narrative as a new identity (dead Izio vs. living Izio). The Unseen Realms are Scuro's domain (darkness/hell).
 - **读者视角提示**：akiz = 恶魔/黑暗生物（Khur 商人用的词，Venaius 是 akiz）；Scuro = 意大利语 "dark"（黑暗之神/冥界）；Unseen Realms = Scuro 的冥界。The mouth-as-cave imagery connects to Venaius's self-styled "Livo the Cat" (cat's mouth).
 
-> **原句 7:** "A raft of human animals, a raft of misery. ... When one moves, all move. When one wounds one, all wound all."
+> **原句 7:** "A raft of human animals, a raft of misery."
 
 - **中文理解**：「一筏人类动物，一筏苦难。……一人动，全动。一人伤一人，全伤全。」Izio 在冥界看到 raft of suffering——lashed-together humans who torture each other endlessly. "When one moves, all move" / "When one wounds one, all wound all" 是 raft 的运作机制——collective punishment.
 - **关键词**：raft of misery / When one moves, all move / When one wounds one, all wound all
 - **为什么这样写**：这是 story's central metaphor—violence's cyclical nature. The raft is not hell as external punishment but self-inflicted collective suffering: "This is a suffering of my own making, of all our making. Pain, delivered from one person to the next, to the next, to the next... Our pain binds us to one another, dooms us all to this seething mass of ruination and rage and retribution." Izio recognizes his own violence (as assassin) as part of this cycle. The raft includes his mother, Matra Desira, and his first kill—all victims and perpetrators lashed together.
 - **读者视角提示**：raft of suffering = 苦难之筏（冥界刑罚）；Scuro's realms = 黑暗之神的冥界；akiz = 恶魔。The raft imagery echoes Dante's Inferno (circles of hell) and Buddhist concepts of karma/samsara (cyclic suffering).
 
-> **原句 8:** "I gather the pup into my arms and stumble from the burning building. Behind me, I leave my stiletto. I leave all my evils. ... It all falls away."
+> **原句 8:** "I gather the pup into my arms and stumble from the burning building. Behind me, I leave my stiletto. I leave all my evils."
 
 - **中文理解**：「我把小狗搂进怀里，从燃烧的建筑中跌跌撞撞地逃出。身后，我留下 stiletto。我留下所有罪恶。……一切落下了。」Izio 获救——three-eyed dog charm（Khur 商人给的）变成 real pup，拖他出 raft of suffering。他抛弃 stiletto（武器/身份），离开所有 evils。"It all falls away" 重复两次，强调 release。
 - **关键词**：leave my stiletto / It all falls away / pup

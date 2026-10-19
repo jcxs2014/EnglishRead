@@ -46,7 +46,7 @@
 
 - **读者视角提示**：mitigating factors = 缓和因素；authoritative = 权威的。Parker's narrator is a hypocrite priest—funny but also tragic.
 
-> **原句 4:** "They do that, apparently. They're very patient. If you don't make a move, neither do they... Oh, and he had sad eyes, like a cow or an old dog. Very sad eyes."
+> **原句 4:** "They do that, apparently. They’re very patient. If you don’t make a move, neither do they; and in some of the stories, the hero survives by staying absolutely dead still, until the sun comes up and the walker slouches away."
 
 - **中文理解**：「They do that, apparently。They're very patient。If you don't make a move, neither do they... Oh, and he had sad eyes, like a cow or an old dog。Very sad eyes。」Walker 的 behavior—patient, sad-eyed, almost gentle. "Like a cow or an old dog" = animal comparison, not monster. Walker isn't evil; he's tragic, lost, patient.
 

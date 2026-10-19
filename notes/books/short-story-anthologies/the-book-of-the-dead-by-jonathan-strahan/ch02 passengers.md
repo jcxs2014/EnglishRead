@@ -32,7 +32,7 @@
 - **为什么这样写**：这是 story 的 inciting incident——Yamini 预警了骚扰，但 Mrs. Bose 用 "This is India, everyone stares"  dismissal。"bloodshot red eyes" 是 Yamini 的 sensory detail，后来成为 "the man with the red eyes" 的固定指称。Das 通过 Mrs. Bose 的 dismissive response 展示了 institutional failure（老师不保护学生），为 Yamini 的 eventual violence 提供 justification。"creepy" 是 teen girl 的日常词汇，使恐惧显得真实而非戏剧化。
 - **读者视角提示**：uncle 在印度英语中是对陌生年长男性的尊称（类似 "sir"）；leering = 斜睨、色眯眯地看；bloodshot = 布满血丝的（醉酒/疲劳）。Mrs. Bose 的 "This is India, everyone stares" 反映了印度社会对女性 harassment 的 normalization。
 
-> **原句 4:** "'I killed I think I killed him.' ... 'He kept looking. Wouldn’t stop. I knew something would happen. I had the knife, kept it beside me. I . . . think. I f . . . fucking knew something would happen. No one believed me.'"
+> **原句 4:** "I killed I think I killed him."
 
 - **中文理解**：Yamini 在厕所里向 Soumik 坦白：「我杀了……我想我杀了他。」……「他一直看。不会停。我知道会发生什么。我有刀，放在身边。我……想。我他……妈的就知道会发生什么。没人相信我。」Das 用 broken syntax（"I killed I think I killed him"）捕捉 shock 与 guilt；"No one believed me" 是 Yamini 的核心 grievance——她预警过，但被 dismissal。
 - **关键词**：I killed / No one believed me / I had the knife
@@ -46,14 +46,14 @@
 - **为什么这样写**：这个 kiss 是 story 的道德 pivot——Soumik 在 Yamini 最 vulnerable 的 moment（刚杀人、惊恐、半裸）对她 romantic advance，暴露了他的 desire 与 empathy 的 entanglement。"She jerked back ... horror there" 显示 Yamini 把 this moment 读作 violation， not romance。"One second. My first kiss. Maybe hers." 的 staccato rhythm 把 romantic trope 转化为 traumatic memory。Das 通过 Soumik 的 narration 让 reader 同时感到 sympathy 与 discomfort——Soumik 的 desire 与 Yamini 的 trauma 在同一 moment 碰撞。
 - **读者视角提示**：pushed gently = 轻轻推进（romantic gesture）；jerked back = 猛地缩回；thumping against the sink = 撞到水槽。"Maybe hers" 是 narrator 的 uncertainty about Yamini's experience，显示他无法真正了解 Yamini 的内心。
 
-> **原句 6:** "'We were still in the train, going forever. He was there. He chased us out.' ... 'I think I dreamed the same thing,' I said."
+> **原句 6:** "We were still in the train, going forever. He was there. He chased us out."
 
 - **中文理解**：Yamini 说：「我们还在火车上，永远在走。他在那里。他追我们出去。」……Soumik 说：「我想我梦到了同样的东西。」两人 shared a dream——在 train 上永远行驶、红眼男人追逐、void city 的 vision。这个 shared dream 成为两人 bond 的 supernatural dimension。
 - **关键词**：dreamed the same thing / going forever / He chased us out
 - **为什么这样写**：shared dream 是 story 的 supernatural element——它把 Yamini 的 murder 与 Soumik 的 complicity 连接到一个 cosmic dimension。"We dreamed the same thing" 是 Soumik 的 claim，但 Yamini 的 "I think" 和 "maybe" 引入 doubt——dream 是否真的 shared？Das 通过 dream sequence 把 psychological trauma 转化为 supernatural horror（death train、void city、buffalo rider），让 personal guilt 成为 cosmic journey。"Are you dreaming this right now, I will ask her, or are..." 的未完成句显示 narrator 的 uncertainty about reality vs. dream。
 - **读者视角提示**：shared dream = 共享梦境；event horizon = 事件视界（黑洞边界，此处 metaphor 为 violence 的不可逆点）；void city = 虚空城市（story 中的超自然空间）；buffalo rider = 骑 buffalo 的骑手（死亡的 personification）。
 
-> **原句 7:** "I never got the chance to ask her what actually happened. ... Years later, I looked her up on social media and found her. ... When I checked again, her account was gone."
+> **原句 7:** "I never got the chance to ask her what actually happened. I wondered sometimes, how it had been possible."
 
 - **中文理解**：Soumik 从未有机会问 Yamini 实际发生了什么。……多年后他在社交媒体上找到她……再查时，她的账号已经消失。Das 用 "never got the chance" 强调 unresolved mystery；Yamini 的 account disappearance 是 ambiguity 的 final note——她可能 deleted it 以 escape past，或 died，或 simply moved on。
 - **关键词**：never got the chance / account was gone

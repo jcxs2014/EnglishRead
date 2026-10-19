@@ -46,7 +46,7 @@
 
 - **读者视角提示**：Kim's "beyond helping" = exorcism ethic. Woojin violates it by helping Ms. Young. Consequence: possession.
 
-> **原句 4:** "You're dead, Ms. Young,” Woojin said, his voice hoarse, as if he had been screaming. “I'm sorry. It was beautiful, but it's over."
+> **原句 4:** “You’re dead, Ms. Young,” Woojin said, his voice hoarse, as if he had been screaming. “It’s over. I’m sorry. It was beautiful, but it’s over.”
 
 - **中文理解**：「You're dead, Ms. Young," Woojin said, his voice hoarse, as if he had been screaming。"I'm sorry。It was beautiful, but it's over。" Woojin's exorcism speech—acknowledging Ms. Young's death, apologizing, declaring it over. "It was beautiful, but it's over" = her life/memories beautiful but ended. This is the exorcism's truth-telling.
 

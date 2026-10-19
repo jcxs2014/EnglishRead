@@ -56,7 +56,7 @@
 
 - **读者视角提示**：Ogundiran's "Father" = earned trust, not biological. Keeper's guilt = betrayal of trust.
 
-> **原句 5:** "I sent her to the lake!"
+> **原句 5:** ". . . good gods, he sent her to the lake!"
 
 - **中文理解**：「I sent her to the lake!」Keeper's realization—he sent Enitan (living child) to Lake of Midnight (death). "Sent her to the lake" = he killed her (unknowingly). This is the story's turning point: Keeper discovers his error, guilt overwhelms.
 

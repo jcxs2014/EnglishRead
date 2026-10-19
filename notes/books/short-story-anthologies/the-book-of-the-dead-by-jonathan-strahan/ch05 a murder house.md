@@ -39,7 +39,7 @@
 - **为什么这样写**：The "foreigner/drifter" theory is a historical rumor that circulated after the murders (blaming an outsider rather than Charlie). Duncan uses dialogue to show community denial and scapegoating. "so-and-so" is deliberately vague—no specific suspect. The conspiracy theory reveals collective inability to process familial violence. The dialogue format (unattributed, overlapping) creates oral history texture.
 - **读者视角提示**：foreigner/drifter = 外来者/流浪汉（scapegoat）；"so-and-so" = 某人（模糊指代）；coroner = 验尸官。The rumor that Charlie fought a foreigner is historically documented but unverified.
 
-> **原句 5:** "'Well, my daughter is best friends with the cousin of the best friend of the oldest Lawson girl, and according to her—' ... 'Well, according to all of them, I guess, Marie confided to the friend just before Christmas that she was with child.' The last two words are whispered but still carry a good twelve feet. 'And no man on the premises but her own father.'"
+> **原句 5:** "'Well, according to all of them, I guess, Marie confided to the friend just before Christmas that she was with child.' The last two words are whispered but still carry a good twelve feet. 'And no man on the premises but her own father.'"
 
 - **中文理解**：游客传播 incest rumor——Marie (17) 怀孕，父亲是唯一男性。"with child" 被 whisper 但 still carry twelve feet。The incest theory (Charlie impregnated Marie) is the most disturbing and historically debated motive.
 - **关键词**：with child / whispered / no man on the premises but her own father
