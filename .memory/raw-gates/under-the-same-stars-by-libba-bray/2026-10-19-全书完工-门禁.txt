@@ -1,0 +1,116 @@
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+
+⚠️ 全书共 25 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 783/783 引文可核实（100%）；完全干净文件 40/40；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 773
+--- FAIL (0) ---
+--- WARN (7) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：37 个梗概段 / 0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  ❌ FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 697 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 27 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 dodauer forest northern germany.md        ch01 dodauer forest northern germany.md: 18/18 in ch01 text（另有 2 条短引语未校验）
+ch02 west berlin.md                            ch02 west berlin.md: 20/20 in ch02 text
+ch03 brooklyn new york.md                      ch03 brooklyn new york.md: 20/20 in ch03 text
+ch04 kleinwald germany.md                      ch04 kleinwald germany.md: 20/20 in ch04 text
+ch05 west berlin.md                            ch05 west berlin.md: 19/19 in ch05 text（另有 1 条短引语未校验）
+ch06 brooklyn new york.md                      ch06 brooklyn new york.md: 20/20 in ch06 text
+ch07 the tale of the hare and the deer.md      ch07 the tale of the hare and the deer.md: 17/17 in ch07 text
+ch08 kleinwald germany.md                      ch08 kleinwald germany.md: 20/20 in ch08 text
+ch09 west berlin.md                            ch09 west berlin.md: 20/20 in ch09 text
+ch10 brooklyn new york.md                      ch10 brooklyn new york.md: 20/20 in ch10 text
+ch11 kleinwald germany.md                      ch11 kleinwald germany.md: 19/19 in ch11 text（另有 1 条短引语未校验）
+ch12 west berlin.md                            ch12 west berlin.md: 20/20 in ch12 text
+ch13 brooklyn new york.md                      ch13 brooklyn new york.md: 20/20 in ch13 text
+ch14 the tale of the hare and the deer.md      ch14 the tale of the hare and the deer.md: 18/18 in ch14 text
+ch15 kleinwald germany.md                      ch15 kleinwald germany.md: 20/20 in ch15 text
+ch16 west berlin.md                            ch16 west berlin.md: 20/20 in ch16 text
+ch17 brooklyn new york.md                      ch17 brooklyn new york.md: 20/20 in ch17 text
+ch18 kleinwald germany.md                      ch18 kleinwald germany.md: 20/20 in ch18 text
+ch19 west berlin.md                            ch19 west berlin.md: 18/18 in ch19 text（另有 2 条短引语未校验）
+ch20 the tale of the hare and the deer.md      ch20 the tale of the hare and the deer.md: 20/20 in ch20 text
+ch21 brooklyn new york.md                      ch21 brooklyn new york.md: 19/19 in ch21 text（另有 1 条短引语未校验）
+ch22 west berlin.md                            ch22 west berlin.md: 20/20 in ch22 text
+ch23 kleinwald.md                              ch23 kleinwald.md: 20/20 in ch23 text
+ch24 brooklyn new york.md                      ch24 brooklyn new york.md: 20/20 in ch24 text
+ch25 kleinwald germany.md                      ch25 kleinwald germany.md: 20/20 in ch25 text
+ch26 west berlin.md                            ch26 west berlin.md: 19/19 in ch26 text（另有 1 条短引语未校验）
+ch27 brooklyn new york.md                      ch27 brooklyn new york.md: 20/20 in ch27 text
+ch28 the tale of the hare and the deer.md      ch28 the tale of the hare and the deer.md: 20/20 in ch28 text
+ch29 kleinwald.md                              ch29 kleinwald.md: 19/19 in ch29 text（另有 1 条短引语未校验）
+ch30 east berlin german democratic republic.md ch30 east berlin german democratic republic.md: 20/20 in ch30 text
+ch31 brooklyn new york.md                      ch31 brooklyn new york.md: 13/13 in ch31 text（另有 2 条短引语未校验）
+ch32 the tale of the hare and the deer.md      ch32 the tale of the hare and the deer.md: 20/20 in ch32 text
+ch33 brooklyn new york.md                      ch33 brooklyn new york.md: 20/20 in ch33 text
+ch34 kleinwald.md                              ch34 kleinwald.md: 20/20 in ch34 text
+ch35 brooklyn new york.md                      ch35 brooklyn new york.md: 7/7 in ch35 text（另有 1 条短引语未校验）
+ch36 new york city.md                          ch36 new york city.md: 19/19 in ch36 text（另有 1 条短引语未校验）
+ch37 author's note.md                          ch37 author's note.md: 12/12 in ch37 text（另有 1 条短引语未校验）
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：37 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+  ℹ️ epub 二级参考集：Under the Same Stars (Libba Bray) (Z-Library).epub（553991 flat 字符）　—— text/ 查无而 epub 命中将判**提示型**不判红
+  
+  === 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（under-the-same-stars-by-libba-bray）===
+  ✅ 逐字 4395 ｜ ⚠️ 跨章 24 ｜ 🔶 拼接 11 ｜ 🟠 部分命中 26 ｜ 🟡 词形 7 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 1656
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构 ｜ 引语众数 20
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 1 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 16 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+  ── 松散关键词明细 ──
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 26/26 ✅
+00_概述.md: 49/49 ✅
+00_金句精选.md: 28/28 ✅
+
+=== 总览引文 103/103 可核实（100%）；完全干净文件 3/3；已核覆盖 3/3 篇（无引语 0 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  ⚠️ 00_金句精选.md:40  同一句在 2 章出现（ch5,ch30），章节标注有歧义：Don't die in the waiting room of the
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（under-the-same-stars-by-libba-bray）===
+  参照集：text/（37 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（under-the-same-stars-by-libba-bray）===
+  带前缀的 `> **原句 N:**` 行：37 个文件共 711 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+=== 引语块覆盖度：37 个 md，阻断型 0 处 ／ 提示型 36 处 ===
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══

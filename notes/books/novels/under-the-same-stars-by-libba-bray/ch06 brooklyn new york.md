@@ -35,7 +35,7 @@ start_date: 2026-10-16
 
 **中文理解**："你在叫我们老古板？"妈妈 Lisa 调侃道。"哇。这变化太快了。我听的是 Ramones。黑胶唱片。"
 
-**句子结构**：`'Are you calling us squares?' Mom Lisa had teased`（引语 + 谓语）+ `'Wow. That happened fast. I had the Ramones. On vinyl.' Mama D had shaken her head`（引语 + 谓语）。
+**句子结构**：`'Are you calling us squares?' Mom Lisa had teased`（引语 + 谓语）+ `Mama D had shaken her head. 'Wow. That happened fast. I had the Ramones. On vinyl.'`（引语 + 谓语）。
 
 **关键词**：
 - `the Ramones`：Ramones——1970 年代纽约朋克乐队；Mama D 听朋克摇滚，意味着她在 1980 年代也是"反叛文化"的一部分
@@ -101,17 +101,17 @@ start_date: 2026-10-16
 
 ---
 
-> **原句 7:** "Chi raises her hand. She must have gotten her hair done last weekend, trading in box braids for a tight Afro. / 'White supremacy,' Chi answers confidently. / '400 years of slavery,' another Black girl, Tisha, types in the chat."
+> **原句 7:** "'White supremacy,' Chi answers confidently."
 
-**中文理解**：Chi 举起了手。"白人至上，"Chi 自信地回答。"四百年的奴隶制，"另一个黑人女孩 Tisha 在聊天里打字。
+**中文理解**：Chi 自信地回答："白人至上。"
 
-**句子结构**：`Chi raises her hand`（动作）+ `'White supremacy,' Chi answers confidently`（引语）+ `'400 years of slavery,' another Black girl, Tisha, types in the chat`（引语）。
+**句子结构**：`'White supremacy,' Chi answers confidently`（直接引语 + 倒装谓语）。
 
 **关键词**：
 - `White supremacy`：白人至上——Chi 的直接回答；她不是在讨论历史，而是在说现在
-- `400 years of slavery`：四百年的奴隶制——Tisha 的"补充"不是要"比谁更惨"，而是说明"系统性的不公正不是一件事，是几百年"
+- `answers confidently`：自信地回答——Chi 的笃定与 Miles 的沉默形成对比；她不需要犹豫，也不怕说错
 
-**为什么这样写**：这段 Zoom 讨论是 2020 年美国课堂的真实写照。"历史课"变成了"现实课"：学生们在用历史来理解当下的抗议。Ms. Diaz 没有回避这个转换，而是让它继续——这是历史教育的正确方式：历史不是过去，是现在的镜子。
+**为什么这样写**：Chi 的这两个词是整堂课的转折点。Ms. Diaz 问"今天的宣传有哪些例子"，Chi 没有列举具体口号或事件，而是直接回答"白人至上"——她把当下美国的系统性种族主义本身定义为"正在运作的宣传"。这与 Miles 的沉默形成鲜明对比：Chi 敢于把最尖锐的答案说出口，而 Miles 只能低头刷表情包。
 
 ---
 
@@ -153,7 +153,7 @@ start_date: 2026-10-16
 - `Life is no pony farm`："人生不是小马农场"——德语谚语，意思是"人生不总是美好的/事情并不总是按计划进行"
 - `He wants all of that back`：他想把这一切都带回来——Matthias 照片里"a time before they were all scared to go anywhere"；那个"2019 年的世界"已经不存在了
 
-**为什么这样写**：Matthias 的"Leben ist kein Ponyhof"是德国版的"life is not a fairy tale"。它与"fairy tale"那个词形成呼应，但方向相反：Patrick 说"不要用童话来逃避现实"，Matthias 说"现实不是童话"。两种表述都是同一个意思：事情不会自动变好。
+**为什么这样写**：Matthias 的"Leben ist kein Ponyhof"（人生不是小马农场）是德语里的一句俗语。它与"fairy tale"那个词形成呼应，但方向相反：Patrick 说"不要用童话来逃避现实"，Matthias 说"现实不是童话"。两种表述都是同一个意思：事情不会自动变好。
 
 ---
 

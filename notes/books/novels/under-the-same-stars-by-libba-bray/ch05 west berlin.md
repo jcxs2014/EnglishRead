@@ -38,7 +38,7 @@ start_date: 2026-10-16
 **句子结构**：直接引语，主语（Lena）+ 谓语（made it）。
 
 **关键词**：
-- `Dallas`：Lena 给 Jenny 起的绰号——因为 Jenny 来自德克萨斯（"She's from Texas, Dallas"）；名字的赋予是一种"圈内人"的认证
+- `Dallas`：Lena 给 Jenny 起的绰号——因为 Jenny 来自德克萨斯（原文 "You are from Texas!"）；名字的赋予是一种"圈内人"的认证
 - `You made it.`：你来了——Lena 对 Jenny 的到来表示惊喜；这句话在朋克文化语境里还有"你成功逃离了原来的自己"的隐喻
 
 **为什么这样写**：这是 Lena 第一次用"Dallas"称呼 Jenny——这个名字在 ch02 末尾已经出现过，但这里确认了它是 Lena 给的"身份标签"。Jenny 还没有接受这个名字，但 Lena 已经把她当作"圈内人"了。
@@ -157,15 +157,15 @@ start_date: 2026-10-16
 
 ---
 
-> **原句 11:** "'Some trains would have to pass for a short time through East Berlin in the Mitte, the city center. But if the trains stop here, how could they keep the Ossis from boarding the train and leaving the GDR? So they decided: The trains could pass through but they could not stop. They bricked it up. Gated it off. Made them dead. Geisterbahnhöfe.'"
+> **原句 11:** "'They bricked it up. Gated them off. Made them dead. Geisterbahnhöfe.'"
 
-**中文理解**："有些列车不得不短暂穿越东柏林的米特区，城市中心。但如果列车在这里停靠，怎么防止东德人登上列车离开东德呢？所以他们决定：列车可以穿越，但不能停靠。他们用砖封了站。把门锁死。让它们变成了幽灵。鬼车站。"
+**中文理解**："他们用砖封了站。把门锁死。让它们变成了幽灵。鬼车站。"
 
-**句子结构**：四段解释 + 三个动词（bricked it up / Gated it off / Made them dead）+ 结论（Geisterbahnhöfe）。
+**句子结构**：三个并列的短句动词（bricked it up / Gated them off / Made them dead）+ 结论（Geisterbahnhöfe）。
 
 **关键词**：
 - `Geisterbahnhöfe`：鬼车站（德语）——冷战最有力的隐喻之一：列车可以穿越，但不能停；人可以在"法律上"穿越，但不能"真正"离开
-- `bricked it up / Gated it off / Made them dead`：砖封 / 锁死 / 让它们死——三个动词是递进关系，逐步升级的剥夺
+- `bricked it up / Gated them off / Made them dead`：砖封 / 锁死 / 让它们死——三个动词是递进关系，逐步升级的剥夺
 
 **为什么这样写**："鬼车站"是全章最强有力的政治隐喻：表面允许，实际上禁止；物理上存在，功能上死亡。这与 Jenny 自己被困在"德州身份"里是一样的——她可以"穿越"不同的自我，但不能在任何地方真正"停靠"。
 
@@ -209,7 +209,7 @@ start_date: 2026-10-16
 - `He looks out the window and he sees a couple kissing by the wall`：他往窗外看，看到一对情侣在墙边接吻——这是"Heroes"歌词的场景：一对情侣在墙边接吻，守卫在头顶上方的墙
 - `And pow! He has the lyric.`：磅！他有了歌词——"pow"是漫画式的灵感迸发声；Bowie 的歌不是"想"出来的，是"看到"的
 
-**为什么这样写**：这是 Lena 给 Jenny 的"音乐教育"。David Bowie 在 1977 年写的这首歌，Jenny 在 1980 年第一次听到它。Lena 是那个"翻译者"——把历史变成当下的意义。"two lovers standing by the wall / while guards shot above them / oblivious to their love"——这句话与全书的"同一片星空"主题直接相连：爱情在分裂之上继续存在。
+**为什么这样写**：这是 Lena 给 Jenny 的"音乐教育"。David Bowie 在 1977 年写的这首歌，Jenny 在 1980 年第一次听到它。Lena 是那个"翻译者"——把历史变成当下的意义。"two lovers standing by the wall, kissing, while guards shot above them, oblivious to their love"——这句话与全书的"同一片星空"主题直接相连：爱情在分裂之上继续存在。
 
 ---
 
@@ -227,17 +227,17 @@ start_date: 2026-10-16
 
 ---
 
-> **原句 16:** "'You are joking. That's 'Heroes'? David Bowie?' / 'Mein Gott.' Lena slapped her hand to her forehead and dragged it down her face."
+> **原句 16:** "'Mein Gott.' Lena slapped her hand to her forehead and dragged it down her face."
 
-**中文理解**："你在开玩笑吧。那是《Heroes》？David Bowie？""我的天啊。"Lena 用手捂住额头，然后一路拖下来。
+**中文理解**："我的天啊。"Lena 用手捂住额头，然后一路拖下来。
 
-**句子结构**：`'You are joking. That's "Heroes"? David Bowie?'`（Jenny 的反应）+ `'Mein Gott.'`（Lena 的德语感叹）+ `Lena slapped her hand to her forehead and dragged it down her face`（动作描写）。
+**句子结构**：`'Mein Gott.'`（Lena 的德语感叹）+ `Lena slapped her hand to her forehead and dragged it down her face`（动作描写）。
 
 **关键词**：
 - `Mein Gott`：我的天啊——Lena 无法相信 Jenny 不知道"Heroes"；这是"文化基础"的差异
 - `slapped her hand to her forehead and dragged it down her face`：用手掌拍额头再一路拖下来——"Lena 的绝望"姿态；她对 Jenny 的"美国无知"感到不可思议
 
-**为什么这样写**：这是全章最喜剧性的时刻。Jenny 对 David Bowie 的"ABBA? What's wrong with ABBA?"让 Lena 崩溃。Jenny 来自德州，她的流行音乐教育是 ABBA / 布鲁斯 / 乡村；Lena 的是朋克 / Bowie / 新浪潮。"Mein Gott"是文化冲击的声音表达。
+**为什么这样写**：这是全章最喜剧性的时刻。Lena 发现 Jenny 竟然不知道 David Bowie 的"Heroes"，先是一声"Mein Gott"，再配上"拍额头一路拖下来"的夸张手势——文化冲击被压缩成一个肢体动作。Jenny 来自德州，她的流行音乐教育是 ABBA / 布鲁斯 / 乡村；Lena 的是朋克 / Bowie / 新浪潮。"Mein Gott"是文化冲击的声音表达。
 
 ---
 
@@ -307,7 +307,7 @@ start_date: 2026-10-16
 - "Sophie Scholl"这个名字在三条时间线里都有出现：ch01 的 Sophie（1941 年）、Lena 的乐队（1980 年）、Jenny 在 Frau Hermann 处听到的故事（1980 年）——三个 Sophie，三个反抗者
 - "同一片星空"的主题在本章通过多重意象实现：柏林墙（分裂）/ ghost stations（不能停靠的列车/轨道）/ "Heroes"（墙边的接吻情侣）
 - Jenny 和 Lena 的关系从"陌生人"发展到"某种亲近"，但本章结尾暗示了危险——那个盯梢的男人是谁？
-- Lena 的"Always"是 Jenny 收到的第一个"承诺"；这对一个"five months of silence"后重新联络朋友的人有特殊意义
+- Lena 的"Always"是 Jenny 收到的第一个"承诺"；这对一个"five months of complete radio silence"后重新联络朋友的人有特殊意义
 - "Don't die in the waiting room of the future"是全章的主题句——它适用于柏林墙，适用于冷战，适用于 Covid，适用于任何"等待更好未来"的人生阶段
 
 ## 词汇

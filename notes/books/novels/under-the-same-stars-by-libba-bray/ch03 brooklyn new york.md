@@ -173,17 +173,17 @@ start_date: 2026-10-16
 
 ---
 
-> **原句 12:** "'Die Eichel.'" / "Is that a German Die Hard sequel?" / "Okay. Die Eichel means … acorn?" / "Any idea why your grandma would send you this?"
+> **原句 12:** "Okay. Die Eichel means … acorn?"
 
-**中文理解**："Die Eichel。""那是德国版《虎胆龙威》续集吗？""好吧。Die Eichel 的意思是……橡果？""你知道你奶奶为什么要寄这个给你吗？"
+**中文理解**："好吧。Die Eichel 的意思是……橡果？"Miles 终于借助网络查出了这个德语词的含义——但这个答案只带来了更多疑问：为什么 Mormor 会在 1941 年的剪报边缘写下"橡果"这个词？
 
-**句子结构**：四段快速对话，每句都是独立的交流回合。节奏极快，是青春期朋友之间对话的典型形态。
+**句子结构**：直接引语（Miles 边打字边念出查询结果）+ 省略号（…表示他边拼读边确认）+ 疑问语气（句末的 acorn?）。以口语化的"Okay"开头，表明这是对话进行到中途的反应。
 
 **关键词**：
-- `Die Eichel`：橡果（德语）——德语中"Eichel"=橡果；这是前两章中"Frau Hermann"工作地点的名字（Die Eichel 治疗中心）；与 Bridegroom's Oak 传说的核心意象（橡树）直接关联
-- `German Die Hard sequel`：德国版《虎胆龙威》续集——Miles 把德语词"Eichel"误解为电影名，暴露了他的德语能力不足，同时为对话提供喜剧性调节
+- `Die Eichel`：橡果（德语）——德语中"Eichel"=橡果；这是 Mormor 写在剪报边缘的神秘词，也是贯穿全书的中心符号
+- `means … acorn`：意思是……橡果——省略号表现 Miles 边查边读、不确定的语气；"acorn"以疑问句结尾，说明这个翻译并未解开谜团
 
-**为什么这样写**：四句对话浓缩了三个信息：①Mormor 在边注上写了"Eichel"（橡果）；②Miles 的德语很差（这是他即将参与的调查中的弱点）；③Chloe 的外祖母选择在这个时候把资料寄出，不是偶然的。Mormor 中风后无法说话——这些资料是她唯一能传递给 Chloe 的信息。
+**为什么这样写**：这句话是本章的关键揭晓时刻——Mormor 写在剪报边缘的"Die Eichel"被翻译为"橡果"，第一次把 1941 年的失踪事件与橡树/橡果意象（Bridegroom's Oak）明确连接起来。Miles 的疑问语气（"acorn?"）暗示：这个翻译没有给出答案，反而制造了新的谜题——为什么外祖母要寄来一张写着"橡果"的剪报？这为后文的调查埋下了动力。
 
 > **原句 13:** "Chloe's face falls. 'She had a stroke. In January.'" / "January. She didn't even call."
 
@@ -213,17 +213,19 @@ start_date: 2026-10-16
 
 ---
 
-> **原句 15:** "'God. What if we have to graduate over Zoom? That would be, like, a whole new level of suckage.' / 'Oh. Cool. Congratulations.' / 'Well, it's not for sure-sure. I did early action, not early decision. I'm still thinking about going to Brown. What about you? NYU?'"
+> **原句 15:** "Well, it's not for sure-sure. I did early action, not early decision. I'm still thinking about going to Brown. What about you? NYU?"
 
-**中文理解**："天啊。如果我们得在 Zoom 上毕业怎么办？那可就是超级无敌的糟糕了。""哦。酷。恭喜。""这个还不确定呢。我申请的是早行动，不是早决定。我还在考虑去不去布朗。你呢？纽约大学？"
+**中文理解**："这个还不确定呢。我申请的是早行动，不是早决定。我还在考虑要不要去布朗。你呢？纽约大学？"在 Miles 冷淡的"恭喜"之后，Chloe 主动缓和气氛，把自己的大学计划如实告诉他，并把问题抛回给他。
 
-**句子结构**：`'God. What if we have to graduate over Zoom?'`（Chloe 的感叹）+ `'Oh. Cool. Congratulations.'`（Miles 的冷淡回应）+ `'Well, it's not for sure-sure. I did early action...'`（Chloe 的详细回答）。
+**句子结构**：直接引语，由三个递进的句子构成：`Well, it's not for sure-sure`（回应 Miles 冷淡的"恭喜"）+ `I did early action, not early decision`（解释自己的申请状态）+ `I'm still thinking about going to Brown. What about you? NYU?`（主动分享并反问，把对话拉回双向交流）。
 
 **关键词**：
-- `graduate over Zoom`：在 Zoom 上毕业——疫情对青少年的里程碑事件的毁灭性影响
-- `early action`：早行动（美本申请方式）——Chloe 的策略，暗示她的务实性格
+- `not for sure-sure`：还不确定——Chloe 在弱化自己的精英目标，试图安抚 Miles
+- `early action`：早行动（美本申请方式）——Chloe 的申请策略，暗示她的务实性格
+- `going to Brown`：去布朗大学——常春藤目标，与 Miles 的现实处境形成对照
+- `What about you? NYU?`：你呢？纽约大学？——她主动把话题引向 Miles 的未来，试图弥合两人之间的隔阂
 
-**为什么这样写**：Chloe 的大学申请（斯坦福/布朗）是两人生活轨迹分叉的隐喻。Miles 的"酷。恭喜。"是冷淡的——这与他内心真正的感受（受伤、嫉妒、不安全感）形成对比。他去的社区大学与 Chloe 的长春藤目标形成对照。他们的关系已经因为不同的生活轨迹而紧张——这是青春期友谊在向成年过渡时的典型挑战。
+**为什么这样写**：这是 Chloe 试图弥合两人生活轨迹差距的对话。她刚刚说完自己多想去斯坦福，又立刻用"还不确定"来弱化精英目标，并把问题抛回给 Miles——她察觉到了两人之间的裂痕，不想让不同的未来规划成为这段友谊的障碍。而 Miles 的回应（"Not sure yet"）与此形成对照：他还没有准备好坦诚自己的申请结果。这段对话是青春期友谊在向成年过渡时，因生活轨迹分叉而产生的典型张力写照。
 
 ---
 

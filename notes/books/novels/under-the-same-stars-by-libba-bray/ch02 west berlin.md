@@ -46,17 +46,17 @@ start_date: 2026-10-16
 
 ---
 
-> **原句 3:** "This is the Kurfürstendamm. Good for shopping," the driver announced. / "Kurfürstendamm, Jenny repeated to herself silently, testing out the feel of the new word."
+> **原句 3:** "Kurfürstendamm, Jenny repeated to herself silently, testing out the feel of the new word."
 
-**中文理解**：司机介绍：这是选帝侯大街，购物的好地方。Jenny 默默在心里重复这个单词，试着感受它的味道。"testing out the feel of the new word"是这句话的核心——Jenny 在主动尝试融入，而不是完全抗拒。
+**中文理解**：Jenny 默默在心里重复 Kurfürstendamm 这个单词，试着感受它的味道。"testing out the feel of the new word"是这句话的核心——Jenny 在主动尝试融入，而不是完全抗拒。
 
-**句子结构**：两段直接引语 + Jenny 的内心动作描写。"testing out the feel of the new word"是现在分词短语作伴随动作。
+**句子结构**：倒装句：宾语（Kurfürstendamm）前置 + 主语（Jenny）+ 谓语（repeated）+ 方式状语（to herself silently）+ 现在分词短语作伴随（testing out the feel of the new word）。
 
 **关键词**：
 - `Kurfürstendamm`：选帝侯大街——柏林最著名的购物街之一，直接保留德语原词，增强真实感
 - `testing out the feel of the new word`：尝试感受新词的味道——Jenny 在主动进行文化适应，不是完全被动的受害者
 
-**为什么这样写**：Jenny 重复单词而不是忽略它，说明她仍在试图寻找这次搬迁的积极面。"testing out"这个动作暗示一种实验性的、谨慎的参与——她不完全抗拒，但也不完全接受。
+**为什么这样写**：Jenny 重复这个德语词而不是忽略它，说明她仍在试图寻找这次搬迁的积极面。"testing out"这个动作暗示一种实验性的、谨慎的参与——她不完全抗拒，但也不完全接受。
 
 ---
 
@@ -144,15 +144,15 @@ start_date: 2026-10-16
 
 ---
 
-> **原句 10:** "Frau Hermann. I think she might be a witch." / "A witch?" / "Shhh! She might hear you."
+> **原句 10:** "That's Frau Hermann. I think she might be a witch."
 
-**中文理解**：Martina 说：那是 Frau Hermann，我觉得她可能是个女巫。"女巫？"Jenny 疑惑。"嘘！她可能会听到你！"这是 Martina 和 Jenny 关于 Frau Hermann 的对话，也是童话元素的又一次出现。
+**中文理解**：Martina 压低声音对 Jenny 说：那是 Frau Hermann，我觉得她可能是个女巫。这是 Martina 第一次向 Jenny 揭示 Frau Hermann 的"女巫"名声，也是童话元素在现实世界的又一次出现。
 
-**句子结构**：三段对话，节奏紧凑。Martina 抛出判断（witch），Jenny 质疑（A witch?），Martina 警告（Shhh!）。
+**句子结构**：直接引语：指示代词短语（That's Frau Hermann）+ 主谓宾从句（I think she might be a witch）。说话人标签（Martina whispered）在引语之前，营造耳语的私密感。
 
 **关键词**：
 - `witch`：女巫——童话的核心意象；Martina 用这个词描述 Frau Hermann，暗示这个公寓楼里流传着关于她的故事
-- `She might hear you`：她可能会听到你——这种"说曹操"的恐惧是儿童对神秘力量迷信的体现
+- `That's Frau Hermann`：那是 Frau Hermann——Martina 为 Jenny 指认目标人物，开启后续的"女巫"传闻
 
 **为什么这样写**：Martina 对女巫的判断与她之前判断"正经人"的逻辑一样：来自外在的、物质的标准（有钱、丈夫死了）。但 Jenny 的好奇心更强——她后来主动与 Frau Hermann 接触，而不是躲避。
 
@@ -222,7 +222,7 @@ start_date: 2026-10-16
 **句子结构**：两个简短陈述句，并列结构。第二句的"in some new way"暗示 Frau Hermann 对 Jenny 的评估发生了变化。
 
 **关键词**：
-- `tapping the letter against the side of the table`：用信敲桌子——犹豫、思考的动作，Frau Hermann 在决定是否信任 Jenny
+- `tapped the letter against the side of the table`：用信敲桌子——犹豫、思考的动作，Frau Hermann 在决定是否信任 Jenny
 - `assessing Jenny in some new way`：用新的方式评估 Jenny——Jenny 主动提出帮忙，这让 Frau Hermann 改变了看法
 
 **为什么这样写**：Jenny 主动提出帮忙寄信——这是一个冒险的举动，尤其在 Martina 刚刚警告过她"那是个女巫"之后。但 Jenny 的好奇心压过了恐惧，Frau Hermann 显然也注意到了这一点。
@@ -338,7 +338,7 @@ start_date: 2026-10-16
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| witch | 女巫 | "Frau Hermann. I think she might be a witch." |
+| witch | 女巫 | "That's Frau Hermann. I think she might be a witch." |
 | chocolate | 巧克力 | She did, however, have a stash of Kinder chocolate bars. |
 | suitcase | 行李箱 | Jenny Campbell dutifully rolled her suitcase after her mother and younger sister, Alison. |
 | camera | 相机 | Jenny's camera, a Canon A-1, banged against her chest. |

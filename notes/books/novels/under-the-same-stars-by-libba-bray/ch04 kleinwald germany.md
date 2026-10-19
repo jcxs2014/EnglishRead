@@ -151,7 +151,7 @@ start_date: 2026-10-16
 
 **关键词**：
 - `I refuse`：我拒绝——Hanna 的口头禅；她的整个身份建立在"拒绝"之上——拒绝 Kleinwald、拒绝 Klara、拒绝 Sophie 那种安静的爱情观
-- `a boring life`：无聊的人生——对 Hanna 来说，"无聊"是最大的敌人；她宁愿过"悲剧浪漫"的人生，也不愿过"settle down and hatch a house full of brats"
+- `a boring life`：无聊的人生——对 Hanna 来说，"无聊"是最大的敌人；她宁愿过"悲剧浪漫"的人生，也不愿过"settle down, hatch a house full of brats"
 
 **为什么这样写**：这句话是 Hanna 的核心宣言。她在 15 岁就已经知道了自己要什么——虽然她的"愿望清单"是浪漫小说教给她的，但她对"无聊"的拒绝是真实的、近乎哲学的。这也解释了为什么她后来对 Oskar 的吻感到"irritating"——他的小狗眼神让她想起 Kleinwald 的无聊，而她已经超越了那个世界。
 
