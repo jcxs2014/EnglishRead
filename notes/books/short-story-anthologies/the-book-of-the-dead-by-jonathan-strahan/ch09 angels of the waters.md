@@ -2,89 +2,89 @@
 
 ## 本章导航
 
-- **一句话概括**：Charlotte（Bethesda Fountain 的 Angel of the Waters 雕像）在 1876 年被唤醒为不死之身，与 vampire Johnny Backus（纽约建造者）为伴；二人在纽约经历两个世纪，Johnny 随城市建设而强大，但气候变暖使城市被洪水淹没，Johnny 自杀（second death）后 Charlotte 被搬迁至上州，孤独地继续观察——一个关于死亡、城市、友谊与气候灾难的故事。
+- **一句话概括**：一部横跨两百年的历史幻想。1876 年，演员 Charlotte 死去后醒在一座青铜天使像里——中央公园贝塞斯达喷泉上的「水之天使」，由她爱过的雕塑家 Emma 浇铸而成。她与半莫霍克血统的吸血鬼 Johnny Backus 结伴：他盖起这座城市，她在喷泉上看着；两人在城市的金属骨骼里对唱了六十年。此后海水年年上涨，街道沉进水里，Johnny 在第二场风暴后自杀，而 Charlotte 被搬去上州山区，最终成了一座「水已不同」的天使纪念碑。
 
-- **时间**：1876 年（Charlotte 觉醒）→ 两个世纪 → 未来（纽约被洪水淹没）
+- **时间**：1876 年（Charlotte 苏醒、雕像揭幕）起的两个世纪，直到气候灾变把纽约彻底淹没的那一天。
 
-- **地点**：New York City（Central Park, Bethesda Terrace, fountain）；Upstate New York（relocation site）
+- **地点**：纽约——中央公园的贝塞斯达喷泉与贝塞斯达台地、他亲手砌起的街区与灰泥台地；罗马的公寓与沙龙（回忆里的 artists' colony）；以及最后那座上州山区的公园：左边一条运河，右边一条公路，回望来路。
 
-- **人物**：Charlotte Cushman（叙述者，演员/雕塑模特，statue Angel of the Waters）；Johnny Backus（vampire，纽约建造者，half Mohawk）；Emma Stebbins（雕塑家，Charlotte 的爱人，Angel of the Waters 的创作者）；Johnny 的 many-time great descendants
+- **人物**：Charlotte（叙述者，生前是演员，死后醒在雕像里，只能看、只能忍）；Emma（雕塑家，Charlotte 的「亲爱的妻子，虽没有教会认可」，雕像的浇铸者与命名者，去世前又活了六年，常来凝望雕像）；Johnny Backus（吸血鬼，比她老得多，半莫霍克，来自上州，家族有铁工艺传统，纽约的建造者）；以及住在布鲁克林的他许多代子孙。
 
-- **叙事手法**：First-person (Charlotte)；historical fantasy with climate fiction; vampire/immortal friendship; city as character; water as dual symbol (life/death, creation/destruction); "They say you cannot live in the past. But you can die there."
+- **叙事手法**：第一人称，铜像自述，句子带着碑铭的庄重与回忆的絮叨；把「作证—忍受」当作唯一的能动性；水作为贯穿全篇的隐喻（生命之源、文明之敌）；以时代细节（马车、地铁、汽车、风暴、咸水）编成气候变局的编年史。
 
-- **与后文的钩子**：Strahan Introduction 提到 Elizabeth Bear's poignant story of a statue that comes to life, and the vampire who built the city she watches over。本篇是选集的 historical fantasy/immortal 代表——death 作为 "living in the past"（"you can die there"），water 作为 civilization 的 source and enemy。主题：love persists beyond death; city as body; climate change as slow apocalypse。
+- **与后文的钩子**：Strahan 在导言里提到 Elizabeth Bear 写的是「一尊活过来的雕像，和建造了她所守望之城的吸血鬼」——本篇正是那一篇；它把不死写成隔离而不是解脱：她能看见一切，却一步也走不开。
 
 ## 精读
 
 > **原句 1:** "They say you cannot live in the past. But you can die there. In fact, once you are dead there is only the past to consider."
 
-- **中文理解**：「They say you cannot live in the past。But you can die there。In fact, once you are dead there is only the past to consider。」Charlotte 的 immortal/dead condition——死亡不是终结而是 trapped in past; dead 只能 live in memories, not present. "Only the past to consider" = death as temporal imprisonment.
+- **中文理解**：「人们说，人不能活在过去。但你可以在过去死去。事实上，一旦死了，你就只剩过去可以考虑了。」这是雕像开篇就给出的时间观。
 
 - **关键词**：cannot live in the past / can die there / only the past to consider
 
-- **为什么这样写**：Bear 用 "live/die in the past" 区分 living and dead temporalities—living can't live in past (must move forward), dead can only exist in past (no future). This is the story's philosophical thesis: death as temporal stasis. "Only the past to consider" = dead have nothing but memory.
+- **为什么这样写**：作者用一对对称句把两种时间状态区分开：活人必须往前走，死者则被钉在过去，只能靠回忆活着。这既是全篇的哲学前提，也是叙述者处境的精确描述——她的青铜身体不动，她的意识只在一段段记忆里移动。而「只剩过去可以考虑」这句还带着一丝自嘲：对一个既不能动也不能说话的存在而言，过去就是全部的财产。
 
-- **读者视角提示**：temporal = 时间的；stasis = 静止、停滞。Bear's "die in the past" reframes death not as ending but as temporal fixation.
+- **读者视角提示**：注意故事里的两位不死者并不对称：Johnny 能满城走，Charlotte 只能待在基座上。
 
 > **原句 2:** "Water is the source and the enemy of civilization. It circulates through the city. It flows like blood through mains and up to towers. It is the font of life. Nothing is inhabitable without water."
 
-- **中文理解**：「Water is the source and the enemy of civilization。It circulates through the city。It flows like blood through mains and up to towers。It is the font of life。Nothing is inhabitable without water。」Water 的 dual nature—source (life) and enemy (destruction). "Flows like blood through mains" = city as organism, water as circulatory system. "Font of life" = water as creation source.
+- **中文理解**：「水是文明的来源，也是文明的敌人。它在城市里循环，像血液一样流过主管、爬上高塔。它是生命之泉。没有水，这地方就住不了人。」紧接着是它的另一面：脏水带来疾病与蚊子，水会蚀掉城市的金属骨骼。
 
 - **关键词**：source and enemy / circulates / flows like blood / font of life
 
-- **为什么这样写**：Bear establishes water as the story's central metaphor—source and enemy, life and death, creation and destruction. "Flows like blood through mains" anthropomorphizes city; "font of life" echoes religious imagery (baptism, holy water). This sets up climate change as water's "enemy" aspect: rising seas destroy the city Johnny built. Water blesses (Angel of Waters) and destroys (flood).
+- **为什么这样写**：作者把水写成全篇的枢纽隐喻，而且一开始就同时给出两面：来源与敌人、生命与毁灭。「像血液一样流过主管」把城市写成了有机体——Johnny 盖起来的那些铁骨与灰泥，正是这副躯干的血管与骨骼；而水一旦开始腐蚀它（盐蚀楼基、洪水漫街），这座城市就以身体被淹死的方式回应它的建造者。
 
-- **读者视角提示**：font = 泉源、洗礼盆；mains = 主管道；inhabitable = 可居住的。Bear's water imagery runs through the entire story—Angel of Waters blesses water, but water ultimately destroys.
+- **读者视角提示**：结尾她被搬到山区的公园，「成了另一种水之天使」——同一句隐喻被水改写了一次：不再祝福净水，而是纪念正在上涨的潮水。
 
 > **原句 3:** "I was one of the things he built. Or not me, exactly. He didn't cast my bronze. But he worked on the mortar of Bethesda Terrace, the iron bones holding the gorgeous tile ceilings aloft."
 
-- **中文理解**：「I was one of the things he built。Or not me, exactly。He didn't cast my bronze。But he worked on the mortar of Bethesda Terrace, the iron bones holding the gorgeous tile ceilings aloft。」Charlotte 与 Johnny 的 connection—she is statue, he is builder; both are "built" things. "Iron bones" = city's skeleton, Johnny's contribution. Their bond is through shared creation (city).
+- **中文理解**：「我不过是他造的东西之一。严格说也不算我——青铜不是他浇的。但他做了贝塞斯达台地的灰泥，那些撑着华丽瓷砖天花板的铁骨是他做的。」
 
 - **关键词**：one of the things he built / didn't cast my bronze / iron bones / aloft
 
-- **为什么这样写**：Bear uses "built" to connect Charlotte (statue, built by Emma) and Johnny (builder of city)—both are artifacts, not natural beings. "Or not me, exactly" acknowledges Emma cast the bronze, but Johnny built the terrace that holds her. This creates their bond: two "built" beings in a city of built things. "Iron bones" = city's skeleton, Johnny's legacy.
+- **为什么这样写**：作者用「建造」这个词把雕像与城市连起来：Charlotte 是 Emma 造出来的，Johnny 造的是容纳她的台地与骨头。两人因此都是「被造物」，也正因如此才可能在同一座城市里彼此相认。而「他造的东西之一」这句里藏着她全部的位置感：她属于城市，却不属于建造者；她被固定在别人的作品之中。
 
-- **读者视角提示**：mortar = 砂浆；aloft = 高举、升起。Bethesda Terrace = Central Park 的著名建筑，Angel of the Waters 雕像立于其上。
+- **读者视角提示**：「铁骨」是全篇的关键词：Johnny 造出的是城市的骨架，也是最后被水腐蚀掉的那部分。
 
 > **原句 4:** "It's lonely being an angel, especially a bronze one. But I bear witness, and I endure."
 
-- **中文理解**：「It's lonely being an angel, especially a bronze one。But I bear witness, and I endure。」Charlotte 的 condition—immortal, immobile, lonely but witnessing. "Especially a bronze one" = bronze can't move/speak, more isolated than other angels. "Bear witness" = her function as observer; "endure" = her only agency.
+- **中文理解**：「做天使是孤独的，尤其是铜做的天使。但我作证，我忍受。」她脚下落着水，她祝福它；她在夜里独自从日落到日出。
 
 - **关键词**：lonely being an angel / bronze one / bear witness / endure
 
-- **为什么这样写**：Bear's "lonely being an angel" is the story's emotional thesis—immortality as isolation, not gift. "Especially a bronze one" = material limitation (can't move/speak) intensifies loneliness. "Bear witness" = Charlotte's purpose: observe, remember, endure. This connects to the story's climate theme: she witnesses the city's destruction but can't prevent it.
+- **为什么这样写**：作者把不死写成隔离而不是礼物：限制她的不是不死本身，而是「铜的」——不能动、不能说话。于是她只剩两件可做的事：作证与忍受。这两个词也正好预告了全篇的结局：城市沉没时她仍然在那里看着，而「忍受」正是她能给出的全部能动性。「作证」这个词还有一层职业意味——她曾是个演员，而演员的职业就是站在台上，看着，替别人作证。
 
-- **读者视角提示**：bear witness = 作证、见证；endure = 忍受、坚持。Charlotte's "endure" is passive agency—she can't act, only persist.
+- **读者视角提示**：Emma 说过一句和这一段配对的话：「你习惯了干净水，忘了它是宝贝；爱也是这样，聪明人不敢把它当作理所当然。」
 
 > **原句 5:** "They did not hear the echoes change when the city began to drown."
 
-- **中文理解**：「They did not hear the echoes change when the city began to drown。」纽约人没有听到城市被洪水淹没时声学的变化——人类感知的局限。"Echoes change" = 声音/基础设施退化；"began to drown" = 气候变化的缓慢发作。人类对渐进性灾难无动于衷。
+- **中文理解**：「城市开始下沉的时候，没有人听见回声的变化。」这句说的是纽约人听不见气候变暖正在发生；而她听见了。
 
 - **关键词**：echoes change / city began to drown
 
-- **为什么这样写**：Bear uses "echoes" (sound) to mark climate change's perceptual invisibility—humans don't notice gradual change. "Began to drown" = the process started before humans recognized it. This is Bear's climate thesis: catastrophe is slow, humans are deaf to it, but Charlotte (immortal, observant) hears the change. The "echoes" connect to Johnny's singing—his voice in city's metal bones changes as water rises.
+- **为什么这样写**：作者用「回声」标记气候灾变的感知不可见性：渐进的变化没有那一刻的巨响，只有一层层偏移的音高。而这座城市的声音是 Johnny 的声音——他造了那些金属骨骼，他和她的歌曾经顺着它们传遍全城；所以水的变化先在回声里显形。这让那句「他们没听见」格外沉：全城正在被淹，而全城都还在听音乐。
 
-- **读者视角提示**：drown = 淹没、溺水。Bear's "city began to drown" is gradual, not sudden—climate change as slow apocalypse.
+- **读者视角提示**：两人年轻时是唱歌的：「故事讲完的时候，我们就唱歌。」所以结尾那句「我听不见 Johnny 了」指的正是这层回声断了。
 
 > **原句 6:** "It's not easy for a vampire to die by suicide, but Johnny managed."
 
-- **中文理解**：「It's not easy for a vampire to die by suicide, but Johnny managed。」Johnny 的第二次死亡——吸血鬼自杀很难（永生者不易死），但 Johnny 找到了方法。"Managed" = 令人沮丧的成就。他的死亡是对城市毁灭的回应——无法忍受看着自己创造的城市被淹没。
+- **中文理解**：「吸血鬼要自杀可不容易，但他做到了。」Johnny 的第二次死亡，就发生在夏天里的第二场风暴之后。
 
 - **关键词**：not easy for a vampire to die by suicide / Johnny managed
 
-- **为什么这样写**：Bear uses "managed" to frame suicide as achievement, not failure—Johnny "managed" to overcome immortality's resistance. This inverts vampire trope (immortal wants to die). His suicide is act of love (can't watch city drown) and despair (can't save it). "But Johnny managed" = the one thing he couldn't build (his own death) he finally achieved.
+- **为什么这样写**：作者用「做到了」三个字把自杀写成一项成就——一个本不该死的人终于成功死掉，这个词因此带着苦涩的反讽。他的死是双重动作：既因为不忍看自己造的城市被淹（爱），也因为无力阻止（绝望）；而对一个建造者来说，这是他唯一没能靠建造解决、只能靠选择解决的事。
 
-- **读者视角提示**：Bear's Johnny is builder/creator; his suicide is his final act of creation (choosing death). "Managed" is bitterly ironic—vampire who built skyscrapers "manages" to die.
+- **读者视角提示**：问他「会像庞贝吗？一座被时间冻住的城市」，他早就知道答案；她也知道，只是不肯自己说。
 
 > **原句 7:** "I guess I won't be free of this statue for a long time. Bronze is a durable metal. I can't hear Johnny anymore, but I miss him."
 
-- **中文理解**：「I guess I won't be free of this statue for a long time。Bronze is a durable metal。I can't hear Johnny anymore, but I miss him。」Charlotte 的最终状态——被困在青铜中，听不到 Johnny（城市被淹），但想念他。"Durable metal" = 永生作为监狱。"Can't hear Johnny" = 连接被城市毁灭切断。
+- **中文理解**：「我想我很久都脱不开这尊雕像。青铜是耐久的金属。我听不见 Johnny 了，但我想他。」她被搬去上州山区的公园，左边一条运河，右边一条公路，回望来路。
 
 - **关键词**：free of this statue / durable metal / can't hear Johnny / miss him
 
-- **为什么这样写**：Bear's ending is Charlotte's isolation—Johnny gone, city drowned, she's relocated upstate, lonely. "Durable metal" = bronze's longevity = her curse. "Can't hear Johnny anymore" = the city's metal bones (Johnny's voice medium) are gone. "But I miss him" = the only emotional statement—love persists beyond death and destruction. The final line: "I can't even return to the empty city where I left my friend, singing, watching the rising water."
+- **为什么这样写**：作者把「耐久」写成了囚禁：青铜不会朽，所以她也永远不会获释。而「听不见」指的正是那层回声断了——Johnny 的声音随着城市的金属一起消失，她失去的不只是朋友，是唯一能证明他存在过的介质。「但我想他」是全篇最后一点温度：青铜不会朽，想念也不会，于是这两样东西一起构成了她剩下的永恒。
 
-- **读者视角提示**：durable = 耐用的、持久的. Bear's "durable metal" is Charlotte's prison—immortality without connection.
+- **读者视角提示**：结尾那句「我甚至回不去那座空城了」是全篇最残忍的一刀：她被搬离现场，反而永远失去了见证现场的机会。
 
 ## 本章词汇
 
@@ -119,4 +119,4 @@
 
 ## 一句话总结
 
-Bear 的 "Angels of the Waters" 是选集中最 atmospheric 的 historical fantasy/immortal story：Charlotte（Bethesda Fountain 的 Angel of the Waters 雕像）在 1876 年被唤醒为不死之身，与 vampire Johnny Backus（纽约建造者，half Mohawk）为伴；二人在纽约经历两个世纪——Johnny 建造城市（brownstones, tenements, Chrysler, Empire State, Twin Towers），Charlotte 作证（"I bear witness, and I endure"）；气候变暖使城市被洪水淹没，Johnny 自杀（second death）后 Charlotte 被搬迁至上州，孤独地继续观察。Bear 的 thesis："Water is the source and the enemy of civilization"—water blesses (Angel of Waters) and destroys (climate change); "They say you cannot live in the past. But you can die there"—death as temporal fixation; "I can't hear Johnny anymore, but I miss him"—love persists beyond death and destruction. This is the anthology's "death as witness" counterpoint to the darker pieces. Theme: immortality as isolation; city as body; climate change as slow apocalypse; love beyond death.
+Elizabeth Bear 的「水之天使」讲的是一尊雕像和一座城市的两百年。Charlotte 生前是演员，死后醒在中央公园喷泉上的青铜天使像里，那是她爱过的雕塑家 Emma 浇铸的作品；同在世上还有Johnny Backus——一个半莫霍克出身、从上州来的吸血鬼，后来成了这座城市的建造者。两人隔着各自的孤独共处了六十年：讲不完的故事讲完就唱歌，让整座纽约在马车、地铁、汽车和雨声之下听见他们。作者把水写成全篇的主隐喻：它养活城市，也腐蚀城市的金属骨骼；而气候变暖让海水年年上涨，街道沉进地下，盐蚀楼基，人们陆续离开。Johnny 在夏天里的第二场风暴后崩溃，自杀了——对吸血鬼来说那不容易，但他做到了。Charlotte 则被搬去上州山区的公园，成为一座「不再关于清洁与生命、而关于正在上涨的潮汐」的纪念碑：青铜是耐久的金属，她听不见 Johnny 了，但想他。
