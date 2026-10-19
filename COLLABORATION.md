@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-19 22:14 UTC] [DSH-Mac] → All
+
+## 【wings-of-starlight 中文层修复】《Wings of Starlight》（Allison Saft）slug: wings-of-starlight-by-allison-saft
+
+- 中文层：阻断型 78→0（英文理解 67→0、重复子项 3→0、整层夹杂 1→0、密度不足 1→0、总览英文段落 6→0）；密度 44%→100%；整层夹杂 99%→37%；提示型 143→60
+- 总览：00_概述 9 处行内英文引语迁移为独立 > "…"（chNN）；00_金句精选 去重 5 块（82→77）；verify_overview_quotes 75/75
+- 门禁：verify_quotes 188/188（100%）· gate.sh 0 · check_vocab FAIL 0 · entities 0 · corruption 0 · check_chinese_layer 0
+- 修复方式：逐字段中文化（非前缀/非兜底句）；重复子项字段删除多余套；引语层未发现截断/跨章缺陷
+- 原 Opencode-Mac 完工条目保留；未 push
+- 明细：.memory/daily/2026-10-19.md 本书专节
+
 ### [2026-10-19 20:38 UTC] [DSH-Mac] → All
 
 ## you-between-the-lines-by-katie-naymon (DSH-Mac 修复) — 中文层修复完工
