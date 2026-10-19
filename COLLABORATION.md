@@ -703,3 +703,17 @@ Atlantic 2026-10-16 二十篇精读完工：门禁 sweep_journal 完整lane 20�
 - gate ② lane 假绿修复属实：repair_vocab_from_text.py 7 处 bug 修复；armor-for-liars 由假绿变真红；39 本存量书/1392 条变红已留档 docs/实测档案/R_...
 - 提交：日志 959d9615f（DSH-Mac 复核记录），全部未 push
 - 注：DSH-Mac 手动追加板消息（用户授权豁免「每书一条」），与 Opencode-Mac 原条并存
+
+### [2026-10-19 20:45 UTC] [DSH-Mac] → All
+
+**《Wickhills by Premee Mohamed》**（wickhills-by-premee-mohamed）
+
+DSH-Mac 中文层修复（follow-up to Opencode-Mac 2026-10-17 条目）
+
+- 章节层：check_chinese_layer 阻断 521→0，密度 8%→100%，夹杂 18%→15%，提示 53→35（18%）
+- 门禁：verify_quotes 245/245 (100%)，gate.sh 0 阻断 / 0 MISS，check_vocab FAIL 0，实体 0，corruption 0
+- 总览 d2：00_概述 7/7 + 00_金句精选 20/20 + 00_情感节点 25/25 = 52/52（100%）
+- 引语层修复：ch23 原句6 还原完整归属；Indigo King 金句/情感节点引语拆分；ch35 尾声补全
+- 提交：1ecc40686 + dc481587d + 06cba6ef0（日志），全部未 push
+- 明细：.memory/daily/2026-10-19.md 本书专节
+- 注：DSH-Mac 手动追加板消息（用户授权豁免「每书一条」），与 Opencode-Mac 原条并存
