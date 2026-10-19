@@ -7,7 +7,7 @@
 - **地点**：神经科技公司（未命名）的 Animal Housing Room (AHR)、procedure room、research area、lab tech 的 apartment
 - **人物**：lab tech（未命名叙述者，veterinary tech， lied on résumé）；Gilda（first sacrifice macaque）；Martha Chou（data scientist，唯一与 lab tech 平等对话的科学家）；Alberto（founder，billionaire）；Carol Romine（human volunteer，blind，receives X2）；Junebug（longest-lived macaque，bites lab tech）；Henry（sacrificed macaque）；Marty（sacrificed macaque）；Subject M-2、J-3（sacrificed）；Carol's granddaughter（6 岁）
 - **叙事手法**：第三人称 limited（"the lab tech"）—— unusual for short story；clinical, detached voice 渐渐被 emotional reality 穿透；time compression（"Time became slippery"）；ending 的 "He knew what was going to happen next. The knowledge was a gift." 与 opening 镜像
-- **与后文的钩子**：本篇是 Strahan Introduction 中提到的 "Daryl Gregory's stark horror tale of animal experimentation"。Theme: animal suffering, corporate science, the ethics of sacrifice, "what the dead have seen"（shared visual data creates collective memory of death）。Death as data transfer—monkeys inherit dead monkeys' visual experience of the lab tech as killer.
+- **与后文的钩子**：本篇是 Strahan Introduction 中提到的 Daryl Gregory 的 stark horror tale of animal experimentation。主题：动物苦难、企业科学、牺牲的伦理、"死者所见"（共享视觉数据创造死亡的集体记忆）。死亡作为数据传输——猴子继承死猴的视觉经验，将实验员识别为杀手。
 
 ## 精读
 
@@ -96,4 +96,4 @@
 
 ## 一句话总结
 
-Gregory 的《Blind Monkey》是选集中最 visceral 的 science fiction horror：在神经科技公司，lab tech（未命名，lied on résumé）负责 X2 视觉芯片实验的 macaques；随实验加速（training 12→8→4 weeks，3 procedures→1），动物大量死亡，但 X2 的 data transfer 机制让 dead monkeys' visual experience（包括 lab tech's face as killer）forward 到 living ones。Lab tech 通过 replay videos 发现 "twin polygons"（his glasses）在 feed 中反复出现，意识到 monkeys 已通过 shared data 认识他为 killer。Carol Romine（blind human recipient）在媒体事件中因 shared visual memory 攻击 lab tech。Lab tech 最终打开所有 cage 门锁，让 animals 自由，whistleblows data。Story's core thesis: "What if we've taught them?"—humans have taught animals to know death through shared suffering; death becomes data, suffering becomes collective memory. The circular structure (ignorance was a gift → knowledge was a gift) shows moral growth from complicity to liberation.
+Gregory 的《Blind Monkey》是选集中最 visceral 的 science fiction horror：在神经科技公司，lab tech（未命名，lied on résumé）负责 X2 视觉芯片实验的 macaques；随实验加速（training 12→8→4 weeks，3 procedures→1），动物大量死亡，但 X2 的 data transfer 机制让 dead monkeys' visual experience（包括 lab tech's face as killer）forward 到 living ones。Lab tech 通过 replay videos 发现 "twin polygons"（his glasses）在 feed 中反复出现，意识到 monkeys 已通过 shared data 认识他为 killer。Carol Romine（blind human recipient）在媒体事件中因 shared visual memory 攻击 lab tech。Lab tech 最终打开所有 cage 门锁，让 animals 自由，whistleblows data。核心论点："What if we've taught them?"——人类通过共享苦难教会动物认识死亡；死亡成为数据，苦难成为集体记忆。循环结构（ignorance was a gift → knowledge was a gift）展示从 complicity 到 liberation 的道德成长。

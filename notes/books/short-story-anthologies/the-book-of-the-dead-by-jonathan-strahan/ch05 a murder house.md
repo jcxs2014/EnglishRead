@@ -7,7 +7,7 @@
 - **地点**：Stokes County, North Carolina（Lawson farm、murder house、tobacco barn、 woods with shortleaf pine）
 - **人物**：Charlie Lawson（农民/killer）；Fannie Lawson（妻，37）；Marie（17，长女，怀孕）；Carrie（12）；Maybelle（7）；James（4）；Raymond（2）；Mary Lou（4 个月）；Arthur（16，长子，被送走而幸存）；Marion Lawson（Charlie 的兄弟，开放旅游景点）；Lawson cousin（导游，rickety, sallow-faced girl）；"you"（游客/Charlie 的 dream self）
 - **叙事手法**：第二人称 "you"——从游客视角滑入 killer 的 nightmare；historical fact + folklore + surreal dream；"you" 的 gradual identification with Charlie（"You have closed her eyes"）；repetition of "You move closer" / "You cannot pull away" 显示 compulsion
-- **与后文的钩子**：Strahan Introduction 中未特别点名，但本篇是选集的 horror 代表——"death is never abstract—it is the very thing you can't look away from." Theme: voyeurism of violence, complicity of spectator, historical trauma commodified as tourism, the impossibility of separating observer from perpetrator.
+- **与后文的钩子**：Strahan Introduction 中未特别点名，但本篇是选集的 horror 代表——"death is never abstract—it is the very thing you can't look away from." 主题：暴力的窥淫癖、旁观者的 complicity、历史创伤商品化为旅游、观察者与施害者无法分离。
 
 ## 精读
 
@@ -99,4 +99,4 @@
 
 ## 一句话总结
 
-Duncan 的《A Murder House》是选集中最 disturbing 的 horror piece：基于 1925 年真实惨案（Charlie Lawson 圣诞节屠杀全家后自杀），Duncan 以第二人称 "you" 描写游客参观 murder house 旅游景点的经历——排队时的 gossip（foreigner conspiracy theory、incest rumor）、tour guide 的 flat narration、raisin cake souvenir—然后 "you" 滑入 Charlie 的 nightmare，从 killer perspective 重历屠杀（tobacco fields → barn → house → nursery），最终 "The black hole widens for you." Story's core thesis: voyeurism of violence is complicity—tourist becomes killer through identification. Duncan's matter-of-fact tone makes horror emerge from flat narration; the second-person POV collapses observer/perpetrator boundary. The ending refuses resolution: death as void that consumes both perpetrator and spectator. "You've walked in a circle, just like Charlie Lawson."—the murder house is not done with you.
+Duncan 的《A Murder House》是选集中最 disturbing 的 horror piece：基于 1925 年真实惨案（Charlie Lawson 圣诞节屠杀全家后自杀），Duncan 以第二人称 "you" 描写游客参观 murder house 旅游景点的经历——排队时的 gossip（foreigner conspiracy theory、incest rumor）、tour guide 的 flat narration、raisin cake souvenir—然后 "you" 滑入 Charlie 的 nightmare，从 killer perspective 重历屠杀（tobacco fields → barn → house → nursery），最终 "The black hole widens for you." 核心论点：暴力的窥淫癖即 complicity——游客通过认同成为杀手。Duncan 的 matter-of-fact tone 使 horror 从 flat narration 中浮现；第二人称 POV 坍缩观察者/施害者边界。结局拒绝 resolution：死亡作为 void，吞噬施害者与旁观者。"You've walked in a circle, just like Charlie Lawson."——murder house 还没完。
