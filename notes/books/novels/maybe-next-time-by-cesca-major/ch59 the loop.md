@@ -9,20 +9,20 @@
 - **一句话概括**：循环重新开始——"The sound of the alarm. I am on my side, facing the window. The hiss of a bus. A child laughing in the street. I open my eyes. A slight crack in the curtains, showing gray clouds. I turn over."——与 ch02 的开头几乎相同，但 Emma 已经不同。
 - **情感弧线位置**：present-day 循环的重启 (the loop restarts—Emma wakes up to the same morning, but she has changed)
 - **Tropes 兆现/反转**：loop repetition (the loop restarts—the same morning, the same sounds, the same crack in the curtains); "I open my eyes" as Emma's awakening—she's changed; "I turn over" as the loop's continuation—Emma continues
-- **人物弧线**：Emma 从 "that was the last thing I remember before I fell asleep" (ch57) 到 "I open my eyes" (ch59)——she wakes up to the same morning, but she has changed
+- **人物弧线**：Emma 从 ch57 的 "that was the last thing I remember before I fell asleep" 到本章的 "I open my eyes"——she wakes up to the same morning, but she has changed
 - **叙事手法**：close third (Emma); loop repetition (the loop restarts—the same morning, the same sounds); "The sound of the alarm" as the loop's trigger; "I open my eyes" as Emma's awakening; "I turn over" as the loop's continuation
 
 ## 精读
 
 > **原句 1:** “The sound of the alarm. I am on my side, facing the window. The hiss of a bus. A child laughing in the street. I open my eyes. A slight crack in the curtains, showing gray clouds. I turn over.”
 
-**中文理解**："The sound of the alarm. I am on my side, facing the window. The hiss of a bus. A child laughing in the street. I open my eyes. A slight crack in the curtains, showing gray clouds. I turn over."
+**中文理解**：闹钟响了。我侧身躺着，面朝窗户。公交车的嘶嘶声。街上有孩子在笑。我睁开眼睛。窗帘有一道细缝，露出灰云。我翻了个身。——循环重启。同一个早晨，同一批声音，同一道窗帘缝。但这一次醒来的 Emma 已经不一样了：她原谅了 Hattie、接纳了 Dan 的死、也知道了 Dan 的爱。这是全书最后一段，读者与 Emma 一起站在这个早晨的门口。
 
 **关键词**：The sound of the alarm / I am on my side, facing the window / The hiss of a bus / A child laughing in the street / I open my eyes / A slight crack in the curtains / I turn over
 
-**为什么这样写**：The sound of the alarm = the loop's trigger—the alarm wakes Emma. "I am on my side, facing the window" = Emma's position—she's on her side. "The hiss of a bus" = the sound—a bus hisses. "A child laughing in the street" = the sound—a child laughs. "I open my eyes" = Emma's action—she opens her eyes. "A slight crack in the curtains, showing gray clouds" = the sight—gray clouds. "I turn over" = Emma's action—she turns over. This is the loop restarting: the same morning, the same sounds, the same crack in the curtains. But Emma has changed. The reader knows: Emma has learned to live, forgive, and love. The loop continues, but Emma is different. "I turn over" = Emma's continuation—she continues. The novel's structure is circular: ch02 (the accident) → ch46 (despair) → ch48 (gift) → ch56 (forgiveness) → ch57 (perfect day) → ch58 (Dan's letter) → ch59 (loop restarts). The novel's thesis: the loop is not about preventing Dan's death; it's about Emma learning to live. Emma has learned. The loop continues, but Emma has changed. The novel ends where it began: the same morning, the same sounds. But Emma is different. The reader knows: Emma will continue the loop, but she will live differently. She will savor the small moments, help others, forgive Hattie, and love Dan. The loop is not a trap; it's a gift. "I turn over" = Emma's continuation—she continues. The novel ends with Emma turning over, ready to face another day. The loop continues, but Emma has changed.
+**为什么这样写**：全段由六个短句构成，每句都是一行，且**全部是感官描写**——声音、声音、声音、动作、视觉、动作。作者用一连串听觉开场的句子模拟「从睡眠里一层层浮上来」的过程：闹钟（人造声）→ 公交（人造声）→ 孩子的笑（活人的声），一条比一条更有人味。“I open my eyes” 是整段唯一的主动动作，前面全是听。“A slight crack in the curtains, showing gray clouds” 里的 slight 与 crack 写出一个不完美的视野——她只看见一条缝，不是整个天空；这既是「刚醒」的生理状态，也像是她刻意不把早晨看全。“I turn over” 单独成行结尾，与 ch17、ch31、ch36、ch44 那几次循环重启的开头是同一个动作——同一个动作，**不同的人**。结构上是圆环，内容上不是：ch02 醒来的 Emma 什么都不知道，ch59 醒来的 Emma 知道全部却选择继续。这一段的每个词都极简，重量全在「这是第几次」上。
 
-**读者视角提示**：The sound of the alarm = the loop's trigger; "I am on my side, facing the window" = Emma's position; "The hiss of a bus" = the sound; "A child laughing in the street" = the sound; "I open my eyes" = Emma's action; "A slight crack in the curtains, showing gray clouds" = the sight; "I turn over" = Emma's action; this is the loop restarting—the same morning, the same sounds, the same crack in the curtains. But Emma has changed.
+**读者视角提示**：六个短句全是感官描写，模拟从睡眠里浮上来的过程；“I open my eyes” 是唯一的主动动作；“I turn over” 在 ch17 / ch31 / ch36 / ch44 反复出现——**同一个动作，不同的人**；结构是圆环，内容不是：ch02 的 Emma 什么都不知道，ch59 的 Emma 知道全部却选择继续。
 
 ## 词汇
 
@@ -61,6 +61,8 @@
 循环重新开始——"The sound of the alarm. I am on my side, facing the window. The hiss of a bus. A child laughing in the street. I open my eyes. A slight crack in the curtains, showing gray clouds. I turn over."——与 ch02 的开头几乎相同，但 Emma 已经不同。
 
 ## 读者视角提示
-
-- **"The sound of the alarm. I am on my side, facing the window. The hiss of a bus. A child laughing in the street. I open my eyes. A slight crack in the curtains, showing gray clouds. I turn over."**：The sound of the alarm = the loop's trigger—the alarm wakes Emma. "I am on my side, facing the window" = Emma's position. "The hiss of a bus" = the sound. "A child laughing in the street" = the sound. "I open my eyes" = Emma's action. "A slight crack in the curtains, showing gray clouds" = the sight. "I turn over" = Emma's action. This is the loop restarting—the same morning, the same sounds, the same crack in the curtains. But Emma has changed.
-- **loop structure**：This chapter is the novel's closing—the loop restarts. The novel's structure is circular: ch02 (the accident) → ch46 (despair) → ch48 (gift) → ch56 (forgiveness) → ch57 (perfect day) → ch58 (Dan's letter) → ch59 (loop restarts). The novel's thesis: the loop is not about preventing Dan's death; it's about Emma learning to live. Emma has learned. The loop continues, but Emma has changed. "I turn over" = Emma's continuation—she continues. The novel ends with Emma turning over, ready to face another day. The loop is not a trap; it's a gift. The reader knows: Emma will continue the loop, but she will live differently. She will savor the small moments, help others, forgive Hattie, and love Dan. The loop continues, but Emma has changed. The novel's final words: "I turn over." = Emma's continuation. The novel ends where it began: the same morning, the same sounds. But Emma is different. The reader knows: Emma has learned to live. The loop is not a trap; it's a gift.
+- **“The sound of the alarm. I am on my side, facing the window.”**：全书最后一段用最简的感官描写开场，把读者从睡眠里带出来。
+- **“I open my eyes”**：整段唯一的主动动作——前面全是听。
+- **“A slight crack in the curtains, showing gray clouds”**：只看一条缝、不看整个天空，既是刚醒，也是刻意不把早晨看全。
+- **“I turn over”**：与 ch17 / ch31 / ch36 / ch44 循环重启的开头是同一个动作——**同一个动作，不同的人**。
+- **loop structure**：全书收束。结构上是圆环（同一个早晨、同样的声音），内容上不是：ch02 醒来的 Emma 什么都不知道，ch59 醒来的 Emma 原谅了 Hattie、接受了 Dan 的死、也收下了 Dan 的信——她知道全部，却选择继续。循环不再是陷阱，它是一份礼物。

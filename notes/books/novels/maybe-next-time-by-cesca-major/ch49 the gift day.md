@@ -6,43 +6,43 @@
 
 ## 本章导航
 
-- **一句话概括**：Emma 的"礼物"日——与 Dan 做爱、送孩子上学、警告 Poppy、读 Ernestina 的书稿、给 Jurek 妈妈送有声书、在咖啡馆享受正常生活；Emma 开始重新欣赏小事物，"Today you are happy."
+- **一句话概括**：Emma 的"礼物"日（present-day 循环 gift arc #1）——她和 Dan 躺在床上时主动亲他、庆祝周年纪念；她坚持全家一起吃早饭、步行送两个孩子上学；上学路上她察觉 Poppy 不对劲，答应不把事情发到社交媒体，约好「回头好好谈」；Dan 撕掉那封让 Emma 心碎的旧信被丢进垃圾桶，Emma 看着碎纸片第一次笑了。
 - **情感弧线位置**：present-day 循环的 gift arc #1 (Emma's first "gift" day—acceptance in action)
-- **Tropes 兆现/反转**：loop repetition with variation (Emma's "gift" day—sex, walks, warnings, reading, calling editors); "A gift" as recurring motif; "Today you are happy" as Emma's realization
-- **人物弧线**：Emma 从 "I had to try" 到 "Today you are happy"——her first successful "gift" day; Dan (through Emma's eyes) = the man she's rediscovering; Poppy = the daughter she's reconnecting with; Miles = the son she's listening to
-- **叙事手法**：close third (Emma); loop repetition (same morning, different outcome—Emma chooses positivity); "A gift" as recurring motif; "Today you are happy" as the chapter's closing; text message coda (Dan, Jas, CharterHayley)
+- **Tropes 兆现/反转**：loop repetition with variation (Emma's "gift" day—sex with Dan, walks kids to school, tells Poppy, reads pages, calls editors); "A gift" as recurring motif; 撕碎旧信 as the chapter's turning image
+- **人物弧线**：Emma 从 "actively recalling the things I had gone to sleep promising myself" 到与家人共度一个早晨——her first successful "gift" day; Dan (through Emma's eyes) = the man she's rediscovering; Poppy = the daughter she's reconnecting with; Miles = the son she's listening to
+- **叙事手法**：close third (Emma); loop repetition (same morning, different outcome—Emma chooses positivity); "A gift" as recurring motif; 短句 "A gift." 反复出现 as the chapter's refrain; text message coda (Dan, Jas, CharterHayley)
 
 ## 精读
 
 > **原句 1:** “'Hey,' he said. 'Hey,' I smiled, actively recalling the things I had gone to sleep promising myself. A gift.”
 
-**中文理解**："Hey," he said. "Hey," I smiled, actively recalling the things I had gone to sleep promising myself. A gift.
+**中文理解**：现在线的「礼物日」第一格。同一个早晨又来了：Emma 醒来、翻过身，Dan 说了声「嘿」，她笑着回一声，同时主动回想自己睡前许下的那些承诺——今天要做的那些事。那三个字既是她给自己定的调子，也是这一天的判词。
 
 **关键词**：Hey / actively recalling / A gift
 
-**为什么这样写**：Hey = Dan's greeting—he wakes up. "Hey," I smiled = Emma's response—she smiles. "actively recalling the things I had gone to sleep promising myself" = Emma's intention—she's remembering her promises. "A gift" = Emma's mantra—she's framing the day as a gift. "I reached over and surprised Dan with a kiss. 'Happy Anniversary.'" = Emma's initiative—she kisses Dan. "He scooted down, his whole body lying warm next to mine" = Dan's response—he moves closer. "It was great sex and it felt like a much better way to start the day" = Emma's experience—she enjoys the intimacy. "reminding me that I loved him, the solid feel of him, the smell of his skin, the way he knew where to stroke, to tease, when to make me shiver and tremble" = Emma's rediscovery—she's remembering why she loves Dan. This is Emma's "gift" day beginning: she's choosing positivity and rediscovering Dan.
+**为什么这样写**：两个人的「嘿」紧挨在一起，是循环被改写后的第一个可见证据：同一个早晨、同一句招呼，可这一次后面接的不是崩溃而是许诺。“actively recalling” 里的 actively 是作者给的提示——她不是被动想起，是主动去取；而 “A gift.” 单独成段，句子前后都是空白，它不是对话的一部分，是 Emma 写给自己的一句判词，读者看得见它被放进心里。接下来 “I reached over and surprised Dan with a kiss” 把「主动」落实成动作：这一次是她先去吻他，而不是等着被吻；Dan 回的是 “Happy Dateversary.”——把 anniversary 和 date 混着说的一句玩笑，正是这个早晨的调子。
 
-**读者视角提示**：Hey = Dan's greeting; "actively recalling" = Emma's intention; "A gift" = her mantra; "I reached over and surprised Dan with a kiss" = her initiative; "It was great sex" = her experience; "reminding me that I loved him" = her rediscovery; this is Emma's "gift" day beginning.
+**读者视角提示**：actively = 主动地；recalling = 回想、取用；A gift. 在这一章里是独立成段出现的自我暗示，读者会看它一遍遍回来；Dateversary 是 Dan 造的混词，把「周年」和「约会」揉在一起。
 
 > **原句 2:** “'Poppy, can I ask you something?'”
 
-**中文理解**："Poppy, can I ask you something?"
+**中文理解**：送两个孩子上学的路上，Emma 叫住 Poppy，要跟她谈点事。她其实已经看出女儿不对劲——人发紧、眼睛乱瞟、注意力根本不在她身上——所以她只提一个「承诺」：今天不管发生什么，都不要在社交平台上发东西；随后约女儿晚点好好谈谈，因为她觉得自己已经不太知道女儿这些天在经历什么了。Poppy 点了点头，脸上的戒备松了一点点。
 
 **关键词**：Poppy, can I ask you something
 
-**为什么这样写**：Poppy, can I ask you something = Emma's approach—she asks Poppy. "She still looked jumpy, her focus not really on me as her eyes darted about the railings of the school" = Poppy's nervousness—she's jumpy. "How had I not picked up on this nervous energy?" = Emma's realization—she's been missing Poppy's signals. "Whatever happens today can you promise me something?" = Emma's request—she asks for a promise. "Just . . . just promise me you won't post anything on your phone on any social media sites." = Emma's warning—she asks Poppy not to post. "Can you do that for me?" = Emma's request—she asks for confirmation. "She nodded slowly and I leaned forward and hugged her tight." = Poppy's response—she nods. "Can we talk later? Properly. I feel like I hardly know what's going on with you these days." = Emma's invitation—she wants to talk. "Love you," I said, quickly, as she adjusted the rucksack on her back. "Love you too." = Emma and Poppy's exchange—love. This is Emma reconnecting with Poppy: she's noticed Poppy's nervousness and is trying to protect her.
+**为什么这样写**：这句问话很短，却挑在上学路的最后几分钟——Emma 知道接下来的整个白天都握在自己手里，问题必须在女儿走进校门之前问出来。问法的分寸更值得注意：她没问「你是不是被欺负了」，也没提那个平台和那个群，只问「能答应我一件事吗」；读者知道她心里已经有答案，而女儿不知道母亲已经知道，这层信息差让这句家常问话有了张力。随后 “She still looked jumpy” 里的 still 说明她不是今天才察觉——是循环让她终于肯睁眼看。落点在 “Something on her face shifted a fraction”：女儿在防备她，而这一分松动就是 Emma 这一天拿到的第一个进展。
 
-**读者视角提示**：Poppy, can I ask you something = Emma's approach; "She still looked jumpy" = Poppy's nervousness; "How had I not picked up on this nervous energy?" = Emma's realization; "promise me you won't post anything" = her warning; "Can we talk later? Properly." = her invitation; "Love you" = their exchange; this is Emma reconnecting with Poppy.
+**读者视角提示**：jumpy = 紧绷、坐立不安的；Whatever happens today 说明 Emma 心里已经预演过今天会发生什么；Can we talk later? Properly. 里的 Properly 是她想要一次真正的对话；Love you, I said, quickly 里那个 quickly 写出了她怕女儿不接。
 
 > **原句 3:** “Let’s have breakfast all together this morning,” I said.
 
-**中文理解**："Let's have breakfast all together this morning," I said.
+**中文理解**：早餐桌上，Miles 抱怨牛奶喝完了，Dan 出门买回来；Emma 说「今天早上我们一家人一起吃早饭吧」，还接着提议送两个孩子上学。这在过去的循环里是空白——四个多月里她大概只陪他们走过一次。Dan 不知道她昨晚熬到很晚，是为了躲一场她根本不想去的会。
 
 **关键词**：Let's have breakfast all together / this morning
 
-**为什么这样写**：Let's have breakfast all together = Emma's suggestion—she wants a family breakfast. "this morning" = her timing—she wants it now. This is Emma's "gift" day: she's choosing to spend time with her family. "A gift" = Emma's mantra—she's framing the day as a gift. The family breakfast is a small moment that Emma used to skip (in previous loops, she was too busy or too numb). Now she's savoring it.
+**为什么这样写**：一句家常话被写成一个决定。“this morning” 里的今天被特意点明：她不再等到「以后」，就赶在这个早晨。随后的 “And I’ll walk you both to school” 是同一逻辑的延伸——把一件她以前省掉的小事补回来。而紧跟的旁白用具体事实给这个决定加了重量：四个多月只陪走过一次，“right at the start, to check it really was safe”——那次不是陪伴，是尽父母的责任。Dan 的 “Won’t you be late?” 和她的 “They moved the meeting,” I lied 让这份日常带着一层只有读者看得见的反讽：她撒的这个谎，正是循环给她的自由。
 
-**读者视角提示**：Let's have breakfast all together = Emma's suggestion; "this morning" = her timing; this is Emma's "gift" day—choosing to spend time with family.
+**读者视角提示**：all together = 全家人一起；this morning 是她给自己划的时限；They moved the meeting, I lied 里 lied 点破这是谎，而谎的内容只有读者知道；right at the start, to check it really was safe 说明那次同行是尽责任，不是陪伴。
 
 ## 词汇
 
@@ -84,12 +84,7 @@
 Emma 的"礼物"日——与 Dan 做爱、送孩子上学、警告 Poppy、读 Ernestina 的书稿、给 Jurek 妈妈送有声书、在咖啡馆享受正常生活；Emma 开始重新欣赏小事物，"Today you are happy."
 
 ## 读者视角提示
-
-- **"'Hey,' he said. 'Hey,' I smiled, actively recalling the things I had gone to sleep promising myself. A gift."**：Dan's greeting—he wakes up. "Hey," I smiled = Emma's response. "actively recalling" = Emma's intention. "A gift" = her mantra. "I reached over and surprised Dan with a kiss" = her initiative. "It was great sex" = her experience. "reminding me that I loved him" = her rediscovery. This is Emma's "gift" day beginning.
-- **"I was used to reading submissions; you could tell something might have potential from a synopsis, even a cover letter sometimes."**：Emma's expertise—she's an experienced agent. "you could tell something might have potential" = her skill. "wanted to be hooked from the first page" = her standard. "first phone call with Lou" = her memory. This is Emma's professional identity: passionate agent.
-- **"It was obvious from the first page that I was in assured hands."**：Emma's assessment—Ernestina's writing is assured. "assured hands" = her trust. "twenty-six years old" = her surprise. "great mix of the dark alongside the humorous" = her assessment. "almost spat it out" = her absorption. "lost in Glasgow's merchant city" = her immersion. This is Emma rediscovering her professional passion.
-- **"'Today you are happy,' Jurek commented."**：Jurek's observation—he notices Emma is happy. "thinking of the tiny exchanges" = Emma's realization. "something joyful in the small moments" = her appreciation. "I thought of what I now knew about his life" = her empathy. "a simple idea struck me forcibly" = her idea. This is Emma's "gift" in action—she's noticing small moments and acting on kindness.
-- **"'Poppy, can I ask you something?'"**：Emma's approach—she asks Poppy. "She still looked jumpy" = Poppy's nervousness. "How had I not picked up on this nervous energy?" = Emma's realization. "promise me you won't post anything" = her warning. "Can we talk later? Properly." = her invitation. "Love you" = their exchange. This is Emma reconnecting with Poppy.
-- **"'What the . . .' Her eyes widened, her hands flew to her bare stomach, and I backed out as if I had stumbled into something horrifying."**：Emma's shock. "Her eyes widened" = Poppy's reaction. "backed out" = Emma's retreat. "This is my ten-year-old!" = her realization. "She had been using my makeup" = her deduction. "And the comments, on TikTok" = her decision. This is Emma discovering Poppy's TikTok.
-- **"'Is this TikTok? You're too young! Why would you film this? Who are you sending things to? How long have you been doing this?'"**：Emma's question—she identifies the platform. "You're too young!" = her reaction. "Who are you sending things to?" = her concern. "I didn't wait for answers" = her emotion. "The fact she wasn't getting cross" = her observation. "Jas's 'it's a gift' slipped from my mind" = her loss. This is Emma's initial reaction—shock and anger.
-- **loop structure**：This chapter is Emma's first "gift" day in action—she's choosing positivity and rediscovering life. "A gift" becomes Emma's mantra. The chapter shows Emma's "gift" day: sex with Dan (rediscovering intimacy), walks kids to school (reconnecting with children), warns Poppy (preventing bullying), reads pages (professional purpose), calls editors (helping Jas), helps Jurek's mum (kindness). "Today you are happy" = Jurek's observation—Emma is genuinely happy. The novel's thesis emerges: the loop is not about preventing Dan's death; it's about Emma learning to live. The transformation continues in ch50-ch57. The chapter ends with text messages: Dan ("Keep thinking about this morning. X X X"), Jas ("Emma are you coming? Linda is losing her nut."), CharterHayley ("Emma, where are you?"). The normalcy of these messages contrasts with the loop's extraordinary nature.
+- **“Hey,” he said. “Hey,” I smiled, actively recalling the things I had gone to sleep promising myself. A gift.**：循环的同一个早晨被改写的第一处——同一句招呼，后面接的不再是崩溃而是许诺；A gift 是 Emma 从此每天给自己念的判词。
+- **“Let’s have breakfast all together this morning,” I said.**：四个多月里她大概只陪孩子走过一次上学路；今天她把早餐和送学都补回来，还为躲开一场会撒了谎（“They moved the meeting,” I lied）。
+- **“Poppy, can I ask you something?”**：她已经看出女儿不对劲（“She still looked jumpy”），却只问一个「承诺」——今天别在社交平台上发东西；再约一次「好好谈谈」。
+- **本章结构**：现在线的 gift arc #1。第一格是身体与亲密（“Happy Dateversary”、清晨的性），第二格是家庭日常（早餐、送学），第三格是母亲对女儿的觉察与预警；「礼物」在这一章正式从词变成动作。Emma 的转变不是一次性完成，而是从 ch48 的一念之转落到这一天的具体清单上。

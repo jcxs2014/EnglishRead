@@ -15,7 +15,10 @@
 ## 精读
 
 > **原句 1:** “'Liam was being mean,' he said, his eyes sliding over the surface of the table, unable to meet mine.”
+**中文理解**：
 **关键词**：Liam / was / being / mean
+**为什么这样写**：
+**读者视角提示**：
 
 > **原句 2:** “Being mean how?”
 **关键词**：Being / mean / how

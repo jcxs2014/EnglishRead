@@ -15,40 +15,40 @@
 ## 精读
 
 > **原句 1:** “I’m sorry.”
-**中文理解**："I'm sorry."
+**中文理解**：这是 Dan 写给 Emma 的第 5 封周年信（写于 2011 年 12 月 3 日，回顾的是分居中的第 5 年）。信的第一行只有三个字：对不起。没有称呼，没有铺垫，第一句就认错。
 **关键词**：I'm sorry
-**为什么这样写**：Two words, standalone, period. This is the letter's opening—no greeting, no preamble. "I'm sorry" is Dan's rawest admission. The brevity is the point: Dan has no capacity for the elaborate lists (ch05's a–f, ch09's a–f) or the humor (ch16's "Arthur Chump"). He's stripped down. This is Dan at his lowest—separated, in therapy, writing an apology. The period after "sorry" is final, not conversational.
-**读者视角提示**：I'm sorry = Dan's rawest admission; the brevity is the point—no lists, no humor, just apology.
+**为什么这样写**：第 1 年（ch01）和第 3 年（ch09）的信里，Dan 习惯用 a) b) 把话拆成清单；这一封连清单都没有了，只剩三个字。句子是完成时、独立成句，形式上像结案陈词而不是开场白，可它偏偏就是开场白。信头日期是 2011 年 12 月 3 日——这一天对他来说既是周年也是提醒：五年前的今天他们相遇，如今他却在「另一个生活」里写这封信（信里说 “It's been more than six months now in this new life without you”）。
+**读者视角提示**：I'm sorry 在这里是「道歉」也是「认输」；一句话独立成段＝作者没给自己缓冲。注意这封信写于 2011 年，比 ch16（2021 年）早了十年——信章在书里不是按年份排的，看信头日期，不要看章节号。
 
 > **原句 2:** “You didn’t do this to us. I know you saw us as a team. I let you down.”
-**中文理解**："You didn't do this to us. I know you saw us as a team. I let you down."
+**中文理解**：Dan 先把 Emma 从这件事里摘出来：不是你的错；我知道你一直把我们看成一伙的；是我让你失望了。
 **关键词**：You didn’t do this to us / I let you down
-**为什么这样写**：You didn't do this to us = Dan absolving Emma—she didn't cause the separation. "I know you saw us as a team" = Emma's perception (they were partners) vs Dan's reality (he failed). "I let you down" = Dan's accountability—three words, no excuses. This is the marriage's central confession: Dan takes responsibility. The contrast with Emma's unsent letter (ch12: "you're lost and I can't get to you") shows both are suffering, but Dan is the one who left.
-**读者视角提示**：You didn't do this to us = Dan absolving Emma; "I let you down" = his accountability; this is the marriage's central confession.
+**为什么这样写**：三句是递进：先免责，再解释对方的认知，最后认领责任——前两句其实都是铺垫，只有第三句是结论。“I know you saw us as a team” 里那个 know 有距离感：Dan 知道 Emma 怎么看，却看不出 Emma 看不见他是怎么塌掉的，他把两人对婚姻的理解写成了两个视角。“I let you down” 用 let（让自己辜负）而不是 failed：责任是他主动承担的，不是事情造成的。整段的重量在于：明明他也在痛（信里写到母亲的坟、写到夜里不敢睡），却把错揽到自己身上，还先替 Emma 开脱。
+**读者视角提示**：let sb down =「辜负某人」；a team =「一伙人、同一阵线」。注意这三句的顺序：先替对方开脱，最后才落到自己身上——这是 Dan 写信时的一贯姿态。
 
 > **原句 3:** “I’ve been to the GP who has helped and I’ve booked to see a new therapist. Hattie’s been brilliant too—I’m so lucky to have her, I know she wants me to piece myself together.”
-**中文理解**：Dan 去了 GP（有帮助），booked a new therapist；Hattie 很 brilliant，他 so lucky to have her，她想让他 piece himself together。
+**中文理解**：Dan 汇报自己的求助进度：去看过全科医生（有效果），也预约了一位新的治疗师；Hattie 帮了他很多，他很幸运有她，他知道她希望自己重新拼起来。
 **关键词**：GP / therapist / piece myself together
-**为什么这样写**：GP (General Practitioner) + therapist = Dan is seeking professional help—this is his recovery narrative. "Hattie's been brilliant" = Hattie as Dan's support (she's his sister, Emma's sister-in-law). "piece myself together" = Dan's self-diagnosis—he's fragmented, broken. The phrase echoes ch12's "I know I need to do better" but with action: he's not just knowing, he's doing (therapy, GP). This is Dan's growth: from "I know I need to do better" (ch12) to "I've booked to see a new therapist" (ch19).
-**读者视角提示**：GP =「全科医生」；therapist =「治疗师」；"piece myself together" = Dan's fragmentation; Hattie as support; this is Dan's recovery narrative.
+**为什么这样写**：两个完成时（“I've been to the GP who has helped”、“I've booked to see a new therapist”）把「去看医生」写成已经发生的动作——不是打算，是做了。“Hattie's been brilliant too” 里的 too 把 Hattie 摆到与医生同一水平线上：她也成了一个支撑点，而偏偏这个支撑点就住在 Emma 身边。piece myself together 用「把自己重新拼起来」写康复：一个散了架的人正在一块一块往回装自己，这个说法比 get better 更具体，也更承认起点。和第 4 年那封信（ch12 的 “I know I need to do better”）对照，Dan 的成长是可见的：那封只是「知道自己该做得更好」，这一封已经约好了治疗师。
+**读者视角提示**：GP =「全科医生」（英式）；“therapist” =「治疗师」；“piece myself together” =「把自己重新拼起来」；Hattie 是 Emma 的妹妹，ch05 里她搬进夫家住。注意这封信里 Dan 已经开始求助，不只是自责。
 
 > **原句 4:** “You were just here, dropping Poppy round, her hair in bunches, yellow leggings with zebras I’ve never seen before. Your hair is longer, your eyes red rimmed. I wanted to snatch up your hand and beg you to come in too but, like a coward, I’ve let you leave.”
-**中文理解**：Emma 刚 drop Poppy round，her hair in bunches, yellow leggings with zebras；Emma's hair longer, eyes red rimmed；Dan wanted to snatch her hand and beg her to come in, but like a coward, let her leave。
+**中文理解**：Dan 回忆：Emma 刚来过，把 Poppy 送过来就走了；Poppy 扎着发髻，穿着带斑马图案的黄色紧身裤——他没见过这条裤子；Emma 的头发长了，眼眶是红的。他当时想抓住她的手求她进来，却像懦夫一样放她走了。
 **关键词**：dropping Poppy round / hair in bunches / yellow leggings with zebras / red rimmed / like a coward
-**为什么这样写**：dropping Poppy round = the custody arrangement—Emma brings Poppy to Dan, then leaves. "her hair in bunches, yellow leggings with zebras" = Poppy's appearance (Dan notices details). "Your hair is longer, your eyes red rimmed" = Dan reading Emma's body (she's been crying, she's changed). "I wanted to snatch up your hand and beg you to come in too" = Dan's desire (physical, desperate). "like a coward, I've let you leave" = Dan's self-judgment—he couldn't ask Emma to stay. This is Dan's pattern: he wants but doesn't ask (ch05: "Maybe I should be a bit jealous" but doesn't act).
-**读者视角提示**：red rimmed =「红 rimmed」；"like a coward" = Dan's self-judgment; "snatch up your hand" = his physical desire for Emma; this is Dan's vulnerability.
+**为什么这样写**：这一段的观察全是细节：发髻、斑马纹紧身裤、没见过的裤子、变长的头发、红的眼眶——Dan 把他错过的一整个下午记成了镜头。“I've never seen before” 用「没见过」点出他缺席了多少：孩子长什么样他不知道。“Your hair is longer, your eyes red rimmed” 省掉了主语和系动词，是省略到只剩名词短语的写法：红掉的是眼眶，他读得出她哭过。snatch up（一下抓住）比 take 狠得多，动词的选择泄露出他当时有多急；而下一句 “like a coward, I've let you leave” 又把这份急按下不表——他不是不想留，是不敢求。
+**读者视角提示**：“dropping Poppy round” =「把 Poppy 送来（待一会儿/过夜）」；“red rimmed” =「（眼睛）红了一圈，哭过」；“snatch up” =「一把抓住」；a coward =「懦夫」。这一段是 Dan 视角的「错过」：他记得所有细节，却没敢开口。
 
 > **原句 5:** “I’m going to seal this letter now and drop it straight to you before I change my mind.”
-**中文理解**："I'm going to seal this letter now and drop it straight to you before I change my mind."
+**中文理解**：Dan 说他现在就把信封好，直接送到 Emma 手上，赶在自己改变主意之前。
 **关键词**：seal this letter now / before I change my mind
-**为什么这样写**：seal this letter now = Dan's urgency—he's sending it immediately. "before I change my mind" = Dan's vulnerability—he might not send it if he waits. This is Dan's pattern: he writes, then hesitates, then sends. The letter is an act of courage (he's reaching out). "drop it straight to you" = physical delivery (not mail—hand-delivered). This is Dan's effort to reconnect.
-**读者视角提示**：seal this letter now = Dan's urgency; "before I change my mind" = his vulnerability; "drop it straight to you" = hand-delivered, personal.
+**为什么这样写**：现在时表示当场就做，不是「回头我会寄」——他把犹豫压缩进最后半句里。“before I change my mind” 是全句的支点：它把一封普通的信变成一次冒险的举动。Dan 在同一封信里承认自己当初就是跑了（“You didn't mean it but I ran with it”），所以他清楚自己的惯性与怯懦；这次他要在怯懦生效之前把信送出去。“drop it straight to you” 用「直接送到你手上」，写的是物理距离：他不想再隔着任何东西跟她说话。这一句也是第 5 封信的转折点：前面是回顾，后面是打算。
+**读者视角提示**：“seal” =「（把信）封口」；“drop it straight to you” =「直接送到你手上」；“before I change my mind” =「赶在我改主意之前」。Dan 的这次勇气是限时的、一次性的。
 
 > **原句 6:** “Because this day is the day I met you and you were the best thing that ever happened to me.”
-**中文理解**："因为这天是我遇见你的日子，你是我生命中 ever happened 的 best thing。"
+**中文理解**：Dan 给出寄这封信的理由：这一天正是他遇见她的日子，而她是他这辈子遇到过的最好的事。这封信回顾的是第 5 年，也是他与 Emma 分居后的第一封周年信。
 **关键词**：this day is the day I met you / best thing that ever happened to me
-**为什么这样写**：this day is the day I met you = the anniversary's enduring meaning—Dec 3 is sacred. "you were the best thing that ever happened to me" = Dan's final valuation of Emma. "best thing that ever happened to me" = no hedging, no irony—pure sincerity. This is Dan's most direct statement of love in the novel (after ch01's "Thank God for that Boots receipt" and ch05's "I am totally in love with you"). The letter ends here—Dan's last words of this year.
-**读者视角提示**：best thing that ever happened to me = Dan's purest statement of love; this is the anniversary's enduring meaning despite the separation.
+**为什么这样写**：Because 一个词就把前面的决定和它的理由扣上——理由不是「我们还有感情」，是「这一天」本身。“you were the best thing that ever happened to me” 用上了最高级，却没有一点保留，全书里 Dan 难得这么直。句子的时态是过去（happened）：他用一个已经完成的事实，给一封还没送出的信作担保。把它和第 15 年那封（ch16）对照着看很有意思：十年之后，Dan 在信里写的仍是同一句判断，只是那一次他终于把它写了出来。
+**读者视角提示**：ever =「一生中任何时候」；happened to me =「（好）事发生在我身上」。这是第 5 封信（2011 年）里的表白，注意与 ch16（2021 年）那封对照：同一句判断，隔了十年。
 
 ## 词汇
 
@@ -90,10 +90,8 @@
 Dan 的第五周年信（2011 年 12 月 3 日）：分居 6 个月，Dan 在 new life 里，seeing GP/therapist，"You didn't do this to us. I let you down."，Emma drop Poppy round（"hair in bunches, yellow leggings with zebras"），"I want to be brave this year"，seal the letter and drop it to Emma—"Because this day is the day I met you and you were the best thing that ever happened to me."
 
 ## 读者视角提示
-
-- **separation year**：这是 Dan 和 Emma 分居的第一年。Dan 离开了家，Emma 和 Poppy（+ Miles?）留在家里。Dan 的 "You didn't do this to us" = 他 absolving Emma—she didn't cause the separation. "I let you down" = his accountability.
-- **Dan's recovery**：GP + therapist + Hattie's support = Dan is trying to recover. "I want to be brave this year" = his commitment to change. This is Dan's growth from "I know I need to do better" (ch12) to action.
-- **"I'm going to seal this letter now and drop it straight to you before I change my mind"**：Dan's vulnerability—he might not send it if he waits. This is Dan reaching out, despite his fear.
-- **"Because this day is the day I met you and you were the best thing that ever happened to me"**：Dan's purest statement of love. Despite the separation, Dec 3 remains sacred. This is the anniversary's enduring meaning.
-- **Poppy's appearance**："her hair in bunches, yellow leggings with zebras" = Dan notices Poppy's details (he's been missing her). "Your hair is longer, your eyes red rimmed" = Emma has changed (crying, grown). "I wanted to snatch up your hand" = Dan's physical desire for Emma.
-- **loop structure**：This letter is from 2011 (10 years before the present-day loop). Dan and Emma are separated but Dan is trying to reconnect. The letter's "I want to be brave this year" is Dan's commitment to change. In the loop, Dan will die on Dec 3, 2021—but in 2011, he's alive and trying. The loop's temporal structure: past letters (ch01, ch05, ch09, ch12, ch16, ch19) show the marriage's arc from meeting to separation to (eventually) reconciliation. The present-day loop (ch02–ch18) is the loop's "After"—Dan dies, Emma relives, tries to prevent. The past letters show what was lost.
+- **信的身份**：Dan 的第 5 封周年信，写于 2011 年 12 月 3 日，回顾的是第 5 年——这一年两人分居：Emma 和孩子住在家里，Dan 搬了出去（「It's been more than six months now in this new life without you」）。
+- **注意书里的顺序**：ch19 排在 ch16（2021 年）之前。判断一封信的年龄要看信头日期，不要按章节号。
+- **Dan 的处境**：他刚经历丧母之痛，信里写到守墓、写到恐惧重演母亲被突然带走的结局、写到夜里睡不着；与此同时他已经开始求助：GP、新治疗师、妹妹 Hattie。
+- **信的语气**：比第 15 年那封克制得多——没有清单，没有抱怨，开头只有三个字；唯一的一次玩笑留在最后。
+- **最要紧的一句**：“Because this day is the day I met you and you were the best thing that ever happened to me.” —— 分居半年后，他寄出这封信的理由不是道歉本身，而是这一天。
