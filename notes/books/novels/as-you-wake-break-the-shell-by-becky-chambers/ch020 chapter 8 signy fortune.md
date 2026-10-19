@@ -16,83 +16,83 @@ modified: "2026-10-19"
 
 > **原句 1:** "So," Cora said, slathering her toast with jam, "who needs what?"
 
-**中文理解**：Cora 的 breakfast question——"who needs what?"——把 inbox 处理写成 daily ritual。
+**中文理解**：Cora 一边往吐司上抹果酱一边问“谁需要什么”——把处理 inbox 写成每日的固定仪式。
 
 **关键词**：who needs what
 
-**为什么这样写**：以 Cora 的 question 开场，把 Cypsela 的 community care 写成 breakfast routine；"slathering her toast"的 domestic detail。
+**为什么这样写**：以 Cora 的提问开场，把 Cypsela 的 community care 写成早餐例行；“slathering her toast”是 domestic detail。
 
-**读者视角提示**：Signy-Cora 的 partnership——joint inbox access。
+**读者视角提示**：Signy 与 Cora 的 partnership——共同查看 inbox。
 
 > **原句 2:** "She and Cora had joint access to everything sent Cypsela's way, but they always went over their mail together in the morning, so as to get on the same page."
 
-**中文理解**：Signy 与 Cora 对 Cypsela 所有 mail 有 joint access，但总是 morning 一起 review——"get on the same page"。
+**中文理解**：两人共同拥有 Cypsela 一切信件的访问权，但她们总在早晨一起过一遍邮件——“get on the same page”。
 
 **关键词**：joint access / get on the same page
 
-**为什么这样写**：把 partnership 写成 information-sharing routine；"get on the same page"的 idiom 写出他们的 alignment。
+**为什么这样写**：把 partnership 写成信息共享的例行；“get on the same page”这一 idiom 写出两人的 alignment。
 
-**读者视角提示**：Signy-Cora 的 Cypsela 生活——joint decision-making。
+**读者视角提示**：Signy 与 Cora 在 Cypsela 的生活——共同决策。
 
 > **原句 3:** "The med lab on Lodestone was running low on L-tyrosine, an amino acid used in a wide variety of medicines."
 
-**中文理解**：Lodestone med lab 的 L-tyrosine shortage——Cypsela 的 medicine garden 作为 backup。
+**中文理解**：Lodestone 的 med lab 报告“L-tyrosine”短缺，Cypsela 的药园便充当后援。
 
 **关键词**：L-tyrosine / running low
 
-**为什么这样写**：把 inter-colony resource sharing 写成 routine；"running low"写出 Cypsela 的 role in the network。
+**为什么这样写**：把殖民地之间的资源共享写成例行；“running low”写出 Cypsela 在网络中的 role。
 
-**读者视角提示**：Cypsela 作为 medicine supplier 的 economic role。
+**读者视角提示**：Cypsela 作为药品供应者的经济角色。
 
 > **原句 4:** "Signy wrote back to say that was fine."
 
-**中文理解**：Signy reply Imogen（Thursday maize strain session）——"that was fine"。
+**中文理解**：Signy 回复 Imogen（周四的玉米品种课程）——“that was fine”。
 
 **关键词**：that was fine
 
-**为什么这样写**：以"that was fine"的 understatement 写出 Signy 的 mentorship；Imogen 作为 apprentice 建立 Signy 的 teaching role。
+**为什么这样写**：以“that was fine”的轻描淡写写出 Signy 的 mentorship；Imogen 作为学徒确立 Signy 的 teaching role。
 
-**读者视角提示**：Signy 作为 mentor（Imogen apprentice）。
+**读者视角提示**：Signy 作为 mentor（Imogen 是学徒）。
 
 > **原句 5:** "Palmer was having a potluck later that week and wanted both of Cypsela's residents to attend."
 
-**中文理解**：Palmer 的 potluck 邀请——"both of Cypsela's residents"。
+**中文理解**：Palmer 的 potluck 邀请——“both of Cypsela's residents”。
 
 **关键词**：potluck / both of Cypsela's residents
 
-**为什么这样写**：把 community gathering 写成 invitation；"both of Cypsela's residents"写出 Cypsela 的 small community。
+**为什么这样写**：把社区聚会写成邀请；“both of Cypsela's residents”写出 Cypsela 的小社群。
 
-**读者视角提示**：Cypsela 的 social life——potluck, skyroom。
+**读者视角提示**：Cypsela 的 social life——potluck 与 skyroom。
 
 > **原句 6:** "Isn't that the same day you told Gwen you'd help fix her kitchen door?" Signy asked.
 
-**中文理解**：Signy 的 practical concern——potluck 与 Gwen's door repair 同一天。
+**中文理解**：Signy 的实际顾虑——potluck 与 Gwen 家的修门同一天。
 
 **关键词**：kitchen door / same day
 
-**为什么这样写**：把 scheduling conflict 写成 gentle negotiation；Signy 的 practicality。
+**为什么这样写**：把时间冲突写成温和的协商；写出 Signy 的务实。
 
-**读者视角提示**：Signy-Cora 的 task coordination。
+**读者视角提示**：Signy 与 Cora 的 task coordination。
 
 > **原句 7:** "You like her skyroom."
 
-**中文理解**：Cora 的 nudge——"You like her skyroom"——Signy's social motivation。
+**中文理解**：Cora 的轻推——“You like her skyroom”——Signy 的社交动机。
 
 **关键词**：skyroom
 
-**为什么这样写**：把 Signy 的 social engagement 写成 skyroom-motivated；Cora 了解 Signy's preferences。
+**为什么这样写**：把 Signy 的社交投入写成 skyroom 驱动；Cora 了解 Signy 的偏好。
 
-**读者视角提示**：Cora 作为 Signy 的 social facilitator。
+**读者视角提示**：Cora 是 Signy 的 social facilitator。
 
 > **原句 8:** "An afternoon spent reading in Gwen's skyroom sounded like a decent way to prepare her social battery before a communal meal."
 
-**中文理解**：Signy 的 "social battery" metaphor——reading in skyroom to prepare for communal meal。
+**中文理解**：Signy 的“social battery”比喻——在 skyroom 读书为 communal meal 做准备。
 
 **关键词**：social battery / communal meal
 
-**为什么这样写**：把 social energy 写成"battery"——introvert's resource management；"prepare"写出 Signy's intentional social pacing。
+**为什么这样写**：把 social energy 写成“battery”——introvert 的资源管理；“prepare”写出 Signy 有意的社交节奏。
 
-**读者视角提示**：Signy 的 introvert ethic——social battery as resource。
+**读者视角提示**：Signy 的 introvert ethic——social battery 是一种资源。
 
 ## 本章词汇
 

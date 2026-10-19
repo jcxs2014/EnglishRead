@@ -16,63 +16,63 @@ modified: "2026-10-19"
 
 > **原句 1:** "Peel 4 apples. Chop them small until you have 3 cups' worth of apple bits."
 
-**中文理解**：recipe opener——peel 4 apples, chop to 3 cups' worth。
+**中文理解**：食谱开场——削 4 个苹果，切小块至 3 杯的量。
 
 **关键词**：Peel 4 apples / 3 cups' worth
 
-**为什么这样写**：把 recipe 写成 imperative—Otto's cooking voice; "3 cups' worth"写出 measurement。
+**为什么这样写**：把 recipe 写成祈使句——Otto 的烹饪声音；“3 cups' worth”写出度量。
 
-**读者视角提示**：Recipe—imperative mood。
+**读者视角提示**：Recipe——祈使语气。
 
 > **原句 2:** "Just like with spuds, he's talking about vat-grown molded apples here. I'm still experimenting with cooking tree-grown apples, but so far I like using red apples better than green apples for this recipe. Size on tree-growns varies, so 3 to 4 apples, or whatever works."
 
-**中文理解**：footnote 2——vat-grown molded apples vs tree-grown red apples; "Size on tree-growns varies, so 3 to 4 apples, or whatever works."。
+**中文理解**：脚注2——vat-grown molded apples 对比 tree-grown red apples；“Size on tree-growns varies, so 3 to 4 apples, or whatever works.”。
 
 **关键词**：vat-grown molded apples / tree-grown red apples / whatever works
 
-**为什么这样写**：把 footnote 写成 Otto's voice (Signy's annotation)—vat-grown vs tree-grown; "whatever works"写出 flexibility。
+**为什么这样写**：把脚注写成 Otto 的声音（Signy 的注解）——vat-grown 对比 tree-grown；“whatever works”写出弹性。
 
-**读者视角提示**：Recipe—footnote as Otto's voice。
+**读者视角提示**：Recipe——脚注即 Otto 的声音。
 
 > **原句 3:** "Sub with beet sugar"
 
-**中文理解**：footnote 3——sub with beet sugar (for sorghum crystals)。
+**中文理解**：脚注3——用 beet sugar 替代（sorghum crystals）。
 
 **关键词**：Sub with beet sugar
 
-**为什么这样写**：把 footnote 写成 "Sub with beet sugar"—Otto's substitution note。
+**为什么这样写**：把脚注写成“Sub with beet sugar”——Otto 的替代注。
 
-**读者视角提示**：Recipe—substitution (beet sugar for sorghum)。
+**读者视角提示**：Recipe——替代（beet sugar 替 sorghum）。
 
 > **原句 4:** "We don't have this here. Signy looked it up and the original Mr. G blend is made of vat-grown clove and cinnamon. Lodestone is synthing cinnamon, but nobody's making clove yet. We can't grow the trees that produce this stuff right now, either. So just use 1 tsp of cinnamon for now, and if you ever find out what clove is, use ½ a tsp of that, too."
 
-**中文理解**：footnote 4——Mr. G blend (vat-grown clove + cinnamon); Lodestone synthing cinnamon; no clove yet; use 1 tsp cinnamon, ½ tsp clove if available。
+**中文理解**：脚注4——Mr. G blend（vat-grown clove 加 cinnamon）；Lodestone 在合成 cinnamon；还没有 clove；先用 1 茶匙 cinnamon，若找到 clove 再加半茶匙。
 
 **关键词**：vat-grown clove and cinnamon / Lodestone is synthing cinnamon / nobody's making clove yet
 
-**为什么这样写**：把 footnote 写成 Signy's annotation—Mr. G blend's ingredients; "if you ever find out what clove is"写出 discovery possibility。
+**为什么这样写**：把脚注写成 Signy 的注解——Mr. G blend 的成分；“if you ever find out what clove is”写出发现的可能性。
 
-**读者视角提示**：Recipe—footnote as Signy's research (clove unknown)。
+**读者视角提示**：Recipe——脚注即 Signy 的考据（clove 未知）。
 
 > **原句 5:** "Hard to get at the market, so honestly, sorghum works better than beet if you can't find brown"
 
-**中文理解**：footnote 5——brown sugar hard to get; sorghum works better than beet。
+**中文理解**：脚注5——brown sugar 难买到；sorghum 比 beet 更好。
 
 **关键词**：Hard to get at the market / sorghum works better than beet
 
-**为什么这样写**：把 footnote 写成 "sorghum works better than beet"—Otto's preference; "Hard to get at the market"写出 scarcity。
+**为什么这样写**：把脚注写成“sorghum works better than beet”——Otto 的偏好；“Hard to get at the market”写出稀缺。
 
-**读者视角提示**：Recipe—footnote (brown sugar scarcity)。
+**读者视角提示**：Recipe——脚注（brown sugar 稀缺）。
 
 > **原句 6:** "Add the topping and bake 35 to 40 minutes. Pairs well with friends and music."
 
-**中文理解**：closing——"Add the topping and bake 35 to 40 minutes. Pairs well with friends and music."。
+**中文理解**：收尾——“Add the topping and bake 35 to 40 minutes. Pairs well with friends and music.”。
 
 **关键词**：Pairs well with friends and music
 
-**为什么这样写**：把 closing 写成 "Pairs well with friends and music"—Otto's sentiment; "friends and music"写出 his value。
+**为什么这样写**：把 closing 写成“Pairs well with friends and music”——Otto 的情怀；“friends and music”写出他的价值。
 
-**读者视角提示**：Recipe—closing (friends and music)。
+**读者视角提示**：Recipe——收尾（朋友与音乐）。
 
 ## 本章词汇
 

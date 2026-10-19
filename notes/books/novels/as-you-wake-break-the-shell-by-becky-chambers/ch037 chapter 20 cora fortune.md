@@ -16,153 +16,153 @@ modified: "2026-10-19"
 
 > **原句 1:** "Typically, Signy and Otto spent a couple of hours after dinner listening to the Friday Night Live Jam on K-NYT, which he enjoyed and she had grown to."
 
-**中文理解**：Signy-Otto 的 Friday ritual——Friday Night Live Jam on K-NYT。
+**中文理解**：Signy 与 Otto 的 Friday 仪式——听 K-NYT 的 Friday Night Live Jam。
 
 **关键词**：Friday Night Live Jam / K-NYT
 
-**为什么这样写**：把 their ritual 写成 "spent a couple of hours"—established routine; "she had grown to"写出 Signy's gradual appreciation。
+**为什么这样写**：把他们的 ritual 写成“spent a couple of hours”——既定的 routine；“she had grown to”写出 Signy 逐渐生出的欣赏。
 
-**读者视角提示**：Signy-Otto's Friday ritual—music + conversation。
+**读者视角提示**：Signy-Otto 的 Friday 仪式——音乐加交谈。
 
 > **原句 2:** "See, this is why people who get snobby about pop are missing out," he said. "Listen to that. Listen to those chords. Nothing is wasted here. This isn't fluff, this is a well-oiled machine. It's got structure. Mm!"
 
-**中文理解**：Otto's music analysis——"people who get snobby about pop are missing out"；"well-oiled machine"。
+**中文理解**：Otto 的音乐分析——“people who get snobby about pop are missing out”；“well-oiled machine”。
 
 **关键词**：snobby about pop / well-oiled machine / structure
 
-**为什么这样写**：把 Otto's music appreciation 写成 "well-oiled machine"—technical analysis; "Nothing is wasted"写出 his respect for craft。
+**为什么这样写**：把 Otto 的音乐欣赏写成“well-oiled machine”——技术分析；“Nothing is wasted”写出他对工艺的尊重。
 
-**读者视角提示**：Otto's character—music lover, craft appreciator。
+**读者视角提示**：Otto 的性格——爱音乐、欣赏工艺。
 
 > **原句 3:** "He's a traditionalist." / "Oh, no," Signy said, grimacing. / "Doesn't like breaks, doesn't like chitchat, doesn't leave people alone when they go home."
 
-**中文理解**：Sam's new boss——"traditionalist"；doesn't like breaks/chitchat, doesn't leave people alone at home。
+**中文理解**：Sam 的新上司——“traditionalist”；不喜欢休息、闲聊，人回家了也不放过。
 
 **关键词**：traditionalist / doesn't like breaks / doesn't leave people alone
 
-**为什么这样写**：把 bad boss 写成 "traditionalist"—OCTA-style work culture; "doesn't leave people alone when they go home"写出 boundary violation。
+**为什么这样写**：把坏上司写成“traditionalist”——OCTA 式的工作文化；“doesn't leave people alone when they go home”写出边界侵犯。
 
-**读者视角提示**：Sam's work situation—bad boss as recurring theme。
+**读者视角提示**：Sam 的工作处境——坏上司是反复出现的主题。
 
 > **原句 4:** "Heh, well—" Otto pointed again at the speakers. "There's a track on this album called 'The King Can't Swim with His Pockets Full.' So. You know. She's finding outlets."
 
-**中文理解**：Sam's outlet——track title "The King Can't Swim with His Pockets Full"——her resistance。
+**中文理解**：Sam 的出口——曲名“The King Can't Swim with His Pockets Full”——她的抵抗。
 
 **关键词**：The King Can't Swim with His Pockets Full / finding outlets
 
-**为什么这样写**：把 Sam's resistance 写成 song title—her creative outlet; "finding outlets"写出 her coping。
+**为什么这样写**：把 Sam 的抵抗写成歌名——她的创作出口；“finding outlets”写出她的 coping。
 
-**读者视角提示**：Sam's character—creative resistance to bad boss。
+**读者视角提示**：Sam 的性格——以创作抵抗坏上司。
 
 > **原句 5:** "Henry once said there were three things to always be prepared for: eruptions, funerals, and Margaret."
 
-**中文理解**：Henry's (Otto's husband, composer) saying——"three things to always be prepared for: eruptions, funerals, and Margaret"。
+**中文理解**：Henry（Otto 的丈夫，composer）的名言——“three things to always be prepared for: eruptions, funerals, and Margaret”。
 
 **关键词**：three things / eruptions, funerals, and Margaret
 
-**为什么这样写**：把 Margaret (producer) 写成 force of nature (like eruptions/funerals)—Henry's humor; "three things"的 triad。
+**为什么这样写**：把 Margaret（制片人）写成如火山/葬礼般的自然力——Henry 的幽默；“three things”的三元结构。
 
-**读者视角提示**：Margaret as formidable producer—Henry's respect/fear。
+**读者视角提示**：Margaret 作为可怕的制片人——Henry 的敬畏/畏惧。
 
 > **原句 6:** "If we weren't in production, they were thick as thieves. Before we hit post, though . . . there was no quicker way to burn his biscuits than for him to get a note like 'Margaret says the closing theme needs to be six seconds shorter.'"
 
-**中文理解**：Margaret-Henry dynamic——"thick as thieves" when not in production; "burn his biscuits" when in production。
+**中文理解**：Margaret 与 Henry 的 dynamic——不在制作时“thick as thieves”；进入后期则“burn his biscuits”。
 
 **关键词**：thick as thieves / burn his biscuits
 
-**为什么这样写**：把 their relationship 写成 "thick as thieves" (collaboration) vs "burn his biscuits" (conflict)—creative partnership's duality。
+**为什么这样写**：把他们的关系写成“thick as thieves”（协作）对比“burn his biscuits”（冲突）——创作伙伴关系的双重性。
 
-**读者视角提示**：Margaret-Henry—creative partnership with tension。
+**读者视角提示**：Margaret-Henry——带张力的创作伙伴关系。
 
 > **原句 7:** "It was magnificent. Kissing your someone as you fly through the shadow of a moon? Nothing quite like it."
 
-**中文理解**：eclipse flight——"Kissing your someone as you fly through the shadow of a moon"。
+**中文理解**：日食飞行——“Kissing your someone as you fly through the shadow of a moon”。
 
 **关键词**：eclipse flight / shadow of a moon / Nothing quite like it
 
-**为什么这样写**：把 eclipse flight 写成 romantic peak—"Kissing your someone as you fly through the shadow of a moon"—Otto's memory of Henry。
+**为什么这样写**：把 eclipse flight 写成浪漫的顶峰——“Kissing your someone as you fly through the shadow of a moon”——Otto 对 Henry 的回忆。
 
-**读者视角提示**：Otto-Henry's romance—eclipse flight as peak memory。
+**读者视角提示**：Otto-Henry 的浪漫——eclipse flight 作为顶峰记忆。
 
 > **原句 8:** "Have you . . . Have you ever seen a rorqual?" / "What, in person?" / "No," Otto said. "Well . . . ish."
 
-**中文理解**：Signy's question about rorqual—Otto's "ish" (saw one from distance as kid, "just a blob")。
+**中文理解**：Signy 问起 rorqual——Otto 的“ish”（小时候远远见过，“just a blob”）。
 
 **关键词**：ever seen a rorqual / ish / just a blob
 
-**为什么这样写**：把 Otto's rorqual sighting 写成 "ish" + "blob"—his modesty; "just a blob"写出 distance。
+**为什么这样写**：把 Otto 的 rorqual 目击写成“ish”加“blob”——他的谦虚；“just a blob”写出距离。
 
-**读者视角提示**：Otto's rorqual knowledge—limited, secondhand。
+**读者视角提示**：Otto 对 rorqual 的了解——有限、二手。
 
 > **原句 9:** "I'm going up to the stables," she said. "Or, at least, that's the plan."
 
-**中文理解**：Signy's plan——"going up to the stables" (to see Cora's rorqual)。
+**中文理解**：Signy 的计划——“going up to the stables”（去看 Cora 的 rorqual）。
 
 **关键词**：going up to the stables
 
-**为什么这样写**：把 Signy's plan 写成 "going up to the stables"—her payment from Cora; "that's the plan"写出 uncertainty。
+**为什么这样写**：把 Signy 的计划写成“going up to the stables”——Cora 给她的报酬；“that's the plan”写出不确定。
 
-**读者视角提示**：Signy's stables visit—payment for Cora's medicine。
+**读者视角提示**：Signy 的 stables 之行——Cora 医药的报酬。
 
 > **原句 10:** "Would you like it to be?" / "She's a customer. So, no." / "What's her name?" / "Cora," Signy said."
 
-**中文理解**：Otto's teasing—"Would you like it to be?"—Signy's deflection; "Cora" name reveal。
+**中文理解**：Otto 的调侃——“Would you like it to be?”——Signy 的回避；“Cora”名字的揭晓。
 
 **关键词**：Would you like it to be? / Cora
 
-**为什么这样写**：把 Otto's teasing 写成 "Would you like it to be?"—probing Signy's feelings; Signy's "She's a customer. So, no."写出 her defense。
+**为什么这样写**：把 Otto 的调侃写成“Would you like it to be?”——探问 Signy 的心意；Signy 的“She's a customer. So, no.”写出她的防御。
 
-**读者视角提示**：Otto as Signy's matchmaker—teasing about Cora。
+**读者视角提示**：Otto 是 Signy 的媒人——拿 Cora 打趣。
 
 > **原句 11:** "She regretted inadvertently bringing them down this path."
 
-**中文理解**：Signy's regret——"regretted inadvertently bringing them down this path"。
+**中文理解**：Signy 的后悔——“regretted inadvertently bringing them down this path”。
 
 **关键词**：regretted inadvertently
 
-**为什么这样写**：把 Signy's regret 写成 "inadvertently"—she didn't mean to open up; "this path"写出 Otto's probing。
+**为什么这样写**：把 Signy 的后悔写成“inadvertently”——她并非有意敞开；“this path”写出 Otto 的探问。
 
-**读者视角提示**：Signy's vulnerability—Otto's probing touches her feelings。
+**读者视角提示**：Signy 的脆弱——Otto 的探问触到她的心意。
 
 > **原句 12:** "He'd go storming down the hall, they'd fight like rain and baking soda, and I'd make myself scarce."
 
-**中文理解**：Henry-Margaret conflict——"fight like rain and baking soda"—Otto's scarce。
+**中文理解**：Henry 与 Margaret 的冲突——“fight like rain and baking soda”——Otto 溜开。
 
 **关键词**：fight like rain and baking soda / make myself scarce
 
-**为什么这样写**：把 conflict 写成 "rain and baking soda"—metaphor of chemical reaction; "make myself scarce"写出 Otto's avoidance。
+**为什么这样写**：把冲突写成“rain and baking soda”——化学反应的隐喻；“make myself scarce”写出 Otto 的回避。
 
-**读者视角提示**：Otto's coping—avoiding Henry-Margaret fights。
+**读者视角提示**：Otto 的 coping——回避 Henry 与 Margaret 的争吵。
 
 > **原句 13:** "I went on a dive into the Primer, and I got us a bit of boar, a bit of elk, and a bit of humpback whale," Otto said. "Distorted the hell out of them. Added a dash of this good, chuggy air filter in my dentist's office, believe it or not, and turned it into a nice layer cake."
 
-**中文理解**：Otto's rorqual Foley—boar, elk, humpback whale + dentist's air filter = "layer cake"。
+**中文理解**：Otto 的 rorqual Foley——boar、elk、humpback whale 加牙医诊所的 air filter，叠成“layer cake”。
 
 **关键词**：boar / elk / humpback whale / layer cake
 
-**为什么这样写**：把 rorqual sound 写成 "layer cake"—Foley craft; "Distorted the hell out of them"写出 his creative process。
+**为什么这样写**：把 rorqual 声写成“layer cake”——Foley 手艺；“Distorted the hell out of them”写出他的创作过程。
 
-**读者视角提示**：Otto's Foley art—rorqual as imaginative creation。
+**读者视角提示**：Otto 的 Foley 艺术——rorqual 作为想象力的创造。
 
 > **原句 14:** "The cheat was they were wild rorquals, y'see. A wild rorqual could sound however I wanted them to sound, because there's no recordings of those."
 
-**中文理解**：Otto's "cheat"—wild rorquals can sound however he wants (no recordings)。
+**中文理解**：Otto 的“cheat”——wild rorquals 可以随他想要的方式发声（因为没有录音）。
 
 **关键词**：cheat / wild rorquals / no recordings
 
-**为什么这样写**：把 sound design 写成 "cheat"—Otto's creative freedom; "no recordings"写出 his artistic liberty。
+**为什么这样写**：把 sound design 写成“cheat”——Otto 的创作自由；“no recordings”写出他的艺术自由。
 
-**读者视角提示**：Otto's creative freedom—wild rorquals as blank canvas。
+**读者视角提示**：Otto 的创作自由——wild rorquals 是空白画布。
 
 > **原句 15:** "Do you know how they communicate with their pilots?" / "It's pheromones, isn't it?" / "I'm not actually sure."
 
-**中文理解**：Signy's question about rorqual-pilot communication—pheromones? Otto unsure。
+**中文理解**：Signy 问起 rorqual 与 pilot 的沟通——pheromones？Otto 也不确定。
 
 **关键词**：pheromones / I'm not actually sure
 
-**为什么这样写**：把 rorqual communication 写成 "pheromones"—Signy's guess; Otto's "not actually sure"写出 his excitement to look it up。
+**为什么这样写**：把 rorqual 沟通写成“pheromones”——Signy 的猜测；Otto 的“not actually sure”写出他查阅资料的兴奋。
 
-**读者视角提示**：Otto's glee—excuse to research。
+**读者视角提示**：Otto 的雀跃——有了查资料的借口。
 
 ## 本章词汇
 

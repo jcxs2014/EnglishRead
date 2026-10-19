@@ -16,53 +16,53 @@ modified: "2026-10-19"
 
 > **原句 1:** "Cora plugged an old memory stick into her tablet and began to pull up recipes for dinner. The memory stick wasn't hers, originally, and neither were the recipes."
 
-**中文理解**：Cora 的 recipe source——old memory stick, not hers originally。
+**中文理解**：Cora 的食谱来源——old memory stick，原本不是她的。
 
 **关键词**：old memory stick / not hers, originally
 
-**为什么这样写**：把 recipes 写成 inherited—not hers originally; "memory stick"写出 data preservation。
+**为什么这样写**：把 recipes 写成继承的——原本不是她的；“memory stick”写出数据保存。
 
-**读者视角提示**：Cora's cooking—recipes as inherited tradition。
+**读者视角提示**：Cora 的烹饪——食谱作为继承的传统。
 
 > **原句 2:** "At first, she'd changed nothing about them and followed every measurement to the letter, but as time had gone on, she'd gotten comfortable freestyling, and besides, her kitchen was different than the ones these recipes came from."
 
-**中文理解**：Cora's cooking evolution——from following to letter to freestyling；"her kitchen was different"。
+**中文理解**：Cora 烹饪的演变——从严格照做到自由发挥；“her kitchen was different”。
 
 **关键词**：followed every measurement to the letter / freestyling / her kitchen was different
 
-**为什么这样写**：把 cooking 写成 evolution—literal to freestyle; "her kitchen was different"写出 adaptation necessity。
+**为什么这样写**：把烹饪写成演变——从字面照做到自由发挥；“her kitchen was different”写出适应的必要。
 
-**读者视角提示**：Cora's cooking—adaptation as skill。
+**读者视角提示**：Cora 的烹饪——适应即技能。
 
 > **原句 3:** "Like everything else, you had to adapt."
 
-**中文理解**：Cora's ethic——"Like everything else, you had to adapt."。
+**中文理解**：Cora 的 ethic——“Like everything else, you had to adapt.”。
 
 **关键词**：Like everything else / you had to adapt
 
-**为什么这样写**：把 adaptation 写成 "Like everything else"—universal principle; "you had to adapt"写出 necessity。
+**为什么这样写**：把 adaptation 写成“Like everything else”——普遍原则；“you had to adapt”写出必要。
 
-**读者视角提示**：Cora's philosophy—adaptation as universal。
+**读者视角提示**：Cora 的哲学——适应是普遍的。
 
 > **原句 4:** "Something always drifted, when you copied it. That was just the way of things."
 
-**中文理解**：Cora's observation——"Something always drifted, when you copied it. That was just the way of things."。
+**中文理解**：Cora 的观察——“Something always drifted, when you copied it. That was just the way of things.”。
 
 **关键词**：Something always drifted / way of things
 
-**为什么这样写**：把 copying 写成 "something always drifted"—inevitability; "way of things"写出 acceptance。
+**为什么这样写**：把 copying 写成“something always drifted”——必然性；“way of things”写出接纳。
 
-**读者视角提示**：Cora's philosophy—drift as inevitable, acceptable。
+**读者视角提示**：Cora 的哲学——漂移是必然、可接受的。
 
 > **原句 5:** "And any sort of activity that made you really feel that chain reaching way back behind you—those were the things Cora relished."
 
-**中文理解**：Cora's relish——"chain reaching way back behind you"—activities that connect to past。
+**中文理解**：Cora 的珍视——“chain reaching way back behind you”——与过去相连的活动。
 
 **关键词**：chain reaching way back behind you / relished
 
-**为什么这样写**：把 connection to past 写成 "chain reaching way back"—Cora's value; "relished"写出 her pleasure。
+**为什么这样写**：把与过去的联结写成“chain reaching way back”——Cora 的价值；“relished”写出她的愉悦。
 
-**读者视角提示**：Cora's value—connection to past through activity。
+**读者视角提示**：Cora 的价值——通过活动与过去相连。
 
 ## 本章词汇
 

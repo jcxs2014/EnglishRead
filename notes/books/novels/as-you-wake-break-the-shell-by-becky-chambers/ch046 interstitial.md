@@ -16,173 +16,173 @@ modified: "2026-10-19"
 
 > **原句 1:** "Every so often, as Signy followed Cora through the stables, they passed by small windows. Signy was aware, intellectually, of the existence of stars and the dark canvas they hung in, but stars weren't something you could see in Fortune's sky."
 
-**中文理解**：Signy's star awareness——intellectually aware of stars, but never seen in Fortune's sky。
+**中文理解**：Signy 对星星的认知——理性上知道 stars 与它们悬挂的 dark canvas，却在 Fortune 的天空从未见过。
 
 **关键词**：aware, intellectually / dark canvas
 
-**为什么这样写**：把 stars 写成 "dark canvas they hung in"—Signy's poeticism; "aware, intellectually"写出 her rational approach to beauty。
+**为什么这样写**：把 stars 写成“dark canvas they hung in”——Signy 的诗意；“aware, intellectually”写出她理性地对待美。
 
-**读者视角提示**：Signy's perspective—intellectual awareness vs experience。
+**读者视角提示**：Signy 的视角——理性的知晓对比体验。
 
 > **原句 2:** "She took to microgravity as though she were dancing, and every time Signy clumsily bumped into something or tripped over her own momentum, Cora encouraged her with kindness."
 
-**中文理解**：Cora in microgravity——"as though she were dancing"；Signy "clumsily bumped"。
+**中文理解**：Cora 在微重力中——“as though she were dancing”；Signy“clumsily bumped”。
 
 **关键词**：as though she were dancing / clumsily bumped
 
-**为什么这样写**：把 Cora's microgravity movement 写成 "dancing"—her grace; "clumsily bumped"写出 Signy's awkwardness。
+**为什么这样写**：把 Cora 的微重力动作写成“dancing”——她的优雅；“clumsily bumped”写出 Signy 的笨拙。
 
-**读者视角提示**：Cora-Signy contrast—grace vs clumsiness。
+**读者视角提示**：Cora 与 Signy 的对比——优雅对比笨拙。
 
 > **原句 3:** "So it was with Cora, in this place. She took to microgravity as though she were dancing... What she had thought to be a healthy plant rapidly became one."
 
-**中文理解**：Signy's weeping fig analogy——Corra in space like healthy plant becoming thriving。
+**中文理解**：Signy 的哭榕类比——Cora 在太空像健康植物迅速茁壮。
 
 **关键词**：weeping figs / growing vs thriving
 
-**为什么这样写**：把 Cora in space 写成 "healthy plant rapidly became one"—Signy's plant analogy; "growing vs thriving"写出 her framework。
+**为什么这样写**：把 Cora 在太空写成“healthy plant rapidly became one”——Signy 的植物类比；“growing vs thriving”写出她的框架。
 
-**读者视角提示**：Signy's plant lens—Cora as plant thriving in space。
+**读者视角提示**：Signy 的植物视角——Cora 如植物在太空茁壮。
 
 > **原句 4:** "There's her. And there is nothing I can say that will prepare you. She is not bumblebees, and she is not fish."
 
-**中文理解**：Cora's warning——"There's her. And there is nothing I can say that will prepare you."。
+**中文理解**：Cora 的提醒——“There's her. And there is nothing I can say that will prepare you.”。
 
 **关键词**：nothing I can say that will prepare you / not bumblebees, not fish
 
-**为什么这样写**：把 Colibri 写成 unpreparable—"nothing I can say that will prepare you"; "not bumblebees, not fish"写出 her uniqueness。
+**为什么这样写**：把 Colibri 写成无法预备的——“nothing I can say that will prepare you”；“not bumblebees, not fish”写出她的独特。
 
-**读者视角提示**：Colibri as beyond analogy—not bumblebees, not fish。
+**读者视角提示**：Colibri 超出类比——非蜜蜂、非鱼。
 
 > **原句 5:** "Part of Signy scoffed at the suggestion that she'd freak out. She was not the sort of person who freaked out. She'd grown up in a medical clinic; there wasn't much she hadn't seen. But she wasn't infallible, either. There were things she hadn't seen."
 
-**中文理解**：Signy's self-assessment——"not the sort of person who freaked out" but "not infallible, either"。
+**中文理解**：Signy 的自我评估——“not the sort of person who freaked out”，但也“not infallible, either”。
 
 **关键词**：not the sort of person who freaked out / not infallible
 
-**为什么这样写**：把 Signy's confidence 写成 "not infallible, either"—her humility; "there were things she hadn't seen"写出 her openness。
+**为什么这样写**：把 Signy 的自信写成“not infallible, either”——她的谦逊；“there were things she hadn't seen”写出她的开放。
 
-**读者视角提示**：Signy's self-awareness—confidence + humility。
+**读者视角提示**：Signy 的自知——自信加谦逊。
 
 > **原句 6:** "Oh god, she thought, only it wasn't so much a thought as an instinct. Oh. God."
 
-**中文理解**：Signy's first sight of Colibri——"Oh god... only it wasn't so much a thought as an instinct"。
+**中文理解**：Signy 初见 Colibri——“Oh god... only it wasn't so much a thought as an instinct”。
 
 **关键词**：Oh god / instinct
 
-**为什么这样写**：把 first sight 写成 "instinct"—beyond thought; "Oh. God."的 repetition writes shock。
+**为什么这样写**：把初见写成“instinct”——超越思想；“Oh. God.”的重复写出震惊。
 
-**读者视角提示**：Signy's Colibri first sight—instinctive awe。
+**读者视角提示**：Signy 初见 Colibri——本能的敬畏。
 
 > **原句 7:** "It was—it was— / It was huge."
 
-**中文理解**：Signy's realization——"It was huge."。
+**中文理解**：Signy 的领悟——“It was huge.”。
 
 **关键词**：It was huge
 
-**为什么这样写**：把 Colibri's size 写成 "It was huge"—simple, stunned; "It was—it was—"写出 speechlessness。
+**为什么这样写**：把 Colibri 的体量写成“It was huge”——简单、震惊；“It was—it was—”写出声塞。
 
-**读者视角提示**：Colibri's scale—beyond imagination。
+**读者视角提示**：Colibri 的尺度——超越想象。
 
 > **原句 8:** "The thing, the creature, the animal—it was huge. Bulbous and hulking, the size of a ferry. And oh, god, it moved."
 
-**中文理解**：Colibri's description——"Bulbous and hulking, the size of a ferry. And oh, god, it moved."。
+**中文理解**：Colibri 的描写——“Bulbous and hulking, the size of a ferry. And oh, god, it moved.”。
 
 **关键词**：Bulbous and hulking / size of a ferry / it moved
 
-**为什么这样写**：把 Colibri 写成 "Bulbous and hulking, the size of a ferry"—scale; "it moved"写出 her aliveness。
+**为什么这样写**：把 Colibri 写成“Bulbous and hulking, the size of a ferry”——尺度；“it moved”写出她的鲜活。
 
-**读者视角提示**：Colibri's physicality—scale, movement。
+**读者视角提示**：Colibri 的物质性——尺度、运动。
 
 > **原句 9:** "Orange, purple, plasma yellow. The animal. A rotting fruit, a perfect jewel, a mushroom cap, a dissected organ, a blooming flower, an abandoned petri dish, an unbaked hunk of clay that could never be shaped to fit a human hand no matter how hard you squeezed."
 
-**中文理解**：Signy's Colibri description——color catalog + simile chain (rotting fruit, perfect jewel, mushroom cap, dissected organ, blooming flower, petri dish, unbaked clay)。
+**中文理解**：Signy 对 Colibri 的描写——色彩 catalog 加 simile 链（rotting fruit、perfect jewel、mushroom cap、dissected organ、blooming flower、petri dish、unbaked clay）。
 
 **关键词**：Orange, purple, plasma yellow / rotting fruit / perfect jewel / mushroom cap / dissected organ / blooming flower / petri dish / unbaked hunk of clay
 
-**为什么这样写**：把 Colibri 写成 simile chain—Signy's plant/medical lens; "unbaked hunk of clay that could never be shaped to fit a human hand"写出 her alienness。
+**为什么这样写**：把 Colibri 写成 simile 链——Signy 的植物/医学视角；“unbaked hunk of clay that could never be shaped to fit a human hand”写出她的异质性。
 
-**读者视角提示**：Signy's Colibri perception—through plant/medical lens。
+**读者视角提示**：Signy 感知 Colibri——透过植物/医学视角。
 
 > **原句 10:** "She, Signy told herself. This obscenity, this epiphany—she was a she, somehow."
 
-**中文理解**：Signy's self-correction——"she was a she, somehow"。
+**中文理解**：Signy 的自我纠正——“she was a she, somehow”。
 
 **关键词**：obscenity, this epiphany / she was a she
 
-**为什么这样写**：把 Colibri 写成 "obscenity, this epiphany"—Signy's awe; "she was a she, somehow"写出 her gender assignment。
+**为什么这样写**：把 Colibri 写成“obscenity, this epiphany”——Signy 的敬畏；“she was a she, somehow”写出她的性别认定。
 
-**读者视角提示**：Signy's Colibri perception—awe + gender assignment。
+**读者视角提示**：Signy 感知 Colibri——敬畏加性别认定。
 
 > **原句 11:** "Swallowing her pride, Signy reached out and put her hand on Cora's forearm."
 
-**中文理解**：Signy's action——"Swallowing her pride, Signy reached out and put her hand on Cora's forearm."。
+**中文理解**：Signy 的举动——“Swallowing her pride, Signy reached out and put her hand on Cora's forearm.”。
 
 **关键词**：Swallowing her pride / put her hand on Cora's forearm
 
-**为什么这样写**：把 Signy's need for contact 写成 "Swallowing her pride"—her vulnerability; "put her hand on Cora's forearm"写出 physical comfort seeking。
+**为什么这样写**：把 Signy 对接触的需要写成“Swallowing her pride”——她的脆弱；“put her hand on Cora's forearm”写出她寻求身体安慰。
 
-**读者视角提示**：Signy's vulnerability—seeking Cora's physical comfort。
+**读者视角提示**：Signy 的脆弱——寻求 Cora 的身体安慰。
 
 > **原句 12:** "Cora glanced down. "I really don't mean anything by this," she said carefully, "but would you like to hold my hand?""
 
-**中文理解**：Cora's offer——"would you like to hold my hand?"。
+**中文理解**：Cora 的提议——“would you like to hold my hand?”。
 
 **关键词**：would you like to hold my hand
 
-**为什么这样写**：把 Cora's care 写成 "would you like to hold my hand"—gentle offer; "I really don't mean anything by this"写出 her care not to presume。
+**为什么这样写**：把 Cora 的体贴写成“would you like to hold my hand”——温柔的提议；“I really don't mean anything by this”写出她小心不冒犯。
 
-**读者视角提示**：Cora's care—offering hand without presumption。
+**读者视角提示**：Cora 的体贴——不冒犯地提供牵手。
 
 > **原句 13:** "Cora led them both into the room, right up to the window. "She can't hurt you," Cora said. "And more importantly, she doesn't want to.""
 
-**中文理解**：Cora's reassurance——"She can't hurt you. And more importantly, she doesn't want to."。
+**中文理解**：Cora 的安抚——“She can't hurt you. And more importantly, she doesn't want to.”。
 
 **关键词**：She can't hurt you / doesn't want to
 
-**为什么这样写**：把 Colibri's safety 写成 "can't hurt you" + "doesn't want to"—capability + desire; "more importantly"写出 her intent matters more than capability。
+**为什么这样写**：把 Colibri 的安全写成“can't hurt you”加“doesn't want to”——能力加意愿；“more importantly”写出她的意图比能力更重要。
 
-**读者视角提示**：Colibri's safety—capability vs intent。
+**读者视角提示**：Colibri 的安全——能力对比意图。
 
 > **原句 14:** "That's her bell. It's her stomach, basically. That's where she holds the gases she eats."
 
-**中文理解**：Cora's anatomy tour——"That's her bell. It's her stomach, basically."。
+**中文理解**：Cora 的解剖讲解——“That's her bell. It's her stomach, basically.”。
 
 **关键词**：bell / stomach / gases she eats
 
-**为什么这样写**：把 Colibri's anatomy 写成 "bell" (stomach)—Cora's simplified explanation; "gases she eats"写出 her diet。
+**为什么这样写**：把 Colibri 的解剖写成“bell”（胃）——Cora 简化的解释；“gases she eats”写出她的食谱。
 
-**读者视角提示**：Colibri's anatomy—bell as stomach, gas-eater。
+**读者视角提示**：Colibri 的解剖——bell 即胃、食气者。
 
 > **原句 15:** "Those are her gas bags. She shifts some of what she eats into those before she digests it, so she can spit it out and scoot herself around small distances."
 
-**中文理解**：Colibri's gas bags——"shifts some of what she eats into those before she digests it, so she can spit it out and scoot"。
+**中文理解**：Colibri 的 gas bags——“shifts some of what she eats into those before she digests it, so she can spit it out and scoot”。
 
 **关键词**：gas bags / spit it out and scoot
 
-**为什么这样写**：把 Colibri's propulsion 写成 "spit it out and scoot"—her jet propulsion; "shifts some of what she eats"写出 her fuel management。
+**为什么这样写**：把 Colibri 的推进写成“spit it out and scoot”——她的喷射推进；“shifts some of what she eats”写出她的燃料管理。
 
-**读者视角提示**：Colibri's propulsion—gas bags as jets。
+**读者视角提示**：Colibri 的推进——gas bags 如喷气。
 
 > **原句 16:** "Poor thing," Signy said, much as she would about a kid who wasn't allowed a second bowl of pudding."
 
-**中文理解**：Signy's "Poor thing"—ammonia tank empty, like kid denied second pudding。
+**中文理解**：Signy 的“Poor thing”——氨罐空了，像被拒绝第二碗布丁的孩子。
 
 **关键词**：Poor thing / second bowl of pudding
 
-**为什么这样写**：把 Signy's empathy 写成 "Poor thing"—her plant/medical lens; "second bowl of pudding"写出 her anthropomorphizing (ch001's critique)。
+**为什么这样写**：把 Signy 的共情写成“Poor thing”——她的植物/医学视角；“second bowl of pudding”写出她的拟人化（ch001 的批评）。
 
-**读者视角提示**：Signy's empathy for Colibri—anthropomorphizing (ch001's theme)。
+**读者视角提示**：Signy 对 Colibri 的共情——拟人化（ch001 的主题）。
 
 > **原句 17:** "So what do you say? Would you like to say hi?"
 
-**中文理解**：Cora's offer——"Would you like to say hi?"。
+**中文理解**：Cora 的提议——“Would you like to say hi?”。
 
 **关键词**：Would you like to say hi
 
-**为什么这样写**：把 Colibri communication 写成 "say hi"—casual; Cora's care in offering。
+**为什么这样写**：把 Colibri 沟通写成“say hi”——随意；Cora 体贴地提供选择。
 
-**读者视角提示**：Cora's care—offering Signy the choice to communicate。
+**读者视角提示**：Cora 的体贴——给 Signy 沟通的选择。
 
 ## 本章词汇
 

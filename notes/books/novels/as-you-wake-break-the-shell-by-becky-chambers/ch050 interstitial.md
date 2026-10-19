@@ -36,7 +36,7 @@ Cora 爬上 Cypsela 表面——ugly sweet potato 般的 moonlet；她享受 vie
 
 **为什么这样写**：用"appreciative pat"的 human gesture 写出 Cora 的 relationship with Cypsela——she treats it like a pet or friend; "ugly sweet potato"是 loving mockery。
 
-**读者视角提示**：Cora 的 character——she's sentimental about their home。
+**读者视角提示**：Cora 的 character——她 sentimental about their home。
 
 > **原句 3:** "Cypsela wasn't big enough for magnetic poles. It wasn't even big enough to be round. It was an ugly, wonky sweet potato caught in orbit around an ice giant, with two hairless primates, a couple thousand bumblebees, and a fuckton of plants living in the artificial caves inside."
 

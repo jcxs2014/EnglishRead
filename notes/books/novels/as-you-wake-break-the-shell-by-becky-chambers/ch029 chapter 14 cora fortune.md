@@ -16,113 +16,113 @@ modified: "2026-10-19"
 
 > **原句 1:** "Cora [13:32]: hey I just got back"
 
-**中文理解**：Cora 的 first message——"hey I just got back"——arrival notification。
+**中文理解**：Cora 的第一条消息——“hey I just got back”——到达通知。
 
 **关键词**：hey I just got back
 
-**为什么这样写**：以 timestamped chat opener，把 Cora-Signy communication 写成 daily routine；"hey"的 casualness。
+**为什么这样写**：以带时间戳的 chat 开场，把 Cora-Signy 的沟通写成 daily routine；“hey”的 casualness。
 
-**读者视角提示**：Signy-Cora 的 text-based intimacy。
+**读者视角提示**：Signy 与 Cora 的 text-based intimacy。
 
 > **原句 2:** "Signy [13:33]: test garden"
 
-**中文理解**：Signy's location——"test garden"——one-line reply。
+**中文理解**：Signy 的回复——“test garden”——一行定位。
 
 **关键词**：test garden
 
-**为什么这样写**：把 Signy's response 写成 location-only——her work absorption；"test garden"呼应 ch005/ch027。
+**为什么这样写**：把 Signy 的回复写成只报位置——她的工作沉浸；“test garden”呼应 ch005/ch027。
 
-**读者视角提示**：Signy's work absorption—location as sufficient reply。
+**读者视角提示**：Signy 的工作沉浸——位置即足够的回复。
 
 > **原句 3:** "Cora [13:34]: I was thinking I might go take a nap but I don't have to if you need an extra pair of hands"
 
-**中文理解**：Cora's offer——nap vs help Signy；"extra pair of hands"。
+**中文理解**：Cora 的提议——小睡还是帮 Signy；“extra pair of hands”。
 
 **关键词**：take a nap / extra pair of hands
 
-**为什么这样写**：把 Cora's care 写成 "don't have to if you need"—her flexibility；"extra pair of hands"写出 their partnership。
+**为什么这样写**：把 Cora 的体贴写成“don't have to if you need”——她的弹性；“extra pair of hands”写出两人的 partnership。
 
-**读者视角提示**：Cora-Signy's care exchange—Cora prioritizes Signy's needs。
+**读者视角提示**：Cora-Signy 的体贴交换——Cora 把 Signy 的需要放在前。
 
 > **原句 4:** "Signy [13:34]: no go ahead"
 
-**中文理解**：Signy's permission——"no go ahead"——Cora should nap。
+**中文理解**：Signy 的许可——“no go ahead”——Cora 该去小睡。
 
 **关键词**：no go ahead
 
-**为什么这样写**：把 Signy's care 写成 "go ahead"—prioritizing Cora's rest over her own work。
+**为什么这样写**：把 Signy 的体贴写成“go ahead”——把 Cora 的休息置于自己的工作之上。
 
-**读者视角提示**：Signy's care for Cora—reciprocal。
+**读者视角提示**：Signy 对 Cora 的体贴——相互的。
 
 > **原句 5:** "Signy [13:34]: why"
 
-**中文理解**：Signy's "why"—Cora's offer of help prompts "why"（why do you need to help?）。
+**中文理解**：Signy 的“why”——Cora 主动帮忙，引来一句“why”。
 
 **关键词**：why
 
-**为什么这样写**：把 Signy's "why" 写成 one-word—her directness；questioning Cora's need to help。
+**为什么这样写**：把 Signy 的“why”写成一个词——她的直率；质疑 Cora 为何需要帮忙。
 
-**读者视角提示**：Signy's pragmatism—why help if not needed?
+**读者视角提示**：Signy 的务实——不需要何必帮？
 
 > **原句 6:** "Cora [13:37]: have you been in there the entire time I've been out"
 
-**中文理解**：Cora's concern——Signy been in test garden entire time Cora was out。
+**中文理解**：Cora 的担心——Signy 在 Cora 外出的整段时间都待在 test garden。
 
 **关键词**：entire time I've been out
 
-**为什么这样写**：把 Cora's concern 写成 question—Signy's work absorption worries Cora。
+**为什么这样写**：把 Cora 的担心写成一个问句——Signy 的工作沉浸令 Cora 担忧。
 
-**读者视角提示**：Cora as Signy's caretaker—monitoring her work hours。
+**读者视角提示**：Cora 作为 Signy 的 caretaker——关注她的工时。
 
 > **原句 7:** "Signy [13:38]: I will take a break"
 
-**中文理解**：Signy's promise——"I will take a break"。
+**中文理解**：Signy 的承诺——“I will take a break”。
 
 **关键词**：I will take a break
 
-**为什么这样写**：把 Signy's promise 写成 future tense—commitment to break。
+**为什么这样写**：把 Signy 的承诺写成 future tense——对休息的 commitment。
 
-**读者视角提示**：Signy's self-care promise（often broken）。
+**读者视角提示**：Signy 的自我照顾承诺（常常落空）。
 
 > **原句 8:** "Signy [13:39]: promise"
 
-**中文理解**：Signy's "promise"—reinforcement。
+**中文理解**：Signy 的“promise”——再强调一次。
 
 **关键词**：promise
 
-**为什么这样写**：把 "promise" 写成 standalone—emphasizing commitment；repetition of "I will take a break" + "promise"。
+**为什么这样写**：把“promise”写成独立成行——强调 commitment；“I will take a break”加“promise”的重复。
 
-**读者视角提示**：Signy's emphasis—she means it this time。
+**读者视角提示**：Signy 的强调——这次她是认真的。
 
 > **原句 9:** "Cora [13:39]: oh you know / Cora [13:39]: mixed bag / Cora [13:39]: the usual"
 
-**中文理解**：Cora's flying day——"mixed bag" / "the usual"——understated。
+**中文理解**：Cora 的飞行日——“mixed bag” / “the usual”——轻描淡写。
 
 **关键词**：mixed bag / the usual
 
-**为什么这样写**：把 Cora's flying day 写成 "mixed bag"/"the usual"—understatement of difficulty；three messages in quick succession。
+**为什么这样写**：把 Cora 的飞行日写成“mixed bag”/“the usual”——对困难的轻描淡写；三条消息连发。
 
-**读者视角提示**：Cora's emotional processing—downplaying difficulty。
+**读者视角提示**：Cora 的情绪处理——淡化困难。
 
 > **原句 10:** "Signy [13:39]: you can come get a hug for it"
 
-**中文理解**：Signy's offer——"you can come get a hug for it"——care for Cora's "mixed bag" day。
+**中文理解**：Signy 的提议——“you can come get a hug for it”——抚慰 Cora 那个“mixed bag”的日子。
 
 **关键词**：come get a hug for it
 
-**为什么这样写**：把 Signy's care 写成 "hug for it"—physical comfort as remedy；"for it" links hug to flying day。
+**为什么这样写**：把 Signy 的体贴写成“hug for it”——以身体安慰作为解药；“for it”把拥抱与飞行日相连。
 
-**读者视角提示**：Signy's care—physical comfort for emotional difficulty。
+**读者视角提示**：Signy 的体贴——以身体安慰回应情绪困难。
 
 > **原句 11:** "Cora [13:40]: I love you / Signy [13:40]: I love you too"
 
-**中文理解**：mutual "I love you"—closing exchange。
+**中文理解**：相互的“I love you”——收尾交换。
 
 **关键词**：I love you / I love you too
 
-**为什么这样写**：把 love 写成 chat exchange—casual, reciprocal, timestamped；"too"的 addition completes the pair。
+**为什么这样写**：把 love 写成 chat 交换——casual、reciprocal、带时间戳；“too”的添加补全这一对。
 
-**读者视角提示**：Signy-Cora's intimacy—love as daily closing ritual。
+**读者视角提示**：Signy 与 Cora 的 intimacy——爱是每日的收尾仪式。
 
 ## 本章词汇
 

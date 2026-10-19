@@ -16,63 +16,63 @@ modified: "2026-10-19"
 
 > **原句 1:** "To anyone else, Signy's sketch pad held nothing more than idle drawings of flowers, squiggles, and simple patterns."
 
-**中文理解**：Signy 的 sketch pad 对外是 idle drawings——flowers, squiggles, patterns。
+**中文理解**：在旁人眼里，Signy 的速写本只是“idle drawings”——花卉、涂鸦与简单图案。
 
 **关键词**：idle drawings / flowers / squiggles
 
-**为什么这样写**：把 secret to-do list 写成"idle drawings"，建立 Signy 的 disguise；"to anyone else"写出 observer perspective。
+**为什么这样写**：把 Signy 的秘密待办清单伪装成“idle drawings”，以此建立她的 disguise；“to anyone else”这一措辞写出旁观者视角。
 
-**读者视角提示**：sketch pad 是 Signy 的 hidden truth（ch016）。
+**读者视角提示**：速写本是 Signy 的“hidden truth”（ch016）。
 
 > **原句 2:** "But to Signy, every flower represented a name. Every squiggle was a body part, every spiral an ailment."
 
-**中文理解**：Signy 的 symbol system——flower=name, squiggle=body part, spiral=ailment。
+**中文理解**：Signy 的符号系统——每一朵花代表一个名字，每一道“squiggle”代表一个身体部位，每一个螺旋代表一种病症。
 
 **关键词**：flower / name / squiggle / body part / spiral / ailment
 
-**为什么这样写**：把 drawings 写成 code system；"represented"写出 Signy 的 encoding；以 symbol 建立 patient confidentiality。
+**为什么这样写**：把 Signy 的 drawings 处理成一套编码系统，“represented”一词写出她的编码方式，用符号建立病人隐私保护。
 
-**读者视角提示**：Signy 的 patient privacy ethic——no written key。
+**读者视角提示**：Signy 的 patient privacy ethic——不留书面“key”。
 
 > **原句 3:** "A system of dots and lines indicated dates, dosages, and details aplenty."
 
-**中文理解**：dots and lines = dates, dosages, details。
+**中文理解**：Signy 用点和线记录日期、剂量与大量细节——“dots and lines”就是她的病历编码。
 
 **关键词**：dots and lines / dates, dosages, details
 
-**为什么这样写**：把 medical record 写成 visual code；"aplenty"写出信息密度。
+**为什么这样写**：把病历写成“visual code”，“aplenty”一词写出信息密度之高。
 
-**读者视角提示**：Signy 的 meticulous record-keeping。
+**读者视角提示**：Signy 一丝不苟的 record-keeping。
 
 > **原句 4:** "She knew each of the symbols by memory; there was no written key. Making medicine demanded caution, and the safety of her customers was almost as important to her as her own."
 
-**中文理解**：Signy 靠 memory 知 symbols；no written key；customer safety almost as important as own。
+**中文理解**：Signy 凭记忆记住每个符号，不留“written key”；顾客的安全几乎与她自己的安全同等重要。
 
 **关键词**：by memory / no written key / caution / safety
 
-**为什么这样写**：把"no written key"写出 security ethic；"almost as important"的 honest qualification（not "more"）写出 Signy 的 pragmatism。
+**为什么这样写**：用“no written key”写出安全伦理，“almost as important”这一诚实的限定（而非“more”）写出 Signy 的务实。
 
-**读者视角提示**：Signy 的 ethic——caution, confidentiality, self-preservation balanced。
+**读者视角提示**：Signy 的 ethic——caution、confidentiality 与 self-preservation 三者的平衡。
 
 > **原句 5:** "And Cora—an onion flower, Signy had decided—Cora needed her brain to stop trying to behave like that of a different species."
 
-**中文理解**：Cora = "onion flower"；需要 brain stop "behave like that of a different species"（mindbleed）。
+**中文理解**：Signy 把 Cora 编码成“onion flower”——她判断其脑部需要停止“behave like that of a different species”，这也就是“mindbleed”的发作。
 
 **关键词**：onion flower / different species
 
-**为什么这样写**：把 Cora 编码为"onion flower"（与 ch011 的 onion exchange 呼应）；"different species"写出 mindbleed 的 nature——brain trying to be rorqual-like。
+**为什么这样写**：Signy 把 Cora 编码成“onion flower”（与 ch011 的洋葱交换呼应）；“different species”这一说法点出“mindbleed”的本质——脑部试图像“rorqual”那样运作。
 
-**读者视角提示**：Cora 的 mindbleed = brain trying to behave like rorqual's；Signy 的 diagnosis。
+**读者视角提示**：Cora 的 mindbleed——脑部试图像 rorqual 那样运作；Signy 的 diagnosis。
 
 > **原句 6:** "An interesting problem, that one."
 
-**中文理解**：Signy 的 clinical assessment——"An interesting problem, that one."
+**中文理解**：Signy 对这份病历给出临床判断——“An interesting problem, that one.”
 
 **关键词**：interesting problem
 
-**为什么这样写**：把 Cora 的 illness 写成 "interesting problem"，写出 Signy 的 clinical detachment + curiosity；与 ch011 的 "What's your trouble?" 呼应。
+**为什么这样写**：Signy 把这份 illness 判为“interesting problem”，写出她的临床疏离与好奇；这也与先前“What's your trouble?”的提问遥相呼应。
 
-**读者视角提示**：Signy 的 medical interest in Cora = professional + personal。
+**读者视角提示**：Signy 对 Cora 的 medical interest——professional 与 personal 兼具。
 
 ## 本章词汇
 

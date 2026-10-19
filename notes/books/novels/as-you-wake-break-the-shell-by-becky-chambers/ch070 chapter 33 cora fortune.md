@@ -16,183 +16,183 @@ modified: "2026-10-19"
 
 > **原句 1:** "Genes are nothing more than instructions conveyed with chemicals."
 
-**中文理解**：Signy's opening——"Genes are nothing more than instructions conveyed with chemicals."。
+**中文理解**：Signy 的开场——“Genes are nothing more than instructions conveyed with chemicals.”。
 
 **关键词**：Genes / instructions conveyed with chemicals
 
-**为什么这样写**：把 genes 写成 "instructions conveyed with chemicals"—Signy's scientific framing; "nothing more than"写出 her reductionism。
+**为什么这样写**：把 genes 写成“instructions conveyed with chemicals”——Signy 的科学框架；“nothing more than”写出她的还原论。
 
-**读者视角提示**：Signy's philosophy—genes as instructions。
+**读者视角提示**：Signy 的哲学——genes 即指令。
 
 > **原句 2:** "A recipe is more apt, I think."
 
-**中文理解**：Signy's correction——"A recipe is more apt, I think." (genes as recipe, not blueprint)。
+**中文理解**：Signy 的修正——“A recipe is more apt, I think.”（genes 如食谱，非蓝图）。
 
 **关键词**：recipe is more apt
 
-**为什么这样写**：把 genes 写成 "recipe"—Signy's preference; "more apt"写出 her revision。
+**为什么这样写**：把 genes 写成“recipe”——Signy 的偏好；“more apt”写出她的修正。
 
-**读者视角提示**：Signy's philosophy—genes as recipe (not blueprint)。
+**读者视角提示**：Signy 的哲学——genes 如食谱（非蓝图）。
 
 > **原句 3:** "Humans have been cultivating and trading the genes of other species for tens of thousands of years, long before we had any inkling of what a gene was."
 
-**中文理解**：Signy's history——humans cultivating/trading genes for tens of thousands of years。
+**中文理解**：Signy 的历史——人类在数万年间培育/交换基因。
 
 **关键词**：cultivating and trading the genes / tens of thousands of years
 
-**为什么这样写**：把 human agriculture 写成 "cultivating and trading the genes"—Signy's framing; "long before we had any inkling"写出 pre-scientific knowledge。
+**为什么这样写**：把人类农业写成“cultivating and trading the genes”——Signy 的框架；“long before we had any inkling”写出前科学时代的知识。
 
-**读者视角提示**：Signy's philosophy—humans as gene manipulators since prehistory。
+**读者视角提示**：Signy 的哲学——人类自史前即操纵基因。
 
 > **原句 4:** "And because no relationship exists in one direction alone, now the grass expects us. It adapts. It learns to follow irrigation schedules instead of rain patterns."
 
-**中文理解**：Signy's co-evolution——"the grass expects us. It adapts."。
+**中文理解**：Signy 的共同演化——“the grass expects us. It adapts.”。
 
 **关键词**：the grass expects us / It adapts / irrigation schedules instead of rain patterns
 
-**为什么这样写**：把 co-evolution 写成 "the grass expects us"—reciprocal; "learns to follow irrigation schedules"写出 plant adaptation to human。
+**为什么这样写**：把 co-evolution 写成“the grass expects us”——相互的；“learns to follow irrigation schedules”写出植物对人类的适应。
 
-**读者视角提示**：Signy's philosophy—co-evolution, reciprocal adaptation。
+**读者视角提示**：Signy 的哲学——共同演化、相互适应。
 
 > **原句 5:** "For good, for ill, or for neither."
 
-**中文理解**：Signy's triad——"For good, for ill, or for neither."。
+**中文理解**：Signy 的三元——“For good, for ill, or for neither.”。
 
 **关键词**：For good, for ill, or for neither
 
-**为什么这样写**：把 human-plant relationship 写成 triad—good/ill/neither; "or for neither"写出 neutrality。
+**为什么这样写**：把人类与植物的关系写成三元——good/ill/neither；“or for neither”写出中立。
 
-**读者视角提示**：Signy's philosophy—relationship outcomes (good/ill/neither)。
+**读者视角提示**：Signy 的哲学——关系的结果（good/ill/neither）。
 
 > **原句 6:** "Life changes. It has to. It must."
 
-**中文理解**：Signy's life principle——"Life changes. It has to. It must."。
+**中文理解**：Signy 的人生原则——“Life changes. It has to. It must.”。
 
 **关键词**：Life changes / It has to / It must
 
-**为什么这样写**：把 life 写成 "Life changes. It has to. It must."—anaphora; "has to/must"写出 necessity。
+**为什么这样写**：把 life 写成“Life changes. It has to. It must.”——anaphora；“has to/must”写出必然。
 
-**读者视角提示**：Signy's philosophy—change as life's necessity。
+**读者视角提示**：Signy 的哲学——变化是生命的必然。
 
 > **原句 7:** "I am not an exact copy of either of my parents. Neither are you."
 
-**中文理解**：Signy's individuality——"I am not an exact copy of either of my parents. Neither are you."。
+**中文理解**：Signy 的个体性——“I am not an exact copy of either of my parents. Neither are you.”。
 
 **关键词**：not an exact copy / Neither are you
 
-**为什么这样写**：把 individuality 写成 "not an exact copy"—genetic uniqueness; "Neither are you"写出 shared non-copying。
+**为什么这样写**：把 individuality 写成“not an exact copy”——遗传独特性；“Neither are you”写出共同的非复制。
 
-**读者视角提示**：Signy's philosophy—individuality as non-copying。
+**读者视角提示**：Signy 的哲学——个体性即非复制。
 
 > **原句 8:** "Rorquals. They're parthenogenic."
 
-**中文理解**：Cora's revelation——"Rorquals. They're parthenogenic."。
+**中文理解**：Cora 的揭晓——“Rorquals. They're parthenogenic.”。
 
 **关键词**：Rorquals / parthenogenic
 
-**为什么这样写**：把 rorquals 写成 "parthenogenic"—asexual reproduction; Cora's knowledge surprise Signy。
+**为什么这样写**：把 rorquals 写成“parthenogenic”——无性繁殖；Cora 的知识令 Signy 惊讶。
 
-**读者视角提示**：Rorquals' reproduction—parthenogenic (asexual)。
+**读者视角提示**：Rorquals 的繁殖——parthenogenic（无性）。
 
 > **原句 9:** "We give them hormone blockers to keep them from reproducing. They die after they have a calf, but that's not the only reason we put a stop to it. We want to keep them as we made them. We don't want them to change."
 
-**中文理解**：Cora's revelation——rorquals given hormone blockers to prevent reproduction; "We want to keep them as we made them. We don't want them to change."。
+**中文理解**：Cora 的揭晓——给 rorquals 用激素阻滞剂防止繁殖；“We want to keep them as we made them. We don't want them to change.”。
 
 **关键词**：hormone blockers / keep them as we made them / don't want them to change
 
-**为什么这样写**：把 rorqual control 写成 "keep them as we made them"—OCTA's control; "don't want them to change"写出 fear of genetic drift。
+**为什么这样写**：把 rorqual 控制写成“keep them as we made them”——OCTA 的控制；“don't want them to change”写出对 genetic drift 的恐惧。
 
-**读者视角提示**：OCTA's control—hormone blockers, preventing change。
+**读者视角提示**：OCTA 的控制——激素阻滞剂、阻止变化。
 
 > **原句 10:** "So you already know about genetic drift. You know that even a thing that copies itself will still change at some point, for reasons beyond our ability to grasp."
 
-**中文理解**：Cora's deduction——"even a thing that copies itself will still change"。
+**中文理解**：Cora 的推论——“even a thing that copies itself will still change”。
 
 **关键词**：even a thing that copies itself will still change
 
-**为什么这样写**：把 genetic drift 写成 "even a thing that copies itself will still change"—Cora's understanding; "reasons beyond our ability to grasp"写出 mystery。
+**为什么这样写**：把 genetic drift 写成“even a thing that copies itself will still change”——Cora 的理解；“reasons beyond our ability to grasp”写出神秘。
 
-**读者视角提示**：Cora's understanding—genetic drift as inevitable, mysterious。
+**读者视角提示**：Cora 的理解——genetic drift 是必然、神秘的。
 
 > **原句 11:** "Because I tell her everything."
 
-**中文理解**：Cora's reason for telling Colibri——"Because I tell her everything."。
+**中文理解**：Cora 告诉 Colibri 的理由——“Because I tell her everything.”。
 
 **关键词**：Because I tell her everything
 
-**为什么这样写**：把 Cora's honesty 写成 "Because I tell her everything"—her principle; "everything"写出 her commitment。
+**为什么这样写**：把 Cora 的诚实写成“Because I tell her everything”——她的原则；“everything”写出她的承诺。
 
-**读者视角提示**：Cora's principle—tell Colibri everything (including mindbleed, origin)。
+**读者视角提示**：Cora 的原则——告诉 Colibri 一切（包括 mindbleed、起源）。
 
 > **原句 12:** "Because we are each other's survival. I can't change how she was made, but she was placed in my hands, my mind. She is my responsibility, and I get to choose what that means."
 
-**中文理解**：Cora's ethic——"Because we are each other's survival" / "She is my responsibility, and I get to choose what that means."。
+**中文理解**：Cora 的 ethic——“Because we are each other's survival” / “She is my responsibility, and I get to choose what that means.”。
 
 **关键词**：each other's survival / my responsibility / I get to choose what that means
 
-**为什么这样写**：把 Cora's ethic 写成 "each other's survival"—mutual; "I get to choose what that means"写出 her agency。
+**为什么这样写**：把 Cora 的 ethic 写成“each other's survival”——相互的；“I get to choose what that means”写出她的 agency。
 
-**读者视角提示**：Cora's ethic—mutual survival, responsibility, agency。
+**读者视角提示**：Cora 的 ethic——相互生存、责任、agency。
 
 > **原句 13:** "In our training, we're told to build trust but maintain distance from them. Isn't that stupid? Isn't that the stupidest thing you've ever heard? How could you possibly build trust and maintain distance?"
 
-**中文理解**：Cora's critique of training——"build trust but maintain distance"—"Isn't that the stupidest thing you've ever heard?"。
+**中文理解**：Cora 对训练的批评——“build trust but maintain distance”——“Isn't that the stupidest thing you've ever heard?”。
 
 **关键词**：build trust but maintain distance / stupidest thing
 
-**为什么这样写**：把 training 写成 "stupidest thing"—Cora's critique; "How could you possibly build trust and maintain distance?"写出 her rejection。
+**为什么这样写**：把 training 写成“stupidest thing”——Cora 的批评；“How could you possibly build trust and maintain distance?”写出她的拒绝。
 
-**读者视角提示**：Cora's critique of pilot training—trust vs distance contradiction。
+**读者视角提示**：Cora 对 pilot 训练的批评——信任与距离的矛盾。
 
 > **原句 14:** "You chose trust." / "Yes."
 
-**中文理解**：Signy's assessment——"You chose trust." / Cora's "Yes."。
+**中文理解**：Signy 的评估——“You chose trust.” / Cora 的“Yes.”。
 
 **关键词**：You chose trust / Yes
 
-**为什么这样写**：把 Cora's choice 写成 "You chose trust"—Signy's recognition; "Yes"写出 her confirmation。
+**为什么这样写**：把 Cora 的选择写成“You chose trust”——Signy 的辨认；“Yes”写出她的确认。
 
-**读者视角提示**：Cora's choice—trust over distance。
+**读者视角提示**：Cora 的选择——信任胜过距离。
 
 > **原句 15:** "I fly to the moons on the back of a creature profound and beautiful, and I bask in the stars that hide behind the clouds, and I know that she and I belong there, that we are built out of the same atoms forged inside suns that will one day scatter back to where they came from, and no matter what shape we take, we will always be something bright."
 
-**中文理解**：Cora's cosmic vision——"we are built out of the same atoms forged inside suns that will one day scatter back" / "we will always be something bright"。
+**中文理解**：Cora 的宇宙愿景——“we are built out of the same atoms forged inside suns that will one day scatter back” / “we will always be something bright”。
 
 **关键词**：same atoms forged inside suns / we will always be something bright
 
-**为什么这样写**：把 Cora's vision 写成 "same atoms forged inside suns"—cosmic; "we will always be something bright"写出 her hope。
+**为什么这样写**：把 Cora 的愿景写成“same atoms forged inside suns”——宇宙尺度；“we will always be something bright”写出她的希望。
 
-**读者视角提示**：Cora's cosmic vision—shared atomic origin, brightness。
+**读者视角提示**：Cora 的宇宙愿景——共同的原子起源、明亮。
 
 > **原句 16:** "And yet, that same perspective is what makes me question what we have done to her species."
 
-**中文理解**：Cora's paradox——"that same perspective is what makes me question what we have done to her species."。
+**中文理解**：Cora 的悖论——“that same perspective is what makes me question what we have done to her species.”。
 
 **关键词**：same perspective / question what we have done to her species
 
-**为什么这样写**：把 Cora's paradox 写成 "same perspective"—her cosmic vision fuels her ethical questioning; "question what we have done"写出 her moral doubt。
+**为什么这样写**：把 Cora 的悖论写成“same perspective”——她的宇宙愿景助长她的伦理质疑；“question what we have done”写出她的道德怀疑。
 
-**读者视角提示**：Cora's paradox—cosmic connection fuels ethical questioning。
+**读者视角提示**：Cora 的悖论——宇宙联结助长伦理质疑。
 
 > **原句 17:** "I want to grow an unshackled plant. I want to see a real seed."
 
-**中文理解**：Signy's secret——"I want to grow an unshackled plant. I want to see a real seed."。
+**中文理解**：Signy 的秘密——“I want to grow an unshackled plant. I want to see a real seed.”。
 
 **关键词**：unshackled plant / real seed
 
-**为什么这样写**：把 Signy's secret 写成 "unshackled plant"—her desire for freedom; "real seed"写出 her longing for authenticity。
+**为什么这样写**：把 Signy 的秘密写成“unshackled plant”——她对自由的渴望；“real seed”写出她对真实的渴望。
 
-**读者视角提示**：Signy's secret—unshackled plant, real seed (ch011's "She would've given almost anything to see the real thing")。
+**读者视角提示**：Signy 的秘密——unshackled plant、real seed（ch011 的“She would've given almost anything to see the real thing”）。
 
 > **原句 18:** "I think I like us." / "I think I do, too."
 
-**中文理解**：closing——"I think I like us." / "I think I do, too."。
+**中文理解**：收尾——“I think I like us.” / “I think I do, too.”。
 
 **关键词**：I think I like us / I think I do, too
 
-**为什么这样写**：把 closing 写成 "I think I like us"—Signy's tentative acceptance; "I think I do, too"写出 Cora's agreement。
+**为什么这样写**：把 closing 写成“I think I like us”——Signy 试探性的接纳；“I think I do, too”写出 Cora 的同意。
 
-**读者视角提示**：Signy-Cora's closing—tentative, mutual acceptance。
+**读者视角提示**：Signy 与 Cora 的收尾——试探、相互接纳。
 
 ## 本章词汇
 

@@ -16,63 +16,63 @@ modified: "2026-10-19"
 
 > **原句 1:** "Signy stared silently at the carrot patch."
 
-**中文理解**：Signy 静默盯着 carrot patch——focus。
+**中文理解**：Signy 静默地盯着 carrot patch——专注。
 
 **关键词**：stared silently
 
-**为什么这样写**：以"stared silently" opener，把 Signy 的 focus 写成 silence；"silently"写出 her intensity。
+**为什么这样写**：以“stared silently”开场，把 Signy 的 focus 写成 silence；“silently”写出她的 intensity。
 
-**读者视角提示**：Signy's scientific focus—single-minded。
+**读者视角提示**：Signy 的科学专注——心无旁骛。
 
 > **原句 2:** "She almost didn't hear Cora hurry over after she called for her."
 
-**中文理解**：Signy 几乎没听到 Cora hurry over——focus 排除外界。
+**中文理解**：Signy 几乎没听到 Cora 赶来——专注屏蔽了外界。
 
 **关键词**：almost didn't hear
 
-**为什么这样写**：把 Signy's focus 写成 sensory narrowing；"almost"写出 her absorption。
+**为什么这样写**：把 Signy 的 focus 写成 sensory narrowing；“almost”写出她的 absorption。
 
-**读者视角提示**：Signy's work absorption—Cora's presence peripheral。
+**读者视角提示**：Signy 的工作沉浸——Cora 的存在退到边缘。
 
 > **原句 3:** "Much as Signy loved her wife, in that moment, the entire universe contained nothing but one single flower on one single umbel on the one single plant standing before her crouching knees."
 
-**中文理解**： entire universe = one single flower on one single umbel——Signy's focus narrowed to single flower。
+**中文理解**：整个宇宙仿佛只剩一朵 single flower、一个 single umbel——Signy 的专注收窄到那朵花。
 
 **关键词**：entire universe / one single flower / one single umbel / one single plant
 
-**为什么这样写**：把 focus 写成 "entire universe contained nothing but"——scientific obsession；"one single" repeated 3x 写出 narrowing。
+**为什么这样写**：把 focus 写成“entire universe contained nothing but”——scientific obsession；“one single”重复三次写出 narrowing。
 
-**读者视角提示**：Signy's breakthrough moment—single flower as universe。
+**读者视角提示**：Signy 的 breakthrough moment——single flower 即是宇宙。
 
 > **原句 4:** "Honey? What'd you find?" Cora asked from a thousand miles away.
 
-**中文理解**：Cora's question "from a thousand miles away"——Signy's distance from Cora。
+**中文理解**：Cora 的问话“from a thousand miles away”——Signy 与 Cora 之间的距离感。
 
 **关键词**：from a thousand miles away
 
-**为什么这样写**：把 Cora's voice 写成 "from a thousand miles away"——Signy's sensory narrowing makes Cora distant。
+**为什么这样写**：把 Cora 的声音写成“from a thousand miles away”——Signy 的 sensory narrowing 让 Cora 变得遥远。
 
-**读者视角提示**：Signy's absorption—Cora peripheral but present。
+**读者视角提示**：Signy 的 absorption——Cora 虽在边缘却仍存在。
 
 > **原句 5:** "Signy didn't know how to reply. She was frozen, vibrating."
 
-**中文理解**：Signy "frozen, vibrating"——paradox of intense focus。
+**中文理解**：Signy“frozen, vibrating”——强烈专注的悖论。
 
 **关键词**：frozen / vibrating
 
-**为什么这样写**：把 breakthrough 写成 "frozen, vibrating"——paradox of stillness + energy；"didn't know how to reply"写出 her overwhelm。
+**为什么这样写**：把 breakthrough 写成“frozen, vibrating”——静止与能量的悖论；“didn't know how to reply”写出她的 overwhelm。
 
-**读者视角提示**：Signy's breakthrough—beyond words。
+**读者视角提示**：Signy 的 breakthrough——超越言语。
 
 > **原句 6:** "It was happening. It was finally happening."
 
-**中文理解**：Signy's realization——"It was happening. It was finally happening."——repetition of "happening"。
+**中文理解**：Signy 的 realization——“It was happening. It was finally happening.”——“happening”的重复。
 
 **关键词**：It was happening / finally happening
 
-**为什么这样写**：把 breakthrough 写成 two-sentence repetition；"finally"写出 long-awaited moment。
+**为什么这样写**：把 breakthrough 写成两句 repetition；“finally”写出这期盼已久的时刻。
 
-**读者视角提示**：Signy's carrot plant breakthrough——her scientific goal achieved。
+**读者视角提示**：Signy 的胡萝卜 breakthrough——她的科学目标达成。
 
 ## 本章词汇
 

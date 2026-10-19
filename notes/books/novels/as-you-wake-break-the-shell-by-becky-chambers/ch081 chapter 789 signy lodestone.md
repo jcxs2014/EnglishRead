@@ -16,123 +16,123 @@ modified: "2026-10-19"
 
 > **原句 1:** "Good communication methods were vital in any human settlement, and nothing was more emblematic of that than the Lodestone marketplace message board."
 
-**中文理解**：message board——"emblematic" of good communication methods。
+**中文理解**：message board——良好沟通方式的「emblematic」。
 
 **关键词**：emblematic / message board
 
-**为什么这样写**：把 message board 写成 "emblematic"—Signy's assessment; "vital in any human settlement"写出 its importance。
+**为什么这样写**：把 message board 写成“emblematic”——Signy 的评估；“vital in any human settlement”写出它的重要。
 
-**读者视角提示**：Lodestone message board—emblematic of communication。
+**读者视角提示**：Lodestone message board——沟通的象征。
 
 > **原句 2:** "The head of the library team had come up with the wonderfully simple suggestion of a physical message board set up in a central location, which could double as the default gathering place in emergencies."
 
-**中文理解**：message board origin——library team head's "wonderfully simple suggestion"。
+**中文理解**：message board 的由来——图书馆团队负责人的“wonderfully simple suggestion”。
 
 **关键词**：wonderfully simple suggestion / default gathering place in emergencies
 
-**为什么这样写**：把 message board 写成 "wonderfully simple suggestion"—Signy's appreciation; "double as default gathering place in emergencies"写出 its dual purpose。
+**为什么这样写**：把 message board 写成“wonderfully simple suggestion”——Signy 的欣赏；“double as default gathering place in emergencies”写出它的双重用途。
 
-**读者视角提示**：Message board origin—emergency protocol + community communication。
+**读者视角提示**：Message board 由来——应急协议加社群沟通。
 
 > **原句 3:** "This way, emergency notices could be tacked up as necessary."
 
-**中文理解**：message board's emergency function——"emergency notices could be tacked up as necessary"。
+**中文理解**：message board 的应急功能——“emergency notices could be tacked up as necessary”。
 
 **关键词**：emergency notices / tacked up as necessary
 
-**为什么这样写**：把 emergency function 写成 "tacked up as necessary"—practical; "emergency notices"写出 its purpose。
+**为什么这样写**：把 emergency function 写成“tacked up as necessary”——实用；“emergency notices”写出它的用途。
 
-**读者视角提示**：Message board—emergency notice function。
+**读者视角提示**：Message board——应急通知功能。
 
 > **原句 4:** "If you wanted to communicate something mundane, you hopped onto a computer and posted a message to the comms network. But if you really cared about it—or, conversely, if it wasn't that important and you wanted to get a laugh—you wrote it down on paper and stuck it to the board."
 
-**中文理解**：message board's dual use——mundane = comms network; really cared or wanted laugh = paper on board。
+**中文理解**：message board 的双重用途——mundane 用 comms network；真在乎或想逗笑就写在纸上贴板。
 
 **关键词**：mundane / comms network / really cared about it / wanted to get a laugh
 
-**为什么这样写**：把 message board 写成 "if you really cared about it... or conversely, if it wasn't that important"—its dual function; "tree growing new rings" metaphor。
+**为什么这样写**：把 message board 写成“if you really cared about it... or conversely, if it wasn't that important”——它的双重功能；“tree growing new rings”隐喻。
 
-**读者视角提示**：Message board—dual use (important or funny)。
+**读者视角提示**：Message board——双重用途（重要或好笑）。
 
 > **原句 5:** "There were two publicly scheduled days a year when the library team cleaned the board off, because if they didn't, the board would easily have the highest mass of any object in Solace's orbit."
 
-**中文理解**：message board cleaning——"two publicly scheduled days a year"；"highest mass of any object in Solace's orbit"。
+**中文理解**：message board 清理——“two publicly scheduled days a year”；“highest mass of any object in Solace's orbit”。
 
 **关键词**：two publicly scheduled days a year / highest mass of any object in Solace's orbit
 
-**为什么这样写**：把 cleaning 写成 "two publicly scheduled days"—community ritual; "highest mass of any object in Solace's orbit"写出 the board's growth。
+**为什么这样写**：把 cleaning 写成“two publicly scheduled days”——社群仪式；“highest mass of any object in Solace's orbit”写出板子的生长。
 
-**读者视角提示**：Message board—community ritual (cleaning days)。
+**读者视角提示**：Message board——社群仪式（清理日）。
 
 > **原句 6:** "HOLLY WILLIAMS WHO IS MY MOM TOOK AWAY MY DROEN KITE FOR NO RESON! / IF YOU HAVE A EXRA PLEASE BRING IT ME AS SOON AS POSIBEL. / I CAN TRADE. / JACOB WILLIAMS / NUMBER 2, SPOKE 8 / PS, IF YOU SEE MY MOM TELL HER YOU THINK THIS IS UNFAYER!!"
 
-**中文理解**：Jacob Williams' drone kite notice——child's voice, misspellings, "IF YOU HAVE A EXRA PLEASE BRING IT ME"。
+**中文理解**：Jacob Williams 的无人机风筝启事——孩童的语气、拼写错误、“IF YOU HAVE A EXRA PLEASE BRING IT ME”。
 
 **关键词**：DROEN KITE / FOR NO RESON / EXRA / UNFAYER
 
-**为什么这样写**：把 Jacob's notice 写成 misspelled child's voice—"DROEN" (drone), "RESON" (reason), "EXRA" (extra), "UNFAYER" (unfair); "PS, IF YOU SEE MY MOM TELL HER YOU THINK THIS IS UNFAYER!!"写出 his plea。
+**为什么这样写**：把 Jacob 的启事写成拼错的孩子语气——“DROEN”（drone）、“RESON”（reason）、“EXRA”（extra）、“UNFAYER”（unfair）；“PS, IF YOU SEE MY MOM TELL HER YOU THINK THIS IS UNFAYER!!”写出他的恳求。
 
-**读者视角提示**：Jacob Williams—child's voice, drone kite plea。
+**读者视角提示**：Jacob Williams——孩童的语气、无人机风筝的恳求。
 
 > **原句 7:** "Signy shut her eyes and laughed. "Oh, no," she said. "Poor Holly." Jacob had been a handful from day one, and by year six, he hadn't shown any sign of growing out of it."
 
-**中文理解**：Signy's reaction——"Poor Holly" / Jacob "a handful from day one"。
+**中文理解**：Signy 的反应——“Poor Holly” / Jacob“a handful from day one”。
 
 **关键词**：Poor Holly / a handful from day one
 
-**为什么这样写**：把 Signy's reaction 写成 "Poor Holly"—her sympathy for Holly; "a handful from day one"写出 Jacob's character。
+**为什么这样写**：把 Signy 的反应写成“Poor Holly”——她对 Holly 的同情；“a handful from day one”写出 Jacob 的性格。
 
-**读者视角提示**：Signy's sympathy—Holly (Jacob's mom) burdened。
+**读者视角提示**：Signy 的同情——Holly（Jacob 的母亲）负担重。
 
 > **原句 8:** "OUR HISTORY IS ALWAYS WITH US. / NONE OF US HAVE TO CARRY IT ALONE. / New support group forming for those struggling with survivor's guilt. / Open to all community members not born in the Ring. / First session Thursday, May 9 at 20:00. / Gathering Hall, Lodestone Medical Clinic / Chicory and light snacks will be provided."
 
-**中文理解**：survivor's guilt support group notice——"OUR HISTORY IS ALWAYS WITH US. NONE OF US HAVE TO CARRY IT ALONE." + practical details。
+**中文理解**：survivor's guilt 支持小组的启事——“OUR HISTORY IS ALWAYS WITH US. NONE OF US HAVE TO CARRY IT ALONE.”加实务信息。
 
 **关键词**：OUR HISTORY IS ALWAYS WITH US / NONE OF US HAVE TO CARRY IT ALONE / survivor's guilt / not born in the Ring
 
-**为什么这样写**：把 support group 写成 "OUR HISTORY IS ALWAYS WITH US"—its message; "not born in the Ring"写出 its target audience (Fortune-born)。
+**为什么这样写**：把 support group 写成“OUR HISTORY IS ALWAYS WITH US”——它的信息；“not born in the Ring”写出它的目标人群（Fortune 出生者）。
 
-**读者视角提示**：Survivor's guilt support group—targeting Fortune-born (not Ring-born)。
+**读者视角提示**：Survivor's guilt 支持小组——针对 Fortune 出生者（非 Ring 出生）。
 
 > **原句 9:** "Do you think I need to go?" / "Not as such," Signy said. "I just thought you should see it."
 
-**中文理解**：Cora's question——"Do you think I need to go?" / Signy's "Not as such"。
+**中文理解**：Cora 的提问——“Do you think I need to go?” / Signy 的“Not as such”。
 
 **关键词**：Do you think I need to go / Not as such
 
-**为什么这样写**：把 Cora's question 写成 "Do you think I need to go?"—her uncertainty; "Not as such"写出 Signy's assessment (not needed, but awareness)。
+**为什么这样写**：把 Cora 的提问写成“Do you think I need to go?”——她的不确定；“Not as such”写出 Signy 的评估（不必，但须知）。
 
-**读者视角提示**：Cora's uncertainty—survivor's guilt support group。
+**读者视角提示**：Cora 的不确定——survivor's guilt 支持小组。
 
 > **原句 10:** "I have plenty of that," she said. "And besides, it's . . . I'm . . . I wouldn't be talking about the same thing."
 
-**中文理解**：Cora's "I wouldn't be talking about the same thing"——her survivor's guilt differs from others'。
+**中文理解**：Cora 的“I wouldn't be talking about the same thing”——她的 survivor's guilt 与别人不同。
 
 **关键词**：I wouldn't be talking about the same thing
 
-**为什么这样写**：把 Cora's difference 写成 "I wouldn't be talking about the same thing"—her unique experience (Fortune-born pilot vs others)；"I have plenty of that" (support)写出 her current support (Signy)。
+**为什么这样写**：把 Cora 的差异写成“I wouldn't be talking about the same thing”——她独特的经历（Fortune 出生的 pilot 对比他人）；“I have plenty of that”（支持）写出她当下的支持（Signy）。
 
-**读者视角提示**：Cora's survivor's guilt—different from others' (Fortune-born, pilot)。
+**读者视角提示**：Cora 的 survivor's guilt——与别人不同（Fortune 出生、pilot）。
 
 > **原句 11:** "That's a fair reason to not go," Signy said. "I just thought you should know it's happening, either way."
 
-**中文理解**：Signy's acceptance——"That's a fair reason to not go."。
+**中文理解**：Signy 的接受——“That's a fair reason to not go.”。
 
 **关键词**：fair reason to not go
 
-**为什么这样写**：把 Signy's acceptance 写成 "fair reason to not go"—her respect for Cora's choice; "either way"写出 her care (awareness)。
+**为什么这样写**：把 Signy 的接受写成“fair reason to not go”——她尊重 Cora 的选择；“either way”写出她的关心（知情）。
 
-**读者视角提示**：Signy's care—respecting Cora's choice。
+**读者视角提示**：Signy 的关心——尊重 Cora 的选择。
 
 > **原句 12:** "I think I'm getting a headache," she said."
 
-**中文理解**：Cora's headache——"I think I'm getting a headache."。
+**中文理解**：Cora 的头痛——“I think I'm getting a headache.”。
 
 **关键词**：I think I'm getting a headache
 
-**为什么这样写**：把 Cora's symptom 写成 "I think I'm getting a headache"—her mindbleed precursor; "I think"写出 her uncertainty。
+**为什么这样写**：把 Cora 的症状写成“I think I'm getting a headache”——她 mindbleed 的前兆；“I think”写出她的不确定。
 
-**读者视角提示**：Cora's mindbleed—headache as precursor (ch040, ch064)。
+**读者视角提示**：Cora 的 mindbleed——头痛作为前兆（ch040、ch064）。
 
 ## 本章词汇
 

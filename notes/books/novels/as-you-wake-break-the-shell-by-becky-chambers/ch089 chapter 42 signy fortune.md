@@ -16,113 +16,113 @@ modified: "2026-10-19"
 
 > **原句 1:** "Signy knew what Cora's job was, obviously. It was the first thing she'd ever learned about her. Sometimes Cora flew to the moon on the back of a giant space beast and couldn't pick up her phone for a while."
 
-**中文理解**：Signy's awareness——"Sometimes Cora flew to the moon on the back of a giant space beast"。
+**中文理解**：Signy 的知晓——“Sometimes Cora flew to the moon on the back of a giant space beast”。
 
 **关键词**：flew to the moon on the back of a giant space beast
 
-**为什么这样写**：把 Cora's job 写成 "flew to the moon on the back of a giant space beast"—Signy's framing; "couldn't pick up her phone for a while"写出 the separation。
+**为什么这样写**：把 Cora 的工作写成“flew to the moon on the back of a giant space beast”——Signy 的框架；“couldn't pick up her phone for a while”写出分离。
 
-**读者视角提示**：Signy's awareness—Cora's job = separation。
+**读者视角提示**：Signy 的知晓——Cora 的工作即分离。
 
 > **原句 2:** ". . . and in that moment, the wait was intolerable. Her lips ached and her chest ached and everything between her legs ached, and it didn't matter how many times she told herself she was being ridiculous, it didn't matter how many times she reread old texts from Cora, it didn't matter how many times she touched herself. Signy wanted."
 
-**中文理解**：Signy's ache——"Her lips ached and her chest ached and everything between her legs ached"——"Signy wanted."。
+**中文理解**：Signy 的渴望——“Her lips ached and her chest ached and everything between her legs ached”——“Signy wanted.”。
 
 **关键词**：Her lips ached / her chest ached / everything between her legs ached / Signy wanted
 
-**为什么这样写**：把 Signy's ache 写成 three "ached"s—her physical longing; "Signy wanted." as standalone sentence writes her desire。
+**为什么这样写**：把 Signy 的渴望写成三个“ached”——她的身体渴望；“Signy wanted.”作为独立句写出她的欲望。
 
-**读者视角提示**：Signy's ache—physical longing for Cora。
+**读者视角提示**：Signy 的渴望——对 Cora 的身体渴望。
 
 > **原句 3:** "She would be fine without Cora. She had been fine without Cora for the majority of her life. She wasn't a child. She could survive two whole weeks."
 
-**中文理解**：Signy's self-reassurance——"She would be fine without Cora. She had been fine without Cora for the majority of her life."。
+**中文理解**：Signy 的自我安慰——“She would be fine without Cora. She had been fine without Cora for the majority of her life.”。
 
 **关键词**：She would be fine without Cora / She had been fine without Cora / She wasn't a child / She could survive two whole weeks
 
-**为什么这样写**：把 Signy's self-reassurance 写成 "She would be fine without Cora"—her rationalization; "She wasn't a child"写出 her self-reminder。
+**为什么这样写**：把 Signy 的自我安慰写成“She would be fine without Cora”——她的合理化；“She wasn't a child”写出她的自我提醒。
 
-**读者视角提示**：Signy's self-reassurance—rationalization vs ache。
+**读者视角提示**：Signy 的自我安慰——合理化对比渴望。
 
 > **原句 4:** "Except that her lips ached and her chest ached and everything between her legs ached, and god."
 
-**中文理解**：Signy's concession——"Except that her lips ached and her chest ached and everything between her legs ached, and god."。
+**中文理解**：Signy 的让步——“Except that her lips ached and her chest ached and everything between her legs ached, and god.”。
 
 **关键词**：Except that / and god
 
-**为什么这样写**：把 Signy's concession 写成 "Except that"—her rationalization fails; "and god"写出 her surrender。
+**为什么这样写**：把 Signy 的让步写成“Except that”——她的合理化失败；“and god”写出她的屈服。
 
-**读者视角提示**：Signy's concession—rationalization fails to ache。
+**读者视角提示**：Signy 的让步——合理化无法对抗渴望。
 
 > **原句 5:** "You were supposed to say something beautiful, something original, some combination of phrasing no other human had previously been inspired to string together for another human, because your feelings were different, your connection was singular, the two of you had invented something the universe had never seen before."
 
-**中文理解**：Signy's overthinking——"You were supposed to say something beautiful, something original"——love's originality requirement。
+**中文理解**：Signy 的过度思考——“You were supposed to say something beautiful, something original”——爱的原创性要求。
 
 **关键词**：something beautiful / something original / some combination of phrasing no other human had previously been inspired to string together / your feelings were different / your connection was singular
 
-**为什么这样写**：把 love's requirement 写成 "something beautiful, something original"—Signy's internalized pressure; "your connection was singular, the two of you had invented something the universe had never seen before"写出 the myth of unique love。
+**为什么这样写**：把爱的要求写成“something beautiful, something original”——Signy 内化的压力；“your connection was singular, the two of you had invented something the universe had never seen before”写出唯一之爱的神话。
 
-**读者视角提示**：Signy's overthinking—love's originality myth。
+**读者视角提示**：Signy 的过度思考——爱的原创性神话。
 
 > **原句 6:** "Why did something as universal to the human experience as love require originality in order to prove its legitimacy?"
 
-**中文理解**：Signy's question——"Why did something as universal to the human experience as love require originality in order to prove its legitimacy?"。
+**中文理解**：Signy 的提问——“Why did something as universal to the human experience as love require originality in order to prove its legitimacy?”。
 
 **关键词**：Why did something as universal to the human experience as love require originality in order to prove its legitimacy
 
-**为什么这样写**：把 Signy's question 写成 "Why did... require originality in order to prove its legitimacy?"—her critique; "universal to the human experience"写出 love's universality。
+**为什么这样写**：把 Signy 的提问写成“Why did... require originality in order to prove its legitimacy?”——她的批评；“universal to the human experience”写出爱的普遍性。
 
-**读者视角提示**：Signy's critique—love's universality vs originality requirement。
+**读者视角提示**：Signy 的批评——爱的普遍性对比原创性要求。
 
 > **原句 7:** "Were there not thousands of years of written human history in which no other topic had been covered as extensively? How many ballads, how many stories, how many songs had been composed about exactly this? That quantity of experience didn't make any of it any less profound."
 
-**中文理解**：Signy's reflection——"thousands of years of written human history" / "How many ballads, how many stories, how many songs" / "That quantity of experience didn't make any of it any less profound."。
+**中文理解**：Signy 的反思——“thousands of years of written human history” / “How many ballads, how many stories, how many songs” / “That quantity of experience didn't make any of it any less profound.”。
 
 **关键词**：thousands of years of written human history / How many ballads, how many stories, how many songs / That quantity of experience didn't make any of it any less profound
 
-**为什么这样写**：把 Signy's reflection 写成 "thousands of years of written human history"—her historical awareness; "That quantity of experience didn't make any of it any less profound"写出 her conclusion。
+**为什么这样写**：把 Signy 的反思写成“thousands of years of written human history”——她的历史意识；“That quantity of experience didn't make any of it any less profound”写出她的结论。
 
-**读者视角提示**：Signy's reflection—love's profundity despite quantity。
+**读者视角提示**：Signy 的反思——爱的深刻不因数量而减。
 
 > **原句 8:** "Signy knew she was stalling by way of overthinking it, but now that she was overthinking it, she was annoyed."
 
-**中文理解**：Signy's self-awareness——"Signy knew she was stalling by way of overthinking it, but now that she was overthinking it, she was annoyed."。
+**中文理解**：Signy 的自知——“Signy knew she was stalling by way of overthinking it, but now that she was overthinking it, she was annoyed.”。
 
 **关键词**：stalling by way of overthinking it / now that she was overthinking it, she was annoyed
 
-**为什么这样写**：把 Signy's self-awareness 写成 "stalling by way of overthinking it"—her recognition; "now that she was overthinking it, she was annoyed"写出 her frustration。
+**为什么这样写**：把 Signy 的自知写成“stalling by way of overthinking it”——她的辨认；“now that she was overthinking it, she was annoyed”写出她的沮丧。
 
-**读者视角提示**：Signy's self-awareness—stalling via overthinking。
+**读者视角提示**：Signy 的自知——以过度思考拖延。
 
 > **原句 9:** "Do you want to move in together? I have no idea how we'd make that work, but I want to. Do you?"
 
-**中文理解**：Signy's text——"Do you want to move in together? I have no idea how we'd make that work, but I want to. Do you?"。
+**中文理解**：Signy 的短信——“Do you want to move in together? I have no idea how we'd make that work, but I want to. Do you?”。
 
 **关键词**：Do you want to move in together / I have no idea how we'd make that work, but I want to / Do you
 
-**为什么这样写**：把 Signy's proposal 写成 "Do you want to move in together?"—her directness; "I have no idea how we'd make that work, but I want to"写出 her vulnerability; "Do you?"写出 her question。
+**为什么这样写**：把 Signy 的提议写成“Do you want to move in together?”——她的直接；“I have no idea how we'd make that work, but I want to”写出她的脆弱；“Do you?”写出她的提问。
 
-**读者视角提示**：Signy's proposal—direct, vulnerable, questioning。
+**读者视角提示**：Signy 的提议——直接、脆弱、提问。
 
 > **原句 10:** "She hit send before she could second-guess, then turned on the radio and fussed with genes."
 
-**中文理解**：Signy's action——"She hit send before she could second-guess, then turned on the radio and fussed with genes."。
+**中文理解**：Signy 的举动——“She hit send before she could second-guess, then turned on the radio and fussed with genes.”。
 
 **关键词**：hit send before she could second-guess / turned on the radio and fussed with genes
 
-**为什么这样写**：把 Signy's action 写成 "hit send before she could second-guess"—her decisiveness; "turned on the radio and fussed with genes"写出 her distraction。
+**为什么这样写**：把 Signy 的举动写成“hit send before she could second-guess”——她的果断；“turned on the radio and fussed with genes”写出她的分心。
 
-**读者视角提示**：Signy's action—send before second-guess, then distract。
+**读者视角提示**：Signy 的举动——发送前不犹豫，然后分心。
 
 > **原句 11:** "Yes."
 
-**中文理解**：Cora's reply——"Yes." (single word)。
+**中文理解**：Cora 的回复——“Yes.”（一个词）。
 
 **关键词**：Yes
 
-**为什么这样写**：把 Cora's reply 写成 "Yes."—single word; "She didn't need full consciousness to understand the single word"写出 its simplicity。
+**为什么这样写**：把 Cora 的回复写成“Yes.”——一个词；“She didn't need full consciousness to understand the single word”写出它的简洁。
 
-**读者视角提示**：Cora's reply—single word "Yes."。
+**读者视角提示**：Cora 的回复——一个词“Yes.”。
 
 ## 本章词汇
 

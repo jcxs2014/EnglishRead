@@ -20,33 +20,33 @@ Hasty Madder 的植物档案——common name, species name, adaptation path；S
 
 > **原句 1:** "Common name: Hasty Madder"
 
-**中文理解**：Plant common name——Hasty Madder（快速茜草）。
+**中文理解**：植物的 common name——Hasty Madder（快速茜草）。
 
 **关键词**：common name / Hasty Madder
 
-**为什么这样写**：用 encyclopedia 格式写出 plant archive——clinical, precise; "Hasty"暗示 this plant grows fast or was bred for speed。
+**为什么这样写**：用 encyclopedia 格式写出 plant archive——clinical、precise；“Hasty”暗示这种植物长得快或为速度而培育。
 
-**读者视角提示**：Signy 的 work——she documents her creations。
+**读者视角提示**：Signy 的工作——她记录自己的创造。
 
 > **原句 2:** "Species name: Rubia alexandrae"
 
-**中文理解**：Scientific name——Rubia alexandrae；alexandrae 暗示 named after someone (Alexandra?)。
+**中文理解**：学名——Rubia alexandrae；alexandrae 暗示以某人命名。
 
 **关键词**：species name / Rubia alexandrae
 
-**为什么这样写**：用 Latin binomial nomenclature 写出 scientific formality; "alexandrae"是 eponymous——someone named Alexandra was honored; 暗示 Signy has personal connections to name origins。
+**为什么这样写**：用 Latin 双名法写出科学正式；“alexandrae”是 eponymous——纪念某个名叫 Alexandra 的人；暗示 Signy 与命名起源有私人联系。
 
-**读者视角提示**：Naming as memorial——plants named after people Signy knows。
+**读者视角提示**：命名作为纪念——植物以 Signy 认识的人命名。
 
 > **原句 3:** "Adaptation path: Rubia tinctorum -> Rubia astralis -> Rubia cypsela -> Rubia alexandrae"
 
-**中文理解**：Adaptation lineage——from Earth (tinctorum) to Ring-adapted (astralis, cypsela) to final (alexandrae)。
+**中文理解**：适应谱系——从 Earth（tinctorum）到 Ring 适应（astralis、cypsela）再到最终（alexandrae）。
 
 **关键词**：adaptation path / Rubia tinctorum / Rubia astralis / Rubia cypsela
 
-**为什么这样写**：用 arrow chain 写出 evolutionary/breeding lineage——from Earth ancestor to Ring-adapted descendant; 每个 stage 都是 Signy 的 work; 暗示 generations of breeding。
+**为什么这样写**：用 arrow chain 写出演化/育种谱系——从 Earth 祖先到 Ring 适应后代；每个阶段都是 Signy 的工作；暗示数代育种。
 
-**读者视角提示**：Signy 的 legacy——her plants are her life's work。
+**读者视角提示**：Signy 的遗产——她的植物是她毕生的工作。
 
 ## 本章词汇
 

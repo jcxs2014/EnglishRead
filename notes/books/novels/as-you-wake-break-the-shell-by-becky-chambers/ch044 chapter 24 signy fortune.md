@@ -16,93 +16,93 @@ modified: "2026-10-19"
 
 > **原句 1:** "It had been a long time since Signy had gone up."
 
-**中文理解**：Signy's space gap——"a long time since Signy had gone up"。
+**中文理解**：Signy 的太空间隔——“a long time since Signy had gone up”。
 
 **关键词**：long time / gone up
 
-**为什么这样写**：把 Signy's space experience 写成 "long time"—her avoidance; "gone up"写出 the trip's rarity。
+**为什么这样写**：把 Signy 的太空经历写成“long time”——她的回避；“gone up”写出这趟旅程的稀少。
 
-**读者视角提示**：Signy's space avoidance—childhood nausea。
+**读者视角提示**：Signy 的太空回避——童年晕动。
 
 > **原句 2:** "Her younger self had not enjoyed school, and even something as ostensibly exciting as going on a spaceship ride hadn't been enough to combat the purgatory of spending an extra-long day in the company of her classmates."
 
-**中文理解**：Signy's childhood space trip——"purgatory of spending an extra-long day in the company of her classmates"。
+**中文理解**：Signy 童年的太空之旅——“purgatory of spending an extra-long day in the company of her classmates”。
 
 **关键词**：purgatory / classmates
 
-**为什么这样写**：把 childhood space trip 写成 "purgatory"—Signy's social anxiety; "ostensibly exciting"写出 her skepticism。
+**为什么这样写**：把童年的太空之旅写成“purgatory”——Signy 的社交焦虑；“ostensibly exciting”写出她的怀疑。
 
-**读者视角提示**：Signy's childhood—social anxiety, school aversion。
+**读者视角提示**：Signy 的童年——社交焦虑、厌学。
 
 > **原句 3:** "Signy had no idea what the clouds she was passing through now looked like. The cargo transport she'd managed to book a ride on didn't have windows, at least not in the hold."
 
-**中文理解**：Signy's current trip——no windows in cargo hold; "Tell Me I'm Pretty"。
+**中文理解**：Signy 当下的旅程——cargo hold 没有窗户；船名“Tell Me I'm Pretty”。
 
 **关键词**：no windows / cargo transport
 
-**为什么这样写**：把 space travel 写成 windowless cargo—Signy's pragmatic choice (cheapest option); "Tell Me I'm Pretty"的 ship name irony。
+**为什么这样写**：把太空旅行写成无窗的货舱——Signy 务实的选择（最便宜的选项）；“Tell Me I'm Pretty”船名的反讽。
 
-**读者视角提示**：Signy's pragmatism—cheapest option, no windows。
+**读者视角提示**：Signy 的务实——最便宜、无窗。
 
 > **原句 4:** "Having learned from her prepubescent experience, she'd picked up a bottle of promethazine at a Flytown pharmacy."
 
-**中文理解**：Signy's anti-nausea——promethazine from pharmacy (not her own wares)。
+**中文理解**：Signy 的防晕——从药房买的 promethazine（不是她自己的货）。
 
 **关键词**：promethazine / prepubescent experience
 
-**为什么这样写**：把 Signy's preparation 写成 "learned from prepubescent experience"—her pragmatism; "not her own wares"写出 her caution (security screening)。
+**为什么这样写**：把 Signy 的准备写成“learned from prepubescent experience”——她的务实；“not her own wares”写出她的谨慎（安检）。
 
-**读者视角提示**：Signy's pragmatism—using pharmacy, not own wares (security)。
+**读者视角提示**：Signy 的务实——用药房而非自己的货（安检）。
 
 > **原句 5:** "Gravity tugged twice as hard, three times, four. Signy felt as though one of the shipping crates had been placed flat on her chest, weighing down her ribs and lungs."
 
-**中文理解**：launch gravity——"shipping crates placed flat on her chest"。
+**中文理解**：发射重力——“shipping crates placed flat on her chest”。
 
 **关键词**：Gravity tugged / shipping crates / ribs and lungs
 
-**为什么这样写**：把 launch G-force 写成 "shipping crates on chest"—sensory; "weighing down her ribs and lungs"写出 physical compression。
+**为什么这样写**：把发射的 G-force 写成“shipping crates on chest”——感官；“weighing down her ribs and lungs”写出身体的压迫。
 
-**读者视角提示**：Signy's launch experience—physical compression。
+**读者视角提示**：Signy 的发射体验——身体压迫。
 
 > **原句 6:** "From one shaking second to the next, a threshold was crossed, and Fortune released its grasp."
 
-**中文理解**：space threshold——"Fortune released its grasp"。
+**中文理解**：太空门槛——“Fortune released its grasp”。
 
 **关键词**：threshold was crossed / Fortune released its grasp
 
-**为什么这样写**：把 space entry 写成 "Fortune released its grasp"—planet releasing; "threshold"写出 transition。
+**为什么这样写**：把进入太空写成“Fortune released its grasp”——星球松手；“threshold”写出过渡。
 
-**读者视角提示**：Signy's space entry—Fortune letting go。
+**读者视角提示**：Signy 的太空进入——Fortune 放手。
 
 > **原句 7:** "She had forgotten this feeling. No longer a nauseous, apathetic ten-year-old, she explored the sensation with more seasoned curiosity."
 
-**中文理解**：Signy's rediscovery——"forgotten this feeling"—"more seasoned curiosity"。
+**中文理解**：Signy 的重新发现——“forgotten this feeling”——“more seasoned curiosity”。
 
 **关键词**：forgotten this feeling / more seasoned curiosity
 
-**为什么这样写**：把 adult space experience 写成 "more seasoned curiosity"—growth from childhood nausea。
+**为什么这样写**：把成年的太空体验写成“more seasoned curiosity”——从童年的晕动成长。
 
-**读者视角提示**：Signy's growth—childhood nausea to adult curiosity。
+**读者视角提示**：Signy 的成长——从童年晕动到成年好奇。
 
 > **原句 8:** "She felt . . . comfortable. She hadn't realized how heavy her body was, how much effort went into carrying herself around. It was actually quite nice, to feel the world let go of you."
 
-**中文理解**：Signy's comfort——"comfortable" / "how heavy her body was" / "world let go of you"。
+**中文理解**：Signy 的舒适——“comfortable” / “how heavy her body was” / “world let go of you”。
 
 **关键词**：comfortable / how heavy her body was / world let go of you
 
-**为什么这样写**：把 weightlessness 写成 "world let go of you"—Signy's relief; "how heavy her body was"写出 embodied awareness。
+**为什么这样写**：把失重写成“world let go of you”——Signy 的释然；“how heavy her body was”写出具身的觉察。
 
-**读者视角提示**：Signy's space experience—relief of weightlessness, "world let go of you"。
+**读者视角提示**：Signy 的太空体验——失重的释然、“world let go of you”。
 
 > **原句 9:** "She smiled, almost. Maybe there was something to being in space."
 
-**中文理解**：Signy's closing——"She smiled, almost. Maybe there was something to being in space."。
+**中文理解**：Signy 的收尾——“She smiled, almost. Maybe there was something to being in space.”。
 
 **关键词**：smiled, almost / Maybe there was something
 
-**为什么这样写**：把 Signy's opening 写成 "smiled, almost"—tentative; "Maybe there was something"写出 her surprise。
+**为什么这样写**：把 Signy 的敞开写成“smiled, almost”——试探；“Maybe there was something”写出她的意外。
 
-**读者视角提示**：Signy's space opening—tentative acceptance。
+**读者视角提示**：Signy 的太空敞开——试探性的接纳。
 
 ## 本章词汇
 

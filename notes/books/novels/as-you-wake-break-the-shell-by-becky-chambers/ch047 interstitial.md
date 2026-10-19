@@ -16,183 +16,183 @@ modified: "2026-10-19"
 
 > **原句 1:** "The helmet wasn't anything like the chunky protective gear Signy had pictured. Rather, it was a sleek metal cap that covered Cora's scalp from forehead to nape."
 
-**中文理解**：Cora's helmet——sleek metal cap, not chunky protective gear。
+**中文理解**：Cora 的头盔——sleek metal cap，而非 Signy 想象的 chunky protective gear。
 
 **关键词**：sleek metal cap / forehead to nape
 
-**为什么这样写**：把 helmet 写成 "sleek metal cap"—Signy's surprise; "forehead to nape"写出 its coverage。
+**为什么这样写**：把 helmet 写成“sleek metal cap”——Signy 的意外；“forehead to nape”写出它的覆盖范围。
 
-**读者视角提示**：Cora's pilot gear—sleek, neural interface。
+**读者视角提示**：Cora 的 pilot gear—— sleek、神经接口。
 
 > **原句 2:** "How does it work?" Signy asked as Cora began to flip switches on the control panel at the base of the window.
 
-**中文理解**：Signy's question——"How does it work?"。
+**中文理解**：Signy 的提问——“How does it work?”。
 
 **关键词**：How does it work
 
-**为什么这样写**：把 Signy's curiosity 写成 "How does it work?"—her scientific interest; Cora as explainer。
+**为什么这样写**：把 Signy 的好奇写成“How does it work?”——她的科学兴趣；Cora 充当讲解者。
 
-**读者视角提示**：Signy's scientific curiosity—mechanism。
+**读者视角提示**：Signy 的科学好奇——机制。
 
 > **原句 3:** "The helmet talked to the saddle, which talked to the sensors that picked up the pheromones. And that meant . . . "The helmet you're wearing now talks to the sensors in her pen.""
 
-**中文理解**：Signy's deduction——helmet talks to sensors in pen。
+**中文理解**：Signy 的推理——helmet 与 pen 里的 sensors 对话。
 
 **关键词**：talks to the sensors
 
-**为什么这样写**：把 Signy's deduction 写成 "talks to the sensors"—her scientific reasoning; "Bingo" (Cora) confirms。
+**为什么这样写**：把 Signy 的推理写成“talks to the sensors”——她的科学推理；Cora 的“Bingo”确认。
 
-**读者视角提示**：Signy's scientific reasoning—deduction。
+**读者视角提示**：Signy 的科学推理——演绎。
 
 > **原句 4:** "Do they hurt?" she asked. / "Nah," Cora said. "Older pilots, they sometimes get headaches, or they get this sort of phantom itch, but I'm not there yet."
 
-**中文理解**：Signy's question about implants——"Do they hurt?"；Cora's "Nah"—older pilots headaches/phantom itch。
+**中文理解**：Signy 问植入是否疼痛——“Do they hurt?”；Cora 的“Nah”——老 pilots 会头痛/phantom itch。
 
 **关键词**：Do they hurt / phantom itch
 
-**为什么这样写**：把 implants 写成 "phantom itch"—Cora's experience; "Nah"写出 her casualness。
+**为什么这样写**：把 implants 写成“phantom itch”——Cora 的体验；“Nah”写出她的随意。
 
-**读者视角提示**：Cora's implants—older pilots' side effects (headaches, phantom itch)。
+**读者视角提示**：Cora 的 implants——老 pilots 的副作用（头痛、phantom itch）。
 
 > **原句 5:** "The way I'm gonna be talking with her in just a sec is less intense than when I'm in the saddle. Both for me and for her. Think of it like the difference between talking on the phone and having a face-to-face conversation like an inch apart."
 
-**中文理解**：Cora's communication modes——"less intense than when I'm in the saddle"——phone vs face-to-face inch apart。
+**中文理解**：Cora 的沟通模式——“less intense than when I'm in the saddle”——电话对比一英寸内的面对面。
 
 **关键词**：less intense / phone vs face-to-face
 
-**为什么这样写**：把 communication modes 写成 analogy—phone vs face-to-face inch apart; "less intense"写出 the difference。
+**为什么这样写**：把沟通模式写成类比——电话对比一英寸内的面对面；“less intense”写出差异。
 
-**读者视角提示**：Cora-Colibri communication—saddle (intense) vs pen (less intense)。
+**读者视角提示**：Cora 与 Colibri 的沟通——saddle（强烈）对比 pen（较弱）。
 
 > **原句 6:** "Colibri would like to know what you think of her."
 
-**中文理解**：Colibri's first question——"what you think of her"——direct, no pleasantries。
+**中文理解**：Colibri 的第一个问题——“what you think of her”——直接，无客套。
 
 **关键词**：what you think of her
 
-**为什么这样写**：把 Colibri's question 写成 direct—"no hello, no nice to meet you"—Signy's surprise; "Colibri would like to know"写出 Cora as go-between。
+**为什么这样写**：把 Colibri 的提问写成直接——“no hello, no nice to meet you”——Signy 的意外；“Colibri would like to know”写出 Cora 作为中间人。
 
-**读者视角提示**：Colibri's directness—no small talk。
+**读者视角提示**：Colibri 的直接——无闲聊。
 
 > **原句 7:** "I'm a little afraid," she said. "I know you two are friends, and so I trust that. But I've never seen anyth—anyone like her before. I'm still learning what she is."
 
-**中文理解**：Signy's honest answer——"I'm a little afraid"——"still learning what she is"。
+**中文理解**：Signy 的诚实回答——“I'm a little afraid”——“still learning what she is”。
 
 **关键词**：I'm a little afraid / still learning what she is
 
-**为什么这样写**：把 Signy's honesty 写成 "I'm a little afraid"—direct; "still learning what she is"写出 her openness。
+**为什么这样写**：把 Signy 的诚实写成“I'm a little afraid”——直接；“still learning what she is”写出她的开放。
 
-**读者视角提示**：Signy's honesty—no half-truths with Colibri。
+**读者视角提示**：Signy 的诚实——对 Colibri 不敷衍。
 
 > **原句 8:** "If you bring a species to life that you've never seen before, are you afraid of it?" / "No. I am curious, but not afraid."
 
-**中文理解**：Colibri's question——"If you bring a species to life that you've never seen before, are you afraid of it?"——Signy's "No. I am curious, but not afraid."。
+**中文理解**：Colibri 的提问——“If you bring a species to life that you've never seen before, are you afraid of it?”——Signy 的“No. I am curious, but not afraid.”。
 
 **关键词**：bring a species to life / curious, but not afraid
 
-**为什么这样写**：把 Colibri's question 写成 analogy (plants vs Colibri)—Signy's "curious, but not afraid"写出 her scientific approach。
+**为什么这样写**：把 Colibri 的提问写成类比（植物对比 Colibri）——Signy 的“curious, but not afraid”写出她的科学态度。
 
-**读者视角提示**：Colibri's analogy—plants as parallel to herself。
+**读者视角提示**：Colibri 的类比——植物与她自己平行。
 
 > **原句 9:** "The difference is . . . Plants are small and they don't move. I'm not accustomed to animals, or any living being this much bigger than me."
 
-**中文理解**：Signy's distinction——plants small/don't move vs Colibri (big, moving)。
+**中文理解**：Signy 的区分——植物小且不动，对比 Colibri（大、会动）。
 
 **关键词**：Plants are small and they don't move / this much bigger than me
 
-**为什么这样写**：把 Signy's fear 写成 "plants are small and don't move"—her comfort zone; "this much bigger than me"写出 scale fear。
+**为什么这样写**：把 Signy 的恐惧写成“plants are small and don't move”——她的舒适区；“this much bigger than me”写出对尺度的恐惧。
 
-**读者视角提示**：Signy's fear—scale and movement (plants vs animal)。
+**读者视角提示**：Signy 的恐惧——尺度与运动（植物对比动物）。
 
 > **原句 10:** "I have to learn their signals in other ways," Signy said. "I have to learn what wavelengths of light make them healthy. What sorts of nutrients, how much water. I can tell these things by the color of their leaves, or . . . if they get limp, if they get dry, if they bloom or don't. I can't talk to them, but I can watch and learn how they live."
 
-**中文理解**：Signy's plant communication——"watch and learn how they live" without talking。
+**中文理解**：Signy 的植物沟通——“watch and learn how they live”，无需交谈。
 
 **关键词**：watch and learn how they live / can't talk to them
 
-**为什么这样写**：把 Signy's plant care 写成 "watch and learn"—observation, not communication; "can't talk to them"写出 her limitation。
+**为什么这样写**：把 Signy 的植物照料写成“watch and learn”——观察而非沟通；“can't talk to them”写出她的局限。
 
-**读者视角提示**：Signy's plant care—observation, not communication。
+**读者视角提示**：Signy 的植物照料——观察，非沟通。
 
 > **原句 11:** "She says you must be very patient to learn something like that."
 
-**中文理解**：Colibri's assessment——"you must be very patient"。
+**中文理解**：Colibri 的评估——“you must be very patient”。
 
 **关键词**：very patient
 
-**为什么这样写**：把 Colibri's assessment 写成 "very patient"—her recognition of Signy's patience; "must be"写出 her inference。
+**为什么这样写**：把 Colibri 的评估写成“very patient”——她认出 Signy 的耐心；“must be”写出她的推断。
 
-**读者视角提示**：Colibri's recognition of Signy's patience。
+**读者视角提示**：Colibri 认出 Signy 的耐心。
 
 > **原句 12:** "She finds the idea of an organism that exists without feelings to be very sad. She says that sounds so empty. She is imagining being that empty, and she is grateful she is not like that. She is grateful for being full."
 
-**中文理解**：Colibri's sadness——"an organism that exists without feelings" is "very sad"; "she is grateful for being full"。
+**中文理解**：Colibri 的难过——“an organism that exists without feelings”是“very sad”；“she is grateful for being full”。
 
 **关键词**：organism that exists without feelings / very sad / grateful for being full
 
-**为什么这样写**：把 Colibri's empathy 写成 "very sad"—her emotional response to plants' lack of feeling; "grateful for being full"写出 her appreciation of her own consciousness。
+**为什么这样写**：把 Colibri 的共情写成“very sad”——她对植物没有感受的难过；“grateful for being full”写出她对自己有意识的感激。
 
-**读者视角提示**：Colibri's empathy—sadness at plants' lack of feeling; gratitude for consciousness。
+**读者视角提示**：Colibri 的共情——为植物没有感受而难过；为有意识而感激。
 
 > **原句 13:** "Signy reached out hesitantly. "Can I . . . help with that?""
 
-**中文理解**：Signy's offer——"Can I . . . help with that?"——Cora's tears。
+**中文理解**：Signy 的提议——“Can I . . . help with that?”——Cora 的眼泪。
 
 **关键词**：Can I help with that
 
-**为什么这样写**：把 Signy's care 写成 "Can I help with that"—hesitant offer; "help with that"写出 her instinct to care。
+**为什么这样写**：把 Signy 的体贴写成“Can I help with that”——试探的提议；“help with that”写出她照顾的本能。
 
-**读者视角提示**：Signy's care—offering help with Cora's tears。
+**读者视角提示**：Signy 的体贴——提出帮 Cora 擦泪。
 
 > **原句 14:** "Tell you what," Signy said, tugging her damp sleeve into place and nudging herself a couple of feet away. "I don't know that I'll come here again, but the next time that you, Cora, come to the shop, I will give you a small plant to keep in this room."
 
-**中文理解**：Signy's gift offer——"a small plant to keep in this room"——for Colibri-Cora shared light。
+**中文理解**：Signy 的赠礼提议——“a small plant to keep in this room”——为 Colibri 与 Cora 共享光。
 
 **关键词**：a small plant to keep in this room
 
-**为什么这样写**：把 Signy's gift 写成 "a small plant"—her solution; "to keep in this room"写出 her desire to bridge Colibri and plant。
+**为什么这样写**：把 Signy 的赠礼写成“a small plant”——她的解法；“to keep in this room”写出她想搭起 Colibri 与植物的桥。
 
-**读者视角提示**：Signy's gift—plant as bridge between Colibri and human world。
+**读者视角提示**：Signy 的赠礼——植物作为 Colibri 与人类世界的桥。
 
 > **原句 15:** "Maybe even they'll absorb light that bounced off of each other. And maybe that way, they can share something of themselves, just a tiny bit."
 
-**中文理解**：Signy's hope——"absorb light that bounced off of each other" / "share something of themselves, just a tiny bit"。
+**中文理解**：Signy 的希望——“absorb light that bounced off of each other” / “share something of themselves, just a tiny bit”。
 
 **关键词**：absorb light that bounced off of each other / share something of themselves
 
-**为什么这样写**：把 Signy's hope 写成 "absorb light that bounced off of each other"—her scientific poetry; "share something of themselves, just a tiny bit"写出 her desire for connection。
+**为什么这样写**：把 Signy 的希望写成“absorb light that bounced off of each other”——她的科学诗意；“share something of themselves, just a tiny bit”写出她对联结的渴望。
 
-**读者视角提示**：Signy's hope—plant and Colibri sharing light。
+**读者视角提示**：Signy 的希望——植物与 Colibri 共享光。
 
 > **原句 16:** "And with that, Signy was no longer afraid."
 
-**中文理解**：Signy's transformation——"no longer afraid"。
+**中文理解**：Signy 的转变——“no longer afraid”。
 
 **关键词**：no longer afraid
 
-**为什么这样写**：把 Signy's transformation 写成 "no longer afraid"—her acceptance; "with that" (Colibri's hello)写出 the moment。
+**为什么这样写**：把 Signy 的转变写成“no longer afraid”——她的接纳；“with that”（Colibri 的问候）写出那一刻。
 
-**读者视角提示**：Signy's transformation—fear to acceptance。
+**读者视角提示**：Signy 的转变——从恐惧到接纳。
 
 > **原句 17:** "Colibri says you are of her love."
 
-**中文理解**：Colibri's declaration——"you are of her love"。
+**中文理解**：Colibri 的宣告——“you are of her love”。
 
 **关键词**：you are of her love
 
-**为什么这样写**：把 Colibri's declaration 写成 "you are of her love"—her acceptance; "of her love"写出 Colibri's inclusion of Signy。
+**为什么这样写**：把 Colibri 的宣告写成“you are of her love”——她的接纳；“of her love”写出 Colibri 把 Signy 纳入其中。
 
-**读者视角提示**：Colibri's acceptance—Signy as "of her love"。
+**读者视角提示**：Colibri 的接纳——Signy 是“of her love”。
 
 > **原句 18:** "Signy swallowed a smile and pretended she didn't know, either."
 
-**中文理解**：Signy's closing——"swallowed a smile and pretended she didn't know, either" (Cora's blush)。
+**中文理解**：Signy 的收尾——“swallowed a smile and pretended she didn't know, either”（Cora 的脸红）。
 
 **关键词**：swallowed a smile / pretended she didn't know
 
-**为什么这样写**：把 Signy's closing 写成 "swallowed a smile"—her knowing; "pretended she didn't know"写出 her discretion。
+**为什么这样写**：把 Signy 的收尾写成“swallowed a smile”——她的会意；“pretended she didn't know”写出她的谨慎。
 
-**读者视角提示**：Signy's discretion—knowing but not saying。
+**读者视角提示**：Signy 的谨慎——心知肚明却不说破。
 
 ## 本章词汇
 

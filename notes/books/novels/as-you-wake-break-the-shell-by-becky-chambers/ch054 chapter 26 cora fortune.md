@@ -16,103 +16,103 @@ modified: "2026-10-19"
 
 > **原句 1:** "I'm sorry to hear your heartleaf plant is doing poorly. It's likely some adjustments to its watering and fertilizing routine will solve the problem, but if convenient, I'd like you to bring it by the shop so I can make sure it's not diseased or damaged in some other way (I will offer a replacement free of charge if so)."
 
-**中文理解**：Signy's professional response——heartleaf plant problem, adjustments, bring by shop, free replacement。
+**中文理解**：Signy 的专业回应——heartleaf plant 出问题、调整养护、带到店里、免费替换。
 
 **关键词**：heartleaf plant / adjustments / replacement free of charge
 
-**为什么这样写**：把 Signy's professional care 写成 "I'd like you to bring it by the shop"—her business mode; "replacement free of charge"写出 her generosity。
+**为什么这样写**：把 Signy 的专业关怀写成“I'd like you to bring it by the shop”——她的营业模式；“replacement free of charge”写出她的慷慨。
 
-**读者视角提示**：Signy's professional mode—plant care as entry point。
+**读者视角提示**：Signy 的专业模式——以植物养护切入。
 
 > **原句 2:** "How about 15:00?"
 
-**中文理解**：Signy's appointment time——"How about 15:00?"。
+**中文理解**：Signy 的预约时间——“How about 15:00?”。
 
 **关键词**：How about 15:00
 
-**为什么这样写**：把 appointment setting 写成 "How about 15:00?"—Signy's business efficiency; short, direct。
+**为什么这样写**：把预约写成“How about 15:00?”——Signy 的营业效率；简短直接。
 
-**读者视角提示**：Signy's professional mode—scheduling efficiency。
+**读者视角提示**：Signy 的专业模式——排期效率。
 
 > **原句 3:** "Hey again, Signy. There's something I'd like to ask you that has nothing to do with my plant, and if I've read this wrong, then I'm very sorry, and please forget I said anything."
 
-**中文理解**：Cora's vulnerable opening——"something I'd like to ask you that has nothing to do with my plant" + "if I've read this wrong"。
+**中文理解**：Cora 脆弱的开场——“something I'd like to ask you that has nothing to do with my plant”加“if I've read this wrong”。
 
 **关键词**：nothing to do with my plant / if I've read this wrong
 
-**为什么这样写**：把 Cora's vulnerability 写成 "if I've read this wrong"—her fear of rejection; "nothing to do with my plant"写出 the real request。
+**为什么这样写**：把 Cora 的脆弱写成“if I've read this wrong”——她害怕被拒绝；“nothing to do with my plant”写出真正的请求。
 
-**读者视角提示**：Cora's vulnerability—asking for a date, fearing rejection。
+**读者视角提示**：Cora 的脆弱——提出约会，害怕被拒绝。
 
 > **原句 4:** "I had a really nice time with you at the stables. I know I was kind of out of it for most of it, but I had fun showing you the ropes, and I liked having chicory with you afterward."
 
-**中文理解**：Cora's memory——"really nice time at the stables" / "fun showing you the ropes" / "liked having chicory with you afterward"。
+**中文理解**：Cora 的回忆——“really nice time at the stables” / “fun showing you the ropes” / “liked having chicory with you afterward”。
 
 **关键词**：really nice time / showing you the ropes / liked having chicory
 
-**为什么这样写**：把 Cora's memory 写成 "really nice time"—her warmth; "showing you the ropes"写出 her guide role; "liked having chicory"写出 her appreciation。
+**为什么这样写**：把 Cora 的回忆写成“really nice time”——她的温暖；“showing you the ropes”写出她的引导角色；“liked having chicory”写出她的欣赏。
 
-**读者视角提示**：Cora's memory—stables visit as positive, warm。
+**读者视角提示**：Cora 的回忆——stables 之行为正面、温暖。
 
 > **原句 5:** "I thought it was a good conversation, and I got the feeling maybe there was a little more behind it."
 
-**中文理解**：Cora's perception——"a little more behind it"——possible mutual interest。
+**中文理解**：Cora 的感知——“a little more behind it”——可能有 mutual interest。
 
 **关键词**：a little more behind it
 
-**为什么这样写**：把 Cora's perception 写成 "a little more behind it"—her intuition; "got the feeling"写出 her sensitivity。
+**为什么这样写**：把 Cora 的感知写成“a little more behind it”——她的直觉；“got the feeling”写出她的敏感。
 
-**读者视角提示**：Cora's intuition—sensing mutual interest。
+**读者视角提示**：Cora 的直觉——察觉 mutual interest。
 
 > **原句 6:** "Would you like to have chicory again, from a real cup this time? Or if you drink, maybe a drink? Ahead of our plant appointment, if you're not too busy?"
 
-**中文理解**：Cora's invitation——"chicory again, from a real cup" / "if you drink, maybe a drink" / "Ahead of our plant appointment"。
+**中文理解**：Cora 的邀请——“chicory again, from a real cup” / “if you drink, maybe a drink” / “Ahead of our plant appointment”。
 
 **关键词**：chicory again, from a real cup / if you drink, maybe a drink
 
-**为什么这样写**：把 Cora's invitation 写成 "chicory again, from a real cup"—her preference for real over pouch; "if you drink, maybe a drink"写出 her flexibility; "Ahead of our plant appointment"写出 pretext。
+**为什么这样写**：把 Cora 的邀请写成“chicory again, from a real cup”——她偏爱真的杯子；“if you drink, maybe a drink”写出她的弹性；“Ahead of our plant appointment”写出托辞。
 
-**读者视角提示**：Cora's invitation—chicory (real cup) + drink option + plant appointment pretext。
+**读者视角提示**：Cora 的邀请——chicory（真杯子）加饮品选项加 plant appointment 托辞。
 
 > **原句 7:** "Again, if you're not interested, no worries. We can just stick to plants and never talk about this again."
 
-**中文理解**：Cora's escape clause——"if you're not interested, no worries. We can just stick to plants and never talk about this again."。
+**中文理解**：Cora 的退路——“if you're not interested, no worries. We can just stick to plants and never talk about this again.”。
 
 **关键词**：if you're not interested, no worries / stick to plants
 
-**为什么这样写**：把 Cora's fear 写成 "no worries" + "stick to plants"—her escape; "never talk about this again"写出 her fear of rejection。
+**为什么这样写**：把 Cora 的恐惧写成“no worries”加“stick to plants”——她的退路；“never talk about this again”写出她害怕被拒绝。
 
-**读者视角提示**：Cora's vulnerability—escape clause as protection。
+**读者视角提示**：Cora 的脆弱——退路作为保护。
 
 > **原句 8:** "I do drink, but I'd prefer chicory."
 
-**中文理解**：Signy's response——"I do drink, but I'd prefer chicory."。
+**中文理解**：Signy 的回应——“I do drink, but I'd prefer chicory.”。
 
 **关键词**：I do drink, but I'd prefer chicory
 
-**为什么这样写**：把 Signy's response 写成 "I do drink, but I'd prefer chicory"—her preference; "but I'd prefer"写出 her choice。
+**为什么这样写**：把 Signy 的回应写成“I do drink, but I'd prefer chicory”——她的偏好；“but I'd prefer”写出她的选择。
 
-**读者视角提示**：Signy's response—accepting date, preferring chicory (not drink)。
+**读者视角提示**：Signy 的回应——接受约会，偏好 chicory（非酒）。
 
 > **原句 9:** "I have an All-Raft pass. You pick the place. Saturday would be best."
 
-**中文理解**：Signy's practicality——"All-Raft pass" / "You pick the place" / "Saturday would be best"。
+**中文理解**：Signy 的务实——“All-Raft pass” / “You pick the place” / “Saturday would be best”。
 
 **关键词**：All-Raft pass / You pick the place / Saturday would be best
 
-**为什么这样写**：把 Signy's response 写成 "All-Raft pass"—her independence; "You pick the place"写出 her deference; "Saturday would be best"写出 her scheduling。
+**为什么这样写**：把 Signy 的回应写成“All-Raft pass”——她的独立；“You pick the place”写出她的顺从；“Saturday would be best”写出她的排期。
 
-**读者视角提示**：Signy's response—practical, independent, deferential。
+**读者视角提示**：Signy 的回应——务实、独立、顺从。
 
 > **原句 10:** "I liked our conversation, too."
 
-**中文理解**：Signy's closing——"I liked our conversation, too."。
+**中文理解**：Signy 的收尾——“I liked our conversation, too.”。
 
 **关键词**：I liked our conversation, too
 
-**为什么这样写**：把 Signy's response 写成 "I liked our conversation, too"—her openness; "too" mirrors Cora's "I had a really nice time"。
+**为什么这样写**：把 Signy 的回应写成“I liked our conversation, too”——她的敞开；“too”呼应 Cora 的“I had a really nice time”。
 
-**读者视角提示**：Signy's openness—accepting Cora's invitation。
+**读者视角提示**：Signy 的敞开——接受 Cora 的邀请。
 
 ## 本章词汇
 

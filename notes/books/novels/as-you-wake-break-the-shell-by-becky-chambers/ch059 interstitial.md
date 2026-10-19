@@ -20,33 +20,33 @@ Chicory greens 的食谱——sautéed, boiled, chopped；极简的 recipe 形�
 
 > **原句 1:** "Sautéed chicory greens"
 
-**中文理解**：Recipe title——sautéed chicory greens。
+**中文理解**：食谱标题——sautéed chicory greens（煎炒菊苣）。
 
 **关键词**：sautéed / chicory greens
 
-**为什么这样写**：用 recipe 格式写出 domestic life——simple, functional, no flourish; 暗示 Signy 和 Cora 的 home cooking is practical。
+**为什么这样写**：用食谱格式写出家庭生活在——simple、functional、无修饰；暗示 Signy 与 Cora 的烹饪讲究实用。
 
-**读者视角提示**：Domestic life——cooking as routine。
+**读者视角提示**：家庭生活——烹饪即例行。
 
 > **原句 2:** "Boil a pot of water."
 
-**中文理解**：Step 1——boil water。
+**中文理解**：第一步——烧开一壶水。
 
 **关键词**：boil / pot of water
 
-**为什么这样写**：Minimalist instruction——no measurements, no timing; 暗示 Signy knows the recipe by heart。
+**为什么这样写**：极简的指示——无分量、无时间；暗示 Signy 对食谱烂熟于心。
 
-**读者视角提示**：Routine——cooking as second nature。
+**读者视角提示**：例行——烹饪如第二天性。
 
 > **原句 3:** "Chop 200 grams or so of chicory greens."
 
-**中文理解**：Step 2——chop 200g chicory greens；"or so"是 casual approximation。
+**中文理解**：第二步——切约 200 克菊苣叶。
 
 **关键词**：chop / 200 grams / or so
 
-**为什么这样写**：用"or so"写出 casual attitude——recipes are guidelines, not rules; 200 grams 是 imprecise measurement，暗示 home cooking is approximate。
+**为什么这样写**：用“or so”写出随意的态度——食谱是指导而非规则；200 克是不精确的度量，暗示家庭烹饪是近似的。
 
-**读者视角提示**：Home cooking——imprecise, comfortable, lived-in。
+**读者视角提示**：家庭烹饪——不精确、舒适、有生活感。
 
 ## 本章词汇
 

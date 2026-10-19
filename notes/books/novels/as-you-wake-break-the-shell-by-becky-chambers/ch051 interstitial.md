@@ -16,93 +16,93 @@ modified: "2026-10-19"
 
 > **原句 1:** "It was easy, when your body was nearly weightless, to let your mind drift, too."
 
-**中文理解**：Cora's mind drifting in microgravity——"let your mind drift"。
+**中文理解**：Cora 在微重力中任思绪漂流——“let your mind drift”。
 
 **关键词**：let your mind drift
 
-**为什么这样写**：把 microgravity 写成 "let your mind drift"—Cora's body-mind connection; "nearly weightless"写出 her state。
+**为什么这样写**：把微重力写成“let your mind drift”——Cora 的身心相连；“nearly weightless”写出她的状态。
 
-**读者视角提示**：Cora's surface walk—mind drifting。
+**读者视角提示**：Cora 的地表行走——思绪漂流。
 
 > **原句 2:** "This is dwarf foxglove, Signy said. I use it to make heart medication. That's periwinkle. I've tweaked it to produce antidepressants."
 
-**中文理解**：Signy's plant tour——dwarf foxglove (heart medication)、periwinkle (antidepressants)。
+**中文理解**：Signy 的植物讲解——dwarf foxglove（心脏药）、periwinkle（抗抑郁药）。
 
 **关键词**：dwarf foxglove / periwinkle
 
-**为什么这样写**：把 Signy's plants 写成 medicine sources—her work; "tweaked it to produce"写出 her genetic modification。
+**为什么这样写**：把 Signy 的植物写成药材来源——她的工作；“tweaked it to produce”写出她的基因改造。
 
-**读者视角提示**：Signy's plants—dwarf foxglove (heart), periwinkle (antidepressants)。
+**读者视角提示**：Signy 的植物——dwarf foxglove（心脏）、periwinkle（抗抑郁）。
 
 > **原句 3:** "Those are for Cora, Signy had said, adding no detail beyond that."
 
-**中文理解**：Signy's tobacco (disguised as bell pepper)——"Those are for Cora"——adding no detail。
+**中文理解**：Signy 的烟草（伪装成 bell pepper）——“Those are for Cora”——不添细节。
 
 **关键词**：Those are for Cora / adding no detail
 
-**为什么这样写**：把 Signy's secrecy 写成 "adding no detail"—her discretion; "Those are for Cora"写出 their bond。
+**为什么这样写**：把 Signy 的保密写成“adding no detail”——她的谨慎；“Those are for Cora”写出她们的羁绊。
 
-**读者视角提示**：Signy's tobacco for Cora—secret, no detail。
+**读者视角提示**：Signy 给 Cora 的烟草——秘密、无细节。
 
 > **原句 4:** "Ah, he'd said. Your lady's favor."
 
-**中文理解**：Otto's "Your lady's favor"——chivalric term。
+**中文理解**：Otto 的“Your lady's favor”——骑士用语。
 
 **关键词**：Your lady's favor
 
-**为什么这样写**：把 Otto's comment 写成 "Your lady's favor"—his old-fashioned romantic framing; "Ah"写出 his recognition。
+**为什么这样写**：把 Otto 的话写成“Your lady's favor”——他老派的浪漫框架；“Ah”写出他的辨认。
 
-**读者视角提示**：Otto's "lady's favor"—chivalric term for Cora's plant。
+**读者视角提示**：Otto 的“lady's favor”——指 Cora 的植物，骑士用语。
 
 > **原句 5:** "Cora hadn't known what he'd meant by that. She thought he meant like the plants were a favor Signy was doing for her—a way of helping her out."
 
-**中文理解**：Cora's misunderstanding——thought "lady's favor" meant "favor Signy was doing for her"。
+**中文理解**：Cora 的误解——以为“lady's favor”是指 Signy 替她做的“favor”。
 
 **关键词**：favor Signy was doing for her
 
-**为什么这样写**：把 Cora's misunderstanding 写成 "favor Signy was doing for her"—her literal interpretation; "a way of helping her out"写出 her practical frame。
+**为什么这样写**：把 Cora 的误解写成“favor Signy was doing for her”——她的字面理解；“a way of helping her out”写出她的务实框架。
 
-**读者视角提示**：Cora's initial misunderstanding—practical, not romantic。
+**读者视角提示**：Cora 最初的误解——务实，非浪漫。
 
 > **原句 6:** "It wasn't until years and years later, during a movie night on Lodestone, when Cora found out what he'd actually meant."
 
-**中文理解**：Cora's realization——"years and years later" on Lodestone movie night。
+**中文理解**：Cora 的醒悟——多年以后在 Lodestone 的电影之夜。
 
 **关键词**：years and years later / movie night on Lodestone
 
-**为什么这样写**：把 realization 写成 delayed—"years and years later"—Cora's slow understanding; "movie night on Lodestone"写出 the context。
+**为什么这样写**：把醒悟写成延迟的——“years and years later”——Cora 缓慢的理解；“movie night on Lodestone”写出情境。
 
-**读者视角提示**：Cora's delayed understanding—chivalric term revealed。
+**读者视角提示**：Cora 迟来的理解——骑士用语揭晓。
 
 > **原句 7:** "A ribbon got tied around someone's upper sleeve, and Cora's ears pricked at what they called it. She looked it up in the Primer's dictionary when she and Signy got home that night, and once she scrolled down enough to hit the line labeled noun (archaic), she'd cried, a little."
 
-**中文理解**：Cora's discovery——"noun (archaic)" in Primer dictionary; "she'd cried, a little"。
+**中文理解**：Cora 的发现——Primer 词典里的“noun (archaic)”；“she'd cried, a little”。
 
 **关键词**：noun (archaic) / cried, a little
 
-**为什么这样写**：把 "lady's favor" 写成 "noun (archaic)"—Primer's dictionary; "cried, a little"写出 her emotional response。
+**为什么这样写**：把“lady's favor”写成“noun (archaic)”——Primer 的词典；“cried, a little”写出她的情绪反应。
 
-**读者视角提示**：Cora's emotional response—chivalric term revealed。
+**读者视角提示**：Cora 的情绪反应——骑士用语揭晓。
 
 > **原句 8:** "Not because it was mushy, though, okay, sure, she was a marshmallow and it was also that. But no, the real reason she'd cried was because she wanted to call Otto and tell him what a sweetheart he was, and . . . that wasn't something she could do anymore."
 
-**中文理解**：Cora's real reason——"wanted to call Otto and tell him what a sweetheart he was, and . . . that wasn't something she could do anymore"。
+**中文理解**：Cora 真正的理由——“wanted to call Otto and tell him what a sweetheart he was, and . . . that wasn't something she could do anymore”。
 
 **关键词**：wanted to call Otto / that wasn't something she could do anymore
 
-**为什么这样写**：把 Cora's grief 写成 "wanted to call Otto"—her loss; "that wasn't something she could do anymore"写出 Otto's death。
+**为什么这样写**：把 Cora 的悲伤写成“wanted to call Otto”——她的失去；“that wasn't something she could do anymore”写出 Otto 的死亡。
 
-**读者视角提示**：Cora's grief—Otto's death, can't call him。
+**读者视角提示**：Cora 的悲伤——Otto 去世，无法再打电话。
 
 > **原句 9:** "Cora had been really soft on that phrase, after that. She still was."
 
-**中文理解**：Cora's ongoing softness——"really soft on that phrase, after that. She still was."。
+**中文理解**：Cora 持续的柔软——“really soft on that phrase, after that. She still was.”。
 
 **关键词**：soft on that phrase / She still was
 
-**为什么这样写**：把 Cora's ongoing feeling 写成 "She still was"—present tense; "soft on that phrase"写出 her tenderness。
+**为什么这样写**：把 Cora 持续的感受写成“She still was”——现在时；“soft on that phrase”写出她的温柔。
 
-**读者视角提示**：Cora's ongoing tenderness—"lady's favor" remains meaningful。
+**读者视角提示**：Cora 持续的温柔——“lady's favor”仍有分量。
 
 ## 本章词汇
 

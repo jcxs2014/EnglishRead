@@ -26,7 +26,7 @@ Signy 乘 cargo ship 到达 orbital station（"the stables"），第一次进入
 
 **为什么这样写**：用"fumbled"和"forgivable lack of grace"写出 Signy 的 awkwardness in zero-g——she's not a pilot, she's a passenger; "primary means of locomotion"的 formal tone 与"fumbled"形成 comic contrast。
 
-**读者视角提示**：Signy 的 first impression——she's out of her element in the orbital station。
+**读者视角提示**：Signy 的 first impression——她在 orbital station 里 out of her element。
 
 > **原句 2:** "The shift from the dim hold to the stables' bright interior was jarring. Signy knew what the orbital station looked like from the outside—she'd seen pictures—but she had no preconceptions about what was within. After someone scanned her visitor's pass and waved her on, she entered a corridor made for human passage, a rounded tunnel that encouraged you to keep moving forward."
 

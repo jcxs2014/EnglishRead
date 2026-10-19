@@ -16,153 +16,153 @@ modified: "2026-10-19"
 
 > **原句 1:** "Drop dumplings were unfair, in a way. You could only eat so many before reaching critical mass, but they were so delicious that despite all better judgment, it was dangerously easy to succumb to the mistake of just one more."
 
-**中文理解**：drop dumplings 的 unfairness——delicious but critical mass；"just one more"的 temptation。
+**中文理解**：drop dumplings 的不公——美味却有 critical mass；“just one more”的诱惑。
 
 **关键词**：critical mass / just one more
 
-**为什么这样写**：把 food 写成 "unfair"—pleasure vs limit；"critical mass"的 physics metaphor。
+**为什么这样写**：把 food 写成“unfair”——快乐与限度；“critical mass”的物理学隐喻。
 
-**读者视角提示**：Signy's Friday dinner ritual—food as pleasure。
+**读者视角提示**：Signy 的 Friday dinner 仪式——食物即快乐。
 
 > **原句 2:** "Nothing to report," Otto assured her.
 
-**中文理解**：Otto's "Nothing to report"—his evasion of medical developments。
+**中文理解**：Otto 的“Nothing to report”——他回避病情进展。
 
 **关键词**：Nothing to report
 
-**为什么这样写**：把 Otto's medical evasion 写成 "Nothing to report"—military-ish understatement；"Nothing to report" vs Signy's pressing。
+**为什么这样写**：把 Otto 的 medical evasion 写成“Nothing to report”——军事化的轻描淡写；“Nothing to report”对比 Signy 的追问。
 
-**读者视角提示**：Otto's character—evasive about health, playful。
+**读者视角提示**：Otto 的性格——对健康回避，爱玩笑。
 
 > **原句 3:** "It was a little low, but nothing to worry about. I was told to eat more peanuts and leafy greens."
 
-**中文理解**：Otto's potassium low—"eat more peanuts and leafy greens"。
+**中文理解**：Otto 的 potassium 偏低——“eat more peanuts and leafy greens”。
 
 **关键词**：potassium / peanuts and leafy greens
 
-**为什么这样写**：把 potassium deficiency 写成 dietary advice—Otto's minimization；"nothing to worry about"的 denial。
+**为什么这样写**：把 potassium deficiency 写成饮食建议——Otto 的轻描淡写；“nothing to worry about”的否认。
 
-**读者视角提示**：Otto's health—potassium deficiency from Signy's medicine side effect。
+**读者视角提示**：Otto 的健康——Signy 药物副作用导致的 potassium 偏低。
 
 > **原句 4:** "It's very good for him, to have a friend like you."
 
-**中文理解**：Nurse Arlo's cryptic remark——"It's very good for him, to have a friend like you."。
+**中文理解**：Nurse Arlo 的隐晦话语——“It's very good for him, to have a friend like you.”。
 
 **关键词**：friend like you
 
-**为什么这样写**：把 Arlo's remark 写成 "veiled nod"—possible awareness of Signy's medicine work；"friend"的 euphemism。
+**为什么这样写**：把 Arlo 的话语写成“veiled nod”——可能知晓 Signy 的医药工作；“friend”的 euphemism。
 
-**读者视角提示**：Arlo's awareness—veiled acknowledgment of Signy's role。
+**读者视角提示**：Arlo 的知晓——对 Signy 角色的含蓄承认。
 
 > **原句 5:** "If Otto became sick or infirm or unable to care for himself, he'd be moved into a hospice home and kept out of pain. That was all someone like Nurse Arlo had license to offer."
 
-**中文理解**：hospice policy——65+ only comfort care；"kept out of pain" as sole offering。
+**中文理解**：hospice 政策——六十五岁以上只提供 comfort care；“kept out of pain”是唯一的给予。
 
 **关键词**：hospice home / kept out of pain / license to offer
 
-**为什么这样写**：把 hospice policy 写成 "kept out of pain"—limited offering；"license to offer"写出 regulation。
+**为什么这样写**：把 hospice policy 写成“kept out of pain”——有限的给予；“license to offer”写出规定。
 
-**读者视角提示**：Berth's elder care policy—comfort only, no treatment。
+**读者视角提示**：Berth 的养老政策——只止痛，不治疗。
 
 > **原句 6:** "Otto was brilliant. Otto was kind. Otto was hilarious, even though Signy would never provide him with the satisfaction of saying so. He was a beautiful man, in every respect. He deserved to live, same as anyone younger."
 
-**中文理解**：Signy's defense of Otto——"deserved to live, same as anyone younger"。
+**中文理解**：Signy 为 Otto 辩护——“deserved to live, same as anyone younger”。
 
 **关键词**：deserved to live / same as anyone younger
 
-**为什么这样写**：把 Signy's ethic 写成 "deserved to live"—anti-triage；"same as anyone younger"写出 equality。
+**为什么这样写**：把 Signy 的 ethic 写成“deserved to live”——反 triage；“same as anyone younger”写出平等。
 
-**读者视角提示**：Signy's anti-triage ethic—age doesn't diminish worth。
+**读者视角提示**：Signy 的反 triage ethic——年龄不减损价值。
 
 > **原句 7:** "What did that phrase even mean? Was he not still here? Was this not his time?"
 
-**中文理解**：Signy's challenge to "lived past his time"—"Was he not still here? Was this not his time?"。
+**中文理解**：Signy 质疑“lived past his time”——“Was he not still here? Was this not his time?”。
 
 **关键词**：lived past his time / Was he not still here
 
-**为什么这样写**：把 triage logic 写成 challengeable—"Was he not still here?"写出 existential challenge。
+**为什么这样写**：把 triage logic 写成可质疑的——“Was he not still here?”写出存在主义的挑战。
 
-**读者视角提示**：Signy's philosophical challenge to triage logic。
+**读者视角提示**：Signy 对 triage logic 的哲学挑战。
 
 > **原句 8:** "You should be having more fun." / "I have fun." / "Tell me where you go besides work." / "I like work."
 
-**中文理解**：Otto's push—Signy should have more fun; Signy's "I like work"。
+**中文理解**：Otto 的推促——Signy 该多玩乐；Signy 的“I like work”。
 
 **关键词**：having more fun / I like work
 
-**为什么这样写**：把 Otto-Signy dynamic 写成 "fun vs work"—Otto's care for Signy's life balance。
+**为什么这样写**：把 Otto-Signy 的 dynamic 写成“fun vs work”——Otto 关心 Signy 的生活平衡。
 
-**读者视角提示**：Otto as Signy's mentor/caretaker—pushing her toward life。
+**读者视角提示**：Otto 作为 Signy 的 mentor/caretaker——推她走向生活。
 
 > **原句 9:** "I have a new customer," she said. "She's . . . an interesting one."
 
-**中文理解**：Signy's "new customer"—Cora; "an interesting one"。
+**中文理解**：Signy 的“new customer”——Cora；“an interesting one”。
 
 **关键词**：new customer / interesting one
 
-**为什么这样写**：把 Cora 写成 "interesting one"—Signy's curiosity；"new customer"写出 her professional framing。
+**为什么这样写**：把 Cora 写成“interesting one”——Signy 的好奇；“new customer”写出她的职业框架。
 
-**读者视角提示**：Signy's interest in Cora—professional + personal。
+**读者视角提示**：Signy 对 Cora 的兴趣——职业加个人。
 
 > **原句 10:** "Well, for starters, I'm going to need to engineer a plant that isn't covered by my license."
 
-**中文理解**：Signy's puzzle—engineer a plant not covered by license。
+**中文理解**：Signy 的谜题——要培育一种执照不覆盖的植物。
 
 **关键词**：engineer a plant / isn't covered by my license
 
-**为什么这样写**：把 Cora's case 写成 "puzzle"—Signy's enjoyment of challenge；"isn't covered by my license"写出 regulatory evasion。
+**为什么这样写**：把 Cora 的病例写成“puzzle”——Signy 享受挑战；“isn't covered by my license”写出规避监管。
 
-**读者视角提示**：Signy's work as puzzle—enjoyment within constraint。
+**读者视角提示**：Signy 的工作即谜题——在限制中自得其乐。
 
 > **原句 11:** "Oh, Sam can sort that out, I'm sure," he said. By relation, Sam was Henry's niece. By profession, she was a software engineer."
 
-**中文理解**：Sam (Henry's niece, software engineer)—Otto's "lifetime payment" for medicine; doctors seed printer reports。
+**中文理解**：Sam（Henry 的侄女，software engineer）——Otto 用“lifetime payment”换药；医生打印种子报告。
 
 **关键词**：Sam / software engineer / lifetime payment
 
-**为什么这样写**：把 Sam 写成 Otto's "lifetime payment"—their arrangement; "software engineer"写出 her role in Signy's evasion。
+**为什么这样写**：把 Sam 写成 Otto 的“lifetime payment”——他们的安排；“software engineer”写出她在 Signy 规避中的角色。
 
-**读者视角提示**：Signy's network—Sam (report doctoring), Otto (friend/cover)。
+**读者视角提示**：Signy 的网络——Sam（篡改报告）、Otto（朋友/掩护）。
 
 > **原句 12:** "Otto turned his head back over his shoulder again, nodding toward something on the table. "Ramona left that for you.""
 
-**中文理解**：Ramona's lucky turtle charm—left for Signy。
+**中文理解**：Ramona 的幸运乌龟挂饰——留给 Signy。
 
 **关键词**：Ramona left that for you
 
-**为什么这样写**：把 Ramona's charm 写成 "left for you"—her care; "that" (turtle) as object。
+**为什么这样写**：把 Ramona 的挂饰写成“left for you”——她的关心；“that”（乌龟）作为物件。
 
-**读者视角提示**：Ramona's character—charm maker, caring。
+**读者视角提示**：Ramona 的性格——做挂饰、关心人。
 
 > **原句 13:** "Rattle rattle, then thunk."
 
-**中文理解**：Otto's Foley request——"rattle rattle, then thunk"——Signy repeats bottle action。
+**中文理解**：Otto 的 Foley 要求——“rattle rattle, then thunk”——Signy 重复瓶子的动作。
 
 **关键词**：rattle rattle, then thunk
 
-**为什么这样写**：把 bottle sound 写成 Foley sound effect—Otto's craft; "rattle rattle, then thunk"的 onomatopoeia。
+**为什么这样写**：把 bottle 声写成 Foley 音效——Otto 的手艺；“rattle rattle, then thunk”的拟声。
 
-**读者视角提示**：Otto's Foley art—sound as craft; Signy as sound source。
+**读者视角提示**：Otto 的 Foley 艺术——声音即手艺；Signy 是声源。
 
 > **原句 14:** "If you heard weird sounds—sounds of Earth, sounds of animals, sounds of monsters and machines and made-up things—those had been Otto's specialty."
 
-**中文理解**：Otto's Foley specialty——weird sounds of Earth, animals, monsters, machines。
+**中文理解**：Otto 的 Foley 专长——Earth、动物、怪物、机器的 weird sounds。
 
 **关键词**：weird sounds / specialty
 
-**为什么这样写**：把 Otto's craft 写成 "specialty"—his identity; "sounds of Earth, sounds of animals, sounds of monsters and machines and made-up things"的 catalog。
+**为什么这样写**：把 Otto 的手艺写成“specialty”——他的身份；“sounds of Earth, sounds of animals, sounds of monsters and machines and made-up things”的 catalog。
 
-**读者视角提示**：Otto's Foley craft—sound as imaginative creation。
+**读者视角提示**：Otto 的 Foley 手艺——声音作为想象力的创造。
 
 > **原句 15:** "Signy was glad they'd fixed that for each other."
 
-**中文理解**：Signy-Otto mutual learning—plants (Signy taught Otto) + sound effects (Otto taught Signy)。
+**中文理解**：Signy 与 Otto 相互补足——植物（Signy 教 Otto）加音效（Otto 教 Signy）。
 
 **关键词**：fixed that for each other
 
-**为什么这样写**：把 friendship 写成 mutual education—"fixed that for each other"写出 reciprocity。
+**为什么这样写**：把他们的友谊写成 mutual education——“fixed that for each other”写出 reciprocity。
 
-**读者视角提示**：Signy-Otto friendship—mutual growth。
+**读者视角提示**：Signy 与 Otto 的友谊——相互成长。
 
 ## 本章词汇
 

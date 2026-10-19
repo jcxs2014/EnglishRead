@@ -16,133 +16,133 @@ modified: "2026-10-19"
 
 > **原句 1:** "Thirty-two, huh?" Smokey said. "Good job."
 
-**中文理解**：Smokey's birthday greeting——"Thirty-two, huh? Good job."。
+**中文理解**：Smokey 的生日问候——“Thirty-two, huh? Good job.”。
 
 **关键词**：Thirty-two / Good job
 
-**为什么这样写**：把 birthday 写成 "Good job"—Smokey's dry humor; "Thirty-two" writes Cora's age。
+**为什么这样写**：把 birthday 写成“Good job”——Smokey 的冷幽默；“Thirty-two”写出 Cora 的年龄。
 
-**读者视角提示**：Cora's birthday—32, Smokey's dry humor。
+**读者视角提示**：Cora 的生日——32 岁，Smokey 的冷幽默。
 
 > **原句 2:** "I guess so," she said. / "How the fuck," Smokey asked, speaking the question as a statement. / "Got lucky," she said."
 
-**中文理解**：Cora's Little Quarry run (6 days)——"Got lucky" (cover for Colibri's speed)。
+**中文理解**：Cora 的 Little Quarry 之行（6 天）——“Got lucky”（掩饰 Colibri 的速度）。
 
 **关键词**：Got lucky / How the fuck
 
-**为什么这样写**：把 Cora's run 写成 "Got lucky"—her cover; Smokey's "How the fuck"写出 admiration。
+**为什么这样写**：把 Cora 的行程写成“Got lucky”——她的掩护；Smokey 的“How the fuck”写出钦佩。
 
-**读者视角提示**：Cora's secret—Colibri's speed (not luck)。
+**读者视角提示**：Cora 的秘密——Colibri 的速度（非运气）。
 
 > **原句 3:** "A good friend but a bad pilot, was the answer, which was why Cora added nothing further to her explanation of her excellent run time."
 
-**中文理解**：Cora's self-assessment——"A good friend but a bad pilot"。
+**中文理解**：Cora 的自我评估——“A good friend but a bad pilot”。
 
 **关键词**：good friend but a bad pilot
 
-**为什么这样写**：把 Cora's ethic 写成 "good friend but a bad pilot"—her choice (Colibri's joy over rules); "added nothing further"写出 her secrecy。
+**为什么这样写**：把 Cora 的 ethic 写成“good friend but a bad pilot”——她的选择（Colibri 的喜悦胜过规则）；“added nothing further”写出她的保密。
 
-**读者视角提示**：Cora's ethic—Colibri's joy over rules (bad pilot, good friend)。
+**读者视角提示**：Cora 的 ethic——Colibri 的喜悦胜过规则（坏 pilot、好朋友）。
 
 > **原句 4:** "Eh, just give him the prod and you'll get both," Adam said. "You're so squeamish about showing him who's boss."
 
-**中文理解**：Adam's advice——"just give him the prod"—prods as training。
+**中文理解**：Adam 的建议——“just give him the prod”——prods 作为训练。
 
 **关键词**：give him the prod / squeamish / showing him who's boss
 
-**为什么这样写**：把 Adam 写成 "just give him the prod"—his cruelty; "squeamish"写出 his contempt for Smokey's care。
+**为什么这样写**：把 Adam 写成“just give him the prod”——他的残忍；“squeamish”写出他对 Smokey 关心的蔑视。
 
-**读者视角提示**：Adam's character—cruel, prods advocate。
+**读者视角提示**：Adam 的性格——残忍、拥护 prods。
 
 > **原句 5:** "Colibri had told Cora that her next-door neighbor Blaze—Adam's rorqual—was coming back to the stables oozing stress pheromones that, quote, sour the space that stretches around us."
 
-**中文理解**：Colibri's report——Blaze (Adam's rorqual) "oozing stress pheromones" that "sour the space"。
+**中文理解**：Colibri 的报告——Blaze（Adam 的 rorqual）“oozing stress pheromones”，令“sour the space”。
 
 **关键词**：stress pheromones / sour the space that stretches around us
 
-**为什么这样写**：把 Colibri's perception 写成 "sour the space"—her sensory report; "oozing"写出 Blaze's distress。
+**为什么这样写**：把 Colibri 的感知写成“sour the space”——她的感官报告；“oozing”写出 Blaze 的痛苦。
 
-**读者视角提示**：Colibri's perception—Blaze's stress pheromones (Adam's prods)。
+**读者视角提示**：Colibri 的感知——Blaze 的应激信息素（Adam 的 prods）。
 
 > **原句 6:** "I do not like him, was all Blaze would say. I do not like him, over and over."
 
-**中文理解**：Blaze's statement——"I do not like him" (repeated)。
+**中文理解**：Blaze 的陈述——“I do not like him”（重复）。
 
 **关键词**：I do not like him
 
-**为什么这样写**：把 Blaze's statement 写成 "I do not like him"—repeated; "over and over"写出 her fixation。
+**为什么这样写**：把 Blaze 的陈述写成“I do not like him”——重复；“over and over”写出她的执念。
 
-**读者视角提示**：Blaze's distress—Adam's prods cause her dislike。
+**读者视角提示**：Blaze 的痛苦——Adam 的 prods 造成她的厌恶。
 
 > **原句 7:** "One of Cora's knuckles popped; she hadn't realized she was clenching her fist."
 
-**中文理解**：Cora's reaction——"One of Cora's knuckles popped; she hadn't realized she was clenching her fist."。
+**中文理解**：Cora 的反应——“One of Cora's knuckles popped; she hadn't realized she was clenching her fist.”。
 
 **关键词**：knuckles popped / clenching her fist
 
-**为什么这样写**：把 Cora's anger 写成 "knuckles popped"—physical; "hadn't realized"写出 her unconscious anger。
+**为什么这样写**：把 Cora 的愤怒写成“knuckles popped”——身体；“hadn't realized”写出她无意识的愤怒。
 
-**读者视角提示**：Cora's anger—Adam's cruelty toward Blaze。
+**读者视角提示**：Cora 的愤怒——Adam 对 Blaze 的残忍。
 
 > **原句 8:** "This culture is stagnant. All—all anybody tries to do is act like people do in the Primer, and we don't give ourselves room to grow into our real selves at all."
 
-**中文理解**：Twig's critique——"This culture is stagnant" / "act like people do in the Primer"。
+**中文理解**：Twig 的批评——“This culture is stagnant” / “act like people do in the Primer”。
 
 **关键词**：stagnant / act like people do in the Primer
 
-**为什么这样写**：把 Twig's critique 写成 "stagnant"—her assessment; "act like people do in the Primer"写出 her anti-OCTA stance。
+**为什么这样写**：把 Twig 的批评写成“stagnant”——她的评估；“act like people do in the Primer”写出她的反 OCTA 立场。
 
-**读者视角提示**：Twig's critique—OCTA cultural stagnation。
+**读者视角提示**：Twig 的批评——OCTA 文化停滞。
 
 > **原句 9:** "I have a savings account from my parents, who died. And that was left to them by their parents, who died, and their parents, and—and nobody stops to think about whether that's what we want to keep doing."
 
-**中文理解**：Twig's critique——savings account inheritance chain, "nobody stops to think about whether that's what we want to keep doing"。
+**中文理解**：Twig 的批评——储蓄账户的继承链，“nobody stops to think about whether that's what we want to keep doing”。
 
 **关键词**：savings account / nobody stops to think
 
-**为什么这样写**：把 Twig's critique 写成 "nobody stops to think"—her frustration; "savings account from my parents, who died"写出 inheritance as burden。
+**为什么这样写**：把 Twig 的批评写成“nobody stops to think”——她的沮丧；“savings account from my parents, who died”写出继承即负担。
 
-**读者视角提示**：Twig's critique—inheritance as unexamined tradition。
+**读者视角提示**：Twig 的批评——继承作为未经审视的传统。
 
 > **原句 10:** "Do you think that's ever been different?" / "Do you think there's ever been a time when recorded history was both comprehensive and objective?"
 
-**中文理解**：Signy's rebuttal——"Do you think that's ever been different?" / "Do you think there's ever been a time when recorded history was both comprehensive and objective?"。
+**中文理解**：Signy 的反驳——“Do you think that's ever been different?” / “Do you think there's ever been a time when recorded history was both comprehensive and objective?”。
 
 **关键词**：Do you think that's ever been different / comprehensive and objective
 
-**为什么这样写**：把 Signy's rebuttal 写成 questions—"Do you think that's ever been different?" / "comprehensive and objective?"—her Socratic method; "recorded history"写出 her skepticism。
+**为什么这样写**：把 Signy 的反驳写成问句——“Do you think that's ever been different?” / “comprehensive and objective?”——她的苏格拉底式方法；“recorded history”写出她的怀疑。
 
-**读者视角提示**：Signy's rebuttal—history has never been comprehensive/objective。
+**读者视角提示**：Signy 的反驳——历史从未全面/客观。
 
 > **原句 11:** "I don't like the hand we've been dealt, either, and no, I don't think the Primer is a definitive source on anything. But I also don't think it's wise to imagine some grand, enlightened age of human antiquity we've been deliberately separated from."
 
-**中文理解**：Signy's position——"I don't like the hand we've been dealt, either" + "I don't think the Primer is definitive" + "I also don't think it's wise to imagine some grand, enlightened age"。
+**中文理解**：Signy 的立场——“I don't like the hand we've been dealt, either”加“I don't think the Primer is definitive”加“I also don't think it's wise to imagine some grand, enlightened age”。
 
 **关键词**：don't like the hand we've been dealt / don't think the Primer is definitive / don't think it's wise to imagine some grand, enlightened age
 
-**为什么这样写**：把 Signy's position 写成 three-part—her agreement + her skepticism + her rejection of golden-age myth; "grand, enlightened age of human antiquity"写出 her rejection of nostalgic fantasy。
+**为什么这样写**：把 Signy 的立场写成三段——她的同意加她的怀疑加她对黄金时代神话的拒绝；“grand, enlightened age of human antiquity”写出她对怀旧幻想的拒绝。
 
-**读者视角提示**：Signy's position—skeptical of Primer, skeptical of golden-age myth。
+**读者视角提示**：Signy 的立场——怀疑 Primer，也怀疑黄金时代神话。
 
 > **原句 12:** "I also think it might be wise for you to question what you're currently being sold by people who claim to have it all figured out when, as you correctly note, you shouldn't trust anybody who tells you that."
 
-**中文理解**：Signy's warning——"question what you're currently being sold by people who claim to have it all figured out"。
+**中文理解**：Signy 的提醒——“question what you're currently being sold by people who claim to have it all figured out”。
 
 **关键词**：question what you're currently being sold / people who claim to have it all figured out
 
-**为什么这样写**：把 Signy's warning 写成 "question what you're currently being sold"—her skepticism of Chapter 252's leaders; "people who claim to have it all figured out"写出 her rejection of authority。
+**为什么这样写**：把 Signy 的提醒写成“question what you're currently being sold”——她对 Chapter 252 领袖的怀疑；“people who claim to have it all figured out”写出她对权威的拒绝。
 
-**读者视角提示**：Signy's warning—Chapter 252's leaders are selling something。
+**读者视角提示**：Signy 的提醒——Chapter 252 的领袖在兜售什么。
 
 > **原句 13:** "I actually do want some cake," she said. / "Then let's get you some cake." Signy lifted Cora's hand, turned it over, and kissed her palm."
 
-**中文理解**：Cora's "I actually do want some cake" + Signy's palm kiss。
+**中文理解**：Cora 的“I actually do want some cake”加 Signy 亲吻掌心。
 
 **关键词**：I actually do want some cake / lifted Cora's hand, turned it over, and kissed her palm
 
-**为什么这样写**：把 Cora's admission 写成 "I actually do want some cake"—her honesty; Signy's palm kiss写出 her tenderness。
+**为什么这样写**：把 Cora 的承认写成“I actually do want some cake”——她的诚实；Signy 的掌心吻写出她的温柔。
 
-**读者视角提示**：Signy's tenderness—palm kiss as comfort。
+**读者视角提示**：Signy 的温柔——掌心吻作为安慰。
 
 ## 本章词汇
 
