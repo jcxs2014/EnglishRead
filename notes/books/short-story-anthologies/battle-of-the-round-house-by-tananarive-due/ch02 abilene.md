@@ -21,8 +21,11 @@
 > **原句 2:** "That’s marshal, not sheriff," the man said, tipping his hat as he nodded at Mama and gave Lucy and her brothers a smile.
 
 - **中文理解**：Hickok 第一句就纠正 “sheriff” 为 “marshal”，同时 tipping hat、nod at Mama、smile at children——礼貌与权威并存。
+- **关键词**：marshal / sheriff / tipping hat
+- **为什么这样写**：Hickok 的 first line 是身份声明（marshal, not sheriff），建立 jurisdiction 与 authority；His smile 与 scanning eyes 并存，显示职业性警觉。
+- **读者视角提示**：Lucy 对白人 default distrust，但 Hickok 的 politeness 是她从未见过的；tin star 是 Lucy 安全感的来源与不安全感的来源并存。
 
-> **原句 2b:** "Where y’all headed?" the marshal said. "Ain’t safe for families here during the drives. Town’s swarming with Texans with their herds, their wages spent on whiskey."
+> **原句 3:** "Where y’all headed?" the marshal said. "Ain’t safe for families here during the drives. Town’s swarming with Texans with their herds, their wages spent on whiskey."
 
 - **中文理解**：随后他警告：牛群 drives 期间 Abilene 对家庭不安全，满城 Texan 花光 wages 买 whiskey。Lucy 不信任这个白人，但 Papa 的 Kansas=John Brown 的土地信念让她犹豫。
 
@@ -30,42 +33,42 @@
 - **为什么这样写**：Hickok 的 first line 是身份声明（marshal, not sheriff），建立 jurisdiction 与 authority；His smile 与 scanning eyes 并存，显示职业性警觉。"swarming with Texans" 把 Abilene 写成被入侵的城镇，Lucy 家族的逃亡与 Texas drovers 的追击在地理上重叠——Abilene 既是庇护所又是危险源。
 - **读者视角提示**：Lucy 对白人 default distrust（"her first instinct was not to trust him"）与 Papa 对 John Brown Kansas 的信念形成张力； marshal 的 politeness 是 Lucy 从未见过的，她用 "foolish notions" 自嘲 childhood belief。tin star 是 Lucy 安全感的来源与不安全感的来源并存。
 
-> **原句 3:** "$500 Reward!!! Dead or Alive, the headline screamed. The notice claimed that on April 1, 1866, a man known as Isaiah had rustled a herd of horses and killed a man to escape in Galveston, Texas."
+> **原句 4:** "$500 Reward!!! Dead or Alive, the headline screamed. The notice claimed that on April 1, 1866, a man known as Isaiah had rustled a herd of horses and killed a man to escape in Galveston, Texas."
 
 - **中文理解**： reward notice 以 "$500 Reward!!! Dead or Alive" 的 headline scream 开始，指控 1866 年 4 月 1 日一个叫 Isaiah 的人在 Galveston, Texas rustled horses 并杀人逃脱。Papa 用 manumission letter、apprenticeship letter、Bible 家庭记录逐条反驳：他 1866 年 3 月 30 日刚失去新生儿子 Solomon，不可能在 Galveston；他以 blacksmith 为生，不会 rustle horses。
 - **关键词**：Dead or Alive / rustled / manumission
 - **为什么这样写**：Lucy 把 reward notice 的 headline 与 Papa 的 defense 并置，形成 "accusation → evidence" 的 legal drama。Papa 的 defense 用家庭事件（birth/death）作 alibi，把 legal claim 转化为 personal testimony。Lucy 的 "papers could be the difference between living and dying" 点出 Emancipation 后 freemen 的生存策略：documents as armor。
 - **读者视角提示**：Dead or Alive 是 reward notice 的 standard phrase；rustled = steal livestock。Papa 的 "six two" height 与 notice 的 "nineteen years old" 是唯一相似点，显示 accusation 的 fragility。manumission letter 是 Papa freedom 的 legal proof，apprenticeship letter 证明 skill—both are pre-war documents that survived.
 
-> **原句 4:** "More’n likely," the marshal agreed. "And truth be told, y’all remind me of dozens of families just like you that came through my family’s basement before the war trying to get north. I lost my pappy when I was fifteen, but while my sweet mother still lives, it would make her smile to know I’m doing more than busting up bar fights and shooting strays in Abilene."
+> **原句 5:** "More’n likely," the marshal agreed. "And truth be told, y’all remind me of dozens of families just like you that came through my family’s basement before the war trying to get north. I lost my pappy when I was fifteen, but while my sweet mother still lives, it would make her smile to know I’m doing more than busting up bar fights and shooting strays in Abilene."
 
 - **中文理解**：Hickok 承认 "more’n likely" 他们说的是 truth，然后透露自己 family basement 曾藏 Underground Railroad 逃奴；pappy 死于 15 岁，但 mother 仍在，做 marshal 之外的善事会让 mother smile。Mama 追问 "Do you mean the Underground Railroad?"，Hickok 答 "My saintly parents get the credit."
 - **关键词**：Underground Railroad / saintly parents / basement
 - **为什么这样写**：Hickok 的 disclosure 把个人 history 与 national history 连接—his parents' basement 作 Underground Railroad station，himself as marshal of a cattle town。"doing more than busting up bar fights and shooting strays" 是 self-deprecation，显示 Hickok 对自己职业的 ambivalence。Lucy's "never met anyone who claimed to have given shelter" 强调 Underground Railroad 的 secrecy 与 rarity。
 - **读者视角提示**：Underground Railroad 在 Emancipation 后是公开话题，但 Lucy 在 Lexington "impossible to imagine" shelter—显示 regional difference (Kansas vs Kentucky)。Hickok's "saintly parents" 是 religious framing，与 Zipporah's "anointed by God" 形成 faith motif。
 
-> **原句 5:** "For Lucy, what she called “whispering” was far more than thinking with ferocious focus: It was as if her mind slipped into an oiled groove in another creature’s head, like holding a beating heart in her palm."
+> **原句 6:** "For Lucy, what she called “whispering” was far more than thinking with ferocious focus: It was as if her mind slipped into an oiled groove in another creature’s head, like holding a beating heart in her palm."
 
 - **中文理解**：Lucy 的 "whispering" 不是 ferocious focus 的 thinking，而是 mind slip into another creature's head 的 sensation，像 holding a beating heart in palm。她用它影响 teacher、Papa、Brownie；Bullet 每次 whinny 似乎回应。 Lucy's whispering is a proto-magical ability, defined through physical sensation rather than supernatural vocabulary.
 - **关键词**：whispering / oiled groove / beating heart
 - **为什么这样写**：Due 用 "oiled groove" 与 "beating heart in palm" 的 tactile metaphor 定义 Lucy's ability，避免 fantasy terminology。This keeps the magic grounded in embodied experience, matching the novella's "a little magic" understatement. The whispering also has cost (headaches, vomiting), establishing it as real effort, not free power.
 - **读者视角提示**：whispering 在 Lucy 视角是 natural ability, not supernatural; adults don't name it. This narrative choice (child's perspective normalizing magic) sets up later Zipporah magic as community practice rather than individual gift. The parenthetical whispers (My papa’s an honest man...) show the content of her attempts.
 
-> **原句 6:** "There!" Papa shouted, pointing. "Those are the rocks we’re heading for. My brother said to look for the Twins. He calls ’em Jacob and Esau."
+> **原句 7:** "There!" Papa shouted, pointing. "Those are the rocks we’re heading for. My brother said to look for the Twins. He calls ’em Jacob and Esau."
 
 - **中文理解**：Papa 指向 Flint Hills 中的两座 pale limestone pillars，named Jacob and Esau (biblical twins) by Uncle Billy. This is the landmark confirming Zipporah's existence after marshal's "fairy tales" dismissal. The biblical naming echoes Zipporah's biblical namesake.
 - **关键词**：Flint Hills / Twins / Jacob and Esau
 - **为什么这样写**：The Twins as landmark converts marshal's skepticism into navigational proof—Papa's map (crude as Thomas would draw) leads to real geography. Biblical naming (Jacob and Esau = twins, rivalry) foreshadows the novella's conflict (Freeman family vs. Texans, Zipporah vs. mob). The "second draw toward the east" is specific navigation, grounding the magic in real trail knowledge.
 - **读者视角提示**：Flint Hills are real Kansas geography; Jacob and Esau are Genesis twins (rivalry, birthright). The name choice hints at sibling/rival dynamics without spelling them out. Lucy's "visual proof that their destination was real" counters marshal's "stuff of fairy tales."
 
-> **原句 7:** "You ain’t lost—you’re found!" she said. "Stay put. We been expectin’ you. Someone will come to fetch you."
+> **原句 8:** "You ain’t lost—you’re found!" she said. "Stay put. We been expectin’ you. Someone will come to fetch you."
 
 - **中文理解**： ridge 上的 colored woman (braided hair, rifle) 用 booming voice 认出 Papa by name, then declares "You ain't lost—you're found!" — reversing the family's lost status. The scout's voice carries authority; her rifle is present but not aimed. The declaration reframes their journey: they were never lost, Zipporah was expecting them.
 - **关键词**：You ain’t lost—you’re found / expectin’
 - **为什么这样写**：The scout's recognition by name (not "who are you?") shows Zipporah's intelligence network—scouts with spyglasses, expecting the Freeman arrival. "You ain't lost—you're found" is the thematic pivot: the family's frantic escape becomes guided arrival. The ridge scene (angel/Indian misidentification) shows Lucy's fear projecting onto unknown figures, then resolving into welcome.
 - **读者视角提示**：Lucy initially fears "angel" or "Indian" (dime novel war party), then sees colored woman—her fear of the unknown resolves into recognition. The scout's "strange, colorful costume" with gold patches signals Zipporah's distinct culture (indigo, gold, beads), different from both Abilene and Lexington. The bull rider (next passage) continues this exotic-yet-welcoming imagery.
 
-> **原句 8:** "You’re just in time for a late supper!" she called out. "Welcome to Zipporah!"
+> **原句 9:** "You’re just in time for a late supper!" she called out. "Welcome to Zipporah!"
 
 - **中文理解**： bull-riding girl (regal, indigo scarf, gold patches, men's riding pants) orders "Follow me" then the ridge woman calls down "You're just in time for a late supper! Welcome to Zipporah!" — hospitality as first word after danger. The chapter ends on welcome, not on the pursuit.
 - **关键词**：late supper / Welcome to Zipporah
