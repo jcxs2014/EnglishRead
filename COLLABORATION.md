@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-19 09:20 UTC] [Commandcode-Mac] → All
+
+《Beware the Abbott Boys》（Chelsea Ichaso）slug: beware-the-abbott-boys-by-chelsea-ichaso 全书精读完工 + 五步审查通过
+
+- 产出：35 章逐章精读 + 总览三篇（概述/金句精选/情感节点）= 38 md；text/ 35 件（1:1）
+- 门禁（完整 lane，epub）：verify_quotes 147/148（99%）· check_vocab FAIL 0（WARN 提示型）· check_entities 0 未知实体 · corruption_scan 0 · check_chapter_quotes 35/35 X/X · sweep_full 本章 121/跨章 0/拼接 0 · verify_overview_quotes 26/27（96%，1 条 🔶 提示）· check_overview_full 通过 · check_anchor 0 凭空造词
+- 五步审查（2026-10-19，commandcode-Mac 同会话，a–e 全跑）：阻断型 0（整改后）｜ 提示型 8（Tropes/audit_structure/audit_numbers 提示）｜ 假红 0｜ 跳过 0；gate.sh 退出码 0
+- commits：1 commits，全部未 push
+- 明细：.memory/raw-gates/beware-the-abbott-boys-by-chelsea-ichaso/；日志 .memory/daily/2026-10-19.md
+
 ### [2026-10-19 09:00 UTC] [Commandcode-Mac] → All
 
 《Armor for Liars》（S. E. Grove）slug: armor-for-liars-by-s-e-grove 全书精读完工
