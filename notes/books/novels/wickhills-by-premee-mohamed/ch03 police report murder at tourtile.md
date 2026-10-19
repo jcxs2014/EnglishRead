@@ -17,25 +17,25 @@ modified: "2026-10-17"
 
 > **原句 1:** "Deceased located upon floor of flat, face upmost. Preliminary cause of death: shooting, not self-inflicted."
 
-**中文理解**：死者位于公寓地板上，face upmost。初步死因：shooting，not self-inflicted（他杀）。
+**中文理解**：死者被发现仰躺在公寓地板上。初步死因判定为枪击，且排除自杀——即他杀。
 
 **关键词**：face upmost（面朝上）；not self-inflicted（非自杀）
 
-**为什么这样写**：police report 的 clinical 语体；"not self-inflicted" 立即排除自杀，establishes murder case。与 Ferec/Tanczel 的 espionage 任务在 narrative 上 likely intersect。
+**为什么这样写**：警方报告采用冷静的临床化笔调；一句「非自杀」立即将案件定性为谋杀。这种官方语体与 Ferec/Tanczel 的间谍任务在叙事上很可能相交。
 
-**读者视角提示**：死者无身份证件，与 chapter 2 的 asset（老者）可能相关；报告的日期 "15 Endril" / "16 Endril" 建立 Wickhills 日历。
+**读者视角提示**：死者没有任何身份证件，可能与第 2 章中的"老者"资产有关；报告中的日期"15、16 Endril"建立了 Wickhills 的日历体系。
 
 ---
 
 > **原句 2:** "Movement off-scene: Bullet location in wall suggested shot fired from adjacent structure, entering open window of deceased person while he stood directly in front of it."
 
-**中文理解**：Movement off-scene：子弹在墙中的位置 suggested shot fired from adjacent structure，进入死者 standing directly in front of open window 的公寓。
+**中文理解**：离场弹道：墙中弹孔的位置显示子弹来自邻楼，经开着的窗户射入，死者当时正站在窗前。
 
 **关键词**：adjacent structure（邻楼）；open window（开着的窗）
 
-**为什么这样写**： establishing the murder's mechanics (sniper from adjacent building, victim at window) — likely foreshadows how the asset was extracted or how Tanczel's killers operated. "Movement off-scene" 是 police report 的 standard section.
+**为什么这样写**：用来建立谋杀的机制——邻楼狙击手、受害者在窗前——很可能伏笔资产被提取的方式，或 Tanczel 杀手的行动模式。「离场弹道」是警方报告的标准栏目。
 
-**读者视角提示**：子弹来自邻楼 + 死者站在窗前 = professional hit；与 chapter 2 的 ōg ambush / "piss-stinking corpse" 可能 connected。
+**读者视角提示**：子弹来自邻楼且死者站在窗前，指向职业杀手；与第 2 章的 ōg 埋伏与恶臭尸体可能相关。
 
 ## 本章词汇
 
@@ -49,13 +49,13 @@ Tourtile 巡逻站的凶杀案报告——身份不明男子在三楼公寓被�
 
 > **原句 3:** "Deceased has been transferred to Mortuary Services (see manifest)."
 
-**中文理解**：Deceased has been transferred to Mortuary Services (see manifest)。
+**中文理解**：死者已移送验尸服务（见清单）。
 
 **关键词**：Mortuary Services（验尸服务）；manifest（清单）
 
-**为什么这样写**：police report 的 closing —— deceased transferred to Mortuary Services。"see manifest" = bureaucratic cross-reference。Establishes the case's institutional processing。
+**为什么这样写**：警方报告的收尾——死者移送验尸服务。「见清单」是官僚式的交叉引用，确立案件的制度化处理流程。
 
-**读者视角提示**：official record of body transfer; case #18923's institutional trail begins。
+**读者视角提示**：这是尸体移送的官方记录；案件 #18923 的制度化追踪由此开始。
 
 ---
 

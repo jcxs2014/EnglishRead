@@ -17,25 +17,25 @@ modified: "2026-10-17"
 
 > **原句 1:** "“But that’s simply astonishing!” cried Constable Arthur, his blue eyes starting from his head. “Extraordinary! Oh!”"
 
-**中文理解**：Constable Arthur cried "But that's simply astonishing!"，his blue eyes starting from his head。"Extraordinary! Oh!"
+**中文理解**：康斯特布尔·亚瑟惊呼"但这实在太惊人了！"，他的蓝眼珠几乎要从眼眶里凸出来；接着又连叫"太离奇了！哦！"——这是他被 Percival 的结论惊到失态的反应。
 
 **关键词**：starting from his head（眼珠突出，极度惊讶）
 
-**为什么这样写**：establishes Constable Arthur as the amazed audience surrogate；his exaggerated reaction sets up Percival's smug confidence。blue eyes starting from his head 是 cartoonish 但有效的 comic register。
+**为什么这样写**：把康斯特布尔·亚瑟设为被惊吓的"观众替身"，他的夸张反应反衬 Percival 的冷静与自得；"蓝眼珠几乎凸出眼眶"这种漫画式的夸张写法，给作品内的侦探故事定下了喜剧化的语调。
 
-**读者视角提示**：in-world story 的 tone 是 parody of detective fiction；Constable Arthur 对应 Wickhills 世界的普通 citizen。
+**读者视角提示**：这段是虚构侦探故事的摘录；康斯特布尔·亚瑟对应 Wickhills 世界中的普通市民，他的反应也在提醒读者：此故事是作品内的娱乐文本，与 Ferec 的间谍主线形成互文。
 
 ---
 
 > **原句 2:** "“It will be less astonishing once I explain the final piece of the puzzle,” Percival said. He seemed entirely unmoved by the state of the constable’s agitation; I suppose also it would be ungenerous of me to mention in this account that my partner seemed, if anything, a little smug about the conclusion of the case."
 
-**中文理解**：Percival said "It will be less astonishing once I explain the final piece of the puzzle." He seemed entirely unmoved by the constable's agitation；narrator (Credge) suppose it would be ungenerous to mention that his partner seemed a little smug about the conclusion of the case。
+**中文理解**：Percival 说，等我把谜题的最后一块解释清楚，你就不会觉得那么惊人了。他似乎完全不受康斯特布尔激动状态的影响；叙述者 Credge 也自嘲地说，若在记录里指出搭档对结案有点自鸣得意，未免不够厚道。
 
 **关键词**：final piece of the puzzle（最后一块拼图）；smug（自鸣得意的）；agitation（激动）
 
-**为什么这样写**：Percival 的 "final piece of the puzzle" 与 chapter 1-2 的 espionage "asset recovery" 形成 meta-parallel——detective solving puzzle vs spy recovering asset。Credge 的 narrator voice（"I suppose also it would be ungenerous..."）establishes first-person unreliable-ish narrator with mild irony toward partner。
+**为什么这样写**：Percival 的"最后一块拼图"与前文间谍线索的"资产追回"形成元叙事层面的平行——侦探解谜 vs 间谍追回资产；Credge 的叙述者声音（"我猜……"）用轻微反讽塑造了第一人称叙述者，暗示他与搭档之间微妙的伙伴关系。
 
-**读者视角提示**：Percival Alnwyck 是 in-world 侦探， Issue 47 的 "The Case of the Porphyry Squire"；后文 likely 回收这个侦探系列。
+**读者视角提示**：Percival Alnwyck 是作品内侦探，出自第 47 期《斑岩乡绅案》；这个侦探系列后文很可能会被回收利用。
 
 ## 本章词汇
 
@@ -49,14 +49,13 @@ in-world 侦探故事 excerpt——Percival Alnwyck 与 Credge 破案，Constabl
 
 > **原句 3:** "“My good man,” said the constable, digging his fingers into the arms of the chair, “only yesterday you were telling us—wasn’t he, Mr. Credge?—that you were not at all assembling a jigsaw puzzle, but carrying upon your back a Hessian sack full of oddments with no connection whatsoever!”"
 
-**中文理解**：Constable Arthur 的 challenge —— Percival 此前否认组装拼图。
+**中文理解**：康斯特布尔·亚瑟紧抓椅臂，反驳道：昨天你还对我们说——不是吗，Credge 先生？——你根本不是在拼拼图，而是背着一只麻袋，装满毫无关联的零碎物件！
 
 **关键词**：jigsaw puzzle（拼图）；oddments（零碎物件）
 
-**为什么这样写**：Constable Arthur's challenge — Percival's earlier denial of puzzle-assembling. Percival 此前的 cover story。Establishes the case 的 puzzle motif。
+**为什么这样写**：康斯特布尔的质问揭示了 Percival 此前的掩饰说法，建立"拼图"母题；麻袋比喻把杂乱线索具象化，为 Percival 的"最后一块拼图"找到落点。
 
-**读者视角提示**：detective story's meta-narrative — Percival's "final piece of the puzzle" solves the case。
-
----
+**读者视角提示**：侦探故事的元叙事——Percival 的"最后一块拼图"最终解开案件；作品内文学作品与 Wickhills 世界的侦探小说类型文化互文。
 
 **核心原则**：会话保持精简，详情写入文件。用户读文件而不是会话。
+

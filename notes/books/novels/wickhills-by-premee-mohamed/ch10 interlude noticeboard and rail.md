@@ -17,25 +17,25 @@ modified: "2026-10-17"
 
 > **原句 1:** "Starting BOOK CLUB for offisers without TOO MANY HEAD INJURIES and humans only—next month classic masterpeice MICE OF THE MOUNTAIN by G. R. Flaubell—contact Rorimota"
 
-**中文理解**：3rd Floor Watch noticeboard："Starting BOOK CLUB for offisers without TOO MANY HEAD INJURIES and humans only—next month classic masterpeice MICE OF THE MOUNTAIN by G. R. Flaubell—contact Rorimota"
+**中文理解**：三楼守望公告板通知：发起读书会，仅限头部受伤不算太多的军官且必须是人类；下月共读经典《Mice of the Mountain》（作者 G. R. Flaubell）；联系公告署名者。这是其内部的俱乐部活动，把职业性头伤与物种限制写进招募条件。
 
 **关键词**：offisers（officers 的拼写错误，in-world humor）；masterpeice（masterpiece 的拼写错误）；head injuries（头伤，Watch 职业病）
 
-**为什么这样写**：comic worldbuilding — Watch officers' book club excludes those with "TOO MANY HEAD INJURIES" (occupational hazard) and non-humans. Spelling errors ("offisers", "masterpeice") = in-world authenticity. "MICE OF THE MOUNTAIN by G. R. Flaubell" = fictional book within fiction.
+**为什么这样写**：以公告板形式做世界建构——读书会把"头部受伤过多"的人排除在外（职业病梗），并限制"只限人类"（暗示城中的物种分层）；拼写错误模拟公告板原文的真实感；《Mice of the Mountain》与作者 G. R. Flaubell 是小说内的虚构书，构成元小说层次。
 
-**读者视角提示**：G. R. Flaubell / Mice of the Mountain 可能在后文出现；"humans only" 暗示 Wickhills 的 species segregation。
+**读者视角提示**：Flaubell 与《Mice of the Mountain》可能在后文出现；『只限人类』暗示该城存在物种分层/隔离；公告板其他条目（城市比赛半决赛缺第四人等）可能关联后续剧情，书名与作者或在后文再现。
 
 ---
 
 > **原句 2:** "All GREEN LINE trains will be delayed approximately 30–90 minutes until the lines and signals can be integrated. Fares and classes will remain the same during this period. Fare inspectors will carry out duties as normal."
 
-**中文理解**：GREEN LINE trains 将被 delayed approximately 30–90 minutes until lines and signals integrated。Fares and classes remain same; fare inspectors carry out duties as normal。
+**中文理解**：所有 GREEN LINE 列车将延误约 30–90 分钟，直至线路与信号完成整合；延误期间票价与舱等维持不变；检票员照常执法。
 
 **关键词**：delayed approximately 30–90 minutes（延迟约 30-90 分钟）；fare inspectors（检票员）
 
-**为什么这样写**：bureaucratic notice — Wickhills 的 rail system worldbuilding。"Fare inspectors will carry out duties as normal" 即使 delays 也 enforce fares = institutional indifference. Establishes Wickhills 的 infrastructure complexity (multiple lines: GREEN, YELLOW).
+**为什么这样写**：以官方公告形式建构该城的铁路系统——延误期间仍维持原票价与舱等，且检票员"照常执法"，体现制度性冷漠；同时暗示该城基础设施复杂（多条线路：GREEN、YELLOW）。
 
-**读者视角提示**：rail system 可能与 plot 相关（Ferec's movements, asset transport）。
+**读者视角提示**：铁路系统可能与主线剧情相关（Ferec 的移动、资产运输等）；延误公告可能影响人物行程。
 
 ## 本章词汇
 
@@ -49,13 +49,13 @@ in-world noticeboard + rail notice — 3rd Floor Watch 的 comic ephemera（scow
 
 > **原句 3:** "The Wickhills Rail Transportation Authority apologizes for the delays over the weekend. The cause of the delay was a new train line running between Upper East Bullwhelp (no station) and Kalnos Siding (Kalnos Street Main Station)."
 
-**中文理解**：The Wickhills Rail Transportation Authority apologizes for the delays over the weekend. The cause of the delay was a new train line running between Upper East Bullwhelp (no station) and Kalnos Siding (Kalnos Street Main Station)。
+**中文理解**：该市铁路运输管理局就周末延误致歉；延误原因是新增一条在 Upper East Bullwhelp（该段无站）与 Kalnos Siding（Kalnos 大街主站）之间运行的新线路，导致周末服务中断并影响乘客行程与班次安排与到站信息与调度秩序（新线施工影响周末班次与到站信息）。
 
 **关键词**：Rail Transportation Authority（铁路运输管理局）；delays（延迟）
 
-**为什么这样写**：WRTA 的 official notice —— bureaucratic apology for delays。"Upper East Bullwhelp (no station)" = new line without station。Establishes Wickhills 的 rail infrastructure。
+**为什么这样写**：官方致歉公告——延误原因是新增线路（Upper East Bullwhelp 段无站）；官僚文风强化城市机构的真实感，建立该市的铁路基础设施（含后续黄线）。
 
-**读者视角提示**：rail system 可能与 plot 相关（Ferec's movements, asset transport）。
+**读者视角提示**：铁路系统可能与主线剧情相关（Ferec 的移动、资产运输等）；新线路与 Bullingdon 大街车站建设可能在后文出现。
 
 ---
 
