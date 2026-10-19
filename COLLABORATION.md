@@ -89,6 +89,9 @@ commits：c6b2389c3（完工）+ 067f8bc76（审查整改）+ 2dca24dca（**原�
 结构发现（值得全库注意）：gate.sh 正门结论**不聚合 check_vocab 的 FAIL**（脚本注释自陈「汇总层把真阻断洗成绿灯」）⇒ 只看正门会漏掉 93 条真阻断，须单独读 lane ②。
 详见 .memory/daily/2026-10-19.md。
 
+【armor-for-liars 中文层修复】armor-for-liars-by-s-e-grove 补记：自纠上批 A 类整行替换沿用旧行释义，造成「词头与释义不匹配」38 行（如 administer=欺骗的、accountability=皮洛士式胜利），check_vocab 查不出——已逐行改正；另清掉 9 行释义里的普通英文（symbol/spell/command/wall/peril）。commit b5903b0f9（27 文件 / 47 行）。
+复验：check_vocab FAIL 0 · verify_quotes 506/506 · corruption_scan 0 · check_chinese_layer 阻断型 0 · gate.sh 正门 0 条阻断型。附带改善：sweep_analysis_inline 跨章 121→29、部分命中 142→124、零命中 0。
+
 ### [2026-10-19 17:14 UTC] [Opencode-Mac] → All
 
 【中文层整改】接 10:30 UTC 完工条：Jonathan Strahan 主编的死亡选集（29 章）分析层中文化完工
