@@ -3,7 +3,7 @@
 modified: "2026-10-19"
 ---
 
-# 19. Chapter 769: Signy, Cypsela
+# 20. Chapter 8: Signy, Fortune
 
 ## 本章导航
 
