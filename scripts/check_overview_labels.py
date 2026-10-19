@@ -48,7 +48,7 @@ from chapter_text_path import find_chapter_text  # noqa: E402
 
 LABEL = re.compile(r"（\s*ch\s*(\d{1,3})\s*）\s*$")
 SEG = re.compile(r"\s*(?:…|\.\s\.\s\.)\s*")
-NUM = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕㉖㉗㉘㉙㉚"
+NUM = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕㉖㉗㉘㉙㉚㉛㉜㉝㉞㉟"
 # 行首序号：①…㉚ 全部圈码，或 `12.` / `12)` / `12、`（NFKD 会把圈码归一成数字
 # 留在指纹头部，**每条必然查无**——ticket-to-mars 全红、the-coral-bones 5 条即此因）
 # ⚠️ 2026-10-01 修正（The Death of Us 批实测，全库假红）：本行原为

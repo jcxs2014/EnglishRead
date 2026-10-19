@@ -24,7 +24,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from check_overview_full import halves, suffix_match, is_quoteish  # noqa: E402
 from verify_quotes import strip_page_anchors  # noqa: E402  # 页码锚点口径须与 epub 参照集一致
 
-CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕㉖㉗㉘㉙㉚'
+CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕㉖㉗㉘㉙㉚㉛㉜㉝㉞㉟'
 
 def flat_alpha(s: str) -> str:
     s = re.sub(r'\\+\s*[nt]', '', s)
