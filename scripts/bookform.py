@@ -81,6 +81,22 @@ def genre_of(book: Path) -> str:
 
 def profile_of(book: Path) -> dict:
     return load_profiles().get(genre_of(book), {})
+
+def _sub_drift(prof_subs, optional, modal) -> str | None:
+    """子项集偏离判定。optional 里的子项可加可不加，不算偏离。
+
+    实测（2026-10-20，两个根）：novels 237 本里 205 本用 4 子项、32 本加「句子结构」；
+    mystery 49 本里 46 / 3。把少数派写成"偏离"会让这 35 本每章都挂一条 ⚠️
+    ——告警一多就没人看，等于把真偏离也淹掉。
+    """
+    req, opt, m = set(prof_subs or []), set(optional or []), set(modal or [])
+    if not req:
+        return None
+    if m == req or (req <= m and (m - req) <= opt):
+        return None
+    return (f"子项集 {'/'.join(prof_subs)} ≠ 本书 {'/'.join(modal) or '—'}")
+
+
 DIGITS = re.compile(r"\d+")
 TEXTCH_RE = re.compile(r"^ch(\d+)(?![0-9])")
 
@@ -245,6 +261,7 @@ def book_form(book: Path) -> dict:
         "profile": genre_of(book),
         "profile_label": prof.get("label", ""),
         "profile_subitems": list(prof.get("subitems") or DEFAULT_SUBITEMS),
+        "profile_optional": list(prof.get("optional_subitems") or []),
         "profile_blocks": list(prof.get("blocks") or DEFAULT_BLOCK_RANGE),
         "profile_overview": prof.get("overview", 3),
     }
@@ -356,8 +373,9 @@ def print_form(f: dict) -> None:
     print(f"  体裁 profile：{f.get('profile', '_default')}（{f.get('profile_label', '')}）"
           f"｜子项 {len(prof_subs)} 项｜块数 {prof_blocks[0]}–{prof_blocks[1]}｜总览 {f.get('profile_overview', 3)} 篇")
     drift = []
-    if prof_subs and set(prof_subs) != set(f["subitems"]):
-        drift.append(f"子项集 {'/'.join(prof_subs)} ≠ 本书 {'/'.join(f['subitems']) or '—'}")
+    sub_d = _sub_drift(prof_subs, f.get("profile_optional"), f["subitems"])
+    if sub_d:
+        drift.append(sub_d)
     # 块数只在**新书**（还没有自己的中位）时按 profile 提示；
     # 已有书按 2026-10-18 拍板的「同书自校准」——中位 15 是这本书的体裁使然，不是缺陷。
     if f.get("baseline") == "default" and prof_blocks[1] and \
@@ -399,7 +417,7 @@ def print_check(r: dict) -> None:
         print(f"    缺：{f['nav_missing']}")
     print(f"  块数 {f['blocks']}（本书中位 {f['block_median']}，范围 {f['block_range'][0]}–{f['block_range'][1]}）")
     prof_subs = f.get("profile_subitems") or []
-    if prof_subs and set(prof_subs) != set(f.get("subitems_modal") or []):
+    if _sub_drift(prof_subs, f.get("profile_optional"), f.get("subitems_modal") or []):
         print(f"  ⚠️ 体裁 profile（{f.get('profile')}）的子项是 {'/'.join(prof_subs)}，"
               f"本书是 {'/'.join(f.get('subitems_modal') or []) or '—'}——**不算错**，判定表写一行理由")
     print("\n【断言】")
