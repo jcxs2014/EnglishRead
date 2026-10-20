@@ -194,19 +194,19 @@ modified: "2026-10-20"
 | emphasis | n. 强调、重音 | And,’ she added, with some emphasis, ‘I am not.’ |
 | unobtrusively | adv. 不引人注意地 | Lucy is not only smart; she has an unobtrusively sympathetic vibe. |
 | cubicle | n. 小隔间、小办公室 | Lucy would work for most of the time in a small cubicle that adjoined my consulting room |
+| mealworms | n. 面包虫（喂鸟的干虫） | rapping their beaks against the glass if I had forgotten to put out their ration of dried mealworms. |
+| blackbirds | n. 黑birds（乌鸫一类） | Each day the blackbirds would come and perch there |
+| lacquerware | n. 漆器 | a red lacquerware Chinese cabinet, the doors of which were adorned with gilt swallows |
+| medallion | n. 徽章、圆形饰牌 | fastened with an ornate metal medallion. |
+| solicitors’ offices | phr. 事务律师事务所的办公室（此处指其陈设惯例） | there were not even to be any of those anodyne landscapes so often found in doctors’ surgeries or on the walls of solicitors’ offices. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
 | birdseed | n. 鸟食 | I had formed the habit of sprinkling birdseed on the windowsill. |
-| mealworms | n. 面包虫（喂鸟的干虫） | rapping their beaks against the glass if I had forgotten to put out their ration of dried mealworms. |
-| blackbirds | n. 黑birds（乌鸫一类） | Each day the blackbirds would come and perch there |
 | cabinet | n. 柜子、橱柜 | I was tempted to leave in place a red lacquerware Chinese cabinet |
-| lacquerware | n. 漆器 | a red lacquerware Chinese cabinet, the doors of which were adorned with gilt swallows |
-| medallion | n. 徽章、圆形饰牌 | fastened with an ornate metal medallion. |
 | gilt | adj. 镀金的；n. 金箔 | the doors of which were adorned with gilt swallows |
-| solicitors’ offices | phr. 事务律师事务所的办公室（此处指其陈设惯例） | there were not even to be any of those anodyne landscapes so often found in doctors’ surgeries or on the walls of solicitors’ offices. |
 
 ## 一句话总结
 

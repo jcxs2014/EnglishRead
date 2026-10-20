@@ -402,6 +402,7 @@ modified: "2026-10-20"
 | occupations | n. 职业 | I code the identities and will give false names and occupations in any account of my research. |
 | bitumen | n. 沥青 | You see parts where the layers of salt are as solid as bitumen.’ |
 | sceptical | adj. 持怀疑态度的（英式拼写） | and my predisposition towards people who claim to have been captured by aliens is sceptical. |
+| cellophane | n. 透明塑料膜、玻璃纸 | Folded like a new shirt in its cellophane packet. |
 
 ### ⭐ 基础
 
@@ -410,7 +411,6 @@ modified: "2026-10-20"
 | blinds | n. 百叶窗 | I have only just returned to my chair after adjusting the blinds |
 | thighs | n. 大腿 | Anthony is wary and sits with his hands braced against his thighs |
 | disaster porn | phr. 「灾难色情」（把灾难当景观消费） | My mistake was letting him talk me into driving to the south Aral seabed first where the tourists go for their bit of disaster porn. |
-| cellophane | n. 透明塑料膜、玻璃纸 | Folded like a new shirt in its cellophane packet. |
 | trolley | n. 手推车、平板车 | ‘I was lying on a trolley that felt like steel, or some metal alloy. |
 | alloy | n. 合金 | ‘I was lying on a trolley that felt like steel, or some metal alloy. |
 | putty | n. 腻子、油灰 | Skin like putty. No mouths, no nose, just two holes and big black eyes, like you see in comic books. |
