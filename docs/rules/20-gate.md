@@ -18,6 +18,15 @@ audit_structure / check_anchor / 空段扫描 / verify_overview_quotes / check_o
 check_xref_chapter / check_quote_blocks / check_block_keywords / check_chinese_layer。
 （lane 清单会变，**以 `gate.sh` 现场为准**；单跑某检测器的参数见该脚本 `--help`。）
 
+**结论怎么来的（2026-10-20 起是双轨）**：`gate.sh` 同时看两层——
+**退出码层**（`②③⑦⑧⑲` 五个 lane 的进程退出码：1=阻断、2=未判定）与
+**文本层**（日志里 `❌` 条目行计数，覆盖其余 14 个 lane）。
+任一层报阻断 → `exit 1`；两层不一致时**脚本会把不一致本身打印出来**——那正是
+2026-10-02 / 10-05 / 10-06 三次「汇总层把真阻断洗成绿灯」的形态。
+⚠️ rc 层**只覆盖 5 个 lane**，因为其余工具的退出码语义还没逐个核实
+（多个工具把 ⚠️ 提示也计入非零码）；**盲目扩大 rc 层会把提示型判成阻断，在全库制造假红**。
+读输出时先看末尾那两行，再看是哪一轨报的。
+
 ## 2. 先判 lane：有 epub / 无 epub
 
 | 判定 | 完整 lane（有 epub） | 降级 lane（无 epub） |
@@ -104,6 +113,11 @@ a 第 3 条门禁全量重跑（verify_quotes + `--full` / check_vocab / check_e
   见 AGENTS 第 9 条 d2）
 → 修复后：再跑 `corruption_scan` + `audit_structure` 做**基线对比**（防自伤）
 → 终验巡检：`sweep_full`（整串 flat，**2026-09-27 已入第 3 条常跑**，epub 非必需——参照集 `text/` 优先）
+  ＋ **`check_quote_order.py`**（**章内引语块顺序 vs 原文顺序**，2026-10-20 加进终验巡检·**不进正门**）
+    —— ⚠️ **19 lane 无一道验块序**（相邻两块对调时全绿）；全库实跑（口径：有 `text/*.txt` 的书目录 **503** 本）
+      **exit0 65 / exit1 缺陷 354 / exit2 不可判定 84**（另一口径「有 `ch*.md` 的」＝474 本 ⇒ 缺陷 **354** 同、不可判定 55 ＝ 差值恰为 29 个「有 text/ 无 ch*.md」的书目录）⇒ **缺陷 354 是全库级系统缺陷**，
+      **存量书按「新规则适用范围」不自动回溯**（`docs/rules/审查表.md` 同款处置）；**exit 2 ＝ 不可判定，不是通过**。
+    —— 修块序用 `.memory/tools/reorder_quote_blocks.py`（**只搬整块 + 重编号**；落盘三件套见 `docs/rules/30-writing.md` 坑字典 7k）
 
 
 ⚠️ 报告用语红线（违反则本批次返工）：

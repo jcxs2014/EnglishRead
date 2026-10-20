@@ -35,6 +35,17 @@ exec > "$GATE_LOG"
 trap "cat '$GATE_LOG' >&3" EXIT
 trap 'echo "gate.sh 中途中止（set -u 未定义变量等），以上为中止前的输出。" >&2' ERR
 
+# 2026-10-20：**双轨聚合**。文本层数 ❌ 曾三次把真阻断洗成绿灯（见文件头 ①②③）。
+# 现改为「退出码层 + 文本层」双轨：任一层报阻断即红；两层不一致时把不一致本身打出来
+# ——那正是历次假绿的形态。
+# ⚠️ rc 层目前只覆盖 5 个 lane（② check_vocab / ③ check_entities / ⑦ 逐章归属 /
+#    ⑧ 块覆盖 / ⑲ 中文层），因为它们的退出码语义已明确（1=阻断，2=未判定）。
+#    其余 14 个 lane 的 rc 语义尚未逐个核实（多个工具把 ⚠️ 提示也放进非零退出码），
+#    **先不盲目扩大 rc 层**：把提示型判成阻断会在全库制造假红，比漏报更贵。
+RC_BLOCK=0
+RC_WHICH=""
+_blk() { RC_BLOCK=$((RC_BLOCK+1)); RC_WHICH="$RC_WHICH $1"; }
+
 echo "=== lane ==="
 [ -n "$EPUB" ] && echo "完整 lane（有 epub）" || echo "降级 lane（无 epub）"
 
@@ -60,6 +71,7 @@ if [ "$_cv_rc" -ne 0 ]; then
   echo "$_cv_out" | awk '/^--- FAIL/,/^--- WARN/' | grep -E "^  ch" -A1 | head -40
   echo "❌ check_vocab FAIL != 0（词表层缺陷：例句不命中本章 / 词条虚构 / 占位符）"
 fi
+[ "$_cv_rc" -ne 0 ] && _blk "②check_vocab"
 
 echo; echo "=== ③ check_entities（梗概实体一致性）==="
 # ⚠️ 2026-10-18：本 lane 原为 `| tail -1`，而 check_entities 修完真空绿后
@@ -83,6 +95,7 @@ elif [ "$_ce_rc" -ne 0 ]; then
 else
   echo "$_ce_out" | tail -1
 fi
+[ "$_ce_rc" -eq 1 ] && _blk "③check_entities"
 
 echo; echo "=== ④ corruption_scan（编辑损坏，进门禁）==="
 # ⚠️ 2026-10-05 五步审查修（I Am Not Jessica Chen 实证）：本项原写
@@ -113,6 +126,7 @@ for f in "$B"/ch*.md; do
   case "$out" in *": "*) printf '%-46s %s\n' "$(basename "$f")" "$out";; *) fail=1; echo "❌ $f: $out";; esac
 done
 [ $fail -eq 0 ] && echo "（逐章归属：全部 X/X in 本章 text）"
+[ $fail -ne 0 ] && _blk "⑦逐章归属"
 
 echo; echo "=== ⑧ 块覆盖对账（每块都进 verify_quotes）==="
 # ⚠️ 2026-09-29 修正：原写 `| tail -2` ⇒ **阻断型 ❌ 被藏掉**（ch37-39 批次实测：
@@ -121,6 +135,7 @@ echo; echo "=== ⑧ 块覆盖对账（每块都进 verify_quotes）==="
 python3 scripts/check_block_coverage.py "$B" 2>&1 | grep -E "^(✅|❌|⚠️) |^❌ " | head -20
 BLOCK8=$(python3 scripts/check_block_coverage.py "$B" 2>&1 | grep -c "^❌ " || true)
 [ "$BLOCK8" -gt 0 ] && echo "⛔ 阻断型：$BLOCK8 个文件有块未进 verify_quotes 校验"
+[ "$BLOCK8" -gt 0 ] && _blk "⑧块覆盖"
 
 echo; echo "=== ⑨ 导航/总结层英文核对（六道门禁盲区）==="
 # ⚠️ 2026-10-03 修正：本项原先 `| tail -1` 只留汇总行，条目明细看不见；
@@ -359,6 +374,7 @@ rm -f "$_CCL_OUT"
 if [ "$_CCL_RC" -eq 2 ]; then
   echo "⚠️ check_chinese_layer 退出码 2 = 无法判定（未解析出引语块）——**该层未核**，不是「干净」"
 fi
+[ "$_CCL_RC" -eq 1 ] && _blk "⑲中文层"
 
 
 # ---- 退出码聚合（2026-10-02 新增，见文件头说明）----
@@ -377,9 +393,18 @@ sleep 0.3
 #   无 ❌ 标记、⑱ 被 tail 截断）。⇒ 判据改为**行首可有可无空白**，只认 ❌ 本身。
 _gfail=$(grep -E '^[[:space:]]*❌' "$GATE_LOG" 2>/dev/null | grep -v '｜' | grep -v ' 0 ' | wc -l | tr -d ' ')
 _gfail=${_gfail:-0}
-if [ "$_gfail" -gt 0 ]; then
-  echo "══ 正门结论：❌ ${_gfail} 条阻断型（见上；退出码 1）══"
+if [ "$RC_BLOCK" -gt 0 ] || [ "$_gfail" -gt 0 ]; then
+  [ "$RC_BLOCK" -gt 0 ] && echo "══ 退出码层：${RC_BLOCK} 个 lane 报阻断 →${RC_WHICH} ══"
+  if [ "$RC_BLOCK" -gt 0 ] && [ "$_gfail" -eq 0 ]; then
+    echo "⚠️ **文本层没数到 ❌，但退出码层报阻断**——以退出码为准。"
+    echo "   （这正是 2026-10-02/10-05/10-06 三次「汇总层把真阻断洗成绿灯」的形态）"
+  fi
+  if [ "$_gfail" -gt 0 ] && [ "$RC_BLOCK" -eq 0 ]; then
+    echo "⚠️ **文本层数到 ${_gfail} 条 ❌，但退出码层全绿**——请读上面的行确认是真缺陷还是显示层问题。"
+  fi
+  echo "══ 正门结论：阻断型（退出码 1）══"
   exit 1
 fi
+echo "   （rc 层覆盖 ②③⑦⑧⑲ 五个 lane；其余 14 个仍由文本层 ❌ 计数兜底）"
 echo "══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══"
 exit 0
