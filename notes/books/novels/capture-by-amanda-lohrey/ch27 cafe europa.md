@@ -11,7 +11,7 @@ modified: "2026-10-20"
 
 **信念弧线位置**：全书的**收束**。马瑟认输（「承认失败」），而露西转身去了另一个题目——一个**有学术前途**、能被写成历史、能换来一条职业道路的题目。这既是理性的，也是全书最动人的一次转身。
 
-**母题兑现/反转**：母题在此被**升格**为一场运动：「超越人主义」（transhumanism）——「身体的_reset_，人性的转变，他们称之为激进的升级」。而它与外星捕获的关系被露西说成「症状」而非「母题」。
+**母题兑现/反转**：母题在此被**升格**为一场运动：「超越人主义」（transhumanism）——「身体的一次重置，人性的转变，他们称之为激进的升级」。而它与外星捕获的关系被露西说成「症状」而非「母题」。
 
 **人物弧线**：露西在本章彻底从**记录者**变成**主体**：她有计划、有题目、有同行评审、有一份研究计划书。而结尾马瑟那句「趁我还有信誉，替你说话吧」，是两人之间最坦率也最伤感的一句。
 
@@ -141,7 +141,7 @@ modified: "2026-10-20"
 
 > **原句 11:** "‘It’s a movement. Transhumanism. A reset of the body, a transformation of human nature. They call it a radical upgrade.’ … ‘Like a new appliance.’ … ‘Who doesn’t like a new appliance?’"
 
-**中文理解**：「这是一场运动。**超越人主义**（Transhumanism）。一次身体的_reset_，一次人性的转变。他们称之为一次激进的升级。」……「就像一台新电器。」……「谁不喜欢新电器呢？」
+**中文理解**：「这是一场运动。**超越人主义**（Transhumanism）。身体的一次重置，一次人性的转变。他们称之为一次激进的升级。」……「就像一台新电器。」……「谁不喜欢新电器呢？」
 
 **关键词**：It’s a movement. Transhumanism / A reset of the body / a transformation of human nature / They call it a radical upgrade / Like a new appliance / Who doesn’t like a new appliance?
 
