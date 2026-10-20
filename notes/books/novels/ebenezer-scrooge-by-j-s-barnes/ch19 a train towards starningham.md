@@ -120,8 +120,8 @@ modified: "2026-10-20"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| unstinting | adj. 不知疲倦的；毫无保留的（此处形容斯克罗奇花钱让他们单独坐一等车厢的那份慷慨） | They were sitting – thanks to the unstinting generosity of their patron, Mr Scrooge – quite by themselves in a first-class carriage. |
-| generosity | n. 慷慨；大方（安布罗斯替斯克罗奇付的车厢钱） | They were sitting – thanks to the unstinting generosity of their patron, Mr Scrooge – quite by themselves in a first-class carriage. |
+| unstinting | adj. 毫无保留的；不设限的（此处形容斯克罗奇那份让他们单独坐一等车厢的慷慨） | They were sitting – thanks to the unstinting generosity of their patron, Mr Scrooge – quite by themselves in a first-class carriage. |
+| generosity | n. 慷慨；大方（斯克罗奇让他们单独坐一等车厢的那份慷慨） | They were sitting – thanks to the unstinting generosity of their patron, Mr Scrooge – quite by themselves in a first-class carriage. |
 | awkwardness | n. 尴尬；不自在（两个人单独相对时的那股气氛） | There was an awkwardness between the two, at finding themselves alone in such a fashion. |
 | Starningham | n. 斯坦宁厄姆（地名；斯克罗奇答应天黑前赶到的地方） | He promised he would be with us in Starningham by nightfall and so I know that he shall. |
 | astonishing | adj. 惊人的；不可思议的（安布罗斯说亲眼见过的怪事） | I have seen astonishing things by his side. |
