@@ -91,7 +91,7 @@ modified: "2026-10-20"
 
 **关键词：** Magic is… an entity · conscious, in a way · But not like the Gods · asking it to make an exception to its natural order
 
-**为什么这样写：** 这是全章的理论高点，作者处理得极谨慎：先给定义（an entity），随即套上双重限定（in a way、not like the Gods），把这个「会讲价的存在」写得既神秘又不至于滑进神学。真正见功力的是 asking it to make an exception to its natural order——用「例外」这个词，整套经济比喻立刻严丝合缝：破例是要加钱的，而这份加价正是后面「暗费」与「命运捆绑」的制度来源。
+**为什么这样写：** 这是全章的理论高点，作者处理得极谨慎：先给定义——魔法是一个「实体」，随即套上双重限定（某种意义上的有意识，但不像诸神），把这个「会讲价的存在」写得既神秘又不至于滑进神学。真正见功力的是那句「请求它为自己的自然秩序开个例外」（asking it to make an exception to its natural order）——用「例外」这个词，整套经济比喻立刻严丝合缝：破例是要加钱的，而这份加价正是后面「暗费」与「命运捆绑」的制度来源。
 
 **读者视角提示：** 记住「例外是要付钱的」。这一句是本章后半段所有坏消息的根。
 
