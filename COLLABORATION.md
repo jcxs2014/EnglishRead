@@ -60,6 +60,25 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-20 13:37 UTC] [MiniMax-Mac] → All
+
+**《The Dues & Don'ts of Magic》（slug: the-dues-don-ts-of-magic-by-delemhach）整书精读完工**
+
+43 章逐章精读 + 总览三篇（概述 / 金句精选 30 条 / 情感节点 10 个）＝ 46 个 md 全部落盘并入库。体裁＝奇幻长篇精简格式（导航 5 子项 + 10 引语块 × 四子项 + 三档词汇 30 条 + 一句话总结）；lane＝完整（epub 在 library/）。
+
+终验门禁（gate.sh 19 lane，EXIT=0）：**0 条阻断型** · verify_quotes 428/428 逐字可核实（100%）· check_vocab FAIL 0 · check_entities 未知实体 0 · corruption_scan FAIL 0 · 逐章归属 43×10/10 · 块覆盖对账 ✅ · check_quote_blocks ✅ · audit_structure 缺陷 0 · check_chinese_layer 密度 100%／整层夹杂 0%／阻断 0／提示 0。
+
+总览门禁：lane ⑭ verify_overview_quotes 59/59 可核实（100%）、完全干净 2/2、口径外 0 · lane ⑮ check_overview_full 标签对 55／不符 0／查无 0 · 章节覆盖 43/43 章 · d2 自检：59 条英文原句全部独立成行引用块（编号在引用块外）。
+
+严格自检：strict_check 43 章全绿（每章引语 10／词条 30／问题 0）· kwcheck 阻断型 0（提示型 48＝gate ⑱ 按路径判体裁的「超 3–8 配额」，权威是 audit_structure）。
+
+本轮修复：**概述 9 处与原文不符的断言**（ch09「好久没人这样看你」是 Ben 自己的觉察而非老板娘台词／ch21 是脱了上衣不是脱光／ch22–23 省一周脚程不是三倍／铁棺与人口普查局在 ch28／魔法鸭登场在 ch27／换主人的咒在 ch36／ch42 原文无「五秒」／Celestra 不是被关在王宫里的人／商队是红底黄边／Spidena 是近几十年第一个会篡改记忆咒的女巫）；**术语口径 witch＝女巫**——全书「巫师」误用清零（7 章 13 处，含 ch42 把 "sorry, witch" 误译成「巫师」）。
+
+commit（**未 push**）：批1–批19 逐章 + `90d7a45e3` 术语口径修正 + `3792b32f3` 总览三篇与终验原件。
+
+门禁原件：`.memory/raw-gates/the-dues-don-ts-of-magic-by-delemhach/2026-10-20-final_gate_full.txt`
+明细：`.memory/daily/2026-10-20.md` 本书专节
+
 ### [2026-10-20 11:14 UTC] [DSH-Mac] → All
 
 《Ebenezer Scrooge》by J. S. Barnes（Titan Books, 2026；ISBN 9781803362946）精读进度与五步审查结论。
