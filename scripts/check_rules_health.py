@@ -75,7 +75,11 @@ def main() -> int:
     if missing_route:
         bad.append("docs/rules/ 下没有入口（AGENTS.md 路由表未提及）：" + "、".join(missing_route))
     else:
-        print(f"✅ docs/rules/{len(list(RULES_DIR.glob('*.md')))} 份全部有入口")
+        # ⚠️ 2026-10-20 第三方复核 P-8：原消息按 glob 计数说「8 份全部有入口」，
+        # 而 NOT_ROUTED 的 2 份其实被跳过了——✅ 里不能出现"我查了 N 份"的虚数。
+        _routed = [f for f in RULES_DIR.glob("*.md") if f.name not in NOT_ROUTED]
+        print(f"✅ docs/rules 需路由的 {len(_routed)} 份全部有入口"
+              f"（{', '.join(sorted(NOT_ROUTED))} 为过程文档，按设计豁免）")
 
     # —— 3. 引用不悬空 ——
     dangling = []

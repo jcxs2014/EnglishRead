@@ -416,7 +416,7 @@ if [ "$RC_BLOCK" -gt 0 ] || [ "$_gfail" -gt 0 ]; then
   if [ "$_gfail" -gt 0 ] && [ "$RC_BLOCK" -eq 0 ]; then
     echo "⚠️ **文本层数到 ${_gfail} 条 ❌，但退出码层全绿**——请读上面的行确认是真缺陷还是显示层问题。"
   fi
-  echo "══ 正门结论：阻断型（退出码 1）══"
+  echo "══ 正门结论：阻断型（文本层 ❌ ${_gfail} 条 ｜ 退出码层 ${RC_BLOCK} 个 lane）——退出码 1 ══"
   exit 1
 fi
 echo "   （rc 层覆盖 ②③⑦⑧⑲ 五个 lane；其余 14 个仍由文本层 ❌ 计数兜底）"
