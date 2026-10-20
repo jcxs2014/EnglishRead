@@ -68,7 +68,7 @@ def main():
     EN = re.compile(r"`([^`]{3,})`")
     NEAR = re.compile(r"(?:ch(\d{1,2})\b|第\s*(\d{1,2})\s*章)([^`]{0,20})$")
 
-    fake, moved, bmiss, unknown, ok = [], [], [], [], 0
+    fake, moved, bmiss, unknown, nonquote, ok = [], [], [], [], [], 0
     for md in sorted(glob.glob(os.path.join(book, "ch*.md"))):
         name = os.path.basename(md)
         mo = re.search(r"ch(\d+)", name)
@@ -80,7 +80,11 @@ def main():
                 continue
             for m in EN.finditer(line):
                 frag = m.group(1)
-                f = sai.flat(frag)
+                # ⚠️ 2026-10-20 修正（真实假阳性）：**补字标注**（`y[ou]` / `vide[o]`，
+                #   英文原句里被改写者补回的那个字母用方括号标出）会让 flat 比对必失配
+                #   ——`y[ou]` → "y ou"，原文是 "you"。修法＝比对前先去掉方括号、保留其内容。
+                frag_cmp = re.sub(r"\[([^\]]*)\]", r"\1", frag)
+                f = sai.flat(frag_cmp)
                 if len(f) < 6:
                     continue
                 nm = NEAR.search(line[:m.start()])
@@ -91,6 +95,12 @@ def main():
                     continue
                 tgt = int(nm.group(1) or nm.group(2))
                 if tgt == own or tgt not in by_int:
+                    continue
+                # ⚠️ 2026-10-20 新增「非引语片段」档：反引号里装的**不是引语**
+                #   （分析式表达 `bafflement → fascination`、章号/文件名标签 `chap41`）
+                #   ⇒ 不参与「伪造」判定，但**计数并列出**，让扫描集规模可审计。
+                if "→" in frag or re.fullmatch(r"ch\d{1,3}[a-z]?", frag.strip()):
+                    nonquote.append((name, i, tgt, frag))
                     continue
                 tgt_hits = by_int[tgt]
                 if any(f in cf for _n, cf in tgt_hits):
@@ -124,25 +134,29 @@ def main():
           % ref_src)
     print("  ✅ 归章正确 %d ｜ ❌ 伪造（全书查无）%d ｜ ⚠️ 移章（不在被引章）%d"
           % (ok, len(fake), len(moved)))
+    if nonquote:
+        print("  📎 非引语片段（分析式表达／章号标签，不参与判定）：%d" % len(nonquote))
+        for name, ln, tgt, frag in nonquote:
+            print("     📎 %s:%d 声称 ch%02d ｜ %s" % (name, ln, tgt, frag[:80]))
     if bmiss:
         print("  🔧 B 类语料缺失（text/ 查无但 epub 命中，非伪造）：%d" % len(bmiss))
         for name, ln, tgt, frag in bmiss:
-            print("     🔧 %s:%d 声称 ch%02d ｜ %s" % (name[:30], ln, tgt, frag[:88]))
+            print("     🔧 %s:%d 声称 ch%02d ｜ %s" % (name, ln, tgt, frag[:88]))
     if unknown:
         print("  ❓ **无法判定**（无 epub ⇒ 参照集不完整，text/ 查无 ≠ 伪造）：%d" % len(unknown))
         print("     ⛔ 不判红、不出结论；须人工回原文裁决或补 epub 后重跑")
         for name, ln, tgt, frag in unknown:
-            print("     ❓ %s:%d 声称 ch%02d ｜ %s" % (name[:30], ln, tgt, frag[:88]))
+            print("     ❓ %s:%d 声称 ch%02d ｜ %s" % (name, ln, tgt, frag[:88]))
     if fake:
         print("  ⛔ 阻断型：伪造英文必须改")
         for name, ln, tgt, frag in fake:
-            print("     ❌ %s:%d 声称 ch%02d ｜ %s" % (name[:30], ln, tgt, frag[:88]))
+            print("     ❌ %s:%d 声称 ch%02d ｜ %s" % (name, ln, tgt, frag[:88]))
     if moved:
         print("  ⚠️ 移章**只记不改**：须人工读行——「回望前章」是正当写法，真错与正当在这里同形")
         for name, ln, tgt, frag, others in moved:
             where = "/".join("ch%02d" % c for c in others) if others else "别章亦无"
             print("     ⚠️ %s:%d 声称 ch%02d ｜ 实际在 %s ｜ %s"
-                  % (name[:30], ln, tgt, where, frag[:70]))
+                  % (name, ln, tgt, where, frag[:70]))
     return 2 if fake else 0
 
 
