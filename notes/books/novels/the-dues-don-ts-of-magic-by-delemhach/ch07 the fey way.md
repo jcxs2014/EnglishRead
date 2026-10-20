@@ -122,11 +122,11 @@ modified: "2026-10-20"
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | swath | 一大片；一道 | “Stop acting like it’s common knowledge to say ‘Bless you’ when someone sneezes! I still don’t think that I have to respond that way!” Ben defended, pushing aside with his sleeve a swath of thorny vines that blocked their path. |
-| mustered | 攒出（力气、话语）；鼓足 | Spidena couldn’t seem to muster a response around her gasping breaths, so she just pointed. |
+| muster | 攒出（力气、话语）；鼓起 | Spidena couldn’t seem to muster a response around her gasping breaths, so she just pointed. |
 | cursory | 匆匆一瞥的；粗略的 | And although he’d given a cursory glance moments before and noticed nothing remarkable, Ben suddenly saw… |
 | thatched | 茅草覆盖的 | A two-story inn with soft, curved peaks, a thatched roof, whitewashed walls peeking out from ivy, round oak windows, and a black chimney puffing a hearty stream of smoke. |
 | aglow | 容光焕发；发着光 | “Good day, travelers! Welcome to The Fey Way!” the woman trilled musically, her cheeks aglow. |
-| glinted | （眼中）闪烁 | “A seeb!” The nymph gasped in astonishment, but then her eyes glittered like black beetle wings and her smile warmed. |
+| glittered | （眼中）闪烁；闪亮 | “A seeb!” The nymph gasped in astonishment, but then her eyes glittered like black beetle wings and her smile warmed. |
 | nymph | 宁芙（树精一类的非人住民） | “No. She’s a nymph. Pardon his rudeness,” Spidena added to the magical innkeeper. |
 | atrocious | 恶劣透顶的 | And fairies… their personalities are so atrocious, they could be used as weapons against anyone’s sanity. |
 | disgruntled | 不满的；嫌恶的 | Spidena turned to face him with a disgruntled expression, but when she looked back at the woman who had greeted them, she couldn’t keep the expression intact. |

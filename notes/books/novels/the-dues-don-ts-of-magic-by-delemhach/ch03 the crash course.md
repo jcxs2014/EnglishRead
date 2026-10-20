@@ -138,7 +138,7 @@ modified: "2026-10-20"
 |---|---|---|
 | slathered | 厚厚地涂上 | She stood a short distance away, completely uninterested in his retrieval of the gold as she slathered a white cream over her face. |
 | wrapping his head around | 想明白；摸清底细 | Since leaving the shop and Gabel, Ben had slowly been wrapping his head around his present situation. |
-| sprouted | （念头）冒出来 | Naturally, questions about his new traveling companion had begun to sprout. |
+| sprout | （念头）冒出来 | Naturally, questions about his new traveling companion had begun to sprout. |
 | off guard | 措手不及；没防备 | If a bandit or someone catches me off guard, I can’t do a whole lot. |
 | derisive | 嘲弄的；不屑的 | “Mm. Seebs usually think that.” Her tone was derisive. |
 | trudging | 跋涉；拖着脚走 | Ben swung around to face her, an acidic retort burning his tongue, but Spidena didn’t give him time to spew it in her direction as she continued trudging through the forest. |
