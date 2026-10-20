@@ -1,0 +1,69 @@
+{
+ "chapter": 1,
+ "facts": [
+  {
+   "fact": "Chloe 闭馆归架童话集：《从前，坏事发生过，然后一切往好的方向解决》",
+   "span": [
+    27,
+    86
+   ],
+   "anchor": "Once Upon a Time, the title reads. A fairy-tale collection."
+  },
+  {
+   "fact": "童话正文：三姐妹独居林中，两个被魔鬼/其表亲巫师掳走、变成妻子再变肉馅，只有长姐聪明救回她们",
+   "span": [
+    460,
+    514
+   ],
+   "anchor": "there were three sisters who lived alone in the forest"
+  },
+  {
+   "fact": "Chloe 怕黑，小屋通宵亮灯，夜灯+LED 灯带+感应灯",
+   "span": [
+    1432,
+    1517
+   ],
+   "anchor": "Chloe likes light. When the day has gone her cottage looks like a ship ablaze at sea."
+  },
+  {
+   "fact": "门口第二束花（两周内第二次），她当作秘密仰慕者",
+   "span": [
+    3839,
+    3897
+   ],
+   "anchor": "A handpicked posy of chrysanthemums, dahlias and marigolds"
+  },
+  {
+   "fact": "壁炉上两张照片：父母；三姐妹 Dido 7 / Zoe 5 / Chloe 3，都已改名",
+   "span": [
+    6045,
+    6088
+   ],
+   "anchor": "Dido seven, Zoe five, and she herself three"
+  },
+  {
+   "fact": "睡前祈祷三姐妹重聚，并依次摸四件遗物（母亲吊坠、父亲怀表、Zoe 的印章戒指、Dido 的头发）",
+   "span": [
+    7485,
+    7539
+   ],
+   "anchor": "she reaches out and touches the talismans all in a row"
+  },
+  {
+   "fact": "半夜全黑：夜灯、床头钟、手表、手机、月光一并消失，她自我安慰只是停电",
+   "span": [
+    8731,
+    8760
+   ],
+   "anchor": "It’s a blackout, that happens"
+  },
+  {
+   "fact": "下楼撞进一个男人怀里：羊毛汗味、胡须、皮手套捂嘴，随后失去意识",
+   "span": [
+    10404,
+    10423
+   ],
+   "anchor": "into someone’s arms"
+  }
+ ]
+}

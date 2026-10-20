@@ -94,7 +94,7 @@ modified: "2026-10-20"
 | mewling | adj. 嘤嘤哭叫的、像小猫一样细弱地叫 | It’s not a mewling girlish sob, not a woman-in-pain-and-despair kind of noise. |
 | flayed | adj. 被剥了皮的 | This one, though, this one he’d like to hang out on a tree, skin flayed and stretched like butterfly wings. |
 | lull | v. 哄、使人放松警惕 | Usually, he could keep them calm, lull them into a false sense of security, make them think they were going to survive. |
-| nicking | v. 划破、割出一道小口（nick 的现在分词） | He slides the knife – that sharp silver blade with its curved and straight edges – between her wrists, nicking one, and slices through the zip-ties, in spite of the warning voice in his head. |
+| nicking | v. 划破、割出一道小口（nick 的现在分词） | He slides the knife – that sharp silver blade with its curved and straight edges – between her wrists, nicking one, and slices through the zip-ties, in spite of the warning voice in his head; but he’s never been scared of a woman, untethered or otherwise, and won’t start now. |
 | updraught | n. 上升气流 | …wing bones from kestrels and chickens, fitted together, protruding to the sides as if in flight, held together with wire, as if those naked bones could catch any wind, any updraught that might lift it from the floor of the barn. |
 
 ### ⭐ 常用

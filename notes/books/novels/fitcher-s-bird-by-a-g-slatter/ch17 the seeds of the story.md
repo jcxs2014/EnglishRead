@@ -63,7 +63,19 @@ modified: "2026-10-20"
 
 **句子结构**：第一句用被动语态（gets poured upon them）把责任写成外来的东西，不是她们要的；第二句是一个长让步句（even though… for me…），把传统和自己的选择摆在一起比较；括号补充是全段唯一的自我限定。
 
-> **原句 5:** "Sixthly and finally, there’s a quote from Anne Sexton’s diaries that I read a long time ago when I was doing my PhD, which is: ‘But one can’t build little white picket fences to keep the nightmares out’ – it stabs at the heart and mind. I loved it then, still do now, but for this novella I needed something that was different, something that chimed with Sexton’s words yet fitted with my own writing and which formed a foundation for this story and the lives of its characters. What I came up with is: ‘Nightmares, like houses, have white picket fences…’ Because I wanted to hark back to the idea that we don’t know what goes on behind closed doors, that families who look the most normal, who appear to live the most enviable lives, aren’t all they seem."
+> **原句 5:** "Fifthly, there’s a photograph by Anastasiya Dobrovolskaya I saw some years ago, of three women – a blonde, a brunette and a redhead – all holding a fox with different coloured fur. It’s beautiful and strange and wild, and the feeling I got when I first beheld it has remained with me ever since, an inspiration I can still tap into. I remain curious about it, moved by it, and I have always wanted to tell a story about those women and their secrets."
+
+**中文理解**：第五，是她多年前看到的一张照片，摄影者是 Anastasiya Dobrovolskaya：三个女人——金发、深棕发、红发——各自抱着一只毛色不同的狐狸。这张照片美丽、古怪、野；第一次看见它时的感觉一直留到今天，成了她随时可以取用的灵感。她始终对它好奇、被它打动，也一直想讲一个关于这三个女人和她们秘密的故事。
+
+**关键词**：Anastasiya Dobrovolskaya / a blonde, a brunette and a redhead / different coloured fur / tap into / those women and their secrets
+
+**为什么这样写**：前四个来处讲的都是母题（童话、传说、鸟、长女），这一段忽然落到一张具体的照片上——三姐妹的形象在这里第一次有了「样子」。作者把它放在第五位、紧挨着长女与结尾，等于用一张照片把抽象的「三姐妹」拉回可视的画面；而「different coloured fur」与「那些女人的秘密」两层，正好对应书里三人不同的命运与各自藏住的事。它也是六个来处里唯一一个「画面」而非「故事」的来源，解释了这本小说为什么写得像一帧一帧的静物。
+
+**读者视角提示**：照片里是「三个女人」，书里正好是三姐妹。正文没有把「金发 / 深棕 / 红发」逐个点名到位——Chloe 是金发（ch01 的 beret 与 blonde curls），而 ch14 有一处把「金发与红发」并置、与另一人的长黑发作对照——这张照片是全书唯一把三种发色一次摆齐的地方，可以拿它回看正文对三人的外貌描写。
+
+**句子结构**：首句用同位语加破折号插入语（of three women – a blonde, a brunette and a redhead –）把照片内容一次摆完；中间两句从「评价画面」（It's beautiful and strange and wild）转到「它留下的感觉」（the feeling I got … has remained），最后用两个现在时的 I remain / I have always wanted 把一次观看拉成一条持续到写作当下的线。
+
+> **原句 6:** "Sixthly and finally, there’s a quote from Anne Sexton’s diaries that I read a long time ago when I was doing my PhD, which is: ‘But one can’t build little white picket fences to keep the nightmares out’ – it stabs at the heart and mind. I loved it then, still do now, but for this novella I needed something that was different, something that chimed with Sexton’s words yet fitted with my own writing and which formed a foundation for this story and the lives of its characters. What I came up with is: ‘Nightmares, like houses, have white picket fences…’ Because I wanted to hark back to the idea that we don’t know what goes on behind closed doors, that families who look the most normal, who appear to live the most enviable lives, aren’t all they seem."
 
 **中文理解**：第六，也是最后，是 Anne Sexton 日记里的一句话，我读博时读到的：「可你没法竖起小小的白色尖桩栅栏，把噩梦挡在外面」——它刺进人的心里。我当时喜欢，现在还是喜欢；但为这部中篇，我需要一句不同的、与 Sexton 的话相通、又贴合我自己写法、还能作为这个故事和它人物生活地基的东西。我想出来的是：「噩梦，和房子一样，也有白色尖桩栅栏……」因为我想把话头引回那个念头：我们不知道关着的门后发生了什么，那些看起来最正常的家庭、看起来过着最令人羡慕生活的家庭，并不像表面那样。
 
