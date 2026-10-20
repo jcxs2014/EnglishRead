@@ -45,17 +45,7 @@ modified: "2026-10-20"
 
 **读者视角提示：** 留意**抢与被抢**的细节。书里谁敢抢谁的东西，关系就近了一步。
 
-> **原句 4:** "“Could you have a mental breakdown on your own time? Maybe tonight while I dry my boots?”"
-
-**中文理解：** 「你能不能等你自己有空的时候再崩溃？比如今晚，等我烤靴子的时候？」
-
-**关键词：** Could you have a mental breakdown on your own time · Maybe tonight while I dry my boots
-
-**为什么这样写：** 这句话是全章的**笑点核心**，也是 Spidena 性格的浓缩：她刚被一个**会说话的蘑菇**吓得够呛，却立刻用一句"崩溃要挑时间"把场面按住。而且她挑的时间是"等我烤靴子的时候"——**连吐槽都带着生活细节**。作者让她一边抓着 Ben 的手腕（阻止他继续胡说八道）一边说这句，于是读者看见的不是刻薄，是**临场控场**。
-
-**读者视角提示：** 留意角色如何**在混乱中把场面收住**。喜剧人物往往不是最聪明的那个，而是最会圆场的。
-
-> **原句 5:** "He was about to make a sarcastic comment on the deadliness of squirrels when he heard the rise and fall of a giggle. He waited in tense silence to see if it was a trick of his mind, but another laugh sounded from the woods."
+> **原句 4:** "He was about to make a sarcastic comment on the deadliness of squirrels when he heard the rise and fall of a giggle. He waited in tense silence to see if it was a trick of his mind, but another laugh sounded from the woods."
 
 **中文理解：** 他正要为"松鼠的杀伤力"阴阳怪气地来一句，却听见了**一阵有起有落的笑声**。
 
@@ -65,7 +55,7 @@ modified: "2026-10-20"
 
 **读者视角提示：** 留意**声音描写里的节奏词**。有起有落、断断续续的声音，比"传来笑声"可怕得多。
 
-> **原句 6:** "“A mushroom ring?” Ben stared at the tiny white-capped mushrooms poking up through moss that was a beautiful bright, lush green after the rains the previous day."
+> **原句 5:** "“A mushroom ring?” Ben stared at the tiny white-capped mushrooms poking up through moss that was a beautiful bright, lush green after the rains the previous day."
 
 **中文理解：** 「蘑菇圈？」Ben 盯着那几顶白色小帽从苔藓里冒出来的地方。
 
@@ -75,7 +65,7 @@ modified: "2026-10-20"
 
 **读者视角提示：** 留意作者如何用**色彩描写**制造反差。好看与危险并置时，危险往往更有效。
 
-> **原句 7:** "Sprites. Or at least one sprite anyway."
+> **原句 6:** "Sprites. Or at least one sprite anyway."
 
 **中文理解：** 「精灵。至少是**一只**精灵。」
 
@@ -85,7 +75,7 @@ modified: "2026-10-20"
 
 **读者视角提示：** 留意**一句简短回答里包含多少未知**。"至少……吧"这类说法通常意味着说话人自己也没底。
 
-> **原句 8:** "He was under three feet tall, with a pale-white face that matched the mushrooms of the circle. His eyes took up far too much of a face shaped like a sideways oval. The eyes were black as pitch, yet streaks of fine brown lines ran through them… almost like the gills on the underside of a mushroom cap."
+> **原句 7:** "He was under three feet tall, with a pale-white face that matched the mushrooms of the circle. His eyes took up far too much of a face shaped like a sideways oval. The eyes were black as pitch, yet streaks of fine brown lines ran through them… almost like the gills on the underside of a mushroom cap."
 
 **中文理解：** 他不到三英尺高，一张惨白的脸与圈里的蘑菇同色。眼睛占了整张脸太多，脑袋是**横着的椭圆**；眼珠黑得像柏油，里面却横着一道道细细的棕色纹路——几乎像菌盖背面那些**菌褶**。
 
@@ -94,6 +84,16 @@ modified: "2026-10-20"
 **为什么这样写：** 这是全书最漂亮的一段**生物描写**，作者用的是"**先把人写成蘑菇，再让人意识到它是人**"的手法：先给白得像蘑菇的脸、像菌褶的褐色纹路、头顶长出的蘑菇、代替脚趾的菌盖——接下来作者才补上他头顶长着蘑菇、像一顶苔藓编的帽子，浅褐色布外套配脏兮兮的白衬衫和补丁裤子，脚上不是脚趾而是**一个个小菌盖**。原来"他就是一堆蘑菇"这件事，是要读者自己**认出来的**。而 The little creature smiled up at him without revealing any teeth（那个小生物朝他笑了笑，没露牙）——不露牙，是这套设定里最让人发凉的一笔。
 
 **读者视角提示：** 留意作者如何**先写特征、后写身份**。把顺序倒过来，怪物的效果会减半。
+
+> **原句 8:** "“Could you have a mental breakdown on your own time? Maybe tonight while I dry my boots?”"
+
+**中文理解：** 「你能不能等你自己有空的时候再崩溃？比如今晚，等我烤靴子的时候？」
+
+**关键词：** Could you have a mental breakdown on your own time · Maybe tonight while I dry my boots
+
+**为什么这样写：** 这句话是全章的**笑点核心**，也是 Spidena 性格的浓缩：她刚被一个**会说话的蘑菇**吓得够呛，却立刻用一句"崩溃要挑时间"把场面按住。而且她挑的时间是"等我烤靴子的时候"——**连吐槽都带着生活细节**。作者让她一边抓着 Ben 的手腕（阻止他继续胡说八道）一边说这句，于是读者看见的不是刻薄，是**临场控场**。
+
+**读者视角提示：** 留意角色如何**在混乱中把场面收住**。喜剧人物往往不是最聪明的那个，而是最会圆场的。
 
 > **原句 9:** "“His name is Filif,” Spidena announced, sounding a little unnerved herself."
 

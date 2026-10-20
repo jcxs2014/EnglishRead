@@ -35,17 +35,7 @@ modified: "2026-10-20"
 
 **读者视角提示：** 留意**用"不舒适"开场的告白**。当一个人先讲对方的毛病，后半句往往才是重点。
 
-> **原句 3:** "Something odd stirred in Ben’s gut then, and he suddenly felt all too aware of Spidena sitting next to him. He noticed she squirmed a little, too, and her face was more still than it had been before."
-
-**中文理解：** Ben 心里忽然一动，猛地意识到 Spidena 就坐在旁边；他也看见她微微扭了扭身子，脸色比刚才更绷着。
-
-**关键词：** he suddenly felt all too aware of Spidena sitting next to him · she squirmed a little, too
-
-**为什么这样写：** 作者把"两个人同时被触动"写成**两处对称的小动作**——Ben 是心里"一动"，Spidena 是"扭了扭身子"。谁也没说话，谁也没看谁，可读者立刻知道这两人在听同一段话、想的是同一件事。而"脸比刚才更绷着"尤其精准：不是面无表情，而是**比之前更用力地不动声色**——紧绷本身就是泄露。
-
-**读者视角提示：** 留意**成对出现的小动作**。作者很少明说两人心照不宣，他给你两个同步的细节。
-
-> **原句 4:** "And the idea that I would lose even a single day without you being a part of it? It… It was wrong. So wrong.”"
+> **原句 3:** "And the idea that I would lose even a single day without you being a part of it? It… It was wrong. So wrong.”"
 
 **中文理解：** 「想到可能失去哪怕一天、而那一天里没有你，这本身就是错。错得不得了。」
 
@@ -55,17 +45,17 @@ modified: "2026-10-20"
 
 **读者视角提示：** 留意誓词里**量词的变化**。从"永远"缩到"一天"，往往是真心话的信号。
 
-> **原句 5:** "“Right. I guess you… You want to go help your military friend.”"
+> **原句 4:** "Something odd stirred in Ben’s gut then, and he suddenly felt all too aware of Spidena sitting next to him. He noticed she squirmed a little, too, and her face was more still than it had been before."
 
-**中文理解：** 「好……我猜你……是想去帮你那位军中朋友吧。」
+**中文理解：** Ben 心里忽然一动，猛地意识到 Spidena 就坐在旁边；他也看见她微微扭了扭身子，脸色比刚才更绷着。
 
-**关键词：** I guess you… · You want to go help your military friend
+**关键词：** he suddenly felt all too aware of Spidena sitting next to him · she squirmed a little, too
 
-**为什么这样写：** 这是一句**用猜测包装的伤人的话**。Spidena 没有问"你为什么这么急"，她直接替 Ben 找了一个理由——去救他那位军中朋友——而这个理由恰恰戳中 Ben 最想藏的东西。句中的停顿在这里是**咽回去的反驳**：她本想说的话没说出口，作者让我们看见了改口的全过程。而"军中朋友"几个字用得极轻，像随口一提，反而更显得刺人。
+**为什么这样写：** 作者把"两个人同时被触动"写成**两处对称的小动作**——Ben 是心里"一动"，Spidena 是"扭了扭身子"。谁也没说话，谁也没看谁，可读者立刻知道这两人在听同一段话、想的是同一件事。而"脸比刚才更绷着"尤其精准：不是面无表情，而是**比之前更用力地不动声色**——紧绷本身就是泄露。
 
-**读者视角提示：** 留意**被改口的那一句**。句中的停顿常常比说出口的话更重。
+**读者视角提示：** 留意**成对出现的小动作**。作者很少明说两人心照不宣，他给你两个同步的细节。
 
-> **原句 6:** "“We’re a fortnight away from Kintel. Don’t you want to get there as soon as possible? We could actually be done with each other once and for all.”"
+> **原句 5:** "“We’re a fortnight away from Kintel. Don’t you want to get there as soon as possible? We could actually be done with each other once and for all.”"
 
 **中文理解：** 「离金特尔还有两个星期。你不想早点到吗？其实我们干脆就这样两清，也不错。」
 
@@ -74,6 +64,16 @@ modified: "2026-10-20"
 **为什么这样写：** 作者把 Ben 的**逃离欲伪装成体贴**——先问"你不想早点到吗"，再补一句"其实两清也不坏"，两句连读像在为对方着想，实则是把刀递过去。而 actually（其实）这个词是全句最阴的地方：它把"从此互不相欠"说成一件**早该如此、只是顺便**的事。Ben 说这话时还在灌麦芽酒，一个需要靠酒压住嗓子的人。
 
 **读者视角提示：** 留意**请求句里夹带的结论**。先问对方想不想，再替对方把答案定下来。
+
+> **原句 6:** "“Right. I guess you… You want to go help your military friend.”"
+
+**中文理解：** 「好……我猜你……是想去帮你那位军中朋友吧。」
+
+**关键词：** I guess you… · You want to go help your military friend
+
+**为什么这样写：** 这是一句**用猜测包装的伤人的话**。Spidena 没有问"你为什么这么急"，她直接替 Ben 找了一个理由——去救他那位军中朋友——而这个理由恰恰戳中 Ben 最想藏的东西。句中的停顿在这里是**咽回去的反驳**：她本想说的话没说出口，作者让我们看见了改口的全过程。而"军中朋友"几个字用得极轻，像随口一提，反而更显得刺人。
+
+**读者视角提示：** 留意**被改口的那一句**。句中的停顿常常比说出口的话更重。
 
 > **原句 7:** "He needed to distance himself from her. Things had gotten messy enough since they’d started traveling together, and he should’ve been focusing more on freeing his friend… Even though she had told him not to come back for her. Even though all she had asked in return for alleviating his crushing guilt was that he pick up a package in Kintel. He needed to save her. He needed to make sure she was safe."
 

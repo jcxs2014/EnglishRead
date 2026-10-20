@@ -45,17 +45,7 @@ modified: "2026-10-20"
 
 **读者视角提示：** 留意**外形描写与后续动作的呼应**。作者给一个人的第一次印象，往往就是后面动作的预告。
 
-> **原句 4:** "“Oh, think nothing of it! Us travelers must stick together. Just do me a favor and be sure to pass along the kindness.” The man gave a good-natured wink."
-
-**中文理解：** 「『别客气！同路的旅人就要互相照应。只当是帮我个忙，把这份善意再传下去就行。』那人朝 Ben 挤了挤眼。」
-
-**关键词：** think nothing of it · Us travelers must stick together · be sure to pass along the kindness · gave a good-natured wink
-
-**为什么这样写：** "Us travelers must stick together"（同路人要抱团取暖）是一句**把善意包装成规矩**的话：他不许人谢，还把受助变成了一份要转交的"人情债"。wink（眨眼）让这套说辞不至于显得说教——他在用玩笑掩护教条。作者让读者提前感到不安：这样一份人情，将来是要还的。
-
-**读者视角提示：** 留意**"不许你谢我"式的善意**。当帮助者主动免除人情时，往往另有安排。
-
-> **原句 5:** "Still, he wasn’t an ungrateful twit, so he thanked the man."
+> **原句 4:** "Still, he wasn’t an ungrateful twit, so he thanked the man."
 
 **中文理解：** 「不过他也不是个忘恩负义的混蛋，所以还是向那人道了谢。」
 
@@ -64,6 +54,16 @@ modified: "2026-10-20"
 **为什么这样写：** 这一句是全章的**转轴**。前面所有对商人的好感都只是 Ben 自己的"不得不"，作者用一句市井味的骂（twit，蠢货）把读者拉回他的**心理实况**——他一边道谢，一边已经在心里给这个人贴标签。连"勉强道谢"都要靠自嘲来遮掩，说明他对自己这份不情愿并不光彩。
 
 **读者视角提示：** 留意**人物自嘲里的贬义词**。它们往往比正面的自述更接近真实态度。
+
+> **原句 5:** "“Oh, think nothing of it! Us travelers must stick together. Just do me a favor and be sure to pass along the kindness.” The man gave a good-natured wink."
+
+**中文理解：** 「『别客气！同路的旅人就要互相照应。只当是帮我个忙，把这份善意再传下去就行。』那人朝 Ben 挤了挤眼。」
+
+**关键词：** think nothing of it · Us travelers must stick together · be sure to pass along the kindness · gave a good-natured wink
+
+**为什么这样写：** "Us travelers must stick together"（同路人要抱团取暖）是一句**把善意包装成规矩**的话：他不许人谢，还把受助变成了一份要转交的"人情债"。wink（眨眼）让这套说辞不至于显得说教——他在用玩笑掩护教条。作者让读者提前感到不安：这样一份人情，将来是要还的。
+
+**读者视角提示：** 留意**"不许你谢我"式的善意**。当帮助者主动免除人情时，往往另有安排。
 
 > **原句 6:** "Probably she’d get annoyed at him for one reason or another. She’d put her hands on her hips and that sharp, strained voice of hers would call out, “Ben!” And then she’d realize she’d made a mistake and her green eyes would go round, making him smile, but she wouldn’t ever admit that she’d been the one to be a dunce—"
 

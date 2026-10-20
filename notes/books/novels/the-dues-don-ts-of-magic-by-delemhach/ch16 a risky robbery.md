@@ -55,17 +55,7 @@ modified: "2026-10-20"
 
 **读者视角提示：** 留意**语气与处境的错位**。一个人越危险越镇定地开玩笑时，作者通常会同时给出"她其实在怕"的线索。
 
-> **原句 5:** "Only, unlike those previous times, he wasn’t prevented from doing anything by an authority figure or rule."
-
-**中文理解：** 只是这一回，和以往那些次不同：**再没有什么职权人物或规矩拦着他不让他动手。**
-
-**关键词：** Only, unlike those previous times · he wasn’t prevented from doing anything by an authority figure or rule
-
-**为什么这样写：** 这是全章的**转轴**，作者把它写成一个**对照句**：只有这一次的不同，是"没有人在上头管着他"。前面那些次，他被命令、被纪律、被身份绑着；这一次他自由了——而自由的第一个用途，是**去保护一个人**。作者不写他的心理转变，只用一个 by an authority figure or rule（由某个职权人物或某条规矩）把旧世界和新处境一刀切开。
-
-**读者视角提示：** 留意作者如何用**"只有这一次不同"式的对照**标记人物处境的转折。这类句子通常出现在人物获得行动自由的时刻。
-
-> **原句 6:** "Ben’s heart slammed against his ribs, propelling him to take two frantic steps forward."
+> **原句 5:** "Ben’s heart slammed against his ribs, propelling him to take two frantic steps forward."
 
 **中文理解：** Ben 的心脏猛地撞上肋骨，逼着他往前冲了两步。
 
@@ -74,6 +64,16 @@ modified: "2026-10-20"
 **为什么这样写：** 作者把**冲动写成身体动作**：心撞肋骨（slammed）→ 推动（propelling）→ 两步慌乱的迈步。三个动词全是**被动式与进行式的连击**，读起来就带着踉跄。而他冲出两步之后"顿住了"（He halted），因为他看见了 Wolf 已经扑了上去——**勇武与克制在同一秒里打架**，这正是 Ben 这个人的质地。
 
 **读者视角提示：** 留意作者如何用**一串连动的身体动词**写冲动。冲动通常没有铺垫，写在动词里。
+
+> **原句 6:** "Only, unlike those previous times, he wasn’t prevented from doing anything by an authority figure or rule."
+
+**中文理解：** 只是这一回，和以往那些次不同：**再没有什么职权人物或规矩拦着他不让他动手。**
+
+**关键词：** Only, unlike those previous times · he wasn’t prevented from doing anything by an authority figure or rule
+
+**为什么这样写：** 这是全章的**转轴**，作者把它写成一个**对照句**：只有这一次的不同，是"没有人在上头管着他"。前面那些次，他被命令、被纪律、被身份绑着；这一次他自由了——而自由的第一个用途，是**去保护一个人**。作者不写他的心理转变，只用一个 by an authority figure or rule（由某个职权人物或某条规矩）把旧世界和新处境一刀切开。
+
+**读者视角提示：** 留意作者如何用**"只有这一次不同"式的对照**标记人物处境的转折。这类句子通常出现在人物获得行动自由的时刻。
 
 > **原句 7:** "crunched the heel of his boot into the man’s groin."
 

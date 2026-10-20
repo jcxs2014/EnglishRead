@@ -35,17 +35,7 @@ modified: "2026-10-20"
 
 **读者视角提示：** 这三个小时是本章的计时器：喝下药、睡着、醒来、拿到人情债、出发。往后读时留意这口钟表的走动。
 
-> **原句 3:** "While his thin tan coat, plain white shirt, scuffed brown boots, and pants with frayed hems screamed impoverished commoner, he not only had known the weight of owing a witch a favor, but also possessed the means of paying Spidena what she wanted, and it was no small thing she would ask for."
-
-**中文理解：** 那件薄薄的棕外套、朴素的白衬衫、磨旧的棕靴、裤脚起了毛边的裤子，全都在大声嚷着「穷苦平民」；可他不光知道欠女巫一份人情是什么分量，也拿得出 Spidena 想要的东西，而她要的那绝不会是个小数目。
-
-**关键词：** screamed impoverished commoner · the weight of owing a witch a favor · possessed the means of paying
-
-**为什么这样写：** 这是全书最漂亮的人物速写之一：作者的判断藏在被观察者的衣服里——衣裳「叫喊」着身份（screamed），而不是人物自称贫穷。真正厉害的是后半句的转折：她把一个穷光蛋和「付得起她要的东西」并列在同一句里，于是读者第一次知道这人身上有秘密，却还不知道是什么。作者不用一句「他其实很有钱」，而是让**女巫的算盘**替他说出来——他的价值由她的眼光背书。
-
-**读者视角提示：** 记住「穷苦的衣裳 ＋ 付得起女巫开价」这组反差。作者此后每次写 Ben 的来路，都走这条「看起来穷、其实有门路」的路子。
-
-> **原句 4:** "Ben glanced at her, swallowed with difficulty, then seized the cup and drained it in a single go. He tried not to think about what felt suspiciously like an eyeball passing down his throat, not to mention the mystery grains that tickled his tongue afterward."
+> **原句 3:** "Ben glanced at her, swallowed with difficulty, then seized the cup and drained it in a single go. He tried not to think about what felt suspiciously like an eyeball passing down his throat, not to mention the mystery grains that tickled his tongue afterward."
 
 **中文理解：** Ben 看了她一眼，艰难地咽了口唾沫，随即抓起杯子一口灌了下去。他尽量不去想那玩意儿咽下去时，感觉像有只眼珠正顺着喉咙滑过，更别提随后还在舌头上硌着他的那些神秘颗粒了。
 
@@ -54,6 +44,16 @@ modified: "2026-10-20"
 **为什么这样写：** 三个短促的动作（看了一眼、咽了口唾沫、抓起杯子）把「犹豫—鼓勇—不给自己反悔机会」压进一句话，而 drained it in a single go（一口气灌完）尤其关键：他不是慢慢喝的，他是**怕自己停下来就不敢喝了**。后半句的「一只眼珠顺着喉咙滑过」是本书的招牌写法——生理反应一律用**误以为的具体物件**来写，比抽象地说「很难受」更有画面，也更好笑。
 
 **读者视角提示：** 留意作者写「难受」的方式：几乎从不直接写难受，而是写他以为自己吞下了什么。
+
+> **原句 4:** "While his thin tan coat, plain white shirt, scuffed brown boots, and pants with frayed hems screamed impoverished commoner, he not only had known the weight of owing a witch a favor, but also possessed the means of paying Spidena what she wanted, and it was no small thing she would ask for."
+
+**中文理解：** 那件薄薄的棕外套、朴素的白衬衫、磨旧的棕靴、裤脚起了毛边的裤子，全都在大声嚷着「穷苦平民」；可他不光知道欠女巫一份人情是什么分量，也拿得出 Spidena 想要的东西，而她要的那绝不会是个小数目。
+
+**关键词：** screamed impoverished commoner · the weight of owing a witch a favor · possessed the means of paying
+
+**为什么这样写：** 这是全书最漂亮的人物速写之一：作者的判断藏在被观察者的衣服里——衣裳「叫喊」着身份（screamed），而不是人物自称贫穷。真正厉害的是后半句的转折：她把一个穷光蛋和「付得起她要的东西」并列在同一句里，于是读者第一次知道这人身上有秘密，却还不知道是什么。作者不用一句「他其实很有钱」，而是让**女巫的算盘**替他说出来——他的价值由她的眼光背书。
+
+**读者视角提示：** 记住「穷苦的衣裳 ＋ 付得起女巫开价」这组反差。作者此后每次写 Ben 的来路，都走这条「看起来穷、其实有门路」的路子。
 
 > **原句 5:** "“Because you wanted them to only forget you, and you gave me next to no details about the people whose memories I’m tampering with. The potion just helped steady the incantation. Like mortar for bricks or stones in a wall. If I were just wiping out the three years, that would’ve been easier.”"
 

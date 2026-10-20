@@ -97,8 +97,6 @@ modified: "2026-10-20"
 
 > **原句 9:** "“Hate me and blame me, because none of this is your fault. None of it. You had no choice.”"
 
-Wait — typo in the anchor. Let me fix: end anchor = "You had no choice" with K flag.
-
 **中文理解：** 「恨我，怪我——因为这里没有一件是你的错，一件都没有。你从来就没有选择过。」
 
 **关键词：** Hate me and blame me · none of this is your fault · None of it · You had no choice

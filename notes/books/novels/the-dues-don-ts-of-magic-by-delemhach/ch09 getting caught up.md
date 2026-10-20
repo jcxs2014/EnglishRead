@@ -45,17 +45,7 @@ modified: "2026-10-20"
 
 **读者视角提示：** 留意「浅浅的两座坟墓」这种**把威胁写小的手法**。本书让人物用荒诞来对付恐惧。
 
-> **原句 4:** "“You don’t have to tell me, but the answer might explain why. I’ve cast that forget-me-now incantation countless times, and I’ve never wound up with the customer dealing with debt, so you must be tied to something or someone pretty important.”"
-
-**中文理解：** 「你不必告诉我，但答案也许能解释为什么。那记抹掉记忆的咒语我施过 countless 次——太多次了——从来没有哪一次落到我自己头上要处理债务，所以你一定是牵在什么、或者什么人物上，那东西／那人必定相当重要。」
-
-**关键词：** You don’t have to tell me · the answer might explain why · I’ve cast that forget-me-now incantation countless times · I’ve never wound up with the customer dealing with debt · tied to something or someone pretty important
-
-**为什么这样写：** 这段是全书**推理质地最浓**的一段，而作者让它以**排除法**展开：不是「我知道你是谁」，而是「按我的经验，这种咒语砸在客户身上时通常不会反噬到我这里，所以反过来推——你身上一定牵着什么重要的东西」。最后那句 tied to something or someone pretty important 用 or 把「物」和「人」并列，说明**她自己也不知道答案**，却已经推到了正确的方向。而 countless times 这个词既表示次数多，也暗示她已经**很久没遇到这种案子**了。
-
-**读者视角提示：** 记住「施咒者的经验＝反向推理工具」这个思路。本书的职业感常常体现在这里。
-
-> **原句 5:** "“Wow, I’m proud of you. You’ve learned to take magic seriously.”"
+> **原句 4:** "“Wow, I’m proud of you. You’ve learned to take magic seriously.”"
 
 **中文理解：** 「哇，我为你骄傲。你终于学会认真对待魔法了。」
 
@@ -64,6 +54,16 @@ modified: "2026-10-20"
 **为什么这样写：** 作者让 Spidena 用一句**夸奖**来说一件刻薄事：她夸 Ben「学会认真对待魔法」，其实是在说他**以前太轻信**了。妙处在于这句话**由她真心说出**——她确实为他高兴，因为她自己的职业病就是轻信魔法；而 Ben 接下来的反应是「不接这句茬」（Ben didn’t bother with a retort），因为这句夸奖等于骂人。本书写人物关系，靠这种**同一句话同时是称赞和指责**的句子。
 
 **读者视角提示：** 留意这种「夸奖句里的指责」。本书的人际张力常常不用吵架来维持。
+
+> **原句 5:** "“You don’t have to tell me, but the answer might explain why. I’ve cast that forget-me-now incantation countless times, and I’ve never wound up with the customer dealing with debt, so you must be tied to something or someone pretty important.”"
+
+**中文理解：** 「你不必告诉我，但答案也许能解释为什么。那记抹掉记忆的咒语我施过 countless 次——太多次了——从来没有哪一次落到我自己头上要处理债务，所以你一定是牵在什么、或者什么人物上，那东西／那人必定相当重要。」
+
+**关键词：** You don’t have to tell me · the answer might explain why · I’ve cast that forget-me-now incantation countless times · I’ve never wound up with the customer dealing with debt · tied to something or someone pretty important
+
+**为什么这样写：** 这段是全书**推理质地最浓**的一段，而作者让它以**排除法**展开：不是「我知道你是谁」，而是「按我的经验，这种咒语砸在客户身上时通常不会反噬到我这里，所以反过来推——你身上一定牵着什么重要的东西」。最后那句 tied to something or someone pretty important 用 or 把「物」和「人」并列，说明**她自己也不知道答案**，却已经推到了正确的方向。而 countless times 这个词既表示次数多，也暗示她已经**很久没遇到这种案子**了。
+
+**读者视角提示：** 记住「施咒者的经验＝反向推理工具」这个思路。本书的职业感常常体现在这里。
 
 > **原句 6:** "“You didn’t even ask if I was all right,” Spidena mumbled to herself. “Some man you are.”"
 

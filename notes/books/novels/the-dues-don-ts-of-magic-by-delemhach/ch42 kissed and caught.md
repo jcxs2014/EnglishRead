@@ -95,17 +95,7 @@ modified: "2026-10-20"
 
 **读者视角提示：** 留意**"早就知道"与"仍然难过"可以并存**。能预判坏消息的人，伤的往往不是消息本身。
 
-> **原句 9:** "“I really am sorry, witch,” he murmured quietly. “I didn’t know this was what was between you and him."
-
-**中文理解：** 「我真的很抱歉，女巫。」他低声说，「我没想到你和他之间是这么回事。」
-
-**关键词：** I really am sorry, witch · I didn’t know this was what was between you and him
-
-**为什么这样写：** 作者让背叛者**说出不带立场的理由**：他不是不忠于 Spidena，他是**不知道**——不知道 Pesch 是她父亲，不知道他们之间的账。而叙述里那句"蓝色微光还笼在她脸周"把读者按回现场：那不是安慰，那是一层**正在生效的雾**。作者让读者比 Spidena 更早看见催眠术的痕迹，于是这句"抱歉"读起来既像道歉，也像**一句必须说出口的场面话**。
-
-**读者视角提示：** 留意**"不知道"型辩解的脆弱处**。它既可能是真话，也可能是最省事的托词。
-
-> **原句 10:** "“Put him beside the merchant.” Pesch gestured to the window where presumably Daffy stood watching, as more spindly roots freed themselves from the ground and coiled up around Ben’s legs until they reached his waist. “Earhav can have him if he wants."
+> **原句 9:** "“Put him beside the merchant.” Pesch gestured to the window where presumably Daffy stood watching, as more spindly roots freed themselves from the ground and coiled up around Ben’s legs until they reached his waist. “Earhav can have him if he wants."
 
 **中文理解：** 「把他放到商人旁边。」Pesch 朝窗户比了比——Daffy 大概就站在那里看着——更多的细根从地里钻出来，缠上 Ben 的腿，一直缠到腰。「Earhav 想要的话，就把他给他好了。」
 
@@ -114,6 +104,16 @@ modified: "2026-10-20"
 **为什么这样写：** 这是全章最冷的一句，而作者让它**说得像在处置库存**——把人挪到窗边、和另一个"人质"并排，然后说一句"想要就拿去做交易"。Pesch 连一点情绪都不给，只是把人**摆好位置**。而 "if he wants"（如果他想要）这个条件句，把 Ben 的命降格成一件**可能被挑走的货物**。根须缠到腰这一笔则把 The Fey Way 也拖了进来：客栈的意志在替 Pesch 动手。
 
 **读者视角提示：** 留意**交易语言里的条件句**。"如果他要的话"这类措辞，说明人已经不再被当作人来看待。
+
+> **原句 10:** "“I really am sorry, witch,” he murmured quietly. “I didn’t know this was what was between you and him."
+
+**中文理解：** 「我真的很抱歉，女巫。」他低声说，「我没想到你和他之间是这么回事。」
+
+**关键词：** I really am sorry, witch · I didn’t know this was what was between you and him
+
+**为什么这样写：** 作者让背叛者**说出不带立场的理由**：他不是不忠于 Spidena，他是**不知道**——不知道 Pesch 是她父亲，不知道他们之间的账。而叙述里那句"蓝色微光还笼在她脸周"把读者按回现场：那不是安慰，那是一层**正在生效的雾**。作者让读者比 Spidena 更早看见催眠术的痕迹，于是这句"抱歉"读起来既像道歉，也像**一句必须说出口的场面话**。
+
+**读者视角提示：** 留意**"不知道"型辩解的脆弱处**。它既可能是真话，也可能是最省事的托词。
 
 ## 本章词汇
 

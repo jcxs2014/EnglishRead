@@ -65,17 +65,7 @@ modified: "2026-10-20"
 
 **读者视角提示：** 留意**重复同一个词来表现犹豫**。结巴、停顿、改口，都是作者标记难堪的方式。
 
-> **原句 6:** "“I—I wouldn’t even know how to save her. I don’t have magic. Not really. I can only use the discos one more time, and I’ll need it to save my friend.”"
-
-**中文理解：** 「我……我根本不知道怎么救她。我没有魔法。真的没有。那副 discos 我只还能再用一次，而那一次我得留着救我的朋友。」
-
-**关键词：** I wouldn’t even know how to save her · I don’t have magic. Not really. · I can only use the discos one more time, and I’ll need it to save my friend
-
-**为什么这样写：** 作者让 Ben 第一次把"我是个废人"**说出口**——而且是用最不利的方式说的：我不知道怎么救她（承认无能）、我没有魔法（承认本质）、我只还能用一次（承认资源见底）。三句递进，每一句都把自己削得更矮。可最后那半句却忽然翻盘：他不是没有力量，**他只是把最后一点力量留着去救别人**。作者用"Not really."这个短促的补白，把自贬截成两段。
-
-**读者视角提示：** 留意**自我贬低句的结构**。作者常让人物先连续否认三次，再在最后一句里露出真正的底牌。
-
-> **原句 7:** "The feel of her lips on his snapped into his mind."
+> **原句 6:** "The feel of her lips on his snapped into his mind."
 
 **中文理解：** 她嘴唇的触感，一下子撞进了他脑子里。
 
@@ -84,6 +74,16 @@ modified: "2026-10-20"
 **为什么这样写：** 作者用一个**动词**（snapped，快得"啪"地一下）写记忆的侵入——不是慢慢浮现，是**被弹回来**的。这一页他正在谈"我不会用魔法去救她"，脑子里却全是嘴唇的触感：作者故意让**理智线与感官线同时开跑**。再配上他承认那是"无可比拟的快乐时刻"，这一句就成了全章唯一一处不计后果的亮色。
 
 **读者视角提示：** 留意**在同一段里并行的两条线索**。一条在算账，一条在发烧，读者被迫同时接受两种时间。
+
+> **原句 7:** "“I—I wouldn’t even know how to save her. I don’t have magic. Not really. I can only use the discos one more time, and I’ll need it to save my friend.”"
+
+**中文理解：** 「我……我根本不知道怎么救她。我没有魔法。真的没有。那副 discos 我只还能再用一次，而那一次我得留着救我的朋友。」
+
+**关键词：** I wouldn’t even know how to save her · I don’t have magic. Not really. · I can only use the discos one more time, and I’ll need it to save my friend
+
+**为什么这样写：** 作者让 Ben 第一次把"我是个废人"**说出口**——而且是用最不利的方式说的：我不知道怎么救她（承认无能）、我没有魔法（承认本质）、我只还能用一次（承认资源见底）。三句递进，每一句都把自己削得更矮。可最后那半句却忽然翻盘：他不是没有力量，**他只是把最后一点力量留着去救别人**。作者用"Not really."这个短促的补白，把自贬截成两段。
+
+**读者视角提示：** 留意**自我贬低句的结构**。作者常让人物先连续否认三次，再在最后一句里露出真正的底牌。
 
 > **原句 8:** "There, on the driver’s bench of the caravan, sat Lord Callex Earhav. He stared at them with a raised eyebrow, his arms crossed."
 

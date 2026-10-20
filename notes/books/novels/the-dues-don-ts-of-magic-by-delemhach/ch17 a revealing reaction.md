@@ -45,17 +45,7 @@ modified: "2026-10-20"
 
 **读者视角提示：** 留意**轻喜剧里的"人味"**。作者常在最松弛处放一点真心，让场面不至于变冷。
 
-> **原句 4:** "At the name of the infamous nobleman warlock, Spidena whipped her head around. “Are we at Lord Earhav’s borders?” she asked weakly."
-
-**中文理解：** 一听见那个声名狼藉的贵族男巫的名字，Spidena 猛地回头：「我们已经在 Lord Earhav 的地界边上了吗？」她的声音都在发虚。
-
-**关键词：** At the name of the infamous nobleman warlock · Spidena whipped her head around · Are we at Lord Earhav’s borders · she asked weakly
-
-**为什么这样写：** 作者用一个**名字**完成一次惊吓：whipped her head around（甩头回头）是**身体先于思考**的反应，而 asked weakly（声音发虚）则说明她的恐惧是生理性的。infamous（臭名昭著的）这词放在"贵族男巫"前面，等于先贴标签再让人物反应——读者还没见到这个人，威胁感已经先到了。而"我们已经在边上了吗"这个问句，把前文"我们走了多远"这个悬念一下子拽到眼前。
-
-**读者视角提示：** 留意作者如何**用名字制造威胁**。一个尚未登场的人，往往靠别人听见他名字时的反应被写活。
-
-> **原句 5:** "“If it’s bad that I always want to poison people, it’s equally bad that you want to break something in their bodies.”"
+> **原句 4:** "“If it’s bad that I always want to poison people, it’s equally bad that you want to break something in their bodies.”"
 
 **中文理解：** 「要是"我总想毒人"这件事算坏，那你"想打断别人身体里的什么东西"也一样坏。」
 
@@ -65,7 +55,7 @@ modified: "2026-10-20"
 
 **读者视角提示：** 留意**句式的对称**。当两个角色用同一套句法说话时，多半是作者在写他们的对等。
 
-> **原句 6:** "She fell into the comfortable pattern of working a deal with the enigmatic entity of magic to bend the laws of nature through her potion."
+> **原句 5:** "She fell into the comfortable pattern of working a deal with the enigmatic entity of magic to bend the laws of nature through her potion."
 
 **中文理解：** 她进入了那种熟悉的、与**神秘实体**做交易的节奏——用她的药去扭转自然法则。
 
@@ -75,7 +65,7 @@ modified: "2026-10-20"
 
 **读者视角提示：** 留意作者如何把陌生事物**归入熟悉的行业**。写交易、写工序、写配方，都是让设定落地的手法。
 
-> **原句 7:** "Reasoning with an entity that wasn’t a voice, or a smell, or a touch: just a feeling."
+> **原句 6:** "Reasoning with an entity that wasn’t a voice, or a smell, or a touch: just a feeling."
 
 **中文理解：** 她是在跟一个**不是声音、不是气味、也不是触感**的东西讲道理——只是一种感觉。
 
@@ -85,7 +75,7 @@ modified: "2026-10-20"
 
 **读者视角提示：** 留意**否定式定义**的用法。反复说"不是 A、不是 B"往往是为了把真正的事物逼出来。
 
-> **原句 8:** "She squinted at him thoughtfully, which he didn’t seem to notice as he visibly struggled not to be sick. Sweat began to dapple his forehead and upper lip."
+> **原句 7:** "She squinted at him thoughtfully, which he didn’t seem to notice as he visibly struggled not to be sick. Sweat began to dapple his forehead and upper lip."
 
 **中文理解：** 她若有所思地眯起眼打量他——他没察觉，正拼命忍着不作呕。汗开始在他额头和上唇沁出细点。
 
@@ -95,7 +85,7 @@ modified: "2026-10-20"
 
 **读者视角提示：** 留意作者如何用**并排的身体反应**写两个人物在同一场面的错位。
 
-> **原句 9:** "“New members of the Hounds are isolated in chambers underground for the first… year… of our recruitment. Away from any kind of real nature or magic.”"
+> **原句 8:** "“New members of the Hounds are isolated in chambers underground for the first… year… of our recruitment. Away from any kind of real nature or magic.”"
 
 **中文理解：** 「猎巫犬的新成员，招募的头……一……年，要被单独关在地下石室里。远离一切真实自然，远离一切魔力。」
 
@@ -105,7 +95,7 @@ modified: "2026-10-20"
 
 **读者视角提示：** 留意作者如何用**制度化的描述**写残酷。越是平铺直叙的条文式句子，越让人背脊发凉。
 
-> **原句 10:** "“If a member of the Hounds stopped… being able to sense magic, they went back down to the dungeon for three months. And if that didn’t fix them? They’d spend six months more."
+> **原句 9:** "“If a member of the Hounds stopped… being able to sense magic, they went back down to the dungeon for three months. And if that didn’t fix them? They’d spend six months more."
 
 **中文理解：** 「如果哪个猎巫犬成员变得……不再能感应魔力，就把他送回地窖关三个月。要是还不行呢？再关六个月。」
 
@@ -114,6 +104,16 @@ modified: "2026-10-20"
 **为什么这样写：** 作者用**条件句的递进**写一条处置流程：三个月、六个月——数字在上升，而语气始终平铺直叙。最冷的是那句被省略掉的结局："如果能力还没恢复……我们就再也没见过他们。"作者把它写成**一句没说完的话**，因为那正是 Ben 少年时的认知——他不知道那些人去了哪里。而本章另一个更轻的分支是：他自己"在下面待了两年"。
 
 **读者视角提示：** 留意作者如何用**递进的数字**和**没说完的话**写制度的残酷。
+
+> **原句 10:** "At the name of the infamous nobleman warlock, Spidena whipped her head around. “Are we at Lord Earhav’s borders?” she asked weakly."
+
+**中文理解：** 一听见那个声名狼藉的贵族男巫的名字，Spidena 猛地回头：「我们已经在 Lord Earhav 的地界边上了吗？」她的声音都在发虚。
+
+**关键词：** At the name of the infamous nobleman warlock · Spidena whipped her head around · Are we at Lord Earhav’s borders · she asked weakly
+
+**为什么这样写：** 作者用一个**名字**完成一次惊吓：whipped her head around（甩头回头）是**身体先于思考**的反应，而 asked weakly（声音发虚）则说明她的恐惧是生理性的。infamous（臭名昭著的）这词放在"贵族男巫"前面，等于先贴标签再让人物反应——读者还没见到这个人，威胁感已经先到了。而"我们已经在边上了吗"这个问句，把前文"我们走了多远"这个悬念一下子拽到眼前。
+
+**读者视角提示：** 留意作者如何**用名字制造威胁**。一个尚未登场的人，往往靠别人听见他名字时的反应被写活。
 
 ## 本章词汇
 

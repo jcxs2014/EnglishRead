@@ -85,17 +85,7 @@ modified: "2026-10-20"
 
 **读者视角提示：** 留意**劝人时先退一步**。先承认对方的立场，再推自己的结论，力量才推得进去。
 
-> **原句 8:** "“My master is the great Lord Callex Earhav, the first-ever warlock to be titled and—”"
-
-**中文理解：** 「我的主人是那位伟大的 Callex Earhav 阁下——**这本书里头一个被册封为爵士的男巫**——而且——」（它报得一本正经，庄重得像在宣读盟约。）
-
-**关键词：** the great Lord Callex Earhav · the first-ever warlock to be titled
-
-**为什么这样写：** 作者让这枚重磅炸弹由一只**摇摇摆摆的黑鸭**报出来，还让它自报家门到一半就被打断（结尾那个破折号）。这一“截”有双重作用：既让最关键的信息**停在半空**，又把登场者留在自己的节奏里——一只鸭子用“伟大的某某阁下”这种庄重敬语介绍自己的主人，反差本身就在说：这个头衔背后有分量。作者用最庄重的敬语配最不庄重的载体，喜剧与寒意同时到位。
-
-**读者视角提示：** 留意**重要人名的登场方式**。先看是谁说出来的，往往比名字本身更能说明分量。
-
-> **原句 9:** "“It took my master five years to finish me,” Conquestorov confirmed. “Now. What are you beings? You are positively overflowing with magic, and it is utterly intoxicating!”"
+> **原句 8:** "“It took my master five years to finish me,” Conquestorov confirmed. “Now. What are you beings? You are positively overflowing with magic, and it is utterly intoxicating!”"
 
 **中文理解：** 「我主人花了五年才把我造出来，」黑鸭确认道，「现在——你们是什么？你们身上的魔法多得简直要溢出来，让人沉醉得不得了！」
 
@@ -104,6 +94,16 @@ modified: "2026-10-20"
 **为什么这样写：** 这只鸭子的每句话都在做同一件事：**把“造物”说成“作品”**。五年工期意味着造价高得离谱；“满溢的魔法”意味着它在觊觎 Ben 身上那点东西；而“沉醉”这个词属于**上瘾**的范畴——作者用形容上瘾的词收尾，让读者意识到这只看着和气的鸭子并不只是好奇。喜剧的壳下面，威胁已经在计时。
 
 **读者视角提示：** 留意**被夸“身上的东西”的那一刻**。当一个生物开始羡慕你拥有的东西，它多半已经算好了怎么拿走。
+
+> **原句 9:** "“My master is the great Lord Callex Earhav, the first-ever warlock to be titled and—”"
+
+**中文理解：** 「我的主人是那位伟大的 Callex Earhav 阁下——**这本书里头一个被册封为爵士的男巫**——而且——」（它报得一本正经，庄重得像在宣读盟约。）
+
+**关键词：** the great Lord Callex Earhav · the first-ever warlock to be titled
+
+**为什么这样写：** 作者让这枚重磅炸弹由一只**摇摇摆摆的黑鸭**报出来，还让它自报家门到一半就被打断（结尾那个破折号）。这一“截”有双重作用：既让最关键的信息**停在半空**，又把登场者留在自己的节奏里——一只鸭子用“伟大的某某阁下”这种庄重敬语介绍自己的主人，反差本身就在说：这个头衔背后有分量。作者用最庄重的敬语配最不庄重的载体，喜剧与寒意同时到位。
+
+**读者视角提示：** 留意**重要人名的登场方式**。先看是谁说出来的，往往比名字本身更能说明分量。
 
 > **原句 10:** "The fairy arched an eyebrow at her, then lowered his knife and gave a smug smile. “We have far more customers now. We can’t just be doling out rooms left, right, and center. You two will share.”"
 

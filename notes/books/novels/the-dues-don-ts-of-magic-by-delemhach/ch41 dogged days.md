@@ -65,17 +65,7 @@ modified: "2026-10-20"
 
 **读者视角提示：** 留意**力量与代价写在同一处**。爆发越猛，随后那份伤越该具体。
 
-> **原句 6:** "His right hand had turned as black as charcoal, and the obsidian climbed up through his veins almost to his elbow."
-
-**中文理解：** 他的右手已经黑得像木炭，黑曜石般的颜色顺着血管一路爬上来，几乎爬到了手肘。
-
-**关键词：** his right hand had turned as black as charcoal · the obsidian climbed up through his veins almost to his elbow
-
-**为什么这样写：** 作者用**一个比喻加一个动词**写不可逆的伤害："像木炭一样黑"是静止的颜色，而"爬"（climbed）却是**正在进行的入侵**——颜色顺着血管往上走，一路爬向手肘。这幅画面让读者自己预感到那股黑色还在往上走。而"几乎到肘部"这个精确的终点，恰恰因为还差一线，才更让人不安。
-
-**读者视角提示：** 留意**静态比喻加上动态动词**。颜色会"爬"，才是真正的危险。
-
-> **原句 7:** "“You need to take that discos out of your wrist. One more use and you’re going to lose the arm. And that’s the best-case scenario. Worst-case, you kill yourself and a lot of other people.”"
+> **原句 6:** "“You need to take that discos out of your wrist. One more use and you’re going to lose the arm. And that’s the best-case scenario. Worst-case, you kill yourself and a lot of other people.”"
 
 **中文理解：** 「你得把那东西从手腕里取出来。再用一次，你这条胳膊就没了——那还只是最好的结果。最坏的结果，是你把自己的命和很多人的命一起搭进去。」
 
@@ -85,7 +75,7 @@ modified: "2026-10-20"
 
 **读者视角提示：** 留意说话人怎样**组织坏消息**。先讲最坏情况，还是先讲最好的情况，会暴露他的立场。
 
-> **原句 8:** "Instead he said, “If I use it right next time, it won’t really matter what happens either way.”"
+> **原句 7:** "Instead he said, “If I use it right next time, it won’t really matter what happens either way.”"
 
 **中文理解：** 可他只是说：「下一次我要是用对了，反正结果也无所谓了。」
 
@@ -94,6 +84,16 @@ modified: "2026-10-20"
 **为什么这样写：** 作者先写 Ben **本该说的话**（一个合理的解释，至少一句让人放心的承诺），再写他实际说出口的——"用对了就无所谓"——这个回答**既不是解释也不是安慰**，是一句近乎自暴自弃的坦白。转折词"可他偏偏"承担了全部重量。而"真的无所谓"里的那个"真的"是一处轻描淡写的松动：他知道有关，只是决定它不重要。
 
 **读者视角提示：** 留意**被省略的那句合情合理的话**。作者不写出来的那句，往往才是角色的常态。
+
+> **原句 8:** "His right hand had turned as black as charcoal, and the obsidian climbed up through his veins almost to his elbow."
+
+**中文理解：** 他的右手已经黑得像木炭，黑曜石般的颜色顺着血管一路爬上来，几乎爬到了手肘。
+
+**关键词：** his right hand had turned as black as charcoal · the obsidian climbed up through his veins almost to his elbow
+
+**为什么这样写：** 作者用**一个比喻加一个动词**写不可逆的伤害："像木炭一样黑"是静止的颜色，而"爬"（climbed）却是**正在进行的入侵**——颜色顺着血管往上走，一路爬向手肘。这幅画面让读者自己预感到那股黑色还在往上走。而"几乎到肘部"这个精确的终点，恰恰因为还差一线，才更让人不安。
+
+**读者视角提示：** 留意**静态比喻加上动态动词**。颜色会"爬"，才是真正的危险。
 
 > **原句 9:** "“Not everyone is lucky enough to have something more than one grand purpose, Galev. But thanks.” Ben said the last part sincerely."
 
