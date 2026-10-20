@@ -36,7 +36,7 @@ import os
 import re
 import sys
 
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from verify_quotes import flat_alpha, epub_flat_text  # noqa: E402
 
 # 总览里引语的载体：反引号、直/弯双引号、圆圈编号后的引号

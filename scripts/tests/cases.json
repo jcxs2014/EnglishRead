@@ -1,0 +1,938 @@
+[
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:quotes-verbatim",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "verbatim",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle/library/Fabulous Bodies (Chuck Tingle) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+   "--full"
+  ],
+  "rc": 0,
+  "sha": "cb81c2070a3fa93a",
+  "tail": [
+   "⚠️ 全书共 11 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底"
+  ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:quotes-full",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "full",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+   "--quiet"
+  ],
+  "rc": 0,
+  "sha": "b02a115cd31fe740",
+  "tail": [
+   "  ✅ 本章命中 165 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0"
+  ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:quotes-short",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "short",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle"
+  ],
+  "rc": 0,
+  "sha": "bfe28977c769785c",
+  "tail": [
+   "  ✅ 命中 11 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0"
+  ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:quotes-coverage",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "coverage",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle"
+  ],
+  "rc": 0,
+  "sha": "ea62af6f453d5520",
+  "tail": [
+   "✅ 块覆盖对账：16 个文件，每块都进了 verify_quotes 校验"
+  ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:quotes-blocks",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "blocks",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle"
+  ],
+  "rc": 0,
+  "sha": "209960f05eb84251",
+  "tail": [
+   "  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏（E/F）"
+  ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:quotes-chapter",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "chapter",
+   "--book-dir",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle"
+  ],
+  "rc": 0,
+  "sha": "e8ea50c40b069893",
+  "tail": [
+   "⚠️  全书共 4 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底",
+   "✅ 全部引语均归属正确章节"
+  ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:chinese",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/check_chinese_layer.py",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle"
+  ],
+  "rc": 0,
+  "sha": "2404a72c13f3f975",
+  "tail": [
+   "❌ 夹杂理解：0 处",
+   "❌ 夹杂为什么：0 处",
+   "=== 汇总：169 个引语块 | 合格分析密度 100% | 整层夹杂率 0% | 阻断型 0 | 提示型 0 ==="
+  ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:vocab",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/check_vocab.py",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle"
+  ],
+  "rc": 0,
+  "sha": "3c29fd7bf7767ac0",
+  "tail": [
+   "  ch07 Club Flamingo.md [基础] 基础档疑含超纲词「generation」",
+   "  ch08 Sick.md [基础] 基础档疑含超纲词「windowsill」",
+   "  ch11 Get Ready with Me.md [基础] 基础档疑含超纲词「basketball」"
+  ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:structure",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/audit_structure.py",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+   "--quiet"
+  ],
+  "rc": 0,
+  "sha": "955f2af82df63418",
+  "tail": [
+   "  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0"
+  ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:order",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/check_quote_order.py",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle"
+  ],
+  "rc": 0,
+  "sha": "fa5b27362375f48c",
+  "tail": [
+   "=== 章内块序：16 个 md / 169 块，顺序或编号缺陷 0 章 ／ 不可判定 0 章 ==="
+  ]
+ },
+ {
+  "id": "finding-darla-by-vidhya-sathyamoorthy:quotes-verbatim",
+  "book": "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "verbatim",
+   "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+   "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy/library/Finding Darla (Vidhya Sathyamoorthy) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+   "--full"
+  ],
+  "rc": 0,
+  "sha": "73810a129b66ad00",
+  "tail": [
+   "⚠️ 全书共 25 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底"
+  ]
+ },
+ {
+  "id": "finding-darla-by-vidhya-sathyamoorthy:quotes-full",
+  "book": "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "full",
+   "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+   "--quiet"
+  ],
+  "rc": 0,
+  "sha": "43e40f5d6d3805e4",
+  "tail": [
+   "  ✅ 本章命中 79 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0"
+  ]
+ },
+ {
+  "id": "finding-darla-by-vidhya-sathyamoorthy:quotes-short",
+  "book": "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "short",
+   "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
+  ],
+  "rc": 0,
+  "sha": "33dbb73458f924d4",
+  "tail": [
+   "  ✅ 命中 26 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0"
+  ]
+ },
+ {
+  "id": "finding-darla-by-vidhya-sathyamoorthy:quotes-coverage",
+  "book": "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "coverage",
+   "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
+  ],
+  "rc": 0,
+  "sha": "1924e2bed25e71b8",
+  "tail": [
+   "✅ 块覆盖对账：23 个文件，每块都进了 verify_quotes 校验"
+  ]
+ },
+ {
+  "id": "finding-darla-by-vidhya-sathyamoorthy:quotes-blocks",
+  "book": "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "blocks",
+   "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
+  ],
+  "rc": 0,
+  "sha": "1c6937b82db16194",
+  "tail": [
+   "  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏（E/F）"
+  ]
+ },
+ {
+  "id": "finding-darla-by-vidhya-sathyamoorthy:quotes-chapter",
+  "book": "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "chapter",
+   "--book-dir",
+   "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
+  ],
+  "rc": 1,
+  "sha": "714875fb7050d36a",
+  "tail": [
+   "⚠️  全书共 21 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底"
+  ]
+ },
+ {
+  "id": "finding-darla-by-vidhya-sathyamoorthy:chinese",
+  "book": "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+  "cmd": [
+   "python3",
+   "scripts/check_chinese_layer.py",
+   "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
+  ],
+  "rc": 0,
+  "sha": "63002cd8b9964c0a",
+  "tail": [
+   "❌ 夹杂理解：0 处",
+   "❌ 夹杂为什么：0 处",
+   "=== 汇总：101 个引语块 | 合格分析密度 100% | 整层夹杂率 0% | 阻断型 0 | 提示型 0 ==="
+  ]
+ },
+ {
+  "id": "finding-darla-by-vidhya-sathyamoorthy:vocab",
+  "book": "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+  "cmd": [
+   "python3",
+   "scripts/check_vocab.py",
+   "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
+  ],
+  "rc": 0,
+  "sha": "9641c04512b5d0cd",
+  "tail": [
+   "  ch21 chapter 21 darla.md [基础] 基础档疑含超纲词「stethoscope」",
+   "  ch22 chapter 22 nandhini.md [基础] 基础档疑含超纲词「hand sanitizer」",
+   "  ch22 chapter 22 nandhini.md [基础] 基础档疑含超纲词「Kanchipuram silk saree」"
+  ]
+ },
+ {
+  "id": "finding-darla-by-vidhya-sathyamoorthy:structure",
+  "book": "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+  "cmd": [
+   "python3",
+   "scripts/audit_structure.py",
+   "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+   "--quiet"
+  ],
+  "rc": 0,
+  "sha": "01b0c18faef2bd10",
+  "tail": [
+   "  ❌ 结构缺陷 0 ｜ ⚠️ 提示 3 ｜ 🔀 映射不一致 0"
+  ]
+ },
+ {
+  "id": "finding-darla-by-vidhya-sathyamoorthy:order",
+  "book": "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+  "cmd": [
+   "python3",
+   "scripts/check_quote_order.py",
+   "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
+  ],
+  "rc": 1,
+  "sha": "f5aadfa75be2e25f",
+  "tail": [
+   "  ❓ ch15 chapter 15 nandhini.md：引语展平后非唯一命中（pos=3988），该章不判",
+   "  ❌ ch16 chapter 16 darla.md: 编号不连续：[2, 3, 4, 5]",
+   "  ❓ ch22 chapter 22 nandhini.md：引语展平后非唯一命中（pos=11978），该章不判"
+  ]
+ },
+ {
+  "id": "the-dues-don-ts-of-magic-by-delemhach:quotes-verbatim",
+  "book": "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "verbatim",
+   "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
+   "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach/library/The Dues  Donts of Magic (Delemhach) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+   "--full"
+  ],
+  "rc": 0,
+  "sha": "7f42ece685313990",
+  "tail": [
+   "⚠️ 全书共 3 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底"
+  ]
+ },
+ {
+  "id": "the-dues-don-ts-of-magic-by-delemhach:quotes-full",
+  "book": "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "full",
+   "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
+   "--quiet"
+  ],
+  "rc": 0,
+  "sha": "b12a95b16cc0476d",
+  "tail": [
+   "  ✅ 本章命中 428 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0"
+  ]
+ },
+ {
+  "id": "the-dues-don-ts-of-magic-by-delemhach:quotes-short",
+  "book": "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "short",
+   "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach"
+  ],
+  "rc": 0,
+  "sha": "e245ea11b3691050",
+  "tail": [
+   "  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0"
+  ]
+ },
+ {
+  "id": "the-dues-don-ts-of-magic-by-delemhach:quotes-coverage",
+  "book": "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "coverage",
+   "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach"
+  ],
+  "rc": 0,
+  "sha": "48e6c4ed0d5c2192",
+  "tail": [
+   "✅ 块覆盖对账：43 个文件，每块都进了 verify_quotes 校验"
+  ]
+ },
+ {
+  "id": "the-dues-don-ts-of-magic-by-delemhach:quotes-blocks",
+  "book": "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "blocks",
+   "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach"
+  ],
+  "rc": 0,
+  "sha": "a7c21f1f21aa7d0f",
+  "tail": [
+   "  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏（E/F）"
+  ]
+ },
+ {
+  "id": "the-dues-don-ts-of-magic-by-delemhach:quotes-chapter",
+  "book": "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "chapter",
+   "--book-dir",
+   "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach"
+  ],
+  "rc": 0,
+  "sha": "79eca18431fd9feb",
+  "tail": [
+   "⚠️  全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底",
+   "✅ 全部引语均归属正确章节"
+  ]
+ },
+ {
+  "id": "the-dues-don-ts-of-magic-by-delemhach:chinese",
+  "book": "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
+  "cmd": [
+   "python3",
+   "scripts/check_chinese_layer.py",
+   "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach"
+  ],
+  "rc": 0,
+  "sha": "9e4c7b97596cbad8",
+  "tail": [
+   "❌ 夹杂理解：0 处",
+   "❌ 夹杂为什么：0 处",
+   "=== 汇总：430 个引语块 | 合格分析密度 100% | 整层夹杂率 0% | 阻断型 0 | 提示型 0 ==="
+  ]
+ },
+ {
+  "id": "the-dues-don-ts-of-magic-by-delemhach:vocab",
+  "book": "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
+  "cmd": [
+   "python3",
+   "scripts/check_vocab.py",
+   "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach"
+  ],
+  "rc": 0,
+  "sha": "7f9fdf1611cde2d0",
+  "tail": [
+   "  ch31 past and present predicaments.md [基础] 基础档疑含超纲词「tablecloth」",
+   "  ch31 past and present predicaments.md [基础] 基础档疑含超纲词「compartment」",
+   "  ch42 kissed and caught.md [基础] 基础档疑含超纲词「unconsciousness」"
+  ]
+ },
+ {
+  "id": "the-dues-don-ts-of-magic-by-delemhach:structure",
+  "book": "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
+  "cmd": [
+   "python3",
+   "scripts/audit_structure.py",
+   "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
+   "--quiet"
+  ],
+  "rc": 0,
+  "sha": "ae9245d18a178062",
+  "tail": [
+   "  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0"
+  ]
+ },
+ {
+  "id": "the-dues-don-ts-of-magic-by-delemhach:order",
+  "book": "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
+  "cmd": [
+   "python3",
+   "scripts/check_quote_order.py",
+   "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach"
+  ],
+  "rc": 0,
+  "sha": "7f6ad0af3d3828c3",
+  "tail": [
+   "=== 章内块序：43 个 md / 430 块，顺序或编号缺陷 0 章 ／ 不可判定 0 章 ==="
+  ]
+ },
+ {
+  "id": "capture-by-amanda-lohrey:quotes-verbatim",
+  "book": "notes/books/novels/capture-by-amanda-lohrey",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "verbatim",
+   "notes/books/novels/capture-by-amanda-lohrey",
+   "notes/books/novels/capture-by-amanda-lohrey/library/Capture (Amanda Lohrey) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+   "--full"
+  ],
+  "rc": 0,
+  "sha": "22bcbec642fc8010",
+  "tail": [
+   "⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底"
+  ]
+ },
+ {
+  "id": "capture-by-amanda-lohrey:quotes-full",
+  "book": "notes/books/novels/capture-by-amanda-lohrey",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "full",
+   "notes/books/novels/capture-by-amanda-lohrey",
+   "--quiet"
+  ],
+  "rc": 0,
+  "sha": "1318e77ef29b85fc",
+  "tail": [
+   "  ✅ 本章命中 566 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0"
+  ]
+ },
+ {
+  "id": "capture-by-amanda-lohrey:quotes-short",
+  "book": "notes/books/novels/capture-by-amanda-lohrey",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "short",
+   "notes/books/novels/capture-by-amanda-lohrey"
+  ],
+  "rc": 0,
+  "sha": "17469e0e8d0afcfa",
+  "tail": [
+   "  ✅ 命中 2 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0"
+  ]
+ },
+ {
+  "id": "capture-by-amanda-lohrey:quotes-coverage",
+  "book": "notes/books/novels/capture-by-amanda-lohrey",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "coverage",
+   "notes/books/novels/capture-by-amanda-lohrey"
+  ],
+  "rc": 0,
+  "sha": "4ead5bcea40e3aec",
+  "tail": [
+   "✅ 块覆盖对账：37 个文件，每块都进了 verify_quotes 校验"
+  ]
+ },
+ {
+  "id": "capture-by-amanda-lohrey:quotes-blocks",
+  "book": "notes/books/novels/capture-by-amanda-lohrey",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "blocks",
+   "notes/books/novels/capture-by-amanda-lohrey"
+  ],
+  "rc": 0,
+  "sha": "3a7d883e2ff169c0",
+  "tail": [
+   "  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏（E/F）"
+  ]
+ },
+ {
+  "id": "capture-by-amanda-lohrey:quotes-chapter",
+  "book": "notes/books/novels/capture-by-amanda-lohrey",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "chapter",
+   "--book-dir",
+   "notes/books/novels/capture-by-amanda-lohrey"
+  ],
+  "rc": 0,
+  "sha": "9fc0739335aab3ea",
+  "tail": [
+   "⚠️  全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底",
+   "✅ 全部引语均归属正确章节"
+  ]
+ },
+ {
+  "id": "capture-by-amanda-lohrey:chinese",
+  "book": "notes/books/novels/capture-by-amanda-lohrey",
+  "cmd": [
+   "python3",
+   "scripts/check_chinese_layer.py",
+   "notes/books/novels/capture-by-amanda-lohrey"
+  ],
+  "rc": 0,
+  "sha": "3e9d4132a410cfcd",
+  "tail": [
+   "❌ 夹杂理解：0 处",
+   "❌ 夹杂为什么：0 处",
+   "=== 汇总：568 个引语块 | 合格分析密度 100% | 整层夹杂率 0% | 阻断型 0 | 提示型 0 ==="
+  ]
+ },
+ {
+  "id": "capture-by-amanda-lohrey:vocab",
+  "book": "notes/books/novels/capture-by-amanda-lohrey",
+  "cmd": [
+   "python3",
+   "scripts/check_vocab.py",
+   "notes/books/novels/capture-by-amanda-lohrey"
+  ],
+  "rc": 0,
+  "sha": "2d2f620587abd733",
+  "tail": [
+   "  ch37 cafe europa.md [基础] 基础档疑含超纲词「correspondence」",
+   "  ch37 cafe europa.md [基础] 基础档疑含超纲词「paperback」",
+   "  ch37 cafe europa.md [基础] 基础档疑含超纲词「untouched」"
+  ]
+ },
+ {
+  "id": "capture-by-amanda-lohrey:structure",
+  "book": "notes/books/novels/capture-by-amanda-lohrey",
+  "cmd": [
+   "python3",
+   "scripts/audit_structure.py",
+   "notes/books/novels/capture-by-amanda-lohrey",
+   "--quiet"
+  ],
+  "rc": 0,
+  "sha": "bfa735774de3be24",
+  "tail": [
+   "  ❌ 结构缺陷 0 ｜ ⚠️ 提示 22 ｜ 🔀 映射不一致 0"
+  ]
+ },
+ {
+  "id": "capture-by-amanda-lohrey:order",
+  "book": "notes/books/novels/capture-by-amanda-lohrey",
+  "cmd": [
+   "python3",
+   "scripts/check_quote_order.py",
+   "notes/books/novels/capture-by-amanda-lohrey"
+  ],
+  "rc": 1,
+  "sha": "bddf1686f6466ae9",
+  "tail": [
+   "  ❌ ch13 griffin.md: 原句 20（md:250）在原文里位于原句 19 之前",
+   "  ❌ ch22 maxim.md: 原句 8（md:103）在原文里位于原句 7 之前"
+  ]
+ },
+ {
+  "id": "wings-of-starlight-by-allison-saft:quotes-verbatim",
+  "book": "notes/books/novels/wings-of-starlight-by-allison-saft",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "verbatim",
+   "notes/books/novels/wings-of-starlight-by-allison-saft",
+   "notes/books/novels/wings-of-starlight-by-allison-saft/library/Wings of Starlight (Allison Saft) (Z-Library).epub",
+   "--full"
+  ],
+  "rc": 0,
+  "sha": "ed7e2a6b4e1518c9",
+  "tail": [
+   "⚠️ 全书共 42 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底"
+  ]
+ },
+ {
+  "id": "wings-of-starlight-by-allison-saft:quotes-full",
+  "book": "notes/books/novels/wings-of-starlight-by-allison-saft",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "full",
+   "notes/books/novels/wings-of-starlight-by-allison-saft",
+   "--quiet"
+  ],
+  "rc": 0,
+  "sha": "860d89ae771a0982",
+  "tail": [
+   "  ✅ 本章命中 115 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 1 ｜ ❌ 全书查无 0"
+  ]
+ },
+ {
+  "id": "wings-of-starlight-by-allison-saft:quotes-short",
+  "book": "notes/books/novels/wings-of-starlight-by-allison-saft",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "short",
+   "notes/books/novels/wings-of-starlight-by-allison-saft"
+  ],
+  "rc": 0,
+  "sha": "aa244116a10fc1f9",
+  "tail": [
+   "  ✅ 命中 38 ｜ ⚠️ 在别的章 2 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0",
+   "  ⚠️  ch20 winter ball.md（ch20 标注）实为别章：It's warm.",
+   "  ⚠️  ch25 queen nightmare.md（ch25 标注）实为别章：She jumped in."
+  ]
+ },
+ {
+  "id": "wings-of-starlight-by-allison-saft:quotes-coverage",
+  "book": "notes/books/novels/wings-of-starlight-by-allison-saft",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "coverage",
+   "notes/books/novels/wings-of-starlight-by-allison-saft"
+  ],
+  "rc": 0,
+  "sha": "c9ed5411cfde57ad",
+  "tail": [
+   "✅ 块覆盖对账：28 个文件，每块都进了 verify_quotes 校验"
+  ]
+ },
+ {
+  "id": "wings-of-starlight-by-allison-saft:quotes-blocks",
+  "book": "notes/books/novels/wings-of-starlight-by-allison-saft",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "blocks",
+   "notes/books/novels/wings-of-starlight-by-allison-saft"
+  ],
+  "rc": 0,
+  "sha": "e793731dab063da9",
+  "tail": [
+   "  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏（E/F）"
+  ]
+ },
+ {
+  "id": "wings-of-starlight-by-allison-saft:quotes-chapter",
+  "book": "notes/books/novels/wings-of-starlight-by-allison-saft",
+  "cmd": [
+   "python3",
+   "scripts/quotes.py",
+   "chapter",
+   "--book-dir",
+   "notes/books/novels/wings-of-starlight-by-allison-saft"
+  ],
+  "rc": 0,
+  "sha": "8c9d3d2b4ef0d7ac",
+  "tail": [
+   "⚠️  全书共 8 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底",
+   "✅ 全部引语均归属正确章节"
+  ]
+ },
+ {
+  "id": "wings-of-starlight-by-allison-saft:chinese",
+  "book": "notes/books/novels/wings-of-starlight-by-allison-saft",
+  "cmd": [
+   "python3",
+   "scripts/check_chinese_layer.py",
+   "notes/books/novels/wings-of-starlight-by-allison-saft"
+  ],
+  "rc": 1,
+  "sha": "d14298293f667d9e",
+  "tail": [
+   "❌ 夹杂理解：28 处",
+   "❌ 夹杂为什么：19 处",
+   "=== 汇总：124 个引语块 | 合格分析密度 69% | 整层夹杂率 31% | 阻断型 47 | 提示型 0 ==="
+  ]
+ },
+ {
+  "id": "wings-of-starlight-by-allison-saft:vocab",
+  "book": "notes/books/novels/wings-of-starlight-by-allison-saft",
+  "cmd": [
+   "python3",
+   "scripts/check_vocab.py",
+   "notes/books/novels/wings-of-starlight-by-allison-saft"
+  ],
+  "rc": 0,
+  "sha": "ca753b4e8bf66272",
+  "tail": [
+   "  ch27 awakening.md [基础] 例句不含词头「queen」",
+   "  ch28 coronation.md [基础] 例句不含词头「crown」",
+   "  ch28 coronation.md [基础] 例句不含词头「scepter」"
+  ]
+ },
+ {
+  "id": "wings-of-starlight-by-allison-saft:structure",
+  "book": "notes/books/novels/wings-of-starlight-by-allison-saft",
+  "cmd": [
+   "python3",
+   "scripts/audit_structure.py",
+   "notes/books/novels/wings-of-starlight-by-allison-saft",
+   "--quiet"
+  ],
+  "rc": 1,
+  "sha": "9d58a6f6a32aedda",
+  "tail": [
+   "  ❌ 结构缺陷 1 ｜ ⚠️ 提示 19 ｜ 🔀 映射不一致 0"
+  ]
+ },
+ {
+  "id": "wings-of-starlight-by-allison-saft:order",
+  "book": "notes/books/novels/wings-of-starlight-by-allison-saft",
+  "cmd": [
+   "python3",
+   "scripts/check_quote_order.py",
+   "notes/books/novels/wings-of-starlight-by-allison-saft"
+  ],
+  "rc": 1,
+  "sha": "6bac062ffa764556",
+  "tail": [
+   "  ❌ ch27 awakening.md: 原句 3（md:33）在原文里位于原句 2 之前",
+   "  ❌ ch28 coronation.md: 原句 2（md:28）在原文里位于原句 1 之前",
+   "  ❌ ch28 coronation.md: 原句 5（md:54）在原文里位于原句 4 之前"
+  ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:overview-quotes",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/overview.py",
+   "quotes",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle/library/Fabulous Bodies (Chuck Tingle) (z-library.sk, 1lib.sk, z-lib.sk).epub"
+  ],
+  "rc": 0,
+  "sha": "9d83e86ad9921936",
+  "tail": [
+   "00_概述.md: 1/1 ✅",
+   "00_金句精选.md: 22/22 ✅",
+   "=== 总览引文 41/41 可核实（100%）；完全干净文件 3/3；已核覆盖 3/3 篇（无引语 0 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）==="
+  ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:overview-full",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/overview.py",
+   "full",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle/library/Fabulous Bodies (Chuck Tingle) (z-library.sk, 1lib.sk, z-lib.sk).epub"
+  ],
+  "rc": 0,
+  "sha": "7a5eda17ba990280",
+  "tail": [
+   "  ⚠️ 章节覆盖：全书 16 章（md ∪ text/）｜ 引语标签覆盖 16 章 ｜ **未被任何总览引语提到 0 章**"
+  ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:overview-labels",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/overview.py",
+   "labels",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle/library/Fabulous Bodies (Chuck Tingle) (z-library.sk, 1lib.sk, z-lib.sk).epub"
+  ],
+  "rc": 0,
+  "sha": "c496d0ed502e2bda",
+  "tail": [
+   "  ✅ 标注章逐字 : 48"
+  ]
+ },
+ {
+  "id": "the-dues-don-ts-of-magic-by-delemhach:overview-quotes",
+  "book": "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
+  "cmd": [
+   "python3",
+   "scripts/overview.py",
+   "quotes",
+   "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
+   "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach/library/The Dues  Donts of Magic (Delemhach) (z-library.sk, 1lib.sk, z-lib.sk).epub"
+  ],
+  "rc": 0,
+  "sha": "06cf9915aee9ea3f",
+  "tail": [
+   "00_概述.md: ➖ 无引语行（未检出待核引语形态，非门禁项）",
+   "00_金句精选.md: 30/30 ✅",
+   "=== 总览引文 59/59 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）==="
+  ]
+ },
+ {
+  "id": "the-dues-don-ts-of-magic-by-delemhach:overview-full",
+  "book": "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
+  "cmd": [
+   "python3",
+   "scripts/overview.py",
+   "full",
+   "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
+   "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach/library/The Dues  Donts of Magic (Delemhach) (z-library.sk, 1lib.sk, z-lib.sk).epub"
+  ],
+  "rc": 0,
+  "sha": "9554dfd46bb242be",
+  "tail": [
+   "  ⚠️ 章节覆盖：全书 43 章（md ∪ text/）｜ 引语标签覆盖 43 章 ｜ **未被任何总览引语提到 0 章**"
+  ]
+ },
+ {
+  "id": "the-dues-don-ts-of-magic-by-delemhach:overview-labels",
+  "book": "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
+  "cmd": [
+   "python3",
+   "scripts/overview.py",
+   "labels",
+   "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
+   "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach/library/The Dues  Donts of Magic (Delemhach) (z-library.sk, 1lib.sk, z-lib.sk).epub"
+  ],
+  "rc": 0,
+  "sha": "51577bf7e0d6d24c",
+  "tail": [
+   "  ✅ 标注章逐字 : 60"
+  ]
+ },
+ {
+  "id": "capture-by-amanda-lohrey:overview-quotes",
+  "book": "notes/books/novels/capture-by-amanda-lohrey",
+  "cmd": [
+   "python3",
+   "scripts/overview.py",
+   "quotes",
+   "notes/books/novels/capture-by-amanda-lohrey",
+   "notes/books/novels/capture-by-amanda-lohrey/library/Capture (Amanda Lohrey) (z-library.sk, 1lib.sk, z-lib.sk).epub"
+  ],
+  "rc": 0,
+  "sha": "c53241eec57e3301",
+  "tail": [
+   "00_概述.md: 5/5 ✅",
+   "00_金句精选.md: 32/32 ✅",
+   "=== 总览引文 80/80 可核实（100%）；完全干净文件 3/3；已核覆盖 3/3 篇（无引语 0 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）==="
+  ]
+ },
+ {
+  "id": "capture-by-amanda-lohrey:overview-full",
+  "book": "notes/books/novels/capture-by-amanda-lohrey",
+  "cmd": [
+   "python3",
+   "scripts/overview.py",
+   "full",
+   "notes/books/novels/capture-by-amanda-lohrey",
+   "notes/books/novels/capture-by-amanda-lohrey/library/Capture (Amanda Lohrey) (z-library.sk, 1lib.sk, z-lib.sk).epub"
+  ],
+  "rc": 0,
+  "sha": "0a8531f9d9df3b3b",
+  "tail": [
+   "  ⚠️ 章节覆盖：全书 37 章（md ∪ text/）｜ 引语标签覆盖 37 章 ｜ **未被任何总览引语提到 0 章**"
+  ]
+ },
+ {
+  "id": "capture-by-amanda-lohrey:overview-labels",
+  "book": "notes/books/novels/capture-by-amanda-lohrey",
+  "cmd": [
+   "python3",
+   "scripts/overview.py",
+   "labels",
+   "notes/books/novels/capture-by-amanda-lohrey",
+   "notes/books/novels/capture-by-amanda-lohrey/library/Capture (Amanda Lohrey) (z-library.sk, 1lib.sk, z-lib.sk).epub"
+  ],
+  "rc": 0,
+  "sha": "cc29361ddfe59daa",
+  "tail": [
+   "  ✅ 标注章逐字 : 80"
+  ]
+ }
+]

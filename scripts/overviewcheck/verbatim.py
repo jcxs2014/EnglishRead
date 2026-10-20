@@ -17,11 +17,11 @@ verify_overview_quotes.py — 总览文件引文真实性核对工具
 """
 import re, sys, glob, html, zipfile, tempfile, os
 
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 # 2026-09-29：拼接判定**从 check_overview_full 直接复用**，不另写一套。
 # 该文件原注释已写死这条纪律——「两处口径必须一致，否则同一段文字在正文章节判 🔶、
 # 在总览判 ❌，排查的人会怀疑工具而不是怀疑书」。构造上一致，而不是靠自觉保持一致。
-from check_overview_full import halves, suffix_match, is_quoteish  # noqa: E402
+from .full import halves, suffix_match, is_quoteish  # noqa: E402
 from verify_quotes import strip_page_anchors  # noqa: E402  # 页码锚点口径须与 epub 参照集一致
 
 CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕㉖㉗㉘㉙㉚㉛㉜㉝㉞㉟'

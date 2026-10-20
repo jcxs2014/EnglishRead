@@ -42,7 +42,7 @@ import os
 import re
 import sys
 
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from verify_quotes import flat_alpha, epub_flat_text  # noqa: E402
 from chapter_text_path import find_chapter_text  # noqa: E402
 

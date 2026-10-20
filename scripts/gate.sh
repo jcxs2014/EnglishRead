@@ -311,13 +311,13 @@ OV=$(ls "$B"/*.md 2>/dev/null | grep -cE '概述|金句|情感节点' || true)
 if [ "$OV" -gt 0 ]; then
   if [ -n "$EPUB" ]; then
     # 签名是「书目录 + epub」两参，它自己扫该目录下的 00*.md——不是单文件
-    python3 scripts/verify_overview_quotes.py "$B" "$EPUB" 2>&1 | tail -6
+    python3 scripts/overview.py quotes "$B" "$EPUB" 2>&1 | tail -6
   else echo "❓ 无 epub，无法判定（总览 ${OV} 篇）"; fi
 else echo "（无总览三篇，本项不适用）"; fi
 
 echo; echo "=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）==="
 if [ "$OV" -gt 0 ]; then
-  [ -n "$EPUB" ] && python3 scripts/check_overview_full.py "$B" "$EPUB" 2>&1 | tail -1 \
+  [ -n "$EPUB" ] && python3 scripts/overview.py full "$B" "$EPUB" 2>&1 | tail -1 \
                 || echo "❓ 需 epub，本项不判定"
 else echo "（无总览三篇，本项不适用）"; fi
 
