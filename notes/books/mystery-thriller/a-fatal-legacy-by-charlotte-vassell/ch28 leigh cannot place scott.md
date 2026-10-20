@@ -100,6 +100,7 @@ source_text: ch28
 | caber | 投掷长杆（苏格兰传统体育项目） | He looked like he belonged on the front of a porridge packet throwing a caber. |
 | predatory | 掠食的；像捕食一样的 | It was predatory. |
 | audition | 试镜；试演 | I’m a jobbing actor and Jodie is pretty chill with me dashing off to an audition last minute as she’d cover. |
+| personality vacuum | 毫无个性的空壳 | He was a bit of a personality vacuum, if I’m being brutally honest, but my God could he get a decent head of froth on a cappuccino. |
 
 ### ⭐ 基础
 
@@ -107,7 +108,6 @@ source_text: ch28
 |---|---|---|
 | bakery | 面包店 | ‘Scott was a twat,’ Leigh, the cashier at the bakery, said. |
 | stalker | 跟踪纠缠者 | ‘For now. Unless there’s anything else you think is important? A stalker, for example. |
-| personality vacuum | 毫无个性的空壳 | He was a bit of a personality vacuum, if I’m being brutally honest, but my God could he get a decent head of froth on a cappuccino. |
 | jobbing actor | 跑龙套的演员 | I’m a jobbing actor and Jodie is pretty chill with me dashing off to an audition last minute as she’d cover. |
 | grey tinge | 灰败的气色 | She had a grey tinge to her face, apart from a redness swelling around her eyes and nose, the remains of weeping. |
 | pay cheque | 一份工资 | I was just his boss. I was a pay cheque, that’s it. |
