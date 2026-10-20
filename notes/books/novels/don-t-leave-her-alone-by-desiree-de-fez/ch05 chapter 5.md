@@ -1,0 +1,151 @@
+---
+状态: 未读
+modified: "2026-10-20"
+---
+
+# Chapter 5
+
+## 本章导航
+
+- **一句话概括**：Diana 与 Carlos 前往 Alba 家庆生，Alba 因“婴儿吞了欧元”紧急送医（虚惊一场）；Diana 与 Carlos 独处时揭示 Alba 的“从不独处”习惯（autophobia）与童年睡眠史；章节以 Diana 对死去父亲的神秘回忆（烟味）与 Carlos 对 Diana 家庭的 critique 收尾。
+
+- **情感弧线位置**：全书第五章——把 Diana 与 Carlos 放入 Alba 的家庭 chaos，扩展 Diana 的 family narrative（Alba 的 autophobia、父亲的 absence、Carmen 对 Diana 职业的误解）；Carlos 是本章的“外部观察者”，他的 sharp documentary lens 抓到 Diana 无法 naming 的 family pattern。
+
+- **人物弧线**：Diana 从“participating in family celebration”到“alone with Carlos, unpacking secrets”；Alba 从“birthday host”到“urgent care panic”；Carmen 从“TV obsessed”到“following Alba”；Carlos 从“absent-present phone refuge”到“naming Alba’s never-alone pattern”。
+
+- **叙事手法**：第三人称限制视角主跟 Diana；长段落模拟 Diana 的 family overwhelm；Carlos 的 dialogue 是本章 structural counterpoint（documentary lens）；Diana 对父亲 ghost smell 的段落是 supernatural element。
+
+## 精读
+
+> **原句 1:** “TVs were very important in Diana’s family. They talked about TVs a lot. Carmen and Alba simply couldn’t accept that Diana and Carlos had an old Samsung at home, instead of a state-of-the-art model. They couldn’t wrap their heads around the idea that two people whose jobs required them to watch films all the time could settle for such a relic. ‘What self-respecting filmmaker would watch movies on that old thing?’ Alba would ask her brother-in-law. Carmen had given Diana the Samsung more than fifteen years earlier, when she moved in with her previous boyfriend. And Diana hadn’t wanted to replace it because she had a phobia of modern TVs. The pictures on their screens were too sharp and too bright, and it made her uncomfortable: It was disturbing to see things so clearly when she didn’t see them that way in real life.”
+
+TVs were very important in Diana’s family。They talked about TVs a lot。Carmen and Alba simply couldn’t accept Diana and Carlos had an old Samsung at home，instead of a state-of-the-art model。They couldn’t wrap their heads around the idea that two people whose jobs required them to watch films all the time could settle for such a relic。"What self-respecting filmmaker would watch movies on that old thing?" Alba would ask her brother-in-law。Carmen had given Diana the Samsung more than fifteen years earlier，when she moved in with her previous boyfriend。And Diana hadn’t wanted to replace it because she had a phobia of modern TVs。The pictures on their screens were too sharp and too bright，and it made her uncomfortable：It was disturbing to see things so clearly when she didn’t see them that way in real life。
+
+**关键词**：relic / phobia / sharp and bright
+
+**句子结构**：长段——"TVs were very important in Diana’s family." 短句；"They talked about TVs a lot."；"Carmen and Alba simply couldn’t accept that Diana and Carlos had an old Samsung at home, instead of a state-of-the-art model." that 引导宾语从句；"They couldn’t wrap their heads around the idea that two people whose jobs required them to watch films all the time could settle for such a relic."；"‘What self-respecting filmmaker would watch movies on that old thing?’ Alba would ask her brother-in-law."；"Carmen had given Diana the Samsung more than fifteen years earlier, when she moved in with her previous boyfriend." when 引导时间从句；"And Diana hadn’t wanted to replace it because she had a phobia of modern TVs."；"The pictures on their screens were too sharp and too bright, and it made her uncomfortable: It was disturbing to see things so clearly when she didn’t see them that way in real life."
+
+**为什么这样写**：作者用 TV 作为 family conflict 的 microcosm——Carmen/Alba 的 class judgment（state-of-the-art vs relic）与 Diana 的 aesthetic phobia（too sharp/bright）形成对照；"phobia of modern TVs" 把 Diana 的 sensitivity 写成 perceptual condition，与 ch04 的 "nearsighted" 形成 pattern：Diana 的 perception itself is non-standard；"disturbing to see things so clearly when she didn’t see them that way in real life" 是 Diana 的 worldview statement——她 prefers blur, ambiguity, the uncanny；TV 作为 family status symbol（65-inch LG）与 Diana 的 old Samsung 形成 class divide。
+
+**读者视角提示**："Diana and Carlos had achieved what was almost impossible … They lived in downtown Barcelona and hadn’t had to give up their dreams" 显示 Diana 的 class pride，与 Carmen 的 judgment 形成 tension；"Something that, ironically, she could have easily attained if she were living the way they did" 显示 Diana 的 awareness of trade-off。
+
+> **原句 2:** “The disinterest with which her family always greeted them—except for, now, the baby—was another thing that drove Diana crazy. She was annoyed by the mismatch between the demand that they be there at such-and-such time and the indifference they were met with once they arrived. … Carmen and Alba, especially Alba, had an unusual syndrome: They put more effort into preparations than the celebrations themselves, no matter what kind they were. … To varying degrees, all three of them shared the tendency to not be present, to project themselves, continually and dramatically, into the past or the future.”
+
+The disinterest with which her family always greeted them—except for, now, the baby—was another thing that drove Diana crazy。She was annoyed by the mismatch between the demand that they be there at such-and-such time and the indifference they were met with once they arrived。… Carmen and Alba，especially Alba，had an unusual syndrome：They put more effort into preparations than the celebrations themselves，no matter what kind they were。… To varying degrees，all three of them shared the tendency to not be present，to project themselves，continually and dramatically，into the past or the future。
+
+**关键词**：disinterest / mismatch / preparations / not be present
+
+**句子结构**：长段——"The disinterest with which her family always greeted them—except for, now, the baby—was another thing that drove Diana crazy." 非限制性定语从句 + em dash 插入；"She was annoyed by the mismatch between the demand that they be there at such-and-such time and the indifference they were met with once they arrived."；"Carmen and Alba, especially Alba, had an unusual syndrome: They put more effort into preparations than the celebrations themselves, no matter what kind they were."；"To varying degrees, all three of them shared the tendency to not be present, to project themselves, continually and dramatically, into the past or the future."
+
+**为什么这样写**：作者用 "unusual syndrome" 把 family dynamic 写成 pathology——Carmen/Alba 享受 preparation 而非 celebration，显示 their orientation toward future（control）rather than present；"all three of them shared the tendency to not be present" 把 Diana 也卷入 diagnosis——she too projects into past/future；"except for, now, the baby" 显示 baby 是 exception——infants are present, adults are not；本章 "not be present" theme 与 Alba 的 autophobia（fear of being alone = fear of present moment）形成对照。
+
+**读者视角提示**："They enjoyed the process—their special form of recreation" 显示 Carmen/Alba 的 control need；"started way too early" 显示 their anxiety-driven planning；"the excitement would have already passed" 显示 their inability to inhabit joy。
+
+> **原句 3:** “‘We have to go to urgent care. The baby swallowed a euro,’ said Alba, out of breath, bursting in from the hallway with the child in his arms. … ‘Are you absolutely sure he swallowed it? It wouldn’t have gone down easy, especially not a euro. He’s just a tiny thing. He would have choked, or it would have hurt him.’ … ‘Stop it! Leave him alone. There’s no way you’re going to get a euro out patting him on the back. If he swallowed it, it’s in his stomach now, not his mouth. Sit for a second and calm down. You’re making us all anxious. Don’t you have Valium now? Carlos, look in my bag, I think I brought some.’”
+
+"We have to go to urgent care. The baby swallowed a euro," said Alba, out of breath, bursting in from the hallway with the child in his arms. … "Are you absolutely sure he swallowed it? It wouldn’t have gone down easy, especially not a euro. He’s just a tiny thing. He would have choked, or it would have hurt him." … "Stop it! Leave him alone. There’s no way you’re going to get a euro out patting him on the back. If he swallowed it, it’s in his stomach now, not his mouth. Sit for a second and calm down. You’re making us all anxious. Don’t you have Valium now? Carlos, look in my bag, I think I brought some."
+
+**关键词**：bursting in / out of breath / Valium
+
+**句子结构**：长段——"‘We have to go to urgent care. The baby swallowed a euro,’ said Alba, out of breath, bursting in from the hallway with the child in his arms."；"‘Are you absolutely sure he swallowed it? It wouldn’t have gone down easy, especially not a euro. He’s just a tiny thing. He would have choked, or it would have hurt him.’"；"‘Stop it! Leave him alone. There’s no way you’re going to get a euro out patting him on the back. If he swallowed it, it’s in his stomach now, not his mouth. Sit for a second and calm down. You’re making us all anxious. Don’t you have Valium now? Carlos, look in my bag, I think I brought some.’"
+
+**为什么这样写**：作者用 "bursting in" 把 Alba 的 entrance 写成 emergency——她 creates crisis; "out of breath" 显示 her panic; Diana 的 "Are you absolutely sure" 与 "Stop it!" 显示 Diana 的 rational counterweight; "Don’t you have Valium now?" 显示 Diana herself uses medication to manage anxiety（she carries Valium in her bag），revealing her own anxiety management; "Carlos, look in my bag" shows Diana delegates to Carlos even in crisis; "You’re making us all anxious" 显示 Alba’s panic is contagious—family system amplifies anxiety。
+
+**读者视角提示**："Alba had stopped working when she got pregnant" + "she found it strange that Diana didn’t do the same" 显示 Alba’s worldview (motherhood = identity); "evil eye" belief shows Alba’s magical thinking; urgent care trip with 5 people shows Alba’s inability to be alone even in crisis。
+
+> **原句 4:** “‘Have you noticed your sister goes nowhere alone? She never does anything alone.’ … ‘I’m serious. Name one time you’ve seen her alone since the two of us met. It doesn’t happen.’ … Diana knew Alba was never alone. She had never told anyone it weighed on her, that she didn’t know what to do about it. … In fact, it wasn’t that long ago that Diana herself had come to realize how serious it was. Either out of distraction or denial, she’d been heedless of obvious warning signs over the years. Six years prior, the revelation had hit her, right around the time of her own personal downturn, when Tomás was born and her fears began to multiply. While she was incapable of understanding the reasons for her own anxiety and malaise, she’d developed an extraordinary skill for parsing strange behaviors in others. In that state of selective lucidity, she noticed her sister couldn’t, or wouldn’t, handle being alone, that she always engineered things so she was with someone. She thought the obsession must be related to fear, and she scoured the internet for similar phobias. She found one: autophobia, the irrational fear of being alone.”
+
+"Have you noticed your sister goes nowhere alone? She never does anything alone." … "I’m serious. Name one time you’ve seen her alone since the two of us met. It doesn’t happen." … Diana knew Alba was never alone. She had never told anyone it weighed on her, that she didn’t know what to do about it. … In fact, it wasn’t that long ago that Diana herself had come to realize how serious it was. Either out of distraction or denial, she’d been heedless of obvious warning signs over the years. Six years prior, the revelation had hit her, right around the time of her own personal downturn, when Tomás was born and her fears began to multiply. While she was incapable of understanding the reasons for her own anxiety and malaise, she’d developed an extraordinary skill for parsing strange behaviors in others. In that state of selective lucidity, she noticed her sister couldn’t, or wouldn’t, handle being alone, that she always engineered things so she was with someone. She thought the obsession must be related to fear, and she scoured the internet for similar phobias. She found one: autophobia, the irrational fear of being alone.
+
+**关键词**：autophobia / selective lucidity / engineered / malaise
+
+**句子结构**：长段——"‘Have you noticed your sister goes nowhere alone? She never does anything alone.’"；"‘I’m serious. Name one time you’ve seen her alone since the two of us met. It doesn’t happen.’"；"Diana knew Alba was never alone." 短句；"She had never told anyone it weighed on her, that she didn’t know what to do about it."；"In fact, it wasn’t that long ago that Diana herself had come to realize how serious it was."；"Either out of distraction or denial, she’d been heedless of obvious warning signs over the years."；"Six years prior, the revelation had hit her, right around the time of her own personal downturn, when Tomás was born and her fears began to multiply."；"While she was incapable of understanding the reasons for her own anxiety and malaise, she’d developed an extraordinary skill for parsing strange behaviors in others."；"In that state of selective lucidity, she noticed her sister couldn’t, or wouldn’t, handle being alone, that she always engineered things so she was with someone."；"She thought the obsession must be related to fear, and she scoured the internet for similar phobias."；"She found one: autophobia, the irrational fear of being alone."
+
+**为什么这样写**：作者用 Carlos 的 observation 作为 catalyst——his "documentary lens" names what Diana has been carrying; "selective lucidity" 是 Diana 的 self-diagnosis（she can parse others but not herself）；"autophobia" 是本章 key concept——Alba’s fear of being alone explains her urgent care trip with 5 people, her sleeping on living room floor, her inability to be alone; "six years prior … Tomás was born and her fears began to multiply" 显示 Diana’s own anxiety onset tied to motherhood; "engineered things so she was with someone" 显示 Alba’s active manipulation of social situations; Carlos’s "Name one time" is documentary method (evidence-based), contrasting with Diana’s emotional knowing。
+
+**读者视角提示**："Diana had never told anyone it weighed on her" 显示 her secrecy; "she was ashamed she hadn’t tried to do something" 显示 her guilt; "she couldn’t imagine how she would go about it" 显示 her helplessness; Carlos "rarely came to any conclusions" about Diana’s family shows his blind spot（documentary lens fails on intimate subjects）。
+
+> **原句 5:** “When the two of them were kids, one day, without warning, her sister said she couldn’t sleep in their room anymore: cold air came in through the window. Alba had been thirteen then. Her bed was one of those tall ones where the mattress sits on top of a dresser, and since it was right under the window, she said her feet were freezing every night. … While Carmen was coming up with a solution, Alba dragged her mattress into the living room, and she announced she was going to sleep there, on the floor. … The next night she dragged her mattress back out again. And the next. And the next. She went out there every night. And a solution never arrived. For their entire adolescence, Alba slept on the living room floor. And Carmen, who, less than a week later, had given up on helping her forget about the cold, spent Alba’s teenage years flopped down on the couch right next to her, holding her hand. Night after night, year after year, Carmen left her husband in the bedroom and went to the living room to sleep next to her daughter.”
+
+When the two of them were kids, one day, without warning, her sister said she couldn’t sleep in their room anymore: cold air came in through the window. Alba had been thirteen then. Her bed was one of those tall ones where the mattress sits on top of a dresser, and since it was right under the window, she said her feet were freezing every night. … While Carmen was coming up with a solution, Alba dragged her mattress into the living room, and she announced she was going to sleep there, on the floor. … The next night she dragged her mattress back out again. And the next. And the next. She went out there every night. And a solution never arrived. For their entire adolescence, Alba slept on the living room floor. And Carmen, who, less than a week later, had given up on helping her forget about the cold, spent Alba’s teenage years flopped down on the couch right next to her, holding her hand. Night after night, year after year, Carmen left her husband in the bedroom and went to the living room to sleep next to her daughter.
+
+**关键词**：dragged her mattress / airtight / labyrinthine / spiraling explanation
+
+**句子结构**：长段——"When the two of them were kids, one day, without warning, her sister said she couldn’t sleep in their room anymore: cold air came in through the window."；"Alba had been thirteen then." 短句；"Her bed was one of those tall ones where the mattress sits on top of a dresser, and since it was right under the window, she said her feet were freezing every night."；"While Carmen was coming up with a solution, Alba dragged her mattress into the living room, and she announced she was going to sleep there, on the floor."；"The next night she dragged her mattress back out again. And the next. And the next." 重复短句；"She went out there every night."；"And a solution never arrived."；"For their entire adolescence, Alba slept on the living room floor."；"And Carmen, who, less than a week later, had given up on helping her forget about the cold, spent Alba’s teenage years flopped down on the couch right next to her, holding her hand." 非限制性定语从句；"Night after night, year after year, Carmen left her husband in the bedroom and went to the living room to sleep next to her daughter."
+
+**为什么这样写**：作者用 "cold air came in through the window" 作为 Alba’s excuse——but window was airtight, feet hadn’t grown overnight; "labyrinthine, dead-end justification" 显示 Alba’s technique for getting what she wants; "Carmen left her husband in the bedroom" 显示 Carmen’s sacrifice（husband = neglected）; "For their entire adolescence" 显示 this was not a phase but a permanent arrangement; "holding her hand" 显示 intimacy that borders on enmeshment; Diana as older sister (6 years) tried to reason but was overruled; "specialists in their own invincibility" 显示 Alba/Carmen’s defensive system。
+
+**读者视角提示**："Not once did Diana hear her father complain" 显示 father’s absence/acceptance; "she called her sister selfish" 显示 Diana’s early awareness; "they had become experts at nullifying Diana’s arguments" 显示 Diana’s powerlessness in family system; this backstory explains Alba’s adult autophobia（origin in adolescence, possibly earlier）。
+
+> **原句 6:** “The day they were injecting her back for a herniated disk, her father had paid her a visit in the early morning. She and Carlos had to be at the hospital at six thirty, but as when she had to wake up early for travel, she didn’t sleep for even a minute. At some point she got out of bed, and the moment she set foot in the bathroom, she knew, without a doubt. Her father was there. She hadn’t heard a single sound. She didn’t think she’d caught sight of him in the mirror. Nor did she sense a presence behind her or see a ghost. But he was there, Diana knew it. The bathroom smelled strongly of cigarettes. It smelled exactly the way the bathroom at her parents’ house did when he was in it—the man had smoked two packs a day since she was little. She knew that cigarette smell was her father, and still, she couldn’t help but want confirmation. … At some point she got out of bed, and the moment she set foot in the bathroom, she knew, without a doubt. Her father was there.”
+
+The day they were injecting her back for a herniated disk, her father had paid her a visit in the early morning. She and Carlos had to be at the hospital at six thirty, but as when she had to wake up early for travel, she didn’t sleep for even a minute. At some point she got out of bed, and the moment she set foot in the bathroom, she knew, without a doubt. Her father was there. She hadn’t heard a single sound. She didn’t think she’d caught sight of him in the mirror. Nor did she sense a presence behind her or see a ghost. But he was there, Diana knew it. The bathroom smelled strongly of cigarettes. It smelled exactly the way the bathroom at her parents’ house did when he was in it—the man had smoked two packs a day since she was little. She knew that cigarette smell was her father, and still, she couldn’t help but want confirmation. … She put on a sweater and tiptoed up to the roof to check. Nothing—no one was there. There wasn’t even anything on the clotheslines she could have mistaken for a person’s silhouette. She went back to the apartment, returned to the bathroom, and sat down on the lid of the toilet, wrapping her arms around herself. It still smelled like cigarettes. She leaned her head against the wall, stretched out her legs, and crossed her ankles over the bidet. For half an hour, she sat like that, transformed into a nocturnal secondhand smoker. She had no idea why she wasn’t afraid—why, in fact, she felt perfectly fine. Why was she so calm? She thought her father had finally figured out how to communicate with her and started laughing. "Damn it, Dad." She covered her mouth in disbelief.
+
+**关键词**：herniated disk / without a doubt / secondhand smoker / confirmation
+
+**句子结构**：长段——"The day they were injecting her back for a herniated disk, her father had paid her a visit in the early morning."；"She and Carlos had to be at the hospital at six thirty, but as when she had to wake up early for travel, she didn’t sleep for even a minute."；"At some point she got out of bed, and the moment she set foot in the bathroom, she knew, without a doubt."；"Her father was there." 短句；"She hadn’t heard a single sound."；"She didn’t think she’d caught sight of him in the mirror."；"Nor did she sense a presence behind her or see a ghost."；"But he was there, Diana knew it."；"The bathroom smelled strongly of cigarettes."；"It smelled exactly the way the bathroom at her parents’ house did when he was in it—the man had smoked two packs a day since she was little."；"She knew that cigarette smell was her father, and still, she couldn’t help but want confirmation."
+
+**为什么这样写**：作者用 "knew, without a doubt" 但 "hadn’t heard a single sound / didn’t think she’d caught sight / Nor did she sense a presence" 把 supernatural experience 写成 certainty without sensory evidence——Diana knows but cannot verify; "cigarette smell" 是 father’s signature (two packs a day since she was little)——olfactory memory as communication; "transformed into a nocturnal secondhand smoker" 把 supernatural encounter 写成 mundane habit; "She had no idea why she wasn’t afraid" 显示 Diana’s acceptance of supernatural; "her father had finally figured out how to communicate with her" 显示 Diana’s interpretation（father = silent, incommunicative in life; now communicates via smell）; "Damn it, Dad" 显示 intimacy + humor; this ghost scene parallels Alba’s evil eye（both involve supernatural beliefs in family）。
+
+**读者视角提示**：father "paid her a visit" 2 years after death; "I don’t really know who my dad was, as a person" 显示 Diana’s incomplete image of father; "He was dry / rude" 显示 Diana’s ambivalence; father’s absence (never at Corte Inglés, never helped with chores, avoided phone calls) mirrors Alba’s autophobia（both are forms of absence/presence）; Diana’s "incomplete image of her family" theme connects to Alba’s never-alone pattern。
+
+> **原句 7:** “Malls were very important in her family. Diana remembered the immense joy she felt as a child when her mother occasionally convinced her father to go to the Pryca, off the Castelldefels expressway, and they came back with enough provisions to survive an apocalypse. … She had always held those memories close, but until recently, she’d never felt they were incomplete. Though what was incomplete wasn’t the memory, exactly, but instead the image of her family. Her father was never around. Nor did she have many memories of him. Not even when he showed up in the photos. … They could limit themselves to just being there—sleeping most of the time—because they had exactly one clear job: to bring home money. Diana accepted it all as normal: that her father never went along to the Corte Inglés or helped with chores or had a real conversation with her after she entered adolescence. That he avoided her phone calls, always hurrying to pass her off to Carmen when, as an adult, she called her parents’ house. Her father simply didn’t know what to say, or didn’t know how a father should talk to his daughter.”
+
+Malls were very important in her family. Diana remembered the immense joy she felt as a child when her mother occasionally convinced her father to go to the Pryca, off the Castelldefels expressway, and they came back with enough provisions to survive an apocalypse. … She had always held those memories close, but until recently, she’d never felt they were incomplete. Though what was incomplete wasn’t the memory, exactly, but instead the image of her family. Her father was never around. Nor did she have many memories of him. Not even when he showed up in the photos. … They could limit themselves to just being there—sleeping most of the time—because they had exactly one clear job: to bring home money. Diana accepted it all as normal: that her father never went along to the Corte Inglés or helped with chores or had a real conversation with her after she entered adolescence. That he avoided her phone calls, always hurrying to pass her off to Carmen when, as an adult, she called her parents’ house. Her father simply didn’t know what to say, or didn’t know how a father should talk to his daughter.
+
+**关键词**：incomplete image / Pryca / Corte Inglés / Second Life
+
+**句子结构**：长段——"Malls were very important in her family." 短句；"Diana remembered the immense joy she felt as a child when her mother occasionally convinced her father to go to the Pryca, off the Castelldefels expressway, and they came back with enough provisions to survive an apocalypse."；"She had always held those memories close, but until recently, she’d never felt they were incomplete."；"Though what was incomplete wasn’t the memory, exactly, but instead the image of her family."；"Her father was never around." 短句；"Nor did she have many memories of him."；"Not even when he showed up in the photos."；"They could limit themselves to just being there—sleeping most of the time—because they had exactly one clear job: to bring home money."；"Diana accepted it all as normal: that her father never went along to the Corte Inglés or helped with chores or had a real conversation with her after she entered adolescence."；"That he avoided her phone calls, always hurrying to pass her off to Carmen when, as an adult, she called her parents’ house."；"Her father simply didn’t know what to say, or didn’t know how a father should talk to his daughter."
+
+**为什么这样写**：作者用 "malls were very important" 把 family life 写成 consumer space——Corte Inglés as "Second Life" (safe, clean, orderly, no responsibilities); "incomplete image of her family" 是本章 key concept——Diana’s father is absent from memory despite being physically present; "They could limit themselves to just being there—sleeping most of the time—because they had exactly one clear job: to bring home money" 显示 gendered division of labor (father = provider, mother = present); "Diana accepted it all as normal" 显示 her internalization of patriarchal norm; "Her father simply didn’t know what to say" 显示 father’s emotional absence; this connects to Alba’s autophobia (both father and Alba are forms of absence—father absent by role, Alba unable to be alone)。
+
+**读者视角提示**："Corte Inglés had been her Disneyland" 显示 consumer culture as childhood joy; "the scents, the heat running full blast, the saleswomen with their perfect skin, frozen in time" 显示 Diana’s sensory memory; "For them and for many other women like them" 显示 Diana’s sociological observation; father’s "incomplete image" parallels Diana’s "selective lucidity" (she can parse others but not her own father)。
+
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+
+| 词条 | 释义 | 例句（原文） |
+|------|------|-------------|
+| autophobia | 独处恐惧症 | "autophobia, the irrational fear of being alone" |
+| selective lucidity | 选择性清醒 | "In that state of selective lucidity" |
+| labyrinthine | 迷宫般的 | "labyrinthine, dead-end justification" |
+| spiraling explanation | 螺旋式解释 | "the art of the spiraling explanation" |
+| secondhand smoker | 二手烟民 | "transformed into a nocturnal secondhand smoker" |
+| herniated disk | 椎间盘突出 | "injecting her back for a herniated disk" |
+| incomplete image | 不完整影像 | "the image of her family" |
+| engineered | 策划、安排 | "she always engineered things so she was with someone" |
+| malaise | 不适、倦怠 | "her own anxiety and malaise" |
+| disinterest | 冷淡 | "The disinterest with which her family always greeted them" |
+
+### ⭐⭐ 进阶
+
+| 词条 | 释义 | 例句（原文） |
+|------|------|-------------|
+| mismatch | 不匹配 | "the mismatch between the demand … and the indifference" |
+| preparations | 准备 | "They put more effort into preparations than the celebrations" |
+| not be present | 不在场 | "the tendency to not be present" |
+| bursting in | 闯入 | "bursting in from the hallway" |
+| out of breath | 上气不接下气 | "out of breath" |
+| Valium | 安定片 | "Don’t you have Valium now?" |
+| dragged her mattress | 拖床垫 | "Alba dragged her mattress into the living room" |
+| nullifying | 作废 | "nullifying Diana’s arguments" |
+| confirmation | 确认 | "she couldn’t help but want confirmation" |
+
+### ⭐ 基础
+
+| 词条 | 释义 | 例句（原文） |
+|------|------|-------------|
+| relic | 古董、遗物 | "settle for such a relic" |
+| phobia | 恐惧症 | "she had a phobia of modern TVs" |
+| sharp and bright | 锐利明亮 | "too sharp and too bright" |
+| Candy Crush | 糖果传奇（游戏） | "playing a game of Candy Crush" |
+| Alexa | 亚马逊语音助手 | "Alexa, turn off the TV!" |
+| urgent care | 急诊 | "We have to go to urgent care" |
+| euro | 欧元 | "The baby swallowed a euro" |
+| Valium | 安定 | "Don’t you have Valium now?" |
+| Corte Inglés | 英国宫百货（商场） | "spend entire days shopping at the Corte Inglés" |
+
+## 一句话总结
+
+第五章把 Diana 与 Carlos 放入 Alba 的 family chaos（TV conflict、urgent care panic、Alba’s autophobia 揭示）；Carlos 的 documentary lens 抓到 Alba’s never-alone pattern，Diana 揭示 Alba’s adolescence sleeping on living room floor；章节以 Diana 对死去父亲的 ghost smell 与 "incomplete image of her family" 收尾，显示 Diana’s selective lucidity（能 parse others，不能 parse self）与 family’s collective absence（father by role，Alba by fear，Diana by denial）。
