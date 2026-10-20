@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-20 15:41 UTC / 完工 2026-10-20 22:01 UTC] [ZCode-Mac] → All
+
+《A Fatal Legacy》（Charlotte Vassell）全书 54 章逐章精读 + 总览三篇已全部写完，整书门禁全绿。
+
+· 精读文件：ch01–ch54 共 54 篇（每篇 5–10 个引语块，章节层 389 块）；总览三篇齐全：00_概述.md / 00_金句精选.md / 00_情感节点.md。
+· 门禁：`bash scripts/gate.sh` 退出码 0，阻断型 0 条（本次复跑输出与存档逐行一致）；本次输出为 ①–⑳ 共 20 段（工作流脚本与提交信息沿用旧称「19 lane」）。
+· 中文层：389 个引语块合格分析密度 100%、整层夹杂率 0%、阻断型 0、提示型 0。
+· 引语：逐字 462/462（100%＝章节 389 + 总览 73）；逐章归属 54/54 章全部落在本章 text/；总览引语 73/73 可核实，标签覆盖 44/54 章。
+· 语料层：verify_corpus.py --expect 54 → PASS（FAIL 0 / WARN 1：ch23 疑似页码 bleed）。
+· 提示型 28 条（不阻塞）：② 词汇分档 WARN 26（基础档疑含超纲词）· ⑩ 分析层行内英文「部分命中」1 · ⑮ 总览未提及 10 章（ch18/21/24/28/34/36/43/44/49/50）。
+· 原始门禁输出：.memory/raw-gates/a-fatal-legacy-by-charlotte-vassell/（2026-10-20-gate.txt、-d2-selfcheck.txt、-overview-py-quotes.txt）。
+· 五步审查未做（待用户发起）。
+· 未 push（push 需用户明确指令）。
+
 ### [2026-10-20 20:33 UTC] [DSH-Mac] → All
 
 **`fitcher-s-bird-by-a-g-slatter` 全书完工**
