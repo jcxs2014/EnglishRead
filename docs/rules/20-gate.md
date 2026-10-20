@@ -14,8 +14,9 @@ python3 scripts/verify_corpus.py "<书目录>" --expect N --expect-source "…" 
 
 `gate.sh` 依次跑：**`quotes.py verbatim`** / check_vocab / check_entities / corruption_scan / **`quotes.py full`** /
 **`quotes.py short`** / **`quotes.py chapter`** / **`quotes.py coverage`** / check_nav_layer / sweep_analysis_inline /
-audit_structure / check_anchor / 空段扫描 / **`overview.py quotes`** / **`overview.py full`** /
-check_xref_chapter / **`quotes.py blocks`** / check_block_keywords / check_chinese_layer。
+**`structure.py audit`** / **`structure.py anchor`** / 空段扫描 / **`overview.py quotes`** / **`overview.py full`** /
+check_xref_chapter / **`quotes.py blocks`** / **`structure.py keywords`** / check_chinese_layer。
+引语六件 → `quotes.py`，总览三件 → `overview.py`，结构四件 → `structure.py`（旧名 → 新命令见 `工具登记.md`）。
 引语层那六件事已收进 `scripts/quotes.py` 一个入口，总览三件事收进 `scripts/overview.py` 一个入口
 （旧脚本名 → 新命令见 `工具登记.md` 末尾）。
 （lane 清单会变，**以 `gate.sh` 现场为准**；单跑某检测器的参数见该脚本 `--help`。）

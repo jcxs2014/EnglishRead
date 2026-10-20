@@ -157,7 +157,7 @@ echo; echo "=== ⑩ sweep_analysis_inline（分析层行内英文）==="
 python3 scripts/sweep_analysis_inline.py "$B" 2>&1 | grep "逐字"
 
 echo; echo "=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）==="
-python3 scripts/audit_structure.py "$B" --quiet 2>&1 | tail -2
+python3 scripts/structure.py audit "$B" --quiet 2>&1 | tail -2
 
 echo; echo "=== ⑫ check_anchor（关键词锚定）==="
 # ⚠️ 2026-10-13 修正（Some Other Time 实测）：本行原为裸 `| grep -E "凭空造词|松散关键词"`，
@@ -167,7 +167,7 @@ echo; echo "=== ⑫ check_anchor（关键词锚定）==="
 #   这种格式收不到关键词（报 ❓ 无法判定、退出码 2），于是两行汇总都不打印 ⇒ grep 落空。
 #   后果与文件头记载的前三次同族：**汇总层误导读数**——看日志的人会以为本次门禁没跑完，
 #   从而忽略「⑫ 这一层根本没检查」这个真事实。⇒ 加 `|| true`（与下方 ⑱ 同一写法）。
-python3 scripts/check_anchor.py "$B" 2>&1 | grep -E "凭空造词|松散关键词|无法判定" || true
+python3 scripts/structure.py anchor "$B" 2>&1 | grep -E "凭空造词|松散关键词|无法判定" || true
 
 echo; echo "=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）==="
 python3 - "$B" <<'PY'
@@ -356,7 +356,7 @@ echo; echo "=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚
 #   这与文件头「阻断型不许被任何截断隐藏」是同一条纪律（⑧ 曾因 `| tail -2` 藏掉两条 ❌）。
 #   修法：**不再截断条目行**——先落临时文件，再打全部 ❌ 条目 + 末行汇总。
 _KW_OUT="$(mktemp)"
-python3 scripts/check_block_keywords.py "$B" > "$_KW_OUT" 2>&1
+python3 scripts/structure.py keywords "$B" > "$_KW_OUT" 2>&1
 grep -E '^[[:space:]]+❌' "$_KW_OUT" || true
 tail -1 "$_KW_OUT"
 rm -f "$_KW_OUT"

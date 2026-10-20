@@ -19,7 +19,7 @@ import re
 import sys
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).resolve().parent))
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))  # scripts/（chapter_contiguity 在顶层）
 from chapter_contiguity import flat  # noqa: E402  与门禁共用归一，避免第二套尺子
 
 Q = re.compile(r'^> \*\*原句 (\d+):\*\*\s*(.+)$')

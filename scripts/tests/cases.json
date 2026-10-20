@@ -10,7 +10,7 @@
    "notes/books/novels/fabulous-bodies-by-chuck-tingle/library/Fabulous Bodies (Chuck Tingle) (z-library.sk, 1lib.sk, z-lib.sk).epub",
    "--full"
   ],
-  "head": "b19185083e57",
+  "head": "fb8918c5b425",
   "rc": 0,
   "sha": "cb81c2070a3fa93a",
   "tail": [
@@ -27,7 +27,7 @@
    "notes/books/novels/fabulous-bodies-by-chuck-tingle",
    "--quiet"
   ],
-  "head": "b19185083e57",
+  "head": "fb8918c5b425",
   "rc": 0,
   "sha": "b02a115cd31fe740",
   "tail": [
@@ -43,7 +43,7 @@
    "short",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle"
   ],
-  "head": "b19185083e57",
+  "head": "fb8918c5b425",
   "rc": 0,
   "sha": "bfe28977c769785c",
   "tail": [
@@ -59,7 +59,7 @@
    "coverage",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle"
   ],
-  "head": "b19185083e57",
+  "head": "fb8918c5b425",
   "rc": 0,
   "sha": "ea62af6f453d5520",
   "tail": [
@@ -75,7 +75,7 @@
    "blocks",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle"
   ],
-  "head": "b19185083e57",
+  "head": "fb8918c5b425",
   "rc": 0,
   "sha": "209960f05eb84251",
   "tail": [
@@ -92,7 +92,7 @@
    "--book-dir",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle"
   ],
-  "head": "b19185083e57",
+  "head": "fb8918c5b425",
   "rc": 0,
   "sha": "e8ea50c40b069893",
   "tail": [
@@ -108,13 +108,13 @@
    "scripts/check_chinese_layer.py",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle"
   ],
-  "head": "b19185083e57",
-  "rc": 1,
-  "sha": "b6952637becb0961",
+  "head": "fb8918c5b425",
+  "rc": 0,
+  "sha": "2404a72c13f3f975",
   "tail": [
-   "❌ 夹杂理解：2 处",
+   "❌ 夹杂理解：0 处",
    "❌ 夹杂为什么：0 处",
-   "=== 汇总：169 个引语块 | 合格分析密度 99% | 整层夹杂率 1% | 阻断型 2 | 提示型 0 ==="
+   "=== 汇总：169 个引语块 | 合格分析密度 100% | 整层夹杂率 0% | 阻断型 0 | 提示型 0 ==="
   ]
  },
  {
@@ -125,7 +125,7 @@
    "scripts/check_vocab.py",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle"
   ],
-  "head": "b19185083e57",
+  "head": "fb8918c5b425",
   "rc": 0,
   "sha": "3c29fd7bf7767ac0",
   "tail": [
@@ -143,11 +143,11 @@
    "notes/books/novels/fabulous-bodies-by-chuck-tingle",
    "--quiet"
   ],
-  "head": "b19185083e57",
-  "rc": 0,
-  "sha": "955f2af82df63418",
+  "head": "fb8918c5b425",
+  "rc": 2,
+  "sha": "1e855d891486316c",
   "tail": [
-   "  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0"
+   "/opt/homebrew/Cellar/python@3.15/3.15.0/Frameworks/Python.framework/Versions/3.15/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/audit_structure.py': [Errno 2] No such file or directory"
   ]
  },
  {
@@ -158,11 +158,11 @@
    "scripts/check_quote_order.py",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle"
   ],
-  "head": "b19185083e57",
-  "rc": 0,
-  "sha": "fa5b27362375f48c",
+  "head": "fb8918c5b425",
+  "rc": 2,
+  "sha": "3a82bd5b98222302",
   "tail": [
-   "=== 章内块序：16 个 md / 169 块，顺序或编号缺陷 0 章 ／ 不可判定 0 章 ==="
+   "/opt/homebrew/Cellar/python@3.15/3.15.0/Frameworks/Python.framework/Versions/3.15/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check_quote_order.py': [Errno 2] No such file or directory"
   ]
  },
  {
@@ -309,10 +309,10 @@
    "--quiet"
   ],
   "head": "b24907b12202",
-  "rc": 0,
-  "sha": "01b0c18faef2bd10",
+  "rc": 2,
+  "sha": "1e855d891486316c",
   "tail": [
-   "  ❌ 结构缺陷 0 ｜ ⚠️ 提示 3 ｜ 🔀 映射不一致 0"
+   "/opt/homebrew/Cellar/python@3.15/3.15.0/Frameworks/Python.framework/Versions/3.15/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/audit_structure.py': [Errno 2] No such file or directory"
   ]
  },
  {
@@ -324,12 +324,10 @@
    "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
   ],
   "head": "b24907b12202",
-  "rc": 1,
-  "sha": "f5aadfa75be2e25f",
+  "rc": 2,
+  "sha": "3a82bd5b98222302",
   "tail": [
-   "  ❓ ch15 chapter 15 nandhini.md：引语展平后非唯一命中（pos=3988），该章不判",
-   "  ❌ ch16 chapter 16 darla.md: 编号不连续：[2, 3, 4, 5]",
-   "  ❓ ch22 chapter 22 nandhini.md：引语展平后非唯一命中（pos=11978），该章不判"
+   "/opt/homebrew/Cellar/python@3.15/3.15.0/Frameworks/Python.framework/Versions/3.15/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check_quote_order.py': [Errno 2] No such file or directory"
   ]
  },
  {
@@ -477,10 +475,10 @@
    "--quiet"
   ],
   "head": "df5687f0da24",
-  "rc": 0,
-  "sha": "ae9245d18a178062",
+  "rc": 2,
+  "sha": "1e855d891486316c",
   "tail": [
-   "  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0"
+   "/opt/homebrew/Cellar/python@3.15/3.15.0/Frameworks/Python.framework/Versions/3.15/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/audit_structure.py': [Errno 2] No such file or directory"
   ]
  },
  {
@@ -492,10 +490,10 @@
    "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach"
   ],
   "head": "df5687f0da24",
-  "rc": 0,
-  "sha": "7f6ad0af3d3828c3",
+  "rc": 2,
+  "sha": "3a82bd5b98222302",
   "tail": [
-   "=== 章内块序：43 个 md / 430 块，顺序或编号缺陷 0 章 ／ 不可判定 0 章 ==="
+   "/opt/homebrew/Cellar/python@3.15/3.15.0/Frameworks/Python.framework/Versions/3.15/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check_quote_order.py': [Errno 2] No such file or directory"
   ]
  },
  {
@@ -643,10 +641,10 @@
    "--quiet"
   ],
   "head": "bc077073ed29",
-  "rc": 0,
-  "sha": "bfa735774de3be24",
+  "rc": 2,
+  "sha": "1e855d891486316c",
   "tail": [
-   "  ❌ 结构缺陷 0 ｜ ⚠️ 提示 22 ｜ 🔀 映射不一致 0"
+   "/opt/homebrew/Cellar/python@3.15/3.15.0/Frameworks/Python.framework/Versions/3.15/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/audit_structure.py': [Errno 2] No such file or directory"
   ]
  },
  {
@@ -658,11 +656,10 @@
    "notes/books/novels/capture-by-amanda-lohrey"
   ],
   "head": "bc077073ed29",
-  "rc": 1,
-  "sha": "bddf1686f6466ae9",
+  "rc": 2,
+  "sha": "3a82bd5b98222302",
   "tail": [
-   "  ❌ ch13 griffin.md: 原句 20（md:250）在原文里位于原句 19 之前",
-   "  ❌ ch22 maxim.md: 原句 8（md:103）在原文里位于原句 7 之前"
+   "/opt/homebrew/Cellar/python@3.15/3.15.0/Frameworks/Python.framework/Versions/3.15/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check_quote_order.py': [Errno 2] No such file or directory"
   ]
  },
  {
@@ -812,10 +809,10 @@
    "--quiet"
   ],
   "head": "2e6a2f23b9ee",
-  "rc": 1,
-  "sha": "9d58a6f6a32aedda",
+  "rc": 2,
+  "sha": "1e855d891486316c",
   "tail": [
-   "  ❌ 结构缺陷 1 ｜ ⚠️ 提示 19 ｜ 🔀 映射不一致 0"
+   "/opt/homebrew/Cellar/python@3.15/3.15.0/Frameworks/Python.framework/Versions/3.15/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/audit_structure.py': [Errno 2] No such file or directory"
   ]
  },
  {
@@ -827,12 +824,10 @@
    "notes/books/novels/wings-of-starlight-by-allison-saft"
   ],
   "head": "2e6a2f23b9ee",
-  "rc": 1,
-  "sha": "6bac062ffa764556",
+  "rc": 2,
+  "sha": "3a82bd5b98222302",
   "tail": [
-   "  ❌ ch27 awakening.md: 原句 3（md:33）在原文里位于原句 2 之前",
-   "  ❌ ch28 coronation.md: 原句 2（md:28）在原文里位于原句 1 之前",
-   "  ❌ ch28 coronation.md: 原句 5（md:54）在原文里位于原句 4 之前"
+   "/opt/homebrew/Cellar/python@3.15/3.15.0/Frameworks/Python.framework/Versions/3.15/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check_quote_order.py': [Errno 2] No such file or directory"
   ]
  },
  {
@@ -845,7 +840,7 @@
    "notes/books/novels/fabulous-bodies-by-chuck-tingle",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle/library/Fabulous Bodies (Chuck Tingle) (z-library.sk, 1lib.sk, z-lib.sk).epub"
   ],
-  "head": "b19185083e57",
+  "head": "fb8918c5b425",
   "rc": 0,
   "sha": "9d83e86ad9921936",
   "tail": [
@@ -864,7 +859,7 @@
    "notes/books/novels/fabulous-bodies-by-chuck-tingle",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle/library/Fabulous Bodies (Chuck Tingle) (z-library.sk, 1lib.sk, z-lib.sk).epub"
   ],
-  "head": "b19185083e57",
+  "head": "fb8918c5b425",
   "rc": 0,
   "sha": "7a5eda17ba990280",
   "tail": [
@@ -881,7 +876,7 @@
    "notes/books/novels/fabulous-bodies-by-chuck-tingle",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle/library/Fabulous Bodies (Chuck Tingle) (z-library.sk, 1lib.sk, z-lib.sk).epub"
   ],
-  "head": "b19185083e57",
+  "head": "fb8918c5b425",
   "rc": 0,
   "sha": "c496d0ed502e2bda",
   "tail": [
@@ -1002,7 +997,7 @@
    "scripts/bookform.py",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle"
   ],
-  "head": "b19185083e57",
+  "head": "fb8918c5b425",
   "rc": 0,
   "sha": "42f2894efac1cd3a",
   "tail": [
@@ -1017,11 +1012,147 @@
    "scripts/chapter.sh",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle/ch10 Date Night.md"
   ],
-  "head": "b19185083e57",
+  "head": "fb8918c5b425",
   "rc": 0,
   "sha": "f09e3e3d2b8d2dcb",
   "tail": [
    "  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。"
+  ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:structure-audit",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/structure.py",
+   "audit",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+   "--quiet"
+  ],
+  "head": "fb8918c5b425",
+  "rc": 0,
+  "sha": "955f2af82df63418",
+  "tail": [
+   "  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0"
+  ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:structure-keywords",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/structure.py",
+   "keywords",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle"
+  ],
+  "head": "fb8918c5b425",
+  "rc": 0,
+  "sha": "fca32d106e33cd34",
+  "tail": [
+   "  ⚠️ 提示·引语块 10 个，超出言情精简格式的 3–8配额（长篇按场景切块属常态；块结构权威见 audit_structure.py）",
+   "  ⚠️ 提示·引语块 11 个，超出言情精简格式的 3–8配额（长篇按场景切块属常态；块结构权威见 audit_structure.py）",
+   "  ⚠️ 提示·引语块 11 个，超出言情精简格式的 3–8配额（长篇按场景切块属常态；块结构权威见 audit_structure.py）"
+  ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:structure-anchor",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/structure.py",
+   "anchor",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle"
+  ],
+  "head": "fb8918c5b425",
+  "rc": 0,
+  "sha": "1daad0e19459aa93",
+  "tail": [
+   "  ❌ 凭空造词 0 处（词全书查无）",
+   "  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）"
+  ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:structure-order",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/structure.py",
+   "order",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle"
+  ],
+  "head": "fb8918c5b425",
+  "rc": 0,
+  "sha": "fa5b27362375f48c",
+  "tail": [
+   "=== 章内块序：16 个 md / 169 块，顺序或编号缺陷 0 章 ／ 不可判定 0 章 ==="
+  ]
+ },
+ {
+  "id": "finding-darla-by-vidhya-sathyamoorthy:structure-audit",
+  "book": "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+  "cmd": [
+   "python3",
+   "scripts/structure.py",
+   "audit",
+   "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+   "--quiet"
+  ],
+  "head": "b24907b12202",
+  "rc": 0,
+  "sha": "01b0c18faef2bd10",
+  "tail": [
+   "  ❌ 结构缺陷 0 ｜ ⚠️ 提示 3 ｜ 🔀 映射不一致 0"
+  ]
+ },
+ {
+  "id": "finding-darla-by-vidhya-sathyamoorthy:structure-keywords",
+  "book": "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+  "cmd": [
+   "python3",
+   "scripts/structure.py",
+   "keywords",
+   "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
+  ],
+  "head": "b24907b12202",
+  "rc": 0,
+  "sha": "cabc57acec2430b6",
+  "tail": [
+   "=== 引语块覆盖度：23 个 md，阻断型 0 处 ／ 提示型 0 处 ==="
+  ]
+ },
+ {
+  "id": "finding-darla-by-vidhya-sathyamoorthy:structure-anchor",
+  "book": "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+  "cmd": [
+   "python3",
+   "scripts/structure.py",
+   "anchor",
+   "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
+  ],
+  "head": "b24907b12202",
+  "rc": 0,
+  "sha": "e12fe0569e506c31",
+  "tail": [
+   "  ❌ 凭空造词 0 处（词全书查无）",
+   "  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）"
+  ]
+ },
+ {
+  "id": "finding-darla-by-vidhya-sathyamoorthy:structure-order",
+  "book": "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+  "cmd": [
+   "python3",
+   "scripts/structure.py",
+   "order",
+   "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
+  ],
+  "head": "b24907b12202",
+  "rc": 1,
+  "sha": "f5aadfa75be2e25f",
+  "tail": [
+   "  ❓ ch15 chapter 15 nandhini.md：引语展平后非唯一命中（pos=3988），该章不判",
+   "  ❌ ch16 chapter 16 darla.md: 编号不连续：[2, 3, 4, 5]",
+   "  ❓ ch22 chapter 22 nandhini.md：引语展平后非唯一命中（pos=11978），该章不判"
   ]
  }
 ]
