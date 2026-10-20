@@ -9,7 +9,7 @@ modified: "2026-10-20"
 
 **一句话概括**：伊薇特会谈后的星期一，露西绕开那个话题，带来一个「地上的平行运动」——**鼓励生育主义**（pronatalism）：硅谷的技术乐观主义者担心人口崩溃，用 IVF 冷冻胚胎、基因编辑排序胚胎、办「精英相亲」服务，宣称要造出一个注定优越的「选民」（Elect），其余人口终将变成「人 husk」。
 
-**信念弧线位置**：全书最尖锐的一次**镜像**。伊薇特说自己被选中、要把身体交出去；而露西描述的这个运动里的硅谷人，正在自愿地、有计划地做同一件事——把身体变成工程。而马瑟的追问「特权者是否不该享受进口商品」，正是他在第 1–9 章里反复提出的道德问题。
+**信念弧线位置**：全书最尖锐的一次**镜像**。伊薇特说自己被选中、要把身体交出去；而露西描述的这个运动里的硅谷人，正在自愿地、有计划地做同一件事——把身体变成工程。而马瑟在这一章里的追问（露西与海伦娜关于「特权者」的一段），正是他此前反复提出的那种道德问题——**他的位置在伦理上被推到了对面**。
 
 **母题兑现/反转**：母题的最完整镜像——地上版的「捕获计划」。而露西那句「全是关于死亡……不过换了个说法：是为了地球」，直指这套运动的真实驱动。
 
@@ -25,7 +25,7 @@ modified: "2026-10-20"
 
 **关键词**：there is a parallel movement going on now / an earthly one
 
-**为什么这样写**：露西的第一个词就是「平行」（parallel），而她**没有说**平行于什么——这是她的表达方式：不提伊薇特，只让读者自己连线。而「地上的」（earthly）一词把读者立刻带向「天上的」那一方。
+**为什么这样写**：露西的第一个词就是「平行」（parallel），而她**先不说**平行于什么——她反问了一句「平行于什么？」，然后才给出答案：「外星繁育」（Alien breeding）。这是她的表达方式：先让读者自己连线，再落槌。而「地上的」（earthly）一词把读者立刻带向「天上的」那一方。
 
 **读者视角提示**：请注意这一章从一开始就不提伊薇特的名字。露西的谨慎本身就是一种尊重——她没有把同事的来访当成可消费的谈资。
 
@@ -49,9 +49,9 @@ modified: "2026-10-20"
 
 **关键词**：They are worried about demographic collapse / Forget global warming / the declining birthrate is the big one
 
-**为什么这样写**：这一句把本书的两条危机线并置：第七与第十五章反复出现的地球濒死画面（燃烧的地球、干涸的河流），在这里被一句「别提全球变暖」压了下去。而这正是这本书里最大的一个**盲区**：真正的危机被换成了另一项可量化的指标。
+**为什么这样写**：这一句把本书的两条危机线并置：**第七章**那个地球濒死画面（燃烧的地球、核爆、干涸的河流），在这里被一句「别提全球变暖」压了下去。而这正是这本书里最大的一个**盲区**：真正的危机被换成了另一项可量化的指标。
 
-**读者视角提示**：请注意「人口崩溃」（demographic collapse）这个词——它与第十三章那个「人口会崩溃」的担心是同一件事的两面，只是这边说的是国家、那边说的是个体。
+**读者视角提示**：请注意「人口崩溃」（demographic collapse）这个词——它与**这一章**后面「个体」那一面是同一件事的两面：一边是国家，一边是个人。
 
 ---
 
@@ -75,7 +75,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：作者用一个**流行病学**的比喻来描述人口问题（瘟疫、百分之九十），而这正是第 19 章伊薇特那套说辞的结构——都是把人类困境描述成需要**工程手段**解决的问题。而「无童区」（child-free zones：咖啡馆、图书馆）这半句极冷：人们已经开始建造空间来让某些人离开。
 
-**读者视角提示**：请注意「无童区」这个概念与第十六章那间咖啡馆的关系——那里坐着一个白化病女孩和一圈低头看手机的人。
+**读者视角提示**：请注意「无童区」这个概念与**第六章**那间咖啡馆的关系——那里坐着一个白化病女孩和一圈低头看手机的人。
 
 ---
 
@@ -117,13 +117,13 @@ modified: "2026-10-20"
 
 > **原句 9:** "‘Well, technophiles tend to be optimists, Jim. It’s about finding the right formula. The need is not just for more people, but people bred from an elite with high IQs. They plan to have as many children as possible during their fertility span—Elon Musk has fourteen—and raise them in the hope that each child will commit to having at least eight children of their own, and so on. After eleven generations these pronatalist bloodlines will outnumber all other humans on the planet. If they can achieve this, they can save the species.’"
 
-**中文理解**：「嗯，技术乐观主义者往往都是乐观主义者，吉姆。关键在于找到正确的配方。他们需要的不仅更多的人，而是从高智商精英中繁育出来的人。他们打算在自己的生育年限内尽可能多地生孩子——埃隆·马斯克有十四个——并养育他们，希望每个孩子至少承诺生八个自己的孩子，如此下去。十代之后，这些鼓励生育的血脉将超过地球上所有其他人类。如果他们能做到这一点，他们就能拯救这个物种。」
+**中文理解**：「嗯，技术乐观主义者往往都是乐观主义者，吉姆。关键在于找到正确的配方。他们需要的不仅更多的人，而是从高智商精英中繁育出来的人。他们打算在自己的生育年限内尽可能多地生孩子——埃隆·马斯克有十四个——并养育他们，希望每个孩子至少承诺生八个自己的孩子，如此下去。**十一代**之后，这些鼓励生育的血脉将超过地球上所有其他人类。如果他们能做到这一点，他们就能拯救这个物种。」
 
 **关键词**：technophiles tend to be optimists / It’s about finding the right formula / not just for more people, but people bred from an elite with high IQs / Elon Musk has fourteen / each child will commit to having at least eight children of their own / After eleven generations these pronatalist bloodlines will outnumber all other humans / they can save the species
 
-**为什么这样写**：作者用**算术**写这一段：十四个、八个、十代——一个指数增长的模型。而它与第十五章费莉西蒂讲的「延寿逃逸速度」是同一种数学（每年增加一年，理论上可以永生）。只是这里增长的不是寿命，而是**人口**。
+**为什么这样写**：作者用**算术**写这一段：十四个、八个、**十一代**——一个指数增长的模型（原文是 After eleven generations）。而它与第十五章费莉西蒂讲的「延寿逃逸速度」是同一种数学（每年增加一年，理论上可以永生）。只是这里增长的不是寿命，而是**人口**。
 
-**读者视角提示**：请注意「十代之后超过所有其他人类」这个结论——这是一个**纯数量**的胜利宣言，没有一个字提到质量。而「save the species」（拯救物种）与伊薇特那句「他们想要我们这个物种有东西剩下」几乎逐字相同。
+**读者视角提示**：请注意「**十一代**之后超过所有其他人类」这个结论——这是一个**纯数量**的胜利宣言，没有一个字提到质量。而「save the species」（拯救物种）与伊薇特那句「他们想要我们这个物种有东西剩下」几乎逐字相同。
 
 ---
 
@@ -169,7 +169,7 @@ modified: "2026-10-20"
 
 **关键词**：they say they’ve invented a scientific religion / a secular form of Calvinism or techno-puritanism / replaced Christmas Day with Future Day
 
-**为什么这样写**：作者把一场科技运动写成一个**宗派**，而那个细节（把圣诞节换成「未来日」）既好笑又准确——一种把时间轴本身神圣化的仪式。读者也立刻会想起第十九章伯纳德：「你回到源头了吗？」——而这套新宗教崇拜的是**后代**。
+**为什么这样写**：作者把一场科技运动写成一个**宗派**，而那个细节（把圣诞节换成「未来日」）既好笑又准确——一种把时间轴本身神圣化的仪式。读者也立刻会想起**第十四章伯纳德**那句「源头，一切的源头」（The source, the source of everything）——而这套新宗教崇拜的是**后代**。
 
 **读者视角提示**：请把「未来日」与第十五章那句「比从一池子细菌开始要好听」并读：两者都在给同一个「我们从哪来」的问题提供答案。
 
@@ -181,7 +181,7 @@ modified: "2026-10-20"
 
 **关键词**：if you get the eugenics right / then you create a predestined Elect / The rest of the population that doesn’t come up to scratch / will eventually become human husks / Winnowed out
 
-**为什么这样写**：这一段是全书最冷的一处对照，因为「选民」（Elect）正是第十四章伯纳德用过的词——在宗教语境里它是蒙福者，在这里它是**被筛选出来的优良血统**。而「human husks」（人的空壳）这个说法，与**第十九章**伊薇特那句「我的身体没有忘记」形成了两个极端：一边是身体成为空壳，一边是身体记住了自己被改造。
+**为什么这样写**：这一段是全书最冷的一处对照，因为「选民」（Elect）这个词在本书里是**露西这一章才第一次出现**的——它在宗教语境里指蒙福者，在这里指的是**被筛选出来的优良血统**。而「human husks」（人的空壳）这个说法，与**第十九章**伊薇特那句「我的身体没有忘记」形成了两个极端：一边是身体成为空壳，一边是身体记住了自己被改造。
 
 **读者视角提示**：请把「人 husk」与第十九章那句「他们没有把我重新拼回原来的样子」并读。这本书用整整一章讲了身体被拆开，然后在这里宣布：大部分人终将如此。
 

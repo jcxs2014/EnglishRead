@@ -63,7 +63,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：梦的下半段把「付出」写成**剥皮**：而鳞片、半人半兽这个形象，让「为他人奉献」这件事同时显得恶心与必要。而结尾的「全身酸痛，吃了止痛药」——一个疲惫的单亲妈妈的生理实况——与马瑟的脊背痛形成镜像：**两个人在同一具身体上互相映照**。
 
-**读者视角提示**：请注意「半人半兽」（half-human, half-animal）这个描述。它与第四章玛丽被外星人取走卵巢后「我不再是原来的我」，以及第十一章卢卡的「像我没有身体，可我在那儿」，构成全书一组关于「非人化」的三联。
+**读者视角提示**：请注意「半人半兽」（half-human, half-animal）这个描述。它与**第七章玛丽**被外星人取走卵巢后「我不再是原来的我」，以及**第十一章斯科特**的「像我没有身体，可我在那儿」，构成全书一组关于「非人化」的三联。
 
 ---
 
@@ -97,7 +97,7 @@ modified: "2026-10-20"
 
 **关键词**：A constraint? A limitation? A demand for a difficult form of balance?
 
-**为什么这样写**：三个问句像医生在列举鉴别诊断——而「一种对高难度平衡的要求」这个说法把她的处境说成了**一种特技**，正好接上第十一章斯科特那句「我需要测试我的极限」。马瑟在这里又一次无意识地用了飞行员的语言框架。
+**为什么这样写**：三个问句像医生在列举鉴别诊断——而「一种对高难度平衡的要求」这个说法把她的处境说成了**一种特技**，正好接上**第四章安东尼**那句「我需要测试我的极限」。马瑟在这里又一次无意识地用了飞行员的语言框架。
 
 **读者视角提示**：请注意这三个词全部是**心理学术语**（约束、限制、平衡）。这就是马瑟的默认语言。
 
@@ -135,7 +135,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：这一段是全书**伦理上最讲究**的一段：马瑟手里握着一个能让他自己更了解数据的追问（那些牌子里有没有我的指令），而他放弃了，理由不是回避而是**时机**——「不在被这个梦的情绪气氛染色的时间与地点」。一个精神科医生主动管理自己提问的时机，这既是专业，也是体贴。
 
-**读者视角提示**：请注意这与第三章他对安东尼「不允许自己作反应」是同一种自律；但那次是为了取证，这次是为了不伤害对方。
+**读者视角提示**：请注意这与**第四章**他对安东尼「不允许自己作反应」是同一种自律；但那次是为了取证，这次是为了不伤害对方。
 
 ---
 
@@ -181,7 +181,7 @@ modified: "2026-10-20"
 
 **关键词**：The figures are armoured / with robotic features and outsized bodies but very small heads / I recognise them as Transformers / Griffin had owned several / heroes and villains presenting in harmless camouflage as cars and a variety of other vehicles
 
-**为什么这样写**：作者用「无害的伪装」（harmless camouflage）这半句，把「变形」这个动作写成了潜伏——而「身体巨大、脑袋很小」这个比例暗示的正是**机器与人的错位**。而格里芬的名字在这里出现，把这章与上一章（面包）接上了：父亲的书架上也有过这些。
+**为什么这样写**：作者用「无害的伪装」（harmless camouflage）这半句，把「变形」这个动作写成了潜伏——而「身体巨大、脑袋很小」这个比例暗示的正是**机器与人的错位**。而格里芬的名字在这里出现，把这章与**第十三章（面包）**接上了：父亲的书架上也有过这些。
 
 **读者视角提示**：请记住「无害的伪装」这个说法。外星访客如果伪装成日常器物（汽车、飞机），那它们出现在哪里就不奇怪了。
 
@@ -237,7 +237,7 @@ modified: "2026-10-20"
 
 > **原句 19:** "I remember how charmless I thought the name Autobot was for heroes, and recall being struck, when Griffin was a boy, by how closely the tale resembled the Biblical story of Lucifer’s rebellion and his battle with the Archangel Michael."
 
-**中文理解**：我记得自己当年觉得「汽车人」这个名字配英雄实在不夠好；也记得格里芬还是男孩时，我被这个故事与《圣经》中路西法叛乱、以及他与大天使米迦勒的战斗之间的相似所震动。
+**中文理解**：我记得自己当年觉得「汽车人」这个名字配英雄实在不够好；也记得格里芬还是男孩时，我被这个故事与《圣经》中路西法叛乱、以及他与大天使米迦勒的战斗之间的相似所震动。
 
 **关键词**：how charmless I thought the name Autobot was for heroes / being struck, when Griffin was a boy / how closely the tale resembled the Biblical story / Lucifer’s rebellion and his battle with the Archangel Michael
 
@@ -253,9 +253,9 @@ modified: "2026-10-20"
 
 **关键词**：absorbed in a high-tech version of the Book of Revelation / stripped of its scriptural origins / a single genesis story of manhood / mutating into endless forms / in the modern version, angels have become machines
 
-**为什么这样写**：全书最浓缩的一句评论——「在现代版本里，天使变成了机器」。它既是宗教史的观察，也是本书的自我描述：外星人就是被机器化的天使。而「人的单一创世故事」这个说法，与第十一章马瑟讲的「我只需要讲我自己的故事」形成呼应。
+**为什么这样写**：全书最浓缩的一句评论——「在现代版本里，天使变成了机器」。它既是宗教史的观察，也是本书的自我描述：外星人就是被机器化的天使。而「人的单一创世故事」这个说法，与**第三章**马瑟讲的「我希望能把它们理出个所以然」（my hope is to make sense of them）形成呼应。
 
-**读者视角提示**：请把这句和第三章那句「我希望能把它们理出个所以然」放在一起：这本书也是一种「把天使机器化」的尝试。
+**读者视角提示**：请把这句和**第四章**那句「我希望能把它们理出个所以然」放在一起：这本书也是一种「把天使机器化」的尝试。
 
 ---
 

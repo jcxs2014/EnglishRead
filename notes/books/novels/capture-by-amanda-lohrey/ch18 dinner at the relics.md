@@ -93,7 +93,7 @@ modified: "2026-10-20"
 
 > **原句 7:** "His account ranges from splinters of the cross of Jesus’ crucifixion (improbable) to the five-hundred-year-old mummified arm of the co-founder of the Jesuit order, Francis Xavier. This severed limb, permanently displayed in a gold case in the Church of the Gesu in Rome, at least has some provenance."
 
-**中文理解**：他的叙述从耶稣受难十字架上的一小片木头（不大可能）一直讲到耶稣会创始人之共济会创始人圣方济各·沙勿略那具五百年历史的木乃伊手臂。这条被切下的肢体，如今永久陈列在罗马耶稣会总教堂的一个金匣里——至少，它是有**出处**的。
+**中文理解**：他的叙述从耶稣受难十字架上的一小片木头（不大可能）一直讲到**耶稣会（Jesuit order）共同创始人**圣方济各·沙勿略那具五百年历史的木乃伊手臂。这条被切下的肢体，如今永久陈列在罗马耶稣会总教堂的一个金匣里——至少，它是有**出处**的。
 
 **关键词**：His account ranges from splinters of the cross of Jesus’ crucifixion (improbable) / to the five-hundred-year-old mummified arm / of the co-founder of the Jesuit order, Francis Xavier / This severed limb, permanently displayed in a gold case / in the Church of the Gesu in Rome / at least has some provenance
 
@@ -111,7 +111,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：作者让一件圣物同时出现在**餐桌**与**历史**里：木乃伊手臂落在生菜与鱼骨之间。而「罗马的什一税」（Rome's tithe）这个冷硬的总结，把一件宗教圣物还原成一笔**税收与分配**——权力从信徒手里取走身体的一部分。
 
-**读者视角提示**：请把这一段与第四章玛丽被取走卵巢、第十一章斯科特被抽走记忆并读：身体部分被取走、运走、分配——在人类历史上，这也发生过。
+**读者视角提示**：请把这一段与**第七章玛丽**被取走卵巢、第十一章斯科特被抽走记忆并读：身体部分被取走、运走、分配——在人类历史上，这也发生过。
 
 ---
 
@@ -147,7 +147,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：马瑟的回答是全章唯一一次**为物的自主性辩护**——而作者立刻用特罗伊的一句俏皮话把它降级（审美取决于你怎么看水钻）。这句轻描淡写其实正好是后面马瑟论证的**雏形**：若物可以承载人的灵魂，那么飞船上留下的东西也该有它自己的分量。
 
-**读者视角提示**：请注意马瑟说这句话时的对象是特罗伊（谈水钻），而不是赫克托（谈圣物）——他答错了问题。
+**读者视角提示**：请注意马瑟说这句话时的对象是**赫克托**（谈圣物）——他答的是赫克托那个「What are they paying for?」，答得漂亮；**紧接着**特罗伊才用一句「那你怎么看水钻呢」把它降级（见下）。
 
 ---
 
@@ -195,7 +195,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：这一段把「遗物」推到极限：连身体都不需要了，只要一份授权。而那句「谁还需要一具身体」（Who needs a body?）在全章的语境里有一层残酷的反讽——本书讲的正是**身体被取走**的人（安东尼、玛丽、斯科特）。而这句俏皮话出自一位**档案馆馆长**，一个以保存原件为业的人。
 
-**读者视角提示**：请把「谁还需要一具身体」这句与第十一章卢卡的「像我没有身体，可我在那里」并读。一个是玩笑，一个是幻象，而它们说的是同一件事。
+**读者视角提示**：请把「谁还需要一具身体」这句与**第十一章斯科特**的「像我没有身体，可我在那里」并读。一个是玩笑，一个是幻象，而它们说的是同一件事。
 
 ---
 
@@ -229,7 +229,7 @@ modified: "2026-10-20"
 
 **关键词**：Dinner at Hector’s has, however, planted an idea in my mind / namely that I might solicit the views of a theologian / After all, I have consulted a folklorist.
 
-**为什么这样写**：一句轻巧的收束，而它的结构很漂亮：**民俗学家已经请过了**（费莉西蒂）——那神学家自然也该请一个。这既是逻辑，也是作者对读者的轻轻一推：下一章会是一位神学家。
+**为什么这样写**：一句轻巧的收束，而它的结构很漂亮：**民俗学家已经请过了**（费莉西蒂）——那神学家自然也该请一个。这既是逻辑，也是作者对读者的轻轻一推：**下一章会是一位体验者**（伊薇特）；而真正的那位神学家要到**第二十四章**才登场。
 
 **读者视角提示**：请注意「种下一个念头」（planted an idea）这个被动式——想法不是他产生的，是那场晚宴**种**在他身上的。
 

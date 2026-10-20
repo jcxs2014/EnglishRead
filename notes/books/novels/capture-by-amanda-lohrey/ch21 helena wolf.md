@@ -177,7 +177,7 @@ modified: "2026-10-20"
 
 **关键词**：Even the histrionic Yvette has in retrospect grown on me / as a magnificent grotesque / as impressive a specimen of fantastic self-invention as ever I have encountered
 
-**为什么这样写**：三天前他还说「我把她归为癔症型自恋者」，现在他改口了：她成了一个「了不起的怪诞」。而「想象性自我创造」（fantastic self-invention）这个评价，正是海伦娜那句「自我造艺」的马瑟版。
+**为什么这样写**：他此前还说「我把她归为癔症型自恋者」，现在他改口了：她成了一个「了不起的怪诞」。而「想象性自我创造」（fantastic self-invention）这个评价，正是海伦娜那句「自我造艺」的马瑟版。
 
 **读者视角提示**：请注意「事后看来」（in retrospect）——马瑟在**修正**自己的判断，而修正的方向是往对方那边。
 
@@ -191,7 +191,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：海伦娜问的是**他这个人**的状态，而他的回答从「不安」滑到了「徒劳」。这是全书最精确的一次自我评估：他不怕自己错了，他怕的是这一切**没有用**。
 
-**读者视角提示**：请记住「徒劳」（futile）。这是马瑟全书里最悲观的四个字母。
+**读者视角提示**：请记住「徒劳」（futile）。这是马瑟全书里最悲观的**六个字母**。
 
 ---
 
@@ -213,7 +213,7 @@ modified: "2026-10-20"
 
 **关键词**：It’s legal there / you get local shamans who are plant specialists / It’s all that stuff about indigenous wisdom / a gesture of resignation that is unlike her / at least her father will be there with her
 
-**为什么这样写**：作者让**海伦娜**说出「原住民智慧」这套话，而且用的是**贬义**的语气——因为她刚刚在第十五章那场关于民俗与科学的辩论里输过。而那句「至少她父亲会陪着她」是全章最沉的一句：它承认这套治疗毫无意义，只求有人在场。
+**为什么这样写**：作者让**海伦娜**说出「原住民智慧」这套话，而且用的是**贬义**的语气——因为她刚刚在**这一章**那场关于民俗与科学的辩论里输过（「这是民俗，不是科学」——「确实」）。而那句「至少她父亲会陪着她」是全章最沉的一句：它承认这套治疗毫无意义，只求有人在场。
 
 **读者视角提示**：请把「有人陪着」与本书的母题并读——本书里所有遭遇者都缺一个**在场**的人。
 

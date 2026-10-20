@@ -73,7 +73,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：作者用**火与电**给这一章定调：黑云、烧焦的管子、烧黑的窗台。而「这座城还在制造东西的年代」这半句把地点接回了本书的另一条线——第三章里那个少年在农场长大、父亲叫他「煮牛奶」的时代；这里就是那个时代的遗址。
 
-**读者视角提示**：注意「工业特区」（industrial precinct）——第九章那对旧情人的幽会也在「工业区附近一家廉价旅馆」。这本书的城市有连续的地理。
+**读者视角提示**：注意「工业特区」（industrial precinct）——**第十五章**那对旧情人（马瑟与费莉西蒂）的幽会也在「工业区附近一家廉价旅馆」。这本书的城市有连续的地理。
 
 ---
 
@@ -117,7 +117,7 @@ modified: "2026-10-20"
 
 **关键词**：two even rows of dark-navy massage mats / separated by white rice-paper screens at waist height / I see him, Maxim, or rather I see his reflection in a bamboo-framed mirror / absorbed in sorting papers / He looks up. ‘James?’
 
-**为什么这样写**：作者用**镜子**完成了介绍：马瑟先看到的是倒影，而不是人。这与第十五章费莉西蒂那句「她已经用镜子打量过我」互相呼应——而这一次，倒影里的男人正低头整理文件，一个精神科医生在候诊。
+**为什么这样写**：作者用**镜子**完成了介绍：马瑟先看到的是倒影，而不是人。这与**第一章**咖啡馆那面意大利黄铜镜、以及**第十一章**斯科特说的「mirroring me」（他感觉自己被映照）互相呼应——而这一次，倒影里的男人正低头整理文件，一个精神科医生在候诊。
 
 **读者视角提示**：注意「宣纸屏风」（rice-paper screens）：它把长 room 分成一个个格子——一种**分诊**的视觉语言。
 
@@ -240,9 +240,9 @@ modified: "2026-10-20"
 
 **关键词**：Because it’s jitsu / In excess / Too much energy focused there when it needs to be dispersed throughout the body / For balance
 
-**为什么这样写**：作者借这套体系说了一句全书的核心命题：**能量必须分散**——而这句话听起来像是对「一心一意」的生活的批判。而「为了平衡」（for balance）这半句，又与第十六章马瑟自己那句「维持那些他不想让它退化的技能」遥遥相对。
+**为什么这样写**：作者借这套体系说了一句全书的核心命题：**能量必须分散**——而这句话听起来像是对「一心一意」的生活的批判。而「为了平衡」（for balance）这半句，又与**第十一章斯科特**那句「维持那些他不想让它退化的技能」（maintaining skills that he didn't want to atrophy）遥遥相对。
 
-**读者视角提示**：请把「为了平衡」与第十六章那句并读。这一章他被教导的，正是他自己身上那套「维持」的逻辑。
+**读者视角提示**：请把「为了平衡」与**第十一章**那句并读。这一章他被教导的，正是他自己身上那套「维持」的逻辑。
 
 ---
 > **原句 21:** "‘Literally translated, it means the principle of touching. Skinship.’ He begins to press down again. ‘Actually it means more than that. It means touching without judgment.’"
@@ -253,7 +253,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：全书最讽刺的一处：**触碰**在日式身体文化里意味着最亲密的接触，而它被定义为「不带评判的触碰」——然而手已经在做诊断。评判根本无法被剥离出触碰，因为评判就发生**经由**触碰。
 
-**读者视角提示**：请把「不带评判的触碰」与第十九章伊薇特那句「他们不评判我」、以及第六章露西那句「让他们觉得不会被评判」并读。这本书反复处理的核心是「被看见而不被判决」。
+**读者视角提示**：请把「不带评判的触碰」与**第六章**那句「让他们觉得不会被评判」（a story long concealed for fear of adverse judgment）、以及**第二十三章**露西自己的「不评判」并读。这本书反复处理的核心是「被看见而不被判决」。
 
 ---
 > **原句 22:** "‘But you have judged me.’"
@@ -275,7 +275,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：马克西姆的回答干脆得漂亮：是的，我评判了，而且我拒绝为此道歉。而这正是第十九章马瑟自己做的事——他把伊薇特归为「癔症型自恋者」时用的也是同一套修辞。
 
-**读者视角提示**：请注意这段对话的镜像结构：马瑟一生都在对别人说「那是诊断」，而第二十章那句「我把她归为癔症型自恋者」正是这句话的回声。
+**读者视角提示**：请注意这段对话的镜像结构：马瑟一生都在对别人说「那是诊断」，而**第十九章**那句「我把她归为癔症型自恋者」正是这句话的回声。
 
 ---
 > **原句 24:** "‘You know Lucy Cheng.’ My words come out of nowhere, but the thought has been awaiting its moment. … ‘Yes, she did one of my courses once. She was gifted but gave it up. That sometimes happens. Just because you’re good at something doesn’t mean you’re meant to do it.’"
@@ -296,7 +296,7 @@ modified: "2026-10-20"
 
 **关键词**：this stranger and I have merged into a duet of bodies on a mat / almost a still life but for the incessant pressure of his hands / And the mat is important / it’s important to be on the floor
 
-**为什么这样写**：作者把一次按摩写成一幅**静物画**——而「二重奏」这个词立刻又把它变成音乐。作者还在此埋下全书的一个关键动作：**在地板上**。而「这是它重要的原因」这半句会在第二十三章兑现：当他的方法论被彻底否定后，露西给他的建议是留在**地板上**。
+**为什么这样写**：作者把一次按摩写成一幅**静物画**——而「二重奏」这个词立刻又把它变成音乐。作者还在此埋下全书的一个关键动作：**在地板上**。而这一段埋下的**在地板上**会在第二十三章兑现：当他的方法论被彻底否定后，露西给他的建议是留在地板上（原文是 And the mat is important; it's important to be on the floor.）。
 
 **读者视角提示**：请记住「在地板上很重要」。第二十三章会把它翻过来。
 
@@ -310,7 +310,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：全书唯一一次用**听觉**写身体的改变：脊椎那声「耳语般的咔哒」（whispering click）。整章都是手掌与压力，而治疗的结果只是一个声音——像一句话被轻轻地说了出来。
 
-**读者视角提示**：请注意「他比我高大」的错位：一个更小的身体从背后完全罩住了马瑟。这是全书少见的、被**别人**占上风的场面。
+**读者视角提示**：请注意「**我**比他高大宽壮」（Though I am taller and broader than him）的错位：一个更小的身体从背后完全罩住了马瑟。这是全书少见的、被**别人**占上风的场面。
 
 ---
 
@@ -353,7 +353,7 @@ modified: "2026-10-20"
 
 **关键词**：I push at the red metal fire door / which now offers little resistance / I walk out into the warm, wet street
 
-**为什么这样写**：章末用一个**对称**收束：进来时那扇门「即使对我这样身量的人也算费力」，出去时它「几乎没有阻力」。中间的三个小时改变的不只是他的背。
+**为什么这样写**：章末用一个**对称**收束：进来时那扇门「即使对我这样身量的人也算费力」，出去时它「几乎没有阻力」。中间那段时间（原文只说「It must have been a while」）改变的不只是他的背。
 
 **读者视角提示**：请把「几乎没有阻力」这半句记住——这本书里的门一直在变轻，而这一扇是全书最贵的一道门。
 
