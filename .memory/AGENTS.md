@@ -7,45 +7,21 @@ metadata:
 
 # EnglishRead 记忆索引
 
-> 本文件 = **记忆索引**（不包含规则内容，规则见根 AGENTS.md 和 docs/新书启动模板.md）。
-> 新会话读取顺序：system-reminder → docs/新书启动模板.md → 根 AGENTS.md。
-
-## 架构说明：为什么规则留在根 AGENTS.md 而不是本文件
-
-> **结论先行**：执行规则必须留在根 AGENTS.md。本文件只承担"记忆索引"角色。
-
-**加载机制**：根 AGENTS.md 通过 system-reminder 被注入会话上下文（harness 固定行为，不可配置）——但**只注入到预算上限，不是全文**（实测预算 ≈8,000 字符且随会话浮动，见下条「长度与迁移」）。
-
-⚠️ **2026-09-30 更正（本条此前自相矛盾）**：原句前半写「实测它（`.memory/AGENTS.md`）同样被 system-reminder 注入」、后半又写「不在这个加载路径上，需要主动 Read」——**同一句话里两个相反结论**，读者无从取用。**实测证据**：2026-09-27 的截断轮次里它与根 AGENTS 一同出现过；但 2026-09-30 的两轮会话里**均未见它被注入**。⇒ **注入与否随会话浮动，不可假定**。**处置：一律按「需主动 Read」对待**（与 `docs/新书启动模板.md` 同等），启动指令已把它列入必读清单。
-
-把"精读格式/提交门禁/引语逐字规则"搬到 memory 意味着这些执行规则可能不在上下文里，等于丢失。
-
-**三个文件的分工**：
-- **根 AGENTS.md** = 执行规则（"必须怎么做"）—— 格式、门禁、引语规则、git 策略。每次作业都须遵守；⚠️ **但自动注入只覆盖文件前段**（实测预算 4,882–8,009 字符，随会话浮动），**不可假定全文可见**——2026-09-30 已把四条 git 红线前移到文件顶部，即为此
-- **docs/新书启动模板.md** = 新书开工入口（执行规则速查 + 历史坑表）—— 通过 system-reminder 摘要或用户指令加载
-- **.memory/AGENTS.md** = 记忆索引（本文件，"之前发生过什么"）—— 各书完工记录、经验教训、跨书互证坑位。⚠️ **2026-09-27 更正**：原称本文件承担「工具盲区速查」——**本文件无该节**，已随重构迁至 `docs/实测档案/工具链实测.md`（根 AGENTS 工具表有指针）。跨会话积累，按需主动 Read
-
-**长度与迁移**：去重收口仍是第一手段（已收敛 `00_*.md` 重复、9f/10d 重复）。⚠️ **2026-09-27 更正**：本条原写「**不靠搬走内容**」——但当根 AGENTS 涨到 100,670 B 时，**唯一有效的处置就是把案例性长块逐字迁入 `docs/实测档案/`（12 个文件 / 84 KB）**。只去重不迁移，跨不过注入上限。
-
-⚠️ **2026-09-30 更正（尺子本身错了）**：本条原写「**超出 65,536 B 注入预算**」——**口径错误**。实测注入预算是**约 8,000 字符、且随会话浮动**（三次观测 **4,882 / 7,995 / 8,009 字符**）。`wc -c` 报的字节数在中文下约为字符数的 **1.88 倍**，两个口径混用会把真实上限看**松约 4 倍**——这正是 2026-09-29 重构建成「降到 27 KB、余量 58%」却仍有一半规则进不了上下文的原因。
-⇒ **凡涉及「注入体积」，一律用字符数**（`len(open(f, encoding='utf-8').read())`），**禁用 `wc -c` 的字节数当上限**；字节数只在 `wc -c` 用于 git/文件系统层面时才有意义。完整实测与处置见根 `AGENTS.md` 顶部说明与 `docs/规则文档结构调整方案.md` §8。
-
-**引用完整性**：模板、脚本、协作板大量引用"AGENTS.md 第 9/10 条"——迁移会破坏交叉引用链。
-
-**怎么判断一条信息该放哪**：
-- 如果删掉它，新会话开工会不知道怎么干活 → 放根 AGENTS.md
-- 如果删掉它，只是少了"上次怎么踩坑"的参考 → 放本文件
-
-
+> 本文件 = **记忆索引**（不存规则正文）。规则正文在 `docs/rules/`，书级编排在 `docs/新书启动模板.md`，重构进度在 `docs/rules/PLAN.md`。
+> 新会话读取顺序：system-reminder → `docs/rules/创建卡.md`（要写章时）→ 本文件（查历史）。
 
 ## 核心规则文档
 
-| 文档 | 位置 | 用途 |
-|------|------|------|
-| 精读执行规则 | `AGENTS.md`（根目录） | 完整执行规则（格式/门禁/工具链/git 策略） |
-| **新书启动模板** | `docs/新书启动模板.md` | **每本新书开工前必读**，含执行规则速查 + 历史坑表 |
-| 协作消息板 | `COLLABORATION.md` | 跨 IDE 实时消息（newest first，**按完工时间排**） |
-| **发消息规范** | `docs/协作板更新指令.md` | **板与工作日志的硬门禁**，2026-09-28 起取代「自己声明身份」的旧纯规则 |
+| 文档 | 位置 | 什么时候读 |
+|------|------|-----------|
+| **写作规则（唯一入口）** | `docs/rules/创建卡.md` | **写任何一章之前**（3 KB） |
+| 门禁与四档处置 | `docs/rules/20-gate.md` | 提交前跑 `bash scripts/gate.sh` 时 |
+| 审查流程 | `docs/rules/审查表.md` | 审查一本书时（R0–R5） |
+| 写作细则 8.1–8.5 | `docs/rules/30-writing.md` | 引语/词汇/结构出问题时 |
+| 引语修复同步 | `docs/rules/11-fix-sync.md` | 改过引语之后 |
+| 书级编排 0–9 | `docs/新书启动模板.md` | 开一本新书时 |
+| 重构进度与台账 | `docs/rules/PLAN.md` · `MIGRATION.md` | 改规则文档之前 |
+| 协作消息板 | `COLLABORATION.md` · `docs/协作板更新指令.md` | 发板 / 写日志时 |
 
 ## 发协作板 / 工作日志消息
 
@@ -57,10 +33,11 @@ metadata:
 一条备忘：**板消息上限按「追加后的整条」算**（完工那条已占掉一半额度），
 审查结论撑破时用 `--replace` 把完工+审查合并压缩后整体重写，完工时间不动、两段都要保留。
 
+
 ## tracked 门禁脚本索引
 
-> 权威用法与**已知盲区**以根 `AGENTS.md` 的「配套工具链」与「工具已知盲区速查」
-> 两表为准；此处只作跨会话记忆的快速定位。`scripts/attic/` 是 gitignored 的
+> 权威用法与**已知盲区**以 `docs/实测档案/工具链实测.md` 与 `docs/rules/20-gate.md` 为准；
+> 此处只作跨会话记忆的快速定位。`scripts/attic/` 是 gitignored 的
 > 一次性脚本区，**不在门禁内**，不要引用其结论。
 
 | 脚本 | 一句话职责 | 关键前提 / 盲区速记 |
@@ -90,11 +67,12 @@ metadata:
 | `vocab_candidates.py` | **生产工具**（非检测）：从 `text/` 打出可粘贴的三档表格行 | **写词表的默认入口**——它替代的动作是「凭印象写词条」；敢输出「本章 0 条高级」，**某档不足就留空，不许为凑满从记忆里补** |
 
 
-> **本节即脚本表的唯一权威来源**（2026-09-27：原「## 工具链」节是本节的**严格子集**（8/22、无独有项），已删——两份清单记同一件事必然漂移）；完整用法与盲区见根 AGENTS「配套工具链」表与 `docs/实测档案/工具链实测.md`。
+> **本节即脚本表的唯一权威来源**（2026-09-27：原「## 工具链」节是本节的**严格子集**（8/22、无独有项），已删——两份清单记同一件事必然漂移）；完整用法与盲区见 `docs/实测档案/工具链实测.md`；历史工具链表见 `docs/实测档案/Y_2026-10-20_启动模板拆分归档.md`。
+
 
 ## 记忆归档分层（`.memory/` 下）
 
-> 🚦 **中间文档红线（2026-10-11 用户拍板，唯一副本在根 `AGENTS.md` 第 10 条末）**：
+> 🚦 **中间文档红线（2026-10-11 用户拍板，唯一副本见 `docs/rules/审查表.md` 附录 A 末（原 AGENTS 第 10 条））**：
 > 审查/完工过程**只允许** `.memory/raw-gates/<书 slug>/` 落盘入库；
 > **禁止**在 `.memory/reviews/`、`.memory/progress/`、`.memory/metro-specs/` 或任何类似
 > 「审查报告/进度/元数据规格」目录落盘或提交文件（含子代理任务书、交付报告、事实底稿、审查清单、元数据 JSON）
@@ -114,147 +92,19 @@ metadata:
 > ⚠️ 也不要用 `.tmp_spot/`：该目录已于 2026-10-01 删除并进 `.gitignore`；
 > 规范承认的一次性脚本区是 `scripts/attic/`（本身 gitignored），能复用的正式工具提升到 `scripts/`。
 
-## 重要记忆（按时间倒序）
 
-### 2026-10-13 新增
+## 重要记忆
 
-- **The South（Tash Aw）情感/文学长篇**：36 章（1:1 零偏移、无显式章题，按 keyplot 命名）+ 总览三篇 = **39 md**；text/ 36 件（OPF 46 页，10 非正文 SKIP）。DSH-Mac 执行，12 批子代理并行（槽位上限 8，完成一批级联一批；3 批中途掉线由父会话补验+二轮重建）。**五步审查已完成**（用户 2026-10-13 发起）：a 全量重跑 268/268 + FAIL 全 0、b 自建第二实现复判仅 ch33 motif 假红、c 结构 0 缺陷（ch02/03/04/23 块数 9–13 提示型只记不改）、d 语义逐对 8 批共 268 块 + 411 词条（阻断 12 全修 + 提示 12）、e 总览 3 阻断修。整改 6 commits（`e5b0991df`/`c3b1aaa56`/`64dd890f4`/`9e0d07dac`/`86247523b`/`4e793606c`）+ 板日志 commit `07abdfa85`；共 **13 commits 未 push**（`efbb40a2b`→`07abdfa85`）。终值 review 后复跑仍：verify_quotes 268/268（36/36 干净）· sweep_full 0 查无 0 拼接 · check_vocab 950 词条 FAIL0（WARN 40 全 length≥9）· entities 0 · corruption 0 · 逐章归属 36 全 X/X · check_overview_full 整串 45/查无 0/H1 0 · check_analysis_indep 346 全命中。
-  - **本批三条硬教训**：① **sweep_full 是整串引语的照妖镜**——verify_quotes 指纹级全绿时它仍抓出 5 条跨标签拼接 + 1 条整串查无（全是「两句用 …/空格焊接」形态，She Haunts 同源）；收口必须两把尺子各跑一次。② **说话人错配再证机械化不可靠**：ch25 原句7 编造后半句+把穗标成芳对话里的川、ch08 原句6 把芳对杰克的话标成川的邀请、审查又抓 ch08 原句6 分析层「芳对杰克」未随引语同步——verify/entities 全绿，全靠读 ±10 行上下文抓出；子代理写「谁在说」须带原文对话标签。③ **修复 agent 与父会话同文件竞态**：interrupt 后其最后写盘仍可能砸块（ch11 原句1 被截断+裸原文混入）；重建结构块用「text/ span 程序化取字」而非手工粘。
-  - 总览引语池程序化生产连续第三次 0 凭记忆重打（Deathless→本章）：金句 25+节点 20 全从已过 verify 的原句块 json 池取。板/日志：`COLLABORATION.md` 抬头 `[2026-10-13 19:45 UTC] [DSH-Mac]`（--append 并入五步审查结论，合并后 19 行/3143 B）；明细 `.memory/daily/2026-10-13.md`（新节「五步审查明细」）；门禁原件 `.memory/raw-gates/the-south-by-tash-aw/`（首跑 2 阻断 + 终跑 EXIT=0 + 审查全量重跑）。
-  - 总览/每日/AGENTS.md：更新后恢复「The South (Tash Aw)」条目即在 2026-10-13 首屏（重建耗时约 100s）。
+> **2026-10-20 起**：逐书细节移入 `.memory/log/YYYY-MM.md`（按日期节，原文逐字，按需 `grep`）。
+> 本文件只留**最近 3 条一句话**＋**历史教训**。写新记忆见文末「写入规则」。
 
-### 2026-10-03 新增
+### 最近
 
-- **Deathless（Julie Kagagawa，Blood of Eden 系列首作）YA 奇幻长篇**：22 章（ch01–ch22，Chapter 1–22，1:1 零偏移）+ 总览三篇 = **25 md**；text/ 22 件（OPF spine 30 件，非正文 7 页按 SKIP 跳过）。Hermes 执行，**28 commits 均未 push**。终值：`bash scripts/gate.sh` **EXIT=0（18 项，0 条阻断型）**｜verify_quotes **158/158（100%，干净 22/22）**｜check_vocab **320 词条行 FAIL0 WARN0**｜逐章归属 **22 章 100%（零跨章）**｜sweep_full 跨章 0 拼接 0 查无 0｜短引语 7 命中 0 查无｜corruption 0｜entities 0｜check_anchor 凭空造词 0｜sweep_analysis_inline 零命中 0｜audit_structure 缺陷 0 提示 0 映射 0｜block_keywords 问题 0｜check_overview_full **整串命中 44 / 查无 0 / 章节标签 对 5·不符 0 / H1 错配 0**。**五步审查未做（待用户发起）**。
-  - 结构：奇幻长篇**精简格式**（导航 4 子项 + 编号引语块 + 三档词汇 + 一句话总结）。核心设定：十三名 Deathless 击碎命运女神 Maederyss 的织机、把自己的线从织锦里扯断 ⇒ 不受预言束缚、永不转生，代价是**必须不停吸取周围生命**维生；Sparrow 是 Fateless（无命者），任务是取回织机碎片、夺取女神之力。人物：Sparrow（Kovass 盗贼）、Raithe（iylvahn 刺客 / kahjai）、Kysa（圣甲虫氏族战士）、Halek（Fatechaser）、Sahmessyia（iylvahn 女王，亦是 Deathless）、Vahn（养父 → ma'jhet 领袖 → 怪物躯壳中的灵魂）。全书的道德题：**她与 Deathless 的区别不在力量，在不肯为力量杀人**（ch21 拒答"交出一条命"）。
-  - **本批次核心教训（值回投入，topic: 生产工具治缺陷率）**：
-    ① **前三类缺陷（引语截短/伪造收尾引号、词表占位行、串章搬句）同源于"凭印象手打"** ⇒ 新建 5 个**生产工具**替代该动作：`scripts/attic/build_vocab.py`（**词头由人给、例句由脚本从本章 text/ 单行内按句读两侧收口切出**）、`quote_evidence.py`（同口径取证器）、`pick_sent.py`、`vocab_row_check.py`（**抓 check_vocab 不判红的占位行/例句非逐字/词头不在本章**）、`quote_pool.py`（总览引语池**只搬运已过 verify 的引语**，使总览继承章节层逐字保证）。**效果：ch13 起连续 10 章首次提交即全绿、0 处引语截短**（此前 10 章共 30+ 处）。
-    ② **例句切取的三个硬约束（都踩过）**：只在**单行**内切（text/ 换行是真实字符，跨行拼句必非连续子串）；截断时**绝不追加省略号**（追加即破坏逐字性）；**按句读两侧收口且保证命中词留在段内**——旧的"向后找第一个句读、切掉其前全部字符"在词落于行首时会把整行切空（ch06 `blasphemous` 切出 `”`）。
-    ③ **两处真缺陷是 verify_quotes 158/158 全绿仍漏过的**，须靠别的尺子：**(a) 串章引语**——ch21 误用 ch20 的两句（`Then, come…` / `No mortal deserves…`），两句逐字都在**全书**，故 verify 过；由 `check_block_keywords` 的跨段判据 + 逐字对本章比对抓到。**(b) 总览/概述凭印象写**——概述初稿的 ch14–17 情节含本书**根本没有的事件**（"人面狮身守卫""少年被诅咒"），`check_overview_full` 不覆盖叙述层、check_entities 也不管，须靠人工按 `text/` 逐条核对。**⇒ 跨章核对须对"本章 text/"而非"全书"做。**
-    ④ **修工具假红 1 例（可复用）**：`check_block_keywords.py` 只剥**一对**引号，遇本库通行写法 `> **原句 N:** "“原文…”"`（外层直引号包裹 + 内层原文弯引号）时首尾各剩一个引号字符 ⇒ 归一串以 `"` 开头 ⇒ 必查不到 ⇒ 误报「引语跨自然段」。改为 **剥掉首尾所有引号字符** `strip('"''""''')`。回归：`the-capital-of-dreams` 全书假红 **87 → 78**。
-    ⑤ 目录级 `epub` 在位 ⇒ **完整 lane**：epub 口径的判定全部成立（引语逐字、词条虚构、总览整串）。
-  - 板/日志：`COLLABORATION.md` 抬头 `[2026-10-03 10:05 UTC] [Hermes]`（11 行 / 2661 B）；工作日志 `.memory/daily/2026-10-03.md`（58 行）；门禁原件 `.memory/raw-gates/deathless-by-julie-kagawa/`（gate.txt 98 行 + gates.txt 57 行）。
+- **2026-10-13 · The South（Tash Aw）** 36 章 + 总览三篇 = 39 md；五步审查完成（a/b/c/d/e，阻断 12 全修），终值 verify 268/268、vocab 950 词条 FAIL0、逐章归属 36/36。13 commits 未 push。
+- **2026-10-03 · Deathless（Julie Kagagawa）** 22 章 + 总览 = 25 md；`gate.sh` EXIT=0（18 项 0 阻断）；五步审查未做（待用户发起）。
+- **2026-10-02 · Black Is the Body（Emily Bernard）** 非虚构 13 章 + 总览 = 16 md；15 commits 未 push。
 
-
-- **The Capital of Dreams（Heather O'Neill）奇幻长篇**：37 章 + 总览三篇 = **40 md** + text/ 37 件（对账相符）。DSH-Mac 执行，**38 commits 未 push**（`d95afebe8` → `99487fc17`；总览批 `13afca165`）。终值：verify_quotes **807/807（100%）干净 39/39** · --full 取证 0 · vocab **1189 行 FAIL 0 / WARN 55**（全「基础档疑含超纲词」提示型）· entities 0 · corruption 0 · sweep_full 773/773 · 短引语 36 全中 · 逐章归属 37 → 773/773 · 块覆盖 ✅ · 导航/总结层 ❌0 · 行内英文 1288/🟠0 🟡0 · 空段扫描 **0** · 总览 38/38 · check_quote_blocks ✅。引语块 **720**。
-  - **★ 全书最大重复缺陷＝引语非逐字，跨 ch10–ch37 约 30 处，两种根因**：**A 引语中间插 `...` 省略句子** → `sweep_full` 报 `🔶 跨标签拼接，各段逐字都在` 且 `verify_quotes` 报 ✗；**B 凭读后印象重述**（ch20 一次 7 处、ch32 2 处、ch34 2 处），形态同为 🔶/✗。**修法**：`grep -n`/`sed -n 'Np' "$BOOK/text/chNN_*.txt"` 定位源行后**逐字补全整段**。**合法引语只有两种形态**：① 原文单个段落的完整前缀；② 跨段落的连续多段，用**同一引用块内空行 `>`** 分隔、每段逐字。**绝不插 `...`、绝不重述、绝不用 `原句 NNb:` 编号**（`check_chapter_quotes` 不认该编号，报 MISS——ch24 实证 3 条）。**照此写法后 ch21（43 块）/ch22/ch23/ch25–ch28/ch31（42 块）引语一次全过**，是为唯一有效预防。
-  - **★ 词表缺陷约 40 条，第 4 次踩同一坑**：判 A 类前置＝`grep -c -i "<word>" "$BOOK/text/chNN_*.txt"` = 0 且全库也无（后者＝**跨篇词**）。本批实例：reluctant/suspense/tolerance（ch02-03）· treacherous→treachery（ch04）· manifestation→solitude（ch08）· incomprehensible→commanded（ch09）· goblet/tabloid/charcoal（ch12）· registration→registered（ch14）· toxic→poisoned（ch22）· trebles→treasures（ch23）· enchanted→humiliated（ch24）· burdensome→exhausting、thriving→thrive（ch25）· blanket→layer（ch26）· hypnosis→hypnotized、unravelled→unravel（ch27）· illumination 删（ch28）· hospitality/suspension 删（ch29）· bureaucratic/vindictive/apron（ch30）· apprehensive/indignant/approximate/consciousness（ch31）· exchanging/overwhelming（ch32）· tracks/rabbit→tights/boots（ch35）· handful→trembling（ch36）· porous/refugees/immortality/ambitions/belonging/porcelain（ch37，**全部 0 次**）。**教训**：写词表**每条必须先 grep 确认词形存在于本章**，例句**只能整行复制** `vocab_candidates.py --ch N --tiers` 输出；**「凭语感换词」与「凭语感造句」是同一个错误**——ch34 连续换三次（reared/overwhelmed）全都是不存在的词。另：**词表释义列不得出现英文短语**（会被 `sweep_analysis_inline` 当引文证据核查，连带 🟠，ch35 实证 3 条）；**分析层行内英文无法逐字对应本章原文时整句改纯中文**（ch21 `relief` 全章 0 次、ch24 `enchanted`、ch26 `sentence`/`magic spell` 皆由此修）。
-  - **★ gate.sh 两类假红，判据必须读脚本实现**（`bash scripts/gate.sh` 的退出码恒 0——脚本头 `exec > >(tee ...)`，**必须逐行读输出**）：**⑪ audit_structure 62 条「孤儿块」**＝`scripts/audit_structure.py:57-59` `RE_QUOTE_BARE = re.compile(r'^\s*>\s*(?!\*\*)(?![一-鿿])(.+?)\s*$')` 把每个 `>` 续行当独立引语块 ⇒ 多段引语每段都被计数（脚本逐条验证「多段引语续行（假红）62 ｜ 真孤儿 0」）。**⑱ check_block_keywords 117 条**：①「引语跨自然段（拼接红线）」同源同一误判，且**该脚本 docstring 自述此条在本书 md 格式下结构上不可触发**（`> **原句 N:**` 是单行，写不进 `\n\n`），是**防御性守卫**，真防线是 `sweep_full` 的 🔶 通道（本题 0）与写作期逐块摘录；②「引语块超言情 3–8 配额」与「关键词行 0 ≠ 引语块 N」属**模板不匹配**（本书众数 10 处/章、ch21 43 块、ch27 63 块；本库格式无 `**关键词**：` 行）。**块结构权威是 `check_quote_blocks.py`**（报 ✅ 前缀完整·编号连续无撞车·无孤儿分析·无自查泄漏）。
-  - **收目录阶段修 5 处阻断型**：ch20 `原句 16` 编号撞车（末块与老妇控诉块重号）→ 改 17 ｜ ch37 全书最后一句台词跨自然段引语（源文 `text/ch37_what_came_first_the_mother_or_the_egg.txt:94` 与 `:97` 是两个独立段落）→ 拆同块内两段 ｜ ch31 头部 12–26 行无编号裸英文引语泄漏（白鹅宣言八段重复）→ 删 ｜ ch31 中文理解段内混入八段英文 `>` 续行 → 改**四空格缩进**（不再产生 blockquote）｜ **ch31–ch37 导航节仅 1 项**（应 4 项，另三项被内联进「一句话概括」长段）→ 各补三条。**导航项数权威是 gate.sh ⑬ 空段扫描**（判据＝「导航/概览 粗体项 N 条 < 4」），修后 `=== 空段扫描：0 处 ===`。
-  - **总览三篇**：`00_概述.md`（八节，**无编号引语块**，`verify_overview_quotes` 判「➖ 无引语行（正常，非门禁项）」）｜`00_金句精选.md`（24 条 ≤25 上限，六组）｜`00_情感节点.md`（14 节点，「节点一」…「节点十四」连续不重置）。**⚠️ 自建检查器教训**：我为 `00_概述.md` 自写的引语核验脚本报 1 条 MISS，**回源 `text/ch02_the_children_s_train.txt:67` 确认逐字无误**——MISS 是我正则截断跨行引用块所致。**自建检查器的 MISS 必须先回源确证，不可直接改文**。
-  - **工具备忘**：`text/` 提取件名可能被截断（ch19 结尾是 `high_.txt` 无 `heels`；ch35 是 `ch35_the_black_market_wore_ribbons_in_her_hai.txt` **无末位 `r`**），一律先 `ls "$BOOK/text/"` 取真实名；`check_vocab` 报「例句不命中本章」时例句被截断成 40 字符，须回 md `grep` 定位词条；读 `text/` 前先 `wc -l`（ch33 仅 65 行，按 60–140 读会 IndexError）；`sweep_analysis_inline` 的 `⚠️ 跨章` 与 `sweep_full` 的 `⚠️ 跨章` 是**不同检查**，前者命中章标题式交叉引用属合法（本书固定 1 条：`ch10 babes in the woods.md:79`「A Naked Girl Is Always Priceless」→ 实为 ch12 标题，本书**唯一**贯穿全程的提示型报警）。
-  - **门禁原件** 38 件 `.memory/raw-gates/the-capital-of-dreams-by-heather-oneill/`（收目录批 `2026-10-03-gate收目录-批.txt` 含 17 段全量输出 + 判档说明）；明细 `.memory/daily/2026-10-03.md`；板条目 `[2026-10-03 08:34 UTC] [DSH-Mac]`（12 行 / 3533 B，未超线）。
-
-### 2026-10-02 新增
-
-- **Black Is the Body（Emily Bernard）非虚构随笔集**：13 章 + 总览三篇 = **16 md** + text/ 13 件（对账相符）。DSH-Mac 执行，15 commits 未 push（`31239fcd2`…`52b319f74`）。终值：verify_quotes --full **166/166 干净 15/15** · vocab **839 词条 FAIL0 WARN0** · entities 0 · corruption 0 · sweep_full 128/跨章 0 · 短引语 10 · 逐章归属 13×10/10 · 总览 **38/38** · audit_structure 0 · check_anchor 0 · gate.sh **EXIT=0**。
-  - 结构：非虚构论述格式（概览 → 论证结构[核心论点/证据链/论证脉络/可质疑处] → 选择性精读 10 处五子项 → 词汇三档 → 一句话总结）。四条主题＝身体是处境 · 讲述不等于治愈 · 跨种族关系的不对称是常态 · 归家找不到终点。人物弧光六条（作者 / 母亲克拉拉·琼 / 外婆多西 / 曾外婆坦皮妈妈 / 两个女儿 / 父亲）。
-  - **关键教训**：①**证据链表格第一格与第三格必须纯中文**（人名用中文音译 Karen→卡伦 / Loree→洛莉 / Estelle→埃丝黛尔）——`check_vocab` 会把任何「三列、第一格含 `[A-Za-z]{2,}`」的表格当词条形表格报 WARN，本书触发 3 次；②**短语词头必须用原书出现的词形**（`reeling off` / `butted heads`），词典原形（reel off / butt heads）会让 `sweep_analysis_inline` 复现 🟠；③中文计数词（"一个""第一个"）紧邻英文串会被 `audit_numbers` 当计数断言解析 → 删计数词或改"前者/后者"；④释义里禁夹无出处英文（写"巧劲、 inventive 的本领"→ 改纯中文）；⑤**大文件 write 后必须 `wc -c` 实测落盘**——ch09 首写时输出退化，工具回 "Created file" 但文件实际未落盘；⑥非虚构书**不给** `verify_corpus` 传 `--anchors`（小说人物消歧口径，报假红，见 2026-09-15 教训⑩）；⑦`check_overview_labels.py` 报"总览无（chNN）标注引语，跳过 N 行——不是通过"是口径而非缺陷（本书引语为裸 `> "…"` 格式）。
-  - **gate.sh ⑱ `check_block_keywords` 的三条定性（工具口径备忘）**：`is_nonfic` 判据＝文件含 `^## 选择性精读`；配额非虚构 3–10（模板:1144 规定 10 处 ①-⑩）、言情 3–8。`KW_RE = r'^[ \t]*(?:[-*+][ \t]+)?\*\*关键词(?:\*\*：|：\*\*)[ \t]*(.*)$'` ⇒ **写成 `- **关键词**:`（冒号在 `**` 外）会漏计、报"关键词行 N ≠ 引语块 M"**（本书 ch06 真缺陷，改回 `**：` 即配平）。`not only... but also...` 一类**语法术语记法**被报"关键词不在本块引语内"属**假红**（模板:133 禁令 3 明列豁免），与 `sweep_analysis_inline` 全书固定那条 🔶拼接 1 同源。
-  - **五步审查（用户 2026-10-02 发起，DSH-Mac 执行）**：**85 条阻断型 + 2 条假红** —— c 步 39 ｜ d 步 30 ｜ e 步 16，全部改完并回查原文；复验 14 项全绿（verify_quotes 166/166 · vocab 839 FAIL0 · check_struct_indep 0 · 总览 38/38 · gate.sh EXIT=0）。审查报告 `.memory/reviews/2026-10-02-black-is-the-body-by-emily-bernard-五步审查.md`。**新增 commits 3 条（`d024c4e2b` / `8308e6f9d` / `4fbfde2b6`），累计 18 条未 push。**
-    - **c 步＝词汇三档 H3 漏做 39 条**（16 md 里星级档位 0 次，违模板:1146 非虚构档第 6 条）。判据 `scripts/check_struct_indep.py:32` `TIER = ["### ⭐⭐⭐ 高级", "### ⭐⭐ 进阶", "### ⭐ 基础"]`、`:226-228` 整串子串匹配。**两把尺子互相看不见**：`scripts/check_vocab.py:90` `TIER_PAT = re.compile(r'^#+\s*[⭐★]*\s*(高级|进阶|基础)')` 无 H3 时 `tier=None` 分档检测直接跳过 ⇒ vocab WARN 0 而 struct_indep 报 39，**都不报口径冲突**。整改两次失败（bucket 键名 mangled 839 行全丢 / 扫描边界算错 rows=0）均 `git checkout` 回滚；成功方案＝以 `## 词汇分级` 行号 i 为锚扫到下一个 `## `，取 `|` 开头非表头非分隔线行分档后重写 ⇒ 高级 205／进阶 525／基础 109。
-    - **d 步 30 条**（子代 `82b53c37` ch01–07 + `431f5d08` ch08–13）：语义不对应 11 · 无出处断言 11 · 归错说话人 5 · 余 3。**两条「核过未报」复核确认无缺陷**（ch09 编发背痛实有出处 `ch09:47`；ch10:105 站直顺序其实对）。段组数按 `^—+$` 与 epub `<hr>` 双口径订正 ch09 13→9、ch12 11→8、ch13 5→2（ch10=14/14、ch11=16/16 吻合）；ch11 外婆去世 1994 无出处（`grep -c 1994`=0）且与 1919 生 + 94 岁不相容 → 删年份。
-    - **e 步 16 条**（子代 `2a92f772`）：**章节归属 28/28 全对**（总览章号标注本就无错，无需补标）。最重一条＝**三篇总览共用的遇刺段六处错**（1995→1994-08-07 `ch02:52` / 感恩节前→无 / 陌生女人→白人男性 `ch01:29` / 刺伤背部→腹部 `ch02:202` / 离脊梁两英寸→无出处 / 无目击无逮捕→约 10 人在场且凶手认罪收治）。
-    - **审查期新增三教训**：① `gate.sh` 必须 `bash scripts/gate.sh`（python3 跑报 `SyntaxError: unmatched ')'`）；② 本库 md 正文用**半角双引号** `"…"`，python 替换脚本用弯引号会整批 MISS（e 步首批 6 条因此全 MISS）；③ 板消息正文限 20 行／5000 B，**审查结论必须与完工要点合并压缩后用 `--replace`，`--append` 会被拒**（21 行／4018 B 实测被拒）；`post_collab.py` 的 body 位置参数走 `open()`，**必须传文件路径不能传长字符串**（传字符串报 `OSError: [Errno 63] File name too long`）。
-
-### 2026-09-18 新增
-
-- **She's a Doll（Barbara Truelove）死后成长推理长篇**：38 章精读（ch01 Content Warning + ch02–ch38 Chapter 1–37）+ 总览三篇（概述/金句精选25句/情感节点10节点）= **41 md** + text/ 41 件。Opencode-Mac 执行，独立五步审查通过。终值：verify **378/378（100%）** 干净 38/38 · vocab **331 词条 FAIL0 WARN0** · entities **0** · chapter **378/378 本章归属（零跨章）** · 8 条短引语人工 grep 命中。**关键教训**：①死后成长叙事（Posthumous Coming-of-Age）格式=精简格式（导航 5 项 + 四子项 + 三档词汇 + 一句话总结）；②verify_overview_quotes 对 00_*.md 报"未提取到编号引语"属工具盲区，须人工 grep 兜底；③概述/总览层事实错误（遗体描述/DNA归属/虚构引语）是 verify 全绿下的最大盲区，必须逐条回原文 grep 核实。**14 commits 未 push**。
-  - 结构：幽灵叙述者（Lucy May McQuinn），死后第七天在破碎 doll 身体中苏醒，能控制时间（内部时间无限延长那几分钟）；复仇对象 Kyle Lawson（Krissy 的双胞胎哥哥）；Nicola 是唯一能看到 Lucy 的人；Ghost Lore Facts 系列（5 条）
-  - 核心主题：死后成长（接受 ace lesbian 身份）· 有毒的女性友谊与救赎（Krissy 掩盖 Kyle 罪行）· 复仇的空虚与继续的意义（"you decide when you're ready to go, no one else"）
-
-### 2026-09-16 新增
-
-- **Strange Is the Light（Sarah Maria Griffin）文学思辨／科幻·恐怖长篇**：**25 md**（ch01–ch22 正文 + 00_概述 / 00_金句精选25句 / 00_情感节点10节点）+ text/ 22 件（1:1 零偏移）。DSH-Mac 执行，主会话五步审查修正 27 处后放行。终值：verify **203/203（100%）** 干净 23/23 · vocab **656 词条 FAIL0 WARN0** · entities **0** · chapter **178/178 in 本章 text** · overview 金句 **25/25** · crossref **0 对 0 报警** · 结构 **178 块 0 问题** · 总览全量英文片段 **47/47 MISS=0** · **分析层英文片段 867 条 MISSS=0** · 0 条短引语。**12 commits 未 push**（`a07ba702`…`7e34a8a5`）。
-  - 结构：19 编号章 + 3 个 "Wonder Wonder" 插叙节（Ch.8a/10a/15a）+ 6 个无编号诗性插叙节 "Strange is the Light"（Ch.3/9/11/13/15/16，NCX 目录刻意隐去）；**ch01 与 ch21 是同一趟回岛**（Malachy 葬礼），ch02–ch20 为回溯；ch08 单章 12 万字符按用户指示单文件单独一批。
-- **本批次关键教训（DSH-Mac）**：
-  ① **新增终验标准件：分析层英文片段全量 flat sweep**——把非引语行的英文短语（≥3 词 ≥20 flat 字符）对 epub flat 比对：本书 867 条一次扫出 6 处非逐字/虚构短语（含 1 条完全凭空的 `this is not metaphorical for her`）。verify_quotes 只看引语行，分析层内联英文是纯盲区，成本极低（一个脚本扫完全书）。
-  ② **数字断言必须当场数**——本次 5 处失准（「念过七次」实 8 次、「五个词的独立段落」实 6 词、「这三个词」×2 实 4 词、「this time 三个词」实 2 词、「三句递进陈述句」实 2 句）。凡写「N 个词 / N 次 / 唯一一次」都要回原文数。
-  ③ **四子项顺序是成片发生的结构缺陷**——ch02/06/11/13/14/15/17/18/20/21/22 累计 60+ 块把「关键词」写在「为什么这样写」之后（批量生成时的注意力漂移）。对策=`scripts/attic/fix_strange_block_order.py` 行级修复（**禁 re.S**）+ 每章写完即跑自建结构扫描，别等收尾。
-  ④ **总览层 blockquote 与概述行内短语是 verify_overview_quotes 的口径外**——`00_情感节点.md` 的 `> 引语` 与概述行内英文均不被抽取（工具对这两文件报「未提取到编号引语」）。自建 `verify_strange_overview.py` 做全量 flat 比对（47/47）兜底。
-  ⑤ **同体裁双时空书的结构勘定**——NCX 目录可能刻意不给某些插叙节标签（本书 6 个 "Strange is the Light" 节无 label → 提取器 fallback 出 `ch03_chap3` 型文件名），须用精确 old→new 映射表重命名，并对齐「书内章号 vs 文件号」后写入导航。
-  ⑥ **词汇分档注水检测靠人工**——check_vocab 只用 ~200 高频词表判 WARN，`elastic`/`metallic`/`realm`/`threshold` 等 B1/B2 常见词混入 ⭐⭐⭐ 全绿；本次降档 12 条（自建 `tier_demote_strange.py`）。
-
-- **Pictures of You（Josh Malerman）恐怖/悬疑长篇**：40 章（ch01–ch40 = Chapter 1–40，1:1 零偏移）+ 总览三篇（概述/金句精选30句/情感节点10节点）= **43 md** + text/ 40 件。恐怖长篇精简格式（导航5项 + 编号引语块四子项 + 三档词汇 + 一句话总结）。Opencode-Mac 执行，独立五步审查**通过（0 遗留）**。终值：verify **356/356**（42/42 干净；10 短引语人工 grep 命中本章 text）/ vocab **872 词条 FAIL0 WARN0** / entities 0 / chapter **318/318 in 本章 text** / overview **58/58** / crossref 0 报警 / 结构 40/40 零异常 + **filename=H1=text 首行章号三方零偏移**。**19 commits 未 push**（`e602cf18`…`5dd7160f`）。
-- **本批次关键教训**：
-  ① **extract_chapters dropcap 修连正则误伤正文**——`\b([A-Z])\s+([A-Z][a-z]+|[A-Z]{2,})\b` 把 "A Wainscott"→"AWainscott"、"A TV"→"ATv"、"I HAVEN'T DECIDED"→"IHaven'TDecided"；无 dropcap 结构的 epub 用 `scripts/attic/extract_pictures_of_you_text.py`（复用 extract_chapters 逻辑、仅关该正则）重提，提取后 grep `\b[A-Z][A-Z][a-z][a-z]+\b` 自查。
-  ② **check_crossref 只认 `chNN "引语"`，不管中文式「第 N 章」**——两轮共 **60 处**章号错引（语义二审 22 + 独立审查 18 确认，另 10 存疑）全在该盲区。逐章自检须额外 grep `第 [0-9]+ 章` 并对每条回查 text/chNN 原文。另有 **6 处"上一章/下一章"实指本章**（相对表述单独折算后再核）。
-  ③ **说话人核验不能只看"窗口内是否有 she said"**——须看前后文施动关系（谁刚被扇、谁在 stare）。实证：情感节点 ⑫ `"You're no artist," she said.` 标为 Helen，实为 **Emily**（ch23 两记巴掌后 Emily 开口，紧接 The woman…only stared）；我自建的窗口检查器因只匹配标签而漏报，独立审查才抓出。
-  ④ **check_vocab 不抓"抽词拼接式改写例句"**——ch16 rearview/mirror 例句脱漏原句的 "smiled and"，WARN 全绿；独立核验须对全部例句做"逐字 substring（含 … 分段）"扫描（872 条一轮可扫完）。
-  ⑤ **audit_book.py C 节对精简格式全量误报**——`**中文理解：**`（冒号在粗体内）不被其正则识别，40/40 全报"五子项块数 0"；属 SOP 第 24 条豁免，勿误判缺陷。
-  ⑥ **总览层细节不实**——概述把"拳头与肘砸开假墙"写成"掌刀割墙"（实为 ch19）、"咬刀爬回椅子"（ch30）写成"反手掷出飞镖"（无此事件）；总览叙事细节同样须回原文核（不只核引语）。
-
-### 2026-09-14 新增
-
-- **Asmodeus（Rita Indiana，Achy Obejas 译）文学小说（多米尼加）**：33 章（ch01–ch33，ch34 为 Graywolf Press 样板页已删除），精简格式（导航 5 项 + 3-6 处四子项精读 + 三档词汇 + 一句话总结），无总览三篇。ZCode-Mac 执行。独立五步审查通过。verify 178/182 (98%) / vocab 796 词条 FAIL=0 / entities 0 / check_chapter 178/182 (97%) / 结构 183 块零缺陷 / 关键词锚定 0 真违规。**4 条 MISS 全为多行诗歌工具盲区**（Icosiel 韵文 ch18/ch28、Manca 韵文 ch26），grep 确认存在。**关键教训**：①多行诗歌（Icosiel/Manca 韵文）verify_quotes/check_chapter_quotes 系统性 MISS——必须逐篇 grep 人工兜底；②精简格式词汇 FAIL 高频来自例句错章（例句来自 ch11 但词条在 ch22）；③"单词 A 类虚构"需先查 epub 全文——部分工具只查提取件。16 commits 未 push。
-
-### 2026-09-11/12 新增
-
-- **Everything Is Fine Here（Iryn Tushabe）当代成长小说（乌干达）**：18 章（ch01–ch18，无 Prologue/Epilogue），无总览三篇。**格式 = 精简格式（4 子项：中文理解/关键词/为什么这样写/读者视角提示）**——与 Favorite Daughter、Wild Dark Shore、Ligotti、How to Tell a True Story 同款。Opencode-Mac 执行。独立五步审查通过，发现并修复 5 处语义错位（verify 100/100 ✅ 全绿下漏网）：①ch06 原句5「男女同分」原文 Mama 自问自答（"The boy," Mama answered her own rhetorical question），Aine 真实回应是自贬的"Sorry I'm not as smart as Dr. Mbabazi Kamara"——分析误归为 Aine 的女权质问；②ch12 原句6「Petrichor」记住童年词汇的是老同学 Dan（"Petri who?" Paulo 当时反问），Paulo 系现学现用在吻别时归还——分析把两人合并为"一个游戏管理员"；③ch13 原句3「reset button」掌掴在 ch11 line 201 而非 ch09；④ch17 原句5「理想宣言」Elia 问 Aine（"问他"→"问她"）；⑤ch12 原句1「deviated septum」Paulo 点单宣言发生在派对当晚（早于夜谈），且为"替她点单"非"点酒"。终值：verify 100/100 ✅ / vocab 208 词条 FAIL=0 / entities 0 / check_chapter 105/105 ✅ / crossref 0 / 关键词锚定 0 违规 / 跨书污染 0。commits（未 push）：`c25c2a6e` ch01-03（首章试产）→ `6e663d98` ch04-06 → `d35d5c6b` ch07-09 → `79109e64` ch10-12 → `787fcee4` ch13-15 → `7c98608e` ch16-18 → `bdea0d27` 关键词锚定修复（ch05 brain scan/ch18 a new path → 引语逐字词）→ `aba55315` 完工公告 → `facbbba3` 五步审查修复 → `043cb41d` 审查修复公告。**本批次关键教训**：①精简格式审计 C 节五子项误报是 SOP 第 24 条豁免项，**勿误判缺陷**；②子代理委派语义审查必须附防幻觉条款（"报警前须先确认引语行与中文理解行真实存在于同一 md 文件且相邻"——避免拿 text/ 句子与无关分析行拼装错位）；③本批次关键词锚定检查器初版有 `**` 闭合符捕获 bug（误报 7 处假阳性），修正后真违规仅 2 处（脑扫描/路径未在引语中）；④fa<5 短引语（如 ch16 "Mama!"）工具完全跳过不计数，非结构缺陷——手动确认即可；⑤Episode 偏差根因：当分析层/总览层涉及多人物互动时（如"谁记住词""谁问话"），凭印象填充是 verify 全绿下的最大盲区，必须逐字回原文 grep + 说话人窗口核验（±200 字符）。
-
-### 2026-09-10 新增
-
-- **Don't Make Me Laugh（Julia Raeside）非虚构 #MeToo 幽默回忆录**：42 章（ch01-41 + Epilogue）+ 总览三篇（概述/金句精选28句/情感节点9节点）。**体裁提示：用户拍板用非虚构论述格式写小说**（与 it-comes-from-the-river 同类已知偏差，永久保留）。verify_quotes 388/388 ✅ / vocab 1058 词条 FAIL=0 WARN=0 / entities 0 / 逐章 388/388（100%）。**关键经验**：①论证结构证据链表格第三列含 ≥8 拉丁字符即被当例句判 FAIL（证据链单元格必须纯中文）；②总览候选句凭记忆 short-hand 多次 MISS（必须从已验证的章节文件原文复制）；③说话人窗口核验抓到 ch40 "I don't know" 命中 usher 台词；④生成期混入西里尔/越语/法语等珍稀语料（已全清）。16 commits 未 push。
-- **Cabin Fever（Riley Parker）言情中篇 established couple**：7 章 + 概述一篇（含10 金句+7 节点+6 表达）。独立五步审查零缺陷。短篇结构，9 commits 未 push。
-- **Burn for You（Bridie Charles）言情长篇 enemies-to-lovers**：43 章 + Epilogue + 总览三篇（概述/金句精选30句/情感节点10节点）。独立五步审查通过。
-- **Adrift（Ellie Pond）言情长篇**：47 章 + 总览三篇。独立五步审查通过。文本/提取件零偏移。
-- **How to Tell a True Story（Tricia Springstubb）middle-grade 当代小说**：58 章 + 总览三篇（概述/金句精选25句/情感节点10节点）。独立五步审查通过。LoC Cataloguing "LCGPT: Novels" 是体裁判断的权威信号。
-- **Lady of The Lake（C.N. Crawford & Alex Rivers）奇幻言情**：61 章正文（ch02-ch62 = Chapter 1-61）+ 总览三篇。ch01=A Recap / ch63=Timeline / ch64=Sample 不精读。独立五步审查通过（22 commits 未 push）。总览引语跨叙述标签（如 "I understand why you lied," he says softly.）须逐字含标签文本，否则 flat 匹配失败。
-- **Meet Me at Midnight（Brianna Bourne）YA contemporary romance + magical realism**：48 章（Chapter One → Chapter Forty-Eight）+ 总览三篇（概述/金句精选25句/情感节点12节点）。独立五步审查通过。
-- **Pretty Bossy（Arini Vlotman）言情长篇 enemies-to-lovers + fake relationship**：22 章（ch01-ch22 = Chapter 1-21 + Epilogue）+ 总览三篇（概述/金句精选25句/情感节点10节点）。独立五步审查通过（11 commits 未 push）。**教训**：词汇表例句必须逐章 grep 验证，不可凭印象编写；总览引语格式（**关键引语：**）不在 verify_overview_quotes 口径内，须人工 grep 兜底。
-- **The Bucket List（Ali Parker）言情长篇 contemporary romance**：43 章 + 总览三篇（Opencode-Mac 等多 IDE 接力）。25 commits 未 push。
-- **The Sweet Chef and the Corporate Queen（Susanne Ash）言情长篇（age gap, forced proximity）**：13 章（ch01-ch12 + Epilogue）+ 总览三篇（概述/金句精选25句/情感节点9节点）。独立五步审查通过（9 commits 未 push）。**教训**：导航栏英文 trope 名称（Grumpy/Sunshine/Forced Proximity/Truth-Teller）须改中文，否则触发 check_entities 误报。
-- **根目录 10 本新 epub 归档（260908 第二批）**：用户拍板"抽检内容后再分类"，按 OPF spine 取首章正文（混淆文件名 fallback 到扫 HTML 找 >800 字符非 boilerplate 页）。最终格局：**novels 61 / mystery-thriller 21 / non-fiction 18 / short-story-anthologies 20 = 120 本**。**关键判断**：①不要凭书名/作者印象分类；②Praise/营销文案含修辞夸张（Don't Make Me Laugh 标 "thriller" 是修辞非体裁）；③opus epub 用混淆文件名（c9.xhtml/cM.xhtml 等），须扫 HTML fallback。
-
-### 2026-09-07 新增
-
-- **The Wrong Sister（Claire Douglas）心理悬疑惊悚**：53 章（ch00 Prologue + ch01-51 + ch12b Interlude）+ 总览三篇（CommandCode-Mac）。独立五步审查放行。verify 272/274 ✅ / vocab 460 词条 FAIL=6（ch12b 工具盲区）/ entities 0 / 结构扫描 53/53。核心揭示：Bonnie=Holly（30 年前被绑架婴儿）/ Alice 是 chimera（嵌合体两套 DNA）/ Alice 杀害 Kyle（轮胎扳手）/ Tasha 选择沉默（"turning a blind eye"）。19 commits 未 push。
-- **Falling into Place（Allison Ashley）言情长篇 contemporary romance**：34 章（Carly/Brooks 交替 + ch33 短信体 + ch34 Epilogue）+ 3 篇总览（Opencode-Mac）。独立五步审查两轮放行。verify 258/258 ✅ / vocab 732 词条 0/0 / entities 0 / overview 21/21。核心主题：稳定 vs 心动、说 vs 躲、翻篇 vs 传承。15 commits 未 push。
-- **⚠️ Read 输出异物混入（本轮头号教训）**：ch23 Read 中段混入办公室/frames/centerfold/pizza 整段、ch33 Read 混入 ch31 pitch 段（franchise/Nashville/Riza），文件 grep 实测查无——Read 输出≠文件实况，凡写必先 grep，记忆与单次读取皆不可信。ch19 "bailed"/"fluke"亦为记忆漂移虚构。
-- **verify fail-closed**：epub 路径拼错时报全 0/X——先查路径，不怀疑文件。
-- **分析层数字断言**：年龄（三十三岁×4）、时长（九个月）、章数（九章/十九章）凡无原文支撑一律 soften/删除；推算的不写。
-- **gag 计数链**：跨章"见下/下章见/over/哈哈"计数梗后期失控（三文件约 40 处），行级正则批量清理（禁 re.S 跨块）。
-
-### 2026-09-06 新增
-
-- **⚠️ 工具口径盲区速查（2026-09-05/06 十余本书交叉固化，详见 docs/新书启动模板.md 坑表新增节）**：
-  1. verify_quotes/check_chapter_quotes 对无编号言情格式（`> "..."`）抽到 0/0——言情书须自备 flat 分段脚本
-  2. <20 flat 字符短引语被工具静默跳过（Perfection/Forest of Scars/Rookie Season 三书互证）——grep 行数 vs 提取数不一致即信号
-  3. check_vocab 撇号缩写词条（I've/he'd）误报 A类虚构；例句起点避开页码污染点；词条头必须本章原词形（torn≠tore）
-  4. 跨标签拼接是 7 本书互证的最高频引语缺陷——多段台词严禁 `...` 连接
-  5. verify_overview_quotes 只认行首圈数字且 CIRCLED 止于㉕——金句 ≤25 条/文件，其余人工脚本兜底
-  6. 分析层 cross-ref 章号/数字断言/说话人是三道门禁的共同盲区——写前当场 grep 所指章
-- **Up in Molten Lights（E.B. Golden）奇幻言情双 POV**：79 章 + 总览三篇（2026-09-06，ZCode-Mac）。流程=质量评估→修复不重做（尾部 ch49-54 词汇崩坏重写+引语 3 处）→续写 25 章 8 批→五步审查 12 处整改→词汇表全库清理（跨篇 59 处+移档+去重 68 行，FAIL=0 WARN=0）。终态引语 1006/1006（引号分段口径）。新工具盲区：check_vocab 撇号词条误报 A类、verify_quotes 对无编号言情格式抽不到、verify_overview 只认行首圈数字。约 35 commits 未 push。
-- **The Last Thing（Bethany Monaco Smith）言情长篇 contemporary romance**：32 章（Chapter 1-31 + Epilogue），双 POV（Hallie/Deck 交替），逐章精读格式 + 3 篇总览。核心主题：命运 vs 选择、爱的勇气、家庭的多样性。Hallie 从"反爱情"到"说出我爱你"，Deck 从"控制狂"到"fun partner"。独立五步审查零缺陷。verify 355/355 ✅ / vocab FAIL=0 / entities 0。
-- **No Take Backs（Taylor Wilson-West）逆后宫超自然言情**：29 章 + Epilogue，4 POV（Moraine/Soren/Rhea/Benny），逐章精读精简格式 + 3 篇总览。独立五步审查零缺陷。verify 219/219 ✅ / vocab FAIL=0 / entities 0。
-- **Taken by Sinistre Ange（Sinistre Ange）言情长篇 erotic romance**：14 章 + 3 篇总览，含绑架/性支配/斯德哥尔摩综合征题材。独立五步审查修复 7 处缺陷。verify 133/133 ✅ / vocab FAIL=0 / entities 0。
-- **Memories Like Fangs（Chelsey J. León）奇幻言情**：44 章 + 3 篇总览，双时间线（1960s/1990s），Rina/Emilio 跨种族恋爱。独立五步审查整改 27 处。verify 248/248 ✅ / vocab FAIL=0 / entities 0。
-
-### 2026-09-05 新增
-- **Wild Dark Shore（Charlotte McConaghy）言情长篇小说**：75 章（6 POV：Rowan/Fen/Dominic/Orly/Raff/Alex），逐章精读精简格式 + 3 篇总览。核心主题：爱与牺牲、家庭与血缘、自然与文明。Rowan 为寻夫来到 Shearwater 岛，融入 Salt 一家，最终为保护 Orly 淹死在竖井中。独立审查修复 31 个 FAIL + 5 处实体误判。verify 386/386 ✅ / vocab FAIL=0 / entities 0。
-- **The Lack of Light（Nino Haratischwili）文学小说**：25 章，逐章精读精简格式 + 3 篇总览。四人友谊与创伤叙事（Dina/Keti/Ira/Nene），横跨第比利斯 1987 至布鲁塞尔 2019。独立审查修复 30 处词汇例句未命中 + ch09 重复引语块。verify 191/191 ✅ / vocab FAIL=0 / entities 0。
-- **A Sea of Unspoken Things（Adrienne Young）推理悬疑奇幻**：32 章（含 ch18 "Twenty Years Ago" 闪回章节），逐章精读 + 3 篇总览。格式为推理/悬疑/奇幻精简格式（frontmatter + 本章导航 + 3-8 处精读 + 三档词汇 + 一句话总结）。独立审查发现并修复 5 处问题（ch01 编号、ch23 跨章错植、01_quotes 3 处 A 类虚构引语）。
-- **Ten Bridges I've Burnt（Brontë Purnell）诗歌回忆录**：31 首自由诗，逐章精读 + 诗歌技法专项。格式按"随笔集逐篇精读"框架适配，新增"诗歌技法专项"章节分析跨行连续/括号自反/通感联觉/自造词等。
-- **Addie LaRue 词汇精简**：ch098-108 词汇表从 ~1638 WARN 精简至 87 WARN（每章 25-30 词条）
-- **Getaway Girl 双 POV**：Addison/Elijah 交替视角，需注意引语归属和人物弧线的对称性
-- **Butcher of the Forest 场景节分章**：无章节号的中篇可按 `* * *` 场景分隔分章
-- **文件命名修正**：Ten Bridges 初版用 `NN Title.md`（缺 ch 前缀），后统一重命名为 `chNN Title.md` 对齐其他书规范
-
-### 2026-08-31 新增
-- **Ligotti 第四次复查整改**（commit ba9b2e0）：
-  - check_vocab全书词频口径盲区——A类虚构（如ch33 nullify/ch52占位符/ch73 night）在别章出现即通过check_vocab FAIL=0，但verify_quotes仍100%
-  - check_chapter_quotes按flat文本匹配，省略号/标点差异导致误报（如ch22 PLACE引语"the diseased waters await his embrace"因无whose匹配失败）
-  - 旧格式章节（①编号→`> **原句 N:**`）转换时缺冒号后空格导致引语提取失败
-  - 49章旧格式转换后仍残留全部标为"原句1"（ch22/27/28/29）——圈数字映射bug
-  - 详见 `docs/新书启动模板.md` 第9条规则说明
-
-### 2026-08-30 新增
-- **Barron's 批次 928 条 A 类虚构**：`check_vocab` 工具盲区——"（未出现在原文）"标注绕过工具检测，52篇全部存在。修复后 FAIL=0 ✅，WARN=72（B类）。详见 `docs/新书启动模板.md` 第5条。
-- **check_vocab 标注盲区**：工具只检词频/例句前20字符/分档，不识别中文单元格。独立审查时必须 grep "（未出现在原文）"全文，有输出即 A 类虚构。
-
-### 2026-08-29 新增
-- **Room in the Ground 审查整改**：19 文件名偏移 + 5 跨章错植 + 7 cross-ref 联动修复 + 总览 8 处说话人反转。verify 235/235 ✅，FAIL=0。
-- **AGENTS.md 第 10 条固化**：独立审查 SOP 五步法 + 完成报告硬要求 + 七类高发坑位。
+> 更多：`.memory/log/2026-10.md`（本月 3 节）、`2026-09.md`（9 节）、`2026-08.md`（3 节）。
 
 ### 历史教训
 - Book Lovers 言情用逐句格式写到 35 篇崩坏重做
@@ -262,6 +112,7 @@ metadata:
 - ~20 处"引语换新句、分析停旧句"在 verify_quotes 全绿下漏网
 - NS 报告"101/101 ✅"重跑实为 108/109 含 1 FAIL
 - 多 IDE 并行：git add -A 裹挟 / COLLABORATION.md 覆写 / amend 改写他实例 commit
+
 
 ## 推送策略
 
@@ -271,10 +122,8 @@ metadata:
 - **默认不推送，等用户指令统一 push**
 - 多 IDE 并行时禁止 `git add -A` / `git add .`
 
-- **You Were Never Not Mine（Monica Murphy）言情长篇**：57 章（ch01 Prologue + ch02-ch55 + ch56 Epilogue + ch57 Epilogue Part 2）+ 总览三篇（概述/情感节点10/金句26）= 60 md + text/ 57 件。Muse Spark 执行，22 commits 未 push。终值：verify 323/323 ✅ / vocab 507 词条 FAIL=0 / entities 2 误报 / check_chapter 311/311 ✅ / crossref 0 / 总览 45 引语全绿。**关键教训**：①短引语全量 sweep 自建法（flat<20 全提取 + grep 本章 text）抓 3 真缺陷（ch21 漏 n't 致反义、ch31/ch45 合并独立引语）——工具静默跳过 + 人工抽查都会漏，必须全量脚本化；②格式 retrofit 先例：37 文件三子项→四子项（补 254 行读者视角）由三子代理并行完成，附反例+防幻觉条款，语义零错位；③子代理备案须独立复核证据：B 批报 ch33 短句虚构实为其 grep 引号风格错（原文 line 89 实有），报警数字≠证据；④总览中文文件名不在 verify_overview_quotes 口径内（Fox 改 00 名，本书手工等效：长句指纹 0 MISS + 短句 9/9），命名是否统一待定；⑤多实例下 `git add` 只加明确路径（一次 -A 误收他书文件，reset 回退）。
+## 写入规则
 
-### 2026-09-15 新增
-
-- **工具链盲区固化**（topic: `tool-blinds-202609`）：verify_quotes 弯引号截断/不覆盖总览文件/跨块引语只取第一段；extract_chapters dropcap 正则制造虚构连字；check_vocab 撇号词条误报/概述层`|`分隔符误判；双绿≠语义干净（第 3 条门禁全绿仍有引语↔分析错位、说话人反转、cliffhanger跨章、总览层虚构）；整行sweep≥3次应列入终验标准件。**2026-10-01 Nexus 五步审查追加 ④ 条**：⑨分析层**语法级改字**（`that was` vs 原文 `that were`、`a extremely` vs `an`）是六道门禁共同盲区——投毒测试证明 sweep_analysis_inline/verify_quotes/check_vocab 三把主力尺子全漏，**仅 `check_analysis_indep` 可抓，建议其进常规门禁清单**（当前仅 d 步跑）；⑩`verify_corpus --anchors` 是**小说人物消歧**口径，非虚构论述书误用报 82 条假红，且 ①④ 不验章节归属须另用「逐章首行标题 vs epub 目录页」独立验；⑪子代理的**阻断型定性与行号都需复核**（23 条→实 19 条：2 假红+1 幻觉+2 升级+1 部分成立），⚠️有 Prologue 的书两套章号差 1，判跨章引用前先确认对方用哪套；⑫「引语截短」在脚本化生产下为 0（判据=中文理解里的英文词是否全在引语内 + 理解/引语字数比）。⚠️**另记一条审查期教训**：投毒测试的 `git checkout` 回滚**会把既存缺陷一起还原**——本轮 ch05:106（that was/were）即因此被误还原，**注入前必须先 `git diff` 确认工作树干净、并把备份与原文逐字比对**（Nexus 完整实例见 `docs/实测档案/N_Nexus五步审查_缺陷清单.md`）
-- **子代理幻觉根因**（topic: `subagent-hallucination`）：根因=分析子项未锚定原文仅靠泛化指令生成；缓解=引语先行（每块附英文原句逐字粘贴）+ ≥20章自建关键词锚定检查器；实证=100G ch86引语与分析完全错位/NS 137块主会话逐对核对可补救
-- **关键词锚定检查器**（topic: `keyword-anchor-checker`）：≥20章推荐；原理=分析块关键词英文词须命中该块引语或"为什么这样写"文本；Memories Like Fangs实战=237块扫出59+处违规（说明问题在大批次中普遍，需系统性扫描而非人工抽检）
+1. 新记忆写成「**日期 · 书名 · 一句话结论 · 门禁终值**」，细节（逐条缺陷、批次过程）进 `.memory/log/YYYY-MM.md` 同名日期节。
+2. 判据：**删掉它，新会话会不会不知道怎么干活？** 会 → 它是规则，写进 `docs/rules/`；不会 → 它才是记忆，留在这里。
+3. `raw-gates/<书 slug>/` 是唯一允许的过程落盘点；`reviews/` `progress/` `metro-specs/` 仍禁用。
