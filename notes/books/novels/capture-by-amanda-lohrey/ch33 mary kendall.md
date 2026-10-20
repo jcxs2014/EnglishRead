@@ -25,7 +25,7 @@ modified: "2026-10-20"
 
 **关键词**：I’m sorry that you have made no discoveries / It’s all a big mystery, isn’t it? / Life goes on and I have had no more experiences / I do sometimes have flashbacks / about what They showed me about the future of the planet / I do see the world differently now / Once you see our cities drowning and some of them on fire / it never leaves you
 
-**为什么这样写**：信里第一句是**遗憾**，第二句是**释然**（生活继续），第三句才轮到那件大事。而「They」的首字母大写是关键：那个群体在她的信里有了**专名**的地位——比「外星人」更实、也更远。而「我们的城市在溺水、其中一些还在燃烧」这半句，与第七章玛丽看到的那幅画面**完全一致**。
+**为什么这样写**：信里第一句是**遗憾**，第二句是**释然**（生活继续），第三句才轮到那件大事。而「They」的首字母大写是关键：那个群体在她的信里有了**专名**的地位——比「外星人」更实、也更远。而「我们的城市在溺水、其中一些还在燃烧」这半句，与**第七章**玛丽看到的那幅画面（地球在燃烧、核爆、河流干涸、海洋浮着腐烂物）**同源但不相同**——七年前她看到的是末日，这封信里她说的是她在电视上看见的城市。
 
 **读者视角提示**：请注意「我再没有新的经历」这半句——她只被捕获了一次，而且那次之后她**没有被再访问**。而她仍然记得。
 
@@ -61,7 +61,7 @@ modified: "2026-10-20"
 
 **关键词**：good news on the business front / one of the presenters, Gaby Fowler / recently hired me to do her wedding / all make-up for the wedding party / including those eyelash extensions you seemed to find so interesting / use her photo and an endorsement on my website / it’s already bringing in business
 
-**为什么这样写**：全书最刻薄也最精确的一处反讽：那位「被取走卵子、以此为使命」的女人，靠**睫毛嫁接**与一位电视主持人的照片做生意。而「那些你似乎很感兴趣的睫毛嫁接」这半句，是她对马瑟的第四章的**回指**。
+**为什么这样写**：全书最刻薄也最精确的一处反讽：那位「被取走卵子、以此为使命」的女人，靠**睫毛嫁接**与一位电视主持人的照片做生意。而「那些你似乎很感兴趣的睫毛嫁接」这半句，是她对马瑟的**第七章**会谈的**回指**（那一场里他确实盯着她的睫毛问个不停）。
 
 **读者视角提示**：请注意「用她的照片和一句推荐」（her photo and an endorsement）——**名人遗物**式的价值逻辑，正是第十八章那场晚宴讨论的东西。而这一封信把它变成了她自己的营销手段。
 

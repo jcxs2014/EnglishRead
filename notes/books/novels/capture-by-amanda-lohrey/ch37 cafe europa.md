@@ -7,7 +7,7 @@ modified: "2026-10-20"
 
 ## 本章导航
 
-**一句话概括**：夏天第一天，马瑟去诊室办理退租与停业，等他的是露西从雅典寄来的信；屋里的摆设被复原成一座**博物馆**（那只红漆中式柜子回来了，窗台下面散着干面包虫），三只乌鸫 准点来敲门；他在欧罗巴咖啡馆读完信，那个白化病女孩举起书与放大镜向他点头；而他点了一份**咸味布里欧修**，一口没动。
+**一句话概括**：夏天第一天，马瑟去诊室办理退租与停业，等他的是露西从雅典寄来的信；屋里的摆设被复原成一座**博物馆**（那只红漆中式柜子回来了，窗台下面散着干面包虫），三只乌鸫准点来**啄玻璃**；他在欧罗巴咖啡馆读完信，那个白化病女孩举起书与放大镜，**是他自己朝她点了点头**；而他点了一份**咸味布里欧修**，一口没动。
 
 **信念弧线位置**：全书**收束**。一个研究结束了，一间屋子被归还成一件展品，一段关系被一封信确认，而一个仪式被**取消**——最后那盘没动过的布里欧修，就是这本书对「捕获」给出的最后一个答案。
 
@@ -37,9 +37,9 @@ modified: "2026-10-20"
 
 **关键词**：The door to my consulting rooms now seems oddly unfamiliar / Lucy’s desk is bare / a small grey plastic object that I recognise as a wheel from one of Eli’s Transformers / the Chinese cabinet has been restored to its rightful place / the morning sun shines on its small gilt swallows so that they gleam with artificial life / a scattering of dried mealworms litters the carpet / The room is a museum
 
-**为什么这样写**：作者把全书的道具在最后一间屋里**一次性摆齐**：露西的空桌、伊莱的轮子、被放回的中式柜、窗台下的面包虫。而「博物馆」（a museum）这个词是全章的题眼——这间屋子不再用来**治疗**，而用来**陈列**。而「人工的生气」（gleam with artificial life）这半句，与那尊牧羊女像、与墙上少女与狮子，构成一组关于「假生命」的呼应。
+**为什么这样写**：作者把全书的道具在最后一间屋里**一次性摆齐**：露西的空桌、伊莱的轮子、被放回的中式柜、窗台下的面包虫。而「博物馆」（a museum）这个词是全章的题眼——这间屋子不再用来**治疗**，而用来**陈列**。而「人工的生气」（gleam with artificial life）这半句，与**第二十五章那张照片里的牧羊女像**、与**第一章**咖啡馆墙上那些希腊少女与狮子的浮雕，构成一组关于「假生命」的呼应。
 
-**读者视角提示**：请注意中式柜子回来了——第五章它因为「中国」的舆论风险被撤走，露西提议用布罩住，马瑟嫌布罩更撩人，最后整个搬走。而现在它被**放回原位**：一个关于「象征」的问题，五年后被一个不再做研究的人解开了。
+**读者视角提示**：请注意中式柜子回来了——第五章它因为「中国」的舆论风险被撤走，露西提议用布罩住，马瑟嫌布罩更撩人，最后整个搬走。而现在它被**放回原位**：一个关于「象征」的问题，在不再做研究之后被解开了。
 
 ---
 
@@ -57,7 +57,7 @@ modified: "2026-10-20"
 
 > **原句 4:** "Almost on the dot of eleven, three of them land on the outer ledge of the window. They hesitate, look about for competitors, and begin to peck fiercely at the glass. For many days they have received nothing and still they come. I walk to the window and open it while they, unflinching, gaze up at me with their brazen eye. ‘Your friends are here, Yvette,’ I murmur. The thought pleases me as I reach down for the last of the mealworms and scatter them across the ledge."
 
-**中文理解**：差**十一点**整，三只鸟落在窗台外沿。它们犹豫了一下，四下张望有没有竞争者，然后开始凶猛地啄玻璃。很多天它们什么也没得到，可它们还是来了。我走到窗前把窗打开，而它们毫不退缩地抬头看我，那只厚颜的眼睛。「你的朋友来了，伊薇特，」我低声说。这个念头让我愉悦——我伸手拿起最后一点面包屑，撒在窗台上。
+**中文理解**：差**十一点**整，三只鸟落在窗台外沿。它们犹豫了一下，四下张望有没有竞争者，然后开始凶猛地啄玻璃。很多天它们什么也没得到，可它们还是来了。我走到窗前把窗打开，而它们毫不退缩地抬头看我，那只厚颜的眼睛。「你的朋友来了，伊薇特，」我低声说。这个念头让我愉悦——我伸手拿起最后一点**面包虫**，撒在窗台上。
 
 **关键词**：Almost on the dot of eleven / three of them land on the outer ledge of the window / They hesitate, look about for competitors / begin to peck fiercely at the glass / For many days they have received nothing and still they come / they, unflinching, gaze up at me with their brazen eye / Your friends are here, Yvette / I reach down for the last of the mealworms and scatter them across the ledge
 
@@ -87,7 +87,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：一封**手写信**的开头，而「我总得给它找个用途」（I had to find a use for it）这半句把写信变成了一次**物恋**：她买了纸，就得写。而「所以这是一封老派的信」是一个玩笑，也是一个宣告：她选择**不用电子件**告诉马瑟。
 
-**读者视角提示**：请注意这封信的**物质性**：厚羊皮纸、压印的深蓝回纹。第五章那封「给黛博拉的信」也一样——物质性在这本书里始终是意义的载体。
+**读者视角提示**：请注意这封信的**物质性**：厚羊皮纸、压印的深蓝回纹。**第二十五章**那封德博拉写来的信也一样——物质性在这本书里始终是意义的载体。
 
 ---
 
@@ -97,7 +97,7 @@ modified: "2026-10-20"
 
 **关键词**：Must have been weird / it was, and it wasn’t / Something of it stays with me / but I can’t put my finger on what it is that lingers / I guess it will come to me down the track / What I enjoyed most was working with you / and listening to the way you listen, if that makes any sense
 
-**为什么这样写**：全书最动人的一封信，而它的核心是一句**职业性的恭维**：她最享受的不是那些发现，而是「听你听的方式」。而「我必须弄清那是什么」（I can’t put my finger on what it is that lingers）这半句，用了一个**手指**的意象——她说不出来，正如马瑟在第十五章说的「我们还没有一门关于经验的科学」。
+**为什么这样写**：全书最动人的一封信，而它的核心是一句**职业性的恭维**：她最享受的不是那些发现，而是「听你听的方式」。而「我必须弄清那是什么」（I can’t put my finger on what it is that lingers）这半句，用了一个**手指**的意象——她说不出来，正如马瑟在**第二十一章**说的「我们还没有一门关于经验的科学」。
 
 **读者视角提示**：请把「听你听的方式」与第二十一章那句「你得在房间里」并读：她学的不是他的方法论，是他的**在场方式**。
 
@@ -110,7 +110,7 @@ modified: "2026-10-20"
 
 **关键词**：while the Earth heats up we strive to prolong our lives / presumably to survive under a sealed dome on Mars / a tech billionaire who, in his efforts to defy time / arranged for a transfusion of his teenage son’s plasma / it was deemed to be of no benefit / I felt kind of queasy / I have embarked on a chronicle of hubris
 
-**为什么这样写**：全书最后一次把母题与现实并置：火星上的密封穹顶，与第十一章斯科特那架没有窗、没有铆钉的飞行器；而那位亿万富翁（第四章里他四十一岁）与**自己的儿子**——这一笔让「延寿」从抽象变成了一种**家庭内的消耗**。而「我已开始写一部傲慢的编年史」（a chronicle of hubris）是露西给自己的研究定的性。
+**为什么这样写**：全书最后一次把母题与现实并置：火星上的密封穹顶，与第十一章斯科特那架没有窗、没有铆钉的飞行器；而那位亿万富翁（**第十一章**里他四十一岁）与**自己的儿子**——这一笔让「延寿」从抽象变成了一种**家庭内的消耗**。而「我已开始写一部傲慢的编年史」（a chronicle of hubris）是露西给自己的研究定的性。
 
 **读者视角提示**：请注意「你也许会有兴趣知道：这件事被认定没有任何好处」——她是在**回信**，在回应马瑟那封告诉她研究失败的信。而她紧接着说了「我有点恶心」。
 
@@ -122,7 +122,7 @@ modified: "2026-10-20"
 
 **关键词**：The albino girl is holding a thick paperback up close to her face / her nails an iridescent green / in her left hand her silver magnifying glass / She is so wonderfully composed, like a young woman in a painting / she returns my gaze / her book and reading glass poised in the air / confident in her difference / with the trace of a smile she turns her beautiful white face back to the book
 
-**为什么这样写**：第六章那个只出现过**一次**的白化病女孩，在此回来了——而作者让她的机位精确地对应当年：「自信于自己的不同」（confident in her difference）这半句，正是当年露西的读法（「她对自己的不同有信心」），而当年马瑟的读法是「投入」。三年后，这句话从露西的嘴里移到了叙述者自己的心里。
+**为什么这样写**：第六章那个只出现过**一次**的白化病女孩，在此回来了——而作者让她的机位精确地对应当年：「自信于自己的不同」（confident in her difference）这半句，是**这一章叙述者自己**的说法——当年**露西**的读法恰恰相反（「她很做作，她在告诉我们什么」），马瑟的读法是「投入／她毫不做作」。多年之后，这句话从露西嘴里移到了叙述者自己的心里。
 
 **读者视角提示**：请注意「I nod, she hesitates」——一次**点头**，一个**迟疑**。全书最安静的对话，双方都没有说话。
 
@@ -225,4 +225,4 @@ modified: "2026-10-20"
 
 ## 一句话总结
 
-全书最后一章：夏天第一天，马瑟去诊室办退租与停业，门垫上等着露西从雅典寄来的信；屋子被复原成一座博物馆——空的办公桌、伊莱的轮子、放回原位的中式柜子、窗下散落的干面包虫；十一点整三只乌鸫 准时来敲门，他说「你的朋友来了，伊薇特」；在欧罗巴咖啡馆他读完那封写着「我已开始写一部傲慢的编年史」的信，抬头看见当年那个白化病女孩举起书与放大镜向他点头；而他点了一份咸味布里欧修，一口没动。
+全书最后一章：夏天第一天，马瑟去诊室办退租与停业，门垫上等着露西从雅典寄来的信；屋子被复原成一座博物馆——空的办公桌、伊莱的轮子、放回原位的中式柜子、窗下散落的干面包虫；十一点整三只乌鸫准时来**啄玻璃**，他说「你的朋友来了，伊薇特」；在欧罗巴咖啡馆他读完那封写着「我已开始写一部傲慢的编年史」的信，抬头看见当年那个白化病女孩举起书与放大镜，**是他自己朝她点了点头**；而他点了一份咸味布里欧修，一口没动。
