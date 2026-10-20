@@ -100,6 +100,8 @@ source_text: ch48
 | heresy | 异端；异端学说 | The nun who was burnt for heresy during the Reformation. |
 | alibied | 有不在场证明的；被证明不在场 | ‘Isolde was alibied by a friend called Keisha Jones who she was out running with in Walthamstow. |
 | transpires | （事情）原来是；结果是 | As it transpires I should have. |
+| Reformation | 宗教改革 | It could be Alice de Burge? The nun who was burnt for heresy during the Reformation. |
+| cult | 小教派；（含贬义）邪教式团体 | His little cult is “feeding” off the ancient site’s energy.’ |
 
 ### ⭐⭐ 进阶
 
@@ -113,6 +115,8 @@ source_text: ch48
 | partials | （指纹等）残缺部分 | ‘We took her prints when she was formally interviewed and she didn’t match the partials,’ Matt said. |
 | escapism | 逃避现实的消遣；精神解脱 | ‘You can’t beat a good bit of escapism,’ Caius said, picking up the book. |
 | coherent | 连贯的；有条理的 | That’s barely coherent, and it’s not in full sentences. |
+| collateral | 附带的；附带的损害 | He was collateral damage. |
+| metaphorical | 比喻的；隐喻的 | ‘Yeah, metaphorical tunnels, I guess, but he’s also talking about hearts with worms. |
 
 ### ⭐ 基础
 
@@ -126,6 +130,8 @@ source_text: ch48
 | sorting office | 邮件分拣处 | The envelopes have been fondled by everyone at the sorting office but not licked by the sender. |
 | unruly | 难以驾驭的；不受约束的 | ‘It’s an unruly case. |
 | tape | 录音带；磁带 | Robbie stopped the tape. |
+| lunatic | 疯子；疯癫的人 | He’s a lunatic. |
+| vigil | 守夜；烛光守夜 | There are Eulalia fans camped out in the garden in the square holding a vigil, you know. |
 
 ## 一句话总结
 
