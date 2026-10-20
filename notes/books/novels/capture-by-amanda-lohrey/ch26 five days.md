@@ -39,7 +39,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：作者用**两个空间**的对立标记这次转向：咖啡馆（开放、社交、闲聊）vs 诊室（幽闭、密闭、只有声音与身体）。而诊室正是马瑟**唯一**有权威的地方——他把战场搬到了自己的主场。
 
-**读者视角提示**：请注意「幽闭」（claustrophobia）这个词——第十五章露西说过她需要逃出她那间「幽闭的小公寓」才能工作。此刻她被困在幽闭里，而这是马瑟选的。
+**读者视角提示**：请注意「幽闭」（claustrophobia）这个词——**第十七章**露西说过她需要逃出她那间「幽闭的小公寓」才能工作。此刻她被困在幽闭里，而这是马瑟选的。
 
 ---
 
@@ -85,7 +85,7 @@ modified: "2026-10-20"
 
 **关键词**：the product of a sleep disorder such as sleep paralysis / the subject is conscious, neither fully awake nor asleep / in some intermediate zone / prone to hallucinations and a sense of a presence, often sinister, in the room / Possibly, especially in the case of bedroom abductions / several of our subjects experienced their capture when wide awake
 
-**为什么这样写**：这是全书唯一一次把「睡眠瘫痪」作为**正式假设**摆上台面——而马瑟早年在第三章就见过它（伯纳德在十四章的「睡眠瘫痪」标注）。而这个假设的**部分成立**恰恰是最危险的：它解释了「床上」那些案例，却无法解释「完全清醒时」的那些。
+**为什么这样写**：这是全书唯一一次把「睡眠瘫痪」作为**正式假设**摆上台面——而马瑟早年在**第四章安东尼**（睡瘫：I make a mental note: sleep paralysis）与**第七章玛丽**（全身麻痹）那里就见过它。而这个假设的**部分成立**恰恰是最危险的：它解释了「床上」那些案例，却无法解释「完全清醒时」的那些。
 
 **读者视角提示**：请把「完全清醒、照常过日子」这半句与第十一章斯科特在两万八千英尺高空、第十九章伊薇特在诊室里重演并排给看——那两次都在白天、都在做事。
 

@@ -21,13 +21,13 @@ modified: "2026-10-20"
 
 > **原句 1:** "Little by little, like a reservoir on slow release, my restlessness ebbs away. I feel a simple relief, cheaply won. But it seems there is a price to pay. I become listless. I have always been able to work through physical pain, but this is an ennui I have never before known, not even as a youth on the dairy farm that I longed to escape. I do my administrative work on campus and supervise my medical students as if going through the motions."
 
-**中文理解**：一点一点地，像一座缓慢放水的水库，我的躁动退去了。我感到一种简单的、**赢得廉价**的轻松。但看来是有代价要付的。我变得**倦怠**。我一向能熬过身体的疼痛，但这是一种我从未有过的**倦怠**——连当年那个渴望逃离的奶酪农场上的少年时代也没有过。我在校园里做行政工作、带我的医学生，做的都是些**走过场**的事。
+**中文理解**：一点一点地，像一座缓慢放水的水库，我的躁动退去了。我感到一种简单的、**赢得廉价**的轻松。但看来是有代价要付的。我变得**倦怠**。我一向能熬过身体的疼痛，但这是一种我从未有过的**倦怠**——连当年那个渴望逃离的**奶牛农场**上的少年时代也没有过。我在校园里做行政工作、带我的医学生，做的都是些**走过场**的事。
 
 **关键词**：like a reservoir on slow release / my restlessness ebbs away / I feel a simple relief, cheaply won / there is a price to pay / I become listless / I have always been able to work through physical pain / this is an ennui I have never before known / not even as a youth on the dairy farm that I longed to escape / I do my administrative work on campus and supervise my medical students / as if going through the motions
 
 **为什么这样写**：作者用一个**水利工程**的隐喻写焦虑的消退，而紧接着一句「赢得廉价的轻松」（cheaply won）就点破了这份轻松的性质：不值得。而最有分量的是那个补充——「我一向能熬过身体的疼痛」，因为这正是本书的暗线：马克西姆治的是背，而这里治的是**别的**，治不了。
 
-**读者视角提示**：请注意「奶酪农场」（dairy farm）这个细节——第三章说马瑟从小在**奶牛**农场长大、给牛挤奶、夜里给牛吹小号。此刻他把它称作「我渴望逃离的奶酪农场」，这是一次轻微的自我改写。
+**读者视角提示**：请注意「奶牛农场」（dairy farm）这个细节——第三章说马瑟从小在那座农场长大、给牛挤奶、夜里给牛吹小号。**两处说的是同一座农场**，用词也一致（dairy farm），并没有任何改写。
 
 ---
 
@@ -39,7 +39,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：全书最短的一次诊断，而且出自一个**非专业**的人——而它准确得可怕。而「正如我所知道的」（as I knew you would）这半句更狠：妻子早就预判了丈夫会依恋上那些病人，这不是她观察的结果，而是她对**他**的了解。
 
-**读者视角提示**：请注意「your people」这半句——这是第二十章露西也用过的词（费莉西蒂的「my people」）。这个词组在本书里已经属于**他们**，不属于医生。
+**读者视角提示**：请注意「your people」这半句——**费莉西蒂在第十五章**说过同一句（You've become attached to your people），马瑟在**第二十一章**转述成「my people」。这个词组在本书里已经属于**他们**，不属于医生。
 
 ---
 
@@ -51,7 +51,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：作者用一个词（attached）把第十五章的警告**兑现**——费莉西蒂说过「你被依恋上你的人了」，那本书当时还只是一次午餐闲谈。而「亲密的危险」（the danger of intimacy）这半句点明了一件更精确的事：马瑟退回的不是因为他不相信，而是因为**相信**变得危险。
 
-**读者视角提示**：请注意「相信」与「依恋」被分开处理：他退出了前者，却无法退出后者。这正是第二十一章那句「我可能失去了客观性」的最终形态。
+**读者视角提示**：请注意「相信」与「依恋」被分开处理：他退出了前者，却无法退出后者。这正是**第十九章**那句「我可能失去了客观性」的最终形态（第二十一章那一句是「我是不是正在失去超脱」）。
 
 ---
 

@@ -25,7 +25,7 @@ modified: "2026-10-20"
 
 **关键词**：The day after our last session / I will donate our tapes to the national archives / a contribution to the memory of the world / along with my notes and, if she is agreeable, the notes that she has made / There will be no publications / I will pay out her contract
 
-**为什么这样写**：一句「捐给国家档案馆」就把整本书的**归属**定了下来：它会成为档案，而不是论文。而那句关于「世界记忆」的玩笑把第一章的海伦娜与第二十五章的黛博拉悄悄缝在一起——同一个项目，两个人的妻子都在里面。
+**为什么这样写**：一句「捐给国家档案馆」就把整本书的**归属**定了下来：它会成为档案，而不是论文。而那句关于「世界记忆」的玩笑把**第十三章**的德博拉与**第二十一章**海伦娜问起的那件事悄悄缝在一起——同一个项目，夫妇两边都沾着都在里面。
 
 **读者视角提示**：请注意「I will pay out her contract」这半句：他把她的合约结清，而他没有提她的未来。这是他整本书里最体贴也最不诚实的一次。
 
@@ -61,7 +61,7 @@ modified: "2026-10-20"
 
 **关键词**：You’ve seemed out of sorts lately / Can I say distracted / You can
 
-**为什么这样写**：这个请求很有分寸：她在给他一个**命名自己状态**的机会，而马瑟给了她许可——这是他们之间的老规矩（第二十章那句「你可以说」）。
+**为什么这样写**：这个请求很有分寸：她在给他一个**命名自己状态**的机会，而马瑟给了她许可——这是他们之间的老规矩（就在**本章**——「我能说分心了吗？」「你可以。」）。
 
 **读者视角提示**：注意「out of sorts」（状态不佳）这个说法有多轻——她挑了最温和的词，而他此刻的自我评估是「站在与疯狂者串通的边缘」。两人对同一件事的用词差距，就是他们关系的尺度。
 
@@ -75,7 +75,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：作者把「研究者的疲劳」写成了一个**认识论**问题：不是材料不够，而是重复本身竖起了屏障。而「承认失败」（admitting defeat）这半句是全书最诚实的一次自我评估。
 
-**读者视角提示**：请注意「不可穿透的屏障」（a screen of impenetrability）这半句——它与第九章那句「重复的证词竖起屏障」是同一个隐喻，也与第二十一章那句「现实的腐蚀」相连。
+**读者视角提示**：请注意「不可穿透的屏障」（a screen of impenetrability）这半句——它与**本章自己**那句「重复的证词竖起屏障」是同一个隐喻，也与第二十一章那句「现实的腐蚀」相连。
 
 ---
 
@@ -87,7 +87,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：全书最重的一次**自陈**：马瑟承认自己差点「与疯狂者串通」（colluding with the deranged），却用学术腔调把它掩盖过去。而作者紧接着揭穿了这个「掩盖」——读者看见了他没有说出口的那句真话。紧接着的一句「我最大的担心是她」则说明：他放弃研究，是因为**她**，不是因为他不在乎。
 
-**读者视角提示**：请把「colluding with the deranged」这半句与第二十四章那句「我可能失去了客观性」并读。两处都是承认，而两处他都没有对露西说。
+**读者视角提示**：请把「colluding with the deranged」这半句与**第十九章**那句「我可能失去了客观性」并读。两处都是承认，而两处他都没有对露西说。
 
 ---
 
@@ -99,7 +99,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：作者用「显得」（appears）这个词留了一道缝：她也许并没有真的把失望甩开。而那个「坦白一件不太规矩的小事」（confessing to an indiscretion）的比喻，把一份**学术计划书**说成了一件不好意思坦白的小事。
 
-**读者视角提示**：请注意「我本来打算晚点再说」——这与她第十五章那个「她有一个计划，只是还没准备好透露」完全对应。她的计划存在很久了。
+**读者视角提示**：请注意「我本来打算晚点再说」——这与**本章后面**那句「我一直留着备用」（keeping it in reserve）完全对应：同一个打算的两次说法，露西一直在铺垫她的新题目。
 
 ---
 
@@ -165,13 +165,13 @@ modified: "2026-10-20"
 
 > **原句 13:** "‘I’m a chronicler. I want to write a history, because it’s not new. Did you know that in the third century BC the emperor Qin Shi Huang commanded his court physicians to develop an elixir of youth, and they came up with something that killed him, probably from mercury poisoning? He was forty-nine. Of course, the story is most likely apocryphal, but like all legends it contains a truth.’"
 
-**中文理解**：「我是编年史作者。我想写一部历史，因为它不是新东西。你知道吗，公元前三世纪，秦始皇命令御医研制一种返老还童的灵药；他们做出了一种杀死他的东西，很可能是汞中毒。他四十九岁。当然，这个故事多半是托词，但所有传说都包含着某种真理。」……「还有某种警告，不是吗？」
+**中文理解**：「我是编年史作者。我想写一部历史，因为它不是新东西。你知道吗，公元前三世纪，秦始皇命令御医研制一种返老还童的灵药；他们做出了一种杀死他的东西，很可能是汞中毒。他四十九岁。当然，这个故事多半是托词，但所有传说都包含着某种真理。」
 
 **关键词**：I’m a chronicler / I want to write a history, because it’s not new / in the third century BC the emperor Qin Shi Huang / commanded his court physicians to develop an elixir of youth / they came up with something that killed him / probably from mercury poisoning / He was forty-nine / the story is most likely apocryphal / like all legends it contains a truth / like all legends it contains a truth
 
 **为什么这样写**：这是全书最漂亮的一次**历史引证**，它同时给出了这个题目的三重性质：古老（秦始皇）、危险（汞）、以及传说的双重性（多半是托词，却包含着某种真理）。而「四十九岁」这个细节让死亡显得**太早**——比马瑟的预期更早。
 
-**读者视角提示**：请注意「He was forty-nine」这半句在全书里的位置：这是全书第一个**死于延长生命尝试**的人。而第二章里马瑟提到的那位亿万富翁今年四十一岁。
+**读者视角提示**：请注意「He was forty-nine」这半句在全书里的位置：这是全书第一个**死于延长生命尝试**的人。而**第十一章**里斯科特提到的那位亿万富翁雇主今年四十一岁。
 
 ---
 
@@ -183,7 +183,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：露西说出了她的**动机**——不是科学，是职业：奖学金、赛道。而马瑟那句「你早就写好申请书了」用的是他的方法：观察、推断、验证。三个短句就把她的整个计划剥了出来。
 
-**读者视角提示**：请注意「我一直留着备用」（keeping it in reserve）——和第十五章「她有一个计划，只是还没准备好透露」是同一件事的延续。她的离开不是仓促决定。
+**读者视角提示**：请注意「我一直留着备用」（keeping it in reserve）——和**本章前面**「我本来打算晚点再说」是同一件事的延续。她的离开不是仓促决定。
 
 ---
 
