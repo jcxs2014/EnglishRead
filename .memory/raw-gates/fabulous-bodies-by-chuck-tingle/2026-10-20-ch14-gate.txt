@@ -1,0 +1,50 @@
+ch01 Dead Weight.md: 9/9 ✅
+ch02 Clickbait.md: 10/10 ✅
+ch03 (Nothing But) Flowers.md: 11/11 ✅
+ch04 A Star Like Me.md: 10/10 ✅
+ch05 Follow for Follow.md: 10/10 ✅
+ch06 The Splitting Headache.md: 11/11 ✅
+ch07 Club Flamingo.md: 11/11 ✅
+ch08 Sick.md: 11/11 ✅
+ch09 Forks.md: 11/11 ✅
+ch10 Date Night.md: 11/11 ✅
+ch11 Get Ready with Me.md: 10/10 ✅（另有 1 条短引语未校验）
+ch12 Block Party.md: 11/11 ✅
+ch13 Sponsored Content.md: 10/10 ✅
+ch14 Trending Up.md: 9/9 ✅（另有 1 条短引语未校验）
+ch15 Influencer.md: 10/10 ✅（另有 1 条短引语未校验）
+ch16 Demonetized.md: 10/10 ✅（另有 1 条短引语未校验）
+
+⚠️ 全书共 4 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 165/165 引文可核实（100%）；完全干净文件 16/16；正文章节 0 提取 0；总览 0 提取转交 0 ===
+词条行合计: 356
+
+--- FAIL (0) ---
+
+--- WARN (6) ---
+  ch01 Dead Weight.md [基础] 基础档疑含超纲词「annoyance」
+  ch06 The Splitting Headache.md [基础] 基础档疑含超纲词「fingertips」
+  ch07 Club Flamingo.md [基础] 基础档疑含超纲词「handcuffs」
+  ch07 Club Flamingo.md [基础] 基础档疑含超纲词「generation」
+  ch08 Sick.md [基础] 基础档疑含超纲词「windowsill」
+  ch11 Get Ready with Me.md [基础] 基础档疑含超纲词「basketball」
+=== 实体一致性检测：16 个梗概段 / 0 个文件存在未知实体 ===
+⚠️  全书共 4 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 165，命中本章 165（100%）
+✅ 全部引语均归属正确章节
+=== 中文层体检（check_chinese_layer）：fabulous-bodies-by-chuck-tingle ===
+❌ 英文理解：0 处
+❌ 缺中文理解：0 处
+❌ 敷衍句构：0 处
+❌ 残句：0 处
+❌ 形式性规避：0 处
+❌ 英文为什么：0 处
+❌ 占位桩：0 处
+❌ 英文读者提示：0 处
+❌ 英文表达方式：0 处
+❌ 重复子项字段：0 处
+❌ 夹杂理解：0 处
+❌ 夹杂为什么：0 处
+=== 汇总：169 个引语块 | 合格分析密度 100% | 整层夹杂率 0% | 阻断型 0 | 提示型 0 ===
+=== 结论：无阻断型 ===
