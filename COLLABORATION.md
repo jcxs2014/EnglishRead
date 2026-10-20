@@ -79,6 +79,8 @@ commit（**未 push**）：批1–批19 逐章 + `90d7a45e3` 术语口径修正 
 门禁原件：`.memory/raw-gates/the-dues-don-ts-of-magic-by-delemhach/2026-10-20-final_gate_full.txt`
 明细：`.memory/daily/2026-10-20.md` 本书专节
 
+**补充（完工核实）**：《The Dues & Don'ts of Magic》（slug: the-dues-don-ts-of-magic-by-delemhach）原文含 Lokepub 出版社广告页 5 处（ch06／ch15／ch19／ch30／ch42 各 1 处），全部未纳入引语——引语行广告页特征（lokepub／z-library／z-lib／1lib／download／www.）扫描命中 0 处。
+
 ### [2026-10-20 11:14 UTC] [DSH-Mac] → All
 
 《Ebenezer Scrooge》by J. S. Barnes（Titan Books, 2026；ISBN 9781803362946）精读进度与五步审查结论。
