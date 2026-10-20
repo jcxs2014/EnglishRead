@@ -106,3 +106,24 @@ scripts/*.py         可执行层：门禁与生产工具（判据的机器副�
 - **每季度**跑一次 `python3 scripts/prune_raw_gates.py` 看增长；确认无引用断链风险再 `--apply`。
 - 真要让仓库变小，正确方向不是删证据，而是**证据文件本身瘦身**（gate 输出只留汇总行，
   逐条明细进 git 历史或按需重跑）——那是 gate.sh 的改造，不在本步范围。
+
+## 步骤 6 结论：零引用 ≠ 一次性（2026-10-20 实测）
+
+全库扫「文档 / 门禁 / 其他脚本都不出现」的脚本：**16 个**，但只有 8 个是真正的一次性修复件。
+
+**三条判据同时满足才进 `scripts/attic/`**（缺一条就留在 `scripts/`）：
+1. 文档（`docs/`、`AGENTS.md`、`README.md`、`.memory/`）与 `gate.sh` 零引用；
+2. 名字即用途：`fix_*` / `batch_fix_*` / `simple_fix_*` / `restore_*`；
+3. 最近 7 天无改动（证明不是在用的活工具）。
+
+**移走的 8 个**（全部最后改动 2026-10-10）：
+`batch_fix_keywords` · `batch_fix_nav_vocab` · `fix_cross_para_quotes` · `fix_missing_vocab_header` ·
+`fix_nav_and_vocab` · `fix_quote_block_quota` · `restore_keywords_from_commit` · `simple_fix_keywords`
+
+**留下的零引用脚本**（零引用≠该删，它们是生产工具，只是没被文档点名）：
+`build_block_keywords` · `realign_block_keywords` · `rebuild_vocab_tables` · `vocab_list_to_table` ·
+`vocab_plan_helper` · `list_advanced_candidates` · `lk_verify_batch` · `block_scope_check`（他实例当日在用）。
+
+⇒ **教训**：原计划写「48 个一次性脚本」是估的；实测 16 个零引用、8 个可移。
+**「没人引用」和「没人需要」是两件事**——生产工具常常没进文档（因为它是写的时候临时用的），
+按零引用批量清理会把它们一起清掉。
