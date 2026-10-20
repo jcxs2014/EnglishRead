@@ -29,13 +29,13 @@ Every Christmas Eve, it was the same。They planned to leave home early enough t
 
 **读者视角提示**："the one from the other day" 显示 first earring appeared earlier (unseen by reader, mentioned as prior event); laundry tub as location is domestic (not mysterious); Carlos’s "alien dropped them here to try to communicate" is sarcastic but unintentionally prophetic。
 
-> **原句 2:** “Carmen called four more times, and all four times, Diana silenced the call. ‘Call her back. It’s not normal for her to call this many times,’ Carlos said. ‘But she’s annoying. They’re both so annoying. It’s most likely something stupid. They can wait, we’re in the car already.’ … ‘My mom. Who knows what she wants now.’ … ‘Who is it?’ asked Carlos from the back seat. ‘My mom. Who knows what she wants now.’”
+> **原句 2:** “Carmen called four more times, and all four times, Diana silenced the call. ‘Call her back. It’s not normal for her to call this many times,’ Carlos said. ‘But she’s annoying. They’re both so annoying. It’s most likely something stupid. They can wait, we’re in the car already.’ … ‘Who is it?’ asked Carlos from the back seat. ‘My mom. Who knows what she wants now.’”
 
-Carmen called four more times, and all four times, Diana silenced the call。"Call her back. It’s not normal for her to call this many times," Carlos said。"But she’s annoying. They’re both so annoying. It’s most likely something stupid. They can wait, we’re in the car already." … "My mom. Who knows what she wants now." … "Who is it?" asked Carlos from the back seat。"My mom. Who knows what she wants now."
+Carmen called four more times, and all four times, Diana silenced the call。"Call her back. It’s not normal for her to call this many times," Carlos said。"But she’s annoying. They’re both so annoying. It’s most likely something stupid. They can wait, we’re in the car already." … "Who is it?" asked Carlos from the back seat。"My mom. Who knows what she wants now."
 
 **关键词**：silenced / annoying / normal
 
-**句子结构**：长段——"Carmen called four more times, and all four times, Diana silenced the call."；"‘Call her back. It’s not normal for her to call this many times,’ Carlos said."；"‘But she’s annoying. They’re both so annoying. It’s most likely something stupid. They can wait, we’re in the car already.’"；"‘My mom. Who knows what she wants now.’"；"‘Who is it?’ asked Carlos from the back seat."；"‘My mom. Who knows what she wants now.’"
+**句子结构**：长段——"Carmen called four more times, and all four times, Diana silenced the call."；"‘Call her back. It’s not normal for her to call this many times,’ Carlos said."；"‘But she’s annoying. They’re both so annoying. It’s most likely something stupid. They can wait, we’re in the car already.’"；"‘Who is it?’ asked Carlos from the back seat."；"‘My mom. Who knows what she wants now.’"
 
 **为什么这样写**：作者用 Carmen’s repeated calls 显示 family intrusion (even in taxi, Diana can’t escape); Diana’s "They’re both so annoying" 显示 her dismissal of mother/sister; "It’s most likely something stupid" 显示 her assumption (but ch05 shows Alba’s urgent care was real); Carlos’s "It’s not normal" 显示 his concern; this phone motif parallels ch05’s phone call (Alba calling about evil eye)。
 
