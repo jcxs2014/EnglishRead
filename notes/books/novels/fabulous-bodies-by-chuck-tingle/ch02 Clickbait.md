@@ -28,7 +28,7 @@ modified: "2026-10-20"
 
 > **原句 3:** "As deeply as I understand that the dead are nothing more than stiff, cold flesh, the transition from life to death still gets to me."
 - **中文理解**：Poppy 的职业让她比任何人都清楚「尸体只是僵冷的肉」，但即便如此，死亡本身的瞬间转换仍然刺痛她。她一边说自己是唯物主义者，一边被视频里的画面击穿防线。
-- **关键词**：transition、apprehension
+- **关键词**：transition、flesh
 - **为什么这样写**：这是 Poppy 内心矛盾的核心句：她的世界观（尸体只是肉）与她的情感（Eddie 不该死）在此碰撞。作者用「职业冷静 vs 人性脆弱」的张力让角色立体起来，也为后文她的崩溃做铺垫。
 - **读者视角提示**：注意「still gets to me」——说明 Poppy 并非天生冷血，她只是训练自己冷血。这一层「训练」是全书人物弧光的关键。
 

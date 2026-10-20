@@ -22,7 +22,7 @@ modified: "2026-10-20"
 
 > **原句 2:** "“You wish you could spend more time with her and you feel personally slighted by how much she likes me.”"
 - **中文理解**：Noah 一眼看穿 Poppy 的醋意——她嫉妒 Marlo 更喜欢 Noah，因为她没时间陪女儿。Noah 把她没说出口的复杂情绪直接翻译成了大白话。
-- **关键词**：slighted、perceptive
+- **关键词**：slighted、spend
 - **为什么这样写**：这是 Noah 的「读心术」首次展示。作者借这个场景说明：Poppy 虽然擅长冷读别人，却总被 Noah 反读。两人的关系因此特别——她是骗子，但在他面前她透明得像玻璃。
 - **读者视角提示**：Noah 的敏锐既是温柔也是威胁：如果他知道 Poppy 的真实职业，这段友谊还能维持吗？
 
