@@ -156,10 +156,10 @@ python3 scripts/check_nav_layer.py "$B" --per-chapter 2>&1 | sed 's/^/  /'
 echo; echo "=== ⑩ sweep_analysis_inline（分析层行内英文）==="
 python3 scripts/sweep_analysis_inline.py "$B" 2>&1 | grep "逐字"
 
-echo; echo "=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）==="
+echo; echo "=== ⑪ structure.py audit（结构；子项检查是假阴性高发点，0 不等于齐）==="
 python3 scripts/structure.py audit "$B" --quiet 2>&1 | tail -2
 
-echo; echo "=== ⑫ check_anchor（关键词锚定）==="
+echo; echo "=== ⑫ structure.py anchor（关键词锚定）==="
 # ⚠️ 2026-10-13 修正（Some Other Time 实测）：本行原为裸 `| grep -E "凭空造词|松散关键词"`，
 #   而 grep **无匹配时退出码 1** ⇒ 触发文件头的 ERR trap，把
 #   「gate.sh 中途中止（set -u 未定义变量等）」打到 stderr——**而脚本其实跑完了**。
@@ -349,7 +349,7 @@ python3 scripts/quotes.py blocks "$B" 2>&1 | head -40
 #   教训同前三次：**「以为跑了 gate.sh 就够」**——正门本身也有覆盖缺口，
 #   接进门禁的检查器集合**必须对着 `ls scripts/` 清点过**。
 #   本项同时兜住两个此前无人负责的层：块数配额（体裁表）与关键词逐字锚定。
-echo; echo "=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）==="
+echo; echo "=== ⑱ structure.py keywords（块覆盖度 / 关键词锚定 / 拼接红线）==="
 #   ⚠️ 2026-10-05 修正（Heirs 五步审查 a 步）：本项原写 `| tail -32`，而**块数配额是
 #   按章逐条打印的**——Heirs 39 章超配额共 39 条 ❌，单跑 39 条，`tail -32` 只留下 14 条，
 #   **25 条阻断型被截断隐藏**（退出码仍靠剩下那 14 条判成 1，没翻车，但报告是残缺的）。
