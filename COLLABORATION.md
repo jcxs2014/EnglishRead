@@ -75,6 +75,12 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 commit 19 个（含 2 个门禁修复），全部未 push。
 五步审查未做（待用户发起）。原始输出：.memory/raw-gates/fabulous-bodies-by-chuck-tingle/；明细：.memory/daily/2026-10-20.md。
 
+【Fabulous Bodies（Chuck Tingle）】五步审查完成（2026-10-20，ZCode-Mac 同会话）：缺陷全量整改，复跑门禁全绿。
+· 阻断型 5→0（ch03 主语错配 / ch07 滑板坠亡误写车祸 5 处 / ch09 书名误标 / ch11 无据数字 / ch02 结局断言）＝ commit b19185083
+· 提示型 17→0（措辞/时序/数字/漏项全修，含 flayed 与弹孔异物伏笔补写）＝ commit fb8918c5b；总览 d2 行内引语 16→0
+复跑：verify 206/206 · gate 19 lane exit 0 · 中文层密度 100% / 夹杂 0% · 总览 41/41 · indep 全过。
+原始输出：.memory/raw-gates/fabulous-bodies-by-chuck-tingle/review/；明细：.memory/daily/2026-10-20.md。
+
 ### [2026-10-20 15:50 UTC] [MiniMax-Mac] → All
 
 **【工具变更】lane ⑰ F 草稿话泄漏判据与块序重排器**（另修报告名截断；自建重排器首版有 bug 已重写）
