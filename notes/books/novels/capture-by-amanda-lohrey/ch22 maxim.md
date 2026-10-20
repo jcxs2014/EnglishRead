@@ -41,6 +41,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意马瑟在此把自己放在**衰老**的位置上，而露西是那个「火花」——在全书的前二十章里，她一直是记录者与整理者。
 
+---
 > **原句 3:** "And so, one evening when I am enduring an episode of aggravated back pain, and I see the link she had some time ago sent me to the services of a shiatsu master, which I had failed to delete, I feel moved to book a treatment."
 
 **中文理解**：于是，一天晚上，正当我熬着一阵加剧的背痛，而我又看见了她早些时候发给我、一直没删掉的那位指压大师的链接，我动了念头，预约了一次治疗。
@@ -51,6 +52,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意「feel moved」（我动了念头）这个措辞的被动感——不像「我决定」，更像「我被推动了」。
 
+---
 > **原句 4:** "I ring the rooms of this shiatsu sensei, and his assistant informs me that Maxim is fully booked ‘for weeks’. But when I say that Lucy Cheng has referred me, he hesitates. ‘I’ll ask Maxim,’ he says, and returns to say, ‘Maxim says come on Saturday at four.’ … So, the name of Lucy Cheng means something."
 
 **中文理解**：我打电话到那位指压师的诊室，助理告诉我马克西姆已经排满了「好几个星期」。但当我说出是露西·程介绍的，他犹豫了一下。「我去问问马克西姆，」他说，然后回来说：「马克西姆说，周六四点来。」……所以，露西·程这个名字是有分量的。
@@ -97,6 +99,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请记住那只水箱里的鱼——它们将在马瑟被治疗时持续出现在他视线里，成为他与疼痛分心的对象。
 
+---
 > **原句 8:** "Halfway up I hesitate and call, ‘Hello?’"
 
 **中文理解**：上到一半我犹豫了一下，喊了一声：「有人吗？」
@@ -107,6 +110,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：这一章里马瑟一共说了三次「你好」级别的话：一次是这里，一次是问「你在做什么」，一次是问「你认识露西吗」。请留意它们的顺序：先问**空间**，再问**身体**，最后才问**人**。
 
+---
 > **原句 9:** "On the floor are two even rows of dark-navy massage mats, separated by white rice-paper screens at waist height. The mats are unoccupied. Then I see him, Maxim, or rather I see his reflection in a bamboo-framed mirror. His dark head is leaning over a table where he appears to be absorbed in sorting papers. He looks up. ‘James?’ he says."
 
 **中文理解**：地板上排着两列整齐的深藏青色按摩垫，中间用齐腰高的白色宣纸屏风隔开。垫子都空着。然后我看见了他——马克西姆；不，我是在一面竹框镜里看见他的。他的黑发脑袋俯在一张桌子上，看样子正专心整理文件。他抬起头。「詹姆斯？」他说。
@@ -141,6 +145,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请把这一段与第十八章那句「我们没有圣物：什么也不会留下」并读：这里是全书唯一一件**被扔掉的物证**，而扔掉它的动作是为了去信一个人。
 
+---
 > **原句 12:** "But I think of Lucy and drop the envelope onto the floor next to my jacket and shoes. Then I lower myself onto the mat and lie on my back. For years I have had trouble getting onto a floor and I feel irritable and clumsy. The futon is dense and unyielding."
 
 **中文理解**：但我想到了露西，便把信封丢在地上我的外套与鞋子旁边。然后我把自己放到垫子上，仰面躺下。多年来我很难坐到地板上，此刻感到烦躁而笨拙。褥子厚实而不让步。
@@ -151,6 +156,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意「烦躁而笨拙」（irritable and clumsy）：这两个词正是几段之后马克西姆从他的腹部读出来的东西。他已经在那面「鼓面」上了。
 
+---
 > **原句 13:** "He positions a narrow pillow under my head and stands back, gazing down on me as if I am a specimen. Then he kneels beside me on the mat. ‘Okay.’"
 
 **中文理解**：他把一只窄枕垫在我头下，退开一步，低头看我，仿佛我是件标本。然后他在垫子旁跪下。「好了。」
@@ -161,6 +167,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意这一段的顺序：先摆好位置，再退开，再跪下。这是**准备**的动作序列——作者用身体的次序替代了解释。
 
+---
 > **原句 14:** "‘Feeling your hara. Your energy. You might think your brain or your heart are the centre of who you are, but it’s your gut.’"
 
 **中文理解**：「在感觉你的**腹**（hara）。你的能量。你也许以为你的大脑或心脏才是「你是谁」的中心，其实是你的内脏。」
@@ -171,6 +178,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请把「你的 gut 才是中心」与第二十三章马瑟那句「我是台机器」对照——两个体系，一个把人还原成机器，一个把人还原成内脏。
 
+---
 > **原句 15:** "‘It tells me the state of your organs. Where your strengths and weaknesses are.’"
 
 **中文理解**：「它告诉我你各器官的状态。你的强处和弱处在哪里。」
@@ -181,6 +189,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意这整段对话里马瑟一次也没有反驳——他只是问「你在做什么」「我的肝怎么了」「这跟我的背痛有什么关系」。他在**收集数据**。
 
+---
 > **原句 16:** "‘Have you been angry lately? Irritable?’"
 
 **中文理解**：「你最近生气吗？烦躁吗？」
@@ -191,6 +200,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意这是全章唯一一次有人问马瑟**他自己的近况**。全书二十二章，没有一个体验者问过他这个问题。
 
+---
 > **原句 17:** "He grins. ‘That’s not what your body’s telling me.’"
 
 **中文理解**：他咧嘴笑了。「你的身体可不是这么说的。」
@@ -201,6 +211,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意这里的说服结构：不是「你其实在生气」，而是「你的身体说的和你说的不一样」。这是本书里唯一一次用**证据反驳当事人自己的自述**。
 
+---
 > **原句 18:** "‘There’s frustration there. Overthinking.’"
 
 **中文理解**：「那里有挫折感。想得太多。」
@@ -211,6 +222,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请把这一句与第二十一章那句「现实的腐蚀」并读：他的诊断第一次与他的病历对上了。
 
+---
 > **原句 19:** "‘I’m treating your liver meridian.’"
 
 **中文理解**：「我在处理你的**肝经**。」
@@ -221,6 +233,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意被处理的第一条经是**肝**——那正是他「愤怒」被定位到的地方。这套体系把情绪与器官一一对应。
 
+---
 > **原句 20:** "‘Because it’s jitsu. In excess. Too much energy focused there when it needs to be dispersed throughout the body. For balance.’"
 
 **中文理解**：「因为它太**实**（jitsu）了。能量过分集中在那里，而它本该散布到全身。为了平衡。」
@@ -231,6 +244,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请把「为了平衡」与第十六章那句并读。这一章他被教导的，正是他自己身上那套「维持」的逻辑。
 
+---
 > **原句 21:** "‘Literally translated, it means the principle of touching. Skinship.’ He begins to press down again. ‘Actually it means more than that. It means touching without judgment.’"
 
 **中文理解**：「直译过来，它的意思是「接触之理」，肌肤相亲（Skinship）。」他重新按下去。「其实意思不止如此。它是**不带评判的触碰**。」
@@ -241,6 +255,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请把「不带评判的触碰」与第十九章伊薇特那句「他们不评判我」、以及第六章露西那句「让他们觉得不会被评判」并读。这本书反复处理的核心是「被看见而不被判决」。
 
+---
 > **原句 22:** "‘But you have judged me.’"
 
 **中文理解**：「可你评判了我。」
@@ -251,6 +266,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：这句话的分量在于：他在自己的职业领域（诊断）里被人判了刑，而判词是「你评判了我」。
 
+---
 > **原句 23:** "‘That’s a diagnosis. A statement of fact.’"
 
 **中文理解**：「那是诊断。是事实陈述。」
@@ -261,6 +277,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意这段对话的镜像结构：马瑟一生都在对别人说「那是诊断」，而第二十章那句「我把她归为癔症型自恋者」正是这句话的回声。
 
+---
 > **原句 24:** "‘You know Lucy Cheng.’ My words come out of nowhere, but the thought has been awaiting its moment. … ‘Yes, she did one of my courses once. She was gifted but gave it up. That sometimes happens. Just because you’re good at something doesn’t mean you’re meant to do it.’"
 
 **中文理解**：「你认识露西·程。」我的话不知从哪里冒出来，可这个念头一直在等它的时机。……「认识，她以前上过我的一次课。她有天赋，但放弃了。这种事常发生。会做某件事，并不意味着你该一辈子做它。」
@@ -307,6 +324,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意这一段的**触觉证据链**：紧绷的鼓面 → 松开 → 手掌能压到垫面。全书所有其他证据都是语言，只有这一段是**可以验证的**。
 
+---
 > **原句 28:** "‘Good. Release. But you’re a hard case. It took me three goes at the liver meridian.’"
 
 **中文理解**：「好。放掉。不过你是个难搞的病例。肝经我按了三次才成。」
@@ -317,6 +335,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请记住「三次」。第二十三章露西会说：「如果他按三次才放开你，别人就更没戏了。」
 
+---
 > **原句 29:** "I pad over to my shoes and jacket and wait for his return. An old-fashioned cistern gushes, a door squeaks, and he is walking towards me. I hand him a wad of cash and he folds it into the back pocket of his jeans."
 
 **中文理解**：我趿拉着鞋走到我的鞋子与外套旁，等他回来。一只老式水箱哗地一泄，门吱呀一声，他朝我走来。我递给他一叠现金，他把钱折好塞进牛仔裤后袋。
@@ -327,6 +346,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意这一章里马瑟带进这个空间的两样东西：X 光片（被丢弃）与现金（被收下）。他的资产负债表上，这一晚只赚了十七天不痛。
 
+---
 > **原句 30:** "At the bottom of the iron staircase I push at the red metal fire door, which now offers little resistance, and I walk out into the warm, wet street."
 
 **中文理解**：走到铁楼梯底下，我推那扇红色金属防火门，这次它几乎没有阻力；我走进温暖潮湿的街上。

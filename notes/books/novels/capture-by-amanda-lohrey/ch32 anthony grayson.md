@@ -90,6 +90,7 @@ modified: "2026-10-20"
 **读者视角提示**：请把「他一个人去」这半句与后面那句「我绝不会让她冒这个险」并读：这是他写给马瑟看的版本，而真实版本是他不愿承认自己在逃。
 
 
+---
 > **原句 7:** "I am confident that with my ability to master the detail of something I put my mind to that there will be minimal risk and I’m hoping the air at high altitudes will cure my headaches."
 
 **中文理解**：我有信心，凭我那种「一旦把心思放在某件事上就能掌握其细节」的能力，风险会降到最低；而且我希望高海拔的空气能治好我的头痛。

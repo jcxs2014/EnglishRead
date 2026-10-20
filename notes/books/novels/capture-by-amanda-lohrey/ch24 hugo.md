@@ -41,6 +41,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意这次会面从一开始就不是一次访谈——它是一场**同行对谈**，而双方都清楚对方不会让步。
 
+---
 > **原句 3:** "He is happy for me to nominate the walk of my choice, but I am in no mood for hikes and suggest a stroll around the campus."
 
 **中文理解**：他很乐意让我挑路线，可我没心情爬山，就提议在校园里随便走走。
@@ -63,6 +64,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请留意「我明白了」这个短语在本章的全部出现次数：它既是雨果的口头禅，也是马瑟的诊断——雨果总是在假装听懂。
 
+---
 > **原句 5:** "When later I describe him to Lucy, she remarks on how conservatively I dress: ‘Everyone has their camouflage, Jim.’ She also reminds me that nothing in the appearance of our experiencers has so far been in any way revealing of or related in character to their accounts of capture. She has in her transcripts meticulously described their dress, and even Mary, whose business is fake glamour, was unexceptional."
 
 **中文理解**：后来我跟露西描述他时，她评论说我穿得多么保守：「每个人都有自己的伪装，吉姆。」她还提醒我：到目前为止，体验者的外貌没有以任何方式透露或关联到他们那些关于捕获的叙述。她在记录里细致入微地描述过他们的穿着，就连以假魅力为业的玛丽，也毫无特别之处。
@@ -121,6 +123,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意马瑟的反应是「我不会这么说」——他没有反驳这个比喻，他只拒绝接受这个读法。
 
+---
 > **原句 10:** "‘No, I wouldn’t say. I think they’re our reptilian residue, there to remind us that, for much of the time, life is an evolutionary joke.’"
 
 **中文理解**：「我不会这么说。我觉得它们是我们的爬行类残留物，留在那里提醒我们：在这世上，大部分时候生命是一场演化上的玩笑。」
@@ -131,6 +134,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意马瑟在这里报了学名（Intellagama lesueurii）——他用分类学抵抗神话学，这是他全书的防御姿态。
 
+---
 > **原句 11:** "…‘The tendency of modern life is centrifugal. It’s a state of spiritual stasis disguised by surface motion’—the long arms are flung out again, releasing a wave of minted toffee—‘while we swing like arrhythmic pendulums between short-lived self-help, tribal enthusiasms in sport, and shopping for ephemeral stuff. Anything to give our lives a glimmer of meaning, you see. And then, if we can’t find it, we suspect the government is hiding it from us. This is where your conspiracy theories come from. A good conspiracy theory imposes meaning on random and inexplicable events. There’s no God and “they” have taken his place, “they” who rule the world.’"
 
 **中文理解**：「现代生活的倾向是离心性的。它是一种被表面运动伪装起来的灵性停滞——」他的长手臂又甩开，释放出一股薄荷太妃糖的波动——「而我们在短暂的自我提升、运动的部落热情、以及购买转瞬即逝的玩意儿之间，像节律不齐的钟摆一样来回摆动。任何东西，只要能给我们的生活一点意义的光，你看见吧。然后，如果我们找不到它，我们就怀疑是政府把它藏起来了。你的阴谋论就是从这儿来的。一个好的阴谋论，能把意义强加在随机而无法解释的事件上。没有上帝，于是「他们」接替了他的位置，并且统治着世界。」
@@ -201,6 +205,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意雨果先说了一句没有被反驳的话，再用一个反问把「死亡愿望」这个弗洛伊德的标签贴上去——他用提问代替断言，这是他本章的修辞习惯。
 
+---
 > **原句 17:** "Indeed, in several of them the drive to reproduce, by whatever perverse means, expresses itself as a bizarrely inflated desire to take on responsibility for the survival of their species."
 
 **中文理解**：确实，在好几位体验者身上，那种繁殖的冲动——不管用什么荒谬的手段——表现为一种被异常膨胀起来的欲望：**要为本物种的存续承担责任**。
@@ -211,6 +216,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请把这一句与第十九章伊薇特那句「我感到自己负有责任」并读：马瑟在这里终于用了她的词，尽管他并不喜欢它。
 
+---
 > **原句 18:** "‘As you would know, James, birds have monocular vision, an eye on either side of their head. It means they cannot see above them.’"
 
 **中文理解**：「你当然知道，詹姆斯，鸟是单眼视觉的，一只眼睛长在头的两侧。这意味着它们看不见自己上方的东西。」
@@ -221,6 +227,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意「As you would know」——雨果认定马瑟**应该**知道这件专业的事。而马瑟确实知道（他报的学名），只是从没想到它可以被这样用。
 
+---
 > **原句 19:** "‘I was bitten by a cormorant once,’ he says. ‘It was on the sand beside a lagoon and had its eyes on the ground, scavenging for the guts of fish discarded by anglers on the bank. Because it couldn’t see up, it mistook my bare foot for the flesh of a perch.’"
 
 **中文理解**：「我被一只鸬鹚咬过，」他说。「那是在潟湖边的沙地上，它把眼睛朝着地面，在那里翻找垂钓者丢在岸边的鱼的内脏。因为它看不见上方，它把我的赤脚误当成了鲈鱼的肉。」
@@ -231,6 +238,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意这条鸟的因果链：它**不是**因为饿，而是因为看不见。而雨果接下来要说的话，全书都会照这个结构重演。
 
+---
 > **原句 20:** "…‘But that’s how we are, James, you see. We have monocular vision.’"
 
 **中文理解**：「但我们就是这样，詹姆斯，你看见吧。我们是单眼视觉的。」
@@ -241,6 +249,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请把这一句与第十四章伯纳德那句「我第一次感到自己与那道光相连」并读：一个说光在上面，一个说我们看不见上面。
 
+---
 > **原句 21:** "‘Well, there is always the element of grandiosity,’ I explain, ‘by which the ego compensates for feelings of inferiority by fantasising that you have had conferred on you a rare and elevated status, or been chosen for some special destiny. That said, why is it that people of different races, and of different cultures, see the same or similar things? Is it a form of contagion? By which I mean that the subject reads of other people’s experiences, often widely publicised, and then, to fulfil whatever need they have, they conjure themselves into a similar experience.’"
 
 **中文理解**：「嗯，总归有一个**自大狂**（grandiosity）的成分，」我解释道，「自我用它来补偿自卑感，幻想自己被授予了罕见而崇高的地位，或者被选中承担某种特殊命运。不过话说回来，为什么不同种族、不同文化的人，看见的是相同或相似的东西？这是不是一种**传染**？我的意思是：当事人读到别人的经历——那些往往被广泛宣传的经历——然后，为了满足自己的某种需要，就把自己**召唤**进一场相似的经历。」
@@ -275,6 +284,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意马瑟听完这句没有接话。整章他都在心里反驳，而这一句他没有——也许因为它并不完全错。
 
+---
 > **原句 24:** "…‘I find I am haunted by the suffering of others and it impairs my thought.’"
 
 **中文理解**：「我发现别人的苦难缠着我，损害我的思考力。」
@@ -297,6 +307,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请把「神经质」与第二十一章那句「恐惧……损害了我的思维」并读。这是同一类代价的两种支付方式，只是马瑟不这么说自己。
 
+---
 > **原句 26:** "‘What wonderful creatures we are, James!’ he exclaims. ‘Wonderful!’ And, beaming, he strides off down the road."
 
 **中文理解**：「我们是多么美妙的生灵啊，詹姆斯！」他喊道。「美妙！」说完，他容光焕发，大步沿着路走去。
@@ -319,6 +330,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意「wearing」（使人疲惫／磨损）这个词：她用的不是「讨厌」，是「累」。
 
+---
 > **原句 28:** "‘They’re relentless. They leave you feeling hollow, like they feel sorry for you because you haven’t measured up.’"
 
 **中文理解**：「他们不依不饶。他们让你觉得自己是空的，好像他们为你没达标而感到遗憾。」
@@ -329,6 +341,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意马瑟听完这段之后**没有反驳**。他在本章里第一次被人指出了自己身上的东西，而他什么也没说。
 
+---
 > **原句 29:** "‘It ought to be a relief to have this time to myself,’ she says, ‘but I feel marooned.’"
 
 **中文理解**：「本该因为有时间独处而轻松些，」她说，「可我觉得自己像被流放在一座岛上。」

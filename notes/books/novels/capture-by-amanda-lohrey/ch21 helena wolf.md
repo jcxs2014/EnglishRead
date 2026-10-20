@@ -101,6 +101,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意「建构」（construct）这个动词——它与第十五章费莉西蒂那句「投射」、以及第十四章伯纳德那句「我们被统一场的一部分」构成一组：三种关于「自我如何被重造」的答案。
 
+---
 > **原句 8:** "‘A powerful fantasy can help the subject to construct a new identity.’"
 
 **中文理解**：「一种有力的幻想可以帮助当事人建构一个新的身份。」
@@ -111,6 +112,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请把这一句与第二十章那套「用基因编辑挑最优胚胎」的方案并读：一个改造身份，一个改造基因，而两者的目标都是让人**成为别人**。
 
+---
 > **原句 9:** "‘If the drive is to imagine yourself as a member of a new Elect—and I’ve thought of that—then it’s a painful way to go about it.’"
 
 **中文理解**：「如果驱动力是把自己想象成一个新『选民』（Elect）的一员——这一点我也想过——那这就是一种痛苦的方式。」
@@ -145,6 +147,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意这是马瑟第二次向人提起费莉西蒂（第一次在第十五章）。每一次提起，他都更强调那场对话**没用**。
 
+---
 > **原句 12:** "‘Nothing useful, just the weeds of superstition. We don’t have a science of experience. We like to think we do but we haven’t got very far.’"
 
 **中文理解**：「没什么用，只有迷信的杂草。我们还没有一门关于经验的科学。我们以为自己有，但没走多远。」
@@ -155,6 +158,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请把「杂草」与第十五章那句「同一套老故事，不同道具」对照。他在书外说过狠话，在书内承认了同一件事。
 
+---
 > **原句 13:** "You have to be in the room, I think, which has become a kind of mantra, both for me and for Lucy. You have to be in the room, we say to one another. Between Lucy and me it’s a kind a joke, but a serious joke, one that in the intense atmosphere of my rooms serves to keep us attuned not only to our experiencers but to one another. It has become our way of suspending disbelief, of staying open. But now, in Helena’s company, it raises an uncomfortable question: am I losing my detachment? And, if so, when did this corrosion of the reality principle begin? And if I am indeed losing it, then there is nowhere to go with my research. I could listen to another fifty experiencers and it would make no difference, and the only outcome be that I develop a warped affection for them, all except for Bernard and his snivelling spirituality."
 
 **中文理解**：我想你得**在房间里**——这已经成了某种咒语，对我和露西都是。我们互相说：你得在房间里。在我俩之间这是个玩笑，但是个认真的玩笑；在我的房间那种紧张的气氛里，它让我们不只对体验者、也对我们彼此保持调谐。它成了我们**悬置怀疑**、保持敞开的方式。可此刻在海伦娜面前，它引出一个不舒服的问题：我是不是正在失去超脱？如果是，那么这份「现实原则」的腐蚀是从什么时候开始的？而如果我确实在失去它，那这项研究就无处可去了。我可以再听五十位体验者的叙述，那不会有任何区别，唯一的结果是我会发展出一种扭曲的偏爱——除了伯纳德和他那套哭哭啼啼的灵性之外。
@@ -225,6 +229,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意这场对话的双重性质：一个精神科医生向另一个精神科医生提供**未经发表**的临床材料。
 
+---
 > **原句 19:** "‘It seems he was one of the lucky ones. Got a message we should all be kinder to one another.’"
 
 **中文理解**：「看来他算是幸运的那类。他得到一条讯息：我们都应该对彼此更仁慈一些。」
@@ -235,6 +240,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意「幸运」在这里指的是**没出事**——而这套静修文化里的「没事」的标准低得惊人。
 
+---
 > **原句 20:** "‘Didn’t get the giant lizards and the demons?’ … ‘Didn’t mention them.’"
 
 **中文理解**：「没看到那些巨蜥和恶魔？」……「没提到。」
@@ -245,6 +251,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请把这段与第十五章费莉西蒂的论断对照：她说「人们会看见他们已经理解的东西」——而这位病人「没提到」，本身就是一句证词。
 
+---
 > **原句 21:** "‘I’ve always been cautious about any drug that I haven’t prescribed myself.’"
 
 **中文理解**：「我一向对任何不是我自己开的药都保持谨慎。」
@@ -267,6 +274,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意「太难做准了」这半句：一个食物要「准」，意味着存在一套标准；而这一章里，标准正被讨论——在面包上，在生育上，在人身上。
 
+---
 > **原句 23:** "‘My granddaughter won’t eat and your son has developed a bread fetish,’ she says. Laying down her fork, she allows herself a rueful smile. ‘Excursions into self-artistry.’"
 
 **中文理解**：「我孙女不肯吃，你儿子却迷上了面包，」她说。她放下叉子，露出一个悔恨的微笑。「都是些自我造艺的 excursions。」

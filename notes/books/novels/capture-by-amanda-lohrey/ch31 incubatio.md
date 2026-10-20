@@ -150,6 +150,7 @@ modified: "2026-10-20"
 **读者视角提示**：请注意「I consulted the booklet and, sure enough」这半句——叙述者立刻去核对册子，而册子是**同一个来源**。这是本书对「文献」最冷的一次评价：它能证明狗是神圣的，因为它就是那个传说写成的。
 
 
+---
 > **原句 12:** "Selim took a right turn and beckoned. ‘I take you to the dream room,’ he said."
 
 **中文理解**：塞利姆右转，招手。「我带你去梦屋，」他说。
@@ -173,6 +174,7 @@ modified: "2026-10-20"
 **读者视角提示**：请注意「在这里做梦，然后你就好了」这半句的**因果顺序**：先做梦，后好。而下一段马瑟的疑问正是「要是你没做梦呢？」
 
 
+---
 > **原句 14:** "In the musty heat of the tunnel, I felt a shudder of something I can only describe as recognition, as if this was something I had always known but forgotten. ‘But what if you didn’t dream?’ I murmured, thinking aloud. … Selim, wide-eyed, was adamant. ‘Everybody dream,’ he said."
 
 **中文理解**：在隧道闷热的空气里，我感到一阵只能称之为**认出**的战栗，仿佛这是我一直知道却忘了的东西。「可要是你没做梦呢？」我喃喃道，自言自语。……塞利姆睁大眼睛，斩钉截铁。「人人都做梦，」他说。
