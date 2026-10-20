@@ -49,7 +49,7 @@ modified: "2026-10-20"
 
 **关键词**：Attached. It was the word Felicity had used / the syndrome she had warned me of / I have stepped back from the danger of intimacy / of believing them / but, to my surprise, attachment has remained
 
-**为什么这样写**：作者用一个词（attached）把第十五章的警告**兑现**——费莉西蒂说过「你被依恋上你的人了」，那本书当时还只是一次午餐闲谈。而「亲密的危险」（the danger of intimacy）这半句点明了一件更精确的事：马瑟退回的不是因为他不相信，而是因为**相信**变得危险。
+**为什么这样写**：作者用一个词（attached）把第十五章的警告**兑现**——费莉西蒂说过「你被依恋上你的人了」，**那次谈话**当时还只是一场**傍晚的拜访**——马瑟带去的是一瓶佩德罗·希梅内斯雪莉酒（费莉西蒂临别时女儿快回来做晚饭了）。而「亲密的危险」（the danger of intimacy）这半句点明了一件更精确的事：马瑟退回的不是因为他不相信，而是因为**相信**变得危险。
 
 **读者视角提示**：请注意「相信」与「依恋」被分开处理：他退出了前者，却无法退出后者。这正是**第十九章**那句「我可能失去了客观性」的最终形态（第二十一章那一句是「我是不是正在失去超脱」）。
 

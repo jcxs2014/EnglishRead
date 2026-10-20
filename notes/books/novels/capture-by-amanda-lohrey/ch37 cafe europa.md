@@ -87,7 +87,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：一封**手写信**的开头，而「我总得给它找个用途」（I had to find a use for it）这半句把写信变成了一次**物恋**：她买了纸，就得写。而「所以这是一封老派的信」是一个玩笑，也是一个宣告：她选择**不用电子件**告诉马瑟。
 
-**读者视角提示**：请注意这封信的**物质性**：厚羊皮纸、压印的深蓝回纹。**第二十五章**那封德博拉写来的信也一样——物质性在这本书里始终是意义的载体。
+**读者视角提示**：请注意这封信的**物质性**：厚羊皮纸、压印的深蓝回纹。**第二十五章**床头那张**德博拉的照片**也一样——物质性在这本书里始终是意义的载体。
 
 ---
 
@@ -106,11 +106,11 @@ modified: "2026-10-20"
 
 > **原句 8:** "So while the Earth heats up we strive to prolong our lives, presumably to survive under a sealed dome on Mars. Just yesterday I read about a tech billionaire who, in his efforts to defy time, arranged for a transfusion of his teenage son’s plasma. You will be interested to know it was deemed to be of no benefit. But reading about it I felt kind of queasy. I have embarked on a chronicle of hubris."
 
-**中文理解**：所以，在地球变热的同时，我们努力延长自己的生命，大概是为了在火星上某个密封的穹顶下生存。就在昨天我读到一位科技亿万富翁，他为了挑战时间，安排给自己十几岁的儿子输注血浆。你也许会有兴趣知道：这件事被认定没有任何好处。但读着它，我有点恶心。我已开始写一部**傲慢的编年史**。
+**中文理解**：所以，在地球变热的同时，我们努力延长自己的生命，大概是为了在火星上某个密封的穹顶下生存。就在昨天我读到一位科技亿万富翁，他为了挑战时间，**从自己十几岁的儿子那里抽出血浆输给自己**。你也许会有兴趣知道：这件事被认定没有任何好处。但读着它，我有点恶心。我已开始写一部**傲慢的编年史**。
 
 **关键词**：while the Earth heats up we strive to prolong our lives / presumably to survive under a sealed dome on Mars / a tech billionaire who, in his efforts to defy time / arranged for a transfusion of his teenage son’s plasma / it was deemed to be of no benefit / I felt kind of queasy / I have embarked on a chronicle of hubris
 
-**为什么这样写**：全书最后一次把母题与现实并置：火星上的密封穹顶，与第十一章斯科特那架没有窗、没有铆钉的飞行器；而那位亿万富翁（**第十一章**里他四十一岁）与**自己的儿子**——这一笔让「延寿」从抽象变成了一种**家庭内的消耗**。而「我已开始写一部傲慢的编年史」（a chronicle of hubris）是露西给自己的研究定的性。
+**为什么这样写**：全书最后一次把母题与现实并置：火星上的密封穹顶，与**第十一章斯科特看见的那架不明飞行物**（没有舷窗、没有铆钉）相对——那不是斯科特的座机（那是 HondaJet Elite II）；而信里那位亿万富翁也**不是第十一章里四十一岁的斯科特雇主**，他是从**自己十几岁的儿子**身上取用血浆——这一笔让「延寿」从抽象变成了一种**家庭内的消耗**。而「我已开始写一部傲慢的编年史」（a chronicle of hubris）是露西给自己的研究定的性。
 
 **读者视角提示**：请注意「你也许会有兴趣知道：这件事被认定没有任何好处」——她是在**回信**，在回应马瑟那封告诉她研究失败的信。而她紧接着说了「我有点恶心」。
 
@@ -122,7 +122,7 @@ modified: "2026-10-20"
 
 **关键词**：The albino girl is holding a thick paperback up close to her face / her nails an iridescent green / in her left hand her silver magnifying glass / She is so wonderfully composed, like a young woman in a painting / she returns my gaze / her book and reading glass poised in the air / confident in her difference / with the trace of a smile she turns her beautiful white face back to the book
 
-**为什么这样写**：第六章那个只出现过**一次**的白化病女孩，在此回来了——而作者让她的机位精确地对应当年：「自信于自己的不同」（confident in her difference）这半句，是**这一章叙述者自己**的说法——当年**露西**的读法恰恰相反（「她很做作，她在告诉我们什么」），马瑟的读法是「投入／她毫不做作」。多年之后，这句话从露西嘴里移到了叙述者自己的心里。
+**为什么这样写**：第六章那个只出现过**一次**的白化病女孩，在此回来了——而作者让她的机位精确地对应当年：「自信于自己的不同」（confident in her difference）这半句**当年正是露西说的**（第六章：「她对自己的不同有信心」）——在她说这句之前，她先说的是「她很做作，她在告诉我们什么」；马瑟的读法是「投入／她毫不做作」。多年之后，这句话从露西嘴里移到了叙述者自己的心里。
 
 **读者视角提示**：请注意「I nod, she hesitates」——一次**点头**，一个**迟疑**。全书最安静的对话，双方都没有说话。
 

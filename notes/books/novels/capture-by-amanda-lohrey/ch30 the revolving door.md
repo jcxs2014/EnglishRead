@@ -27,7 +27,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：作者用**季节与天气**写一个人的收缩：风停了（喧嚣停了），空气新鲜了，而他把自己**关起来**（confine himself）。而「沿湖边走走」这半句，把**第二十四章**雨果的散步路线悄悄接了过来——同一条湖边路径，不同的用途。
 
-**读者视角提示**：请注意「湖」这个地点在本书里的反复出现：**第二十四章雨果**在那儿散步，**第二十六章**马瑟自己也在这条湖边走了一圈（独自）。此外书里还有一处湖，是马瑟梦里的那间密闭小屋。此刻他独自走一圈，而那圈路的意义正在流失。
+**读者视角提示**：请注意「湖」这个地点在本书里的反复出现：**第二十四章雨果**在那儿散步，**第二十六章**马瑟自己也在这条湖边走了一圈（独自）。此刻他独自走一圈，而那圈路的意义正在流失。
 
 ---
 
@@ -81,7 +81,7 @@ modified: "2026-10-20"
 
 > **原句 6:** "We arrange for her to come to my consulting rooms to collect some few things that she has left behind. … When the day arrives, we sit in the outer room by her desk and reminisce like veterans of a daring but short-lived campaign in which no casualties were suffered on the field but no territory was gained. I confess that I miss our people and so, she says, does she. It was a dark time following her divorce and her mind found another place to go, away from the pain of her domestic situation. The world of our experiencers had proved to be an unlikely realm of respite. ‘The ultimate distraction, Jim. I could forget myself.’"
 
-**中文理解**：我们安排她到我的诊室来取她落下的一些东西。……那天到了，我们坐在外间她那张办公桌旁，像**老兵**那样追忆一场大胆却短命的战役：战场上没有伤亡，但也没有拿下任何领土。我承认我想念我们的人——她也一样。那是她离婚之后的黑暗时期，而她的心思找到了另一个去处，好躲开家庭处境的痛苦。我们这些体验者的世界，结果成了一片**不大可能的喘息之地**。「 ultimate distraction，吉姆。我可以忘掉我自己。」
+**中文理解**：我们安排她到我的诊室来取她落下的一些东西。……那天到了，我们坐在外间她那张办公桌旁，像**老兵**那样追忆一场大胆却短命的战役：战场上没有伤亡，但也没有拿下任何领土。我承认我想念我们的人——她也一样。那是她离婚之后的黑暗时期，而她的心思找到了另一个去处，好躲开家庭处境的痛苦。我们这些体验者的世界，结果成了一片**不大可能的喘息之地**。「**彻底的消遣**，吉姆。我可以忘掉我自己。」
 
 **关键词**：we sit in the outer room by her desk / reminisce like veterans of a daring but short-lived campaign / no casualties were suffered on the field but no territory was gained / I confess that I miss our people / It was a dark time following her divorce / her mind found another place to go / The world of our experiencers had proved to be an unlikely realm of respite / The ultimate distraction, Jim / I could forget myself
 

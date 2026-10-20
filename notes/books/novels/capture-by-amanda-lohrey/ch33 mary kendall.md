@@ -25,7 +25,7 @@ modified: "2026-10-20"
 
 **关键词**：I’m sorry that you have made no discoveries / It’s all a big mystery, isn’t it? / Life goes on and I have had no more experiences / I do sometimes have flashbacks / about what They showed me about the future of the planet / I do see the world differently now / Once you see our cities drowning and some of them on fire / it never leaves you
 
-**为什么这样写**：信里第一句是**遗憾**，第二句是**释然**（生活继续），第三句才轮到那件大事。而「They」的首字母大写是关键：那个群体在她的信里有了**专名**的地位——比「外星人」更实、也更远。而「我们的城市在溺水、其中一些还在燃烧」这半句，与**第七章**玛丽看到的那幅画面（地球在燃烧、核爆、河流干涸、海洋浮着腐烂物）**同源但不相同**——七年前她看到的是末日，这封信里她说的是她在电视上看见的城市。
+**为什么这样写**：信里第一句是**遗憾**，第二句是**释然**（生活继续），第三句才轮到那件大事。而「They」的首字母大写是关键：那个群体在她的信里有了**专名**的地位——比「外星人」更实、也更远。而「我们的城市在溺水、其中一些还在燃烧」这半句，与**第七章**玛丽看到的那幅画面（地球在燃烧、核爆、河流干涸、海洋浮着腐烂物）**同源但不相同**——当年她看到的是**末日**（核爆、河流干涸、海洋浮着腐烂物），这封信里她说的是她在电视上看见的城市。
 
 **读者视角提示**：请注意「我再没有新的经历」这半句——她只被捕获了一次，而且那次之后她**没有被再访问**。而她仍然记得。
 
