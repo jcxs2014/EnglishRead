@@ -16,6 +16,10 @@
    否则它就是一份**没有入口的规则**——写了也没人会读。
 3. **引用不悬空**：`docs/`、`.memory/`、`scripts/` 下的路径引用必须真实存在。
    2026-10-20 拆分当场扫出 8 处悬空引用。
+4. **脚本有归口**：`scripts/*.py` 每个都必须在 `docs/rules/工具登记.md` 里登记一行；
+   书目录 / `docs/` / 根目录**不许出现 .py**（一次性脚本用完进 `scripts/attic/`）。
+   2026-10-20 实测：30 天内新增 92 个脚本、`scripts/attic/` 已堆 564 个 ⇒ 不设归口，
+   脚本库只会越滚越大，而且没人说得清哪个还在用。
 
 退出码：0 全部通过；1 有阻断（预算超标 / 路由缺失 / 悬空引用）。
 提示型（硬编码数字）不阻塞，只列出来。
@@ -37,6 +41,7 @@ PATH_RE = re.compile(r"`((?:docs|\.memory|scripts)/[^`\s]+?)(?:#L\d+(?:-L\d+)?)?
 NUM_RE = re.compile(r"(\d+)\s*(?:个|条)\s*(?:lane|检查器)")
 # 这两份是**过程文档**（怎么重构 / 迁移进度），不是运行期规则，不需要 AGENTS 入口
 NOT_ROUTED = {"PLAN.md", "MIGRATION.md"}
+REGISTRY = ROOT / "docs" / "rules" / "工具登记.md"
 
 
 def strip_code_blocks(text: str) -> str:
@@ -86,6 +91,45 @@ def main() -> int:
         bad.append("悬空引用：" + "；".join(sorted(set(dangling))[:8]))
     else:
         print("✅ 路径引用全部存在")
+
+    # —— 4. 脚本有归口 ——
+    def _git(*args):
+        r = subprocess.run(["git", *args], cwd=ROOT, capture_output=True, text=True)
+        return r.stdout.splitlines() if r.returncode == 0 else []
+
+    tracked = _git("ls-files", "scripts")
+    tracked_py = [x for x in tracked if x.endswith(".py")]
+    reg = REGISTRY.read_text(encoding="utf-8") if REGISTRY.exists() else ""
+    if not REGISTRY.exists():
+        bad.append("缺少 docs/rules/工具登记.md（新增脚本无处登记）")
+    else:
+        unregistered = [x.split("/")[-1] for x in tracked_py
+                        if f"`{x.split('/')[-1]}`" not in reg]
+        if unregistered:
+            bad.append(f"{len(unregistered)} 个**已入库**脚本未登记：{', '.join(unregistered[:6])}"
+                       + ("…" if len(unregistered) > 6 else "")
+                       + " → 在 docs/rules/工具登记.md 补一行")
+        else:
+            print(f"✅ scripts/ 已入库的 {len(tracked_py)} 个脚本全部登记")
+
+    scratch = [x for x in _git("ls-files", "--others", "--exclude-standard", "scripts")
+               if x.endswith(".py")]
+    if scratch:
+        warn.append("scripts/ 下有未入库的临时脚本（用完请删或进 attic）：" + "、".join(scratch[:5]))
+
+    allow = ("scripts/", "site/", ".memory/tools/", ".memory/raw-gates/")
+    seen = _git("ls-files") + _git("ls-files", "--others", "--exclude-standard")
+    stray = [x for x in dict.fromkeys(seen)
+             if x.endswith(".py") and not x.startswith(allow)]
+    if stray:
+        bad.append("书目录/文档目录里出现 .py（脚本进 scripts/；书内脚手架只能放 gitignore 的 `.build/`）："
+                   + "、".join(stray[:5]))
+    else:
+        print("✅ 书/文档目录内无散落脚本（.build/ 与 raw-gates 证据除外）")
+
+    rg = [x for x in tracked if x.endswith(".py")]
+    if rg:
+        warn.append(f".memory/raw-gates/ 里有 {len(rg)} 个审查期一次性脚本（作为证据保留，不参与工具库统计）")
 
     # —— 提示型：硬编码数字 ——
     for f in [AGENTS, *sorted(RULES_DIR.glob("*.md"))]:
