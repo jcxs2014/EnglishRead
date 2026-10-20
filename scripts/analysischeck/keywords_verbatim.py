@@ -129,7 +129,7 @@ def read_chapter_text(book_dir, n):
     # 唯一分隔符是空格 ⇒ 用空格命名的书参照集恒为空，该工具对任何文件都必然报「查无」
     # （假红型）。分隔符与章号位数统一走 chapter_text_path 唯一实现。
     import sys as _sys, os as _os
-    _sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+    _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))))  # scripts/（chapter_text_path 在顶层）
     from chapter_text_path import find_chapter_text
     p = find_chapter_text(book_dir, n)
     return io.open(p, encoding="utf-8", errors="replace").read() if p else ""

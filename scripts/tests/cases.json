@@ -1154,5 +1154,210 @@
    "  ❌ ch16 chapter 16 darla.md: 编号不连续：[2, 3, 4, 5]",
    "  ❓ ch22 chapter 22 nandhini.md：引语展平后非唯一命中（pos=11978），该章不判"
   ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:analysis-inline",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/analysis.py",
+   "inline",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle"
+  ],
+  "head": "fb8918c5b425",
+  "rc": 0,
+  "sha": "03b47788400dc9b9",
+  "tail": [
+   "  ⚠️  ch07 Club Flamingo.md:56  「corpse dealer」→ 实为 ch01",
+   "  ⚠️  ch10 Date Night.md:38  「Worm food」→ 实为 ch01,15",
+   "  ⚠️  ch16 Demonetized.md:75  「The truth is overrated」→ 实为 ch01"
+  ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:analysis-quotes",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/analysis.py",
+   "quotes",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle"
+  ],
+  "head": "fb8918c5b425",
+  "rc": 1,
+  "sha": "07f91c7fe6b1b8ec",
+  "tail": [
+   "❌ 疑似伪造（引号内英文全书查无）：2 条 ⇒ 必须改",
+   "⚠️ 跨章引用**未标注**（英文在他章、本章查无、块内无 chNN）：2 条 ⇒ 须在本块内标出 chNN，否则读者会误读为引自本章"
+  ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:analysis-keywords",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/analysis.py",
+   "keywords",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle"
+  ],
+  "head": "fb8918c5b425",
+  "rc": 0,
+  "sha": "567537b1e7f7af4e",
+  "tail": [
+   "✅ 阻断型 0 条"
+  ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:analysis-nav",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/analysis.py",
+   "nav",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+   "--per-chapter"
+  ],
+  "head": "fb8918c5b425",
+  "rc": 0,
+  "sha": "53257fc493cf04db",
+  "tail": [
+   "ℹ️ epub 二级参考集：Fabulous Bodies (Chuck Tingle) (z-library.sk, 1lib.sk, z-lib.sk).epub（318441 flat 字符）　—— text/ 查无而 epub 命中将判**提示型**不判红",
+   "=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ==="
+  ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:analysis-xref",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/analysis.py",
+   "xref",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle"
+  ],
+  "head": "fb8918c5b425",
+  "rc": 0,
+  "sha": "3ef6b73f22be50d5",
+  "tail": [
+   "  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0"
+  ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:analysis-misattr",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/analysis.py",
+   "misattr",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle"
+  ],
+  "head": "fb8918c5b425",
+  "rc": 0,
+  "sha": "33e6a0615d7e6578",
+  "tail": [
+   "    L38 [本章导航] 实为 ch01/ch15：Worm food",
+   "  ch16 Demonetized.md（1 条）",
+   "    L75 [本章导航] 实为 ch01：The truth is overrated"
+  ]
+ },
+ {
+  "id": "finding-darla-by-vidhya-sathyamoorthy:analysis-inline",
+  "book": "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+  "cmd": [
+   "python3",
+   "scripts/analysis.py",
+   "inline",
+   "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
+  ],
+  "head": "b24907b12202",
+  "rc": 0,
+  "sha": "20bd22631a041b94",
+  "tail": [
+   "  ⚠️  ch23 epilogue.md:46  「resolved」→ 实为 ch08",
+   "  ⚠️  ch23 epilogue.md:63  「resolution」→ 实为 ch17",
+   "  ⚠️  ch23 epilogue.md:103  「resolved」→ 实为 ch08"
+  ]
+ },
+ {
+  "id": "finding-darla-by-vidhya-sathyamoorthy:analysis-quotes",
+  "book": "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+  "cmd": [
+   "python3",
+   "scripts/analysis.py",
+   "quotes",
+   "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
+  ],
+  "head": "b24907b12202",
+  "rc": 0,
+  "sha": "3465713001a57d1e",
+  "tail": [
+   "✅ 引号内英文全部能在 text/ 里查到"
+  ]
+ },
+ {
+  "id": "finding-darla-by-vidhya-sathyamoorthy:analysis-keywords",
+  "book": "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+  "cmd": [
+   "python3",
+   "scripts/analysis.py",
+   "keywords",
+   "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
+  ],
+  "head": "b24907b12202",
+  "rc": 1,
+  "sha": "8049b41babd23168",
+  "tail": [
+   "      提示型·导航层人物全名指代（非引语，不要求逐字命中）",
+   "  ch23 epilogue.md:10  Manny RSVPed",
+   "      提示型·导航层人物全名指代（非引语，不要求逐字命中）"
+  ]
+ },
+ {
+  "id": "finding-darla-by-vidhya-sathyamoorthy:analysis-nav",
+  "book": "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+  "cmd": [
+   "python3",
+   "scripts/analysis.py",
+   "nav",
+   "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+   "--per-chapter"
+  ],
+  "head": "b24907b12202",
+  "rc": 0,
+  "sha": "1088408f5205ab89",
+  "tail": [
+   "ℹ️ epub 二级参考集：Finding Darla (Vidhya Sathyamoorthy) (z-library.sk, 1lib.sk, z-lib.sk).epub（244955 flat 字符）　—— text/ 查无而 epub 命中将判**提示型**不判红",
+   "=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ==="
+  ]
+ },
+ {
+  "id": "finding-darla-by-vidhya-sathyamoorthy:analysis-xref",
+  "book": "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+  "cmd": [
+   "python3",
+   "scripts/analysis.py",
+   "xref",
+   "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
+  ],
+  "head": "b24907b12202",
+  "rc": 0,
+  "sha": "4b27b9f9b87f28b2",
+  "tail": [
+   "  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0"
+  ]
+ },
+ {
+  "id": "finding-darla-by-vidhya-sathyamoorthy:analysis-misattr",
+  "book": "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
+  "cmd": [
+   "python3",
+   "scripts/analysis.py",
+   "misattr",
+   "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
+  ],
+  "head": "b24907b12202",
+  "rc": 1,
+  "sha": "86dcd23d73801f17",
+  "tail": [
+   "❌ 跨章误标（块内**未标 chNN**，读者会误读为本章引文）：51 条"
+  ]
  }
 ]

@@ -33,7 +33,7 @@ _CLAUSE = "，。；、：？！,;"
 
 def _load_sai():
     here = os.path.dirname(os.path.abspath(__file__))
-    p = os.path.join(here, "sweep_analysis_inline.py")
+    p = os.path.join(here, "sweep_analysis_inline.py")  # 同包内，改名会断
     if not os.path.exists(p):
         p = os.path.join(os.getcwd(), "scripts", "sweep_analysis_inline.py")
     spec = importlib.util.spec_from_file_location("sai", p)

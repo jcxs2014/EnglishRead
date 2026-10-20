@@ -151,10 +151,10 @@ echo; echo "=== ⑨ 导航/总结层英文核对（六道门禁盲区）==="
 #   `^[[:space:]]+❌`（要求至少一个前导空格）对不上 ⇒ 阻断型被静默漏网
 #   （实证：ch08 导航层一条「I knew he had to allow it」全书查无，聚合仍报 0 条）。
 #   修法：去掉 tail -1 显示明细，并用 sed 统一缩进使其进入既有聚合判据。
-python3 scripts/check_nav_layer.py "$B" --per-chapter 2>&1 | sed 's/^/  /'
+python3 scripts/analysis.py nav "$B" --per-chapter 2>&1 | sed 's/^/  /'
 
 echo; echo "=== ⑩ sweep_analysis_inline（分析层行内英文）==="
-python3 scripts/sweep_analysis_inline.py "$B" 2>&1 | grep "逐字"
+python3 scripts/analysis.py inline "$B" 2>&1 | grep "逐字"
 
 echo; echo "=== ⑪ structure.py audit（结构；子项检查是假阴性高发点，0 不等于齐）==="
 python3 scripts/structure.py audit "$B" --quiet 2>&1 | tail -2
@@ -329,7 +329,7 @@ else echo "（无总览三篇，本项不适用）"; fi
 #     ⚠️ 移章（不在被引章）**只记不改**——「回望前章」是正当写法，真错与正当在这里同形，
 #        机械阻断会把正当内容改坏；**必须人工读行并把处置写进报告**（Beach Read 11 处即如此查出）
 echo; echo "=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）==="
-python3 scripts/check_xref_chapter.py "$B" 2>&1 | sed -n '1,40p'
+python3 scripts/analysis.py xref "$B" 2>&1 | sed -n '1,40p'
 
 
 # ⑰ 2026-10-02 新增（Beach Read 第八轮，验证器指出）：**引语块结构对账**。
