@@ -131,7 +131,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意马瑟在这里报了学名（Intellagama lesueurii）——他用分类学抵抗神话学，这是他全书的防御姿态。
 
-> **原句 11:** "‘The tendency of modern life is centrifugal. It’s a state of spiritual stasis disguised by surface motion’—the long arms are flung out again, releasing a wave of minted toffee—‘while we swing like arrhythmic pendulums between short-lived self-help, tribal enthusiasms in sport, and shopping for ephemeral stuff. Anything to give our lives a glimmer of meaning, you see. And then, if we can’t find it, we suspect the government is hiding it from us. This is where your conspiracy theories come from. A good conspiracy theory imposes meaning on random and inexplicable events. There’s no God and “they” have taken his place, “they” who rule the world.’"
+> **原句 11:** "…‘The tendency of modern life is centrifugal. It’s a state of spiritual stasis disguised by surface motion’—the long arms are flung out again, releasing a wave of minted toffee—‘while we swing like arrhythmic pendulums between short-lived self-help, tribal enthusiasms in sport, and shopping for ephemeral stuff. Anything to give our lives a glimmer of meaning, you see. And then, if we can’t find it, we suspect the government is hiding it from us. This is where your conspiracy theories come from. A good conspiracy theory imposes meaning on random and inexplicable events. There’s no God and “they” have taken his place, “they” who rule the world.’"
 
 **中文理解**：「现代生活的倾向是离心性的。它是一种被表面运动伪装起来的灵性停滞——」他的长手臂又甩开，释放出一股薄荷太妃糖的波动——「而我们在短暂的自我提升、运动的部落热情、以及购买转瞬即逝的玩意儿之间，像节律不齐的钟摆一样来回摆动。任何东西，只要能给我们的生活一点意义的光，你看见吧。然后，如果我们找不到它，我们就怀疑是政府把它藏起来了。你的阴谋论就是从这儿来的。一个好的阴谋论，能把意义强加在随机而无法解释的事件上。没有上帝，于是「他们」接替了他的位置，并且统治着世界。」
 
@@ -167,7 +167,7 @@ modified: "2026-10-20"
 
 ---
 
-> **原句 14:** "‘Tell me, don’t your patients come up with coherent stories of what made them the way they are to substitute for the great narrative of origin that once held us together as God’s children? There is only the original trauma of the expulsion from Eden, but we are obliged to invent individual ones, so small and yet so wounding. Wounds without the hope of ultimate solace, only what you call therapy, and that at a price.’"
+> **原句 14:** "…‘Tell me, don’t your patients come up with coherent stories of what made them the way they are to substitute for the great narrative of origin that once held us together as God’s children? There is only the original trauma of the expulsion from Eden, but we are obliged to invent individual ones, so small and yet so wounding. Wounds without the hope of ultimate solace, only what you call therapy, and that at a price.’"
 
 **中文理解**：「告诉我，你的病人难道不会编出一套连贯的故事，解释他们为何成为今天这样，用它来替代那个曾经把我们作为上帝的孩子聚在一起的伟大起源叙事？被逐出伊甸园只有那一次原初的创伤，但我们有义务去发明属于个人的替代品：如此渺小，却又如此伤人。没有终极慰藉的伤口，只有你们所谓的治疗，而且还要付出代价。」
 
@@ -231,7 +231,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意这条鸟的因果链：它**不是**因为饿，而是因为看不见。而雨果接下来要说的话，全书都会照这个结构重演。
 
-> **原句 20:** "‘But that’s how we are, James, you see. We have monocular vision.’"
+> **原句 20:** "…‘But that’s how we are, James, you see. We have monocular vision.’"
 
 **中文理解**：「但我们就是这样，詹姆斯，你看见吧。我们是单眼视觉的。」
 
@@ -275,7 +275,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意马瑟听完这句没有接话。整章他都在心里反驳，而这一句他没有——也许因为它并不完全错。
 
-> **原句 24:** "‘I find I am haunted by the suffering of others and it impairs my thought.’"
+> **原句 24:** "…‘I find I am haunted by the suffering of others and it impairs my thought.’"
 
 **中文理解**：「我发现别人的苦难缠着我，损害我的思考力。」
 

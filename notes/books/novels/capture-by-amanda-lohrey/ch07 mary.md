@@ -91,7 +91,7 @@ modified: "2026-10-20"
 
 ---
 
-> **原句 7:** "‘There’s Cats Eye, which is longer at the outer edges, or Dolly, which is longer in the middle. Dolly opens smaller eyes up and Cats Eye makes bigger ones sexier. Then there’s Russian, very popular with brides—multiple fake lashes on each natural one. Over the top, massive. Comes up lovely in photographs.’"
+> **原句 7:** "…‘There’s Cats Eye, which is longer at the outer edges, or Dolly, which is longer in the middle. Dolly opens smaller eyes up and Cats Eye makes bigger ones sexier. Then there’s Russian, very popular with brides—multiple fake lashes on each natural one. Over the top, massive. Comes up lovely in photographs.’"
 
 **中文理解**：「有猫眼款，外侧更长；有娃娃款，中间更长。娃娃款能把小眼睛显大，猫眼款则让大眼更性感。然后还有俄罗斯款，新娘里很流行——每一根真睫毛上贴好几根假睫毛。太过头了，夸张得很。不过照片里倒是好看极了。」
 
@@ -247,7 +247,7 @@ modified: "2026-10-20"
 
 ---
 
-> **原句 20:** "‘They slid the tube out and I pulled down my nightdress and I just knew. I think I was in shock—you can imagine—but they lifted me up and walked me over to a big screen. They wanted to show me something. And it was the Earth, not the Earth as it is now, not our lovely Earth, but what’s coming. I saw the Earth on fire, nuclear explosions, and rivers all dried up, and desert everywhere. Trees all withered, the oceans with all this rotting stuff floating on top. It was horrible, just horrible.’"
+> **原句 20:** "…‘They slid the tube out and I pulled down my nightdress and I just knew. I think I was in shock—you can imagine—but they lifted me up and walked me over to a big screen. They wanted to show me something. And it was the Earth, not the Earth as it is now, not our lovely Earth, but what’s coming. I saw the Earth on fire, nuclear explosions, and rivers all dried up, and desert everywhere. Trees all withered, the oceans with all this rotting stuff floating on top. It was horrible, just horrible.’"
 
 **中文理解**：「它们把管子抽出来，我拉下睡衣，我就是知道。我想我当时处于休克状态——你可以想象——但它们把我抬起来，带到一块大屏幕前。它们想给我看一样东西。那是地球，不是现在的地球，不是我们这个可爱的地球，而是即将到来的地球。我看见地球在燃烧，核爆炸，河流全部干涸，到处是沙漠。树全都枯了，海面上浮着一堆腐烂的东西。恐怖，太恐怖了。」
 
@@ -295,7 +295,7 @@ modified: "2026-10-20"
 
 ---
 
-> **原句 24:** "‘But I feel different now. I’m not the same.’ She folds her arms across her abdomen and closes her eyes."
+> **原句 24:** "…‘But I feel different now. I’m not the same.’ She folds her arms across her abdomen and closes her eyes."
 
 **中文理解**：「但我现在感觉不一样了。我不再是原来的我。」她把双臂交叠在腹部，闭上眼睛。
 

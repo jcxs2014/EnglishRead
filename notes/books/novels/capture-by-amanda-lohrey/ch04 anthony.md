@@ -247,7 +247,7 @@ modified: "2026-10-20"
 
 ---
 
-> **原句 20:** "‘They walk me over to a massive screen, like a TV monitor, and show me a picture of these big test tubes, in rows, a room full of them, fastened to the walls. And it takes me a bit to make out what’s in them’—he shakes his head again—‘and then I see that they’re foetuses, in test tubes, only bigger, the tubes I mean. And I realise I’ve been co-opted into some kind of breeding program. And they want me to know this.’"
+> **原句 20:** "…‘They walk me over to a massive screen, like a TV monitor, and show me a picture of these big test tubes, in rows, a room full of them, fastened to the walls. And it takes me a bit to make out what’s in them’—he shakes his head again—‘and then I see that they’re foetuses, in test tubes, only bigger, the tubes I mean. And I realise I’ve been co-opted into some kind of breeding program. And they want me to know this.’"
 
 **中文理解**：「它们把我带到一块巨大的屏幕前，像电视机那样，给我看这些大试管——一排排的，整间屋子都是，固定在墙上。我花了一会儿才看清里面是什么」——他又摇了摇头——「然后我看出那是胎儿，在试管里，只是试管更大，我是指试管本身。我意识到自己被拉进了一个某种繁殖计划。而它们要我知道这件事。」
 
@@ -295,7 +295,7 @@ modified: "2026-10-20"
 
 ---
 
-> **原句 24:** "‘But it looked…it looked like someone had put it there. And there was something else. It was freezing out there on the steppes, but when I woke up I was hot. I was burning up.’"
+> **原句 24:** "…‘But it looked…it looked like someone had put it there. And there was something else. It was freezing out there on the steppes, but when I woke up I was hot. I was burning up.’"
 
 **中文理解**：「可它看起来……看起来像是有人放在那儿的。还有别的事。草原上夜里冷得要命，可我醒来的时候是热的。我在发烧。」
 

@@ -55,7 +55,7 @@ modified: "2026-10-20"
 
 ---
 
-> **原句 4:** "‘The confounding thing about these people is that they’re all different, and yet somehow all the same.’"
+> **原句 4:** "…‘The confounding thing about these people is that they’re all different, and yet somehow all the same.’"
 
 **中文理解**：「关于这些人，最让人困扰的是：他们各不相同，可又不知怎么地全都一样。」
 

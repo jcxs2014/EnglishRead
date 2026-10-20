@@ -91,7 +91,7 @@ modified: "2026-10-20"
 
 ---
 
-> **原句 7:** "‘If we go on like this, we won’t have a tax base big enough to support the increase in longevity, which kind of curdles the cream. Economies will collapse. The problem is, no one has figured out how to incentivise women into having more children.’"
+> **原句 7:** "…‘If we go on like this, we won’t have a tax base big enough to support the increase in longevity, which kind of curdles the cream. Economies will collapse. The problem is, no one has figured out how to incentivise women into having more children.’"
 
 **中文理解**：「照这样下去，我们的税基撑不起寿命延长带来的开销，那就有点变质了。经济会崩溃。问题在于，没人想出怎么激励女性多生孩子。」
 
@@ -175,7 +175,7 @@ modified: "2026-10-20"
 
 ---
 
-> **原句 14:** "‘if you get the eugenics right, then you create a predestined Elect. The rest of the population that doesn’t come up to scratch will eventually become human husks.’ … ‘Winnowed out.’"
+> **原句 14:** "…‘if you get the eugenics right, then you create a predestined Elect. The rest of the population that doesn’t come up to scratch will eventually become human husks.’ … ‘Winnowed out.’"
 
 **中文理解**：「如果你把优生搞对，你就造出了一批命中注定的『选民』（Elect）。其余达不到标准的人口，最终会变成**人 husk**（人的空壳）。」……「被扬出去的那种。」
 

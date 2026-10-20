@@ -211,7 +211,7 @@ modified: "2026-10-20"
 
 ---
 
-> **原句 17:** "‘The second time, they put one of the eggs back into my uterus but what I didn’t know was that they had fertilised it with some of their own sperm, or something, whatever it is they use. I thought I might have had a dream but after a couple of weeks I knew I was pregnant. All the signs were there, the bloating, sore breasts, little flutters in my abdomen, everything but my usual morning sickness. But I knew. A woman knows.’"
+> **原句 17:** "…‘The second time, they put one of the eggs back into my uterus but what I didn’t know was that they had fertilised it with some of their own sperm, or something, whatever it is they use. I thought I might have had a dream but after a couple of weeks I knew I was pregnant. All the signs were there, the bloating, sore breasts, little flutters in my abdomen, everything but my usual morning sickness. But I knew. A woman knows.’"
 
 **中文理解**：「第二次，他们把其中一个卵放回我的子宫，可我不知道他们已经用他们自己的一些精子——或者别的什么，他们用的那玩意儿——给它受精了。我以为我可能只是做了个梦，可过了几个星期我就知道自己怀孕了。所有迹象都在：腹胀、乳房胀痛、肚子里的小小浮动，除了我平常的孕吐之外一切都有。可我知道。女人知道。」
 
@@ -223,7 +223,7 @@ modified: "2026-10-20"
 
 ---
 
-> **原句 18:** "‘It was negative but you’d expect that. They’re different. Why would one of our tests work on them?’"
+> **原句 18:** "…‘It was negative but you’d expect that. They’re different. Why would one of our tests work on them?’"
 
 **中文理解**：「验孕棒是阴性的，但你也该料到。它们的和我们不一样。我们的一次检测怎么可能对它们有效？」
 
@@ -307,7 +307,7 @@ modified: "2026-10-20"
 
 ---
 
-> **原句 25:** "‘My body remembers. And it means they might come back. And I’m done. It takes me days to get over them, days. I’m glad to have helped but I’m done.’"
+> **原句 25:** "…‘My body remembers. And it means they might come back. And I’m done. It takes me days to get over them, days. I’m glad to have helped but I’m done.’"
 
 **中文理解**：「我的身体记得。这意味着他们可能还会回来。而我受够了。我要花好几天才能从这些发作里缓过来，好几天。我很高兴帮上了忙，但我受够了。」
 

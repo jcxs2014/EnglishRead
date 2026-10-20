@@ -43,7 +43,7 @@ modified: "2026-10-20"
 
 ---
 
-> **原句 3:** "‘There’s a thing called longevity escape velocity, or at least that’s what they call it. It posits a situation not all that far off where medical advances allow life expectancy to improve at a faster rate than the natural ageing process. If you increase the life expectancy of an individual by more than a year in any given year, then theoretically they can live forever.’"
+> **原句 3:** "…‘There’s a thing called longevity escape velocity, or at least that’s what they call it. It posits a situation not all that far off where medical advances allow life expectancy to improve at a faster rate than the natural ageing process. If you increase the life expectancy of an individual by more than a year in any given year, then theoretically they can live forever.’"
 
 **中文理解**：「有个说法叫『延寿逃逸速度』，至少他们是这么叫的。它设想的是这样一个局面：医学进步让预期寿命的提升速度，超过自然衰老的速度——而且不算太遥远。如果你能在任意一年里把一个人的预期寿命提高一年以上，那么理论上他们就能永远活着。」
 
