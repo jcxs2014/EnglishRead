@@ -48,7 +48,7 @@ def main():
         raise SystemExit('用法: check_xref_chapter.py "<书目录>"')
     book = args[0]
     sai = _load_sai()
-    ref, ref_src, _ep = sai.load_ref(book)
+    ref, ref_src, epub_flat = sai.load_ref(book)
     if ref is None:
         print("=== 分析层跨章指认核对（%s）===" % os.path.basename(book.rstrip("/")))
         print("  ❓ **无法判定**：无 text/ 且无 epub —— 参照集缺失，不等于通过。")
@@ -68,7 +68,7 @@ def main():
     EN = re.compile(r"`([^`]{3,})`")
     NEAR = re.compile(r"(?:ch(\d{1,2})\b|第\s*(\d{1,2})\s*章)([^`]{0,20})$")
 
-    fake, moved, ok = [], [], 0
+    fake, moved, bmiss, unknown, ok = [], [], [], [], 0
     for md in sorted(glob.glob(os.path.join(book, "ch*.md"))):
         name = os.path.basename(md)
         mo = re.search(r"ch(\d+)", name)
@@ -104,14 +104,35 @@ def main():
                         others.append(c)
                 if f in all_flat:
                     moved.append((name, i, tgt, frag, others[:4]))
-                else:
+                elif epub_flat and f in epub_flat:
+                    # B 类语料缺失：text/ 提取件没覆盖到，但 epub 里有 ⇒ 不是伪造
+                    bmiss.append((name, i, tgt, frag))
+                elif epub_flat:
                     fake.append((name, i, tgt, frag))
+                else:
+                    # ⚠️ 2026-10-20：无 epub ⇒ 参照集不完整，「text/ 查无」**不能判伪造**
+                    #   （AGENTS 第 3 条降级 lane 表：引语是否逐字在全书，权威依据是 epub；
+                    #     无 epub 即「❓ 无法判定」，不是「❌ 伪造」）。
+                    #   实证：全库 8 本无 epub 的书（stet / notes-on-grief / some-desperate-glory 等）
+                    #   在本项判「伪造」共 76 条，逐条回原文看**多为其它的口径问题**
+                    #   （分析式表达 `bafflement → fascination`、把改述写成反引号引语），
+                    #   无 epub 即无法 A/B 裁决 ⇒ 不出结论、不判红。
+                    unknown.append((name, i, tgt, frag))
 
     print("=== 分析层跨章指认核对（%s）===" % os.path.basename(book.rstrip("/")))
     print("  参照集：%s ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段"
           % ref_src)
     print("  ✅ 归章正确 %d ｜ ❌ 伪造（全书查无）%d ｜ ⚠️ 移章（不在被引章）%d"
           % (ok, len(fake), len(moved)))
+    if bmiss:
+        print("  🔧 B 类语料缺失（text/ 查无但 epub 命中，非伪造）：%d" % len(bmiss))
+        for name, ln, tgt, frag in bmiss:
+            print("     🔧 %s:%d 声称 ch%02d ｜ %s" % (name[:30], ln, tgt, frag[:88]))
+    if unknown:
+        print("  ❓ **无法判定**（无 epub ⇒ 参照集不完整，text/ 查无 ≠ 伪造）：%d" % len(unknown))
+        print("     ⛔ 不判红、不出结论；须人工回原文裁决或补 epub 后重跑")
+        for name, ln, tgt, frag in unknown:
+            print("     ❓ %s:%d 声称 ch%02d ｜ %s" % (name[:30], ln, tgt, frag[:88]))
     if fake:
         print("  ⛔ 阻断型：伪造英文必须改")
         for name, ln, tgt, frag in fake:
