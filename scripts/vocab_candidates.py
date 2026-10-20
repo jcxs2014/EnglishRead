@@ -173,6 +173,61 @@ def _merge_abbrev_spans(pairs):
     return out
 
 
+# ⚠️ 2026-10-20 修（Ebenezer Scrooge 实测，13 章共 25 条例句引号不闭合）：
+# **对话引号内的句点被当成句末** ⇒ 例句被腰斩在引号内。
+#   原文 `“Splendid.” Tap, tap, tap went…` 被切成 `“Splendid.` + `” Tap, tap…`；
+#   原文 `“But I should say … as soon as we drew near to our destination.` 被切成
+#   一个**没有闭引号**的半句话（那段的引号要到几段之后才闭合）。
+#   ⇒ 例句**确实是原文的连续子串**（所以 V2 / check_vocab / 六道门禁全绿），
+#   但**引号不闭合**、后半句被当成独立的下一句 ⇒ 词表里出现「半句话」。
+#   实测全库 `notes/books/` 词表例句 123,031 行里 1,729 行（1.4%）引号不闭合，
+#   涉及 613 个文件 ⇒ **既有工具缺陷，不是某一本书的问题**。
+#
+# 修法（**只调整引号字符的归属，不增删任何实词，也不塌陷候选**）：
+#   ① **贴尾**：片段以 `.`/`!`/`?` 结尾、而原文紧随其后的字符是 `”` ⇒ 把那个 `”` 算进本片段
+#      （`“Splendid.` ⇒ `“Splendid.”`）。这是**把本来就在原文里、紧挨着的字符算进来**，
+#      不是新增。
+#   ② **去首游离引号**：片段**开头**的 `“` 或 `”` 若在本片段内找不到配对 ⇒ 去掉它
+#      （`“But I should say…` ⇒ `But I should say…`；`” he murmured.` ⇒ `he murmured.`）。
+#      去掉后仍是原文的**连续子串**（少一个开头的字符），且引号立刻成对。
+#   ③ 若仍不成对 ⇒ `pick_sentence` **放弃**该条（宁可少一条，也不造半句话）。
+#
+# ⚠️ **已否决的两条路线**（实测都会塌陷候选）：
+#   · 屏蔽引号内的点号 ⇒ 整段对白并成一句 → 超 maxlen → ch09 候选 91 → 38；
+#   · 向后合并到闭引号 ⇒ 同上（整段对白成为一句）→ 候选 91 → 13。
+#   ⇒ 本修法**不改变切句边界**，只处理引号字符的归属。
+_QUOTE_PAIRS = {'“': '”'}
+
+
+def _quotes_balanced(seg):
+    """片段里的**双引号**是否成对。
+
+    ⚠️ **不检查 `‘`/`’`**（2026-10-20 实测踩坑）：ch09 原文 `‘` 8 个、`’` **29 个**——
+    `’` 绝大多数是**撇号**（`I’m` / `don’t`）。若把 `’` 当闭引号计数，
+    几乎每个含撇号的片段都被判成「引号不闭合」，实测候选从 91 条塌到 **2 条**。
+    本库 text/ 里引号全是弯引号（直引号 `"` 计数为 0）。
+    """
+    for o, c in _QUOTE_PAIRS.items():
+        if seg.count(o) != seg.count(c):
+            return False
+    return True
+
+
+def _fix_fragment_quotes(seg, st, src):
+    """修一个片段的引号归属，返回 (片段, 新起点)；无法修则原样返回。"""
+    # ① 贴尾：原文紧随其后的 `”` 属于本片段
+    tail = st + len(seg)
+    if tail < len(src) and src[tail] == '”' and seg.count('“') > seg.count('”'):
+        seg = seg + '”'
+    # ② 去首游离引号
+    if seg and seg[0] in ('“', '”') and not _quotes_balanced(seg):
+        # 开引号无配对 ⇒ 去掉；闭引号开头且无配对 ⇒ 去掉
+        if seg.count('“') != seg.count('”'):
+            seg = seg[1:].lstrip()
+            st += 1
+    return seg, st
+
+
 def sentences(src):
     """按句号/问号/叹号切句，保留原文标点（例句必须逐字）
 
@@ -196,7 +251,9 @@ def sentences(src):
     # 合并缩写：把 a. | m. 还原成 a.m.
     # ⚠️ 必须用**带偏移**的合并版：segs 比 raw 短，用 zip(segs, starts)
     # 会把合并点之后的偏移整体错位（实测 ch28 custodial 取到别的句子）。
-    return _merge_abbrev_spans(raw)
+    merged = _merge_abbrev_spans(raw)
+    # 修引号归属（2026-10-20）：贴尾 `”`、去首游离引号
+    return [ _fix_fragment_quotes(seg, st, src) for seg, st in merged ]
 
 
 def pick_sentence(sents, pos, src, maxlen=140):
@@ -214,6 +271,10 @@ def pick_sentence(sents, pos, src, maxlen=140):
             if st > 0 and src[st - 1] == '.' and st > 1 and src[st - 2].isdigit():
                 return None
             if len(s) > maxlen:
+                return None
+            # ⚠️ 2026-10-20：引号必须成对。原文本身引号残缺时**放弃**这条，
+            # 而不是「补一个闭引号」——补出来的字符原文里没有，是伪造。
+            if not _quotes_balanced(s):
                 return None
             return s
     return None

@@ -1,0 +1,27 @@
+=== 2026-10-20 ch09/ch10/ch13 + 工具修复门禁 ===
+
+--- verify_quotes ---
+ch16 a cab through the city at night.md: 8/8 ✅
+
+=== 总计 109/109 引文可核实（100%）；完全干净文件 13/13；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+--- quotes.py chapter (9/10/13) ---
+ch09 three incidents at brightwell road.md: 8/8 in ch09 text
+ch10 seven of us around the table.md: 8/8 in ch10 text
+ch13 a grave at half past nine.md: 8/8 in ch13 text
+
+--- check_vocab ---
+--- FAIL (0) ---
+--- WARN (1) ---
+  ch08 a full and frank disclosure.md [基础] 基础档疑含超纲词「coincidence」
+
+--- check_chinese_layer ---
+❌ 夹杂为什么：0 处
+=== 汇总：109 个引语块 | 合格分析密度 100% | 整层夹杂率 0% | 阻断型 0 | 提示型 0 ===
+=== 结论：无阻断型 ===
+
+--- sweep_analysis_inline ---
+  ✅ 逐字 449 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 0
+
+--- check_quote_order（省略号感知，/tmp/esq/check_order.py）---
+=== 块序（省略号感知）：109 块 / 缺陷 0 章 / 不可判定 0 章 ===
