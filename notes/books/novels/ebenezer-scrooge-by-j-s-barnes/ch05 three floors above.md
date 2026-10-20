@@ -67,7 +67,7 @@ modified: "2026-10-20"
 
 ---
 
-> **原句 5:** "As she slept, she dreamed, and her dream was of that strange old house on the street called Brightwell Road. She saw again that which she had seen as a child, and at the memory of it, she turned pale and writhed and moans in her sleep. Her thoughtful face soon shone, coated with perspiration."
+> **原句 5:** "As she slept, she dreamed, and her dream was of that strange old house on the street called Brightwell Road. She saw again that which she had seen as a child, and at the memory of it, she turned pale and writhed and **moaned** in her sleep. Her thoughtful face soon shone, coated with perspiration."
 
 **中文理解**：她睡着以后做了个梦，梦见的是布赖特韦尔街上那栋古怪的老房子。她又一次看见了自己童年时见过的东西；一想到那画面，她便脸色发白，在睡梦中扭动挣扎，脸上很快渗出一层汗。
 
