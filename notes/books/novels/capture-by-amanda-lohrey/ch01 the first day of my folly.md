@@ -139,7 +139,7 @@ modified: "2026-10-20"
 
 ---
 
-> **原句 11:** "‘This is your experience,’ I said to him, ‘so you must decide how to deal with that, and I will help you in any way I can.’"
+> **原句 11:** "“This is your experience,” I said to him, “so you must decide how to deal with that, and I will help you in any way I can.”"
 
 **中文理解**：「这是你的经历，」我对他说，「所以必须由你自己决定怎么处理它，而我会在力所能及的一切方面帮助你。」
 

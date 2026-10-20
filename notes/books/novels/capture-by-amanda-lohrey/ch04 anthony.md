@@ -47,7 +47,7 @@ modified: "2026-10-20"
 
 **中文理解**：我刚把百叶窗调好回到椅子上，他就带着一脸困惑看着我，说：「我不知道自己为什么会来，马瑟医生。我又不是被那件事创伤到了，压根不是那么回事。」
 
-**关键词**：a baffled expression / I don’t know why I’m here / I’m not like I was traumatised by what happened
+**关键词**：a baffled expression / I don’t know why I’m here / It’s not like I was traumatised by what happened
 
 **为什么这样写**：第一个开口的不是「我被外星人绑架了」，而是「我不知道我为什么在这儿」——这句话把「被绑架」从一张创伤名片上拿了下来，换成了一句关于**理由**的困惑。而「It’s not like I was traumatised by what happened」里的否定式提前堵住了医生最可能走的路：他不是来看病的。
 
