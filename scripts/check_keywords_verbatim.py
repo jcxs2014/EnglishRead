@@ -23,7 +23,8 @@ The Death of Us 实测 10 条 `check_analysis_indep` ⚠️ 里 **7 条**属此�
 
 1. **引语层**（`关键词` 在某个引语块内）：片段必须是**该块引语**的连续子串 ⇒ 阻断型；
    不是子串但在同块 `为什么这样写` 里被呼应 ⇒ 提示型（AGENTS 9b 明许的「语境延伸词」）。
-2. **导航/总结层**：片段必须是**本章 `text/chNN*.txt`** 的连续子串 ⇒ 阻断型。
+2. **导航/总结层**：片段必须是**本章 `text/chNN*.txt`** 的连续子串 ⇒ 阻断型；
+   行内标了 `chNN` 的按**被引章**核（9e 明许跨章引用），命中=提示型、查无=阻断型。
 
 ## 为什么用「原文连续子串」而不是 flat 比对
 
@@ -142,6 +143,7 @@ def main():
     blockers, notes = [], []
     files = sorted(glob.glob(os.path.join(book, "ch*.md")),
                    key=lambda p: int(re.match(r".*?ch(\d+)", p).group(1)))
+    xref_cache = {}
     for path in files:
         n = int(re.match(r".*?ch(\d+)", path).group(1))
         chapter_text = norm(read_chapter_text(book, n))
@@ -212,6 +214,28 @@ def main():
             for frag in english_fragments(body):
                 f = norm(frag)
                 if hit_in(f, chapter_text):
+                    continue
+                # 2026-10-20 补：**跨章引用**（9e 明许 `chNN "…"` 形态）。
+                # 原判据只认「本章 text/ 的连续子串」，于是「导航里引用第一章的一句」
+                # 恒判阻断型 —— 与 9e 直接冲突。实测 fabulous-bodies ch16:10 引 ch01 的
+                # `old meat`，加了（ch01）仍报阻断，子代理据此判断「工具缺口」。
+                # 现在：行内标了 chNN ⇒ 拿被引章的 text/ 去核；核到=提示型，核不到=阻断型
+                #（防止「随便标个 ch01 就洗白」）。
+                chs = re.findall(r"ch(\d{2})", body)
+                if chs:
+                    hit = None
+                    for c in chs:
+                        if c not in xref_cache:
+                            xref_cache[c] = norm(read_chapter_text(book, int(c)))
+                        if hit_in(f, xref_cache[c]):
+                            hit = c
+                            break
+                    if hit:
+                        notes.append((path, i, frag,
+                                      "提示型·跨章引用（已标 ch%s 且被引章命中）" % hit))
+                    else:
+                        blockers.append((path, i, frag,
+                                         "阻断型·标了 ch%s 但被引章查无" % "/".join(chs)))
                     continue
                 if is_proper_noun(f):
                     # 导航/总结层用**人物全名**指称（`视角人物 Key Kehoe`、
