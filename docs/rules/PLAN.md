@@ -185,4 +185,5 @@ AGENTS 字符预算 / rules 路由 / 引用不悬空 / **脚本归口**（已入
 `norm` 这类原语语义已经确定才收；判据（配额、块序、说话人）仍留在各自工具里按书校准。
 **rule of three**：等第二个真的需要同一份 norm 的工具出现再迁，不要为"看起来整齐"硬并。
 
-**数字**：顶层 `scripts/*.py` 84 → **77**；入口数 9 → **3**（gate / quotes / overview，外加 chapter 与 bookform）。
+**数字**：顶层 `scripts/*.py` 84 → **69**；引语/总览/结构/分析四族共 **19 个命令收成 4 个入口**（quotes / overview / structure / analysis）。
+回归集 81 条（书 × 命令，带书 commit 戳）。
