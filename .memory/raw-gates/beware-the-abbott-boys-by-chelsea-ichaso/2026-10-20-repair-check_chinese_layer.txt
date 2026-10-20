@@ -1,0 +1,18 @@
+# check_chinese_layer.py  notes/books/mystery-thriller/beware-the-abbott-boys-by-chelsea-ichaso
+# 运行时间 2026-10-20 (UTC)  修复后终跑
+=== 中文层体检（check_chinese_layer）：beware-the-abbott-boys-by-chelsea-ichaso ===
+❌ 英文理解：0 处
+❌ 缺中文理解：0 处
+❌ 敷衍句构：0 处
+❌ 残句：0 处
+❌ 形式性规避：0 处
+❌ 英文为什么：0 处
+❌ 占位桩：0 处
+❌ 英文读者提示：0 处
+❌ 英文表达方式：0 处
+❌ 重复子项字段：0 处
+⚠️ 夹杂理解：0 处（提示型，不判红）
+⚠️ 夹杂为什么：0 处（提示型，不判红）
+=== 汇总：140 个引语块 | 合格分析密度 100% | 整层夹杂率 0% | 阻断型 0 | 提示型 0 ===
+=== 结论：无阻断型 ===
+# exit=0

@@ -1,0 +1,37 @@
+# check_chapter_quotes.py  notes/books/mystery-thriller/beware-the-abbott-boys-by-chelsea-ichaso   （逐章归属，逐章调用，与 gate.sh lane ⑦ 同口径）
+# 运行时间 2026-10-20 (UTC)  修复后终跑
+ch01 residents believe mariana sanchez death.md ch01 residents believe mariana sanchez death.md: 3/3 in ch01 text
+ch02 we learn from failure.md                  ch02 we learn from failure.md: 4/4 in ch02 text
+ch03 kennedys death.md                         ch03 kennedys death.md: 5/5 in ch03 text（另有 1 条短引语未校验）
+ch04 adam last october.md                      ch04 adam last october.md: 5/5 in ch04 text
+ch05 the morning after.md                      ch05 the morning after.md: 5/5 in ch05 text
+ch06 chapter four.md                           ch06 chapter four.md: 4/4 in ch06 text
+ch07 bram last october.md                      ch07 bram last october.md: 5/5 in ch07 text
+ch08 chapter five.md                           ch08 chapter five.md: 4/4 in ch08 text
+ch09 henry last october.md                     ch09 henry last october.md: 5/5 in ch09 text
+ch10 chapter six.md                            ch10 chapter six.md: 4/4 in ch10 text
+ch11 chapter seven.md                          ch11 chapter seven.md: 4/4 in ch11 text
+ch12 chapter eight.md                          ch12 chapter eight.md: 3/3 in ch12 text（另有 1 条短引语未校验）
+ch13 adam last october two.md                  ch13 adam last october two.md: 4/4 in ch13 text
+ch14 chapter nine.md                           ch14 chapter nine.md: 2/2 in ch14 text（另有 1 条短引语未校验）
+ch15 chapter ten.md                            ch15 chapter ten.md: 4/4 in ch15 text
+ch16 bram last october two.md                  ch16 bram last october two.md: 4/4 in ch16 text
+ch17 chapter eleven.md                         ch17 chapter eleven.md: 3/3 in ch17 text
+ch18 chapter twelve.md                         ch18 chapter twelve.md: 4/4 in ch18 text
+ch19 henry last december.md                    ch19 henry last december.md: 3/3 in ch19 text
+ch20 chapter thirteen.md                       ch20 chapter thirteen.md: 4/4 in ch20 text
+ch21 chapter fourteen.md                       ch21 chapter fourteen.md: 4/4 in ch21 text
+ch22 chapter fifteen.md                        ch22 chapter fifteen.md: 4/4 in ch22 text
+ch23 adam last october three.md                ch23 adam last october three.md: 3/3 in ch23 text（另有 1 条短引语未校验）
+ch24 chapter sixteen.md                        ch24 chapter sixteen.md: 4/4 in ch24 text
+ch25 chapter seventeen.md                      ch25 chapter seventeen.md: 4/4 in ch25 text
+ch26 chapter eighteen.md                       ch26 chapter eighteen.md: 3/3 in ch26 text
+ch27 bram last october three.md                ch27 bram last october three.md: 4/4 in ch27 text
+ch28 chapter nineteen.md                       ch28 chapter nineteen.md: 3/3 in ch28 text
+ch29 chapter twenty.md                         ch29 chapter twenty.md: 4/4 in ch29 text
+ch30 chapter twenty one.md                     ch30 chapter twenty one.md: 3/3 in ch30 text
+ch31 chapter twenty two.md                     ch31 chapter twenty two.md: 3/3 in ch31 text（另有 1 条短引语未校验）
+ch32 chapter twenty two.md                     ch32 chapter twenty two.md: 4/4 in ch32 text
+ch33 adam last october four.md                 ch33 adam last october four.md: 4/4 in ch33 text
+ch34 adam last october five.md                 ch34 adam last october five.md: 4/4 in ch34 text
+ch35 epilogue hayden one week later.md         ch35 epilogue hayden one week later.md: 4/4 in ch35 text

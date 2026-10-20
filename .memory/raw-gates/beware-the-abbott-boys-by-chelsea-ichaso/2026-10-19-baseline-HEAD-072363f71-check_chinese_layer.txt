@@ -1,0 +1,47 @@
+# 基线①第一版假修复（git 072363f71 = 修复前的 HEAD 状态）
+# 说明：HEAD 本身就是第一版假修复（「显示」前缀 + 英文句子主体）
+# 运行时间 2026-10-20 (UTC)
+=== 中文层体检（check_chinese_layer）：base_v1 ===
+❌ 英文理解：0 处
+❌ 缺中文理解：0 处
+❌ 敷衍句构：0 处
+❌ 残句：0 处
+❌ 形式性规避：0 处
+❌ 英文为什么：0 处
+❌ 占位桩：0 处
+❌ 英文读者提示：0 处
+❌ 英文表达方式：0 处
+❌ 重复子项字段：0 处
+❌ 整层夹杂：1 处
+     138/140 块含中英夹杂，占比 99% ≥ 60%
+⚠️ 夹杂理解：132 处（提示型，不判红）
+     ch01 residents believe mariana sanchez death.md:52
+     ch02 we learn from failure.md:20
+     ch03 kennedys death.md:20
+     ch03 kennedys death.md:36
+     ch03 kennedys death.md:68
+     ch03 kennedys death.md:84
+     ch03 kennedys death.md:100
+     ch04 adam last october.md:20
+     ch04 adam last october.md:52
+     ch04 adam last october.md:84
+     ch05 the morning after.md:20
+     ch05 the morning after.md:36
+     …… 另有 120 处
+⚠️ 夹杂为什么：127 处（提示型，不判红）
+     ch01 residents believe mariana sanchez death.md:36
+     ch02 we learn from failure.md:20
+     ch02 we learn from failure.md:46
+     ch02 we learn from failure.md:59
+     ch03 kennedys death.md:36
+     ch03 kennedys death.md:52
+     ch03 kennedys death.md:68
+     ch03 kennedys death.md:84
+     ch04 adam last october.md:36
+     ch04 adam last october.md:52
+     ch04 adam last october.md:68
+     ch04 adam last october.md:84
+     …… 另有 115 处
+=== 汇总：140 个引语块 | 合格分析密度 100% | 整层夹杂率 99% | 阻断型 1 | 提示型 259 ===
+=== 结论：有阻断型，必须改（中文层不是中文 = 精读内容缺失）===
+# exit=1
