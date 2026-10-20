@@ -39,6 +39,19 @@ BOOK = "The Lonely Hearts Book Club"
 
 def reset():
     shutil.copy(os.path.join(REAL, "COLLABORATION.md"), B)
+    # ⚠️ 2026-10-20 修（第五轮实测）：原基线直接用**实时板**，而追加用例的目标书
+    #   「The Lonely Hearts Book Club」**已被归档下线**（现仅存于 docs/COLLABORATION_ARCHIVE_*.md）
+    #   ⇒ 基线里没有这条 ⇒ `--append` 找不到落点、被判成「新建板消息必须给 --at」
+    #   ⇒ **2 条用例必然假红**（与 post_collab.py 的改动无关，HEAD 版同样 8/10）。
+    #   ⇒ 基线改为「实时板 + 播种一条本测试专用条目」⇒ 测试**自足**，不再依赖线上内容，
+    #   也不会因为某本书完工后归档而让回归测试长期挂红（挂红的回归＝纪律失效）。
+    #   播种条目的正文须 **≥8 行**：追加 13 行后合并体才 >20 行（否则「合并门禁」触发不了，
+    #   用例会误判成「追加成功」）；而追加 3 行仍须 ≤20 行 ⇒ 10 行正文两头都满足。
+    seed = ("\n### [2026-01-01 00:00 UTC] [Opencode-Mac] → All\n\n"
+            "**The Lonely Hearts Book Club**（测试基线播种条目 · 非真实完工通报）**\n"
+            + "基线占位行。\n" * 9)
+    with open(B, "a", encoding="utf-8") as f:
+        f.write(seed)
     shutil.copy(SAMPLE_LOG, TG)
     shutil.copy(os.path.join(REAL, "scripts/post_collab.py"),
                 os.path.join(R, "scripts/post_collab.py"))

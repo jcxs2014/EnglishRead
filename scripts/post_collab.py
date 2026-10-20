@@ -535,7 +535,13 @@ def _book_hit(sections, book):
     #   判成「已有 2 条」，新建被拒）。topic 的形态是脚本自己规定的，可以按标题锚定。
     #   效果：`--topic` 新建不再被「正文提到过该 topic」的条目误拦；`verify --book "【…】"`
     #   与 `--append` 也不再把他条的交叉引用算成本主题的条目。
-    if book.startswith("【") and book.endswith("】"):
+    # ⚠️ 2026-10-20 修（第五轮实测踩到）：原判据要求 `book` **同时**以「【」开头且以「】」结尾，
+    #   而 `--topic` 的长形态（「【工具变更】lane ⑯ … 分档」）带说明文字、**不以「】」结尾**
+    #   ⇒ `verify --book "<长 topic>"` 落到下面的通用三层 ⇒ 用「整条子串」判重
+    #   ⇒ **把本条 + 正文里提到它的另一条都算进来**，报「板上有 2 条」（实测假冲突）。
+    #   修法：只要**以「【」开头**即按 topic 判据（书名不会以「【」开头 ⇒ 无副作用）；
+    #   本条判据的「标题含该 topic 串」语义对长短形态都成立。
+    if book.startswith("【"):
         return [e for e in sections if _topic_is_title(e, book)]
 
     head_hit = [e for e in sections if book in e.split("\n", 1)[0]]
