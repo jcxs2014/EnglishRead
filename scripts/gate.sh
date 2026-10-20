@@ -429,6 +429,6 @@ if [ "$RC_BLOCK" -gt 0 ] || [ "$_gfail" -gt 0 ]; then
   echo "══ 正门结论：阻断型（文本层 ❌ ${_gfail} 条 ｜ 退出码层 ${RC_BLOCK} 个 lane）——退出码 1 ══"
   exit 1
 fi
-echo "   （rc 层覆盖 ②③⑦⑧⑲ 五个 lane；其余 14 个仍由文本层 ❌ 计数兜底）"
+echo "   （rc 层覆盖 ②③⑦⑧⑲⑳ 六个 lane；其余 14 个仍由文本层 ❌ 计数兜底）"
 echo "══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══"
 exit 0

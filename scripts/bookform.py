@@ -42,6 +42,17 @@ SUB_RE = re.compile(
     r"(?:\*\*(?P<b>[^*\n]{2,12})\*\*|(?P<p>[\u4e00-\u9fff]{2,6}))\s*[：:]\s*(?P<v>.*)$"
 )
 H1_RE = re.compile(r"^#\s+(.*\S)\s*$")
+
+# —— 新书基线（2026-10-20 立，用户要求「脚本固定、文档适应脚本」）——
+# 问题：`book_form` 的众数取自**已有章**。新书第 1 章时众数为空 ⇒ 子项集、导航项数、
+#   块数范围**全部无约束**，chapter.sh 对新书第一页等于不检查。
+# 做法：已有章 < 3 时用这份**库内众数**当基线（2026-10-20 全库 3,000 章实测：
+#   子项 Top5 = 中文理解 / 关键词 / 为什么这样写 / 读者视角提示 / 句子结构；
+#   导航 5 项；H1 = `# NN. 标题` 占 85%）。章数 ≥3 后自动切回本书自己的众数。
+MIN_CHAPTERS_FOR_MODAL = 3
+DEFAULT_SUBITEMS = ["中文理解", "关键词", "为什么这样写", "读者视角提示", "句子结构"]
+DEFAULT_NAV_COUNT = 5
+DEFAULT_BLOCK_RANGE = (3, 8)
 DIGITS = re.compile(r"\d+")
 TEXTCH_RE = re.compile(r"^ch(\d+)(?![0-9])")
 
@@ -179,6 +190,13 @@ def book_form(book: Path) -> dict:
                 label_sets.append(_labels(b))
     nav_mode = Counter(navsets).most_common(1)[0][0] if navsets else ()
     label_mode = Counter(label_sets).most_common(1)[0][0] if label_sets else ()
+    # 新书（<3 章）没有可信众数 ⇒ 用库内基线，否则第 1 章等于零判据
+    _baseline = "book" if len(files) >= MIN_CHAPTERS_FOR_MODAL else "default"
+    if _baseline == "default":
+        label_mode = tuple(DEFAULT_SUBITEMS)
+        nav_mode = ()                     # 名字不设基线，只设项数（否则会报"缺导航项"假红）
+        navs = navs or [DEFAULT_NAV_COUNT]
+        nblocks = nblocks or [DEFAULT_BLOCK_RANGE[0]]
     return {
         "book": str(book),
         "chapters": len(files),
@@ -188,11 +206,13 @@ def book_form(book: Path) -> dict:
         "nav_sets": {"/".join(k): v for k, v in Counter(navsets).most_common(5)},
         "blocks": total,
         "block_median": statistics.median(nblocks) if nblocks else 0,
-        "block_range": [min(nblocks), max(nblocks)] if nblocks else [0, 0],
+        "block_range": ([min(nblocks), max(nblocks)] if _baseline == "book"
+                         else list(DEFAULT_BLOCK_RANGE)) if nblocks else [0, 0],
         "blocks_per_chapter": nblocks,
         "subitems": list(label_mode),
         "subitem_sets": {"/".join(k): v for k, v in Counter(label_sets).most_common(5)},
         "text_files": sum(len(v) for v in text_files(book).values()),
+        "baseline": _baseline,
     }
 
 
@@ -288,9 +308,12 @@ def print_form(f: dict) -> None:
     print(f"本书形态：{f['book']}")
     print(f"  已有章 md：{f['chapters']}    text/ 提取件：{f['text_files']}    引语块合计：{f['blocks']}")
     print(f"  H1 写法：{f['h1_forms']}")
-    print(f"  导航项（众数，{len(f['nav_items'])} 项）：{' / '.join(f['nav_items']) or '—'}")
+    print(f"  导航项（众数，{len(f['nav_items'])} 项）：{' / '.join(f['nav_items']) or '—'}"
+          + ("  ← 新书基线只约束**项数 5**，不约束项名" if f.get("baseline") == "default" else ""))
     print(f"  子项集（众数，{len(f['subitems'])} 项）：{' / '.join(f['subitems']) or '—'}")
-    print(f"  每章块数：中位 {f['block_median']}，范围 {f['block_range'][0]}–{f['block_range'][1]}")
+    print(f"  每章块数：中位 {f['block_median']}，范围 {f['block_range'][0]}–{f['block_range'][1]}"
+          + ("   （⚠️ 已有章 <3，用的是**新书基线**：子项 5 项 / 导航 5 项 / 块数 3–8）"
+             if f.get("baseline") == "default" else ""))
     print("  ⚠️ 形态偏离本书众数不算错，写一行理由即可。")
 
 
