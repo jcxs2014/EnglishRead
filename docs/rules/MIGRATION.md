@@ -76,7 +76,8 @@ A–I 单条规则案例 9 份 · J 案例移出 21 KB · K git 事故 · L 批�
 | attic 11 个历史遗留移出索引 | ✅ |
 | 两份卡正式化（创建卡 / 审查表） | ✅ `docs/rules/创建卡.md`、`docs/rules/审查表.md` |
 | `bookform.py` + `chapter.sh` | ✅ 已实现；阴性对照 `scripts/tests/bookform_negative/`（应 rc=1，报 4 类） |
-| AGENTS 改索引 | ⬜ |
+| AGENTS 改索引 | ✅ `7c90fca41`（8,139 B；第 1/2/5/6/8→30-writing、第 3→20-gate、第 7/9→11-fix-sync、第 10→审查表附录） |
+| 方案与进度落库 | ✅ `docs/rules/PLAN.md`（随写随改） |
 | 模板拆分 | ⬜ |
 | .memory 拆分 | ⬜ |
 | `raw-gates` 留存政策 | ⬜ |
