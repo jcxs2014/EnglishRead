@@ -66,20 +66,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 43 章逐章精读 + 总览三篇（概述 / 金句精选 30 条 / 情感节点 10 个）＝ 46 个 md 全部落盘并入库。体裁＝奇幻长篇精简格式（导航 5 子项 + 10 引语块 × 四子项 + 三档词汇 30 条 + 一句话总结）；lane＝完整（epub 在 library/）。
 
-终验门禁（gate.sh 19 lane，EXIT=0）：**0 条阻断型** · verify_quotes 428/428 逐字可核实（100%）· check_vocab FAIL 0 · check_entities 未知实体 0 · corruption_scan FAIL 0 · 逐章归属 43×10/10 · 块覆盖对账 ✅ · check_quote_blocks ✅ · audit_structure 缺陷 0 · check_chinese_layer 密度 100%／整层夹杂 0%／阻断 0／提示 0。
+终验门禁（gate.sh 19 lane，EXIT=0）：**0 条阻断型** · verify_quotes 428/428 逐字可核实（100%）· check_vocab FAIL 0 · check_entities 未知实体 0 · corruption_scan FAIL 0 · 逐章归属 43×10/10 · 块覆盖对账 ✅ · check_quote_blocks ✅ · audit_structure 缺陷 0 · check_chinese_layer 密度 100%／整层夹杂 0%／阻断 0／提示 0 · sweep_analysis_inline 逐字 2285／跨章 0。
 
-总览门禁：lane ⑭ verify_overview_quotes 59/59 可核实（100%）、完全干净 2/2、口径外 0 · lane ⑮ check_overview_full 标签对 55／不符 0／查无 0 · 章节覆盖 43/43 章 · d2 自检：59 条英文原句全部独立成行引用块（编号在引用块外）。
+总览门禁：lane ⑭ verify_overview_quotes 59/59 可核实（100%）、完全干净文件 2/2、口径外 0 —— **已核覆盖 2/3 篇（无引语 1：00_概述.md 是散文体、无引语块，未进 lane ⑭ 引语扫描集；其英文原句数为 0，无漏检内容）**；lane ⑮ check_overview_full **A 整串命中 59 · B 章节标签对 59 · 标注与实章不符 0 · 查无 0** · 章节覆盖 43/43 章 · d2 自检：59 条英文原句全部独立成行引用块（编号在引用块外）。
 
 严格自检：strict_check 43 章全绿（每章引语 10／词条 30／问题 0）· kwcheck 阻断型 0（提示型 48＝gate ⑱ 按路径判体裁的「超 3–8 配额」，权威是 audit_structure）。
 
-本轮修复：**概述 9 处与原文不符的断言**（ch09「好久没人这样看你」是 Ben 自己的觉察而非老板娘台词／ch21 是脱了上衣不是脱光／ch22–23 省一周脚程不是三倍／铁棺与人口普查局在 ch28／魔法鸭登场在 ch27／换主人的咒在 ch36／ch42 原文无「五秒」／Celestra 不是被关在王宫里的人／商队是红底黄边／Spidena 是近几十年第一个会篡改记忆咒的女巫）；**术语口径 witch＝女巫**——全书「巫师」误用清零（7 章 13 处，含 ch42 把 "sorry, witch" 误译成「巫师」）。
+**类级对账（第二轮复核，修复前 → 修复后）**：缺陷类＝**总览与分析层里与原文不符的断言**。第一轮我只改了 00_概述.md 的 9 处，**同类缺陷在 ch09／00_情感节点.md／00_金句精选.md 原样存续**（＝报「已修」而不成立）。第二轮整类清扫：**33 处断言点、11 个文件**（总览三篇 + ch09/12/13/18/38/39/42/43）——说话人/文体误植 **7 → 0** · 场景/章号归位错 **5 → 0** · 虚构量词 **7 → 0**（ch42 原文 five=0；「You had no choice」4 词；「They became valuable」3 词）· 绝对化断言 **9 → 0**（如「全书唯一一次回头看」——ch13 之后仍有 14 章提到 Hound；「Wolf 第一次用自己的判断改变局面」——ch05 已报过一次 Danger!）· 时点/情节细节 **5 → 0**。改写方式＝**逐条回 text/ 原文取证后改写**＋把不可证的绝对断言改为可证表述（列出章号计数），未删词规避。清扫中途一度把 ch08 英文原句嵌入 ch12 分析层，触发 ⑩ 跨章 1 与 ⑲ 夹杂为什么阻断 1，已改中文转述——**「修复本身要复验」**。
 
-commit（**未 push**）：批1–批19 逐章 + `90d7a45e3` 术语口径修正 + `3792b32f3` 总览三篇与终验原件。
+commit（**未 push**）：批1–批19 逐章 · `90d7a45e3` 术语口径修正（witch=女巫，全书「巫师」误用清零）· `3792b32f3` 总览三篇与终验原件 · `3d8270371` 第二轮类级清扫（33 处）· `e13e45b33`／`da27b4cee` 协作板与日志。
 
 门禁原件：`.memory/raw-gates/the-dues-don-ts-of-magic-by-delemhach/2026-10-20-final_gate_full.txt`
 明细：`.memory/daily/2026-10-20.md` 本书专节
-
-**补充（完工核实）**：《The Dues & Don'ts of Magic》（slug: the-dues-don-ts-of-magic-by-delemhach）原文含 Lokepub 出版社广告页 5 处（ch06／ch15／ch19／ch30／ch42 各 1 处），全部未纳入引语——引语行广告页特征（lokepub／z-library／z-lib／1lib／download／www.）扫描命中 0 处。
 
 ### [2026-10-20 11:14 UTC] [DSH-Mac] → All
 
