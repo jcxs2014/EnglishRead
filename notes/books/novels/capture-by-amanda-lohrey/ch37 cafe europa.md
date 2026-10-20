@@ -61,9 +61,9 @@ modified: "2026-10-20"
 
 **关键词**：Almost on the dot of eleven / three of them land on the outer ledge of the window / They hesitate, look about for competitors / begin to peck fiercely at the glass / For many days they have received nothing and still they come / they, unflinching, gaze up at me with their brazen eye / Your friends are here, Yvette / I reach down for the last of the mealworms and scatter them across the ledge
 
-**为什么这样写**：作者把第五章那个承诺**一字不差地兑现**：习惯、竞争者、啄玻璃。而「你的朋友来了，伊薇特」（Your friends are here, Yvette）这半句是全书最温柔的一击——马瑟在向一个不在场的人**转述**她朋友的到来。
+**为什么这样写**：作者把第五章那个承诺兑现：**习惯**与**啄玻璃**是原样兑现，「**竞争者**」则是这一章新加的一笔。而「你的朋友来了，伊薇特」（Your friends are here, Yvette）这半句是全书最温柔的一击——马瑟在向一个不在场的人**转述**她朋友的到来。
 
-**读者视角提示**：请注意「最后一点面包屑」——喂食即将终止。而作者随即写下那句：I will leave this room with a residue of its history intact。
+**读者视角提示**：请注意「最后一点**面包虫**」——喂食即将终止。而作者随即写下那句：I will leave this room with a residue of its history intact。
 
 ---
 
@@ -97,7 +97,7 @@ modified: "2026-10-20"
 
 **关键词**：Must have been weird / it was, and it wasn’t / Something of it stays with me / but I can’t put my finger on what it is that lingers / I guess it will come to me down the track / What I enjoyed most was working with you / and listening to the way you listen, if that makes any sense
 
-**为什么这样写**：全书最动人的一封信，而它的核心是一句**职业性的恭维**：她最享受的不是那些发现，而是「听你听的方式」。而「我必须弄清那是什么」（I can’t put my finger on what it is that lingers）这半句，用了一个**手指**的意象——她说不出来，正如马瑟在**第二十一章**说的「我们还没有一门关于经验的科学」。
+**为什么这样写**：全书最动人的一封信，而它的核心是一句**职业性的恭维**：她最享受的不是那些发现，而是「听你听的方式」。而「我说不清是什么在萦绕」（I can’t put my finger on what it is that lingers）这半句，用了一个**手指**的意象——她说不出来，正如马瑟在**第二十一章**说的「我们还没有一门关于经验的科学」。
 
 **读者视角提示**：请把「听你听的方式」与第二十一章那句「你得在房间里」并读：她学的不是他的方法论，是他的**在场方式**。
 

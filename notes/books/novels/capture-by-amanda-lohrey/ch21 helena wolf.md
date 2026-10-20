@@ -127,7 +127,7 @@ modified: "2026-10-20"
 
 > **原句 10:** "‘Well, from your account, the folklorists have an explanation for this: the shamanic initiation, the hero’s quest, which can involve a period of intense suffering.’ … ‘This is folklore, not science.’"
 
-**中文理解**：「嗯，照你的说法，民俗学家们有一个解释：萨满的入门仪式，英雄的历险，而其中可以包含一段 intense 的受苦期。」……「这是民俗，不是科学。」
+**中文理解**：「嗯，照你的说法，民俗学家们有一个解释：萨满的入门仪式，英雄的历险，而其中可以包含一段**强烈的**受苦期。」……「这是民俗，不是科学。」
 
 **关键词**：the folklorists have an explanation for this / the shamanic initiation, the hero’s quest / which can involve a period of intense suffering / This is folklore, not science
 
@@ -277,7 +277,7 @@ modified: "2026-10-20"
 ---
 > **原句 23:** "‘My granddaughter won’t eat and your son has developed a bread fetish,’ she says. Laying down her fork, she allows herself a rueful smile. ‘Excursions into self-artistry.’"
 
-**中文理解**：「我孙女不肯吃，你儿子却迷上了面包，」她说。她放下叉子，露出一个悔恨的微笑。「都是些自我造艺的 excursions。」
+**中文理解**：「我孙女不肯吃，你儿子却迷上了面包，」她说。她放下叉子，露出一个悔恨的微笑。「自我造艺的**种种尝试**。」
 
 **关键词**：My granddaughter won’t eat and your son has developed a bread fetish / a rueful smile / Excursions into self-artistry
 

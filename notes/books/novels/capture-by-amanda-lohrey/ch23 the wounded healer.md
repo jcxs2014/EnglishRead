@@ -195,7 +195,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：露西的回答既像推销，又像**关门**：她用「三次」这个数字证明不可替代，而「没人能接近得了」这半句同时也可以读成——也没人敢接这个活。而最后那半句「我让你明白你很固执」是全书最不动声色的反击。
 
-**读者视角提示**：请注意「release you」（把你放开）这个动词——她说的是被**放开**，不是被治好。而**第六章**里那句「长期隐瞒、唯恐被负面评判的叙述本身就能带来治疗效果」（a story long concealed for fear of adverse judgment might well bring therapeutic outcomes）也是同一个方向的变体。
+**读者视角提示**：请注意「release you」（把你放开）这个动词——她说的是被**放开**，不是被治好。而**第三章**马瑟自己写下的那句「长期隐瞒、唯恐被负面评判的叙述本身就能带来治疗效果」（a story long concealed for fear of adverse judgment might well bring therapeutic outcomes）也是同一个方向的变体。
 
 ---
 

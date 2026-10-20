@@ -123,7 +123,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：作者用两记精确的打击推翻这条理论：其样本被**催眠污染**过，而它的画像不适用于安东尼。而「没有屈辱」（none of humiliation）这半句是一个**区分**：受虐幻想里有痛，而安东尼的极限运动里有痛，但**没有羞辱**——那个区分比任何反驳都更有力。
 
-**读者视角提示**：请注意「那些金牌在他袜子抽屉里」这个细节又回来了：第四章那次谈铜牌、这一章的画像分析。**物品**一直是这本书里最可靠的证据。
+**读者视角提示**：请注意「那些**奖章**在他袜子抽屉里」这个细节又回来了：第四章那次谈奖章（三枚）、这一章的画像分析。**物品**一直是这本书里最可靠的证据。
 
 ---
 
@@ -207,7 +207,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：作者用一组**日常失灵**来写一种认识的病理：读书读不进去、音乐会腻、社交回避。而最冷的一句是最后那个画面——**他开始看着自己的影子**。一个一辈子研究「在房间里」的人，此刻盯着自己的影子走。
 
-**读者视角提示**：请注意「一种听了很多遍的感觉」（without a sense that I have heard it too many times before）这种**既视感**：它正是他刚刚在理论上讨论的那个词——**déjà vu**，而这个现象学上就与「预知未来／重复经历」的报告相关。
+**读者视角提示**：请注意「一种听了很多遍的感觉」（without a sense that I have heard it too many times before）这种**「听过太多遍」的感觉**：它接上的正是他刚刚在理论上讨论的那件事——「一个梦就是一个梦，可哪个梦能是假的？」（can any dream be false?）。
 
 ---
 
@@ -219,7 +219,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：妻子给出全书对马瑟**最准确也最宽容**的评价：他之所以走到这一步，是因为他问了那个不该问的问题。而「你就不是你了」（you wouldn't be you）这半句把疯狂与**本性**区分开：它可以是症状，但也可以是特征。
 
-**读者视角提示**：请把这句话与第二十四章雨果那句「我们都被困在渴望逃离的身体里」并读：一个说「你在扮演神」，一个说「你无法不扮演神」。
+**读者视角提示**：请把这句话与第二十四章雨果那句「我们都被困在一个渴望逃离的身体里」并读：一个是德博拉那句「你要是不会问那个不敢想的问题，你就不再是你了」，一个是雨果那句「我们都是被困的灵魂」。
 
 ---
 
@@ -278,7 +278,6 @@ modified: "2026-10-20"
 | perfunctory | adj. 敷衍的、草草的 | The notes I make after this session are perfunctory, mere jottings. |
 | jottings | n. 潦草的记录（复数） | The notes I make after this session are perfunctory, mere jottings. |
 | devoutly | adv. 虔诚地 | a devoutly Christian sixty-seven-year-old farmer |
-| devoutly | adj. 虔诚的 | a devoutly Christian sixty-seven-year-old farmer |
 | neon | n. 霓虹（光） | a crucifix that emitted a red neon light |
 | bidding | n. 命令、差遣 | only that they had installed it there to make him feel at home and more likely to do their bidding. |
 | torpor | n. 麻木、迟钝 | This simple gesture, performed with casual grace, releases me from my torpor. |
@@ -294,7 +293,7 @@ modified: "2026-10-20"
 | complacency | n. 自满 | Complacency is the enemy. |
 | reluctant | adj. 不情愿的 | our experiencers have been reluctant to disclose them to anyone other than their partners or therapists |
 | disclose | v. 透露 | our experiencers have been reluctant to disclose them to anyone other than their partners or therapists |
-| semantics | adj. 语义的 | a particular skill of Lucy’s since she has been trained in semantics |
+| semantics | n. 语义学 | a particular skill of Lucy’s since she has been trained in semantics |
 | mimic | v. 模仿 | How closely do their accounts mimic popular movies, comics, science-fiction novels |
 | tropes | n. 母题、套路（复数） | an absence of those narrative clichés and horror tropes |
 | lurid | adj. 耸人听闻的 | along with exposure to lurid doomsday scenarios |
@@ -302,7 +301,7 @@ modified: "2026-10-20"
 | box | n. 盒子；此处指拼图盒 | I have the pieces but not the picture on the box. |
 | cul-de-sac | n. 死胡同 | I have arrived in a cul-de-sac of unknowing. |
 | unknowing | n. 无知状态 | I have arrived in a cul-de-sac of unknowing. |
-| banality | adj. 平庸的、陈腐的 | a perverse means of escaping the banality of the mundane world. |
+| banality | n. 平庸、陈腐 | a perverse means of escaping the banality of the mundane world. |
 | expectation | n. 期待 | Lucy stares at me in expectation |
 | sprinkles | v. 撒 | cups her hand full of mealworm and sprinkles it across the sill |
 
@@ -334,7 +333,7 @@ modified: "2026-10-20"
 | crucifix | n. 十字架 | a crucifix that emitted a red neon light. |
 | projection | n. 投射；此处指把内心内容投到外物上 | This is a new detail, and clearly a projection. |
 | farmer | n. 农夫 | a devoutly Christian sixty-seven-year-old farmer |
-| notes | n. 笔记 | The notes I make after this session are perfunctory, mere jottings. |
+| notes | n. 笔记（此处为复数，指会谈记录） | The notes I make after this session are perfunctory, mere jottings. |
 
 ## 一句话总结
 

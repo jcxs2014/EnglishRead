@@ -27,7 +27,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：作者用一个**水利工程**的隐喻写焦虑的消退，而紧接着一句「赢得廉价的轻松」（cheaply won）就点破了这份轻松的性质：不值得。而最有分量的是那个补充——「我一向能熬过身体的疼痛」，因为这正是本书的暗线：马克西姆治的是背，而这里治的是**别的**，治不了。
 
-**读者视角提示**：请注意「奶牛农场」（dairy farm）这个细节——第三章说马瑟从小在那座农场长大、给牛挤奶、夜里给牛吹小号。**两处说的是同一座农场**，用词也一致（dairy farm），并没有任何改写。
+**读者视角提示**：请注意「奶牛农场」（dairy farm）这个细节——第三章说马瑟从小在那座农场长大、给牛挤奶、夜里给牛吹小号。**两处说的是同一座农场**——第三章写的是「a small farm」「call in the cows」「my job to milk Violet」，这一章写的是 dairy farm；**是同一座农场的两种叫法**，并不是自我改写。
 
 ---
 
@@ -86,7 +86,7 @@ modified: "2026-10-20"
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
-| ebbs | v. 退去、减弱 | my restlessness ebbs away. |
+| ebb | v. 退落、减弱（第三人称单数 ebbs） | my restlessness ebbs away. |
 | cheaply | adj. 廉价的、不值钱的 | I feel a simple relief, cheaply won. |
 | confess | v. 承认、坦白 | When I confess this to Deborah, she is blunt. |
 | blunt | adj. 直白的、不绕弯的 | When I confess this to Deborah, she is blunt. |
@@ -112,7 +112,7 @@ modified: "2026-10-20"
 | campus | n. 校园 | I do my administrative work on campus |
 | missing | v. 想念 | You’re missing them, Jim, your people. |
 | attached | adj. 依恋的 | You became attached to them as I knew you would. |
-| intimacy | n. 亲密 | I have stepped back from the danger of intimacy |
+| intimacy | n. 亲密（此处指情感上的亲近） | I have stepped back from the danger of intimacy |
 | believing | v. 相信 | I have stepped back from the danger of intimacy, of believing them |
 | admire | v. 钦佩 | I realise that I have come to admire them. |
 | trauma | n. 创伤 | Their pain was not the pain of ordinary trauma |

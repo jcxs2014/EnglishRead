@@ -253,7 +253,7 @@ modified: "2026-10-20"
 
 **关键词**：absorbed in a high-tech version of the Book of Revelation / stripped of its scriptural origins / a single genesis story of manhood / mutating into endless forms / in the modern version, angels have become machines
 
-**为什么这样写**：全书最浓缩的一句评论——「在现代版本里，天使变成了机器」。它既是宗教史的观察，也是本书的自我描述：外星人就是被机器化的天使。而「人的单一创世故事」这个说法，与**第三章**马瑟讲的「我希望能把它们理出个所以然」（my hope is to make sense of them）形成呼应。
+**为什么这样写**：全书最浓缩的一句评论——「在现代版本里，天使变成了机器」。它既是宗教史的观察，也是本书的自我描述：外星人就是被机器化的天使。而「人的单一创世故事」这个说法，与**第四章**马瑟讲的「我希望能把它们理出个所以然」（my hope is to make sense of them）形成呼应。
 
 **读者视角提示**：请把这句和**第四章**那句「我希望能把它们理出个所以然」放在一起：这本书也是一种「把天使机器化」的尝试。
 

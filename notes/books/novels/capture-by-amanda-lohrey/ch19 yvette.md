@@ -237,7 +237,7 @@ modified: "2026-10-20"
 
 > **原句 19:** "‘They came back, after about three months.’ Now she is oddly composed, almost matter-of-fact. ‘They took me back to the ship and laid me on a steel table. One of them had a long needle in his hand, very long, and he stuck it in my abdomen, just below my navel, and the pain…’ She falters and shakes her head, but not in the way she had before. ‘He—it—used the needle to take something out of me and, when I looked up, I could see it on the end of the needle. It was a tiny, pinkish thing and I knew it was a foetus. That’s what they wanted, that’s what they’d wanted all along. The next thing I remember is being walked to a room on the ship filled with long, glassy-looking tubes filled with fluid, and I realised they were some sort of incubator. They put the foetus, my foetus, into one of the empty ones and attached it to a thin, hose-like tube so it wouldn’t float around in the liquid. I think I fainted. When I woke up, I was back in my own bed, sore all over with a black bruise around my navel.’"
 
-**中文理解**：「他们三个月后回来了。」此时她的神态出奇地镇定，几乎在陈述事实。「他们把我带回飞船，让我躺在一张钢台上。其中一个手里拿着一根长针，很长，他把它扎进我的腹部，就在我肚脐下方，然后是那种痛……」她卡住了，摇摇头，但不像之前那样摇。「他——它——用那根针从我体内取出了什么东西；我抬头看，能看见它挂在针尖上。那是一个小小的、粉红色 thing，我知道那是一个胎儿。这就是他们要的，这就是他们一直想要的。我记得的下一件事，是被带到飞船上一间屋子，里面全是长长的、看起来像玻璃的管子，装着液体，我意识到那是某种保育器。他们把那个胎儿——我的胎儿——放进一个空管子里，再接上一根细细的、像软管的管子，好让它不会在液体里乱飘。我想我昏过去了。等我醒来，我已经回到自己的床上，浑身酸痛，肚脐周围有一块发黑的淤青。」
+**中文理解**：「他们三个月后回来了。」此时她的神态出奇地镇定，几乎在陈述事实。「他们把我带回飞船，让我躺在一张钢台上。其中一个手里拿着一根长针，很长，他把它扎进我的腹部，就在我肚脐下方，然后是那种痛……」她卡住了，摇摇头，但不像之前那样摇。「他——它——用那根针从我体内取出了什么东西；我抬头看，能看见它挂在针尖上。那是一个小小的、粉红色的东西，我知道那是一个胎儿。这就是他们要的，这就是他们一直想要的。我记得的下一件事，是被带到飞船上一间屋子，里面全是长长的、看起来像玻璃的管子，装着液体，我意识到那是某种保育器。他们把那个胎儿——我的胎儿——放进一个空管子里，再接上一根细细的、像软管的管子，好让它不会在液体里乱飘。我想我昏过去了。等我醒来，我已经回到自己的床上，浑身酸痛，肚脐周围有一块发黑的淤青。」
 
 **关键词**：They took me back to the ship and laid me on a steel table / a long needle in his hand, very long / he stuck it in my abdomen, just below my navel / I could see it on the end of the needle / It was a tiny, pinkish thing and I knew it was a foetus / That’s what they wanted, that’s what they’d wanted all along / long, glassy-looking tubes filled with fluid / some sort of incubator / attached it to a thin, hose-like tube so it wouldn’t float around in the liquid / a black bruise around my navel
 
@@ -265,7 +265,7 @@ modified: "2026-10-20"
 
 **关键词**：They have a breeding program / They are unable to reproduce themselves and they need our help / Something went wrong for them / she turns towards Lucy, as if another woman might understand / Lucy does not blink but gives a sympathetic nod / exactly the right gesture under the circumstances
 
-**为什么这样写**：作者在这里让**露西**进入前台一瞬：她不眨眼，她给出一个「恰到好处的」点头。而这恰是第五章为她的那句设定——低调、让人安心、不抢戏——在极端情境下的实测。而伊薇特转向她，说明这句话是说给**女性**听的。
+**为什么这样写**：作者在这里让**露西**进入前台一瞬：她不眨眼，她给出一个「恰到好处的」点头。而这恰是第五章为**露西**写下的那句设定（低调的自信，以及最好的那种冷面幽默）——在极端情境下的实测。而伊薇特转向她，说明这句话是说给**女性**听的。
 
 **读者视角提示**：请注意「正是恰当的手势」这半句是马瑟的评语。他仍在观察，而他的观察对象此刻是露西。
 

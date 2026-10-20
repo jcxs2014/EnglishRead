@@ -97,7 +97,7 @@ modified: "2026-10-20"
 
 **关键词**：His account ranges from splinters of the cross of Jesus’ crucifixion (improbable) / to the five-hundred-year-old mummified arm / of the co-founder of the Jesuit order, Francis Xavier / This severed limb, permanently displayed in a gold case / in the Church of the Gesu in Rome / at least has some provenance
 
-**为什么这样写**：作者把**圣方济各的干枯手臂**放在这里，而这是一句被历史证实过的、著名的圣物（圣方济各的臂骨至今仍在）。而「至少它是有出处的」（at least has some provenance）这半句，正是马瑟整章的判准——后面那句「罗马的什一税」（Rome's tithe）更精确：一条手臂被从印度切下来运到罗马。
+**为什么这样写**：作者把**圣方济各的干枯手臂**放在这里，而这是一句被历史证实过的、著名的圣物（圣方济各的臂骨至今仍在）。而「至少它是有出处的」（at least has some provenance）这半句，正是马瑟整章的判准——后面那句「罗马的什一税」（Rome's tithe）更精确：一条手臂被从**果阿（Goa）**经阿拉伯海切下来运到罗马。
 
 **读者视角提示**：请记住「provenance」（出处／来路）这个词。它与上一章格里芬的酸面包「每一步都有出处」是同一条轴。
 
