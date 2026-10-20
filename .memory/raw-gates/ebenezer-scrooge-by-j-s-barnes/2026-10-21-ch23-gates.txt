@@ -1,0 +1,62 @@
+=== ch23 门禁原件 2026-10-21 ===
+
+--- chapter.sh ---
+单章体检：ch23  ch23 a glass of sherry at noon.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/ebenezer-scrooge-by-j-s-barnes/text/ch23_v.txt
+
+【逐字】
+  引语块 8，片段 10，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0
+
+【形态】
+  H1 ✅：23. V — A Glass of Sherry at Noon
+  导航 5 项 ✅
+  块数 8（本书中位 8，范围 6–15）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）
+EXIT=0
+
+--- quotes.py chapter 23 ---
+ch23 a glass of sherry at noon.md: 8/8 in ch23 text
+
+--- quotes.py verbatim (全书) ---
+ch64 the voice that never gave its name.md: 12/12 ✅
+ch67 the black king and the white king.md: 6/6 ✅
+ch69 the silent struggle downstairs.md: 9/9 ✅
+ch70 into starningham with the fire behind.md: 10/10 ✅
+
+=== 总计 275/275 引文可核实（100%）；完全干净文件 33/33；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+--- quotes.py verbatim --full ---
+ch64 the voice that never gave its name.md: 12/12 ✅
+ch67 the black king and the white king.md: 6/6 ✅
+ch69 the silent struggle downstairs.md: 9/9 ✅
+ch70 into starningham with the fire behind.md: 10/10 ✅
+
+=== 总计 275/275 引文可核实（100%）；完全干净文件 33/33；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+--- check_vocab ---
+词条行合计: 600
+--- FAIL (0) ---
+--- WARN (1) ---
+
+--- analysis.py inline ---
+=== 分析层行内英文逐字核查（ebenezer-scrooge-by-j-s-barnes）===
+  参照集：text/（73 个提取件） + epub 交叉验证 ；扫 33 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：798 个表格行、583 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 1198 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 8
+
+--- check_chinese_layer ---
+❌ 夹杂理解：0 处
+❌ 夹杂为什么：0 处
+=== 汇总：275 个引语块 | 合格分析密度 100% | 整层夹杂率 0% | 阻断型 0 | 提示型 0 ===
+=== 结论：无阻断型 ===
+
+--- structure.py order ---
+  ❓ ch09 three incidents at brightwell road.md：引语展平后非唯一命中（pos=-1），该章不判
+=== 章内块序：33 个 md / 267 块，顺序或编号缺陷 0 章 ／ 不可判定 1 章 ===
