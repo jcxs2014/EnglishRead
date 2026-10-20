@@ -6,11 +6,11 @@ modified: "2026-10-20"
 # Club Flamingo
 
 ## 本章导航
-- **一句话概括**：车祸现场的恐慌过后，Eddie 把 Poppy 劫持进 Palm Springs 的同志酒吧 Club Flamingo；在酒吧后屋，他命令两名保安自相残杀，并许诺让 Poppy 真正成名，而 Poppy 在面壁听杀戮时第一次抓住「为了 Marlo 必须逃走」的念头。
+- **一句话概括**：滑板少年坠亡现场的恐慌过后，Eddie 把 Poppy 劫持进 Palm Springs 的同志酒吧 Club Flamingo；在酒吧后屋，他命令两名保安自相残杀，并许诺让 Poppy 真正成名，而 Poppy 在面壁听杀戮时第一次抓住「为了 Marlo 必须逃走」的念头。
 - **情感弧线位置**：全书情绪的最低点之一——从开篇的极端生理恐慌，到被 Eddie 用超自然力量强行「抹平」情感，再到目睹保安互杀时的麻木；结尾以对女儿的责任重新点燃求生意志。
 - **Tropes 兑现/反转**：「丧尸名人」的黑色喜剧设定在同志酒吧兑现——全城正在为 Eddie 的「死」举办纪念派对，僵尸本尊混进了自己的悼念现场；喜剧随即反转成恐怖，Eddie 把「表演艺术」的执念推到命令活人互杀的地步。
 - **人物弧线**：Poppy 从粉丝对偶像的崇拜与恐惧交织，逐步认清 Eddie 的真实面目；她的情绪一次次被 Eddie 抹除，唯独「不能让 Marlo 没有妈妈」成为不受控制的真实情感，标志她从被动乘客转为主动求生者。
-- **叙事手法**：第一人称内心独白持续，大量内脏外翻式的身体比喻；场景从高速公路车祸现场转到 Club Flamingo 的黑光灯舞池，紫光下的狂欢与后屋的血腥形成明暗对立的平行蒙太奇。
+- **叙事手法**：第一人称内心独白持续，大量内脏外翻式的身体比喻；场景从住宅区小巷的坠亡现场转到 Club Flamingo 的黑光灯舞池，紫光下的狂欢与后屋的血腥形成明暗对立的平行蒙太奇。
 
 ## 精读
 
@@ -33,15 +33,15 @@ modified: "2026-10-20"
 - **读者视角提示**：本章一直在「被操控的情感」与「真实的情感」之间拉锯；这句是第一次模糊两者边界的时刻。
 
 > **原句 4:** "“That’s your fault. I can’t trust you now, which means for the rest of the night you’re gonna have to come inside with me.”"
-- **中文理解**：Eddie 把滑板少年的死归咎于 Poppy——因为她试图逃跑才导致事故，所以他不能再信任她，接下来整晚她都必须跟着他进酒吧。
+- **中文理解**：Eddie 把滑板少年的死归咎于 Poppy——因为她试图逃跑才导致这场坠亡，所以他不能再信任她，接下来整晚她都必须跟着他进酒吧。
 - **关键词**：fault、trust
 - **为什么这样写**：这句完成了叙事上的「锁定」：Eddie 用莫须有的罪名把 Poppy 绑在身边，让读者自然接受接下来进入 Club Flamingo 的情节。短句「That’s your fault」是一种煤气灯式的指控，让 Poppy 在震惊中无力反驳。
-- **读者视角提示**：注意 Eddie 的逻辑漏洞——事故明明是醉驾造成的，他却成功把罪责推给 Poppy，这是全书操控术的典型样例。
+- **读者视角提示**：注意 Eddie 的逻辑漏洞——少年的死明明是他用命令操控的特技造成的，他却成功把罪责推给 Poppy，这是全书操控术的典型样例。
 
 > **原句 5:** "“I’m sorry, sport, I’m a bit of a mess tonight,” he admits, shaking his head. “I usually have more time to plan, but drunk driving is a real bitch. Someone has one too many mi-mos for brunch and the next thing you know, you’re in crisis mode.”"
 - **中文理解**：Eddie 一边道歉一边解释自己今晚状态不佳：他平时有更多时间策划，但醉驾打乱了一切——有人早午餐多喝了几杯含羞草鸡尾酒，转眼就进入了危机模式。
 - **关键词**：mi-mos、crisis mode
-- **为什么这样写**：这是全书黑色幽默的巅峰之一：一个刚造成致命车祸的僵尸，把「醉驾撞人」说得像一次日程失误。把血腥事故与「brunch 上的 mi-mos」并置，用上流社会的休闲词消解死亡的严肃性，正是 Eddie 的恐怖之处。
+- **为什么这样写**：这是全书黑色幽默的巅峰之一：一个刚用命令操控滑板少年坠亡的僵尸，把「醉驾」这种日常麻烦说得像一次日程失误。把血腥坠亡与「brunch 上的 mi-mos」并置，用上流社会的休闲词消解死亡的严肃性，正是 Eddie 的恐怖之处。
 - **读者视角提示**：「sport」是 Eddie 对 Poppy 的固定称呼，既亲昵又居高临下；注意这个称呼在整章反复出现。
 
 > **原句 6:** "“Are you some kind of … influencer?” He rolls out the last word with a hearty portion of disdain."

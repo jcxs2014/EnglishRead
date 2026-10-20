@@ -23,7 +23,7 @@ modified: "2026-10-20"
 > **原句 2:** "There’s no time to stop and consider the existential weight of all this death."
 - **中文理解**：Poppy 强迫自己不去思考眼前这堆死亡的存在主义重量——现在没时间崩溃，只能继续行动。她用一句话把整夜的恐怖压缩成「待处理的工作量」。
 - **关键词**：existential、weight
-- **为什么这样写**：一句话点出本章的内在主题：死亡的分量被生存的紧迫性暂时悬置。作者用「重量」这个物理隐喻贯穿全书（呼应书名 Dead Weight），让 Poppy 的逃避显得既真实又可悲。
+- **为什么这样写**：一句话点出本章的内在主题：死亡的分量被生存的紧迫性暂时悬置。作者用「重量」这个物理隐喻贯穿全书（第一章标题 Dead Weight 正是这个隐喻的起点），让 Poppy 的逃避显得既真实又可悲。
 - **读者视角提示**：这句话是 Poppy 的自我说服。留意她在本章里反复用「没时间」「不能想」来压制情绪——这些压制点会在后面以眼泪的形式泄漏出来。
 
 > **原句 3:** "Instead, I open up the web browser and pound out a quick search: PALM SPRINGS, SELF-INFLICTED, SKINNED BODIES."
