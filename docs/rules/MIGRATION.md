@@ -63,6 +63,9 @@ A–I 单条规则案例 9 份 · J 案例移出 21 KB · K git 事故 · L 批�
 1. `scripts/attic/` 的 ignore 规则**存在且生效**（`.gitignore:150`），只是有 11 个文件在该规则之前已被纳入索引 ⇒ 不是「规则缺失」，是历史遗留。
 2. `docs/新书启动模板.md` 在本轮对话期间从 217,705 B 增长到 226,721 B，同期 `scripts/` 有当日新增判据（`check_vocab` v5、`check_quote_blocks` F）⇒ **重构期间仓库在动**，迁移一律以 BASE 为准，收尾 `git diff rules-refactor-base-20261020 -- docs/` 复核漂移。
 
+3. **`git commit -- <pathspec>` 不能携带「文件仍在磁盘上」的删除**（2026-10-20 实测）：该形式隐含 `--only`，对给定路径**取工作树内容**与 HEAD 比较；文件已 `git rm --cached` 但仍在磁盘 ⇒ 判定无差异，报 `no changes added to commit`。
+   **正确做法**：先用 `git diff --cached --name-only | wc -l` 确认暂存区只含自己的条目（本仓库多实例并行，这是硬前提），再**不带 pathspec** 提交索引。窗口极小，且能正确携带删除。
+
 ## 八、进度
 
 | 步骤 | 状态 |
