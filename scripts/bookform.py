@@ -53,6 +53,34 @@ MIN_CHAPTERS_FOR_MODAL = 3
 DEFAULT_SUBITEMS = ["中文理解", "关键词", "为什么这样写", "读者视角提示", "句子结构"]
 DEFAULT_NAV_COUNT = 5
 DEFAULT_BLOCK_RANGE = (3, 8)
+
+# —— 体裁 profile（2026-10-20 立，用户拍板「按体裁给结构约束；短篇合集没有总览」）——
+# 结构约束的**唯一定义处**是 docs/rules/genre-profiles.json；本文件只读它、不再自带一套。
+# 为什么不在代码里写死：文档的体裁表与代码的默认值已经分叉过一次——体裁表写言情 4 子项，
+#   而这里的 DEFAULT_SUBITEMS 是 5 项（含「句子结构」，那是非虚构/短篇的第五项），
+#   于是言情新书写成 5 项、门禁只说「新书基线，放宽」，体裁表等于死条文。
+PROFILE_PATH = Path(__file__).resolve().parents[1] / "docs/rules/genre-profiles.json"
+_PROFILES: dict | None = None
+
+
+def load_profiles() -> dict:
+    global _PROFILES
+    if _PROFILES is None:
+        try:
+            _PROFILES = json.loads(PROFILE_PATH.read_text(encoding="utf-8"))
+        except Exception:
+            _PROFILES = {}
+    return _PROFILES
+
+
+def genre_of(book: Path) -> str:
+    """体裁 = 书目录的父目录名（novels / mystery-thriller / …）；不在四类下则 _default。"""
+    g = book.resolve().parent.name
+    return g if g in load_profiles() and not g.startswith("_") else "_default"
+
+
+def profile_of(book: Path) -> dict:
+    return load_profiles().get(genre_of(book), {})
 DIGITS = re.compile(r"\d+")
 TEXTCH_RE = re.compile(r"^ch(\d+)(?![0-9])")
 
@@ -192,11 +220,12 @@ def book_form(book: Path) -> dict:
     label_mode = Counter(label_sets).most_common(1)[0][0] if label_sets else ()
     # 新书（<3 章）没有可信众数 ⇒ 用库内基线，否则第 1 章等于零判据
     _baseline = "book" if len(files) >= MIN_CHAPTERS_FOR_MODAL else "default"
+    prof = profile_of(book)
     if _baseline == "default":
-        label_mode = tuple(DEFAULT_SUBITEMS)
+        label_mode = tuple(prof.get("subitems") or DEFAULT_SUBITEMS)
         nav_mode = ()                     # 名字不设基线，只设项数（否则会报"缺导航项"假红）
-        navs = navs or [DEFAULT_NAV_COUNT]
-        nblocks = nblocks or [DEFAULT_BLOCK_RANGE[0]]
+        navs = navs or [prof.get("nav", {}).get("count") or DEFAULT_NAV_COUNT]
+        nblocks = nblocks or [(prof.get("blocks") or DEFAULT_BLOCK_RANGE)[0]]
     return {
         "book": str(book),
         "chapters": len(files),
@@ -207,12 +236,17 @@ def book_form(book: Path) -> dict:
         "blocks": total,
         "block_median": statistics.median(nblocks) if nblocks else 0,
         "block_range": ([min(nblocks), max(nblocks)] if _baseline == "book"
-                         else list(DEFAULT_BLOCK_RANGE)) if nblocks else [0, 0],
+                         else list(prof.get("blocks") or DEFAULT_BLOCK_RANGE)) if nblocks else [0, 0],
         "blocks_per_chapter": nblocks,
         "subitems": list(label_mode),
         "subitem_sets": {"/".join(k): v for k, v in Counter(label_sets).most_common(5)},
         "text_files": sum(len(v) for v in text_files(book).values()),
         "baseline": _baseline,
+        "profile": genre_of(book),
+        "profile_label": prof.get("label", ""),
+        "profile_subitems": list(prof.get("subitems") or DEFAULT_SUBITEMS),
+        "profile_blocks": list(prof.get("blocks") or DEFAULT_BLOCK_RANGE),
+        "profile_overview": prof.get("overview", 3),
     }
 
 
@@ -291,6 +325,9 @@ def check_chapter(book: Path, md: Path, form: dict | None = None) -> dict:
         "subitems_modal": form["subitems"],
         "blocks": sum(1 for b in d["blocks"] if b["quote_no"] is not None),
         "block_median": form["block_median"], "block_range": form["block_range"],
+        "profile": form.get("profile", ""),
+        "profile_subitems": form.get("profile_subitems", []),
+        "baseline": form.get("baseline", "book"),
     }
     res["counts"] = {"blocks": len(res["quotes"]),
                      "segments": sum(len(q["segments"]) for q in res["quotes"]),
@@ -312,8 +349,22 @@ def print_form(f: dict) -> None:
           + ("  ← 新书基线只约束**项数 5**，不约束项名" if f.get("baseline") == "default" else ""))
     print(f"  子项集（众数，{len(f['subitems'])} 项）：{' / '.join(f['subitems']) or '—'}")
     print(f"  每章块数：中位 {f['block_median']}，范围 {f['block_range'][0]}–{f['block_range'][1]}"
-          + ("   （⚠️ 已有章 <3，用的是**新书基线**：子项 5 项 / 导航 5 项 / 块数 3–8）"
+          + ("   （⚠️ 已有章 <3，用的是**体裁 profile 基线**）"
              if f.get("baseline") == "default" else ""))
+    prof_subs = f.get("profile_subitems") or []
+    prof_blocks = f.get("profile_blocks") or [0, 0]
+    print(f"  体裁 profile：{f.get('profile', '_default')}（{f.get('profile_label', '')}）"
+          f"｜子项 {len(prof_subs)} 项｜块数 {prof_blocks[0]}–{prof_blocks[1]}｜总览 {f.get('profile_overview', 3)} 篇")
+    drift = []
+    if prof_subs and set(prof_subs) != set(f["subitems"]):
+        drift.append(f"子项集 {'/'.join(prof_subs)} ≠ 本书 {'/'.join(f['subitems']) or '—'}")
+    # 块数只在**新书**（还没有自己的中位）时按 profile 提示；
+    # 已有书按 2026-10-18 拍板的「同书自校准」——中位 15 是这本书的体裁使然，不是缺陷。
+    if f.get("baseline") == "default" and prof_blocks[1] and \
+            not (prof_blocks[0] <= (f["block_median"] or 0) <= prof_blocks[1]):
+        drift.append(f"块数中位 {f['block_median']} 出 {prof_blocks[0]}–{prof_blocks[1]}")
+    if drift:
+        print("  ⚠️ 与体裁 profile 不同：" + "；".join(drift) + "——**不算错**，在判定表写一行理由。")
     print("  ⚠️ 形态偏离本书众数不算错，写一行理由即可。")
 
 
@@ -347,6 +398,10 @@ def print_check(r: dict) -> None:
     if f["nav_missing"]:
         print(f"    缺：{f['nav_missing']}")
     print(f"  块数 {f['blocks']}（本书中位 {f['block_median']}，范围 {f['block_range'][0]}–{f['block_range'][1]}）")
+    prof_subs = f.get("profile_subitems") or []
+    if prof_subs and set(prof_subs) != set(f.get("subitems_modal") or []):
+        print(f"  ⚠️ 体裁 profile（{f.get('profile')}）的子项是 {'/'.join(prof_subs)}，"
+              f"本书是 {'/'.join(f.get('subitems_modal') or []) or '—'}——**不算错**，判定表写一行理由")
     print("\n【断言】")
     print("  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。")
     print(f"\n结论：{'❌ 有阻断' if r['verdict'] == 'blocked' else '✅ 机器层无阻断'}（档位四选一见审查表）")
@@ -389,11 +444,24 @@ def check_all(book: Path, as_json: bool = False) -> int:
         if dev:
             form_ch.append((no, dev))
 
+    # 总览篇数按体裁 profile 核（**只报不判红**：在制书本来就没写总览）
+    prof = profile_of(book)
+    want_ov = prof.get("overview", 3)
+    have_ov = len(list(book.glob("00_*.md")))
+    if want_ov and have_ov < want_ov:
+        ov_msg = (f"总览 {have_ov}/{want_ov} 篇——完工前必须补齐" if have_ov
+                  else f"总览三篇未做（本体裁要求 {want_ov} 篇，完工前必须）")
+    elif not want_ov and have_ov:
+        ov_msg = f"本体裁 profile 不要求总览（短篇合集），本书已做 {have_ov} 篇——不判错"
+    else:
+        ov_msg = ""
+
     if as_json:
         print(json.dumps({"book": str(book), "chapters": len(rows),
                           "empty_quote": [{"ch": n, "n": k} for n, k in empty_ch],
                           "form_deviation": [{"ch": n, "dev": d} for n, d in form_ch],
-                          "undecidable": [{"ch": r["chapter"], "reason": r["reason"]} for r in und]},
+                          "undecidable": [{"ch": r["chapter"], "reason": r["reason"]} for r in und],
+                          "overview": ov_msg, "profile": genre_of(book)},
                          ensure_ascii=False, indent=2))
     else:
         print(f"  整书体检 {len(rows)} 章（与 `chapter.sh` 同一实现；只报其他 lane 不查的维度）")
@@ -403,6 +471,8 @@ def check_all(book: Path, as_json: bool = False) -> int:
             print(f"  ❌ ch{no:02d}：" + "；".join(dev))
         for r in und:
             print(f"  ❓ ch{r['chapter']:02d}：{r['reason']}")
+        if ov_msg:
+            print(f"  ℹ️ {ov_msg}")
         print(f"  汇总：空引号 {len(empty_ch)} 章 ｜ 形态偏离 {len(form_ch)} 章 ｜ 无法判定 {len(und)} 章"
               f"（引语/子项/关键词/中文密度另有 lane，本项不重复计）")
     bad = bool(empty_ch or form_ch)

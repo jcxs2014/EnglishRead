@@ -162,6 +162,33 @@ def main() -> int:
         else:
             print(f"✅ 回归基线 {len(_cases)} 条的脚本路径全部存在")
 
+    # —— 6. 体裁 profile 自洽（2026-10-20 立）——
+    # 为什么要有这一项：结构约束原先有两个载体（模板的体裁表 + bookform 的 DEFAULT_*），
+    # 两份已经分叉一次（言情 4 子项 vs 默认 5 项）。现在唯一定义是 genre-profiles.json，
+    # 这里保证它**解析得了、键都对得上真实体裁目录**——否则 bookform 会静默回落到 _default，
+    # 而那正是「规则写了但没生效」的形态。
+    prof_path = RULES_DIR / "genre-profiles.json"
+    if not prof_path.exists():
+        bad.append("缺少 docs/rules/genre-profiles.json（体裁结构约束无处定义）")
+    else:
+        import json as _json
+        try:
+            profs = _json.loads(prof_path.read_text(encoding="utf-8"))
+        except Exception as e:
+            profs = {}
+            bad.append(f"genre-profiles.json 解析失败：{e}")
+        need = {"subitems", "blocks", "overview"}
+        for k, v in profs.items():
+            if k.startswith("_"):
+                continue
+            miss = need - set(v)
+            if miss:
+                bad.append(f"profile「{k}」缺字段：{', '.join(sorted(miss))}")
+            elif not (ROOT / "notes" / "books" / k).is_dir():
+                bad.append(f"profile「{k}」对应的体裁目录不存在：notes/books/{k}/")
+        if profs and not any(b.startswith("genre-profiles") or b.startswith("profile") for b in bad):
+            print(f"✅ 体裁 profile {len([k for k in profs if not k.startswith('_')])} 份，字段齐、目录对得上")
+
     # —— 提示型：硬编码数字 ——
     for f in [AGENTS, *sorted(RULES_DIR.glob("*.md"))]:
         text = strip_code_blocks(f.read_text(encoding="utf-8"))

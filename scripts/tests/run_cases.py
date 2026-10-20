@@ -90,9 +90,12 @@ def main() -> int:
     if not CASES.exists() and not a.record:
         print(f"❌ 没有基线文件 {CASES}；先跑 --record", file=sys.stderr)
         return 2
-    cases = json.loads(CASES.read_text(encoding="utf-8")) if CASES.exists() else []
-    if a.k:
-        cases = [c for c in cases if a.k in c["id"]]
+    all_cases = json.loads(CASES.read_text(encoding="utf-8")) if CASES.exists() else []
+    # ⚠️ 2026-10-20 事故：原先写成 `cases = [...]` 后再 `--record`，写回时**只保留了 -k 命中的那些**
+    #   ⇒ `--record -k bookform` 把 71 条基线截成 1 条，而输出只说「已录制 1 条」。
+    #   基线被删空时 compare 只会报「全部一致」（0 条），是最典型的假绿。
+    #   现在：过滤只作用于「跑哪些」，写回一律按 id 合并进完整列表。
+    cases = [c for c in all_cases if not a.k or a.k in c["id"]]
 
     bad = skipped = 0
     new = []
@@ -136,8 +139,13 @@ def main() -> int:
             print(f"   实际尾行: {rec['tail']}")
 
     if a.record:
-        CASES.write_text(json.dumps(new, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
-        print(f"\n已录制 {len(new)} 条基线 → {CASES.relative_to(ROOT)}")
+        by_id = {c["id"]: c for c in all_cases}
+        for rec in new:
+            by_id[rec["id"]] = rec
+        merged = [by_id[c["id"]] for c in all_cases] + \
+                 [r for r in new if r["id"] not in {c["id"] for c in all_cases}]
+        CASES.write_text(json.dumps(merged, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+        print(f"\n已录制 {len(new)} 条（按 id 合并，基线总数 {len(merged)}）→ {CASES.relative_to(ROOT)}")
         return 0
 
     print(f"\n合计 {len(cases) - skipped} 条：一致 {len(cases) - skipped - bad}，不一致 {bad}，跳过 {skipped}")

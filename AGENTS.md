@@ -13,6 +13,7 @@
 | 任务 | 读 |
 |---|---|
 | 写书籍章节精读 | `docs/rules/创建卡.md` |
+| 结构/体裁之间的差异（子项、导航、块数、要不要总览） | `docs/rules/genre-profiles.json` |
 | 审查（同会话或异实例） | `docs/rules/审查表.md` |
 | 门禁红了 / 判读输出 | `docs/rules/20-gate.md` |
 | 语料、词汇、批次、防缺陷 | `docs/rules/30-writing.md` |
