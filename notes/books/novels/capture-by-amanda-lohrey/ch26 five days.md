@@ -97,7 +97,7 @@ modified: "2026-10-20"
 
 **关键词**：at least some cases / those captures experienced in the liminal state between waking and sleeping / are dreamlike projections of cultural anxieties / prompted by a sense of powerlessness in the face of predatory technologies / along with exposure to lurid doomsday scenarios
 
-**为什么这样写**：这一条假设与费莉西蒂的论点几乎同构，而它出现在**学术清单**里——于是作者让最有可能成立的那条解释以最冷静的形式出现。而「掠夺性技术」（predatory technologies）这半句把 2026 年的世界（监控、AI、数据）与 1870 年的帆船时代接了起来。
+**为什么这样写**：这一条假设与费莉西蒂的论点几乎同构，而它出现在**学术清单**里——于是作者让最有可能成立的那条解释以最冷静的形式出现。而「掠夺性技术」（predatory technologies）这半句把当下这个世界（监控、AI、数据）与**第二十五章那张 1870 年的运河驳船照片**接了起来——Gort 是工业运河上的窄船，不是帆船。
 
 **读者视角提示**：请注意这条假设需要两个条件（无力感 + 末日叙事的接触），而它对**清醒时**的案例无效。这正是作者接下来要说的。
 

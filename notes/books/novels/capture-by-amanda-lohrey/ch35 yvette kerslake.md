@@ -59,7 +59,7 @@ modified: "2026-10-20"
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
-| visitations | n. 造访、 Visits（此处为外星人的来访） | I have had two more visitations since that day I saw you |
+| visitations | n. 造访（此处指外星人的来访） | I have had two more visitations since that day I saw you |
 | ravens | n. 渡鸦（复数） | they sometimes visit me in the form of birds, mostly ravens |
 | symptoms | n. 症状（复数） | Most of the physical symptoms have gone, meaning they’ve settled down |
 | settled | adj. 安顿下来的 | meaning they’ve settled down and I don’t get the shakes anymore. |

@@ -37,7 +37,7 @@ modified: "2026-10-20"
 
 **关键词**：There were terrorist warnings then / Caroline was reluctant to hitchhike / I rented a van / what, in the classical era, had been the Greek and Roman cities of Asia Minor / a young man who had earned his living assessing cattle / it was a revelation
 
-**为什么这样写**：作者用一次**时代错位**制造戏剧性：1980 年代的恐袭警告、租来的厢式车、亚细亚的古希腊罗马城邦——而叙述者的出身是「评估牛群」。这三者并置，精确地标出了马瑟在历史上的位置：一个农场出来的青年，走进了欧洲最古老的废墟。
+**为什么这样写**：作者用一次**时代错位**制造戏剧性：当时的恐袭警告（原文只说 the terrorist warnings，没有给年份）、租来的厢式车、亚细亚的古希腊罗马城邦——而叙述者的出身是「评估牛群」。这三者并置，精确地标出了马瑟在历史上的位置：一个农场出来的青年，走进了欧洲最古老的废墟。
 
 **读者视角提示**：请注意「评估牛群」（assessing cattle）——第三章里他给牛挤奶、给牛吹小号；这里他给牛**估价**。同一种技能，不同的用途。
 
