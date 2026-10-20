@@ -12,407 +12,407 @@ start_date: 2026-10-19
 
 - **时间地点**：Hacienda Cantera；一个月后；Yolanda 孕吐/感染；Itzco 夜访；Valentín 剪柠檬树受伤
 - **人物**：Yolanda；Alta；Valentín；Itzco；Don Julián；Odette；Javier
-- **核心事件**：Yolanda 孕吐/感染 worsens；Itzco 夜访 reveal pregnancy + "Es de Javier"；Yolanda 与 Itzco 和解（lemon pie）；Valentín 剪柠檬树时 pruning shears 刺穿手臂；Don Julián 叫 Yolanda 去 fetch doctor
-- **悬念钩子**：Valentín 伤势？Yolanda 是否会利用这次机会？Pregnancy 是否 survive infection？
+- **核心事件**：Yolanda 孕吐/感染恶化；Itzco 夜访揭示怀孕 + "Es de Javier"；Yolanda 与 Itzco 和解（柠檬派）；Valentín 剪柠檬树时修枝剪刺穿手臂；Don Julián 叫 Yolanda 去请医生
+- **悬念钩子**：Valentín 伤势如何？Yolanda 是否会利用这次机会？怀孕能否扛过感染？
 
 ---
 
 > **原句 1:** "The next month is agony. I consider going back to Cesarea because living inside my body is like being forced to live with a stranger."
 
-**中文理解**：Yolanda 的 pregnancy 体验——"living inside my body is like being forced to live with a stranger" 显示 dissociation from own body. She considers returning to Cesarea (bruja) for help。
+**中文理解**：Yolanda 的怀孕体验——“living inside my body is like being forced to live with a stranger”显示出她与自身身体的疏离。她考虑回到 Cesarea（女巫）那里寻求帮助。
 
-**句子结构**：两句话：The next month is agony + I consider going back... because...。
+**句子结构**：两句话：第一句 The next month is agony 是主系表结构，先给整月定下「痛苦」的基调；第二句以 I consider going back to Cesarea 为主干，because 引导原因状语从句，解释她想逃离这副身体的原因。
 
 **关键词**：
-- `living inside my body is like being forced to live with a stranger`：体内住着陌生人——dissociation
-- `consider going back to Cesarea`：考虑回去找 Cesarea——desperation
+- `living inside my body is like being forced to live with a stranger`：体内住着陌生人——与身体的疏离感
+- `consider going back to Cesarea`：考虑回去找 Cesarea——绝望
 
-**为什么这样写**：Yolanda’s dissociation from pregnancy shows she never wanted motherhood—only status. "Robbed of the joy" confirms pregnancy as transaction。
+**为什么这样写**：Yolanda 与怀孕的疏离表明她从未想要做母亲，只想要地位。“Robbed of the joy”证实怀孕对她而言是一场交易。
 
 ---
 
 > **原句 2:** "I also know I’m pregnant, but I’ve been robbed of the joy of that knowledge. A part of me thought that when life sprung inside me, something in my mind would switch and I’d become different. Better. That’s not the case."
 
-**中文理解**：Yolanda 知道怀孕但 "robbed of the joy"——pregnancy 是 transaction，不是 celebration. "A part of me thought... I’d become different. Better. That’s not the case." 显示 her disappointment。
+**中文理解**：Yolanda 知道自己怀孕，却「被剥夺了这份喜悦」——怀孕是交易，不是庆祝。“A part of me thought... I'd become different. Better. That's not the case.”显示出她的失望。
 
-**句子结构**：两句话：I also know I’m pregnant... + A part of me thought... That’s not the case。
+**句子结构**：两个层次：第一句 I also know I'm pregnant 用 but 连接转折，点明她知道怀孕却无喜悦；第二句先以 A part of me thought 引出过去的期待，再用 Better. 单独成句强调幻想，最后以 That's not the case. 收束，理想与现实的落差在短句对比中显现。
 
 **关键词**：
-- `robbed of the joy`：被剥夺喜悦——pregnancy as transaction
-- `I’d become different. Better. That’s not the case.`：会变得不同/更好——未发生
+- `robbed of the joy`：被剥夺喜悦——怀孕如交易
+- `I’d become different. Better. That’s not the case.`：会变得不同/更好——期待落空，并未发生
 
-**为什么这样写**：Yolanda’s "robbed of joy" echoes Mamá’s "You were like a parasite trying to kill me"—generational maternal ambivalence。
+**为什么这样写**：Yolanda 的「被剥夺喜悦」呼应了 Mamá 的「你像寄生虫一样想杀死我」——母女两代对生育的矛盾心理一脉相承。
 
 ---
 
 > **原句 3:** "Garlic, burnt oil, green tomatoes. The essence of the salsa wafts from the kitchen into my nostrils and then gathers in my throat, like a cloud that expands. Now I experience the world like a dog, with my nose."
 
-**中文理解**：Yolanda 的 hyperosmia（pregnancy symptom）——"experience the world like a dog, with my nose." Sensory overload。"Like a cloud that expands" 显示 nausea building。
+**中文理解**：Yolanda 的嗅觉过敏（怀孕症状）——「像狗一样用鼻子体验世界」。感官超载。“Like a cloud that expands”显示恶心感正在积聚。
 
-**句子结构**：三句：列举（Garlic, burnt oil, green tomatoes）+ 主句（The essence... wafts...）+ 比喻（like a cloud that expands）。
+**句子结构**：三句：先列举气味（Garlic, burnt oil, green tomatoes），再写主句（The essence... wafts...），最后用比喻（like a cloud that expands）把不断膨胀的恶心感具象化。
 
 **关键词**：
-- `experience the world like a dog, with my nose`：像狗一样用鼻子体验世界——hyperosmia
-- `like a cloud that expands`：如扩展的云——nausea building
+- `experience the world like a dog, with my nose`：像狗一样用鼻子体验世界——嗅觉过敏
+- `like a cloud that expands`：如扩展的云——恶心感积聚
 
-**为什么这样写**：Sensory overload as pregnancy symptom—Yolanda’s body betrays her, making labor impossible。
+**为什么这样写**：以感官超载表现怀孕症状——Yolanda 的身体正在背叛她，使她无法继续做工。
 
 ---
 
 > **原句 4:** "My back hurts from mopping the hallway. Maybe I should go to Cesarea. She could check my baby and slather balm on my wound to stop the infection. Something is not right. Maybe she saw me as la cara de estúpida."
 
-**中文理解**：Yolanda 的 physical pain + consideration of returning to Cesarea。"Maybe she saw me as la cara de estúpida" 显示她对 bruja 的 paranoia。
+**中文理解**：Yolanda 的身体疼痛，以及她考虑返回 Cesarea 的想法。“Maybe she saw me as la cara de estúpida”显示她对女巫的偏执多疑。
 
-**句子结构**：两句话：My back hurts... + Maybe I should go to Cesarea。
+**句子结构**：两句都是简单句：第一句 My back hurts from mopping the hallway 是主谓结构加原因状语，说明疼痛来源；第二句 Maybe I should go to Cesarea 用情态动词 should 表达犹豫中的打算。
 
 **关键词**：
-- `Maybe I should go to Cesarea`：也许该去找 Cesarea——desperation
-- `la cara de estúpida`：愚蠢的脸——paranoia
+- `Maybe I should go to Cesarea`：也许该去找 Cesarea——绝望
+- `la cara de estúpida`：愚蠢的脸——偏执多疑
 
-**为什么这样写**：Yolanda’s consideration of Cesarea shows her isolation—no one else to turn to for pregnancy concerns。
+**为什么这样写**：Yolanda 对女巫的念想显示出她的孤立无援——怀孕的困扰无人可以求助。
 
 ---
 
 > **原句 5:** "“What bicho did you catch? You think it’s contagious?”"
 
-**中文理解**：Alta 的 "What bicho did you catch?"（what bug did you catch）——显示 Alta’s concern 是 about contagion，not Yolanda’s health。"You think it’s contagious?" reveals Alta’s fear of Yolanda infecting staff。
+**中文理解**：Alta 的“What bicho did you catch?”（你染上了什么虫子？）——显示她关心的是传染，而不是 Yolanda 的健康。“You think it's contagious?”暴露了 Alta 害怕她会传染给其他佣人。
 
-**句子结构**：两问连发。
+**句子结构**：两个问句连续发出：第一句用 bicho（虫子）作比喻追问病因，第二句直接追问传染性，两句都省略了主语，语气急促，体现 Alta 的警觉与担忧。
 
 **关键词**：
-- `What bicho did you catch?`：你染上什么虫了？——Alta’s concern (contagion)
-- `contagious`：传染的——Alta’s fear
+- `What bicho did you catch?`：你染上什么虫了？——Alta 的担忧（怕传染）
+- `contagious`：传染的——Alta 的恐惧
 
-**为什么这样写**：Alta’s concern is economic/contagion, not maternal—Yolanda’s pregnancy is liability, not joy。
+**为什么这样写**：Alta 的关心是出于经济与传染的考虑，而非母性的关怀——Yolanda 的怀孕是负担，不是喜事。
 
 ---
 
 > **原句 6:** "“No, Alta.”"
 
-**中文理解**：Yolanda 的 denial——brief, defensive。She doesn’t know if she’s contagious (infection vs pregnancy symptoms)。
+**中文理解**：Yolanda 的否认——简短而带有防御性。她不知道自己是否传染（是感染还是怀孕症状）。
 
 **句子结构**：简单否定，主语 Yolanda（省略）+ 谓语 No + 呼格 Alta。
 
 **关键词**：
-- `No, Alta.`：不，Alta——denial
+- `No, Alta.`：不，Alta——否认
 
-**为什么这样写**：Yolanda’s "No" is uncertain—she doesn’t know what’s wrong, showing her medical ignorance。
+**为什么这样写**：Yolanda 的“No”底气不足——她不知道自己的身体出了什么问题，显示出她对医学的无知。
 
 ---
 
 > **原句 7:** "It’s Valentín who walks up behind Alta. His eyes widen when they fall upon the mess. All he does is open and close his palms until he gets the courage to turn around and leave. Now I’m certain he’ll never look at me the same way."
 
-**中文理解**：Valentín witnesses Yolanda vomit——his "eyes widen" + "open and close his palms" 显示 shock/disgust。"Now I’m certain he’ll never look at me the same way" 显示 Yolanda’s realization that her scheme is failing。
+**中文理解**：Valentín 目睹 Yolanda 呕吐——他「眼睛睁大」、「反复张开又合拢手掌」显出震惊与厌恶。“Now I'm certain he'll never look at me the same way”显示 Yolanda 意识到自己的计划正在失败。
 
-**句子结构**：四句：It’s Valentín who walks up... + His eyes widen... + All he does... + Now I’m certain...。
+**句子结构**：四句递进：It's Valentín who walks up behind Alta 用强调句型引出人物；His eyes widen 写目光反应；All he does is open and close his palms 以 all 开头聚焦他唯一的动作；Now I'm certain... 收束为 Yolanda 的判断。
 
 **关键词**：
-- `eyes widen`：眼睛睁大——shock
-- `open and close his palms`：开合手掌——nervous gesture
-- `never look at me the same way`：再也不会用同样眼光看我——scheme failing
+- `eyes widen`：眼睛睁大——震惊
+- `open and close his palms`：开合手掌——紧张的小动作
+- `never look at me the same way`：再也不会用同样眼光看我——计划失败
 
-**为什么这样写**：Valentín’s disgust at Yolanda’s vomiting body shows his idealism— he wants "happy" staff, not pregnant, vomiting maids. His kindness has limits。
+**为什么这样写**：Valentín 对 Yolanda 呕吐身体的厌恶显示了他的理想主义——他要的是「快乐的」佣人，而不是怀孕呕吐的女仆。他的善意是有底线的。
 
 ---
 
 > **原句 8:** "“Can we talk?”"
 
-**中文理解**：Itzco 的 nighttime visit——"Can we talk?"——显示他的 concern despite betrayal。Yolanda is surprised："Despite my treason, he has risked it all."
+**中文理解**：Itzco 的夜间来访——“Can we talk?”——显示出他尽管被背叛仍然关心。Yolanda 很惊讶：「尽管我背叛了他，他还是冒了一切风险。」
 
-**句子结构**：简单问句。
+**句子结构**：一个极简的疑问句，仅三个词，却承载了深夜来访的全部来意——打破沉默、寻求对话。简短句式与紧张的氛围相称。
 
 **关键词**：
-- `Can we talk?`：能谈谈吗？——Itzco’s concern
+- `Can we talk?`：能谈谈吗？——Itzco 的关心
 
-**为什么这样写**：Itzco’s visit despite betrayal shows his humanity—Yolanda’s lie didn’t destroy his compassion。
+**为什么这样写**：Itzco 在被背叛后仍来探望，显示他的人性——Yolanda 的谎言没有摧毁他的同情心。
 
 ---
 
 > **原句 9:** "“Are you all right?”"
 
-**中文理解**：Itzco 的 "Are you all right?"——genuine concern。Yolanda’s stomach tightens at his gesture (touching her hand)。
+**中文理解**：Itzco 的“Are you all right?”——透着真切的关心。Yolanda 在他触碰她的手时，胃部不由自主地收紧。
 
-**句子结构**：简单问句。
+**句子结构**：一个标准的一般疑问句，句式简短直接，体现 Itzco 放下戒备、以最朴素的方式表达关切。
 
 **关键词**：
-- `Are you all right?`：你还好吗？——genuine concern
+- `Are you all right?`：你还好吗？——真切的关心
 
-**为什么这样写**：Itzco’s concern contrasts with Yolanda’s betrayal—his kindness makes her guilt worse。
+**为什么这样写**：Itzco 的关心与 Yolanda 的背叛形成了鲜明对照——他的善意让她的愧疚变得更深。
 
 ---
 
 > **原句 10:** "“I’m fine.” I wonder what he’s doing here."
 
-**中文理解**：Yolanda 的 "I’m fine" + "I wonder what he’s doing here"——defensive。She doesn’t trust Itzco’s motives。
+**中文理解**：Yolanda 的“I'm fine”与“I wonder what he's doing here”这两句都透着防御姿态——她并不信任他的动机。
 
-**句子结构**：引语 + 叙述者评注。
+**句子结构**：先以引语呈现 Yolanda 的表面应答，再用叙述者内心独白（I wonder what he's doing here）揭示真实想法，形成表层话语与内心怀疑的反差。
 
 **关键词**：
-- `I’m fine`：我没事——defensive
-- `I wonder what he’s doing here`：我想知道他来干什么——suspicion
+- `I’m fine`：我没事——防御
+- `I wonder what he’s doing here`：我想知道他来干什么——猜疑
 
-**为什么这样写**：Yolanda’s suspicion shows her inability to accept genuine care—she projects transactional motives onto Itzco。
+**为什么这样写**：Yolanda 的猜疑说明她无法接受真心的关怀——她把交易性的动机投射到 Itzco 身上。
 
 ---
 
 > **原句 11:** "“Haven’t you been feeling strange?”"
 
-**中文理解**：Itzco 的 "Haven’t you been feeling strange?"——he suspects pregnancy。Yolanda’s "Oh no, what if he knows of the baby?" shows her fear of exposure。
+**中文理解**：Itzco 的“Haven't you been feeling strange?”——他怀疑她怀孕了。她随即想到“Oh no, what if he knows of the baby?”，害怕秘密暴露。
 
-**句子结构**：问句。
+**句子结构**：否定疑问句（Haven't you...）带有试探意味，Itzco 不是直接质问，而是从「感觉奇怪」入手旁敲侧击。
 
 **关键词**：
-- `feeling strange`：感觉奇怪——Itzco’s suspicion
+- `feeling strange`：感觉奇怪——Itzco 的怀疑
 
-**为什么这样写**：Itzco’s perceptiveness threatens Yolanda’s secret—her scheme depends on hidden pregnancy。
+**为什么这样写**：Itzco 的敏锐威胁到 Yolanda 的秘密——她的计划完全建立在隐瞒怀孕之上。
 
 ---
 
 > **原句 12:** "“It’s nothing.” The purplish line extends horizontally across my center, stopping where each hip bone begins. Specks of yellow liquid peer from the wound."
 
-**中文理解**：Yolanda 的 "It’s nothing" + showing wound——she tries to distract Itzco from pregnancy with infection。"Purplish line" describes bruja’s cut。"Specks of yellow liquid peer from the wound" 显示 infection。
+**中文理解**：Yolanda 的“It's nothing”加上展示伤口——她想用感染转移 Itzco 对怀孕的注意。“Purplish line”描述的是女巫留下的切口。“Specks of yellow liquid peer from the wound”显示感染。
 
-**句子结构**：引语 + 两句话描述 wound。
+**句子结构**：先以短引语敷衍，再用两个长句聚焦身体细节：第一句写紫色线条的走向（extends horizontally... stopping where...），第二句写黄色液体渗出，视线由线条转向伤口，叙述节奏放缓。
 
 **关键词**：
-- `It’s nothing`：没什么——deflection
-- `purplish line extends horizontally across my center`：紫红色线条横贯腹部——bruja’s cut
-- `Specks of yellow liquid peer from the wound`：黄色液体从伤口渗出——infection
+- `It’s nothing`：没什么——转移话题
+- `purplish line extends horizontally across my center`：紫红色线条横贯腹部——女巫的切口
+- `Specks of yellow liquid peer from the wound`：黄色液体从伤口渗出——感染
 
-**为什么这样写**：Yolanda’s deflection (showing wound to hide pregnancy) shows her manipulation—she uses injury as shield。
+**为什么这样写**：Yolanda 用展示伤口来掩盖怀孕，这种转移注意力的做法显出她的心机——她把伤口当作盾牌。
 
 ---
 
 > **原句 13:** "“Good luck? Says who?”"
 
-**中文理解**：Itzco 的 "Good luck? Says who?"——he questions Yolanda’s "good luck" explanation。Shows his skepticism。
+**中文理解**：Itzco 的“Good luck? Says who?”——他质疑她的「好运」说法。显示他的怀疑。
 
-**句子结构**：问句。
+**句子结构**：两个短问句连续抛出：第一个重复 Yolanda 的用词“Good luck?”，第二个追问来源“Says who?”，步步紧逼，语气尖锐。
 
 **关键词**：
-- `Good luck? Says who?`：好运？谁说的？——skepticism
+- `Good luck? Says who?`：好运？谁说的？——怀疑
 
-**为什么这样写**：Itzco’s skepticism shows he doesn’t believe Yolanda’s cover story—his perception threatens her secrets。
+**为什么这样写**：Itzco 的怀疑说明他并不相信 Yolanda 的借口——他的敏锐威胁着她的秘密。
 
 ---
 
 > **原句 14:** "“Ay, Yolanda. You have an infection, but you’re also pregnant.” He blurts it out as if it’s nothing."
 
-**中文理解**：Itzco 的 revelation——"You have an infection, but you’re also pregnant."——delivered casually ("blurts it out as if it’s nothing")。Yolanda’s shock："I frown, not finding words."
+**中文理解**：Itzco 的揭露——“You have an infection, but you're also pregnant.”——以漫不经心的方式说出（「脱口而出仿佛没事」）。Yolanda 的震惊：“I frown, not finding words.”
 
-**句子结构**：引语 + 叙述者评注（He blurts it out...）。
+**句子结构**：先以直接引语呈现 Itzco 的坦白，再用叙述者评注（He blurts it out as if it's nothing）补充他说话的方式，引语与评注之间形成内容重磅与语气轻飘的反差。
 
 **关键词**：
-- `You have an infection, but you’re also pregnant`：你有感染，但你怀孕了——Itzco’s revelation
-- `blurts it out as if it’s nothing`：脱口而出仿佛没事——casual delivery
+- `You have an infection, but you’re also pregnant`：你有感染，但你怀孕了——Itzco 的揭露
+- `blurts it out as if it’s nothing`：脱口而出仿佛没事——漫不经心的语气
 
-**为什么这样写**：Itzco’s casual revelation contrasts with Yolanda’s shock—pregnancy is normal to him, not to her。
+**为什么这样写**：Itzco 漫不经心的揭露与 Yolanda 的震惊形成对比——怀孕对他来说稀松平常，对她却不是。
 
 ---
 
 > **原句 15:** "“Who’s the father?”"
 
-**中文理解**：Itzco 的 "Who’s the father?"——his curiosity about gossip。Yolanda considers lying："I let out a deep breath, consider lying to him."
+**中文理解**：Itzco 的“Who's the father?”——他出于八卦的好奇心。她考虑说谎：“I let out a deep breath, consider lying to him.”
 
-**句子结构**：简单问句。
+**句子结构**：一个直接的特殊疑问句，问的是「父亲是谁」，指向最敏感的信息。问题越简单，越显出 Itzco 已看穿她的掩饰。
 
 **关键词**：
-- `Who’s the father?`：谁是父亲？——gossip curiosity
+- `Who’s the father?`：谁是父亲？——八卦的好奇
 
-**为什么这样写**：Itzco’s question shows his human curiosity—even after betrayal, he’s interested in Yolanda’s life。
+**为什么这样写**：Itzco 的发问显示他作为普通人的好奇——即便被背叛，他仍关心 Yolanda 的生活。
 
 ---
 
 > **原句 16:** "“Es de Javier.” Once the words are out there, I can’t pull them back."
 
-**中文理解**：Yolanda 的 confession——"Es de Javier" (It’s Javier’s)。"Once the words are out there, I can’t pull them back" 显示她的 regret/relief。
+**中文理解**：她的坦白——“Es de Javier”（是 Javier 的）。“Once the words are out there, I can't pull them back”显示她的后悔与如释重负。
 
-**句子结构**：引语 + 叙述者评注。
+**句子结构**：西班牙语引语脱口而出后，叙述者用一句内心独白（Once the words are out there, I can't pull them back）立刻评论，制造「话已出口、覆水难收」的即时感。
 
 **关键词**：
-- `Es de Javier`：是 Javier 的——confession
-- `can’t pull them back`：无法收回——irreversibility
+- `Es de Javier`：是 Javier 的——坦白
+- `can’t pull them back`：无法收回——不可逆转
 
-**为什么这样写**：Yolanda’s confession to Itzco (her enemy) shows her need for connection—even with betrayer, she needs someone to know。
+**为什么这样写**：Yolanda 向 Itzco（她的敌人）坦白，显示她对联结的渴望——即便是背叛者，她也需要有人知道真相。
 
 ---
 
 > **原句 17:** "“Did he force you?”"
 
-**中文理解**：Itzco 的 "Did he force you?"——his concern about coercion。Yolanda："No..." and "It was spontaneous." Shows her agency (or lack thereof)。
+**中文理解**：Itzco 的“Did he force you?”——他对强迫的关切。她：“No...”并说“It was spontaneous.”显示她的自主性（或缺乏自主）。
 
-**句子结构**：问句。
+**句子结构**：一个一般疑问句直接触及「是否被迫」的核心，Itzco 的用词 force 表明他关注的是 Yolanda 的意愿是否被违背。
 
 **关键词**：
-- `Did he force you?`：他强迫你了吗？——concern about coercion
+- `Did he force you?`：他强迫你了吗？——对强迫的关切
 
-**为什么这样写**：Itzco’s question about force shows his moral compass—he cares about consent, unlike Yolanda’s transactional view。
+**为什么这样写**：Itzco 关于强迫的发问显示他的道德准则——他在意是否自愿，这与 Yolanda 的交易式观念形成对照。
 
 ---
 
 > **原句 18:** "“It was spontaneous,” I say. “Please don’t tell anyone.”"
 
-**中文理解**：Yolanda 的 "spontaneous" + "Please don’t tell anyone."——she frames Javier sex as unplanned and wants secrecy。Shows her shame and strategic thinking。
+**中文理解**：Yolanda 的“spontaneous”与“Please don't tell anyone.”——她把与 Javier 的关系说成意外，并希望保密。显示她的羞耻与策略性思考。
 
-**句子结构**：两句话：引语 + 引语。
+**句子结构**：两句连续引语：第一句回答 Itzco 的追问（It was spontaneous），第二句立刻提出请求（Please don't tell anyone），从辩解转向乞求保密，语气急促。
 
 **关键词**：
-- `spontaneous`：自发的，冲动的——Yolanda’s framing
-- `Please don’t tell anyone`：请别告诉任何人——secrecy
+- `spontaneous`：自发的，冲动的——Yolanda 的说辞
+- `Please don’t tell anyone`：请别告诉任何人——保密
 
-**为什么这样写**：Yolanda’s "spontaneous" is half-truth—she planned pregnancy but not necessarily with Javier. Her secrecy shows her awareness of scandal。
+**为什么这样写**：Yolanda 的“spontaneous”是半真半假——她计划怀孕，但未必计划与 Javier。她的保密显示她清楚这会成为丑闻。
 
 ---
 
 > **原句 19:** "“I won’t, if you get me a lemon pie,” he says."
 
-**中文理解**：Itzco 的 condition——"I won’t, if you get me a lemon pie."——shows his humor and humanity。"Lemon pie" as "price of my silence" is both joke and genuine request。
+**中文理解**：Itzco 的条件——“I won't, if you get me a lemon pie.”——显示他的幽默与人性。「柠檬派」作为「我沉默的代价」，既是玩笑也是认真的请求。
 
-**句子结构**：引语 + 叙述者评注（he says）。
+**句子结构**：条件句（if you get me a lemon pie）把保守秘密与一块柠檬派挂钩，用食物作交换条件，荒诞中透着温情；he says 的评注保持叙述距离。
 
 **关键词**：
-- `I won’t, if you get me a lemon pie`：我不说，只要你给我柠檬派——humor/condition
+- `I won’t, if you get me a lemon pie`：我不说，只要你给我柠檬派——幽默/条件
 
-**为什么这样写**：Itzco’s "lemon pie" condition humanizes him—his silence is purchasable with dessert, not money. Shows his character。
+**为什么这样写**：Itzco 以「柠檬派」为条件使他变得有人情味——他的沉默可以用甜点收买，而不是金钱。这展现了他的性格。
 
 ---
 
 > **原句 20:** "“I’m so tired of this place,” he says. “It’s a shithole.”"
 
-**中文理解**：Itzco 的 "I’m so tired of this place. It’s a shithole."——his exhaustion with hacienda。Shows his desire to escape。
+**中文理解**：Itzco 的“I'm so tired of this place. It's a shithole.”——他对庄园的厌倦。显示他想要逃离的渴望。
 
-**句子结构**：两句话：第一句 I’m so tired of this place.（主系表 + 介词短语），第二句 It’s a shithole.（主系表）。
+**句子结构**：两句话都是主系表结构：第一句 I'm so tired of this place 是「主系表 + 介词短语」，点明厌倦的对象；第二句 It's a shithole 用粗鄙的名词直接给庄园定性。
 
 **关键词**：
-- `tired of this place`：厌倦这个地方——exhaustion
-- `shithole`：烂地方——contempt
+- `tired of this place`：厌倦这个地方——厌倦
+- `shithole`：烂地方——轻蔑
 
-**为什么这样写**：Itzco’s "shithole" echoes Yolanda’s contempt—both are trapped in hacienda, both want escape。
+**为什么这样写**：Itzco 的“shithole”呼应了她的轻蔑——两人都被困在庄园里，都想逃离。
 
 ---
 
 > **原句 21:** "My stomach is swollen. The bump hides under my dress, but it’s there."
 
-**中文理解**：Yolanda 的 pregnancy visible——"My stomach is swollen. The bump hides under my dress, but it’s there." Shows physical reality of pregnancy。
+**中文理解**：Yolanda 的怀孕已肉眼可见——“My stomach is swollen. The bump hides under my dress, but it's there.”显示怀孕的身体现实。
 
 **句子结构**：两句话：第一句 My stomach is swollen.（主系表），第二句 The bump hides under my dress, but it’s there.（主谓 + 并列从句）。
 
 **关键词**：
-- `stomach is swollen`：肚子肿了——pregnancy visible
-- `bump hides under my dress, but it’s there`：隆起藏在裙下，但存在——hidden but real
+- `stomach is swollen`：肚子肿了——怀孕可见
+- `bump hides under my dress, but it’s there`：隆起藏在裙下，但存在——藏得住却真实存在
 
-**为什么这样写**：Pregnancy’s visibility threatens Yolanda’s scheme—she can’t hide it much longer。
+**为什么这样写**：怀孕的可见性威胁着 Yolanda 的计划——她再也藏不了多久了。
 
 ---
 
 > **原句 22:** "Valentín buries his hand in the basket to grab a pair of pruning shears."
 
-**中文理解**：Valentín 剪柠檬——"Valentín buries his hand in the basket to grab a pair of pruning shears." Yolanda watches, fantasizing about seduction。
+**中文理解**：Valentín 正在剪柠檬——“Valentín buries his hand in the basket to grab a pair of pruning shears.”她在一旁静静看着，幻想着如何勾引他。
 
 **句子结构**：简单陈述句，主语 Valentín + 谓语 buries + 宾语 his hand + 介词短语 in the basket + 不定式 to grab...。
 
 **关键词**：
-- `pruning shears`：修枝剪——Valentín’s tool
+- `pruning shears`：修枝剪——Valentín 的工具
 
-**为什么这样写**：Pruning shears will become the instrument of Valentín’s injury—foreshadowing。
+**为什么这样写**：修枝剪将成为 Valentín 受伤的工具——这是伏笔。
 
 ---
 
 > **原句 23:** "A scream makes me look back to the garden. I gasp. My hands instantly cover my mouth. Valentín is lying on the grass. The pruning shears nail his left arm to the grass. Blood circles the shirt around the wound, expanding."
 
-**中文理解**：Valentín’s accident——pruning shears nail his arm to grass。"Blood circles the shirt around the wound, expanding" 显示 injury severity。Yolanda’s "I gasp. My hands instantly cover my mouth" 显示 shock。
+**中文理解**：Valentín 的意外——修枝剪把他的手臂钉在草地上。“Blood circles the shirt around the wound, expanding”显示伤势严重。Yolanda 的“I gasp. My hands instantly cover my mouth”显示她的震惊。
 
 **句子结构**：六句话：A scream... + I gasp. + My hands... + Valentín is lying... + The pruning shears... + Blood circles...。
 
 **关键词**：
-- `pruning shears nail his left arm to the grass`：修枝剪钉住左臂——accident
-- `Blood circles the shirt around the wound, expanding`：血在衬衫周围 circling——injury severity
+- `pruning shears nail his left arm to the grass`：修枝剪钉住左臂——意外
+- `Blood circles the shirt around the wound, expanding`：血在衬衫周围蔓延——伤势严重
 
-**为什么这样写**：Valentín’s injury interrupts Yolanda’s seduction fantasy—reality intrudes on her scheme。
+**为什么这样写**：Valentín 的受伤打断了她的勾引幻想——现实闯入了她的计划。
 
 ---
 
 > **原句 24:** "“¡Ayuda!” I shout while wiping my hands on my dress. But no one hears me."
 
-**中文理解**：Yolanda 的 "¡Ayuda!" (Help!)——she shouts but "no one hears me." Shows her isolation and hacienda’s size。
+**中文理解**：Yolanda 的“¡Ayuda!”（救命！）——她大声呼喊，但「没人听见我」。显示她的孤立与庄园的广阔。
 
 **句子结构**：引语 + 叙述者评注（while wiping...）+ 陈述（But no one hears me）。
 
 **关键词**：
-- `¡Ayuda!`：救命！（西班牙语）——Yolanda’s shout
-- `no one hears me`：没人听见我——isolation
+- `¡Ayuda!`：救命！（西班牙语）——Yolanda 的呼喊
+- `no one hears me`：没人听见我——孤立无援
 
-**为什么这样写**：Yolanda’s unheard shout shows her powerlessness—she cannot save Valentín, and no one can save her。
+**为什么这样写**：Yolanda 无人听见的呼喊显示她的无力——她救不了他，也没有人能救她。
 
 ---
 
 > **原句 25:** "“Sí?” He is holding a brandy despite it being about ten in the morning. “Your name?”"
 
-**中文理解**：Don Julián 的 "Sí?"——he holds brandy at 10am，显示他的 alcoholism。"Your name?" 显示他 doesn’t know Yolanda——she is invisible to family。
+**中文理解**：Don Julián 的“Sí?”——他早上十点就拿着白兰地，显示他的酗酒。“Your name?”显示他不认识 Yolanda——她在主人一家面前如同隐形。
 
-**句子结构**：引语 + 叙述者评注 + 引语。
+**句子结构**：两句引语（Sí? 与 Your name?）之间插入叙述者评注（He is holding a brandy...），评注先交代人物状态，再引出第二句问话，使 Don Julián 的漠然更加具体。
 
 **关键词**：
-- `holding a brandy despite it being about ten in the morning`：早上十点还拿白兰地——alcoholism
-- `Your name?`：你叫什么？——invisibility
+- `holding a brandy despite it being about ten in the morning`：早上十点还拿白兰地——酗酒
+- `Your name?`：你叫什么？——被忽视
 
-**为什么这样写**：Don Julián’s ignorance of Yolanda’s name shows her status—she is staff, invisible, despite her pregnancy scheme。
+**为什么这样写**：Don Julián 不知道 Yolanda 的名字，显示她的地位——她只是佣人，是隐形的，即便她怀着怀孕的计划。
 
 ---
 
 > **原句 26:** "“Soy Yolanda, Señor. But your son—”"
 
-**中文理解**：Yolanda 的 "Soy Yolanda, Señor. But your son—"——she tries to report emergency but Don Julián interrupts。Shows her urgency and his dismissiveness。
+**中文理解**：她开口说“Soy Yolanda, Señor. But your son—”——本想报告紧急情况，但被 Don Julián 打断。显示她的急迫和他的轻慢。
 
-**句子结构**：引语。
+**句子结构**：一句被硬生生截断的话——“But your son—”的破折号显示她的话还没说完就被打断，未完成的句子本身就是她无权发言的证明。
 
 **关键词**：
-- `Soy Yolanda, Señor`：我是 Yolanda，先生——self-identification
-- `But your son—`：但您的儿子——urgency
+- `Soy Yolanda, Señor`：我是 Yolanda，先生——自报身份
+- `But your son—`：但您的儿子——急迫
 
-**为什么这样写**：Don Julián’s interruption ("He holds a hand up to silence me") shows his authority—Yolanda cannot even report emergency。
+**为什么这样写**：Don Julián 的打断（“He holds a hand up to silence me”）显示他的权威——她连报告紧急情况都不被允许。
 
 ---
 
 > **原句 27:** "“¡Quieto Valentín! Se un hombre, for goodness’ sake.”"
 
-**中文理解**：Don Julián 的 "¡Quieto Valentín! Se un hombre"——"Be a man" 显示他的 toxic masculinity。He tells wounded Valentín to be quiet and manly。
+**中文理解**：Don Julián 喝令“¡Quieto Valentín! Se un hombre”——「做个男人」显示他有毒的男子气概。他要受伤的儿子安静下来，表现得像个男人。
 
-**句子结构**：祈使句 + 祈使句。
+**句子结构**：两个连续祈使句：第一个喝令 Valentín 安静，第二个要求他「做个男人」，语气由制止转向训斥，父亲的权威层层加压。
 
 **关键词**：
-- `¡Quieto Valentín!`：安静，Valentín！——command
-- `Se un hombre`：做个男人——toxic masculinity
+- `¡Quieto Valentín!`：安静，Valentín！——命令
+- `Se un hombre`：做个男人——有毒的男子气概
 
-**为什么这样写**：Don Julián’s "be a man" to wounded son shows hacienda’s patriarchal culture—men must endure pain silently。
+**为什么这样写**：Don Julián 对受伤的儿子说「做个男人」，显示庄园的父权文化——男人必须默默忍受疼痛。
 
 ---
 
 > **原句 28:** "“What are you staring at? Go fetch the doctor.”"
 
-**中文理解**：Don Julián 的 "What are you staring at? Go fetch the doctor."——dismisses Yolanda after she reported emergency。"What are you staring at?" 显示他的 contempt。
+**中文理解**：Don Julián 的“What are you staring at? Go fetch the doctor.”——在她报告完紧急情况后将她打发走。显示他的轻蔑。
 
-**句子结构**：两句话：What are you staring at? + Go fetch the doctor。
+**句子结构**：两句话：第一句 What are you staring at? 是特殊疑问句，反问 Yolanda 为何盯着看；第二句 Go fetch the doctor 是祈使句，直接下令差遣。先斥后令，把 Yolanda 当作可以随意使唤的工具。
 
 **关键词**：
-- `What are you staring at?`：你盯着看什么？——contempt
-- `Go fetch the doctor`：去叫医生——dismissal
+- `What are you staring at?`：你盯着看什么？——轻蔑
+- `Go fetch the doctor`：去叫医生——打发
 
-**为什么这样写**：Don Julián’s dismissal shows Yolanda’s status—she is messenger, not family. Despite her pregnancy scheme, she remains staff。
+**为什么这样写**：Don Julián 的打发显示 Yolanda 的地位——她只是传话的，不是家人。尽管怀着怀孕的计划，她仍然是佣人。
 
 ---
 
 ## 一句话总结
 
-本章 Yolanda 孕吐/感染 worsens；Itzco 夜访 reveal pregnancy + "Es de Javier"；Yolanda 与 Itzco 和解（lemon pie）；Valentín 剪柠檬树时 pruning shears 刺穿手臂；Don Julián 叫 Yolanda 去 fetch doctor—Yolanda 的 scheme 因 Valentín 伤势而受挫，pregnancy 仍 secret。
+本章 Yolanda 孕吐/感染恶化；Itzco 夜访揭示怀孕真相 + "Es de Javier"；Yolanda 与 Itzco 和解（柠檬派）；Valentín 剪柠檬树时修枝剪刺穿手臂；Don Julián 叫 Yolanda 去请医生——Yolanda 的计划因 Valentín 伤势而受挫，怀孕仍是秘密。
 
 ## 读者视角提示
 
-- Yolanda’s "living inside my body is like being forced to live with a stranger" shows dissociation from pregnancy
-- Itzco’s "Es de Javier" confession to Yolanda (despite betrayal) shows his humanity
-- "I won’t, if you get me a lemon pie" humanizes Itzco—his silence is purchasable with dessert
-- Valentín’s pruning shears accident interrupts Yolanda’s seduction fantasy—reality intrudes
-- Don Julián’s "What are you staring at? Go fetch the doctor" shows Yolanda’s invisibility despite pregnancy scheme
+- 她借“living inside my body is like being forced to live with a stranger”这句话道出自己与怀孕的疏离
+- Itzco 向她坦白“Es de Javier”（尽管被背叛）显示他的人性
+- “I won’t, if you get me a lemon pie”让他变得有人情味——他的沉默可以用甜点收买
+- Valentín 的修枝剪意外打断了她的勾引幻想——现实闯入
+- 他这句“What are you staring at? Go fetch the doctor”显示她即便怀着怀孕计划仍被忽视
 
 ## 词汇
 
