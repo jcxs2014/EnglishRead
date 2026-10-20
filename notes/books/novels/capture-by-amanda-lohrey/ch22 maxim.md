@@ -240,7 +240,7 @@ modified: "2026-10-20"
 
 **关键词**：Because it’s jitsu / In excess / Too much energy focused there when it needs to be dispersed throughout the body / For balance
 
-**为什么这样写**：作者借这套体系说了一句全书的核心命题：**能量必须分散**——而这句话听起来像是对「一心一意」的生活的批判。而「为了平衡」（for balance）这半句，又与**第十一章斯科特**那句「维持那些他不想让它退化的技能」（maintaining skills that he didn't want to atrophy）遥遥相对。
+**为什么这样写**：作者借这套体系说了一句全书的核心命题：**能量必须分散**——而这句话听起来像是对「一心一意」的生活的批判。而「为了平衡」（for balance）这半句，又与**第十一章斯科特**那句「维持那些他不想让它退化的技能」遥遥相对（原文见本块「关键词」行）。
 
 **读者视角提示**：请把「为了平衡」与**第十一章**那句并读。这一章他被教导的，正是他自己身上那套「维持」的逻辑。
 
