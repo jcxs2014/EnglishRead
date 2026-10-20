@@ -61,15 +61,13 @@ modified: "2026-10-20"
 
 **句子结构**：五句全部以 She 开头（She took / She planted / She fed / She watched），构成一段近乎祈祷的排比；每句都短，动词简单，宾语具体；中间唯一的破折号问句（「除了她还有谁有这样的权利」）把叙述者自己也拉进来了一次。
 
-> **原句 5:** "One hour, two, three later, when he arrives – he finds the house empty, but tidy. He finds the bone pit full of its awful contents. He finds the barn and its occupants.
-
-Three women, naked and bloody, with skeletal wings on their backs; three women who stare at him with eyes as wide as the moon."
+> **原句 5:** "One hour, two, three later, when he arrives – he finds the house empty, but tidy. He finds the bone pit full of its awful contents. He finds the barn and its occupants. Three women, naked and bloody, with skeletal wings on their backs; three women who stare at him with eyes as wide as the moon."
 
 **中文理解**：一小时、两小时、三小时之后，他到了——他发现屋子空着，但很整洁。他发现那个骨坑，里面是它那些可怕的东西。他发现谷仓，和谷仓里的住客。
 
 三个女人，赤裸、带血，背上是骨质的翅膀；三个女人用月亮那么大的眼睛盯着他。
 
-**关键词**：the house empty, but tidy / the bone pit / three women / skeletal wings / eyes as wide as the moon
+**关键词**：the house empty, but tidy / the bone pit / Three women / skeletal wings / eyes as wide as the moon
 
 **为什么这样写**：这是全书最后一次视角切换——从 Dido 的巫术现场切到一个完全不知情的警察。三个「He finds」排比，句子一个比一个短，最后一句直接断在一个名词上（the barn and its occupants），把「看见什么」悬了一整段，才在下一段给出来。「空着，但很整洁」是最冷的一笔：没有挣扎、没有血迹，只有一栋被人收拾过的房子。
 

@@ -101,7 +101,7 @@ DIGITS = re.compile(r"\d+")
 TEXTCH_RE = re.compile(r"^ch(\d+)(?![0-9])")
 
 from lib.text import (  # noqa: E402  统一原语，见 scripts/lib/text.py
-    CJK, cjk_count, cjk_ratio, norm, split_segments, strip_quotes,
+    CJK, STOPWORDS, cjk_count, cjk_ratio, norm, split_segments, strip_quotes,
 )
 
 def chapter_md_files(book: Path) -> list[Path]:
