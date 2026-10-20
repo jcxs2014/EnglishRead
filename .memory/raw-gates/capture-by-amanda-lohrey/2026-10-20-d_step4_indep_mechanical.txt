@@ -1,49 +1,39 @@
-### d 步 · 机械子项（模板 B 组指定的第二实现 ＋ 本轮自建第三/四把尺子）
-### 时间：2026-10-20 11:21 UTC
+### d 步 · 机械子项（九件）
+### 时间：2026-10-20 11:30 UTC
 
---- ① check_xref_indep.py（跨章引用回查 · 第二实现）---
-=== chNN 引用 168 处：英文证据报警 0 处 ／ 中文式待人判 88 处 ／ 🔶 同章省略号拼接（提示，不判红）0 处 ===
+--- ① check_xref_indep.py ---
+=== chNN 引用 169 处：英文证据报警 0 处 ／ 中文式待人判 89 处 ／ 🔶 同章省略号拼接（提示，不判红）0 处 ===
 退出码=0
 
---- ② check_analysis_indep.py（分析层行内英文 · 第二实现）---
+--- ② check_analysis_indep.py ---
 抽出分析层英文片段 2225 条
 ✅ 全部片段在全书 text/ 逐字命中
 退出码=0
 
---- ③ verify_fragments_indep.py（省略号引语逐片段独立取证）---
+--- ③ verify_fragments_indep.py ---
 
 === 逐片段核验（独立实现） ===
   引语条数 568 ｜ 受检片段 746 ｜ ❌ MISS 0 ｜ ❌ 拼接未标省略号 0 ｜ 缺参照章 0
   ⇒ 每个受检片段都在**本章** text/ 里逐字命中
 退出码=0
 
---- ④ rev_phrase_verbatim.py（分析层片段逐字回查 · 短语级连续词序列）---
+--- ④ rev_phrase_verbatim.py ---
 === d 步独立实现 · 分析层片段逐字回查（短语级 / 连续词序列 / 全书范围）===
   受检片段 3078 条
   ❌ 整串查无：12
      00_情感节点.md:10 [反引号] text/chNN_*.txt
      00_金句精选.md:278 [反引号] text/chNN_*.txt
      00_金句精选.md:278 [反引号] check_overview_full.py
-     00_金句精选.md:278 [反引号] verify_overview_quotes.py
-     ch03 i could not have been more wrong.md:38 [关键词] **关键词**：patients whom…treating therapeutically
-     ch07 mary.md:230 [关键词] It is one thing to read an account…another to hear it told
-     ch11 scott.md:206 [关键词] it zooms sideways… at incredible speed
-     ch13 griffin.md:230 [关键词] the generation who…are reluctant to compromise their reach
-     ch15 felicity.md:122 [关键词] any culture at any time in history…believed there were other beings on the scene
-     ch19 yvette.md:62 [关键词] allowing the experiencer…to control their session
-     ch24 hugo.md:38 [关键词] the only meetings he takes part in…are conducted on walks
-     ch27 cafe europa.md:86 [关键词] I am none the wiser at this stage…than I was at the beginning
-  结论：见上
 
---- ⑤ rev_keyword_in_quote.py（关键词 ↔ 本块引语）---
+--- ⑤ rev_keyword_in_quote.py ---
 === d 步独立实现 · 关键词 ↔ 本块引语（逐片段、连续、含词形豁免）===
   引语块 568 ／ 受检关键词片段 2596
   ❌ 不在本块引语里：0
   结论：全部命中本块引语
 
---- ⑥ rev_chapter_claim.py（跨章指认全量回查 · 中文叙述层）---
+--- ⑥ rev_chapter_claim.py（跨章指认全量回查）---
 === d 步独立实现 · 跨章指认全量回查（中文叙述层，机械盲区）===
-  受检 chNN 指认 411 处
+  受检 chNN 指认 412 处
   ❌ 可机检项（英文词/数字）被引章查无：8
      ch02 the north pole of the suicidal.md:78 → ch03  查无 ['strain', 'false'] ｜ 里他就转向小号、转向夜里给牛吹小号的反抗。至于「until the strain of the fa
      ch05 the room the witness and lucy cheng.md:160 → ch01  查无 ['chemistry'] ｜ 属于马瑟与海伦娜。于是同一种关系被安到了另一对人身上：露西与马瑟之间没有性的张力（上一段刚说过没有 
@@ -53,20 +43,39 @@
      ch20 cafe europa.md:184 → ch14  查无 ['husks'] ｜ 伯纳德用过的词——在宗教语境里它是蒙福者，在这里它是**被筛选出来的优良血统**。而「human h
      ch21 helena wolf.md:202 → ch15  查无 ['jungle'] ｜ 费莉西蒂那一处**与「来自星星的祖先」有关；本章这两处谈的是死藤水静修（「In the Amazon
      ch37 cafe europa.md:64 → ch05  查无 ['Your', 'friends'] ｜ 那个承诺**一字不差地兑现**：习惯、竞争者、啄玻璃。而「你的朋友来了，伊薇特」（Your frie
-  ⚠️ 仅含中文短语（结构上不可机检，须人判）：401
+  ⚠️ 仅含中文短语（结构上不可机检，须人判）：402
      00_情感节点.md:26 → ch03  就定型了
      00_情感节点.md:54 → ch19  成为全部转折的支点
+     00_情感节点.md:62 → ch37  未用
+     00_情感节点.md:62 → ch37  让他们感到平等
 
---- ⑦ rev_quote_truncation.py（引语去头/去尾 · 保留引号原样匹配）---
+--- ⑦ rev_quote_truncation.py ---
 === d/e 步独立实现 · 引语「去头/去尾」检测（保留引号原样匹配）===
   受检引语 648 条
   ❌ 去头（首引号在原文里不贴这个位置）：3
      ch04 anthony.md:238 [ch04] ‘I felt as if I’d been given an electric shock, and then I realised I’d had some kind of o
      ch20 cafe europa.md:82 [ch20] ‘Not really. Have we become too selfish? Countries now are recognising the danger of falli
-     ch22 maxim.md:264 [ch22] ‘You know Lucy Cheng.’ My words come out of nowhere, but the thought has been awaiting its
 
---- ⑧ rev_zh_english.py（中文理解层英文词硬嵌）---
+--- ⑧ rev_zh_english.py（中文层英文词硬嵌）---
 === d 步独立实现 · 中文理解层英文词硬嵌检测 ===
   受检：全部 ch*.md 的「中文理解」行（不在「」与反引号内的英文词）
   ❌ 待人判：0 处
   结论：无硬嵌
+
+--- ⑨ rev_zh_quote_align.py（中文理解↔引语对账）---
+=== d 步独立实现 · 中文理解 ↔ 本块引语（专名/数字对账）===
+  受检块 568
+  ❌ 中文理解里出现、但本块引语里没有的专名/数字：0 块
+  结论：全部块的中文理解都只谈本块引语
+
+--- ⑩ rev_superlative.py（最高级断言）---
+=== d 步独立实现 · 最高级断言（第一次/唯一/仅此/只有一次）核验 ===
+  受检断言 60 条（能定位到具体事物的）
+  ❌ 该事物在更早的章已出现 ⇒ 「第一次/唯一」不成立：7
+     ch04 anthony.md:12 [ch04] **信念弧线位置**：马瑟的怀疑在此第一次动摇。「Of course, I believe you」与「corporation man, on a steel slab」两句之间， ｜ 更早出现：[('course', 'ch01'), ('believe', 'ch03')]
+
+--- ⑪ rev_corrupt_string.py（损坏字符串/占位残留）---
+=== d 步独立实现 · 损坏字符串 / 占位残留扫描 ===
+  受检：全部 md 的含中文行
+  ❌ 残留：0 处
+  结论：无残留
