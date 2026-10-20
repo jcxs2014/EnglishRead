@@ -46,6 +46,28 @@ for m in re.finditer(r'[.!?][”"’\']*(?=\s|$)|\n[ \t]*\n', src):
 if src[pos:].strip():
     units.append((pos, len(src)))
 
+def _unit_contains(anchor):
+    return any(anchor in src[a:b] for a, b in units)
+
+_bad2 = []
+for _m in re.finditer(r'\{\{([^}]+)\}\}', md):
+    _ps = _m.group(1).split("|")
+    if len(_ps) > 2 and _ps[-1].strip().upper() == "K":
+        _ps = _ps[:-1]
+    for _a in _ps[1:3]:
+        if not _a:
+            continue
+        _k = _a[1:] if _a[0] in "~^" else _a
+        if _a[0] in "~^":
+            continue
+        if _k in src and not _unit_contains(_k):
+            _bad2.append((_ps[0], _k))
+if _bad2:
+    print("❌ 锚点跨句界（需改用 ~ 精确位或换成同句内的锚）：")
+    for _t, _k in _bad2:
+        print(f"   [{_t}] {_k!r}")
+    raise SystemExit(1)
+
 def unit_of(anchor):
     for i, (a, b) in enumerate(units):
         if anchor in src[a:b]:
@@ -87,6 +109,8 @@ def rep(m):
     if trim and not keep:
         frag = re.sub(r'[\s”"]+$', '', frag)
     frag = frag.lstrip()
+    if "\n" in frag:
+        raise SystemExit(f"❌ 片段跨段落（含换行），会破坏 md 单行格式：{tag} → {frag[:60]!r}")
     if a_caret:
         while frag[:1] in ('“', '"', '‘', "'"):
             frag = frag[1:]
