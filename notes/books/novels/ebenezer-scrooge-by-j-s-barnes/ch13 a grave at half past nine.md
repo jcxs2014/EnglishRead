@@ -137,7 +137,7 @@ modified: "2026-10-20"
 | lateness | n. 迟；晚（此处指时刻已晚） | The captain said that he was sorry as to the lateness of the hour but that the nature of his mission was one of some urgency. |
 | rattling | adj. 沙哑的；呼哧作响的（此处形容呼吸声） | The figure on the ground drew in a deep, rattling breath. |
 | desperate | adj. 极度困难的；走投无路的（此处形容那位女子的处境） | But for the sake of that young woman who is in desperate need of help and who has not a soul in the world to help her. |
-| overseen | v. 监督办理；经手（此处指经手遗嘱一类文书） | “Mr Cadge, sir, I have to ask you about a certain will that you have lately overseen. |
+| overseen | v. 监督办理；经手（此处指经手遗嘱一类文书） | “Mr Cadge, sir, I have to ask you about a certain will that you have lately overseen.”|
 
 ### ⭐ 基础
 

@@ -122,7 +122,7 @@ modified: "2026-10-20"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | conviction | n. 坚定的确信；笃信（此处指说话时不容置疑的口气） | “I can hear the spirits gathering,” said Archie Beck, in a tone of quiet conviction. |
-| continuous | adj. 连绵不断的；不间断的（圈要不断才强） | “For the circle must be strong and it has to be continuous. |
+| continuous | adj. 连绵不断的；不间断的（圈要不断才强） | “For the circle must be strong and it has to be continuous.”|
 | imperturbable | adj. 镇定不动的；不为所动的 | Scrooge managed a cool, imperturbable smile, though Mrs Fell saw, even in the gloom, that his eyes spoke of some quite different emotion. |
 | discomfited | adj. 局促不安的；不知所措的 | If he was at all discomfited by this development then he did not show it in the least. |
 | mathematics | n. 数学（此处用作孩子解不开的题目的比喻） | Archie frowned again, like a child grappling with some problem of mathematics. |
@@ -134,10 +134,10 @@ modified: "2026-10-20"
 | gathering | n. 聚集（此处指亡灵「聚拢过来」） | “I can hear the spirits gathering,” said Archie Beck, in a tone of quiet conviction. |
 | messages | n. 消息；口信（降灵会上传递的「讯息」） | Oh, there are messages aplenty. |
 | invisible | adj. 看不见的；不可见的（与「看得见的」相对） | There’s much to convey from the invisible to the visible world. |
-| gentleman | n. 绅士；先生（此处指那位波斯向导） | “My spirit guide is with us,” he said, “a Persian gentleman called Shahin who lived one thousand years ago. |
+| gentleman | n. 绅士；先生（此处指那位波斯向导） | “My spirit guide is with us,” he said, “a Persian gentleman called Shahin who lived one thousand years ago.”|
 | occasion | n. 场合；时机（the first occasion：头一次） | And also that this is not the first occasion on which he has returned from the lands of mist to offer you advice. |
-| language | n. 说法；措辞（此处指那句「磨石上攥紧的手」） | “The language is not of my choosing but of the spirit who wishes to make contact with you tonight. |
-| recognise | v. 承认；认可（此处是「不再认这个说法」） | “Though I do not recognise that description any longer. |
+| language | n. 说法；措辞（此处指那句「磨石上攥紧的手」） | The language is not of my choosing but of the spirit who wishes to make contact with you tonight.|
+| recognise | v. 承认；认可（此处是「不再认这个说法」） | Though I do not recognise that description any longer.|
 
 ### ⭐ 基础
 

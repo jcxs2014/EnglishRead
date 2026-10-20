@@ -9,19 +9,19 @@ modified: "2026-10-20"
 
 **一句话概括**：雨停后的夜里，斯克罗奇与费尔太太赶到肯辛顿舍伯德花园一所灯火通明的宅子参加降灵会：主人塔尔博特热情迎客，灯暗之后六人围一张小圆桌坐下，一声极富戏剧性的敲门之后，年轻通灵师阿奇博尔德·贝克走进来，开口便说今夜在座的七个人将听见死者的话语；而自始至终不动声色的，是斯克罗奇。
 
-**信念弧线位置**：本章把「相不相信」悬置起来——斯克罗奇只问了「你参加过降灵会吗」和「你信吗」两问，既不替通灵师背书，也不当场拆台；费尔太太把判断压到「先亲眼见到他再说」；这一章的信念刻度不在信与不信，而在观察的立场。
+**信念弧线位置**：本章把「相不相信」悬置起来——斯克罗奇关于「信不信」只问了两句——「你参加过降灵会吗」和「你信吗」，既不替通灵师背书，也不当场拆台；费尔太太把判断压到「先亲眼见到他再说」；这一章的信念刻度不在信与不信，而在观察的立场。
 
 **母题兑现/反转**：光的那条线在本章被反着兑现一次——斯克罗奇跨过门槛时，叙述写他「out of the dark and towards the light」；可这一回他走向的光，是别人点起来、专门用来招魂的煤气灯：光不再投向深渊，而是照在一张小圆桌上。
 
 **人物弧线**：跨过门槛之前他还劝费尔太太回去，跨过门槛之后头一件实事却是悄悄塞给仆人一张钞票、只留一句「照看他，听见吗」；满屋子的圈子已经把贝克当成值得炫耀的新发现，只有斯克罗奇被写成「entirely inscrutable」。
 
-**叙事手法**：视角始终贴着费尔太太：门口的树影、满屋煤气灯、像圣诞夜去教堂的那种感觉，都由她看、由她想；场面靠三步推进——灯暗、围桌、敲门；结尾把满屋的期待压在贝克的一段独白上，一句「我们」把读者也按在椅子上。
+**叙事手法**：视角始终贴着费尔太太：门口逆着煤气灯亮起的那道管家身影、屋里亮得过分的灯、像圣诞夜去教堂的那种感觉，都由她看、由她想；场面靠三步推进——灯暗、围桌、敲门；结尾把满屋的期待压在贝克的一段独白上，一句「我们」把读者也按在椅子上。
 
 ## 精读
 
 > **原句 1:** "Upon the pavement, Scrooge asked the lady: “Are you absolutely certain that you wish to go inside? There would be no shame in returning to the Club and resting.”"
 
-**中文理解**：雨刚停，街面还湿着。斯克罗奇在路边问身边的人：你当真要进去吗？回正直人俱乐部歇着，并不丢人。
+**中文理解**：人行道上，斯克罗奇问身旁的费尔太太：你当真要进去吗？回正直人俱乐部歇着，并不丢人。
 
 **关键词**：Are you absolutely certain / There would be no shame / returning to the Club and resting
 
@@ -39,7 +39,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：她先用「我已说明白」把话接回自己先前说过的话上——她不接受被当成还在犹豫的人；而「他的关联」这个说法也把姿态定住了：她要的是这个人与她那段经历之间的因果关系，不是他的表演。整句是判断，不是情绪。
 
-**读者视角提示**：读者在这里和斯克罗奇得到同一个信号：费尔太太不是来求证的，她是来追这件事的账的；这让她之后每一句发问都带着压力。
+**读者视角提示**：读者在这里和斯克罗奇得到同一个信号：费尔太太不是来求证的，她是来追究这件事的；这让她之后每一句发问都带着压力。
 
 ---
 
@@ -69,7 +69,7 @@ modified: "2026-10-20"
 
 > **原句 5:** "“Mr Scrooge! Ebenezer! I am so glad you were able to come. My goodness, sir, but your message this afternoon, it heartened my soul, it really did! It gave it succour, sir, it gave me food and drink.”"
 
-**中文理解**：主人迎上来唤他小名，说下午那封短信让他精神一振，暖到心里，喂饱了人又解了渴。
+**中文理解**：主人迎上来直呼他的名字，说下午那封短信让他精神一振，暖到心里，喂饱了人又解了渴。
 
 **关键词**：I am so glad you were able to come / it heartened my soul / it gave me food and drink
 
@@ -97,7 +97,7 @@ modified: "2026-10-20"
 
 **关键词**：neither pale nor willowy / the muscular chest of a rugby player / half-officer and half-infantry
 
-**为什么这样写**：作者先说「年轻」，紧接着就把它与这一行的刻板样子对开：既不苍白，也不瘦弱；给出的替代物也不是虚词——六尺以上的个头、橄榄球运动员的胸膛、获胜球队队长的派头；而考究外套底下还添了「近乎粗粝」的质地，那份粗粝又被他见过的另一层社会压在身上。结尾那句把他劈成两半的比喻，没有交代任何身份，只交代了一种来历。
+**为什么这样写**：作者先说「年轻」，紧接着就把它与这一行的刻板样子对开：既不苍白，也不瘦弱；给出的替代物也不是虚词——六尺以上的个头、橄榄球运动员的胸膛、获胜球队队长的派头；而考究外套底下还添了「近乎粗粝」的质地，那份粗粝又透出他与眼下这所宅子底下那层社会过往甚密。结尾那句把他劈成两半的比喻，没有交代任何身份，只交代了一种来历。
 
 **读者视角提示**：读者第一次正面看见被等待的那个人：外形与灵媒这一行应有的样子恰好相反，可作者偏偏不肯把他写圆——那句劈成两半的判语，把疑问留在了读者心里。
 
@@ -105,7 +105,7 @@ modified: "2026-10-20"
 
 > **原句 8:** "Mr Beck spoke with great confidence in that dim room. “Good evening, ladies and gentlemen. My name is Archibald Beck and it is my contention that you and I – the seven of us – will tonight hear from those who have passed through the veil into the world that lies beyond. Tonight, my friends, we will hear the words of the dead.”"
 
-**中文理解**：贝克在昏暗中开口，声音里满是自信：诸位晚上好；我叫阿奇博尔德·贝克，我断定今夜在座的七个人将听见那些已经穿过帷幕、去了彼岸世界的声音；今晚，朋友们，我们将听见死者的话语。
+**中文理解**：贝克在昏暗中开口，声音里满是自信：各位晚上好；我叫阿奇博尔德·贝克，我断定今夜在座的七个人将听见那些已经穿过帷幕、去了彼岸世界的声音；今晚，朋友们，我们将听见死者的话语。
 
 **关键词**：the seven of us / hear from those who have passed through the veil / we will hear the words of the dead
 
@@ -122,16 +122,16 @@ modified: "2026-10-20"
 | unwelcoming | adj. 冷清的；拒人于千里之外的 | The rain had stopped, but the world still seemed dark, wet and largely unwelcoming. |
 | determination | n. 决心；决意 | Still, the occupants of the cab – Mr Ebenezer Scrooge and Mrs Louisa Fell – emerged with determination out into the open air. |
 | discreetly | adv. 不声不响地；不动声色地 | Very discreetly, and without the least hesitation, Scrooge reached into his pocket and passed the servant a sizable note. |
-| transported | adj. 心花怒放的；像被带走了一样的 | “He sees…” she said, and she sounded almost transported, “my dear, he sees the most wonderful things. |
+| transported | adj. 心花怒放的；像被带走了一样的 | He sees…” she said, and she sounded almost transported, “my dear, he sees the most wonderful things.|
 | inscrutable | adj. 高深莫测的；看不透的 | Scrooge, as was often the case, was entirely inscrutable. |
-| proprietorial | adj. 物主般的；像在展示自家宝贝的 | Mr Talbot, who was taking a proprietorial interest in this conversation, leaned over to add: “The man’s a marvel. |
+| proprietorial | adj. 物主般的；像在展示自家宝贝的 | Mr Talbot, who was taking a proprietorial interest in this conversation, leaned over to add: “The man’s a marvel.”|
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
 | occupants | n. 乘客；占用者 | Still, the occupants of the cab – Mr Ebenezer Scrooge and Mrs Louisa Fell – emerged with determination out into the open air. |
-| pavement | n. 人行道 | Upon the pavement, Scrooge asked the lady: “Are you absolutely certain that you wish to go inside? |
+| pavement | n. 人行道 | Upon the pavement, Scrooge asked the lady:|
 | palpable | adj. 明摆着的；不容置疑的 | The butler was a big man, stout and strong, and dressed in a tailcoat of palpable expense. |
 | attended | v. 出席；参加过 | No doubt you have attended séances yourself, so I need not spend too long in the description of these. |
 | Seabrook | n. 西布鲁克（人名，此处为姓氏） | She was seated beside Mr Scrooge upon her left and Mrs Seabrook upon her right. |
@@ -148,4 +148,4 @@ modified: "2026-10-20"
 
 ## 一句话总结
 
-走进那间为灵媒点满煤气灯的屋子之后，费尔太太坚持先看再做判断，斯克罗奇一言未发，只在黑暗里等着那个被满屋子人吹捧的年轻通灵师开口。
+走进那间灯火通明、随后又被压暗的屋子之后，费尔太太坚持先看再做判断，斯克罗奇除了在门口问过一句「当真要进去吗」、又留下过一句「照看他，听见吗」之外，再没有多说一个字，只在黑暗里等着那个被满屋子人吹捧的年轻通灵师开口。

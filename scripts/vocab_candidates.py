@@ -213,19 +213,60 @@ def _quotes_balanced(seg):
     return True
 
 
+def _split_unbalanced(seg, st):
+    """把**引号不成对**的片段切成若干**引号成对**的连续子串。
+
+    切法：**在每一个引号字符处切开，并跳过该引号** ⇒ 每一片都无引号 ⇒ 必然成对。
+    切出的每片仍是原文的**连续子串**（只少了那个引号字符本身）。
+
+    ④ 为什么必须这么做（2026-10-20 实测）：`pick_sentence` 有「引号不成对就放弃」的守卫，
+    而切句正则把**对话引号内的句点**当句末 ⇒ 大量句子被整条丢弃，
+    **词头凭空消失**（实测 `ground` / `pavement` / `scene` / `spirit` 在工具输出里查无）。
+    ⇒ 丢弃 ⇒ 写作侧退化成「凭印象手写词表」——正是缺陷率最高的老路。
+
+    例：
+      `Upon the pavement, Scrooge asked the lady: “Are you absolutely certain…`
+        ⇒ `Upon the pavement, Scrooge asked the lady:` / `Are you absolutely certain…`
+      `Although…” She cast her eyes towards the ground.`
+        ⇒ `Although…` / `She cast her eyes towards the ground.`
+    """
+    pieces, start, i, n = [], 0, 0, len(seg)
+    while i < n:
+        ch = seg[i]
+        if ch in ('“', '”'):
+            head = seg[start:i]
+            if head.strip():
+                # ⚠️ 必须 lstrip：pick_sentence 有「句首须是字母/开引号」的守卫，
+                # 带前导空格的片段会被它整条丢弃（实测 `ground` 就是这样丢的）。
+                off = len(head) - len(head.lstrip())
+                pieces.append((head.strip(), st + start + off))
+            start = i + 1          # 跳过这个引号字符
+        i += 1
+    tail = seg[start:]
+    if tail.strip():
+        off = len(tail) - len(tail.lstrip())
+        pieces.append((tail.strip(), st + start + off))
+    return pieces
+
+
 def _fix_fragment_quotes(seg, st, src):
-    """修一个片段的引号归属，返回 (片段, 新起点)；无法修则原样返回。"""
-    # ① 贴尾：原文紧随其后的 `”` 属于本片段
+    """修一个片段的引号归属，返回**片段列表** [(文本, 起点), ...]。
+
+    ① **贴尾**：片段以 `.`/`!`/`?` 结尾、而原文紧随其后的字符是 `”` ⇒ 把那个 `”` 算进本片段
+       （`“Splendid.` ⇒ `“Splendid.”`）。这是**把本来就在原文里、紧挨着的字符算进来**，
+       不是新增。
+    ② 片段若已引号成对 ⇒ 原样返回（保留 `“Splendid.”` 这类带引号的完整引语）。
+    ③ 仍不成对 ⇒ 走 `_split_unbalanced` 切开。
+    """
+    # ① 贴尾
     tail = st + len(seg)
     if tail < len(src) and src[tail] == '”' and seg.count('“') > seg.count('”'):
         seg = seg + '”'
-    # ② 去首游离引号
-    if seg and seg[0] in ('“', '”') and not _quotes_balanced(seg):
-        # 开引号无配对 ⇒ 去掉；闭引号开头且无配对 ⇒ 去掉
-        if seg.count('“') != seg.count('”'):
-            seg = seg[1:].lstrip()
-            st += 1
-    return seg, st
+    # ② 已成对 ⇒ 原样
+    if _quotes_balanced(seg):
+        return [(seg, st)]
+    # ③ 切开
+    return _split_unbalanced(seg, st)
 
 
 def sentences(src):
@@ -252,8 +293,11 @@ def sentences(src):
     # ⚠️ 必须用**带偏移**的合并版：segs 比 raw 短，用 zip(segs, starts)
     # 会把合并点之后的偏移整体错位（实测 ch28 custodial 取到别的句子）。
     merged = _merge_abbrev_spans(raw)
-    # 修引号归属（2026-10-20）：贴尾 `”`、去首游离引号
-    return [ _fix_fragment_quotes(seg, st, src) for seg, st in merged ]
+    # 修引号归属（2026-10-20）：贴尾 `”`、不成对则按引号切开
+    out = []
+    for seg, st in merged:
+        out.extend(_fix_fragment_quotes(seg, st, src))
+    return out
 
 
 def pick_sentence(sents, pos, src, maxlen=140):

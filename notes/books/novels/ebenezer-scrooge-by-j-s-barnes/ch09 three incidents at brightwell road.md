@@ -130,9 +130,9 @@ modified: "2026-10-20"
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
-| sensation | n. 感觉；感受 | “It was a sensation, Mr Scrooge. |
+| sensation | n. 感觉；感受 | It was a sensation, Mr Scrooge.|
 | afflicted | v. 使痛苦；使感到不适 | A feeling which afflicted me from the moment I set foot into the house on Brightwell Road. |
-| wrongness | n. 不对劲；乖异之处 | “Mr Scrooge, it was a feeling of utter… wrongness. |
+| wrongness | n. 不对劲；乖异之处 | “Mr Scrooge, it was a feeling of utter… wrongness.”|
 | unwelcome | adj. 不受欢迎的；不受欢迎的 | But I am certain that I felt in that hallway a strong sense of being profoundly unwelcome. |
 | tapering | adj. 逐渐收窄的；渐次变小的 | It is a tapering alleyway which can only be reached by way of the street beside the church. |
 | incidents | n. 事件；发生的事情 | There were three incidents, gentlemen. |

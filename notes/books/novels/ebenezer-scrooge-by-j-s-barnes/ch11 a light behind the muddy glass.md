@@ -123,8 +123,8 @@ modified: "2026-10-20"
 |---|---|---|
 | lurchingly | adv. 踉跄地；歪歪斜斜地 | She stopped (lurchingly) to gaze first at the darkened legal practice and then at Ambrose himself. |
 | predictability | n. 可预料性；不出所料 | She smelled, with dismaying predictability, of strong drink. |
-| whereabouts | n. 下落；所在之处 | “But I was hoping to learn the whereabouts of Mr Cadge. |
-| hesitation | n. 迟疑；犹豫 | “I can tell you where he is, sir, I’ve no hesitation in providing you with a little detail of that sort. |
+| whereabouts | n. 下落；所在之处 | But I was hoping to learn the whereabouts of Mr Cadge.|
+| hesitation | n. 迟疑；犹豫 | I can tell you where he is, sir, I’ve no hesitation in providing you with a little detail of that sort.|
 | diminished | v. 减弱；消退（此处指声音渐远） | As these sounds diminished, Ambrose looked up again at the office. |
 
 ### ⭐⭐ 进阶
@@ -134,8 +134,8 @@ modified: "2026-10-20"
 | derelict | adj. 破败的；颓废的（此处形容那女人） | Behind him on the street there passed by a derelict woman, reeling and cackling to herself. |
 | cackling | v. 咯咯地笑；怪笑（此处指那女人自顾自地笑） | Behind him on the street there passed by a derelict woman, reeling and cackling to herself. |
 | dismaying | adj. 令人不安的；令人沮丧的 | She smelled, with dismaying predictability, of strong drink. |
-| apologise | v. 道歉；致歉 | “As I said, I do apologise. |
-| relation | n. 关系；关联（in relation to：关于） | “I am here on behalf of Mrs Louisa Fell in relation to the will of her late uncle. |
+| apologise | v. 道歉；致歉 | “As I said, I do apologise.”|
+| relation | n. 关系；关联（in relation to：关于） | “I am here on behalf of Mrs Louisa Fell in relation to the will of her late uncle.”|
 | decipher | v. 解读；辨认出 | At this last question, a queer look passed across the young man’s face which Ambrose could not at first decipher. |
 | betokened | v. 表明；预示（较正式的用词） | Only later that evening did he realise the nature of the emotion that it must have betokened: shame. |
 
@@ -144,8 +144,8 @@ modified: "2026-10-20"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | boy | n. 男孩；年轻人 | Captain Ambrose stepped towards the boy. |
-| father | n. 父亲 | “You’ll be wanting my father, then. |
-| light | n. 光；灯 | “But I saw a light. |
+| father | n. 父亲 | You’ll be wanting my father, then.|
+| light | n. 光；灯 | “But I saw a light.”|
 | office | n. 办公室；事务所 | As these sounds diminished, Ambrose looked up again at the office. |
 | rank | n. 军衔；级别 | Captain Ambrose told him his name as well as his rank, at the mention of which the young man seemed almost to blush. |
 
