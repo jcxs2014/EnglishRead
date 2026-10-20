@@ -131,7 +131,10 @@ def main() -> int:
     else:
         print("✅ 书/文档目录内无散落脚本（.build/ 与 raw-gates 证据除外）")
 
-    rg = [x for x in tracked if x.endswith(".py")]
+    # ⚠️ 2026-10-20 复核抓到的第四类「汇总层误导」：这里原本数的是 `tracked`
+    #   （= `git ls-files scripts`）却把标签写成 raw-gates ⇒ 报出的个数是 scripts/ 下的
+    #   .py 数（99），而 raw-gates 里其实只有 52 个。**标签与数字必须同源**。
+    rg = [x for x in _git("ls-files", ".memory/raw-gates") if x.endswith(".py")]
     if rg:
         warn.append(f".memory/raw-gates/ 里有 {len(rg)} 个审查期一次性脚本（作为证据保留，不参与工具库统计）")
 
