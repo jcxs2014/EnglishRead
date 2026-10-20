@@ -30,7 +30,6 @@ import sys
 from collections import Counter
 from pathlib import Path
 
-CJK = re.compile(r"[\u4e00-\u9fff]")
 QUOTE_RE = re.compile(r"^>\s*\*\*原句\s*(\d+)\s*[：:]\*\*\s*(.+)$")
 NAV_RE = re.compile(r"^\s*(?:[-*]\s+)?\*\*(.+?)\*\*\s*[：:]")
 # 2026-10-20 修假绿：真书的子项常写成列表项（`- **中文理解**：…`），
@@ -46,62 +45,9 @@ H1_RE = re.compile(r"^#\s+(.*\S)\s*$")
 DIGITS = re.compile(r"\d+")
 TEXTCH_RE = re.compile(r"^ch(\d+)(?![0-9])")
 
-TRANS = str.maketrans({
-    "\u2018": "'", "\u2019": "'", "\u201c": '"', "\u201d": '"',
-    "\u2013": "-", "\u2014": "-", "\u2212": "-", "\u00a0": " ",
-    "\u2009": " ", "\u202f": " ", "\u200b": "",
-})
-ELLIPSIS = ("…", "...")
-
-STOPWORDS = set("""
-a an the and or but if of to in on at for with from by as is am are was were be been
-being do does did done have has had having i me my we our you your he him his she her
-it its they them their this that these those not no so than then there here what which
-who whom whose when where why how all any both each few more most other some such only
-own same too very can will just should now
-""".split())
-
-
-def norm(s: str) -> str:
-    """归一化到「只比字词」：引号一律去掉（弯/直/单/双都是排版差异，不是文字差异）。"""
-    s = s.translate(TRANS).replace("\n", " ")
-    for ch in ('"', "'", "`"):
-        s = s.replace(ch, "")
-    return re.sub(r"\s+", " ", s).strip()
-
-
-def cjk_count(s: str) -> int:
-    return len(CJK.findall(s))
-
-
-def cjk_ratio(s: str) -> float:
-    body = re.sub(r"\s", "", s)
-    return cjk_count(s) / len(body) if body else 0.0
-
-
-def strip_quotes(s: str) -> str:
-    s = s.strip()
-    for lq, rq in (('"', '"'), ("'", "'"), ("「", "」"), ("『", "』")):
-        if len(s) >= 2 and s.startswith(lq) and s.endswith(rq):
-            return s[1:-1].strip()
-    return s.strip('"“” ')
-
-
-def split_segments(quote: str) -> list[str]:
-    """按省略号拆段；返回原文顺序的片段（中间段不丢）。"""
-    parts = [quote]
-    for ell in ELLIPSIS:
-        nxt = []
-        for p in parts:
-            nxt.extend(p.split(ell))
-        parts = nxt
-    out = []
-    for p in parts:
-        p = p.strip().strip(",;:.!?—- ")
-        if p:
-            out.append(p)
-    return out
-
+from lib.text import (  # noqa: E402  统一原语，见 scripts/lib/text.py
+    CJK, cjk_count, cjk_ratio, norm, split_segments, strip_quotes,
+)
 
 def chapter_md_files(book: Path) -> list[Path]:
     return [p for p in sorted(book.glob("ch*.md")) if re.match(r"^ch\d+(?![0-9])", p.name)]

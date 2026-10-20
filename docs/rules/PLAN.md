@@ -171,3 +171,18 @@ wings-of-starlight、captain-s-dinner 等），属**在修中间态**，不是�
 AGENTS 字符预算 / rules 路由 / 引用不悬空 / **脚本归口**（已入库脚本必须在 `工具登记.md` 里；
 书与文档目录不许出现 `.py`，`.build/` 与 `raw-gates` 证据除外）。
 **改脚本或加脚本之后跑一次**。
+
+## 步骤 10：合并入口 + 回归测试集 + 原语库（2026-10-20）
+
+| 动作 | 结果 |
+|---|---|
+| 引语六件 → `scripts/quotes.py` | 六子命令；回归：3 书 × 6 模式逐字节一致 |
+| 总览三件 → `scripts/overview.py` | quotes / full / labels；回归：3 书 × 3 模式逐字节一致 |
+| 回归测试集 | `scripts/tests/run_cases.py` + `cases.json`（61 条基线：rc + 输出指纹 + 尾巴） |
+| 原语库 | `scripts/lib/text.py`（norm / strip_quotes / split_segments / cjk_*），目前只有 `bookform.py` 一个消费者 |
+
+**为什么 `lib/` 只迁了一个消费者**：抽象只该抽象"怎么读、怎么比"，不该抽象"什么叫对"。
+`norm` 这类原语语义已经确定才收；判据（配额、块序、说话人）仍留在各自工具里按书校准。
+**rule of three**：等第二个真的需要同一份 norm 的工具出现再迁，不要为"看起来整齐"硬并。
+
+**数字**：顶层 `scripts/*.py` 84 → **77**；入口数 9 → **3**（gate / quotes / overview，外加 chapter 与 bookform）。

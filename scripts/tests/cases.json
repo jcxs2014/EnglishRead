@@ -934,5 +934,33 @@
   "tail": [
    "  ✅ 标注章逐字 : 80"
   ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:bookform",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "python3",
+   "scripts/bookform.py",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle"
+  ],
+  "rc": 0,
+  "sha": "42f2894efac1cd3a",
+  "tail": [
+   "  ⚠️ 形态偏离本书众数不算错，写一行理由即可。"
+  ]
+ },
+ {
+  "id": "fabulous-bodies-by-chuck-tingle:chapter-sh",
+  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
+  "cmd": [
+   "bash",
+   "scripts/chapter.sh",
+   "notes/books/novels/fabulous-bodies-by-chuck-tingle/ch10 Date Night.md"
+  ],
+  "rc": 0,
+  "sha": "f09e3e3d2b8d2dcb",
+  "tail": [
+   "  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。"
+  ]
  }
 ]
