@@ -80,4 +80,4 @@ A–I 单条规则案例 9 份 · J 案例移出 21 KB · K git 事故 · L 批�
 | 方案与进度落库 | ✅ `docs/rules/PLAN.md`（随写随改） |
 | 模板拆分 | ✅ 226,721 → 27,536 B；归档 `docs/实测档案/Y_2026-10-20_启动模板拆分归档.md`（146,605 B） |
 | .memory 拆分 | ⬜ |
-| `raw-gates` 留存政策 | ⬜ |
+| `raw-gates` 留存政策 | ✅ 政策 + `scripts/prune_raw_gates.py`（实测无可删余地，见 PLAN 步骤 5） |
