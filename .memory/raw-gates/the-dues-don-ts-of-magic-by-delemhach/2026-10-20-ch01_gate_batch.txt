@@ -1,0 +1,59 @@
+# The Dues & Don'ts of Magic (Delemhach) — ch01 首章试产 门禁原始输出
+# 书目录: notes/books/novels/the-dues-don-ts-of-magic-by-delemhach
+# 批次: ch01（首章试产单章批）  日期: 2026-10-20  lane: 完整（epub 在 library/）
+# 正文: notes/books/novels/the-dues-don-ts-of-magic-by-delemhach/ch01 the magic shop.md
+
+===== 语料层 verify_corpus（开工第 1a 步）=====
+    ch43 (118 句)
+      首| Chapter 43: Cornered and Captured
+      末| Something deliciously powerful was brewing.
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
+
+===== ① verify_quotes（引语逐字）=====
+ch01 the magic shop.md: 10/10 ✅
+
+=== 总计 10/10 引文可核实（100%）；完全干净文件 1/1；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+===== ①b verify_quotes --full（取证，不参与退出码）=====
+ch01 the magic shop.md: 10/10 ✅
+
+=== 总计 10/10 引文可核实（100%）；完全干净文件 1/1；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+===== ② check_vocab =====
+  [P0-4] 正文章节 1 个（< 4），多数派未成形 → **跳过必备章节判定**
+词条行合计: 30
+
+--- FAIL (0) ---
+
+--- WARN (1) ---
+  ch01 the magic shop.md [基础] 基础档疑含超纲词「woodstove」
+
+===== ③ check_entities =====
+=== 实体一致性检测：1 个梗概段 / 0 个文件存在未知实体 ===
+
+===== ④ corruption_scan =====
+
+=== 编辑损坏扫描（the-dues-don-ts-of-magic-by-delemhach）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+===== ⑤ sweep_full =====
+=== 引语整串 flat 比对（the-dues-don-ts-of-magic-by-delemhach）===
+  参照集：text/ 逐章（43 章，可定章） + epub 交叉验证
+  ✅ 本章命中 10 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+
+===== ⑲ check_chinese_layer =====
+❌ 占位桩：0 处
+❌ 英文读者提示：0 处
+❌ 英文表达方式：0 处
+❌ 重复子项字段：0 处
+⚠️ 夹杂理解：0 处（提示型，不判红）
+⚠️ 夹杂为什么：0 处（提示型，不判红）
+=== 汇总：10 个引语块 | 合格分析密度 100% | 整层夹杂率 0% | 阻断型 0 | 提示型 0 ===
+=== 结论：无阻断型 ===
+
+===== ⑦ 逐章归属 check_chapter_quotes =====
+ch01 the magic shop.md: 10/10 in ch01 text
