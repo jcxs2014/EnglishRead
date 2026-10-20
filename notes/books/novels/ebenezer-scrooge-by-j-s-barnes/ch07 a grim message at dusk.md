@@ -71,7 +71,7 @@ modified: "2026-10-20"
 
 **中文理解**：女仆脸上挂着一丝怀疑，反问夫人：您确定吗？
 
-**关键词**：a look of scepticism / The maidservant wore / Are you sure
+**关键词**：a look of scepticism / wore a look of scepticism / Are you sure
 
 **为什么这样写**：作者没有让女仆把怀疑讲出来，只给了一个眼神；接着那句反问又短又软，把怀疑收成最省力的一句话——下人的怀疑要有分寸，才不至于变成审问。
 
