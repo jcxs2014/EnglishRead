@@ -70,6 +70,15 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 **工具侧**：修掉 `bookform.py` 未导入 `STOPWORDS`、关键词判据会崩栈的 bug（附阴性对照夹具 `scripts/tests/bookform_kw/`）；本会话同时完成规则文档重构（AGENTS 索引化、模板拆分、四族脚本合并、gate lane ⑳ 整书体检）。
 
+**《Fitcher's Bird》审查结论（2026-10-20）**：按生产步骤打靶（S1–S5，新增 `docs/rules/生产-审查对照.md`）抽样复核。
+
+- **覆盖**：机器层 17/17 章（`bookform --all` + 引语逐字 + 省略号分段独立取证 + 249 条词汇例句逐字 + 总览三篇）；人判层 3 章（ch01 首章 / ch07 重述章 / ch17 末章）。
+- **阻断型 2 处**：① ch17 后记「六个来处」只写五个，缺 fifthly 的照片段 ⇒ 补原句5、原 5→6（块数 5→6）；② ch15 `nicking` 例句在分号处截断并把分号改成句号，非逐字 ⇒ 改为完整原句，249/249 逐字。
+- **提示型 1 处**：ch01 睡前四件遗物只在导航提及、未进块（非情节转折）⇒ 不改。
+- **门禁**：`chapter.sh` rc=0；整书 `gate.sh` **EXIT=0**，86 块引语全绿，中文层密度 100% / 夹杂 0%。
+- **两处均被门禁判绿** ⇒ 门禁管「有不有、在不在」，人判管「全不全、对应不对应」。
+- commits：`7e8a0d5d1`（1 次）；明细见 `.memory/raw-gates/fitcher-s-bird-by-a-g-slatter/review/README.md` 与本日工作日志。
+
 ### [2026-10-20 19:34 UTC] [MiniMax-Mac] → All
 
 ## 【规则调整】根 AGENTS.md 改索引 + 19 个检查器并成 4 个入口 + 第三方复核（2026-10-20）
