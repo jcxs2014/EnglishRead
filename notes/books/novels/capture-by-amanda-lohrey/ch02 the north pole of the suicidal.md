@@ -75,7 +75,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：三个不定式（做到善良、讨喜、讲道理）把「美德」写成一种压力源，而那个撑住一切的东西被命名为「false self」（虚假自我）——它不是伪装成好人的坏人，而是「为了当好人而造出来的那个自己」。carapace（甲壳）这个词把自我比作乌龟的壳：既是保护，也是禁闭。
 
-**读者视角提示**：马瑟自己的父亲、他的早年被规训的一生，都是这个「虚假自我」；第三章里他就转向小号、转向夜里给牛吹小号的反抗。「until the strain of the false self, its suffocating carapace, became unbearable」这个句式预演了全书那条临界线。
+**读者视角提示**：马瑟自己的父亲、他的早年被规训的一生，都是这个「虚假自我」；第三章里他就转向小号、转向夜里给牛吹小号的反抗。至于「until the strain of the false self, its suffocating carapace, became unbearable」这个句式，它**就是本章这一段**（上面那段排比），不是第三章的——它预演了全书那条临界线。
 
 ---
 

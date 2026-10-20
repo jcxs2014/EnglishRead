@@ -97,7 +97,7 @@ modified: "2026-10-20"
 
 **关键词**：we won’t have a tax base big enough to support the increase in longevity / which kind of curdles the cream / Economies will collapse / no one has figured out how to incentivise women into having more children
 
-**为什么这样写**：这一段把第十二章的两个主题缝在了一起：延寿（longevity）与税制。而「curdles the cream」（让奶油变质）这个说法极准确——**衰老人口**将耗尽**年轻人口**创造的税基。最后一句点出了整套论述真正的落点：它需要**女性的身体**，而「怎么激励」这个问题至今无解。
+**为什么这样写**：这一段把**延寿**（longevity，与**第十二章**那条「延寿逃逸速度」接上）与**税制**缝在了一起——税制是这一章自己才有的，十二章只提供延寿那一条。而「curdles the cream」（让奶油变质）这个说法极准确——**衰老人口**将耗尽**年轻人口**创造的税基。最后一句点出了整套论述真正的落点：它需要**女性的身体**，而「怎么激励」这个问题至今无解。
 
 **读者视角提示**：请把「怎么激励女性多生孩子」这一句，与本书中所有女性身体被取走、被征用、被招募的案例并读。
 
@@ -181,7 +181,7 @@ modified: "2026-10-20"
 
 **关键词**：if you get the eugenics right / then you create a predestined Elect / The rest of the population that doesn’t come up to scratch / will eventually become human husks / Winnowed out
 
-**为什么这样写**：这一段是全书最冷的一处对照，因为「选民」（Elect）正是第十四章伯纳德用过的词——在宗教语境里它是蒙福者，在这里它是**被筛选出来的优良血统**。而「human husks」（人的空壳）这个说法，与第十七章伊薇特那句「我的身体没有忘记」形成了两个极端：一边是身体成为空壳，一边是身体记住了自己被改造。
+**为什么这样写**：这一段是全书最冷的一处对照，因为「选民」（Elect）正是第十四章伯纳德用过的词——在宗教语境里它是蒙福者，在这里它是**被筛选出来的优良血统**。而「human husks」（人的空壳）这个说法，与**第十九章**伊薇特那句「我的身体没有忘记」形成了两个极端：一边是身体成为空壳，一边是身体记住了自己被改造。
 
 **读者视角提示**：请把「人 husk」与第十九章那句「他们没有把我重新拼回原来的样子」并读。这本书用整整一章讲了身体被拆开，然后在这里宣布：大部分人终将如此。
 
