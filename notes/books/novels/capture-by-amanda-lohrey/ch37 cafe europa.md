@@ -101,13 +101,6 @@ modified: "2026-10-20"
 
 **读者视角提示**：请把「听你听的方式」与第二十一章那句「你得在房间里」并读：她学的不是他的方法论，是他的**在场方式**。
 
-**中文理解**：我是在雅典的一间咖啡馆里写这封信的，刚在一个市场里买了这张漂亮的纸。我总得给它找个用途，所以这是一封老派的信。……「那肯定很古怪，」他们这么说。好吧，我说，是的，也不是。其中有些东西留在我身上，可我说不清是什么在 lingering。我想日后总会明白的。我最享受的是和你一起工作，以及听你**听的方式**，如果这说得通的话。
-
-**关键词**：I am writing this in a café in Athens / having just bought this beautiful paper in a market / so herein an old-fashioned letter / Must have been weird / it was, and it wasn’t / Something of it stays with me / but I can’t put my finger on what it is that lingers / What I enjoyed most was working with you / and listening to the way you listen, if that makes any sense
-
-**为什么这样写**：全书最动人的一封信，而它的核心是一句**职业性的恭维**：她最享受的不是那些发现，而是「听你听的方式」。而「我必须弄清那是什么」（I can’t put my finger on what it is that lingers）这半句，用了一个**手指**的意象——她说不出来，正如马瑟在第十五章说的「我们还没有一门关于经验的科学」。
-
-**读者视角提示**：请把「听你听的方式」与第二十一章那句「你得在房间里」并读：她学的不是他的方法论，是他的**在场方式**。
 
 ---
 

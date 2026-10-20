@@ -61,7 +61,7 @@ modified: "2026-10-20"
 
 **关键词**：good news on the business front / one of the presenters, Gaby Fowler / recently hired me to do her wedding / all make-up for the wedding party / including those eyelash extensions you seemed to find so interesting / use her photo and an endorsement on my website / it’s already bringing in business
 
-**为什么这样写**：全书最刻薄也最精确的一处反讽：那位「被取走卵子、以此为使命」的女人，靠**睫毛嫁接**与一位电视主持人的照片做生意。而「那些你似乎很感兴趣的睫毛嫁接」（those eyelash extensions you seemed to find so interesting）这半句，是她对马瑟的第四章的**回指**。
+**为什么这样写**：全书最刻薄也最精确的一处反讽：那位「被取走卵子、以此为使命」的女人，靠**睫毛嫁接**与一位电视主持人的照片做生意。而「那些你似乎很感兴趣的睫毛嫁接」这半句，是她对马瑟的第四章的**回指**。
 
 **读者视角提示**：请注意「用她的照片和一句推荐」（her photo and an endorsement）——**名人遗物**式的价值逻辑，正是第十八章那场晚宴讨论的东西。而这一封信把它变成了她自己的营销手段。
 

@@ -157,7 +157,7 @@ modified: "2026-10-20"
 
 **关键词**：Science demands clarity and resolution / and here we are, enmeshed in a world / of what a disinterested observer might describe / as a maelstrom of psychic kitsch
 
-**为什么这样写**：全书最漂亮的一句自我诊断，用三个词：maelstrom（大漩涡）、psychic kitsch（心灵媚俗）、disinterested observer（不涉利益的观察者）。而这半句的**主语是科学**——科学要求清晰，而他们陷在混沌里。
+**为什么这样写**：全书最漂亮的一句自我诊断，用三个词：大漩涡、心灵媚俗、不涉利益的观察者。而这半句的**主语是科学**——科学要求清晰，而他们陷在混沌里。
 
 **读者视角提示**：请注意「disinterested」（不涉利益、不偏不倚）这半句——它正是本书对读者的全部要求，也是马瑟对自己方法的要求。而他此刻发现自己**做不到**。
 

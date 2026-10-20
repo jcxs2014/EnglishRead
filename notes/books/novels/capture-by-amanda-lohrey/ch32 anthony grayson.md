@@ -89,15 +89,6 @@ modified: "2026-10-20"
 
 **读者视角提示**：请把「他一个人去」这半句与后面那句「我绝不会让她冒这个险」并读：这是他写给马瑟看的版本，而真实版本是他不愿承认自己在逃。
 
-**中文理解**：不过，你也许会有兴趣知道：我正在组织一次前往珠穆朗玛峰南坡大本营的远征。……我计划明年登顶，但莎拉想确保我不太可能得高山病，所以我们商定我先去大本营走一趟。……规矩是：一旦海拔超过 4000 米，每天上升不能超过 400 米，所以你必须严格跟着进度表走。……你得小心，因为症状通常是在夜里你睡着的时候发作。
-
-**关键词**：I am organising an expedition to the South Base Camp of Everest / I plan to make the climb to the summit next year / Sarah wants to make sure I am not likely to suffer from altitude sickness / I will trek to the base camp first / not to gain more than 400 metres in elevation per day / once you are above 4000 metres / the symptoms usually come on at night while you are sleeping
-
-**为什么这样写**：一封关于**登山的信**，用的是**技术语言**：海拔、每日上升限速、症状发作时机。而作者让读者注意到一件事：那些数字——400 米、4000 米、夜里——与第四章那些外星飞船的参数是同一种叙述方式。**唯一**的差别是这一次的限制有权威来源。
-
-**读者视角提示**：请注意「我一个人去」（I will be making the trek on my own）这半句与莎拉的缺席——她担心他有幻觉，所以他不带她。这封信里，两个人都在**避免**那件事。
-
----
 
 > **原句 7:** "I am confident that with my ability to master the detail of something I put my mind to that there will be minimal risk and I’m hoping the air at high altitudes will cure my headaches."
 
@@ -110,14 +101,6 @@ modified: "2026-10-20"
 **读者视角提示**：请把「头痛」（headaches）这半句与第十九章那些「无法解释的头痛」并读——那一章说捕获的残迹是「心率快、突发高烧、颤抖、眼泪、叹息、以及原因不明的头痛」。这封信证明那些症状**没有**消失。
 
 ---
-
-**中文理解**：伯纳德？居然是个猎人？这下是我看走眼了。
-
-**关键词**：Bernard, of all people, was a hunter / A failure on my part / I misread him
-
-**为什么这样写**：全章唯一的评注，三个短句，而它写的是**误读**。而这一行紧跟在另一封信之后（第三十六章）——也就是说，读者是在读过桑德拉的来信之后才看到这句评注的，于是这句「我看走眼了」立刻被重新点亮：他在莎拉的信里读到了另一种东西。
-
-**读者视角提示**：请注意马瑟的「我看走眼了」（I misread him）——这本书里他第二次承认误读（第一次是对伊薇特）。
 
 ## 本章词汇
 

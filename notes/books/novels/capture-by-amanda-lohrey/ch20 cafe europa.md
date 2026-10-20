@@ -45,7 +45,7 @@ modified: "2026-10-20"
 
 > **原句 3:** "‘They are worried about demographic collapse. Forget global warming, the declining birthrate is the big one.’"
 
-**中文理解**：「他们担心的是人口崩塌。别提全球变暖了 declining birthrate（出生率下降）才是大事。」
+**中文理解**：「他们担心的是人口崩塌。别提全球变暖了，**出生率下降**才是大事。」
 
 **关键词**：They are worried about demographic collapse / Forget global warming / the declining birthrate is the big one
 

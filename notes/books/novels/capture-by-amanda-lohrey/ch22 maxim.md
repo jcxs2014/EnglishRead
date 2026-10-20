@@ -81,7 +81,7 @@ modified: "2026-10-20"
 
 **关键词**：push hard at a red metal fire door / a big, empty room, wide and long / wooden ceiling beams are scorched black / renovated with a brutal spareness / brick and limewashed in a harsh white / the oak floorboards are matte / an iron staircase / it has no handrail / its rust-coloured rungs give off a muted clang
 
-**为什么这样写**：作者用**材质清单**写这个空间：砖、石灰白、橡木、黑皮、铁、锈。而「粗粝的简朴」（brutal spareness）这半句正好是马瑟那句「时髦的抽象派极简主义」（chic abstract minimalism）的反面——同一本书里的两种极简。
+**为什么这样写**：作者用**材质清单**写这个空间：砖、石灰白、橡木、黑皮、铁、锈。而「粗粝的简朴」这半句正好是马瑟那句「时髦的抽象派极简主义」的反面——同一本书里的两种极简。
 
 **读者视角提示**：请注意「没有扶手」和「闷响」这两处——作者在用听觉与触觉给读者定位，而这一章最重要的感官正是触觉。
 
@@ -177,7 +177,7 @@ modified: "2026-10-20"
 
 **关键词**：It tells me the state of your organs / Where your strengths and weaknesses are
 
-**为什么这样写**：「强弱」（strengths and weaknesses）这个说法在两个体系里含义相同，方向相反：在这里，器官有强弱；在精神科那里，人有强弱。
+**为什么这样写**：「强弱」这个说法在两个体系里含义相同，方向相反：在这里，器官有强弱；在精神科那里，人有强弱。
 
 **读者视角提示**：请注意这整段对话里马瑟一次也没有反驳——他只是问「你在做什么」「我的肝怎么了」「这跟我的背痛有什么关系」。他在**收集数据**。
 

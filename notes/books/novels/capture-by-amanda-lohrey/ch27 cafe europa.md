@@ -23,7 +23,7 @@ modified: "2026-10-20"
 
 **中文理解**：最后一次会谈的第二天，我带露西去吃午饭，宣布我的决定。我告诉她，我会把我们的录音带捐给国家档案馆（我半开玩笑地说，这是对「世界记忆」的一份贡献），连同我的笔记，以及——如果她同意的话——她的笔记。不会有任何出版物。我会付清她的合约。
 
-**关键词**：The day after our last session / I will donate our tapes to the national archives / a contribution to the memory of the world / along with my notes and…her notes / There will be no publications / I will pay out her contract
+**关键词**：The day after our last session / I will donate our tapes to the national archives / a contribution to the memory of the world / along with my notes and, if she is agreeable, the notes that she has made / There will be no publications / I will pay out her contract
 
 **为什么这样写**：一句「捐给国家档案馆」就把整本书的**归属**定了下来：它会成为档案，而不是论文。而那句关于「世界记忆」的玩笑把第一章的海伦娜与第二十五章的黛博拉悄悄缝在一起——同一个项目，两个人的妻子都在里面。
 
@@ -167,7 +167,7 @@ modified: "2026-10-20"
 
 **中文理解**：「我是编年史作者。我想写一部历史，因为它不是新东西。你知道吗，公元前三世纪，秦始皇命令御医研制一种返老还童的灵药；他们做出了一种杀死他的东西，很可能是汞中毒。他四十九岁。当然，这个故事多半是托词，但所有传说都包含着某种真理。」……「还有某种警告，不是吗？」
 
-**关键词**：I’m a chronicler / I want to write a history, because it’s not new / in the third century BC the emperor Qin Shi Huang / commanded his court physicians to develop an elixir of youth / they came up with something that killed him / probably from mercury poisoning / He was forty-nine / the story is most likely apocryphal / like all legends it contains a truth / And a warning, wouldn’t you say?
+**关键词**：I’m a chronicler / I want to write a history, because it’s not new / in the third century BC the emperor Qin Shi Huang / commanded his court physicians to develop an elixir of youth / they came up with something that killed him / probably from mercury poisoning / He was forty-nine / the story is most likely apocryphal / like all legends it contains a truth / like all legends it contains a truth
 
 **为什么这样写**：这是全书最漂亮的一次**历史引证**，它同时给出了这个题目的三重性质：古老（秦始皇）、危险（汞）、以及传说的双重性（多半是托词，却包含着某种真理）。而「四十九岁」这个细节让死亡显得**太早**——比马瑟的预期更早。
 

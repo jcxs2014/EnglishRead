@@ -37,7 +37,7 @@ modified: "2026-10-20"
 
 **关键词**：I have a voice message from Lucy / excited, almost breathless / from a mixture of elation and relief / She has been awarded her fellowship / she has been given a startup travel grant / in three weeks she will be off to Athens for a conference / I couldn’t be more pleased
 
-**为什么这样写**：作者用**呼吸**写她的状态（breathless），而「欢欣与如释重负的混合」（a mixture of elation and relief）精确说明了这份快乐的成分——她既为奖学金高兴，也为自己**终于可以做自己**而松一口气。
+**为什么这样写**：作者用**呼吸**写她的状态，而「欢欣与如释重负的混合」精确说明了这份快乐的成分——她既为奖学金高兴，也为自己**终于可以做自己**而松一口气。
 
 **读者视角提示**：请注意「三周后」这个时间刻度。它给了这一章一个**倒计时**，也让旋转门前的那一抱有了重量。
 

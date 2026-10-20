@@ -193,7 +193,7 @@ modified: "2026-10-20"
 
 **关键词**：There’s no one like Maxim / If it took him three goes to release you / no one else is going to come close / She makes it clear that I am obstinate
 
-**为什么这样写**：露西的回答既像推销，又像**关门**：她用「三次」这个数字证明不可替代，而「no one else is going to come close」同时也可以读成——也没人敢接这个活。而最后那半句「我让你明白你很固执」（She makes it clear that I am obstinate）是全书最不动声色的反击。
+**为什么这样写**：露西的回答既像推销，又像**关门**：她用「三次」这个数字证明不可替代，而「没人能接近得了」这半句同时也可以读成——也没人敢接这个活。而最后那半句「我让你明白你很固执」是全书最不动声色的反击。
 
 **读者视角提示**：请注意「release you」（把你放开）这个动词——她说的是被**放开**，不是被治好。而第三章里露西的那句「他们觉得不被评判」也是同一个动词的变体。
 

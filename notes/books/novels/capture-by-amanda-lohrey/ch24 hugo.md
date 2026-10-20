@@ -25,7 +25,7 @@ modified: "2026-10-20"
 
 **关键词**：a theologian and scholar of comparative religion / Hugo has a reputation for being eccentric / which I take to be code for open-minded
 
-**为什么这样写**：作者用一个词（theologian and scholar of comparative religion）交代他的**双重身份**，而「古怪」（eccentric）这个名声被马瑟当场翻译成「开放」。这一笔很公平：马瑟没有因为对方的形象而先入为主。
+**为什么这样写**：作者用「神学家兼比较宗教学者」这个双重身份交代他的来历，而「古怪」这个名声被马瑟当场翻译成「开放」。这一笔很公平：马瑟没有因为对方的形象而先入为主。
 
 **读者视角提示**：请注意「比较宗教」这个专业方向——他研究的正是**不同传统之间的对应关系**，而他会在这次谈话里给出飞碟与天使、飞碟与蛇的对应。
 
@@ -69,7 +69,7 @@ modified: "2026-10-20"
 
 **关键词**：she remarks on how conservatively I dress / Everyone has their camouflage, Jim / nothing in the appearance of our experiencers has so far been in any way revealing / She has in her transcripts meticulously described their dress / even Mary, whose business is fake glamour, was unexceptional
 
-**为什么这样写**：作者把「伪装」（camouflage）这个词在第十章就已经用过（heroes and villains presenting in harmless camouflage as cars），现在露西把它用在**人**身上。而「细致入微地描述过他们的穿着」这一笔再次确认：她的工作是**记录**，而且记录的是最不显眼的细节。
+**为什么这样写**：作者把「伪装」这个词在第十章就已经用过——那些「以汽车等日常器物作无害伪装」的英雄与反派——现在露西把它用在**人**身上。而「细致入微地描述过他们的穿着」这一笔再次确认：她的工作是**记录**，而且记录的是最不显眼的细节。
 
 **读者视角提示**：请注意这个否定式的结论——到目前为止，外貌与叙述**无关**。它是本书少见的「数据为负」的判断，而它悄悄站到了雨果那套「投射」论的反面。
 
@@ -359,7 +359,7 @@ modified: "2026-10-20"
 
 **关键词**：I drive her home / Outside her apartment complex / in my car parked beside the kerb / we share a complicit smile
 
-**为什么这样写**：全书以一个**共谋式的微笑**收尾。这个笑不是欢快，是「我们都知道刚才那场谈话意味着什么、我们都不说」。而「同谋」（complicit）这个词与第三章海伦娜那条「co-conspirators in an unresolved plot」直接呼应。
+**为什么这样写**：全书以一个**共谋式的微笑**收尾。这个笑不是欢快，是「我们都知道刚才那场谈话意味着什么、我们都不说」。而「同谋」这个词与第三章海伦娜那条「未解谋局里的同谋者」直接呼应。
 
 **读者视角提示**：请注意这个笑发生在一个**公寓楼外**——在一栋她一个人住的、让她觉得像孤岛的楼外。她没有请他上去。这一笔留白比任何描写都更准确。
 

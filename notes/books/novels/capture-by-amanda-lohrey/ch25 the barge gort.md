@@ -25,7 +25,7 @@ modified: "2026-10-20"
 
 **关键词**：my wife is away more often / I miss the comfort of her presence / the solace of the unspoken / an unvarying ritual of small observances / never rushed
 
-**为什么这样写**：全章第一句就把「不见面」写成一种**质地**：comfort（舒服）与 solace（慰藉）两个近义但不同的词。而「一套从不变的小小仪节」（an unvarying ritual of small observances）这半句，把妻子的睡前程序写成**仪式**——而这本书的第三章已经告诉我们，仪式是马瑟自己的信仰语言。
+**为什么这样写**：全章第一句就把「不见面」写成一种**质地**：comfort（舒服）与 solace（慰藉）两个近义但不同的词。而「一套从不变的小小仪节」这半句，把妻子的睡前程序写成**仪式**——而这本书的第三章已经告诉我们，仪式是马瑟自己的信仰语言。
 
 **读者视角提示**：请注意「不言说的慰藉」（the solace of the unspoken）这半句——它预先为章末那句「Such a simple life」做好了铺垫：那也是一个**没说出口**的东西。
 

@@ -25,7 +25,7 @@ modified: "2026-10-20"
 
 **关键词**：I have had two more visitations since that day I saw you / I’m now on good terms with my alien friends / I’m over the shock now / I don’t get upset like I used to / Most of the physical symptoms have gone / meaning they’ve settled down / I don’t get the shakes anymore
 
-**为什么这样写**：全书唯一一次把外星人称作**朋友**（my alien friends）——而且是在一个精神科医生的来信里。而「meaning they’ve settled down」这半句双关得极妙：症状消退不是因为解释清楚了，而是因为**它们安顿下来了**（住进了她体内）。
+**为什么这样写**：全书唯一一次把外星人称作**朋友**——而且是在一个精神科医生的来信里。而「它们安顿下来了」这半句双关得极妙：症状消退不是因为解释清楚了，而是因为**它们住进了她体内**。
 
 **读者视角提示**：请把「我不再发抖」（I don’t get the shakes anymore）与第十九章那个「持续的全身震颤」对照。她身体的那些反应，正是那班「朋友」的住处。
 

@@ -149,15 +149,6 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意「I consulted the booklet and, sure enough」这半句——叙述者立刻去核对册子，而册子是**同一个来源**。这是本书对「文献」最冷的一次评价：它能证明狗是神圣的，因为它就是那个传说写成的。
 
-**中文理解**：「这里有很多狗，」塞利姆说。……「对，很多狗。神圣的。治伤口很管用。」我翻了翻册子，果然：狗是神圣的，而且人们被鼓励去舔病人的肉伤，相信狗的唾液是一种天然的抗生素。
-
-**关键词**：Many dogs here / Sacred to the god / Good for wounds / dogs were indeed sacred / encouraged to lick the flesh wounds of patients / in the belief that canine saliva was a natural antibiotic
-
-**为什么这样写**：这一段是全书最锋利的**冷讽**：一个给旅游者带路的孩子，指着一群狗说「治伤口很管用」——而「狗的唾液是天然抗生素」这个信念，在马瑟的时代仍然存在（现代医学确有「犬唾液疗法」研究）。**安慰剂被制度化**了——由祭司执行，由圣所担保。
-
-**读者视角提示**：请注意「I consulted the booklet and, sure enough」这半句——叙述者立刻去核对册子，而册子是**同一个来源**。这是本书对「文献」最冷的一次评价：它能证明狗是神圣的，因为它就是那个传说写成的。
-
----
 
 > **原句 12:** "Selim took a right turn and beckoned. ‘I take you to the dream room,’ he said."
 
@@ -181,15 +172,6 @@ modified: "2026-10-20"
 
 **读者视角提示**：请注意「在这里做梦，然后你就好了」这半句的**因果顺序**：先做梦，后好。而下一段马瑟的疑问正是「要是你没做梦呢？」
 
-**中文理解**：塞利姆右转，招手。「我带你去梦屋，」他说。……他咧嘴笑，又招手。「特别的地方，」他说，「大效果。」我跟着他走进一条保存完好的古代砖砌长隧道，拱顶很高。进去几米，塞利姆停下，指着一堆瓦砾。「梦屋，」他庄严地宣布。「在这里做梦，然后你就好了。」
-
-**关键词**：I take you to the dream room / Special place / Big result / a long, well-preserved tunnel of ancient brick with a high, vaulted ceiling / Selim stopped and indicated a pile of rubble / Dream room / Here you dream, then you get better
-
-**为什么这样写**：整章的高潮用**视觉贫乏**写成：所谓「特别的地方」，其实是一条隧道里的一堆瓦砾。而「大效果」（big result）这半句是塞利姆的广告词——一个把疗效当商品推销的孩子。
-
-**读者视角提示**：请注意「在这里做梦，然后你就好了」这半句的**因果顺序**：先做梦，后好。而下一段马瑟的疑问正是「要是你没做梦呢？」
-
----
 
 > **原句 14:** "In the musty heat of the tunnel, I felt a shudder of something I can only describe as recognition, as if this was something I had always known but forgotten. ‘But what if you didn’t dream?’ I murmured, thinking aloud. … Selim, wide-eyed, was adamant. ‘Everybody dream,’ he said."
 
