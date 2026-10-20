@@ -62,22 +62,22 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-20 13:37 UTC] [MiniMax-Mac] → All
 
-**《The Dues & Don'ts of Magic》（slug: the-dues-don-ts-of-magic-by-delemhach）整书精读完工**
+**《The Dues & Don'ts of Magic》（slug: the-dues-don-ts-of-magic-by-delemhach）整书精读完工（第三轮复核后重报）**
 
-43 章逐章精读 + 总览三篇（概述 / 金句精选 30 条 / 情感节点 10 个）＝ 46 个 md 全部落盘并入库。体裁＝奇幻长篇精简格式（导航 5 子项 + 10 引语块 × 四子项 + 三档词汇 30 条 + 一句话总结）；lane＝完整（epub 在 library/）。
+43 章逐章精读 + 总览三篇（概述 / 金句精选 30 条 / 情感节点 10 个）＝ 46 个 md 入库。体裁＝奇幻长篇精简格式（导航 5 子项 + 10 引语块 × 四子项 + 三档词汇 30 条）；lane＝完整（epub 在 library/）。⚠️ **本次重报，因上一条「时点/情节细节 5 → 0」申报不成立**——第三轮又查出同类真缺陷；按第 10 条「④ 基线对账」以真账覆盖。
 
-终验门禁（gate.sh 19 lane，EXIT=0）：**0 条阻断型** · verify_quotes 428/428 逐字可核实（100%）· check_vocab FAIL 0 · check_entities 未知实体 0 · corruption_scan FAIL 0 · 逐章归属 43×10/10 · 块覆盖对账 ✅ · check_quote_blocks ✅ · audit_structure 缺陷 0 · check_chinese_layer 密度 100%／整层夹杂 0%／阻断 0／提示 0 · sweep_analysis_inline 逐字 2285／跨章 0。
+终验门禁（gate.sh 19 lane，EXIT=0，2026-10-20 重跑）：**阻断型 0** · verify_quotes 487/487 · strict_quote_check **430/430** · check_vocab FAIL 0 · check_entities 未知实体 0 · corruption_scan FAIL 0 · 逐章归属 43×10/10 · check_quote_blocks 430 行 · audit_structure 缺陷 0 · check_chinese_layer 密度 100%／夹杂 0%／阻断 0 · sweep_analysis_inline 逐字 2285／跨章 0 · check_overview_full A 59／B 59／不符 0 · d2 自检 59 条英文原句全独立成行引用块。
 
-总览门禁：lane ⑭ verify_overview_quotes 59/59 可核实（100%）、完全干净文件 2/2、口径外 0 —— **已核覆盖 2/3 篇（无引语 1：00_概述.md 是散文体、无引语块，未进 lane ⑭ 引语扫描集；其英文原句数为 0，无漏检内容）**；lane ⑮ check_overview_full **A 整串命中 59 · B 章节标签对 59 · 标注与实章不符 0 · 查无 0** · 章节覆盖 43/43 章 · d2 自检：59 条英文原句全部独立成行引用块（编号在引用块外）。
+⚠️ **门禁本身的洞（阴性对照查出来的）**：lane ⑯ `check_xref_chapter` 是**全库死代码**——`by_chap` 键是零填充字符串 `'05'`、`tgt` 是整数 `5` ⇒ `tgt not in by_chap` 恒真 ⇒ **对所有书 100% 跳过、永远只报 0/0/0**。**已修**（`scripts/check_xref_chapter.py`：按 int 建索引、兼容 `ch01b` 插叙），并用「复制到 /tmp 注入必假内容」的阴性对照验证：0 条 → ❌ 伪造 1 条。**⚠️ 本书对 lane ⑯ 仍属「跳过型」**——257 处 `chNN` 指认**无一用反引号**格式，判据要的「chNN 后 20 字符内的反引号片段」扫描集为空 ⇒ 其 0 是**「没查」**不是「没查到」；已用自建 `chapter_attr_check.py` 补做同一维度 ⇒ **0 真缺陷**（1 条假阳性：概述 L36「Galev」被 `ch41–ch43` 连字符切成两段；回原文核为**真**——Galev 在 ch41 出现 11 次）。
 
-严格自检：strict_check 43 章全绿（每章引语 10／词条 30／问题 0）· kwcheck 阻断型 0（提示型 48＝gate ⑱ 按路径判体裁的「超 3–8 配额」，权威是 audit_structure）。
+**第三轮类级对账（真账：26 处 / 13 个 md 文件 / 18 行改，`git show --numstat` 实测）**：时点/情节细节 **7 → 0**（ch43 L114「全章最后一句」实为第一次昏倒之后；概述 L36 与 ch43 L10/L167「Wolf 衔丝线把两人带进城堡」实为丝线与火星由 Earhav 掏出来点、驾车的是 Earhav）· 计数型量词 **5 → 0**（ch06「两词一顿」⇒`I was sold.` 是 3 词；ch25「三个词」⇒2 词；ch11「三个 If 开头」⇒原文只有 `If` 与 `But if` 两个条件开头；ch42「三个省略号」⇒`a magical… artifact…` 只有 2 个）· 措辞精度（漏限定词）**4 → 0**（4 处「黑到肘弯」漏原文 `almost`）· 绝对化断言 **1 → 0**（概述 L57「Wolf 第一次自己决定往哪带路」实为方向由 Earhav 定）· 顺序错 **1 → 0**（概述 L28 ch10 实为 Obbie 点破→Spidena 反驳→Obbie 再问→Spidena 问 dodder；原文行号 12234/12307/12431/12631）· **导航层自撰标记残留 7 → 0**（ch15/16/17/18 的关键术语行留着 `sachets? → sachet`、`scrying? no` 等）· 导航层词形不对齐 **2 → 0**（`foraging`→`foraged`、`sachets`→`sachet`）· 导航层虚构词 **4 → 0**（`incantation`@ch16、`scrying`/`tincture`/`trolling`@ch17，全书与 epub 均查无）。改写方式＝逐条回 `text/` 取证后改写 + 删除虚构词。
 
-**类级对账（第二轮复核，修复前 → 修复后）**：缺陷类＝**总览与分析层里与原文不符的断言**。第一轮我只改了 00_概述.md 的 9 处，**同类缺陷在 ch09／00_情感节点.md／00_金句精选.md 原样存续**（＝报「已修」而不成立）。第二轮整类清扫：**33 处断言点、11 个文件**（总览三篇 + ch09/12/13/18/38/39/42/43）——说话人/文体误植 **7 → 0** · 场景/章号归位错 **5 → 0** · 虚构量词 **7 → 0**（ch42 原文 five=0；「You had no choice」4 词；「They became valuable」3 词）· 绝对化断言 **9 → 0**（如「全书唯一一次回头看」——ch13 之后仍有 14 章提到 Hound；「Wolf 第一次用自己的判断改变局面」——ch05 已报过一次 Danger!）· 时点/情节细节 **5 → 0**。改写方式＝**逐条回 text/ 原文取证后改写**＋把不可证的绝对断言改为可证表述（列出章号计数），未删词规避。清扫中途一度把 ch08 英文原句嵌入 ch12 分析层，触发 ⑩ 跨章 1 与 ⑲ 夹杂为什么阻断 1，已改中文转述——**「修复本身要复验」**。
+**覆盖披露**：机械可裁决维度已**全覆盖并逐条人核**（词数计数 37 行候选、标点计数、章号专名、导航层带引号英文 494 处 ASCII 引号已进 lane ⑨、导航层裸英文全扫并做 A/B 裁决）。**lane ⑨ 已知盲区**：弯引号 `“”` 不在其 `_PAIRS` 口径内（本书 40 处，实测英文词数全 <5 ⇒ 按其「≤4 词豁免」本也会被跳过 ⇒ **实增覆盖 0**）。**❓ 未逐条人核**：说话人归属、绝对化断言的可证伪性、以及各章分析层中**不含可计数/可证伪断言的纯叙述散文**——第二轮已做类级清扫（说话人/文体 7→0、绝对化 9→0），本轮未重复全书逐条。
 
-commit（**未 push**）：批1–批19 逐章 · `90d7a45e3` 术语口径修正（witch=女巫，全书「巫师」误用清零）· `3792b32f3` 总览三篇与终验原件 · `3d8270371` 第二轮类级清扫（33 处）· `e13e45b33`／`da27b4cee` 协作板与日志。
+commit（**未 push**）：本书共 **25 次** commit——批1–批19 逐章 · `90d7a45e3` 术语口径（witch=女巫，「巫师」误用清零）· `3792b32f3` 总览三篇与终验原件 · `3d8270371` 第二轮类级清扫（33 处）· `21ef1ceea` 第三轮清扫（26 处）+ lane ⑯ 死代码修复 + 4 个自建裁决器 · `36cf016dd` 实测档案 V 与模板坑字典 +8 条。**共享工具改动**：`scripts/check_xref_chapter.py` 已修死代码——**其他实例跑 lane ⑯ 时结果会从 0/0/0 变成实际条目**，若报 ⚠️ 移章属**只记不改、须人工读行**。
 
-门禁原件：`.memory/raw-gates/the-dues-don-ts-of-magic-by-delemhach/2026-10-20-final_gate_full.txt`
-明细：`.memory/daily/2026-10-20.md` 本书专节
+门禁原件：`.memory/raw-gates/.../2026-10-20-round3_gate_full.txt`（19 lane 全量输出）
+明细：`.memory/daily/2026-10-20.md` 本书专节 · 案例：`docs/实测档案/V_2026-10-20_第三轮_阴性对照与自撰标记残留.md`
 
 ### [2026-10-20 11:14 UTC] [DSH-Mac] → All
 
