@@ -7,11 +7,11 @@ modified: "2026-10-20"
 
 ## 本章导航
 
-**一句话概括**：楼上，露伊莎·费尔太太被领进正直人俱乐部三层的客房，问女仆 Charlotte 斯克罗奇是个什么样的人，得到的却是半句赞美、半句保留；楼下与街上，斯克罗奇与安布罗斯上尉动身去见 Giles，理由是他对那位女客许过诺言。
+**一句话概括**：与斯克罗奇、安布罗斯谈话的房间隔着三层楼，露伊莎·费尔太太正被女仆 Charlotte 领进客房，开口问斯克罗奇是个什么样的人，得到的却是半句赞美、半句保留；楼下与街上，斯克罗奇与安布罗斯上尉动身去见 Giles，理由是他对那位女客许过诺言。
 
-**信念弧线位置**：两条线都停在「尚未被证实」的位置——楼上 Charlotte 拿自己一辈子没变过的父亲反驳「人会变」，楼下斯克罗奇却正用行动证明自己变了；这个「变」在本章还没有人替他背书。
+**信念弧线位置**：两处「变」都被摆上台面却还没被说破——楼上 Charlotte 拿一辈子没变过的父亲作反例，又说斯克罗奇「到这儿以后」帮过不少人；楼下斯克罗奇则以「我们必须见他」的执意回应安布罗斯的疑问。本章里他还没有亲口认领「变」这个字。
 
-**母题兑现/反转**：本章把「改变」摆到了台面上。Charlotte 说斯克罗奇过去「名声就是刻薄的代名词」，这既是旧名声，也是新名声的反面；但她那个没说完的「不过……」也提醒读者，改过的名声底下仍压着没讲出口的事。
+**母题兑现/反转**：Charlotte 说斯克罗奇过去「名声就是刻薄的代名词」，这既是旧名声，也是新名声的反面；但她那个没说完的「不过……」也提醒读者，改过的名声底下仍压着没讲出口的事。
 
 **人物弧线**：费尔太太在本章露出身体的不支——疲惫、入睡、做噩梦、额上冒汗；斯克罗奇则从书房里的谈话转成雨中的奔走，他不再只是听，而要亲自去查。
 
@@ -25,7 +25,7 @@ modified: "2026-10-20"
 
 **关键词**：ever so kind and ever so generous / Such a good master / cast her eyes towards the ground
 
-**为什么这样写**：这一段把最热的赞美和最急的刹车放在同一口气里：三个短句一路推高，到「不过」那里突然断掉，紧接着一个垂眼的动作，把没说出口的话落到了地上。作者始终不解释她为什么停顿，那半句吞回去的话就成了本章埋下的第一个钩子。
+**为什么这样写**：这一段把滚烫的赞美和一脚急刹放在同一口气里：三个短句一路推高，到「不过」那里突然断掉，紧接着一个垂眼的动作，把没说出口的话落到了地上。作者始终不解释她为什么停顿，那半句吞回去的话就成了本章埋下的第一个钩子。
 
 **读者视角提示**：读到这里的读者会先记住那半句「不过……」——在这一段里，它比前面所有的赞美都重要。
 
@@ -37,7 +37,7 @@ modified: "2026-10-20"
 
 **关键词**：there are plenty who tell you / a byword for meanness
 
-**为什么这样写**：这一句把「他从前是什么人」交给了市井的一句谚语，而不是她自己的判断。用「代名词」来写一个人的品行，等于把品行说成一件可以穿戴的东西；作者借最普通的一种说法，压住这位女仆的分量，也把话题轻巧地递给了费尔太太。
+**为什么这样写**：这一句把「他从前是什么人」交给了市井的一句谚语，而不是她自己的判断。用「代名词」来写一个人的品行，等于把品行说成一件可以穿戴的东西；作者借平常的一种说法，压住这位女仆的分量，也把话题轻巧地递给了费尔太太。
 
 **读者视角提示**：这里的「从前」给斯克罗奇的变化留出了位置——名声有从前，才谈得上现在。
 
@@ -67,15 +67,15 @@ modified: "2026-10-20"
 
 ---
 
-> **原句 5:** "As she slept, she dreamed, and her dream was of that strange old house on the street called Brightwell Road. She saw again that which she had seen as a child, and at the memory of it, she turned pale and writhed and **moaned** in her sleep. Her thoughtful face soon shone, coated with perspiration."
+> **原句 5:** "As she slept, she dreamed, and her dream was of that strange old house on the street called Brightwell Road. She saw again that which she had seen as a child, and at the memory of it, she turned pale and writhed and moaned in her sleep. Her thoughtful face soon shone, coated with perspiration."
 
-**中文理解**：她睡着以后做了个梦，梦见的是布赖特韦尔街上那栋古怪的老房子。她又一次看见了自己童年时见过的东西；一想到那画面，她便脸色发白，在睡梦中扭动挣扎，脸上很快渗出一层汗。
+**中文理解**：她睡着以后做了个梦，梦见的是布莱特韦尔路上那栋古怪的老房子。她又一次看见了自己童年时见过的东西；一想到那画面，她便脸色发白，在睡梦中扭动挣扎，脸上很快渗出一层汗。
 
 **关键词**：that strange old house on the street called Brightwell Road / that which she had seen as a child / coated with perspiration
 
-**为什么这样写**：这一段把两条线索悄悄接上了：梦里那栋「古怪的老房子」有名字——布赖特韦尔街；而「童年时见过的东西」说明费尔太太与这栋房子的瓜葛早于今天。作者不解释她为什么怕，只给三个身体反应：脸色发白、睡中挣扎、额上出汗——恐惧是身体先说出来的。
+**为什么这样写**：这一段把两条线索悄悄接上了：梦里那栋「古怪的老房子」有名字——布莱特韦尔路；而「童年时见过的东西」说明费尔太太与这栋房子的瓜葛早于今天。作者不解释她为什么怕，只给三个身体反应：脸色发白、睡中挣扎、额上出汗——恐惧是身体先说出来的。
 
-**读者视角提示**：「as a child」这四个字是本章最重的一笔：读者会立刻意识到，费尔太太不是今天才第一次撞上这栋房子。
+**读者视角提示**：「as a child」这一句交代一出来，分量立刻不同：读者会意识到，费尔太太不是今天才第一次撞上这栋房子。
 
 ---
 
@@ -122,7 +122,7 @@ modified: "2026-10-20"
 | forthcoming | adj. 愿意给出的；（消息）即将到来的 | Her demeanour made it plain that further details were unlikely to be forthcoming. |
 | exhaustion | n. 精疲力尽；耗尽 | As she looked, she sensed the stirrings of that life which was growing within her and, with it, felt a pang of exhaustion. |
 | perspiration | n. 汗水；出汗 | Her thoughtful face soon shone, coated with perspiration. |
-| Brightwell | n. 布赖特韦尔（街名，本章梦里那栋老房子所在的那条街） | As she slept, she dreamed, and her dream was of that strange old house on the street called Brightwell Road. |
+| Brightwell | n. 布莱特韦尔（街名，本章梦里那栋老房子所在的那条街） | As she slept, she dreamed, and her dream was of that strange old house on the street called Brightwell Road. |
 
 ### ⭐⭐ 进阶
 
@@ -150,4 +150,4 @@ modified: "2026-10-20"
 
 ## 一句话总结
 
-两位男人把下一步说定在前面的 Giles 身上，一前一后走进越来越暗、越来越密的雨里；而楼上那位女客，正在梦见自己童年时见过的那栋老房子。
+两位男人把下一步定在去见 Giles 这件事上，一前一后走进越来越暗、越来越密的雨里；而楼上那位女客，正在梦见自己童年时见过的那栋老房子。
