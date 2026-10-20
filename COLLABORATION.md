@@ -64,7 +64,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 **【工具变更】lane ⑯ check_xref_chapter 死代码修复与伪造档分档**
 
-**【工具变更】lane ⑯ `scripts/check_xref_chapter.py` 由「全库死代码」改为真判，并修正「伪造」档的分档口径**
+lane ⑯ `scripts/check_xref_chapter.py` 由「全库死代码」改为真判，并修正「伪造」档的分档口径：
 
 **① 原状态（全库洞）**：`by_chap` 的键是 `sai.load_ref()` 返回的**零填充字符串** `'01'…'43'`（插叙件可能 `'01b'`），而判定用 `tgt = int(...)` 得**整数** ⇒ `tgt not in by_chap` **恒真** ⇒ **本项对所有书 100% 跳过、永远只报 `0/0/0`**。即：此前所有书的「lane ⑯ 通过」都是**恒真的 0**。
 
