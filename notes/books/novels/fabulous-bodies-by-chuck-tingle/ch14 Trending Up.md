@@ -33,10 +33,10 @@ modified: "2026-10-20"
 - **读者视角提示**：留意这句话与结局的呼应——Poppy 说「我们是无情的一方」，但 Eddie 最后一句 "Stop everything, Poppy" 证明真正的掌控者另有其人。
 
 > **原句 4:** "I turn my head, gazing back into the break room where my friend’s hollowed-out corpse rests haphazardly against the back wall, the pool of blood that soaks the floor around him growing larger by the second."
-- **中文理解**：Marlo 递来带血的钥匙，Poppy 顺着血迹转头，看见 Noah 的尸体歪斜地靠在休息室后墙上，身下的血泊每一秒都在扩大。此前她反复纠正自己的用词，但在这里她终于直面了画面本身。
+- **中文理解**：Marlo 递来带血的钥匙，Poppy 顺着血迹转头，看见 Noah 的尸体歪斜地靠在休息室后墙上，身下的血泊每一秒都在扩大。这一刻她直面了画面本身，而接下来才是那段著名的措辞挣扎。
 - **关键词**：hollowed-out、haphazardly
 - **为什么这样写**："hollowed-out"（被掏空的）与 "haphazardly"（歪斜凌乱的）两个形容词精确传达了 Noah 死状的残暴与荒谬。作者让 Poppy 的视线顺着血迹移动，用血泊的蔓延作为时间的度量——每一秒血都在扩大，既暗示她不能久留，也暗示她的内心正在决堤。
-- **读者视角提示**：注意 Poppy 前面那段著名的语言纠正（Corpse 这个词变得陌生，最后改成 Where Noah rests against the back wall）——她无法用职业词汇称呼朋友的尸体，这是她人性重新浮现的信号。
+- **读者视角提示**：注意 Poppy 紧接着那段著名的语言纠正（Corpse 这个词变得陌生，最后改成 Where Noah rests against the back wall）——她无法用职业词汇称呼朋友的尸体，这是她人性重新浮现的信号。
 
 > **原句 5:** "“No,” I tell her, scooping up the shotgun and climbing to my feet. I grab her by the hand and start pulling her along with me, heading back the way we came."
 - **中文理解**：Marlo 问「Uncle Noah 会没事吗？」，Poppy 犹豫了一瞬——她想到 Eddie 会教她说什么，而她不打算重蹈覆辙——最终选择诚实：「不会」。然后她捡起霰弹枪，拉着女儿原路撤离。

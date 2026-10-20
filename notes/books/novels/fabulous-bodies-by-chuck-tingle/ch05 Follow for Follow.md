@@ -45,7 +45,7 @@ modified: "2026-10-20"
 - **读者视角提示**：Poppy 的枪法与冷静都值得钦佩，但读者已经知道子弹伤不了 Eddie。这种「徒劳的专业」正是本章反复出现的主题。
 
 > **原句 6:** "It appears my bullet shattered the glass of the jukebox behind Eddie, cracking the mechanical arm and causing the record to skip through some incredible twist of fate. It begins to repeat the same two-second loop, Eddie’s wobbling serenade droning over and over again. “Like me. Like me. Like me. Like me. Like me.”"
-- **中文理解**：子弹穿过 Eddie 的头，只打坏了身后的点唱机。唱片卡在同一个两秒的循环里，反复播放着「Like me」，像一声怪异的嘲讽。
+- **中文理解**：子弹穿过 Eddie 的头，打坏了身后的点唱机。唱片卡在同一个两秒的循环里，反复播放着「Like me」，像一声怪异的嘲讽。
 - **关键词**：jukebox、loop
 - **为什么这样写**：点唱机故障把暴力场面转成荒诞的声效喜剧。「Like me」既是 Eddie 的成名歌词，也是他一切行为的浓缩——他需要被记住、被认同。两秒循环的唱片预示后文：Eddie 会不断重复他的诉求，直到 Poppy 真正听进去。
 - **读者视角提示**：「Like me」在整章里反复出现，既指歌名，也指 Eddie 对认可的渴望。注意这个词组的双关——他想要的从来不只是搭一趟车。
@@ -69,9 +69,9 @@ modified: "2026-10-20"
 - **读者视角提示**：记住这一段——Poppy 对 Eddie 的感情远超「粉丝对明星」。她愿意为他开枪，也可能愿意为他做更多事。这段情感会在后续章节持续左右她的选择。
 
 > **原句 10:** "The emotion is so pure and genuine that, for a moment, it seems to bring some warmth back into his body."
-- **中文理解**：车厢里响起六十年代老歌《Carry On》的吉他前奏，Eddie 苍白的脸上浮起一丝微笑。那表情纯粹而真诚，一瞬间仿佛让他的身体重新有了温度。
+- **中文理解**：车厢里响起老牌乐队 CSNY 的《Carry On》吉他前奏，Eddie 苍白的脸上浮起一丝微笑。那表情纯粹而真诚，一瞬间仿佛让他的身体重新有了温度。
 - **关键词**：genuine、warmth
-- **为什么这样写**：结尾用一首六十年代老歌和一抹微笑，为整章的血腥与荒诞提供温柔的出口。歌名「继续前行」与 Poppy 的处境形成互文，而「让他的身体重新有了温度」这一笔让尸体第一次显得像人——恐怖形象短暂地让位于人性。
+- **为什么这样写**：结尾用一首老歌和一抹微笑，为整章的血腥与荒诞提供温柔的出口。歌名「继续前行」与 Poppy 的处境形成互文，而「让他的身体重新有了温度」这一笔让尸体第一次显得像人——恐怖形象短暂地让位于人性。
 - **读者视角提示**：这是 Poppy 第一次在 Eddie 脸上看到真实的表情。留意「温度」这个意象——后文 Eddie 是冷是暖、是敌是友，都会与这个瞬间产生关联。
 
 ## 本章词汇

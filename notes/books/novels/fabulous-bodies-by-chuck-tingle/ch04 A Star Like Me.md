@@ -21,7 +21,7 @@ modified: "2026-10-20"
 - **读者视角提示**：这个开头延续了 ch01 的「格言式叙事」风格——Poppy 喜欢用看似深刻的总结为自己开脱，而读者应警惕她的自我合理化。
 
 > **原句 2:** "That money represents an even better life for Marlo. It’s a private school and an Ivy League college. Most of all, it’s more time with her."
-- **中文理解**：Poppy 说服自己接受这笔交易：五百万意味着 Marlo 能上私立学校和常春藤大学，最重要的是，她能减少工作、多陪女儿。
+- **中文理解**：Poppy 说服自己接受这笔交易：这笔已经到账的五十万定金意味着 Marlo 能上私立学校和常春藤大学，最重要的是，她能减少工作、多陪女儿。
 - **关键词**：represents、private school
 - **为什么这样写**：作者让 Poppy 用「为了孩子」这个最正当的理由为自己的非法行为辩护。三个递进（学校、大学、更多时间）显示她的优先级——最后一个是她真正的渴望。「更多时间陪女儿」这个目标与她正在做的「深夜偷尸体」形成残酷反差。
 - **读者视角提示**：这是 Poppy 的核心动机，也是她所有自我欺骗的源头。记住这一点，再看她后来的选择。
@@ -59,7 +59,7 @@ modified: "2026-10-20"
 > **原句 8:** "Eddie’s shelf is empty, a pair of loose straps hanging down and snaking across the floor."
 - **中文理解**：Poppy 绕到车后发现 Eddie 的隔间空空如也，松开的带子垂下来，蛇一样拖在地上——尸体在行驶中掉出去了。
 - **关键词**：empty、straps
-- **为什么这样写**：作者用「snaking」这个动词让无生命的带子显得像活物，强化恐怖氛围。上一章的「strap broke」伏笔在此以更糟的方式应验——这次不是带子断了，是整具尸体消失了。这是全书「失控」的起点。
+- **为什么这样写**：作者用「snaking」这个动词让无生命的带子显得像活物，强化恐怖氛围。第一章的「strap broke」伏笔在此以更糟的方式应验——这次不是带子断了，是整具尸体消失了。这是全书「失控」的起点。
 - **读者视角提示**：注意「strap」这个意象：ch01 里 Poppy 的货车带子就坏过，她一直拖延修理。现在这个隐患在最重要的交易上爆发了——她的事业建立在「凑合」之上。
 
 > **原句 9:** "“Show’s about to begin,” comes a deep voice. “Take a seat in the dining room.”"
