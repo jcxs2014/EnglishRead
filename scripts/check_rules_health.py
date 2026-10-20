@@ -1,0 +1,113 @@
+#!/usr/bin/env python3
+"""规则文档健康检查 —— 防「重构完三个月又长回 171KB」。
+
+为什么需要它
+------------
+2026-10-20 的重构把「开工必读」从 171,990 字符压到 6,019 字符，靠的是**拆分 + 删重**。
+但历史上同一件事失败过四次（`docs/实测档案/X_2026-10-20_规则体系审计与重构依据.md`）：
+模板从 20,817 B 长到 226,721 B，期间文件头写着 9 处「唯一副本」而 4 处已失效。
+**拆分只是把乱麻剪开，不设守卫就会重新缠上。**
+
+三条判据（都是「当场可数」的，不做语义判断）
+--------------------------------------------
+1. **注入预算**：`AGENTS.md` 字符数必须 ≤ 4,882（三次实测的最小自动注入预算）。
+   超了就等于「有人要背一段看不见的规则」——这是唯一硬指标。
+2. **路由可达**：`docs/rules/*.md` 每一份都必须在 `AGENTS.md` 的路由表里出现（按 basename），
+   否则它就是一份**没有入口的规则**——写了也没人会读。
+3. **引用不悬空**：`docs/`、`.memory/`、`scripts/` 下的路径引用必须真实存在。
+   2026-10-20 拆分当场扫出 8 处悬空引用。
+
+退出码：0 全部通过；1 有阻断（预算超标 / 路由缺失 / 悬空引用）。
+提示型（硬编码数字）不阻塞，只列出来。
+"""
+from __future__ import annotations
+
+import re
+import subprocess
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+AGENTS = ROOT / "AGENTS.md"
+RULES_DIR = ROOT / "docs" / "rules"
+INJECT_BUDGET = 4882  # 字符数，不是字节
+
+# 只查这几种前缀，避免把书里的相对路径误判成文档引用
+PATH_RE = re.compile(r"`((?:docs|\.memory|scripts)/[^`\s]+?)(?:#L\d+(?:-L\d+)?)?`")
+NUM_RE = re.compile(r"(\d+)\s*(?:个|条)\s*(?:lane|检查器)")
+# 这两份是**过程文档**（怎么重构 / 迁移进度），不是运行期规则，不需要 AGENTS 入口
+NOT_ROUTED = {"PLAN.md", "MIGRATION.md"}
+
+
+def strip_code_blocks(text: str) -> str:
+    """去掉 ``` 代码块：里面的路径是给人复制的命令示例，不是文档引用。"""
+    return re.sub(r"```.*?```", "", text, flags=re.S)
+
+
+def main() -> int:
+    bad: list[str] = []
+    warn: list[str] = []
+
+    if not AGENTS.exists():
+        print("❌ 找不到 AGENTS.md")
+        return 1
+    agents = AGENTS.read_text(encoding="utf-8")
+
+    # —— 1. 注入预算 ——
+    n = len(agents)
+    if n > INJECT_BUDGET:
+        bad.append(f"AGENTS.md {n} 字符 > 预算 {INJECT_BUDGET}（超出 {n - INJECT_BUDGET}）")
+    else:
+        print(f"✅ AGENTS.md {n} 字符 / 预算 {INJECT_BUDGET}")
+
+    # —— 2. 路由可达 ——
+    missing_route = []
+    for f in sorted(RULES_DIR.glob("*.md")):
+        if f.name in NOT_ROUTED:
+            continue
+        if f.name not in agents:
+            missing_route.append(f.name)
+    if missing_route:
+        bad.append("docs/rules/ 下没有入口（AGENTS.md 路由表未提及）：" + "、".join(missing_route))
+    else:
+        print(f"✅ docs/rules/{len(list(RULES_DIR.glob('*.md')))} 份全部有入口")
+
+    # —— 3. 引用不悬空 ——
+    dangling = []
+    for f in [AGENTS, *sorted(RULES_DIR.glob("*.md"))]:
+        text = strip_code_blocks(f.read_text(encoding="utf-8"))
+        for m in PATH_RE.finditer(text):
+            p = m.group(1).rstrip("，。；、)")
+            if p.endswith("/") or any(c in p for c in "<>*…"):
+                continue  # 占位符/通配符不是真引用
+            if not (ROOT / p).exists():
+                dangling.append(f"{f.name} → {p}")
+    if dangling:
+        bad.append("悬空引用：" + "；".join(sorted(set(dangling))[:8]))
+    else:
+        print("✅ 路径引用全部存在")
+
+    # —— 提示型：硬编码数字 ——
+    for f in [AGENTS, *sorted(RULES_DIR.glob("*.md"))]:
+        text = strip_code_blocks(f.read_text(encoding="utf-8"))
+        for m in NUM_RE.finditer(text):
+            line = text[: m.start()].count("\n") + 1
+            warn.append(f"{f.name}:{line} 硬编码「{m.group(0)}」→ 改成「以现场为准」或去掉数字")
+
+    print()
+    for w in warn[:10]:
+        print(f"⚠️  {w}")
+    if len(warn) > 10:
+        print(f"⚠️  …另有 {len(warn) - 10} 处")
+    for b in bad:
+        print(f"❌ {b}")
+    print()
+    if bad:
+        print("结论：❌ 有阻断（规则文档正在重新变胖 / 丢入口 / 断链）")
+        return 1
+    print("结论：✅ 规则文档健康")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
