@@ -33,7 +33,7 @@ modified: "2026-10-20"
 
 > **原句 2:** "To begin with I am distracted by her eyebrows, which are heavily etched in unnervingly symmetrical arcs of black, as if tattooed, and I have to refrain from staring at them. Surely any form of perfection on the face is counterproductive, more likely to render us sceptical than appreciative."
 
-**中文理解**：一开始我被她的眉毛吸引住——两道眉毛被描得极重，弧线对称得让人不安，像纹上去的一样；我不得不克制自己不去盯着看 surely。任何一种面部的完美都适得其反，更可能让人起疑，而不是欣赏。
+**中文理解**：一开始我被她的眉毛吸引住——两道眉毛被描得极重，弧线对称得让人不安，像纹上去的一样；我不得不克制自己不去盯着看。任何一种面部的完美都适得其反，更可能让人起疑，而不是欣赏。
 
 **关键词**：heavily etched in unnervingly symmetrical arcs of black / as if tattooed / I have to refrain from staring / any form of perfection on the face is counterproductive / more likely to render us sceptical than appreciative
 
@@ -87,7 +87,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：一句反击把访谈的节奏整个扳了回来：她不再是被研究的对象，而是把研究者放回了顾客的位置。而马瑟立刻承认这一刻的价值——「这是一个我希望在任何访谈早期就抵达的时刻，它说明我的受访者不是傻子」。**专业性在此被定义为一种机敏**，而不是学位。
 
-**读者视角提示**：注意玛丽用的是「my experience」（我的经历）——不预设「那是妄想」的对立面，也不带「其实发生了什么」那种修正。和安东尼的「I saw what I saw」一样，她的用词已经预设了事情为真。
+**读者视角提示**：注意玛丽用的是「my experience」（我的经历）——不预设「那是妄想」的对立面，也不带「其实发生了什么」那种修正。和**第一章那位病人**（不是安东尼）的「I saw what I saw」一样，她的用词已经预设了事情为真。
 
 ---
 
@@ -157,7 +157,7 @@ modified: "2026-10-20"
 
 **关键词**：I lost all sense of time / as if time didn’t exist / floating out the window, floating on a beam of light / this weird room, this weird shiny room / Everything was made of a silvery metal / Then I knew. I knew I was in a spaceship
 
-**为什么这样写**：这段是全章最完整的一次「异世界转场」，而作者让它的句法与安东尼那次**完全同构**——同样先说时间不存在，同样「Then I knew」。这种平行被马瑟在原句 14 一笔点破。而细节上的差异也重要：安东尼的飞船是钢与荧光灯，玛丽的是银色金属与圆形巨灯；两人都没看见驾驶者。
+**为什么这样写**：这段是全章最完整的一次「异世界转场」，而作者让它的句法与安东尼那次**完全同构**——同样先说时间不存在，同样「Then I knew」。这种平行被马瑟在**原句 13 之后**的那句插话一笔点破（原文紧接 telepathic 之后就是「That word again: Anthony had used it.」）。而细节上的差异也重要：安东尼的飞船是钢与荧光灯，玛丽的是银色金属与圆形巨灯；两人都没看见驾驶者。
 
 **读者视角提示**：注意「然后我就知道了」这个句式——**知道**先于**解释**。马瑟全书要处理的就是这个次序。
 
@@ -169,7 +169,7 @@ modified: "2026-10-20"
 
 **关键词**：I don’t know, I just knew / Maybe it was telepathic
 
-**为什么这样写**：两个字的信息（「心灵感应」）承担了整本书的重量。马瑟在此处没有插入评论，只在下一行写了一句话：That word again: Anthony had used it.（又是这个词：安东尼也用过。）——**两个互不相识的人，在不同国家、不同职业、不同的飞船里，用了同一个词。** 这是全书最硬的一块证据，而它只有六个字母。
+**为什么这样写**：一个词的信息（「心灵感应」／telepathic）承担了整本书的重量。马瑟在此处没有插入评论，只在下一行写了一句话：That word again: Anthony had used it.（又是这个词：安东尼也用过。）——**两个互不相识的人，在不同国家、不同职业、不同的飞船里，用了同一个词。** 这是全书最硬的一块证据，而这个**词只有十个字母**（telepathic）。
 
 **读者视角提示**：作者把这句评论单独成行，因为它就是全书的方法：把被试的说法并排放着，让模式自己说话。
 
@@ -229,7 +229,7 @@ modified: "2026-10-20"
 
 **关键词**：I find that I am holding my breath / It is one thing to read an account…another to hear it told / Mary is describing a form of rape / And yet her self-possession is remarkable / I had anticipated symptoms of hysteria but so far there have been none
 
-**为什么这样写**：医生在此把自己的反应**写进记录**：他屏住了呼吸——这是叙述者身上第一次出现不受控的生理反应。他还明确写下「一种强奸」这个判断，这是他第一次使用暴力语言。而最锋利的一句是「我原本预期会出现癔症的症状」：他的框架在抵抗这段叙述。
+**为什么这样写**：医生在此把自己的反应**写进记录**：他屏住了呼吸——这是叙述者身上第一次出现不受控的生理反应。他还明确写下「一种强奸」这个判断——而他早在**前一章**（ch04）就用过「technological rape」这样的暴力措辞，这里不是第一次。而最锋利的一句是「我原本预期会出现癔症的症状」：他的框架在抵抗这段叙述。
 
 **读者视角提示**：这一段是马瑟全书方法论的张力点：他的诊断工具（癔症）与他的道德判断（强奸）同时启动，而玛丽既不符合前者，又完全符合后者。
 
@@ -255,7 +255,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：这段同时做了两件事：把恐惧从**身体**转到**地球**，于是受害变成使命；而「not our lovely Earth」（不是我们这个可爱的地球）这半句，把一个正在目睹末日的叙述者与一个爱自己星球的人绑在一起——「lovely」这个词让末世画面有了一种温柔的底色。
 
-**读者视角提示**：注意画面与第一章那些「一次性杯子和手机屏幕」是同一个物件：一块大屏幕。它在小说开始时是人们低头看的屏幕，在这里是外星人展示地球命运的屏幕。
+**读者视角提示**：注意画面与第一章的**手机屏幕**是同一种意象：人们低头看的小屏幕，在这里变成外星人展示地球命运的大屏幕。（第一章的另一个意象是「一次性杯子」，那与这里并不对应。）
 
 ---
 
@@ -267,7 +267,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：三个短句，每句都比前一句更短，像一段布道词的口吻——这是全书第一次让当事人的语言具有**公共性**。而「我们在杀死自己」这个指认，把责任从外星人转回人类，也把玛丽从受害者转成了控告者。
 
-**读者视角提示**：这一章里「我们」这个词第一次出现在重大语境上。此前全书用的是「我」和「你」。
+**读者视角提示**：这一章里「我们」这个词第一次出现在**她自己的话语**的重量上——但要说「此前全书用的是我和你」并不成立：第一章的「we were attracted to one another」、第五章的「we are a cabal of two」、第六章马瑟那段「most of us consent to a common definition of what is real」都早已用过这个复数。
 
 ---
 
@@ -303,7 +303,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：身体的动作与话语被并置：她把手臂交叠在**腹部**（被取走卵子的地方），闭着眼睛。这是叙述层最经济的一次写法——不解释心理，只给姿势。而「我不再是原来的我」这句话的分量，要等到下一段才落地。
 
-**读者视角提示**：这个姿势与本章稍后那个纸巾盒并置：她讲到高潮处伸手取纸巾、揩眼角，讲到被取走卵子时双臂交叠在腹部——身体记得哪里被碰过。
+**读者视角提示**：这个姿势与本章**前文**那个纸巾盒并置：她讲到高潮处伸手取纸巾、揩眼角，讲到被取走卵子时双臂交叠在腹部——身体记得哪里被碰过。
 
 ---
 

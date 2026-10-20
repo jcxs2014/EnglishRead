@@ -93,7 +93,7 @@ modified: "2026-10-20"
 
 > **原句 7:** "‘Why do you want to get mixed up with nutters and attention seekers?’ he asked in a low, confidential tone. ‘A dead end, surely.’"
 
-**中文理解**：「你为什么要跟一群疯子和注意力 seekers 掺和？」他压低声音、像是私下机密地问，「肯定是一条死路。」
+**中文理解**：「你为什么要跟一群疯子和一心求关注的人掺和？」他压低声音、像是私下机密地问，「肯定是一条死路。」
 
 **关键词**：get mixed up with nutters and attention seekers / in a low, confidential tone / A dead end, surely
 
@@ -121,7 +121,7 @@ modified: "2026-10-20"
 
 **关键词**：It’s always been there / you keep it hidden
 
-**为什么这样写**：黛博拉用一句几乎像谜语的话结束这场争执，指向的是上一章的「quixotic streak」（堂吉诃德式的癖性）。作者让她比马瑟更了解他，也让读者第一次怀疑：叙述者声称的「我完全自主的决定」是否真的成立。而「藏着」这个词，直接预告了本章后半段——旧伤、止痛药、少年史，也全是被藏起来的东西。
+**为什么这样写**：黛博拉用一句几乎像谜语的话结束这场争执，指向的是**本章上文**那句「quixotic streak」（堂吉诃德式的癖性）——它出现在这场争执开始前不久（原文「You've always had a quixotic streak,' she said」），并不是上一章的东西。作者让她比马瑟更了解他，也让读者第一次怀疑：叙述者声称的「我完全自主的决定」是否真的成立。而「藏着」这个词，直接预告了本章后半段——旧伤、止痛药、少年史，也全是被藏起来的东西。
 
 **读者视角提示**：这是全书最能说明叙述者处境的一句台词：他把自己的一生叙述成一份独立档案，而全书正是在逐条核对这份档案里被藏起来的部分。
 
