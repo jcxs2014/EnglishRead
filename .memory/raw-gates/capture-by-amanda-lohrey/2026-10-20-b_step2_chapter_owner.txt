@@ -1,0 +1,11 @@
+### b 步 · 逐章归属（第二实现 rev_chapter_owner.py：连续词序列 + 邻章泄漏 + 首尾句分章）
+=== b 步独立实现 · 逐章归属（连续词序列，非 flat 指纹）===
+  引语块 568 条
+  ❌ 本章查无：0
+  ⚠️ 邻章也出现（跨章搬句）：0
+  ⚠️ 首/尾句不在本章（跨章缝句）：0
+  结论：全部在章、且首尾句同章
+退出码=0
+
+### b 步 · 官方 check_chapter_quotes 逐章（gate ⑦ 同口径复跑）
+Usage: scripts/check_chapter_quotes.py <NN> "<md_file>" [--out-dir <dir>] [--book-dir <book_dir>]

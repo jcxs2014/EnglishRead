@@ -1,0 +1,125 @@
+### a 步 · 语料层（锚点：逐条用工具自身 has_token 自验过「只在本章出现 + 连续」）
+### 时间：2026-10-20 10:35 UTC
+### 注：本轮 FAIL→OK 属**假红型**（前两次锚点规格写错：①用了跨章常驻人物 ②用了普通英语词 ③用了含撇号的词序列）
+
+$ verify_corpus.py --anchors <逐章独有实体/短语>
+=== 语料层验收（P0-0）: capture-by-amanda-lohrey ===
+text/ 件数: 37
+  [1] 件数 37 == 预期 37  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 37 组 / 互查 1332 组  OK
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (121 句)
+      首| How vividly I recall that morning on the first day of my folly.
+      末| ‘I’m certain of it.’
+    ch02 (10 句)
+      首| That Helena Wolf of all people should think it worth pursuing an inconsequential mania surprised
+      末| I saw in these people, these captives of alien life, the north pole of the suicidal: outrageousl
+    ch03 (96 句)
+      首| There were preliminaries.
+      末| I could not have been more wrong.
+    ch04 (415 句)
+      首| Anthony
+      末| Surrounded by all that high-tech carnage and degradation, by the dead and destroyed, in which hi
+    ch05 (49 句)
+      首| I should say something here about the setting for the sessions that I conduct with my subjects, 
+      末| Such is our ease together that from the very beginning it feels like we are a cabal of two.
+    ch06 (67 句)
+      首| Café Europa
+      末| How could we function if we didn’t?’
+    ch07 (263 句)
+      首| Mary
+      末| Fantasies of this order can perform the classic compensatory function of making up for experienc
+    ch08 (16 句)
+      首| I have begun this account of my research with the case studies of Anthony and Mary because both 
+      末| ‘If you’re not careful, you’ll end up believing them.’
+    ch09 (115 句)
+      首| Café Europa
+      末| In buying another brioche and eating it, that is, consuming myself, I was at least in control.
+    ch10 (14 句)
+      首| I search for a common thread that will link my subjects but can find none.
+      末| Lucy refers to these cases as my blanks, though some prove to be more revealing than others.
+    ch11 (380 句)
+      首| Scott
+      末| ‘Well, I guess that’s it for now,’ he says.
+    ch12 (51 句)
+      首| Café Europa
+      末| But she is gazing out the window, a cascade of thoughts unspooling in the air around her.
+    ch13 (123 句)
+      首| Griffin
+      末| For now, it is all about the bread; the bread is his terra firma.
+    ch14 (60 句)
+      首| Bernard
+      末| For the first time in these sessions, I have failed: I was not in control of my feelings.
+    ch15 (216 句)
+      首| Felicity
+      末| The kiss is warm and firm and tastes of strawberry protein powder.
+    ch16 (22 句)
+      首| To the opera that evening.
+      末| For the duration of Act IV, I am content with their company.
+    ch17 (121 句)
+      首| Café Europa
+      末| His light sabre lies safely between his feet.
+    ch18 (71 句)
+      首| Dinner at the home of Deborah’s boss, the state’s chief archivist, Hector Rinaldi, and his husba
+      末| How might a theologian interpret what, by any criteria, had been a religious experience?
+    ch19 (236 句)
+      首| Yvette
+      末| But as I tear away each layer, another appears, and another, and another…
+    ch20 (149 句)
+      首| Café Europa
+      末| What I will one day miss most about Lucy is not her deadpan take on things, though I’ve come to 
+    ch21 (114 句)
+      首| Helena Wolf phones.
+      末| ‘Excursions into self-artistry.’
+    ch22 (170 句)
+      首| Maxim
+      末| At the bottom of the iron staircase I push at the red metal fire door, which now offers little r
+    ch23 (88 句)
+      首| The Monday after my treatment I report to Lucy.
+      末| In her cool, undemonstrative way she rebukes me.
+    ch24 (220 句)
+      首| Hugo
+      末| Outside her apartment complex, in my car parked beside the kerb, we share a complicit smile.
+    ch25 (42 句)
+      首| In her work on the world’s memory my wife is away more often and I miss the comfort of her prese
+      末| It is not, after all, my shrine.
+    ch26 (109 句)
+      首| The wild spring winds arrive with blustery showers of rain and occasional short bursts of hail.
+      末| The notes I make after this session are perfunctory, mere jottings.
+    ch27 (84 句)
+      首| Café Europa
+      末| I think I’d better speak up for you while I still have credibility.’
+    ch28 (21 句)
+      首| What remains?
+      末| Helena
+    ch29 (18 句)
+      首| Little by little, like a reservoir on slow release, my restlessness ebbs away.
+      末| The aliens came to warn us; they came because the Earth mattered.
+    ch30 (31 句)
+      首| The blustery spring winds subside and the air is fresh after the rain.
+      末| I put my arms around her shoulders and, for the first time since we began our work together, we 
+    ch31 (79 句)
+      首| Incubatio
+      末| The dream room became the incubatio: in the dream, new meanings are hatched.
+    ch32 (25 句)
+      首| Dear Dr Mather,
+      末| Anthony Grayson
+    ch33 (22 句)
+      首| Hello Dr Mather,
+      末| Mary Kendall
+    ch34 (21 句)
+      首| Salutations, Doc, and thanks for yours.
+      末| PS: I haven’t told Maggie about my experience, she might think I’m not a good bet.
+    ch35 (9 句)
+      首| Dear Dr M,
+      末| Yvette Kerslake
+    ch36 (20 句)
+      首| Dear Dr Mather,
+      末| A failure on my part; I misread him.
+    ch37 (49 句)
+      首| On the first official morning of summer, I drive to my rooms in the city to organise the termina
+      末| I order a savoury brioche and leave it on the plate untouched.
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
