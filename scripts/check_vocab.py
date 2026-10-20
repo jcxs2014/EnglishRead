@@ -66,6 +66,25 @@ check_vocab.py — 词汇表真实性/分档检测（逐章版）
      多数派只抓"这一篇缺了同侪都有的章节"——正是空文件那类真缺陷。
    - 阈值 50% 与 60% 实测结果完全相同（不敏感）。
    - 总览三篇排除：前缀 `00_` / **`00 `（空格，实测存在）** / 裸名（概述.md）。
+
+改动（v5，2026-10-20）——堵「例句=词头」变通
+------------------------------------------------
+背景：修复批出现两类机械化绕过，让 `example_ok` 判真而实际例句无信息量：
+  - `| dread | 恐惧 | 恐惧；dread |`（beware-the-abbott-boys 实证）：例句列
+    混入中文释义，flat 后只剩英文词头，词头又来自本章 ⇒ 整句命中、门禁全绿。
+  - `| verisimilitude | … | verisimilitude |`（the-book-of-the-dead 实证）：
+    例句列直接复制词头裸词，同样 flat 命中。
+新增两个 FAIL 判据 + 一个 WARN：
+  3a. 例句列出现中文字符 ⇒ FAIL（例句列必须是英文原文，混入释义/注释即违规）。
+  3b. 例句 flat == 词头 flat，且词头在原文中**不是**独立引用单元、例句又不含
+      引号/句子标点 ⇒ FAIL（裸词头占位）。
+  3c. 同上但例句带引号/标点 ⇒ WARN（带引号变通，提示审查）。
+      ⚠️ 词头在原文中确为独立引用单元（对话单词语句如 "Impressive."、短语独立
+      成句、专名独立出现）⇒ 豁免，不报 FAIL/WARN——用 head_standalone_in_raw
+      在原始 text/ 中检查引号包裹或独立成句边界。
+⚠️ 2026-10-20 全库扫描校准：`ef==hf` 共 11,650 行，其中 10,509 行是带引号/标点
+的合法对话单词语句（如 `"Impressive."`），纯长度判据会误伤它们，故不采用
+「长度 ≤ 词头长度」判据，改用上述形态判据。
 """
 import re, sys, glob, os, zipfile, html as htmlmod, unicodedata
 
@@ -243,6 +262,9 @@ def _basic_over_scope(words):
     return False
 PH_HIT    = re.compile(r'^[—\-]\s*$')            # 例句列 = 纯占位
 NO_HIT    = re.compile(r'^\s*no\s*$', re.I)      # 例句列 = no
+HAN_RE    = re.compile(r'[\u4e00-\u9fff]')        # 例句列禁中文（v5）
+END_PUNCT_RE = re.compile(r'[.?!。！？]')          # 句子结束标点（v5 单词语句豁免）
+QUOTE_RE  = re.compile(r'["\'\u201c\u201d\u2018\u2019]')  # 引号（v5 单词语句豁免）
 ANN_HIT   = re.compile(r'[（()](可略|未出现|未在|此处未用|可省|略|见高级|见ch)[)）]')  # 释义自标（含全角/半角括号 + 扩展关键词）
 EPUB_SENTINEL = re.compile(r'\[以下例句未出现在原文，[^\]]+\]', re.IGNORECASE)
 # ⚠️ ANN_HIT 要求关键词后**紧接**右括号，于是 `（未出现在原文）` 里夹着的
@@ -349,7 +371,12 @@ def expected_roles_for_book(paths):
 
 
 def resolve_cols(cells):
-    """按**表头名**定位 entry/meaning/example 列号。返回 (ei, mi, xi)。
+    """按**表头名**定位 entry/meaning/example 列号。返回 (ei, mi, xi, exam_hdr)。
+
+    exam_hdr=True 表示表头真的含「例句」列；False 表示 xi 是回退列
+    （无例句表头时取最后一个含 ≥8 字母数字的列）。v5 判据 3a/3b/3c
+    只对 exam_hdr=True 生效——否则「词/短语|难度|释义」这类无例句列表格
+    的中文释义会被当成例句，误报「例句列混入中文」。
 
     找不到可识别的表头时返回 None，由调用方回退旧口径 (0, 1, 2)。
     分档表头行（`⭐⭐⭐ 高级 | 释义 | 例句`）无 entry 列 → entry 缺省 0。
@@ -369,6 +396,7 @@ def resolve_cols(cells):
     ei = find(HDR_ENTRY)
     mi = find(HDR_MEAN, skip=(ei,) if ei is not None else ())
     xi = find(HDR_EXAM, skip=tuple(i for i in (ei, mi) if i is not None))
+    exam_hdr = xi is not None
     if xi is None:
         # 无「例句」表头 → 最后一个含 ≥8 字母数字的列（兼容 4 列无名表头）
         skip = {i for i in (ei, mi) if i is not None}
@@ -385,7 +413,7 @@ def resolve_cols(cells):
         return None
     if xi == ei:                      # 例句列与词头列重合 → 判定不可信，回退
         return None
-    return ei, mi, xi
+    return ei, mi, xi, exam_hdr
 
 
 
@@ -398,7 +426,11 @@ def load_epub_book(epub_path):
 
 
 def load_chapter_corpora(book_dir):
-    """Return {nn: flat_alpha_text} for all text/chNN*.txt in book_dir.
+    """Return (corpora, raw_corpora): {nn: flat_alpha_text} 与 {nn: raw_text}。
+
+    raw_corpora 供 v5 判据 3b/3c 使用：判断词头在原文中是否以独立引用单元
+    （引号包裹/独立句子）出现，以区分「对话单词语句」（合法）与
+    「例句=词头」占位变通（违规）。
 
     2026-09-28 修正 `ch18a` 类编号冲突：原正则 `ch(\\d+)` 把 `ch18a_the_cop…`
     与 `ch18_oh_whistle…` 同映射为 18，后 glob 者覆盖前者 ⇒ ch18a 的 md 被
@@ -407,6 +439,7 @@ def load_chapter_corpora(book_dir):
     """
     text_dir = os.path.join(book_dir, 'text')
     corpora = {}
+    raw_corpora = {}
     if os.path.isdir(text_dir):
         for f in glob.glob(os.path.join(text_dir, 'ch*.txt')):
             m = re.match(r'ch(\d+)([a-z]?)', os.path.basename(f))
@@ -417,7 +450,8 @@ def load_chapter_corpora(book_dir):
                 # Strip CSS @page { ... } blocks (appear at top of epub-extracted text files)
                 raw_txt = re.sub(r'@page\s*\{[^}]*\}', '', raw_txt)
                 corpora[nn] = flat(raw_txt)
-    return corpora
+                raw_corpora[nn] = raw_txt
+    return corpora, raw_corpora
 
 
 def load_book_corpus(book_dir, chapter_corpora):
@@ -501,8 +535,37 @@ def example_ok(example, corpus):
     return False, '例句未命中本章'
 
 
+def head_standalone_in_raw(head, raw):
+    """词头是否在原文中作为独立引用单元出现（引号包裹 / 独立成句）。
+
+    v5 判据 3b/3c 用：例句 flat == 词头 flat 时，若词头在原文中确实以
+    独立引用形式出现（对话单词语句、短语独立成句、专名独立出现），
+    则「例句=词头」是合法词条配例句；否则是占位变通。
+    2026-10-20 全库校准：society-of-lies 多词短语词条（词头本身就是完整
+    句子，例句即原文出现）在此判 True，避免 WARN 噪声。
+    """
+    if not head or not raw:
+        return False
+    h = head.strip().strip('"\'“”‘’')
+    if not h:
+        return False
+    # 1) 引号包裹："h" / 'h' / “h” / ‘h’（弯引号按各自配对）
+    for q, c in [('"', '"'), ("'", "'"), ('\u201c', '\u201d'), ('\u2018', '\u2019')]:
+        if re.search(re.escape(q) + re.escape(h) + re.escape(c), raw, re.IGNORECASE):
+            return True
+    # 2) 独立成句：词边界 + 后接句子结束标点（.?!）/引号/行尾，前非字母。
+    #    ⚠️ 不能含 `\s`——普通文本词后必有空格，含 \s 会把「更大句子中的
+    #    普通出现」误判为独立引用单元（the-book-of-the-dead 实测 19 条
+    #    裸词头变通因此全部假豁免）。
+    pat = (r'(?<![A-Za-z])' + re.escape(h) +
+           r'(?![A-Za-z])(?=[.?!\u201d"\'\u2019]|$)')
+    if re.search(pat, raw, re.IGNORECASE):
+        return True
+    return False
+
+
 def check_book(book_dir, verbose=False):
-    chapter_corpora = load_chapter_corpora(book_dir)
+    chapter_corpora, raw_corpora = load_chapter_corpora(book_dir)
     book_corpus, corpus_src = load_book_corpus(book_dir, chapter_corpora)
 
     fails, warns = [], []
@@ -594,7 +657,8 @@ def check_book(book_dir, verbose=False):
         in_vocab = not has_vocab_sec          # 无节标题时全文件都算
         sec_name = '(全文)'
         stray = {}                            # 节名 → 被排除的词条形行数
-        hdr = None                            # 表头定位结果 (ei, mi, xi)
+        hdr = None                            # 表头定位结果 (ei, mi, xi, exam_hdr)
+        has_exam_hdr = False                  # 表头真含「例句」列（v5 判据前置）
         prev_cells = None                     # sentinel 之前那一行 = 候选表头
         for line in lines:
             s = line.strip()
@@ -602,7 +666,7 @@ def check_book(book_dir, verbose=False):
             if H2_PAT.match(s):
                 in_vocab = (not has_vocab_sec) or bool(VOCAB_SEC.match(s))
                 sec_name = s.lstrip('#').strip()
-                tier = None; hdr = None; prev_cells = None
+                tier = None; hdr = None; has_exam_hdr = False; prev_cells = None
                 continue
             hm = TIER_PAT.match(s)
             if hm:
@@ -610,7 +674,7 @@ def check_book(book_dir, verbose=False):
                 #    所以**必须把英文档位名归一成中文**，否则 TIER_PAT 加认英文别名只是让
                 #    tier 变成一个谁都不比的值——分档检查照旧静默跳过（比不改更坏：看着像修了）。
                 tier = TIER_CANON.get(hm.group(1).lower(), hm.group(1))
-                hdr = None; prev_cells = None
+                hdr = None; has_exam_hdr = False; prev_cells = None
                 continue
             if not s.startswith('|'):
                 prev_cells = None
@@ -620,6 +684,7 @@ def check_book(book_dir, verbose=False):
                 # sentinel **之前**那一行。取到就定位列号（第一版误把 sentinel
                 # 之后的行当表头，导致数据行被解析 → 假 FAIL）。
                 hdr = resolve_cols(prev_cells) if prev_cells else None
+                has_exam_hdr = bool(hdr and hdr[3])
                 prev_cells = None
                 continue
             cells = [c.strip() for c in s.strip('|').split('|')]
@@ -627,7 +692,7 @@ def check_book(book_dir, verbose=False):
                 prev_cells = None
                 continue
             prev_cells = cells                   # 供下一条 sentinel 回填用
-            ei, mi, xi = hdr if hdr else (0, 1, 2)
+            ei, mi, xi = hdr[:3] if hdr else (0, 1, 2)
             if ei >= len(cells) or not re.search(r'[A-Za-z]{2,}', cells[ei]):
                 continue
             if not in_vocab:
@@ -659,6 +724,30 @@ def check_book(book_dir, verbose=False):
             if ANN_HIT.search(meaning) or EPUB_SENTINEL.search(example):
                 fails.append((name, tier, '释义含自标绕过注释（未出现在原文/可略）', entry))
                 continue
+            # 3a. 例句列混入中文（v5，2026-10-20）
+            #     `| dread | 恐惧 | 恐惧；dread |` 假修复：把释义写进例句列，
+            #     flat 后只剩英文词头，词头又来自本章 ⇒ example_ok 整句命中。
+            #     例句列必须是英文原文，出现中文 = 混入释义/注释 ⇒ FAIL。
+            #     ⚠️ 仅当真例句表头时生效——「词/短语|难度|释义」无例句列表格
+            #     的释义列是中文，不在此判据范围（beware 全库实测）。
+            if has_exam_hdr and HAN_RE.search(example):
+                fails.append((name, tier, '例句列混入中文（例句必须是英文原文）', example[:60]))
+                continue
+            # 3b/3c. 例句=词头（v5，2026-10-20）
+            #     `| verisimilitude | … | verisimilitude |` 裸词头占位：例句 flat
+            #     等于词头 flat，且词头在原文中**不是**独立引用单元（未提供任何
+            #     原文语境）⇒ FAIL（无引号/标点）或 WARN（带引号/标点）。
+            #     对话单词语句（如 "Impressive."）词头在原文中是独立引用单元，
+            #     经 head_standalone_in_raw 判定后豁免，不产生噪声。
+            entry_flat = flat(entry)
+            if has_exam_hdr and entry_flat and example and flat(example) == entry_flat:
+                if not head_standalone_in_raw(entry, raw_corpora.get(nn, '')):
+                    ex_raw = example.strip()
+                    if not QUOTE_RE.search(ex_raw) and not END_PUNCT_RE.search(ex_raw):
+                        fails.append((name, tier, '例句=词头裸词（无引号/标点，未提供原文语境）', example[:60]))
+                        continue
+                    elif len(entry_flat) >= 3:
+                        warns.append((name, tier, '例句=词头（词头在原文中非独立引用单元，疑为占位变通）', entry))
             # 3. 例句不命中本章（省略号分段也不命中）
             #    ⚠️ ch_corpus 为空时**不可判定，不判红** —— 与下面第 4 项词条判定同口径。
             #    否则「章节归属缺失」的文件每条例句都判未命中，FAIL 数字被灌水而无一处
