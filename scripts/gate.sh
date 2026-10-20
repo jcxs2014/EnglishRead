@@ -123,7 +123,15 @@ fail=0
 for f in "$B"/ch*.md; do
   nn=$(basename "$f" | sed -E 's/^ch0*([0-9]+).*/\1/')
   out=$(python3 scripts/check_chapter_quotes.py "$nn" "$f" --out-dir "$B/text" 2>&1 | tail -1)
-  case "$out" in *": "*) printf '%-46s %s\n' "$(basename "$f")" "$out";; *) fail=1; echo "❌ $f: $out";; esac
+  # 2026-10-20 修假红：NO_LONG_QUOTES = 「本章没有 ≥阈值的引语，短引语未逐章校验」，
+  # 那是**未核**不是缺陷——而且 ⑥ check_short_quotes 已在书级 + 跨章归属两层兜过短引语。
+  # 原写法把它落进 `*)` 分支打成 ❌ 阻断（finding-darla ch12 实测：整本书因此 exit 1，
+  # 而 ⑥ 报「命中 26 ｜ 在别的章 0 ｜ 查无 0」，引语层其实是干净的）。
+  case "$out" in
+    *": "*) printf '%-46s %s\n' "$(basename "$f")" "$out";;
+    *NO_LONG_QUOTES*) echo "❓ $(basename "$f"): 短引语未逐章校验（由 ⑥ 兜底，不算阻断）";;
+    *) fail=1; echo "❌ $f: $out";;
+  esac
 done
 [ $fail -eq 0 ] && echo "（逐章归属：全部 X/X in 本章 text）"
 [ $fail -ne 0 ] && _blk "⑦逐章归属"
