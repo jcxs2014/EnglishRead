@@ -65,7 +65,7 @@ modified: "2026-10-20"
 > **原句 9:** "“I run a flower delivery service,” I stress, “and if you’d like to order flowers, you’ll have to do it online.”"
 - **中文理解**：Poppy 在餐厅外压低声音，用「花店送货服务」的暗语试图打发对方——这是她为黑市生意准备的掩护话术。
 - **关键词**：delivery、order
-- **为什么这样写**：「花」与「尸体」的并置是全书最精妙的意象系统：Poppy 卖的是「鲜花」（flower），但花的「花」是尸体。本章标题 (Nothing But) Flowers 正是 Talking Heads 的同名歌曲——歌里唱的是「这个世界只剩下花」。作者用植物与尸体的双重隐喻贯穿全书。
+- **为什么这样写**：「花」与「尸体」的并置构成全书最精妙的意象系统：Poppy 的「鲜花」生意，卖的其实是尸体。本章标题的英文原文正是一首同名歌曲，歌里唱的是「这个世界只剩下花」。作者用植物与尸体的双重隐喻贯穿全书。
 - **读者视角提示**：留意「flower delivery」这个代号在全书反复出现——它是 Poppy 连接正常世界与黑市的暗号。
 
 > **原句 10:** "“Because you’ll never be happy with second place,” the caller finally says. “That cash in your account is good enough for some people, but five million is the blue ribbon.”"

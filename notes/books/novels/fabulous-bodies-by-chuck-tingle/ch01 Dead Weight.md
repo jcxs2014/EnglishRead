@@ -63,7 +63,7 @@ modified: "2026-10-20"
 - **读者视角提示**：记住「For the fish」这个梗——它说明 Poppy 身边有人真正在乎她，也让她的「无受害者」哲学显得更可疑。
 
 > **原句 9:** "The song is “A Star Like Me” by Eddie Michaels, rock-and-roll legend, piano balladeer, and America’s iconic answer to Elton John."
-- **中文理解**：Poppy 在深夜公路上播放 Eddie Michaels 的《A Star Like Me》。她把这位虚构摇滚巨星捧为「美国版的 Elton John」，并认定他是史上最伟大的音乐人。
+- **中文理解**：Poppy 在深夜公路上播放偶像的那首《A Star Like Me》。她把这位摇滚巨星捧为「美国版的埃尔顿·约翰」，并认定他是史上最伟大的音乐人。
 - **关键词**：legend、balladeer
 - **为什么这样写**：这一句把 Poppy 的内心世界从「犯罪现场」切换到「个人崇拜」。Eddie Michaels 是全书反复出现的精神图腾（第四章标题就是 A Star Like Me），作者用流行文化给角色增添层次——一个倒卖尸体的女人也有柔软的精神寄托。这也为后续剧情埋下伏笔。
 - **读者视角提示**：注意 Poppy 用「queerness」形容 Eddie 的音乐，这是作者借角色之口表达的身份认同信号，也是理解 Poppy 的重要线索。
