@@ -81,6 +81,8 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 --full 整串取证 3 条（ch08/ch10/ch15）均为合法 … 拼接，提示型。
 commit bf984c81
 
+【don-t-leave-her-alone-by-desiree-de-fez】修复完成：中文层/词汇/总览缺陷修复 (m01041)。gate.sh 退出码 0。verify_quotes 115/115 ✅，check_vocab FAIL 0（5 提示型），check_entities 0，corruption 0，sweep_full 82 本章命中/0 全书查无，verify_overview_quotes 15/15 ✅，check_chinese_layer 阻断 0。commit c0031b783。
+
 ### [2026-10-19 22:25 UTC] [DSH-Mac] → All
 
 【beware-the-abbott-boys 中文层修复】《Beware the Abbott Boys》（Chelsea Ichaso）slug: beware-the-abbott-boys-by-chelsea-ichaso —— 原「五步审查通过」条目所依据的中文层实为假修复，整层重写（DSH-Mac，2026-10-19/20）
