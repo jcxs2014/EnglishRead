@@ -78,6 +78,6 @@ A–I 单条规则案例 9 份 · J 案例移出 21 KB · K git 事故 · L 批�
 | `bookform.py` + `chapter.sh` | ✅ 已实现；阴性对照 `scripts/tests/bookform_negative/`（应 rc=1，报 4 类） |
 | AGENTS 改索引 | ✅ `7c90fca41`（8,139 B；第 1/2/5/6/8→30-writing、第 3→20-gate、第 7/9→11-fix-sync、第 10→审查表附录） |
 | 方案与进度落库 | ✅ `docs/rules/PLAN.md`（随写随改） |
-| 模板拆分 | ⬜ |
+| 模板拆分 | ✅ 226,721 → 27,536 B；归档 `docs/实测档案/Y_2026-10-20_启动模板拆分归档.md`（146,605 B） |
 | .memory 拆分 | ⬜ |
 | `raw-gates` 留存政策 | ⬜ |
