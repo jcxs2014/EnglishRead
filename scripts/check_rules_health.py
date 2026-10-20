@@ -131,6 +131,30 @@ def main() -> int:
     if rg:
         warn.append(f".memory/raw-gates/ 里有 {len(rg)} 个审查期一次性脚本（作为证据保留，不参与工具库统计）")
 
+    # —— 5. 回归基线不许指向已不存在的脚本 ——
+    # ⚠️ 2026-10-20 第三方复核抓到：脚本搬走后基线里仍有 10 条 case 指向旧路径，
+    #   跑出来是 `can't open file …`，而 runner 只比 rc+sha ⇒ 照样 ✅（假绿）。
+    #   这里做**静态**检查，不依赖 runner 是否被跑过。
+    cases_path = ROOT / "scripts" / "tests" / "cases.json"
+    if cases_path.exists():
+        import json as _json
+        try:
+            _cases = _json.loads(cases_path.read_text(encoding="utf-8"))
+        except Exception as e:
+            bad.append(f"cases.json 解析失败：{e}")
+            _cases = []
+        dead = []
+        for c in _cases:
+            for tok in c.get("cmd", []):
+                if isinstance(tok, str) and tok.startswith("scripts/") and tok.endswith((".py", ".sh")):
+                    if not (ROOT / tok).exists():
+                        dead.append(f"{c.get('id','?')} → {tok}")
+        if dead:
+            bad.append(f"回归基线里有 {len(dead)} 条命令指向已不存在的脚本（假绿源头）："
+                       + "、".join(dead[:4]) + ("…" if len(dead) > 4 else ""))
+        else:
+            print(f"✅ 回归基线 {len(_cases)} 条的脚本路径全部存在")
+
     # —— 提示型：硬编码数字 ——
     for f in [AGENTS, *sorted(RULES_DIR.glob("*.md"))]:
         text = strip_code_blocks(f.read_text(encoding="utf-8"))

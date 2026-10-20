@@ -66,12 +66,18 @@ echo; echo "=== ② check_vocab（词汇真实性/例句/分档）==="
 #   同样改成 `&& A || B` 形式捕获退出码，判定逻辑不变。
 _cv_out=$(python3 scripts/check_vocab.py "$B" 2>&1) && _cv_rc=0 || _cv_rc=$?
 echo "$_cv_out" | grep -E "词条行合计|FAIL \(|WARN \("
-if [ "$_cv_rc" -ne 0 ]; then
+# ⚠️ 2026-10-20 第三方复核指出：本 lane 原用 `-ne 0`，而 ③⑲ 用 `-eq 1`。
+#   今天无害（check_vocab 从不返回 2），但 20-gate.md 的降级 lane 表若将来引入
+#   exit 2（未判定），`-ne 0` 会把「未核」算成「阻断」——与「跳过型 ≠ 干净」直接冲突。
+#   ⇒ 改成与 ③⑲ 同口径：rc==1 阻断、rc==2 明示「未核」、rc==0 通过。
+if [ "$_cv_rc" -eq 2 ]; then
+  echo "❓ check_vocab 无法判定（rc=2）——**未核不是通过**"
+elif [ "$_cv_rc" -ne 0 ]; then
   echo "--- check_vocab 阻断明细（FAIL 非 0）---"
   echo "$_cv_out" | awk '/^--- FAIL/,/^--- WARN/' | grep -E "^  ch" -A1 | head -40
   echo "❌ check_vocab FAIL != 0（词表层缺陷：例句不命中本章 / 词条虚构 / 占位符）"
 fi
-[ "$_cv_rc" -ne 0 ] && _blk "②check_vocab"
+[ "$_cv_rc" -eq 1 ] && _blk "②check_vocab"
 
 echo; echo "=== ③ check_entities（梗概实体一致性）==="
 # ⚠️ 2026-10-18：本 lane 原为 `| tail -1`，而 check_entities 修完真空绿后

@@ -135,37 +135,6 @@
   ]
  },
  {
-  "id": "fabulous-bodies-by-chuck-tingle:structure",
-  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
-  "cmd": [
-   "python3",
-   "scripts/audit_structure.py",
-   "notes/books/novels/fabulous-bodies-by-chuck-tingle",
-   "--quiet"
-  ],
-  "head": "fb8918c5b425",
-  "rc": 2,
-  "sha": "1e855d891486316c",
-  "tail": [
-   "/opt/homebrew/Cellar/python@3.15/3.15.0/Frameworks/Python.framework/Versions/3.15/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/audit_structure.py': [Errno 2] No such file or directory"
-  ]
- },
- {
-  "id": "fabulous-bodies-by-chuck-tingle:order",
-  "book": "notes/books/novels/fabulous-bodies-by-chuck-tingle",
-  "cmd": [
-   "python3",
-   "scripts/check_quote_order.py",
-   "notes/books/novels/fabulous-bodies-by-chuck-tingle"
-  ],
-  "head": "fb8918c5b425",
-  "rc": 2,
-  "sha": "3a82bd5b98222302",
-  "tail": [
-   "/opt/homebrew/Cellar/python@3.15/3.15.0/Frameworks/Python.framework/Versions/3.15/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check_quote_order.py': [Errno 2] No such file or directory"
-  ]
- },
- {
   "id": "finding-darla-by-vidhya-sathyamoorthy:quotes-verbatim",
   "book": "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
   "cmd": [
@@ -297,37 +266,6 @@
    "  ch21 chapter 21 darla.md [基础] 基础档疑含超纲词「stethoscope」",
    "  ch22 chapter 22 nandhini.md [基础] 基础档疑含超纲词「hand sanitizer」",
    "  ch22 chapter 22 nandhini.md [基础] 基础档疑含超纲词「Kanchipuram silk saree」"
-  ]
- },
- {
-  "id": "finding-darla-by-vidhya-sathyamoorthy:structure",
-  "book": "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
-  "cmd": [
-   "python3",
-   "scripts/audit_structure.py",
-   "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
-   "--quiet"
-  ],
-  "head": "b24907b12202",
-  "rc": 2,
-  "sha": "1e855d891486316c",
-  "tail": [
-   "/opt/homebrew/Cellar/python@3.15/3.15.0/Frameworks/Python.framework/Versions/3.15/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/audit_structure.py': [Errno 2] No such file or directory"
-  ]
- },
- {
-  "id": "finding-darla-by-vidhya-sathyamoorthy:order",
-  "book": "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
-  "cmd": [
-   "python3",
-   "scripts/check_quote_order.py",
-   "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
-  ],
-  "head": "b24907b12202",
-  "rc": 2,
-  "sha": "3a82bd5b98222302",
-  "tail": [
-   "/opt/homebrew/Cellar/python@3.15/3.15.0/Frameworks/Python.framework/Versions/3.15/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check_quote_order.py': [Errno 2] No such file or directory"
   ]
  },
  {
@@ -466,37 +404,6 @@
   ]
  },
  {
-  "id": "the-dues-don-ts-of-magic-by-delemhach:structure",
-  "book": "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
-  "cmd": [
-   "python3",
-   "scripts/audit_structure.py",
-   "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
-   "--quiet"
-  ],
-  "head": "df5687f0da24",
-  "rc": 2,
-  "sha": "1e855d891486316c",
-  "tail": [
-   "/opt/homebrew/Cellar/python@3.15/3.15.0/Frameworks/Python.framework/Versions/3.15/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/audit_structure.py': [Errno 2] No such file or directory"
-  ]
- },
- {
-  "id": "the-dues-don-ts-of-magic-by-delemhach:order",
-  "book": "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
-  "cmd": [
-   "python3",
-   "scripts/check_quote_order.py",
-   "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach"
-  ],
-  "head": "df5687f0da24",
-  "rc": 2,
-  "sha": "3a82bd5b98222302",
-  "tail": [
-   "/opt/homebrew/Cellar/python@3.15/3.15.0/Frameworks/Python.framework/Versions/3.15/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check_quote_order.py': [Errno 2] No such file or directory"
-  ]
- },
- {
   "id": "capture-by-amanda-lohrey:quotes-verbatim",
   "book": "notes/books/novels/capture-by-amanda-lohrey",
   "cmd": [
@@ -629,37 +536,6 @@
    "  ch37 cafe europa.md [基础] 基础档疑含超纲词「correspondence」",
    "  ch37 cafe europa.md [基础] 基础档疑含超纲词「paperback」",
    "  ch37 cafe europa.md [基础] 基础档疑含超纲词「untouched」"
-  ]
- },
- {
-  "id": "capture-by-amanda-lohrey:structure",
-  "book": "notes/books/novels/capture-by-amanda-lohrey",
-  "cmd": [
-   "python3",
-   "scripts/audit_structure.py",
-   "notes/books/novels/capture-by-amanda-lohrey",
-   "--quiet"
-  ],
-  "head": "bc077073ed29",
-  "rc": 2,
-  "sha": "1e855d891486316c",
-  "tail": [
-   "/opt/homebrew/Cellar/python@3.15/3.15.0/Frameworks/Python.framework/Versions/3.15/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/audit_structure.py': [Errno 2] No such file or directory"
-  ]
- },
- {
-  "id": "capture-by-amanda-lohrey:order",
-  "book": "notes/books/novels/capture-by-amanda-lohrey",
-  "cmd": [
-   "python3",
-   "scripts/check_quote_order.py",
-   "notes/books/novels/capture-by-amanda-lohrey"
-  ],
-  "head": "bc077073ed29",
-  "rc": 2,
-  "sha": "3a82bd5b98222302",
-  "tail": [
-   "/opt/homebrew/Cellar/python@3.15/3.15.0/Frameworks/Python.framework/Versions/3.15/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check_quote_order.py': [Errno 2] No such file or directory"
   ]
  },
  {
@@ -797,37 +673,6 @@
    "  ch27 awakening.md [基础] 例句不含词头「queen」",
    "  ch28 coronation.md [基础] 例句不含词头「crown」",
    "  ch28 coronation.md [基础] 例句不含词头「scepter」"
-  ]
- },
- {
-  "id": "wings-of-starlight-by-allison-saft:structure",
-  "book": "notes/books/novels/wings-of-starlight-by-allison-saft",
-  "cmd": [
-   "python3",
-   "scripts/audit_structure.py",
-   "notes/books/novels/wings-of-starlight-by-allison-saft",
-   "--quiet"
-  ],
-  "head": "2e6a2f23b9ee",
-  "rc": 2,
-  "sha": "1e855d891486316c",
-  "tail": [
-   "/opt/homebrew/Cellar/python@3.15/3.15.0/Frameworks/Python.framework/Versions/3.15/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/audit_structure.py': [Errno 2] No such file or directory"
-  ]
- },
- {
-  "id": "wings-of-starlight-by-allison-saft:order",
-  "book": "notes/books/novels/wings-of-starlight-by-allison-saft",
-  "cmd": [
-   "python3",
-   "scripts/check_quote_order.py",
-   "notes/books/novels/wings-of-starlight-by-allison-saft"
-  ],
-  "head": "2e6a2f23b9ee",
-  "rc": 2,
-  "sha": "3a82bd5b98222302",
-  "tail": [
-   "/opt/homebrew/Cellar/python@3.15/3.15.0/Frameworks/Python.framework/Versions/3.15/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check_quote_order.py': [Errno 2] No such file or directory"
   ]
  },
  {

@@ -25,9 +25,37 @@ ROOT = Path(__file__).resolve().parents[2]
 CASES = Path(__file__).resolve().parent / "cases.json"
 
 
+BROKEN_MARKS = (
+    "can't open file", "No such file or directory", "ModuleNotFoundError",
+    "ImportError", "command not found", "Traceback (most recent call last)",
+)
+
+
+def script_paths(cmd: list[str]) -> list[str]:
+    """从命令里挑出脚本路径（scripts/…\.py|\.sh），用来做"文件还在不在"的前置校验。"""
+    out = []
+    for tok in cmd:
+        if tok.startswith("scripts/") and (tok.endswith(".py") or tok.endswith(".sh")):
+            out.append(tok)
+    return out
+
+
 def run(cmd: list[str]) -> tuple[int, str]:
     r = subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True)
     return r.returncode, r.stdout + r.stderr
+
+
+def looks_broken(out: str) -> str | None:
+    """输出里出现"根本没跑起来"的痕迹就返回命中的标记。
+
+    ⚠️ 2026-10-20 第三方复核抓到的假绿：脚本被搬走后，基线里那 10 条 case 的命令
+    仍然指向旧路径，跑出来是 `can't open file …`，而 runner 只比 rc+sha ⇒ 照样 ✅。
+    **rc 相同不等于跑过**——所以要先认"没跑起来"的形态。
+    """
+    for mark in BROKEN_MARKS:
+        if mark in out:
+            return mark
+    return None
 
 
 def book_stamp(book: str) -> str:
@@ -73,12 +101,26 @@ def main() -> int:
             print(f"⏭  {c['id']}  （书目录不存在，跳过）")
             skipped += 1
             continue
+        missing = [s for s in script_paths(c["cmd"]) if not (ROOT / s).exists()]
+        if missing:
+            skipped += 1
+            print(f"⏭  {c['id']}  （脚本已不存在：{', '.join(missing)}，基线失效，跳过）")
+            continue
         rc, out = run(c["cmd"])
+        broken = looks_broken(out)
+        if broken:
+            bad += 1
+            print(f"❌ {c['id']}  **没跑起来**（输出含 {broken!r}）——不是判定结果，先修命令")
+            continue
         rec = {"id": c["id"], "book": c["book"], "cmd": c["cmd"], "head": book_stamp(c["book"]),
                "rc": rc, "sha": fingerprint(out), "tail": tail_lines(out)}
         if a.record:
             new.append(rec)
             print(f"📝 {c['id']}: rc={rc} sha={rec['sha']}")
+            continue
+        if "rc" not in c or "sha" not in c:
+            bad += 1
+            print(f"❌ {c['id']}  **基线里没有这一条**（新增 case 必须先 --record）")
             continue
         if c.get("head") and rec["head"] != c["head"]:
             print(f"⏭  {c['id']}  （书已变：{c['head']}→{rec['head']}，基线过期，跳过）")
