@@ -75,6 +75,36 @@ modified: "2026-10-20"
 
 **句子结构**：整段是一个名词短语列表，句末才出现谓语（that grasp and clasp, then clamp）；三个动词用 then 串联，形成节拍越来越快的连续动作，直到「clamp over her mouth」把句子和声音一起截断。
 
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|------|------|------|
+| lambent | adj. 微微发亮的、柔和闪动的 | She turns off the bedside lamp but the glow of the clock and nightlight remain, as does the lambent light of the LEDs on the steps and the lamp she leaves on in the lounge room downstairs. |
+| talisman | n. 护身符、辟邪物（此处指她供起来的几件旧物） | As her lips move silently, she reaches out and touches the talismans all in a row: a locket of her mother’s, a pocket watch of her father’s, a signet ring Zoe doesn’t know she’d taken and a silk-soft curl of Dido’s hair Chloe had pulled from a baby book. |
+| mincemeat | n. 肉馅；（make mincemeat of）剁成肉酱 | One by one, each was stolen away by the Devil or a magician (who was the Devil’s cousin, twice removed), and turned first into wives then into mincemeat. |
+| posy | n. 小花束 | A handpicked posy of chrysanthemums, dahlias and marigolds held together with an old rubber band (ancient, really, deteriorating beneath her fingers). |
+| signet ring | phr. 印章戒指 | As her lips move silently, she reaches out and touches the talismans all in a row: a locket of her mother’s, a pocket watch of her father’s, a signet ring Zoe doesn’t know she’d taken and a silk-soft curl of Dido’s hair Chloe had pulled from a baby book. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|------|------|------|
+| thatched | adj. 茅草盖顶的 | She can see her house the moment she steps through the school gates, a straight run down Hallow Lane to Spinners Cottage with its thatched roof and whitewashed walls, white picket fence, and the attic window a bright beacon into the main bedroom that takes up most of the upper floor. |
+| whitewashed | adj. 刷了白灰的 | She can see her house the moment she steps through the school gates, a straight run down Hallow Lane to Spinners Cottage with its thatched roof and whitewashed walls, white picket fence, and the attic window a bright beacon into the main bedroom that takes up most of the upper floor. |
+| beret | n. 贝雷帽 | At last, Chloe shrugs on her coat, collects her handbag, settles the beret on her blonde curls, takes a deep breath and steps outside. |
+| supplant | v. 取代、顶替 | *   *   *   The flowers replace those from last week, which had reached their end a day or so ago, but Chloe hasn’t been able to bring herself to throw them out until there was something to supplant them. |
+| splay | v. 摊开、张开 | She puts the book on the coffee table, splaying it facedown with a wicked, anti-librarian thrill, an act that would have got any student in her charge lines to write out, and goes upstairs. |
+
+### ⭐ 常用
+
+| 词/短语 | 释义 | 例句 |
+|------|------|------|
+| deserted | adj. 空无一人的 | She locks the library and walks briskly through the deserted schoolyard, the buildings’ windows empty eyes, the playground equipment sad and neglected though it is only a few hours since children were draped over every bit of it. |
+| neglected | adj. 被冷落的、无人照管的 | She locks the library and walks briskly through the deserted schoolyard, the buildings’ windows empty eyes, the playground equipment sad and neglected though it is only a few hours since children were draped over every bit of it. |
+| scrapbooking | n. 剪贴簿制作 | By the time Zoe arrived, life had become too busy for scrapbooking and documenting the development of other children. |
+
 ## 一句话总结
 
 这一章用一整套「挡鬼的装置」——灯光、夜灯、护身符、睡前仪式——把 Chloe 的安稳撑到最后一页，然后让一次停电把它们全部撤走：她摸黑下楼，撞进的不是黑暗，而是一个带着汗味、羊毛味和皮手套的男人。花束、照片上「different names」、以及她刻意不去记的那些名字，让这次袭击在读者眼里不是意外，而是迟到很久的回收。
