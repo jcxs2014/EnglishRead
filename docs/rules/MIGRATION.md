@@ -74,8 +74,8 @@ A–I 单条规则案例 9 份 · J 案例移出 21 KB · K git 事故 · L 批�
 | 本台账入库 | ✅ `docs/rules/MIGRATION.md` |
 | 噪声目录清理 | ✅ 5 个全删 |
 | attic 11 个历史遗留移出索引 | ✅ |
-| 两份卡正式化（创建卡 / 审查表） | ⬜ 草案在 `/tmp/er-draft/` |
-| `bookform.py` + `chapter.sh` | ⬜ 未开始 |
+| 两份卡正式化（创建卡 / 审查表） | ✅ `docs/rules/创建卡.md`、`docs/rules/审查表.md` |
+| `bookform.py` + `chapter.sh` | ✅ 已实现；阴性对照 `scripts/tests/bookform_negative/`（应 rc=1，报 4 类） |
 | AGENTS 改索引 | ⬜ |
 | 模板拆分 | ⬜ |
 | .memory 拆分 | ⬜ |
