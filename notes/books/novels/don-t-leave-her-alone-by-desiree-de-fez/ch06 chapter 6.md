@@ -19,7 +19,7 @@ modified: "2026-10-20"
 
 > **原句 1:** “Diana lived in terror of the possibility that something would happen to her children. It was nothing new, but the feeling had intensified, coinciding with a spike in stress. She would return home in a panic after dropping them off at school. She would avoid the park in the afternoon at all costs, to save herself the fear of losing sight of them, or the anxiety that they might fall or witness a conflict between other kids. She couldn’t wrap her head around the brutality of children, the way you could detect, in creatures that weighed less than fifty pounds, the behaviors of aggressive, devastated, lost adults. Her blood went cold in the park because it was such an obvious simulacrum—a fenced-in, miniature depiction—of an angry, hostile society.”
 
-Diana 一直活在一种恐惧中：她的孩子可能会出事。这并非新鲜事，但这种感觉近来加剧了，恰好与压力的骤增同步。送完孩子上学后，她会惊慌失措地奔回家。下午她无论如何都要避开公园，以免自己陷入“看丢他们”的恐惧，或“他们可能摔倒、或目睹其他孩子间的冲突”的焦虑。她无法理解孩子的残暴——在这些体重还不到五十磅的小生物身上，竟能察觉到好斗、崩溃、迷失成人的种种行为。公园让她不寒而栗，因为它太像一个显而易见的模拟物——一个被栅栏围起来的、微缩版的——愤怒而敌对的社会。
+**中文理解**：Diana 一直活在一种恐惧中：她的孩子可能会出事。这并非新鲜事，但这种感觉近来加剧了，恰好与压力的骤增同步。送完孩子上学后，她会惊慌失措地奔回家。下午她无论如何都要避开公园，以免自己陷入“看丢他们”的恐惧，或“他们可能摔倒、或目睹其他孩子间的冲突”的焦虑。她无法理解孩子的残暴——在这些体重还不到五十磅的小生物身上，竟能察觉到好斗、崩溃、迷失成人的种种行为。公园让她不寒而栗，因为它太像一个显而易见的模拟物——一个被栅栏围起来的、微缩版的——愤怒而敌对的社会。
 
 **关键词**：terror / simulacrum / brutality / intensified
 
@@ -31,7 +31,7 @@ Diana 一直活在一种恐惧中：她的孩子可能会出事。这并非新�
 
 > **原句 2:** “One of her fears was that something would happen to her kids at night. With Tomás, who slept in their room, she could manage it better; she had him right beside her and could listen to his breathing. … Brisa was another story. She would fall asleep right away, and she usually stayed in her room all night. … That’s why she’d get up several times, to make sure her daughter was breathing, that all else was well. Sometimes she did it because she’d hear her whining or accidentally bumping into the wooden parts of the bed, but other times, she got up abruptly, suddenly compelled to confirm that she was fine. … So, on those nighttime visits, she would pick up the mushroom-shaped lamp on the floor, approach Brisa like a sleepwalking explorer, and carefully cast her with light until she could see that her chest or back was inflating rhythmically.”
 
-她的一种恐惧是，孩子在夜里会出事。Tomás 睡在他们房里，她还能更好地应对；孩子就睡在她身边，她能听见他的呼吸。……Brisa 则是另一回事。她会立刻入睡，而且通常整夜都待在自己房里。……所以 Diana 会起来好几趟，确认女儿在呼吸、一切安好。有时是因为听见她哼哼或不小心撞到床的木构件；但其他时候，她会突然起身，被一股冲动驱使着要去确认她没事。……于是在这些夜里探视时，她会捡起地上那个蘑菇形的灯，像一个梦游中的探险家一样靠近 Brisa，小心地把光投到她身上，直到看见她的胸膛或背部在有节奏地起伏。
+**中文理解**：她的一种恐惧是，孩子在夜里会出事。Tomás 睡在他们房里，她还能更好地应对；孩子就睡在她身边，她能听见他的呼吸。……Brisa 则是另一回事。她会立刻入睡，而且通常整夜都待在自己房里。……所以 Diana 会起来好几趟，确认女儿在呼吸、一切安好。有时是因为听见她哼哼或不小心撞到床的木构件；但其他时候，她会突然起身，被一股冲动驱使着要去确认她没事。……于是在这些夜里探视时，她会捡起地上那个蘑菇形的灯，像一个梦游中的探险家一样靠近 Brisa，小心地把光投到她身上，直到看见她的胸膛或背部在有节奏地起伏。
 
 **关键词**：sleepwalking explorer / mushroom-shaped lamp / compelled
 
@@ -43,7 +43,7 @@ Diana 一直活在一种恐惧中：她的孩子可能会出事。这并非新�
 
 > **原句 3:** “For the last several weeks, she had been getting up to check on Brisa even more often than usual, since her daughter had been fussing in her sleep. When Diana walked by her room, she found her in the most bizarre positions. Blankets thrown off, stretched out with her feet where her head should have been, or curled up in the fetal position on the little mat they’d kept from daycare and placed on the floor lest she fell. All of that was relatively normal, but several times she’d seen her and been genuinely frightened. Once, she’d found her daughter kneeling on the ground, her arms resting on the bed, as if she’d fallen asleep while praying. Another time, she was under the bed, at the very back, as close to the wall as she could get. The time that had scared Diana the most: She’d found Brisa sprawled on the ground at the far end of the room, trapped between the wheels of a doll’s stroller, as if the toy had run her over while she was sleeping.”
 
-最近几周，她起来检查 Brisa 的次数比平时更频繁，因为女儿在睡梦中一直烦躁不安。Diana 走过她房门口时，发现她摆出各种最古怪的姿势。被子被踢开，身体舒展开来，脚在该是头的地方；或是在 daycare 时留下的小垫子上蜷成胎姿势——那垫子放在地板上，是为了防止她掉下床。这些都还相对正常，但有好几次 Diana 看到后真的吓到了。有一次，她发现女儿跪在地板上，双臂搁在床沿，像是睡着时正在祷告。另一次，她钻到床底下，缩在最里面，贴着墙。最让 Diana 吓到的一次：她发现 Brisa 趴在房间远端的地板上，被一辆玩具娃娃推车的轮子夹住，像是那玩具在她睡觉时从她身上碾了过去。
+**中文理解**：最近几周，她起来检查 Brisa 的次数比平时更频繁，因为女儿在睡梦中一直烦躁不安。Diana 走过她房门口时，发现她摆出各种最古怪的姿势。被子被踢开，身体舒展开来，脚在该是头的地方；或是在 daycare 时留下的小垫子上蜷成胎姿势——那垫子放在地板上，是为了防止她掉下床。这些都还相对正常，但有好几次 Diana 看到后真的吓到了。有一次，她发现女儿跪在地板上，双臂搁在床沿，像是睡着时正在祷告。另一次，她钻到床底下，缩在最里面，贴着墙。最让 Diana 吓到的一次：她发现 Brisa 趴在房间远端的地板上，被一辆玩具娃娃推车的轮子夹住，像是那玩具在她睡觉时从她身上碾了过去。
 
 **关键词**：bizarre positions / fetal position / genuinely frightened
 
@@ -55,7 +55,7 @@ Diana 一直活在一种恐惧中：她的孩子可能会出事。这并非新�
 
 > **原句 4:** “‘At urgent care? At nine p.m.? They’ve been at urgent care with all three kids for five hours?’ … ‘Couldn’t your brother-in-law have gone sooner, to at least pick up your mom and the kids?’ … ‘He wasn’t able to leave? Come on. He was probably taking it easy because your mom went with your sister. Unbelievable.’ … ‘Diana, you’re losing it. You know perfectly well that nothing happened to the baby. Are you going to start making excuses for your sister now?’ … ‘Yes, you are. When you say things like that, you’re rationalizing it.’”
 
-“在 urgent care？晚上九点？他们带着三个孩子在 urgent care 待了五个小时？”……“你姐夫不能早点去吗，至少把妈妈和孩子接出来？”……“他走不开？拜托。他大概是在偷懒，因为妈妈跟你姐姐去了。不可理喻。”……“Diana，你失控了。你很清楚，孩子根本没事。你现在要开始为姐姐找借口了吗？”……“对，你就是在。你这么说的时候，就是在合理化。”
+**中文理解**：“在 urgent care？晚上九点？他们带着三个孩子在 urgent care 待了五个小时？”……“你姐夫不能早点去吗，至少把妈妈和孩子接出来？”……“他走不开？拜托。他大概是在偷懒，因为妈妈跟你姐姐去了。不可理喻。”……“Diana，你失控了。你很清楚，孩子根本没事。你现在要开始为姐姐找借口了吗？”……“对，你就是在。你这么说的时候，就是在合理化。”
 
 **关键词**：rationalizing / losing it / excuses
 
@@ -67,7 +67,7 @@ Diana 一直活在一种恐惧中：她的孩子可能会出事。这并非新�
 
 > **原句 5:** “‘Do you know how to get rid of an evil eye?’ … ‘The one who isn’t cross-eyed told me that one day, I wouldn’t know how to get out of there, either.’ … ‘Shit. That gives me the creeps.’ … ‘No, Alba. It’s late. I promise I’ll call her first thing in the morning.’”
 
-“你知道怎么解邪眼吗？”……“那个不斜视的告诉我，有一天，我也会不知道怎么从那里出来。”……“该死。这让我发毛。”……“不，Alba。太晚了。我保证明天一早我就给她打电话。”
+**中文理解**：“你知道怎么解邪眼吗？”……“那个不斜视的告诉我，有一天，我也会不知道怎么从那里出来。”……“该死。这让我发毛。”……“不，Alba。太晚了。我保证明天一早我就给她打电话。”
 
 **关键词**：evil eye / cross-eyed / mediums / Finestrelles
 

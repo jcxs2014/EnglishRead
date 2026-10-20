@@ -19,7 +19,7 @@ modified: "2026-10-20"
 
 > **原句 1:** “When the taxi parked, they quickly spotted Juan and Alba’s car. … All the van’s doors were open, and the interior lights were on. Several figures of different sizes were moving around outside on the grass. Something about it made Diana think of a haphazard manger, one a child had assembled. This image of her family—incomplete—shocked her. … There were five of them, not six. Alba was missing. And, probably because she was missing, the rest of them were more spread out than usual. She couldn’t remember ever having seen her family standing so far apart. … Nor, for that matter, could she recall standing before them without the sense that they belonged to one single mass—uniform, if conflicted.”
 
-出租车停好后，他们很快便发现了Juan和Alba的车。……面包车的所有车门都敞开着，车内灯也亮着。几道不同大小的身影在草地上移动。这一幕让Diana想起一个草草搭成的马槽，像孩子拼装出来似的。这个不完整的家庭影像让她震惊。……他们共有五个人，不是六个。Alba不见了。大概正因为Alba不见了，其余人站得比平时更散。她不记得曾见过家人站得如此疏离。……而且，她也想不起曾站在他们面前、却没有觉得他们属于同一个整体——统一的，却也冲突着的。
+**中文理解**：出租车停好后，他们很快便发现了Juan和Alba的车。……面包车的所有车门都敞开着，车内灯也亮着。几道不同大小的身影在草地上移动。这一幕让Diana想起一个草草搭成的马槽，像孩子拼装出来似的。这个不完整的家庭影像让她震惊。……他们共有五个人，不是六个。Alba不见了。大概正因为Alba不见了，其余人站得比平时更散。她不记得曾见过家人站得如此疏离。……而且，她也想不起曾站在他们面前、却没有觉得他们属于同一个整体——统一的，却也冲突着的。
 
 **关键词**：haphazard manger / incomplete / autonomous / uniform
 
@@ -31,7 +31,7 @@ modified: "2026-10-20"
 
 > **原句 2:** "She’s calm now. Too calm, I think. But something you won’t believe happened. I’m still reeling, if I’m being honest. I’m more worried about your mom than I am about Alba." … "She was bleeding all over me. I asked Juanito to watch the littler ones and told him I had to tell Grandma something important, then I took her over behind the car so they wouldn’t see her that way. I opened the trunk and had her sit down back there, and when I unzipped her coat and lifted up her sweater to see what was going on, I almost passed out. Her stomach is destroyed. She has a terrible injury. It’s all bits of skin and blood clots. Like someone attacked her with an immersion blender and tried to cut her in half." … "She says it doesn’t hurt, that she’s fine, and she’s practically swatting me away to get me to leave her alone." … "Juan, completely spent, leaned against the side of the car then slid down it until he was sitting on the ground."
 
-Juan累得完全没了力气，靠在车侧，然后沿着车身滑坐到地上。……“她现在很平静。平静得过头了，我觉得。但发生了一件你不会相信的事。老实说，我到现在还晕乎乎的。我比担心Alba更担心你妈。”……“她全身都是血，流到我身上。我让Juanito看着小的几个，说我要去告诉奶奶一件重要的事，然后把她带到了车后头，免得他们看到她那副样子。我打开后备厢，让她坐在里面，等我拉开她的外套、掀开毛衣看看到底怎么回事时，我差点晕过去。她的肚子毁了。她受了重伤。全是皮肉和血块。就像有人用immersion blender攻击她、要把她切两半似的。”……“她说不疼，说她没事，几乎是在拍打着让我别管她。”
+**中文理解**：Juan累得完全没了力气，靠在车侧，然后沿着车身滑坐到地上。……“她现在很平静。平静得过头了，我觉得。但发生了一件你不会相信的事。老实说，我到现在还晕乎乎的。我比担心Alba更担心你妈。”……“她全身都是血，流到我身上。我让Juanito看着小的几个，说我要去告诉奶奶一件重要的事，然后把她带到了车后头，免得他们看到她那副样子。我打开后备厢，让她坐在里面，等我拉开她的外套、掀开毛衣看看到底怎么回事时，我差点晕过去。她的肚子毁了。她受了重伤。全是皮肉和血块。就像有人用immersion blender攻击她、要把她切两半似的。”……“她说不疼，说她没事，几乎是在拍打着让我别管她。”
 
 **关键词**：immersion blender / destroyed / too calm / swatting
 
@@ -43,7 +43,7 @@ Juan累得完全没了力气，靠在车侧，然后沿着车身滑坐到地上�
 
 > **原句 3:** "Carlos couldn’t make sense of it, he didn’t understand why they would avoid doing something so normal. He found it bizarre that they were so close and so mutually dependent, while also completely lacking deeper knowledge about one another. What they did know was conjecture or intuition, not the result of something shared." … "Diana maintained it hadn’t always been that way—she said when she and Alba lived at their parents’ house, they would tell each other everything. And before they had kids, the three of them would meet all the time to catch up. But the truth was, she had to go further back in time to reach a moment of actual intimacy."
 
-Carlos想不明白，他不懂他们为什么回避做这么正常的事。他觉得奇怪：他们如此亲近、如此相互依赖，却完全缺乏对彼此更深层的了解。他们所知道的，是推测或直觉，不是分享而来的。……Diana坚持说并非一直如此——她说她和Alba住在父母家时，什么都会告诉对方。有了孩子之前，她们三人也常常见面叙旧。但事实是，她得把时间推得更远，才能找到真正亲密的时刻。
+**中文理解**：Carlos想不明白，他不懂他们为什么回避做这么正常的事。他觉得奇怪：他们如此亲近、如此相互依赖，却完全缺乏对彼此更深层的了解。他们所知道的，是推测或直觉，不是分享而来的。……Diana坚持说并非一直如此——她说她和Alba住在父母家时，什么都会告诉对方。有了孩子之前，她们三人也常常见面叙旧。但事实是，她得把时间推得更远，才能找到真正亲密的时刻。
 
 **关键词**：intimacy / conjecture / mutually dependent / bizarre
 
@@ -55,7 +55,7 @@ Carlos想不明白，他不懂他们为什么回避做这么正常的事。他�
 
 > **原句 4:** “‘She hasn’t been alone in years,’ Carmen said after a long pause. Diana sat up, astonished, and gave her mother a long look. Then she stretched back out, a satisfied smile on her face. ‘Wow. You finally said it.’ ‘Said what?’ ‘That Alba is never alone.’ ‘I’ve said that a thousand times.’ ‘Sure, sure,’ Diana said. Carmen smiled without turning toward her. ‘Well, unless she bumped into someone, she’s finally on her own.’”
 
-“她已经好几年没独自一人了，”Carmen沉默良久后说。Diana坐起身，惊异，长看了母亲一眼。然后她躺回去，脸上挂着满意的微笑。“哇，你终于说出来了。”“说什么？”“Alba从不独自一人。”“这话我说过一千遍了。”“当然，当然，”Diana说。Carmen没转过身，笑了。“唔，除非她碰上了谁，她这回总算是独自一人了。”
+**中文理解**：“她已经好几年没独自一人了，”Carmen沉默良久后说。Diana坐起身，惊异，长看了母亲一眼。然后她躺回去，脸上挂着满意的微笑。“哇，你终于说出来了。”“说什么？”“Alba从不独自一人。”“这话我说过一千遍了。”“当然，当然，”Diana说。Carmen没转过身，笑了。“唔，除非她碰上了谁，她这回总算是独自一人了。”
 
 **关键词**：astonished / satisfied smile / finally on her own
 
@@ -67,7 +67,7 @@ Carlos想不明白，他不懂他们为什么回避做这么正常的事。他�
 
 > **原句 5:** “‘By the way, he was at my house the other night.’ ‘Who?’ ‘Dad,’ said Diana. ‘For God’s sake, Diana, you’ve lost it.’ ‘I’m serious. I got up to go to the bathroom and realized he’d been there.’ ‘What do you mean?’ ‘The bathroom smelled like it did after he’d been in there—like cigarettes.’ ‘You know he smoked in there. It didn’t matter if he was showering or shitting, afterward it always smelled like cigarettes.’ ‘Exactly. We don’t smoke, the smell had to come from somewhere.’ ‘Maybe it was a neighbor.’ ‘At four in the morning? No way. None of our neighbors would be up that late. It was Dad. It’s not the first time, either. And it’s only on certain dates. He also came the night before I went in for my back injection.’”
 
-“对了，前天晚上他在我家。”“谁？”“Dad，”Diana说。“看在上帝的分上，Diana，你疯了。”“我是认真的。我起来上厕所，发现他来过。”“什么意思？”“浴室的味道就像他用过之后——像烟味。”“你知道他在那儿抽烟。不管是在洗澡还是在拉屎，之后总有一股烟味。”“正是。我们不抽烟，这味儿总得有个来处。”“也许是邻居。”“凌晨四点？不可能。没有邻居会那么晚还没睡。是Dad。这不是头一回了。而且只在某些日期。他还在我去打背针的前一晚来过。”
+**中文理解**：“对了，前天晚上他在我家。”“谁？”“Dad，”Diana说。“看在上帝的分上，Diana，你疯了。”“我是认真的。我起来上厕所，发现他来过。”“什么意思？”“浴室的味道就像他用过之后——像烟味。”“你知道他在那儿抽烟。不管是在洗澡还是在拉屎，之后总有一股烟味。”“正是。我们不抽烟，这味儿总得有个来处。”“也许是邻居。”“凌晨四点？不可能。没有邻居会那么晚还没睡。是Dad。这不是头一回了。而且只在某些日期。他还在我去打背针的前一晚来过。”
 
 **关键词**：cigarette smell / certain dates / back injection
 
@@ -79,7 +79,7 @@ Carlos想不明白，他不懂他们为什么回避做这么正常的事。他�
 
 > **原句 6:** "I lost my train of thought, Mom." … "They were out there sitting at that stone table on their lot, the two sisters I mentioned already, and another woman who I remember because she sold Avon products—do you know who I'm talking about?"
 
-“我思路断了，Mom。”……“她们在外面，坐在她们那块地上的石桌旁，就是我刚才说的那对姐妹，还有另一个女人——我记得她是因为她卖Avon产品——你知道我说的是谁吗？”
+**中文理解**：“我思路断了，Mom。”……“她们在外面，坐在她们那块地上的石桌旁，就是我刚才说的那对姐妹，还有另一个女人——我记得她是因为她卖Avon产品——你知道我说的是谁吗？”
 
 **关键词**：lost my train of thought / bingo ladies / Avon products
 
@@ -91,7 +91,7 @@ Carlos想不明白，他不懂他们为什么回避做这么正常的事。他�
 
 > **原句 7:** "Well, I was scared. So I hid behind a bush one lot over."
 
-“唔，我害怕了。所以我躲在隔壁那块地的一丛灌木后面。”
+**中文理解**：“唔，我害怕了。所以我躲在隔壁那块地的一丛灌木后面。”
 
 **关键词**：scared / hid behind a bush
 
@@ -103,7 +103,7 @@ Carlos想不明白，他不懂他们为什么回避做这么正常的事。他�
 
 > **原句 8:** "The bingo woman was wearing one of those tulle dresses with rhinestones on it, the kind moms wear to their kids' first communions. … She set the bucket on the table and took out a wooden cutting board, some tall red candles, and a knife. She put it all in the center of the table. It was unbelievably quiet. … All you could hear was the wind in the trees. … I was terrified I’d accidentally make a noise and they'd catch me watching. Then the bingo woman put the candles in a circle and lit them, and everyone started chanting a very strange song, even the woman who had been crying. It seemed like they were praying. Mom, don't fall asleep!"
 
-“宾果女人穿着那种带水钻的纱裙，就是妈妈们参加孩子初领圣体礼时穿的那种。……她把桶放在桌上，取出一块木案板、几根高高的红蜡烛和一把刀。她把一切都放在桌子中央。安静得不可思议。你只能听见树上的风声。我怕极了，怕不小心发出声音被她们发现我在偷看。然后宾果女人把蜡烛摆成一圈点上，所有人都开始吟唱一首非常奇怪的歌，连那个一直在哭的女人也唱。像是在祈祷。Mom，别睡着！”
+**中文理解**：“宾果女人穿着那种带水钻的纱裙，就是妈妈们参加孩子初领圣体礼时穿的那种。……她把桶放在桌上，取出一块木案板、几根高高的红蜡烛和一把刀。她把一切都放在桌子中央。安静得不可思议。你只能听见树上的风声。我怕极了，怕不小心发出声音被她们发现我在偷看。然后宾果女人把蜡烛摆成一圈点上，所有人都开始吟唱一首非常奇怪的歌，连那个一直在哭的女人也唱。像是在祈祷。Mom，别睡着！”
 
 **关键词**：tulle dresses / rhinestones / bucket / candles / knife / chanting / praying
 
@@ -115,7 +115,7 @@ Carlos想不明白，他不懂他们为什么回避做这么正常的事。他�
 
 > **原句 9:** "But I heard something like an axe, or like when they're cutting meat at the butcher, and the sound of water, or whatever it was, dripping into the plastic bucket. Then I heard sobbing. And they kept singing, or praying, I couldn't make out the words. I covered my eyes, and when I looked again, there was light shooting up from the table, over the trees and into the sky. A deep pink, almost purple. And everything started to vibrate."
 
-“但我听见了像斧头、或者像肉铺切肉时的声音，还有水声，不管那是什么，滴进塑料桶里。然后我听见了啜泣声。她们继续唱着，或者祈祷着，我听不清词。我捂上眼睛，再看时，有光从桌上射出，越过高树射向天空。深粉红，几乎紫。然后一切开始震动。”
+**中文理解**：“但我听见了像斧头、或者像肉铺切肉时的声音，还有水声，不管那是什么，滴进塑料桶里。然后我听见了啜泣声。她们继续唱着，或者祈祷着，我听不清词。我捂上眼睛，再看时，有光从桌上射出，越过高树射向天空。深粉红，几乎紫。然后一切开始震动。”
 
 **关键词**：axe / cutting meat / sobbing / light shooting up / pink / purple / vibrate
 

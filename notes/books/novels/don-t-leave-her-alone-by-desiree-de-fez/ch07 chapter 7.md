@@ -19,7 +19,7 @@ modified: "2026-10-20"
 
 > **原句 1:** “Diana heard something in Brisa’s room. She grabbed her iPhone from the nightstand, got up, and went to her daughter, phone flashlight on. They always left the mushroom lamp on, but she’d forgotten to charge it during the day, so that night, it had turned off a bit early. From the door, she could see the girl was standing at the foot of the bed, her feet on the little mat, facing the window. Diana went over to her. Since they’d only moved in recently, they still hadn’t put up curtains. And the mental image of her daughter from the other side of the window, seen from the apartment across the way, unsettled her as much as the sight in front of her.”
 
-Diana 听到 Brisa 房间里有动静。她从床头柜抓起 iPhone，起身走向女儿，手机手电筒开着。他们一向开着那盏蘑菇灯，但她白天忘了充电，所以那天夜里灯提早灭了。从门口她就能看见，女孩站在床脚，脚踩在小垫子上，面朝窗户。Diana 走到她身边。因为她们搬家不久，窗帘还没挂上。而她脑中浮现出女儿在窗的另一侧、被对面公寓的人看见的画面，这种想象让她感到的不安，与眼前所见不相上下。
+**中文理解**：Diana 听到 Brisa 房间里有动静。她从床头柜抓起 iPhone，起身走向女儿，手机手电筒开着。他们一向开着那盏蘑菇灯，但她白天忘了充电，所以那天夜里灯提早灭了。从门口她就能看见，女孩站在床脚，脚踩在小垫子上，面朝窗户。Diana 走到她身边。因为她们搬家不久，窗帘还没挂上。而她脑中浮现出女儿在窗的另一侧、被对面公寓的人看见的画面，这种想象让她感到的不安，与眼前所见不相上下。
 
 **关键词**：sleepwalking / mushroom lamp / curtains / unsettled
 
@@ -31,7 +31,7 @@ Diana 听到 Brisa 房间里有动静。她从床头柜抓起 iPhone，起身走
 
 > **原句 2:** “‘Honey, what’s going on? Get in bed.’ Brisa didn’t answer. ‘Do you have to go to the bathroom?’ When she tried to turn her around by the shoulders, Brisa collapsed. She collapsed as if she’d been deactivated, as if the energy that had kept her standing had suddenly been cut off. Diana quickly bent to pick her up. ‘Are you OK, sweetie? You fell,’ she said, kneeling on the floor. Brisa got back on her feet and looked at her worried mother, but she didn’t seem to comprehend her words. ‘Brisa, are you OK? Did you hurt yourself?’ Diana could tell that although her eyes were open, she was fast asleep. Unsettled, she helped her lie back in bed and covered her with the duvet. It was then that Brisa truly woke up. ‘I’m thirsty.’”
 
-“亲爱的，怎么了？回床上去。”Brisa 没答。“你要上厕所吗？”她试着从肩膀把女儿转过来，Brisa 却倒下了。她像是被关机一样倒下，像是支撑她站立的能量突然切断了一样。Diana 赶紧弯腰把她抱起。“你没事吧，宝贝？你摔倒了。”她说着，跪在地板上。Brisa 站起身，望着担心的母亲，却似乎没听懂她的话。“Brisa，你没事吗？伤到自己了吗？”Diana 能看出，尽管她睁着眼，其实已熟睡。不安中，她扶女儿躺回床上，用羽绒被盖好。这时 Brisa 才真正醒来。“我渴了。”
+**中文理解**：“亲爱的，怎么了？回床上去。”Brisa 没答。“你要上厕所吗？”她试着从肩膀把女儿转过来，Brisa 却倒下了。她像是被关机一样倒下，像是支撑她站立的能量突然切断了一样。Diana 赶紧弯腰把她抱起。“你没事吧，宝贝？你摔倒了。”她说着，跪在地板上。Brisa 站起身，望着担心的母亲，却似乎没听懂她的话。“Brisa，你没事吗？伤到自己了吗？”Diana 能看出，尽管她睁着眼，其实已熟睡。不安中，她扶女儿躺回床上，用羽绒被盖好。这时 Brisa 才真正醒来。“我渴了。”
 
 **关键词**：deactivated / comprehend / truly woke up
 
@@ -43,7 +43,7 @@ Diana 听到 Brisa 房间里有动静。她从床头柜抓起 iPhone，起身走
 
 > **原句 3:** “She took one of the kids’ camp sleeping bags from the closet, stretched it out on the little mat, and reached up with one hand to hold Brisa’s; her daughter had now rolled onto her stomach. Diana was on edge and wide awake. She let go of Brisa’s hand and covered her eyes with her forearm. She lay like that for a few seconds. The girl shifted, and Diana reached back out to soothe her, gently placing a hand on her back. Her stomach then clenched as soon as she realized she didn’t know quite what she was touching. It had the warmth of Brisa, but it felt nothing like her back or even her chest. In the half darkness, with her heart in her throat, she looked. Her daughter was face down from the waist up, but her knees and the tips of her toes pointed toward the ceiling. Diana jumped up and rushed to turn on the light. She looked at Brisa again. She was in an uncomfortable position, but not an unnatural one, nothing like what she thought she’d seen. Standing at the door to her child’s bedroom, one hand covering her mouth, legs trembling, she had no idea what to do. She went to the office for her AirPods, put on a podcast, and proceeded to lie awake all night right next to Brisa, who didn’t move again.”
 
-她从衣柜里拿出一个孩子的野营睡袋，铺在小垫子上，又伸出一只手去握 Brisa 的手；女儿这会儿已翻成趴着睡。Diana 紧张得完全清醒。她松开 Brisa 的手，用手臂遮住眼睛，那样躺了几秒。女孩动了动，Diana 又伸出手去安抚她，轻轻把手放在她背上。可她立刻胃一紧——她意识到自己并不确定自己摸到的是什么。那有 Brisa 的温度，却完全不像她的后背，甚至不像她的胸口。半暗中，她心提到嗓子眼，看了过去。女儿从腰部以上是俯卧的，可膝盖和脚趾尖却冲向天花板。Diana 跳起来，冲过去打开灯。她再看 Brisa，她只是姿势不舒服，并非不自然，完全不像她以为自己看到的那样。站在孩子卧室门口，一只手捂着嘴，双腿发颤，她不知道该做什么。她去书房拿了 AirPods，戴上播客，就在 Brisa 身边躺了一整夜没睡，而 Brisa 再也没动过。
+**中文理解**：她从衣柜里拿出一个孩子的野营睡袋，铺在小垫子上，又伸出一只手去握 Brisa 的手；女儿这会儿已翻成趴着睡。Diana 紧张得完全清醒。她松开 Brisa 的手，用手臂遮住眼睛，那样躺了几秒。女孩动了动，Diana 又伸出手去安抚她，轻轻把手放在她背上。可她立刻胃一紧——她意识到自己并不确定自己摸到的是什么。那有 Brisa 的温度，却完全不像她的后背，甚至不像她的胸口。半暗中，她心提到嗓子眼，看了过去。女儿从腰部以上是俯卧的，可膝盖和脚趾尖却冲向天花板。Diana 跳起来，冲过去打开灯。她再看 Brisa，她只是姿势不舒服，并非不自然，完全不像她以为自己看到的那样。站在孩子卧室门口，一只手捂着嘴，双腿发颤，她不知道该做什么。她去书房拿了 AirPods，戴上播客，就在 Brisa 身边躺了一整夜没睡，而 Brisa 再也没动过。
 
 **关键词**：on edge / heart in her throat / AirPods / podcast
 

@@ -19,7 +19,7 @@ modified: "2026-10-20"
 
 > **原句 1:** “Every Christmas Eve, it was the same. They planned to leave home early enough to catch the train before it got too crowded, but they always ran out of time. … ‘Another earring.’ ‘Like the one from the other day?’ ‘Identical.’ ‘And it was in the same place?’ ‘Yeah, in the laundry tub.’ ‘Isn’t it possible you accidentally grabbed them from the table on the patio? The neighbor is always leaving stuff down there.’ ‘No way.’ … ‘At least admit that it’s weird!’ ‘Sure, it is a little weird. But I bet there’s some explanation,’ Carlos said. ‘What’s the explanation, then? There isn’t one! Either it’s a ghost, or someone broke into our house.’ ‘Who would break into the house just to leave an earring here?’”
 
-每年圣诞夜都是这样。他们打算早一点离开家，好在人潮太拥挤之前赶上火车，但总是赶不及。……"又一枚耳环。""像前几天的那枚？""一模一样的。""在同一个地方吗？""是啊，在洗衣盆里。""你是不是不小心从天台的桌子上拿的？邻居总在那儿留东西。""不可能。"……"至少承认它有点怪吧！""嗯，是有点怪。但我觉得肯定有解释，"Carlos说。"解释呢？根本没有！要么是鬼，要么是有人闯进了我们家。""谁会闯进家里就为了留一枚耳环？"
+**中文理解**：每年圣诞夜都是这样。他们打算早一点离开家，好在人潮太拥挤之前赶上火车，但总是赶不及。……"又一枚耳环。""像前几天的那枚？""一模一样的。""在同一个地方吗？""是啊，在洗衣盆里。""你是不是不小心从天台的桌子上拿的？邻居总在那儿留东西。""不可能。"……"至少承认它有点怪吧！""嗯，是有点怪。但我觉得肯定有解释，"Carlos说。"解释呢？根本没有！要么是鬼，要么是有人闯进了我们家。""谁会闯进家里就为了留一枚耳环？"
 
 **关键词**：earring / laundry tub / ghost / explanation
 
@@ -31,7 +31,7 @@ modified: "2026-10-20"
 
 > **原句 2:** “Carmen called four more times, and all four times, Diana silenced the call. … ‘Call her back. It’s not normal for her to call this many times,’ Carlos said. … ‘But she’s annoying. They’re both so annoying. It’s most likely something stupid. They can wait, we’re in the car already.’”
 
-Carmen 又打了四次电话，四次都被 Diana 挂断。"回她电话。她这么频繁地打来不正常，"Carlos说。……"但她太烦人了。她们俩都烦人。十有八九又是无聊的事。她们可以等等，我们已经在车上了。"……"是谁？"Carlos从后座问道。"是我妈。谁知道她这会儿又想干什么。"
+**中文理解**：Carmen 又打了四次电话，四次都被 Diana 挂断。"回她电话。她这么频繁地打来不正常，"Carlos说。……"但她太烦人了。她们俩都烦人。十有八九又是无聊的事。她们可以等等，我们已经在车上了。"……"是谁？"Carlos从后座问道。"是我妈。谁知道她这会儿又想干什么。"
 
 **关键词**：silenced / annoying / normal
 
@@ -43,7 +43,7 @@ Carmen 又打了四次电话，四次都被 Diana 挂断。"回她电话。她�
 
 > **原句 3:** “‘Drop us off here!’ They were just a few meters from the Ronda de Dalt, about seven minutes from Alba’s house. … ‘I can’t stop in the middle of Diagonal,’ the driver said, his voice sour. ‘Well, stop as soon as you can. Stop up here. My daughter is feeling nauseous.’ … ‘She’s not nauseous, why are you saying she’s nauseous? If you keep saying it, she’ll start to feel it,’ Carlos said quietly. … ‘Diana, Brisa is fine—she’s not nauseous. Why do you want to get out now? We still have a ways to go before we get close to your sister’s. Are you feeling sick?’ He reached for her arm, but she brusquely shook him off.”
 
-"在这儿放我们下车！"他们离 Ronda de Dalt 只有几米，离 Alba 的家大约七分钟的路程。……"我不能在 Diagonal 大道中间停车，"司机说，语气有点冲。"那你尽快停，就停在这儿。我女儿觉得恶心。"……"她不恶心，你干嘛说她恶心？你再这么说，她就真要觉得恶心了，"Carlos安静地说。……"Diana，Brisa 没事——她不恶心。你为什么现在就想下车？我们离你姐姐家还远着呢。你是不是觉得不舒服？"他伸手去拉她的胳膊，可她粗暴地甩开了他。
+**中文理解**："在这儿放我们下车！"他们离 Ronda de Dalt 只有几米，离 Alba 的家大约七分钟的路程。……"我不能在 Diagonal 大道中间停车，"司机说，语气有点冲。"那你尽快停，就停在这儿。我女儿觉得恶心。"……"她不恶心，你干嘛说她恶心？你再这么说，她就真要觉得恶心了，"Carlos安静地说。……"Diana，Brisa 没事——她不恶心。你为什么现在就想下车？我们离你姐姐家还远着呢。你是不是觉得不舒服？"他伸手去拉她的胳膊，可她粗暴地甩开了他。
 
 **关键词**：nauseous / brusquely / sour
 
@@ -55,7 +55,7 @@ Carmen 又打了四次电话，四次都被 Diana 挂断。"回她电话。她�
 
 > **原句 4:** “‘Blood,’ Diana said, lowering her voice. ‘You got your period?’ ‘No. I don’t know what’s happening. But I think my stomach is bleeding.’ For the first time in a while, Diana looked up at Carlos. Carlos was surprised how calm she seemed. There was a sense of serenity in her gaze. That was unheard of for her, especially considering what she’d just said. … ‘Did you do it to yourself?’ ‘What do you mean did I do it to myself? I didn’t do anything. Why would I do something like that?’ ‘It’s just a lot, that’s all.’”
 
-"血，"Diana压低声音说。"你来月经了？""没有。我不知道怎么了。但我觉得我的胃在出血。"Diana有好一会儿第一次抬头看着Carlos。Carlos惊讶于她看起来有多平静。她的目光里有一股宁静。这在她身上是闻所未闻的，尤其是刚说了那些话。……"是你自己弄的吗？""你什么意思是我自己弄的？我什么都没做。我干嘛要那样？""就是事情太多了，仅此而已。"
+**中文理解**："血，"Diana压低声音说。"你来月经了？""没有。我不知道怎么了。但我觉得我的胃在出血。"Diana有好一会儿第一次抬头看着Carlos。Carlos惊讶于她看起来有多平静。她的目光里有一股宁静。这在她身上是闻所未闻的，尤其是刚说了那些话。……"是你自己弄的吗？""你什么意思是我自己弄的？我什么都没做。我干嘛要那样？""就是事情太多了，仅此而已。"
 
 **关键词**：serenity / bleeding / did you do it to yourself
 
@@ -67,7 +67,7 @@ Carmen 又打了四次电话，四次都被 Diana 挂断。"回她电话。她�
 
 > **原句 5:** “Running her fingertips over the injury, Diana realized that it was an open wound, about four fingers wide and wrapping around her waist like a belt made of pulp and blood. The top of her pants and the bottom of her shirt were stained, but the wound wasn’t actively bleeding. It was oozing, yet still at the same time. The gash just below Diana’s abdomen seemed to be feeding on itself.”
 
-Diana用指尖划过伤处，意识到那是一道开放性伤口，大约四指宽，环绕腰部，像一条由果肉与血做成的腰带。她的裤腰和衬衫下摆都被染脏了，但伤口并没有在主动出血。它在渗出，却同时又静止不动。Diana腹部下方的那道裂口似乎在自我喂养。
+**中文理解**：Diana用指尖划过伤处，意识到那是一道开放性伤口，大约四指宽，环绕腰部，像一条由果肉与血做成的腰带。她的裤腰和衬衫下摆都被染脏了，但伤口并没有在主动出血。它在渗出，却同时又静止不动。Diana腹部下方的那道裂口似乎在自我喂养。
 
 **关键词**：open wound / oozing / feeding on itself / belt of pulp and blood
 

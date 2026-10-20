@@ -19,7 +19,7 @@ modified: "2026-10-20"
 
 > **原句 1:** “She came to in the dark, sprawled across the floor. The light returned in phases, as if someone were rhythmically flipping the switches, and soon the whole store was lit up. The brightness was like a kick to the face. She lay back down, closed her eyes, and stayed that way awhile.”
 
-女人在黑暗中苏醒，四肢摊开趴伏在地板上；灯光分阶段亮起，像有人在节奏地拨动开关，整间店很快灯火通明；强光像一记耳光打在脸上，她重新躺下、闭眼，暂时不愿面对。
+**中文理解**：女人在黑暗中苏醒，四肢摊开趴伏在地板上；灯光分阶段亮起，像有人在节奏地拨动开关，整间店很快灯火通明；强光像一记耳光打在脸上，她重新躺下、闭眼，暂时不愿面对。
 
 **关键词**：came to / sprawled / phases / rhythmically
 
@@ -31,7 +31,7 @@ modified: "2026-10-20"
 
 > **原句 2:** “An image arose in her mind: the last time she’d been here, with Brigitte, trying on plastic tiaras. For a minute, she took refuge in that memory. Then the sound of her daughter’s laughter—her little voice begging to buy half the store—was replaced by an unpleasant ringing.”
 
-脑海中浮现上一次和 Brigitte 在这里试戴塑料皇冠的画面；她 momentarily 以此为避难所，随后女儿的笑声——那稚嫩声音央求把店里买一半——被一阵不快的耳鸣取代。
+**中文理解**：脑海中浮现上一次和 Brigitte 在这里试戴塑料皇冠的画面；她 momentarily 以此为避难所，随后女儿的笑声——那稚嫩声音央求把店里买一半——被一阵不快的耳鸣取代。
 
 **关键词**：arose / refuge / replaced / unpleasant ringing
 
@@ -43,7 +43,7 @@ modified: "2026-10-20"
 
 > **原句 3:** “She pushed herself up to a seated position and dared to open her eyes. She was horrified by the scene: rows of tutus splattered with red, red-stained butterfly wings and plush earmuffs. The wings she and Brigitte would try on for selfies, the bear-shaped backpacks, the pom-pom antennae, all covered in a now-stiff crust of dried blood. The sight of it, in her daughter’s favorite store, where Brigitte mistook cheap jewelry for the real thing, hurt. It hurt more than anything else, more than whatever fate this was.”
 
-她把自己撑到坐姿，鼓起勇气睁眼； scenes 令她惊骇：成排的芭蕾裙被溅上红色，血染的蝴蝶翅膀与毛绒耳罩……那些她和 Brigitte 曾试戴自拍的翅膀、熊形背包、绒球触角，全被一层如今已干硬的血痂覆盖。这幅景象在女儿最爱的店里——Brigitte 会把廉价首饰当成真品的店里——刺痛了她，比任何事都痛，比她所遭遇的任何命运都痛。
+**中文理解**：她把自己撑到坐姿，鼓起勇气睁眼； scenes 令她惊骇：成排的芭蕾裙被溅上红色，血染的蝴蝶翅膀与毛绒耳罩……那些她和 Brigitte 曾试戴自拍的翅膀、熊形背包、绒球触角，全被一层如今已干硬的血痂覆盖。这幅景象在女儿最爱的店里——Brigitte 会把廉价首饰当成真品的店里——刺痛了她，比任何事都痛，比她所遭遇的任何命运都痛。
 
 **关键词**：dared / horrified / splattered / now-stiff crust / dried blood
 
@@ -55,7 +55,7 @@ modified: "2026-10-20"
 
 > **原句 4:** “Her head was pounding. She almost touched it but stopped herself, afraid it wouldn’t be there, or not entirely there. She caught her reflection in one of those mirrors where girls admired their ballet slippers. Her head was there, but her hair was matted, and her face was a big, dark smudge. She dragged herself closer, unable to catch her breath, feeling weaker than she ever had. Her face was bloody, too, and she saw that her ears were covered in new piercings, full of earrings she’d never seen before. She counted nine hoops, all different sizes, five in one ear and four in the other. They appeared to be silver, but she wasn’t sure, since everything was scabbed over, brown and black. The appointment she couldn’t remember must have been long, unhygienic, and cruel.”
 
-她头痛欲裂；她几乎伸手去摸，却停住，怕头不在那里，或不完整。她看见镜中的自己——女孩们照芭蕾舞鞋的镜子——头还在，但头发结成血块，脸是大片暗色污迹。她拖着自己靠近，无法喘息，比以往任何时候都虚弱。脸也血淋淋的，她发现耳朵上布满新的穿孔，插满她从未见过的耳环：九个圈，大小不一，一只耳五只、一只耳四只，看似银质，却因一切结痂、褐黑而无法确认。她不记得的那次"预约"必定漫长、不卫生、且残酷。
+**中文理解**：她头痛欲裂；她几乎伸手去摸，却停住，怕头不在那里，或不完整。她看见镜中的自己——女孩们照芭蕾舞鞋的镜子——头还在，但头发结成血块，脸是大片暗色污迹。她拖着自己靠近，无法喘息，比以往任何时候都虚弱。脸也血淋淋的，她发现耳朵上布满新的穿孔，插满她从未见过的耳环：九个圈，大小不一，一只耳五只、一只耳四只，看似银质，却因一切结痂、褐黑而无法确认。她不记得的那次"预约"必定漫长、不卫生、且残酷。
 
 **关键词**：pounding / matted / smudge / scabbed / unhygienic / cruel
 
@@ -67,7 +67,7 @@ modified: "2026-10-20"
 
 > **原句 5:** “Then, hearing someone humming, she turned and saw the girl.”
 
-然后她听见有人在哼歌，转过身，看见了那个女孩。
+**中文理解**：然后她听见有人在哼歌，转过身，看见了那个女孩。
 
 **关键词**：humming / turned / saw
 

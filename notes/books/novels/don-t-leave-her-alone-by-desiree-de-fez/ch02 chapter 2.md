@@ -19,7 +19,7 @@ modified: "2026-10-20"
 
 > **原句 1:** “Alba planned her summers in January, buying cheap plane tickets as soon as she’d rung in the New Year, before she even knew if she could afford a vacation or what her husband’s schedule would look like. In August, she got ready for Halloween, ordering every decoration she could find on AliExpress. And in September, she did her first round of Christmas shopping. Just like that, year after year.”
 
-Alba 一月就规划夏天，新年后立刻买便宜机票，甚至还没确定是否负担得起假期或丈夫的行程；八月就为万圣节准备，AliExpress 上能订的装饰全订；九月就进行第一轮圣诞购物。就这样，年复一年。
+**中文理解**：Alba 一月就规划夏天，新年后立刻买便宜机票，甚至还没确定是否负担得起假期或丈夫的行程；八月就为万圣节准备，AliExpress 上能订的装饰全订；九月就进行第一轮圣诞购物。就这样，年复一年。
 
 **关键词**：planned / rung in / ordering / year after year
 
@@ -31,7 +31,7 @@ Alba 一月就规划夏天，新年后立刻买便宜机票，甚至还没确定
 
 > **原句 2:** “She was the first in her household to open her eyes that morning. It was seven thirty a.m. but still pitch-dark. She looked around. Only a point of light lit the room. Going to superhuman lengths to sit up in bed without waking the baby stretched out next to her, she slid her legs toward the floor, felt the cold of the parquet on her feet, and moved like a modern dancer, careful to stand without rustling anything. Barefoot, she crept toward the hall, sidestepping the clutter. When she was almost at the door, she kicked a toy car, which crashed against the wall. She couldn’t believe an object so small could make such a giant noise. It wasn’t an accident. She didn’t trip. She had done it on purpose. She’d seen the toy perfectly well and used all her strength to send it flying. The result: Everyone opened their eyes, two minutes after her. All of them now awake, tense, and jumpy.”
 
-她是家中第一个睁眼的人。七点半但天还漆黑。她环顾四周，只有一点光照明房间。她使出超人般的努力坐起，不吵醒身边伸展的婴儿，腿滑向地板、感到木地板的冷、像现代舞者般移动，小心站立不发出声响。赤脚，她向走廊 creep，避开杂物。快到门时，她踢了一辆玩具车，撞到墙上。她不敢相信这么小的东西能发出这么大的噪音。这不是意外。她没绊倒。她是故意的。她明明看见玩具，用全力把它踢飞。结果：两分钟后，所有人都睁眼了。全部醒来，紧绷、神经质。
+**中文理解**：她是家中第一个睁眼的人。七点半但天还漆黑。她环顾四周，只有一点光照明房间。她使出超人般的努力坐起，不吵醒身边伸展的婴儿，腿滑向地板、感到木地板的冷、像现代舞者般移动，小心站立不发出声响。赤脚，她向走廊 creep，避开杂物。快到门时，她踢了一辆玩具车，撞到墙上。她不敢相信这么小的东西能发出这么大的噪音。这不是意外。她没绊倒。她是故意的。她明明看见玩具，用全力把它踢飞。结果：两分钟后，所有人都睁眼了。全部醒来，紧绷、神经质。
 
 **关键词**：superhuman lengths / pitch-dark / on purpose / tense and jumpy
 
@@ -43,7 +43,7 @@ Alba 一月就规划夏天，新年后立刻买便宜机票，甚至还没确定
 
 > **原句 3:** “There were endless possible combinations of people in Sant Ildefons, but one had come to dominate the rest: grandmother, daughter, and grandchildren, always together. The grandmother always a bodily extension of the mother, a large and obedient appendage. The three parts forming a single organism, a many-tentacled jellyfish, a socially accepted and fully integrated creature that multiplied across the neighborhood. You’d catch sight of them at the playground, the grocery store, the school gates, the clinic. The infestation wasn’t unique to this area, nor even to the outskirts of Barcelona. But it was more pronounced at the periphery, since deeper in the city, the grandmothers were often supplanted by nannies. And with paid help, the bonds weren’t so tight, because that’s precisely what you were paying for—to delegate, to kill the jellyfish. In Sant Ildefons, though, it was an epidemic, though nobody really saw it as such.”
 
-Sant Ildefons 的人组成千变万化，但一种模式压倒其余：祖母、女儿、孙辈，永远在一起。祖母永远是母亲的身体延伸、巨大而顺从的附肢。三部分形成单一有机体、多触手的水母、被社会接受并完全融入的生物，在街坊繁殖。你会在操场、杂货店、校门、诊所看见它们。这种侵扰不独此地，甚至不独巴塞罗那郊区。但在边缘更显著，因为城市深处祖母常被保姆取代；有偿帮助时纽带不那么紧——那正是你付费的目的：委派、杀死水母。但在 Sant Ildefons，这是流行病，却无人视之为流行病。
+**中文理解**：Sant Ildefons 的人组成千变万化，但一种模式压倒其余：祖母、女儿、孙辈，永远在一起。祖母永远是母亲的身体延伸、巨大而顺从的附肢。三部分形成单一有机体、多触手的水母、被社会接受并完全融入的生物，在街坊繁殖。你会在操场、杂货店、校门、诊所看见它们。这种侵扰不独此地，甚至不独巴塞罗那郊区。但在边缘更显著，因为城市深处祖母常被保姆取代；有偿帮助时纽带不那么紧——那正是你付费的目的：委派、杀死水母。但在 Sant Ildefons，这是流行病，却无人视之为流行病。
 
 **关键词**：bodily extension / appendage / jellyfish / infestation / epidemic
 
@@ -55,7 +55,7 @@ Sant Ildefons 的人组成千变万化，但一种模式压倒其余：祖母、
 
 > **原句 4:** “Whenever she felt obsessive or anxious, the places she moved through shed all objects and life; they became thresholds that she alone crossed. In that moment, all she could see was the shirt collar of the associate. Everything else was blurry or dark, depending on the intensity of the light. For seconds, she lost herself in the details of the fabric’s edge, stretched out and frayed. Then the fabric blurred, became a grayish mole that slipped through the darkness. Alba followed that mark for a good while, until the weight of her son became intolerable: Since when did the child weigh thirty pounds? Her legs had started aching, like they did when she drank wine. It was always like that when she felt completely alone, and that could happen anywhere, on the street, at home, or at the mall. Her body would detach from reality. Then it hurt.”
 
-每当她感到 obsessive 或 anxious，她穿行的空间就 Shed 所有物体与生命，变成她独自穿越的 threshold。此刻她只能看见店员的衬衫领子。其余一切模糊或暗，取决于光线强度。几秒内她迷失在布料边缘的细节里—— stretched out and frayed。然后布料模糊、变成滑过黑暗的灰色痣。Alba 跟随那标记良久，直到儿子的重量变得无法忍受：孩子什么时候重三十磅了？她的腿开始酸痛，像她喝酒时那样。每次感到完全孤独时总是这样，可能发生在任何地方——街上、家、商场。她的身体脱离现实。然后痛。
+**中文理解**：每当她感到 obsessive 或 anxious，她穿行的空间就 Shed 所有物体与生命，变成她独自穿越的 threshold。此刻她只能看见店员的衬衫领子。其余一切模糊或暗，取决于光线强度。几秒内她迷失在布料边缘的细节里—— stretched out and frayed。然后布料模糊、变成滑过黑暗的灰色痣。Alba 跟随那标记良久，直到儿子的重量变得无法忍受：孩子什么时候重三十磅了？她的腿开始酸痛，像她喝酒时那样。每次感到完全孤独时总是这样，可能发生在任何地方——街上、家、商场。她的身体脱离现实。然后痛。
 
 **关键词**：threshold / detach / obsessive / anxious
 
@@ -67,7 +67,7 @@ Sant Ildefons 的人组成千变万化，但一种模式压倒其余：祖母、
 
 > **原句 5:** “Alba had just stepped out of MediaMarkt—for the second time—when she saw them approaching. The same two women she always saw there. They were a few meters away now, and they terrified her. She couldn’t understand why they always turned up, no matter what time they went to the mall. Were they really always there? They looked to be around seventy and were practically identical. They had hairstyles from another era—stiff waves framing two hard, faintly mustached faces, not a single trace of makeup. They dressed in uncompromising black, as if they’d been mourning someone for years, out of inertia, duty, or boredom. And they were always roaming arm in arm. With their free arms, they clung to their bags so tightly that stealing them was outside the realm of possibility. Not a day went by without Alba and Carmen seeing them stroll through the mall, same attitude, same expression, as if they were just passing time in the village square. … Alba simply called them “the widows,” and every time she saw them, she’d make Carmen turn abruptly so they wouldn’t cross paths.”
 
-Alba 刚走出 MediaMarkt——第二次——就看见她们逼近。那两个她总在那儿看见的女人。她们现在几米远，吓坏她了。她不明白为什么她们总是出现，不管她什么时候去商场。她们真的总在吗？看起来七十岁左右，几乎一模一样：过时发型——僵硬波浪框住两张硬朗、微髭的脸，一丝妆都没有。她们穿毫不妥协的黑，像为某人哀悼多年，出于惯性、义务或无聊。她们总是挽臂而行，空着的手紧抱包包，偷都偷不走。Alba 和 Carmen 没有一天不看见她们在商场 stroll，同样态度、同样表情，像在村广场消磨时光。……Alba 只叫她们"寡妇"，每次看见，她都让 Carmen 突然转身避免相撞。
+**中文理解**：Alba 刚走出 MediaMarkt——第二次——就看见她们逼近。那两个她总在那儿看见的女人。她们现在几米远，吓坏她了。她不明白为什么她们总是出现，不管她什么时候去商场。她们真的总在吗？看起来七十岁左右，几乎一模一样：过时发型——僵硬波浪框住两张硬朗、微髭的脸，一丝妆都没有。她们穿毫不妥协的黑，像为某人哀悼多年，出于惯性、义务或无聊。她们总是挽臂而行，空着的手紧抱包包，偷都偷不走。Alba 和 Carmen 没有一天不看见她们在商场 stroll，同样态度、同样表情，像在村广场消磨时光。……Alba 只叫她们"寡妇"，每次看见，她都让 Carmen 突然转身避免相撞。
 
 **关键词**：terrified / mourning / inertia / roaming arm in arm
 
@@ -79,7 +79,7 @@ Alba 刚走出 MediaMarkt——第二次——就看见她们逼近。那两个�
 
 > **原句 6:** “Diana and Alba both barely slept that night. They were overwhelmingly disturbed, and the guilt seeped through their insides as quickly as the blood through Brigitte’s leotard, with the same unbreakable consistency as the clot Diana had pulled from Brisa’s nose. None of the explanations from pediatricians, gymnastics coaches, Carmen, Carlos, or Juan convinced them. They could find no solace. Both situations were horrible, appalling, and incomprehensible. Even more disturbingly: It had happened to their daughters, not other women’s, and at the exact same time.”
 
-Alba 和 Diana 那晚几乎没睡。她们被压倒性地 disturb，罪疚感 seep through 她们内脏，像血 seep through Brigitte 的体操服，像 Diana 从 Brisa 鼻子抽出的血凝块一样 unbreakable。儿科医生、体操教练、Carmen、Carlos、Juan 的解释都没说服她们。她们找不到 solace。两种情况都 horrible、appalling、incomprehensible。更 disturbing：发生在她们女儿身上，不是别的女人的，且在同一时刻。
+**中文理解**：Alba 和 Diana 那晚几乎没睡。她们被压倒性地 disturb，罪疚感 seep through 她们内脏，像血 seep through Brigitte 的体操服，像 Diana 从 Brisa 鼻子抽出的血凝块一样 unbreakable。儿科医生、体操教练、Carmen、Carlos、Juan 的解释都没说服她们。她们找不到 solace。两种情况都 horrible、appalling、incomprehensible。更 disturbing：发生在她们女儿身上，不是别的女人的，且在同一时刻。
 
 **关键词**：overwhelmingly / seeped / solace / appalling / incomprehensible
 

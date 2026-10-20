@@ -19,7 +19,7 @@ modified: "2026-10-20"
 
 > **原句 1:** “It’s eight thirty already. How late are they open?” … “Until ten. I just need to exchange these and then get a couple more presents.” … “More presents?” … “Yeah. Are you all done with your shopping?” … “No, Friday I’m sneaking out while Carlos is with the kids.”
 
-“现在都八点半了。他们几点关门？”……“十点。我只需要把这些换了，再买几件礼物。”……“还买礼物？”……“是啊。你购物都买完了？”……“没有，周五 Carlos 看孩子的时候我偷偷溜出去买。”
+**中文理解**：“现在都八点半了。他们几点关门？”……“十点。我只需要把这些换了，再买几件礼物。”……“还买礼物？”……“是啊。你购物都买完了？”……“没有，周五 Carlos 看孩子的时候我偷偷溜出去买。”
 
 **关键词**：sneaking out / shopping
 
@@ -30,7 +30,7 @@ modified: "2026-10-20"
 
 > **原句 2:** “How was Brisa’s play?” … “It was bad.” … “What do you mean bad?” … “I’ll tell you later. Look, let me call you back, I need to call Mom before dinner. Oh, never mind, she has her Christmas drinks tonight.” … “She didn’t go.” … “How come? She wouldn’t shut up about it all week. She was driving me nuts.” … “She stayed with the kids.” … “With what kids?” … “Well, with mine.”
 
-“布里萨的演出怎么样？”……“糟透了。”……“什么叫糟透了？”……“我回头再告诉你。听着，让我回你电话，晚饭前我得给妈妈打电话。哦，算了，她今晚有圣诞聚会。”……“她没去。”……“怎么？她一整周都在念叨这事，都快把我逼疯了。”……“她留下来带孩子了。”……“带谁家孩子？”……“嗯，带我家的。”
+**中文理解**：“布里萨的演出怎么样？”……“糟透了。”……“什么叫糟透了？”……“我回头再告诉你。听着，让我回你电话，晚饭前我得给妈妈打电话。哦，算了，她今晚有圣诞聚会。”……“她没去。”……“怎么？她一整周都在念叨这事，都快把我逼疯了。”……“她留下来带孩子了。”……“带谁家孩子？”……“嗯，带我家的。”
 
 **关键词**：wouldn’t shut up / driving me nuts
 
@@ -41,7 +41,7 @@ modified: "2026-10-20"
 
 > **原句 3:** “Jesus, Alba, couldn’t you have gone another time?” … “When?” … “Tomorrow, maybe?” … “No way, I can’t tomorrow.” … “Why?” … “In the morning I’ve got the baby’s check-up, and in the afternoon we’re doing my birthday thing.” … “Couldn’t you have just run out when Juan got off work?” … “Impossible.” … “Friday, then.” … “On Christmas Eve? Hell no.”
 
-“天啊，Alba，你就不能挑别的时候去吗？”……“什么时候？”……“明天，可能吗？”……“没门，我明天不行。”……“为什么？”……“早上宝宝要体检，下午我们庆祝我的生日。”……“Juan 下班后你不能跑一趟吗？”……“不可能。”……“那周五吧。”……“圣诞夜？绝对不行。”
+**中文理解**：“天啊，Alba，你就不能挑别的时候去吗？”……“什么时候？”……“明天，可能吗？”……“没门，我明天不行。”……“为什么？”……“早上宝宝要体检，下午我们庆祝我的生日。”……“Juan 下班后你不能跑一趟吗？”……“不可能。”……“那周五吧。”……“圣诞夜？绝对不行。”
 
 **关键词**：Impossible / Hell no
 
@@ -51,7 +51,7 @@ modified: "2026-10-20"
 
 > **原句 4:** “You could have asked me to exchange them when I go for my stuff on Friday.” … “Were you planning to go to Finestrelles?” … “No, but surely they have them at Corte Inglés?” … “It doesn’t matter, it’s an exchange. It has to be MediaMarkt.”
 
-“你本可以让我周五买自己东西的时候顺便帮你换。”……“你打算去 Finestrelles？”……“不，不过 Corte Inglés 肯定也有吧？”……“那无所谓，这是换货，必须去 MediaMarkt。”
+**中文理解**：“你本可以让我周五买自己东西的时候顺便帮你换。”……“你打算去 Finestrelles？”……“不，不过 Corte Inglés 肯定也有吧？”……“那无所谓，这是换货，必须去 MediaMarkt。”
 
 **关键词**：exchange / MediaMarkt
 
@@ -62,7 +62,7 @@ modified: "2026-10-20"
 
 > **原句 5:** “You know she cares! She got her nails done yesterday!” … “Yeah, but I can’t take the bus by myself.” … “Why not?” … “Because it’s always packed this time of year and I get overwhelmed with the baby.” … “But why did you take the baby?” … “In case he got hungry.” … “Oh please, he’s practically a teenager! He’s almost a year old, Alba! He can go a few hours without your boob!” … “No, no, when he wants to nurse, he throws a fit.” … “Well, you give him a cookie and that’s that.”
 
-“你知道她关心你！她昨天刚做了指甲！”……“是啊，可我一个人坐不了公交。”……“为什么？”……“因为这个时节公交总是挤爆了，带着宝宝我 overwhelmed（ overwhelmed ）。”……“那你为什么带宝宝去？”……“以防他饿了。”……“拜托，他 practically 一个青少年了！快一岁了，Alba！他可以几小时不吃你的奶！”……“不不，他一想吃奶就发脾气。”……“那就给他一块饼干，就这么简单。”
+**中文理解**：“你知道她关心你！她昨天刚做了指甲！”……“是啊，可我一个人坐不了公交。”……“为什么？”……“因为这个时节公交总是挤爆了，带着宝宝我 overwhelmed（ overwhelmed ）。”……“那你为什么带宝宝去？”……“以防他饿了。”……“拜托，他 practically 一个青少年了！快一岁了，Alba！他可以几小时不吃你的奶！”……“不不，他一想吃奶就发脾气。”……“那就给他一块饼干，就这么简单。”
 
 **关键词**：overwhelmed / teenager / throws a fit
 
@@ -73,7 +73,7 @@ modified: "2026-10-20"
 
 > **原句 6:** “You can’t celebrate two things at once. It’s bad luck. And you know it.” … “Christ, Alba, I’ve got to go. We’ll talk later.”
 
-"你不能同时庆祝两件事。不吉利。你知道的。"……"天啊，Alba，我得走了。我们回头再聊。"
+**中文理解**："你不能同时庆祝两件事。不吉利。你知道的。"……"天啊，Alba，我得走了。我们回头再聊。"
 
 **关键词**：bad luck
 

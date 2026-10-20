@@ -19,7 +19,7 @@ modified: "2026-10-20"
 
 > **原句 1:** "One of Diana's back pockets started to vibrate. She stopped examining herself and picked up, unconcerned that her hand was covered in blood. She said, 'Hello,' listened, didn't respond."
 
-戴安娜的一个后口袋开始震动。她停止检查自己，接起电话，毫不在意手上沾满鲜血。她说："喂。"听了一会儿，没有回应。
+**中文理解**：戴安娜的一个后口袋开始震动。她停止检查自己，接起电话，毫不在意手上沾满鲜血。她说："喂。"听了一会儿，没有回应。
 
 **关键词**：vibrate / unconcerned / Hello
 
@@ -31,7 +31,7 @@ modified: "2026-10-20"
 
 > **原句 2:** "'I have to call you back,' she said, almost to herself, sliding the iPhone into her pocket. 'They can't find Alba.'"
 
-"我得回个电话。"她几乎是对着自己说，把 iPhone 滑进口袋。"他们找不到阿尔芭了。"
+**中文理解**："我得回个电话。"她几乎是对着自己说，把 iPhone 滑进口袋。"他们找不到阿尔芭了。"
 
 **关键词**：call you back / almost to herself / sliding / can't find
 
@@ -43,7 +43,7 @@ modified: "2026-10-20"
 
 > **原句 3:** "'What?' Carlos asked, still covering Diana with the coat. 'They can't find Alba.' 'What do you mean they can't find Alba?' 'Mom just said Alba is missing.'"
 
-"什么？"卡洛斯问，仍用外套裹着戴安娜。"他们找不到阿尔芭了。""你说他们找不到阿尔芭是什么意思？""妈妈刚说阿尔芭失踪了。"
+**中文理解**："什么？"卡洛斯问，仍用外套裹着戴安娜。"他们找不到阿尔芭了。""你说他们找不到阿尔芭是什么意思？""妈妈刚说阿尔芭失踪了。"
 
 **关键词**：still covering / can't find / missing / Mom just said
 

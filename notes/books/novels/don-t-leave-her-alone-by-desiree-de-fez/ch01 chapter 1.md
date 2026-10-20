@@ -19,7 +19,7 @@ modified: "2026-10-20"
 
 > **原句 1:** “The preschoolers had dressed up as angels. They wore wings made of cardboard and cotton, golden crowns, glitter on their chubby cheeks. The idea was that everything should be immaculate white, to symbolize purity, but a few pairs of beige Decathlon pants and threadbare T-shirts kept the scene from flawlessness. From the stage, Brisa scanned the room for her mother while she recited the Christmas poem: I’m the queen of the house and nougat’s my treat, at Christmas I send you kisses so sweet! She looked for her in the audience, her performance switching to playback as she mouthed the verses they had spent weeks preparing with clumsy charm. Failing to see her mom in the crowd, she decided to stop looking.”
 
-幼儿园孩子们扮成天使：硬纸板与棉花做的翅膀、金色皇冠、胖乎乎脸颊上的亮片；一切应是无瑕的白以象征纯洁，但几条米色 Decathlon 裤子与磨薄的 T 恤让画面离完美有距。台上，Brisa 一边背圣诞诗一边扫视观众席找母亲："我是家中的女王，牛轧糖是我的甜点，圣诞时我送你甜蜜的吻！"她在观众席中寻觅，表演切到"回放"模式，嘴唇无声默念几周来笨拙却认真准备的诗行。没在人群中看见妈妈，她决定不再找了。
+**中文理解**：幼儿园孩子们扮成天使：硬纸板与棉花做的翅膀、金色皇冠、胖乎乎脸颊上的亮片；一切应是无瑕的白以象征纯洁，但几条米色 Decathlon 裤子与磨薄的 T 恤让画面离完美有距。台上，Brisa 一边背圣诞诗一边扫视观众席找母亲："我是家中的女王，牛轧糖是我的甜点，圣诞时我送你甜蜜的吻！"她在观众席中寻觅，表演切到"回放"模式，嘴唇无声默念几周来笨拙却认真准备的诗行。没在人群中看见妈妈，她决定不再找了。
 
 **关键词**：immaculate / threadbare / flawlessness / clumsy charm / playback
 
@@ -31,7 +31,7 @@ modified: "2026-10-20"
 
 > **原句 2:** “Diana had done everything to make sure she would be on time for her daughter’s Christmas play. Her partner was going to be in Madrid all day, so a classmate’s mom was picking up her son. She had blocked off the afternoon weeks in advance: She’d go to the performance, then take Brisa out for a treat. A girls’ day, just the two of them. She left the house early, happy to have turned in her articles before the start of the holidays. She’d even finished the following week’s assignments, something she hadn’t managed since she’d gone freelance all those years ago. She couldn’t remember a Christmas when she hadn’t put off her shopping, slipped out of a family dinner, or missed a school play just to hole up and finish reviewing some absurd movie, or rush off to interview a barely relevant public figure. Diana walked down Balmes looking radiant, more put-together than usual, intending to have an espresso before heading to the school.”
 
-Diana 为确保准时参加女儿的圣诞演出做了所有安排：伴侣全天在马德里，所以同学的母亲代接儿子；几周前就划出下午时段：先看演出，再带 Brisa 去吃点什么——母女二人时光。她提早出门，因假期前交完稿而高兴；甚至完成下周的约稿，这是她多年前自由职业以来从未做到的。她想不起哪年圣诞节没拖延购物、没溜出家庭晚餐、没为了窝着写完某部荒诞电影的评论或冲去采访某个无足轻重的公众人物而错过校庆演出。Diana 走在 Balmes 大道上容光焕发、比平时更精致，打算进学校前先喝杯浓缩咖啡。
+**中文理解**：Diana 为确保准时参加女儿的圣诞演出做了所有安排：伴侣全天在马德里，所以同学的母亲代接儿子；几周前就划出下午时段：先看演出，再带 Brisa 去吃点什么——母女二人时光。她提早出门，因假期前交完稿而高兴；甚至完成下周的约稿，这是她多年前自由职业以来从未做到的。她想不起哪年圣诞节没拖延购物、没溜出家庭晚餐、没为了窝着写完某部荒诞电影的评论或冲去采访某个无足轻重的公众人物而错过校庆演出。Diana 走在 Balmes 大道上容光焕发、比平时更精致，打算进学校前先喝杯浓缩咖啡。
 
 **关键词**：blocked off / turned in / freelance / radiant / put-together
 
@@ -43,7 +43,7 @@ Diana 为确保准时参加女儿的圣诞演出做了所有安排：伴侣全�
 
 > **原句 3:** “But halfway there, her heart started pounding in her ears. It couldn’t be. There was no way. She couldn’t have left her straightener on, could she have? Surely not. She mentally reconstructed the moments before she left the house, but she couldn’t specifically remember the moment when she unplugged it. She tried to convince herself it would be all right even if it were on, because she always left it resting in the sink—there was no danger because there was nothing for it to touch. And anyway, she was sure it had a temperature gauge and turned off on its own when it got too hot. But did it actually have a temperature gauge? Was she sure? In fact, she had never paid attention, and it was quite old. What if she’d left the tap dripping and water got on the straightener? Or maybe she’d set it on the shelf, next to the towels, instead of in the sink? She turned halfway around. She called Carlos to tell him what had happened. She wanted him to pick up and tell her what she knew already: that she hadn’t left the straightener on, or the door open, or the lock unlocked. She wanted him to make the decision for her, tell her not to go back home to check. But he didn’t pick up. So she hurried back up Balmes, teary-eyed, embarrassed. She felt the weight of her makeup, the pins and needles on her face, the sweat soaking through her thermal T-shirt, her too-tight new boots destroying her pinkie toes.”
 
-但走到一半，她心跳如雷贯耳。不可能。绝无可能。她不可能把直发器开着就出门，对吧？当然不会。她 mentally 重建离家前的时刻，却无法具体记起拔掉插头的瞬间。她试图说服自己即使开着也无妨，因为总是把它放在水槽里——没危险，因为它碰不到任何东西。而且她确信它有温控、过热会自动断电。但它真的有温控吗？她确定吗？事实上她从未留意，而且它相当旧了。万一她把水龙头开着、水溅到直发器上呢？或者她把它放在架子上、毛巾旁边，而不是水槽里？她转过身。她打电话给 Carlos 说发生的事。她希望他接电话、告诉她她已知道的事：她没把直发器开着、门开着、锁开着。她希望他替她做决定，告诉她别回家检查。但他没接。于是她哭着、羞愧地 hurried 回 Balmes。她感到化妆品的重量、脸上针刺般的麻木、汗水浸透保暖 T 恤、过紧的新靴子摧毁她的脚趾。
+**中文理解**：但走到一半，她心跳如雷贯耳。不可能。绝无可能。她不可能把直发器开着就出门，对吧？当然不会。她 mentally 重建离家前的时刻，却无法具体记起拔掉插头的瞬间。她试图说服自己即使开着也无妨，因为总是把它放在水槽里——没危险，因为它碰不到任何东西。而且她确信它有温控、过热会自动断电。但它真的有温控吗？她确定吗？事实上她从未留意，而且它相当旧了。万一她把水龙头开着、水溅到直发器上呢？或者她把它放在架子上、毛巾旁边，而不是水槽里？她转过身。她打电话给 Carlos 说发生的事。她希望他接电话、告诉她她已知道的事：她没把直发器开着、门开着、锁开着。她希望他替她做决定，告诉她别回家检查。但他没接。于是她哭着、羞愧地 hurried 回 Balmes。她感到化妆品的重量、脸上针刺般的麻木、汗水浸透保暖 T 恤、过紧的新靴子摧毁她的脚趾。
 
 **关键词**：reconstructed / temperature gauge / teary-eyed
 
@@ -55,7 +55,7 @@ Diana 为确保准时参加女儿的圣诞演出做了所有安排：伴侣全�
 
 > **原句 4:** “More humiliating than her slow but steady breakdown, than the feeling of becoming as lifeless as a dishrag, was crossing paths with the parents of Brisa’s classmates, who all had left home with just enough time but would seemingly still beat her to the school play. She pretended she was texting to avoid eye contact—she couldn’t stand when smiling parents pointed out that she was going the wrong way, though she herself had made that joke, too, when she saw someone rushing home to grab a swim bag or whatever else.”
 
-比她缓慢却持续的崩溃、比她变得像抹布一样无精打采更羞辱的，是与 Brisa 同学家长擦肩而过——他们都"刚刚好"出门，却似乎仍会比她先到校庆。她假装发短信避免眼神接触——她受不了微笑的家长指出她走反方向，尽管她自己也曾在看见有人冲回家取泳包或别的什么时开过同样玩笑。
+**中文理解**：比她缓慢却持续的崩溃、比她变得像抹布一样无精打采更羞辱的，是与 Brisa 同学家长擦肩而过——他们都"刚刚好"出门，却似乎仍会比她先到校庆。她假装发短信避免眼神接触——她受不了微笑的家长指出她走反方向，尽管她自己也曾在看见有人冲回家取泳包或别的什么时开过同样玩笑。
 
 **关键词**：humiliating / dishrag / crossing paths
 
@@ -67,7 +67,7 @@ Diana 为确保准时参加女儿的圣诞演出做了所有安排：伴侣全�
 
 > **原句 5:** “After what felt like hours, she arrived at the building entrance, exhausted. She didn’t smell anything frying or burning. She climbed the stairs, breathless, hoping she had, in fact, left the straightener on and that something—a towel, a scrunchie—would catch fire the precise moment she walked through the door. She longed for a harmless flame, something small she could easily put out, to prove to herself that she wasn’t ridiculous; sure, she had missed the start of the play, but she’d also averted a total catastrophe. She went in. There was no smoke, no fire, no click of the temperature gauge. The straightener, which of course had no thermostat, was turned off with the cord coiled up, set half a meter from everything else in the bathroom. Everything was in order. Everything had been checked, and checked again, an hour earlier.”
 
-仿佛过了几小时，她精疲力竭地到家门口。没闻到任何煎炸或烧焦味。她喘着气爬楼梯，希望她确实把直发器开着、希望某物——毛巾、发圈——会在她推门瞬间起火。她渴望一簇无害的小火、能轻松扑灭的小火，以证明自己不荒谬；当然她错过了演出开头，但她也避免了一场全面灾难。她进了门。没烟、没火、没温控咔嗒声。那把当然没有温控的直发器，插头拔掉、线圈好，放在浴室里离所有东西半米远处。一切井然。一切在一小时前已检查过、再检查过。
+**中文理解**：仿佛过了几小时，她精疲力竭地到家门口。没闻到任何煎炸或烧焦味。她喘着气爬楼梯，希望她确实把直发器开着、希望某物——毛巾、发圈——会在她推门瞬间起火。她渴望一簇无害的小火、能轻松扑灭的小火，以证明自己不荒谬；当然她错过了演出开头，但她也避免了一场全面灾难。她进了门。没烟、没火、没温控咔嗒声。那把当然没有温控的直发器，插头拔掉、线圈好，放在浴室里离所有东西半米远处。一切井然。一切在一小时前已检查过、再检查过。
 
 **关键词**：averted / catastrophe / coiled up / in order
 
@@ -79,7 +79,7 @@ Diana 为确保准时参加女儿的圣诞演出做了所有安排：伴侣全�
 
 > **原句 6:** “Diana arrived at the Christmas play late, her pinkie toes raw. When she walked through the school doors, she could feel the teacher’s aide—lost in thought, counting the minutes until she could leave—judge her for being late. Diana’s eyes clouded and her legs shook when, from the hallway, she heard the Christmas song Brisa had been humming at home for weeks. She’d been hoping the play had started late, or that the kids in the other year had gone first. But no. They went class by class, in order. Diana walked faster, spilling into the auditorium. She saw the kids on stage, and the exact same shot in miniature, multiplied by one hundred, on their parents’ and grandparents’ phone screens—they’d ignored the instruction not to take videos. She saw none of the nannies she knew from school pickup. Only rows of family members who’d arrived well before she had, mostly moms. Moms who had shown up on time, serene and impeccable, toes soft and perfect. After the poem, the kids launched into a loosely religious version of a Taylor Swift song. The parents laughed loudly, eager to show they recognized a song so famous that even an alien would know it. Diana sat down alone in the last row, careful not to make a sound, and looked for Brisa in the windows between other parents’ arms. The stage was dimly lit and all the children resembled one another, but it wasn’t hard for her to spot Brisa. Not just because she could have picked her daughter out even in darkness, but because Brisa was acting in a way that drew attention. In a way, her acting out had made her the star of the Christmas play: The only child not singing, she had crossed her arms and made a mask of the golden crown her classmates wore on their heads. Stung by her mother’s absence, she had sunk into the choir. She looked like a tiny felon in a lineup, blindfolded with a band of sparkly paper.”
 
-Diana 迟到抵达圣诞演出，脚趾磨破。她推门而入时感到助教——神游、数着能离开的分钟——在评断她的迟到。Diana 眼睛模糊、双腿发抖，因为从走廊传来 Brisa 在家哼了几周的圣诞歌。她曾希望演出开始晚、或先让别的年级上场。但没有。他们按班级顺序上场。Diana 加快脚步、冲进礼堂。她看见台上的孩子，以及在家长与祖父母手机屏幕上被缩小一百倍的同一画面——他们无视"请勿录像"的指示。她没看见任何接送时认识的保姆，只有早已到场的家人们，多是母亲。按时到场、从容无瑕、脚趾柔软完美的母亲们。诗背完后，孩子们唱起 Taylor Swift 歌曲的半宗教版本；家长大声笑，急于显示他们认得这首连外星人都会的歌。Diana 独自坐在最后一排，小心翼翼不发出声响，在其他家长手臂间的缝隙里寻找 Brisa。舞台昏暗、所有孩子相像，但找到 Brisa 不难——不仅因为她在黑暗中也能认出女儿，更因为 Brisa 的行为引人注目。某种意义上，她的"表演"让她成了圣诞演出的明星：唯一不唱的孩子，她抱起双臂、把金色皇冠做成面具戴在头上。因母亲缺席而受伤，她沉入合唱队中。她看起来像列队中的小罪犯，被一条闪亮纸带蒙着眼。
+**中文理解**：Diana 迟到抵达圣诞演出，脚趾磨破。她推门而入时感到助教——神游、数着能离开的分钟——在评断她的迟到。Diana 眼睛模糊、双腿发抖，因为从走廊传来 Brisa 在家哼了几周的圣诞歌。她曾希望演出开始晚、或先让别的年级上场。但没有。他们按班级顺序上场。Diana 加快脚步、冲进礼堂。她看见台上的孩子，以及在家长与祖父母手机屏幕上被缩小一百倍的同一画面——他们无视"请勿录像"的指示。她没看见任何接送时认识的保姆，只有早已到场的家人们，多是母亲。按时到场、从容无瑕、脚趾柔软完美的母亲们。诗背完后，孩子们唱起 Taylor Swift 歌曲的半宗教版本；家长大声笑，急于显示他们认得这首连外星人都会的歌。Diana 独自坐在最后一排，小心翼翼不发出声响，在其他家长手臂间的缝隙里寻找 Brisa。舞台昏暗、所有孩子相像，但找到 Brisa 不难——不仅因为她在黑暗中也能认出女儿，更因为 Brisa 的行为引人注目。某种意义上，她的"表演"让她成了圣诞演出的明星：唯一不唱的孩子，她抱起双臂、把金色皇冠做成面具戴在头上。因母亲缺席而受伤，她沉入合唱队中。她看起来像列队中的小罪犯，被一条闪亮纸带蒙着眼。
 
 **关键词**：spilling into / serene / impeccable / loosely religious / acting out / felon
 

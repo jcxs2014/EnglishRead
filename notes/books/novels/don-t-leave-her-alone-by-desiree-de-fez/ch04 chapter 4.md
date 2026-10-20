@@ -19,7 +19,7 @@ modified: "2026-10-20"
 
 > **原句 1:** “Diana’s apartment was obsessively organized. Shelves full of books lined the walls. Cheap shelves she had hated and been ashamed of for most of her life. Diana had dreamed for years of buying expensive shelving, real wood, solid and custom-made. … She had overcome her obsession with expensive shelving a few years ago, when a prestigious literary agent told her there was nothing like the IKEA Billy—they were simply the best in the world. From that day on, she was proud of her library, both the books and the furniture holding them, some of which was already falling apart and covered with permanent smears from being marked, deconstructed, and reassembled again and again by careless unofficial movers.”
 
-Diana 的公寓被强迫性地整理得井井有条。装满书的书架沿着墙壁排列。她大半辈子都讨厌、羞于启齿的廉价书架。Diana 多年来梦想买昂贵的书架，实木的，坚固的，定制的。……几年前她克服了对昂贵书架的执念，当时一位有声望的文学经纪人告诉她，世上没有比 IKEA Billy 更好的了——它们就是世界上最好的。从那天起，她为自己的图书馆感到骄傲，书与承载它们的家具，其中有些已经散架，布满永久的污迹，因为被粗心的非官方搬运工反复标记、拆解、重新组装。
+**中文理解**：Diana 的公寓被强迫性地整理得井井有条。装满书的书架沿着墙壁排列。她大半辈子都讨厌、羞于启齿的廉价书架。Diana 多年来梦想买昂贵的书架，实木的，坚固的，定制的。……几年前她克服了对昂贵书架的执念，当时一位有声望的文学经纪人告诉她，世上没有比 IKEA Billy 更好的了——它们就是世界上最好的。从那天起，她为自己的图书馆感到骄傲，书与承载它们的家具，其中有些已经散架，布满永久的污迹，因为被粗心的非官方搬运工反复标记、拆解、重新组装。
 
 **关键词**：obsessively organized / prestigious / Billy / deconstructed
 
@@ -31,7 +31,7 @@ Diana 的公寓被强迫性地整理得井井有条。装满书的书架沿着�
 
 > **原句 2:** “She wasn’t one to nap, and even if she lay down for a moment, she never slept. But when she felt overwhelmed, she could only do two things: shower or pretend, no audience required, to rest in bed for a while. … Diana, who knew the order and speed with which Carlos unlocked the locks, was glad she hadn’t slid on the chain—now she didn’t have to get up.”
 
-她不是会小睡的人，即使躺下片刻也不会睡。但当她感到不堪重负时，她只能做两件事：淋浴，或者假装——无需观众——在床上歇一会儿。……Diana 知道 Carlos 解锁门锁的顺序和速度，她庆幸没有挂上链锁——现在不用起床了。
+**中文理解**：她不是会小睡的人，即使躺下片刻也不会睡。但当她感到不堪重负时，她只能做两件事：淋浴，或者假装——无需观众——在床上歇一会儿。……Diana 知道 Carlos 解锁门锁的顺序和速度，她庆幸没有挂上链锁——现在不用起床了。
 
 **关键词**：overwhelmed / pretend / chain
 
@@ -43,7 +43,7 @@ Diana 的公寓被强迫性地整理得井井有条。装满书的书架沿着�
 
 > **原句 3:** “I’m not strong, I’m resistant,” she would say to herself. Deep down, she wanted to blow up one day, so everyone could see that she wasn’t lying, she said she was exhausted because she was exhausted. She was convinced that any other person who felt the way she felt would be on leave or sent straight to the hospital. It infuriated her that each time she said she was tired, the response was always the same: “Me, too.” As if everyone else was just as tired but could nevertheless stay on their feet.
 
-"我不是强者，我是能扛的，"她会对自己说。内心深处，她想有一天崩溃爆发，以便大家都能看到她不是在撒谎，她说疲惫是因为她真的疲惫。她深信，任何其他感受到她这样的人要么会请假休息，要么会被直接送进医院。每次她说自己累了，得到的回应总是"我也是"，这让她愤怒。就好像其他人也都一样累，却仍然能站得住脚。
+**中文理解**："我不是强者，我是能扛的，"她会对自己说。内心深处，她想有一天崩溃爆发，以便大家都能看到她不是在撒谎，她说疲惫是因为她真的疲惫。她深信，任何其他感受到她这样的人要么会请假休息，要么会被直接送进医院。每次她说自己累了，得到的回应总是"我也是"，这让她愤怒。就好像其他人也都一样累，却仍然能站得住脚。
 
 **关键词**：resistant / blow up / on leave / infuriated
 
@@ -55,7 +55,7 @@ Diana 的公寓被强迫性地整理得井井有条。装满书的书架沿着�
 
 > **原句 4:** “That thing from the other day happened again.” … “When I took them to school this morning, I saw perfectly well that they’d gone through the doors. Brisa went in with her friend Valeria, they were adorable. They made a little heart with their hands when they turned toward the classrooms. And when I took Tomás, that terrible woman who’s always at the entrance scolded us for being three minutes late. I watched them both go in, I remember both moments. The images in my head are clear as could be. And still, I swear, the entire way home, I couldn’t stop thinking I’d gotten distracted and Brisa hadn’t made it inside. I could barely breathe. I was about to call the school and have them check that she was there, but I restrained myself, knowing they’d think I’ve lost it.”
 
-"前两天那件事又发生了。"……"今天早上送他们上学时，我看得清清楚楚，他们都进门了。Brisa 和她的朋友 Valeria 一起进去的，她们可爱极了。她们在朝教室转过身时用手比出了一个小爱心。而当我送 Tomás 时，那个总在门口的女人斥责我们迟到了三分钟。我看着他们俩都进去了，我记得这两个时刻。我脑海里的画面清晰无比。可我还是发誓，一路回家，我无法停止想着我分了神，Brisa 没有进去。我几乎无法呼吸。我正要打电话给学校让他们确认她在那儿，但我克制了自己，知道他们会以为我疯了。"
+**中文理解**："前两天那件事又发生了。"……"今天早上送他们上学时，我看得清清楚楚，他们都进门了。Brisa 和她的朋友 Valeria 一起进去的，她们可爱极了。她们在朝教室转过身时用手比出了一个小爱心。而当我送 Tomás 时，那个总在门口的女人斥责我们迟到了三分钟。我看着他们俩都进去了，我记得这两个时刻。我脑海里的画面清晰无比。可我还是发誓，一路回家，我无法停止想着我分了神，Brisa 没有进去。我几乎无法呼吸。我正要打电话给学校让他们确认她在那儿，但我克制了自己，知道他们会以为我疯了。"
 
 **关键词**：restrained / clear as could be / could barely breathe
 
@@ -67,7 +67,7 @@ Diana 的公寓被强迫性地整理得井井有条。装满书的书架沿着�
 
 > **原句 5:** “Carlos, who was an only child and barely had any contact with his parents, often stayed on the edge of family turmoil. He found it overwhelming and only engaged when it was directly and seriously affecting him. … He could see very clearly Alba was holding Carmen hostage and intimidating the rest of them. But when he tried to convey that to Diana, it always played out the same way, and he only ended up getting frustrated. … He pointed out that Alba’s demands weren’t normal. That Diana couldn’t always be at her beck and call, nor should she have Carmen at her service twenty-four hours a day. That such a degree of submission was just as bad for her mother as it was for Alba herself, and at her age, she shouldn’t be so dependent on others.”
 
-"Carlos 是独生子，与父母几乎没什么联系，常常游离于家庭纷争的边缘。他觉得不堪重负，只有当纷争直接且严重地影响到他时才参与。……他非常清楚地看到 Alba 把 Carmen 当作人质，并恐吓他们其他人。但当他试图向 Diana 传达这一点时，总是以相同的方式展开，最后他只能感到沮丧。……他指出 Alba 的要求并不正常。Diana 不能总是随叫随到，也不该让 Carmen 一天二十四小时为她服务。这种程度的屈服对她的母亲和 Alba 本人都不好，而且以她的年纪，她不该如此依赖他人。"
+**中文理解**："Carlos 是独生子，与父母几乎没什么联系，常常游离于家庭纷争的边缘。他觉得不堪重负，只有当纷争直接且严重地影响到他时才参与。……他非常清楚地看到 Alba 把 Carmen 当作人质，并恐吓他们其他人。但当他试图向 Diana 传达这一点时，总是以相同的方式展开，最后他只能感到沮丧。……他指出 Alba 的要求并不正常。Diana 不能总是随叫随到，也不该让 Carmen 一天二十四小时为她服务。这种程度的屈服对她的母亲和 Alba 本人都不好，而且以她的年纪，她不该如此依赖他人。"
 
 **关键词**：hostage / intimidating / submission / beck and call
 
@@ -79,7 +79,7 @@ Diana 的公寓被强迫性地整理得井井有条。装满书的书架沿着�
 
 > **原句 6:** “Diana was nearsighted. Convinced that she wouldn’t be able to put them in—or that if she somehow did, they’d get stuck in her eyes—she had never tried contact lenses. Since she didn’t like how she looked in glasses, she had instead grown accustomed to somewhat blurred vision at a distance. She squinted, and it seemed that what the young man juggled was a knife. … It was a knife. The young man was searching for his reflection. He was wearing short sleeves, though it was winter, and his arms were full of wounds, some of them open. The tattoos partially concealed them, but there they were, fresh.”
 
-"Diana 是近视眼。深信自己无法把隐形眼镜戴上——或者即使戴上了，它们也会卡在眼睛里——她从未试过隐形眼镜。既然她不喜欢自己戴眼镜的样子，她反而习惯了远距离有些模糊的视力。她眯起眼睛，看起来那青年抛接的是把刀。……是把刀。那青年正在寻找自己的倒影。尽管是冬天，他却穿着短袖，手臂上布满伤口，有些还开着。纹身部分遮掩了它们，但它们就在那里，新鲜的。"
+**中文理解**："Diana 是近视眼。深信自己无法把隐形眼镜戴上——或者即使戴上了，它们也会卡在眼睛里——她从未试过隐形眼镜。既然她不喜欢自己戴眼镜的样子，她反而习惯了远距离有些模糊的视力。她眯起眼睛，看起来那青年抛接的是把刀。……是把刀。那青年正在寻找自己的倒影。尽管是冬天，他却穿着短袖，手臂上布满伤口，有些还开着。纹身部分遮掩了它们，但它们就在那里，新鲜的。"
 
 **关键词**：nearsighted / juggled / wounds / fresh
 
@@ -91,7 +91,7 @@ Diana 的公寓被强迫性地整理得井井有条。装满书的书架沿着�
 
 > **原句 7:** “Diana was running on empty because she had slept so little and eaten so poorly. And she slept little and ate poorly because she worked too hard for almost no money. … Freelancing had stopped covering her bills a long time ago, and the financial stress had piled on top of the work stress. … She was tired of keeping her life on hold, of using one credit card to pay off another, of living on minus a thousand euros. … Yet nothing exhausted her more than the metro trip to her mom’s or her sister’s.”
 
-"Diana 精疲力竭，因为她睡得太少、吃得太差。而她睡得少、吃得差，是因为她工作太辛苦却几乎赚不到钱。……自由职业早已无法支付账单，财务压力叠加在工作压力之上。……她厌倦了让生活搁置，厌倦了用一张信用卡还另一张的债，厌倦了入不敷出一千欧元的生活。……然而没有什么比去妈妈或姐妹家的地铁行程更让她疲惫的了。"
+**中文理解**："Diana 精疲力竭，因为她睡得太少、吃得太差。而她睡得少、吃得差，是因为她工作太辛苦却几乎赚不到钱。……自由职业早已无法支付账单，财务压力叠加在工作压力之上。……她厌倦了让生活搁置，厌倦了用一张信用卡还另一张的债，厌倦了入不敷出一千欧元的生活。……然而没有什么比去妈妈或姐妹家的地铁行程更让她疲惫的了。"
 
 **关键词**：running on empty / freelancing / living on minus a thousand euros
 
