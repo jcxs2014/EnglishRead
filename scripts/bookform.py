@@ -344,6 +344,7 @@ def check_chapter(book: Path, md: Path, form: dict | None = None) -> dict:
         "block_median": form["block_median"], "block_range": form["block_range"],
         "profile": form.get("profile", ""),
         "profile_subitems": form.get("profile_subitems", []),
+        "profile_optional": form.get("profile_optional", []),
         "baseline": form.get("baseline", "book"),
     }
     res["counts"] = {"blocks": len(res["quotes"]),
