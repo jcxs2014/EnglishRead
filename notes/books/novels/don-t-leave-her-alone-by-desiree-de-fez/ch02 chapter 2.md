@@ -25,7 +25,7 @@ Alba 一月就规划夏天，新年后立刻买便宜机票，甚至还没确定
 
 **句子结构**：三句——第一句 "Alba planned her summers in January, buying … before she even knew …" 现在分词短语作方式状语 + before 引导时间从句；第二句 "In August, she got ready for Halloween, ordering …" 现在分词；第三句 "And in September, she did her first round of Christmas shopping." 短句；"Just like that, year after year." 独立短句收尾。
 
-**为什么这样写**：作者用时间错位（一月规划夏天、八月准备万圣节、九月 Christmas 购物）把 Alba 写成"永远提前、无法活在当下"的人；"Just like that, year after year." 的平淡语气把 compulsive 行为正常化，暗示这是家族女性的共同模式；与后文 "never anywhere just to be there" 呼应，Alba 无法"无目的"存在。
+**为什么这样写**：作者用时间错位（一月规划夏天、八月准备万圣节、九月圣诞购物）把 Alba 写成"永远提前、无法活在当下"的人；"Just like that, year after year." 的平淡语气把强迫性行为正常化，暗示这是家族女性的共同模式；与后文 "never anywhere just to be there" 呼应，Alba 无法"无目的"存在。
 
 **读者视角提示**：本章开头定义 Alba 的时间焦虑，与 ch01 Diana 的"强迫性怀疑"形成姐妹对照；两人共享 compulsive 特质但表现不同。
 
@@ -37,7 +37,7 @@ Alba 一月就规划夏天，新年后立刻买便宜机票，甚至还没确定
 
 **句子结构**：十二句——短句 "She looked around. Only a point of light lit the room." 制造紧张；"Going to superhuman lengths to …, she slid …, felt …, and moved …" 三并列动词 + 分词短语；"Barefoot, she crept …" 副词 + 主谓；"When she was almost at the door, she kicked a toy car, which crashed …" which 引导非限制性定语从句；"She couldn’t believe …"；"It wasn’t an accident. She didn’t trip. She had done it on purpose." 三短句递进，从否定到主动；"She’d seen the toy perfectly well and used all her strength to send it flying."；"The result: Everyone opened their eyes, two minutes after her." 冒号引出结果；"All of them now awake, tense, and jumpy." 分词短语。
 
-**为什么这样写**：作者把"踢玩具车"写成 deliberate act——Alba 故意制造噪音让全家醒来，显示她的控制欲与破坏欲并存；"She couldn’t believe an object so small could make such a giant noise" 的 disbelief 是自我合理化；"tense, and jumpy" 与后文"Everyone opened their eyes"的 symmetry（她先醒，全家两分钟后醒）把 Alba 写成"家族唤醒者"；这个场景 establishes 她无法独处、必须让全家与她同步的 compulsive 模式。
+**为什么这样写**：作者把"踢玩具车"写成故意行为——Alba 故意制造噪音让全家醒来，显示她的控制欲与破坏欲并存；"She couldn’t believe an object so small could make such a giant noise" 的不相信是自我合理化；"tense, and jumpy" 与后文"Everyone opened their eyes"的对称性（她先醒，全家两分钟后醒）把 Alba 写成"家族唤醒者"；这个场景确立她无法独处、必须让全家与她同步的强迫性模式。
 
 **读者视角提示**："modern dancer" 的比喻把日常动作仪式化，暗示 Alba 的身体 always 在"表演"; "on purpose" 三字是全章恐怖的种子——她故意制造混乱。
 
@@ -57,11 +57,11 @@ Sant Ildefons 的人组成千变万化，但一种模式压倒其余：祖母、
 
 每当她感到 obsessive 或 anxious，她穿行的空间就 Shed 所有物体与生命，变成她独自穿越的 threshold。此刻她只能看见店员的衬衫领子。其余一切模糊或暗，取决于光线强度。几秒内她迷失在布料边缘的细节里—— stretched out and frayed。然后布料模糊、变成滑过黑暗的灰色痣。Alba 跟随那标记良久，直到儿子的重量变得无法忍受：孩子什么时候重三十磅了？她的腿开始酸痛，像她喝酒时那样。每次感到完全孤独时总是这样，可能发生在任何地方——街上、家、商场。她的身体脱离现实。然后痛。
 
-**关键词**：threshold / dissociate (detach) / obsessive / anxious
+**关键词**：threshold / detach / obsessive / anxious
 
 **句子结构**：长段——"Whenever she felt obsessive or anxious, the places she moved through shed all objects and life; they became thresholds that she alone crossed." when 引导时间从句 + 分号并列；"In that moment, all she could see was …"；"Everything else was blurry or dark, depending on …"；"For seconds, she lost herself in the details of the fabric’s edge, stretched out and frayed." 分词短语作后置定语；"Then the fabric blurred, became a grayish mole that slipped through the darkness." 两动词 + that 从句；"Alba followed that mark for a good while, until …"；"Since when did the child weigh thirty pounds?" 疑问句；"Her legs had started aching, like they did when she drank wine."；"It was always like that when she felt completely alone, and that could happen anywhere, on the street, at home, or at the mall."；"Her body would detach from reality. Then it hurt." 两短句。
 
-**为什么这样写**：作者把 dissociation 写成"空间 Shed 物体"——不是 Alba 看不见，而是世界主动消失，显示她的感知被焦虑劫持；"grayish mole" 把店员领子变成追踪目标，显示 compulsive 的"追着一个细节"模式；"Since when did the child weigh thirty pounds?" 是 dissociation 中的身体扭曲（ proprioception 失真）；"Her body would detach from reality. Then it hurt." 两短句是本章最冷的句子——身体脱离现实是 relief，痛是回归代价，显示 Alba 的 dissociation 是"逃避"而非"休息"。
+**为什么这样写**：作者把解离写成"空间 Shed 物体"——不是 Alba 看不见，而是世界主动消失，显示她的感知被焦虑劫持；"grayish mole" 把店员领子变成追踪目标，显示强迫性的"追着一个细节"模式；"Since when did the child weigh thirty pounds?" 是解离中的身体扭曲（本体感觉失真）；"Her body would detach from reality. Then it hurt." 两短句是本章最冷的句子——身体脱离现实是解脱，痛是回归代价，显示 Alba 的解离是"逃避"而非"休息"。
 
 **读者视角提示**：Camp La Tortuga Ligera 的 sign 是 Alba 的"安全意象"，暗示她 dissociation 时会逃往童年记忆；后文 likely 复现此 motif。
 
@@ -73,7 +73,7 @@ Alba 刚走出 MediaMarkt——第二次——就看见她们逼近。那两个�
 
 **句子结构**：多句——"Alba had just stepped out … when she saw them approaching." when 引导时间从句；"The same two women she always saw there." 同位语；"They were a few meters away now, and they terrified her."；"She couldn’t understand why …"；"Were they really always there?" 疑问；"They looked to be around seventy and were practically identical."；"They had hairstyles from another era—stiff waves framing two hard, faintly mustached faces, not a single trace of makeup." em dash + 分词短语；"They dressed in uncompromising black, as if they’d been mourning someone for years, out of inertia, duty, or boredom." as if + 介词短语；"And they were always roaming arm in arm."；"With their free arms, they clung to their bags so tightly that stealing them was outside the realm of possibility." so … that 结果从句；"Not a day went by without Alba and Carmen seeing them stroll through the mall, same attitude, same expression, as if they were just passing time in the village square."；"Alba simply called them 'the widows,' and every time she saw them, she’d make Carmen turn abruptly so they wouldn’t cross paths." so 引导目的从句。
 
-**为什么这样写**：作者把"寡妇"写成商场的固定 fixture——"Not a day went by" 显示 Alba 的 obsessive 注意力，她们可能是真实人物或 Alba 投射；"uncompromising black … mourning someone for years, out of inertia, duty, or boredom" 三选一的动机显示 Alba 的 uncertainty；"as if they were just passing time in the village square" 把商场写成村庄广场，显示 Sant Ildefons 的 provincial 感；"the widows" 命名是 Alba 的防御性控制——命名即控制。
+**为什么这样写**：作者把"寡妇"写成商场的固定元素——"Not a day went by" 显示 Alba 的强迫性注意力，她们可能是真实人物或 Alba 投射；"uncompromising black … mourning someone for years, out of inertia, duty, or boredom" 三选一的动机显示 Alba 的不确定；"as if they were just passing time in the village square" 把商场写成村庄广场，显示 Sant Ildefons 的地方性感；"the widows" 命名是 Alba 的防御性控制——命名即控制。
 
 **读者视角提示**：Diana 的描述（"blind medium and her sister" from her favorite movie）把寡妇写成 gothic archetype；Alba 的邪眼恐惧与 Diana 的电影式 fascination 形成姐妹对照；"evil eye" 是本章超自然元素的引入。
 
@@ -85,7 +85,7 @@ Alba 和 Diana 那晚几乎没睡。她们被压倒性地 disturb，罪疚感 se
 
 **句子结构**：六句——"Diana and Alba both barely slept that night."；"They were overwhelmingly disturbed, and the guilt seeped through their insides as quickly as the blood through Brigitte’s leotard, with the same unbreakable consistency as the clot Diana had pulled from Brisa’s nose." 两个 as 引导的比较 + with 短语；"None of the explanations from … convinced them."；"They could find no solace." 短句；"Both situations were horrible, appalling, and incomprehensible." 三形容词；"Even more disturbingly: It had happened to their daughters, not other women’s, and at the exact same time." 冒号引出强调。
 
-**为什么这样写**：作者用 "guilt seeped … as quickly as the blood … with the same unbreakable consistency as the clot" 把心理罪疚与身体血迹直接等同——母亲的 guilt 是"不可断"的，与血凝块的 physical consistency 一致；"None of the explanations … convinced them" 显示医学/理性解释失败，把恐怖留作不可解释；"at the exact same time" 是本章最终升级——巧合被写成宿命，暗示家族女性被某种 collective force 联结。
+**为什么这样写**：作者用 "guilt seeped … as quickly as the blood … with the same unbreakable consistency as the clot" 把心理罪疚与身体血迹直接等同——母亲的罪疚感是"不可断"的，与血凝块的物理一致性一致；"None of the explanations … convinced them" 显示医学/理性解释失败，把恐怖留作不可解释；"at the exact same time" 是本章最终升级——巧合被写成宿命，暗示家族女性被某种集体力量联结。
 
 **读者视角提示**："not other women’s" 显示姐妹的 narcissistic 保护欲（恐怖只针对我们），也是家族诅咒叙事；本章结束在"不可解释"而非解释，把悬念留给后续章节。
 
