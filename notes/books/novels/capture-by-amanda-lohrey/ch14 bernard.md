@@ -105,13 +105,13 @@ modified: "2026-10-20"
 
 > **原句 8:** "Since that time he has known only the pain of separation. When the beings looked at him he saw that they knew him, they understood him; there was no judgment; they were all part of the one unified field, and that field was love. ‘We’re not from here, Dr Mather, not originally. We’re from them.’"
 
-**中文理解**：从那以后，他只known着分离的痛苦。当那些存在看着他时，他看到它们认识他、理解他；没有评判；它们全都是同一个统一场的一部分，而那个场就是爱。「我们不是从这里来的，马瑟医生，原本不是。我们是从『他们』那儿来的。」
+**中文理解**：从那以后，他只**知道**分离的痛苦。当那些存在看着他时，他看到它们认识他、理解他；没有评判；它们全都是同一个统一场的一部分，而那个场就是爱。「我们不是从这里来的，马瑟医生，原本不是。我们是从『他们』那儿来的。」
 
 **关键词**：the pain of separation / they knew him, they understood him; there was no judgment / they were all part of the one unified field / that field was love / We’re not from here, Dr Mather, not originally / We’re from them
 
 **为什么这样写**：这段是全书唯一一次让「外星人」明确表态——通过当事人的转述：它们认识他、理解他、没有评判。而那个「统一场」（the one unified field）是二十世纪物理学的词，被用在了宗教语境里；而最后那句「我们是从『他们』那儿来的」引入了**第三层**：光、存在、还有一个更高者。
 
-**读者视角提示**：请注意「没有评判」（no judgment）这半句——它与马瑟自己的策略完全一致（他也是不评判的），也与第三章露西那句「让他们觉得不会被评判」呼应。伯纳德遇到的，是一个**马瑟式**的存在。
+**读者视角提示**：请注意「没有评判」（no judgment）这半句——它与马瑟自己的策略完全一致（他也是不评判的），也与**第九章海伦娜**那句「他们不会觉得被评判」（They will not feel judged, Jim）呼应。伯纳德遇到的，是一个**马瑟式**的存在。
 
 ---
 
@@ -141,7 +141,7 @@ modified: "2026-10-20"
 
 > **原句 11:** "It was a question that I knew I must answer carefully, since I am not in a therapeutic relationship with Bernard. ‘I think, Bernard,’ I say, ‘that you have had a genuinely meaningful experience.’"
 
-**中文理解**：这是个我知道必须谨慎回答的问题，因为我与伯纳德之间并不存在治疗关系。「我認為，伯纳德，」我说，「你经历了一次**真正有意义的**体验。」
+**中文理解**：这是个我知道必须谨慎回答的问题，因为我与伯纳德之间并不存在治疗关系。「我认为，伯纳德，」我说，「你经历了一次**真正有意义的**体验。」
 
 **关键词**：a question that I knew I must answer carefully / since I am not in a therapeutic relationship with Bernard / that you have had a genuinely meaningful experience
 
@@ -159,7 +159,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：全书最失控的一个场面，而作者用**临床的精确**记录它：动作分解（跳、冲、跌坐、跪、抓、举、吻），最后落到一个生理性的词（heaving，起伏不息的）。恐惧与狂喜在这套解剖学描写里都失去了热度。
 
-**读者视角提示**：请注意这一段的姿势与第九章布里欧修那段的暗合：又一次「跪下」，又一次东西被举到某个神圣的高度。
+**读者视角提示**：请注意这一段的姿势与第九章布里欧修那段的暗合：又一次「跪下」（第九章没有人下跪，但有面包被举到祭坛的高度）。
 
 ---
 
@@ -171,7 +171,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：这一段是全书的**隐藏核心**：马瑟本人在引导冥想中说出了一句外星教的安慰语（「你会回家」），而这句话的措辞与伯纳德的来世信仰完全同构。换句话说，被捕获者把马瑟变成了捕获者——这套语言在对话中完成了传递。而「微妙的边界」（a subtle boundary）这一处，则显示他同时在做医生和仪式主持人的双重工作。
 
-**读者视角提示**：请把这句与第三章的「我们都是……的囚徒」和第十二章的「我们所有人总有一天都会回家」对照。这本书的母题在这里从「被外星人抓走」变成了「我们都是被带离故乡的人」。
+**读者视角提示**：请把这句与**本章自己**的「我们所有人总有一天都会回家」对照（第十二章没有这句话，全书也没有「我们都是囚徒」这样的说法）。这本书的母题在这里从「被外星人抓走」变成了「我们都是被带离故乡的人」。
 
 ---
 
@@ -207,7 +207,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：章末一句用**味觉**收束（酸、金属味），而这一章的一切都发生在嘴里（伯纳德哭、马瑟说「有意义」、那个吻）。而最后一句是全书对马瑟最重的判决，出自他自己。
 
-**读者视角提示**：请把这句和第三章那句「我无法控制」放在一起读：马瑟在第三章说的是他**无法控制自己的身体**（阿片类药物、脊背），在这里他说的是他无法控制自己的**情绪**。两句话之间，是这本书从「诊断者」到「人」的全程。
+**读者视角提示**：请把这句和第三章那句「我无法控制这个项目」放在一起读：马瑟在第三章说的是他无法控制**自己的研究**（原文是 not competent to control such a project），在这里他说的是他无法控制自己的**情绪**。两句话之间，是这本书从「诊断者」到「人」的全程。
 
 ## 本章词汇
 

@@ -49,7 +49,7 @@ modified: "2026-10-20"
 
 **关键词**：our trysts in a cheap hotel near the city’s industrial precinct / the rumbling of the trains beside our room had been the soundtrack of our lovemaking / it had not been my idea to end the relationship / ‘I’m looking for a husband, Jim’ / I sulked for a while / how much she craved it
 
-**为什么这样写**：作者给这段旧情配了一个**工业景观**：廉价旅馆、货运铁轨、当作背景音乐的火车轰鸣。而马瑟的自尊被那句「我在找个人结婚」刺到——他被一个正在成功的女人甩掉，而且他很清楚她当时想要什么。多年后她在自己的客厅里变成「一个研究非线性科学的疯狂学者」，而他还在同一间客厅里，这反转带着一种幽默的自嘲。
+**为什么这样写**：作者给这段旧情配了一个**工业景观**：廉价旅馆、货运铁轨、当作背景音乐的火车轰鸣。而马瑟的自尊被那句「我在找个人结婚」刺到——他被一个正在成功的女人甩掉，而且他很清楚她当时想要什么。多年后她在自己的客厅里变成「一位民俗学专家」（原文 an expert on folklore，还出了一本《Why There Are Fairies at the Bottom of Your Garden》），而他还在同一间客厅里，这反转带着一种幽默的自嘲。
 
 **读者视角提示**：「配乐」（soundtrack）这个词把性描写成了一场有配角的演出——火车是唯一的观众。这个意象在后面还会变形一次。
 
@@ -99,7 +99,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：作者用**道具**来推进情节：一台不锈钢搅拌机被举在半空，像一面旗。而那个双关极狠——「Nutri Bullet」（营养子弹）既是品牌名，也是「营养子弹」；她的身体正在被一台**发射子弹**的机器供能。而她此刻只能通过吸管进食——她被一根管子喂养。
 
-**读者视角提示**：请注意这支吸管和第十一章那根「两米长、末端有银色花朵」的外星管子的对照：一根用来取走东西，一根用来送进东西。
+**读者视角提示**：请注意这支吸管和**第七章**那根「两米长、末端有银色花朵」的外星管子的对照：一根用来取走东西，一根用来送进东西。
 
 ---
 
@@ -117,7 +117,7 @@ modified: "2026-10-20"
 
 > **原句 9:** "‘Yes, but not so surprising. None of this is new, Jim. Same old story, different props.’ She holds her bullet aloft as if it is one of them. ‘You can look at any culture at any time in history and they’ve all in their own way believed there were other beings on the scene. Fairies, elves, pixies, demons, magical animals who imparted knowledge to shamans. And some of them could fly, like angels and witches. There’s the passage in the Bible in Ezekiel where he sees wheels of fire in the sky. In the Sanskrit scriptures there are Vimanas, flying chariots. The Anglo-Saxons saw bloodied shields in the clouds.’ She waves her arm. ‘There’s a whole literature on this stuff. You can find it any day online.’"
 
-**中文理解**：「是的，但没那么令人惊讶。这些都不是新东西，吉姆。老故事，换了道具而已。」她把她的搅拌机举起来，仿佛它也是一件道具。「你可以查看历史上任何时代的任何文化，他们都以各自的方式相信现场还有别的存在。仙子、小精灵、皮克西、恶魔、向萨满传授知识的魔法动物。其中有些会飞，比如天使和女巫。《圣经》以赛亚书以西结那一章里，他看见天上有火的轮子。印度教经典里有维摩那，飞行战车。盎格鲁—撒克逊人则在云里看见染血的盾牌。」她挥了挥手。「关于这玩意的成体系文献多的是。你随时都能在网上找到。」
+**中文理解**：「是的，但没那么令人惊讶。这些都不是新东西，吉姆。老故事，换了道具而已。」她把她的搅拌机举起来，仿佛它也是一件道具。「你可以查看历史上任何时代的任何文化，他们都以各自的方式相信现场还有别的存在。仙子、小精灵、皮克西、恶魔、向萨满传授知识的魔法动物。其中有些会飞，比如天使和女巫。《圣经》**以西结书**那一章里，他看见天上有火的轮子。印度教经典里有维摩那，飞行战车。盎格鲁—撒克逊人则在云里看见染血的盾牌。」她挥了挥手。「关于这玩意的成体系文献多的是。你随时都能在网上找到。」
 
 **关键词**：None of this is new, Jim. Same old story, different props / She holds her bullet aloft as if it is one of them / any culture at any time in history…believed there were other beings on the scene / Fairies, elves, pixies, demons / magical animals who imparted knowledge to shamans / the passage in the Bible in Ezekiel where he sees wheels of fire / In the Sanskrit scriptures there are Vimanas, flying chariots / The Anglo-Saxons saw bloodied shields in the clouds / There’s a whole literature on this stuff
 
@@ -145,7 +145,7 @@ modified: "2026-10-20"
 
 **关键词**：People will see what they already understand / Modern technology was not available to earlier cultures / especially the problem of evil / Bad things happen because of malevolent spirits / Lucifer turned rogue and Jehovah was forced to create a hell for him to suffer in / How else to explain why life is so hard if a loving God’s in charge of it?
 
-**为什么这样写**：这一段是全书「问题之问题」的正式提出：外星叙事不是关于外星，而是关于**恶**。而她给出的推理链极其严密：技术决定形象（维摩那／飞碟），神学决定动机（抓走孩子／取走配子）。这与第四章玛丽那条线完全咬合：那些外星人「并非来折磨」。
+**为什么这样写**：这一段是全书「问题之问题」的正式提出：外星叙事不是关于外星，而是关于**恶**。而她给出的推理链极其严密：技术决定形象（维摩那／飞碟），神学决定动机（抓走孩子／取走配子）。这与**第七章**玛丽那条线完全咬合：那些外星人「并非来折磨」。
 
 **读者视角提示**：请注意费莉西蒂把人类学的论证建立在**同一批案例**上。她读到的是同一批材料，得出了相反的结论。
 
@@ -181,7 +181,7 @@ modified: "2026-10-20"
 
 **关键词**：your flying saucer is a high-tech version of an old story / tribes in the Amazon whose myths of origin describe their ancestors as people from the stars / it’s a better story than evolution and starting out with bacteria in a pond / How creative we are / What wonderful stories we tell to keep our spirits up
 
-**为什么这样写**：她的论证在这里达到最强的一击：**外星祖先神话**（潘多拉、印加、阿兹特克）——人类学界确实记录过这类神话。而「比从一池子细菌开始要好听」这句俏皮话把现代生物学的起源叙事贬为干燥的真相。紧接着她给出自己的正面立场：故事的功能是「让精神振作」。
+**为什么这样写**：她的论证在这里达到最强的一击：**外星祖先神话**（原文举的例子是「亚马逊流域的部落」与「某些北美原住民部落」）——人类学界确实记录过这类神话。而「比从一池子细菌开始要好听」这句俏皮话把现代生物学的起源叙事贬为干燥的真相。紧接着她给出自己的正面立场：故事的功能是「让精神振作」。
 
 **读者视角提示**：请把「让精神振作起来」（keep our spirits up）与第十二章「三百岁老人集体自杀」的厌世对照：这本书谈的始终是**活着这件事的趣味**。
 
@@ -243,7 +243,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：全书的书名在这一句里完成了翻转：捕获者不是外星人，被捕获者也不是人——**是我们自己，是无意识的渴望**。而她的论证方式极狠：她先承认「他们没骗你」，再用一个更彻底的解释取消这个事实的意义。
 
-**读者视角提示**：请把这句与本书的开篇（第一章那个便利店场景、还有「每一个体验者身上都有某种东西能让我亲近」）并读：马瑟自己的「共情能力」，是不是也是一种无意识的渴望？
+**读者视角提示**：请把这句与**第十四章**那句「每一个体验者身上都有某种东西能让我亲近」并读（第一章是布拉格的咖啡馆，全书没有便利店场景）：马瑟自己的「共情能力」，是不是也是一种无意识的渴望？
 
 ---
 
@@ -255,7 +255,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：三个短句，每句都更短，像一段渐渐沉下去的语调。而「more」这个词重复三次——费莉西蒂给出的不是理论，是**欲望本身**。
 
-**读者视角提示**：请注意这一句与第十二章那句「我们需要一些魔法」的呼应，以及与第四章安东尼那句「我需要测试我的极限」的对照：三个人要的东西完全不同，而他们都被「捕获」了。
+**读者视角提示**：请注意这一句与**本章原句 12**那句「我们需要一些魔法」的呼应，以及与第四章安东尼那句「我需要测试我的极限」的对照：三个人要的东西完全不同，而他们都被「捕获」了。
 
 ---
 
@@ -291,7 +291,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：她用马瑟自己的武器（specificity，具体性）反过来打他：梦也有具体细节。而马瑟的回应——「可它们就是真的」——是全书最不设防的一句反问。
 
-**读者视角提示**：请把这一问与第一章那个「我见过类似现象的人」的口误对照：马瑟在书的最开始就用了「有」，在书的最深处才用「是」。
+**读者视角提示**：请把这一问与第一章**海伦娜**那句「people like you, Jim」对照：全书的「是／有」之辩从书的最开始就悬着，只是那时说这话的是海伦娜，而书的最深处才轮到马瑟自己用「是」。
 
 ---
 

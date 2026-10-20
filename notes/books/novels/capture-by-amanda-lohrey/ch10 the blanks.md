@@ -25,7 +25,7 @@ modified: "2026-10-20"
 
 **关键词**：I search for a common thread that will link my subjects but can find none / what I privately think of as the breeders / I have given a typical account of them in the testimonies of Anthony and Mary
 
-**为什么这样写**：叙述者先做了一次失败的归纳（找不到共同线索），然后**私下**造了一个分类词（育种者）——那个「私下」很要紧：这套词只存在于他和露西之间，却已经成了他思考这些人的方式。而「典型的一个样本」这个说法，让前面两章立刻变成了统计学上的样本。
+**为什么这样写**：叙述者先做了一次失败的归纳（找不到共同线索），然后**私下**造了一个分类词（育种者）——那个「私下」很要紧：这套词只存在于他和露西之间，却已经成了他思考这些人的方式。而「典型的一个样本」这个说法，让第四、第七章那两个案例立刻变成了统计学上的样本。
 
 **读者视角提示**：请留意这个分类词的暴力性：人被按其生殖功能归类，而分类者是医生。
 
@@ -73,7 +73,7 @@ modified: "2026-10-20"
 
 **关键词**：Forty hours later he wakes up, fully clothed, in his bed / a sense that he has been ‘somewhere’ / But where? / he had been horribly stuck in writing his thesis / after that it came easily to him
 
-**为什么这样写**：这是全书最精妙的一处反讽：**丢失四十小时**，换来的是**写作能力**。作者把一个明显属于奇迹的收获，安放在一个明显属于创伤的损失旁边，让两笔账在叙述上互相抵消。而「fully clothed」（衣着完好）这个细节与第四章安东尼的裤子（被脱下）形成对照：卢卡什么也没被拿走。
+**为什么这样写**：这是全书最精妙的一处反讽：**丢失四十小时**，换来的是**写作能力**。作者把一个明显属于奇迹的收获，安放在一个明显属于创伤的损失旁边，让两笔账在叙述上互相抵消。而「fully clothed」（衣着完好）这个细节与第四章安东尼的**外套**（被脱下、叠好留在原地）形成对照：卢卡什么也没被拿走。
 
 **读者视角提示**：请记住「写作突然顺畅」这件事。它将在后文与另一个人物产生呼应——那一位是马瑟自己的儿子。
 
