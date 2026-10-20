@@ -1,0 +1,7 @@
+## check_chapter_quotes（逐章归属）
+ch01 i monday sixth of december.md: 15/15 in ch01 text
+
+## verify_quotes --full
+ch01 i monday sixth of december.md: 15/15 ✅
+
+=== 总计 15/15 引文可核实（100%）；完全干净文件 1/1；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
