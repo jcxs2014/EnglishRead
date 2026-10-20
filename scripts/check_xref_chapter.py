@@ -53,7 +53,16 @@ def main():
         print("=== 分析层跨章指认核对（%s）===" % os.path.basename(book.rstrip("/")))
         print("  ❓ **无法判定**：无 text/ 且无 epub —— 参照集缺失，不等于通过。")
         return 2
-    by_chap = dict((num, f) for num, f, _t in ref)
+    # ⚠️ 2026-10-20 修死代码：`load_ref` 返回的 num 是**零填充字符串**（'01'…'43'，
+    #   插叙件还可能带字母后缀 '01b'），而下面用 `tgt = int(...)` 得到**整数**，
+    #   ⇒ `tgt not in by_chap` 恒为真 ⇒ **本项对所有书 100% 跳过**，永远只报 0/0/0
+    #   （2026-10-20 阴性对照实测：在 ch01 注入 `ch05 \`Zxqvblorp qqqzzz\`` 仍报 0 条）。
+    #   修法：按 int 建索引，一个章号对应多个提取件（ch01 / ch01b 插叙）。
+    by_int = {}
+    for num, f, _t in ref:
+        m0 = re.match(r'(\d+)', str(num))
+        if m0:
+            by_int.setdefault(int(m0.group(1)), []).append((num, f))
     all_flat = " ".join(f for _n, f, _t in ref)
 
     EN = re.compile(r"`([^`]{3,})`")
@@ -81,13 +90,18 @@ def main():
                 if any(c in _CLAUSE for c in gap):     # 跨分句 ⇒ 不是紧邻指认
                     continue
                 tgt = int(nm.group(1) or nm.group(2))
-                if tgt == own or tgt not in by_chap:
+                if tgt == own or tgt not in by_int:
                     continue
-                if f in by_chap[tgt]:
+                tgt_hits = by_int[tgt]
+                if any(f in cf for _n, cf in tgt_hits):
                     ok += 1
                     continue
-                others = [c for c, cf in by_chap.items()
-                          if c != own and c != tgt and f in cf]
+                others = []
+                for c, clist in by_int.items():
+                    if c == own or c == tgt:
+                        continue
+                    if any(f in cf for _n, cf in clist):
+                        others.append(c)
                 if f in all_flat:
                     moved.append((name, i, tgt, frag, others[:4]))
                 else:

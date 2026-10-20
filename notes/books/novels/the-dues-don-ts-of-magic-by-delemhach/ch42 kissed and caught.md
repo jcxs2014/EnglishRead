@@ -31,7 +31,7 @@ modified: "2026-10-20"
 
 **关键词：** a lot more magic than any dodder should be able to wield · unless they have a magical… artifact · Spidena’s eyes narrowed
 
-**为什么这样写：** 作者让 Spidena **先报出常理、再推翻常理**："dodder 不该有这种魔力"是一句知识判断，"除非有神器"是她的修正。作者把 artifact 一词拆在三个省略号里，让 Spidena 的**推理过程和不安同时被听见**——她说到一半就已经害怕了。而 narrowed（眯起眼）在全章只出现这一次：之前她一直温柔地照顾他，此刻**她开始像猎巫犬那样评估他了**。
+**为什么这样写：** 作者让 Spidena **先报出常理、再推翻常理**："dodder 不该有这种魔力"是一句知识判断，"除非有神器"是她的修正。作者把 artifact 一词拆在两个省略号里，让 Spidena 的**推理过程和不安同时被听见**——她说到一半就已经害怕了。而 narrowed（眯起眼）在全章只出现这一次：之前她一直温柔地照顾他，此刻**她开始像猎巫犬那样评估他了**。
 
 **读者视角提示：** 留意**"除非……"式的推理句**。当角色用知识推翻眼前的温情时，故事通常正在转向。
 

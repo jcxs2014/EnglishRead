@@ -11,7 +11,7 @@ modified: "2026-10-20"
 - **情感弧线位置**：本章是**低谷之后的一次并肩**。上一章两人还在互相审判，本章因为一场突发的抢劫，第一次在同一件事上**站到了同一边**——作者用一场动作戏把关系强行往前推了一步，末句那句「也许我们还不是史上最差的搭档」就是这一推的结果。中间的喜剧（毒药、熏香、傻话）随即把紧张卸掉。
 - **人物弧线**：Ben：本章他第一次**保护别人，而不是执行命令**——作者特意点明"unlike those previous times, he wasn't prevented from doing anything by an authority figure or rule"，因为他不再是猎巫犬了。他的保护方式粗暴、实用、不讲道义（踩裆、下药），却有效。Spidena：本章她第一次**在危险里露出笑意**（被 katava 泡着），也第一次在看到他冲过来时"像是松了一口气"。
 - **叙事手法**：用**dodder 的感应**开篇（危险感的正反两面）→ 用**一句强盗台词**把冲突点破 → 用**渡鸦的混战**制造动作喜剧 → 用**一个道具细节**埋伏（Spidena 怀里的瓶子）→ 用**两次重复的动作**写 Ben 的手法（各踹一脚）→ 用**道德互呛**写两人立场 → 用**katava 的妙用**收束 → 末句用**一句自嘲**收尾。
-- **关键术语**：katava（让人欣快的药粉）· dodder（残留着魔力却无力施展的人）· Hound（猎巫犬）· Wolf（渡鸦）· The Fey Way（客栈名）· Ostrig Vontrik（中间人）· hunting knife（猎刀）· bandit（强盗）· moot point（无实际意义的问题）· marigold（万寿菊）· incantation? → satchel? no · larynx（喉头）· groin（裆部）。
+- **关键术语**：katava（让人欣快的药粉）· dodder（残留着魔力却无力施展的人）· Hound（猎巫犬）· Wolf（渡鸦）· The Fey Way（客栈名）· Ostrig Vontrik（中间人）· hunting knife（猎刀）· bandit（强盗）· moot point（无实际意义的问题）· marigold（万寿菊）· satchel（行囊）· larynx（喉头）· groin（裆部）。
 
 ## 精读
 
