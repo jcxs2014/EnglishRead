@@ -65,7 +65,7 @@ modified: "2026-10-20"
 > **原句 9:** "I was always enough."
 - **中文理解**：Poppy 得出结论：她从来都不是那个有缺陷的产品，她的存在本身一直是足够的。父母的冷淡不是她的错。
 - **关键词**：always、enough
-- **为什么这样写**：这是全章情绪的最低点也是最高点。五个词独立成段，像一句自我救赎的咒语。前面所有关于「不够好」「买家后悔」「缺陷产品」的自责在这里被清零。
+- **为什么这样写**：这是全章情绪的最低点也是最高点。四个词独立成段，像一句自我救赎的咒语。前面所有关于「不够好」「买家后悔」「缺陷产品」的自责在这里被清零。
 - **读者视角提示**：把这一句与第一章她对自己外貌的执念对照读——Poppy 的整个自我价值体系在这一刻重建了地基。
 
 > **原句 10:** "I’m not exactly talking to the bear, or to any particular one of the long-dead animals gathered around me. I’m talking to the bodies. All the bodies."

@@ -44,17 +44,17 @@ modified: "2026-10-20"
 - **为什么这样写**：这句自言自语是 Poppy 的「职业理性」最后一次尝试自我修复，但失败了。作者用粗口和眼泪并置，让她的崩溃显得真实而狼狈，不煽情、不美化。这也说明她的冷静只是保护壳。
 - **读者视角提示**：观察 Poppy 骂自己 "you fucking idiot" 的方式——她习惯用自嘲和粗话处理痛苦，这是她创伤背景（group home 长大）留下的防御机制。
 
-> **原句 6:** "I just sell feet … and legs, and arms, and eyes."
-- **中文理解**：Poppy 提到一个同行靠卖脚部照片赚钱，然后她自嘲地说：自己卖的是「脚……还有腿、手臂、眼睛」——字面意义的倒卖人体部位。
-- **关键词**：sell
-- **为什么这样写**：这是全书最冷的黑色幽默之一。省略号制造停顿，让读者先以为她在说脚照，再用 "legs, and arms, and eyes" 猛然揭穿她倒卖的是整具尸体的器官。轻松与惊悚在同一句话里完成。
-- **读者视角提示**：这句话也回应了 ch01 的 "Eye for a Guy Organ Donation"——Poppy 的公司名与她的真实生意在此闭环。
-
-> **原句 7:** "“Mom, you don’t do that stuff for me,” she finally says."
+> **原句 6:** "“Mom, you don’t do that stuff for me,” she finally says."
 - **中文理解**：Poppy 对 Marlo 发火，说自己拼命工作都是为了她；Marlo 却平静地戳穿她：「你做那些事不是为了我。」这句话让 Poppy 瞬间破防。
 - **关键词**：finally
 - **为什么这样写**：孩子的一句话比任何道德审判都锋利。Marlo 没有指责她卖尸体，只是否认了「这一切都是为了你」这个借口——这正是 Poppy 用来安慰自己的核心叙事。作者让一个五岁女孩完成对主角道德自我辩护的解构。
 - **读者视角提示**：Marlo 的直觉很准——Poppy 的黑市生意确实更多是为了维持网红生活方式，而不是为了女儿。注意 Poppy 被戳穿后的心理活动。
+
+> **原句 7:** "I just sell feet … and legs, and arms, and eyes."
+- **中文理解**：Poppy 提到一个同行靠卖脚部照片赚钱，然后她自嘲地说：自己卖的是「脚……还有腿、手臂、眼睛」——字面意义的倒卖人体部位。
+- **关键词**：sell
+- **为什么这样写**：这是全书最冷的黑色幽默之一。省略号制造停顿，让读者先以为她在说脚照，再用 "legs, and arms, and eyes" 猛然揭穿她倒卖的是整具尸体的器官。轻松与惊悚在同一句话里完成。
+- **读者视角提示**：这句话也回应了 ch01 的 "Eye for a Guy Organ Donation"——Poppy 的公司名与她的真实生意在此闭环。
 
 > **原句 8:** "I’m really, really sorry,” I tell her, meaning every word as I dredge them up from the absolute depths of my soul. “I should’ve come out here sooner. I know I’ve been working late, and I need to be more focused during family time."
 - **中文理解**：Poppy 认真地向 Marlo 道歉，承认自己总在工作、忽视家庭时间。这是她少有的、毫无表演成分的真情流露。

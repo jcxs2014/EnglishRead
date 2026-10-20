@@ -35,7 +35,7 @@ modified: "2026-10-20"
 > **原句 4:** "A body is a body, but all this biological matter doesn’t exist in a vacuum. Whether I like it or not, there’s a story to every pile of flesh and blood and bone."
 - **中文理解**：Poppy 站在 Mary Fimi 的院子里，发现自己开始好奇这个即将被杀的女人。她意识到尸体不是孤立存在的——每堆血肉背后都有故事，而这颠覆了她一直以来「尸体只是商品」的职业信条。
 - **关键词**：biological、vacuum
-- **为什么这样写**：这句直接反驳了第一章的「Worm food」哲学——她曾用这个词把尸体轻蔑地打发掉。真空（vacuum）这个科学术语，与血肉骨骼的粗粝质感形成张力，象征她的世界观正被撕开缺口，这是全书道德主题的中段推进。
+- **为什么这样写**：这句直接反驳了 ch01 的 "Worm food" 哲学——她曾用这个词把尸体轻蔑地打发掉。真空（vacuum）这个科学术语，与血肉骨骼的粗粝质感形成张力，象征她的世界观正被撕开缺口，这是全书道德主题的中段推进。
 - **读者视角提示**：记住 doesn’t exist in a vacuum 这个比喻——它既是说尸体，也是说 Poppy 自己：她以为自己活在真空里，但 Eddie 马上会用「我是你爸」证明她与这个世界纠缠得有多深。
 
 > **原句 5:** "The second Eddie turns away I lunge at him, yanking the knife from my pocket in one swift movement. I grip the handle and pull my arm back, then stab the blade downward with as much force as I can possibly muster."
@@ -62,17 +62,17 @@ modified: "2026-10-20"
 - **为什么这样写**：这句话正是书名 Fabulous Bodies 的题眼。fabulous 与 gross 两个矛盾形容词并置，概括了全书对尸体、对身体的双重视角——既是商品、是恐怖，也是故事和奇观。Eddie 用玩笑语气说出，更显其非人感。
 - **读者视角提示**：把这句话当成全书主题句来记。fabulous 暗示 Eddie 对身体的迷恋，gross 暗示他对死亡的轻蔑——这两点共同解释了他为什么能活四百年还乐在其中。
 
-> **原句 9:** "“They give a big speech for one very important reason,” I explain. “Because it’s entertaining. So fucking entertain me.”"
-- **中文理解**：Poppy 被铐住后，用话术阻止 Eddie 走向卧室。她先论证反派不蠢，然后指出反派演讲的真正原因是娱乐性，最后命令 Eddie：那就好好取悦我。
-- **关键词**：entertaining、important
-- **为什么这样写**：这是 Poppy 的求生策略——把「反派演讲」这个类型套路倒过来用，把 Eddie 的虚荣心变成自己的拖延工具。entertaining 一词精准击中 Eddie 的表演欲，为后文他透露身世埋下逻辑。
-- **读者视角提示**：注意 Poppy 从「武力对抗」切换到「智力对抗」的策略转换。她嘴上说 entertaining，实际目的是套出 Eddie 的真实身份——留心她每句奉承背后都有计算。
-
-> **原句 10:** "“A big villain speech? First of all, that never works out for the villain; it’s bad practice. Second of all, I’m not the villain. That’s like saying lions are villains because they hunt antelope. This is just my nature. It’s our nature.”"
+> **原句 9:** "“A big villain speech? First of all, that never works out for the villain; it’s bad practice. Second of all, I’m not the villain. That’s like saying lions are villains because they hunt antelope. This is just my nature. It’s our nature.”"
 - **中文理解**：Eddie 回应 Poppy 的挑衅：反派演讲从不奏效，而且他根本不认为自己是反派——就像狮子捕杀羚羊不算作恶，这只是他的本性，也是「我们」的本性。
 - **关键词**：villain、nature
 - **为什么这样写**：这段是 Eddie 的世界观宣言。他用「狮子与羚羊」的自然法则消解道德评判，把杀戮定义为本性而非罪行。Our nature 里的「我们」既指他这类超自然生物，也可能暗指他与 Poppy 的血缘——为结尾揭晓埋下双重伏笔。
 - **读者视角提示**：当他说 It’s our nature 时，注意这个 our 的歧义。此刻你还不知道它指谁，但读完结尾再回头看，这句话就变成了父女关系的暗示。
+
+> **原句 10:** "“They give a big speech for one very important reason,” I explain. “Because it’s entertaining. So fucking entertain me.”"
+- **中文理解**：Poppy 被铐住后，用话术阻止 Eddie 走向卧室。她先论证反派不蠢，然后指出反派演讲的真正原因是娱乐性，最后命令 Eddie：那就好好取悦我。
+- **关键词**：entertaining、important
+- **为什么这样写**：这是 Poppy 的求生策略——把「反派演讲」这个类型套路倒过来用，把 Eddie 的虚荣心变成自己的拖延工具。entertaining 一词精准击中 Eddie 的表演欲，为后文他透露身世埋下逻辑。
+- **读者视角提示**：注意 Poppy 从「武力对抗」切换到「智力对抗」的策略转换。她嘴上说 entertaining，实际目的是套出 Eddie 的真实身份——留心她每句奉承背后都有计算。
 
 > **原句 11:** "“I’m your dad, Poppy,” he says."
 - **中文理解**：在一连串经典作品（《费加罗的婚礼》、狄更斯小说、《动物变形人》、《星球大战》）的提示之后，Eddie 终于说出那个答案：我是你的父亲，Poppy。

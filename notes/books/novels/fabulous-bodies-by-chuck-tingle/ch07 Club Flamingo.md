@@ -53,7 +53,7 @@ modified: "2026-10-20"
 > **原句 7:** "I can feel the truth bubbling out of me whether I want it to or not, the words searing my throat as they crawl from my lips. “I’m a grave robber.”"
 - **中文理解**：在 Eddie 的逼迫下，真相不受控制地从 Poppy 体内冒出来，灼烧着她的喉咙。她终于亲口承认：我是盗墓贼。
 - **关键词**：truth、grave robber
-- **为什么这样写**：「grave robber」是全书最直白的自我定义，比第一章的「corpse dealer」更粗粝、更接近犯罪本质。Eddie 的逼问让 Poppy 第一次被迫用最诚实的词描述自己，而 Eddie 对此非常满意——因为他看中的正是这一点。
+- **为什么这样写**：「grave robber」是全书最直白的自我定义，比 ch01 的 "corpse dealer" 更粗粝、更接近犯罪本质。Eddie 的逼问让 Poppy 第一次被迫用最诚实的词描述自己，而 Eddie 对此非常满意——因为他看中的正是这一点。
 - **读者视角提示**：注意 Poppy 的坦白是在超能力控制下发生的；这暗示 Eddie 看中的不是她的网红身份，而是她见不得光的本事。
 
 > **原句 8:** "“Because I see something in you that I see in myself,” he finally says."
