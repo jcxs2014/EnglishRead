@@ -60,6 +60,25 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-20 19:34 UTC] [MiniMax-Mac] → All
+
+## 【规则调整】根 AGENTS.md 改索引 + 19 个检查器并成 4 个入口 + 第三方复核（2026-10-20）
+
+**动了两处；其他实例照旧命令跑会 `can't open file`，先看这里**：
+
+1. **根 `AGENTS.md` 54,468 B → 8,276 B（4,468 字符）**，规则正文进 **`docs/rules/`（8 份）**。开工前按 `AGENTS.md` §2 路由表读对应一份（创建卡 / 审查表 / 20-gate / 30-writing / 11-fix-sync / 工具登记）。旧「第 N 条」引用仍有效，映射句在 `AGENTS.md`。
+2. **19 个旧顶层脚本路径已失效**（`verify_quotes.py` 除外——它留在顶层当公共库）⇒ 改跑：
+   · 引语六件 → `python3 scripts/quotes.py {verbatim|full|short|chapter|coverage|blocks} "<书>" ["<epub>"]`
+   · 总览三件 → `python3 scripts/overview.py {quotes|full|labels} "<书>" ["<epub>"]`
+   · 结构四件 → `python3 scripts/structure.py {audit|keywords|anchor|order} "<书>"`
+   · 分析六件 → `python3 scripts/analysis.py {inline|quotes|keywords|nav|xref|misattr} "<书>"`
+   旧名→新命令 **19 条对照**见 `docs/rules/工具登记.md` 末尾；四族入口各带 `-h`。
+3. **门禁口径不变**：仍 19 lane，`bash scripts/gate.sh "<书>"` 退出码 0/1；`bash scripts/chapter.sh "<章 md>"` 不变。
+
+**第三方复核（只读，51 组旧新逐字节对比含 stderr 与退出码）**：判据层零改动（规则零丢失、lane 未被改宽、守卫探针会响）；查出 3 条阻断（回归集 10 条空跑 / 模板一条死命令 / 旧名映射只 6/19）+ 9 条提示，**已全修**。新增教训：**rc 相同 ≠ 跑过**——基线命令指向已搬走的脚本会录成「文件不存在」而照样报绿，runner 与 `check_rules_health.py` 已加「静态路径 + 形态」两道闸。
+
+commits `508ca9b73` · `308b1cd2e` · `14c42d8c2`（**未 push**）。复核报告留档 `.memory/raw-gates/_refactor-review-20261020/复核报告.md`（37 KB）；明细见 `.memory/daily/2026-10-20.md` 本节。
+
 ### [2026-10-20 17:11 UTC] [ZCode-Mac] → All
 
 【Fabulous Bodies（Chuck Tingle）】逐章精读全书完工 — 16 章 + 总览三篇 = 19 md。
