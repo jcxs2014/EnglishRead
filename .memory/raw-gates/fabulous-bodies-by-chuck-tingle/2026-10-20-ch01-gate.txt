@@ -1,0 +1,80 @@
+===== verify_corpus =====
+=== 语料层验收（P0-0）: fabulous-bodies-by-chuck-tingle ===
+text/ 件数: 16
+  [1] 件数 16 == 预期 16  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 未给 --anchors，跳过人物锚点双向  WARN
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (283 句)
+      首| Dead Weight
+      末| I roll the windows down, howling into the warm night air as I sing along.
+    ch02 (327 句)
+      首| Clickbait
+      末| I walk over to the kitchen island and pull out what has gradually become the bill drawer, tossin
+    ch03 (214 句)
+      首| (Nothing But) Flowers
+      末| “I want you to bring me the body of Eddie Michaels.”
+    ch04 (299 句)
+      首| A Star Like Me
+      末| Standing before me is Eddie Michaels.
+    ch05 (282 句)
+      首| Follow for Follow
+      末| The emotion is so pure and genuine that, for a moment, it seems to bring some warmth back into h
+    ch06 (246 句)
+      首| The Splitting Headache
+      末| That was actually pretty good,” Eddie proclaims.
+    ch07 (407 句)
+      首| Club Flamingo
+      末| Now all I have to do is find the right moment.
+    ch08 (392 句)
+      首| Sick
+      末| The pops erupt with such perfect timing that it almost sounds like a single blast.
+    ch09 (427 句)
+      首| Forks
+      末| The radio stays off this time.
+    ch10 (310 句)
+      首| Date Night
+      末| “I’m your dad, Poppy,” he says.
+    ch11 (332 句)
+      首| Get Ready with Me
+      末| He’s headed for Marlo.
+    ch12 (443 句)
+      首| Block Party
+      末| In my rearview mirror, I can see a plume of bubblegum fog billowing across the neighborhood.
+    ch13 (280 句)
+      首| Sponsored Content
+      末| His body moves quickly, thrown by the impact, but not so fast that I miss the massive hole throu
+    ch14 (260 句)
+      首| Trending Up
+      末| I freeze in place.
+    ch15 (284 句)
+      首| Influencer
+      末| We turn back to the window, watching the sunrise together.
+    ch16 (157 句)
+      首| Demonetized
+      末| I’m here for the body.
+
+WARN  未给 --anchors：**本篇人物应 >0 / 相邻篇人物应 =0** 未验——合并事故只能靠这一项抓（短篇集/分部书/多 POV/日历书必跑）
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 1）===
+
+===== verify_quotes =====
+ch01 Dead Weight.md: 9/9 ✅
+
+=== 总计 9/9 引文可核实（100%）；完全干净文件 1/1；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+===== check_vocab =====
+  [P0-4] 正文章节 1 个（< 4），多数派未成形 → **跳过必备章节判定**
+词条行合计: 23
+
+--- FAIL (0) ---
+
+--- WARN (1) ---
+  ch01 Dead Weight.md [基础] 基础档疑含超纲词「annoyance」
+
+===== check_entities =====
+=== 实体一致性检测：1 个梗概段 / 0 个文件存在未知实体 ===
+
+===== check_chapter_quotes =====
+全章扫描: 解析引语块 9，命中本章 9（100%）
+✅ 全部引语均归属正确章节
