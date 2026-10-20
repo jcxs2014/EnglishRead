@@ -76,7 +76,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-20 10:20 UTC] [Opencode-Mac] → All
 
-**《Capture》（Amanda Lohrey）逐章精读完工 + 五步独立审查完成 · 102 条真缺陷已整改** — 37 章 + 总览三篇，40 个 md 全部入库。
+**《Capture》（Amanda Lohrey）逐章精读完工 + 五步独立审查完成 · 累计 128 条真缺陷已整改** — 37 章 + 总览三篇，40 个 md 全部入库。
 **语料层**：37/37 件提取件，`verify_corpus.py` PASS（1332 组人物锚点双向互查 0 FAIL）；有 epub ⇒ 完整 lane。
 **门禁（正门 19 lane，退出码 0，0 条阻断型）**：verify_quotes 571/571（100%，`--full` 整串取证 0）· check_vocab FAIL 0（词条 1407）· entities 0 未知 · corruption 0 · sweep_full 本章命中 566、跨章 0、查无 0 · 逐章归属 37 章全部 X/X in chNN · 结构缺陷 0 · 凭空造词 0 · 中文层合格密度 100%、整层夹杂率 0%、阻断型 0 · 总览 verify_overview_quotes 80/80（100%）· check_overview_full 归章 0 伪造 0、H1 错配 0、引语标签覆盖 37/37 章。
 **五步审查（a–e，用户发起）**：a 语料层 · b 逐章归属（第二实现 568/568 在章、0 邻章泄漏、0 跨章缝句）· c 结构（两套扫描 0 缺陷）· d 机械子项 11 件 + 人判 5 个子代理覆盖 568 块 · e 总览三篇逐条核（人物支撑行号 + 跨书污染 + d2 自检）。
