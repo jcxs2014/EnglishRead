@@ -81,7 +81,7 @@ modified: "2026-10-20"
 
 > **原句 6:** "Why can’t I say more? Why cannot I admit to my dear girl that I have teetered on the brink of colluding with the deranged? Instead, with an affectation of scholarly wisdom, I explain that I am none the wiser at this stage of our investigations than I was at the beginning, and I am not going to write up some piece of pseudo-science to no good end. My greatest concern is her. What will she do now?"
 
-**中文理解**：我为什么不能说更多？我为什么不能对我亲爱的姑娘承认，自己已经站在**与疯狂者串通**（colluding with the deranged）的边缘上？于是我装出一副学者的智慧腔调解释说：在我们调查的这个阶段，我比开始时并没有更明白，我也不会写一篇毫无结果的伪科学出来。我最大的担心是她。她接下来怎么办？
+**中文理解**：我为什么不能说更多？我为什么不能对我亲爱的姑娘承认，自己已经站在**与疯狂者串通**的边缘上？于是我装出一副学者的智慧腔调解释说：在我们调查的这个阶段，我比开始时并没有更明白，我也不会写一篇毫无结果的伪科学出来。我最大的担心是她。她接下来怎么办？
 
 **关键词**：Why cannot I admit to my dear girl / that I have teetered on the brink of colluding with the deranged / with an affectation of scholarly wisdom / I am none the wiser at this stage…than I was at the beginning / I am not going to write up some piece of pseudo-science to no good end / My greatest concern is her / What will she do now?
 

@@ -57,7 +57,7 @@ modified: "2026-10-20"
 
 > **原句 4:** "And good news on the business front. You probably don’t watch morning television but one of the presenters, Gaby Fowler, recently hired me to do her wedding, all make-up for the wedding party including those eyelash extensions you seemed to find so interesting. She has kindly allowed me to use her photo and an endorsement on my website and it’s already bringing in business."
 
-**中文理解**：还有生意上的好消息。你大概不看晨间电视，不过其中一位主持人盖比·福勒最近请我负责她的婚礼——婚礼party 全套化妆，包括那些你似乎很感兴趣的睫毛嫁接。她好心允许我在自己的网站上使用她的照片和一句推荐，已经带来生意了。
+**中文理解**：还有生意上的好消息。你大概不看晨间电视，不过其中一位主持人盖比·福勒最近请我负责她的婚礼——婚礼**派对**的全套化妆，包括那些你似乎很感兴趣的睫毛嫁接。她好心允许我在自己的网站上使用她的照片和一句推荐，已经带来生意了。
 
 **关键词**：good news on the business front / one of the presenters, Gaby Fowler / recently hired me to do her wedding / all make-up for the wedding party / including those eyelash extensions you seemed to find so interesting / use her photo and an endorsement on my website / it’s already bringing in business
 

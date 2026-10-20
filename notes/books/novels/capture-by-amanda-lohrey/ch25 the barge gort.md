@@ -21,7 +21,7 @@ modified: "2026-10-20"
 
 > **原句 1:** "In her work on the world’s memory my wife is away more often and I miss the comfort of her presence, the solace of the unspoken. On nights when I’m not up reading papers into the early morning, I take pleasure in the familiar, like watching Deborah prepare for bed, an unvarying ritual of small observances, never rushed."
 
-**中文理解**：黛博拉做「世界记忆」这项工作，经常不在家；我想念她presence带来的安慰，以及**不言说的慰藉**。在那些我没有读到凌晨的夜晚，我享受那种熟悉——比如看黛博拉准备就寝，一套从不变的小小仪节，从不赶急。
+**中文理解**：黛博拉做「世界记忆」这项工作，经常不在家；我想念她**在场所带来的**安慰，以及**不言说的慰藉**。在那些我没有读到凌晨的夜晚，我享受那种熟悉——比如看黛博拉准备就寝，一套从不变的小小仪节，从不赶急。
 
 **关键词**：my wife is away more often / I miss the comfort of her presence / the solace of the unspoken / an unvarying ritual of small observances / never rushed
 
@@ -105,7 +105,7 @@ modified: "2026-10-20"
 
 > **原句 8:** "Deb was so affected by this image that she printed out a copy to bring home and when first she showed it to me, I could see that it had a beguiling aura. Often, said the caption, the living areas of these boats were like small shrines. " 
 
-**中文理解**：黛博拉被这张影像深深触动，打印了一份带回家；第一次给我看时，我看得出它有一种令人着迷的光晕。图注说：常常，这些船的生活区域**像小小的神龛**（shrines）。
+**中文理解**：黛博拉被这张影像深深触动，打印了一份带回家；第一次给我看时，我看得出它有一种令人着迷的光晕。图注说：常常，这些船的生活区域**像小小的神龛**。
 
 **关键词**：Deb was so affected by this image / she printed out a copy to bring home / it had a beguiling aura / Often, said the caption / the living areas of these boats were like small shrines
 

@@ -33,7 +33,7 @@ modified: "2026-10-20"
 
 > **原句 2:** "I might even call her my muse, for she has a gift for striking a spark from the flint of my ageing brain."
 
-**中文理解**：我甚至可以称她为我的缪斯——她有一种本事，能从我这衰老的脑中 flint 上击出火花。
+**中文理解**：我甚至可以称她为我的缪斯——她有一种本事，能从我这衰老的脑中**火石**上击出火花。
 
 **关键词**：I might even call her my muse / striking a spark from the flint of my ageing brain
 

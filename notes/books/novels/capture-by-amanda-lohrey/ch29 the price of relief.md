@@ -57,7 +57,7 @@ modified: "2026-10-20"
 
 > **原句 4:** "Freed now of all responsibility, I miss the illicit pleasure of sharing in their wild inventiveness, their imaginative reach, their repudiation of common sense, their livid but sincere melodrama. I realise that I have come to admire them. Their pain was not the pain of ordinary trauma but a dangerously risk-taking attempt at transcendence, dangerous in its potential consequences for the psyche. They were reaching out for connection to a baffling and otherwise indifferent cosmos. The aliens came to warn us; they came because the Earth mattered."
 
-**中文理解**：如今卸下了全部责任，我却怀念那种**非法**的快乐——参与进他们wild的发明力、他们想象力的伸展、他们对常识的否定、他们那炽烈而真诚的 melodrama。我意识到自己已经开始**钦佩**他们。他们的痛苦不是普通创伤的痛苦，而是一次冒险的、危险的**超越**尝试，危险在于它对心灵可能造成的后果。他们是在伸手 seeking 与一个费解的、而且本来漠不关心的宇宙之间的连接。外星人是来警告我们的；他们来，是因为地球是重要的。
+**中文理解**：如今卸下了全部责任，我却怀念那种**非法**的快乐——参与进他们**狂野的**发明力、他们想象力的伸展、他们对常识的否定、他们那炽烈而真诚的**通俗剧**。我意识到自己已经开始**钦佩**他们。他们的痛苦不是普通创伤的痛苦，而是一次冒险的、危险的**超越**尝试，危险在于它对心灵可能造成的后果。他们是在伸手**追寻**与一个费解的、而且本来漠不关心的宇宙之间的连接。外星人是来警告我们的；他们来，是因为地球是重要的。
 
 **关键词**：the illicit pleasure of sharing in their wild inventiveness / their imaginative reach / their repudiation of common sense / their livid but sincere melodrama / I have come to admire them / a dangerously risk-taking attempt at transcendence / dangerous in its potential consequences for the psyche / reaching out for connection to a baffling and otherwise indifferent cosmos / The aliens came to warn us / they came because the Earth mattered
 

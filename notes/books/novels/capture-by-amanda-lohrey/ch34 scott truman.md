@@ -45,7 +45,7 @@ modified: "2026-10-20"
 
 > **原句 3:** "As luck would have it, an old friend owns a flying school only 40ks away and offered me a job as an instructor. It may sound like a comedown from what I’ve achieved in the past, but I like working with young people. They’re half-assed and over-confident but I like their optimism and who knows? I might be training the first astronaut to fly to Mars."
 
-**中文理解**：正巧一位老朋友在 40 公里外 owns 一所飞行学校，聘我当教练。这听起来也许比我过去取得的成就是个**降级**，但我喜欢跟年轻人一起工作。他们半生不熟又过度自信，可我喜欢他们的乐观；谁知道呢？说不定我能训练出第一个飞往火星的宇航员。
+**中文理解**：正巧一位老朋友在 40 公里外**拥有**一所飞行学校，聘我当教练。这听起来也许比我过去取得的成就是个**降级**，但我喜欢跟年轻人一起工作。他们半生不熟又过度自信，可我喜欢他们的乐观；谁知道呢？说不定我能训练出第一个飞往火星的宇航员。
 
 **关键词**：an old friend owns a flying school only 40ks away / offered me a job as an instructor / It may sound like a comedown from what I’ve achieved in the past / I like working with young people / They’re half-assed and over-confident / but I like their optimism / I might be training the first astronaut to fly to Mars
 
@@ -57,7 +57,7 @@ modified: "2026-10-20"
 
 > **原句 4:** "I often wonder about that time and hope one day to remember what it was I still can’t recall once I was ‘inside’. I figure it must be stored somewhere in my brain. Meantime, I’m sorry I have nothing more to tell you. One day we’ll know, though I might not be around to see it."
 
-**中文理解**：我常常想起那段时间，希望有一天能记起那到底是什么——我到现在还回忆不起「进去」时的事。我想它一定存在我脑子的某个地方Meanwhile，很抱歉我没有更多可告诉你的。总有一天我们会知道的，不过我可能活不到看见那一天。
+**中文理解**：我常常想起那段时间，希望有一天能记起那到底是什么——我到现在还回忆不起「进去」时的事。我想它一定存在我脑子的某个地方。**然而**，很抱歉我没有更多可告诉你的。总有一天我们会知道的，不过我可能活不到看见那一天。
 
 **关键词**：I often wonder about that time / hope one day to remember what it was / I still can’t recall once I was ‘inside’ / I figure it must be stored somewhere in my brain / I’m sorry I have nothing more to tell you / One day we’ll know, though I might not be around to see it
 

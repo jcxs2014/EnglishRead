@@ -7,11 +7,11 @@ modified: "2026-10-20"
 
 ## 本章导航
 
-**一句话概括**：夏天第一天，马瑟去诊室办理退租与停业，等他的是露西从雅典寄来的信；屋里的摆设被复原成一座**博物馆**（那只红漆中式柜子回来了，窗台下面散着干面包虫），三只黑birds 准点来敲门；他在欧罗巴咖啡馆读完信，那个白化病女孩举起书与放大镜向他点头；而他点了一份**咸味布里欧修**，一口没动。
+**一句话概括**：夏天第一天，马瑟去诊室办理退租与停业，等他的是露西从雅典寄来的信；屋里的摆设被复原成一座**博物馆**（那只红漆中式柜子回来了，窗台下面散着干面包虫），三只乌鸫 准点来敲门；他在欧罗巴咖啡馆读完信，那个白化病女孩举起书与放大镜向他点头；而他点了一份**咸味布里欧修**，一口没动。
 
 **信念弧线位置**：全书**收束**。一个研究结束了，一间屋子被归还成一件展品，一段关系被一封信确认，而一个仪式被**取消**——最后那盘没动过的布里欧修，就是这本书对「捕获」给出的最后一个答案。
 
-**母题兑现/反转**：母题在这一章完成了它的**全部装置**：窗台（喂）、黑birds（他们来）、中式柜（被撤走又被放回）、放大镜与白化病女孩（从第六章一路走到最后）、布里欧修（第九章那场仪式）。而最后一口没吃，等于说：那个仪式不再需要了。
+**母题兑现/反转**：母题在这一章完成了它的**全部装置**：窗台（喂）、乌鸫（他们来）、中式柜（被撤走又被放回）、放大镜与白化病女孩（从第六章一路走到最后）、布里欧修（第九章那场仪式）。而最后一口没吃，等于说：那个仪式不再需要了。
 
 **人物弧线**：马瑟与露西的关系以一封**手写信**（厚羊皮纸、古典深蓝回纹）确认；而那封信的落款是「Warmly (sic)」——她连自己签名的不规范都标了出来，这是全书最轻的一处笔误，也是最亲密的一处。
 
@@ -57,7 +57,7 @@ modified: "2026-10-20"
 
 > **原句 4:** "Almost on the dot of eleven, three of them land on the outer ledge of the window. They hesitate, look about for competitors, and begin to peck fiercely at the glass. For many days they have received nothing and still they come. I walk to the window and open it while they, unflinching, gaze up at me with their brazen eye. ‘Your friends are here, Yvette,’ I murmur. The thought pleases me as I reach down for the last of the mealworms and scatter them across the ledge."
 
-**中文理解**：差 eleven 点整，三只鸟落在窗台外沿。它们犹豫了一下，四下张望有没有竞争者，然后开始凶猛地啄玻璃。很多天它们什么也没得到，可它们还是来了。我走到窗前把窗打开，而它们毫不退缩地抬头看我，那只厚颜的眼睛。「你的朋友来了，伊薇特，」我低声说。这个念头让我愉悦——我伸手拿起最后一点面包屑，撒在窗台上。
+**中文理解**：差**十一点**整，三只鸟落在窗台外沿。它们犹豫了一下，四下张望有没有竞争者，然后开始凶猛地啄玻璃。很多天它们什么也没得到，可它们还是来了。我走到窗前把窗打开，而它们毫不退缩地抬头看我，那只厚颜的眼睛。「你的朋友来了，伊薇特，」我低声说。这个念头让我愉悦——我伸手拿起最后一点面包屑，撒在窗台上。
 
 **关键词**：Almost on the dot of eleven / three of them land on the outer ledge of the window / They hesitate, look about for competitors / begin to peck fiercely at the glass / For many days they have received nothing and still they come / they, unflinching, gaze up at me with their brazen eye / Your friends are here, Yvette / I reach down for the last of the mealworms and scatter them across the ledge
 
@@ -225,4 +225,4 @@ modified: "2026-10-20"
 
 ## 一句话总结
 
-全书最后一章：夏天第一天，马瑟去诊室办退租与停业，门垫上等着露西从雅典寄来的信；屋子被复原成一座博物馆——空的办公桌、伊莱的轮子、放回原位的中式柜子、窗下散落的干面包虫；十一点整三只黑birds 准时来敲门，他说「你的朋友来了，伊薇特」；在欧罗巴咖啡馆他读完那封写着「我已开始写一部傲慢的编年史」的信，抬头看见当年那个白化病女孩举起书与放大镜向他点头；而他点了一份咸味布里欧修，一口没动。
+全书最后一章：夏天第一天，马瑟去诊室办退租与停业，门垫上等着露西从雅典寄来的信；屋子被复原成一座博物馆——空的办公桌、伊莱的轮子、放回原位的中式柜子、窗下散落的干面包虫；十一点整三只乌鸫 准时来敲门，他说「你的朋友来了，伊薇特」；在欧罗巴咖啡馆他读完那封写着「我已开始写一部傲慢的编年史」的信，抬头看见当年那个白化病女孩举起书与放大镜向他点头；而他点了一份咸味布里欧修，一口没动。

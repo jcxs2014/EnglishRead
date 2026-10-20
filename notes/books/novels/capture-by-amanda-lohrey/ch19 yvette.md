@@ -7,7 +7,7 @@ modified: "2026-10-20"
 
 ## 本章导航
 
-**一句话概括**：四十八岁的数学教师伊薇特在诊室里当场**重演**了被捕获：骨头在溶解、身体被拆成碎片又重组、频率被改写；她说他们来过三次，取走她的卵、用自己的精子受精、三个月后用一根长针从她肚脐下方取出胎儿，放进飞船的保育管——最后她像喂养雏鸟一样喂窗台上的黑birds，说：我是个养育者，这就是他们选中我的原因。
+**一句话概括**：四十八岁的数学教师伊薇特在诊室里当场**重演**了被捕获：骨头在溶解、身体被拆成碎片又重组、频率被改写；她说他们来过三次，取走她的卵、用自己的精子受精、三个月后用一根长针从她肚脐下方取出胎儿，放进飞船的保育管——最后她像喂养雏鸟一样喂窗台上的乌鸫，说：我是个养育者，这就是他们选中我的原因。
 
 **信念弧线位置**：马瑟判断力的**崩塌点**。他明确地、公开地厌恶上了这位当事人——「我把她归为癔症型自恋者」——而这一章同时是全书对「捕获」最完整的一次**实证性陈述**（有人被取走了胎儿）。怀疑与证据在这一章里第一次同时到了顶格。
 
@@ -15,7 +15,7 @@ modified: "2026-10-20"
 
 **人物弧线**：伊薇特是全书唯一一位**主动认领**自己身份的人（养育者、传讯者、正在执行一项使命的人），因此也是唯一一个让马瑟失去客观性的对象。这份失衡最终以一个**梦**结算：一间没有窗的屋子，他在墙上挖洞，一层塑料挖掉又长出一层。
 
-**叙事手法**：全章的高潮是**身体剧场**：颤抖、过度换气、尖叫、要求握手；而第五章那个关于黑birds 的承诺在此兑现——「只有一次，鸟显出了意义」。
+**叙事手法**：全章的高潮是**身体剧场**：颤抖、过度换气、尖叫、要求握手；而第五章那个关于乌鸫 的承诺在此兑现——「只有一次，鸟显出了意义」。
 
 ## 精读
 
@@ -285,7 +285,7 @@ modified: "2026-10-20"
 
 > **原句 23:** "Two blackbirds land on the window ledge of my consulting room and begin to peck demandingly at the glass. I have left the window ajar a few centimetres because I cannot bear to be in an entirely sealed room and, seeing this, and the dried mealworms spilled on the ledge, Yvette stands and walks across to the window. With an air of natural authority she opens the window further. The blackbirds, as brazen as ever, are not in the least fazed but cock their beaks and stare in her direction. Reaching into the ceramic pot I keep by the window, she gathers up some mealworms and offers them to the birds, who begin to feed from her palm. While they feed, she looks at me. ‘I’m a nurturer,’ she says. ‘That’s why they chose me.’"
 
-**中文理解**：两只黑birds落在我诊室的窗台上，开始急切地啄玻璃。我把窗户留了几厘米的缝，因为我受不了待在一个完全封闭的房间里；看到这情景，也看到窗台上撒落的干面包虫，伊薇特站起身，走到窗边。她带着一种天生的权威把窗户推开更大些。那两只黑birds一如往常地厚颜无耻，丝毫没有受惊，只是歪着喙朝她的方向看。她从窗边那只陶罐里抓起一些面包虫，递给它们；它们开始从她掌心取食。她一边看着它们吃，一边看向我。「我是个养育者，」她说，「这就是他们选中我的原因。」
+**中文理解**：两只乌鸫落在我诊室的窗台上，开始急切地啄玻璃。我把窗户留了几厘米的缝，因为我受不了待在一个完全封闭的房间里；看到这情景，也看到窗台上撒落的干面包虫，伊薇特站起身，走到窗边。她带着一种天生的权威把窗户推开更大些。那两只乌鸫一如往常地厚颜无耻，丝毫没有受惊，只是歪着喙朝她的方向看。她从窗边那只陶罐里抓起一些面包虫，递给它们；它们开始从她掌心取食。她一边看着它们吃，一边看向我。「我是个养育者，」她说，「这就是他们选中我的原因。」
 
 **关键词**：Two blackbirds land on the window ledge / begin to peck demandingly at the glass / I have left the window ajar a few centimetres / I cannot bear to be in an entirely sealed room / the dried mealworms spilled on the ledge / With an air of natural authority she opens the window further / who begin to feed from her palm / I’m a nurturer / That’s why they chose me
 
@@ -401,9 +401,9 @@ modified: "2026-10-20"
 | incubator | n. 保育器 | I realised they were some sort of incubator. |
 | bruise | n. 淤青 | sore all over with a black bruise around my navel. |
 | navel | n. 肚脐 | he stuck it in my abdomen, just below my navel |
-| blackbirds | n. 黑birds（乌鸫一类） | Two blackbirds land on the window ledge of my consulting room |
+| blackbirds | n. 乌鸫（乌鸫一类） | Two blackbirds land on the window ledge of my consulting room |
 | mealworms | n. 面包虫 | the dried mealworms spilled on the ledge |
 
 ## 一句话总结
 
-全书最长的一场会谈：一个数学教师在诊室里把自己的捕获重演了一遍——骨头溶解、身体散成碎片又被拼回、频率被改写——然后平静地交代了一套程序：三次来访，取卵、受精、三个月后用长针取出胎儿放进飞船的保育管，肚脐上留下黑淤青；她喂了窗台上的黑birds，说「我是个养育者，这就是他们选中我的原因」；而三个小时之后，那个一直以共情为方法的研究者，发现自己对她产生了反感——露西在速记里写下的判词是：化身症候群。
+全书最长的一场会谈：一个数学教师在诊室里把自己的捕获重演了一遍——骨头溶解、身体散成碎片又被拼回、频率被改写——然后平静地交代了一套程序：三次来访，取卵、受精、三个月后用长针取出胎儿放进飞船的保育管，肚脐上留下黑淤青；她喂了窗台上的乌鸫，说「我是个养育者，这就是他们选中我的原因」；而三个小时之后，那个一直以共情为方法的研究者，发现自己对她产生了反感——露西在速记里写下的判词是：化身症候群。

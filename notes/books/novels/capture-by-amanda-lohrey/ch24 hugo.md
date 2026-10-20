@@ -65,7 +65,7 @@ modified: "2026-10-20"
 
 > **原句 5:** "When later I describe him to Lucy, she remarks on how conservatively I dress: ‘Everyone has their camouflage, Jim.’ She also reminds me that nothing in the appearance of our experiencers has so far been in any way revealing of or related in character to their accounts of capture. She has in her transcripts meticulously described their dress, and even Mary, whose business is fake glamour, was unexceptional."
 
-**中文理解**：后来我跟露西描述他时，她评论说我穿得多么保守：「每个人都有自己的伪装，吉姆。」她还提醒我：到目前为止，体验者的外貌没有以任何方式透露或关联到他们那些关于捕获的叙述。她在记录里细致入微地描述过他们的穿着，就连以假 glamour 为业的玛丽，也毫无特别之处。
+**中文理解**：后来我跟露西描述他时，她评论说我穿得多么保守：「每个人都有自己的伪装，吉姆。」她还提醒我：到目前为止，体验者的外貌没有以任何方式透露或关联到他们那些关于捕获的叙述。她在记录里细致入微地描述过他们的穿着，就连以假魅力为业的玛丽，也毫无特别之处。
 
 **关键词**：she remarks on how conservatively I dress / Everyone has their camouflage, Jim / nothing in the appearance of our experiencers has so far been in any way revealing / She has in her transcripts meticulously described their dress / even Mary, whose business is fake glamour, was unexceptional
 
@@ -343,7 +343,7 @@ modified: "2026-10-20"
 
 > **原句 30:** "And we talk about the longing for both presence and absence, and for both at the same time. Can we please have the empty space, but please can we fill it? The relief of emptiness, which soon palls; the oppressiveness of fullness, which is yet so necessary. And we speak as equals, trusting in the empathy we have developed, heart to heart, neither male nor female but comrades, and we are on safe ground."
 
-**中文理解**：我们谈起对「在场」与「缺席」的 doubly 双重渴望——同时想要两者。可以请给我们那块空地吗；但也请把它填满。空虚的缓解，很快会腻；充盈的压迫，却又如此必要。我们以平等者的身份说话，信任着我们之间已建立的共情，坦诚相对，不分男女，只是同志，而且我们站在安全的地面上。
+**中文理解**：我们谈起对「在场」与「缺席」的双重渴望——同时想要两者。可以请给我们那块空地吗；但也请把它填满。空虚的缓解，很快会腻；充盈的压迫，却又如此必要。我们以平等者的身份说话，信任着我们之间已建立的共情，坦诚相对，不分男女，只是同志，而且我们站在安全的地面上。
 
 **关键词**：we talk about the longing for both presence and absence / Can we please have the empty space, but please can we fill it / The relief of emptiness, which soon palls / the oppressiveness of fullness, which is yet so necessary / we speak as equals / heart to heart / neither male nor female but comrades / and we are on safe ground
 

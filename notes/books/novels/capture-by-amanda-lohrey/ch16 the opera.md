@@ -21,7 +21,7 @@ modified: "2026-10-20"
 
 > **原句 1:** "My sister Vivienne is visiting and has bought tickets to Aida despite knowing that neither Deb nor I care for opera. Deb has a cold and begs off, and I have long ago excused myself from theatregoing on the grounds that prolonged sitting in narrow seats aggravates my back pain. I constantly have to change position, crossing and uncrossing my legs, adjusting my shoulders, behaving like a fidgeting child to the annoyance of those beside and behind me. But I rarely see my sister, the tickets are a gift and I cannot let her go on her own."
 
-**中文理解**：姐姐维维安来做客，买了《阿依达》的票，明知道黛博拉和我都不喜欢歌剧。黛博拉感冒了，推辞不去；而我早就以「长时间坐在狭窄的座位上会加重背痛」为由，退出过看戏这件事。我 constantly 要换姿势，跷起又放下腿，挪动肩膀，行为像个坐不住的小孩，让前后左右的人都很烦。可我难得见到姐姐，票是礼物，我不能让她一个人去。
+**中文理解**：姐姐维维安来做客，买了《阿依达》的票，明知道黛博拉和我都不喜欢歌剧。黛博拉感冒了，推辞不去；而我早就以「长时间坐在狭窄的座位上会加重背痛」为由，退出过看戏这件事。我不停地要换姿势，跷起又放下腿，挪动肩膀，行为像个坐不住的小孩，让前后左右的人都很烦。可我难得见到姐姐，票是礼物，我不能让她一个人去。
 
 **关键词**：has bought tickets to Aida despite knowing that neither Deb nor I care for opera / Begs off / excused myself from theatregoing on the grounds that prolonged sitting in narrow seats aggravates my back pain / I constantly have to change position / crossing and uncrossing my legs / behaving like a fidgeting child / the tickets are a gift and I cannot let her go on her own
 

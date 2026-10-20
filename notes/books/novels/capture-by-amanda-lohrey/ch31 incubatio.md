@@ -71,7 +71,7 @@ modified: "2026-10-20"
 
 **中文理解**：走那条尘土飞扬的下山路回车边时，我们差点错过了阿斯克勒庇俄斯（治疗中心）的遗址。它建在卫城下方很远的地方，不是那种引人注目的景点，所以我们差点错过——何况我们又热又渴，而那时没有人带水壶。卡罗琳在少数几棵能遮荫的树荫下找了个地方，朝我挥手。「你去找吧，」她说，「我在这儿等你。」
 
-**关键词**：we almost missed the ruins of the Asclepieion / the city’s healing centre, built well below the Acropolis / not as eye-catching a site / we were hot and thirsty / Caroline found a spot under one of the few trees that offered shade / You look. I’ll wait for you here.
+**关键词**：we almost missed the ruins of the Asclepieion / the city’s healing centre, built well below the Acropolis / not as eye-catching a site / we were hot and thirsty / Caroline found a spot under one of the few trees that offered shade / You look / I’ll wait for you here
 
 **为什么这样写**：作者让全书最重要的那个场所**差点被错过**——而它之所以被错过，只因为它不够显眼、不够壮观、而且没人带水。而卡罗琳那句「你去找吧，我在这儿等你」是全章最关键的一句：**她让他一个人去**。
 
@@ -223,7 +223,7 @@ modified: "2026-10-20"
 
 > **原句 18:** "But a doctor priest? Alas, no. After years of practice, I arrived at the realisation that I was merely one of the temple dogs, a useful accessory, there to lick at wounds, fed and indulged, but restless, prowling the temple yard and sniffing at shafts of light: sacred but captive. … And, yet, dogs dream."
 
-**中文理解**：可要做「医生祭司」？唉，不行。经过多年的执业，我终于意识到：我不过是圣所里的**一条狗**，一件有用的配件，负责舔伤口；有人喂养、纵容，但我 restless，在圣所的院子里来回游走，嗅着几道光柱：神圣，却是被囚的。……然而，**狗会做梦**。
+**中文理解**：可要做「医生祭司」？唉，不行。经过多年的执业，我终于意识到：我不过是圣所里的**一条狗**，一件有用的配件，负责舔伤口；有人喂养、纵容，但我**坐立不安**，在圣所的院子里来回游走，嗅着几道光柱：神圣，却是被囚的。……然而，**狗会做梦**。
 
 **关键词**：After years of practice / I was merely one of the temple dogs / a useful accessory / there to lick at wounds / fed and indulged / but restless, prowling the temple yard / sniffing at shafts of light / sacred but captive / And, yet, dogs dream
 

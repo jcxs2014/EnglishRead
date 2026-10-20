@@ -33,7 +33,7 @@ modified: "2026-10-20"
 
 > **原句 2:** "There are eight of us, none of whom I have met before, other than our host. The young man seated opposite me is introduced as Ronan, Troy’s cousin. Since he is wearing a dog collar under a plain black jacket, I assume that Ronan is a cleric, and yes, he is a priest, and when I enquire if he has a parish, he tells me he is at a Catholic university where he is teaching and working on his doctorate."
 
-**中文理解**：一共八个人，除主人外我一个也不认识。坐在我对面的年轻人被介绍为罗南，特罗伊的表弟。他穿一件朴素的黑夹克，脖子上一圈**神职人员的罗马领**（dog collar），我便以为他是神职人员——果然是位神父。我问他有没有教区，他说他在一所天主教大学教书，同时在攻读博士学位。
+**中文理解**：一共八个人，除主人外我一个也不认识。坐在我对面的年轻人被介绍为罗南，特罗伊的表弟。他穿一件朴素的黑夹克，脖子上一圈**神职人员的罗马领**，我便以为他是神职人员——果然是位神父。我问他有没有教区，他说他在一所天主教大学教书，同时在攻读博士学位。
 
 **关键词**：The young man seated opposite me is introduced as Ronan / he is wearing a dog collar under a plain black jacket / I assume that Ronan is a cleric / and yes, he is a priest / when I enquire if he has a parish / at a Catholic university where he is teaching and working on his doctorate
 
@@ -117,7 +117,7 @@ modified: "2026-10-20"
 
 > **原句 9:** "This macabre item leads to a lively discussion of the fetishisation of objects attached to secular celebrities. Troy, a collector of art pottery, is on the mailing list of several auction houses and is able to cite a number of items he has seen catalogued for sale over recent years: John Lennon’s tooth; Princess Diana’s autopsy report; the original Darth Vader mask; a handwritten lyric retrieved from Bob Dylan’s garbage bin; a rhinestone-studded shirt belonging to Elvis, and a pair of Napoleon’s silk stockings, all of which, he assures us, have sold for a high price at auction."
 
-**中文理解**：这件骇人的物件引出一场关于**世俗名人物件 fetish 化**的热烈讨论。特罗伊是位陶艺收藏家，收着好几家拍卖行的寄售名单，能报出一批他这些年见过登记在册待售的东西：约翰·列侬的牙齿、戴安娜王妃的尸检报告、达斯·维达的头盔原件、从鲍勃·迪伦垃圾桶里捞出来的一首手写歌词、埃尔维斯的一件镶水钻衬衫，以及拿破仑的一双丝袜——他向我们保证，这些在拍卖会上全都卖出了高价。
+**中文理解**：这件骇人的物件引出一场关于**世俗名人物件被 fetish 化**的热烈讨论。特罗伊是位陶艺收藏家，收着好几家拍卖行的寄售名单，能报出一批他这些年见过登记在册待售的东西：约翰·列侬的牙齿、戴安娜王妃的尸检报告、达斯·维达的头盔原件、从鲍勃·迪伦垃圾桶里捞出来的一首手写歌词、埃尔维斯的一件镶水钻衬衫，以及拿破仑的一双丝袜——他向我们保证，这些在拍卖会上全都卖出了高价。
 
 **关键词**：This macabre item leads to a lively discussion of the fetishisation of objects attached to secular celebrities / a collector of art pottery / items he has seen catalogued for sale / John Lennon’s tooth / Princess Diana’s autopsy report / the original Darth Vader mask / a handwritten lyric retrieved from Bob Dylan’s garbage bin / a rhinestone-studded shirt belonging to Elvis / a pair of Napoleon’s silk stockings
 

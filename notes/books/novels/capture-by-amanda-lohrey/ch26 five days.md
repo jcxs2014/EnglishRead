@@ -45,7 +45,7 @@ modified: "2026-10-20"
 
 > **原句 3:** "On the following Monday we bunker in with a coffee machine I bring from home. Lucy arrives with a box of savoury brioches (a touching gesture, if a risky one) and arranges for lunch to be delivered since going out will only disturb our train of thought. Together we have created an agenda to work through."
 
-**中文理解**：接下来的星期一，我们带了家里那台咖啡机， bunker 进来。露西带来一箱咸味布里欧修（一个感人的举动，虽然有点冒险），并安排午饭送上门，因为出去只会打断我们的思路。我们一起定了一份要逐项处理的工作议程。
+**中文理解**：接下来的星期一，我们把家里那台咖啡机搬了进来。露西带来一箱咸味布里欧修（一个感人的举动，虽然有点冒险），并安排午饭送上门，因为出去只会打断我们的思路。我们一起定了一份要逐项处理的工作议程。
 
 **关键词**：we bunker in with a coffee machine I bring from home / Lucy arrives with a box of savoury brioches / a touching gesture, if a risky one / arranges for lunch to be delivered / going out will only disturb our train of thought / Together we have created an agenda to work through
 
@@ -117,7 +117,7 @@ modified: "2026-10-20"
 
 > **原句 9:** "But the large sample of experiencers that the researchers had drawn on had all submitted to hypnotic regression. Nor did any of our experiencers fit the profile. Anthony’s love of extreme sports, his determination to test his body to its limits, might strike the casual observer as containing masochistic elements but none of humiliation. Anthony was proud of his achievements and those gold medals in his sock drawer."
 
-**中文理解**：但那些研究者所取的大样本，**全都接受过催眠回溯**。而且我们这些体验者里也没有一个符合那个画像。以安东尼对极限运动的热爱、那种要把身体试到极限的决心，在 casually 的观察者看来也许含有受虐的成分，但**没有屈辱**。安东尼为自己的成就自豪，为他袜子抽屉里那几枚金牌自豪。
+**中文理解**：但那些研究者所取的大样本，**全都接受过催眠回溯**。而且我们这些体验者里也没有一个符合那个画像。以安东尼对极限运动的热爱、那种要把身体试到极限的决心，在**不动声色的**观察者看来也许含有受虐的成分，但**没有屈辱**。安东尼为自己的成就自豪，为他袜子抽屉里那几枚金牌自豪。
 
 **关键词**：the large sample of experiencers that the researchers had drawn on / had all submitted to hypnotic regression / Nor did any of our experiencers fit the profile / Anthony’s love of extreme sports / his determination to test his body to its limits / might strike the casual observer as containing masochistic elements / but none of humiliation / Anthony was proud of his achievements / and those gold medals in his sock drawer
 
@@ -153,7 +153,7 @@ modified: "2026-10-20"
 
 > **原句 12:** "Science demands clarity and resolution, and here we are, enmeshed in a world of what a disinterested observer might describe as a maelstrom of psychic kitsch."
 
-**中文理解**：科学要求清晰与结论，而我们在这里，陷在一个** disinterested 观察者**或许会称之为「心灵媚俗的大漩涡」的世界里。
+**中文理解**：科学要求清晰与结论，而我们在这里，陷在一个**不涉利益的观察者**或许会称之为「心灵媚俗的大漩涡」的世界里。
 
 **关键词**：Science demands clarity and resolution / and here we are, enmeshed in a world / of what a disinterested observer might describe / as a maelstrom of psychic kitsch
 
@@ -207,7 +207,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：作者用一组**日常失灵**来写一种认识的病理：读书读不进去、音乐会腻、社交回避。而最冷的一句是最后那个画面——**他开始看着自己的影子**。一个一辈子研究「在房间里」的人，此刻盯着自己的影子走。
 
-**读者视角提示**：请注意「像听了很多遍」（as if I have heard it too many times before）这种**既视感**：它正是他刚刚在理论上讨论的那个词——**déjà vu**，而这个现象学上就与「预知未来／重复经历」的报告相关。
+**读者视角提示**：请注意「一种听了很多遍的感觉」（without a sense that I have heard it too many times before）这种**既视感**：它正是他刚刚在理论上讨论的那个词——**déjà vu**，而这个现象学上就与「预知未来／重复经历」的报告相关。
 
 ---
 
@@ -249,7 +249,7 @@ modified: "2026-10-20"
 
 > **原句 20:** "So it is that I conduct my final interview with a devoutly Christian sixty-seven-year-old farmer, Wesley, who was abducted in a barley field. There were no intrusive procedures (perhaps, Lucy remarks afterwards, because his sperm was too old) and his account is notable only for the fact that the first thing he saw inside the spaceship was a crucifix that emitted a red neon light. He doesn’t for a minute think his alien abductors are Christians, only that they had installed it there to make him feel at home and more likely to do their bidding. This is a new detail, and clearly a projection. The notes I make after this session are perfunctory, mere jottings."
 
-**中文理解**：于是我conducted了最后一次访谈，对象是一位极其虔诚的基督徒、六十七岁的农夫卫斯里，他是在一片**大麦田**里被掳走的。没有任何侵入性程序（露西事后评论说，也许是因为他的精子太老了）；而他的叙述唯一值得注意的是：他在飞船里看见的第一样东西，是一座发出红色霓虹光的十字架。他丝毫不认为那些外星绑架者是基督徒，只认为他们装上那玩意儿是为了让他感觉自在、更愿意听他们的话。这是一个**新的细节**，而且**明显是投射**。这次会谈后我记的笔记是敷衍的，只是些潦草的记录。
+**中文理解**：于是我主持了最后一次访谈，对象是一位极其虔诚的基督徒、六十七岁的农夫卫斯里，他是在一片**大麦田**里被掳走的。没有任何侵入性程序（露西事后评论说，也许是因为他的精子太老了）；而他的叙述唯一值得注意的是：他在飞船里看见的第一样东西，是一座发出红色霓虹光的十字架。他丝毫不认为那些外星绑架者是基督徒，只认为他们装上那玩意儿是为了让他感觉自在、更愿意听他们的话。这是一个**新的细节**，而且**明显是投射**。这次会谈后我记的笔记是敷衍的，只是些潦草的记录。
 
 **关键词**：a devoutly Christian sixty-seven-year-old farmer / who was abducted in a barley field / There were no intrusive procedures / perhaps, Lucy remarks afterwards, because his sperm was too old / the first thing he saw inside the spaceship / was a crucifix that emitted a red neon light / He doesn’t for a minute think his alien abductors are Christians / only that they had installed it there to make him feel at home / This is a new detail, and clearly a projection / The notes I make after this session are perfunctory, mere jottings
 

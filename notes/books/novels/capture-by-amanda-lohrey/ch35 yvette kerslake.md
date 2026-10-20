@@ -37,7 +37,7 @@ modified: "2026-10-20"
 
 **关键词**：they sometimes visit me in the form of birds, mostly ravens / I know now to leave out meat for them / I made the connection that day in your office / when they came to me at the window / I’m grateful to you for that
 
-**为什么这样写**：全书最长的一条伏笔在此闭合：第五章那两只黑birds（马瑟窗台上喂面包虫的）、第十九章伊薇特在诊室里喂它们并说出「我是个养育者」、而这里它们成了**渡鸦**——一种在神话里传递消息的鸟。而「在外面留些肉」（leave out meat）把喂养这件事推进了一步：面包虫换成了肉。
+**为什么这样写**：全书最长的一条伏笔在此闭合：第五章那两只乌鸫（马瑟窗台上喂面包虫的）、第十九章伊薇特在诊室里喂它们并说出「我是个养育者」、而这里它们成了**渡鸦**——一种在神话里传递消息的鸟。而「在外面留些肉」（leave out meat）把喂养这件事推进了一步：面包虫换成了肉。
 
 **读者视角提示**：请注意最后那句「所以这件事我得谢谢你」——她把**外星**与**渡鸦**之间的联结，归功于马瑟的窗台。而马瑟在第十九章真正做的事是：允许她喂鸟。
 
