@@ -81,7 +81,7 @@ modified: "2026-10-20"
 
 > **原句 6:** "She opens the door of her apartment with a wry smile and the first thing I see is that she has grown obese. She is dressed in a loose yellow-and-white-striped dress that floats around her like a beach tent, but she still has a fine pair of ankles, and penetrating eyes that once made me feel that I was being seen into for the first time. If it had not been for her underlying generosity of spirit I would have been afraid of her, but the combination was potent and for a long time I was her captive."
 
-**中文理解**：她带着一丝讥诮的笑打开公寓门，我第一眼看见的是她发胖了。她穿着一件宽松的黄白条纹连衣裙，像一顶海滩帐篷那样在身上飘着；但她仍有一双漂亮的脚踝，以及一双 penetrating 的眼睛——当年正是这双眼睛让我觉得自己第一次被人看穿。若不是她骨子里那份 generous，我本会怕她；但这两样东西的组合效力十足，很长一段时间里我是她的俘虏。
+**中文理解**：她带着一丝讥诮的笑打开公寓门，我第一眼看见的是她发胖了。她穿着一件宽松的黄白条纹连衣裙，像一顶海滩帐篷那样在身上飘着；但她仍有一双漂亮的脚踝，以及一双**锐利的**眼睛——当年正是这双眼睛让我觉得自己第一次被人看穿。若不是她骨子里那份**宽厚**，我本会怕她；但这两样东西的组合效力十足，很长一段时间里我是她的俘虏。
 
 **关键词**：with a wry smile / the first thing I see is that she has grown obese / a loose yellow-and-white-striped dress that floats around her like a beach tent / penetrating eyes that once made me feel that I was being seen into / her underlying generosity of spirit / for a long time I was her captive
 
@@ -95,7 +95,7 @@ modified: "2026-10-20"
 
 **中文理解**：「这个问题，答案是又是又不是。」接着她告诉我她最近做的减重手术。「你看到的我不复从前。」她从我们之间那张厚橡木茶几上拿起一只不锈钢圆柱，举在手里。「我的 Nutri Bullet，」她说，「这名字起得贴切。」她如今有好几个星期只能靠吸管摄取流质食物。「我烦透了、脾气坏，你得把这个算进去。你看到我这副样子，肯定吓一跳吧。」
 
-**关键词**：The answer to that, James, is yes and no / her recent bariatric surgery / As you will see, I am not as I once was / a stainless-steel cylinder on the heavy oak coffee table / My Nutri Bullet, and aptly named / confined, for several weeks, to ingesting liquid food through a straw / I am fed up and irritable
+**关键词**：The answer to that, James, is yes and no / her recent bariatric surgery / As you will see, I am not as I once was / a stainless-steel cylinder on the heavy oak coffee table / My Nutri Bullet / and aptly named / confined, for several weeks, to ingesting liquid food through a straw / I am fed up and irritable
 
 **为什么这样写**：作者用**道具**来推进情节：一台不锈钢搅拌机被举在半空，像一面旗。而那个双关极狠——「Nutri Bullet」（营养子弹）既是品牌名，也是「营养子弹」；她的身体正在被一台**发射子弹**的机器供能。而她此刻只能通过吸管进食——她被一根管子喂养。
 

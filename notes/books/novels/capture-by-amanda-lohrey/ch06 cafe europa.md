@@ -69,7 +69,7 @@ modified: "2026-10-20"
 
 > **原句 5:** "She takes out her phone, summoning an image of the chair and proceeds to describe it in such clinical detail that I am reminded of Anthony and the authoritative tone in which he had extolled the superior quality of his road bike—beloved objects that enable the body, and reassure the mind that it can do what it wills itself to do. Mechanical totems."
 
-**中文理解**：她掏出手机，召出那把椅子的图像，接着用一种临床般的细致描述它——这让我想起安东尼，想起他用那种权威口吻赞颂自己那辆公路车的优越品质：那些 beloved objects（心爱的物件）既让身体得以运转，又让心智安心于自己能够做到它意欲做到的事。图腾般的机械物。
+**中文理解**：她掏出手机，召出那把椅子的图像，接着用一种临床般的细致描述它——这让我想起安东尼，想起他用那种权威口吻赞颂自己那辆公路车的优越品质：那些**心爱的物件**既让身体得以运转，又让心智安心于自己能够做到它意欲做到的事。图腾般的机械物。
 
 **关键词**：such clinical detail / the authoritative tone in which he had extolled / beloved objects that enable the body / reassure the mind that it can do what it wills itself to do / Mechanical totems
 

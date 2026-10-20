@@ -21,7 +21,7 @@ modified: "2026-10-20"
 
 > **原句 1:** "How vividly I recall that morning on the first day of my folly. It was an unseasonably hot day in autumn and, late for a faculty meeting, I cut across the lawn of the university quadrangle."
 
-**中文理解**：那个早晨我记得格外清楚——那是我愚行开始的第一天。那是秋天里反常炎热的一天，我因为 faculty 会议迟到了，便横穿大学中庭的草坪。
+**中文理解**：那个早晨我记得格外清楚——那是我愚行开始的第一天。那是秋天里反常炎热的一天，我因为教职工会议迟到了，便横穿大学中庭的草坪。
 
 **关键词**：unseasonably / quadrangle / the first day of my folly
 

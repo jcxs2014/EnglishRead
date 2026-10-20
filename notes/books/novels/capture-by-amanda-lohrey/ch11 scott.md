@@ -33,7 +33,7 @@ modified: "2026-10-20"
 
 > **原句 2:** "Scott is now in the employ of a well-known billionaire financier as his personal pilot, a role that seems mostly to require him to fly his employer and family, and sometimes business associates, around the country in a small private jet. They fly often to his employer’s large rural compound, a retreat with elaborate security and a complex of buildings that amounts to a self-sufficient town. Scott has his own cabin on the property."
 
-**中文理解**：斯科特现在受雇于一位著名的亿万富翁金融家，担任他的私人飞行员——这份工作看来主要是载他的雇主和家人，有时也载些生意伙伴，在全国各地飞，飞机是一架小型私人飞机。他们经常飞往雇主位于乡间的大型园区，那是一处戒备森严的 retreat，建筑群庞大到相当于一座自给自足的城镇。斯科特在园区里有自己的一间小屋。
+**中文理解**：斯科特现在受雇于一位著名的亿万富翁金融家，担任他的私人飞行员——这份工作看来主要是载他的雇主和家人，有时也载些生意伙伴，在全国各地飞，飞机是一架小型私人飞机。他们经常飞往雇主位于乡间的大型园区，那是一处戒备森严的**园区**，建筑群庞大到相当于一座自给自足的城镇。斯科特在园区里有自己的一间小屋。
 
 **关键词**：in the employ of a well-known billionaire financier / his personal pilot / elaborate security / a complex of buildings that amounts to a self-sufficient town / Scott has his own cabin on the property
 
@@ -81,7 +81,7 @@ modified: "2026-10-20"
 
 > **原句 6:** "After his naval days, he says, he needed to do something that took him out of his comfort zone. ‘I was kinda adjusted to it,’ he says, and by ‘it’ I understand not so much the danger involved in testing his skills as maintaining skills that he didn’t want to atrophy. The experience was so far from my own inherent caution that I couldn’t begin to empathise."
 
-**中文理解**：他说，离开海军之后，他需要做点把自己带出舒适区的事。「我有点适应它了，」他说；而我理解的「它」，与其说是测试技能所涉的危险，不如说是维持那些他不想让它退化的技能。这段经历与我 inherent 的那份谨慎相去甚远，我根本无法开始共情。
+**中文理解**：他说，离开海军之后，他需要做点把自己带出舒适区的事。「我有点适应它了，」他说；而我理解的「它」，与其说是测试技能所涉的危险，不如说是维持那些他不想让它退化的技能。这段经历与**我自己那份固有的**谨慎相去甚远，我根本无法开始共情。
 
 **关键词**：something that took him out of his comfort zone / not so much the danger involved in testing his skills / as maintaining skills that he didn’t want to atrophy / so far from my own inherent caution / I couldn’t begin to empathise
 

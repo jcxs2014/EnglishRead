@@ -201,7 +201,7 @@ modified: "2026-10-20"
 
 > **原句 16:** "For the first time I observe signs of deep distress in Anthony. He is now a small but solid boat that has come away from its mooring. I could say that we can stop at any time but I believe that this would leave him psychologically stranded. Once we embark on our story, we need to complete it or there will be no psychic discharge—or, as people are apt to say now on the evening news, no closure."
 
-**中文理解**：我第一次在安东尼身上看到深度痛苦的迹象。此刻他像一只小而结实的船，脱离了缆桩。我本可以对他说我们随时可以停下，但我相信那会让他在心理上搁浅。一旦我们开始了这个故事，就得讲完，否则不会有心理上的宣泄——或者用现在晚间新闻里爱用的说法：不会有 closure（的了断）。
+**中文理解**：我第一次在安东尼身上看到深度痛苦的迹象。此刻他像一只小而结实的船，脱离了缆桩。我本可以对他说我们随时可以停下，但我相信那会让他在心理上搁浅。一旦我们开始了这个故事，就得讲完，否则不会有心理上的宣泄——或者用现在晚间新闻里爱用的说法：不会有**了断**。
 
 **关键词**：He is now a small but solid boat that has come away from its mooring / leave him psychologically stranded / no psychic discharge / no closure
 

@@ -57,7 +57,7 @@ modified: "2026-10-20"
 
 > **原句 4:** "Lucy is not only smart; she has an unobtrusively sympathetic vibe. I know that if she is sitting in the room with an experiencer she will be a quiet presence. And it is also to the point that there is no chemistry between us. She is an attractive young woman, but I do not feel drawn to her in that way. I have seen too many older men make fools of themselves to risk jeopardising my project by falling into the same trap."
 
-**中文理解**：露西不只是聪明；她身上有一种不事声张的、让人信赖的气质。我知道，如果她和体验者同处一室，她会是一个安静的存在。而且明摆着，我们之间没有那种chemistry。她是个有吸引力的年轻女人，但我并不以那种方式被她吸引。我见过太多年长男人把自己变成蠢货，不愿为了掉进同一个陷阱而让我的研究冒险。
+**中文理解**：露西不只是聪明；她身上有一种不事声张的、让人信赖的气质。我知道，如果她和体验者同处一室，她会是一个安静的存在。而且明摆着，我们之间没有那种**化学反应**。她是个有吸引力的年轻女人，但我并不以那种方式被她吸引。我见过太多年长男人把自己变成蠢货，不愿为了掉进同一个陷阱而让我的研究冒险。
 
 **关键词**：an unobtrusively sympathetic vibe / she will be a quiet presence / there is no chemistry between us / older men make fools of themselves / jeopardising my project
 
@@ -105,13 +105,13 @@ modified: "2026-10-20"
 
 > **原句 8:** "Each day the blackbirds would come and perch there, rapping their beaks against the glass if I had forgotten to put out their ration of dried mealworms. I knew that if I ceased to feed them they would, out of habit, continue to come, and Lucy thought it might be interesting to see how experiencers reacted to the birds, if indeed they reacted at all, and that the variation in their responses might be revealing. I allowed her to persuade me of this but on only one occasion did the presence of the birds prove to be of significance."
 
-**中文理解**：每天那些黑birds都会飞来停在窗台上；如果我忘了给它们备下那份干面包虫，它们就会用喙敲玻璃。我知道即使我不再喂它们，出于习惯它们也会继续来。露西觉得，看看体验者对这些鸟有什么反应——如果他们当真有反应的话——会很有意思，而他们反应的差异也许能说明问题。我被她说服，允许了这件事；不过只有一次，鸟的存在确实显出了意义。
+**中文理解**：每天那些乌鸫都会飞来停在窗台上；如果我忘了给它们备下那份干面包虫，它们就会用喙敲玻璃。我知道即使我不再喂它们，出于习惯它们也会继续来。露西觉得，看看体验者对这些鸟有什么反应——如果他们当真有反应的话——会很有意思，而他们反应的差异也许能说明问题。我被她说服，允许了这件事；不过只有一次，鸟的存在确实显出了意义。
 
 **关键词**：the blackbirds would come and perch there / rapping their beaks against the glass / their ration of dried mealworms / out of habit, continue to come / on only one occasion did the presence of the birds prove to be of significance
 
-**为什么这样写**：作者埋了一个只有读者能捡到的承诺：「只有一次，鸟显出了意义」。这一句在此处只是叙述者的修辞，却在后面某一章会兑现——而那时读者会记得这间屋子窗台上的黑birds。另一个细节同样重要：喂食习惯本身会留下惯性，即便人不再来，鸟还照旧来——这正是马瑟与体验者之间那种「中断后仍然继续」的关系的写照。
+**为什么这样写**：作者埋了一个只有读者能捡到的承诺：「只有一次，鸟显出了意义」。这一句在此处只是叙述者的修辞，却在后面某一章会兑现——而那时读者会记得这间屋子窗台上的乌鸫。另一个细节同样重要：喂食习惯本身会留下惯性，即便人不再来，鸟还照旧来——这正是马瑟与体验者之间那种「中断后仍然继续」的关系的写照。
 
-**读者视角提示**：请记住这个承诺。往后读到任何一章提到鸟、窗台或黑birds，请立刻回到这一段。
+**读者视角提示**：请记住这个承诺。往后读到任何一章提到鸟、窗台或乌鸫，请立刻回到这一段。
 
 ---
 
@@ -195,7 +195,7 @@ modified: "2026-10-20"
 | unobtrusively | adv. 不引人注意地 | Lucy is not only smart; she has an unobtrusively sympathetic vibe. |
 | cubicle | n. 小隔间、小办公室 | Lucy would work for most of the time in a small cubicle that adjoined my consulting room |
 | mealworms | n. 面包虫（喂鸟的干虫） | rapping their beaks against the glass if I had forgotten to put out their ration of dried mealworms. |
-| blackbirds | n. 黑birds（乌鸫一类） | Each day the blackbirds would come and perch there |
+| blackbirds | n. 乌鸫 | Each day the blackbirds would come and perch there |
 | lacquerware | n. 漆器 | a red lacquerware Chinese cabinet, the doors of which were adorned with gilt swallows |
 | medallion | n. 徽章、圆形饰牌 | fastened with an ornate metal medallion. |
 | solicitors’ offices | phr. 事务律师事务所的办公室（此处指其陈设惯例） | there were not even to be any of those anodyne landscapes so often found in doctors’ surgeries or on the walls of solicitors’ offices. |
@@ -210,4 +210,4 @@ modified: "2026-10-20"
 
 ## 一句话总结
 
-补叙的一章，交代的是一整套「如何让证词成立」的工程：屋里必须有见证人以防事后指控，助理要有社会史而非医学训练，两人共同清空房间里一切会触发既成情绪反应的视觉暗示，连红漆中式柜都因舆论而撤走；而在这一切之外，窗台上那群等着被喂的黑birds，预告了全书唯一一次「鸟显出了意义」。
+补叙的一章，交代的是一整套「如何让证词成立」的工程：屋里必须有见证人以防事后指控，助理要有社会史而非医学训练，两人共同清空房间里一切会触发既成情绪反应的视觉暗示，连红漆中式柜都因舆论而撤走；而在这一切之外，窗台上那群等着被喂的乌鸫，预告了全书唯一一次「鸟显出了意义」。

@@ -189,7 +189,7 @@ modified: "2026-10-20"
 
 > **原句 15:** "One night at around 4am on the trading floor, he is eating his microwaved, pre-packaged dinner and he has an epiphany. I am eating shit, he thinks. I am this shit that I eat. He finishes the meal, logs out, shuts down and goes home to his apartment by the river, which is sparsely furnished because he never has time to shop and lives on Uber Eats."
 
-**中文理解**：一天凌晨四点前后，在交易大厅上，他正吃着微波炉加热过的预包装晚餐，突然顿悟。我吃的是屎，他想。我就是我要吃的这份屎。他吃完饭，登出系统，关机，回到河边那套 sparsely furnished 的公寓——因为从没时间采购，他的家具少得可怜，靠外卖度日。
+**中文理解**：一天凌晨四点前后，在交易大厅上，他正吃着微波炉加热过的预包装晚餐，突然顿悟。我吃的是屎，他想。我就是我要吃的这份屎。他吃完饭，登出系统，关机，回到河边那套**家具稀少的**公寓——因为从没时间采购，他的家具少得可怜，靠外卖度日。
 
 **关键词**：at around 4am on the trading floor / he is eating his microwaved, pre-packaged dinner and he has an epiphany / I am eating shit, he thinks. I am this shit that I eat / logs out, shuts down and goes home / his apartment by the river, which is sparsely furnished / he never has time to shop and lives on Uber Eats
 
@@ -249,7 +249,7 @@ modified: "2026-10-20"
 
 > **原句 20:** "‘That’s the problem. We take the basics for granted and over time we lose purchase on quality.’ He takes another bite of the naan that displeases him. ‘It’s all about the form, and that comes from the starter. The starter is just flour and water and natural bacteria in the air, locked in. As the starter gets older and stronger the crumb gets better. It seems to develop with the strength of the starter.’"
 
-**中文理解**：「问题就在这儿。我们把 Basics 当作理所当然，时间一长就失去了对品质的把握。」他又咬了一口让他不满意的馕。「一切都关乎形态，而形态来自那团老面。老面就是面粉、水，加上锁在里面的空气中的天然细菌。老面越老越强，气孔就越好。它似乎随老面的强度一起成长。」
+**中文理解**：「问题就在这儿。我们把 basics（最基本的东西）当作理所当然，时间一长就失去了对品质的把握。」他又咬了一口让他不满意的馕。「一切都关乎形态，而形态来自那团老面。老面就是面粉、水，加上锁在里面的空气中的天然细菌。老面越老越强，气孔就越好。它似乎随老面的强度一起成长。」
 
 **关键词**：We take the basics for granted and over time we lose purchase on quality / It’s all about the form, and that comes from the starter / The starter is just flour and water and natural bacteria in the air, locked in / As the starter gets older and stronger the crumb gets better / It seems to develop with the strength of the starter
 
