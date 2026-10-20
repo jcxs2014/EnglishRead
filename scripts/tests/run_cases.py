@@ -30,6 +30,18 @@ def run(cmd: list[str]) -> tuple[int, str]:
     return r.returncode, r.stdout + r.stderr
 
 
+def book_stamp(book: str) -> str:
+    """书目录最后一次 commit —— 基线绑「书的状态 + 工具行为」两者。
+
+    书在并行实例手里持续变动，只绑工具行为不够：同一工具、同一书，内容改了输出就该变。
+    所以基线记下录制时的书 commit，对比时先比它：变了就判「基线过期（书在动）」跳过，
+    而不是报工具回归。
+    """
+    r = subprocess.run(["git", "log", "-1", "--format=%H", "--", book],
+                       cwd=ROOT, capture_output=True, text=True)
+    return r.stdout.strip()[:12]
+
+
 def fingerprint(out: str) -> str:
     return hashlib.sha256(out.encode("utf-8")).hexdigest()[:16]
 
@@ -62,11 +74,15 @@ def main() -> int:
             skipped += 1
             continue
         rc, out = run(c["cmd"])
-        rec = {"id": c["id"], "book": c["book"], "cmd": c["cmd"],
+        rec = {"id": c["id"], "book": c["book"], "cmd": c["cmd"], "head": book_stamp(c["book"]),
                "rc": rc, "sha": fingerprint(out), "tail": tail_lines(out)}
         if a.record:
             new.append(rec)
             print(f"📝 {c['id']}: rc={rc} sha={rec['sha']}")
+            continue
+        if c.get("head") and rec["head"] != c["head"]:
+            print(f"⏭  {c['id']}  （书已变：{c['head']}→{rec['head']}，基线过期，跳过）")
+            skipped += 1
             continue
         same = rc == c["rc"] and rec["sha"] == c["sha"]
         if same:

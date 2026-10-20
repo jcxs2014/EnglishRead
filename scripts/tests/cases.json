@@ -10,6 +10,7 @@
    "notes/books/novels/fabulous-bodies-by-chuck-tingle/library/Fabulous Bodies (Chuck Tingle) (z-library.sk, 1lib.sk, z-lib.sk).epub",
    "--full"
   ],
+  "head": "b19185083e57",
   "rc": 0,
   "sha": "cb81c2070a3fa93a",
   "tail": [
@@ -26,6 +27,7 @@
    "notes/books/novels/fabulous-bodies-by-chuck-tingle",
    "--quiet"
   ],
+  "head": "b19185083e57",
   "rc": 0,
   "sha": "b02a115cd31fe740",
   "tail": [
@@ -41,6 +43,7 @@
    "short",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle"
   ],
+  "head": "b19185083e57",
   "rc": 0,
   "sha": "bfe28977c769785c",
   "tail": [
@@ -56,6 +59,7 @@
    "coverage",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle"
   ],
+  "head": "b19185083e57",
   "rc": 0,
   "sha": "ea62af6f453d5520",
   "tail": [
@@ -71,6 +75,7 @@
    "blocks",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle"
   ],
+  "head": "b19185083e57",
   "rc": 0,
   "sha": "209960f05eb84251",
   "tail": [
@@ -87,6 +92,7 @@
    "--book-dir",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle"
   ],
+  "head": "b19185083e57",
   "rc": 0,
   "sha": "e8ea50c40b069893",
   "tail": [
@@ -102,12 +108,13 @@
    "scripts/check_chinese_layer.py",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle"
   ],
-  "rc": 0,
-  "sha": "2404a72c13f3f975",
+  "head": "b19185083e57",
+  "rc": 1,
+  "sha": "b6952637becb0961",
   "tail": [
-   "❌ 夹杂理解：0 处",
+   "❌ 夹杂理解：2 处",
    "❌ 夹杂为什么：0 处",
-   "=== 汇总：169 个引语块 | 合格分析密度 100% | 整层夹杂率 0% | 阻断型 0 | 提示型 0 ==="
+   "=== 汇总：169 个引语块 | 合格分析密度 99% | 整层夹杂率 1% | 阻断型 2 | 提示型 0 ==="
   ]
  },
  {
@@ -118,6 +125,7 @@
    "scripts/check_vocab.py",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle"
   ],
+  "head": "b19185083e57",
   "rc": 0,
   "sha": "3c29fd7bf7767ac0",
   "tail": [
@@ -135,6 +143,7 @@
    "notes/books/novels/fabulous-bodies-by-chuck-tingle",
    "--quiet"
   ],
+  "head": "b19185083e57",
   "rc": 0,
   "sha": "955f2af82df63418",
   "tail": [
@@ -149,6 +158,7 @@
    "scripts/check_quote_order.py",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle"
   ],
+  "head": "b19185083e57",
   "rc": 0,
   "sha": "fa5b27362375f48c",
   "tail": [
@@ -166,6 +176,7 @@
    "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy/library/Finding Darla (Vidhya Sathyamoorthy) (z-library.sk, 1lib.sk, z-lib.sk).epub",
    "--full"
   ],
+  "head": "b24907b12202",
   "rc": 0,
   "sha": "73810a129b66ad00",
   "tail": [
@@ -182,6 +193,7 @@
    "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
    "--quiet"
   ],
+  "head": "b24907b12202",
   "rc": 0,
   "sha": "43e40f5d6d3805e4",
   "tail": [
@@ -197,6 +209,7 @@
    "short",
    "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
   ],
+  "head": "b24907b12202",
   "rc": 0,
   "sha": "33dbb73458f924d4",
   "tail": [
@@ -212,6 +225,7 @@
    "coverage",
    "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
   ],
+  "head": "b24907b12202",
   "rc": 0,
   "sha": "1924e2bed25e71b8",
   "tail": [
@@ -227,6 +241,7 @@
    "blocks",
    "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
   ],
+  "head": "b24907b12202",
   "rc": 0,
   "sha": "1c6937b82db16194",
   "tail": [
@@ -243,6 +258,7 @@
    "--book-dir",
    "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
   ],
+  "head": "b24907b12202",
   "rc": 1,
   "sha": "714875fb7050d36a",
   "tail": [
@@ -257,6 +273,7 @@
    "scripts/check_chinese_layer.py",
    "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
   ],
+  "head": "b24907b12202",
   "rc": 0,
   "sha": "63002cd8b9964c0a",
   "tail": [
@@ -273,6 +290,7 @@
    "scripts/check_vocab.py",
    "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
   ],
+  "head": "b24907b12202",
   "rc": 0,
   "sha": "9641c04512b5d0cd",
   "tail": [
@@ -290,6 +308,7 @@
    "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy",
    "--quiet"
   ],
+  "head": "b24907b12202",
   "rc": 0,
   "sha": "01b0c18faef2bd10",
   "tail": [
@@ -304,6 +323,7 @@
    "scripts/check_quote_order.py",
    "notes/books/novels/finding-darla-by-vidhya-sathyamoorthy"
   ],
+  "head": "b24907b12202",
   "rc": 1,
   "sha": "f5aadfa75be2e25f",
   "tail": [
@@ -323,6 +343,7 @@
    "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach/library/The Dues  Donts of Magic (Delemhach) (z-library.sk, 1lib.sk, z-lib.sk).epub",
    "--full"
   ],
+  "head": "df5687f0da24",
   "rc": 0,
   "sha": "7f42ece685313990",
   "tail": [
@@ -339,6 +360,7 @@
    "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
    "--quiet"
   ],
+  "head": "df5687f0da24",
   "rc": 0,
   "sha": "b12a95b16cc0476d",
   "tail": [
@@ -354,6 +376,7 @@
    "short",
    "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach"
   ],
+  "head": "df5687f0da24",
   "rc": 0,
   "sha": "e245ea11b3691050",
   "tail": [
@@ -369,6 +392,7 @@
    "coverage",
    "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach"
   ],
+  "head": "df5687f0da24",
   "rc": 0,
   "sha": "48e6c4ed0d5c2192",
   "tail": [
@@ -384,6 +408,7 @@
    "blocks",
    "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach"
   ],
+  "head": "df5687f0da24",
   "rc": 0,
   "sha": "a7c21f1f21aa7d0f",
   "tail": [
@@ -400,6 +425,7 @@
    "--book-dir",
    "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach"
   ],
+  "head": "df5687f0da24",
   "rc": 0,
   "sha": "79eca18431fd9feb",
   "tail": [
@@ -415,6 +441,7 @@
    "scripts/check_chinese_layer.py",
    "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach"
   ],
+  "head": "df5687f0da24",
   "rc": 0,
   "sha": "9e4c7b97596cbad8",
   "tail": [
@@ -431,6 +458,7 @@
    "scripts/check_vocab.py",
    "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach"
   ],
+  "head": "df5687f0da24",
   "rc": 0,
   "sha": "7f9fdf1611cde2d0",
   "tail": [
@@ -448,6 +476,7 @@
    "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
    "--quiet"
   ],
+  "head": "df5687f0da24",
   "rc": 0,
   "sha": "ae9245d18a178062",
   "tail": [
@@ -462,6 +491,7 @@
    "scripts/check_quote_order.py",
    "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach"
   ],
+  "head": "df5687f0da24",
   "rc": 0,
   "sha": "7f6ad0af3d3828c3",
   "tail": [
@@ -479,6 +509,7 @@
    "notes/books/novels/capture-by-amanda-lohrey/library/Capture (Amanda Lohrey) (z-library.sk, 1lib.sk, z-lib.sk).epub",
    "--full"
   ],
+  "head": "bc077073ed29",
   "rc": 0,
   "sha": "22bcbec642fc8010",
   "tail": [
@@ -495,6 +526,7 @@
    "notes/books/novels/capture-by-amanda-lohrey",
    "--quiet"
   ],
+  "head": "bc077073ed29",
   "rc": 0,
   "sha": "1318e77ef29b85fc",
   "tail": [
@@ -510,6 +542,7 @@
    "short",
    "notes/books/novels/capture-by-amanda-lohrey"
   ],
+  "head": "bc077073ed29",
   "rc": 0,
   "sha": "17469e0e8d0afcfa",
   "tail": [
@@ -525,6 +558,7 @@
    "coverage",
    "notes/books/novels/capture-by-amanda-lohrey"
   ],
+  "head": "bc077073ed29",
   "rc": 0,
   "sha": "4ead5bcea40e3aec",
   "tail": [
@@ -540,6 +574,7 @@
    "blocks",
    "notes/books/novels/capture-by-amanda-lohrey"
   ],
+  "head": "bc077073ed29",
   "rc": 0,
   "sha": "3a7d883e2ff169c0",
   "tail": [
@@ -556,6 +591,7 @@
    "--book-dir",
    "notes/books/novels/capture-by-amanda-lohrey"
   ],
+  "head": "bc077073ed29",
   "rc": 0,
   "sha": "9fc0739335aab3ea",
   "tail": [
@@ -571,6 +607,7 @@
    "scripts/check_chinese_layer.py",
    "notes/books/novels/capture-by-amanda-lohrey"
   ],
+  "head": "bc077073ed29",
   "rc": 0,
   "sha": "3e9d4132a410cfcd",
   "tail": [
@@ -587,6 +624,7 @@
    "scripts/check_vocab.py",
    "notes/books/novels/capture-by-amanda-lohrey"
   ],
+  "head": "bc077073ed29",
   "rc": 0,
   "sha": "2d2f620587abd733",
   "tail": [
@@ -604,6 +642,7 @@
    "notes/books/novels/capture-by-amanda-lohrey",
    "--quiet"
   ],
+  "head": "bc077073ed29",
   "rc": 0,
   "sha": "bfa735774de3be24",
   "tail": [
@@ -618,6 +657,7 @@
    "scripts/check_quote_order.py",
    "notes/books/novels/capture-by-amanda-lohrey"
   ],
+  "head": "bc077073ed29",
   "rc": 1,
   "sha": "bddf1686f6466ae9",
   "tail": [
@@ -636,6 +676,7 @@
    "notes/books/novels/wings-of-starlight-by-allison-saft/library/Wings of Starlight (Allison Saft) (Z-Library).epub",
    "--full"
   ],
+  "head": "2e6a2f23b9ee",
   "rc": 0,
   "sha": "ed7e2a6b4e1518c9",
   "tail": [
@@ -652,6 +693,7 @@
    "notes/books/novels/wings-of-starlight-by-allison-saft",
    "--quiet"
   ],
+  "head": "2e6a2f23b9ee",
   "rc": 0,
   "sha": "860d89ae771a0982",
   "tail": [
@@ -667,6 +709,7 @@
    "short",
    "notes/books/novels/wings-of-starlight-by-allison-saft"
   ],
+  "head": "2e6a2f23b9ee",
   "rc": 0,
   "sha": "aa244116a10fc1f9",
   "tail": [
@@ -684,6 +727,7 @@
    "coverage",
    "notes/books/novels/wings-of-starlight-by-allison-saft"
   ],
+  "head": "2e6a2f23b9ee",
   "rc": 0,
   "sha": "c9ed5411cfde57ad",
   "tail": [
@@ -699,6 +743,7 @@
    "blocks",
    "notes/books/novels/wings-of-starlight-by-allison-saft"
   ],
+  "head": "2e6a2f23b9ee",
   "rc": 0,
   "sha": "e793731dab063da9",
   "tail": [
@@ -715,6 +760,7 @@
    "--book-dir",
    "notes/books/novels/wings-of-starlight-by-allison-saft"
   ],
+  "head": "2e6a2f23b9ee",
   "rc": 0,
   "sha": "8c9d3d2b4ef0d7ac",
   "tail": [
@@ -730,6 +776,7 @@
    "scripts/check_chinese_layer.py",
    "notes/books/novels/wings-of-starlight-by-allison-saft"
   ],
+  "head": "2e6a2f23b9ee",
   "rc": 1,
   "sha": "d14298293f667d9e",
   "tail": [
@@ -746,6 +793,7 @@
    "scripts/check_vocab.py",
    "notes/books/novels/wings-of-starlight-by-allison-saft"
   ],
+  "head": "2e6a2f23b9ee",
   "rc": 0,
   "sha": "ca753b4e8bf66272",
   "tail": [
@@ -763,6 +811,7 @@
    "notes/books/novels/wings-of-starlight-by-allison-saft",
    "--quiet"
   ],
+  "head": "2e6a2f23b9ee",
   "rc": 1,
   "sha": "9d58a6f6a32aedda",
   "tail": [
@@ -777,6 +826,7 @@
    "scripts/check_quote_order.py",
    "notes/books/novels/wings-of-starlight-by-allison-saft"
   ],
+  "head": "2e6a2f23b9ee",
   "rc": 1,
   "sha": "6bac062ffa764556",
   "tail": [
@@ -795,6 +845,7 @@
    "notes/books/novels/fabulous-bodies-by-chuck-tingle",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle/library/Fabulous Bodies (Chuck Tingle) (z-library.sk, 1lib.sk, z-lib.sk).epub"
   ],
+  "head": "b19185083e57",
   "rc": 0,
   "sha": "9d83e86ad9921936",
   "tail": [
@@ -813,6 +864,7 @@
    "notes/books/novels/fabulous-bodies-by-chuck-tingle",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle/library/Fabulous Bodies (Chuck Tingle) (z-library.sk, 1lib.sk, z-lib.sk).epub"
   ],
+  "head": "b19185083e57",
   "rc": 0,
   "sha": "7a5eda17ba990280",
   "tail": [
@@ -829,6 +881,7 @@
    "notes/books/novels/fabulous-bodies-by-chuck-tingle",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle/library/Fabulous Bodies (Chuck Tingle) (z-library.sk, 1lib.sk, z-lib.sk).epub"
   ],
+  "head": "b19185083e57",
   "rc": 0,
   "sha": "c496d0ed502e2bda",
   "tail": [
@@ -845,6 +898,7 @@
    "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
    "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach/library/The Dues  Donts of Magic (Delemhach) (z-library.sk, 1lib.sk, z-lib.sk).epub"
   ],
+  "head": "df5687f0da24",
   "rc": 0,
   "sha": "06cf9915aee9ea3f",
   "tail": [
@@ -863,6 +917,7 @@
    "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
    "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach/library/The Dues  Donts of Magic (Delemhach) (z-library.sk, 1lib.sk, z-lib.sk).epub"
   ],
+  "head": "df5687f0da24",
   "rc": 0,
   "sha": "9554dfd46bb242be",
   "tail": [
@@ -879,6 +934,7 @@
    "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach",
    "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach/library/The Dues  Donts of Magic (Delemhach) (z-library.sk, 1lib.sk, z-lib.sk).epub"
   ],
+  "head": "df5687f0da24",
   "rc": 0,
   "sha": "51577bf7e0d6d24c",
   "tail": [
@@ -895,6 +951,7 @@
    "notes/books/novels/capture-by-amanda-lohrey",
    "notes/books/novels/capture-by-amanda-lohrey/library/Capture (Amanda Lohrey) (z-library.sk, 1lib.sk, z-lib.sk).epub"
   ],
+  "head": "bc077073ed29",
   "rc": 0,
   "sha": "c53241eec57e3301",
   "tail": [
@@ -913,6 +970,7 @@
    "notes/books/novels/capture-by-amanda-lohrey",
    "notes/books/novels/capture-by-amanda-lohrey/library/Capture (Amanda Lohrey) (z-library.sk, 1lib.sk, z-lib.sk).epub"
   ],
+  "head": "bc077073ed29",
   "rc": 0,
   "sha": "0a8531f9d9df3b3b",
   "tail": [
@@ -929,6 +987,7 @@
    "notes/books/novels/capture-by-amanda-lohrey",
    "notes/books/novels/capture-by-amanda-lohrey/library/Capture (Amanda Lohrey) (z-library.sk, 1lib.sk, z-lib.sk).epub"
   ],
+  "head": "bc077073ed29",
   "rc": 0,
   "sha": "cc29361ddfe59daa",
   "tail": [
@@ -943,6 +1002,7 @@
    "scripts/bookform.py",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle"
   ],
+  "head": "b19185083e57",
   "rc": 0,
   "sha": "42f2894efac1cd3a",
   "tail": [
@@ -957,6 +1017,7 @@
    "scripts/chapter.sh",
    "notes/books/novels/fabulous-bodies-by-chuck-tingle/ch10 Date Night.md"
   ],
+  "head": "b19185083e57",
   "rc": 0,
   "sha": "f09e3e3d2b8d2dcb",
   "tail": [
