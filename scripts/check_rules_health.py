@@ -98,7 +98,7 @@ def main() -> int:
         return r.stdout.splitlines() if r.returncode == 0 else []
 
     tracked = _git("ls-files", "scripts")
-    tracked_py = [x for x in tracked if x.endswith(".py")]
+    tracked_py = [x for x in tracked if x.endswith(".py") and not x.endswith("__init__.py")]
     reg = REGISTRY.read_text(encoding="utf-8") if REGISTRY.exists() else ""
     if not REGISTRY.exists():
         bad.append("缺少 docs/rules/工具登记.md（新增脚本无处登记）")

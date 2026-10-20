@@ -52,7 +52,7 @@ echo "=== lane ==="
 echo; echo "=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）==="
 # --full 只补一次整串/逐段 flat 比对并打印「--full 整串取证 N」计数；
 # 它不参与退出码（verify_quotes.py:373 只看 bad/total/zero_fail），故不会让任何书误红。
-if [ -n "$EPUB" ]; then python3 scripts/verify_quotes.py "$B" "$EPUB" --full 2>&1 | tail -4
+if [ -n "$EPUB" ]; then python3 scripts/quotes.py verbatim "$B" "$EPUB" --full 2>&1 | tail -4
 else echo "❓ 无 epub，无法判定"; fi
 
 echo; echo "=== ② check_vocab（词汇真实性/例句/分档）==="
@@ -113,16 +113,16 @@ python3 scripts/corruption_scan.py "$B" 2>&1 | grep -E "FAIL|报告" \
   | sed -E 's/^  FAIL ([0-9]+) 处/  ❌ FAIL \1 处/'
 
 echo; echo "=== ⑤ sweep_full（引语整串 flat）==="
-python3 scripts/sweep_full.py "$B" --quiet 2>&1 | grep -E "✅|❓"
+python3 scripts/quotes.py full "$B" --quiet 2>&1 | grep -E "✅|❓"
 
 echo; echo "=== ⑥ check_short_quotes（<20 字符短引语兜底）==="
-python3 scripts/check_short_quotes.py "$B" 2>&1 | tail -2
+python3 scripts/quotes.py short "$B" 2>&1 | tail -2
 
 echo; echo "=== ⑦ 逐章归属 check_chapter_quotes（不降级）==="
 fail=0
 for f in "$B"/ch*.md; do
   nn=$(basename "$f" | sed -E 's/^ch0*([0-9]+).*/\1/')
-  out=$(python3 scripts/check_chapter_quotes.py "$nn" "$f" --out-dir "$B/text" 2>&1 | tail -1)
+  out=$(python3 scripts/quotes.py chapter "$nn" "$f" --out-dir "$B/text" 2>&1 | tail -1)
   # 2026-10-20 修假红：NO_LONG_QUOTES = 「本章没有 ≥阈值的引语，短引语未逐章校验」，
   # 那是**未核**不是缺陷——而且 ⑥ check_short_quotes 已在书级 + 跨章归属两层兜过短引语。
   # 原写法把它落进 `*)` 分支打成 ❌ 阻断（finding-darla ch12 实测：整本书因此 exit 1，
@@ -140,8 +140,8 @@ echo; echo "=== ⑧ 块覆盖对账（每块都进 verify_quotes）==="
 # ⚠️ 2026-09-29 修正：原写 `| tail -2` ⇒ **阻断型 ❌ 被藏掉**（ch37-39 批次实测：
 # 实际有 ch39、ch45 两条 ❌ [被丢]，gate 只显示两条 ⚠️，exit 仍为 0）。
 # 门禁汇总的唯一硬要求：**阻断型不许被任何截断隐藏**。
-python3 scripts/check_block_coverage.py "$B" 2>&1 | grep -E "^(✅|❌|⚠️) |^❌ " | head -20
-BLOCK8=$(python3 scripts/check_block_coverage.py "$B" 2>&1 | grep -c "^❌ " || true)
+python3 scripts/quotes.py coverage "$B" 2>&1 | grep -E "^(✅|❌|⚠️) |^❌ " | head -20
+BLOCK8=$(python3 scripts/quotes.py coverage "$B" 2>&1 | grep -c "^❌ " || true)
 [ "$BLOCK8" -gt 0 ] && echo "⛔ 阻断型：$BLOCK8 个文件有块未进 verify_quotes 校验"
 [ "$BLOCK8" -gt 0 ] && _blk "⑧块覆盖"
 
@@ -339,7 +339,7 @@ python3 scripts/check_xref_chapter.py "$B" 2>&1 | sed -n '1,40p'
 #   眼里根本不是引语；而「孤儿分析」是少了一行，多出来的东西没有任何检查会报。
 #   五种判据：缺前缀 / 编号倒序 / 编号撞车 / 孤儿分析 / 自查泄漏。
 echo; echo "=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）==="
-python3 scripts/check_quote_blocks.py "$B" 2>&1 | head -40
+python3 scripts/quotes.py blocks "$B" 2>&1 | head -40
 
 
 # ⑱ 2026-10-02 新增（Beach Read 第九轮）：**引语块配额 + 关键词锚定 + 拼接红线**。

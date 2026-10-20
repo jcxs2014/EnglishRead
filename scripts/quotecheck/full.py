@@ -44,7 +44,7 @@ import os
 import re
 import sys
 
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))  # scripts/（父目录）：verify_quotes 留在顶层，避免动 9 个 importer
 from verify_quotes import extract_quotes, flat_alpha, epub_flat_text  # noqa: E402
 
 CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕'
