@@ -97,7 +97,7 @@ modified: "2026-10-20"
 | determination | n. 决心；决断 | When Mr Ebenezer Scrooge spoke next, it was with a tone of brisk determination, suggestive of the man of business he once had been. |
 | suggestive | adj. 令人想起…的；意味深长的 | When Mr Ebenezer Scrooge spoke next, it was with a tone of brisk determination, suggestive of the man of business he once had been. |
 | deliberations | n. 考虑；商议 | You have given us enough for now, to begin our… deliberations about this matter. |
-| researches | n. 查访；调查 | “It may very well come to that, but there are first certain researches which I must conduct. |
+| researches | n. 查访；调查 | It may very well come to that, but there are first certain researches which I must conduct.|
 | unmistakeable | adj. 无可错认的；不容置疑的 | The unmistakeable presence of evil. |
 | irritation | n. 恼怒；不耐 | At the mention of this name, Captain Ambrose snorted in irritation. |
 | appreciative | adj. 感激的；领情的 | I admit that I would be most appreciative of a chance to rest. |
@@ -108,10 +108,10 @@ modified: "2026-10-20"
 |---|---|---|
 | situated | adj. 位于…的；坐落在 | Where exactly is this house situated? |
 | witnessed | v. 目睹；亲见 | But as to what I witnessed there as a girl, I would beg your leave to wait awhile before I tell you. |
-| available | adj. 可供使用的；腾得出的 | “In the meantime, we have here at the Club a room that is available for our guests. |
+| available | adj. 可供使用的；腾得出的 | In the meantime, we have here at the Club a room that is available for our guests.|
 | disposal | n. 自由使用；支配 | It is at your disposal, as are the kitchens and the cellars. |
 | delicate | adj. 脆弱的；微妙的 | And you must do so, for your condition is a delicate one. |
-| hesitates | v. 犹豫；踌躇 | “One hesitates to say wisdom. |
+| hesitates | v. 犹豫；踌躇 | One hesitates to say wisdom.|
 
 ### ⭐ 基础
 

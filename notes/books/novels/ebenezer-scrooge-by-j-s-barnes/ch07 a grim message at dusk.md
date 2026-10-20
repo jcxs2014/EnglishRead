@@ -134,7 +134,7 @@ modified: "2026-10-20"
 | murmured | v. 低声说；含糊地咕哝（音量低而含糊） | “Come in,” she murmured, still emerging from her stupor. |
 | emerging | v. 显露；挣脱出来（此刻分词，形容正从昏沉中缓过来） | “Come in,” she murmured, still emerging from her stupor. |
 | Charlotte | n. 夏洛特（家中女仆的名字） | As the door opened, light flooded in from the hallway and the silhouette of Charlotte grew visible. |
-| returned | v. 回到；归来（此处为过去分词，意为已经回来） | “Mr Scrooge and the captain are returned, ma’am. |
+| returned | v. 回到；归来（此处为过去分词，意为已经回来） | Mr Scrooge and the captain are returned, ma’am.|
 | wherever | adv. 无论哪里；到任何地方（不指具体地点） | From wherever their mission took them. |
 | readiness | n. 准备；就绪（in readiness for：做好了迎接某事的准备） | Louisa Fell took a long deep breath, in readiness for what was to come. |
 
@@ -142,7 +142,7 @@ modified: "2026-10-20"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| bad dream | n. 噩梦；一场坏梦 | “A bad dream, Charlotte. |
+| bad dream | n. 噩梦；一场坏梦 | A bad dream, Charlotte.|
 | bed | n. 床（卧具） | She sat upright upon the bed, and as she did so, there came a light tap at the door. |
 | case | n. 案子；案情（指一桩待查的悬案） | About your case. |
 | faces | n. 面孔；脸色（face 的复数） | But I doubt it, so grim and set were their faces. |

@@ -57,7 +57,7 @@ modified: "2026-10-20"
 
 > **原句 4:** "“I’ve been sent, Mr Cadge, sir. By a man named Ebenezer Scrooge.”"
 
-**中文理解**：安布罗斯答话：我是受一位名叫埃比尼泽·斯克罗奇的人差遣来的。
+**中文理解**：安布罗斯答话：我是受一位名叫斯克罗奇的人差遣来的。
 
 **关键词**：I’ve been sent / By a man named Ebenezer Scrooge
 

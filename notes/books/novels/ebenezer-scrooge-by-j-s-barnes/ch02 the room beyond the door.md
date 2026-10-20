@@ -145,7 +145,7 @@ modified: "2026-10-20"
 | chaos | n. 混乱；杂乱 | Somehow, amongst the chaos, Mrs Fell found a well-upholstered chair. |
 | muddle | n. 乱局；一团糟 | Do excuse the muddle. |
 | seat | n. 座位 | Take a seat. |
-| situation | n. 处境；境地 | “I fear that does describe my situation, sir. |
+| situation | n. 处境；境地 | I fear that does describe my situation, sir.|
 | moneyed square | n. 富人区；有钱人聚居的街区 | Before her was the window and the moneyed square beyond. |
 
 ## 一句话总结

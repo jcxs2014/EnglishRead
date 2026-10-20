@@ -121,18 +121,18 @@ modified: "2026-10-20"
 |------|------|------|
 | solicitously | adv. 热情地；关切地 | “I trust you slept well,” said Captain Ambrose solicitously. |
 | comforting | adj. 令人安心的；宽慰的 | Mr Scrooge smiled in a way that was intended to be comforting. |
-| reputation | n. 名声；声誉 | “That his house has a reputation for being, as we would say, unquiet. |
+| reputation | n. 名声；声誉 | “That his house has a reputation for being, as we would say, unquiet.”|
 | confidential | adj. 私下的；不便外传的 | “Not that Mr Scrooge believes it to be any such thing, ma’am,” he said, favouring the lady with a confidential look. |
 | thin-lipped | adj. 抿着嘴唇的 | Scrooge gave a thin-lipped smile. |
-| successful | adj. 成功的；声名显赫的 | “For young Mr Archibald Beck is the most lauded and successful psychic medium working in London today. |
+| successful | adj. 成功的；声名显赫的 | For young Mr Archibald Beck is the most lauded and successful psychic medium working in London today.|
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
 | discover | v. 查明；发现 | “There is still a very great deal for us to discover,” said Scrooge. |
-| forefront | n. 最前沿；首要位置 | “At the very forefront of which is the precise nature of your own experience in the house on Brightwell Road. |
-| business | n. 事务；这里指事情本身的运作 | “Already, he suspects a pattern in the business rather than the workings of chance. |
+| forefront | n. 最前沿；首要位置 | At the very forefront of which is the precise nature of your own experience in the house on Brightwell Road.|
+| business | n. 事务；这里指事情本身的运作 | Already, he suspects a pattern in the business rather than the workings of chance.|
 | resident | adj. 常住的；居住的 | And now we discover that he was resident at the Gowing house on Brightwell Road for at least a year, a decade before his rise to fame. |
 | profound | adj. 深刻的；深远的 | It has been said the messages he relates from the world that lies beyond the veil are unusually detailed and profound. |
 
@@ -143,7 +143,7 @@ modified: "2026-10-20"
 | breath | n. 呼吸；一口气 | She took a breath. |
 | coincidence | n. 巧合 | If it is a coincidence, it is a most striking one. |
 | glass | n. 玻璃；玻璃窗 | Outside, the rain intensified, sounding now like fingertips drumming, drumming against the glass. |
-| name | n. 名字；姓名 | “Yes, I do believe I’ve heard the name. |
+| name | n. 名字；姓名 | Yes, I do believe I’ve heard the name.|
 | striking detail | n. 醒目的细节 | It is certainly a striking detail. |
 | military man | n. 军人 | It was the military man who leapt to the widow’s aid, who produced a glass and decanter, and gave the lady what she had requested. |
 
