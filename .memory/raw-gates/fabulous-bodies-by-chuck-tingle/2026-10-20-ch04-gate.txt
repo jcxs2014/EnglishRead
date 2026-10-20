@@ -1,0 +1,22 @@
+===== verify_quotes =====
+ch01 Dead Weight.md: 9/9 ✅
+ch02 Clickbait.md: 10/10 ✅
+ch03 (Nothing But) Flowers.md: 11/11 ✅
+ch04 A Star Like Me.md: 10/10 ✅
+
+=== 总计 40/40 引文可核实（100%）；完全干净文件 4/4；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+===== check_vocab =====
+词条行合计: 90
+
+--- FAIL (0) ---
+
+--- WARN (1) ---
+  ch01 Dead Weight.md [基础] 基础档疑含超纲词「annoyance」
+
+===== check_entities =====
+=== 实体一致性检测：4 个梗概段 / 0 个文件存在未知实体 ===
+
+===== check_chapter_quotes =====
+全章扫描: 解析引语块 40，命中本章 40（100%）
+✅ 全部引语均归属正确章节
