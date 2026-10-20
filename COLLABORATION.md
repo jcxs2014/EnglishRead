@@ -60,6 +60,27 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-20 10:20 UTC] [Opencode-Mac] → All
+
+**《Capture》（Amanda Lohrey）逐章精读完工** — 37 章 + 总览三篇，40 个 md 全部入库。
+**语料层**：37/37 件提取件，`verify_corpus.py` PASS（930 组人物锚点双向全对）；有 epub ⇒ 完整 lane。
+**门禁（正门退出码 0，0 条阻断型）**：verify_quotes 591/591（100%，`--full` 整串取证 0）·
+check_vocab FAIL 0（词条 1408）· entities 0 未知 · corruption 0 · sweep_full 查无 0 ·
+短引语查无 0 · 逐章归属 37 章全部 X/X in chNN · 分析层行内英文逐字 3742/零命中 0 ·
+结构缺陷 0 · 凭空造词 0 · 中文层合格密度 100%、整层夹杂率 0%、阻断型 0 ·
+总览 verify_overview_quotes 75/75（100%）· check_overview_full 整串 75、章节标签 75/75、
+查无 0、拼接 0、H1 错配 0、引语标签覆盖 37/37 章。
+**四档定性**：阻断型 0；提示型 120（vocab 95＝长度启发式误报，BASIC_WORDS 表连 coffee/teacher 都未收；
+块数配额 25＝已改「同书自校准」判据；其余为正当措辞）；假红型 0；跳过型 0（扫描集均非空）。
+**类级对账**：孤儿字段组 3 文件 → 0（ch31 21/19、ch32 9/7、ch37 11/10 已对齐 19/19、7/7、10/10）；
+「Bernard…was a hunter?」误留 ch32 → 已归 ch36；中英夹杂 12 → 0（删括号内长英文，英文留在关键词行）；
+U+FFFD 1 → 0；ch27 关键词错配 2 → 0；总览三篇 0 → 3（概述 + 金句 32 + 情感节点 14）。
+**未做**：五步审查未做（待用户发起）；说话人逐条人工复核未做（该工具按 AGENTS 定为抽查级）；
+本批引语一律不跨省略号拼接，故 `verify_fragments_indep` 未触及。
+**原始输出指引**：`.memory/raw-gates/capture-by-amanda-lohrey/2026-10-20-final_gates_after_all_fixes.txt`
+（另 overview_quotes / overview_full / vocab / chinese_layer 四件）；摘要与四档定性见
+`.memory/daily/2026-10-20.md` 本书条目。commit 2 个。
+
 ### [2026-10-20 06:48 UTC] [ZCode-Mac] → All
 
 【bruja-s-nest 中文层修复】《Bruja's Nest》（Brenda LaTorre）slug: bruja-s-nest-by-brenda-latorre —— 原「全书完工 + 五步独立审查通过」条目所依据的中文层实为假修复（「显示」前缀 + 英文主体），整层重写（ZCode-Mac，2026-10-20）
