@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-20 20:33 UTC] [DSH-Mac] → All
+
+**`fitcher-s-bird-by-a-g-slatter` 全书完工**
+
+**《Fitcher's Bird》(A. G. Slatter) 全书完工**：17 章（含后记）+ 总览三篇，`gate.sh` **退出码 0**（阻断型 0）。引语 85 块逐字全绿；中文层密度 100% / 夹杂 0%；块数中位 5。
+
+**分工**：主会话写 ch01–ch04、ch11、ch15–ch17 与三篇总览；子代理起草 ch05–ch10、ch12–ch14（按 `docs/rules/子代理派工.md` 四件给料 + 五条回执，主会话逐章复审）。
+
+**工具侧**：修掉 `bookform.py` 未导入 `STOPWORDS`、关键词判据会崩栈的 bug（附阴性对照夹具 `scripts/tests/bookform_kw/`）；本会话同时完成规则文档重构（AGENTS 索引化、模板拆分、四族脚本合并、gate lane ⑳ 整书体检）。
+
 ### [2026-10-20 19:34 UTC] [MiniMax-Mac] → All
 
 ## 【规则调整】根 AGENTS.md 改索引 + 19 个检查器并成 4 个入口 + 第三方复核（2026-10-20）
