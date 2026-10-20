@@ -6,7 +6,7 @@
 ## 1. 跑什么
 
 ```bash
-bash scripts/gate.sh "<书目录>"                  # 书级：19 lane 一次跑完
+bash scripts/gate.sh "<书目录>"                  # 书级：20 lane 一次跑完
 bash scripts/chapter.sh "<章 md>"                # 章级：写作时每章跑
 python3 scripts/sweep_journal.py "<日期目录>"     # 期刊
 python3 scripts/verify_corpus.py "<书目录>" --expect N --expect-source "…"   # 新书第一步
@@ -15,19 +15,22 @@ python3 scripts/verify_corpus.py "<书目录>" --expect N --expect-source "…" 
 `gate.sh` 依次跑：**`quotes.py verbatim`** / check_vocab / check_entities / corruption_scan / **`quotes.py full`** /
 **`quotes.py short`** / **`quotes.py chapter`** / **`quotes.py coverage`** / **`analysis.py nav`** / **`analysis.py inline`** /
 **`structure.py audit`** / **`structure.py anchor`** / 空段扫描 / **`overview.py quotes`** / **`overview.py full`** /
-**`analysis.py xref`** / **`quotes.py blocks`** / **`structure.py keywords`** / check_chinese_layer。
+**`analysis.py xref`** / **`quotes.py blocks`** / **`structure.py keywords`** / check_chinese_layer /
+**`bookform.py --all`**（整书体检——与 `chapter.sh` 同一实现）。
 引语六件 → `quotes.py`，总览三件 → `overview.py`，结构四件 → `structure.py`，分析六件 → `analysis.py`
 （旧名 → 新命令见 `工具登记.md` 末尾）。
-引语层那六件事已收进 `scripts/quotes.py` 一个入口，总览三件事收进 `scripts/overview.py` 一个入口
-（旧脚本名 → 新命令见 `工具登记.md` 末尾）。
+
+⚠️ **⑳ 只报其他 lane 不查的维度**（分析层残留空引号 / H1 形态 / 导航项数 / 块数越界）；
+引语、子项、关键词、中文密度仍由 ①⑤⑦⑩⑪⑫⑬⑲ 负责——**同一处缺陷不许数两遍**，
+否则正门「阻断型 N 条」会虚高（这正是 2026-10-02 以来反复踩的坑）。
 （lane 清单会变，**以 `gate.sh` 现场为准**；单跑某检测器的参数见该脚本 `--help`。）
 
 **结论怎么来的（2026-10-20 起是双轨）**：`gate.sh` 同时看两层——
-**退出码层**（`②③⑦⑧⑲` 这五道的进程退出码：1=阻断、2=未判定）与
+**退出码层**（`②③⑦⑧⑲⑳` 这六道的进程退出码：1=阻断、2=未判定）与
 **文本层**（日志里 `❌` 条目行计数，覆盖其余 lane）。
 任一层报阻断 → `exit 1`；两层不一致时**脚本会把不一致本身打印出来**——那正是
 2026-10-02 / 10-05 / 10-06 三次「汇总层把真阻断洗成绿灯」的形态。
-⚠️ rc 层**只覆盖五道**，因为其余工具的退出码语义还没逐个核实
+⚠️ rc 层**只覆盖六道**，因为其余工具的退出码语义还没逐个核实
 （多个工具把 ⚠️ 提示也计入非零码）；**盲目扩大 rc 层会把提示型判成阻断，在全库制造假红**。
 读输出时先看末尾那两行，再看是哪一轨报的。
 

@@ -405,6 +405,16 @@ sleep 0.3
 #   ⇒ ch07 导航只有 2 项这一条真阻断**不进聚合**，正门照样打「0 条 · 退出码 0」。
 #   这是「汇总层把真阻断洗成绿灯」的**第三次**（前两次：④ corruption_scan 的 FAIL
 #   无 ❌ 标记、⑱ 被 tail 截断）。⇒ 判据改为**行首可有可无空白**，只认 ❌ 本身。
+echo; echo "=== ⑳ 整书体检（bookform --all，判据与 chapter.sh 相同）==="
+# ⚠️ 2026-10-20 新增（用户要求「gate 调 chapter.sh」）：单章入口 chapter.sh 与整书入口
+#   gate.sh 原本是两套判据——同一章，单章查得出的缺陷整书可能查不出，反之亦然。
+#   ⇒ 整书复用 bookform 的同一实现（`--all`），**只报其他 lane 不查的维度**
+#   （分析层残留空引号 / H1 形态 / 导航项数 / 块数越界），引语、子项、关键词、
+#   中文密度仍由 ①⑤⑦⑩⑪⑫⑬⑲ 负责——否则同一处缺陷数两遍，正门计数虚高。
+_bf_out=$(python3 scripts/bookform.py "$B" --all 2>&1) && _bf_rc=0 || _bf_rc=$?
+echo "$_bf_out"
+[ "$_bf_rc" -eq 1 ] && _blk "⑳整书体检"
+
 _gfail=$(grep -E '^[[:space:]]*❌' "$GATE_LOG" 2>/dev/null | grep -v '｜' | grep -v ' 0 ' | wc -l | tr -d ' ')
 _gfail=${_gfail:-0}
 if [ "$RC_BLOCK" -gt 0 ] || [ "$_gfail" -gt 0 ]; then

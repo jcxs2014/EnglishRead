@@ -201,11 +201,11 @@ def find_corpus(book: Path, no: int) -> Path | None:
     return c[0] if c else None
 
 
-def check_chapter(book: Path, md: Path) -> dict:
+def check_chapter(book: Path, md: Path, form: dict | None = None) -> dict:
     no = chapter_no(md)
     corpus = find_corpus(book, no) if no else None
     d = parse_md(md)
-    form = book_form(book)
+    form = form or book_form(book)  # 整书模式只算一次众数，否则 O(n²)
     res: dict = {"chapter": no, "md": str(md), "corpus": str(corpus) if corpus else None,
                  "verdict": "ok", "quotes": [], "blocks": [], "form": {}, "counts": {}}
     if no is None:
@@ -329,11 +329,69 @@ def print_check(r: dict) -> None:
     print(f"\n结论：{'❌ 有阻断' if r['verdict'] == 'blocked' else '✅ 机器层无阻断'}（档位四选一见审查表）")
 
 
+def check_all(book: Path, as_json: bool = False) -> int:
+    """整书体检：每章跑**与 `chapter.sh` 完全相同**的 check_chapter。
+
+    为什么要它（2026-10-20）：单章入口 `chapter.sh` 与整书入口 `gate.sh` 原本是两套判据，
+    单章查得出的缺陷整书可能查不出，反之亦然。这里让整书复用同一实现。
+
+    ⚠️ **只报其他 lane 不查的维度**（空引号 / H1 形态 / 导航项数 / 块数越界）。
+    引语逐字、子项缺、关键词、中文密度由 ①⑤⑥⑦⑩⑪⑫⑬⑲ 覆盖，本 lane **不重复报**
+    ——否则同一处缺陷被数两遍，正门计数虚高（2026-10-02 以来反复踩的坑）。
+    """
+    mds = chapter_md_files(book)
+    if not mds:
+        print(f"  （{book.name} 下没有 chNN 章 md，本 lane 跳过）")
+        return 0
+    form = book_form(book)                 # 只算一次众数
+    rows = [check_chapter(book, md, form) for md in mds]
+
+    empty_ch, form_ch, und = [], [], []
+    for r in rows:
+        no = r["chapter"]
+        if r["verdict"] == "undecidable":
+            und.append(r)
+            continue
+        n_empty = len(r["issues"]["empty_quote"])
+        if n_empty:
+            empty_ch.append((no, n_empty))
+        f = r["form"]
+        dev = []
+        if not f["h1_shape_ok"]:
+            dev.append(f"H1「{f['h1']}」与本书众数不同")
+        if not f["nav_count_ok"]:
+            dev.append(f"导航 {f['nav_count']} 项（本书常见 {f['nav_counts']}）")
+        if not (f["block_range"][0] <= f["blocks"] <= f["block_range"][1]):
+            dev.append(f"块数 {f['blocks']} 越出本书范围 {f['block_range'][0]}–{f['block_range'][1]}")
+        if dev:
+            form_ch.append((no, dev))
+
+    if as_json:
+        print(json.dumps({"book": str(book), "chapters": len(rows),
+                          "empty_quote": [{"ch": n, "n": k} for n, k in empty_ch],
+                          "form_deviation": [{"ch": n, "dev": d} for n, d in form_ch],
+                          "undecidable": [{"ch": r["chapter"], "reason": r["reason"]} for r in und]},
+                         ensure_ascii=False, indent=2))
+    else:
+        print(f"  整书体检 {len(rows)} 章（与 `chapter.sh` 同一实现；只报其他 lane 不查的维度）")
+        for no, k in empty_ch:
+            print(f"  ❌ ch{no:02d}：分析层残留空引号 {k} 处（删英文引语没删引号，写成 `\"\"`）")
+        for no, dev in form_ch:
+            print(f"  ❌ ch{no:02d}：" + "；".join(dev))
+        for r in und:
+            print(f"  ❓ ch{r['chapter']:02d}：{r['reason']}")
+        print(f"  汇总：空引号 {len(empty_ch)} 章 ｜ 形态偏离 {len(form_ch)} 章 ｜ 无法判定 {len(und)} 章"
+              f"（引语/子项/关键词/中文密度另有 lane，本项不重复计）")
+    bad = bool(empty_ch or form_ch)
+    return 1 if bad else (2 if und else 0)
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("target")
     ap.add_argument("--chapter", default=None)
     ap.add_argument("--json", action="store_true")
+    ap.add_argument("--all", action="store_true", help="整书体检（每章都跑，判据同单章）")
     a = ap.parse_args()
 
     t = Path(a.target).expanduser().resolve()
@@ -344,6 +402,9 @@ def main() -> int:
         md, book = t, t.parent
     else:
         md, book = None, t
+
+    if md is None and a.all:
+        return check_all(book, a.json)
 
     if md is None:
         f = book_form(book)
