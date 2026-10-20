@@ -14,6 +14,11 @@ ch21 出现**引语行丢失 `> ` 前缀**（`**原句 10:**` 不带 `>`）＋**
   C 编号撞车 同一 N 出现两次
   D 孤儿分析 出现分析子项（中文理解/关键词/为什么这样写/读者视角提示）但其上方无引语行
   E 自查泄漏 正文里出现「写作期自查记录」「不作为独立引语块计」等**面向作者而非读者**的字样
+  F 草稿话泄漏 **独立段落行**里出现第一人称写作动作/TODO/占位/anchor 标注等**元写作短语**
+              （2026-10-20 新增：E 只认 4 条固定中文串，英文草稿话全部漏网——
+               实测 the-dues-don-ts-of-magic ch13 有一行
+               `Wait — typo in the anchor. Let me fix: end anchor = ... with K flag.`
+               在 E 下完全不可见，而 19 道 lane 全绿）
 用法: python3 scripts/check_quote_blocks.py "<书目录>"
 """
 import glob
@@ -25,6 +30,69 @@ import sys
 # 2026-10-02 取代原先写死的 SUBS 四元组（全库 383 种标签，见 main() 内注释）。
 SUB_LABEL = re.compile(r"^\*\*([^*\n]{1,14}?)(?:\*\*)?[：:]")
 LEAK = ("写作期自查记录", "不作为独立引语块计", "自查记录", "写作期备注")
+
+# ⚠️ 2026-10-20 新增 **F 判据：写作期草稿话泄漏（英文形态）**
+# 背景（the-dues-don-ts-of-magic ch13 实测）：E 判据是**4 条固定中文串**的白名单，
+# 而真正漏网的泄漏是**英文第一人称草稿话**，长这样：
+#     Wait — typo in the anchor. Let me fix: end anchor = "You had no choice" with K flag.
+# 它既不含那 4 条中文串，也不带 `> ` 前缀、也不是 `**字段：**` 行 ⇒ **E 完全看不见**，
+# 而该文件 19 道 lane 全绿（引语逐字 100%、块序连续、编号无撞车）。
+# ⇒ 判据升级为「**结构位置 + 元写作短语**」双条件：
+#   ① 该行必须是**独立段落行**——不是引语行（`>` 开头）、不是 `**字段：**` 行、
+#      不是标题（`#`）、不是表格行（`|`）、不是列表项（`-`/`*`/`1.`）；
+#      （分析层的英文引文都在 `**字段：**` 行里，词表在表格里，导航在列表项里 ⇒ 不受影响）
+#   ② 该行命中**元写作短语**（第一人称 + 写作动作 / TODO / 占位 / anchor 标注 …）。
+# 两条件缺一不可：单独看短语会误伤「分析层里恰好引用书中一句 Let me…」，
+# 单独看位置会把所有裸段落都判红。
+_META = (
+    # —— 第一人称写作动作（**必须带写作对象**，否则 "I'll do it" 这类书中常见句会误报）——
+    re.compile(r"\bLet me (fix|rewrite|re-write|write (this|that|the)|add (this|that|the)|check)\b"),
+    re.compile(r"\bI'll (now (write|add|fix|check)|go ahead and (write|fix|add))\b"),
+    re.compile(r"\bNow let me (write|fix|add|check|read|open|start)\b"),
+    re.compile(r"\btypo in the\b"),
+    re.compile(r"\banchor\s*="),
+    re.compile(r"\bwith [A-Z] flag\b"),
+    re.compile(r"\b(TODO|FIXME|PLACEHOLDER)\b"),
+    re.compile(r"\bas an AI\b", re.I),
+    re.compile(r"\bnote to self\b", re.I),
+    re.compile(r"\bNow the (vocab|quotes?|chapters?|analysis|draft)\b"),
+    re.compile(r"\b(inject|insert) (the )?(quotes?|vocab|vocabulary|chapters?)\b"),
+    re.compile(r"\bbuild (the )?vocab", re.I),
+    # ⚠️ 「我来写」已删：实测把正常中文「所以我来写」判成泄漏（somewhere-towards-the-end ch01）。
+    re.compile(r"待补充|占位符|回头改|此处先写|自检记录|写作侧记录"),
+)
+_LIST_ITEM = re.compile(r"^\s*([-*+]|\d+[.)])\s")
+# 引文跨度：直引号 / 弯引号 / 单引号 —— 引文里的 "I'll do it" 不算泄漏
+# ⚠️ 单引号跨度必须**前后不接字母**，否则 `don't ... John's` 会被当成一个引文跨度
+#    （那会把真内容整段剥掉 ⇒ 漏报）。反引号跨度也纳入：本书分析层大量用 `英文原句`。
+_QUOTED = re.compile(
+    r"\"[^\"\n]*\""
+    r"|(?<![A-Za-z])'[^'\n]{2,}'(?![A-Za-z])"
+    r"|“[^”\n]*”|‘[^’\n]*’"
+    r"|`[^`\n]*`"
+)
+
+
+def strip_quoted(s):
+    return _QUOTED.sub(" ", s)
+
+
+def is_standalone_para(line):
+    """是否为「独立段落行」——即不在标准结构位（引语/字段/标题/表格/列表项）上的裸段落。"""
+    s = line.strip()
+    if not s:
+        return False
+    if s.startswith(">") or s.startswith("#") or s.startswith("|"):
+        return False
+    if SUB_LABEL.match(s):
+        return False
+    if _LIST_ITEM.match(s):
+        return False
+    if s.startswith("**") and s.endswith("**"):
+        return False
+    return True
+
+
 QUOTE = re.compile(r"^\s*>\s*\*\*原句\s*(\d+)\s*[:：]")
 ANY = re.compile(r"^\s*(\*\*原句\s*(\d+)\s*[:：])")
 # ⚠️ 2026-10-13 新增（Some Other Time 38 章实测，ch01 一处就报 26 条假红）：
@@ -117,6 +185,15 @@ def main():
                 if w in line:
                     bad.append(("E 自查泄漏", name, i, line.strip()[:60]))
                     break
+            # F 判据（2026-10-20）：英文形态的写作期草稿话泄漏，见 _META 处注释。
+            # ⚠️ 必须**先剥离引文跨度**再匹配：书里大量出现 "I'll do it" 这类口语，
+            #    不剥离会把正常分析判成泄漏（首次实测 35 条里 30 条是这类假红）。
+            if is_standalone_para(line):
+                probe = strip_quoted(line)
+                for pat in _META:
+                    if pat.search(probe):
+                        bad.append(("F 草稿话泄漏", name, i, line.strip()[:60]))
+                        break
             mq = QUOTE.match(line)
             ma = ANY.match(line)
             # ⚠️ A 判据必须放在 `if mq:` **之外**：QUOTE 本身就要求 `>` 前缀，
@@ -185,7 +262,7 @@ def main():
     print("  带前缀的 `> **原句 N:**` 行：%d 个文件共 %d 行"
           % (len(glob.glob(os.path.join(book, "ch*.md"))), tot_q))
     if not bad:
-        print("  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏")
+        print("  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏（E/F）")
         return 0
     from collections import Counter
     print("  ❌ %d 处：" % len(bad))
@@ -193,7 +270,9 @@ def main():
         print("     %s %d 处" % (k, v))
     print()
     for kind, name, ln, detail in bad:
-        print("  %s | %s:%d | %s" % (kind, name[:30], ln, detail))
+        # ⚠️ 2026-10-20 修：`name[:30]` 截断让报告**定位不到文件**（实测 many 文件名 >30 字符
+        #   ⇒ 复核者按名字找不到那一行）。改为**完整文件名**。
+        print("  %s | %s:%d | %s" % (kind, name, ln, detail))
     return 2
 
 
