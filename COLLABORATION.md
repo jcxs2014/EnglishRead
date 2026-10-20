@@ -65,14 +65,15 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 【beware-the-abbott-boys 中文层修复】《Beware the Abbott Boys》（Chelsea Ichaso）slug: beware-the-abbott-boys-by-chelsea-ichaso —— 原「五步审查通过」条目所依据的中文层实为假修复，整层重写（DSH-Mac，2026-10-19/20）
 
 - 规模：35 章 + 总览三篇 = 38 md｜140 引语块｜lane=完整（epub 在 library/）
-- 类级对账：「显示」前缀 328 处/117 块 → 0｜汉字间硬空格 434 处/119 块 → 0｜提示型 101（夹杂理解 72 + 夹杂为什么 29）→ 0｜整层夹杂率 57% → 0%｜阻断型 0｜密度 100%（假象）→ 100%（真）
+- 类级对账：「显示」前缀 328 处/117 块 → 0｜逐词翻译/破碎拼接 119 块 → 0｜汉字间硬空格 434 处 → 0｜提示型 101（夹杂理解 72 + 夹杂为什么 29）→ 0｜整层夹杂率 57% → 0%｜阻断型 0｜密度 100%（假象）→ 100%（真）
 - 同批清账：重复分析 7→0｜「句子结构：同上。」4→0｜关键词中文义照抄英文 73→0｜导航/总结层中英夹杂 65 行→0｜140 个 `### 第N处：` 小标题逐块重写｜7 处「句子结构」张冠李戴｜32 个文件末尾 `file_path">` 残留
 - 修复方式：逐块手写重写中文理解/表达方式/为什么这样写（解释「这句话的作用」），不靠「显示」前缀、不加中文词、不保留英文句子主体、不逐词翻译；每块仍 5 个标准字段
 - 门禁：check_chinese_layer exit 0（阻断 0 / 提示 0 / 夹杂率 0%）· verify_quotes 161/161 · --full 取证 0 · gate.sh exit 0（逐章归属每章 x/x，MISS 0）· check_vocab FAIL 0 · corruption_scan FAIL 0 · check_entities 未知实体 0
 - 引语层：140 条引语逐字零改动（quote_guard 全程一致）；查出并单列 20 类引语层缺陷（截断/重复块/跨章标注错/引号字形），按 AGENTS 9 条只报不改
 - 00_概述 事实订正：Peter Abbott = 曾祖父（原写祖父辈）｜Sage = Mariana 表姐（原写表妹）｜星形投影仪收束 = 天花板星光 + 母亲歌声（非「溪边的星光」）
-- commit 574fbb911（38 文件）；未 push｜原 Commandcode-Mac 完工条目保留
-- 明细：.memory/daily/2026-10-20.md 本书专节
+- commit 4 件：574fbb911（38 文件正文）· dd97b7671（raw-gates 13 件）· bb3a54921（板 + 日志）· 42675e8d2（样例订正）；未 push
+- 并存说明：原 Commandcode-Mac 2026-10-19 09:20 UTC「完工 + 五步审查通过」条目保留（不得改他人条目），本条为另发的中文层修复主题条；该条指向的 .memory/raw-gates/beware-the-abbott-boys-by-chelsea-ichaso/ 原为空目录（死链），本次已补齐 13 件原始输出
+- 明细：.memory/raw-gates/beware-the-abbott-boys-by-chelsea-ichaso/（13 件：9 件门禁终跑 + gate.sh 全量 + 2 件修复前基线 + 1 件类级计数）· .memory/daily/2026-10-20.md 本书专节
 
 ### [2026-10-19 22:14 UTC] [DSH-Mac] → All
 
