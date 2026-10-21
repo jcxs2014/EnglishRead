@@ -1,0 +1,144 @@
+{
+  "chapter": "53",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch53_53.txt",
+  "source_length_chars": 2786,
+  "read_mode": "素读（仅读原文，未开 md）",
+  "title": "Caius and Callie’s Flat",
+  "section_structure": {
+    "units": [
+      {"name": "Caius and Callie’s Flat", "chars": [20, 43]}
+    ],
+    "note": "全章仅一个分部标题，无其他分部标题。"
+  },
+  "events": [
+    {
+      "n": 1,
+      "who": "Caius",
+      "did": "回到 The Purple Toad Bakery，又买了六个开心果可颂（six more pistachio croissants）；因为 Callie 一直想吃。",
+      "chars": [46, 162],
+      "quote": "Caius had gone back to The Purple Toad Bakery and bought six more pistachio croissants. Callie had been craving them. He thought the extras might survive the freezer."
+    },
+    {
+      "n": 2,
+      "who": "Caius",
+      "did": "进屋喊了一声‘Hullo’，听到 Callie 在浴室里呕吐；烧水、拿新杯子、泡柠檬姜茶，把一个可颂放在咖啡桌上的盘子里，旁边是一些布料样片（不确定是已作废的 Eulalia 项目的残余，还是新房子要用的）。",
+      "chars": [215, 602],
+      "quote": "‘Hullo,’ he called as he entered the flat. Caius could hear her throwing up in the bathroom. He boiled the kettle and got a fresh cup out of the cupboard, placing a lemon and ginger teabag in it. He put a croissant on a plate, setting it down on the coffee table next to some fabric swatches. He wasn’t sure if they were a remnant of the defunct Eulalia project or were for the new house."
+    },
+    {
+      "n": 3,
+      "who": "Callie",
+      "did": "从浴室出来瘫在沙发上，说‘I was finally sick.’；Caius 说‘I heard, you poor thing.’",
+      "chars": [606, 715],
+      "quote": "Callie came out of the bathroom and flopped onto the sofa. ‘I was finally sick.’ … ‘I heard, you poor thing.’"
+    },
+    {
+      "n": 4,
+      "who": "Callie（对 Caius 说）",
+      "did": "说 Caius 看起来很热（You look really hot）；Caius 回‘Thanks, babe.’",
+      "chars": [774, 837],
+      "quote": "‘You look really hot. You need to know that.’ … ‘Thanks, babe.’"
+    },
+    {
+      "n": 5,
+      "who": "Caius",
+      "did": "把茶放咖啡 table、坐到 Callie 身边；Callie 倒进他怀里，他抚摸她的头发问‘How’s my girl doing?’；Callie 说‘Meh, but thank you for the croissant.’，暂时还不想吃，只想盯着它看。",
+      "chars": [905, 1019],
+      "quote": "Callie fell into his lap and he stroked her hair. ‘How’s my girl doing?’ … ‘Meh, but thank you for the croissant.’ Callie didn’t quite feel like eating it yet"
+    },
+    {
+      "n": 6,
+      "who": "Caius",
+      "did": "说‘Anything for you’，并说有一个关于 Jen 的消息要不要听；Callie 说‘No. Yes. No.’",
+      "chars": [1167, 1353],
+      "quote": "‘Anything for you,’ Caius said. … ‘I’ve got an update on Jen. Do you want to know?’ … ‘No. Yes. No.’"
+    },
+    {
+      "n": 7,
+      "who": "Callie",
+      "did": "说她是听 Venetia 讲的——Venetia 是她大学时的朋友、当时也在那场会议上；两人下周要去吃 survivors’ lunch；与 PCQV 的交易已经告吹（The deal’s off with PCQV, obviously）；唱片公司上上下下都在恐慌，因为不确定自己到底知道多少。",
+      "chars": [1391, 1645],
+      "quote": "I heard from Venetia, the girl I was at uni with who was there at that meeting. We’re going to go for a survivors’ lunch next week. The deal’s off with PCQV, obviously. Everyone at the record label is panicking because they’re not sure how much they knew, if that makes sense."
+    },
+    {
+      "n": 8,
+      "who": "Caius",
+      "did": "说唱片公司即便不违法也一定在道义上有责任，等一切完全公开会在媒体上被‘钉死’；随后掏出手机给 Callie 看那个小机器人第二次旅程影像里的几张剧照；说他的祖辈在宗教改革期间藏了一批宗教圣物，爸爸愿意的话要捐给国家。",
+      "chars": [1671, 2055],
+      "quote": "‘They’re definitely morally culpable if not legally. They’re going to get crucified in the press when it all fully comes out. Talking about crucifixions.’ Caius took his phone out and showed Callie some of the stills from the footage of the little robot’s second journey. ‘My ancestors hid all these religious artefacts during the Reformation. Dad’s giving it to the nation if he can.’"
+    },
+    {
+      "n": 9,
+      "who": "Callie / Caius",
+      "did": "Callie 问有没有挖出骷髅；Caius 说有，几百具（hundreds of them），说自己从没听过‘dead nun’这个词被说这么多次。",
+      "chars": [2059, 2184],
+      "quote": "‘Were there any skeletons in the end?’ … ‘Yeah, hundreds of them. I’ve never heard the words “dead nun” spoken so many times.’"
+    },
+    {
+      "n": 10,
+      "who": "Callie / Caius",
+      "did": "Callie 说自己当修女会糟糕透顶；Caius 答‘You’re too earthly.’；Callie 反问‘Earthly?’；Caius 解释说她太爱享乐：Pinot Grigio、开心果可颂和 getting railed；Callie 否认，说‘That’s what got us into this mess.’并吐了吐舌头。",
+      "chars": [2188, 2434],
+      "quote": "‘I really would’ve been a terrible nun.’ … ‘You’re too earthly.’ … ‘You like pleasure too much. Pinot Grigio, pistachio croissants and getting railed.’ … ‘None of that. That’s what got us into this mess.’ Callie stuck her tongue out."
+    },
+    {
+      "n": 11,
+      "who": "Caius（内心）",
+      "did": "回了一句‘What can I say’，有那么一瞬间怀疑 Callie 是否在动摇（having second thoughts）。",
+      "chars": [2437, 2517],
+      "quote": "‘What can I say.’ For a second Caius wondered if she was having second thoughts."
+    },
+    {
+      "n": 12,
+      "who": "Callie",
+      "did": "说 Caius 闻起来真好闻；然后从咖啡桌上拿起一封信，说十二周扫描的日期下来了（We’ve had the date for the twelve-week scan come through）。",
+      "chars": [2520, 2651],
+      "quote": "‘You smell really good.’ Callie picked a letter up off the coffee table. ‘We’ve had the date for the twelve-week scan come through.’"
+    },
+    {
+      "n": 13,
+      "who": "Caius",
+      "did": "说‘I’ll book time off’，亲了亲她的额头，然后起身去把洗好的衣服晾到晾衣绳上。",
+      "chars": [2655, 2784],
+      "quote": "‘I’ll book time off,’ Caius said, kissing her on the forehead. He got up off the sofa and went to peg the washing out on the line."
+    }
+  ],
+  "characters": [
+    {"name": "Caius", "role": "Callie 的伴侣；本章叙述视角人物之一", "appears": "全章"},
+    {"name": "Callie", "role": "Caius 的伴侣；怀孕十二周、在吐", "appears": "全章"},
+    {"name": "Venetia", "role": "Callie 大学时期的朋友；当时在那场会议上", "appears": "被提及（1296–1559）"},
+    {"name": "Jen", "role": "Caius 有消息要告诉 Callie 的人（本章未展开）", "appears": "被提及（1244–1293）"},
+    {"name": "Caius 的父亲（Dad）", "role": "要把宗教圣物捐给国家的人", "appears": "被提及（1944–2055）"},
+    {"name": "PCQV", "role": "交易对方；交易已告吹", "appears": "被提及（1471–1559）"},
+    {"name": "唱片公司（record label）", "role": "在恐慌、不确定自己知道多少的机构（与 PCQV 不是同一主体）", "appears": "被提及（1560–1645）"}
+  ],
+  "relationships": [
+    "Caius 与 Callie 是同居伴侣（flat），互相称‘babe’；本章共同面对 Callie 的孕吐。",
+    "Callie 与 Venetia：大学同学；Venetia 也在那场会议上；两人约了下周的 survivors’ lunch（同一阵营的幸存者）。",
+    "Callie 与 Jen：Callie 不想听 Jen 的消息（‘No. Yes. No.’），Caius 一度以 Jen 的消息为由引开话题。",
+    "Caius 与唱片公司：认为其道义上有责（morally culpable if not legally）。",
+    "唱片公司与 PCQV：两个不同主体——PCQV 是交易对手（deal off），唱片公司是恐慌的一方。",
+    "Caius 与其父亲：父亲处理宗教改革时期藏起的宗教圣物。",
+    "Callie 与护士/扫描机构：十二周扫描的日期已通知到（信）。"
+  ],
+  "numbers_and_dates_verbatim": [
+    {"value": "six", "context": "Caius 又买了六个开心果可颂（bought six more pistachio croissants）", "chars": [46, 132]},
+    {"value": "twelve-week scan", "context": "十二周扫描；日期已 come through", "chars": [2594, 2651]},
+    {"value": "hundreds", "context": "挖出几百具骷髅（‘Yeah, hundreds of them.’）", "chars": [2100, 2124]},
+    {"value": "second journey", "context": "小机器人的第二次旅程影像（the little robot’s second journey）", "chars": [1826, 1941]},
+    {"value": "next week", "context": "survivors’ lunch 改在下周", "chars": [1471, 1559]},
+    {"value": "Reformation", "context": "宗教改革期间祖辈藏匿宗教圣物", "chars": [1944, 2055]},
+    {"value": "one letter", "context": "Callie 从咖啡桌上拿起一封信（picked a letter up）", "chars": [2520, 2592]},
+    {"value": "explicit calendar date", "context": "本章未出现具体年月日，仅有 twelve-week / next week / Reformation 等相对时间", "chars": [0, 2786]}
+  ],
+  "key_objects": [
+    "开心果可颂（六个，额外买的）",
+    "柠檬姜茶（lemon and ginger teabag）",
+    "布料样片（fabric swatches，Eulalia 项目残余或新房子用）",
+    "手机上的小机器人第二次旅程影像剧照（stills from the footage）",
+    "一封信（十二周扫描日期）",
+    "晾衣绳上的湿衣服（结尾）"
+  ],
+  "tone": "轻松日常（买可颂、泡茶、蹭鼻尖），底下压着不安（呕吐、PCQV 交易告吹、唱片公司恐慌、Callie 疑心自己动摇、十二周扫描日期到来）。",
+  "chapter_end": "Caius 说会请一天假，亲了亲她额头，起身去晾衣服；本章在日常动作上收束，最后一句是晾衣服。"
+}

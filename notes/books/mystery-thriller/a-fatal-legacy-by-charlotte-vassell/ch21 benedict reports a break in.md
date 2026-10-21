@@ -18,7 +18,7 @@ source_text: ch21
 
 > **原句 1:** "Caius was at his desk reading over a report on an attempted burglary that had been made by a certain Benedict Carr-Ridge who lived at 7 Priory Square. His name was familiar but Caius wasn’t sure why. It became apparent quite early on in the report that Benedict wasn’t a reliable witness. The officer who had interviewed him wasn’t even convinced the incident had happened. The empty bottles littered about the place hadn’t helped his credibility."
 
-**中文理解**：开篇，凯厄斯在办公桌前读一份入室盗窃未遂的报告：作案人是住在普里奥里广场七号的一位贝内迪克特·卡尔-里奇。这名字他有印象，却想不起为什么；报告刚开头他就看出这个人不是可靠的证人——出警的警员甚至不信事情发生过，屋里散落的空酒瓶更让这说法立不住。
+**中文理解**：开篇，凯厄斯在办公桌前读一份入室盗窃未遂的报告：报案人、也就是住在普里奥里广场七号的那位贝内迪克特·卡尔-里奇。这名字他有印象，却想不起为什么；报告刚开头就显示这个人不是可靠的证人——出警的警员甚至不信事情发生过，屋里散落的空酒瓶更让这说法立不住。
 **关键词**：attempted burglary / reliable witness / empty bottles
 **为什么这样写**：作者把入室盗窃从头写成一段越来越松垮的传闻：有人报了案，警员不信，现场只有空酒瓶。可这段偏偏发生在普里奥里广场——和命案共用同一个广场。越是不构成威胁的细节（空酒瓶、不确定的目击者、什么也没被偷走），越像是有人在广场上随手按了一下，让一件不相干的小事和那桩案子被摆到同一张桌子上。
 **读者视角提示**：记住这个地址：普里奥里广场七号。再读这章时留意作者怎样把「可能只是巧合」和「广场」这两个字并排推到读者眼前。

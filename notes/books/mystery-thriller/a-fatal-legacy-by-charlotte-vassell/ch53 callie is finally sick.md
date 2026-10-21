@@ -12,7 +12,7 @@ source_text: ch53
 - **视角**：第三人称限知，贴着 Caius 的动作与念头走——煮水、拿杯子、泡茶、给人梳头、把手机递过去；Callie 的状态全靠她自己的话和动作透露，包括那句含糊的「Meh」。
 - **线索结构**：三条并行的线——案子的余波（PCQV 合约作废、唱片公司怕自己知情过多、幸存者午餐）、Caius 家的事（祖辈在宗教改革时期藏起的宗教器物、父亲想捐给国家、机器人第二次下行的影像截图）、以及家里的物件（茶几上那块碎布可能属于已作废的 Eulalia 项目，也可能属于新家）。
 - **人物弧线**：Callie 从只肯说「Meh」到肯说出合约与扫描日期；Caius 从递茶递可颂的照顾者，转成主动汇报案情、又把自家藏着的家族秘密摊开给她看；两人之间那些有分量的对话，却是以玩笑的口吻说出来的——「那些享乐才让我们陷进这摊烂事里」。
-- **叙事手法**：全章靠家常对话推进，底下的不安用生活细节垫出来——谁买了什么、谁把话岔开、碎片布属于哪个项目、扫描日期是谁先提起；分部「A Tuesday in May」把这一切处理得很轻，收尾落在 Caius 去晾衣服这种家务动作上。
+- **叙事手法**：全章靠家常对话推进，底下的不安用生活细节垫出来——谁买了什么、谁把话岔开、碎片布属于哪个项目、扫描日期是谁先提起；分部「TUESDAY」把这一切处理得很轻，收尾落在 Caius 去晾衣服这种家务动作上。
 
 ## 精读
 
@@ -25,9 +25,9 @@ source_text: ch53
 
 > **原句 2:** "‘No. Yes. No.’ Callie reached for the fabric on the table. She rubbed it between her fingers. ‘I heard from Venetia, the girl I was at uni with who was there at that meeting. We’re going to go for a survivors’ lunch next week. The deal’s off with PCQV, obviously. Everyone at the record label is panicking because they’re not sure how much they knew, if that makes sense.’"
 
-**中文理解**：Callie 连着说了三句「不。对。不」。她伸手去摸茶几上那块布，在手指间搓着，然后说起自己从大学时的同学 Venetia 那里听来的消息——Venetia 当初也在那场会上。她们打算下周办一次幸存者午餐；跟 PCQV 的合约显然已经作废；唱片公司上下都在慌，因为谁也说不清自己当时究竟知道多少。
+**中文理解**：Callie 连着回了三句：一句「不」，中间一句「是」，末了又一句「不」。她伸手去摸茶几上那块布，在手指间搓着，然后说起自己从大学时的同学 Venetia 那里听来的消息——Venetia 当初也在那场会上。她们打算下周办一次幸存者午餐；跟 PCQV 的合约显然已经作废；唱片公司上下都在慌，因为谁也说不清自己当时究竟知道多少。
 **关键词**：No. Yes. No. / survivors’ lunch / PCQV
-**为什么这样写**：三个「No」连着一句「Yes」，是一段不像台词的台词：她没有正面回答要不要听 Jen 的消息，先把自己从「听」的位置挪开，再顺手拿起那块布搓着，手指的动作替她消化不自在。话题转向合约与公司之后，她给出的全是别人的处境——唱片公司怕自己知情过多——唯独没说自己这一边。
+**为什么这样写**：两个「No」中间夹一句「Yes」，是一段不像台词的台词：她没有正面回答要不要听 Jen 的消息，先把自己从「听」的位置挪开，再顺手拿起那块布搓着，手指的动作替她消化不自在。话题转向合约与公司之后，她给出的全是别人的处境——唱片公司怕自己知情过多——唯独没说自己这一边。
 **读者视角提示**：她选择先讲 PCQV 与唱片公司，而不是Jen 那边的进展；这个选择本身就是她此刻的位置。
 
 > **原句 3:** "‘They’re definitely morally culpable if not legally. They’re going to get crucified in the press when it all fully comes out. Talking about crucifixions.’ Caius took his phone out and showed Callie some of the stills from the footage of the little robot’s second journey. ‘My ancestors hid all these religious artefacts during the Reformation. Dad’s giving it to the nation if he can.’"
@@ -41,14 +41,14 @@ source_text: ch53
 
 **中文理解**：Callie 一口回绝：「那些都不是。」——正是那些东西才让她俩陷进这摊烂事里。说完她朝他吐了吐舌头。
 **关键词**：None of that / got us into this mess / stuck her tongue out
-**为什么这样写**：她的丈夫刚数出三样她的享乐——Pinot Grigio、开心果可颂和床上那点事——她先用一个「None of that」把这份账单一笔勾销，紧接着又用「That's what got us into this mess」把它们认成了祸根；一句否认和一句承认挤在同一口气里，说完还朝他吐舌头，把这个自相矛盾轻轻化开。她嘴上推掉，手上却在搓那块碎布，身体比嘴诚实。
+**为什么这样写**：她的未婚夫刚数出三样她的享乐——Pinot Grigio、开心果可颂和床上那点事——她先用一个「None of that」把这份账单一笔勾销，紧接着又用「That's what got us into this mess」把它们认成了祸根；一句否认和一句承认挤在同一口气里，说完还朝他吐舌头，把这个自相矛盾轻轻化开。她嘴上推掉，手上却在搓那块碎布，身体比嘴诚实。
 **读者视角提示**：她这句否认的分量不在否认什么，而在用玩笑把一句追责挡了回去。
 
 > **原句 5:** "‘You smell really good.’ Callie picked a letter up off the coffee table. ‘We’ve had the date for the twelve-week scan come through.’"
 
 **中文理解**：Callie 说：「你闻起来真好闻。」她从茶几上拿起一封信，说十二周扫描的日期已经通知下来了。
 **关键词**：twelve-week scan / come through / letter
-**为什么这样写**：一件把两个人从此绑定的私事，被一句「你闻起来真好闻」领出来——她先夸了丈夫一句，再拿起那封通知信，把日期说出口；像「十二周」这样的说法本身已经把答案写在里面，不必再多解释。信是从茶几上拿起来的，不是当场拆开的，说明她早就知道内容，只是一直没告诉对面的人。
+**为什么这样写**：一件把两个人从此绑定的私事，被一句「你闻起来真好闻」领出来——她先夸了未婚夫一句，再拿起那封通知信，把日期说出口；像「十二周」这样的说法本身已经把答案写在里面，不必再多解释。信是从茶几上拿起来的，不是当场拆开的，说明她早就知道内容，只是一直没告诉对面的人。
 **读者视角提示**：她的顺序值得留意：先说对方身上的味道，再说扫描日期——先报一件轻的，再报一件重的。
 
 ## 本章词汇

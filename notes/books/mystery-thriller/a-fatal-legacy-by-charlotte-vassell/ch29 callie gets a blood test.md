@@ -9,8 +9,8 @@ source_text: ch29
 ## 本章导航
 
 - **一句话概括**：在分部「THURSDAY」里，凯莉抽完血（社区助产士还替她称了体重、量了身高），没有等来任何答复，就把这件悬着的事塞进一整天的缝隙：咖啡馆前排晒太阳、听邻座女人丢内裤、听楼上邻居警告夜里出没的"露阴者"、回家躺沙发反复微调情绪板，最后打开 Radio 4 听 Christine de Pizan 与《女骑士团》，用广播把等待盖过去。
-- **视角**：第三人称限知，紧贴凯莉；地点从咖啡店前排座位转到回家路上的街、楼道，再到自己家的客厅与沙发，外部的威胁只通过旁人的闲话和一条没被读到的消息进入她的耳朵。
-- **线索结构**：三条线索全部悬着而没有落地——血样（本章始终没有出现结果）、楼上邻居口头转达的"flasher"警告、以及提前一天送到的一束花和只签了一半的卡片（"Dear Cal / I had such a great time. E x"）；它们分别由咖啡店里的闲话、楼道里的耳语和送货员递到门前，凯莉全都听见了，却什么也没能证实。
+- **视角**：第三人称限知，紧贴凯莉；地点从咖啡店前排座位转到回家路上的街（邻居的警告就发生在街上），再到自己家的客厅与沙发，外部的威胁只通过旁人的闲话和一条没被读到的消息进入她的耳朵。
+- **线索结构**：三条线索全部悬着而没有落地——血样（本章始终没有出现结果）、楼上那位女邻居在街上口头转达的"flasher"警告、以及一束按凯莉的判断**可能提前一天**送到、只签了一半的卡片（"Dear Cal / I had such a great time. E x"）；血样来自社区助产士那一节（抽血、称重、量身高），警告是她回家路上被那位邻居叫住时当面听来的，花束与卡片由送货员递到门前。这束花之所以反常，依据是给欧拉莉亚的那个项目"after tomorrow morning would be gone again"（明天上午就结束），而她自己给凯厄斯的理由是"once the project is finished"——所以"sent a day too early"始终只是她的猜测，不是既成事实。三条线索凯莉全都听见了，却什么也没能证实。
 - **人物弧线**：她正跨进一个"要养活一个小生命"的阶段，过去那种被人围着转、当倾听者的角色已经演够了，连名望都看淡成"一个空洞的闪光"；与此同时她对危险的感知反而更锐利，认识凯厄斯之后"到处都看见危险"。
 - **叙事手法**：把一次抽血摊成一整天的等待，用时间单位标记消耗（一个"一小时"、又一个"一小时"、"ever so slightly"、一个只发不回的勾）；用咖啡店里的荒诞对话和一则"flasher"警告把危险降格成日常闲话；结尾让广播（Radio 4 上讲 Christine de Pizan 的一档节目）代替人来填补沉默。
 
@@ -23,12 +23,12 @@ source_text: ch29
 **为什么这样写**：作者把一套医疗程序写成一张收据：抽血、称重、量身高，三件事并排摆着，没有一项附带结果，接上来的是晒太阳、柠檬姜茶这类身体护理。开篇就把"等待"藏进身体的日常里——她要继续上班、继续被太阳照着，仿佛只要日子照常流动，那份悬而未决就不必被正视。
 **读者视角提示**：留意这一段里"没有出现的东西"：没有人告诉她结果，也没有人提起她为什么被抽血。本章从头到尾没有给出答复，等待才是这一章真正的主题。
 
-> **原句 2:** "Before she left the house to be prodded, Callie had spent an hour that morning cobbling together enough images of porcelain doll heads onto a page to freak even the most cynical person out. Then she’d spent another hour adding to the doodles she did last night when she’d got home after dinner with Eulalia – she called it doodling, but it was a drawing and she was selling herself short – of six different doll heads. Each of them was equally adorable and macabre – slashed throats, bleeding eyes, pointed little teeth. She had a set of watercolours at home that she hadn’t used in years that she was going to crack out when she got back, to add a pinch of colour to their ghoulish faces."
+> **原句 2:** "Before she left the house to be prodded, Callie had spent an hour that morning cobbling together enough images of porcelain doll heads onto a page to freak even the most cynical person out. Then she’d spent another hour adding to the doodles she did last night when she’d got home after dinner with Eulalia – she called it doodling, but it was a drawing and she was selling herself short – of six different doll heads. Each of them was equally adorable and macabre – slashed throats, bleeding eyes, pointed little teeth. She had a set of watercolours at home that she hadn’t used in years that she was going to crack out when she got back, to add a pinch of colour to their ghoulish faces. Callie was feeling quite proud of herself, although as she sat in the spartan whitewashed coffee shop sipping lemon and ginger tea, she realised that she actually was also starting to feel relieved. This project for Eulalia had come from nowhere, wreaked havoc for an intense week and then after tomorrow morning would be gone again. She was glad of its transience."
 
-**中文理解**：出门接受检查之前，她那天早上已经花了一个小时，把够多的瓷娃娃脑袋图像拼凑到一页纸上，恶心得连再犬儒的人看了都要受不住；接着又花了一个小时，把昨晚和「Eulalia」吃完饭回家后画的六个娃娃脑袋续上——她嘴上管那叫涂鸦，其实是画，是把自己说低了。这六个脑袋同样可爱又骇人：割开的喉咙、流血的眼睛、尖尖的小牙。她还打算回家后翻出多年没动过的水彩，给这些鬼气森森的脸添上一点颜色。
+**中文理解**：出门接受检查之前，她那天早上已经花了一个小时，把够多的瓷娃娃脑袋图像拼凑到一页纸上，恶心得连再犬儒的人看了都要受不住；接着又花了一个小时，把昨晚和「Eulalia」吃完饭回家后画的六个娃娃脑袋续上——她嘴上管那叫涂鸦，其实是画，是把自己说低了。这六个脑袋同样可爱又骇人：割开的喉咙、流血的眼睛、尖尖的小牙。她还打算回家后翻出多年没动过的水彩，给这些鬼气森森的脸添上一点颜色。坐在简素的白色咖啡店里喝着柠檬姜茶，她这才发觉自己其实已经开始松了口气：给「Eulalia」的这个项目凭空冒出来，把这一周搅得天翻地覆，**明天上午之后就消失不见**——她庆幸它的短暂。
 **关键词**：porcelain doll heads / cobbling together / macabre
-**为什么这样写**：等待的时间不是空白，而是被画满的：两个"一小时"是明写的时间单位。更有意味的是题材——纸上是一排被割开喉咙、流着血、长着尖牙的瓷娃娃头，"可爱"与"骇人"被同一个形容词并置。作者把死亡做成可以上色、可以返工的手工活，于是本章最重的东西被放进了最轻的日常里。
-**读者视角提示**：这一段是"塞进日常缝隙"的具体做法——不是让人物坐着干等，而是让她把两小时焊在画上；注意"可爱"与"骇人"这两个形容词的并置。
+**为什么这样写**：等待的时间不是空白，而是被画满的：两个"一小时"是明写的时间单位。更有意味的是题材——纸上是一排被割开喉咙、流着血、长着尖牙的瓷娃娃头，"可爱"与"骇人"被同一个形容词并置。作者把死亡做成可以上色、可以返工的手工活，于是本章最重的东西被放进了最轻的日常里。而"项目明天上午就结束"这句，是本章末尾那束花之所以反常的**唯一根据**：给欧拉莉亚的瓷娃娃头项目只撑到明天上午，花本该在那之后才到；作者把这个时基提前埋在这里，才让最后那束花和那两条没被读到的消息接上了同一条因果链。"她反而开始觉得松了口气"——这份如释重负把"这段关系即将消失"提前说破，也让"短暂"成了她主动认领的性质。
+**读者视角提示**：这一段是"塞进日常缝隙"的具体做法——不是让人物坐着干等，而是让她把两小时焊在画上；注意"可爱"与"骇人"这两个形容词的并置。也要记住"明天上午之后就消失"这个时基——本章最后那束花之所以让人不安，全靠它。
 
 > **原句 3:** "Callie began packing up her bag. Two women sat down at the table beside hers. ‘I know this sounds crazy but I think I’m missing some of my underwear?’"
 
@@ -51,7 +51,21 @@ source_text: ch29
 **为什么这样写**：作者用"安慰剂"写出一个人对自身心理的精细操控——她连"自己知道这可能只是安慰剂"都不敢想，怕这份自知会毁掉药效。这是等待者的典型动作：把注意力钉在可控的琐事上。“Moving images around ever so slightly until the slide was only a little imperfect”一句，把反复微调写成近乎仪式的细小动作，时间就这样被一点点磨掉。
 **读者视角提示**：留意"if she was lying down then she could sort of work"这个转折——她得先躺下才能干活，说明身体的不适和心事的重量是叠在一起的。
 
-> **原句 6:** "Her message was left on one tick. Caius’s frequent unavailability was usually something she just accepted but today it pissed her off. She put on another Radio 4 programme on Christine de Pizan and her City of Ladies and tried to forget about it."
+> **原句 6:** "This is a bit weird right? I’d understand her sending this tomorrow afternoon once the project is finished but this is intense."
+
+**中文理解**：她给凯厄斯发消息：「这有点怪吧？等项目结束了、明天再来寄，我能理解；可这样太急了。」——"等项目结束"是她**自己**给的理由：给欧拉莉亚的瓷娃娃头项目明天上午之后就消失不见，这是她自己在心里算出来的时基，原文里没有任何人确认过项目什么时候结束。
+**关键词**：a bit weird / once the project is finished / intense
+**为什么这样写**：她把怀疑写成了一句反问，而不是一句判断。"I'd understand her sending this tomorrow afternoon"里那个"tomorrow afternoon"完全是她自设的标尺——"这束花来得早"是相对她自己的时间表而言的，而那个时间表从头到尾只有她一个人知道；于是"早"这个结论从一开始就悬在半空。半句解释加半句"this is intense"，作者让她把话只说一半就发出去，剩下的一半留给对方去补，也留给她自己在沙发上反复掂量。
+**读者视角提示**：这条消息里的时间依据全部出自她自己的推算——"项目明天上午就结束"是她前面已经想到的事，这条消息本身没有向任何人求证；所以"嫌早"从这一刻起就只是待验证的怀疑。
+
+> **原句 7:** "Maybe it was sent a day too early?"
+
+**中文理解**：紧接着她又补了一句：「也许是提前一天寄的？」——"提前一天"只是她自己的猜测：全章没有任何人确认过花束和卡片是提前一天送到的，她也没说清"一天"是从哪一天算起。
+**关键词**：Maybe / a day too early
+**为什么这样写**：这是全章最短的一次怀疑，而且是纯问句。"Maybe"一个词就把断言降级成了猜测：作者不让她说出"这束花是提前一天送到的"，只让她把这句话以问号抛给凯厄斯，于是从起意到落定之间留出一段空白——空白正是这一章要留给读者的地方。它紧跟在上一条消息后面，像是把盘算正式递出去求证，又像是自己不肯把话钉死。
+**读者视角提示**：这两条消息是同一个动作的两半：先讲自己为什么觉得不对，再把怀疑摆出来问。请记住"提前一天"从头到尾停在猜测这一级，全章没有任何人确认过。
+
+> **原句 8:** "Her message was left on one tick. Caius’s frequent unavailability was usually something she just accepted but today it pissed her off. She put on another Radio 4 programme on Christine de Pizan and her City of Ladies and tried to forget about it."
 
 **中文理解**：她的消息停在一个"勾"上——发出去了，对方没读。凯厄斯经常联系不上，她平时都忍了，今天却恼火起来。她打开「Radio 4」的一档节目，讲的是「Christine de Pizan」和她的《女骑士团》，想借这个把事情忘掉。
 **关键词**：one tick / unavailability / Radio 4
@@ -101,4 +115,4 @@ source_text: ch29
 
 ## 一句话总结
 
-抽完血却等不到任何回音的凯莉，把这一天过成了一条由小事铺成的缓冲带：出门前两小时的瓷娃娃头涂鸦、咖啡馆前排的太阳、邻座丢失的内裤、楼上邻居关于"flasher"的口头警告、沙发上反复微调的姜茶与情绪板、以及最后那档用来盖过沉默的 Radio 4 节目——血检结果本身始终缺席，而这正是本章真正的等待。
+抽完血却等不到任何回音的凯莉，把这一天过成了一条由小事铺成的缓冲带：出门前两小时的瓷娃娃头涂鸦、咖啡馆前排的太阳、邻座丢失的内裤、回家路上楼上邻居关于"flasher"的口头警告、沙发上反复微调的姜茶与情绪板、门口那束按她的猜测可能提前一天送到的花和只签了一半的卡片，以及最后那档用来盖过沉默的 Radio 4 节目——血检结果本身始终缺席，而这正是本章真正的等待。

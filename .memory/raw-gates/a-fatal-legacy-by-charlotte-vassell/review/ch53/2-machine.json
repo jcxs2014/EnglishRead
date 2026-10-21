@@ -1,0 +1,188 @@
+{
+  "chapter": 53,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/ch53 callie is finally sick.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch53_53.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "‘Hullo,’ he called as he entered the flat. Caius could hear her throwing up in the bathroom. He boiled the kettle and go",
+          "ok": true,
+          "pos": 196
+        }
+      ]
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "‘No. Yes. No.’ Callie reached for the fabric on the table. She rubbed it between her fingers. ‘I heard from Venetia, the",
+          "ok": true,
+          "pos": 1241
+        }
+      ]
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "‘They’re definitely morally culpable if not legally. They’re going to get crucified in the press when it all fully comes",
+          "ok": true,
+          "pos": 1606
+        }
+      ]
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘None of that. That’s what got us into this mess.’ Callie stuck her tongue out",
+          "ok": true,
+          "pos": 2251
+        }
+      ]
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘You smell really good.’ Callie picked a letter up off the coffee table. ‘We’ve had the date for the twelve-week scan co",
+          "ok": true,
+          "pos": 2407
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 0,
+        "为什么这样写": 109,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 104,
+        "关键词": 0,
+        "为什么这样写": 105,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 124,
+        "关键词": 0,
+        "为什么这样写": 119,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.96
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 106,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 111,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.85
+      }
+    }
+  ],
+  "form": {
+    "h1": "53. Caius and Callie’s Flat",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 5,
+    "block_median": 7.0,
+    "block_range": [
+      5,
+      10
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 5,
+    "segments": 5,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": []
+  }
+}

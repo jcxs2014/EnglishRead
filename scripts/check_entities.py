@@ -76,6 +76,11 @@ Great Little Good Bad True False First Second Third Last Next Every Other Same A
 Less Least Very Quite Just Still Already Yet Even Only Ever Never Always Often Sometimes Here Now Today Tonight
 Tomorrow Yesterday Yesterday Well Well Perhaps Maybe Surely Really Honest
 Tropes POV
+# 2026-10-21：本书十二个分部的标题是全大写（SATURDAY / SUNDAY / MONDAY / TUESDAY /
+# WEDNESDAY / THURSDAY / FRIDAY），精读导航要按书里的原样引用；其中 TUESDAY 全书正文
+# 从未出现（只在 epub 的分部页上），于是「词在书里」这条兜底失效、被判成未知实体。
+# ⇒ 把分部标题的全大写形态一并收进 STOP（属工具口径，不是 md 缺陷）。
+SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY
 Brian-Mimi Mimi-Brian""".split())
 
 ENT_PAT = re.compile(r"[A-Z][A-Za-z''\-]+(?:\s+[A-Z][A-Za-z''\-]+){0,3}")
