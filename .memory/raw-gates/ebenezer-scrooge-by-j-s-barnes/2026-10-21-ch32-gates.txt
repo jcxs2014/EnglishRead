@@ -1,0 +1,126 @@
+# ch32 门禁原件（2026-10-21）
+# 书目录: notes/books/novels/ebenezer-scrooge-by-j-s-barnes
+
+=== bash scripts/chapter.sh ===
+单章体检：ch32  ch32 the house on brightwell road waits.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/ebenezer-scrooge-by-j-s-barnes/text/ch32_xiv.txt
+
+【逐字】
+  引语块 7，片段 7，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0
+
+【形态】
+  H1 ✅：32. XIV — The House on Brightwell Road Waits
+  导航 5 项 ✅
+  块数 7（本书中位 8，范围 6–15）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）
+EXIT=0
+
+=== python3 scripts/quotes.py chapter 32 ===
+ch32 the house on brightwell road waits.md: 7/7 in ch32 text
+
+=== python3 scripts/quotes.py verbatim <book> <epub> ===
+ch01 i monday sixth of december.md: 15/15 ✅
+ch02 the room beyond the door.md: 8/8 ✅
+ch03 the peculiar terms of her inheritance.md: 8/8 ✅
+ch04 a presence growing steadily closer.md: 6/6 ✅
+ch05 three floors above.md: 8/8 ✅
+ch06 a bridge near euston station.md: 8/8 ✅
+ch07 a grim message at dusk.md: 8/8 ✅
+ch08 a full and frank disclosure.md: 8/8 ✅
+ch09 three incidents at brightwell road.md: 8/8 ✅
+ch10 seven of us around the table.md: 8/8 ✅
+ch11 a light behind the muddy glass.md: 8/8 ✅
+ch12 a dead man named jacob marley.md: 8/8 ✅
+ch13 a grave at half past nine.md: 8/8 ✅
+ch14 a warning from the dead.md: 8/8 ✅
+ch15 a tavern and an unusual will.md: 8/8 ✅
+ch16 a cab through the city at night.md: 8/8 ✅
+ch17 witch in a backwater town.md: 8/8 ✅
+ch18 two lights and a black dog.md: 8/8 ✅
+ch19 a train towards starningham.md: 8/8 ✅
+ch20 a small circle on the floor.md: 8/8 ✅
+ch21 the name on the tombstone.md: 8/8 ✅
+ch22 several hundred people came to the door.md: 8/8 ✅
+ch23 a glass of sherry at noon.md: 8/8 ✅
+ch24 the black dog at the graveside.md: 8/8 ✅
+ch25 a portable haunting.md: 8/8 ✅
+ch26 a door that cannot be closed.md: 8/8 ✅
+ch27 a name spoken all night.md: 8/8 ✅
+ch28 the shadow that became a man.md: 10/10 ✅
+ch29 the pistol in his pocket.md: 9/9 ✅
+ch30 the shot outside the club.md: 8/8 ✅
+ch31 the coin that fell from thin air.md: 8/8 ✅
+ch32 the house on brightwell road waits.md: 7/7 ✅
+ch45 the visitors at the club.md: 6/6 ✅
+ch64 the voice that never gave its name.md: 12/12 ✅
+ch67 the black king and the white king.md: 6/6 ✅
+ch69 the silent struggle downstairs.md: 9/9 ✅
+ch70 into starningham with the fire behind.md: 10/10 ✅
+
+=== 总计 306/306 引文可核实（100%）；完全干净文件 37/37；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+=== python3 scripts/check_vocab.py <book> ===
+词条行合计: 733
+
+--- FAIL (0) ---
+
+--- WARN (1) ---
+  ch08 a full and frank disclosure.md [基础] 基础档疑含超纲词「coincidence」
+
+=== python3 scripts/check_chinese_layer.py <book> ===
+=== 中文层体检（check_chinese_layer）：ebenezer-scrooge-by-j-s-barnes ===
+❌ 英文理解：0 处
+❌ 缺中文理解：0 处
+❌ 敷衍句构：0 处
+❌ 残句：0 处
+❌ 形式性规避：0 处
+❌ 英文为什么：0 处
+❌ 占位桩：0 处
+❌ 英文读者提示：0 处
+❌ 英文表达方式：0 处
+❌ 重复子项字段：0 处
+❌ 夹杂理解：0 处
+❌ 夹杂为什么：0 处
+=== 汇总：306 个引语块 | 合格分析密度 100% | 整层夹杂率 0% | 阻断型 0 | 提示型 0 ===
+=== 结论：无阻断型 ===
+
+=== python3 scripts/analysis.py inline <book> ===
+=== 分析层行内英文逐字核查（ebenezer-scrooge-by-j-s-barnes）===
+  参照集：text/（73 个提取件） + epub 交叉验证 ；扫 37 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：955 个表格行、711 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 1430 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 8
+
+=== python3 scripts/analysis.py nav <book> ===
+ℹ️ epub 二级参考集：Ebenezer Scrooge (J.S. Barnes) (z-library.sk, 1lib.sk, z-lib.sk).epub（263120 flat 字符）　—— text/ 查无而 epub 命中将判**提示型**不判红
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== python3 scripts/structure.py order <book> ===
+  ❓ ch09 three incidents at brightwell road.md：引语展平后非唯一命中（pos=-1），该章不判
+=== 章内块序：37 个 md / 298 块，顺序或编号缺陷 0 章 ／ 不可判定 1 章 ===
+
+=== python3 scripts/structure.py anchor <book> ===
+=== 关键词锚定自查（ebenezer-scrooge-by-j-s-barnes）===
+  扫 37 个 md，306 个引语块，306 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（73 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== python3 scripts/quotes.py blocks <book> ===
+=== 引语块结构对账（ebenezer-scrooge-by-j-s-barnes）===
+  带前缀的 `> **原句 N:**` 行：37 个文件共 306 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏（E/F）
+
+=== python3 scripts/corruption_scan.py <book> ===
+
+=== 编辑损坏扫描（ebenezer-scrooge-by-j-s-barnes）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
