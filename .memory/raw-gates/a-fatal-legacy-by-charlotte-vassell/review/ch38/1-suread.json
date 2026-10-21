@@ -1,0 +1,114 @@
+{
+  "chapter": 38,
+  "title_in_book": "The Purple Toad Bakery",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch38_38.txt",
+  "source_len_chars": 13543,
+  "source_structure": [
+    "L1-L15: 章节编号 '38' 与 epub 装饰页（重复 '38'）",
+    "L17: 小标题 'The Purple Toad Bakery'",
+    "L20-L97: 场景一 —— 紫色蟾蜍面包店（Callie 与 Tabs）",
+    "L100: 分隔符 * * *",
+    "L105-L210: 场景二 —— Callie 与 Caius 的公寓（Amy 来电）",
+    "L215: 分隔符 * * *",
+    "L220-L298: 场景三 —— 前往 Frithsden 郊外的 Meadowview 农舍（Marcus 父子）"
+  ],
+  "part_in_book": {
+    "value": "FRIDAY",
+    "evidence": "epub OPS/package.opf spine: Part-007 = 'THURSDAY'(p.173) 含 ch28-ch35；Part-008 = 'FRIDAY'(p.225) 含 ch36、ch37、ch38、ch39、ch40；Part-009 = 'SATURDAY'(p.263)。ch38 起始页 243，标题 'The Purple Toad Bakery'。",
+    "note": "任务书给的是 THURSDAY，与 epub 实测不一致（ch38 归 FRIDAY）。以 epub 为准。"
+  },
+  "suread_facts": [
+    {
+      "id": "F1",
+      "who": "Callie",
+      "did": "在紫色蟾蜍面包店点了开心果可颂和一杯薄荷茶，坐在角落扶手椅等 Tabs；用手机给 Caius 发了自己「胜利」的简短总结",
+      "span": [45, 434],
+      "quote": "Callie was delighted to find that the pistachio croissants, which she had forsaken earlier, were from the bakery Tabs had picked. She ordered one and a cup of peppermint tea ... He responded within five minutes."
+    },
+    {
+      "id": "F2",
+      "who": "Tabs",
+      "did": "透露 DJ Sonikk（又名 Cecil）正在和一位她同校的女孩交往，且 Sonikk 说这个「流行女偶」的妹妹那边「有令人担心的事」，但没细说",
+      "span": [886, 1409],
+      "quote": "‘I hear you’ve been working on a certain pop girlie’s rebrand.’ … ‘DJ Sonikk, also known as Cecil, is dating a girl who I went to school with. He’s not very discreet.’ … ‘He said it’s really weird. Didn’t go into too much detail but that there’s something worrying going on with the sister.’"
+    },
+    {
+      "id": "F3",
+      "who": "Tabs",
+      "did": "问 Callie「Caius 是个什么样的人」，并说 Rupert 瞧不起 Caius 是因为以为他把 Nell 拉到自己一边；Nell 从没提过 Caius，只在喝醉时哭过一次说他救过她一命",
+      "span": [2794, 3023],
+      "quote": "‘What’s he like? Caius? Rupert despised him, but that was because he thought he’d turned Nell against him, whereas Nell – who is rather aloof at the best of times – has never mentioned him, apart from once when she was incredibly drunk and she cried, saying he saved her life.’"
+    },
+    {
+      "id": "F4",
+      "who": "Tabs",
+      "did": "说母亲会戴 Callie 做的帽子、想要一顶宽檐的，愿出双倍价钱，并许诺把Albert Hall 的包厢给 Proms 的一晚；婚礼在下个月",
+      "span": [3381, 3540],
+      "quote": "‘I do love a June wedding. I hope your mother is wearing my hat.’ … ‘Of course she is. She told me to tell you that she needs a wide-brimmed something or other … She said she’d pay you double and you can have our box at the Albert Hall for a night during the Proms.’"
+    },
+    {
+      "id": "F5",
+      "who": "Callie",
+      "did": "对 Caius 说：Ceramics 101 出身的 Venetia 现在在 PCQV 做事、手工花缎封面的册子反响很好；她（Callie）说自己给 Eulalia 的活儿已经结束，并抱怨 Mel 那个经理「像条母狗一样」处处针对她、Eulalia 跟到外面装可怜还想这个周末蹭上门",
+      "span": [5328, 6013],
+      "quote": "Callie told Caius about how Venetia from Ceramics 101 was working for PCQV now … ‘Her sister, Mel the manager, was being a bitch to me. She was never friendly but this was overt, and then Eulalia followed me outside and did this whole sad puppy dog act and tried to invite herself along this weekend.’"
+    },
+    {
+      "id": "F6",
+      "who": "Amy（打给 Caius）",
+      "did": "告知 Horatio Combe 研究所地下室里出现一只骸骨之手，摆在一张为降神会（seance）布置的桌子上；Robbie Eastley 已带 Matt 下去，法医正忙成一团",
+      "span": [6190, 6459],
+      "quote": "‘It’s got weirder. There’s a skeletal hand in the basement of the Horatio Combe Institute. It was on a table set up for a seance.’ … ‘Yeah, Robbie has got Matt down there now. Forensics are having a field day.’"
+    },
+    {
+      "id": "F7",
+      "who": "Caius",
+      "did": "在电话里对 Amy 判断：不对劲的是「真正的 Isolde」——他们为何照抄她的人生而不自行编造，感觉非常私人；Isolde 将是破案关键；并叮嘱别去追查手是谁的，因为那桩旧案的凶手多半早已不在人世",
+      "span": [6509, 7061],
+      "quote": "‘He’s a dick, but he’s good at his job. Human remains will keep him up to his eyeballs in paperwork. … I know it’s tempting to try to work out who the hand could be but that killer is probably long gone, whereas whoever killed Digby and Scott, possibly Jimmy too, is walking around out there.’ … ‘It’s Isolde. The real Isolde. Why did they copy her life story and not just make something up? It feels really personal. … Isolde will be the key to this.’"
+    },
+    {
+      "id": "F8",
+      "who": "Caius",
+      "did": "压住不告诉 Callie：他手上案子里的一名死者曾在紫色蟾蜍面包店工作过（两人约定不谈案情细节）；随后带 Callie 看父亲 Marcus 的农舍 Meadowview，四间卧室、平坦的后花园、果园，厨房待装、Callie 挑橱柜；Marcus 把钥匙扔给 Caius，说这事定了",
+      "span": [7917, 8006],
+      "quote": "Caius resisted the urge to tell her that one of the victims in his case had worked there. They’d agreed that he wasn’t going to talk about details like that. … ‘It’s got four and a delightful, flat garden out back. There’s even an orchard.’ … It was a done deal."
+    }
+  ],
+  "relationships": [
+    "Callie 与 Caius：恋人同居（公寓在伦敦 Tufnell Park 一带）；Caius 是警察，Callie 做帽子/配饰与品牌重塑等手艺活。",
+    "Callie 与 Tabs：朋友/熟人；Tabs 是造型师（stylist），其工作室新签了「两个半装腔的真人秀明星」；Tabs 的哥哥 Joly 的婚礼临近；Tabs 的母亲（母亲）与 Callie 有帽子往来。",
+    "Tabs 与 DJ Sonikk（Cecil）：Sonikk 在和 Tabs 的一个同校女孩交往；Sonikk 是「那个流行女偶」重塑项目的消息来源。",
+    "Callie 与 Mel、Eulalia：Callie 为 Eulalia 做事（重塑项目）；Mel 是 Eulalia 的姐姐兼经理，态度敌对；Eulalia 姐妹（pop girlie 的妹妹）在被某人议论为「有麻烦」。",
+    "Caius 与 Amy：Amy 是他的同事/办案搭档，通电话交换案情。",
+    "Caius 与 Robbie Eastley：同事但关系不睦——Caius 称他『a dick』，认可其专业（『good at his job』）；Robbie 已接手并带 Matt 下到研究所地下室。",
+    "Caius 与 Matt：Matt 在 Robbie 手下参与地下室勘查。",
+    "Caius 与 Marcus（父）：Caius 一直不情愿搬去 Frithsden；Marcus 用新农舍 Meadowview 说服他，最终把钥匙交给他。",
+    "Callie 与 Marcus（准公公）：Marcus 主动带 Callie 参观并许诺让她挑橱柜。",
+    "Caius 与 Nell：据 Tabs 转述，Nell 醉后哭诉『他救过她的命』（『He was just doing his job.’ 是 Callie 的回应）。",
+    "Rupert（Tabs 的父亲/家族）：Rupert 瞧不起 Caius，曾以为他把 Nell 拉到自己一边。",
+    "Paul：Callie 要去与之谈 almshouses（养老院）的人。"
+  ],
+  "numbers_and_dates_verbatim": [
+    "He responded within five minutes.",
+    "They chatted for an hour.",
+    "‘Went on a date last night with a girl.’",
+    "her stylist business picking up after she signed two pseudo-posh reality stars",
+    "her brother’s looming wedding",
+    "‘The wedding’s next month.’",
+    "‘I do love a June wedding.’",
+    "it had been baked in England",
+    "‘It’s got four and a delightful, flat garden out back. There’s even an orchard.’",
+    "‘The plasterers are coming in a week or two.’",
+    "‘once the kitchen is fitted it’ll be all yours’",
+    "Arthur Hampton：Throwing himself into his work",
+    "Callie 失去 son、brother、husband ‘all in a week’（Tabs 口中）",
+    "‘I bought some steaks.’ / ‘a baguette for lunch and a couple of sourdough loaves for the weekend’"
+  ],
+  "open_questions_for_md_check": [
+    "原文只说手『摆在一张为降神会布置的桌子上』（It was on a table set up for a seance），并未说这只手属于谁、谁下的命令、谁把它摆上去、是否有人『布置成一场表演给谁看』。",
+    "原文明确把手的主人留作悬案：Caius 说『I know it’s tempting to try to work out who the hand could be but that killer is probably long gone』——本章没有给出手的身份。",
+    "原文没有出现『表演 / staged / performance』这类词；『for a seance』是唯一的相关表述。",
+    "分部名按 epub 实测为 FRIDAY（任务书写 THURSDAY，需在 md 中核对）。"
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "chapter": 38,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/ch38 a skeletal hand is found in the institute basement.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch38_38.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "‘It’s got weirder. There’s a skeletal hand in the basement of the Horatio Combe Institute. It was on a table set up for ",
+          "ok": true,
+          "pos": 5947
+        }
+      ]
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "‘Yeah, Robbie has got Matt down there now. Forensics are having a field day.’",
+          "ok": true,
+          "pos": 6129
+        }
+      ]
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "‘He’s a dick, but he’s good at his job. Human remains will keep him up to his eyeballs in paperwork. He’ll have to leave",
+          "ok": true,
+          "pos": 6243
+        }
+      ]
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘There’s something that just doesn’t add up, Amy.’ He looked into the flat. Callie was pretending not to be paying atten",
+          "ok": true,
+          "pos": 6654
+        }
+      ]
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘I’ll have another look at Isolde Burrell then. Maybe we’ve missed something.’",
+          "ok": true,
+          "pos": 6996
+        }
+      ]
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Caius resisted the urge to tell her that one of the victims in his case had worked there. They’d agreed that he wasn’t g",
+          "ok": true,
+          "pos": 7593
+        }
+      ]
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Caius sat down on the sofa, watching how utterly perfect she was. He looked down at the rug, imaging a toddler crawling ",
+          "ok": true,
+          "pos": 7821
+        }
+      ]
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "‘What have you done?’ Marcus asked quietly. ‘You’re acting like a moody fifteen-year-old, which means you’ve fucked up. ",
+          "ok": true,
+          "pos": 10043
+        }
+      ]
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "He supposed that this would be the nursery. It over-looked the woodland that ran around the back of Frithsden’s parkland",
+          "ok": true,
+          "pos": 11788
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.94,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 106,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.94,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 93,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.95
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 89,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 142,
+        "关键词": 0,
+        "为什么这样写": 93,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.85
+      }
+    }
+  ],
+  "form": {
+    "h1": "38. The Purple Toad Bakery",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 7.0,
+    "block_range": [
+      5,
+      10
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": []
+  }
+}

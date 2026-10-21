@@ -1,0 +1,211 @@
+{
+  "chapter": "ch11",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch11_11.txt",
+  "source_chars_total": 9320,
+  "offset_basis": "Python string offsets on the UTF-8 decoded file text, 0-indexed, [start, end) 半开区间；行号来自 Read 工具行号",
+  "section_title": "The Police Station",
+  "section_title_range": [20, 38],
+  "section_title_line": 17,
+  "section_divider": "* * *",
+  "section_divider_count": 3,
+  "section_divider_ranges": [[52, 57], [68, 73], [140, 145]],
+  "plain_read_events": [
+    {
+      "id": "E1",
+      "who": "Amy 与 Matt",
+      "what": "在 police station 的 incident room 里把 Digby 办公室的所有文件摊开来整理，按 personal / institutional 分成两摞（personal 或 institutional 二分）",
+      "range": [41, 191],
+      "line": 20,
+      "verbatim": "Amy and Matt were busy arranging all the papers from Digby’s office out in the incident room. They were organising them into personal or institutional."
+    },
+    {
+      "id": "E2",
+      "who": "Caius",
+      "what": "没打石膏就出现，亮出小臂；说 5 月份正是他「换族裔」的时节，会有一条牙买加手臂和一条爱尔兰手臂，到 6 月底就均匀成「indeterminate Mediterranean」",
+      "range": [193, 724],
+      "line": 20,
+      "verbatim": "Caius appeared without his cast. … ‘I switch ethnicities right about now,’ Caius said, holding up both forearms so Amy could the see the difference. ‘I’ll have one Jamaican arm and one Irish one for a month. It’ll have evened out come the end of June into indeterminate Mediterranean.’"
+    },
+    {
+      "id": "E3",
+      "who": "Caius（接电话后）",
+      "what": "电话告知 Matt/Amy：Digby 的母亲 Fenella 已在楼下，因 Foreign Office 没能联系上在 Goa 的她；她自己到了 Institute，被门外的 uniform 告知了死讯",
+      "range": [797, 973],
+      "line": 38,
+      "verbatim": "Caius’s phone rang. He took the call. The jest fell from his face. ‘Digby’s mother Fenella is downstairs. Appears the Foreign Office failed to get hold of her in Goa.’ … ‘Turned up at the Institute and got informed by uniform out front what happened,’ Caius said."
+    },
+    {
+      "id": "E4",
+      "who": "Caius",
+      "what": "向 Fenella 郑重道歉（为她在国外时得知死讯的方式），见她在震惊中说不出话，遂离开房间并示意 family liaison officer 接手",
+      "range": [1590, 1885],
+      "line": 60,
+      "verbatim": "‘Ms Combe-Watson, I would like to sincerely apologise for the manner in which you found out about your son’s death. We asked the Foreign Office to get in touch with you while you were abroad.’ … Caius left the room, signalling for the family liaison officer to take over."
+    },
+    {
+      "id": "E5",
+      "who": "Matt（读 institutional 那摞里的 glossy booklet）",
+      "what": "读到财产估价，把它递给 Caius：Digby 上周（last week）让人给这处房产估了价；Caius 说两百万英镑，且通电后会更值钱；Amy 补说保留了所有原有特色",
+      "range": [2144, 2317],
+      "line": 73,
+      "verbatim": "Matt, who had taken charge of the institutional pile of paperwork, was reading through a glossy booklet when Caius came back into the incident room. He passed it over to Caius. ‘Digby had the property valued last week.’ … ‘Two million pounds. Imagine what it’ll be worth once they put electricity in,’ Caius said. … ‘It’s got all the original features and then some,’ Amy said"
+    },
+    {
+      "id": "E6",
+      "who": "Matt",
+      "what": "提出动机推断：如果 Digby 不是这处房产唯一的份额持有者，那这就是一个相当好的动机",
+      "range": [2625, 2715],
+      "line": 82,
+      "verbatim": "‘That’s a pretty good motive if Digby isn’t the only person who has a share of the property,’ Matt said."
+    },
+    {
+      "id": "E7",
+      "who": "Caius（回忆冰箱上的明信片）",
+      "what": "说 Digby 的母亲从 Goa 写信/寄明信片给 Digby，说回来后要谈 Institute 的未来",
+      "range": [2795, 2890],
+      "line": 85,
+      "verbatim": "‘His mum wrote to him saying they’d talk about the future of the Institute when she got back,’ Caius said, remembering the postcard sent from Goa on the fridge."
+    },
+    {
+      "id": "E8",
+      "who": "Amy（高声朗读一封信）",
+      "what": "举起并朗读一封信：关于将 Horatio Combe Institute 内 human remains 遣返的函；Institute 持有七具来自 New Zealand 的 toi moko 或 mokomokai，trustees 希望归还原属地；信尾署名 Digby Combe-Watson，Curator and Executive Chair, The Horatio Combe Institute",
+      "range": [3043, 3507],
+      "line": 91,
+      "verbatim": "Amy held up a letter and began reading it aloud. … Dear Sirs, I am writing to you with regard to the repatriation of human remains within the Horatio Combe Institute. As you may be aware the Institute is in possession of seven toi moko or mokomokai from New Zealand. It is the wish of the trustees that they be returned to their ancestral land. … Digby Combe-Watson / Curator and Executive Chair / The Horatio Combe Institute"
+    },
+    {
+      "id": "E9",
+      "who": "Amy / Caius",
+      "what": "确认这封信既未落日期也未签名；Caius 判断「他在等他母亲谈」；Amy 报告同一文件夹里还有另一封信，提出把其余藏品交给 Royal Geographical Society，同样未签名未落日期；Caius 由此判定他是要认真出手藏品",
+      "range": [3580, 3949],
+      "line": 120,
+      "verbatim": "‘It hasn’t been dated, or signed yet,’ Amy said, looking the letter over. … ‘He was waiting to speak to his mum,’ Caius said. … ‘There was another letter kept in the same folder, offering the rest of the collection to the Royal Geographical Society,’ Amy said, scanning the other letter. ‘Also unsigned and undated.’ … ‘He was serious if he was offloading the collection.’"
+    },
+    {
+      "id": "E10",
+      "who": "Amy",
+      "what": "说还有一封某位学者（academic）来信要求安排会面，来自两 weeks ago；随后 Caius 桌上的电话响起，Fenella 说可以谈了",
+      "range": [3972, 4126],
+      "line": 132,
+      "verbatim": "‘Oh and there was a letter from some academic asking to set up a meeting. That was from two weeks ago.’ … Caius’s desk phone rang. ‘Fenella Combe-Watson feels up to talking.’"
+    },
+    {
+      "id": "E11",
+      "who": "Fenella（对 Caius）",
+      "what": "爆发式反驳「harm」的措辞：他们杀了他，这远远超出伤害一个人，不是捏胳膊，而是谋杀",
+      "range": [4380, 4657],
+      "line": 151,
+      "verbatim": "‘We’re just trying to ascertain why anyone would want to harm Digby.’ … ‘They killed him. That is far beyond harming someone. They didn’t pinch him on the arm. They murdered him!’"
+    },
+    {
+      "id": "E12",
+      "who": "Fenella",
+      "what": "说 Digby 写信讲过他对 Institute 有计划，她认为他想把它关停掉（wind it down）；她早就厌恶这个地方，说它『让我起鸡皮疙瘩』，是一座『陵墓』",
+      "range": [5230, 5440],
+      "line": 172,
+      "verbatim": "‘Digby had written to say that he had a plan for the Institute. I think he wanted to wind it down.’ Fenella shook her head, thinly veiling disgust. ‘Finally.’ … ‘It gave me the creeps.’"
+    },
+    {
+      "id": "E13",
+      "who": "Fenella",
+      "what": "交代家族史：她父亲是 Digby 之前的 curator；她小时候在那里待的时间太长，恨透了这地方；父亲去世时她就想处置掉，但 Digby 在那之前的夏天毕业，因 recession 无处可去便接手；他敬爱父亲，觉得有责任延续；两人彼此敬爱；Digby 当时在写一本关于 Institute 的书",
+      "range": [5552, 6010],
+      "line": 178,
+      "verbatim": "‘My father was curator before Digby took over. I spent far too much time there as a child. Hated it. Utterly hated it. I wanted to dispose of it when Daddy died but Digby had graduated the summer before and was at a loss because of the recession so he took it on. He adored my father. … They adored each other. Digby was working on a book about the Institute.’"
+    },
+    {
+      "id": "E14",
+      "who": "Caius（内心）",
+      "what": "回忆 Digby 曾与 Isolde 谈过写书，由此解释 Willow 从 intern 被提为 research assistant（但他确定那不是正式头衔）",
+      "range": [6115, 6190],
+      "line": 181,
+      "verbatim": "Caius remembered that Digby had been talking to Isolde about a book. It would explain why Willow got bumped up to research assistant from intern. Although he was certain that was not an official title."
+    },
+    {
+      "id": "E15",
+      "who": "Fenella",
+      "what": "说明那本书叫『Our Apologia』；Digby 对藏品感到不安，她也如此；谈藏品的来路，『相当不体面』；两人都认为谈开来比把它扫到 Institute 那几张破地毯下更健康；书要写的是直接继承一份 colonial horror 是什么感受；Digby 一直提到一位叫 Edward Said 的人作为参照",
+      "range": [6440, 6934],
+      "line": 190,
+      "verbatim": "‘He called it “Our Apologia”. He had begun to feel uncomfortable with the collection. We both did. What was in it and how it had been obtained. Rather unsavoury at times but we both agreed that it was healthier to talk about it rather than sweep it under one of the Institute’s motheaten rugs. The book was going to be him meditating on what it feels like to directly inherit a colonial horror. He kept mentioning some man called Edward Said as a point of reference.’"
+    },
+    {
+      "id": "E16",
+      "who": "Fenella（回答 trustee board）",
+      "what": "说现在只剩他们两个人（她和 Digby）；她的姨母曾任董事，三年前去世；她当时就建议让出这个职位，Digby 放不下；她感叹两人本可以用那笔钱",
+      "range": [6991, 7400],
+      "line": 193,
+      "verbatim": "‘It’s just the two of us now. My aunt had been on the board until she died three years ago. I told Digby we should let it go then too, no shame in the world moving on, but he was still at a loss, you see. He was a child out of time. … God knows we could’ve done with the money. I kept telling Digby that he could use his part to go and have adventures of his own.’"
+    },
+    {
+      "id": "E17",
+      "who": "Fenella（回答遗嘱问题）",
+      "what": "不知道 Digby 是否立过遗嘱；『据我所知没有』——他还年轻",
+      "range": [7521, 7572],
+      "line": 199,
+      "verbatim": "‘Not that I know of. He was young.’"
+    },
+    {
+      "id": "E18",
+      "who": "Fenella",
+      "what": "说 Digby 的大学朋友都还住在北方，关系很亲近；他每年去探望几次；Nathan 是他最好的朋友；但她没有联系方式，只有地址簿可以找",
+      "range": [7833, 8264],
+      "line": 208,
+      "verbatim": "‘His university friends all live in the North still. They were close.’ … ‘No. Nathan’s a nice boy. Yes, Nathan was his best friend.’ … ‘I’m sure Digby will have an address book.’"
+    },
+    {
+      "id": "E19",
+      "who": "Fenella",
+      "what": "说那原本是她的房子；六年前她与伴侣搬到 Oxfordshire 时把它隔成 studios；Digby 免租住在其中一间，其余出租",
+      "range": [8371, 8560],
+      "line": 220,
+      "verbatim": "‘Yes, I broke it up into studios when I moved with my partner to Oxfordshire six years ago. Digby lives in one rent free and I let the others out.’"
+    },
+    {
+      "id": "E20",
+      "who": "Fenella",
+      "what": "说儿子没跟她讲过感情生活；Caius 试探问 Digby 是否告诉她最近认识了人，她答『没有吗？』，随即说自己原计划本周见一面，若认真谈过他会告诉自己",
+      "range": [8701, 9201],
+      "line": 229,
+      "verbatim": "‘Did Digby tell you about his love life?’ … ‘No. Had he?’ … ‘We were going to meet up this week once we were back. If he had met someone and it was serious he probably would’ve told me about it then. Would have …’"
+    }
+  ],
+  "relationships": [
+    "Digby Combe-Watson：死者，Horatio Combe Institute 的 Curator and Executive Chair；Fenella 之子；Dollis Hill 一间 studio 的免租居住者；写书『Our Apologia』",
+    "Fenella Combe-Watson：Digby 的母亲；原 curator 之女；现与伴侣住 Oxfordshire；名下一处房产切成 studios；自 Digby 死后成为 trustee（与 Digby 共两人）",
+    "Caius：警方办案者（DI 级），对 Fenella 问询；带伤/未打石膏；与分析员式的肤色玩笑",
+    "Matt：警方办案者，负责 institutional 一摞文件；提出房产份额的动机推断；记下要查地址簿",
+    "Amy：警方办案者，负责 personal 一摞文件；朗读信件；女友是 Fi，居家有猫",
+    "Willow：被 Digby 从 intern 提拔为 research assistant（非正式头衔）",
+    "Isolde：Digby 曾就写书一事与之商谈",
+    "Nathan：Digby 的大学好友/最好的朋友，住在北方",
+    "Fenella 的姨母：曾任 trustee，三年前去世",
+    "Fenella 的父亲：Digby 之前的 curator，已去世",
+    "Royal Geographical Society：Digby 拟把其余藏品交给的对象",
+    "Foreign Office：曾被托付联系在 Goa 的 Fenella，未能联系上"
+  ],
+  "numbers_and_dates_verbatim": [
+    {"item": "财产估值", "text": "Two million pounds", "range": [2189, 2207], "line": 76},
+    {"item": "估值时间", "text": "Digby had the property valued last week", "range": [2144, 2183], "line": 73},
+    {"item": "通电后增值", "text": "Imagine what it’ll be worth once they put electricity in", "range": [2209, 2265], "line": 76},
+    {"item": "藏品件数", "text": "seven toi moko or mokomokai from New Zealand", "range": [3204, 3264], "line": 102},
+    {"item": "受托人人数", "text": "It’s just the two of us now", "range": [7041, 7068], "line": 196},
+    {"item": "姨母去世距今", "text": "died three years ago", "range": [7115, 7130], "line": 196},
+    {"item": "学者来信距今", "text": "That was from two weeks ago", "range": [4042, 4055], "line": 132},
+    {"item": "搬家距今", "text": "Oxfordshire six years ago", "range": [8517, 8530], "line": 226},
+    {"item": "母亲年龄", "text": "a sixty-something in Sweaty Betty leggings and a pair of Hokas", "range": [1400, 1467], "line": 57},
+    {"item": "母亲出身描述", "text": "a former nineties raver type turned sleek Pilates teacher", "range": [1188, 1243], "line": 57},
+    {"item": "Caius 肤色玩笑时段", "text": "one Jamaican arm and one Irish one for a month", "range": [601, 649], "line": 35},
+    {"item": "肤色玩笑终点", "text": "come the end of June into indeterminate Mediterranean", "range": [676, 724], "line": 35},
+    {"item": "Digby 接手时点", "text": "Digby had graduated the summer before", "range": [5716, 5753], "line": 178},
+    {"item": "书名", "text": "Our Apologia", "range": [6508, 6520], "line": 190},
+    {"item": "参照人物", "text": "Edward Said", "range": [6923, 6934], "line": 190}
+  ],
+  "chapter_specific_anchors": [
+    "分拣二分法原文为 personal or institutional（[145,191)），未出现 private/public、personal/official 之类的改写",
+    "两百万英镑原文是 Caius 口中一句台词『Two million pounds.』，并非叙述者给出的独立估值句",
+    "受托人只剩两人原文是 Fenella 的台词『It’s just the two of us now.』，语境是 trustee board 董事会只剩她与 Digby 两人；并非『只剩两位受托人（除 Digby 外）』之意",
+    "书房/藏品信的三封：repatriation 信（toi moko 归还原属地）、给 Royal Geographical Society 的信、两周前某 academic 求会面的信；前两封明确 unsigned and undated"
+  ]
+}

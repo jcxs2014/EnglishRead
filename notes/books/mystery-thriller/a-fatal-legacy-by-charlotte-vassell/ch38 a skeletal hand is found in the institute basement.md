@@ -67,7 +67,7 @@ source_text: ch38
 
 > **原句 8:** "‘What have you done?’ Marcus asked quietly. ‘You’re acting like a moody fifteen-year-old, which means you’ve fucked up. You were adamant you weren’t going to move up here and now here we are, surprising Callie with a charming little country bolthole. Did you cheat on her? Moving out of London to get away from some side piece? Is that it? A fresh start away from temptation?’"
 
-**中文理解**：马库斯压低声音问："你做了什么？"接着断言儿子像个体闷的十五岁少年——这说明他肯定搞砸了什么；你本来就铁了心不上这儿来，如今却带着卡莉来看一个迷人的乡间小屋，是出去外面偷腥了吗？想靠换个地方重新开始？
+**中文理解**：马库斯压低声音问："你做了什么？"接着断言他像个体闷的十五岁少年——这说明他肯定搞砸了什么；你本来就铁了心不上这儿来，如今却带着卡莉来看一个迷人的乡间小屋，是出去外面偷腥了吗？想靠换个地方重新开始？
 **关键词**：moody fifteen-year-old / charming little country bolthole / surprising Callie
 **为什么这样写**：父亲一开口就是一场表演：把"我给儿子安排房子"演成"儿子瞒着我干的荒唐事"，把质问演成关心。而儿子刚在电话里被要求"别去查那只手"，一进家门就换成被审视的男孩。
 **读者视角提示**：这是本章第二次"布置"：房子被布置成礼物，父亲的话被布置成指控，两样都是做给人看的戏。
@@ -121,4 +121,4 @@ source_text: ch38
 
 ## 一句话总结
 
-艾米在电话里带来一只摆上降神会桌子的骸骨之手，凯厄斯却把它归入"旧凶手"的旧账，坚持真正的破洞在被照抄人生的伊索尔德身上；而同一天下午，他在乡间看房时发现，儿子和未出世的孩子已经在等着入住一间空房间——两处"先布置好、等人来"的现场，正是本章留下的暗线。
+艾米在电话里带来一只摆上降神会桌子的骸骨之手，凯厄斯却把它归入"旧凶手"的旧账，坚持真正的破洞在被照抄人生的伊索尔德身上；而同一天下午，他跟着父亲在乡间看房时发现，那间正对林子的空房被他想定成了婴儿房——等着住进来的，只有他和那个尚未出世的孩子——两处"先布置好、等人来"的现场，正是本章留下的暗线。

@@ -1,0 +1,63 @@
+# ch11 零命中取证（R5-补：命令 + 输出 + 退出码）
+# 工具说明：/usr/bin/grep 是 BSD grep 2.6.0-FreeBSD；交替匹配一律用 -E（不写 \|）；退出码 1＝真查无。
+# 注意：首轮我曾用 -E 搭配 '\|'，导致模式被当字面量、退出码 1 属假零命中，已作废并重测。
+
+=== E1 md 内无『两百万英镑』相关表述 ===
+$ /usr/bin/grep -cE '两百万|百万英镑|million' "ch11 matt and amy sort digbys papers.md"
+0
+退出码: 1
+
+=== E2 md 内无『受托人只剩两人』表述 ===
+$ /usr/bin/grep -cE '受托人只剩|就剩我们|就剩我们俩' "ch11 matt and amy sort digbys papers.md"
+0
+退出码: 1
+
+=== E3 md 内无第三封信（学者/学术/求会面） ===
+$ /usr/bin/grep -cE '学者|学术|求会面|约见' "ch11 matt and amy sort digbys papers.md"
+0
+退出码: 1
+
+=== E4 md 内无 Nathan/住址簿 ===
+$ /usr/bin/grep -cE 'Nathan|内森|住址簿|地址簿' "ch11 matt and amy sort digbys papers.md"
+0
+退出码: 1
+
+=== E5 md 内无『关停研究所』（wind it down） ===
+$ /usr/bin/grep -cE '关停|收掉|解散|停掉|wind it down' "ch11 matt and amy sort digbys papers.md"
+0
+退出码: 1
+
+=== E6 md 内无『没有遗嘱』答案 ===
+$ /usr/bin/grep -cE '没有遗嘱|未立遗嘱|没立遗嘱|没遗嘱' "ch11 matt and amy sort digbys papers.md"
+0
+退出码: 1
+
+=== E7 md 内『冰箱贴』出现次数（用于 C1） ===
+$ /usr/bin/grep -cE '冰箱贴' "ch11 matt and amy sort digbys papers.md"
+1
+退出码: 0
+
+=== E8 md 内『整体出手』出现次数（用于 C2） ===
+$ /usr/bin/grep -cE '整体出手' "ch11 matt and amy sort digbys papers.md"
+1
+退出码: 0
+
+=== E9 全书语料中『Two million/two million』的位置 ===
+$ /usr/bin/grep -nE 'Two million|two million' text/*.txt
+text/ch11_11.txt:76:‘Two million pounds. Imagine what it’ll be worth once they put electricity in,’ Caius said.
+退出码: 0
+
+=== E10 全书语料中『two of us』的位置 ===
+$ /usr/bin/grep -nE 'two of us' text/*.txt
+text/ch11_11.txt:196:‘It’s just the two of us now. My aunt had been on the board until she died three years ago. I told Digby we should let it go then too, no shame in the world moving on, but he was still at a loss, you see. He was a child out of time. He wanted simplicity so he clung to the past instead of moving forward.’ She sighed. ‘God knows we could’ve done with the money. I kept telling Digby that he could use his part to go and have adventures of his own.’
+退出码: 0
+
+=== E11 全书语料中『Royal Geographical Society』的位置 ===
+$ /usr/bin/grep -nE 'Royal Geographical Society' text/*.txt
+text/ch11_11.txt:126:‘There was another letter kept in the same folder, offering the rest of the collection to the Royal Geographical Society,’ Amy said, scanning the other letter. ‘Also unsigned and undated.’
+退出码: 0
+
+=== E12 全书语料中『repatriation』的位置 ===
+$ /usr/bin/grep -nE 'repatriation' text/*.txt
+text/ch11_11.txt:99:I am writing to you with regard to the repatriation of human remains within the Horatio Combe Institute.
+退出码: 0
