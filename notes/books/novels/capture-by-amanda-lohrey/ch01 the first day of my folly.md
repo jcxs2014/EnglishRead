@@ -117,11 +117,11 @@ modified: "2026-10-20"
 
 > **原句 9:** "It is on my mind to ask Helena about her granddaughter, Caitlin, recently hospitalised with what is commonly described as an eating disorder, a term I use reluctantly since it conjures an absurd image of a plate of food in disarray."
 
-**中文理解**：我本想问起海伦娜的孙女凯瑟琳——她最近因所谓「进食障碍」住院；这个说法我用得很不情愿，因为它会召唤出一个荒唐的画面：一盘食物被搅得乱七八糟。
+**中文理解**：我本想问起海伦娜的孙女凯特琳——她最近因所谓「进食障碍」住院；这个说法我用得很不情愿，因为它会召唤出一个荒唐的画面：一盘食物被搅得乱七八糟。
 
 **关键词**：on my mind / hospitalised / an eating disorder / a plate of food in disarray
 
-**为什么这样写**：海伦娜的孙女凯瑟琳在本章只是被提到，却是全书最重要的一处埋伏：一个被诊断标签关起来的年轻人，一个「盘中被搅乱的食物」的意象。而「我本想问」说明这个话题在两人之间被跳过了——问话被推迟，恰恰因为它无法被归类。
+**为什么这样写**：海伦娜的孙女凯特琳在本章只是被提到，却是全书最重要的一处埋伏：一个被诊断标签关起来的年轻人，一个「盘中被搅乱的食物」的意象。而「我本想问」说明这个话题在两人之间被跳过了——问话被推迟，恰恰因为它无法被归类。
 
 **读者视角提示**：注意叙述者先拒绝标签、再给出自己的画面——这是「体验者」们日后争取的同一种权利：拒绝被别人提供的诊断词。叙述者在此已经站到了他们那一侧。
 

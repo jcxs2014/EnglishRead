@@ -141,7 +141,7 @@ modified: "2026-10-20"
 
 > **原句 11:** "‘Yes, many dogs. Sacred to the god. Good for wounds.’ I consulted the booklet and, sure enough, dogs were indeed sacred and encouraged to lick the flesh wounds of patients in the belief that canine saliva was a natural antibiotic."
 
-**中文理解**：「对，很多狗。神圣的。治伤口很管用。」我翻了翻册子，果然：狗是神圣的，而且人们被鼓励去舔病人的肉伤，相信狗的唾液是一种天然的抗生素。
+**中文理解**：「对，很多狗。神圣的。治伤口很管用。」我翻了翻册子，果然：狗是神圣的，而且**人们被鼓励让狗去舔病人的伤口**，因为他们相信狗的唾液是天然的抗生素。
 
 **关键词**：many dogs. Sacred to the god / Good for wounds / dogs were indeed sacred / encouraged to lick the flesh wounds of patients / in the belief that canine saliva was a natural antibiotic
 
@@ -205,7 +205,7 @@ modified: "2026-10-20"
 
 **关键词**：the priests had an acute understanding of the mind–body connection / how wonderfully they rigged the game / They had the gods on their side / and they knew how to use them
 
-**为什么这样写**：作者给出全书最漂亮的一次**翻案**：同一件事，在塞利姆的口中是「骗局的把戏」，在马瑟的判断中是「敏锐的理解」+「知道怎么用」。他没有说他们错，他说他们**高明**。
+**为什么这样写**：作者给出全书最漂亮的一次**翻案**：同一件事，在塞利姆口中只是「Everybody dream」「Big result」这样的推销话术，而到了马瑟的判断里，是「敏锐的理解」加「知道怎么用」。他没有说他们错，他说他们**高明**。
 
 **读者视角提示**：请把这一句与**第十九章**伊薇特那句「他们有比我们先进的技术，可他们的身体本身更差」并读——外星人的设计与祭司的设计，在结构上是同一个东西。
 
