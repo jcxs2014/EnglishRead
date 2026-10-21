@@ -1,0 +1,140 @@
+{
+  "chapter": "ch12",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch12_12.txt",
+  "source_total_chars": 18050,
+  "offset_convention": "[start, end) 字符偏移，对应 text/ch12_12.txt 全文（Python len(str) 计字符）",
+  "read_order": "仅读 text/ch12_12.txt；未开任何 md",
+  "events": [
+    {
+      "id": "E1",
+      "who_did_what": "Eulalia 把见面地点从 Callie 最初拿到的 Primrose Hill 地址改成 Tate Britain（理由：她想见 ‘somewhere awe-inspiring’），并且是 last minute 改的。Callie 走过被炮弹打坏的墙进入馆内，上旋转楼梯，在礼品店买了明信片对照，然后找到约好站在其对面的画；Callie 看了表——早了五分钟，仍不知道 Eulalia 长什么样。",
+      "range": [35, 789],
+      "lines": "20"
+    },
+    {
+      "id": "E2",
+      "who_did_what": "Callie 坐在长椅上，面对 Ellen Terry 演的 Lady Macbeth 那幅画（Lady M 双臂把皇冠举过头顶；衣裙上的钴蓝闪光是用数千只宝石甲虫翅膀做的）。Callie 猜甲虫是被熏死的还是活着被拔翅。她想：如果 Eulalia 想要 ‘mad’，为什么是 Lady M 不是 Ophelia；她自己的作品更接近 Millais（Millais 在相邻展厅），她喜欢 Rossetti 但觉得他是个 wanker。Callie 查手机——换地点之后 Eulalia 那边一点消息也没有。她补了口红（Liberty’s 买的 sheer russet，两年前和 Max 难捱时买的），用 1950 年代古董化妆镜照了照，被身后一个盯着她看的年轻女人吓了一跳。",
+      "range": [792, 2156],
+      "lines": "23"
+    },
+    {
+      "id": "E3",
+      "who_did_what": "第一句搭话：Callie 说 ‘Jesus Christ on a bicycle…’ 并说 ‘I take it you’re …’；Eulalia 以很轻的 sotto voce 回 ‘Yes, that’s me’，并伸手说 ‘Calliope, delighted to meet you at last.’。Callie 注意到 Eulalia 未施粉黛、穿宽大运动裤和 2XL 男式 T 恤、戴棒球帽——像藏在袋里的维纳斯。",
+      "range": [2159, 2930],
+      "lines": "26–32"
+    },
+    {
+      "id": "E4",
+      "who_did_what": "Eulalia 的握手无力、随即松开，甩身坐上长椅，**不看 Callie**，仰头看画说 ‘She’s so fucking angry. I love it.’。Callie 问 ‘Is it her air of unpredictability that you like?’（探询式提问），Eulalia 给出宣言：‘Women should be unpredictable. We already are… Men are constants; they’re boring… Cholera in trousers.’ Callie 回 ‘In my experience that depends on the man.’，并在 Smythson 皮面本上写下 ‘unpredictable’、‘female anger’、‘wild-eyed’。",
+      "range": [2933, 3979],
+      "lines": "35–44"
+    },
+    {
+      "id": "E5",
+      "who_did_what": "Eulalia 说 ‘I’m so happy you agreed to this. I’ve been feeling really lost.’，随即抓住 Callie 的手，并说妹妹 Mel 一切都替她安排（‘My sister Mel is amazing; she organises everything for me. My deals with my label, all the business stuff.’），但紧接着压低声音批评 Mel：她没有 creative mindset、不能 freewheel ideas、‘She doesn’t understand the pursuit of beauty.’",
+      "range": [3982, 4610],
+      "lines": "47–53"
+    },
+    {
+      "id": "E6",
+      "who_did_what": "一个穿白衬衫黑西裤的女人从画旁盯着她们；Eulalia 介绍 ‘Mel, this is Cal; Cal, this is Mel.’。Callie 猜 Mel 可能全程都在，只是自己太专注于 Eulalia 而没注意。Mel 说她要去见 PCQV 的人、Callie 不用管，然后对 Eulalia 说 ‘You need to be back by 3 p.m. at the latest. Have you got your Oyster? Your phone in case I need to reach you.’；Eulalia 答 ‘Yep.’（拍口袋）。Mel 临走时从包里递给 Eulalia 一瓶水，说 ‘Don’t get dehydrated. It’s far too hot out there.’；两姐妹互相做开枪手势。",
+      "range": [4613, 6905],
+      "lines": "56–83"
+    },
+    {
+      "id": "E7",
+      "who_did_what": "Callie 问 ‘Where in the North are you from?’；Eulalia 反问 ‘How could you tell?’（她一直在努力装 posh 腔，Mel 建议她学 elocution lesson）；Callie 说 ‘The humour in your work feels northern. I expected you to be from Yorkshire.’；Eulalia 说 ‘God’s own country.’ 并翻白眼，Callie 说 ‘See, only people from Yorkshire say that.’，Eulalia 认输：‘All right, you’ve got me. I’m a Yorkshire lass born and bred.’ Callie 说自己母亲的家族来自那一带。",
+      "range": [6908, 7588],
+      "lines": "86–104"
+    },
+    {
+      "id": "E8",
+      "who_did_what": "Callie 问 ‘Do you like Millais?’，Eulalia 答 ‘No. I don’t care for him.’；她们走到 Millais 的 Ophelia 前，Callie 问 ‘Too inactive?’，Eulalia 说 ‘She’s pitiful. Ophelia has things done to her and doesn’t do a thing for herself… she’s fucking weak. I hate that she goes mad and that makes her fuckable.’，Callie 回 ‘Viragos not damsels.’，Eulalia 说 ‘I don’t like guys at the moment. I’m all about the divine feminine.’；Eulalia 说喜欢 Joan of Arc、Julian of Norwich、‘Batshit-crazy nuns’、‘Straight-up schizophrenia channelled into religious revelational energy’、‘God’s a woman. God’s a mother.’，并说 ‘That’s why I bought my house.’，然后提议边走边谈业务。",
+      "range": [7634, 8710],
+      "lines": "110–134"
+    },
+    {
+      "id": "E9",
+      "who_did_what": "走到 Millbank 长椅上，Eulalia 念手机：‘What I want from you is the thought behind a cohesive aesthetic…’ ‘I hate it but I’m a brand. We estimate that I have five years to make all the money I can… I’m going to get fabulously rich and then I’ll make my legacy works.’ Callie 问 ‘What exactly do you mean by creative work?’ 并继续记笔记（动作掩盖了 growing sense of inadequacy）。Eulalia 界定：服装、专辑封面与相关美术品、周边 merch、社交媒体帖子；品牌＝packaging、logos。厂牌之前做的是 neon latex 与 glitter，感觉 ‘chopped’，已给 Eulalia 两周另做方案。PCQV 全是 Mel 的主意（先谈成一串商业代言、把美学先卖给 PCQV，逼厂牌跟着走），现在做美妆线（lip oils、cream blushes），在高端百货与 Sephora 卖；Mel 处于谈判早期；下周要给品牌感觉做 pitch；PCQV 的 mock-up 是 soft and gentle pinks，而她是 violent-colour-riot、bright reds、oranges、anything flammable、unrealistically anachronistic、theatrical。",
+      "range": [9335, 11725],
+      "lines": "152–170"
+    },
+    {
+      "id": "E10",
+      "who_did_what": "Callie 猜 ‘Performance art meets Renaissance fayre?’，Eulalia 回 ‘Exactly.’ 并说看到花园里那段视频就想到 ‘that girl is like me… You’re an ancient soul trapped in the body of a hot thirty-yearold.’。Eulalia 问 ‘The guy in the cast, that was your boyfriend, right? What is he?’；Callie 答 ‘It’s his job. He’s a professional dragonslayer.’；Eulalia 问 ‘He rescues a lot of damsels?’，Callie 答 ‘Oh yeah, me included.’；Eulalia 问 ‘Did I read something about his family?’，Callie 答 ‘His dad is a baronet. He’s a Sir… Caius’s grandfather inherited it last year after the previous titleholder’s parentage came to light.’；Eulalia 说 ‘Maybe Lady. I like the assonance.’ 并记在手机上。",
+      "range": [11728, 13177],
+      "lines": "173–212"
+    },
+    {
+      "id": "E11",
+      "who_did_what": "威斯敏斯特教堂：Eulalia 先到售票亭，订了两张票外加 hefty guidebooks；Callie 付了 £70。Eulalia 说 ‘Invoice Mel for the tickets. I don’t have any money on me. Only my Oyster card.’；Callie 问 ‘Don’t you just tap in and out with your phone?’，Eulalia 说自己没 contactless，并说 ‘Retro. So Y2K.’。堂内 Eulalia 说 ‘Samuel Pepys was a creepy little fucker’（Callie 回 ‘What?’），并讲 Catherine of Valois 的陵墓失修、Pepys 掀开亲吻她嘴唇并写进日记；Eulalia 说 Elizabeth I ‘Such a baddie’，两人谈 ruffs（Callie 说政府想把 ruffs 变成国服，Eulalia 说 ‘They take up space.’，Callie 接 ‘True.’，Eulalia ‘I want to take up space.’）；Callie 在 Poets’ Corner 问 ‘Do you have a favourite?’，Eulalia 答 ‘The Brontës. I’m from Yorkshire.’",
+      "range": [13450, 15954],
+      "lines": "227–284"
+    },
+    {
+      "id": "E12",
+      "who_did_what": "离开教堂：Eulalia 说 ‘That was so fucking cool.’；Callie 努力不皱眉（她盯着门上的 Martin Luther King），觉得 Eulalia 轻佻的语气让她不舒服；Eulalia 挽住她手臂，几乎押着她走向 Westminster 站；Big Ben 敲整点。Callie 把话题拉回专业：‘How do you want to proceed?’；Eulalia 说 Mel 会把要给厂牌 pitch 的全部创意资产清单 emailed 给 Callie，mock-ups 太多但要 visual reference points、mood boards、influences 给产品设计团队，‘Let’s meet again this week before the presentation. We’ve got a short turnaround on this.’，然后拥抱 Callie 并说 ‘This was a great meeting, Cal. We’re going to work so well together.’；Callie 客气附和，看着她跑向 Embankment。",
+      "range": [16161, 17340],
+      "lines": "290–302"
+    },
+    {
+      "id": "E13",
+      "who_did_what": "Callie 进 Westminster 站地铁时想：她担心的不是咬下太多，而是会不会把自己噎死；Eulalia 大概是可爱的，创意人往往 intense、界限松、有未确诊的 ADHD；只要稍微保持距离，工作应该还行；她不打算被吸进去变成朋友；项目本身界定不清、周期短、她状态也不佳；她甩了甩头——她不会容忍朋友这样 nonsense，也不该容忍自己这样。",
+      "range": [17343, 18049],
+      "lines": "305"
+    }
+  ],
+  "relations": [
+    "Callie（Calliope）——受聘的品牌/美学顾问；本章第一次见 Eulalia 本人；用 Smythson 皮面笔记本（只在客户咨询时用，'lent her authority'）",
+    "Eulalia——女歌手/名人，品牌主；本章首次与 Callie 见面；雇 Callie 的人（通过 Mel 转达 pitch 清单）",
+    "Mel——Eulalia 的妹妹兼经纪人；'organises everything for me'；在 PCQV 商业谈判早期；管 Eulalia 的时间（3 p.m. 前回家）、给她做计划；与 Eulalia 长相有家族相似但无共同特征；不施粉黛、衣着老练昂贵",
+    "Caius——Callie 的男友，警察（'He's a police officer.'）；职业是 'professional dragonslayer'；家里有男爵头衔（His dad is a baronet / He's a Sir），祖父去年继承（'Caius's grandfather inherited it last year after the previous titleholder's parentage came to light'）；Callie 说若被知道会说 'He's a hero then' → 'Don't ever tell him that'",
+    "Max——Callie 的前任，两年前与她难捱时她买了那支 sheer russet 口红（只提及）",
+    "Nell——Saturday evening 用那种眼神看过 Caius 的人（只提及）",
+    "Callie 的母亲家族来自 Yorkshire 方向（'My mum's family are from out that way.'）",
+    "PCQV——法国奢侈品集团；Eulalia 品牌合作方；与厂牌形成对照",
+    "厂牌（label）——Eulalia 的唱片公司；给了她两周另提方案；之前做 neon latex 与 glitter，被 Mel 和 Eulalia 评为 'chopped'"
+  ],
+  "numbers_and_dates_verbatim": [
+    { "text": "‘somewhere awe-inspiring’", "range": [35, 789], "note": "Eulalia 改地点的理由" },
+    { "text": "five minutes early", "range": [792, 2156], "note": "Callie 早到五分钟" },
+    { "text": "a sheer russet she’d bought from Liberty’s when she’d been in a rough patch with Max two years ago", "range": [792, 2156], "note": "口红；两年前；Max" },
+    { "text": "a vintage 1950s compact mirror", "range": [792, 2156], "note": "化妆镜年代" },
+    { "text": "2XL men’s T-shirt", "range": [2306, 2930], "note": "Eulalia 的穿着" },
+    { "text": "‘unpredictable’, ‘female anger’ and ‘wild-eyed’", "range": [3642, 3979], "note": "Callie 记下的三词" },
+    { "text": "3 p.m. at the latest", "range": [6075, 6281], "note": "Mel 给 Eulalia 的回家时限" },
+    { "text": "a bunch of disgustingly cheap", "range": [3642, 3979], "note": "Callie 的 Smythson 笔记本（样品店买的）" },
+    { "text": "We estimate that I have five years to make all the money I can", "range": [9335, 9902], "note": "Eulalia 的赚钱期限" },
+    { "text": "They’ve given me two weeks to come up with a better alternative", "range": [10612, 10797], "note": "厂牌给的两周" },
+    { "text": "We need to pitch the brand feel to them next week", "range": [10867, 11725], "note": "下周 pitch" },
+    { "text": "hot thirty-year-old", "range": [11773, 12072], "note": "Eulalia 对 Callie 的形容" },
+    { "text": "Caius’s grandfather inherited it last year", "range": [12613, 13010], "note": "头衔继承时间" },
+    { "text": "They were at the front after twenty minutes", "range": [13450, 13813], "note": "排队二十分钟" },
+    { "text": "Callie paid the £70 with a smile on her face", "range": [13450, 13813], "note": "门票费" },
+    { "text": "ordered two tickets with additional hefty guidebooks", "range": [13450, 13813], "note": "Eulalia 点的票与导览册" },
+    { "text": "I’ve got to be back by 3 p.m.", "range": [6075, 6281], "note": "同 3 p.m." },
+    { "text": "a short turnaround on this", "range": [16738, 17226], "note": "Eulalia 说项目周期短" },
+    { "text": "twentieth-century martyrs above the door", "range": [15957, 16158], "note": "教堂门上的二十世纪殉道者" },
+    { "text": "Big Ben chimed the hour", "range": [16191, 16581], "note": "整点敲钟" }
+  ],
+  "key_who_asks_who_deflects": {
+    "notes": "本章问答方向（供 R4 施事核对用）",
+    "items": [
+      "Callie 提问：'Is it her air of unpredictability that you like?'（引出女人/男人宣言）",
+      "Callie 回避/回敬：'In my experience that depends on the man.'（对宣言的回应）",
+      "Callie 提问：'Do you like Millais?'",
+      "Callie 提问：'Too inactive?'",
+      "Callie 回击：'Viragos not damsels.'",
+      "Callie 提问：'Where in the North are you from?'",
+      "Callie 提问：'What exactly do you mean by creative work?'",
+      "Callie 提问：'Do you have a favourite?'（Poets' Corner）",
+      "Callie 提问：'How do you want to proceed?'（把话题拉回专业）",
+      "Eulalia 提问：'The guy in the cast, that was your boyfriend, right? What is he?'",
+      "Eulalia 提问：'He rescues a lot of damsels?'",
+      "Eulalia 提问：'Did I read something about his family?'",
+      "Eulalia 提问（对话另一侧）：'What?' 的回应是 Eulalia 解释 Pepys —— 即 'What?' 是 Callie 问的",
+      "Mel 提问：'Have you got your Oyster? Your phone in case I need to reach you.'（对 Eulalia）",
+      "Eulalia 回避处：'I’ve been feeling really lost.' 后立刻把 Mel 拉成挡箭牌并转而贬低 Mel"
+    ]
+  }
+}

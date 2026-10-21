@@ -1,0 +1,318 @@
+{
+  "chapter": 12,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/ch12 callie meets eulalia at tate.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch12_12.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Callie had initially been given an address in Primrose Hill for the meeting but Eulalia had decided that she wanted to m",
+          "ok": true,
+          "pos": 19
+        }
+      ]
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "‘Calliope, delighted to meet you at last.’ She held her hand out. Callie smiled at the barefaced young woman in front of",
+          "ok": true,
+          "pos": 2261
+        }
+      ]
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "‘I’m so excited to meet you,’ Eulalia said, taking her hand. Eulalia’s handshake was limp. She didn’t care for such form",
+          "ok": true,
+          "pos": 2883
+        }
+      ]
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘Women should be unpredictable. We already are. We have hormones that move us. We can grow life. Men are constants; they",
+          "ok": true,
+          "pos": 3341
+        }
+      ]
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘We all have our strengths,’ Callie said diplomatically. She looked up to see a woman staring at them from next to the p",
+          "ok": true,
+          "pos": 4510
+        }
+      ]
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "‘How could you tell?’ Eulalia had been trying her hardest to sound posh-like. Mel had advised her to so she’d be taken m",
+          "ok": true,
+          "pos": 6781
+        }
+      ]
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "‘Exactly. I knew you’d get it. As soon as I saw that video of you in that garden with that awful man trying to steal you",
+          "ok": true,
+          "pos": 11442
+        }
+      ]
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "‘Thank you so much. Invoice Mel for the tickets.’ Eulalia scrunched her nose up again. Callie realised that she did it w",
+          "ok": true,
+          "pos": 13390
+        }
+      ]
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "‘It was,’ Callie said, trying not to frown. She wasn’t a prude, she swore like a sailor at the best of times, but someth",
+          "ok": true,
+          "pos": 15671
+        }
+      ]
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "‘Mel said she’d email you a list of all the creative assets we need to pitch to the label. She said mock-ups are too muc",
+          "ok": true,
+          "pos": 16208
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 125,
+        "关键词": 0,
+        "为什么这样写": 102,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 94,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 116,
+        "关键词": 0,
+        "为什么这样写": 96,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 86,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 113,
+        "关键词": 0,
+        "为什么这样写": 97,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 114,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 126,
+        "关键词": 0,
+        "为什么这样写": 96,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.92
+      }
+    }
+  ],
+  "form": {
+    "h1": "12. Tate Britain",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 7.0,
+    "block_range": [
+      5,
+      10
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": []
+  }
+}
