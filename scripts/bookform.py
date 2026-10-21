@@ -224,6 +224,30 @@ def h1_shape(h1: str) -> str:
     return "N" + (m.group(2) or "") if m else "无编号"
 
 
+
+def split_keywords(kw: str) -> list[str]:
+    """按 `/ 、 , ；` 切分关键词，但**括号内的分隔符不切**，并丢掉纯中文注解残片。
+
+    2026-10-21 实证（finding-darla ch03 / nine-perfect-strangers ch26）：
+    `paati（祖母，Tamil）` 被切成 `paati（祖母` + `Tamil）`，后半段变成「关键词不成立」——
+    这是**工具假红**，不是内容缺陷；全库 2,232 个文件、5,874 处注解都带这种括号分隔符。
+    """
+    out, buf, depth = [], [], 0
+    for ch in kw:
+        if ch in "（(":
+            depth += 1
+        elif ch in "）)":
+            depth = max(0, depth - 1)
+        if depth == 0 and ch in "/、,，;；":
+            out.append("".join(buf))
+            buf = []
+        else:
+            buf.append(ch)
+    out.append("".join(buf))
+    items = [w.strip() for w in out if w.strip()]
+    latin = [w for w in items if re.search(r"[A-Za-z]", w)]
+    return latin or items   # 全是中文时原样返回，交给 kw_problems 报出来（不静默放行）
+
 def kw_problems(kw: str, quote: str, why: str, corpus: str = "") -> list[str]:
     """关键词是否成立：去掉中文注解 → 整串命中引语 → 逐实词命中（容许词形变化）
     → 退而求其次，允许是「为什么这样写」里呼应的语境延伸词（AGENTS 9b）。"""
@@ -364,7 +388,7 @@ def check_chapter(book: Path, md: Path, form: dict | None = None) -> dict:
         for k, v in b["subs"].items():
             if has_empty_quote_span(v):
                 empty_quote.append(f"{name}/{k}（分析里残留空引号）")
-        kws = [w.strip() for w in re.split(r"[/、,，;；]", b["subs"].get("关键词", "")) if w.strip()]
+        kws = split_keywords(b["subs"].get("关键词", ""))
         why = b["subs"].get("为什么这样写", "")
         bad_kw = []
         for k in kws:
@@ -399,7 +423,7 @@ def check_chapter(book: Path, md: Path, form: dict | None = None) -> dict:
                 if sents.count(top) >= REPEAT_SENTENCE_MIN:
                     tpl_bad.append({"block": name, "field": k,
                                     "pattern": f"同一句重复 {sents.count(top)} 次"})
-        for k in [w.strip() for w in re.split(r"[/、,，;；]", b["subs"].get("关键词", "")) if w.strip()]:
+        for k in split_keywords(b["subs"].get("关键词", "")):
             if len(k.split()) > KEYWORD_MAX_WORDS:
                 kw_long.append({"block": name, "kw": k[:60], "words": len(k.split())})
 
