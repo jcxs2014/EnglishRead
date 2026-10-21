@@ -59,6 +59,19 @@ DEFAULT_NAV_ITEMS = ["一句话概括", "情感弧线位置", "人物弧线", "�
 # 而 19 个 lane 全绿——长度这一层当时**没有任何探针**，只能靠人读到第 40 页才发现。
 LONG_QUOTE_WORDS = 100
 
+# 模板套话：分析字段里出现这些串 = 「写了但没写」（2026-10-21 ebenezer-scrooge 实证：
+# beam-free 模型 33 分钟写 40 章，中文理解抄英文原文、为什么这样写套「把 X 重新定义 as Y, not Z」696 次）。
+# 判据是**退化特征**不是文风偏好：这些串只在模板循环产出里成片出现，正常精读里几乎不可能出现。
+TEMPLATE_PATTERNS = (
+    "重新定义 as",
+    "本句描写了场景与人物的反应",
+    "此句通过修辞与节奏把人物的内心状态外化",
+    "把场景重新定义为",
+    "为后续情节的转折埋下伏笔，保证",
+)
+REPEAT_SENTENCE_MIN = 3      # 同一字段里同一句重复 ≥3 次 → 模板循环
+KEYWORD_MAX_WORDS = 8        # 单个关键词超过 8 个词 = 整句照抄（提示型）
+
 # —— 体裁 profile（2026-10-20 立，用户拍板「按体裁给结构约束；短篇合集没有总览」）——
 # 结构约束的**唯一定义处**是 docs/rules/genre-profiles.json；本文件只读它、不再自带一套。
 # 为什么不在代码里写死：文档的体裁表与代码的默认值已经分叉过一次——体裁表写言情 4 子项，
@@ -363,6 +376,25 @@ def check_chapter(book: Path, md: Path, form: dict | None = None) -> dict:
                               "cjk": {k: cjk_count(v) for k, v in b["subs"].items()},
                               "cjk_ratio": {k: round(cjk_ratio(v), 2) for k, v in b["subs"].items()}})
 
+    tpl_bad, kw_long = [], []
+    for b in d["blocks"]:
+        if b["quote_no"] is None:
+            continue
+        name = b["header"] or f"原句{b['quote_no']}"
+        for k, v in b["subs"].items():
+            for pat in TEMPLATE_PATTERNS:
+                if pat in v:
+                    tpl_bad.append({"block": name, "field": k, "pattern": pat})
+            sents = [x.strip() for x in re.split(r"[。！？]", v) if len(x.strip()) >= 12]
+            if sents:
+                top = max(set(sents), key=sents.count)
+                if sents.count(top) >= REPEAT_SENTENCE_MIN:
+                    tpl_bad.append({"block": name, "field": k,
+                                    "pattern": f"同一句重复 {sents.count(top)} 次"})
+        for k in [w.strip() for w in re.split(r"[/、,，;；]", b["subs"].get("关键词", "")) if w.strip()]:
+            if len(k.split()) > KEYWORD_MAX_WORDS:
+                kw_long.append({"block": name, "kw": k[:60], "words": len(k.split())})
+
     nav_n = len(d["nav"])
     res["form"] = {
         "h1": d["h1"],
@@ -384,10 +416,12 @@ def check_chapter(book: Path, md: Path, form: dict | None = None) -> dict:
                      "segments": sum(len(q["segments"]) for q in res["quotes"]),
                      "segment_miss": miss, "struct_bad": len(struct_bad),
                      "empty_quote": len(empty_quote), "keyword_bad": len(kw_bad),
-                     "cjk_low": len(cjk_bad)}
+                     "cjk_low": len(cjk_bad), "template": len(tpl_bad),
+                     "keyword_long": len(kw_long)}
     res["issues"] = {"struct": struct_bad, "empty_quote": empty_quote,
-                     "keyword": kw_bad, "cjk": cjk_bad, "quote_long": long_q}
-    blocked = miss or struct_bad or empty_quote or kw_bad or cjk_bad
+                     "keyword": kw_bad, "cjk": cjk_bad, "quote_long": long_q,
+                     "template": tpl_bad, "keyword_long": kw_long}
+    blocked = miss or struct_bad or empty_quote or kw_bad or cjk_bad or tpl_bad
     res["verdict"] = "blocked" if blocked else "ok"
     return res
 
@@ -502,7 +536,7 @@ def print_check(r: dict) -> None:
             if not s["ok"]:
                 print(f"    ❌ {q['block']}：{s['text']}")
     print("\n【对应】")
-    print(f"  空引号 {c['empty_quote']}｜子项缺 {c['struct_bad']}｜关键词不成立 {c['keyword_bad']}｜中文过薄 {c['cjk_low']}")
+    print(f"  空引号 {c['empty_quote']}｜子项缺 {c['struct_bad']}｜关键词不成立 {c['keyword_bad']}｜中文过薄 {c['cjk_low']}｜模板套话 {c['template']}")
     long_q = r["issues"].get("quote_long") or []
     if long_q:
         ex = "；".join(f"{x['block']}（{x['words']} 词）" for x in long_q[:5])
@@ -518,6 +552,15 @@ def print_check(r: dict) -> None:
         print(f"    ❌ 关键词：{e['block']} → {e['bad']}")
     for e in r["issues"]["cjk"]:
         print(f"    ❌ 中文过薄：{e['block']} / {e['field']} 仅 {e['cjk']} 字（中文占比 {e['ratio']:.0%}）")
+    tpl = r["issues"].get("template") or []
+    if tpl:
+        for e in tpl[:5]:
+            print(f"    ❌ 模板套话：{e['block']} / {e['field']} → 「{e['pattern']}」")
+        if len(tpl) > 5:
+            print(f"    … 另有 {len(tpl) - 5} 处")
+    kwl = r["issues"].get("keyword_long") or []
+    if kwl:
+        print(f"  ⚠️ 关键词整句 {len(kwl)} 处（建议 3–5 个词；整句照抄＝没选词）")
     print("\n【形态】")
     f = r["form"]
     print(f"  H1 {'✅' if f['h1_shape_ok'] else '⚠️ 与本书众数不同'}：{f['h1']}")
@@ -551,7 +594,7 @@ def check_all(book: Path, as_json: bool = False) -> int:
     form = book_form(book)                 # 只算一次众数
     rows = [check_chapter(book, md, form) for md in mds]
 
-    empty_ch, form_ch, und, long_ch = [], [], [], []
+    empty_ch, form_ch, und, long_ch, tpl_ch = [], [], [], [], []
     for r in rows:
         no = r["chapter"]
         if r["verdict"] == "undecidable":
@@ -560,6 +603,9 @@ def check_all(book: Path, as_json: bool = False) -> int:
         n_empty = len(r["issues"]["empty_quote"])
         if n_empty:
             empty_ch.append((no, n_empty))
+        n_tpl = r["counts"].get("template", 0)
+        if n_tpl:
+            tpl_ch.append((no, n_tpl))
         n_long = r["counts"].get("quote_long", 0)
         if n_long:
             long_ch.append((no, n_long))
@@ -589,6 +635,7 @@ def check_all(book: Path, as_json: bool = False) -> int:
     if as_json:
         print(json.dumps({"book": str(book), "chapters": len(rows),
                           "empty_quote": [{"ch": n, "n": k} for n, k in empty_ch],
+                          "template": [{"ch": n, "n": k} for n, k in tpl_ch],
                           "form_deviation": [{"ch": n, "dev": d} for n, d in form_ch],
                           "undecidable": [{"ch": r["chapter"], "reason": r["reason"]} for r in und],
                           "overview": ov_msg, "profile": genre_of(book)},
@@ -597,6 +644,8 @@ def check_all(book: Path, as_json: bool = False) -> int:
         print(f"  整书体检 {len(rows)} 章（与 `chapter.sh` 同一实现；只报其他 lane 不查的维度）")
         for no, k in empty_ch:
             print(f"  ❌ ch{no:02d}：分析层残留空引号 {k} 处（删英文引语没删引号，写成 `\"\"`）")
+        for no, k in tpl_ch:
+            print(f"  ❌ ch{no:02d}：模板套话 {k} 处（分析字段是模板循环，不是分析——见 docs/rules/创建卡.md §3）")
         for no, dev in form_ch:
             print(f"  ❌ ch{no:02d}：" + "；".join(dev))
         for r in und:
@@ -608,9 +657,9 @@ def check_all(book: Path, as_json: bool = False) -> int:
             print(f"  ⚠️ 引语偏长（提示型，不判红）：{len(long_ch)} 章有块 >{LONG_QUOTE_WORDS} 词 —— "
                   + "、".join(f"ch{no:02d} {n} 块" for no, n in worst)
                   + (f" 等 {len(long_ch)} 章" if len(long_ch) > 5 else ""))
-        print(f"  汇总：空引号 {len(empty_ch)} 章 ｜ 形态偏离 {len(form_ch)} 章 ｜ 无法判定 {len(und)} 章"
+        print(f"  汇总：空引号 {len(empty_ch)} 章 ｜ 模板套话 {len(tpl_ch)} 章 ｜ 形态偏离 {len(form_ch)} 章 ｜ 无法判定 {len(und)} 章"
               f"（引语/子项/关键词/中文密度另有 lane，本项不重复计）")
-    bad = bool(empty_ch or form_ch)
+    bad = bool(empty_ch or form_ch or tpl_ch)
     return 1 if bad else (2 if und else 0)
 
 
