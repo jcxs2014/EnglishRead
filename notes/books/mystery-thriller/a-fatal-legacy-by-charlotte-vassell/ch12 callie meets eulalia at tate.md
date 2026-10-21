@@ -76,7 +76,7 @@ source_text: ch12
 
 **中文理解**：卡莉嘴上说“是很棒”，却忍不住要皱眉。她并不是假正经的人，平常脏话张口就来，可欧拉莉亚那种轻佻的调子还是刺到了她——她正抬头看着墙上马丁·路德·金的画像。欧拉莉亚挽起她的胳膊，几乎是押着她走向威斯敏斯特车站；两人在议会大楼前的红绿灯边停下，大本钟敲响了整点。
 **关键词**：prude / flippant / rankled
-**为什么这样写**：整章的客气到这一句第一次出现裂纹：卡莉不介意说脏话，却介意对方谈论马丁·路德·金时的轻率——两者并不矛盾，因为她的反感来自场合的分量，不是用词的分量。挽着胳膊“押送”式地走，又把亲昵与强势拧在一起。
+**为什么这样写**：整章的客气到这一句第一次出现裂纹：卡莉不介意说脏话，却介意欧拉莉亚那种轻佻的调子——刺到她的同时，她自己正抬头看着马丁·路德·金；两者并不矛盾，因为她的反感来自场合的分量，不是用词的分量。挽着胳膊“押送”式地走，又把亲昵与强势拧在一起。
 **读者视角提示**：注意墙上的是谁——在一个刚刚对死去的王后讲下流话、对烈士画像满不在乎的人面前，这个细节是作者落下的硬判断。
 
 > **原句 10:** "‘Mel said she’d email you a list of all the creative assets we need to pitch to the label. She said mock-ups are too much but definitely visual reference points. Something about mood boards, influences – something to give to their product design team. Let’s meet again this week before the presentation. We’ve got a short turnaround on this.’ Eulalia hugged Callie. Callie hugged her back but was keen to release her. ‘This was a great meeting, Cal. We’re going to work so well together.’"
