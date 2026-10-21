@@ -8,15 +8,15 @@ source_text: ch26
 
 ## 本章导航
 
-**一句话概括**：本章全篇没有出现 Scrooge，而是切进伦敦一间叫 The Jolly Boaters 的酒馆后厅：吧台女工 Emilia Hare 白天黑夜都在这儿干活，早已恨透了自己的人生——恨母亲让她来、恨父亲从不出声、恨老板 Bill Crickmore、恨那群酒客、恨那些动手动脚的老头和木讷的同龄人；她唯一不恨的人是她朋友 Archie Beck（Mr Archie Beck），此人高个、深发、清瘦，平日温和体面，那天下午却步履踉跄、衣衫不整、一脸未睡之相地撞进吧台，喊出「Miss Hare!」；他说自己「opened a door which I may not be able to close again」，说脑子里有个死人的声音——一个叫 Marley 的人——不肯让他休息、不许他做别的事，只许他照那意愿行事；她给他一杯深色旋涡般的酒压惊，他随即说这东西「does seem to quieten him down」，连盐都挡不住 Marley 多久；他想开口又收回去，只说「it wouldn’t be right. It wouldn’t be fair」；随后 Crickmore 叫她去换酒桶，她回头看见 Beck 独坐吧台、面带难忍的焦虑，再回地窖时，吧台已空，人已不见，她望着那把空椅子生出焦虑的悲伤，仿佛早已知道将要发生的那桩可怕事。
+**一句话概括**：本章全篇写的是伦敦一间叫 The Jolly Boaters 的酒馆后厅：吧台女工 Emilia Hare 白天黑夜都在这儿干活，早已恨透了自己的人生——恨母亲让她来、恨父亲从不出声、恨老板 Bill Crickmore、恨那群酒客、恨那些动手动脚的老头和木讷的同龄人；她唯一不恨的人是她朋友 Archie Beck（Mr Archie Beck），此人高个、深发、清瘦，平日温和体面，那天下午却步履踉跄、衣衫不整、一脸未睡之相地撞进吧台，喊出「Miss Hare!」；他说自己「opened a door which I may not be able to close again」，说脑子里有个死人的声音——一个叫 Marley 的人——不肯让他休息、不许他做别的事，只许他照那意愿行事；她给他一杯深色旋涡般的酒压惊，他随即说这东西「does seem to quieten him down」，连盐都挡不住 Marley 多久；他想开口又收回去，只说「it wouldn’t be right. It wouldn’t be fair」；随后 Crickmore 叫她去换酒桶，她回头看见 Beck 独坐吧台、面带难忍的焦虑，再回地窖时，吧台已空，人已不见，她望着那把空椅子生出焦虑的悲伤，仿佛早已知道将要发生的那桩可怕事。
 
-**情感弧线位置**：本章情绪走的是「厌恶—微光—崩塌—压抑—不安」的下坠线。前两块用大段厌恶清单把 Emilia 的生活压到底，「唯一的例外」才第一次露出一点暖；第三、四块是这暖意被 Beck 的醉态冲散的一瞬；第五到第九块是灾难实感：血丝眼睛、Marley 的声音、被称作伦敦最负盛名的年轻灵媒却已被附体；第十块收在空椅子与「anxious sadness」上，暖与恐惧同时退场，只留下预知。
+**情感弧线位置**：本章情绪走的是「厌恶—微光—崩塌—压抑—不安」的下坠线。前两块用大段厌恶清单把 Emilia 的生活压到底，「唯一的例外」才第一次露出一点暖；第三、四块是这暖意被 Beck 的醉态冲散的一瞬；第五到第九块是灾难实感：血丝眼睛、脑子里那个 Marley 的声音、被称为伦敦最负盛名的年轻灵媒却对着酒瓶求救；第十块收在空椅子与「anxious sadness」上，暖与恐惧同时退场，只留下预知。
 
-**Tropes 兑现/反转**：兑现全书灵媒线——上一章 Halvorsen 的「portable haunting」在本章有了第二种形态：不是跟在身后的瘦小身影，而是住进脑子里的声音。反转有四：其一，把「portable haunting」的受害者从 Scrooge 转到无名海员 Halvorsen 身上；其二，「portable」在此不是携带，而是占有——东西被装进了 Beck 的意识里；其三，Emilia 以为 Beck 只是喝多了，她准备的是酒；结果压住 Marley 的正是酒；其四，读者以为她会被卷进灵异事件，实际她是全章唯一清醒、也是唯一提前预感的人。
+**Tropes 兑现/反转**：兑现「灵异附身」这一全书母题在本章的一种新形态：不是跟在人身后、被人看见的灵体，而是住进脑子里的声音。反转有四：其一，全章前半是彻头彻尾的写实——酒馆、醉汉、老板娘、换酒桶的杂活，直到 Beck 说出「a dead man, called Marley」为止；其二，被附身的人不是本章的视角人物——出事的是来喝酒的 Beck，留在安全处的是 Emilia；其三，Emilia 以为 Beck 只是喝多了，她端上去的是酒；结果压住 Marley 的也正是酒——灵异的解药与醉汉的解药是同一样东西；其四，读者以为她会被卷进灵异事件，实际她是全章唯一清醒、也是唯一提前预感的人。
 
-**人物弧线**：Emilia Hare 是本书此前未出现的配角，本章一次完成她的全部弧线：从「pantheon of irritants」中唯一的例外（Archie），到被 Marley 的故事激活，再到最后独自坐在空椅子前的清醒旁观者。她对 Beck 的关切带有现实主义色彩——先担心老板，再担心他的声誉（「it wouldn’t be right. It wouldn’t be fair」），这与 Scrooge 对「未见过的灵界」的态度形成对照。Archie Beck 本章从第八章那位「最负盛名的年轻灵媒」跌成一个被 Marley 支配的醉汉，他自己说「This is not the first drink that I have taken today」，一句就把宿醉与末日搅在一起。
+**人物弧线**：Emilia Hare 是本章唯一贯穿始终的视角人物，一次就交代完她的全部处境：从「pantheon of irritants」中唯一的例外（Archie），到被 Marley 的故事激活，再到结尾独自面对空椅子的清醒旁观者。她对 Beck 的关切是现实主义的——先担心老板会不会把醉汉赶出去（她检查了两次 Crickmore 没看见），再想听完整件事，最后因为换酒桶而被迫离开；这一连串现实的顾虑，反衬出 Beck 讲的那件事有多不现实。Archie Beck 则在本章从一位体面人物跌成被 Marley 支配的醉汉：作者先给足他的优点（tall, dark-haired, slim, decidedly good-looking、gentle way、perception），再一句「none of this was visible in him that afternoon」全部推翻；他自称「This is not the first drink that I have taken today」，一句就把宿醉与末日搅在一起。
 
-**叙事手法**：本章是一次彻底的视角切换与倒叙铺垫：场景从 Scrooge 移到一个下层酒馆，用第三方（Emilia 的眼睛）记录一场读者本可不在场的对话，最后以「dreadful act which he was about to commit」把下一章的罪案提前挂在读者眼前。手法上有三处刻意：一是全篇用第三人称限知贴着 Emilia 走，读者只知道她看见的、听见的；二是作者大量用逗号串接的长名单（酒客、老头、同龄人）模拟她怨怒的呼吸节奏，再用「like wasps to buttered toast on a summer’s afternoon」这样荒诞的比喻把怒气泄掉；三是结尾让叙述者借一句「as though she somehow knew」替人物担保直觉，把不可验证的预感写成叙事事实。
+**叙事手法**：本章是一次彻底的视角切换：全篇只用一个第三方（Emilia 的眼睛）记录一场读者本可不在场的对话，结尾再以「dreadful act which he was about to commit」把一桩尚未发生的罪案挂在读者眼前。手法上有三处刻意：一是全篇用第三人称限知贴着 Emilia 走，读者只知道她看见的、听见的；二是作者大量用逗号串接的长名单（酒客、老头、同龄人）模拟她怨怒的呼吸节奏，再用「like wasps to buttered toast on a summer’s afternoon」这样荒诞的比喻把怒气泄掉；三是结尾让叙述者借一句「as though she somehow knew」替人物担保直觉，把不可验证的预感写成叙事事实。
 
 ## 精读
 
@@ -68,7 +68,7 @@ source_text: ch26
 
 **为什么这样写**：名字先于介绍出现，说明两人熟到不必称姓；而「as softly as she could」把她的第一反应写成替人遮掩——她怕的是被人听见，不是怕他。那个比喻选得很重：溺水者抓浮木是拼命的，而「much in the manner of」又留了余地，只说姿态像，作者并不确认他此刻真的快淹死了。随后作者先给一个可验证的生理细节（血丝），再用一个比喻把它放大成世界观级别的灾变：噩梦与现实完全相同，也就是他分不清哪边是真的。
 
-**读者视角提示**：他描述的那种「醒来发现世界和梦里一样」的状态，与前一章的「portable haunting」是同一件事的两种说法。
+**读者视角提示**：他描述的那种「醒来发现世界和梦里一样」的状态，不是比喻——作者把它写成一个可以对照真实世界的状态。
 
 > **原句 6:** "“I think that I have opened a door which I may not be able to close again.” … “Tell me,” said Miss Hare, her heart beating with an excitement she hadn’t known for many months, “tell me everything.”"
 
@@ -88,7 +88,7 @@ source_text: ch26
 
 **为什么这样写**：这是全书灵异设定的第一次由当事人亲口说出，而作者把它拆成两句递进的「不让」：先是不让他休息，再是不许他做别的。第二句还把主语换了——「what he wishes」里的「he」指的是那个声音，命令来自死人。名字放在最后几个词才落下，而前面先用「a voice」把它降格成无名的噪音，形成先物后名的顺序。作者紧接着才点破此人身份，而这身份与上一句的惨状形成刺目反差：一个「most celebrated」的灵媒，此刻唯一能做的事是抓过一杯酒狂灌。
 
-**读者视角提示**：这个 Marley 就是被 Scrooge 放走的那个 Marley——他还回来找替身了。
+**读者视角提示**：注意作者给 Marley 的唯一信息是「a dead man」——一个死人；此前读者对这个名字的所有旧印象，在这一句里全被勾了起来。
 
 > **原句 8:** "“But it seems…” he said. “You are right. It does seem to quieten him down. Nothing else has any effect on him. Even the salt didn’t keep him out for long.” … “I wish I could,” he said. “But it wouldn’t be right. It wouldn’t be fair.” … He took another swig of his drink and then seemed suddenly very far away, as though he heard some other voice which she could not make out."
 
@@ -96,7 +96,7 @@ source_text: ch26
 
 **关键词**：quieten him down / Nothing else has any effect / Even the salt / it wouldn’t be fair / suddenly very far away / another swig of his drink
 
-**为什么这样写**：Beck 先承认她判断对（他确实已经喝多了），再把话锋一转谈药效：用酒压 Marley，用盐挡 Marley——盐在这里成了逐灵的民间办法，说明他一直在自救。整段的关键词是「Nothing else」，一句就把除酒以外的所有手段都否掉了；而「didn’t keep him out for long」把希望掐在摇篮里：有效，但只是暂时。随后他说想说而没说，理由不是害怕，是「公平」——这两句里他谈的对象始终缺席，作者不点名，但读者知道他说的是那位活人。最后「seemed suddenly very far away」形容一个人坐在你对面却不在这儿，把失神写得比任何心理学描述都准，而「could not make out」把 Emilia 划在了知情范围之外。
+**为什么这样写**：Beck 先承认她判断对（他确实已经喝多了），再把话锋一转谈药效：用酒压 Marley，用盐挡 Marley——盐在这里成了逐灵的民间办法，说明他一直在自救。整段的关键词是「Nothing else」，一句就把除酒以外的所有手段都否掉了；而「didn’t keep him out for long」把希望掐在摇篮里：有效，但只是暂时。随后他说想说而没说，理由不是害怕，是「公平」——这两句里他谈的对象始终缺席：作者不点名，只留下一个「对某人不公平」的判断，读者因此知道这不只是他一个人的事。最后「seemed suddenly very far away」形容一个人坐在你对面却不在这儿，把失神写得比任何心理学描述都准，而「could not make out」把 Emilia 划在了知情范围之外。
 
 **读者视角提示**：那一刻她听见的和他听见的不在同一个声场里。
 
@@ -152,4 +152,6 @@ source_text: ch26
 | to quieten down | 安静下来 | “But it seems…” he said. “You are right. It does seem to quieten him down. Nothing else has any effect on him. Even the salt didn’t keep him out for long.” |
 | Mr Beck gone | Beck 已经走了 | When she returned from the cellar, having watched a perspiring Mr Crickmore change the barrel, it was to find the bar empty and Mr Beck gone. |
 
-## 一句话总结**：本章从 Scrooge 身上移开，落到一间叫 The Jolly Boaters 的酒馆吧台上：女工 Emilia Hare「had grown to hate her life, and everyone in it, with a passion」，恨母亲、恨父亲、恨老板 Bill Crickmore、恨那些「leered and tried to paw at her」的老头与「looked at her like sheep」的同龄人，而她唯一的例外是「but one exception to this pantheon of irritants」——高个深发、清瘦英俊的 Archie Beck；可他「a little after noon」蹒跚进店，「swaying on his feet」、「ragged, unkempt」、眼白布满血丝，「he seemed to be a man on the very edge of some catastrophe」；他说「I think that I have opened a door which I may not be able to close again」，脑子里有个「A voice in my head」——一个「a dead man, called Marley」——不肯让他休息、不许他做任何不遂其意的事；酒能「quieten him down」而「Even the salt didn’t keep him out for long」，他想开口却收回去：「it wouldn’t be right. It wouldn’t be fair」；她被老板叫去换酒桶，回过神时「the bar empty and Mr Beck gone」，面对「the empty chair where he had sat just minutes before」她「felt an anxious sadness, as though she somehow knew the dreadful act which he was about to commit」。
+## 一句话总结
+
+本章全篇只有一家叫 The Jolly Boaters 的酒馆吧台上：女工 Emilia Hare「had grown to hate her life, and everyone in it, with a passion」，恨母亲、恨父亲、恨老板 Bill Crickmore、恨那些「leered and tried to paw at her」的老头与「looked at her like sheep」的同龄人，而她唯一的例外是「but one exception to this pantheon of irritants」——高个深发、清瘦英俊的 Archie Beck；可他「a little after noon」蹒跚进店，「swaying on his feet」、「ragged, unkempt」、眼白布满血丝，「he seemed to be a man on the very edge of some catastrophe」；他说「I think that I have opened a door which I may not be able to close again」，脑子里有个「A voice in my head」——一个「a dead man, called Marley」——不肯让他休息、不许他做任何不遂其意的事；酒能「quieten him down」而「Even the salt didn’t keep him out for long」，他想开口却收回去：「it wouldn’t be right. It wouldn’t be fair」；她被老板叫去换酒桶，回过神时「the bar empty and Mr Beck gone」，面对「the empty chair where he had sat just minutes before」她「felt an anxious sadness, as though she somehow knew the dreadful act which he was about to commit」。

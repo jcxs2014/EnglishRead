@@ -24,7 +24,7 @@ source_text: ch27
 
 **中文理解**：在那个最不平常的平安夜过去之后的多年里，Ebenezer 渐渐习惯了生活中这样一种东西——不妨称之为一种仁慈的巧合。自从他转变之后，这类事就成了常事：他常常在恰当的时刻遇上一个恰当的陌生人，恰好站在恰当的位置上，能对另一个人做些长久的善事，甚至还能听见什么高兴的消息或好话。
 
-**关键词**：a kind of benevolent coincidence / Since his change / the right stranger at the right time / to work in the service of the light
+**关键词**：a kind of benevolent coincidence / Since his change / a common occurrence
 
 **为什么这样写**：作者先用“仁慈的巧合”给全章定调——这不是奇迹，而是一种被改造之后才有的日常机制，一句就解释了为什么此刻会有人喊住他。“在恰当的时刻遇上一个恰当的陌生人”把两个恰当并置，读来像谚语，也像命运的语法。而“为光效力只会带来光”这一句把善行说成一种自我增益的道义，替后面所有偶遇提供了正当性。
 
@@ -44,7 +44,7 @@ source_text: ch27
 
 **中文理解**：他偶尔还能碰上一些开心的事或好话。他还发现，仁慈会生出仁慈，而为光明效力只会带回光明。
 
-**关键词**：happy news or good opinion / Kindness, he had discovered, begat kindness / to work in the service of the light / brought only illumination
+**关键词**：the right stranger at the right time / happy news or good opinion / Kindness, he had discovered, begat kindness / to work in the service of the light
 
 **为什么这样写**：这一块把上一块的冷色调彻底翻转，而且用的是一个近乎格言的对称句式：善生善，光生光——两个分句用同一个动词结构搭起来，像谚语，像祷词。而“只会”这一限定把话说死了：没有例外，也没有代价，正是全书对 Scrooge 转变后状态的最高评价。
 
@@ -74,7 +74,7 @@ source_text: ch27
 
 **中文理解**：“Scrooge 先生，真是个惊喜。”他说，“我远远一看就知道是您——到哪儿我都认得出！我就想过来跟您道声好，再看看您昨晚过后是不是完全恢复了。”“见到你真好，Barwood 先生。”Scrooge 说——这至少有一半是真话，因为他此刻实在没有心情做客套的社交往来，“不过你说问我是否恢复了，是什么意思？”
 
-**关键词**：what a pleasant surprise / I’d know you anywhere / to be quite recovered / at least a partial truth / no particular mood for the trading of polite conversation
+**关键词**：what a pleasant surprise / I’d know you anywhere / that you are quite recovered / at least a partial truth / no particular mood for the trading of polite conversation
 
 **为什么这样写**：这一段是全书少有的明亮语调，Barwood 那句“我到哪儿都认得出你”带着老仆人的亲热，而 Scrooge 的回应却立刻降温：他自认只有“一半是真话”，并说明自己无意交换客套话。两句合起来给出人物现状：Scrooge 学会了接受善意，却仍不习惯寒暄；Barwood 则比主人更早察觉昨夜出了事。
 
@@ -134,7 +134,7 @@ source_text: ch27
 
 **中文理解**：Ebenezer 停住了脚。他回头看着管家。“是的，Barwood 先生，就是它。你怎么会知道？”“昨晚那名字是 Beck 先生一直念的，先生，就在我把他塞进马车的时候。那个名字他翻来覆去地念，而且带着一种可怕的津津有味。”他停了一下，像是不确定该不该再多说。最后他说道：“先生，您会当心的吧？要是您真去那儿的话。您会小心的，对吧？”
 
-**关键词**：Ebenezer stopped / how did you know that / a name he was saying over and over / an awful kind of relish / You’ll be careful, Mr Scrooge, sir / You’ll watch your step
+**关键词**：Ebenezer stopped / how did you know that / a name he was saying over and over / an awful kind of relish / as I bundled him into that cab
 
 **为什么这样写**：这一段是全书最漂亮的一次“信息反转”：Starningham 这个名字不是 Scrooge 说出来的，而是 Beck 昨夜反复念出来的——于是上一章那个把狗解释为天意的鳏夫，忽然被另一个名字取代了。「带着一种可怕的津津有味」尤其阴冷：不是恐惧，是回味。Barwood 的两次叮嘱都用了同一个祈使结构，第二次几乎是在求他。
 
@@ -144,7 +144,7 @@ source_text: ch27
 
 **中文理解**：“Barwood 先生，你为什么说这种话？”“说不上来，先生。”管家说，“我想大概没什么事。可不知怎么，我总觉得非说不可。”说完他转身，融回了伦敦的人流里，而 Scrooge——心里带着不安——继续往前走。
 
-**关键词**：Why do you say such a thing / Not sure, sir / I expect it’s nothing / somehow I felt I had to say it / melted back into the London crowds / troubled
+**关键词**：Why do you say such a thing / You’ll be careful / You’ll watch your step / somehow I felt I had to say it / melted back into the London crowds / troubled
 
 **为什么这样写**：全章最后一句用两个短促的收束：管家把自己刚刚给出的警告降级为“说不上来”，等于把警告本身撤回；但“总觉得非说不可”又把它钉在原地——他自己都不知道为什么，但身体比脑子更早嗅到危险。结尾“融回了人群”与“心里带着不安地往前走”一刚一柔，两个方向同时走，把 Scrooge 送进下一章的旅程。
 
@@ -157,7 +157,7 @@ source_text: ch27
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | a kind of benevolent coincidence | 一种仁慈的巧合 | a kind of benevolent coincidence |
-| to work in the service of the light | 为光明效力 | to work in the service of the light |
+| to work in the service of the light | 为光明效力 | and to work in the service of the light brought only illumination. |
 | the squeezing of money from the poor | 从穷苦人身上榨取钱财 | his success in the squeezing of money from the poor and the unfortunate |
 | an awful kind of relish | 一种可怕的津津有味 | And with an awful kind of relish, too. |
 | oddly disconsolate | 出奇地失落 | seeming oddly disconsolate at the news |
@@ -176,12 +176,14 @@ source_text: ch27
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| the right stranger at the right time | 恰当时刻的恰当陌生人 | the right stranger at the right time |
+| the right stranger at the right time | 恰当时刻的恰当陌生人 | Often he would encounter the right stranger at the right time, be in the right place to be able to do some lasting good to another |
 | to watch your step | 当心脚下 | You’ll watch your step? |
 | a familiar figure | 一个熟悉的身影 | the familiar figure of Mr Barwood |
 | to wave energetically | 用力挥手 | He waved energetically once again |
 | somewhat disconsolate | 有些失落 | oddly disconsolate |
 
-## 一句话总结**：镜头从墓园回到伦敦街头：Scrooge 走回 Club 的路上被 Talbot 府总管 Barwood 隔街叫住——这位平日“solid and rather sombre”的管家今天“all movement and agitation”，横穿车流赶来确认他昨夜受惊后是否“quite recovered”；Barwood 说 Beck 昨夜“in a bad way”，对自己所做的事“looked appalled”，还“a little afraid”，像“a felon on the loose”般四下张望，Scrooge 则推说制造震动是对方的“stock-in-trade”；他说要回 Club 并“travel at once to the country”，被问是不是去“Starningham”时脚步一顿——原来 Beck 昨夜被扶上马车时一直“over and over”念着这个名字，还“with an awful kind of relish”；Barwood 临别叮嘱他会当心，理由却是“Not sure, sir”“somehow I felt I had to say it”，随即“melted back into the London crowds”，只留 Scrooge“troubled”前行。
+## 一句话总结
+
+镜头从墓园回到伦敦街头：Scrooge 走回 Club 的路上被 Talbot 府总管 Barwood 隔街叫住——这位平日“solid and rather sombre”的管家今天“all movement and agitation”，横穿车流赶来确认他昨夜受惊后是否“quite recovered”；Barwood 说 Beck 昨夜“in a bad way”，对自己所做的事“looked appalled”，还“a little afraid”，像“a felon on the loose”般四下张望，Scrooge 则推说制造震动是对方的“stock-in-trade”；他说要回 Club 并“travel at once to the country”，被问是不是去“Starningham”时脚步一顿——原来 Beck 昨夜被扶上马车时一直“over and over”念着这个名字，还“with an awful kind of relish”；Barwood 临别叮嘱他会当心，理由却是“Not sure, sir”“somehow I felt I had to say it”，随即“melted back into the London crowds”，只留 Scrooge“troubled”前行。
 
 ---
