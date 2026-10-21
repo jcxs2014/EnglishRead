@@ -1,0 +1,189 @@
+{
+  "chapter": "ch49",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch49_49.txt",
+  "source_chars": 4713,
+  "note": "R1 素读，只读 text/ch49_49.txt，未开 md。字符区间为原文（UTF-8 字符）偏移 [start, end)，行号为 text 文件行号。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Amy / Willow",
+      "what": "Amy 把 Willow 带到警局她面前；说 Willow 整个星期在警局进进出出，仍穿着她的「制服」，但因天气放弃了标志性的开衫，改为把迷你裙加进轮换。",
+      "line": 20,
+      "char": [41, 577],
+      "quote": "Amy had Willow in front of her. The poor girl had been in and out of the station all week. She was still wearing her ‘uniform’, although the weather had forced her to abandon her signature cardigan and she had indeed added a miniskirt to her rotation."
+    },
+    {
+      "n": 2,
+      "who": "Amy",
+      "what": "Amy 上了另一层楼从休息室的机器上给 Willow 打了一杯「claggy hot chocolate」；她想 Willow 是那种会喝这种黏腻甜粉而不是重咖啡因的类型；费了这么大劲 Willow 却连喝都没喝。",
+      "line": 20,
+      "char": [41, 577],
+      "quote": "Amy had gone to another floor to fetch her a claggy hot chocolate from the machine in the break room. She thought that she was the type of girl to drink that sort of cloying powdery thing rather than something heavily caffeinated. After all that effort Willow wasn’t even drinking it."
+    },
+    {
+      "n": 3,
+      "who": "Amy → Willow",
+      "what": "Amy 递给 Willow 一张 Jennifer 的照片——「that they’d taken from the house」（他们从那房子里取的那张）；问「你见过这个女孩吗」。",
+      "line": 23,
+      "char": [580, 682],
+      "quote": "‘Willow, have you met this girl?’ Amy slid her a picture of Jennifer that they’d taken from the house."
+    },
+    {
+      "n": 4,
+      "who": "Willow",
+      "what": "Willow 立刻认出：住在广场上、叫 Jen；「Bless her（愿主保佑她）」。Amy 追问「Bless her？」",
+      "line": 26,
+      "char": [685, 735],
+      "quote": "‘Yes, oh her. Jen lives on the square. Bless her.’"
+    },
+    {
+      "n": 5,
+      "who": "Willow",
+      "what": "Willow 说 Jen 看着很孤独；她「used to happen to walk by」在 Willow 午休时经过；Willow 天气好时坐在广场上边吃边看书。",
+      "line": 32,
+      "char": [753, 891],
+      "quote": "‘I think she’s lonely. She used to happen to walk by when I was on my lunchbreak. I sit in the square if it’s sunny and read while I eat.’"
+    },
+    {
+      "n": 6,
+      "who": "Amy（记录）",
+      "what": "Amy 问「你对 Jen 印象如何」，并记下 Willow 知道她的真名（actual first name）而不是「Eulalia」。",
+      "line": 35,
+      "char": [894, 1002],
+      "quote": "‘What did you think of Jen?’ Amy wrote down that Willow knew her by her actual first name and not ‘Eulalia’."
+    },
+    {
+      "n": 7,
+      "who": "Willow",
+      "what": "Willow：Jen 人很好、友善；「北方人总是很友善」；有几个伦敦人真会跟陌生人说话。",
+      "line": 38,
+      "char": [1005, 1133],
+      "quote": "‘What did I think? She’s nice. Friendly. Northerners are always friendly. How many Londoners will actually speak to a stranger?’"
+    },
+    {
+      "n": 8,
+      "who": "Willow",
+      "what": "聊天内容：Jen 喜欢音乐，一直想叫 Willow 去看她的黑胶唱片收藏；Willow 爱看言情小说，正常一周两本，喜欢 enemies to lovers 和「werewolf alpha situation」。",
+      "line": 44,
+      "char": [1165, 1523],
+      "quote": "‘All sorts. Jen’s really into music. She kept trying to get me to come round and listen to her vinyl collection with her.’ … ‘I love a romance novel and I get through two a week normally. I like enemies to lovers and anything with a werewolf alpha situation.’"
+    },
+    {
+      "n": 9,
+      "who": "Amy / Willow",
+      "what": "Amy 问「Fanfic too?」并解释什么是同人写作；Willow 皱鼻说自己不做这种，「她是个势利鬼（snob）」。",
+      "line": 47,
+      "char": [1526, 1737],
+      "quote": "‘Fanfic too?’ … ‘No, sorry.’ Willow wrinkled her nose. She was a snob. ‘That’s not my sort of thing.’"
+    },
+    {
+      "n": 10,
+      "who": "Willow",
+      "what": "最后一次见 Jen 的时间：「the week before I found … The week before poor Digby died」——她话说到一半咽回去。",
+      "line": 62,
+      "char": [1780, 2098],
+      "quote": "‘Oh, the week before I found … The week before poor Digby died. I was sitting outside in the square eating my lunch. She came over to talk. Jen liked my cardigan. She wanted to know where it was from so she could buy one. We started chatting but then her sister came and collected her. Her sister was sort of intense.’"
+    },
+    {
+      "n": 11,
+      "who": "Willow",
+      "what": "Amy 追问「Collected her?」；Willow 说 Jen 姐姐说她们得出门，便把 Jen 带回家（took her back to the house）；「说真的有点怪」。",
+      "line": 68,
+      "char": [2120, 2234],
+      "quote": "‘Yeah, she said they had to go out somewhere so she took her back to the house. It was a bit weird, to be honest.’"
+    },
+    {
+      "n": 12,
+      "who": "Willow",
+      "what": "之后没见过她，只是「the other week」好像从窗口看见过她；Willow 招手，Jen 没出来。",
+      "line": 74,
+      "char": [2272, 2429],
+      "quote": "‘No, although I think I saw her from a window the other week. I waved but she didn’t come out. Busy, I guess. Or maybe I said something wrong? I don’t know.’"
+    },
+    {
+      "n": 13,
+      "who": "Willow",
+      "what": "没去听黑胶的理由：「A vibe」（说不清的感觉）；Amy 猜「太热情？还是她姐姐？」，Willow 说「Both, maybe」。",
+      "line": 80,
+      "char": [2496, 2612],
+      "quote": "‘I don’t know.’ Willow played with the tarot card pendant round her neck. ‘A vibe.’ … ‘Too friendly? Or the sister?’"
+    },
+    {
+      "n": 14,
+      "who": "Willow",
+      "what": "Willow 说让一个只点头之交的人上门是很大胆的事，「Stranger danger」；天气一转冷后她「last five weeks」只能午休时坐在外面，Jen 每次都出现，「像是特意在等她」；然后压低声音把 Amy 当知己：Jen 有点让她发毛，太漂亮了，「如果是个男的我就该担心了」。",
+      "line": 86,
+      "char": [2615, 3123],
+      "quote": "‘Both, maybe. It’s quite a bold thing to ask someone you only know in passing round to your house. Stranger danger. I’ve only been able to sit outside on my lunchbreak for the last five weeks once the weather turned. She appeared every time. Like she maybe was waiting for me.’ Willow leaned in and spoke quietly as if she was taking Amy into her confidence. ‘If I’m being honest, she creeped me out a bit. She was too beautiful. Why was she bothering me? If she’d have been a bloke I would’ve been worried.’"
+    },
+    {
+      "n": 15,
+      "who": "Willow",
+      "what": "紫蟾蜍面包店：以前天冷时每周午休都去；不想在 Institute 里多待；那算一点小犒赏；他们的 mortadella 三明治「literal heaven」。",
+      "line": 92,
+      "char": [3176, 3421],
+      "quote": "‘I used to go there every week on my lunchbreak when the weather was colder. I didn’t want to sit in the Institute longer than I ever really needed to. It was meant to be a little treat, you know? Their mortadella sandwiches are literal heaven.’"
+    },
+    {
+      "n": 16,
+      "who": "Willow",
+      "what": "店里有个男人把电话号码写在杯子上；Willow 觉得「还行？」又觉得反感：他「longingly」看她喝那些杯子；她怀疑他往她的 chai 里干过恶心事（吐口水、掉一根头发）；「He’d done it to Jen too. She told me all about him propositioning her.」",
+      "line": 98,
+      "char": [3478, 4019],
+      "quote": "‘There’s a guy who works there who writes his number on your cup. … He gave me the ick. He used to watch me drinking from those cups he wrote on. Longingly. … Something weirdly sexual. Yuck! He’d done it to Jen too. She told me all about him propositioning her.’"
+    },
+    {
+      "n": 17,
+      "who": "Amy（内心判断）",
+      "what": "Amy 重复问「他在 Jen 的杯子上也写了号码？」；她知道 Matt 正从另一个角度安静地查这件事，但「她跟 Willow 说得越多，Jen 看起来就越像凶手」；还提到「她说的话在她开始计划时听起来更清醒」。",
+      "line": 101,
+      "char": [4022, 4250],
+      "quote": "‘He wrote his number on Jen’s cup?’ Amy knew Matt was quietly looking at it from another angle but the more she spoke to Willow the more Jen looked like the killer. She sounded like she’d been more lucid when the plan was begun."
+    },
+    {
+      "n": 18,
+      "who": "Willow",
+      "what": "Willow 说那人可能还在街上跟过她一次；Jen 被吓得不轻；「Jen 真的很漂亮」，她告诉 Jen 可以去做模特，Jen 笑了。随后 Willow 用「old puppy dog eyes」问 Amy：「我的疯狂粉丝有进展了吗？」",
+      "line": 104,
+      "char": [4253, 4540],
+      "quote": "‘Yes, I think he’d followed her on the street once too. She was so creeped out. Jen really is very pretty. I told her she could be a model if she wanted but she laughed.’ Willow sighed. She looked up at Amy and gave her the old puppy dog eyes. ‘Has there been an update on my crazy fan?’"
+    },
+    {
+      "n": 19,
+      "who": "Willow / Amy",
+      "what": "Willow 解释「疯狂粉丝」：那位「other policeman」说可能有个不安的跟踪狂打扮成她的样子；「太可怕了！」。Amy 回答「Nothing to report as yet」。",
+      "line": 110,
+      "char": [4552, 4712],
+      "quote": "‘Well the other policeman, he said something about me maybe having a disturbed fan who dressed up as me? So terrifying!’ … ‘Nothing to report as yet,’ Amy said."
+    }
+  ],
+  "relations": [
+    {"a": "Amy", "b": "Willow", "type": "警员 / 证人（Willow 整个星期在警局进进出出）"},
+    {"a": "Amy", "b": "Matt", "type": "同事；Matt 正从另一个角度「quietly looking at it」"},
+    {"a": "Amy", "b": "另一名警员（the other policeman）", "type": "同事；该警员跟 Willow 提过「disturbed fan dressed up as me」"},
+    {"a": "Willow", "b": "Digby", "type": "Digby 已死；Willow 说「the week before poor Digby died」，且她说话从「the week before I found …」咽回"},
+    {"a": "Willow", "b": "Jen / Jennifer", "type": "Willow 只点头之交；住在广场上；Willow 午休在广场看书时她「happen to walk by」并主动来搭话"},
+    {"a": "Jen", "b": "Willow", "type": "Jen 想请 Willow 去看黑胶唱片收藏；Willow 觉得「太热情」、像在等她、有点让她发毛"},
+    {"a": "Jen", "b": "Jen 的姐姐", "type": "姐姐「sort of intense」；那天来把 Jen 接走并带回 house"},
+    {"a": "紫蟾蜍面包店的男人", "b": "Willow / Jen", "type": "把号码写在杯子上；被 Willow 说「He’d done it to Jen too. She told me all about him propositioning her.」（转述，未指名）"},
+    {"a": "Willow", "b": "她自己的「crazy fan」", "type": "可能打扮成 Willow 的跟踪狂；Willow 称之为「my crazy fan」"}
+  ],
+  "numbers_dates": [
+    {"item": "章节号", "verbatim": "49", "line": 1},
+    {"item": "小标题", "verbatim": "The Police Station", "line": 17},
+    {"item": "在警局进出的时长", "verbatim": "all week", "line": 20},
+    {"item": "热巧克力位置", "verbatim": "another floor … from the machine in the break room", "line": 20},
+    {"item": "言情小说阅读量", "verbatim": "two a week normally", "line": 44},
+    {"item": "最后一次见 Jen 的时点", "verbatim": "the week before I found … The week before poor Digby died", "line": 62},
+    {"item": "窗外疑似看见 Jen", "verbatim": "the other week", "line": 74},
+    {"item": "Willow 只能午休坐外面的时长", "verbatim": "for the last five weeks once the weather turned", "line": 86},
+    {"item": "过去去面包店的频率", "verbatim": "every week on my lunchbreak when the weather was colder", "line": 92},
+    {"item": "Amy 收尾语", "verbatim": "Nothing to report as yet", "line": 113}
+  ],
+  "unresolved_at_cold_read": [
+    "照片是谁拍的、在谁家里找到的：本章原文只写 'a picture of Jennifer that they’d taken from the house'——『they』未指名，『the house』也未指名。",
+    "Willow 辨认照片时有无犹豫：本章原文没有任何犹豫或自我怀疑的措辞；她直接叫出 'Jen'。唯一的不确定是『从窗口好像看见过她』（原词 'I think I saw her from a window'），与照片辨认无关。",
+    "Willow 在本周被问过几次：本章只出现『另一位警员』问过她一次（disturbed fan 装成她）；本章开头只是说『整个星期在警局进进出出』，未给出被问次数。",
+    "『Jen 看起来像凶手』的出处：这是 Amy 的内心判断（'the more she spoke to Willow the more Jen looked like the killer'），是警方的怀疑，非定案。"
+  ]
+}
