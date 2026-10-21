@@ -19,15 +19,16 @@ modified: "2026-10-20"
 
 > **原句 1:** "I've had enough."
 
-中文理解：我受够了。Nandhini 从 "I'll do it"（我要做）到 "I've had enough"（我受够了），从 avoidance 到 defiance（反抗），把 investigation 写成 "extreme measures"（极端措施）。
+中文理解：我受够了。南迪妮 从 "I' "（我要做）到 "I' "（我受够了），从 到 （反抗），把 写成 " "（极端措施）。
 
 句子结构：主谓宾 I've had enough（现在完成时）。
 
-关键词：had enough（受够了）
+关键词：I've / had / enough
+
 
 表达方式：nightmare repetition 把 trauma 写成 chronic；"I've had enough" 把 acceptance 写成 defiance。
 
-为什么这样写：把 Nandhini 的 turning point 写成 "I've had enough" 的 defiance，而非 "I understand now" 的 acceptance——她不是 "理解" Paati 的 message，而是 "拒绝继续承受"；"gut-wrenching grief" 把 grief 写成 physical；"gates of hell" 的 hyperbole 把 determination 写成 extreme。
+为什么这样写：把 南迪妮 的 写成 "I' " 的，而非 "I " 的 ——她不是 "理解" 祖母 的，而是 "拒绝继续承受"；" " 把 写成 ；" " 的 把 写成。
 
 ---
 
@@ -35,15 +36,16 @@ modified: "2026-10-20"
 
 > **原句 2:** "Follow the light, follow the car!"
 
-中文理解：跟随光亮，跟随汽车！把 Paati 的 message 写成 imperative（命令），把 investigation 从 "what" 转向 "why"，从 vehicle 转向 person。
+中文理解：跟随光亮，跟随汽车！把 祖母 的 写成 （命令），把 从 "" 转向 ""，从 转向。
 
 句子结构：祈使句 Follow the light, follow the car!（并列祈使）。
 
-关键词：Follow the light（跟随光亮） / follow the car（跟随汽车）
+关键词：Follow / the / light / car
+
 
 表达方式：eureka moment 把 investigation 写成 cognitive process；"Follow the light, follow the car!" 把 Paati 的 message 写成 imperative。
 
-为什么这样写：把 eureka moment 写成 "light = car" 的 inference，让 Nandhini 的 investigation 写成 logical reasoning 而非 supernatural acceptance；"But why?" 的 nagging question 把 investigation 从 "what" 转向 "why"；"It can't just be about the car … maybe it's about the owner" 把 investigation 从 vehicle 转向 person。
+为什么这样写：把 写成 " = " 的，让 南迪妮 的 写成 而非 ；" ?" 的 把 从 "" 转向 ""；" … " 把 从 转向。
 
 ---
 
@@ -51,15 +53,16 @@ modified: "2026-10-20"
 
 > **原句 3:** "something tells me that I can trust you."
 
-中文理解：有些东西告诉我我可以信任你。把 trust 写成 intuitive 而非 earned，把 meeting 写成 "trust despite years apart"。
+中文理解：有些东西告诉我我可以信任你。把 写成 而非，把 写成 " "。
 
 句子结构：主谓宾 something tells me + 宾语从句 that I can trust you。
 
-关键词：trust（信任） / something tells me（有种感觉）
+关键词：something / tells / that / can
+
 
 表达方式：mamak shop setting 把 meeting 写成 local 与 casual；Akmal 的 "stickler for rules" 把 Nandhini 的 character 写成 consistent。
 
-为什么这样写：把 Akmal 写成 "old friend who trusts"，把 meeting 写成 "trust despite years apart"，让 Nandhini 的 isolation 写成 "not as alone as she thought"；Akmal 的 "supernatural" openness 把 mystery 写成 not fully rational 的，避免 "too logical" 的 tone。
+为什么这样写：把 阿克马尔 写成 " "，把 写成 " "，让 南迪妮 的 写成 " "；阿克马尔 的 "" 把 写成 的，避免 " " 的。
 
 ---
 
@@ -67,15 +70,16 @@ modified: "2026-10-20"
 
 > **原句 4:** "Darla Roland Fernandez."
 
-中文理解：Darla Roland Fernandez。Nandhini 说出名字时 got chills（起鸡皮疙瘩），把 revelation 写成 somatic response，把 name 写成 somatic trigger。
+中文理解：达尔拉。南迪妮 说出名字时 （起鸡皮疙瘩），把 写成，把 写成。
 
 句子结构：独立短语 Darla Roland Fernandez（直接引语/自语）。
 
-关键词：Darla Roland Fernandez（人名）
+关键词：Darla / Roland / Fernandez
+
 
 表达方式：name reveal 把 ch02 的 Darla 与 Nandhini 的 investigation 缝合；"got chills" 把 revelation 写成 somatic response。
 
-为什么这样写：把 vehicle ownership report 写成 "identity reveal"，让 Darla Roland Fernandez 的名字把 ch02（2007，Darla 买 SKA5783）与 ch07（2023，Nandhini 发现 SKA5783）缝合，完成 "dual timeline" 的 intersection；"Born in 1983 … forty years old now, which isn't very old" 把 age 写成 "premature"，暗示 Darla 的 death 是 unnatural/mysterious。
+为什么这样写：把 写成 " "，让 达尔拉 的名字把 02（2007，达尔拉 买 车牌号）与 07（2023，南迪妮 发现 车牌号）缝合，完成 " " 的 ；" 1983 … , " 把 写成 ""，暗示 达尔拉 的 是 /。
 
 ---
 

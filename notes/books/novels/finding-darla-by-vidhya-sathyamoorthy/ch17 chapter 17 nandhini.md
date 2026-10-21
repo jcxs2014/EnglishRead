@@ -19,30 +19,33 @@ modified: "2026-10-20"
 
 > **原句 1:** "I've come this far … it'd be a waste to turn back now."
 
-中文理解：我已走到这一步……现在回头就太浪费了。把 Nandhini 的 break-in 写成 "committed"（ committed），把 "unlocked back door" 写成 "anticlimax"（ anticlimax），把 Michael 的 lockpick 写成 "unnecessary"。
+中文理解：我已走到这一步……现在回头就太浪费了。南迪妮 决定回去， anticlimax。
 
 句子结构：主谓宾 I've come this far + 让步 it'd be a waste to turn back now。
 
-关键词：come this far（走到这一步） / waste（浪费）
+关键词：I've / come / this / far
+
 
 表达方式：break-in scene 把 "unlocked back door" 写成 "anticlimax"——Mike's lockpick 变成 unnecessary，把 "ex-gangster skills" 写成 "overkill"。
 
-为什么这样写：把 break-in 写成 "anticlimax"，让 Michael 的 character 写成 "overprepared"——"You don't need an ex-gangster's help to break into an unlocked car" 把 Michael 的 "reformed gangster" 写成 "unnecessary skills"，把 Michael 的 character 写成 "humble"。
+为什么这样写：南迪妮决定回去，把调查写成直觉，把人物写成被驱使的。
 
 ---
 
 ### 第2处：Shoe box——photos, adoption papers, diary
 
+> **原句 2:** "Nandhini was overwhelmed with emotion; exactly what emotion, she couldn't quite tell."
 
-中文理解：Nandhini 被 emotion 淹没；确切是什么 emotion，她无法确切说出。把 shoe box discovery 写成 "emotional"，把 Darla 的 photo 写成 "intimate"（亲密的），把 diary 写成 "private"（私人的）。
+中文理解：南迪妮 被 淹没；确切是什么，她无法确切说出。把 写成 ""，把 达尔拉 的 写成 ""（亲密的），把 写成 ""（私人的）。
 
 句子结构：主系表 Nandhini was overwhelmed with emotion + 让步 exactly what emotion, she couldn't quite tell。
 
-关键词：overwhelmed with emotion（被 emotion 淹没）
+关键词：Nandhini / was / overwhelmed / with
+
 
 表达方式：shoe box discovery 把 "hidden treasure" 写成 "emotional"——Darla 的 photo 写成 "intimate"，diary 写成 "private"。
 
-为什么这样写：把 shoe box discovery 写成 "emotional"，让 Darla 的 character 通过 "artifacts"（遗物）揭示——photo of Darla with baby 把 "motherhood" 写成 "hidden"（隐藏的），adoption papers 把 "surrender"（放弃）写成 "documented"（记录的），diary 把 "private thoughts"（私人想法）写成 "intimate"（亲密的）。
+为什么这样写：南迪妮决定回去，把调查写成直觉，把人物写成被驱使的。
 
 ---
 
@@ -50,15 +53,16 @@ modified: "2026-10-20"
 
 > **原句 3:** "Can't wait to meet you, little one."
 
-中文理解：迫不及待想见你，小家伙。把 diary 写成 "letter to Jasmine"，把 Darla 的 character 写成 "loving mother"（ loving 母亲），把 "I hope your dad is as great as mine was" 写成 "father unknown"（父亲未知）。
+中文理解：迫不及待想见你，小家伙。把 写成 " 茉莉"，把 达尔拉 的 写成 " "（ 母亲），把 "I " 写成 " "（父亲未知）。
 
 句子结构：祈使句 Can't wait to meet you, little one（省略主语，can't wait）。
 
-关键词：Can't wait to meet you（迫不及待想见你） / little one（小家伙）
+关键词：Can't / wait / meet / you
+
 
 表达方式：diary 把 "private thoughts" 写成 "letter to Jasmine"，把 Darla 的 character 写成 "loving mother"。
 
-为什么这样写：把 diary 写成 "letter to Jasmine"，让 Darla 的 character 写成 "loving mother"——"Can't wait to meet you, little one" 把 motherhood 写成 "anticipation"（期待），"I hope your dad is as great as mine was" 把 father 写成 "unknown"（未知的），把 "father's identity" 写成 "mystery"（谜团）。
+为什么这样写：南迪妮决定回去，把调查写成直觉，把人物写成被驱使的。
 
 ---
 
@@ -66,15 +70,16 @@ modified: "2026-10-20"
 
 > **原句 4:** "Because I love you, damn it!"
 
-中文理解：因为我爱你，该死！把 Michael 的 love confession 写成 "outburst"（爆发），把 "I love you" 写成 "desperate"（绝望的），把 Michael 的 character 写成 "vulnerable"（脆弱的）。
+中文理解：因为我爱你，该死！把 迈克尔 的 写成 ""（爆发），把 "I " 写成 ""（绝望的），把 迈克尔 的 写成 ""（脆弱的）。
 
 句子结构：原因状语从句 Because I love you + 感叹 damn it!。
 
-关键词：love you（爱你） / damn it（该死）
+关键词：Because / love / you / damn
+
 
 表达方式：love confession 把 "I love you" 写成 "outburst"——"Because I love you, damn it!" 把 love 写成 "desperate"，把 Michael 的 character 写成 "vulnerable"。
 
-为什么这样写：把 Michael 的 love confession 写成 "outburst"，让 Michael 的 character 写成 "vulnerable"——"Because I love you, damn it!" 把 love 写成 "desperate"，把 Michael 的 character 写成 "vulnerable"；"I love you" repeated softly 把 love 写成 "repeated"（重复的），把 Michael 的 character 写成 "searching"（寻找的）。
+为什么这样写：南迪妮决定回去，把调查写成直觉，把人物写成被驱使的。
 
 ---
 
@@ -82,15 +87,16 @@ modified: "2026-10-20"
 
 > **原句 5:** "Thank you."
 
-中文理解：谢谢。把 Nandhini 的 response 写成 "worst possible"（最糟糕的），把 "Thank you" 写成 "speechless"（无言的），把 Nandhini 的 character 写成 "stunned"（ stunned）。
+中文理解：谢谢。。
 
 句子结构：直接引语 Thank you（主谓宾，省略主语）。
 
-关键词：Thank you（谢谢）
+关键词：Thank / you
+
 
 表达方式："Thank you" 把 Nandhini 的 response 写成 "worst possible"——"This time, Nandhini was the one who found herself speechless. Completely stunned by this sudden turn of events, she stuttered before blurting out the worst possible response: 'Thank you.'" 把 Nandhini 的 character 写成 "stunned"。
 
-为什么这样写：把 Nandhini 的 "Thank you" 写成 "worst possible response"，让 Nandhini 的 character 写成 "stunned"——"Thank you" 把 love confession 写成 "awkward"（尴尬的），把 Nandhini 的 character 写成 "unable to respond"（无法回应）；Michael 的 "I'm done. I can't be a part of this insane mission any more" 把 Michael 的 character 写成 "rejected"（被拒绝的），把 relationship 写成 "broken"（破碎的）。
+为什么这样写：南迪妮决定回去，把调查写成直觉，把人物写成被驱使的。
 
 ---
 

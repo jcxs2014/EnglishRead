@@ -19,15 +19,16 @@ modified: "2026-10-20"
 
 > **原句 1:** "Nandhini hated hospitals."
 
-中文理解：Nandhini 讨厌医院。这句话直接给出人物态度，把她的"outsider"身份前置：她不属于医院，也不完全属于这个家庭。
+中文理解：南迪妮 讨厌医院。这句话直接给出人物态度，把她的"局外人"身份前置：她不属于医院，也不完全属于这个家庭。
 
 句子结构：主语 Nandhini + 谓语 hated + 宾语 hospitals。
 
-关键词：hated（讨厌）
+关键词：Nandhini / hated / hospitals
+
 
 表达方式：第三人称有限视角，开篇直接给出人物态度。
 
-为什么这样写：全章第一句就立下 Nandhini 的"outsider"身份，把探视动机写成"怕母亲唠叨"而非"爱 uncle"，让家族关系从一开始就带着疏离与被迫。
+为什么这样写：全章第一句就立下 南迪妮 的"局外人"身份，把探视动机写成"怕母亲唠叨"而非"爱 "，让家族关系从一开始就带着疏离与被迫。
 
 ---
 
@@ -35,15 +36,16 @@ modified: "2026-10-20"
 
 > **原句 2:** "Are these the apples on sale downstairs?"
 
-中文理解：Aunty Mishra 问苹果是不是楼下特价买的，末尾一个"狡黠的笑"。整句话的杀伤力不在问句本身，而在"sly smile"——她明明在夸，却用笑把夸变成了刺。
+中文理解：米什拉阿姨 问苹果是不是楼下特价买的，末尾一个"狡黠的笑"。整句话的杀伤力不在问句本身，而在" "——她明明在夸，却用笑把夸变成了刺。
 
 句子结构：主语 these + 谓语 are + 表语 the apples on sale downstairs（疑问句）。
 
-关键词：on sale（打折/特价） / sly smile（狡黠的笑）
+关键词：Are / these / the / apples
+
 
 表达方式：对话体，引语后跟动作标签 "with a sly smile"，把说话人的表情写出来。
 
-为什么这样写：这是全章"家族羞辱"主题的第一刀，且以"礼物"为入口——礼物本是善意，却被重新定义为"便宜货"，正是 Indian aunty 文化的典型：羞辱永远披着"为你好"的外衣。
+为什么这样写：这是全章"家族羞辱"主题的第一刀，且以"礼物"为入口——礼物本是善意，却被重新定义为"便宜货"，正是 文化的典型：羞辱永远披着"为你好"的外衣。
 
 ---
 
@@ -51,15 +53,16 @@ modified: "2026-10-20"
 
 > **原句 3:** "Thakesh's dad paid for their bungalow, right?"
 
-中文理解：Nandhini 反击：Thakesh 的爸爸付了他们的别墅钱，对吧？她把 Aunty Mishra 隐瞒的"家族财富"翻到台面上，把 Pooja 家族"凭自己努力"的神话拆穿。
+中文理解：南迪妮 反击：塔克什 的爸爸付了他们的别墅钱，对吧？她把 米什拉阿姨 隐瞒的"家族财富"翻到台面上，把 普佳 家族"凭自己努力"的神话拆穿。
 
 句子结构：主语 Thakesh's dad + 谓语 paid + 宾语 for their bungalow + 疑问标记 right?。
 
-关键词：bungalow（别墅/平房）
+关键词：Thakesh's / dad / paid / for
+
 
 表达方式：反问句，把 Nandhini 的反击写成"把隐匿的真相翻到台面"。
 
-为什么这样写：这是 Nandhini 唯一一次正面反击，把"Thakesh's dad paid for their bungalow"抛出来，拆穿 Pooja 家族"凭自己努力"的神话，也为后文她对"被遗忘车辆"的追问埋下性格伏笔。
+为什么这样写：这是 南迪妮 唯一一次正面反击，把"塔克什's "抛出来，拆穿 普佳 家族"凭自己努力"的神话，也为后文她对"被遗忘车辆"的追问埋下性格伏笔。
 
 ---
 
@@ -67,15 +70,16 @@ modified: "2026-10-20"
 
 > **原句 4:** "Honestly, the risk of complications increases with geriatric pregnancies."
 
-中文理解：Pooja 用医学术语"高龄妊娠并发症风险"教育 Nandhini，把"关心"伪装成"专业知识"，是"知识精英"式霸凌。
+中文理解：普佳 用医学术语"高龄妊娠并发症风险"教育 南迪妮，把"关心"伪装成"专业知识"，是"知识精英"式霸凌。
 
 句子结构：主语 the risk of complications + 谓语 increases + 介词短语 with geriatric pregnancies。
 
-关键词：geriatric pregnancies（高龄妊娠） / complications（并发症）
+关键词：Honestly / the / risk / complications
+
 
 表达方式：医学术语被用于日常羞辱，把"关心"伪装成"专业知识"。
 
-为什么这样写：Pooja 把职业知识 weaponize 用于家族羞辱，把"关心"从未真正指向 Nandhini，只指向 Pooja 自己的优越感，也为后文 Nandhini 对"被遗忘的人"的共情埋下伏笔。
+为什么这样写：普佳 把职业知识 用于家族羞辱，把"关心"从未真正指向 南迪妮，只指向 普佳 自己的优越感，也为后文 南迪妮 对"被遗忘的人"的共情埋下伏笔。
 
 ---
 
@@ -83,15 +87,16 @@ modified: "2026-10-20"
 
 > **原句 5:** "Look at this car, it's filthy!"
 
-中文理解：Thakesh 咒骂一句，指向一辆积满厚灰的老旧 Proton Saga。"filthy"与"thick layer of dust"把车辆的废弃状态写实：这不是停几天的车，而是长期无人问津的"遗物"。
+中文理解：塔克什 咒骂一句，指向一辆积满厚灰的老旧。""与" "把车辆的废弃状态写实：这不是停几天的车，而是长期无人问津的"遗物"。
 
 句子结构：祈使句 Look at this car + 主系表 it's filthy。
 
-关键词：filthy（肮脏的） / Proton Saga（宝腾 Saga，马来西亚国产车）
+关键词：Look / this / car / it's
+
 
 表达方式：对话 + 动作标签，把说话人的情绪具象化。
 
-为什么这样写：Proton Saga 是马来西亚国民车，"东马车牌"+ "吉隆坡医院停车场"的组合暗示跨地域、跨时间的谜团；Thakesh 只看到"脏"，Nandhini 却被"尘封"触动，两人对同一辆车的反应差异正是全书主题的缩影。
+为什么这样写： 是马来西亚国民车，"东马车牌"+ "吉隆坡医院停车场"的组合暗示跨地域、跨时间的谜团；塔克什 只看到"脏"，南迪妮 却被"尘封"触动，两人对同一辆车的反应差异正是全书主题的缩影。
 
 ---
 
@@ -99,15 +104,16 @@ modified: "2026-10-20"
 
 > **原句 6:** "Probably belonged to a patient."
 
-中文理解：Pooja 轻描淡写地推测：车大概属于某个病人。"casually"与"Where are my keys?"把死亡与日常并置：对 Pooja 来说，"病人死在这儿"是一句无足轻重的推测，转瞬间就被钥匙与日常取代。
+中文理解：普佳 轻描淡写地推测：车大概属于某个病人。""与" ?"把死亡与日常并置：对 普佳 来说，"病人死在这儿"是一句无足轻重的推测，转瞬间就被钥匙与日常取代。
 
 句子结构：主谓宾 Probably belonged to a patient（省略主语 it）。
 
-关键词：probably（大概/可能） / passed away（去世）
+关键词：Probably / belonged / patient
+
 
 表达方式：模态动词 probably 把推测写成"合理猜测"；"casually"是叙述者对 Pooja 态度的定性。
 
-为什么这样写：Pooja 的"casually"是全章最关键的词——它把死亡降格为谈资，把疑问掐灭在萌芽；作者让 Nandhini 不接受这种"轻描淡写"，而是被"unanswered questions"驱使，这是探案型主角的 origin moment。
+为什么这样写：普佳 的""是全章最关键的词——它把死亡降格为谈资，把疑问掐灭在萌芽；作者让 南迪妮 不接受这种"轻描淡写"，而是被" "驱使，这是探案型主角的。
 
 ---
 
@@ -115,15 +121,16 @@ modified: "2026-10-20"
 
 > **原句 7:** "What was it doing in the parking lot of one of the busiest hospitals in KL?"
 
-中文理解：Nandhini 问：它在吉隆坡最繁忙的医院停车场做什么？把车辆拟人化，仿佛它有故事要讲，把"被遗忘的车辆"= "被遗忘的人"。
+中文理解：南迪妮 问：它在吉隆坡最繁忙的医院停车场做什么？把车辆拟人化，仿佛它有故事要讲，把"被遗忘的车辆"= "被遗忘的人"。
 
 句子结构：疑问句 What was it doing in the parking lot of one of the busiest hospitals in KL?（主语 it + 谓语 was doing + 介词短语）。
 
-关键词：busiest hospitals（最繁忙的医院） / East Malaysia（东马/东马来西亚）
+关键词：What / was / doing / the
+
 
 表达方式：疑问句收尾，制造"钩子"；"busiest hospitals in KL"用最高级强调医院的繁忙，反衬车辆的"被遗忘"。
 
-为什么这样写：这是全章的收尾钩子，也是全书悬疑的起点；东马车牌 + 吉隆坡医院 = 跨地域谜团；Nandhini 的追问（What was it doing）正是探案者的 origin question，与 Pooja 的"Where are my keys?"形成对照。
+为什么这样写：这是全章的收尾钩子，也是全书悬疑的起点；东马车牌 + 吉隆坡医院 = 跨地域谜团；南迪妮 的追问（ ）正是探案者的，与 普佳 的" ?"形成对照。
 
 ---
 

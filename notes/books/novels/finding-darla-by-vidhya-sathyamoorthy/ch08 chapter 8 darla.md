@@ -19,15 +19,16 @@ modified: "2026-10-20"
 
 > **原句 1:** "I got the role?"
 
-中文理解：我得到角色了？Darla 以 disbelief（不相信）而非 joy（喜悦）回应，把 "got the role" 写成 "disbelief"，让 Darla 的 self-doubt visible。
+中文理解：我得到角色了？达尔拉 以 （不相信）而非 （喜悦）回应，把 " " 写成 ""，让 达尔拉 的。
 
 句子结构：疑问句 I got the role?（主谓宾）。
 
-关键词：got the role（得到角色）
+关键词：got / the / role
+
 
 表达方式：phone call 把 "got the role" 写成 "disbelief"，把 Darla 的 self-doubt visible。
 
-为什么这样写：把 "got the role" 写成 "disbelief"，让 Darla 的 character arc 从 "insecurity" 到 "recognition" 的 transition 写成 gradual 而非 sudden；"raging fire" 把 chemistry 写成 industry-validated。
+为什么这样写：把 " " 写成 ""，让 达尔拉 的 从 "" 到 "" 的 写成 而非 ；" " 把 写成。
 
 ---
 
@@ -35,15 +36,16 @@ modified: "2026-10-20"
 
 > **原句 2:** "Not some cheap whore who kisses men and who knows what else for money!"
 
-中文理解：不是那种亲吻男人、天知道还做什么来赚钱的廉价妓女！把 mother's fear 写成 violent language，把 Darla 的 acting career 写成 "defilement"（玷污），把 mother's love 写成 "protection through rejection"。
+中文理解：不是那种亲吻男人、天知道还做什么来赚钱的廉价妓女！把 写成，把 达尔拉 的 写成 ""（玷污），把 写成 " "。
 
 句子结构：主系表 Not some cheap whore who kisses men and who knows what else for money（否定 + 定语从句）。
 
-关键词：cheap whore（廉价妓女） / kisses men（亲吻男人）
+关键词：Not / some / cheap / whore
+
 
 表达方式：mother's opposition 写成 "trauma-driven"——"cheap whore" 是 Mrs Fernandez 的 worst fear 具象化。
 
-为什么这样写：把 mother's opposition 写成 "trauma-driven overprotection" 的 extreme 版本——"cheap whore" 是 Mrs Fernandez 的 worst fear 具象化，把 mother's love 写成 "protection through rejection"；"I'd rather you be a fool" 把 mother's preference 写成 "fool over actress"。
+为什么这样写：把 写成 " " 的 版本——" " 是 费尔南德斯夫人 的 具象化，把 写成 " "；"I'd a " 把 写成 " "。
 
 ---
 
@@ -51,15 +53,16 @@ modified: "2026-10-20"
 
 > **原句 3:** "You were born to be an actress!"
 
-中文理解：你生来就是演员！父亲的 last praise 把 Darla 的 dream 写成 father's dying wish，把 father's photo 写成 "decision catalyst"。
+中文理解：你生来就是演员！父亲的 把 达尔拉 的 写成，把 写成 " "。
 
 句子结构：主系表 You were born to be an actress（被动 + 不定式短语）。
 
-关键词：born to be an actress（生来就是演员）
+关键词：You / were / born / actress
+
 
 表达方式：father's photo 作为 talisman 把 grief 转化为 guidance；"twinkling eyes" 把 father's memory 写成 living presence。
 
-为什么这样写：把 father's photo 写成 "decision catalyst"，让 Darla 的 career choice 写成 "father's legacy" 的 continuation 而非 rebellion；"Bravo, my dear girl!" 的 flashback 把 father's last praise 写成 ongoing voice，让 Mr Fernandez 从 "dead" 转为 "present"。
+为什么这样写：把 写成 " "，让 达尔拉 的 写成 " " 的 而非 ；", !" 的 把 写成，让 费尔南德斯先生 从 "" 转为 ""。
 
 ---
 
@@ -67,15 +70,16 @@ modified: "2026-10-20"
 
 > **原句 4:** "I love you too, you foolish girl."
 
-中文理解：我也爱你，你这个傻女孩。把 goodbye 写成 "unspoken love"，把 Mrs Fernandez 的 character 从 "scowl" 转向 "muttered love"。
+中文理解：我也爱你，你这个傻女孩。把 写成 " "，把 费尔南德斯夫人 的 从 "" 转向 " "。
 
 句子结构：直接引语 I love you too, you foolish girl（主谓宾 + 同位语）。
 
-关键词：foolish girl（傻女孩）
+关键词：love / you / too / foolish
+
 
 表达方式：mother-daughter goodbye 写成 "unspoken love"——"brief glance + grunt" 把 mother's love 写成 "withheld"；"I love you too, you foolish girl" 把 love 写成 "muttered under her breath"。
 
-为什么这样写：把 goodbye 写成 "unspoken love"，让 Mrs Fernandez 的 character 从 "scowl" 转向 "muttered love"——"I love you too, you foolish girl" 是 her first admission of love，把 mother-daughter relationship 写成 "love through conflict"；"powerless to stop her" 把 mother's fear 写成 "helplessness"而非 "control"。
+为什么这样写：把 写成 " "，让 费尔南德斯夫人 的 从 "" 转向 " "——"I , " 是，把 写成 " "；" " 把 写成 ""而非 ""。
 
 ---
 

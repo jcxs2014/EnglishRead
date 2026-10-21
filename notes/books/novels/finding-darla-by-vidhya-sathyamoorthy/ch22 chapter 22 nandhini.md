@@ -17,15 +17,15 @@ modified: "2026-10-20"
 
 ### 第1处：Taking Jimmy home——"not being alone wasn't so bad after all"
 
-> **原句 1:** "And she never will be."
+> **原句 1:** "Do you want to come home with me?"
 
-中文理解：削皮刀安全地收在厨房抽屉里，Darla 接受了独处并不那么糟糕。把 Jimmy 写成 "saviour"（救星），把 paring knife 写成 "tucked away"（收起），把 Darla 的 character 写成 "accepting"（接受的）。
+中文理解：你要跟我回家吗？南迪妮 问 吉米。
 
+句子结构：疑问句 Do you want to come home with me?（主谓宾）。
 
-关键词：paring knife（削皮刀） / tucked away（收起） / not being alone（不孤独）
+关键词：Do / you / want / to / come
 
 表达方式：Jimmy's companionship 把 "paring knife" 写成 "tucked away"，把 Darla 的 character 写成 "accepting"。
-
 
 ---
 
@@ -33,15 +33,16 @@ modified: "2026-10-20"
 
 > **原句 2:** "I like you. A lot."
 
-中文理解：我喜欢你。很多。把 Nandhini 的 confession 写成 "direct"（直接的），把 Michael 的 character 写成 "receptive"（ receptive 的）。
+中文理解：我喜欢你。很多。把 南迪妮 的 写成 ""（直接的），把 迈克尔 的 写成 ""（ 的）。
 
 句子结构：直接引语 I like you. A lot.（主谓宾 + 副词）。
 
-关键词：like you（喜欢你） / a lot（很多）
+关键词：like / you / lot
+
 
 表达方式：Nandhini's confession 把 "direct" 写成 "I like you. A lot."，把 Michael 的 character 写成 "receptive"。
 
-为什么这样写：把 Nandhini 的 confession 写成 "direct"，让 Nandhini 的 character 写成 "direct"——"I like you. A lot. You're kind, smart, and I'm clearly attracted to you—" 把 Nandhini 的 character 写成 "direct"，把 Michael 的 character 写成 "receptive"；Michael's "Any regrets?" 把 Michael 的 character 写成 "checking"（确认的），把 relationship 写成 "confirmed"（确认的）。
+为什么这样写：把 南迪妮 的 写成 ""，让 南迪妮 的 写成 ""——"I . A . , , I'm —" 把 南迪妮 的 写成 ""，把 迈克尔 的 写成 ""；迈克尔's " ?" 把 迈克尔 的 写成 ""（确认的），把 写成 ""（确认的）。
 
 ---
 
@@ -49,15 +50,16 @@ modified: "2026-10-20"
 
 > **原句 3:** "Darla shouldn't be forgotten."
 
-中文理解：Darla 不应该被遗忘。把 Paati 的 message 写成 "directive"（指令），把 "Darla shouldn't be forgotten" 写成 "repeated"（重复的），把 Paati 的 character 写成 "guide"（指引者）。
+中文理解：达尔拉 不应该被遗忘。把 祖母 的 写成 ""（指令），把 "达尔拉 " 写成 ""（重复的），把 祖母 的 写成 ""（指引者）。
 
 句子结构：主谓宾 Darla shouldn't be forgotten（被动，情态动词）。
 
-关键词：Darla（Darla） / shouldn't be forgotten（不应该被遗忘）
+关键词：Darla / shouldn't / forgotten
+
 
 表达方式：Paati's message 把 "directive" 写成 "repeated"——"You've done well, ma. Darla shouldn't be forgotten." 把 Paati 的 character 写成 "guide"，把 "Darla shouldn't be forgotten" 写成 "repeated"。
 
-为什么这样写：把 Paati 的 message 写成 "directive"，让 Paati 的 character 写成 "guide"——"Darla shouldn't be forgotten" 把 Paati 的 character 写成 "guide"，把 "Darla shouldn't be forgotten" 写成 "repeated"；"I'm proud of the woman you've become, but take my advice, ma. Life is short. Wear your heart on your sleeve and love fiercely. Let the people you care about know how much you love them." 把 Paati 的 character 写成 "wise"（智慧的），把 Paati 的 message 写成 "life advice"（生活建议）。
+为什么这样写：把 祖母 的 写成 ""，让 祖母 的 写成 ""——"达尔拉 " 把 祖母 的 写成 ""，把 "达尔拉 " 写成 ""；"I'm , , . . . ." 把 祖母 的 写成 ""（智慧的），把 祖母 的 写成 " "（生活建议）。
 
 ---
 
@@ -65,15 +67,16 @@ modified: "2026-10-20"
 
 > **原句 4:** "I'm sorry Jasmine. I love you. Forever and always."
 
-中文理解：对不起，Jasmine。我爱你。永远永远。把 Darla's note 写成 "clue"（线索），把 Darla 的 character 写成 "loving mother"（ loving 母亲），把 "I'm sorry Jasmine" 写成 "apology"（道歉）。
+中文理解：对不起，茉莉。我爱你。永远永远。把 达尔拉's 写成 ""（线索），把 达尔拉 的 写成 " "（ 母亲），把 "I'm 茉莉" 写成 ""（道歉）。
 
 句子结构：直接引语 I'm sorry Jasmine. I love you. Forever and always.（多句，祈使/陈述）。
 
-关键词：I'm sorry（对不起） / I love you（我爱你） / Forever and always（永远永远）
+关键词：I'm / sorry / Jasmine / love
+
 
 表达方式：Darla's note 把 "clue" 写成 "scrawled"（潦草地写），把 Darla 的 character 写成 "loving mother"。
 
-为什么这样写：把 Darla's note 写成 "clue"，让 Darla 的 character 写成 "loving mother"——"I'm sorry Jasmine. I love you. Forever and always." 把 Darla 的 character 写成 "loving mother"，把 Darla's note 写成 "clue"；"I know tracking Jasmine down isn't an option, but I wish there was some way for me to deliver Darla's message to her …" 把 Nandhini 的 character 写成 "wishing"（希望的），把 Darla's note 写成 "message"（信息）。
+为什么这样写：把 达尔拉's 写成 ""，让 达尔拉 的 写成 " "——"I'm 茉莉. I . ." 把 达尔拉 的 写成 " "，把 达尔拉's 写成 ""；"I 茉莉 , I 达尔拉's …" 把 南迪妮 的 写成 ""（希望的），把 达尔拉's 写成 ""（信息）。
 
 ---
 
@@ -81,24 +84,20 @@ modified: "2026-10-20"
 
 > **原句 5:** "And she never will be."
 
-中文理解：她永远不会被遗忘。把 Nandhini 的 writing 写成 "resolution"（解决），把 "And she never will be" 写成 "final"（最终的），把 Darla 写成 "remembered"（被记住的）。
+中文理解：她永远不会被遗忘。把 南迪妮 的 写成 ""（解决），把 " " 写成 ""（最终的），把 达尔拉 写成 ""（被记住的）。
 
 句子结构：主谓宾 And she never will be（省略主语 she = Darla，will be forgotten）。
 
-关键词：never will be（永远不会） / forgotten（被遗忘）
+关键词：And / she / never / will
+
 
 表达方式：Nandhini's writing 把 "resolution" 写成 "And she never will be"，把 Darla 写成 "remembered"。
 
-为什么这样写：把 Nandhini 的 writing 写成 "resolution"，让 Nandhini 的 character 写成 "writer"（作家）——"And she never will be" 把 Darla 写成 "remembered"，把 Nandhini 的 character 写成 "writer"；"Lakshmi's words rang in her ears: 'Darla shouldn't be forgotten.'" 把 Paati 的 message 写成 "directive"（指令），把 Nandhini 的 character 写成 "obedient"（服从的）。
+为什么这样写：把 南迪妮 的 写成 ""，让 南迪妮 的 写成 ""（作家）——" " 把 达尔拉 写成 ""，把 南迪妮 的 写成 ""；"拉克什米's : '达尔拉 .'" 把 祖母 的 写成 ""（指令），把 南迪妮 的 写成 ""（服从的）。
 
 ---
 
 ## 本章词汇
-
-### ⭐⭐⭐ 高级
-
-| 词/短语 | 释义 | 例句 |
-|---------|------|------|
 
 ### ⭐⭐ 进阶
 

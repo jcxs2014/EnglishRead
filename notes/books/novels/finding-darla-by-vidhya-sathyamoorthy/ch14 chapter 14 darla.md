@@ -19,15 +19,16 @@ modified: "2026-10-20"
 
 > **原句 1:** "Get rid of it. Then, come back here. Forget about acting."
 
-中文理解：不是那种亲吻男人、天知道还做什么来赚钱的廉价妓女！把 mother's fear 写成 violent language，把 Darla 的 acting career 写成 "defilement"，把 mother's love 写成 "protection through rejection"。
+中文理解：不是那种亲吻男人、天知道还做什么来赚钱的廉价妓女！把 写成，把 达尔拉 的 写成 ""，把 写成 " "。
 
 句子结构：主系表 Not some cheap whore who kisses men and who knows what else for money（否定 + 定语从句）。
 
-关键词：cheap whore（廉价妓女） / kisses men（亲吻男人）
+关键词：Get / rid / Then / come
+
 
 表达方式：mother's opposition 写成 "trauma-driven"——"cheap whore" 是 Mrs Fernandez 的 worst fear 具象化。
 
-为什么这样写：把 mother's opposition 写成 "trauma-driven overprotection" 的 extreme 版本——"cheap whore" 是 Mrs Fernandez 的 worst fear 具象化，把 Darla 的 acting career 写成 "defilement"，把 mother's love 写成 "protection through rejection"；"I'd rather you be a fool" 把 mother's preference 写成 "fool over actress"。
+为什么这样写：把 写成 " " 的 版本——" " 是 费尔南德斯夫人 的 具象化，把 达尔拉 的 写成 ""，把 写成 " "；"I'd a " 把 写成 " "。
 
 ---
 
@@ -35,15 +36,16 @@ modified: "2026-10-20"
 
 > **原句 2:** "She snapped the SIM in half and tossed it across the room."
 
-中文理解：她把 SIM 卡折成两半，扔到房间的另一边。把 family cutoff 写成 "physical act"（物理行为），把 Darla 的 isolation 写成 "self-imposed"（自我强加的）。
+中文理解：她把 卡折成两半，扔到房间的另一边。把 写成 " "（物理行为），把 达尔拉 的 写成 ""（自我强加的）。
 
 句子结构：主谓宾 She snapped the SIM in half and tossed it across the room（并列谓语）。
 
-关键词：snapped（折断） / SIM card（SIM 卡） / tossed（扔）
+关键词：She / snapped / the / SIM
+
 
 表达方式：family cutoff 把 "cutting ties" 写成 "physical act"——snapping SIM card 把 isolation 写成 "deliberate"（刻意的）。
 
-为什么这样写：把 family cutoff 写成 "physical act"，让 Darla 的 isolation 写成 "self-imposed"—— she chooses to cut ties（她选择切断联系），把 mother's words 写成 "internalized"（内化的）——"Will he brand me a whore as well?" 把 family rejection 写成 "anticipated"（预期的）。
+为什么这样写：把 写成 " "，让 达尔拉 的 写成 ""—— （她选择切断联系），把 写成 ""（内化的）——" a ?" 把 写成 ""（预期的）。
 
 ---
 
@@ -51,15 +53,16 @@ modified: "2026-10-20"
 
 > **原句 3:** "Did you get rid of it? If you didn't, don't come."
 
-中文理解：你除掉它了吗？如果没有，别来。把 Donny 的 email 写成 "threat"（威胁），把 premiere 写成 "impossible"（不可能的），把 Darla 的 RSVP 写成 "no"。
+中文理解：你除掉它了吗？如果没有，别来。把 唐尼 的 写成 ""（威胁），把 写成 ""（不可能的），把 达尔拉 的 写成 ""。
 
 句子结构：疑问句 Did you get rid of it? + 条件句 If you didn't, don't come。
 
-关键词：get rid of it（除掉它） / don't come（别来）
+关键词：Did / you / get / rid
+
 
 表达方式：Donny's email 把 "threat" 写成 "email"，把 premiere 写成 "impossible"，把 Darla 的 RSVP 写成 "no"。
 
-为什么这样写：把 Donny 的 email 写成 "threat"，让 Donny 的 character 写成 "absent abuser"（缺席的虐待者）——"Did you get rid of it? If you didn't, don't come" 把 Donny 的 "selfishness" 写成 "email"，把 Darla 的 "dream"（premiere）写成 "impossible"，把 Darla 的 choice 写成 "RSVP no"。
+为什么这样写：把 唐尼 的 写成 ""，让 唐尼 的 写成 " "（缺席的虐待者）——" ? , " 把 唐尼 的 "" 写成 ""，把 达尔拉 的 ""（）写成 ""，把 达尔拉 的 写成 " "。
 
 ---
 
@@ -67,15 +70,16 @@ modified: "2026-10-20"
 
 > **原句 4:** "I want to give the baby up for adoption."
 
-中文理解：我想把宝宝送人收养。把 adoption decision 写成 "painful"（痛苦的），把 "Father's name" column 写成 "torment"（折磨），把 "Unknown" 写成 "permanent scar"。
+中文理解：我想把宝宝送人收养。把 写成 ""（痛苦的），把 " " 写成 ""（折磨），把 "" 写成 " "。
 
 句子结构：主谓宾 I want to give the baby up for adoption。
 
-关键词：give up for adoption（送人收养）
+关键词：want / give / the / baby
+
 
 表达方式：OBGYN appointment 把 adoption decision 写成 "painful"——"Father's name" column 把 "torment" 写成 "form"，把 "Unknown" 写成 "permanent scar"。
 
-为什么这样写：把 adoption decision 写成 "painful"，让 Darla 的 character 写成 "broken mother"——"Father's name" column 把 "torment" 写成 "form"，把 "Unknown" 写成 "permanent scar"；"What would she think of me? I guess she'd think I'm a whore, too." 把 Darla 的 self-perception 写成 "internalized shame"（内化的羞耻）。
+为什么这样写：把 写成 ""，让 达尔拉 的 写成 " "——" " 把 "" 写成 ""，把 "" 写成 " "；" ? I I'm a , ." 把 达尔拉 的 写成 " "（内化的羞耻）。
 
 ---
 
@@ -83,15 +87,16 @@ modified: "2026-10-20"
 
 > **原句 5:** "I'm sorry. I'm sorry. I'm sorry."
 
-中文理解：对不起。对不起。对不起。把 birth scene 写成 "bittersweet"（苦乐参半），把 "giving up baby" 写成 "permanent scar"，把 photograph 写成 "memento"（纪念品）。
+中文理解：对不起。对不起。对不起。把 写成 ""（苦乐参半），把 " " 写成 " "，把 写成 ""（纪念品）。
 
 句子结构：直接引语 I'm sorry. I'm sorry. I'm sorry.（重复，强调）。
 
-关键词：I'm sorry（对不起）
+关键词：I'm / sorry
+
 
 表达方式：birth scene 把 "giving up baby" 写成 "permanent scar"——"I'm sorry. I love you. I'll love you forever and ever" 把 mother's love 写成 "unconditional"（无条件的）。
 
-为什么这样写：把 birth scene 写成 "bittersweet"，让 Darla 的 character 写成 "broken mother"——"I'm sorry. I love you. I'll love you forever and ever" 把 mother's love 写成 "unconditional"，把 "giving up baby" 写成 "permanent scar"；"permanent scar across her damned soul" 把 loss 写成 "permanent"，把 Darla 的 character 写成 "scarred"（伤痕累累的）。
+为什么这样写：把 写成 ""，让 达尔拉 的 写成 " "——"I'm . I . I' " 把 写成 ""，把 " " 写成 " "；" " 把 写成 ""，把 达尔拉 的 写成 ""（伤痕累累的）。
 
 ---
 

@@ -19,15 +19,16 @@ modified: "2026-10-20"
 
 > **原句 1:** "She had botched yet another audition."
 
-中文理解：她又搞砸了一次试镜。"yet another"把失败写成常态而非偶然，把 Darla 的演艺路写成持续的打击。
+中文理解：她又搞砸了一次试镜。" "把失败写成常态而非偶然，把 达尔拉 的演艺路写成持续的打击。
 
 句子结构：主语 She + 谓语 had botched + 宾语 yet another audition（过去完成时）。
 
-关键词：botched（搞砸） / yet another（又一个）
+关键词：She / had / botched / yet
+
 
 表达方式：动作先行再交代原因，把人物情绪前置。
 
-为什么这样写：开篇直接给 Darla 的最低点，让读者先同情再看她爬起来；"yet another"暗示失败的累积，把演艺圈的打击写成常态。
+为什么这样写：开篇直接给 达尔拉 的最低点，让读者先同情再看她爬起来；" "暗示失败的累积，把演艺圈的打击写成常态。
 
 ---
 
@@ -35,15 +36,16 @@ modified: "2026-10-20"
 
 > **原句 2:** "You're a star, D. You love the stage, and it loves you."
 
-中文理解：你是明星，D。你爱舞台，舞台也爱你。Manny 把 Darla 的名字（Darla = star?）与她的梦想连起来，把鼓励写成"记忆"而非"空话"。
+中文理解：你是明星，D。你爱舞台，舞台也爱你。曼尼 把 达尔拉 的名字（达尔拉 = ?）与她的梦想连起来，把鼓励写成"记忆"而非"空话"。
 
 句子结构：主系表 You're a star + 并列句 You love the stage, and it loves you。
 
-关键词：star（明星/星） / stage（舞台）
+关键词：You're / star / You / love
+
 
 表达方式：兄长的回忆叙述，从具体（五岁）到抽象（star），把鼓励写成有证据的。
 
-为什么这样写：Manny 的鼓励是 Darla 人物弧线的 turning point——从"botched yet another audition"的 despair 到"maybe I can make it"；把鼓励写成"记忆"而非"空话"，让读者看到 Darla 的才华是有证据的。
+为什么这样写：曼尼 的鼓励是 达尔拉 人物弧线的 ——从" "的 到" I "；把鼓励写成"记忆"而非"空话"，让读者看到 达尔拉 的才华是有证据的。
 
 ---
 
@@ -51,15 +53,16 @@ modified: "2026-10-20"
 
 > **原句 3:** "I'm not much of a looker; I'm average at best."
 
-中文理解：我不是美女，充其量中等。Darla 自嘲，把演艺圈的 appearance bias（外貌歧视）写成她内心的声音。
+中文理解：我不是美女，充其量中等。达尔拉 自嘲，把演艺圈的 （外貌歧视）写成她内心的声音。
 
 句子结构：主系表 I'm not much of a looker + 并列 I'm average at best（分号连接）。
 
-关键词：looker（美女） / average at best（充其量中等）
+关键词：I'm / not / much / looker
+
 
 表达方式：直接引语的自嘲，把外貌焦虑具象化。
 
-为什么这样写：把演艺圈的"lookism"写成 Darla 内心的声音，让读者看到她如何内化 industry standards；"plain old Jane"与"Darla"（名字含 star 意）的落差，制造人物张力。
+为什么这样写：把演艺圈的""写成 达尔拉 内心的声音，让读者看到她如何内化 ；" "与"达尔拉"（名字含 意）的落差，制造人物张力。
 
 ---
 
@@ -67,15 +70,16 @@ modified: "2026-10-20"
 
 > **原句 4:** "The car's number plate, SKA5783, coincidentally reflected her birth date: 5 July 1983."
 
-中文理解：车牌 SKA5783 巧合地对应她的生日（5 July 1983）。"coincidentally"与"destiny"并置，让读者既看到她的乐观，也看到巧合背后的"命运"——这辆车十六年后会尘封在医院停车场。
+中文理解：车牌 车牌号 巧合地对应她的生日（5 1983）。""与""并置，让读者既看到她的乐观，也看到巧合背后的"命运"——这辆车十六年后会尘封在医院停车场。
 
 句子结构：主语 The car's number plate + 同位语 SKA5783 + 副词 coincidentally + 谓语 reflected + 宾语 her birth date: 5 July 1983。
 
-关键词：number plate（车牌） / coincidentally（巧合地） / birth date（生日）
+关键词：The / car's / number / plate
+
 
 表达方式：感叹号与"destiny"把购车写成仪式；"calling to her"把车拟人化。
 
-为什么这样写：这是全章的收尾高潮，也是全书的"命运之车"意象的起点；车牌=生日的巧合让 Darla 把车读成 destiny，而读者（已读 ch01）知道这辆车十六年后尘封于医院停车场——戏剧反讽在此诞生。
+为什么这样写：这是全章的收尾高潮，也是全书的"命运之车"意象的起点；车牌=生日的巧合让 达尔拉 把车读成，而读者（已读 01）知道这辆车十六年后尘封于医院停车场——戏剧反讽在此诞生。
 
 ---
 

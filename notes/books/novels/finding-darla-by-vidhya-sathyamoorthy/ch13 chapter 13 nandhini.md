@@ -19,15 +19,16 @@ modified: "2026-10-20"
 
 > **原句 1:** "What did she have to do to make the dreams stop?"
 
-中文理解：她要做什么才能让噩梦停止？把 Nandhini 的 desperation 写成 "willing to do just about anything"，把 investigation 写成 "extreme measures"。
+中文理解：她要做什么才能让噩梦停止？把 南迪妮 的 写成 " "，把 写成 " "。
 
 句子结构：疑问句 What did she have to do to make the dreams stop?（主谓宾 + 不定式短语）。
 
-关键词：make the dreams stop（让噩梦停止）
+关键词：What / did / she / have
+
 
 表达方式：recurring nightmare 把 trauma 写成 "chronic"；"willing to do just about anything" 把 desperation 写成 "extreme"。
 
-为什么这样写：把 Nandhini 的 desperation 写成 "willing to do just about anything"，让 Nandhini 的 character 写成 "desperate"——she's willing to break into a car，把 investigation 写成 "extreme measures"；"pangs of guilt for wanting to rid her only remaining connection with paati" 把 grief 写成 "conflicted"。
+为什么这样写：把 南迪妮 的 写成 " "，让 南迪妮 的 写成 ""—— a，把 写成 " "；" 祖母" 把 写成 ""。
 
 ---
 
@@ -35,15 +36,16 @@ modified: "2026-10-20"
 
 > **原句 2:** "Okay. Let's do it."
 
-中文理解：好的，我们开始吧。把 Michael 的 "reformed gangster" 写成 "unwavering ally"——"unwavering faith in her absurd story" 把 Michael 的 trust 写成 "surprise"，把 Nandhini 的 character 写成 "expecting disbelief"。
+中文理解：好的，我们开始吧。把 迈克尔 的 " " 写成 " "——" " 把 迈克尔 的 写成 ""，把 南迪妮 的 写成 " "。
 
 句子结构：祈使句 Okay. Let's do it.（并列祈使）。
 
-关键词：Let's do it（我们开始吧）
+关键词：Okay / Let's
+
 
 表达方式：Michael's "Okay. Let's do it." 把 "reformed gangster" 写成 "unwavering ally"——"unwavering faith in her absurd story" 把 Michael 的 trust 写成 "surprise"。
 
-为什么这样写：把 Michael 的 "Okay. Let's do it." 写成 "unwavering support"，让 Michael 的 character 从 "awkward" 转向 "ally"——"unwavering faith in her absurd story" 把 Michael 的 trust 写成 "surprise"，把 Nandhini 的 character 写成 "expecting disbelief"；"Him, Akmal, Pooja; everyone she'd hesitantly opened up to had reacted so differently than she'd expected" 把 Nandhini 的 support network 写成 "unexpected"。
+为什么这样写：把 迈克尔 的 ". ." 写成 " "，让 迈克尔 的 从 "" 转向 ""——" " 把 迈克尔 的 写成 ""，把 南迪妮 的 写成 " "；", 阿克马尔, 普佳; " 把 南迪妮 的 写成 ""。
 
 ---
 
@@ -51,15 +53,16 @@ modified: "2026-10-20"
 
 > **原句 3:** "You don't need an ex-gangster's help to break into an unlocked car, Nandhini."
 
-中文理解：你不需要前帮派分子的帮助来闯入一辆没锁的车，Nandhini。把 break-in 写成 "anticlimax"——Mike's metal wire 变成 unnecessary，把 "ex-gangster skills" 写成 "overkill"。
+中文理解：你不需要前帮派分子的帮助来闯入一辆没锁的车，南迪妮。把 写成 ""—— 变成，把 " " 写成 ""。
 
 句子结构：主谓宾 You don't need an ex-gangster's help + 不定式短语 to break into an unlocked car + 同位语 Nandhini。
 
-关键词：ex-gangster（前帮派分子） / unlocked car（没锁的车）
+关键词：You / don't / need / gangster's
+
 
 表达方式：break-in scene 把 "unlocked car" 写成 "anticlimax"——Mike's metal wire 变成 unnecessary，把 "ex-gangster skills" 写成 "overkill"。
 
-为什么这样写：把 break-in 写成 "anticlimax"，让 Michael 的 character 写成 "overprepared"——"You don't need an ex-gangster's help to break into an unlocked car" 把 Michael 的 "reformed gangster" 写成 "unnecessary skills"，把 Michael 的 character 写成 "humble"；"giant specks of dust filled the air" 把 "abandoned car" 写成 "time capsule"，把 investigation 写成 "archaeology"。
+为什么这样写：把 写成 ""，让 迈克尔 的 写成 ""——" " 把 迈克尔 的 " " 写成 " "，把 迈克尔 的 写成 ""；" " 把 " " 写成 " "，把 写成 ""。
 
 ---
 
@@ -67,15 +70,16 @@ modified: "2026-10-20"
 
 > **原句 4:** "Nandhini, you're not going to believe this."
 
-中文理解：Nandhini，你不会相信的。把 Pooja's call 写成 "cliffhanger"，把 chapter 写成 "to be continued"。
+中文理解：南迪妮，你不会相信的。把 普佳's 写成 ""，把 写成 " "。
 
 句子结构：直接引语 Nandhini, you're not going to believe this（主谓宾 + 宾语从句）。
 
-关键词：not going to believe this（不会相信的）
+关键词：Nandhini / you're / not / going
+
 
 表达方式：glove compartment discovery 把 "Darla's address" 写成 "lead"，把 investigation 从 "car" 转向 "address"；"You're not going to believe this" 把 Pooja's call 写成 "cliffhanger"。
 
-为什么这样写：把 glove compartment discovery 写成 "lead"，让 investigation 从 "car" 转向 "address"——Nandhini 现在有 Darla 的 KL residential address，把 investigation 从 "what happened to the car" 转向 "where is Darla"；"You're not going to believe this" 把 Pooja's call 写成 "cliffhanger"，把 chapter 写成 "to be continued"。
+为什么这样写：把 写成 ""，让 从 "" 转向 ""——南迪妮 现在有 达尔拉 的 吉隆坡，把 从 " " 转向 " 达尔拉"；" " 把 普佳's 写成 ""，把 写成 " "。
 
 ---
 
@@ -99,7 +103,6 @@ modified: "2026-10-20"
 | nonchalantly | casually 地 | "Mike pulled up into a nearby lot and got down nonchalantly" |
 | jovially | jovially 地 | "Mike asked, waving jovially at the guard on the way out" |
 
-
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
@@ -109,7 +112,6 @@ modified: "2026-10-20"
 | glove compartment | 手套箱 | "opened the glove compartment" |
 | Bingo | 宾果 | "Bingo. Letters and some other papers." |
 | near escape | 险些被抓 | "her heart still palpitating from the near escape" |
-
 
 ## 一句话总结
 

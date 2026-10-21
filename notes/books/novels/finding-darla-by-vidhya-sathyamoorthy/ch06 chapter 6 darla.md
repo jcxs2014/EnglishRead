@@ -19,15 +19,16 @@ modified: "2026-10-20"
 
 > **原句 1:** "I like what you did."
 
-中文理解：Ms Farah 说"我喜欢你做的。"把 director's approval 写成 career boost，让 Darla 的 confidence 保持 tentative。
+中文理解： 说"我喜欢你做的。"把 写成，让 达尔拉 的 保持。
 
 句子结构：主谓宾 I like what you did（宾语从句 what you did）。
 
-关键词：like（喜欢） / did（做）
+关键词：like / what / you / did
+
 
 表达方式：improvisation trope 把 Darla 的 creative instinct 写成 first-day risk；Ms Farah 的 "I like what you did" 把 director's approval 写成 career boost。
 
-为什么这样写：把 Darla 的 first acting credit 写成 "improvisation rewarded"，让她的人物 arc 从 "botched audition" 转向 "confidence building"；Ms Farah 作为 first-time director 把 "calm & confident" 写成 director archetype。
+为什么这样写：把 达尔拉 的 写成 " "，让她的人物 从 " " 转向 " "； 作为 把 " & " 写成。
 
 ---
 
@@ -35,15 +36,16 @@ modified: "2026-10-20"
 
 > **原句 2:** "He mimicked her happy dance teasingly."
 
-中文理解：他戏谑地模仿她的快乐舞蹈。把 crush 写成 teasing 而非 serious，把 "happy dance caught" 写成 comedic meet-cute。
+中文理解：他戏谑地模仿她的快乐舞蹈。把 写成 而非，把 " " 写成。
 
 句子结构：主谓宾 He mimicked her happy dance + 副词 teasingly。
 
-关键词：mimicked（模仿） / teasingly（戏谑地）
+关键词：mimicked / her / happy / dance
+
 
 表达方式：comedy of errors 把 Darla 的 embarrassment 写成 slapstick。
 
-为什么这样写：把 "happy dance caught" 写成 comedic meet-cute，让 Donny 的 character 通过 reaction 建立——he's amused & teasing，not judgmental；"beet red Darla knocking head against steering wheel" 把 embarrassment 写成 physical comedy。
+为什么这样写：把 " " 写成，让 唐尼 的 通过 建立—— &， ；" 达尔拉 " 把 写成。
 
 ---
 
@@ -51,15 +53,16 @@ modified: "2026-10-20"
 
 > **原句 3:** "the audition is actually today."
 
-中文理解：试镜其实就在今天。把 opportunity 写成 time-pressured，让 Darla 的 arc 从 "extra" 转向 "lead audition"。
+中文理解：试镜其实就在今天。把 写成，让 达尔拉 的 从 "" 转向 " "。
 
 句子结构：主系表 the audition is actually today。
 
-关键词：audition（试镜） / today（今天）
+关键词：the / audition / actually / today
+
 
 表达方式：phone call 把 opportunity 写成 time-pressured；"two hours, to be exact" 把 urgency 具象化。
 
-为什么这样写：把 Jaga 的 call 写成 "unexpected opportunity"，让 Darla 的 arc 从 "extra" 转向 "lead audition"；"Ms Farah pulled some strings" 把 industry networking 写成 concrete support。
+为什么这样写：把 贾加 的 写成 " "，让 达尔拉 的 从 "" 转向 " "；" " 把 写成。
 
 ---
 
@@ -67,15 +70,16 @@ modified: "2026-10-20"
 
 > **原句 4:** "Yes, a man from my dreams."
 
-中文理解：是的，一个来自我梦境的男人。把 panic 写成 internal monologue，把 improvisation → genuine emotion 的 arc 写成 "raw"而非 "polished"。
+中文理解：是的，一个来自我梦境的男人。把 写成，把 → 的 写成 ""而非 ""。
 
 句子结构：直接引语 Yes, a man from my dreams（主系表）。
 
-关键词：dreams（梦境）
+关键词：Yes / man / from / dreams
+
 
 表达方式：audition scene 把 performance pressure 写成 real-time；"Oh shit, what was my line?" 把 panic 写成 internal monologue。
 
-为什么这样写：把 first audition 写成 "improvisation → genuine emotion" 的 arc，让 Darla 的 talent 写成 "raw"而非 "polished"；Teresa 的 "surly" 与 "hint of a smile" 把 director's judgment 写成 earned approval。
+为什么这样写：把 写成 " → " 的，让 达尔拉 的 写成 ""而非 ""；特蕾莎 的 "" 与 " a " 把 写成。
 
 ---
 
@@ -83,15 +87,16 @@ modified: "2026-10-20"
 
 > **原句 5:** "Before she could finish, Donny had pulled her into his arms and kissed her hungrily."
 
-中文理解：在她能说完之前，Donny 已经把她拉入怀中，贪婪地吻了她。把 on-screen kiss 写成 genuine emotion，把 crush 写成 involuntary。
+中文理解：在她能说完之前，唐尼 已经把她拉入怀中，贪婪地吻了她。把 写成，把 写成。
 
 句子结构：时间状语从句 Before she could finish + 主谓宾 Donny had pulled her into his arms and kissed her hungrily。
 
-关键词：pulled（拉） / kissed hungrily（贪婪地吻）
+关键词：Before / she / could / finish
+
 
 表达方式：chemistry test 把 on-screen kiss 写成 genuine emotion——"hadn't realized how emotional" 与 "feeling disappointed" 把 acting 与 feeling 的 boundary 模糊。
 
-为什么这样写：把 chemistry test 写成 "acting → feeling" 的 blur，让 Darla 的 crush 写成 genuine 而非 scripted；"Oh god, what has he done to me?" 把 crush 写成 involuntary，为后文 relationship development 埋下 foreshadowing。
+为什么这样写：把 写成 " → " 的，让 达尔拉 的 写成 而非 ；" , ?" 把 写成，为后文 埋下。
 
 ---
 

@@ -19,15 +19,16 @@ modified: "2026-10-20"
 
 > **原句 1:** "Two lines."
 
-中文理解：两条线。把 pregnancy 写成 "weight of the world"，把 "two lines" 写成 "life-altering"，把 pregnancy 写成 "culmination"——from father's arms 到 Donny's nights，把 pregnancy 写成 "sum of her choices"。
+中文理解：两条线。把 写成 " "，把 " " 写成 ""，把 写成 ""—— 到 唐尼's，把 写成 " "。
 
 句子结构：独立短句 Two lines。
 
-关键词：two lines（两条线，验孕）
+关键词：Two / lines
+
 
 表达方式：pregnancy discovery 把 "two lines" 写成 "weight of the world"，把 pregnancy 写成 "life-altering"。
 
-为什么这样写：把 pregnancy discovery 写成 "weight of the world"，让 pregnancy 写成 "life-altering" 而非 "inconvenient"；life snippets 把 Darla 的 life 写成 "flashback"，把 pregnancy 写成 "culmination"——from father's arms 到 Donny's nights，把 pregnancy 写成 "sum of her choices"。
+为什么这样写：把 写成 " "，让 写成 "" 而非 ""； 把 达尔拉 的 写成 ""，把 写成 ""—— 到 唐尼's，把 写成 " "。
 
 ---
 
@@ -35,15 +36,16 @@ modified: "2026-10-20"
 
 > **原句 2:** "Her body was on fire."
 
-中文理解：她的身体在燃烧。把 first night 写成 "passionate"，把 sex 写成 "primitive"，把 Donny 的 "smouldering look" 写成 "mutual desire"。
+中文理解：她的身体在燃烧。把 写成 ""，把 写成 ""，把 唐尼 的 " " 写成 " "。
 
 句子结构：主系表 Her body was on fire。
 
-关键词：on fire（在燃烧）
+关键词：Her / body / was / fire
+
 
 表达方式：first night 把 Donny-Darla 的 intimacy 写成 "passionate"——"body was on fire" 把 sex 写成 "primitive"。
 
-为什么这样写：把 first night 写成 "passionate"，让 Donny-Darla 的 relationship 写成 "intense" 而非 "manipulative"——at this point，Donny 的 character 写成 "romantic lead"，把 Donny 的 "smouldering look" 与 "cupped her breast" 写成 "mutual desire"；"love bite that she would discover the next day" 把 sex 写成 "consequence"，把 Donny 的 "hungrily" 写成 "leaving mark"，为后文 pregnancy 埋下 foreshadowing。
+为什么这样写：把 写成 ""，让 唐尼-达尔拉 的 写成 "" 而非 ""——，唐尼 的 写成 " "，把 唐尼 的 " " 与 " " 写成 " "；" " 把 写成 ""，把 唐尼 的 "" 写成 " "，为后文 埋下。
 
 ---
 
@@ -51,15 +53,16 @@ modified: "2026-10-20"
 
 > **原句 3:** "Get rid of it."
 
-中文理解：除掉它。把 Donny 的 "romantic lead" 写成 "abusive rejector"——"Get rid of it" 把 pregnancy 写成 "problem"，把 Donny 的 character 写成 "selfish"。
+中文理解：除掉它。把 唐尼 的 " " 写成 " "——" " 把 写成 ""，把 唐尼 的 写成 ""。
 
 句子结构：祈使句 Get rid of it。
 
-关键词：Get rid of it（除掉它）
+关键词：Get / rid
+
 
 表达方式：Donny's rejection 把 "romantic lead" 写成 "abusive rejector"——"Get rid of it" 把 pregnancy 写成 "problem"，把 Donny 的 character 写成 "selfish"。
 
-为什么这样写：把 Donny's rejection 写成 "abusive"，让 Donny 的 character 从 "romantic lead" 转向 "abusive rejector"——"Get rid of it" 把 pregnancy 写成 "problem"，把 Donny 的 character 写成 "selfish"；"Whore like you, could be anybody's" 把 Donny 的 "smouldering look" 写成 "contempt"，把 Donny 的 "charming smile" 写成 "menacing"。
+为什么这样写：把 唐尼's 写成 ""，让 唐尼 的 从 " " 转向 " "——" " 把 写成 ""，把 唐尼 的 写成 ""；" , " 把 唐尼 的 " " 写成 ""，把 唐尼 的 " " 写成 ""。
 
 ---
 
@@ -67,15 +70,16 @@ modified: "2026-10-20"
 
 > **原句 4:** "Why? Why? WHY?"
 
-中文理解：为什么？为什么？为什么？把 grief 写成 "repetition"，把 pain 写成 "escalation"，把 Ariyah 的 rage 写成 "physical"，把 "mirror" 写成 "self"。
+中文理解：为什么？为什么？为什么？把 写成 ""，把 写成 ""，把 阿里亚 的 写成 ""，把 "" 写成 ""。
 
 句子结构：疑问句 Why? Why? WHY?（重复，升级）。
 
-关键词：Why?（为什么）
+关键词：Why
+
 
 表达方式：raw improvisation 把 Darla 的 final scene 写成 "raw"——"Why? Why? WHY?" 把 grief 写成 "repetition"，把 pain 写成 "escalation"。
 
-为什么这样写：把 raw improvisation 写成 "real pain"，让 Darla 的 acting 写成 "not acting"——"If Teresa hadn't called cut, would I have …" 把 Ariyah 的 "I want Jack … forever" 写成 Darla's own suicidal ideation，把 acting 写成 "dangerous"；"mirror and her spirit both came crashing down" 把 "mirror" 写成 "self"，把 "reflection" 写成 "self-destruction"。
+为什么这样写：把 写成 " "，让 达尔拉 的 写成 " "——" 特蕾莎 , I …" 把 阿里亚 的 "I 杰克 … " 写成 达尔拉's，把 写成 ""；" " 把 "" 写成 ""，把 "" 写成 ""。
 
 ---
 

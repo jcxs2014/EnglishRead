@@ -19,15 +19,16 @@ modified: "2026-10-20"
 
 > **原句 1:** "Darla was in the Covid ward with Paati back in 2021? And their beds were side-by-side?"
 
-中文理解：Darla 2021 年和 Paati 在 Covid 病房？他们的床位是并排的？把 Darla 从 "mystery woman" 转向 "tragic figure"—— she died of respiratory failure at 40，no next of kin，cremated。
+中文理解：达尔拉 2021 年和祖母在新冠疫情病房？他们的床位是并排的？把达尔拉从"神秘人物"转向"悲惨人物"——她死于呼吸衰竭，年仅四十岁，无最近亲属，火化。
 
 句子结构：疑问句 Darla was in the Covid ward with Paati back in 2021? And their beds were side-by-side?（并列疑问）。
 
-关键词：Covid ward（Covid 病房） / side-by-side（并排）
+关键词：Darla / was / the / Covid
+
 
 表达方式：Pooja 的 report 把 Darla 的 death 写成 "matter-of-fact"（ matter-of-fact），把 Covid 写成 "ruthless"（ ruthlessly）。
 
-为什么这样写：把 Darla 与 Paati 的 connection 写成 "Covid ward"（Covid 病房），让 Nandhini 的 investigation 写成 "emotional"（情感的）而非 "rational"（理性的）；"no next of kin" 把 Darla 的 death 写成 "tragic"（悲剧的），把 investigation 从 "find car owner" 转向 "reunite Darla with family"。
+为什么这样写：把 达尔拉 与 祖母 的 写成 "新冠疫情 "（新冠疫情 病房），让 南迪妮 的 写成 ""（情感的）而非 ""（理性的）；" " 把 达尔拉 的 写成 ""（悲剧的），把 从 " " 转向 " 达尔拉 "。
 
 ---
 
@@ -35,15 +36,16 @@ modified: "2026-10-20"
 
 > **原句 2:** "I didn't do it for you; I did it for Paati."
 
-中文理解：我不是为你做的，我是为 Paati 做的。把 Pooja 的 character 从 "derisive" 转向 "hidden heart"，把 "I'm obviously the more sensible choice" 写成 "asinine comment"（愚蠢的评论）。
+中文理解：我不是为你做的，我是为 祖母 做的。把 普佳 的 从 "" 转向 " "，把 "I'm " 写成 " "（愚蠢的评论）。
 
 句子结构：主谓宾 I didn't do it for you + 并列 I did it for Paati。
 
-关键词：did it for Paati（为 Paati 做的）
+关键词：didn't / for / you / did
+
 
 表达方式：Pooja 的 "I didn't do it for you; I did it for Paati" 把 Pooja 的 character 写成 "hidden heart"，把 "I'm obviously the more sensible choice" 写成 "asinine comment"。
 
-为什么这样写：把 Pooja 的 character 从 "derisive" 转向 "hidden heart"——"I didn't do it for you; I did it for Paati" 把 Pooja 的 help 写成 "guilt-driven"（愧疚驱动的），把 Pooja 的 character 写成 "complex"（复杂的）；"I'm obviously the more sensible choice" 把 Pooja 的 "derisive" character 写成 "asinine"（愚蠢的），把 Nandhini 的 warmth 写成 "dissipated"（消散的）。
+为什么这样写：把 普佳 的 从 "" 转向 " "——"I ; I 祖母" 把 普佳 的 写成 ""（愧疚驱动的），把 普佳 的 写成 ""（复杂的）；"I'm " 把 普佳 的 "" 写成 ""（愚蠢的），把 南迪妮 的 写成 ""（消散的）。
 
 ---
 
@@ -51,15 +53,16 @@ modified: "2026-10-20"
 
 > **原句 3:** "A penny for your thoughts?"
 
-中文理解：想什么？把 Michael 的 playful tone 写成 "friendship"，把 Nandhini 的 character 写成 "flustered"（慌乱的）。
+中文理解：想什么？把 迈克尔 的 写成 ""，把 南迪妮 的 写成 ""（慌乱的）。
 
 句子结构：疑问句 A penny for your thoughts?（习语，疑问）。
 
-关键词：A penny for your thoughts（想什么？/ penny for your thoughts）
+关键词：penny / for / your / thoughts
+
 
 表达方式：chicken rice setting 把 meeting 写成 casual 与 warm；Michael 的 "A penny for your thoughts?" 把 friendship 写成 "playful"。
 
-为什么这样写：把 Michael-Nandhini 的 relationship 从 "awkward" 转向 "playful"——"A penny for your thoughts?" 把 Michael 的 character 写成 "playful"，把 Nandhini 的 character 写成 "flustered"；"You meant to say you didn't expect to hear it from a thug" 把 Michael 的 "reformed gangster" 写成 "self-aware"，把 Nandhini 的 "insensitive remark" 写成 "almost said"。
+为什么这样写：把 迈克尔-南迪妮 的 从 "" 转向 ""——"A ?" 把 迈克尔 的 写成 ""，把 南迪妮 的 写成 ""；" a " 把 迈克尔 的 " " 写成 ""，把 南迪妮 的 " " 写成 " "。
 
 ---
 
@@ -67,15 +70,16 @@ modified: "2026-10-20"
 
 > **原句 4:** "Had Darla had children of her own?"
 
-中文理解：Darla 有自己的孩子吗？把 Nandhini 的 imagination 写成 "empathy"（共情），把 Darla 的 character 写成 "tragic figure"—— "Maybe she got married and started a family. Maybe that's why she stopped acting." 把 Darla 的 "disappearance from spotlight" 写成 "mystery"。
+中文理解：达尔拉 有自己的孩子吗？把 南迪妮 的 写成 ""（共情），把 达尔拉 的 写成 " "—— " a . ." 把 达尔拉 的 " " 写成 ""。
 
 句子结构：疑问句 Had Darla had children of her own?（过去完成时，疑问）。
 
-关键词：children of her own（自己的孩子）
+关键词：Had / Darla / children / her
+
 
 表达方式：playground imagination 把 Nandhini 的 empathy 写成 "visualization"—— "Had Darla had children of her own?" 把 Darla 的 character 写成 "tragic figure"。
 
-为什么这样写：把 Nandhini 的 imagination 写成 "empathy"，让 Nandhini 的 character 写成 "empathetic"——"Had Darla had children of her own?" 把 Darla 的 character 写成 "tragic figure"，把 "disappearance from spotlight" 写成 "mystery"；"Maybe someone put an end to her career" 把 Darla 的 "disappearance" 写成 "possible foul play"（可能的不端行为），把 investigation 写成 "deepening"。
+为什么这样写：把 南迪妮 的 写成 ""，让 南迪妮 的 写成 ""——" 达尔拉 ?" 把 达尔拉 的 写成 " "，把 " " 写成 ""；" " 把 达尔拉 的 "" 写成 " "（可能的不端行为），把 写成 ""。
 
 ---
 

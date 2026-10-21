@@ -19,15 +19,16 @@ modified: "2026-10-20"
 
 > **原句 1:** "She had just sent out the gazzilionth reminder to her client."
 
-中文理解：她刚发出第" gazillionth"（无数）封催款提醒。"gazzilionth"的拼写错误是人物 voice 的一部分（frustrated hyperbole），把 freelance 追款写成"日常 grind"而非"戏剧冲突"。
+中文理解：她刚发出第" "（无数）封催款提醒。""的拼写错误是人物 的一部分（ ），把 自由职业 追款写成"日常 "而非"戏剧冲突"。
 
 句子结构：主语 She + 谓语 had just sent out + 宾语 the gazzilionth reminder + 介词短语 to her client。
 
-关键词：gazzilionth（无数的） / reminder（提醒） / client（客户）
+关键词：She / had / just / sent
+
 
 表达方式：拟声词开篇把 frustrated mood 具象化。
 
-为什么这样写：把 freelance 追款写成"日常 grind"，让读者看到 Nandhini 的经济 precariousness 是慢性的、grinding 的；Marie Cooper 作为"nice but doesn't pay"的客户，是 gig economy 人物的典型。
+为什么这样写：把 自由职业 追款写成"日常 "，让读者看到 南迪妮 的经济 是慢性的、 的；玛丽·库珀 作为" "的客户，是 人物的典型。
 
 ---
 
@@ -35,15 +36,16 @@ modified: "2026-10-20"
 
 > **原句 2:** "Presenting herself as anonymously as possible was a tactical choice."
 
-中文理解：匿名化是策略选择。Nandhini 用"Nani"在 WhatsApp 介绍自己，agent 看到"dark-skinned Indian girl"时 taken aback；她曾因 being Indian 被 several agents straight off the bat 拒绝。
+中文理解：匿名化是策略选择。南迪妮 用""在 介绍自己， 看到" "时 ；她曾因 被 拒绝。
 
 句子结构：动名词短语 Presenting herself as anonymously as possible 作主语 + 主系表 was a tactical choice。
 
-关键词：anonymously（匿名地） / tactical choice（策略选择）
+关键词：Presenting / herself / anonymously / possible
+
 
 表达方式：把种族歧视写成 concrete episode，把生存策略 rationalize。
 
-为什么这样写：把 KL 的 housing discrimination 写成 Nandhini 的日常 tactical choice，而非戏剧化的种族冲突；"Nani"化名与"waist-length hair"的细节把身份伪装写成 embodied（具身的）策略。
+为什么这样写：把 吉隆坡 的 写成 南迪妮 的日常，而非戏剧化的种族冲突；""化名与" "的细节把身份伪装写成 （具身的）策略。
 
 ---
 
@@ -51,15 +53,16 @@ modified: "2026-10-20"
 
 > **原句 3:** "Lie #2."
 
-中文理解："Lie #2"把谎言编号化，让读者看到 Nandhini 的"double life"是 systematic（系统性的）而非一时冲动。她答"在吃 chicken chop with fries"（Lie #2），低头看却是 cold grilled cheese and overcooked egg，longing for mother's cooking。
+中文理解：南迪妮 把谎言编号化，让读者看到她的"双重生活"是系统性的而非一时冲动。她答"在吃鸡饭"（谎言二），低头看却是冷格瑞尔芝士和煎过头的鸡蛋，渴望母亲的烹饪。
 
 句子结构：独立短语 Lie #2（叙述者介入）。
 
-关键词：Lie #2（第二处谎言） / longed for（渴望）
+关键词：Lie
+
 
 表达方式：叙述者用"Lie #1/#2/#3"把谎言编号，把"white lie"写成 systematic deception。
 
-为什么这样写：把母女通话写成"three lies in one call"，让读者看到 Nandhini 的"double life"是 cumulative（累积的）；"jabbed"与"longed for"的并置：母亲的"关心"以 jabbing 的形式出现，而 Nandhini 的 longing 却是对母亲 cooking 的——她想家，却不能回家。
+为什么这样写：把母女通话写成" "，让读者看到 南迪妮 的"双重生活"是 （累积的）；""与" "的并置：母亲的"关心"以 的形式出现，而 南迪妮 的 却是对母亲 的——她想家，却不能回家。
 
 ---
 
@@ -67,15 +70,16 @@ modified: "2026-10-20"
 
 > **原句 4:** "That virus had taken too much away from her. Her job, her paati …"
 
-中文理解：裁员通知 shattered 了她 near perfect life——她曾是 Parit Buntar 的 pride，academic record 优秀、city job 高薪；一切 crashing down。"because of a bloody microscopic virus she couldn't even see"把 Covid-19 写成 invisible enemy；"Her job, her paati …"把损失从 career 扩展到 family（paati = 祖母）。
+中文理解：裁员通知 了她 ——她曾是 的， 优秀、 高薪；一切。" a "把 新冠疫情 写成 ；" , 祖母 …"把损失从 扩展到 （祖母 = 祖母）。
 
 句子结构：主谓宾 That virus had taken too much away from her + 独立短句 Her job, her paati …（省略号）。
 
-关键词：retrenchment notice（裁员通知） / shattered（粉碎） / paati（祖母，Tamil） / distraction（分心）
+关键词：That / virus / had / taken
+
 
 表达方式：闪回式叙述，把 past 与 present 对比；"Her job, her paati …"的省略号把 grief 写成未完成。
 
-为什么这样写：把 Covid-19 的 impact 写成 personal loss（job + paati）而非 statistics，让 pandemic 成为 Nandhini 的 personal tragedy；"paati"的 Tamil 词与"job"并列，把 career loss 与 family loss 等重，暗示 paati 之死是 Nandhini 未愈的 wound。
+为什么这样写：把 新冠疫情 的 写成 （ + 祖母）而非，让 成为 南迪妮 的 ；"祖母"的 词与""并列，把 与 等重，暗示 祖母 之死是 南迪妮 未愈的。
 
 ---
 
@@ -83,15 +87,16 @@ modified: "2026-10-20"
 
 > **原句 5:** "That car … her paati … NO!"
 
-中文理解："That car … her paati"把 ch01 的废弃 Proton Saga 与 paati 之死并置——梦中，车与祖母在同一画面里，Nandhini 的 subconscious 把"被遗忘的车辆"与"被遗忘/失去的祖母"缝合。"NO!"的全大写把拒绝具象化。
+中文理解：" … 祖母"把 01 的废弃 与 祖母 之死并置——梦中，车与祖母在同一画面里，南迪妮 的 把"被遗忘的车辆"与"被遗忘/失去的祖母"缝合。"!"的全大写把拒绝具象化。
 
 句子结构：独立短语链 That car … her paati … NO!（省略号 + 感叹）。
 
-关键词：paati（祖母，Tamil） / NO!（否定/拒绝）
+关键词：That / car / her / paati
+
 
 表达方式：身体反应（gasped/heart raced/sweat）把 nightmare 的 somatic dimension 写出；省略号把 dream 的内容留白。
 
-为什么这样写：把 ch01 的"废弃 Proton Saga"与 paati 之死缝合在梦中，是全书悬疑的"psychological bridge"的完成——Nandhini 的 subconscious 把"被遗忘的车辆"读成"被遗忘的祖母"；"NO!"的 scream 把 loss 写成 irreversible，为后文 Nandhini 的"investigation"埋下 motivation。
+为什么这样写：把 01 的"废弃 "与 祖母 之死缝合在梦中，是全书悬疑的" "的完成——南迪妮 的 把"被遗忘的车辆"读成"被遗忘的祖母"；"!"的 把 写成，为后文 南迪妮 的""埋下。
 
 ---
 

@@ -19,15 +19,16 @@ modified: "2026-10-20"
 
 > **原句 1:** "Come on, just a little further."
 
-中文理解：来吧，再坚持一下。把 Darla 的 drive 写成 "struggle"（挣扎），把 Darla 的 character 写成 "determined"（决心的）。
+中文理解：来吧，再坚持一下。把 达尔拉 的 写成 ""（挣扎），把 达尔拉 的 写成 ""（决心的）。
 
 句子结构：祈使句 Come on, just a little further（并列祈使）。
 
-关键词：Come on（来吧） / just a little further（再坚持一下）
+关键词：Come / just / little / further
+
 
 表达方式：Darla's drive 把 "struggle" 写成 "Come on, just a little further"，把 Darla 的 character 写成 "determined"。
 
-为什么这样写：把 Darla 的 drive 写成 "struggle"，让 Darla 的 character 写成 "determined"——"Come on, just a little further" 把 Darla 的 character 写成 "determined"，把 Darla 的 drive 写成 "struggle"；"She took a few steps forward and stumbled, almost falling but catching herself before she did" 把 Darla 的 character 写成 "struggling"（挣扎的），把 Covid 写成 "debilitating"（ debilitating）。
+为什么这样写：达尔拉挣扎，决心前往医院；拉克什米安慰达尔拉，祈祷她的灵魂安息；达尔拉绝望，需要见茉莉；达尔拉去世，拉克什米哀悼并祈祷。
 
 ---
 
@@ -35,15 +36,16 @@ modified: "2026-10-20"
 
 > **原句 2:** "You'll be okay, ma. So young and strong."
 
-中文理解：你会没事的，孩子。这么年轻、这么强壮。把 Lakshmi 写成 "kind stranger"（善良的陌生人），把 Lakshmi 的 character 写成 "reassuring"（ reassuring）。
+中文理解：你会没事的，孩子。这么年轻、这么强壮。
 
 句子结构：主谓宾 You'll be okay, ma + 并列 So young and strong（省略主语 you're）。
 
-关键词：okay（没事） / young and strong（年轻强壮）
+关键词：You'll / okay / young / and
+
 
 表达方式：Lakshmi's reassurance 把 "kind stranger" 写成 "reassuring"——"Aunty Lakshmi will be praying for you. Sleep and rest, dear." 把 Lakshmi 写成 "praying"（祈祷的），把 Lakshmi 的 character 写成 "comforting"（安慰的）。
 
-为什么这样写：把 Lakshmi 写成 "kind stranger"，让 Lakshmi 的 character 写成 "reassuring"——"You'll be okay, ma. So young and strong" 把 Lakshmi 的 character 写成 "reassuring"，把 Lakshmi 写成 "Aunty Lakshmi"（ Lakshmi 阿姨）；"Aunty Lakshmi will be praying for you. Sleep and rest, dear." 把 Lakshmi 的 character 写成 "praying"（祈祷的），把 Lakshmi 写成 "comforting"（安慰的）。
+为什么这样写：达尔拉挣扎，决心前往医院；拉克什米安慰达尔拉，祈祷她的灵魂安息；达尔拉绝望，需要见茉莉；达尔拉去世，拉克什米哀悼并祈祷。
 
 ---
 
@@ -51,15 +53,16 @@ modified: "2026-10-20"
 
 > **原句 3:** "Jasmine … no … I need to meet her … this can't be … I can't …"
 
-中文理解：Jasmine … 不 … 我需要见她 … 这不可能 … 我不能 … 把 Darla 的 note 写成 "clue"（线索），把 Darla 的 character 写成 "desperate"（绝望的）。
+中文理解：茉莉 … 不 … 我需要见她 … 这不可能 … 我不能 … 把 达尔拉 的 写成 ""（线索），把 达尔拉 的 写成 ""（绝望的）。
 
 句子结构：独立短语链 Jasmine … no … I need to meet her … this can't be … I can't …（省略号 + 独立短语）。
 
-关键词：Jasmine（Jasmine） / need to meet her（需要见她） / this can't be（这不可能）
+关键词：Jasmine / need / meet / her
+
 
 表达方式：Darla's note 把 "clue" 写成 "scrawled"（潦草地写），把 Darla 的 character 写成 "desperate"。
 
-为什么这样写：把 Darla 的 note 写成 "clue"，让 Darla 的 character 写成 "desperate"——"Jasmine … no … I need to meet her … this can't be … I can't …" 把 Darla 的 character 写成 "desperate"，把 Darla 的 note 写成 "clue"；"She scrawled something on the paper, fighting to get every word out" 把 Darla 的 character 写成 "struggling"（挣扎的），把 Darla 的 note 写成 "clue"。
+为什么这样写：达尔拉挣扎，决心前往医院；拉克什米安慰达尔拉，祈祷她的灵魂安息；达尔拉绝望，需要见茉莉；达尔拉去世，拉克什米哀悼并祈祷。
 
 ---
 
@@ -67,15 +70,16 @@ modified: "2026-10-20"
 
 > **原句 4:** "Time of death, 10.08 p.m."
 
-中文理解：死亡时间，晚上 10 点 08 分。把 Darla 的 death 写成 "tragic"（悲剧的），把 Darla 的 character 写成 "gone"（ gone）。
+中文理解：死亡时间，晚上 10 点 08 分。
 
 句子结构：直接引语 Time of death, 10.08 p.m.（主谓宾 + 时间状语）。
 
-关键词：Time of death（死亡时间） / 10.08 p.m.（晚上 10 点 08 分）
+关键词：Time / death
+
 
 表达方式：Darla's death 把 "tragic" 写成 "time of death"，把 Darla 的 character 写成 "gone"。
 
-为什么这样写：把 Darla's death 写成 "tragic"，让 Darla 的 character 写成 "gone"——"Time of death, 10.08 p.m." 把 Darla 的 death 写成 "tragic"，把 Darla 的 character 写成 "gone"；"Lakshmi gasped and let out a mournful cry" 把 Lakshmi 的 character 写成 "mourning"（哀悼的），把 Lakshmi 写成 "praying witness"（祈祷的见证者）。
+为什么这样写：达尔拉挣扎，决心前往医院；拉克什米安慰达尔拉，祈祷她的灵魂安息；达尔拉绝望，需要见茉莉；达尔拉去世，拉克什米哀悼并祈祷。
 
 ---
 
@@ -83,15 +87,16 @@ modified: "2026-10-20"
 
 > **原句 5:** "Lord, may her soul rest in peace. Om namasivaya."
 
-中文理解：主啊，愿她的灵魂安息。Om namasivaya。把 Lakshmi 的 prayer 写成 "praying witness"，把 Lakshmi 写成 "vessel"（容器）。
+中文理解：主啊，愿她的灵魂安息。把 拉克什米 的 写成 " "，把 拉克什米 写成 ""（容器）。
 
 句子结构：直接引语 Lord, may her soul rest in peace. Om namasivaya（祈使 + 梵文）。
 
-关键词：rest in peace（安息） / Om namasivaya（Om namasivaya，湿婆赞歌）
+关键词：Lord / may / her / soul
+
 
 表达方式：Lakshmi's prayer 把 "praying witness" 写成 "vessel"——"Lord, for the tormented souls that leave this dreadful place, use me as your vessel to guide them towards Atma Shanti" 把 Lakshmi 写成 "vessel"（容器），把 Lakshmi 的 character 写成 "praying"（祈祷的）。
 
-为什么这样写：把 Lakshmi 的 prayer 写成 "praying witness"，让 Lakshmi 的 character 写成 "vessel"——"Lord, for the tormented souls that leave this dreadful place, use me as your vessel to guide them towards Atma Shanti" 把 Lakshmi 写成 "vessel"（容器），把 Lakshmi 的 character 写成 "praying"（祈祷的）；"She opened her contacts and clicked on 'Nandhini'" 把 Lakshmi 写成 "Paati"（Nandhini's grandmother），把 Lakshmi 的 character 写成 "connected to Nandhini"（与 Nandhini 联系）。
+为什么这样写：达尔拉挣扎，决心前往医院；拉克什米安慰达尔拉，祈祷她的灵魂安息；达尔拉绝望，需要见茉莉；达尔拉去世，拉克什米哀悼并祈祷。
 
 ---
 
