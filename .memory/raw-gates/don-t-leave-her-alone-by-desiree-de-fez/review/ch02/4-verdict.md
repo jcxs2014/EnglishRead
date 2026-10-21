@@ -6,6 +6,7 @@
 - 流程：R1 素读（`review/ch02/1-suread.json`）→ R2 机器层 → R3 差异单（`review/ch02/3-diff.md`）→ R4 逐块＋固定三问
 - 行号约定：`text/ch02_chapter_2.txt:NNN`＝原文行号；`md:NNN`＝成品 md 行号
 - 取证口径：全部用显式路径 `/usr/bin/grep`（`text/` 被 `.gitignore` 忽略，`git grep` 对它永远查无），短词用 `-w`，交替匹配用 `-E`；词数按空格切分实测
+- 签名：DSH-Mac
 
 ---
 
