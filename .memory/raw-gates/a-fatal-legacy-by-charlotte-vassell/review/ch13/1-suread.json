@@ -1,0 +1,134 @@
+{
+  "chapter": "13",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch13_13.txt",
+  "source_size": { "chars": 11292, "bytes": 11860, "lines": 280 },
+  "offset_convention": "字符区间 = 0-based [start, end) 的 Unicode 码位偏移，对 text/ch13_13.txt 全文；行号为 Read 工具显示的 1-based 行号",
+  "suread_events": [
+    {
+      "id": "E1",
+      "who": "Matt / Caius / Amy",
+      "what": "午饭便当互查：Matt 怀疑 Caius 的三明治有问题；Caius 说只是普通鸡肉沙拉、生菜与黄瓜、非有机、从 Sainsbury's 买的；Callie 用活酸奶烤面包卷，配方来自线上「gastroenterologist-cum-chef」，M&S 基础款，裱了七种种子；Amy 裁定今天这分给 Caius，比分 Caius 11、Matt 7；输的人月底请客，Matt 需请大家吃 bánh mì（周五）",
+      "range": [41, 2038],
+      "lines": "20-86",
+      "verbatim_numbers": ["Only seven.", "Not eight?", "Caius 11, Matt 7", "seven different types of seeds", "Friday"]
+    },
+    {
+      "id": "E2",
+      "who": "Caius",
+      "what": "Matt 问生菜会不会有 hemlock（毒芹）；Caius 答刚收到食品标准局（Food Standards Agency）邮件：已调查 Digby 那批袋装沙拉来源农场，温室里完全没有毒芹痕迹；结句为「It was murder.」",
+      "range": [2082, 2453],
+      "lines": "92-95",
+      "verbatim_numbers": ["no trace of hemlock in their polytunnels whatsoever", "It was murder."]
+    },
+    {
+      "id": "E3",
+      "who": "Caius / Amy / Matt",
+      "what": "Matt 回 Digby 公寓找地址簿；Caius 与 Amy 在研究所过滤文件。Barry 的报告：已排除 Willow 与 Digby 的指纹，发现两枚彼此相同的部分指纹，一枚在图书馆门上，一枚在那个被漆盖住的地下室门上；未匹配到有前科的人。Caius 说可能是 Isolde，但理由是访客不多，也可能只是随便看看的人",
+      "range": [2467, 3875],
+      "lines": "105-132",
+      "verbatim_numbers": ["two partial prints that match each other", "one on the library door and one on the door to the basement that has been painted over", "Have the partials flagged anyone with a prior?", "No.", "Possibly."]
+    },
+    {
+      "id": "E4",
+      "who": "Amy / Caius / Matt",
+      "what": "图书馆清点：按目录无缺失；多为其他「gentlemen explorers」的报告；有一整节 Captain Cook。Horatio Combe 的手写日记原件在架，Amy 看了一本几乎无法辨认。Caius 说那是 Willow 在誊录的东西、Digby 拿它当写书素材。Matt 在电话另一头找不到书稿草稿，也还没找到 Willow 的研究笔记；办公室多数文件是财务的。Amy 猜「Isolde honey-trapped Digby to steal the research and a dodgy first draft?」，Caius 答「Not much of a motive.」",
+      "range": [3877, 5138],
+      "lines": "135-168",
+      "verbatim_numbers": ["I’ve not found anything that looks like a manuscript.", "Haven’t found them yet.", "Not much of a motive,"]
+    },
+    {
+      "id": "E5",
+      "who": "Matt / Caius / Nathan",
+      "what": "Matt 回警局，打给 Digby 读大学时最好的朋友 Nathan（免提）。Nathan 说 Fenella 告诉了他、并让他打给警方（此前 Fenella 说过不确定怎么联系他，Caius 因此起疑、后来消气）。Digby 两个周末前来看过他们（当地有 real ale festival）。Digby 说在跟一个叫 Isolde 的女孩通信、准备见面，纸上她「cultured」，他想要能一起逛遗迹、看戏的人；他还没见过她、不知道她长什么样，她自述 dark-haired，属「nondescript description」",
+      "range": [5229, 7258],
+      "lines": "181-220",
+      "verbatim_numbers": ["two weekends ago", "on paper she was perfect for him. Cultured.", "No, I don’t think he knew. They hadn’t met yet.", "She’d described herself as dark-haired", "a nondescript description"]
+    },
+    {
+      "id": "E6",
+      "who": "Nathan / Caius",
+      "what": "Digby 打算卖掉研究所（要母亲同意），卖楼后搬回约克郡，写一部关于家族与祖先遗产的回忆录；他说 Horatio「proper off the deep end」搞降神会、吸「powdered Egyptian mummy」之类，他祖父认为那只是老 Horatio 死前一年得了严重疟疾；Digby 认为很邪门。过去一年 Digby 变了主意，因门外有抗议者而心怀愧疚，写书是想为此做点什么",
+      "range": [7331, 8356],
+      "lines": "223-232",
+      "verbatim_numbers": ["the year before he died", "in the last year", "powdered Egyptian mummy", "a bad case of malaria"]
+    },
+    {
+      "id": "E7",
+      "who": "Caius（内心）",
+      "what": "Caius 想到自己处境相似，但 Digby 会因卸下愧疚而拿到丰厚卖房款；自问：住进 Knaresborough 的漂亮小屋、写完书后退休到乡下能否赎罪？并想到英国是小欧陆边缘的第六大经济体、这样的遗产是否可能白送。他家祖上把一幅 Turner 画捐给了国家（他父亲说那只是税务操作）",
+      "range": [8358, 8927],
+      "lines": "235-235",
+      "verbatim_numbers": ["sixth largest economy", "Knaresborough", "Turner painting", "You can’t inherit blame, but you do inherit responsibility."]
+    },
+    {
+      "id": "E8",
+      "who": "Caius / Matt",
+      "what": "Caius 家族另一支的旧账：Horatio Combe 研究所在 Dollis Hill，Digby 基本只住一间房；Caius 提到自己祖先在印度的「nabob」与一块「印度钻石」，以及圈占公地、在 Antigua 失败种植园的历史",
+      "range": [9707, 10271],
+      "lines": "253-256",
+      "verbatim_numbers": ["one room in Dollis Hill", "an Indian diamond like my charming nabob ancestor", "enclosing the commons", "a failed plantation in Antigua"]
+    },
+    {
+      "id": "E9",
+      "who": "Amy / Caius",
+      "what": "Amy 指出 Willow 的笔记与那份「Apologia」草稿不见了，问这是否就是杀他的理由；Caius 认为不构成杀人动机，还问 Digby 或其古怪祖先究竟知道什么值得被灭口。Matt 问英国博物馆没拿走的传奇珍宝",
+      "range": [9187, 9619],
+      "lines": "247-250",
+      "verbatim_numbers": ["Willow’s notes and the draft of his “Apologia” are missing.", "If he even wrote a word,"]
+    },
+    {
+      "id": "E10",
+      "who": "Caius",
+      "what": "Caius 判断 Isolde 并不存在：她是对广告作出回应的人，也许是骗子；「Fake Isolde」穿「Willow costume」是因为她一直在盯着那地方，算准了打扮成实习生进楼不会引人怀疑",
+      "range": [10326, 10861],
+      "lines": "262-262",
+      "verbatim_numbers": ["Isolde isn’t real. She responded to an ad. Maybe a scammer.", "“Fake Isolde” wore a “Willow costume”", "3 a.m."]
+    },
+    {
+      "id": "E11",
+      "who": "Caius / Matt",
+      "what": "Caius 说这是长线一击但必须查：确认伦敦百英里内每一个叫 Isolde 的女人都没有在谋杀她们的约会对象；「One for us tomorrow, Matt, while Amy is off.」Matt 赌全国最多十五个 Isolde。结尾三人决定去酒吧，Matt 说「Monday Funday」",
+      "range": [10890, 11292],
+      "lines": "268-280",
+      "verbatim_numbers": ["every woman called Isolde within a hundred miles of London", "One for us tomorrow, Matt, while Amy is off.", "no more than fifteen Isoldes in the country", "Monday Funday"]
+    }
+  ],
+  "characters_and_relations": [
+    "Matt：Detective（办案人员），与 Caius、Amy 同组；与 Amy 每周轮流裁定「Caius 的午饭有多怪」比赛；月底最低分者请午饭；本章他去 Digby 公寓找地址簿、打电话给 Nathan、被指派去查所有叫 Isolde 的女人",
+    "Caius：Matt 的同伴（有家族遗产/殖民地历史的富家子弟，祖先在 Antigua 有种植园、在印度有 nabob）；负责过滤研究所文件、读 Barry 报告、讲 NSA/FSA 邮件；本章主推「Isolde 是假」与「查所有 Isolde」",
+    "Amy：与 Matt、Caius 同组；本组唯一女性，负责在研究所清点文件、查无缺失、发现 Horatio Combe 手写日记；本章 Amy 休假（off），故明日由 Matt 单独去查 Isolde",
+    "Callie：Caius 的同伴/女友（烘焙面包卷用了活希腊酸奶），本章仅被提及",
+    "Digby：死者，Horatio Combe 研究所的继承人，正打算卖掉研究所、搬回约克郡写家族回忆录；生前与一位自称 Isolde 的女性通信但从未见面",
+    "Nathan：Digby 读大学时最好的朋友；现居约克郡（“I never left after uni”）；由 Fenella 告知并让他主动联系警方；提供 Isolde 通信内容与卖楼计划",
+    "Fenella：Isolde 的化名／真实身份不明；先告诉警方不确定怎么联系 Nathan，后又让 Nathan 打给警方",
+    "Willow：研究所员工/实习生（在誊录 Horatio 的日记，做 Digby 书的素材），笔记失踪；被 Caius 说成「Isolde 走进楼里时冒充的对象」",
+    "Horatio Combe：Digby 的祖先，研究所命名人，晚年搞降神会等玄学；手写日记在图书馆",
+    "Barry：出具指纹报告的（法医）",
+    "Isolde：疑似虚构的女性；本章只以「叫 Isolde 的女人」群体形态出现，姓氏未出现（本章无 Isolde Burrell）",
+    "Food Standards Agency：发邮件的机构，结论：农场温室内没有毒芹痕迹；「It was murder.」"
+  ],
+  "numbers_and_dates_verbatim": [
+    { "text": "Only seven.", "range": [1203, 1217], "note": "种子上限七种" },
+    { "text": "Caius 11, Matt 7", "range": [1827, 1843], "note": "比赛比分" },
+    { "text": "seven different types of seeds", "range": [1356, 1386] },
+    { "text": "every other month", "range": [777, 794], "note": "Matt 与 Amy 轮流裁定" },
+    { "text": "the other day", "range": [424, 439], "note": "鸡肉是前几天的剩菜" },
+    { "text": "two partial prints that match each other", "range": [2977, 3017] },
+    { "text": "one on the library door and one on the door to the basement that has been painted over", "range": [3019, 3108] },
+    { "text": "two weekends ago", "range": [6131, 6147] },
+    { "text": "the year before he died", "range": [8008, 8031], "note": "疟疾发生在 Horatio 死前一年" },
+    { "text": "in the last year", "range": [8164, 8180], "note": "Digby 改变心意" },
+    { "text": "sixth largest economy", "range": [8823, 8844] },
+    { "text": "one room in Dollis Hill", "range": [9829, 9852] },
+    { "text": "3 a.m.", "range": [10611, 10617] },
+    { "text": "a hundred miles of London", "range": [11005, 11027] },
+    { "text": "no more than fifteen Isoldes in the country", "range": [11143, 11158] }
+  ],
+  "structural_facts": {
+    "section_headers_in_source": ["The Police Station (第 17 行)", "13 (第 1 行与第 12 行，章节编号)"],
+    "scene_breaks": "原文用 `* * *` 分隔三场：场一 午餐互查（20-95）；场二 研究所文件/Barry 报告/电话（105-171）；场三 Nathan 电话 + 收尾（181-280）",
+    "small_heading_present_in_source": ["The Police Station"],
+    "absent_from_source": ["A MONDAY IN MAY", "May", "nursing home / 养老院", "primary school / 上小学", "十人名单构成", "Isolde Burrell", "姓氏"],
+    "chapter_ending": "‘Monday Funday,’ said Matt."
+  }
+}

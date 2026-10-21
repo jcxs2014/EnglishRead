@@ -1,0 +1,266 @@
+{
+  "chapter": 13,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/ch13 matt and amy hunt for the real isolde.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch13_13.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Matt narrowed his eyes. He’d bet with Amy that it was going to be weird today. If he was correct, he scored a point but ",
+          "ok": true,
+          "pos": 462
+        }
+      ]
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "‘OK fine, Callie baked the rolls using live Greek yoghurt. It was a recipe she saw online from a gastroenterologist-cum-",
+          "ok": true,
+          "pos": 867
+        }
+      ]
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "‘Nope,’ Caius said, picking up his sandwich. ‘Just had an email from the Food Standards Agency. They’ve investigated the",
+          "ok": true,
+          "pos": 2071
+        }
+      ]
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘As expected.’ Caius scrolled through the document. ‘This is interesting. They eliminated Willow’s and Digby’s fingerpri",
+          "ok": true,
+          "pos": 2649
+        }
+      ]
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘I doubt Digby dusted that place. Lord knows how long those prints might have been there.’ Caius remembered how immacula",
+          "ok": true,
+          "pos": 3305
+        }
+      ]
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Caius understood, he was in a similar situation himself, but the fact that Digby would’ve had a handsome payout for ridd",
+          "ok": true,
+          "pos": 7982
+        }
+      ]
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "‘I really don’t know. We gave a Turner painting to the nation, but knowing my dad that was just a tax thing. Write an Ap",
+          "ok": true,
+          "pos": 9896
+        }
+      ]
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "‘It’s a long shot if it’ll throw up anything useful, but we really do need to check that every woman called Isolde withi",
+          "ok": true,
+          "pos": 10440
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 90,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 95,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 93,
+        "关键词": 0,
+        "为什么这样写": 117,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 144,
+        "关键词": 0,
+        "为什么这样写": 100,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 148,
+        "关键词": 0,
+        "为什么这样写": 103,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 99,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.78
+      }
+    }
+  ],
+  "form": {
+    "h1": "13. The Police Station",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 7.0,
+    "block_range": [
+      5,
+      10
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": []
+  }
+}

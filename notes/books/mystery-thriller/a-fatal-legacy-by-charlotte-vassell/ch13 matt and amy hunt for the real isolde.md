@@ -11,7 +11,7 @@ source_text: ch13
 - **一句话概括**：周一上午的警局被一顿三明治比赛和一场毒芹排查同时占满：Caius、Matt 和 Amy 一边给「Caius 的午饭有多怪」打分，一边确认毒芹与那袋沙拉无关、锁定两枚残缺指纹，并把「Isolde」这个名字摊成一张需要逐个排查的名单。
 - **视角**：第三人称限知，主要贴着顾问警员 Caius，中途穿插 Matt 从迪吉公寓打来的电话汇报与 Amy 的判断；场景在警局办公室与电话那头来回切换。
 - **线索结构**：Food Standards Agency 的结论（沙拉来源农场的温室里没有毒芹）· 图书馆门与被漆盖住的地下室门上两枚互相吻合的残缺指纹 · 不见了的 Willow 研究笔记与「Apologia」草稿 · 一个只写着「深色头发」、连长相都没说清楚的纸面人物 Isolde。
-- **人物弧线**：Caius 一边推案一边被自家的旧账绊住：他清楚罪责不能继承、责任却要继承，也清楚自己其实羡慕迪吉能靠卖掉这栋楼干净脱身——这份说不出口的心思，正是办案人员心里那层推不出去的不安。
+- **人物弧线**：Caius 一边推案一边被自家的旧账绊住：他清楚罪责不能继承、责任却要继承，也清楚自己对迪吉靠卖掉这栋楼脱身那笔进账耿耿于怀——这份说不出口的心思，正是办案人员心里那层推不出去的不安。
 - **叙事手法**：先用三明治比赛的闹腾开场，再把「毒芹清白」「两枚残缺指纹」「Isolde 并不存在」这些要紧话塞进上班时间的插科打诨之间；笑话越密，那层没说出口的猜测就越沉，章末一句「Monday Funday」把这一章扣回分部 A MONDAY IN MAY 的周一。
 
 ## 精读
@@ -20,8 +20,8 @@ source_text: ch13
 
 **中文理解**：Matt 眯起眼睛。他跟 Amy 打了个赌：今天一定会很怪。赌对了自己得一分，赌错了分就归 Caius；一个月结束时分数最低的人请客。Matt 和 Amy 轮流当对方不在时的裁判。这套规则按英国标准算是直截了当的，到目前为止没人想过作弊。
 **关键词**：bet / weird / adjudicating
-**为什么这样写**：一整套月度打分制度被写得像公司里真实存在的规章，偏偏赌的内容是「今天会不会很怪」。这句玩笑落在案情刚被改写成「他杀」之后，读者会听出两层意思：今天果然很怪，而且「怪」在这里是可以被计分、被推迟处理的。
-**读者视角提示**：留意这个「谁最怪」的比赛从头到尾没有结算结果，它的作用是把不安盖住；也留意 Matt 为什么这一天格外在意。
+**为什么这样写**：一整套月度打分制度被写得像公司里真实存在的规章，偏偏赌的内容是「今天会不会很怪」。这句玩笑先于案情被改写成「他杀」，读者会听出两层意思：今天果然很怪，而且「怪」在这里是可以被计分、被推迟处理的。
+**读者视角提示**：留意这个「谁最怪」的比赛当月就结了账（凯厄斯 11 分、马特 7 分，输的人请客吃 bánh mì）；它把不安盖住；也留意 Matt 为什么这一天格外在意。
 
 > **原句 2:** "‘OK fine, Callie baked the rolls using live Greek yoghurt. It was a recipe she saw online from a gastroenterologist-cum-chef. But it was just from M&S. In fact, it was their basic range. We’re trying to improve our gut health.’"
 
@@ -48,7 +48,7 @@ source_text: ch13
 
 **中文理解**：Digby 不会把那个地方擦得那么干净，天知道那两枚指纹在那儿留了多久。Caius 想起自己家一向一尘不染，随即说：但他是在敷衍那地方，他受够了，那两枚残缺指纹很可能是很久以前就留下的。他抬头看还站在手边的 Amy：图书馆里没少东西吧？
 **关键词**：dusted / neglecting / had enough
-**为什么这样写**：办案人员心里那层说不出口的猜测在这里被摆到台面：如果指纹是旧的，它就不指向此刻的凶手，而是指向迪吉正准备离场的那段日子。「他受够了」这四个字既是他对房子的评价，也是他可能会对警察说、却没说的那句心里话。紧接着的反问「没少东西吧」，是 Caius 自己把这个念头按回去的动作。
+**为什么这样写**：办案人员心里那层说不出口的猜测在这里被摆到台面：如果指纹是旧的，它就不指向此刻的凶手，而是指向迪吉正准备离场的那段日子。「他受够了」这四个字是他当着艾米的面说出口的：既是他对房子的评价，也是他终于把那条线挑明的一句话。紧接着的反问「没少东西吧」，是 Caius 自己把这个念头按回去的动作。
 **读者视角提示**：注意说话方式的变化：先是当着 Amy 说的判断，接着才是只有读者看得见的心里话——作者把最关键那层猜测留给了叙述，而不是台词。
 
 > **原句 6:** "Caius understood, he was in a similar situation himself, but the fact that Digby would’ve had a handsome payout for ridding himself of the guilt rankled him. Would Digby have ever felt comfortable in a delightful cottage in Knaresborough bought with the proceeds of the sale? Would writing a book about it and then retiring to the shires have absolved him? Caius knew that Britain was fine with it. This windswept little rock clinging to the edge of Europe has the sixth largest economy. Could such legacies even be given away? ‘So Digby was moving back to York then?’"
@@ -69,7 +69,7 @@ source_text: ch13
 
 **中文理解**：这多半是场没指望的碰运气，未必能查出什么有用的东西，但眼下他们真得查一查伦敦一百英里内每一个叫 Isolde 的女人是不是在谋杀自己的约会对象。明天 Amy 休息，这活儿一个人来。
 **关键词**：long shot / every woman called Isolde / murdering their dates
-**为什么这样写**：全城的 Isolde 从这里被摊开成一张名单，而负责去敲每扇门的是三人组里那个刚输了比赛、还在吃三明治的 Matt。语气轻得像在派一件跑腿差事，但「谋杀自己的约会对象」这句冷话把每个同名女人都放上嫌疑席，也说明办案人自己清楚这条线索有多薄。
+**为什么这样写**：全城的 Isolde 从这里被摊开成一张名单，而负责去敲每扇门的是三人组里那个刚输了比赛、正对着凯厄斯的午饭盒打分的 Matt。语气轻得像在派一件跑腿差事，但「谋杀自己的约会对象」这句冷话把每个同名女人都放上嫌疑席，也说明办案人自己清楚这条线索有多薄。
 **读者视角提示**：这句话把本章的排查任务派了出去，也把不安推到了名单之外的地方——那个真正的 Isolde，此刻还在某处。
 
 ## 本章词汇
