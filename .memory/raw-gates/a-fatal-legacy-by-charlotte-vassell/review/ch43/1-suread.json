@@ -1,0 +1,189 @@
+{
+  "chapter": 43,
+  "title_in_text": "The Police Station",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch43_43.txt",
+  "source_char_length": 4650,
+  "method": "R1 素读：先只读 text/ch43_43.txt 全文（未开 md），再按句用 python find() 定位字符区间 [start,end)（0-based）",
+  "scene_heading": {
+    "text": "The Police Station",
+    "range": [20, 38],
+    "part": "SATURDAY（本书十二分部中只有第一部叫 A FRIDAY IN MAY，其余为 SATURDAY / SUNDAY / MONDAY / TUESDAY / WEDNESDAY / THURSDAY / FRIDAY / SIX WEEKS LATER）"
+  },
+  "acts": [
+    {
+      "id": "A1",
+      "who": "Amy and Matt",
+      "what": "两人正在翻看 Isolde 活跃过的那个论坛里的故事（the stories in the forum that Isolde was active on）",
+      "range": [41, 128],
+      "line": 20
+    },
+    {
+      "id": "A2",
+      "who": "Isolde",
+      "what": "Isolde 写过一个乏味的亚瑟王改写（a dull Arthurian retelling），里面塞进 Harry Styles 和一条「装备精良的龙」（a well-endowed dragon）；Amy 硬着头皮读完（had suffered through it），再也没法听他的歌",
+      "range": [129, 271],
+      "line": 20
+    },
+    {
+      "id": "A3",
+      "who": "Matt",
+      "what": "Matt 说这个论坛的套路是「把真实当代人物塞进中世纪故事，跟谁或什么乱搞」",
+      "range": [325, 453],
+      "line": 23
+    },
+    {
+      "id": "A4",
+      "who": "Amy",
+      "what": "Amy 说「Insert 不是这里该用的词」；她并不需要知道神话生物想象出来的生殖器官，但偏偏知道了",
+      "range": [470, 634],
+      "line": 26
+    },
+    {
+      "id": "A5",
+      "who": "Matt",
+      "what": "Matt 说他刚读的那篇（the one I just read）里一根黄瓜遭了秧；过去最爱凉拌黄瓜配辣油，现在再也看不下去",
+      "range": [638, 869],
+      "line": 29
+    },
+    {
+      "id": "A6",
+      "who": "Matt",
+      "what": "Matt 说在「我那篇」（In my one）里跳过蔬菜性爱那段，Isolde 谈到自己对草莓过敏、大量与各种水果摩擦；并问「她的过敏是你从 Digby 的信里拿到的那些事实之一吧？」（one of your facts from Digby’s letters, right?）",
+      "range": [1025, 1226],
+      "line": 35
+    },
+    {
+      "id": "A7",
+      "who": "Amy",
+      "what": "Amy 边找自己写的清单边说：Isolde 在「我那篇」（mine）里引了狄更斯（Dickens）， Somehow 把 Little Dorrit 塞在巨龙阴茎和可怜的 Harry Styles 之间",
+      "range": [1230, 1424],
+      "line": 38
+    },
+    {
+      "id": "A8",
+      "who": "Matt",
+      "what": "Matt 刷新群组页（group page）：刚掉下来一篇新故事（Another story just dropped），但「不是出自 Isolde 的账号」（It’s not from Isolde’s handle though），而是「一个喜欢她所有作品、并且一直在评论的人」写的",
+      "range": [1459, 1585],
+      "line": 41
+    },
+    {
+      "id": "A9",
+      "who": "Matt 与 Amy",
+      "what": "两人拿「一杯茶」与「抽屉里的奶油夹心饼干」讨价还价（Amy 泡茶：Earl grey 或 black，要柠檬）；Amy 去泡茶，Matt 开始读这篇新故事",
+      "range": [1589, 2184],
+      "lines": [44, 62, 65]
+    },
+    {
+      "id": "A10",
+      "who": "Matt（朗读新故事的序言 preamble）",
+      "what": "Matt 出声念：「让我来铺陈场景：一名侍从（squire），尚非骑士，正在学习 rescuing fair damsels 的手艺。」",
+      "range": [2247, 2344],
+      "line": 68
+    },
+    {
+      "id": "A11",
+      "who": "Matt 提问、Amy 回答",
+      "what": "Matt 问「我们认识的唯一一个骑士学徒是谁？」；Amy 先耸肩，随即因想到各种可能而缩了一下，答「Caius」",
+      "range": [2411, 2464],
+      "lines": [74, 77]
+    },
+    {
+      "id": "A12",
+      "who": "Matt",
+      "what": "Matt 续读：「一个被巨怪剁碎的少年，被留在圣井里，宁芙们为她哭泣。他把巨怪绳之以法。」并抬头说：我记得那个案子，是 Caius 当 DS 时最早办的案子之一",
+      "range": [2547, 2759],
+      "line": 80
+    },
+    {
+      "id": "A13",
+      "who": "Amy",
+      "what": "Amy 站在他肩后念出「Neath a laurel, the gaudy lady spoke not truth…」等诗句，然后指出这是 Clemmie O’Hara——跟那家可疑画廊的上司有染后，被发现死在灌木丛下",
+      "range": [2763, 3080],
+      "line": 83
+    },
+    {
+      "id": "A14",
+      "who": "Matt",
+      "what": "Matt 说「Caius 两桩案子都办过」，并补上另一桩的细节：「那个可怜的孩子，他爸…… 她的芭比娃娃沿着浴缸边排成一排」",
+      "range": [3085, 3197],
+      "line": 86
+    },
+    {
+      "id": "A15",
+      "who": "Matt",
+      "what": "Matt 说「这里也有提及（referenced here）。这故事讲的就是 Caius 和 Callie（This story is all about Caius and Callie）」；指着「一位胸部丰满的处女、魔法手指、以给公主做衣裳闻名」说「那是 Callie 的帽子」（That’s Callie’s hats），客群高端；Caius 说她一年里大部分销量来自 Ascot",
+      "range": [3218, 3522],
+      "line": 92
+    },
+    {
+      "id": "A16",
+      "who": "Amy",
+      "what": "Amy 指着「怪物掳走女孩」那段说，听起来像 Eliza Chapel 案",
+      "range": [3605, 3673],
+      "line": 95
+    },
+    {
+      "id": "A17",
+      "who": "Matt 与 Amy",
+      "what": "Matt 说「那我们就认定这段序言（the preamble）是关于 Caius 和 Callie 的」，Amy 回「同意」（并自认一定会把 Callie 形容为 buxom）",
+      "range": [3679, 3756],
+      "lines": [98, 101]
+    },
+    {
+      "id": "A18",
+      "who": "Matt",
+      "what": "Matt 说「作者把自己写进了一个情欲三角」（The writer has put themselves into an erotically charged love triangle）；Amy 反驳说只是普通三人行，不是 love triangle，因为两人并非在争对方注意力",
+      "range": [3834, 4077],
+      "lines": [104, 107]
+    },
+    {
+      "id": "A19",
+      "who": "Matt",
+      "what": "Matt 说「太多舌头太多舔，太露骨了，我读着都犯怪」，但「幸好很短」（It’s mercifully short）",
+      "range": [4080, 4253],
+      "line": 110
+    },
+    {
+      "id": "A20",
+      "who": "Amy",
+      "what": "Amy 让 Matt 点出故事（Click out of the story），并说「所有这些故事都是在花展上那场 Monty Don 前妻风波（the whole Monty Don ex fiasco at the flower show）之后才发到网上的」，要 Matt「跟 Robbie 解释一下」（You have to explain this to Robbie）",
+      "range": [4257, 4489],
+      "line": 113
+    },
+    {
+      "id": "A21",
+      "who": "Matt",
+      "what": "Matt 让 Amy 去楼下等 Robbie（「他大概快把 Margot Bourne 逼得够呛了」），自己则要打给 Caius",
+      "range": [4505, 4648],
+      "line": 116
+    }
+  ],
+  "character_relations": [
+    "Amy 与 Matt：同事/搭档；本章全程在警局一起读论坛故事。Amy 管着自己抽屉里的秘密饼干库存，泡茶放柠檬。",
+    "Isolde：论坛里活跃并写故事的人；本章文本只说「她在那个论坛活跃」「写过一个亚瑟王改写」「有她自己的 handle」，未写明该 handle 的实际使用者是谁，也未写她与自然人 Isolde Burrell 的对应关系。",
+    "Matt 与 Amy 各有自己的论坛故事（Matt: ‘In my one’；Amy: ‘in mine’），两人读到的故事里都有名叫 Isolde 的角色。",
+    "新掉的那篇故事：不是出自 Isolde 的 handle，作者是「一个喜欢她所有作品、一直在评论的人」——本章未给名字，也未说它就是 Isolde。",
+    "Caius：DS，本案主角；他办过 Clemmie O’Hara 案与「那个孩子（whose dad …）」案；他说过 Callie 一年里大部分销量来自 Ascot。",
+    "Callie：做帽子/公主服装的（hats / garments for princesses），客群高端；Amy 说一定会把她形容为 buxom。",
+    "Digby：死者；Isolde 角色身上的过敏设定来自「Digby 的信」里 Amy 记下的事实清单。",
+    "Robbie：被 Amy 要求「解释」的领导角色，此刻正在楼下「审 Margot Bourne」。",
+    "Margot Bourne：正在被 Robbie 讯问的人。",
+    "Clemmie O’Hara：跟上司有染后死在灌木丛下；Eliza Chapel：怪物掳走女孩案；Harry Styles、Dickens、Little Dorrit、Monty Don（前妻风波、花展）为文内/文外指涉。"
+  ],
+  "numbers_and_dates_verbatim": [
+    "章号：'43'（text/ch43_43.txt 第 1 行与第 12 行各出现一次，逐字为 '43'）",
+    "场景标题：'The Police Station'（第 17 行）",
+    "'Isolde had written quite a dull Arthurian retelling that somehow included Harry Styles and a well-endowed dragon.'（第 20 行）",
+    "'It was one of my favourite veggies. Not any more.'（第 29 行）",
+    "'I remember that case, it was one of the first ones he worked on as a DS.'（第 80 行）",
+    "'Caius said that most of her sales for the year come from Ascot.'（第 92 行）",
+    "'All of these stories have been published online after the whole Monty Don ex fiasco at the flower show.'（第 113 行）",
+    "'Amy returned a few minutes later with the tea.'（第 65 行）",
+    "本章未出现任何具体日期；未出现计数字符（无 twelve / first 之类数量词作为计数）"
+  ],
+  "unresolved_at_this_stage": [
+    "本章原文只能证到：Isolde 在那个论坛活跃、写过故事、有她自己的 handle；本篇被读出声的新故事来自另一个 handle。原文未写明「Isolde 这个账号」归谁（是否有人冒用），本章不得替后文下结论。",
+    "「写序言（preamble）的人」在本章只等于该新故事（来自非 Isolde handle 的那篇）的作者/序言写者，本章未给名字，也未说它就是 Isolde。",
+    "说出 'This story is all about Caius and Callie' 的是 Matt，不是 Amy，也不是 Isolde。"
+  ]
+}
