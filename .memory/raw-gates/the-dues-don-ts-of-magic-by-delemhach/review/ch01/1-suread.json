@@ -1,0 +1,45 @@
+{
+ "chapter": "ch01",
+ "facts": [
+  {
+   "claim": "Ben 闯店求「让二十个大个子忘掉我」的咒语",
+   "anchor": "twenty men need to forget",
+   "span": [
+    3894,
+    3919
+   ]
+  },
+  {
+   "claim": "女巫亮牌：因魔法交易死人自负全责",
+   "anchor": "IF ANYONE DIES",
+   "span": [
+    4639,
+    4653
+   ]
+  },
+  {
+   "claim": "批量订单须通知官府，但要等到明天",
+   "anchor": "alert the local authorities",
+   "span": [
+    5417,
+    5444
+   ]
+  },
+  {
+   "claim": "魔法合法才五年",
+   "anchor": "weren’t even legal until five years ago",
+   "span": [
+    7778,
+    7817
+   ]
+  },
+  {
+   "claim": "door 外有 thugs，Ben 不能离开店",
+   "anchor": "those thugs outside",
+   "span": [
+    12060,
+    12079
+   ]
+  }
+ ]
+}

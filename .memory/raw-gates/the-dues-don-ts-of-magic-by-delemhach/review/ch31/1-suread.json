@@ -1,0 +1,53 @@
+{
+ "chapter": "ch31",
+ "facts": [
+  {
+   "claim": "Spidena 说她曾为 Pesch 的赌场做事",
+   "anchor": "I used to work for him",
+   "span": [
+    2390,
+    2412
+   ]
+  },
+  {
+   "claim": "她拿走了他本会拒付的后酬（不是她欠他）",
+   "anchor": "may have taken some of my back pay",
+   "span": [
+    4219,
+    4253
+   ]
+  },
+  {
+   "claim": "Pesch 是 The Fey Way 的股东",
+   "anchor": "The Fey Way included",
+   "span": [
+    4858,
+    4878
+   ]
+  },
+  {
+   "claim": "她母亲被人带走",
+   "anchor": "my mother was taken",
+   "span": [
+    8335,
+    8354
+   ]
+  },
+  {
+   "claim": "Paulav 提议今晚喝点酒",
+   "anchor": "we should have some wine this evening",
+   "span": [
+    15191,
+    15228
+   ]
+  },
+  {
+   "claim": "Paulav 起身去自己的商队",
+   "anchor": "darted over to his caravan",
+   "span": [
+    15260,
+    15286
+   ]
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "chapter": "ch43",
+ "facts": [
+  {
+   "claim": "Earhav 坐在车夫座上等他们",
+   "anchor": "sat Lord Callex Earhav",
+   "span": [
+    4900,
+    4922
+   ]
+  },
+  {
+   "claim": "Earhav 掏弹珠、点丝线，Wolf 俯冲",
+   "anchor": "marble with a string attached",
+   "span": [
+    6136,
+    6165
+   ]
+  },
+  {
+   "claim": "Ben 只亲过一次，那是「他的初吻」",
+   "anchor": "he’d had his first kiss",
+   "span": [
+    8302,
+    8325
+   ]
+  }
+ ]
+}
