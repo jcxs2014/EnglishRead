@@ -1,0 +1,99 @@
+{
+  "chapter": "ch46",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch46_46.txt",
+  "source_char_len": 12909,
+  "heading": "Frithsden Old Hall",
+  "read_order": "R1 素读：只读 text/ch46_46.txt，未读任何 md",
+  "events": [
+    {
+      "id": 1,
+      "range": [41, 2087],
+      "who": "Caius",
+      "what": "在玫瑰园抬头看见露台上的 Georgie、Dotty、Callie，深呼吸后决定行动，走上台阶；随后以「priest holes 十六世纪霍比特人的洞」为话头，把 Dotty/Georgie 支去一处农舍（Callie 带路、Georgie 开车），并用「Jolly Yeoman」一句话把 Georgie 支走；Callie 意识到自己被「put out of harm's way」",
+      "verbatim": "Caius looked up at the terrace from the rose garden. … ‘Jolly Yeoman.’ … Callie, who by now had realised that she was being put out of harm’s way, felt a curious mix of fear, anger and amusement. No, not amusement. It was surreal."
+    },
+    {
+      "id": 2,
+      "range": [2228, 2925],
+      "who": "Caius / Eulalia（=Jennifer Parkin）",
+      "what": "Caius 在父亲放在砾石上的木长椅上等 Eulalia；他坐出租车（不是自己的车）来、带一只小行李箱；Caius 给司机 £60 加小费并附条子让司机立刻打电话给警局的 Robbie，并发短信给 Matt",
+      "verbatim": "There was a wooden bench outside the front of the house. Caius’s father had put it there on the gravel so his grandfather could sit and watch the birds. … He handed the driver the £60 – and a generous tip all wrapped around a note, asking him to call Robbie at the station immediately – and waved him off."
+    },
+    {
+      "id": 3,
+      "range": [3204, 3464],
+      "who": "Caius 与 Eulalia",
+      "what": "Caius 一开口就问『Do you mind if I record this?』但 He was already recording；随后是姓名交换：他问『What’s your name?』她答『Eulalia.』，他再问『What’s your real name?』她答『Jennifer Parkin.』；他自我介绍『DI Caius Beauchamp』但没有握手，并说『But you know that already, don’t you, Jennifer?』",
+      "verbatim": "He turned and asked her, ‘Do you mind if I record this?’ He was already recording. … ‘What’s your name?’ … ‘Eulalia.’ … ‘What’s your real name?’ … ‘Jennifer Parkin.’ … ‘DI Caius Beauchamp,’ he said. She held out her hand but he didn’t take it. ‘But you know that already, don’t you, Jennifer?’"
+    },
+    {
+      "id": 4,
+      "range": [3608, 5380],
+      "who": "Caius 与 Jennifer",
+      "what": "她先道谢『Thank you so much for inviting me this weekend』随即像听到什么一样猛地转头，话题转到鸟与风景；Caius 说『We’ve met before, haven’t we?』她答『It was fate.』；Caius 主动挑起谋杀案，追问她在 Horatio Combe Institute 外遇到他是否故意、是否跟踪、是否在盯犯罪现场，她不回应；他问是否认识 Digby，她只说了一个名字『Willow』，随后长时间语无伦次地讲 Willow、Mel、Eulalia、仙女挡消息、妖精把她的头发打成结，最后把手放在他膝盖上；他要求她把手拿开",
+      "verbatim": "‘I bumped into you outside the Horatio Combe Institute the morning after the murder of Digby Combe-Watson. Did you do it on purpose? Were you following me? Or were you watching the crime scene?’ … ‘Willow.’ She said the intern’s name as if the breeze was meant to carry it. … ‘Jennifer, please remove your hand from my person.’"
+    },
+    {
+      "id": 5,
+      "range": [5418, 6706],
+      "who": "Caius 与 Jennifer",
+      "what": "她找『my darling Cal』；Caius 说 Cal 出门买草莓；她说自己有朋友对草莓过敏，Caius 追问是线上还是线下朋友，她答『Oh, online. Her name is Isolde.』——**Isolde 只是她线上朋友的称呼**；同一段里她还说『There were three Jennifers in my year in school.』并说 Mel 不喜欢 Cal、Mel 从厂牌派男人盯梢她们",
+      "verbatim": "‘I love strawberries. I have a friend who’s allergic to them.’ … ‘Are they an online friend or an inperson friend?’ … ‘Oh, online.’ … ‘Her name is Isolde. Isn’t that gorgeous. I wish that was my name. There were three Jennifers in my year in school.’"
+    },
+    {
+      "id": 6,
+      "range": [6913, 8314],
+      "what": "Caius 问『Did you hurt your sister, Jen?』她两次否认并被追问『Are you sure?』，随后讲自己说要去这儿、Mel 暴怒、她跑出去上出租车；Caius 说『Jennifer is the modern form of Guinevere, isn’t it?』；她谈到搬去 Priory Square 是因为 Alice de Burge、说神不再跟她说话；警车抵达，两名穿制服的警员下车，Caius 告诉她同事会带她走",
+      "who": "Caius 与 Jennifer",
+      "verbatim": "‘Did you hurt your sister, Jen?’ … ‘Yes. No.’ … ‘I said I was leaving to come here and she flipped out. I ran past her, opened the front door and jumped in the taxi.’ … ‘Jennifer is the modern form of Guinevere, isn’t it?’ … The police car pulled up and two uniformed officers stepped out. … ‘My colleagues here are going to take you with them, Jennifer. They’re going to look after you.’"
+    },
+    {
+      "id": 7,
+      "range": [8400, 9006],
+      "who": "Caius",
+      "what": "她被带上后车、几乎没挣扎；Caius 把她的周末包交给其中一名警员；**他把录音发到 Matt 的工作邮箱**，给 Georgie 发短信『All clear』；他后裤袋里带着手铐（不是工作配发的，Callie 后来也指出这点），庆幸没用上",
+      "verbatim": "he sent the recording to Matt’s work email. He then texted Georgie ‘All clear’. He took the handcuffs he had out of his back pocket. He was glad he hadn’t had to use them; Jennifer was clearly manic but he himself, possibly naively, hadn’t felt like he was in danger. His relief did partially stem from the fact the handcuffs weren’t from work."
+    },
+    {
+      "id": 8,
+      "range": [9606, 11700],
+      "who": "Caius 与 Callie",
+      "what": "Caius 告诉 Callie 死者真名是 Jennifer（Callie 说她『Far more grounded than Eulalia』）；Caius 告诉 Callie Mel 被袭击，Callie 追问『She was killed by Eu … Jennifer?』；Caius 说自己做这行做不下去；Callie 已怀孕（『this one had knocked her up』）；Callie 从 Caius 口袋里翻出手铐说『I don’t think these were issued by the Met』",
+      "verbatim": "‘Her name’s Jennifer, by the way.’ … ‘Cal, I’m sorry to tell you this but Mel was attacked.’ … ‘She was killed by Eu … Jennifer?’ … ‘Hullo, I don’t think these were issued by the Met.’"
+    }
+  ],
+  "relationships": [
+    "Caius Beauchamp = DI（英国警探），Callie 的伴侣（两人已有孩子预期：Callie 已怀孕）；Caius 的父亲拥有 Frithsden Old Hall。",
+    "Caius 与 Matt、Robbie：同属警局同事（Matt 收工作邮件，Robbie 在 station）。",
+    "Callie（Calliope）：Caius 的伴侣；与 Jennifer 熟识（Jennifer 叫她『my darling Cal』，Mel 不喜欢她）。",
+    "Jennifer Parkin = 化名 Eulalia；popstar/艺人的妹妹（Mel 的妹妹：Caius 问她『Did you hurt your sister, Jen?』）。",
+    "Mel：Jennifer 的姐姐/控制者，有 music label，派人盯着 Jennifer，被袭击。",
+    "Isolde：Jennifer 的**线上朋友**（对草莓过敏那位朋友），与论坛/线下身份无涉。",
+    "Willow：Horatio Combe Institute / 博物馆的实习生，Digby Combe-Watson 的助手；Jennifer 认识她并给她发 DM 无回。",
+    "Digby Combe-Watson：博物馆馆长，已被谋杀。",
+    "Dotty、Georgie：同行朋友；Georgie 开车带 Dotty 与 Callie 去农舍。",
+    "Alice de Burge：Jennifer 说自己像她，因而搬到 Priory Square；『神』不再与她说话。"
+  ],
+  "numbers_and_dates": [
+    { "item": "£60", "range": [2765, 2768], "verbatim": "He handed the driver the £60" },
+    { "item": "£20 notes", "range": [6679, 6706], "verbatim": "She just gives me £20 notes every now and then." },
+    { "item": "three Jennifers in my year in school", "range": [6007, 6054], "verbatim": "There were three Jennifers in my year in school." },
+    { "item": "two uniformed officers", "range": [8206, 8257], "verbatim": "The police car pulled up and two uniformed officers stepped out." },
+    { "item": "six hundred or so metres（隧道长度）", "range": [12189, 12217], "verbatim": "along the six hundred or so metres it took before he reached the hatch" },
+    { "item": "count to thirty", "range": [12060, 12075], "verbatim": "told the others, who were waiting for him in the hall, to close their eyes and count to thirty" },
+    { "item": "an hour and a half（伦敦横穿）", "range": [9157, 9184], "verbatim": "It takes an hour and a half to get from one side to the other" },
+    { "item": "Callie called his phone after an hour", "range": [12486, 12523], "verbatim": "Callie called his phone after an hour." },
+    { "item": "sixteenth-century hobbits", "range": [510, 555], "verbatim": "‘They were meant for sixteenth-century hobbits,’" },
+    { "item": "down the lane for a mile", "range": [1394, 1428], "verbatim": "It’s just down the lane for a mile" },
+    { "item": "keys given yesterday", "range": [1661, 1694], "verbatim": "My dad gave me the keys yesterday." },
+    { "item": "gardener in Tenerife for a week", "range": [2552, 2616], "verbatim": "the gardener was thankfully in Tenerife for a week with his wife" },
+    { "item": "I saw her yesterday morning", "range": [9929, 9956], "verbatim": "‘I mean, what? I saw her yesterday morning.’" },
+    { "item": "deteriorated over the week I’ve known her", "range": [10074, 10121], "verbatim": "she’s deteriorated over the week I’ve known her" }
+  ],
+  "chapter_specific_notes": {
+    "name_exchange": "原文顺序：他说『Do you mind if I record this?』（He was already recording）→ 她『Record what?』→ 『Our conversation.』→ 『Why would I mind?』→ 『Do you?』→ 『No.』→ 『What’s your name?』/『Eulalia.』→ 『What’s your real name?』/『Jennifer Parkin.』",
+    "what_he_asks_first": "他向 Jennifer 说的第一句是录音请求；**他先问的第一个问题（针对她本人）是『What’s your name?』**，随后才问『What’s your real name?』；再往后针对案情，他先问的是『I bumped into you outside the Horatio Combe Institute the morning after the murder of Digby Combe-Watson. Did you do it on purpose? Were you following me? Or were you watching the crime scene?’",
+    "recording_weight": "先录后问（already recording）；结尾把录音发给 Matt 的工作邮箱；手铐始终没用上",
+    "isolde": "只是她的线上朋友的名字，不是她自己的论坛身份"
+  }
+}
