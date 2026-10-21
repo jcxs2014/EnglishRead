@@ -7,13 +7,13 @@ modified: "2026-10-20"
 
 ## 本章导航
 
-**一句话概括**：正午之后，正直人俱乐部接连有人上门探病——医生、前一天的两位先生、会员们、随后是慢吞吞问话又打探厨房的警察、最后是讨人嫌的记者；斯克罗奇本人睡得对这一切毫无知觉，直到下午两点，露伊莎·费尔太太回到他身边坐下祈祷。
+**一句话概括**：正午之后，正直人俱乐部接连有人上门探病——医生、前一天的两位先生、会员们、随后是慢吞吞问话又打探厨房的警察、最后是讨人嫌的记者；斯克罗奇本人睡得对这一切毫无知觉，直到下午两点，女仆夏洛特回到他身边坐下祈祷。
 
 **信念弧线位置**：这一章几乎没有台词，全部由别人的动作构成：来的人一个比一个急切，被挡回去的却一个比一个没有面子；斯克罗奇的位置则在这些动作底下——他一句话也没说，一个表情也没给，全章只有「睡着」这一种状态。
 
 **母题兑现/反转**：本章连「光」「暗」「烛火」这些词一次也没出现，全书第一章门牌上那道「把光投进深渊」的题辞在本章没有任何回响；取而代之的是另一个方向——探病的队伍来了又走，而躺着的那一个始终没有醒。
 
-**人物弧线**：前几章里斯克罗奇是发号施令的人、是追问案情的那个；本章他被放到被探视的位置上：警察来问他被谁袭击，会员来问他的身体，记者来问他的健康，而他从头到尾睡着没动——费尔太太重新坐回他床边，用「可怕的用心」听他的每一次呼吸。
+**人物弧线**：前几章里斯克罗奇是发号施令的人、是追问案情的那个；本章他被放到被探视的位置上：警察来问他被谁袭击，会员来问他的身体，记者来问他的健康，而他从头到尾睡着没动——夏洛特重新坐回他床边，用「可怕的用心」听他的每一次呼吸。
 
 **叙事手法**：本章把镜头交给一群外来者，用一个接一个的到访把时间铺满：正文用「先来……接着来……」的流水账句法推进，中间忽然插进警察那句官腔台词和记者的刻薄评论；直到最后一段才把镜头收回到床边，让一整章的喧闹落回一声呼吸上。
 
@@ -109,7 +109,7 @@ modified: "2026-10-20"
 | lackadaisical | adj. 慢条斯理的；懒洋洋的（此处写警察问话的样子） | where he interviewed the secretary and Charlotte in a lackadaisical fashion. |
 | impertinent | adj. 不得体地刨根问底的（此处写记者的提问） | In the early afternoon a journalist arrived, asking impertinent questions about the health of Mr Scrooge, having been informed of the situation by the policeman. |
 | affronted | adj. 被冒犯的（此处写警察被追问时的语气） | the policeman sounded most affronted in his response, citing both personal poverty and the alarming size of the city as reasons why locating the attacker might prove very difficult. |
-| terrible | adj. 极其；非常（此处修饰费尔太太听呼吸时的用心） | She sat and prayed beside him, listening, with terrible care, to his every breath. |
+| terrible | adj. 极其；非常（此处修饰夏洛特听呼吸时的用心） | She sat and prayed beside him, listening, with terrible care, to his every breath. |
 | well-being | n. 幸福；安康（此处是会员们赶来的理由） | Then more members of the Club, concerned about the well-being of one of their most celebrated members. |
 
 ### ⭐ 基础
