@@ -6,7 +6,7 @@ modified: "2026-10-21"
 # 12. Chapter Eleven
 
 ## 本章导航
-- **一句话概括**：Zane 段——他几乎天天陪 Caroline 坐在 rock garden，又教她在马厩做买卖，她的净利已超过一百五十美元，他心里求她拿这笔钱跟 Grey 离婚、到别处 fresh 地重新开始，同时被“该不该说出 Orson 的恶行”折磨；Caroline 段——她提着午餐篮逼他开口，终于听到“It was not an accident.”：爆炸是她丈夫造成的，死了四个人，“Fenian’s fire”的物证就摆在那里；她当场“I burst into tears and threw myself into Zane’s arms.”
+- **一句话概括**：Zane 段——他几乎天天陪 Caroline 坐在 rock garden，又教她在马厩做买卖，她的净利已超过一百五十美元；他心里求她拿这笔钱跟 Grey 离婚、到别处重新开始，同时被“该不该说出 Orson 的恶行”折磨。Caroline 段——她提着午餐篮逼他开口，终于听到“It was not an accident.”：爆炸是她丈夫造成的，死了四个人，“Fenian’s fire”的物证就摆在那里；她当场“I burst into tears and threw myself into Zane’s arms.”
 - **情感弧线位置**：本章有两段位移，两段同时发生。Zane 从“每天陪着”的沉溺，走到发现自己的沉默正在替一个恶人遮掩，再走到把藏了多年的真相交到 Caroline 手里——从共谋式的好感走向不得不做的坦白。Caroline 从提着篮子、耐心等他的体贴者，走到把话逼到“关于我丈夫”，再走到听见答案后的彻底崩掉——从善意走向认知，从认知走向身体先于意志的失控。
 - **Tropes 兑现/反转**：兑现「受伤的男主以自己的畸形为耻、被女主的温柔接纳」与「体面丈夫原来是施暴者」两个套路；反转的是常理里“揭开真相就解脱”的预期——真相没有给她出路，只让她确认自己嫁给了一个必须逃离的人。本章把“女主觉醒”的起点写成崩溃，而不是决断。
 - **人物弧线**：Zane 从反复自问“我该告诉她”开始，发现自己的沉默与 Orson 的罪行共用同一套沉默逻辑，最后用“It was not an accident.”把自己也推进被告席；Caroline 从承认自己仍想替丈夫说话（这一点被 Zane 当面点破），到明白“他就是那个人”，最后身体先于意志做出选择——她扑向了 Zane。
@@ -26,7 +26,7 @@ modified: "2026-10-21"
 
 > **原句 2:** "Please god, let her use that money to divorce Grey and start over somewhere fresh. The topic of her husband never came up, but he was there, a specter lurking between us. I could sense there was something she wanted to ask me, and I suspected it was about Orson. I wasn’t sure how to answer when the time came."
 
-**中文理解**：Zane 心里向上帝祈求：希望她拿那笔钱跟 Grey 离婚，到别处重新开始。丈夫这个话题始终没人提起，却像潜伏在两人之间的幽灵；他感觉得出她有话要问，猜是关于 Orson，却不知道到时候该怎么回答。
+**中文理解**：Zane 心里向上帝祈求：愿她拿那笔钱跟 Grey 离婚，到别处重新开始。丈夫这个话题始终没人提起，却像潜伏在两人之间的幽灵；他感觉得出她有话要问，猜是关于 Orson，却不知道到时候该怎么回答。
 
 **关键词**：divorce Grey / specter lurking / suspected
 
@@ -74,17 +74,27 @@ modified: "2026-10-21"
 
 **读者视角提示**：留意她做比较的落点：她比的不是长相，而是待人的方式；这个标准决定了她听完真相之后会怎么选。
 
-> **原句 7:** "I could see a muscle jump beneath his jaw. “I am debating how much to tell you.” I blinked several times. “That implies there is quite a bit.” “That implication is correct.” “I want to hear all of it, obviously.” “No, Caroline. I do not think you do.” The words, uttered with such gentle reluctance, as if I were requesting something I would later regret, soured my stomach. But I had to know. I was married to Orson. I needed the truth. “Tell me. Please, Zane.”"
+> **原句 7:** "I could see a muscle jump beneath his jaw. “I am debating how much to tell you.” I blinked several times. “That implies there is quite a bit.” “That implication is correct.” “I want to hear all of it, obviously.” “No, Caroline. I do not think you do.”"
 
-**中文理解**：他下颌的肌肉跳了一下，说自己在掂量该告诉她多少；她眨眼说“这意味着事情不少”，他答“这个推断是对的”。她要听全部，他却说“不，Caroline，我不认为你想听”。那句轻得像请求的话让她胃里发凉——可她必须知道：她嫁给 Orson，她需要真相。
+**中文理解**：他下颌的肌肉跳了一下，说自己在掂量该告诉她多少；她眨眼说“这意味着事情不少”，他答“这个推断是对的”。她要听全部，他却说“不，Caroline，我不认为你想听”。
 
-**关键词**：debating how much / I do not think you do / I needed the truth
+**关键词**：debating how much / quite a bit / I do not think you do
 
-**为什么这样写**：作者把最要命的秘密放进一句轻描淡写的拒绝里，用“温柔的不情愿”稀释内容的重量；她的胃与他的下颌肌肉一冷一紧，把两个人同时受刑的状态摆平。
+**为什么这样写**：作者把最要命的秘密放进一句轻描淡写的拒绝里，用“温柔的不情愿”稀释内容的重量；一方把话说得越轻，读者的不安就越重。
 
 **读者视角提示**：注意他说的是“你不认为你想听”，而不是“我不想说”；他判断的对象始终是她的承受力，这一点后面会翻转。
 
-> **原句 8:** "“It was not an accident.” I blinked. “But everyone said . . .” Zane’s upper lip curled into a sneer. “Your husband caused the explosion.” I sucked in a sharp breath, my lungs filling with shock. No, he couldn’t mean . . . “Orson was responsible? That can’t be.” I couldn’t wrap my mind around it. “Why would he blow up his family’s mill?”"
+> **原句 8:** "The words, uttered with such gentle reluctance, as if I were requesting something I would later regret, soured my stomach. But I had to know. I was married to Orson. I needed the truth. “Tell me. Please, Zane.”"
+
+**中文理解**：那句话说得那样迟疑，像是她日后会后悔的请求，让她胃里发凉。可她必须知道：她嫁给 Orson，她需要真相，于是她说：告诉我，求你了，Zane。
+
+**关键词**：soured my stomach / I needed the truth / Tell me. Please, Zane.
+
+**为什么这样写**：作者先用身体的反应（胃里发凉）否掉他“为你好”的姿态，再让她以婚姻身份压过去；她的坚持因此不是好奇心，而是没有退路的人在做最后确认。
+
+**读者视角提示**：注意她说“求你了”的分量；至此她的语气已从审问退到乞求，读者应感觉到这场对话正在把两个人一起推向不可逆。
+
+> **原句 9:** "“It was not an accident.” I blinked. “But everyone said . . .” Zane’s upper lip curled into a sneer. “Your husband caused the explosion.” I sucked in a sharp breath, my lungs filling with shock. No, he couldn’t mean . . . “Orson was responsible? That can’t be.” I couldn’t wrap my mind around it. “Why would he blow up his family’s mill?”"
 
 **中文理解**：他一句“那不是意外”把多年的官方结论掀翻；她眨眼说大家都这么讲，他嘴角浮起冷笑，说“是你丈夫造成了那场爆炸”。她倒抽一口气，肺里灌满震惊，一遍遍否认，直到追问：他为什么要炸掉自己家的工厂？
 
@@ -94,17 +104,27 @@ modified: "2026-10-21"
 
 **读者视角提示**：注意他给的是断言而不是证据；她最先做的事仍是替丈夫找理由——这正是他预料到的。
 
-> **原句 9:** "Zane crumpled the paper from his meat pie and strangled it in his fist. “He was at the mill early that morning, even though he told the police he hadn’t been there. It was definitely him.” I couldn’t believe it. Orson was vain and controlling and cruel . . . but this? He had disfigured Zane for life. Caused mayhem and destruction. And that wasn’t all. The magnitude of what this meant pressed on my chest like a stack of bricks. “People died,” I wheezed. “Four, yes.”"
+> **原句 10:** "Zane crumpled the paper from his meat pie and strangled it in his fist. “He was at the mill early that morning, even though he told the police he hadn’t been there. It was definitely him.”"
 
-**中文理解**：他把手里的肉馅饼纸揉成一团攥死，说那天清早她丈夫就在工厂，尽管对警察否认过——一定是他。她难以置信：Orson 虚荣、控制欲强又残忍，可这件事不一样，他让 Zane 毁了容，带来了破坏与死亡。这分量像一摞砖压在她胸口，她喘着问“有人死了？”“是，四个。”
+**中文理解**：他把手里的肉馅饼纸揉成一团攥死，说那天清早她丈夫就在工厂，尽管对警察否认过——一定是他。
 
-**关键词**：crumpled / It was definitely him / Four, yes
+**关键词**：crumpled / early that morning / definitely him
 
-**为什么这样写**：作者把举证与崩塌压在同一个动作里——纸团被攥碎的同时真相落地；短促的“Four, yes”用最少的字给出最沉的分量。
+**为什么这样写**：作者把举证与情绪压在同一个动作里：纸团被攥碎，句子也到此为止；他不肯多给一个字，让物证的重量自己压过去。
+
+**读者视角提示**：留意“definitely him”这句里的斩钉截铁；前面他还留着余地，此刻却已经不再替对方留任何退路。
+
+> **原句 11:** "I couldn’t believe it. Orson was vain and controlling and cruel . . . but this? He had disfigured Zane for life. Caused mayhem and destruction. And that wasn’t all. The magnitude of what this meant pressed on my chest like a stack of bricks. “People died,” I wheezed. “Four, yes.”"
+
+**中文理解**：她难以置信：Orson 虚荣、控制欲强又残忍，可这件事不一样，他让 Zane 毁了容，带来了破坏与死亡。这分量像一摞砖压在她胸口，她喘着问“有人死了？”“是，四个。”
+
+**关键词**：disfigured / People died / Four, yes
+
+**为什么这样写**：作者把追问压成两句对答，“People died”与“Four, yes”之间几乎没有情绪，数字却比任何形容词都冷。
 
 **读者视角提示**：注意“毁了容”这几个字的分量变化：Zane 脸上的伤原本只是残缺，在这一刻变成了罪证。
 
-> **原句 10:** "“Caroline, I realize you are trying to give him the benefit of the doubt, as any loyal wife would, but there’s no need. I’ve seen the report. Definitely arson, though they eventually ruled it accidental and the police never looked for anyone responsible. But there was a white substance hardened on some wood inside, as well as an acrid odor. That’s a sure sign of Fenian’s fire.”"
+> **原句 12:** "“Caroline, I realize you are trying to give him the benefit of the doubt, as any loyal wife would, but there’s no need. I’ve seen the report. Definitely arson, though they eventually ruled it accidental and the police never looked for anyone responsible. But there was a white substance hardened on some wood inside, as well as an acrid odor. That’s a sure sign of Fenian’s fire.”"
 
 **中文理解**：他先点破她在替丈夫说话，然后给出依据：他看过报告，确定是纵火，只是最终被裁定为意外，警方从未追查责任人；可木头内侧有一层硬化的白色物质，还有一股刺鼻气味，这正是纵火者惯用的“芬尼亚火”的确证。
 
@@ -114,7 +134,7 @@ modified: "2026-10-21"
 
 **读者视角提示**：注意“从未追查责任人”这句的分量：真凶一直留在档案的空白里，这一点比爆炸本身更冷。
 
-> **原句 11:** "It was too much. The kindness of this man, the hopelessness of my marriage. Confirmation of the monster I’d willingly handed myself over to in front of God and the entire city. There was no retreat, no undoing the damage, and I didn’t know what to do next. I burst into tears and threw myself into Zane’s arms."
+> **原句 13:** "It was too much. The kindness of this man, the hopelessness of my marriage. Confirmation of the monster I’d willingly handed myself over to in front of God and the entire city. There was no retreat, no undoing the damage, and I didn’t know what to do next. I burst into tears and threw myself into Zane’s arms."
 
 **中文理解**：她承受不住了：这个男人的善意、自己婚姻的绝望、以及亲手把自己交给一个怪物的那份确证。没有退路，也没有办法挽回已经造成的伤害，她不知道下一步该怎么办；她哭了出来，扑进 Zane 的怀里。
 
@@ -146,7 +166,6 @@ modified: "2026-10-21"
 | ancestry | 出身；血统 | A boy without Dutch ancestry or a fancy degree from Harvard. |
 | brooding | 闷闷不乐；沉着脸 | You’re brooding and smoking. |
 | pointless | 没有意义的；徒劳的 | Resisting seemed pointless. |
-| duplicates | 重复件；副本 | But I’ve found many duplicates. |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
