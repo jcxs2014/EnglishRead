@@ -59,6 +59,21 @@ DEFAULT_NAV_ITEMS = ["一句话概括", "情感弧线位置", "人物弧线", "�
 # 而 19 个 lane 全绿——长度这一层当时**没有任何探针**，只能靠人读到第 40 页才发现。
 LONG_QUOTE_WORDS = 100
 
+# 2026-10-21 用户拍板：块数不可「随意决定」——
+#   下限 2、上限 10 是**硬判据**（超上限判阻断，不判提示）；
+#   中间按本章原文字数给建议区间：800 词 2 块就够，2000 词 4–6 块。
+# 上限 10 的来历：ebenezer-scrooge ch03（1,731 词）被写到 11 块，用户原话
+# 「最多不能超过十块，不然读起来也费劲」；全库常规密度 2.5–3 块/千词。
+MIN_BLOCKS = 2
+MAX_BLOCKS = 10
+
+
+def blocks_target(words: int) -> tuple:
+    """按本章原文词数给出建议块数区间（两端都已夹到 2–10）。"""
+    lo = max(MIN_BLOCKS, round(words / 550))
+    hi = min(MAX_BLOCKS, max(lo, round(words / 320)))
+    return lo, hi
+
 # 模板套话：分析字段里出现这些串 = 「写了但没写」（2026-10-21 ebenezer-scrooge 实证：
 # beam-free 模型 33 分钟写 40 章，中文理解抄英文原文、为什么这样写套「把 X 重新定义 as Y, not Z」696 次）。
 # 判据是**退化特征**不是文风偏好：这些串只在模板循环产出里成片出现，正常精读里几乎不可能出现。
@@ -427,6 +442,19 @@ def check_chapter(book: Path, md: Path, form: dict | None = None) -> dict:
             if len(k.split()) > KEYWORD_MAX_WORDS:
                 kw_long.append({"block": name, "kw": k[:60], "words": len(k.split())})
 
+    # ── 块数：下限 2 / 上限 10 硬判据；中间按篇幅给建议（2026-10-21 用户拍板）
+    n_blocks = sum(1 for b in d["blocks"] if b["quote_no"] is not None)
+    words = len(corpus_n.split())
+    lo, hi = blocks_target(words)
+    bcount_bad: list = []
+    if n_blocks > MAX_BLOCKS:
+        bcount_bad.append(f"块数 {n_blocks} 超上限 {MAX_BLOCKS}（拆得过碎，读起来费劲）")
+    elif n_blocks < MIN_BLOCKS:
+        bcount_bad.append(f"块数 {n_blocks} 低于下限 {MIN_BLOCKS}")
+    bcount_hint = ""
+    if not bcount_bad and not (lo <= n_blocks <= hi):
+        bcount_hint = f"块数 {n_blocks} 偏离本章篇幅建议 {lo}–{hi}（本章 {words} 词）"
+
     nav_n = len(d["nav"])
     res["form"] = {
         "h1": d["h1"],
@@ -449,11 +477,15 @@ def check_chapter(book: Path, md: Path, form: dict | None = None) -> dict:
                      "segment_miss": miss, "struct_bad": len(struct_bad),
                      "empty_quote": len(empty_quote), "keyword_bad": len(kw_bad),
                      "cjk_low": len(cjk_bad), "template": len(tpl_bad),
-                     "keyword_long": len(kw_long), "hole": len(hole_bad)}
+                     "keyword_long": len(kw_long), "hole": len(hole_bad),
+                     "block_count": len(bcount_bad), "words": words,
+                     "block_target": [lo, hi], "block_hint": bcount_hint}
     res["issues"] = {"struct": struct_bad, "empty_quote": empty_quote,
                      "keyword": kw_bad, "cjk": cjk_bad, "quote_long": long_q,
-                     "template": tpl_bad, "keyword_long": kw_long, "hole": hole_bad}
-    blocked = miss or struct_bad or empty_quote or kw_bad or cjk_bad or tpl_bad or hole_bad
+                     "template": tpl_bad, "keyword_long": kw_long, "hole": hole_bad,
+                     "block_count": bcount_bad}
+    blocked = (miss or struct_bad or empty_quote or kw_bad or cjk_bad
+               or tpl_bad or hole_bad or bcount_bad)
     res["verdict"] = "blocked" if blocked else "ok"
     return res
 
@@ -565,6 +597,13 @@ def print_check(r: dict) -> None:
         return
     c = r["counts"]
     print(f"  语料：{r['corpus']}")
+    lo, hi = c.get("block_target") or (MIN_BLOCKS, MAX_BLOCKS)
+    print(f"  块数 {c['blocks']}（本章 {c['words']} 词，建议 {lo}–{hi} 块；硬限 {MIN_BLOCKS}–{MAX_BLOCKS}）")
+    for e in (r["issues"].get("block_count") or []):
+        print(f"    ❌ 块数：{e}")
+    if c.get("block_hint"):
+        print(f"    ⚠️ {c['block_hint']}")
+
     print("\n【逐字】")
     print(f"  引语块 {c['blocks']}，片段 {c['segments']}，查无 {c['segment_miss']}")
     for q in r["quotes"]:
@@ -632,7 +671,7 @@ def check_all(book: Path, as_json: bool = False) -> int:
     form = book_form(book)                 # 只算一次众数
     rows = [check_chapter(book, md, form) for md in mds]
 
-    empty_ch, form_ch, und, long_ch, tpl_ch, hole_ch = [], [], [], [], [], []
+    empty_ch, form_ch, und, long_ch, tpl_ch, hole_ch, bc_ch = [], [], [], [], [], [], []
     for r in rows:
         no = r["chapter"]
         if r["verdict"] == "undecidable":
@@ -647,6 +686,8 @@ def check_all(book: Path, as_json: bool = False) -> int:
         n_tpl = r["counts"].get("template", 0)
         if n_tpl:
             tpl_ch.append((no, n_tpl))
+        if r["issues"].get("block_count"):
+            bc_ch.append((no, r["issues"]["block_count"]))
         n_long = r["counts"].get("quote_long", 0)
         if n_long:
             long_ch.append((no, n_long))
@@ -690,6 +731,8 @@ def check_all(book: Path, as_json: bool = False) -> int:
             print(f"  ❌ ch{no:02d}：模板套话 {k} 处（分析字段是模板循环，不是分析——见 docs/rules/创建卡.md §3）")
         for no, k in hole_ch:
             print(f"  ❌ ch{no:02d}：残句缺词 {k} 处（`的 写成` 这类——补字不等于补内容）")
+        for no, msgs in bc_ch:
+            print(f"  ❌ ch{no:02d}：" + "；".join(msgs))
         for no, dev in form_ch:
             print(f"  ❌ ch{no:02d}：" + "；".join(dev))
         for r in und:
@@ -701,9 +744,9 @@ def check_all(book: Path, as_json: bool = False) -> int:
             print(f"  ⚠️ 引语偏长（提示型，不判红）：{len(long_ch)} 章有块 >{LONG_QUOTE_WORDS} 词 —— "
                   + "、".join(f"ch{no:02d} {n} 块" for no, n in worst)
                   + (f" 等 {len(long_ch)} 章" if len(long_ch) > 5 else ""))
-        print(f"  汇总：空引号 {len(empty_ch)} 章 ｜ 模板套话 {len(tpl_ch)} 章 ｜ 残句 {len(hole_ch)} 章 ｜ 形态偏离 {len(form_ch)} 章 ｜ 无法判定 {len(und)} 章"
+        print(f"  汇总：空引号 {len(empty_ch)} 章 ｜ 模板套话 {len(tpl_ch)} 章 ｜ 残句 {len(hole_ch)} 章 ｜ 块数越界 {len(bc_ch)} 章 ｜ 形态偏离 {len(form_ch)} 章 ｜ 无法判定 {len(und)} 章"
               f"（引语/子项/关键词/中文密度另有 lane，本项不重复计）")
-    bad = bool(empty_ch or form_ch or tpl_ch or hole_ch)
+    bad = bool(empty_ch or form_ch or tpl_ch or hole_ch or bc_ch)
     return 1 if bad else (2 if und else 0)
 
 
