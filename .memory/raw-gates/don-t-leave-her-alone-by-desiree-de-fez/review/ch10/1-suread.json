@@ -1,0 +1,835 @@
+{
+  "chapter": "ch10",
+  "source": "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch10_chapter_10.txt",
+  "source_total_chars": 46518,
+  "source_total_lines": 925,
+  "source_heading": "10",
+  "note": "本文件在阅读任何 md 之前生成；区间为原文字符偏移 [start,end)，基于 UTF-8 解码后的字符计数；line 列为 /usr/bin/grep -n 行号；原文引文逐字抄录（含原文使用的弯引号）。R1 素读只读 text/，未打开任何精读 md。",
+  "events": [
+    {
+      "id": "E1",
+      "who": "Diana",
+      "what": "出租车停在 Splau 商场前；已过九点，商场已关门。她一眼认出 Juan 和 Alba 的七座车（Alba 在生第三个孩子时坚持买新的），停在商场正门前的草坡台地旁，车门全开、车内灯亮着，草地上有几个大小不一的人影在动。",
+      "range": [
+        7,
+        1346
+      ],
+      "lines": [
+        6,
+        6
+      ],
+      "quote": "When the taxi parked, they quickly spotted Juan and Alba’s car. It was after nine, and the area around Splau, which was now closed, was practically empty. Cars trickled out of the parking lot one by one. Some shoppers, parked on the street, were loading purchases into their trunks. A few meters away, several mall employees were standing in line for the bus. Those required to wear uniforms hadn’t changed out of them yet. Everyone was rushing to make it to Christmas Eve dinner, which gave Splau’s industrial surroundings the look of a half-deserted film set. Juan and Alba’s car, a seven-seat minivan that Alba had insisted on buying new when they had their third child, was parked nearby, next to the grassy terrace just in front of the mall’s main entrance. All the van’s doors were open, and the interior lights were on. Several figures of different sizes were moving around outside on the grass. Something about it made Diana think of a haphazard manger, one a child had assembled. This image of her family—incomplete—shocked her. She took out her glasses and put them on, and pointed to every family member, counting. There were five of them, not six. Alba was missing. And, probably because she was missing, the rest of them were more spread out than usual. She couldn’t remember ever having seen her family standing so far apart."
+    },
+    {
+      "id": "E2",
+      "who": "Diana",
+      "what": "Diana 想到「一个孩子胡乱搭起来的马槽」，接着这个「不完整的家庭」意象刺痛了她；她戴上眼镜、指着每个家人一个一个数：只有五个人，不是六个——Alba 不见了。因为 Alba 不在，其余家人比平时散得更开。",
+      "range": [
+        910,
+        1485
+      ],
+      "lines": [
+        6,
+        6
+      ],
+      "quote": "Something about it made Diana think of a haphazard manger, one a child had assembled. This image of her family—incomplete—shocked her. She took out her glasses and put them on, and pointed to every family member, counting. There were five of them, not six. Alba was missing. And, probably because she was missing, the rest of them were more spread out than usual. She couldn’t remember ever having seen her family standing so far apart. Nor could she remember feeling, as she did just then, that they were autonomous individuals, even the baby, who was rolling around nearby."
+    },
+    {
+      "id": "E3",
+      "who": "Carlos",
+      "what": "街灯发出「暴力的光」，一切看得清清楚楚。Carlos 付了车钱、把孩子抱下车；他们能叫到车纯属幸运——司机看到有孩子，于是接了这单「开往 El Prat 的出租车」。",
+      "range": [
+        1628,
+        1965
+      ],
+      "lines": [
+        9,
+        9
+      ],
+      "quote": "The streetlights cast a violent light, which meant she could see everything clearly, even at a distance. While Carlos paid the driver and helped the kids out of the car, Diana stepped toward them and continued to take in the scene. They’d gotten lucky, and a taxi going toward El Prat had picked them up when the driver saw the children."
+    },
+    {
+      "id": "E4",
+      "who": "Diana",
+      "what": "Diana 用自己仍沾着血的手在眼前做成「挡光板」以便看清整个场面；她觉得画面美得惊人：草地绿得反常、几乎发磷光，喷泉像画里的小龙卷风一样怯怯变形；十二月尽头水还开着反常；家人散落的样子像被精心摆布过。",
+      "range": [
+        2084,
+        2918
+      ],
+      "lines": [
+        9,
+        9
+      ],
+      "quote": "Diana made blinders with her own hands—still bloodstained—so she could concentrate on that image, so nothing would distract her and she’d not miss one detail. She thought it was a beautiful vision. The grass was extraordinarily green, almost phosphorescent, which was quite odd for that time of year. Normally, it would have been dried out, or there’d have just been dirt and weeds. The streetlights gave off an unreal glow, and from time to time, a fountain would go off, timidly changing shape, like a small tornado in the background of a painting. It was also unusual for the water to be on at the end of December. The way her family was scattered across the plane she had framed with her hands looked studied, predetermined. The scene was like something an artist with good taste and a sense of visual balance might have arranged."
+    },
+    {
+      "id": "E5",
+      "who": "Carlos",
+      "what": "Carlos 抱着 Brisa、牵着 Tomás 走到 Diana 身边，很焦虑：他仍不明白自己当初为什么要听 Diana 的话——为什么没有坚持去医院，而是任他们跑到 Splau 来；「他无法理解自己为什么会在平安夜待在这里，身边的伴侣被从中间劈开」。",
+      "range": [
+        2921,
+        3261
+      ],
+      "lines": [
+        12,
+        12
+      ],
+      "quote": "Carlos came up next to her with Brisa in his arms, and Tomás’s hand in his. He was very anxious. He still didn’t understand why he’d listened to Diana—why, instead of insisting they go to the hospital, he’d allowed them to end up here. He couldn’t fathom what he was doing at Splau on Christmas Eve, with his partner sliced down the middle."
+    },
+    {
+      "id": "E6",
+      "who": "Carlos 与 Diana",
+      "what": "Carlos 反复问 Diana 伤口痛不痛（「Does it hurt?」），Diana 说一点也不痛；他要查看，她拒绝；再问，她回「I'm sure. Stop asking.」",
+      "range": [
+        3264,
+        3384
+      ],
+      "lines": [
+        15,
+        30
+      ],
+      "quote": "“Does it hurt?”\n\n\n“No. Not at all.”\n\n\n“Let me see.”\n\n\n“No.”\n\n\n“Are you sure it doesn’t hurt?”\n\n\n“I’m sure. Stop asking.”"
+    },
+    {
+      "id": "E7",
+      "who": "Brisa",
+      "what": "Brisa 问「Does what hurt, Mommy?」，Diana 答「Nothing, honey. My stomach was hurting a little before, but I'm all better now.」",
+      "range": [
+        3387,
+        3508
+      ],
+      "lines": [
+        33,
+        36
+      ],
+      "quote": "“Does what hurt, Mommy?” Brisa asked.\n\n\n“Nothing, honey. My stomach was hurting a little before, but I’m all better now.”"
+    },
+    {
+      "id": "E8",
+      "who": "Carlos",
+      "what": "Carlos 说「她总该出现了吧？没人看起来很担心」；Diana 说「我到处都看不到她」；Carlos 说「不，她不在这儿」「也许她在车里」「看起来不像」。",
+      "range": [
+        3764,
+        4022
+      ],
+      "lines": [
+        42,
+        57
+      ],
+      "quote": "“She must have turned up, right? No one looks very worried,” Carlos said.\n\n\n“I guess so. But I don’t see her anywhere.” Diana counted the silhouettes with her finger again.\n\n\n“No, she’s not here.”\n\n\n“OK.”\n\n\n“Maybe she’s in the car.”\n\n\n“Doesn’t look like it.”"
+    },
+    {
+      "id": "E9",
+      "who": "Carlos",
+      "what": "Carlos 把 Brisa 放到地上，四个人手牵手走向台地；孩子们跑去找表亲；Diana 和 Carlos 走向靠着车、紧张抽烟的 Juan；Carmen 则躺在几米外的草地上。",
+      "range": [
+        4025,
+        4361
+      ],
+      "lines": [
+        60,
+        60
+      ],
+      "quote": "Carlos put Brisa on the ground and the four of them walked to the terrace, hand in hand. The kids started running around with their cousins, who’d come over as soon as they saw them. Diana and Carlos went to Juan, who was nervously smoking, leaning against the car. Carmen, meanwhile, was stretched out on the grass several meters away."
+    },
+    {
+      "id": "E10",
+      "who": "Carlos",
+      "what": "Carlos 第二次要掀开 Diana 的毛衣看伤口，被她一把打掉：「Stop! I told you, I'm fine.」他再试（「Let me see, the kids aren't looking.」），Diana 喝止：「Stop it.」",
+      "range": [
+        4364,
+        4576
+      ],
+      "lines": [
+        63,
+        72
+      ],
+      "quote": "“Let me see your stomach again,” Carlos said, trying to lift Diana’s sweater.\n\n\n“Stop! I told you, I’m fine,” she said, swatting his hand away.\n\n\n“Let me see, the kids aren’t looking.”\n\n\n“Stop it,” Diana ordered."
+    },
+    {
+      "id": "E11",
+      "who": "Juan",
+      "what": "Diana 问 Juan 有没有听到什么；Alba 的电话打不通（「She's not picking up?」）。Juan 讲经过：闭店广播响起时两人走散了——Alba 要去买几样礼物，不想让孩子看见，他相信她回 MediaMarkt 问那个 Switch 手柄；分开大约四十五分钟。",
+      "range": [
+        4879,
+        5312
+      ],
+      "lines": [
+        78,
+        93
+      ],
+      "quote": "“Have you heard anything?” Diana asked.\n\n\n“Not a word,” he answered.\n\n\n“She’s not picking up?”\n\n\n“She doesn’t have her phone. It happened so fast. We got separated inside. I thought she was with your mom, and your mom thought she was with me.”\n\n\n“But has it been long?”\n\n\n“Not at all. About forty-five minutes. But when they announced the mall was closing, we split up—she had to get a few more gifts and didn’t want the kids to see."
+    },
+    {
+      "id": "E12",
+      "who": "Juan 与 Carlos",
+      "what": "Carlos 追问 Alba 的手机为什么在 Juan 手里；Juan 说「Because I have it.」——她刚给他没多久，他自己的手机没电了，要给爸爸打电话。Carlos 抱怨换手机这套。",
+      "range": [
+        5844,
+        6105
+      ],
+      "lines": [
+        108,
+        117
+      ],
+      "quote": "“Why doesn’t she have her phone?”\n\n\n“Because I have it.”\n\n\n“Fuck, Juan. I don’t understand this thing you guys have with swapping phones. It’s not normal. Phones are personal.”\n\n\n“She gave it to me just a little bit ago. Mine was dead, and I had to call my dad."
+    },
+    {
+      "id": "E13",
+      "who": "Carlos",
+      "what": "Carlos 指出：距上次见到 Alba 只有半小时，而 Splau 已经关了半小时——「不是八点半关门吗？」Juan 反驳：他们是在关门前分开的，已经将近一小时没消息。Carlos 坚持：在商场关门前她还在购物，不能因为半小时不知道人在哪就断定成年人失踪。",
+      "range": [
+        6109,
+        6511
+      ],
+      "lines": [
+        120,
+        126
+      ],
+      "quote": "“So it’s only been half an hour since you last saw her, right?” Carlos broke in. “Splau closed half an hour ago. Don’t they close at eight thirty?”\n\n\n“Yeah, but we split up before that. We haven’t heard from her in almost an hour.”\n\n\n“Right, but until they closed the mall, she was shopping. You can’t assume an adult has gone missing because you don’t know where she is for half an hour,” Carlos said."
+    },
+    {
+      "id": "E14",
+      "who": "Juan",
+      "what": "Juan 一直回避眼神，直到 Diana 追问「我妈怎么想？」才抬头：他很累；「She's calm now. Too calm, I think.」并说他更担心的是岳母而不是 Alba。",
+      "range": [
+        6514,
+        6847
+      ],
+      "lines": [
+        129,
+        135
+      ],
+      "quote": "Diana interrupted him. “What does my mom think?”\n\n\nJuan, who the whole time had been avoiding eye contact, finally looked at the two of them. He was exhausted.\n\n\n“She’s calm now. Too calm, I think. But something you won’t believe happened. I’m still reeling, if I’m being honest. I’m more worried about your mom than I am about Alba."
+    },
+    {
+      "id": "E15",
+      "who": "Carlos",
+      "what": "Carlos 注意到 Diana 和 Carmen 一起躺在草地上，姿势和在家里一模一样，安静得反常，他从没见她们这样过。",
+      "range": [
+        12320,
+        12586
+      ],
+      "lines": [
+        201,
+        201
+      ],
+      "quote": "Carlos looked for Diana and saw she was stretched out next to her mom, in the same position. They were talking. He was surprised by their intimacy, the sense of calm they were giving off, despite the circumstances. He didn’t remember ever having seen them like that."
+    },
+    {
+      "id": "E16",
+      "who": "Carmen",
+      "what": "Diana 看向母亲，觉得有趣：她在 Splau 前的草地上，姿势与在家时完全一样，只是少了那台大电视；她翘着腿，裹着大衣当毯子，靠着购物袋，一只手枕在脑后，另一只手在玩 Candy Crush——老虎机的声响在夜色里格外金属化。",
+      "range": [
+        6851,
+        7413
+      ],
+      "lines": [
+        138,
+        138
+      ],
+      "quote": "“Why?” Diana looked over at her mother and found it amusing that she was there—on the grass in front of Splau—in the exact same position she would have been in at home. The only thing missing was the giant TV. She was stretched out with her legs crossed, covered up with her parka as if it were a blanket. She had leaned back against some shopping bags and had one arm behind her head. With her free hand, she was playing Candy Crush. As always, the sound of the slot machine gave her away, seeming even more metallic and unreal against the silence of the night."
+    },
+    {
+      "id": "E17",
+      "who": "Juan",
+      "what": "Juan 招手让他们看车：车身溅满血，一个张开五指的血手印从一侧车门拖出一道断断续续的痕迹，一直延伸到后备厢；车底下露出被血浸透、像床单一样的东西；Carlos 想用脚把它拉出来，被 Juan 拦下（「Leave it. I don't want the kids to see.」）。",
+      "range": [
+        7535,
+        7959
+      ],
+      "lines": [
+        147,
+        147
+      ],
+      "quote": "Diana and Carlos went, and Juan gestured that they should look closely. They quickly saw that the car was blood-streaked. A handprint, the fingers spread wide, made a broken path from one side door to the trunk. The marks were unmistakable. And on the ground, sticking out beneath the car, there was something that looked like a sheet, also soaked with blood. Carlos tried to pull it out with his foot, but Juan stopped him."
+    },
+    {
+      "id": "E18",
+      "who": "Juan",
+      "what": "Juan 讲Carmen 的异常：她发现 Alba 不在他身边时「脸都白了」，像知道出了可怕的事；联系不上 Alba 时她几乎崩溃、慌到要报警；Alba 手机在他口袋里响时她差点心梗；「then she suddenly got very calm. One second to the next.」，「like she'd been injected with morphine」；她脸色变了、抱住他（不是温暖的拥抱，像是需要靠着什么让身体休息）；他感到有温热的东西滴在自己脚上——是血，「she was gushing blood」。",
+      "range": [
+        7962,
+        8607
+      ],
+      "lines": [
+        150,
+        150
+      ],
+      "quote": "“Leave it. I don’t want the kids to see. We’ll decide what to do with it later. It’s been absolutely insane here. When Carmen showed up and saw Alba wasn’t with me, she went white, like she knew something terrible had happened. When she realized we had no way to contact her, she was beside herself. If you had seen her when she called and Alba’s phone rang in my pocket. She almost had a heart attack. She started sweating and pacing like she’d lost something. I tried to calm her down, telling her I was sure she’d just gone to the bathroom, she’d be here any minute. But there was no way. She wouldn’t even tell me why she was so freaked out."
+    },
+    {
+      "id": "E19",
+      "who": "Juan",
+      "what": "Juan 描述 Carmen 的腹部伤情：解开大衣、掀开毛衣时他几乎晕过去——「It's all bits of skin and blood clots. Like someone attacked her with an immersion blender and tried to cut her in half.」",
+      "range": [
+        9958,
+        10131
+      ],
+      "lines": [
+        156,
+        156
+      ],
+      "quote": "Her stomach is destroyed. She has a terrible injury. It’s all bits of skin and blood clots. Like someone attacked her with an immersion blender and tried to cut her in half."
+    },
+    {
+      "id": "E20",
+      "who": "Juan",
+      "what": "Juan 说自己尽力清理过伤口、用后备厢的毯子压住血（车底露出的就是它）；但他没法接受的是Carmen 说不痛、说自己没事，还挥开他；他既劝不动她去医院，也劝不动她进诊所，更劝不动她上车保暖——她穿上大衣走开了。",
+      "range": [
+        10415,
+        11035
+      ],
+      "lines": [
+        168,
+        168
+      ],
+      "quote": "“I understand, but this is really serious. Fuck, I never thought I’d see something like that. I cleaned it as well as I could, and I tried to apply pressure with a blanket we had in the back. That’s what you see underneath the car. But the part I can’t get over is that she says it doesn’t hurt, that she’s fine, and she’s practically swatting me away to get me to leave her alone. There was no way to convince her to go to the hospital, or even the clinic that’s over here, since they would have just put her in an ambulance. I couldn’t even get her to sit in the car, to keep warm. She put on her coat and walked away."
+    },
+    {
+      "id": "E21",
+      "who": "Carlos",
+      "what": "Carlos 看着躺在地上玩 Candy Crush 的 Carmen，问 Juan 见过她这样吗；Carlos 说她「看起来真放松」「从没问过 Alba」，Juan 回答：「我也没见过她身边没有 Alba。」",
+      "range": [
+        11154,
+        11556
+      ],
+      "lines": [
+        174,
+        183
+      ],
+      "quote": "“Look at her over there. Her stomach like that, and she’s just lying on the ground and playing Candy Crush. It must not hurt too bad, she seems like she couldn’t care less. And she hasn’t asked about Alba since earlier. Have you ever seen her like this?”\n\n\n“Like what?”\n\n\n“This relaxed!”\n\n\n“No,” he replied, looking down at his brother-in-law. “I’ve also never seen her without Alba right next to her.”"
+    },
+    {
+      "id": "E22",
+      "who": "Juan",
+      "what": "Juan 说孩子跟她说话她会凶他们、把他们吓跑；Carlos 说孩子们习惯了，还问「为什么这家人这么爱吼」；Carlos 认识 Juan 十年，从没听他抱怨过岳父母，于是问「他们一直这样吗」。",
+      "range": [
+        11559,
+        12028
+      ],
+      "lines": [
+        186,
+        195
+      ],
+      "quote": "“If one of the kids tries to talk to her, she snaps at them so they’ll leave her alone. She’s got the poor things scared shitless.”\n\n\n“Don’t worry about that. They’re used to it by now.”\n\n\n“You’re right. Why do they yell so much in this family?” Juan flashed him a weak smile while he lit another cigarette.\n\n\nCarlos had known him for ten years, but in all that time, he’d never once heard Juan complain about their in-laws. “Have they always been like this?” he asked."
+    },
+    {
+      "id": "E23",
+      "who": "Juan",
+      "what": "Juan 回答「一直如此」，并吐槽 Diana 和 Carlos 听完全部经过却毫无反应、毫无一个问题，觉得这家人都有点疯。",
+      "range": [
+        12077,
+        12316
+      ],
+      "lines": [
+        198,
+        198
+      ],
+      "quote": "“Yeah, always. It’s nuts. And it’s also nuts that you two seem totally unfazed by what I just told you. Fuck, what’s up with you guys? Something’s not right. I thought you, at least, were more normal, but I guess you’re all a little crazy."
+    },
+    {
+      "id": "E24",
+      "who": "叙述者",
+      "what": "叙述层回顾：这个家三个人（Diana、Carmen、Alba）每天通常通两次话（常是视频），却从不谈要紧事；Diana 坚称小时候姐妹俩无话不谈，但真相是「她要往回追溯很久才能找到真正亲密的时刻」；Diana 从未与 Alba 单独约过，因为「Alba 从不一个人出门」。",
+      "range": [
+        12589,
+        14517
+      ],
+      "lines": [
+        204,
+        207
+      ],
+      "quote": "The two spoke every day, usually twice, often via video call. But really, they never said anything. It was the same with Diana and her sister. Each day the three would trade summaries of whatever happened to them, emphasizing mishaps, how hard it was to stay on top of it all. Sometimes they gossiped about other people, and always, without fail, they made demands: Come to Brigitte’s gymnastics performance; on Sunday, let’s have dinner, and you can hem Tomás’s pants; can you find me a cheap high-speed train ticket to Madrid. Yet they never discussed anything important. Not once had Diana met up with her mom or her sister for coffee, a meal, or a walk, with no objective other than spending time together. They never seemed to attempt to share what was really going on with them, or what they were worried about. Carlos couldn’t make sense of it, he didn’t understand why they would avoid doing something so normal. He found it bizarre that they were so close and so mutually dependent, while also completely lacking deeper knowledge about one another. What they did know was conjecture or intuition, not the result of something shared.\n\n\nDiana maintained it hadn’t always been that way—she said when she and Alba lived at their parents’ house, they would tell each other everything. And before they had kids, the three of them would meet all the time to catch up. But the truth was, she had to go further back in time to reach a moment of actual intimacy. None of her recent memories featured the three of them without someone else there, too, or without some mission to fulfill, or without at least one of them being present out of obligation. Diana didn’t remember the last time she’d made plans with her sister—just her sister, without the families. And the reason she couldn’t remember was because they hadn’t done that in their adult lives. Diana had never met up with just Alba because Alba didn’t go anywhere alone."
+    },
+    {
+      "id": "E25",
+      "who": "叙述者",
+      "what": "叙述层回顾 Carmen 与 Diana 的关系：Tomás 出生前 Carmen 偏爱 Diana、把梦想投射在 Diana 身上（认可她的电影事业、出行与装扮）；「After her first child, Diana turned into a pumpkin.」——在 Carmen 眼里女儿不再特别，只是又一个母亲；这才是母女疏远的真正原因。",
+      "range": [
+        14826,
+        16065
+      ],
+      "lines": [
+        210,
+        210
+      ],
+      "quote": "With her mom, it was more complicated. Up until Tomás was born, Carmen had a bit of a weakness for Diana. She’d projected her dreams onto her. Diana was doing her own thing—as Carmen would have liked to do, though she had never dared to consider it. As Carmen saw it, her daughter basically worked in movies, a world she idealized to an absurd degree. That’s why she had always encouraged her to go out, travel, dress perfectly for every occasion. Although from a young age her daughter had been financially independent, Carmen covered expenses she considered essential to her professional growth: flights and hotels to cover festivals, clothes and shoes suitable for a release, galas…extras no cultural journalist could afford, which Carmen proudly bankrolled. But then the spell broke: After her first child, Diana turned into a pumpkin. To Carmen, she was no longer special: Now, she was just another mother. Like Carmen and everyone else. It no longer made sense for her to go out, travel, dress perfectly for every occasion, or even advance professionally. Her priorities, in Carmen’s eyes, had shifted. Carmen suddenly went from idealizing her daughter to seeing her as an equal. That was the real cause of the distance between them."
+    },
+    {
+      "id": "E26",
+      "who": "Carmen 与 Diana",
+      "what": "Carmen 猜 Alba 可能被困在 Splau 里面；Diana 觉得不可能，她大概是被什么绊住、正要出来；Diana 建议「等十分钟」——「They just shut the doors. We can't call someone yet. What would we say?」；Juan 说自己去绕一圈找找。",
+      "range": [
+        16374,
+        17247
+      ],
+      "lines": [
+        213,
+        228
+      ],
+      "quote": "“Is it possible she got stuck inside Splau?” Carmen asked.\n\n\n“I don’t think so. She must have just gotten sidetracked as she was leaving. She’s probably on her way out now.” Diana looked at her mother and now saw the bloodstains on her parka. She leaned forward so she could see better, then opened her coat and lifted her sweater. Carmen didn’t resist. A wound just like hers, dark and fresh, ran across her stomach. She said nothing and covered it back up. Carmen snuggled against the gift bag she was using as a pillow and got comfortable again.\n\n\n“Yeah. But what if she is inside? She’s such a baby. Maybe we call the police,” Carmen said, adjusting her coat like a blanket.\n\n\n“Why don’t we wait ten minutes. They just shut the doors. We can’t call someone yet. What would we say?”\n\n\nJuan walked over to them.\n\n\n“I’m going to take a lap and see if I find her,” he said."
+    },
+    {
+      "id": "E27",
+      "who": "Carmen 与 Diana",
+      "what": "Carmen 担心 Alba 晕倒；Diana 说她从不头晕，Carmen 说「All the time.」；Carmen 停顿后说出「She hasn't been alone in years」；Diana 答「Wow. You finally said it.」「That Alba is never alone.」",
+      "range": [
+        18306,
+        19237
+      ],
+      "lines": [
+        246,
+        288
+      ],
+      "quote": "“What if she got dizzy?”\n\n\n“I don’t think so. She never gets dizzy.”\n\n\n“What do you mean she never gets dizzy?”\n\n\n“She gets dizzy?”\n\n\n“All the time.”\n\n\n“Oh, I don’t know, Mom, then someone would have seen her and helped her out.”\n\n\n“But it’s a holiday, people are frantic, everyone’s in a hurry.”\n\n\n“Yeah, Mom, but it doesn’t matter how much of a hurry you’re in, if you see someone who’s about to pass out, you help.”\n\n\n“You don’t know what people are like.”\n\n\n“That’s not true. I don’t know why you two are so suspicious all the time. If she doesn’t turn up in five minutes, we’ll figure out what to do then. But I’m not calling the police, they’re going to laugh.”\n\n\n“She hasn’t been alone in years,” Carmen said after a long pause.\n\n\nDiana sat up, astonished, and gave her mother a long look. Then she stretched back out, a satisfied smile on her face.\n\n\n“Wow. You finally said it.”\n\n\n“Said what?”\n\n\n“That Alba is never alone.”"
+    },
+    {
+      "id": "E28",
+      "who": "Carmen 与 Diana",
+      "what": "Carmen 问「你是什么时候把她弄丢的？」；Diana 说不知道、不记得；Carmen 想了想说「When we went to camp.」；Diana 说「Fifteen? More like thirty.」——Carmen 说那是「至少十五年前」，Diana 纠正说是三十年前。",
+      "range": [
+        19415,
+        20048
+      ],
+      "lines": [
+        300,
+        330
+      ],
+      "quote": "“But when did you lose her? How does that even happen?”\n\n\n“No idea—I don’t remember. There were so many people. I think my mind is starting to go.”\n\n\n“Your mind is not going! What’s happening is, you’re exhausted. I don’t know how you can take it. It’s not normal to be out shopping the last hour stores are open on Christmas Eve.”\n\n\n“You know how she is.”\n\n\n“Mom.” Diana paused. “Can you think of the last time my sister was alone? Really alone, I mean. Without any of us glued to her.”\n\n\n“No.”\n\n\n“Well, I can.”\n\n\n“When?”\n\n\n“When we went to camp.”\n\n\n“Oh, come on—that was fifteen years ago, at least.”\n\n\n“Fifteen? More like thirty.”"
+    },
+    {
+      "id": "E29",
+      "who": "Diana",
+      "what": "Diana 描述 Alba 的露台「基本是营地的复制品」：两把沙滩伞、户外双人沙发、便携泳池、两把折叠椅、孩子的自行车/滑板/轮滑、Brigitte 的呼啦圈、两个沙滩冰箱、条纹躺椅、改造过的旧冰箱当储藏间；La Tortuga 营地紧邻 Castelldefels 高速，Alba 的露台正对 B-20 环城路——两个宇宙都在灰暗拥堵的大路边展开。",
+      "range": [
+        24089,
+        24705
+      ],
+      "lines": [
+        435,
+        435
+      ],
+      "quote": "As Diana said, it was a miniature of La Tortuga. There were two beach umbrellas; an outdoor loveseat; an aboveground portable swimming pool, always set up; two folding chairs; the kids’ bikes, scooters, and roller skates; Brigitte’s Hula-Hoop; two beach coolers; a striped deck chair; the old fridge they had repurposed as a pantry; and piles of things crammed into every available area: buckets, brooms, towels, old toys. La Tortuga Ligera’s campground sat next to the Castelldefels highway, and Alba’s patio looked out over the B-20 beltway. Both universes unfolded beside immense, gray, eternally congested roads."
+    },
+    {
+      "id": "E30",
+      "who": "叙述者",
+      "what": "叙述层：Alba 每晚饭后都上露台，拉开一点窗帘以便把 Juan 和孩子保持在视线里；她有时抽烟（从父亲那里学来的坏习惯，二十岁前就戒了）；她面前是丑陋的 Ciutat de la Justícia 开发区、左边是长子练球的霓虹绿足球场、环城路与广告牌——一块是 L'Hospitalet 的麦当劳得来速，另一块是性玩具品牌。",
+      "range": [
+        24708,
+        25824
+      ],
+      "lines": [
+        438,
+        438
+      ],
+      "quote": "Every night after dinner, Alba would go out to her patio. Though she pulled back the curtain so she could keep Juan and the kids in her field of vision, those moments were the closest she ever got to disconnecting. She didn’t do anything; she just sat. Sometimes she felt like smoking, a vice she’d picked up from her father when she was far too young and then kicked before she turned twenty. But she never would have admitted it or given in. She just leaned on the metal banister and looked out at the landscape, biting her nails, turning from time to time to make sure her family was still there. In the background of the scene before her was the hideous Ciutat de la Justícia development—the “city of justice,” judicial and commercial spaces, apartments. Closer, on the left side, was the soccer field where her older son trained, brightly illuminated, a neon green rectangle in the middle of the darkness. And the beltway, the cars, the lights, the billboards. They hadn’t updated those billboards in a long time. One was for the McDonald’s drive-thru off of L’Hospitalet; the other was for a brand of sex toys."
+    },
+    {
+      "id": "E31",
+      "who": "叙述者",
+      "what": "叙述层：Splau「吞掉」她之前几天的一个晚上，Alba 照例上露台，视线停在麦当劳广告牌上，黄色 M 化成红色背景上的液体往下淌，最后只剩下一块白底红字的广告牌——一块跑着乌龟的 La Tortuga Ligera 广告牌；她睁开眼时广告还在，于是她进屋拉上窗帘。",
+      "range": [
+        25825,
+        26400
+      ],
+      "lines": [
+        438,
+        438
+      ],
+      "quote": "Days before Splau had swallowed her up, Alba went out to the patio, as she did every night. Her eyes traveled over the landscape, as always, but for some reason, she got stuck on the McDonald’s ad. She stared at it for a long time, watched it transform. The yellow M on its red background liquefied, trickling downward and leaving behind just a white billboard with red text and a running turtle—the billboard for La Tortuga Ligera. Alba closed her eyes for a moment, and when she opened them, the ad for the campground was still there. She went inside and shut the curtains."
+    },
+    {
+      "id": "E32",
+      "who": "Carmen 与 Diana",
+      "what": "两人聊起 Alba 对 Camela 的痴迷、露营时总放她们的音乐；又问高速上那些营地招牌（C-32）是否还在、Diana 说她喜欢过 La Ballena Alegre 的招牌；Carmen 说所有营地很早就全关了（有一家似乎多留了一阵，她不确定现在是否还开）。",
+      "range": [
+        26403,
+        27681
+      ],
+      "lines": [
+        441,
+        465
+      ],
+      "quote": "“Do you remember how obsessed your sister was with Camela? She’d always blast their music when we went camping,” Carmen said.\n\n\n“Yeah. Does she still listen to them?”\n\n\n“What kind of question is that? She doesn’t listen to music, just whatever the kids want from YouTube.”\n\n\n“Mom, Alba’s never been more independent than she was back then. She didn’t need anyone. Some weekends, she even went away with that friend—oh, what was her name—and we stayed in Barcelona, remember? That girl with the ears that stuck out, from the camper one spot over.”\n\n\n“Come on now, that’s not nice. You know, we ran into her one day at the store with her husband and her kids, and she was adorable. Are those signs for the campground still up on C-32? They were so nice.”\n\n\n“Yeah, they were really cool. I have no idea—I haven’t been over there in years. I guess they’d have kept them, right? Those signs must have some kind of historical value. I loved the one for La Ballena Alegre.”\n\n\n“They shut that place down, too.”\n\n\n“They closed all the campgrounds off the highway?”\n\n\n“A long time ago. And all at the same time, give or take. Well, I think they left one for a while, but I don’t know if it’s open anymore. It was a pretty big deal for the people with the cabins that looked like mansions."
+    },
+    {
+      "id": "E33",
+      "who": "Carmen 与 Diana",
+      "what": "两人聊起偷油转卖的营地夫妻；Carmen 说那女人「干的事最怪」，还说她「每周五在自己的房车里办 bingo——女士 bingo」；Diana 问母亲为什么没去过；Carmen 转而说起营地往事：这对夫妻的丈夫 Manolo 从脚手架上摔下来死了；「He fell off some scaffolding, too」——邻近那对穿同样衣服的姐妹，其中一个的丈夫也在离开营地不久后摔死；Carmen 说「From La Tortuga alone, a few men died that way」。",
+      "range": [
+        29393,
+        36960
+      ],
+      "lines": [
+        534,
+        675
+      ],
+      "quote": "“She would host bingo at her camper on Fridays. Do you remember? Women’s bingo.”\n\n\n“That’s right. Mari usually went.”\n\n\n“Why didn’t you go? Didn’t they invite you?”\n\n\n“Sure they did, but your father wouldn’t have liked it.”\n\n\n“Really?”\n\n\n“Really.”\n\n\n“But why?”\n\n\n“Oh, what do I know. You know how your dad was.”\n\n\n“Jesus, yeah. Dad.” She paused. “By the way, he was at my house the other night.”\n\n\n“Who?”\n\n\n“Dad,” said Diana.\n\n\n“For God’s sake, Diana, you’ve lost it.”\n\n\n“I’m serious. I got up to go to the bathroom and realized he’d been there.”\n\n\n“What do you mean?”\n\n\n“The bathroom smelled like it did after he’d been in there—like cigarettes.”\n\n\n“You know he smoked in there. It didn’t matter if he was showering or shitting, afterward it always smelled like cigarettes.”\n\n\n“Exactly. We don’t smoke, the smell had to come from somewhere.”\n\n\n“Maybe it was a neighbor.”\n\n\n“At four in the morning? No way. None of our neighbors would be up that late. It was Dad. It’s not the first time, either. And it’s only on certain dates. He also came the night before I went in for my back injection.”\n\n\n“Have you ever seen him? Has he said anything?”\n\n\n“No, I just know he’s there, or that he’s been there.”\n\n\n“Well, well.”\n\n\nDiana thought Carmen would want to know more. But when she didn’t press and kept looking calmly up at the stars, Diana went on.\n\n\n“All right, I’ll tell you the camper story. I’m still traumatized.”\n\n\n“What story?”\n\n\n“The story about that woman’s camper, the one who hosted bingo. It was so scary.”\n\n\n“What happened? I can’t remember.”\n\n\n“You don’t remember because I never told you.”\n\n\n“Really? But you were such a scaredy-cat—you must’ve told me.”\n\n\n\n\n\nDiana had hated walking past the camper on nights when there was bingo. But she had no choice, because there was no other way to the bathrooms. And they were always playing bingo when she wanted to shower after a long day at the beach and the pool. She could tell because when she walked by, the curtains were closed, and she could hear a woman calling out the numbers. Also because of the sign taped to the door: Do Not Disturb. It’s Bingo Night.\n\n\nIt was always Friday at eight p.m. The event was strategically scheduled for that day and time because the husbands got off work earlier on Fridays, and after their siestas, as soon as the sun went down, they would post up in the campground bar until closing time, or until they got kicked out. The women would get the kids showered first thing in the evening, make them sandwiches, and send them to the rec area, where they’d run around and play until the DJ started.\n\n\nStretched out on the deck chair in their spot, pretending to do crossword puzzles, Diana had been watching to see when people from neighboring areas went to shower over the course of several Fridays. Her plan was to go around the same time, so she wouldn’t have to pass the bingo camper alone. When the neighbors about her age, whom she didn’t really talk to, threw their towels over their shoulders, she’d gather her things and rush out to join them, all of them filing toward the showers. No one seemed to care about the bingo. The young men swaggered along, trading jokes. The girls, aware of their allure, pretended to be in their own world, ignoring the boys. The boys carried on with their strutting, the jokes becoming increasingly ridiculous. Diana, who was invisible to both groups—and deeply grateful for it—walked a few meters behind them, looking down at the ground. The moment they passed by the camper, she always picked up on something strange. If she was able to avoid looking, it was only an unpleasant feeling. But if her curiosity got the better of her, she’d glance over, and her body would react in unusual ways. Most often, it was a ringing in her ears, something she attributed to her nerves, because it also happened when she was taking a test, or when she went into a store or a restaurant alone. But she had also felt more peculiar things, which were a lot more difficult to explain. Once, when she had fallen farther behind the group than usual, as she continued past the camper, she’d felt a heaviness in her torso, heat on the nape of her neck, and pain in her ankles, as if someone had hopped up on her back and was urging her to go faster. After that, whenever she passed the camper, she looked straight ahead. Except the day when she had no way of describing what she’d seen.\n\n\nWithout really knowing why, Diana had thought a lot about that day over the past few years. Before, what happened had remained in her head, a blurry memory—something she didn’t know how to interpret. But lately, she kept returning to that snapshot. That evening, she was making the walk to the showers alone. Summer was coming to an end, and although neither she nor her sister knew it, that would be their last year at Camp La Tortuga Ligera. It was the final game of the campsite’s youth soccer season: The boys were playing, and the girls were watching from the bleachers. The area with the cabins and campers was empty. It was unsettling to hear silence in a place that was normally filled with the sounds of pots and pans, Top 40 radio, family quarrels, and shouting kids. That day, Carmen had gone to Barcelona to run errands, which is what the women at the campground did when they needed to escape for a few hours. And Alba, who at that time was twelve years old, only came back by their spot during the day for lunch and snacks, or if it was raining a lot. Diana was alone; there was no one to protect her. She thought about skipping the shower, but she had her period and didn’t feel well. She thought certainly she’d cross paths with someone on their way to the bathrooms. The campground was huge, and her luck couldn’t be that bad. She grabbed a towel, her toiletries, some underwear hanging on the clothesline, and set off. She made half the journey alone, hoping the whole time to run into a mom and her kids, or a dad who had gotten off work later than usual. But no. She could hear people moving around in some cabins, but no one came out to head to the showers. When she had almost reached the bingo camper, she stopped short. It was after eight p.m., so she had assumed bingo would have already started.\n\n\n“They weren’t inside. They were sitting out in front.”\n\n\n“Was Mari there?” Carmen asked, as if it had been the day before yesterday.\n\n\n“No. But I remember the two sisters from our neighborhood—the ones who dressed the same and had identical campers next to our cabin.”\n\n\n“Ah, those two. One had a husband who also died not long after we left the campground.”\n\n\n“No! Are you sure?” Diana suddenly straightened, sitting cross-legged in front of her mother. As she did, she noticed a stabbing sensation in her belly, and a grimace of pain flashed across her face.\n\n\n“I’m sure. He fell off some scaffolding, too. Not such a loss, though. He was an asshole. One time I saw her with a black eye, and she told me a can of garbanzo beans had jumped off the shelf at the grocery store and hit her. She had to know no one would believe that.”\n\n\n“He fell off scaffolding, too? Are you joking?”\n\n\n“No, no, I’m not joking. He fell off scaffolding, too.”\n\n\n“That’s insane.”\n\n\n“It was right after Manolo died. But back then, men used to fall off of scaffolding pretty often.”\n\n\n“Mom!”\n\n\n“Honestly, people died like that all the time.”\n\n\n“What do you mean ‘all the time’? That’s crazy.”\n\n\n“I mean just that—it happened. People weren’t doing much in terms of safety at the worksites, it wasn’t like it is now. From La Tortuga alone, a few men died that way."
+    },
+    {
+      "id": "E34",
+      "who": "Diana 与 Carmen",
+      "what": "Diana 突然讲起父亲：「By the way, he was at my house the other night.」——她起夜时发现父亲来过，浴室里有烟味；「At four in the morning?」Carmen 说家里人不抽烟，烟味必有来源；Diana 说「It was Dad. It's not the first time, either.」",
+      "range": [
+        29739,
+        30389
+      ],
+      "lines": [
+        558,
+        588
+      ],
+      "quote": "“By the way, he was at my house the other night.”\n\n\n“Who?”\n\n\n“Dad,” said Diana.\n\n\n“For God’s sake, Diana, you’ve lost it.”\n\n\n“I’m serious. I got up to go to the bathroom and realized he’d been there.”\n\n\n“What do you mean?”\n\n\n“The bathroom smelled like it did after he’d been in there—like cigarettes.”\n\n\n“You know he smoked in there. It didn’t matter if he was showering or shitting, afterward it always smelled like cigarettes.”\n\n\n“Exactly. We don’t smoke, the smell had to come from somewhere.”\n\n\n“Maybe it was a neighbor.”\n\n\n“At four in the morning? No way. None of our neighbors would be up that late. It was Dad. It’s not the first time, either."
+    },
+    {
+      "id": "E35",
+      "who": "Diana",
+      "what": "Diana 同意讲营地的故事（「I'm still traumatized.」）：Bingo 固定在每周五晚八点——因为丈夫们周五下班早、睡完午觉太阳下山后就去营地酒吧待到关门；女人们先给孩子洗澡、做三明治、送到娱乐区。Diana 曾为了不独自路过 bingo 房车，观察邻居什么时候去洗澡、跟着一起走。",
+      "range": [
+        30741,
+        32279
+      ],
+      "lines": [
+        603,
+        630
+      ],
+      "quote": "“All right, I’ll tell you the camper story. I’m still traumatized.”\n\n\n“What story?”\n\n\n“The story about that woman’s camper, the one who hosted bingo. It was so scary.”\n\n\n“What happened? I can’t remember.”\n\n\n“You don’t remember because I never told you.”\n\n\n“Really? But you were such a scaredy-cat—you must’ve told me.”\n\n\n\n\n\nDiana had hated walking past the camper on nights when there was bingo. But she had no choice, because there was no other way to the bathrooms. And they were always playing bingo when she wanted to shower after a long day at the beach and the pool. She could tell because when she walked by, the curtains were closed, and she could hear a woman calling out the numbers. Also because of the sign taped to the door: Do Not Disturb. It’s Bingo Night.\n\n\nIt was always Friday at eight p.m. The event was strategically scheduled for that day and time because the husbands got off work earlier on Fridays, and after their siestas, as soon as the sun went down, they would post up in the campground bar until closing time, or until they got kicked out. The women would get the kids showered first thing in the evening, make them sandwiches, and send them to the rec area, where they’d run around and play until the DJ started.\n\n\nStretched out on the deck chair in their spot, pretending to do crossword puzzles, Diana had been watching to see when people from neighboring areas went to shower over the course of several Fridays. Her plan was to go around the same time, so she wouldn’t have to pass the bingo camper alone."
+    },
+    {
+      "id": "E36",
+      "who": "叙述者",
+      "what": "叙述层：那是 Alba 十二岁的最后一个夏天，Carmen 去了 Barcelona 办事，营地里空无一人；Diana 独自去浴室（她生理期不舒服），走到 bingo 房车前停下——已经过了八点，她以为 bingo 早就开始了。",
+      "range": [
+        34045,
+        35617
+      ],
+      "lines": [
+        633,
+        633
+      ],
+      "quote": "That evening, she was making the walk to the showers alone. Summer was coming to an end, and although neither she nor her sister knew it, that would be their last year at Camp La Tortuga Ligera. It was the final game of the campsite’s youth soccer season: The boys were playing, and the girls were watching from the bleachers. The area with the cabins and campers was empty. It was unsettling to hear silence in a place that was normally filled with the sounds of pots and pans, Top 40 radio, family quarrels, and shouting kids. That day, Carmen had gone to Barcelona to run errands, which is what the women at the campground did when they needed to escape for a few hours. And Alba, who at that time was twelve years old, only came back by their spot during the day for lunch and snacks, or if it was raining a lot. Diana was alone; there was no one to protect her. She thought about skipping the shower, but she had her period and didn’t feel well. She thought certainly she’d cross paths with someone on their way to the bathrooms. The campground was huge, and her luck couldn’t be that bad. She grabbed a towel, her toiletries, some underwear hanging on the clothesline, and set off. She made half the journey alone, hoping the whole time to run into a mom and her kids, or a dad who had gotten off work later than usual. But no. She could hear people moving around in some cabins, but no one came out to head to the showers. When she had almost reached the bingo camper, she stopped short. It was after eight p.m., so she had assumed bingo would have already started."
+    },
+    {
+      "id": "E37",
+      "who": "Diana 与 Carmen",
+      "what": "Diana 说三人不在房车里，而是坐在外面石桌旁：邻居那对姐妹和一个卖 Avon 产品的女人；Carmen 不记得那女人；其中一个姐妹的丈夫在离开营地不久后也摔死，Carmen 说「He fell off some scaffolding, too.」；Diana 追问，胜在Carmen 说「people weren't doing much in terms of safety at the worksites」。",
+      "range": [
+        35620,
+        36912
+      ],
+      "lines": [
+        636,
+        675
+      ],
+      "quote": "“They weren’t inside. They were sitting out in front.”\n\n\n“Was Mari there?” Carmen asked, as if it had been the day before yesterday.\n\n\n“No. But I remember the two sisters from our neighborhood—the ones who dressed the same and had identical campers next to our cabin.”\n\n\n“Ah, those two. One had a husband who also died not long after we left the campground.”\n\n\n“No! Are you sure?” Diana suddenly straightened, sitting cross-legged in front of her mother. As she did, she noticed a stabbing sensation in her belly, and a grimace of pain flashed across her face.\n\n\n“I’m sure. He fell off some scaffolding, too. Not such a loss, though. He was an asshole. One time I saw her with a black eye, and she told me a can of garbanzo beans had jumped off the shelf at the grocery store and hit her. She had to know no one would believe that.”\n\n\n“He fell off scaffolding, too? Are you joking?”\n\n\n“No, no, I’m not joking. He fell off scaffolding, too.”\n\n\n“That’s insane.”\n\n\n“It was right after Manolo died. But back then, men used to fall off of scaffolding pretty often.”\n\n\n“Mom!”\n\n\n“Honestly, people died like that all the time.”\n\n\n“What do you mean ‘all the time’? That’s crazy.”\n\n\n“I mean just that—it happened. People weren’t doing much in terms of safety at the worksites, it wasn’t like it is now."
+    },
+    {
+      "id": "E38",
+      "who": "Diana",
+      "what": "Diana 讲出那晚所见：bingo 女人提着塑料桶出现，穿薄纱镶水钻的裙子（像家长带孩子第一次领圣体时穿的），桌上摆出木砧板、几支高红蜡烛和一把刀，摆成圈点燃，众人开始吟唱一首奇怪的歌（像是祈祷）；Diana 听到像斧头、像肉铺切肉的声音，还有水滴进塑料桶的声音，然后是啜泣声。",
+      "range": [
+        40248,
+        41545
+      ],
+      "lines": [
+        786,
+        792
+      ],
+      "quote": "The bingo woman was wearing one of those tulle dresses with rhinestones on it, the kind moms wear to their kids’ first communions. The others were wearing normal stuff, camping clothes. She set the bucket on the table and took out a wooden cutting board, some tall red candles, and a knife. She put it all in the center of the table. It was unbelievably quiet.” Diana took a long pause, holding her breath to try to control the pain. “All you could hear was the wind in the trees. I was terrified I’d accidentally make a noise and they’d catch me watching. Then the bingo woman put the candles in a circle and lit them, and everyone started chanting a very strange song, even the woman who had been crying. It seemed like they were praying. Mom, don’t fall asleep!”\n\n\n“I’m not asleep. Not even close. I’m just closing my eyes so I can visualize better.”\n\n\n“Bullshit. You’re closing them because it hurts so bad, just like it’s hurting me. And I don’t know what else they did, because the bingo woman had her back to me, and I couldn’t really see. But I heard something like an axe, or like when they’re cutting meat at the butcher, and the sound of water, or whatever it was, dripping into the plastic bucket. Then I heard sobbing. And they kept singing, or praying, I couldn’t make out the words."
+    },
+    {
+      "id": "E39",
+      "who": "Diana",
+      "what": "Diana 说那束光从桌面射起，越过树梢冲进天空——深粉、几乎紫色——一切开始震动；等震动与热感退去、她再抬头时，人已不在外面，营地恢复了平常的声响，房车和「Do Not Disturb. It's Bingo Night.」的牌子都还在，她直接跑去浴室。",
+      "range": [
+        41590,
+        42242
+      ],
+      "lines": [
+        792,
+        798
+      ],
+      "quote": "there was light shooting up from the table, over the trees and into the sky. A deep pink, almost purple. And everything started to vibrate.”\n\n\n“Only you saw it?” Carmen asked, this time opening her eyes to look at her daughter.\n\n\n“Yeah, that’s the weird part, but at that time of night, everyone was always over at the rec area. I curled up into a ball on the ground, and when the shaking and the heat from the light went away, I looked back up. But they weren’t outside anymore, and the normal campground sounds started up again. The camper looked just like it did every Friday, the door was shut and the sign was up: Do Not Disturb. It’s Bingo Night."
+    },
+    {
+      "id": "E40",
+      "who": "Diana 与 Carmen",
+      "what": "Carmen 问「Only you saw it?」；Diana 说三十年后才讲出来母亲仍不信，若当年说了会怎样；Carmen 评价「Boy, you are a writer, aren't you.」",
+      "range": [
+        41733,
+        42380
+      ],
+      "lines": [
+        795,
+        801
+      ],
+      "quote": "“Only you saw it?” Carmen asked, this time opening her eyes to look at her daughter.\n\n\n“Yeah, that’s the weird part, but at that time of night, everyone was always over at the rec area. I curled up into a ball on the ground, and when the shaking and the heat from the light went away, I looked back up. But they weren’t outside anymore, and the normal campground sounds started up again. The camper looked just like it did every Friday, the door was shut and the sign was up: Do Not Disturb. It’s Bingo Night. And I could hear a woman calling out the numbers. I just ran by and went straight to the showers.”\n\n\n“Boy, you are a writer, aren’t you.”"
+    },
+    {
+      "id": "E41",
+      "who": "Juan",
+      "what": "Juan 来电：他和 Alba 找到了人，正在往这边来；Diana 问 Alba 在哪，Juan 说「He didn't say.」",
+      "range": [
+        43065,
+        43210
+      ],
+      "lines": [
+        816,
+        822
+      ],
+      "quote": "“Juan just called. He’s with Alba, they’re on their way over here.”\n\n\n“Where was she?” Diana asked, stroking the baby’s cheek.\n\n\n“He didn’t say.”"
+    },
+    {
+      "id": "E42",
+      "who": "Carmen",
+      "what": "Carmen 拒绝走：「No one. I'm not going anywhere until I've seen your sister myself.」Carlos 主张叫救护车，Juan 说要先打 one-one-two；Carmen 说「那两个人没用」；Juan 说「既然 Juan 说他找到她了，我们现在叫救护车他们也来得及」；Carmen 仍说「别打，再等等，以防万一」。",
+      "range": [
+        44018,
+        44272
+      ],
+      "lines": [
+        858,
+        864
+      ],
+      "quote": "“No one. I’m not going anywhere until I’ve seen your sister myself.”\n\n\n“But Juan just said he’s on his way, he found her. If we call now, they’ll still get here before the ambulance.”\n\n\n“I don’t know, those things are fast. Don’t call yet, just in case.”"
+    },
+    {
+      "id": "E43",
+      "who": "Carlos",
+      "what": "Carlos 第一次对岳母提高声音，动手要扶她起来却做不到——她瘫软下去（she went limp）；Diana 说「妈妈」，Juan 抱着睡着的婴儿把孩子们带回车，发现副驾上粉色盒子的平板（属于孩子）、一开机就是 YouTube Kids 且电量充足；他不敢开暖风，怕误发动引擎把孩子们开走。",
+      "range": [
+        44473,
+        45564
+      ],
+      "lines": [
+        879,
+        888
+      ],
+      "quote": "For the first time in his life, Carlos raised his voice to his mother-in-law. Together, he and Diana tried to get her on her feet, but it was impossible. When they reached under her arms to lift her, she went limp.\n\n\n“Mom, come on. Help us out.”\n\n\n“I said no. I’m not moving until I’ve seen your sister.”\n\n\nCarlos called the kids over, and together they walked to the car. Juan had left it unlocked. He put the little one, still sleeping, in the car seat, and took off his coat to cover him with it. Wordlessly, the other four climbed into the back, too tired to put up any kind of a fight. He saw a tablet in the passenger seat. The case was pink, so he knew it belonged to one of the kids. He was grateful when, the moment he turned it on, YouTube Kids popped up, and even more so when he saw it was fully charged. He handed it to Juanito, the eldest, and automatically, the others squeezed around him, glued to the screen. Since he had no idea how a car worked, he didn’t try to turn on the heat, afraid he’d accidentally start the engine and that it would drive off with the kids inside."
+    },
+    {
+      "id": "E44",
+      "who": "Carlos",
+      "what": "Carlos 说让 Carlos 陪孩子、Juan 开车送两个伤者去医院，或让 Carlos 叫救护车；Carlos 决定先等在车里，又提醒大家见到 Alba 时别那么害怕。",
+      "range": [
+        43228,
+        46517
+      ],
+      "lines": [
+        828,
+        924
+      ],
+      "quote": "“Let’s go to the car and wait there, the kids are freezing,” Carlos deflected. He gave Diana a look that said he’d tell her later.\n\n\n“We’ll wait here,” said Carmen.\n\n\n“No, Mom, let’s get in the car. Carlos, we need to go to the hospital now. It’s getting bad, for both of us.”\n\n\n“Is it hurting a lot?”\n\n\n“It did a minute ago, same for my mom. Not so much now—it seems to have passed. But it looks horrible.”\n\n\n“I’ll call one-one-two.”\n\n\n“Yes, call. Can you ask for an ambulance?”\n\n\n“I don’t know, I don’t think so. I think you have to call one-one-two first.”\n\n\n“The two of you are useless,” Carmen said with a thread of a voice. They both looked at her, surprised.\n\n\n“Mom, what can I say, it’s the nerves. And it’s not like you’re making things easier! Who do you think we should call?”\n\n\n“No one. I’m not going anywhere until I’ve seen your sister myself.”\n\n\n“But Juan just said he’s on his way, he found her. If we call now, they’ll still get here before the ambulance.”\n\n\n“I don’t know, those things are fast. Don’t call yet, just in case.”\n\n\n“All right, but let’s at least wait in the car. It’s freezing.”\n\n\n“No.”\n\n\n“What does it matter if you wait in the car or out here?”\n\n\n“I’m not moving.”\n\n\n“Carmen, that’s enough. Don’t be stubborn.” For the first time in his life, Carlos raised his voice to his mother-in-law. Together, he and Diana tried to get her on her feet, but it was impossible. When they reached under her arms to lift her, she went limp.\n\n\n“Mom, come on. Help us out.”\n\n\n“I said no. I’m not moving until I’ve seen your sister.”\n\n\nCarlos called the kids over, and together they walked to the car. Juan had left it unlocked. He put the little one, still sleeping, in the car seat, and took off his coat to cover him with it. Wordlessly, the other four climbed into the back, too tired to put up any kind of a fight. He saw a tablet in the passenger seat. The case was pink, so he knew it belonged to one of the kids. He was grateful when, the moment he turned it on, YouTube Kids popped up, and even more so when he saw it was fully charged. He handed it to Juanito, the eldest, and automatically, the others squeezed around him, glued to the screen. Since he had no idea how a car worked, he didn’t try to turn on the heat, afraid he’d accidentally start the engine and that it would drive off with the kids inside.\n\n\n“Don’t fight over the videos. Juanito gets to choose because he’s the oldest.”\n\n\nCarlos then went back to his partner and his mother-in-law. Carmen was still lying on the ground. She was on her back again, using the gift bag as a pillow, and looking up at the stars in the sky. She didn’t have another round of Candy Crush in her. Diana was standing, looking down at her, not saying a word. When she saw Carlos approaching, she went to him.\n\n\n“How are you?” he asked.\n\n\n“A little better. I’m exhausted, but it doesn’t hurt anymore. I guess my mom’s better now, too.”\n\n\nCarlos tried to lift her sweater to check, but Diana stopped him, pushing his hand away.\n\n\n“Gosh, Diana, you’re making this hard.”\n\n\n“They’re taking a long time, aren’t they?”\n\n\n“I don’t know. I guess so, yeah.”\n\n\n“But what did Juan say?”\n\n\n“Not all that much.”\n\n\n“What kind of ‘not all that much’?”\n\n\n“That Alba is OK. And that we should all try not to be scared when we see her.”"
+    }
+  ],
+  "characters": {
+    "Diana": "叙述视角人物。33 岁上下，自由撰稿人、影评人（原文用「cultural journalist」「her daughter basically worked in movies」）。本章开篇即到达 Splau 广场，点清家族缺员（五个不是六个），是本章唯一贯穿两条线的人：一边处理自己腹部那道「四指宽、像绞肉机留下的伤口」，一边在草地上与母亲重逢并被追问三十年前营地的事。她在本章反复说「不痛」，被 Carlos 与母亲戳穿；结尾她催着去医院被母亲按住。",
+    "Carlos": "Diana 的伴侣，西班牙男性，医生（第 10 章后段叙述中与 Juan 有关于医院与报警的争执，Carlos 主张立刻叫救护车）。他是本章最先主张「叫救护车／去医院」的人，也是最常追问 Diana 伤情的人（「Does it hurt?」「Let me see」）。他把 Brisa 抱在怀里、牵着 Tomás；对 Juan 的处境保持沉默式共情。",
+    "Brisa": "Diana 与 Carlos 的女儿，四岁上下（原文 ch08 说 Brisa 的耳朵没打洞；本章她问「Does what hurt, Mommy?」），本章与哥哥 Tomás 一起在草地上和表亲们玩。",
+    "Tomás": "Diana 与 Carlos 的儿子，Brisa 的哥哥，在本章开头由 Carlos 牵着走到 Diana 身边。",
+    "Juan": "Alba 的丈夫，Carmen 的女婿。本章的主讲叙述者：讲了与 Alba 在商场走散的经过（MediaMarkt、Switch 手柄）、Carmen 的异常反应（突然平静如「被注射了吗啡」）、他替 Carmen 清理并加压包扎伤口。他抽着烟、疲惫、一直回避眼神接触，最后打电话说已经找到 Alba。",
+    "Alba": "Carmen 与 Juan 的女儿、Diana 的妹妹。本章缺席——Diana 戴眼镜数人时发现「There were five of them, not six. Alba was missing.」；Alba 与 Juan 在商场闭店广播时走散，她去 MediaMarkt 问 Switch 手柄，手机在 Juan 手里，闭店后失联。原文未写她当晚的确切去向。",
+    "Carmen": "Diana 与 Alba 的母亲，Juan 的岳母。本章的「异常平静」核心：Splau 闭店后她独自来到草地上，姿势与在家一模一样、翘腿靠购物袋玩 Candy Crush，肚子里有一道严重伤口却说不痛、拒绝上车与就医；Juan 描述她从极度恐慌突然转为镇静「like she'd been injected with morphine」。她与 Diana 的对话贯穿全章：追问 Alba、回忆营地、逼 Diana 讲三十年前的 bingo 故事，最后拒绝离开——「We’re not leaving your sister alone here.」",
+    "Juanito": "Alba 与 Juan 的儿子，本章开场描述的草地上人影之一，与 Brigitte 一起在草地上跑；Juan 让他照看更小的弟弟妹妹。",
+    "Brigitte": "Alba 与 Juan 的女儿，呼啦圈的主人（第 10 章列露台物品时提到 Brigitte's Hula-Hoop），本章在草地上和孩子们一起玩。",
+    "婴儿（Alba 的第三个孩子）": "Alba 与 Juan 的第三个孩子，尚在襁褓，全章开头在草地上滚来滚去，Juan 后来抱着他、把睡着的小弟弟放进车座椅。",
+    "Avon 女人": "营地时代的卖 Avon 产品的女人，bingo 聚会三人之一（两个邻居姐妹 + 她）。",
+    "营地姐妹二人": "邻居家的两姐妹，穿一样的衣服，房车一模一样；其中一位的丈夫在离开营地后也摔死。",
+    "偷油夫妻": "营地里的油贩子夫妻，丈夫 Manolo 从脚手架摔死；妻子每周五在自家房车办「女士 bingo」。",
+    "Manolo": "营地油贩夫妻中的丈夫，从脚手架摔下身亡（营地时代）。",
+    "Maria（Mari）": "营地时代的人物，Carmen 问「Was Mari there?」时 Diana 回答「No.」——她不在那晚的桌上。",
+    "司机": "ch08 的出租车司机在本章不再出现；本章的出租车司机因看到孩子而接下开往 El Prat 的单子，未参与后文。"
+  },
+  "numbers_and_dates": {
+    "verbatim_numbers": [
+      {
+        "text": "There were five of them, not six. Alba was missing.",
+        "range": [
+          1133,
+          1184
+        ],
+        "line": 6,
+        "note": "Diana 数人：家族在场五人而非六人，Alba 缺失（家族人数差一）"
+      },
+      {
+        "text": "It was after nine",
+        "range": [
+          71,
+          88
+        ],
+        "line": 6,
+        "note": "到达 Splau 的时间：已过九点"
+      },
+      {
+        "text": "“Splau closed half an hour ago. Don’t they close at eight thirty?”",
+        "range": [
+          6190,
+          6256
+        ],
+        "line": 120,
+        "note": "Carlos：距上次见到 Alba 只有半小时；Juan：Splau 已关半小时"
+      },
+      {
+        "text": "Don’t they close at eight thirty?",
+        "range": [
+          6222,
+          6255
+        ],
+        "line": 120,
+        "note": "Splau 关门时间"
+      },
+      {
+        "text": "We haven’t heard from her in almost an hour.",
+        "range": [
+          6295,
+          6339
+        ],
+        "line": 123,
+        "note": "Juan：闭店后已将近一小时没听到 Alba 消息"
+      },
+      {
+        "text": "Not at all. About forty-five minutes.",
+        "range": [
+          5152,
+          5189
+        ],
+        "line": 93,
+        "note": "Juan：与 Alba 分开约四十五分钟"
+      },
+      {
+        "text": "a seven-seat minivan that Alba had insisted on buying new when they had their third child",
+        "range": [
+          590,
+          679
+        ],
+        "line": 6,
+        "note": "Juan 与 Alba 的车：七座小型货车，Alba 在生第三个孩子时坚持买新的"
+      },
+      {
+        "text": "The two spoke every day, usually twice, often via video call.",
+        "range": [
+          12589,
+          12650
+        ],
+        "line": 204,
+        "note": "这个家三个人每天通常通两次话"
+      },
+      {
+        "text": "Carlos had known him for ten years",
+        "range": [
+          11869,
+          11903
+        ],
+        "line": 195,
+        "note": "Carlos 认识 Juan 的年数"
+      },
+      {
+        "text": "And Alba, who at that time was twelve years old, only came back by their spot during the day for lunch and snacks",
+        "range": [
+          34719,
+          34832
+        ],
+        "line": 633,
+        "note": "营地那晚 Alba 十二岁"
+      },
+      {
+        "text": "“Fifteen? More like thirty.”",
+        "range": [
+          20020,
+          20048
+        ],
+        "line": 330,
+        "note": "营地距今年数：Carmen 说「至少十五年」，Diana 说「三十年」"
+      },
+      {
+        "text": "It was always Friday at eight p.m.",
+        "range": [
+          31515,
+          31549
+        ],
+        "line": 627,
+        "note": "营地 bingo 固定在每周五"
+      },
+      {
+        "text": "It was always Friday at eight p.m.",
+        "range": [
+          31515,
+          31549
+        ],
+        "line": 627,
+        "note": "营地 bingo 的开始时间；也是 Diana 以为 bingo 早已开始的时间"
+      },
+      {
+        "text": "“The clinic? It closes at eight.”",
+        "range": [
+          38388,
+          38421
+        ],
+        "line": 735,
+        "note": "诊所关门时间（八点）"
+      },
+      {
+        "text": "“At four in the morning?",
+        "range": [
+          30267,
+          30291
+        ],
+        "line": 588,
+        "note": "Diana 说父亲出现的时间"
+      },
+      {
+        "text": "another woman who I remember because she sold Avon products",
+        "range": [
+          37554,
+          37613
+        ],
+        "line": 690,
+        "note": "营地那晚桌旁的三个女人：两个邻居姐妹 + 卖 Avon 产品的女人"
+      },
+      {
+        "text": "I think you have to call one-one-two first.",
+        "range": [
+          43743,
+          43786
+        ],
+        "line": 849,
+        "note": "报警电话（由 Juan 与 Diana 口中说出）"
+      }
+    ],
+    "dates": {
+      "chapter_time": "平安夜当晚（Christmas Eve）：开场是「It was after nine」，商场已关门；召回段落在同一夜里展开（bingo 固定在周五晚八点、母亲提到「December」的水与「end of December」的草地）。本章原文没有给出公历日期。",
+      "relative_times": [
+        "It was after nine（到达 Splau 的时刻）",
+        "Splau closed half an hour ago / Don't they close at eight thirty?",
+        "about forty-five minutes（Juan 与 Alba 分开的时间）",
+        "We haven't heard from her in almost an hour",
+        "ten minutes（等待再报警的提议）",
+        "The clinic? It closes at eight.",
+        "At four in the morning?（父亲夜访）",
+        "It was always Friday at eight p.m.（营地 bingo）",
+        "After her first child（叙述层回忆）",
+        "Up until Tomás was born（叙述层回忆）",
+        "That evening / their last year at Camp La Tortuga Ligera（三十年前的营地最后一夏）"
+      ],
+      "long_arc": "本章两条时间线：①平安夜当晚（Splau 前的草地 → 母亲与 Diana 的对话 → 营地回忆 → Juan 报信找到 Alba → 等待救护车）；②约三十年前的夏末营地（Alba 十二岁、最后一个夏天、bingo 之夜）。原文把两线交叠在同一场草地对话中：回忆由 Carmen 的提问触发、由 Diana 复述。"
+    }
+  },
+  "open_questions_for_md_check": [
+    "md 若称「草地上躺着的两个女人是 Carmen 与 Alba」即为编——原文 text/ch10_chapter_10.txt:60「Carmen, meanwhile, was stretched out on the grass several meters away」，Alba 全章不在场。",
+    "md 若称「讲三十年前营地旧事的是 Diana」以外的第三人／把 Carmen 写成读者——原文故事由 Diana 讲给 Carmen 听（text/ch10_chapter_10.txt:603「“All right, I’ll tell you the camper story. I’m still traumatized.”」）。",
+    "md 若称「三十年是 Carmen 的说法」即为归属反转——原文 text/ch10_chapter_10.txt:330「“Fifteen? More like thirty.”」是 Diana 说，Carmen 只说「at least fifteen years ago」（:327 附近）。",
+    "md 若称「营地在 C-32 高速旁」即为错——原文说 La Tortuga 紧邻 Castelldefels 高速（:435），C-32 是路牌所在的那条高速（:453「Are those signs for the campground still up on C-32?」），两者不是同一条。",
+    "md 若称「Alba 的手机在她自己身上」即为错——原文 :111「“Because I have it.”」手机在 Juan 手里。",
+    "md 若称「Juan 是 Alba 的兄弟／Carmen 的儿子」即为编——Juan 是 Alba 的丈夫、Carmen 的女婿（:183「looking down at his brother-in-law」）。",
+    "md 若称「Carmen 拒绝上车是因为伤口在流血不止」即为编——原文 :168 说「the wound wasn't actively bleeding」是 ch08 的伤口；ch10 里 Juan 说「she says it doesn't hurt, that she's fine」，Carmen 拒绝上车是不肯离开、不肯去医院的坚持。",
+    "md 若把 Diana 与 Carmen 的伤口都写成「四指宽、像绞肉机」即为编——「like someone attacked her with an immersion blender」出自 Juan 描述 Carmen 的腹部（:156），Diana 自己的伤口在 ch08 才被量过宽窄。",
+    "md 若称「bingo 女人是在房车里办的」即为错——原文 :636「“They weren’t inside. They were sitting out in front.”」",
+    "md 若称「看到彩光的是 Carmen」即为归属反转——原文 :792「there was light shooting up from the table…」是 Diana 的目击叙述。",
+    "md 若称「Alba 的失踪是因为她在 MediaMarkt 买了手柄」即为编——Juan 只说他「was convinced she went back to MediaMarkt to ask about the controllers」（:93、:96「She’s obsessed with those controllers!」），原文未确认 Alba 当时在 MediaMarkt。",
+    "md 若称「Juan 报了警」即为错——本章 Juan 与 Diana 主张打 one-one-two，Carmen 一再说「Don’t call yet, just in case」，本章未写报警已发生。",
+    "md 若称「Carlos 与 Diana 是分居/已婚」之类关系断言需回原文核对——本章只出现 partner / wife / mother-in-law 等称呼。",
+    "md 若称「Diana 是 Alba 的妹妹」即为错——Diana 是姐姐（text/ch05_chapter_5.txt:549「who was six years older than Alba」；text/ch17_chapter_17.txt:96「even with six years between them」）。",
+    "md 若把本章「五个人」写成「六个人」即为错——原文 :6「There were five of them, not six.」。"
+  ]
+}

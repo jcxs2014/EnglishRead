@@ -1,0 +1,673 @@
+{
+  "chapter": "ch08 — Chapter 8",
+  "source": "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch08_chapter_8.txt",
+  "source_total_chars": 11817,
+  "source_total_lines": 283,
+  "source_heading": "8",
+  "note": "本文件在阅读任何 md 之前生成；区间为原文字符偏移 [start,end)，基于 UTF-8 解码后的字符计数；lines 为 `/usr/bin/grep -n` 的行号（含该段首尾行）。引文为原文逐字抄录，含原文的弯引号。本章原文是长段对话体，几乎每个自然段只承载一句对白；行号奇偶不是可靠判据，说话人归属由「谁问／谁答／谁被称呼」交叉判定。",
+  "events": [
+    {
+      "id": "E1",
+      "who": "Diana",
+      "what": "每年平安夜都一样：原计划早点出门赶火车，但总是赶不上；最后只能在「公共交通的压力」和「带 Brisa 开车的痛苦」之间嘶吼着选一个——Brisa 像随时会爆炸的硝化甘油瓶，而且很多平安夜根本叫不到车（电话、App、出租车亭都不行）。那天本可以赶上去 Cornellà 的火车，但 Diana 临时去买圣诞礼物回来晚了，又错过了；一家人一边吼一边清楚最后还是会叫出租车。",
+      "range": [
+        6,
+        848
+      ],
+      "lines": [
+        6,
+        6
+      ],
+      "quote": "Every Christmas Eve, it was the same. They planned to leave home early enough to catch the train before it got too crowded, but they always ran out of time. In the end, they were forced to decide—shouting at the top of their lungs—between the stress of public transit on a holiday and the angst of car travel with Brisa, who was like a bottle of nitroglycerin ready to explode. All that was assuming the latter was even an option, which wasn’t the case on many a Christmas Eve, when often you couldn’t summon a car by phone, app, or taxi stand. That day they could have caught a train to Cornellà, but since Diana had gotten back late from her last-minute Christmas shopping, they’d missed their chance once again. They were hysterical now—as they were every year—shouting about the two options while fully aware they’d end up calling a taxi."
+    },
+    {
+      "id": "E2",
+      "who": "Diana",
+      "what": "Diana 在洗衣房里喊「我不相信这个！」。",
+      "range": [
+        851,
+        910
+      ],
+      "lines": [
+        9,
+        9
+      ],
+      "quote": "“I don’t believe this!” Diana yelled from the laundry room."
+    },
+    {
+      "id": "E3",
+      "who": "Carlos",
+      "what": "Carlos 低声反问「现在又怎么了？」（近乎自言自语），走过去发现 Diana 跪在夹衣篮旁边的地上。",
+      "range": [
+        913,
+        1080
+      ],
+      "lines": [
+        12,
+        12
+      ],
+      "quote": "“What now?” Carlos asked quietly, almost to himself. He walked over and found her kneeling on the ground next to the basket they used to carry the clothes to the line."
+    },
+    {
+      "id": "E4",
+      "who": "Diana",
+      "what": "Diana 说「我正准备洗一桶衣服，你看。」",
+      "range": [
+        1083,
+        1135
+      ],
+      "lines": [
+        15,
+        15
+      ],
+      "quote": "“I was going to put in a load of laundry, and look.”"
+    },
+    {
+      "id": "E5",
+      "who": "Carlos",
+      "what": "Carlos 问「我们正要出门，你这时候洗什么衣服？」；Diana 说「看！」；Carlos 问「你要我看什么？」；Diana 说「我的手，你看！」——她掌心里有一只银色圈形耳环。",
+      "range": [
+        1138,
+        1314
+      ],
+      "lines": [
+        18,
+        27
+      ],
+      "quote": "“Why are you doing laundry when we’re trying to get out the door?”\n\n\n“Look!”\n\n\n“What do you want me to look at?”\n\n\n“My hand, look!” Diana had a silver hoop earring in her palm."
+    },
+    {
+      "id": "E6",
+      "who": "Carlos",
+      "what": "Carlos 过了好一会儿才反应过来，问「这有什么？」。",
+      "range": [
+        1317,
+        1372
+      ],
+      "lines": [
+        30,
+        30
+      ],
+      "quote": "“What about it?” It took Carlos a minute to understand."
+    },
+    {
+      "id": "E7",
+      "who": "Diana",
+      "what": "Diana 说「另一只耳环。」；Carlos 确认「是前几天那只一样的？」；Diana 说「一模一样。」；Carlos 追问「而且在同一个地方？」；Diana 说「对，在洗衣盆里。」",
+      "range": [
+        1375,
+        1509
+      ],
+      "lines": [
+        33,
+        45
+      ],
+      "quote": "“Another earring.”\n\n\n“Like the one from the other day?”\n\n\n“Identical.”\n\n\n“And it was in the same place?”\n\n\n“Yeah, in the laundry tub.”"
+    },
+    {
+      "id": "E8",
+      "who": "Carlos",
+      "what": "Carlos 猜测可能是 Diana 从露台桌上顺手拿了（邻居总把东西放在下面），被 Diana 否掉；Carlos 又问是不是 Brisa 的、是不是朋友送的，Diana 说孩子们才四岁、耳朵没打孔；Carlos 再问会不会本来就是 Diana 的，Diana 发誓不是自己的。",
+      "range": [
+        1512,
+        1853
+      ],
+      "lines": [
+        48,
+        63
+      ],
+      "quote": "“Isn’t it possible you accidentally grabbed them from the table on the patio? The neighbor is always leaving stuff down there.”\n\n\n“No way.”\n\n\n“Have you asked Brisa? Maybe one of her friends gave them to her.”\n\n\n“They’re four years old and their ears aren’t pierced.”\n\n\n“Are you sure they’re not yours?”\n\n\n“I swear. These aren’t my earrings.”"
+    },
+    {
+      "id": "E9",
+      "who": "Carlos",
+      "what": "Carlos 说这不算太离谱，也许本来就是她的、只是忘了，「又不是外星人掉下来想跟我们沟通」；Diana 承认至少这很怪；Carlos 坚持「我敢肯定有某种解释」；Diana 反问「解释是什么？没有！要么是鬼，要么是有人闯进我们家」。",
+      "range": [
+        1856,
+        2225
+      ],
+      "lines": [
+        66,
+        75
+      ],
+      "quote": "“OK, but it’s not all that crazy. Maybe they’re yours and you just forgot. It’s not like an alien dropped them here to try to communicate with us.”\n\n\n“At least admit that it’s weird!”\n\n\n“Sure, it is a little weird. But I bet there’s some explanation,” Carlos said.\n\n\n“What’s the explanation, then? There isn’t one! Either it’s a ghost, or someone broke into our house.”"
+    },
+    {
+      "id": "E10",
+      "who": "Carlos",
+      "what": "Carlos 反问「谁会闯进家里只为了留一只耳环？」；Diana 随后丢下洗了一半的洗衣机，回浴室继续收拾。",
+      "range": [
+        2228,
+        2387
+      ],
+      "lines": [
+        78,
+        81
+      ],
+      "quote": "“Who would break into the house just to leave an earring here?”\n\n\nDiana left the washing machine half full and shot back to the bathroom to keep getting ready."
+    },
+    {
+      "id": "E11",
+      "who": "Diana",
+      "what": "Diana 进书房看到一堆礼物袋，打电话叫车；Carlos 抱怨「为什么不在你叫车前告诉我们？五分钟后到，我们根本没准备好」；Diana 说他们已经准备了两个小时，是越来越难出门，问「这是什么，《驱逐天使》吗？」并催大家穿外套。",
+      "range": [
+        2388,
+        2697
+      ],
+      "lines": [
+        81,
+        90
+      ],
+      "quote": "Minutes later, she went into the office and, upon seeing the mountain of gift bags, pulled out her phone and called a car.\n\n\n“They’ll be here in five minutes. Are you ready?”\n\n\n“Five minutes? Why didn’t you tell us before you requested it? We’re not ready at all,” Carlos said.\n\n\n“What more do you need to do?"
+    },
+    {
+      "id": "E12",
+      "who": "Carlos",
+      "what": "Carlos 帮孩子们穿外套（他们今晚格外紧张，毕竟圣诞老人要来）；Diana 则四处检查有没有忘带东西，反复确认暖气关着、卷发棒已冷却、炉灶和烤箱都关掉；手机一响，提示司机到了。",
+      "range": [
+        2851,
+        3246
+      ],
+      "lines": [
+        93,
+        93
+      ],
+      "quote": "Carlos helped the kids with their jackets, since they were especially nervous tonight—Santa was coming, after all. Diana, meanwhile, looked around to make sure they weren’t forgetting anything. Several times, she confirmed that the heat wasn’t on, the straightener was safely cooling, and both the stovetop and the oven were off, before her phone dinged to let them know the driver was arriving."
+    },
+    {
+      "id": "E13",
+      "who": "Diana／Carlos／Brisa／Tomás",
+      "what": "上车后一段路很平静：他们要了大型车，Carlos 坐在最后一排挨着 Tomás，Diana 坐中排抱着 Brisa；孩子们用父母的手机看视频，唯一的杂音是视频里尖细的拉美口音人声，背景里司机放着 Fito & Fitipaldis 的 CD；Brisa 看到手机响就急了，Diana 伸出一根手指按掉来电，视频继续；手机又响一次，Diana 又按掉。",
+      "range": [
+        3249,
+        3916
+      ],
+      "lines": [
+        96,
+        96
+      ],
+      "quote": "For the first part of the ride, things were surprisingly calm. They had requested a larger car, so Carlos was in the very back with Tomás next to him, and Diana was in the middle row holding Brisa. The kids were entertaining themselves with their parents’ phones. The only noise was the sound from those videos—a tangle of high-pitched voices with Latin American accents—and much quieter, in the background, the driver’s Fito & Fitipaldis CD. Brisa got upset when she saw the phone ringing. To appease her, and maintain that rare moment of peace, Diana reached out with one finger to decline; the video played on. The phone rang once more and Diana declined it again."
+    },
+    {
+      "id": "E14",
+      "who": "Carlos／Diana",
+      "what": "Carlos 从后座问「谁啊？」，Diana 说「我妈。不知道她又想干什么。」；第三个电话打进来时，Brisa 把手机甩到地上；Diana 蹲下抱着女儿费劲捡手机，没有回电，并说「你再扔，我就只能没收了，手机很贵。」",
+      "range": [
+        3919,
+        4297
+      ],
+      "lines": [
+        99,
+        108
+      ],
+      "quote": "“Who is it?” asked Carlos from the back seat.\n\n\n“My mom. Who knows what she wants now.”\n\n\nA third call came in, and Brisa flung the phone to the floor.\n\n\n“Brisa, no, we don’t throw the phone.” Diana crouched and struggled to collect it, her daughter still in her arms. She ignored the call. “If you throw it again, I’m going to have to take it away. Phones cost a lot of money.”"
+    },
+    {
+      "id": "E15",
+      "who": "Carlos",
+      "what": "再过一秒手机又响；Carmen 又打了四次，Diana 四次都静音；Carlos 让她回电话，说「她打这么多次不正常，你看，她也给我打了两次。」；Diana 说「但她很烦，她们俩都很烦，多半是件蠢事，她们可以等等，我们已经在车上了。」",
+      "range": [
+        4300,
+        4582
+      ],
+      "lines": [
+        111,
+        117
+      ],
+      "quote": "One second later, the phone rang again. Carmen called four more times, and all four times, Diana silenced the call.\n\n\n“Call her back. It’s not normal for her to call this many times,” Carlos said. “Look, she called me twice as well.”\n\n\n“But she’s annoying. They’re both so annoying."
+    },
+    {
+      "id": "E16",
+      "who": "Diana",
+      "what": "平静回来——平静得让 Diana 不自在、起鸡皮疙瘩；Carlos 靠在椅背闭眼打了个盹；醒来时听见 Diana 在喊。",
+      "range": [
+        4662,
+        4852
+      ],
+      "lines": [
+        120,
+        120
+      ],
+      "quote": "The calm returned. So much calm that it made Diana uncomfortable, and she got goose bumps. Carlos leaned back, closed his eyes, and dozed off for a few minutes. He awoke to Diana’s shouting."
+    },
+    {
+      "id": "E17",
+      "who": "Diana",
+      "what": "Diana 喊「在这儿把我们放下！」——他们离 Ronda de Dalt 只有几米，离 Alba 家大约七分钟；司机说不能在 Diagonal 中间停车，语气发酸；Diana 说「那就尽快停，停到这上面，我女儿想吐。」",
+      "range": [
+        4855,
+        5124
+      ],
+      "lines": [
+        123,
+        129
+      ],
+      "quote": "“Drop us off here!” They were just a few meters from the Ronda de Dalt, about seven minutes from Alba’s house.\n\n\n“I can’t stop in the middle of Diagonal,” the driver said, his voice sour.\n\n\n“Well, stop as soon as you can. Stop up here. My daughter is feeling nauseous.”"
+    },
+    {
+      "id": "E18",
+      "who": "Carlos",
+      "what": "Carlos 探头看那女孩，发现她好得很，转头看 Diana 一脸困惑，惊讶得说不出话；司机喊「她要吐了？太好了真是太好了」；Diana 说「要吐就吐吧，别担心，我带了袋子，不会弄脏车上任何地方，但你能停就停，她不舒服，需要透透气」，声音又高又裂。",
+      "range": [
+        5127,
+        5564
+      ],
+      "lines": [
+        132,
+        138
+      ],
+      "quote": "Carlos leaned forward and saw that the girl was perfectly fine. He looked at Diana, confused. He was so surprised he didn’t know what to say.\n\n\n“She’s going to throw up? Great, that’s great,” the driver yelled.\n\n\n“If she throws up, she throws up—don’t worry, I’ve got a bag. We won’t get a drop of it anywhere. But pull over when you can, she’s feeling sick, and she needs some air,” Diana answered. Her voice was high-pitched, cracking."
+    },
+    {
+      "id": "E19",
+      "who": "Brisa",
+      "what": "Brisa 说「我不难受。」；Diana 摸着她的脸颊说「安静，宝贝。」",
+      "range": [
+        5567,
+        5654
+      ],
+      "lines": [
+        141,
+        144
+      ],
+      "quote": "“I don’t feel sick,” Brisa said.\n\n\n“Quiet, honey.” Diana caressed her daughter’s cheek."
+    },
+    {
+      "id": "E20",
+      "who": "Carlos",
+      "what": "Carlos 低声说「她并不恶心，你为什么说她恶心？你一直这么说，她就会开始觉得恶心」；Tomás 还在看手机、毫无察觉，Brisa 在父母之间来回看着，默默想弄明白状况；司机说「我可以停到那边草地上」；Diana 说「太完美了」，目光直视前方以避开 Carlos 的眼神。",
+      "range": [
+        5657,
+        6093
+      ],
+      "lines": [
+        147,
+        156
+      ],
+      "quote": "“She’s not nauseous, why are you saying she’s nauseous? If you keep saying it, she’ll start to feel it,” Carlos said quietly.\n\n\nTomás was still absorbed in the phone—he hadn’t picked up on anything yet. But Brisa was looking between her mother and father, silently trying to decode the situation.\n\n\n“I can pull over here, in that grassy spot.”\n\n\n“That’s perfect,” Diana answered, staring straight ahead to avoid eye contact with Carlos."
+    },
+    {
+      "id": "E21",
+      "who": "Carlos",
+      "what": "Carlos 说「Diana，Brisa 没事——她不恶心。你为什么现在要下车？离你妹妹家还有一段路，你是不是不舒服？」伸手去碰她的手臂，被她粗鲁地甩开。",
+      "range": [
+        6096,
+        6314
+      ],
+      "lines": [
+        159,
+        159
+      ],
+      "quote": "“Diana, Brisa is fine—she’s not nauseous. Why do you want to get out now? We still have a ways to go before we get close to your sister’s. Are you feeling sick?” He reached for her arm, but she brusquely shook him off."
+    },
+    {
+      "id": "E22",
+      "who": "Carlos／司机",
+      "what": "车停下时 Diana 说「太感谢了，太完美了」；Carlos 说「Diana，今天是平安夜，你知道在 Diagonal 中间再找一辆出租车有多难吗？」；Diana 说「还早，我们能再叫一辆，我欠你多少？」（仍不看 Carlos）；司机说「不早了，快八点了，这附近什么都没有，我们是在荒郊野地，孩子会着凉」；Diana 说「不会着凉，就出去一下，他们穿得很厚」；司机说「至少让出租车等着我们吧」。",
+      "range": [
+        6394,
+        6917
+      ],
+      "lines": [
+        165,
+        177
+      ],
+      "quote": "“Diana, it’s Christmas Eve. Do you know how hard it’s going to be for us to find another taxi? In the middle of Diagonal?”\n\n\n“It’s still early. We’ll get another. What do I owe you?” she said to the driver, still avoiding looking at Carlos.\n\n\n“It’s not early. It’s almost eight. And there’s barely anything around here—we’re in the middle of nowhere. The kids are going to catch cold.”\n\n\n“They’re not going to catch cold. We’ll just be out for a second. They’re all bundled up.”\n\n\n“Well, let the taxi wait for us at least.”"
+    },
+    {
+      "id": "E23",
+      "who": "司机",
+      "what": "Diana 说「不行，我不能让您等，这是我今晚最后一单」——司机语气变得恶劣。",
+      "range": [
+        6920,
+        7004
+      ],
+      "lines": [
+        180,
+        180
+      ],
+      "quote": "“No, no, I can’t wait for you. This is my last ride of the night,” he rushed to say."
+    },
+    {
+      "id": "E24",
+      "who": "Carlos",
+      "what": "Diana 探身刷卡付款时，Carlos 下车，从母亲怀里接过 Brisa 轻轻放到地上，解开儿子的安全带把儿子扶出来；Tomás 环顾四周认不出地方，问是不是到了 Alba 家；Carlos 出于好意让司机打开后备箱好拿那一堆礼物袋，司机只是示意他自己动手，一分钟后一言不发地开走了。",
+      "range": [
+        7085,
+        7634
+      ],
+      "lines": [
+        186,
+        186
+      ],
+      "quote": "While Diana leaned forward to make the payment, Carlos got out of the taxi. He took Brisa from her mother’s arms and carefully set her on the ground. Then he unbuckled his son’s seat belt and helped him out of the car. Tomás looked around, surprised not to recognize his surroundings, and asked if they had arrived at Alba’s. Trying to be pleasant despite his irritation, Carlos asked the driver to open the trunk so he could take out their many gift bags. He only signaled Carlos could do it himself, and a minute later, he sped off without a word."
+    },
+    {
+      "id": "E25",
+      "who": "Carlos",
+      "what": "Carlos 生气地说「这个混蛋」，质问 Diana 怎么突然对跳火车、跳车这么着迷，说她太过分；Diana 说「我不想把车弄脏。」",
+      "range": [
+        7637,
+        7827
+      ],
+      "lines": [
+        189,
+        192
+      ],
+      "quote": "“What an asshole,” Carlos said angrily. “What happened? All of a sudden you’re obsessed with jumping out of trains and cars. Diana, this is too much.”\n\n\n“I didn’t want to get the car dirty.”"
+    },
+    {
+      "id": "E26",
+      "who": "Diana",
+      "what": "Carlos 追问「你什么意思？跟 Brisa 有关？」Diana 说「不」；Carlos 问「你？」Diana 说「对，是我」；Carlos 追问「什么弄脏？」Diana 压低声音说「血」。",
+      "range": [
+        7830,
+        7967
+      ],
+      "lines": [
+        195,
+        210
+      ],
+      "quote": "“What are you talking about? Was it Brisa?”\n\n\n“No.”\n\n\n“You?”\n\n\n“Yes, me.”\n\n\n“Dirty with what?”\n\n\n“Blood,” Diana said, lowering her voice."
+    },
+    {
+      "id": "E27",
+      "who": "Carlos／Diana",
+      "what": "Carlos 问「你生理期？」Diana 说「不，我不知道发生了什么，但我觉得我的肚子在流血」，并第一次抬眼看向 Carlos；Carlos 注意到她出奇地平静、目光里有种宁静，这是她从来不该有的状态。",
+      "range": [
+        7970,
+        8284
+      ],
+      "lines": [
+        213,
+        216
+      ],
+      "quote": "“You got your period?”\n\n\n“No. I don’t know what’s happening. But I think my stomach is bleeding.” For the first time in a while, Diana looked up at Carlos. Carlos was surprised how calm she seemed. There was a sense of serenity in her gaze. That was unheard of for her, especially considering what she’d just said."
+    },
+    {
+      "id": "E28",
+      "who": "Diana",
+      "what": "Carlos 问「你伤到自己了吗？车上有什么东西吗？安全带还是别的？」Diana 说没有，但确实在流血、不疼；她解开裤扣（裤子太紧、开始不舒服），发现肚子又热又湿，原以为是汗，其实不是；她伸手出来——手指上全是血。",
+      "range": [
+        8287,
+        8681
+      ],
+      "lines": [
+        219,
+        222
+      ],
+      "quote": "“Did you hurt yourself? Was there something in the taxi? The seat belt, or something else?” he asked.\n\n\n“No. But I’m bleeding. It doesn’t hurt, but I’m bleeding. I unbuttoned my pants because they were too tight and it was starting to get uncomfortable, and I noticed my stomach was warm and wet. I thought it was sweat, but no.” Diana reached out her hand—there was blood all over her fingers."
+    },
+    {
+      "id": "E29",
+      "who": "Carlos",
+      "what": "孩子们坐在草地上玩着礼物袋，猜每个袋子里是什么；Tomás 试着读那些匆忙潦草写在标签上的名字，频频出错；Carlos 拉着 Diana 的手臂带她走到孩子视线之外、藏在一辆停着的车后面；他把她的外套脱下来搭在车顶；帮她脱毛衣时他自己膝盖一软，靠在车上才没倒下。",
+      "range": [
+        8684,
+        9218
+      ],
+      "lines": [
+        225,
+        225
+      ],
+      "quote": "The kids had sat down in the grass and were entertaining themselves with the gift bags, trying to guess what each one held. Tomás was attempting to read the names that had been hastily scrawled on each tag and making lots of mistakes. Carlos held Diana’s arm and carefully led her out of sight of the kids, behind a parked car, so they could figure out what had happened. He slipped off her jacket and set it on the vehicle’s roof. As he helped her out of her sweater, his knees buckled. He leaned against the car to avoid collapsing."
+    },
+    {
+      "id": "E30",
+      "who": "Diana",
+      "what": "Diana 刚把毛衣撩过腰，低头看自己，平静地检查了几秒腹部，然后抬头看向被击垮的 Carlos。",
+      "range": [
+        9236,
+        9433
+      ],
+      "lines": [
+        231,
+        231
+      ],
+      "quote": "Diana had just lifted the sweater above her waist, and she looked down at herself. For a few seconds, she examined her abdomen, completely serene, then she looked back up at Carlos, who was undone."
+    },
+    {
+      "id": "E31",
+      "who": "Carlos",
+      "what": "Carlos 一手捂着嘴问「Diana，你是怎么把自己弄成这样的？」（how’d you do that to yourself）并说「我们必须去医院」；Diana 说「今天是平安夜」；Carlos 说「我不管是不是平安夜」并看向马路扫视出租车，准备冲出去拦第一辆；Diana 拦住他。",
+      "range": [
+        9436,
+        9747
+      ],
+      "lines": [
+        234,
+        240
+      ],
+      "quote": "“How’d you do that to yourself, Diana?” he asked, covering his mouth with one hand. “We have to go to the hospital.”\n\n\n“It’s Christmas Eve.”\n\n\n“I don’t care if it’s Christmas Eve!” Carlos looked over at the road, scanning it for taxis, ready to run out and catch the first one that passed by. Diana stopped him."
+    },
+    {
+      "id": "E32",
+      "who": "Diana",
+      "what": "Diana 说「等等，我不痛」；Carlos 惊恐脸色发白，「这怎么可能？你看看你自己」，全靠孩子的声音和动静才没晕过去；Diana 说「我不知道——但我不痛，而且别那么大声说话，你会吓到他们」。",
+      "range": [
+        9750,
+        10029
+      ],
+      "lines": [
+        243,
+        249
+      ],
+      "quote": "“Wait. I’m not in pain.”\n\n\n“How is that possible? Look at yourself.” Carlos was horrified, pale. All that kept him from fainting was the sound of their kids’ voices and movements in the background.\n\n\n“I don’t know—but I’m not. And don’t talk so loud, you’re going to scare them.”"
+    },
+    {
+      "id": "E33",
+      "who": "Diana",
+      "what": "Diana 脱下毛衣看向孩子们：孩子们没问就拆开了一个没有名字的礼物盒——那是一台搅拌机，但他们还不知道；Tomás 目不转睛盯着盒子；Brisa 却一直怀疑地瞟父母；Diana 读得懂每个孩子的情绪，冲她眨了眨眼让她安心，说「我们快好了，Brisa！爸爸在跟我讲不适合小孩听的话！」",
+      "range": [
+        10032,
+        10486
+      ],
+      "lines": [
+        252,
+        255
+      ],
+      "quote": "Diana took off her sweater and looked over at the kids, who had opened a gift with no name on it without asking. It was a blender, but they didn’t understand that yet. Tomás wasn’t taking his eyes off the box. Brisa, on the other hand, kept glancing suspiciously at her parents. Diana, who could easily read every one of her children’s emotions, winked to put her at ease.\n\n\n“We’re almost ready, Brisa! Daddy is telling me something that’s not for kids!”"
+    },
+    {
+      "id": "E34",
+      "who": "Carlos",
+      "what": "Carlos 追问「之前发生过什么吗？最近几天你看到什么没有？割伤、皮疹……这种事不会平白发生」；Diana 发誓「什么都没有，绝对什么都没有」；Carlos 问「是你自己弄的吗？」Diana 反问「什么叫自己弄的？我什么都没做，我为什么要做那种事？」Carlos 说「只是事情太多了」；Diana 说「我收拾的时候什么都没有，但我知道看起来很糟，可它不痛」。",
+      "range": [
+        10489,
+        10954
+      ],
+      "lines": [
+        258,
+        273
+      ],
+      "quote": "“Did something happen before? The last few days—did you see anything? A cut, a rash…This kind of thing doesn’t just happen,” Carlos insisted.\n\n\n“I swear, there’s been nothing. Absolutely nothing.”\n\n\n“Did you do it to yourself?”\n\n\n“What do you mean did I do it to myself? I didn’t do anything. Why would I do something like that?”\n\n\n“It’s just a lot, that’s all.”\n\n\n“When I was getting ready, there was nothing. But really, I know it looks bad, but it doesn’t hurt.”"
+    },
+    {
+      "id": "E35",
+      "who": "Diana",
+      "what": "Carlos 说「这不可能！你看到的和我看到的是同一个东西吗？」并开始抽泣、用手捂住脸；Diana 把他捂脸的手拉下来，说「冷静点，说真的，它不痛，我不是骗你。来——用外套盖住我一会儿，你就不用看了，你要是晕过去，我们就真完蛋了。」",
+      "range": [
+        10957,
+        11280
+      ],
+      "lines": [
+        276,
+        279
+      ],
+      "quote": "“That’s impossible! Are you seeing the same thing I’m seeing?” Carlos started to sob and covered his face with his hands.\n\n\n“Calm down. Seriously. It doesn’t hurt.” She pulled his hands back down. “I’m not lying. Here—cover me up with the coat for a minute, so you don’t have to look. If you faint, we’ll really be fucked.”"
+    },
+    {
+      "id": "E36",
+      "who": "Diana",
+      "what": "Diana 不顾寒冷脱掉毛衣、掀起里面的保暖 T 恤；Carlos 闭眼控制呼吸；Diana 用指尖抚过伤口，发现那是一道敞开的伤口，大约四指宽，像一条用纸浆和血做成的带子绕着她的腰；裤子上面和衬衫下面都染红了，但伤口并没有在主动出血——它在渗血，却同时又在流。「就 Diana 腹部下方的那道裂口似乎在自我吞噬。」",
+      "range": [
+        11283,
+        11816
+      ],
+      "lines": [
+        282,
+        282
+      ],
+      "quote": "Diana took off her sweater, despite the cold, and lifted the thermal T-shirt underneath. Carlos closed his eyes and tried to control his breathing. Running her fingertips over the injury, Diana realized that it was an open wound, about four fingers wide and wrapping around her waist like a belt made of pulp and blood. The top of her pants and the bottom of her shirt were stained, but the wound wasn’t actively bleeding. It was oozing, yet still at the same time. The gash just below Diana’s abdomen seemed to be feeding on itself."
+    }
+  ],
+  "characters": {
+    "Diana": "Diana（母亲）：本章的行动发起者。发现第二只银耳环、叫车、在车上按掉母亲的来电、喊司机在 Ronda de Dalt 附近停车、下车后承认「血」是自己的、把伤口展示给 Carlos、坚持不疼且不去医院、最后讲述伤口的具体形态。她的显著特征是面对自己的重伤异常平静（「a sense of serenity in her gaze」），并在车边对 Carlos 说自己不想把车弄脏。",
+    "Carlos": "Carlos（Diana 的伴侣）：大部分时间的质疑者与观察者。追问耳环来源、抱怨没被通知叫车、指出 Brisa 看起来完全没问题、要求回电、劝去医院、看到血后膝盖发软、抽泣；他也替 Diana 脱外套、挡在孩子视线外、打开后备箱拿礼物袋。",
+    "Brisa": "Brisa（Diana 的女儿）：因铃声哭闹、第三次来电时把手机甩到地上；被母亲抱在怀里；对「恶心」的假话直接说「我不难受」；在父母之间来回看、默默想弄明白状况；后段一直怀疑地瞟父母，被 Diana 眨眼安抚。",
+    "Tomás": "Tomás（Diana 与 Carlos 的儿子）：坐在车最后一排挨着 Carlos、在车上始终看手机没察觉异常；下车后问是不是到了 Alba 家；拆礼物时试着读标签上的名字并频频读错；盯着没写名字的礼物盒（搅拌机）不放。",
+    "Carmen": "Carmen（Diana 的母亲）：本章只通过电话出现——共打来多次（一次被 Brisa 打断后，Diana 静音掉她随后打的四次），Carlos 说她也给 Carlos 打过两次；Diana 说「我妈。不知道她又想干什么」，并说她「很烦」。本章她没有出场。",
+    "司机": "出租车司机：只在电话与对话中出现。抱怨不能在 Diagonal 中间停车、对 Diana 的「我女儿想吐」报以讽刺、说快八点、附近什么都没有、孩子会着凉；拒绝等待，声明「这是我今晚最后一单」，最后只用手势示意 Carlos 自己去开后备箱，一分钟后一言不发地开走，全程被 Diana 称为「混蛋」。",
+    "Brisa 的朋友们": "以 Carlos 的猜测形式出现：Carlos 问「是不是 Brisa 的朋友送给她的」，Diana 以「孩子们才四岁、耳朵没打孔」驳回。本章没有出现实际的赠与者。"
+  },
+  "numbers_and_dates": {
+    "verbatim_numbers": [
+      {
+        "text": "two options",
+        "range": [
+          789,
+          800
+        ],
+        "line": 6,
+        "note": "要吵的两个选项（公共交通 vs 自驾）"
+      },
+      {
+        "text": "a load of laundry",
+        "range": [
+          1106,
+          1123
+        ],
+        "line": 15,
+        "note": "一桶要洗的衣物（a load）"
+      },
+      {
+        "text": "Another earring",
+        "range": [
+          1376,
+          1391
+        ],
+        "line": 33,
+        "note": "另一只耳环；与前几天那只「Identical」（一模一样）"
+      },
+      {
+        "text": "four years old",
+        "range": [
+          1732,
+          1746
+        ],
+        "line": 57,
+        "note": "孩子的年龄：四岁；据此 Diana 说她们耳朵没打孔"
+      },
+      {
+        "text": "five minutes",
+        "range": [
+          2533,
+          2545
+        ],
+        "line": 84,
+        "note": "司机到达的等待时间（“They’ll be here in five minutes.”／“Five minutes?”）"
+      },
+      {
+        "text": "two hours",
+        "range": [
+          2727,
+          2736
+        ],
+        "line": 90,
+        "note": "全家人准备出门已经花的时间"
+      },
+      {
+        "text": "A third call came in",
+        "range": [
+          4009,
+          4029
+        ],
+        "line": 105,
+        "note": "第三个打进来的电话；Brisa 把它甩到地上"
+      },
+      {
+        "text": "called four more times",
+        "range": [
+          4347,
+          4369
+        ],
+        "line": 111,
+        "note": "Carmen 在 Brisa 摔手机之后又打了四次，Diana 四次都静音"
+      },
+      {
+        "text": "she called me twice as well",
+        "range": [
+          4504,
+          4531
+        ],
+        "line": 114,
+        "note": "Carlos 说 Carmen 也给他打了两次"
+      },
+      {
+        "text": "about seven minutes",
+        "range": [
+          4927,
+          4946
+        ],
+        "line": 123,
+        "note": "从下车点到 Alba 家的距离（以车程计）"
+      },
+      {
+        "text": "It’s almost eight",
+        "range": [
+          6654,
+          6671
+        ],
+        "line": 171,
+        "note": "司机说的当前时间：快八点了"
+      },
+      {
+        "text": "about four fingers wide",
+        "range": [
+          11513,
+          11536
+        ],
+        "line": 282,
+        "note": "伤口宽度：约四指"
+      },
+      {
+        "text": "It took Carlos a minute to understand",
+        "range": [
+          1334,
+          1371
+        ],
+        "line": 30,
+        "note": "Carlos 理解 Diana 手心里的耳环花了一分钟"
+      }
+    ],
+    "dates": {
+      "chapter_time": "平安夜（Christmas Eve）。文中出现「Every Christmas Eve, it was the same」「Santa was coming, after all」「it’s Christmas Eve」「I don’t care if it’s Christmas Eve!」四处；章号行 `8` 是提取件行首编号，不是叙述内容。",
+      "relative_times": [
+        "getting ready for two hours（已准备两小时）",
+        "five minutes（司机五分钟到）",
+        "a third call / four more times（来电次数）",
+        "about seven minutes from Alba’s house（到 Alba 家车程约七分钟）",
+        "almost eight（快八点）",
+        "a minute later, he sped off（司机一分钟后开走）"
+      ],
+      "long_arc": "本章是平安夜傍晚出门去 Alba 家的路上：出门前在洗衣房发现第二只银耳环 → 叫车 → 车上反复拒接 Carmen 的来电 → 提前在 Ronda de Dalt 附近下车 → 草地上发现自己的腹部有一道环绕腰部的伤口。本章不出现 Alba 本人，只提到「Alba’s house」（Alba 家）与「your sister」（你妹妹）。"
+    }
+  },
+  "open_questions_for_md_check": [
+    "md 若把「第二只耳环」写成 Diana 自己摘下/遗失的那只、写成「她又摘了一只」 → 编（原文是它在洗衣盆里被发现的另一只，Carlos 猜测是 Diana 从露台桌上误拿）。",
+    "md 若把司机写成「在 Diagonal 中间强行停车/拦下车辆」→ 错（原文：I can’t stop in the middle of Diagonal，司机拒绝；是 Diana 反复要求才在 grassy spot 停下）。",
+    "md 若把「我女儿想吐」写成 Brisa 真的在吐/生病 → 错（原文：I don’t feel sick，Carlos 也看到那女孩 perfectly fine）。",
+    "md 若把下车的真实原因写成「Brisa 身体不适」→ 错（原文是 Diana 主动喊下车，真实动机是她自己腹部在流血、想下车且不想把车弄脏）。",
+    "md 若把流血写成「Carlos 受伤」或「孩子在流血」→ 错（原文：blood 是 Diana 自己的，她手指上全是血）。",
+    "md 若把「弄脏车」的宾语写成 Diana 自己/孩子 → 错（原文：I didn’t want to get the car dirty —— 指出租车座椅）。",
+    "md 若把伤口写成「刀伤/割伤/缝合/贯穿」并给出来源 → 编（原文只写 open wound，约四指宽、绕腰如纸浆与血做的带子，渗血而非主动出血，没有交代成因）。",
+    "md 若写 Carlos 「用手扶住伤口止血」或「把 Diana 送去医院」→ 编（原文：Carlos 只脱外套、让她脱毛衣；本章没有送医，全章结束于两人在车后，Carlos 掏手机准备叫 112 一事不属本章）。",
+    "md 若把「我妹夫」／「Alba」写成在场者或孩子的母亲 → 编（本章 Alba 不在场；原文只提 Alba’s house 与 your sister）。",
+    "md 若把 Carmen 写成在场或与 Diana 面对面通话 → 错（本章她只打电话，从未露面）。",
+    "md 若把「Fito & Fitipaldis」写成车里的音乐由家人播放 → 错（原文：the driver’s Fito & Fitipaldis CD，是司机的 CD）。",
+    "md 若把 Diana 按掉来电写成「接了电话」→ 错（原文：Diana declined it / silenced the call，全程未接）。",
+    "md 若写 Carlos 打电话回拨了 Carmen → 编（原文 Carlos 只让 Diana 回叫，Carlos 自己没有回拨）。",
+    "md 若把「四指宽」写成「手掌宽」或给出厘米数 → 错（原文：about four fingers wide）。",
+    "md 若把 Carlos 的反应写成「冷静专业地处理」 → 错（原文：his knees buckled、started to sob、horrified, pale）。"
+  ]
+}

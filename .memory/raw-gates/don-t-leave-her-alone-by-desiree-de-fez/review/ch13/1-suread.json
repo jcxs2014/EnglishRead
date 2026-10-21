@@ -1,0 +1,260 @@
+{
+  "chapter": "13",
+  "book": "Don't Leave Her Alone (Desirée de Fez)",
+  "source": "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch13_chapter_13.txt",
+  "source_total_chars": 23547,
+  "source_word_count": 4154,
+  "source_heading": "13",
+  "pov": "Alba（第一人称回顾式第三人称叙述；本章始终为 Alba 视角）",
+  "note": "本文件在阅读 ch13 的 md 之前生成（R1 铁律）。区间为 UTF-8 解码后的原文字符偏移 [start,end)，段落与 /tmp/dump_suread.py 输出一致。引文逐字抄录，数字逐字抄。",
+  "events": [
+    {
+      "id": "E1",
+      "who": "Alba",
+      "what": "走到二楼栏杆边探身往下看：一楼「down below where she remembered seeing the girl for the last time」有一只「a dirty, worn-out white sneaker」和装着 Switch 手柄的盒子「the box with the Switch controllers inside」。Alba 退开，把脚上的鞋拽掉（自己的帆布鞋 now stained brown with blood），动作是「She did it without using her hands; instead, she stepped on each heel with the toes of her other foot, the way her kids took their shoes off when they got home, knowing full well how much it bothered her.」",
+      "range": [7, 599],
+      "line": 6
+    },
+    {
+      "id": "E2",
+      "who": "Alba（视角）",
+      "what": "再次俯视：一楼地面是水泥地，两排店铺卷帘门拉下，尽头有巨大的圣诞树；Alba 很喜欢那棵树（比 Finestrelles 和 L’Illa Diagonal 的都漂亮）；没有屋顶，街上灯光透进来；空无一人、寂静、怪异的 Splau 像「totally foreign」，有「dreamlike, even ghostly, quality」。",
+      "range": [602, 1579],
+      "line": 9
+    },
+    {
+      "id": "E3",
+      "who": "Alba（身体状态）",
+      "what": "胸口和腹部裸露；T 恤和毛衣只剩一点遮住肩背；腹部「torn apart; just a dark, numb jumble」。她准备下扶梯取手柄时，听见身后有孩子笑声；笑声有金属质感（像旧录音机），但伴着的窸窣与脚步声是真实的。她僵住不敢转身。痛苦若回来会暴露自己（抽搐声太大、痛到会哭叫）。",
+      "range": [1582, 4080],
+      "line": 12
+    },
+    {
+      "id": "E4",
+      "who": "Alba（目击）",
+      "what": "「She saw a woman, her back to her, emerge from under the bridge.」女人扎马尾、发量厚而蓬乱、走路笔直缓慢；穿一件看起来像 Primark 的抓绒睡袍（Alba 自己有好几件，这是她们的冬季制服，因为比开暖气便宜）；睡袍又旧又脏，底下颜色都辨不出。睡袍下拖出很长的拖尾（train），「swept up the shoe and the Switch controllers」；拖尾是亮白色，被卷帘门反光照到会闪，「It looked like an evening gown.」",
+      "range": [1582, 4080],
+      "line": 12
+    },
+    {
+      "id": "E5",
+      "who": "Alba（目击）",
+      "what": "拖尾看着「seemed endless」，她看见布料被抬起，露出「the hands that were holding it. Four tiny hands, children’s hands—two on each side. Stained with blood.」金属笑声继续；Alba 觉得内脏像被从背上吸走；疼痛加剧，她跪倒、蜷成球，祈祷对方没听见、以后也听不见；她「slithered to the railing, leaving a trail of blood behind.」",
+      "range": [4083, 4919],
+      "line": 15
+    },
+    {
+      "id": "E6",
+      "who": "Alba（目击）",
+      "what": "女人走向扶梯——「They were the same escalators Alba and the girl had taken up to the second floor.」身后跟着「a single-file line of small children」，裸体、沾血与白色黏液，抓着拖尾变成的绳索（a dirty, fraying garland）；孩子们身形不正常、极敏捷、看起来比实际年龄大、「born knowing how to walk」。女人停下、解开头发用手指梳好再扎回马尾、蹲下；然后她开始尖叫，孩子们一起尖叫；女人的成人尖叫与孩子的金属尖叫混在一起；「They didn’t stop for five minutes—five solid minutes」；随后突然停下，寂静同样难熬。",
+      "range": [4922, 7860],
+      "line": 18
+    },
+    {
+      "id": "E7",
+      "who": "Alba（目击）",
+      "what": "女人从裙子下「emerged a creature like the others, bloodied and covered in viscous white」，它径直走到队尾。Alba 看清这一只：像「those thirteen- or fourteen-pound babies who end up in the Guinness World Records books, except it was walking like an adult」；走路姿势像成年人、平衡完美、双臂前后摆；皮下呈蓝色；没有抬头看 Alba；脸像老年人的婴儿脸、一撮浓黑头发（别的孩子有些秃）、眼睛肿成 boxer 那样两条几乎分不开的直线；眼睛周围皮肤「dark, scaly … like a sleep mask had melted into its face」；它抓好绳索站到队尾，「Just one more.」",
+      "range": [4922, 7860],
+      "line": 18
+    },
+    {
+      "id": "E8",
+      "who": "Alba（身体）",
+      "what": "痉挛又回来，她后退蜷成球；女人和孩子们开始唱歌（只是哼旋律，是她孩子们学校音乐会唱过的圣诞颂歌）；孩子的尖利声音盖过女人的声音；歌声「muffled the sounds of her body as the tentacles strangled her from within.」随后疼痛停止、歌声停止，「Alba felt someone pinch her thigh.」",
+      "range": [7863, 8434],
+      "line": 21
+    },
+    {
+      "id": "E9",
+      "who": "Alba（目击 + 跟随）",
+      "what": "坐起后看到队伍已到扶梯另一侧，经过 Fnac、MediaMarkt、La Casa de las Carcasas；Alba 光脚、虚弱地在夹层跟随；女人在 Drim 玩具店前蹲下，仪式重演（another creature 出生、otherworldly howling）；Alba 爬过去看，「she watched from her exclusive box seat」；新生婴儿「with the poise of a very confident adult」走过其他孩子，「about fifteen of them」，到队尾抓住绳索。",
+      "range": [8437, 9420],
+      "line": 27
+    },
+    {
+      "id": "E10",
+      "who": "Alba",
+      "what": "「Alba was almost directly above the woman when she screamed. Without meaning to, Alba screamed, too.」",
+      "range": [9423, 9522],
+      "line": 30
+    },
+    {
+      "id": "E11",
+      "who": "Alba（身体 + 孩子的注视）",
+      "what": "腹部剧痛到无法动弹；「The tiny heads turned toward her sharply.」她感到「the children’s eyes on her like needles」；孩子们不再有新生儿的睡脸，「Their eyes were wide open and staring straight at her, focusing; they could see perfectly well.」眼睛周围皮肤像烧灼过；「Alba’s face filled with tiny red points, as if hundreds of pins were sticking into her.」血滴溅在她的脸颊、眼睑、鼻子上。",
+      "range": [9525, 10127],
+      "line": 33
+    },
+    {
+      "id": "E12",
+      "who": "Alba",
+      "what": "她移开视线；看到女人的脸——「beautiful and broken」——「she recognized herself in it」；然后倒下。",
+      "range": [10130, 10262],
+      "line": 36
+    },
+    {
+      "id": "E13",
+      "who": "孩子们（ Alba 昏厥时）",
+      "what": "Alba 倒地抽搐的声音与「the stampede that had been unleashed」混在一起；「as the tentacles wrung her out, the children let go of the woman’s dress and ran to the escalators」；他们动作自信敏捷，推挤彼此，都想尽快到 Alba 身边；一个孩子摔倒，膝盖开始流血，发出刺耳的哭声，皮肤与身体娇嫩——「the body of a baby」。",
+      "range": [10265, 10786],
+      "line": 39
+    },
+    {
+      "id": "E14",
+      "who": "婴儿们（对 Alba）",
+      "what": "Alba 醒来仰躺，婴儿们像毯子一样覆盖她，蜷成各种孩童姿势（多为胎儿式）寻找她的体温；「clinging to her as if they were hers, or as if she were theirs」；一个正含着她的乳房吃奶。",
+      "range": [10789, 11202],
+      "line": 42
+    },
+    {
+      "id": "E15",
+      "who": "女人（画外）",
+      "what": "「‘You’re with Mom now,’ she heard someone say.」",
+      "range": [11205, 11250],
+      "line": 45
+    },
+    {
+      "id": "E16",
+      "who": "女人 vs Alba（对话主体）",
+      "what": "女人与 Alba 长得一样（同一张脸）：同样的椭圆脸（Alba 说 Diana 羡慕这张脸、说「It disappears at forty-one」）、同样略歪的鼻子、同样中分加两缕碎发和低马尾（但沾着自己的血）；唯一差别在眼睛（Alba 当时看不清）。女人穿的是 Alba 的婚纱（Rosa Clará 的白色绉纱、心形领口、亮片像美人鱼鳞片），外面套 Primark 睡袍；拖尾原来是被她缠在手臂上的「like a sinister bandage」。Alba 想起当年只和 Diana 与母亲去挑婚纱、没请婆婆。",
+      "range": [11253, 13230],
+      "line": 48
+    },
+    {
+      "id": "E17",
+      "who": "Alba / 女人（对话）",
+      "what": "Alba：「Can you get them off me?」 女人：「Why? They’re yours.」 Alba：「No, they’re not.」 女人：「They are.」（开始绕着 Alba 走成一圈，眼睛不离开她）。Alba：「Take them off me, please.」 女人：「Why? Isn’t this what you wanted?」 Alba：「What are you talking about?」 女人：「Having kids, taking care of them.」 Alba：「I have kids already. Three.」 女人：「Well, now you have more.」 Alba：「I don’t want more.」 女人：「Yes, you do.」 Alba：「No, I don’t.」 女人：「You have to want more because three isn’t enough, and soon yours will be grown up, and you’ll have nothing left to do.」 Alba：「My youngest is just a baby.」 女人：「It’ll go fast.」 Alba：「Not that fast.」 女人：「Yes, it’ll go fast. And then what will you do? How will you spend your time? You don’t know how to do anything.」",
+      "range": [12121, 14794],
+      "line": 51
+    },
+    {
+      "id": "E18",
+      "who": "女人（动作）",
+      "what": "女人蹲下、拨开 Alba 脸上的头发、抚她的脸颊、把正在吃奶的婴儿从她胸前抱起；婴儿自己转头去找 Alba 身体的另一处；女人又挑了一个生物，把它按到 Alba 裸露的乳房上，它立刻含住吃奶。",
+      "range": [13797, 14138],
+      "line": 108
+    },
+    {
+      "id": "E19",
+      "who": "女人 / Alba（对话：家族传承）",
+      "what": "女人：「Grandma had eleven children, one right after the other. And she was so happy.」 Alba：「She was happy?」 女人：「Oh, yes.」 Alba：「How do you know?」 女人：「I know.」 Alba：「She couldn’t have told you that herself. You were too young when she died.」 女人：「She didn’t tell me, but I know.」 Alba：「She gave birth eleven times and she was happy? I don’t understand how the body can even do that.」 女人：「Well, she was happy.」 Alba：「But I’m not Grandma.」 女人：「You think you’re better?」 Alba：「No, but I’m not her.」 女人：「But you are like her. And like your mom.」 Alba：「No.」 女人：「Oh, not anymore?」（“Grandma” 指 Alba 的外祖母：她生了十一个孩子；女人自称那时太小、没能听她亲口说，所以「I know」另有来源）",
+      "range": [14141, 14679],
+      "line": 111
+    },
+    {
+      "id": "E20",
+      "who": "Alba（内心）",
+      "what": "Alba 突然想通了：她一直有「the twisted drive to give herself entirely to others」，这股冲动笼罩全家，包括以为逃掉了的 Diana（「only traded it for guilt」）；她受够了，首要原因是女人的眼睛（round and infinite, so raw she couldn’t close them），其次是这些孩子的重量与胶状体温；她想逃离那种牺牲、想逃离「to devote herself so wholly to everyone else that she disappeared」；「that was why she was never alone」——她需要有人提醒她自己还没蒸发，最需要的是 Carmen；躺在平安夜的 Splau 地上，她想收回属于她的东西：时间、身体、隐私、眼睛、在商店镜子里看自己的欲望；「For the first time, that desire didn’t seem to run counter to everything else.」但她怀疑还剩什么可收回，也怀疑自己还有没有力气离开商场。",
+      "range": [14682, 16198],
+      "line": 156
+    },
+    {
+      "id": "E21",
+      "who": "Alba（身体）",
+      "what": "「whatever was squeezing her insides was strong」——「The animal that had been dormant and lurking for so long—maybe years—had strength to spare.」身体猛地后弓。",
+      "range": [16201, 16396],
+      "line": 159
+    },
+    {
+      "id": "E22",
+      "who": "Alba（触手）",
+      "what": "她像小时候那样折成完美的桥，触手从腹部射出，溅出血与闪光；震动把婴儿们甩到身体两侧；婴儿们哭声汇成「a sharp metallic cry」；她无法控制触手，感觉自己悬浮起来；在 eldest son 的 oasis（游戏店）橱窗里她看见「a woman strung to the Christmas lights by her intestines」；持续几秒后她再次昏厥、全黑。",
+      "range": [16399, 17131],
+      "line": 162
+    },
+    {
+      "id": "E23",
+      "who": "Alba（醒来所见）",
+      "what": "醒来时女人在几米外站着；她已把裙子降到腰部、正给一个孩子哺乳；腹部有一道疤；睡袍仍破旧；腰以下是「a skirt of sticky, blue-tinted children」；Alba 觉得那景象美、甚至Inspire 温柔；她想到婆婆钱包里的圣像卡；从女人的伤、脸、身材与姿态（既尊严又疲惫）里认出自己常有的感受：被困在自己皮肤里的强烈不适；「For years everything had hurt without anything specific causing the pain. By ten in the morning, she was worn out. It happened every day.」",
+      "range": [17134, 18200],
+      "line": 165
+    },
+    {
+      "id": "E24",
+      "who": "女人 / Alba（对话）",
+      "what": "女人：「I see you’re serious. You want to escape,」（她的尊严消失、看起来完全精疲力尽）Alba：「I’m not trying to escape. I just want to get out of here. And keep going.」 女人：「You want another life? You don’t like yours?」 Alba：「I don’t want another life. I want mine. I want to go home.」",
+      "range": [18203, 18538],
+      "line": 168
+    },
+    {
+      "id": "E25",
+      "who": "Alba + 女人（起身）",
+      "what": "Alba 起身，途中摔了两次才站稳；「This time the tentacles hadn’t gone back inside her body. They were still twinkling, dangling on the floor.」 女人把哺乳的婴儿放在裙子上、拉起裙子的胸衣、也站起来；有些孩子滚落到地上，多数仍抓着那层「manufactured mermaid skin」，小手沾满血；它们哭叫，因为亮片割进指甲下的肉。女人的裙子压着她；她最终走近 Alba，Alba 也走向她，两人都步履沉重（Alba 被触手、疼痛与悲伤、以及「the suspicion that she would never leave Splau」压着）。",
+      "range": [18541, 19378],
+      "line": 180
+    },
+    {
+      "id": "E26",
+      "who": "Alba（内心独白，四个问句）",
+      "what": "「What would Christmas be like without her?」「Who would start buying the gifts in September?」「Who would keep an eye out for 30 percent off at Carrefour?」「Who wouldn’t give in until she found the last of the toys in stock, or the most popular video game of the season?」「Who would argue with the MediaMarkt employees with even a fraction of her persistence?」（此处 “her” 指 Alba 自己——没有她，圣诞节会怎样。）",
+      "range": [19381, 19737],
+      "line": 183
+    },
+    {
+      "id": "E27",
+      "who": "Alba（抱住女人）",
+      "what": "两人相对而立时，孩子们爬到两人腿间；游戏店橱窗映出新的影像：两个一模一样、破法各异的女人，被巨大的婴儿托举着，叠印在当季最热的电子游戏封面上；Alba 看着女人的眼睛抱住了她，女人也回抱；婴儿们闹腾、发脾气，触手推挤它们，它们与裙子缠斗；「At one point the silvery, shining appendages also joined in the embrace.」 触手「squeezed and squeezed and squeezed the woman’s waist, until the woman split in half.」「There was a snap, all the lights went out, and she vanished completely from Alba’s arms.」孩子和它们的哭声也一起消失。",
+      "range": [19740, 20742],
+      "line": 198
+    },
+    {
+      "id": "E28",
+      "who": "Alba",
+      "what": "「Alba felt infinite grief.」 她短暂瘫痪、闭眼、几乎无法呼吸；「She lifted her arms and clapped at the sky, as she did with her kids when the public restrooms went dark, and the Christmas lights came back on.」 她看天花板的假星星与 LED 花环，再次觉得是世上最美之物；她想带孩子们坐地铁去市中心看灯；环顾四周时发现自己独自一人；Splau 仍像外星星球；她 wondered if anything would be left of her by the time cleaning staff arrived；低头看到自己赤裸沾血的脚、看到「one Victoria sneaker and the box with the Switch controllers」。",
+      "range": [20745, 21758],
+      "line": 201
+    },
+    {
+      "id": "E29",
+      "who": "Alba",
+      "what": "她弯腰捡手柄；想用裤子擦盒子但「there wasn’t an inch of unstained fabric—they were soaked through and stiff with blood」；站起时触手「coiled back inside of her, this time gently」，只是轻抚内脏的痒；她走扶梯下到一楼，脚踩在「cold, grooved metal」上很难受；她看见血迹小径「where the woman and the children had once walked」，被「tiny footprints」模糊；她跟着血迹穿过 Splau；她推断商场亮灯规律：圣诞灯亮着，她常去的店也亮着，她从不去或很少去的店都黑着关门；经过 Claire’s 时她偏离路径走进去；「She looked at the display stands, the many objects stained with blood, and found the ballet flats.」 各种颜色与闪粉；她挑了最素净的一双（「even they were encrusted with silver studs」）、找到自己的尺码、坐在地上穿上、盯着店门口出神。",
+      "range": [21761, 23295],
+      "line": 204
+    },
+    {
+      "id": "E30",
+      "who": "Alba（结尾）",
+      "what": "「She heard a scream that seemed suspended in time.」她离开 Claire's、看向两边，尖叫声来自她的右边，她朝那边走；尖叫声停了，但她看见剪影：「Who were they? What was stirring there?」（本章止于此。）",
+      "range": [23298, 23547],
+      "line": 207
+    }
+  ],
+  "characters": {
+    "Alba": "视角人物，37 岁（ch02:129 说「the thirty-seven-year-old」），三个孩子的母亲；本章在 Splau 二楼圣诞夜，腹部有触手，遍地血，被婴儿覆盖。",
+    "女人 / the woman": "与 Alba 长同一张脸（Alba 的“另一个自己”），穿 Alba 的婚纱 + Primark 抓绒睡袍，牵着一队裸体婴儿，肚子上有疤；最后被触手挤成两半、消失。",
+    "the girl": "ch11/ch12 的红泳衣女孩（Victoria 白球鞋、银圈耳环）；ch12:261 她被触手拖进 Alba 体内（“Alba, who unknowingly devoured the girl as she sleeps”）。本章只余下一只白球鞋与手柄盒子（ch13:6 一楼、ch13:201 楼下地上）。",
+    "Carmen": "Alba 的母亲（ch13:156 “most of all, Carmen”）；本章未被现场出场，是 Alba 内心最需要的人。",
+    "Diana": "Alba 的姐姐；本章仅被想起（羡慕椭圆脸、婚礼挑婚纱时的陪伴）。",
+    "Grandma": "Alba 的外祖母（女人口中的 “Grandma”），生过十一个孩子且「was so happy」；死时女人（=Alba）太小。",
+    "婆婆 / mother-in-law": "Alba 婆婆（钱包里有圣像卡；当年未被邀请试婚纱）。",
+    "婴儿 / creatures / children": "女人身后的单列裸体孩子（金属尖叫、走成人的巨型婴儿）；ch13 中既有「about fifteen」的一列，也有被毯子般覆盖 Alba 的一群。"
+  },
+  "numbers_and_dates": {
+    "verbatim_numbers": [
+      { "text": "13", "range": [0, 2], "note": "章号" },
+      { "text": "thirteen- or fourteen-pound babies", "range": [6519, 6553], "note": "巨型婴儿体重（两个磅数，非单一磅数）" },
+      { "text": "five minutes—five solid minutes", "range": [5817, 5848], "note": "女人与孩子尖叫时长" },
+      { "text": "about fifteen of them", "range": [9315, 9336], "note": "队伍里的孩子数量（约十五个）" },
+      { "text": "eleven", "range": [14154, 14160], "note": "Grandma 的孩子数" },
+      { "text": "three", "range": [13519, 13524], "note": "Alba 已有孩子数" },
+      { "text": "forty-one", "range": [11721, 11730], "note": "Diana 说脸会在 41 岁消失" },
+      { "text": "30 percent off at Carrefour", "range": [19504, 19531], "note": "Alba 的囤货习惯" },
+      { "text": "nine hoops", "range": [0, 0], "note": "耳环数在 ch12:6 / ch00:21（本章未提）" },
+      { "text": "two on each side", "range": [4321, 4337], "note": "四只小手" },
+      { "text": "the way her kids took their shoes off", "range": [498, 535], "note": "段内第一个 her（所有格）出现处" },
+      { "text": "knowing full well how much it bothered her", "range": [556, 598], "note": "段末 her 的位置" }
+    ],
+    "dates": {
+      "explicit_calendar_date": "无具体日历日期；本章明写「Lying on the floor of Splau on Christmas Eve」（平安夜），ch13:156。",
+      "time_of_day": "夜晚（「It was nighttime but there was no roof」，ch13:9；「By ten in the morning, she was worn out」为往事的概括，ch13:165）。"
+    }
+  },
+  "open_questions_for_md_check": [
+    "「knowing full well how much it bothered her」中的 her：见 3-diff.md「her 指谁」的独立取证（段内第一个 her 是所有格「her kids」＝Alba 的三个孩子；后一个 her 若与之一致则＝Alba 本人；若另指第三人则候选只有 Alba 的母亲 Carmen / 女孩 / 别人，且“孩子气到祖母”与语境矛盾）。",
+    "巨型婴儿体重原文为「thirteen- or fourteen-pound」，不是单一磅数。",
+    "尖叫来源：本章只到「She heard a scream that seemed suspended in time.」（ch13:207）＋「silhouettes… Who were they? What was stirring there?」（ch13:210）——本章未交代是谁在叫。",
+    "「拥抱把女人裂成两半」是 Alba 的触手挤压所致（Alba 抱住女人 → 触手加入拥抱 → 挤裂女人的腰 → 灯全灭、女人消失），不是女人自己裂开。",
+    "Claire's 里挑的是「ballet flats（芭蕾平底鞋）」，选的是「the most understated pair」，缀有银色铆钉。",
+    "拍掌让灯重亮：Alba「clapped at the sky, as she did with her kids when the public restrooms went dark」——是她向天空拍手，然后圣诞灯重新亮起。"
+  ]
+}

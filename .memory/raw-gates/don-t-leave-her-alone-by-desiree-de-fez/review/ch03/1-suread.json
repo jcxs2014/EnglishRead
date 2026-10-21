@@ -1,0 +1,392 @@
+{
+  "chapter": "03",
+  "source": "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch03_chapter_3.txt",
+  "source_total_chars": 4249,
+  "source_heading": "3",
+  "note": "本文件在阅读任何 md 之前生成；区间为原文字符偏移 [start,end)，基于 UTF-8 解码后的字符计数（段落 P2–P82，见 dump_suread.py 输出）。原文引文逐字抄录。全章 82 段全为电话对白，无叙述者转述段；说话人靠上下文取证（见 speaker_map）。 〔2026-10-21 复核轮订正：仅重算 events/verbatim_numbers 的字符偏移并附 all_occurrences；事件内容、说话人归属与 open_questions 未改动，R1 仍为读 md 之前生成。〕",
+  "speaker_map": {
+    "method": "全章除 P2 明写 'Diana asked' 外无说话人标签。取证链：①P2 明示 Diana 是发问方；②P3 答 'I'm just at Finestrelles' 者＝在购物中心的一方＝P30「Jesus, Alba, couldn't you have gone another time?」中被点名、且 P29 自述 'I had to come back for the controllers' 者 ⇒ 该方＝Alba；③P58 'He's almost a year old, Alba!'、P82 'Christ, Alba, I've got to go' 再次确认 Alba 是被称呼方、Diana 是称呼方；④由此按话轮严格交替得出全章 41 句的归属。",
+    "Diana_lines": "P2, P4, P6, P8, P10, P12, P14, P16, P18, P20, P22, P24, P26, P28, P30, P32, P34, P36, P38, P40, P42, P44, P46, P48, P50, P52, P54, P56, P58, P60, P62, P64, P66, P68, P70, P72, P74, P76, P78, P80, P82（41 句）",
+    "Alba_lines": "P3, P5, P7, P9, P11, P13, P15, P17, P19, P21, P23, P25, P27, P29, P31, P33, P35, P37, P39, P41, P43, P45, P47, P49, P51, P53, P55, P57, P59, P61, P63, P65, P67, P69, P71, P73, P75, P77, P79, P81（40 句）",
+    "semantic_check": "逐对核过：P19 Alba 问 'How was Brisa’s play?' → P20 Diana 答 'It was bad.'（Brisa 属 Diana 家的孩子）；P22 Diana 说 'let me call you back, I need to call Mom' → P23 Alba 'She didn’t go.' → P24 Diana 'How come?' → P25 Alba 'She stayed with the kids.' → P26 Diana 'With what kids?' → P27 Alba 'Well, with mine.'；P61 Alba 说上次把宝宝留给 Mom → P62 Diana 'Yeah, with Mom, not with his dad.' → P63 Alba 'With his dad, too.' → P64 Diana 'He throws up with his dad?' → P65 Alba 'Yep.'；P75 Alba 'Don’t forget about tomorrow' → P76 Diana 'What’s happening tomorrow?' → P77 Alba 'You know perfectly well it’s my birthday.' → P78 Diana 'We have to pick the kids up' → P79 Alba 'I already told the kids you were coming for lunch' → P80 Diana 'we’re coming on Christmas Eve' → P81 Alba 'You can’t celebrate two things at once.' → P82 Diana 收线。全部语义自洽，无一处在交替链上必须破例。"
+  },
+  "events": [
+    {
+      "id": "E1",
+      "who": "Diana（电话这头）↔ Alba（Finestrelles 购物中心）",
+      "what": "Diana 开口问「What are you doing?」，Alba 答「Oh, I’m just at Finestrelles.」。Diana 追问「Again? Didn’t you guys go earlier? When I talked to Mom, she said you were still there.」（说明 Alba 先前与 Mom 一同去过，且 Mom 告诉 Diana Alba 还在 Finestrelles）。Alba 说人太多没能换货，换的是「The Switch ones」（Switch 主机）；店里曾说过没货，但 Alba 网上看到 MediaMarkt 的 Finestrelles 店还剩两台，两人还在等店员来帮。「We’re still waiting for them to help us.」。Diana 问「It’s eight thirty already. How late are they open?」，Alba 答「Until ten.」，并说换完货还要再买几件礼物（a couple more presents）。",
+      "range": [
+        6,
+        667
+      ],
+      "paragraphs": "P2–P13"
+    },
+    {
+      "id": "E2",
+      "who": "Alba ↔ Diana",
+      "what": "Diana 惊讶「More presents?」；Alba 问「Are you all done with your shopping?」，Diana 说没买完：「Friday I’m sneaking out while Carlos is with the kids.」（Diana 计划周五趁 Carlos 看着孩子时偷溜出去买东西）。Alba 吐槽「On actual Christmas Eve? You’re hopeless.」，Diana 辩解「Oh stop, I just couldn’t get to it sooner. I mean, I ordered some stuff online.」。",
+      "range": [
+        667,
+        926
+      ],
+      "paragraphs": "P14–P18"
+    },
+    {
+      "id": "E3",
+      "who": "Alba ↔ Diana",
+      "what": "Alba 问「How was Brisa’s play?」，Diana 只答「It was bad.」，Alba 追问「What do you mean bad?」——Diana 拒绝在此展开。",
+      "range": [
+        926,
+        994
+      ],
+      "paragraphs": "P19–P21"
+    },
+    {
+      "id": "E4",
+      "who": "Diana ↔ Alba（谈 Mom 与孩子）",
+      "what": "Diana 说「I’ll tell you later. Look, let me call you back, I need to call Mom before dinner. Oh, never mind, she has her Christmas drinks tonight.」（她以为 Mom 今晚有圣诞酒会）。Alba 纠正「She didn’t go.」；Diana 问「How come? She wouldn’t shut up about it all week. She was driving me nuts.」；Alba 答「She stayed with the kids.」，Diana 惊问「With what kids?」，Alba 说「Well, with mine.」，Diana 不信「You’re kidding.」，Alba 强调「No, I’m not kidding! I had to come back for the controllers.」（为换货又折返回来）。",
+      "range": [
+        994,
+        1389
+      ],
+      "paragraphs": "P22–P29"
+    },
+    {
+      "id": "E5",
+      "who": "Diana ↔ Alba（协商换货日期）",
+      "what": "Diana「Jesus, Alba, couldn’t you have gone another time?」；Alba「When?」；Diana 提议「Tomorrow, maybe?」，Alba 拒绝「No way, I can’t tomorrow.」，理由：「In the morning I’ve got the baby’s check-up, and in the afternoon we’re doing my birthday thing.」（明天上午宝宝体检、下午办自己生日的事）。Diana 问「Couldn’t you have just run out when Juan got off work?」，Alba「Impossible.」。Diana 改口「Friday, then.」，Alba「On Christmas Eve? Hell no.」。Diana 又提「You could have asked me to exchange them when I go for my stuff on Friday.」，Alba 追问「Were you planning to go to Finestrelles?」，Diana「No, but surely they have them at Corte Inglés?」，Alba 拒绝「It doesn’t matter, it’s an exchange. It has to be MediaMarkt.」",
+      "range": [
+        1389,
+        1979
+      ],
+      "paragraphs": "P30–P43"
+    },
+    {
+      "id": "E6",
+      "who": "Diana ↔ Alba（Mom、Juan、宝宝与交通）",
+      "what": "Diana 问「So Mom is with all three?」，Alba 答「No, the baby’s with me.」（Mom 看着另外的孩子，宝宝跟 Alba）。Diana「Isn’t Juan working half days this week?」，Alba「Yes.」；Diana「He couldn’t stay with them?」，Alba「Juan is with me.」；Diana 抱怨「What the hell, Alba, couldn’t he have stayed with the kids so Mom could go to her party?」，Alba 转述「She told me she didn’t care, she said she was tired.」，Diana 反驳「You know she cares! She got her nails done yesterday!」。Alba 说「I can’t take the bus by myself.」，Diana「Why not?」，Alba「Because it’s always packed this time of year and I get overwhelmed with the baby.」；Diana「But why did you take the baby?」，Alba「In case he got hungry.」；Diana 笑「he’s practically a teenager! He’s almost a year old, Alba! He can go a few hours without your boob!」，Alba「when he wants to nurse, he throws a fit.」，Diana「Well, you give him a cookie and that’s that.」。Alba 讲上次经历：把宝宝留给 Mom，Mom 半小时后就把她叫回（beside herself），她不得不掉头回去，宝宝哭得太狠都吐了。Diana「Yeah, with Mom, not with his dad.」，Alba「With his dad, too. He throws a fit.」",
+      "range": [
+        1979,
+        3004
+      ],
+      "paragraphs": "P44–P63"
+    },
+    {
+      "id": "E7",
+      "who": "Diana ↔ Alba（交通方式与收尾前的催促）",
+      "what": "Diana 追问「He throws up with his dad?」，Alba「Yep.」。Diana 建议「Why don’t you try the tram? It’s usually better.」，Alba 否定「That’s not true. It gets packed during the holidays. I was so grossed out yesterday on our way home. There were tons of people, and they had the heat all the way up. With the stroller and everything, it’s a pain in the ass.」；Diana「Then take him in the carrier.」，Alba「He doesn’t like it.」；Diana「If you hurry, won’t Mom have time to swing by the party?」，Alba「I don’t think so. We just got to MediaMarkt. It’s disgusting how many people are here. And we still need Caga Tió.」；Diana「You can’t split up?」，Alba「No, I’d rather have Juan with me, I get confused about the controllers.」；Diana「How can you be confused, you’ve been out looking by yourself for days!」，Alba「Not by myself. I was with Mom. I have to go, I can barely hear you. Don’t forget about tomorrow, OK?」",
+      "range": [
+        3004,
+        3843
+      ],
+      "paragraphs": "P64–P75"
+    },
+    {
+      "id": "E8",
+      "who": "Diana ↔ Alba（生日安排与挂断）",
+      "what": "Diana「What’s happening tomorrow?」，Alba「You know perfectly well it’s my birthday.」（明天＝Alba 的生日）。Diana「We have to pick the kids up, so we’ll just be there for the cake.」（Diana 一家要接孩子，只能来吃蛋糕那一段）；Alba 劝「Come on. I already told the kids you were coming for lunch.」；Diana「But we’re coming on Christmas Eve, we can really celebrate then.」；Alba「You can’t celebrate two things at once. It’s bad luck. And you know it.」（同一天不能兼庆两件事＝圣诞与生日）；Diana 收线「Christ, Alba, I’ve got to go. We’ll talk later.」",
+      "range": [
+        3843,
+        4249
+      ],
+      "paragraphs": "P76–P82"
+    }
+  ],
+  "characters": {
+    "Alba": "本章的「在场者」一方：在 Finestrelles 购物中心／MediaMarkt 店里换 Switch 主机（+ 去买礼物、买 Caga Tió）；带着宝宝（男婴，快一岁，还在吃奶）；Juan 陪着她； Mom 留在家里看着她的孩子们；她不能一个人带宝宝坐公交；她自己的生日＝明天；她说 Mom 昨晚做了美甲、当天告诉过她 Mom 累了不想去酒会。她说昨天回家路上（bus/tram，人多、暖气全开、带婴儿车）让她恶心得不行。",
+    "Diana": "电话这头：打电话问对方在干什么；家中有 Carlos 和孩子（Brisa 的学校戏剧「It was bad」）；自己还没买完礼物，打算「Friday」趁 Carlos 带孩子时偷溜出去；提议自己替 Alba 换货（在 Corte Inglés 买也行）；让 Alba 早点到好让 Mom 赶去酒会；家里要接孩子所以只能去吃蛋糕；提议「we’re coming on Christmas Eve」庆祝 Alba 的生日；最后是 Diana 挂的电话。她称呼 Alba 母亲为「Mom」。",
+    "Mom": "Alba 的母亲（双方都叫 Mom）：本晚有「Christmas drinks」；但她没去，因为留下来看 Alba 的孩子；上周整周念叨酒会的事，让 Diana 很烦；前一天去做了美甲；上次 Alba 把宝宝留给她时，她半小时就把 Alba 叫回来，说 baby 哭到吐。",
+    "Juan": "Alba 的伴侣／孩子的父亲：本周上半天班（half days this week）；现在和 Alba 一起在 MediaMarkt 等店员换货；Alba 说「Juan is with me」「I’d rather have Juan with me」；Diana 抱怨他本可以留下看孩子、让 Mom 去酒会；Alba 说宝宝跟爸爸（Juan）也会闹。",
+    "Carlos": "Diana 的伴侣：负责在家看孩子（Diana 计划趁他带孩子时出门购物）。",
+    "Brisa": "Brisa 参加了一场学校演出（play），Diana 说「It was bad」；属于 Diana 一家（跟 Carlos 与孩子们）。",
+    "宝宝（无名男婴）": "Alba 的孩子，快一岁（almost a year old），还在吃奶（nurse）；Alba 怕他饿所以带着；用婴儿车（stroller），不喜欢背带（carrier）；闹或哭到吐。",
+    "Alba 的另外两个孩子": "Mom 在照看的那两个（合起来 Alba 共三个孩子＝Mom 所看的孩子 + 宝宝）。",
+    "MediaMarkt / Finestrelles / Corte Inglés": "换货地点（只能在 MediaMarkt 换，Finestrelles 店）；Corte Inglés 是 Diana 建议的另一家店。"
+  },
+  "numbers_and_dates": {
+    "verbatim_numbers": [
+      {
+        "text": "eight thirty",
+        "range": [
+          536,
+          548
+        ],
+        "note": "Diana 说已经八点半（P12）",
+        "all_occurrences": [
+          [
+            536,
+            548
+          ]
+        ]
+      },
+      {
+        "text": "Until ten",
+        "range": [
+          586,
+          595
+        ],
+        "note": "MediaMarkt 营业到十点（P13）",
+        "all_occurrences": [
+          [
+            586,
+            595
+          ]
+        ]
+      },
+      {
+        "text": "two left",
+        "range": [
+          379,
+          387
+        ],
+        "note": "网上显示 Finestrelles 的 MediaMarkt 还剩两台（P9）",
+        "all_occurrences": [
+          [
+            379,
+            387
+          ]
+        ]
+      },
+      {
+        "text": "a couple more presents",
+        "range": [
+          640,
+          662
+        ],
+        "note": "换完还要再买几件礼物（P13）",
+        "all_occurrences": [
+          [
+            640,
+            662
+          ]
+        ]
+      },
+      {
+        "text": "The Switch ones",
+        "range": [
+          269,
+          284
+        ],
+        "note": "要换的货＝Switch 主机（P7）",
+        "all_occurrences": [
+          [
+            269,
+            284
+          ]
+        ]
+      },
+      {
+        "text": "Friday",
+        "range": [
+          738,
+          744
+        ],
+        "note": "Diana 计划出门采购的周五（P16）；后又在 P38、P40 出现",
+        "all_occurrences": [
+          [
+            738,
+            744
+          ],
+          [
+            1690,
+            1696
+          ],
+          [
+            1806,
+            1812
+          ]
+        ]
+      },
+      {
+        "text": "Christmas Eve",
+        "range": [
+          807,
+          820
+        ],
+        "note": "平安夜＝Friday（P39 原文「On Christmas Eve? Hell no.」）；P17 Alba 说的是「On actual Christmas Eve?」",
+        "all_occurrences": [
+          [
+            807,
+            820
+          ],
+          [
+            1711,
+            1724
+          ],
+          [
+            4075,
+            4088
+          ]
+        ]
+      },
+      {
+        "text": "tomorrow",
+        "range": [
+          1491,
+          1499
+        ],
+        "note": "P32 Diana 提议明天去换货，P33 Alba 拒绝；P75/P76/P77 明天＝Alba 的生日",
+        "all_occurrences": [
+          [
+            1491,
+            1499
+          ],
+          [
+            3826,
+            3834
+          ],
+          [
+            3861,
+            3869
+          ]
+        ]
+      },
+      {
+        "text": "half days",
+        "range": [
+          2057,
+          2066
+        ],
+        "note": "Juan 本周上半天班（P46）",
+        "all_occurrences": [
+          [
+            2057,
+            2066
+          ]
+        ]
+      },
+      {
+        "text": "yesterday",
+        "range": [
+          2337,
+          2346
+        ],
+        "note": "Mom 前一天做美甲（P52）；Alba 昨天回家路上受不了拥挤与暖气（P67）",
+        "all_occurrences": [
+          [
+            2337,
+            2346
+          ],
+          [
+            3172,
+            3181
+          ]
+        ]
+      },
+      {
+        "text": "all three",
+        "range": [
+          1995,
+          2004
+        ],
+        "note": "Diana 问 Mom 是否看着三个孩子（P44）",
+        "all_occurrences": [
+          [
+            1995,
+            2004
+          ]
+        ]
+      },
+      {
+        "text": "half an hour",
+        "range": [
+          2842,
+          2854
+        ],
+        "note": "上次 Alba 把宝宝留给 Mom，Mom 半小时后就打电话叫她回去（P61）",
+        "all_occurrences": [
+          [
+            2842,
+            2854
+          ]
+        ]
+      },
+      {
+        "text": "almost a year old",
+        "range": [
+          2604,
+          2621
+        ],
+        "note": "宝宝快一岁（P58）",
+        "all_occurrences": [
+          [
+            2604,
+            2621
+          ]
+        ]
+      },
+      {
+        "text": "practically a teenager",
+        "range": [
+          2575,
+          2597
+        ],
+        "note": "Diana 打趣宝宝快成少年了（P58）",
+        "all_occurrences": [
+          [
+            2575,
+            2597
+          ]
+        ]
+      },
+      {
+        "text": "a few hours",
+        "range": [
+          2639,
+          2650
+        ],
+        "note": "不用吃奶也能撑几小时（P58）",
+        "all_occurrences": [
+          [
+            2639,
+            2650
+          ]
+        ]
+      },
+      {
+        "text": "Christmas drinks",
+        "range": [
+          1106,
+          1122
+        ],
+        "note": "Mom 的圣诞酒会（P22）",
+        "all_occurrences": [
+          [
+            1106,
+            1122
+          ]
+        ]
+      },
+      {
+        "text": "Caga Tió",
+        "range": [
+          3550,
+          3558
+        ],
+        "note": "还没买的加泰罗尼亚圣诞木桩（P71）",
+        "all_occurrences": [
+          [
+            3550,
+            3558
+          ]
+        ]
+      }
+    ],
+    "dates": {
+      "explicit_calendar_date": "无——原文没有出现任何具体日期或年份。",
+      "relative_times_verbatim": "「eight thirty already」(P12)、「Until ten」(P13)、「Friday」(P16/P38/P40)、「On actual Christmas Eve?」(P17)、「On Christmas Eve? Hell no.」(P39)、「tomorrow」(P32/P75/P76)、「half days this week」(P46)、「yesterday」(P52/P67)、「Christmas Eve」(P80)、「Christmas drinks tonight」(P22)",
+      "derivable_but_not_stated": "换货日被否掉的顺序是 今天 > 明天 > Friday(=Christmas Eve)，故「明天」早于 Friday；原文未写明今天星期几、几月几日、哪一年。任何「12 月 22/23/24 日」之类具体日期都是推算，不是原文。"
+    }
+  },
+  "open_questions_for_md_check": [
+    " Diana 与 Alba 是什么关系？原文只出现两个人互相直呼对方母亲为「Mom」（P22 Diana 说 'I need to call Mom'；P4/P52/P70 双方都提 Mom），并共享 Carlos/Brisa/kids 语境，但本章没有一句话点明「姐妹」或「朋友」——md 若写「姐妹」需另有依据，否则应写成「双方都称那位母亲为 Mom」。",
+    "「the kids」在 P25/P27 指 Alba 自己的孩子（P27 'Well, with mine.'）；P44 'all three' 与之呼应（Alba 共三个孩子，其中最小的宝宝跟 Alba）。但 P78/P79 的 'the kids' 指 Diana 一家的孩子（P79 Alba 说 'I already told the kids you were coming for lunch'——指她对 Diana 孩子说的话）。md 若把两处 kids 混作同一批，属归属错误。",
+    "Alba 的生日：P35「In the morning I’ve got the baby’s check-up, and in the afternoon we’re doing my birthday thing.」＋P75「Don’t forget about tomorrow」＋P77「You know perfectly well it’s my birthday.」⇒ 明天＝Alba 的生日；P80/P81 又把「Christmas Eve」与「一起庆祝」并提 ⇒ 是否同一天，原文没有日期可证。md 若断言「生日＝12 月 24 日」或「生日＝12 月 25 日」都超出原文。",
+    "「Brisa 的演出很糟」是 Diana 说的（P20），不是 Alba 说的；Alba 只是问的人（P19）。",
+    "Alba 的宝宝快一岁、还在吃奶、会哭到吐；「跟 Mom 会闹、跟爸爸（Juan）也会闹」是 Alba 的说法（P59/P63/P65），「with Mom, not with his dad」是 Diana 的说法（P62），方向相反，md 不能把两句合并成一个人的话。",
+    "「Alba 不能一个人坐公交」的理由是「这个季节总是很挤，而且带着宝宝我应付不过来」（P55）；「昨天回家路上挤、暖气全开、带婴儿车很烦」也是 Alba 说的（P67）；建议改坐有轨电车的是 Diana（P66），说「电车更挤/假日期间很挤」的也是 Alba（P67）。",
+    "换货只能去 MediaMarkt 是 Alba 的坚持（P43），提出「Corte Inglés 也应该有」的是 Diana（P42）——方向不能反。",
+    "「Mom 没去酒会」这一事实由 Alba 说出（P23），Diana 事先以为 Mom 会去（P22 'she has her Christmas drinks tonight'）；Mom 自己说的是「我无所谓，我累了」（P51，转述给 Alba 的话），是 Alba 转述的。",
+    "全章只有两个人说话，除 Diana 外的第三人称只有 Brisa（谁的？按 P19/P20 归属属 Diana 家）。原文没有出现 Albà 的全名以外的第三个女人。"
+  ]
+}

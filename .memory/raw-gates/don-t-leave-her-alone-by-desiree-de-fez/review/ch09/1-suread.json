@@ -1,0 +1,86 @@
+{
+  "chapter": "09",
+  "source": "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch09_chapter_9.txt",
+  "source_total_chars": 474,
+  "source_heading": "9",
+  "note": "本文件在阅读任何 md 之前生成（R1 素读）；区间为原文字符偏移 [start,end)，基于 UTF-8 解码后的字符计数。原文引文逐字抄录（含弯引号）。全文实测 `wc -w` = 78 词 / 512 字节 / 474 字符；正文共 6 个自然段（另有首行章号“9”）。",
+  "events": [
+    {
+      "id": "E1",
+      "who": "Diana",
+      "what": "Diana 身上一个后袋开始震动（手机）。她停下检查自己的身体（身上有伤），接起电话，不在意自己的手上沾满了血。她说了一句“Hello,”，听着对方说话，没有回应；随后说“I have to call you back,”，几乎是对自己说的，一边把 iPhone 滑回口袋。",
+      "range": [6, 283],
+      "verbatim": "One of Diana’s back pockets started to vibrate. She stopped examining herself and picked up, unconcerned that her hand was covered in blood. She said, “Hello,” listened, didn’t respond. “I have to call you back,” she said, almost to herself, sliding the iPhone into her pocket."
+    },
+    {
+      "id": "E2",
+      "who": "（原文未标明说话人）",
+      "what": "一句独立台词出现：有人（原文既未写 “X asked/said”，也未给出引语归属标记）说“They can’t find Alba.”——即“找不到 Alba”。这是本章第一次出现该句。",
+      "range": [286, 309],
+      "verbatim": "“They can’t find Alba.”"
+    },
+    {
+      "id": "E3",
+      "who": "Carlos",
+      "what": "Carlos 问了一句“What?”，问的时候还在用外套盖住 Diana。这是全章唯一一处原文明确点名的说话人归属（“Carlos asked”）。",
+      "range": [312, 369],
+      "verbatim": "“What?” Carlos asked, still covering Diana with the coat."
+    },
+    {
+      "id": "E4",
+      "who": "（原文未标明说话人）",
+      "what": "同一句台词原样重复第二遍（与 E2 逐字完全相同：“They can’t find Alba.”）。",
+      "range": [372, 395],
+      "verbatim": "“They can’t find Alba.”"
+    },
+    {
+      "id": "E5",
+      "who": "（原文未标明说话人）",
+      "what": "一句追问：“What do you mean they can’t find Alba?”（“你说找不到 Alba 是什么意思？”）。原文未写这句是谁说的；按对话轮次，它紧接在 E4 那句重复之后，是与 Carlos 的“What?”同一问话方。",
+      "range": [398, 438],
+      "verbatim": "“What do you mean they can’t find Alba?”"
+    },
+    {
+      "id": "E6",
+      "who": "（原文未标明说话人）",
+      "what": "全章最后一句台词：“Mom just said Alba is missing.”——说话人报告：妈妈（Mom）刚刚说 Alba 不见了／失踪了。这是全章的收口（cliffhanger），把“找不到 Alba”这一信息追到“母亲说 Alba 失踪”这一来源上。",
+      "range": [441, 473],
+      "verbatim": "“Mom just said Alba is missing.”"
+    }
+  ],
+  "characters": {
+    "Diana": "本章视角人物/被观察者。正在检查自己的身体，手上沾满血（受伤，未写明伤处与原因）；接了一个电话，只说“Hello,”与“I have to call you back,”就挂断并把 iPhone 塞回口袋；身上被 Carlos 用外套盖住。",
+    "Carlos": "在场者，正在用外套盖住 Diana；本段明确由他发问“What?”（原文仅此一处点名说话人）。",
+    "Alba": "被“找不到”的那个人；“They can’t find Alba.”两处与最后的“Alba is missing.”都指向她；本章原文未交代她与 Diana 的关系。",
+    "Mom（母亲）": "信息源/转述者：最后一句“Mom just said Alba is missing.”——她说的是“Alba 不见了”，她本人并非本章这句的说话人，也未出现在电话另一端的证据里。",
+    "电话那头的来电者": "原文未点名、未描述性别与身份；只交代 Diana 接了电话、听了、没回话就说要回拨。"
+  },
+  "numbers_and_dates": {
+    "verbatim_numbers": [
+      { "text": "9", "range": [0, 1], "note": "章号（文件首行）" },
+      { "text": "One", "range": [6, 9], "note": "“One of Diana’s back pockets”——数量词“一个后袋”（外套有多个口袋）" }
+    ],
+    "measured_facts": {
+      "wc_w": 78,
+      "bytes": 512,
+      "chars": 474,
+      "natural_paragraphs": 6,
+      "quotation_paragraphs": 5,
+      "duplicate_sentence": "“They can’t find Alba.” 在 [286,309) 与 [372,395) 两处逐字相同（count = 2）"
+    },
+    "dates": {
+      "explicit_calendar_date": "无——原文无任何日期、星期、时刻、时长；只有相对时序：接电话 → “I have to call you back” → 五句对话 → 末句。",
+      "calendar_year": "无"
+    }
+  },
+  "open_questions_for_md_check": [
+    "E2/E4/E5/E6 四句的说话人原文均未点名；只有 E3 的“What?”被明写为 Carlos asked。md 若给 E2/E4/E5/E6 标了具体人名，必须能由原文推出，否则按“归属反转”核。",
+    "谁在打电话：原文只写 Diana 接起、听、没回话、说回拨；电话另一端是谁原文本章未交代。",
+    "母亲的角色：末句“Mom just said Alba is missing.”里母亲是**转述者/消息来源**（她“说”了 Alba 失踪），不等于“母亲失踪”或“母亲是被找的人”。",
+    "Alba 与 Diana 的关系（女儿/姐妹/朋友）本章原文零交代，md 若断言关系即属“编”。",
+    "Alba 的失踪性质：原文只说“They can’t find Alba”与“Alba is missing”，未写绑架、离家出走或死亡。",
+    "Diana 的伤势：原文只写“her hand was covered in blood”与“examining herself”，未写伤因。",
+    "Carlos 用外套盖住 Diana 是主动动作（covering Diana with the coat），主语是 Carlos，受事是 Diana。",
+    "P2 与 P4 两段文本完全相同，md 若两处都作引语块会破坏引语唯一性；只引一处是正确做法，需核实另一处是否在分析文字里忠实复述。"
+  ]
+}

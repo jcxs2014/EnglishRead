@@ -1,0 +1,194 @@
+{
+  "chapter": "12",
+  "source": "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch12_chapter_12.txt",
+  "source_total_chars": 15022,
+  "source_heading": "12",
+  "pov": "Alba（第三人称有限，第一人称意识）",
+  "note": "本文件在阅读任何 md 之前生成；区间为原文字符偏移 [start,end)，基于 UTF-8 解码后的字符计数（总长 15022）。原文引文逐字抄录（撇号均为 U+2019）。",
+  "events": [
+    {
+      "id": "E1",
+      "who": "Alba",
+      "what": "在黑暗中醒来，摊躺在地板上，不知道身在何处。光「分期」回来，像有人在有节奏地开关电灯；整个店铺亮起，亮度「like a kick to the face」。她闭眼撑起身体，然后看清现场：一排排溅着红色的芭蕾舞裙、染红的蝴蝶翅膀与毛绒耳罩。头痛欲裂；她差点去摸头，又停住，怕摸不到、或不是完整的。摸到自己的头发结成块、脸是一大片深色污迹，喘不上气，「She had no idea how long the convulsions had lasted」；脸也沾着血；两只耳朵布满了新耳洞：总共九只耳环，尺寸各不相同，一只耳朵五只、另一只四只；看起来是银色，但不确定——一切都结着褐色和黑色的痂。她判断那个她记不得的「appointment」必然既久、又不卫生、又残酷。",
+      "range": [7, 1169]
+    },
+    {
+      "id": "E2",
+      "who": "（歌曲/歌词文本，无说话人标记）",
+      "what": "三行独立成段的短句：「When she left, she left one memory」／「A thorn sticking right into me」／「A thorn stuck in my heart」。位置在 Alba 醒来之后、女孩出现之前。",
+      "range": [1172, 1267]
+    },
+    {
+      "id": "E3",
+      "who": "Alba + 女孩",
+      "what": "Alba 听见歌声转身：女孩靠在陈列架上，一身红泳衣，露着两条长腿，怀里抱着那盒 Switch 手柄（抱在约胃的高度）。Alba 装作没看见或不在乎。满店的 pom-pom 与闪粉让女孩显得比记忆中更小；她完美的上翘鼻梁让 Alba 一阵怀旧——她想，自己大概是在「they shut down the campground」前后、在公园里被一只乱摆的秋千打到脸、把鼻梁骨撞偏了才失去那个鼻子的，此后一直没矫正，习惯了那个不那么出众、不那么对称的鼻子。",
+      "range": [1270, 1996]
+    },
+    {
+      "id": "E4",
+      "who": "Alba + 女孩（对唱互答）",
+      "what": "Alba 说「I know that song」。女孩：「Of course you do. But you don't remember the words.」Alba：「I do remember.」女孩：「No, you don't.」Alba：「I do.」女孩：「All right. If you're so smart, how does it go?」Alba：「I don't know where you left off. Start again, I'll follow you.」女孩：「No. It doesn't matter.」Alba 坚持：「I'm serious. Just start over.」女孩：「Sing whatever part you want.」",
+      "range": [1999, 2371]
+    },
+    {
+      "id": "E5",
+      "who": "Alba（唱）+ 女孩（评）",
+      "what": "Alba 先念了一句：「And even though I keep wanting you, you see me and you look right through.」女孩命令：「That's not singing. That's talking. Sing!」Alba 唱道（声音虚弱）：「I dream of you—what have you given me? Without your love, I would have never believed.」女孩：「Louder!」Alba：「I can't. Everything hurts. It hurts.」女孩：「You can still sing.」Alba 再唱（大声些，但声音破了）：「I dream of you—what have you given me? I long for you, you're forgetting me.」女孩：「That's the chorus. It doesn't count.」Alba：「Why not?」女孩：「Because everyone knows the chorus. That song was basically everywhere.」Alba：「Not everyone knows it. It's pretty old.」女孩：「Everyone knows it because it's timeless.」",
+      "range": [2374, 3083]
+    },
+    {
+      "id": "E6",
+      "who": "Alba + 女孩",
+      "what": "Alba 问「What did you do to my ears?」，一边在「a makeshift bed of tutus」上找舒服的姿势、靠着店铺前墙、腿伸着。女孩：「I gave you some silver hoops.」「Quite a few.」「Nine. And if it weren't for the fucking octopus, I would have done more,」她提高音量。Alba：「You still love to swear, I see.」女孩：「Just like you.」「Yeah, that hasn't changed.」「See?」（此处的「See?」由女孩说出，接在 Alba 那句上，形成对话轮内的往复。）Alba：「Why did you do it?」女孩：「So you would remember.」Alba：「Remember what?」女孩：「That you really liked hoop earrings.」Alba：「I know I liked them. I still do.」女孩：「Well, you never wear them.」Alba：「I forget to put them on, or I run out of time.」",
+      "range": [3086, 3723]
+    },
+    {
+      "id": "E7",
+      "who": "女孩（指控 1–3）",
+      "what": "女孩：「No. It's because you're forgetting yourself. The earrings are just the start.」Alba：「What do you mean I'm forgetting myself?」女孩：「The earrings. Camp La Tortuga Ligera. Me.」Alba：「No, no. That's not true. You should see my patio.」女孩：「I've seen it. It's not enough.」Alba：「And what makes you say that?」女孩：「I've started to disappear. Like the campground disappeared, the campers and the pool, like everyone disappeared. There's barely anyone left.」「I wish you had disappeared sooner.」——指控顺序：①「你在忘记自己」；②「耳环只是开始」；③「耳环、Camp La Tortuga Ligera、我」三者并列为被忘记之物；再接「我开始消失了」「你本该更早消失」。",
+      "range": [3726, 4201]
+    },
+    {
+      "id": "E8",
+      "who": "女孩（施暴）",
+      "what": "Alba「didn't have the reflexes to protect herself」：女孩过来拔掉她一只耳朵上的若干耳环，拉得很猛——有些耳环被拽脱扣，有些则撕穿耳垂；随后用一只破旧的运动鞋踢她的侧腰。Alba 蜷成一团哭，营地的回忆涌上心头。",
+      "range": [4204, 4548]
+    },
+    {
+      "id": "E9",
+      "who": "（叙述层：营地的「鬼魂」）",
+      "what": "回忆插叙开始：2005 年，El Prat 机场扩建工程「barreled right through」Camp La Tortuga Ligera。营地关上门后，爱过这里的人的鬼魂仍留在原地——无论是一辈子来过的常客，还是只来过一两次的人。周边其他营地（Toro Bravo、La Ballena Alegre，各有自己的吉祥物与招牌）也一样。原来的访客在 Cornellà、L'Hospitalet、Bellvitge、Gavà 或 El Prat 过着自己的生活，但他们的「版本」仍在 La Tortuga 度假——因为他们曾在那里真正快乐过，或在某些情况下只是比其余时候更快乐。那里几乎各年龄层的人都有，但多数是晒得永久黝黑的孩子与青少年，**包括十二岁的 Alba**（\"Even when it was cold. Even in January.\"）。",
+      "range": [4554, 5411]
+    },
+    {
+      "id": "E10",
+      "who": "（叙述层：营地消亡史）",
+      "what": "La Tortuga Ligera 不是一夜消失的：营地被迫关门，但消失是缓慢过程。鬼魂们住进被遗弃的房车与木屋——主人不愿亏本出售、又负担不起搬运，或觉得整件事太令人难受而认定自己的露营生涯结束；也可能只是对这个地方有种奇怪的忠诚感：「Camp La Tortuga Ligera or bust.」许多建筑几乎无法居住，因为主人亲手毁掉了它们。关门后头几个月一切如旧：鬼魂靠原主的记忆、从前露营者的追忆、那种「固执地觉得自己属于某个地方」的感觉维生，表现得好像什么都没变。那个旧版本的营地仍然存在：父母在酒吧聚着打牌和飞镖；母亲给孩子们做三明治，强迫他们到外面吃，以免碎屑掉进房车。每到周五，他们必定扔下手上的事去打 bingo。孩子与青少年让足球联赛继续下去，赛后照跳进泳池纳凉——尽管池里没有水，池子是空的、衬布已开始剥落。所有女孩都在 DJ 放「El Venao」时跳舞，不踏出各自那块地砖：皮肤晒成古铜、嘴唇抹了唇彩、头发被太阳漂成金色。头发其实没被漂、日头六点就落下都无所谓。冻得要命也无所谓。",
+      "range": [5414, 7220]
+    },
+    {
+      "id": "E11",
+      "who": "（叙述层：鬼魂消散与二十年后）",
+      "what": "年岁渐长，La Tortuga 的鬼魂习惯了地方的突然变化，把消失视为平常。有些鬼魂在原主失去记忆或心智、或死去时随之消失；另一些出现的次数越来越少，因为原主已开始忘记他们、不再回味那三个月的假期、那些永恒的 La Tortuga 夏天；很多人如今生活复杂，顾不上想「getting by in the present」以外的事。营地逐步变形：先是废弃营地，再是被洗劫的营地，再是空地，然后「for twenty years after that」只是「merely the place that had once been Camp La Tortuga Ligera」。**十二岁的 Alba**（红泳衣、晒白的头发）会在那片无主之地上游荡很久。",
+      "range": [7223, 8221]
+    },
+    {
+      "id": "E12",
+      "who": "Alba + 女孩",
+      "what": "Alba 坐在地上抱着腿哭，觉得在这么荒谬的地方哭很可笑：「What kind of person cries at Claire's? What kind of person cries surrounded by pom-poms?」女孩背对 Alba，手指划过陈列架上的一排排指甲，考虑了几套指甲后挑了**虹彩丁香色（iridescent lilac）**，坐在地上打开盒子。随后女孩说「Wait a sec,」看着 Alba，把 Switch 手柄塞进自己泳衣里保管，然后开始做美甲：先在 Alba **左手**每个指甲上点胶，再一片片仔细贴上甲片，不慌不忙确保完美，还不断把 Alba 的手臂伸展开、扇开她的手指检查成果，最后问「What do you think? Cute, right?」",
+      "range": [8227, 9055]
+    },
+    {
+      "id": "E13",
+      "who": "Alba（叙述层：人生流水账）",
+      "what": "Alba 之所以在 La Tortuga Ligera 的记忆里躲太久，是因为那是她最后一次感到完全自由、安适、自给自足的地方；此后唯一近似的一处是**商场（the mall）**，而且是「sporadically, for minutes at a time」。一切发生得太快：嫁给高中男友、买带车位公寓、生第一个孩子、停工、买小型货车（minivan）、生第二个孩子并非常高兴是个女孩（「a little sister!」）、父亲去世、买 65 寸电视、生第三个孩子（又一个男孩）；其间她用 obsessive 的方式操办每一个生日会、每一个圣诞节、每一个她认为哪怕 remotely worth celebrating 的节日。多年下来她忘了自主是什么：Alba 只作为身边人的延伸存在——要么她依赖某人，要么某人依赖她；若后者没发生，她就制造它。",
+      "range": [9061, 10141]
+    },
+    {
+      "id": "E14",
+      "who": "Alba（叙述层：自我辩解与二十年）",
+      "what": "那种动态没有清晰的解释，也没有办法打断。像许多别的女性一样，出于惯性或模仿前人，她被吸入了那种生活方式。她不认为自己受过压迫；不认为自己被迫那样活、也不认为自己的选择是别人替她做的。她对日常生活并不不满：**Diana 错在以为她从没有比在 Camp La Tortuga Ligera 时更快乐过**。但营地的低语始终跟着她。那是一个可以暂停一切烦恼三个月的地方，她的唯一责任就是玩得开心，甚至可以忘掉自己有父母。不知不觉中，她**花了二十年**渴望那个括号——渴望独处的可能、渴望更简单的生活（哪怕只是一阵子）、渴望一种「hers and hers alone」的特定美。",
+      "range": [10144, 11085]
+    },
+    {
+      "id": "E15",
+      "who": "Alba（叙述层：记忆失效）",
+      "what": "但已有一段时间：那些夏天的记忆、La Tortuga 招牌的心里图像、她的露台，都无法再满足 Alba 对真正休息与真实缓解的渴望。她的记忆不再够用——「memories were no longer enough」，「They didn't work for her anymore.」当她感到恼火或不快乐时，她的身体 clamored for something different（ clamored for something different）。",
+      "range": [11088, 11415]
+    },
+    {
+      "id": "E16",
+      "who": "女孩 + Alba",
+      "what": "女孩：「You wish I were dead,」Alba：「No, I don't wish you were dead.」女孩：「But you want to forget me, and if you forget me, I'll just die. Like everyone else.」Alba：「I don't want to forget you. There are lots of things I want to remember.」女孩：「Like what?」",
+      "range": [11421, 11675]
+    },
+    {
+      "id": "E17",
+      "who": "Alba（列举想记住之物）",
+      "what": "Alba 列举：红泳衣与磨旧的 Victoria 球鞋；她的小雀斑鼻子；阳光把头发晒浅的样子；DJ，以及在海滩上听的 Camela 磁带，还有 Diana 在木屋里放 El Último de la Fila；偷偷在公共浴室化妆好不让爸妈看见；所有人戴 Caravaca 十字架的那个夏天。她连坏事也不想忘：妈妈在海滩上晕倒、她和 Diana 吓得在同一张床睡了几天；以及她因为用冰块和安全别针戳了自己的肚脐、一周不能游泳。",
+      "range": [11678, 12273]
+    },
+    {
+      "id": "E18",
+      "who": "女孩 + Alba",
+      "what": "女孩：「That's stupid stuff.」Alba：「No, it's not. I remember all those things.」女孩：「Sure, but now you don't think it seems so special. What else?」Alba：「I remember the sign at the entrance, the cartoon turtle.」女孩（眼里涌上泪）：「You didn't see how it rusted. Or how the trees swallowed it up,」Alba：「A couple days ago, I saw it melting from my patio.」女孩：「See, that's because you've decided to forget us.」",
+      "range": [12276, 12686]
+    },
+    {
+      "id": "E19",
+      "who": "女孩（唱）+ Alba",
+      "what": "女孩起身唱：「I long for you, you're forgetting me.」她给了 Alba 一个又长又悲伤的眼神，转身走向店门离开。Alba 尽力让自己镇定下来跟在后面，扶着陈列架喘气，走到 Claire's 门口时「with all the jewelry screaming behind her」看见女孩在几米外走向扶梯。Alba 用剩下的力气喊：「Wait! Don't go!」",
+      "range": [12691, 13242]
+    },
+    {
+      "id": "E20",
+      "who": "女孩 + Alba",
+      "what": "女孩转身、眨眼、继续走，开始做侧手翻，**一连四个完美的**。Alba 的侧手翻曾是全家的骄傲，但没人再记得，她为此难过。女孩几秒内到达扶梯并上梯；Alba 赶到梯底时女孩已在顶端，靠在中庭天桥（bridge across the mezzanine）的栏杆上俯看她；Alba 开始往上走，眼睛一刻不离她——「She knew what she was thinking.」",
+      "range": [13245, 13877]
+    },
+    {
+      "id": "E21",
+      "who": "Alba + 女孩",
+      "what": "Alba 挥着一根手指喊「Don't!」；她试着跑但腿太弱。等她终于上到二楼，女孩已离开那处栏杆，走向另一座更远的天桥。Alba 尽力跟上（其实非常慢），两人之间已有几米。她看着女孩转身背对自己、爬到栏杆上。Alba：「No! Please! Wait!」女孩平衡在栏杆上：瘦、圆小臀、金色马尾垂在背后——完美。听到 Alba 粗重的呼吸靠近，她开始抬起双臂，仿佛要跳进虚空。",
+      "range": [13880, 14554]
+    },
+    {
+      "id": "E22",
+      "who": "Alba（身体）",
+      "what": "「Alba's body roared.」",
+      "range": [14535, 14554]
+    },
+    {
+      "id": "E23",
+      "who": "触手（从 Alba 腹中射出）+ 女孩",
+      "what": "触手从她的腹部射出，穿过她的毛衣、撕开她的内脏。Alba 被这一下震晕、倒在地上，但触手不管她继续前行：它们展开、朝女孩的身体伸过去，这一次她没能躲开、没能纵身跃下。触手抱住她、抚摸她的头发、拍拍她，然后把她拖回 Alba 身边，Alba 在睡梦中不知不觉地把女孩吞吃了。",
+      "range": [14557, 15022]
+    }
+  ],
+  "characters": {
+    "Alba": "本章叙述者，第三人称有限视角。原文第一句即点名：「Alba came to in the dark」。醒来于 Claire's 饰品店地板，脸有血污与深色污迹，两耳共九只新耳环（一只耳五只、另一只四只），头部受创且发生过抽搐（她不知道持续多久）。12 岁时是 Camp La Tortuga Ligera 的常客；后来嫁给高中男友，生三个孩子（第二个是女孩，第三个是男孩），父亲已去世，现年约当「2025」——2005 年营地被机场扩建穿过，此后「twenty years」。",
+    "女孩": "穿红泳衣、抱着 Switch 手柄盒的女孩，与营地的鬼魂相关（她知道 El Venao、营地、帐篷、招牌锈蚀等）。她给 Alba 打了九只银耳环、拔掉耳环、踢她、做美甲、唱《I long for you, you're forgetting me.》。她自称在消失：「if you forget me, I'll just die. Like everyone else.」章末她站在栏杆上准备跳，触手抓住她并把她拖给 Alba，Alba 在睡梦中吞吃了她。",
+    "Diana": "Alba 的同伴（儿时一起在营地、一起被吓到同床睡几天）。原文明确：「Diana was wrong to think she'd never been happier than she was at Camp La Tortuga Ligera.」（叙述者否定 Diana 的说法）。",
+    "Mom / Dad": "Alba 的父母；妈妈曾在海滩晕倒；爸爸已去世（Alba 的人生流水账中「she lost her dad」）。",
+    "Claire": "饰品店名（Claire's），本章场景所在处。"
+  },
+  "numbers_and_dates": {
+    "verbatim_numbers": [
+      { "text": "12", "range": [0, 2], "note": "章号（文件头）" },
+      { "text": "nine hoops in total, all different sizes, five in one ear and four in the other", "range": [913, 992], "note": "叙述层：耳环总数九只，尺寸各异，左/右各五与四" },
+      { "text": "Nine.", "range": [3297, 3302], "note": "女孩自述：耳环数量九只" },
+      { "text": "In 2005", "range": [4554, 4561], "note": "El Prat 机场扩建穿过 Camp La Tortuga Ligera 的年份" },
+      { "text": "age twelve", "range": [5343, 5353], "note": "Alba 在营地的年龄" },
+      { "text": "Twelve-year-old Alba", "range": [8101, 8121], "note": "第二次指明十二岁的 Alba" },
+      { "text": "for twenty years after that", "range": [8012, 8039], "note": "营地沦为「曾经的营地」后二十年" },
+      { "text": "twenty years longing", "range": [10910, 10930], "note": "Alba 渴望那个括号二十年" },
+      { "text": "three months", "range": [10702, 10766], "note": "营地可暂停烦恼的时长" },
+      { "text": "three months of vacation", "range": [7623, 7646], "note": "鬼魂不再回味「三个月的假期」" },
+      { "text": "on Fridays, without fail", "range": [6642, 6719], "note": "每周五打 bingo" },
+      { "text": "six p.m.", "range": [7156, 7179], "note": "太阳落下的时间" },
+      { "text": "sixty-five-inch TV", "range": [9693, 9711], "note": "Alba 人生流水账中购买的电视尺寸" },
+      { "text": "four perfect ones in a row", "range": [13321, 13347], "note": "女孩连做四个侧手翻" },
+      { "text": "a week", "range": [12167, 12201], "note": "因戳破肚脐而一周不能游泳" }
+    ],
+    "dates": {
+      "explicit_calendar_date": "仅「In 2005」一个明确年份（P53 起 [4554,4592)）。此外只有相对时间：for twenty years after that、twenty years longing、for a while now、A couple days ago。",
+      "implied_present": "2005 + 二十年 ⇒ 约 2025 年当下；原文不直接写明年份。"
+    },
+    "named_entities": [
+      "El Prat（机场）", "Camp La Tortuga Ligera", "Toro Bravo", "La Ballena Alegre",
+      "Cornellà", "L'Hospitalet", "Bellvitge", "Gavà", "El Prat",
+      "El Venao（歌）", "El Último de la Fila（乐队）", "Camela（磁带）", "Victoria（球鞋）", "Caravaca（十字架）",
+      "Claire's（饰品店）", "Switch（手柄）", "Mum/Dad"
+    ]
+  },
+  "open_questions_for_md_check": [
+    "回忆插叙（2005 年 El Prat 机场扩建穿过营地 → 鬼魂继续住在废弃房车/木屋 → 每周五打 bingo → 没水也照跳泳池 → 女孩跳 El Venao → 十二岁的 Alba 晒成古铜）在 md 里是否被写成「现在正在发生」？年代与因果是否与原文一致？",
+    "女孩的三项指控的准确措辞与顺序：①「It's because you're forgetting yourself. The earrings are just the start.」（[3726,3805)）②「The earrings. Camp La Tortuga Ligera. Me.」（[3852,3895)）③「I've started to disappear... There's barely anyone left.」＋「I wish you had disappeared sooner.」（[4020,4201)）。",
+    "耳环数字：叙述层「nine hoops in total, all different sizes, five in one ear and four in the other」（[913,992)）；女孩口述「Nine.」（[3297,3302)）——九 = 五 + 四。",
+    "「Diana 错在以为她从没比在营地更快乐过」是**叙述者对 Diana 的否定**，不是叙述者自己的结论；md 若写成「Alba 承认 Diana 是对的」即为错。",
+    "章末：触手从 **Alba 的腹部**射出（[14557,14590)），Alba 昏倒，触手拖走女孩，**Alba 在睡梦中把女孩吞吃**（[14974,15020)）——不是女孩吞吃 Alba。",
+    "叙述者姓名：原文第一句「Alba came to in the dark」（[7,31)）即点名，故本章可证「Alba/阿尔巴」，非跨章搬运。",
+    "「海／码头／扶梯天桥」场景：女孩不是真的跳下去，她是被触手抓回来的；Alba 明确未看见结局（昏倒）。",
+    "P3–P5 三行短句（thorn 意象）在本章无说话人标记、无上下文，只能作为「疑似歌词/诗行」记，不得当作 Alba 或女孩的台词。"
+  ]
+}

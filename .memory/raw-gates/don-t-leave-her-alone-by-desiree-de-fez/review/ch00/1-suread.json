@@ -1,0 +1,77 @@
+{
+  "chapter": "00",
+  "source": "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch00_prologue.txt",
+  "source_total_chars": 1958,
+  "source_heading": "Prologue, Don't Leave Her Alone",
+  "note": "R1 素读产出（2026-10-21 复核轮）。区间为原文字符偏移 [start,end)，按**单换行**切段（该 text/ 用单换行分自然段，非双换行）。写于阅读任何 md 之前；2026-10-21 17:20 修正：段落区间按单换行口径重算、原文逐字补两处（'like a kick to the face'、'It hurt more than anything else…'）。",
+  "events": [
+    {
+      "id": "E1",
+      "who": "无名女人（本章唯一视角人物，原文未点名）",
+      "what": "在黑暗里醒来，摊在地板上（sprawled across the floor）；灯分阶段亮起（as if someone were rhythmically flipping the switches），很快整间店都亮了；「The brightness was like a kick to the face.」；她重新躺下、闭上眼睛、躺了一会儿。",
+      "range": [31, 323]
+    },
+    {
+      "id": "E2",
+      "who": "无名女人（回忆中的女儿 Brigitte）",
+      "what": "脑中浮起画面：上一次来这里是带着 Brigitte 试戴塑料皇冠（plastic tiaras）；她躲进这段记忆待了一分钟；随后女儿的笑声——那个小小声音哀求要买下半家店（begging to buy half the store）——被一种「令人不适的耳鸣」（an unpleasant ringing）取代。",
+      "range": [325, 599]
+    },
+    {
+      "id": "E3",
+      "who": "无名女人",
+      "what": "撑起身子坐起、鼓足勇气睁眼：成排 tutus 溅满红色（splattered with red）、red-stained 蝴蝶翅膀与毛绒耳罩；她和 Brigitte 会戴着自拍的发饰翅膀、熊形背包、绒球触角，全都覆着已经变硬的血壳（a now-stiff crust of dried blood）；「这景象，就发生在女儿最爱的店里——Brigitte 曾把廉价首饰当成真货」——伤到了她（hurt）；「It hurt more than anything else, more than whatever fate this was.」",
+      "range": [601, 1119]
+    },
+    {
+      "id": "E4",
+      "who": "无名女人",
+      "what": "头痛（Her head was pounding）；差点伸手去摸却停住，怕摸不到它、或者不是完好的它（afraid it wouldn’t be there, or not entirely there）；在女孩们照看芭蕾舞鞋的镜子里看到自己：头还在（Her head was there），但头发结块（matted），脸是一大片深色污迹（a big, dark smudge）；她拖着身体靠近，喘不上气，比以往都虚弱；脸也是带血的；耳朵上全是新耳洞、插满从没见过的新耳环。",
+      "range": [1121, 1896]
+    },
+    {
+      "id": "E5",
+      "who": "无名女人",
+      "what": "数出 nine hoops，大小各不相同，一只耳朵五只、另一只四只；看起来像银的，但不确定，因为一切都结了痂、棕的黑的（scabbed over, brown and black）；「那个她记不起来的预约」必定很长、不卫生、且残忍（The appointment she couldn’t remember must have been long, unhygienic, and cruel.）。",
+      "range": [1121, 1896]
+    },
+    {
+      "id": "E6",
+      "who": "无名女人 + 那个女孩",
+      "what": "听见有人哼唱（someone humming），她转过身，看见了那个女孩（she turned and saw the girl）。——本章到此结束：女孩的身份、店的位置、叙述者是谁，原文均未交代。",
+      "range": [1898, 1958]
+    }
+  ],
+  "characters": {
+    "无名女人": "本章唯一视角人物，原文**不给她名字**（全章只有 she / her）。按全书关系可对应 Alba（ch11/ch12 是同一场景：Claire's 店里、脸上黑红、耳朵新耳环），但**本章原文无据**。",
+    "Brigitte": "她的女儿。本章不出场，只在回忆里：一起试戴塑料皇冠、她的笑声、哀求买下半家店、把廉价首饰当真货、这家店是「女儿最爱的店」。",
+    "那个女孩": "本章末句出现，只闻其声（humming），见面即结束。原文未给出任何身份、年龄或与主角的关系。"
+  },
+  "relations": {
+    "女人 ↔ Brigitte": "母女（her daughter's laughter、with Brigitte、in her daughter's favorite store）。",
+    "女人 ↔ 那个女孩": "原文只写「她转过身，看见了那个女孩」——无对话、无身份、无关系陈述。",
+    "女人 ↔ 店": "店是「她女儿最爱的店」；她与女儿是「一起试戴拍照」的关系。",
+    "女人 ↔ 那场记不起来的预约": "原文只说存在这样一个「她记不起来」的预约，长、不卫生、残忍——**没有说谁做的、是什么性质的预约**。",
+    "谁的血": "原文只说 tutus 溅着 red、翅膀/背包/触角覆着 dried blood，**未指明受害者**。"
+  },
+  "numbers": {
+    "verbatim_numbers": [
+      { "text": "half the store", "range": [515, 530], "note": "女儿哀求要买的量" },
+      { "text": "nine hoops, all different sizes, five in one ear and four in the other", "range": [1594, 1666], "note": "耳环总数 9，两耳 5+4" },
+      { "text": "twenty-three", "range": null, "note": "本段无（二十三个癖好在 ch02）" }
+    ],
+    "dates": {
+      "explicit_calendar_date": "无——本章没有任何日期、星期或时刻；只有相对时间：the last time she’d been here、For a minute。",
+      "seasonal": "无（店的品类是 tutus / 塑料皇冠 / 毛绒耳罩，不构成时间断言）。"
+    }
+  },
+  "open_questions_for_md_check": [
+    "本章**没有**给出叙述者姓名。若 md 在中文层写「戴安娜」或「阿尔巴」，须能指出本章依据——本章没有。",
+    "「那个女孩」在本章无任何可证属性（年龄、红泳衣、银圈耳环要到 ch11/ch12 才出现）——md 若在本章描述女孩的衣着外貌即属跨章搬运。",
+    "「appointment she couldn’t remember」：原文未说是谁做的、什么性质（只有 long / unhygienic / cruel 三个形容词）——md 若写成「穿刺」「手术」等具体事件即属编造。",
+    "耳环是银的吗？原文是「看起来像银，但不确定，因为全结着褐色黑色的痂」——md 若断言「银耳环」而没有「看上去/不确定」的措辞承载，即为加码。",
+    "血是谁的？原文未指明受害者。",
+    "Brigitte「把廉价首饰当真货」是母亲的观察（Brigitte mistook cheap jewelry for the real thing），不是女儿偷窃的指控。",
+    "「她认不出自己的脸」这一说法与原文相反：她照了镜子并确认「Her head was there」，是**认得自己、但脸糊成污迹**。"
+  ]
+}

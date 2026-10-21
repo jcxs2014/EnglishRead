@@ -1,0 +1,220 @@
+{
+  "chapter": "ch07 — Chapter 7",
+  "source": "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch07_chapter_7.txt",
+  "source_total_chars": 3300,
+  "source_total_lines": 28,
+  "source_heading": "7",
+  "note": "本文件在阅读任何 md 之前生成；区间为原文字符偏移 [start,end)，基于 UTF-8 解码后的字符计数；lines 为 `/usr/bin/grep -n` 的行号（含该段首尾行）。引文为原文逐字抄录，含原文的弯引号与省略号。本章原文全文只有 7 个自然段（行 6/9/12/15/18/21/24/27），行 1 的 `7` 是章号。",
+  "events": [
+    {
+      "id": "E1",
+      "who": "Diana",
+      "what": "夜里听见 Brisa 房间的动静，抓起 iPhone 当手电走进女儿房间；蘑菇灯因为她白天忘了充电、比平时早灭，她从门口看见女儿站在床脚的小垫子上、脸朝窗户；因为新搬来不久还没装窗帘，她想到对面公寓能看见女儿的侧影，心里发毛。",
+      "range": [
+        6,
+        659
+      ],
+      "lines": [
+        6,
+        6
+      ],
+      "quote": "Diana heard something in Brisa’s room. She grabbed her iPhone from the nightstand, got up, and went to her daughter, phone flashlight on. They always left the mushroom lamp on, but she’d forgotten to charge it during the day, so that night, it had turned off a bit early. From the door, she could see the girl was standing at the foot of the bed, her feet on the little mat, facing the window. Diana went over to her. Since they’d only moved in recently, they still hadn’t put up curtains. And the mental image of her daughter from the other side of the window, seen from the apartment across the way, unsettled her as much as the sight in front of her."
+    },
+    {
+      "id": "E2",
+      "who": "Diana→Brisa",
+      "what": "Diana 叫 Brisa 回床上，问她是不是要去洗手间；Brisa 没回答。",
+      "range": [
+        662,
+        757
+      ],
+      "lines": [
+        9,
+        9
+      ],
+      "quote": "“Honey, what’s going on? Get in bed.” Brisa didn’t answer. “Do you have to go to the bathroom?”"
+    },
+    {
+      "id": "E3",
+      "who": "Brisa",
+      "what": "Diana 想掰她的肩膀把她转过来时，Brisa 整个人瘫软下去，像被「关机」一样，能量被突然切断；Diana 赶紧弯腰把她抱起来。",
+      "range": [
+        760,
+        978
+      ],
+      "lines": [
+        12,
+        12
+      ],
+      "quote": "When she tried to turn her around by the shoulders, Brisa collapsed. She collapsed as if she’d been deactivated, as if the energy that had kept her standing had suddenly been cut off. Diana quickly bent to pick her up."
+    },
+    {
+      "id": "E4",
+      "who": "Diana",
+      "what": "Diana 跪在地上问 Brisa 是否安好、有没有伤到自己；Diana 看出 Brisa 眼睛睁着其实是睡着的。",
+      "range": [
+        981,
+        1272
+      ],
+      "lines": [
+        15,
+        21
+      ],
+      "quote": "“Are you OK, sweetie? You fell,” she said, kneeling on the floor.\n\n\nBrisa got back on her feet and looked at her worried mother, but she didn’t seem to comprehend her words.\n\n\n“Brisa, are you OK? Did you hurt yourself?” Diana could tell that although her eyes were open, she was fast asleep."
+    },
+    {
+      "id": "E5",
+      "who": "Brisa",
+      "what": "Brisa 站起来、看着担心的母亲，却似乎没听懂母亲的话。",
+      "range": [
+        1049,
+        1154
+      ],
+      "lines": [
+        18,
+        18
+      ],
+      "quote": "Brisa got back on her feet and looked at her worried mother, but she didn’t seem to comprehend her words."
+    },
+    {
+      "id": "E6",
+      "who": "Brisa",
+      "what": "Brisa 真正醒来后只说了一句「I’m thirsty」。",
+      "range": [
+        1347,
+        1401
+      ],
+      "lines": [
+        21,
+        24
+      ],
+      "quote": "It was then that Brisa truly woke up.\n\n\n“I’m thirsty.”"
+    },
+    {
+      "id": "E7",
+      "who": "Diana",
+      "what": "Diana 去厨房端了一杯水，回来时 Brisa 已睡着；她把水杯放在梳妆台上，坐在床边把手放在女儿背上确认她呼吸正常，确认无事后回到自己房间；她试图叫醒 Carlos 讲清经过、说她现在绝对确定 Brisa 是在梦游，但叫不醒那个男人。",
+      "range": [
+        1404,
+        1905
+      ],
+      "lines": [
+        27,
+        27
+      ],
+      "quote": "Diana went to the kitchen for a glass of water, and when she got back, her daughter had fallen asleep. She left the glass on the dresser, sat down at the edge of the bed, and placed her hand on her daughter’s back to make sure she was breathing normally. Seeing that she was all right again, she made her way back to her room. She tried to wake Carlos up to tell him what had happened, to say that now she was absolutely sure Brisa had been sleepwalking, but rousing that man was basically impossible."
+    },
+    {
+      "id": "E8",
+      "who": "Diana",
+      "what": "Diana 回到女儿房间，心里窝火（不公平地）怪 Carlos 整件事都睡死了；她从衣柜里拿了一个孩子的露营睡袋铺在小垫子上，握住 Brisa 的手，Brisa 此时已经翻身趴着。",
+      "range": [
+        1944,
+        2275
+      ],
+      "lines": [
+        27,
+        27
+      ],
+      "quote": "She was still feeling worked up, and angry, if unfairly, that Carlos was out through the whole thing. She wished she could sleep that deeply. She took one of the kids’ camp sleeping bags from the closet, stretched it out on the little mat, and reached up with one hand to hold Brisa’s; her daughter had now rolled onto her stomach."
+    },
+    {
+      "id": "E9",
+      "who": "Diana",
+      "what": "Diana 松开 Brisa 的手，用前臂盖住眼睛；女孩动了，她伸手安抚、把手放回 Brisa 背上，随即胃里一阵紧缩，因为她意识到自己摸到的触感不对：有 Brisa 的体温，却完全不像她的背、甚至不像她的胸。",
+      "range": [
+        2310,
+        2683
+      ],
+      "lines": [
+        27,
+        27
+      ],
+      "quote": "She let go of Brisa’s hand and covered her eyes with her forearm. She lay like that for a few seconds. The girl shifted, and Diana reached back out to soothe her, gently placing a hand on her back. Her stomach then clenched as soon as she realized she didn’t know quite what she was touching. It had the warmth of Brisa, but it felt nothing like her back or even her chest."
+    },
+    {
+      "id": "E10",
+      "who": "Diana",
+      "what": "半明半暗中 Diana 看过去：女儿从腰部以下朝下趴着，但膝盖和脚尖朝着天花板。Diana 跳起来开灯再看——Brisa 的姿势不舒服但不反常，和她以为看到的完全不一样。",
+      "range": [
+        2684,
+        3042
+      ],
+      "lines": [
+        27,
+        27
+      ],
+      "quote": "In the half darkness, with her heart in her throat, she looked. Her daughter was face down from the waist up, but her knees and the tips of her toes pointed toward the ceiling. Diana jumped up and rushed to turn on the light. She looked at Brisa again. She was in an uncomfortable position, but not an unnatural one, nothing like what she thought she’d seen."
+    },
+    {
+      "id": "E11",
+      "who": "Diana",
+      "what": "Diana 站在女儿卧室门口，一只手捂嘴、双腿发抖，不知该怎么办；她到书房拿 AirPods、戴上播客，在 Brisa 身边整夜没睡，Brisa 再没动过。",
+      "range": [
+        3043,
+        3299
+      ],
+      "lines": [
+        27,
+        27
+      ],
+      "quote": "Standing at the door to her child’s bedroom, one hand covering her mouth, legs trembling, she had no idea what to do. She went to the office for her AirPods, put on a podcast, and proceeded to lie awake all night right next to Brisa, who didn’t move again."
+    }
+  ],
+  "characters": {
+    "Diana": "Diana（母亲）：本章全部动作的执行者。听声进房间、开灯查看、抱起瘫软的 Brisa、端水、确认呼吸、去书房取 AirPods 播客并整夜守着。她对 Brisa 的异常既恐惧又试图用「梦游」解释自己（「now she was absolutely sure Brisa had been sleepwalking」），也因 Carlos 全程沉睡而生气。",
+    "Brisa": "Brisa（Diana 的女儿）：本章的异常主体。夜里站在床脚面朝窗户；被掰肩时整个人瘫软；被扶起时睁着眼却处于睡眠状态、不理解母亲的话；真正醒来只说「I’m thirsty」；之后睡着翻身趴卧，被 Diana 摸到体温异常、姿势反常（膝盖与脚尖朝上），但随即被证明只是不舒服的普通姿势；Diana 守夜期间她没再动。",
+    "Carlos": "Carlos（Diana 的伴侣）：本章唯一出场但没有实际动作的人物。Diana 试图叫醒他讲清经过，失败（「rousing that man was basically impossible」）；Diana 因他「整件事都在睡」而生气、羡慕他能睡那么沉。"
+  },
+  "numbers_and_dates": {
+    "verbatim_numbers": [
+      {
+        "text": "one hand",
+        "range": [
+          2204,
+          2212
+        ],
+        "line": 27,
+        "note": "Diana 伸手安抚 Brisa 时用的是一只手（“gently placing a hand on her back”）；另有 “reached up with one hand to hold Brisa’s”"
+      },
+      {
+        "text": "for a few seconds",
+        "range": [
+          2394,
+          2411
+        ],
+        "line": 27,
+        "note": "Diana 盖住眼睛躺着的时间长度"
+      },
+      {
+        "text": "one of the kids’ camp sleeping bags",
+        "range": [
+          2095,
+          2130
+        ],
+        "line": 27,
+        "note": "Diana 拿来铺在地上的睡袋数量与所属：一件孩子的露营睡袋"
+      }
+    ],
+    "dates": {
+      "chapter_time": "本章没有出现任何日期或月份字样；可判断的时间锚点只有「during the day / that night / all night」（第 6 行与第 27 行）。章号行 `7` 是提取件的行首编号，不是叙述内容。",
+      "relative_times": [
+        "during the day（白天忘了给蘑菇灯充电）",
+        "that night（那天夜里蘑菇灯早灭）",
+        "all night（整夜没睡）"
+      ],
+      "long_arc": "本章是「Brisa 夜间异常」这一段的收束章，事件发生在 Diana 一方住所的一间儿童房里；本章不提供日历日期锚点。"
+    }
+  },
+  "open_questions_for_md_check": [
+    "md 若把「Brisa 瘫软」写成 Brisa 自己倒下／坐下／跳下床 → 编（原文是 Diana 掰她肩膀时她 collapsed）。",
+    "md 若把「膝盖和脚尖朝天花板」写成 Brisa 头朝下／倒立／被谁翻转 → 错（原文：face down from the waist up, but her knees and the tips of her toes pointed toward the ceiling；且 Diana 开灯后发现姿势其实是正常的）。",
+    "md 若把 Diana 的手摸到「不像背也不像胸」的触感写成「摸到伤口／血／异物」 → 编（原文只说触感不对，未提血）。",
+    "md 若把 AirPods/播客写成 Diana 用来安抚 Brisa、或写 Brisa 戴着 → 错（原文：She went to the office for her AirPods, put on a podcast，是 Diana 自己戴）。",
+    "md 若把 Carlos 写成「被叫醒后同意去叫医生／起床查看」 → 编（原文：rousing that man was basically impossible，全程没醒）。",
+    "md 若写 Diana「确认 Brisa 是梦游」为客观事实 → 错（原文是 Diana 自己的判断：to say that now she was absolutely sure Brisa had been sleepwalking）。",
+    "md 若把蘑菇灯早灭的原因写成「Brisa 把它关了」 → 错（原文：she’d forgotten to charge it during the day）。",
+    "md 若写「对面邻居看见了女儿」当作已发生的事 → 编（原文只是 Diana 脑中想象的画面：the mental image of her daughter from the other side of the window）。",
+    "md 若写 Diana 回房间拿东西时 Brisa「翻过身」→ 归属要核：原文是 her daughter had now rolled onto her stomach（Brisa 自己翻的），且发生在 Diana 铺睡袋之后、她伸手抚摸之前。"
+  ]
+}

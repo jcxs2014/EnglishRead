@@ -1,0 +1,149 @@
+{
+  "chapter": "14",
+  "source": "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch14_chapter_14.txt",
+  "source_total_chars": 10446,
+  "source_total_lines": 292,
+  "source_heading": "14",
+  "note": "本文件在阅读任何 md 之前生成；区间为原文字符偏移 [start,end)，基于 UTF-8 解码后的字符计数。line 列为 /usr/bin/grep -n 在原文中的行号。原文引文逐字抄录。本章为平安夜当晚 ch11–ch16 这条「同一天的另一侧」中的第 4 章：视角是 Carlos + Juan，场景是 Splau 商场外的草地与车里。",
+  "chapter_date": "2026-12-24 平安夜（epub spine：本章位于「December 24: Christmas Eve」节内，紧接 ch10 之后、ch15 之前）",
+  "events": [
+    {
+      "id": "E1",
+      "who": "Carlos + Diana（远处看见）／Juan（扶着 Alba）／Alba（本人）／Carmen（草地上）",
+      "what": "Carlos 与 Diana 在远处看见他们走来。Juan 脸色苍白、卷起袖子扶着 Alba 的肩膀；Alba 裹在丈夫的深色大衣里显得很小，芭蕾平底鞋在路灯下闪了一下。走近后能看出她走路困难、头发乱成一团、脸被什么深色的东西涂满，浑身是从头到脚的血（已经干成一层抹开的清漆）。Carlos 走过去，眼里含泪吻了吻她的脸颊，一句话没说就冲向车。原文明确：他想问阿尔芭怎么样、想知道情况，但不能让孩子看见她那副样子。",
+      "range": [6, 640],
+      "lines": [6, 9]
+    },
+    {
+      "id": "E2",
+      "who": "Carmen（草地上，被声音惊醒）／Alba／Diana",
+      "what": "Carmen 听见动静睁眼坐起，转头看见小女儿。Alba 被问「你跑哪儿去了」，答「我在 Splau」；被问「你是去拿手柄吗」，她答「是」，从大衣口袋里掏出盒子说「They got a little dirty」。Diana 让她把手柄收起来，理由是别让孩子看见。Juan 在一旁一头雾水：现在最重要的问题难道是她有没有找到手柄？Diana 也不理解，但更习惯母亲和妹妹那套「把一切都扫到地毯底下」的不讲道理逻辑。",
+      "range": [640, 1740],
+      "lines": [9, 27]
+    },
+    {
+      "id": "E3",
+      "who": "Alba／Juan／Diana／Carmen",
+      "what": "Alba 让 Juan 去照看孩子。Juan 说自己不能把她一个人留下。Alba 回「我不是一个人，我和妈妈还有姐姐在一起」——她的平静完全不合情理。Juan 随即指出 Carmen 也不行：她刚才差点失血过多。Alba 问母亲是否还好，Carmen 答「I'm terrific」，Juan 直接点破「你母亲的肚子全撕开了，我不知道该跟医生怎么说」，并看到她的毛衣也沾了血。Diana 点头承认自己也疼过、现在不疼了。Juan 崩溃：三个人得去三家不同的医院，否则连孩子都会被一起关进去。",
+      "range": [1740, 3250],
+      "lines": [30, 67]
+    },
+    {
+      "id": "E4",
+      "who": "Carmen／Diana／Alba／Juan",
+      "what": "Carmen 让 Juan 带上 Carlos 和孩子，还数落他连暖气都调不明白；Diana 顶了一句「你也一样，快去考驾照，你妹妹就考了」。Juan 提议三人分别去不同的医院。Carmen 拒绝：这一一二的事太荒唐，我不去医生那儿，我很好，就是冷，不疼。Juan 不信。毯子之争开始：母亲要毯子，有人指出原来那条（沾满血的）是块沙滩披巾，Alba 说后备箱的格纹大袋子里有毯子。Juan 说你们三个看起来像打完了一场生死战，需要帮助；Alba 说他太烦人，只要一分钟。",
+      "range": [3250, 5100],
+      "lines": [69, 109]
+    },
+    {
+      "id": "E5",
+      "who": "Carmen／Diana／Alba／Juan",
+      "what": "两姐妹在母亲两边坐下。Juan 冷得发抖却不动。Alba 盯着他的眼睛说「我完全没事」并让他去车里暖和，还指出他嘴唇已经发紫。Juan 坚持要看她们的肚子，否则就不走。三个人一起脱大衣、撩起毛衣——原本是皮带一样一条的血肉、往外渗并叫的伤口、时好时坏的裂口、里面住着触手的洞，如今变成了一道精致的疤。三个人腹部有三道一模一样的、银白色的、像被人等它长好后再用亮粉描过的疤。",
+      "range": [5100, 6420],
+      "lines": [111, 138]
+    },
+    {
+      "id": "E6",
+      "who": "Juan／Carlos",
+      "what": "Juan 走回车边，看见孩子们的脸就感到安慰，抓着「一点亮光」努力不让自己哭出来。Carlos 坐在驾驶座上，神情紧绷——他从来没坐过那个位置（ch10 已交代他连车怎么开都不知道，怕误发动引擎而不敢开暖气）。Juan 从副驾车门上车，两人都不说话也不看对方，只看着草地上的三个女人。背景是只吃红色食物的 YouTuber 一家尖利的声音。",
+      "range": [6420, 7600],
+      "lines": [141, 153]
+    },
+    {
+      "id": "E7",
+      "who": "Juan（主）／Carlos（听）",
+      "what": "两个男人下车，Juan 点烟，Carlos 也要了一支——「你什么时候开始抽烟的？」「我九岁就在婚礼上抽第一口。」两人谈到三个女人：她们看起来平静，但肯定累坏了；Juan 说她们的肚子已经不疼了，因为「已经长好了」，但她们脏兮兮的，Alba 尤其惨，浑身是瘀伤和割伤，他还担心她的耳朵——「they're, like, shredded」。Carlos 追问是不是也看了 Diana 的肚子，Juan 说三个人都看了，伤口全都完全合上了。",
+      "range": [7600, 8500],
+      "lines": [156, 201]
+    },
+    {
+      "id": "E8",
+      "who": "Juan（主）／Carlos（听）",
+      "what": "Juan 崩溃地描述发现 Alba 的经过：他在 Mercadona 招牌那边的另一个出口找到她，昏倒在地；不知道她在那里躺了多久，也不知道他们怎么会错过她——孩子们当时就在那边玩。他说「我向上帝发誓，她从腰往上全裸着，浑身是血，肚子上有一个洞。一个洞。圆圆的，里头是黑的。我真希望这是我编出来的，可我不是，我保证我不是。」随后两人互相拥抱。Juan 说洞已经没了、伤口立刻就长好了。",
+      "range": [8500, 9750],
+      "lines": [204, 219]
+    },
+    {
+      "id": "E9",
+      "who": "Juanito（孩子）／Carlos／Juan／Brigitte",
+      "what": "Juanito 探头出车窗喊饿，tablet 的沉默被打破，孩子们吵醒婴儿。Carlos 说不能把三个女人留在那儿，可孩子们也受不了了。Juan 提议自己带孩子回家、让 Carlos 留下。Carlos 恐惧地拒绝：「Don't leave me alone… Alone with them, I mean. I wouldn't know what to do.」Juan 也说不知道。两人回到车上，Juan 提议叫比萨，孩子们欢呼。他们说平安夜九点五十五分，Domino's 营业到十点。",
+      "range": [9750, 10180],
+      "lines": [222, 249]
+    },
+    {
+      "id": "E10",
+      "who": "Juanito／Brigitte／表亲们／Carlos／Juan",
+      "what": "Juanito 问圣诞老人是不是来过、表亲们说看见天上粉色的光（有人觉得更偏紫），Juanito 说那是雪橇上的灯，还问叔叔圣诞老人先去 Barcelona 还是 Cornellà。Juan 打电话订比萨，孩子们关掉 tablet 屏息等待。Carlos 吐槽「你要他们送餐到停在 Splau 旁边的车上？平安夜也能这样？真疯狂。」Juan 答他给了这条街上的地址，自己去接。",
+      "range": [10180, 10446],
+      "lines": [255, 283]
+    },
+    {
+      "id": "E11",
+      "who": "Juan（送餐人）／三个女人／全家",
+      "what": "比萨送到，Juan 付了钱。回车前他绕到三个女人那边，把两份比萨放在她们坐着的地方，一句话也没说。章末两句：那天晚上所有人都吃了 Domino's。这是一种解脱。（注：门口有五个孩子 + 一个婴儿 + 两个男人 + 三个女人；两份比萨给草地上的三个人，份数缺口作者未解释。）",
+      "range": [10232, 10446],
+      "lines": [285, 291]
+    }
+  ],
+  "characters": {
+    "Alba": "胡安的妻子、Juan 的母亲。披着丈夫的深色大衣、芭蕾平底鞋在路灯下闪；浑身是干成清漆的血；自己说「我完全没事」；从大衣口袋掏出手柄盒；肚子上是一道精致的银白色疤。全程镇定得不合情理。",
+    "Carmen": "母亲，躺在草地上。听见动静睁眼、认出小女儿；说「I'm terrific」；催 Juan 去拿毯子；用自己垫头的包当枕头；嫌弃紧急电话荒唐、拒绝去医院、说自己不疼；最后和两个女儿一起撩起毛衣露出疤。",
+    "Diana": "长女。远处和 Carlos 一起看到 Alba；不惊讶于「手柄最重要」的提问（更习惯母亲和妹妹那套扫到地毯底下的逻辑）；顶部嘴说自己也疼过、现在不疼；被母亲数落「你也一样」；和 Alba 一起让 Juan 去拿毯子。",
+    "Juan": "Alba 的丈夫。孩子们的父亲。开车（坐副驾时由 Carlos 开）。困惑于「最重要的是不是找到手柄」；坚持要看三个人的肚子，否则不走；在车边哭诉发现 Alba 的经过；描述「圆圆的、里头是黑的」那个洞；抽烟（九岁在婚礼上第一口）；最后送比萨、放在草地上、一句话也没说。",
+    "Carlos": "Diana 的伴侣、Alba 的妹夫。跑向车前吻了 Alba 的脸颊，一句话没说就离开（怕孩子看见）；坐在从没坐过的驾驶座上；和 Juan 在车边抽烟；不敢一个人留下来和「them」待在一起；问孩子圣诞老人先去 Barcelona 还是 Cornellà。",
+    "Juanito": "Juan 与 Alba 的长子。喊饿、探头出车窗、问圣诞老人是不是来过、催爸爸打电话。",
+    "Brigitte": "Juanito 的表亲（Carlos 与 Diana 的孩子）。问 Juanito 圣诞老人是不是来了。",
+    " cousins": "Juanito 与 Brigitte 及其他表亲（共五个孩子 + 一个婴儿）：说看见天上粉色的光，有人觉得更偏紫。",
+    "Domino's 送餐员": "在平安夜九点五十五分前后把比萨送到这条街；Juan 结的账。",
+    "YouTuber 一家": "背景声：一家只吃红色食物二十四小时的人。"
+  },
+  "numbers_and_dates": [
+    "平安夜（12 月 24 日）晚上九点过后；Juan 在原文明说 9:55，Domino's 营业到 10 点。",
+    "三道一模一样的腹部银白色疤（原文：The three had identical scars on their abdomens）。",
+    "三份伤口的清单：会渗会叫的伤口、会痛不会痛的裂口、里面住着触手的洞。",
+    "两份比萨放在草地上，文中未解释第三份的缺口。",
+    "Juan 九岁在婚礼上抽的第一支烟。",
+    "五个孩子 + 一个婴儿（Juanito 与 Brigitte 都是其中）。",
+    "制服可以是「参加完婚礼就抽烟」——Juan 九岁。"
+  ],
+  "speaker_map": {
+    "method": "本章几乎全是纯对白，说话人靠原文的标签与应答链判定：带 said/asked 的直接标注优先；无标签时用「上一句是谁问、这句是否在回答它」＋「后文指名回指」双证。",
+    "notes": [
+      "毯子之争三句的说话人：:90「Come on, bring us a blanket from the car.」＝Carmen（她躺在草地上、正用包垫头）；:93「What blanket, Carmen? The one we had is covered in blood.」＝Juan（点名问 Carmen）；:96「No, that was a beach wrap.」＝Juan 或 Diana 之一（对上一句的更正，原文无标签）；:99「There's a blanket in the trunk, in one of those big checkered bags we have,\" Alba added.」＝**Alba**（有 added 标签）。",
+      "':39-42 「No. I can't leave you alone.」／「I'm not alone. I'm with my mom and my sister.」'：前句 Juan（后句被 Alba 回），后句 Alba。",
+      "':45「No—I can't leave your mom alone, either.」＝Juan（提到「your mom」＝Carmen）。",
+      "':48「Mom, are you OK?」＝Alba；:51「I'm terrific.」＝Carmen。",
+      "':60「And you feel nothing, either?」＝Juan；:63「It was hurting. A lot, actually. But no, not anymore.」＝Diana（:57「Diana nodded.」紧接其前的问答归她）。",
+      "':81「Let's go. How should we do this?…」＝Juan；:84「Juan, really, this one-one-two thing is ridiculous… I'm fine. I'm cold, but I'm not in any pain.」＝Carmen。",
+      "':87「She's fine, she says.」＝Juan（对 Alba 说的「I'm terrific」的转述）。",
+      "':102「Juan, just go over there for a second, would you?」＝Diana（原文有 asked 标签）。",
+      "':108「Juan, you're being annoying. We just need a minute,」＝Alba（原文有 said 标签）。",
+      "':117「You're not hurting?」＝Juan；:120「We're fine,」the three said in unison.＝三个女人；:126「Seriously, Juan. I feel totally fine,」Alba said.＝Alba。",
+      "':129「Let me see your stomach.」／:132「Go.」／:135「You guys, too. Or I'm staying right here.」＝Juan。",
+      ":141 Carlos was in the driver's seat… He had never sat in the driver’s seat.＝叙述层事实。",
+      ":144「What do you think they're talking about?」＝Carlos；:147「No idea.」＝Juan；:150「What should we do?」＝Carlos；:153「Honestly, I'm not sure,」Juan said.＝Juan。",
+      ":159「Since when do you smoke?」＝Carlos；:162「Since when did I quit, you mean…」＝Juan。",
+      ":180「They look peaceful.」＝Carlos；:183「Yeah. They said they're not in any pain.」＝Juan；:186「But they must be exhausted.」＝Carlos；:189「Not their stomachs, though… I'm worried about her ears.」＝Juan。",
+      ":192「What's wrong with her ears?」＝Carlos；:195「I don't know what happened, but they're, like, shredded.」＝Juan。",
+      ":204「Did you look at Diana's stomach, too?」＝Carlos；:207「Yeah, all three of them.」＝Juan。",
+      ":210「You mean Alba had the same thing?」＝Carlos；:213 Juan 长段自述（有 He looked at Carlos 标签）。"
+    ]
+  },
+  "open_questions_for_md_check": [
+    "md 写「卡洛斯为了不让孩子看到阿尔芭而默默跑去车里」——原文只说他怕孩子看见她那副样子（:9），动机是「不想吓到别人」，没有说是因为孩子看见；**措辞需收**。",
+    "md 写「转头又拒绝胡安的安排…他怕一个人和那三个女人待在一起」——原文 :231「Alone with them, I mean」里的 them 指的是草地上的三个女人（他前面说「We can't leave them here, but the kids are done」），**them ＝ 三个女人成立，但原文并未点明**，md 需按原文口径写。",
+    "md 写「副驾是胡安的位置，他不会开车」——原文只说 Juan 从副驾车门上车（:141）、Carlos 坐在驾驶座上且从没坐过那个位置；ch10 另有「他不知道怎么开车、怕误发动引擎」的证据（ch10:888）。跨章引用需标注。",
+    "md 写「两份比萨，份数留了个缺口，作者不解释缺的那一份给谁」——原文只说「placed two pizzas」，**三女共三人却只有两份确实是个缺口，但作者是否有意不可断言**；md 现有措辞已带「作者不解释」，需确认没有写成「作者故意留白」。",
+    "md 写「母亲说那是沙滩披巾」——原文 :96「No, that was a beach wrap.」**没有标签**，:93 是 Juan 在问、:99 是 Alba 补的话。md 需按「有人指出」写，不能点名给母亲。",
+    "md 写「卡门和戴安娜脱下大衣、撩起毛衣」——原文 :138「Carmen and Diana opened their coats and lifted their sweaters.」**只有 Carmen 与 Diana 两人**，Alba 在这句里没被点名；随后 :138 又说三个人有相同的疤。md 需区分这两处。",
+    "md 写「三个人异口同声地说自己不疼」——:120「We're fine,」the three said in unison. 成立；但「不疼」在 :126 是 Alba 单独说的、:84 是 Carmen 说的。",
+    "md 写「三个女人都在用同一招：不谈伤，只谈毯子和比萨」——「比萨」是 Juan 提的，**三个女人没谈比萨**；需收。",
+    "md 写「胡安从困惑于『最重要的是不是找到手柄』，走到蹲在草地上哭诉」——原文 Juan 是在**车边**（离开车、点烟）哭诉，**不在草地上**；且是站着/靠在车边，不是蹲。",
+    "md 写「结尾用一句『这是一种解脱』卸掉全部重量」——原文 :288「That Christmas Eve, everyone ate Domino's.」:290「It was a relief.」成立。",
+    "md 写「卡洛斯从远远看着阿尔芭走来、只能亲吻之后默默跑开」——「只能亲吻」措辞过头：原文他吻了她的脸颊后**一句话也没说**就跑去车里，没说他「只能」。",
+    "md 一句话总结写「把三个女人按在草地上逼她们承认伤」——**原文没有任何人逼问**；Juan 是「坚持要看」（:129-135），三个女人主动撩起毛衣。**「逼」字与原文冲突**。",
+    "md 一句话总结写「胡安在车边哭诉自己发现阿尔芭的经过」——成立（:213，发生在车边抽烟时）。",
+    "md 写「卡洛斯坐在从没坐过的驾驶座上不敢一个人留下来陪这些孩子」——**原文 them ＝ 三个女人，不是孩子**；本轮已改。",
+    "词汇表 24 条例句须逐条回到本章原文核对（已有脚本 `vocab rows checked=24 not_verbatim=0`）。"
+  ]
+}

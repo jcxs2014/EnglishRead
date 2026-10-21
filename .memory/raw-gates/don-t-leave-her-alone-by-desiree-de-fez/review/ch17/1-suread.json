@@ -1,0 +1,161 @@
+{
+  "chapter": "17",
+  "source": "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch17_chapter_17.txt",
+  "source_total_chars": 18353,
+  "source_file_bytes": 19155,
+  "source_heading": "Chapter 17（文件头仅章号「17」）",
+  "note": "本文件在阅读任何 md 之前生成；区间为原文字符偏移 [start,end)，基于 UTF-8 解码后的字符计数（dump_suread.py 输出）。原文引文逐字抄录。",
+  "events": [
+    {
+      "id": "E1",
+      "who": "Juan / Alba / Diana / Carmen",
+      "what": "没等到出租车，两拨人先后到 Alba 家：第一趟 Juan 带 Carlos 和孩子们；第二趟「sometime after midnight」Juan 回 Splau 接还在床上聊天的 Alba 与 Diana。Alba 和 Diana 起床很容易，是三个人一起把 Carmen 扶起来的——「She’d gotten stiff after so much time in one posture」。三个人站起来后互相打量。",
+      "range": [7, 500]
+    },
+    {
+      "id": "E2",
+      "who": "Diana / Alba / Carmen",
+      "what": "血衣之争：Diana 说「I’ll have to throw out these clothes.」；Alba 反对「Throw them out? No way. This outfit is brand-new.」；Diana 说「Mom, you know bloodstains are impossible to get out. Just look at us.」；母亲 Carmen 教方法：撒一点 baking soda、再 bleach、扔进 prewash，「Or does your machine not have prewash?」；Diana 回「My washing machine has prewash, Mom. It’s the same as yours and Alba’s.」",
+      "range": [503, 914]
+    },
+    {
+      "id": "E3",
+      "who": "Alba / Diana / Carmen / Carlos / Juan",
+      "what": "进门第一眼：半摆好的桌子、银餐具堆在中间、橄榄显得发暗。Carlos 坐在沙发上，脸色苍白、心神不宁，只微微点头致意。婴儿在沙发脚边熟睡（在车里又睡了一觉，还窝在安全座椅里）；能听见其他孩子在某间卧室里玩，声音还算平静。Carmen 连外套都没脱就径直走向女婿。Carlos 抱怨/Carmen 安慰：Carmen 说「Why the long face? You’re always so serious! Cheer up, it’s Christmas Eve!」；Carlos 回「I don’t think it’s such an odd thing, given the day we’ve had.」，声音「a thread」。Juan 在母亲-in-law把血污运动鞋扔进厨房垃圾桶时开口：三个人都该换掉，孩子不能看见你们这样，脏衣服可以放进洗衣机，你们一定累坏了，但洗个澡可能更好。Alba 顶回一句「I’m not exhausted.」",
+      "range": [917, 2033]
+    },
+    {
+      "id": "E4",
+      "who": "Juan / Alba / Diana / Carmen",
+      "what": "Juan 双手捧着妻子的脸仔细查看她被削烂（flayed）的耳朵，不信地哼了一声；接着想去摸她头上有没有伤口或肿块，Alba 轻轻抓住他的手腕制止。Juan 没再追问，只是沿走廊过去把孩子的卧室门关上，一直守在那儿，直到 Diana 和 Carmen 经过（挡住孩子的视线）。Juan 隔门问「Alba, what are you doing?」，Alba 答「Wait a second, I’ll be right there.」",
+      "range": [2070, 2542]
+    },
+    {
+      "id": "E5",
+      "who": "Alba / Carlos",
+      "what": "Alba 上阳台：从口袋里掏出 Switch 手柄，用旁边的毛巾擦干净，放进藏大部分孩子礼物的那个大垃圾袋。站起来时面对老风景：城市灯光、深夜车流稀少的环城路、足球场、巨型广告牌。她「didn’t know when」广告牌换了——一块是 Finestrelles 商场的，另一块是 Splau 的。她家在正中间，离两个购物中心各两个出口。Alba 笑了一下，回屋；随后请 Carlos 看住孩子别上阳台（礼物在那儿），Carlos 回「Don’t worry, I’ve got it.」",
+      "range": [2545, 3319]
+    },
+    {
+      "id": "E6",
+      "who": "Juan / Carlos / 四个孩子（Juanito / Brigitte / Tomás / 婴儿）",
+      "what": "三个女人都进了卧室后，Juan 让她们保证洗干净才出来；他回孩子那边叫他们去客厅看电视，并解释「Santa might pass them by」如果这么晚还在卧室玩。四个孩子抱着「an arsenal of toys」乖乖出去，直到都转过弯，Juan 一直盯着主卧的门确保关着。Juan 跟 Carlos 说要下楼去车里拿没带上来的包，并让他别让孩子进「our bedroom」。孩子们在沙发上折腾：Juanito 抢到遥控器开 YouTube，给妹妹和表亲们放他最喜欢的短视频；「Six or seven videos later」Juanito 笑得嚎叫、Brigitte 对着屏幕跳 twerk。Carlos 低头看着地，很尴尬：说不清是因为「his niece and nephew, so precocious」还是因为看着自己孩子（一個假装会唱他从没听过的歌，另一个扶着家具模仿表亲）的pathos。",
+      "range": [3322, 4846]
+    },
+    {
+      "id": "E7",
+      "who": "Carlos / Tomás / Carmen",
+      "what": "Tomás 说「Put on the baby one」（指跳跳舞宝宝的视频）。Carlos 移开视线看着「the sixty-five-inch screen」，心想这个尺寸太小了，「it had to be more like seventy-five」。视频是 Alba 家里的老经典，老放；「Every time Diana’s family came over, they’d sit through at least three viewings.」它其实是瓶装水的广告：两个大人走在街上，从橱窗里看到自己的倒影变成穿相似衣服的婴儿，跟着「Here Comes the Hotstepper」起舞，婴儿做出这个年龄根本做不到的动作；表亲们跟着跳（女孩在地上、男孩站在沙发上），连 Carlos 都被催眠了。Carmen 穿着睡衣和 Alba 的一件 fleece 睡袍（有点小），头发湿着往后梳，看起来心情不错；孩子们跑过去抱她。Carlos 问她感觉如何，Carmen 说「Fine, fine」，一切都又冷又干，可以吃火腿奶酪，「It’s too bad we didn’t do suckling pig this year, I’d die for some right now.」",
+      "range": [4849, 6403]
+    },
+    {
+      "id": "E8",
+      "who": "Carlos / Juan / Alba / Diana / Carmen",
+      "what": "Carlos：「I’m OK. I’m not hungry—I feel a little off.」并说「Help me clean this up, and let’s get something for the kids, they must be starving.」Alba 拦住母亲：「Mom, don’t even think about doing anything.」两姐妹都湿着头发、穿得几乎一样（毛衣加牛仔裤），Diana 借 Alba 的衣服、裤子略紧；两人脸完全不像：Diana 随母亲 Carmen（棱角分明），Alba 随父亲（圆润），尽管相差六岁、动作神态却像双胞胎。Carlos 觉得「his sister-in-law」哪里不对，最后发现是她放开了马尾——Alba 让头发披下来，好让孩子看不见她的耳朵；她用纱布和胶带处理过耳朵，还吃了止痛药（对她很反常，她一向极力避免用药）；但很疼；她知道明天——就是圣诞节——得去急诊室，而且解释所有伤会很麻烦。",
+      "range": [6406, 7878]
+    },
+    {
+      "id": "E9",
+      "who": "Carmen / Diana / Alba / Juanito / Carlos",
+      "what": "Carmen 坚持「I’ll make the kids some shrimp. It’ll be easy.」；Diana 让她先坐下并开暖气（「it’s freezing in here」）；Alba 说孩子不要虾，Juanito 喊「I do!」；Alba 说「he’s just yelling for the sake of it」、他们已经吃过披萨，问 Diana 想不想吃虾，Diana 说「A little.」；Diana 提议甜的：「It’s almost one in the morning」，「Dried fruit and turrón?」；Carmen 答应但还是想要虾。姐妹俩进厨房，一个做咸菜一个做甜点。Alba 让 Diana 别切太多 turrón（孩子不爱吃），Diana 说「They like the chocolate, don’t they?」，Alba 说昨天已经卖完了；Diana 说自己包里带了几颗 Suchard（「They were giving them away at the store, and if they’re in the house I’ll eat them.」）；Alba 调侃「What, your kids didn’t want them?」Diana 回「They’re sick of sweets.」，Alba 说「Well, aren’t you the world’s best mom.」Carmen 坐到 Carlos 旁边，裹进毯子。",
+      "range": [7881, 9246]
+    },
+    {
+      "id": "E10",
+      "who": "Carmen / Diana / Alba / Carlos",
+      "what": "Carmen 喊「Alexa! Telepasión!」，Diana 说「Mom, that’s not on anymore. It’s too late.」，提议放一部圣诞电影，被否（「Ugh, no. Not one of those.」）。Diana 和 Alba 几分钟内收拾出圣诞夜晚餐：收走玻璃杯和银餐具、把塑料桌布连同还铺着干掉的剩菜的纸盘一起卷起扔掉，桌子折起一半，摆上甜点、坚果和虾；不问谁想喝就自行从冰箱拿出香槟并拿了杯子。Carmen 说「Champagne! I’ll have a little」并朝 Carlos 使眼色；Alba 说要等 Juan 上来开瓶，「I always get scared」，Diana 点头「So do I.」",
+      "range": [9249, 10034]
+    },
+    {
+      "id": "E11",
+      "who": "Juan / Carlos / Alba / Diana / Carmen / 孩子们",
+      "what": "Juan 进门；Diana 与 Alba 坐到 Carmen 两侧，三个人裹着毯子蜷在沙发上，Carlos 觉得自己像打断了母女独处，挪到桌边的椅子。Juan 开香槟，软木塞弹到天花板，孩子们跑来围观；婴儿（睡过了 Juanito 的整场 DJ 秀）醒来跟在后面蹒跚。Juan 像专业调酒师一样倒了五杯（右手握瓶底、左手扶杯，每杯等量）然后传开；他觉得 Alba 还在哺乳却要香槟有点奇怪，但没说什么——她想喝他很高兴。Juan 和 Carlos 举杯无言，彼此都不敢看对方的眼睛。母女三人手挽手喝了「three bottles of champagne」，就着虾看 65 寸电视上的圣诞特别节目；Carmen 反复问 Diana「Doesn’t it look amazing?」，三人评点主持人和乐手的衣着，嘲笑圣诞特别节目总是老派。Carlos 和 Juan 觉得也许该劝她们别喝太多，但不敢吭声；两人装作看电视，其实在试图消化今晚发生的事。Juan 随叫随斟；孩子们回卧室玩，每隔几分钟出来找零食或问 Santa 什么时候来。",
+      "range": [10037, 11978]
+    },
+    {
+      "id": "E12",
+      "who": "Diana / Alba / Carmen",
+      "what": "Diana 问「Do your stomachs hurt?」，Alba 答「Not at all.」，Diana 问「Mom, what about you?」，Carmen 答「Nope, nothing.」Alba 接着问「Mom, how did you keep the octopus from getting out?」Diana 在母亲和姐姐之间来回看。她still没弄明白，但已不重要；她知道自己身处谜团之中，因为「she had the same scar on her belly」，也因为几小时前她差点被劈成两半；她知道到时候自会想明白。",
+      "range": [11981, 12487]
+    },
+    {
+      "id": "E13",
+      "who": "Carmen / Diana / Alba",
+      "what": "Carmen 讲露营地的「阿姨」：当年帮她的是「The girls at the campsite」——Camp La Tortuga Ligera（「What other campsite did we ever go to?」）的「bingo lady and her friends. The women who played bingo at her camper.」；Diana 认出是「My friend Manuel’s mom?」，Carmen 答「Yes, her. And her friends.」Diana 兴奋：「I knew it, Mom! I knew they were doing weird stuff! Were they witches?」；Alba 一头雾水，反而把话题拉回对自己有利的方向：既然当年并不熟，为什么还帮你？Carmen 答：不熟，但她们帮了——不只是她，那年夏天至少还有另外三个女人。Alba 问为什么，Carmen 答：她们想帮、也有能力帮；她们有一种看出谁需要帮忙的本事，会过去问你、然后帮你。Diana 摇头说「Insane.」。Alba 猜「they said you shouldn’t let it out?」被否定：Carmen 说「No, no, of course not. They thought it was best to let them out」，但会听你的理由，若你不想让它们出来就告诉你怎么收住，若已经出来一半就告诉你怎么除掉；无论如何都会帮你，只要不让你陷入危险；她们为那里的女人们做了很多，不止这一件事。Diana 吐槽「They were scaffolding experts.」，Carmen 笑着回「That’s one example, yes.」",
+      "range": [12490, 14111]
+    },
+    {
+      "id": "E14",
+      "who": "Carmen / Diana / Alba",
+      "what": "三人端着香槟杯沉默片刻。Carmen 问 Alba「what was it like?」并说明「The animal. I never saw the whole thing.」Alba 反问「Then how do you know you had it?」Carmen 讲自己那一夏：肚子一直发胀，像怀孕时那样有东西在踢、动；一天早上有东西从肚脐里出来——正是她在沙滩上中暑那天。「You were so scared when you saw the two neighbors dragging me back to the cabin.」她先在沙滩上感到平静，把手臂浸到水里、湿了脖子，再整个人走进水里；随后腹部剧痛，一阵一阵像宫缩；她感到有东西顶住腹部，低头看到一只小小的拳头从里面顶出来，只是泳衣下透出的轮廓；「It hurt like crazy」，最后破出。「Why do you think my belly button’s so ugly?」一条小尾巴从里面出来，左右摇摆，血顺着腿往下流，水里也有血，「It was horrific, absolutely horrific.」Alba 纠正：「It was a tentacle, Mom… I had two.」Diana 听懵：「You had a tail coming out of your belly button, and you had an octopus tentacle? I’m not following.」Alba：「No, not one—I had two.」「Yes, coming out of your belly.」「Tentacles! Shiny tentacles.」「They looked like they were covered in glitter!」Diana：「You had glitter tentacles coming out of your stomach… At Splau.」Alba：「Yes. I had sparkly tentacles! And they moved around, they danced…」Diana：「That’s what happened? You were in Splau with some sparkly tentacles, dancing around?」Alba：「Yes! I swear, Diana… There were these lights inside them and everything.」「What, you think it all sounds crazy?」",
+      "range": [14114, 16352]
+    },
+    {
+      "id": "E15",
+      "who": "Alba / Diana / Carmen",
+      "what": "Alba 的傻笑传染给 Diana 和 Carmen，三人瞬间笑到岔气；Carmen 笑出了眼泪，Diana 用手掌拍沙发、都快流口水；电视声音开得太大，Juan 和 Carlos 什么都没听见，只是目瞪口呆地看着。Alba：「Oh my God, I can’t breathe.」Diana：「Me, neither. I needed that.」（瘫倒一侧，把一点香槟洒在沙发上）。Carmen 突然下令「Quiet, quiet!」；两人惊愕地看她。Carmen 喊「Alexa, play ‘I Dream of You’ by Camela!」Diana：「Mom, that’s not what it’s called!」Carmen：「Of course that’s what it’s called!」Alba 纠正：「Alexa, play ‘Tears of Love’ by Camela.」第一个和弦响起，三人全部站起来跟着哼。Carmen 唱出「I don’t feel her beside me now, can’t hold her or touch her now. She’s not here anymore, she’s not here anymore.」Alba：「Mom, you know the words!」Carmen：「How could I not! You drilled it into me!」Diana：「You played it all summer, Alba. Maybe two summers!」Carmen：「Alexa, louder!」副歌到来，三人互相搂住胳膊大喊「I dream of you—what have you given me? Without your love, I would never have believed. I dream of you—what have you given me? I long for you, you’re forgetting me.」",
+      "range": [16355, 17838]
+    },
+    {
+      "id": "E16",
+      "who": "孩子们 / Carlos / Juan / Carmen / Diana",
+      "what": "孩子跑出来，围着三个女人又唱又跳、绕圈；他们穿着 Primark 的睡袍、头发还湿着、没洗脸，搂着彼此齐唱副歌。Carlos 和 Juan 看呆了。孩子们兴奋极了；从来没人见过他们这么开心、这么满足——尤其是在平安夜。Carmen 喊「Diana!」，Diana 答「What?」，全章最后一句是 Carmen 的一句家常建议：「Why don’t you get an air fryer like the one your sister has?」",
+      "range": [17841, 18353]
+    }
+  ],
+  "characters": {
+    "Carmen": "母亲（Alba 与 Diana 的母亲，Juan 的岳母）。本章穿 Alba 的 fleece 睡袍、睡衣，湿发；平安夜讲 Camp La Tortuga Ligera 的旧事：当年被「bingo lady and her friends」帮忙；讲自己肚脐里长出尾巴/触手那一夏；劝两个女儿穿新衣、喝香槟、点 Alexa 唱歌；最后一句是关于空气炸锅的家常建议。她当年在营地中暑那天肚脐里长出一条会摇的尾巴，血流了很多。",
+    "Alba": "姐姐（比 Diana 大六岁，住在 Splau 的公寓；Juan 的妻子；Juanito 与 Brigitte 的母亲；仍在哺乳）。本章被削烂的耳朵用纱布和胶带处理、吃过止痛药（极反常）、头发披下来遮耳朵；阳台上把 Switch 手柄藏进装礼物的垃圾袋，看到两块广告牌分别是 Finestrelles 商场与 Splau、自己家夹在中间而笑；她本人在 Splau 时肚子上也长过两条「亮闪闪的触手」，会动会跳；点 Alexa 放 Camela 的《Tears of Love》。",
+    "Diana": "妹妹（小六岁；Carlos 的妻子；本章几小时前刚经历生产、差点被劈成两半，肚子上有一道和母亲同样的疤）。血衣、派司、同款毛衣牛仔裤；想扔掉血衣、提议甜点（果干与 turrón）、包里带 Suchard 巧克力；对营地「阿姨」是「My friend Manuel’s mom」；被「三个商场广告牌夹住」等细节触发的联想；末尾被母亲喊名后接到空气炸锅的建议。",
+    "Juan": "Alba 的丈夫、Carmen 的女婿。送 Carlos 和孩子第一趟，回 Splau 接 Alba 与 Diana；要求三位女性换掉血衣；检查 Alba 的耳朵并把孩子的卧室门关上挡视线；让妻子们先洗干净再出来；把孩子赶到客厅看电视并解释 Santa 可能路过；下楼去车里拿包；开香槟、倒五杯；和 Carlos 默默碰杯；与 Carlos 一起装作看电视、实则消化今晚发生的事。",
+    "Carlos": "Diana 的丈夫、Alba 的妹夫（「his sister-in-law」= Alba）。脸色苍白、话少；抱着新生儿（婴儿睡在他脚边的安全座椅里）；和 Juan 并肩坐着，默默碰杯、彼此不敢对视；对孩子们玩 YouTube 尴尬；脑中换算电视尺寸「seventy-five」；注意到 Alba 放开马尾；和 Juan 一起被三个女人笑得呆住。",
+    "Juanito / Brigitte / Tomás / 婴儿": "孩子。Juanito 与 Brigitte 是 Juan 和 Alba 的孩子；Tomás 说「Put on the baby one」；婴儿是 Carlos 与 Diana 的新生孩子（睡在汽车安全座椅里）。孩子们穿 Primark 睡袍、脸没洗、一起唱副歌。",
+    "「阿姨」们（bingo lady and her friends）": "Camp La Tortuga Ligera 的「bingo lady and her friends. The women who played bingo at her camper.」；Diana 认出其中一个是「My friend Manuel’s mom」；她们当年帮过不止三个女人，能看出谁需要帮助。",
+    "Camela": "歌手（被点播的西班牙语歌手；Carmen 记得《I Dream of You》并唱出歌词，Alba 纠正歌名为《Tears of Love》）。"
+  },
+  "numbers_and_dates": {
+    "verbatim_numbers": [
+      { "text": "17", "range": [0, 2], "note": "章号" },
+      { "text": "two shifts", "range": [60, 70], "note": "分两趟（先 Juan 带 Carlos 和孩子，后 Juan 回 Splau 接两位女性）" },
+      { "text": "sometime after midnight", "range": [227, 251], "note": "第二趟时间" },
+      { "text": "three of them", "range": [444, 455], "note": "三个人扶 Carmen 站起来" },
+      { "text": "All three of you should", "range": [1853, 1874], "note": "Juan 要求三个人都换掉血衣" },
+      { "text": "two exits away from each shopping center", "range": [2977, 3013], "note": "Alba 的公寓离两个购物中心各两个出口" },
+      { "text": "Six or seven videos", "range": [4159, 4179], "note": "YouTube 短视频数量" },
+      { "text": "sixty-five-inch screen", "range": [4860, 4882], "note": "Carlos 看着的屏幕尺寸" },
+      { "text": "seventy-five", "range": [4953, 4964], "note": "Carlos 心里觉得该更大" },
+      { "text": "at least three viewings", "range": [5185, 5207], "note": "Diana 一家来时至少看三遍" },
+      { "text": "six years between them", "range": [6900, 6921], "note": "Alba 与 Diana 的年龄差" },
+      { "text": "almost one in the morning", "range": [8530, 8555], "note": "Diana 提议甜点的时间" },
+      { "text": "three bottles of champagne", "range": [11152, 11178], "note": "母女三人喝掉的香槟" },
+      { "text": "five glasses", "range": [10546, 10557], "note": "Juan 倒了五杯" },
+      { "text": "sixty-five-inch TV", "range": [11545, 11562], "note": "看圣诞特别节目的电视尺寸" },
+      { "text": "At least three others that summer alone", "range": [13161, 13195], "note": "营地阿姨们那年夏天帮过的人" },
+      { "text": "I had two", "range": [15402, 15420], "note": "Alba 说自己有两条触手" },
+      { "text": "two summers", "range": [17506, 17517], "note": "Diana 说 Alba 整个夏天放歌（可能两个夏天）" }
+    ],
+    "dates": {
+      "explicit_calendar_date": "无具体年月日；原文只有相对时间：「Christmas Eve」（平安夜，多次）、「sometime after midnight」、「It’s almost one in the morning」。",
+      "tomorrow": "Alba 明知明天是圣诞节仍得去 urgent care（「She knew she’d have to go to urgent care tomorrow—Christmas—」）。",
+      "camp_summer": "往事发生在 Camp La Tortuga Ligera 的「that summer」/「all summer, maybe two summers」，原文未给年份。"
+    }
+  },
+  "key_spatial_detail": {
+    "billboards": "原文：Alba 站到阳台上，面对「the city lights, the ring road with minimal late-night traffic, the soccer field, the giant billboards」，「She didn’t know when, but they’d changed the billboards. One was for the Finestrelles mall and the other for Splau. Her apartment was right in the middle, two exits away from each shopping center.」⇒ 两块广告牌＝Finestrelles 商场 + Splau（同一商场的两种叫法在原文里 Splau 也指地名），她家夹在正中间、离两边各两个出口；她「laughed and went back inside」。"
+  },
+  "final_line": {
+    "text": "Why don’t you get an air fryer like the one your sister has?",
+    "range": [18290, 18353],
+    "speaker": "Carmen（母亲），喊「Diana!」之后",
+    "weight": "全章最后一句是母亲对 Diana 的一句家常建议（买台和姐姐一样的空气炸锅），语气轻、属日常絮语；不是警告、不是揭示、也不是和解宣言。原文此前唯一的「和解」信号是三人搂在一起唱 Camela 的歌。"
+  },
+  "open_questions_for_md_check": [
+    "Alba 与 Diana 谁大：「even with six years between them」；Diana 的脸像母亲 Carmen（棱角），Alba 的脸像父亲（圆）——原文只说六岁之差，没明说谁大；P120 母亲说「You drilled it into me!」（对 Diana）＋ Diana 说「You played it all summer, Alba」暗示 Alba 幼时在营地。",
+    "「the same scar on her belly」（Diana）＝与谁的疤同？上下文是母亲肚脐疤与 Diana 肚子的疤，原文未点名。",
+    "Alba 在 Splau 长过两条触手，是童年（那时她多大）——原文未给年龄。",
+    "「his own children」（Carlos）＝除婴儿外还有谁（原文只给 Tomás 与婴儿两个名字，婴儿睡在 Carlos 脚边安全座椅）——原文未点明 Carlos 的另一个孩子是谁。",
+    "谁说 P30「Help me clean this up, and let’s get something for the kids, they must be starving.」（原文未署名，紧接 Carlos 的 P29）。",
+    "Juan 倒的「five glasses」＝Juan + Carlos + Carmen + Alba + Diana 共五人。",
+    "电视：Carlos 看到的是「sixty-five-inch screen」，他心想「more like seventy-five」；母子三人看电视时原文又写一次「the sixty-five-inch TV」——是同一台电视。"
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "chapter": "05",
+  "source": "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch05_chapter_5.txt",
+  "source_total_chars": 48238,
+  "source_total_lines": 729,
+  "source_heading": "5",
+  "note": "本文件在阅读任何 md 之前生成；区间为原文字符偏移 [start,end)，基于 UTF-8 解码后的字符计数（由 /tmp/dump_suread.py 打印）。line 列为 /usr/bin/grep -n 在原文中的行号。原文引文逐字抄录。",
+  "events": [
+    {
+      "id": "E1",
+      "who": "Diana + Carlos 一家（带 Tomás 与 Brisa 两个孩子）",
+      "what": "到 Alba 家参加 Alba 的生日聚会：客厅永远是玩具与未叠的干净衣物堆成山，角落桌上摆满前菜与高塔状酒杯，圣诞树是孩子们的手工装饰，玻璃门被喷白伪装成雪，窗外有人工剪纸圣诞老人探头张望，墙上挂 65 吋 LG 电视（多数时候放 YouTube 响到最大声）。客厅里有装满的 pimientos、读报的婴儿、玩 Candy Crush 的 Carmen、跳雷鬼的妹妹 Alba。全家对 Diana 一行的到来漠不关心，唯独婴儿跑过来迎接。",
+      "range": [
+        6,
+        6084
+      ],
+      "lines": [
+        6,
+        12
+      ]
+    },
+    {
+      "id": "E2",
+      "who": "Diana（内心）",
+      "what": "为旧三星电视耿耿于怀：Alba 问她的 brother-in-law（Carlos）『What self-respecting filmmaker would watch movies on that old thing?』；那台三星是 Carmen 在 Diana 搬去与前男友同住时送的（more than fifteen years earlier），Diana 有惧新式电视的毛病（画面太锐太亮）。她感到母亲和妹妹把这个玩笑当成另一种指责——她永远差『活在她们那种生活』一步。Diana 与 Carlos 靠自己（无房可继承、无家族生意可倚）住在巴塞罗那市中心，没放弃想要的生活。",
+      "range": [
+        1374,
+        3783
+      ],
+      "lines": [
+        9
+      ]
+    },
+    {
+      "id": "E3",
+      "who": "Carmen / Alba / Diana 三姐妹",
+      "what": "母亲与妹妹有同样的毛病：在准备上花的力气远大于庆典本身；真到了庆祝那一刻，兴奋早已过去，人已经转向下一件事。三个女人都倾向「不在当下」，把自己投射到过去或未来。",
+      "range": [
+        4830,
+        5948
+      ],
+      "lines": [
+        15
+      ]
+    },
+    {
+      "id": "E4",
+      "who": "Juan（Alba 的丈夫，未到场）＋ Carmen",
+      "what": "Juan 打电话来取消午饭（老板让他去见客户），但会赶回来吃蛋糕。Diana 抱怨『Juan isn’t even here? He matters more than us!』；Carmen 说『Quiet. Your sister is furious. Didn’t you see her face?』（此处『your sister』＝Alba），随后以『priorities are priorities』为工作辩护，冲突差点爆发，被 Carmen 喊『Alexa, turn the TV on!』打断。",
+      "range": [
+        9538,
+        10728
+      ],
+      "lines": [
+        90,
+        93,
+        102,
+        114,
+        120
+      ]
+    },
+    {
+      "id": "E5",
+      "who": "Alba 抱着婴儿冲进餐厅＋ Diana",
+      "what": "Alba 喊『We have to go to urgent care. The baby swallowed a euro.』——婴儿是 Alba 与 Juan 最小的一个，四个孩子跟在后面。Diana 判断硬币不可能吞下去，坚持找硬币：Juanito（Alba 最长的儿子）说没看见，是妈妈进来时看见的；Brisa 指向矮柜，上面放着 three euros；最后 Brigitte 趴到婴儿换尿布台底下，摸出一枚裹在灰色毛絮球里的 one euro coin。Diana 把硬币放进姐姐（Alba）手心：『We found it. He didn’t swallow anything.』但 Alba 仍坚持要去急诊。Diana 说钱是『Yesterday Juan’s dad gave each of them two euros』给的；Alba 自己也说不清是四个还是五个欧元（four or five）。",
+      "range": [
+        14200,
+        21138
+      ],
+      "lines": [
+        153,
+        159,
+        183,
+        216,
+        222,
+        243,
+        249
+      ]
+    },
+    {
+      "id": "E6",
+      "who": "Alba（说『It was the evil eye』）＋ Carmen",
+      "what": "Alba 哭着说急诊『too dangerous / full of germs / toxic』，接着说『It was the evil eye. I knew it. Those damn old women.』——即『邪眼』这句话出自 Alba 本人；Diana 难以置信地看向 Carmen，Carmen 回了个脸色求她别追问。Diana 追问母亲，得知前一天在 Finestrelles 有几个总穿黑衣、看着像姐妹的老太太（『The mediums?』——Carmen 确认）找上 Alba，Alba 说其中一个给她下了邪眼；Diana 建议『She should call Juan’s aunt. She believes in that stuff.』（Juan 的姑妈信这套）。原文只说 Juan 的 aunt 相信这些，并未说那两个老太太就是 Juan 的 aunt。",
+      "range": [
+        19749,
+        26109
+      ],
+      "lines": [
+        237,
+        333,
+        336,
+        345,
+        366,
+        375
+      ]
+    },
+    {
+      "id": "E7",
+      "who": "Diana + Carlos（留在 Alba 家）",
+      "what": "Carmen 换衣时 Diana 跟进母亲的房间：母亲丈夫去世后她曾住过 Alba 一阵；房间曾当储藏室，Alba 与 Juan 把它改成客房（折叠床、灯箱上写丈夫的名字加两颗心，下面写 I love you?——本该是感叹号）；Diana 催她别去急诊（『two days before Christmas, when there’s hardly anyone working. You’re going to be waiting for five hours, maybe more.』，四点是最挤的时候），Carmen 坚持。Alba 抱着婴儿、Carmen 牵着另外两个孙子、加上 Juanito 与 Brigitte，共『all five of you』坐 XL 出租车去儿童急诊；Carlos 提议自己去被 Alba 挡回（『it’s better if my mom comes. The kids sometimes get weird with you.』）。Diana 与 Carlos 回家。",
+      "range": [
+        21261,
+        31213
+      ],
+      "lines": [
+        288,
+        300,
+        315,
+        321,
+        441,
+        476,
+        481
+      ]
+    },
+    {
+      "id": "E8",
+      "who": "Carlos 对 Diana 说（关于 Alba）",
+      "what": "Carlos 观察到『Have you noticed your sister goes nowhere alone? She never does anything alone.』并追问『Name one time you’ve seen her alone since the two of us met. It doesn’t happen.』——『your sister』在原文语境里指 Diana 的妹妹 Alba（Carlos 对 Diana 说；Diana 回答『My niece and nephew are like that, too. Since Alba’s never left them alone with anyone…』；Carlos 澄清『No, I mean literally. Your sister is never alone. If she’s not with your mom or the kids, she’s with your cousin or someone else…』）。Diana 早已知道 Alba 从不独处，多年来一直把这件事当秘密藏着，连母亲都没说。",
+      "range": [
+        31216,
+        33578
+      ],
+      "lines": [
+        501,
+        513,
+        531,
+        540
+      ]
+    },
+    {
+      "id": "E9",
+      "who": "Diana（回忆）",
+      "what": "Diana 自述『Six years prior』——恰好是她自己人生低谷、Tomás 出生、恐惧开始增殖的那段时间——她才意识到 Alba 无法独处这件事有多严重；她上网查到 autophobia（独处恐惧症），并开始搜集证据，想证明 Alba 至少从少女时代起就有此症状。Alba 十三岁那年以『窗缝漏冷、脚冻』为由把床垫拖到客厅地板上睡、且声明不打算一个人睡；整个青春期 Alba 都睡客厅地板，Carmen 放弃哄她后整个少女时代每晚躺在沙发上、握着女儿的手睡，父亲独自留在卧室，从未在女儿面前抱怨。Diana 比 Alba 大六岁，曾骂妹妹自私、想说服母亲，觉得这样会闹到父母离婚——但像对着墙说话。",
+      "range": [
+        33581,
+        37234
+      ],
+      "lines": [
+        543,
+        546,
+        549
+      ]
+    },
+    {
+      "id": "E10",
+      "who": "Diana（回忆）＋ Carlos",
+      "what": "家庭画像始终残缺：父亲从不出现在回忆里（照片中也不在场），下班只管挣钱、回避家务与女儿的谈话，电话打来就把她推给 Carmen。Diana 的童年记忆里有 Sant Ildefons 的圣诞市集、银纸做的马槽、逛 Corte Inglés 一整天（Alba 抱玩具、Diana 抱书），以及母亲偶尔说服父亲开车去 Castelldefels 高速旁 Pryca 采购。『about six months prior』——她打椎间盘突出的硬化剂那天凌晨（要去医院六点半），她在自家浴室闻到浓烈烟味，断定父亲来了；她上屋顶确认空无一人，回浴室坐在马桶盖上半小时，觉得父亲终于找到了跟她沟通的方式，喊出『Damn it, Dad.』。Carlos 说 Diana 的妈妈照样会去急诊；Diana 说『I can’t believe in March it’ll be two years since he died.』——父亲死于两年前的 3 月。Carlos 点破母亲总在 Diana 身上找茬是因为『You broke with the family tradition. You left the neighborhood.』。",
+      "range": [
+        43461,
+        48033
+      ],
+      "lines": [
+        612,
+        615,
+        618,
+        636,
+        642,
+        700,
+        714
+      ]
+    }
+  ],
+  "characters": {
+    "Diana": "视角人物。纪录片导演/电影人，与 Carlos 住在巴塞罗那市中心，两个孩子（Tomás、Brisa）。Carmen 与已故丈夫的长女。**比 Alba 大六岁**（:549 『who was six years older than Alba』），即长姐，Alba 是妹妹。她与 Alba 之间有『从不独处』的十年旧账；父亲去世约两年。",
+    "Alba": "Diana 的**妹妹**（小六岁）。母亲 Carmen 的小女儿，Juan 的妻子，三个孩子（Juanito 最长、Brigitte、最小的婴儿；本章在场者还有 Diana 的两个孩子 Tomás 与 Brisa）。摄影出身，怀孕第一胎后辞职做全职妈妈；生日当天因婴儿『吞下一枚一欧硬币』坚持去儿童急诊，并说『It was the evil eye』；十三岁起把床垫拖到客厅地板睡，的个青春期睡客厅，母亲每晚睡沙发陪她。",
+    "Carmen": "两人的母亲。做过十二年在 Sarrià 帮富人家跑腿的活，婚后搁置；丈夫是卡车司机（已故）。待人接物用准备代替陪伴；对 Alba 过度保护，Alba 住她房间；本章坚持陪 Alba 去急诊。",
+    "Carlos": "Diana 的丈夫，纪录片导演，本章唯一一次主动点出『你的妹妹从不独处』的人。对 Diana 家的盲区是『his partner's family』。",
+    "Juan": "Alba 的丈夫，房地产中介，本章因老板要他去见客户而缺席午饭（会来吃蛋糕），并与 Alba 一起把母亲的房间改成客房。",
+    "Juanito": "Alba 最长的儿子；说没看见婴儿吞硬币，是『my mom did when she came in』。",
+    "Brigitte": "Alba 的女儿，在换尿布台底下找到那枚一欧硬币。",
+    "Brisa": "Diana 的女儿（在场孩子之一），指出矮柜上有三枚欧元、也检查过 Kinder 蛋的黄色胶囊。",
+    "Tomás": "Diana 与 Carlos 的儿子，约六年前出生（与『Six years prior』同时），Carmen 施压让他们搬回 Cornellà 就是在他出生时。",
+    "Diana 与 Alba 的父亲（已故）": "Carmen 的丈夫、两人的父亲，卡车司机，退休后 Diana 认为他重度抑郁；死于两年前的 3 月；生前每天两包烟，从不在女儿面前出现；有一回在 Diana 婚后的浴室留下烟味（她认为那是父亲来过的痕迹）。",
+    "Juan 的 aunt": "Diana 提到应该给 Juan 的姑妈打电话，因为她信这套（邪眼/通灵）——原文未说 Finestrelles 那两个穿黑衣的老太太就是她。",
+    "两个穿黑衣的老太太（the mediums）": "前一天在 Finestrelles 找上 Alba，Alba 说其中一个给她下了邪眼；Carmen 称她们『the mediums』。"
+  },
+  "numbers_and_dates": {
+    "verbatim_numbers": [
+      {
+        "text": "sixty-five-inch LG television",
+        "range": [
+          1249,
+          1278
+        ],
+        "line": 6,
+        "note": "Alba 家墙上的电视"
+      },
+      {
+        "text": "more than fifteen years earlier",
+        "range": [
+          1860,
+          1891
+        ],
+        "line": 9,
+        "note": "Carmen 送 Diana 三星电视的时间"
+      },
+      {
+        "text": "twelve years running errands for wealthy families in Sarrià",
+        "range": [
+          11562,
+          11621
+        ],
+        "line": 147,
+        "note": "Carmen 婚前的工作年限"
+      },
+      {
+        "text": "Yesterday Juan’s dad gave each of them two euros",
+        "range": [
+          15274,
+          15322
+        ],
+        "line": 159,
+        "note": "每个孩子两欧"
+      },
+      {
+        "text": "three euros lay in a corner",
+        "range": [
+          17216,
+          17243
+        ],
+        "line": 183,
+        "note": "矮柜上的三枚欧元"
+      },
+      {
+        "text": "a one euro coin",
+        "range": [
+          18916,
+          18931
+        ],
+        "line": 216,
+        "note": "换尿布台下找到的硬币"
+      },
+      {
+        "text": "four or five",
+        "range": [
+          20296,
+          20308
+        ],
+        "line": 243,
+        "note": "Alba 说不清一共几枚欧元"
+      },
+      {
+        "text": "forty degrees",
+        "range": [
+          8482,
+          8495
+        ],
+        "line": 66,
+        "note": "室外气温"
+      },
+      {
+        "text": "two days before Christmas",
+        "range": [
+          24475,
+          24500
+        ],
+        "line": 315,
+        "note": "急诊在平安夜前两天"
+      },
+      {
+        "text": "five hours, maybe more",
+        "range": [
+          24569,
+          24591
+        ],
+        "line": 315,
+        "note": "预计候诊时长"
+      },
+      {
+        "text": "At four p.m.? That’s when everyone goes.",
+        "range": [
+          24644,
+          24684
+        ],
+        "line": 321,
+        "note": "急诊最挤的时段"
+      },
+      {
+        "text": "It’s three something already",
+        "range": [
+          10858,
+          10886
+        ],
+        "line": 135,
+        "note": "下午三点多还没吃午饭"
+      },
+      {
+        "text": "It’s past four o’clock",
+        "range": [
+          37677,
+          37699
+        ],
+        "line": 567,
+        "note": "Carlos 抱怨时已过四点"
+      },
+      {
+        "text": "six years older than Alba",
+        "range": [
+          36427,
+          36452
+        ],
+        "line": 549,
+        "note": "Diana 是长姐"
+      },
+      {
+        "text": "Six years prior",
+        "range": [
+          33771,
+          33786
+        ],
+        "line": 543,
+        "note": "Diana 察觉 Alba 病症的时间点（与 Tomás 出生同时）"
+      },
+      {
+        "text": "Alba had been thirteen then",
+        "range": [
+          34856,
+          34883
+        ],
+        "line": 546,
+        "note": "Alba 开始睡客厅地板的年龄"
+      },
+      {
+        "text": "about six months prior",
+        "range": [
+          43612,
+          43634
+        ],
+        "line": 615,
+        "note": "父亲在浴室留下烟味的时间点"
+      },
+      {
+        "text": "in March it’ll be two years since he died",
+        "range": [
+          46466,
+          46507
+        ],
+        "line": 642,
+        "note": "父亲死于两年前的 3 月"
+      },
+      {
+        "text": "over a decade",
+        "range": [
+          32099,
+          32112
+        ],
+        "line": 531,
+        "note": "Diana 与 Carlos 相识十余年"
+      },
+      {
+        "text": "All five of you",
+        "range": [
+          28421,
+          28436
+        ],
+        "line": 441,
+        "note": "去急诊的五个人"
+      },
+      {
+        "text": "four of them",
+        "range": [
+          17497,
+          17543
+        ],
+        "line": 189,
+        "note": "一起回答 Diana 的四个孩子"
+      },
+      {
+        "text": "two packs a day",
+        "range": [
+          44394,
+          44409
+        ],
+        "line": 615,
+        "note": "父亲从她小时候起每天两包烟"
+      },
+      {
+        "text": "six thirty",
+        "range": [
+          43841,
+          43851
+        ],
+        "line": 615,
+        "note": "医院预约时间"
+      },
+      {
+        "text": "four in the morning on a Tuesday",
+        "range": [
+          44834,
+          44866
+        ],
+        "line": 618,
+        "note": "浴室烟味那晚的时间"
+      },
+      {
+        "text": "All three of you",
+        "range": [
+          37519,
+          37535
+        ],
+        "line": 567,
+        "note": "Carlos 说的『你们三个』（Carmen、Alba、Diana）"
+      }
+    ],
+    "dates": {
+      "chapter_time": "Alba 的生日聚会当天；平安夜前两天（:315 two days before Christmas）；原文提到『Santa is coming tomorrow』（:195 附近）⇒ 平安夜当天聚会。下午三点多到场、已过四点仍未吃午饭；室外 40 度。",
+      "relative_times": "『Yesterday』出现三次：①Juan 打电话取消午饭前一天，Alba 曾坚持让他们来；②前一天在 Finestrelles 有两个老太太找上 Alba 说她被下了邪眼；③Juan 的爸爸前一天给了孩子们每人一欧（各两欧）。",
+      "long_arc": "父亲死于两年前的 3 月（:642）；Diana 六年前（Tomás 出生时）察觉 Alba 从不独处；Diana 约六个月前在自家浴室闻到父亲的烟味；Diana 与 Carlos 相识十余年；Carmen 守寡后『more than two years』一直带着那种不安（:288 附近，指不安情绪的时长，不是死亡时间）。"
+    }
+  },
+  "open_questions_for_md_check": [
+    "『你的妹妹从不独处』——Carlos 说的『your sister』是谁？原文语境：Carlos 对 Diana 说，Alba 是 Diana 的妹妹（:549 Diana 大六岁）；Alba 才是从不独处的人（:501/:513 + :540『Diana knew Alba was never alone』）。md 若写成『Diana 从不独处』即为归属反转。",
+    "『六年前』指哪件事？原文有两处 six years：:543『Six years prior』（Diana 察觉 Alba 无法独处，恰逢 Tomás 出生）与 :549『six years older than Alba』（Diana 比 Alba 大六岁）。md 的情感弧线把『六年前』系在哪一个上，须逐一核。",
+    "块 4 的『这是邪眼』是谁说的？:237 出自 Alba（她哭得更凶并说『It was the evil eye. I knew it.』），Diana 只是看向 Carmen 不敢追问。",
+    "块 8 的『父亲留在浴室里的烟味』：是 Diana 六个月前（打椎间盘硬化剂那夜、周二凌晨四点、婚后的自家浴室）的记忆与感受；父亲是 Diana 与 Alba 的父亲、Carmen 的丈夫，卡车司机，去世两年（3 月），生前每天两包烟。",
+    "『你妹妹从不独处』是 Carlos 对 Diana 说的，不是叙述者转述，也不是 Diana 说自己。",
+    "硬币与急诊：一欧硬币是 Brigitte 在换尿布台下找到的；Alba 坚持去的是儿童急诊（kids’ urgent care），平安夜前两天、约下午四点去、预计等五小时；Juan 的爸爸「昨天」给每个孩子两欧（Alba 自己说不清总数是四还是五）。",
+    "「Juan's dad」（:159）与「Juan 的父亲是卡车司机且已去世」（:147、:642）之间在原文内部本就不自洽（原文自身的问题，非 md 的错）；md 若把它写成『Diana 已故的父亲昨天给了钱』即为编。",
+    "『Juan 的姑妈信这套』（:375）≠『Finestrelles 那两个穿黑衣的老太太就是 Juan 的姑妈』——原文只说前者；后者是推断，md 若当成事实即为编。",
+    "母亲年轻时照顾 Alba 的细节：Alba 十三岁起每晚把床垫拖到客厅地板睡；Carmen 放弃劝说后，整个少女时代每晚睡在沙发上、握着女儿的手，把丈夫独自留在卧室。md 若把『陪伴者』写成 Diana 或父亲即为施事反转。"
+  ]
+}

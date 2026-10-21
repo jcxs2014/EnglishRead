@@ -1,0 +1,299 @@
+{
+  "chapter": 14,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch14 chapter 14.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch14_chapter_14.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "She was covered head to toe in blood, or what had once been blood and was now a smeared varnish. Carlos walked toward hi",
+          "ok": true,
+          "pos": 666
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Juan was baffled. Was that really the most important question right now—whether she’d found the Switch controllers? Dian",
+          "ok": true,
+          "pos": 1416
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Are you bringing the blanket or what?” Carmen asked. She shook the bag she’d been resting her head on, readjusting it t",
+          "ok": true,
+          "pos": 3860
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Carmen and Diana opened their coats and lifted their sweaters. Where there had been a sash of flesh and blood—an open wo",
+          "ok": true,
+          "pos": 4716
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Juan walked back toward the car. As he got closer, he felt comforted seeing the children’s faces inside. He held on to t",
+          "ok": true,
+          "pos": 5136
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“She was completely naked from the waist up, covered in blood, with a hole in her belly. A hole. Round and dark inside. ",
+          "ok": true,
+          "pos": 7155
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Then, before he returned to the car, he made his way over to the three women and placed two pizzas where they were sitti",
+          "ok": true,
+          "pos": 9747
+        }
+      ],
+      "words": 30
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 151,
+        "读者视角提示": 89
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 134,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 123,
+        "读者视角提示": 97
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 173,
+        "读者视角提示": 68
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 155,
+        "读者视角提示": 128
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 133,
+        "读者视角提示": 143
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 120,
+        "读者视角提示": 107
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.87
+      }
+    }
+  ],
+  "form": {
+    "h1": "14. Chapter 14",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 7.5,
+    "block_range": [
+      5,
+      8
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 7,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 7,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1845,
+    "block_target": [
+      3,
+      6
+    ],
+    "block_hint": "块数 7 偏离本章篇幅建议 3–6（本章 1845 词）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [
+      {
+        "block": "原句1",
+        "kw": "covered head to toe in blood · a smeared varnish · without a",
+        "words": 14
+      },
+      {
+        "block": "原句2",
+        "kw": "the most important question right now · the nonsensical logi",
+        "words": 16
+      },
+      {
+        "block": "原句3",
+        "kw": "Are you bringing the blanket or what? · readjusting it to ma",
+        "words": 25
+      },
+      {
+        "block": "原句4",
+        "kw": "a sash of flesh and blood · a gaping hole that housed tentac",
+        "words": 20
+      },
+      {
+        "block": "原句5",
+        "kw": "he felt comforted · that bit of light · trying hard not to b",
+        "words": 15
+      },
+      {
+        "block": "原句6",
+        "kw": "completely naked from the waist up · Round and dark inside ·",
+        "words": 16
+      },
+      {
+        "block": "原句7",
+        "kw": "placed two pizzas where they were sitting · He did it withou",
+        "words": 21
+      }
+    ],
+    "hole": [],
+    "block_count": []
+  }
+}
