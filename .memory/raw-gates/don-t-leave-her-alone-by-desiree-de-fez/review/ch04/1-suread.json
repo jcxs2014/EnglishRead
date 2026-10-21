@@ -1,0 +1,578 @@
+{
+ "chapter": "04",
+ "source": "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch04_chapter_4.txt",
+ "source_total_chars": 24436,
+ "source_total_lines": 373,
+ "source_heading": "4",
+ "note": "本文件在阅读任何 md 之前生成；区间为原文字符偏移 [start,end)，基于 UTF-8 解码后的字符计数（由 python3 读原文后计算）。line 列为 /usr/bin/grep -n 在原文中的行号。原文引文逐字抄录。",
+ "events": [
+  {
+   "id": "E1",
+   "who": "Diana（叙述层·本章开篇）",
+   "what": "交代 Diana 公寓的极端秩序感：满墙书架、书架全是她嫌廉价并引以为耻的便宜书架；她梦想买实木定制书架，每次搬家都查价并咨询专业搬家公司报价，但钱永远不够，上次搬家放弃了雇专业人员，她靠门框笑得浑身发抖，公司代表和 Carlos 都不知所措。几年前一位有名望的文学经纪人说 IKEA Billy『they were simply the best in the world』，从此她以自己的书房为荣——书和承载它们的家具一起，已破旧、盖满被反复标记拆装的永久污渍。书架、书、衣服、装框海报是她与 Carlos 在巴塞罗那市中心三套公寓的基本陈设；第一个孩子出生后还添了很多玩具。",
+   "range": [
+    6,
+    1501
+   ],
+   "lines": [
+    6
+   ]
+  },
+  {
+   "id": "E2",
+   "who": "Carlos（进门）＋ Diana",
+   "what": "下午一点左右 Carlos 回家，公寓闷热（『Wow, it's hot in here. Are you blasting the heat?』）。Diana 不午睡，只是躺着；压力大时她只能洗澡或假装休息。那天来不及吹干头发就得出接孩子，所以没洗澡；半小时前她因沉迷 WhatsApp 毁了上午而自责躺下、连头蒙进被子；前一天迟到 Brisa 演出的愧疚也压着她。她认得 Carlos 开三道锁的顺序与速度，庆幸自己没挂链条锁，所以不用起来开门。Carlos 进卧室在床沿坐下不开灯、假装叫醒她（从他呼吸就知道她完全醒着），耳语问『You OK?』。Diana 立刻转身、揉眼、笨拙地伸懒腰打哈欠；她曾对朋友假装发烧或偏头痛，编造在公交或街上头晕的故事，不是为了被关注，而是觉得自己的疲惫不像别人那样外显；她常说『I'm not strong, I'm resistant.』。",
+   "range": [
+    1503,
+    4787
+   ],
+   "lines": [
+    9,
+    12,
+    15,
+    18,
+    21
+   ]
+  },
+  {
+   "id": "E3",
+   "who": "Diana（宣布）＋ Carlos（追问）",
+   "what": "Diana 猛地坐起说『I have to go to Cornellà.』。Carlos 问『Aren't we going tomorrow?』，她答明天也去但今天必须去，因为要聚 Alba 的生日会：Alba 昨天邀了她、她当时想推掉，但今天早上 Alba 因为她还没说 happy birthday 而生气，她现在觉得自己非去不可。昨晚她和表亲熬到午夜才睡，本该那时就打电话道贺，但表亲先说了 happy birthday。",
+   "range": [
+    4789,
+    5776
+   ],
+   "lines": [
+    24,
+    27,
+    30,
+    33,
+    36,
+    39,
+    42,
+    45,
+    48
+   ]
+  },
+  {
+   "id": "E4",
+   "who": "Diana ＋ Carlos",
+   "what": "Diana 认定第二天是平安夜，两件庆典撞在一起不吉利（『Because tomorrow is Christmas Eve, and celebrating two things at once is bad luck.』），两个庆典会互相抵消。她要求必须去吃午饭，不能只买蛋糕（她试过说只来吃蛋糕，但行不通）。Carlos 提出自己接孩子带去公园，她说不行；学校寒假半天课，下午 1:45 放学，而现在已经一点二十五。",
+   "range": [
+    5778,
+    6528
+   ],
+   "lines": [
+    51,
+    54,
+    57,
+    60,
+    63,
+    66,
+    69,
+    72,
+    75,
+    78,
+    81,
+    84,
+    87
+   ]
+  },
+  {
+   "id": "E5",
+   "who": "Diana（叙述）",
+   "what": "送孩子上学时她明明清楚看见他们进了校门（Brisa 和朋友 Valeria 一起进去、Brisa 回头用手比了个小心；Tomás 被『that terrible woman who's always at the entrance』训斥迟了三分钟），画面清清楚楚，可回家一路仍忍不住怀疑自己分心、Brisa 没进去，几乎无法呼吸；她差点给学校打电话让他们查一下，忍住了，怕别人觉得她疯了（『Honestly, I don't know why this keeps happening.』）。",
+   "range": [
+    6530,
+    7378
+   ],
+   "lines": [
+    90,
+    93,
+    96
+   ]
+  },
+  {
+   "id": "E6",
+   "who": "Carlos ＋ Diana",
+   "what": "Carlos 说上午看见她打电话但没接到。Diana 说昨晚 Brisa 的演出一塌糊涂——『The whole time she had her crown down over her eyes. It's burned into my memory.』；Carlos 笑她不可理喻，问为什么老师 Teresa 不说一声；Diana 说也许说了、老师们压力都很大。她说『I almost died watching the video this morning.』——原来学校已把演出视频发到网上，拍摄者『zoomed in seventies-style』；她追问『did they have it out for her?』（针对那段荒诞的歌）。Carlos 打趣后，Diana 归咎于自己：早该知道不该用直发器（『Fucking straightener. Why does this happen to me?』）。",
+   "range": [
+    7380,
+    8547
+   ],
+   "lines": [
+    99,
+    102,
+    105,
+    108,
+    111,
+    114,
+    117,
+    120,
+    123,
+    126,
+    129,
+    132,
+    135,
+    138,
+    141,
+    144,
+    147,
+    150
+   ]
+  },
+  {
+   "id": "E7",
+   "who": "Carlos ＋ Diana",
+   "what": "Carlos 劝她回去看心理医生；Diana 说再来一张账单就得靠白米饭过活。Carlos 说下次拿不准就直接打给学校、让学校确认她在，『Yeah, sure, Oh, it's just that crazy mom again.』；Diana 反驳自己明明看见她进去了（『I did see her go in, though! I watched it happen!』）；她跟老师说 hi 也说了，Carlos 则说前台的人没理由知道情况（『somebody else has to be answering the phone, right?』）。",
+   "range": [
+    8549,
+    9170
+   ],
+   "lines": [
+    153,
+    156,
+    159,
+    162,
+    165,
+    168,
+    171
+   ]
+  },
+  {
+   "id": "E8",
+   "who": "Carlos ＋ Diana",
+   "what": "Carlos 问现在几点、说一点二十该走了；两人互相确认来得及。Carlos 抱怨真要去 Cornellà 太折腾（『You're killing me.』），Diana 说她没力气争（『I have the energy to argue with her. I get so tired.』），Carlos 追问她为什么从不拒绝妹妹，Diana 答『It means a lot to her. And it's her birthday. It's normal.』。",
+   "range": [
+    9172,
+    9561
+   ],
+   "lines": [
+    174,
+    177,
+    180,
+    183,
+    186,
+    189,
+    192
+   ]
+  },
+  {
+   "id": "E9",
+   "who": "Carlos（叙述层）＋ Diana",
+   "what": "Carlos 的整段独白：他知道坚持也没用，因为坚持只会让他坐蓝线去 Sant Ildefons；他不明白为什么 Diana 或家里没人敢质疑 Alba 单方面、不顾他人感受与所需付出的决定。他看得很清楚 Alba 在挟持 Carmen 并恐吓其余的人；每次跟 Diana 说都一样——她抱怨妹妹的苛刻、说受够了，他附和她、给她找证据，指出 Alba 的要求不正常、Diana 不能总被随叫随到、母亲不该二十四小时伺候、这种程度的顺从对母亲和 Alba 都一样糟糕。可一旦他搜索例证，支持自己的冲动就转成指责自己的内疚：Carlos 是独生子、几乎不与父母来往，常待在家庭动荡的边缘，只在直接严重影响他时才介入，这正是他的软肋。他有时批评自己的妻妹，自称不是恶意而是建设性的；**他会告诉 Diana 她妹妹做得不对**；他会提醒她如果妹妹不那么占有、母亲能把时间分给两个女儿，会省下多少钱和精力，母亲有自己的时间、空间和在 Alba 之外的生活的权利。Diana 也有同感，但一旦察觉 Carlos 要她正面摊牌，她就倒戈，用站不住脚的理由为妹妹辩护，忘了是自己先提起、也是自己最受不了——Carlos 暂时成了坏人。",
+   "range": [
+    9563,
+    12185
+   ],
+   "lines": [
+    195
+   ]
+  },
+  {
+   "id": "E10",
+   "who": "Diana + Carlos 一家四口",
+   "what": "两人都不开车，讨厌带孩子坐长途公共交通；想打车但太贵，而且女儿一上车两分钟就吐（只在去 Cornellà 的路上会吐，去别处通常没事）。下午两点，四人坐在 5 号线车厢的午餐高峰里：Carlos 读书、应付孩子不过分的要求（孩子们刚在学校吃过午饭，肚子饱、脸红、相对安静，各拿父母一部 iPhone）；Diana 对面坐着，明显不堪重负——羽绒服在陌生人之间装箱 awkward，她怕冷、冬天穿发热内衣却忘了脱，背着自己的包、孩子的背包、塞着手工画本和学期末作业（封面用干意面和亮粉装饰），膝间夹着妹妹礼物的托特包，自知 Alba 会看出是最后一刻买的；她脸红、牛仔裤太紧、腿像喝酒后那样疼，提醒她胖了。她自述两年来吃得极差（不是不吃就是吃错时间），工作二十年来第一次让她担心自己对现实套用了虚构的评判标准。",
+   "range": [
+    12187,
+    15009
+   ],
+   "lines": [
+    198,
+    204,
+    207
+   ]
+  },
+  {
+   "id": "E11",
+   "who": "Diana（叙述层）",
+   "what": "工作线：自由职业早已不足以覆盖账单，她讨厌为少得可怜的费用寄发票、讨厌支出像钟表一样准时而付款随心情来、讨厌整个上午耗在记账软件上、把本该留作税款的钱花掉后不知怎么缴税；她讨厌用一张卡还另一张卡、讨厌靠负一千欧生活；她无法过滤真正重要的事，专注与精力最终变成焦虑，且没有可分心的事；她说自己的脸枯萎了、皱纹一下子全冒出来。**nothing exhausted her more than the metro trip to her mom's or her sister's**——她不是对长大的地方有创伤联结，她二十七岁离开那里，已成年；她喜欢自己的街区但不喜欢回去，连只是拜访都不喜欢；每过一站力气都被抽走、腰带勒紧；Around Sants Estació, she had to unfasten her pants just to keep breathing；胃里一阵锐痛（像饿又不同）；孩子的画本掉地上，她没站起来就扑身捡起，血涌上头，直起身时旁边老头咂嘴。",
+   "range": [
+    15011,
+    16992
+   ],
+   "lines": [
+    210
+   ]
+  },
+  {
+   "id": "E12",
+   "who": "Diana（视角）＋ 持刀年轻人",
+   "what": "她一秒都不移开地看着孩子——在拥挤场合无法放松，担心他们走失、受伤、被绑架，满脑子预想危险；因为筋疲力尽且知道 Carlos 看着，她才分神去看别人的穿着与读物。**目的地前五站**，两节车厢外一个年轻男人进来，手里有东西在有节奏地动。Diana 近视，从不戴隐形（怕塞不进或弄伤眼睛、又嫌戴眼镜不好看），远处视野模糊；她眯眼看像是**一把刀**；她想找周围人的目光确认，没人回看（都在低头看手机）；她手抖着在包里摸眼镜。戴上后确认是刀：年轻人在找自己的倒影，**他穿着短袖而当时是冬天，双臂布满伤口、有几处是敞开的，纹身部分遮住它们，但伤口是新鲜的**；他正灵巧地在指间滑刀；她想看清他的脸时他转身直视她——皮肤晒伤、双眼间距过大，看起来可能在二十到五十岁之间。Diana 站起来、不假思索挤过人群，**大喊他们必须马上下车**；关门铃声响；孩子和 Carlos 完全不明白；Carlos 把书塞口袋、拿走孩子的手机、各自抓着一个孩子的手硬拽出车厢到站台；**Diana 被困在车里、半卡在门之间，直到两名乘客把金属门撬开**；她抱着所有东西泪流满面走向坐在石凳上的 Carlos 和孩子。",
+   "range": [
+    16994,
+    19857
+   ],
+   "lines": [
+    213,
+    216
+   ]
+  },
+  {
+   "id": "E13",
+   "who": "Diana ＋ Carlos ＋ 两个孩子",
+   "what": "Carlos 涨红了脸问『What's going on?』；Diana 仍气喘吁吁，摸着右臂——**车门夹了她，疼**。Carlos 接过她的东西、帮她脱外套和里面的外套看她手臂，问『What do you mean he had a knife?』；Diana 用没受伤的那条手臂比划（『He was holding it in his hand, spinning it around』）；孩子沉默地看着她。Carlos 说『How is that possible? Are you sure it wasn't something else? You know how your vision is.』，Diana 回『I put my glasses on.』；Carlos 抱怨她穿太多层（『Jesus, another layer? How much clothing do you have on?』）。Diana 费力把发热内衣袖子卷到肩头，**整条手臂通红，但分不清是车门夹的还是脱衣服时蹭的**。Carlos 问她疼不疼、为什么没人下车；Diana 说大家都在看手机、她当时该喊的但她害怕、她总是反应太晚（『I always react too late.』），只希望没事。Carlos 说『Stop, that's not true. It's better we just got off.』。",
+   "range": [
+    19859,
+    21439
+   ],
+   "lines": [
+    219,
+    222,
+    225,
+    228,
+    231,
+    234,
+    237,
+    240,
+    243,
+    246,
+    249
+   ]
+  },
+  {
+   "id": "E14",
+   "who": "Carlos ＋ Diana",
+   "what": "Carlos 说『God, that was terrifying.』，问那是不是像匕首——『A knife? Like, a dagger? Do people still carry daggers? I haven't heard that word in years.』；Diana 喊『You don't believe me!』，Carlos 说他信但太疯狂、她差点把大家吓死。Diana 让他上网查（『Look on Twitter.』『Search knife metro Collblanc.』），Carlos 说还没来得及发推、而且普通人不发推。",
+   "range": [
+    21441,
+    21967
+   ],
+   "lines": [
+    252,
+    255,
+    258,
+    261,
+    264,
+    267,
+    270,
+    273
+   ]
+  },
+  {
+   "id": "E15",
+   "who": "两个孩子 ＋ Diana ＋ Carlos",
+   "what": "孩子们渐渐恢复：女孩撕了男孩的圣诞手工，男孩要撕女孩的报复；Diana 和 Carlos 分开他们。Diana 抱起较小的女儿（**Brisa**），Carlos 抱着仍在惩罚姐姐的男孩（**Tomás**）；Diana 说『Stop, Tomás, you're going to hurt your sister, and me as well.』；男孩『She's laughing!』；『Brisa, stop laughing. You ruined his crafts.』；男孩『They're not crafts… They're my art projects!』。Carlos 把文件夹塞进背包、帮孩子背上，并接过 Diana 的钱包和托特包；他看进托特包问里面是什么，Diana 答『The present for my sister.』——**她送的是自己买给自己、还没穿过的红色毛衣**，因为不想应付妹妹的被动攻击（『I didn't want to deal with her being passive aggressive.』）；Carlos 提醒她『since it's not wrapped she's going to know I didn't buy it for her』，又说『that and the selfie you sent her from the dressing room』；Diana 崩溃：『No. You're joking. Please tell me you are joking.』。",
+   "range": [
+    21969,
+    23763
+   ],
+   "lines": [
+    276,
+    279,
+    282,
+    285,
+    288,
+    291,
+    294,
+    297,
+    300,
+    303,
+    306,
+    309,
+    312,
+    315,
+    318,
+    321,
+    324,
+    327,
+    330,
+    333
+   ]
+  },
+  {
+   "id": "E16",
+   "who": "Diana + Carlos 一家四口",
+   "what": "地铁进站，四人在站台边排队；Carlos 牵 Tomás 的手，Diana 仍抱着 Brisa。Diana 再次说去 Twitter 上看，Carlos 说『Later.』『I believe you.』『Seriously, he had a dagger.』；Brisa 问『What's a dagger?』，Diana 说『It's nothing, honey. It's a grown-up thing.』；Diana 追问『You really believe me?』，Carlos 答『Yes. I know you'd never make up something so classist.』；Diana 愣住，Carlos 说『People going around with knives in Cornellà. Maybe your mom is right—maybe you do think you're above this neighborhood.』，Diana 笑他『Idiot』，末句：不是 Cornellà 站，是 L'Hospitalet。",
+   "range": [
+    23765,
+    24436
+   ],
+   "lines": [
+    336,
+    339,
+    342,
+    345,
+    348,
+    351,
+    354,
+    357,
+    360,
+    363,
+    366,
+    369,
+    372
+   ]
+  }
+ ],
+ "characters": {
+  "Diana": "视角人物。纪录片导演/电影人兼影评人（记者），与 Carlos 住在巴塞罗那市中心，两个孩子（Tomás、Brisa）。Carmen 与已故丈夫的**长女**，比 Alba 大六岁（ch05:549『who was six years older than Alba』；ch02:129『Only her older sister, Diana』）⇒ **Alba 是妹妹**。本章二十四岁上下（ch02:129 三十七岁指 Alba），27 岁离开成长地。本章她为 Alba 的生日聚会硬撑，地铁上独自应对持刀者。",
+  "Alba": "Diana 的**妹妹**（小六岁）。本章**不在场**，只以电话与生日邀约存在：昨天邀 Diana 来、自己早上因 Diana 还没说 happy birthday 而生气；Diana 认定两件庆典撞一起不吉利是为她；Diana 给她带最后时刻买的礼物（自己买给自己还没穿的红毛衣），怕她看出；她与试衣间自拍一起构成『被动攻击』风险。",
+  "Carmen": "两人的母亲。本章**不在场**，只被提及：Carlos 明确说 Alba 在挟持 Carmen、母亲不该二十四小时伺候，母亲有权过自己的时间和 Alba 之外的生活；Diana 拿『你妈说得对』去刺 Carlos。",
+  "Carlos": "Diana 的丈夫。本章由叙述层交代其处境：他看得很清楚 Alba 在挟持 Carmen 并恐吓其余的人，也**明确会告诉 Diana 她妹妹做得不对**，但因为自己是独生子、几乎不与父母来往、惯于待在家庭动荡边缘，只在直接影响自己时才介入，所以每次都被推成『坏人』；他建议 Diana 回去看心理医生，事后又替她挡住自责。",
+  "Brisa": "Diana 的女儿。本章两段在场：早上与朋友 Valeria 一起进校门并回头用手比了个小心；地铁上撕了弟弟的圣诞手工、被 Diana 抱着，最后问『What's a dagger?』。",
+  "Tomás": "Diana 的儿子。本章两段在场：早上被校门口那位女门卫训斥迟到三分钟；地铁上和姐姐互撕手工，被 Diana 抱走后由 Carlos 抱着。",
+  "Valeria": "Brisa 的朋友，本章只在送学场景被 Diana 提起。",
+  "Teresa": "Brisa 演出的老师，Carlos 问『why Teresa didn't say anything』时提到；Diana 推测她可能说了、只是老师们压力都很大。",
+  "校门口那位女门卫（原文未点名）": "『that terrible woman who's always at the entrance』，训斥 Diana 和 Tomás 迟到三分钟。**与老师 Teresa 是两个人**；原文未给姓名。",
+  "持刀的年轻男人": "在 5 号线车厢内出现，短袖、双臂布满新鲜伤口（纹身部分遮住）、皮肤晒伤、双眼间距过大，看起来二十到五十岁之间；他在找自己的倒影、指间滑刀。原文未给姓名。",
+  "睡着的老人": "Diana 在 Sants Estació 一带捡起画本、直起身时咂嘴的老人（原文未点名）。"
+ },
+ "numbers_and_dates": {
+  "verbatim_numbers": [
+   {
+    "text": "around one in the afternoon",
+    "range": [
+     1526,
+     1553
+    ],
+    "line": 9,
+    "note": "Carlos 到家时间"
+   },
+   {
+    "text": "the dead bolt, the second lock, and the third one",
+    "range": [
+     2294,
+     2343
+    ],
+    "line": 9,
+    "note": "三道锁，搬进来后加装的顺序"
+   },
+   {
+    "text": "the three central Barcelona apartments",
+    "range": [
+     1354,
+     1392
+    ],
+    "line": 6,
+    "note": "Diana 与 Carlos 住过的巴塞罗那市中心三套公寓"
+   },
+   {
+    "text": "We’re meeting up for Alba’s birthday. She invited me yesterday",
+    "range": [
+     5167,
+     5229
+    ],
+    "line": 36,
+    "note": "Alba 昨天邀约"
+   },
+   {
+    "text": "Last night we were up at midnight",
+    "range": [
+     5497,
+     5519
+    ],
+    "line": 42,
+    "note": "与表亲熬到午夜"
+   },
+   {
+    "text": "Because tomorrow is Christmas Eve, and celebrating two things at once is bad luck.",
+    "range": [
+     5852,
+     5933
+    ],
+    "line": 54,
+    "note": "Diana 的两庆典不吉利说"
+   },
+   {
+    "text": "They have a half day. For winter break. They get out at one forty-five.",
+    "range": [
+     6372,
+     6442
+    ],
+    "line": 78,
+    "note": "学校寒假半天课 1:45 放学"
+   },
+   {
+    "text": "It’s one twenty, almost time to go.",
+    "range": [
+     9198,
+     9233
+    ],
+    "line": 177,
+    "note": "出发前时间"
+   },
+   {
+    "text": "scolded us for being three minutes late",
+    "range": [
+     6914,
+     6953
+    ],
+    "line": 96,
+    "note": "校门训斥迟到三分钟"
+   },
+   {
+    "text": "twenty-four hours a day",
+    "range": [
+     10576,
+     10621
+    ],
+    "line": 195,
+    "note": "Carlos 说母亲不该整天伺候 Alba"
+   },
+   {
+    "text": "Carlos, who was an only child",
+    "range": [
+     10891,
+     10920
+    ],
+    "line": 195,
+    "note": "Carlos 是独生子"
+   },
+   {
+    "text": "blue line headed toward Sant Ildefons",
+    "range": [
+     9702,
+     9739
+    ],
+    "line": 195,
+    "note": "Carlos 威胁要去的那条线"
+   },
+   {
+    "text": "throw up two minutes into the ride",
+    "range": [
+     12447,
+     12481
+    ],
+    "line": 198,
+    "note": "女儿坐车两分钟就吐"
+   },
+   {
+    "text": "a Line-5 train car at two in the afternoon",
+    "range": [
+     12687,
+     12729
+    ],
+    "line": 204,
+    "note": "车厢与时刻"
+   },
+   {
+    "text": "for the last two years, she’d been eating terribly",
+    "range": [
+     14387,
+     14437
+    ],
+    "line": 207,
+    "note": "饮食崩坏两年"
+   },
+   {
+    "text": "for the first time in two decades spent as a film critic and journalist",
+    "range": [
+     14798,
+     14869
+    ],
+    "line": 207,
+    "note": "影评人记者生涯二十年"
+   },
+   {
+    "text": "living on minus a thousand euros",
+    "range": [
+     15547,
+     15579
+    ],
+    "line": 210,
+    "note": "负一千欧生活"
+   },
+   {
+    "text": "which she’d left at twenty-seven",
+    "range": [
+     16321,
+     16353
+    ],
+    "line": 210,
+    "note": "27 岁离开成长地"
+   },
+   {
+    "text": "five stops before their destination",
+    "range": [
+     17417,
+     17452
+    ],
+    "line": 213,
+    "note": "刀客出现的位置"
+   },
+   {
+    "text": "anywhere between twenty and fifty years old",
+    "range": [
+     19058,
+     19101
+    ],
+    "line": 216,
+    "note": "持刀者年龄区间"
+   },
+   {
+    "text": "two other passengers managed to pry the metal doors apart",
+    "range": [
+     19660,
+     19717
+    ],
+    "line": 216,
+    "note": "两名乘客撬开车门"
+   },
+   {
+    "text": "zoomed in seventies-style",
+    "range": [
+     8140,
+     8165
+    ],
+    "line": 135,
+    "note": "演出视频拍摄方式"
+   },
+   {
+    "text": "it’s a sweater I bought for myself",
+    "range": [
+     23194,
+     23228
+    ],
+    "line": 300,
+    "note": "送给妹妹的礼物实为自己买的毛衣"
+   },
+   {
+    "text": "the selfie you sent her from the dressing room",
+    "range": [
+     23550,
+     23596
+    ],
+    "line": 321,
+    "note": "试衣间自拍"
+   },
+   {
+    "text": "you’d never make up something so classist",
+    "range": [
+     24162,
+     24203
+    ],
+    "line": 363,
+    "note": "Carlos 的 classist 之说"
+   },
+   {
+    "text": "It’s L’Hospitalet",
+    "range": [
+     24416,
+     24433
+    ],
+    "line": 372,
+    "note": "末句站名"
+   }
+  ],
+  "dates": {
+   "chapter_time": "平安夜前一天（Christmas Eve 的前一日）：Alba 的生日聚会当天。原文明说『Because tomorrow is Christmas Eve』（:54），而 Alba 的生日与平安夜撞在一起 ⇒ **Alba 生日 = 12 月 23 日**。下午一点 Carlos 到家、一点二十出门、两点在 5 号线上车。",
+   "relative_times": "『Yesterday』多处：①Alba 昨天邀 Diana 来生日会（:36）；②Diana 前一天（Brisa 的演出）迟到，愧疚延续到本章（:9/:105/:144）。另：当天早上 Diana 送孩子上学（学校寒假半天课）；约半小时前她因 WhatsApp 毁掉上午而躺下。",
+   "long_arc": "Diana 27 岁离开成长地；做影评人/记者二十年；近两年饮食崩坏；搬到现住处后加装第三道锁；与 Carlos 在巴塞罗那市中心住过三套公寓、第一个孩子出生后添了玩具；Alba 小六岁（跨章：ch02:129、ch05:549）。"
+  }
+ },
+ "open_questions_for_md_check": [
+  "md 若写『控制型长姐』或『控制型姐姐』指 Diana，即方向反了——Alba 才是妹妹，Diana 是长姐（ch02:129『Only her older sister, Diana』；ch05:549『six years older than Alba』）。",
+  "『她妹妹』在原文中是谁？Carlos 说『Alba was holding Carmen hostage』（:195）、Diana 抱怨『her sister’s demands』（:195）、Diana 提到托特包里『her sister’s gift』（:204）、Carlos 提『the selfie you sent her』（:321）——**四处 her/his sister 都指 Alba（妹妹）**，无一指 Diana。",
+  "『那个从不独处/被控制的人』是谁？Carlos 的整段独白（:195）说的是 Alba 强势、Carmen 被挟持。md 若把控制型人格安到 Diana 头上，即四问法第①问（动词主语）出错。",
+  "地铁上拿刀的是谁？是陌生年轻男人（:213/:216），**不是** Alba、不是 Carlos、也不是 Juan。md 若写成家庭成员即编。",
+  "Diana 的伤是谁造成的？**车门夹的**（:222『One of the doors had pinched her』），红肿原因不可分辨（:240），md 若写成刀伤即编。",
+  "礼物是什么？**Diana 买给自己、还没穿过的红毛衣**（:300/:303/:306），不是新买的礼物；Carlos 还提到试衣间自拍（:321）。",
+  "时点核对：Alba 的生日是 12 月 23 日（今天），平安夜是明天（:54）——md 若写『平安夜当天』即错一天。",
+  "本章有没有报警/急救？**没有**——原文只写 Carlos 建议看心理医生（:153）、Diana 自我归咎直发器（:150）；md 若写『他们去了医院』即编。",
+  "『两个都玩手机的乘客』『别的车厢』等细节：只有『两节车厢外』（two sets of doors down）与『两名乘客撬门』（:216）；md 的『整个车厢』之类说法若与之矛盾即编。",
+  "Carlos 的身份：丈夫、**独生子**（:195）、与岳家往来疏远；他自己也说 sometimes criticized his sister-in-law（妻妹＝Alba）。md 若把 Alba 写成 Carlos 的亲妹妹即错。",
+  "Diana 早饭/午餐：原文说她 sleep so little and ate so poorly、靠负一千欧生活（:207/:210），**没有**写当天吃了什么。md 若写『没吃早饭』须能对上这两句。",
+  "结尾站名：不是 Cornellà，是 **L'Hospitalet**（:372）——这句是全章收尾，md 若写成『终于到了 Cornellà』即错。"
+ ]
+}

@@ -1,0 +1,735 @@
+{
+  "chapter": "02",
+  "source": "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch02_chapter_2.txt",
+  "source_total_chars": 43371,
+  "source_total_lines": 483,
+  "source_heading": "2",
+  "note": "本文件在阅读任何成品 md 之前生成（R1 素读）。区间为原文字符偏移 [start,end)，基于 UTF-8 解码后的字符计数；source_total_chars 为该文本的字节长度（与 ch01/ch05 同口径：ch01 记 6308＝字节数），source_total_lines 为行数。line 列为原文行号（/usr/bin/grep -n 口径）。原文引语逐字抄录；行内引号为原文的弯引号 U+201C/U+201D。",
+  "events": [
+    {
+      "id": "E1",
+      "who": "Alba（自述）",
+      "what": "按月提前采购：January 一敲钟就抢便宜机票（在还不知道能不能负担假期、也不知道丈夫日程时）；August 为万圣节在 AliExpress 上把所有能找到的装饰都订了；September 开始第一轮圣诞采购。year after year，一家人各自在同一个月份各买各的。",
+      "range": [
+        6,
+        402
+      ],
+      "lines": [
+        6
+      ]
+    },
+    {
+      "id": "E2",
+      "who": "Alba ＋ 睡在她旁边的婴儿 ＋ 被吵醒的全家",
+      "what": "Alba 是家里第一个睁眼的人：七点半，天还全黑。她为了不吵醒身边的婴儿，做了近乎超人的努力才坐起来（把腿挪向地面、感到拼花地板的凉、光脚像现代舞者一样挪动、连一点响动都不发出）。快到门口时她踢到一辆玩具车，撞墙发出巨响——不是意外、不是绊倒，是她故意用力把它踢飞的。结果两分钟后所有人都醒了，且全都紧张、易惊。",
+      "range": [
+        405,
+        1294
+      ],
+      "lines": [
+        9
+      ]
+    },
+    {
+      "id": "E3",
+      "who": "Juan ＋ Alba ＋ 门外的 Carmen",
+      "what": "Juan 猛地起床、明显不高兴，明知那声巨响不是意外却装作不知；他在浴室喊「Alba, your mom is buzzing. Let her in.」Alba 坚持没听见就不开门（门禁在走廊里响，其实是等在楼下的人按的）。Juan 反问「who's sneaking around pressing buzzers on a Wednesday at seven a.m.?」——点明这是星期三早上七点。随后 Carmen 站在 Cornellà 那栋最新的水泥楼（灰色、巨大、一体，脚下就是 B-20 高速环道）楼下等门禁：她二十五岁起住在这片 Sant Ildefons，住了将近五十年；这是全城最好的公共补贴公寓，还有「先租后买」选项，而 Alba 和 Juan 就要在这栋楼里签下买下第一套公寓——他们出生在这里、从未离开。她要输入门禁码 1-1-9 加 #，等放行（常要几分钟），再输一次码、再等，最后乘电梯上去，等女婿来开金属门。",
+      "range": [
+        1297,
+        3520
+      ],
+      "lines": [
+        12,
+        15,
+        18,
+        24,
+        30,
+        33,
+        36,
+        39,
+        42,
+        48
+      ]
+    },
+    {
+      "id": "E4",
+      "who": "Carmen ＋ Alba ＋ Juan",
+      "what": "早晨例行争吵开始：Carmen 只穿了一双薄得几乎看不见的尼龙袜（她拔鞋露出脚踝），Juan 溜进屋吻别孩子。Alba 质问母亲为什么不穿袜子；Juan 报温度「It's forty」（四十度）并顺手抓车钥匙出门，岳母愤怒地重新穿鞋走进屋——每天都是同样的交接路径，只是带着些微变化、总是掺着小争吵。Carmen 抱怨 Alba 一大早就对她发火、嫌她装可怜；Alba 嫌母亲把门锁上还加插销（Carmen：「You're paranoid!」）并追问「if something happens, what will we do?」；孩子的背包还没准备好，Carmen 蹲下就开始捡孩子们的衣服（连外套和包都没脱，露着脚踝）；Alba 找不到手机，随后抱怨母亲的体重压在婴儿毯上、她得再洗一遍。",
+      "range": [
+        3526,
+        7350
+      ],
+      "lines": [
+        48,
+        51,
+        54,
+        57,
+        60,
+        63,
+        66,
+        69,
+        72,
+        75,
+        78,
+        81,
+        84,
+        87,
+        90,
+        93,
+        96,
+        99,
+        102,
+        105,
+        108,
+        111
+      ]
+    },
+    {
+      "id": "E5",
+      "who": "Carmen ＋ Alba（＋ Juan 与两个孩子）",
+      "what": "每天的固定班次：Carmen 陪 Alba 送孩子上学、接午饭、下午再送、放学再接、再送到各自的课外班（每个孩子去不同地方，必须精确规划以免迟到）；学校在 Esplugues，离家半小时，路程一部分要坐公交。没有人提出那个「更合理」的方案——让 Carmen 留在家带婴儿、Alba 送其他孩子。五个人的小公社天天出巡：祖母、母亲、两个孩子（七岁和九岁）、以及一辆婴儿车里不到一岁的婴儿。日子在眼泪、崩溃、争吵、遗忘物（校服罩、运动包、三明治）之间度过；Alba 在公共场合的「表演」（被其他乘客抱怨时）也由 Carmen 一并忍受。整个学年如此，在她们看来是正常的，也是这一带多数祖母的日常；但在节假日、周末和女婿休息日，Carmen 会把自己关在公寓里关机，有时甚至把座机听筒摘下来、用垫子盖住。",
+      "range": [
+        7356,
+        8894
+      ],
+      "lines": [
+        117
+      ]
+    },
+    {
+      "id": "E6",
+      "who": "叙述者（社区结构）",
+      "what": "Sant Ildefons 的家庭组合里占主导的是「祖母—女儿—外孙」三人组，永远一起：祖母总是母亲身体的延伸、一个巨大而顺从的附属器官，三部分合成一个单一生物、一只多触手的水母，是被社会接纳并完全整合的生物，在整个社区里不断繁殖——在游乐场、杂货店、校门口、诊所都能撞见。这种蔓延并非这一区独有，甚至巴塞罗那郊区以外也有，但在边缘地带更明显，因为进城更深的区域，祖母常被保姆取代；雇了人，纽带就没那么紧，因为那正是花钱要买的——为了「to delegate, to kill the jellyfish」。在 Sant Ildefons 这是场流行病，只是没人当它是病：没有人阻止，没人追问这些女人为什么与母亲绑得如此紧（这关系与其说是共生，不如说是寄生），为什么她们无法自己做这些事，为什么祖母从不多说一句。",
+      "range": [
+        8897,
+        10120
+      ],
+      "lines": [
+        120
+      ]
+    },
+    {
+      "id": "E7",
+      "who": "Carmen ＋ Alba ＋ 婴儿 ＋ Juan（+  Diana ＋ 那对「寡妇」）",
+      "what": "上午班次结束后，两人先把大孩子送回学校，再坐火车带婴儿去 Finestrelles 商场；为避免再回家（那会让每天四趟变成五趟），她们通常在商场耗到放学；商场只有三站路。她们不是去休息或取乐，Alba 永远带着任务，也从不「只是到某处去」；母亲若不方便，她就拉别人（Juan 的父亲、表亲、邻居）同行，而她要的主要不是某个人，而是有人陪。今天的任务是给长子换两只 Switch 手柄：两个月前她和 Juan 在 Westfield La Maquinista 的 MediaMarkt 买的（那个「全加泰罗尼亚最大、西班牙最大之一」的商场让她不舒服），一周前试机发现有一个坏了；这次出门本该是七天来不停打电话、跑多家门店找手柄（各店都说断货两周）的happy ending，而她只剩一个小时。进商场时 Alba 在前面推车、Carmen 跟在后面；商场里人不多，但「几乎都是那些女人的复制品，更清晰或更模糊的倒影，又气又吵」。Alba 鬼使神差地跨过 MediaMarkt 的门槛又退回来、再进一次（母亲知道女儿有「把门或拱门跨两次」的强迫）。Carmen 因此知道 Alba 几乎所有的强迫与迷信，也知道家里所有女人无一例外地强迫且迷信——Diana 几年前在父亲葬礼上为了抵挡突来之死，曾在守灵时观察母系的女性并数出二十三个明显癖好：所有人共有「说到 death 就把脚跟并拢一磕」这一个动作，最精致的一个是马德里的那对双胞胎表亲——喝水前先吹一个轻吻。",
+      "range": [
+        10123,
+        15915
+      ],
+      "lines": [
+        123,
+        126,
+        129,
+        132,
+        135,
+        138,
+        141,
+        144,
+        147,
+        150,
+        153,
+        156,
+        159,
+        162,
+        165,
+        168,
+        171,
+        174
+      ]
+    },
+    {
+      "id": "E8",
+      "who": "Alba ＋ Carmen ＋ MediaMarkt 店员",
+      "what": "商场几乎空了一半加泰罗尼亚都在 MediaMarkt，顾客与店员的比例到了节日前最关键时点完全失衡——顾客以五比一压过店员，店员像蜂鸟一样穿行、目光直视、回避眼神接触，节日前更成了「装作听不见」的行家。两人追着一个二十来岁、制服脏、眼镜用医用胶带勉强粘着的店员追了十分钟，每次快追上、刚要开口，他就溜走或者有更大胆的人上来接应。累了的 Carmen 走到电视区坐下，一言不发；Alba 才发现母亲不见了，慌张地四处找。逆着 4K 屏幕光影的 Carmen 剪影「颜色不可思议地刺眼、清晰」，Alba 推车过去。Carmen 坐的那把椅子是店里唯一一把蓝色的（店里一切都是红的），Alba 蹲下查看，发现椅子底下粘着一个 Corte Inglés 的袋子，判断是别人落下的；Carmen 拒绝起来，说「Even better, before they take it home I can tell them whether it’s comfortable or not.」。转身时 Carmen 看见身后屏幕上「a swarm of jellyfish」。Alba 弯腰拉开婴儿车把孩子抱出来，露着被紫色妊娠纹覆盖的肚子喂奶（「metro map on her abdomen」），一边抱着孩子一边继续追那个戴破眼镜的店员，反复对着空气说「Excuse me」，直到对方办完事头也不回地走掉。",
+      "range": [
+        17068,
+        22496
+      ],
+      "lines": [
+        177,
+        180,
+        183,
+        186,
+        189,
+        192,
+        195,
+        198,
+        201,
+        204,
+        207,
+        210,
+        213,
+        216,
+        219,
+        222,
+        225,
+        228,
+        231,
+        234,
+        237,
+        240,
+        243,
+        246
+      ]
+    },
+    {
+      "id": "E9",
+      "who": "Alba（失焦）＋ Carmen",
+      "what": "跟着店员时，MediaMarkt 在她周围消隐直至完全消失；每逢她感到执念或焦虑，她穿行的场所就会卸下所有物件与生命，变成只由她一人跨越的门槛。此刻她只能看见店员衬衫的领子，其余一切模糊或随光线变暗；她陷进布边的细节（拉伸、磨损的毛边），那毛边模糊成一颗灰 moles 滑进黑暗。她跟着那痕迹走了一段，直到孩子变沉得受不了——「Since when did the child weigh thirty pounds?」腿开始像喝了酒那样酸痛。每当她感到彻底孤单时身体就会脱离现实（街头、家、商场都可能），然后开始疼。她僵在 MediaMarkt 中央，眼神空洞，怀里抱着孩子，转而抓住一个心理图像求助：Camp La Tortuga Ligera 门口那块旧招牌。Carmen 一直看着，后来 Alba 冻结般定住三十秒，Carmen 才起身推着婴儿车走过去；她知道女儿的这类恍惚只有自己准备好才能把她拉出来——这些「trances」会把她吞掉几分钟，再把她吐回现实。Alba 回来时浑身是汗，扔下外套坐在地上、把头埋在膝间；店员们绕开她。",
+      "range": [
+        20864,
+        23351
+      ],
+      "lines": [
+        246,
+        249,
+        252,
+        255,
+        258
+      ]
+    },
+    {
+      "id": "E10",
+      "who": "Alba ＋ Carmen",
+      "what": "Carmen 催她走，说「you can come back tonight with Juan right before they close. I'll stay with the kids.」；Alba 反而点破母亲其实很期待自己的手工课（买了衬衫、做了指甲），Carmen 否认，说自己累瘫了。Alba 说时间来不及、公公（Juan 的父亲）赶不到接孩子，Alba 检查后确认如此，把外套卷起来塞进婴儿车下的篮子独自走向出口，把母亲留在原地。她终于做了 Carmen 早就担心她会做的事（这次忍得比平常久）：大声抱怨起来。Alba 总是第一个出声抱怨不对劲的事——餐馆的菜、收据上的总数、店员的态度；这些抱怨通常很夸张，这让她的姐姐 Diana 非常难堪，却让妹妹（她自己）满意；Carmen 受不了的正是这种间接。Alba 抱怨追了那个店员半小时他都不看自己脸、还骂他「Making minimum wage, no less.」；两人走到外面，Alba 说「I don’t like my job, either, but I don’t take it out on other people!」——Carmen 追问「What job?」才想起女儿的处境：Alba 没有工作（「The one I don't have.」）。Carmen 的手机在这时震动，是 Diana，她赶紧接电话以脱身；她预想 Alba 会再去找另一个店员问手柄。",
+      "range": [
+        23755,
+        26851
+      ],
+      "lines": [
+        261,
+        264,
+        267,
+        270,
+        273,
+        276,
+        279,
+        282,
+        285,
+        288,
+        291,
+        294,
+        297,
+        300,
+        303,
+        306,
+        309,
+        312,
+        315,
+        318,
+        321,
+        324,
+        327,
+        330,
+        333,
+        336,
+        339
+      ]
+    },
+    {
+      "id": "E11",
+      "who": "Alba ＋ Carmen ＋「寡妇」姐妹",
+      "what": "Alba 刚踏出 MediaMarkt——这是当天第二次——就看见她们走来：她每次去商场都会遇到的那对「总在那里」的女人，几十米外就让她恐惧。她们看起来七十岁上下、几乎一模一样：另一个时代的发型、僵硬卷发框住两张坚硬而隐约有胡须的脸、没有一丝化妆、像为某人守丧多年一样穿 uncompromising black，手挽手，空出的那只手死死抓住包。Diana 见过一次，说她们像她最喜欢的电影里的两个角色：一个盲眼灵媒和她的姐姐；又说像从旧照片里逃出来的，L’Hospitalet 某间公寓里一定有张装框照片、两个苍白剪影。Alba 干脆叫她们「the widows」，每次看见都让 Carmen 突然转身避开，连逛完整座商场折返都干过，好几次宁可上一层楼；几天前她们还为躲这两人把自己关在洗手间十分钟。这次 Alba 无路可躲，母亲正在几米外打电话背对着她，两人直冲她而来，Alba  froze。Carmen 挂断电话后看见女儿僵得像木板、握婴儿车把手握到双手发紫、婴儿哭得止不住， rushed 过去；Alba 说自己被下了邪眼——「the cross-eyed one—she cursed me」，一滴浓稠的血从她鼻子滴到围巾上，Carmen 从包里翻出纸巾给她。两位「寡妇」只是问她出口在哪，其中不瞎眼的那位说「one day, I won’t know how to get out, either.」。Alba 坚持她们是故意冲她来的，抱怨她们「明明从我旁边走过一大群人」却偏偏来问自己。",
+      "range": [
+        27025,
+        32082
+      ],
+      "lines": [
+        342,
+        345,
+        348,
+        351,
+        354,
+        357,
+        360,
+        363,
+        366,
+        369,
+        372,
+        375,
+        378,
+        381,
+        384,
+        387,
+        390,
+        393,
+        396,
+        399,
+        402,
+        405,
+        408,
+        411,
+        414,
+        417,
+        420,
+        423,
+        426,
+        429,
+        432,
+        435,
+        438,
+        441,
+        444,
+        447,
+        450,
+        453,
+        456,
+        459
+      ]
+    },
+    {
+      "id": "E12",
+      "who": "叙述者 ＋ Alba ＋ Diana ＋ 两个女孩",
+      "what": "Alba 和 Diana 经常流鼻血，这是她们身体发出的警报之一；她们还容易湿疹、麦粒肿和突发过敏，所以手边总备抗组胺药。体重增加时痛苦也不只是心理上的：牛仔裤太紧会勒出印子、磨出淤青，腰头把皮磨破；她们的身体（尤其是皮肤）知道什么时候不舒服，于是被冒犯时就会反叛——想什么时候就什么时候，几乎总是毫无预警，常常极不体贴。姐妹俩为此内疚，Diana 会叹息「We passed it on.」，把这当成某种异域的遗传诅咒；所幸两个孩子还没进入发胖与皮疹的年纪，但她们的鼻血一模一样。两个母亲都问过儿科医生，诊断相同：「Their noses get dry, that’s why they bleed.」——只要别把暖气开到最大（对 Alba 毫无损失，本来就省钱）、买加湿器、用生理盐水冲洗鼻子即可；即便知道了这些，两个母亲每次看到 Brisa 或 Brigitte 鼻子出血仍然会陷入真实的恐惧。",
+      "range": [
+        32600,
+        34144
+      ],
+      "lines": [
+        462,
+        465
+      ]
+    },
+    {
+      "id": "E13",
+      "who": "Alba ＋ Brigitte ＋ 两名教练",
+      "what": "大约一个月前，两个女孩的鼻子在同一次同时剧烈出血——地点与情形不同，家人当作巧合瞒着两姐妹以免助长焦虑，两个母亲却被震住、聊了好几天。那次是 Brigitte 在体操馆里、在平衡木上发生的；Alba 坐在观众席的家长堆里，从她的位置能看见女儿的右侧脸。Brigitte 四岁起练体操、如今一周练五天，优雅地完成两步、手臂动作和小跳并完美落地，正要撑起身时——她开始发抖、双手捂脸、整个身体在晃；连体衣的领口「white with silver trim」被血浸透，血滴落在平衡木与垫子上。两个教练立刻上前：一个把女孩抱走匆匆离开，另一个跟着，眼睛始终不离开地面，更担心体操馆地毯的状态；他们留下一道血痕——平衡木与观众席之间三米米色地毯上一排黏稠的红点。Alba 跳下观众席追过去（她体形走样了但还留着某种灵活），Brigitte 自己解释没事（因为正用纸巾捏着鼻子，声音发紧）；Alba 检查她有没有撞到头，让她站起来走几步直线，查头、脸、耳朵、鼻子，没有肿胀或伤口，却止不住地发抖。她想不通女儿为何浑身是血、像个小连环杀手；血在莱卡上扩散得很快，可每毫米布料——连体衣背面和袖子——都变成酒红色，腿也前后沾满。她灌完手里整瓶水。两个教练安静、苍白、像见了鬼一样来回看母女，挤着不可信的微笑；他们也说不清为什么女孩和那件漂亮的连体衣在从平衡木到观众席的短短路程上变成了深红，也不懂为什么扶 Brigitte 的那位教练的套装和手上一尘不染。",
+      "range": [
+        34147,
+        38112
+      ],
+      "lines": [
+        468,
+        471,
+        474
+      ]
+    },
+    {
+      "id": "E14",
+      "who": "Diana ＋ Brisa（Brisa 睡在 Diana 家）",
+      "what": "同一天下午，Brisa 的表姐去上体操课时，Brisa 睡在 Diana 家的她房间里——这不正常，她平时从放学回家到睡觉都醒着；她感冒了，前一夜醒过好几次，明显是累坏了。她在沙发上睡着，Diana 不忍叫醒，把她抱回房间（明知她撑不过一夜、这个午睡会打乱作息），自己去客厅趁机发几封邮件。不到半小时 Brisa 出现：脸和 T 恤糊满血，头发乱得像打过架。Diana 扔下电脑冲过去，慌了手脚，检查女儿的头和耳朵、又让她张嘴看有没有断牙、确认鼻梁还正——没有可见外伤，也不再流血，最可能是睡着时来的鼻出血又自行止住。Diana 后仰着女儿的头检查时，发现一个干血块堵住了她的一侧鼻孔。她跑去浴室拿卫生纸、生理盐水和棉签，一边翻找一边在镜子里瞥见自己：脸色苍白、状态糟、无法忍受自己的影像；她撑着洗手池深呼吸，再回到客厅跪在 Brisa 身边，帮她擤鼻涕。纸巾拉开时她看见 Brisa 鼻孔里露出一样东西——又黑又厚、像血块。她用拇指和食指轻轻捏住、小心地往外拉，试图一次取出，怕自己看到会恶心；拉了好几秒才弄出来，然后震惊地看着那块从她掌心拉到肘部的血块。她倚着桌子小心地把手臂翻过来，让它落在桌面上；奇怪的是它不裂也不爆。她抓过 Tomás 的书包摸出一把尺子量它：三十厘米。她被自己的心跳吓到，抓起 iPhone 本想拍照发给 Brisa 的儿科医生、也想留个记录好日后讲清这桩怪事，却没注意自己已经按下录像键并在拍视频。屏幕里，那块「以她的恐惧和女儿的血为食」的细长血块沿桌面滑出画面。惊吓让她把手机掉到地毯上，砰的一声；刚拍的视频自己开始播放：血块还在她放下的位置、一动不动，旁边是 Tomás 的塑料尺；背景里是她自己加速的呼吸声。",
+      "range": [
+        38025,
+        41560
+      ],
+      "lines": [
+        477,
+        480
+      ]
+    },
+    {
+      "id": "E15",
+      "who": "Diana ＋ Alba",
+      "what": "Diana 与 Alba 那一夜几乎都没睡。她们被强烈地搅扰，罪疚像血渗进 Brigitte 的连体衣一样迅速渗进她们体内，和 Diana 从 Brisa 鼻子里拉出的那块血块一样有着不可打破的一致。儿科医生、体操教练、Carmen、Carlos、Juan 给的所有解释都没能让她们释怀——她们找不到任何慰藉。两种情形都可怕、骇人、无法理解；更令人不安的是：出事的是她们自己的女儿，而不是别人的，而且是在完全同一时刻。",
+      "range": [
+        41563,
+        42127
+      ],
+      "lines": [
+        483
+      ]
+    }
+  ],
+  "characters": {
+    "Alba": "Diana 的妹妹，Juan 的妻子；三个孩子的母亲（长子、长女 Brigitte、婴儿），辞职在家带孩子；本章主视角人物。三十七岁（:129 'the thirty-seven-year-old whose eyes were raw and burning'）；眼皮皮肤皱而鳞状（自幼如此，出生十个月后仍未好），哺乳期不能吃药，只有姐姐 Diana 坚持让她看专科医生并给过皮肤科电话，她没听。长期被迫推迟属于她自己的事。本章她踢玩具车吵醒全家、到 MediaMarkt 换 Switch 手柄、在店里失焦、遇到「寡妇」姐妹流鼻血、最后抱怨店员。原文写明她没有工作（:336 'The one I don't have.'）。",
+    "Juan": "Alba 的丈夫，Carmen 的女婿。早晨被吵醒后去上班（'It's forty'，四十度），开车送孩子、当天还要在商场关门前陪 Alba 回来；为 Switch 手柄与 Alba 一起打过电话（:126）；他不知道 Alba 会在商场做的事。",
+    "Carmen": "Alba 与 Diana 的母亲，Juan 的岳母。七十五岁（:48 'a seventy-five-year-old woman'）；自二十五岁起住在 Sant Ildefons，住了将近五十年；丈夫（Alba 与 Diana 的父亲）已去世两年多（详见 ch05 / 本章 :132 的父亲葬礼追忆）。本章她清晨来敲门禁、带孙子，坚持每天四趟接送孩子，坚持与 Alba 一起逛商场，坐在 MediaMarkt 那把不属于自己的蓝椅子上不肯起身，被「寡妇」吓得由女儿搀扶，最终陪 Alba 回家。",
+    "Diana": "Alba 的姐姐，两个孩子的母亲（Brisa、Tomás）。本章不在巴塞罗那（:126 'Alba would probably make a final attempt to chase down a different clerk'，:339 电话由 Diana 打出）。本章末尾她在自家发现 Brisa 睡梦中鼻出血，取出三十厘米血块并误录成视频。",
+    "Brisa": "Diana 的女儿，Alba 的外甥女。本章下午在 Diana 家中睡觉，醒来时脸与 T 恤满是血；鼻孔里取出三十厘米长的血块。",
+    "Brigitte": "Alba 的长女，Brisa 的表姐。四岁起练体操、如今一周五天；在平衡木上发生鼻出血，白色滚边连体衣被血浸透。",
+    "Tomás": "Brisa 的哥哥（Diana 的儿子）。本章仅两处：Alba 抢过他的书包找尺子量血块；血块与他的塑料尺并排出现在自动播放的视频里。",
+    "the widows": "商场里常驻的一对约七十岁、几乎一模一样的黑衣老姐妹；Alba 称她们「the widows」，Diana 说像她最喜欢的电影里「一个盲眼灵媒和她的姐姐」；其中一位是斜眼的。她们只问了 Alba 出口在哪，其中一位说「one day, I won't know how to get out, either.」",
+    "MediaMarkt 店员": "二十来岁（a twentysomething guy），制服脏、眼镜用医用胶带粘着；被 Alba 追了半小时，始终不看她。",
+    "Juan 的父亲（公公）": "被 Alba 提过：Alba 说「Call Juan's dad and make him pick up the kids」，Carmen 回「Your father-in-law won't get there in time」——他赶不到接孩子。",
+    "Juan 的姑妈": "Alba 说要去问她「在哪儿解邪眼」（:453 'I'll ask Juan's aunt'），Carmen 不解「Why Juan's aunt?」，母亲答「Because she believes in this kind of thing.」",
+    "两个女孩的母亲（= Alba 与 Diana）": "本章 :462-:465 段落说明她们共同的身体弱点：鼻血、湿疹、麦粒肿、突发过敏、皮肤对紧身衣的抗拒；「We passed it on.」（Diana 的原话）",
+    "unmentioned": "Alba 的长子（换手柄的对象）本章只被提及；Brisa 的儿科医生、Brigitte 的两名体操教练只以转述出现；ch01 的 Carlos 在本章 :483 结尾的解释者名单中作为「给出过解释却没能说服两人」的人被点名。"
+  },
+  "numbers_and_dates": {
+    "verbatim_numbers": [
+      {
+        "text": "It was seven thirty a.m. but still pitch-dark",
+        "range": [
+          471,
+          516
+        ],
+        "line": 9,
+        "note": "Alba 睁眼时刻（天未亮）"
+      },
+      {
+        "text": "Everyone opened their eyes, two minutes after her",
+        "range": [
+          1203,
+          1252
+        ],
+        "line": 9,
+        "note": "她踢响玩具车后两分钟全家醒来"
+      },
+      {
+        "text": "pressing buzzers on a Wednesday at seven a.m.?",
+        "range": [
+          2177,
+          2245
+        ],
+        "line": 36,
+        "note": "星期三早上七点（本章的星期锚点）"
+      },
+      {
+        "text": "since she was twenty-five—almost fifty years",
+        "range": [
+          2925,
+          2969
+        ],
+        "line": 42,
+        "note": "Carmen 住进 Sant Ildefons 的时长（25 岁起，近五十年）"
+      },
+      {
+        "text": "the face of a seventy-five-year-old woman",
+        "range": [
+          4268,
+          4309
+        ],
+        "line": 48,
+        "note": "Carmen 的年龄（Juan 清晨开门时所见）"
+      },
+      {
+        "text": "1-1-9 plus pound",
+        "range": [
+          3788,
+          3804
+        ],
+        "line": 48,
+        "note": "门禁码（进门一次、楼道口再一次）"
+      },
+      {
+        "text": "“It’s forty,”",
+        "range": [
+          5556,
+          5569
+        ],
+        "line": 69,
+        "note": "Juan 报的室外温度：四十度"
+      },
+      {
+        "text": "the school was in Esplugues, half an hour from home",
+        "range": [
+          7734,
+          7785
+        ],
+        "line": 117,
+        "note": "学校距离与通勤时长"
+      },
+      {
+        "text": "two children, seven and nine",
+        "range": [
+          8070,
+          8098
+        ],
+        "line": 117,
+        "note": "两个孩子的年龄（七岁、九岁）"
+      },
+      {
+        "text": "a baby in a stroller, less than a year old",
+        "range": [
+          8104,
+          8146
+        ],
+        "line": 117,
+        "note": "婴儿不到一岁"
+      },
+      {
+        "text": "adding a trip to the four they already made daily",
+        "range": [
+          10363,
+          10391
+        ],
+        "line": 123,
+        "note": "每天四趟接送"
+      },
+      {
+        "text": "It was only three stops away",
+        "range": [
+          10445,
+          10474
+        ],
+        "line": 123,
+        "note": "Finestrelles 商场三站路"
+      },
+      {
+        "text": "She and Juan had bought them two months ago",
+        "range": [
+          11311,
+          11325
+        ],
+        "line": 126,
+        "note": "Switch 手柄的购买时间"
+      },
+      {
+        "text": "at the MediaMarkt in Westfield La Maquinista",
+        "range": [
+          11327,
+          11371
+        ],
+        "line": 126,
+        "note": "购买手柄的商场"
+      },
+      {
+        "text": "the biggest in Catalonia",
+        "range": [
+          11503,
+          11527
+        ],
+        "line": 126,
+        "note": "La Maquinista 的规模（Alba 觉得压迫）"
+      },
+      {
+        "text": "one of the biggest in Spain",
+        "range": [
+          11533,
+          11560
+        ],
+        "line": 126,
+        "note": "同上"
+      },
+      {
+        "text": "When they had tested the controllers a week ago",
+        "range": [
+          11563,
+          11610
+        ],
+        "line": 126,
+        "note": "发现一个手柄坏了的时间"
+      },
+      {
+        "text": "seven days of phone calls and visits to different locations",
+        "range": [
+          11760,
+          11819
+        ],
+        "line": 126,
+        "note": "找手柄的奔波时长"
+      },
+      {
+        "text": "had been sold out for two weeks",
+        "range": [
+          11883,
+          11914
+        ],
+        "line": 126,
+        "note": "断货时长"
+      },
+      {
+        "text": "she had just an hour",
+        "range": [
+          12069,
+          12081
+        ],
+        "line": 126,
+        "note": "剩余时间"
+      },
+      {
+        "text": "ten months later, it remained that way",
+        "range": [
+          12217,
+          12255
+        ],
+        "line": 129,
+        "note": "Alba 眼皮皮肤问题的持续时长"
+      },
+      {
+        "text": "nine years straight",
+        "range": [
+          12740,
+          12759
+        ],
+        "line": 129,
+        "note": "哺乳持续时长（Alba 的自我感受）"
+      },
+      {
+        "text": "the thirty-seven-year-old",
+        "range": [
+          13794,
+          13815
+        ],
+        "line": 129,
+        "note": "Alba 的年龄"
+      },
+      {
+        "text": "there being only three days until Christmas",
+        "range": [
+          14000,
+          14026
+        ],
+        "line": 132,
+        "note": "本章与圣诞的间隔（三天）"
+      },
+      {
+        "text": "a few years ago, at her father’s funeral",
+        "range": [
+          14952,
+          14992
+        ],
+        "line": 132,
+        "note": "Diana 数癖好时点（父亲葬礼）"
+      },
+      {
+        "text": "twenty-three obvious manias",
+        "range": [
+          15333,
+          15360
+        ],
+        "line": 132,
+        "note": "Diana 数出的癖好数量"
+      },
+      {
+        "text": "They clicked their heels together whenever someone said the word death",
+        "range": [
+          15411,
+          15481
+        ],
+        "line": 132,
+        "note": "母系女性共有的动作"
+      },
+      {
+        "text": "The former outnumbered the latter five to one",
+        "range": [
+          17306,
+          17351
+        ],
+        "line": 177,
+        "note": "顾客与店员的比例"
+      },
+      {
+        "text": "the spectacular 4K TV screens",
+        "range": [
+          18150,
+          18179
+        ],
+        "line": 177,
+        "note": "MediaMarkt 电视区"
+      },
+      {
+        "text": "a swarm of jellyfish on the screen",
+        "range": [
+          19464,
+          19496
+        ],
+        "line": 219,
+        "note": "电视屏幕上的一群水母（与 :120 的水母比喻呼应，但这是电视画面，不是失焦）"
+      },
+      {
+        "text": "the child weigh thirty pounds",
+        "range": [
+          22047,
+          22060
+        ],
+        "line": 249,
+        "note": "Alba 抱孩子时对体重的疑惑"
+      },
+      {
+        "text": "around seventy",
+        "range": [
+          27357,
+          27371
+        ],
+        "line": 342,
+        "note": "「寡妇」二人的年龄"
+      },
+      {
+        "text": "ten minutes in the hope",
+        "range": [
+          28719,
+          28742
+        ],
+        "line": 342,
+        "note": "为躲「寡妇」躲进洗手间的时间"
+      },
+      {
+        "text": "About a month ago",
+        "range": [
+          34147,
+          34164
+        ],
+        "line": 468,
+        "note": "两个女孩同时鼻血的时间（一个月前）"
+      },
+      {
+        "text": "since she was four years old",
+        "range": [
+          35170,
+          35198
+        ],
+        "line": 468,
+        "note": "Brigitte 练体操的起始年龄"
+      },
+      {
+        "text": "practiced five days a week",
+        "range": [
+          35207,
+          35233
+        ],
+        "line": 468,
+        "note": "Brigitte 现在的训练频率"
+      },
+      {
+        "text": "the three meters of beige carpet",
+        "range": [
+          36341,
+          36373
+        ],
+        "line": 471,
+        "note": "平衡木到观众席之间被血滴染的距离"
+      },
+      {
+        "text": "It hadn’t been even half an hour when Brisa appeared",
+        "range": [
+          38625,
+          38677
+        ],
+        "line": 477,
+        "note": "Diana 抱着 Brisa 回房后不到半小时"
+      },
+      {
+        "text": "thirty centimeters",
+        "range": [
+          40781,
+          40799
+        ],
+        "line": 480,
+        "note": "Diana 用 Tomás 的尺子量出的血块长度"
+      },
+      {
+        "text": "They could find no solace.",
+        "range": [
+          41930,
+          41956
+        ],
+        "line": 483,
+        "note": "本章最后一句（该句本身是五个词：They / could / find / no / solace）"
+      }
+    ],
+    "dates": {
+      "chapter_time": "十二月二十二日（星期三）清晨七点半开始，当天到傍晚。星期锚点由 Juan 的原话给出：'who’s sneaking around pressing buzzers on a Wednesday at seven a.m.?'（:36）。与圣诞的距离由两处给出：'Despite there being only three days until Christmas'（:132）——若「三天后是平安夜」成立，则本章为 12 月 22 日（与 ch01 epub 分隔页 'December 22: Three Days Before Christmas' 吻合）；Carmen 口中 'Tomorrow is my birthday.'（:165）指 Alba 明天生日，'The next day. Christmas Eve?'（:171）指后天是平安夜。时间轴：七点半起床 → 早晨争吵与出门 → 中午在 MediaMarkt 换手柄 → 下午在商场/返程 → 同日下午 Diana 在家发现 Brisa 鼻血 → 夜里两人无眠。",
+      "relative_times": "Alba 一月订机票、八月订万圣节装饰、九月开始圣诞采购（:6，年复一年）；Carmen 二十五岁起住这片（近五十年）；Juan 当天要上班、收工后陪 Alba 再去一趟（'when Juan finishes up, until dinner'，:174）；Alba 明天生日、后天平安夜（:165/:171）；手柄两个月前买、一周前试出坏、跑了七天、断货两周、只剩一小时（:126）；眼皮问题自出生起、出生十个月后仍未好（:129）；Brigitte 四岁起练体操、现一周五天（:468）；两个女孩同时鼻血是「一个月前」（:468）；Diana 数癖好是在「几年前父亲的葬礼上」（:132）；ch01 的圣诞演出在 :12 语境中同属这一周。",
+      "long_arc": "父亲（Alba 与 Diana 的父亲、Carmen 的丈夫）已去世；本章 :132 回忆他的葬礼守灵（几年前的守夜），他死后家里所有女性都表现出强迫与迷信。ch01（12 月 22 日）里 Diana 误了 Brisa 的圣诞演出，同日 ch02 是 Alba 一家的一天；:477 明确 Brisa 在 Diana 家睡觉（「同一天下午」），Brigitte 同时在体操馆。两姐妹的女儿在同一时刻流鼻血，是全书两条线在本章合流的第一处硬证据；本章末句 'They could find no solace.' 是这一卷的收束（ch16 全书收尾另有 'I just wanted the controllers.'）。"
+    }
+  },
+  "open_questions_for_md_check": [
+    "「最后一句只有五个词」——本章末句是 'They could find no solace.'，按空格计是五个词（They / could / find / no / solace.）。若 md 写成「四个词」或「五个词」须与原文用法一致；全书另一处「五个词」在 00_概述.md:46，指的是 ch16 结尾 'I just wanted the controllers.'，不是本章。",
+    "「本章后面还会出现一次类似的失焦，那时她怀里抱的是孩子」——水母一词在本章出现两次：:120 'a many-tentacled jellyfish'（社区结构的比喻）与 :219 'a swarm of jellyfish on the screen at her back'（电视屏幕上的一群水母）。:219 不是失焦、也不是「怀里抱孩子」；本章真正的失焦在 :249（跟着店员、只剩衬衫领子、直到孩子重得受不了）。md 若把这两处并成同一处，即为编。",
+    "Alba 本章的年龄：:129 'the thirty-seven-year-old whose eyes were raw and burning' 是全书对 Alba 年龄的说明；md 若写「三十七岁」须与之一致，且不能与「她有三个孩子，其中一个不到一岁」相冲突（原文另有她「像生了九年的孩子」的自述，:129 'what felt like nine years straight'——那是哺乳时长的自我感受，不是怀孕次数）。",
+    "Carmen 的年龄：:48 'a seventy-five-year-old woman'；而 'They looked to be around seventy'（:342）说的是「寡妇」姐妹。md 若把两者混为一人（或把 75 岁记成「快八十」/「七十出头」）即为错。",
+    "「他／丈夫」指谁：Juan 是 Alba 的丈夫（:48 'her son-in-law'、:66 'Juan, check the weather'）；Juan 的父亲本章只是被提到（公公赶不到接孩子，:294）；Juan 的姑妈是「信邪眼那套」的人（:453-459）。md 若把 Juan 的父亲写成 Juan 本人、或把「姑妈」写成「寡妇」之一，即为编。",
+    "两个女孩的关系：Brisa 是 Diana 的女儿，Brigitte 是 Alba 的女儿，Brisa 与 Brigitte 是表姐妹（:477 'while her cousin was at gymnastics, Brisa was sleeping in her room'）。本章 :468 说「两个女孩的鼻子同时流血」，指的是她们两人，不是 Diana 和 Alba 自己的鼻血（后者在 :462 是另一层意思）。md 若把「同时」安到母亲身上即为错。",
+    "Brisa 的血块：:480 由 Diana 亲手从 Brisa 鼻孔中取出并用 Tomás 的尺子量出「thirty centimeters」；Brigitte 的血在白滚边连体衣与三米米色地毯上。md 若把三十厘米安到 Brigitte 身上，或把两个女孩的血混为一处，即为错。",
+    "本章「失焦／恍惚」只有一次，发生在 MediaMarkt（:249），当时 Alba 抱着孩子；:219 的水母是电视屏幕上的画面，:120 的水母是叙述者的社区比喻。md 的「读者视角提示」若说本章后面还有一次失焦，读者会去找一个不存在的段落。",
+    "Alba 的「工作」：:336 'The one I don’t have.' 是 Alba 自己的话，指她没有工作；她抱怨的是「I don’t like my job, either」。md 若写她「不喜欢自己的工作」当作她有工作，即为错；:297 另说她抱怨时会让姐姐 Diana 难堪。",
+    "「上午还是下午」：商场一段发生在午餐后送完大孩子之后（:123 'With the first legs of their daily tour complete…drop the older kids back at school after lunch'），而 :132 写 'only three days until Christmas'，:165 'Tomorrow is my birthday'。md 若把商场戏放在上午或晚上，即为时序错位。",
+    "Switch 手柄的归属：Alba 与 Juan 两个月前买给长子（'That day’s mission was to exchange a couple of Switch controllers for her eldest'，:126），一个坏了、跑了一周、只剩一小时。ch16 全书收尾 'I just wanted the controllers.' 指的就是这双手柄——md 若写「给女儿买手柄」即为错。",
+    "「再见一面」类断言： Carmen 主动提出「you can come back tonight with Juan right before they close」（:255），Alba 拒绝并独自离开（:297）。md 若写「Alba 答应了晚上再来」即为编。",
+    "「把门跨两次」的强迫：:132 明写 Carmen 知道女儿「cross through a door or an archway twice」的强迫；:132 同一段还给出全家女性「都是强迫与迷信」以及 Diana 在父亲葬礼上数出二十三个癖好。md 若写成 Diana 本人不是强迫症，或把二十三个癖好安到 Carmen 头上，即为归属反转。",
+    "「 Alba 进门出门两次」的次数：:132 写的是「跨过门槛后又退出来、再进一次」这一动作发生在进入 MediaMarkt 时；:342 写 'Alba had just stepped out of MediaMarkt—for the second time'（当天第二次踏出 MediaMarkt）。两处「二次」含义不同，md 混用即错。",
+    "「小孩的重量」：:249 'Since when did the child weigh thirty pounds?' 是 Alba 对自己抱着孩子重量的疑惑，不是孩子的实际体重记录。md 若写成「孩子三十磅重」为事实化解读（原文是疑问），属解读非事实。",
+    "「四个词／五个词」类可数断言必须逐字核：'They could find no solace.' 是五个词；'It just wanted the controllers.' 另有 ch16 结尾 'I just wanted the controllers.'（五词）。"
+  ]
+}
