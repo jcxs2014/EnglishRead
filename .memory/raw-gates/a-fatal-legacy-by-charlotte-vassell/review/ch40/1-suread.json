@@ -1,0 +1,412 @@
+{
+  "chapter": "ch40",
+  "reviewer": "独立审查员（第二轮，独立重读原文）",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch40_40.txt",
+  "source_total_chars": 8828,
+  "source_lines": 209,
+  "suread_only": "本人先通读 text/ch40_40.txt 全文（未见 md），但在目录清点时的一条命令里先打印出了本章 md 的前 40 行（导航 5 项 + 原句 1–3 的中文理解/关键词/为什么这样写），随后才落盘本文件。补救：① 本文件 16 条事件全部按原文动作粒度独立记录，与 md 前 40 行所见内容（人物、数值、场景）逐条比对无冲突、无一方信息渗入（md 前 40 行未提 Marcus 的板球队、Turner 展、Dotty 怀孕、£10 导览、「我不是六岁」，均为本人素读时独立记下）；② 3-diff.md / 4-correspondence.md 的每条结论均重新回原文取逐字证据；③ 4-verdict.md §0 已登记该顺序瑕疵。结论有效性未受影响。",
+  "section_title_verbatim": "Frithsden Old Hall",
+  "division": {
+    "name": "FRIDAY",
+    "evidence": "epub TOC（library/A Fatal Legacy (Charlotte Vassell) (z-library.sk, 1lib.sk, z-lib.sk).epub → OPS/TOC.xhtml）：s050-Part-008.xhtml = “FRIDAY”，其后依次为 s051-Chapter-036、s052-Chapter-037、s053-Chapter-038、s054-Chapter-039、s055-Chapter-040；下一个分部 s056-Part-009.xhtml = “SATURDAY”，从 s057-Chapter-041 开始。⇒ 第 40 章属 FRIDAY 分部。",
+    "twelve_parts_verbatim": [
+      "A FRIDAY IN MAY",
+      "SATURDAY",
+      "SUNDAY",
+      "MONDAY",
+      "TUESDAY",
+      "WEDNESDAY",
+      "THURSDAY",
+      "FRIDAY",
+      "SATURDAY",
+      "MONDAY",
+      "TUESDAY",
+      "SIX WEEKS LATER"
+    ],
+    "note": "text/ 提取件不含分部标题行（text/ch40_40.txt 头部只有章号 40 与小标题 Frithsden Old Hall），分部名只能回 epub 核。"
+  },
+  "events": [
+    {
+      "n": 1,
+      "char_range": [
+        41,
+        656
+      ],
+      "line": 20,
+      "what": "凯厄斯与卡莉坐在俯瞰玫瑰园的露台上；凯厄斯在读书，卡莉看园子、吹着微风，觉得这里比伦敦凉快，遗憾没带速写本；一只蝴蝶落在石栏杆上，她想轻触看看橙黑翅膀——与欧拉莉亚展示册所用布料几乎同色；她把关于欧拉莉亚的念头甩开，看着蝴蝶飞走。",
+      "quote_verbatim": "Caius and Callie were sitting on the terrace overlooking the rose garden."
+    },
+    {
+      "n": 2,
+      "char_range": [
+        659,
+        1264
+      ],
+      "lines": [
+        23,
+        26,
+        29,
+        32,
+        35,
+        38
+      ],
+      "what": "布里奇特端出他们那位自由职业厨师前一天做的维多利亚海绵蛋糕，切一大块放在盘里，问卡莉要不要泡杯茶；卡莉问有没有草本的（并道谢蛋糕香），布里奇特列薄荷、洋甘菊、柠檬姜三选一，卡莉选柠檬姜；布里奇特看表说现在是周五下午四点，提议来点更烈的（酒），卡莉拒绝并努力装出满不在乎的样子。",
+      "quote_verbatim": "Bridget brought out a Victoria sponge that their freelance cook had made the day before."
+    },
+    {
+      "n": 3,
+      "char_range": [
+        1267,
+        1695
+      ],
+      "line": 41,
+      "what": "凯厄斯管布里奇特叫“Mum”，要了瓶啤酒；他把当天早上到的历史书放下（想靠非虚构走出阅读低谷），但脑子后台一直在过 Digby Combe-Watson 一案，虽然不被准进 incident room、很难集中注意力；他把原因推给作者文笔干涩，而不是自己心神不宁。",
+      "quote_verbatim": "‘I’ll have a beer, Mum, please.’ Caius put down the history book that had arrived that morning."
+    },
+    {
+      "n": 4,
+      "char_range": [
+        1698,
+        1999
+      ],
+      "lines": [
+        44,
+        47
+      ],
+      "what": "布里奇特说“自己拿去”，并给凯厄斯一个“跟我来”的眼神；凯厄斯跟她回屋，卡莉留在露台晒太阳、翻《Vogue》；马库斯在厨房等着他们两人。",
+      "quote_verbatim": "Marcus was waiting for them both in the kitchen."
+    },
+    {
+      "n": 5,
+      "char_range": [
+        2002,
+        2351
+      ],
+      "lines": [
+        50,
+        53,
+        56
+      ],
+      "what": "马库斯叫布里奇特“Bridge”，说“再来几间卧室”；布里奇特低头瞪着凯厄斯，反问“更多卧室，马库斯？”，说卡莉爱喝浓茶、下午也爱喝金酒，问“姜茶？”；凯厄斯嘴硬说“我什么都不说”，却在父母合力的一瞪下让步：“反正还有六个星期。”",
+      "quote_verbatim": "‘Well, not for another six weeks anyway.’"
+    },
+    {
+      "n": 6,
+      "char_range": [
+        2354,
+        2891
+      ],
+      "lines": [
+        59,
+        62,
+        65,
+        68,
+        71,
+        74
+      ],
+      "what": "马库斯说“你们可以在这里办婚礼”（指老宅）；布里奇特接话：抓紧的话八月就能办——餐饮、篷房、还要有人做花，并说卡莉认识能赶工做礼服的人；凯厄斯回“哇”，布里奇特反问“未婚先孕？”，凯厄斯答“冷静点，这是二十一世纪，法律都改了”；马库斯为缓和气氛问“戒指买了没？我们家有祖传的，没必要买新的，卡莉反正喜欢旧东西”。",
+      "quote_verbatim": "‘You can have the wedding here,’ Marcus said."
+    },
+    {
+      "n": 7,
+      "char_range": [
+        2894,
+        3142
+      ],
+      "lines": [
+        77,
+        80,
+        83,
+        86
+      ],
+      "what": "凯厄斯又说了一遍“冷静点”，然后笑了：“不过知道了。啤酒在哪，妈？”；布里奇特反问“你说在哪”；凯厄斯答“冰箱？”；布里奇特说“不错，你几乎够格当父亲了”。",
+      "quote_verbatim": "‘Well done. You’re almost sensible enough to be a father,’ Bridget said."
+    },
+    {
+      "n": 8,
+      "char_range": [
+        3145,
+        4148
+      ],
+      "lines": [
+        89,
+        92,
+        95,
+        98,
+        101
+      ],
+      "what": "凯厄斯问“你们俩今晚要出去吧”，他从冰箱拿了啤酒，不想在乔治面前被当十五岁小孩；马库斯说他们周末去马盖特（Margate），自哼《Oh I Do Like to Be Beside the Seaside》；布里奇特说“去呼吸海风”，现在比她小时候时髦多了、连头驴都看不见；接着谈他们捐给国家的透纳作品——塔特那边明年要据此办展、委托一批艺术家再创作、请他们去某种捐赠人晚宴；布里奇特说买了条漂亮新裙子（不能装作一切都来自衣柜深处），说卡莉告诉过她国王道上一家做二手设计师衣物的店、那个做褶皱的日本设计师，“我看起来很艺术”。",
+      "quote_verbatim": "‘Oh yes, we’re off to Margate for the weekend, aren’t we, Bridge?’ Marcus said"
+    },
+    {
+      "n": 9,
+      "char_range": [
+        4151,
+        4632
+      ],
+      "lines": [
+        104,
+        107
+      ],
+      "what": "凯厄斯介绍今晚要来的乔治——“画家兼雕塑家，才华非凡”——但父母其实没在听；布里奇特离开厨房去找手机，因为想上网看婴儿衣服。马库斯拍着凯厄斯的背说自己要当“fun granddad”，要爬遍每个软体游乐场的每个球池，并说“妈说了算”。",
+      "quote_verbatim": "‘I’m going to be a fun granddad. I’m going to crawl through every ball pit in every soft play,’ Marcus said, patting Caius on the back."
+    },
+    {
+      "n": 10,
+      "char_range": [
+        4635,
+        5316
+      ],
+      "lines": [
+        110,
+        113,
+        116,
+        119,
+        122,
+        125
+      ],
+      "what": "凯厄斯管马库斯叫“Dad”，问家里有没有让人发毛的东西（缩头之类）；马库斯说没那么阴森，但“这个家族里你得琢磨有些古董是怎么来的”，还说“我敢肯定有人圈了公地，在村里最好别提”，他加入了板球队、写了张支票修亭子所以眼下很受欢迎——“直到他们看我打球”；凯厄斯问“抵税？”，马库斯说“跟那些乡巴佬、或者 HMRC 搞好关系没坏处”。",
+      "quote_verbatim": "‘Dad, do we have anything creepy in the house?’"
+    },
+    {
+      "n": 11,
+      "char_range": [
+        5334,
+        5793
+      ],
+      "lines": [
+        131,
+        137,
+        140,
+        143
+      ],
+      "what": "马库斯说“说到艺术品什么的，我前阵子收到一个历史学家发到家族办公室来问东问西的邮件”，问的是神父洞（priest holes），他觉得还没全找到，他那建筑师脑子觉得有块没算进去的“负空间”；凯厄斯说“这让我不舒服”；马库斯说“我把邮件转给你，你去跟他对接，我不排斥有人到处搜刮、书写这个地方”。",
+      "quote_verbatim": "‘About the priest holes. I don’t think we’ve found them all, you know. My builder’s brain thinks there’s some negative space that’s not accounted for.’"
+    },
+    {
+      "n": 12,
+      "char_range": [
+        5796,
+        6457
+      ],
+      "lines": [
+        146,
+        149,
+        152,
+        155,
+        158
+      ],
+      "what": "凯厄斯说了句“开始了”，马库斯问“什么开始了”，他改口“没什么”，随即猜想这楼里会不会有贝宁雕塑、希腊神庙残片、故宫里不该有的东西——“我完全不知道这栋楼里有什么”；马库斯说“我们不需要这种坏气场”，他并不执着于那些东西，让凯厄斯找个懂老东西的人估估价、顺便写一份宅子的小册子、周六给人导览、每人收 £10；凯厄斯摇头说“我不做导览”，一边走回露台一边拉开了啤酒罐。",
+      "quote_verbatim": "‘I’m not doing tours.’ Caius shook his head"
+    },
+    {
+      "n": 13,
+      "char_range": [
+        6460,
+        7186
+      ],
+      "lines": [
+        161,
+        164,
+        167,
+        170,
+        173,
+        176
+      ],
+      "what": "卡莉从杂志上抬起眼；凯厄斯坐到她身边握住她，问“你喜欢那座农舍吗？”，说他喜欢这房子、比他愿意承认的还喜欢，他从没想过自己能拥有那么多空间；卡莉答“喜欢极了”；凯厄斯说“我们得先挑厨房”；卡莉问“他们知道了？”，凯厄斯答“绝对没可能瞒住这孩子，要是大都会警局肯把这两个都雇了，犯罪率会暴跌”；他抚了抚她的手臂，重新拿起那本书（封面是伊丽莎白一世、温斯顿·丘吉尔等英格兰旧日荣耀的卡通头像），他不太读历史、偏爱虚构，因为虚构“没那么让人难受”。",
+      "quote_verbatim": "He didn’t read much history. He preferred fiction. It was less upsetting."
+    },
+    {
+      "n": 14,
+      "char_range": [
+        7189,
+        7876
+      ],
+      "lines": [
+        179,
+        182,
+        185,
+        188
+      ],
+      "what": "布里奇特端来托盘：一壶柠檬姜茶和两只茶杯，说“你的小朋友们刚到，凯厄斯”；凯厄斯说“我不是六岁，妈，这不是玩伴会”；布里奇特说“想象一个六岁孩子有你这么高”，转向卡莉问“你那位朋友，她怀孕了吧？我想她也许也想要杯姜茶，对晨吐真好”；卡莉道谢，并觉得看别人在父母面前变成 teenager 很怪——她原以为只有自己如此，也许是普遍现象。",
+      "quote_verbatim": "‘Your friend, she’s pregnant, isn’t she? I thought she might like a cup of ginger tea too. So good for morning sickness.’"
+    },
+    {
+      "n": 15,
+      "char_range": [
+        7879,
+        8447
+      ],
+      "lines": [
+        191,
+        194,
+        197,
+        200,
+        203,
+        206
+      ],
+      "what": "布里奇特问卡莉“你前任走了吗？”；卡莉说“走了，我父亲的律师寄了一封措辞很强硬的信”；布里奇特说“那就好办多了”，进屋时踩着磨旧的黑白地砖，又说“我得说，凯厄斯，我所有朋友都在给我发这些带你的脸的搞笑小图”；凯厄斯说“梗图，妈，我成梗图了”；布里奇特说“不管叫什么，他们都同意你长得很帅”；卡莉捏了捏凯厄斯的脸说“这不挺好的吗？”。",
+      "quote_verbatim": "‘Oh yes, my father’s solicitor sent a very strongly worded letter.’"
+    },
+    {
+      "n": 16,
+      "char_range": [
+        8450,
+        8827
+      ],
+      "line": 209,
+      "what": "多蒂和乔治在门厅等着（老房子，门厅更像大厅而非过道；多蒂坐在木凳上按着侧腹）；众人互相介绍；卡莉带乔治和多蒂回露台，路上顺手从冰箱给乔治拿了瓶啤酒；凯厄斯高高兴兴把父母送去了车站。",
+      "quote_verbatim": "Dotty and Georgie were waiting in the hall."
+    }
+  ],
+  "characters_and_relations": [
+    {
+      "name": "Caius",
+      "note": "视角人物；父母称之为儿子；对布里奇特称 Mum、对马库斯称 Dad；与卡莉是伴侣，孩子即将出生（“not for another six weeks anyway”、“keep the baby a secret”）；朋友是乔治（画家兼雕塑家）与多蒂；提到自己不被准进 incident room、仍在脑中过 Digby Combe-Watson 案"
+    },
+    {
+      "name": "Callie",
+      "note": "凯厄斯的伴侣/未婚妻，怀孕中；有一个前任（其了结由她父亲的律师出面）；曾告诉布里奇特国王道上那家二手设计师店；布里奇特称之为“你那位朋友”的朋友（怀孕者）"
+    },
+    {
+      "name": "Bridget",
+      "note": "凯厄斯的母亲——凯厄斯称其 Mum；被丈夫称 Bridge；操持宅子（蛋糕、茶、找手机看婴儿衣物）；对凯厄斯说“你几乎够格当父亲了”；问卡莉“你前任走了吗？”；周末与丈夫去马盖特"
+    },
+    {
+      "name": "Marcus",
+      "note": "凯厄斯的父亲——凯厄斯称其 Dad；布里奇特直呼其名；丈夫；提“婚礼可以在这里办”、问“Have you got a ring yet?”、自称“fun granddad”；把历史学家的邮件转给凯厄斯；提公地、板球队与亭子修缮"
+    },
+    {
+      "name": "Georgie",
+      "note": "今晚要来的朋友；画家兼雕塑家；“phenomenally talented”；凯厄斯不愿在他面前被当小孩看待"
+    },
+    {
+      "name": "Dotty",
+      "note": "与乔治一起来的“little friend”；坐在木凳上“holding her side”；布里奇特称其“你那位朋友，她怀孕了吧”"
+    },
+    {
+      "name": "Eulalia",
+      "note": "卡莉为她做展示册（presentation booklets），用橙黑相间布料；本章卡莉主动把关于她的念头甩开"
+    },
+    {
+      "name": "Turner",
+      "note": "该家族的透纳作品已捐给国家；塔特明年据此办展"
+    },
+    {
+      "name": "Digby Combe-Watson",
+      "note": "案件名；凯厄斯虽被禁入 incident room 仍在脑中跟进"
+    },
+    {
+      "name": "the historian",
+      "note": "几天前发邮件到 family office 询问 priest holes 的历史学家；马库斯会把邮件转给凯厄斯去对接"
+    }
+  ],
+  "numbers_and_dates_verbatim": [
+    {
+      "where": "line 35 @1106-1204",
+      "text_verbatim": "It’s four in the afternoon on a Friday."
+    },
+    {
+      "where": "line 23 @659-862",
+      "text_verbatim": "their freelance cook had made the day before"
+    },
+    {
+      "where": "line 41 @1267-1695",
+      "text_verbatim": "the history book that had arrived that morning"
+    },
+    {
+      "where": "line 56 @2196-2351",
+      "text_verbatim": "not for another six weeks anyway"
+    },
+    {
+      "where": "line 62 @2402-2583",
+      "text_verbatim": "you could have it in August"
+    },
+    {
+      "where": "line 71 @2657-2727",
+      "text_verbatim": "it’s the twenty-first century"
+    },
+    {
+      "where": "line 89 @3145-3303",
+      "text_verbatim": "treated like a fifteen-year-old in front of Georgie"
+    },
+    {
+      "where": "line 98 @3615-3839",
+      "text_verbatim": "next year"
+    },
+    {
+      "where": "line 119 @4780-5202",
+      "text_verbatim": "I’ve joined the cricket team, and written them a nice cheque to renovate the pavilion"
+    },
+    {
+      "where": "line 155 @6021-6342",
+      "text_verbatim": "Charge people £10 a pop"
+    },
+    {
+      "where": "line 155 @6021-6342",
+      "text_verbatim": "give tours on Saturdays"
+    },
+    {
+      "where": "line 176 @6768-7186",
+      "text_verbatim": "The crime rate would plummet if the Met would only hire those two."
+    },
+    {
+      "where": "line 185 @7429-7635",
+      "text_verbatim": "Imagine a six-year-old as tall as you."
+    },
+    {
+      "where": "line 92 @3306-3452",
+      "text_verbatim": "we’re off to Margate for the weekend"
+    },
+    {
+      "where": "line 179 @7189-7343",
+      "text_verbatim": "a pot of lemon and ginger tea and two teacups"
+    }
+  ],
+  "unattributed_or_ambiguous_speakers": [
+    {
+      "line": 71,
+      "char_range": [
+        2657,
+        2727
+      ],
+      "text_verbatim": "‘Calm down, it’s the twenty-first century and the law’s been changed.’",
+      "note": "无说话人标注；由 line 77 凯厄斯“said again”判为凯厄斯"
+    },
+    {
+      "line": 98,
+      "char_range": [
+        3615,
+        3839
+      ],
+      "text_verbatim": "‘They’re going to do an exhibit based on the Turner we donated to the nation at the Tate there next year. They’re commissioning a group of artists to riff off it. They’ve invited us down for some sort of donor dinner thing.’",
+      "note": "无说话人标注；接在布里奇特“我们去呼吸海风”之后、话题仍是马盖特之行与捐赠晚宴，说话人应为布里奇特（马库斯上一句已说完）"
+    },
+    {
+      "line": 170,
+      "char_range": [
+        6704,
+        6738
+      ],
+      "text_verbatim": "‘We need to pick a kitchen first.’",
+      "note": "无说话人标注。前一句 line 167 ‘Loved it.’ 是卡莉回答凯厄斯「Did you like the farmhouse?」；本句谈两人共同置办的厨房（we），判为凯厄斯"
+    },
+    {
+      "line": 173,
+      "char_range": [
+        6741,
+        6765
+      ],
+      "text_verbatim": "‘They know, don’t they?’",
+      "note": "无说话人标注，但下一句 line 176 是凯厄斯的回答（“There was absolutely no chance we were going to keep the baby a secret.”），问句应出自卡莉"
+    }
+  ],
+  "key_checks_for_later": [
+    "分部名必须是书里的真名 FRIDAY（不是 A FRIDAY IN MAY；十二分部另有 SATURDAY/SUNDAY/MONDAY/TUESDAY/WEDNESDAY/THURSDAY/SATURDAY/MONDAY/TUESDAY/SIX WEEKS LATER）",
+    "老宅一场每个人的称呼与关系：Marcus=Dad/父、Bridget=Mum/母、Georgie=今晚来的画家雕塑家朋友、Dotty=同来的“little friend”、布里奇特口中怀孕的“你那位朋友”",
+    "谁在问婚事（布里奇特“Out of wedlock?”、马库斯“Have you got a ring yet?”）、谁在提婚礼场地（马库斯“wedding here”＋布里奇特“August/Caterer/Marquee/flowers”）、谁在谈房子（凯厄斯与卡莉谈农舍与厨房；马库斯谈老宅、神父洞、导览与估价）",
+    "“史实比虚构更让人难受”＝原文 line 176 “He didn’t read much history. He preferred fiction. It was less upsetting.”——这是叙述句，不是任何角色说出口的话；主语是凯厄斯",
+    "引语块应为 7 块"
+  ],
+  "disclosure_R1_order": "已登记：先读原文全文，但误先见 md 前 40 行，落盘 1-suread.json 在其后（见 4-verdict.md §0）。"
+}
