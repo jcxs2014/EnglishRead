@@ -83,7 +83,7 @@ modified: "2026-10-21"
 
 **读者视角提示**："仆人已自发聚到八楼"这一笔别放过——他的世界塌了，班底却已经自己站好队，这与他在病床上仍有底气要求一个答案直接相关。
 
-> **原句 8:** "Grey’s death has been ruled accidental, and the insurance company won’t give you any trouble. As far as the damage, the fire did not spread to any of the neighbors. Your house is a total loss, however. The fire spread too quickly and burned too hot. “Grey?” David shook his head. “Nothing but bone fragments. The police have asked his parents if they want the remains, such as they are.”"
+> **原句 8:** "Grey’s death has been ruled accidental, and the insurance company won’t give you any trouble. As far as the damage, the fire did not spread to any of the neighbors. Your house is a total loss, however. The fire spread too quickly and burned too hot.” “Grey?” David shook his head. “Nothing but bone fragments. The police have asked his parents if they want the remains, such as they are.”"
 
 **中文理解**：警方已把死者的死亡定为意外，保险公司也不会为难；火没有蔓延到邻居家，可房子彻底烧掉了，火太快太猛。问到遗体时对方只是摇头：只剩几块骨头碎片，警方已问他的父母要不要领回。
 
