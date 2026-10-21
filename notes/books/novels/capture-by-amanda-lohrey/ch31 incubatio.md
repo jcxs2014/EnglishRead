@@ -141,7 +141,7 @@ modified: "2026-10-20"
 
 > **原句 11:** "‘Yes, many dogs. Sacred to the god. Good for wounds.’ I consulted the booklet and, sure enough, dogs were indeed sacred and encouraged to lick the flesh wounds of patients in the belief that canine saliva was a natural antibiotic."
 
-**中文理解**：「对，很多狗。神圣的。治伤口很管用。」我翻了翻册子，果然：狗是神圣的，而且**人们被鼓励让狗去舔病人的伤口**，因为他们相信狗的唾液是天然的抗生素。
+**中文理解**：「对，很多狗。神圣的。治伤口很管用。」我翻了翻册子，果然：狗是神圣的，而且**被鼓励去舔病人的伤口**，因为人们相信狗的唾液是天然的抗生素。
 
 **关键词**：many dogs. Sacred to the god / Good for wounds / dogs were indeed sacred / encouraged to lick the flesh wounds of patients / in the belief that canine saliva was a natural antibiotic
 
