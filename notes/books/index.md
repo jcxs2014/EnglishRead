@@ -33,9 +33,7 @@ title: 书单
 | [Capture](books/novels/capture-by-amanda-lohrey/) | Amanda Lohrey |
 | [Diana in Love](books/novels/diana-in-love-by-jen-besser-and-shana-feste/) | Jen Besser & Shana Feste |
 | [Dominion](books/novels/dominion-by-jean-kwok/) | Jean Kwok |
-| [Don't Leave Her Alone](books/novels/don-t-leave-her-alone-by-desiree-de-fez/) | Desirée de Fez |
 | [Eat Post Like](books/novels/eat-post-like-by-emily-arden-wells/) | Emily Arden Wells |
-| [Ebenezer Scrooge](books/novels/ebenezer-scrooge-by-j-s-barnes/) | J.S. Barnes |
 | [Everything Is Fine Here](books/novels/everything-is-fine-here-by-iryn-tushabe/) | Iryn Tushabe |
 | [Everything Was Beautiful and Nothing Hurt](books/novels/everything-was-beautiful-and-nothing-hurt-by-ben-reeves/) | Ben Reeves |
 | [eye of Leviathan](books/novels/eye-of-leviathan-by-m-a-carrick/) | M. A. Carrick |
