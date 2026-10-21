@@ -232,10 +232,10 @@
     }
   },
   "open_questions_for_md_check": [
-    "「错过了女儿的第一场演出」——本章原文有没有『第一场』？原文只说『missed a school play』是 Diana 过去若干个圣诞节里常有的旧习（:12），与 Brisa 这次是哪一场无关；本章 "first" 一词只出现在 :30 的『The only child not singing』。md 若把『第一场』当成本场演出的属性即为凭空计数。",
+    "「错过了女儿的第一场演出」——本章原文有没有『第一场』？原文只说『missed a school play』是 Diana 过去若干个圣诞节里常有的旧习（:12），与 Brisa 这次是哪一场无关；本章 \"first\" 一词只出现在 :30 的『The only child not singing』。md 若把『第一场』当成本场演出的属性即为凭空计数。",
     "「真女王正站在楼下为一只插头发疯」（块 2 的解读）——Diana 折返发生在『走到半路』（:15 halfway there），不是『楼下』；她后来确实到了楼下（:21 the building entrance），但那时她已经折返到家中了。md 若称她当时在楼下，属时间／地点错位。",
     "「纯白标准后面还会以更脏的样子回来」——本章的 immaculate white 只在 :6 出现一次。md 的跨章承诺指向别的章，须在被指章的原文里找得到落点，否则属无出处的前瞻。",
-    "「序章里也出现过一次——别人给她戴上的耳环」——序章（text/ch00_prologue.txt）的耳环是主角醒来后自己戴上的新耳洞（:21 "her ears were covered in new piercings, full of earrings she’d never seen before"），不是别人给她戴的；序章主角是带着 Brigitte 的那位母亲（ch12 同场景），不是 Brisa。md 若说『序章里别人给她戴上耳环』需回 ch00/ch12 核。",
+    "「序章里也出现过一次——别人给她戴上的耳环」——序章（text/ch00_prologue.txt）的耳环是主角醒来后自己戴上的新耳洞（:21 \"her ears were covered in new piercings, full of earrings she’d never seen before\"），不是别人给她戴的；序章主角是带着 Brigitte 的那位母亲（ch12 同场景），不是 Brisa。md 若说『序章里别人给她戴上耳环』需回 ch00/ch12 核。",
     "Brisa 在本章的唯一一次自主决定——原文只写『she decided to stop looking』（:6）这一个动作；:30 的『crossed her arms and made a mask』发生在 Brisa 看不见母亲的背景下。md 若称前者是本章唯一一次，需确认没有把 :30 也算作自主决定。",
     "「序章那家童趣店」与本章舞台道具的呼应——序章是玩具/服装店（塑料头冠、芭蕾舞鞋、蝴蝶翅膀），本章是幼儿园舞台（硬纸板翅膀、金冠）；md 说是『互相呼应』属解读层，核的是别把序章的店写成与本章同一场景。",
     "Carlos 在本章的身份——原文用 Her partner（:12），未出现 husband；md 若称『丈夫』属称谓过头。",
