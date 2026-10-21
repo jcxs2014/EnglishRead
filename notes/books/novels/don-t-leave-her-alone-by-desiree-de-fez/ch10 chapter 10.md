@@ -11,7 +11,7 @@ source_text: ch10
 - **一句话概括**：平安夜九点过后，Splau 商场已经关门，妹妹 Alba 不在，一家人散在草地上等着；而让这一夜失衡的，是母亲和女儿身上那两道腹部伤口，和一个躺在草地上玩消除游戏、连医院和诊所都劝不动的人。
 - **情感弧线位置**：全章从少了一个人的外部恐慌起步，一路滑向一种更冷的静——两个被剖开肚子的女人躺在草地上，一个玩消除游戏，一个讲三十年前的旧事；最低点其实在当下，胡安描述那道伤口时她母亲的平静，而回忆里的旧夏夜提供的是解释，不是更深的恐惧。
 - **Tropes 兑现/反转**：本章把节日夜走散亲人的老套路翻了个面：麻烦不在走散的那位身上，而在留在原地的那两位——躺在草地上、连医院都劝不动的母亲；母亲忽然崩溃的桥段也被改写，她不哭也不慌，安静得反常，还自己穿上外套走开，在草地上躺下玩起消除游戏。
-- **人物弧线**：Diana 从戴上手镜点数、用双手做成取景框的旁观者，变成三十年后才把当日目击讲出口的人；Carmen 从草地上那团安静的身影，退回到她曾把梦想投在女儿身上的旧账；Carlos 是把这家族病症说破的那个人；Juan 从报信的人变成质问的人。
+- **人物弧线**：Diana 从戴上眼镜点数、用双手做成取景框的旁观者，变成三十年后才把当日目击讲出口的人；Carmen 从草地上那团安静的身影，退回到她曾把梦想投在女儿身上的旧账；Carlos 是把这家族病症说破的那个人；Juan 从报信的人变成质问的人。
 - **叙事手法**：开场用数人头把家庭写成一份清单；中段让 Juan 单向讲述那道伤口；后半整段倒回三十年前的露营地，让当下躺在草地上的两个女人与当年蹲在灌木后的女孩彼此对位；结尾只给一句电话，把判断悬在半空。
 
 ## 精读
@@ -78,7 +78,7 @@ source_text: ch10
 
 > **原句 6:** "The yellow M on its red background liquefied, trickling downward and leaving behind just a white billboard with red text and a running turtle—the billboard for La Tortuga Ligera. Alba closed her eyes for a moment, and when she opened them, the ad for the campground was still there. She went inside and shut the curtains."
 
-**中文理解**：那块麦当劳广告牌上的黄色标志化开了，顺着牌面往下淌，淌完只剩一块白底红字的牌子，上面画着一只奔跑的海龟——那是露营地的广告牌。她闭上眼再睁开，露营地的广告还挂在那里。她转身回屋，把窗帘拉上了。
+**中文理解**：那块麦当劳广告牌上的黄色标志化开了，顺着牌面往下淌，淌完只剩一块白底红字的牌子，上面画着一只奔跑的海龟——那是露营地的广告牌。阿尔巴闭上眼再睁开，露营地的广告还挂在那里。她转身回屋，把窗帘拉上了。
 
 **关键词**：liquefied, trickling downward · the billboard for La Tortuga Ligera · She went inside and shut the curtains
 
