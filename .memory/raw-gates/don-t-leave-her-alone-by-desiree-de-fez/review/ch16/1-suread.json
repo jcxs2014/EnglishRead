@@ -1,0 +1,396 @@
+{
+  "chapter": "16",
+  "source": "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch16_chapter_16.txt",
+  "source_total_chars": 20160,
+  "source_total_lines": 66,
+  "source_heading": "16",
+  "pov": "Alba 侧视角（第三人称限定，全程贴着 Alba 的感官与身体感受）",
+  "note": "本文件在阅读任何 md 之前生成（R1 先素读、后开 md）。区间为原文字符偏移 [start,end)，基于 UTF-8 解码后的字符计数；起点＝该事件首行行首，终点＝末行整行结束（含换行 1 字符），由 /tmp/make_ranges.py 计算。line 列为原文行号（/usr/bin/grep -n 口径）。原文引文逐字抄录，弯引号保持原样。本章场景：平安夜当晚，Splau 商场关门之后的深夜；与第 15 章同一夜（ch15:93「It's Christmas Eve」、:96「There are people who work on Christmas Eve」；本章 :6「The days leading up to Christmas」、:48 提到 wrap up the Switch controllers while the kids slept，接 ch14 平安夜的送货）。本章 66 行里只有 1 行是对白（:66「I just wanted the controllers.」）——全章几乎无对话，全靠叙述推进，这是与第 15 章（24 行对白）最根本的体例差别。",
+  "events": [
+    {
+      "id": "E1",
+      "who": "Alba（视角人物）+ 商场里的女人群（画面）",
+      "what": "Alba 在商场那棵巨型圣诞树前找到她们：近的远的都有，没有一个落单，大多在树周围几米处各走各的，别的则站在树前抬头看、完全静止（seemingly hypnotized）。树本身是假的：a towering cone-shaped structure, metallic，「It wasn't really a door; it was just the frame.」，从外面能看见树心（structure was hollow）；顶上金属条汇成一处，像倒扣的新娘捧花再挂小 LED 灯；树内两条喷成金色的长椅（two benches spray-painted gold）；圣诞前高峰时段圣诞老人会在树里接待客人、问他们乖不乖、想要什么礼物，不在的时候顾客可以自由进去拍照。",
+      "range": [
+        7,
+        1189
+      ],
+      "lines": [
+        6
+      ]
+    },
+    {
+      "id": "E2",
+      "who": "Alba",
+      "what": "Alba 走向那棵树，怕被认出（staring up at the star），希望只要自己不看她们，她们就不会发现她——像小时候玩捉迷藏捂住眼睛那样；她想相信这招管用，「at least while the tentacles were at bay」。走近时视野边缘浮出一块块深色污渍，大大小小，彼此挤着朝别处挪（shifting, edging one another away）；「She didn't know who they were, but she didn't intend to look and find out.」随后她走到树前，没被任何人拦下，发现她们正坐在树里。",
+      "range": [
+        1191,
+        1809
+      ],
+      "lines": [
+        9,
+        12
+      ]
+    },
+    {
+      "id": "E3",
+      "who": "Alba（视角）+ 树里的三个女人",
+      "what": "树里一共三个人：两条长椅上各坐两人（一人独坐、两人对坐）。对坐的两人穿得一模一样——牛仔裤、穿旧的毛衣、明明天冷却穿白色夏季运动鞋；毛衣前襟和鞋面都沾着干了的褐色血迹。两人都是低马尾。独坐那个眼周皮肤红肿得睁不开眼，只有胸口在微弱起伏（rose and fell tenuously）。对面那个在流鼻血，血是深红的，不断地流过嘴唇和下巴、浸湿毛衣，顺着分开坐的双腿滴到地上、树底绿色地毯围边留下深色斑块，却「didn't do anything to stop the hemorrhaging」。作者点明：「That duplicated woman was Alba herself. And the one sitting next to her was Diana, or a gloomy version of Diana.」——那个 Diana 穿着 Alba 认得的黑色长裤和闪亮针织衫（姐妹俩都继承了 Carmen 对亮片和宝石的偏爱），苍白、骨瘦如柴、头显得太大，「like all the fat had been sucked out of her, the muscle mass and the energy, leaving her colorless, soulless」。Alba 泪流满面，忍不住看姐姐那个样子；她想起 Diana 大二那年绝食、自己不敲门走进浴室看到的那具裸体；她想拥抱这个 emaciated 版本的姐姐，脚却不听使唤（her feet wouldn't respond to her command）。",
+      "range": [
+        1811,
+        3951
+      ],
+      "lines": [
+        15
+      ]
+    },
+    {
+      "id": "E4",
+      "who": "Alba（视角）+ 树里那个 Diana",
+      "what": "那个 Diana（或她剩下的部分）轻轻拍身旁女人的大腿；她手上唯一的戒指——Alba 在她婚礼的迎宾队伍里送的那枚——在手指上晃动。接着她忽然伸出拇指和食指掐住那女人的腿，两个女人的嘴同时大张到阿尔巴觉得下巴快脱臼；几秒后，像声音被关在身体里，一声可怕的闷哼（an awful moaning）从嘴里挤出，「the same sound Alba had heard before, which had brought her here in the first place」。声音撞上店面，玻璃碎裂成片，cascade 在地板上。",
+      "range": [
+        3953,
+        5035
+      ],
+      "lines": [
+        18
+      ]
+    },
+    {
+      "id": "E5",
+      "who": "Alba（视角）+ 一楼的女人群",
+      "what": "所有女人都僵住不动，扭曲着同样的表情、下颌脱臼，尖叫穿过她们的身体和溅满血的衣服；「Some were copies of each other, like sinister twins」。",
+      "range": [
+        5037,
+        5297
+      ],
+      "lines": [
+        21
+      ]
+    },
+    {
+      "id": "E6",
+      "who": "Alba（视角）+ 一楼的女人群",
+      "what": "女人和阿尔巴年纪相仿，散布在 Splau 一楼看得见的每个角落，没有一个落单；虽然声音把她们的五官拧变了形，但没有一个女人看上去超过四十岁。Alba 惊讶她们居然一直睁着眼。她们忽然一起停下：所有的灯同时灭了——商场里灭了，街上也灭了；「Splau became the mouth of a wolf」，只有树和树里的三个女人还亮着；有一阵子阿尔巴只能看见姐姐苍白的脸，和她自己的脸——被复制成两张，却以两种不同的方式破碎（一边眼周皮肤被剥掉、睫毛都没了，一边是那个流血鼻子的）；她只能听见自己的脉搏和血滴在地毯上的声音。然后一阵掌声轰然响起——那其实不是掌声：所有女人同时举起手臂，以完美的同步拍手。",
+      "range": [
+        5299,
+        6505
+      ],
+      "lines": [
+        24
+      ]
+    },
+    {
+      "id": "E7",
+      "who": "Alba（视角）+ 恢复了活动的女人群",
+      "what": "灯重新亮起，包括圣诞树上的灯。女人们不再是僵住的样子，脸也不再冻结在变形的尖叫里：她们回到暴噪（或求救）之前各自在做的事，无视阿尔巴，偶尔对上眼也像直接看穿她。群像：两个一模一样的女人推着婴儿车（里面用睡袋裹着婴儿），一个四岁左右的孩子没在滑板车上而是抓着一位女人的外套；Burger King 门前地上，一个年轻女人在给婴儿哺乳，她母亲长着同一张脸、只比她大十八岁，用玩具店目录给她扇风；一个三十岁左右的女子提着购物袋在星巴克进进出出（无限循环）；两个一模一样的女孩经过（她们大约二十岁），没穿外套、手里拿着钥匙、鼻孔里塞着卫生纸；一个七十岁左右的女人抱着一个对她来说太重的孩子；圣诞树边一位母亲和一位祖父在试图把孩子从水泥地上拉起来，孩子在耍大脾气。",
+      "range": [
+        6507,
+        9160
+      ],
+      "lines": [
+        27,
+        30
+      ]
+    },
+    {
+      "id": "E8",
+      "who": "Alba（视角）+ 那个抱膝坐在地上的女孩",
+      "what": "阿尔巴看到一个女人坐在地上抱着自己的膝盖——「It was exactly what Carmen must have seen each time Alba had a panic attack.」；几个月前，卡门曾在黎明前叫车送 Alba 去急诊（urgent care）：三更半被座机吵醒、独自穿过 Ronda 交通环岛、Juan 不能陪因为要有人留下来照看孩子。",
+      "range": [
+        9162,
+        10561
+      ],
+      "lines": [
+        33
+      ]
+    },
+    {
+      "id": "E9",
+      "who": "Alba（视角）+ 那些陪同者",
+      "what": "真正让阿尔巴震惊、让她在无人看见时也没能离开 Splau 的，是女人们的陪同者如何出现：他们和树里那个 Diana 一样都显得虚弱——瘦削、空洞、憔悴，「Even the children. Even the babies.」；They were swimming in their clothes, their bones sticking out. 皮肤难看、笑容消失、头发干枯；「None of the adults could have weighed more than ninety pounds.」阿尔巴不敢看那些孩子。可他们仍然做到了：without complaining，Out of inertia, or because they had to，because doing otherwise had never crossed their minds；「They did it out of a deep affection she hadn't recognized, and since she hadn't recognized it, she had taken it for granted.」",
+      "range": [
+        10563,
+        11705
+      ],
+      "lines": [
+        36
+      ]
+    },
+    {
+      "id": "E10",
+      "who": "Alba（身体）+ 商场",
+      "what": "阿尔巴开始感到触手在抚弄她的肠子；她默默祈祷别被勒死，至少现在别——她想起自己brief and catastrophic 地在天主教学校待过一阵子，那些祈祷毫无用处。她跪倒在树基处，「She screamed before she had time to think it was a bad idea.」身体不听使唤；商场灯又灭了，外面和树上的灯也灭了；她痛得瘫在地上。没有人拍手把灯打开。她听见自己在呻吟，听见身体在地板上扑腾，背景里是「the kind of murmur that takes place just before a surprise party」。几秒后是触手剖开她肚子的声音——wet, viscous, obscene；触手从她身体里射出、互相拍打，然后所有灯同时重新亮起。",
+      "range": [
+        11707,
+        12714
+      ],
+      "lines": [
+        39
+      ]
+    },
+    {
+      "id": "E11",
+      "who": "Alba（视角）+ 围成一圈的女人",
+      "what": "阿尔巴躺在地上、筋疲力尽但不再疼，看到自己被一圈人围着——但没人看她的脸，她们被从她胃里长出来的银色肢体吸住（hypnotized, unblinking）。她躺着能看见一些女人裸露的肚皮：在她以为该长触手的地方，是疤痕，或更糟——tiny stumps，「small, fleshy appendages that had been cut and hadn't yet healed」。「That's why they scream, she thought.」而她自己的触手比以往更长更亮，像两条松脱的花环悬在树枝下方、接着树的光；夜空也在闪烁。「Splau, an open-top mall, had become a giant projector of pink and purple stars」——是 Alba 和 Diana 放在孩子床头灯上的那套投影的放大版。",
+      "range": [
+        12716,
+        14164
+      ],
+      "lines": [
+        42
+      ]
+    },
+    {
+      "id": "E12",
+      "who": "Alba（视角）+ 离场的女人群",
+      "what": "触手停下：stopped moving, stopped shining, stopped dancing。阿尔巴被触手的重量压着动不了，坐起来看着女人们涌向正门，走得越来越快，更多的还在不断出现——「Hundreds and hundreds streaming out of stores, restaurants, and cafés」，扶梯上成群下楼、一次不停、走楼梯两级并一步；楼梯上人太多挤成瓶颈，有人失去平衡摔倒，后面的人接着滚下去。没有人说话，但人多到阿尔巴能听见她们的声音回荡。她们全都长得像她，比她老十岁或年轻十岁。她忽然释然，笑了，身体放松下来：她把自己的离意投射到她们身上——要赶紧回家，趁孩子睡着把手柄包好塞到圣诞树下；她相信她们也盼着同样的事，去推倒商场那扇沉重铁门，迎接圣诞开始。她们不可能推不倒那扇门——朋友和家人看着孩子、拿着她们的包。",
+      "range": [
+        14166,
+        16090
+      ],
+      "lines": [
+        45,
+        48
+      ]
+    },
+    {
+      "id": "E13",
+      "who": "Alba（视角）+ 堵在门口的女人们",
+      "what": "触手向阿尔巴身体两侧落下，像被谁突然剪断的线吊着；沉重地砸在地上发出脆响，落地时扯得她内脏一痛，一度喘不上气、视野模糊。她试着掐一根触手看它会不会动，什么也没发生。collective scream 再度响起，比以往更凶更绝望。阿尔巴回头看向商场入口：几百个女人堆在门口，却都转身盯着她。她们身边的陪同者不见了——「Their companions were gone. They were alone.」下颌松开、舌头发白、眼睛大睁，似乎完全无意离开，也不打算放阿尔巴走。",
+      "range": [
+        16092,
+        16883
+      ],
+      "lines": [
+        51
+      ]
+    },
+    {
+      "id": "E14",
+      "who": "Alba（视角）",
+      "what": "尖叫停了，灯也灭了。没有人拍手把灯打开。躺着的她感觉身侧两边的触手已经是一团死重（the tentacles, inert on either side of her, were deadweight）。她想到自家孩子在商场洗手间里拍手跳舞、为了唤醒感应器自创的那套编排（the incredible choreography they invented to wake up the sensor），于是自己也拍起手，灯就亮了。她的判断：「All right, they're dead, she thought. I'm dying.」",
+      "range": [
+        16885,
+        18218
+      ],
+      "lines": [
+        54,
+        57
+      ]
+    },
+    {
+      "id": "E15",
+      "who": "Alba",
+      "what": "她躺在地上，把一只手伸进裤袋，歇斯底里地笑，笑得筋疲力尽：「Maybe she wouldn't make it, but the Switch controllers would. Mission accomplished.」保洁的人找到她时她会认不出来，但盒子会完好无损（the box would remain intact）。她把盒子从口袋里掏出来，拍拍它、在手里翻来覆去、舔手指把一个略微皱起的角压平。",
+      "range": [
+        18220,
+        19381
+      ],
+      "lines": [
+        60
+      ]
+    },
+    {
+      "id": "E16",
+      "who": "Alba",
+      "what": "触手开始恢复光泽与颜色，一阵阵轻微电击似地抽动，随后被一道紫色光从头到尾照亮。阿尔巴还在笑，也在哭——她的疲惫、悲伤和对即将失去之物的怀念，全都裹在那阵狂笑里。有人露出腹部的残根（Some of them showed the stumps on their abdomens）；她的两个同行者（她的触手）越来越长、越来越亮、越来越壮观；她穿过人群，四周被粉色光、随后是紫色磷光淹没。全章最后一句独立成行：「I just wanted the controllers.」",
+      "range": [
+        19383,
+        20160
+      ],
+      "lines": [
+        63,
+        66
+      ]
+    }
+  ],
+  "characters": {
+    "Alba": "本章唯一视角人物；Carmen 的小女儿、Diana 的妹妹、Juan 的妻子、Brigitte 与 Juanito 的母亲；在 Splau 里被触手剖开肚皮又重新长回的人；把两只 Switch 手柄看得比命重的人。",
+    "Diana": "Alba 的姐姐；本章以两个形态出现——树里那个被抽干的 gloomy version of Diana（苍白、骨瘦如柴、戴 Alba 婚礼送她的戒指），以及被摊平成「相同姿态、相同下颌、相同尖叫」的女群成员；本章她没有一句台词。",
+    "Carmen": "两人的母亲，本章只以回忆出现：阿尔巴恐慌发作时她所见即此景，她曾在黎明前叫车送 Alba 去急诊（:33）。",
+    "Juan": "Alba 的丈夫；本章只以回忆出现——卡门送 Alba 去急诊那夜他不能陪同，因为要有人留下来照看孩子（:33）。",
+    "Brigitte 与 Juanito": "Alba 的两个孩子；本章只以回忆与投影两处出现——他们把星光投影放在床头灯上（:42）、在商场洗手间里自创拍手跳舞唤醒感应器（:57）。",
+    "那些女人们": "与 Alba 年纪相仿、散布一楼的人形集合；她们有的曾是被消耗后留下残根的旧实例，此刻全部长得像她、比她老十岁或年轻十岁，涌向门口要推倒商场铁门、迎接圣诞开始（:24、:48、:51）。",
+    "那些陪同者": "每个女人身边都有一个骨瘦如柴的陪同者（连孩子和婴儿都是），一律不超过九十磅；他们出于惯性或迫于责任陪伴、从不抱怨，是阿尔巴「从未认出过的深情」（:36、:51）。"
+  },
+  "numbers_and_dates": {
+    "verbatim_numbers": [
+      {
+        "text": "two benches spray-painted gold",
+        "range": [
+          852,
+          882
+        ],
+        "line": 6,
+        "note": "树内长椅数量"
+      },
+      {
+        "text": "There were three of them",
+        "range": [
+          1811,
+          1835
+        ],
+        "line": 15,
+        "note": "树里的人头数：三个"
+      },
+      {
+        "text": "Two sitting on the same bench",
+        "range": [
+          1837,
+          1866
+        ],
+        "line": 15,
+        "note": "其中两人同坐一条长椅（对坐）"
+      },
+      {
+        "text": "more than forty",
+        "range": [
+          5651,
+          5666
+        ],
+        "line": 24,
+        "note": "没有一个女人看上去超过四十岁"
+      },
+      {
+        "text": "about four years old",
+        "range": [
+          7589,
+          7609
+        ],
+        "line": 30,
+        "note": "推婴儿车那组里没在滑板车上的男孩"
+      },
+      {
+        "text": "eighteen years older",
+        "range": [
+          8019,
+          8039
+        ],
+        "line": 30,
+        "note": "哺乳的年轻女人与她母亲的年龄差"
+      },
+      {
+        "text": "around age thirty",
+        "range": [
+          8269,
+          8286
+        ],
+        "line": 30,
+        "note": "在星巴克门口进出循环的女子年龄"
+      },
+      {
+        "text": "about twenty",
+        "range": [
+          8653,
+          8665
+        ],
+        "line": 30,
+        "note": "两个一模一样的女孩的年龄"
+      },
+      {
+        "text": "about seventy years old",
+        "range": [
+          8909,
+          8932
+        ],
+        "line": 30,
+        "note": "抱着过重孩子的老妇人年龄"
+      },
+      {
+        "text": "three in the morning",
+        "range": [
+          10025,
+          10045
+        ],
+        "line": 33,
+        "note": "卡门被座机吵醒的时刻（回忆）"
+      },
+      {
+        "text": "ninety pounds",
+        "range": [
+          11135,
+          11148
+        ],
+        "line": 36,
+        "note": "没有一个成年人体重超过九十磅"
+      },
+      {
+        "text": "two garlands",
+        "range": [
+          13725,
+          13737
+        ],
+        "line": 42,
+        "note": "阿尔巴自己的两条触手像两条松脱的花环"
+      },
+      {
+        "text": "Hundreds and hundreds",
+        "range": [
+          14501,
+          14522
+        ],
+        "line": 48,
+        "note": "涌出店铺、餐厅与咖啡馆的女人数量"
+      },
+      {
+        "text": "ten years older or younger",
+        "range": [
+          15192,
+          15218
+        ],
+        "line": 48,
+        "note": "女人们与阿尔巴的年龄差幅度"
+      },
+      {
+        "text": "I just wanted the controllers",
+        "range": [
+          20128,
+          20157
+        ],
+        "line": 66,
+        "note": "全章最后一句（五个词）"
+      }
+    ],
+    "dates": {
+      "chapter_time": "平安夜当晚，Splau 商场关门之后的深夜（与第 15 章同一夜）：本章自述「The days leading up to Christmas, at peak hours, Santa Claus would welcome visitors there」（:6）、「one of the few times of the year when the void didn't feel so close by, when they felt full because they had a million things to do」（:48 附近，指圣诞节前那段忙碌日子）；回忆里卡门是在「three in the morning」被座机吵醒的（:33）。",
+      "relative_times": "本章内的相对时间：①「the days leading up to Christmas」（:6）；②「She wanted to believe that it would work, at least while the tentacles were at bay」（:9，指触手暂时安分的那段时间）；③「Minutes passed and then, all at once, they stopped.」（:24，尖叫持续了几分钟）；④「a few months ago, when she'd called a cab before dawn to take Alba to urgent care」（:33，回忆）；⑤「to wrap up the Switch controllers while the kids slept, to nestle them under the tree」（:48，今晚回家要做的事）；⑥「the official start of Christmas」（:48，指圣诞节正式到来）；⑦「a few seconds」（:18，掐腿到闷哼之间）；⑧「Seconds later」（:39，触手剖腹）。",
+      "long_arc": "本章牵出的长线：①触手／octopus 这条线在本章收口（:42「tiny stumps…appendages that had been cut」给出「被切掉」的另一半证据，接 ch15:111–117 母亲的自白与 ch17:282–285 的回扣）；②「Switch controllers」这条线走到终点（:48、:60、:66），接 ch15:81 与 ch17:48（Alba 把手柄扔进大垃圾袋）；③「被陪着却不被看见」的主题由 ch15 的跨代拥抱推进到本章的深爱与理所当然（:36），并在 :87 给出题解式表述；④星光投影床灯（:42）接 ch11:9 的商场洗手间感应器与 ch16:57 的孩子拍手编排；⑤Carmen 的陪伴线由 ch15 的自白延伸到本章的回忆（:33）。"
+    }
+  },
+  "speaker_map": {
+    "method": "本章 66 行里只有 1 行是对白（:66「I just wanted the controllers.」），其余 21 个内容行全是叙述，且几乎全部没有 said/asked 标签。因此归属判据改为：(1) 唯一的有引号台词直接归给 Alba（上下文是她的内心独白，:66 前一段是她的「Mission accomplished」）；(2) 叙述层的「谁在做」靠代词主语与前句施动者回填（Alba 在本章几乎全程是唯一被叙述的施动者）；(3) 句中出现的他人话语用引号嵌套（如 :42「That's why they scream, she thought.」＝Alba 的内心想法；:57「All right, they're dead, she thought. I'm dying.」＝Alba 的内心）；(4) 回忆里的人（卡门、Juan、两个孩子）由 :33、:42、:57 的显式称谓锁定。凡本章无归属争议的对话，皆按「无对白」处理。",
+    "notes": [
+      ":66「I just wanted the controllers.」＝**Alba**（全章唯一一句引号台词；前一段 :60 是她的内心「Mission accomplished」，末段 :63 写她还在笑也在哭，主语是 Alba）。成品 md 若把它当成叙述句、或归给 Diana／那群女人，即错。",
+      ":42「That's why they scream, she thought.」＝**Alba** 的内心想法（she＝Alba，与前一句同指），不是那群女人说的；后面紧接的「Her tentacles, on the other hand…」说明叙述已回到她的身体。",
+      ":57「All right, they're dead, she thought. I'm dying.」＝**Alba** 的内心（they＝触手）；她据此拍手把灯打开（:57）。",
+      ":18「an awful moaning emerged from their mouths, the same sound Alba had heard before, which had brought her here in the first place」＝**树里两个女人（含那个 Diana）发出的声音**，不是阿尔巴的声音；「the same sound Alba had heard before」指此前在 Splau 听到过、并因此被引到此处的那声闷哼。成品 md 若说成「阿尔巴发出的声音」即错。",
+      ":33 回忆段里卡门与 Juan 都没有直接引语，只有间接转述（「she'd called a cab before dawn to take Alba to urgent care」「Juan couldn't have gone with her because someone had to stay with the kids」）——本章对「卡门」「Juan」的引用全部在这一段，不能给它们安上不存在的台词。",
+      ":15「That duplicated woman was Alba herself. And the one sitting next to her was Diana, or a gloomy version of Diana.」＝**叙述者**的判定（不是任何角色的台词）。这是全章最关键的身份事实：树里的三个人＝Alba 自己、Diana、以及一个穿得一模一样的复制品（alba 的复制体在对面，流鼻血；「The woman across from her, who was identical」）。成品 md 若把三个人说成「两个阿尔巴＋一个戴安娜」以外的数量，即错。",
+      ":15「And the one sitting next to her was Diana」里的 next to her 是紧邻 Alba 的位置，对面那个 identical 的才是 Alba 的复制体；成品 md 若把「坐在旁边」写成「坐在对面」，即与原文位置关系冲突。",
+      ":24「not one of the women looked more than forty」是叙述者对**那群女人**的判断，不是 Alba 对自己的判断；成品 md 若写成「阿尔巴看起来不超过四十岁」即错。",
+      ":48「She was projecting her desire to leave on the women」＝**Alba** 单方面的投射；同段「She had no doubt those women yearned for the same」也是 Alba 的确信，不是叙述者确认的事实。成品 md 若写成「女人们都想回家」即把主观当客观。",
+      ":51「Their companions were gone. They were alone.」＝**那群女人**的处境（陪同者散场）；与 :36 的「deep affection」形成对照。成品 md 若把「alone」的主语写成阿尔巴，即错。",
+      ":60「When the cleaning staff found her, she'd be unrecognizable, but the box would remain intact.」＝**叙述者**对未来的预判（保洁人员会发现她）；成品 md 若说成「她被抬走时」之类，即编造了原文没有的处置。",
+      "本章没有第二个说话人可分配：除 :66 外，全章零引号台词。任何把叙述句改写成「某人说道」的写法都是杜撰。"
+    ]
+  },
+  "open_questions_for_md_check": [
+    "成品 md 会不会把 :66「I just wanted the controllers.」当成叙述句而非台词，或把说话人写成 Diana／那群女人？原文只有这一句引号台词，且属 Alba（:66）。",
+    "成品 md 会不会把 :15 树里三个女人的身份写错（如写成「两个阿尔巴和一个戴安娜」或「三个阿尔巴」）？原文：Alba 自己、她旁边的 gloomy version of Diana、以及对面对那个 identical 的复制品（:15）。",
+    "成品 md 会不会把「坐在旁边」与「坐在对面」的位置关系写反？原文 :15「The woman across from her, who was identical」「the one sitting next to her was Diana」。",
+    "成品 md 会不会把 :42 的「被切掉、还没长好」解释成「有人在给这些女人做手术」？原文只写痕迹（scars / tiny stumps / appendages that had been cut），全书没有任何手术描写。",
+    "成品 md 会不会把 :9 的「dark stains」直接断言为「别的女人」？原文只写她「didn't know who they were, but she didn't intend to look and find out」——原文没有点破。",
+    "成品 md 会不会把 :24「not one of the women looked more than forty」的主语写成阿尔巴？原文主语是那群女人（:24）。",
+    "成品 md 会不会把 :48「She was projecting her desire to leave on the women」写成客观事实（女人们都想回家）？原文标明这是 Alba 的投射与确信（:48）。",
+    "成品 md 会不会漏掉 :48 女人们涌向商场门要「mark the official start of Christmas」这一节？它是本章「回家＝圣诞开始」的动机高潮（:48）。",
+    "成品 md 会不会漏掉 :39 触手上膛前的关键细节——「No one clapped to turn the lights back on」与 :57 她模仿孩子拍手才点亮灯这一因果？原文 :39 与 :57 是一组呼应。",
+    "成品 md 会不会漏掉 :33 的卡门回忆（三更半、座机、Ronda 交通环岛、Juan 不能陪同）？这是本章唯一的「母亲」线，也是「陪着＝爱」的原始样板（:33）。",
+    "成品 md 会不会把 :36 的「None of the adults could have weighed more than ninety pounds」漏掉或写错？它给出「陪同者也是受害者」的量化依据（:36）。",
+    "成品 md 会不会把「even the babies」这类陪伴者里连婴儿都骨瘦如柴的细节漏掉？原文 :36「Even the children. Even the babies.」",
+    "成品 md 会不会把 :48 的「Hundreds and hundreds」写成「几百个」以外的数字，或把 :51 的「hundreds and hundreds, heaped against the door」漏掉？两处都出现（:48、:51）。",
+    "成品 md 会不会把 :57「So she clapped. And the lights turned on.」写成灯自动亮起或由别人点亮？原文是她模仿孩子拍手，灯才亮（:57）。",
+    "成品 md 会不会把章末的情绪写成「阿尔巴死了」？原文 :63 她还起身、穿过人群、触手重新发光，:66 只是最后一句实话（:60–66）。",
+    "成品 md 会不会把 :42 的「giant projector of pink and purple stars」说成商场投在墙上的投影？原文说的是「Splau…had become a giant projector」，即商场本身变成投影机（:42）。"
+  ]
+}

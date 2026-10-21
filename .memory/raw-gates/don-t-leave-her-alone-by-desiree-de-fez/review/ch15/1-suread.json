@@ -1,0 +1,489 @@
+{
+  "chapter": "15",
+  "source": "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch15_chapter_15.txt",
+  "source_total_chars": 8270,
+  "source_total_lines": 141,
+  "source_heading": "15",
+  "pov": "Alba 侧视角（第三人称限定；本章叙述贴着 Alba 的所见所感，但对白与转述覆盖 Diana、Carmen 两人）",
+  "note": "本文件在阅读任何 md 之前生成（R1 先素读、后开 md）。区间为原文字符偏移 [start,end)，基于 UTF-8 解码后的字符计数；起点＝该事件首行行首，终点＝末行整行结束（含换行 1 字符），由 /tmp/make_ranges.py 计算。line 列为原文行号（/usr/bin/grep -n 口径）。原文引文逐字抄录，弯引号保持原样。本章场景：平安夜当晚，Splau 商场关门之后，三个女人坐在商场外的草地上吃剩下的披萨；地点 Cornellà（:102）。时间锚点三处互证：:18「What a Christmas Eve dinner」、:93「It's Christmas Eve」、:96「There are people who work on Christmas Eve」。events 条数多于「审查表.md:39」建议的 5–8 条，原因是本章几乎全是对白、每个发言轮次都是一次可归属的「谁做了什么」；拆细是为让 3-diff.md 的说话人归属有一条先验底账，这与同书 ch05（10 条）、ch14（11 条）的粒度一致。",
+  "events": [
+    {
+      "id": "E1",
+      "who": "Diana（叙述内）+ 三个女人（拼图画面内）",
+      "what": "全章以 Diana 面前那幅上千片的圣诞主题 Ravensburger 拼图开篇：她每年 11 月 28 日（市中心挂彩灯那天）开工，到寒假最后一天收工，不管有没有拼完；「Not once had she managed to set down the last piece before Epiphany, and it depressed her.」拼图一角是亮着灯的厢式车和车里几个人，另一角是「three women sitting on the ground outside what looked like a mall, with a red sign out front that read Splau」，旁边有一对披萨盒、游乐场、户外健身区；一切在月光下「looked like a set」；墙和草是最难拼的部分（太多同色片）；招牌是 H&M、Mango、Primark、Zara。末句 Diana 问 Alba：「Where were you?」",
+      "range": [
+        7,
+        1461
+      ],
+      "lines": [
+        6
+      ]
+    },
+    {
+      "id": "E2",
+      "who": "Alba（回答）+ Diana（回应）",
+      "what": "Alba：「I told you, I was at Splau. I got stuck in the bathroom,」说完打开披萨盒，问「What am I supposed to cut this with?」；Diana：「Just use your hands. It's half cut already.」",
+      "range": [
+        1463,
+        1655
+      ],
+      "lines": [
+        9,
+        12
+      ]
+    },
+    {
+      "id": "E3",
+      "who": "Alba（说，看的是母亲和姐姐的手）",
+      "what": "「My hands are disgusting,」she said, and she looked at her mom's and sister's, which were just as dirty, then she tore off two slices and held them out. 三人安静地吃，油滴到下巴和手上也不在意（unconcerned）。",
+      "range": [
+        1657,
+        1909
+      ],
+      "lines": [
+        15
+      ]
+    },
+    {
+      "id": "E4",
+      "who": "Diana（调侃）+ Alba（回嘴）",
+      "what": "Diana：「What a Christmas Eve dinner, Alba. You outdid yourself this year. Remind me when you started getting ready? Was it August?」；Alba：「You're ridiculous,」三人一起笑；Alba 说「everything's basically ready. It'll be good and cooked when we get there, just like me. It's better I didn't put out the cheese and the salmon.」",
+      "range": [
+        1911,
+        2284
+      ],
+      "lines": [
+        18,
+        21
+      ]
+    },
+    {
+      "id": "E5",
+      "who": "Diana（提起填馅青椒）+ Carmen（回答，追问）+ Alba（震惊反问）",
+      "what": "Diana：「What about the stuffed peppers? It'd be a shame for those to go bad,」（调侃）；Carmen：「Oh, we'll have to throw it all out. Isn't it crazy our stomachs are better already, Mom? Alba, did you have it, too?」；Alba：「What are you talking about?」她很震惊，「The octopus? You guys had the same thing?」——青椒里的是一只章鱼。",
+      "range": [
+        2286,
+        2583
+      ],
+      "lines": [
+        24,
+        27
+      ]
+    },
+    {
+      "id": "E6",
+      "who": "Diana（主张「心灵感应」）+ Alba（追问）",
+      "what": "Diana：「What octopus? I started bleeding in the taxi to your house. I looked, and there was an awful cut on my abdomen. And Mom, too. I think it happened about the same time, but I'm not sure how. It was telepathic, like the day Brisa and Brigitte got bloody noses within minutes of each other.」；Alba：「But no octopus?」",
+      "range": [
+        2585,
+        2912
+      ],
+      "lines": [
+        30,
+        33
+      ]
+    },
+    {
+      "id": "E7",
+      "who": "Carmen（拥抱小女儿 Alba）+ 叙述（跨代亲密的对照）",
+      "what": "Carmen 脸色一变，给了小女儿一个伤心的眼神，把她抱进怀里（she gave her youngest daughter a sad look. She wrapped her into a hug.）；三人安静下来，Carmen 差点退开又没退——「They weren't used to such affection from her.」叙述给出代际对照：「Between one generation and the next, there had been a radical shift. Diana and Alba hugged and kissed their kids, and they said \"I love you\" out loud, even when other people were around. But that's not what they had experienced growing up…」独立成段的一句收束：「So the hug lasted only a few seconds.」",
+      "range": [
+        2914,
+        3619
+      ],
+      "lines": [
+        36,
+        39
+      ]
+    },
+    {
+      "id": "E8",
+      "who": "Carmen（陈述伤口）+ Diana（追问）+ Carmen（承认）+ Diana（点破）+ Carmen（反问）+ Diana（追问）",
+      "what": "Carmen：「The thing with our stomachs happened when Splau closed,」「The wound showed up on both of us at the same time.」（both of us＝Carmen 与 Diana 两人）；Diana：「Like magic?」；Carmen：「Yeah.」；Diana：「But, Mom, you don't believe in that kind of thing.」；Carmen：「What kind of thing?」；Diana：「You know, supernatural stuff…You always say we're crazy! And now this?」",
+      "range": [
+        3621,
+        3937
+      ],
+      "lines": [
+        42,
+        45,
+        48,
+        51,
+        54,
+        57
+      ]
+    },
+    {
+      "id": "E9",
+      "who": "Alba（打断并反驳）+ Diana（坚持）+ Alba（追问）+ Diana（含糊）+ Carmen（打断质问）+ Diana（回敬）",
+      "what": "Alba：「Wait a second, Diana. You're the one who was just talking about telepathy,」Alba said；Diana：「Yeah, but I believe. I've experienced things.」；Alba：「Oh?」Alba asked，「Like what? This is the first I've heard of it.」；Diana：「Just things.」；Carmen 打断并转向 Diana：「How do you explain it then?」「What do you think happened? We just ate something that didn't agree with us?」；Diana：「Very funny.」",
+      "range": [
+        3939,
+        4328
+      ],
+      "lines": [
+        60,
+        63,
+        66,
+        69,
+        72,
+        75
+      ]
+    },
+    {
+      "id": "E10",
+      "who": "Carmen（质问巧合）+ Diana（部分同意）",
+      "what": "Carmen：「You think we just happened into this mess at the same exact time by coincidence? Have you seen your sister? It looks like she went through more than an argument with a clerk!」（your sister＝Alba）；Diana：「No, I agree. I mean, I don't know… And she did get the controllers in the end.」——手柄（controllers）在本章首次出现。",
+      "range": [
+        4330,
+        4709
+      ],
+      "lines": [
+        78,
+        81
+      ]
+    },
+    {
+      "id": "E11",
+      "who": "Carmen（掀起毛衣说）+ Diana（追问耳朵）",
+      "what": "Carmen：「Alba is destroyed. And so are we, even if we're not in pain anymore and our stomachs are shiny,」说着掀起毛衣；「My God, what's happened to your sister's ears? They look like cold cuts.」（your sister＝Alba）；Diana：「Alba, why are your ears all fucked up? What happened in there?」Alba 看着姐姐，一句话没说。",
+      "range": [
+        4711,
+        5053
+      ],
+      "lines": [
+        84,
+        87
+      ]
+    },
+    {
+      "id": "E12",
+      "who": "Alba（提议回家、叫人）",
+      "what": "Alba：「Come on, let's go home. Let's call a taxi now so we get back before them. I want to shower. The kids can't see me like this—I can barely stand it with just you two.」她筋疲力尽，「she didn't have the energy or confidence to explain what she had gone through」；「Somebody call Juan or Carlos, tell them we're leaving. Tell them they can come in half an hour.」",
+      "range": [
+        5055,
+        5423
+      ],
+      "lines": [
+        90
+      ]
+    },
+    {
+      "id": "E13",
+      "who": "Diana（说没车）+ Carmen（反驳）+ Diana（吐槽）+ Carmen（点地名）",
+      "what": "Diana：「There won't be any taxis now, especially not out here. It's Christmas Eve,」；Carmen：「Oh, honey. Don't be so negative, we'll find one. Not everyone is out partying. There are people who work on Christmas Eve,」；Diana：「But we're in the middle of nowhere.」；Carmen：「It's not the middle of nowhere. It's Cornellà. And don't forget you lived here until you were twenty-seven.」",
+      "range": [
+        5425,
+        5806
+      ],
+      "lines": [
+        93,
+        96,
+        99,
+        102
+      ]
+    },
+    {
+      "id": "E14",
+      "who": "Diana（用手机叫车）+ 叙述（等待）",
+      "what": "Diana 拿出手机叫车，App 显示「It says it's looking for drivers…」；三人沉默地等了几分钟，Diana 不时用指尖点一下手机屏幕看有没有叫到。",
+      "range": [
+        5808,
+        6030
+      ],
+      "lines": [
+        105,
+        108
+      ]
+    },
+    {
+      "id": "E15",
+      "who": "Carmen（承认）+ Diana（惊呼）",
+      "what": "Carmen：「I had an octopus in my stomach, too,」两个姐妹惊讶地看着她；「It was years ago.」；Diana：「Oh God, the octopus! I was hoping I heard wrong,」Carmen 粗暴地（brusquely）示意她安静。",
+      "range": [
+        6032,
+        6263
+      ],
+      "lines": [
+        111,
+        114
+      ]
+    },
+    {
+      "id": "E16",
+      "who": "Carmen（自白）",
+      "what": "Carmen：「Our first summer at the campsite. The year I fainted on the beach. You two were so scared you almost died. I had it in my stomach all that summer. I noticed it almost as soon as we got there, but I didn't let it out. That kind of thing takes courage.」",
+      "range": [
+        6265,
+        6518
+      ],
+      "lines": [
+        117
+      ]
+    },
+    {
+      "id": "E17",
+      "who": "Diana（不敢再问）+ Alba（握住母亲的手）",
+      "what": "Diana 听不懂却不敢再说什么；Alba 看上去心碎（devastated），这让 Carmen 吃惊；「Their mother had looked so stoic when she waved at them to be quiet, but her voice was shaking now.」「They both understood that even if it wasn't true, even if it had been just a delusion, for her, it had really happened.」Carmen 不敢看两个女儿，Alba 握住母亲的手，说：「Mom, it's OK. You did everything you could.」",
+      "range": [
+        6520,
+        6968
+      ],
+      "lines": [
+        120,
+        123,
+        126
+      ]
+    },
+    {
+      "id": "E18",
+      "who": "Diana（怕打破新生的亲密，笨拙地提振情绪）",
+      "what": "「She was afraid of breaking the intimacy that had sprung up between her mother and sister—a different, quieter kind of intimacy.」「so she tried to lift their spirits, albeit in a way that was clumsy and childlike.」Diana：「Both of you are so brave.」这句在她自己听来很荒唐，但她还是结结巴巴地往下说：「Both of you. I don't know, you tell me this stuff, and I can't believe it. I never know what to do when things happen to me, strange things. I never know how to react. And you—the strangest things happen to you, and look. Here you are.」",
+      "range": [
+        6970,
+        7769
+      ],
+      "lines": [
+        129,
+        132
+      ]
+    },
+    {
+      "id": "E19",
+      "who": "Alba（接话）+ Diana（继续）",
+      "what": "Alba：「A little worse for wear,」；Diana：「Sure, worse for wear, but here you are. If I got trapped in a mall at night, I'd have a heart attack. I'd die of fear. You didn't even have a phone! It'd be Christmas next year and they'd still be looking for me, I'd still be crying in the bathroom.」",
+      "range": [
+        7771,
+        8063
+      ],
+      "lines": [
+        135,
+        138
+      ]
+    },
+    {
+      "id": "E20",
+      "who": "Alba（叙述层收束，两个「没有说」）",
+      "what": "「Alba looked at her sister tenderly. She didn't say that she hadn't been there alone, at least not for the whole time. Nor did she say that Diana, without knowing it, had been with her in Splau that night.」",
+      "range": [
+        8065,
+        8270
+      ],
+      "lines": [
+        141
+      ]
+    }
+  ],
+  "characters": {
+    "Alba": "Carmen 的小女儿、Diana 的妹妹；Juan 的妻子，Brigitte 与 Juanito 的母亲；两个姐妹中在 Splau 商场里被困到洗手间、被剖开腹部的那一个（本章不提这件事）。",
+    "Diana": "Carmen 的大女儿、Alba 的姐姐；Carlos 的伴侣，Brisa 与 Tomás 的母亲；自由撰稿人，每年靠拼上千片 Ravensburger 圣诞拼图安抚焦虑；本章主张「心灵感应」并两次承认自己面对怪事不知如何反应。",
+    "Carmen": "Alba 与 Diana 的母亲，鳏居（丈夫已故）；本章从被审视的沉默者变成主动讲出营地往事的人，承认当年整个夏天都把一只章鱼留在肚子里。",
+    "Juan": "Alba 的丈夫；本章未到场，被 Alba 点名去打电话（:90）。",
+    "Carlos": "Diana 的伴侣；本章未到场，与 Juan 一并被 Alba 点名（:90）。",
+    "Brisa": "Diana 的女儿；本章只作为「几分钟内先后流鼻血」的旧例被 Diana 提起（:30）。",
+    "Brigitte": "Alba 的女儿、Brisa 的表姐；同一旧例中的另一个女孩（:30）。"
+  },
+  "numbers_and_dates": {
+    "verbatim_numbers": [
+      {
+        "text": "thousand-piece",
+        "range": [
+          48,
+          62
+        ],
+        "line": 6,
+        "note": "拼图片数：上千片（thousand-piece, Christmas-themed jigsaw puzzle）"
+      },
+      {
+        "text": "November 28",
+        "range": [
+          199,
+          210
+        ],
+        "line": 6,
+        "note": "Diana 每年拼图的开工日＝市中心挂圣诞彩灯那天"
+      },
+      {
+        "text": "before Epiphany",
+        "range": [
+          397,
+          412
+        ],
+        "line": 6,
+        "note": "主显节前从没拼完过最后一块"
+      },
+      {
+        "text": "three women sitting on the ground",
+        "range": [
+          684,
+          717
+        ],
+        "line": 6,
+        "note": "拼图另一角＝三个女人（本章开场即是她们本人）"
+      },
+      {
+        "text": "a couple of pizza boxes",
+        "range": [
+          901,
+          924
+        ],
+        "line": 6,
+        "note": "拼图里、三个女人身边的披萨盒"
+      },
+      {
+        "text": "H&M, Mango, Primark, Zara",
+        "range": [
+          1343,
+          1368
+        ],
+        "line": 6,
+        "note": "拼图里的四个品牌招牌"
+      },
+      {
+        "text": "the same time",
+        "range": [
+          2738,
+          2751
+        ],
+        "line": 30,
+        "note": "Diana：两处伤口大概在同一时间出现"
+      },
+      {
+        "text": "within minutes of each other",
+        "range": [
+          2843,
+          2871
+        ],
+        "line": 30,
+        "note": "Brisa 与 Brigitte 流鼻血的间隔（旧例）"
+      },
+      {
+        "text": "a radical shift",
+        "range": [
+          3192,
+          3207
+        ],
+        "line": 36,
+        "note": "两代人之间彻底转变"
+      },
+      {
+        "text": "two slices",
+        "range": [
+          1780,
+          1790
+        ],
+        "line": 15,
+        "note": "Alba 撕下两片披萨递给母亲和姐姐"
+      },
+      {
+        "text": "only a few seconds",
+        "range": [
+          3599,
+          3617
+        ],
+        "line": 39,
+        "note": "Carmen 那个拥抱的时长"
+      },
+      {
+        "text": "in half an hour",
+        "range": [
+          5405,
+          5420
+        ],
+        "line": 90,
+        "note": "Alba 让家人「半小时后过来」"
+      },
+      {
+        "text": "twenty-seven",
+        "range": [
+          5791,
+          5803
+        ],
+        "line": 102,
+        "note": "Alba 住在 Cornellà 直到二十七岁"
+      },
+      {
+        "text": "a few minutes",
+        "range": [
+          5921,
+          5934
+        ],
+        "line": 108,
+        "note": "三人沉默等车的时长"
+      },
+      {
+        "text": "It was years ago",
+        "range": [
+          6132,
+          6148
+        ],
+        "line": 111,
+        "note": "Carmen 那只章鱼的时间距离"
+      },
+      {
+        "text": "all that summer",
+        "range": [
+          6396,
+          6411
+        ],
+        "line": 117,
+        "note": "Carmen 把章鱼留在肚子里的时长＝整个夏天"
+      }
+    ],
+    "dates": {
+      "chapter_time": "平安夜当晚（Splau 商场关门之后的深夜）：:18「What a Christmas Eve dinner」、:93「It's Christmas Eve」、:96「There are people who work on Christmas Eve」三处互证；地点是 Cornellà 的 Splau 商场外草地（:102「It's not the middle of nowhere. It's Cornellà.」）。",
+      "relative_times": "本章内的相对时间：①Diana 每年 11 月 28 日开工、寒假最后一天收工（:6）；②「the last day of winter break」（:6）；③拼图「Never once had she managed to set down the last piece before Epiphany」（:6，多年赶不上）；④Alba 说「everything's basically ready」（:21，指今晚家宴）；⑤Carmen 说「It was years ago」（:111）与「Our first summer at the campsite. The year I fainted on the beach.」（:117，指更早的营地夏天）；⑥Diana 提到 Brisa 与 Brigitte「within minutes of each other」流鼻血的旧事（:30）；⑦Alba 让家人「come in half an hour」（:90）；⑧三人等车「a few minutes」（:108）；⑨Diana 假设「It'd be Christmas next year」（:138，夸张修辞，非真实时间线）。",
+      "long_arc": "本章牵出的长线：①Carmen 的丈夫已故（鳏居，ch05:288 有交代），她守寡后长期把不安压在心底；②Diana 与 Alba 的童年缺身体与语言的亲昵表达（:36「But that's not what they had experienced growing up」）；③Brisa 与 Brigitte 的「同刻出血」旧例（:30，ch02:465–483 有正面交代）；④「octopus／触手」这条线在本章第二次出现（ch12:96 已有「the fucking octopus」），本章由 Carmen 补上源头，ch17:282–285 由 Alba 与 Diana 回扣「I had two」「an octopus tentacle」；⑤手柄（controllers）在本章首次回到台词里（:81），接上 ch10–ch12 的主线，ch16:48/60/66 收尾。"
+    }
+  },
+  "speaker_map": {
+    "method": "本章 45 个内容行里有 24 个是纯对白段，多数只有引号没有 said/asked 标签。归属判据按优先级取用：(1) 原文显式标签（said / asked / Alba said / Carmen said / Diana said）最高优先；(2) 同一行内第二段引号＝另一人（:24 是 Diana 与 Carmen 各一句、:15 一行内 Alba 说话与叙述并存）；(3) 问答链——该句是否在回答紧邻的上一句、被点名者是谁（:60 Alba 点名 Diana、:78 Carmen 提到 your sister、:84 Carmen 提到 your sister's ears）；(4) 叙述层指代线索（:36「her youngest daughter」＝Alba、:87「Alba, why are…」＝Diana 说、:123「Alba took her hands」后的 :126 只能是 Alba）；(5) 段落位置（:15、:126、:135 三处无标签，靠紧邻叙述的施动者回填）。",
+    "notes": [
+      ":15「\"My hands are disgusting,\" she said, and she looked at her mom's and sister's, which were just as dirty」＝**Alba**（本轮关键陷阱之一）。依据：叙述紧接「she tore off two slices and held them out」，三个女人里只有 Alba 在动手分披萨；原文写的是她看**母亲和姐姐的手**（mom's and sister's），不是她自己的手脏——「disgusting」是自嘲式对照。成品 md 若把此句归给 Diana 或 Carmen 即错。",
+      ":30「\"What octopus? I started bleeding in the taxi to your house… And Mom, too… It was telepathic\"」＝**Diana**（本轮关键陷阱之二）。依据：:33 Alba 接着问「But no octopus?」说明前面说话的人不是 Alba；:60 Alba 明说「\"Wait a second, Diana. You're the one who was just talking about telepathy,\" Alba said」——这句反问本身就锁死了 :30 的说话人是 Diana。",
+      ":60「\"Wait a second, Diana. You're the one who was just talking about telepathy,\" Alba said」＝**Alba**（原文带 Alba said 标签，无歧义）。注意：这一句与 :30「And Mom, too…It was telepathic」是**两个不同的人**，不是同一句的续写。",
+      ":24 一行两说话人：前半「\"What about the stuffed peppers? It'd be a shame for those to go bad,\" Diana teased」＝**Diana**；后半「\"Oh, we'll have to throw it all out. Isn't it crazy our stomachs are better already, Mom? Alba, did you have it, too?\"」＝**Carmen**（她称呼 Mom＝Diana，且点名 Alba 追问）。成品 md 若把后半整段算作 Diana 即错。",
+      ":9「\"I told you, I was at Splau. I got stuck in the bathroom,\" Alba answered」＝**Alba**（原文带 Alba answered）。:12「\"Just use your hands. It's half cut already.\"」＝**Diana**（回的是 Alba「What am I supposed to cut this with?」）。",
+      ":18「\"What a Christmas Eve dinner, Alba. You outdid yourself this year…\" Diana said」＝**Diana**（带标签）。注意原文是 **outdid**，不是 out'd；成品 md 若写成 out'd 即与原文冲突。",
+      ":21「\"You're ridiculous,\" Alba responded」＝**Alba**（带 responded 标签）；同段后半「everything's basically ready…It'll be good and cooked when we get there, just like me.」也是 Alba。",
+      ":27「\"What are you talking about?\" She was shocked. \"The octopus? You guys had the same thing?\"」＝**Alba**（「You guys」＝母亲和姐姐，排除她本人）。",
+      ":36「she gave her youngest daughter a sad look. She wrapped her into a hug.」＝**Carmen 拥抱 Alba**（不是 Diana）。同段后半「Diana and Alba hugged and kissed their kids」是叙述层的泛指，不是本段被拥抱的人。成品 md 若写「卡门抱了姐姐／抱了戴安娜」即错。",
+      ":42「\"The thing with our stomachs happened when Splau closed,\" Carmen said decisively. \"The wound showed up on both of us at the same time.\"」＝**Carmen**（带标签）；「both of us」只指 Carmen 与 Diana 两人，不含 Alba。",
+      ":45「\"Like magic?\"」＝**Diana**（反问）；:48「\"Yeah.\"」＝**Carmen**（回答）。",
+      ":51「\"But, Mom, you don't believe in that kind of thing.\"」＝**Diana**（称 Carmen 为 Mom）；:54「\"What kind of thing?\"」＝**Carmen**；:57「\"You know, supernatural stuff…You always say we're crazy! And now this?\"」＝**Diana**（接 :51 的同一串质问，:54 是 Carmen 插进来的反问）。",
+      ":63「\"Yeah, but I believe. I've experienced things.\"」＝**Diana**（回应 Alba 的反驳）；:66「\"Oh?\" Alba asked. \"Like what? This is the first I've heard of it.\"」＝**Alba**（带 Alba asked）；:69「\"Just things.\"」＝**Diana**（对「I've experienced things」的解释，含糊其辞）。",
+      ":72「Carmen interrupted, turning to Diana: \"How do you explain it then?\"」＝**Carmen**（原文带 Carmen interrupted, turning to Diana，指向明确）；:75「\"Very funny.\"」＝**Diana**。",
+      ":78「\"You think we just happened into this mess at the same exact time by coincidence? Have you seen your sister? It looks like she went through more than an argument with a clerk!\"」＝**Carmen**（这里 your sister＝Alba）；:81「\"No, I agree. I mean, I don't know… And she did get the controllers in the end.\"」＝**Diana**（此处 she＝Alba，即上一句 Carmen 问的那个「your sister」）。",
+      ":84「\"Alba is destroyed. And so are we…\" Carmen said, raising her sweater. \"My God, what's happened to your sister's ears?\"」＝**Carmen**（带标签；your sister＝Alba）；:87「\"Alba, why are your ears all fucked up? What happened in there?\"」＝**Diana**。",
+      ":90 全段＝**Alba**：「Come on, let's go home…Somebody call Juan or Carlos, tell them we're leaving. Tell them they can come in half an hour.」",
+      ":93「\"There won't be any taxis now, especially not out here. It's Christmas Eve,\" Diana said」＝**Diana**（带标签）；:96「\"Oh, honey. Don't be so negative, we'll find one…\" Carmen said」＝**Carmen**（带标签）。",
+      ":99「\"But we're in the middle of nowhere.\"」＝**Diana**（夹在 Carmen :96 与 Carmen :102 之间，是 Diana 的插话；:102 Carmen「It's not the middle of nowhere. It's Cornellà.」正面驳的就是这句）。成品 md 若把 :99 记成 Carmen 即错。",
+      ":105「Diana took out her phone and called them a car. \"It says it's looking for drivers…\"」＝**Diana**（叙述带标签）。",
+      ":111「\"I had an octopus in my stomach, too,\" Carmen then said…\"It was years ago.\"」＝**Carmen**（带标签）；:114「\"Oh God, the octopus! I was hoping I heard wrong,\" Diana said. Carmen gestured brusquely for her to be quiet.」＝**Diana** 说，Carmen 打手势。",
+      ":117「\"Our first summer at the campsite. The year I fainted on the beach… That kind of thing takes courage.\"」＝**Carmen**（接 :111 的自白）。",
+      ":126「\"Mom, it's OK. You did everything you could.\"」＝**Alba**（无标签，靠 :123「Carmen couldn't look at her daughters. Alba took her hands.」的施动者回填；称 Mom＝Carmen）。成品 md 若记成 Diana 或 Carmen 即错。",
+      ":132「\"Both of you are so brave.\"」＝**Diana**（both of you＝Carmen 与 Alba；叙述紧接「but still she stammered on」，随后 :129 说 Diana「tried to lift their spirits…clumsy and childlike」）。",
+      ":135「\"A little worse for wear,\" Alba said」＝**Alba**（带标签）；:138「\"Sure, worse for wear, but here you are…\"」＝**Diana**。",
+      ":141 末段为叙述层（「She didn't say… Nor did she say…」），主语 Alba；此处的 Diana「without knowing it」= 毫不知情，成品 md 若写成 Diana 知情即与原文冲突。",
+      ":6 末句「\"Where were you?\" Diana asked Alba.」＝**Diana** 问、**Alba** 答（:9 带 Alba answered），是本章问答链的起点。"
+    ]
+  },
+  "open_questions_for_md_check": [
+    "成品 md 会不会把 :15「\"My hands are disgusting,\" she said, and she looked at her mom's and sister's」归给 Diana 或 Carmen？原文：说话人是 Alba，看的是**母亲和姐姐的手**（:15），成品若写「戴安娜说」或「卡门说」即归属错。",
+    "成品 md 会不会把 :30「And Mom, too. I think it happened about the same time… It was telepathic」归给 Alba 或 Carmen？原文由 :60 Alba 的「Wait a second, Diana. You're the one who was just talking about telepathy」锁死说话人是 Diana（:30）。",
+    "成品 md 会不会把 :60「Wait a second, Diana…」当成 Diana 的话或当成 :30 的续写？原文 :60 明写「Alba said」，且这是 Alba 对 Diana 的反驳（:60）。",
+    "成品 md 会不会把 :36 Carmen 的拥抱对象写成 Diana 或泛指的「两个女儿」？原文「she gave her youngest daughter a sad look. She wrapped her into a hug」——被抱的是小女儿 Alba（:36）。",
+    "成品 md 会不会漏掉 :39 独立成段的「So the hug lasted only a few seconds.」？这是全章最短的一句结论，漏掉就丢掉了「拥抱只有几秒＝不是她们的常态」的落点（:39）。",
+    "成品 md 会不会把 :24 后半「Isn't it crazy our stomachs are better already, Mom? Alba, did you have it, too?」算到 Diana 名下？同一行前半才是 Diana（她调侃 stuffed peppers），后半是 Carmen（:24）。",
+    "成品 md 会不会把青椒里的东西写成 squid / calamari 之类？原文一律是 octopus（:27、:30、:33、:111、:114），且全书口径一致（ch12:96、ch17:285）。",
+    "成品 md 会不会把 :42「The wound showed up on both of us at the same time」说成三个人同时出现伤口？both of us 只指 Carmen 与 Diana 两人；Alba 当晚的伤在 ch16 才交代（:42）。",
+    "成品 md 会不会漏掉 :102「It's Cornellà. And don't forget you lived here until you were twenty-seven.」？这是本章唯一的地点断言与唯一的人物年龄断言（twenty-seven 全书仅此一处）。",
+    "成品 md 会不会把 Carmen 的自白时间写错（如「去年」「去年夏天」）？原文 :111「It was years ago.」＋:117「Our first summer at the campsite. The year I fainted on the beach.」（:111、:117）。",
+    "成品 md 会不会把 :81「And she did get the controllers in the end」中的 she 弄错对象？此 she＝Alba（Carmen 在 :78 问「Have you seen your sister?」），说话人是 Diana（:81）。",
+    "成品 md 会不会把 :138「It'd be Christmas next year and they'd still be looking for me」当成真实时间线？那是 Diana 在夸张地设想自己会怎样（:138）。",
+    "成品 md 会不会把 :141 的「without knowing it」省略掉、让读者以为 Diana 知情？原文明确 Diana 毫不知情地那晚就在 Splau 陪着她（:141）。",
+    "成品 md 会不会把拼图的主人写成 Alba？原文 :6 是 Diana 每年的拼图（“the kind Diana did every holiday season to soothe her anxiety”），拼图里那幅画的是 Alba、她自己与 Carmen 的此刻（:6）。",
+    "成品 md 会不会漏掉「Alba 不想解释自己经历了什么」这一事实？原文 :90「she didn't have the energy or confidence to explain what she had gone through」——这是本章她沉默的由头。",
+    "成品 md 会不会把 :30 里「Brisa 与 Brigitte 几分钟内先后流鼻血」写成泛泛的「两个孩子」或写错成 Diana 自己的女儿？Brisa 是 Diana 的女儿、Brigitte 是 Alba 的女儿（:30，且 ch02:465–483 有正面交代）。"
+  ]
+}
