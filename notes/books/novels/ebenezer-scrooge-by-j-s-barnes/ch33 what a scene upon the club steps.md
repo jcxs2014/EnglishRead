@@ -36,7 +36,7 @@ modified: "2026-10-21"
 
 **关键词**：With commendable alacrity / served his country in a military capacity (without, it must be said, a great deal of distinction) / those old instincts, long buried, which came roaring back to life / he could see the blood, and deduced that it was a bullet that had caused it
 
-**为什么这样写**：作者在第二章里给这个人的军旅史只留了半句，还顺手补一句「没挣到什么了不起的军功」——这是他日后露脸的底色：他不光有本事，也爱吹牛。此刻作者把那点本事兑现了：老兵的眼睛一眼看出是枪伤。可笑的是，这一副老兵姿态救不了任何人——他要的只是止血与叫医生。
+**为什么这样写**：作者给这个人的军旅史只留了半句，还顺手补一句「没挣到什么了不起的军功」——这是他日后露脸的底色：他不光有本事，也爱吹牛。此刻作者把那点本事兑现了：老兵的眼睛一眼看出是枪伤。可笑的是，这一副老兵姿态救不了任何人——他要的只是止血与叫医生。
 
 **读者视角提示**：读者会第一次看清这个整天坐在俱乐部里的秘书，骨子里是个当过兵的。
 
