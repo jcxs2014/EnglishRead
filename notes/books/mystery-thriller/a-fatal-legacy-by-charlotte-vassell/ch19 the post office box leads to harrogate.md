@@ -38,7 +38,7 @@ source_text: ch19
 **中文理解**：Nathan 讲起那次周末：酒馆里有两个姐妹，姐姐一直想带妹妹走，妹妹不肯；迪吉一见到妹妹就被迷住了，拼命讲自己在伦敦一家博物馆当馆长的故事来打动她，姐姐则不为所动；她从没被人这样正眼看过，于是为这点关注上了瘾。
 **关键词**：very clearly sisters / enamoured / curator in a museum
 **为什么这样写**：姐姐与妹妹的对照写得很直白：一个死命拉人走，一个留下来听陌生男人讲自己——「从没被这样看过」这个念头，解释了那个妹妹后来为什么会被一个已经死去的人牵住。这一整段回忆，也把警方从「查一个信箱」带进「查一段旧关系」，正是从收据走向活人的转轴。
-**读者视角提示**：留意这个妹妹的特征：被姐姐管着、独自出现在哈罗盖特、让 Nathan 看着她不自在。她在本章始终没有名字，只有「更年轻的那一个」。
+**读者视角提示**：留意这个妹妹的特征：被姐姐管着、和姐姐一起出现在哈罗盖特、让 Nathan 看着她不自在。她在本章始终没有名字，只有「更年轻的那一个」。
 
 > **原句 5:** "‘I’m a good wingman so I kept buying jugs of cheeky woo woos for the table while the ugly sister told me about her music or something. We were all plastered by the end and Digby declared his undying love for her, said he’d rescue her from her sister, the dragon. The beauty got pulled away into the night by her sister who’d got pissed off and was never seen again. We were so twatted we nearly missed the last train back to York. It was a fun day. I’m going to miss him so much. He’d bring that girl up every now and then.’"
 **中文理解**：Nathan 说自己是个称职的僚机，一味地给全桌买便宜酒，末了大家都醉了，迪吉当众宣布对那个女孩「至死不渝的爱」，说要把她从那条「龙」（姐姐）手里救出来；女孩被喝上头的姐姐拽进夜色，此后再没出现过；他们醉得差点误了回约克的末班车。末了他又补一句：迪吉偶尔还会提起那个女孩。
