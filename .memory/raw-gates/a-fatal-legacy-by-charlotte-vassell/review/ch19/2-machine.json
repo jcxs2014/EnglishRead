@@ -1,0 +1,214 @@
+{
+  "chapter": 19,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/ch19 the post office box leads to harrogate.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch19_19.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "‘I’ve got the information from the Post Office,’ Matt said, opening the email. ‘The PO Box is located in Barnet and was ",
+          "ok": true,
+          "pos": 25
+        }
+      ]
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "‘I’d say with a name like Bev though there’s at least one generation difference between her and Digby, and probably a so",
+          "ok": true,
+          "pos": 581
+        }
+      ]
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "‘Beverley? No. A bit too school dinner lady for Diggers. He was my mate, and you know I loved him like a brother, but we",
+          "ok": true,
+          "pos": 981
+        }
+      ]
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘You know, it was funny because they were very clearly sisters but the younger one was the most beautiful girl I’d ever ",
+          "ok": true,
+          "pos": 2154
+        }
+      ]
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘I’m a good wingman so I kept buying jugs of cheeky woo woos for the table while the ugly sister told me about her music",
+          "ok": true,
+          "pos": 2693
+        }
+      ]
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "‘No, the guy who reported it was apparently half-cut. I just thought you might maybe think it was related. It’s rare for",
+          "ok": true,
+          "pos": 3933
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 0,
+        "为什么这样写": 104,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 113,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.71
+      }
+    }
+  ],
+  "form": {
+    "h1": "19. The Police Station",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 7.0,
+    "block_range": [
+      5,
+      10
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "segments": 6,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": []
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "chapter": "ch03",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch03_3.txt",
+  "source_file_chars": 8225,
+  "read_before_md": true,
+  "read_order": "只读 text/ch03_3.txt（未开 md、未看别章 md、未看别章原文）；本文件落盘后才允许读 md",
+  "offset_convention": "字符区间 [start, end) 为开区间，相对 text/ch03_3.txt 文件开头（Python 解码后字符数，非字节数）",
+  "structural_anchors": [
+    {"what": "章号行 '3'", "line": 1, "range": [0, 1]},
+    {"what": "重复的章号行 '3'", "line": 12, "range": [12, 13]},
+    {"what": "小标题 'The Police Station'", "line": 17, "range": [18, 36]}
+  ],
+  "events": [
+    {
+      "id": "E1",
+      "who_did_what": "Caius 把一盘消化饼干放到 Willow Bell 面前——她是找到尸体的研究所实习生——并报出双方姓名以便录音；Caius 请她描述当天早上，Willow 说自己 8.45 a.m. 到研究所，门是开着的（有点怪），就径直走了进去。",
+      "ranges": [[39, 591], [594, 652], [655, 847]],
+      "lines": [20, 23, 26],
+      "anchors": [
+        "Caius put a plate of digestive biscuits down in front of poor Willow Bell, the Institute’s intern who had found the body.",
+        "Caius stated their names for the recording.",
+        "‘Please describe this morning for me, Willow,’ Caius said.",
+        "‘Sure,’ she said, placing the partially nibbled biscuit down. ‘I turned up at the Institute at 8.45 a.m. like I normally do. The door was left open, which was a bit odd, and I just walked in.’"
+      ]
+    },
+    {
+      "id": "E2",
+      "who_did_what": "Willow 说平常她必须按门铃、等 Combe-Watson 来开门（他对此很讲究），她按了铃、按了又按，Combe-Watson 没来；门半掩着，她就走进去，拐进第一个房间，看见 Digby 躺在地上。Caius 问屋里还有没有别人，Willow 先反问「像某种存在吗？」并摸项链上的塔罗牌吊坠，说那栋楼有种诡异气氛；被澄清是指活人后，她答没有——没听见也没看见任何人。",
+      "ranges": [[886, 1213], [1216, 1261], [1264, 1389], [1392, 1419], [1422, 1536]],
+      "lines": [32, 35, 38, 41, 44],
+      "anchors": [
+        "‘No. I usually had to ring the bell and wait to be let in. Mr Combe-Watson was very particular about that. I rang and I rang but Mr Combe-Watson didn’t come to the door.’",
+        "Then I noticed it was slightly ajar anyway so I walked in. I turned into the first room and there he was on the floor.’",
+        "‘Were you aware of anyone else in the house?’",
+        "‘Like a presence?’ she asked, touching the tarot card pendant on her necklace. ‘There’s something eerie about that building.’",
+        "‘No,’ she said, slightly deflated. ‘I don’t think anyone else was there. Or at least I didn’t hear or see anyone.’"
+      ]
+    },
+    {
+      "id": "E3",
+      "who_did_what": "Caius 问她最后一次见活着的 Digby 是什么时候；Willow 答「昨天」，下午早些时候顺路进来——上一周她把论文要用的书忘在这里了，安静时她就在这儿看书备考；她说 Digby 看起来挺开心，她很久没见他那么满意，死了那天是过他不错的一天。时间她先说「大概 3 p.m. 我猜」，然后翻手机给 Caius 看：手机显示她 3.24 p.m. 刷卡进 Chalk Farm，步行十分钟，所以大概是 3.15 p.m.；Caius 点头说这个好核实。Caius 再问有没有注意到异常、有没有人在外面逗留，Willow 都答没有，那趟只是「顺路露个面」。",
+      "ranges": [[1539, 1584], [1587, 1805], [1808, 1826], [1829, 1967], [1970, 1991], [1994, 2223], [2226, 2304], [2307, 2353], [2356, 2395], [2398, 2403]],
+      "lines": [47, 50, 53, 56, 59, 62, 65, 68, 71, 74],
+      "anchors": [
+        "‘When was the last time you saw Digby alive?’",
+        "‘Yesterday, actually. I popped in in the early afternoon. I’d accidentally left a book I needed to complete an essay there last week.’",
+        "‘Pretty cheerful, actually. I hadn’t seen him look that content in a while. It’s comforting to think that the day he died was a good one.’",
+        "‘About 3 p.m., I guess. Hang on.’ Willow took out her phone and scrolled for a moment before showing Caius what she’d found. ‘My phone says I tapped back into Chalk Farm at 3.24 p.m. It’s ten minutes’ walk so 3.15 p.m., I guess.’",
+        "Caius nodded. That would be easy to verify.",
+        "‘No, I don’t think so. It was a flying visit.’",
+        "‘Did you see anyone loitering outside?’",
+        "‘No.’"
+      ]
+    },
+    {
+      "id": "E4",
+      "who_did_what": "Caius 问 Digby 有没有个人问题、和家人朋友或邻居有没有过节；Willow 答没有，说他本来也不是爱聊这些的人，而且这跟她了解的他的性格不符：Mr Combe-Watson 是个非常用功（studious）的人、是历史学家、相当严肃的「chap」，不会跟谁有激烈的争执。Caius 问他是否坚持要她叫 Mr Combe-Watson 而非 Digby，Willow 说「Oh yeah」，还说自己得压住翻白眼的习惯——「他毕竟已经死了」。",
+      "ranges": [[2406, 2518], [2521, 2771], [2774, 2885], [2888, 2980]],
+      "lines": [77, 80, 83, 86],
+      "anchors": [
+        "‘Were you aware of Digby having any personal problems? Any fallings out with family or friends? The neighbours?’",
+        "‘No, sorry. He wasn’t chatty like that anyway, but that just doesn’t chime with what I knew about his personality. Mr Combe-Watson was a very studious man. He was a historian. Quite a serious “chap”. He didn’t have dramatic fallings out with anyone.’",
+        "‘Did he insist you called him Mr Combe-Watson and not Digby?’ Caius was curious about this old-fashioned habit.",
+        "‘Oh yeah,’ Willow said, fighting the habitual urge to roll her eyes. He was dead, after all."
+      ]
+    },
+    {
+      "id": "E5",
+      "who_did_what": "Caius 问她在研究所具体做什么；Willow 说她周六来「当志愿者，不，是当实习生」，对外说实习生是因为毕业时写进简历更好看（她七月毕业）。她本该带人参观博物馆（随即自我更正「Sorry, Institute」），说不能叫它 museum，那是「an institute for the further study of something or another」，而且没什么访客，只有「the odd weirdo」；现在她算是 Mr Combe-Watson 的研究助理，工作内容是「a lot of admin tasks」：归档、所有东西走纸面、更新发给访客的小册子、在家也替他做点网站的事。Caius 注意到她不太愿意展开，并以为是她觉得自己比这种低贱活儿高级；Caius 一句「你做实际研究吗」出口才发觉语气比本意粗鲁，又笑着往回找补，说这浪费了一个有前途的博物馆专业人士的才能。",
+      "ranges": [[2983, 3063], [3066, 3232], [3235, 3268], [3271, 3489], [3492, 3562], [3565, 3617], [3620, 3732], [3735, 3779], [3782, 3831], [3834, 3967], [3970, 4160], [4163, 4514]],
+      "lines": [89, 92, 95, 98, 101, 104, 107, 110, 113, 116, 119, 122],
+      "anchors": [
+        "‘What exactly do you do at the Institute? What are your responsibilities there.’",
+        "‘I volunteer, no, I intern, on Saturdays.’ She leaned in. ‘I say I’m the intern rather than a volunteer, because it’ll sound better on my CV when I graduate in July.’",
+        "‘I was supposed to do tours of the museum. Sorry, Institute. I’m not supposed to call it a museum, it’s an institute for the further study of something or another. Not that they get many visitors, just the odd weirdo.’",
+        "‘I guess, I’m Mr Combe-Watson’s research assistant.’",
+        "‘A lot of admin tasks,’ Willow said off-handedly.",
+        "‘The filing. He did everything on paper. I was updating the little booklet that would be handed out to visitors. I did the odd thing on the website while at home for him too. Pretty boring.’",
+        "‘Like?’ Caius noticed that she was reluctant to elaborate. He assumed it was because she thought she was better than such lowly work.",
+        "‘Did you do any actual research?’ Caius realised once that had left his mouth that it came across ruder than he meant it to"
+      ]
+    },
+    {
+      "id": "E6",
+      "who_did_what": "被追问有没有做实际研究后，Willow 主动交代她在誊打 Horatio Combe 的 journals：一卷卷全用手写，笔迹像蜘蛛爬，慢得要命，因为难认；她说 Horatio Combe 要是还活着会因破坏文物入狱，还是个「womaniser」；她上个月誊过一条日记，写他轻描淡写地描述把庞贝一座罗马别墅的一角凿下来私吞，然后去他最爱的拿坡里妓院。她说那东西「在第一层，你想看的话」；她评价 Horatio Combe「不是个好人，也是个极差的故事讲述者」。Caius 问她为什么誊打，她答「因为让我誊的」；Caius 心里觉得这些 journals 对研究所的名声是个累赘。",
+      "ranges": [[4517, 5215], [5218, 5329], [5332, 5371]],
+      "lines": [125, 128, 131],
+      "anchors": [
+        "‘Well, I urgh, I was typing up Horatio Combe’s journals,’ Willow volunteered, but then looked like she regretted it.",
+        "I transcribed a diary entry last month where he blithely described chiselling a bit of a Roman villa off in Pompei, pocketing it and then visiting his favourite Neapolitan brothel. It’s on the first floor in case you wanted to see it. He wasn’t a good person by any stretch and a very poor storyteller, for that matter.’",
+        "‘Why were you typing it up?’ Caius thought the journals sounded like a liability to the Institute’s reputation.",
+        "‘Because I was asked to.’ She shrugged."
+      ]
+    },
+    {
+      "id": "E7",
+      "who_did_what": "Caius 问 Combe-Watson 当老板对她怎么样；Willow 说他对她挺好，但极紧（tight），只肯付交通费，她见过他吃已经过期一个月的酸奶；她又说他很挑剔、凡事要完全按他要的样子来、却不一定告诉你该怎样，她得靠「telepathy」；他说他守旧，被那些老东西泡透了成了过去的一部分（「That moustache for starters」），并说 Digby 没那么老——「he was born in the 1980s」——自己当年找实习是妈妈让她给伦敦各家小博物馆写信寄简历，母亲不接受「现在不再是这样了」，她照做只为让妈妈别唠叨；只有 Combe-Watson 回信给了她岗位，整件事全靠通信安排。Caius 问从没给她打过电话吗，Willow 说没有，她好像从没见过他有手机，他的全部消遣来自杂志——Private Eye、The Cutter、London Review of Books。Caius 问她有没有叫过他 Digby，Willow 说刚开始那阵他是「call me Digby」，他们周六班后去过一次酒吧，她提到了当时的男朋友，从此就是「Mr Combe-Watson forever on」。她说她猜他孤独，「Lonely and trapped」，她不会想念那个地方，「It has a funny energy」，但「Sad though. Poor Digby.」（又摸了塔罗牌项链）。",
+      "ranges": [[5374, 5506], [5509, 6623], [6626, 6656], [6659, 6905], [6908, 7001], [7004, 7184], [7187, 7195], [7198, 7359]],
+      "lines": [134, 137, 140, 143, 146, 149, 152, 155],
+      "anchors": [
+        "‘Mr Combe-Watson treated me fine. He was tight though. Very tight. He’d only pay my travel expenses. I’d seen him eat yoghurt that had been expired for a month.’",
+        "He was antiquated, if you know what I mean. Being surrounded by all that stuff all the time had seeped into him and made him part of the past. That moustache for starters. Digby wasn’t even that old. Yeah, he was born in the 1980s but that’s not too old to have an email address.",
+        "my mum made me write to all the little museums in London and send my CV in – she wouldn’t accept that that wasn’t how it worked any more and I did it to get her off my back. He was the only one who bit. He wrote to offer me the position. The whole thing was arranged by letter.’",
+        "‘Nope. Actually, I don’t think I ever saw him with a phone. All his amusement came from magazines.’",
+        "Digby liked reading things like Private Eye, The Cutter or the London Review of Books. Very highbrow.’",
+        "‘At one time did you call him Digby?’ Caius noticed she’d reverted to his first name briefly.",
+        "‘When I first started, he was all “call me Digby”. We went to the pub after a Saturday shift and I mentioned my boyfriend at the time and that was it – Mr Combe-Watson forever on.’",
+        "‘I guess he was lonely. Lonely and trapped. I won’t miss that place. It has a funny energy.’ She touched her tarot card necklace again. ‘Sad though. Poor Digby.’"
+      ]
+    },
+    {
+      "id": "E8",
+      "who_did_what": "Caius 问 Digby 有没有伴侣（叙述：Willow 的描述让这显得不太可能），Willow 说他不是会讲自己事的那种人；Caius 追问他说没说过去约会、最近见什么人，Willow 答「Nope」并脸微微红了；Caius 拿不准她，觉得她既喜欢 Digby 又受他烦，也许一直把他当成有点滑稽的小丑，现在正难以面对他成了惨案的事实。最后 Caius 说他听说她在要求归还 mokomokai 的请愿书上签了名，Willow 骄傲地点头承认，说不懂为什么 Digby 还要留着它们，说他本可以借此做点好的 PR、也许真会有人来参观、他还能卖两张明信片；她说「Culturally sensitive artefacts like that shouldn’t be in museums. It’s really disrespectful.』",
+      "ranges": [[7362, 7434], [7437, 7503], [7506, 7574], [7577, 7841], [7844, 7902], [7905, 8224]],
+      "lines": [158, 161, 164, 167, 170, 173],
+      "anchors": [
+        "‘Did Digby have a partner?’ Willow’s description made it sound unlikely.",
+        "‘I don’t know. He wasn’t the sort to tell you much about himself.’",
+        "‘So, he didn’t mention going on a date? Or meeting anyone recently?’",
+        "‘Nope.’ Willow flushed a little. Caius wasn’t sure what to make of her. She was both fond of and irritated by Digby.",
+        "‘I heard you signed the petition to return the mokomokai.’",
+        "‘I did.’ Willow nodded proudly.",
+        "Culturally sensitive artefacts like that shouldn’t be in museums. It’s really disrespectful.’"
+      ]
+    }
+  ],
+  "character_relationships": [
+    {"a": "Caius", "b": "Willow Bell", "rel": "问讯者与证人。Willow 是找到尸体的研究所实习生；Caius 在录音（stated their names for the recording）；Caius 心里想象她在改 LinkedIn 头衔，觉得她既喜欢 Digby 又受他烦。"},
+    {"a": "Willow Bell", "b": "Digby Combe-Watson / Mr Combe-Watson", "rel": "雇主与实习生：她周六来当实习生、自称 research assistant，只被付交通费；她坚持称他 Mr Combe-Watson（他要求过）；他已死亡。"},
+    {"a": "Horatio Combe", "b": "Willow Bell", "rel": "Horatio Combe 是 journals 的作者，Willow 在誊写；journals 属于研究所，Horatio 抢走的庞贝罗马别墅碎片在研究所第一层。⚠️ 原文未明说 Horatio Combe 与 Digby Combe-Watson 的亲属关系，只能据同姓推测——不得当作事实。"},
+    {"a": "Willow Bell", "b": "母亲", "rel": "母亲让她给伦敦所有小博物馆写信投简历；她照做是『为了让妈妈别唠叨』。"},
+    {"a": "Willow Bell", "b": "当时的男朋友", "rel": "在一次周六班后酒吧提到他，此后她只叫他 Mr Combe-Watson。"},
+    {"a": "Willow Bell", "b": "mokomokai", "rel": "她在要求归还的请愿书上签了名，并为此骄傲。"},
+    {"a": "Willow Bell", "b": "Chalk Farm", "rel": "通勤地标：手机显示 3.24 p.m. 刷卡进 Chalk Farm。"}
+  ],
+  "numbers_and_dates_verbatim": [
+    {"value": "8.45 a.m.", "context": "她到达学院的时间", "range": [655, 847]},
+    {"value": "About 3 p.m., I guess", "context": "她对『什么时间』的第一估计", "range": [1994, 2223]},
+    {"value": "3.24 p.m.", "context": "'My phone says I tapped back into Chalk Farm at 3.24 p.m.'", "range": [1994, 2223]},
+    {"value": "ten minutes’ walk", "context": "Chalk Farm 与学院之间的步行时间", "range": [1994, 2223]},
+    {"value": "3.15 p.m., I guess", "context": "'It’s ten minutes’ walk so 3.15 p.m., I guess.'", "range": [1994, 2223]},
+    {"value": "Chalk Farm", "context": "手机刷卡进站记录", "range": [1994, 2223]},
+    {"value": "Yesterday, actually", "context": "最后一次见到活着的 Digby 的日子", "range": [1587, 1805]},
+    {"value": "early afternoon", "context": "那次来访的时间段", "range": [1587, 1805]},
+    {"value": "last week", "context": "她落下那本书的时间", "range": [1587, 1805]},
+    {"value": "last month", "context": "她誊抄那条罗马别墅日记条目的时间", "range": [4517, 5215]},
+    {"value": "on Saturdays", "context": "'I volunteer, no, I intern, on Saturdays.'", "range": [3066, 3232]},
+    {"value": "when I graduate in July", "context": "'because it’ll sound better on my CV when I graduate in July.'", "range": [3066, 3232]},
+    {"value": "born in the 1980s", "context": "'Yeah, he was born in the 1980s'", "range": [5509, 6623]},
+    {"value": "expired for a month", "context": "'yoghurt that had been expired for a month'", "range": [5509, 6623]},
+    {"value": "It’s on the first floor", "context": "庞贝别墅碎片所在楼层", "range": [4517, 5215]},
+    {"value": "a Saturday shift", "context": "酒吧那次：'We went to the pub after a Saturday shift'", "range": [7004, 7184]}
+  ],
+  "blind_read_notes": [
+    "全章是单场问询（Caius 问、Willow 答），无场景切换、无第三人进入。",
+    "⚠️ 本章原文**没有**出现 'A SATURDAY IN MAY'、'May'、任何月份、具体日期或年份。",
+    "本章未出现遗体本身，只有 'there he was on the floor'。",
+    "Willow 关于目击的措辞全是弱化式：'I don’t think' / 'Or at least I didn’t hear or see anyone' / 'I guess' 反复出现（E2/E3/E4/E7）。",
+    "Willow 对博物馆/藏品的态度有**两种不同语气**，勿混为一谈：① 对 Horatio Combe 及其藏品是轻蔑口吻（'would be in prison for vandalism'、'a womaniser'、'not a good person'、'a very poor storyteller'）；② 对 mokomokai 与博物馆收存文物是理直气壮的文化政治正确口吻（'Culturally sensitive artefacts like that shouldn’t be in museums. It’s really disrespectful.'），并因签请愿书而骄傲。",
+    "两处时间口径需在核对 md 时留意：手机显示 3.24 p.m. 'tapped back into Chalk Farm'，她说走路十分钟所以是 3.15 p.m.（是离开学院、走向 Chalk Farm 的方向才自洽）；且她先给的口头估计是 'About 3 p.m.'。",
+    "⚠️ Horatio Combe 是否为 Digby 的亲属，本章未明说，只能据同姓推测——md 若断言亲属关系即为『编』。",
+    "⚠️ 原文只说 'the mokomokai'，未在本章解释为何物；md 若加解释性断言需另有依据。",
+    "Caius 问 'Did Digby have a partner?' 与 'So, he didn’t mention going on a date? Or meeting anyone recently?' 两句的提问者都是 Caius（前者靠后随叙述『Willow’s description made it sound unlikely』判定）。"
+  ]
+}

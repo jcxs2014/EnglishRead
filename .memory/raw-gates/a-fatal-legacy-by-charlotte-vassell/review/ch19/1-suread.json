@@ -1,0 +1,163 @@
+{
+  "chapter": "ch19",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch19_19.txt",
+  "source_chars_total": 4783,
+  "suread_method": "R1 素读：只读 text/ch19_19.txt，未开任何 md、未看别章 md、未凭记忆；字符区间为该文件的 0 基字符偏移 [start, end)",
+  "chapter_title_in_source": {
+    "running_head": "19",
+    "section_title": "The Police Station",
+    "lines": "text/ch19_19.txt:1 (=19), :12 (=19), :17 (=The Police Station)",
+    "note": "源文件内除 '19' 与 'The Police Station' 外无其他标题行；'TUESDAY IN MAY' 不在 text/ch19_19.txt 内"
+  },
+  "events": [
+    {
+      "n": 1,
+      "who": "Matt",
+      "did": "打开邮件，念出邮局查到的一条信息：PO Box 位于 Barnet，由一位 Mrs Beverley Parkin 付费，她的地址在 Harrogate，信箱只买了三个月",
+      "chars": [40, 263],
+      "verbatim_anchor": "The PO Box is located in Barnet and was paid for by a Mrs Beverley Parkin, her address is in Harrogate. They only bought it for three months."
+    },
+    {
+      "n": 2,
+      "who": "Caius",
+      "did": "接话调侃 Harrogate 是个适合周末小住的好地方，看了手表，接近他们班次结束",
+      "chars": [265, 462],
+      "verbatim_anchor": "It was just the sort of place to go for a weekend away. A baby moon, maybe? Caius checked his watch. It was coming up to the end of their shift."
+    },
+    {
+      "n": 3,
+      "who": "Caius",
+      "did": "提出「身份盗用」的可能，并提示 Digby 当时正准备搬到 York，也许两者有联系",
+      "chars": [464, 515],
+      "verbatim_anchor": "‘Do you think it was some sort of identity theft?’"
+    },
+    {
+      "n": 4,
+      "who": "Caius",
+      "did": "回应说有可能，但指出 Digby 反正要搬去 York，可能那边有联系",
+      "chars": [517, 616],
+      "verbatim_anchor": "‘Possibly? Although Digby was going to move to York, wasn’t he? Maybe there’s a connection there?’"
+    },
+    {
+      "n": 5,
+      "who": "Caius",
+      "did": "说单看「Bev」这个名字，跟 Digby 至少差一代人，可能还差一两个社会阶层",
+      "chars": [618, 758],
+      "verbatim_anchor": "‘I’d say with a name like Bev though there’s at least one generation difference between her and Digby, and probably a social class or two.’"
+    },
+    {
+      "n": 6,
+      "who": "Matt",
+      "did": "决定打电话回 Digby 的朋友 Nathan，问他是否听 Digby 提过 Beverley 或别的姓 Parkin 的人",
+      "chars": [760, 872],
+      "verbatim_anchor": "‘Call back his friend Nathan and see if he’s ever heard Digby mention a Beverley or anyone else called Parkin.’"
+    },
+    {
+      "n": 7,
+      "who": "Matt",
+      "did": "把 Nathan 接到免提，问他 Digby 是否提过叫 Beverley 的人",
+      "chars": [874, 958],
+      "verbatim_anchor": "Matt put Nathan on speakerphone. ‘Hi, Nathan, I have a few more questions for you.’"
+    },
+    {
+      "n": 8,
+      "who": "Nathan",
+      "did": "说从没听过 Beverley，并说她「太像学校食堂女工」，不是他们（Digby 那一类人）的菜；说 Digby 是他兄弟一样的朋友，大学时都叫他 Posh Digby，Digby 这名字不会出现在council estate 上，他属于文化上的 posh，即便不是有钱人，喜欢歌剧之类的，但也不排斥偶尔的通俗文化",
+      "chars": [1041, 1448],
+      "verbatim_anchor": "‘Beverley? No. A bit too school dinner lady for Diggers. He was my mate, and you know I loved him like a brother, but we all called him Posh Digby at uni. Not that you needed to use the word posh. Digby isn’t a name you’d find on a council estate. He was culturally posh, you know what I mean, even if he wasn’t loaded. Liked opera and that, although he wasn’t averse to the odd bit of low culture either.’"
+    },
+    {
+      "n": 9,
+      "who": "Matt",
+      "did": "记下 Nathan 说 Digby 喜欢歌剧，随即问 Digby 与 Harrogate 有没有联系",
+      "chars": [1450, 1551],
+      "verbatim_anchor": "‘Right,’ Matt said, making a note that he liked opera. ‘Any connection between Digby and Harrogate?’"
+    },
+    {
+      "n": 10,
+      "who": "Nathan",
+      "did": "说他和 Digby 一起去过一次 Harrogate，当天往返，在 Bettys 喝了茶；那里 Wetherspoon's 最好，酒吧设在一座旧浴场里；那是周六晚上，两人喝得烂醉；Nathan 自己有女友，做「僚机」与那位难看的姐姐搭话并买了几大杯 cheeky woo woos；Digby 则迷上了那位他见过最美的妹妹，滔滔不绝讲自己的经历、吹嘘自己是伦敦某博物馆的策展人；丑姐姐一直想让妹妹走，妹妹不肯；Digby 当众宣称永恒的爱，说要把她从「恶龙」姐姐手里救出来；美女被灌醉的姐姐拖进夜色，之后再没出现；两人醉得差点错过回 York 的末班车",
+      "chars": [1553, 3353],
+      "verbatim_anchor": "‘Yeah, we went for the day. Had tea at Bettys. It’s a lovely place.’ … ‘It was a Saturday evening and we were a little worse for wear. There was this girl there with her troll of a sister.’ … ‘Digby was enamoured the moment he saw her. He was telling her all about his life, trying to impress her with saying that he was a curator in a museum down in London and all that.’ … ‘Digby declared his undying love for her, said he’d rescue her from her sister, the dragon.’"
+    },
+    {
+      "n": 11,
+      "who": "Nathan",
+      "did": "回答那是三年多前（three years ago）的事",
+      "chars": [3355, 3393],
+      "verbatim_anchor": "‘Three years ago.’"
+    },
+    {
+      "n": 12,
+      "who": "Matt",
+      "did": "挂断电话后说「That was painful」（那通电话很难受）",
+      "chars": [3461, 3503],
+      "verbatim_anchor": "‘Sure.’ Matt hung up. ‘That was painful.’"
+    },
+    {
+      "n": 13,
+      "who": "Caius",
+      "did": "说他要去联系 Barnet 邮局，把寄信那几天的监控录像调出来",
+      "chars": [3505, 3633],
+      "verbatim_anchor": "‘I’ll get hold of Barnet Post Office and get the CCTV for the days that the letters were posted,’"
+    },
+    {
+      "n": 14,
+      "who": "Tiny Simm",
+      "did": "走进案件室；Caius 说 Amy 讲他清点（the collection）做得很好",
+      "chars": [3635, 3753],
+      "verbatim_anchor": "Tiny Simm came into the incident room. Caius smiled at him. ‘Amy said you did a great job checking the collection.’"
+    },
+    {
+      "n": 15,
+      "who": "Tiny Simm",
+      "did": "报告今天早上有人报了 Priory Square 的入室盗窃，门牌七号；没丢东西，报案的人据说喝得半醉；他觉得在这么小的一个 square 里两件事接连发生很少见，所以特意来告诉 Caius",
+      "chars": [3755, 4320],
+      "verbatim_anchor": "‘I thought you might want to know that a break-in was reported on Priory Square this morning.’ … ‘A break-in? What number?’ ‘Seven.’ … ‘No, the guy who reported it was apparently half-cut. I just thought you might maybe think it was related. It’s rare for two things to happen in one small square like that so close together.’"
+    },
+    {
+      "n": 16,
+      "who": "Caius",
+      "did": "说 Simm 说得没错，给了他一个最灿烂的笑；Simm 回以一个尴尬的大拇指；Simm 离开时精神很好（buoyed）",
+      "chars": [4322, 4464],
+      "verbatim_anchor": "‘You’re not wrong.’ Caius gave his best winning smile, while Simm gave him an awkward thumbs up. ‘Thanks, mate.’ Simm left the room buoyed."
+    },
+    {
+      "n": 17,
+      "who": "Caius",
+      "did": "问 Matt 要不要去一趟 Harrogate；Matt 问是否顺便度个小假；Caius 说 solo travel（一个人去）",
+      "chars": [4466, 4605],
+      "verbatim_anchor": "Caius turned to face Matt. ‘Do you fancy a trip up to Harrogate?’ ‘Are you taking me on a little mini break?’ ‘Solo travel, mi amigo.’"
+    },
+    {
+      "n": 18,
+      "who": "Matt",
+      "did": "同意，说要回家拿牙刷；Caius 让他带干净的内裤；Matt 开玩笑说打算穿一整年没换的那条，说 Bonne nuit；Caius 回 Arrivederci",
+      "chars": [4607, 4783],
+      "verbatim_anchor": "‘Fine, I’ll go home and grab my toothbrush.’ ‘And clean pants.’ ‘Do you think? I was just going to wear the ones I’ve been wearing all year. Bonne nuit.’ ‘Arrivederci.’"
+    }
+  ],
+  "character_relations": [
+    {"a": "Matt", "b": "Caius", "rel": "同班同事，办案搭档；本章大部分对话在二人之间"},
+    {"a": "Matt", "b": "Nathan", "rel": "Matt 打电话（免提）向 Nathan 问话；Nathan 是 Digby 的朋友/大学同学"},
+    {"a": "Nathan", "b": "Digby", "rel": "Nathan 说 Digby 是他 mate、像兄弟一样，大学时大家叫他 Posh Digby"},
+    {"a": "Digby", "b": "Caius", "rel": "Caius 说 Digby 当时正准备搬到 York"},
+    {"a": "Digby", "b": "Harrogate", "rel": "三年前 Nathan 与 Digby 去过 Harrogate（当天往返，Bettys、Wetherspoon's）"},
+    {"a": "Digby", "b": "Beatrice/美姐妹（未具名）", "rel": "原文：Digby 迷上「她」——姐妹二人中的妹妹；Nathan 反复称其为 the beauty / younger one；全文未给出她的名字"},
+    {"a": "Nathan", "b": "美姐妹", "rel": "Nathan 自称 wingman，去搭讪的是丑姐姐（the ugly sister），并称她有 troll of a sister"},
+    {"a": "Caius", "b": "Tiny Simm", "rel": "Caius 是 Simm 的上级；Simm 称他 'sir'，两人互称 'mate'"},
+    {"a": "Amy", "b": "Tiny Simm", "rel": "Amy 告诉 Caius，Simm 清点 collection 干得好"},
+    {"a": "Mrs Beverley Parkin", "b": "PO Box", "rel": "她是 PO Box 的付款人，地址在 Harrogate；信箱只买三个月"},
+    {"a": "Tiny Simm", "b": "Priory Square 7 号", "rel": "他报告今天早上该处有入室盗窃，未失窃"}
+  ],
+  "numbers_and_dates_verbatim": [
+    {"value": "three months", "chars": [40, 263], "context": "The PO Box 的购买期限：They only bought it for three months."},
+    {"value": "one generation difference", "chars": [618, 758], "context": "at least one generation difference between her and Digby"},
+    {"value": "a social class or two", "chars": [618, 758], "context": "probably a social class or two"},
+    {"value": "Three years ago", "chars": [3374, 3393], "context": "Nathan 说的 Harrogate 之行时间"},
+    {"value": "Seven", "chars": [4097, 4106], "context": "Priory Square 的门牌号 7"},
+    {"value": "one small square", "chars": [4128, 4320], "context": "It's rare for two things to happen in one small square like that so close together."}
+  ],
+  "narrator_voice_note": "本章为第三人称有限视角（跟随 Matt/Caius 的现场对话），无第一人称叙述者的内心自问，无多视角切换标记。",
+  "chapter_specific_criterion_note": "本章推进链在原文里是：邮箱地址（Harrogate）→ 付款人姓名（Beverley Parkin）→ 电话把 Nathan 叫来 → Nathan 供出 Digby 三年前在 Harrogate 的一次艳遇 → 那位「最 beautiful girl」的妹妹是唯一的活人指向。原文中「从一张收据到一个活人」并非逐字出现，receipt 一词在 text/ch19_19.txt 中不存在；原文实际给的是 PO Box 的付费事实（paid for by）与地址。"
+}
