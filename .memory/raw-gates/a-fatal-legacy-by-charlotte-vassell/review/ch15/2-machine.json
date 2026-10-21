@@ -1,0 +1,240 @@
+{
+  "chapter": 15,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/ch15 callie hunts for a pregnancy test.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch15_15.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "‘Let’s celebrate me being castless. Want to go to that gastropub you like on Fortress Road that does those arancini?’",
+          "ok": true,
+          "pos": 136
+        }
+      ]
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "‘I’m late. I think I was so stressed worrying about the TV thing going wrong and then it did so my body just went “Haha,",
+          "ok": true,
+          "pos": 3689
+        }
+      ]
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "‘Pregnant? No, I can’t be. I’m baby-proofed.’",
+          "ok": true,
+          "pos": 3840
+        }
+      ]
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘It ran out three months ago.’",
+          "ok": true,
+          "pos": 4076
+        }
+      ]
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘I can’t see the tests,’ Callie said, staring at the ‘lady problems’ shelf in Sainsbury’s. Tampons, and pads, even a moo",
+          "ok": true,
+          "pos": 4605
+        }
+      ]
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "‘Do you want me to get the vitamins?’ Callie asked, aware that the vitamins were tangential to the real question",
+          "ok": true,
+          "pos": 5184
+        }
+      ]
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "‘Arancini? Arancini. You can have all the arancini as long as they take Amex.’",
+          "ok": true,
+          "pos": 6482
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 119,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 110,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 106,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 95,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 140,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 144,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.85
+      }
+    }
+  ],
+  "form": {
+    "h1": "15. Caius and Callie’s Flat",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 7.0,
+    "block_range": [
+      5,
+      10
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "segments": 7,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": []
+  }
+}

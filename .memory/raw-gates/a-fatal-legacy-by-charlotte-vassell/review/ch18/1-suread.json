@@ -1,0 +1,149 @@
+{
+  "chapter": "ch18",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch18_18.txt",
+  "source_len": 4029,
+  "source_lines": 44,
+  "read_mode": "素读，未开任何 md，先落盘本文件",
+  "sections": [
+    {"id": "S1", "name": "Eulalia’s House", "range": "20-35", "note": "场景标题；原文唯一小标题，出现在第 17 行（偏移 20-35）"},
+    {"id": "S2", "name": "开篇陈设 + 样品清单", "range": "38-640"},
+    {"id": "S3", "name": "包装之争（Eulalia 不满包装 / Mel 辩解）", "range": "643-1082"},
+    {"id": "S4", "name": "Eulalia 赞法国公司 + Mel 提议先试香水", "range": "1085-1324"},
+    {"id": "S5", "name": "Eulalia 逐件试用（香水/口红/唇油/眼影/腮红/高光），Mel 记笔记", "range": "1327-2279"},
+    {"id": "S6", "name": "Eulalia 上楼洗澡听 Fleetwood Mac，Mel 留下处理事务", "range": "2282-2623"},
+    {"id": "S7", "name": "Mel 打电话给 Venetia（PCQV），含自我更正、提 Calliope Foster、指示对方附和 Eulalia", "range": "2626-4028"}
+  ],
+  "events": [
+    {
+      "id": "E1",
+      "who": "Mel",
+      "what": "把「a selection of goodies」摊在餐厅桌上，供 Eulalia 挑选",
+      "range": "38-126",
+      "quote": "Mel laid out a selection of goodies on the dining room table for Eulalia to choose from."
+    },
+    {
+      "id": "E2",
+      "who": "Mel",
+      "what": "告知 PCQV 已寄来样品，指着按类型排好的四十来件产品",
+      "range": "129-174",
+      "quote": "‘PCQV have sent over samples for you to try,’ Mel said, gesturing at the forty-odd products neatly arranged by type."
+    },
+    {
+      "id": "E3",
+      "who": "Mel（列举）",
+      "what": "列出样品种类：死亡气味香水、过熟桃味唇油、高色素膏状腮红、像血月发亮的高光粉、咬一口会觉得juicy的口红、五个古怪色号的tubing睫毛膏、配色灵感来自世界上最致命生物的眼影盘",
+      "range": "246-640",
+      "quote": "There were death-scented perfumes, over-ripe peach-flavoured lip oils, highly pigmented cream blushes, powder highlighters that shone like the blood moon, lipsticks that made your pout juicy enough to bite, a tubing mascara in five wacky shades that promised to make your lashes look like spider legs and eyeshadow palettes whose colour story were inspired by the world’s most deadly creatures."
+    },
+    {
+      "id": "E4",
+      "who": "Eulalia（对Mel说）",
+      "what": "讨厌包装，嫌它看起来太「干净」",
+      "range": "643-718",
+      "quote": "‘I hate the packaging.’ Eulalia wrinkled her nose at how ‘clean’ it looked."
+    },
+    {
+      "id": "E5",
+      "who": "Mel（对Eulalia说）",
+      "what": "解释这只是工厂寄来的样品原样，并说对方「really open to our input」；叙述者点出：这就是雇 Callie 的全部用意，Eulalia 始终不肯看大局、只爱抱怨",
+      "range": "721-1082",
+      "quote": "‘That’s just what the sample comes in from the factory.’ Mel had to stop herself from rolling her eyes at her sister’s predictability. She’d told her that before, that this was the whole point of hiring Callie, but Eulalia refused to ever see the big picture and preferred griping instead. ‘It won’t look like that in the end. They’re really open to our input.’"
+    },
+    {
+      "id": "E6",
+      "who": "Eulalia",
+      "what": "称与「懂」的法国公司合作很爽",
+      "range": "1085-1231",
+      "quote": "‘It’s so refreshing to work with people who get it, who get what we’re trying to achieve. Of course they’d get it, they’re a French company. Duh.’"
+    },
+    {
+      "id": "E7",
+      "who": "Mel",
+      "what": "提议先从香水开始",
+      "range": "1234-1324",
+      "quote": "‘I thought we should start with the perfumes first.’ Mel gestured at the bottles lined up."
+    },
+    {
+      "id": "E8",
+      "who": "Eulalia",
+      "what": "逐件试用：喷第一瓶香水（“Smells like rotting plums.”）、又过完面前另两瓶；每支口红在手背上刷成「plump, semimatte ladder」；唇油流到另一只手背上；试了一支sheer紫色，尝起来像 Palma Violets；把毒水母灵感盘的高闪眼影全糊在另一条小臂上，再抹上像淤青的膏状腮红和每一种高光；对一切「utterly delighted」，尤其高兴于自己被「mega luxury goods conglomerate」理解",
+      "range": "1327-2279",
+      "quote": "‘I love perfume so much. Scent is the most provocative sensual input. It’s so transcendental.’ Eulalia picked up the first bottle and sprayed it. ‘Love it. Smells like rotting plums.’ … Mel made notes."
+    },
+    {
+      "id": "E9",
+      "who": "Eulalia",
+      "what": "上楼回房间冲掉「gloopy excesses of hyper-profitable vanity」，听音乐，为姐姐已写出旋律的新歌找歌词灵感；放 Fleetwood Mac",
+      "range": "2282-2623",
+      "quote": "Eulalia flitted back upstairs to her room to shower off the gloopy excesses of hyper-profitable vanity and then to listen to music in her bedroom. She was searching for inspiration for the lyrics of a new song her sister had already bashed out a melody for. Eulalia blasted Fleetwood Mac as Mel was left downstairs to manage everything else."
+    },
+    {
+      "id": "E10",
+      "who": "Mel（对Venetia说）",
+      "what": "自我介绍「From Eulalia’s team」，说 Eulalia 对寄来的东西全都爱不释手；自我更正「she picked everything I said, sorry, I mean everything I thought she would」；要敲定会议；问对方是否认识 Calliope Foster（做帽饰的，十年前做过不少时装大片），说她在跟 Eulalia 做概念、两人很合拍",
+      "range": "2782-3252",
+      "quote": "‘From Eulalia’s team. She was thrilled with everything you send over. Loved it all. I’ll email over the final choices, but yeah she picked everything I said, sorry, I mean everything I thought she would. Yes … let’s finalise the meeting. You know Calliope Foster? Yeah, yeah, so lovely. Milliner, but did a lot of fashion editorial a decade ago. Oh you know her personally. You’re old friends. Small world. She’s working with Eulalia on concepts. They’ve really gelled.’"
+    },
+    {
+      "id": "E11",
+      "who": "Mel（叙述/独白）",
+      "what": "不喜欢跟 Venetia 说话，难以维持自己的新口音，因为对方说话腔调「such a heightened way」；又写 Mel 说话时在笑，「it hid her true feelings」，她不愿有外人靠这么近、这么近她们「mutually held deceit」",
+      "range": "2626-2782 + 3254-3414",
+      "quote": "She wasn’t comfortable with an outsider being so close to the process, so close to their mutually held deceit."
+    },
+    {
+      "id": "E12",
+      "who": "Mel（对Venetia说）",
+      "what": "要 Venetia 至少部分采纳 Eulalia 的专辑视觉概念与配套产品线；教对方「we all just need to listen to the presentation and nod along, telling Eulalia she’s a genius」；说实际能落地的可能只是个字体或某个配色",
+      "range": "3415-3962",
+      "quote": "‘Eulalia has made it quite clear to me that her visual concept for the album and the associated lines need to be at least partially taken on board when considering the cosmetic line. … Between you and me, we all just need to listen to the presentation and nod along, telling Eulalia she’s a genius. I think realistically what you’ll end up incorporating is a font or a colourway, you know. Artists huh. Great chat.’"
+    },
+    {
+      "id": "E13",
+      "who": "Mel",
+      "what": "挂断后对自己微笑，「She was pulling it off.」",
+      "range": "3963-4028",
+      "quote": "Mel ended the call and smiled to herself. She was pulling it off."
+    }
+  ],
+  "characters": [
+    {"name": "Mel", "role": "叙述者/主角之一；Eulalia 的姐姐；实际掌控创意与话术的人；正在维持「新口音」，对 PCQV 联系人撒谎；写下新歌旋律的人（Eulalia 找歌词）"},
+    {"name": "Eulalia", "role": "Mel 的妹妹；艺人/被推到台前的人；对包装挑剔、对香味狂喜、以为是自己品味被理解；自己找歌歌词；上楼听 Fleetwood Mac"},
+    {"name": "Venetia", "role": "电话另一头的人；PCQV（法国奢华美妆集团）方联系人；说一种「heightened way」；与 Calliope Foster 是老友"},
+    {"name": "Callie / Calliope Foster", "role": "被雇来的人；帽饰师（milliner），十年前做过不少时装大片；正在与 Eulalia 做概念；是 Mel 与 Eulalia 用来挡住外人视线的「掩护」角色；Mel 说雇她「was the whole point」"},
+    {"name": "PCQV", "role": "法国公司，寄来样品的化妆品集团（mega luxury goods conglomerate）"},
+    {"name": "Fleetwood Mac", "role": "Eulalia 在自己卧室大放的音乐"}
+  ],
+  "relations": [
+    "Mel 与 Eulalia 是姐妹（原文 'her sister’s predictability'、'a new song her sister had already bashed out a melody for'）。",
+    "Mel 与 Eulalia 共同持有秘密：原文 'their mutually held deceit'（两个「they」= 她俩）。",
+    "Mel ↔ Venetia：Mel 以「Eulalia’s team」成员身份联系 PCQV，说谎并指挥对方如何应付。",
+    "Venetia ↔ Calliope Foster：'Oh you know her personally. You’re old friends.'（Mel 转述的旧友关系）",
+    "Callie ↔ Eulalia：正在合作概念（'She’s working with Eulalia on concepts'）。",
+    "Eulalia ↔ Mel：Eulalia 以为包装和选品是自己审美被理解；实际选品由 Mel 判断/安排（Eulalia 的选择完全在 Mel 预判之内）。",
+    "Mel 与新歌：Mel 写旋律，Eulalia 找歌词。"
+  ],
+  "numbers_dates_verbatim": [
+    {"item": "chapter number", "verbatim": "18"},
+    {"item": "sample count", "verbatim": "forty-odd products"},
+    {"item": "mascara shades", "verbatim": "a tubing mascara in five wacky shades"},
+    {"item": "Calliope Foster's editorial career", "verbatim": "did a lot of fashion editorial a decade ago"},
+    {"item": "perfume bottles used by Eulalia", "verbatim": "the first bottle", "note": "随后 worked her way through the other two bottles in front of her（共三瓶）"},
+    {"item": "others mentioned", "verbatim": "Death-scented perfumes / over-ripe peach-flavoured lip oils / highly pigmented cream blushes / powder highlighters / lipsticks / tubing mascara / eyeshadow palettes"}
+  ],
+  "chapter_specific_checks": {
+    "table_test": "Mel 把样品摊在 dining room table 上做测试（E1/E2/E3），Eulalia 逐件试用、Mel 做记录（E8 'Mel made notes'）。",
+    "sisters_division_of_labour": "Eulalia 负责试用与身体呈现（喷、刷、抹、涂），Mel 负责铺陈、建议顺序（先香水）、记笔记、对外沟通与圆谎；两人的心照不宣=「Eulalia 挑的其实是 Mel 早就算准的」。",
+    "phone_voice": "电话那头的人是 Venetia（PCQV 方），非 Callie、非 PCQV 别的什么人。",
+    "self_correction": "梅尔报给对方的说法与实情的差别在 'she picked everything I said, sorry, I mean everything I thought she would.'——口误把自己说成「我说的（我指示的）」，随即更正为「我以为她会选的（我预判的）」；实情是 Eulalia 自己选的，Mel 事先全都知道/算准。",
+    "covering_direction": "打掩护的方向：Eulalia 替 Mel 挡住外界（Mel 对 Venetia 说 'telling Eulalia she’s a genius'、让对方吹捧 Eulalia）；同时 Mel 雇 Callie 是为了用 Callie 这层掩护把真（Mel 的）品味藏在品牌与资本方视线之外——原文 'this was the whole point of hiring Callie'、Mel 怕 'an outsider being so close to … their mutually held deceit'。若 md 写成「Mel 替 Eulalia 打掩护」而不提 Callie 这层反向掩护，即为写反。"
+  },
+  "key_quotes_candidates": [
+    {"range": "129-174", "text": "‘PCQV have sent over samples for you to try,’ Mel said, gesturing at the forty-odd products neatly arranged by type."},
+    {"range": "643-718", "text": "‘I hate the packaging.’ Eulalia wrinkled her nose at how ‘clean’ it looked."},
+    {"range": "1085-1231", "text": "‘It’s so refreshing to work with people who get it, who get what we’re trying to achieve. Of course they’d get it, they’re a French company. Duh.’"},
+    {"range": "1327-1400", "text": "‘I love perfume so much. Scent is the most provocative sensual input. It’s so transcendental.’ Eulalia picked up the first bottle and sprayed it. ‘Love it. Smells like rotting plums.’"},
+    {"range": "2910-2985", "text": "she picked everything I said, sorry, I mean everything I thought she would."},
+    {"range": "3732-3845", "text": "Between you and me, we all just need to listen to the presentation and nod along, telling Eulalia she’s a genius."}
+  ]
+}

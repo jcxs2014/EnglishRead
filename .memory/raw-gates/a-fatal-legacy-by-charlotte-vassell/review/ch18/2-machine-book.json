@@ -1,0 +1,109 @@
+{
+  "book": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell",
+  "chapters": 54,
+  "h1_forms": {
+    "N.": 54
+  },
+  "nav_items": [
+    "一句话概括",
+    "视角",
+    "线索结构",
+    "人物弧线",
+    "叙事手法"
+  ],
+  "nav_counts": [
+    5
+  ],
+  "nav_sets": {
+    "一句话概括/视角/线索结构/人物弧线/叙事手法": 54
+  },
+  "blocks": 394,
+  "block_median": 7.0,
+  "block_range": [
+    5,
+    10
+  ],
+  "blocks_per_chapter": [
+    6,
+    10,
+    7,
+    6,
+    6,
+    9,
+    9,
+    6,
+    7,
+    6,
+    8,
+    10,
+    8,
+    5,
+    7,
+    9,
+    6,
+    6,
+    6,
+    6,
+    5,
+    6,
+    9,
+    7,
+    8,
+    5,
+    10,
+    8,
+    8,
+    6,
+    7,
+    7,
+    9,
+    6,
+    9,
+    10,
+    7,
+    9,
+    6,
+    7,
+    7,
+    8,
+    6,
+    7,
+    7,
+    9,
+    5,
+    10,
+    6,
+    6,
+    6,
+    10,
+    5,
+    10
+  ],
+  "subitems": [
+    "中文理解",
+    "关键词",
+    "为什么这样写",
+    "读者视角提示"
+  ],
+  "subitem_sets": {
+    "中文理解/关键词/为什么这样写/读者视角提示": 394
+  },
+  "text_files": 54,
+  "baseline": "book",
+  "profile": "mystery-thriller",
+  "profile_label": "推理 / 悬疑 / 奇幻（长篇，精简格式）",
+  "profile_subitems": [
+    "中文理解",
+    "关键词",
+    "为什么这样写",
+    "读者视角提示"
+  ],
+  "profile_optional": [
+    "句子结构"
+  ],
+  "profile_blocks": [
+    3,
+    10
+  ],
+  "profile_overview": 3
+}

@@ -1,0 +1,44 @@
+{
+  "book": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/ch18 mel packages callie for the label",
+  "chapters": 0,
+  "h1_forms": {},
+  "nav_items": [],
+  "nav_counts": [
+    5
+  ],
+  "nav_sets": {},
+  "blocks": 0,
+  "block_median": 3,
+  "block_range": [
+    3,
+    8
+  ],
+  "blocks_per_chapter": [
+    3
+  ],
+  "subitems": [
+    "中文理解",
+    "关键词",
+    "为什么这样写",
+    "读者视角提示",
+    "句子结构"
+  ],
+  "subitem_sets": {},
+  "text_files": 0,
+  "baseline": "default",
+  "profile": "_default",
+  "profile_label": "未分类目录（不在四类体裁下）",
+  "profile_subitems": [
+    "中文理解",
+    "关键词",
+    "为什么这样写",
+    "读者视角提示",
+    "句子结构"
+  ],
+  "profile_optional": [],
+  "profile_blocks": [
+    3,
+    8
+  ],
+  "profile_overview": 3
+}

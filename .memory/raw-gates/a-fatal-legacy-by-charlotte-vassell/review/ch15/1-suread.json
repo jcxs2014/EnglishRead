@@ -1,0 +1,132 @@
+{
+  "chapter": "ch15 callie hunts for a pregnancy test",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch15_15.txt",
+  "source_chars": 6955,
+  "source_lines": 232,
+  "reviewer": "R3 独立审查员（第三轮）",
+  "read_protocol": "本轮只读 text/ch15_15.txt 全文（未开 md）；读完立刻落盘本文件，落盘后才跑机器层、再读 md。字符区间为 0-based 半开区间 [start,end)，python 读原文计算。",
+  "section_real_title": {
+    "epub_part": "MONDAY",
+    "evidence": "library/*.epub → OPS/TOC.xhtml 目录：全书十二个分部依次为 A FRIDAY IN MAY / SATURDAY / SUNDAY / MONDAY / TUESDAY / WEDNESDAY / THURSDAY / FRIDAY / SATURDAY / MONDAY / TUESDAY / SIX WEEKS LATER。TOC 中第一个 MONDAY 覆盖章节 11–15，ch15 属于该 MONDAY 分部。",
+    "note": "本章 H1 = '15. Caius and Callie’s Flat'（原文行 17，区间 [20,43)），是章节标题不是分部名；分部名须写 MONDAY。"
+  },
+  "events": [
+    {
+      "id": "E1",
+      "action": "Caius 穿过走廊进客厅就喊『今晚懒得做饭』，提议去 Fortress Road 上她喜欢的那家 gastropub 吃 arancini，庆祝自己被 cast 出来（castless）；他想要他们那款茄子配 San Marzano 番茄的。随后他发现 Callie 在沙发上哭。",
+      "chars": [46, 377],
+      "line": "20/23",
+      "verbatim": "‘I can’t be arsed with cooking tonight,’ Caius yelled as he walked through the hallway into the living space. ‘Let’s celebrate me being castless. Want to go to that gastropub you like on Fortress Road that does those arancini?’ He fancied one of their aubergine and San Marzano tomato ones.\n\n\nCaius found Callie crying on the sofa."
+    },
+    {
+      "id": "E2",
+      "action": "Callie 说问题出在『工作』：她短信里说与 Eulalia 的会面顺利，但此刻她觉得当时顺利只是因为自己『really good at talking』；Caius 说她『disgustingly charming』、会面顺利是因为她『brilliant』；Callie 否认，说自己只是『a fraud who knows a few people and sounds right』。",
+      "chars": [615, 1309],
+      "line": "38/41/44/47/50/53",
+      "verbatim": "‘Work …’\n\n\n'But your text said the meeting with Eulalia went well.’\n\n\n‘I thought it went well at the time, but I think I’m actually just really good at talking.’\n\n\n‘No, you’re not. I mean, yes you are disgustingly charming.\n\n\nWhat I meant was that it went well because you’re brilliant.’\n\n\n‘I don’t know that I am. I’m just a fraud who knows a few people and sounds right.’"
+    },
+    {
+      "id": "E3",
+      "action": "Callie 把打印出来的清单给 Caius 看——那是 Eulalia 要在不到一周内凑齐的、构成连贯视觉概念所需的全部素材；她指出 Eulalia 的本名不可能就叫 Eulalia；她说 Eulalia 基本上是在利用她绕过其唱片公司（record label）的头，可能 spectacularly wrong。Caius 反驳说也可能 spectacularly right，是 Eulalia 的事业、也可能是 Callie 的起点，还问报酬是否不低。",
+      "chars": [905, 1505],
+      "line": "53/56",
+      "verbatim": "‘It’s the list of all the things Eulalia … Eulalia, her real name can’t be Eulalia. It’s every asset she needs to have a coherent visual concept for in less than a week. She’s basically using me to go over her record label’s head. It could go spectacularly wrong.’\n\n\n‘Or it could go spectacularly right. Who cares if she’s getting you to tread on a few precious toes? It’s her career and it could be the making of yours. Besides, she’s paying you well, right?’"
+    },
+    {
+      "id": "E4",
+      "action": "Callie 承认他们其实没谈到费用，她在自责『I forgot』（那是自由职业者的第一条规则）；Caius 让她把想收的价加一个零、让『Amelia』转过来，并亲了她额头；Callie 说要 ASAP 把合同发给对方。",
+      "chars": [1508, 1786],
+      "line": "59/62/65",
+      "verbatim": "‘We didn’t get round to fees, actually.’ Callie was kicking herself. That’s rule number one for freelancers. ‘I forgot.’\n\n\n‘Whatever you want to charge her add a zero, and get “Amelia” to send it.’ Caius kissed her on the forehead.\n\n\n‘I need to get a contract over to her ASAP.’"
+    },
+    {
+      "id": "E5",
+      "action": "Callie 兴致转好，说想做那种老派中世纪字体（Hollywood 中世纪片爱用的那种）；她刚花了几小时在大英图书馆线上档案里翻数字化的泥金装饰手抄本找灵感，给 Caius 看一张『修女从树上摘阴茎』的图，说原作语境里古怪好笑、现在复刻会很挑衅、很 cheeky；Caius 说自己 GCSE 生物没学过这种树。Callie 评价 Eulalia『was cool』但不愿多说，只透露她妹妹管业务。",
+      "chars": [2061, 3306],
+      "line": "71/74/77",
+      "verbatim": "She perked up. ‘I’m into the idea of that old medieval font; you know the one. They use it in Hollywood movies to denote the Middle Ages.’ … ‘Here’s a picture of a nun picking penises from a tree. I think Eulalia would get a kick out of it. It’s weird and amusing in the original context but it would be so provocative to reproduce that image now. It’s cheeky.’\n\n\n‘I don’t remember being taught about these trees in GCSE biology,’ Caius said, staring at the picture."
+    },
+    {
+      "id": "E6",
+      "action": "二人打情骂俏（Caius 问『New bra?』被拒；Callie 把他推开、改为亲吻，因为『You’ve already been to the pub』），随后话题转到月经：Caius 问『Is it because you’re on?』，Callie 答『No, I’m late, actually?』；她解释自己是压力太大、身体直接『Haha, no, not this month.’；Caius 追问『You’re not …?』，Callie 说『Pregnant? No, I can’t be. I’m baby-proofed.』",
+      "chars": [3411, 4094],
+      "line": "89/92/98/101/104/107/110/113",
+      "verbatim": "Callie batted him away. ‘I want arancini now you’ve said it.’ Callie leaned over and kissed him in lieu. ‘You’ve already been to the pub.’\n\n\n‘Team bonding. Only had a swift one, then I rushed home back to my darling girl,’ Caius said, pulling her back onto the sofa and kissing her neck. ‘I’ll buy you all the arancini in Sicily tomorrow, how about that?’\n\n\n‘But crispy Italian rice balls …’\n\n\n‘Is it because you’re on?’\n\n\n‘No, I’m late, actually?’\n\n\n‘What?’ Caius sat up.\n\n\n‘I’m late. I think I was so stressed worrying about the TV thing going wrong and then it did so my body just went “Haha, no, not this month.”’\n\n\n‘You’re not …?’\n\n\n‘Pregnant? No, I can’t be. I’m baby-proofed.’"
+    },
+    {
+      "id": "E7",
+      "action": "Caius 问『You’ve still got that thing in your arm?』，Callie 答『Yeah, Nexplanon.』并从桌上拿起手包、翻出钱包找到那张记着避孕植入物信息的卡片，看完惊呼『Shit.』；她随即说明『It ran out three months ago.』——即植入物三个月前就已失效。Caius 说她想要多少 arancini 都行，会顺路去 Sainsbury’s Local，并猜『I bet they sell tests. They must do.』。",
+      "chars": [4097, 4492],
+      "line": "116/119/122/125/128",
+      "verbatim": "‘You’ve still got that thing in your arm?’\n\n\n‘Yeah, Nexplanon.’ Callie took her handbag from the table and fished out her purse, finding the card with details of her contraceptive implant. ‘Shit.’\n\n\n‘What?’\n\n\n‘It ran out three months ago.’\n\n\n‘You can have all the arancini you want.’ Caius stood up. ‘And we’ll just stop by the Sainsbury’s Local on the way. I bet they sell tests. They must do.’"
+    },
+    {
+      "id": "E8",
+      "action": "在 Sainsbury’s：Callie 盯着『lady problems』货架说『I can’t see the tests』——货架上只有 Tampons、pads 和 moon cup，没有验孕棒；Caius 说大概在收银台后面、因为经常被偷（并拿 baby formula、steaks、cheese 的防盗签作证）。两人就『孕妇维生素』来回确认；Callie 默默从货架拿了一包维生素，走到收银台队首放下，店员扫描了那包维生素；Callie 说『Please may I have a pregnancy test?』，店员从货架取下一盒、扫描并放到柜台上，Callie 把两样东西都塞进包里。Caius 接着要了一包安全套，Callie 回『Stable door』，Caius 对一脸茫然的店员说『Never mind… The horse has bolted.』。随后 Callie 索要『twenty Marlboro Lights and a bottle of your strongest whisky』把场面降格成玩笑——店员转身去拿时她改口『I’m only joking』并掏出 Nectar 卡道歉。",
+      "chars": [4891, 6684],
+      "line": "162/165/168/171/174/177/180/183/186/189/192/195/198/201/204/207/210/213/219",
+      "verbatim": "‘I can’t see the tests,’ Callie said, staring at the ‘lady problems’ shelf in Sainsbury’s. Tampons, and pads, even a moon cup but no pregnancy tests.\n\n\n‘They’re probably behind the till. They get nicked a lot.’\n\n\n‘Schoolgirls?’\n\n\n‘Maybe. I don’t know, but the baby formula, steaks and cheese have security tags in here so …’\n\n\n‘Do you want a pack of those?’\n\n\n‘Pregnancy vitamins?’\n\n\n‘Do you want them?’\n\n\n‘Um.’ Callie froze. She looked up at Caius.\n\n\n‘If it is positive, do you want the vitamins?’\n\n\n‘Do you want me to get the vitamins?’ Callie asked, aware that the vitamins were tangential to the real question.\n\n\n‘It’s your choice.’\n\n\n‘Whether I buy the vitamins?’ She just needed to hear him say it.\n\n\n‘All of it. It’s all your choice.’\n\n\nCallie silently picked a packet off the shelves and they walked to the checkout. They got to the front of the queue. Callie placed the vitamins down and the sales assistant scanned the packet. ‘Please may I have a pregnancy test?’\n\n\n‘Sure.’ The sales assistant took one down from the shelf, scanned it and placed it on the counter. Callie slipped both items into her bag. ‘Anything else?’\n\n\n‘A packet of condoms,’ Caius said.\n\n\n‘Stable door,’ Callie said.\n\n\n‘Never mind,’ Caius said to the bewildered sales assistant. ‘The horse has bolted.’\n\n\n‘Oh, and twenty Marlboro Lights and a bottle of your strongest whisky as well, please,’ Callie said. The sales assistant tried to not be judgy but froze at the combination.\n\n\n‘What?’ Caius asked, turning to look at her.\n\n\n‘I’m only joking,’ Callie said as the sales assistant began turning around to get them. She took out her Nectar card hurriedly. ‘Sorry, I thought I was being funny.’"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Callie",
+      "full": "Callie（Calliope Foster，做帽子，线上以『Amelia』之名自称；本章自述是 freelancer，做视觉概念）",
+      "role_in_chapter": "Caius 的同居女友；Eulalia 的委托视觉顾问；本作主角之一",
+      "notes": "她说自己『I'm just a fraud who knows a few people and sounds right』；她说 Eulalia 本名不可能是 Eulalia；她说 Eulalia 在利用她『go over her record label’s head』——这里 her record label 指 Eulalia 自己的唱片公司，本章未出现 PCQV。"
+    },
+    {
+      "name": "Caius",
+      "role_in_chapter": "Callie 的同居男友，本章几乎全程在家与超市",
+      "notes": "被 cast 出来（castless）；提议去 gastropub；提出让 Callie 加价一个零；先想到验孕棒；最后用 Amex 结账。"
+    },
+    {
+      "name": "Eulalia",
+      "role_in_chapter": "Callie 的客户（被雇做视觉概念），本章只通过对谈与打印清单出现，未出场",
+      "notes": "本名不是 Eulalia；歌词作者；有唱片公司；妹妹管业务。"
+    },
+    {
+      "name": "Mel",
+      "role_in_chapter": "本章未出现（据 ch42 为 Eulalia 的 manager）",
+      "notes": "本章正文没有 Mel，也没有 PCQV。"
+    },
+    {
+      "name": "Max",
+      "role_in_chapter": "仅被 Caius 提名为可能的麻烦来源，Callie 否认",
+      "notes": "‘What’s wrong? Is it Max?’ / ‘No, not Max.’"
+    },
+    {
+      "name": "sales assistant",
+      "role_in_chapter": "Sainsbury’s 收银员，取下验孕棒并扫描",
+      "notes": "被『twenty Marlboro Lights + 威士忌』的组合震住，先 frozen 后转身去拿（随即被 Callie 叫停）。"
+    }
+  ],
+  "relations": [
+    "Callie 与 Caius：同居情侣；本场从『吃 arancini』转到『验孕』再到『超市买验孕棒』。",
+    "Callie 与 Eulalia：客户关系；Callie 为 Eulalia 做视觉概念，绕过 Eulalia 自己的唱片公司高层；费用还没谈。",
+    "Callie 与『Amelia』：同一人的两个身份——Amelia 是 Callie 自己对外的名字（ch06: ‘Calliope Foster Millinary, Amelia speaking.’），Caius 让她『get “Amelia” to send it』。",
+    "Caius 与 Max：被提及但本章无实质。",
+    "PCQV 与唱片公司：两个实体；ch15 正文只出现『her record label』，没有 PCQV。"
+  ],
+  "numbers_and_dates_verbatim": [
+    {"text": "three months ago", "where": "植入物失效说明：‘It ran out three months ago.’", "chars": [4306, 4336]},
+    {"text": "twenty Marlboro Lights", "where": "Callie 索要清单：‘Oh, and twenty Marlboro Lights and a bottle of your strongest whisky as well, please’", "chars": [6297, 6469]},
+    {"text": "less than a week", "where": "‘every asset she needs to have a coherent visual concept for in less than a week’", "chars": [905, 1309]},
+    {"text": "rule number one for freelancers", "where": "Callie 忘谈费用", "chars": [1508, 1628]},
+    {"text": "add a zero", "where": "Caius 让她把价加一个零", "chars": [1631, 1739]},
+    {"text": "seventeen-year-olds", "where": "‘We’re not seventeen-year-olds.’", "chars": [4600, 4687]},
+    {"text": "the last couple of hours", "where": "Callie 翻大英图书馆手抄本", "chars": [2061, 2779]},
+    {"text": "Fortress Road", "where": "gastropub 位置", "chars": [46, 336]},
+    {"text": "Sainsbury’s Local", "where": "Caius 提议顺路去买", "chars": [4339, 4492]},
+    {"text": "Nexplanon", "where": "Callie 的避孕植入物", "chars": [4142, 4293]},
+    {"text": "GCSE biology", "where": "Caius 调侃", "chars": [2782, 2909]},
+    {"text": "Nectar card", "where": "Callie 掏卡", "chars": [6519, 6684]},
+    {"text": "Amex", "where": "结尾收尾", "chars": [6876, 6954]}
+  ],
+  "key_answers_to_open_questions": {
+    "① 超市收银台前到底买了什么、验孕棒买到没有": "买到了。店员从货架取下一盒验孕棒、扫描、放在柜台上；Callie『slipped both items into her bag』——both = 维生素 + 验孕棒。但验孕棒不是一开始就有的：她先在『lady problems』货架找不到（只有 Tampons、pads、moon cup），Caius 只是猜『They’re probably behind the till』『I bet they sell tests』。安全套没成交（Caius 说『Never mind… The horse has bolted.’）。香烟与威士忌也没买（Callie 在店员转身去拿时改口『I’m only joking』）。",
+    "② 避孕怎么说、数字是否逐字": "Callie 原话『Pregnant? No, I can’t be. I’m baby-proofed.』；Caius 问『You’ve still got that thing in your arm?』，她答『Yeah, Nexplanon.』并翻出写有植入物信息的卡片，看后说『Shit.』，随即『It ran out three months ago.』——『three months ago』是原文逐字，指植入物三个月前就已失效。",
+    "③ 降格成玩笑的动作与原话": "收银台前 Callie 说『Please may I have a pregnancy test?』之后，接着（对店员）说『Oh, and twenty Marlboro Lights and a bottle of your strongest whisky as well, please』——店员『tried to not be judgy but froze at the combination』；Caius 问『What?』；她改口『I’m only joking』并『took out her Nectar card hurriedly』『Sorry, I thought I was being funny.’。另有一处 Caius 的『A packet of condoms』被 Callie 用『Stable door』否掉，Caius 对店员说『Never mind… The horse has bolted.』。",
+    "④ 导航与总结是否与原文一致": "留待第 3 步读 md 后核对（本章导航 5 项、块数 7、H1 = ‘15. Caius and Callie’s Flat’、分部名应写 MONDAY）。"
+  }
+}
