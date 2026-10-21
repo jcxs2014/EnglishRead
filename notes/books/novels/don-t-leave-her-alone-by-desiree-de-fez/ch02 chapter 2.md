@@ -54,7 +54,7 @@ source_text: ch02
 
 > **原句 4:** "She had counted twenty-three obvious manias. There was one tic that every one of them shared: They clicked their heels together whenever someone said the word death. The most sophisticated one she had only seen in their twin cousins from Madrid."
 
-**中文理解**：她数出二十三个显而易见的癖好。其中有一个是所有人共有的：谁只要说出「死亡」这个词，就把两只脚跟并在一起。最精巧的一个，作者只在马德里的双胞胎表亲身上见过。
+**中文理解**：她数出二十三个显而易见的癖好。其中有一个是所有人共有的：谁只要说出「死亡」这个词，就把两只脚跟并在一起。最精巧的一个，她只在马德里的双胞胎表亲身上见过。
 
 **关键词**：counted twenty-three obvious manias · one tic that every one of them shared · clicked their heels together
 
