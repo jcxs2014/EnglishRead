@@ -53,14 +53,14 @@
    - `/usr/bin/grep -nw "first" text/ch01_chapter_1.txt` → 仅 `:30`（"or that the kids in the other year had gone first" 与 "The only child not singing"），本章**没有**任何「第一场」的依据。
    - `text/ch01:12`「She couldn't remember a Christmas when she hadn't put off her shopping, slipped out of a family dinner, or missed a school play…」——这处「missed a school play」是**往年**的旧例清单，不是本章这一次。
    - 结论：`md:11` 改为「错过了女儿的演出」成立。
-2. **块 2 的「同一段台词，两种读法」是否成立——不成立（提示，待改）**
+2. **块 2 的「同一段台词，两种读法」是否成立——不成立（提示，已修复）**
    - `text/ch01:30`「After the poem, the kids launched into a loosely religious version of a Taylor Swift song. The parents laughed loudly…」——父母喝彩在**歌**上；「After the poem」明写 Diana 进厅时**诗已结束**。
    - `text/ch01:30`「Diana's eyes clouded and her legs shook when, from the hallway, she heard the Christmas song Brisa had been humming at home for weeks.」——她从**走廊**听见的是「the Christmas song」，不是块 2 引的那首诗。
-   - 结论：`md:37` 的「同一段台词，两种读法」需改写为「同一场演出，两种读法」并点明「诗她已错过」；`md:39` 的「错过了整场」需改为「错过了开场那一段诗」。
-3. **`md:111` 的序章类比是否成立——主体不成立，已修复；残余仍待改**
+   - 结论（已修）：`md:37` 改为「同一场演出，两种读法」并点明「诗她已错过」；`md:39` 改为「错过了开场那一段诗」。两处见 commit `1fcf5c7c6`／`128ec026d`。
+3. **`md:111` 的序章类比是否成立——主体不成立，已修复；残余亦已修（已修复）**
    - `text/ch00:21`「her ears were covered in new piercings, full of earrings she'd never seen before. She counted nine hoops, all different sizes, five in one ear and four in the other.」——是**新扎的耳洞**，且她**数清了九个**（一边五个、另一边四个）；她不知道的只是「预约那天的过程」（「The appointment she couldn't remember must have been long, unhygienic, and cruel.」）。
    - `text/ch00:15`「the last time she'd been here, with Brigitte」＋ `:18`「in her daughter's favorite store, where Brigitte mistook cheap jewelry for the real thing」——序章的女人是带 **Brigitte** 的母亲（Alba 线）；`text/ch02:468`／`:477` 确认 Brisa 与 Brigitte 是表姐妹，分属两条线。
-   - 结论：现写法「她自己身上多了九只从没见过的耳环，连多出来的是什么都说不清」已与原文对齐；仍建议补一句点明序章是 **Alba 线**，否则读者会把 Brigitte 与 Brisa 混成一人。
+   - 结论（已修）：现写法「她自己身上多了九只从没见过的耳环，连多出来的是什么都说不清」已与原文对齐；补写「要注意那条线是另一个人的：序章醒来的女人是带着布里吉特的母亲，不是本章的戴安娜和布里斯卡」后，Brigitte 与 Brisa 不再混淆（commit `13f283033`）。
 
 ---
 
