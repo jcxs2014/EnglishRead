@@ -25,9 +25,9 @@ modified: "2026-10-20"
 
 **关键词**：Lucy is animated / wants to talk about longevity medicine / set off a flare in her mind / Am I familiar with the latest findings
 
-**为什么这样写**：一章的开头由上一章的**余波**推动：斯科特随口一提的亿万富翁，在这里变成一颗火星。而「Am I familiar with the latest findings?」（我熟悉最新成果吗？）这个问句是**露西心里的**（自由间接引语把读者放进她的兴奋里），问的是**马瑟**熟不熟悉最新成果——所以下一段由他作答。
+**为什么这样写**：一章的开头由上一章的**余波**推动：斯科特随口一提的亿万富翁，在这里变成一颗火星。而「Am I familiar with the latest findings?」（我熟悉最新成果吗？）这个问句其实是**马瑟自己的话**——第一人称叙述里的自问，作者让露西的兴奋把它逼出来，下一段他答「Maybe not the latest」。
 
-**读者视角提示**：请注意这句问话是**露西问的**（马瑟在下一段答「Maybe not the latest」）——一个史学训练出身的人对当下最新成果的敏感，与后面她想写一部历史的想法是连着的。
+**读者视角提示**：请注意**问的人是马瑟自己**（「Am I familiar…」是第一人称自问，下一段他答「Maybe not the latest」）——露西一句话没说，她的兴奋已经默认了他该懂行。而真正对最新成果敏感的是露西：社会史博士是她（ch05），本章后段她果然想写一部抗衰老疗法的历史。
 
 ---
 
