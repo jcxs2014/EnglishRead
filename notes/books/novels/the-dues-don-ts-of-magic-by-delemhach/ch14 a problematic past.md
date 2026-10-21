@@ -10,18 +10,18 @@ modified: "2026-10-20"
 - **一句话概括**：闪回之后的第二天，Ben 一整天甩开脚步往前走、把 Spidena 落在身后二十英尺；黄昏时她终于撑不住——嘴唇褪尽血色、脸色发青、几乎睁不开眼——他一声不吭地为她找水、采食、生火、烤了两只松鼠；夜里的火边，Spidena 先说「我理解你当年别无选择」，接着丢出全章最重的一句：**「猎巫犬是我母亲被带走的原因。」** 她说她没法不恨他，Ben 则用「你过我的人生试试」和「你过得挺舒服」把话顶了回去。
 - **情感弧线位置**：本章是**上一章余震的兑现**。上一章扔下「你以前是猎巫犬」，本章让后果真正发生：先是一整天的**冷战**（他走得越来越快，她落在后面），再是**照料的沉默**（找水、采集、烤火，全程一句话不说），最后是**火边的对撞**。作者把两人关系写成一条温度曲线——越照顾，越冷。
 - **人物弧线**：Spidena：本章她第一次从「审判者」退回到「受害者」——她的病、她的母亲、她那句「我不知道怎么才能不恨你」，让她的立场从道德判断落回私人创伤。Ben：本章他第一次**动手照顾人**（找水、采集、拖树枝当柴、烤松鼠），却在同一夜里用最狠的话把她推开。他那两句关键台词都指向同一件事：**不解释、不辩护、不接受评判**。
-- **叙事手法**：用**一个摇头动作**抹掉回忆 → 用**白噪音**比喻自我关闭 → 用**身体细节写病**（唇色褪尽、脸色发青、眼皮抬不起）→ 用**动作写沉默**（整晚不说一句）→ 用**火与食物**做情绪过渡（烤串、没放香料的松鼠）→ 用**一句反问**做反击 → 用**单句炸弹**做转折 → 末段用**一把新扫帚扫起旧尘**的比喻收束。
+- **叙事手法**：用**一个摇头动作**抹掉回忆 → 用**白噪音**比喻自我关闭 → 用**一次啄击**推进空间关系（Wolf 啄他的头，逼他转身，才看见 Spidena 落在身后二十英尺）→ 用**身体细节写病**（唇色褪尽、脸色发青、眼皮抬不起）→ 用**动作写沉默**（整晚不说一句）→ 用**火与食物**做情绪过渡（烤串、没放香料的松鼠）→ 用**一句反问**做反击 → 用**单句炸弹**做转折 → 末段用**一把新扫帚扫起旧尘**的比喻收束。
 - **关键术语**：Hound（猎巫犬）· the Hounds（猎巫犬部队）· the king’s army（国王的军队）· white noise（白噪音）· vestige（残迹）· full-fledged（正式的、成年的）· righteous（义正词严的）· prod（挑动、刺激）· bristle（刷毛）· cavalier（满不在乎的）· gnats（小飞虫）· dim（昏暗的）。
 
 ## 精读
 
 > **原句 1:** "Ben gave his head a sharp shake, casting off the last vestiges of his vivid memories, and continued to forge his way through the trees."
 
-**中文理解：** Ben 猛地摇了摇头，把那些鲜明记忆的最后一点残迹甩掉，继续在林子里**锻造**着自己要走的那条路。
+**中文理解：** Ben 猛地摇了摇头，把那些鲜明记忆的最后一点残迹甩掉，继续在林子里**自己开路**。
 
 **关键词：** casting off the last vestiges of his vivid memories · continued to forge his way through the trees
 
-**为什么这样写：** 作者用一个**物理动作**（摇头）来关闭回忆，比"他努力不去想"高明得多：vestiges（残迹）说明记忆不是被删除、只是被甩落，仍有余烬。forge（锻造）这个动词把走路写成**打铁**——人在被火烧、被锤打之后，才走得出自己的路。这句同时立住了 Ben 这个人的语言习惯：他的情绪总是走**身体与工序**的路子，而不是心理描写。
+**为什么这样写：** 作者用一个**物理动作**（摇头）来关闭回忆，比"他努力不去想"高明得多：vestiges（残迹）说明记忆不是被删除、只是被甩落，仍有余烬。forge（锻造／开路）这个动词写的不是被打磨，而是**硬开出一条路**：他既没绕开那些记忆，也没停下来消化，只是继续往前。vestiges（残迹）留下余烬，forge 则把余烬踩进林子。这句同时立住了 Ben 这个人的语言习惯：他的情绪总是走**身体与动作**的路子，而不是心理描写。
 
 **读者视角提示：** 留意作者如何用一个**动作**替代一整段心理描写。遇到"他努力不去想"这类句子时，看看作者是不是换成了动作。
 
@@ -67,7 +67,7 @@ modified: "2026-10-20"
 
 > **原句 6:** "“You would’ve only been a child when she was taken. Too young to be a full-fledged member of the Hounds. But she was taken because of them. And you probably did the same thing to countless other mothers, or fathers, or loved ones.”"
 
-**中文理解：** 「她被带走的时候你还是个孩子——还没资格算是猎巫犬的正式一员。但她是因为他们才被带走的。而你多半还对无数别的母亲、父亲或心上人做过同样的事。」
+**中文理解：** 「她被带走的时候你还是个孩子——还没资格算是猎巫犬的正式一员。但她是因为他们才被带走的。而你多半还对无数别的母亲、父亲或所爱之人做过同样的事。」
 
 **关键词：** only been a child when she was taken · Too young to be a full-fledged member of the Hounds · she was taken because of them · countless other mothers, or fathers, or loved ones
 
@@ -107,7 +107,7 @@ modified: "2026-10-20"
 
 > **原句 10:** "And this time, thanks to the damning presence of magic and his favor to Spidena that glued them together, it might not settle so quickly."
 
-**中文理解：** 「但这一次，多亏了那份该诅咒的魔法、以及 Spidena 对他的恩情把他们两个粘在一起，它恐怕不会这么快就平息下去。」
+**中文理解：** 「但这一次，多亏了那份该诅咒的魔法、以及**他欠 Spidena 的那份情**把他们两个粘在一起，它恐怕不会这么快就平息下去。」
 
 **关键词：** thanks to the damning presence of magic · his favor to Spidena that glued them together · it might not settle so quickly
 

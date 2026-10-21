@@ -10,7 +10,7 @@ modified: "2026-10-20"
 - **一句话概括**：院子里的 Spidena 追问「你是什么时候知道自己是个 dodder 的」，Ben 答「父母卖掉我那天早上」；她据此推出他被卖给了贵族或军队，再追问他属于哪一类 dodder，Ben 拒绝回答，只回一句「你连找路都不会，还能把我怎么样」；随后两人在前台领到三只**服务铃**（按妖精／人类／大型魔法生物分门别类，标签上写着「大型魔法生物，请只摇一次」），Daffy 递上银钥匙与金钥匙，Spidena 抢了 Ben 的钥匙去看他的房间；进了 4 号房，她终于把话说全——**她挑中他当护送，是因为不知道他是 dodder，而 dodder 是上一朝被大量处决的对象**；而 Ben 也头一次交代底牌：Ostrig 把他卖进了国王的军队，指挥官收留了他，他必须在金特尔找回一个人、取一样东西。
 - **情感弧线位置**：承接上章「dodder 身份被当场揭穿」，本章写的是**余震 ＋ 交代**。上一章的爆炸（她当场失态）之后，作者给了两段相对安静的空间：先是院子里一个吃三明治的男人和一个来回踱步的女人，然后是三只铃铛的滑稽陈设，再进到房间里两个人**头一次真正交换底牌**。节奏是「余怒—追问—缓冲（铃铛与钥匙）—房间里的坦白」。这是全书前段**信任建立**的第一个明确节点。
 - **人物弧线**：Ben：本章他第一次**主动交代自己的过去**（被卖、当兵、欠着一个人的债），而且用的是**军旅式的短句**——他宁可背诵也不愿倾诉。同时他仍在保护她：抹掉手上的面包屑、趁她不注意把她的金钥匙顺走。Spidena：本章最动人的是她的**职业性**——一听到 dodder 就立刻进入推理模式，把法律变迁、家族隐瞒、上一朝的处决史一条条理出来；而当她知道自己判断错了（一直以为他只是个普通人），她的第一反应不是发火，是**继续追问细节**。
-- **叙事手法**：用**院子的静止场面**承接上一章的喧闹（踱步、跺脚、哼气、吃三明治）→ 让**追问与回避**构成对话骨架 → 用**一段法律与历史说明**解释 dodder 的社会处境 → 用**三只铃铛的标签**做喜剧缓冲（本书的招牌道具：标签自己说话）→ 让**钥匙的材质**承担人物关系 → 在房间里用**器物清单式**的白描写环境 → 用**一长串排比**写「自由」的代价 → 末段用**一句军营俗谚**和一把**金钥匙**收束。
+- **叙事手法**：用**院子的静止场面**承接上一章的喧闹（踱步、跺脚、哼气、吃三明治）→ 让**追问与回避**构成对话骨架 → 用**一段法律与历史说明**解释 dodder 的社会处境 → 用**三只铃铛的标签**做喜剧缓冲（本书的招牌道具：标签自己说话）→ 让**钥匙的材质**承担人物关系 → 在房间里用**器物清单式**的白描写环境 → 用**一长串排比**写「自由」的代价 → 末段用**一句军营俗谚**（"别把明天的麻烦借到今天——今天自有今天的难处与好事要应付"）和一把**金钥匙**收束。
 - **关键术语**：dodder（残留着魔力、却无力施展的人）· seeb（毫无魔力痕迹的普通人）· magic debt（魔力债务）· incantation（咒语）· spell（编织咒）· potion（药剂）· sprite（小精灵）· fairy（妖精）· fey（仙灵）· Kintel（金特尔）· The Fey Way（客栈名）· Daffodil／Daffy（宁芙老板娘）· Ostrig Vontrik · Reggie Bowen · commander（指挥官）· Man Chop（Daffy 对 Ben 的绰号）。
 
 ## 精读
@@ -107,7 +107,7 @@ modified: "2026-10-20"
 
 > **原句 10:** "“I was in the military,” he announced in clipped tones. “Ostrig sold me to the king’s army. My commander there saw something in me and took me under his wing. Even though I’ve left, there is still someone I have to go back and help. I’m not completely certain where they are, but I should be able to find out in Kintel, and there’s something I need to pick up there. So I found Ostrig and took the amount of gold I was sold for in order to fund whatever it is I end up needing to do.”"
 
-**中文理解：** 「我当过兵。」他用短促的语气宣布道。「Ostrig 把我卖进了国王的军队。那里的指挥官在我身上看出了什么，把我带在身边。虽然我已经离开了，但还有一个人我必须回去帮。我不完全确定他们在哪里，但应该能在金特尔打听到，而我在那儿有样东西要取。所以我去找了 Ostrig，把当年卖我的那笔钱拿回来，好去应付我最后要做的 whatever 事。」
+**中文理解：** 「我当过兵。」他用短促的语气宣布道。「Ostrig 把我卖进了国王的军队。那里的指挥官在我身上看出了什么，把我带在身边。虽然我已经离开了，但还有一个人我必须回去帮。我不完全确定他们在哪里，但应该能在金特尔打听到，而我在那儿有样东西要取。所以我去找了 Ostrig，把当年卖我的那笔钱拿回来，好拿去供我最后要办的那件事用。」
 
 **关键词：** I was in the military · announced in clipped tones · Ostrig sold me to the king’s army · took me under his wing · there is still someone I have to go back and help · the amount of gold I was sold for
 
