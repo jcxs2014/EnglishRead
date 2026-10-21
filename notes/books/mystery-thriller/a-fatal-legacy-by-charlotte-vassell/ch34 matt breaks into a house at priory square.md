@@ -68,11 +68,11 @@ source_text: ch34
 
 > **原句 6:** "‘Get out of my room,’ she said quietly. Mel would try to meddle with her now. She had that look. Eulalia turned back to her laptop to scroll obsessively as her sister left the room. She hadn’t been surprised by a single thing Mel had said. She knew she was out to get her. She’d sent a spy to watch over her at dinner with Cal, after all. He’d offered them little cups of poison."
 
-**中文理解**：她轻声让她出去。梅尔又要来管她，她露出那种眼神。欧拉莉亚转回笔记本电脑，妹妹离开房间时她并不惊讶：梅尔说的每一句她都不感到意外，她知道妹妹是冲自己来的——她在与 Cal 的那顿晚餐上派过一个人去盯着，那人还端来过小杯的毒药。
+**中文理解**：她轻声让她出去。梅尔又要来管她，她露出那种眼神。欧拉莉亚转回笔记本电脑，梅尔离开房间时她并不惊讶：梅尔说的每一句她都不感到意外，她早知道梅尔是冲自己来的——梅尔在那顿与 Cal 的晚餐上派过一个人去盯着她，那人还端来过小杯的毒药。
 
 **关键词**：meddle / obsessively / poison
 
-**为什么这样写**：全章以一次视角翻转收束：马特走出前门，读者以为这一章已经结束，镜头却留在屋内，转成欧拉莉亚的不信任。摔门、互骂、逼问，在她那里全被算成「妹妹要对付我」的证据，而她的对策早已就位——眼线，与小杯的毒药。
+**为什么这样写**：全章以一次视角翻转收束：马特走出前门，读者以为这一章已经结束，镜头却留在屋内，转成欧拉莉亚的不信任。摔门、互骂、逼问，在她那里全被算成「梅尔要对付我」的证据；而原文里「要对付她的人」与「派眼线的人」是同一个人——眼线与那两杯毒酒都出自梅尔那边，布置在先的是那边，明处的反而是欧拉莉亚。正因她早知道有人在动自己，梅尔说的每一句她才都不惊讶；这份笃定才是这一段最冷的东西。
 
 **读者视角提示**：留意她「对梅尔说的每一句都不惊讶」这种笃定：早有准备的那种平静，比任何指控都更让人不安。
 
