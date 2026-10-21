@@ -10,9 +10,9 @@ source_text: ch27
 
 - **一句话概括**：在分部「WEDNESDAY」里，可能怀孕的帽匠 Callie 先在视频通话里告诉当警察的伴侣 Caius，今晚要去见「不能公开点名的那位客户」，随后在圣约翰伍德一家意式餐厅与偶像 Eulalia 吃一顿饭——桌上的话题被 Eulalia 的连珠炮推着走，酒被 Callie 用一句「皮肤科医生的嘱咐」挡下，而始终没有露面的 Mel 手里握着专辑、头套和面包三种开关，三个人的关系第一次被摆到同一张桌子上。
 - **视角**：第三人称限知，全程贴着 Callie：前半段是她在摄政公园边走路边与 Caius 视频，后半段是她在餐厅里的观察与判断，她数着对方说话的停顿，猜 Mel 的意图，最后在出租车后座给 Caius 发去一条「Eulalia 有点怪」的短信。
-- **线索结构**：三层叠放——表层是餐桌寒暄（选哪家餐厅、喝什么、吃不吃面包），中层是 Mel 这条不在场却无处不在的线（她否决放专辑、改了头套方案、不许吃面包），里层是 Eulalia 对「被打断」的敏感（吧台男送酒、她当场翻脸、掏出现金付账不等找零就走人）。
-- **人物弧线**：Callie 从以为这是一次普通的甲方饭局，到看出自己正处在一个三人权力结构里；Eulalia 从连珠炮似的提问者，变成站在人行道上一言不发盯着车流的人；Mel 全程不出场，却决定了这顿饭能喝什么、能听什么、能长什么样。
-- **叙事手法**：对话推进，作者用 Callie 的挑剔视角与吐槽给每个场景降温；她不写推理，只写认物——一杯水、一篮面包、一次挥手中指；而她对男人的那句评价（里面是玻璃做的一样脆），和她自己刚刚起步的那段关系形成反讽。
+- **线索结构**：三层叠放——表层是餐桌寒暄（选哪家餐厅、喝什么、吃不吃面包），中层是 Mel 这条不在场却无处不在的线（她否决放专辑、改了头套方案、不许吃面包），里层是 Eulalia 对「被打断」的敏感（吧台男送酒、她当场翻脸、掏出现金付账不等找零就走人）；此外还埋着一条中世纪—修女的暗线（Callie 的十三世纪情绪板、Marie de France，以及她顺手听起的 Julian of Norwich 播客），它在本章首尾各露一次头。
+- **人物弧线**：Callie 从以为自己会被晾着、被当成时间不重要的低阶外包，到看出自己正处在一个三人权力结构里；Eulalia 从连珠炮似的提问者，变成站在人行道上一言不发盯着车流的人；Mel 全程不出场，却决定了这顿饭能听什么、能长什么样、能吃什么——酒不算，那壶酒是 Callie 自己挡下的。
+- **叙事手法**：对话推进，作者用 Callie 的挑剔视角与吐槽给每个场景降温；她不写推理，只写认物——一杯水、一篮面包、一次挥手中指；那句「里面是玻璃做的一样脆」并不是 Callie 说的，而是 Eulalia 回敬 Mr Polo 时的评语——说男人一碰就碎的是她，转身却发现被捏得最脆的是自己：专辑、头套、面包，没有一样轮得到自己做主。
 
 ## 精读
 
@@ -25,16 +25,16 @@ source_text: ch27
 
 > **原句 2:** "Now that she’d met Eulalia she couldn’t bear to listen to her music. It felt weird. Too personal. She sang about trying to kill herself metaphorically, physically and emotionally. That album was destructive. She must have broken and then remade herself to get there."
 
-**中文理解**：Callie 想过：既然已经见过 Eulalia 本人，她就再也听不下去她的音乐了——太怪，太私人；那张专辑里，对方用隐喻、身体和情感三种方式唱着自我了断，Callie 觉得那是一张有破坏力的专辑，一个人得先被打碎再重新拼起来，才能唱出那种东西。
+**中文理解**：Callie 想过：既然已经见过 Eulalia 本人，她就再也听不下去她的音乐了——太怪，太私人；那张专辑里，对方用隐喻、身体和情感三种方式唱着自我了断，Callie 觉得那是一张有破坏力的专辑，一个人得先被打碎再重新拼起来，才能唱出那种东西。同一段里还有她的中世纪兔子洞：因为 Eulalia 点名提过 Julian of Norwich，她一边走一边听播客，把自己带进了中世纪；她为这个项目做的情绪板也是十三世纪的，读到 Marie de France——那位有说法称她当过女院长的女诗人，她甚至说自己十三岁还真认真想过当修女，虽然只持续了一周。
 **关键词**：couldn’t bear / Too personal / destructive
-**为什么这样写**：她在路上刚对这张专辑下过判断，进了餐厅却一个字也没提，还临时编了一套皮肤病学的理由把酒挡掉。这段心理交代的是她的分寸：她清楚对方的痛苦是什么，但把它归进「太私人」那一格，决定不碰。
+**为什么这样写**：她在路上刚对这张专辑下过判断，进了餐厅却一个字也没提，还临时搬出皮肤科医生的嘱咐把酒挡掉。这段心理交代的是她的分寸：她清楚对方的痛苦是什么，但把它归进「太私人」那一格，决定不碰。同一条中世纪—修女的暗线也在这里被推了一格：Julian 是 Eulalia 递给她的名字，Callie 才顺着它一路听播客、做情绪板——她在餐桌上说的「顺着感觉摸中世纪史」并非随口，而是她这一晚真实的路径。
 **读者视角提示**：留意 Callie 判断人的方式——先归类，再决定接不接话；她对 Mel、对 Eulalia 用的都是同一套。
 
 > **原句 3:** "‘Cal. How are you? Do you fancy Italian? Or Korean barbecue, maybe? There’s a sushi place across the road that might be better? What do you think? Are you a sushi person? You look like a sushi person but then you also look like a Botticelli painting. You’re sort of pearly, aren’t you? Did you pop out of a clam fully formed?’"
 
 **中文理解**：Eulalia 一见面就抛出一串问题与提议：意大利菜？还是韩式烤肉？街对面还有一家寿司店也许更好；她问 Callie 是不是寿司派，又说她像波提切利画里的人、像珍珠一样泛着白，难道是从蚌里跳出来就成形了？
 **关键词**：Botticelli / sushi person / pop out of a clam
-**为什么这样写**：Eulalia 用一连串自问自答把话题牢牢抓在手里，一句话里塞进三种餐厅、三次提问和两个比喻；作者让 Callie 完全插不上话，只能在下一段用一句「这里看着不错」结束这场讨论。主导权就是这样易手的：表面是她在请客，实际是她在定调。
+**为什么这样写**：Eulalia 用一连串自问自答把话题牢牢抓在手里，一句话里塞进三种餐厅、一串提问和两个比喻；作者让 Callie 完全插不上话，只能在下一段用一句「这里看着不错」结束这场讨论。主导权就是这样易手的：表面是她在请客，实际是她在定调。而 Callie 之所以一开口就接不住，还因为她进门前本以为会被晾着、被告知自己只是个时间不重要的低阶外包——Eulalia 已经在门外等她，这出乎她的意料；她不吃这一套权力游戏，对方似乎也不吃，这大概就是生意上的事由 Eulalia 的姐姐出面打理的原因。
 **读者视角提示**：注意 Callie 挑餐厅的动作——她本可以继续拖，但她讨厌犹豫，于是果断拍板；她这一晚一直在做这种快速决定。
 
 > **原句 4:** "‘So many first dates.’ Callie leaned in and whispered, ‘My favourite game is to work out who’s going to ghost who.’ This was an old trick of hers. Drag the other person into a piece of speculative people watching and force a conspirative intimacy."
@@ -48,7 +48,7 @@ source_text: ch27
 
 **中文理解**：服务员过来点单，Eulalia 本想点一壶葡萄酒，Callie 却说皮肤科医生为了她的皮肤让她别再喝，于是对方只好要了一杯「Valpolicella」；Callie 自己则煞有介事地不碰酒，点了一杯「Limonata」。
 **关键词**：carafe of wine / Valpolicella / Limonata
-**为什么这样写**：这一句把「谁在给谁斟酒」写成了一个权力动作：Eulalia 想点酒，Callie 用一个半真半假的健康理由替她挡掉；桌上只剩一杯酒，能替对方做决定的位置也跟着挪到了 Callie 一侧。作者让读者直接看见是谁在替谁拿主意。
+**为什么这样写**：这一句把「谁在给谁斟酒」写成了一个权力动作：Eulalia 想点酒，Callie 用一个健康理由替她挡掉；桌上只剩一杯酒，能替对方做决定的位置也跟着挪到了 Callie 一侧。作者让读者直接看见是谁在替谁拿主意。
 **读者视角提示**：注意 Callie 挡酒的理由是替对方着想，动机却连她自己都没有说破——这一晚她一滴酒也没沾。
 
 > **原句 6:** "‘I don’t know.’ Eulalia looked up at Callie innocently and pouted. ‘I don’t think Mel would like that.’"
@@ -56,20 +56,20 @@ source_text: ch27
 **中文理解**：Callie 问能不能先听一听那张专辑，Eulalia 抬起头，用一副无辜的神情撅起嘴说：我不知道，我觉得 Mel 不会希望那样。
 **关键词**：I don’t think Mel would like that / innocently / pouted
 **为什么这样写**：Mel 第一次在餐桌上被点名，而她根本没有出席——Eulalia 把「要不要让你听我的作品」这个本该由自己决定的事，推回给一个不在场的人。作者用 innocently 形容她的表情，说的却是这顿饭上最有效的一句拒绝。
-**读者视角提示**：把 Mel 记下来：本章她一次都没出现，却决定了酒、专辑、头套和面包。
+**读者视角提示**：把 Mel 记下来：本章她一次都没出现，却决定了专辑、头套和面包——酒不算，那壶酒是 Callie 自己挡下的。
 
 > **原句 7:** "‘That’s OK.’ Callie poured them each a glass of water from the tiny jug on the table. She whispered, ‘I don’t want to get you in trouble.’"
 
 **中文理解**：Callie 说没关系，然后从桌上那只小水壶里给两人各倒了一杯水，压低声音补了一句：我不想让你惹上麻烦。
 **关键词**：poured them each a glass of water / tiny jug / get you in trouble
-**为什么这样写**：酒被挡掉之后，桌上剩下的液体只有 Callie 亲手倒的水——她既是斟水的人，也是把「不想惹麻烦」压低声音说出来的人。这个动作把两人的关系摆到明面上：她替 Eulalia 着想，Eulalia 却连听一段自己的作品都要看 Mel 的脸色。
+**为什么这样写**：被挡掉的只是那一壶 carafe，桌上仍摆着 Eulalia 的一杯 Valpolicella 和 Callie 的一杯 Limonata；真正只有 Callie 亲手倒的是那两杯水——她既是斟水的人，也是把「不想惹麻烦」压低声音说出来的人。这个动作把两人的关系摆到明面上：她替 Eulalia 着想，Eulalia 却连听一段自己的作品都要看 Mel 的脸色。
 **读者视角提示**：注意她倒了两杯，不是三杯——Mel 在这顿饭里连一只杯子都没有。
 
 > **原句 8:** "‘Mel is now saying that the label’s plan is for me to perform in them when live but when I’m doing photoshoots and interviews it’ll be my face.’"
 
 **中文理解**：Eulalia 说 Mel 现在改口了：唱片公司的计划是台上演出时戴头套，但拍照片和做采访的时候要露脸。
 **关键词**：Mel is now saying / photoshoots / it’ll be my face
-**为什么这样写**：那份写清楚的方案在晚餐前被改了，改方案的人是始终没有出席的 Mel。Callie 听到这句话才知道，周五开会之前她得临时想出一个新点子来——作者用她接下来说的那句「我本来以为」后面的沉默，表明她的工作正被另一个人的意志推着走。
+**为什么这样写**：那份写清楚的方案在晚餐前被改了，改方案的人是始终没有出席的 Mel。Callie 听到这句话才知道，周五开会之前她得临时想出一个新点子来——作者用她接下来说的那句出声的反问「我本来以为是这样？」和紧随其后的困惑，表明她的工作正被另一个人的意志推着走。
 **读者视角提示**：留意 Callie 的反应有多快：她当场就给出「娃娃头」这个备选方案，而她说出口的理由里有一半在替 Mel 那边圆场。
 
 > **原句 9:** "Callie nodded; that was the polite thing to do, after all. They were nearly finished with dinner anyway and would be leaving soon. Eulalia instead put her arm around Callie’s shoulder and kissed her on the cheek. Having marked her territory, she turned to look again at the man and flipped him the bird."
@@ -84,7 +84,7 @@ source_text: ch27
 **中文理解**：Callie 用一句「也许吧」笑着，那是一种专门用来掩饰敷衍的礼貌笑容；她拉开车门坐进后座，把地址报给司机；Eulalia 在路边朝她挥手，而 Callie 从后座给 Caius 发短信，说 Eulalia 有点怪。
 **关键词**：polite smile / texted Caius / Eulalia was kind of weird
 **为什么这样写**：一顿饭以一句模糊的定性收场。Callie 用「有点怪」这种最省力的说法，把一整晚没法归类的感受打包发回给 Caius——她没说刚才发生了什么，也没说对方掏出现金付账、不等找零就走了。
-**读者视角提示**：这条短信是本章的落点：读者拿到的也只有「有点怪」这三个字。
+**读者视角提示**：这条短信是本章的落点：读者拿到的也只有「有点怪」这三个字。而就在上车前的几分钟，两人又绕回那条中世纪暗线：Callie 说自己今天在听 Julian of Norwich，Eulalia 立刻接上「Julian！我喜欢 Julian！」，还提到不远处有个被烧死的神秘修女、有一堆传说围着这个人转。这条线不是闲笔——更早的章节里 Eulalia 自称是 Julian 的迷，更后面那本提案板上它还会原样出现。
 
 ## 本章词汇
 
@@ -135,4 +135,4 @@ source_text: ch27
 
 ## 一句话总结
 
-可能怀孕的帽匠 Callie 到圣约翰伍德一家意式餐厅与偶像 Eulalia 吃一顿饭：话题被对方的连珠炮推着走，酒被自己用一句「皮肤科医生的嘱咐」挡下，那位从未露面的 Mel 在旁边握着专辑、头套和面包的开关，而饭后 Callie 只在出租车后座给伴侣发去一条「Eulalia 有点怪」的短信。
+可能怀孕的帽匠 Callie 到圣约翰伍德一家意式餐厅与偶像 Eulalia 吃一顿饭：话题被对方的连珠炮推着走，酒被自己用一句「皮肤科医生的嘱咐」挡下，那位从未露面的 Mel 手里握着专辑、头套和面包的开关（她并不在场，桌上从头到尾只有两个人），而饭后 Callie 只在出租车后座给伴侣发去一条「Eulalia 有点怪」的短信。
