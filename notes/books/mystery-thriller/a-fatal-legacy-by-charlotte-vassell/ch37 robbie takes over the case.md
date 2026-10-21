@@ -10,7 +10,7 @@ source_text: ch37
 
 - **一句话概括**：DI Robbie Eastley 接手 Priory Square 这宗案子的当口，必须靠 Matt 和 Amy 两个人的嘴把案情重建一遍：他们知道的比他多、缺的比他清楚，而他本人对凯厄斯、连带对这家博物馆，还带着一笔旧账与成见。
 - **视角**：第三人称限知，在三人之间来回切换——Robbie 坐在凯厄斯的办公桌前听案情、心里骂人的一段，Amy 站着讲白板，Matt 坐在桌边一边收邮件一边插话；镜头始终围着这位刚到任的主办警探转，他看到的一切都经由别人的嘴。
-- **线索结构**：交接即复盘。Robbie 先用自己的话把案情念一遍（毒沙拉、假 Isolde、邮政信箱、面包店里的 incel、两起闯入、Jimmy Jones 之死），Amy 再补上白板地图与霍雷肖·康姆的"四正方位点围成一个 nexus"几何，最后把缺口落到一件实物上：研究所里唯一不见的手写第二十二号日记，以及地下室门上那枚查不出主人的残缺指纹——"有人在搜地下室"。
+- **线索结构**：交接即复盘。Robbie 先用自己的话把案情念一遍（毒沙拉、假 Isolde、邮政信箱、面包店里的 incel、两起闯入、Jimmy Jones 之死），Amy 再补上白板地图与霍雷肖·康姆的"四正方位点围成一个 nexus"几何，最后把缺口落到一件实物上：研究所里唯一不见的手写第二十二号日记，以及地下室门上那枚查不出主人的残缺指纹——"有人在搜地下室"；接着由 Matt 报出下一步的落点：昨晚他已去踩点广场上的 35 号（地图上那幢黄房子），判断对方也很可能会去动自家地下室；而要拆下研究所那扇地下室门，须由凯厄斯申请、迪吉的母亲、唯一另一位在世的受托人 Fenella 授权——她今早点了头，Matt 说自己这就过去、与法证队接洽，章末法证队凿漆拆门凭的就是这道授权。
 - **人物弧线**：Robbie 从抢话、把 Amy 的讲述掐断，到在 Matt 点破之后跟他僵持几秒，才低声连声道歉；随后在车边被上了一堂规矩课——那个外号等于霸凌、Amy 要被当人对待；而他替 Billy 说话的那一句，也把对凯厄斯的旧芥蒂露了出来。
 - **叙事手法**：用一场交接会当容器，把案情靠人物转述二次呈现（摘要式长段），中间插入掐话头、僵持、"那就大声说"三段摩擦；后半章转成车里 Matt 的"三件事"自证，最后落到实地——法证队凿开百年油漆、拆下地下室门，章末一句从深处传上来的问话收束。
 
@@ -34,7 +34,7 @@ source_text: ch37
 
 **中文理解**：Matt 替 Amy 说话：她只是在把问题的答案告诉你，因为这些答案他们早就自己问过了；可你老是把她的话头掐断，现在把她弄得又气又恼。Matt 说这话时，是希望 Robbie 能听进去的。
 **关键词**：cutting her off / frustrated / answers
-**为什么这样写**：作者不写安米的情绪，而让 Matt 用一句"翻译"把它讲出来——这既是同事间的护短，也是一份诊断：新人接手后最常见的失效不是查不出，而是已有的信息流不进来。
+**为什么这样写**：作者并没有绕开安米的情绪——她被接连打断后只从喉咙里挤出一声不耐烦的闷哼，话说到一半就断了；Matt 才用一句"翻译"把它讲出来。这既是同事间的护短，也是一份诊断：新人接手后最常见的失效不是查不出，而是已有的信息流不进来。
 **读者视角提示**：这一句点破了本章真正的摩擦点：不是 Robbie 不会办案，是话没说完就被打断。
 
 > **原句 4:** "‘Benedict told Caius that the house had been the site of seances in the Victorian era.’ She saw Robbie have the impulse to stop her so she just started talking louder again and he stopped instantly. ‘I began going through a transcript of Horatio Combe’s diary yesterday. He’s the guy the museum is about. He led a group of occultists that lived in these same four houses in the square. The square is built on top of the ruins of a medieval priory which in turn was supposedly built on top of a pagan temple. His diary said that these houses were rented, or purchased in Horatio’s case, specifically because they are the cardinal points of a compass and form a nexus over the site. There were rumours when the modern square was built one hundred and sixty years ago that medieval ruins were discovered.’ Amy stopped to check that Robbie was keeping up."
@@ -51,12 +51,12 @@ source_text: ch37
 **为什么这样写**：这一段把"缺什么"摆得明明白白：物证只到一枚残缺指纹，证人有本尼迪克却不可靠，日记只剩誊本；于是凶手的动机被压缩成一个能动手去拿的东西。作者让"有人在搜地下室"作为最后一句落地，把前面所有靠不住的说法，换成一条可以执行的搜索方向。
 **读者视角提示**：留意"不可靠"和"残缺"这两个词：它们不是废信息，而是在提醒这条线最终只能靠实物来定。
 
-> **原句 6:** "Three things. Two of them are easily verifiable and the third you’ll just have to take my word for. Firstly, Caius snapped and hit Billy because he used a slur to describe his grandfather because Billy didn’t realise what Caius’s background was. Secondly, he did get suspended for hitting him, but the thing about Caius is that he takes notes and he had a whole dossier on shit Billy had said and done. He’d already reported him twice and nothing had happened. Thirdly, on my first week working here I saw Billy doing a line of coke off his keys in his police car in the car park. He called me a “chink” when he realised I saw and said he’d ruin me if I told. So, yeah, no more of that DI Fauntleroy shit, and treat Amy with respect. Not because she’s good at her job, but because she’s a person. Matt got in the car."
+> **原句 6:** "Three things. Two of them are easily verifiable and the third you’ll just have to take my word for. Firstly, Caius snapped and hit Billy because he used a slur to describe his grandfather because Billy didn’t realise what Caius’s background was. Secondly, he did get suspended for hitting him, but the thing about Caius is that he takes notes and he had a whole dossier on shit Billy had said and done. He’d already reported him twice and nothing had happened. Thirdly, on my first week working here I saw Billy doing a line of coke off his keys in his police car in the car park. He called me a “chink” when he realised I saw and said he’d ruin me if I told. So, yeah, no more of that DI Fauntleroy shit, and treat Amy with respect. Not because she’s good at her job, but because she’s a person.’ Matt got in the car."
 
 **中文理解**：Matt 说，这事有三件事，两件容易核实，第三件只能信他：其一，Caius 是因为 Billy 用一个贬称说他祖父才动了手，而 Billy 并不知道 Caius 的出身；其二，他确实因此被停职，但问题在于 Caius 记笔记，手里攥着一整份 Billy 说过做过的破事档案，此前已经举报过两次，都没下文；其三，Matt 上班第一周就看见 Billy 在警局停车场里从车钥匙上吸古柯碱，被发现后还骂了他一句、威胁说会毁掉他——所以，别再叫那个"小 DI Fauntleroy"了，也要尊重 Amy，不是因为她工作做得好，而是因为她是一个人。说完 Matt 上了车。
 **关键词**：verifiable / dossier / slur
 **为什么这样写**：作者让 Matt 用"三件事"这个结构——两件可查、一件只凭他一句话——给一个玩笑式的外号定罪；末了还把"你工作不行但你是个人"这句刺人的公平摆出来。这不是挖苦新上司，是把警队里的旧账、规矩和轻重一并交代。
-**读者视角提示**："Caius 记笔记、攒着一整份档案"这句和他眼下的处境正好接上：一个能把证据攒下来的人，此刻却被一纸利益冲突挪离了案台。
+**读者视角提示**："Caius 记笔记、攒着一整份档案"这句和他眼下的处境正好接上：一个能把证据攒下来的人，此刻却被一纸利益冲突挪离了案台。而就在上车之前，Matt 已经报过他下一步的活：昨晚他踩过广场上 35 号那幢黄房子，判断对方同样很可能会去动自家地下室；研究所那扇门能不能拆下来，要看迪吉的母亲、唯一另一位在世的受托人 Fenella 点头——她今早同意了，Matt 随即动身、并将与法证队接洽，章末法证队凿开百年油漆拆下那扇门，靠的就是这道授权。
 
 > **原句 7:** "‘There’s a crystal ball,’ their voice carried back up from the depths. ‘And tarot cards on the table too. And – is that a hand?’"
 
