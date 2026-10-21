@@ -8,10 +8,10 @@ source_text: ch54
 
 ## 本章导航
 
-- **一句话概括**：六周后的十二周产检里，医生用一句“这里没有胎心”告诉凯厄斯和凯莉胎儿已经停止发育；回程的出租车上两人一句话没说，进了门她开口的第一句是“对不起”，凯厄斯打电话给母亲才说出真相，而在他去取披萨的路上，Arthur Hampton 开着贴黑膜车窗的车拦住了他，要他去做官。
-- **视角**：第三人称限知，主要贴着凯厄斯的动作与念头走——摸戒指盒、订位、盯着钟、倒牛奶、刷手机、走在街上；凯莉的状态只能从她自己的话和身体反应里读出来：点头、把手放在肚子上又缩回、先道歉。
+- **一句话概括**：六周后的十二周产检里，医生用一句“这里没有胎心”告诉凯厄斯和凯莉胎儿已经停止发育；回程的出租车上两人一句话没说，进了门她应下那句“好的，谢谢”，紧接着才说了“对不起”，凯厄斯打电话给母亲才说出真相，而在他去取披萨的路上，Arthur Hampton 开着贴黑膜车窗的车拦住了他，要他去做官。
+- **视角**：第三人称限知，主要贴着凯厄斯的动作与念头走——摸戒指盒、订位、盯着钟、倒牛奶、刷手机、走在街上；凯莉的状态只能从她自己的话和身体反应里读出来：点头、把手放在肚子上又缩回，以及那句道歉。
 - **线索结构**：三条线平行收束：医院的诊断（没有胎心、稽留流产、三个处理选项）、被压进日常对话的丧失（统计数字、婴儿衣物广告、婴儿房主题与沙发颜色）、以及 Arthur Hampton 的政治招揽；三段之间用分隔线断开，一段比一段冷。
-- **人物弧线**：凯厄斯在候诊室里把戒指盒捏在手里、把当晚饭订好，回过神来却发现未来不由他支配；他从“要不要再试一次”退到“以后再说”，并把“有没有继承人”这份家族执念整个让了出去；结尾他拒绝了 Hampton，但那团火没有灭。
+- **人物弧线**：凯厄斯在候诊室里把戒指盒捏在手里、把当晚饭订好，回过神来却发现未来不由他支配；他把再试一次的事推给以后，而“有没有继承人”这份家族执念，则被那句“National Trust can have the lot”整个让了出去；结尾他拒绝了 Hampton，但那团火没有灭。
 - **叙事手法**：分部「SIX WEEKS LATER」里，先用琐事铺满候诊室（戒指盒、沙发条纹、婴儿房主题），再让一句极短的判定砸下来；全章的哀伤不写情绪的名字，只写它缺席——哭不出来、说不出话、只能泡茶、只能看房产中介的真人秀。
 
 ## 精读
@@ -56,27 +56,47 @@ source_text: ch54
 
 **读者视角提示**：把“九周”和“十二周”这两个数字记住：中间隔开的三周，正是凯莉以为一切正常的那段时间。
 
-> **原句 5:** "They’d sat in the back of the taxi in silence. Caius had wanted to talk but Callie hadn’t. She’d just stared out of the window as they drove through Archway. They were at home now. Callie had changed into a nighty and was curled up on the sofa under a blanket watching some reality TV show about estate agents. Caius was staring down at his phone. He needed to feel that the world was going to Hell and not just him so he’d opened the Guardian app. He was reading about yet another school shooting in the US when his scrolling was interrupted by an ad for baby clothes. He’d been browsing online the other day. He put the phone down. Disassociating was only going to make this worse."
+> **原句 5:** "The consultant slowly shook his head. ‘I don’t know. Usually there’s a genetic problem with the foetus which makes it incompatible with life. Sometimes it just happens.’"
+
+**中文理解**：医生慢慢摇头，说他不知道：通常是胎儿有遗传上的问题、与生命不相容；有时候就是会这样发生。
+
+**关键词**：genetic / incompatible / happens
+
+**为什么这样写**：全章唯一一处正面回答「为什么」的地方，给出的却是一个「不知道」。作者让最权威的声音承认无解，把因果在这里从技术上交还给偶然；这句之后，房间里再没有人试图给出解释。
+
+**读者视角提示**：记住这句「有时候就是会这样发生」——它会盖过后面所有技术性的说法。
+
+> **原句 6:** "They’d sat in the back of the taxi in silence. Caius had wanted to talk but Callie hadn’t. She’d just stared out of the window as they drove through Archway. They were at home now. Callie had changed into a nighty and was curled up on the sofa under a blanket watching some reality TV show about estate agents. Caius was staring down at his phone. He needed to feel that the world was going to Hell and not just him so he’d opened the Guardian app. He was reading about yet another school shooting in the US when his scrolling was interrupted by an ad for baby clothes. He’d been browsing online the other day. He put the phone down. Disassociating was only going to make this worse."
 
 **中文理解**：回程的出租车上两人一路沉默：凯厄斯想说话，凯莉不想说，她只是望着窗外，车子穿过阿奇韦。到了家，她换上睡衣，裹着毯子蜷在沙发上看一个讲房产中介的真人秀；凯厄斯低头刷手机，打开《卫报》的应用，好让自己觉得正在完蛋的是整个世界而不只是他一个人。他正读着又一起美国校园枪击案的报道，滑动屏幕却被一条婴儿衣物广告打断——他前几天刚在网上搜过婴儿用品。他把手机放下：靠麻木只会让事情更糟。
 
 **关键词**：taxi in silence / ad for baby clothes / Disassociating
 
-**为什么这样写**：作者把两个人的哀伤分别安在两台机器上：一台是刷新闻的手机，一台是放真人秀的电视。两个人都在用信息流给自己上麻药，屏幕替他们承担了本该哭出来的那一部分。婴儿衣物广告偏偏插在校园枪击案的报道之间，是全章刺眼的一处错位：他几天前刚为孩子买过东西，世界却在别处继续塌陷。最后一句是自我诊断——连麻木也被判成一种帮倒忙。
+**为什么这样写**：作者把两个人的哀伤分别安在两台机器上：一台是刷新闻的手机，一台是放真人秀的电视。两个人都在用信息流给自己上麻药，屏幕替他们承担了本该哭出来的那一部分。婴儿衣物广告偏偏插在校园枪击案的报道之间，是全章刺眼的一处错位：他几天前刚在网上逛过婴儿用品，世界却在别处继续塌陷。最后一句是自我诊断——连麻木也被判成一种帮倒忙。
 
-**读者视角提示**：留意“他前几天在网上搜过婴儿用品”这一句：这个家里已经有了婴儿的痕迹，只是人还没准备好承认。
+**读者视角提示**：留意 “He’d been browsing online the other day.” 这一句：这个家里已经有了婴儿的痕迹，只是人还没准备好承认。
 
-> **原句 6:** "‘Yes, please.’ Callie sat up. ‘I’m sorry.’"
+> **原句 7:** "‘Yes, please.’ Callie sat up. ‘I’m sorry.’"
 
-**中文理解**：凯厄斯问要不要喝杯茶，走去开冰箱；凯莉坐起身，说：好的，谢谢。然后她说：对不起。
+**中文理解**：她应下那杯茶，说：好的，谢谢。然后她坐起身，说：对不起。
 
 **关键词**：Yes, please / I’m sorry
 
-**为什么这样写**：整章里她说的第一句完整的话不是关于胎儿，而是道歉；她道的歉，而她并没有做错什么——这个错位正是全章的痛点所在。作者让家里那些日常的动作（烧水、拿牛奶、坐到沙发边）来承载这句话：茶还没泡好，人已经把责任揽到自己身上。留白也在这里——他手里没有一句现成的回应。
+**为什么这样写**：这两句里她的第一句是关于茶，第二句才是道歉；她道的歉，而她并没有做错什么——这个错位正是全章的痛点所在。道歉被放在最日常的一句应答之后，重量就藏在这种轻描淡写里。
 
 **读者视角提示**：接下来那句“不是你的错”会被反复说出口；先记住她先道了歉这一点，后面的对话才压得住重量。
 
-> **原句 7:** "‘I know, honey. You were both so excited.’ Bridget paused. ‘I had a miscarriage after I had you.’"
+> **原句 8:** "‘I want to be with you whether we ever have children or not. I don’t care whether I have an heir. The National Trust can have the lot.’"
+
+**中文理解**：她说：只要能和他在一起，将来有没有孩子都无所谓；她不介意有没有继承人，那一整套都可以交给 National Trust。
+
+**关键词**：heir / National Trust / don’t care
+
+**为什么这样写**：这一章把「继承人」这份家族执念松开了：不是放弃，是把它从自己的人生里摘出去交给一个机构；而且她说的是「无论将来有没有孩子」。全书最重的那个词——遗产——在这一句里由当事人自己重新分配。
+
+**读者视角提示**：把这一句与书名放在一起看：那份遗产在这一刻被她亲手推开了。
+
+> **原句 9:** "‘I know, honey. You were both so excited.’ Bridget paused. ‘I had a miscarriage after I had you.’"
 
 **中文理解**：电话那头，布里吉特先说：我知道，亲爱的，你们俩之前都那么兴奋。她停了一下，才说：我在生下你之后也流产过。
 
@@ -86,7 +106,7 @@ source_text: ch54
 
 **读者视角提示**：她随后给出的答案只有三个字——时间会帮忙。母亲的安慰没有她的隐瞒有用。
 
-> **原句 8:** "‘He’s very good. He’ll come around.’ Hampton pushed a little bile that had risen up his throat back down to his stomach. ‘We need people like him. He’s the right sort.’"
+> **原句 10:** "‘He’s very good. He’ll come around.’ Hampton pushed a little bile that had risen up his throat back down to his stomach. ‘We need people like him. He’s the right sort.’"
 
 **中文理解**：汉普顿对身旁的女人说：他人很好，他会回头的。他把涌上喉咙的一口怨气压回胃里，又说：我们需要像他这样的人，他是对的那种人。
 
@@ -141,4 +161,4 @@ source_text: ch54
 
 ## 一句话总结
 
-六周后的产检里，医生宣布“这里没有胎心”，凯莉开口的第一句却是道歉；两个人用一杯茶、一档房产中介的真人秀和一组统计数字消化这场丧失，而去取披萨的路上，Arthur Hampton 把一次丧亲变成了拉他入局的时机。
+六周后的产检里，医生宣布“这里没有胎心”，凯莉紧接着说出口的却是道歉；两个人用一杯茶、一档房产中介的真人秀和一组统计数字消化这场丧失，而去取披萨的路上，Arthur Hampton 把一次丧亲变成了拉他入局的时机。

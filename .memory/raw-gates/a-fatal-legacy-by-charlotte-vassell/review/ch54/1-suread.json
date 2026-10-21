@@ -1,0 +1,127 @@
+{
+  "chapter": 54,
+  "title_in_text": "54 (chapter number) / The Whittington Hospital",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch54_54.txt",
+  "source_bytes": 11624,
+  "read_order": "text only, before opening any md",
+  "events": [
+    {
+      "id": 1,
+      "who": "Caius",
+      "what": "在 Whittington Hospital 等候区看时钟，玩口袋里的戒指盒；他预订了当晚在第一次约会那家意大利餐厅的晚餐；他把手从口袋抽出来，怕丢了戒指或弄坏它",
+      "range": [47, 687],
+      "verbatim_anchors": [
+        "Their appointment for their twelve-week scan was ten minutes ago",
+        "started playing with the ring box he had there",
+        "He had booked dinner for later that evening at the Italian restaurant they'd tried to go to on their first date"
+      ]
+    },
+    {
+      "id": 2,
+      "who": "Callie / Caius",
+      "what": "Callie 在手机上挑沙发，'Blue or green stripes?'，Caius 说蓝、Callie 说绿；Callie 提议婴儿房主题 Woodland animals（squirrels, acorns, little foxes），因为房间窗外就是树林；护士进来说 'Foster, Callie-o-pe, Cal-e-op?'，Callie 应声起立",
+      "range": [690, 1836],
+      "verbatim_anchors": [
+        "'Blue or green stripes?'",
+        "'Woodland animals. That room looks out over the woods'",
+        "'Foster, Callie-o-pe, Cal-e-op?' asked a nurse."
+      ]
+    },
+    {
+      "id": 3,
+      "who": "consultant（顾问医生）/ Caius / Callie",
+      "what": "护士带两人进诊室；顾问给 Callie 涂耦合剂、在腹部移动超声探头；房间安静，顾问倒吸一口气；Caius 知道那口气意味着什么；顾问换角度又吸一口气后说 'I'm very sorry, Miss Foster. There's no heartbeat.'",
+      "range": [1839, 2429],
+      "verbatim_anchors": [
+        "the consultant's sharp intake of breath meant",
+        "The consultant tried a different angle. Another breath.",
+        "'I'm very sorry, Miss Foster. There's no heartbeat.'"
+      ]
+    },
+    {
+      "id": 4,
+      "who": "Callie / consultant / Caius",
+      "what": "Callie 点头，想哭却无泪；Caius 握住她的手；顾问说是 missed miscarriage，胎儿在九周停止生长而身体仍以为怀孕，给三个选项（等激素下降自然、用药加速、手术）；Callie 终于哭出来；顾问说不必马上决定；Caius 从护士手里拿了一张传单",
+      "range": [2432, 3086],
+      "verbatim_anchors": [
+        "Callie nodded. She wanted to cry but there was nothing.",
+        "'You've had what's called a missed miscarriage. The foetus stopped growing at nine weeks but your body still thinks you're pregnant.'",
+        "Caius took a leaflet from the nurse."
+      ]
+    },
+    {
+      "id": 5,
+      "who": "Callie / consultant",
+      "what": "Callie 低声问 'Why?'；顾问摇头说不知道，通常是胎儿有遗传问题导致不能存活，有时就是会这样发生",
+      "range": [3089, 3285],
+      "verbatim_anchors": [
+        "'Why?' Callie whispered.",
+        "'I don't know. Usually there's a genetic problem with the foetus which makes it incompatible with life. Sometimes it just happens.'"
+      ]
+    },
+    {
+      "id": 6,
+      "who": "Caius / Callie",
+      "what": "出租车后座沉默回家；Callie 换睡衣蜷在沙发看讲房产中介的真人秀；Caius 打开 Guardian app 读美国又一起校园枪击，滚动被婴儿衣物广告打断；Caius 沏茶并说不是她的错；Caius 援引传单说这种情况很常见，'Ten to twenty per cent of pregnancies. Most are a one-off.'；Callie 怕以后不能有孩子；Caius 说无所谓有没有继承人，'The National Trust can have the lot.'；两人决定'再试'是以后的事，先搬进梦想房子、先粉刷；两人在沙发看 A Knight's Tale，聊 Chaucer、Old English、Queen 是 Freddie Mercury",
+      "range": [3300, 5856],
+      "verbatim_anchors": [
+        "Ten to twenty per cent of pregnancies. Most are a one-off.",
+        "I don't care whether I have an heir. The National Trust can have the lot.",
+        "'At some point. But not right now. You need to recover, and we need to move into our dream house first.'",
+        "'No, but there's Queen.' / 'Freddie Mercury.'"
+      ]
+    },
+    {
+      "id": 7,
+      "who": "Caius / Bridget（Caius 的母亲）",
+      "what": "Caius 出去取披萨（他不想在 Callie 面前显得太失望，免得她又自责），给妈妈 Bridget 打电话；他说 Callie 得了 missed miscarriage；他说自己刚认识 Callie 时就认定是她，怀孩子虽是意外但本会很好；Bridget 说自己生 Caius 之后也流过产、之后几个月崩溃过；她说 'Time helps'；Caius 说今晚不求婚了，Bridget 说他可以慢慢来",
+      "range": [5871, 7381],
+      "verbatim_anchors": [
+        "'Callie's had what they call a missed miscarriage,' Caius said.",
+        "'I had a miscarriage after I had you.'",
+        "'Time helps.'",
+        "'I'm not going to propose tonight.'"
+      ]
+    },
+    {
+      "id": 8,
+      "who": "Caius / Arthur Hampton",
+      "what": "Caius 走到自家巷底时，一辆贴着黑膜车窗的车靠上来，车窗落下是熟人的声音 'Jump in,'；Caius 拒绝并走开（叙述给出 Hampton 身份：前内阁大臣、已故的 Rupert 的父亲、爱操弄 Caius 去查政治上方便的案子）；Hampton 说不想在街上被人听见要谈；Caius 拒绝被利用去搞倒政府的阴谋；Hampton 提议 'How about being the government instead'；Hampton 说后二战秩序就要崩塌、俄罗斯/美国/中国/AI，说要他打给 Hunderby、有一个安全席位；Caius 提到姐姐的悲剧与 special unit、Hampton 利用了那件事；Caius 说 'I've had one of the worst days of my life' 并长段反驳（Hampton 的 Anglo-Norman  paternalistic revival、Mad Max 时间线、风电、气候、'We're all just fucked'）；Hampton 说 'There's always one last hope'；对身边的女人说 Caius 'He'll come around.'",
+      "range": [7384, 11022],
+      "verbatim_anchors": [
+        "Arthur Hampton – former Cabinet minister, the late Rupert's father and patrician schemer",
+        "'How about being the government instead.'",
+        "'I've not touched a thing since 1997.' Hampton sighed. 'Call Hunderby. There's a safe seat for you.'",
+        "This is the Mad Max timeline.",
+        "'There's always one last hope,' Hampton called after him.",
+        "'He's very good. He'll come around.'"
+      ]
+    }
+  ],
+  "relations": [
+    {"a": "Caius", "b": "Callie Foster", "kind": "伴侣/未婚妻（他口袋里有戒指盒；他计划求婚并已订晚餐）", "evidence": [47, 687]},
+    {"a": "Callie", "b": "Caius", "kind": "两人已搬进新居（Georgian house），正在布置婴儿房", "evidence": [47, 1643]},
+    {"a": "Bridget", "b": "Caius", "kind": "母子；Bridget 生 Caius 之后曾流产", "evidence": [6726, 6979]},
+    {"a": "Arthur Hampton", "b": "Caius", "kind": "招揽关系：前内阁大臣、Rupert 之父，操弄 Caius 查案", "evidence": [7443, 7735]},
+    {"a": "Arthur Hampton", "b": "Caius 的姐姐", "kind": "Hampton 利用了姐姐的 tragedy；Caius 因此得以追查 special unit", "evidence": [9503, 9625]},
+    {"a": "Arthur Hampton", "b": "Hunderby", "kind": "Hampton 打电话给 Hunderby 安排安全席位", "evidence": [8470, 8570]},
+    {"a": "Arthur Hampton", "b": "身边的女人", "kind": "该女人问 'That's your chap, is it?'；未具名", "evidence": [10796, 11022]},
+    {"a": "consultant", "b": "Callie", "kind": "医生：告知 missed miscarriage", "evidence": [2319, 3285]}
+  ],
+  "numbers_dates": [
+    {"value": "twelve-week scan", "where": "十二周产检", "range": [47, 687]},
+    {"value": "ten minutes ago", "where": "预约迟了十分钟", "range": [47, 687]},
+    {"value": "nine weeks", "where": "胎儿停止生长的时间点", "range": [2596, 2970]},
+    {"value": "Ten to twenty per cent", "where": "怀孕发生这种情况的比例", "range": [4553, 4765]},
+    {"value": "1997", "where": "Hampton 说自那年后没碰过（毒品）", "range": [8470, 8570]},
+    {"value": "two more years", "where": "这届议会还剩两年", "range": [8581, 8765]},
+    {"value": "first date", "where": "订的那家意大利餐厅是第一次约会去过的", "range": [47, 687]},
+    {"value": "post-World War II order", "where": "Hampton 说的时代判断", "range": [8133, 8400]}
+  ],
+  "unresolved_in_this_chapter": [
+    "孩子的具体处置（等自然 / 用药 / 手术）在本章未决定",
+    "Hampton 提出的政治交易未有任何进展或拒绝的最终结果",
+    "Caius 何时求婚未确定",
+    "全书主线案件的结局在本章文本中没有任何交代"
+  ]
+}
