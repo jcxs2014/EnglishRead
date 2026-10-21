@@ -25,21 +25,21 @@ modified: "2026-10-21"
 
 > **原句 2:** "Apologize and then we could pretend this never happened. We needn’t discuss Orson or my disastrous marriage ever again. We could stick to other subjects, like books or food or art. I wanted to hear more about Zane’s upbringing and how he’d recovered after the mill explosion to build an empire with his bare hands. He was a fascinating man. And yes, I could admit it. I missed him."
 
-**中文理解**：她要找到他，把事情理顺：道个歉，然后当作什么都没发生过；不必再谈 Orson 或她那场糟糕的婚姻，改聊书、食物或艺术就好。她还想多听些他的来历——糖厂爆炸之后，他靠一双手挣出一份产业；她称他是个极有魅力的人。是的，她承认了：她想他。
+**中文理解**：她要道歉，然后当作什么都没发生过；不必再谈 Orson 或她那场糟糕的婚姻，改聊书、食物或艺术就好。她还想多听些他的来历——糖厂爆炸之后，他靠一双手挣出一份产业；她称他是个极有魅力的人。是的，她承认了：她想他。
 
-**关键词**：books or food or art / a fascinating man / I missed him
+**关键词**：pretend this never happened / books or food or art / a fascinating man / I missed him
 
 **为什么这样写**：这一段把「道歉」写成一份清单：先认错、再假装、再挑安全的话题，作者不让她说出想念的话，只让她列条件；书、食物、艺术三样都在，清单里唯独没有她自己，直到最后那句承认才把漏掉的东西补上。
 
 **读者视角提示**：注意「糖厂爆炸」与「白手起家」都是她转述来的、不是亲眼所见；她的仰慕此刻建立在别人的说法上，作者故意把这份判断留在传闻里。
 
-> **原句 3:** "The balcony stretched out in front of me, rows of books on shelves, and then I looked down at the floor below. I nearly gasped. There was . . . a direct view of where I sat at the desk, almost as if the furniture had intentionally been placed in this configuration. Whoever stood here would be able to watch me. Silently, in the shadows. Without me knowing."
+> **原句 3:** "At the top I pushed through the door, and it didn’t make a sound. That explained why I hadn’t heard Fletcher a few moments ago, I supposed. The balcony stretched out in front of me, rows of books on shelves, and then I looked down at the floor below. I nearly gasped. There was . . . a direct view of where I sat at the desk, almost as if the furniture had intentionally been placed in this configuration. Whoever stood here would be able to watch me. Silently, in the shadows. Without me knowing."
 
-**中文理解**：阳台在她面前展开，一排排书架；接着她低头看下方的地板，几乎是倒抽一口气——那里正对着她平时坐的那张书桌，家具的位置仿佛是刻意摆成这样的。谁站在这里都能看见她：不出声，在阴影里，而她全然不知。
+**中文理解**：她推开尽头那扇门时一点声音也没有——难怪她刚才听不见楼上的动静。阳台在她面前展开，一排排书架；她低头看下方的地板，几乎是倒抽一口气：那里正对着她平时坐的那张书桌，家具的位置仿佛是刻意摆成这样的。谁站在这里都能看见她：不出声，在阴影里，而她全然不知。
 
 **关键词**：a direct view / intentionally been placed / Without me knowing
 
-**为什么这样写**：作者把这一惊写成俯视的视线：从书架往下看到地板，视线正好落在她的书桌上，于是「被看」这件事由家具的位置交代，不靠任何解释；后面三个短句一个比一个短，把威胁压到最小声量，反而更冷。
+**为什么这样写**：作者把这一惊写成俯视的视线：读者跟着她推开无声的门，再顺着她的眼睛往下看到地板，视线正好落在她的书桌上，于是「被看」这件事由家具的位置交代，不靠任何解释；后面三个短句一个比一个短，把威胁压到最小声量，反而更冷。
 
 **读者视角提示**：注意她此刻断定「家具是被刻意摆成这样的」；这份推断对不对，要等当事人自己开口——留意他接下来承认的是哪一段、否认的又是哪一段。
 
@@ -91,7 +91,7 @@ modified: "2026-10-21"
 
 **为什么这样写**：作者把自由写成三句递进的「不用再」，每一句都对应一段具体的旧生活，于是这声「我自由了」不是情绪的爆发而是清单的完成；她先回应名声的警告、再落到身体上，顺序说明她最先放下的是什么。
 
-**读者视角提示**：留意她没有喊出来，而是低声说：这份自由是从小声开始的；喷泉边玩耍的孩子与她的清单并置，读者看到的仍是一个刚从婚姻里脱身、还没学会高兴的人。
+**读者视角提示**：留意她没有喊出来，而是低声说：这份自由是从小声开始的；把她这句「不必再忍受」与 Prologue 里那节车厢上的新婚夜并着读——同一副身体，上一次她连求饶都不被允许出声，这一次她终于能自己开口说不要。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级
