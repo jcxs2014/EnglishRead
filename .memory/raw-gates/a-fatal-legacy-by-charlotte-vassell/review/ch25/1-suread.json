@@ -1,0 +1,230 @@
+{
+  "chapter": "ch25",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch25_25.txt",
+  "read_only": "原文（唯一权威源）；本文件落盘前未打开任何 md",
+  "note": "行号为 text/ch25_25.txt 行号；字符区间为该行在整文件中的字符偏移 [start, end)。",
+  "actions": [
+    {
+      "id": 1,
+      "who": "专门跑人脸匹配程序的专家（specialist）",
+      "what": "在监控录像演示中说：三天被检索的录像里有「a handful of people」多次出现，程序已把他们的图像连同时间戳分离出来。",
+      "verbatim": "‘Over the three days of footage that has been searched through, a handful of people appeared multiple times,’ said the specialist running the program that matched faces. ‘The program has isolated their images along with their time stamps.’",
+      "loc": "L20 [41,280)"
+    },
+    {
+      "id": 2,
+      "who": "专家（同一段演示）",
+      "what": "给出人数结构：两个女人在三天中的两天出现，一个男人三天都出现。",
+      "verbatim": "‘Two women both came in on two of the three days and one man came in on all three.’",
+      "loc": "L26 [333,416)"
+    },
+    {
+      "id": 3,
+      "who": "Amy",
+      "what": "指着画面说两个女人进入邮局时带着多个包裹，猜是 eBay 卖家一类的人。",
+      "verbatim": "‘The women both have multiple packages as they’re entering the Post Office,’ Amy said, peering at the image. ‘They’re probably eBay sellers or something.’",
+      "loc": "L29 [419,573)"
+    },
+    {
+      "id": 4,
+      "who": "Caius",
+      "what": "反驳/补充：那个男人只带了一个字母（letter）。",
+      "verbatim": "‘But the man only has a letter,’ Caius said.",
+      "loc": "L32 [576,620)"
+    },
+    {
+      "id": 5,
+      "who": "技术员（technician）",
+      "what": "说下一步要把录像与数据库比对，会从驾照和护照里拉出面部特征接近的匹配结果，并对警报做标记；仍在修 bug。",
+      "verbatim": "‘The next step for the program will be to run the footage against our databases,’ the technician said … ‘We’re ironing out a few bugs still, but once it’s completed it will pull up matches from driving licences and passports of individuals whose facial features are a close match and flag if there are any alerts.’",
+      "loc": "L35 [623,971)"
+    },
+    {
+      "id": 6,
+      "who": "Caius",
+      "what": "心里怀疑这套技术对不同人是否一样好识别，说了句 ‘What a game changer.’；随后被要求填反馈问卷，他说会转给 Amy 做，因为自己总是讽刺作答。",
+      "verbatim": "He wondered if the technology was equally as good at identifying some people as others. ‘What a game changer.’ … He’d pass that on to Amy to complete later. Questionnaires weren’t his thing – he always answered them sarcastically even when he sincerely tried.",
+      "loc": "L38 [974,1146)；L41–L44 [1148,1479)"
+    },
+    {
+      "id": 7,
+      "who": "Amy",
+      "what": "从照片判断出男人的线索：他的托特包（tote bag）提手与包身颜色不同；包上印的名字只能看清一部分，像是以 “ery” 结尾；认出那是 The Purple Toad Bakery 的包——Primrose Hill 的人都在用这种袋子装法棍；Amy 自己前几天去那里吃过午饭（当时在整理 Institute 的目录）；它在高街上，比 Gail's 好看。",
+      "verbatim": "‘His tote bag.’ … ‘It’s really familiar. The handles are a different colour from the rest of the bag.’ … ‘I can’t see all of the name printed on it.’ … ‘Something “ery”.’ … ‘The Purple Toad Bakery. I knew I recognised it. Everyone in Primrose Hill was shuffling their baguettes around in them. I went there the other day for lunch when I was going through the Institute’s catalogue. It’s on the high street. It makes Gail’s look like Greggs.’",
+      "loc": "L50 [1601,1748)；L53 [1751,1867)；L56 [1870,2139)"
+    },
+    {
+      "id": 8,
+      "who": "Amy",
+      "what": "更进一步：男人 T 恤胸口有一小块模糊图案，她打开烘焙店网站，看到全体店员在店外抱着各种形状面包的照片，其中一张没被像素化的脸看着眼熟，说‘All of the staff wear these T-shirts.’；由此得出他在本地上班。",
+      "verbatim": "‘More than that,’ Amy said, pointing at a small, blurry image on the breast of his T-shirt. She went over to her computer and opened up the website for the bakery. She found a picture of all the staff outside the bakery cradling a variety of different-shaped loaves. One of the unpixellated faces looked familiar. ‘All of the staff wear these T-shirts.’",
+      "loc": "L62 [2161,2514)；L59 [2142,2158)"
+    },
+    {
+      "id": 9,
+      "who": "旁白 / 烘焙店场景",
+      "what": "The Purple Toad Bakery 当天很乱：独自一人的咖啡师一杯接一杯打 flat white 奶泡，另一位女店员忙着接糕点订单；最后一份 Gruyère 和核桃奶酪酥被卖光，排队队伍十五人；没有空座；婴儿车堵住消防通道，婴儿在妈妈怀里喝 decaf cappuccino；叙述者（CaIus 视角）盯着婴儿车篷上挂的黑白玩具在想为什么是黑白。",
+      "verbatim": "The Purple Toad Bakery was chaotic. Steam was coming off the solitary barista as she frothed milk for flat white after flat white, while another woman was frantically taking orders for pastries. The last Gruyère and walnut cheese straw was sold and a groan went up from the fifteen-strong queue at the till. There was not a seat to be had at any of the tables. There were prams blocking the fire exits as newborns snuggled into their mothers sipping decaf cappuccinos. He peered at tiny fingers waving upwards at a black and white toy dangling from the hood of their pram. He wondered why it was black and white. He’d need to do research on baby toys later.",
+      "loc": "L78 [2575,3232)"
+    },
+    {
+      "id": 10,
+      "who": "Caius / Amy",
+      "what": "Caius 在队伍旁亮出 warrant card，暗示经理先清场再谈；新一盘奶酪酥出炉后队伍缓解；经理带 Caius 穿过厨房进办公室。",
+      "verbatim": "Caius, who was looming by the side, caught the eye of the manager and showed her his warrant card over the heads of the hangry, self-absorbed horde. He nodded, indicating that she should clear the queue before they chatted. … The manager left her colleague to it as she took Caius out the back through the kitchen and into the office.",
+      "loc": "L87 [3526,4125)"
+    },
+    {
+      "id": 11,
+      "who": "Jodie",
+      "what": "自我介绍为烘焙店共同所有人（co-owner）；看邮局录像截图认出这个男人是 Scott，问『Scott what?』后自己答出全名 Scott Brown，并说猜到出事了。",
+      "verbatim": "She introduced herself as Jodie, the co-owner of the bakery. … ‘It’s Scott. Isn’t it?’ She peered at the grainy CCTV image. ‘Yeah, that’s him.’ … ‘Scott Brown. Something happened, didn’t it?’",
+      "loc": "L90 [4128,4188)；L96 [4282,4362)；L99–L102 [4365,4426)"
+    },
+    {
+      "id": 12,
+      "who": "Jodie",
+      "what": "说昨天和今天 Scott 都没来上班，她希望他只是生病忘了打电话；被问『这很不像 Scott 吗』后回答『是啊，非常像（相反）』——他从不迟到，非常尽职；她把 Scott 的住址写在纸条上交给 Caius；Caius 给她名片，让她若 Scott 联系她就打电话。",
+      "verbatim": "‘I knew it when Scott didn’t come to work yesterday and again today. I hoped he was sick maybe and forgot to call.’ … ‘Yeah, very. He’s never been late before. He’s very conscientious. Is he in trouble?’ … ‘Yeah,’ Jodie said, opening her laptop and retrieving the details. She wrote them down and handed them to Caius. … ‘If Scott gets in touch, call me,’ Caius said, giving her his card.",
+      "loc": "L108 [4450,4565)；L111–L114 [4568,4698)；L117–L123 [4701,4922)"
+    },
+    {
+      "id": 13,
+      "who": "Amy / Caius",
+      "what": "走出店后 Amy 把一个含马苏里拉、火腿和开心果青酱的恰巴塔递给 Caius；两人走回停车的 Priory Square，坐在广场上看着球形的女权雕塑；Amy 说从烘焙店走到这里总共只花五分钟。",
+      "verbatim": "Amy handed him the mozzarella and mortadella ciabatta with a pistachio pesto that she’d grabbed for him. They walked back towards Priory Square where they had parked and sat in the square overlooking the globular feminist sculpture. … ‘That took us all of five minutes to walk from the bakery to here,’ Amy said.",
+      "loc": "L126 [4925,5197)；L129 [5200,5277)"
+    },
+    {
+      "id": 14,
+      "who": "Caius / Amy",
+      "what": "Caius 说 Digby 与 Scott 可能认识，如果 Digby 的科技原教旨主义也延伸到饮食，他打赌 Digby 是回头客；Amy 想起 Digby 为约会买的餐包上有罂粟籽纹路，看着自己那份蜂蜜烤山羊奶酪、晒干番茄、菠菜和 tapenade 法棍不确定地说『我觉得他们刚才就在卖这些』。",
+      "verbatim": "‘There’s a fair chance that Digby and Scott may have known each other. If Digby’s technological atavism extended to his diet then I bet he was a repeat customer.’ … ‘The bread rolls he bought for his date,’ Amy said, remembering the poppy seeds swirled on the top of Digby’s untouched roll. She looked down at her honey-roasted goat’s cheese, sundried tomato, spinach and tapenade baguette uncertainly. ‘I think they were selling them there just now.’",
+      "loc": "L132 [5280,5442)；L135 [5445,5731)"
+    },
+    {
+      "id": 15,
+      "who": "Caius / Amy",
+      "what": "Caius 第三次敲 Scott 公寓的门（公寓在 Enfield 的 ex-council），对 Amy 说『我有那种感觉』，Amy 回『我也是』；第四次敲门仍无人应答。",
+      "verbatim": "Caius banged on the door of Scott’s flat for a third time. It was ex-council in Enfield. He turned to look at Amy. ‘I have that feeling.’ … ‘Me too.’ … He banged the door for a fourth time. Still nothing.",
+      "loc": "L145 [5746,5883)；L148；L151 [5898,5950)"
+    },
+    {
+      "id": 16,
+      "who": "Caius（向 Barry 提出假设）",
+      "what": "等门被破开时先问 Barry：Scott 是不是『钓鱼』Digby——在烘焙店认识他、着了迷、基于真人 Isolde 造出「fake Isolde」，然后杀了他。",
+      "verbatim": "‘Did he catfish Digby?’ Caius asked as they waited outside the flat, giving Barry space to make his initial assessment. ‘Met him at the bakery, got obsessed, created “fake Isolde” based on real Isolde and then killed him?’",
+      "loc": "L164 [6124,6346)"
+    },
+    {
+      "id": 17,
+      "who": "Amy（提出反问）",
+      "what": "问 Scott 怎么知道真正的 Isolde 才能顶替她的身份。",
+      "verbatim": "‘How does Scott know the real Isolde in order to steal her identity?’ Amy asked.",
+      "loc": "L167 [6349,6429)"
+    },
+    {
+      "id": 18,
+      "who": "Caius",
+      "what": "承认这是好问题、也是他在这整件事里的困扰：为什么凶手要照搬 Isolde 生活的全部细节，连水彩画都要学；说凶手本来可以凭空编个梦中情人，Digby 不会不上当；补一句那个女人『有教养、中产、漂亮』。",
+      "verbatim": "‘That’s a good question. That’s the problem for me in all of this. Why did the killer steal all the details of Isolde’s life down to taking up watercolours and how do they even know that? The killer could’ve just made a dream woman up. It’s not as if Digby wouldn’t have fallen for a comparable facsimile. Cultured, middle class and pretty, right.’",
+      "loc": "L170 [6432,6786)"
+    },
+    {
+      "id": 19,
+      "who": "Amy / Caius",
+      "what": "Amy 讥讽『你的菜』；Caius 说差不多是他喜欢的类型，只是多了能冲他大吼大叫的能力，他需要一点『安全阀』；Amy 回一句『管好你自己的情绪和行为，婊子』；Caius 问她饿不饿；Amy 说饿但观点仍然成立——她没吃多少法棍，一直在想着投毒的事，怀疑自己法棍里的菠菜是不是她以为的那个菠菜。",
+      "verbatim": "‘Your type.’ … ‘I guess that’s my type but with the added ability to really yell at me if I’m being a git. I need a little safety valve.’ … ‘Regulate your own emotions and behaviour, bitch.’ … ‘Amy,’ Caius said, looking at her. ‘Are you hungry?’ … ‘Starving, but the point still stands.’ She hadn’t eaten much of her baguette. She’d kept thinking about poisonings, and wondered if the spinach in hers was what she thought it was.",
+      "loc": "L173 [6789,6801)；L176–L179 [6803,6979)；L182–L185 [6981,7218)"
+    },
+    {
+      "id": 20,
+      "who": "Barry（法医）",
+      "what": "鉴定死因：腹部被刺，『我猜他们刺到了他的肝』；说这不是个好死法，但会很快休克；只有一处刺伤，凶手以为这样就够了。",
+      "verbatim": "‘Stabbed in the gut. I’d say they nicked his liver. Not a nice way to go. He would’ve gone into shock quite quickly though,’ Barry said, looking down at the body in front of him. ‘One stab wound. The killer thought they’d done enough.’",
+      "loc": "L194 [7305,7540)"
+    },
+    {
+      "id": 21,
+      "who": "Barry",
+      "what": "否认是职业杀手：他们只是运气好；职业的会直接割动脉，比如颈动脉，那样谁也活不下来。",
+      "verbatim": "‘Oh no, I should say not,’ Barry said, standing back as the body bag was being zipped up. ‘They were lucky. A professional would’ve gone straight for an artery like the carotid. No one would survive that.’",
+      "loc": "L200 [7566,7771)"
+    },
+    {
+      "id": 22,
+      "who": "Caius / Amy",
+      "what": "Caius 问『我说这不像女性作案、而毒沙拉那案像女性作案，是我性别歧视吗』；Amy 说她喜欢沙拉让她开心，模仿-stock-photo 吃生菜的女人，说『我想我能刺死一个男人』；Caius 说『是啊，但你不是普通女人』，Amy 说『「fake Isolde」也不是』。",
+      "verbatim": "‘Is it sexist of me to say that this doesn’t feel like a feminine crime and yet the poisoned salad does?’ Caius asked. … ‘I love salad. It makes me happy,’ Amy said. She mimicked a stock photo of a woman eating a bowl of lettuce. ‘I think I could stab a man to death.’ … ‘Yes, but you’re not the average broad.’ … ‘Neither is “fake Isolde”.’",
+      "loc": "L203 [7774,7892)；L206 [7895,8042)；L209–L212 [8044,8177)"
+    },
+    {
+      "id": 23,
+      "who": "Caius（指示 Amy）",
+      "what": "让 Amy 确认 Scott 的笔记本电脑和手机等已作为证物收缴，要尽快审查；Amy 答应并开始在房间里搜寻。",
+      "verbatim": "‘Amy, just check that Scott’s laptop and phone et cetera have been taken into evidence. We need to review them ASAP.’ … ‘No problem.’ Amy began searching the room.",
+      "loc": "L215 [8180,8297)；L218 [8300,8343)"
+    },
+    {
+      "id": 24,
+      "who": "Caius（观察屋内环境）",
+      "what": "看到墙上有几张普通装饰画、更多空钉子（相框被取走）、壁炉架上放着空相框『在显要位置却什么也没显示』、边桌上一瓶开了但没喝的 Chablis（Scott 的前任嫌难看没带走）、旁边两个玻璃杯和一个『乐观的』安全套。",
+      "verbatim": "There were a couple of generic prints on the wall. Although there were a lot more empty nails where picture frames had been removed. On the mantlepiece was an empty photo frame. It was in pride of place and yet showed nothing off. A bottle of open but untouched Chablis was sat on the side table that Scott’s ex apparently thought was too ugly to take. Two glasses were sat next to it and an optimistic condom.",
+      "loc": "L221 [8346,8786)"
+    },
+    {
+      "id": 25,
+      "who": "Caius（对 Amy 的推理）",
+      "what": "判断 Scott 刚经历分手：前任搬走并带走了半屋家具；没有餐桌但地毯上有桌子压过的痕迹；他说自己担心：对方要么因为某个还不清楚、可怕但合乎逻辑的理由杀了 Digby，随后又因为 Scott 知道太多——因为是他把信送到邮政信箱——而杀了 Scott。",
+      "verbatim": "‘He’s just gone through a break-up,’ Caius said to Amy as she re-entered the room. ‘His ex moved out and took half the furniture with them. There’s no dining room table but the marks where one had rested on the carpet are there. I’m worried, Amy. They either killed Digby for some yet unknown, awful but logical reason and then killed Scott because he knows too much about them from delivering the letters to the PO Box or …’",
+      "loc": "L224 [8789,9214)"
+    },
+    {
+      "id": 26,
+      "who": "Caius / Amy",
+      "what": "Amy 调侃『还是你觉得他们有杀约会男人的癖好』；Caius 总结 Digby 与 Scott 的共同点：两人都是孤独的男人，Digby 对「fake Isolde」有性兴趣，可怜的 Scott 带着他那『乐观的安全套』看起来也可能有；Amy 归纳『所以她勾引孤独男人然后杀掉他们』，Caius 回『对』；Amy 补『而她在 Priory Square 一带有狩猎场』；Caius 盯着地毯上旧餐桌压出的凹痕问『她是不是在失控（spiralling）』；Amy 说『她听起来很酷，我想做她的朋友』。",
+      "verbatim": "‘Or you think they’ve got a taste for killing blokes on dates?’ … ‘What do Digby and Scott have in common? They were both lonely men. Digby had a sexual interest in “fake Isolde”, poor Scott with his hopeful condom looks like he might’ve too.’ … ‘So she seduces lonely men and then kills them?’ … ‘Yeah.’ … ‘And she has a hunting ground around Priory Square.’ … Caius stared down at the indent the old dining room table had made in the carpet. ‘Is she spiralling?’ … ‘She sounds cool. I’d like to be her friend,’ Amy said.",
+      "loc": "L227–L245 [9217,9739)"
+    }
+  ],
+
+  "relationships": [
+    "Caius（警探，本章视角人物）与 Amy：搭档同事；本章两人一起去事故室看人脸匹配演示、去邮局录像、去烘焙店、去 Scott 公寓。",
+    "Caius / Amy ↔ 技术员与专家：事故室内演示监控人脸匹配程序的一方。",
+    "Caius ↔ Jodie：The Purple Toad Bakery 的共同所有人；Caius 用 warrant card 带她进办公室问话；Jodie 认出录像里的人是 Scott Brown 并提供其住址；Caius 留名片给她。",
+    "Jodie → Scott Brown：雇主与雇员；Scott 是烘焙店店员（穿店里的 T 恤），昨天与今天都没来上班。",
+    "Scott Brown → Digby：Caius 的假设——二人在烘焙店相识（Scott 是店主，Caius 猜 Digby 是回头客）；Amy 指出面包袋上罂粟籽纹路与烘焙店当时的售卖对应。",
+    "Scott Brown → 「fake Isolde」：Caius 的假设——他「钓鱼」Digby，基于真人 Isolde 造出 fake Isolde；Amy 质疑他如何得知真正的 Isolde。",
+    "Digby（已死）→ 「fake Isolde」：Digby 对 fake Isolde 有性兴趣。",
+    "Caius / Amy ↔ Barry（法医）：Barry 与 forensic 先进屋；Barry 做死因判断（腹部一刀、刺到肝、可能休克、非职业杀手）。",
+    "Scott Brown ↔ 其前任：刚分手；前任搬走并带走半屋家具；前任嫌那瓶 Chablis 太难看没要。",
+    "Caius / Amy ↔ 未知凶手（疑似 female）：Caius 担心对方杀了 Digby 又因 Scott 送 P.O. Box 信件知道太多而灭口；Amy 提出「勾引孤独男人再杀掉」的模式与 Priory Square 一带的『狩猎场』。",
+    "Amy ↔ Digby 的餐包：Amy 记得 Digby 未动的餐包上有罂粟籽纹路。",
+    "叙述视角：'他'（he）= Caius；末段对话是 Caius 与 Amy 二人。"
+  ],
+
+  "numbers_and_dates": [
+    { "value": "three days of footage", "loc": "L20 [41,280)" },
+    { "value": "Two women both came in on two of the three days and one man came in on all three", "loc": "L26 [333,416)" },
+    { "value": "fifteen-strong queue at the till", "loc": "L78 [2575,3232)" },
+    { "value": "Another tray of cheese straws came out the oven fifteen minutes ago", "loc": "L81 [3235,3441)" },
+    { "value": "Scott didn't come to work yesterday and again today", "loc": "L108 [4450,4565)" },
+    { "value": "That took us all of five minutes to walk from the bakery to here", "loc": "L129 [5200,5277)" },
+    { "value": "banged on the door ... for a third time", "loc": "L145 [5746,5883)" },
+    { "value": "banged the door for a fourth time", "loc": "L151 [5898,5950)" },
+    { "value": "One stab wound", "loc": "L194 [7305,7540)" },
+    { "value": "Two glasses", "loc": "L221 [8346,8786)" }
+  ],
+
+  "chapter_specific_judgement_notes": {
+    "CCTV_repeated_person": "L20/L26/L29/L32/L35/L47-L68：反复出现在监控里的男人（三天都出现、只带一个 letter）经 tote bag 颜色、T 恤图案、面包店店员合影被逐步指认到 Scott Brown（L96/L102 由 Jodie 确认真名）。",
+    "portrait_of_a_lonely_man": "L221-L245：孤独男人画像由物证拼出——被取走的相框、显要位置却空着的相框、前任嫌难看留下的开了没喝的 Chablis、两个玻璃杯、乐观的安全套、地毯上旧餐桌压痕；性方面线索是「hopeful condom」与 Digby 同样孤独。",
+    "NOT_IN_SOURCE": [
+      "原文全章未出现 Scott Brown 的身高（height / tall / short）。",
+      "原文全章未出现 Scott Brown 的发色（hair / blond / dark-haired）。",
+      "原文全章未出现任何关于 Scott Brown 的『咖啡馆习惯』描述；烘焙店是面包店（bakery），Amy 去那里吃过午饭、说的是 Amy 的习惯，不是 Scott 的。",
+      "原文未说明 Scott Brown 如何『一步步靠近目标』的作案过程——只写到尸体被发现与推理假设。"
+    ],
+    "reason": "本章专属判据里点名的『身高、发色、咖啡馆习惯、如何一步步靠近目标』四项，须逐一在 md 中核对；若 md 出现，原文无据。"
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "chapter": "ch32",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch32_32.txt",
+  "source_chars": 8569,
+  "source_lines": 178,
+  "read_order": "仅读 text/ch32_32.txt（未开 md、未看别章 md、未凭记忆）",
+  "sections_in_source": [
+    "Priory Square（line 17）",
+    "场景分隔符 * * *（line 166）"
+  ],
+  "events": [
+    {
+      "id": "E1",
+      "chars": [
+        36,
+        243
+      ],
+      "lines": "20",
+      "who": "Eulalia",
+      "what": "站在自己卧室的窗前（原文：on the second floor），看着警方把另一具尸体从邻家大门抬出去；这场戏她已经看了一个小时。",
+      "verbatim": "Eulalia was standing at her bedroom window on the second floor, watching the police carry another body out the front of one of the neighbouring houses. She’d been watching the scene unfold for the last hour."
+    },
+    {
+      "id": "E2",
+      "chars": [
+        244,
+        427
+      ],
+      "lines": "20",
+      "who": "Eulalia",
+      "what": "又一次看见「他」——perched on the car bonnet，一边指挥手下（his subordinate）。尸体被抬走＝这场戏结束；她拉上窗帘，转身离开窗前。",
+      "verbatim": "Eulalia had seen him again, perched on the car bonnet, dashing as he commanded his subordinate about. The corpse being carried away was the end of the scene. The curtains fell closed."
+    },
+    {
+      "id": "E3",
+      "chars": [
+        428,
+        774
+      ],
+      "lines": "20",
+      "who": "Eulalia",
+      "what": "走开去换 Mel 上周在网上给她买的健身服（薄荷绿紧身裤 + 露腰白背心），并猜 Mel 是想看她有没有执行 low-carb、high-protein 的鸡胸肉饮食；她不想做瑜伽——至少今天不想。",
+      "verbatim": "She stepped away and put on the workout clothes that Mel had ordered last week for her online. A pair of mint-green leggings and a white crop top that left nothing to the imagination. She wondered if that was so Mel could see if she was sticking to the low-carb, high-protein chicken breast diet. Eulalia didn’t want to do yoga. Not today anyway."
+    },
+    {
+      "id": "E4",
+      "chars": [
+        775,
+        1157
+      ],
+      "lines": "20",
+      "who": "Mel",
+      "what": "打开「愧疚水龙头」（guilt tap），用一串话淹满她的卧室：‘I found the best teacher for you’；‘I had to bribe the receptionist at the yoga studio she teaches from to give me her number so I could book a private lesson’；‘I thought you’d love this. I really did’；‘she’s actually fucking Indian’；‘I go above and beyond for you over and over again and you don’t give a shit.’",
+      "verbatim": "Mel had turned on the guilt tap though, flooding her bedroom with ‘I found the best teacher for you’; ‘I had to bribe the receptionist at the yoga studio she teaches from to give me her number so I could book a private lesson’; ‘I thought you’d love this. I really did’; ‘she’s actually fucking Indian’; ‘I go above and beyond for you over and over again and you don’t give a shit.’"
+    },
+    {
+      "id": "E5",
+      "chars": [
+        1158,
+        1333
+      ],
+      "lines": "20",
+      "who": "Eulalia",
+      "what": "对着落地镜看自己，侧过身，用手抚过自己凹陷的腹部（concave stomach）。随后门外有人敲了两次门（中间是沉默）。",
+      "verbatim": "Eulalia looked at herself in the freestanding mirror. She turned to the side, running her hand down her concave stomach. There was a knock at the door. Silence. Another knock."
+    },
+    {
+      "id": "E6",
+      "chars": [
+        1336,
+        1383
+      ],
+      "lines": "23",
+      "who": "Mel",
+      "what": "在门口问 ‘May I come in?’，原文说只是形式（as a formality only）。",
+      "verbatim": "‘May I come in?’ Mel asked as a formality only."
+    },
+    {
+      "id": "E7",
+      "chars": [
+        1419,
+        1619
+      ],
+      "lines": "29-32",
+      "who": "Mel / Eulalia",
+      "what": "Mel 开门但不进房间，问 ‘Sorry, what was that?’；Eulalia 说 ‘Nothing.’ 并摆姿势——既然要摆谱，她就把胯顶出去（thrust her hips out）。",
+      "verbatim": "Mel opened the door but didn’t step into the room. ‘Sorry, what was that?’\n\n\n‘Nothing.’ Eulalia shook her head, and then posed. If they were going to posture then she was going to thrust her hips out."
+    },
+    {
+      "id": "E8",
+      "chars": [
+        1622,
+        2149
+      ],
+      "lines": "35",
+      "who": "Mel",
+      "what": "告知邮递员来过了（‘The postman’s been.’），把粉丝寄来的一大堆信件、旧书、干花倒在她妹妹的梳妆台上（label 转寄的）；Mel 把每一封都拆读、并在 Glastonbury 现场演出的照片上签了名再寄回；她认为这堆可撕碎的崇拜多少能安抚妹妹的自恋，也能让妹妹少想自己对「posho hat girl」的 girl crush。",
+      "verbatim": "‘The postman’s been.’ Mel dumped a pile of letters and other crap, old books and dried flowers, that her fans had sent on her sister’s dressing table. The label had forwarded it on. Mel had of course opened and read through every single one and signed all the photos of ‘Eulalia’ performing live at Glastonbury to be sent back to the fans herself. She just thought that the pile of shredable adoration went some way to placate her sister’s ego and distract her from thinking too much about her girl crush on the posho hat girl."
+    },
+    {
+      "id": "E9",
+      "chars": [
+        2152,
+        2507
+      ],
+      "lines": "38-47",
+      "who": "Eulalia / Mel",
+      "what": "道歉冲突：Eulalia 说 ‘I find living with you stressful. I think perhaps—’，被 Mel 用举起的手指和更大的声音打断（cut Eulalia off），Mel 改口 ‘I said I was sorry.’ 并说自己 ‘I am under so much stress right now and snapped at you.’；Eulalia 翻白眼，说 ‘We both are.’",
+      "verbatim": "‘I’m sorry,’ Mel said. She was wearing black leggings and a baggy white T-shirt.\n\n\n‘I find living with you stressful. I think perhaps—’\n\n\nMel cut Eulalia off with a raised finger and a louder voice. ‘I said I was sorry.’ She looked at the glass of water she was holding. ‘I am under so much stress right now and snapped at you.’\n\n\nEulalia rolled her eyes."
+    },
+    {
+      "id": "E10",
+      "chars": [
+        2537,
+        2630
+      ],
+      "lines": "56",
+      "who": "Mel",
+      "what": "说 ‘I thought yoga would help us relax. It’ll be fun.’ 并把那杯水递给妹妹。",
+      "verbatim": "‘I thought yoga would help us relax. It’ll be fun.’ Mel handed her sister the glass of water."
+    },
+    {
+      "id": "E11",
+      "chars": [
+        2643,
+        2830
+      ],
+      "lines": "62",
+      "who": "Eulalia",
+      "what": "Mel 从口袋里掏出两包药片（two packets of tablets），各剥出一片给她吃；Eulalia 没有吃，只是盯着手心里的药片看。",
+      "verbatim": "Mel took two packets of tablets from her pocket and popped one each out of the packaging. Mel gave them to her to take, but instead she just stared at the tablets in the palm of her hand."
+    },
+    {
+      "id": "E12",
+      "chars": [
+        2833,
+        3373
+      ],
+      "lines": "65-74",
+      "who": "Mel / Eulalia",
+      "what": "Mel 夸奖她昨天写的两小节歌词（‘I liked those couple of bars of lyrics you wrote yesterday’）——Eulalia 昨晚被 Callie 拒绝后，凌晨 4 a.m. 在 Mel 门外 scribbled 一两行字；Mel 说这些词『perfect for a bridge』，正偷偷写一首新歌；Eulalia 知道 Mel 在敷衍她，只盼某个词能被写进成品；她恨自己唱不高音（couldn’t hold a note）。",
+      "verbatim": "‘I liked those couple of bars of lyrics you wrote yesterday,’ Mel said brightly. Eulalia had scribbled a line or two down and left it outside Mel’s door at 4 a.m., describing her bitterness at being rejected by Callie last night.\n\n\n‘They’re OK.’\n\n\n‘I think they’re better than that. They’re perfect for a bridge.’ Mel had been working away on a new tune secretly.\n\n\n‘Yeah.’ Eulalia didn’t want to look at Mel. She knew that Mel was placating her. That a keyword might make it into the final version. She hated that she couldn’t hold a note."
+    },
+    {
+      "id": "E13",
+      "chars": [
+        3376,
+        3770
+      ],
+      "lines": "77-83",
+      "who": "Mel / Eulalia",
+      "what": "Mel 通知 ‘Amala’s downstairs for our session.’；Eulalia 回答 ‘Someone else has died,’；Mel 问 ‘Where?’，嫌妹妹的 morbidity（『It sold records but the Guardian-reading masses should try to live with it』），并说 ‘People croak all the time. Someone probably dies every second or something. Take your medication.’",
+      "verbatim": "‘Amala’s downstairs for our session.’\n\n\n‘Someone else has died,’ Eulalia said, walking over to her desk. The tablets were still in her outstretched hand.\n\n\n‘Where?’ Mel asked. She was annoyed at her sister’s morbidity. It sold records but the Guardian-reading masses should try to live with it. ‘People croak all the time. Someone probably dies every second or something. Take your medication.’"
+    },
+    {
+      "id": "E14",
+      "chars": [
+        3773,
+        4269
+      ],
+      "lines": "86",
+      "who": "Eulalia",
+      "what": "报出地点：‘On the square. The police are outside again. There were loads of flashing lights.’；Mel 走到窗边；Eulalia 把药片塞进胸罩（不是本周第一次），灌一大口水呛到；她感觉自己活在两个不同状态之间：现在的 misery 和 looming freedom；她不再需要这些药；‘These pills are too big.’",
+      "verbatim": "‘On the square. The police are outside again. There were loads of flashing lights.’ Eulalia watched Mel move to the window, concerned that her sister was imagining things. Eulalia put the tablets in her bra – not for the first time that week – and swallowed a huge gulp of water that made her cough. She could feel herself existing on the edge of two different states: her current misery and looming freedom. She didn’t need the pills any more. She was doing just fine. ‘These pills are too big.’"
+    },
+    {
+      "id": "E15",
+      "chars": [
+        4459,
+        4714
+      ],
+      "lines": "95",
+      "who": "Mel",
+      "what": "说 ‘Everything will be for nothing if you don’t.’（把话题转到她进来的真正原因）——父母家来了警察，因为有人用 Mum 的卡买了一个可疑的 PO Box。",
+      "verbatim": "‘Everything will be for nothing if you don’t.’ Mel, sensing the power imbalance, switched the topic of conversation to the real reason she’d come in. ‘Mum and Dad had the police round at theirs because someone bought a dodgy fucking PO Box on Mum’s card.’"
+    },
+    {
+      "id": "E16",
+      "chars": [
+        4717,
+        5206
+      ],
+      "lines": "98-116",
+      "who": "Eulalia / Mel",
+      "what": "PO Box 争执：Eulalia 说 ‘Wasn’t me.’；Mel 说 Mum 讲 Eulalia 跟她讲 Mel 不让她自己管钱，Mum 因此把卡给了她；Eulalia 反驳 Mel 掌控一切；Mel 说随时给现金；Eulalia 说只是零星皱巴巴的钞票、买网上衣服商家不收 ‘a manky twenty’；Mel 追问 ‘Did you buy a PO Box?’，Eulalia 答 ‘What’s a PO Box?’。",
+      "verbatim": "‘Wasn’t me.’\n\n\n‘Are you sure? Mum said you’d told her some bullshit that I don’t let you have your own money. So she gave you her card details.’\n\n\n‘You don’t. You keep control of everything.’\n\n\n‘I give you cash whenever you want it.’\n\n\n‘You give me a couple of crumpled-up notes every now and then. I don’t have access to my own bank card. I wanted to buy clothes on the internet. They won’t take a manky twenty.’\n\n\n‘Did you buy a PO Box?’\n\n\n‘What’s a PO Box?’ Eulalia flared her nostrils."
+    },
+    {
+      "id": "E17",
+      "chars": [
+        5209,
+        5404
+      ],
+      "lines": "119-125",
+      "who": "Mel",
+      "what": "辩称不是扣着妹妹的钱而是投资（‘I’m not keeping your money. I’m not doing it to be mean. I’m investing it.’）；Eulalia 抖了一下（Eulalia shook）；Mel 说她躁狂时乱买东西、自己是在保护她（‘I’m just protecting you.’）。",
+      "verbatim": "‘I’m not keeping your money. I’m not doing it to be mean. I’m investing it.’\n\n\nEulalia shook.\n\n\n‘When you’re manic you buy random shit. You spend small fortunes on crap. I’m just protecting you.’"
+    },
+    {
+      "id": "E18",
+      "chars": [
+        5462,
+        5728
+      ],
+      "lines": "137-152",
+      "who": "Eulalia / Mel",
+      "what": "Mel 问餐费收据可否作 business expense；Eulalia 转而说 ‘I don’t think Callie likes me.’／‘I’m too much.’；Mel 心里担心妹妹做过或说过什么，庆幸有 NDA（Thank God for the NDA）；Eulalia 说 ‘Never mind.’",
+      "verbatim": "‘Have you got the receipt? I can claim it as a business expense.’\n\n\n‘I don’t think Callie likes me.’\n\n\n‘What makes you say that?’\n\n\n‘I’m too much.’\n\n\n‘What do you mean?’ Mel was concerned. Had her sister done or said something? Thank God for the NDA.\n\n\n‘Never mind.’"
+    },
+    {
+      "id": "E19",
+      "chars": [
+        5731,
+        6414
+      ],
+      "lines": "155",
+      "who": "Mel",
+      "what": "告诉妹妹这对她而言只是一桩生意（business transaction），并说 Calliope 明天（tomorrow）要向「我、你、还有化妆品那边的人」展示；Eulalia 永远不会被请去烛光晚餐，也别想周末去 Callie 男朋友的城堡打雉、喝波特酒；Mel 说 ‘as soon as you saw that stupid TV clip I could see that you wanted to be her, but you won’t be.’",
+      "verbatim": "‘I hate to say it, love, but this is a business transaction for her.’ Mel felt mean, but her sister had to learn. Besides, she didn’t want an outsider gaining too much influence. Not now. Not when they were finally so close to having it all. ‘Calliope is going to present to me, umm, you and the cosmetics people tomorrow and then that will be that. You’ll never get invited round for cosy candlelit suppers or whatever posh bitches like her do for fun. You’re not going to spend the weekend at her boyfriend’s castle shooting pheasants and quaffing port. I know that’s what you wanted, as soon as you saw that stupid TV clip I could see that you wanted to be her, but you won’t be.’"
+    },
+    {
+      "id": "E20",
+      "chars": [
+        6550,
+        7006
+      ],
+      "lines": "171",
+      "who": "Eulalia / Mel / Amala",
+      "what": "瑜伽课后：Eulalia 冲完澡出来，Mel 示范「雨湿木板」的柔韧性，Amala 称赞她的动作、Mel 的赫拉克勒斯式努力只被礼貌认可；做下犬式时药片差点从胸部掉出来，她假装腿筋抽筋（feign cramp in her hamstrings）把它们塞回去，并懊恼 ‘She should’ve flushed them before they started.’",
+      "verbatim": "Eulalia stepped out of her post-yoga shower. She’d enjoyed twisting herself into knots while Mel demonstrated the flexibility of a plank of rain-sodden wood behind her. Amala showered her with compliments on her form while Mel’s Herculean effort was only politely noted. The pills had nearly fallen out of her cleavage during a downward dog and she had to feign cramp in her hamstrings to shove them back in. She should’ve flushed them before they started."
+    },
+    {
+      "id": "E21",
+      "chars": [
+        7007,
+        7775
+      ],
+      "lines": "171",
+      "who": "Eulalia",
+      "what": "用化妆品公司（the cosmetics guys）当天早上送来的 body wash 抹身——对方笃定化妆品线会卖好、已在筹划其他健康美容线；她把自己比作熟透的无花果（a ripe fig waiting to be plucked and split open between greedy fingers），软、黏、甜，「随时可能被一只粗暴的手捏成果肉」；随后打开身体乳，喷亮肤爽肤水、涂含覆盆子酶的肽精华（peptide serum with raspberry enzymes）和带 SPF 的玻尿酸保湿霜。",
+      "verbatim": "Eulalia had lathered herself with a body wash that the cosmetics guys had sent over earlier that morning. They were so sure that the make-up line was going to sell well that they were already thinking about other health and beauty expansions. The scent was divine. She smelled like a ripe fig waiting to be plucked and split open between greedy fingers. She felt soft and promisingly sticky and sweet. She could be smashed into mere pulp any minute by a firm, grasping hand. Eulalia dropped the towel on the bathroom floor and opened the matching body lotion, rubbing it in over every inch of her body. She spritzed a brightening toner on her face that they’d also sent over, a peptide serum with raspberry enzymes and then their hyaluronic moisturiser with added SPF."
+    },
+    {
+      "id": "E22",
+      "chars": [
+        7778,
+        8568
+      ],
+      "lines": "174-177",
+      "who": "Eulalia",
+      "what": "裸坐在地板上打开笔记本写同人文（fanfic site）；粉丝 Issy9786 从未回复过她夸上一章的那些留言；她要靠下一 installment 出彩；狂写了半小时（half an hour），洗完澡的热气散去、虽有暖天气却开始发冷；她不打算穿衣服——因为她在写一段 threesome；Mel 在楼下喊她吃午饭（又是 poached hunks of protein），她不想吃，打算跳过午餐、整个下午在家里展示自己平坦的小腹。",
+      "verbatim": "Eulalia sat on her floor naked. She opened her laptop up and started writing. The girls who followed her on the fanfic site were going to love this – although Issy9786 had not replied to a single one of her messages complimenting her last story. Eulalia was going to outdo herself with her next instalment.\n\n\nShe wrote furiously for half an hour. The heat from the shower had worn off and although it was warm outside, she was starting to feel a chill as she lolled around naked on the hardwood floor. She wasn’t going to get dressed. Not when she was writing about a threesome. Mel was calling her down for lunch – more poached hunks of protein – but she didn’t want it. She was going to skip lunch and instead parade her flat stomach around the house all afternoon, once she had finished."
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Eulalia / Mel",
+      "rel": "亲姐妹（her sister / her sister's dressing table）。Mel 同时是 Eulalia 的经纪人：管钱、买瑜伽老师、拆读粉丝来信、在 Glastonbury 照片上签名回寄、推进 Calliope 与化妆品公司的合作；Eulalia 抱怨『I find living with you stressful』，Mel 则强调自己『I am under so much stress right now』。"
+    },
+    {
+      "pair": "Eulalia / Mel（药）",
+      "rel": "Mel 掌握药的发放与钱的控制；Eulalia 拒药（‘Do I?’、‘These pills are too big.’），把药片塞进胸罩并谎称已吞；Mel 警告 ‘Everything will be for nothing if you don’t.’"
+    },
+    {
+      "pair": "Mel / Amala",
+      "rel": "Amala 是本节瑜伽课的老师（Mel 为拿到她的号码贿赂了瑜伽工作室的前台）；Mel 称她 ‘she’s actually fucking Indian’；Amala 称赞 Eulalia 的体式，Mel 的努力只被礼貌认可。"
+    },
+    {
+      "pair": "Eulalia / Callie（Calliope）",
+      "rel": "Eulalia 的 girl crush 对象（Mel 语带不屑地称她 ‘the posho hat girl’）；前一晚拒绝了 Eulalia；Eulalia 凌晨 4 a.m. 写下被拒的苦涩；Calliope 有个拥有城堡的男朋友。"
+    },
+    {
+      "pair": "Mel / Calliope",
+      "rel": "Mel 认为与 Calliope 的关系只是 business transaction；Calliope 明天要向 Mel、Eulalia 与化妆品方做展示；Mel 在替妹妹做利益切割（不让外人过多介入）。"
+    },
+    {
+      "pair": "Mel / Mum & Dad",
+      "rel": "父母家因有人用 Mum 的卡买了可疑 PO Box 而被警察上门；Mum 对 Mel 说 Eulalia 讲过 Mel 不给她自主管钱，于是 Mum 把卡给了 Eulalia。"
+    },
+    {
+      "pair": "Eulalia / Mum",
+      "rel": "Eulalia 否认买 PO Box，并称 Mel 从不让她接触自己的银行卡。"
+    },
+    {
+      "pair": "Eulalia / fans & label",
+      "rel": "粉丝把信件、旧书、干花寄到她的 dressing table，label 转寄；Mel 拆读每封并签名回寄（用 ‘Eulalia’ 之名的 Glastonbury 现场照）。"
+    },
+    {
+      "pair": "Eulalia / Issy9786",
+      "rel": "Issy9786 是 fanfic 站上关注她的读者，但从未回复过她夸上一章的留言。"
+    },
+    {
+      "pair": "Eulalia / 「他」（车盖上的人）",
+      "rel": "Eulalia 在自家窗口又一次看到他 perched on the car bonnet、指挥手下；本章未点名其身份。"
+    },
+    {
+      "pair": "警方 / 邻家",
+      "rel": "警方把尸体从其中一间邻家抬出（another body）；Eulalia 告诉 Mel 是在 square 上、警灯很多，Mel 反而觉得妹妹在想象。"
+    },
+    {
+      "pair": "Mel / NDA",
+      "rel": "Mel 庆幸有 NDA（Thank God for the NDA），担心妹妹对 Callie 做过或说过什么。"
+    },
+    {
+      "pair": "Eulalia / 化妆品公司",
+      "rel": "the cosmetics guys 当天送来 body wash 等产品，笃定彩妆线会卖好、已在筹划其他健康美容线；Calliope 明天要向他们做展示。"
+    }
+  ],
+  "numbers_and_dates": {
+    "verbatims": [
+      "“on the second floor”（Eulalia 卧室窗在二楼）— E1",
+      "“for the last hour”（她看警方抬尸体的时长＝一小时）— E1",
+      "“last week”（Mel 上周在网上订了健身服）— E3",
+      "“two packets of tablets” ＋ “popped one each”（两包药、各剥一片）— E11",
+      "“at 4 a.m.”（Eulalia 凌晨四点把歌词写在 Mel 门外）— E12",
+      "“not for the first time that week”（本周不止一次把药塞胸罩）— E14",
+      "“Someone probably dies every second or something”（Mel 语）— E13",
+      "“two different states: her current misery and looming freedom” — E14",
+      "“tomorrow”（Calliope 明天做展示）— E19",
+      "“half an hour”（她狂写同人的时长）— E22",
+      "“a couple of crumpled-up notes” ＋ “a manky twenty”（零星现金与面额）— E16",
+      "“another body”（又一具尸体）— E1"
+    ],
+    "dates": "本章正文内无具体日期（无星期名、无月份）；场景标 ‘Priory Square’（line 17）＋ `* * *`（line 166）分两场；章号 32 在 line 1 与 line 12 各出现一次。",
+    "counts": {
+      "章节号出现次数": 2,
+      "场景分隔符": 1,
+      "有名有姓的人物": [
+        "Eulalia",
+        "Mel",
+        "Amala",
+        "Callie",
+        "Calliope",
+        "Issy9786",
+        "Mum",
+        "Dad"
+      ],
+      "提及的机构/地点": [
+        "Priory Square",
+        "the square",
+        "the neighbouring houses",
+        "the yoga studio",
+        "Glastonbury",
+        "the Guardian",
+        "the label",
+        "the cosmetics guys",
+        "the cosmetics people",
+        "fans",
+        "fanfic site",
+        "the bathroom",
+        "the freestanding mirror"
+      ],
+      "场次数": 2
+    }
+  },
+  "suread_notes": [
+    "本章共 8569 字符、178 行（含大量空行），两场：场景一＝Eulalia 卧室窗口→Mel 进屋（信／药／钱／PO Box／Callie）；场景二＝瑜伽后（洗澡→涂身体乳→裸坐写同人）。",
+    "★本章专属判据（原文依据）：① 楼层＝“on the second floor”（二楼）；② 观看时长＝“She’d been watching the scene unfold for the last hour.”（一个小时）；③ 原文写的是“Eulalia didn’t want to do yoga. Not today anyway.”——即她**不想做瑜伽**（不是「不愿去练」以外的别的说法，也不是「不想做运动」）；④ 但她**最后确实上了那节瑜伽课**（有 post-yoga shower、Amala 的 session），所以「不想」只针对彼时心情。",
+    "★「同时」的写法（原文机制）：命案与琐事不是并排叙述，而是**同一个视野里的两个身体**——窗外是「another body」被抬走（“The corpse being carried away was the end of the scene. The curtains fell closed.”），紧接着“She stepped away and put on the workout clothes”，然后她在落地镜前摸自己的“concave stomach”；也就是同一场景里「一具被抬走的尸体」与「一具正在被打扮的身体」互相替换／对照。琐事具体是：Mel 上周网购的健身服（薄荷绿紧身裤＋白背心）、猜测 Mel 借衣服监督她的 low-carb／high-protein 鸡胸肉饮食、以及不想做瑜伽。",
+    "★「瑜伽」与「鸡胸肉饮食」都由 Mel 花钱推动（『I found the best teacher for you』、贿赂前台、『she’s actually fucking Indian』），Eulalia 的抗拒与顺从都指向同一件事：她被管理。",
+    "★凶案线索本章只到「邻家又抬出一具尸体」＋「他又在车盖上指挥手下」＋「On the square. The police are outside again.」；Eulalia 报信式的告知与 Mel 的冷漠（‘People croak all the time’）构成两人对同一事件的不同处理。",
+    "★末尾收束：她不打算穿衣服（因为在写 threesome）、跳过午饭（poached hunks of protein）、要整个下午展示平坦小腹——与开头镜中的“concave stomach”构成同一条线。"
+  ]
+}

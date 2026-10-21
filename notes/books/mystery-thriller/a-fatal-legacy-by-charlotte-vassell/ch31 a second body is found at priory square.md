@@ -23,11 +23,11 @@ source_text: ch31
 **为什么这样写**：作者用马特一句随口的职业套话开场，紧接着让「一模一样」把整座广场压成一张复印纸——房子相同、户型相同，于是这具尸体发生在哪一间屋子里就不重要了，重要的是它发生在「广场」这个整体上。开篇那声「是谁通知我们的」把整条报警链直接递到读者手上，等下一段答出「一个粉丝」，围观者就已经先于警察站到了现场。
 **读者视角提示**：留意 identical 和 the square 这两处反复出现的说法；这个广场在本章里被一次次提起，每提一次，压迫感就往上加一层。
 
-> **原句 2:** "‘And everyone watching thought what? That it was a bit?’ ‘Yeah, but one concerned fan called it in when they realised that he was still livestreaming at 8 a.m. this morning.’"
+> **原句 2:** "‘Yeah, but one concerned fan called it in when they realised that he was still livestreaming at 8 a.m. this morning.’"
 
-**中文理解**：有人起初确实以为那不过是节目效果；但有一位牵挂的粉丝，是在当天早上八点发现他居然还在直播，才把电话打了进来。
+**中文理解**：有一位牵挂的粉丝，是当天早上八点发现他居然还在直播，才把电话打了进来。
 **关键词**：one concerned fan / still livestreaming / called it in
-**为什么这样写**：报警的不是目击者、不是邻居、也不是巡逻撞见的警察，而是守在直播频道前的一个粉丝——本来只是「看热闹的人」，因为画面停在了不该停的地方而成了唯一的报信者。作者把「围观」写成这个案子里唯一可靠的眼睛：广场上一户户人家，没有一个人看见；而刷着直播的这一个看见了。
+**为什么这样写**：报警的人不在现场，而是守在直播频道前的一个粉丝——本来只是「看热闹的人」，因为画面停在了不该停的地方而成了唯一的报信者。作者把「围观」写成这个案子里唯一可靠的眼睛。
 **读者视角提示**：注意 still 这个词的分量——深夜开播、早上八点还在播，「仍在直播」本身就是异常。记下这个时间差。
 
 > **原句 3:** "‘What is this case you’re working on?’ Barry asked, getting up from crouching over the latest body found in the square. A forensic technician was swabbing the corpse’s T-shirt as another took pictures of the surrounding area."

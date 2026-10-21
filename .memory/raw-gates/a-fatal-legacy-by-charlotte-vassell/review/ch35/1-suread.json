@@ -1,0 +1,255 @@
+{
+  "chapter": 35,
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch35_35.txt",
+  "section_title": "Caius and Callie’s Flat",
+  "char_len": 14455,
+  "read_before_md": true,
+  "note": "本文件在打开任何 md 之前落盘；区间为字符偏移 [start, end)，基于 text/ch35_35.txt 全文（换行计入）。行号为 read 输出的行号，仅便于人核。",
+  "events": [
+    {
+      "id": "E1",
+      "who": "Callie（女主，孕妇）",
+      "what": "打开公寓前门迎接来客；叙述者直接称来客为「她父亲」；她本想叫「Peter」，但一这么叫对方就神色异样，而这名字她已用了「97 per cent of her life」。",
+      "verbatim": "Callie opened the front door to her father. … ‘Hello, uh.’ She went to call him Peter but he got funny when she did, despite that being the name she’d called him for 97 per cent of her life.",
+      "chars": [46, 219],
+      "lines": [20, 23]
+    },
+    {
+      "id": "E2",
+      "who": "Peter（来访者，Callie 的父亲）",
+      "what": "说来访是「stopping by」，同时从她肩后探头确认屋里只有她一个人；进屋后坐下，问「His nibs not in?」（指 Caius），被 Callie 制止；把一个 file 放在 coffee table 上。",
+      "verbatim": "‘I hope you don’t mind me stopping by,’ Peter said, peering over her shoulder to make sure she was home alone. … ‘His nibs not in?’ … ‘Don’t call him that.’ Callie had a playful edge to her voice but she meant it. She filled the kettle. … ‘I’m only teasing,’ Peter said, putting a file down on the coffee table.",
+      "chars": [262, 690],
+      "lines": [26, 38]
+    },
+    {
+      "id": "E3",
+      "who": "叙述者",
+      "what": "交代 Peter 不喜欢到她家来（prefer 带她出去吃饭炫耀）；Peter 忌惮 Caius，一半因为两人初识经过，一半因为 Peter 的势利；Peter 八十年代做过 elocution lessons，那时是 petty bourgeois、Thatcherite social climber；Caius 家人有「splashy vowels, glottal stops and accidental baronetcy」。",
+      "verbatim": "Peter didn’t like to pop in to her domestic sphere. … Despite his professed fondness he was intimidated by Caius. This was partially due to how they had first met, but mostly due to Peter’s snobbery. … she was certain Peter had had elocution lessons in the eighties when he was a petty bourgeois, Thatcherite social climber and yet here was Caius’s family with their splashy vowels, glottal stops and accidental baronetcy.",
+      "chars": [786, 1358],
+      "lines": [41, 41]
+    },
+    {
+      "id": "E4",
+      "who": "Peter ↔ Callie",
+      "what": "Peter 告知 Max 送来了一份书面正式道歉，概要为「he’s very sorry, won’t happen again, would like to remain friends and he’s always got an ear to lend you」；Callie 说差点嫁给 Max，并追问是不是「just an ear」；Peter 说她比那聪明、她跟对人了，说她「You won’t do better than Caius」；Callie 说 Caius 是她交往过的第一个真正喜欢女人的男人，「So many men hate us」。",
+      "verbatim": "‘That Max has sent a formal apology in writing. Did you want to read it?’ … ‘I can’t believe I nearly married him.’ Callie rolled her eyes. ‘Was it just an ear he offered?’ … ‘You won’t do better than Caius.’ … ‘I couldn’t want better. You know, I think Caius is the first man I’ve ever been with who actually likes women. So many men hate us. Many more than you’d think.’",
+      "chars": [1382, 1945],
+      "lines": [44, 65]
+    },
+    {
+      "id": "E5",
+      "who": "Peter（来访者）",
+      "what": "回答咖啡桌上那个 file 的内容：「It’s about the Simpson Foundation.」；随后坐下看著她，说明文件是在设定「the initial financial endowment」，并问她是否仍想当 board 成员；Callie 答「Yes」。文件细节为「a lot of boring numbers」和「a lot of tedious regulation stuff」。",
+      "verbatim": "‘It’s about the Simpson Foundation.’ … ‘The document is setting out the initial financial endowment. Do you still want to be on the board?’ … ‘Yes.’ … ‘It’s a lot of boring numbers.’ … ‘A lot of tedious regulation stuff.’",
+      "chars": [2036, 2457],
+      "lines": [68, 86]
+    },
+    {
+      "id": "E6",
+      "who": "Peter",
+      "what": "暗示要把她劝退出董事会（Callie 直接问「Are you trying to talk me out of it?」，他答「Perhaps.」）；理由是「You’re not a Simpson, are you?」；Callie 回「Not this again.」，叙述补出「Peter had tried the other month to get Callie to change her surname to his now that their relationship had briefly been a tabloid headline」。",
+      "verbatim": "‘Are you trying to talk me out of it?’ … ‘Perhaps.’ … ‘Why?’ … ‘You’re not a Simpson, are you?’ … ‘Not this again.’ Peter had tried the other month to get Callie to change her surname to his now that their relationship had briefly been a tabloid headline.",
+      "chars": [2463, 2707],
+      "lines": [89, 101]
+    },
+    {
+      "id": "E7",
+      "who": "Peter ↔ Callie（关系直接说明处）",
+      "what": "Peter 说「You’re my only daughter, aren’t you?」，Callie 回「Am I?」，Peter 答「Biologically speaking.」——即原文直接说明该来访者与 Callie 是父女关系（就生物而言）；Callie 随后说「There’s no point in me changing my name」，Peter「caught the subtext」。",
+      "verbatim": "‘What? You’re my only daughter, aren’t you?’ … ‘Am I?’ … ‘Biologically speaking.’ … ‘There’s no point in me changing my name.’ She regretted saying that as soon as it flew out of her mouth. … ‘Oh really?’ Peter caught the subtext.",
+      "chars": [2727, 3030],
+      "lines": [104, 122]
+    },
+    {
+      "id": "E8",
+      "who": "Callie ↔ Peter（基金会宗旨与追责）",
+      "what": "Callie 说出基金会的可能焦点：孟加拉国的妇幼保健、妇女健康诊所、至少给女性工人买叶酸（讽刺 Peter 剥削的正是以女性为主的劳动力）；Peter 说慈善很技术化、有 duty of care 的法律义务；Callie 建议他去所有品牌设过工厂的地方做 fact-finding mission 并带摄制组，还提到洗一次就坏的廉价涤纶衬衫、死亡/死后无申辩机会、被秃鹫啄食尸体；他称这个比喻令人不适但「Not a bad idea」，并提议她一起去。",
+      "verbatim": "‘Maternity care in Bangladesh. Women’s health clinics. Buy them some folic acid at least. It was a mostly female workforce that you exploited, after all.’ … ‘Why don’t you go on a fact-finding mission to all the places where your brands had factories working for them? Take a camera crew if you like.’ … ‘Better for it not to be on your deathbed or worse, posthumously. You’d have no right of reply then. The vultures would just be gleefully picking over your corpse.’",
+      "chars": [3569, 4740],
+      "lines": [131, 140]
+    },
+    {
+      "id": "E9",
+      "who": "Callie / Peter",
+      "what": "Callie 说最近不太想旅行，打开 dining table 上的 sketchbook 撕下一页写计划，说自己太忙；Peter 恭维她上镜，提到 Max 那次「silly little stunt」时她撑住了；Peter 承认自己需要「someone to be the face of the fundraisers」（想起前妻，想找个更年轻 kinder 的替代人选，但还没遇到）。",
+      "verbatim": "‘I don’t feel inclined to travel much at the moment,’ Callie said off-handedly. She opened a sketchbook that she’d left on the dining table and tore out a sheet. She started writing down a plan. ‘I’m much too busy.’ … ‘You come across wonderfully on screen. You’re like me, naturally funny. You held it together tremendously when Max pulled his silly little stunt.’",
+      "chars": [5077, 5610],
+      "lines": [143, 146]
+    },
+    {
+      "id": "E10",
+      "who": "Callie / Peter（羊毛与染坊计划）",
+      "what": "Callie 说她现在有伦敦郊外一座很好的历史私宅的专用使用权，想介绍 Marcus（他有很多羊但羊毛赚不到钱）；她想到做小批量天然染色毛线，但对执行没把握；Peter 说他可以打听所需机器、认识几家制造商；Callie 想象自己搅动一大缸冒泡的紫色。",
+      "verbatim": "‘Yes, and I do now have exclusive access to a very nice historic private house just outside London.’ … ‘I really do need to introduce you to Marcus. You’d get on. I told you that he has all the sheep and no way to make money from the wool. I had the idea to make small artisanal batches of natural dyed yarn. I’m not sure on the execution yet though.’ … ‘Do you want me to look into the machinery you’d need? I know a few manufacturers.’",
+      "chars": [5960, 6580],
+      "lines": [161, 164]
+    },
+    {
+      "id": "E11",
+      "who": "Caius（Callie 的伴侣，腹中孩子的父亲）",
+      "what": "进门与 Peter 握手，说「Not too shabby, not too shabby」（对 Peter 说自己的状态），Peter 快速站起；Caius 说「We were just talking about your dad’s wool problem」（this dad = Caius 自己的父亲）；Peter 说「I can’t stop. I’ve got a thing.」；Caius 说「Lovely to see you, Peter, if only briefly」，并意识到正是自己在场促使对方急着离开。",
+      "verbatim": "‘Hello,’ Caius said, coming into the room. ‘Hello, Peter. How are you?’ They shook hands. … ‘We were just talking about your dad’s wool problem.’ … ‘I can’t stop. I’ve got a thing,’ Peter said. … ‘Lovely to see you, Peter, if only briefly,’ Caius said, aware that it was his presence that had hastened his departure.",
+      "chars": [6573, 7180],
+      "lines": [176, 191]
+    },
+    {
+      "id": "E12",
+      "who": "Callie → Peter（临别赠言）",
+      "what": "Callie 送他到门口并把自己刚写下的 notes 交给他；她让他「Fuck setting up a charity」，直接给孟加拉国政府写支票道歉；Peter 认为这主意不坏、还能省时间，能想象头条称他「pragmatic」并哀叹自己缺 Cabinet position；Callie 又说这样能省去 faffing about with safeguarding；Peter「winked at her and left」，在路底挥手道别；Callie 关上门喊「Bye, Dad」。",
+      "verbatim": "Callie stood up and followed Peter to the door. She handed him the notes she’d just scrawled. … ‘Fuck setting up a charity. Write the Bangladeshi government a cheque. Sorry for exploiting your people. Here’s some money. Do with it however you see best. Toodle-loo.’ … ‘Very efficient.’ Peter winked at her and left. He turned around and waved goodbye from the bottom of the path. … ‘Bye, Dad,’ Callie called after him, shutting the door.",
+      "chars": [7191, 7920],
+      "lines": [194, 212]
+    },
+    {
+      "id": "E13",
+      "who": "Caius / Callie",
+      "what": "Caius 指出客人留下的痕迹：「He didn’t touch his tea,」Callie 说「He’s intimidated by you.」Caius 说自己是 pussycat，Callie 让他「Meow」并坐到他腿上。",
+      "verbatim": "‘He didn’t touch his tea,’ Caius said. … ‘He’s intimidated by you.’ … ‘Me? I’m a pussycat.’ … ‘Meow.’ Callie got up and sat in his lap.",
+      "chars": [8076, 8280],
+      "lines": [215, 224]
+    },
+    {
+      "id": "E14",
+      "who": "Caius",
+      "what": "说自己被撤下手上那桩案子，因为「The series of crimes happened on a square that my dad partially owns, something about leaseholds. I don’t know. It’s ours anyway.」（其父部分拥有的广场与租约地权）；他被批了「a couple of days off as annual leave」以便在做完 pitch 后去 Frithsden。",
+      "verbatim": "‘I’ve been taken off the case I was working on.’ … ‘The series of crimes happened on a square that my dad partially owns, something about leaseholds. I don’t know. It’s ours anyway.’ … ‘Plus side is that I was obliged to take a couple of days off as annual leave so we can head off to Frithsden as soon as you’ve done your pitch.’",
+      "chars": [8224, 8510],
+      "lines": [227, 239]
+    },
+    {
+      "id": "E15",
+      "who": "Callie / Caius（时间安排）",
+      "what": "Caius 说 pitch 在「9 a.m.」很早，十一点与 Tabs 喝咖啡，问一点午饭能不能回来；Callie 去厨房装洗碗机；Caius 把 Peter 没动的茶倒掉（tipping it away）；他问助产士预约如何，Callie 说一切都好，并会收到医院的预约信做「twelve-week scan」；Caius 吻她额头问感觉如何，Callie 说恶心但是好事；两人说「We’re going to have a baby」「They’re going to have little toes」「And a little button nose」「They’re the size of a blueberry」。",
+      "verbatim": "‘Well, the pitch is nice and early at 9 a.m., but then I’m meeting Tabs at eleven for coffee. How about I try to get back here for lunch at 1 p.m.?’ … Caius picked up Peter’s cup of tea and took it over to the sink, tipping it away. … ‘I’ll get a hospital appointment in the post for the twelve-week scan.’ … ‘We’re going to have a baby.’ … ‘They’re the size of a blueberry.’",
+      "chars": [8584, 9450],
+      "lines": [242, 266]
+    },
+    {
+      "id": "E16",
+      "who": "Callie / Caius（搬家）",
+      "what": "Callie 问是否要搬家：一居室，塞下婴儿车、婴儿床、playpen 会挤；Caius 说可以自己买房，但大概搬到 Walthamstow 最边上；Callie 说自己下午在 British Medical Journal 上读到一篇关于伦敦污染对小小肺影响的报告，于是想搬到 Hemel Hempstead（可从 Euston 坐火车、45 分钟到工位），要有独立 nursery 和真正的花园（不是 five-by-five-metre square），且父母在附近方便请保姆；叙述补出若搬去 Hertfordshire，Caius 的父亲会「foist more and more on him」，他还没做完 Met 的事。",
+      "verbatim": "‘It’s fine for us two, but fit a pram in the hallway, a cot in the bedroom, a playpen in here and it’ll be cramped. It’s only a one-bed.’ … ‘I was procrastinating earlier and read a report in the British Medical Journal on the effects of London pollution on tiny lungs.’ … ‘Near your parents. You can get the train into Euston from Hemel Hempstead. I could drop you off at the station in the morning. You’d be at your desk in forty-five minutes.’",
+      "chars": [9640, 10500],
+      "lines": [272, 299]
+    },
+    {
+      "id": "E17",
+      "who": "Callie / Caius（饮食）",
+      "what": "Callie 问还有没有橙子，说今天已经吃了 two big ones、早餐吃了 three scrambled eggs 且从没尝过这么好吃的；Caius 说会替她 online shop 买下周的东西、问 berries，并开始切 an onion and two cloves of garlic。",
+      "verbatim": "‘Have we got any more oranges?’ … ‘I guess so. I’ve eaten two big ones today already. Callie released herself. ‘I also had three scrambled eggs for breakfast and I’ve never tasted anything so delicious.’ … ‘I’ll do an online shop for next week tomorrow. Berries? They’re good for you.’ Caius began dicing an onion and two cloves of garlic.",
+      "chars": [10940, 11450],
+      "lines": [302, 311]
+    },
+    {
+      "id": "E18",
+      "who": "Eulalia 的花束",
+      "what": "Callie 说那是她短信提过的、来自 Eulalia 的花；Caius 嫌量大；Callie 翻祖母的《Language of Flowers》查到三条花语：Asphodel = “My regrets follow you to the grave”；bay leaves = “I change but in death”；red carnations = “Alas for my poor heart!”；她认为是有意为之，因为 Eulalia 知道她对 floriography 的癖好并提过；她回忆「On Monday I thought Eulalia was a bit eccentric」，说当晚有点 hyper 后又 withdrawn，觉得她孤独被困在自己的泡泡里；Caius 说她明早有 presentation，让她之后与他保持距离、除非是职业场合；他说若她真看不到迹象，日后可让「Peter’s very expensive lawyer」对付她。",
+      "verbatim": "‘Asphodel means “My regrets follow you to the grave”.’ … ‘Bay leaves mean “I change but in death”, and red carnations mean “Alas for my poor heart!”.’ … ‘On Monday I thought Eulalia was a bit eccentric. That’s not unusual for creatives. … she was oddly hyper at one point and then really withdrawn.’ … ‘Distance yourself afterwards unless it’s in a professional capacity.’",
+      "chars": [12032, 13100],
+      "lines": [326, 341]
+    },
+    {
+      "id": "E19",
+      "who": "Caius",
+      "what": "在厨房走开时从 Callie 的 sketchbook 后面撕/翻到一页，凭记忆重画 Horatio Combe 的 diagram（说「It had burnt itself in there」），问是否姿势可行，Callie 说在床底放把椅子就行；Caius 说出处是「a one-hundred-odd-year-old document」他们为案子看的；Callie 说待会想试，他答「Abso-fucking-lutely.」，锅里的洋葱开始焦。",
+      "verbatim": "He walked away from the kitchen area for a moment and grabbed one of Callie’s many sketchbooks. He flipped it to the back page and drew Horatio Combe’s diagram from memory. … ‘From a one-hundred-odd-year-old document that we were looking at for this case.’ … ‘Abso-fucking-lutely.’ Caius looked down at the pan. The onions were beginning to burn. ‘Bugger.’",
+      "chars": [13565, 14050],
+      "lines": [341, 359]
+    },
+    {
+      "id": "E20",
+      "who": "Callie / Caius（收尾）",
+      "what": "Callie 说她不能再叫他 Daddy（至少不能那样叫了），Caius 说「I suppose not.」；Caius 把 arborio rice 倒进锅里、再倒入烧开的水，忘了 garlic，stock cube 留在量杯里；他要 Callie 搅一下，他得去床尾放把椅子。",
+      "verbatim": "‘I don’t think I can call you Daddy any more. Not like that anyway.’ … ‘I suppose not.’ Caius finished pouring the arborio rice into the pan and followed it with the water from the boiled kettle. He’d forgotten the garlic and the stock cube was left waiting in the measuring jug. ‘Can you stir this? I need to put a chair at the end of bed.’",
+      "chars": [14050, 14455],
+      "lines": [362, 365]
+    }
+  ],
+  "relationships": [
+    {
+      "pair": "Peter ↔ Callie",
+      "relation": "父女（原文直接说明：「You’re my only daughter, aren’t you?」/ Callie「Am I?」/ Peter「Biologically speaking.」；叙述首句亦作 "Callie opened the front door to her father."；临别 Callie 喊「Bye, Dad」）",
+      "chars": [46, 74],
+      "also_chars": [2727, 2799],
+      "also_lines": [104, 110],
+      "note": "原文只用 "Biologically speaking" 作限定；Callie 的反应是「Am I?」+「There’s no point in me changing my name」，暗示这层父女关系本身有别扭/可疑。原文未说明姓氏矛盾的解决。"
+    },
+    {
+      "pair": "Callie ↔ Caius",
+      "relation": "同居伴侣（住在 Caius and Callie’s Flat，一居室）；Caius 是她腹中孩子的父亲（本章共同迎接孩子）",
+      "chars": [6580, 9450],
+      "lines": [170, 266]
+    },
+    {
+      "pair": "Peter ↔ Caius",
+      "relation": "来访者与男友；Peter 忌惮 Caius，Caius 在场反而加快 Peter 离开；Peter 称他「His nibs」，Callie 制止",
+      "chars": [498, 513],
+      "lines": [32, 35]
+    },
+    {
+      "pair": "Callie ↔ Max",
+      "relation": "前未婚夫/前任：Max 做过一次「silly little stunt」并送来书面正式道歉",
+      "chars": [1382, 1407],
+      "lines": [44, 44]
+    },
+    {
+      "pair": "Caius ↔ Caius 的父亲（Marcus）",
+      "relation": "Caius 说「your dad’s wool problem」——「your dad」指 Caius 自己的父亲；有羊与羊毛但赚不到钱的人",
+      "chars": [6820, 6900],
+      "lines": [182, 182]
+    },
+    {
+      "pair": "Callie ↔ Marcus",
+      "relation": "Callie 要介绍给 Peter 的人；有羊无利可图，她计划做小批量天然染色毛线",
+      "chars": [6200, 6350],
+      "lines": [161, 161]
+    },
+    {
+      "pair": "Callie ↔ Eulalia",
+      "relation": "送花者（floriography 之友），周一晚餐时表现异常；Callie 觉得她孤独被困",
+      "chars": [12484, 13100],
+      "lines": [332, 335]
+    },
+    {
+      "pair": "Caius ↔ Tabs",
+      "relation": "同事/朋友，十一点约咖啡",
+      "chars": [8632, 8654],
+      "lines": [242, 242]
+    },
+    {
+      "pair": "Harriet",
+      "relation": "Caius 家的花园派对参照对象（Peter 的订婚派对要比 Harriet 的花园派对更盛大）",
+      "chars": [3560, 3600],
+      "lines": [128, 128]
+    }
+  ],
+  "numbers_and_dates": [
+    {"item": "97 per cent of her life", "chars": [186, 216], "lines": [23, 23]},
+    {"item": "elocution lessons in the eighties", "chars": [1168, 1200], "lines": [41, 41]},
+    {"item": "Max 的书面道歉（formal apology in writing）", "chars": [1382, 1407], "lines": [44, 44]},
+    {"item": "the other month（Peter 想让 Callie 改姓）", "chars": [2618, 2632], "lines": [101, 101]},
+    {"item": "Maternity care in Bangladesh / Women’s health clinics / folic acid", "chars": [3569, 3660], "lines": [131, 131]},
+    {"item": "a couple of days off as annual leave；去 Frithsden", "chars": [8468, 8510], "lines": [239, 239]},
+    {"item": "pitch 9 a.m.；Tabs 11 点；午饭 1 p.m.", "chars": [8584, 8719], "lines": [242, 242]},
+    {"item": "twelve-week scan（医院的预约信）", "chars": [9040, 9084], "lines": [248, 248]},
+    {"item": "It's only a one-bed", "chars": [9730, 9737], "lines": [272, 272]},
+    {"item": "five-by-five-metre square（花园）", "chars": [10352, 10370], "lines": [296, 296]},
+    {"item": "British Medical Journal（伦敦污染对小小肺）", "chars": [9949, 9972], "lines": [284, 284]},
+    {"item": "Euston from Hemel Hempstead；forty-five minutes 到工位", "chars": [10150, 10274], "lines": [296, 296]},
+    {"item": "two big ones（橙子）today；three scrambled eggs for breakfast", "chars": [11106, 11192], "lines": [308, 308]},
+    {"item": "an onion and two cloves of garlic", "chars": [11400, 11450], "lines": [311, 311]},
+    {"item": "On Monday I thought Eulalia was a bit eccentric", "chars": [12484, 12511], "lines": [332, 332]},
+    {"item": "Presentation tomorrow morning", "chars": [12834, 12863], "lines": [335, 335]},
+    {"item": "Asphodel = “My regrets follow you to the grave”", "chars": [12032, 12120], "lines": [326, 326]},
+    {"item": "bay leaves = “I change but in death”", "chars": [12150, 12250], "lines": [326, 326]},
+    {"item": "red carnations = “Alas for my poor heart!”", "chars": [12250, 12330], "lines": [326, 326]},
+    {"item": "one-hundred-odd-year-old document（Horatio Combe diagram 出处）", "chars": [13890, 13923], "lines": [353, 353]}
+  ],
+  "open_questions_for_r3": [
+    "Peter 的姓氏与「You’re not a Simpson, are you?」「the Simpson Foundation」「Simpson Foundation」的关系：原文未直接交代 Callie 为何不是 Simpson，也未交代 Peter 是否姓 Simpson。md 若断言「Peter Simpson 是 Callie 生父且姓 Simpson」需核对是否与原文冲突。",
+    "原文对关系只有 "Biologically speaking" 一句限定：md 若写成「亲生父亲」「养父」等，须逐字核。",
+    "客人在屋里留下的痕迹，原文明确提到的只有：coffee table 上的 file（Simpson Foundation 文件）、没碰的茶（后来被 Caius 倒掉）、Callie 交给他的 notes（她撕下的 sketchbook 纸）。"
+  ]
+}

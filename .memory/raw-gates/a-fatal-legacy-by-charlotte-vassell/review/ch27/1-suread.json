@@ -1,0 +1,128 @@
+{
+  "chapter": "ch27",
+  "title": "St John’s Wood",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch27_27.txt",
+  "source_chars": 17033,
+  "read_protocol": "R1 素读：只读 text/ch27_27.txt，未读任何 md、笔记或其他章；未回忆。偏移量按 Python 字符索引（0 起）计。",
+  "events": [
+    {
+      "id": 1,
+      "char_range": [106, 134],
+      "line_range": "23",
+      "who": "Caius → Callie",
+      "what": "Caius 视频打来（从工作间 break room），说自己「今晚会晚回来」，镜头里带着「刚要告诉别人毁灭性消息」的表情；Callie 回说自己今晚在外面吃饭，对象是「不能公开名字的那位」。",
+      "verbatim": "‘I’m going to be back late,’ Caius said over video. He was calling from the break room at work",
+      "also": "Callie 说动物园该办会员，等孩子会走路就每周末去；Caius 提到他妈有他穿 multicoloured dungarees 在企鹅那里的照片。宝宝致郁（colic）话题：Callie 网上读到过，说「我倒觉得我们会是挺不错的父母」。"
+    },
+    {
+      "id": 2,
+      "char_range": [1415, 1790],
+      "line_range": "56",
+      "who": "Callie",
+      "what": "Callie 讲自己的「项目」进度：情绪板（mood boards）做到「很十三世纪」，餐厅桌面上到处是丝绒（velvet）；读到一位叫 Marie de France 的诗人，说她是「spectacular poetess」，在性别政治上很超前，有 theories 说她是 abbess；Callie 十三岁时 seriously considered 当修女，只持续了一周。",
+      "verbatim": "‘I’m getting there with the mood boards. It’s all very thirteenth century. Be warned, there’s velvet all over the dining room table. … There’s a theory she was an abbess. … When I was thirteen I seriously considered becoming a nun. It only lasted a week’",
+      "numbers": ["thirteenth century", "thirteen", "a week"]
+    },
+    {
+      "id": 3,
+      "char_range": [2530, 3247],
+      "line_range": "62",
+      "who": "Callie",
+      "what": "Callie 收起 Caius 的电话后继续走，放的播客是 Julian of Norwich（因为 Eulalia 提过这个名字）；她已见过 Eulalia，于是再听不下去她的专辑——「太私人了」；Eulalia 的歌「在隐喻上、身体上、情感上」唱着试图自杀，Callie 觉得那专辑「destructive」，Eulalia 一定「先破碎再重造自己」，这能解释她当面时那种「ethereal detachedness」；Callie 把自己也算进去：「99 per cent a complete and yet fragmented person, and 1 per cent a soulless dream」。",
+      "verbatim": "Now that she’d met Eulalia she couldn’t bear to listen to her music. It felt weird. Too personal. She sang about trying to kill herself metaphorically, physically and emotionally. That album was destructive. … She’d stared into the bleak abyss and come back 99 per cent a complete and yet fragmented person, and 1 per cent a soulless dream.",
+      "numbers": ["99 per cent", "1 per cent"]
+    },
+    {
+      "id": 4,
+      "char_range": [3248, 4520],
+      "line_range": "62–71",
+      "who": "Callie / Eulalia",
+      "what": "Callie 到达一家「评价好但过贵」的意大利餐厅，装修矫情、灯光昏暗、卡座厚软。**Eulalia 已经在门口等她**——Callie 本以为会被晾着、被告知自己只是低阶外包、不重要；Eulalia 似乎也不搞这套（Callie 猜这正是她姐姐管生意的原因）。Callie 说「Hey, you」并亲她脸颊；Eulalia 提议意大利菜／韩式烤肉／街对面寿司店，问她是不是 sushi person，又说她像 Botticelli 画、pearly、「Did you pop out of a clam fully formed?」。Callie 不想吃寿司，脑子里出现 Caius 过度保护地让她吃千层面别吃三文鱼 avocado maki，想到意大利菜可能有开心果甜点，于是**主动决定**进意大利餐厅，对 maître d’ 说 **‘Table for two, please.’**",
+      "verbatim": "Eulalia was already waiting for her outside. Callie wasn’t expecting that. … ‘Here looks good.’ … Callie walked into the restaurant and up to the maître d’. ‘Table for two, please.’",
+      "table_count": "两人桌（Callie + Eulalia）。**Mel 不在场**。"
+    },
+    {
+      "id": 5,
+      "char_range": [4628, 5180],
+      "line_range": "77–89",
+      "who": "Callie / Eulalia",
+      "what": "餐厅「pretty busy for a Wednesday」。Callie 说「So many first dates」，并解释自己的老把戏：推断谁会 ghost 谁，把对方拖进一场「猜别人在干什么」的臆测里，制造共谋式亲密。Eulalia 贴着她耳朵低语、**在她轨道里停留得略久**，Callie 因此脸红；Eulalia 转头看邻桌「That couple in the window」。两人猜：窗边那对是「Blondie in the olive-green shift dress」和「the office drone in the Ralph Lauren polo」；Callie 说女方更上心，并预言男方今晚会睡她、答应下周约酒发短信然后消失。Callie 补充他看起来 mid-thirties、她更年轻，**Five-year age gap**，他在「该成家了」的年纪。",
+      "verbatim": "‘My favourite game is to work out who’s going to ghost who.’ … She stayed a little too long in Callie’s orbit and to her surprise, Callie blushed. … ‘Five-year age gap.’",
+      "numbers": ["five-year age gap", "mid-thirties"]
+    },
+    {
+      "id": 6,
+      "char_range": [6458, 6640],
+      "line_range": "119",
+      "who": "Callie / Eulalia",
+      "what": "侍者来点单，Eulalia 想点一 carafe 葡萄酒，但 Callie 说自己的皮肤科医生让她为了脸停酒，于是 Eulalia 只能要了 **a solo glass of Valpolicella**，Callie 自己「daintily refrained」点了 **a Limonata**。",
+      "verbatim": "Eulalia tried to order a carafe of wine but Callie said her dermatologist had told her to stop drinking for the sake of her complexion, so Eulalia had had to settle for a solo glass of Valpolicella while Callie daintily refrained and ordered a Limonata."
+    },
+    {
+      "id": 7,
+      "char_range": [7909, 10070],
+      "line_range": "137–168",
+      "who": "Callie / Eulalia（Mel 全程只在被谈论中，不在场）",
+      "what": "Eulalia 说录音「Phenomenal」，昨天与制作人 Sonikk 录过；Callie 请求先听一下专辑，Eulalia 说「I don’t think Mel would like that」；Callie 给两人各倒了杯桌角小水壶里的水，低声说「不想给你惹麻烦」；Eulalia 骂「Mel is such a pain in the arse」，Callie 则说「她只是在保护你的利益」，并把 Eulalia 读成有点「lost child」、天真的样子，判断她在被身边人占便宜（starlet 沦为提款机）。Eulalia 认真问「Do you like me?」，Callie 用美式口音敷衍「I think you’re swell」后立刻换话题（心里只想要钱、不想交朋友）。关于头饰：Eulalia 说 Mel 现在改口——现场演出戴、拍照与采访露脸；Callie 说自己之前不知道，周五上午开会前得现想方案，首选「doll heads. Rosebud lips and humungous eyes」；Eulalia 回「Oh my God, I love dolls … I knew you were the right person for me.」",
+      "verbatim": "‘I don’t think Mel would like that.’ … ‘Mel is such a pain in the arse.’ … ‘Looks to me like she’s just protecting your interests.’ … ‘I don’t want to make friends, only to get paid.’",
+      "mel_present": false
+    },
+    {
+      "id": 8,
+      "char_range": [11369, 12904],
+      "line_range": "197–209",
+      "who": "Callie / Eulalia / 邻桌男士",
+      "what": "餐后侍者送来 **two limoncellos**，说是「Courtesy of the gentleman over there」（坐在吧台的男人）。Callie 点头（礼貌），心想他们快吃完了。Eulalia 却把胳膊搭上 Callie 的肩、亲她脸颊「marked her territory」，然后冲那男人竖中指。随后 Eulalia 叫账单，**从口袋里掏出 £60 放在桌上、不等找零就起身走人**，把 Callie 一个人撂在座位上。Callie 这才发现 Eulalia 连包都没带；她匆忙收拾、**遗憾地留下吃了一半的意面**追出去。街上 Eulalia 茫然盯着车流，Callie 一时有种「Eulalia 会走到迎面来的车前面」的幻象。",
+      "verbatim": "The waiter reappeared with two limoncellos. ‘Courtesy of the gentleman over there,’ … Eulalia took out £60 from her pocket, put it on the table and got up without waiting for her change. … regrettably leaving her pasta unfinished",
+      "numbers": ["two limoncellos", "£60"]
+    },
+    {
+      "id": 9,
+      "char_range": [13561, 16010],
+      "line_range": "227–278",
+      "who": "Callie / Eulalia（Mel 仍不在场）",
+      "what": "人行道上的暗流：Callie 说「You must get shit like that all the time」，Eulalia 说「Just trying to have dinner in peace」，并说「I told Mel that I wouldn’t do it any more if I had to keep wearing them」。聊 Caius 时：Eulalia 追问「He’s a policeman, right?」，Callie 说 Caius 有很强的 public duty，提到**Caius 父母的背景是 Irish 和 Jamaican**、他因此对不公特别敏感，「Caius tries and he fails, but he keeps on trying」；Eulalia 说「God loves a trier」，Callie 顺口说「You bet He does」，Eulalia 接「I think God’s a woman」。Callie 说「Men can be awful」/「Yours isn’t」/「No, but there have been a lot of frogs」。",
+      "verbatim": "‘I told Mel that I wouldn’t do it any more if I had to keep wearing them.’ … Caius’s parents’ backgrounds are Irish and Jamaican … ‘Caius tries and he fails, but he keeps on trying.’",
+      "mel_present": false
+    },
+    {
+      "id": 10,
+      "char_range": [16010, 17033],
+      "line_range": "281–321",
+      "who": "Callie / Eulalia",
+      "what": "Callie 转移话题到 Julian of Norwich（Eulalia 说「Julian! I love Julian!」并提到附近有被烧死的 mystic nun），Callie 恶心感回归，Eulalia 说「You look a little pale」。Callie 拦到一辆亮灯的 black cab，向 Eulalia 道谢「Thank you so much for inviting me out」；Eulalia 失望并邀她回自己家听唱片，Callie 以「I’ve got a big day tomorrow ahead of Friday’s meeting」推掉，Eulalia 说「You’ll have to invite me round to yours soon」「And I’d love to see your boyfriend’s house」，Callie 用礼貌笑容回「One day, perhaps.」。上车后 Callie 给司机报了地址，并在后座给 Caius 发短信说 **Eulalia 有点怪**。",
+      "verbatim": "‘I’ve got a big day tomorrow ahead of Friday’s meeting.’ … she texted Caius from the back of the cab that Eulalia was kind of weird."
+    }
+  ],
+  "characters": {
+    "在场吃饭的人": ["Callie", "Eulalia"],
+    "餐桌旁其他人": ["maître d’（引路入座）", "waiter（点单、送账单）", "邻桌男士（吧台，送两杯 limoncello）", "邻桌那对（Blondie / Ralph Lauren polo 男）"],
+    "不在场（仅被谈论）": ["Mel（制作人／经纪人，全程未到场，只被提及）", "Caius（Callie 的男友，章初视频通话、结尾收短信）", "Callie 的姐姐（管生意方，未出场）", "Sonikk（制作人，未出场）", "Dotty（大学时的朋友，未出场）"],
+    "关系": [
+      "Callie ↔ Caius：同居／即将成为父母；Caius 是警察。",
+      "Callie ↔ Eulalia：客户—外包（Eulalia 的「paramour」/未婚妻，Callie 是执行拍摄与形象的工作方）；Eulalia 依赖 Callie 也疑似利用 Callie；饭桌上互相试探并有身体亲近（挽臂、亲脸颊）。",
+      "Callie ↔ Mel：Callie 认为 Mel 在保护 Eulalia 的利益；Eulalia 抱怨 Mel 是「pain in the arse」。Mel 与 Callie 的合作关系此前「把她们排除在外」。"
+    ]
+  },
+  "numbers_and_dates_verbatim": [
+    "thirteenth century",
+    "When I was thirteen I seriously considered becoming a nun. It only lasted a week",
+    "99 per cent a complete and yet fragmented person, and 1 per cent a soulless dream",
+    "He looked to be in his mid-thirties and she was younger",
+    "Five-year age gap",
+    "a solo glass of Valpolicella",
+    "ordered a Limonata",
+    "two limoncellos",
+    "£60",
+    "It was pretty busy for a Wednesday",
+    "Friday’s meeting",
+    "a big day tomorrow ahead of Friday’s meeting",
+    "could not have even possibly seen him for longer than the ten seconds he was on screen",
+    "Caius’s parents’ backgrounds are Irish and Jamaican"
+  ],
+  "chapter_specific_checks": {
+    "餐桌旁究竟坐着几个人": "两人：Callie 与 Eulalia。原文证据：‘Table for two, please.’（char 4516–4540），随后 ‘A waiter seated them to the side near the bar.’（char 4536 起）",
+    "Mel 是否在场": "**不在场**。Mel 在本章只作为被谈论的对象出现（char 7909 起的 ‘I don’t think Mel would like that.’、char 10426 ‘Mel says I can’t eat bread.’、char 13561 ‘I told Mel that I wouldn’t do it any more…’），全文无 Mel 在场的动作描写。",
+    "倒酒动作": "Callie 给两人各倒了一杯桌角小水壶里的水（char 8026 起 ‘Callie poured them each a glass of water from the tiny jug on the table.’）——是**水**，不是酒；酒是邻桌男士送的两杯 limoncello。"
+  }
+}
