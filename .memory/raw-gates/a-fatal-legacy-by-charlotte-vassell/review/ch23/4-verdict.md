@@ -103,3 +103,13 @@ bash scripts/chapter.sh "notes/books/mystery-thriller/a-fatal-legacy-by-charlott
 /usr/bin/grep -n "^‘Good.’" notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch23_23.txt
 /usr/bin/grep -n "boyfriend" notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch23_23.txt
 ```
+
+
+---
+
+## 书级例句全串核验（2026-10-21，主会话收口补记）
+
+- 本章词表有 **1 条**例句未通过「全串逐字」核验（`check_vocab` 只取前 60 字符指纹，故判绿）：
+  - `lasagne`：原文该对白仍在延续，md 补了凭空的开引号与收尾引号
+- 处置：去掉凭空的开引号与收尾引号
+- 详见 `.memory/raw-gates/a-fatal-legacy-by-charlotte-vassell/vocab-full-string-audit.md`（书级审计记录与探针说明）。

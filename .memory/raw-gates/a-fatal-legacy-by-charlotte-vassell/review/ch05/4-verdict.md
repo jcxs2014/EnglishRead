@@ -66,3 +66,13 @@
 - 本次只写 `.memory/raw-gates/a-fatal-legacy-by-charlotte-vassell/review/ch05/` 下 1-suread.json / 2-machine.json / 3-diff.md / 4-correspondence.md / 4-verdict.md 五份；
 - **未改动书目录任何 md**，未 `git add`、未 `git commit`、未推送；
 - 所有引语与数字均逐字抄自 `text/ch05_5.txt`（区间为本文件 0-based 半开区间，行号即 `text/ch05_5.txt` 行号）。
+
+
+---
+
+## 书级例句全串核验（2026-10-21，主会话收口补记）
+
+- 本章词表有 **1 条**例句未通过「全串逐字」核验（`check_vocab` 只取前 60 字符指纹，故判绿）：
+  - `disbanded`：md 补了原文没有的收尾引号（原文该句对白仍在延续）
+- 处置：去掉收尾引号，按原文留到句末
+- 详见 `.memory/raw-gates/a-fatal-legacy-by-charlotte-vassell/vocab-full-string-audit.md`（书级审计记录与探针说明）。

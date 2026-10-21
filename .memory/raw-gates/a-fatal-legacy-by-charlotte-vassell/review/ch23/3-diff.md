@@ -144,3 +144,13 @@ md 中出现的数字/日期全部与原文一致，无凭空数字：`at least 
 - 词汇表 28 条例句：27 条逐字命中（`isolated` 的例句是 `She seemed so isolated when he saw her.`，与 `text/ch23_23.txt:349` 一致，**不是**误写）；仅 `lasagne` 一条为截断（见 E6）。
 - 原文 `text/ch23_23.txt:322`：`she left with a volume of poetry` —— 印证 md block 6 把 `a slim volume` 译作「薄薄的诗集」是对的。
 - md block 5 把 `‘Good.’` 之前的 `text/ch23_23.txt:295` `‘I like her vibe.’` 归给欧拉莉亚——正确（block 6 中文理解亦然）。
+
+
+---
+
+## 书级例句全串核验（2026-10-21，主会话收口补记）
+
+- 本章词表有 **1 条**例句未通过「全串逐字」核验（`check_vocab` 只取前 60 字符指纹，故判绿）：
+  - `lasagne`：原文该对白仍在延续，md 补了凭空的开引号与收尾引号
+- 处置：去掉凭空的开引号与收尾引号
+- 详见 `.memory/raw-gates/a-fatal-legacy-by-charlotte-vassell/vocab-full-string-audit.md`（书级审计记录与探针说明）。

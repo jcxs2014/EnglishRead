@@ -41,3 +41,13 @@
 - **(a)(b)(c)**：(a) 是。(b) 施事**未写反**：仍是 Caius（md「凯厄斯说」✓）；原文 "they're super posh" 的 they＝写信人，md「写信人」✓；「它出自瓦格纳的一部歌剧」＝ "It's from an opera by Wagner"（it＝化名 Isolde）✓；「他不肯承认这个事实五分钟前他还不知道」＝ "Caius wasn’t going to admit that this fact had been new to him five minutes ago" ✓；「上面还写着'我出身小资产阶级家庭'」＝ "It says, 'I come from a petit bourgeois family.'" ✓。用词轻微偏移：「super posh」译「不折不扣的贵族」偏 aristocratic（原文更接近「极有钱有势/上流」）；"culture vulture" mark 译「'文化蛀虫'那一档」把 mark（标签）读成「档位/分级」（提示级）。(c) **分析越界（阻断级）**：「为什么这样写」写「调查在这里**从物证转到笔迹**，他们开始拆写信人给自己搭的身份」——原文**没有任何笔迹调查**，本章这条线是**化名**（Isolde 取自 Wagner 的 Tristan and Isolde）与交友广告上的**自我描述**（"culture vulture" mark / "I come from a petit bourgeois family."）；md 后半句「再从那句出身自述反推对方挑选化名的方式」才是对的，「从物证转到笔迹」是凭空添加的调查内容。
 - **两侧片段**：原文 4088–4404 `‘It’s either fake or they’re super posh. It’s from an opera by Wagner.’… ‘They’ve handpicked it based on their “culture vulture” mark. It says, “I come from a petit bourgeois family.”’`｜md 79 `调查在这里从物证转到笔迹，他们开始拆写信人给自己搭的身份：先怀疑名字是编的，再从那句出身自述反推对方挑选化名的方式。`
 
+
+
+---
+
+## 书级例句全串核验（2026-10-21，主会话收口补记）
+
+- 本章词表有 **1 条**例句未通过「全串逐字」核验（`check_vocab` 只取前 60 字符指纹，故判绿）：
+  - `disbanded`：md 补了原文没有的收尾引号（原文该句对白仍在延续）
+- 处置：去掉收尾引号，按原文留到句末
+- 详见 `.memory/raw-gates/a-fatal-legacy-by-charlotte-vassell/vocab-full-string-audit.md`（书级审计记录与探针说明）。

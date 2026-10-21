@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "book": "A Fatal Legacy (Charlotte Vassell)",
+    "chapter": 14,
+    "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch14_14.txt",
+    "source_chars": 3550,
+    "source_lines": 113,
+    "read_order": "R1 素读，只读 text/ch14_14.txt，未开任何 md",
+    "char_range_convention": "0-indexed half-open [start,end) on the raw file text"
+  },
+  "events": [
+    {
+      "id": 1,
+      "span": [
+        48,
+        270
+      ],
+      "who": "Caius / Amy / Matt",
+      "what": "Caius 在吧台点单：问 Amy 喝什么，Amy 答 'A dandelion and burdock, please.'；Caius 问 Matt 要不要 'Craft beer with the best pun for a name?'，Matt 答 'Yes, sir.'；Caius 走向吧台，把 Matt 和 Amy 单独留在 conservatory。",
+      "quotes_verbatim": [
+        "‘What are you having, Amy?’ Caius asked.",
+        "‘A dandelion and burdock, please.’",
+        "‘Matt? Craft beer with the best pun for a name?’",
+        "‘Yes, sir.’",
+        "Caius walked over to the bar, leaving Matt and Amy alone in the conservatory."
+      ]
+    },
+    {
+      "id": 2,
+      "span": [
+        273,
+        650
+      ],
+      "who": "Amy / Matt（旁白交代）",
+      "what": "Amy 问 Matt 凯厄斯有没有再提那个 'stupid special unit'；Matt 答 'Nope.'。旁白：他们被召到 Chief Superintendent 的办公室、被告知该专案组（special unit）已关闭（closure），时间点是 'a little over three weeks ago'；没闹出多大动静。Arthur Hampton（该专案组的 originator）已优雅退出 Cabinet 并引发一场领导权争夺（leadership contest）。",
+      "quotes_verbatim": [
+        "‘Caius mention anything more about that stupid special unit?’ Amy asked Matt.",
+        "‘Nope.’ They’d been summoned to the Chief Superintendent’s office a little over three weeks ago and had been informed of its closure. Little fuss had been made.",
+        "They’d all seen it coming since Arthur Hampton, its originator, had gracefully bowed out of the Cabinet and caused a leadership contest."
+      ]
+    },
+    {
+      "id": 3,
+      "span": [
+        653,
+        780
+      ],
+      "who": "Amy（其后的心理活动）",
+      "what": "Amy 说 'I’m so glad it’s been closed down.'；叙述者补：她 relieved to no longer have the possibility of being compromised hanging over her（不再悬着「可能被牵连」这回事），但在她看来被拖进真正骇人的阴谋的威胁 'would never quite go away now'（永远不会完全消失）。",
+      "quotes_verbatim": [
+        "‘I’m so glad it’s been closed down.’ Amy was relieved to no longer have the possibility of being compromised hanging over her. Although to her mind the threat of being dragged into a truly heinous conspiracy would never quite go away now."
+      ]
+    },
+    {
+      "id": 4,
+      "span": [
+        894,
+        1277
+      ],
+      "who": "Matt / Amy（Amy's 内心）",
+      "what": "Matt 随口问 'I wonder what will replace it?'（指被关闭的专案组会被什么取代）；Amy 反问 'What do you mean?'；Matt 答 'Something will. Hampton’s down but he’s not out.'。Amy 点头，看着在吧台的 Caius：他说起专案组关闭时只说过电梯里那句 'Well, that’s that'。Amy 内心：'I feel like I know everything about Caius, and yet I somehow also feel like I know nothing about him either.'",
+      "quotes_verbatim": [
+        "‘I wonder what will replace it?’ Matt said off-handedly.",
+        "‘What do you mean?’",
+        "‘Something will. Hampton’s down but he’s not out.’",
+        "Amy nodded. She watched Caius at the bar. He hadn’t mentioned the unit closing beyond uttering ‘Well, that’s that’ in the lift afterwards.",
+        "‘I feel like I know everything about Caius, and yet I somehow also feel like I know nothing about him either.’"
+      ]
+    },
+    {
+      "id": 5,
+      "span": [
+        1280,
+        1678
+      ],
+      "who": "Matt / Amy（说话人）",
+      "what": "Matt 说凯厄斯对专案组的结束 'taken ... harder than I thought he would'，并推测 'I think he saw it as his chance to work out what happened to his sister'（原文用 I think＝推测），又说 'The whole tit-for-tat off-the-books thing meant he could’ve actually had a go but he never really got a chance.'。Amy 追问 'Do you still think he’s going to quit?'，Matt 答 'Yeah.'，并说 'His family will make him or maybe even Callie.'（原文如此；凯厄斯的姐姐在文中未具名，未说明是否即 Callie）。",
+      "quotes_verbatim": [
+        "‘He’s taken the end of the special unit harder than I thought he would. I think he saw it as his chance to work out what happened to his sister. The whole tit-for-tat off-the-books thing meant he could’ve actually had a go but he never really got a chance.’",
+        "‘Do you still think he’s going to quit?’",
+        "‘Yeah.’ Matt watched Caius from across the pub.",
+        "‘His family will make him or maybe even Callie.’"
+      ]
+    },
+    {
+      "id": 6,
+      "span": [
+        1682,
+        2121
+      ],
+      "who": "Caius / Matt / Amy",
+      "what": "Caius 端着三只杯子（'the classic triangle formation'）回来，下巴和脖子之间夹着两包薯片；给 Matt 的啤酒是 'And Ale Tell You One Thing'，一款 guest IPA；给 Amy 的仍是 dandelion and burdock，唤她 'Miss 1932'。Matt 'I’ll try anything once.'；Amy 'I like it, it tastes like medicine. Like an old-fashioned health tonic. It’s probably good for me.'",
+      "quotes_verbatim": [
+        "Caius arrived at the table holding three glasses in the classic triangle formation and two packets of crisps wedged between his chin and neck.",
+        "‘Matt, I went with a pint of “And Ale Tell You One Thing”. It’s a guest IPA.’",
+        "‘And a dandelion and burdock for Miss 1932, here.’",
+        "‘I’ll try anything once,’ Matt said, gladly taking the pint.",
+        "‘I like it, it tastes like medicine. Like an old-fashioned health tonic. It’s probably good for me.’"
+      ]
+    },
+    {
+      "id": 7,
+      "span": [
+        2186,
+        3035
+      ],
+      "who": "Amy / Caius / Matt",
+      "what": "Amy 在 Matt 来得及转移话题前说 'Hampton,' 并问 'Heard from him?'；Caius 答 'I have. I left him on read.'。Matt 'That’s probably for the best,'（叙述：Matt 认为 Hampton 不可能不生 Caius 的气，哪怕潜意识里）；Matt 问 'How’s Callie?'，Caius 答 'On edge. She’s had this special commission come in on the weekend that she’s excited for but it’s stressing her out.'；Amy 'I bet she’s still upset over her dickhead ex.'；Caius 'Oh yeah, but Callie’s got a more general air of minor violence about her than usual. Hormones. Has to be.'，随即问 Amy 'Do you get really bad PMT?'；Amy 'Well, I’m a reformed Regina George type so I just let everything out when I play netball.'；Caius 'Callie’s not really one for contact sports. She’s a floaty yoga and a stroll around Hampstead Heath sort of woman.'",
+      "quotes_verbatim": [
+        "‘Hampton,’ Amy said, before Matt could change the subject. ‘Heard from him?’",
+        "‘I have. I left him on read.’",
+        "‘That’s probably for the best,’ Matt said. He didn’t think it was possible for Hampton to not be mad with Caius, even subconsciously.",
+        "‘How’s Callie?’",
+        "‘On edge. She’s had this special commission come in on the weekend that she’s excited for but it’s stressing her out.’",
+        "‘I bet she’s still upset over her dickhead ex.’",
+        "‘Oh yeah, but Callie’s got a more general air of minor violence about her than usual. Hormones. Has to be.’",
+        "‘Do you get really bad PMT?’",
+        "‘Well, I’m a reformed Regina George type so I just let everything out when I play netball.’",
+        "‘Callie’s not really one for contact sports. She’s a floaty yoga and a stroll around Hampstead Heath sort of woman.’"
+      ]
+    },
+    {
+      "id": 8,
+      "span": [
+        3038,
+        3549
+      ],
+      "who": "Matt / Caius / Amy",
+      "what": "Matt 挥动手比划凯厄斯那份新得的祖宅（'new-found ancestral pile'）之大，问 'How’s the house and all that?' 以及 'Your dad still trying to get you to work for him?'；Caius 答 'Yeah, but he’d drive me insane,'，随后说 'I’m getting used to it all. I think I’m going to get too used to it. I’d invite you guys up, but I appreciate that you might not fancy it.'（此句说话人＝Caius，谈的是祖宅与其父，不是酒吧）。Matt 'One weekend perhaps,' being diplomatic；Amy 'Yeah,'，抿着她的 dandelion and burdock。",
+      "quotes_verbatim": [
+        "‘How’s the house and all that?’ Matt asked, waving his hands to demonstrate the enormity of Caius’s new-found ancestral pile. ‘Your dad still trying to get you to work for him?’",
+        "‘Yeah, but he’d drive me insane,’ Caius said, before taking a sip of his pint. ‘I’m getting used to it all. I think I’m going to get too used to it. I’d invite you guys up, but I appreciate that you might not fancy it.’",
+        "‘One weekend perhaps,’ Matt said, being diplomatic.",
+        "‘Yeah,’ Amy said, sipping on her dandelion and burdock."
+      ]
+    }
+  ],
+  "relationships": [
+    "Caius / Matt / Amy：同事，同属被撤销的 special unit（旁白称 'They’d been summoned to the Chief Superintendent’s office'），此刻在 The Red Lion Public House 的 conservatory 喝东西。",
+    "Arthur Hampton：special unit 的 originator，已退出 Cabinet 并引发领导权争夺；Matt 认为 'Hampton’s down but he’s not out'；Caius 对他 'left him on read'。",
+    "凯厄斯的姐姐：只存在于 Matt 的推测里（'what happened to his sister'），文中未具名、未交代下落，也未说明她是否就是 Callie。",
+    "Callie：凯厄斯身边的女人（Matt 问 'How’s Callie?'，Caius 答她 'On edge'、有周末的 special commission、爱激动、有个 'dickhead ex'、被形容为 'a floaty yoga and a stroll around Hampstead Heath sort of woman'）；她与凯厄斯的确切关系原文未写。",
+    "凯厄斯的父亲：'Your dad still trying to get you to work for him?'；凯厄斯有 'new-found ancestral pile'（祖宅）。",
+    "Amy：与凯厄斯关系亲近——Caius 说 'They didn’t really have boundaries any more'（对 Amy 说），并向她打听 PMT；两人有来回玩笑。"
+  ],
+  "numbers_dates_verbatim": [
+    {
+      "text": "a little over three weeks ago",
+      "span": [
+        419,
+        448
+      ],
+      "meaning": "被召到 Chief Superintendent 办公室并得知专案组关闭的时间点"
+    },
+    {
+      "text": "three glasses",
+      "span": [
+        1717,
+        1730
+      ],
+      "meaning": "Caius 一次端回三只杯子"
+    },
+    {
+      "text": "two packets of crisps",
+      "span": [
+        1769,
+        1790
+      ],
+      "meaning": "夹在下巴与脖子之间的薯片包数"
+    },
+    {
+      "text": "Miss 1932",
+      "span": [
+        2001,
+        2010
+      ],
+      "meaning": "Caius 给 Amy 那杯 dandelion and burdock 的称呼"
+    },
+    {
+      "text": "a guest IPA",
+      "span": [
+        1889,
+        1900
+      ],
+      "meaning": "Matt 那杯 “And Ale Tell You One Thing” 的类型"
+    },
+    {
+      "text": "the weekend",
+      "span": [
+        2504,
+        2515
+      ],
+      "meaning": "Callie 的 special commission 排在周末"
+    },
+    {
+      "text": "14",
+      "span": [
+        0,
+        2
+      ],
+      "meaning": "章号（文本首行与第 12 行各出现一次）"
+    }
+  ],
+  "flags_from_suread": [
+    "原文全章没有任何一句说 The Red Lion Public House（酒吧）要关闭；被关闭的是 special unit（专案组）。『什么会取代它』一句的 it 指专案组，不是酒吧。",
+    "『我快习惯了』（'I'm getting used to it all'）的说话人是 Caius，谈的是他新得的祖宅与父亲的安排，不是酒吧、也不是日常据点。",
+    "『姐姐』只出现在 Matt 的推测句里（'I think he saw it as his chance to work out what happened to his sister'），是推测不是事实；原文没说姐姐就是 Callie，也没给名字。",
+    "文本首行与第 12 行各有一个 '14'，其间为空行；未见 'A Monday in May' 字样（疑为提取丢行，待核）。"
+  ]
+}

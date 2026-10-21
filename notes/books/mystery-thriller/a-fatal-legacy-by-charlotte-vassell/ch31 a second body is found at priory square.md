@@ -75,7 +75,7 @@ source_text: ch31
 | lager-swilling dilettante | 豪饮啤酒的业余选手 | He was a lager-swilling dilettante, or at least that was the personality he performed, and yet Jimmy had a pasta machine on the kitchen side. |
 | tortellini | 意式小馄饨 | Caius stopped thinking of Jimmy in the abstract and started thinking about him making tortellini in his kitchen. |
 | shrubbery | 灌木丛 | The feminist blob monument in the middle of the square gleamed through the shrubbery in the unrelenting sunshine. |
-| mews | （伦敦的）马厩改建成的住宅街 | ‘It’s not Chelsea. There are no mews. |
+| mews | （伦敦的）马厩改建成的住宅街 | It’s not Chelsea. There are no mews. |
 | supermodel | 超级名模 | ‘He probably purchased it before the finance bros moved in when it was the early days of Kate Moss and Sienna Miller supermodel boho. |
 | eurotrashy | 欧洲低俗品位式的 | It was a bit eurotrashy. |
 | paracetamol | 扑热息痛（对乙酰氨基酚） | He found nothing other than half a packet of paracetamol and a pair of tweezers. |
@@ -85,7 +85,7 @@ source_text: ch31
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| crumbling | 碎裂的；崩落的 | 'This one looks like an accident. The poor guy simply hit his head on the iron railing after slipping on the crumbling stone steps. |
+| crumbling | 碎裂的；崩落的 | ‘This one looks like an accident. The poor guy simply hit his head on the iron railing after slipping on the crumbling stone steps.’ |
 | undamaged | 完好无损的 | He inspected the back gate which was undamaged and closed but unlocked. |
 | alleyway | （房子背后的）小径、暗巷 | This alleyway runs around the back of the whole square, separating them from the houses behind. |
 | hallucinating | 产生幻觉 | He may just have been hallucinating. |
@@ -101,15 +101,15 @@ source_text: ch31
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | gate | 院门；大门 | He inspected the back gate which was undamaged and closed but unlocked. |
-| body | 尸体 | 'What is this case you’re working on?' Barry asked, getting up from crouching over the latest body found in the square. |
+| body | 尸体 | ‘What is this case you’re working on?’ Barry asked, getting up from crouching over the latest body found in the square. |
 | steps | 台阶 | They walked up the stone steps – Caius’s third set that week on the square. |
-| square | 广场 | 'But I wouldn’t want to live on this square. I’d be worried I would be next.' |
-| accident | 意外事故 | 'This one looks like an accident. |
+| square | 广场 | ‘But I wouldn’t want to live on this square. I’d be worried I would be next.’ |
+| accident | 意外事故 | ‘This one looks like an accident. |
 | railing | 栏杆 | The poor guy simply hit his head on the iron railing after slipping on the crumbling stone steps. |
 | fans | 粉丝 | Apparently, Jimmy is doing weird little livestreams for a handful of fans these days. |
-| intruder | 闯入者 | 'He was in the middle of a live-stream when an intruder was spotted on camera. |
+| intruder | 闯入者 | ‘He was in the middle of a live-stream when an intruder was spotted on camera. |
 | trainer | 运动鞋 | Barry pointed to the middle step which had split in half and then to Jimmy’s left trainer which was covered in dust the same colour. |
-| memoir | 回忆录 | 'It looks like Jimmy wrote a memoir,' Matt said, putting the papers back down. |
+| memoir | 回忆录 | ‘It looks like Jimmy wrote a memoir,’ Matt said, putting the papers back down. |
 
 ## 一句话总结
 

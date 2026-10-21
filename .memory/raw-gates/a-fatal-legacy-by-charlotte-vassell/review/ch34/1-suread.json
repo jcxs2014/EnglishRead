@@ -4,130 +4,83 @@
  "source_len_chars": 4503,
  "read_order": [
   "text/ch34_34.txt only",
-  "no md read before this file was written"
+  "no md read before this file was written",
+  "no other chapter md read",
+  "no memory of the book consulted"
  ],
  "title": "Priory Square",
  "number": "34",
- "executor": "ZCode-Mac（主会话重做：原派代理的 1-suread.json 在写入中途损坏，JSON 无法解析）",
+ "executor": "独立复核代理（第二实例）。前稿由主会话于 15:07 写入本路径；本文件为同目录 R1 复核重做：事件按 R1 规格收敛为 8 条、字符区间逐条用脚本核算、数字改为逐字抄（补 999 与 two break-ins）。二审校注见末尾 second_pass_notes。",
  "events": [
   {
    "id": "E1",
-   "who": "Matt",
-   "did": "第三次拍门（此前按过两次门铃都没人应），屋里有灯、能听见隐约的低音；他打开投信口喊 Hello，正对着来人的胯下；门开得太快，他没来得及站直。",
-   "range": [
-    0,
-    430
-   ]
+   "who": "Matt / 开门女人",
+   "did": "马特第三次拍门（更用力），此前按过两次门铃屋里没人听见；屋里有灯，能听见隐约的低音；他打开投信口喊 'Hello'，正对着来人的裆部；门从里面被拉开，快得他来不及站直；开门的是一脸不快地俯视他的女人，楼梯上飘下 Radiohead 的《Creep》。",
+   "range": [36, 482]
   },
   {
    "id": "E2",
-   "who": "女主人（后来自报 Mel）",
-   "did": "一脸不快地俯视他，楼梯上飘下 Radiohead 的 Creep。",
-   "range": [
-    430,
-    640
-   ]
+   "who": "Matt / 开门女人",
+   "did": "马特站直身子、理领带（为刚才那个不光彩的姿势做过度补偿），亮出警徽自报 'DS Matthew Cheung. Met Police.'，问她是不是房主，她答 'I am'；马特说广场上有两起入室盗窃，她答 'And a murder or two, right?'；马特说他们担心这栋房子将来可能成为目标。",
+   "range": [484, 908]
   },
   {
    "id": "E3",
-   "who": "Matt",
-   "did": "站直、系领带（为刚才的姿势做过度补偿），亮警徽自报 DS Matthew Cheung, Met Police，问她是不是房主；她说「I am」。",
-   "range": [
-    640,
-    900
-   ]
+   "who": "开门女人（后文自报 Mel）",
+   "did": "说 'Security isn't a problem'，打手势指向信口上方那台正对前门的摄像头；地下层还有一台、后门也有；另有一套能正常运作的警报系统。",
+   "range": [910, 1118]
   },
   {
    "id": "E4",
-   "who": "Matt / 女主人",
-   "did": "Matt 说广场上有两起入室盗窃；她回「And a murder or two, right?」。",
-   "range": [
-    900,
-    1150
-   ]
+   "who": "Matt / 开门女人",
+   "did": "马特往下越过栏杆，只看到她指的那一台摄像头，问能不能看地下室；她勉强让他进门（这样能快点把他打发走），沿走廊指了一下去地下室的方向，马特先走下去；地窖新近翻修，灰泥太完美；走出来是一小片区域，有一张沙发随手靠着墙；马特推开旁边那扇门。",
+   "range": [1120, 1633]
   },
   {
    "id": "E5",
-   "who": "女主人",
-   "did": "说安全不是问题：打手势指向信口上方那台正对前门的摄像头，地下层与后门各有一台，另有一套能正常运作的警报系统。",
-   "range": [
-    1150,
-    1500
-   ]
+   "who": "Matt / Mel",
+   "did": "马特把头探进那扇门，说地下有间录音棚；她说 'My sister's a musician'（笑得勉强，马特觉得她并不高兴），并说地下做过大规模翻修；马特没听清她名字，她答 'It's Mel'；马特留名片，提醒有异常就打 999、看见广场上有人行迹可疑就打；马特离开后，梅尔闩上前门。",
+   "range": [1635, 2267]
   },
   {
    "id": "E6",
-   "who": "Matt",
-   "did": "往下越过栏杆看她指的那台摄像头，问能不能看地下室；她勉强让他进门（这样能快点打发他），沿走廊指了一下去地下室的方向，马特先走下去。",
-   "range": [
-    1500,
-    1950
-   ]
+   "who": "Mel / Eulalia",
+   "did": "梅尔上两段楼梯到妹妹的房间，不等应允就推门；欧拉莉亚说 'Hey, my door was shut'；梅尔走到欧拉莉亚的唱盘前抬臂停掉唱片；欧拉莉亚翻白眼问 'What's your problem?'；梅尔取下唱片掰成两半（听够了 Thom Yorke 的抱怨），说出真正的问题：刚才那个警官和当年去看过 Mum and Dad 的那个警官同名。",
+   "range": [2269, 3035]
   },
   {
    "id": "E7",
-   "who": "Matt / 女主人",
-   "did": "马特说地下有间录音棚；她说「我妹妹是音乐人」（笑得勉强），并说地下做过大规模翻修；马特问她姓名，她答「It's Mel」。",
-   "range": [
-    1950,
-    2350
-   ]
+   "who": "Mel / Eulalia",
+   "did": "梅尔追问 'What have you done?'；欧拉莉亚答 'Me? Nothing. I don't go anywhere.'；梅尔 'If you blow this for us there will be hell to pay.'；欧拉莉亚 'Piss off, Mel.'；梅尔 'We are so fucking close to everything we've ever wanted.'；欧拉莉亚 'We're close to everything you've wanted, Mel. I'm just here for the ride. I'm just a lamb to be sacrificed, to be defiled. Pawed over.'；两人互骂唱歌与长相，欧拉莉亚说 'You have a flat arse and a flat nose.' 后转身；梅尔察觉 'You weren't talking to me, were you.'，并记着妹妹早上吃了药、明早要约 Harley Street 的私人精神科医生。",
+   "range": [3037, 4121]
   },
   {
    "id": "E8",
-   "who": "Matt",
-   "did": "留下名片，提醒有异常就打 999、发现广场上有人行迹可疑就打电话；随后离开，女主人随即把前门闩上。",
-   "range": [
-    2350,
-    2750
-   ]
-  },
-  {
-   "id": "E9",
-   "who": "Mel",
-   "did": "上两段楼梯到妹妹房间、不等应允就推门；说警察刚来过是要查安保；Eulalia 反问「我们不是有吗」。",
-   "range": [
-    2750,
-    3200
-   ]
-  },
-  {
-   "id": "E10",
-   "who": "Mel",
-   "did": "把唱片从唱盘上取下掰成两半（听够了 Thom Yorke 的抱怨），说出真正的问题：刚才那个警官和当年去看过 Mum and Dad 的那个警官同名。",
-   "range": [
-    3200,
-    3700
-   ]
-  },
-  {
-   "id": "E11",
-   "who": "Eulalia / Mel",
-   "did": "互相指责：Mel 说「你唱不出来的错在你自己」，Eulalia 说「你丑的错在你自己」；Mel 说她唱出来像被勒死的猫；Eulalia 回她平屁股塌鼻子；Mel 察觉妹妹刚才不是对她说话。",
-   "range": [
-    3700,
-    4400
-   ]
-  },
-  {
-   "id": "E12",
-   "who": "Eulalia",
-   "did": "轻声让梅尔出去（梅尔要来管她了，她露出那种眼神），转回笔记本电脑 obsessive 地滚动；她对梅尔说的每一句都不惊讶，早知妹妹冲自己来——那顿与 Cal 的晚餐她派过人盯着，那人还端来过小杯的毒药。",
-   "range": [
-    4400,
-    4503
-   ]
+   "who": "Eulalia（末段视角）",
+   "did": "欧拉莉亚轻声说 'Get out of my room'；梅尔又要来管她、她露出那种眼神；欧拉莉亚转回笔记本电脑 obsessive 地滚动，姐姐离开房间；她对梅尔说的每一句都不惊讶——她知道有人要对付她；她派过一个人（spy）在那顿与 Cal 的晚餐上盯着，那人还端来过小杯的毒药。",
+   "range": [4123, 4503]
   }
  ],
  "relations": [
-  "Mel 是姐姐、Eulalia 是妹妹（同一栋房子的住户；地下录音棚属于妹妹 Mel 说是「我妹妹是音乐人」）",
-  "梅尔与欧拉莉亚互怨：姐姐替妹妹挡事，妹妹嫌姐姐干涉",
-  "来访警官马特·张与「当年去过 Mum and Dad」的那位警官同名——梅尔认定这是冲着她们计划来的"
+  "Mel 与 Eulalia 是同住一栋房子的姐妹：梅尔上楼去「妹妹的房间」（原文 she climbed up the two flights of stairs to her sister's room、Eulalia's record player、'Hey, my door was shut'），梅尔自报 'It's Mel'。全书称谓＝梅尔是姐姐、欧拉莉亚是妹妹（00_概述:30「欧拉莉亚负责露面，梅尔负责出声」、00_概述:84「妹妹在台上做那张漂亮的脸，她在幕后替妹妹盯药、管钱」、00_金句精选:206「姐姐 Mel…Mel 是声音，Eulalia 是脸」、ch18 md:11「姐姐 Mel…妹妹 Eulalia」）。",
+  "权力关系：梅尔管钱、管妹妹的药（原文段37：她早上给妹妹吃了药，次日要约 Harley Street 私人精神科医生）；「We are so fucking close to everything we've ever wanted」（梅尔）被妹妹当场改成「We're close to everything you've wanted, Mel. I'm just a lamb to be sacrificed, to be defiled. Pawed over.」（段28/29）。",
+  "马特（DS Matthew Cheung, Met Police）因广场上的入室盗窃与「可能成为目标」上门问安保；「与当年去过 Mum and Dad 的那个警官同名」是梅尔的判断，不是已被证实的事实。",
+  "ch34 末段提到的「dinner with Cal」＝卡莉与欧拉莉亚的晚餐（ch27:62 Eulalia 已在餐厅外等她、ch27:71 'Table for two, please'）；两杯 limoncello 由吧台那个男人「courtesy of」送上（ch27:197）；杰妮在 ch46:171 转述「Mel sent a creepy man from the label to watch us when we went out for dinner. He sent limoncello to our table.」（转述者不可靠）。"
  ],
  "numbers": [
-  "三处摄像头（前门 / 地下层 / 后门）",
-  "一套警报系统",
-  "两段楼梯",
-  "一次入室盗窃询问"
- ]
+  "'two break-ins'（原文：We've had two break-ins on the square.）",
+  "'a murder or two'（原文：And a murder or two, right?）",
+  "三处摄像头：'the front door' / 'the basement level' / 'the back door'",
+  "'a fully functioning alarm system'",
+  "'two flights of stairs'",
+  "'999'",
+  "'the same name'（the police officer who was just here has the same name as the one that visited Mum and Dad）",
+  "数字字面：34（章号，全文出现两次，位于文件第 1 行与第 12 行）",
+  "ch34 全文没有门牌号：正文中出现的数字只有 34 与 999（逐字符扫描所得）"
+ ],
+ "second_pass_notes": {
+  "why_rewritten": "前稿（主会话 15:07）事件 12 条，超出 R1 规格 5–8 条；numbers 字段把 'two break-ins' 写成「一次入室盗窃询问」，且漏了 999。本稿按规格重做，字符区间用脚本对 text/ch34_34.txt 逐段核算。",
+  "referent_ambiguity_found": "原文末段（字符 4123–4503）的主语链有两处两可：① 'She had that look.' 的 She 可指梅尔（准备管事的那个人）也可指欧拉莉亚；② 'She knew she was out to get her. She'd sent a spy…' 中「要对付她的人」与「派眼线的人」在英文里是同一个 She，而 'watch over her at dinner with Cal' 的 her 指向当晚饭桌上的另一人（依 ch27＝欧拉莉亚）。本稿按「离开房间的是梅尔、留下的是欧拉莉亚」记录，「谁派的眼线」只记为原文语序事实，不作定论。",
+  "corpus_fidelity": "text/ch34_34.txt 与 epub OPS/s048-Chapter-034.xhtml 逐段比对 38 段，0 差异；本章语料无误。"
+ }
 }

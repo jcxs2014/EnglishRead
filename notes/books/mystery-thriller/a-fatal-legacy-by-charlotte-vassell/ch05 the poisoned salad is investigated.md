@@ -102,7 +102,7 @@ source_text: ch05
 | supplier | 供应商 | ‘We’ve contacted the Food Standards Agency who are in touch with the supplier that distributes to the greengrocer’s we’re certain Digby Combe-Watson bought it from,’ Caius said, adjusting his posture. |
 | emergency recall | 紧急召回 | ‘They’ve done an emergency recall. It’s possible that the bag had some hemlock leaves in it.’ |
 | pottered | 慢悠悠地做家务 | He would put Classic FM on sometimes while he pottered about the flat cleaning but he couldn’t tell his Handel from his Bach. |
-| disbanded | 解散 | ‘You must be pretty disappointed that your special unit has been disbanded. A bit of a shock when that happened so suddenly.’ |
+| disbanded | 解散 | ‘You must be pretty disappointed that your special unit has been disbanded. A bit of a shock when that happened so suddenly. |
 | prestige | 声望；威望 | It had brought a little prestige to the station. |
 | burglary | 入室盗窃 | The date panics, flees and calls off the burglary. |
 | melatonin | 褪黑素 | She said she bulk buys melatonin whenever she’s in the US and takes one every night to knock her out. |

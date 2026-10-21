@@ -120,7 +120,7 @@ source_text: ch09
 |---|---|---|
 | notebook | 笔记本 | Amy handed Caius her notebook. |
 | basement | 地下室 | ‘The basement level?’ |
-| pavement | 人行道 | ‘The police cars had strewn past and blocked the pavement.’ |
+| pavement | 人行道 | The police cars had strewn past and blocked the pavement. |
 | killer | 凶手；杀人者 | ‘Isolde is looking more and more like a killer.’ |
 | motive | 动机；动机 | ‘That’s a good question,’ Caius said, writing it down. ‘Sex as a motive.’ |
 | plastic bag | 塑料袋 | ‘I’ve gone through all the letters and I’ve made a key of their dates and contents. I’ll send you a link,’ Amy said, before handing Caius a plastic bag with the first letter in. |

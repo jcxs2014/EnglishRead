@@ -122,7 +122,7 @@ source_text: ch23
 | stiffer | 更僵硬的；柔韧性变差的 | ‘My flexibility. I’m so much stiffer these days than I used to be.’ |
 | knight | 骑士 | Her boyfriend will be a knight one day. An actual knight. |
 | yoga teacher | 瑜伽老师 | What if I get us a yoga teacher who’ll come here to the house. |
-| lasagne | 千层面 | ‘Can’t I have lasagne? Or cottage pie?’ |
+| lasagne | 千层面 | Can’t I have lasagne? Or cottage pie? |
 
 ## 一句话总结
 
