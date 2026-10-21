@@ -1,0 +1,350 @@
+{
+  "chapter": "ch42",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch42_42.txt",
+  "source_size_chars": 10757,
+  "note": "字符区间为 0 基、基于该 text/ 文件的字符计数（含页码/空行等提取噪音）。数字逐字抄。事件条数 11（规范 5–8）——本章动作密度高（早餐/散步/露台/电话/推演五场），为免漏掉 R3「漏」类判定，拆得更细；每条仍只记一个「谁做了什么」。",
+  "events": [
+    {
+      "id": "E1",
+      "who": "Callie / Caius",
+      "what": "Callie 建议 Caius 那个周末按房子本来的用处住；Caius 用 Callie 从 farm shop 买来的食材做了 bacon and egg sandwiches",
+      "quotes": [
+        "Callie, however, had suggested that Caius try and use the house as intended that weekend. He’d made bacon and egg sandwiches with the provisions Callie had purchased from the farm shop.",
+        "Dotty’s veganism had faltered as soon as she started craving pork chops.",
+        "Georgie had been delighted that he no longer had to secretly snaffle burgers when out of the house."
+      ],
+      "span": [
+        253,
+        570
+      ]
+    },
+    {
+      "id": "E2",
+      "who": "Dotty",
+      "what": "Dotty 领议程，提出绕 duck pond 散步；提到村里有 Post Office 和一间 Bridget 想接手的 tearoom；Caius 说别鼓励我妈（Dotty 是 Caius 的母亲，且不太会做饭）",
+      "quotes": [
+        "‘Dotty, we’ll let you set today’s agenda,’ Callie said.",
+        "‘Hmm. We passed through the village on the way in,’ Dotty said, putting her cup of lemon and ginger tea down. ‘How about a little wander around the duck pond?’",
+        "there’s a dreadful tearoom that Bridget wants to take over. Apparently, it hasn’t changed since the 1970s.",
+        "‘Don’t encourage my mother,’ Caius said. He loved his mother but she was not much of a cook."
+      ],
+      "span": [
+        700,
+        1149
+      ]
+    },
+    {
+      "id": "E3",
+      "who": "Caius / Dotty / Callie / Georgie",
+      "what": "Caius 带 Dotty 和 Callie 绕 duck pond；他们被 tearoom 的现实劝退，改在 pub 各喝一杯 lemonade，barmaid 对他们太感兴趣；午饭从几里外的 enemy farm shop 买回",
+      "quotes": [
+        "Caius had escorted Dotty and Callie around the duck pond in the glorious sunshine. They had balked at the tearoom when presented with the reality. Instead they stopped in at the pub and had a glass of lemonade each. They hadn’t lasted there long. The pub was empty, the lunchtime rush hadn’t begun, and the barmaid was a little too interested in them for Caius’s liking. They had decided to have lunch back at the house via the enemy farm shop a few miles away. More bacon, a few wedges of cheese, someone’s granny’s secret recipe green tomato chutney and a delightful-looking tea loaf had been purchased."
+      ],
+      "span": [
+        1396,
+        2001
+      ]
+    },
+    {
+      "id": "E4",
+      "who": "Caius",
+      "what": "Caius 在厨房做 walnut and blue cheese (pasteurised) 沙拉，把佣人留的 quiche 烤热、还剩半条 sourdough，配奶酪/酸辣酱/面包摆在旧木板上",
+      "quotes": [
+        "Caius was in the kitchen knocking up a quick walnut and blue cheese (pasteurised) salad. His parents had retained the cook after his grandfather’s death – she still came in for one day every two weeks and froze everything – and he had put one of her quiches in the oven to warm through to have along with the remaining half of a sourdough loaf. He then found an ancient wooden board and placed the cheese, the chutney and the bread on it."
+      ],
+      "span": [
+        2004,
+        2273
+      ]
+    },
+    {
+      "id": "E5",
+      "who": "Dotty / Callie",
+      "what": "Dotty 发短信把 Georgie 从 bracken 里叫上露台，怀着孩子（baby kicked her in the ribs）；Dotty 说 lightning crotch，还剩 three months to go；Dotty 问 Callie 是否打算生孩子，Callie 说自己怀孕约 blueberry 大小，是 implant 失效的事故，暂时只告诉 Dotty；Dotty 说自己之前有过 two miscarriages，只告诉过 Georgie；Callie 说自己做过 counselling",
+      "quotes": [
+        "She had summoned him to the terrace by text message and was expecting him to surface from the bracken at any moment. She was peering over the balustrade eagerly as the baby kicked her in the ribs.",
+        "‘I think I’m going to pop,’ Dotty said, rearranging herself in the chair. ‘I thought pregnancy would be spiritually fulfilling and connecting with my foremothers but then I remembered that my grandmother was a harridan. No one warned me about pelvic girdle pain. I’ve still got three months to go.’",
+        "‘Do you guys plan on reproducing?’ Dotty looked at Callie.",
+        "‘Don’t tell anyone. It’s the size of a blueberry or something right now.’",
+        "It was an accident. My implant ran out and I hadn’t realised.",
+        "‘I had two miscarriages before …’ Dotty rubbed her bump. ‘I regretted not telling anyone other than Georgie.’",
+        "I had counselling. It’s so common."
+      ],
+      "span": [
+        2510,
+        4330
+      ]
+    },
+    {
+      "id": "E6",
+      "who": "Georgie / Dotty",
+      "what": "Georgie 从 bush 后走出、夹着 sketchbook，吻 Dotty；Dotty 让他去帮 Caius 端午饭出来，说『Our babies will be best friends』",
+      "quotes": [
+        "Georgie appeared from behind a bush, waving as he walked along the rose-lined path, sketchbook under his arm and a ruddiness to his cheeks. ‘My gorgeous girls,’ he said, climbing up the steps, kissing Dotty and plonking himself down next to her.",
+        "‘Darling, go help Caius carry lunch out.’ Georgie did as he was told and Dotty picked up her romance novel. ‘Our babies will be best friends.’"
+      ],
+      "span": [
+        4462,
+        4751
+      ]
+    },
+    {
+      "id": "E7",
+      "who": "Callie / Dotty",
+      "what": "Callie 的手机响（Eulalia），她先不接；刷 Instagram 后喊『Eulalia’s identity has been revealed』；她说自己签过 NDA（范围是身份+新专辑与造型公布前不透露流程），DJ Sonikk 泄露了；文章配图是 Eulalia 在 Primrose Hill 的照片",
+      "quotes": [
+        "Callie put her hand on Dotty’s arm. Callie’s phone rang. It was Eulalia. She ignored it. It rang again. She started scrolling through her Instagram feed. ‘Oh no!’",
+        "‘Eulalia’s identity has been revealed.’",
+        "‘I did. It was around her identity and not revealing anything about the process until the new album and look have dropped.’ Callie scrolled through the article that was linked to the picture of Eulalia moseying around Primrose Hill in the baggiest clothes that she could find. ‘DJ Sonikk let it slip.’"
+      ],
+      "span": [
+        4855,
+        5492
+      ]
+    },
+    {
+      "id": "E8",
+      "who": "Callie / Dotty",
+      "what": "Callie 说 Mel 是 Eulalia 的姐姐兼 manager；Mel 第一次见面时对她很客气，但昨天 Callie 做 presentation 时很不高兴（是在她们自己家）；Ceramics 101 的 Venetia 也在场，现在 works for PCQV；Callie 说两人是亲姐妹，一个像女神一个像毕加索，五官相同比例不对；Eulalia 有点太 interested in Caius",
+      "quotes": [
+        "‘Yeah Mel, she’s her manager.’ Callie scrolled through the article. ‘Mel was fine the first time I met her but she was really off with me when I presented yesterday. It was at their house so I guess it was some sort of dislike of having to do business at home. Venetia from Ceramics 101 was there though. She works for PCQV now.’",
+        "Mel was fine the first time I met her",
+        "Eulalia and Mel are quite clearly sisters but one of them, as you can see, looks like a goddess and the other looks like a Picasso. Same features but wrong proportions.",
+        "‘She was a bit too interested in Caius.’ Callie tucked her hair behind her ears."
+      ],
+      "span": [
+        5755,
+        6538
+      ]
+    },
+    {
+      "id": "E9",
+      "who": "Callie / Caius / Georgie / Dotty",
+      "what": "Caius 讲对 Eulalia 的两种猜测（或者她不唱用头套遮丑/或者其实在 lip-sync）；Georgie 放 Mercury awards 的 YouTube 录像说听起来像现场；Caius 问『那真声是不是在幕后唱？』并问 Callie 了解她什么；Callie 说她毕业于 Royal College of Music；Caius 让她查年份/专业，Callie 翻 Vocal & Opera course 毕业生名录",
+      "quotes": [
+        "Georgie pulled up the footage of her from the Mercury awards ceremony on YouTube and played it. ‘Sounds live to me.’",
+        "‘All right, then the real voice is stood offstage singing live?’ Caius asked. He was still aggrieved that he’d had to walk away from the Priory Square case and was trying to get his fix elsewhere. ‘What do you know about her, Callie?’",
+        "‘She studied at the Royal College of Music.’",
+        "standing over his shoulder as she watched him scroll through the graduates of their Vocal & Opera course."
+      ],
+      "span": [
+        8846,
+        9875
+      ]
+    },
+    {
+      "id": "E10",
+      "who": "Callie / Caius / Dotty / Georgie",
+      "what": "Callie 指着一张 five years ago 毕业的照片说『Wait, that’s her』；Caius 问『That’s Eulalia?』；Callie 纠正：『No, that’s Mel, her sister』——照片里的人是 Mel；她断言这是骗局、Mel 是 the voice、Eulalia is the face、所以她们互相怨恨（说给 Dotty 和 Georgie 听）",
+      "quotes": [
+        "‘Wait, that’s her,’ Callie said, pointing at a young woman who had graduated five years ago.",
+        "‘That’s Eulalia?’ Caius asked, surprised.",
+        "‘No, that’s Mel, her sister.’ Callie looked up at Dotty and Georgie. ‘You’re right, it’s a scam. That’s why Mel was so weird. Mel’s the voice. Eulalia is the face. That’s why they resent each other.’"
+      ],
+      "span": [
+        9878,
+        10216
+      ]
+    },
+    {
+      "id": "E11",
+      "who": "Callie / Caius",
+      "what": "Caius 问 Eulalia 是否已经付了 Callie 的封口费，Callie 答『As soon as I closed my mouth』；Caius 看着面包 crumb 想 Angus 那天一定很焦虑",
+      "quotes": [
+        "‘She’s paid you, right?’",
+        "‘As soon as I closed my mouth.’",
+        "Angus must have been really anxious that day."
+      ],
+      "span": [
+        10543,
+        10757
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "Dotty",
+      "b": "Caius",
+      "rel": "母子（原文: ‘Don’t encourage my mother,’ Caius said. He loved his mother but she was not much of a cook.）",
+      "span": [
+        1057,
+        1149
+      ]
+    },
+    {
+      "a": "Georgie",
+      "b": "Dotty",
+      "rel": "伴侣/同居（Dotty 怀孕 his babies；‘Darling, go help Caius carry lunch out.’；Dotty ‘I regretted not telling anyone other than Georgie.’）",
+      "span": [
+        4710,
+        4852
+      ]
+    },
+    {
+      "a": "Callie",
+      "b": "Caius",
+      "rel": "伴侣且 Callie 怀了他的孩子（‘Do you guys plan on reproducing?’ Dotty looked at Callie；‘My implant ran out’；‘You’ve got to be careful now you’re together.’）",
+      "span": [
+        3313,
+        3402
+      ]
+    },
+    {
+      "a": "Mel",
+      "b": "Eulalia",
+      "rel": "姐妹；Mel 是 Eulalia 的 manager",
+      "span": [
+        5755,
+        5785
+      ]
+    },
+    {
+      "a": "Eulalia",
+      "b": "Callie",
+      "rel": "客户/合作方；Eulalia 曾请 Callie 吃饭、几乎像约会，并对 Callie 有 expectation",
+      "span": [
+        7456,
+        7536
+      ]
+    },
+    {
+      "a": "Venetia (Vennie)",
+      "b": "PCQV",
+      "rel": "Venetia formerly Ceramics 101, 现在 works for PCQV",
+      "span": [
+        5930,
+        6084
+      ]
+    },
+    {
+      "a": "DJ Sonikk",
+      "b": "Eulalia",
+      "rel": "泄露了 Eulalia 身份",
+      "span": [
+        5468,
+        5492
+      ]
+    },
+    {
+      "a": "Bridget",
+      "b": "tearoom",
+      "rel": "想接手那间 tearoom（本章未说明她是谁）",
+      "span": [
+        893,
+        943
+      ]
+    },
+    {
+      "a": "Angus",
+      "b": "面包",
+      "rel": "Caius 推测 Angus 那天很焦虑（回指前文）",
+      "span": [
+        10711,
+        10756
+      ]
+    }
+  ],
+  "numbers_and_dates_verbatim": [
+    {
+      "text": "it hasn’t changed since the 1970s",
+      "span": [
+        957,
+        990
+      ],
+      "note": "Dotty 说 tearoom 自 1970s 没变"
+    },
+    {
+      "text": "she still came in for one day every two weeks",
+      "span": [
+        2159,
+        2204
+      ],
+      "note": "父母的厨工每两周一"
+    },
+    {
+      "text": "I’ve still got three months to go",
+      "span": [
+        2972,
+        3005
+      ],
+      "note": "Dotty 孕程"
+    },
+    {
+      "text": "It’s the size of a blueberry or something right now",
+      "span": [
+        3425,
+        3476
+      ],
+      "note": "Callie 描述胚胎大小"
+    },
+    {
+      "text": "I had two miscarriages before",
+      "span": [
+        3797,
+        3826
+      ],
+      "note": "Dotty 流产次数"
+    },
+    {
+      "text": "Mid-twenties",
+      "span": [
+        9717,
+        9729
+      ],
+      "note": "Callie 估计 Eulalia 年龄"
+    },
+    {
+      "text": "a young woman who had graduated five years ago",
+      "span": [
+        9923,
+        9969
+      ],
+      "note": "毕业照片距今五年"
+    },
+    {
+      "text": "graduates of their Vocal & Opera course",
+      "span": [
+        9835,
+        9874
+      ],
+      "note": "专业方向"
+    },
+    {
+      "text": "a few weeks ago",
+      "span": [
+        205,
+        220
+      ],
+      "note": "之前在 dining room 吃过饭"
+    },
+    {
+      "text": "a few miles away",
+      "span": [
+        1840,
+        1856
+      ],
+      "note": "enemy farm shop 距离"
+    },
+    {
+      "text": "yesterday",
+      "span": [
+        5910,
+        5919
+      ],
+      "note": "Callie 做 presentation 的时间点"
+    },
+    {
+      "text": "in the week",
+      "span": [
+        7483,
+        7494
+      ],
+      "note": "Callie 与 Eulalia 吃饭时间"
+    }
+  ],
+  "open_questions_for_later": [
+    "本章是否真有『照片』？有两处视觉物：(a) 泄露文章里 Eulalia 在 Primrose Hill 的照片；(b) Royal College of Music 毕业名录里 five years ago 的年轻女性照片——后者是 Mel。(b) 是 md 标题『mel is the voice and eulalia is the face』的直接依据。",
+    "『Mel is the voice / Eulalia is the face』这句话的施事是 Callie（在 terrace 上说给 Caius、Dotty、Georgie），不是 Mel 本人也不是 Eulalia 本人。",
+    "PCQV（法国奢侈集团，Venetia 现在的雇主）与 the label（欧拉莉亚签的那家唱片公司，被 PCQV 合同逼着就范）是两个实体；本章里 PCQV 只出现在 Venetia 身上。"
+  ]
+}
