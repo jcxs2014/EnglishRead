@@ -19,7 +19,7 @@ modified: "2026-10-20"
 
 > **原句 1:** "I was Paati's favourite!"
 
-中文理解：我是 祖母 最爱的！把 写成 "悲伤 "——普佳 把 祖母 的 写成，把 家庭 写成 " 母亲's 爱"。
+中文理解：我是祖母最疼的！把兄弟姐妹间的争宠写成「悲伤的等级」——普佳把祖母的话写成「独一份」，把家庭关系写成「争夺祖母的爱」。
 
 句子结构：主系表 I was Paati's favourite（感叹）。
 
@@ -27,7 +27,7 @@ modified: "2026-10-20"
 
 表达方式：Pooja 的 "I was Paati's favourite" 把 grief 写成 family competition，让 Paati 的 message 写成 "selective" 而非 "universal"。
 
-为什么这样写：把 达尔拉 的 写成 谜团，把 调查 从 转向 ；普佳 的 "I " 把 写成 愧疚-—— 祖母's 死亡，所以。
+为什么这样写：把达尔拉的「数字缺席」写成谜，把调查从「车」转向「人」；普佳那句「她走的时候我不在」把同意写成被内疚推着走——她错过了祖母的死，所以她想帮忙。
 
 ---
 
@@ -35,7 +35,7 @@ modified: "2026-10-20"
 
 > **原句 2:** "The Man from My Dreams, however, was proving impossible to find."
 
-中文理解：然而，《梦境中的男人》却证明难以找到。把 达尔拉 的 写成，把 谜团 从 转向。
+中文理解：然而，那部《梦境中的男人》却怎么也找不到。把达尔拉的女主角写成一部「遗失的影片」，把谜从「车」转向「电影」。
 
 句子结构：主系表 The Man from My Dreams was proving impossible to find（现在进行时 + 不定式）。
 
@@ -43,7 +43,7 @@ modified: "2026-10-20"
 
 表达方式：Scarlet Revenge 的 "pretty interesting" 把 Darla 的 acting debut 写成 "watchable"；The Man from My Dreams 的 "impossible to find" 把 Darla 的 lead role 写成 "lost film"。
 
-为什么这样写：把 写成，让 达尔拉 的 表演 写成 而非，把 调查 写成 ； 的 把 达尔拉 的 写成，把 谜团 从 转向。
+为什么这样写：把《血色复仇》写成「还挺有意思」，让达尔拉的银幕处女作成「看得下去」而不是「好」，把调查写成「分心」；《梦境中的男人》「找不到」这件事，把达尔拉的主角位置写成「遗失的影片」，把谜从「车」转向「电影」。
 
 ---
 
@@ -59,7 +59,7 @@ modified: "2026-10-20"
 
 表达方式：chicken rice setting 把 meeting 写成 casual 与 warm；Michael 的 "Mrs Choi who lives upstairs" 把 investigation 从 "digital" 转向 "physical"。
 
-为什么这样写：把 迈克尔-南迪妮 的 从 "尴尬的" 转向 ；迈克尔 的 " a " 把 崔太太 从 转向，把 崔太太 的 写成。
+为什么这样写：把迈克尔与南迪妮的关系从「尴尬」转向「朋友」；迈克尔那句「更像是囤积狂」把崔太太从「种族歧视的阿姨」转向「孤独的老妇人」，把崔太太的公寓写成「百宝箱」。
 
 ---
 
@@ -67,7 +67,7 @@ modified: "2026-10-20"
 
 > **原句 4:** "Pooja, listen, I need your help with something."
 
-中文理解：从未发生过，好吗？把 吻 写成，把 尴尬的 写成 修复，把 迈克尔 的 人物 写成 "心 "。
+中文理解：普佳，听着，我需要你帮个忙。把求助写成主动靠近，让南迪妮从「独自查」转向「找人一起查」。
 
 句子结构：主系表 It never happened + 疑问 okay?。
 
@@ -75,7 +75,7 @@ modified: "2026-10-20"
 
 表达方式：awkward comedy 把 Nandhini 的 mortification 写成 farce；Michael 的 "it never happened" 把 kiss 写成 erasure。
 
-为什么这样写：把 写成，让 南迪妮 的 人物 写成 —— ；迈克尔 的 把 崔太太 从 转向。
+为什么这样写：把「被晾在一边」的误会写成喜剧，让南迪妮的性格写成「多疑」——她把什么都读成男女之情；迈克尔那句「她一个人，想有人再来坐坐」把崔太太从「种族歧视的阿姨」转向「孤独的老妇人」。
 
 ---
 
@@ -91,7 +91,7 @@ modified: "2026-10-20"
 
 表达方式：film watching 把 Darla 的 acting 写成 "mesmerizing"，把 Nandhini 的 investigation 写成 "fascination" 而非 "research"。
 
-为什么这样写：把 达尔拉 的 写成，让 南迪妮 的 调查 写成 "迷恋" 而非 ——南迪妮 不是在 " 达尔拉"，而是在 " 爱 达尔拉's "，把 调查 写成 "情感的 "。
+为什么这样写：把达尔拉的片子写成「摄人心魄」，让南迪妮的调查写成「着迷」而不是「研究」——她不是在调查达尔拉，是在爱上达尔拉的表演，把调查写成「情感投入」。
 
 ---
 

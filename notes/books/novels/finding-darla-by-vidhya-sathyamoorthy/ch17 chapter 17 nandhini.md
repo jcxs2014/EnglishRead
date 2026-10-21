@@ -19,7 +19,7 @@ modified: "2026-10-20"
 
 > **原句 1:** "I've come this far … it'd be a waste to turn back now."
 
-中文理解：我已走到这一步……现在回头就太浪费了。把 南迪妮 的 写成 "投入的"（ 投入的），把 写成，把 迈克尔 的 写成。
+中文理解：我已走到这一步……现在回头就太浪费了。把南迪妮的入室写成「下了决心」，把「后门没锁」写成「雷声大雨点小」，把迈克尔的撬锁本事写成「白准备了」。
 
 句子结构：主谓宾 I've come this far + 让步 it'd be a waste to turn back now。
 
@@ -36,7 +36,7 @@ modified: "2026-10-20"
 > **原句 2:** "Nandhini was overwhelmed with emotion; exactly what emotion, she couldn't quite tell."
 
 
-中文理解：南迪妮 被 淹没；确切是什么，她无法确切说出。把 写成 "情感的"，把 达尔拉 的 写成 （亲密的），把 写成 （私人的）。
+中文理解：南迪妮被情绪淹没；究竟是哪种情绪，她说不太清。把情绪写成「感情上的」，把达尔拉留下的东西写成「贴身的」，把日记写成「私人的」。
 
 句子结构：主系表 Nandhini was overwhelmed with emotion + 让步 exactly what emotion, she couldn't quite tell。
 
@@ -84,7 +84,7 @@ modified: "2026-10-20"
 
 > **原句 5:** "Thank you."
 
-中文理解：谢谢。把 南迪妮 的 写成 （最糟糕的），把 写成 （无言的），把 南迪妮 的 人物 写成。
+中文理解：谢谢。把南迪妮的回应写成「最糟糕的那种」，把「谢谢」写成无言以对，把她这个人写成「呆住了」。
 
 句子结构：直接引语 Thank you（主谓宾，省略主语）。
 
@@ -92,7 +92,7 @@ modified: "2026-10-20"
 
 表达方式："Thank you" 把 Nandhini 的 response 写成 "worst possible"——"This time, Nandhini was the one who found herself speechless. Completely stunned by this sudden turn of events, she stuttered before blurting out the worst possible response: 'Thank you.'" 把 Nandhini 的 character 写成 "stunned"。
 
-为什么这样写：把 南迪妮 的 写成，让 南迪妮 的 人物 写成 —— 把 爱 写成 "尴尬的"（尴尬的），把 南迪妮 的 人物 写成 （无法回应）；迈克尔 的 "I'm . I a " 把 迈克尔 的 人物 写成 （被拒绝的），把 写成 "破碎的"（破碎的）。
+为什么这样写：把南迪妮那句「谢谢」写成最糟的回应，让她这个人写成呆住——「谢谢」把一场告白写成尴尬，把她写成答不上来；迈克尔那句「我受够了，这场疯狂的寻找我不想再参与」把他写成被拒绝的人，把两人的关系写成破碎。
 
 ---
 

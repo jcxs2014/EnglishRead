@@ -19,7 +19,7 @@ modified: "2026-10-20"
 
 > **原句 1:** "The book just made it onto the MPH bestsellers list!"
 
-中文理解：书刚登上 畅销书榜！把 南迪妮 的 写成 （成功），把 达尔拉 写成 （畅销书）。
+中文理解：书刚登上 MPH 畅销书榜！把南迪妮的书写成成功，把《寻找达尔拉》写成畅销书。
 
 句子结构：主谓宾 The book just made it onto the MPH bestsellers list（感叹）。
 
@@ -27,7 +27,7 @@ modified: "2026-10-20"
 
 表达方式：book bestseller 把 Nandhini 的 writing 写成 "success"，把 Finding Darla 写成 "bestseller"。
 
-为什么这样写：把 南迪妮 的 写成，让 南迪妮 的 人物 写成 （成功的作家）——" 南迪妮 希望d " 把 写成 " 希望"（实现的希望），把 南迪妮 的 人物 写成 （满意的）； 把 写成 （关键时刻），把 5783 写成 （最后的遗物）。
+为什么这样写：把南迪妮的书写成畅销书，把她写成成功的作家——「这本书正是南迪妮希望的样子」把书写成如愿，把她写成满意；那面照片墙把纪念物写成关键时刻，把 SKA5783 的车牌写成最后的遗物。
 
 ---
 
@@ -35,7 +35,7 @@ modified: "2026-10-20"
 
 > **原句 2:** "I think Darla … the woman you wrote about in your book? I think she was my … biological mother."
 
-中文理解：我想 达尔拉……你在书里写的女人？我想她是我的……生物学母亲。把 茉莉 的 写成 （线索）的，把 茉莉 写成 "达尔拉's "（达尔拉 的女儿）。
+中文理解：我想达尔拉……你书里写的那个女人？我想她是我的……亲生母亲。把茉莉的来电写成了结的线索，把茉莉写成达尔拉的女儿。
 
 句子结构：直接引语 I think Darla … the woman you wrote about in your book? I think she was my … biological mother（疑问/陈述，省略号表示 hesitation）。
 
@@ -43,7 +43,7 @@ modified: "2026-10-20"
 
 表达方式：Jasmine's call 把 "clue" 写成 "resolution"——"I think she was my … biological mother" 把 Jasmine 写成 "Darla's daughter"，把 Nandhini 的 investigation 写成 "resolved"（解决的）。
 
-为什么这样写：把 茉莉 的 写成，让 南迪妮 的 调查 写成 ——"I 达尔拉 母亲" 把 茉莉 写成 "达尔拉's "，把 南迪妮 的 调查 写成 ；" I I . , , 爱 表演. I , ?" 把 茉莉 写成 "达尔拉's "（达尔拉 的镜子），把 茉莉 的 人物 写成 （遗传的）。
+为什么这样写：把茉莉的来电写成了结，把南迪妮的调查写成有了结果——「我想达尔拉是我的亲生母亲」把茉莉写成达尔拉的女儿，把调查写成有了结果；「现在我知道我这是随了谁。我的鼻子、我的肤色、我对表演的爱。苹果大概不会掉得离树太远，对吧？」把茉莉写成达尔拉的镜子，把她写成继承了母亲。
 
 ---
 
@@ -51,7 +51,7 @@ modified: "2026-10-20"
 
 > **原句 3:** "This I promise you."
 
-中文理解：我向你承诺。把 南迪妮 的 写成 （最终的），把 " I " 写成 （解决），把 达尔拉 写成 （被记住的）。
+中文理解：我向你承诺。把南迪妮的承诺写成最终的，把「我向你承诺」写成了结，把达尔拉写成被记住的。
 
 句子结构：直接引语 This I promise you（主谓宾，倒装）。
 

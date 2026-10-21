@@ -59,7 +59,7 @@ modified: "2026-10-20"
 
 表达方式：phone call 把 opportunity 写成 time-pressured；"two hours, to be exact" 把 urgency 具象化。
 
-为什么这样写：把 贾加 的 写成，让 达尔拉 的 从 "群演" 转向 " 试镜"；" 法拉 " 把 写成。
+为什么这样写：把贾加的来电写成「意料之外的机会」，让达尔拉的弧线从「群演」转向「主角试镜」；「法拉女士托了关系」把行业人情写成具体的支持。
 
 ---
 
@@ -67,7 +67,7 @@ modified: "2026-10-20"
 
 > **原句 4:** "Yes, a man from my dreams."
 
-中文理解：是的，一个来自我梦境的男人。把 写成，把 即兴 → 的 写成 而非。
+中文理解：是的，一个来自我梦境的男人。把慌乱写成内心独白，把「即兴到真感情」这条弧线写成「生的」而不是「练出来的」。
 
 句子结构：直接引语 Yes, a man from my dreams（主系表）。
 
@@ -75,7 +75,7 @@ modified: "2026-10-20"
 
 表达方式：audition scene 把 performance pressure 写成 real-time；"Oh shit, what was my line?" 把 panic 写成 internal monologue。
 
-为什么这样写：把 试镜 写成 "即兴 → " 的，让 达尔拉 的 写成 而非 ；特蕾莎 的 与 " a " 把 写成。
+为什么这样写：把第一次试镜写成「即兴到真感情」的弧线，让达尔拉的才华写成「生的」而不是「练出来的」；特蕾莎「板着脸」与「一丝笑意」把导演的判断写成挣来的认可。
 
 ---
 
@@ -92,7 +92,7 @@ modified: "2026-10-20"
 
 表达方式：chemistry test 把 on-screen kiss 写成 genuine emotion——"hadn't realized how emotional" 与 "feeling disappointed" 把 acting 与 feeling 的 boundary 模糊。
 
-为什么这样写：把 化学反应 写成 "表演 → " 的，让 达尔拉 的 写成 而非 ；" , ?" 把 写成，为后文 埋下。
+为什么这样写：把化学反应测试写成「演戏到动真情」的模糊地带，让达尔拉的心动写成真的而不是照剧本演的；「天啊，他把我怎么了？」把心动写成不由自主，为后面的感情发展埋下伏笔。
 
 ---
 

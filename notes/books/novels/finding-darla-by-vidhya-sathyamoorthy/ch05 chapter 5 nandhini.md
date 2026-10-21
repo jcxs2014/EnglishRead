@@ -27,7 +27,7 @@ modified: "2026-10-20"
 
 表达方式：alcohol 作为 emotional anesthesia 的 trope；"weight on her shoulders seemed to lighten"把 alcohol 的 effect 写成 temporary relief。
 
-为什么这样写：把 南迪妮 的 写成，把 与 并置； 歌与 把 身份 写成。
+为什么这样写：把南迪妮的醉意写成逃避，把经济压力与心理需求并置；库图歌舞与「喜欢的明星在大银幕上摇摆」把文化身份写成醉后的快乐。
 
 ---
 
@@ -35,7 +35,7 @@ modified: "2026-10-20"
 
 > **原句 2:** "Before Michael could finish, Nandhini stumbled forward and planted a kiss on his lips."
 
-中文理解：在 迈克尔 能说完之前，南迪妮 蹒跚向前，强吻了他。 吻 以 方式处理——迈克尔 的 " ?" 是，把 尴尬的 写成。
+中文理解：在迈克尔说完之前，南迪妮踉跄上前吻了他。这个醉后强吻的桥段按喜剧处理——迈克尔那句「醉了还看不清人？」是机智的挡驾，把尴尬写成打趣。
 
 句子结构：时间状语从句 Before Michael could finish + 主谓宾 Nandhini stumbled forward and planted a kiss on his lips。
 
@@ -59,7 +59,7 @@ modified: "2026-10-20"
 
 表达方式：dream sequence 把 nightmare 写成 surreal scene；Paati 的 "Follow the light" 把 ghost 写成 guide。
 
-为什么这样写：把 01 的"废弃 5783"与 03 的"祖母 之死"缝合在梦中，是全书悬疑的的完成——南迪妮 的 把"被遗忘的车辆"读成"被遗忘的祖母"，而 祖母 的 把 从 转为。
+为什么这样写：把第一章的「废弃的宝腾 Saga 5783」与第三章的「祖母之死」在梦里缝合，是全书悬疑的「心理桥梁」的完成——南迪妮的潜意识把「被遗忘的车」读成「被遗忘的祖母」，而祖母那句「跟着光走」把车从「威胁」转成「引路人」。
 
 ---
 
@@ -67,7 +67,7 @@ modified: "2026-10-20"
 
 > **原句 4:** "The hangovers were never worth the temporary escape from reality that alcohol offered."
 
-中文理解：宿醉永远不值得酒精提供的暂时逃避。南迪妮 的 让 写成，把 写成。
+中文理解：宿醉从来抵不上酒精给的那点暂时逃避。南迪妮的自我反省让「逃避」一词现形，把喝酒写成「不是解药」。
 
 句子结构：主系表 The hangovers were never worth + 宾语 the temporary escape from reality that alcohol offered。
 
@@ -75,7 +75,7 @@ modified: "2026-10-20"
 
 表达方式：hangover 作为 "consequence of escapism"；Michael's care packages 的 flashback 把 kindness 写成 survival。
 
-为什么这样写：把 写成，让 南迪妮 的 ——她， ；迈克尔 的 把 写成。
+为什么这样写：把宿醉写成「从来抵不上那点暂时的逃脱」，让南迪妮的自我审视被读者看见——她清楚酒精解决不了问题，却仍然喝；迈克尔寄来的关怀包裹那段闪回，把善意写成活下去的必需品。
 
 ---
 
@@ -83,7 +83,7 @@ modified: "2026-10-20"
 
 > **原句 5:** "It never happened, okay?"
 
-中文理解：迈克尔 说"从未发生过，好吗？"把 吻 写成 （抹除），把 尴尬的 写成 修复（可修复的），把 迈克尔 的 人物 写成 "心 "。
+中文理解：迈克尔说「就当没发生过，好吗？」把那个吻写成抹除，把尴尬写成可以修复，把他这个人物写成「心是金子做的」。
 
 句子结构：主系表 It never happened + 疑问标记 okay?。
 
@@ -91,7 +91,7 @@ modified: "2026-10-20"
 
 表达方式：awkward comedy 把 Nandhini 的 mortification 写成 farce；Michael 的 "it never happened" 把 kiss 写成 erasure。
 
-为什么这样写：把 吻 的 写成 而非，让 迈克尔 的 人物 通过 建立——他不，而是 ； 是 迈克尔 的 的。
+为什么这样写：把醉吻的余波写成喜剧而不是正剧，让迈克尔的性格靠打趣建立起来——他没有占便宜，而是轻轻把话题挡开；「就当没发生过」是迈克尔善意最具体的证据。
 
 ---
 

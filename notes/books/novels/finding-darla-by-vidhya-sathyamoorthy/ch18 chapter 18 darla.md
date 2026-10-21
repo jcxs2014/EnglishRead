@@ -18,7 +18,7 @@ modified: "2026-10-20"
 
 > **原句 1:** "She simply went through the motions, awaiting the sweet release of death."
 
-中文理解：她只是按部就班地活着，等待死亡的甜蜜解脱。把 达尔拉 的 写成，把 写成 "坚持的"（持续的）。
+中文理解：她只是按部就班地活着，等着死亡温柔地把她接走。把达尔拉的生活写成「只剩一副空壳」，把抑郁写成「挥之不去」。
 
 句子结构：主谓宾 She simply went through the motions + 现在分词短语 awaiting the sweet release of death。
 
@@ -26,7 +26,7 @@ modified: "2026-10-20"
 
 表达方式：reclusive life 把 "mere husk" 写成 "going through the motions"，把 depression 写成 "awaiting death"。
 
-为什么这样写：把 达尔拉 的 隐居的 写成，让 达尔拉 的 人物 写成 "破碎的"——" , , " 把 写成 "孤立"（孤立），把 达尔拉 的 人物 写成 （隐士）。
+为什么这样写：把达尔拉闭门不出的日子写成「只剩空壳」，把她写成「碎了」——「她不再去做心理治疗，又回到糟糕的饮食习惯，几乎不跟人来往」把抑郁写成孤立，把她写成隐士。
 
 ---
 
@@ -50,7 +50,7 @@ modified: "2026-10-20"
 
 > **原句 3:** "Shoo! Go away, you mutt. There's no place for you here."
 
-中文理解：走开！滚，你这杂种。没你的容身之地。把 吉米 的 写成 "不受欢迎的"（不受欢迎的），把 达尔拉 的 人物 写成 "抗拒的"（抗拒的）。
+中文理解：走开！滚，你这杂种。没你的容身之地。把吉米的到来写成不请自来，把达尔拉写成抗拒。
 
 句子结构：祈使句 Shoo! Go away, you mutt. There's no place for you here（并列祈使）。
 
@@ -58,7 +58,7 @@ modified: "2026-10-20"
 
 表达方式：Jimmy's arrival 把 "unwanted" 写成 "resistant"——"Damn her weak conscience" 把 Darla 的 character 写成 "soft-hearted"（心软的）。
 
-为什么这样写：把 吉米 的 写成 "不受欢迎的"，让 达尔拉 的 人物 写成 "抗拒的"—— 把 达尔拉 的 人物 写成 "心"，把 吉米 写成 "坚持的"（坚持的）； 把 吉米 写成 "受伤的"（受伤的），把 达尔拉 的 人物 写成 "有同情心的"（有同情心的）。
+为什么这样写：把吉米的到来写成不请自来，让达尔拉写成抗拒——「她那颗不争气的心太软」把她写成心软，把吉米写成赖着不走；「那条狗一瘸一拐进了她的客厅」把吉米写成受伤，把她写成有同情心。
 
 ---
 ---

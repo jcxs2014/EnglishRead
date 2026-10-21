@@ -19,7 +19,7 @@ modified: "2026-10-20"
 
 > **原句 1:** "He jumped back onto the bed and much to Darla’s annoyance, began licking her face profusely."
 
-中文理解：他跳回床上，让 达尔拉 很恼火，开始疯狂地舔她的脸。把 吉米 的 人物 写成 "坚持的"（坚持的），把 达尔拉-吉米 的 写成 （日常）。
+中文理解：他跳回床上，惹得达尔拉恼火，又疯了一样舔她的脸。把吉米写成「赖着不走」，把达尔拉与吉米的相处写成「日常」。
 
 句子结构：主谓宾 He jumped back onto the bed + 让步 much to Darla's annoyance + 现在分词短语 began licking her face profusely。
 
@@ -27,7 +27,7 @@ modified: "2026-10-20"
 
 表达方式：dog POV 把 Jimmy 的 "persistence"（坚持）写成 "annoying but loving"（恼人但 loving），把 Darla-Jimmy 的 bond 写成 "daily routine"。
 
-为什么这样写：把 吉米 的 写成 （满足的），让 达尔拉 的 人物 写成 （ 主人）——" 达尔拉 " 把 吉米 的 写成 （以食物为中心的），把 达尔拉 的 人物 写成 （ 导向的）。
+为什么这样写：把吉米的日常写成「满足」，把达尔拉写成「会照顾人的主人」——「他把拌了花生酱的狗粮吃得干干净净，达尔拉吃麦片」把吉米的满足写成以食物为中心，把达尔拉写成按部就班的人。
 
 ---
 
@@ -58,6 +58,8 @@ modified: "2026-10-20"
 关键词：shaking in fear（在恐惧中颤抖） / hoped she would return soon（希望她很快回来）
 
 表达方式：storm scene 把 Jimmy 的 "fear" 写成 "shaking"，把 Jimmy 的 character 写成 "loyal"。
+
+为什么这样写：把吉米的恐惧写成身体上的颤抖，却让它先想到达尔拉而不是自己——忠诚在这一句里不用形容词，靠念头的顺序就立住了。
 
 
 ---

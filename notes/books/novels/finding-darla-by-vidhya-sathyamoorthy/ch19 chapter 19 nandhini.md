@@ -19,7 +19,7 @@ modified: "2026-10-20"
 
 > **原句 1:** "Why did I say thank you? Who says thank you when someone professes their love to them?"
 
-中文理解：我为什么说谢谢？谁在有人向他们表白时说谢谢？把 南迪妮 的 写成，把 南迪妮 的 人物 写成。
+中文理解：我为什么说谢谢？谁在有人向自己表白的时候说谢谢？把南迪妮的「谢谢」写成最糟的回应，把她写成呆住。
 
 句子结构：疑问句 Why did I say thank you? Who says thank you when someone professes their love to them?（并列疑问）。
 
@@ -27,7 +27,7 @@ modified: "2026-10-20"
 
 表达方式："Thank you" 把 Nandhini 的 response 写成 "worst possible"——"This time, Nandhini was the one who found herself speechless. Completely stunned by this sudden turn of events, she stuttered before blurting out the worst possible response: 'Thank you.'" 把 Nandhini 的 character 写成 "stunned"。
 
-为什么这样写：把 南迪妮 的 写成，让 南迪妮 的 人物 写成 —— 把 爱 写成 "尴尬的"，把 南迪妮 的 人物 写成 ； 把 南迪妮 的 调查 写成 "直觉"（直觉），把 南迪妮 的 人物 写成 "被驱使的"（被驱使的）。
+为什么这样写：把南迪妮那句「谢谢」写成最糟的回应，让她写成呆住——「谢谢」把一场告白写成尴尬，把她写成答不上来；「回去」把她的调查写成直觉，把她写成被驱使着走。
 
 ---
 
@@ -35,7 +35,7 @@ modified: "2026-10-20"
 
 > **原句 2:** "This time, I’ll handle my own dirty business."
 
-中文理解：我已走到这一步……现在回头就太浪费了。把 南迪妮 的 写成 "投入的"，把 写成。
+中文理解：我已走到这一步……现在回头就太浪费了。把南迪妮的入室写成下了决心，把「后门没锁」写成雷声大雨点小。
 
 句子结构：主谓宾 I've come this far + 让步 it'd be a waste to turn back now。
 
@@ -44,7 +44,7 @@ modified: "2026-10-20"
 
 表达方式：break-in scene 把 "unlocked back door" 写成 "anticlimax"——Mike's lockpick 变成 unnecessary。
 
-为什么这样写：把 南迪妮 的 写成 "直觉"（直觉），让 南迪妮 的 人物 写成 "被驱使的"（被驱使的）—— 把 南迪妮 的 调查 写成 "直觉"，把 南迪妮 的 人物 写成 "被驱使的"； 把 南迪妮 的 人物 写成 "决心的"（决心的），把 写成 （让光进入）。
+为什么这样写：把南迪妮那句「回去」写成直觉，让她写成被驱使——「回去」把调查写成直觉，把她写成被驱使；「让一点光照进来」把她写成下了决心，把「擦窗户」写成让光进来。
 
 ---
 
@@ -52,7 +52,7 @@ modified: "2026-10-20"
 
 > **原句 3:** "It was scratched up quite badly, but she could make out the letters J I M M Y on it."
 
-中文理解：它被刮得相当厉害，但她能辨认出上面的字母 J I M M Y。把 吉米 的 写成，把 吉米 写成 "达尔拉's "。
+中文理解：它被刮得挺厉害，但她能认出上面的字母 J I M M Y。把吉米的项圈牌写成线索，把吉米写成达尔拉的狗。
 
 句子结构：主系表 It was scratched up quite badly + 让步 but she could make out the letters J I M M Y on it。
 

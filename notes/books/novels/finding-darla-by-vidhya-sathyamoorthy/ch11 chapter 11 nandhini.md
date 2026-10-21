@@ -19,7 +19,7 @@ modified: "2026-10-20"
 
 > **原句 1:** "Consider this an early birthday present."
 
-中文理解：把这当作提前的生日礼物吧。把 迈克尔 的 写成 ——从 到 羊肉，把 迈克尔 的 人物 写成。
+中文理解：把这当作提前的生日礼物吧。把迈克尔的善意写成「一贯的」——从寄来的关怀包裹到生日的羊肉，把他这个人写成「一直在给的人」。
 
 句子结构：祈使句 Consider this an early birthday present。
 
@@ -27,7 +27,7 @@ modified: "2026-10-20"
 
 表达方式：Michael's mutton gift 把 "kindness" 写成 "recurring"——从 care packages 到 birthday mutton，把 Michael 的 generosity 写成 "habitual" 而非 "one-time"。
 
-为什么这样写：把 迈克尔 的 羊肉 写成，让 迈克尔 的 人物 写成 ——从 到 羊肉，把 迈克尔 的 写成 ；南迪妮's 把 写成 " 即兴"，把 写成。
+为什么这样写：把迈克尔送羊肉写成「反复出现的善意」，让他这个人写成「始终如一」——从关怀包裹到生日羊肉，把他的慷慨写成习惯；南迪妮的预算紧张把「请客」写成「就地取材的巧思」，把经济拮据写成「会变通」。
 
 ---
 
@@ -43,7 +43,7 @@ modified: "2026-10-20"
 
 表达方式：birthday song 把 Michael 的 character 写成 "vulnerable"——"voice cracked" 把 singing 写成 "courage"，把 Michael 的 "tough ex-gangster" 写成 "sweet"。
 
-为什么这样写：把 写成，让 迈克尔 的 人物 写成 "脆弱的"—— 把 写成，把 迈克尔 的 写成 ； 的 把 写成。
+为什么这样写：把生日歌写成「好笑」，让迈克尔这个人写成「脆弱」——「声音破了」把唱歌写成「勇气」，把「硬汉前黑帮」写成「可爱」；「马来西亚偶像」的调侃把生日这一刻写成「一起的快乐」。
 
 ---
 
@@ -59,7 +59,7 @@ modified: "2026-10-20"
 
 表达方式：Michael 的 critique 把 Darla 的 film 写成 "unrealistic"，把 Nandhini 的 defense 写成 "personal"——"I'm not crazy, Michael!" 把 Nandhini 的 outburst 写成 "identification with Ariyah"。
 
-为什么这样写：把 迈克尔 的 写成，让 迈克尔 的 人物 写成 —— 把 梦境 写成，把 南迪妮 的 梦境s 写成 ；南迪妮 的 "I'm , 迈克尔!" 把 写成 —— 阿里亚，。
+为什么这样写：把迈克尔的批评写成「文化滤镜」，把他这个人写成「务实」——「简直说不通嘛」把梦写成「胡话」，把南迪妮的梦写成「疯了」；南迪妮那句「我没疯，迈克尔！」把爆发写成「认同」——她在替阿丽雅辩护，也在替自己辩护。
 
 ---
 
@@ -67,7 +67,7 @@ modified: "2026-10-20"
 
 > **原句 4:** "I don't want you to do anything you'll regret."
 
-中文理解：我不想你做任何你会后悔的事。把 迈克尔 的 写成 —— 把 写成 "情感的 " 的，把 迈克尔 的 人物 写成。
+中文理解：我不想你做任何你会后悔的事。把迈克尔的退开写成「守规矩」——「不是在你难过的时候」把同意写成取决于情绪状态，把他这个人写成「有原则」。
 
 句子结构：主谓宾 I don't want you to do anything + 宾语从句 you'll regret。
 
