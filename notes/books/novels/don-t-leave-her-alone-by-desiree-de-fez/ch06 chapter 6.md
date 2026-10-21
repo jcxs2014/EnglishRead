@@ -63,7 +63,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：作者用 Carlos 的批判显示 Diana 的纵容——即使证据显示没事，她仍为 Alba 辩护；"rationalizing" 是对 Diana 行为的诊断；"losing it" 显示他的挫败；Juan 的缺席（急诊五小时、无法离开工作）显示 Alba 支持系统的依赖（她需要 Carmen，而非 Juan）；"He was probably taking it easy because your mom went with your sister" 显示他对 Alba 操纵的感知；这段交流把 Carlos 确立为家族的外部审计者。
 
-**读者视角提示**："Diana, you’re losing it" 与 ch04 "I’m not strong, I’m resistant" 形成 Diana’s self-assessment vs Carlos’s assessment; Diana’s "The important thing is the baby is OK" is her rationalization; Carlos’s "nothing happened to the baby" is the truth Diana won’t accept。
+**读者视角提示**："Diana, you’re losing it" 与 ch04 "I’m not strong, I’m resistant" 形成 Diana’s self-assessment vs Carlos’s assessment; Diana 的 "the baby is fine" 是她的自我合理化; Carlos 的 "the baby is OK" 与 "nothing happened to the baby" 是她不愿接受的真相。
 
 > **原句 5:** “‘Do you know how to get rid of an evil eye?’ … ‘The one who isn’t cross-eyed told me that one day, I wouldn’t know how to get out of there, either.’ … ‘Shit. That gives me the creeps.’ … ‘No, Alba. It’s late. I promise I’ll call her first thing in the morning.’”
 
@@ -75,7 +75,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：作者用邪眼电话把超自然信念系统化——Alba 相信 Finestrelles 的通灵者给她下了邪眼；"the one who isn’t cross-eyed" 显示她对细节的关注（注意到是哪个通灵者）；"one day, I wouldn’t know how to get out of there, either" 是威胁性预言——Finestrelles 即陷阱；"Shit. That gives me the creeps" 显示 Diana 自己的恐惧（她并非对超自然免疫）；"You probably just imagined it" 与 "It was very clear" 显示两人的分歧；她承诺打电话给 Nuria（制作人朋友）显示她的纵容（会帮 Alba 解邪眼）。
 
-**读者视角提示**：" medium at Finestrelles" 与 ch05 中 Finestrelles 的 "old women in black" 相连；"evil eye" 主题贯穿 ch05-ch06；Diana 的 "It creeps me out" 显示她也受到影响；Alba 的 "If I google it, something might happen" 显示她的魔法思维（回避信息）。
+**读者视角提示**："the mediums came up to you yesterday at Finestrelles" 与 ch05 中 Finestrelles 的 "old women"、以及 ch02 中 "They dressed in uncompromising black" 相连；"evil eye" 主题贯穿 ch05-ch06；Diana 的 "It creeps me out" 显示她也受到影响；Alba 的 "If I google it, something might happen" 显示她的魔法思维（回避信息）。
 
 ## 词汇分级
 

@@ -1,0 +1,244 @@
+# d 步语义二审 · batch C（ch12–ch17）
+审查人：DSH-Mac 子代理 ｜ 2026-10-20
+
+范围：`notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/` 下 `ch12`–`ch17` 六个 md（只读，未改任何文件）。
+基准：`text/chNN_chapter_NN.txt`（18 个提取件 + `library/Dont Leave Her Alone (Desirée de Fez) (z-library.sk, 1lib.sk, z-lib.sk).epub` 在库，完整 lane）。
+机器口径：`verify_quotes.py` 125/125 引文可核实（ch12 7/7 · ch13 8/8 · ch14 6/6 · ch15 5/5 · ch16 6/6 · ch17 7/7）；
+`check_chinese_layer.py` 对本批 6 章阻断型 0；`check_vocab.py` FAIL 0；`corruption_scan.py` FAIL 0。
+⇒ **机械层全绿**：下列缺陷全部落在机械层查不到的语义层（引语↔分析、说话人、中文层、跨章引用、重复段）。
+
+---
+
+## 逐章小结
+
+| 章 | 块数 | 检查了哪几项 | 阻断 | 提示 | 需人判 |
+|---|---|---|---|---|---|
+| ch12 | 7 | 1 截短 / 2 错位 / 3 说话人 / 4 走形 / 5 中文层 / 6 词汇+导航 / 7 重复 | 2 | 9 | 3 |
+| ch13 | 8 | 同上 | 3 | 14 | 4 |
+| ch14 | 6 | 同上 | 1 | 13 | 2 |
+| ch15 | 5 | 同上 | 3 | 7 | 3 |
+| ch16 | 6 | 同上 | 2 | 14 | 4 |
+| ch17 | 7 | 同上 | 4 | 15 | 4 |
+| 合计 | 39 | — | **15** | **72** | **20** |
+
+块数（7/8/6/5/6/7）在本书 18 章区间 3–9、中位 6 之内（全书 min/median/max = 3/6/9）⇒ 块数配额（§9c 同书自校准）**不判缺陷**。
+
+---
+
+## 缺陷清单
+
+### [ch12] `ch12 chapter 12.md:88` | 原句 7 | 类别 5 中文层（残句/截断） | 阻断
+
+- **原文逐字**（`text/ch12_chapter_12.txt:246`）：`The girl reached the escalators in a matter of seconds.`
+- **md 逐字**（`ch12 chapter 12.md:88`，中文理解字段，行长 727）：末尾为 `…Alba 的翻筋斗曾是她全家的骄傲，但没人再记得了，这让她伤心。女孩 reac...`
+- **判定依据**：字段在同一段里以 ASCII `...` 截断，中文句子停在半词 `reac`。本批其余「省略」字段一律用全角 `……`（ch12:55 / ch17:46·58·70·82），**只有 md:88 用 ASCII 三点** ⇒ 是生成期截断，不是写作省略。该字段前面的中文已完整覆盖 text:246 的「翻筋斗四个」一段，被截断的是紧接其后的下一句 ⇒ 缺的是 text:246 尾句对应的译文。
+- **旁证**：`scripts/corruption_scan.py` 对本批 FAIL 0 —— **该类损坏不在该扫描器的判据内**（它查 U+FFFD / 双句号 / 占位崩坏，不查 ASCII 省略号结尾）。
+
+### [ch12] `ch12 chapter 12.md:61` | 原句 4 | 类别 1 引语截短 + 类别 4 分析层走形 | 阻断
+
+- **md 逐字**（md:61，为什么这样写）：`… "hair bleached by sun" 与女孩的 "sun-bleached hair" 相呼应 …`
+- **原文逐字**：`text/ch12_chapter_12.txt:165` = `All the girls danced when the DJ played 'El Venao' … hair bleached by the sun`；`text/ch12_chapter_12.txt:168` = `Twelve-year-old Alba, with her red swimsuit and sun-bleached hair, would wander that no-man's-land for a very long time.`
+- **判定依据**：本块引语（md:53，原句 4，2678 字符）**确实含** `hair bleached by the sun`，但**不含** `sun-bleached hair`（逐字符检索确认，`sun-bleached hair` 出现在 **下一块**原句 5 的引语 md:64 里）。md:61 把「与女孩的 sun-bleached hair 相呼应」当成本块内的呼应来写 ⇒ 分析引用了本块引语之外的词（类别 1）。
+  附带类别 4：md 写作 `"hair bleached by sun"`，原文为 `hair bleached by the sun`（漏 `the`），却以原文引证形态呈现。
+
+### [ch13] `ch13 chapter 13.md:66` | 原句 4 | 类别 4 分析层走形（跨章引用被改写） | 阻断
+
+- **md 逐字**（md:66，读者视角提示）：`本场景连结 ch11 的 "longed for Diana to pinch her"（Alba 需要外部确认自身存在）。`
+- **原文逐字**（`text/ch11_chapter_11.txt:84`）：`She thought she had disappeared—until Diana pinched her leg. … There in the Splau bathroom, before she fainted from the pain, Alba longed for Diana to sit down and give her a pinch.`
+- **判定依据**：md 引作 ch11 的 `"longed for Diana to pinch her"`，**该短语在 ch11 中不存在**（ch11 原句是 `Alba longed for Diana to sit down and give her a pinch.`），md 把「sit down and give her a pinch」压缩改写成了「pinch her」，并省略原句的动作主体结构 ⇒ 类别 4 走形。
+  **核对已知线索（leg/thigh 是否混用）：未混用**。md:66 的括注「（与 Diana 在捉迷藏时掐 Alba 的腿平行）」正确对应 ch11 的 `pinched her leg`；md:64 引的 `"pinch her thigh"` 对应 `text/ch13_chapter_13.txt:24` `Alba felt someone pinch her thigh.`，本章引语逐字无误。**该线索中「改写」部分成立、「混用 leg/thigh」部分不成立。**
+
+### [ch13] `ch13 chapter 13.md:64` + `md:66` | 原句 4 | 类别 4 分析层走形（自造英文当引证） | 阻断
+
+- **md 逐字**（md:64 为什么这样写）：`…"children's eyes like needles" + "red pinpricks" 显示孩子们的攻击（超自然的目光）…`；md:66 读者视角提示同引 `"red pinpricks"`。
+- **原文逐字**（`text/ch13_chapter_13.txt:33`）：`she felt the children's eyes on her like needles` + `Alba's face filled with tiny red points, as if hundreds of pins were sticking into her`
+- **判定依据**：`grep -rl "pinprick" text/` **全书 18 个提取件零命中** ⇒ `"red pinpricks"` 是 md 自造的英文短语，却以引号引证形态出现（并列在真引证 `children's eyes like needles` 之后，读者无法区分）。md:64/md:66 在**同一块内相邻**（同一引语块的「为什么这样写」「读者视角提示」），符合防幻觉条款要求的「同文件且相邻」。
+
+### [ch13] `ch13 chapter 13.md:48` | 原句 3 | 类别 1 引语截短 + 第 9 条 b 关键词回查失败 | 阻断
+
+- **md 逐字**（md:48，关键词）：`**关键词**：four tiny hands / single-file line / birth ritual / bluish skin / old man's face`；md:52 为什么这样写同引 `"birth ritual"`。
+- **原文逐字**：`text/ch13_chapter_13.txt:27` = `The birth ritual repeated itself, along with the otherworldly howling.`（**原句 4 的引语块 md:56 内**）；本块引语（md:44，3789 字符）**不含** `birth ritual`（逐字符检索确认），只含 `Guinness World Records books`、`walking like an adult`、`thirteen- or fourteen-pound`。
+- **判定依据**：`birth ritual` 是本章原文词，但落在**下一块**（原句 4）的引语里 ⇒ 原句 3 的分析/关键词引用了本块引语之外的词（类别 1 + 第 9 条 b「块内关键词的英文词必须能在该块引语中找到」）。
+  同类但较轻的相邻问题（**归提示型**）：md:36 关键词 `metallic laughter` / `Primark robe`（本块引语 md:32 内确有 `metallic` 与 `laughter`、`Primark` 与 `robe`，只是不是这个紧邻搭配）、md:72 关键词 `same face`（**实为 ch16:30**，见下方跨章条目）。
+
+### [ch14] `ch14 chapter 14.md:64` | 原句 4 | 类别 4 分析层走形 | 阻断
+
+- **md 逐字**（md:64，为什么这样写）：`作者用 "silvery scars... traced over with glitter" 显示超自然愈合…`
+- **原文逐字**（`text/ch14_chapter_14.txt:138`）：`The three had identical scars on their abdomens: closed, silvery scars, as if someone had waited until they healed properly then traced over them with glitter…`
+- **判定依据**：原文在 `scars` 与 `traced over` 之间是**冒号**（`scars: closed, silvery scars, as if … traced over them with glitter`），md 用 `...` 把两端接成一条「省略号引语」，且省略掉的正是 `closed, silvery scars, as if someone had waited until they healed properly then` 这一段原文——按本库第 2 条「省略号两侧都必须是原词」，此处省略号两侧虽都是原词，但 **md 在引证形态上把原文的连续句改成了两个不相邻片段的拼接**（原文 `silvery scars` 与 `traced over them with glitter` 之间隔着 60 余字符）。同类还有 md:64 的 `"three identical scars"`（原文 `The three had identical scars on their abdomens`）、`"Carmen's eyes already closed"`（原文 `Carmen's eyes were already closed.`）——均为压缩改写而非逐字。
+  ⚠️ 此条与本库真实失败案例 A/B 不同：A/B 是**引语行本身**错位/截短；本条是**分析层英文引证**被改写（第 4 类），引语行 md:56 逐字无误。
+
+### [ch15] `ch15 chapter 15.md:70` | 原句 5 | 类别 5 中文层（引号错位 + 未译词） | 阻断
+
+- **md 逐字**（md:70，中文理解）：`Alba 握住她的手。”妈妈，没关系。你已经尽力了。“几秒钟没人说话。…` 以及 `"”有点狼狈，"Alba 说。"`（混用 ASCII `"` 与全角 `“”`）
+- **原文逐字**（`text/ch15_chapter_15.txt:135`）：`"A little worse for wear," Alba said.`
+- **判定依据**：中文理解里出现**闭合引号在前、开启引号在后**的错位（`。"…"` 两处），且夹带 ASCII 直引号。中文层的引号是读者用来定位「这句对应原文哪句」的锚，错位后无法定位 ⇒ 判阻断（内容层缺陷，非措辞问题）。
+- **同块另一处未译**（同字段内）：`这句话在她听来很 Ridiculous`（原文 `text/ch15_chapter_15.txt:132` = `The sentence sounded ridiculous to her`），`Ridiculous` 未译、且首字母大写使它读起来像专名。
+
+### [ch15] `ch15 chapter 15.md:46` | 原句 3 | 类别 5 中文层（整句未译） | 阻断
+
+- **md 逐字**（md:46，中文理解）：`"Alba 毁了。我们也是，即使我们不再疼了，胃也光洁了，"`
+- **原文逐字**（`text/ch15_chapter_15.txt:84`）：`Alba is destroyed. And so are we, even if we're not in pain anymore and our stomachs are shiny`
+- **判定依据**：整句未译（中英夹杂），只把 `Alba` 保留为专名——按 `check_chinese_layer.py` 判据 ⑨（单条中英夹杂 >35% 为阻断）与 2026-10-20 规则升级，这一条的中文理解整段是「未翻译的英文句子 + 专名」，语义信息量由英文而非中文承载 ⇒ 阻断。
+  同类同章：**md:34** `"你真 Ridiculous，"Alba 回应`（原文 `text/ch15_chapter_15.txt:21` = `"You're ridiculous," Alba responded`）；**md:58** `“显示正在寻找司机……”`（原文 `text/ch15_chapter_15.txt:105` = `Diana took out her phone and called them a car. "It's it's looking for drivers…"` ⇒ **译文把 "It says it's looking for drivers…" 译成「显示正在寻找司机」，属译文与原文意思不符**——原文主语是「(屏幕上)写着」，非「显示」）；同字段还有 `Alba 看起来 devastated`（原文 `text:120` = `Alba looked devastated`）与 `看起来那么 stoic`（原文同句 `Their mother had looked so stoic`）两处未译。
+
+### [ch16] `ch16 chapter 16.md:54` + `md:57` | 原句 3 | 类别 4 分析层走形（跨章词被当本章引证） | 阻断
+
+- **md 逐字**（md:54 为什么这样写）：`作者用 "pinch her thigh" 显示 Diana 的方法（捏腿触发尖叫，呼应 Alba 童年时 Diana 捏她腿的捉迷藏）；… "mouth of wolf" … "flayed skin around eyes" … "applause in synchrony" …`；md:57 读者视角提示同引四项。
+- **原文逐字**：
+  - `text/ch16_chapter_16.txt:18` = `Then, all of a sudden, she stretched out her thumb and index finger and pinched her thigh` ⇒ **本章原文没有 `pinch her thigh` 这个短语**（本章是过去式 `pinched her thigh`）；`pinch her thigh` 实为 `text/ch13_chapter_13.txt:24` = `Alba felt someone pinch her thigh.`
+  - `text/ch16_chapter_16.txt:24` = `Splau became the mouth of a wolf`（md 写 `mouth of wolf`，漏 `a`）／`the version with the skin around its eyes flayed`（md 写 `flayed skin around eyes`，改成另一个语序）／`they clapped in perfect synchrony`（md 写 `applause in synchrony`，把 `clapped` 换成 `applause`）。
+- **判定依据**：md:54/md:57 在**同一块内相邻**，四项引证**全部**与本章原文用词不同，却以原文引证形态呈现；其中 `pinch her thigh` 更是他章词被当本章词使用 ⇒ 类别 4 走形 + 跨章误植（`check_analysis_quotes.py` 的「跨章引用未标注」段也独立抓到了 `ch16:54` / `ch16:57` 的 `pinch her thigh`，实为 ch13）。
+- **注**：md:57 的 `"Diana pinched her leg"` 是 `text/ch11_chapter_11.txt:84` 的**逐字**原文，且 md 明确标注了 ch11 ⇒ 跨章引用**标注合规**，不判缺陷（工具同列在「未标注」段是误报）。
+
+### [ch17] `ch17 chapter 17.md:38` | 原句 2 | 类别 3 说话人/受话人错误 | 阻断
+
+- **md 逐字**（md:38，句子结构）：`长段——"'Juan, before you sit down, would you mind changing out of those clothes?'"；"Juan asked his mother-in-law as she removed her blood-soaked sneakers…"`
+- **原文逐字**（`text/ch17_chapter_17.txt:33`）：`"Carmen, before you sit down, would you mind changing out of those clothes?" Juan asked his mother-in-law as she removed her blood-soaked sneakers and threw them into the kitchen trash can.`
+- **判定依据**：**受话人被调换**——原文是 Juan 对岳母 **Carmen** 说，md 的句子结构写成 `"Juan, before you sit down…"`（把受话人写成 Juan）。同一块的**引语行 md:32 是正确的**（`'Carmen, before you sit down…'`，逐字无误）⇒ 属第 9 条 a 的「引语行与分析行不同步」，且是对话类内容里最要命的「谁对谁说」错配。
+  ⚠️ 与本库真实失败案例 C 的区别：C 是「引语行本身」被写成他人转述；本条是引语行正确、**分析层转述时把受话人写错**，因此六道机械门禁全部看不见。
+
+### [ch17] `ch17 chapter 17.md:98` | 原句 7 | 类别 7 重复段落 | 阻断
+
+- **md 逐字**（md:98，句子结构字段，行长 1838）：字段尾部被整段复制两遍。`l[1316:1838] == l[682:1204]` 逐字符比对为 **True**（522 字符完全相同）；重复区 = `l[1202:1838]`（636 字符）；`'Hearing the commotion'` 在同一行出现 **2 次**（offset 682 与 1316）；粘贴起点在词中间 `…e, I would never have believed. I dream of you—what have you given me? I long for you, you're forgetting me.` 之后随即重贴 `Hearing the commotion… The kids were ecstatic… 'Diana!' Carmen yelled. 'What?' 'Why don't you get an air fryer like the one your sister has?'`。
+- **正确内容** = `l[:1202]`（1202 字符，止于 `…an air fryer like the one your sister has?'`）。
+- **判定依据**：字段整段被复制两遍（生成期复制粘贴），与本批已知的 ch16:61 同型（见下）。注意：`'I dream of you'` 在本行出现 3 次，其中 2 次是**原文副歌本身的重复**（引语 md:92 内确有两次 `I dream of you—what have you given me?`），**只有 `Hearing the commotion` 之后的 636 字符是真重复**。
+
+### [ch16] `ch16 chapter 16.md:61` | 原句 4 | 类别 7 重复段落 | **已由他实例修复（审查期间）**
+
+- **审查开始时状态**（本次审查 15:28 首次读取该行时）：行长 **2360** 字符；`A` 段 = `l[9:569]`（560 字符）被逐字复制为 `l[569:1129]`；`l[1129:1135]` = `耐心而 无奈`；`B` 段 = `l[1136:1748]`（612 字符）被逐字复制为 `l[1748:2360]`（613 字符，含尾 `。`）。正确内容 = `l[0:569] + l[1129:1748]` = **1188 字符**（与已知线索的 1188 字符版本一致）。
+- **当前状态**（复查，文件 mtime `Oct 20 15:55:33`）：`ch16 chapter 16.md:61` 已是 1188 字符，**去重完成**（`Alba 再次看向那些女人` ×1、`当两个一模一样的女孩` ×1、`一个大约三十岁的女人` ×1）。
+- **残留缺陷（阻断）**：该行仍留有多余空格 —— `…一个年长的女人、一个年轻男人和两个小孩在一旁看着，耐心而 无奈。当两个一模一样的女孩…`（`耐心而 无奈` 中间一个 ASCII 空格）。
+- **并发说明**：`git status --short` 显示 `ch16 chapter 16.md` / `ch17 chapter 17.md` 处于 Modified 状态，**另一实例在 15:55 修改了 ch16**（本次审查全程只读，未做任何写入）。ch17 的同类重复**尚未被修复**（mtime 仍为 `Oct 20 10:56:05`）。
+
+### [ch17] `ch17 chapter 17.md:96` + `md:100` | 原句 7 | 类别 1 引语截短 + 第 9 条 b 关键词回查失败 | 阻断
+
+- **md 逐字**（md:96，关键词）：`**关键词**：Camela / I Dream of You / Tears of Love / air fryer`；md:100 为什么这样写同引 `"Camela"`；md:102 读者视角提示再引 `"Camela"`。
+- **原文逐字**：`text/ch17_chapter_17.txt:336` = `"Alexa, play 'I Dream of You' by Camela!"`；`:345` = `"Alexa, play 'Tears of Love' by Camela"` —— 都在**本章**（非他章），但**不在本块引语**里。
+- **判定依据**：本块引语（md:92，原句 7，1171 字符）含 `I dream of you` 与 `air fryer`，**不含** `Camela`、也不含 `Tears of Love`（逐字符检索确认）⇒ 关键词与分析引用了本块引语之外的词（类别 1 + 第 9 条 b）。本章的 Camela 出现在 text:336/345，属于**本章内但块外**，性质与 ch12 md:61 / ch13 md:48 相同。
+
+### [ch13] `ch13 chapter 13.md:76` + `md:78` | 原句 5 | 类别 4 走形 + 跨章引用未标注 | 阻断
+
+- **md 逐字**（md:76 为什么这样写）：`…"same face" 确认分身 = Alba…`；md:78 读者视角提示：`"same face" = doppelgänger 就是 Alba`。
+- **原文逐字**：`same face` **在 ch13 全章不存在**（`grep` 空）；ch13 对应原文是 `text/ch13_chapter_13.txt:48` = `The woman had her own face. The same oval shape Diana envied`；`same face` 实际出自 `text/ch16_chapter_16.txt:30` = `her mother, who had the same face`。
+- **判定依据**：md 用一个**他章短语**来指认本章的分身（且引作原文），且**未标注章号** ⇒ 读者会误读为引自本章（`check_analysis_quotes.py` 的「跨章引用未标注」段独立抓到 `ch13:76` / `ch13:78`）。
+
+### [ch16] `ch16 chapter 16.md:67` + `md:70` | 原句 4 | 类别 1 引语截短（引语覆盖不足） | 阻断
+
+- **md 逐字**（md:67 为什么这样写）：`…"no one had even suggested Juan should go" 显示性别化的期待（母亲去，父亲留）；…`；md:70 读者视角提示写 `"no one suggested Juan should go"`。
+- **原文逐字**（`text/ch16_chapter_16.txt:33`）：`No one had even suggested that it'd be better if he had gone with her`（**本块引语 md:59 内确含该句**，故不属引语行截短）。
+- **判定依据**：本条**不是引语截短**（引语行覆盖了该句），而是 md 把原文压缩改写后当引证（`that it'd be better if he had gone with her` → `Juan should go`），并且 md:70 的版本又再压缩一次（`no one suggested Juan should go`）⇒ **类别 4 走形（两处各一改写）**，归阻断。
+
+### [ch17] `ch17 chapter 17.md:100` + `md:102` | 原句 7 | 类别 4 走形 + 跨章引用未标注 | 阻断
+
+- **md 逐字**（md:100 为什么这样写）：`…"Diana in Splau that night" 表明超自然联系（揭示）；…`；md:102 读者视角提示写 `"Diana in Splau"`。
+- **原文逐字**：`Splau that night` **在 ch17 全章不存在**（`grep` 空；ch17 中 Splau 只出现在 text:6 / 48 / 309 / 315）；该句实为 `text/ch15_chapter_15.txt:141` = `Nor did she say that Diana, without knowing it, had been with her in Splau that night.`
+- **判定依据**：ch17 的**本章内**证据（text:309 `You had glitter tentacles coming out of your stomach… "At Splau."` / text:315 `You were in Splau with some sparkly tentacles, dancing around?`）支持「Diana 与 Splau 的超自然联系」，但 md 把 **ch15 的句子**改写后当本章引证，且**未标章号** ⇒ 类别 4 走形 + 跨章误植。
+
+---
+
+## 提示型（只记不改，不阻塞）
+
+### 类别 4 分析层英文走形 —— 逐字改写但语义不误（合计 72 条，机器口径 `check_analysis_quotes.py`）
+
+本批「全书查无 165 条」里落在 ch12–ch17 的 94 条，逐条核为**语义正确但用词与原文不同**的压缩引证（md 把长句压成短标签后加引号）。**同类现象密度过高（94 条 / 39 块 ≈ 2.4 条/块，超过 §「提示型豁免边界 ③」的 30% 阈值）**，按该条须先抽样人工定性——本报告已逐条核过语义，结论：**语义层全部成立，属措辞非正当（压缩引证），不是内容错**。但同批存在 12 条**语义也偏**的（已列入上面的阻断清单）。摘录（原文逐字 vs md 逐字）：
+
+| md 位置 | md 逐字 | 原文逐字 |
+|---|---|---|
+| ch12:39 | `chorus doesn't count` | `text/ch12:72` `That's the chorus. It doesn't count.` |
+| ch12:62 | `ghosts feeding on memories` | `text/ch12:165` `Feeding on the memories of their originals…` |
+| ch12:62 | `even when cold, even in January` | `text/ch12:162` `Even when it was cold. Even in January.` |
+| ch12:72 | `ghosts vanished when originals lost memories` | `text/ch12:168` `Some vanished when their originals lost their memories` |
+| ch12:72 | `wander that no-man's-land for twenty years` | `text/ch12:168` `Twelve-year-old Alba … would wander that no-man's-land for a very long time.` + `And for twenty years after that…` |
+| ch12:94 | `balancing on railing` | `text/ch12:255` `There was the girl, balancing on the railing`（**在本块引语内** ⇒ 非缺陷） |
+| ch13:40 | `swept up the shoe and Switch controllers` | `text/ch13:12` `She watched as it swept up the shoe and the Switch controllers.` |
+| ch13:52 | `scaly skin around eyes` | `text/ch13:18` `dark, scaly skin around those eyes` |
+| ch13:52 | `Guinness World Records babies` | `text/ch13:18` `those thirteen- or fourteen-pound babies who end up in the Guinness World Records books` |
+| ch13:52 | `walk like adult` | `text/ch13:18` `except it was walking like an adult` |
+| ch13:52 | `sleep mask melted into face` | `text/ch13:18` `like a sleep mask had melted into its face` |
+| ch13:54 | `children holding cord` | `text/ch13:18` `grabbed on to the cord like the others` |
+| ch13:64 | `children's eyes like needles` | `text/ch13:33` `she felt the children's eyes on her like needles`（**在本块引语内**） |
+| ch13:88 | `mermaid scales` | `text/ch13:180` `clinging to that manufactured mermaid skin` |
+| ch13:100 | `woman strung to Christmas lights by intestines` | `text/ch13:162` `a woman strung to the Christmas lights by her intestines` |
+| ch13:112 | `tentacles coiled back gently` | `text/ch13:204` `the tentacles coiled back inside of her, this time gently` |
+| ch13:112 | `scream suspended in time` | `text/ch13:207` `a scream that seemed suspended in time` |
+| ch14:28 | `Carlos kissed her cheek` / `rushed to car` | `text/ch14:9` `With tears in his eyes, he kissed her cheek, and without a word, he rushed to the car.`（**人物归属正确**：Carlos） |
+| ch14:30 | `Juan holding Alba by shoulders` | `text/ch14:9` `he was holding Alba by the shoulders` |
+| ch14:40 | `controllers got dirty` | `text/ch14:21` `"They got a little dirty."` |
+| ch14:42 | `swept under rug` | `text/ch14:27` `she and her mother and sister, who swept everything under the rug` |
+| ch14:54 | `calm made no sense` | `text/ch14:42` `The calm in her voice made no sense at all.` |
+| ch14:64 | `three identical scars` | `text/ch14:138` `The three had identical scars on their abdomens` |
+| ch14:64 | `Carmen's eyes already closed` | `text/ch14:120` `Carmen's eyes were already closed.` |
+| ch14:76 | `shredded ears` | `text/ch14:195` `they're, like, shredded` |
+| ch14:76 | `YouTubers eating red foods` | `text/ch14:141` `who had decided to only eat red foods for twenty-four hours` |
+| ch14:76 | `cigarette at nine` | `text/ch14:162` `I think I was nine when I had my first cigarette` |
+| ch14:88 | `pink lights in sky` | `text/ch14:267` `Some pink lights, in the sky,` |
+| ch14:88 | `placed two pizzas where they were sitting, without a word` | `text/ch14:285` `placed two pizzas where they were sitting. He did it without a word.` |
+| ch15:28/30 | `silhouetted against crude backdrop` | `text/ch15:6` `silhouetted against a crude, empty backdrop` |
+| ch15:40/42 | `Alba shocked` | `text/ch15:27` `She was shocked.`（**注意：原文主语是 "She"，未点名 Alba**；该块对白由 Alba 说出，md 归给 Alba ⇒ 需人判，见下） |
+| ch15:64/66 | `first summer at campsite` | `text/ch15:117` `Our first summer at the campsite.` |
+| ch15:66 | `I had an octopus too` | `text/ch15:117` `I had an octopus in my stomach, too,` |
+| ch16:41/44 | `raw skin around eyes` | `text/ch16:15` `raw skin around her eyes` |
+| ch16:44 | `gloomy Diana` | `text/ch16:15` `Diana, or a gloomy version of Diana` |
+| ch16:80/83 | `scars / stumps` | `text/ch16:42` `there were scars. Or in some cases, tiny stumps`（md 用 `/` 连接两个词，**非引号内连续短语** ⇒ 属第 9 条 b 允许的「关键词合并」体例，**不判缺陷**） |
+| ch16:93/96 | `women as mirrors` / `tentacles as garlands` | 全书查无；这是 md **自创的解释性标签**，非原文引证（`scars / stumps` 同）⇒ 归「标签对 ≠ 内容对」口径外，**需人判** |
+| ch17:28 | `bloodstains impossible to get out` | `text/ch17:15` `bloodstains are impossible to get out` |
+| ch17:28 | `Carmen's prewash` | `text/ch17:18` `then throw it in on prewash…` Carmen said |
+| ch17:28/30 | `Carlos pale and out of sorts` | `text/ch17:24` `Carlos was sitting on the couch, appearing pale and out of sorts` |
+| ch17:40 | `billboards for Finestrelles and Splau` | `text/ch17:48` `One was for the Finestrelles mall and the other for Splau.` |
+| ch17:52/54 | `Santa might pass by` | `text/ch17:57` `He explained that Santa might pass them by…`（**该短语在 ch14:258 有同源句**「They were the lights on the sleigh」，但本章有独立原文 ⇒ 不判跨章误植） |
+| ch17:52/54 | `Even Carlos hypnotized` | `text/ch17:75` `Even Carlos ended up hypnotized` |
+| ch17:64/66 | `sisters mimicked each other` | `text/ch17:96` `even with six years between them, they mimicked each other` |
+| ch17:64 | `left hair loose so kids wouldn't see ears` | `text/ch17:96` `Tonight, Alba had left her hair loose so the kids wouldn't see her ears.` |
+| ch17:64/66 | `painkiller rare` | `text/ch17:96` `she had even taken a painkiller—rare for her, since she avoided medication at all costs` |
+| ch17:66 | `Carlos noticed` | ch17 全章 `noticed` 只出现在 text:279（不相关句）⇒ **md 自造短语**，归提示型（非引文改写，是自造标签） |
+| ch17:76/78 | `cork bounced off ceiling` | `text/ch17:183` `the cork bounced off the ceiling` |
+| ch17:76/78 | `raised glasses in silence` | `text/ch17:183` `they raised their glasses in silence` |
+| ch17:78 | `neither one met eyes` | `text/ch17:183` `Neither one felt able to meet the other's eyes` |
+| ch17:88 | `bingo lady and friends` | `text/ch17:216` `The bingo lady and her friends. The women who played bingo at her camper.` |
+| ch17:100/102 | `kids ecstatic` | `text/ch17:369` `The kids were ecstatic.` |
+| ch15:76/78 | `Diana in Splau that night` | `text/ch15:141` `Nor did she say that Diana, without knowing it, had been with her in Splau that night.`（**本章内** ✔） |
+
+### 类别 5 中文层 —— 未译词与多余空格（提示型）
+
+**未译/夹杂词**（专名除外）：ch13:34 `无法不 whimpering`（原文 `text/ch13:12` `too intense for her to resist whimpering`）· ch13:70 `clinging to 她… latch on 到她的乳房上…两缕碎发 framing 脸庞`（原文 `text/ch13:42` `clinging to her` / `One of them had latched on to her breast`；`text/ch13:48` `two wisps framing the face`）· ch14:70 `听起来有些 resigned`（原文 `text/ch14:153` `sounding resigned`）· ch15:22 `画面 striking`（原文 `text/ch15:6` `The image was striking`）+ `那天 downtown 挂起圣诞灯`（原文 `the day they put the Christmas lights up downtown`）· ch15:58 `Alba 看起来 devastated`（原文 `text/ch15:120` `Alba looked devastated`）+ `看起来那么 stoic`（原文同句 `Their mother had looked so stoic`）· ch12:44 `当girl走过来`（原文 `text/ch12:156` `when the girl came over`）。
+⚠️ 逐条测得这些字段的 `check_chinese_layer.mix_ratio` 均 < 35%（ch15:22 18.0% · ch15:58 15.1% · ch14:70 13.7% · ch13:70 10.6% · ch13:34 7.4% · ch12:44 4.3%）⇒ **机器判为提示型；但「留下未译形容词」是内容层缺陷（读者拿不到中文义）**，按 §提示型豁免 ①「内容本身成立」的前提，此处内容不成立 → 本报告按**阻断**处理（已列 ch15:34/46/58、ch13:34/70、ch14:70、ch12:44、ch15:22），ch16 不涉及。
+
+**多余空格**（ASCII space 夹在中文里，纯机械层不可见）：ch13:40 `Alba 的 Rosa Clará` · ch13:46 `布料 抬起` · ch13:58 `女人 分娩出`（×2）· ch16:22 `她走近时， 发现了 深色的污渍` · ch16:61 `耐心而 无奈` · ch16:87 `身体两侧 死的，死重一样` + `不时 瞥向`（×2）· ch17:88 `连接至 第十章`（×2）。
+
+### 类别 6 词汇表 + 导航
+
+- **词条例句出处：ch12 7/7 · ch13 10/10 · ch14 7/7 · ch15 6/6 · ch16 13/13 · ch17 13/13 —— 全部逐字出自本章 `text/`**（脚本逐条比对，含 `El Venao` @ text/ch12:165、`I Dream of You` @ text/ch17:336、`Tears of Love` @ text/ch17:345、`Here Comes the Hotstepper` @ text/ch17:75）。⇒ 词汇层**无 A 类虚构**。
+- **⭐⭐⭐ 高级档无基础词混入**：ch12 `no-man's-land / autonomous / unknowingly devoured / El Prat airport`、ch13 `infinite grief / evaporated / alien planet / threshold`、ch14 `Mercadona sign / sleigh / relief`、ch15 `telepathic / delusion / radical shift`、ch16 `bottleneck / deadweight / phosphorescent / void`、ch17 `flayed ears / scaffolding experts / Telepasión` —— 逐条核对**无日常基础词**。⇒ 不判缺陷。
+- **同词跨档重复（需人判，非阻断）**：ch14 `sleigh` 同时在 ⭐⭐⭐(md:99) 与 ⭐(md:117)；ch14 `Domino's` 同时在 ⭐⭐(md:107) 与 ⭐(md:116)；ch13 `ballet flats` 同时在 ⭐⭐(md:136) 与 ⭐(md:148)。
+- **ch13:139 词汇表单元格式缺陷（提示型）**：`| Fnac | Fnac（ electronics chain） | "past Fnac, past MediaMarkt" |` —— 释义格混入英文 `electronics chain`（其余同类行如 md:138 `Drim（玩具店）`、md:140 `La Casa de las Carcasas（手机壳店）` 均为中文）且括号内多一个空格。
+- **导航 / 一句话总结讲本章没讲的事**：
+  - ch16 md:10 / md:12 / md:14 / md:129 写 `women try to trap Alba` / `trapping` —— **`trap` 在 ch16 全章不存在**（grep 空）。本章实际情节（text:51「堆在门前…毫无离开的打算，也不打算让 Alba 离开」→ text:63「触手…从重量中解放了她」）支持「**tentacles free her**」，但「try to trap」是 md 的解读标签 ⇒ **需人判**。
+  - ch16 md:129 / ch17 md:136 写 `women scream because their tentacles were cut (suppressed)` / `she hasn't suppressed them` —— **`suppress` 在全书 18 个提取件零命中**；本章实际表述是 scars / tiny stumps（text:42）⇒ 语义有据、**用词自造**，归提示型；「截断 vs 压制」这层推断本身**需人判**。
+  - ch17 md:136 写 `Diana was in Splau that night` —— 该句**不在 ch17**（属 ch15:141），但 ch17 text:309/315 有本章内独立依据（`You had glitter tentacles coming out of your stomach… "At Splau."` / `You were in Splau with some sparkly tentacles, dancing around?`）⇒ **需人判**（事实成立、归属章号错）。
+  - ch12 导航/一句话总结把 ch12 当作连续场景叙述，**未提** ch12 开头重演了序章场景（`text/ch00_prologue.txt:12` `She came to in the dark, sprawled across the floor…` vs `text/ch12_chapter_12.txt:6` `Alba came to in the dark, sprawled across the floor.`）⇒ md 的**描述本身与本章内容相符**（不属错位），但**未提示这是 Alba 视角重演序章** ⇒ **需人判**（读者会以为 ch12 是新开篇）。
+  - ch13 md:10 / md:154 导航里的 `children attack (red pinpricks)` 同样用了自造词 `red pinpricks`（见阻断清单）。
+
+---
+
+## 未进扫描集 / 未能核到的内容
+
+1. **❓无法判定 —— ch13 `文本词形 vs 词条` 的 A/B 裁决未做**：本批词条例句全部命中本章 `text/`，但「词条本身在 epub 全文中查无 ⇒ A 类虚构」的裁决未单独跑（`verify_quotes.py` 只验引语行；`check_vocab.py` FAIL 0 已覆盖例句侧，词头 A 类需 epub 展平口径）⇒ **词头是否 A 类虚构：❓无法判定**。
+2. **❓无法判定 —— 13 条短引语（flat < 20 字符）未进 `verify_quotes` 校验**：该脚本对短引语设阈值跳过；本批 39 条引语中**哪些属于这 13 条、其逐字性未经脚本核验** ⇒ 我已用自写脚本对 ch12–ch17 全部 39 条逐条逐字比对（全部命中本章 `text/`），但**该结论不覆盖 epub 口径**，短引语的 epub 侧逐字性 **❓无法判定**。
+3. **❓无法判定 —— 「句子结构」字段是否应当中文**：`ch12–ch17` 全部 39 块的「句子结构」字段均为纯英文（cjk ≤ 8）。本书记 ch05–ch17 一致如此（ch00–ch04 为中文），`docs/新书启动模板.md:1195–1231` 的每引语块字段清单只列 `中文理解 / 关键词 / 为什么这样写 / 读者视角提示`（「句子结构」是全书额外体例）⇒ **是体例漂移还是契约违背：❓无法判定（倾向体例，故未判阻断）**。同理，**「一句话总结」自 ch12 起转为英文主导**（ch12–ch16 cjk=4、ch17 cjk=7，而 ch00–ch11 为中文）⇒ 该体例漂移是否适用于新增书：**❓无法判定**。
+4. **❓无法判定 —— ch12 与序章的重复是否属「缺陷」**：`text/ch00_prologue.txt:12` 与 `text/ch12_chapter_12.txt:6` 是同一场景的两种视角（`She came to…` / `Alba came to…`），属**原作的重演设计**还是提取/切章副作用（ch12 是否应从别处起切）⇒ 需人判；**md 侧未出现与该重复矛盾的描述**，故未列缺陷。
+5. **❓无法判定 —— ch15「Alba shocked」的主语归属**：原文 `text/ch15_chapter_15.txt:27` = `"What are you talking about?" She was shocked.`（原文只写 `She`，未点名）；md:40/42 写 `Alba shocked`。从对白顺序（text:24 Diana 问 → 回答者）推为 Alba 合理，但**原文未明示** ⇒ **需人判**。
+6. **❓无法判定 —— ch16 `women as mirrors` / `tentacles as garlands`、ch17 `Carlos noticed` 这类自造英文**：它们既不在本章也不在全书，**究竟是解释性标签（可接受）还是被当作原文引证（不可接受）**，取决于该书对「读者视角提示」字段的既定体例（是否允许加引号的作者自造标签）⇒ **需人判**；本报告按「有近义原文 ⇒ 提示型；无任何对应 ⇒ 需人判」两档处理。
+7. **❓无法判定 —— 跨章引用的「应否标注 chNN」口径**：ch13:76/78、ch16:54/57、ch17:100/102 均在他章有对应原文且未标章号；但同书 ch17:132（`Santa might pass by`）等条目在别处已被标注为合规 ⇒ 该书对跨章引用的标注口径**不统一**，因此「未标注 ⇒ 阻断」的定性**需人判**（本报告按「读者会误读为引自本章」判阻断）。
+8. **❓无法判定 —— 并发修改导致的行号漂移**：`ch16 chapter 16.md` 在本次审查期间（15:55:33）被**另一实例**修改（本次审查全程只读、未写入任何 md）。本报告所有 ch16 行号均以**修改后**的文件为准；ch12–ch15、ch17 的 mtime 未变，行号稳定。若那之后 ch16 再被改动，**行号需重新核对**。
+9. **❓无法判定 —— 本批是否满足「块数同书自校准」**：已核得全书 18 章块数 3–9、中位 6，本批 7/8/6/5/6/7 在区间内 ⇒ 数量层面通过；但**「该章该有多少块」需执行方按同书分位数确定**，本报告只给区间，不给每章应然值 ⇒ **需人判**。
+10. **❓无法判定 —— ch14/ch15/ch16/ch17 的「作者情绪/情感节点」类断言**（如 ch15 md:108 `Diana, without knowing it, was with Alba in Splau that night`）是否有更精确的原文依据：`text/ch15:141` 逐字支持该句 ✓，故**本条已核**，不列入未核项；真正未核的是各章「Tropes 兑现或反转」「人物弧线」等**评价性判断**是否与作者意图相符 ⇒ **需人判**（评价层无原文基准）。
+
+---
+
+## 结论
+
+- 机械层（引语逐字 125/125 · 中文层阻断 0 · vocab FAIL 0 · corruption FAIL 0）**全绿**，但 **d 步语义二审在 ch12–ch17 检出 15 条阻断型**：1 条中文层截断（ch12:88）· 1 条说话人/受话人错配（ch17:38）· 1 条字段整段重复（ch17:98，另 ch16:61 已由他实例在 15:55 修好）· 2 条引语截短/块外引用（ch12:61 · ch13:48 · ch17:96 计 3 条）· 7 条分析层英文走形或跨章引用被当本章引证（ch13:64/66 · ch13:76/78 · ch14:64 · ch15:58 译文不符 · ch16:54/57 · ch16:67/70 · ch17:100/102）· 1 条 ch15:70 引号错位 · 2 条 ch15 中文层整句未译（ch15:34/46/58）。
+- **本库真实失败案例对照**：案例 A（引语↔分析错位）在本批**未发现引语行错位**（39 条引语行全部逐字、且各自与所在块主题相符）；案例 B（引语截短）本批**无引语行截短**，但有 3 处**分析/关键词引用块外原文**（ch12:61 · ch13:48 · ch17:96）；案例 C（说话人错配）本批命中 1 处（ch17:38，受话人错配，且是引语行正确、分析层错——六道门禁全绿）。
+- **并发提示**：`ch16 chapter 16.md` / `ch17 chapter 17.md` 在 `git status` 中为 Modified，**另一实例正在同书作业**；ch17:98 的重复段**截至本报告落盘仍未修复**。
+- **本次审查全程只读**：未修改任何 md、未做 git 操作；唯一写入 = 本文件。

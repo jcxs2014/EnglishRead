@@ -17,13 +17,13 @@ modified: "2026-10-20"
 
 ## 精读
 
-> **原句 1:** “When the taxi parked, they quickly spotted Juan and Alba’s car. … All the van’s doors were open, and the interior lights were on. Several figures of different sizes were moving around outside on the grass. Something about it made Diana think of a haphazard manger, one a child had assembled. This image of her family—incomplete—shocked her. … There were five of them, not six. Alba was missing. And, probably because she was missing, the rest of them were more spread out than usual. She couldn’t remember ever having seen her family standing so far apart. … Nor, for that matter, could she recall standing before them without the sense that they belonged to one single mass—uniform, if conflicted.”
+> **原句 1:** “When the taxi parked, they quickly spotted Juan and Alba’s car. … All the van’s doors were open, and the interior lights were on. Several figures of different sizes were moving around outside on the grass. Something about it made Diana think of a haphazard manger, one a child had assembled. This image of her family—incomplete—shocked her. … There were five of them, not six. Alba was missing. And, probably because she was missing, the rest of them were more spread out than usual. She couldn’t remember ever having seen her family standing so far apart. … Nor could she remember feeling, as she did just then, that they were autonomous individuals, even the baby, who was rolling around nearby. … Nor, for that matter, could she recall standing before them without the sense that they belonged to one single mass—uniform, if conflicted.”
 
-**中文理解**：出租车停好后，他们很快便发现了Juan和Alba的车。……面包车的所有车门都敞开着，车内灯也亮着。几道不同大小的身影在草地上移动。这一幕让Diana想起一个草草搭成的马槽，像孩子拼装出来似的。这个不完整的家庭影像让她震惊。……他们共有五个人，不是六个。Alba不见了。大概正因为Alba不见了，其余人站得比平时更散。她不记得曾见过家人站得如此疏离。……而且，她也想不起曾站在他们面前、却没有觉得他们属于同一个整体——统一的，却也冲突着的。
+**中文理解**：出租车停好后，他们很快便发现了Juan和Alba的车。……面包车的所有车门都敞开着，车内灯也亮着。几道不同大小的身影在草地上移动。这一幕让Diana想起一个草草搭成的马槽，像孩子拼装出来似的。这个不完整的家庭影像让她震惊。……他们共有五个人，不是六个。Alba不见了。大概正因为Alba不见了，其余人站得比平时更散。她不记得曾见过家人站得如此疏离。……她也记不得自己当时的感觉：他们各自都是独立自主的个体，连那个在附近打滚的婴儿也是。……而且，她也想不起曾站在他们面前、却没有觉得他们属于同一个整体——统一的，却也冲突着的。
 
 **关键词**：haphazard manger / incomplete / autonomous / uniform
 
-**句子结构**：长段——"When the taxi parked, they quickly spotted Juan and Alba’s car."；"All the van’s doors were open, and the interior lights were on."；"Several figures of different sizes were moving around outside on the grass."；"Something about it made Diana think of a haphazard manger, one a child had assembled."；"This image of her family—incomplete—shocked her."；"There were five of them, not six."；"Alba was missing."；"And, probably because she was missing, the rest of them were more spread out than usual."；"She couldn’t remember ever having seen her family standing so far apart."；"Nor, for that matter, could she recall standing before them without the sense that they belonged to one single mass—uniform, if conflicted."
+**句子结构**：长段——"When the taxi parked, they quickly spotted Juan and Alba’s car."；"All the van’s doors were open, and the interior lights were on."；"Several figures of different sizes were moving around outside on the grass."；"Something about it made Diana think of a haphazard manger, one a child had assembled."；"This image of her family—incomplete—shocked her."；"There were five of them, not six."；"Alba was missing."；"And, probably because she was missing, the rest of them were more spread out than usual."；"She couldn’t remember ever having seen her family standing so far apart."；"Nor could she remember feeling, as she did just then, that they were autonomous individuals, even the baby, who was rolling around nearby."；"Nor, for that matter, could she recall standing before them without the sense that they belonged to one single mass—uniform, if conflicted."
 
 **为什么这样写**：作者用 "haphazard manger" 把家人写成耶稣降生场景（圣诞夜背景）；"incomplete" 显示 Alba 的缺席让家庭碎裂；"more spread out than usual" 显示 Alba 的引力（在场时家人聚拢）；"autonomous individuals" 显示 Alba 的缺席解放了他人；"uniform, if conflicted" 显示家庭的常态（整体而非个体）；本段开篇确立了本章主题：没有 Alba 的家庭是不同配置。
 
@@ -49,7 +49,7 @@ modified: "2026-10-20"
 
 **句子结构**：长段——"Diana maintained it hadn’t always been that way—she said when she and Alba lived at their parents’ house, they would tell each other everything."；"And before they had kids, the three of them would meet all the time to catch up."；"But the truth was, she had to go further back in time to reach a moment of actual intimacy."；"Carlos couldn’t make sense of it, he didn’t understand why they would avoid doing something so normal."；"He found it bizarre that they were so close and so mutually dependent, while also completely lacking deeper knowledge about one another."；"What they did know was conjecture or intuition, not the result of something shared."
 
-**为什么这样写**：作者用 Carlos 的观察作为家庭批判——Diana/Carmen/Alba 亲近但不亲密；"conjecture or intuition" 显示他们的了解是猜测而非共享；这解释了为什么 Carmen 能说 "Alba is never alone" 却不处理它；Carlos 作为局外人看到内部人忽略的；本段具有主题性（家庭亲近 ≠ 亲密）。
+**为什么这样写**：作者用 Carlos 的观察作为家庭批判——Diana/Carmen/Alba 亲近但不亲密；"conjecture or intuition" 显示他们的了解是猜测而非共享；这解释了为什么 Diana 说出 "That Alba is never alone"、而说这话的 Carmen 却只回一句 "I’ve said that a thousand times"（原句在下一块）却不处理它；Carlos 作为局外人看到内部人忽略的；本段具有主题性（家庭亲近 ≠ 亲密）。
 
 **读者视角提示**："She had never met up with just Alba because Alba didn’t go anywhere alone" 显示 Alba's autophobia's social cost; "visualizing her sister getting off the metro by herself... couldn't do it" 显示 Diana's inability to imagine Alba alone。
 
@@ -63,7 +63,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：作者用 Carmen 的承认显示母亲的觉察（她知道 Alba 的独处恐惧）；"finally on her own" 是双刃剑（Alba 的独立 = 潜在危险）；Diana 的 "satisfied smile" 显示她在 Carmen 命名它时的释然；这次交流是家庭罕见的诚实时刻；"finally on her own" 预示 Alba 的消失（她第一次独自一人，事情发生）。
 
-**读者视角提示**："Alba was happy at the campground. She wasn't afraid" 显示 Camp La Tortuga as Alba's origin of happiness (and possibly supernatural origin); "She never has any fun" 显示 Diana's diagnosis of Alba's adult life。
+**读者视角提示**："She was happy at the campground. She wasn't afraid." 显示 Camp La Tortuga as Alba's origin of happiness (and possibly supernatural origin); "She never has any fun" 显示 Diana's diagnosis of Alba's adult life。
 
 > **原句 5:** “‘By the way, he was at my house the other night.’ ‘Who?’ ‘Dad,’ said Diana. ‘For God’s sake, Diana, you’ve lost it.’ ‘I’m serious. I got up to go to the bathroom and realized he’d been there.’ ‘What do you mean?’ ‘The bathroom smelled like it did after he’d been in there—like cigarettes.’ ‘You know he smoked in there. It didn’t matter if he was showering or shitting, afterward it always smelled like cigarettes.’ ‘Exactly. We don’t smoke, the smell had to come from somewhere.’ ‘Maybe it was a neighbor.’ ‘At four in the morning? No way. None of our neighbors would be up that late. It was Dad. It’s not the first time, either. And it’s only on certain dates. He also came the night before I went in for my back injection.’”
 

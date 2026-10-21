@@ -100,6 +100,20 @@ def _sub_drift(prof_subs, optional, modal) -> str | None:
 DIGITS = re.compile(r"\d+")
 TEXTCH_RE = re.compile(r"^ch(\d+)(?![0-9])")
 
+
+def has_empty_quote_span(text: str) -> bool:
+    """真正为空的引号区（""/“”）才算残留空引号。
+
+    旧判据 `re.search(r'""|“”', v)` 会把**相邻对白**（`"又一枚耳环。""像前几天的那枚？"`）
+    误判为空引号 —— 实测本书 5 章 10 处报警全是这一形态，属假红。
+    现在改为逐个引号区解析，只在区间内容确实为空时报警。
+    """
+    for m in re.finditer(r'"([^"]*)"|“([^”]*)”', text or ""):
+        inner = m.group(1) if m.group(1) is not None else m.group(2)
+        if not inner.strip():
+            return True
+    return False
+
 from lib.text import (  # noqa: E402  统一原语，见 scripts/lib/text.py
     CJK, STOPWORDS, cjk_count, cjk_ratio, norm, split_segments, strip_quotes,
 )
@@ -274,7 +288,9 @@ def find_corpus(book: Path, no: int) -> Path | None:
 
 def check_chapter(book: Path, md: Path, form: dict | None = None) -> dict:
     no = chapter_no(md)
-    corpus = find_corpus(book, no) if no else None
+    # ⚠️ 不能写 `if no` —— ch00 的 no == 0 是合法章号，falsy 判断会把序章语料丢掉，
+    # 结果 ch00 被判「无法判定」（假红）。2026-10-20 审查 don-t-leave-her-alone 时修。
+    corpus = find_corpus(book, no) if no is not None else None
     d = parse_md(md)
     form = form or book_form(book)  # 整书模式只算一次众数，否则 O(n²)
     res: dict = {"chapter": no, "md": str(md), "corpus": str(corpus) if corpus else None,
@@ -289,14 +305,23 @@ def check_chapter(book: Path, md: Path, form: dict | None = None) -> dict:
         return res
 
     corpus_n = norm(corpus.read_text(encoding="utf-8", errors="replace"))
+    # ⚠️ 2026-10-21：本项**必须大小写不敏感**。
+    # 本库其余全部引语门禁（verify_quotes.flat_alpha / quotecheck.chapter.flat_with_bounds /
+    # overviewcheck.full.flat_alpha）都走 `.lower()` 口径；只有本文件原先是大小写敏感，
+    # 于是「原文句首大写、md 写成小写」被判「查无」——假红。
+    # 实测全库 47 本书、217 段属这一形态（本书 ch06/ch10 各 1 段）。
+    # 判据依据：AGENTS 第 2 条「引文逐字」的排版差异豁免口径（弯/直引号、句末标点、
+    # 大小写均视为正常，见第 9 条 d2 对「大小写改写是本库普遍做法」的认定）。
+    corpus_lc = corpus_n.lower()
     miss = 0
     for b in d["blocks"]:
         if b["quote_no"] is None:
             continue
         rec = {"block": b["header"] or f"原句{b['quote_no']}", "no": b["quote_no"], "segments": []}
         for seg in split_segments(b["quote"]):
-            ok = norm(seg) in corpus_n
-            rec["segments"].append({"text": seg[:120], "ok": ok, "pos": corpus_n.find(norm(seg))})
+            ns = norm(seg)
+            ok = ns.lower() in corpus_lc
+            rec["segments"].append({"text": seg[:120], "ok": ok, "pos": corpus_lc.find(ns.lower())})
             miss += 0 if ok else 1
         res["quotes"].append(rec)
 
@@ -312,7 +337,7 @@ def check_chapter(book: Path, md: Path, form: dict | None = None) -> dict:
         if not (b["quote"] or "").strip():
             empty_quote.append(name)
         for k, v in b["subs"].items():
-            if re.search(r'""|“”', v):
+            if has_empty_quote_span(v):
                 empty_quote.append(f"{name}/{k}（分析里残留空引号）")
         kws = [w.strip() for w in re.split(r"[/、,，;；]", b["subs"].get("关键词", "")) if w.strip()]
         why = b["subs"].get("为什么这样写", "")

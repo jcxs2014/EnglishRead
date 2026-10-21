@@ -9,11 +9,11 @@ modified: "2026-10-20"
 
 - **一句话概括**：Diana 与 Carlos 前往 Alba 家庆生，Alba 因“婴儿吞了欧元”紧急送医（虚惊一场）；Diana 与 Carlos 独处时揭示 Alba 的“从不独处”习惯（autophobia）与童年睡眠史；章节以 Diana 对死去父亲的神秘回忆（烟味）与 Carlos 对 Diana 家庭的 critique 收尾。
 
-- **情感弧线位置**：全书第五章——把 Diana 与 Carlos 放入 Alba 的家庭 chaos，扩展 Diana 的 family narrative（Alba 的 autophobia、父亲的 absence、Carmen 对 Diana 职业的误解）；Carlos 是本章的“外部观察者”，他的 sharp documentary lens 抓到 Diana 无法 naming 的 family pattern。
+- **情感弧线位置**：全书第五章——把 Diana 与 Carlos 放入 Alba 的家庭 chaos，扩展 Diana 的 family narrative（Alba 的 autophobia、父亲的 absence、Carmen 对 Diana 职业的误解）；Carlos 是本章的“外部观察者”，他的 sharp 纪录片式观察视角抓到 Diana 无法 naming 的 family pattern。
 
 - **人物弧线**：Diana 从“participating in family celebration”到“alone with Carlos, unpacking secrets”；Alba 从“birthday host”到“urgent care panic”；Carmen 从“TV obsessed”到“following Alba”；Carlos 从“absent-present phone refuge”到“naming Alba’s never-alone pattern”。
 
-- **叙事手法**：第三人称限制视角主跟 Diana；长段落模拟 Diana 的 family overwhelm；Carlos 的 dialogue 是本章 structural counterpoint（documentary lens）；Diana 对父亲 ghost smell 的段落是 supernatural element。
+- **叙事手法**：第三人称限制视角主跟 Diana；长段落模拟 Diana 的 family overwhelm；Carlos 的 dialogue 是本章 structural counterpoint（纪录片式观察视角）；Diana 对父亲 ghost smell 的段落是 supernatural element。
 
 ## 精读
 
@@ -61,9 +61,9 @@ modified: "2026-10-20"
 
 **句子结构**：长段——"‘Have you noticed your sister goes nowhere alone? She never does anything alone.’"；"‘I’m serious. Name one time you’ve seen her alone since the two of us met. It doesn’t happen.’"；"Diana knew Alba was never alone." 短句；"She had never told anyone it weighed on her, that she didn’t know what to do about it."；"In fact, it wasn’t that long ago that Diana herself had come to realize how serious it was."；"Either out of distraction or denial, she’d been heedless of obvious warning signs over the years."；"Six years prior, the revelation had hit her, right around the time of her own personal downturn, when Tomás was born and her fears began to multiply."；"While she was incapable of understanding the reasons for her own anxiety and malaise, she’d developed an extraordinary skill for parsing strange behaviors in others."；"In that state of selective lucidity, she noticed her sister couldn’t, or wouldn’t, handle being alone, that she always engineered things so she was with someone."；"She thought the obsession must be related to fear, and she scoured the internet for similar phobias."；"She found one: autophobia, the irrational fear of being alone."
 
-**为什么这样写**：作者用 Carlos 的观察作为催化剂——他的 "documentary lens" 命名了 Diana 一直背负的东西；"selective lucidity" 是 Diana 的自我诊断（她能解析他人却不能解析自己）；"autophobia" 是本章关键概念——Alba 对独处的恐惧解释了她带着 5 人去急诊、睡在客厅地板、无法独处；"six years prior … Tomás was born and her fears began to multiply" 显示 Diana 自身的焦虑发作与母亲身份相关；"engineered things so she was with someone" 显示 Alba 对社交情境的主动操控；Carlos 的 "Name one time" 是纪录片式方法（基于证据），与 Diana 的情感性知晓形成对照。
+**为什么这样写**：作者用 Carlos 的观察作为催化剂——他的纪录片式提问方式命名了 Diana 一直背负的东西；"selective lucidity" 是 Diana 的自我诊断（她能解析他人却不能解析自己）；"autophobia" 是本章关键概念——Alba 对独处的恐惧解释了她带着 5 人去急诊、睡在客厅地板、无法独处；"six years prior … Tomás was born and her fears began to multiply" 显示 Diana 自身的焦虑发作与母亲身份相关；"engineered things so she was with someone" 显示 Alba 对社交情境的主动操控；Carlos 的 "Name one time" 是纪录片式方法（基于证据），与 Diana 的情感性知晓形成对照。
 
-**读者视角提示**："Diana had never told anyone it weighed on her" 显示 her secrecy; "she was ashamed she hadn’t tried to do something" 显示 her guilt; "she couldn’t imagine how she would go about it" 显示 her helplessness; Carlos "rarely came to any conclusions" about Diana’s family shows his blind spot（documentary lens fails on intimate subjects）。
+**读者视角提示**："She had never told anyone it weighed on her" 显示 her secrecy; "she was ashamed she hadn’t tried to do something" 显示 her guilt; "she couldn’t imagine how she would go about it" 显示 her helplessness; Carlos "rarely came to any conclusions" about Diana’s family shows his blind spot（这种纪录片式观察视角在私密关系上会失效）。
 
 > **原句 5:** “When the two of them were kids, one day, without warning, her sister said she couldn’t sleep in their room anymore: cold air came in through the window. Alba had been thirteen then. Her bed was one of those tall ones where the mattress sits on top of a dresser, and since it was right under the window, she said her feet were freezing every night. … While Carmen was coming up with a solution, Alba dragged her mattress into the living room, and she announced she was going to sleep there, on the floor. … The next night she dragged her mattress back out again. And the next. And the next. She went out there every night. And a solution never arrived. For their entire adolescence, Alba slept on the living room floor. And Carmen, who, less than a week later, had given up on helping her forget about the cold, spent Alba’s teenage years flopped down on the couch right next to her, holding her hand. Night after night, year after year, Carmen left her husband in the bedroom and went to the living room to sleep next to her daughter.”
 
@@ -77,7 +77,7 @@ modified: "2026-10-20"
 
 **读者视角提示**："Not once did Diana hear her father complain" 显示 father’s absence/acceptance; "she called her sister selfish" 显示 Diana’s early awareness; "they had become experts at nullifying Diana’s arguments" 显示 Diana’s powerlessness in family system; this backstory explains Alba’s adult autophobia（origin in adolescence, possibly earlier）。
 
-> **原句 6:** “The day they were injecting her back for a herniated disk, her father had paid her a visit in the early morning. She and Carlos had to be at the hospital at six thirty, but as when she had to wake up early for travel, she didn’t sleep for even a minute. At some point she got out of bed, and the moment she set foot in the bathroom, she knew, without a doubt. Her father was there. She hadn’t heard a single sound. She didn’t think she’d caught sight of him in the mirror. Nor did she sense a presence behind her or see a ghost. But he was there, Diana knew it. The bathroom smelled strongly of cigarettes. It smelled exactly the way the bathroom at her parents’ house did when he was in it—the man had smoked two packs a day since she was little. She knew that cigarette smell was her father, and still, she couldn’t help but want confirmation. … At some point she got out of bed, and the moment she set foot in the bathroom, she knew, without a doubt. Her father was there.”
+> **原句 6:** “The day they were injecting her back for a herniated disk, her father had paid her a visit in the early morning. She and Carlos had to be at the hospital at six thirty, but as when she had to wake up early for travel, she didn’t sleep for even a minute. At some point she got out of bed, and the moment she set foot in the bathroom, she knew, without a doubt. Her father was there. She hadn’t heard a single sound. She didn’t think she’d caught sight of him in the mirror. Nor did she sense a presence behind her or see a ghost. But he was there, Diana knew it. The bathroom smelled strongly of cigarettes. It smelled exactly the way the bathroom at her parents’ house did when he was in it—the man had smoked two packs a day since she was little. She knew that cigarette smell was her father, and still, she couldn’t help but want confirmation. … Even so, she put on a sweater and tiptoed up to the roof to check. Nothing—no one was there. There wasn’t even anything on the clotheslines she could have mistaken for a person’s silhouette. She went back to the apartment, returned to the bathroom, and sat down on the lid of the toilet, wrapping her arms around herself. It still smelled like cigarettes. She leaned her head against the wall, stretched out her legs, and crossed her ankles over the bidet. For half an hour, she sat like that, transformed into a nocturnal secondhand smoker. She had no idea why she wasn’t afraid—why, in fact, she felt perfectly fine. Why was she so calm? She thought her father had finally figured out how to communicate with her and started laughing. “Damn it, Dad.” She covered her mouth in disbelief.”
 
 **中文理解**：给她做椎间盘突出注射的那天，父亲一早来看她。她和 Carlos 得六点半到医院，但就像每次要早起赶路一样，她一分钟都没睡。某刻她下了床，脚一踏入浴室，她就确信无疑：父亲在那儿。她没听到一点声音。她不觉得在镜子里瞥见了他。她也没感到背后有什么存在，也没看见鬼影。但他确实在，Diana 知道。浴室里烟味浓烈。那味道与她父母家浴室里父亲在时一模一样——那人从她小时候起每天就抽两包烟。她知道那烟味就是父亲，可她还是忍不住想要确认。……她穿上毛衣，踮着脚上屋顶查看。什么都没有——一个人也没有。连衣架上都没什么东西能被误认为人影。她回到公寓，回到浴室，坐在马桶盖上，双臂环抱住自己。烟味还在。她把头靠在墙上，伸直双腿，脚踝交叠搭在坐浴盆上。她那样坐了半小时，化身为一个夜间的二手烟民。她不知道自己为什么不害怕——事实上，她感觉完全没问题。为什么这么平静？她想父亲终于找到了与她沟通的方式，然后笑起来。"该死，老爸。"她捂住嘴，难以置信。
 
@@ -97,7 +97,7 @@ modified: "2026-10-20"
 
 **句子结构**：长段——"Malls were very important in her family." 短句；"Diana remembered the immense joy she felt as a child when her mother occasionally convinced her father to go to the Pryca, off the Castelldefels expressway, and they came back with enough provisions to survive an apocalypse."；"She had always held those memories close, but until recently, she’d never felt they were incomplete."；"Though what was incomplete wasn’t the memory, exactly, but instead the image of her family."；"Her father was never around." 短句；"Nor did she have many memories of him."；"Not even when he showed up in the photos."；"They could limit themselves to just being there—sleeping most of the time—because they had exactly one clear job: to bring home money."；"Diana accepted it all as normal: that her father never went along to the Corte Inglés or helped with chores or had a real conversation with her after she entered adolescence."；"That he avoided her phone calls, always hurrying to pass her off to Carmen when, as an adult, she called her parents’ house."；"Her father simply didn’t know what to say, or didn’t know how a father should talk to his daughter."
 
-**为什么这样写**：作者用 "malls were very important" 把家庭生活写成消费空间——Corte Inglés 作为 "Second Life"（安全、干净、有序、无责任）；"incomplete image of her family" 是本章关键概念——Diana 的父亲尽管身体在场却从记忆中缺席；"They could limit themselves to just being there—sleeping most of the time—because they had exactly one clear job: to bring home money" 显示性别化的劳动分工（父亲 = 养家者，母亲 = 在场者）；"Diana accepted it all as normal" 显示她对父权规范的内化；"Her father simply didn’t know what to say" 显示父亲的情感缺席；这与 Alba 的 autophobia 相连（父亲与 Alba 都是缺席的形式——父亲因角色缺席，Alba 因无法独处）。
+**为什么这样写**：作者用 "malls were very important" 把家庭生活写成消费空间——Corte Inglés 作为 "Second Life"（安全、干净、有序、无责任）；"that incomplete image of her family" 是本章关键概念——Diana 的父亲尽管身体在场却从记忆中缺席；"They could limit themselves to just being there—sleeping most of the time—because they had exactly one clear job: to bring home money" 显示性别化的劳动分工（父亲 = 养家者，母亲 = 在场者）；"Diana accepted it all as normal" 显示她对父权规范的内化；"Her father simply didn’t know what to say" 显示父亲的情感缺席；这与 Alba 的 autophobia 相连（父亲与 Alba 都是缺席的形式——父亲因角色缺席，Alba 因无法独处）。
 
 **读者视角提示**："Corte Inglés had been her Disneyland" 显示 consumer culture as childhood joy; "the scents, the heat running full blast, the saleswomen with their perfect skin, frozen in time" 显示 Diana’s sensory memory; "For them and for many other women like them" 显示 Diana’s sociological observation; father’s "incomplete image" parallels Diana’s "selective lucidity" (she can parse others but not her own father)。
 
@@ -113,7 +113,7 @@ modified: "2026-10-20"
 | spiraling explanation | 螺旋式解释 | "the art of the spiraling explanation" |
 | secondhand smoker | 二手烟民 | "transformed into a nocturnal secondhand smoker" |
 | herniated disk | 椎间盘突出 | "injecting her back for a herniated disk" |
-| incomplete image | 不完整影像 | "the image of her family" |
+| incomplete image | 不完整影像 | "that incomplete image of her family" |
 | engineered | 策划、安排 | "she always engineered things so she was with someone" |
 | malaise | 不适、倦怠 | "her own anxiety and malaise" |
 | disinterest | 冷淡 | "The disinterest with which her family always greeted them" |
@@ -127,7 +127,7 @@ modified: "2026-10-20"
 | not be present | 不在场 | "the tendency to not be present" |
 | bursting in | 闯入 | "bursting in from the hallway" |
 | out of breath | 上气不接下气 | "out of breath" |
-| Valium | 安定片 | "Don’t you have Valium now?" |
+| Valium | 安定片（商标名，通用名 diazepam） | "Don’t you have Valium now?" |
 | dragged her mattress | 拖床垫 | "Alba dragged her mattress into the living room" |
 | nullifying | 作废 | "nullifying Diana’s arguments" |
 | confirmation | 确认 | "she couldn’t help but want confirmation" |
@@ -143,9 +143,8 @@ modified: "2026-10-20"
 | Alexa | 亚马逊语音助手 | "Alexa, turn off the TV!" |
 | urgent care | 急诊 | "We have to go to urgent care" |
 | euro | 欧元 | "The baby swallowed a euro" |
-| Valium | 安定 | "Don’t you have Valium now?" |
 | Corte Inglés | 英国宫百货（商场） | "spend entire days shopping at the Corte Inglés" |
 
 ## 一句话总结
 
-第五章把 Diana 与 Carlos 放入 Alba 的 family chaos（TV conflict、urgent care panic、Alba’s autophobia 揭示）；Carlos 的 documentary lens 抓到 Alba’s never-alone pattern，Diana 揭示 Alba’s adolescence sleeping on living room floor；章节以 Diana 对死去父亲的 ghost smell 与 "incomplete image of her family" 收尾，显示 Diana’s selective lucidity（能 parse others，不能 parse self）与 family’s collective absence（father by role，Alba by fear，Diana by denial）。
+第五章把 Diana 与 Carlos 放入 Alba 的 family chaos（TV conflict、urgent care panic、Alba’s autophobia 揭示）；Carlos 的纪录片式观察视角抓到 Alba’s never-alone pattern，Diana 揭示 Alba’s adolescence sleeping on living room floor；章节中段写 Diana 在浴室闻到父亲 ghost 的烟味，唤起 "that incomplete image of her family"，显示 Diana’s selective lucidity（能 parse others，不能 parse self）与 family’s collective absence（father by role，Alba by fear，Diana by denial）；收尾落在 Diana 与 Alba 关于母亲是“好妈妈”的对话上。

@@ -1,0 +1,360 @@
+=== notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch00 prologue.md ===
+单章体检：ch00  ch00 prologue.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch00_prologue.txt
+
+【逐字】
+  引语块 5，片段 5，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0
+
+【形态】
+  H1 ✅：Prologue
+  导航 4 项 ✅
+  块数 5（本书中位 6.0，范围 3–9）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）
+rc=0
+=== notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch01 chapter 1.md ===
+单章体检：ch01  ch01 chapter 1.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch01_chapter_1.txt
+
+【逐字】
+  引语块 6，片段 6，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0
+
+【形态】
+  H1 ✅：Chapter 1
+  导航 4 项 ✅
+  块数 6（本书中位 6.0，范围 3–9）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）
+rc=0
+=== notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch02 chapter 2.md ===
+单章体检：ch02  ch02 chapter 2.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch02_chapter_2.txt
+
+【逐字】
+  引语块 6，片段 7，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0
+
+【形态】
+  H1 ✅：Chapter 2
+  导航 4 项 ✅
+  块数 6（本书中位 6.0，范围 3–9）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）
+rc=0
+=== notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch03 chapter 3.md ===
+单章体检：ch03  ch03 chapter 3.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch03_chapter_3.txt
+
+【逐字】
+  引语块 6，片段 39，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0
+
+【形态】
+  H1 ✅：Chapter 3
+  导航 4 项 ✅
+  块数 6（本书中位 6.0，范围 3–9）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）
+rc=0
+=== notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch04 chapter 4.md ===
+单章体检：ch04  ch04 chapter 4.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch04_chapter_4.txt
+
+【逐字】
+  引语块 7，片段 16，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0
+
+【形态】
+  H1 ✅：Chapter 4
+  导航 4 项 ✅
+  块数 7（本书中位 6.0，范围 3–9）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）
+rc=0
+=== notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch05 chapter 5.md ===
+单章体检：ch05  ch05 chapter 5.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch05_chapter_5.txt
+
+【逐字】
+  引语块 7，片段 19，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0
+
+【形态】
+  H1 ✅：Chapter 5
+  导航 4 项 ✅
+  块数 7（本书中位 6.0，范围 3–9）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）
+rc=0
+=== notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch06 chapter 6.md ===
+单章体检：ch06  ch06 chapter 6.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch06_chapter_6.txt
+
+【逐字】
+  引语块 5，片段 15，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0
+
+【形态】
+  H1 ✅：Chapter 6
+  导航 4 项 ✅
+  块数 5（本书中位 6.0，范围 3–9）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）
+rc=0
+=== notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch07 chapter 7.md ===
+单章体检：ch07  ch07 chapter 7.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch07_chapter_7.txt
+
+【逐字】
+  引语块 3，片段 3，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0
+
+【形态】
+  H1 ✅：Chapter 7
+  导航 4 项 ✅
+  块数 3（本书中位 6.0，范围 3–9）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）
+rc=0
+=== notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch08 chapter 8.md ===
+单章体检：ch08  ch08 chapter 8.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch08_chapter_8.txt
+
+【逐字】
+  引语块 5，片段 13，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0
+
+【形态】
+  H1 ✅：Chapter 8
+  导航 4 项 ✅
+  块数 5（本书中位 6.0，范围 3–9）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）
+rc=0
+=== notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch09 chapter 9.md ===
+单章体检：ch09  ch09 chapter 9.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch09_chapter_9.txt
+
+【逐字】
+  引语块 3，片段 3，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0
+
+【形态】
+  H1 ✅：Chapter 9
+  导航 4 项 ✅
+  块数 3（本书中位 6.0，范围 3–9）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）
+rc=0
+=== notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch10 chapter 10.md ===
+单章体检：ch10  ch10 chapter 10.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch10_chapter_10.txt
+
+【逐字】
+  引语块 9，片段 21，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0
+
+【形态】
+  H1 ✅：Chapter 10
+  导航 4 项 ✅
+  块数 9（本书中位 6.0，范围 3–9）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）
+rc=0
+=== notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch11 chapter 11.md ===
+单章体检：ch11  ch11 chapter 11.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch11_chapter_11.txt
+
+【逐字】
+  引语块 8，片段 10，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0
+
+【形态】
+  H1 ✅：Chapter 11
+  导航 4 项 ✅
+  块数 8（本书中位 6.0，范围 3–9）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）
+rc=0
+=== notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch12 chapter 12.md ===
+单章体检：ch12  ch12 chapter 12.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch12_chapter_12.txt
+
+【逐字】
+  引语块 7，片段 7，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0
+
+【形态】
+  H1 ✅：Chapter 12
+  导航 4 项 ✅
+  块数 7（本书中位 6.0，范围 3–9）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）
+rc=0
+=== notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch13 chapter 13.md ===
+单章体检：ch13  ch13 chapter 13.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch13_chapter_13.txt
+
+【逐字】
+  引语块 8，片段 8，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0
+
+【形态】
+  H1 ✅：Chapter 13
+  导航 4 项 ✅
+  块数 8（本书中位 6.0，范围 3–9）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）
+rc=0
+=== notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch14 chapter 14.md ===
+单章体检：ch14  ch14 chapter 14.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch14_chapter_14.txt
+
+【逐字】
+  引语块 6，片段 7，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0
+
+【形态】
+  H1 ✅：Chapter 14
+  导航 4 项 ✅
+  块数 6（本书中位 6.0，范围 3–9）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）
+rc=0
+=== notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch15 chapter 15.md ===
+单章体检：ch15  ch15 chapter 15.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch15_chapter_15.txt
+
+【逐字】
+  引语块 5，片段 15，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0
+
+【形态】
+  H1 ✅：Chapter 15
+  导航 4 项 ✅
+  块数 5（本书中位 6.0，范围 3–9）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）
+rc=0
+=== notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch16 chapter 16.md ===
+单章体检：ch16  ch16 chapter 16.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch16_chapter_16.txt
+
+【逐字】
+  引语块 6，片段 6，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0
+
+【形态】
+  H1 ✅：Chapter 16
+  导航 4 项 ✅
+  块数 6（本书中位 6.0，范围 3–9）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）
+rc=0
+=== notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch17 chapter 17.md ===
+单章体检：ch17  ch17 chapter 17.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch17_chapter_17.txt
+
+【逐字】
+  引语块 7，片段 7，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0
+
+【形态】
+  H1 ✅：Chapter 17
+  导航 4 项 ✅
+  块数 7（本书中位 6.0，范围 3–9）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）
+rc=0

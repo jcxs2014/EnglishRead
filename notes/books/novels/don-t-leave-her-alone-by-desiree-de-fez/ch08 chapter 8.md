@@ -37,7 +37,7 @@ modified: "2026-10-20"
 
 **句子结构**：长段——"Carmen called four more times, and all four times, Diana silenced the call."；"‘Call her back. It’s not normal for her to call this many times,’ Carlos said."；"‘But she’s annoying. They’re both so annoying. It’s most likely something stupid. They can wait, we’re in the car already.’"；"‘Who is it?’ asked Carlos from the back seat."；"‘My mom. Who knows what she wants now.’"
 
-**为什么这样写**：作者用 Carmen 的反复来电显示家庭侵入（即使在出租车里，Diana 也无法逃脱）；Diana 的 "They’re both so annoying" 显示她对母亲/姐姐的轻视；"It’s most likely something stupid" 显示她的预设（但第5章显示 Alba 的紧急照护是真实的）；Carlos 的 "It’s not normal" 显示他的关切；这个电话母题与第5章的电话（Alba 打来谈 evil eye）形成呼应。
+**为什么这样写**：作者用 Carmen 的反复来电显示家庭侵入（即使在出租车里，Diana 也无法逃脱）；Diana 的 "They’re both so annoying" 显示她对母亲/姐姐的轻视；"It’s most likely something stupid" 显示她的预设（但第5章显示 Alba 的紧急照护是真实的）；Carlos 的 "It’s not normal" 显示他的关切；这个电话母题与第5章的电话（Alba 打来谈邪眼）形成呼应。
 
 **读者视角提示**："Brisa flung the phone to the floor" 显示 Brisa’s sensitivity to phone ringing (she reacts to mother’s anxiety); Diana ignoring calls shows her avoidance; Carlos’s "Call her back" shows his practicality。
 

@@ -19,7 +19,7 @@ modified: "2026-10-20"
 
 > **原句 1:** "One of Diana's back pockets started to vibrate. She stopped examining herself and picked up, unconcerned that her hand was covered in blood. She said, 'Hello,' listened, didn't respond."
 
-**中文理解**：戴安娜的一个后口袋开始震动。她停止检查自己，接起电话，毫不在意手上沾满鲜血。她说："喂。"听了一会儿，没有回应。
+**中文理解**：Diana 的一个后口袋开始震动。她停止检查自己，接起电话，毫不在意手上沾满鲜血。她说："喂。"听了一会儿，没有回应。
 
 **关键词**：vibrate / unconcerned / Hello
 
@@ -31,7 +31,7 @@ modified: "2026-10-20"
 
 > **原句 2:** "'I have to call you back,' she said, almost to herself, sliding the iPhone into her pocket. 'They can't find Alba.'"
 
-**中文理解**："我得回个电话。"她几乎是对着自己说，把 iPhone 滑进口袋。"他们找不到阿尔芭了。"
+**中文理解**："我得回个电话。"她几乎是对着自己说，把 iPhone 滑进口袋。"他们找不到Alba了。"
 
 **关键词**：call you back / almost to herself / sliding / can't find
 
@@ -39,11 +39,11 @@ modified: "2026-10-20"
 
 **为什么这样写**：作者用 "almost to herself" 显示 Diana 的内在处理——她未完全在场；"sliding the iPhone into her pocket" 显示机械性动作（她处于自动驾驶状态）；"They can't find Alba" 是本章首次揭示，Carmen 打来（而非 Alba）表明 Alba 不在；"can't find"（而非 "gone"）不祥。
 
-**读者视角提示**："They can't find Alba" 显示 Alba is missing (not just "away"); Carmen is the caller (not Alba), which is alarming; "almost to herself" 显示 Diana is dissociating between wound and family crisis; this beat connects Diana's wound to Alba's disappearance (supernatural link?)。
+**读者视角提示**："They can't find Alba" 显示 Alba is missing（不是单纯出门）；发信人是 Carmen（不是 Alba），这一点令人不安；"almost to herself" 显示 Diana 在伤口与家庭危机之间解离; this beat connects Diana's wound to Alba's disappearance (supernatural link?)。
 
 > **原句 3:** "'What?' Carlos asked, still covering Diana with the coat. 'They can't find Alba.' 'What do you mean they can't find Alba?' 'Mom just said Alba is missing.'"
 
-**中文理解**："什么？"卡洛斯问，仍用外套裹着戴安娜。"他们找不到阿尔芭了。""你说他们找不到阿尔芭是什么意思？""妈妈刚说阿尔芭失踪了。"
+**中文理解**："什么？"Carlos 问，仍用外套裹着 Diana。"他们找不到Alba了。""你说他们找不到Alba是什么意思？""妈妈刚说Alba失踪了。"
 
 **关键词**：still covering / can't find / missing / Mom just said
 

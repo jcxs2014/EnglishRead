@@ -31,19 +31,19 @@ modified: "2026-10-20"
 
 > **原句 2:** “An image arose in her mind: the last time she’d been here, with Brigitte, trying on plastic tiaras. For a minute, she took refuge in that memory. Then the sound of her daughter’s laughter—her little voice begging to buy half the store—was replaced by an unpleasant ringing.”
 
-**中文理解**：脑海中浮现上一次和 Brigitte 在这里试戴塑料皇冠的画面；她 momentarily 以此为避难所，随后女儿的笑声——那稚嫩声音央求把店里买一半——被一阵不快的耳鸣取代。
+**中文理解**：脑海中浮现上一次和 Brigitte 在这里试戴塑料皇冠的画面；她以此为避难所，随后女儿的笑声——那稚嫩声音央求把店里买一半——被一阵不快的耳鸣取代。
 
 **关键词**：arose / refuge / replaced / unpleasant ringing
 
 **句子结构**：三句——第一句用冒号引出记忆内容（An image arose in her mind: …）；第二句 "For a minute, she took refuge in that memory." 是独立短句，主谓宾；第三句用 em dash 插入补充说明（her little voice begging to buy half the store），主句 "the sound … was replaced by an unpleasant ringing" 用被动态，把快乐记忆与生理伤害并置。
 
-**为什么这样写**：作者把女儿的笑声（"begging to buy half the store"）写成被耳鸣"取代"（replaced），暗示听力受损与记忆入侵；em dash 里的 "begging to buy half the store" 是母亲视角的温柔夸张，与后文 "rows of tutus splattered with red" 的恐怖形成对照——童趣与血迹共享同一物理空间，恐怖感由此而来。
+**为什么这样写**：作者把女儿的笑声（"begging to buy half the store"）写成被耳鸣取代，暗示听力受损与记忆入侵；em dash 里的 "begging to buy half the store" 是母亲视角的温柔夸张，与后文 "rows of tutus splattered with red" 的恐怖形成对照——童趣与血迹共享同一物理空间，恐怖感由此而来。
 
 **读者视角提示**：Brigitte 与 "the girl"（最后一句）尚未明确是否为同一人；本章只确认 Brigitte 是她的女儿，末尾的 "the girl" 是悬念而非解答。
 
 > **原句 3:** “She pushed herself up to a seated position and dared to open her eyes. She was horrified by the scene: rows of tutus splattered with red, red-stained butterfly wings and plush earmuffs. The wings she and Brigitte would try on for selfies, the bear-shaped backpacks, the pom-pom antennae, all covered in a now-stiff crust of dried blood. The sight of it, in her daughter’s favorite store, where Brigitte mistook cheap jewelry for the real thing, hurt. It hurt more than anything else, more than whatever fate this was.”
 
-**中文理解**：她把自己撑到坐姿，鼓起勇气睁眼； scenes 令她惊骇：成排的芭蕾裙被溅上红色，血染的蝴蝶翅膀与毛绒耳罩……那些她和 Brigitte 曾试戴自拍的翅膀、熊形背包、绒球触角，全被一层如今已干硬的血痂覆盖。这幅景象在女儿最爱的店里——Brigitte 会把廉价首饰当成真品的店里——刺痛了她，比任何事都痛，比她所遭遇的任何命运都痛。
+**中文理解**：她把自己撑到坐姿，鼓起勇气睁眼； 眼前的景象令她惊骇：成排的芭蕾裙被溅上红色，血染的蝴蝶翅膀与毛绒耳罩……那些她和 Brigitte 曾试戴自拍的翅膀、熊形背包、绒球触角，全被一层如今已干硬的血痂覆盖。这幅景象在女儿最爱的店里——Brigitte 会把廉价首饰当成真品的店里——刺痛了她，比任何事都痛，比她所遭遇的任何命运都痛。
 
 **关键词**：dared / horrified / splattered / now-stiff crust / dried blood
 
@@ -61,7 +61,7 @@ modified: "2026-10-20"
 
 **句子结构**：九句——第一句 "Her head was pounding." 短句；第二句 "She almost touched it but stopped herself, afraid it wouldn’t be there, or not entirely there." 用 afraid 引导形容词短语，or not entirely there 是并列宾语补足；第三句 "She caught her reflection in one of those mirrors where girls admired their ballet slippers." where 引导定语从句；第四句 "Her head was there, but her hair was matted, and her face was a big, dark smudge." 三并列；第五句 "She dragged herself closer, unable to catch her breath, feeling weaker than she ever had." 两个分词短语作状语；第六句 "Her face was bloody, too, and she saw that her ears were covered in new piercings, full of earrings she’d never seen before." that 引导宾语从句，full of 为后置定语；第七句 "She counted nine hoops, all different sizes, five in one ear and four in the other." 两个同位语短语；第八句 "They appeared to be silver, but she wasn’t sure, since everything was scabbed over, brown and black." since 引导原因状语从句；第九句 "The appointment she couldn’t remember must have been long, unhygienic, and cruel." 主语 "The appointment she couldn’t remember" 为名词短语 + 定语从句，情态动词 must have been 表推测。
 
-**为什么这样写**：作者用 "afraid it wouldn’t be there, or not entirely there" 把头部伤写成存在性恐惧（身体可能残缺），而 "The appointment she couldn’t remember" 把施暴写成一种被预约的仪式——"appointment" 一词把暴力伪装成医疗/美容行为，"must have been long, unhygienic, and cruel" 三形容词递增，把施暴者写成某种" practitioner" 而非普通凶手；这种"仪式化暴力"是全书恐怖的核心手法。
+**为什么这样写**：作者用 "afraid it wouldn’t be there, or not entirely there" 把头部伤写成存在性恐惧（身体可能残缺），而 "The appointment she couldn’t remember" 把施暴写成一种被预约的仪式——"appointment" 一词把暴力伪装成医疗/美容行为，"must have been long, unhygienic, and cruel" 三形容词递增，把施暴者写成某种有专业身份的人（像从业者）而非普通凶手；这种"仪式化暴力"是全书恐怖的核心手法。
 
 **读者视角提示**：九个耳环（five in one ear and four in the other）是本章唯一可数的细节，也是后文人物识别的关键线索；"appointment she couldn’t remember" 暗示药物或催眠，为后续 Diana/Alba 线埋伏笔。
 
@@ -73,7 +73,7 @@ modified: "2026-10-20"
 
 **句子结构**：现在分词短语 "hearing someone humming" 作时间状语，主句 "she turned and saw the girl" 用 and 连接两个并列动词；"the girl" 用定冠词 the，暗示说话人与读者共享对"那个女孩"的指称——但全章并未介绍过 "the girl"，这种 "the" 的使用制造出"她早已在场"的恐怖。
 
-**为什么这样写**：全章最后一句只有 9 个词，却完成了恐怖的最终升级：从"血与伤"（身体恐怖）到"有人在旁"（存在恐怖）；"humming" 是一种日常、温柔的声音，与前文的暴力形成反差，而 "saw the girl" 用 the 而非 a，暗示这个女孩对主角而言并不陌生——或至少，作者希望读者这样怀疑。
+**为什么这样写**：全章最后一句只有 10 个词，却完成了恐怖的最终升级：从"血与伤"（身体恐怖）到"有人在旁"（存在恐怖）；"humming" 是一种日常、温柔的声音，与前文的暴力形成反差，而 "saw the girl" 用 the 而非 a，暗示这个女孩对主角而言并不陌生——或至少，作者希望读者这样怀疑。
 
 **读者视角提示**：本章到此戛然而止，不给主角的反应、不给女孩的描述；这种"中断式结尾"是惊悚小说的常见手法，把未完成的恐惧留给读者自行补完。
 

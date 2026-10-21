@@ -1,0 +1,267 @@
+2026-10-20 · don-t-leave-her-alone-by-desiree-de-fez · 精读 md 语义审查（只读，ch00 / ch01 / ch02 三章）
+审查员：DSH-Mac（只读语义审查员）
+范围：notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/
+  - ch00 prologue.md        （117 行 / 13118 B / md5 5ebdc3031e5caf07ad67780ef50df464）
+  - ch01 chapter 1.md       （132 行 / 24285 B / md5 378361beec413babd337f20291c283a7）
+  - ch02 chapter 2.md       （143 行 / 21851 B / md5 6c4968c35289d377fbcdbddfd39aeefd）
+真值：text/ch00_prologue.txt（5 段）/ text/ch01_chapter_1.txt / text/ch02_chapter_2.txt（全书 17 章拼接做 book-wide 比对）
+本文件是唯一落盘物；未修改任何 md，未执行任何 git 操作。
+⚠️ 审查期间工作树被另一实例改动（2026-10-20 19:27:57）；本报告的全部结论均按上列 md5 复核过一次。
+
+════════════════════════════════════════════════════════════
+一、逐章小结表
+════════════════════════════════════════════════════════════
+章  | 引语块 | 导航项 | 引语逐字 | A 截短 | B 错位 | C 说话人 | D 英文走形 | E 中文层 | F 词汇 | G 导航
+----|---------|--------|---------|---------|--------|----------|-----------|--------|--------|--------
+ch00 | 5      | 4 齐   | 5/5 ✓   | 0      | 0     | ❓无法判定 | 阻断 1 / 提示 1 | 提示 1 | 0（19 词条全逐字）| 提示 1
+ch01 | 6      | 4 齐   | 6/6 ✓   | 0      | 0     | ❓无法判定 | 提示 4 | 提示 4 | 0（22 词条全逐字）| 阻断 1 / 提示 3
+ch02 | 6      | 4 齐   | 6/6 ✓（块5 含 … 省略，两段各自逐字） | 0 | 0 | ❓无法判定 | 提示 4 | 提示 8 | 0（33 词条全逐字）| 提示 4
+合计 | 17 块 | 12 项  | 17/17 ✓  | 0  | 0  | 需人判  | 阻断 1 / 提示 9 | 提示 13 | 0 自造例句 | 阻断 1 / 提示 8
+
+各档计数：**阻断 2 · 提示 26 · 需人判 9（含 1 个规则口径问题）· 阻断外自造例句 0**
+
+引语块序号 → md 行号：ch00 块1=20 / 块2=32 / 块3=44 / 块4=56 / 块5=68；ch01 块1=20 / 块2=32 / 块3=44 / 块4=56 / 块5=68 / 块6=80；ch02 块1=20 / 块2=32 / 块3=44 / 块4=56 / 块5=68 / 块6=80。
+每块字段固定在引语行 +2（中文理解）/+4（关键词）/+6（句子结构）/+8（为什么这样写）/+10（读者视角提示）。
+词条数：ch00 19（⭐⭐⭐5 / ⭐⭐10 / ⭐4）、ch01 22（⭐⭐⭐7 / ⭐⭐10 / ⭐5）、ch02 33（⭐⭐⭐11 / ⭐⭐15 / ⭐7）。
+
+════════════════════════════════════════════════════════════
+二、阻断型清单（2 条）
+════════════════════════════════════════════════════════════
+
+【B-1｜阻断】ch00 prologue.md:64（为什么这样写，原句4 块）——分析层英文自造
+  md 原文（逐字）：把施暴者写成某种" practitioner" 而非普通凶手
+  对应语料（逐字）：The appointment she couldn’t remember must have been long, unhygienic, and cruel.   （text/ch00_prologue.txt:21）
+  依据：程序化 flat 比对（lower + 去标点 + 压空白）——"practitioner" 在 **text/ 全 17 章拼接的 book_flat 中 0 命中**（grep -rno "practitioner" text/ = 0），在本章 flat 中亦 0 命中，在本块引语 flat 中 0 命中。全书唯一出现该词的位置就是这处 md 引号。
+  判定：D 类「md 用引号引了英文，但该英文短语在 text/ 全书逐字查无（自造）」⇒ 阻断。
+  附注：引号内还有一个前导空格（" practitioner"），与本库其余引语格式不一致；即便按宽松读法把 practitioner 当作中文里嵌入的一个术语，它在语料中也不存在。
+  修法方向（只读建议，不在本任务权限内）：改为「把施暴者写成某种『预约就诊者』」一类中文表述，或改引原文已有的词（如 "unhygienic, and cruel"）。
+
+【B-2｜阻断】ch01 chapter 1.md:10（本章导航·一句话概括）——与原文不符
+  md 原文（逐字）：- **一句话概括**：圣诞演出当天，单亲母亲 Diana 因强迫性怀疑（直发器是否未关）折返家中查证，最终迟到； onstage 的女儿 Brisa 因母亲缺席而罢演，成了"唯一不唱歌的孩子"。
+  对应语料（逐字）：Her partner was going to be in Madrid all day, so a classmate’s mom was picking up her son.   （text/ch01_chapter_1.txt:12，本章内）
+  旁证（跨章）：text/ch05_chapter_5.txt:9 “Diana and Carlos had an old Samsung at home”；text/ch05_chapter_5.txt:147 “Diana and Carlos had achieved what was almost impossible for **a couple with two children**…”。全书 grep -i "single-parent|single parent" = 0 命中；"divorce" 仅在 ch05 指向他人；"wife" 在 ch05/ch10/ch17 均指他人。
+  依据：G 类「导航项 / 一句话总结是否与本章内容相符」。「单亲」与本章自身文本（"Her partner was going to be in Madrid"）以及 ch05 的「a couple with two children」正面冲突 ⇒ 与原文不符 ⇒ 阻断。
+  下调条件（需人判附注）：若作者本意是「伴侣当天不在身边、独自照看」的宽泛说法，则「单亲」属用词失当而非情节捏造，可降为提示级；但中文「单亲」的标准义即单亲家庭，本报告按与原文不符判阻断。
+
+════════════════════════════════════════════════════════════
+三、提示型清单（26 条）
+════════════════════════════════════════════════════════════
+判读：D 类「查得到但不是逐字（压缩改写、跨句拼接、跨章搬运未标注）」⇒ 提示；E 类「未译英文实词 / 未标注的块外引用」⇒ 提示（不判阻断，因中文层 0 整段英文、0 引号配对错乱、0 ASCII 三点截断）。
+
+—— ch00 ——（T1–T2）
+T1｜提示｜ch00 prologue.md:26（句子结构，原句1 块）
+   md 原文（逐字）：第四句以 lie back down, closed her eyes, stayed that way awhile 收尾，动词均为过去式，节奏骤缓，与前句的 kicks 形成强弱对比。
+   语料（逐字）：The brightness was like a kick to the face.
+   依据：语料只有单数 kick；全书 grep "kicks" = 0 命中。词形走形（单数写成复数）⇒ 提示。
+T2｜提示｜ch00 prologue.md:52（为什么这样写，原句3 块）
+   md 原文（逐字）：作者用 "red-stained" 与 "now-stiff crust of dried blood" 把血迹写成时间痕迹（now-stiff 暗示时间流逝）
+   语料（逐字）：all covered in a now-stiff crust of dried blood.
+   依据：字符串本身逐字成立，仅「now-stiff 暗示时间流逝」是解读性外推（可接受）；列此仅为留痕，未构成缺陷。
+
+—— ch01 ——（T3–T9）
+T3｜提示｜ch01 chapter 1.md:10（导航·一句话概括）
+   md 原文（逐字）： onstage 的女儿 Brisa 因母亲缺席而罢演
+   语料（逐字）：From the stage, Brisa scanned the room for her mother…（text/ch01_chapter_1.txt:6）；Diana walked down Balmes…
+   依据：书内作 "on stage"（分写），md 合成 onstage ⇒ 拼写走形 ⇒ 提示。
+T4｜提示｜ch01 chapter 1.md:16（导航·叙事手法）
+   md 原文（逐字）：细节（粉色脚趾、too-tight boots）把焦虑具象化。
+   语料（逐字）：her too-tight new boots destroying her pinkie toes（:15）／her pinkie toes raw（:27）
+   依据：① "too-tight boots" 不是逐字串（原文是 "too-tight new boots"）；② 「粉色」是过度着色——原文只写 pinkie toes，全书 grep "pink" 只在 "pinkie" 拼写内出现，书中没有"粉色脚趾" ⇒ 提示（两处均为压缩引证/着色夸张）。
+T5｜提示｜ch01 chapter 1.md:30（读者视角提示，原句1 块）
+   md 原文（逐字）：诗的第二行 "nougat’s my treat" 是西班牙圣诞糖果 turrón 的译写
+   语料（逐字）：while she recited the Christmas poem: I’m the queen of the house and nougat’s my treat, at Christmas I send you kisses so sweet!（:6，单行散文，无换行）
+   依据：原书诗句为一行内联散文，不存在"第二行"这一行号 ⇒ 结构自造 ⇒ 提示（引用的 "nougat’s my treat" 本身逐字正确）。
+T6｜提示｜ch01 chapter 1.md:54（读者视角提示，原句3 块）
+   md 原文（逐字）："straightener" 的焦虑是 Diana 人物设定的核心（控制欲 + 灾难化），后文 likely 复现。
+   依据：likely 存在于全书（ch08:117、ch16:30），但不在 ch01/ch02 ⇒ 用它指代"后文"没错，但放在本章块里无本章依据 ⇒ 提示。
+T7｜提示｜ch01 chapter 1.md:62（句子结构，原句4 块）
+   md 原文（逐字）：第一句 "More humiliating than A, than B, was C" 比较级主语后置
+   语料（逐字）：More humiliating than her slow but steady breakdown, than the feeling of becoming as lifeless as a dishrag, was crossing paths with the parents of Brisa’s classmates…
+   依据：A/B/C 是占位模板，"More humiliating than A, than B, was C" 这一字符串全书查无；但每个实词与句式（比较级主语后置）都在原句内 ⇒ 语法模板而非引文 ⇒ 提示（严口径「直引号内必须逐字」可上调为阻断，本报告按结构模板判提示）。
+T8｜提示｜ch01 chapter 1.md:66（读者视角提示，原句4 块）
+   md 原文（逐字）：显示她的焦虑 partly 是社会性焦虑（fear of judgment）。
+   依据：partly / judgment / "fear of judgment" 在 text/ 全书 flat 中 0 命中；"dash"（同句 "em dash 后的"）全书亦 0 命中，但 dash 是"破折号"的英文术语，可接受。三处英文实词/短语夹在中文层且读者拿不到中文义（上下文只能推出"社会性焦虑"）⇒ 提示。
+T9｜提示｜ch01 chapter 1.md:90（读者视角提示，原句6 块）
+   md 原文（逐字）：Brisa 的 "acting out" 是本章主题词，与 Diana 的 "breakdown" 形成母女对称
+   依据：acting out 属本块引语；"breakdown" 属原句4 的引语（More humiliating than her slow but steady breakdown…），此处跨块引用未加「与前文/与后文」标记 ⇒ 提示（低）。
+
+—— ch02 ——（T10–T21）
+T10｜提示｜ch02 chapter 2.md:16（导航·叙事手法）
+   md 原文（逐字）：结尾以"exactly the same time"收束，把巧合推向宿命。
+   语料（逐字）：and at the exact same time.（text/ch02_chapter_2.txt:483，原句6 引语内）
+   依据：多一个 ly，原文是 "at the exact same time" ⇒ 压缩改写 ⇒ 提示。
+T11｜提示｜ch02 chapter 2.md:42（读者视角提示，原句2 块）
+   md 原文（逐字）：暗示 Alba 的身体 always 在"表演";
+   依据：always 在本章原文出现 18 次，但此处中文层夹入未译英文实词 ⇒ 提示（E）。
+T12｜提示｜ch02 chapter 2.md:52（为什么这样写，原句3 块）
+   md 原文（逐字）："bodily extension / appendage" 去人格化……"epidemic / infestation" 的病理化修辞
+   依据：两个斜杠并列串全书查无，但两半各自逐字落在**本块引语内**（The grandmother always a bodily extension of the mother, a large and obedient appendage.／The infestation wasn’t unique…／it was an epidemic）⇒ 压缩引证 ⇒ 提示。
+T13｜提示｜ch02 chapter 2.md:52（为什么这样写，原句3 块）
+   md 原文（逐字）：显示 Carmens 们的自我消解
+   依据：Carmens 全书查无（英文复数造词）；本章只有 Carmen 一人 ⇒ 提示。
+T14｜提示｜ch02 chapter 2.md:52 / 54（原句3 块）
+   md 原文（逐字）："symbiotic vs parasitic" 是本章主题句——家族女性关系"more parasitic than symbiotic"
+   语料（逐字）：why those relationships—more parasitic than symbiotic—transcended the need for support with childcare（text/ch02_chapter_2.txt:120）
+   依据：① "symbiotic vs parasitic" 是构造对仗式，全书查无，且词序与原文相反（原文 parasitic 在前）；② 它所标注的 "more parasitic than symbiotic" 逐字正确，但**落在本块引语之外**（原句3 引语止于 "…it was an epidemic, though nobody really saw it as such."，该句在其后）⇒ 压缩构造 + 未标注的块外引用 ⇒ 提示。★ 与需人判 N8 联动。
+T15｜提示｜ch02 chapter 2.md:64（为什么这样写，原句4 块）
+   md 原文（逐字）：作者把解离写成"空间 Shed 物体"
+   语料（逐字）：the places she moved through shed all objects and life（text/ch02_chapter_2.txt:249，原句4 引语内）
+   依据：动词原为小写 shed，md 写成大写 Shed 且夹在中文里未译 ⇒ 提示。
+T16｜提示｜ch02 chapter 2.md:66（读者视角提示，原句4 块）
+   md 原文（逐字）：Camp La Tortuga Ligera 的 sign 是 Alba 的"安全意象"，暗示她 dissociation 时会逃往童年记忆；后文 likely 复现此 motif。
+   语料（逐字）：sought comfort in a mental image: the old sign out front of the Camp La Tortuga Ligera.（text/ch02_chapter_2.txt:249）
+   依据：① "Camp La Tortuga Ligera" 是本章真实原文，但位于原句4 引语**之后**（同段），md 未标注它不在引语内 ⇒ 未标注的块外引用 ⇒ 提示；② dissociation / motif 全书 flat 0 命中（自造英文术语，且未译）；③ likely 不在本章（见 T6 同理）⇒ 提示（合并计一条）。
+T17｜提示｜ch02 chapter 2.md:78（读者视角提示，原句5 块）★最接近截短形态
+   md 原文（逐字）：Diana 的描述（"blind medium and her sister" from her favorite movie）把寡妇写成 gothic archetype
+   语料（逐字）：Diana saw them once and was fascinated, she said they looked like two characters from her favorite movie: a blind medium and her sister.（text/ch02_chapter_2.txt:342）
+   依据：该串逐字存在，但**落在原句5 自身引语被 … 省略掉的中段**——读者在本块引语里找不到它，md 也未标注它出自省略段 ⇒ 引用可回溯性受损 ⇒ 提示。★ 与需人判 N8 联动。
+T18｜提示｜ch02 chapter 2.md:78（读者视角提示，原句5 块）
+   md 原文（逐字）："evil eye" 是本章超自然元素的引入。
+   语料（逐字）：“Mom, they put an evil eye on me.”（text/ch02_chapter_2.txt:351，另有 :381 :411 :423 :441 :447）
+   依据：串逐字存在，但全部位于 6 个引语块覆盖范围之外（本章后续段落）⇒ 未标注的块外引用 ⇒ 提示。
+T19｜提示｜ch02 chapter 2.md:78（读者视角提示，原句5 块）
+   md 原文（逐字）：把寡妇写成 gothic archetype；Alba 的邪眼恐惧与 Diana 的电影式 fascination 形成姐妹对照
+   依据：gothic、archetype 全书 flat 0 命中；fascination 在 ch11 出现、不在本章 ⇒ 中文层未译英文术语 + 自造英文词 ⇒ 提示。
+T20｜提示｜ch02 chapter 2.md:90（读者视角提示，原句6 块）
+   md 原文（逐字）："not other women’s" 显示姐妹的 narcissistic 保护欲
+   依据：narcissistic 全书 flat 0 命中 ⇒ 中文层未译 + 自造英文词 ⇒ 提示。
+T21｜提示｜ch02 chapter 2.md:119（词汇表 ⭐⭐ 进阶）
+   md 原文（逐字）：| frayed | 磨损的、磨损的 | "stretched out and frayed" |
+   依据：释义项重复 ⇒ 编辑瑕疵 ⇒ 提示。
+
+—— 词汇层与导航层（其余）——
+T22｜提示｜ch02 chapter 2.md:123（词汇表 ⭐⭐ 进阶）
+   md 原文（逐字）：| evil eye | 邪眼 | "One of the widows—the cross-eyed one—she cursed me" |
+   语料（逐字）：“One of the widows—the cross-eyed one—she cursed me,” Alba said.（text/ch02_chapter_2.txt:357）
+   依据：例句逐字出自本章 ✓，但**例句中不含词头 "evil eye"**（词头出现在紧邻下一段 :351）⇒ 词条↔例句不匹配 ⇒ 提示（需人判 N7）。
+T23｜提示｜ch02 chapter 2.md:134（词汇表 ⭐ 基础）
+   md 原文（逐字）：| buzzed | 按门铃 | "Alba, your mom is buzzing" |
+   语料（逐字）：“Alba, your mom is buzzing. Let her in,” Juan shouted from the bathroom.（text/ch02_chapter_2.txt:15；同章 :24 "Someone definitely buzzed."）
+   依据：例句逐字出自本章 ✓，但词头 buzzed 与例句 buzzing 词形不一致 ⇒ 提示。
+T24｜提示｜ch02 chapter 2.md:10 / 14 / 16 / 144（导航四项 + 一句话总结）
+   md 原文（逐字）：Alba 在商场 dissociate；Alba 从"控制欲强、 compulsive 的母亲"滑向 dissociation 与邪眼恐惧；长段落模拟 Alba 的 dissociation；……把 Alba 写成 compulsive 的家族女性：……在商场 dissociate
+   依据：dissociate / dissociation 在 text/ 全书 flat 中 0 命中（自造英文术语）；compulsive 在本章原文存在（All the women in the family… were compulsive and superstitious.）但中文层未译 ⇒ 导航层未译英文术语 ⇒ 提示。
+T25｜提示｜ch02 chapter 2.md:12（导航·情感弧线位置）
+   md 原文（逐字）：邪眼与血凝块把书的惊悚落点从心理 onto 身体。
+   依据：onto 在本章原文存在（text/ch02_chapter_2.txt:1 段落），但中文层夹入未译英文实词 ⇒ 提示。
+T26｜提示｜ch00 prologue.md:64 之外的 ch00 导航（逐项复核结论）
+   ch00 四项导航与一句话总结全部与 text/ch00_prologue.txt 的 5 段推进一致（苏醒/灯 → 记忆闪回 Brigitte → 血污场景 → 自我检查与九个耳环 → 哼声与女孩），本条仅为「ch00 导航层未发现缺陷」的留痕（导航层 4 项中另有 1 项需人判，见 N2）。
+
+════════════════════════════════════════════════════════════
+四、需人判清单（9 条）
+════════════════════════════════════════════════════════════
+N1｜需人判｜ch00 prologue.md:76（为什么这样写，原句5 块）——词数断言
+   md 原文（逐字）：全章最后一句只有 9 个词，却完成了恐怖的最终升级
+   语料（逐字）：Then, hearing someone humming, she turned and saw the girl.
+   实测：按空白分词 = 10 个（Then/ hearing/ someone/ humming/ she/ turned/ and/ saw/ the/ girl）；若不计句首 "Then," 则为 9。
+   依据：计数口径未标注 ⇒ 无法判定是笔误还是刻意不计 Then ⇒ ❓无法判定（人判）。
+N2｜需人判｜ch00 prologue.md:14（导航·人物弧线）——前置后文信息
+   md 原文（逐字）：主角（后文揭示为 Alba）从昏迷苏醒到确认自己尚存…
+   语料（逐字）：序章语料全文 5 段，**不含** Alba / Splau / Claire / 女孩之死 / 停车场车祸任何字样（grep Splau|Claire|parking|El Prat|widow|寡妇 = 0 命中）。
+   旁证：text/ch12_chapter_12.txt:6 几乎逐字复述序章（“Alba came to in the dark, sprawled across the floor… The sudden brightness was like a kick to the face… nine hoops in total, all different sizes, five in one ear and four in the other”）⇒ 主角确实是 Alba。
+   依据：身份判断有后文硬依据、且 md 已自标「后文揭示」；是否允许序章提前点名属体例问题 ⇒ ❓无法判定（人判）。★ 特别线索核验结论：ch00 md **没有**前置后文情节（Splau/Claire's/女孩之死/停车场车祸 0 命中），本条只是"点名 Alba"。
+N3｜需人判｜ch00 prologue.md:66（读者视角提示，原句4 块）——前瞻断言
+   md 原文（逐字）："appointment she couldn’t remember" 暗示药物或催眠，为后续 Diana/Alba 线埋伏笔。
+   依据：序章语料无 Diana / Alba 指称；"appointment" 逐字在本块引语内 ✓，但"暗示药物或催眠"与"Diana/Alba 线"是本章之外的推断与前瞻 ⇒ ❓无法判定（人判）。
+N4｜需人判｜ch01 chapter 1.md:42（读者视角提示，原句2 块）——前瞻地名
+   md 原文（逐字）：本章第一次出现 "Balmes"——与序章的儿童用品店、后文的 Splau/El Prat 共同构成巴塞罗那地理坐标
+   依据：Splau / El Prat 在 ch00–ch02 三章语料中 0 命中（仅 ch05+ 有）；md 已明写「后文」⇒ 属显式前瞻而非混入 ⇒ ❓无法判定（人判）。
+N5｜需人判｜ch02 chapter 2.md:26（句子结构，原句1 块）——句数断言口径
+   md 原文（逐字）：三句——第一句 … 第二句 … 第三句 "And in September, she did her first round of Christmas shopping." 短句；"Just like that, year after year." 独立短句收尾。
+   实测：引语实为 4 句（第 4 句即 "Just like that, year after year."，被同一字段单列为「独立短句收尾」）。
+   依据：字段内部口径自相矛盾（既说三句又单列第 4 句）⇒ ❓无法判定（人判是否把独立短句另计）。
+N6｜需人判｜ch02 chapter 2.md:38（句子结构，原句2 块）——句数断言口径
+   md 原文（逐字）：十二句——短句 "She looked around. Only a point of light lit the room." 制造紧张；……"All of them now awake, tense, and jumpy." 分词短语。
+   实测：引语实为 14 句（程序化分句：She was the first… / It was seven thirty… / She looked around. / Only a point of light… / Going to superhuman lengths… / Barefoot… / When she was almost at the door… / She couldn’t believe… / It wasn’t an accident. / She didn’t trip. / She had done it on purpose. / She’d seen the toy… / The result: Everyone opened their eyes… / All of them now awake…）。
+   依据：差 2 句，疑为把 "It wasn't an accident. She didn't trip. She had done it on purpose." 三短句合并计 1、或不计开头的 "She was the first…" ⇒ ❓无法判定（人判）。
+N7｜需人判｜ch02 chapter 2.md:123 / 134（词汇表）——例句是否必须含词头
+   依据：两条例句都逐字出自本章（✓），但分别缺词头（evil eye）与词形不同（buzzed/buzzing）⇒ 本库通行做法是否允许"例句只展示语境"，属体例问题 ⇒ ❓无法判定（人判）。若不允许，则应改选含词头的原句（如 "Mom, they put an evil eye on me." / "Someone definitely buzzed."）。
+N8｜需人判｜A 类判据的适用范围（规则口径问题，影响 T14 / T17 / T16）
+   依据：任务给定的 A 判据字面限定「中文理解 + 关键词」两字段，本轮据此检查 17 块 ⇒ **0 处**；但若把 A 扩到「为什么这样写 / 读者视角提示」，则 ch02 有 3 处呈现"引语短于它所支撑的分析"形态：块3 引语未含被其读者视角提示引用的 "more parasitic than symbiotic"（T14）、块5 引语以 … 省略掉了被其读者视角提示引用的 "a blind medium and her sister"（T17）、块4 引语之后同一段的 "Camp La Tortuga Ligera"（T16）。
+   ⇒ 三条目前按「提示型」记，但它们与本库真实失败案例 2（Such a Fun Age 18 处引语截短）形态完全一致 ⇒ 建议人判是否按 A 类升级为阻断并回改引语（把省略段补回或把分析里那句删掉）。
+N9｜需人判｜C 类说话人/受话人——工具口径不覆盖，人工已核
+   依据：ch00/ch01/ch02 的 17 个引语块**全部是叙述层**（块内无带说话标签的对白；ch02 语料里 17 处 "X said/shouted" 全部位于引语块之外），机器无法判定块内说话人。scripts/check_speaker_consistency.py 全书报「归因与原文不一致 0」，但该工具自述不覆盖"无对话标签的叙述层引语"⇒ 不能据此宣称说话人正确。
+   人工逐块核对结果（未发现错配）：ch01 块1 / 块6 = Brisa 视角；ch02 块1 / 块2 / 块3 / 块4 / 块5 = Alba 视角；ch02 块6 = Diana + Alba 二人；ch00 = 未具名苏醒者。
+   ⇒ 结论：人工未发现错配，但**机器口径未覆盖** ⇒ ❓无法判定（工具盲区，需人判确认）。
+
+════════════════════════════════════════════════════════════
+五、未进扫描集的内容（❓无法判定，禁止写成"正常"）
+════════════════════════════════════════════════════════════
+U1 词汇分档与全书难度基线是否匹配：本任务只查了"⭐⭐⭐ 是否混入基础词"（结论：三章均无混入 ✓）。三档之间的相对难度、⭐ 基础档是否过简、⭐⭐ 进阶档是否实为高级词，一律未查 ⇒ ❓无法判定。
+U2 导航 4 项与引语块的"逐块映射完整性"：只查了导航项结构齐备（三章各 4 项：一句话概括 / 情感弧线位置 / 人物弧线 / 叙事手法）与引语块数（5/6/6）；未查"导航是否漏述或误述某一块" ⇒ ❓无法判定。
+U3 跨章断言的正确性：只抽查了 Alba 身份（ch12:6）、Splau/El Prat（ch05+）、evil eye 线索（ch05:237/336、ch06:213/231/261/276）、Diana-Carlos 伴侣关系（ch05:9/147）、ch02:423 与 ch06:276 的呼应。前瞻型断言（ch01:54「后文 likely 复现」、ch02:66「后文 likely 复现此 motif」、ch00:66「为后续 Diana/Alba 线埋伏笔」）未逐条回核 ⇒ ❓无法判定。
+U4 三个总览篇（00_概述.md / 00_金句精选.md / 00_情感节点.md）与 ch00–ch02 的交叉一致性：不在本次范围 ⇒ ❓无法判定。
+U5 epub 原文层的引语逐字核验：本次真值一律取 text/；epub 侧由门禁的 verify_quotes 125/125 覆盖（见 .memory/raw-gates/.../2026-10-20-a-gate.txt），本次未重跑 ⇒ ❓无法判定（以门禁存档为凭）。
+U6 分析结论在文学意义上是否成立（例如 ch00:64 把施暴者推为「practitioner」的解读是否成立、ch02:78 把 Diana 的描述判为「gothic archetype」是否成立、ch00:40 「童趣与血迹共享同一物理空间」的推论是否过度）：只做了"引用英文是否逐字存在 / 是否落在本块引语内"的机械核对，未做文学正确性判断 ⇒ ❓无法判定。
+U7 ch02 原句5 的省略量是否恰当：只验证了 … 前后两段各自逐字存在于 text/ch02_chapter_2.txt:342（flat 长 919 与 123），未判断省略掉的中段是否与本块分析相关 ⇒ 相关即属"引语截短"；实际该中段含 "a blind medium and her sister"，且被本块读者视角提示引用 ⇒ 见 T17 / N8。
+U8 分析层"读者视角提示 / 为什么这样写"里是否自造情节（引语未提、但分析断言的后文事实）：只对含英文的部分做了逐字核验；纯中文断言（如 ch02:78「把寡妇写成 gothic archetype」中的"gothic"是术语而非情节断言）未逐条回核后文章节 ⇒ ❓无法判定。
+
+════════════════════════════════════════════════════════════
+六、检查项逐项结论
+════════════════════════════════════════════════════════════
+A 引语截短｜结论：**0 处（按任务给定判据：中文理解 + 关键词）**
+  方法：对 17 个引语块，取「中文理解」「关键词」两字段中的全部拉丁词组（最大连续拉丁串），逐一在该块**自身引语**的 flat 串上做子串匹配。
+  结果：17/17 块零越界；关键词的每个词条也都落在本块引语内（关键词锚定脚本 check_anchor.py 本书报 ❌凭空造词 0）。
+  边界：见 N8（判据扩到另外三字段则 ch02 有 3 处边缘样本）。
+
+B 引语↔分析错位｜结论：**0 处**
+  方法：逐块人工比对「本块引语讲什么」与「本块五字段讲什么」；并程序化列出所有"块外英文引用"逐一判定其是否被显式标注为与前文/与后文。
+  合规的跨块引用（已显式标注，不算缺陷）：ch00:40 "rows of tutus splattered with red"（原句3 的原文，标「与后文」）、ch00:42 "the girl"（原句5 的原文，标"本章只确认…末尾"）、ch01:28 "tiny felon in a lineup"（原句6，标「与后文」）、ch01:52 "pinkie toes raw"（原句6，标「呼应」）、ch01:64 "radiant, more put-together"（原句2，作对照）、ch02:28 "never anywhere just to be there"（text:123，标「与后文」）。
+  未标注的块外引用（已列提示）：T9 / T14 / T16 / T17 / T18。
+
+C 说话人 / 受话人｜结论：❓无法判定（机器口径不覆盖）+ 人工逐块未发现错配（详见 N9）
+
+D 分析层英文走形｜结论：**阻断 1（B-1）+ 提示 9**
+  方法（程序化 flat 比对，非肉眼）：把 md 内所有 ASCII 直引号跨度（≥3 字符）逐条抽出，对 book_flat（text/ 全 17 章拼接）与 chapter_flat（本章）与本块引语 flat 分别做子串匹配；含 … 的跨度按 … 切分后**逐片段独立取证**。
+  结果：
+   - 全书查无（阻断）：B-1 " practitioner"（唯一一条含全书不存在 token 的跨度）。
+   - 压缩/构造但逐词合法（提示）：ch01:62 语法模板、ch02:52 两组斜杠并列、ch02:54 "symbiotic vs parasitic"、ch02:16 "exactly the same time"、ch00:26 "kicks"、ch01:10 "onstage"、ch01:16 "too-tight boots"、ch01:30 "第二行"、ch02:64 "Shed"。
+   - 跨章搬运：**0 处**（"在全书命中但不在本章命中"的跨度为空集）——即没有把别的章节的英文搬进本章分析层。
+   - 省略号跨度：ch02 原句5（md:68）含 …，切分后两段 flat 长 919 / 123，**各自逐字**存在于 text/ch02_chapter_2.txt:342 ⇒ 合法的省略引语，非拼接造句。
+   - 词汇层例句内的英文：全部逐字出自本章（见 F）。
+   - ⚠️ 工具盲区留痕：check_analysis_indep.py 只抽反引号/`code` 跨度，本书三章 md **零个反引号** ⇒ 该工具对本书分析层双引号英文完全看不见（本次以自建脚本补齐）。
+
+E 中文层｜结论：**提示 13（无阻断）**
+   - 整段英文：0（中文理解 字段 CJK/Latin 比：ch00 0.00–0.12、ch01 0.00–0.12、ch02 0.00–0.23，均未超 35% 单条阈值；check_chinese_layer.py 对全书的判定也是"阻断型 0"）。
+   - 中英夹杂到读者拿不到中文义：13 处，全部按提示处理（T1/T3/T6/T8/T11/T13/T15/T16/T19/T20/T24/T25 + T18 相关）。
+   - 未译的实词（专名/地名/品牌不计）：partly、judgment、fear of judgment、always、dissociate、dissociation、motif、gothic、archetype、narcissistic、Carmens、Shed、likely、dash —— 详见提示清单。
+   - 引号配对错乱：0（每行 ASCII 直引号计数为偶、每行 “ ” 计数相等、每行 「 」 计数相等；单引号/撇号计数亦无奇数行）。
+   - ASCII 三点截断 `...`：**0 处**（三章全文计数为 0）；U+2026 `…` 计数 ch00=9 / ch01=44 / ch02=33，全部为合法省略号（句子结构字段的分句省略 + ch02 原句5 引语内 + ch02:70 中文理解内）。
+   - 特别线索核验：ch02 chapter 2.md:81（现 md:82）的中文理解 **已全部译成中文**——disturb → 压倒性的搅扰、seep through → 像血渗进…那样渗透、unbreakable → 不可打破的恒常性、solace → 慰藉、horrible/appalling/incomprehensible → 既可怕又令人骇然、不可理喻、disturbingly → 更令人不安的是。⇒ 线索所述的旧状态**已不存在于当前工作树**，结论：已修复。
+
+F 词汇层｜结论：**0 自造例句 + 提示 3**
+  方法：逐行解析三章词汇表（ch00 19 / ch01 22 / ch02 33 条），把例句（原文）逐条做 flat 子串匹配本章 text/。
+  结果：**74/74 例句全部逐字出自本章**（自造例句 0）；跨章搬运 0。
+  词头↔例句不匹配 2 条（T22 / T23）；释义重复 1 条（T21）。
+  ⭐⭐⭐ 高级档混入基础词：**0 处**。ch00 ⭐⭐⭐ = sprawled / rhythmically / matted / scabbed over / unhygienic；ch01 ⭐⭐⭐ = immaculate / threadbare / flawlessness / radiant / reconstructed / catastrophe / impeccable；ch02 ⭐⭐⭐ = superhuman lengths / pitch-dark / bodily extension / appendage / jellyfish / infestation / epidemic / detach / threshold / solace / appalling —— 均无基础词混入。
+
+G 导航一致性｜结论：**阻断 1（B-2）+ 提示 4 + 需人判 2**
+  - 三章导航项均齐备 4 项（一句话概括 / 情感弧线位置 / 人物弧线 / 叙事手法）；引语块数 5/6/6；逐项与本章语料核对后，ch00 四项全部相符（"五段推进：身体苏醒 → 记忆闪回（Brigitte）→ 环境恐怖发现 → 自我检查 → 声音触发" 与 5 个段落一一对应）；ch02 四项中的事件性断言（Sant Ildefons、Finestrelles、MediaMarkt、"寡妇"、邪眼、Brigitte 体操课血染、Brisa 睡中抽出 30 厘米血凝块）逐条回核命中 text/ch02_chapter_2.txt（:123 / :126 / :342 / :351 / :474 / :480）✓。
+  - 阻断 B-2：ch01:10「单亲母亲 Diana」。
+  - 提示 T3（onstage）、T4（too-tight boots / 粉色脚趾）、T10（exactly the same time）、T24 / T25（导航层未译英文术语）。
+  - 需人判 N2（ch00:14 点名 Alba）、N4（ch01:42 前瞻 Splau/El Prat）。
+  - 特别线索核验：ch02 text:342「They dressed in uncompromising black」（段末 a blind medium and her sister）与 ch05/ch06 的 Finestrelles「old women / evil eye」线索对应关系成立（ch05:237 "It was the evil eye. I knew it. Those damn old women."；ch05:336 "some old women went up to her yesterday at Finestrelles"；ch06:213/231/261 "evil eye"；ch06:276 与 ch02:423 呼应）；ch02 md 未把该线索写成本章已知事实（"evil eye" 的引用已按 T18 记为未标注的块外引用）。
+
+════════════════════════════════════════════════════════════
+七、本库真实失败案例对照结论
+════════════════════════════════════════════════════════════
+案例 1｜100 Great Short Stories ch86 ⑧⑨⑩（引语讲「用阴影遮盖」，分析却讲「没有叔叔」＝引语与分析说的不是一回事，六道门禁全绿）
+  对照结论：**本轮 17 块未复现该模式**。逐块人工比对结果：每块的中文理解 / 关键词 / 句子结构 / 为什么这样写 / 读者视角提示，所讲的都落在本块引语的内容范围内；机器侧"块外英文引用"清单也已逐条判定（6 条显式标注的合规跨块引用 + 5 条未标注的，已分别记为提示）。
+  ⚠️ 但需带警：ch02 块3（T14，"more parasitic than symbiotic" 在本块引语之外）与 ch02 块5（T17，"a blind medium and her sister" 在本块引语被 … 省略的中段）是**本轮最接近该失败模式边缘形态的两条**——分析讲的是本章真实原文、不是自造，但**不在读者能看到的那段引语里**，与该案例的"引语与分析说的不是一回事"只差"读者能否在引语里找到"这一步。建议按 N8 人判。
+
+案例 2｜Such a Fun Age（18 处引语截短——引语本身逐字正确，错的是它短于它所支撑的分析）
+  对照结论：**按任务给定判据（中文理解 + 关键词）本轮 0 处**，17 块全部通过"英文片段落在本块引语内"的检查。
+  ⚠️ 但按扩展判据（+ 为什么这样写 / 读者视角提示）本轮有 **3 处**同形态：ch02 块3（T14）、块5（T17）、块4（T16，"Camp La Tortuga Ligera" 在引语之后的同段）。这三处是本轮最需要修的引语覆盖缺口——修法与 Such a Fun Age 同源：要么把省略/截断的原文补回引语，要么把分析里那句改掉。
+
+案例 3｜A Real Paige Turner（3 处儿童角色转述冒充第一人称引语）
+  对照结论：**本轮未复现**。17 块的引语均为第一人称叙述或对话原文，无"把成人/他人的转述写成角色第一人称引语"的形态。唯一需要留意的是 ch02 原句5：其引语是 Alba 的第一人称叙述，其中夹着 **Diana 的转述**（"Diana saw them once and was fascinated, she said they looked like two characters from her favorite movie: a blind medium and her sister."），该转述恰好被 … 省略掉，而 md 的读者视角提示却以直引号引用了其中的 "blind medium and her sister"（T17）⇒ 读者若回头查引语会"查不到"，属截短而非冒充。
+
+════════════════════════════════════════════════════════════
+八、方法学留痕（可复跑）
+════════════════════════════════════════════════════════════
+- 真值：text/ch00_prologue.txt、text/ch01_chapter_1.txt、text/ch02_chapter_2.txt；跨章/全书判定用 text/ 全部 17 章拼接。
+- flat 比对口径：lower() → 非字母数字一律替换为空格 → 压缩空白；用于引语逐字、英文跨度存在性、例句逐字三类判定（去标点、小写，不做词形归一 ⇒ 词形走形会被抓出，如 kicks / onstage / exactly the same time）。
+- 引语块解析：行首 `> **原句 N:**` 起块；字段在 +2/+4/+6/+8/+10；块序号连续无撞车。
+- 脚本（一次性，位于 /tmp，未入库）：引语逐字与 … 片段独立取证、块外英文引用枚举、中文理解/关键词的 A 检查、词汇例句逐字 + 词头在例句检查、CJK/Latin 比、ASCII 三点计数、引号配对逐行计数、分句计数与"句子结构"数字断言对账、块序（引语块在原文中的先后）核对 —— 三章块序均为升序，无倒置。
+- 已跑过的库内工具（结果记录于 .memory/raw-gates/.../2026-10-20-a-gate.txt 等）：check_chinese_layer（阻断型 0）、check_anchor（凭空造词 0）、check_speaker_consistency（归因不一致 0，但口径不含叙述层）、check_nav_layer（❌0 ⚠️0）、check_analysis_indep（对本章双引号英文无效——零反引号）、verify_quotes 125/125（epub 侧）。
+- 声明：本次全程只读；未修改任何 md；未执行任何 git 操作；唯一写入为 .memory/raw-gates/don-t-leave-her-alone-by-desiree-de-fez/2026-10-20-d-semantic-D.txt。

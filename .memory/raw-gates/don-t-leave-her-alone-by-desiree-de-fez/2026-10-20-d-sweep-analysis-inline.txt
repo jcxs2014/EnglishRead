@@ -1,0 +1,626 @@
+=== 分析层行内英文逐字核查（don-t-leave-her-alone-by-desiree-de-fez）===
+  参照集：text/（18 个提取件） + epub 交叉验证 ；扫 21 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：430 个表格行、126 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 2857 ｜ ⚠️ 跨章 32 ｜ 🔶 拼接 81 ｜ 🟠 部分命中 473 ｜ 🟡 词形 36 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 573
+  ⚠️  ch03 chapter 3.md:50  「on purpose」→ 实为 ch02,05
+  ⚠️  ch03 chapter 3.md:60  「compulsions」→ 实为 ch02
+  ⚠️  ch03 chapter 3.md:83  「evil eye」→ 实为 ch02,05,06
+  ⚠️  ch03 chapter 3.md:83  「compulsions」→ 实为 ch02
+  ⚠️  ch04 chapter 4.md:42  「pretended she was texting」→ 实为 ch01
+  ⚠️  ch04 chapter 4.md:54  「on purpose」→ 实为 ch02,05
+  ⚠️  ch04 chapter 4.md:66  「on purpose」→ 实为 ch02,05
+  ⚠️  ch04 chapter 4.md:76  「I can’t take the bus by myself」→ 实为 ch03
+  ⚠️  ch04 chapter 4.md:100  「Her body would detach from reality」→ 实为 ch02
+  ⚠️  ch05 chapter 5.md:28  「nearsighted」→ 实为 ch04
+  ⚠️  ch06 chapter 6.md:14  「practical」→ 实为 ch02,03,04,05
+  ⚠️  ch06 chapter 6.md:66  「I’m not strong, I’m resistant」→ 实为 ch04
+  ⚠️  ch09 chapter 9.md:14  「shocked」→ 实为 ch02,10,15,16
+  ⚠️  ch10 chapter 10.md:124  「pink lights」→ 实为 ch14
+  ⚠️  ch10 chapter 10.md:138  「pink light」→ 实为 ch14,16
+  ⚠️  ch11 chapter 11.md:14  「fainting」→ 实为 ch08
+  ⚠️  ch11 chapter 11.md:64  「something pushing out from inside」→ 实为 ch17
+  ⚠️  ch11 chapter 11.md:66  「autophobia」→ 实为 ch05
+  ⚠️  ch11 chapter 11.md:134  「Victoria sneakers」→ 实为 ch12
+  ⚠️  ch12 chapter 12.md:14  「leaving」→ 实为 ch02,05,08,10
+  ⚠️  ch13 chapter 13.md:76  「same face」→ 实为 ch16
+  ⚠️  ch13 chapter 13.md:78  「same face」→ 实为 ch16
+  ⚠️  ch14 chapter 14.md:14  「scared」→ 实为 ch04,05,06,10
+  ⚠️  ch15 chapter 15.md:14  「silent」→ 实为 ch05,08,13,14
+  ⚠️  ch15 chapter 15.md:14  「confused」→ 实为 ch03,04,05,08
+  ⚠️  ch15 chapter 15.md:14  「terrific」→ 实为 ch14
+  ⚠️  ch16 chapter 16.md:54  「pinch her thigh」→ 实为 ch13
+  ⚠️  ch16 chapter 16.md:57  「pinch her thigh」→ 实为 ch13
+  ⚠️  ch16 chapter 16.md:57  「Diana pinched her leg」→ 实为 ch11
+  ⚠️  ch17 chapter 17.md:14  「terrific」→ 实为 ch14
+  ⚠️  ch17 chapter 17.md:14  「traumatized」→ 实为 ch10
+  ⚠️  ch17 chapter 17.md:132  「Santa Claus」→ 实为 ch02,05,11,16
+  🔶 ch00 prologue.md:38  「the sound … was replaced by an unpleasant ringing」→ 分段命中
+  🔶 ch00 prologue.md:50  「pushed herself up … and dared to open her eyes」→ 分段命中
+  🔶 ch00 prologue.md:50  「The wings … all covered in …」→ 分段命中
+  🔶 ch00 prologue.md:50  「The sight of it … hurt.」→ 分段命中
+  🔶 ch00 prologue.md:50  「It hurt more …」→ 整串（跨标签拼接）
+  🔶 ch01 chapter 1.md:26  「The idea was that … but …」→ 分段命中
+  🔶 ch01 chapter 1.md:26  「her performance switching to playback as she mouthed the」→ 整串（跨标签拼接）
+  🔶 ch01 chapter 1.md:38  「had done everything to make sure …」→ 整串（跨标签拼接）
+  🔶 ch01 chapter 1.md:38  「Her partner was going to be in Madrid all day, so …」→ 整串（跨标签拼接）
+  🔶 ch01 chapter 1.md:38  「She left the house early, happy to have …」→ 整串（跨标签拼接）
+  🔶 ch01 chapter 1.md:38  「She couldn’t remember a Christmas when she hadn’t …」→ 整串（跨标签拼接）
+  🔶 ch01 chapter 1.md:38  「Diana walked down Balmes looking radiant, … intending to」→ 分段命中
+  🔶 ch01 chapter 1.md:50  「She mentally reconstructed … but she couldn’t specifical」→ 分段命中
+  🔶 ch01 chapter 1.md:50  「She tried to convince herself … because …」→ 分段命中
+  🔶 ch01 chapter 1.md:50  「And anyway, she was sure …」→ 整串（跨标签拼接）
+  🔶 ch01 chapter 1.md:50  「But did it actually have …? Was she sure?」→ 分段命中
+  🔶 ch01 chapter 1.md:50  「In fact, …」→ 整串（跨标签拼接）
+  🔶 ch01 chapter 1.md:50  「She called Carlos …」→ 整串（跨标签拼接）
+  🔶 ch01 chapter 1.md:50  「She wanted him to pick up and tell her what she knew alr」→ 整串（跨标签拼接）
+  🔶 ch01 chapter 1.md:50  「She felt …」→ 整串（跨标签拼接）
+  🔶 ch01 chapter 1.md:62  「crossing paths with …, who …」→ 分段命中
+  🔶 ch01 chapter 1.md:62  「she couldn’t stand when … though she herself had made th」→ 分段命中
+  🔶 ch01 chapter 1.md:66  「she couldn’t stand when smiling parents pointed out …」→ 整串（跨标签拼接）
+  🔶 ch01 chapter 1.md:74  「After what felt like hours, she arrived … exhausted.」→ 分段命中
+  🔶 ch01 chapter 1.md:74  「She longed for a harmless flame, … to prove to herself t」→ 分段命中
+  🔶 ch01 chapter 1.md:86  「Diana arrived … raw.」→ 分段命中
+  🔶 ch01 chapter 1.md:86  「When she walked through … judge her for being late.」→ 分段命中
+  🔶 ch01 chapter 1.md:86  「Diana’s eyes clouded and her legs shook when, from the h」→ 整串（跨标签拼接）
+  🔶 ch01 chapter 1.md:86  「She’d been hoping …」→ 整串（跨标签拼接）
+  🔶 ch01 chapter 1.md:86  「She saw the kids on stage, and the exact same shot in mi」→ 分段命中
+  🔶 ch01 chapter 1.md:86  「She saw none of the nannies …」→ 整串（跨标签拼接）
+  🔶 ch01 chapter 1.md:86  「Only rows of family members …, mostly moms.」→ 分段命中
+  🔶 ch01 chapter 1.md:86  「After the poem, the kids launched into …」→ 整串（跨标签拼接）
+  🔶 ch01 chapter 1.md:86  「The parents laughed loudly, eager to show …」→ 整串（跨标签拼接）
+  🔶 ch01 chapter 1.md:86  「Not just because … but because …」→ 分段命中
+  🔶 ch01 chapter 1.md:86  「In a way, her acting out had made her the star …」→ 整串（跨标签拼接）
+  🔶 ch01 chapter 1.md:86  「The only child not singing, she had crossed her arms and」→ 整串（跨标签拼接）
+  🔶 ch02 chapter 2.md:26  「Alba planned her summers in January, buying … before she」→ 分段命中
+  🔶 ch02 chapter 2.md:26  「In August, she got ready for Halloween, ordering …」→ 整串（跨标签拼接）
+  🔶 ch02 chapter 2.md:38  「Going to superhuman lengths to …, she slid …, felt …, an」→ 分段命中
+  🔶 ch02 chapter 2.md:38  「Barefoot, she crept …」→ 整串（跨标签拼接）
+  🔶 ch02 chapter 2.md:38  「When she was almost at the door, she kicked a toy car, w」→ 整串（跨标签拼接）
+  🔶 ch02 chapter 2.md:38  「She couldn’t believe …」→ 整串（跨标签拼接）
+  🔶 ch02 chapter 2.md:50  「There were endless possible combinations … but one had c」→ 分段命中
+  🔶 ch02 chapter 2.md:50  「The grandmother always a bodily extension …」→ 整串（跨标签拼接）
+  🔶 ch02 chapter 2.md:50  「The three parts forming a single organism, a many-tentac」→ 整串（跨标签拼接）
+  🔶 ch02 chapter 2.md:50  「You’d catch sight of them at …」→ 整串（跨标签拼接）
+  🔶 ch02 chapter 2.md:50  「The infestation wasn’t unique …」→ 整串（跨标签拼接）
+  🔶 ch02 chapter 2.md:50  「But it was more pronounced …, since …」→ 分段命中
+  🔶 ch02 chapter 2.md:50  「And with paid help, …」→ 整串（跨标签拼接）
+  🔶 ch02 chapter 2.md:62  「In that moment, all she could see was …」→ 整串（跨标签拼接）
+  🔶 ch02 chapter 2.md:62  「Everything else was blurry or dark, depending on …」→ 整串（跨标签拼接）
+  🔶 ch02 chapter 2.md:62  「Alba followed that mark for a good while, until …」→ 整串（跨标签拼接）
+  🔶 ch02 chapter 2.md:74  「Alba had just stepped out … when she saw them approachin」→ 分段命中
+  🔶 ch02 chapter 2.md:74  「She couldn’t understand why …」→ 整串（跨标签拼接）
+  🔶 ch02 chapter 2.md:86  「None of the explanations from … convinced them.」→ 分段命中
+  🔶 ch02 chapter 2.md:88  「guilt seeped … as quickly as the blood … with the same u」→ 分段命中
+  🔶 ch04 chapter 4.md:16  「near-sighted」→ 整串（跨标签拼接）
+  🔶 ch04 chapter 4.md:26  「… She had overcome her obsession … when a prestigious li」→ 分段命中
+  🔶 ch04 chapter 4.md:28  「falling apart … marked, deconstructed, and reassembled」→ 分段命中
+  🔶 ch04 chapter 4.md:52  「any other person … would be on leave or sent straight to」→ 分段命中
+  🔶 ch04 chapter 4.md:88  「wounds … fresh」→ 分段命中
+  🔶 ch04 chapter 4.md:98  「Diana was running on empty because …」→ 整串（跨标签拼接）
+  🔶 ch04 chapter 4.md:98  「And she slept little and ate poorly because …」→ 整串（跨标签拼接）
+  🔶 ch05 chapter 5.md:30  「Diana and Carlos had achieved what was almost impossible」→ 分段命中
+  🔶 ch05 chapter 5.md:64  「six years prior … Tomás was born and her fears began to 」→ 分段命中
+  🔶 ch05 chapter 5.md:125  「the mismatch between the demand … and the indifference」→ 分段命中
+  🔶 ch08 chapter 8.md:88  「The gash … seemed to be feeding on itself」→ 分段命中
+  🔶 ch10 chapter 10.md:54  「visualizing her sister getting off the metro by herself.」→ 分段命中
+  🔶 ch10 chapter 10.md:124  「light shooting up... deep pink, almost purple」→ 分段命中
+  🔶 ch11 chapter 11.md:88  「round hole... organs showing」→ 分段命中
+  🔶 ch11 chapter 11.md:112  「hug or strangle」→ 整串（跨标签拼接）
+  🔶 ch11 chapter 11.md:114  「hug or strangle」→ 整串（跨标签拼接）
+  🔶 ch12 chapter 12.md:37  「Alba sang, her voice feeble: ‘I dream of you—what have y」→ 整串（跨标签拼接）
+  🔶 ch12 chapter 12.md:37  「She tried again, louder, but her voice broke, ‘I dream o」→ 整串（跨标签拼接）
+  🔶 ch12 chapter 12.md:92  「The girl got up and started singing: ‘I long for you, yo」→ 整串（跨标签拼接）
+  🔶 ch17 chapter 17.md:70  「Alexa！Telepasión！」→ 整串（跨标签拼接）
+  🔶 ch17 chapter 17.md:98  「Carmen sang, ‘I don’t feel her beside me now, can’t hold」→ 整串（跨标签拼接）
+  🔶 ch17 chapter 17.md:98  「The chorus came, and they wrapped their arms around one 」→ 整串（跨标签拼接）
+  🔶 ch17 chapter 17.md:120  「Tears of Love by Camela」→ 整串（跨标签拼接）
+  🔶 ch17 chapter 17.md:121  「I Dream of You by Camela」→ 整串（跨标签拼接）
+  🟡 00_情感节点.md:36  「is the inciting incident」→ 疑派生词，原书作 i/in
+  🟡 00_情感节点.md:53  「and claims her autonomy」→ 词形不符，原书词干 claim/claime
+  🟡 00_概述.md:19  「is the inciting incident」→ 疑派生词，原书作 i/in
+  🟡 00_概述.md:25  「and claims her autonomy」→ 词形不符，原书词干 claim/claime
+  🟡 00_金句精选.md:56  「both are mundane endings」→ 词形不符，原书词干 ending
+  🟡 00_金句精选.md:151  「The novel is grounded in」→ 词形不符，原书词干 ground
+  🟡 ch00 prologue.md:64  「 practitioner」→ 疑派生词，原书作 p
+  🟡 ch05 chapter 5.md:64  「documentary lens」→ 词形不符，原书词干 len/lene/lens
+  🟡 ch05 chapter 5.md:90  「Diana’s   theme connects to」→ 词形不符，原书词干 connect/connecte/theme
+  🟡 ch06 chapter 6.md:14  「naming Diana’s enablement」→ 词形不符，原书词干 nam/name
+  🟡 ch06 chapter 6.md:42  「Diana’s awareness of her own pathology」→ 疑派生词，原书作 d/diana
+  🟡 ch06 chapter 6.md:54  「Carlos’s   shows their disagreement on」→ 词形不符，原书词干 show/showe
+  🟡 ch06 chapter 6.md:66  「Diana’s   is her rationalization」→ 疑派生词，原书作 d/diana
+  🟡 ch06 chapter 6.md:121  「her inability to refuse」→ 词形不符，原书词干 refuse
+  🟡 ch08 chapter 8.md:14  「dozing」→ 词形不符，原书词干 doz/doze
+  🟡 ch08 chapter 8.md:42  「Carlos’s   shows his practicality」→ 词形不符，原书词干 show/showe
+  🟡 ch09 chapter 9.md:54  「this is shortest chapter」→ 词形不符，原书词干 short/shorte
+  🟡 ch10 chapter 10.md:90  「Diana's narrative is fragmented」→ 词形不符，原书词干 fragment/fragmente
+  🟡 ch12 chapter 12.md:12  「devouring」→ 词形不符，原书词干 devour/devoure
+  🟡 ch12 chapter 12.md:14  「amnesiac」→ 疑派生词，原书作 a/am
+  🟡 ch12 chapter 12.md:14  「devouring」→ 词形不符，原书词干 devour/devoure
+  🟡 ch12 chapter 12.md:137  「devouring」→ 词形不符，原书词干 devour/devoure
+  🟡 ch13 chapter 13.md:14  「screamer」→ 词形不符，原书词干 scream/screame
+  🟡 ch13 chapter 13.md:14  「recognizer」→ 词形不符，原书词干 recogniz/recognize
+  🟡 ch13 chapter 13.md:14  「autonomy claimer」→ 词形不符，原书词干 claim/claime
+  🟡 ch13 chapter 13.md:14  「birthing」→ 词形不符，原书词干 birth/birthe
+  🟡 ch13 chapter 13.md:14  「recognizing」→ 词形不符，原书词干 recogniz/recognize
+  🟡 ch13 chapter 13.md:14  「attackers」→ 疑派生词，原书作 a/at/attack
+  🟡 ch13 chapter 13.md:14  「vanishing」→ 词形不符，原书词干 vanish/vanishe
+  🟡 ch14 chapter 14.md:14  「wounded」→ 词形不符，原书词干 wound/wounde
+  🟡 ch15 chapter 15.md:108  「family's honesty with gaps」→ 词形不符，原书词干 gap/gape
+  🟡 ch16 chapter 16.md:14  「escaping」→ 词形不符，原书词干 escap/escape
+  🟡 ch16 chapter 16.md:14  「trapping」→ 词形不符，原书词干 trapp/trappe
+  🟡 ch16 chapter 16.md:14  「dispersing」→ 疑派生词，原书作 d
+  🟡 ch16 chapter 16.md:129  「recognizes her own condition」→ 词形不符，原书词干 condition/recogniz/recognize
+  🟡 ch17 chapter 17.md:14  「confessing」→ 疑派生词，原书作 c
+  🟠 00_情感节点.md:10  「establishes the supernatural premise」→ 内容词 1/3 命中（supernatural）——疑漏词或改写
+  🟠 00_情感节点.md:19  「establishes family dynamics and the somatic alarms」→ 内容词 1/5 命中（family）——疑漏词或改写
+  🟠 00_情感节点.md:19  「that the supernatural later explains」→ 内容词 2/3 命中（later/supernatural）——疑漏词或改写
+  🟠 00_情感节点.md:36  「Diana wound still bleeding when」→ 内容词 4/4 命中（bleeding/diana/still/wound）——疑漏词或改写
+  🟠 00_情感节点.md:44  「Juan says not to be scared when they see her」→ 内容词 4/4 命中（juan/says/scared/see）——疑漏词或改写
+  🟠 00_情感节点.md:53  「girl in red swimsuit with hoop earrings」→ 内容词 5/5 命中（earrings/girl/hoop/red）——疑漏词或改写
+  🟠 00_情感节点.md:53  「camp swallowed by airport expansion」→ 内容词 4/4 命中（airport/camp/expansion/swallowed）——疑漏词或改写
+  🟠 00_情感节点.md:53  「ghosts of happy campers」→ 内容词 3/3 命中（campers/ghosts/happy）——疑漏词或改写
+  🟠 00_情感节点.md:53  「tentacles emerge and drag the girl back」→ 内容词 5/5 命中（back/drag/emerge/girl）——疑漏词或改写
+  🟠 00_情感节点.md:53  「Alba devours her in her sleep」→ 内容词 2/3 命中（alba/sleep）——疑漏词或改写
+  🟠 00_情感节点.md:53  「Alba on second floor sees doppelg」→ 内容词 3/5 命中（alba/floor/second）——疑漏词或改写
+  🟠 00_情感节点.md:53  「Alba that she doesn't know how to do anything」→ 内容词 3/4 命中（alba/anything/know）——疑漏词或改写
+  🟠 00_情感节点.md:53  「is the novel's horror centerpiece」→ 内容词 1/3 命中（horror）——疑漏词或改写
+  🟠 00_情感节点.md:53  「Alba confronts the girl's ghost」→ 内容词 2/4 命中（alba/ghost）——疑漏词或改写
+  🟠 00_情感节点.md:64  「all three women identical」→ 内容词 3/3 命中（identical/three/women）——疑漏词或改写
+  🟠 00_情感节点.md:64  「children saw pink lights in sky」→ 内容词 5/5 命中（children/lights/pink/saw）——疑漏词或改写
+  🟠 00_情感节点.md:64  「Carmen eat pizza outside」→ 内容词 4/4 命中（carmen/eat/outside/pizza）——疑漏词或改写
+  🟠 00_情感节点.md:64  「Carmen confesses she had octopus at camp」→ 内容词 3/4 命中（camp/carmen/octopus）——疑漏词或改写
+  🟠 00_情感节点.md:64  「the summer she fainted」→ 内容词 2/2 命中（fainted/summer）——疑漏词或改写
+  🟠 00_情感节点.md:64  「Alba stays silent about full」→ 内容词 3/4 命中（alba/full/silent）——疑漏词或改写
+  🟠 00_情感节点.md:64  「reveals the family's hidden connections」→ 内容词 1/4 命中（hidden）——疑漏词或改写
+  🟠 00_情感节点.md:72  「Final revelations and homecoming」→ 内容词 1/3 命中（final）——疑漏词或改写
+  🟠 00_情感节点.md:74  「sees women like her」→ 内容词 2/3 命中（like/women）——疑漏词或改写
+  🟠 00_情感节点.md:74  「tentacles emerge as light show」→ 内容词 4/4 命中（emerge/light/show/tentacles）——疑漏词或改写
+  🟠 00_情感节点.md:74  「Alba realizes why the women scream」→ 内容词 3/4 命中（alba/scream/women）——疑漏词或改写
+  🟠 00_情感节点.md:74  「Alba walks through them」→ 内容词 3/4 命中（alba/them/through）——疑漏词或改写
+  🟠 00_情感节点.md:74  「chapter ends with a line about the controllers」→ 内容词 3/4 命中（controllers/ends/line）——疑漏词或改写
+  🟠 00_情感节点.md:74  「Switch controllers on patio」→ 内容词 3/3 命中（controllers/patio/switch）——疑漏词或改写
+  🟠 00_情感节点.md:74  「Carmen reveals she had octopus at camp」→ 内容词 3/4 命中（camp/carmen/octopus）——疑漏词或改写
+  🟠 00_情感节点.md:74  「family laughs and dances to」→ 内容词 2/3 命中（dances/family）——疑漏词或改写
+  🟠 00_情感节点.md:74  「Carmen asking about air fryer」→ 内容词 4/4 命中（air/asking/carmen/fryer）——疑漏词或改写
+  🟠 00_情感节点.md:74  「is the novel's ending」→ 内容词 1/2 命中（ending）——疑漏词或改写
+  🟠 00_概述.md:13  「establishes the supernatural premise」→ 内容词 1/3 命中（supernatural）——疑漏词或改写
+  🟠 00_概述.md:15  「establishes family dynamics and the somatic alarms」→ 内容词 1/5 命中（family）——疑漏词或改写
+  🟠 00_概述.md:15  「that the supernatural later explains」→ 内容词 2/3 命中（later/supernatural）——疑漏词或改写
+  🟠 00_概述.md:17  「the family starts to rationalize」→ 内容词 2/3 命中（family/starts）——疑漏词或改写
+  🟠 00_概述.md:19  「Diana wound still bleeding when」→ 内容词 4/4 命中（bleeding/diana/still/wound）——疑漏词或改写
+  🟠 00_概述.md:21  「the family waits outside」→ 内容词 2/3 命中（family/outside）——疑漏词或改写
+  🟠 00_概述.md:21  「Alba is fine and that they should not be scared when the」→ 内容词 4/4 命中（alba/fine/scared/see）——疑漏词或改写
+  🟠 00_概述.md:25  「girl in red swimsuit with hoop earrings」→ 内容词 5/5 命中（earrings/girl/hoop/red）——疑漏词或改写
+  🟠 00_概述.md:25  「camp swallowed by airport expansion」→ 内容词 4/4 命中（airport/camp/expansion/swallowed）——疑漏词或改写
+  🟠 00_概述.md:25  「ghosts of happy campers」→ 内容词 3/3 命中（campers/ghosts/happy）——疑漏词或改写
+  🟠 00_概述.md:25  「tentacles emerge and drag the girl back」→ 内容词 5/5 命中（back/drag/emerge/girl）——疑漏词或改写
+  🟠 00_概述.md:25  「Alba devours her in her sleep」→ 内容词 2/3 命中（alba/sleep）——疑漏词或改写
+  🟠 00_概述.md:25  「Alba on second floor sees doppelg」→ 内容词 3/5 命中（alba/floor/second）——疑漏词或改写
+  🟠 00_概述.md:25  「Alba that she doesn't know how to do anything」→ 内容词 3/4 命中（alba/anything/know）——疑漏词或改写
+  🟠 00_概述.md:25  「is the novel's horror centerpiece」→ 内容词 1/3 命中（horror）——疑漏词或改写
+  🟠 00_概述.md:25  「Alba confronts the girl's ghost」→ 内容词 2/4 命中（alba/ghost）——疑漏词或改写
+  🟠 00_概述.md:31  「all three women identical」→ 内容词 3/3 命中（identical/three/women）——疑漏词或改写
+  🟠 00_概述.md:31  「children saw pink lights in sky」→ 内容词 5/5 命中（children/lights/pink/saw）——疑漏词或改写
+  🟠 00_概述.md:31  「Carmen eat pizza outside」→ 内容词 4/4 命中（carmen/eat/outside/pizza）——疑漏词或改写
+  🟠 00_概述.md:31  「Carmen confesses she had octopus at camp」→ 内容词 3/4 命中（camp/carmen/octopus）——疑漏词或改写
+  🟠 00_概述.md:31  「the summer she fainted」→ 内容词 2/2 命中（fainted/summer）——疑漏词或改写
+  🟠 00_概述.md:31  「Alba stays silent about full」→ 内容词 3/4 命中（alba/full/silent）——疑漏词或改写
+  🟠 00_概述.md:31  「reveals the family's hidden connections」→ 内容词 1/4 命中（hidden）——疑漏词或改写
+  🟠 00_概述.md:36  「Final revelations and homecoming」→ 内容词 1/3 命中（final）——疑漏词或改写
+  🟠 00_概述.md:36  「sees women like her」→ 内容词 2/3 命中（like/women）——疑漏词或改写
+  🟠 00_概述.md:36  「tentacles emerge as light show」→ 内容词 4/4 命中（emerge/light/show/tentacles）——疑漏词或改写
+  🟠 00_概述.md:36  「Alba realizes why the women scream」→ 内容词 3/4 命中（alba/scream/women）——疑漏词或改写
+  🟠 00_概述.md:36  「Alba walks through them」→ 内容词 3/4 命中（alba/them/through）——疑漏词或改写
+  🟠 00_概述.md:36  「chapter ends with a line about the controllers」→ 内容词 3/4 命中（controllers/ends/line）——疑漏词或改写
+  🟠 00_概述.md:36  「Switch controllers on patio」→ 内容词 3/3 命中（controllers/patio/switch）——疑漏词或改写
+  🟠 00_概述.md:36  「Carmen reveals she had octopus at camp」→ 内容词 3/4 命中（camp/carmen/octopus）——疑漏词或改写
+  🟠 00_概述.md:36  「family laughs and dances to」→ 内容词 2/3 命中（dances/family）——疑漏词或改写
+  🟠 00_概述.md:36  「Carmen asking about air fryer」→ 内容词 4/4 命中（air/asking/carmen/fryer）——疑漏词或改写
+  🟠 00_概述.md:36  「is the novel's ending」→ 内容词 1/2 命中（ending）——疑漏词或改写
+  🟠 00_概述.md:46  「Carmen had octopus at camp」→ 内容词 3/3 命中（camp/carmen/octopus）——疑漏词或改写
+  🟠 00_概述.md:46  「three women have identical scars」→ 内容词 4/4 命中（identical/scars/three/women）——疑漏词或改写
+  🟠 00_概述.md:46  「The supernatural connects them across time and space」→ 内容词 5/6 命中（across/space/supernatural/them）——疑漏词或改写
+  🟠 00_概述.md:48  「birth ritual with blood-covered children」→ 内容词 3/4 命中（birth/children/ritual）——疑漏词或改写
+  🟠 00_概述.md:48  「Body horror as metaphor for suppressed identity」→ 内容词 2/5 命中（body/horror）——疑漏词或改写
+  🟠 00_概述.md:50  「Setting is integral to the story」→ 内容词 2/3 命中（setting/story）——疑漏词或改写
+  🟠 00_概述.md:55  「from exhausted mother to woman who claims her suppressed」→ 内容词 4/6 命中（exhausted/mother/self/woman）——疑漏词或改写
+  🟠 00_概述.md:58  「from traumatized sister to participant in the mystery」→ 内容词 3/4 命中（mystery/sister/traumatized）——疑漏词或改写
+  🟠 00_概述.md:61  「from stoic mother to woman who confesses her hidden supe」→ 内容词 5/7 命中（hidden/mother/stoic/supernatural）——疑漏词或改写
+  🟠 00_概述.md:64  「tells her she forgot about me」→ 内容词 1/2 命中（forgot）——疑漏词或改写
+  🟠 00_概述.md:64  「and is devoured by the tentacles」→ 内容词 2/2 命中（devoured/tentacles）——疑漏词或改写
+  🟠 00_概述.md:64  「the reason they scream」→ 内容词 2/2 命中（reason/scream）——疑漏词或改写
+  🟠 00_概述.md:64  「from waiting ghost to released」→ 内容词 2/3 命中（ghost/waiting）——疑漏词或改写
+  🟠 00_概述.md:67  「from skeptic to silent witness」→ 内容词 2/3 命中（silent/witness）——疑漏词或改写
+  🟠 00_概述.md:70  「from practical father to silent witness」→ 内容词 3/4 命中（father/silent/witness）——疑漏词或改写
+  🟠 00_金句精选.md:24  「tentacles were cut off」→ 内容词 3/3 命中（cut/off/tentacles）——疑漏词或改写
+  🟠 00_金句精选.md:24  「screaming is their suppressed self」→ 内容词 2/3 命中（screaming/self）——疑漏词或改写
+  🟠 00_金句精选.md:31  「Alba destroys her self-criticism」→ 内容词 1/3 命中（alba）——疑漏词或改写
+  🟠 00_金句精选.md:39  「women scream because their tentacles」→ 内容词 4/4 命中（because/scream/tentacles/women）——疑漏词或改写
+  🟠 00_金句精选.md:39  「screaming is not fear」→ 内容词 2/2 命中（fear/screaming）——疑漏词或改写
+  🟠 00_金句精选.md:46  「chapter ends with this mundane statement」→ 内容词 1/4 命中（ends）——疑漏词或改写
+  🟠 00_金句精选.md:47  「This is the novel's tonal key」→ 内容词 1/3 命中（key）——疑漏词或改写
+  🟠 00_金句精选.md:47  「horror grounded in domesticity」→ 内容词 1/3 命中（horror）——疑漏词或改写
+  🟠 00_金句精选.md:48  「both are mundane endings to supernatural chapters」→ 内容词 1/4 命中（supernatural）——疑漏词或改写
+  🟠 00_金句精选.md:54  「Diana about air fryer」→ 内容词 3/3 命中（air/diana/fryer）——疑漏词或改写
+  🟠 00_金句精选.md:54  「amid family's laughter and dancing to」→ 内容词 2/4 命中（dancing/laughter）——疑漏词或改写
+  🟠 00_金句精选.md:55  「novel's final word is mundane」→ 内容词 2/4 命中（final/word）——疑漏词或改写
+  🟠 00_金句精选.md:70  「Alba stays silent about full」→ 内容词 3/4 命中（alba/full/silent）——疑漏词或改写
+  🟠 00_金句精选.md:70  「Diana doesn't know she was there」→ 内容词 2/3 命中（diana/know）——疑漏词或改写
+  🟠 00_金句精选.md:71  「Diana was physically present but unaware」→ 内容词 4/5 命中（but/diana/physically/present）——疑漏词或改写
+  🟠 00_金句精选.md:71  「The supernatural connects them across unknowing」→ 内容词 4/5 命中（across/supernatural/them/unknowing）——疑漏词或改写
+  🟠 00_金句精选.md:72  「forgetting and unknowing are twin themes」→ 内容词 3/4 命中（forgetting/twin/unknowing）——疑漏词或改写
+  🟠 00_金句精选.md:78  「Carmen confesses she had octopus at」→ 内容词 2/3 命中（carmen/octopus）——疑漏词或改写
+  🟠 00_金句精选.md:78  「the summer she fainted」→ 内容词 2/2 命中（fainted/summer）——疑漏词或改写
+  🟠 00_金句精选.md:78  「bingo lady helped her contain it」→ 内容词 4/4 命中（bingo/contain/helped/lady）——疑漏词或改写
+  🟠 00_金句精选.md:79  「Carmen's hidden supernatural experience」→ 内容词 2/4 命中（hidden/supernatural）——疑漏词或改写
+  🟠 00_金句精选.md:79  「Mother and daughter share the same suppressed self」→ 内容词 4/5 命中（daughter/mother/self/share）——疑漏词或改写
+  🟠 00_金句精选.md:87  「The supernatural comes from a place of childhood joy」→ 内容词 5/5 命中（childhood/comes/joy/place）——疑漏词或改写
+  🟠 00_金句精选.md:95  「The novel balances horror with wit」→ 内容词 1/4 命中（horror）——疑漏词或改写
+  🟠 00_金句精选.md:102  「swallowed by airport expansion」→ 内容词 3/3 命中（airport/expansion/swallowed）——疑漏词或改写
+  🟠 00_金句精选.md:102  「ghosts of happy campers」→ 内容词 3/3 命中（campers/ghosts/happy）——疑漏词或改写
+  🟠 00_金句精选.md:103  「camp is the origin of the supernatural」→ 内容词 2/3 命中（camp/supernatural）——疑漏词或改写
+  🟠 00_金句精选.md:103  「The supernatural comes from a place of childhood joy」→ 内容词 5/5 命中（childhood/comes/joy/place）——疑漏词或改写
+  🟠 00_金句精选.md:104  「happy campers become ghosts」→ 内容词 4/4 命中（become/campers/ghosts/happy）——疑漏词或改写
+  🟠 00_金句精选.md:111  「Alba's forgetting is not passive but active self-erasure」→ 内容词 3/6 命中（but/forgetting/passive）——疑漏词或改写
+  🟠 00_金句精选.md:112  「forgetting is the novel's central horror」→ 内容词 3/4 命中（central/forgetting/horror）——疑漏词或改写
+  🟠 00_金句精选.md:134  「Switch controllers on patio」→ 内容词 3/3 命中（controllers/patio/switch）——疑漏词或改写
+  🟠 00_金句精选.md:135  「Alba to her children」→ 内容词 2/2 命中（alba/children）——疑漏词或改写
+  🟠 00_金句精选.md:136  「both are mundane objects in supernatural context」→ 内容词 2/4 命中（objects/supernatural）——疑漏词或改写
+  🟠 00_金句精选.md:143  「girl's revenge is physical」→ 内容词 2/3 命中（physical/revenge）——疑漏词或改写
+  🟠 00_金句精选.md:143  「The supernatural leaves physical marks」→ 内容词 4/4 命中（leaves/marks/physical/supernatural）——疑漏词或改写
+  🟠 00_金句精选.md:144  「girl's revenge for forgetting」→ 内容词 2/3 命中（forgetting/revenge）——疑漏词或改写
+  🟠 00_金句精选.md:151  「Camela is a real band」→ 内容词 3/3 命中（band/camela/real）——疑漏词或改写
+  🟠 00_金句精选.md:159  「The song is about a dead girl」→ 内容词 3/3 命中（dead/girl/song）——疑漏词或改写
+  🟠 00_金句精选.md:159  「like the girl ghost」→ 内容词 3/3 命中（ghost/girl/like）——疑漏词或改写
+  🟠 00_金句精选.md:160  「both are about loss and forgetting」→ 内容词 2/2 命中（forgetting/loss）——疑漏词或改写
+  🟠 00_金句精选.md:166  「family dances to this song」→ 内容词 3/3 命中（dances/family/song）——疑漏词或改写
+  🟠 00_金句精选.md:167  「chorus mirrors novel's themes」→ 内容词 2/4 命中（chorus/mirrors）——疑漏词或改写
+  🟠 00_金句精选.md:167  「The song is the novel's thematic echo」→ 内容词 2/4 命中（echo/song）——疑漏词或改写
+  🟠 ch01 chapter 1.md:50  「What if …? Or maybe …?」→ 内容词 1/1 命中（maybe）——疑漏词或改写
+  🟠 ch01 chapter 1.md:62  「More humiliating than A, than B, was C」→ 内容词 1/1 命中（humiliating）——疑漏词或改写
+  🟠 ch02 chapter 2.md:16  「exactly the same time」→ 内容词 2/2 命中（exactly/time）——疑漏词或改写
+  🟠 ch02 chapter 2.md:54  「symbiotic vs parasitic」→ 内容词 2/2 命中（parasitic/symbiotic）——疑漏词或改写
+  🟠 ch03 chapter 3.md:16  「to celebrate two things」→ 内容词 3/3 命中（celebrate/things/two）——疑漏词或改写
+  🟠 ch03 chapter 3.md:37  「Carmen stayed with the kids」→ 内容词 3/3 命中（carmen/kids/stayed）——疑漏词或改写
+  🟠 ch03 chapter 3.md:72  「Carmen got her nails done」→ 内容词 3/3 命中（carmen/got/nails）——疑漏词或改写
+  🟠 ch03 chapter 3.md:72  「Carmen got her nails done for the holidays」→ 内容词 4/4 命中（carmen/got/holidays/nails）——疑漏词或改写
+  🟠 ch04 chapter 4.md:14  「pretending to rest」→ 内容词 2/2 命中（pretending/rest）——疑漏词或改写
+  🟠 ch04 chapter 4.md:14  「overwhelmed on metro」→ 内容词 2/2 命中（metro/overwhelmed）——疑漏词或改写
+  🟠 ch04 chapter 4.md:14  「backing Diana up」→ 内容词 1/2 命中（diana）——疑漏词或改写
+  🟠 ch04 chapter 4.md:14  「pointing out Alba's control」→ 内容词 2/4 命中（control/out）——疑漏词或改写
+  🟠 ch04 chapter 4.md:14  「Idiot, laughing」→ 内容词 2/2 命中（idiot/laughing）——疑漏词或改写
+  🟠 ch04 chapter 4.md:28  「obsessive organization」→ 内容词 1/2 命中（obsessive）——疑漏词或改写
+  🟠 ch04 chapter 4.md:64  「terrible woman scolded us」→ 内容词 3/3 命中（scolded/terrible/woman）——疑漏词或改写
+  🟠 ch04 chapter 4.md:76  「only engaged when directly affected」→ 内容词 3/3 命中（affected/directly/engaged）——疑漏词或改写
+  🟠 ch04 chapter 4.md:78  「He wasn’t malicious; he’d even say it was constructive」→ 内容词 4/6 命中（constructive/even/malicious/say）——疑漏词或改写
+  🟠 ch04 chapter 4.md:102  「body responds to proximity to family home」→ 内容词 3/5 命中（body/family/home）——疑漏词或改写
+  🟠 ch04 chapter 4.md:151  「resistant not strong」→ 内容词 2/2 命中（resistant/strong）——疑漏词或改写
+  🟠 ch04 chapter 4.md:151  「Idiot, laughing」→ 内容词 2/2 命中（idiot/laughing）——疑漏词或改写
+  🟠 ch05 chapter 5.md:14  「participating in family celebration」→ 内容词 1/3 命中（family）——疑漏词或改写
+  🟠 ch05 chapter 5.md:14  「alone with Carlos, unpacking secrets」→ 内容词 2/4 命中（alone/carlos）——疑漏词或改写
+  🟠 ch05 chapter 5.md:14  「birthday host」→ 内容词 2/2 命中（birthday/host）——疑漏词或改写
+  🟠 ch05 chapter 5.md:14  「urgent care panic」→ 内容词 3/3 命中（care/panic/urgent）——疑漏词或改写
+  🟠 ch05 chapter 5.md:14  「TV obsessed」→ 内容词 1/1 命中（obsessed）——疑漏词或改写
+  🟠 ch05 chapter 5.md:14  「following Alba」→ 内容词 2/2 命中（alba/following）——疑漏词或改写
+  🟠 ch05 chapter 5.md:14  「absent-present phone refuge」→ 内容词 2/3 命中（phone/refuge）——疑漏词或改写
+  🟠 ch05 chapter 5.md:14  「naming Alba’s never-alone pattern」→ 内容词 1/4 命中（pattern）——疑漏词或改写
+  🟠 ch05 chapter 5.md:42  「their inability to inhabit joy」→ 内容词 1/3 命中（joy）——疑漏词或改写
+  🟠 ch05 chapter 5.md:54  「urgent care trip with」→ 内容词 3/3 命中（care/trip/urgent）——疑漏词或改写
+  🟠 ch05 chapter 5.md:54  「Alba’s inability to be alone even in crisis」→ 内容词 3/5 命中（alone/crisis/even）——疑漏词或改写
+  🟠 ch05 chapter 5.md:66  「Diana had never told anyone it weighed on her」→ 内容词 5/5 命中（anyone/diana/never/told）——疑漏词或改写
+  🟠 ch05 chapter 5.md:66  「she couldn’t imagine how she would go about it」→ 内容词 1/2 命中（imagine）——疑漏词或改写
+  🟠 ch05 chapter 5.md:66  「Diana’s family shows his blind spot」→ 内容词 3/5 命中（blind/family/spot）——疑漏词或改写
+  🟠 ch05 chapter 5.md:66  「documentary lens fails on intimate subjects」→ 内容词 1/5 命中（intimate）——疑漏词或改写
+  🟠 ch05 chapter 5.md:78  「Diana’s powerlessness in family system」→ 内容词 2/4 命中（family/system）——疑漏词或改写
+  🟠 ch05 chapter 5.md:90  「Diana’s incomplete image of father」→ 内容词 3/4 命中（father/image/incomplete）——疑漏词或改写
+  🟠 ch05 chapter 5.md:90  「never helped with chores」→ 内容词 3/3 命中（chores/helped/never）——疑漏词或改写
+  🟠 ch05 chapter 5.md:90  「both are forms of absence」→ 内容词 1/2 命中（absence）——疑漏词或改写
+  🟠 ch05 chapter 5.md:102  「consumer culture as childhood joy」→ 内容词 2/4 命中（childhood/joy）——疑漏词或改写
+  🟠 ch05 chapter 5.md:102  「she can parse others but not her own father」→ 内容词 3/4 命中（but/father/others）——疑漏词或改写
+  🟠 ch05 chapter 5.md:141  「sharp and bright」→ 内容词 2/2 命中（bright/sharp）——疑漏词或改写
+  🟠 ch05 chapter 5.md:151  「Alba’s adolescence sleeping on living room floor」→ 内容词 5/6 命中（adolescence/floor/living/room）——疑漏词或改写
+  🟠 ch06 chapter 6.md:14  「terror of children’s safety」→ 内容词 2/3 命中（safety/terror）——疑漏词或改写
+  🟠 ch06 chapter 6.md:14  「rationalizing Alba」→ 内容词 2/2 命中（alba/rationalizing）——疑漏词或改写
+  🟠 ch06 chapter 6.md:14  「evil eye panic」→ 内容词 3/3 命中（evil/eye/panic）——疑漏词或改写
+  🟠 ch06 chapter 6.md:28  「avoid the park at all costs」→ 内容词 3/3 命中（avoid/costs/park）——疑漏词或改写
+  🟠 ch06 chapter 6.md:30  「Carlos shows her secrecy」→ 内容词 1/3 命中（carlos）——疑漏词或改写
+  🟠 ch06 chapter 6.md:30  「Diana’s anxiety baseline before family chaos」→ 内容词 4/6 命中（anxiety/before/chaos/family）——疑漏词或改写
+  🟠 ch06 chapter 6.md:42  「she zealously cheered on the first signs of independence」→ 内容词 6/6 命中（cheered/daughter/first/independence）——疑漏词或改写
+  🟠 ch06 chapter 6.md:42  「wants independence but fears distance」→ 内容词 5/5 命中（but/distance/fears/independence）——疑漏词或改写
+  🟠 ch06 chapter 6.md:66  「The important thing is the baby is OK」→ 内容词 3/3 命中（baby/important/thing）——疑漏词或改写
+  🟠 ch06 chapter 6.md:66  「Carlos’s   is the truth」→ 内容词 1/2 命中（truth）——疑漏词或改写
+  🟠 ch06 chapter 6.md:78  「 medium at Finestrelles」→ 内容词 2/2 命中（finestrelles/medium）——疑漏词或改写
+  🟠 ch06 chapter 6.md:78  「old women in black」→ 内容词 3/3 命中（black/old/women）——疑漏词或改写
+  🟠 ch06 chapter 6.md:121  「Diana’s promise to call」→ 内容词 2/3 命中（call/promise）——疑漏词或改写
+  🟠 ch07 chapter 7.md:10  「not Brisa's back」→ 内容词 1/2 命中（back）——疑漏词或改写
+  🟠 ch07 chapter 7.md:10  「standing at foot of bed facing window」→ 内容词 5/5 命中（bed/facing/foot/standing）——疑漏词或改写
+  🟠 ch07 chapter 7.md:10  「Brisa collapse then wake for water」→ 内容词 3/4 命中（brisa/wake/water）——疑漏词或改写
+  🟠 ch07 chapter 7.md:10  「Diana stays on mat beside her」→ 内容词 3/4 命中（beside/diana/mat）——疑漏词或改写
+  🟠 ch07 chapter 7.md:14  「checking on Brisa」→ 内容词 2/2 命中（brisa/checking）——疑漏词或改写
+  🟠 ch07 chapter 7.md:14  「staying all night on mat」→ 内容词 3/3 命中（mat/night/staying）——疑漏词或改写
+  🟠 ch07 chapter 7.md:14  「thirsty, asleep」→ 内容词 2/2 命中（asleep/thirsty）——疑漏词或改写
+  🟠 ch07 chapter 7.md:28  「standing at the foot of the bed, facing the window」→ 内容词 5/5 命中（bed/facing/foot/standing）——疑漏词或改写
+  🟠 ch07 chapter 7.md:28  「no curtains」→ 内容词 1/1 命中（curtains）——疑漏词或改写
+  🟠 ch07 chapter 7.md:40  「eyes open but fast asleep」→ 内容词 5/5 命中（asleep/but/eyes/fast）——疑漏词或改写
+  🟠 ch07 chapter 7.md:42  「eyes open but fast asleep」→ 内容词 5/5 命中（asleep/but/eyes/fast）——疑漏词或改写
+  🟠 ch07 chapter 7.md:52  「knees and tips of toes pointed toward ceiling」→ 内容词 6/6 命中（ceiling/knees/pointed/tips）——疑漏词或改写
+  🟠 ch07 chapter 7.md:91  「standing at foot of bed facing window」→ 内容词 5/5 命中（bed/facing/foot/standing）——疑漏词或改写
+  🟠 ch08 chapter 8.md:10  「stomach bleeding」→ 内容词 2/2 命中（bleeding/stomach）——疑漏词或改写
+  🟠 ch08 chapter 8.md:14  「anxious mother」→ 内容词 2/2 命中（anxious/mother）——疑漏词或改写
+  🟠 ch08 chapter 8.md:14  「serene despite wound」→ 内容词 3/3 命中（despite/serene/wound）——疑漏词或改写
+  🟠 ch08 chapter 8.md:14  「sobbing, near fainting」→ 内容词 3/3 命中（fainting/near/sobbing）——疑漏词或改写
+  🟠 ch08 chapter 8.md:16  「Diana’s calm is uncanny」→ 内容词 1/3 命中（calm）——疑漏词或改写
+  🟠 ch08 chapter 8.md:16  「Carlos’s reaction is reader surrogate」→ 内容词 1/4 命中（reaction）——疑漏词或改写
+  🟠 ch08 chapter 8.md:30  「first earring appeared earlier」→ 内容词 4/4 命中（appeared/earlier/earring/first）——疑漏词或改写
+  🟠 ch08 chapter 8.md:30  「mentioned as prior event」→ 内容词 3/3 命中（event/mentioned/prior）——疑漏词或改写
+  🟠 ch08 chapter 8.md:30  「laundry tub as location is domestic」→ 内容词 4/4 命中（domestic/laundry/location/tub）——疑漏词或改写
+  🟠 ch08 chapter 8.md:30  「Carlos’s   is sarcastic but unintentionally prophetic」→ 内容词 1/5 命中（but）——疑漏词或改写
+  🟠 ch08 chapter 8.md:42  「Brisa’s sensitivity to phone ringing」→ 内容词 2/4 命中（phone/ringing）——疑漏词或改写
+  🟠 ch08 chapter 8.md:42  「she reacts to mother’s anxiety」→ 内容词 1/3 命中（anxiety）——疑漏词或改写
+  🟠 ch08 chapter 8.md:42  「Diana ignoring calls shows her avoidance」→ 内容词 3/5 命中（calls/diana/ignoring）——疑漏词或改写
+  🟠 ch08 chapter 8.md:54  「Diana’s unease with calm」→ 内容词 2/3 命中（calm/unease）——疑漏词或改写
+  🟠 ch08 chapter 8.md:54  「she’s accustomed to stress」→ 内容词 2/3 命中（accustomed/stress）——疑漏词或改写
+  🟠 ch08 chapter 8.md:54  「Carlos dozing shows his exhaustion」→ 内容词 2/4 命中（carlos/exhaustion）——疑漏词或改写
+  🟠 ch08 chapter 8.md:54  「Diana’s shouting wakes him」→ 内容词 2/3 命中（shouting/wakes）——疑漏词或改写
+  🟠 ch08 chapter 8.md:54  「she’s in control of situation」→ 内容词 2/3 命中（control/situation）——疑漏词或改写
+  🟠 ch08 chapter 8.md:66  「stomach bleeding」→ 内容词 2/2 命中（bleeding/stomach）——疑漏词或改写
+  🟠 ch08 chapter 8.md:66  「Diana’s practical handling of situation」→ 内容词 2/4 命中（handling/situation）——疑漏词或改写
+  🟠 ch08 chapter 8.md:66  「vs actual wound location」→ 内容词 3/3 命中（actual/location/wound）——疑漏词或改写
+  🟠 ch08 chapter 8.md:72  「belt of pulp and blood」→ 内容词 3/3 命中（belt/blood/pulp）——疑漏词或改写
+  🟠 ch08 chapter 8.md:78  「not actively bleeding」→ 内容词 2/2 命中（actively/bleeding）——疑漏词或改写
+  🟠 ch09 chapter 9.md:14  「examining wound」→ 内容词 2/2 命中（examining/wound）——疑漏词或改写
+  🟠 ch09 chapter 9.md:14  「Alba missing」→ 内容词 2/2 命中（alba/missing）——疑漏词或改写
+  🟠 ch09 chapter 9.md:30  「she is in shock mode」→ 内容词 1/2 命中（shock）——疑漏词或改写
+  🟠 ch09 chapter 9.md:30  「this opening establishes the chapter's horror beat」→ 内容词 3/5 命中（beat/horror/opening）——疑漏词或改写
+  🟠 ch09 chapter 9.md:30  「bodily crisis interrupted by family crisis」→ 内容词 5/5 命中（bodily/crisis/crisis/family）——疑漏词或改写
+  🟠 ch09 chapter 9.md:42  「Carmen is the caller」→ 内容词 1/2 命中（carmen）——疑漏词或改写
+  🟠 ch09 chapter 9.md:42  「Diana is dissociating between wound and family crisis」→ 内容词 5/6 命中（between/crisis/diana/family）——疑漏词或改写
+  🟠 ch09 chapter 9.md:50  「is the ominous word」→ 内容词 1/2 命中（word）——疑漏词或改写
+  🟠 ch09 chapter 9.md:54  「gone to store」→ 内容词 2/2 命中（gone/store）——疑漏词或改写
+  🟠 ch09 chapter 9.md:54  「Alba's disappearance suggest supernatural causation」→ 内容词 2/5 命中（disappearance/supernatural）——疑漏词或改写
+  🟠 ch09 chapter 9.md:54  「Carlos's care persists despite crisis」→ 内容词 3/5 命中（care/crisis/despite）——疑漏词或改写
+  🟠 ch10 chapter 10.md:12  「don't be scared」→ 内容词 1/2 命中（scared）——疑漏词或改写
+  🟠 ch10 chapter 10.md:14  「examining wound」→ 内容词 2/2 命中（examining/wound）——疑漏词或改写
+  🟠 ch10 chapter 10.md:14  「ghost story teller」→ 内容词 2/3 命中（ghost/story）——疑漏词或改写
+  🟠 ch10 chapter 10.md:14  「Candy Crush relaxed」→ 内容词 3/3 命中（candy/crush/relaxed）——疑漏词或改写
+  🟠 ch10 chapter 10.md:14  「wounded but calm」→ 内容词 2/3 命中（but/calm）——疑漏词或改写
+  🟠 ch10 chapter 10.md:14  「raising voice at mother-in-law」→ 内容词 2/3 命中（raising/voice）——疑漏词或改写
+  🟠 ch10 chapter 10.md:14  「Alba absent then found」→ 内容词 3/3 命中（absent/alba/found）——疑漏词或改写
+  🟠 ch10 chapter 10.md:16  「long chapter with multiple embedded narratives」→ 内容词 1/5 命中（long）——疑漏词或改写
+  🟠 ch10 chapter 10.md:30  「grass extraordinarily green, almost phosphorescent」→ 内容词 5/5 命中（almost/extraordinarily/grass/green）——疑漏词或改写
+  🟠 ch10 chapter 10.md:30  「fountain changing shape like a small tornado」→ 内容词 6/6 命中（changing/fountain/like/shape）——疑漏词或改写
+  🟠 ch10 chapter 10.md:30  「her wound persists but she focuses on vision」→ 内容词 3/5 命中（but/vision/wound）——疑漏词或改写
+  🟠 ch10 chapter 10.md:42  「blood-streaked car」→ 内容词 1/2 命中（car）——疑漏词或改写
+  🟠 ch10 chapter 10.md:42  「handprint, fingers spread wide」→ 内容词 4/4 命中（fingers/handprint/spread/wide）——疑漏词或改写
+  🟠 ch10 chapter 10.md:42  「sheet soaked with blood」→ 内容词 3/3 命中（blood/sheet/soaked）——疑漏词或改写
+  🟠 ch10 chapter 10.md:54  「She had never met up with just Alba because Alba didn’t 」→ 内容词 7/8 命中（alba/alba/alone/anywhere）——疑漏词或改写
+  🟠 ch10 chapter 10.md:54  「Alba's autophobia's social cost」→ 内容词 1/4 命中（cost）——疑漏词或改写
+  🟠 ch10 chapter 10.md:54  「Diana's inability to imagine」→ 内容词 1/3 命中（imagine）——疑漏词或改写
+  🟠 ch10 chapter 10.md:66  「Alba was happy at the campground. She wasn't afraid」→ 内容词 4/5 命中（afraid/alba/campground/happy）——疑漏词或改写
+  🟠 ch10 chapter 10.md:66  「Alba's origin of happiness」→ 内容词 1/3 命中（happiness）——疑漏词或改写
+  🟠 ch10 chapter 10.md:66  「and possibly supernatural origin」→ 内容词 2/3 命中（possibly/supernatural）——疑漏词或改写
+  🟠 ch10 chapter 10.md:90  「connects to the later ritual scene」→ 内容词 3/4 命中（later/ritual/scene）——疑漏词或改写
+  🟠 ch10 chapter 10.md:90  「this block establishes the flashback frame」→ 内容词 2/4 命中（block/frame）——疑漏词或改写
+  🟠 ch10 chapter 10.md:90  「Carlos about her childhood」→ 内容词 2/2 命中（carlos/childhood）——疑漏词或改写
+  🟠 ch10 chapter 10.md:102  「Diana was a child witness to the ritual」→ 内容词 4/4 命中（child/diana/ritual/witness）——疑漏词或改写
+  🟠 ch10 chapter 10.md:102  「she was close enough to see」→ 内容词 3/3 命中（close/enough/see）——疑漏词或改写
+  🟠 ch10 chapter 10.md:102  「this beat establishes the voyeuristic frame」→ 内容词 2/4 命中（beat/frame）——疑漏词或改写
+  🟠 ch10 chapter 10.md:102  「Diana watching from hiding」→ 内容词 3/3 命中（diana/hiding/watching）——疑漏词或改写
+  🟠 ch10 chapter 10.md:114  「the bingo woman's incongruous costume」→ 内容词 2/4 命中（bingo/costume）——疑漏词或改写
+  🟠 ch10 chapter 10.md:114  「communion dress for a ritual」→ 内容词 2/3 命中（dress/ritual）——疑漏词或改写
+  🟠 ch10 chapter 10.md:114  「Diana is narrating to dozing」→ 内容词 1/3 命中（diana）——疑漏词或改写
+  🟠 ch10 chapter 10.md:126  「pink lights in sky」→ 内容词 3/3 命中（lights/pink/sky）——疑漏词或改写
+  🟠 ch10 chapter 10.md:126  「this block is the climax of」→ 内容词 1/2 命中（block）——疑漏词或改写
+  🟠 ch10 chapter 10.md:126  「pink lights seen by children」→ 内容词 4/4 命中（children/lights/pink/seen）——疑漏词或改写
+  🟠 ch10 chapter 10.md:164  「and supernatural origin site」→ 内容词 1/3 命中（supernatural）——疑漏词或改写
+  🟠 ch11 chapter 11.md:10  「girl in red swimsuit with hoop earrings」→ 内容词 5/5 命中（earrings/girl/hoop/red）——疑漏词或改写
+  🟠 ch11 chapter 11.md:10  「Alba's autophobia origin revealed」→ 内容词 2/4 命中（autophobia/revealed）——疑漏词或改写
+  🟠 ch11 chapter 11.md:12  「she forgot the girl」→ 内容词 2/2 命中（forgot/girl）——疑漏词或改写
+  🟠 ch11 chapter 11.md:12  「chapter ends with tentacles attacking girl then retreati」→ 内容词 3/6 命中（ends/girl/tentacles）——疑漏词或改写
+  🟠 ch11 chapter 11.md:14  「amnesiac, calm」→ 内容词 1/2 命中（calm）——疑漏词或改写
+  🟠 ch11 chapter 11.md:14  「wound discovery」→ 内容词 2/2 命中（discovery/wound）——疑漏词或改写
+  🟠 ch11 chapter 11.md:14  「girl confrontation」→ 内容词 1/2 命中（girl）——疑漏词或改写
+  🟠 ch11 chapter 11.md:14  「earring piercing」→ 内容词 2/2 命中（earring/piercing）——疑漏词或改写
+  🟠 ch11 chapter 11.md:14  「hypnotized by tentacles」→ 内容词 2/2 命中（hypnotized/tentacles）——疑漏词或改写
+  🟠 ch11 chapter 11.md:28  「vision still quite blurry」→ 内容词 4/4 命中（blurry/quite/still/vision）——疑漏词或改写
+  🟠 ch11 chapter 11.md:28  「base too dirty」→ 内容词 2/2 命中（base/dirty）——疑漏词或改写
+  🟠 ch11 chapter 11.md:30  「ceiling too high」→ 内容词 2/2 命中（ceiling/high）——疑漏词或改写
+  🟠 ch11 chapter 11.md:42  「lights shut off, she clapped」→ 内容词 4/4 命中（clapped/lights/off/shut）——疑漏词或改写
+  🟠 ch11 chapter 11.md:42  「warm, shiny」→ 内容词 2/2 命中（shiny/warm）——疑漏词或改写
+  🟠 ch11 chapter 11.md:64  「she genuinely thought she would actually disappear」→ 内容词 4/4 命中（actually/disappear/genuinely/thought）——疑漏词或改写
+  🟠 ch11 chapter 11.md:64  「longed for Diana to pinch her」→ 内容词 3/3 命中（diana/longed/pinch）——疑漏词或改写
+  🟠 ch11 chapter 11.md:76  「raw eyelids」→ 内容词 2/2 命中（eyelids/raw）——疑漏词或改写
+  🟠 ch11 chapter 11.md:78  「crime scene outline」→ 内容词 3/3 命中（crime/outline/scene）——疑漏词或改写
+  🟠 ch11 chapter 11.md:78  「raw eyelids」→ 内容词 2/2 命中（eyelids/raw）——疑漏词或改写
+  🟠 ch11 chapter 11.md:88  「something eating away at her but left unfinished」→ 内容词 6/6 命中（away/but/eating/left）——疑漏词或改写
+  🟠 ch11 chapter 11.md:88  「first time in years she'd looked in mirror... without th」→ 内容词 10/11 命中（anything/but/first/herself）——疑漏词或改写
+  🟠 ch11 chapter 11.md:100  「earring piercing」→ 内容词 2/2 命中（earring/piercing）——疑漏词或改写
+  🟠 ch11 chapter 11.md:100  「raw eyelids」→ 内容词 2/2 命中（eyelids/raw）——疑漏词或改写
+  🟠 ch11 chapter 11.md:102  「earring piercing」→ 内容词 2/2 命中（earring/piercing）——疑漏词或改写
+  🟠 ch11 chapter 11.md:102  「raw eyelids」→ 内容词 2/2 命中（eyelids/raw）——疑漏词或改写
+  🟠 ch11 chapter 11.md:112  「tentacles rose toward ceiling」→ 内容词 4/4 命中（ceiling/rose/tentacles/toward）——疑漏词或改写
+  🟠 ch11 chapter 11.md:112  「ribbons of blood」→ 内容词 2/2 命中（blood/ribbons）——疑漏词或改写
+  🟠 ch11 chapter 11.md:150  「lollipop anklet」→ 内容词 1/2 命中（anklet）——疑漏词或改写
+  🟠 ch11 chapter 11.md:156  「girl in red swimsuit with hoop earrings」→ 内容词 5/5 命中（earrings/girl/hoop/red）——疑漏词或改写
+  🟠 ch11 chapter 11.md:156  「Alba's autophobia origin revealed」→ 内容词 2/4 命中（autophobia/revealed）——疑漏词或改写
+  🟠 ch11 chapter 11.md:156  「Chapter ends with girl piercing」→ 内容词 3/4 命中（ends/girl/piercing）——疑漏词或改写
+  🟠 ch11 chapter 11.md:156  「Alba's ear and tentacles attacking then retreating」→ 内容词 2/5 命中（ear/tentacles）——疑漏词或改写
+  🟠 ch12 chapter 12.md:10  「camp swallowed by airport expansion」→ 内容词 4/4 命中（airport/camp/expansion/swallowed）——疑漏词或改写
+  🟠 ch12 chapter 12.md:10  「ghosts of happy campers」→ 内容词 3/3 命中（campers/ghosts/happy）——疑漏词或改写
+  🟠 ch12 chapter 12.md:10  「tentacles emerge and   girl」→ 内容词 3/3 命中（emerge/girl/tentacles）——疑漏词或改写
+  🟠 ch12 chapter 12.md:10  「Alba unknowingly devouring the girl as she sleeps」→ 内容词 3/5 命中（alba/girl/unknowingly）——疑漏词或改写
+  🟠 ch12 chapter 12.md:14  「memory recovery」→ 内容词 1/2 命中（memory）——疑漏词或改写
+  🟠 ch12 chapter 12.md:14  「chasing girl」→ 内容词 2/2 命中（chasing/girl）——疑漏词或改写
+  🟠 ch12 chapter 12.md:14  「camp backstory」→ 内容词 1/2 命中（camp）——疑漏词或改写
+  🟠 ch12 chapter 12.md:14  「being devoured」→ 内容词 1/1 命中（devoured）——疑漏词或改写
+  🟠 ch12 chapter 12.md:16  「long chapter with embedded backstory」→ 内容词 1/4 命中（long）——疑漏词或改写
+  🟠 ch12 chapter 12.md:39  「chorus doesn't count」→ 内容词 2/3 命中（chorus/count）——疑漏词或改写
+  🟠 ch12 chapter 12.md:61  「ghosts stuck around」→ 内容词 3/3 命中（around/ghosts/stuck）——疑漏词或改写
+  🟠 ch12 chapter 12.md:61  「bingo Fridays」→ 内容词 2/2 命中（bingo/fridays）——疑漏词或改写
+  🟠 ch12 chapter 12.md:61  「hair bleached by sun」→ 内容词 3/3 命中（bleached/hair/sun）——疑漏词或改写
+  🟠 ch12 chapter 12.md:62  「ghosts feeding on memories」→ 内容词 3/3 命中（feeding/ghosts/memories）——疑漏词或改写
+  🟠 ch12 chapter 12.md:62  「even when cold, even in January」→ 内容词 4/4 命中（cold/even/even/january）——疑漏词或改写
+  🟠 ch12 chapter 12.md:62  「bingo Fridays」→ 内容词 2/2 命中（bingo/fridays）——疑漏词或改写
+  🟠 ch12 chapter 12.md:72  「ghosts vanished when originals lost memories」→ 内容词 5/5 命中（ghosts/lost/memories/originals）——疑漏词或改写
+  🟠 ch12 chapter 12.md:72  「wander that no-man's-land for twenty years」→ 内容词 3/4 命中（twenty/wander/years）——疑漏词或改写
+  🟠 ch12 chapter 12.md:73  「forgetting = death」→ 内容词 2/2 命中（death/forgetting）——疑漏词或改写
+  🟠 ch12 chapter 12.md:94  「balancing on railing」→ 内容词 2/2 命中（balancing/railing）——疑漏词或改写
+  🟠 ch12 chapter 12.md:137  「camp swallowed by airport expansion」→ 内容词 4/4 命中（airport/camp/expansion/swallowed）——疑漏词或改写
+  🟠 ch12 chapter 12.md:137  「ghosts of happy campers feeding on memory」→ 内容词 5/5 命中（campers/feeding/ghosts/happy）——疑漏词或改写
+  🟠 ch12 chapter 12.md:137  「tentacles emerge and   girl」→ 内容词 3/3 命中（emerge/girl/tentacles）——疑漏词或改写
+  🟠 ch12 chapter 12.md:137  「absorbing her younger self」→ 内容词 2/3 命中（self/younger）——疑漏词或改写
+  🟠 ch12 chapter 12.md:137  「Novel's core supernatural revelation」→ 内容词 2/4 命中（revelation/supernatural）——疑漏词或改写
+  🟠 ch13 chapter 13.md:10  「Alba on second floor of」→ 内容词 3/3 命中（alba/floor/second）——疑漏词或改写
+  🟠 ch13 chapter 13.md:10  「woman gives birth repeatedly」→ 内容词 3/4 命中（birth/gives/woman）——疑漏词或改写
+  🟠 ch13 chapter 13.md:10  「Alba recognizes herself in woman」→ 内容词 3/4 命中（alba/herself/woman）——疑漏词或改写
+  🟠 ch13 chapter 13.md:10  「woman splits in half and vanishes」→ 内容词 2/4 命中（half/woman）——疑漏词或改写
+  🟠 ch13 chapter 13.md:12  「Alba's realization she wants autonomy」→ 内容词 1/4 命中（wants）——疑漏词或改写
+  🟠 ch13 chapter 13.md:12  「Alba hearing scream and seeing silhouettes」→ 内容词 5/5 命中（alba/hearing/scream/seeing）——疑漏词或改写
+  🟠 ch13 chapter 13.md:14  「splitting in half」→ 内容词 2/2 命中（half/splitting）——疑漏词或改写
+  🟠 ch13 chapter 13.md:14  「children from   to   to」→ 内容词 1/1 命中（children）——疑漏词或改写
+  🟠 ch13 chapter 13.md:40  「swept up the shoe and Switch controllers」→ 内容词 4/4 命中（controllers/shoe/swept/switch）——疑漏词或改写
+  🟠 ch13 chapter 13.md:52  「scaly skin around eyes」→ 内容词 4/4 命中（around/eyes/scaly/skin）——疑漏词或改写
+  🟠 ch13 chapter 13.md:52  「Guinness World Records babies」→ 内容词 4/4 命中（babies/guinness/records/world）——疑漏词或改写
+  🟠 ch13 chapter 13.md:52  「walk like adult」→ 内容词 3/3 命中（adult/like/walk）——疑漏词或改写
+  🟠 ch13 chapter 13.md:52  「sleep mask melted into face」→ 内容词 4/4 命中（face/mask/melted/sleep）——疑漏词或改写
+  🟠 ch13 chapter 13.md:54  「children holding cord」→ 内容词 3/3 命中（children/cord/holding）——疑漏词或改写
+  🟠 ch13 chapter 13.md:54  「Guinness babies」→ 内容词 2/2 命中（babies/guinness）——疑漏词或改写
+  🟠 ch13 chapter 13.md:64  「children's eyes like needles」→ 内容词 3/4 命中（eyes/like/needles）——疑漏词或改写
+  🟠 ch13 chapter 13.md:64  「red pinpricks」→ 内容词 1/2 命中（red）——疑漏词或改写
+  🟠 ch13 chapter 13.md:66  「red pinpricks」→ 内容词 1/2 命中（red）——疑漏词或改写
+  🟠 ch13 chapter 13.md:66  「longed for Diana to pinch her」→ 内容词 3/3 命中（diana/longed/pinch）——疑漏词或改写
+  🟠 ch13 chapter 13.md:88  「mermaid scales」→ 内容词 2/2 命中（mermaid/scales）——疑漏词或改写
+  🟠 ch13 chapter 13.md:96  「woman strung to lights」→ 内容词 3/3 命中（lights/strung/woman）——疑漏词或改写
+  🟠 ch13 chapter 13.md:100  「woman strung to Christmas lights by intestines」→ 内容词 5/5 命中（christmas/intestines/lights/strung）——疑漏词或改写
+  🟠 ch13 chapter 13.md:102  「woman strung to lights」→ 内容词 3/3 命中（lights/strung/woman）——疑漏词或改写
+  🟠 ch13 chapter 13.md:112  「tentacles coiled back gently」→ 内容词 4/4 命中（back/coiled/gently/tentacles）——疑漏词或改写
+  🟠 ch13 chapter 13.md:112  「scream suspended in time」→ 内容词 3/3 命中（scream/suspended/time）——疑漏词或改写
+  🟠 ch13 chapter 13.md:114  「tentacles coiled gently」→ 内容词 3/3 命中（coiled/gently/tentacles）——疑漏词或改写
+  🟠 ch13 chapter 13.md:114  「scream + silhouettes」→ 内容词 2/2 命中（scream/silhouettes）——疑漏词或改写
+  🟠 ch13 chapter 13.md:134  「mermaid tail」→ 内容词 2/2 命中（mermaid/tail）——疑漏词或改写
+  🟠 ch13 chapter 13.md:139  「electronics chain」→ 内容词 1/2 命中（chain）——疑漏词或改写
+  🟠 ch13 chapter 13.md:154  「Alba on second floor sees doppelg」→ 内容词 3/5 命中（alba/floor/second）——疑漏词或改写
+  🟠 ch13 chapter 13.md:154  「woman gives birth repeatedly」→ 内容词 3/4 命中（birth/gives/woman）——疑漏词或改写
+  🟠 ch13 chapter 13.md:154  「Alba recognizes herself in woman」→ 内容词 3/4 命中（alba/herself/woman）——疑漏词或改写
+  🟠 ch13 chapter 13.md:154  「Alba chooses autonomy over mother-identity」→ 内容词 1/4 命中（alba）——疑漏词或改写
+  🟠 ch13 chapter 13.md:154  「Chapter ends with new encounter setup」→ 内容词 2/5 命中（ends/new）——疑漏词或改写
+  🟠 ch14 chapter 14.md:10  「all three women identical」→ 内容词 3/3 命中（identical/three/women）——疑漏词或改写
+  🟠 ch14 chapter 14.md:10  「children saw pink lights in sky」→ 内容词 5/5 命中（children/lights/pink/saw）——疑漏词或改写
+  🟠 ch14 chapter 14.md:10  「Chapter ends with relief」→ 内容词 2/3 命中（ends/relief）——疑漏词或改写
+  🟠 ch14 chapter 14.md:12  「chapter ends with relief」→ 内容词 2/3 命中（ends/relief）——疑漏词或改写
+  🟠 ch14 chapter 14.md:14  「excited for Santa」→ 内容词 2/2 命中（excited/santa）——疑漏词或改写
+  🟠 ch14 chapter 14.md:28  「Carlos kissed her cheek」→ 内容词 3/3 命中（carlos/cheek/kissed）——疑漏词或改写
+  🟠 ch14 chapter 14.md:28  「rushed to car」→ 内容词 2/2 命中（car/rushed）——疑漏词或改写
+  🟠 ch14 chapter 14.md:30  「Juan holding Alba by shoulders」→ 内容词 4/4 命中（alba/holding/juan/shoulders）——疑漏词或改写
+  🟠 ch14 chapter 14.md:40  「controllers got dirty」→ 内容词 3/3 命中（controllers/dirty/got）——疑漏词或改写
+  🟠 ch14 chapter 14.md:42  「swept under rug」→ 内容词 2/2 命中（rug/swept）——疑漏词或改写
+  🟠 ch14 chapter 14.md:54  「calm made no sense」→ 内容词 3/3 命中（calm/made/sense）——疑漏词或改写
+  🟠 ch14 chapter 14.md:64  「silvery scars... traced over with glitter」→ 内容词 4/4 命中（glitter/scars/silvery/traced）——疑漏词或改写
+  🟠 ch14 chapter 14.md:64  「three identical scars」→ 内容词 3/3 命中（identical/scars/three）——疑漏词或改写
+  🟠 ch14 chapter 14.md:64  「Carmen's eyes already closed」→ 内容词 3/4 命中（already/closed/eyes）——疑漏词或改写
+  🟠 ch14 chapter 14.md:76  「shredded ears」→ 内容词 2/2 命中（ears/shredded）——疑漏词或改写
+  🟠 ch14 chapter 14.md:76  「YouTubers eating red foods」→ 内容词 4/4 命中（eating/foods/red/youtubers）——疑漏词或改写
+  🟠 ch14 chapter 14.md:76  「cigarette at nine」→ 内容词 2/2 命中（cigarette/nine）——疑漏词或改写
+  🟠 ch14 chapter 14.md:78  「shredded ears」→ 内容词 2/2 命中（ears/shredded）——疑漏词或改写
+  🟠 ch14 chapter 14.md:88  「pink lights in sky」→ 内容词 3/3 命中（lights/pink/sky）——疑漏词或改写
+  🟠 ch14 chapter 14.md:88  「placed two pizzas where they were sitting, without a wor」→ 内容词 6/6 命中（pizzas/placed/sitting/two）——疑漏词或改写
+  🟠 ch14 chapter 14.md:121  「all three women identical」→ 内容词 3/3 命中（identical/three/women）——疑漏词或改写
+  🟠 ch14 chapter 14.md:121  「children saw pink lights in sky」→ 内容词 5/5 命中（children/lights/pink/saw）——疑漏词或改写
+  🟠 ch14 chapter 14.md:121  「Chapter ends with relief」→ 内容词 2/3 命中（ends/relief）——疑漏词或改写
+  🟠 ch15 chapter 15.md:10  「Carmen eat pizza outside」→ 内容词 4/4 命中（carmen/eat/outside/pizza）——疑漏词或改写
+  🟠 ch15 chapter 15.md:10  「Carmen confesses she had octopus in stomach at camp」→ 内容词 4/5 命中（camp/carmen/octopus/stomach）——疑漏词或改写
+  🟠 ch15 chapter 15.md:10  「the summer she fainted」→ 内容词 2/2 命中（fainted/summer）——疑漏词或改写
+  🟠 ch15 chapter 15.md:10  「Alba stays silent about」→ 内容词 2/3 命中（alba/silent）——疑漏词或改写
+  🟠 ch15 chapter 15.md:12  「family's first honest conversation about supernatural」→ 内容词 4/5 命中（conversation/first/honest/supernatural）——疑漏词或改写
+  🟠 ch15 chapter 15.md:12  「she had octopus too」→ 内容词 1/1 命中（octopus）——疑漏词或改写
+  🟠 ch15 chapter 15.md:12  「she doesn't tell full story」→ 内容词 3/4 命中（full/story/tell）——疑漏词或改写
+  🟠 ch15 chapter 15.md:14  「clumsy support」→ 内容词 2/2 命中（clumsy/support）——疑漏词或改写
+  🟠 ch15 chapter 15.md:14  「confessing octopus」→ 内容词 1/2 命中（octopus）——疑漏词或改写
+  🟠 ch15 chapter 15.md:28  「silhouetted against crude backdrop」→ 内容词 4/4 命中（against/backdrop/crude/silhouetted）——疑漏词或改写
+  🟠 ch15 chapter 15.md:30  「silhouetted against crude backdrop」→ 内容词 4/4 命中（against/backdrop/crude/silhouetted）——疑漏词或改写
+  🟠 ch15 chapter 15.md:40  「Alba shocked」→ 内容词 2/2 命中（alba/shocked）——疑漏词或改写
+  🟠 ch15 chapter 15.md:42  「Alba shocked」→ 内容词 2/2 命中（alba/shocked）——疑漏词或改写
+  🟠 ch15 chapter 15.md:64  「first summer at campsite」→ 内容词 3/3 命中（campsite/first/summer）——疑漏词或改写
+  🟠 ch15 chapter 15.md:66  「I had an octopus too」→ 内容词 1/1 命中（octopus）——疑漏词或改写
+  🟠 ch15 chapter 15.md:66  「first summer at campsite」→ 内容词 3/3 命中（campsite/first/summer）——疑漏词或改写
+  🟠 ch15 chapter 15.md:76  「Diana in Splau that night」→ 内容词 3/3 命中（diana/night/splau）——疑漏词或改写
+  🟠 ch15 chapter 15.md:78  「Diana in Splau that night」→ 内容词 3/3 命中（diana/night/splau）——疑漏词或改写
+  🟠 ch15 chapter 15.md:108  「Carmen eat pizza outside」→ 内容词 4/4 命中（carmen/eat/outside/pizza）——疑漏词或改写
+  🟠 ch15 chapter 15.md:108  「Carmen confesses she had octopus in stomach at camp」→ 内容词 4/5 命中（camp/carmen/octopus/stomach）——疑漏词或改写
+  🟠 ch15 chapter 15.md:108  「the summer she fainted」→ 内容词 2/2 命中（fainted/summer）——疑漏词或改写
+  🟠 ch15 chapter 15.md:108  「Alba stays silent about full」→ 内容词 3/4 命中（alba/full/silent）——疑漏词或改写
+  🟠 ch15 chapter 15.md:108  「Carmen's hidden supernatural experience」→ 内容词 2/4 命中（hidden/supernatural）——疑漏词或改写
+  🟠 ch15 chapter 15.md:108  「Diana's supernatural connection to」→ 内容词 2/3 命中（connection/supernatural）——疑漏词或改写
+  🟠 ch16 chapter 16.md:10  「sees women like her」→ 内容词 2/3 命中（like/women）——疑漏词或改写
+  🟠 ch16 chapter 16.md:10  「Alba walks through them toward exit」→ 内容词 5/6 命中（alba/exit/them/through）——疑漏词或改写
+  🟠 ch16 chapter 16.md:12  「Alba encounters women like her」→ 内容词 3/4 命中（alba/like/women）——疑漏词或改写
+  🟠 ch16 chapter 16.md:12  「tentacles as light show」→ 内容词 3/3 命中（light/show/tentacles）——疑漏词或改写
+  🟠 ch16 chapter 16.md:12  「women try to trap her」→ 内容词 2/3 命中（try/women）——疑漏词或改写
+  🟠 ch16 chapter 16.md:37  「raw skin around eyes」→ 内容词 4/4 命中（around/eyes/raw/skin）——疑漏词或改写
+  🟠 ch16 chapter 16.md:41  「raw skin around eyes」→ 内容词 4/4 命中（around/eyes/raw/skin）——疑漏词或改写
+  🟠 ch16 chapter 16.md:44  「gloomy Diana」→ 内容词 2/2 命中（diana/gloomy）——疑漏词或改写
+  🟠 ch16 chapter 16.md:44  「raw skin around eyes」→ 内容词 4/4 命中（around/eyes/raw/skin）——疑漏词或改写
+  🟠 ch16 chapter 16.md:54  「mouth of wolf」→ 内容词 2/2 命中（mouth/wolf）——疑漏词或改写
+  🟠 ch16 chapter 16.md:54  「flayed skin around eyes」→ 内容词 4/4 命中（around/eyes/flayed/skin）——疑漏词或改写
+  🟠 ch16 chapter 16.md:54  「applause in synchrony」→ 内容词 2/2 命中（applause/synchrony）——疑漏词或改写
+  🟠 ch16 chapter 16.md:57  「mouth of wolf」→ 内容词 2/2 命中（mouth/wolf）——疑漏词或改写
+  🟠 ch16 chapter 16.md:57  「flayed skin」→ 内容词 2/2 命中（flayed/skin）——疑漏词或改写
+  🟠 ch16 chapter 16.md:57  「applause in synchrony」→ 内容词 2/2 命中（applause/synchrony）——疑漏词或改写
+  🟠 ch16 chapter 16.md:67  「no one had even suggested Juan should go」→ 内容词 4/4 命中（even/juan/one/suggested）——疑漏词或改写
+  🟠 ch16 chapter 16.md:70  「no one suggested Juan should go」→ 内容词 3/3 命中（juan/one/suggested）——疑漏词或改写
+  🟠 ch16 chapter 16.md:93  「women as mirrors」→ 内容词 2/2 命中（mirrors/women）——疑漏词或改写
+  🟠 ch16 chapter 16.md:93  「tentacles as garlands」→ 内容词 2/2 命中（garlands/tentacles）——疑漏词或改写
+  🟠 ch16 chapter 16.md:96  「women as mirrors」→ 内容词 2/2 命中（mirrors/women）——疑漏词或改写
+  🟠 ch16 chapter 16.md:96  「tentacles as garlands」→ 内容词 2/2 命中（garlands/tentacles）——疑漏词或改写
+  🟠 ch16 chapter 16.md:129  「sees women like her」→ 内容词 2/3 命中（like/women）——疑漏词或改写
+  🟠 ch16 chapter 16.md:129  「tentacles emerge as light show」→ 内容词 4/4 命中（emerge/light/show/tentacles）——疑漏词或改写
+  🟠 ch16 chapter 16.md:129  「Alba walks through them」→ 内容词 3/4 命中（alba/them/through）——疑漏词或改写
+  🟠 ch16 chapter 16.md:129  「Alba encounters all mothers」→ 内容词 2/3 命中（alba/mothers）——疑漏词或改写
+  🟠 ch16 chapter 16.md:129  「and walks through them with tentacles as guardians」→ 内容词 3/5 命中（tentacles/them/through）——疑漏词或改写
+  🟠 ch16 chapter 16.md:129  「women scream because their tentacles were cut」→ 内容词 5/5 命中（because/cut/scream/tentacles）——疑漏词或改写
+  🟠 ch16 chapter 16.md:129  「Alba's tentacles are intact」→ 内容词 2/3 命中（intact/tentacles）——疑漏词或改写
+  🟠 ch16 chapter 16.md:129  「she hasn't suppressed them」→ 内容词 1/3 命中（them）——疑漏词或改写
+  🟠 ch17 chapter 17.md:10  「Family returns home from」→ 内容词 2/3 命中（family/home）——疑漏词或改写
+  🟠 ch17 chapter 17.md:10  「Switch controllers on patio」→ 内容词 3/3 命中（controllers/patio/switch）——疑漏词或改写
+  🟠 ch17 chapter 17.md:10  「Carmen reveals she had octopus at camp」→ 内容词 3/4 命中（camp/carmen/octopus）——疑漏词或改写
+  🟠 ch17 chapter 17.md:10  「family laughs and dances to」→ 内容词 2/3 命中（dances/family）——疑漏词或改写
+  🟠 ch17 chapter 17.md:10  「Carmen asking about air fryer」→ 内容词 4/4 命中（air/asking/carmen/fryer）——疑漏词或改写
+  🟠 ch17 chapter 17.md:12  「family reunion at home」→ 内容词 2/3 命中（family/home）——疑漏词或改写
+  🟠 ch17 chapter 17.md:12  「chapter ends with mundane question」→ 内容词 2/4 命中（ends/question）——疑漏词或改写
+  🟠 ch17 chapter 17.md:14  「revealing tentacles」→ 内容词 1/2 命中（tentacles）——疑漏词或改写
+  🟠 ch17 chapter 17.md:14  「part of mystery」→ 内容词 2/2 命中（mystery/part）——疑漏词或改写
+  🟠 ch17 chapter 17.md:28  「bloodstains impossible to get out」→ 内容词 4/4 命中（bloodstains/get/impossible/out）——疑漏词或改写
+  🟠 ch17 chapter 17.md:28  「Carmen's prewash」→ 内容词 1/2 命中（prewash）——疑漏词或改写
+  🟠 ch17 chapter 17.md:28  「Carlos pale and out of sorts」→ 内容词 4/4 命中（carlos/out/pale/sorts）——疑漏词或改写
+  🟠 ch17 chapter 17.md:30  「Carlos pale」→ 内容词 2/2 命中（carlos/pale）——疑漏词或改写
+  🟠 ch17 chapter 17.md:38  「‘Juan, before you sit down, would you mind changing out 」→ 内容词 8/8 命中（before/changing/clothes/down）——疑漏词或改写
+  🟠 ch17 chapter 17.md:40  「billboards for Finestrelles and Splau」→ 内容词 3/3 命中（billboards/finestrelles/splau）——疑漏词或改写
+  🟠 ch17 chapter 17.md:48  「Santa might pass by」→ 内容词 2/2 命中（pass/santa）——疑漏词或改写
+  🟠 ch17 chapter 17.md:52  「Santa might pass by」→ 内容词 2/2 命中（pass/santa）——疑漏词或改写
+  🟠 ch17 chapter 17.md:52  「Even Carlos hypnotized」→ 内容词 3/3 命中（carlos/even/hypnotized）——疑漏词或改写
+  🟠 ch17 chapter 17.md:54  「Santa might pass by」→ 内容词 2/2 命中（pass/santa）——疑漏词或改写
+  🟠 ch17 chapter 17.md:54  「Carlos hypnotized」→ 内容词 2/2 命中（carlos/hypnotized）——疑漏词或改写
+  🟠 ch17 chapter 17.md:60  「sisters mimicked each other」→ 内容词 2/2 命中（mimicked/sisters）——疑漏词或改写
+  🟠 ch17 chapter 17.md:64  「sisters mimicked each other」→ 内容词 2/2 命中（mimicked/sisters）——疑漏词或改写
+  🟠 ch17 chapter 17.md:64  「left hair loose so kids wouldn't see ears」→ 内容词 6/7 命中（ears/hair/kids/left）——疑漏词或改写
+  🟠 ch17 chapter 17.md:66  「sisters mimicked each other」→ 内容词 2/2 命中（mimicked/sisters）——疑漏词或改写
+  🟠 ch17 chapter 17.md:66  「Carlos noticed」→ 内容词 2/2 命中（carlos/noticed）——疑漏词或改写
+  🟠 ch17 chapter 17.md:72  「raised glasses in silence」→ 内容词 3/3 命中（glasses/raised/silence）——疑漏词或改写
+  🟠 ch17 chapter 17.md:76  「cork bounced off ceiling」→ 内容词 4/4 命中（bounced/ceiling/cork/off）——疑漏词或改写
+  🟠 ch17 chapter 17.md:76  「raised glasses in silence」→ 内容词 3/3 命中（glasses/raised/silence）——疑漏词或改写
+  🟠 ch17 chapter 17.md:78  「raised glasses in silence」→ 内容词 3/3 命中（glasses/raised/silence）——疑漏词或改写
+  🟠 ch17 chapter 17.md:78  「neither one met eyes」→ 内容词 4/4 命中（eyes/met/neither/one）——疑漏词或改写
+  🟠 ch17 chapter 17.md:88  「bingo lady and friends」→ 内容词 3/3 命中（bingo/friends/lady）——疑漏词或改写
+  🟠 ch17 chapter 17.md:100  「kids ecstatic」→ 内容词 2/2 命中（ecstatic/kids）——疑漏词或改写
+  🟠 ch17 chapter 17.md:100  「Diana in Splau that night」→ 内容词 3/3 命中（diana/night/splau）——疑漏词或改写
+  🟠 ch17 chapter 17.md:102  「kids ecstatic」→ 内容词 2/2 命中（ecstatic/kids）——疑漏词或改写
+  🟠 ch17 chapter 17.md:102  「Diana in Splau」→ 内容词 2/2 命中（diana/splau）——疑漏词或改写
+  🟠 ch17 chapter 17.md:136  「Family returns home from」→ 内容词 2/3 命中（family/home）——疑漏词或改写
+  🟠 ch17 chapter 17.md:136  「Switch controllers on patio」→ 内容词 3/3 命中（controllers/patio/switch）——疑漏词或改写
+  🟠 ch17 chapter 17.md:136  「Carmen reveals she had octopus at camp」→ 内容词 3/4 命中（camp/carmen/octopus）——疑漏词或改写
+  🟠 ch17 chapter 17.md:136  「family laughs and dances to」→ 内容词 2/3 命中（dances/family）——疑漏词或改写
+  🟠 ch17 chapter 17.md:136  「Carmen asking about air fryer」→ 内容词 4/4 命中（air/asking/carmen/fryer）——疑漏词或改写
+  🟠 ch17 chapter 17.md:136  「bingo lady helped her contain it」→ 内容词 4/4 命中（bingo/contain/helped/lady）——疑漏词或改写
+  🟠 ch17 chapter 17.md:136  「Alba's tentacles are intact」→ 内容词 2/3 命中（intact/tentacles）——疑漏词或改写
+  🟠 ch17 chapter 17.md:136  「she hasn't suppressed them」→ 内容词 1/3 命中（them）——疑漏词或改写
+  🟠 ch17 chapter 17.md:136  「supernatural as metaphor for suppressed identity」→ 内容词 1/4 命中（supernatural）——疑漏词或改写

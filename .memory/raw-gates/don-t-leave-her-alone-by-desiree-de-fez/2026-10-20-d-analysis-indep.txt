@@ -1,0 +1,428 @@
+抽出分析层英文片段 2430 条
+❌ 未命中 136 条：
+  ch04 chapter 4.md:14  pointing out Alba's control
+      未命中词: ['pointing']
+  ch04 chapter 4.md:102  body responds to proximity to family home
+      未命中词: ['responds', 'proximity']
+  ch04 chapter 4.md:151  Carlos naming Alba's control
+      未命中词: ['naming']
+  ch05 chapter 5.md:12  sharp documentary lens
+      未命中词: ['documentary']
+  ch05 chapter 5.md:14  participating in family celebration
+      未命中词: ['participating']
+  ch05 chapter 5.md:14  alone with Carlos, unpacking secrets
+      未命中词: ['unpacking']
+  ch05 chapter 5.md:14  absent-present phone refuge
+      未命中词: ['absentpresent']
+  ch05 chapter 5.md:14  naming Alba’s never-alone pattern
+      未命中词: ['naming']
+  ch05 chapter 5.md:42  their anxiety-driven planning
+      未命中词: ['anxietydriven']
+  ch05 chapter 5.md:42  their inability to inhabit joy
+      未命中词: ['inability']
+  ch05 chapter 5.md:54  belief shows Alba’s magical thinking
+      未命中词: ['magical']
+  ch05 chapter 5.md:54  people shows Alba’s inability to be alone even in crisis
+      未命中词: ['inability']
+  ch05 chapter 5.md:66  documentary lens fails on intimate subjects
+      未命中词: ['documentary', 'fails', 'subjects']
+  ch05 chapter 5.md:78  Diana’s early awareness
+      未命中词: ['awareness']
+  ch05 chapter 5.md:78  Diana’s powerlessness in family system
+      未命中词: ['powerlessness']
+  ch05 chapter 5.md:78  this backstory explains Alba’s adult autophobia
+      未命中词: ['backstory', 'explains']
+  ch05 chapter 5.md:102  consumer culture as childhood joy
+      未命中词: ['consumer', 'culture']
+  ch05 chapter 5.md:102  Diana’s sociological observation
+      未命中词: ['sociological', 'observation']
+  ch05 chapter 5.md:102  she can parse others but not her own father
+      未命中词: ['parse']
+  ch06 chapter 6.md:10  Diana rationalize Alba
+      未命中词: ['rationalize']
+  ch06 chapter 6.md:14  naming Diana’s enablement
+      未命中词: ['naming', 'enablement']
+  ch06 chapter 6.md:30  Diana’s OCD-like symptoms
+      未命中词: ['ocdlike', 'symptoms']
+  ch06 chapter 6.md:30  her worst-case scenario
+      未命中词: ['worstcase', 'scenario']
+  ch06 chapter 6.md:30  mentioned visions to Carlos shows her secrecy
+      未命中词: ['secrecy']
+  ch06 chapter 6.md:30  this chapter establishes Diana’s anxiety baseline before family chaos
+      未命中词: ['chapter', 'establishes', 'baseline']
+  ch06 chapter 6.md:42  Diana’s awareness of her own pathology
+      未命中词: ['awareness', 'pathology']
+  ch06 chapter 6.md:42  Diana’s differential treatment
+      未命中词: ['differential', 'treatment']
+  ch06 chapter 6.md:54  Brisa’s physical sensitivity
+      未命中词: ['sensitivity']
+  ch06 chapter 6.md:54  contrasts with sleepwalking
+      未命中词: ['contrasts']
+  ch06 chapter 6.md:54  shows their disagreement on Brisa’s condition
+      未命中词: ['disagreement']
+  ch06 chapter 6.md:66  Diana’s self-assessment vs Carlos’s assessment
+      未命中词: ['selfassessment', 'assessment']
+  ch06 chapter 6.md:66  is her rationalization
+      未命中词: ['rationalization']
+  ch06 chapter 6.md:121  her inability to refuse Alba’s demands
+      未命中词: ['inability']
+  ch07 chapter 7.md:10  Diana stays on mat beside her
+      未命中词: ['stays']
+  ch08 chapter 8.md:14  Brisa suspicious observer
+      未命中词: ['observer']
+  ch08 chapter 8.md:16  Carlos’s reaction is reader surrogate
+      未命中词: ['reader', 'surrogate']
+  ch08 chapter 8.md:30  unseen by reader, mentioned as prior event
+      未命中词: ['unseen', 'reader']
+  ch08 chapter 8.md:30  is sarcastic but unintentionally prophetic
+      未命中词: ['sarcastic', 'unintentionally', 'prophetic']
+  ch08 chapter 8.md:42  Brisa’s sensitivity to phone ringing
+      未命中词: ['sensitivity']
+  ch08 chapter 8.md:42  she reacts to mother’s anxiety
+      未命中词: ['reacts']
+  ch08 chapter 8.md:42  Diana ignoring calls shows her avoidance
+      未命中词: ['avoidance']
+  ch08 chapter 8.md:42  shows his practicality
+      未命中词: ['practicality']
+  ch08 chapter 8.md:54  Carlos dozing shows his exhaustion
+      未命中词: ['dozing']
+  ch08 chapter 8.md:66  shows Diana’s imprecise perception
+      未命中词: ['perception']
+  ch08 chapter 8.md:113  supernatural body modification
+      未命中词: ['modification']
+  ch09 chapter 9.md:30  this opening establishes the chapter's horror beat
+      未命中词: ['establishes', 'chapters']
+  ch09 chapter 9.md:42  Diana is dissociating between wound and family crisis
+      未命中词: ['dissociating']
+  ch09 chapter 9.md:50  Diana's final statement
+      未命中词: ['statement']
+  ch09 chapter 9.md:54  this is shortest chapter, pure cliffhanger
+      未命中词: ['shortest', 'chapter', 'cliffhanger']
+  ch09 chapter 9.md:54  Alba's disappearance suggest supernatural causation
+      未命中词: ['causation']
+  ch09 chapter 9.md:54  Carlos's care persists despite crisis
+      未命中词: ['persists']
+  ch10 chapter 10.md:10  Camp La Tortuga Ligera backstory
+      未命中词: ['backstory']
+  ch10 chapter 10.md:16  long chapter with multiple embedded narratives
+      未命中词: ['chapter', 'multiple', 'embedded', 'narratives']
+  ch10 chapter 10.md:16  camp backstory, ghost story
+      未命中词: ['backstory']
+  ch10 chapter 10.md:16  supernatural elements accumulate
+      未命中词: ['elements']
+  ch10 chapter 10.md:30  her wound persists but she focuses on vision
+      未命中词: ['persists', 'focuses']
+  ch10 chapter 10.md:54  Alba's autophobia's social cost
+      未命中词: ['autophobias']
+  ch10 chapter 10.md:54  Diana's inability to imagine Alba alone
+      未命中词: ['inability']
+  ch10 chapter 10.md:66  Diana's diagnosis of Alba's adult life
+      未命中词: ['diagnosis']
+  ch10 chapter 10.md:90  Diana's narrative is fragmented
+      未命中词: ['narrative', 'fragmented']
+  ch10 chapter 10.md:90  this block establishes the flashback frame
+      未命中词: ['establishes', 'flashback']
+  ch10 chapter 10.md:102  this beat establishes the voyeuristic frame
+      未命中词: ['establishes', 'voyeuristic']
+  ch10 chapter 10.md:114  the bingo woman's incongruous costume
+      未命中词: ['incongruous']
+  ch10 chapter 10.md:114  Diana's voyeuristic fear
+      未命中词: ['voyeuristic']
+  ch10 chapter 10.md:114  Diana is narrating to dozing Carmen
+      未命中词: ['narrating', 'dozing']
+  ch10 chapter 10.md:126  this block is the climax of Diana's flashback
+      未命中词: ['climax', 'flashback']
+  ch11 chapter 11.md:10  Alba's POV at Splau bathroom
+      未命中词: ['pov']
+  ch11 chapter 11.md:12  reveals wound mechanics
+      未命中词: ['reveals', 'mechanics']
+  ch11 chapter 11.md:12  reveals Alba's autophobia origin
+      未命中词: ['reveals']
+  ch11 chapter 11.md:12  chapter ends with tentacles attacking girl then retreating
+      未命中词: ['chapter', 'attacking', 'retreating']
+  ch11 chapter 11.md:16  long immersive chapter
+      未命中词: ['immersive', 'chapter']
+  ch11 chapter 11.md:16  song lyrics interspersed
+      未命中词: ['lyrics', 'interspersed']
+  ch11 chapter 11.md:156  Body horror centerpiece
+      未命中词: ['centerpiece']
+  ch11 chapter 11.md:156  Chapter ends with girl piercing Alba's ear and tentacles attacking then retreating
+      未命中词: ['chapter', 'attacking', 'retreating']
+  ch12 chapter 12.md:10  girl reveals Camp La Tortuga Ligera ghost backstory
+      未命中词: ['reveals', 'backstory']
+  ch12 chapter 12.md:10  Chapter ends with Alba unknowingly devouring the girl as she sleeps
+      未命中词: ['chapter', 'devouring']
+  ch12 chapter 12.md:12  reveals supernatural mythology
+      未命中词: ['reveals', 'mythology']
+  ch12 chapter 12.md:16  long chapter with embedded backstory
+      未命中词: ['chapter', 'embedded', 'backstory']
+  ch12 chapter 12.md:16  supernatural mythology expansion
+      未命中词: ['mythology']
+  ch12 chapter 12.md:137  girl reveals Camp La Tortuga Ligera ghost backstory
+      未命中词: ['reveals', 'backstory']
+  ch12 chapter 12.md:137  absorbing her younger self
+      未命中词: ['absorbing']
+  ch12 chapter 12.md:137  Novel's core supernatural revelation
+      未命中词: ['novels', 'core']
+  ch13 chapter 13.md:10  with blood-covered children
+      未命中词: ['bloodcovered']
+  ch13 chapter 13.md:10  woman gives birth repeatedly
+      未命中词: ['repeatedly']
+  ch13 chapter 13.md:10  Alba recognizes herself in woman
+      未命中词: ['recognizes']
+  ch13 chapter 13.md:10  woman splits in half and vanishes
+      未命中词: ['splits', 'vanishes']
+  ch13 chapter 13.md:10  Alba alone, picks up Switch controllers, hears scream, sees silhouettes
+      未命中词: ['picks']
+  ch13 chapter 13.md:12  supernatural mythology expands
+      未命中词: ['mythology', 'expands']
+  ch13 chapter 13.md:12  Alba's realization she wants autonomy
+      未命中词: ['realization', 'autonomy']
+  ch13 chapter 13.md:12  tentacles destroy doppelg
+      未命中词: ['doppelg']
+  ch13 chapter 13.md:12  chapter ends with Alba hearing scream and seeing silhouettes
+      未命中词: ['chapter']
+  ch13 chapter 13.md:16  children, birth, doppelg
+      未命中词: ['doppelg']
+  ch13 chapter 13.md:16  nger as Alba's suppressed mother-identity
+      未命中词: ['suppressed', 'motheridentity']
+  ch13 chapter 13.md:154  Alba on second floor sees doppelg
+      未命中词: ['doppelg']
+  ch13 chapter 13.md:154  with blood-covered children
+      未命中词: ['bloodcovered']
+  ch13 chapter 13.md:154  woman gives birth repeatedly
+      未命中词: ['repeatedly']
+  ch13 chapter 13.md:154  Alba recognizes herself in woman
+      未命中词: ['recognizes']
+  ch13 chapter 13.md:154  nger wears Alba's wedding dress
+      未命中词: ['wears']
+  ch13 chapter 13.md:154  tentacles destroy doppelg
+      未命中词: ['doppelg']
+  ch13 chapter 13.md:154  Alba alone, picks up Switch controllers, finds ballet flats, hears scream, sees silhouet
+      未命中词: ['picks']
+  ch13 chapter 13.md:154  Novel's psychological climax
+      未命中词: ['novels', 'climax']
+  ch13 chapter 13.md:154  Alba chooses autonomy over mother-identity
+      未命中词: ['chooses', 'autonomy', 'motheridentity']
+  ch13 chapter 13.md:154  Chapter ends with new encounter setup
+      未命中词: ['chapter', 'encounter']
+  ch14 chapter 14.md:10  Chapter ends with relief
+      未命中词: ['chapter']
+  ch14 chapter 14.md:12  chapter ends with relief
+      未命中词: ['chapter']
+  ch14 chapter 14.md:121  Chapter ends with relief
+      未命中词: ['chapter']
+  ch14 chapter 14.md:121  family survives, normal life resumes
+      未命中词: ['survives', 'resumes']
+  ch14 chapter 14.md:121  Supernatural elements persist
+      未命中词: ['elements']
+  ch15 chapter 15.md:10  Carmen confesses she had octopus in stomach at camp
+      未命中词: ['confesses']
+  ch15 chapter 15.md:10  Diana mentions telepathy
+      未命中词: ['mentions']
+  ch15 chapter 15.md:10  Alba stays silent about Splau experience
+      未命中词: ['stays']
+  ch15 chapter 15.md:10  Chapter ends with Diana's clumsy encouragement
+      未命中词: ['chapter', 'encouragement']
+  ch15 chapter 15.md:108  Carmen confesses she had octopus in stomach at camp
+      未命中词: ['confesses']
+  ch15 chapter 15.md:108  Diana mentions telepathy
+      未命中词: ['mentions']
+  ch15 chapter 15.md:108  Alba stays silent about full Splau experience
+      未命中词: ['stays']
+  ch15 chapter 15.md:108  Chapter ends with Diana's clumsy encouragement
+      未命中词: ['chapter', 'encouragement']
+  ch15 chapter 15.md:108  family's honesty with gaps, Carmen's hidden supernatural experience, Diana's supernatura
+      未命中词: ['honesty', 'gaps']
+  ch16 chapter 16.md:12  Alba encounters women like her
+      未命中词: ['encounters']
+  ch16 chapter 16.md:12  Chapter ends with Alba's simple desire
+      未命中词: ['chapter']
+  ch16 chapter 16.md:16  chapter ends with Alba's simple statement
+      未命中词: ['chapter', 'statement']
+  ch16 chapter 16.md:129  Alba encounters all mothers, recognizes her own condition, and walks through them with t
+      未命中词: ['encounters', 'recognizes', 'guardians']
+  ch16 chapter 16.md:129  she hasn't suppressed them
+      未命中词: ['suppressed']
+  ch17 chapter 17.md:10  Family returns home from Splau
+      未命中词: ['returns']
+  ch17 chapter 17.md:10  Alba hides Switch controllers on patio
+      未命中词: ['hides']
+  ch17 chapter 17.md:10  Carmen reveals she had octopus at camp
+      未命中词: ['reveals']
+  ch17 chapter 17.md:10  Alba reveals tentacles
+      未命中词: ['reveals']
+  ch17 chapter 17.md:10  Chapter ends with Carmen asking about air fryer
+      未命中词: ['chapter']
+  ch17 chapter 17.md:12  chapter ends with mundane question
+      未命中词: ['chapter', 'mundane']
+  ch17 chapter 17.md:136  Family returns home from Splau
+      未命中词: ['returns']
+  ch17 chapter 17.md:136  Alba hides Switch controllers on patio
+      未命中词: ['hides']
+  ch17 chapter 17.md:136  Carmen reveals she had octopus at camp
+      未命中词: ['reveals']
+  ch17 chapter 17.md:136  Alba reveals tentacles
+      未命中词: ['reveals']
+  ch17 chapter 17.md:136  Chapter ends with Carmen asking about air fryer
+      未命中词: ['chapter']
+  ch17 chapter 17.md:136  family reunited, supernatural accepted
+      未命中词: ['reunited']
+  ch17 chapter 17.md:136  she hasn't suppressed them
+      未命中词: ['suppressed']
+  ch17 chapter 17.md:136  motherhood, autonomy, supernatural as metaphor for suppressed identity, family's hidden 
+      未命中词: ['autonomy', 'metaphor', 'suppressed', 'identity', 'connections']
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）153 条 —— 只报不判红，须人判：
+  ch01 chapter 1.md:62  More humiliating than A
+  ch02 chapter 2.md:54  symbiotic vs parasitic
+  ch03 chapter 3.md:16  to celebrate two things
+  ch03 chapter 3.md:37  Carmen stayed with the kids
+  ch03 chapter 3.md:61  MediaMarkt vs Corte Ingl
+  ch03 chapter 3.md:72  Carmen got her nails done
+  ch03 chapter 3.md:72  Carmen got her nails done for the holidays
+  ch04 chapter 4.md:64  terrible woman scolded us
+  ch04 chapter 4.md:76  only engaged when directly affected
+  ch04 chapter 4.md:90  as dangerous neighborhood
+  ch05 chapter 5.md:66  Diana had never told anyone it weighed on her
+  ch05 chapter 5.md:66  about Diana’s family shows his blind spot
+  ch05 chapter 5.md:66  she couldn’t imagine how she would go about it
+  ch05 chapter 5.md:90  Diana’s incomplete image of father
+  ch05 chapter 5.md:90  both are forms of absence
+  ch05 chapter 5.md:90  mirrors Alba’s autophobia
+  ch05 chapter 5.md:90  never helped with chores
+  ch05 chapter 5.md:90  theme connects to Alba’s never-alone pattern
+  ch05 chapter 5.md:151  Alba’s adolescence sleeping on living room floor
+  ch05 chapter 5.md:151  Alba’s never-alone pattern
+  ch05 chapter 5.md:151  Diana’s selective lucidity
+  ch05 chapter 5.md:151  family’s collective absence
+  ch06 chapter 6.md:10  mediums at Finestrelles
+  ch06 chapter 6.md:14  terror of children’s safety
+  ch06 chapter 6.md:28  avoid the park at all costs
+  ch06 chapter 6.md:42  she zealously cheered on the first signs of independence in her daughter
+  ch06 chapter 6.md:42  wants independence but fears distance
+  ch06 chapter 6.md:66  The important thing is the baby is OK
+  ch06 chapter 6.md:66  is the truth Diana won’t accept
+  ch06 chapter 6.md:78  medium at Finestrelles
+  ch06 chapter 6.md:121  Diana’s promise to call Nuria
+  ch06 chapter 6.md:121  mediums at Finestrelles
+  ch07 chapter 7.md:10  Brisa collapse then wake for water
+  ch07 chapter 7.md:10  standing at foot of bed facing window
+  ch07 chapter 7.md:14  staying all night on mat
+  ch07 chapter 7.md:40  eyes open but fast asleep
+  ch07 chapter 7.md:42  eyes open but fast asleep
+  ch07 chapter 7.md:52  knees and tips of toes pointed toward ceiling
+  ch07 chapter 7.md:91  standing at foot of bed facing window
+  ch08 chapter 8.md:30  first earring appeared earlier
+  ch08 chapter 8.md:30  laundry tub as location is domestic
+  ch08 chapter 8.md:54  Diana’s shouting wakes him
+  ch08 chapter 8.md:54  Diana’s unease with calm
+  ch08 chapter 8.md:54  she’s accustomed to stress
+  ch08 chapter 8.md:54  she’s in control of situation
+  ch08 chapter 8.md:66  Diana’s practical handling of situation
+  ch08 chapter 8.md:66  vs actual wound location
+  ch09 chapter 9.md:30  bodily crisis interrupted by family crisis
+  ch09 chapter 9.md:38  first response to Carmen's call
+  ch09 chapter 9.md:42  this beat connects Diana's wound to Alba's disappearance
+  ch09 chapter 9.md:54  Carmen is at Alba's house
+  ch10 chapter 10.md:12  supernatural origin story
+  ch10 chapter 10.md:14  raising voice at mother-in-law
+  ch10 chapter 10.md:30  fountain changing shape like a small tornado
+  ch10 chapter 10.md:30  grass extraordinarily green
+  ch10 chapter 10.md:42  sheet soaked with blood
+  ch10 chapter 10.md:54  She had never met up with just Alba because Alba didn’t go anywhere alone
+  ch10 chapter 10.md:66  Alba was happy at the campground
+  ch10 chapter 10.md:66  Camp La Tortuga as Alba's origin of happiness
+  ch10 chapter 10.md:66  and possibly supernatural origin
+  ch10 chapter 10.md:90  Diana telling Carlos about her childhood
+  ch10 chapter 10.md:90  connects to the later ritual scene
+  ch10 chapter 10.md:102  Diana was a child witness to the ritual
+  ch10 chapter 10.md:102  Diana watching from hiding
+  ch10 chapter 10.md:102  she was close enough to see
+  ch10 chapter 10.md:114  communion dress for a ritual
+  ch10 chapter 10.md:126  pink lights seen by children
+  ch10 chapter 10.md:164  and supernatural origin site
+  ch11 chapter 11.md:10  Alba's autophobia origin revealed
+  ch11 chapter 11.md:10  girl from Camp La Tortuga Ligera
+  ch11 chapter 11.md:10  girl in red swimsuit with hoop earrings
+  ch11 chapter 11.md:14  hypnotized by tentacles
+  ch11 chapter 11.md:28  vision still quite blurry
+  ch11 chapter 11.md:64  longed for Diana to pinch her
+  ch11 chapter 11.md:64  she genuinely thought she would actually disappear
+  ch11 chapter 11.md:88  first time in years she'd looked in mirror
+  ch11 chapter 11.md:88  something eating away at her but left unfinished
+  ch11 chapter 11.md:112  tentacles rose toward ceiling
+  ch11 chapter 11.md:156  Alba's autophobia origin revealed
+  ch11 chapter 11.md:156  girl from Camp La Tortuga Ligera
+  ch11 chapter 11.md:156  girl in red swimsuit with hoop earrings
+  ch12 chapter 12.md:10  Alba wakes in Claire's with
+  ch12 chapter 12.md:10  camp swallowed by airport expansion
+  ch12 chapter 12.md:10  ghosts of happy campers
+  ch12 chapter 12.md:62  ghosts feeding on memories
+  ch12 chapter 12.md:72  ghosts vanished when originals lost memories
+  ch12 chapter 12.md:72  wander that no-man's-land for twenty years
+  ch12 chapter 12.md:137  Alba wakes in Claire's with
+  ch12 chapter 12.md:137  camp swallowed by airport expansion
+  ch12 chapter 12.md:137  ghosts of happy campers feeding on memory
+  ch13 chapter 13.md:10  Alba on second floor of Splau
+  ch13 chapter 13.md:40  swept up the shoe and Switch controllers
+  ch13 chapter 13.md:52  Guinness World Records babies
+  ch13 chapter 13.md:52  sleep mask melted into face
+  ch13 chapter 13.md:64  children's eyes like needles
+  ch13 chapter 13.md:66  longed for Diana to pinch her
+  ch13 chapter 13.md:100  woman strung to Christmas lights by intestines
+  ch13 chapter 13.md:112  scream suspended in time
+  ch13 chapter 13.md:112  tentacles coiled back gently
+  ch13 chapter 13.md:114  tentacles coiled gently
+  ch14 chapter 14.md:10  Carlos and Diana find Alba
+  ch14 chapter 14.md:10  all three women identical
+  ch14 chapter 14.md:10  children saw pink lights in sky
+  ch14 chapter 14.md:28  Carlos kissed her cheek
+  ch14 chapter 14.md:30  Juan holding Alba by shoulders
+  ch14 chapter 14.md:64  Carmen's eyes already closed
+  ch14 chapter 14.md:64  traced over with glitter
+  ch14 chapter 14.md:76  YouTubers eating red foods
+  ch14 chapter 14.md:121  Carlos and Diana find Alba
+  ch14 chapter 14.md:121  all three women identical
+  ch14 chapter 14.md:121  children saw pink lights in sky
+  ch15 chapter 15.md:10  Carmen eat pizza outside Splau
+  ch15 chapter 15.md:12  family's first honest conversation about supernatural
+  ch15 chapter 15.md:12  she doesn't tell full story
+  ch15 chapter 15.md:28  silhouetted against crude backdrop
+  ch15 chapter 15.md:30  silhouetted against crude backdrop
+  ch15 chapter 15.md:64  first summer at campsite
+  ch15 chapter 15.md:66  first summer at campsite
+  ch15 chapter 15.md:76  Diana in Splau that night
+  ch15 chapter 15.md:78  Diana in Splau that night
+  ch15 chapter 15.md:108  Carmen eat pizza outside Splau
+  ch15 chapter 15.md:108  was with Alba in Splau that night
+  ch16 chapter 16.md:10  Alba at Splau's giant Christmas tree
+  ch16 chapter 16.md:10  Alba walks through them toward exit
+  ch16 chapter 16.md:10  women try to trap Alba in mall
+  ch16 chapter 16.md:12  tentacles as light show
+  ch16 chapter 16.md:54  flayed skin around eyes
+  ch16 chapter 16.md:67  no one had even suggested Juan should go
+  ch16 chapter 16.md:70  no one suggested Juan should go
+  ch16 chapter 16.md:76  tentacles opening belly
+  ch16 chapter 16.md:129  Alba at Splau's giant Christmas tree
+  ch16 chapter 16.md:129  Alba walks through them
+  ch16 chapter 16.md:129  Alba's tentacles are intact
+  ch16 chapter 16.md:129  tentacles emerge as light show
+  ch16 chapter 16.md:129  women scream because their tentacles were cut
+  ch17 chapter 17.md:10  family laughs and dances to Camela
+  ch17 chapter 17.md:28  Carlos pale and out of sorts
+  ch17 chapter 17.md:28  bloodstains impossible to get out
+  ch17 chapter 17.md:40  billboards for Finestrelles and Splau
+  ch17 chapter 17.md:52  Even Carlos hypnotized
+  ch17 chapter 17.md:60  sisters mimicked each other
+  ch17 chapter 17.md:64  left hair loose so kids wouldn't see ears
+  ch17 chapter 17.md:64  sisters mimicked each other
+  ch17 chapter 17.md:66  sisters mimicked each other
+  ch17 chapter 17.md:72  raised glasses in silence
+  ch17 chapter 17.md:76  cork bounced off ceiling
+  ch17 chapter 17.md:76  raised glasses in silence
+  ch17 chapter 17.md:78  raised glasses in silence
+  ch17 chapter 17.md:100  Diana in Splau that night
+  ch17 chapter 17.md:136  Alba's tentacles are intact
+  ch17 chapter 17.md:136  Diana was in Splau that night
+  ch17 chapter 17.md:136  bingo lady helped her contain it
+  ch17 chapter 17.md:136  family laughs and dances to Camela

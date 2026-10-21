@@ -30,13 +30,13 @@ modified: "2026-10-20"
 
 > **原句 2:** “How was Brisa’s play?” … “It was bad.” … “What do you mean bad?” … “I’ll tell you later. Look, let me call you back, I need to call Mom before dinner. Oh, never mind, she has her Christmas drinks tonight.” … “She didn’t go.” … “How come? She wouldn’t shut up about it all week. She was driving me nuts.” … “She stayed with the kids.” … “With what kids?” … “Well, with mine.”
 
-**中文理解**：“布里萨的演出怎么样？”……“糟透了。”……“什么叫糟透了？”……“我回头再告诉你。听着，让我回你电话，晚饭前我得给妈妈打电话。哦，算了，她今晚有圣诞聚会。”……“她没去。”……“怎么？她一整周都在念叨这事，都快把我逼疯了。”……“她留下来带孩子了。”……“带谁家孩子？”……“嗯，带我家的。”
+**中文理解**：“Brisa的演出怎么样？”……“糟透了。”……“什么叫糟透了？”……“我回头再告诉你。听着，让我回你电话，晚饭前我得给妈妈打电话。哦，算了，她今晚有圣诞聚会。”……“她没去。”……“怎么？她一整周都在念叨这事，都快把我逼疯了。”……“她留下来带孩子了。”……“带谁家孩子？”……“嗯，带我家的。”
 
 **关键词**：wouldn’t shut up / driving me nuts
 
-**句子结构**：对话——Diana 问演出；Alba "bad"；Diana 追问；Alba 推迟 + 提及 Carmen 聚会；Diana 说 Carmen 没去；Alba 惊讶；Diana 解释"Carmen stayed with the kids"；Alba 追问"which kids"；Diana "mine."
+**句子结构**：对话——Diana 问演出；Alba "bad"；Diana 追问；Alba 推迟 + 提及 Carmen 聚会；Alba 说 Carmen 没去；Diana 追问；Alba 解释"She stayed with the kids."；Diana 追问"With what kids?"；Alba "Well, with mine."
 
-**为什么这样写**：作者用 "She wouldn’t shut up about it all week" 揭示 Carmen 的期待，与后文"she got her nails done"呼应；Alba 的 "With what kids?" 揭示她对自己行为后果浑然不觉；Diana 的 "Well, with mine." 是本章第一个道德重击——Alba 让母亲放弃聚会代看孩子，却装作不知。
+**为什么这样写**：作者用 "She wouldn’t shut up about it all week" 揭示 Carmen 的期待，与后文"She got her nails done yesterday!"呼应；Diana 的 "With what kids?" 揭示她对自己行为后果浑然不觉；Alba 的 "Well, with mine." 是本章第一个道德重击——Alba 让母亲放弃聚会代看孩子，却装作不知。
 **读者视角提示**："It was bad" 指 ch01 的演出（Diana 迟到、Brisa 罢演），姐妹间的信息不对称显示 Diana 不愿详述；"I’ll tell you later" 把 ch01 的创伤推到未来章节。
 
 > **原句 3:** “Jesus, Alba, couldn’t you have gone another time?” … “When?” … “Tomorrow, maybe?” … “No way, I can’t tomorrow.” … “Why?” … “In the morning I’ve got the baby’s check-up, and in the afternoon we’re doing my birthday thing.” … “Couldn’t you have just run out when Juan got off work?” … “Impossible.” … “Friday, then.” … “On Christmas Eve? Hell no.”
@@ -47,7 +47,9 @@ modified: "2026-10-20"
 
 **句子结构**：对话——Diana 提议 alternative；Alba 以 "When?" 反问，显示她无法想象其他时间；Diana 提议 tomorrow；Alba 列出 baby check-up 与 birthday thing；Diana 提议 Juan 下班后；Alba "Impossible"；Diana 提议 Friday；Alba "On Christmas Eve? Hell no."
 
-**为什么这样写**：作者用 "When?" 一词揭示 Alba 的时间焦虑——她无法考虑"以后"；"Impossible" 是她的习惯性拒绝，与第二章的"on purpose"踢玩具车形成强迫性控制模式；"On Christmas Eve? Hell no." 揭示她的迷信（"It’s bad luck" 庆祝两件事）作为拒绝工具。**读者视角提示**："my birthday thing" 与 "Christmas Eve" 的 juxtaposition 为后文 "You can’t celebrate two things at once. It’s bad luck." 铺垫；Alba 用 superstition 控制家人。
+**为什么这样写**：作者用 "When?" 一词揭示 Alba 的时间焦虑——她无法考虑"以后"；"Impossible" 是她的习惯性拒绝，与第二章的"on purpose"踢玩具车形成强迫性控制模式；"On Christmas Eve? Hell no." 揭示她的迷信（"It’s bad luck" 庆祝两件事）作为拒绝工具。
+
+**读者视角提示**："my birthday thing" 与 "Christmas Eve" 的 juxtaposition 为后文 "You can’t celebrate two things at once. It’s bad luck." 铺垫；Alba 用 superstition 控制家人。
 
 > **原句 4:** “You could have asked me to exchange them when I go for my stuff on Friday.” … “Were you planning to go to Finestrelles?” … “No, but surely they have them at Corte Inglés?” … “It doesn’t matter, it’s an exchange. It has to be MediaMarkt.”
 
@@ -69,7 +71,7 @@ modified: "2026-10-20"
 **句子结构**：对话——Diana 提及 Carmen 的 nails；Alba 以 "can’t take the bus by myself" 拒绝；Diana 追问 "Why not?"；Alba "overwhelmed with the baby"；Diana 追问 "why did you take the baby?"；Alba "In case he got hungry"；Diana "he’s practically a teenager" 反讽；Alba "throws a fit"；Diana "give him a cookie."
 
 **为什么这样写**：作者用 "he’s practically a teenager! He’s almost a year old" 揭示 Diana 的理性视角，与 Alba 的过度保护对比；"throws a fit" 与 "throws up"（后文）揭示 Alba 用宝宝的痛苦作为拒绝工具；"give him a cookie" 是 Diana 的务实，被 Alba 忽视；姐妹间的育儿理念差异（Alba 过度保护的, Diana 务实的）是家族动力学的核心。
-**读者视角提示**："Carmen got her nails done" 与 ch02 "Carmen got her nails done for the holidays" 呼应，显示 Carmen 的 Christmas party 期待被 Alba 牺牲；Alba 的 "I can’t take the bus by myself" 是 ch02 dissociation 的 precursor。
+**读者视角提示**："She got her nails done yesterday!" 与 ch02 "I bought a shirt and got my nails done for the holidays" 呼应，显示 Carmen 的 Christmas party 期待被 Alba 牺牲；Alba 的 "I can’t take the bus by myself" 是 ch02 dissociation 的 precursor。
 
 > **原句 6:** “You can’t celebrate two things at once. It’s bad luck. And you know it.” … “Christ, Alba, I’ve got to go. We’ll talk later.”
 
