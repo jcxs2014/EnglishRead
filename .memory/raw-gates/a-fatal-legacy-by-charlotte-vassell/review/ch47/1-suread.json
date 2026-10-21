@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "chapter": 47,
+    "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch47_47.txt",
+    "source_chars": 1996,
+    "source_lines": 62,
+    "read_first": true,
+    "md_opened": false,
+    "note": "R1 素读，仅读 text/ch47_47.txt；字符区间为该文件的 0-based 半开区间 [start,end)，与行号并列"
+  },
+  "events": [
+    {
+      "id": "E1",
+      "who": "Matt",
+      "did": "在医院的员工食堂(canteen)遇到 Amy；食堂已打烊(it was closed for the night)，但有职员休息中坐在桌边玩手机、发呆",
+      "loc": "lines 17-20 (chars 20-297)",
+      "quote_verbatim": "Matt met Amy in the canteen. It was closed for the night, but there were staff members on breaks sitting at the tables, scrolling through their phones and disassociating.",
+      "chars": [47, 217]
+    },
+    {
+      "id": "E2",
+      "who": "Matt",
+      "did": "从自动售货机给 Amy 买了一罐 Sprite 和一包 Skips",
+      "loc": "line 20 (chars 218-249)",
+      "quote_verbatim": "He’d bought her a can of Sprite and a packet of Skips from the vending machine.",
+      "chars": [218, 249]
+    },
+    {
+      "id": "E3",
+      "who": "Amy",
+      "did": "转述医生的话：Mel 已出手术室；她(Amy)跟医生谈过，医生认为结果是五五开(fifty-fifty)；Mel 失血很多；若 Mel 康复，可能再也用不了右臂",
+      "loc": "line 23 (chars 300-462)",
+      "quote_verbatim": "‘Mel is out of surgery. The doctor I spoke to thinks it’s fifty-fifty. She’d lost a lot of blood. If she recovers she may never get the use of her right arm again.’",
+      "chars": [300, 462]
+    },
+    {
+      "id": "E4",
+      "who": "Amy",
+      "did": "打开饮料罐喝了一口，问 Jen 的情况",
+      "loc": "line 23 (chars 465-511)",
+      "quote_verbatim": "Amy opened the can and took a sip. ‘How’s Jen?’",
+      "chars": [465, 511]
+    },
+    {
+      "id": "E5",
+      "who": "Matt",
+      "did": "回答 Jen 已被送进病房、已被镇静；并交代背景：Jennifer 上车时为了 Caius 相当平静，但从 Hertfordshire 下来一路很难受",
+      "loc": "line 26 (chars 515-699)",
+      "quote_verbatim": "‘They’ve taken her onto the ward,’ Matt said. Despite getting into the car quite calmly for Caius, Jennifer had a rough ride down from Hertfordshire. ‘They’ve sedated her. Poor thing.’",
+      "chars": [515, 699]
+    },
+    {
+      "id": "E6",
+      "who": "Amy→Matt",
+      "did": "Amy 说 Jen 一方的父母在这里，应该跟他们谈谈；Matt 说他们一路开车到了伦敦",
+      "loc": "lines 29-32 (chars 702-805)",
+      "quote_verbatim": "‘Their parents are here, you know. We should speak to them.’ / ‘They drove all the way down to London.’",
+      "chars": [702, 805]
+    },
+    {
+      "id": "E7",
+      "who": "Matt",
+      "did": "说他跟 Jen 的父母谈过，对方在抱怨我们的首都；他揉皱 Snickers 包装纸，建议第二天上午再跟 Parkin 一家谈，今晚他们状态不适合谈",
+      "loc": "lines 38 (chars 817-1019)",
+      "quote_verbatim": "‘They were complaining about our fair capital city when I spoke to them.’ Matt scrunched up his Snickers wrapper. ‘We should speak to the Parkins tomorrow morning. They won’t be in a fit state tonight.’",
+      "chars": [817, 1019]
+    },
+    {
+      "id": "E8",
+      "who": "Matt",
+      "did": "查手机后回答 Amy 关于 Robbie 的提问：没听说，对方大概埋在文书堆里",
+      "loc": "lines 41-44 (chars 1022-1123)",
+      "quote_verbatim": "‘Heard from Robbie?’ / Matt checked his phone. ‘Nope. He’s probably up to his eyeballs in paperwork.’",
+      "chars": [1022, 1123]
+    },
+    {
+      "id": "E9",
+      "who": "Amy",
+      "did": "问 Matt 是否认为 Jennifer 杀了 Digby",
+      "loc": "line 47 (chars 1126-1163)",
+      "quote_verbatim": "‘Do you think Jennifer killed Digby?’",
+      "chars": [1126, 1163]
+    },
+    {
+      "id": "E10",
+      "who": "Matt",
+      "did": "给出推测：Digby 去过 Harrogate；可能是 Jennifer 和 Mel 在 Wetherspoon's 见的他，她带着一种带-cancer 的怨恨，因为他对她献殷勤后就把她忘了；Nathan 的描述说得通；最后说不确定，人被杀的例子比这更轻",
+      "loc": "line 50 (chars 1166-1486)",
+      "quote_verbatim": "‘Digby had been to Harrogate. Perhaps it was her and Mel that they met in the Wetherspoon’s and she carried around a cancerous resentment because he’d fawned over her and then forgot about her. Nathan’s description fits.’ Matt took a sip from his can of Coke Zero. ‘I dunno. People have been killed for less, I suppose.’",
+      "chars": [1166, 1486]
+    },
+    {
+      "id": "E11",
+      "who": "Amy",
+      "did": "补充推测：若他们那个周末在 Harrogate 见过面，是他先告诉她广场的事、它的历史；她痴迷中世纪的东西；她闯进 Institute 去偷 Horatio 日记的最后一卷",
+      "loc": "line 53 (chars 1489-1732)",
+      "quote_verbatim": "‘Perhaps if they had met that weekend in Harrogate he was the one to first tell her about the square, about its history. She’s obsessed with medieval things, right? She broke into the Institute to steal the final volume of Horatio’s journal …’",
+      "chars": [1489, 1732]
+    },
+    {
+      "id": "E12",
+      "who": "Matt→Amy",
+      "did": "Matt 问「为什么？那本书里除了狂欢派对还有什么？」；Amy 耸肩答「一堆不恰当的隐喻」「不过说真的，她喜欢读狂欢派对的描写」",
+      "loc": "lines 56-59 (chars 1735-1874)",
+      "quote_verbatim": "‘But why? What’s in that book other than orgies?’ / ‘A lot of dodgy metaphors.’ Amy shrugged. ‘To be fair, she likes reading about orgies.’",
+      "chars": [1735, 1874]
+    },
+    {
+      "id": "E13",
+      "who": "Matt",
+      "did": "接话「还有黄瓜性爱」；看着一个看起来很累的护士从邻桌起身；说以后只吃 Snickers",
+      "loc": "line 62 (chars 1877-1995)",
+      "quote_verbatim": "‘And cucumber sex.’ Matt watched a tired-looking nurse get up from a nearby table. ‘Snickers only for me from now on.’",
+      "chars": [1877, 1995]
+    }
+  ],
+  "relations": [
+    {
+      "who": "Matt & Amy",
+      "relation": "同事/搭档；深夜在医院食堂碰面聊 Mel 的手术与案子；Matt 给 Amy 买了 Sprite 和 Skips"
+    },
+    {
+      "who": "Mel",
+      "relation": "刚做完手术（还没脱离危险）；失血多；即使康复也可能右臂再不能使用"
+    },
+    {
+      "who": "Jen / Jennifer",
+      "relation": "已被送进病房并镇静；从 Hertfordshire 下来；Matt 转述她上车时为了 Caius 很平静；Amy 问是否 Jennifer 杀了 Digby"
+    },
+    {
+      "who": "Caius",
+      "relation": "与 Jennifer 同行/相关，Jennifer 上车时为了 Caius 表现平静"
+    },
+    {
+      "who": "The Parkins",
+      "relation": "Jen 一方的父母；开车从外地到伦敦；Matt 已跟他们谈过并抱怨首都；Matt 建议第二天上午再谈"
+    },
+    {
+      "who": "Robbie",
+      "relation": "Matt 还没从他那听到消息；Matt 猜他埋在做文书里"
+    },
+    {
+      "who": "Digby",
+      "relation": "案件受害者（被杀）；去过 Harrogate；曾对 Jennifer 献殷勤后忘记她；Nathan 的描述与他对得上"
+    },
+    {
+      "who": "Nathan",
+      "relation": "提供了与 Digby 相关的描述，佐证 Matt 的推测"
+    },
+    {
+      "who": "Horatio",
+      "relation": "有一本日记，最后一卷被 Jennifer 从 Institute 偷走"
+    },
+    {
+      "who": "the Institute",
+      "relation": "Jennifer 闯进去偷 Horatio 日记最后一卷的地点"
+    }
+  ],
+  "numbers_and_dates": [
+    {
+      "item": "章号",
+      "value": "47",
+      "loc": "line 1 / line 12 (chars 0-2)",
+      "verbatim": "47"
+    },
+    {
+      "item": "小标题",
+      "value": "The Whittington Hospital",
+      "loc": "line 17 (chars 20-44)",
+      "verbatim": "The Whittington Hospital"
+    },
+    {
+      "item": "手术结果",
+      "value": "fifty-fifty",
+      "loc": "line 23 (chars 345-361)",
+      "verbatim": "it’s fifty-fifty"
+    },
+    {
+      "item": "受损部位",
+      "value": "right arm",
+      "loc": "line 23 (chars 447-462)",
+      "verbatim": "the use of her right arm again"
+    },
+    {
+      "item": "时间",
+      "value": "closed for the night / tomorrow morning / tonight",
+      "loc": "line 20 (chars 76-103), line 38 (chars 951-1019)",
+      "verbatim": "It was closed for the night … We should speak to the Parkins tomorrow morning. They won’t be in a fit state tonight."
+    },
+    {
+      "item": "地点",
+      "value": "Whittington Hospital（医院食堂 canteen）、Hertfordshire、London、Harrogate、Wetherspoon's、the Institute",
+      "loc": "lines 17-62",
+      "verbatim": "The Whittington Hospital … rough ride down from Hertfordshire … down to London … had been to Harrogate … the Wetherspoon’s … broke into the Institute"
+    },
+    {
+      "item": "饮品/零食",
+      "value": "can of Sprite、packet of Skips、Snickers wrapper、can of Coke Zero",
+      "loc": "line 20 (chars 218-249), line 38 (chars 891-908), line 50, line 62",
+      "verbatim": "a can of Sprite and a packet of Skips … Matt scrunched up his Snickers wrapper … his can of Coke Zero"
+    },
+    {
+      "item": "书",
+      "value": "final volume of Horatio’s journal",
+      "loc": "line 53 (chars 1712-1729)",
+      "verbatim": "the final volume of Horatio’s journal"
+    }
+  ]
+}

@@ -48,7 +48,7 @@ source_text: ch47
 
 > **原句 4:** "‘Digby had been to Harrogate. Perhaps it was her and Mel that they met in the Wetherspoon’s and she carried around a cancerous resentment because he’d fawned over her and then forgot about her. Nathan’s description fits.’ Matt took a sip from his can of Coke Zero. ‘I dunno. People have been killed for less, I suppose.’"
 
-**中文理解**：Matt 顺着 Amy 的问题往下猜：迪吉去过哈罗盖特，也许正是他和 Mel 在那家 Wetherspoon's 酒吧碰了面；Jen 因此揣着一份“癌变般的怨恨”，因为迪吉先对她大献殷勤，随后又把她忘在脑后。他说内森对那个人的描述对得上，末了还是把话收回来：杀人动机的门槛本来就低得很。
+**中文理解**：Matt 顺着 Amy 的问题往下猜：迪吉去过哈罗盖特，也许正是 Jen 和 Mel 在那家 Wetherspoon's 酒吧跟他碰了面；Jen 因此揣着一份“癌变般的怨恨”，因为迪吉先对她大献殷勤，随后又把她忘在脑后。他说内森对那个人的描述对得上，末了还是把话收回来：杀人动机的门槛本来就低得很。
 
 **关键词**：Harrogate / Wetherspoon’s / cancerous resentment
 
