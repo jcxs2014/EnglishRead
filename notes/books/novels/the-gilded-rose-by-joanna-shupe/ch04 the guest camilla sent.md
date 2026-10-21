@@ -169,6 +169,7 @@ modified: "2026-10-21"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| appearance | 外表；外貌 | “He’s prickly about his appearance. Thinks the scars are too much for the world to handle.” |
 | inclement | 恶劣的；阴雨寒冷的 | I never missed a day, even in inclement weather. |
 | stallion | 牡马；种马 | Slowing my stallion, Minos, to a walk, I patted his sweaty coat as both of us attempted to catch our breath. |
 | toothless | 无齿的；缺牙的 | “Maybe both,” George answered with a toothless grin. |
@@ -184,7 +185,6 @@ modified: "2026-10-21"
 | father | 父亲 | “Yes, madam. Your father is here with Mr. Grey in the dining room.” |
 | husband | 丈夫 | No, Mrs. Grey wasn’t here as a spy for her husband. |
 | law | 法律 | I knew the law. |
-| appearance | 外表；外貌 | “He’s prickly about his appearance. Thinks the scars are too much for the world to handle.” |
 
 ## 一句话总结
 本章用一扇锁上的书房门把两条人生切开：男主的清晨被一个闯入者搅乱，他把她锁进满屋藏书，当成向仇人宣战的器物；女主的清晨却被这扇门变成一天里唯一自由的两小时——同一间书房，两个人读出相反的结论。
