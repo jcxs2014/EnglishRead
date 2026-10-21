@@ -1,0 +1,414 @@
+{
+  "book": "A Fatal Legacy — Charlotte Vassell",
+  "reviewed_file": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/00_概述.md",
+  "r1_method": "先读 text/chNN_N.txt 原文（不读 00_概述.md、不读任何精读 md），落盘本文件后才读 00_概述.md。",
+  "chapters_read": [
+    "ch01",
+    "ch02",
+    "ch03",
+    "ch04",
+    "ch05",
+    "ch07",
+    "ch12",
+    "ch16",
+    "ch23",
+    "ch25",
+    "ch31",
+    "ch33",
+    "ch40",
+    "ch45",
+    "ch48",
+    "ch50",
+    "ch51",
+    "ch52",
+    "ch53",
+    "ch54"
+  ],
+  "corpus_note": "text/ 下为每章单独提取件 chNN_N.txt；每份首尾为章节序号行；char_range 为 Python 字符串下标 [start,end) 区间。",
+  "facts": [
+    {
+      "id": "F01",
+      "chapter": "ch01",
+      "file": "text/ch01_1.txt",
+      "char_range": [
+        71,
+        244
+      ],
+      "fact": "开篇：戴吉·康比-沃森（Digby Combe-Watson）仰卧在霍雷肖·康比研究所（Horatio Combe Institute, Priory Square, Camden）的一块古董地毯上；地毯据称是1849年伊朗国王纳赛尔·丁所赠。",
+      "verbatim_evidence": "Digby Combe-Watson is sprawled out on the antique rug apocryphally gifted to his great-great-great-grandfather in 1849 by an appreciative Naser al-Din, the then Shah of Iran",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F02",
+      "chapter": "ch01",
+      "file": "text/ch01_1.txt",
+      "char_range": [
+        2256,
+        2403
+      ],
+      "fact": "戴吉临死前喉咙开始闭合、看着橱柜里风干人头，心跳停止——死因被写成为毒杀（毒芹）而非刀伤。",
+      "verbatim_evidence": "Digby’s throat is beginning to close. He turns his head as he struggles to breathe. The shrunken heads watch from their cabinet as his heart stops.",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F03",
+      "chapter": "ch02",
+      "file": "text/ch02_2.txt",
+      "char_range": [
+        4590,
+        4612
+      ],
+      "fact": "法医 Barry 判定戴吉死于毒芹（Hemlock）。",
+      "verbatim_evidence": "‘Hemlock,’ Barry said.",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F04",
+      "chapter": "ch02",
+      "file": "text/ch02_2.txt",
+      "char_range": [
+        5731,
+        5819
+      ],
+      "fact": "Barry 估计死亡时间为傍晚7点至9点之间（early evening）。",
+      "verbatim_evidence": "By the looks of him he died in the early evening. I’d say somewhere between 7 and 9 p.m.",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F05",
+      "chapter": "ch02",
+      "file": "text/ch02_2.txt",
+      "char_range": [
+        5823,
+        5875
+      ],
+      "fact": "现场餐桌为两人布置（蜡烛、鲜花、一瓶红酒），两人面前是同一份沙拉。",
+      "verbatim_evidence": "‘Dinner time. The table was set for two,’ Caius said",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F06",
+      "chapter": "ch02",
+      "file": "text/ch02_2.txt",
+      "char_range": [
+        7508,
+        7622
+      ],
+      "fact": "发现尸体的是研究所实习生 Willow Bell——金学院（King's College）历史系学生，周六打工；警方负责人是 DI Caius Beauchamp。",
+      "verbatim_evidence": "‘Willow Bell, she’s a history student at King’s College and interns on Saturdays,’ Caius said, checking his notes.",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F07",
+      "chapter": "ch03",
+      "file": "text/ch03_3.txt",
+      "char_range": [
+        717,
+        847
+      ],
+      "fact": "Willow 称自己早上8:45到研究所，门开着，进去即发现尸体；她前一日下午约3点还见过戴吉。",
+      "verbatim_evidence": "‘I turned up at the Institute at 8.45 a.m. like I normally do. The door was left open, which was a bit odd, and I just walked in.’",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F08",
+      "chapter": "ch04",
+      "file": "text/ch04_4.txt",
+      "char_range": [
+        3794,
+        4075
+      ],
+      "fact": "戴吉在日记本中夹有交友广告剪报：北伦敦征友，37岁，自称“culture vulture”；信件笔友署名为 Isolde（Isobel 拼作 Isolde），寄信地址为 PO Box。",
+      "verbatim_evidence": "‘Digby’s definitely not the Hinge type.’ Caius took the other letters out of the box. A cut-out from a magazine was at the back. ‘“North London romantic seeks connection with fellow old soul. 37, good-ish looking, sometimes amusing, culture vulture.” He posted a lonely-hearts ad.’",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F09",
+      "chapter": "ch05",
+      "file": "text/ch05_5.txt",
+      "char_range": [
+        3824,
+        4037
+      ],
+      "fact": "警方早先把“毒芹混入沙拉”当作意外污染，并推测 Isolde 是诈骗团伙、事发后逃跑是为了避免暴露此前作案的模式。",
+      "verbatim_evidence": "‘Well, no, because he ate an accidentally poisoned salad. The date panics, flees and calls off the burglary. They’d know we’d be looking for them and they don’t want us to see a pattern if they’ve done it before.’",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F10",
+      "chapter": "ch07",
+      "file": "text/ch07_7.txt",
+      "char_range": [
+        1512,
+        1702
+      ],
+      "fact": "门铃摄像头拍到一名穿大号开衫、深色牛仔裤、留短鲍勃头的女子在傍晚6:30经过，长得像实习生 Willow——即“假 Isolde”曾乔装成 Willow。",
+      "verbatim_evidence": "when he saw something, namely a woman wearing an oversized cardigan and a pair of dark, baggy jeans. Her dark hair was cropped into a bob. She looked remarkably like Willow Bell, the intern.",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F11",
+      "chapter": "ch12",
+      "file": "text/ch12_12.txt",
+      "char_range": [
+        2306,
+        2371
+      ],
+      "fact": "Callie（Calliope Foster）与音乐人 Eulalia 在泰特不列颠首次会面，Eulalia 的握手无力；其姐姐 Mel 是经理人。",
+      "verbatim_evidence": "‘Calliope, delighted to meet you at last.’ She held her hand out.",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F12",
+      "chapter": "ch12",
+      "file": "text/ch12_12.txt",
+      "char_range": [
+        4178,
+        4286
+      ],
+      "fact": "Eulalia 亲口说姐姐 Mel 掌管她的合约与一切商务事务。",
+      "verbatim_evidence": "‘My sister Mel is amazing; she organises everything for me. My deals with my label, all the business stuff.’",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F13",
+      "chapter": "ch16",
+      "file": "text/ch16_16.txt",
+      "char_range": [
+        5544,
+        5633
+      ],
+      "fact": "真实 Isolde 名为 Isolde Burrell，住在 Walthamstow Village，是小学代课教师，5英尺4寸；其“假 Isolde”身份是把她的人生细节抄走。",
+      "verbatim_evidence": "‘Five foot four. I’m sorry, but what has that got to do with anything? Why are you here?’",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F14",
+      "chapter": "ch16",
+      "file": "text/ch16_16.txt",
+      "char_range": [
+        8968,
+        9123
+      ],
+      "fact": "Isolde 的前男友 Andy 是金学院学者，二人交往13年，仍是好朋友；Isolde 当晚脚部应力性骨折（前一天晚上在 A&E）。",
+      "verbatim_evidence": "‘Correct. We were together for thirteen years. We first met in Freshers. It’s hard to go from that to nothing and we’re actually still really good friends.",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F15",
+      "chapter": "ch23",
+      "file": "text/ch23_23.txt",
+      "char_range": [
+        9318,
+        10131
+      ],
+      "fact": "Mel 亲口承认自己才是创作与演唱的实体：“她是 Ringo，我是 George、Paul 和 John”——即 Eulalia 是门面。",
+      "verbatim_evidence": "‘Fuck the label. They’re just the bank. We do write the lyrics together. We genuinely co-write them. She comes out with a couple of key phrases or an image that I build around and make coherent. I’m the musician. I’m the one who understands the cadence. I just focus the chatter on what she’s contributed and her ego fills in the rest. She’s Ringo and I’m George and Paul and John,’ Mel said, playing with the cord on her headphones, affecting a pathetic tone to her voice that Sonikk wasn’t buying. ‘Unfortunately, God gave my sister the face and the body and me the talent and tenacity. My sister’s face could launch a thousand ships; mine could maybe inspire one very mediocre man to drive a Peugeot down two junctions of the M42. I’m a realist  and  so  is  she.  Together  we  make  one  phenomenal popstar.’",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F16",
+      "chapter": "ch23",
+      "file": "text/ch23_23.txt",
+      "char_range": [
+        6144,
+        6221
+      ],
+      "fact": "制作人 DJ Sonikk 签约后才被告知“Eulalia”的真实情况（面孔与才华分属两人），且前任制作人 3lectr0 因此不再回归。",
+      "verbatim_evidence": "The situation was then explained to him in full and his enthusiasm plummeted.",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F17",
+      "chapter": "ch25",
+      "file": "text/ch25_25.txt",
+      "char_range": [
+        7305,
+        7378
+      ],
+      "fact": "第二具尸体 Scott Brown 是被一刀刺中腹部（肝脏）致死——与戴吉的毒杀不同，属机会性杀人。",
+      "verbatim_evidence": "‘Stabbed in the gut. I’d say they nicked his liver. Not a nice way to go.",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F18",
+      "chapter": "ch31",
+      "file": "text/ch31_31.txt",
+      "char_range": [
+        2384,
+        2516
+      ],
+      "fact": "Jimmy Jones 死于 Priory Square 35号自家花园台阶意外摔倒撞铁栏杆，法医初判无他杀证据。",
+      "verbatim_evidence": "‘This one looks like an accident. The poor guy simply hit his head on the iron railing after slipping on the crumbling stone steps.’",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F19",
+      "chapter": "ch33",
+      "file": "text/ch33_33.txt",
+      "char_range": [
+        6959,
+        7046
+      ],
+      "fact": "Horatio Combe 在地下室举行降神会并组织性崇拜团体（成员住 Priory Square 周边）。",
+      "verbatim_evidence": "Horatio was part of a little group. It reads like some sort of sex cult, if I’m honest.",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F20",
+      "chapter": "ch33",
+      "file": "text/ch33_33.txt",
+      "char_range": [
+        11333,
+        11389
+      ],
+      "fact": "Priory Square 源自1188年 Eleanor of Aquitaine 建的 St Agnes's Priory；1532年修女 Alice de Burge 因异端被烧死；Priory Square 的土地属 Beauchamp 家。",
+      "verbatim_evidence": "Alice de Burge was burnt at the stake for heresy in 1532",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F21",
+      "chapter": "ch33",
+      "file": "text/ch33_33.txt",
+      "char_range": [
+        13426,
+        13463
+      ],
+      "fact": "Caius 发现自己家拥有 Priory Square 的租赁权与三分之一房产，因此被停职回避——本案核心利益冲突。",
+      "verbatim_evidence": "‘Priory Square. It’s Beauchamp land.’",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F22",
+      "chapter": "ch40",
+      "file": "text/ch40_40.txt",
+      "char_range": [
+        7514,
+        7635
+      ],
+      "fact": "Callie 已怀孕（准婆婆 Bridget 察觉“你那位朋友怀孕了吧”），Caius 一家计划在农场办婚礼。",
+      "verbatim_evidence": "‘Your friend, she’s pregnant, isn’t she? I thought she might like a cup of ginger tea too. So good for morning sickness.’",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F23",
+      "chapter": "ch45",
+      "file": "text/ch45_45.txt",
+      "char_range": [
+        1753,
+        1846
+      ],
+      "fact": "倒在 35 Priory Square 门口、浑身是血的女人被查明为 Melissa Parkin（Harrogate 的 Beverley 与 Nigel Parkin 之女）；PO Box 是用母亲 Beverley 的信用卡买的。",
+      "verbatim_evidence": "‘Melissa Parkin,’ Matt said, picking up an electricity bill from a side table in the hallway.",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F24",
+      "chapter": "ch45",
+      "file": "text/ch45_45.txt",
+      "char_range": [
+        4998,
+        5058
+      ],
+      "fact": "Mel 房间里的药（olanzapine 与 lithium）开给 Jennifer Parkin——即 Eulalia 本名 Jennifer，双相/schizoaffective，由姐姐 Mel 控制服药。",
+      "verbatim_evidence": "‘Olanzapine and lithium. All prescribed to Jennifer Parkin.’",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F25",
+      "chapter": "ch45",
+      "file": "text/ch45_45.txt",
+      "char_range": [
+        8432,
+        8469
+      ],
+      "fact": "Horatio 失踪的第二十二卷日志最终在 35 号 Jennifer 的房里被找到。",
+      "verbatim_evidence": "‘Matt, it’s here. The missing volume.",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F26",
+      "chapter": "ch50",
+      "file": "text/ch50_50.txt",
+      "char_range": [
+        2742,
+        2872
+      ],
+      "fact": "真实 Isolde 澄清自己从未在同人小说网站写文，登录她账号的是别人（帖子还错用第三人称称她“I’m an English lead”，且写于她上班时间）。",
+      "verbatim_evidence": "I was substituting in a school in Stratford. I didn’t have my laptop, it was at home. I never use my own devices when I’m at work.",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F27",
+      "chapter": "ch51",
+      "file": "text/ch51_51.txt",
+      "char_range": [
+        3851,
+        3872
+      ],
+      "fact": "Caius 决定搬到 Hertfordshire 的新家，案子仍在继续；Caius 已被调离原案（因为 Beauchamp 家是地主）。",
+      "verbatim_evidence": "‘We’re moving house.’",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F28",
+      "chapter": "ch52",
+      "file": "text/ch52_52.txt",
+      "char_range": [
+        10204,
+        10331
+      ],
+      "fact": "结局：Willow Bell 被 DI Eastley 以涉嫌谋杀 Digby Combe-Watson 与 Scott Brown 逮捕；她与历史学家 Professor Andrew Clifton 关系亲密。",
+      "verbatim_evidence": "‘Willow Bell, I am arresting you for the murders of Digby Combe-Watson and Scott Brown.’ Robbie stood over the twenty-year-old.",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F29",
+      "chapter": "ch52",
+      "file": "text/ch52_52.txt",
+      "char_range": [
+        16509,
+        16582
+      ],
+      "fact": "Andy 向警方自首，承认刺杀了 Scott Brown（“我杀了那个怪人”），并声称 Isolde 与此无关；破门而入者（Willow）为框架 Isolde 报警。",
+      "verbatim_evidence": "‘I killed the creepy boy,’ Andy said. Robbie and Matt just looked at him.",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F30",
+      "chapter": "ch52",
+      "file": "text/ch52_52.txt",
+      "char_range": [
+        9997,
+        10066
+      ],
+      "fact": "Caius 向父亲指出 Willow 与 Andy 在睡；Caius 的推断是 Willow 下的毒（沙拉）、Andy 动刀杀 Scott。",
+      "verbatim_evidence": "‘They’re sleeping together,’ Caius said, pointing at Willow and Andy.",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F31",
+      "chapter": "ch53",
+      "file": "text/ch53_53.txt",
+      "char_range": [
+        1167,
+        1293
+      ],
+      "fact": "Callie 与 Jen 的项目已告吹，PCQV 的合作取消；父亲 Marcus 决定把修道院地下文物捐给国家。",
+      "verbatim_evidence": "‘Anything for you,’ Caius said. Callie sat up and he put his arm around her. ‘I’ve got an update on Jen. Do you want to know?’",
+      "quote_matches_prefix": true
+    },
+    {
+      "id": "F32",
+      "chapter": "ch54",
+      "file": "text/ch54_54.txt",
+      "char_range": [
+        2377,
+        2429
+      ],
+      "fact": "结局：12 周产检时医生告知没有心跳——Callie 发生“漏诊型流产”（missed miscarriage），胎儿在9周时停止发育；Caius 拒绝立即求婚。",
+      "verbatim_evidence": "‘I’m very sorry, Miss Foster. There’s no heartbeat.’",
+      "quote_matches_prefix": true
+    }
+  ]
+}

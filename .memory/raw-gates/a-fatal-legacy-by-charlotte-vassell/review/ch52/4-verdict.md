@@ -93,3 +93,19 @@ bash scripts/chapter.sh "notes/books/mystery-thriller/a-fatal-legacy-by-charlott
 
 - 审查方落盘文件（仅此四份，均在 `review/ch52/`，**未改书目录任何 md，未 git add/commit**）：
   `1-suread.json` · `2-machine.json` · `3-diff.md` · `4-correspondence.md` · `4-verdict.md`
+
+---
+
+## 派工人裁定（ZCode-Mac，2026-10-20）
+
+**修前 → 修后**：阻断型 **5 → 0**；逐字 10/10 → 10/10；形态 4/4 → 4/4；块数 10 → 10（换块不增块）。
+
+| 审查员判 | 裁定 | 处置 |
+|---|---|---|
+| 原句 1 的「这尊纪念碑所纪念的，正是本章挖出来的那些尸骨」 | **阻断（编），确认** | 雕像纪念的是 1532 年被以异端之罪烧死的修女 **Alice de Burge**（`ch48:12450–12700`、`ch33:11250–11400`），与本章从石架照出的骸骨不是同一批人。已改写并点明 Alice de Burge |
+| 原句 2 / 原句 5 两处「Andy 自己家族」 | **阻断（错），确认** | `‘Your family were Recusants.’` 与 `‘Your house is riddled with priest hides.’` 是 Andy 对 **Marcus** 说的，指 Caius 家的祖上与藏匿的宗教器物（`ch52:7350–7700`）。两处已改为「Caius 家」 |
+| 导航「报纸上关于**博物馆标签**的报道」 | **阻断（编），确认** | 原文 `Have you seen that the label has been taking a lot of flak in the press? DJ Sonikk did another interview.`（`ch52:5966`）——the label 是**唱片厂牌**（Mel/Eulalia 那个），全书语料里 the label 一律指厂牌。已改为「唱片厂牌在媒体上挨骂的报道」 |
+| 原句 7「她在公开场合撒了一个谎」与总结「戳穿 Willow 临时编造的论文题目」矛盾 | **假红，改判** | 回原文核（`ch52:9600–9950`）：临场说的 `‘The Hundred Years War.’` 才是编的，Instagram 帖上的「feminist history of herbal remedies」才是真的。md 两句方向一致，**不矛盾**，md 不改 |
+| 漏：全书结局定性（指纹、两项谋杀加一项误杀）无引语承载 | **阻断（漏），确认** | 已把与机器人重复的那一块换成结尾对话：Matt 讲 Andy 的认罪（`‘She did it all,’ … `）——并补上检方口径「两项谋杀加一项误杀、六十多岁才出狱」（`ch52:18600–19120`）。一句话总结也补了顺序（逮捕 → 父子走向地铁 → Andy 认罪 → 检方定性）与 Andy 那份认罪是「想替她背下来」这层 |
+| 提示 14 条（时序、分节符歧义等） | 提示，记不改 | 多为「比原文多解释半句」的评析类，按 AGENTS 第 3 条「提示型只记不改」处理 |
+| 「机器 `pos:0` 空串恒真」被记为假红 | 假红，确认 | 审查员自查发现的工具口径问题，与 md 无关；不写 scripts/（他实例正在重构脚本族） |
