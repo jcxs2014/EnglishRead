@@ -56,17 +56,7 @@ source_text: ch52
 
 **读者视角提示**：数一数这里的层次：石架、层层堆叠、不断出现的新头骨。堆放的方式本身就在讲一个问题——这些尸骨是被当作东西来摆放的。
 
-> **原句 5:** "‘She did it all,’ Matt said. ‘Andy’s confessed to Scott’s death and to being there for Jimmy’s out of guilt, but none of the causes of death were accurate. He knew about the deaths though. He’s trying to take the blame for her.’"
-
-**中文理解**：Willow 始终不肯开口；Matt 把话说清：事情全是她做的，Andy 认下了 Scott 的死、也认下自己在场 Jimmy 那边，可那些死因一条都不准——他知道这些命案，只是想替她把罪名揽过去。
-
-**关键词**：confessed / guilt / take the blame
-
-**为什么这样写**：这一段把两个「认罪」拆开：一个是想当英雄的假认罪，一个是不肯开口的真沉默。作者让 Matt 平静地讲出差别（「none of the causes of death were accurate」），把这份自以为高尚的自我牺牲降格成无效的补救；紧跟着 Robbie 摊开指纹与检方口径，把最终定性交回制度——情感上想赎罪与法律上怎么判，两条线在这里分开。
-
-**读者视角提示**：Andy 的认罪在死因上被逐条证伪，却在指纹上被证实他到过现场；这两件事同时成立，才是这一章结尾真正要读者自己拼起来的那一块。
-
-> **原句 6:** "‘I got a call from DC Noakes that they’d found a brooch of mine in the Institute. It must have fallen off when I was working. She said I should come and retrieve it?’"
+> **原句 5:** "‘I got a call from DC Noakes that they’d found a brooch of mine in the Institute. It must have fallen off when I was working. She said I should come and retrieve it?’"
 
 **中文理解**：她说接到 DC Noakes 的电话，说在博物馆里发现了她的一枚胸针，大概是她工作时掉的，让她过去取一下。
 
@@ -76,7 +66,7 @@ source_text: ch52
 
 **读者视角提示**：注意“她为什么偏偏现在来”这一层：她不是来拿胸针的，她是来确认地下已经被挖开了。
 
-> **原句 7:** "‘Is it?’ Amy asked. ‘I thought it was a feminist history of herbal remedies used in England between 1300 and 1500? That’s what you said on an Instagram post three months ago.’"
+> **原句 6:** "‘Is it?’ Amy asked. ‘I thought it was a feminist history of herbal remedies used in England between 1300 and 1500? That’s what you said on an Instagram post three months ago.’"
 
 **中文理解**：Amy 问：「是吗？」她记得的却是：1300 到 1500 年间英格兰草药疗法的女性主义史——那是你三个月前在一条 Instagram 帖子里自己说的。
 
@@ -86,7 +76,7 @@ source_text: ch52
 
 **读者视角提示**：留意“三个月前”这三个字。Willow 之所以露馅，是因为她在公开场合撒了一个谎，帖子替她记着账。
 
-> **原句 8:** "‘Runner,’ Amy yelled as she shot after Willow who had turned away ready to sprint. She didn’t get far."
+> **原句 7:** "‘Runner,’ Amy yelled as she shot after Willow who had turned away ready to sprint. She didn’t get far."
 
 **中文理解**：Amy 喊了一声“跑！”就冲了出去，Willow 已经转身准备撒腿，跑不了多远。
 
@@ -96,7 +86,7 @@ source_text: ch52
 
 **读者视角提示**：她转身的那一刻就已经暴露了：心虚的人才会跑，而心虚本身就是可以呈堂的证据。
 
-> **原句 9:** "‘Willow Bell, I am arresting you for the murders of Digby Combe-Watson and Scott Brown.’ Robbie stood over the twenty-year-old. ‘You do not have to say anything …’"
+> **原句 8:** "‘Willow Bell, I am arresting you for the murders of Digby Combe-Watson and Scott Brown.’ Robbie stood over the twenty-year-old. ‘You do not have to say anything …’"
 
 **中文理解**：Robbie 站在这个二十岁的姑娘上方说：「Willow Bell，我以谋杀 Digby Combe-Watson 与 Scott Brown 的罪名逮捕你。你不必说任何话……」
 
@@ -106,7 +96,7 @@ source_text: ch52
 
 **读者视角提示**：把“两起谋杀”这个数字记住——警方的初步认定是两条命，而随后 Andy 的认罪会被并进同一盘账里。
 
-> **原句 10:** "‘Forensics found the paper cup late last night with Scott’s address on from the rubbish we collected from the bakery. It had Willow’s prints on it,’ Amy said. She patted Caius on the shoulder. ‘I’m sure she’ll say she did it for love.’"
+> **原句 9:** "‘Forensics found the paper cup late last night with Scott’s address on from the rubbish we collected from the bakery. It had Willow’s prints on it,’ Amy said. She patted Caius on the shoulder. ‘I’m sure she’ll say she did it for love.’"
 
 **中文理解**：Amy 说：法证昨晚很晚才在从面包店收来的垃圾里找到那个纸杯，上面写着 Scott 的地址，杯子上有 Willow 的指纹。她拍了拍 Caius 的肩膀：「我敢肯定，她会说这是为爱而做。」
 
@@ -115,6 +105,16 @@ source_text: ch52
 **为什么这样写**：物证的说服力全在一个“不体面”的载体上：一只被扔进垃圾的纸杯，指纹把人和地址连在一起，把“她碰过那个地址”变成可以检验的事实。而 Amy 最后那句“为爱”把动机的解释权先划给凶手自己——她预告了接下来审讯会出现的说辞，也把读者的注意力从“是不是她干的”推到“她会怎么说”。
 
 **读者视角提示**：注意证据搜集的路径：垃圾是面包店收来的，纸杯是当晚才被找到的——也就是说结论不是靠抓人现场问出来的，是靠从面包店收来的那批垃圾慢慢拼出来的。
+
+> **原句 10:** "‘She did it all,’ Matt said. ‘Andy’s confessed to Scott’s death and to being there for Jimmy’s out of guilt, but none of the causes of death were accurate. He knew about the deaths though. He’s trying to take the blame for her.’"
+
+**中文理解**：Willow 始终不肯开口；Matt 把话说清：事情全是她做的，Andy 认下了 Scott 的死、也认下自己在场 Jimmy 那边，可那些死因一条都不准——他知道这些命案，只是想替她把罪名揽过去。
+
+**关键词**：confessed / guilt / take the blame
+
+**为什么这样写**：这一段把两个「认罪」拆开：一个是想当英雄的假认罪，一个是不肯开口的真沉默。作者让 Matt 平静地讲出差别（「none of the causes of death were accurate」），把这份自以为高尚的自我牺牲降格成无效的补救；紧跟着 Robbie 摊开指纹与检方口径，把最终定性交回制度——情感上想赎罪与法律上怎么判，两条线在这里分开。
+
+**读者视角提示**：Andy 的认罪在死因上被逐条证伪，却在指纹上被证实他到过现场；这两件事同时成立，才是这一章结尾真正要读者自己拼起来的那一块。
 
 ## 本章词汇
 

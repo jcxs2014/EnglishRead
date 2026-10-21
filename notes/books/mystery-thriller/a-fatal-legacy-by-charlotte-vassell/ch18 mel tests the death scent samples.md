@@ -16,7 +16,7 @@ source_text: ch18
 
 ## 精读
 
-> **原句 1:** "There were death-scented perfumes, over-ripe peach-flavoured lip oils, highly pigmented cream blushes, powder highlighters that shone like the blood moon, lipsticks that made your pout juicy enough to bite, a tubing mascara in five wacky shades that promised to make your lashes look like spider legs and eyeshadow palettes whose colour story were inspired by the world’s most deadly creatures."
+> **原句 1:** "‘PCQV have sent over samples for you to try,’ Mel said, gesturing at the forty-odd products neatly arranged by type. There were death-scented perfumes, over-ripe peach-flavoured lip oils, highly pigmented cream blushes, powder highlighters that shone like the blood moon, lipsticks that made your pout juicy enough to bite, a tubing mascara in five wacky shades that promised to make your lashes look like spider legs and eyeshadow palettes whose colour story were inspired by the world’s most deadly creatures."
 
 **中文理解**：这一串是 Mel 摊在餐桌上的样品：带死亡气味的香水、熟过头桃子味的润唇油、颜色浓得发暗的霜状腮红、像血月一样发亮的高光、涂上去水润到能咬一口的唇膏、五种怪色号的纤长睫毛膏，还有一整盘取材于世上致命生物的眼影。作者不写广告词，而把"死亡"一路搬进化妆品里。
 **关键词**：death-scented / blood moon / deadly creatures
@@ -44,7 +44,7 @@ source_text: ch18
 **为什么这样写**：作者用上下两层楼的空间把姐妹俩分开：妹妹在楼上追逐灵感与刺激，姐姐在楼下处理电话与杂务。同一套化妆品，在这两个人手里分别是作品和生意。
 **读者视角提示**：Mel 说"manage everything else"时的那份平静，是她把所有麻烦都揽到自己身上的姿态。
 
-> **原句 5:** "She was thrilled with everything you sent over. Loved it all. I’ll email over the final choices, but yeah she picked everything I said, sorry, I mean everything I thought she would. Yes … let’s finalise the meeting. You know Calliope Foster? Yeah, yeah, so lovely. Milliner, but did a lot of fashion editorial a decade ago. Oh you know her personally. You’re old friends. Small world. She’s working with Eulalia on concepts. They’ve really gelled.’ Mel smiled as she spoke; it hid her true feelings. She wasn’t comfortable with an outsider being so close to the process, so close to their mutually held deceit."
+> **原句 5:** "‘Hey, Venetia, it’s Mel.’ She disliked speaking to Venetia. She found it hard to maintain her new accent around someone who spoke in such a heightened way. ‘From Eulalia’s team. She was thrilled with everything you sent over. Loved it all. I’ll email over the final choices, but yeah she picked everything I said, sorry, I mean everything I thought she would. Yes … let’s finalise the meeting. You know Calliope Foster? Yeah, yeah, so lovely. Milliner, but did a lot of fashion editorial a decade ago. Oh you know her personally. You’re old friends. Small world. She’s working with Eulalia on concepts. They’ve really gelled.’ Mel smiled as she spoke; it hid her true feelings. She wasn’t comfortable with an outsider being so close to the process, so close to their mutually held deceit."
 
 **中文理解**：电话那头是 Venetia——样品正是从她那边送来的。Mel 报出"从 Eulalia 团队打来"，说妹妹对送来的样品全都喜欢；紧接着她顺手把"她挑的全是我说的"改成"她挑的全是我以为她会挑的"，一句自我更正把漏洞圆了过去。话题转到 Calliope Foster，Mel 用一串不相干的履历（旧日做过时装编辑、你们是旧相识）把人接住，再甩一句"她们很合拍"带过；说话时她在笑，而这份笑遮住了真心话——她不愿意让外人靠这套流程、靠她们共同的隐瞒太近。
 **关键词**：final choices / Calliope Foster / mutually held deceit
@@ -53,7 +53,7 @@ source_text: ch18
 
 > **原句 6:** "Between you and me, we all just need to listen to the presentation and nod along, telling Eulalia she’s a genius. I think realistically what you’ll end up incorporating is a font or a colourway, you know. Artists huh. Great chat.’ Mel ended the call and smiled to herself. She was pulling it off."
 
-**中文理解**：临挂电话前，Mel 把 Venetia 拉进伙：接下来只要听演示、点头，再告诉 Eulalia 她是天才就行；她私下把结果说破——真落进彩妆线的，多半不过是一个字体或一套配色。"艺术家嘛。聊得开心。"电话挂断，她对自己笑了笑：她演成了。
+**中文理解**：临挂电话前，Mel 把电话那头的同事拉进伙：接下来只要听演示、点头，再告诉 Eulalia 她是天才就行；她私下把结果说破——真落进彩妆线的，多半不过是一个字体或一套配色。"艺术家嘛。聊得开心。"电话挂断，她对自己笑了笑：她演成了。
 **关键词**：presentation / genius / pulling it off
 **为什么这样写**：这段是 Mel 的收尾，两句话一褒一贬：把仪式说成"点头"和"夸天才"，再把成果压缩成字体与配色。对着电话她许的是姿态，私下认定的是结果；作者用这种口是心非把她的位置摆清——她替两边跑腿，两边也都被她牵着走。
 **读者视角提示**："presentation"与"genius"是同一套话术的两副面孔：Mel 让对方点头、夸姐姐是天才，心里清楚这一整套姿态只有自己在经营。

@@ -58,7 +58,7 @@ source_text: ch40
 **为什么这样写**：一句极轻的坦白，读者却立刻明白"难受"指什么：他手上有真案子，历史对他不是知识，而是刑案现场的延伸。作者把自我诊断写成三个随口的短句，像顺口说出，却也是他这一章里少有的一次对自己状态的准确交代。
 **读者视角提示**：那句"less upsetting"是他在家里心不在焉的根——他不是读不进书，是不敢再碰真的东西。
 
-> **原句 7:** "It was odd to watch someone else turn into a teenager around their parents. She had thought that was just her, but perhaps it was a universal phenomenon."
+> **原句 7:** "‘Thanks, Bridget,’ Callie said, getting out of the chair. ‘That’s very kind of you.’ It was odd to watch someone else turn into a teenager around their parents. She had thought that was just her, but perhaps it was a universal phenomenon."
 
 **中文理解**：Callie 看着凯厄斯在自己父母面前变回一个被管束的少年，觉得新奇——她原以为这只是自己的毛病，也许这是普遍现象。
 **关键词**：teenager / parents / phenomenon

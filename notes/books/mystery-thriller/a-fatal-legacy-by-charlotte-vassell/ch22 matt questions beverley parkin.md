@@ -28,7 +28,7 @@ source_text: ch22
 **为什么这样写**：她一面说「我什么都没注意到」，一面又主动把丢卡这件旧事翻出来——这一段等于由她自己认下了「受害者」这个位置，Matt 后面那句「跟银行说」才有来处。
 **读者视角提示**：注意她讲话的顺序：先否认、再回想、再自我安慰；她讲的每一步都像在跟丈夫交代，而不是在跟警察作证。
 
-> **原句 3:** "There was a graduation photo of a young woman on the mantlepiece. There was nothing remarkable about it other than the girl’s spectacular plainness that she had tried to hide under a chunky fringe and a layer of caked-on make-up that didn’t match the colour of her neck."
+> **原句 3:** "‘Right,’ Matt said. He took another look around the room. There was a graduation photo of a young woman on the mantlepiece. There was nothing remarkable about it other than the girl’s spectacular plainness that she had tried to hide under a chunky fringe and a layer of caked-on make-up that didn’t match the colour of her neck."
 **中文理解**：Matt 环顾房间，视线落在壁炉架上一张年轻女子的毕业照上；照片里没什么出奇之处，除了那姑娘惊人的平凡——她用厚重刘海和不搭颈色的浓妆遮过这张脸，母亲年轻时应当是秀气的，这姑娘大概随了她那位面团似的父亲。
 **关键词**：mantlepiece / spectacular plainness / caked-on make-up
 **为什么这样写**：这是本章里 Matt 记下、屋主一句没提的东西：一个搬去伦敦的女儿，一张放在客厅壁炉架上的毕业照，一个不漂亮也不打眼的女孩。作者把「普通」写得极具体，具体到化妆的颜色和脖子对不上。

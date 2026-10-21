@@ -16,7 +16,7 @@ source_text: ch07
 
 ## 精读
 
-> **原句 1:** "The quality wasn’t bad, it was just from so far away. He’d zoomed in and could at least see the general outline of who was passing along that side of the square. Their height, build, anything particular they might have been wearing or carrying would all be ascertainable."
+> **原句 1:** "He started playing Matt’s most exulted jungle playlist and pressed play on the doorbell cam footage from across the square. The quality wasn’t bad, it was just from so far away. He’d zoomed in and could at least see the general outline of who was passing along that side of the square. Their height, build, anything particular they might have been wearing or carrying would all be ascertainable."
 
 **中文理解**：Caius 把广场对面那台门口摄像头的录像调出来放大看，他的评价是画质不差，只是离得太远；他能看清的只有路过者的整体轮廓——身高、体型，以及对方身上穿着或带着什么显眼的东西。
 **关键词**：outline / ascertainable / zoomed
@@ -72,7 +72,7 @@ source_text: ch07
 **为什么这样写**：这是全章推理的转折点——外貌模仿本该是伪装，到了监控底下却成了招摇。同时用"另外十个人不再优先"提醒读者：同一份录像里塞满了既像又不太像的身影，取舍本身就是一次判断。
 **读者视角提示**：把"十个被搁置的截图"记下来：同一份录像里，取舍本身就是一次判断。
 
-> **原句 9:** "‘Maybe they thought they were in disguise and hadn’t thought that far ahead. If someone was watching the house, say a neighbour or one of the protestors outside, they would probably just see a dark bob and giant cardigan. There’s the height difference, but if you glanced across from the square you might reasonably dismiss them as Willow putting in a late shift. Isolde must have been watching the Institute for a while.’"
+> **原句 9:** "‘I’m not sure.’ Caius didn’t think that Willow was the sort of person to inspire a vendetta, just the odd eyeroll. ‘Maybe they thought they were in disguise and hadn’t thought that far ahead. If someone was watching the house, say a neighbour or one of the protestors outside, they would probably just see a dark bob and giant cardigan. There’s the height difference, but if you glanced across from the square you might reasonably dismiss them as Willow putting in a late shift. Isolde must have been watching the Institute for a while.’"
 
 **中文理解**：Caius 说，也许对方以为自己装扮过、没考虑到那么远：如果有人盯着那栋房子——比如邻居，或门外那些抗议者——他们多半只会看到一个深色齐耳短发和一件宽大开衫。虽有身高差，可从广场对面扫一眼的人完全可能把对方当成 Willow 在加晚班。Isolde 一定已经盯了这间研究所很久。
 **关键词**：disguise / dismiss / height difference

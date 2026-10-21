@@ -16,7 +16,7 @@ source_text: ch16
 
 ## 精读
 
-> **原句 1:** "‘In good news, there are only ten Isoldes in the entire UK. One is in a nursing home in Surrey. Seven are in primary school within either Chelsea, Fulham, Putney or Chiswick. Names have geo-social currency, I guess.’ He paused for a moment as he considered baby names before getting back on track. ‘That leaves one each for me and you.’"
+> **原句 1:** "Caius swung around on his desk chair. ‘In good news, there are only ten Isoldes in the entire UK. One is in a nursing home in Surrey. Seven are in primary school within either Chelsea, Fulham, Putney or Chiswick. Names have geo-social currency, I guess.’ He paused for a moment as he considered baby names before getting back on track. ‘That leaves one each for me and you.’"
 
 **中文理解**：Caius 说，全英国叫 Isolde 的人只有十个：一个在萨里郡的养老院，七个在上小学，都在切尔西、富勒姆、普特尼或奇斯威克那一带；名字这种东西是带地域与社会属性的流通货币。他停下来想了一下婴儿取名，才接回正题：那就只剩你和我各一个了。
 **关键词**：geo-social / currency / Isoldes

@@ -44,7 +44,7 @@ source_text: ch33
 **为什么这样写**：这几句把「缺失」从意外变成了有来历的缺失——它不是丢了，而是被人特意从序列里拿出去、锁起来，还立下禁令。作者借转述者的口吻给出家族传说，读者由此明白这一卷在康姆家内部早就是禁忌；而正因为它被藏起来，它才可能被人盯上。
 **读者视角提示**：注意「锁在迪吉书桌里」这个地点——搜查时是否翻过那个抽屉，是本章必须核对的一处关节。
 
-> **原句 5:** "It’s weird. It’s all gibberish about communing with the dead and orgies. There were diagrams. I didn’t transcribe those."
+> **原句 5:** "‘Yeah. It’s weird. It’s all gibberish about communing with the dead and orgies. There were diagrams. I didn’t transcribe those."
 
 **中文理解**：Willow 说第二十二卷的内容很怪，通篇是与亡灵沟通和群交的胡话，还配着图；那些图她没有誊下来，只是拍了几张发给几个女孩。
 **关键词**：gibberish / communing / diagrams
