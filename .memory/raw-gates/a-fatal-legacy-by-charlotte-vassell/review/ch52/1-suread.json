@@ -1,0 +1,598 @@
+{
+  "chapter": "ch52",
+  "book": "a-fatal-legacy-by-charlotte-vassell",
+  "source_file": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch52_52.txt",
+  "source_chars": 19016,
+  "source_bytes": 20009,
+  "source_lines": 481,
+  "offset_unit": "python str index (UTF-8 code points), 0-based, half-open [start, end)",
+  "read_order": "R1 素读：只读 text/ch52_52.txt，未打开本章 md，未看其他章 md",
+  "chapter_title_line": "Priory Square（源文件第 17 行，位于两处 '52' 之后）",
+  "section_breaks": [
+    {
+      "mark": "* * *",
+      "offset": 16499,
+      "note": "第一处分隔线，切到 Andy 单独审讯室"
+    },
+    {
+      "mark": "* * *",
+      "offset": 18201,
+      "note": "第二处分隔线，切到三人组在各自审讯室外的走廊"
+    }
+  ],
+  "events": [
+    {
+      "id": "E0",
+      "who": "（章首定位）",
+      "what": "源文开头出现两处 '52'（偏移 0 与 12），随后小标题 'Priory Square'（偏移 20）",
+      "quote": "Priory Square",
+      "range": [
+        0,
+        32
+      ],
+      "anchor_ranges": {
+        "chapter_num": [
+          0,
+          2
+        ],
+        "title": [
+          20,
+          32
+        ]
+      }
+    },
+    {
+      "id": "E1",
+      "who": "Marcus（父亲，对话中被称为 Sir Marcus）",
+      "what": "与儿子 Caius 坐在 Priory Square 的「feminist blob statue」前闲聊；递给 Caius 一杯刚在 The Purple Toad 买的咖啡和开心果可颂；自己拿了一个甜点，并要 Caius 别告诉妻子自己「supposed to be watching my sugar intake」",
+      "quote": "‘Coffee?’ Caius handed his father a cup he’d purchased minutes before from The Purple Toad. … ‘Don’t mind if I do,’ Marcus said, helping himself to a pastry. ‘Don’t tell your mother. I’m supposed to be watching my sugar intake.’",
+      "range": [
+        270,
+        501
+      ],
+      "anchor_ranges": {
+        "coffee_cup": [
+          270,
+          309
+        ],
+        "pastry_sugar": [
+          439,
+          501
+        ]
+      }
+    },
+    {
+      "id": "E2",
+      "who": "Marcus",
+      "what": "说他已经知道订婚戒指的事（消息来自 family office 某人），给 Caius 看照片；说有些戒指「valued too highly to actually wear」；不想让 Callie 戴太贵的（会被抢）；给出 ruby / sapphire / emerald 三选一的意见，并说只要提前一周告知他就弄到",
+      "quote": "‘I found out about the engagement rings, by the way.’ … Marcus showed him the pictures he’d been sent from someone in the family office. ‘A few are valued too highly to actually wear.’ … ‘I don’t want Callie walking around with something too expensive. Women get mugged for their engagement rings more often than you’d think.’",
+      "range": [
+        597,
+        1327
+      ],
+      "anchor_ranges": {
+        "rings_topic": [
+          597,
+          650
+        ],
+        "family_office": [
+          666,
+          745
+        ],
+        "mugged": [
+          797,
+          862
+        ],
+        "sapphire": [
+          1124,
+          1215
+        ],
+        "week_advance": [
+          1288,
+          1327
+        ]
+      }
+    },
+    {
+      "id": "E3",
+      "who": "Marcus",
+      "what": "向 Caius 展示长椅上的三个包裹：full face masks（防毒面具），「One each for you, me and Matt in case they want us to crawl past any dead nuns」；被 Caius 说「you're really hung up on the nun thing」，Marcus 反驳「There’s a bloody hand down there, Caius」",
+      "quote": "‘Full face masks. They can cope with everything, including asbestos. One each for you, me and Matt in case they want us to crawl past any dead nuns.’ … ‘There’s a bloody hand down there, Caius.’",
+      "range": [
+        1455,
+        1710
+      ],
+      "anchor_ranges": {
+        "masks": [
+          1455,
+          1523
+        ],
+        "hand": [
+          1668,
+          1710
+        ]
+      }
+    },
+    {
+      "id": "E4",
+      "who": "Andy（自称 Professor Andrew Clifton，历史学家）",
+      "what": "走近并与 Marcus 握手；自称都铎时代专家，写过六篇关于这 hundred acres 历史的文章；听说已挖出人类遗骸后追问地点；Caius 告知是 Horatio Combe 及其追随者在降神会（seances）中用过那只断手；Andy 说「How bizarre」；Marcus 吐槽维多利亚时代的人迷恋标本；Caius 提到研究所里的袋鼠是斜眼的，Andy 反应漠不关心",
+      "quote": "‘This is Professor Andrew Clifton,’ Caius said to his father. … ‘Yes, I suppose I am rather the expert on the Tudor era. I’ve written six articles about the history of these hundred acres as well, did you know?’ … ‘It appears that Horatio Combe and his followers were using it during seances,’ Caius said.",
+      "range": [
+        2126,
+        3342
+      ],
+      "anchor_ranges": {
+        "clifton_name": [
+          2126,
+          2187
+        ],
+        "six_articles": [
+          2350,
+          2416
+        ],
+        "seances": [
+          2901,
+          2992
+        ],
+        "kangaroo": [
+          3284,
+          3342
+        ]
+      }
+    },
+    {
+      "id": "E5",
+      "who": "Robbie（电话）/ Marcus / Margot Bourne / Matt / Amy",
+      "what": "Marcus 接到 Robbie 的电话说他们准备好了；三人走到 Horatio Combe Institute 门口，Marcus 说这楼「letting the square down」；女声即邻居 Margot Bourne 出现，叫 Caius「detective」、要他叫自己 Margot；她说「I guess that’s the end of the museum then」；Caius 解释她是邻居、想买下研究所扩建；Andy 对她不屑（exasperated sound）",
+      "quote": "‘That was that Robbie. They’re ready for us.’ … ‘Miss Bourne,’ Caius said … ‘Call me Margot.’ … ‘The neighbour. She wanted to buy the Institute so she could extend.’",
+      "range": [
+        3535,
+        4688
+      ],
+      "anchor_ranges": {
+        "robbie_call": [
+          3535,
+          3580
+        ],
+        "square_down": [
+          3702,
+          3733
+        ],
+        "call_me_margot": [
+          3986,
+          4000
+        ],
+        "end_of_museum": [
+          4152,
+          4196
+        ],
+        "neighbour_buy": [
+          4619,
+          4688
+        ]
+      }
+    },
+    {
+      "id": "E6",
+      "who": "Matt / Amy / Caius / Marcus",
+      "what": "Matt 和 Amy 走出研究所；Matt 报告：法医在下面架设机器人，另一块石板看起来可疑，有第二条隧道；Marcus 开玩笑问是不是第二批死修女；Matt 低声告诉 Caius：Mel 脱离危险（需长期康复）、Jen 已被 sectioned（保安行动）、他查看了他们家的监控录像——正如所料；Caius 提到 DJ Sonikk 又做了一次采访、那个「label」在媒体上挨批",
+      "quote": "‘Forensics are down there setting up the robot and another flagstone looked dodgy. There’s a second tunnel.’ … ‘Mel’s pulled through,’ Matt said quietly. ‘She will need to go through a fair bit of rehab to get moving again. Jen’s been sectioned. I’ve checked the security footage from their house – as expected.’",
+      "range": [
+        5178,
+        6087
+      ],
+      "anchor_ranges": {
+        "second_tunnel": [
+          5178,
+          5286
+        ],
+        "mel": [
+          5704,
+          5746
+        ],
+        "jen": [
+          5817,
+          5838
+        ],
+        "footage": [
+          5839,
+          5904
+        ],
+        "sonikk": [
+          6056,
+          6087
+        ]
+      }
+    },
+    {
+      "id": "E7",
+      "who": "Matt / Amy / Andy / Caius / Marcus",
+      "what": "众人从面包车屏幕上看机器人进入墓穴：洞穴般宽敞，石架上层层堆着骸骨；Andy 狂喜，说这是晚期中世纪英国教 burial 惯例的「time capsule」；机器人随后进入第二条隧道（比第一条更长）；Amy 在屏幕上看到一幅蠕虫/蛇的画，Andy 认出是伊甸园之蛇、正对应 Horatio 日志；Andy 称 Caius 家族是 Recusants（ recusant 遗教者）、宅子里到处是 priest holes，为保护宗教器物在拆 priory 前先把它们埋了，还推测藏着书（可能是 Alice de Burge 文本的完整本，英国图书馆会疯狂）；Caius 说家里没这传统，Marcus 则叫人来接管并说这是国家的财产",
+      "quote": "‘It was cavernous. Skeletal remains were piled high on stone shelves. Body on top of body on top of body.’ … ‘It’s the snake in the Garden of Eden. That’s what Horatio meant in his journal,’ Andy said. … ‘Your family were Recusants.’ … ‘What if there’s a copy of Alice de Burge’s text.’",
+      "range": [
+        6409,
+        8392
+      ],
+      "anchor_ranges": {
+        "cavernous": [
+          6409,
+          6477
+        ],
+        "time_capsule": [
+          6665,
+          6742
+        ],
+        "longer_tunnel": [
+          7133,
+          7166
+        ],
+        "eden_snake": [
+          7298,
+          7390
+        ],
+        "recusants": [
+          7459,
+          7488
+        ],
+        "agnes": [
+          7809,
+          7872
+        ],
+        "alice_de_burge": [
+          8021,
+          8069
+        ],
+        "english_heritage": [
+          8353,
+          8392
+        ]
+      }
+    },
+    {
+      "id": "E8",
+      "who": "Willow / Caius / Amy / Andy / Robbie / Matt",
+      "what": "Amy 借走 Robbie；Willow 出现在 Caius 身后，说接到 DC Noakes 的电话、他们在研究所发现了她的胸针（可能是工作时掉的），让她来取；Caius 说要找 DI Eastley；Amy 问她的论文题目，Willow 说「The Hundred Years War」，Amy 揭穿她三个月前在 Instagram 说的是「feminist history of herbal remedies used in England between 1300 and 1500」；Caius 指出「They’re sleeping together」（指 Willow 与 Andy）；Amy 喊「Runner」追 Willow，但没跑多远；Robbie 宣布以谋杀 Digby Combe-Watson 与 Scott Brown 逮捕 Willow Bell；Matt 把 Andy 带上警车；Amy 告诉 Caius：法医昨夜晚些时候从面包店垃圾里回收的废物中找到了写有 Scott 住址的纸杯，上面有 Willow 的指纹；Amy 说「I’m sure she’ll say she did it for love」",
+      "quote": "‘I got a call from DC Noakes that they’d found a brooch of mine in the Institute. It must have fallen off when I was working.’ … ‘Willow Bell, I am arresting you for the murders of Digby Combe-Watson and Scott Brown.’ … ‘Forensics found the paper cup late last night with Scott’s address on from the rubbish we collected from the bakery. It had Willow’s prints on it,’ Amy said.",
+      "range": [
+        9077,
+        10827
+      ],
+      "anchor_ranges": {
+        "brooch": [
+          9077,
+          9158
+        ],
+        "eastley": [
+          9326,
+          9374
+        ],
+        "dissertation_q": [
+          9658,
+          9708
+        ],
+        "hundred_years": [
+          9757,
+          9781
+        ],
+        "instagram": [
+          9805,
+          9898
+        ],
+        "sleeping_together": [
+          9997,
+          10066
+        ],
+        "runner": [
+          10099,
+          10119
+        ],
+        "arrest": [
+          10204,
+          10292
+        ],
+        "andy_to_car": [
+          10370,
+          10431
+        ],
+        "paper_cup": [
+          10594,
+          10663
+        ],
+        "for_love": [
+          10787,
+          10827
+        ]
+      }
+    },
+    {
+      "id": "E9",
+      "who": "Caius（对父亲 Marcus 讲）",
+      "what": "父子上地铁路上，Caius 交代 Andy 的情况：他在跟自己的学生（Willow）交往，为她甩掉了交往十年的女友，还和前女友保持友好（代浇花、留备用钥匙）；他细说作案逻辑：Willow 在研究所实习，因为男友是权威而知道地下埋着东西，也知道她老板 Digby 要卖研究所（可能卖给 Margot）；Willow 在转录老板祖先 Horatio 的疯狂日记；她策划用假身份 Isolde——Caius 的推论是她伪造了 LRB 上的交友广告、并可能帮 Digby 校对广告，还因为担心 Andy 回头而把 Isolde 变成警示；她下毒沙拉，在见面当天趁「取忘带的书」进过办公室；Andy 当晚从后巷去找被无视的 Digby，巷子里没有摄像头且自行车不上锁；Digby 若同意开挖就不会吃下毒沙拉，因为「he's tight」；Willow 用 Jen 的笔记本电脑买 PO Box，并把「假失踪日记」伪装成粉丝来信寄到 Jen 家；Caius 还推断她拉拢了一个住在广场上的易受影响的年轻女子（Isolde）来搜其地下室",
+      "quote": "‘That historian, he’s seeing the girl.’ … ‘Willow, the kid, interns at the Institute and she knows a few things.’ … ‘I think Andy was really pissed off with Willow that she roped Isolde into the whole mess, hence why she had to start incriminating Jen.’",
+      "range": [
+        12142,
+        15941
+      ],
+      "anchor_ranges": {
+        "seeing_the_girl": [
+          12142,
+          12181
+        ],
+        "ten_years": [
+          12223,
+          12267
+        ],
+        "interns": [
+          12473,
+          12543
+        ],
+        "stupid_reason": [
+          13591,
+          13630
+        ],
+        "complicated_method": [
+          13786,
+          13819
+        ],
+        "how_you_get_them": [
+          14665,
+          14705
+        ],
+        "isolde_key": [
+          14708,
+          14752
+        ],
+        "not_good_looking": [
+          14998,
+          15038
+        ],
+        "coffee_shop": [
+          15076,
+          15129
+        ],
+        "basements_po_box": [
+          15429,
+          15489
+        ],
+        "po_box": [
+          15935,
+          15941
+        ]
+      }
+    },
+    {
+      "id": "E10",
+      "who": "Andy（受审）/ Robbie / Matt",
+      "what": "Andy 崩溃招认：「I killed the creepy boy」，说必须杀、Willow 给了他地址、他用刀捅了对方（脖子）；他强调「Issy」（Isolde）与此完全无关，说「It was worth it. Imagine if what we saw today had been destroyed」；他承认破门而入（break-ins）是自己干的；对追踪者被栅栏柱刺穿致死一事称是自己追出去、对方被吓到摔倒，属意外；对「沙拉」一问哑口无言；Robbie 反问是不是 Willow 那天下午进屋时下的毒，并指出 Willow 知道「Isolde」不会出现、知道 Digby 因为手紧会照吃不误（不扔掉），Robbie 追问 Willow 是否利用她研究中的 Isolde 作灵感、是否从一开始就打算杀 Digby、是否因为 Andy 的信被无视才动手以获得进入研究所的机会",
+      "quote": "‘I killed the creepy boy,’ Andy said. … ‘Issy had nothing to do with any of this. Nothing at all.’ … ‘That was me.’ … ‘Or did Willow spike it when she popped in that afternoon?’",
+      "range": [
+        16509,
+        17403
+      ],
+      "anchor_ranges": {
+        "killed_creepy_boy": [
+          16509,
+          16546
+        ],
+        "in_the_neck": [
+          16732,
+          16746
+        ],
+        "issy_nothing": [
+          16773,
+          16831
+        ],
+        "break_ins_me": [
+          17053,
+          17067
+        ],
+        "fence_accident": [
+          17143,
+          17219
+        ],
+        "and_the_salad": [
+          17222,
+          17252
+        ],
+        "or_did_willow": [
+          17346,
+          17403
+        ]
+      }
+    },
+    {
+      "id": "E11",
+      "who": "Amy / Matt / Robbie",
+      "what": "三人组在各自审讯室外的走廊：Amy 说 Willow 拒绝开口；Matt 说「She did it all」——Andy 已供认 Scott 之死、并出于愧疚承认自己在 Jimmy 案现场，但所有死因判断都不准，他知情却想替她顶罪；Amy 说「He thinks he’s being noble」；Matt 说「He’s a historian. He thinks he’s above the fray」；Robbie 说研究所的局部指纹已确认是 Andy 的，CPS 决定起诉什么，但 Willow 必定是两项谋杀罪加一项误杀罪、到六十多岁都出不了狱",
+      "quote": "‘She did it all,’ Matt said. ‘Andy’s confessed to Scott’s death and to being there for Jimmy’s out of guilt, but none of the causes of death were accurate. He knew about the deaths though. He’s trying to take the blame for her.’ … ‘we’ve confirmed that the partial fingerprints at the Institute are his,’ Robbie said … ‘she is definitely getting two accounts of murder and one of manslaughter.’",
+      "range": [
+        18211,
+        19013
+      ],
+      "anchor_ranges": {
+        "refusing": [
+          18211,
+          18248
+        ],
+        "she_did_it_all": [
+          18378,
+          18406
+        ],
+        "fingerprints": [
+          18764,
+          18813
+        ],
+        "charges": [
+          18890,
+          18962
+        ],
+        "sixties": [
+          18987,
+          19013
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "a": "Caius",
+      "b": "Marcus",
+      "rel": "父子；Marcus 被称 Sir Marcus，有 family office 与 legal team；Caius 的未婚妻是 Callie"
+    },
+    {
+      "a": "Caius",
+      "b": "Callie",
+      "rel": "订婚中（Caius 与 Marcus 讨论订婚戒指）"
+    },
+    {
+      "a": "Marcus",
+      "b": "Callie",
+      "rel": "岳母/准公公视角：Marcus 说 Callie 会想要比钻石更特别的东西，蓝宝石更合她风格"
+    },
+    {
+      "a": "Andy (Prof. Andrew Clifton)",
+      "b": "Marcus",
+      "rel": "新结识；Marcus 称他 Sir 级别般地被称『expert historian』并吐槽他写的六篇 Tudor 史文章"
+    },
+    {
+      "a": "Andy",
+      "b": "Willow",
+      "rel": "师生/恋人：Andy 是她的导师（tutee、student），Caius 当众断言『They’re sleeping together』，Andy 装作震惊；Andy 说 Willow 给了他被杀者的地址"
+    },
+    {
+      "a": "Andy",
+      "b": "Isolde / Issy",
+      "rel": "前女友，交往十年；Andy 说『Issy had nothing to do with any of this』；Caius 推断 Isolde 其实是 Willow 伪造的假身份（约会对象）"
+    },
+    {
+      "a": "Willow Bell",
+      "b": "Digby Combe-Watson",
+      "rel": "上下级：Willow 是 Digby 的实习生、她老板的祖先是 Horatio Combe；Digby 打算卖研究所"
+    },
+    {
+      "a": "Willow",
+      "b": "Robbie/Matt/Amy",
+      "rel": "被警方逮捕（Robbie 宣布逮捕，Amy 追捕并掌握物证指纹）"
+    },
+    {
+      "a": "Margot Bourne",
+      "b": "Institute",
+      "rel": "邻居，想买下研究所以便扩建；Andy 对她不屑；Caius 推测 Digby 可能把研究所卖给她"
+    },
+    {
+      "a": "Horatio Combe",
+      "b": "Digby Combe-Watson",
+      "rel": "Horatio 是 Digby 的祖先（Willow 在转录其疯狂日记）"
+    },
+    {
+      "a": "Scott Brown",
+      "b": "Digby Combe-Watson",
+      "rel": "两人均为 Willow/Andy 案的死者（Robbie 宣告的两起谋杀名目）"
+    },
+    {
+      "a": "Robbie / Matt / Amy",
+      "b": "Caius",
+      "rel": "三人组与 Caius 协作；Amy 称 Caius 的父亲『Caius's dad』"
+    },
+    {
+      "a": "DC Noakes / DI Eastley",
+      "b": "Willow",
+      "rel": "Noakes 打电话通知 Willow 找到胸针，Caius 让她找 Eastley"
+    },
+    {
+      "a": "Mel / Jen",
+      "b": "案件",
+      "rel": "Mel 脱离危险需康复；Jen 被 sectioned；Caius 推测 Willow 借 Jen 的笔记本电脑买 PO Box 并把假失踪日记寄到 Jen 家"
+    }
+  ],
+  "numbers_and_dates": [
+    {
+      "text": "six articles about the history of these hundred acres",
+      "offset": 2350,
+      "note": "Andy 自称写过六篇关于这 hundred acres 的文章（定位串：I’ve written six articles about the history of these hundred acres）"
+    },
+    {
+      "text": "one each for you, me and Matt",
+      "offset": 1524,
+      "note": "三包防毒面具：Caius、Marcus、Matt 各一"
+    },
+    {
+      "text": "Three packets",
+      "offset": 1406,
+      "note": "长椅上的三个包裹（定位串：the three packets next to Marcus）"
+    },
+    {
+      "text": "There’s a second tunnel",
+      "offset": 5261,
+      "note": "第二条隧道；机器人进入时它比第一条更长"
+    },
+    {
+      "text": "between 1300 and 1500",
+      "offset": 9876,
+      "note": "Amy 说 Willow 真正的论文题材（草药、1300–1500）"
+    },
+    {
+      "text": "an Instagram post three months ago",
+      "offset": 9941,
+      "note": "Amy 说 Instagram 帖子是三个月前发的"
+    },
+    {
+      "text": "twenty-year-old",
+      "offset": 10315,
+      "note": "Robbie 说 Willow 是 twenty-year-old"
+    },
+    {
+      "text": "his girlfriend of ten years",
+      "offset": 12231,
+      "note": "Andy 与 Isolde 交往十年"
+    },
+    {
+      "text": "two accounts of murder and one of manslaughter",
+      "offset": 18916,
+      "note": "Robbie 说 Willow 必得两项谋杀罪与一项误杀罪"
+    },
+    {
+      "text": "until she’s in her sixties",
+      "offset": 18987,
+      "note": "Robbie 说她到六十多岁都见不到天日"
+    },
+    {
+      "text": "late last night",
+      "offset": 10624,
+      "note": "法医昨夜晚些时候找到纸杯"
+    },
+    {
+      "text": "the murders of Digby Combe-Watson and Scott Brown",
+      "offset": 10241,
+      "note": "Robbie 宣告的两名谋杀被害人"
+    },
+    {
+      "text": "the LRB",
+      "offset": 14504,
+      "note": "Caius 说老板（Digby）在 LRB 上登交友广告"
+    },
+    {
+      "text": "PO Box",
+      "offset": 15935,
+      "note": "Willow 用 Jen 的笔记本电脑买 PO Box"
+    },
+    {
+      "text": "One stubbed toe for each of us",
+      "offset": 8585,
+      "note": "Marcus 说把发现物像国债一样分摊"
+    }
+  ],
+  "unattributed_or_ambiguous_in_source": [
+    {
+      "offset": 14666,
+      "text": "‘How you get them is how you lose them.’",
+      "note": "源文未标说话人；夹在 Caius 两段长推理之间（Marcus 上一句是『What a stupid reason to kill someone.』）"
+    },
+    {
+      "offset": 12143,
+      "text": "‘That historian, he’s seeing the girl.’",
+      "note": "Caius 的话（Marcus 上一问以『Right.』收尾）"
+    }
+  ]
+}

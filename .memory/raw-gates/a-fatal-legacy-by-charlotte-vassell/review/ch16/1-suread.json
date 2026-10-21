@@ -1,0 +1,416 @@
+{
+  "chapter": "ch16",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch16_16.txt",
+  "source_chars": 13453,
+  "read_order": "先素读（仅 text/ch16_16.txt），落盘后才开 md",
+  "scenes": [
+    {
+      "id": "A",
+      "title_in_source": "The Police Station",
+      "range": [
+        20,
+        952
+      ],
+      "note": "Caius 与 Matt 在警局；末尾 * * * 分隔"
+    },
+    {
+      "id": "B",
+      "title_in_source": null,
+      "range": [
+        967,
+        6508
+      ],
+      "note": "Caius 独自到 Isolde Burrell 家；末尾 * * * 分隔"
+    },
+    {
+      "id": "C",
+      "title_in_source": null,
+      "range": [
+        6523,
+        13453
+      ],
+      "note": "警局正式取证（Andy）＋ 回到 incident room（Matt 与 Caius）"
+    }
+  ],
+  "events": [
+    {
+      "id": "E1",
+      "range": [
+        41,
+        658
+      ],
+      "who": "Caius → Matt",
+      "what": "Caius 进门对 Matt 说 ‘Maidin mhaith,’；Matt 问是什么语言，Caius 答 ‘Irish.’，并说自己只会零星几句（‘Not really. A few phrases here and there. I should learn.’）；随后 Caius 说全英国只有十个 Isolde，一个在 Surrey 的养老院，七个在 Chelsea/Fulham/Putney/Chiswick 的小学，‘That leaves one each for me and you.’，并递给 Matt 一份打印件。",
+      "numbers": [
+        "ten Isoldes in the entire UK",
+        "one ... in a nursing home in Surrey",
+        "Seven are in primary school within either Chelsea, Fulham, Putney or Chiswick",
+        "one each for me and you"
+      ]
+    },
+    {
+      "id": "E2",
+      "range": [
+        780,
+        952
+      ],
+      "who": "Matt / Caius",
+      "what": "Matt 念出打印件上的一条：‘Isolde Wallis, resident of Marlow’，一边掏手机查邮编。Matt 察觉 Caius ‘You just seem a bit …’，Caius 反问 ‘A bit?’，Matt 说 ‘Cheerful. We’re running out of leads and you look less bothered than you normal would do.’，Caius 答 ‘I got a good night’s sleep.’",
+      "numbers": [
+        "Isolde Wallis",
+        "Marlow"
+      ]
+    },
+    {
+      "id": "E3",
+      "range": [
+        967,
+        1860
+      ],
+      "who": "Caius / Isolde Burrell",
+      "what": "Caius 敲 Isolde Burrell 位于 Walthamstow Village off Orford Road 的联排房门外（屋外有 for sale 招牌，房子新装修，窗框换成深灰色）。开门前她隔门说 ‘One second,’，随后 ‘Hang on. Do you need me to sign?’；Caius 出示证件（warrant card）并说 ‘Madam, I’m not here to deliver anything.’；她记下他的号码、关门打电话回警局核实，再开门说 ‘Sorry about that … You can’t be too careful.’",
+      "numbers": [
+        "a for sale sign"
+      ]
+    },
+    {
+      "id": "E4",
+      "range": [
+        1884,
+        2600
+      ],
+      "who": "Caius 观察 / Isolde",
+      "what": "Caius 看到 Isolde 的腿套着矫形行走靴（orthopaedic walking boot）、门厅里有拐杖；她留长金发，不是录像里的短鲍勃头。她在侧柜上关掉音乐——Caius 注意到用的是唱片机而非 Spotify，放的是 ‘Eulalia’（Callie 的专辑）。Isolde 说 ‘She really speaks to me at the stage of my life I’m in now.’",
+      "numbers": []
+    },
+    {
+      "id": "E5",
+      "range": [
+        2708,
+        3319
+      ],
+      "who": "Isolde / Caius",
+      "what": "Isolde 自述伤情：‘Foot. I’ve got a stress fracture on my second metatarsal. I’ve got a weakness there from my ballet days. I am training for the Bristol half marathon. I was out running when I did it.’；出事时间是 ‘Friday evening after work’，‘I spent hours waiting in A&E. We got back at 5 a.m.’。Caius 边听边记下她初步的不在场证明，并追问 ‘We?’；Isolde 答 ‘Me and my ex-boyfriend, Andy. We’re still good friends.’",
+      "numbers": [
+        "stress fracture on my second metatarsal",
+        "Bristol half marathon",
+        "Friday evening after work",
+        "5 a.m."
+      ]
+    },
+    {
+      "id": "E6",
+      "range": [
+        3614,
+        5600
+      ],
+      "who": "Caius / Isolde",
+      "what": "Caius 出示 Digby 照片问是否认识，Isolde 答 ‘No, why?’，Caius 认为她说实话；追问是否回过交友广告，Isolde 答 ‘Certainly not.’ 并说处于分手后 ‘finding myself’ 阶段、想去意大利旅行一个月；Caius 看到茶几上一摞儿童绘本，Isolde 主动说 ‘I’m a school teacher,’，现在做 substitute work、即将搬离伦敦（‘I’d had enough at my old school … only leave six months later’）。Caius 问 ‘What’s her brother called?’ → ‘Richard.’；问 ‘Does your dad love Wagner?’ → ‘Yes, not in a weird way. His music. Not his politics.’；问身高 → ‘Five foot four.’；Isolde 两次强调 ‘what has that got to do with anything?’",
+      "numbers": [
+        "six months later",
+        "Five foot four"
+      ]
+    },
+    {
+      "id": "E7",
+      "range": [
+        5636,
+        6508
+      ],
+      "who": "Caius / Isolde",
+      "what": "Caius 摊牌：‘Digby, the man in the picture, was catfished.’；Isolde 震惊 ‘Catfished? Like when people fake an identity online? Are you saying they used my pictures?’（叙述：她既义愤又有点受宠若惊，又为自己这种虚荣感到aptly——叙述说她为自己对自身虚荣而骇然）。Caius：‘Not that we’re aware, but I do think they’ve used your life.’；Isolde：‘My life?’；Caius 追问是否有人跟她很熟、可能恨她到用她的人生细节，或反过来喜欢她喜欢得过头；Isolde 收场一句 ‘What on earth are you talking about?’",
+      "numbers": []
+    },
+    {
+      "id": "E8",
+      "range": [
+        6523,
+        7410
+      ],
+      "who": "Caius / Keisha / Andy（叙述转述）",
+      "what": "Caius 在警局正式录取 Isolde Burrell 的口供。她哥哥 Richard 是 solicitor，firm 里另有一位 solicitor 陪同；跑步俱乐部朋友 Keisha 出面作证：与 Isolde 一起跑步、Isolde 踩到 ‘dodgy paving stone’ 摔倒，Keisha 帮她回家，时间 ‘around 6.30 p.m.’（不能更精确），让她坐在沙发上敷了一袋冻豌豆。随后是前男友 Andy 晚上带她去 A&E；Caius 注意到 Andy 听到自己名字时有反应（memes 梗）。",
+      "numbers": [
+        "around 6.30 p.m."
+      ]
+    },
+    {
+      "id": "E9",
+      "range": [
+        7410,
+        9876
+      ],
+      "who": "Andy / Caius",
+      "what": "Andy 说 ‘I walked to Issy’s about 9 p.m., I guess.’，当晚在批改 first years 论文、关了手机；坚持 Issy 以为只是扭伤、她脚肿得厉害，他劝她照 X-ray，Uber 送到 Whipps Cross，等了很久；Andy 自述是 King’s 的学者、专攻早期现代主义（‘a mere early modernist’），出版了英国通史通俗读物、可能有 BBC Four 电视节目。Caius 向他索取 Uber 收据，并调取 A&E 候诊区 CCTV。Andy 说两人 ‘together for thirteen years’、在 Freshers 认识、各有对方家门钥匙、‘We outgrew each other’ 但仍是好朋友。",
+      "numbers": [
+        "about 9 p.m.",
+        "Whipps Cross",
+        "thirteen years"
+      ]
+    },
+    {
+      "id": "E10",
+      "range": [
+        10552,
+        11604
+      ],
+      "who": "Matt / Caius（incident room 对话）",
+      "what": "Matt 先交代自己那条线索：‘My Isolde was a mum of three under three who laughed in my face when I asked if she had been sending love letters to Digby Combe-Watson. She was at a family wedding all weekend. Her mum was there trying to wrangle a toddler onto a potty and alibied her there and then.’；Caius 答 ‘I found her, but it’s not our Isolde. She’s a different Isolde.’，并列出 Burrell 的特征清单（brother’s Richard、dad likes Wagner、primary school teacher、moving to the country、grew up in Dorchester、wanted to be a ballerina、Exeter uni、paints watercolours、allergic to bloody strawberries）。Matt 指出 ‘Those are the facts that Amy listed out from Isolde’s letters.’；Caius 回应确有全套特征，但 ‘it couldn’t have been her’——有断足、朋友作证的不在场证明、整夜在 A&E 有前男友 Uber 收据、还会有 CCTV。",
+      "numbers": [
+        "mum of three under three",
+        "Digby Combe-Watson",
+        "Exeter uni"
+      ]
+    },
+    {
+      "id": "E11",
+      "range": [
+        11604,
+        12248
+      ],
+      "who": "Matt / Caius",
+      "what": "Matt 总结 ‘So someone used her life as the backstory for this “fake Isolde”.’；Caius 认同并类比 Willow（‘It’s similar to how they dressed up as Willow.’）。问及两人是否认识：Caius 把 Willow 的 Instagram 给 Isolde 看，Isolde 不认识她，给出账号名；因是教师，她网名是 ‘Issy Lara not Isolde Burrell’（Lara 是中间名），后面还加了数字，已锁定；她说自己认识所有关注她的人，不认为认识有能力 catfish Digby 乃至谋杀他的人。",
+      "numbers": [
+        "Issy Lara"
+      ]
+    },
+    {
+      "id": "E12",
+      "range": [
+        12248,
+        13453
+      ],
+      "who": "Matt / Caius",
+      "what": "Caius 说 Issy 与 Willow 的共同点只有三条：‘Both female, under thirty-five and living in London. That’s it.’，并判断 ‘fake Isolde’ 是有计划地布置，连丢两个 red herring 来拖慢他们。Matt 追问为何选中 Isolde 模仿（‘She must know her’），Caius 答不知道，但认为 Copying Willow 实用——是给邻居看的伪装（costume），也可能是通过看 Institute 找到 Willow 的信息，或从她的社交账号。Matt 说 ‘They must have wanted something from him’；Caius 说只剩一条线索：查 Post Office 那个 PO Box。",
+      "numbers": [
+        "under thirty-five",
+        "two red herrings",
+        "one lead left"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "a": "Caius",
+      "b": "Matt",
+      "rel": "警局同事/搭档，本章全程搭档查案；Caius 负责走访与笔录，Matt 负责名单与社交媒体线"
+    },
+    {
+      "a": "Isolde Burrell",
+      "b": "Andy",
+      "rel": "前男女朋友，在一起 thirteen years，Freshers 相识，现仍是密友，互有对方家门钥匙"
+    },
+    {
+      "a": "Isolde Burrell",
+      "b": "Keisha",
+      "rel": "跑步俱乐部朋友，案发日为其作证者"
+    },
+    {
+      "a": "Isolde Burrell",
+      "b": "Richard",
+      "rel": "兄弟，solicitor，案发日由另一位同所 solicitor 陪同"
+    },
+    {
+      "a": "Isolde Burrell",
+      "b": "Callie",
+      "rel": "同事/朋友；Callie 的专辑 Eulalia 在 Burrell 家中用唱片机播放"
+    },
+    {
+      "a": "Isolde Burrell",
+      "b": "Amy",
+      "rel": "同事；Amy 此前从 Isolde 的信件里列出特征清单"
+    },
+    {
+      "a": "Matt",
+      "b": "Isolde Wallis",
+      "rel": "Matt 的那条 Isolde 线索：mum of three under three，Isolde Burrell 之外的另一人"
+    },
+    {
+      "a": "Isolde Burrell",
+      "b": "Isolde Wallis",
+      "rel": "两个同名 Isolde：十个 Isolde 中的两个成年人候选（Matt 拿到的是 Marlow 的 Wallis，Caius 找的是 Walthamstow 的 Burrell）"
+    },
+    {
+      "a": "‘fake Isolde’ / 凶手",
+      "b": "Isolde Burrell",
+      "rel": "凶手窃用 Burrell 的人生细节做 ‘fake Isolde’ 的背景故事（小说里 ‘fake Isolde’ 是凶手自称/代号）"
+    },
+    {
+      "a": "‘fake Isolde’ / 凶手",
+      "b": "Willow",
+      "rel": "凶手模仿 Willow 的外形；Caius 认为是给邻居看的 costume"
+    },
+    {
+      "a": "Digby Combe-Watson",
+      "b": "‘fake Isolde’",
+      "rel": "Digby 被 catfished 并被杀；凶手用 Burrell 的照片与生活细节"
+    }
+  ],
+  "numbers_dates_verbatim": [
+    {
+      "item": "ten Isoldes in the entire UK",
+      "range": [
+        322,
+        350
+      ]
+    },
+    {
+      "item": "One is in a nursing home in Surrey",
+      "range": [
+        352,
+        386
+      ]
+    },
+    {
+      "item": "Seven are in primary school within either Chelsea, Fulham, Putney or Chiswick",
+      "range": [
+        388,
+        465
+      ]
+    },
+    {
+      "item": "That leaves one each for me and you",
+      "range": [
+        591,
+        626
+      ]
+    },
+    {
+      "item": "Isolde Wallis, resident of Marlow",
+      "range": [
+        662,
+        695
+      ]
+    },
+    {
+      "item": "stress fracture on my second metatarsal",
+      "range": [
+        2801,
+        2840
+      ]
+    },
+    {
+      "item": "training for the Bristol half marathon",
+      "range": [
+        2894,
+        2932
+      ]
+    },
+    {
+      "item": "Friday evening after work",
+      "range": [
+        3241,
+        3266
+      ]
+    },
+    {
+      "item": "We got back at 5 a.m.",
+      "range": [
+        3298,
+        3319
+      ]
+    },
+    {
+      "item": "around 6.30 p.m.",
+      "range": [
+        6995,
+        7011
+      ]
+    },
+    {
+      "item": "about 9 p.m.",
+      "range": [
+        7529,
+        7541
+      ]
+    },
+    {
+      "item": "Whipps Cross",
+      "range": [
+        8529,
+        8541
+      ]
+    },
+    {
+      "item": "Five foot four",
+      "range": [
+        5545,
+        5559
+      ]
+    },
+    {
+      "item": "together for thirteen years",
+      "range": [
+        8986,
+        9013
+      ]
+    },
+    {
+      "item": "We first met in Freshers",
+      "range": [
+        9015,
+        9039
+      ]
+    },
+    {
+      "item": "leave six months later",
+      "range": [
+        4537,
+        4559
+      ]
+    },
+    {
+      "item": "paint some landscapes for a month",
+      "range": [
+        4101,
+        4134
+      ]
+    },
+    {
+      "item": "mum of three under three",
+      "range": [
+        10616,
+        10640
+      ]
+    },
+    {
+      "item": "Digby Combe-Watson",
+      "range": [
+        10717,
+        10735
+      ]
+    },
+    {
+      "item": "Exeter uni",
+      "range": [
+        11146,
+        11156
+      ]
+    },
+    {
+      "item": "under thirty-five",
+      "range": [
+        12316,
+        12333
+      ]
+    },
+    {
+      "item": "two red herrings",
+      "range": [
+        12460,
+        12476
+      ]
+    },
+    {
+      "item": "BBC Four",
+      "range": [
+        10500,
+        10508
+      ]
+    }
+  ],
+  "open_questions_for_R3": [
+    "md 是否把 Matt 的 Isolde（Wallis，mum of three）与 Caius 的 Isolde（Burrell）两个同名者混成一个人，或把其中一方的说法写成既成事实",
+    "md 里写引语时是否把问句与答句、两个人的话并成一条（跨话轮拼接）",
+    "md 归因（他/她/对方/Isolde）是否与原文真正的说话人一致（尤其 E8/E9 段是 Andy 的话，E10 段是 Matt 与 Caius 交替）"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "chapter": "ch01",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch01_1.txt",
+  "source_len_chars": 2404,
+  "source_note": "纯素读，仅读 text/ch01_1.txt，未开 md。字符区间为该文件 0 基字符偏移 [start, end)。",
+  "events": [
+    {
+      "n": 1,
+      "who": "Digby Combe-Watson（受害者）",
+      "did": "仰面瘫在古董地毯上——地点是 The Horatio Combe Institute, Priory Square, Camden（章节首行标题即此地名）",
+      "range": [17, 803],
+      "quote_head": "The Horatio Combe Institute, Priory Square, Camden",
+      "quote_anchor": "Digby Combe-Watson is sprawled out on the antique rug apocryphally gifted to his great-great-great-grandfather in 1849"
+    },
+    {
+      "n": 2,
+      "who": "地毯的传说（叙述者口述）",
+      "did": "称地毯是 1849 年「感激的」Naser al-Din（时任伊朗 Shah）赠予其曾曾曾祖父（great-great-great-grandfather）的；Shah 当时正追随亚历山大大帝在中亚的征战脚步、在波斯波利斯废墟间作乐。地毯真正的来历是 1927 年在 Portobello Road 买的，为掩盖地板上一块难看的 port stain（酒渍），此事实现已失传。地毯还成了 Digby 谈论博物馆二楼六块尚未译出的楔形文字泥板的「跳板」",
+      "range": [70, 803],
+      "quote_head": "apocryphally gifted to his great-great-great-grandfather in 1849 by an appreciative Naser al-Din",
+      "quote_anchor": "It had in fact been purchased down Portobello Road to hide an ugly port stain on the floorboard in 1927"
+    },
+    {
+      "n": 3,
+      "who": "Digby",
+      "did": "感觉不到脚趾，说「Oh dear. It's all happening so quickly.」（毒发／濒死开始）",
+      "range": [805, 872],
+      "quote_head": "Digby can’t feel his toes. Oh dear. It’s all happening so quickly.",
+      "quote_anchor": "Digby can’t feel his toes. Oh dear. It’s all happening so quickly."
+    },
+    {
+      "n": 4,
+      "who": "Digby",
+      "did": "措手不及地想：自己「想太多了」；这次私下见面（tête-à-tête）本来就不是好主意；像「在公共场所见面」这类基本规则只对女人适用；自己是个「soft-bodied intellectual」，只关心知识、历史的保存与重估，此刻才卑微地想要一点属于自己别的东西——他没意识到自己处于危险中；一个像他这样的男人怎么会处于危险？谁会想伤害他？",
+      "range": [874, 1516],
+      "quote_head": "Digby was taken by surprise. He’d thought better of himself.",
+      "quote_anchor": "cardinal rules like meet in a public place applied to only women. He hadn’t realised that he was in danger."
+    },
+    {
+      "n": 5,
+      "who": "Digby",
+      "did": "感觉不到腿；「寒冷、死亡之冰冷的手」正一寸一寸向上爬过身体（inch by mortal inch）",
+      "range": [1518, 1628],
+      "quote_head": "Digby can’t feel his legs. The coldness, the frozen hand of death,",
+      "quote_anchor": "is moving up his body inch by mortal inch."
+    },
+    {
+      "n": 6,
+      "who": "Digby（观察）/ 凶手（只以一只「cold steely eye」出现，未具名）",
+      "did": "环顾四周，希望这是意外、援手在路上；但他知道这是蓄意为之、经过谋划。他捕捉到一双冷冷钢硬的眼睛回望自己，于是知道援手不会来了，自己将死在祖先的「morbidity」包围中——Horatio Combe（他「可憎的祖先」/ 同名研究所的 namesake）的迷狂崇拜圣龛：一位纵情帝国各处、见好就收（收集任何人和任何东西）之刺激人生的遗物；而 Digby 只在自己位于 NW1 的破旧联排住宅里，隔空向那些冒险致敬",
+      "range": [1630, 2253],
+      "quote_head": "he knows this was done to him on purpose, that it had been planned. He catches a cold steely eye lazily gazing back at him",
+      "quote_anchor": "whereas he has spent his short life paying homage to those seedy adventures from a decrepit town house in NW1."
+    },
+    {
+      "n": 7,
+      "who": "Digby",
+      "did": "喉咙开始闭合；挣扎呼吸时转动头；柜中的「shrunk heads（缩头）」注视着他，他的心脏停止跳动——死亡完成",
+      "range": [2255, 2404],
+      "quote_head": "Digby’s throat is beginning to close. He turns his head as he struggles to breathe.",
+      "quote_anchor": "The shrunken heads watch from their cabinet as his heart stops."
+    }
+  ],
+  "characters": [
+    {"name": "Digby Combe-Watson", "role": "受害者/第一人称叙述者；Horatio Combe 的后裔（great-great-great-grandson 辈分关系在文本中由「odious ancestor」与家传地毯两条线索给出）；住 NW1 一栋 decrepit town house；在博物馆工作（谈二楼楔形文字泥板）；自称 soft-bodied intellectual、gentle soul"},
+    {"name": "Horatio Combe", "role": "Digby「可憎的祖先」，The Horatio Combe Institute 得名之处；其「shrine to his obsessions」内陈列他一生收集的遗物与「whoever took his fancy」的人（柜中 shrunken heads）；Digby 一直隔空向他致敬"},
+    {"name": "Naser al-Din", "role": "时任伊朗 Shah，据传（apocryphally）于 1849 年把地毯赠给 Digby 家族祖先；文中说明「For what the Shah was so grateful no one knew」"},
+    {"name": "Alexander the Great", "role": "仅被提及：Shah 当时追随其在中亚的脚步"},
+    {"name": "凶手", "role": "未具名；只以「a cold steely eye lazily gazing back at him」在场的可辨识特征出现；与「Digby 主动赴约的 tête-à-tête」相呼应，但文本未点名邀约者"}
+  ],
+  "numbers_dates": [
+    {"value": "1849", "context": "地毯被声称由 Shah 赠予曾曾曾祖父之年", "range": [70, 803]},
+    {"value": "1927", "context": "地毯实际在 Portobello Road 买下以掩盖地板 port stain 之年", "range": [70, 803]},
+    {"value": "six", "context": "as-yet-untranslated cuneiform tablets 的数量（二楼）", "range": [70, 803]},
+    {"value": "second floor", "context": "博物馆存放泥板的楼层", "range": [70, 803]},
+    {"value": "NW1", "context": "Digby 住的 decrepit town house 邮区", "range": [1630, 2253]},
+    {"value": "great-great-great-grandfather", "context": "地毯传说中的受赠人辈分", "range": [70, 803]},
+    {"value": "1849 / 1927", "context": "文中仅此两个年份", "range": [70, 803]}
+  ],
+  "unresolved_by_source": [
+    "凶手身份未给出",
+    "邀 Digby 私下见面者未具名",
+    "地毯究竟为何被 Shah 感谢（for what the Shah was so grateful no one knew）— 原文明说无人知晓"
+  ]
+}

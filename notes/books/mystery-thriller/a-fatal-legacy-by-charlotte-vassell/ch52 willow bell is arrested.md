@@ -10,7 +10,7 @@ source_text: ch52
 
 - **一句话概括**：Priory Square 的广场闲聊还没散，地下就挖出了第二条隧道，机器人照出的不只是骸骨，还有画在墙上的伊甸园之蛇；同一段时间里 Amy 用一条三个月前的 Instagram 帖子戳穿 Willow 的论文谎言，Willow 转身要跑，被 Robbie 当场以两起谋杀罪逮捕，随后 Andy 主动认罪、想替她把罪担下来。
 - **视角**：前半段第三人称限知贴着 Caius（父亲 Marcus 在旁充当对照与吐槽者），后半段转为警局里 Andy、Willow、Amy、Matt、Robbie 各自的对话，视角跟着说话人来回切。
-- **线索结构**：另一块可疑的“flagstone”与第二条隧道 → 机器人照出石架上层层叠叠的骸骨与一具头骨 → 墙画上的蛇被认作伊甸园之蛇，印证 Horatio 日记里关于隧道与降神会的记述 → 画里挖出的旧画、画着圣阿格尼丝与羔羊的雕像、被举家藏进“priest hides”的宗教器物与书 → 报纸上关于博物馆标签的报道与 DJ Sonikk 的访谈，把公众视线与调查推进到同一天。
+- **线索结构**：另一块可疑的“flagstone”与第二条隧道 → 机器人照出石架上层层叠叠的骸骨与一具头骨 → 墙画上的蛇被认作伊甸园之蛇，印证 Horatio 日记里关于隧道与降神会的记述 → 画里挖出的旧画、画着圣阿格尼丝与羔羊的雕像、被举家藏进“priest hides”的宗教器物与书 → 唱片厂牌在媒体上挨骂的报道与 DJ Sonikk 的访谈，把公众视线与调查推进到同一天 → 收束：Andy 想替她顶罪、Robbie 摊开指纹与检方口径（两项谋杀加一项误杀）。
 - **人物弧线**：Willow 从“实习生”变成当场被铐走的人，她始终没说出一个字；Amy 从查证者变成动手抓人的那一个（“Amy technically caught her”）；Andy 从四处科普的学者变成愿意把罪名揽到自己身上的人；Caius 则在事后把整条作案链在父亲面前复述一遍，说完只留下一句“我没跟你说过这些”。
 - **叙事手法**：广场上的闲话（订婚戒指、全脸面罩、“blob”雕像）与地窖实况交替推进，收网时用三处“回收”完成反转——胸针、Instagram 帖子、纸杯；结尾用三段对话（认罪／顶罪／拒谈）收束，把最终定性交给检方。
 
@@ -22,7 +22,7 @@ source_text: ch52
 
 **关键词**：blob / statue / mystic nun
 
-**为什么这样写**：一章从一座看不懂的雕像开始，本身就是全书的开篇：纪念一位被烧死的修女，纪念物却是一团看不出形状的“blob”，形状里已经藏着“被抹掉的东西被重新捏出来”的意思。而父子俩并排坐在广场上，画面和谋杀案里那些被陈列的遗物遥遥相对，读者读到最后会发现，这尊纪念碑所纪念的，正是本章挖出来的那些尸骨。
+**为什么这样写**：一章从一座看不懂的雕像开始，本身就是全书的开篇：纪念一位被烧死的修女，纪念物却是一团看不出形状的“blob”，形状里已经藏着“被抹掉的东西被重新捏出来”的意思。而父子俩并排坐在广场上，画面和谋杀案里那些被陈列的遗物遥遥相对，只是这尊纪念碑纪念的，是 1532 年被以异端之罪烧死的修女 Alice de Burge，与本章从石架上照出的那层层骸骨并不是同一批人。
 
 **读者视角提示**：留意“被烧死”与“blob”之间的落差——纪念碑的形状往往比它纪念的人更抽象，这是本书反复使用的手法。
 
@@ -32,7 +32,7 @@ source_text: ch52
 
 **关键词**：shirtsleeves / Indiana Jones / boring
 
-**为什么这样写**：Andy 是第二个到广场的人，他的登场方式全是道具：卷起的袖口、沙色衣服、Caius 的调侃。读者此时已经知道他自称都铎史专家，却还不知道他与 Willow 的关系——作者让他先以一种“有点可笑”的样子出现，等到后面他自己供出杀人，反差才成立。而后半句的“boring”其实是 Caius 的误判：这个人马上会说出关于他自己家族的那段要紧历史。
+**为什么这样写**：Andy 是第二个到广场的人，他的登场方式全是道具：卷起的袖口、沙色衣服、Caius 的调侃。读者此时已经知道他自称都铎史专家，却还不知道他与 Willow 的关系——作者让他先以一种“有点可笑”的样子出现，等到后面他自己供出杀人，反差才成立。而后半句的“boring”其实是 Caius 的误判：这个人马上会对着 Marcus 讲 Caius 家的事——“你家祖上是被追捕的天主教徒，你家里到处藏着教士洞”。
 
 **读者视角提示**：把“这就是那个历史学家”记住——他后面所有的自信、所有的科普，都会在警局里变成他认罪时的开场白。
 
@@ -56,15 +56,15 @@ source_text: ch52
 
 **读者视角提示**：数一数这里的层次：石架、层层堆叠、不断出现的新头骨。堆放的方式本身就在讲一个问题——这些尸骨是被当作东西来摆放的。
 
-> **原句 5:** "The little robot was brought back out the tunnel. Caius and Marcus finished their coffees. Robbie came out and chatted to Andy who had practically melted into an incoherent puddle of enthusiasm. The little robot entered the second tunnel. It was longer than the first one. They all watched on screen."
+> **原句 5:** "‘She did it all,’ Matt said. ‘Andy’s confessed to Scott’s death and to being there for Jimmy’s out of guilt, but none of the causes of death were accurate. He knew about the deaths though. He’s trying to take the blame for her.’"
 
-**中文理解**：小机器人被从隧道里拉了出来，Caius 和 Marcus 把咖啡喝完；Robbie 出来跟 Andy 说话，后者已经几乎化成一摊语无伦次的热情。小机器人随即进入第二条隧道——它比第一条更长。所有人都对着屏幕看。
+**中文理解**：Willow 始终不肯开口；Matt 把话说清：事情全是她做的，Andy 认下了 Scott 的死、也认下自己在场 Jimmy 那边，可那些死因一条都不准——他知道这些命案，只是想替她把罪名揽过去。
 
-**关键词**：second tunnel / incoherent / enthusiasm
+**关键词**：confessed / guilt / take the blame
 
-**为什么这样写**：这一段把“专业作业”和“家庭野餐”放在同一个画面里：喝完咖啡、看机器人、对着屏幕，而真正的考古发现被人称作“一摊语无伦次的热情”。Andy 的“融化”是他这个人第一次露出的真相——他不是来看热闹的，他是来看自己家族藏起来的东西的；而作者把这个反应交给读者去判断，没有一个人当场点破。
+**为什么这样写**：这一段把两个「认罪」拆开：一个是想当英雄的假认罪，一个是不肯开口的真沉默。作者让 Matt 平静地讲出差别（「none of the causes of death were accurate」），把这份自以为高尚的自我牺牲降格成无效的补救；紧跟着 Robbie 摊开指纹与检方口径，把最终定性交回制度——情感上想赎罪与法律上怎么判，两条线在这里分开。
 
-**读者视角提示**：“比第一条更长”这句很短，后果却很大——挖到的东西越多，Andy 越有理由不惜一切代价，包括为它担下罪名。
+**读者视角提示**：Andy 的认罪在死因上被逐条证伪，却在指纹上被证实他到过现场；这两件事同时成立，才是这一章结尾真正要读者自己拼起来的那一块。
 
 > **原句 6:** "‘I got a call from DC Noakes that they’d found a brooch of mine in the Institute. It must have fallen off when I was working. She said I should come and retrieve it?’"
 
@@ -165,4 +165,4 @@ source_text: ch52
 
 ## 一句话总结
 
-上午的 Priory Square 上，第二条隧道被挖开，机器人照出成堆的修女骸骨与墙上的伊甸园之蛇；几乎同时，Amy 用一条三个月前的 Instagram 帖子戳穿 Willow 临时编造的论文题目，她转身要跑，被 Robbie 以谋杀 Digby Combe-Watson 与 Scott Brown 的罪名当场逮捕，她始终一言不发；随后 Andy 在警局里主动认下自己杀了人、也认下那些闯空门的事，只求警方不要牵连 Issy，而 Caius 却在走向地铁的路上把整条作案链——毒沙拉、假 Isolde、粉丝小说账号、被栽赃的 Jen——一五一十地讲给父亲听。
+上午的 Priory Square 上，第二条隧道被挖开，机器人照出成堆的修女骸骨与墙上的伊甸园之蛇；几乎同时，Amy 用一条三个月前的 Instagram 帖子戳穿 Willow 临时编造的论文题目，她转身要跑，被 Robbie 以谋杀 Digby Combe-Watson 与 Scott Brown 的罪名当场逮捕，她始终一言不发；逮捕之后 Caius 与父亲一起走向地铁，把整条作案链——毒沙拉、假 Isolde、粉丝小说账号、被栽赃的 Jen——一五一十地讲给 Marcus 听；Andy 在警局里认下 Scott 的死、也认下闯空门的事，只求警方不要牵连 Issy，可检方那边 Willow 已被算上两项谋杀加一项误杀，Andy 那份认罪不过是想替她背下来。
