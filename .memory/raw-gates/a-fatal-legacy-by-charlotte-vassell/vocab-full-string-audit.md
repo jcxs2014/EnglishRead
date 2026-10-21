@@ -45,3 +45,34 @@ python3 /tmp/afl_probe.py           → 395 块：P1 0 · P2 0 · P3 0
 - 补这一层的最小成本：**对每条例句做一次全串 `in` 判断 + 结尾续接检查**（脚本 60 行）。
 - 例句的**引号形态**是这一层最容易漏的一处：凭空加引号（叙述被写成对白）、把仍在延续的对白截断并补上收尾引号——
   这两种都会让「逐字」判绿（因为 60 字符指纹落在对白开头）。
+
+---
+
+## 追加（2026-10-21，第二次）：例句引号的三态判定与 41 条归零
+
+> 用户复核时在 ch31 `accident` 一条上指出：句子逐字无误、截在标点处，但**留着一个不闭合的开引号**——
+> 这是「截断」的第三种形态：**引号不对称**。回查全书发现这一形态共 **41 条**（38 条存量 ＋ 2 条上轮引入 ＋ 1 条直引号归一后暴露）。
+
+### 引号三态（判据）
+
+| 形态 | 含义 | 是否缺陷 | 处置 |
+|---|---|---|---|
+| ① 引号成对 `‘…’` | 完整引语 | 否 | 不动 |
+| ② 只有**开**引号 | 摘录从对白开头起、原文仍在延续 ⇒ 开引号是唯一的截断痕迹 | **是**（形态类） | 回原文看**结束处**：原文正好收尾 ⇒ **补收尾引号**；原文仍在延续 ⇒ **去掉开引号**（与全书 1198 条无引号例句同形） |
+| ③ 只有**收**引号 | 摘录从对白**中间**起头，原文此处本就有收引号 | **否** | **不要动**（我第一版检查脚本把它误判成缺陷，须按「开引号计数 > 收引号计数」才判） |
+
+### 实际改动
+
+- **A 类 12 条**（原文该处正好收尾、后接字符就是 `’`）⇒ **补上收尾引号**，例句成为完整引语：
+  ch11 `offloading`、ch16 `backstory`、ch19 `Arrivederci`、ch21 `security`/`covering`/`received`/`apparently`/`coincidence`、ch24 `makeshift`、ch35 `procrastinating`、ch47 `dodgy`/`metaphors`。
+- **B 类 29 条**（原文仍在延续）⇒ **去掉开引号**，改成裸摘录：
+  ch05 `flats`、ch10 `whizzbang`、ch13 `catalogue`、ch16 `ex-boyfriend`、ch19 `half-cut`/`school dinner lady`/`PO Box`、ch21 `trialling`/`multiple`/`computer program`、ch22 `M&S Food`、ch24 `seances`/`basement door`、ch27 `zoo`/`toddler`、ch31 `supermodel`、ch33 `pentagram`、ch37 `salad`、ch47 `Harrogate`、ch48 `dogsbody`/`subterranean`/`alibied`/`corpse`/`taxi driver`、ch53 `hundreds`、ch54 `plummeted`，以及上轮引入的 ch05 `disbanded`、ch31 `accident`、ch31 `intruder`。
+- 两种改法**都保持逐字**（改后 1458 条全串核验 MISS 0 · 截断 0）；未闭合开引号计数 41 → **0**。
+
+### 复验
+
+```
+python3 /tmp/afl_vocab_full.py   → 例句行 1458｜MISS 0｜截断 0
+未闭合开引号扫描（count(‘) > count(’)）→ 0
+bash scripts/gate.sh <书目录>      → EXIT 0
+```
