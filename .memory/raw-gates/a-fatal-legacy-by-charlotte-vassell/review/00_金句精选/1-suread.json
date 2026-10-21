@@ -1,0 +1,299 @@
+{
+  "method": "R1 素读：只读 text/chNN_N.txt 原文，12 章（01/05/10/16/22/29/31/36/38/43/49/54），未读 00_金句精选.md 之前完成",
+  "chapters_read": [
+    "ch01",
+    "ch05",
+    "ch10",
+    "ch16",
+    "ch22",
+    "ch29",
+    "ch31",
+    "ch36",
+    "ch38",
+    "ch43",
+    "ch49",
+    "ch54"
+  ],
+  "items": [
+    {
+      "chapter": "ch01",
+      "text_file": "ch01_1.txt",
+      "quote": "Why would a man like him ever be in danger?",
+      "char_start": 1212,
+      "char_end": 1255,
+      "note": "开篇：Digby 濒死时的自辩——他从没想过男人会处在危险里"
+    },
+    {
+      "chapter": "ch01",
+      "text_file": "ch01_1.txt",
+      "quote": "he knows that help isn’t coming and he is about to die surrounded here by the morbidity of his odious ancestor",
+      "char_start": 1870,
+      "char_end": 1980,
+      "note": "死亡时刻：意识到无人生救，祖先遗物的怪诞围绕着他"
+    },
+    {
+      "chapter": "ch05",
+      "text_file": "ch05_5.txt",
+      "quote": "‘Poisoned salad, eh?’ asked the Chief Superintendent, shaking his head. ‘You couldn’t make that up.’",
+      "char_start": 39,
+      "char_end": 139,
+      "note": "谋杀案的荒诞性被总警司一句吐槽定性"
+    },
+    {
+      "chapter": "ch05",
+      "text_file": "ch05_5.txt",
+      "quote": "‘It is what it is, sir. Just happy to be out there serving the community.’",
+      "char_start": 1688,
+      "char_end": 1762,
+      "note": "Caius 被解散后对上级公事的敷衍回答"
+    },
+    {
+      "chapter": "ch05",
+      "text_file": "ch05_5.txt",
+      "quote": "‘Who has an affair conducted by letters these days?",
+      "char_start": 3100,
+      "char_end": 3151,
+      "note": "情书骗局引出 PO Box 线索"
+    },
+    {
+      "chapter": "ch10",
+      "text_file": "ch10_10.txt",
+      "quote": "‘Like you’re lost in the back of your head.",
+      "char_start": 625,
+      "char_end": 668,
+      "note": "Callie 形容 Caius 走神"
+    },
+    {
+      "chapter": "ch10",
+      "text_file": "ch10_10.txt",
+      "quote": "‘In some ways gang stuff is easier to deal with, there’s a brutal logic to them, but murder is murder and it’s always grim.’",
+      "char_start": 923,
+      "char_end": 1047,
+      "note": "Caius 区分毒品/帮派案与谋杀案的职业观"
+    },
+    {
+      "chapter": "ch16",
+      "text_file": "ch16_16.txt",
+      "quote": "Names have geo-social currency, I guess.",
+      "char_start": 467,
+      "char_end": 507,
+      "note": "Caius 谈 Isolde 这个名字的社会学含义"
+    },
+    {
+      "chapter": "ch16",
+      "text_file": "ch16_16.txt",
+      "quote": "The killer, “fake Isolde”, planned this out. She’s chucked two red herrings at us to slow us down.",
+      "char_start": 12401,
+      "char_end": 12499,
+      "note": "「假 Isolde」是精心策划并故意投放两条红鲱鱼"
+    },
+    {
+      "chapter": "ch16",
+      "text_file": "ch16_16.txt",
+      "quote": "What I don’t understand is if they wanted access to the Institute, why didn’t they just break in after hours?",
+      "char_start": 12999,
+      "char_end": 13108,
+      "note": "调查逻辑：为什么冒充而不是直接闯入"
+    },
+    {
+      "chapter": "ch22",
+      "text_file": "ch22_22.txt",
+      "quote": "‘A PO Box?’ Beverley asked, picking at a bobble on her cardigan. ‘Like where you send competition entries to?’",
+      "char_start": 1533,
+      "char_end": 1643,
+      "note": "苏格兰小镇夫妇对 PO Box 的无知，一步步牵出 Jenny"
+    },
+    {
+      "chapter": "ch22",
+      "text_file": "ch22_22.txt",
+      "quote": "‘I beg your pardon, young man,’ Nigel said. He took ‘phished’ to be some modern innuendo.",
+      "char_start": 2373,
+      "char_end": 2462,
+      "note": "Nigel 把 phishing 当成现代双关"
+    },
+    {
+      "chapter": "ch29",
+      "text_file": "ch29_29.txt",
+      "quote": "You can’t go through life as a woman and not be aware that a lot of men hate you for existing.",
+      "char_start": 3251,
+      "char_end": 3345,
+      "note": "Callie 对自身处境的清醒认知"
+    },
+    {
+      "chapter": "ch29",
+      "text_file": "ch29_29.txt",
+      "quote": "It was all an empty glimmer, a distraction from the more difficult and real business of getting on with living.",
+      "char_start": 2467,
+      "char_end": 2578,
+      "note": "Callie 厌倦名流、决定回归真实生活"
+    },
+    {
+      "chapter": "ch29",
+      "text_file": "ch29_29.txt",
+      "quote": "I had such a great time. E x",
+      "char_start": 4917,
+      "char_end": 4945,
+      "note": "Eulalia 的亲笔卡片——关键物证"
+    },
+    {
+      "chapter": "ch31",
+      "text_file": "ch31_31.txt",
+      "quote": "‘Another book. What a literary neighbourhood.’",
+      "char_start": 7519,
+      "char_end": 7565,
+      "note": "Priory Square 的文人社区冷幽默"
+    },
+    {
+      "chapter": "ch31",
+      "text_file": "ch31_31.txt",
+      "quote": "‘It might sell now he’s dead.’",
+      "char_start": 7568,
+      "char_end": 7598,
+      "note": "第二具尸体后的黑色幽默"
+    },
+    {
+      "chapter": "ch31",
+      "text_file": "ch31_31.txt",
+      "quote": "‘His. Mine are yet to come,’ Caius said, getting into the car. ‘Or at least I bloody hope so.’",
+      "char_start": 8958,
+      "char_end": 9052,
+      "note": "Caius 对自己人生的期待"
+    },
+    {
+      "chapter": "ch36",
+      "text_file": "ch36_36.txt",
+      "quote": "‘It’s all very uncomfortable when the domestic clashes with the grubbiness of business, isn’t it?’ Callie said.",
+      "char_start": 4018,
+      "char_end": 4129,
+      "note": "Callie 的旧式做派与 Mel 的嫌弃"
+    },
+    {
+      "chapter": "ch36",
+      "text_file": "ch36_36.txt",
+      "quote": "‘You talk like you were born a hundred years ago.’",
+      "char_start": 4179,
+      "char_end": 4229,
+      "note": "Mel 对 Callie 的评价"
+    },
+    {
+      "chapter": "ch36",
+      "text_file": "ch36_36.txt",
+      "quote": "‘You don’t like other women. You know that? It’s such a manly quality of yours. So masculine.",
+      "char_start": 5878,
+      "char_end": 5971,
+      "note": "Eulalia 对 Mel 的指控"
+    },
+    {
+      "chapter": "ch36",
+      "text_file": "ch36_36.txt",
+      "quote": "‘They burnt her there,’ Eulalia said, pointing at the garden in the middle of the square.",
+      "char_start": 15001,
+      "char_end": 15090,
+      "note": "Eulalia 指着 Priory Square 说的谜样台词"
+    },
+    {
+      "chapter": "ch38",
+      "text_file": "ch38_38.txt",
+      "quote": "‘I have never seen any woman look as beautiful as you do right now.’",
+      "char_start": 7619,
+      "char_end": 7687,
+      "note": "Caius 在厨房光线下对 Callie 说"
+    },
+    {
+      "chapter": "ch38",
+      "text_file": "ch38_38.txt",
+      "quote": "There comes a point where it just becomes too much, you know?",
+      "char_start": 13470,
+      "char_end": 13531,
+      "note": "Marcus 说离开伦敦——搬家主题句"
+    },
+    {
+      "chapter": "ch38",
+      "text_file": "ch38_38.txt",
+      "quote": "‘I won’t tell your mother.’",
+      "char_start": 11820,
+      "char_end": 11847,
+      "note": "Marcus 与 Caius 的无声默契"
+    },
+    {
+      "chapter": "ch43",
+      "text_file": "ch43_43.txt",
+      "quote": "‘Insert is not the right word to use here,’ Amy said.",
+      "char_start": 469,
+      "char_end": 522,
+      "note": "Amy 读论坛故事时的吐槽"
+    },
+    {
+      "chapter": "ch43",
+      "text_file": "ch43_43.txt",
+      "quote": "I used to love a crushed cucumber with chilli oil. Nope, nope, nope.",
+      "char_start": 800,
+      "char_end": 868,
+      "note": "Matt 读 Arthurian 情色小说的反应"
+    },
+    {
+      "chapter": "ch43",
+      "text_file": "ch43_43.txt",
+      "quote": "‘People can get their freak on however they want. I am not judging. But I also don’t want to read about it.’",
+      "char_start": 913,
+      "char_end": 1021,
+      "note": "Amy 的立场"
+    },
+    {
+      "chapter": "ch49",
+      "text_file": "ch49_49.txt",
+      "quote": "How many Londoners will actually speak to a stranger?",
+      "char_start": 1079,
+      "char_end": 1132,
+      "note": "Willow 谈 Jen 的可疑友好"
+    },
+    {
+      "chapter": "ch49",
+      "text_file": "ch49_49.txt",
+      "quote": "If she’d have been a bloke I would’ve been worried.",
+      "char_start": 3071,
+      "char_end": 3122,
+      "note": "Willow 承认 Jen 让她发毛——关键证词"
+    },
+    {
+      "chapter": "ch54",
+      "text_file": "ch54_54.txt",
+      "quote": "‘I’m very sorry, Miss Foster. There’s no heartbeat.’",
+      "char_start": 2377,
+      "char_end": 2429,
+      "note": "全书终局：孕检宣布没有心跳"
+    },
+    {
+      "chapter": "ch54",
+      "text_file": "ch54_54.txt",
+      "quote": "‘I want to be with you whether we ever have children or not. I don’t care whether I have an heir. The National Trust can have the lot.’",
+      "char_start": 4909,
+      "char_end": 5044,
+      "note": "Caius 对孩子与继承的态度"
+    },
+    {
+      "chapter": "ch54",
+      "text_file": "ch54_54.txt",
+      "quote": "Sometimes it just happens.",
+      "char_start": 3258,
+      "char_end": 3284,
+      "note": "医生解释死因"
+    },
+    {
+      "chapter": "ch54",
+      "text_file": "ch54_54.txt",
+      "quote": "This is the Mad Max timeline.",
+      "char_start": 10249,
+      "char_end": 10278,
+      "note": "Caius 对 Arthur Hampton 政治游说的拒绝"
+    },
+    {
+      "chapter": "ch54",
+      "text_file": "ch54_54.txt",
+      "quote": "‘Time helps.’",
+      "char_start": 6966,
+      "char_end": 6979,
+      "note": "Caius 之母讲自己流过产"
+    }
+  ]
+}

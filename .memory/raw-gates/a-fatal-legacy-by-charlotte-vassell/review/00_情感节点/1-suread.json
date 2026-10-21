@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "book": "A Fatal Legacy (Charlotte Vassell)",
+    "slug": "a-fatal-legacy-by-charlotte-vassell",
+    "reviewer_role": "00_情感节点.md 独立审查员",
+    "method": "R1 素读：只读 text/chNN_N.txt，未读任何 md；先落盘本文件，后读 00_情感节点.md",
+    "chapters_read": ["ch01", "ch02", "ch05", "ch09", "ch12", "ch16", "ch23", "ch25", "ch27", "ch29", "ch31", "ch33", "ch38", "ch42", "ch45", "ch48", "ch50", "ch52", "ch53", "ch54"],
+    "chapters_read_count": 20,
+    "offsets_unit": "字符偏移（Python str.find，0 基，右开区间），相对于 text/chNN_N.txt 全文",
+    "quotes": "所有引语按原文逐字抄录（含弯引号 U+2018/U+2019 与省略号）"
+  },
+  "人物关系": [
+    {"关系": "Caius Beauchamp（DI，Met 警探）— Calliope 'Callie' Foster（女友，女帽匠，私生女）", "章": ["ch01","ch27","ch38","ch42","ch54"]},
+    {"关系": "Caius — Matt（DS Matthew Cheung，同僚）与 Amy（DC Amy Noakes，同僚）", "章": ["ch05","ch09","ch25","ch33"]},
+    {"关系": "Caius — Marcus Beauchamp（父）/ Bridget Beauchamp（母）；Marcus 拥有 Priory Square 租赁权与三分之一房产权", "章": ["ch33","ch38","ch52","ch54"]},
+    {"关系": "Caius — 姐姐 Lydia 失踪案（成立专案组动机），Arthur Hampton 利用此事", "章": ["ch54"]},
+    {"关系": "Digby Combe-Watson（Horatio Combe Institute 馆长，被毒死）— Willow Bell（实习生，先报案人）", "章": ["ch01","ch02","ch33","ch52"]},
+    {"关系": "Andy（剑桥讲师）— 前女友 Isolde Burrell（真实 Isolde，小学教师，跛足）", "章": ["ch16","ch50"]},
+    {"关系": "Andy（历史学者）— Willow Bell（学生/恋人）；Andy 与 Isolde 保持'朋友式'关系并持有其家门钥匙", "章": ["ch16","ch52"]},
+    {"关系": "Jennifer 'Jen/Eulalia' Parkin — 姐姐 Mel（Melissa）Parkin：Jen 是脸、Mel 是声与管理者；Mel 控制 Jen 的精神科用药", "章": ["ch23","ch27","ch42","ch45","ch52"]},
+    {"关系": "Callie — 父亲 Peter Simpson（被曝光的 MP/快时尚巨头）；Willow 父亲 Arthur Hampton（17th Duke of Shropshire）", "章": ["ch29","ch38"]},
+    {"关系": "Caius — Scott Brown（Purple Toad Bakery 员工，被刺死）", "章": ["ch25","ch31"]},
+    {"关系": "Jimmy Jones（直播主，Priory Square 35 号，跌死/疑点）— 邻居 Margot Bourne（想买 Institute 扩建）", "章": ["ch31","ch52"]},
+    {"关系": "Beverley Parkin（Mel/Jen 之母）— PO Box 付款卡持有人；Nigel Parkin", "章": ["ch45","ch52"]}
+  ],
+  "关键数字与日期": [
+    {"数字": "1849 年", "含义": "波斯王 Naser al-Din 赠给 Digby 祖上祖传地毯的年份", "章": "ch01", "区间": "ch01_1.txt:71-124"},
+    {"数字": "1927 年", "含义": "地毯购于 Portobello Road 以掩盖地板油渍", "章": "ch01", "区间": "ch01_1.txt:71-124"},
+    {"数字": "晚 7–9 点", "含义": "Barry 判定 Digby 死亡时间", "章": "ch02", "区间": "ch02_2.txt:4590-4612 附近"},
+    {"数字": "£40/月", "含义": "PO Box 月租（Matt 语）", "章": "ch05", "区间": "ch05_5.txt:3452-3476"},
+    {"数字": "十三个 Isoldes", "含义": "全英仅 10 个 Isolde（1 养老院 + 7 小学生），余下两个给 Caius 与 Matt", "章": "ch16", "区间": "ch16_16.txt:10879-10944 附近"},
+    {"数字": "十三年", "含义": "Andy 与 Isolde 交往年数", "章": "ch16", "区间": "ch16_16.txt:10879-10944 附近"},
+    {"数字": "二十二卷 / 二十一卷", "含义": "Willow 说有 22 本日记，馆内只有 21 本；缺的是'malaria year'卷", "章": "ch33", "区间": "ch33_33.txt:3324-3375"},
+    {"数字": "1188 年 / 1532 年", "含义": "Eleanor of Aquitaine 1188 年建 Agnes 修道院；Alice de Burge 1532 年因异端被烧死", "章": "ch33", "区间": "ch33_33.txt:11333-11390"},
+    {"数字": "9.37 p.m. – 1.01 a.m.", "含义": "Whipps Cross 监控中真实 Isolde 与 Andy 坐下的时间窗（引起对真实 Isolde 的怀疑）", "章": "ch48", "区间": "ch48_48.txt:14277-14346"},
+    {"数字": "十二周扫描", "含义": "Callie 的产检预约，最终查出无胎心", "章": "ch53", "区间": "ch53_53.txt:2594-2651"},
+    {"数字": "九周停止发育", "含义": "医生称胚胎九周停长，missed miscarriage", "章": "ch54", "区间": "ch54_54.txt:2377-2429"},
+    {"数字": "10–20%", "含义": "Caius 引 Leaflet：十到二成妊娠会如此发生", "章": "ch54", "区间": "ch54_54.txt:2377-2429 之后"},
+    {"数字": "£60", "含义": "Eulalia 在意大利餐厅现金付账并把 £60 留在桌上", "章": "ch27", "区间": "ch27_27.txt:12109-12145"},
+    {"数字": "£70", "含义": "Callie 付的威斯敏斯特教堂两张门票与导览", "章": "ch12", "区间": "ch12_12.txt:13768-13813"},
+    {"数字": "五七年", "含义": "Mel 皇家音乐学院毕业已五年", "章": "ch42", "区间": "ch42_42.txt:10029-10044 附近"},
+    {"数字": "1997 年", "含义": "Hampton 称自己此后未碰毒品", "章": "ch54", "区间": "ch54_54.txt:8526-8569 之后"}
+  ],
+  "事件": [
+    {
+      "id": "E01",
+      "章": "ch01",
+      "谁做了什么": "Digby Combe-Watson（Horatio Combe Institute 馆长）中毒濒死：先脚趾失去知觉，再腿、喉咙逐渐关闭，最后心脏停跳；全程有一双'冰冷的钢眼'（凶手）从旁看着他。",
+      "情感与情节意义": "开场即以第一人称濒死视角给出'有人在看着他死'的核心恐惧；死亡地点被限定在家族遗物（地毯、缩头、祖先崇拜）的包围中，把命案与'遗产'主题钉死。",
+      "原文字符区间": "ch01_1.txt:71-124（地毯来历）、1810-1864（'cold steely eye'）"
+    },
+    {
+      "id": "E02",
+      "章": "ch02",
+      "谁做了什么": "Barry（法医）判定死因为 Hemlock（毒芹），死者口袋里有一包开封纸巾和薄荷含片所以闻不出毒芹味；桌上两人份沙拉、蜡烛、葡萄酒，同一盘沙拉在两人盘里，但客人只吃了面包屑。同桌发现者：Willow Bell（King's 学院历史系学生，周六在馆内实习）。馆外有三位毛利人抗议者每周六到馆前抗议归还 mokomokai（缩头）。",
+      "情感与情节意义": "把'浪漫晚餐'翻转为毒杀现场；Willow 成为第一个把馆门开着走进来的人，嫌疑的种子在此埋下；毛利抗议者被提前排除（三人互相作证）。",
+      "原文字符区间": "ch02_2.txt:4590-4612（Hemlock）、6199-6228（同一盘沙拉）、17328-17391（flaxen-haired woman 首次出现在结尾）"
+    },
+    {
+      "id": "E03",
+      "章": "ch02",
+      "谁做了什么": "Caius 在馆外撞倒一名亚麻色头发、戴棒球帽的年轻女子，二人互道'我们是不是见过'；女子之后躲在广场magnolia树后看他离开，希望他回来。",
+      "情感与情节意义": "这是全书'误认/替身'母题的第一次现身——真 Isolde 与假 Isolde（后来的 Jen/Eulalia）在此互换位置；读者先见到'脸'，很久之后才知道这张脸属于谁。",
+      "原文字符区间": "ch02_2.txt:17328-17391"
+    },
+    {
+      "id": "E04",
+      "章": "ch05",
+      "谁做了什么": "Caius 告诉总警监：专案组已被解散（因 Arthur Hampton 离开内阁、新内政大臣砍预算）；Caius 已通过外交部门联系 Digby 的母亲。Caius 与 Matt 讨论：'Isolde' 用 PO Box 通信（每月 £40），可能是诈骗，也可能是婚外情；Caius 推测 dating 时同伙入室盗窃、但 Digby 并未被盗窃，因此是沙拉意外中毒、'Isolde' 惊慌逃走。Amy 与 Simm 排查房间；邻居 Mrs Bourne 每晚吃褪黑素所以没听到任何声音；广场尽头一户有门铃摄像头但被树挡住。",
+      "情感与情节意义": "专案组解散＝Caius 个人执念的制度性失败，也是他转向'为了妹妹'的私人动机；'假 Isolde' 的侦查路径由此定型（PO Box 是钥匙）。",
+      "原文字符区间": "ch05_5.txt:1174-1210（专案组解散）、3452-3476（£40）、4041-4084（假名判断）"
+    },
+    {
+      "id": "E05",
+      "章": "ch09",
+      "谁做了什么": "Caius 与 Amy 列三选项：意外中毒/被杀/为进入 Institute 而杀；排除第三项（地下室多年封闭）。Caius 在白板写下'Money or sex'，并问'谁继承 Institute'。Amy's 笔记记录 Isolde 书信中的人物画像：五英尺七、棕发、小学英语lead教师、想搬到小村庄、成长于 Dorset、父亲是 Wagner 迷、跳舞受过伤、兄弟叫 Richard、去年开始画水彩、草莓过敏但爱树莓、迷 Dickens、毕业于 Exeter。Caius 判断：'她对 Digby 来说太完美了，也许过于完美'。",
+      "情感与情节意义": "把'完美女性'的拼贴式画像立为心理动机核心——后来证明这些细节是从真实 Isolde 偷来的，即'凝视/占有'是凶手的情感内核。",
+      "原文字符区间": "ch09_9.txt:1929-1953（Money or sex）、7222-7267（Too perfect perhaps）"
+    },
+    {
+      "id": "E06",
+      "章": "ch12",
+      "谁做了什么": "Callie 在泰特不列颠初次见 Eulalia（Eulalia 临时把见面地点改成'震撼人心的地方'）；Mel 全程在旁并与 Callie 握手下压式握手、催她 3 点前回去。Eulalia 要求 Callie 做品牌审美整体构思（与 PCQV 合作的化妆品线），自陈'我是品牌'、五年内把钱赚完再去做真正想做的艺术；Callie 付了 £70 买威斯敏斯特教堂两张门票与导览（Eulalia 没带钱、只带 Oyster 卡）。Eulalia 称 Mel 'organises everything for me' 但'没有那种创意思维'。",
+      "情感与情节意义": "Eulalia 对 Callie 的过度示好与'我什么都没有只有钱和一张脸'的自我暴露同时出现，是全书'被利用的崇拜'主题的起点；Mel 的控制欲第一次显形。",
+      "原文字符区间": "ch12_12.txt:3502-3638（'Cholera in trousers'）、13768-13813（£70）"
+    },
+    {
+      "id": "E07",
+      "章": "ch16",
+      "谁做了什么": "Caius 找到真实 Isolde Burrell（住在 Walthamstow Village，脚踝第二跖骨应力性骨折、穿月球靴、准备布里斯托半马）；她自称从未回应孤独者广告，并说'catfish'时震惊于有人盗用她的照片。她的兄弟叫 Richard、父亲爱 Wagner、想当芭蕾舞者、喜欢水彩、草莓过敏——与信中画像完全吻合，但她是跛足且有严密不在场证明（跑步伙伴 Keisha、前男友 Andy 用 Uber 收据与 A&E 监控）。Caius 结论：有人'用她的人生'做假 Isolde 的背景故事；他还带 Isolde 给出的账号（Issy Lara）向 Willow 展示，Isolde 不认识 Willow。",
+      "情感与情节意义": "第一次把'假 Isolde'与真实 Isolde 的身份偷窃分离，确认凶手偷的是'别人的一生'；真实 Isolde 从嫌疑人变成受害者。",
+      "原文字符区间": "ch16_16.txt:10879-10944（'不是我们的 Isolde'）及全章正文"
+    },
+    {
+      "id": "E08",
+      "章": "ch23",
+      "谁做了什么": "Eulalia 在卧室反复重播 Callie 在切尔西花展的花语视频；Mel 指出她'either love or obsessed/jealous'；Eulalia 辩解自己不是同性恋并抱着一本诗集出门。Mel 在地下录音棚向 DJ Sonikk 说明：Eulalia 是脸、Mel 才是声音与歌词（'她是 Ringo，我是 George、Paul 和 John'）、公司/标签/NDA 全由 Mel 掌控、Eulalia 服药（Mel 负责确认剂量）；Sonikk 描述一次 Mel 因'一个短发的朋友'（后来证实是 Jen）而情绪失控。",
+      "情感与情节意义": "'脸/声'的割裂在此以共谋形式坐实；Mel 对妹妹既爱又控制（'我永远会确保她撑住，不会伤害她'），为 ch45 的姐妹流血与 ch48 的精神病发作埋因。",
+      "原文字符区间": "ch23_23.txt:3953-4038（Mel 批评）、5650-5686（'她是脸，我是其他一切'）、10250-10266（'I love my sister'）"
+    },
+    {
+      "id": "E09",
+      "章": "ch25",
+      "谁做了什么": "Post Office 监控比对出三名反复出现者（两名送货女性、一名只带信件的男子）；Amy 通过托特包与 T 恤认出该男子是 Purple Toad Bakery 员工 Scott Brown。警方到 bakery 向 Jodie 取得 Scott 住址；Scott 已连续两天未上班。在其 Enfield 公寓，Barry 判定其被刺伤腹部（可能伤及肝脏）、仅一刀；蔡斯注意到墙上空掉的相框框、餐桌上开过的 Chablis 与两个杯子、一个避孕套——Scott 刚经历分手；房间里有大量被摘掉的画框痕迹。房间内相框、笔记本电脑、手机需被取证。",
+      "情感与情节意义": "第二位死者被塑造成与 Digby 相同的'孤独男性'，把'连环情杀/date killing'的假设摆上台面；亦首次出现'两起案子共享同一圈层'的结构。",
+      "原文字符区间": "ch25_25.txt:7306-7324（'Stabbed in the gut'）及全章正文"
+    },
+    {
+      "id": "E10",
+      "章": "ch27",
+      "谁做了什么": "Callie 与 Eulalia 在 St John's Wood 的意大利餐厅吃饭；Eulalia 问'Do you like me?'（极认真的语气）；邻座男子送 limoncello 搭讪，Eulalia 亲了 Callie 的脸颊后对男子竖中指，抢先买单、留 £60 现金在桌上就走；Callie 在街上有一瞬看见 Eulalia 站到车流前的幻象。Eulalia 打听 Caius：'他是警察？'、'他是好人吗？'、他的家族是否有城堡盔甲，Callie 只肯说'他是个好人'。Callie 注意到 Eulalia 没有包、从不自己付钱、Mel 掌控她的每一顿饭。",
+      "情感与情节意义": "Eulalia 对 Callie 的'取代式迷恋'（用独占、标记、消费来表达爱）在此几乎写尽；Callie 事后对 Tabs 说'eulalia 真奇怪'，但两人仍继续合作。",
+      "原文字符区间": "ch27_27.txt:8814-8845（'Do you like me?'）、12109-12145（£60）"
+    },
+    {
+      "id": "E11",
+      "章": "ch29",
+      "谁做了什么": "Callie 在社区助产士处抽血、称重、量身高；她回到咖啡店工作并画了六款'娃娃头'草图（割喉、流血的眼睛、尖牙）。她收到一束花与卡片'Dear Cal, I had such a great time. E x'，判断可能来自父亲 Peter Simpson（也可能是别的仰慕者）；她拍照发给 Caius 说'This is a bit weird right?'；Caius 隔了一小时才回，且消息只显示一条 tick。邻居（楼上租客）提醒附近夜间有'flasher'。",
+      "情感与情节意义": "'E x'（E=ex？或 E 开头姓名）与未署名的署名把'被仰慕者的父亲'这条身份线推到 Callie 面前；Caius 的'回复延迟'制造关系张力。",
+      "原文字符区间": "ch29_29.txt:4917-4945（卡片文字）"
+    },
+    {
+      "id": "E12",
+      "章": "ch31",
+      "谁做了什么": "在 Priory Square 35 号，直播主持人 Jimmy Jones（48 岁，前 BBC 深夜节目主持人）被发现死在自家门阶：Barry 判定像是滑倒撞上铁栏杆、台阶裂成两半，鞋上同色灰尘，'没有 foul play 的证据'；直播于凌晨 1 点开始，一名粉丝因他 8 点仍在直播而报警。Amy 找到 35 号阁楼里一本 Jimmy 写的回忆录手稿；家中物品一件未失。",
+      "情感与情节意义": "制造'看似意外'的第三具尸体，模糊谋杀与意外；同时把 35 号（后来的 Mel/Jen 家）绑定到凶案现场，为 ch45 的血迹与病发地点埋点。",
+      "原文字符区间": "ch31_31.txt:2438-2470（撞铁栏杆）及全章正文"
+    },
+    {
+      "id": "E13",
+      "章": "ch33",
+      "谁做了什么": "Amy 奉命读 Horatio Combe 的全部日记；Willow 在电话里坚称有'二十二卷'并说自己在笔记本上誊录、'Digby 让我从那卷开始'（即 malaria year）；馆内只有二十一卷，第 22 卷被祖先因'猥亵'锁在 Digby 抽屉里、现已失窃。日记揭示 Horatio 的降神会与性崇拜，以及环绕广场的成员名单（Benedict 家的 Mary 与 Emmeline Plunkett、21 号的 Josiah Hargreaves＝Jimmy 家、35 号的画作被皇家艺术学院禁入的 Lavinia Caddington）。博客显示：Priory Square 建在 Eleanor of Aquitaine 1188 年为赎罪建的 St Agnes 修道院旧址上，Alice de Burge 于 1532 年被烧死。Caius 打电话给父亲 Marcus，才知 Beauchamp 家拥有该广场的租赁权与三分之一房产；他因此须向总警监申请回避、将被调离案件。",
+      "情感与情节意义": "'遗产'母题在此闭合：命案地点本身是被继承的家族罪孽（Caius 既是查案人也是遗产继承人）；身份上的自我利益冲突让他从主动者变成旁观者，是全书情感转折的最强拍。",
+      "原文字符区间": "ch33_33.txt:3324-3375（二十二卷）、11333-11390（Alice de Burge 1532）、12664-12715（租赁权）"
+    },
+    {
+      "id": "E14",
+      "章": "ch38",
+      "谁做了什么": "Callie 与 Tabs 在 Purple Toad 喝咖啡；Tabs 转述 DJ Sonikk 的话'她姐姐那边有让人担心的事'。Caius 接到 Amy 电话：Institute 地下室发现一具手骨，摆在一张通灵桌上；Caius 叮嘱不要在旧案上多花时间。同日 Marcus 带 Callie 与 Caius 看乡下的 Meadowview 农场宅（Georgian farmhouse，四间卧室、果园），暗示搬家；Marcus 察觉 Caius 心情不对并试探他是否出轨，Callie 在场没说出怀孕的事（Caius 内心想的是婴儿房）。",
+      "情感与情节意义": "'搬家/庄园'＝被继承者身份的物质化；Caius 在案件最紧时开始想象婴儿房，把'遗产'与'新生'并置，是情感主线的关键意象。",
+      "原文字符区间": "ch38_38.txt:6209-6280（手骨）"
+    },
+    {
+      "id": "E15",
+      "章": "ch42",
+      "谁做了什么": "在 Frithsden Old Hall，Callie 告诉 Dotty（Georgie 妻子、已孕）自己怀孕了——'It was an accident. My implant ran out and I hadn't realised'，并约定暂不告诉任何人；Dotty 说自己此前有过两次流产。同日 Callie 刷到'Eulalia 身份被曝光'的报道（DJ Sonikk 泄露），并对 Dotty 说'我猜她是有点喜欢我的'、'她听起来很寂寞'。Callie 与 Caius 在皇家音乐学院毕业照里认出 Mel 是声音、Eulalia 是脸，Caius 断言'Mel 的声音、Eulalia 的脸，这才是她们互相怨恨的原因'。",
+      "情感与情节意义": "怀孕被分享＝Callie 第一次进入'被看顾/被爱'的家庭位置；身份曝光则把 Eulalia 从私人迷恋推入公众凝视，两条情感线在同章交汇。",
+      "原文字符区间": "ch42_42.txt:3731-3792（'我的植入物到期了'）、10029-10044（'Mel, her sister'）"
+    },
+    {
+      "id": "E16",
+      "章": "ch45",
+      "谁做了什么": "Robbie 与 Tiny Simm 到 35 Priory Square 撬门进入，发现 Melissa 'Mel' Parkin 倒在血泊中（尚有呼吸，送医后 'pulled through'）；现场为新造访者血迹（不是她自己的）；Robbie 获知 PO Box 用的是 Beverley Parkin 的信用卡，而 Beverley 曾谎称卡在 M&S Food 丢失。Amy 在 Mel 房间找到两包药：Olanzapine 与 lithium，全都是开给 Jennifer Parkin 的处方药；Matt 判断 Jen 双相或分裂情感性障碍，且 Mel 控制她的用药。在 Jennifer 房间发现：关于 Caius 的按时间排序的剪报、'Lydia 案'报道、'Mermaid bobblehead' 画、一件与 Willow 同品牌的红色开衫、一顶廉价棕色短 bob 假发、一只 Purple Toad 帆布袋；最后在梳妆台一堆粉丝来信里找到失窃的第 22 卷日记。",
+      "情感与情节意义": "'偷来的日记'与'偷来的身份'在同一屋檐下被找到，凶手的'占有/复制'行为被物证钉死；Jen 的爱＝收集与剪贴（Caius 的剪报本），这是她与 Willow 的'爱法'对照；Mel 挨刀是姐妹关系的暴力出口。",
+      "原文字符区间": "ch45_45.txt:1754-1769（Melissa Parkin）、4999-5057（Olanzapine/lithium）"
+    },
+    {
+      "id": "E17",
+      "章": "ch48",
+      "谁做了什么": "Robbie 接手案件并与 Matt 复盘；Matt 完整给出推理链：Jen 窃取论坛用户 Isolde 的身份、用母亲的卡买 PO Box、在 LRB 孤独者广告后写信给 Digby、装扮成 Willow 与 Isolde 两个红鲱鱼、在馆内约会时用毒芹沙拉杀人、偷走日记、再系统破门搜两家并排成十字形。Robbie 追问草莓过敏这条线索是信件还是论坛先出现；Matt 用 Whipps Cross 监控证明真实 Isolde 与 Andy 9.37 p.m.–1.01 a.m. 坐在 A&E 候诊室，因此重新怀疑真实 Isolde。DJ Sonikk 在警局向 Callie 透露：Eulalia 粉丝在广场公园守夜、Mel 曾为一个'短发的女孩'大爆发。Caius 告诉 Matt：'重要的是那个广场，不是 Digby，他们都是 collateral damage'。Caius 也承认他买了真实 Isolde 前男友（剑桥讲师）写的书，并从书的作者照片发现他是 King's 学院讲师。",
+      "情感与情节意义": "凶手动机由'情杀'转向'对遗址/遗产的痴迷'；Caius 意识到'公共利益 vs 家人'的结构性冲突已无解，'他们都是附带损失'是他放弃个人执念的转折。",
+      "原文字符区间": "ch48_48.txt:2456-2533（'Jen steals…'）、14277-14346（9.37 p.m.–1.01 a.m.）"
+    },
+    {
+      "id": "E18",
+      "章": "ch50",
+      "谁做了什么": "Robbie 接到法医电话：'那条隧道'被证实存在，他赶去 Institute（那是 Beauchamp 家的地）。Matt 单独问询真实 Isolde：她坚称自己从不写成人小说、从未注册论坛账号；Matt 在她仍登录状态的笔记本上打开论坛，她看到自己名下有大量作品后说'What the actual fuck?'，并反驳发布时间在上班期间、自己从不带自己的设备上班。她承认被跟蹤的恐惧，买了一台门铃摄像头。Andy 在警局外等她，还向 Matt 意味深长地解释 Beauchamp 家族如何在宗教改革后重新封存修道院、'如果老 Horatio 打通了就一定是因为他觉得下面有价值'。",
+      "情感与情节意义": "真实 Isolde 从嫌疑人彻底转为受害者；Andy 在此已完成'学者的贪婪'人格定型，他不是凶手但提供了动机。",
+      "原文字符区间": "ch50_50.txt:2084-2133（意大利求职）、2423-2444（'What the actual fuck?'）"
+    },
+    {
+      "id": "E19",
+      "章": "ch52",
+      "谁做了什么": "Caius 与 Marcus 在广场上吃可颂等机器人探测结果时，Willow 来取落在 Institute 的胸针；Amy 当众揭穿 Willow 的论文题目与 Instagram 帖子矛盾（自称'百年战争'，实际是 1300–1500 年英格兰女性草本药草史），Amy 追捕 Willow，Robbie 宣布以 Digby 与 Scott 两案逮捕 Willow Bell。Willow 的纸杯（写有 Scott 住址、来自 bakery 垃圾）上有她的指纹。Andy 供述：'我杀了那个怪胎'——用刀刺入 Scott 颈部，承认三次破门，并称 Jimmy 追逐他时自己摔倒系意外。Matt/Amy 判断 Andy 想替她顶罪；Robbie 指出她将面临两项谋杀与一项误杀指控。Matt 另告知 Caius：'Mel 挺过来了，Jen 已被 sectioned（依法强制送医）'。Caius 随后向父亲完整复述自己的推理：Willow 迷上历史学家 Andy，为保住他而杀 Digby（因 Digby 要把 Institute 卖掉给邻居 Margot Bourne，破坏遗址），并用 Jen 的笔记本买 PO Box、把失窃日记伪装成粉丝来信寄出。",
+      "情感与情节意义": "结局把'爱'写成占有与毁灭：Willow 为保住情人而杀人，Andy 为学术遗产而默许；Caius 与父亲的和解（'我没告诉你这些'）把父子关系推到最松弛处。",
+      "原文字符区间": "ch52_52.txt:5704-5737（'Mel's pulled through'）、10205-10291（逮捕令）、10711-10739（纸杯指纹）"
+    },
+    {
+      "id": "E20",
+      "章": "ch53",
+      "谁做了什么": "Callie 终于吐了；Caius 买了六个开心果可颂（她一直想吃）。她告诉 Caius 与 PCQV 的合作取消、准备与 Venetia 办'幸存者午餐'、唱片公司因不清楚知情程度而恐慌；Caius 给她看机器人进入第二条隧道的画面，说家族把这些宗教遗物在宗教改革时藏起来，父亲要把它们交给国家。Callie 说'Were there any skeletons in the end?'——'Yes, hundreds of them'。最后她告诉 Caius 十二周扫描的日期已定，Caius 说'I'll book time off'。",
+      "情感与情节意义": "外部风暴收束，日常（面包、日期、请假）重新占满画面；这是灾难前的最后一格'正常'，与 ch54 的断裂形成对照。",
+      "原文字符区间": "ch53_53.txt:666-685（'I was finally sick'）、2594-2651（十二周扫描）"
+    },
+    {
+      "id": "E21",
+      "章": "ch54",
+      "谁做了什么": "在 Whittington Hospital 做十二周扫描：医生说'There's no heartbeat'，诊断为 missed miscarriage（胚胎九周停止发育，身体仍以为怀孕），并说通常因遗传问题，有时就是会发生。回家后 Callie 崩溃，反复说'what if I can't have children'、担心影响 Caius 的家族血脉；Caius 说'The National Trust can have the lot'。Caius 打电话给母亲 Bridget 哭诉，Bridget 透露自己生 Caius 之后也曾流产，并说'Time helps'、劝他今晚不要求婚。Caius 买披萨时 Arthur Hampton 拦车，请他入阁做'安全席位'（'Call Hunderby'），以'England to survive'为名；Caius 拒绝并讽刺后走开，说要'take my life being manipulated'。Hampton 车内的女伴说'He's very good. He'll come around.'",
+      "情感与情节意义": "'继承/血脉'母题的最终反转：Caius 刚刚失去可能的孩子，却当场拒绝把血统与责任绑在一起（'有没有后代我无所谓'）；母亲的流产自白给出家族史上的又一次'断裂'；Hampton 的收买把外部世界（政治、操纵、遗产）压到最紧，为续集留口。",
+      "原文字符区间": "ch54_54.txt:2377-2429（'There's no heartbeat'）、6785-6823（'I had a miscarriage after I had you.'）、8526-8569（'Call Hunderby'）"
+    }
+  ],
+  "数字细节补充": [
+    {"断言": "《A Fatal Legacy》正文把 Digby 的死写成'毒芹'（hemlock），全书对沙拉毒物的表述在 ch05 与 ch52 之间保持为'hemlock-laced salad'，但 ch05 只说'bag had some hemlock leaves in it'（可能）。", "章": "ch05/ch52"},
+    {"断言": "第 22 卷日记被 Willow 称为'twenty-second volume'且'Digby had me start there'（malaria year），Amy 在馆内只数到二十一卷，因此第 22 卷是失窃件。", "章": "ch33/ch45"},
+    {"断言": "Mel 的真名是 Melissa Parkin，公开身份是 Jennifer 'Jen' Parkin 的妹妹、而 Jen 以 'Eulalia' 艺名出道；Olanzapine 与 lithium 开给 Jennifer。", "章": "ch45"},
+    {"断言": "真实 Isolde 的 alibi 为 6.30 p.m. 跑步受伤 → 9.37 p.m.–1.01 a.m. A&E；Willow/Andy 用她的人生做背景。", "章": "ch16/ch48/ch50"},
+    {"断言": "结尾所有死者：Digby（毒芹沙拉，被 Willow 下手）、Scott Brown（被 Andy 刺颈致死）、Jimmy Jones（追击中跌倒，动机属偷窃现场）、Mel（被 Jen 用烛台刺伤肩部，血流不止但活下来）。", "章": "ch52"}
+  ]
+}
