@@ -62,7 +62,7 @@ source_text: ch27
 
 **中文理解**：Callie 说没关系，然后从桌上那只小水壶里给两人各倒了一杯水，压低声音补了一句：我不想让你惹上麻烦。
 **关键词**：poured them each a glass of water / tiny jug / get you in trouble
-**为什么这样写**：被挡掉的只是那一壶 carafe，桌上仍摆着 Eulalia 的一杯 Valpolicella 和 Callie 的一杯 Limonata；真正只有 Callie 亲手倒的是那两杯水——她既是斟水的人，也是把「不想惹麻烦」压低声音说出来的人。这个动作把两人的关系摆到明面上：她替 Eulalia 着想，Eulalia 却连听一段自己的作品都要看 Mel 的脸色。
+**为什么这样写**：被挡掉的只是那一壶酒，桌上仍摆着欧拉莉亚自己点的一杯红酒和卡莉点的柠檬酒；真正只有卡莉亲手倒的是那两杯水——她既是斟水的人，也是把「不想惹麻烦」压低声音说出来的人。这个动作把两人的关系摆到明面上：她替 Eulalia 着想，Eulalia 却连听一段自己的作品都要看 Mel 的脸色。
 **读者视角提示**：注意她倒了两杯，不是三杯——Mel 在这顿饭里连一只杯子都没有。
 
 > **原句 8:** "‘Mel is now saying that the label’s plan is for me to perform in them when live but when I’m doing photoshoots and interviews it’ll be my face.’"

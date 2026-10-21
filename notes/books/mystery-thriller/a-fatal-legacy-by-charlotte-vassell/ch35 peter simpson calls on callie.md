@@ -39,9 +39,9 @@ source_text: ch35
 
 > **原句 4:** "‘Not this again.’ Peter had tried the other month to get Callie to change her surname to his now that their relationship had briefly been a tabloid headline."
 
-**中文理解**：卡莉一句“又来了”挡了回去：上个月彼得就试过要她改姓辛普森，理由是他们那段关系刚上过头版小报。
+**中文理解**：卡莉一句“又来了”挡了回去：上个月彼得就试过要她改姓辛普森，理由是他们那段关系刚上过头版小报。紧接着他把话挑明——“你是我唯一的女儿，对吧？”——又自己加上一句限定：“从生物学上说。”卡莉不否认也不承认，只回一句反问：“我是吗？”。她随后又冒出一句“我改名字没有意义”，话一出口自己就后悔了，彼得却当场抓住了这句话外音。
 **关键词**：surname / tabloid headline / Not this again
-**为什么这样写**：姓是这条父女关系里最硬的那根骨头——他要的不只是一个姓，是要她在纸面上认下“辛普森”这个名分。作者把他的话术交给卡莉一句轻飘飘的“又来了”，那轻描淡写正是拒绝的分量。
+**为什么这样写**：姓是这条父女关系里最硬的那根骨头——他要的不只是一个姓，是要她在纸面上认下“辛普森”这个名分。作者把他的话术交给卡莉一句轻飘飘的“又来了”，那轻描淡写正是拒绝的分量。但作者没有让这场戏停在「索姓—挡回」的单向结构上：父亲抛出的不是「我是你父亲」这句断言，而是带限定词的认领（“Biologically speaking”），女儿也不接这个定义，只用一个反问把它悬在半空（“Am I?”）；真正说漏嘴的不是拒绝，而是她自己那句“There's no point in me changing my name”——那等于默认她本来就是那个姓，而彼得抓的正是这层话外音（“caught the subtext”）。名字在这条关系里不是称呼问题，是证据问题。
 **读者视角提示**：他前面那句“你不是辛普森吧”才是这一场的真正起因：姓与不姓，是他在确认她到底认哪一半的血缘。
 
 > **原句 5:** "You’re going to have to face up to it at some point. The tide will turn against a sea of cheaply made polyester blouses that fall apart after a machine wash or two. Better for it not to be on your deathbed or worse, posthumously. You’d have no right of reply then. The vultures would just be gleefully picking over your corpse.’"
@@ -69,8 +69,8 @@ source_text: ch35
 
 **中文理解**：凯厄斯说，自己被从正在办的案子上撤下来，因为那一连串案子发生在一个他父亲部分持有的广场上，好像跟租赁权有关；他也说不清楚，反正那地方“是我们家的”。
 **关键词**：square / leaseholds / my dad
-**为什么这样写**：作者让父亲的存在以产权的形式渗进案情：没人提起他，是他的持股关系自动把案子牵连到家人身上。卡莉那句“反正都是我们的”是句自嘲，可笑之处正在于——在程序上，“我们的”恰恰是最不解决问题的那句话。
-**读者视角提示**：注意“部分持有”和“租赁权”这两个含糊说法：彼得在这宗案子里不是无关的人。
+**为什么这样写**：作者让**凯厄斯的父亲**以产权的形式渗进案情：没人提起他，是他的持股关系自动把案子牵连到家人身上。凯厄斯那句“反正都是我们的”是句自嘲，可笑之处正在于——在程序上，“我们的”恰恰是最不解决问题的那句话。
+**读者视角提示**：注意“部分持有”和“租赁权”这两个含糊说法：部分持有那个广场的是**凯厄斯的父亲**（马库斯），原文从头到尾没把这个广场和彼得挂钩。
 
 > **原句 9:** "‘Exactly my point.’ Callie went over and looked at the arrangement. ‘Quite an unusual group of flowers. Asphodel, carnations and bay leaves aren’t normally put together.’"
 
