@@ -1,0 +1,275 @@
+{
+  "chapter": "48",
+  "title": "The Police Station",
+  "src_file": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch48_48.txt",
+  "src_len": 15722,
+  "read_order": "plain read of src only; this file written BEFORE the chapter md was opened",
+  "items": [
+    {
+      "id": "S1",
+      "actor": "Robbie",
+      "action": "先与 Matt 和解（承认 ‘I think we got off on the wrong foot’、承认自己问过 Billy 的吸毒习惯），随后走到 Amy 用来追踪案件的白板前，翻过一块在背面写，要求 Matt 讲他缺了什么",
+      "src_range": [
+        652,
+        2412
+      ],
+      "src_text": "‘I think we got off on the wrong foot. I get it, you’re loyal to your DI and I didn’t help matters with my attitude.’\n\n\n‘You asked around about Billy’s coke habit, didn’t you?’\n\n\n‘Perhaps.’ Robbie had been caught. He held his hand out. Matt took it. ‘I know you fobbed me off with the hand in the basement.’\n\n\nMatt shrugged. ‘A corpse is a corpse. Doesn’t matter how long ago they died.’\n\n\n‘I guess you guys came up with a plan for the next few days after Caius was taken off in case I turned out to be a useless old duffer.’\n\n\n‘It’s an unruly case.’ Matt thought being frank with Robbie would be easiest. Everything could get swept under the same proverbial carpet. ‘You were never going to catch up in time so we just pushed on regardless.’\n\n\nRobbie had had enough of that conversation. ‘In the recording, Caius doubled back on the strawberry comment. What was that about?’\n\n\n‘Both fake and real Isolde are allergic to strawberries. It’s in the letters to Digby, Caius asked Isolde about it when she was interviewed, and she mentions it in her stories on the fanfic forum. I think Caius was trying to work out whether she had met Isolde in real life, or if she was referring to what appears to be a somewhat nebulous reference by a fellow forum user that she had escalated as a deeper relationship in her mind.’\n\n\n‘Which came first?’\n\n\n‘What do you mean?’\n\n\n‘The letters or the fanfic forum?’\n\n\n‘That’s a really good question,’ Matt said, opening the fanfic site up. ‘The first story was written a couple of days after the first letter from Isolde to Digby was dated.’\n\n\n‘That’s interesting,’ Robbie said, going up to the whiteboards that Amy was tracking the case on. He flipped one over and began writing on the back. ‘All right, tell me what I’m missing.’"
+    },
+    {
+      "id": "S2",
+      "actor": "Matt",
+      "action": "完整复盘案情：Jen 窃取论坛用户 Isolde 的身份写寄给 Digby 的信；Jen 可能几年前在 Harrogate 见过 Digby 并跟踪他；她用母亲的信用卡付 PO Box 费用，其母对 Matt 谎称卡丢了；她从 Willow（Digby 的实习生）处得知 lonely-hearts 广告后写信；她乔装成 Willow 并在信里冒充 Isolde",
+      "src_range": [
+        2415,
+        3112
+      ],
+      "src_text": "‘OK.’ Matt looked up from his computer. ‘Jen steals, consciously or unconsciously, the identity of a fellow forum user, Isolde, and uses it to populate letters that she sends to Digby. Jen potentially met Digby a couple of years ago in Harrogate and is stalking him. She uses her mum’s credit card to pay for the PO Box. Her mum lied to me and said she’d just lost her card and didn’t recognise the transaction – they’re coming in today. Jen writes to Digby after seeing his lonely-hearts ad in the London Review of Books – possibly finding out about it from Willow, his intern, who she has befriended on her lunchbreaks. Jen then dresses up as Willow while pretending to be Isolde in the letters."
+    },
+    {
+      "id": "S3",
+      "actor": "Robbie（说错地点）/ Matt（当场纠正）",
+      "action": "Robbie 复述 ‘goes to the museum … kills Digby via a hemlock-laced salad’，Matt 以 ‘Institute.’ 纠正，理由是 ‘Matt was being pedantic for the sake of it’；Robbie 随后改口 ‘Goes to the Institute’，并补出偷 Horatio 的变态日记、又系统地撬开广场上另外两栋房子、且两处 ‘perfectly aligned in a cross’",
+      "src_range": [
+        3115,
+        3591
+      ],
+      "src_text": "‘So Jen goes to the museum for the date she’s set up and kills Digby via a hemlock-laced salad,’ Robbie began.\n\n\n‘Institute.’ Matt was being pedantic for the sake of it. He took a breath. He needed to let it go.\n\n\n‘Goes to the Institute,’ Robbie continues. He saw what Matt had been getting at earlier. It was annoying. ‘Steals Horatio’s pervy diary, presumably for kicks. Then Jen systematically breaks into another two houses on the square all perfectly aligned in a cross.’"
+    },
+    {
+      "id": "S4",
+      "actor": "Matt 提问 / Robbie 回答 / Matt 继续",
+      "action": "Matt 盯着 Caius 打印的广场图说 ‘But why?’（这一句在原文出自 Matt，不是 Robbie）；‘I don’t know.’ 回答；Matt 摊手 ‘I don’t see it. This poor girl is in the middle of psychotic episode’",
+      "src_range": [
+        3594,
+        3875
+      ],
+      "src_text": "‘Yes,’ Matt said, staring at Caius’s printout of the square on the whiteboard. ‘But why?’\n\n\n‘I don’t know.’\n\n\nMatt shrugged. ‘I don’t see it. This poor girl is in the middle of psychotic episode. I can understand her attacking her controlling sister in that state but anyone else?’"
+    },
+    {
+      "id": "S5",
+      "actor": "（原文未标说话人，按对话轮次为 Robbie）",
+      "action": "‘It makes no sense… Like Amy said, messing up by using her mum’s card is just silly.’——把‘用母亲的卡付账’这一破绽归给 Amy 先前的判断；随后 ‘No prints on the letters themselves…’ 与 ‘Picking that little incel to be her dogsbody was a stroke of genius…’",
+      "src_range": [
+        3878,
+        4527
+      ],
+      "src_text": "‘It makes no sense. The way Digby’s murder has been planned out is meticulous. The PO Box thing is clever. Like Amy said, messing up by using her mum’s card is just silly.’\n\n\n‘No prints on the letters themselves. The envelopes have been fondled by everyone at the sorting office but not licked by the sender.’\n\n\n‘Picking that little incel to be her dogsbody was a stroke of genius. His mates are online not in-person. People lie online all the time. No one would believe him, and no one would miss him immediately other than his job and his mum, who probably struggles to be around her misogynistic son. Even then they didn’t report him as missing.’"
+    },
+    {
+      "id": "S6",
+      "actor": "Amy（读 Horatio Combe 的疟疾年日记）/ Matt / Amy / Robbie",
+      "action": "Amy 读日记 ‘I tasted sweet Emmeline… Lavinia has turned rather sour on me…’；Matt 猜 ‘holy lady’ 即圣母玛利亚／‘Our Lady’；Amy 猜是 Alice de Burge——宗教改革时期以异端被烧死的修女、广场中央有她的 blob 塑像、Horatio 的邪教 ‘feeding’ off 遗址能量；Matt 补充 Callie 对 Jen 说过同样的话；Amy 说下一段有几周断档、开始写 ‘tunnels’ 与 ‘hearts with worms’",
+      "src_range": [
+        11419,
+        13299
+      ],
+      "src_text": "Amy had returned to Willow’s transcript of Horatio Combe’s malaria-year journal. She’d made it about a third of the way through. ‘Listen to this:\n\n\n\n\nI tasted sweet Emmeline. She is ripening well. Lavinia has turned rather sour on me. We held our sacred communion after our earthly union. We felt a great power in the room and then the holy lady was upon us. We paid her great respect and she promised to intervene on our behalf with Our Lady.\n\n\n\n\n‘What poetry.’\n\n\n‘The first bit is clearly sex. The second bit though?’ Matt asked, looking up from the CCTV footage from 35 Priory Square. He’d watched the fight erupt between the sisters. Jen had tried to push past Mel who blocked her. Mel had been rough with Jen, trying to restrain her. Jen wrestled free and picked up a statuette from the sideboard and rammed the pointy end into her sister’s shoulder before fleeing. Mel pulled it out and then the blood began to pour. She must have nicked an artery or something. It was unfortunate. ‘Who’s the holy lady if not the Virgin Mary? But then she must be “Our Lady”.’\n\n\n‘It could be Alice de Burge? The nun who was burnt for heresy during the Reformation. The one with the blob statue in the middle of the square. His little cult is “feeding” off the ancient site’s energy.’ Amy looked up at Robbie. He seemed to be following.\n\n\n‘Actually, Callie said the same thing about Jen. That she moved there because a woman was burnt as a heretic on the site,’ Matt said.\n\n\n‘What does he say after the bit about ladies being sexy fruit?’ Robbie asked.\n\n\n‘There’s a few weeks’ break between the next entry. That’s barely coherent, and it’s not in full sentences. It starts to get a bit gobbledegooky from here on. He keeps writing about tunnels.’\n\n\n‘Tunnels?’ Robbie asked.\n\n\n‘Yeah, metaphorical tunnels, I guess, but he’s also talking about hearts with worms. I don’t know. He’s a lunatic.’"
+    },
+    {
+      "id": "S7",
+      "actor": "Matt（引入 Caius 的家族产业公司邮件与监控）/ Amy（给出 Keisha 证词）/ Robbie（下令）",
+      "action": "Matt 转发 Caius 的历史文章（维多利亚时期建楼挖地基挖出中世纪遗物），提出 ‘knocked through a basement wall’ 的猜想；Robbie 提 ‘Temple of Mithras… after the Blitz’；Matt 调出 Whipps Cross A&E 监控 ‘Isolde and Andy sit down at 9.37 p.m. They don’t move until 1.01 a.m.’；Robbie 质疑真 Isolde 是红鲱鱼并问 ‘Have you got doubts about Jen?’，Matt 答 ‘Yeah, I have.’；Amy 给出 Keisha Jones 的证词（Walthamstow 跑步、约 6.30 p.m. 送她回家、仍有时间空档）；Matt 说明正式问询时取过真 Isolde 的指纹、与残缺指纹不匹配；Amy 判定 ‘The fanfic forum has brought the real Isolde back under suspicion’ 并主张排除到超越合理怀疑、查她的笔记本、申请搜查令或传唤问话；Robbie 说 ‘Let’s do both.’",
+      "src_range": [
+        13594,
+        15532
+      ],
+      "src_text": "Matt forwarded the email to Robbie with the link. ‘Is it possible that someone knocked through a basement wall and into any subterranean ruins? I mean, it sounds crazy.’\n\n\n‘You say that but they found that Temple of Mithras under a building after the Blitz, right?’ Robbie said. He remembered seeing the opening of the ancient temple under the Bloomberg building on the news the other year.\n\n\nMatt checked his phone. Caius had forwarded him an email from his account at his family’s property company. Matt read it again. Caius did know who the killer was. He got up the CCTV from Whipps Cross A&E. Caius had requested it a while ago but there hadn’t been a need to watch it before. ‘Isolde and Andy sit down at 9.37 p.m. They don’t move until 1.01 a.m.’\n\n\n‘The real Isolde? I thought we’d established that she has nothing to do with it and she was a red herring?’ Robbie asked, looking up from the article. ‘Have you got doubts about Jen? It all ties up perfectly. The cardigan, the wig, the journal, the pervy forum.’\n\n\n‘Yeah, I have.’\n\n\n‘Isolde was alibied by a friend called Keisha Jones who she was out running with in Walthamstow. Keisha helped her home at approximately 6.30 p.m. There is time unaccounted for,’ Amy said, looking up at Matt. He knew something she didn’t.\n\n\n‘We took her prints when she was formally interviewed and she didn’t match the partials,’ Matt said.\n\n\n‘What are you getting at, Matt?’ Amy looked at him. He gave her a look as if to say go along with it.\n\n\n‘Are we sure she didn’t do it?’ Robbie asked.\n\n\n‘The fanfic forum has brought the real Isolde back under suspicion,’ Amy agreed. She turned to Robbie. ‘We should eliminate her beyond any reasonable doubt. What do you think? We should check her laptop at least. Should we get a warrant to search her place for evidence or just get her in for you to interview her? You might spot something we missed.’\n\n\n‘Let’s do both,’ Robbie said, nodding to himself."
+    },
+    {
+      "id": "S8",
+      "actor": "Caius（对 Matt）",
+      "action": "Caius 要 Matt ‘Get the real Isolde in’，并断言 ‘“Fake Isolde” is nothing but an aggressive opportunist… I think I know who did it but I’m not entirely sure why’，指出 ‘It’s the square that’s important. Not Digby. He was collateral damage. They all are.’",
+      "src_range": [
+        10820,
+        11404
+      ],
+      "src_text": "‘Get the real Isolde in,’ Caius said.\n\n\n‘Sure.’\n\n\n‘Those stories. I read the ones written by Isolde. I just can’t help but think an English teacher who likes Dickens … It wasn’t well written.’ Caius would never be able to look at poor Harry Styles again. ‘“Fake Isolde” is nothing but an aggressive opportunist. I think I know who did it but I’m not entirely sure why.’ Caius turned to Matt and began giving him instructions. He could see Callie in the distance getting really pissed off with him. ‘It’s the square that’s important. Not Digby. He was collateral damage. They all are.’"
+    },
+    {
+      "id": "S9",
+      "actor": "DJ Sonikk（真名 Cecil）",
+      "action": "自报姓名 Cecil；称自己是在签完东西之后才拿到完整情况；透露 ‘I saw Mel really lose it once… Some girl with a bob… Mel went nuts… Some choreographer had tried to sell pictures of Jennifer a few weeks before’；并说 ‘I nearly rang the police, actually. As it transpires I should have.’",
+      "src_range": [
+        7384,
+        8532
+      ],
+      "src_text": "‘Cecil.’ He leaned in and mouthed the words ‘DJ Sonikk’. ‘We’ve met before, haven’t we? I’m sure we have.’\n\n\n‘We’re both friends of Tabs.’ Callie didn’t think they’d met but knowing Tabs was close enough.\n\n\n‘Yes. Tabs, of course. God, she’s fun.’ He flopped down next to them. He didn’t care that there were others around to overhear. ‘There are Eulalia fans camped out in the garden in the square holding a vigil, you know. It’s dreadful, isn’t it?’\n\n\n‘Isn’t it just,’ Callie said.\n\n\n‘What a fucked-up family.’\n\n\n‘I take it you knew all along about who was doing what?’ Caius cryptically asked in a low voice. No one was paying attention to them.\n\n\n‘Oh yes, but I wasn’t given the full picture until after I’d signed everything, otherwise I wouldn’t have touched it.’ Cecil/DJ Sonikk stretched out on the chair next to Callie. ‘I saw Mel really lose it once. The poor kid had had a friend over. Some girl with a bob. Mel went nuts. It was awful. Some choreographer had tried to sell pictures of Jennifer a few weeks before. They were both under so much stress. They’re from a really normal family and just weren’t prepared for the work, you know.’"
+    }
+  ],
+  "relationships": [
+    {
+      "a": "Robbie",
+      "b": "Matt",
+      "rel": "警队同事，本章开头和解；Robbie 翻白板背面要求 Matt 讲案情"
+    },
+    {
+      "a": "Matt",
+      "b": "Amy",
+      "rel": "同队，Amy 用白板追踪案件；Matt 认可 Amy 关于‘母亲的卡’的判断"
+    },
+    {
+      "a": "Amy",
+      "b": "Robbie",
+      "rel": "Amy 向 Robbie 提议对真 Isolde 的处置，Robbie 拍板"
+    },
+    {
+      "a": "Jen (Jennifer)",
+      "b": "Isolde (真 Isolde Burrell)",
+      "rel": "Jen 窃取真 Isolde 的论坛身份并冒充之"
+    },
+    {
+      "a": "Jen",
+      "b": "Digby",
+      "rel": "Jen 跟踪并杀死 Digby"
+    },
+    {
+      "a": "Jen",
+      "b": "Mel",
+      "rel": "姐妹；Jen 在精神失控中用烛台状摆件袭击 Mel 的肩膀"
+    },
+    {
+      "a": "Jen",
+      "b": "Willow",
+      "rel": "Jen 在午休时与 Willow 交好，并从她处得知 lonely-hearts 广告；后来乔装成 Willow"
+    },
+    {
+      "a": "Caius",
+      "b": "Isolde",
+      "rel": "Caius 问询过 Isolde 并核过她的 alibi；订了真 Isolde 前男友写的书"
+    },
+    {
+      "a": "Callie (Calliope Foster)",
+      "b": "Jen",
+      "rel": "Callie 上电视被前任羞辱，Jen 由此盯上她并雇她"
+    },
+    {
+      "a": "DJ Sonikk / Cecil",
+      "b": "Mel / Jennifer",
+      "rel": "Cecil 曾目睹 Mel 失控，也知有编舞者卖 Jennifer 的照片"
+    },
+    {
+      "a": "Keisha Jones",
+      "b": "Isolde",
+      "rel": "真 Isolde 的不在场证明证人，但证词只覆盖到约 6.30 p.m."
+    },
+    {
+      "a": "Horatio Combe",
+      "b": "广场",
+      "rel": "Horatio 的邪教与广场古代遗址能量；Matt 怀疑有人打通地下室通向地下遗迹"
+    }
+  ],
+  "numbers_dates_verbatim": [
+    {
+      "item": "9.37 p.m.",
+      "ctx": "Isolde and Andy sit down at 9.37 p.m.",
+      "src_range": [
+        14305,
+        14314
+      ]
+    },
+    {
+      "item": "1.01 a.m.",
+      "ctx": "They don’t move until 1.01 a.m.",
+      "src_range": [
+        14337,
+        14346
+      ]
+    },
+    {
+      "item": "approximately 6.30 p.m.",
+      "ctx": "Keisha helped her home at approximately 6.30 p.m.",
+      "src_range": [
+        14756,
+        14779
+      ]
+    },
+    {
+      "item": "two-thousand word",
+      "ctx": "Then she wrote an iffy two-thousand word fantasy about them.",
+      "src_range": [
+        4867,
+        4884
+      ]
+    },
+    {
+      "item": "a couple of days after the first letter",
+      "ctx": "The first story was written a couple of days after the first letter from Isolde to Digby was dated.",
+      "src_range": [
+        2150,
+        2189
+      ]
+    },
+    {
+      "item": "a couple of years ago in Harrogate",
+      "ctx": "Jen potentially met Digby a couple of years ago in Harrogate and is stalking him.",
+      "src_range": [
+        2626,
+        2660
+      ]
+    },
+    {
+      "item": "about a third of the way through",
+      "ctx": "She’d made it about a third of the way through.",
+      "src_range": [
+        11514,
+        11546
+      ]
+    },
+    {
+      "item": "a few weeks’ break",
+      "ctx": "There’s a few weeks’ break between the next entry.",
+      "src_range": [
+        12972,
+        12990
+      ]
+    },
+    {
+      "item": "35 Priory Square",
+      "ctx": "CCTV footage from 35 Priory Square",
+      "src_range": [
+        11989,
+        12005
+      ]
+    },
+    {
+      "item": "Whipps Cross A&E",
+      "ctx": "He got up the CCTV from Whipps Cross A&E.",
+      "src_range": [
+        14174,
+        14190
+      ]
+    },
+    {
+      "item": "Year 7",
+      "ctx": "He’d studied Henry VIII in Year 7",
+      "src_range": [
+        7078,
+        7084
+      ]
+    },
+    {
+      "item": "a few weeks before",
+      "ctx": "Some choreographer had tried to sell pictures of Jennifer a few weeks before.",
+      "src_range": [
+        8389,
+        8407
+      ]
+    },
+    {
+      "item": "the day before",
+      "ctx": "Robbie had spoken to the driver the day before.",
+      "src_range": [
+        331,
+        345
+      ]
+    }
+  ],
+  "chapter_local_facts_for_crosscheck": {
+    "whiteboard_rewriter": "Robbie（翻过 Amy 的一块白板，在背面重画；‘All right, tell me what I’m missing.’）",
+    "but_why_speaker": "Matt（‘Yes,’ Matt said, staring at Caius’s printout of the square on the whiteboard. ‘But why?’）",
+    "murder_venue_correction": "Robbie 说 museum，Matt 纠正为 Institute",
+    "mum_card_detail_origin": "本章由 Matt 在复盘中说出（‘She uses her mum’s credit card to pay for the PO Box’），对话方并注明‘Like Amy said’——该判断出自 Amy 早前的观察，本章只是转述",
+    "final_state": "真 Isolde 重新进入嫌疑（‘back under suspicion’），尚未定罪；Robbie 令查笔记本＋传唤，两手并行",
+    "no_guilt_declaration": "本章无任何‘Jen 就是凶手’的定论；Caius 只说‘I think I know who did it but I’m not entirely sure why’"
+  }
+}
