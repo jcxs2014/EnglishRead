@@ -146,7 +146,7 @@ source_text: ch11
 | earring | 耳环；耳饰 | After piling them into a small mountain to her right, she took several of the larger ones and began to pierce Alba’s right ear, pressing the earrings all the way through. |
 | mirror | 镜子 | She walked toward the mirror and peered at herself. |
 | ceiling | 天花板 | The girl was stretched out on the ground, looking up at the ceiling. |
-| floor | 地板；地面 | In the middle, she could make out the spot where the girl had lain down, like the outline of a body at a crime scene, drawn with two fingers. |
+| floor | 地板；地面 | Her blond ponytail stretched across the floor, bleached and limp from sun and chlorine. |
 | girl | 女孩 | The little girl, or the teenager, stomped her foot, and the charms jingled. |
 
 ## 一句话总结

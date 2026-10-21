@@ -8,7 +8,7 @@ source_text: ch04
 
 ## 本章导航
 
-- **一句话概括**：前一天迟到的自责还没散，她又得赶去 Cornellà 吃姐姐 Alba 的生日饭；车厢里她戴上那副近视眼镜，认定有人在玩刀，站起来挤过人墙喊全家马上下车，自己却卡在车门中间。
+- **一句话概括**：前一天迟到的自责还没散，她又得赶去 Cornellà 吃妹妹 Alba 的生日饭；车厢里她戴上那副近视眼镜，认定有人在玩刀，站起来挤过人墙喊全家马上下车，自己却卡在车门中间。
 - **情感弧线位置**：把检查的循环从家里的门锁推到拥挤的车厢；本段的最低点是她在女儿学校门口那种明明记得却仍然不信的自我折磨，最高点是车厢里那个没做任何确认就起身喊人下车的自己。
 - **Tropes 兑现/反转**：控制型长姐的套路在本章兑现——Alba 的要求从不商量，Carlos 看得一清二楚却插不上话；母亲的话没人当真这一套也部分兑现——Carlos 追问的是她的视力，不是她的判断。
 - **人物弧线**：Diana 从躺着装睡不起身、到在车厢里自己拍板；Carlos 劝她对 Alba 说不出不，到发现争不赢而认命上车，末了还能拿她那张试衣间自拍开玩笑；Brisa 与 Tomás 的天真落在抢圣诞节手工作品和追问匕首是什么上。
@@ -78,7 +78,7 @@ source_text: ch04
 
 > **原句 6:** "The conversation never changed—it was like walking straight into an argument. She complained about her sister’s demands and said she was fed up. He backed her up and validated her feelings, even tried offering evidence to shed more light on the obvious."
 
-**中文理解**：这场对话从来不会变——就像直直撞进一场争吵：她抱怨姐姐的要求，说自己受够了；他附和她、认可她的感受，还想拿出证据，把本来已经显而易见的事再说明白一遍。
+**中文理解**：这场对话从来不会变——就像直直撞进一场争吵：她抱怨妹妹的要求，说自己受够了；他附和她、认可她的感受，还想拿出证据，把本来已经显而易见的事再说明白一遍。
 
 **关键词**：it was like walking straight into an argument · She complained about her sister’s demands · shed more light on the obvious
 
@@ -144,7 +144,7 @@ source_text: ch04
 |---|---|---|
 | kids | 孩子们；小孩 | That day, she couldn’t allow herself a shower because there wouldn’t be time to dry her hair before she’d have to pick up the kids. |
 | knife | 刀 | She squinted, and it seemed that what the young man juggled was a knife. |
-| sister | 姐姐；姐妹 | She complained about her sister’s demands and said she was fed up. |
+| sister | 姐妹 | She complained about her sister’s demands and said she was fed up. |
 | train | 火车；地铁列车 | She yelled that they had to get off the train, now. |
 | afternoon | 下午 | The four of them were sitting in a Line-5 train car at two in the afternoon, right in the thick of the lunch-hour rush. |
 | birthday | 生日 | And it’s her birthday. |
@@ -153,4 +153,4 @@ source_text: ch04
 
 ## 一句话总结
 
-前一天迟到留下的自责还没散，她又被姐姐的生日饭拖出门，在地铁上凭一副近视眼镜认定有人在玩刀，站起来喊全家马上下车，自己却卡在车门中间——这是她不再反复确认就行动的代价：在满是乘客的车厢里当众失控。
+前一天迟到留下的自责还没散，她又被妹妹的生日饭拖出门，在地铁上凭一副近视眼镜认定有人在玩刀，站起来喊全家马上下车，自己却卡在车门中间——这是她不再反复确认就行动的代价：在满是乘客的车厢里当众失控。
