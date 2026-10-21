@@ -1,0 +1,240 @@
+{
+  "chapter": "ch39",
+  "reviewer": "独立审查员（第二轮，接手卡死的 R1/R2）",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch39_39.txt",
+  "source_total_chars": 6030,
+  "read_order": "先只读 text/ch39_39.txt 全文（未开任何 md、未看笔记），读完立刻落盘本文件；之后才跑机器层与开 md",
+  "section_header_in_source": {
+    "text": "The Police Station",
+    "line": 17,
+    "char_range": [20, 38]
+  },
+  "scene_split": {
+    "marker": "* * *",
+    "line": 49,
+    "char_range": [1853, 1858],
+    "meaning": "前段＝警局办公室（Matt 与 Amy），后段＝警局讯问室（Matt 问 Fenella）"
+  },
+  "events": [
+    {
+      "n": 1,
+      "who": "Matt",
+      "did": "说把 Robbie 留在现场处理法证（forensics）；自己打开抽屉拿出一包消化饼干，递给 Amy 一块",
+      "char_range": [41, 190],
+      "line": 20
+    },
+    {
+      "n": 2,
+      "who": "Amy",
+      "did": "说『好主意』并咬了一口；她当时正在打印她为 Horatio 的疟疾年（malaria-year）日记做的笔记",
+      "char_range": [193, 307],
+      "line": 23
+    },
+    {
+      "n": 3,
+      "who": "Matt",
+      "did": "说自己看见了那只手：一张大圆桌上摆着烛台（candlesticks），四处都是怪异的符号；「像个瘆人的时间胶囊」；说「沟通死者是全人类的普遍冲动」，自己是中国人、特别喜欢鬼、我们做祖先崇拜；猜那只手来自哪里——盗墓？Highgate Cemetery 离那儿不算远",
+      "char_range": [310, 812],
+      "line": 26
+    },
+    {
+      "n": 4,
+      "who": "Amy",
+      "did": "说 Caius 让她把注意力集中在二十一世纪的罪案上；她收齐最后一页并装订成册，放到 Caius／Robbie 的桌上",
+      "char_range": [815, 966],
+      "line": 29
+    },
+    {
+      "n": 5,
+      "who": "Matt",
+      "did": "说「那当然。Robbie 会陷在维多利亚时代那些屁事里」；看了 Caius 昨晚傍晚给 Amy 的那份策略；叫她再查真正的 Isolde、像 Joe Public 那样尽可能多地查，因为要弄清「假 Isolde」怎么知道那么多；说自己要去打给 Fenella，告诉她房产里发现了人类遗骸",
+      "char_range": [969, 1385],
+      "line": 32
+    },
+    {
+      "n": 6,
+      "who": "Amy",
+      "did": "把自己那份笔记的副本交给 Matt，说「之后读一下这个」；Matt 回「好」",
+      "char_range": [1388, 1469],
+      "lines": [35, 38]
+    },
+    {
+      "n": 7,
+      "who": "Amy",
+      "did": "说失踪的日记一直让她不安；她要回研究所先把日记找出来；偷日记本身似乎不足以构成杀 Digby 的动机，但日记不见了这件事本身很重要；回去后继续挖 Isolde",
+      "char_range": [1472, 1771],
+      "line": 41
+    },
+    {
+      "n": 8,
+      "who": "Matt",
+      "did": "说也去 Digby 家找；他很清楚该顺着 Amy 的直觉走",
+      "char_range": [1774, 1848],
+      "line": 44
+    },
+    {
+      "n": 9,
+      "who": "Matt（DS Matthew Cheung）",
+      "did": "在讯问室坐到 Fenella Combe-Watson 对面自我介绍，说她此前与他的同事 DI Caius Beauchamp 打过交道",
+      "char_range": [1863, 2043],
+      "line": 54
+    },
+    {
+      "n": 10,
+      "who": "Fenella Combe-Watson",
+      "did": "问『有进展了吗』，并攥住桌子",
+      "char_range": [2046, 2128],
+      "line": 57
+    },
+    {
+      "n": 11,
+      "who": "Matt",
+      "did": "说「算是有一点」；感谢她允许警方进入 Horatio Combe 研究所的地下室；问她自己是否下去过",
+      "char_range": [2131, 2312],
+      "line": 60
+    },
+    {
+      "n": 12,
+      "who": "Fenella",
+      "did": "说从没下去过，那里一直封着；不知道是什么时候封的；据她理解，她曾曾祖父（great-great-grandfather）遗嘱的条款明确规定房子不得以任何方式改动",
+      "char_range": [2315, 2526],
+      "lines": [63, 69]
+    },
+    {
+      "n": 13,
+      "who": "Matt",
+      "did": "确认「对，Horatio 的遗嘱」",
+      "char_range": [2529, 2553],
+      "line": 72
+    },
+    {
+      "n": 14,
+      "who": "Fenella",
+      "did": "说正是那份遗嘱卡住了 Digby 归还 mokomokai；他本打算寻求法律意见，看能否把它们送回新西兰",
+      "char_range": [2556, 2708],
+      "line": 75
+    },
+    {
+      "n": 15,
+      "who": "Matt / Fenella",
+      "did": "Matt 问地下室是不是 Horatio 本人封的；Fenella 答「是」，只能假定是他留下时就那样封着；她曾祖或任何祖先可能瞒着所有人改过这房子；家里从未让外人参与信托",
+      "char_range": [2711, 3051],
+      "lines": [78, 81]
+    },
+    {
+      "n": 16,
+      "who": "Matt / Fenella",
+      "did": "Matt 确认她确实是 Horatio 的直系后代；Fenella 答「是，我父亲是他的曾孙；我的曾曾祖母在我曾祖父九岁时去世，我想是肺结核」",
+      "char_range": [3054, 3253],
+      "lines": [84, 87]
+    },
+    {
+      "n": 17,
+      "who": "Matt（内心）",
+      "did": "问她葬在哪儿；心想那只手会不会就是她（曾曾祖母）的；Horatio 也许出于悖谬的浪漫，其降神会是在试图联系深爱的亡妻——尽管降神会的数量之多似乎指向相反方向",
+      "char_range": [3256, 3519],
+      "line": 90
+    },
+    {
+      "n": 18,
+      "who": "Fenella",
+      "did": "说在 Highgate Cemetery，他们家有一个家族墓穴；随后沉默，因为她在等 Digby 的遗体获释，已经开始着手安排他的葬礼",
+      "char_range": [3522, 3694],
+      "line": 93
+    },
+    {
+      "n": 19,
+      "who": "Matt / Fenella",
+      "did": "Matt 给了她一点时间，问有没有哪种家族传说没写进导览书；Fenella 说据她所知没有；她不认为 Horatio 是个 great man，尽管他坚持让人那样描写他，只是个走过很多地方、自负、收藏阴森的人；她曾祖小时候不是 away at school 就是住在母亲那边的亲戚家，而 Horatio 在世界各地游荡；她父亲说两人关系不深；Horatio 去世时 Aloysius（她曾祖）正在学校最后一年",
+      "char_range": [3697, 4235],
+      "lines": [96, 99]
+    },
+    {
+      "n": 20,
+      "who": "Matt",
+      "did": "告诉 Fenella：研究所地下室发现人类遗骸，摆成降神会（seance）桌子的中央有一只手；不确定遗骸有多老、来自哪里；已请来一个专家团队",
+      "char_range": [4238, 4619],
+      "line": 102
+    },
+    {
+      "n": 21,
+      "who": "Fenella / Matt",
+      "did": "Fenella 惊呼「天哪」；Matt 认为她看上去真心震惊；Matt 说会做相当多的检测、不可能很快解决",
+      "char_range": [4622, 4759],
+      "lines": [105, 108]
+    },
+    {
+      "n": 22,
+      "who": "Matt（内心）",
+      "did": "对 Fenella 的茫然不解感到意外，随即想到她唯一的孩子已经死了，她也就只能这样",
+      "char_range": [4762, 4968],
+      "line": 111
+    },
+    {
+      "n": 23,
+      "who": "Matt / Fenella",
+      "did": "Matt 说「这对你来说一定很可怕」；Fenella 双手发抖、握在一起稳住自己，问这事跟 Digby 有什么关系；Matt 回「我们还不完全确定」",
+      "char_range": [4971, 5141],
+      "lines": [114, 117, 120]
+    },
+    {
+      "n": 24,
+      "who": "Fenella",
+      "did": "说这封信是她昨天才拆的，是 Digby 趁她不在时寄的；她因为情绪太糟，直到今天早上才拆任何邮件；她从包里拿出一个信封推过桌面给 Matt；差点没交给他；那是 Digby 写给她的最后东西；她已经把他的许多信扔进了回收箱；「但那感觉挺因缘相报的，不是吗」",
+      "char_range": [5144, 5536],
+      "line": 123
+    },
+    {
+      "n": 25,
+      "who": "Matt",
+      "did": "问信里写了什么；他手上没戴手套",
+      "char_range": [5539, 5594],
+      "line": 126
+    },
+    {
+      "n": 26,
+      "who": "Fenella",
+      "did": "转述信的内容：Digby 想约一顿午饭谈他收到的一份研究所报价（信里还附了那份报价）；他觉得对方出价太低（lowballing him），想不留情面地叫他们滚蛋；信里还提到把缩头（the shrunken heads）归还回去；写了等研究所这个「磨盘」（the millstone of the Institute）去掉后他们可以用那笔钱过怎样的生活；「It was glorious. He was going to really live.」",
+      "char_range": [5597, 6030],
+      "line": 129
+    }
+  ],
+  "relationships": [
+    {"pair": "Matt 与 Amy", "type": "同一苏格兰场团队同事，本章办公室段落里搭档", "evidence_line": [20, 23]},
+    {"pair": "Matt → Robbie", "type": "Matt 把 Robbie 留在现场做法证（forensics at the scene）", "evidence_line": 20},
+    {"pair": "Caius → Amy", "type": "Caius 昨晚傍晚给 Amy 出了一份策略；Caius 让 Amy 聚焦二十一世纪罪案", "evidence_line": [29, 32]},
+    {"pair": "Matt → Caius", "type": "Caius 是 Matt 的同事（DI）；Matt 称他「my colleague DI Caius Beauchamp」", "evidence_line": 54},
+    {"pair": "Robbie ↔ Caius", "type": "两人共用一张办公桌（notes 放到 Caius's/Robbie's desk）", "evidence_line": 29},
+    {"pair": "Fenella Combe-Watson → Digby", "type": "母子；Digby 是她唯一的孩子（her only child），已经死亡", "evidence_line": [111, 123]},
+    {"pair": "Fenella → Horatio Combe", "type": "直系后代：Fenella 的父亲是 Horatio 的曾孙；Fenella 曾祖名 Aloysius；曾曾祖母在曾祖九岁时去世（疑肺结核）", "evidence_line": [84, 87, 99]},
+    {"pair": "Horatio 的遗嘱 → 房产", "type": "曾曾祖父遗嘱禁止改动房子；卡住 Digby 归还 mokomokai 并送回新西兰；地下室被封", "evidence_line": [69, 75, 81]},
+    {"pair": "Matt → Mel", "type": "Matt 查看来自 35 号的 Mel 的留言", "evidence_line": 26},
+    {"pair": "Digby → Fenella", "type": "Digby 写信给母亲（the last thing he wrote to me）；信是趁她不在时寄的", "evidence_line": 123},
+    {"pair": "买下研究所的第三方 → Digby", "type": "给 Digby 发出一份研究所报价的人（未具名）；Digby 认为出价太低并想叫对方滚蛋", "evidence_line": 129}
+  ],
+  "numbers_and_dates_verbatim": [
+    {"item": "twenty-first-century crime", "line": 29, "char_range": [815, 966], "meaning": "Caius 要求聚焦的世纪"},
+    {"item": "number 35", "line": 26, "char_range": [310, 812], "meaning": "Mel 的号码（Matt 说有来自 35 号的留言）"},
+    {"item": "nine", "line": 87, "char_range": [3122, 3253], "meaning": "曾曾祖母去世时曾祖的年龄"},
+    {"item": "great-great-grandfather’s will", "line": 69, "char_range": [2388, 2526], "meaning": "禁止改动房产的遗嘱"},
+    {"item": "great-grandson", "line": 87, "char_range": [3122, 3253], "meaning": "Fenella 的父亲与 Horatio 的关系"},
+    {"item": "New Zealand", "line": 75, "char_range": [2556, 2708], "meaning": "Digby 想把 mokomokai 送回的地方"},
+    {"item": "Highgate Cemetery", "line": [26, 93], "char_range": [310, 812], "meaning": "家族墓穴所在地；Matt 猜测盗墓来源"},
+    {"item": "mokomokai", "line": 75, "char_range": [2556, 2708], "meaning": "缩头；Fenella 同一封信里用「the shrunken heads」指同一物"},
+    {"item": "the millstone of the Institute", "line": 129, "char_range": [5597, 6030], "meaning": "Fenella 对研究所的称呼"},
+    {"item": "an offer for the Institute he’d received, which he also enclosed", "line": 129, "char_range": [5597, 6030], "meaning": "Digby 收到的报价并附在信里——**本章原文没有出现任何具体金额数字**"}
+  ],
+  "key_absence_note": "关于那封信与那份报价，**本章原文全章没有出现任何具体金额**（无「两百万」「£2 million」「million」等字样）。Fenella 的转述只有：Digby 想约午饭谈他收到的报价、报价附在信里、他觉得对方出价太低（lowballing him）、他想把缩头归还回去、他写了等研究所这个「磨盘」去掉后他们能用那笔钱过怎样的生活，以及『It was glorious. He was going to really live.』。信的方向是 Digby → Fenella（他写给母亲的最后一封信）。",
+  "attribution_cautions_for_R4": [
+    "『communing with the dead / ancestor worship』是 Matt 说的（他自己是中国人），不是叙述者的客观论断",
+    "『那只手会不会是她（曾曾祖母）的』是 Matt 的内心猜测，不是事实",
+    "『Horatio 出于悖谬的浪漫』是 Matt 的内心推测",
+    "『great man / well-travelled egotist』是 Fenella 的评价，不是叙述者结论",
+    "信里内容全部出自 Fenella 的转述，是她口中的 Digby 的话",
+    "『他是我的同事』中的同事是 Caius；Fenella 之前与 Caius 打过交道，不是与 Matt"
+  ],
+  "section_label_question": {
+    "in_chapter_text": "The Police Station（第 17 行）——这是本章正文自带的小标题",
+    "note": "分部名不在本章 text 内，需在 md 阶段核对：书里真实分部标题为 A FRIDAY IN MAY / SATURDAY / SUNDAY / MONDAY / TUESDAY / WEDNESDAY / THURSDAY / FRIDAY / SIX WEEKS LATER"
+  }
+}
