@@ -50,7 +50,7 @@ source_text: ch66
 
 **读者视角提示**：她在笑，但眼睛是空的。
 
-> **原句 4:** “Who is that young lady?” Scrooge asked. “And why have you taken possession of her, Mr Gowing?”
+> **原句 4:** “Who is that young lady?” Scrooge asked. “And why have you taken possession of her, Mr Gowing?” The girl did not move. Her voice was deep and sonorous, a parlour trick which Scrooge had encountered before.
 
 **中文理解**：「那位年轻女士是谁？」Scrooge 问，「Mr Gowing，你为什么占用了她？」那女孩没有动。她的声音低沉浑厚——那是一种客厅里的把戏，Scrooge 以前见识过。
 
@@ -60,7 +60,7 @@ source_text: ch66
 
 **读者视角提示**：他直接点名 Gowing。
 
-> **原句 5:** The girl did not move. Her voice was deep and sonorous, a parlour trick which Scrooge had encountered before.
+> **原句 5:** “So many questions.” This, said with a chuckle. Then: “her name is not important. And she is only a temporary vessel.”
 
 **中文理解**：「问题真多。」这声音带着一声窃笑。接着说：「她的名字并不重要。而且她不过是个临时的容器。」
 
@@ -70,7 +70,7 @@ source_text: ch66
 
 **读者视角提示**：她说这具身体只是临时的。
 
-> **原句 6:** “So many questions.” This, said with a chuckle. Then: “her name is not important. And she is only a temporary vessel.”
+> **原句 6:** “You have another in mind, I think,” said Scrooge, sounding a little querulous now. “A younger and more permanent home for your spirit.”
 
 **中文理解**：「你心里已经另有打算了，」Scrooge 说得带了些急躁，「一个更年轻、更永久的容身之所，来安置你的灵魂。」
 
@@ -80,7 +80,7 @@ source_text: ch66
 
 **读者视角提示**：他一眼看穿了对方的换人计划。
 
-> **原句 7:** “You have another in mind, I think,” said Scrooge, sounding a little querulous now. “A younger and more permanent home for your spirit.”
+> **原句 7:** “I do,” said the thing that lived inside the body of the maid. “And I imagine that you can guess whom I am preparing for that signal honour.” Scrooge said simply: “I do believe I can.”
 
 **中文理解**：「不错，」那住在这具女仆身体里的东西说，「我想你能猜到，我正在为那份殊荣预备哪位。」Scrooge 只是说：「我相信我能猜到。」
 
@@ -90,7 +90,7 @@ source_text: ch66
 
 **读者视角提示**：它把目标称作「殊荣」。
 
-> **原句 8:** “I do,” said the thing that lived inside the body of the maid. “And I imagine that you can guess whom I am preparing for that signal honour.”
+> **原句 8:** “Jolly good,” said the voice in the darkness. “I have been told how clever you are. In which case, only one thing remains to be settled.”
 
 **中文理解**：「太好了，」黑暗里的声音说，「他们告诉我你有多聪明。既然如此，只剩下一件事要定。」
 
@@ -100,7 +100,7 @@ source_text: ch66
 
 **读者视角提示**：对手早就研究过他。
 
-> **原句 9:** Scrooge said simply: “I do believe I can.”
+> **原句 9:** “And what’s that, sir?” Scrooge could just make out that the girl was grinning now. “Whether or not you can stop me,” it said.
 
 **中文理解**：「那是什么，先生？」Scrooge 只能隐约看出那女孩此刻在咧嘴笑。「你能不能阻止我。」它说。
 
