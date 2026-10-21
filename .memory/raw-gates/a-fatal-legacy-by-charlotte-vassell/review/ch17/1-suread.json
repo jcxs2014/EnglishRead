@@ -1,0 +1,101 @@
+{
+  "chapter": "17",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch17_17.txt",
+  "source_total_chars": 6133,
+  "source_heading": "The National Portrait Gallery",
+  "note": "本文件在阅读任何 md 之前生成；区间为原文字符偏移 [start,end)，基于 UTF-8 解码后的字符计数。原文引文逐字抄录。",
+  "events": [
+    {
+      "id": "E1",
+      "who": "Callie",
+      "what": "在国家肖像馆（National Portrait Gallery）伊丽莎白一世（Elizabeth I）肖像前坐了「the last half an hour」，摊开速写本，不临摹整幅，只挑自己喜欢的细节——耳环、袖子上的图案、发间的珠宝、纹理与纹样、奢华感（opulence）；她评述这些东西「All of them crafted to signal strength」，而画面上是一位体弱女人的身体，认为这是修辞，写下「Feminine or rather feminised armour」，并想「There was perhaps something in that idea. Eulalia liked viragos, after all.」",
+      "range": [52, 598]
+    },
+    {
+      "id": "E2",
+      "who": "Callie（+ Mel、‘Amelia’、她父亲 Peter、她母亲）",
+      "what": "画够了，检查手机：Mel 已回复「‘Amelia’s’ email」，说 Callie 愿意接下这份咨询工作，前提是费用与「the short deadline and wide scope of the project」相称；Mel 给了「a handsome fee」，Callie 的冒名顶替综合症（impostor syndrome）自负到不肯拒绝；「‘Amelia’」回邮确认报价可接受；Mel 随后发来合同与「a lengthy NDA」让 Callie 签，Callie 略扫后转给她父亲的律师核查（Peter 说这些律师「had them on retainer for family usage」）。她已开始幻想这笔佣金买单躺椅的西西里假期、吃意大利饭团/arancini，但转念该用一部分钱买「a good pram. Something they could use for all their children」；又猜父亲会「make a show of buying the baby one from Rolls-Royce」（她也知道「they didn’t make prams」，也许他会要求破例）；至于怎么告诉母亲，「that was a problem for another day」。",
+      "range": [601, 1852]
+    },
+    {
+      "id": "E3",
+      "who": "Callie（+ 一位穿不合身开衫的女士）",
+      "what": "收拾速写本与铅笔后在馆里随意走动，遇到中意的肖像就拍照（她讨厌自己是那种人，但「Without the flash – she wasn’t a barbarian」）；一位「very serious-looking woman who didn’t even work there, wearing an ill-fitting cardigan (in this weather)」朝她甩来一个 dirty look，正要发作指责闪光灯会损伤画作颜料，结果落空；Callie「flicked her hair in her direction」并猛然转身去找洗手间（find the loos），「She’d suddenly started to feel a bit sick.」",
+      "range": [1855, 2472]
+    },
+    {
+      "id": "E4",
+      "who": "Callie（+ 出租车司机）",
+      "what": "盯着「the white porcelain bowl」看了一会儿，不确定会不会吐；「The wave of nausea seemed to abate」于是站起来（门外因「the tutting」已排起队）；她「performatively flushed the empty toilet」——马桶是空的，只是做戏般冲了水并去洗手；离开画廊坐 Northern line 回家，在 Camden Town 下车改叫 black cab；恶心又回来了，她不想吐在「one of those clear plastic bags attached to a hoop that passed for a bin」里，宁愿让出租车靠边停在路边吐；最终到家，但司机「couldn’t help but comment on the shade of chartreuse she’d turned」，还「helped her out after she had paid」——即她一路上脸色发绿，并未在车上真的呕吐。",
+      "range": [2475, 3241]
+    },
+    {
+      "id": "E5",
+      "who": "Callie + Eulalia（电话）",
+      "what": "Callie 躺在沙发上听 Radio 4 关于 Eleanor of Aquitaine 的广播时手机响，是 Eulalia。Callie「sat up, aware that she didn’t want to sound ill on only her second day」，问「Have you had some more thoughts after yesterday?」；Eulalia 说 Yes，Callie 觉得她「sounded a little unsure but then that chipper brightness reappeared」，并说「I saw something interesting」；Callie 追问是什么却等不到回应，提出改用 Zoom 或 Teams 共享屏幕，Eulalia 答「I can email it to you」；Callie 拿起 iPad 打开邮箱追问「What was it you saw?」，Eulalia 只答「OK then.」；Callie 刷新邮箱「still nothing」。",
+      "range": [3244, 4171]
+    },
+    {
+      "id": "E6",
+      "who": "Callie + Eulalia（电话续）",
+      "what": "Eulalia 确认「You still good to meet on Friday morning to discuss initial concepts with the guys from PCQV?」，Callie 明显感觉到「Eulalia didn’t want to hang up」（并甩出「Plus Chic Que Vous … Zut alors.」）；Callie 说会按约定带 mood boards，又等了几秒仍无回应，问「Are you all right?」；Eulalia 邀她今晚去吃附近新开的韩餐，Callie 答「I can’t tonight」——她其实没安排，只「felt rough」，借口「I have plans」；改约明天傍晚并邀请「You should come see my place」，Callie 回「Brilliant, see you then」，Eulalia 说「OK. I’ll send you the details.」，通话结束，Callie 挂断后重新躺下。",
+      "range": [4174, 4963]
+    },
+    {
+      "id": "E7",
+      "who": "Callie（内心）",
+      "what": "她没想到「the world’s most mysterious pop girlie」——那个带着大量未处理的创伤与强迫倾向占据互联网的流行歌手——会孤独，更会把她当成安慰来源；她想起「some blog somewhere」说 Eulalia 曾在 Royal College of Music 读书，怀疑她还有留在伦敦的同学，但 London 是流动性极强的城市、很多国际学生，课程上的同学毕业后也都消失了。",
+      "range": [4966, 5528]
+    },
+    {
+      "id": "E8",
+      "who": "Callie（+ 收到消息的手机）",
+      "what": "她查邮箱找 Eulalia 说的那个「‘thing’」——「nothing came through」；随即手机收到那家有点热度的餐厅地址（「Her phone pinged with the address of a restaurant that had a bit of a buzz to it」），接着来了一条梗图、又一条、又一条，都是「shitposts about how awful men were」；Callie 只回了一句不置可否但礼貌的话，外加「a couple of random emojis」；她重新打开 Eleanor of Aquitaine 的节目，同时在脑子里过 mood boards 的内容，间歇暂停录音，「unsure as to whether she was going to have to run to the loo to puke or not」。",
+      "range": [5529, 6132]
+    }
+  ],
+  "characters": {
+    "Callie": "女主人公，本章独自在国家肖像馆画画并与 Eulalia 通电话；本章暗示她怀孕（想用佣金买婴儿车、'all their children'、尚未告诉母亲、恶心/想吐），但原文未明写'怀孕'二字。",
+    "Eulalia": "当红且神秘的流行歌手（「the world’s most mysterious pop girlie」），称 Callie 为 comfort 来源；据某博客曾就读 Royal College of Music；本章与 Callie 有 PCQV 项目上的初步概念会面（周五上午），并邀 Callie 明天傍晚吃饭；她有「I saw something interesting」但只发邮件不肯直说。",
+    "Mel": "为 Callie 处理合同与 NDA 的对接人：回复「‘Amelia’s’ email」、报出优厚报价、发来合同与 lengthy NDA。",
+    "‘Amelia’": "与 Mel 通信、并代表项目方确认报价的一方（引号显示为化名/角色）。",
+    "Peter": "Callie 的父亲，留给家人用的律师（「her dad’s solicitor」「Peter had said he had them on retainer for family usage」）；可能会为孩子向 Rolls-Royce 破例买婴儿车。",
+    "Callie 的母亲": "Callie 还没想好怎么告诉她（怀孕/婴儿的事）。",
+    "PCQV（「the guys from PCQV」）": "PCQV 项目的另一方，Eulalia 与 Callie 周五上午要与其讨论 initial concepts。",
+    "出租车司机": "载 Callie 回家，注意到她脸色发绿（chartreuse），并在她付钱后扶她下车。",
+    "馆内女士": "穿不合身开衫的严肃女访客（非馆员），差点因闪光灯指责 Callie。",
+    "餐厅": "附近新开的韩餐/‘new Korean place’，Eulalia 想试；Eulalia 承诺发来地址的似乎是这家餐厅（有 buzz 的那家）。"
+  },
+  "numbers_and_dates": {
+    "verbatim_numbers": [
+      { "text": "17", "range": [0, 2], "note": "章号（文件头第一处）" },
+      { "text": "17", "range": [13, 15], "note": "章号（正文前第二处）" },
+      { "text": "Elizabeth I", "range": [76, 88], "note": "画的对象" },
+      { "text": "the last half an hour", "range": [113, 139], "note": "坐在肖像前时长" },
+      { "text": "Radio 4", "range": [3308, 3315], "note": "广播频道" },
+      { "text": "only her second day", "range": [3477, 3497], "note": "Callie 不想显得生病的第几天" },
+      { "text": "after yesterday", "range": [3530, 3548], "note": "Callie 问 Eulalia 的'昨天之后'新想法" },
+      { "text": "Friday morning", "range": [4207, 4221], "note": "PCQV 会面时间" },
+      { "text": "Northern line", "range": [2795, 2807], "note": "地铁线" },
+      { "text": "Camden Town", "range": [2836, 2848], "note": "换乘下车站" },
+      { "text": "Royal College of Music", "range": [5258, 5279], "note": "Eulalia 据博客曾就读" },
+      { "text": "PCQV", "range": [4266, 4270], "note": "项目方" },
+      { "text": "Chic Que Vous", "range": [4359, 4371], "note": "Eulalia 口中'Plus Chic Que Vous'" },
+      { "text": "Zut alors", "range": [4377, 4386], "note": "Eulalia 的法语感叹" },
+      { "text": "Sicily", "range": [1310, 1316], "note": "幻想的假期地" },
+      { "text": "Rolls-Royce", "range": [1697, 1707], "note": "父亲可能买婴儿车的牌子" },
+      { "text": "three memes", "range": [5655, 5740], "note": "逐字为「Then came a meme. And another. And another.」（数量以三次'一张'计，非原文数字）" },
+      { "text": "a couple of random emojis", "range": [5852, 5878], "note": "Callie 回信里的表情数量" }
+    ],
+    "dates": {
+      "explicit_calendar_date": "无——原文未出现任何具体日期或星期几；只出现相对时间：'after yesterday'、'only her second day'、'Friday morning'、'this evening'／'tomorrow evening'。",
+      "month_or_weekday_for_gallery_day": "原文未说明画廊那天的星期或月份（'A TUESDAY IN MAY' 这一表述在本章原文中无据）。"
+    }
+  },
+  "open_questions_for_md_check": [
+    "「她等的那条消息」到底指哪一条？本章有三条候选：(a) Mel 的报价/合同邮件——在画廊时已收到（602–900 区段）；(b) Eulalia 说要邮件发来的那个 she saw 的 'thing'——最终 'nothing came through'（5529–5614）；(c) Eulalia 承诺的餐厅地址细节——已收到（5615–5740）。",
+    "紧张时的身体动作：原文是恶心/头晕（'feel a bit sick'、'a wave of nausea'、'felt rough'），并未出现'反酸/烧心（heartburn/reflux）'类措辞。",
+    "洗手间：她确实去了馆内洗手间（'turned abruptly to find the loos'），对着白瓷马桶坐了会儿，但马桶是空的、只做戏般冲水——即在馆内未吐。",
+    "差点吐：原文为'不确定会不会吐'与'不想吐进塑料袋桶/宁愿靠边停车吐'，最后靠出租车脸色发绿撑回家，并未吐（除非 md 明确写'差点吐'）。"
+  ]
+}
