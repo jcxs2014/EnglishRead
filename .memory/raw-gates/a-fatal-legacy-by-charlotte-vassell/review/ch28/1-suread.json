@@ -1,0 +1,113 @@
+{
+  "chapter": "ch28",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch28_28.txt",
+  "source_sha_note": "read-only plain read of the .txt only; no md, no other chapters' md, no memory of prior chapters",
+  "offset_convention": "offsets are 0-based character offsets into the whole text/ch28_28.txt (end offset exclusive); line numbers are 1-based file lines",
+  "file_stats": {"lines": 252, "chars": 9536},
+  "structure_as_read": {
+    "chapter_number_marker": "line 1 and line 12 both contain '28'",
+    "section_heading_in_source": "The Police Station (line 17, chars 20-38)",
+    "parts": "4 parts separated by '* * *' at lines 73, 140, 195, 217",
+    "note": "no string 'A THURSDAY IN MAY' occurs anywhere in this file"
+  },
+  "events": [
+    {
+      "id": "E1",
+      "who": "Matt Cheung",
+      "what": "walks into the incident room holding a half-eaten croissant, asks Caius 'You all right?', then tells Caius he already knows Callie is pregnant (he saw a picture of a pregnancy test on Caius's unlocked phone) and asks to be made godfather for his silence.",
+      "chars": [41, 1908],
+      "lines": "20-59",
+      "key_quotes": ["'You all right?' Matt sat down and took a final bite, crumpling up the paper bag.", "'Callie's pregnant, it's too early to say anything but you're chuffed ... the forthcoming leviathan that is your family's estate.'", "'You left your phone unlocked yesterday while you went to the loo. You'd been staring at a picture of a pregnancy test.'"]
+    },
+    {
+      "id": "E2",
+      "who": "Matt Cheung",
+      "what": "talks about his own life: he bought paint for his living room online the previous night (colour 'sandblasted linen'), has put up shelves everywhere, says Yumi may move in when her lease runs out at the end of the summer, downloaded Letterboxd because his attention span is fried.",
+      "chars": [1369, 1908],
+      "lines": "50-59",
+      "key_quotes": ["'I bought some paint for my living room online last night. It's called sandblasted linen.'", "'Yumi may move in when her lease runs out at the end of the summer.'"]
+    },
+    {
+      "id": "E3",
+      "who": "Caius",
+      "what": "claims his new PB on his 5K when Amy asks why they are congratulating Caius; had in fact done his fastest run ever that week.",
+      "chars": [1912, 2094],
+      "lines": "62-65",
+      "key_quotes": ["'New PB on my 5K,' Caius said, looking pleased with himself. He actually had done his fastest run ever that week."]
+    },
+    {
+      "id": "E4",
+      "who": "Amy",
+      "what": "slyly catches Matt's eye and wiggles her ring finger; Matt shakes his head and mouths 'not yet' (implying an engagement still pending).",
+      "chars": [2096, 2160],
+      "lines": "68",
+      "key_quotes": ["She slyly caught Matt's eye and wiggled her ring finger. Matt shook his head and mouthed 'not yet'."]
+    },
+    {
+      "id": "E5",
+      "who": "Caius",
+      "what": "formally interviews Scott's mother Mandy at the police station: asks whether Scott talked to her about his love life and whether Scott had been seeing anyone; she says Scott would only introduce a girl after they'd been together six months; she says she does not know; she says her son 'was a normal boy' who 'worked in a bakery'; she says his ex Jessica dumped him six months ago and is backpacking around Thailand and she bumped into her in Tesco's last week; she says she does not understand why a 'scheming femme fatale' would be interested in him because 'He wasn't rich or famous'.",
+      "chars": [2263, 4413],
+      "lines": "78-135",
+      "key_quotes": ["'Again, I'm so sorry for your loss,' Caius said to Scott's mother Mandy.", "'No, not at all. I'd find out about a girl eventually but only if they'd been together for six months and he thought it was worth introducing her.'", "'His ex, Jessica, dumped him six months ago and is having a glorious time backpacking around Thailand according to her mother. I bumped into her in Tesco's last week.'", "'I loved Scott. He was everything to me but he was a normal kid. He wasn't rich or famous. What could she have got out of him?'"]
+    },
+    {
+      "id": "E6",
+      "who": "Matt",
+      "what": "interviews Angus, the burly Scottish baker who owns the bakery: Angus says he is out back with the bread, his wife Jodie does the people-facing work, that as owner he has no break; says Scott spoke only about his 'females don't want good guys' attitude; says a girl appeared in the last couple of weeks who was 'stringing him along' but he never caught her name; when shown Digby's picture says he 'looks sort of familiar' and asks if he lives nearby.",
+      "chars": [4428, 6498],
+      "lines": "145-190",
+      "key_quotes": ["'Aye, I'm out back with the bread. I don't want to deal with people. My wife Jodie does that.'", "'What break? I own the place.'", "'Aye, there was a girl in the last couple of weeks. He tried to tell me the details of how she was stringing him along but I put my headphones in before he could really start.'", "'He looks sort of familiar. Does he live nearby or something?'"]
+    },
+    {
+      "id": "E7",
+      "who": "Caius",
+      "what": "interviews Jodie, Angus's wife who owns the bakery and takes the orders: she says Scott rarely served customers and did the coffee, that when it was quiet she was out the back bulk ordering butter or doing the accounts, that she did not know whether Scott had a girlfriend, and that 'I was just his boss. I was a pay cheque, that's it.'",
+      "chars": [6513, 7427],
+      "lines": "200-212",
+      "key_quotes": ["'Scott rarely served customers,' Jodie said.", "'Only if we were short. Leigh takes the orders most of the time. I step in during the rushes. Scott did the coffee.'", "'I don't know, to be honest. It didn't bother me but I don't think he liked me much on a personal level. He never engaged me in small talk. I was just his boss. I was a pay cheque, that's it.'"]
+    },
+    {
+      "id": "E8",
+      "who": "Amy (interviewing Leigh, the cashier at the bakery)",
+      "what": "Leigh says Scott wrote his number on takeaway cups, that 'Scott had a type', that the girls he hit on were 'pretty but off', 'There's something a little broken about them', 'He liked pretty ones with low self-esteem. It was predatory.'; she says she threatened twice to tell Jodie that Scott was handing out the pastries Jodie thinks are binned to the local homeless community, that she is a jobbing actor and Jodie covers her dashes to an audition, and that she cannot recall any of the girls recently because she did the tills and the bread and only found a cup left behind.",
+      "chars": [7442, 9535],
+      "lines": "222-252",
+      "key_quotes": ["'Scott was a twat,' Leigh, the cashier at the bakery, said.", "'He always did it to the girls who were pretty but off.'", "'He liked pretty ones with low self-esteem. It was predatory.'", "'No, he did the coffee and I did the tills and the bread.'"]
+    }
+  ],
+  "character_relations_as_read": [
+    "Matt Cheung — colleague/friend of Caius; buys 'sandblasted linen' paint for his living room; Yumi may move in when her lease ends 'at the end of the summer'; Amy and Matt are an item (Amy shows her ring finger, Matt mouths 'not yet').",
+    "Caius — police officer/colleague of Matt and Amy; about to be a father (Callie is pregnant); mentions 'your family's estate' as the forthcoming leviathan; wants Matt as godfather.",
+    "Callie — pregnant; Caius's partner.",
+    "Amy — police officer; interviews Leigh; present for the run congratulations.",
+    "Yumi — Matt's possible future housemate/partner.",
+    "Mandy — Scott's mother; interviewed by Caius; says ex-girlfriend is Jessica (backpacking in Thailand, met in Tesco's).",
+    "Scott Brown — the murder victim; worked at the bakery (coffee); dating history: ex Jessica; 'females don't want good guys' stance; wrote his number on takeaway cups.",
+    "Angus — Scottish baker, owner of the bakery, husband of Jodie, works out back with the bread; 'all I care about is yeast'.",
+    "Jodie — Angus's wife; owner/operator of the bakery front (takes orders, does accounts, bulk orders butter); pays Leigh.",
+    "Leigh — cashier at the bakery (takes the orders most of the time, does the tills and the bread); jobbing actor; paid over £12 an hour.",
+    "Digby — man whose picture Matt shows Angus; Angus says he 'looks sort of familiar'."
+  ],
+  "numbers_and_dates_verbatim": [
+    "'New PB on my 5K' (line 65)",
+    "'only if they'd been together for six months' (line 99, Mandy's rule for introducing a girl)",
+    "'His ex, Jessica, dumped him six months ago' (line 117)",
+    "'backpacking around Thailand' (line 117)",
+    "'I bumped into her in Tesco's last week' (line 117)",
+    "'there are only four of you who work at the bakery?' (line 157)",
+    "'Aye, there was a girl in the last couple of weeks' (line 178)",
+    "'It's NW1.' (line 252)",
+    "'You can't throw a three-day-old cronut without hitting one, natural or not.' (line 252)",
+    "'pays over £12 an hour' (line 240)",
+    "'end of the summer' (line 53)",
+    "'last night' (Matt bought the paint, line 53; Caius says 'I know we spoke yesterday briefly', line 78)",
+    "'28' (chapter number, lines 1 and 12)"
+  ],
+  "notable_omissions_observed_in_source (for the chapter-specific judgement on the mother)": [
+    "Mandy answers the love-life question instantly and flatly ('No, not at all'), then when asked directly whether Scott had been seeing anyone says 'I don't know.'",
+    "Mandy never mentions Scott's bakery colleagues, the bakery social life, or Scott's father, even though the chapter's other witnesses (Angus, Jodie, Leigh) are all asked about exactly that circle.",
+    "Mandy's account of the killer is a generic 'scheming femme fatale' and she insists the motive must be money ('He wasn't rich or famous. What could she have got out of him?').",
+    "The gap between Mandy's 'only if they'd been together for six months' rule and the ex Jessica ('dumped him six months ago') is never reconciled by her."
+  ]
+}

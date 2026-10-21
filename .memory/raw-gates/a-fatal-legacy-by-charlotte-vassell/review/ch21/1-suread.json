@@ -1,0 +1,247 @@
+{
+  "chapter": "ch21",
+  "source": "text/ch21_21.txt",
+  "source_len": 1872,
+  "title_in_source": "The Police Station (offset 20-38)",
+  "read_order": "仅读 text/ch21_21.txt，未读 md",
+  "events": [
+    {
+      "idx": 1,
+      "what": "Caius 坐在桌前读一份关于入室盗窃未遂的报告；作案/报案人是住在 7 Priory Square 的 Benedict Carr-Ridge；这名字耳熟但他想不起为什么",
+      "range": [
+        41,
+        488
+      ],
+      "verbatim": "Caius was at his desk reading over a report on an attempted burglary that had been made by a certain Benedict Carr-Ridge who lived at 7 Priory Square. His name was familiar but Caius wasn’t sure why. It became apparent quite early on in the report that Benedict wasn’t a reliable witness. The officer who had interviewed him wasn’t even convinced the incident had happened. The empty bottles littered about the place hadn’t helped his credibility."
+    },
+    {
+      "idx": 2,
+      "what": "报告很早就显示 Benedict 不是可靠证人；问话的警员甚至不信事发生过；现场散落的空酒瓶更让他的可信度受损",
+      "range": [
+        41,
+        488
+      ],
+      "verbatim": "Caius was at his desk reading over a report on an attempted burglary that had been made by a certain Benedict Carr-Ridge who lived at 7 Priory Square. His name was familiar but Caius wasn’t sure why. It became apparent quite early on in the report that Benedict wasn’t a reliable witness. The officer who had interviewed him wasn’t even convinced the incident had happened. The empty bottles littered about the place hadn’t helped his credibility."
+    },
+    {
+      "idx": 3,
+      "what": "Amy 走进 incident room，说『Morning, morning』，问『Did I beat Matt in?』",
+      "range": [
+        491,
+        575
+      ],
+      "verbatim": "‘Morning, morning,’ Amy said as she entered the incident room. ‘Did I beat Matt in?’"
+    },
+    {
+      "idx": 4,
+      "what": "对方答：Matt 已被派去 Harrogate；Amy 说那比被派去 Coventry 好，问为什么是 Harrogate",
+      "range": [
+        578,
+        670
+      ],
+      "verbatim": "‘He’s been sent to Harrogate.’\n\n\n‘That’s better than being sent to Coventry. Why Harrogate?’"
+    },
+    {
+      "idx": 5,
+      "what": "Caius 说 PO Box 的费用是一名住在 Harrogate 的女子 Beverley Parkin 付的，他们认为这大概是某种欺诈；PO Box 所在的 Barnet 邮局有监控录像，但只覆盖最后三封信最可能寄出或收到的那些日子",
+      "range": [
+        673,
+        992
+      ],
+      "verbatim": "‘The PO Box was paid for by a woman called Beverley Parkin who lives there. We think it was some sort of fraud,’ Caius said, rapping his fingers on the desk. ‘The Post Office in Barnet where the PO Box is located has security footage but only covering the days that the last three letters were likely sent or received.’"
+    },
+    {
+      "idx": 6,
+      "what": "Amy 反问：难道要她看完三天的录像，内容是人们退网购；Caius 说 Met 正在试用一个能在多段录像间追踪人脸的程序，已申请加入试用并把细节转给 Amy",
+      "range": [
+        995,
+        1361
+      ],
+      "verbatim": "‘Are you telling me that I have to watch three days’ worth of footage of people returning online orders?’\n\n\n‘Well, I found out this morning that the Met is trialling a computer program that can track faces across multiple pieces of footage. I’ve requested that we are put on that trial. I’ve forwarded you the details. If you could sort that out when they get here.’"
+    },
+    {
+      "idx": 7,
+      "what": "Amy 拒绝接手，说自己讨厌看 CCTV，放过那套『apocalyptic programming』",
+      "range": [
+        1364,
+        1509
+      ],
+      "verbatim": "‘That sounds terrifying but I really, really hate watching CCTV so I’m going to let that particular little piece of apocalyptic programming off.’"
+    },
+    {
+      "idx": 8,
+      "what": "Caius 说要去 Priory Square 查一桩盗窃案，是 Tiny Simm 报上来的；Amy 问有没有东西被偷，他答『Apparently not』，并从椅背取下西装外套（太潮热，但他一到 Priory Square 就会穿上；这让他觉得自己像个大人），说『It could be a coincidence but we are running out of leads fast with this one』",
+      "range": [
+        1512,
+        1871
+      ],
+      "verbatim": "‘I’m going to go check out a burglary on Priory Square. Tiny Simm flagged it.’\n\n\n‘Anything stolen?’\n\n\n‘Apparently not.’ Caius grabbed his suit jacket off the back of his chair. It was too humid to wear it but he would once he got to Priory Square. It made him feel like an adult. ‘It could be a coincidence but we are running out of leads fast with this one.’"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Caius",
+      "role": "主办本案者/警员",
+      "acts": "读报告、与 Amy 对话、要去 Priory Square 现场",
+      "ranges": [
+        41,
+        488,
+        673,
+        992,
+        1103,
+        1361,
+        1512,
+        1590,
+        1614,
+        1871
+      ]
+    },
+    {
+      "name": "Amy",
+      "role": "同事/搭档",
+      "acts": "进入 incident room、追问 PO Box 缘由、拒绝接手人脸追踪程序、问是否失窃",
+      "ranges": [
+        491,
+        575,
+        611,
+        670,
+        995,
+        1100,
+        1364,
+        1509,
+        1593,
+        1611
+      ]
+    },
+    {
+      "name": "Matt",
+      "role": "被提到者",
+      "acts": "被派往 Harrogate（谁派的未在本章交代）",
+      "ranges": [
+        578,
+        608
+      ]
+    },
+    {
+      "name": "Beverley Parkin",
+      "role": "PO Box 付费人，住在 Harrogate 的女子",
+      "acts": "付了 PO Box 费用",
+      "ranges": [
+        673,
+        992
+      ]
+    },
+    {
+      "name": "Tiny Simm",
+      "role": "报上 Priory Square 盗窃案的人",
+      "acts": "flagged the burglary",
+      "ranges": [
+        1512,
+        1590
+      ]
+    },
+    {
+      "name": "Benedict Carr-Ridge",
+      "role": "住在 7 Priory Square 的盗窃报案人",
+      "acts": "被报告入室盗窃未遂；被认定不可靠证人",
+      "ranges": [
+        41,
+        488
+      ]
+    },
+    {
+      "name": "问话的警员（未具名）",
+      "role": "interviewed Benedict 的警员",
+      "acts": "连事件是否发生都不信",
+      "ranges": [
+        41,
+        488
+      ]
+    },
+    {
+      "name": "Met（伦敦警察厅）",
+      "role": "机构",
+      "acts": "试用跨录像追踪人脸的计算机程序",
+      "ranges": [
+        1103,
+        1361
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "7 Priory Square",
+      "kind": "地址",
+      "context": "Benedict Carr-Ridge 所住地址",
+      "range": [
+        41,
+        488
+      ],
+      "verbatim": "Caius was at his desk reading over a report on an attempted burglary that had been made by a certain Benedict Carr-Ridge who lived at 7 Priory Square. His name was familiar but Caius wasn’t sure why. It became apparent q"
+    },
+    {
+      "value": "three days' worth of footage",
+      "kind": "数量",
+      "context": "Amy 不想看的录像天数",
+      "range": [
+        995,
+        1100
+      ],
+      "verbatim": "‘Are you telling me that I have to watch three days’ worth of footage of people returning online orders?’"
+    },
+    {
+      "value": "the last three letters",
+      "kind": "数量",
+      "context": "监控只覆盖与最后三封信相关的日子",
+      "range": [
+        673,
+        992
+      ],
+      "verbatim": "‘The PO Box was paid for by a woman called Beverley Parkin who lives there. We think it was some sort of fraud,’ Caius said, rapping his fingers on the desk. ‘The Post Office in Barnet where the PO Box is located has security footage but only covering the days that the last three letters were likely sent or received.’"
+    },
+    {
+      "value": "Harrogate / Coventry",
+      "kind": "地名对照",
+      "context": "Matt 被派往 Harrogate；Amy 拿 Coventry 作比",
+      "range": [
+        578,
+        670
+      ],
+      "verbatim": "‘He’s been sent to Harrogate.’\n\n\n‘That’s better than being sent to Coventry. Why Harrogate?’"
+    },
+    {
+      "value": "Barnet",
+      "kind": "地名",
+      "context": "PO Box 所在邮局所在地",
+      "range": [
+        673,
+        992
+      ],
+      "verbatim": "‘The PO Box was paid for by a woman called Beverley Parkin who lives there. We think it was some sort of fraud,’ Caius said, rapping his fingers on the desk. ‘The Post Office in Barnet where the PO Box is located has security footage but only covering the days that the last three letters were likely sent or received.’"
+    }
+  ],
+  "dates": [
+    {
+      "value": "Morning / this morning",
+      "kind": "时刻",
+      "context": "Amy 进 incident room 时是早上；Caius 说今早得知 Met 试用程序",
+      "range": [
+        491,
+        575,
+        1103,
+        1361
+      ],
+      "verbatim": "‘Morning, morning,’ Amy said as she entered the incident room. ‘Did I beat Matt in?’ || ‘Well, I found out this morning that the Met is trialling a computer program that can track faces across multiple pieces of footage. I’ve requested that we are put on that trial. I’ve forwarded you the details. If you could sort that out when they get here.’"
+    },
+    {
+      "value": "（本章无任何日期/星期/月名）",
+      "kind": "日期",
+      "context": "全文未出现 May、Wednesday 等日期标记；md 的分部名『A WEDNESDAY IN MAY』在本章原文无依据",
+      "range": [
+        0,
+        1872
+      ],
+      "verbatim": "21\n\n\n\n\n\n\n\n\n\n\n21\n\n\n\n\nThe Police Station\n\n\nCaius was at his desk reading over a report on an attempted burglary that had been made by a certain Benedict Carr-Ridge who lived at 7 Priory Square. His name was familiar but Caius wasn’t sure why. It became apparent quite early on in the report that Benedict wasn’t a reliable witness. The officer who had interviewed him wasn’t even convinced the incident had happened. The empty bottles littered about the place hadn’t helped his credibility.\n\n\n‘Morning, morning,’ Amy said as she entered the incident room. ‘Did I beat Matt in?’\n\n\n‘He’s been sent to Harrogate.’\n\n\n‘That’s better than being sent to Coventry. Why Harrogate?’\n\n\n‘The PO Box was paid for by a woman called Beverley Parkin who lives there. We think it was some sort of fraud,’ Caius said, rapping his fingers on the desk. ‘The Post Office in Barnet where the PO Box is located has security footage but only covering the days that the last three letters were likely sent or received.’\n\n\n‘Are you telling me that I have to watch three days’ worth of footage of people returning online orders?’\n\n\n‘Well, I found out this morning that the Met is trialling a computer program that can track faces across multiple pieces of footage. I’ve requested that we are put on that trial. I’ve forwarded you the details. If you could sort that out when they get here.’\n\n\n‘That sounds terrifying but I really, really hate watching CCTV so I’m going to let that particular little piece of apocalyptic programming off.’\n\n\n‘I’m going to go check out a burglary on Priory Square. Tiny Simm flagged it.’\n\n\n‘Anything stolen?’\n\n\n‘Apparently not.’ Caius grabbed his suit jacket off the back of his chair. It was too humid to wear it but he would once he got to Priory Square. It made him feel like an adult. ‘It could be a coincidence but we are running out of leads fast with this one.’\n"
+    }
+  ]
+}

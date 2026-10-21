@@ -1,0 +1,138 @@
+{
+  "chapter": "ch30",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch30_30.txt",
+  "title_in_source": "The Police Station",
+  "read_order_note": "先素读本文件（仅 text/ch30_30.txt），落盘后才读 md",
+  "chars_total": 4735,
+  "events": [
+    {
+      "id": "E1",
+      "who": "Amy",
+      "did": "说 Scott 的咖啡杯把戏是「散弹式」做法： Nothing makes a girl feel special quite like the scattergun approach",
+      "chars": "41-511",
+      "line": 20
+    },
+    {
+      "id": "E2",
+      "who": "Amy（警方）",
+      "did": "派人到咖啡店（sent uniform to the coffee shop），一名可怜的法医技术员带回来十三个装满垃圾的垃圾袋（thirteen bin bags full of rubbish）",
+      "chars": "41-511",
+      "line": 20
+    },
+    {
+      "id": "E3",
+      "who": "警方",
+      "did": "已经在第一个垃圾袋里数出十六次尝试（they'd counted sixteen attempts in the first bag alone）",
+      "chars": "41-511",
+      "line": 20
+    },
+    {
+      "id": "E4",
+      "who": "警方团队",
+      "did": "正在仔细翻检揉皱的餐巾纸和湿透的纸杯（crumpled napkins and soggy paper cups），想找到与 Digby 谋杀现场留下的部分指纹相匹配的完整指纹",
+      "chars": "41-511",
+      "line": 20
+    },
+    {
+      "id": "E5",
+      "who": "Caius",
+      "did": "看着 Scott 的手机，说「看起来只成功过一次」（Looks like it only worked once）；手机联系人里有很多女人名字，但消息都不新，也都没回复过他最后的联系（通常是索要裸照或只要极短聊天就要电话性爱的请求）",
+      "chars": "514-931",
+      "line": 23
+    },
+    {
+      "id": "E6",
+      "who": "Caius",
+      "did": "从 Scott 邮件里发现通知（a host of notifications）：他在一个臭名昭著的论坛上发的一个帖子火了，回应很多；称 Scott 是「好男人」阵营——Staceys、Chads、Mewing、Looksmaxxing；并说 Scott「在做实验」（He was doing an experiment）",
+      "chars": "1062-1377",
+      "line": 35
+    },
+    {
+      "id": "E7",
+      "who": "Caius",
+      "did": "说 Scott 每班（per shift）正好给出三十个杯子并记录回应（giving out exactly thirty cups per shift and recording the responses）",
+      "chars": "1413-1496",
+      "line": 41
+    },
+    {
+      "id": "E8",
+      "who": "Caius",
+      "did": "说 Scott 用 PowerPoint 做了他研究发现的图表（graphs of his findings）",
+      "chars": "1626-1694",
+      "line": 47
+    },
+    {
+      "id": "E9",
+      "who": "Caius",
+      "did": "滚论坛帖子并向团队转述：Scott 几周前「侦察到一个机会」（scouted an opportunity），把号码写在「机会」的杯子上；「机会」没给他发消息但一直回来咖啡店调情；最后让他跑腿；他称之为「服务行为」（act of service）以证明自己是「好男人」；Scott 试图证明她有多操控人，要求他跳过各种「疯狂 hoops」才能上床；最后一次更新里 Scott 写了自己的地址和一个时间让她上门；他以为她不会来，只是厌倦了调情；他以为她会在他真的主动提出性行为时拒绝他",
+      "chars": "1928-2809",
+      "line": 53
+    },
+    {
+      "id": "E10",
+      "who": "Caius",
+      "did": "命令 Amy 让法医优先搜寻一只写有 Scott 地址的杯子（get forensics to prioritise the search for a cup with Scott's address on），随后合上笔记本盖子",
+      "chars": "3112-3273",
+      "line": 62
+    },
+    {
+      "id": "E11",
+      "who": "Matt",
+      "did": "猜测最近十年有多少起毒芹（hemlock）中毒案，问他们手上是不是真有一个黑寡妇",
+      "chars": "3276-3444",
+      "line": 65
+    },
+    {
+      "id": "E12",
+      "who": "Caius",
+      "did": "说毒芹死亡案不会多，认为 Scott 的死法反映凶手的紧迫性而非特殊偏好；Digby 的死是精心策划，Scott 的死是机会性（opportunistic）；两人都是在走廊里被杀（in and out）；并让 Matt 查「首次约会中被杀的男人」，说这是 Digby 与 Scott 的共同点",
+      "chars": "3447-3928",
+      "line": 68
+    },
+    {
+      "id": "E13",
+      "who": "Caius",
+      "did": "接了 desk phone 电话，打电话给报案的当事人 / 让他的 DS 联系，并说自己二十分钟后到；挂断后对 Matt 说「Saddle up. There's another one.」",
+      "chars": "4320-4646",
+      "line": 77
+    },
+    {
+      "id": "E14",
+      "who": "Matt",
+      "did": "问是不是 Priory Square 又发生入室盗窃（Another break-in on Priory Square?），起身",
+      "chars": "4649-4712",
+      "line": 80
+    },
+    {
+      "id": "E15",
+      "who": "Caius",
+      "did": "回答「And another body.」（又一具尸体）",
+      "chars": "4715-4734",
+      "line": 83
+    }
+  ],
+  "relationships": [
+    "Scott = 死者；Digby = 另一名死者；两人都死于「首次约会」情境，被凶手在走廊里杀掉",
+    "Caius = 团队成员（detective/DS 身份：他会把自己的案件交给自己的 DS），Matt = 团队成员，Amy = 团队成员（负责联系法医）",
+    "Scott 追的对象：论坛里被称为「the opportunity」的女性，未给他发消息但持续回店调情、让他跑腿，最终拒绝他",
+    "Scott 是 incel，自称阵营 Staceys / Chads / Mewing / Looksmaxxing；在臭名昭著的论坛上发帖，帖子获大量回应",
+    "Matt 提到受害者可能是「spree killer on the hunt for vulnerable men」（针对脆弱男性的连环杀手）——与 Amy 的「horror movie」形成 predator versus predator",
+    "Caius 桌上有个「bad joke jar」，Matt 投了一英镑，圣诞节聚餐用；Caius 口头禅活动「Is Caius's Lunch Wanky?」周一重开"
+  ],
+  "numbers_and_dates": {
+    "thirteen bin bags full of rubbish": "13 个垃圾袋（第一行）",
+    "sixteen attempts in the first bag alone": "第一个袋子里已数出 16 次尝试",
+    "exactly thirty cups per shift": "每班正好 30 个杯子",
+    "thirteen bin bags / sixteen attempts / thirty cups": "原文逐字：thirteen bin bags full of rubbish · sixteen attempts in the first bag alone · exactly thirty cups per shift",
+    "twenty minutes": "Caius 说自己二十分钟后到",
+    "a few days ago": "Scott 几天前终于发了一次成功",
+    "a few weeks previously": "Scott 几周前侦察到机会",
+    "in the last decade": "最近十年有多少起毒芹中毒",
+    "chapter_number_marker": "文件首行与第 12 行均为 30"
+  },
+  "chapter_specific_judgement_targets": [
+    "Scott 留下的咖啡杯轨迹被追出来（十三个垃圾袋 / 第一个袋子十六次尝试 / 每班三十杯）",
+    "「示爱的方式反而成了路标」这一层：一个人留下的痕迹反过来指认他",
+    "垃圾袋/杯子的确切数量须核对（13 袋 / 16 次 / 30 杯 / 十六次尝试）"
+  ]
+}

@@ -9,7 +9,7 @@ source_text: ch26
 ## 本章导航
 
 - **一句话概括**：Matt 从哈罗盖特赶回警局，带回一盒司康饼；围着那块为 Scott Brown 命案新立的白板，三人把两桩命案拆成两种逻辑——迪吉那起是精心策划、动机私人，斯科特这起是事后灭口——随即把案子分成三路：查他母亲的联系方式、查 The Purple Toad 的店员、查他的电子设备。
-- **视角**：第三人称限知，贴着警局休息室里的三个人（Matt、Caius、Amy）；先用一整段吃司康、喝茶、互嘲地域的寒暄垫底，中间用一个星号分隔线骤然切回案情。本章属「五月的星期三」这一分部。
+- **视角**：第三人称限知，贴着警局休息室里的三个人（Matt、Caius、Amy）；先用一整段吃司康、喝茶、互嘲地域的寒暄垫底，中间用一个星号分隔线骤然切回案情。本章属「WEDNESDAY」这一分部。
 - **线索结构**：为 Scott Brown 命案新立的白板（由此抛出「黑寡妇」的猜想）→ Caius 的判断（迪吉的谋杀彻底有计划、动机私人却看不透；斯科特被杀只因警方会在邮局找到拍到他的影像，斯科特一旦开口就能指认对方）→ Matt 的判断（斯科特只是做交易，替对方拿信是为了讨好人）→ 三项待办（制服同事取回的入职表与母亲联系方式、The Purple Toad 的店员、斯科特遗落的电子设备）。
 - **人物弧线**：Caius 一边说「不」一边犹豫，把「连杀」这个假设挡回去，转而给出一段成体系的推理；Matt 从仰头看白板抛出猜想，到盯着白板把斯科特降级成一场交易，最后领到查 The Purple Toad 的活；Amy 一边用 Tumblr、Etsy、meme 调侃，一边用一句荤笑话把正经推测拽回地面。
 - **叙事手法**：先用松弛的吃点心场景把气氛垫起来，再以星号分隔线硬切进案情；段落极短、对话密集，推理段落用长句一口气说完而不切分，直到电话响起才改回一句一派活的短句节奏；结尾用「那会是个漫长的夜晚」把时间压力写在明面上。
@@ -35,9 +35,9 @@ source_text: ch26
 **读者视角提示**：注意「指认」这个动作的分量：危险的不止动手的那一方，而是所有能被影像拍到、又能开口认人的人。
 
 > **原句 4:** "‘I doubt it,’ Matt said, staring at the board. ‘It was transactional. He was taking the letters to get in her good books.’"
-**中文理解**：Matt 盯着白板说：「我怀疑他知道。」接着他把事情定性为一场交易——他替对方拿那些信，是为了在对方那里讨个好。
+**中文理解**：Matt 盯着白板说：「我不认为他知道。」接着他把事情定性为一场交易——他替对方拿那些信，是为了在对方那里讨个好。
 **关键词**：transactional / the letters / her good books
-**为什么这样写**：「transactional」一个词把这条线索降级成一次利益交换：拿信不是因为知情或忠诚，而是因为这笔买卖对他有利。前面「我怀疑」是答，后面「盯着白板」是边想边说，说明这个定性还没完全成形。
+**为什么这样写**：「transactional」一个词把这条线索降级成一次利益交换：拿信不是因为知情或忠诚，而是因为这笔买卖对他有利。前面「我不认为他知道」是答，后面「盯着白板」是边想边说，说明这个定性还没完全成形。
 **读者视角提示**：这里的「她」和「那些信」都还悬着——信从哪来、寄给谁、被谁收着，白板上的关系要补的是这条走向，而不是再添一个死者。
 
 > **原句 5:** "‘Also known as her knickers.’ Caius’s desk phone rang. ‘All right. Thank you.’ He put the receiver down. ‘Uniform have collected his new starter forms from the bakery. We’ve got contact details for his mum that he gave to them. I’ll deal with that. Matt, get the staff from The Purple Toad in. Scott might have talked about his date. Amy, please chase up where his electronics have got to. It’s going to be a long night.’"

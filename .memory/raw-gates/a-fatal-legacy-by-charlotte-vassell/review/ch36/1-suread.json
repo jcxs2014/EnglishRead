@@ -1,0 +1,634 @@
+{
+  "chapter": "ch36",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch36_36.txt",
+  "file_chars": 15504,
+  "offset_convention": "绝对字符偏移 [start,end)，UTF-8 解码后的 Python 字符数；行号为该段首行行号",
+  "section_header": "Priory Square (line 17, chars 20-33)",
+  "read_order_did_not_open_md": true,
+  "events": [
+    {
+      "id": 1,
+      "who": "Callie",
+      "did": "敲 Eulalia 与 Mel 的家门，提前到场布置；坐出租车来（拒绝 Caius 开车送她，为的是「clear her thoughts」）；担心把 Caius 介绍给 Eulalia，怀疑 Eulalia 「was potentially a bit of a 'Laura'」",
+      "chars": [
+        36,
+        830
+      ],
+      "lines": [
+        20,
+        20
+      ],
+      "verbatim_anchor": "The meeting wasn’t for another thirty minutes but she wanted to be early to get set up. … Caius had offered to drive her over … she wanted the taxi ride over to clear her thoughts."
+    },
+    {
+      "id": 2,
+      "who": "Mel",
+      "did": "开门，上下打量 Callie 全身上下；认为她的妆容和发型有功劳，「her dress was doing the heavy lifting」，心里「Mel was furious」",
+      "chars": [
+        832,
+        1319
+      ],
+      "lines": [
+        23,
+        23
+      ],
+      "verbatim_anchor": "Mel looked Callie up and down, taking in every inch. … It was gorgeous. Mel was furious."
+    },
+    {
+      "id": 3,
+      "who": "Callie / Mel",
+      "did": "Callie 说她提前到、东西应已布置好、还给 Mel 发过邮件但因 Mel 已下班没回信；Mel 回「It’s not a problem」，欣赏 Callie 的工作 ethic 与带来的「mountains of props」，但不欣赏她的自信，想快点结束好把妹妹送到 Harley Street，让「the commercial contracts」尽快签下",
+      "chars": [
+        1321,
+        2028
+      ],
+      "lines": [
+        26,
+        29
+      ],
+      "verbatim_anchor": "Mel felt she was getting her money’s worth at least, but she didn’t appreciate the confidence she had marched in with. … the quicker her darling sister’s precious sense of agency, and the quicker the commercial contracts got signed."
+    },
+    {
+      "id": 4,
+      "who": "Mel / Callie",
+      "did": "Mel 拿起几块画架带 Callie 进客厅，在壁炉前停下定下布展位置（‘Here works.’）；Callie 说『Perfect』，并注意到这间房比她预想的朴素",
+      "chars": [
+        2030,
+        2674
+      ],
+      "lines": [
+        32,
+        38
+      ],
+      "verbatim_anchor": "She led Callie into the living room and stopped in front of the fireplace. ‘Here works.’"
+    },
+    {
+      "id": 5,
+      "who": "Callie",
+      "did": "在壁炉前摆好五块画架，从携带的箱子里取出准备好的板子；她的 tan Mulberry Bayswater 包倒下后，昨天抽血后被胶带贴在手臂上的棉花球滚了出来，她没注意到",
+      "chars": [
+        2721,
+        3232
+      ],
+      "lines": [
+        44,
+        44
+      ],
+      "verbatim_anchor": "She set about arranging the five easels in front of the fireplace, taking each of the boards she’d prepared out of the case she’d carried them in. … the ball of cotton wool that had been taped to her arm after the blood test yesterday rolled out. She didn’t notice."
+    },
+    {
+      "id": 6,
+      "who": "Mel",
+      "did": "在门口看着 Callie 干活，勉强承认「her sister had been right about her」，用「Where’s your eyeshadow from?」打听化妆品（Callie 答『Pat McGrath』）",
+      "chars": [
+        3234,
+        3666
+      ],
+      "lines": [
+        47,
+        50
+      ],
+      "verbatim_anchor": "She hated to admit it but her sister had been right about her. ‘Where’s your eyeshadow from?’"
+    },
+    {
+      "id": 7,
+      "who": "Mel / housekeeper",
+      "did": "Mel 打开通往餐厅的双开门；桌上整齐摆着 mineral water 小瓶、一壶 orange juice 和五个盘子；一个「small woman」进屋放下茶杯（后文明确为 housekeeper）",
+      "chars": [
+        3735,
+        3983
+      ],
+      "lines": [
+        56,
+        56
+      ],
+      "verbatim_anchor": "On the table arranged neatly were small bottles of mineral water, a jug of orange juice and five plates. A small woman came into the room and started setting teacups down."
+    },
+    {
+      "id": 8,
+      "who": "Mel / Callie",
+      "did": "Mel 说「I hate having meetings here」，Callie 圆场，Mel 讽刺她「You talk like you were born a hundred years ago」，Callie 假笑不反驳",
+      "chars": [
+        3985,
+        4334
+      ],
+      "lines": [
+        59,
+        68
+      ],
+      "verbatim_anchor": "‘I hate having meetings here.’ … ‘It’s all very uncomfortable when the domestic clashes with the grubbiness of business, isn’t it?’"
+    },
+    {
+      "id": 9,
+      "who": "Mel / Callie",
+      "did": "门铃响，Mel 让 housekeeper 去开门（这次是 housekeeper 去应门），回来时带着附近面包店的一盒酥皮点心",
+      "chars": [
+        4336,
+        4555
+      ],
+      "lines": [
+        71,
+        74
+      ],
+      "verbatim_anchor": "The doorbell rang, mercifully. Mel looked at her housekeeper, who silently dashed off to answer it this time. She returned moments later with a box of pastries from a nearby bakery."
+    },
+    {
+      "id": 10,
+      "who": "Eulalia",
+      "did": "走进客厅（宽松牛仔裤、白色 T 恤，浑身紧绷）；问「When’s Cal arriving?」；看到 Callie 已在场，说「Oh you’re here already」，夸她的裙子并问是哪儿买的",
+      "chars": [
+        4697,
+        5011
+      ],
+      "lines": [
+        83,
+        83
+      ],
+      "verbatim_anchor": "‘When’s Cal arriving?’ Eulalia walked into the living room. … ‘Oh you’re here already. Hey, sweetie. I love your dress. Where is it from?’"
+    },
+    {
+      "id": 11,
+      "who": "Callie / Eulalia",
+      "did": "Callie 说裙子是她自己去年做的，出自「Howards End phase」；Eulalia 说「You’re so pretty」，随即转身去看 Callie 的展板并说「Wow」；Callie 避开 Eulalia 的注视，专注自己的作品",
+      "chars": [
+        5013,
+        5336
+      ],
+      "lines": [
+        86,
+        92
+      ],
+      "verbatim_anchor": "It was from her Howards End phase. ‘I made it last year.’ … ‘You’re so pretty.’ … ‘Wow.’ … Callie turned away from Eulalia’s gaze"
+    },
+    {
+      "id": 12,
+      "who": "Callie / Mel",
+      "did": "Callie 问 Mel「Where’s your bog?」，Mel 反问「Don’t you mean toilet?」，Callie 坚持「we never say toilet」，Mel 告诉她「Up the stairs, first door on the right」",
+      "chars": [
+        5338,
+        5723
+      ],
+      "lines": [
+        95,
+        107
+      ],
+      "verbatim_anchor": "‘Where’s your bog?’ … ‘Bog? Don’t you mean toilet?’ … ‘No, darling, we never say toilet.’"
+    },
+    {
+      "id": 13,
+      "who": "Eulalia → Mel",
+      "did": "Eulalia 压低声音质问 Mel「Why are you being such a bitch?」，指控她不喜欢别的女人、太男性化，因为 Callie 漂亮、自己做裙子、显得女性化，而 Mel 涂口红像「a hog in lipstick」",
+      "chars": [
+        5725,
+        6112
+      ],
+      "lines": [
+        110,
+        122
+      ],
+      "verbatim_anchor": "‘Why are you being such a bitch?’ Eulalia hissed. … ‘You don’t like other women. … Because she’s feminine and you look like a hog in lipstick.’"
+    },
+    {
+      "id": 14,
+      "who": "Mel",
+      "did": "无视妹妹，看手机并提醒她「You’ve got an appointment with Dr Patel at 2 p.m.」；随后上楼说去为会议准备，在浴室门外停了一下（锁响即离开回自己房间，未让 Callie 看见）",
+      "chars": [
+        6114,
+        6503
+      ],
+      "lines": [
+        125,
+        131
+      ],
+      "verbatim_anchor": "‘You’ve got an appointment with Dr Patel at 2 p.m.’ … ‘I’m going to get ready for the meeting.’ … The lock clicked and she scurried away into her room before Callie saw her."
+    },
+    {
+      "id": 15,
+      "who": "Eulalia",
+      "did": "盯着 Callie 放过包的地板，捡起一片「rubbish」——其实不是垃圾而是「a bloody treasure」，迅速塞进牛仔裤口袋",
+      "chars": [
+        6505,
+        6713
+      ],
+      "lines": [
+        134,
+        134
+      ],
+      "verbatim_anchor": "But it wasn’t rubbish. It was a bloody treasure. Eulalia shoved it quickly into the pocket of her jeans."
+    },
+    {
+      "id": 16,
+      "who": "Eulalia / Callie",
+      "did": "Eulalia 握住 Callie 的手紧握不放说「I adore it. I adore you. … You understand me so well」；Callie 客气地抽回手",
+      "chars": [
+        6715,
+        7535
+      ],
+      "lines": [
+        137,
+        143
+      ],
+      "verbatim_anchor": "‘I adore it. I adore you.’ She grasped Callie’s hand and held on to it tightly. ‘You understand me so well.’"
+    },
+    {
+      "id": 17,
+      "who": "Callie",
+      "did": "把五本小册子（概念视觉）给 Eulalia 一本，其余四本在茶几上扇形摊开；册子昨天下午在 Archway 的打印店印好，她自己日式装订、系黑丝绒带，并用两年前做裙子剩下的暖橙与巧克力色锦缎碎片封面",
+      "chars": [
+        6941,
+        7535
+      ],
+      "lines": [
+        143,
+        143
+      ],
+      "verbatim_anchor": "She took out the five booklets with the concept’s visuals in and gave one to Eulalia. She spread the other four out on the coffee table in a fan shape. … she’d had the pages printed yesterday afternoon at a copy shop in Archway."
+    },
+    {
+      "id": 18,
+      "who": "Mel",
+      "did": "换了惯常的白衬衫黑长裤（和 Callie 初见她在 Tate Britain 时同一套）、黑高跟、涂了睫毛膏与红唇——Callie 判断「It was obviously her armour」",
+      "chars": [
+        7537,
+        8120
+      ],
+      "lines": [
+        146,
+        146
+      ],
+      "verbatim_anchor": "The same safe outfit she’d worn when Callie first laid eyes on her at Tate Britain. … It was obviously her armour."
+    },
+    {
+      "id": 19,
+      "who": "Mel / Callie",
+      "did": "Mel 催她「Are you all set? … A few minutes of pleasantries and pastries, present your idea and then we’re done」；Callie 回「Fantastic」，觉得「The end was in sight – as was the bank transfer」",
+      "chars": [
+        8289,
+        8678
+      ],
+      "lines": [
+        155,
+        158
+      ],
+      "verbatim_anchor": "‘A few minutes of pleasantries and pastries, present your idea and then we’re done.’ … The end was in sight – as was the bank transfer."
+    },
+    {
+      "id": 20,
+      "who": "PCQV 团队 / Mel",
+      "did": "门铃响，housekeeper 不见人了，Mel 亲自开门并「found a whole new disposition」；PCQV 团队到场——一名穿合身西装的男人（Callie 猜他管 business side）和一名 Callie 认不出名字的陌生又熟悉的女面孔",
+      "chars": [
+        8680,
+        9067
+      ],
+      "lines": [
+        161,
+        164
+      ],
+      "verbatim_anchor": "The team from PCQV had arrived, impossibly chic and relaxed about it all. A man, whose no-nonsense, well-tailored suit made Callie think he was the business side, and a woman, a familiar face that Callie couldn’t quite place."
+    },
+    {
+      "id": 21,
+      "who": "PCQV 女成员（后文名 Venetia）",
+      "did": "认出 Callie 是大学同学（一年级一起上过 ceramics class）；Callie 叫不出她名字，只记得是座城市名（『Paris, maybe? Geneva?』）；对方提到在 Chiltern Firehouse 偶遇 Dot，说她「looking glorious」，并听说 Callie 有了新男友",
+      "chars": [
+        9069,
+        9753
+      ],
+      "lines": [
+        167,
+        186
+      ],
+      "verbatim_anchor": "‘There aren’t that many Calliopes in the world.’ … Yes, they had a ceramics class together in first year. Her name was a city. Paris, maybe? Geneva? … ‘I bumped into Dot the other day at Chiltern Firehouse. She’s looking glorious.’"
+    },
+    {
+      "id": 22,
+      "who": "PCQV 女成员 / Eulalia / Mel",
+      "did": "对方说 Eulalia 会最喜欢五种香味里的 honeyed plum；Eulalia 追问『The five?』但没人听见；Mel 事先把试用样品过了一遍，筛到只留给她妹妹要挑的几款，其余藏起来",
+      "chars": [
+        9877,
+        10376
+      ],
+      "lines": [
+        191,
+        194
+      ],
+      "verbatim_anchor": "‘The woman of the hour. You smell heavenly. I knew you’d like the honeyed plum scent best out of the five.’ … Of course she’d gone through the samples first and whittled it down to the products she wanted Eulalia to pick and hidden the others."
+    },
+    {
+      "id": 23,
+      "who": "Mel / Venetia / Adam",
+      "did": "Mel 干脆地问是否开始；对方（uni friend）圆场并落座，「Her little pet businessman」坐在她身边；Mel 介绍「It appears that I don’t need to introduce Calliope to you, Venetia」，Venetia 说明「I’m in charge of brand and my colleague Adam is from business planning」；Callie 暗自庆幸没把她叫成 Florence",
+      "chars": [
+        10861,
+        11392
+      ],
+      "lines": [
+        203,
+        215
+      ],
+      "verbatim_anchor": "‘It appears that I don’t need to introduce Calliope to you, Venetia,’ Mel said. … ‘But to make things clear, I’m in charge of brand and my colleague Adam is from business planning.’ … Callie said, relieved she hadn’t called her Florence."
+    },
+    {
+      "id": 24,
+      "who": "Callie / Mel / Eulalia",
+      "did": "Mel 催促「Shall we get on with it then?」坐进扶手椅；Eulalia 在窗边徘徊望着窗外；Venetia 与 Adam 拿起锦缎装订的小册子，对 Eulalia 的漠然无动于衷",
+      "chars": [
+        11394,
+        11640
+      ],
+      "lines": [
+        218,
+        218
+      ],
+      "verbatim_anchor": "Venetia and Adam picked up the brocade-bound booklets, unfazed by Eulalia’s nonchalance."
+    },
+    {
+      "id": 25,
+      "who": "Callie",
+      "did": "站在展板前讲解概念：字体、质地、情感、奢华、持剑女战士、Joan of Arc、盔甲、珍珠、Anne Boleyn 的『B』项链、龙涎与珍珠、Lancelot/Guinevere/Gawain/Tristan/Isolde、纹章、乔叟、Heath Ledger、宫廷爱情、燃烧与渴望、Botticelli/Michelangelo/Leonardo da Vinci、维纳斯、文艺复兴女性、红宝石、天鹅绒、玩偶头、英式花园、迷宫、圣人、圣物匣里的指骨、异教徒及其树、瘟疫、木烟、死亡无处不在、纳粹抱着圣杯坠入深坑、Indiana Jones、Julian of Norwich 的名句",
+      "chars": [
+        11642,
+        12452
+      ],
+      "lines": [
+        221,
+        221
+      ],
+      "verbatim_anchor": "Callie stood in front of the boards, explaining the concept. … Julian of Norwich: ‘All shall be well, and all shall be well, and all manner of thing shall be well.’"
+    },
+    {
+      "id": 26,
+      "who": "Mel",
+      "did": "把 Callie 送出；Callie 停讲后口袋里的手机震动——Mel 在收尾时已经付了款（the payment）；Adam 在叫出租车，Venetia 与 Callie 站在广场上",
+      "chars": [
+        12466,
+        12866
+      ],
+      "lines": [
+        231,
+        231
+      ],
+      "verbatim_anchor": "Callie’s phone had vibrated in her pocket as soon as she stopped giving her presentation. Mel had made the payment as she was winding up."
+    },
+    {
+      "id": 27,
+      "who": "Venetia",
+      "did": "称演示『bloody fascinating』、喜欢她做的小册子比办公室里常见的更原创，要带回办公室传阅；并说本来不确定会怎么样，因为『those two』——『One is too present and the other not enough』",
+      "chars": [
+        12868,
+        13227
+      ],
+      "lines": [
+        234,
+        234
+      ],
+      "verbatim_anchor": "‘I’m going to take this one back with me to pass around the office,’ Venetia said … ‘Well, those two. One is too present and the other not enough.’"
+    },
+    {
+      "id": 28,
+      "who": "Venetia / Callie",
+      "did": "Venetia 说「Good business is still good business」，问 Callie 是否还做创意咨询；Callie 撒谎说在从设计转向咨询；Venetia 邀她午饭并给了名片，Callie 打算周一发邮件、下周约她",
+      "chars": [
+        13268,
+        13715
+      ],
+      "lines": [
+        240,
+        249
+      ],
+      "verbatim_anchor": "‘Good business is still good business.’ … ‘Are you doing much creative consultancy these days?’ … ‘Yes,’ Callie lied. ‘I’m moving away from design to consultancy.’ … She’d email her on Monday and invite her out the following week."
+    },
+    {
+      "id": 29,
+      "who": "Callie / Eulalia",
+      "did": "Venetia 与 Adam 上车离开后 Eulalia 叫住 Callie，看起来心碎；Callie 问是否还好、是否 Mel 说了什么；Eulalia 沉默，看着鸟落在铁栏杆上；Eulalia 说喜欢演示，但随后邀 Callie 吃午饭，被 Callie 以「a meeting with a stylist in half an hour」推掉（Callie 故意说是 stylist 不是朋友）",
+      "chars": [
+        13983,
+        14723
+      ],
+      "lines": [
+        261,
+        288
+      ],
+      "verbatim_anchor": "‘Hey, Eulalia,’ Callie said, smiling at the girl. She looked heartbroken. … ‘Sorry, I’ve got a meeting with a stylist in half an hour.’ Callie chose to say stylist rather than friend."
+    },
+    {
+      "id": 30,
+      "who": "Eulalia / Callie",
+      "did": "Eulalia 问 Callie 周末做什么；Callie 说与男友外出；Eulalia 说「At his parents’ house? I’d love to see it」，Callie 敷衍「One day … perhaps」并看表；Eulalia 指着广场中间的花园说「They burnt her there」（指某个神秘修女），Callie 想起她提过 mystic nun，不想被卷进去，匆匆告别离开",
+      "chars": [
+        14725,
+        15504
+      ],
+      "lines": [
+        291,
+        312
+      ],
+      "verbatim_anchor": "‘They burnt her there,’ Eulalia said, pointing at the garden in the middle of the square. … She remembered her saying something about a mystic nun. … ‘Got to dash, Eulalia, it’s been an utter pleasure.’"
+    }
+  ],
+  "relationships": [
+    "Callie（Calliope）＝ 受雇方，为 Eulalia 的香水项目做创意/概念与视觉呈现的一方（本章执行业务）",
+    "Mel ＝ Eulalia 的姐姐、经纪人/掌务方，本章代表 Eulalia 面对 PCQV，付了款",
+    "Eulalia ＝ Mel 的妹妹、才华横溢但状态不稳的香水创作者（品牌所有者/代言人）",
+    "Venetia ＝ PCQV 团队中「in charge of brand」的女的；Callie 的大学同学（一年级 ceramics class），名字 Callie 一时想不起（怀疑是 Paris 或 Geneva 这类城市名），差点叫成 Florence",
+    "Adam ＝ PCQV 团队中「from business planning」的男人；Venetia 的「little pet businessman」",
+    "Caius ＝ Callie 的男友（本章未出场，只被提及）",
+    "Dot ＝ Callie 的猫（本章未出场）",
+    "Cal ＝ 未登场的人，Eulalia 在问「When’s Cal arriving?」",
+    "housekeeper ＝ Mel 家的女管家/钟点管家，本章两次开门送点心、送香蕉",
+    "Laura ＝ Callie 心中用来指代「抢男人」式情敌的标签，Callie 用它怀疑 Eulalia 对 Caius 有兴趣"
+  ],
+  "numbers_and_dates_verbatim": [
+    {
+      "text": "The meeting wasn’t for another thirty minutes",
+      "chars": [
+        84,
+        129
+      ],
+      "line": 20
+    },
+    {
+      "text": "a tan Mulberry Bayswater",
+      "chars": [
+        2749,
+        2773
+      ],
+      "line": 44
+    },
+    {
+      "text": "after the blood test yesterday",
+      "chars": [
+        2952,
+        2982
+      ],
+      "line": 44
+    },
+    {
+      "text": "arranging the five easels",
+      "chars": [
+        3099,
+        3124
+      ],
+      "line": 44
+    },
+    {
+      "text": "five plates",
+      "chars": [
+        3903,
+        3914
+      ],
+      "line": 56
+    },
+    {
+      "text": "a hundred years ago",
+      "chars": [
+        4208,
+        4227
+      ],
+      "line": 65
+    },
+    {
+      "text": "‘When’s Cal arriving?’",
+      "chars": [
+        4697,
+        4719
+      ],
+      "line": 83
+    },
+    {
+      "text": "‘I made it last year.’",
+      "chars": [
+        5087,
+        5109
+      ],
+      "line": 86
+    },
+    {
+      "text": "‘Up the stairs, first door on the right.’",
+      "chars": [
+        5589,
+        5630
+      ],
+      "line": 104
+    },
+    {
+      "text": "‘You’ve got an appointment with Dr Patel at 2 p.m.’",
+      "chars": [
+        6160,
+        6211
+      ],
+      "line": 125
+    },
+    {
+      "text": "five booklets",
+      "chars": [
+        7028,
+        7041
+      ],
+      "line": 143
+    },
+    {
+      "text": "printed yesterday afternoon at a copy shop in Archway",
+      "chars": [
+        7233,
+        7286
+      ],
+      "line": 143
+    },
+    {
+      "text": "a skirt she’d made two years prior",
+      "chars": [
+        7499,
+        7533
+      ],
+      "line": 143
+    },
+    {
+      "text": "when Callie first laid eyes on her at Tate Britain",
+      "chars": [
+        7658,
+        7708
+      ],
+      "line": 146
+    },
+    {
+      "text": "‘The five?’",
+      "chars": [
+        10024,
+        10035
+      ],
+      "line": 194
+    },
+    {
+      "text": "ceramics class together in first year",
+      "chars": [
+        9277,
+        9314
+      ],
+      "line": 170
+    },
+    {
+      "text": "a bottle of water and a pistachio croissant",
+      "chars": [
+        10465,
+        10508
+      ],
+      "line": 200
+    },
+    {
+      "text": "‘But to make things clear, I’m in charge of brand and my colleague Adam is from business planning.’",
+      "chars": [
+        11223,
+        11322
+      ],
+      "line": 212
+    },
+    {
+      "text": "‘All shall be well, and all shall be well, and all manner of thing shall be well.’",
+      "chars": [
+        12369,
+        12451
+      ],
+      "line": 221
+    },
+    {
+      "text": "Mel had made the payment as she was winding up",
+      "chars": [
+        12750,
+        12796
+      ],
+      "line": 231
+    },
+    {
+      "text": "She’d email her on Monday and invite her out the following week",
+      "chars": [
+        13650,
+        13713
+      ],
+      "line": 249
+    },
+    {
+      "text": "‘Sorry, I’ve got a meeting with a stylist in half an hour.’",
+      "chars": [
+        14545,
+        14604
+      ],
+      "line": 288
+    },
+    {
+      "text": "‘One day … perhaps.’",
+      "chars": [
+        14925,
+        14945
+      ],
+      "line": 306
+    }
+  ],
+  "numbers_notes": "本章时间锚点为「FRIDAY IN MAY」（由小标题给定，原文未写日期）：Callie 提前 thirty minutes 到；会后『I’ve got a meeting with a stylist in half an hour』；Eulalia 的 Dr Patel 预约在 2 p.m.；Dot 本周末来访；Callie 与 Caius 本周末不在家（away this weekend）；Eulalia 提到神秘修女被烧死（『They burnt her there』，指广场中央的花园）。",
+  "chapter_facts_special": {
+    "did_the_meeting_close_a_deal": "原文只写 Mel 在收尾时付款（‘Mel had made the payment as she was winding up’）与 Callie 期待『the bank transfer』；PCQV 方的口头表态是『bloody fascinating』、要把小册子带回办公室传阅、『Good business is still good business』。原文没有出现『合同签署』『签约成功』的句子，也没有 PCQV 支付款项的句子——付款人是 Mel（Eulalia 侧）。",
+    "who_is_the_other_party": "来者是『The team from PCQV』两人：Venetia（in charge of brand）与 Adam（from business planning）；Callie 一开始只凭西装判断那男的像是 business side。PCQV 是接收方/品牌公司方，Mel 与 Eulalia 是委托方一侧。",
+    "work_is_judged_vs_person_is_judged": "展板被审视的对象是 Callie 的作品概念（小册子被评价为原创）；被审视的「人」是 Callie 本人（Mel 的打量与嫉妒、Eulalia 的触摸与占有式赞美、Venetia 的旧识式亲昵），而作品越成功，Mel 越急于让合同签下、Eulalia 的注意力越被夺走。原文里「作品被审视」与「人被审视」是同一次会面的两条并行线。"
+  }
+}

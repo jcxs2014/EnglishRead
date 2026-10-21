@@ -8,8 +8,8 @@ source_text: ch31
 
 ## 本章导航
 
-- **一句话概括**：在分部「THURSDAY」里，前电视主持人吉米·琼斯的尸体出现在自家门前的石阶上，法医说像是滑倒撞上铁栏杆的意外；凯厄斯第三次踏进这座广场，发现入室者都从绕整圈的后巷进、每户人家的摄像头只对着自己的院门，于是「两起入室盗窃可以算巧合」被「PO Box 的关联不可能是巧合」顶了回去——从这一刻起，同一个地点本身成了案件。
-- **视角**：第三人称限知，紧贴凯厄斯（夹着马特的插话与法医巴里的判断）；视角不进死者，也不进那位守在直播前的粉丝，读者只能从警方的复述里拼出吉米最后几小时。
+- **一句话概括**：在分部「THURSDAY」里，前电视主持人吉米·琼斯的尸体出现在自家门前的石阶上，法医说像是滑倒撞上铁栏杆的意外；凯厄斯第三次踏进这座广场，发现入室者都从绕整圈的后巷进、广场上不少房子装了摄像头却只对着自己的院门，于是他给出两个并列的判断：PO Box 的关联不可能是巧合，而这两起入室盗窃可以算巧合——谋杀偏偏发生在有人正在针对这一带的时候。
+- **视角**：第三人称限知，紧贴凯厄斯（夹着马特的插话与验尸官巴里的判断）；视角不进死者，也不进那位守在直播前的粉丝，读者只能从警方的复述里拼出吉米最后几小时。
 - **线索结构**：一条「意外」的现场（裂成两半的中间石阶、鞋上同色的灰）、一圈没有监控的后巷、一批只对着自家院门的摄像头、以及前案留下的 PO Box 关联；这些线索最后收在一句判断上——盗窃可以撞车，谋杀和「针对这一带」不能。
 - **人物弧线**：凯厄斯对吉米的想象从电视上那个灌啤酒的业余玩家滑向「在自家厨房里包馄饨的人」，随即被他自己掐断（“That wouldn’t do”）；而他说出「我绝不会想住在这座广场上——我会担心下一个就是我」时，职业性的抽离短暂让位给一点同情的私心。
 - **叙事手法**：以现场勘查推进，警方一开口就把结论往「意外」上压；作者先把广场的地理与盲区一层层摊开（谁家门口有摄像头、巷子在哪、后墙多高），再让侦探说出那句「PO Box 的关联不可能是巧合」；章末用两人关于「从前」的怀旧闲话把气压慢慢放掉——压力散尽处，案子才刚开始。
@@ -23,7 +23,7 @@ source_text: ch31
 **为什么这样写**：作者用马特一句随口的职业套话开场，紧接着让「一模一样」把整座广场压成一张复印纸——房子相同、户型相同，于是这具尸体发生在哪一间屋子里就不重要了，重要的是它发生在「广场」这个整体上。开篇那声「是谁通知我们的」把整条报警链直接递到读者手上，等下一段答出「一个粉丝」，围观者就已经先于警察站到了现场。
 **读者视角提示**：留意 identical 和 the square 这两处反复出现的说法；这个广场在本章里被一次次提起，每提一次，压迫感就往上加一层。
 
-> **原句 2:** "‘Yeah, but one concerned fan called it in when they realised that he was still livestreaming at 8 a.m. this morning.’"
+> **原句 2:** "‘And everyone watching thought what? That it was a bit?’ ‘Yeah, but one concerned fan called it in when they realised that he was still livestreaming at 8 a.m. this morning.’"
 
 **中文理解**：有人起初确实以为那不过是节目效果；但有一位牵挂的粉丝，是在当天早上八点发现他居然还在直播，才把电话打了进来。
 **关键词**：one concerned fan / still livestreaming / called it in
@@ -32,23 +32,23 @@ source_text: ch31
 
 > **原句 3:** "‘What is this case you’re working on?’ Barry asked, getting up from crouching over the latest body found in the square. A forensic technician was swabbing the corpse’s T-shirt as another took pictures of the surrounding area."
 
-**中文理解**：法医技师巴里从蹲着查看广场上最新发现的那具尸体的地方站起来，问凯厄斯：「你们办的这是什么案子？」一名技师正在擦拭（取样）死者的 T 恤，另一名在拍摄周围环境。
+**中文理解**：验尸官巴里从蹲着查看广场上最新发现的那具尸体的地方站起来，问凯厄斯：「你们办的这是什么案子？」一名法医技术员正在擦拭（取样）死者的 T 恤，另一名在拍摄周围环境。
 **关键词**：the latest body found in the square / swabbing / surrounding area
-**为什么这样写**：巴里一句问话就把这桩案子的「第二次」讲了出来——最新发现的那一具，就在广场上；紧跟着的取样与拍照则是标准的程序动作，冷静得近乎例行。正是这种例行感制造压迫：同一座广场，第二次走同一条流程，围在场边的人对「又来一次」没有表现出任何意外。
+**为什么这样写**：巴里一句问话就把这桩案子的「第二次」讲了出来——最新发现的那一具，就在广场上；紧跟着的取样与拍照则是标准的程序动作，冷静得近乎例行。正是这种例行感制造压迫：同一座广场，同一套流程第二次走了一遍——擦拭 T 恤、拍摄周围环境，做的是同一套活儿；在场的人做的仍然是程序，不是反应。
 **读者视角提示**：留意 latest body found in the square 这串定语——正是「在这个广场上」这几个字，把两桩案子焊在了一起。
 
 > **原句 4:** "‘I don’t know, mate.’ Caius was beginning to wonder if he’d got it all wrong somewhere. ‘But I wouldn’t want to live on this square. I’d be worried I would be next.’"
 
 **中文理解**：凯厄斯说：「我也不知道，伙计。」他开始怀疑自己是不是从一开始就搞错了什么。「但我绝不会想住在这座广场上——我会担心下一个就是我。」
 **关键词**：I don’t know / wouldn’t want to live on this square / I would be next
-**为什么这样写**：这一段里办案者本人说出了恐惧，而且他替的不是自己，是住户——「住在这里的人」才是他担心的对象。更值得注意的是顺序：作者把「我又搞错了」放在前面，把恐惧放在后面；一个连自己都在办的什么案子都说不清的人，先想到的却是邻居的安危。恐惧一旦被说出口，读者就知道广场不再是背景板，它变成了当事人。
+**为什么这样写**：这一段里办案者本人说出了恐惧，而且他担心的正是自己——「下一个就是我」。更值得注意的是顺序：作者把「我又搞错了」放在前面，把恐惧放在后面；一个连自己都在办的什么案子都说不清的人，先想到的却是自己会不会就是下一个。恐惧一旦被说出口，读者就知道广场不再是背景板，它变成了当事人。
 **读者视角提示**：把「下一个就是我」这句话记下来——它是从「一具尸体」升级到「一整个地点」的转折点。
 
 > **原句 5:** "‘No.’ Caius opened the gate and popped into the alleyway. A high wall ran alongside the other side, blocking the squat two-storey houses behind from overlooking it. He walked down it as Matt followed. He stopped at the end of the path and looked out onto the main road. Buses were stopping and starting as they swallowed and vomited passengers, brave cyclists with and without helmets flying in between. ‘Quite a few of the houses have cameras but they’re all within the gardens and pointed at their gates. No one has a visual of the alley. Makes sense. You don’t want to apply for planning permission, and all any would care about was someone breaking into their own house.’"
 
 **中文理解**：马特问「这算不算只是有人想碰碰运气」，凯厄斯答「不是」；他推开后门钻进后巷，巷子一侧是一道高墙，把后面的矮房全挡在视线之外，走到尽头便是大路，公交吞吞吐吐地吐着乘客，骑车的在中间飞。看完这些他说：广场上不少人家装了摄像头，但全都在自家花园里、对准自家的院门；巷子里谁也看不见。这很合理——谁会为了拍自家后巷去申请规划许可？何况在意的也只是「有人撬进了我家」。
 **关键词**：pointed at their gates / No one has a visual of the alley / planning permission
-**为什么这样写**：作者把「邻居」写成了这条线索的主角：整个广场家家有摄像头，于是每个人都确信自己是安全的；可这些摄像头偏偏一律朝内，只拍自家院门，把唯一真正贯通的后巷留给了不请自来的陌生人。中间那段公交与骑车人的热闹尤其刺眼——街面照旧熙熙攘攘，没有一个人往巷子里看一眼。「No one has a visual of the alley」是这一段最冷的判决：广场上家家户户的眼睛加在一起，也看不见那条巷子。
+**为什么这样写**：作者把「邻居」写成了这条线索的主角：广场上不少房子装了摄像头，主人却不肯为拍自家后巷去申请规划许可，于是这些摄像头一律朝内，只拍自家院门，把唯一真正贯通的后巷留给了不请自来的陌生人。中间那段公交与骑车人的热闹尤其刺眼——街面照旧熙熙攘攘，没有一个人往巷子里看一眼。「No one has a visual of the alley」是这一段最冷的判决：广场上这些朝内的眼睛加在一起，也看不见那条巷子。
 **读者视角提示**：注意那句 Makes sense：这份安全感是有道理的，也正因为有道理，它才危险。
 
 > **原句 6:** "‘I don’t know. Digby and Scott were definitely killed by the same person. Had to be. The PO Box connection cannot be a coincidence.’ They walked back into Jimmy’s garden. ‘These two break-ins could be a coincidence. The murder happens at the same time someone else is targeting the area.’"
@@ -113,4 +113,4 @@ source_text: ch31
 
 ## 一句话总结
 
-同一个广场上又出现一具尸体：前电视主持人吉米·琼斯倒在自家门前的石阶上，法医初判为滑倒撞上铁栏杆的意外；凯厄斯第三次走进这座广场，看到每户人家的摄像头都只对着自己的院门、而唯一贯通的后巷谁也看不见，于是「PO Box 的关联不可能是巧合」这句话，把「两起入室盗窃也许只是撞车」顶成了「有人正在针对这一带」——压力不再来自某一个人，而来自这个地点本身。
+同一个广场上又出现一具尸体：前电视主持人吉米·琼斯倒在自家门前的石阶上，法医初判为滑倒撞上铁栏杆的意外；凯厄斯第三次走进这座广场，看到不少房子装了摄像头、都只对着自己的院门，而唯一贯通的后巷谁也看不见，于是他同时说出两个判断：PO Box 的关联不可能是巧合；而这两起入室盗窃也许只是撞车——谋杀偏偏发生在有人正在针对这一带的时候。
