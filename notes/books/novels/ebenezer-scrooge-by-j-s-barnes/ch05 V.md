@@ -64,7 +64,7 @@ source_text: ch05
 
 **中文理解**：不如我们离开俱乐部的这间客房，飘到外面十二月的空气里，回头望向城市；在那里我们瞧见两个熟悉的身影正往西走：Ebenezer Scrooge 先生，弓着背，步子坚决，像一只大黑鸦；紧跟在他身后的是他那条警觉的看门狗——Ambrose 上尉。两人沿着广场边缘绕行，走出这一小片地界，便朝 Fell 太太早晨来时的那个方向去了。上尉在他雇主身前快走时喊道："您确定我们非去不可吗，Scrooge 先生？我知道我不愿去见他。"Scrooge 停下脚步，等上尉走到身边。"我认为我们该去。没人能比他更快地告诉我们想知道的事。也没有第二个人有他那份学识的深度。""可他是个怪人，先生。结交的都是些怪人。身上还有哪里是坏的。我一向这么说。"
 
-**关键词**：like a great black crow（像一只大黑鸦）/ ever-watchful guardian（警觉的看门狗）/ skirted around（沿……绕行）/ stopped short（猛地停住）/ depth of knowledge（学识的深度）
+**关键词**：like a great black crow（像一只大黑鸦）/ ever-watchful guardian（警觉的看门狗）/ skirt around the edges（绕着广场边缘走）/ stopped short（猛地停住）/ depth of knowledge（学识的深度）
 
 **为什么这样写**：换场用了一个散文化的排比："let us leave… and drift outside… and look back…"，连用三个祈使式动作，把读者像落叶一样从室内吹到室外；"we spy" 一词带着一点孩子气的淘气，是叙述者在偷看。Scrooge 的走路姿势先给两词——hunched 弓着背、determined 步子坚决——合起来是"又老又不肯回头"，再用 "like a great black crow" 落一个比喻，把他的黑衣、驼背、执拗一次写足；Ambrose 被称作 "his ever-watchful guardian"，用 "guardian" 这个偏监护人的词，随即又用 "at his heels" 写成一条跟屁狗，一褒一贬全在三个词里。Ambrose 的问话是全段的动力：他用 "Are you sure" 和 "you know I don't like" 双重施压，Scrooge 则 "stopped short"——停下等他——这一停既是尊重也是掌控，同时给出一句极实用的理由："no one who can tell us what we need to know faster than him"，把人物价值换算成速度与深度。船长随即抛下 "there's something broken in him"，broken 与前面 "odd" 一虚一实，虚的是古怪，实的是残缺。
 
