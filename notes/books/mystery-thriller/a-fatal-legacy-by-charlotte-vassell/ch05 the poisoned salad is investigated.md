@@ -121,7 +121,7 @@ source_text: ch05
 | fake | 假的；伪造的 | ‘Isolde is a fake name, if ever I heard one.’ |
 | affair | 恋情；婚外情 | ‘It’s an affair.’ |
 | post box | 邮筒；邮政信箱 | Caius looked out at the street below and saw a bright red post box. ‘A PO Box.’ |
-| flats | 公寓 | No one on the square saw anything,’ Matt said, checking over his emails on his phone. ‘Half of the flats are empty. Investment properties. |
+| flats | 公寓 | Half of the flats are empty. Investment properties. |
 | doorbell camera | 门铃摄像头 | But one of the houses at the very end has a doorbell camera. |
 
 ## 一句话总结
