@@ -54,6 +54,10 @@ DEFAULT_SUBITEMS = ["中文理解", "关键词", "为什么这样写", "读者�
 DEFAULT_NAV_COUNT = 5
 DEFAULT_BLOCK_RANGE = (3, 8)
 DEFAULT_NAV_ITEMS = ["一句话概括", "情感弧线位置", "人物弧线", "叙事手法"]  # 仅 profile 未给项名时兜底
+# 引语长度：**只提示、不进退出码**。判据出处 = 创建卡 §3 硬线（1–3 句 / 30–70 词 / ≤4 行）。
+# 为什么必须有提示（2026-10-21 don-t-leave 整本返工）：那一版引语中位 168 词、72% 超 100 词，
+# 而 19 个 lane 全绿——长度这一层当时**没有任何探针**，只能靠人读到第 40 页才发现。
+LONG_QUOTE_WORDS = 100
 
 # —— 体裁 profile（2026-10-20 立，用户拍板「按体裁给结构约束；短篇合集没有总览」）——
 # 结构约束的**唯一定义处**是 docs/rules/genre-profiles.json；本文件只读它、不再自带一套。
@@ -318,7 +322,8 @@ def check_chapter(book: Path, md: Path, form: dict | None = None) -> dict:
     for b in d["blocks"]:
         if b["quote_no"] is None:
             continue
-        rec = {"block": b["header"] or f"原句{b['quote_no']}", "no": b["quote_no"], "segments": []}
+        rec = {"block": b["header"] or f"原句{b['quote_no']}", "no": b["quote_no"], "segments": [],
+               "words": len((b["quote"] or "").split())}
         for seg in split_segments(b["quote"]):
             ns = norm(seg)
             ok = ns.lower() in corpus_lc
@@ -373,13 +378,15 @@ def check_chapter(book: Path, md: Path, form: dict | None = None) -> dict:
         "profile_optional": form.get("profile_optional", []),
         "baseline": form.get("baseline", "book"),
     }
-    res["counts"] = {"blocks": len(res["quotes"]),
+    long_q = [{"block": q["block"], "words": q["words"]} for q in res["quotes"]
+              if q["words"] > LONG_QUOTE_WORDS]
+    res["counts"] = {"blocks": len(res["quotes"]), "quote_long": len(long_q),
                      "segments": sum(len(q["segments"]) for q in res["quotes"]),
                      "segment_miss": miss, "struct_bad": len(struct_bad),
                      "empty_quote": len(empty_quote), "keyword_bad": len(kw_bad),
                      "cjk_low": len(cjk_bad)}
     res["issues"] = {"struct": struct_bad, "empty_quote": empty_quote,
-                     "keyword": kw_bad, "cjk": cjk_bad}
+                     "keyword": kw_bad, "cjk": cjk_bad, "quote_long": long_q}
     blocked = miss or struct_bad or empty_quote or kw_bad or cjk_bad
     res["verdict"] = "blocked" if blocked else "ok"
     return res
@@ -444,9 +451,9 @@ def print_contract(book: Path) -> None:
     print("  4 关键词     每个词必须出现在本块引语或本章原文里（按 / 、 , ； 切分）")
     print("  5 中文       中文理解 ≥6 汉字；为什么这样写 ≥8 汉字且中文占比 ≥15%")
     print()
-    print("【不判红，但会毁掉这本书】")
-    print("  · 引语长度   1–3 句 / 30–70 词 / ≤4 行（创建卡 §3 硬线；机器不查）")
-    print("               ⚠️ 上一版这本书引语中位 168 词、72% 超 100 词，19 lane 照样全绿 ⇒ 判据烂了不会红")
+    print("【只提示、不判红，但会毁掉这本书】")
+    print(f"  · 引语长度   1–3 句 / 30–70 词 / ≤4 行（创建卡 §3）；块 >{LONG_QUOTE_WORDS} 词时 chapter.sh 打 ⚠️，退出码仍 0")
+    print("               ⚠️ 上一版这本书引语中位 168 词、72% 超 100 词，全部 lane 曾经全绿 ⇒ 不要等红灯")
     print(f"  · 块数       每章 {blocks[0]}–{blocks[1]}（profile）")
     print("  · 谁做的 / 谁欠谁 / 数字 / 关系 / 漏掉的段落   机器结构上查不到（审查表 R1 素读 + R3 对账）")
     print()
@@ -496,6 +503,13 @@ def print_check(r: dict) -> None:
                 print(f"    ❌ {q['block']}：{s['text']}")
     print("\n【对应】")
     print(f"  空引号 {c['empty_quote']}｜子项缺 {c['struct_bad']}｜关键词不成立 {c['keyword_bad']}｜中文过薄 {c['cjk_low']}")
+    long_q = r["issues"].get("quote_long") or []
+    if long_q:
+        ex = "；".join(f"{x['block']}（{x['words']} 词）" for x in long_q[:5])
+        more = f" 等 {len(long_q)} 块" if len(long_q) > 5 else ""
+        print(f"  ⚠️ 引语偏长 {len(long_q)} 块 >{LONG_QUOTE_WORDS} 词（建议 30–70，创建卡 §3）：{ex}{more}")
+    else:
+        print(f"  ✅ 引语长度：全部 ≤{LONG_QUOTE_WORDS} 词")
     for e in r["issues"]["struct"]:
         print(f"    ❌ 子项缺：{e['block']} → {e['missing']}")
     for e in r["issues"]["empty_quote"]:
@@ -537,7 +551,7 @@ def check_all(book: Path, as_json: bool = False) -> int:
     form = book_form(book)                 # 只算一次众数
     rows = [check_chapter(book, md, form) for md in mds]
 
-    empty_ch, form_ch, und = [], [], []
+    empty_ch, form_ch, und, long_ch = [], [], [], []
     for r in rows:
         no = r["chapter"]
         if r["verdict"] == "undecidable":
@@ -546,6 +560,9 @@ def check_all(book: Path, as_json: bool = False) -> int:
         n_empty = len(r["issues"]["empty_quote"])
         if n_empty:
             empty_ch.append((no, n_empty))
+        n_long = r["counts"].get("quote_long", 0)
+        if n_long:
+            long_ch.append((no, n_long))
         f = r["form"]
         dev = []
         if not f["h1_shape_ok"]:
@@ -586,6 +603,11 @@ def check_all(book: Path, as_json: bool = False) -> int:
             print(f"  ❓ ch{r['chapter']:02d}：{r['reason']}")
         if ov_msg:
             print(f"  ℹ️ {ov_msg}")
+        if long_ch:
+            worst = sorted(long_ch, key=lambda x: -x[1])[:5]
+            print(f"  ⚠️ 引语偏长（提示型，不判红）：{len(long_ch)} 章有块 >{LONG_QUOTE_WORDS} 词 —— "
+                  + "、".join(f"ch{no:02d} {n} 块" for no, n in worst)
+                  + (f" 等 {len(long_ch)} 章" if len(long_ch) > 5 else ""))
         print(f"  汇总：空引号 {len(empty_ch)} 章 ｜ 形态偏离 {len(form_ch)} 章 ｜ 无法判定 {len(und)} 章"
               f"（引语/子项/关键词/中文密度另有 lane，本项不重复计）")
     bad = bool(empty_ch or form_ch)
