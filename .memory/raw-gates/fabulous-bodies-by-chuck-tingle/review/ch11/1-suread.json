@@ -1,0 +1,52 @@
+{
+ "chapter": "ch11",
+ "source": "notes/books/novels/fabulous-bodies-by-chuck-tingle/text/ch11_11_get_ready_with_me.txt",
+ "chars": 28474,
+ "facts": [
+  {
+   "claim": "本体（guest）约一千七百年前到来",
+   "anchor": "seventeen hundred years",
+   "span": [
+    2541,
+    2564
+   ],
+   "verified": true
+  },
+  {
+   "claim": "他五百年前停止自己培育宿主",
+   "anchor": "five hundred years ago",
+   "span": [
+    4422,
+    4444
+   ],
+   "verified": true
+  },
+  {
+   "claim": "「你有十二个兄弟姐妹；原本十三个，死了一个」",
+   "anchor": "twelve siblings",
+   "span": [
+    3940,
+    3955
+   ],
+   "verified": true
+  },
+  {
+   "claim": "Poppy 自毁面容赶走他",
+   "anchor": "torn-up canvas",
+   "span": [
+    27071,
+    27085
+   ],
+   "verified": true
+  },
+  {
+   "claim": "结尾他转向 Marlo",
+   "anchor": "He’s headed for Marlo",
+   "span": [
+    28451,
+    28472
+   ],
+   "verified": true
+  }
+ ]
+}

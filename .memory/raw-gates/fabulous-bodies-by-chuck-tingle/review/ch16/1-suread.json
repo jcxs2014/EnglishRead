@@ -1,0 +1,52 @@
+{
+ "chapter": "ch16",
+ "source": "notes/books/novels/fabulous-bodies-by-chuck-tingle/text/ch16_16_demonetized.txt",
+ "chars": 13073,
+ "facts": [
+  {
+   "claim": "三年后，八岁的 Marlo 每天做早餐上学",
+   "anchor": "Marlo",
+   "span": [
+    89,
+    94
+   ],
+   "verified": true
+  },
+  {
+   "claim": "官方定性为 mass hysteria",
+   "anchor": "mass hysteria",
+   "span": [
+    7619,
+    7632
+   ],
+   "verified": true
+  },
+  {
+   "claim": "五十万美元横财，来自匿名加密钱包",
+   "anchor": "five-hundred-thousand-dollar",
+   "span": [
+    4808,
+    4836
+   ],
+   "verified": true
+  },
+  {
+   "claim": "Shelly Wiseman 自焚",
+   "anchor": "To light myself on fire",
+   "span": [
+    8689,
+    8712
+   ],
+   "verified": true
+  },
+  {
+   "claim": "最后一站是 Noah 的墓",
+   "anchor": "Noah",
+   "span": [
+    4965,
+    4969
+   ],
+   "verified": true
+  }
+ ]
+}

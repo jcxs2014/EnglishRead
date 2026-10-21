@@ -1,0 +1,70 @@
+{
+ "chapter": "ch10",
+ "source": "notes/books/novels/fabulous-bodies-by-chuck-tingle/text/ch10_10_date_night.txt",
+ "chars": 22918,
+ "facts": [
+  {
+   "claim": "夜闯 Fimi 椰枣农场，命保安开警报、去关摄像头",
+   "anchor": "turn off all the cameras",
+   "span": [
+    4728,
+    4752
+   ],
+   "verified": true
+  },
+  {
+   "claim": "Eddie 令保安用延长线自缢，Poppy 第一次想救人",
+   "anchor": "hang yourself with this extension cord",
+   "span": [
+    4993,
+    5031
+   ],
+   "verified": true
+  },
+  {
+   "claim": "Eddie 说「四百年来最好的一次」——指这一夜的乐趣，不是年龄",
+   "anchor": "four hundred years",
+   "span": [
+    9465,
+    9483
+   ],
+   "verified": true
+  },
+  {
+   "claim": "她捅他脖子，他把刀像摘帽子一样拔出",
+   "anchor": "taking off a hat",
+   "span": [
+    13239,
+    13255
+   ],
+   "verified": true
+  },
+  {
+   "claim": "他掀开侧腹枪伤，里面塞着黑色活物",
+   "anchor": "tucked away down here",
+   "span": [
+    13846,
+    13867
+   ],
+   "verified": true
+  },
+  {
+   "claim": "他叫出她的真名 Poppy（她用假 ID Alice）",
+   "anchor": "Alice",
+   "span": [
+    9858,
+    9863
+   ],
+   "verified": true
+  },
+  {
+   "claim": "结尾说出「我是你爸爸」",
+   "anchor": "I’m your dad, Poppy",
+   "span": [
+    22887,
+    22906
+   ],
+   "verified": true
+  }
+ ]
+}

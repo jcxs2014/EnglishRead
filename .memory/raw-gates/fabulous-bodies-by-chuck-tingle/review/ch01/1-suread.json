@@ -1,0 +1,34 @@
+{
+ "chapter": "ch01",
+ "source": "notes/books/novels/fabulous-bodies-by-chuck-tingle/text/ch01_1_dead_weight.txt",
+ "chars": 24329,
+ "facts": [
+  {
+   "claim": "Poppy 假扮器官捐赠运输员，在 Yucca Valley 殡仪馆取走流浪汉 Tyler Fleming 尸体",
+   "anchor": "Tyler Fleming",
+   "span": [
+    4406,
+    4419
+   ],
+   "verified": true
+  },
+  {
+   "claim": "她调换名牌，用「没有真正的受害者」自辩",
+   "anchor": "There are no real victims here",
+   "span": [
+    15009,
+    15039
+   ],
+   "verified": true
+  },
+  {
+   "claim": "她的职业格言：真相被高估，重要的是真实的感受",
+   "anchor": "The truth is overrated",
+   "span": [
+    7661,
+    7683
+   ],
+   "verified": true
+  }
+ ]
+}
