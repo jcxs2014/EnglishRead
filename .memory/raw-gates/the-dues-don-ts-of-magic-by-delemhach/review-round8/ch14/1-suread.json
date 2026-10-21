@@ -1,0 +1,54 @@
+{
+ "chapter": "ch14",
+ "source": "notes/books/novels/the-dues-don-ts-of-magic-by-delemhach/text/ch14_chapter_14_a_problematic_past.txt",
+ "facts": [
+  {
+   "claim": "Spidena 落在二十英尺后、色败",
+   "anchor": "twenty feet",
+   "span": [
+    1177,
+    1188
+   ]
+  },
+  {
+   "claim": "他把水袋递给她",
+   "anchor": "waterskin",
+   "span": [
+    1683,
+    1692
+   ]
+  },
+  {
+   "claim": "Wolf 啄头逼他转身",
+   "anchor": "launched itself at his head",
+   "span": [
+    1003,
+    1030
+   ]
+  },
+  {
+   "claim": "她说「猎巫犬是我母亲被带走的原因」",
+   "anchor": "The Hounds are why I lost my mother",
+   "span": [
+    4431,
+    4466
+   ]
+  },
+  {
+   "claim": "Ben 说「你过我的人生试试」",
+   "anchor": "You live my life and tell me why",
+   "span": [
+    3918,
+    3950
+   ]
+  },
+  {
+   "claim": "末句：魔法与他对她的恩情把他们粘住",
+   "anchor": "his favor to Spidena that glued them together",
+   "span": [
+    7269,
+    7314
+   ]
+  }
+ ]
+}
