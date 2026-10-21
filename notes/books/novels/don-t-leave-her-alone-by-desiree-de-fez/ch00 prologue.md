@@ -54,7 +54,7 @@ source_text: ch00
 
 > **原句 4:** "The wings she and Brigitte would try on for selfies, the bear-shaped backpacks, the pom-pom antennae, all covered in a now-stiff crust of dried blood. The sight of it, in her daughter's favorite store, where Brigitte mistook cheap jewelry for the real thing, hurt."
 
-**中文理解**：那些她和布里吉特会戴着自拍的发饰蝴蝶翅膀、熊形背包、绒球触角，全都覆着一层已经干硬的血壳。这景象就发生在女儿最爱的店里——布里吉特曾在这里把廉价首饰当成真货——它伤到了她。
+**中文理解**：那些她和布里吉特会戴来拍照的发饰蝴蝶翅膀、熊形背包、绒球触角，全都覆着一层已经干硬的血壳。这景象就发生在女儿最爱的店里——布里吉特曾在这里把廉价首饰当成真货——它伤到了她。
 
 **关键词**：a now-stiff crust of dried blood · mistook cheap jewelry for the real thing
 
