@@ -47,7 +47,7 @@ modified: "2026-10-20"
 
 > **原句 4:** "“They have a history. Pesch and Earhav were supposed to work together on a deal. A very big deal, but at the last minute, Pesch pulled out."
 
-**中文理解：** 「他们之间是有过节的——Pesch 和 Earhav 本来要一起做一桩很大很大的买卖，可到了最后一刻，Pesch 退出了。」
+**中文理解：** 「他们之间是有过节的——Pesch 和 Earhav 本来要一起做一桩很大很大的买卖，可到了最后一刻，退出的一方是 Pesch。」
 
 **关键词：** They have a history · Pesch and Earhav were supposed to work together on a deal · A very big deal, but at the last minute, Pesch pulled out
 
