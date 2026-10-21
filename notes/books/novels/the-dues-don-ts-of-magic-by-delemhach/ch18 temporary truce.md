@@ -21,7 +21,7 @@ modified: "2026-10-20"
 
 **关键词：** It’s a waste of breath · You will believe that potato wedges should be crispy · I will believe that they should be hearty and soft · No more arguing
 
-**为什么这样写：** 作者用**一盘还没开吃的土豆条**当整场争吵的标的物，这是本书一贯的手法：把宏大分歧缩成一个日常到荒谬的小事。而这两个人吵的其实不是土豆条——是**谁对谁错**这件事本身。Ben 说"waste of breath"（浪费口水），Spidena 立刻回"That is even worse!"（那更糟），可见她要的从来不是赢，而是**有人跟她争**。用 You will… / I will… 这种**平行结构**收尾，等于宣布：谁也说服不了谁，那就各留一份。
+**为什么这样写：** 作者用**一盘还没开吃的土豆条**当整场争吵的标的物，这是本书一贯的手法：把宏大分歧缩成一个日常到荒谬的小事。而这两个人吵的其实不是土豆条——是**谁对谁错**这件事本身。Ben 说"waste of breath"（浪费口水），而 Spidena 的"That is even worse!"（那更糟）**其实出现在上一轮**——她顶的是他上一句"It's. Not. Worth. The breath!"（不值得费口舌）；可见她要的从来不是赢，而是**有人跟她争**。用 You will… / I will… 这种**平行结构**收尾，等于宣布：谁也说服不了谁，那就各留一份。
 
 **读者视角提示：** 留意作者如何用**一件小事**承载一场真分歧。读的时候注意两人争的到底是什么。
 
@@ -41,7 +41,7 @@ modified: "2026-10-20"
 
 **关键词：** move bottles and summon things in your shop · I asked you before · you were being a being a bi—
 
-**为什么这样写：** 这段里藏着两处**作者的手滑**："you were being a being a bi—"（重复了一遍）以及被 Spidena 打断的半截词。作者故意保留这两处瑕疵，让读者看见**Ben 想说的话被掐断在尴尬处**——他本想拿她的坏脾气开个玩笑（bi 开头的词），结果话没说完就被瞪回去了。而整段的重心在 I asked you before（我之前问过）：**他一直记着这个问题**，只是每次都被她的坏脾气挡回来。
+**为什么这样写：** 这段里藏着原书的一处**笔误**——原句里的 "a being a being" 重复了一遍（本精读按逐字原则原样保留）。作者要读者看见的是**Ben 的话怎么落地**：他本想拿她的坏脾气开个玩笑（bi 开头的词），却在看到 Spidena 眼里的杀气时**自己停住**——断掉的是那个词，不是整句；紧接着他用"A bit grumpy,"把话安全收尾。而整段的重心在**我之前问过**（I asked you before）：**他一直记着这个问题**，只是每次都被她的坏脾气挡回来。
 
 **读者视角提示：** 留意作者保留的**口误与重复**。它们常常是叙事的一部分，而不是校对失误。
 

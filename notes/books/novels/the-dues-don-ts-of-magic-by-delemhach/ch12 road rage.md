@@ -61,9 +61,9 @@ modified: "2026-10-20"
 
 **关键词：** Who can resist a story about two people on an adventure · troubled past · completely starved of kindness and decency · naïveté and raw power
 
-**为什么这样写：** Daffy 的这段话**每一句都在推销**：先给结构（两个主角＋前无古人的冒险），再给人物设定（你＝苦难史，她＝天真＋生力），最后才落到"这就是好故事"。作者让 Ben 坐在旁边听着而不接话，读者就听见一个精明的客栈老板娘在给他们的相遇**估价**——他们的苦难是可售卖的商品。starved of kindness and decency 两个被剥夺的名词并列，把 Ben 的过去从"不幸"改写成**长期欠账**。
+**为什么这样写：** Daffy 的这段话**每一句都在推销**：先给结构（两个主角＋前无古人的冒险），再给人物设定（你＝苦难史，她＝天真＋生力），最后才落到"这就是好故事"。作者让 Daffy 把这段相遇当**客栈的招牌**推出来，读者就听见一个精明的宁芙老板娘在给自家生意**估价**——他们的苦难是最可售卖的商品。Ben 果然插了一句「没有浪漫故事！」，作者没让推销一路顺风。starved of kindness and decency 两个被剥夺的名词并列，把 Ben 的过去从"不幸"改写成**长期欠账**。
 
-**读者视角提示：** 留意 Daffy 说的话与她**身份**之间的关系。她是商人，她说出的每句话都值得折价听。
+**读者视角提示：** 留意 Daffy 说的话与她**身份**之间的关系。她是这家客栈的**宁芙**老板娘，她说出的每句话都值得折价听。
 
 > **原句 6:** "It’ll be rare that we have human guests. And if we do? They will most likely wind up remembering this place as a dream."
 

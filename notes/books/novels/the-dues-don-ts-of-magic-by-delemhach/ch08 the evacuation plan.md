@@ -47,7 +47,7 @@ modified: "2026-10-20"
 
 > **原句 4:** "“Precisely!” Daffy said before turning to Spidena. “Man Chop doesn’t seem nearly as stupid as you said he was.”"
 
-**中文理解：** 「正是如此！」Daffy 说着转向 Spidena。「你方才说的那个叫 Man Chop 的家伙——你瞧，他自己就把『眨眼即达之地』的规矩听明白了，可没你说的那么蠢。」
+**中文理解：** 「正是如此！」Daffy 说完就转过身来，冲着 Spidena 说：「你方才说的那个叫 Man Chop 的家伙，可没你说的那么蠢。」
 
 **关键词：** Precisely! · before turning to Spidena · Man Chop · doesn’t seem nearly as stupid as you said he was
 
