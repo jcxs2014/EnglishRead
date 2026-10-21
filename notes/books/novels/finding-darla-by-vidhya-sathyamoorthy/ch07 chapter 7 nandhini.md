@@ -19,16 +19,15 @@ modified: "2026-10-20"
 
 > **原句 1:** "I've had enough."
 
-中文理解：我受够了。南迪妮 从 "I' "（我要做）到 "I' "（我受够了），从 到 （反抗），把 写成 " "（极端措施）。
+中文理解：我受够了。南迪妮 从 "I' "（我要做）到 "I' "（我受够了），从 逃避 到 （反抗），把 调查 写成 （极端措施）。
 
 句子结构：主谓宾 I've had enough（现在完成时）。
 
-关键词：I've / had / enough
-
+关键词：had enough（受够了）
 
 表达方式：nightmare repetition 把 trauma 写成 chronic；"I've had enough" 把 acceptance 写成 defiance。
 
-为什么这样写：把 南迪妮 的 写成 "I' " 的，而非 "I " 的 ——她不是 "理解" 祖母 的，而是 "拒绝继续承受"；" " 把 写成 ；" " 的 把 写成。
+为什么这样写：把 南迪妮 的 转变 写成 "I' " 的，而非 "I " 的 接受——她不是 "理解" 祖母 的，而是 "拒绝继续承受"；" 悲伤" 把 悲伤 写成 身体的； 的 把 决心 写成。
 
 ---
 
@@ -36,16 +35,15 @@ modified: "2026-10-20"
 
 > **原句 2:** "Follow the light, follow the car!"
 
-中文理解：跟随光亮，跟随汽车！把 祖母 的 写成 （命令），把 从 "" 转向 ""，从 转向。
+中文理解：跟随光亮，跟随汽车！把 祖母 的 写成 （命令），把 调查 从 转向，从 转向。
 
 句子结构：祈使句 Follow the light, follow the car!（并列祈使）。
 
-关键词：Follow / the / light / car
-
+关键词：Follow the light（跟随光亮） / follow the car（跟随汽车）
 
 表达方式：eureka moment 把 investigation 写成 cognitive process；"Follow the light, follow the car!" 把 Paati 的 message 写成 imperative。
 
-为什么这样写：把 写成 " = " 的，让 南迪妮 的 写成 而非 ；" ?" 的 把 从 "" 转向 ""；" … " 把 从 转向。
+为什么这样写：把 写成 " = " 的，让 南迪妮 的 调查 写成 而非 接受；" ?" 的 把 调查 从 转向 ；" … " 把 调查 从 转向。
 
 ---
 
@@ -53,16 +51,15 @@ modified: "2026-10-20"
 
 > **原句 3:** "something tells me that I can trust you."
 
-中文理解：有些东西告诉我我可以信任你。把 写成 而非，把 写成 " "。
+中文理解：有些东西告诉我我可以信任你。把 写成 而非，把 写成。
 
 句子结构：主谓宾 something tells me + 宾语从句 that I can trust you。
 
-关键词：something / tells / that / can
-
+关键词：trust（信任） / something tells me（有种感觉）
 
 表达方式：mamak shop setting 把 meeting 写成 local 与 casual；Akmal 的 "stickler for rules" 把 Nandhini 的 character 写成 consistent。
 
-为什么这样写：把 阿克马尔 写成 " "，把 写成 " "，让 南迪妮 的 写成 " "；阿克马尔 的 "" 把 写成 的，避免 " " 的。
+为什么这样写：把 阿克马尔 写成，把 写成，让 南迪妮 的 孤立 写成 ；阿克马尔 的 把 谜团 写成 的，避免 的。
 
 ---
 
@@ -74,12 +71,11 @@ modified: "2026-10-20"
 
 句子结构：独立短语 Darla Roland Fernandez（直接引语/自语）。
 
-关键词：Darla / Roland / Fernandez
-
+关键词：Darla Roland Fernandez（人名）
 
 表达方式：name reveal 把 ch02 的 Darla 与 Nandhini 的 investigation 缝合；"got chills" 把 revelation 写成 somatic response。
 
-为什么这样写：把 写成 " "，让 达尔拉 的名字把 02（2007，达尔拉 买 车牌号）与 07（2023，南迪妮 发现 车牌号）缝合，完成 " " 的 ；" 1983 … , " 把 写成 ""，暗示 达尔拉 的 是 /。
+为什么这样写：把 写成 "身份 "，让 达尔拉 的名字把 02（2007，达尔拉 买 5783）与 07（2023，南迪妮 发现 5783）缝合，完成 的 ；" 1983 … , " 把 写成，暗示 达尔拉 的 死亡 是 /。
 
 ---
 

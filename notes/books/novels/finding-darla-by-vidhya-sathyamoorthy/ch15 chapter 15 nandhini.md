@@ -19,16 +19,15 @@ modified: "2026-10-20"
 
 > **原句 1:** "Darla was in the Covid ward with Paati back in 2021? And their beds were side-by-side?"
 
-中文理解：达尔拉 2021 年和祖母在新冠疫情病房？他们的床位是并排的？把达尔拉从"神秘人物"转向"悲惨人物"——她死于呼吸衰竭，年仅四十岁，无最近亲属，火化。
+中文理解：达尔拉 2021 年和祖母在新冠疫情病房？他们的床位是并排的？把达尔拉从神秘人物转向悲惨人物——她死于呼吸衰竭，年仅四十岁，无最近亲属，火化。
 
 句子结构：疑问句 Darla was in the Covid ward with Paati back in 2021? And their beds were side-by-side?（并列疑问）。
 
-关键词：Darla / was / the / Covid
-
+关键词：Covid ward（Covid 病房） / side-by-side（并排）
 
 表达方式：Pooja 的 report 把 Darla 的 death 写成 "matter-of-fact"（ matter-of-fact），把 Covid 写成 "ruthless"（ ruthlessly）。
 
-为什么这样写：把 达尔拉 与 祖母 的 写成 "新冠疫情 "（新冠疫情 病房），让 南迪妮 的 写成 ""（情感的）而非 ""（理性的）；" " 把 达尔拉 的 写成 ""（悲剧的），把 从 " " 转向 " 达尔拉 "。
+为什么这样写：把 达尔拉 与 祖母 的 写成 "新冠疫情 "（新冠疫情 病房），让 南迪妮 的 调查 写成 "情感的"（情感的）而非 （理性的）； 把 达尔拉 的 死亡 写成 （悲剧的），把 调查 从 转向 " 达尔拉 家庭"。
 
 ---
 
@@ -36,16 +35,15 @@ modified: "2026-10-20"
 
 > **原句 2:** "I didn't do it for you; I did it for Paati."
 
-中文理解：我不是为你做的，我是为 祖母 做的。把 普佳 的 从 "" 转向 " "，把 "I'm " 写成 " "（愚蠢的评论）。
+中文理解：我不是为你做的，我是为 祖母 做的。把 普佳 的 人物 从 转向 "隐藏的 心"，把 "I'm " 写成 （愚蠢的评论）。
 
 句子结构：主谓宾 I didn't do it for you + 并列 I did it for Paati。
 
-关键词：didn't / for / you / did
-
+关键词：did it for Paati（为 Paati 做的）
 
 表达方式：Pooja 的 "I didn't do it for you; I did it for Paati" 把 Pooja 的 character 写成 "hidden heart"，把 "I'm obviously the more sensible choice" 写成 "asinine comment"。
 
-为什么这样写：把 普佳 的 从 "" 转向 " "——"I ; I 祖母" 把 普佳 的 写成 ""（愧疚驱动的），把 普佳 的 写成 ""（复杂的）；"I'm " 把 普佳 的 "" 写成 ""（愚蠢的），把 南迪妮 的 写成 ""（消散的）。
+为什么这样写：把 普佳 的 人物 从 转向 "隐藏的 心"——"I ; I 祖母" 把 普佳 的 写成 "愧疚-"（愧疚驱动的），把 普佳 的 人物 写成 （复杂的）；"I'm " 把 普佳 的 人物 写成 （愚蠢的），把 南迪妮 的 写成 （消散的）。
 
 ---
 
@@ -53,16 +51,16 @@ modified: "2026-10-20"
 
 > **原句 3:** "A penny for your thoughts?"
 
-中文理解：想什么？把 迈克尔 的 写成 ""，把 南迪妮 的 写成 ""（慌乱的）。
+中文理解：想什么？把 迈克尔 的 写成，把 南迪妮 的 人物 写成 （慌乱的）。
 
 句子结构：疑问句 A penny for your thoughts?（习语，疑问）。
 
-关键词：penny / for / your / thoughts
+关键词：A penny for your thoughts（想什么？
 
 
 表达方式：chicken rice setting 把 meeting 写成 casual 与 warm；Michael 的 "A penny for your thoughts?" 把 friendship 写成 "playful"。
 
-为什么这样写：把 迈克尔-南迪妮 的 从 "" 转向 ""——"A ?" 把 迈克尔 的 写成 ""，把 南迪妮 的 写成 ""；" a " 把 迈克尔 的 " " 写成 ""，把 南迪妮 的 " " 写成 " "。
+为什么这样写：把 迈克尔-南迪妮 的 从 "尴尬的" 转向 ——"A ?" 把 迈克尔 的 人物 写成，把 南迪妮 的 人物 写成 ；" a " 把 迈克尔 的 "改过自新的帮派分子" 写成，把 南迪妮 的 写成。
 
 ---
 
@@ -70,16 +68,15 @@ modified: "2026-10-20"
 
 > **原句 4:** "Had Darla had children of her own?"
 
-中文理解：达尔拉 有自己的孩子吗？把 南迪妮 的 写成 ""（共情），把 达尔拉 的 写成 " "—— " a . ." 把 达尔拉 的 " " 写成 ""。
+中文理解：达尔拉 有自己的孩子吗？把 南迪妮 的 写成 （共情），把 达尔拉 的 人物 写成 —— " a 家庭. 表演." 把 达尔拉 的 写成 "谜团"。
 
 句子结构：疑问句 Had Darla had children of her own?（过去完成时，疑问）。
 
-关键词：Had / Darla / children / her
-
+关键词：children of her own（自己的孩子）
 
 表达方式：playground imagination 把 Nandhini 的 empathy 写成 "visualization"—— "Had Darla had children of her own?" 把 Darla 的 character 写成 "tragic figure"。
 
-为什么这样写：把 南迪妮 的 写成 ""，让 南迪妮 的 写成 ""——" 达尔拉 ?" 把 达尔拉 的 写成 " "，把 " " 写成 ""；" " 把 达尔拉 的 "" 写成 " "（可能的不端行为），把 写成 ""。
+为什么这样写：把 南迪妮 的 写成，让 南迪妮 的 人物 写成 "有同情心的"——" 达尔拉 ?" 把 达尔拉 的 人物 写成，把 写成 "谜团"；" 事业" 把 达尔拉 的 写成 （可能的不端行为），把 调查 写成。
 
 ---
 

@@ -19,16 +19,15 @@ modified: "2026-10-20"
 
 > **原句 1:** "I got the role?"
 
-中文理解：我得到角色了？达尔拉 以 （不相信）而非 （喜悦）回应，把 " " 写成 ""，让 达尔拉 的。
+中文理解：我得到角色了？达尔拉 以 （不相信）而非 （喜悦）回应，把 写成，让 达尔拉 的。
 
 句子结构：疑问句 I got the role?（主谓宾）。
 
-关键词：got / the / role
-
+关键词：got the role（得到角色）
 
 表达方式：phone call 把 "got the role" 写成 "disbelief"，把 Darla 的 self-doubt visible。
 
-为什么这样写：把 " " 写成 ""，让 达尔拉 的 从 "" 到 "" 的 写成 而非 ；" " 把 写成。
+为什么这样写：把 写成，让 达尔拉 的 人物 从 到 的 写成 而非 ； 把 化学反应 写成。
 
 ---
 
@@ -36,16 +35,15 @@ modified: "2026-10-20"
 
 > **原句 2:** "Not some cheap whore who kisses men and who knows what else for money!"
 
-中文理解：不是那种亲吻男人、天知道还做什么来赚钱的廉价妓女！把 写成，把 达尔拉 的 写成 ""（玷污），把 写成 " "。
+中文理解：不是那种亲吻男人、天知道还做什么来赚钱的廉价妓女！把 母亲's 恐惧 写成，把 达尔拉 的 表演 事业 写成 （玷污），把 母亲's 爱 写成 " 拒绝"。
 
 句子结构：主系表 Not some cheap whore who kisses men and who knows what else for money（否定 + 定语从句）。
 
-关键词：Not / some / cheap / whore
-
+关键词：cheap whore（廉价妓女） / kisses men（亲吻男人）
 
 表达方式：mother's opposition 写成 "trauma-driven"——"cheap whore" 是 Mrs Fernandez 的 worst fear 具象化。
 
-为什么这样写：把 写成 " " 的 版本——" " 是 费尔南德斯夫人 的 具象化，把 写成 " "；"I'd a " 把 写成 " "。
+为什么这样写：把 母亲's 写成 "创伤- " 的 版本—— 是 费尔南德斯夫人 的 恐惧 具象化，把 母亲's 爱 写成 " 拒绝"；"I'd a " 把 母亲's 写成。
 
 ---
 
@@ -53,16 +51,15 @@ modified: "2026-10-20"
 
 > **原句 3:** "You were born to be an actress!"
 
-中文理解：你生来就是演员！父亲的 把 达尔拉 的 写成，把 写成 " "。
+中文理解：你生来就是演员！父亲的 把 达尔拉 的 梦境 写成 父亲's，把 父亲's 写成。
 
 句子结构：主系表 You were born to be an actress（被动 + 不定式短语）。
 
-关键词：You / were / born / actress
-
+关键词：born to be an actress（生来就是演员）
 
 表达方式：father's photo 作为 talisman 把 grief 转化为 guidance；"twinkling eyes" 把 father's memory 写成 living presence。
 
-为什么这样写：把 写成 " "，让 达尔拉 的 写成 " " 的 而非 ；", !" 的 把 写成，让 费尔南德斯先生 从 "" 转为 ""。
+为什么这样写：把 父亲's 写成，让 达尔拉 的 事业 写成 "父亲's " 的 而非 ；", !" 的 把 父亲's 写成，让 费尔南德斯先生 从 转为。
 
 ---
 
@@ -70,16 +67,15 @@ modified: "2026-10-20"
 
 > **原句 4:** "I love you too, you foolish girl."
 
-中文理解：我也爱你，你这个傻女孩。把 写成 " "，把 费尔南德斯夫人 的 从 "" 转向 " "。
+中文理解：我也爱你，你这个傻女孩。把 写成 " 爱"，把 费尔南德斯夫人 的 人物 从 转向 " 爱"。
 
 句子结构：直接引语 I love you too, you foolish girl（主谓宾 + 同位语）。
 
-关键词：love / you / too / foolish
-
+关键词：foolish girl（傻女孩）
 
 表达方式：mother-daughter goodbye 写成 "unspoken love"——"brief glance + grunt" 把 mother's love 写成 "withheld"；"I love you too, you foolish girl" 把 love 写成 "muttered under her breath"。
 
-为什么这样写：把 写成 " "，让 费尔南德斯夫人 的 从 "" 转向 " "——"I , " 是，把 写成 " "；" " 把 写成 ""而非 ""。
+为什么这样写：把 写成 " 爱"，让 费尔南德斯夫人 的 人物 从 转向 " 爱"——"I 爱 , " 是 爱，把 母亲- 写成 "爱 "； 把 母亲's 恐惧 写成 而非。
 
 ---
 

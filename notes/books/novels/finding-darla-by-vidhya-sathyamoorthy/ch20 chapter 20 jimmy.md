@@ -19,16 +19,15 @@ modified: "2026-10-20"
 
 > **原句 1:** "He jumped back onto the bed and much to Darla’s annoyance, began licking her face profusely."
 
-中文理解：他跳回床上，让 达尔拉 很恼火，开始疯狂地舔她的脸。把 吉米 的 写成 ""（坚持的），把 达尔拉-吉米 的 写成 " "（日常）。
+中文理解：他跳回床上，让 达尔拉 很恼火，开始疯狂地舔她的脸。把 吉米 的 人物 写成 "坚持的"（坚持的），把 达尔拉-吉米 的 写成 （日常）。
 
 句子结构：主谓宾 He jumped back onto the bed + 让步 much to Darla's annoyance + 现在分词短语 began licking her face profusely。
 
-关键词：jumped / back / onto / the
-
+关键词：profusely（疯狂地） / licking（舔）
 
 表达方式：dog POV 把 Jimmy 的 "persistence"（坚持）写成 "annoying but loving"（恼人但 loving），把 Darla-Jimmy 的 bond 写成 "daily routine"。
 
-为什么这样写：把 吉米 的 写成 ""（满足的），让 达尔拉 的 写成 " "（ 主人）——" 达尔拉 " 把 吉米 的 "" 写成 ""（以食物为中心的），把 达尔拉 的 写成 ""（ 导向的）。
+为什么这样写：把 吉米 的 写成 （满足的），让 达尔拉 的 人物 写成 （ 主人）——" 达尔拉 " 把 吉米 的 写成 （以食物为中心的），把 达尔拉 的 人物 写成 （ 导向的）。
 
 ---
 
@@ -36,16 +35,15 @@ modified: "2026-10-20"
 
 > **原句 2:** "Two lines. Yet again, two lines that may upend her life and change everything."
 
-中文理解：两条线。又是两条线，可能颠覆她的生活，改变一切。把 新冠疫情 写成 " "（两条线），把 达尔拉 的 写成 ""（恐惧的）。
+中文理解：两条线。又是两条线，可能颠覆她的生活，改变一切。把 新冠疫情 写成 （两条线），把 达尔拉 的 人物 写成 "恐惧"（恐惧的）。
 
 句子结构：独立短句 Two lines. Yet again, two lines that may upend her life and change everything（定语从句）。
 
-关键词：Two / lines / Yet / again
-
+关键词：two lines（两条线） / upend（颠覆）
 
 表达方式：Covid test 把 "two lines" 写成 "life-changing"（改变人生的），把 Darla 的 character 写成 "fearful"。
 
-为什么这样写：把 新冠疫情 写成 " "，让 达尔拉 的 写成 ""——" . , " 把 新冠疫情 写成 " "（反复的威胁），把 达尔拉 的 写成 ""；" 吉米 " 把 吉米 写成 " "（困惑的见证者），把 达尔拉 的 写成 ""（孤立的）。
+为什么这样写：把 新冠疫情 写成，让 达尔拉 的 人物 写成 "恐惧"——" . , " 把 新冠疫情 写成 （反复的威胁），把 达尔拉 的 人物 写成 "恐惧"；" 吉米 " 把 吉米 写成 （困惑的见证者），把 达尔拉 的 人物 写成 （孤立的）。
 
 ---
 
@@ -53,14 +51,14 @@ modified: "2026-10-20"
 
 > **原句 3:** "Shaking in fear, Jimmy thought of Darla and hoped she would return soon."
 
-中文理解：吉米 在恐惧中颤抖，想着 达尔拉，希望她很快回来。把 吉米 的 "" 写成 ""（颤抖），把 吉米 的 写成 ""（忠诚的）。
+中文理解：吉米 在恐惧中颤抖，想着 达尔拉，希望她很快回来。把 吉米 的 "恐惧" 写成 （颤抖），把 吉米 的 人物 写成 （忠诚的）。
 
 句子结构：现在分词短语 Shaking in fear + 主谓宾 Jimmy thought of Darla and hoped she would return soon。
 
-关键词：Shaking / fear / Jimmy / thought
-
+关键词：shaking in fear（在恐惧中颤抖） / hoped she would return soon（希望她很快回来）
 
 表达方式：storm scene 把 Jimmy 的 "fear" 写成 "shaking"，把 Jimmy 的 character 写成 "loyal"。
+
 
 ---
 

@@ -19,16 +19,15 @@ modified: "2026-10-20"
 
 > **原句 1:** "I am Ariyah. Ariyah is me."
 
-中文理解：我是 阿里亚，阿里亚 是我。把 写成，把 "I 阿里亚. 阿里亚 ." 的 把 写成 而非。
+中文理解：我是 阿里亚，阿里亚 是我。把 表演 写成 身份，把 "I 阿里亚. 阿里亚 ." 的 表演 把 表演 写成 身份 而非。
 
 句子结构：主系表 I am Ariyah + 并列 Ariyah is me。
 
-关键词：Ariyah
-
+关键词：Ariyah（角色名）
 
 表达方式：method acting 把 Darla 的 transformation 写成 "I am Ariyah. Ariyah is me."，把 acting 写成 identity 而非 pretense。
 
-为什么这样写：把 达尔拉 的 写成 ""，让 达尔拉 的 从 "" 到 "" 的 写成 " "——"I 阿里亚. 阿里亚 ." 把 写成 而非。
+为什么这样写：把 达尔拉 的 写成，让 达尔拉 的 人物 从 到 的 写成 " 表演"——"I 阿里亚. 阿里亚 ." 把 表演 写成 身份 而非。
 
 ---
 
@@ -36,16 +35,15 @@ modified: "2026-10-20"
 
 > **原句 2:** "Conversation flowed easily between them as if they had known each for years."
 
-中文理解：他们之间的对话流畅自然，仿佛他们已经认识多年。把 写成 ""，把 唐尼-达尔拉 的 写成 ""。
+中文理解：他们之间的对话流畅自然，仿佛他们已经认识多年。把 化学反应 写成，把 唐尼-达尔拉 的 吸引 写成。
 
 句子结构：主谓宾 Conversation flowed easily between them + 时间状语从句 as if they had known each for years。
 
-关键词：Conversation / flowed / easily / between
-
+关键词：Conversation flowed easily（对话流畅） / known each for years（认识多年）
 
 表达方式：dream world scene 把 Ariyah-Jack 的 romance 写成 "dream logic"；"Conversation flowed easily" 把 chemistry 写成 "natural"。
 
-为什么这样写：把 写成 " "，让 达尔拉 的 写成 "" 而非 ""；" " 把 杰克 的 写成 "" 而非 ""。
+为什么这样写：把 梦境 写成，让 达尔拉 的 表演 写成 而非 ； 把 杰克 的 人物 写成 而非。
 
 ---
 
@@ -53,16 +51,15 @@ modified: "2026-10-20"
 
 > **原句 3:** "As his fingertips grazed her skin, her heart started beating so fast that she worried he might hear it."
 
-中文理解：当他的指尖轻触她的皮肤时，她的心跳得如此之快，以至于她担心他会听到。把 写成，把 写成 " "。
+中文理解：当他的指尖轻触她的皮肤时，她的心跳得如此之快，以至于她担心他会听到。把 吸引 写成，把 写成。
 
 句子结构：时间状语从句 As his fingertips grazed her skin + 主谓宾 her heart started beating so fast + 宾语从句 that she worried he might hear it。
 
-关键词：his / fingertips / grazed / her
-
+关键词：fingertips grazed（指尖轻触） / heart started beating（心跳加速）
 
 表达方式：Donny's ride 把 "intimacy" 写成 "physiological"——"fingertips grazed her skin" 把 attraction 写成 touch。
 
-为什么这样写：把 唐尼-达尔拉 的 写成 ""——" " 把 写成，把 写成 " "；" " 把 唐尼 的 写成 "" 而非 ""。
+为什么这样写：把 唐尼-达尔拉 的 写成 "生理的"—— 把 吸引 写成，把 写成 ； 把 唐尼 的 人物 写成 而非。
 
 ---
 
@@ -70,16 +67,15 @@ modified: "2026-10-20"
 
 > **原句 4:** "It's been too long, Zooms!"
 
-中文理解：好久不见，！把 写成 （朋友），把 写成 达尔拉 的。
+中文理解：好久不见，！把 写成 （朋友），把 写成 达尔拉 的 情感的。
 
 句子结构：直接引语 It's been too long, Zooms!（主系表）。
 
-关键词：It's / been / too / long
-
+关键词：Zooms（Zoomie 的昵称）
 
 表达方式：Manny's note 把 brother's love 写成 "sweet yet annoying"；"It's been too long, Zooms!" 把 car 写成 friend。
 
-为什么这样写：把 的 写成 "曼尼's "，让 从 沙巴 转移到 吉隆坡，把 车牌号 的 写成 ""—— 不再是 " "，而是 " "；" , !" 把 写成，把 写成 达尔拉 的。
+为什么这样写：把 的 写成 "曼尼's "，让 从 沙巴 转移到 吉隆坡，把 5783 的 身体的 写成 —— 不再是，而是 " 同伴"；" , !" 把 写成，把 写成 达尔拉 的 情感的。
 
 ---
 

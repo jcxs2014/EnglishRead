@@ -19,16 +19,15 @@ modified: "2026-10-20"
 
 > **原句 1:** "Consider this an early birthday present."
 
-中文理解：把这当作提前的生日礼物吧。把 迈克尔 的 写成 ""——从 到，把 迈克尔 的 写成 " "。
+中文理解：把这当作提前的生日礼物吧。把 迈克尔 的 写成 ——从 到 羊肉，把 迈克尔 的 人物 写成。
 
 句子结构：祈使句 Consider this an early birthday present。
 
-关键词：Consider / this / early / birthday
-
+关键词：early birthday present（提前的生日礼物）
 
 表达方式：Michael's mutton gift 把 "kindness" 写成 "recurring"——从 care packages 到 birthday mutton，把 Michael 的 generosity 写成 "habitual" 而非 "one-time"。
 
-为什么这样写：把 迈克尔 的 写成 " "，让 迈克尔 的 写成 ""——从 到，把 迈克尔 的 写成 ""；南迪妮's 把 " " 写成 " "，把 写成 ""。
+为什么这样写：把 迈克尔 的 羊肉 写成，让 迈克尔 的 人物 写成 ——从 到 羊肉，把 迈克尔 的 写成 ；南迪妮's 把 写成 " 即兴"，把 写成。
 
 ---
 
@@ -36,16 +35,15 @@ modified: "2026-10-20"
 
 > **原句 2:** "Happy birthday, Nandhini. Make a wish and blow out the candles."
 
-中文理解：生日快乐，南迪妮。许个愿，吹灭蜡烛。把 写成 ""，让 迈克尔 的 写成 ""——" " 把 写成 ""。
+中文理解：生日快乐，南迪妮。许个愿，吹灭蜡烛。把 写成，让 迈克尔 的 人物 写成 "脆弱的"—— 把 写成。
 
 句子结构：直接引语 Happy birthday, Nandhini. Make a wish and blow out the candles（祈使）。
 
-关键词：Happy / birthday / Nandhini / Make
-
+关键词：Happy birthday（生日快乐） / Make a wish（许愿） / blow out the candles（吹灭蜡烛）
 
 表达方式：birthday song 把 Michael 的 character 写成 "vulnerable"——"voice cracked" 把 singing 写成 "courage"，把 Michael 的 "tough ex-gangster" 写成 "sweet"。
 
-为什么这样写：把 写成 ""，让 迈克尔 的 写成 ""——" " 把 写成 ""，把 迈克尔 的 " " 写成 ""；" " 的 把 写成 " "。
+为什么这样写：把 写成，让 迈克尔 的 人物 写成 "脆弱的"—— 把 写成，把 迈克尔 的 写成 ； 的 把 写成。
 
 ---
 
@@ -53,16 +51,15 @@ modified: "2026-10-20"
 
 > **原句 3:** "macam tak masuk akal, lah."
 
-中文理解：不  。迈克尔 评整体剧情不  ，认为在梦中相遇并相爱难以置信。南迪妮 激动辩护阿里亚，声称迈克尔 不了解梦境对阿里亚的意义。
+中文理解：不。迈克尔 评整体剧情不，认为在梦中相遇并相爱难以置信。南迪妮 激动辩护阿里亚，声称迈克尔 不了解梦境对阿里亚的意义。
 
 句子结构：独立短语 macam tak masuk akal, lah（马来语短语）。
 
-关键词：macam / tak / masuk / akal
-
+关键词：macam tak masuk akal（不 make sense，马来语） / lah（语气词）
 
 表达方式：Michael 的 critique 把 Darla 的 film 写成 "unrealistic"，把 Nandhini 的 defense 写成 "personal"——"I'm not crazy, Michael!" 把 Nandhini 的 outburst 写成 "identification with Ariyah"。
 
-为什么这样写：把 迈克尔 的 写成 " "，让 迈克尔 的 写成 ""——" " 把 写成 ""，把 南迪妮 的 写成 ""；南迪妮 的 "I'm , 迈克尔!" 把 写成 ""—— 阿里亚，。
+为什么这样写：把 迈克尔 的 写成，让 迈克尔 的 人物 写成 —— 把 梦境 写成，把 南迪妮 的 梦境s 写成 ；南迪妮 的 "I'm , 迈克尔!" 把 写成 —— 阿里亚，。
 
 ---
 
@@ -70,16 +67,15 @@ modified: "2026-10-20"
 
 > **原句 4:** "I don't want you to do anything you'll regret."
 
-中文理解：我不想你做任何你会后悔的事。把 迈克尔 的 写成 ""——" " 把 写成 " " 的，把 迈克尔 的 写成 ""。
+中文理解：我不想你做任何你会后悔的事。把 迈克尔 的 写成 —— 把 写成 "情感的 " 的，把 迈克尔 的 人物 写成。
 
 句子结构：主谓宾 I don't want you to do anything + 宾语从句 you'll regret。
 
-关键词：don't / want / you / anything
-
+关键词：regret（后悔）
 
 表达方式：kiss attempt 把 Nandhini 的 desire 写成 "forget everything"——she wants to "feel good for a change"，把 kiss 写成 "escape" 而非 "romance"。
 
-为什么这样写：把 写成 ""，让 南迪妮 的 写成 ""—— " "，把 写成 "" 而非 ""；迈克尔's 把 " " 写成 ""，把 迈克尔 的 写成 ""——" " 把 写成 " " 的。
+为什么这样写：把 吻 写成，让 南迪妮 的 人物 写成 ——，把 吻 写成 而非 ；迈克尔's 把 写成，把 迈克尔 的 人物 写成 —— 把 写成 "情感的 " 的。
 
 ---
 

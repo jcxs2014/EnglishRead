@@ -17,12 +17,14 @@ modified: "2026-10-20"
 
 ### 第1处：Postpartum depression & recovery
 
-中文理解：她被 、、 与 所折磨，大多数日子躺在床上，无望地对着枕头哭泣。把 写成 " "（被折磨），把 写成 ""（持续的）。
+
+中文理解：她被 愧疚、羞耻、孤独 与 坚持的 绝望 所折磨，大多数日子躺在床上，无望地对着枕头哭泣。把 产后 写成 （被折磨），把 写成 "坚持的"（持续的）。
+
 
 
 表达方式：postpartum depression 把 "racked with" 写成 "physical"（身体的），把 depression 写成 "persistent"（持续的）。
 
-为什么这样写：；" 达尔拉 : " 把 写成 " "（被爱阻止），把 写成 ""（生命线）。
+为什么这样写：把 产后 写成 " 愧疚, 羞耻, 孤独"，让 达尔拉 的 人物 写成 "破碎的"（破碎的）——"坚持的 绝望 " 把 写成 （致残的），把 达尔拉 的 人物 写成 ；" 达尔拉 : 母亲 " 把 写成 " 爱"（被爱阻止），把 母亲 写成 （生命线）。
 
 ---
 
@@ -30,16 +32,16 @@ modified: "2026-10-20"
 
 > **原句 2:** "Darla Roland Fernandez is amazing in her debut film. She truly brought Ariyah's character to life."
 
-中文理解：达尔拉 在她的 中。她真正把 阿里亚 的 带到了。把 写成 " " 的 （催化剂），把 达尔拉 的 写成 ""（被唤醒的）。
+中文理解：达尔拉 在她的 中。她真正把 阿里亚 的 人物 带到了。把 写成 的 （催化剂），把 达尔拉 的 人物 写成 （被唤醒的）。
 
 句子结构：主系表 Darla Roland Fernandez is amazing in her debut film + 并列 She truly brought Ariyah's character to life。
 
-关键词：Darla / Roland / Fernandez / amazing
+关键词：amazing / debut / film / brought / to / life
 
 
 表达方式：reviews 把 "yearning to act" 写成 "catalyst"——"Glossing over the parts that mention Donny (mostly highlighting his good looks), Darla hungrily devoured all the positive reviews" 把 Donny 写成 "avoided"（避开的），把 reviews 写成 "hungrily devoured"（贪婪地吞噬）。
 
-为什么这样写：，把 达尔拉 的 写成 ""（渴望的）；"茉莉 !" 把 茉莉 写成 ""（动机），把 写成 " 茉莉"（为 茉莉）。
+为什么这样写：把 写成 的，让 达尔拉 的 人物 从 "产后 " 转向 （复出）——" , , 心 表演" 把 表演 写成，把 达尔拉 的 人物 写成 （渴望的）；"茉莉 母亲 !" 把 茉莉 写成 （动机），把 表演 写成 " 茉莉"（为 茉莉）。
 
 ---
 
@@ -47,26 +49,27 @@ modified: "2026-10-20"
 
 > **原句 3:** "She pored over her audition pages religiously, memorising her lines and trying out different facial expressions in front of the mirror."
 
-中文理解：她虔诚地翻阅， 并在 前尝试。把 写成 ""（虔诚的），把 达尔拉 的 写成 ""（决心的）。
+中文理解：她虔诚地翻阅 试镜， 并在 前尝试。把 试镜 写成 （虔诚的），把 达尔拉 的 人物 写成 "决心的"（决心的）。
 
 句子结构：主谓宾 She pored over her audition pages religiously + 现在分词短语 memorising her lines and trying out different facial expressions in front of the mirror。
 
-关键词：She / pored / over / her
-
+关键词：pored over（翻阅） / religiously（虔诚地） / memorising（memorising）
 
 表达方式：audition preparation 把 "religious" 写成 "determined"——"On the day of the audition, Darla felt ready" 把 preparation 写成 "confidence"（信心）。
 
-为什么这样写：把 写成 ""，让 达尔拉 的 写成 ""——" . , " 把 达尔拉 的 写成 " "（才华胜过风格），把 " " 写成 " "（风格失败）。
+为什么这样写：把 试镜 写成，让 达尔拉 的 人物 写成 "决心的"——" 决心的 . , " 把 达尔拉 的 人物 写成 （才华胜过风格），把 写成 （风格失败）。
 
 ---
 
+
 > **原句 4:** "You know, your pregnancy."
 
-中文理解：你知道的，你的怀孕。把 唐尼 的 写成 " 大卫"，把 写成 ""（丑闻），把 达尔拉 的 写成 " "。
+中文理解：你知道的，你的怀孕。把 唐尼 的 写成 " 大卫"，把 怀孕 写成 （丑闻），把 达尔拉 的 人物 写成。
 
 句子结构：直接引语 You know, your pregnancy（主谓宾）。
 
-关键词：You / know / your / pregnancy
+关键词：pregnancy（怀孕）
+
 
 
 
@@ -76,16 +79,15 @@ modified: "2026-10-20"
 
 > **原句 5:** "She wailed, banging the steering wheel violently, enraged by yet another betrayal, grieving the loss of the future she had envisioned for herself."
 
-中文理解：她哀号，猛烈地拍打方向盘，被又一次的背叛激怒，哀悼她为自己设想的未来的丧失。把 写成 ""（身体的），把 达尔拉 的 写成 ""（破碎的）。
+中文理解：她哀号，猛烈地拍打方向盘，被又一次的背叛激怒，哀悼她为自己设想的未来的丧失。把 写成 "身体的"（身体的），把 达尔拉 的 人物 写成 "破碎的"（破碎的）。
 
 句子结构：主谓宾 She wailed + 现在分词短语 banging the steering wheel violently + 介词短语 enraged by yet another betrayal, grieving the loss of the future she had envisioned for herself。
 
-关键词：She / wailed / banging / the
-
+关键词：wailed（哀号） / banging（拍打） / violently（猛烈地） / enraged（激怒的） / grieving（哀悼的）
 
 表达方式：breakdown 把 "physical" 写成 "wailing"（哀号）与 "banging"（拍打），把 Darla 的 character 写成 "broken"。
 
-为什么这样写：把 写成 ""，让 达尔拉 的 写成 ""——" , " 把 写成 ""，把 达尔拉 的 写成 ""；" , " 把 写成 ""（反复的），把 写成 ""（失去的）。
+为什么这样写：把 写成 "身体的"，让 达尔拉 的 人物 写成 "破碎的"——" , " 把 悲伤 写成 "身体的"，把 达尔拉 的 人物 写成 "破碎的"；" 背叛, 失去 " 把 背叛 写成 （反复的），把 写成 （失去的）。
 
 ---
 
@@ -123,3 +125,4 @@ modified: "2026-10-20"
 ## 一句话总结
 
 本章以 Darla 产后抑郁与 Dr Chong 治疗开篇，经 reviews of The Man from My Dreams 唤醒 yearning to act、audition for Lily Matius in Loving in KL，最终以 Donny 通过 David 以 "pregnancy scandal" 为由拒绝她 audition、Darla breakdown（wailing, banging steering wheel）收尾，把 Darla 的 recovery 与 Donny's sabotage 并置，把 "pregnancy" 写成 "career killer"。
+

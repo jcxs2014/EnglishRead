@@ -19,16 +19,16 @@ modified: "2026-10-20"
 
 > **原句 1:** "Get rid of it. Then, come back here. Forget about acting."
 
-中文理解：不是那种亲吻男人、天知道还做什么来赚钱的廉价妓女！把 写成，把 达尔拉 的 写成 ""，把 写成 " "。
+中文理解：不是那种亲吻男人、天知道还做什么来赚钱的廉价妓女！把 母亲's 恐惧 写成，把 达尔拉 的 表演 事业 写成，把 母亲's 爱 写成 " 拒绝"。
 
 句子结构：主系表 Not some cheap whore who kisses men and who knows what else for money（否定 + 定语从句）。
 
-关键词：Get / rid / Then / come
+关键词：Get
 
 
 表达方式：mother's opposition 写成 "trauma-driven"——"cheap whore" 是 Mrs Fernandez 的 worst fear 具象化。
 
-为什么这样写：把 写成 " " 的 版本——" " 是 费尔南德斯夫人 的 具象化，把 达尔拉 的 写成 ""，把 写成 " "；"I'd a " 把 写成 " "。
+为什么这样写：把 母亲's 写成 "创伤- " 的 版本—— 是 费尔南德斯夫人 的 恐惧 具象化，把 达尔拉 的 表演 事业 写成，把 母亲's 爱 写成 " 拒绝"；"I'd a " 把 母亲's 写成。
 
 ---
 
@@ -36,16 +36,16 @@ modified: "2026-10-20"
 
 > **原句 2:** "She snapped the SIM in half and tossed it across the room."
 
-中文理解：她把 卡折成两半，扔到房间的另一边。把 写成 " "（物理行为），把 达尔拉 的 写成 ""（自我强加的）。
+中文理解：她把 卡折成两半，扔到房间的另一边。把 家庭 写成 "身体的 "（物理行为），把 达尔拉 的 孤立 写成 （自我强加的）。
 
 句子结构：主谓宾 She snapped the SIM in half and tossed it across the room（并列谓语）。
 
-关键词：She / snapped / the / SIM
+关键词：snapped（折断） / tossed（扔）
 
 
 表达方式：family cutoff 把 "cutting ties" 写成 "physical act"——snapping SIM card 把 isolation 写成 "deliberate"（刻意的）。
 
-为什么这样写：把 写成 " "，让 达尔拉 的 写成 ""—— （她选择切断联系），把 写成 ""（内化的）——" a ?" 把 写成 ""（预期的）。
+为什么这样写：把 家庭 写成 "身体的 "，让 达尔拉 的 孤立 写成 —— （她选择切断联系），把 母亲's 写成 （内化的）——" a ?" 把 家庭 拒绝 写成 （预期的）。
 
 ---
 
@@ -53,16 +53,15 @@ modified: "2026-10-20"
 
 > **原句 3:** "Did you get rid of it? If you didn't, don't come."
 
-中文理解：你除掉它了吗？如果没有，别来。把 唐尼 的 写成 ""（威胁），把 写成 ""（不可能的），把 达尔拉 的 写成 ""。
+中文理解：你除掉它了吗？如果没有，别来。把 唐尼 的 写成 （威胁），把 写成 （不可能的），把 达尔拉 的 写成。
 
 句子结构：疑问句 Did you get rid of it? + 条件句 If you didn't, don't come。
 
-关键词：Did / you / get / rid
-
+关键词：get rid of it（除掉它） / don't come（别来）
 
 表达方式：Donny's email 把 "threat" 写成 "email"，把 premiere 写成 "impossible"，把 Darla 的 RSVP 写成 "no"。
 
-为什么这样写：把 唐尼 的 写成 ""，让 唐尼 的 写成 " "（缺席的虐待者）——" ? , " 把 唐尼 的 "" 写成 ""，把 达尔拉 的 ""（）写成 ""，把 达尔拉 的 写成 " "。
+为什么这样写：把 唐尼 的 写成，让 唐尼 的 人物 写成 " 虐待r"（缺席的虐待者）——" ? , " 把 唐尼 的 写成，把 达尔拉 的 "梦境"写成，把 达尔拉 的 写成。
 
 ---
 
@@ -70,16 +69,15 @@ modified: "2026-10-20"
 
 > **原句 4:** "I want to give the baby up for adoption."
 
-中文理解：我想把宝宝送人收养。把 写成 ""（痛苦的），把 " " 写成 ""（折磨），把 "" 写成 " "。
+中文理解：我想把宝宝送人收养。把 收养 写成 （痛苦的），把 写成 （折磨），把 写成。
 
 句子结构：主谓宾 I want to give the baby up for adoption。
 
-关键词：want / give / the / baby
-
+关键词：give up for adoption（送人收养）
 
 表达方式：OBGYN appointment 把 adoption decision 写成 "painful"——"Father's name" column 把 "torment" 写成 "form"，把 "Unknown" 写成 "permanent scar"。
 
-为什么这样写：把 写成 ""，让 达尔拉 的 写成 " "——" " 把 "" 写成 ""，把 "" 写成 " "；" ? I I'm a , ." 把 达尔拉 的 写成 " "（内化的羞耻）。
+为什么这样写：把 收养 写成，让 达尔拉 的 人物 写成 "破碎的 母亲"—— 把 写成，把 写成 ；" ? I I'm a , ." 把 达尔拉 的 写成 " 羞耻"（内化的羞耻）。
 
 ---
 
@@ -87,16 +85,15 @@ modified: "2026-10-20"
 
 > **原句 5:** "I'm sorry. I'm sorry. I'm sorry."
 
-中文理解：对不起。对不起。对不起。把 写成 ""（苦乐参半），把 " " 写成 " "，把 写成 ""（纪念品）。
+中文理解：对不起。对不起。对不起。把 写成 （苦乐参半），把 写成，把 写成 （纪念品）。
 
 句子结构：直接引语 I'm sorry. I'm sorry. I'm sorry.（重复，强调）。
 
-关键词：I'm / sorry
-
+关键词：I'm sorry（对不起）
 
 表达方式：birth scene 把 "giving up baby" 写成 "permanent scar"——"I'm sorry. I love you. I'll love you forever and ever" 把 mother's love 写成 "unconditional"（无条件的）。
 
-为什么这样写：把 写成 ""，让 达尔拉 的 写成 " "——"I'm . I . I' " 把 写成 ""，把 " " 写成 " "；" " 把 写成 ""，把 达尔拉 的 写成 ""（伤痕累累的）。
+为什么这样写：把 写成，让 达尔拉 的 人物 写成 "破碎的 母亲"——"I'm . I 爱 . I' 爱 " 把 母亲's 爱 写成，把 写成 ； 把 失去 写成，把 达尔拉 的 人物 写成 "伤痕累累的"（伤痕累累的）。
 
 ---
 

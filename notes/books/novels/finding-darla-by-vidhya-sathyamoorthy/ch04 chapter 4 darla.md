@@ -19,16 +19,15 @@ modified: "2026-10-20"
 
 > **原句 1:** "it was exhilarating!"
 
-中文理解：风吹过头发，令人兴奋。达尔拉 把新车的快乐写成" "——她从 曼尼 的 与 中解放出来，象征她从 向 转变。
+中文理解：风吹过头发，令人兴奋。达尔拉 把新车的快乐写成——她从 曼尼 的 与 中解放出来，象征她从 家庭 向 转变。
 
 句子结构：主系表 it was exhilarating（感叹）。
 
-关键词：was / exhilarating
-
+关键词：exhilarating（令人兴奋的）
 
 表达方式：感官细节（wind in her hair）把新车的快乐具象化。
 
-为什么这样写：把新车的快乐写成" "，把""与后文母亲的""形成对照：同一辆车，对 达尔拉 是自由，对母亲是恐惧。
+为什么这样写：把新车的快乐写成，把与后文母亲的形成对照：同一辆车，对 达尔拉 是自由，对母亲是恐惧。
 
 ---
 
@@ -36,16 +35,15 @@ modified: "2026-10-20"
 
 > **原句 2:** "Zoomie? Cause cars go zoom-zoom?"
 
-中文理解：曼尼 问"？因为车 ？"达尔拉 命名车""（因为 ），把车 （拟人化），把车从""变成""。
+中文理解：曼尼 问"？因为车 ？"达尔拉 命名车（因为 ），把车 （拟人化），把车从变成"同伴"。
 
 句子结构：疑问句 Zoomie? Cause cars go zoom-zoom?（Manny chuckled）。
 
-关键词：Zoomie / Cause / cars / zoom
-
+关键词：Zoomie（车名） / zoom-zoom（拟声）
 
 表达方式：兄妹 banter（斗嘴）写成 comedic rhythm；"Zoomie"的命名把车 anthropomorphize。
 
-为什么这样写： （父亲的 ）把父亲 带进本章：相机是 费尔南德斯先生 的遗物，曼尼 用它拍照，把父亲的 延伸到 达尔拉 的新车时刻；""的命名把车从""变成""，为后文"父亲 "的 埋下。
+为什么这样写： （父亲的 ）把父亲 带进本章：相机是 费尔南德斯先生 的遗物，曼尼 用它拍照，把父亲的 延伸到 达尔拉 的新车时刻；的命名把车从变成"同伴"，为后文"父亲 "的 创伤 埋下。
 
 ---
 
@@ -53,16 +51,16 @@ modified: "2026-10-20"
 
 > **原句 3:** "You bought her a car?"
 
-中文理解：费尔南德斯夫人 以 （惊恐）问" a ?"尽管 （娇小）却 （令人 ），尤其 （招牌怒容）。把母亲的反对写成" "而非"控制狂"。
+中文理解：费尔南德斯夫人 以 （惊恐）问" a ?"尽管 （娇小）却 （令人 ），尤其 （招牌怒容）。把母亲的反对写成"创伤- "而非"控制狂"。
 
 句子结构：疑问句 You bought her a car?（主谓宾）。
 
-关键词：You / bought / her / car
+关键词：You
 
 
 表达方式：大写与 signature scowl 把母亲的 fear 写成 visible。
 
-为什么这样写：把母亲的反对写成" "的 版本——" "是 费尔南德斯夫人 的 具象化；" "把 达尔拉 的 写成母亲的 的 ；" "把母亲的"解决方案"写成，把 达尔拉 的梦想问题 为。
+为什么这样写：把母亲的反对写成"创伤- "的 版本——是 费尔南德斯夫人 的 恐惧 具象化；把 达尔拉 的 写成母亲的 的 ；把母亲的"解决方案"写成，把 达尔拉 的梦想问题 为。
 
 ---
 
@@ -70,16 +68,16 @@ modified: "2026-10-20"
 
 > **原句 4:** "Darla's father had died in a tragic car accident when she was just twelve."
 
-中文理解：达尔拉 的父亲 十二岁时死于悲剧性车祸：汽车爱好者与 avid 赛车手，尽管 费尔南德斯夫人 警告，常与 pals 赛车，一次在赛道上失控，撞上 barricade，故障安全气囊从未弹出，死于头部撞向方向盘的冲击。
+中文理解：达尔拉 的父亲 十二岁时死于悲剧性车祸：汽车爱好者与赛车手，尽管 费尔南德斯夫人 警告，常与 赛车，一次在赛道上失控，撞上，故障安全气囊从未弹出，死于头部撞向方向盘的冲击。
 
 句子结构：主谓宾 Mr Fernandez had died in a tragic car accident + 时间状语从句 when she was just twelve。
 
-关键词：Darla's / father / had / died
+关键词：tragic car accident（悲剧性车祸）
 
 
 表达方式：flashback 把父亲之死写成 family history；"At least he died doing what he loved"的 ironic comfort 把 grief 写成 unresolved。
 
-为什么这样写：把父亲之死写成" "的，让 有 ：费尔南德斯先生 的 =，达尔拉 的 = ；" "把 达尔拉 的 写成，让母亲的 合理化；父亲的 （" !"）把 达尔拉 的 写成。
+为什么这样写：把父亲之死写成" 爱d"的，让 失去 有 ：费尔南德斯先生 的 = 死亡，达尔拉 的 = 死亡；" 父亲"把 达尔拉 的 写成，让母亲的 恐惧 合理化；父亲的 （" !"）把 达尔拉 的 梦境 写成 父亲's。
 
 ---
 
@@ -87,16 +85,16 @@ modified: "2026-10-20"
 
 > **原句 5:** "She made a promise to herself to make her father proud one day."
 
-中文理解：达尔拉 拿起照片， 父亲的脸——这是 前。" . . ."三句把 写成。" , … , a , "把 写成。最后" a "把 转化为。
+中文理解：达尔拉 拿起照片， 父亲的脸——这是 前。" . . ."三句把 写成。" , … , a , "把 悲伤 写成 身体的。最后" a 父亲 "把 悲伤 转化为 决心。
 
 句子结构：主谓宾 She made a promise to herself + 不定式短语 to make her father proud one day。
 
-关键词：She / made / promise / herself
+关键词：promise to herself（对自己许诺）
 
 
 表达方式：sensory inventory 把 grief 写成 concrete；"willing the tears to go away, but instead they pooled"把 denial 与 overflow 并置；"leaving teardrops on the photograph"把 grief 写成 physical mark。
 
-为什么这样写：把 写成" "，让 留下 —— 是 达尔拉 的 与 的 ；" "把 转化为，这是 达尔拉 人物 的 ：她追求 不仅是，更是。
+为什么这样写：把 悲伤 写成，让 失去 留下 身体的 —— 父亲's 是 达尔拉 的 爱 与 悲伤 的 ；把 悲伤 转化为，这是 达尔拉 人物 的 ：她追求 不仅是 梦境，更是 父亲's。
 
 ---
 

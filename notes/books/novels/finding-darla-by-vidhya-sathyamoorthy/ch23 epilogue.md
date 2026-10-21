@@ -19,16 +19,15 @@ modified: "2026-10-20"
 
 > **原句 1:** "The book just made it onto the MPH bestsellers list!"
 
-中文理解：书刚登上 畅销书榜！把 南迪妮 的 写成 ""（成功），把 达尔拉 写成 ""（畅销书）。
+中文理解：书刚登上 畅销书榜！把 南迪妮 的 写成 （成功），把 达尔拉 写成 （畅销书）。
 
 句子结构：主谓宾 The book just made it onto the MPH bestsellers list（感叹）。
 
-关键词：The / book / just / made
-
+关键词：MPH bestsellers list（MPH 畅销书榜）
 
 表达方式：book bestseller 把 Nandhini 的 writing 写成 "success"，把 Finding Darla 写成 "bestseller"。
 
-为什么这样写：把 南迪妮 的 写成 ""，让 南迪妮 的 写成 " "（成功的作家）——" 南迪妮 " 把 写成 " "（实现的希望），把 南迪妮 的 写成 ""（满意的）； 把 写成 " "（关键时刻），把 车牌号 写成 " "（最后的遗物）。
+为什么这样写：把 南迪妮 的 写成，让 南迪妮 的 人物 写成 （成功的作家）——" 南迪妮 希望d " 把 写成 " 希望"（实现的希望），把 南迪妮 的 人物 写成 （满意的）； 把 写成 （关键时刻），把 5783 写成 （最后的遗物）。
 
 ---
 
@@ -36,16 +35,15 @@ modified: "2026-10-20"
 
 > **原句 2:** "I think Darla … the woman you wrote about in your book? I think she was my … biological mother."
 
-中文理解：我想 达尔拉……你在书里写的女人？我想她是我的……生物学母亲。把 茉莉 的 写成 ""（线索）的，把 茉莉 写成 "达尔拉's "（达尔拉 的女儿）。
+中文理解：我想 达尔拉……你在书里写的女人？我想她是我的……生物学母亲。把 茉莉 的 写成 （线索）的，把 茉莉 写成 "达尔拉's "（达尔拉 的女儿）。
 
 句子结构：直接引语 I think Darla … the woman you wrote about in your book? I think she was my … biological mother（疑问/陈述，省略号表示 hesitation）。
 
-关键词：think / Darla / the / woman
-
+关键词：biological mother（生物学母亲）
 
 表达方式：Jasmine's call 把 "clue" 写成 "resolution"——"I think she was my … biological mother" 把 Jasmine 写成 "Darla's daughter"，把 Nandhini 的 investigation 写成 "resolved"（解决的）。
 
-为什么这样写：把 茉莉 的 写成 ""，让 南迪妮 的 写成 ""——"I 达尔拉 " 把 茉莉 写成 "达尔拉's "，把 南迪妮 的 写成 ""；" I I . , , . I , ?" 把 茉莉 写成 "达尔拉's "（达尔拉 的镜子），把 茉莉 的 写成 ""（遗传的）。
+为什么这样写：把 茉莉 的 写成，让 南迪妮 的 调查 写成 ——"I 达尔拉 母亲" 把 茉莉 写成 "达尔拉's "，把 南迪妮 的 调查 写成 ；" I I . , , 爱 表演. I , ?" 把 茉莉 写成 "达尔拉's "（达尔拉 的镜子），把 茉莉 的 人物 写成 （遗传的）。
 
 ---
 
@@ -53,16 +51,15 @@ modified: "2026-10-20"
 
 > **原句 3:** "This I promise you."
 
-中文理解：我向你承诺。把 南迪妮 的 写成 ""（最终的），把 " I " 写成 ""（解决），把 达尔拉 写成 ""（被记住的）。
+中文理解：我向你承诺。把 南迪妮 的 写成 （最终的），把 " I " 写成 （解决），把 达尔拉 写成 （被记住的）。
 
 句子结构：直接引语 This I promise you（主谓宾，倒装）。
 
-关键词：This / promise / you
-
+关键词：This I promise you（我向你承诺）
 
 表达方式：journal handover 把 "resolution" 写成 "This I promise you"，把 Darla 写成 "remembered"。
 
-为什么这样写：把 写成 ""，让 南迪妮 的 写成 ""（守诺者）——" I " 把 南迪妮 的 写成 ""，把 达尔拉 写成 ""；"I' 曼尼, , . I' 吉米 . I ! I' , 达尔拉." 把 南迪妮 的 写成 ""（照顾者），把 达尔拉 的 写成 ""。
+为什么这样写：把 写成，让 南迪妮 的 人物 写成 （守诺者）——" I " 把 南迪妮 的 人物 写成，把 达尔拉 写成 ；"I' 曼尼, 父亲, . I' 吉米 . I 爱 ! I' 爱d , 达尔拉." 把 南迪妮 的 人物 写成 （照顾者），把 达尔拉 的 人物 写成。
 
 ---
 

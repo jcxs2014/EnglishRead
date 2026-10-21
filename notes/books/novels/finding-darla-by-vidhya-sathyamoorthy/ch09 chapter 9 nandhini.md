@@ -19,16 +19,15 @@ modified: "2026-10-20"
 
 > **原句 1:** "I was Paati's favourite!"
 
-中文理解：我是 祖母 最爱的！把 写成 " "——普佳 把 祖母 的 写成 ""，把 写成 " "。
+中文理解：我是 祖母 最爱的！把 写成 "悲伤 "——普佳 把 祖母 的 写成，把 家庭 写成 " 母亲's 爱"。
 
 句子结构：主系表 I was Paati's favourite（感叹）。
 
-关键词：was / Paati's / favourite
-
+关键词：Paati's favourite（Paati 最爱的）
 
 表达方式：Pooja 的 "I was Paati's favourite" 把 grief 写成 family competition，让 Paati 的 message 写成 "selective" 而非 "universal"。
 
-为什么这样写：把 达尔拉 的 " " 写成，把 从 "" 转向 " "；普佳 的 "I " 把 写成 —— 祖母's，所以。
+为什么这样写：把 达尔拉 的 写成 谜团，把 调查 从 转向 ；普佳 的 "I " 把 写成 愧疚-—— 祖母's 死亡，所以。
 
 ---
 
@@ -36,16 +35,15 @@ modified: "2026-10-20"
 
 > **原句 2:** "The Man from My Dreams, however, was proving impossible to find."
 
-中文理解：然而，《梦境中的男人》却证明难以找到。把 达尔拉 的 写成 " "，把 从 "" 转向 ""。
+中文理解：然而，《梦境中的男人》却证明难以找到。把 达尔拉 的 写成，把 谜团 从 转向。
 
 句子结构：主系表 The Man from My Dreams was proving impossible to find（现在进行时 + 不定式）。
 
-关键词：The / Man / from / Dreams
-
+关键词：impossible to find（难以找到）
 
 表达方式：Scarlet Revenge 的 "pretty interesting" 把 Darla 的 acting debut 写成 "watchable"；The Man from My Dreams 的 "impossible to find" 把 Darla 的 lead role 写成 "lost film"。
 
-为什么这样写：把 写成 " "，让 达尔拉 的 写成 "" 而非 ""，把 写成 ""； 的 " " 把 达尔拉 的 写成 " "，把 从 "" 转向 ""。
+为什么这样写：把 写成，让 达尔拉 的 表演 写成 而非，把 调查 写成 ； 的 把 达尔拉 的 写成，把 谜团 从 转向。
 
 ---
 
@@ -53,16 +51,15 @@ modified: "2026-10-20"
 
 > **原句 3:** "Mrs Choi who lives upstairs."
 
-中文理解：住在楼上的 崔太太。迈克尔 把 " " 写成 " "，把 崔太太 的 从 "" 转向 ""。
+中文理解：住在楼上的 崔太太。迈克尔 把 写成，把 崔太太 的 人物 从 转向。
 
 句子结构：名词短语 Mrs Choi who lives upstairs（定语从句）。
 
-关键词：Mrs / Choi / who / lives
-
+关键词：Mrs Choi（人名） / lives upstairs（住在楼上）
 
 表达方式：chicken rice setting 把 meeting 写成 casual 与 warm；Michael 的 "Mrs Choi who lives upstairs" 把 investigation 从 "digital" 转向 "physical"。
 
-为什么这样写：把 迈克尔-南迪妮 的 从 "" 转向 ""；迈克尔 的 " a " 把 崔太太 从 " " 转向 " "，把 崔太太 的 写成 " "。
+为什么这样写：把 迈克尔-南迪妮 的 从 "尴尬的" 转向 ；迈克尔 的 " a " 把 崔太太 从 转向，把 崔太太 的 写成。
 
 ---
 
@@ -70,16 +67,15 @@ modified: "2026-10-20"
 
 > **原句 4:** "Pooja, listen, I need your help with something."
 
-中文理解：从未发生过，好吗？把 写成，把 写成，把 迈克尔 的 写成 " "。
+中文理解：从未发生过，好吗？把 吻 写成，把 尴尬的 写成 修复，把 迈克尔 的 人物 写成 "心 "。
 
 句子结构：主系表 It never happened + 疑问 okay?。
 
 关键词：Pooja / listen / need / help
 
-
 表达方式：awkward comedy 把 Nandhini 的 mortification 写成 farce；Michael 的 "it never happened" 把 kiss 写成 erasure。
 
-为什么这样写：把 " " 写成，让 南迪妮 的 写成 ""—— ；迈克尔 的 " " 把 崔太太 从 " " 转向 " "。
+为什么这样写：把 写成，让 南迪妮 的 人物 写成 —— ；迈克尔 的 把 崔太太 从 转向。
 
 ---
 
@@ -87,16 +83,15 @@ modified: "2026-10-20"
 
 > **原句 5:** "Her portrayal of a woman in a twisted, confusing romance was nothing short of mesmerizing."
 
-中文理解：她对一个处于扭曲、混乱恋情中的女人的刻画，无异于令人着迷。把 达尔拉 的 写成 ""，把 南迪妮 的 写成 "" 而非 ""。
+中文理解：她对一个处于扭曲、混乱恋情中的女人的刻画，无异于令人着迷。把 达尔拉 的 表演 写成，把 南迪妮 的 调查 写成 "迷恋" 而非。
 
 句子结构：主系表 Her portrayal of a woman in a twisted, confusing romance was nothing short of mesmerizing。
 
-关键词：Her / portrayal / woman / twisted
-
+关键词：mesmerizing（令人着迷的） / twisted, confusing romance（扭曲、混乱的恋情）
 
 表达方式：film watching 把 Darla 的 acting 写成 "mesmerizing"，把 Nandhini 的 investigation 写成 "fascination" 而非 "research"。
 
-为什么这样写：把 达尔拉 的 写成 ""，让 南迪妮 的 写成 "" 而非 ""——南迪妮 不是在 " 达尔拉"，而是在 " 达尔拉's "，把 写成 " "。
+为什么这样写：把 达尔拉 的 写成，让 南迪妮 的 调查 写成 "迷恋" 而非 ——南迪妮 不是在 " 达尔拉"，而是在 " 爱 达尔拉's "，把 调查 写成 "情感的 "。
 
 ---
 

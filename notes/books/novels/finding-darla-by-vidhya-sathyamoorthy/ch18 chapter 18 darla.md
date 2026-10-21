@@ -18,16 +18,15 @@ modified: "2026-10-20"
 
 > **原句 1:** "She simply went through the motions, awaiting the sweet release of death."
 
-中文理解：她只是按部就班地活着，等待死亡的甜蜜解脱。把 达尔拉 的 写成 " "（ ），把 写成 ""（持续的）。
+中文理解：她只是按部就班地活着，等待死亡的甜蜜解脱。把 达尔拉 的 写成，把 写成 "坚持的"（持续的）。
 
 句子结构：主谓宾 She simply went through the motions + 现在分词短语 awaiting the sweet release of death。
 
-关键词：She / simply / went / through
-
+关键词：went through the motions（按部就班） / sweet release of death（死亡的甜蜜解脱）
 
 表达方式：reclusive life 把 "mere husk" 写成 "going through the motions"，把 depression 写成 "awaiting death"。
 
-为什么这样写：吉米不受欢迎，达尔拉抗拒；吉米受伤，达尔拉有同情心。
+为什么这样写：把 达尔拉 的 隐居的 写成，让 达尔拉 的 人物 写成 "破碎的"——" , , " 把 写成 "孤立"（孤立），把 达尔拉 的 人物 写成 （隐士）。
 
 ---
 
@@ -35,16 +34,15 @@ modified: "2026-10-20"
 
 > **原句 2:** "The paring knife glistened from a distance, guiding her towards it."
 
-中文理解：削皮刀从远处闪烁，引导她走向它。把 写成 ""（被引导的），把 写成 ""（诱惑的）。
+中文理解：削皮刀从远处闪烁，引导她走向它。把 写成 （被引导的），把 写成 （诱惑的）。
 
 句子结构：主谓宾 The paring knife glistened from a distance + 现在分词短语 guiding her towards it。
 
-关键词：The / paring / knife / glistened
-
+关键词：paring knife（削皮刀） / glistened（闪烁） / guiding（引导）
 
 表达方式：near suicide 把 "paring knife" 写成 "tempting"——"There's nothing worth living for any more. Just do it. I'll take hell over this." 把 suicide 写成 "rational"（理性的）。
 
-为什么这样写：吉米不受欢迎，达尔拉抗拒；吉米受伤，达尔拉有同情心。
+为什么这样写：把 写成，让 达尔拉 的 人物 写成 "自杀的"（ 自杀的）——" . . I' ." 把 写成 （理性的），把 达尔拉 的 人物 写成 "绝望"（绝望的）； 把 写成 （被中断的），把 吉米 写成 "救星"（救星）。
 
 ---
 
@@ -52,32 +50,32 @@ modified: "2026-10-20"
 
 > **原句 3:** "Shoo! Go away, you mutt. There's no place for you here."
 
-中文理解：走开！滚，你这杂种。没你的容身之地。吉米 不受欢迎，达尔拉 抗拒。
+中文理解：走开！滚，你这杂种。没你的容身之地。把 吉米 的 写成 "不受欢迎的"（不受欢迎的），把 达尔拉 的 人物 写成 "抗拒的"（抗拒的）。
 
 句子结构：祈使句 Shoo! Go away, you mutt. There's no place for you here（并列祈使）。
 
-关键词：Shoo / away / you / mutt
-
+关键词：Shoo（走开） / mutt（杂种狗） / no place for you（没你的容身之地）
 
 表达方式：Jimmy's arrival 把 "unwanted" 写成 "resistant"——"Damn her weak conscience" 把 Darla 的 character 写成 "soft-hearted"（心软的）。
 
-为什么这样写：吉米不受欢迎，达尔拉抗拒；吉米受伤，达尔拉有同情心。
+为什么这样写：把 吉米 的 写成 "不受欢迎的"，让 达尔拉 的 人物 写成 "抗拒的"—— 把 达尔拉 的 人物 写成 "心"，把 吉米 写成 "坚持的"（坚持的）； 把 吉米 写成 "受伤的"（受伤的），把 达尔拉 的 人物 写成 "有同情心的"（有同情心的）。
 
 ---
+---
 
-
-### 第4处：Jimmy becomes companion——"With the paring knife safely tucked away in the kitchen drawer"
+### 第4处：Jimmy becomes companion
 
 > **原句 4:** "With the paring knife safely tucked away in the kitchen drawer, Darla accepted that not being alone wasn't so bad after all."
 
 中文理解：削皮刀安全地收在厨房抽屉里，达尔拉 接受了独处并不那么糟糕。
 
-
-表达方式：Jimmy's companionship 把 "paring knife" 写成 "tucked away"，把 Darla 的 character 写成 "accepting"。
+句子结构：介词短语 With the paring knife safely tucked away in the kitchen drawer + 主谓宾 Darla accepted that not being alone wasn't so bad after all。
 
 关键词：paring / knife / tucked / away
 
----
+表达方式：吉米的陪伴把削皮刀写成收起，把达尔拉的人物写成接受。
+
+为什么这样写：吉米的陪伴拯救了达尔拉，让她从自杀倾向转向接受不孤独。
 
 ## 本章词汇
 

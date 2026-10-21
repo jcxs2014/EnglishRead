@@ -15,7 +15,7 @@ modified: "2026-10-20"
 
 ## 精读
 
-### 第1处：Taking Jimmy home——"not being alone wasn't so bad after all"
+### 第1处：Taking Jimmy home——"Do you want to come home with me?"
 
 > **原句 1:** "Do you want to come home with me?"
 
@@ -25,7 +25,9 @@ modified: "2026-10-20"
 
 关键词：Do / you / want / to / come
 
+
 表达方式：Jimmy's companionship 把 "paring knife" 写成 "tucked away"，把 Darla 的 character 写成 "accepting"。
+
 
 ---
 
@@ -33,16 +35,15 @@ modified: "2026-10-20"
 
 > **原句 2:** "I like you. A lot."
 
-中文理解：我喜欢你。很多。把 南迪妮 的 写成 ""（直接的），把 迈克尔 的 写成 ""（ 的）。
+中文理解：我喜欢你。很多。把 南迪妮 的 写成 （直接的），把 迈克尔 的 人物 写成 （ 的）。
 
 句子结构：直接引语 I like you. A lot.（主谓宾 + 副词）。
 
-关键词：like / you / lot
-
+关键词：like you（喜欢你） / a lot（很多）
 
 表达方式：Nandhini's confession 把 "direct" 写成 "I like you. A lot."，把 Michael 的 character 写成 "receptive"。
 
-为什么这样写：把 南迪妮 的 写成 ""，让 南迪妮 的 写成 ""——"I . A . , , I'm —" 把 南迪妮 的 写成 ""，把 迈克尔 的 写成 ""；迈克尔's " ?" 把 迈克尔 的 写成 ""（确认的），把 写成 ""（确认的）。
+为什么这样写：把 南迪妮 的 写成，让 南迪妮 的 人物 写成 ——"I . A . , , I'm —" 把 南迪妮 的 人物 写成，把 迈克尔 的 人物 写成 ；迈克尔's " ?" 把 迈克尔 的 人物 写成 （确认的），把 写成 （确认的）。
 
 ---
 
@@ -50,16 +51,15 @@ modified: "2026-10-20"
 
 > **原句 3:** "Darla shouldn't be forgotten."
 
-中文理解：达尔拉 不应该被遗忘。把 祖母 的 写成 ""（指令），把 "达尔拉 " 写成 ""（重复的），把 祖母 的 写成 ""（指引者）。
+中文理解：达尔拉 不应该被遗忘。把 祖母 的 写成 （指令），把 "达尔拉 " 写成 （重复的），把 祖母 的 人物 写成 （指引者）。
 
 句子结构：主谓宾 Darla shouldn't be forgotten（被动，情态动词）。
 
-关键词：Darla / shouldn't / forgotten
-
+关键词：Darla（Darla） / shouldn't be forgotten（不应该被遗忘）
 
 表达方式：Paati's message 把 "directive" 写成 "repeated"——"You've done well, ma. Darla shouldn't be forgotten." 把 Paati 的 character 写成 "guide"，把 "Darla shouldn't be forgotten" 写成 "repeated"。
 
-为什么这样写：把 祖母 的 写成 ""，让 祖母 的 写成 ""——"达尔拉 " 把 祖母 的 写成 ""，把 "达尔拉 " 写成 ""；"I'm , , . . . ." 把 祖母 的 写成 ""（智慧的），把 祖母 的 写成 " "（生活建议）。
+为什么这样写：把 祖母 的 写成，让 祖母 的 人物 写成 ——"达尔拉 " 把 祖母 的 人物 写成，把 "达尔拉 " 写成 ；"I'm , , . . 心 爱 . 爱 ." 把 祖母 的 人物 写成 （智慧的），把 祖母 的 写成 （生活建议）。
 
 ---
 
@@ -67,16 +67,15 @@ modified: "2026-10-20"
 
 > **原句 4:** "I'm sorry Jasmine. I love you. Forever and always."
 
-中文理解：对不起，茉莉。我爱你。永远永远。把 达尔拉's 写成 ""（线索），把 达尔拉 的 写成 " "（ 母亲），把 "I'm 茉莉" 写成 ""（道歉）。
+中文理解：对不起，茉莉。我爱你。永远永远。把 达尔拉's 写成 （线索），把 达尔拉 的 人物 写成 " 母亲"（ 母亲），把 "I'm 茉莉" 写成 （道歉）。
 
 句子结构：直接引语 I'm sorry Jasmine. I love you. Forever and always.（多句，祈使/陈述）。
 
-关键词：I'm / sorry / Jasmine / love
-
+关键词：I'm sorry（对不起） / I love you（我爱你） / Forever and always（永远永远）
 
 表达方式：Darla's note 把 "clue" 写成 "scrawled"（潦草地写），把 Darla 的 character 写成 "loving mother"。
 
-为什么这样写：把 达尔拉's 写成 ""，让 达尔拉 的 写成 " "——"I'm 茉莉. I . ." 把 达尔拉 的 写成 " "，把 达尔拉's 写成 ""；"I 茉莉 , I 达尔拉's …" 把 南迪妮 的 写成 ""（希望的），把 达尔拉's 写成 ""（信息）。
+为什么这样写：把 达尔拉's 写成，让 达尔拉 的 人物 写成 " 母亲"——"I'm 茉莉. I 爱 . ." 把 达尔拉 的 人物 写成 " 母亲"，把 达尔拉's 写成 ；"I 茉莉 , I 达尔拉's …" 把 南迪妮 的 人物 写成 （希望的），把 达尔拉's 写成 （信息）。
 
 ---
 
@@ -84,16 +83,16 @@ modified: "2026-10-20"
 
 > **原句 5:** "And she never will be."
 
-中文理解：她永远不会被遗忘。把 南迪妮 的 写成 ""（解决），把 " " 写成 ""（最终的），把 达尔拉 写成 ""（被记住的）。
+中文理解：她永远不会被遗忘。把 南迪妮 的 写成 （解决），把 写成 （最终的），把 达尔拉 写成 （被记住的）。
 
 句子结构：主谓宾 And she never will be（省略主语 she = Darla，will be forgotten）。
 
-关键词：And / she / never / will
+关键词：never will be（永远不会）
 
 
 表达方式：Nandhini's writing 把 "resolution" 写成 "And she never will be"，把 Darla 写成 "remembered"。
 
-为什么这样写：把 南迪妮 的 写成 ""，让 南迪妮 的 写成 ""（作家）——" " 把 达尔拉 写成 ""，把 南迪妮 的 写成 ""；"拉克什米's : '达尔拉 .'" 把 祖母 的 写成 ""（指令），把 南迪妮 的 写成 ""（服从的）。
+为什么这样写：把 南迪妮 的 写成，让 南迪妮 的 人物 写成 （作家）—— 把 达尔拉 写成，把 南迪妮 的 人物 写成 ；"拉克什米's : '达尔拉 .'" 把 祖母 的 写成 （指令），把 南迪妮 的 人物 写成 （服从的）。
 
 ---
 

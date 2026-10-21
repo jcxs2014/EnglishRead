@@ -19,16 +19,15 @@ modified: "2026-10-20"
 
 > **原句 1:** "I like what you did."
 
-中文理解： 说"我喜欢你做的。"把 写成，让 达尔拉 的 保持。
+中文理解： 法拉 说"我喜欢你做的。"把 写成 事业，让 达尔拉 的 保持。
 
 句子结构：主谓宾 I like what you did（宾语从句 what you did）。
 
-关键词：like / what / you / did
-
+关键词：like（喜欢） / did（做）
 
 表达方式：improvisation trope 把 Darla 的 creative instinct 写成 first-day risk；Ms Farah 的 "I like what you did" 把 director's approval 写成 career boost。
 
-为什么这样写：把 达尔拉 的 写成 " "，让她的人物 从 " " 转向 " "； 作为 把 " & " 写成。
+为什么这样写：把 达尔拉 的 表演 写成 "即兴 "，让她的人物 从 " 试镜" 转向 ； 法拉 作为 把 " & " 写成。
 
 ---
 
@@ -36,16 +35,15 @@ modified: "2026-10-20"
 
 > **原句 2:** "He mimicked her happy dance teasingly."
 
-中文理解：他戏谑地模仿她的快乐舞蹈。把 写成 而非，把 " " 写成。
+中文理解：他戏谑地模仿她的快乐舞蹈。把 写成 而非，把 写成。
 
 句子结构：主谓宾 He mimicked her happy dance + 副词 teasingly。
 
-关键词：mimicked / her / happy / dance
-
+关键词：mimicked（模仿） / teasingly（戏谑地）
 
 表达方式：comedy of errors 把 Darla 的 embarrassment 写成 slapstick。
 
-为什么这样写：把 " " 写成，让 唐尼 的 通过 建立—— &， ；" 达尔拉 " 把 写成。
+为什么这样写：把 写成，让 唐尼 的 人物 通过 建立—— &， ；" 达尔拉 " 把 写成 身体的。
 
 ---
 
@@ -53,16 +51,15 @@ modified: "2026-10-20"
 
 > **原句 3:** "the audition is actually today."
 
-中文理解：试镜其实就在今天。把 写成，让 达尔拉 的 从 "" 转向 " "。
+中文理解：试镜其实就在今天。把 写成，让 达尔拉 的 从 "群演" 转向 " 试镜"。
 
 句子结构：主系表 the audition is actually today。
 
-关键词：the / audition / actually / today
-
+关键词：audition（试镜） / today（今天）
 
 表达方式：phone call 把 opportunity 写成 time-pressured；"two hours, to be exact" 把 urgency 具象化。
 
-为什么这样写：把 贾加 的 写成 " "，让 达尔拉 的 从 "" 转向 " "；" " 把 写成。
+为什么这样写：把 贾加 的 写成，让 达尔拉 的 从 "群演" 转向 " 试镜"；" 法拉 " 把 写成。
 
 ---
 
@@ -70,16 +67,15 @@ modified: "2026-10-20"
 
 > **原句 4:** "Yes, a man from my dreams."
 
-中文理解：是的，一个来自我梦境的男人。把 写成，把 → 的 写成 ""而非 ""。
+中文理解：是的，一个来自我梦境的男人。把 写成，把 即兴 → 的 写成 而非。
 
 句子结构：直接引语 Yes, a man from my dreams（主系表）。
 
-关键词：Yes / man / from / dreams
-
+关键词：dreams（梦境）
 
 表达方式：audition scene 把 performance pressure 写成 real-time；"Oh shit, what was my line?" 把 panic 写成 internal monologue。
 
-为什么这样写：把 写成 " → " 的，让 达尔拉 的 写成 ""而非 ""；特蕾莎 的 "" 与 " a " 把 写成。
+为什么这样写：把 试镜 写成 "即兴 → " 的，让 达尔拉 的 写成 而非 ；特蕾莎 的 与 " a " 把 写成。
 
 ---
 
@@ -87,16 +83,16 @@ modified: "2026-10-20"
 
 > **原句 5:** "Before she could finish, Donny had pulled her into his arms and kissed her hungrily."
 
-中文理解：在她能说完之前，唐尼 已经把她拉入怀中，贪婪地吻了她。把 写成，把 写成。
+中文理解：在她能说完之前，唐尼 已经把她拉入怀中，贪婪地吻了她。把 吻 写成，把 写成。
 
 句子结构：时间状语从句 Before she could finish + 主谓宾 Donny had pulled her into his arms and kissed her hungrily。
 
-关键词：Before / she / could / finish
+关键词：pulled（拉）
 
 
 表达方式：chemistry test 把 on-screen kiss 写成 genuine emotion——"hadn't realized how emotional" 与 "feeling disappointed" 把 acting 与 feeling 的 boundary 模糊。
 
-为什么这样写：把 写成 " → " 的，让 达尔拉 的 写成 而非 ；" , ?" 把 写成，为后文 埋下。
+为什么这样写：把 化学反应 写成 "表演 → " 的，让 达尔拉 的 写成 而非 ；" , ?" 把 写成，为后文 埋下。
 
 ---
 
