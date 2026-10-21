@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "chapter": "ch08",
+    "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch08_8.txt",
+    "source_sha": null,
+    "source_len_chars": 4568,
+    "read_order": "仅读 text/ch08_8.txt，未开任何 md",
+    "offset_convention": "字符区间为 0 基、闭区间 [start,end]，对应该 txt 全文字符位置"
+  },
+
+  "events": [
+    {
+      "id": 1,
+      "actor": "Callie",
+      "action": "从走廊地板上捡起一个小纸板箱（被塞在门后墙边）",
+      "range": [58, 187],
+      "verbatim": "Callie picked up a small cardboard box from the floor in the hallway. It had been shoved up against the wall behind the front door.",
+      "detail": "箱子的来源不是神秘人送来的礼物，而是她自己订阅的卫生用品服务"
+    },
+    {
+      "id": 2,
+      "actor": "Callie（阅读/回忆）",
+      "action": "认出霓虹粉盒子来自她注册过、想退订却一直忘记的线上女性卫生用品订阅服务；每月寄一包有机棉卫生巾，公司捐出同等数量给印度女学生",
+      "range": [190, 473],
+      "verbatim": "The neon-pink box was from an online female hygiene subscription service that she’d signed up for and meant to cancel but kept forgetting. For a small fee they sent her a package in the post every month of organic cotton tampons and they donated twice as many to school girls in India. The tampons stopped them from dropping out of education.",
+      "detail": "盒内物＝卫生巾（tampons），不是唱片/专辑"
+    },
+    {
+      "id": 3,
+      "actor": "Callie（谈生父 Peter）",
+      "action": "回顾生父 Peter 靠剥削发展中国家女工致富，她至少说服他设立了慈善基金；他没怎么被说服就答应了",
+      "range": [645, 902],
+      "verbatim": "Peter, her biological father, had made his fortune exploiting female garment workers in developing countries and all she was doing was sending them twenty tampons a month. Callie had at least convinced him to set up a charity. He hadn’t taken much convincing.",
+      "detail": "Callie 自认每月只寄二十条卫生巾给那些女工；Peter 答应得干脆"
+    },
+    {
+      "id": 4,
+      "actor": "Callie（推测 Peter 的动机）",
+      "action": "怀疑 Peter 答应设慈善是因为他在议会下台、离婚失势后需要社会声望",
+      "range": [1002, 1058],
+      "verbatim": "He hadn’t taken much convincing. She suspected that that was because it could be societally advantageous for the old git now that he’d lost his footing after stepping down from Parliament and his acrimonious divorce.",
+      "detail": "尽管她名义上是慈善基金顾问委员会成员，细节其实很模糊"
+    },
+    {
+      "id": 5,
+      "actor": "Callie",
+      "action": "把那包卫生巾拿到厕所、扔进浴缸旁的储物柜；承认 Caius 说对了——她「该来了」，多半昨天就晚了",
+      "range": [1176, 1337],
+      "verbatim": "She took the packet of tampons to the loo and dumped them in the storage unit next to the bath. She hated to admit it but Caius had been right, she was bloody due. Any day now. Actually, probably yesterday.",
+      "detail": "Caius 的话＝她月经该来了；本章 Callie 已有身孕的暗示"
+    },
+    {
+      "id": 6,
+      "actor": "Callie",
+      "action": "看手机日历，发现自己比预产/经期晚了整整一周，怪罪于「Chelsea 的压力」",
+      "range": [1507, 1528],
+      "verbatim": "She looked at the calendar on her phone. She was late by a week. It must have been the stress of Chelsea.",
+      "detail": "数字：late by a week"
+    },
+    {
+      "id": 7,
+      "actor": "Callie",
+      "action": "回到起居处坐在笔记本前，读 Eulalia 过去的采访；觉得多数采访荒唐，笑着读《观察家报》最近那篇",
+      "range": [1574, 1880],
+      "verbatim": "Callie walked back into the living space and sat down at her laptop. She’d been reading past interviews Eulalia had given. Most of them were ridiculous. … Callie laughed as she read her most recent interview in the Observer.",
+      "detail": "采访＝Eulalia 自己对成长中的名气发表的回答"
+    },
+    {
+      "id": 8,
+      "actor": "Callie（评 Eulalia）",
+      "action": "摘引《观察家报》采访：Eulalia 是水星奖提名的歌者，歌词指向深重孤独；问她成名感受时她说了五分钟却完全没答",
+      "range": [1887, 2249],
+      "verbatim": "Eulalia – the Mercury-nominated songstress whose catchy party songs are deceptively morose, her lyrics point to a deep loneliness as she questions complex philosophical positions while also being absolute bangers – won’t give me a straight answer. When I asked how her burgeoning stardom felt she waxed lyrical for five minutes about everything but what I’d asked.",
+      "detail": "「five minutes」是采访引语里的时长；说话人＝Callie（读者／采访者视角的第一人称）"
+    },
+    {
+      "id": 9,
+      "actor": "Callie",
+      "action": "重读 Eulalia 团队发来的邮件：只给时间地点，要求带速写本和开放心态；她还找到一个粉丝博客，记录 Eulalia 上轮巡演戴过的所有头饰",
+      "range": [3207, 3495],
+      "verbatim": "Callie reread the email from Eulalia’s people. It was pretty sparce in details – just giving her a where and when. All they asked her to bring was her sketch pad and an open mind. She’d also found a blog where a superfan had detailed all of the heads that Eulalia had worn on her last tour.",
+      "detail": "邮件来自「Eulalia 的人」（她的团队/管理方）"
+    },
+    {
+      "id": 10,
+      "actor": "Callie",
+      "action": "回想那些头饰：野生的动物、机器人、拟人火箭，年底开始偏神话向；二十厘米独角兽头套很惊艳，她最喜欢 Medusa 头套（带血脖子和会动的机械蛇），去年水星奖她戴过 Medusa",
+      "range": [3500, 3861],
+      "verbatim": "There were a lot of wild animals, robots and even an anthropomorphised rocket but then towards the end of last year she started getting a bit mythical. The unicorn head with a twenty-centimetre horn was impressive but Callie’s favourite had been Medusa, complete with a bloody neck and animatronic moving snakes. Eulalia had worn it at the Mercury awards last year.",
+      "detail": "数字：twenty-centimetre horn；去年水星奖＝Mercury awards last year"
+    },
+    {
+      "id": 11,
+      "actor": "Callie",
+      "action": "起身后准备出门：拿风衣（自己在背面绣了花）、Mulberry 包，在走廊镜前涂暖玫瑰色哑光唇膏",
+      "range": [3866, 4085],
+      "verbatim": "Callie got up from the table. It was time to leave. She grabbed her trench coat, she’d embroidered the back so she wasn’t entirely basic, and her trusty Mulberry bag. Taking out a soft matte lipstick in a warm rosy shade, she applied it in the mirror in the hallway.",
+      "detail": "出门目的：与老邻居 Innogen 吃 brunch"
+    },
+    {
+      "id": 12,
+      "actor": "Callie",
+      "action": "开门后想起耳机忘带、回头拿；打算在地铁上反复听 Eulalia 的首张专辑《Burn Bright》，不能被比下去",
+      "range": [4334, 4565],
+      "verbatim": "Callie opened her front door but then realised she’d left her headphones, turned around and grabbed them. She was going to listen to Eulalia’s debut album Burn Bright again and again on the tube. Callie wasn’t going to be caught out.",
+      "detail": "Burn Bright 是专辑名（出现在访谈引语结尾 “Burn bright, bitch.”）"
+    }
+  ],
+
+  "relationships": [
+    "Callie — 本章视角人物（住 Tufnell Park，与 Caius 同住）；Caius：同住者/伴侣，本章只以「他说对了，该来了」出现。",
+    "Callie — Peter：生父（biological father），靠剥削发展中国家女工致富，已从议会下台、经历敌意离婚；Callie 在其慈善基金任顾问委员会成员（自称细节模糊）。",
+    "Callie — Eulalia：即将见面的对象（本人在信中称「我见过最美的女人」）；双方通信由「Eulalia 的人」中介。",
+    "Eulalia — Mercury-nominated songstress（歌词阴郁、派对曲风）。",
+    "Callie — Innogen：老邻居，要一起吃 brunch；Innogen 的母亲是演员，坚持用 First Folio 的正确拼法而非印刷错误。",
+    "Eulalia 团队（“Eulalia’s people”）— 向 Callie 发邮件约定时间地点，要求带速写本与开放心态。",
+    "印度女学生 — 受赠卫生巾的一方；Peter 的慈善基金 — Callie 促成。",
+    "Callie 的订阅服务 — 每月寄有机棉卫生巾并双倍捐赠给印度女学生。"
+  ],
+
+  "numbers_dates": [
+    {"item": "twice as many", "range": [423, 473], "verbatim": "they donated twice as many to school girls in India"},
+    {"item": "twenty tampons a month", "range": [740, 769], "verbatim": "all she was doing was sending them twenty tampons a month"},
+    {"item": "late by a week", "range": [1507, 1528], "verbatim": "She was late by a week."},
+    {"item": "five minutes", "range": [2180, 2249], "verbatim": "she waxed lyrical for five minutes about everything but what I’d asked"},
+    {"item": "twenty-centimetre horn", "range": [3650, 3695], "verbatim": "The unicorn head with a twenty-centimetre horn"},
+    {"item": "Mercury awards last year", "range": [3811, 3861], "verbatim": "Eulalia had worn it at the Mercury awards last year."},
+    {"item": "towards the end of last year", "range": [3552, 3606], "verbatim": "but then towards the end of last year she started getting a bit mythical"},
+    {"item": "A SUNDAY IN MAY", "range": null, "verbatim": null, "note": "本 txt 内无此分部名；txt 中未出现「A SUNDAY IN MAY」字样，需在 md 侧核对来源"}
+  ],
+
+  "premise_conflicts_noted_at_suread": [
+    "任务给的「本章专属判据」称霓虹粉纸盒里是一张专辑；原文 [190,473] 明写盒内是卫生巾（organic cotton tampons），全章无「盒中藏专辑」一事。",
+    "任务给的「她把它当成一次被安排的接触」在原文无据：Callie 认为该盒子是自己忘了退订的订阅服务包装，没有任何「被安排/接触」的意思。"
+  ]
+}
