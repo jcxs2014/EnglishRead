@@ -56,7 +56,7 @@ source_text: ch11
 **中文理解**：艾米扫着另一封信说：同一个文件夹里还压着第二封信，表示愿意把其余藏品交给皇家地理学会；同样没签名、没日期。
 **关键词**：same folder / Royal Geographical Society / unsigned
 **为什么这样写**："同一个文件夹"是关键：两封性质完全不同的信——一封要求归还人骨，一封要把藏品整体出手——被并排塞在一处，私人决定与机构事务的界线就在这一摞里被抹平了。同一句话里又补一句"同样没签名没日期"，两封信因此更像同一次盘算的两个侧面，而不是两个独立事件。
-**读者视角提示**：这层模糊正是本章的关键：一摞"机构文件"里混进了死者的私人决定，而"私人信件"里又装着整个馆的处置方案。
+**读者视角提示**：这层模糊正是本章的关键：同一摞机构文件里并排放着两桩性质不同的处置决定，而唯一那封私人的东西——冰箱上那张明信片——反而不在任何文件夹里。
 
 > **原句 7:** "‘Harm?’ she whispered. She tried to hold her pain back, but somehow found herself shouting at Caius. ‘They killed him. That is far beyond harming someone. They didn’t pinch him on the arm. They murdered him!’"
 

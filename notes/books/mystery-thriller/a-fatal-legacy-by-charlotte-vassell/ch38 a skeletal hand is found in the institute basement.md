@@ -8,7 +8,7 @@ source_text: ch38
 
 ## 本章导航
 
-- **一句话概括**：在分部「FRIDAY」里，艾米在电话中报告：Horatio Combe 研究所的地下室出现了一只骸骨之手，而它被摆在一张为降神会布置好的桌子上；凯厄斯劝她别去追这只手的来历，转头却咬住"真实的伊索尔德"这个破洞——同一天下午，他自己却带着卡莉去乡间看房，把另一个"等人来坐"的房间布置了起来。
+- **一句话概括**：在分部「FRIDAY」里，艾米在电话中报告：Horatio Combe 研究所的地下室出现了一只骸骨之手，而它被摆在一张为降神会布置好的桌子上；凯厄斯劝她别去追这只手的来历，转头却咬住"真实的伊索尔德"这个破洞——同一天下午，他自己却带着卡莉去乡间看房，而父亲正把另一间房收拾成等人来坐的样子。
 - **视角**：第三人称限知，主要贴凯厄斯：电话那头的艾米通过他的复述进入场景，读者听到的"怪事"始终是他转述过的版本；中段落在卡莉的家庭线，后段落在父子的对峙上。
 - **线索结构**：降神会桌面上的一只骸骨之手、被翻出来的「疟疾年日记」、伊索尔德的人生被照抄而非编造、"某名受害者曾在面包店工作过"这一处不合时宜的巧合——四条线索在同一天被摆上桌，但本章没有交代布置者与观众，只留下"被布置"这个动作本身。
 - **人物弧线**：凯厄斯先劝艾米别追旧线索（"那个凶手大概早就没了"），转头又把全部赌注压在伊索尔德身上；同一天他被父亲怀疑"瞒着做了什么"，最后自己动手承认"我们该搬走了"——一个还没破案的探员，先替孩子选好了房子。
@@ -69,7 +69,7 @@ source_text: ch38
 
 **中文理解**：马库斯压低声音问："你做了什么？"接着断言他像个体闷的十五岁少年——这说明他肯定搞砸了什么；你本来就铁了心不上这儿来，如今却带着卡莉来看一个迷人的乡间小屋，是出去外面偷腥了吗？想靠换个地方重新开始？
 **关键词**：moody fifteen-year-old / charming little country bolthole / surprising Callie
-**为什么这样写**：父亲一开口就是一场表演：把"我给儿子安排房子"演成"儿子瞒着我干的荒唐事"，把质问演成关心。而儿子刚在电话里被要求"别去查那只手"，一进家门就换成被审视的男孩。
+**为什么这样写**：父亲一开口就是一场表演：把"我已经把房子收拾出来了"演成"你瞒着我胡闹"，把质问演成关心。而儿子刚在电话里被要求"别去查那只手"，一进家门就换成被审视的男孩。
 **读者视角提示**：这是本章第二次"布置"：房子被布置成礼物，父亲的话被布置成指控，两样都是做给人看的戏。
 
 > **原句 9:** "He supposed that this would be the nursery. It over-looked the woodland that ran around the back of Frithsden’s parkland. Callie flitted between rooms, approving of how Marcus had managed to save the original floorboards. Marcus showed off the bath with clawed feet. Caius could see that Callie was decorating the house in her head and Marcus was lining up administrative tasks that he could push onto him. Velvet cushions and emails. Wallpaper and sheep farming. Paint swatches and agronomics."
