@@ -39,7 +39,7 @@ modified: "2026-10-20"
 - **读者视角提示**：注意「prepared」这个词——Eddie 从她出生起就在「准备」她，这个动词暗示此前所有巧合都不是偶然。
 
 > **原句 5:** "“You have twelve siblings,” he explains. “It used to be thirteen siblings, but one of them died–your backup here in Palm Springs. So as far as viable, close options, you’re pretty much all I’ve got.”"
-- **中文理解**：Eddie 告诉 Poppy 她还有十二个兄弟姐妹，其中一个住在 Palm Springs 的「备用」已经死了，所以她是他目前唯一可行的近亲宿主。
+- **中文理解**：Eddie 告诉 Poppy 她有十二个兄弟姐妹——原本是十三个，其中一个（棕榈泉这个「备用」）已经死了——所以她是目前唯一可行的近亲宿主。
 - **关键词**：siblings、backup
 - **为什么这样写**：这是全书最重要的世界观揭露之一。把亲生子女称为「备用」（backup）彻底坐实 Eddie 的非人属性；「十二个孩子」也解释了他长达数百年的繁衍策略。死去的那个「备用」还与前面章节的剧情形成暗线。
 - **读者视角提示**：Eddie 说「you’re pretty much all I’ve got」——这句话表面让 Poppy 变得珍贵，实则意味着她无处可逃，为后面的自毁反抗做铺垫。
@@ -121,4 +121,4 @@ modified: "2026-10-20"
 
 ## 一句话总结
 
-Eddie Michaels 在真相大白后露出了真面目——一只活了千年的寄生生物，而 Poppy 只是他培育的「备用宿主」；她用毁掉自己的脸赶走了他，却在最后一刻发现，他掉头去找 Marlo 了。
+Eddie Michaels 在真相大白后露出了真面目——一只本体活了一千七百年的寄生生物，而 Poppy 只是他培育的「备用宿主」；她用毁掉自己的脸赶走了他，却在最后一刻发现，他掉头去找 Marlo 了。
