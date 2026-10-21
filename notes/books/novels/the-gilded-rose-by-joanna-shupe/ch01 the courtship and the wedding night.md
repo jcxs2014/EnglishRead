@@ -110,7 +110,7 @@ modified: "2026-10-21"
 | carnations | 康乃馨；红石竹 | Papa set the vase of red carnations and white lilies on the desk. |
 | diamond-and-ruby | 钻石与红宝石的 | A gold diamond-and-ruby brooch in the shape of a rose rested inside. |
 | bewildered | 迷惘的；不知所措的 | I stared at it, bewildered. |
-| nevertheless | 尽管如此；不过 | I knew it wasn’t true, but I was flattered nonetheless, so flattered that my tongue tied up. |
+| nonetheless | 尽管如此；不过 | I knew it wasn’t true, but I was flattered nonetheless, so flattered that my tongue tied up. |
 | straightaway | 立刻；马上 | He wanted to be married straightaway, in June, then summer in Bar Harbor together. |
 | instantaneous | 瞬间的；即时的 | The change was instantaneous. |
 | eventuality | 迟早会发生的事；必然的结果 | I knew this act was an eventuality, and I’d read enough to know what to expect, but I thought it would happen discreetly, in darkness. |
@@ -130,6 +130,8 @@ modified: "2026-10-21"
 | bitterly | 苦涩地；极其 | Papa’s smile, fond and familiar, was like the warmest comfort on a bitterly cold night. |
 | mutter | 低声嘟囔 | “I like libraries,” I muttered. |
 | fluttered | 悸动；飘忽不定 | My heart fluttered merely thinking of how sweet he’d been to me. |
+| embarrassed | 令人难为情的 | It was quite embarrassing how giddy I became in Mr. Grey’s presence. |
+| whalebone | 鲸骨（撑裙的骨架） | Panic flooded my veins, whalebone and laces making it hard to draw air into my lungs. |
 | devoted | 倾注的；忠贞的 | He was utterly devoted, unable to barely last an afternoon without showing his affection for me in some manner. |
 
 ### ⭐ 基础
@@ -141,10 +143,8 @@ modified: "2026-10-21"
 | bouquet | 花束 | A beautiful floral bouquet filled the doorway. |
 | husband | 丈夫 | My husband’s determined expression never changed. |
 | shoulder | 肩膀 | He released my arm, then patted my shoulder. |
-| embarrassing | 令人难为情的 | It was quite embarrassing how giddy I became in Mr. Grey’s presence. |
-| gesture | 手势；举动 | “But it isn’t yet nighttime,” I said nervously, gesturing to the daylight streaming through the windows. |
+| railcar | 卧轨车厢 | Then, once we were settled in the private railcar, Orson instructed me to get ready for the wedding night. |
 | intense | 强烈的；逼视的 | His eyes were dark and intense in a way that I found off-putting. |
-| whalebone | 鲸骨（撑裙的骨架） | Panic flooded my veins, whalebone and laces making it hard to draw air into my lungs. |
 
 ## 一句话总结
 序章用一支甜笔写下最坏的一夜：书商女儿 Caroline 嫁给纽约最抢手的新郎后，在新婚夜的卧轨车厢里第一次知道丈夫的温柔是外壳，从此走向一段以逃离为唯一目的的婚姻。
