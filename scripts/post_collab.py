@@ -115,6 +115,13 @@ def check_at(at):
     if d > now:
         print(f"❌ 完工时间 {at} 晚于当前时间 {now_stamp()}——不能给还没做完的事打完工戳。")
         return None
+    # 时区自检：格式校验只认「… UTC」结尾，看不出数字填的是本地时间。
+    # 2026-10-21 实测：本地 13:05 被写成「13:05 UTC」（真 UTC 11:05），格式与「不晚于现在」两道都没拦住。
+    if (now - d) <= datetime.timedelta(hours=12):
+        local = subprocess.run(["date", "+%Y-%m-%d %H:%M %z"],
+                               capture_output=True, text=True).stdout.strip()
+        print(f"ℹ️ 时间自检：--at {at} ｜ 当前 UTC {now_stamp()} ｜ 本机本地 {local}")
+        print("   板上须写**真 UTC**；如果你刚填的是本地时间，按上面这一行换算后再发。")
     return at
 
 
