@@ -108,7 +108,7 @@ source_text: ch08
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | the gathering darkness | 正在聚集的黑暗 | "feel the gathering darkness beyond" |
-| hold off | 停住、暂缓 | "the rain – which had held off since the two men’s return" |
+| held off | 停住、暂缓 | "the rain – which had held off since the two men’s return" |
 | a small glass of port wine | 一小杯波特酒 | "a small glass of port wine" |
 | send word | 捎话 | "I have sent word to him that I mean to attend" |
 | entirely insane | 完全疯了 | "you do not think me entirely insane" |
