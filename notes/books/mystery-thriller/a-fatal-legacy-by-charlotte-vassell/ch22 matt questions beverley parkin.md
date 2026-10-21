@@ -80,7 +80,7 @@ source_text: ch22
 | furrowed her brow | （她）皱起眉头 | She turned to look at Nigel and furrowed her brow. |
 | soothing | 安抚人的；平缓的 | She spoke in the soothing manner that had calmed most of his bluster over the last thirty years. |
 | dodgy | 可疑的；来路不明的 | ‘Of course it is, Bev, they don’t send policemen up from London for one little dodgy payment like that. |
-| M&S Food | 玛莎百货旗下的自有食品品牌 | ‘Hang on, Nigel. I think I dropped a card in M&S Food the other month. |
+| M&S Food | 玛莎百货旗下的自有食品品牌 | Hang on, Nigel. I think I dropped a card in M&S Food the other month. |
 | the Next sale | Next 品牌的季度大减价 | ‘Oh no. I’ve got an account but I only really use it to get my bills and emails about the Next sale,’ Beverley said. |
 
 ### ⭐ 基础

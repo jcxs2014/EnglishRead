@@ -122,8 +122,8 @@ source_text: ch27
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| zoo | 动物园 | ‘We should get membership to the zoo when the baby is a toddler. |
-| toddler | 学步幼儿；刚会走的孩子 | ‘We should get membership to the zoo when the baby is a toddler. |
+| zoo | 动物园 | We should get membership to the zoo when the baby is a toddler. |
+| toddler | 学步幼儿；刚会走的孩子 | We should get membership to the zoo when the baby is a toddler. |
 | monkeys howling | 猴子的嚎叫 | She could hear the monkeys howling. |
 | bread | 面包 | ‘Mel says I can’t eat bread. I’ve got to bring the receipt back with me. |
 | receipt | 收据；小票 | ‘Mel says I can’t eat bread. I’ve got to bring the receipt back with me. |

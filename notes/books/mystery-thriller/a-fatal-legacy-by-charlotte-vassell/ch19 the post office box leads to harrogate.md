@@ -58,20 +58,20 @@ source_text: ch19
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| half-cut | 半醉的（英式俚语） | ‘No, the guy who reported it was apparently half-cut. |
+| half-cut | 半醉的（英式俚语） | No, the guy who reported it was apparently half-cut. |
 | plastered | 烂醉的（英式俚语） | We were all plastered by the end and Digby declared his undying love for her, said he’d rescue her from her sister, the dragon. |
 | cheeky woo woos | 便宜的小杯酒（英式俚语） | I’m a good wingman so I kept buying jugs of cheeky woo woos for the table while the ugly sister told me about her music or something. |
 | twatted | 烂醉的；狼狈不堪的（粗俗俚语） | We were so twatted we nearly missed the last train back to York. |
 | culturally posh | 教养上的精英派头 | He was culturally posh, you know what I mean, even if he wasn’t loaded. |
 | council estate | 市政廉租住宅区 | Digby isn’t a name you’d find on a council estate. |
-| school dinner lady | 学校食堂阿姨（带阶层意味的说法） | ‘Beverley? No. A bit too school dinner lady for Diggers. |
+| school dinner lady | 学校食堂阿姨（带阶层意味的说法） | Beverley? No. A bit too school dinner lady for Diggers. |
 | parapet | 矮墙；护栏（此处作习语「head above the parapet」＝抛头露面） | He felt like he was sticking his head above the parapet. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| PO Box | 邮政信箱 | ‘The PO Box is located in Barnet and was paid for by a Mrs Beverley Parkin, her address is in Harrogate. |
+| PO Box | 邮政信箱 | The PO Box is located in Barnet and was paid for by a Mrs Beverley Parkin, her address is in Harrogate. |
 | identity theft | 身份盗用 | ‘Do you think it was some sort of identity theft?’ |
 | speakerphone | 免提（电话） | Matt put Nathan on speakerphone. |
 | Wetherspoon’s | 韦瑟斯朋连锁酒吧 | ‘Not really. Well apart from going to the Wetherspoon’s. |
@@ -79,7 +79,7 @@ source_text: ch19
 | enamoured | 着迷；倾慕 | Digby was enamoured the moment he saw her. |
 | incident room | 警局的案情讨论室 | Tiny Simm came into the incident room. |
 | old baths | 老浴场（改建成的酒吧） | It’s inside the old baths. |
-| Arrivederci | 再见（意大利语） | ‘Arrivederci. |
+| Arrivederci | 再见（意大利语） | ‘Arrivederci.’ |
 
 ### ⭐ 基础
 

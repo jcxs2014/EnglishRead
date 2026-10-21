@@ -120,7 +120,7 @@ source_text: ch33
 | livestream | 直播 | ‘I spoke to David Glossop, Jimmy’s fan, who called the police after the livestream never ended,’ Amy told Caius. |
 | typing | 打字；誊录 | ‘Hi, Willow, it’s DI Caius Beauchamp. I was wondering if you might help us? You mentioned before that you were typing up Horatio Combe’s journals.’ |
 | basement | 地下室 | Caius quickly put in writing a request to Fenella Combe-Watson to gain access to the basement of the Horatio Combe Institute so they could see where the infamous seances took place, and chased up a CCTV request that had been bothering him. |
-| pentagram | 五芒星 | ‘I noticed there was a marking on the wall in his basement kitchen level that looked like a pentagram. |
+| pentagram | 五芒星 | I noticed there was a marking on the wall in his basement kitchen level that looked like a pentagram. |
 | break-ins | 闯入；破门而入 | Then the break-ins happening in those two specific houses. |
 | refurb | 翻修；重新装修 | The ones we own were all converted into flats in the 1980s. Due a refurb. |
 | conflict | 利益冲突 | ‘I’ve got to tell the Chief Superintendent. I’ll be taken off the case. It’s a conflict.’ |

@@ -83,10 +83,10 @@ source_text: ch47
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| Harrogate | 哈罗盖特（英格兰北约克郡的温泉小镇） | ‘Digby had been to Harrogate. |
+| Harrogate | 哈罗盖特（英格兰北约克郡的温泉小镇） | Digby had been to Harrogate. |
 | Hertfordshire | 赫特福德郡（英格兰西北部的郡） | Despite getting into the car quite calmly for Caius, Jennifer had a rough ride down from Hertfordshire. |
-| dodgy | 可疑的；不靠谱的 | ‘A lot of dodgy metaphors. |
-| metaphors | 隐喻；比喻 | ‘A lot of dodgy metaphors. |
+| dodgy | 可疑的；不靠谱的 | ‘A lot of dodgy metaphors.’ |
+| metaphors | 隐喻；比喻 | ‘A lot of dodgy metaphors.’ |
 | scrunched up | （把纸）揉皱、揉成一团 | ‘They were complaining about our fair capital city when I spoke to them.’ Matt scrunched up his Snickers wrapper. |
 | in a fit state | 适宜的状态；（这里指）适合好好说话、问话的状态 | We should speak to the Parkins tomorrow morning. They won’t be in a fit state tonight. |
 | up to his eyeballs in paperwork | 埋头在堆成山的文书里 | He’s probably up to his eyeballs in paperwork. |

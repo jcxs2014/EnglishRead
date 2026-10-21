@@ -93,7 +93,7 @@ source_text: ch13
 |---|---|---|
 | sceptical | 怀疑的 | ‘A sandwich,’ Caius said, brushing off Matt’s sceptical tone. |
 | ascertain | 查明；确定 | ‘That’s exactly what we’re trying to ascertain, Nathan. |
-| catalogue | 馆藏目录 | ‘Not according to the catalogue. We accounted for everything. |
+| catalogue | 馆藏目录 | Not according to the catalogue. We accounted for everything. |
 | sinister | 阴森的；不祥的 | He said his granddad dismissed it as old Horatio having a bad case of malaria the year before he died but Digby thought it was sinister. |
 | powdered | 研成粉末的 | He said he thought he was sniffing powdered Egyptian mummy and all sorts. |
 | protestors | 抗议者 | Although Willow and the Māori protestors have all said that there weren’t many visitors, it could have been someone just having a look round. |

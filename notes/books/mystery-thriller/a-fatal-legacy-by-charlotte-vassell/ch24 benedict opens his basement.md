@@ -64,7 +64,7 @@ source_text: ch24
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| seances | 降神会（灵媒设坛请出亡魂的仪式） | ‘Well, I was told by the old lady I bought the house off in 1973 that her mother had told her that the lady who lived here before their family did, had performed seances down here. |
+| seances | 降神会（灵媒设坛请出亡魂的仪式） | Well, I was told by the old lady I bought the house off in 1973 that her mother had told her that the lady who lived here before their family did, had performed seances down here. |
 | spiritualist | 唯灵论者；招魂师 | The Victorians were mad for all that spiritualist nonsense. |
 | psychosis | 精神病性障碍 | Most onsets of psychosis in adults are accompanied with religious mania. |
 | schizophrenic | 患精神分裂症的（人） | Poor thing was probably a schizophrenic. |
@@ -80,7 +80,7 @@ source_text: ch24
 | pentagram | 五芒星 | It looked to him like a pentagram. |
 | hardbacks | 精装书 | One wobbled as Benedict walked past and a pile of twelve hardbacks fell in front of Caius. |
 | letterbox | （门上的）投信口 | He looked through the letterbox at Caius with his smudged, horn-rimmed glasses. |
-| makeshift | 临时凑合的；权宜的 | ‘It used to be the pantry and the kitchen when the house had servants, but now it really is just a makeshift library. |
+| makeshift | 临时凑合的；权宜的 | ‘It used to be the pantry and the kitchen when the house had servants, but now it really is just a makeshift library.’ |
 | dirge | 挽歌；哀沉的调子 | It was a dirge. |
 | courtier | 朝廷官员；朝臣 | The land was then parcelled off to a loyal courtier. |
 | flatfoot | （俚）警察 | He’d never warmed up to a flatfoot before. |
@@ -95,7 +95,7 @@ source_text: ch24
 | basement | 地下室 | Not conclusive, I know, but it was flapping about and so was the door to my basement. |
 | break-in | 入室盗窃 | ‘DI Caius Beauchamp. I’m here about the break-in. |
 | back door | 后门 | I woke up in the morning and my back door was wide open. |
-| basement door | 地下室的门 | ‘Yes, like I said, the basement door was open. |
+| basement door | 地下室的门 | Yes, like I said, the basement door was open. |
 | plaque | （雕像底座上的）铭牌 | He read the plaque attached to the base of the sculpture. |
 | memorial | 纪念碑 | He sat down on a bench in front of the memorial that Benedict had mentioned. |
 | sculptor | 雕塑家 | The sculptor had decided against a figurative statue, instead creating an amorphous globule. |

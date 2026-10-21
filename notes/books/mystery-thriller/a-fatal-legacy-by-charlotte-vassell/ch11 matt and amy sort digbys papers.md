@@ -98,7 +98,7 @@ source_text: ch11
 | incident room | 案情室；警局里临时办理案情的地方 | Amy and Matt were busy arranging all the papers from Digby’s office out in the incident room. |
 | liaison officer | 联络官（此处指家属联络警员） | Caius left the room, signalling for the family liaison officer to take over. |
 | registered | 反应过来；意识到 | She had barely registered what Caius had said. |
-| offloading | 脱手；抛售（此处指处置藏品） | ‘He was serious if he was offloading the collection. |
+| offloading | 脱手；抛售（此处指处置藏品） | ‘He was serious if he was offloading the collection.’ |
 | collection | 藏品；收藏 | ‘There was another letter kept in the same folder, offering the rest of the collection to the Royal Geographical Society,’ Amy said, scanning the other letter. |
 | ancestral | 祖先的；祖辈的 | It is the wish of the trustees that they be returned to their ancestral land. |
 | recession | 经济衰退 | I wanted to dispose of it when Daddy died but Digby had graduated the summer before and was at a loss because of the recession so he took it on. |

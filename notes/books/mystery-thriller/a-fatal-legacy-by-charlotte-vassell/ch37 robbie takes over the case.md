@@ -102,7 +102,7 @@ source_text: ch37
 |---|---|---|
 | crystal ball | 水晶球 | ‘There’s a crystal ball,’ their voice carried back up from the depths. |
 | tarot cards | 塔罗牌 | ‘And tarot cards on the table too. And – is that a hand?’ |
-| salad | 沙拉；色拉 | ‘Right, so let me get this straight: Digby Combe-Watson is killed by a poisoned salad by a woman supposedly called “Isolde” who was dressed as his intern. |
+| salad | 沙拉；色拉 | Right, so let me get this straight: Digby Combe-Watson is killed by a poisoned salad by a woman supposedly called “Isolde” who was dressed as his intern. |
 | break-ins | 闯入；破门而入 | There have also been two break-ins on the same square, one of which has resulted in the accidental death of former comedy enfant terrible Jimmy Jones. |
 | crime scene | 案发现场 | Get a feel for the crime scene. |
 | incident room | 警情室；值班办公室 | He left the incident room to deal with the paperwork that he now had to fill in, all the while wondering how much the ownership of the leasehold of a whole postcode in NW1 was worth. |

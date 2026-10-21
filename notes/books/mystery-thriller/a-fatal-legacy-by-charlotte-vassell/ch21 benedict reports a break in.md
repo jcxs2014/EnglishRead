@@ -61,7 +61,7 @@ source_text: ch21
 | reliable witness | 可靠的证人 | It became apparent quite early on in the report that Benedict wasn’t a reliable witness. |
 | credibility | 可信度（证词靠得住的程度） | The empty bottles littered about the place hadn’t helped his credibility. |
 | littered | 散乱地摊布；四处散落 | The empty bottles littered about the place hadn’t helped his credibility. |
-| trialling | 试用（正式启用前的试验） | ‘Well, I found out this morning that the Met is trialling a computer program that can track faces across multiple pieces of footage. |
+| trialling | 试用（正式启用前的试验） | Well, I found out this morning that the Met is trialling a computer program that can track faces across multiple pieces of footage. |
 | apocalyptic | 世界末日般的；骇人的 | ‘That sounds terrifying but I really, really hate watching CCTV so I’m going to let that particular little piece of apocalyptic programming off. |
 | programming | 程序；此处指那套监控程序 | ‘That sounds terrifying but I really, really hate watching CCTV so I’m going to let that particular little piece of apocalyptic programming off. |
 
@@ -71,13 +71,13 @@ source_text: ch21
 |---|---|---|
 | incident | （发生的）事件；此处指入室盗窃 | The officer who had interviewed him wasn’t even convinced the incident had happened. |
 | convinced | 相信；确信 | The officer who had interviewed him wasn’t even convinced the incident had happened. |
-| security | 监控（录像） | ‘The Post Office in Barnet where the PO Box is located has security footage but only covering the days that the last three letters were likely sent or received. |
-| covering | 覆盖（此处指录像涵盖的日期） | ‘The Post Office in Barnet where the PO Box is located has security footage but only covering the days that the last three letters were likely sent or received. |
-| received | 收到 | ‘The Post Office in Barnet where the PO Box is located has security footage but only covering the days that the last three letters were likely sent or received. |
+| security | 监控（录像） | ‘The Post Office in Barnet where the PO Box is located has security footage but only covering the days that the last three letters were likely sent or received.’ |
+| covering | 覆盖（此处指录像涵盖的日期） | ‘The Post Office in Barnet where the PO Box is located has security footage but only covering the days that the last three letters were likely sent or received.’ |
+| received | 收到 | ‘The Post Office in Barnet where the PO Box is located has security footage but only covering the days that the last three letters were likely sent or received.’ |
 | requested | 申请到；请求 | I’ve requested that we are put on that trial. |
 | forwarded | 转发 | I’ve forwarded you the details. |
-| multiple | 多处的；好几段（录像） | ‘Well, I found out this morning that the Met is trialling a computer program that can track faces across multiple pieces of footage. |
-| computer program | 计算机程序 | ‘Well, I found out this morning that the Met is trialling a computer program that can track faces across multiple pieces of footage. |
+| multiple | 多处的；好几段（录像） | Well, I found out this morning that the Met is trialling a computer program that can track faces across multiple pieces of footage. |
+| computer program | 计算机程序 | Well, I found out this morning that the Met is trialling a computer program that can track faces across multiple pieces of footage. |
 | watching | 观看（此处指看监控录像） | ‘That sounds terrifying but I really, really hate watching CCTV so I’m going to let that particular little piece of apocalyptic programming off. |
 
 ### ⭐ 基础
@@ -85,8 +85,8 @@ source_text: ch21
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | adult | 成年人 | It made him feel like an adult. |
-| apparently | 据称；看样子 | ‘Apparently not. |
-| coincidence | 巧合 | ‘It could be a coincidence but we are running out of leads fast with this one. |
+| apparently | 据称；看样子 | ‘Apparently not.’ |
+| coincidence | 巧合 | ‘It could be a coincidence but we are running out of leads fast with this one.’ |
 | desk | 办公桌 | We think it was some sort of fraud,’ Caius said, rapping his fingers on the desk. |
 | details | 资料；细节 | I’ve forwarded you the details. |
 | empty bottles | 空酒瓶 | The empty bottles littered about the place hadn’t helped his credibility. |

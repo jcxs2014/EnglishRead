@@ -92,7 +92,7 @@ source_text: ch53
 | plate | 盘子 | He put a croissant on a plate, setting it down on the coffee table next to some fabric swatches. |
 | freezer | 冷冻室；冰箱冷冻格 | He thought the extras might survive the freezer. |
 | cupboard | 橱柜 | He boiled the kettle and got a fresh cup out of the cupboard, placing a lemon and ginger teabag in it. |
-| hundreds | 数百个 | ‘Yeah, hundreds of them. |
+| hundreds | 数百个 | Yeah, hundreds of them. |
 
 ## 一句话总结
 

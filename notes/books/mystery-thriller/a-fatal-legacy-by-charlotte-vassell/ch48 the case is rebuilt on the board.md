@@ -94,11 +94,11 @@ source_text: ch48
 |---|---|---|
 | admissible | （证据）可被法庭采纳的；可呈堂的 | ‘I’m not sure if it’s admissible as evidence. |
 | nebulous | 模糊不清的；含混的 | I think Caius was trying to work out whether she had met Isolde in real life, or if she was referring to what appears to be a somewhat nebulous reference by a fellow forum user that she had escalated as a deeper relationship in her mind.’ |
-| dogsbody | 跑腿的帮手；替人办事的下手 | ‘Picking that little incel to be her dogsbody was a stroke of genius. |
+| dogsbody | 跑腿的帮手；替人办事的下手 | Picking that little incel to be her dogsbody was a stroke of genius. |
 | gobbledegooky | 胡言乱语；语无伦次的 | It starts to get a bit gobbledegooky from here on. |
-| subterranean | 地下的；地底的 | ‘Is it possible that someone knocked through a basement wall and into any subterranean ruins? |
+| subterranean | 地下的；地底的 | Is it possible that someone knocked through a basement wall and into any subterranean ruins? |
 | heresy | 异端；异端学说 | The nun who was burnt for heresy during the Reformation. |
-| alibied | 有不在场证明的；被证明不在场 | ‘Isolde was alibied by a friend called Keisha Jones who she was out running with in Walthamstow. |
+| alibied | 有不在场证明的；被证明不在场 | Isolde was alibied by a friend called Keisha Jones who she was out running with in Walthamstow. |
 | transpires | （事情）原来是；结果是 | As it transpires I should have. |
 | Reformation | 宗教改革 | It could be Alice de Burge? The nun who was burnt for heresy during the Reformation. |
 | cult | 小教派；（含贬义）邪教式团体 | His little cult is “feeding” off the ancient site’s energy.’ |
@@ -123,8 +123,8 @@ source_text: ch48
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | mum | 妈妈；母亲 | She uses her mum’s credit card to pay for the PO Box. |
-| corpse | 尸体 | ‘A corpse is a corpse. |
-| taxi driver | 出租车司机 | ‘Quick thinking of him to get the taxi driver to call the station. |
+| corpse | 尸体 | A corpse is a corpse. |
+| taxi driver | 出租车司机 | Quick thinking of him to get the taxi driver to call the station. |
 | gutter press | 小报媒体；八卦小报 | The Met had released a statement earlier that day and the gutter press had got a sniff – probably through the verbose DJ Sonikk – that she had been involved with the whole debacle. |
 | wig | 假发 | The cardigan, the wig, the journal, the pervy forum. |
 | sorting office | 邮件分拣处 | The envelopes have been fondled by everyone at the sorting office but not licked by the sender. |

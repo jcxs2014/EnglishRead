@@ -106,9 +106,9 @@ source_text: ch16
 | ballerina | 芭蕾舞女 | ‘She’s called Isolde, brother’s Richard, dad likes Wagner, primary school teacher, is moving to the country, grew up in Dorchester, wanted to be a ballerina growing up, went to Exeter uni, paints watercolours and is allergic to bloody strawberries.’ |
 | gallantly | 骑士般地；热心地 | It was now the turn of Isolde’s ex-boyfriend Andy who had so gallantly taken her to A&E later that evening when it became apparent that Captain Birdseye hadn’t helped the situation. |
 | amicable | 友好分手的；好聚好散的 | Caius assumed he just had better places to be than in this windowless room being questioned on his very grown-up, amicable split. |
-| backstory | 人物背景故事（履历） | ‘So someone used her life as the backstory for this “fake Isolde”. |
+| backstory | 人物背景故事（履历） | ‘So someone used her life as the backstory for this “fake Isolde”.’ |
 | solicitor | 事务律师 | As it turned out her brother Richard was a solicitor, and another solicitor from his firm had accompanied her. |
-| ex-boyfriend | 前男友 | ‘Me and my ex-boyfriend, Andy. |
+| ex-boyfriend | 前男友 | Me and my ex-boyfriend, Andy. |
 
 ### ⭐ 基础
 

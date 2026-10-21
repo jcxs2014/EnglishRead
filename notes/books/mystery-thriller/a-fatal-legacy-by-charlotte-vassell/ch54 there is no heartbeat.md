@@ -128,7 +128,7 @@ source_text: ch54
 | patrician | 贵族的；上流阶层的 | ‘No,’ Caius said to Arthur Hampton – former Cabinet minister, the late Rupert’s father and patrician schemer who liked to manipulate Caius into investigating politically expedient cases. |
 | expedient | 权宜的；图方便的（此处指对查案者有利的政治时机） | ‘No,’ Caius said to Arthur Hampton – former Cabinet minister, the late Rupert’s father and patrician schemer who liked to manipulate Caius into investigating politically expedient cases. |
 | pragmatist | 务实主义者 | ‘I’m a pragmatist. I have no loyalty to party, only my country. I put the things I needed to in place. |
-| plummeted | 暴跌；骤降 | ‘That was necessary, and practical. Drug deaths have plummeted. Tourism is up. Who cares if I made a little from it? |
+| plummeted | 暴跌；骤降 | That was necessary, and practical. Drug deaths have plummeted. Tourism is up. Who cares if I made a little from it? |
 | utilitarian | 实用的；只讲功用的（这里带一点自嘲） | The new living room was much larger than their old one, and Caius’s old utilitarian, grey IKEA sofa with storage under the chaise end would have looked odd in a Georgian house. |
 
 ### ⭐⭐ 进阶

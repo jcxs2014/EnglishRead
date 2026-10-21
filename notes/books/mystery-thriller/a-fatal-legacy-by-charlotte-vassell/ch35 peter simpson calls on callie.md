@@ -107,7 +107,7 @@ source_text: ch35
 | forefront | 显眼位置；最前沿 | He’d use it as an opportunity, of course, to propel himself to the forefront again. |
 | dizzying heights | 令人目眩的高位 | Try and claw his way back up to the dizzying heights he’d fallen from. |
 | vultures | 秃鹫（比喻等着啃食尸体的媒体或势力） | The vultures would just be gleefully picking over your corpse. |
-| procrastinating | 拖延；磨蹭 | ‘I was procrastinating earlier and read a report in the British Medical Journal on the effects of London pollution on tiny lungs. |
+| procrastinating | 拖延；磨蹭 | ‘I was procrastinating earlier and read a report in the British Medical Journal on the effects of London pollution on tiny lungs.’ |
 | scrawled | 潦草地写下 | She handed him the notes she’d just scrawled. |
 | withdrawn | 沉默寡言的；退隐的 | I don’t know if she’s OK, she was oddly hyper at one point and then really withdrawn. |
 

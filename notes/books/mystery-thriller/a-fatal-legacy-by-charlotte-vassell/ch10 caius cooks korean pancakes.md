@@ -64,7 +64,7 @@ source_text: ch10
 | existential dread | 存在性的恐惧 | ‘Is this regular existential dread or something more?’ |
 | slow-fashion | 慢时尚（与快时尚相对的生活方式） | ‘Artist, slow-fashion advocate, creative thinker. Warmer?’ |
 | hollowed-out | 被掏空的；憔悴得显出凹陷的 | ‘No, you just begin to look a little hollowed-out after a few shifts in a row.’ |
-| whizzbang | 一流的；极棒的 | ‘I hung out with Innogen my old neighbour today, and her husband is a whizzbang surgeon down at St Barts. |
+| whizzbang | 一流的；极棒的 | I hung out with Innogen my old neighbour today, and her husband is a whizzbang surgeon down at St Barts. |
 | zen | 禅的；沉静专注的 | She was saying he has this very zen vibe to his work considering he’s literally dealing with life and death and that’s you too most of the time.’ |
 | patronising | 居高临下的；拿腔拿调的 | ‘You patronising git.’ She turned and walked towards the sofa. |
 | LinkedIn wannabe CEO | 领英风创业 CEO（照搬职业社交话术的人） | ‘That makes me sound like a LinkedIn wannabe CEO.’ |
