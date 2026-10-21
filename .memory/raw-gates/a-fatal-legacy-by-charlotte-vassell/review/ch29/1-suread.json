@@ -1,0 +1,184 @@
+{
+  "chapter": "ch29",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch29_29.txt",
+  "source_len_chars": 5464,
+  "read_order": "R1 素读：只读 text/ch29_29.txt，未打开任何 md",
+  "events": [
+    {
+      "n": 1,
+      "action": "Callie 把贴在肘内侧的棉花球扯下来塞进包里；她觉得把棉花球扔进咖啡店的垃圾桶不太对劲",
+      "who": "Callie",
+      "objects": [
+        "cotton wool (taped to inside of her elbow)",
+        "her bag",
+        "café’s bin"
+      ],
+      "span": [
+        64,
+        101
+      ],
+      "quote": "Callie quickly pulled the cotton wool that had been taped to the inside of her elbow off and put it in her bag."
+    },
+    {
+      "n": 2,
+      "action": "交代这趟抽血/量体重/量身高是由社区助产士做的（社区助产士给她抽了血、称了体重、量了身高）",
+      "who": "community midwife（对 Callie）",
+      "span": [
+        227,
+        313
+      ],
+      "quote": "She’d had blood taken, been weighed and had her height measured by a community midwife."
+    },
+    {
+      "n": 3,
+      "action": "Callie 出门前在沙发上画了整整一个小时的瓷娃娃头涂鸦，第二天早上这个给 Eulalia 的项目就会消失；她为此感到如释重负",
+      "who": "Callie",
+      "span": [
+        1620,
+        1662
+      ],
+      "quote": "This project for Eulalia had come from nowhere, wreaked havoc for an intense week and then after tomorrow morning would be gone again. She was glad of its transience."
+    },
+    {
+      "n": 4,
+      "action": "Callie 在咖啡店听见两个女人谈丢失的内裤；Callie 插话建议她们报警，随后觉得自己的多管闲事很傻，提前离开",
+      "who": "Callie + 两名陌生女子",
+      "span": [
+        2834,
+        2911
+      ],
+      "quote": "‘Sorry to interrupt, but I couldn’t help but overhear. You should report that.’ … ‘Maybe,’ Callie said, feeling silly all of a sudden. ‘Sorry again, enjoy your coffee.’"
+    },
+    {
+      "n": 5,
+      "action": "楼上的女邻居（Callie 与 Caius 父母的房客）警告 Callie 夜里附近有可疑男子出没（她比口型说出 flasher）；Callie 回家后锁上门链",
+      "who": "neighbour (Caius’s parents’ tenant) → Callie",
+      "span": [
+        3549,
+        3622
+      ],
+      "quote": "‘There have been reports of a creepy guy at night round the neighbourhood.’ She mouthed the word ‘flasher’."
+    },
+    {
+      "n": 6,
+      "action": "Callie 发消息告诉 Caius 她刚听到的事；姜茶没能压住孕吐，她躺到沙发上继续摆弄情绪板（mood boards）",
+      "who": "Callie",
+      "span": [
+        4066,
+        4115
+      ],
+      "quote": "The ginger tea hadn’t fully suppressed the nausea – it was possibly just a placebo, an idea she refused to entertain lest her self-awareness make it fail – but if she was lying down then she could sort of work."
+    },
+    {
+      "n": 7,
+      "action": "门铃响，快递员送花束并要 Callie 签名；Callie 猜花可能来自父亲（Caius 本周已经送过一束）；打开卡片",
+      "who": "delivery man → Callie",
+      "span": [
+        4469,
+        4484
+      ],
+      "quote": "‘Calliope Foster,’ the delivery man asked. … Callie thought they were perhaps from her father. Caius had already sent her a bunch that week. She opened the card."
+    },
+    {
+      "n": 8,
+      "action": "卡片写着 “Dear Cal, I had such a great time. E x”；Callie 拍下卡片与花发给 Caius，并说时间上有点奇怪、也怀疑是不是早发了一天；Caius 的消息一直只有「一个勾」（未读回执），她生气；她打开 Radio 4 播 Christine de Pizan 与《City of Ladies》的节目来忘掉这件事",
+      "who": "Callie → Caius（无回复）",
+      "span": [
+        5217,
+        5249
+      ],
+      "quote": "‘This is a bit weird right? I’d understand her sending this tomorrow afternoon once the project is finished but this is intense.’ … ‘Maybe it was sent a day too early?’ … Her message was left on one tick. Caius’s frequent unavailability was usually something she just accepted but today it pissed her off. She put on another Radio 4 programme on Christine de Pizan and her City of Ladies and tried to forget about it."
+    }
+  ],
+  "人物关系": [
+    {
+      "人物": "Callie (Calliope Foster)",
+      "关系": "主角；孕妇（“one preoccupied with keeping a tiny human alive”）；住 flat，同一层/楼上是邻居"
+    },
+    {
+      "人物": "Eulalia",
+      "关系": "Callie 经音乐认识的女孩；上一晚 limoncello 后情绪失控；Callie 为她做项目（瓷娃娃头涂鸦）"
+    },
+    {
+      "人物": "Caius",
+      "关系": "Callie 的伴侣；住同住处的父母/房客关系；常不在线（“frequent unavailability”）；本周已送过一束花"
+    },
+    {
+      "人物": "community midwife",
+      "关系": "给 Callie 抽血、称体重、量身高的社区助产士"
+    },
+    {
+      "人物": "neighbour (Caius’s parents’ tenant)",
+      "关系": "住在 Callie 楼上；警告附近夜间有可疑男子"
+    },
+    {
+      "人物": "delivery man",
+      "关系": "送花束并让 Callie 签收"
+    },
+    {
+      "人物": "两名陌生女子",
+      "关系": "咖啡店内同桌邻座；谈论晾衣绳上的内裤不见了"
+    }
+  ],
+  "数字与日期": [
+    {
+      "字面": "29",
+      "出处": "text 起始章节号（行 1 与行 12）"
+    },
+    {
+      "字面": "an hour",
+      "出处": "spent an hour that morning cobbling together enough images of porcelain doll heads onto a page"
+    },
+    {
+      "字面": "another hour",
+      "出处": "Then she’d spent another hour adding to the doodles she did last night"
+    },
+    {
+      "字面": "six different doll heads",
+      "出处": "of six different doll heads"
+    },
+    {
+      "字面": "in her early twenties",
+      "出处": "In her early twenties she’d been a magnet for girls like that."
+    },
+    {
+      "字面": "tomorrow morning",
+      "出处": "after tomorrow morning would be gone again"
+    },
+    {
+      "字面": "tomorrow afternoon",
+      "出处": "I’d understand her sending this tomorrow afternoon once the project is finished"
+    },
+    {
+      "字面": "11.32",
+      "出处": "Callie 发出消息的时间戳（行 93）"
+    },
+    {
+      "字面": "a day too early",
+      "出处": "Maybe it was sent a day too early?"
+    },
+    {
+      "字面": "one tick",
+      "出处": "Her message was left on one tick."
+    },
+    {
+      "字面": "Radio 4",
+      "出处": "She put on another Radio 4 programme on Christine de Pizan and her City of Ladies"
+    },
+    {
+      "字面": "near Sloane Square",
+      "出处": "a florist she recognised as being based near Sloane Square"
+    },
+    {
+      "字面": "vitamin D",
+      "出处": "banishing any potential lingering vitamin D deficiency from the winter months"
+    }
+  ],
+  "本章关键事实（等待/结果）": {
+    "抽血": "原文只写「She’d had blood taken」（227-313 区间），由 community midwife 所做",
+    "结果": "本章原文【没有】任何抽血结果（无结论、无诊断、无数值），也没有任何人来通知结果",
+    "等待": "本章实为等待/消耗时间的章：广播（Radio 4, 5371-5433）、未读回执（one tick, 5217-5249）、时间戳 11.32（5034-5039）、摆弄 mood boards / 把幻灯片摆到「只有一点点不完美」（4226-4402）",
+    "缝进日常": "她把这件事放在日常缝隙里：咖啡店久坐晒太阳、泡姜茶、在咖啡店多管闲事、回家摆弄情绪板、收花",
+    "文字处理": "借 Christine de Pizan 与《City of Ladies》— 一位为女性写作辩护的历史人物 — 来占据这段无所适从的等待"
+  }
+}

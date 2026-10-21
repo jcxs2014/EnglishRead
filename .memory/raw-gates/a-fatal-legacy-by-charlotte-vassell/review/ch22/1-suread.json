@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "chapter": 22,
+    "source_of_truth": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch22_22.txt",
+    "source_size_chars": 6119,
+    "range_convention": "[start, end) 字符偏移，基于该文件 UTF-8 解码后的字符序列；行号另注",
+    "read_order": "R1 素读：只读 text/ch22_22.txt，未开 md、未读别章、未依赖记忆",
+    "plain_read_done_at": "2026-10-21"
+  },
+
+  "who_did_what": [
+    {
+      "id": 1,
+      "range": [32, 188],
+      "line": 20,
+      "actor": "Matt",
+      "action": "在一条宜人的死胡同里敲开一栋 1930 年代半独立屋的门；开门的是一位中年女子",
+      "verbatim_anchor": "Matt knocked on the door of a 1930s semi-detached in a pleasant cul-de-sac. It had rained overnight. The air was muggy. A middle-aged woman opened the door."
+    },
+    {
+      "id": 2,
+      "range": [282, 461],
+      "line": 29,
+      "actor": "Matt",
+      "action": "自报 DS Matthew Cheung（Metropolitan Police），举出证件给她看，说他们认为她可能是诈骗受害者",
+      "verbatim_anchor": "‘DS Matthew Cheung, from the Metropolitan Police,’ he said, holding his warrant card up for her to see. ‘May I come in for a moment? We think you may have been a victim of fraud.’"
+    },
+    {
+      "id": 3,
+      "range": [464, 743],
+      "line": 32, 35,
+      "actor": "Beverley（呼 Nigel 一次无人应，再大声叫一次）→ Nigel（秃顶男人出现在妻子身后）",
+      "action": "Beverley 叫丈夫；Nigel 出现，手里一把小铲、一把园艺剪，脸红、慌张",
+      "verbatim_anchor": "‘Nigeeelllll.’ / A bald man appeared behind his wife at the door. He was flustered, his cheeks red; he had a trowel in one hand and a pair of gardening shears in the other."
+    },
+    {
+      "id": 4,
+      "range": [746, 1159],
+      "line": 38, 41, 44, 47,
+      "actor": "Nigel → Beverley → Matt → Nigel",
+      "action": "Nigel 以为是 Jehovah's Witnesses 或双层玻璃推销，要 Bev 关门；Beverley 说“他是警察”；Matt 向他出示证件说“你太太可能是诈骗受害者”；Nigel 说“你最好进来吧”，侧身让 Matt 进屋",
+      "verbatim_anchor": "‘What is it, Beverley?’ ... ‘No, Nigel, he’s police.’ ... ‘You best come in then.’ Nigel moved aside to allow Matt into the house."
+    },
+    {
+      "id": 5,
+      "range": [1162, 1530],
+      "line": 50, 53, 56,
+      "actor": "Beverley / Matt",
+      "action": "起居室：Beverley 示意 Matt 坐对面的皮沙发，她与 Nigel 坐另一张大沙发；Matt 问“你最近在伦敦租过一个邮政信箱吗？”",
+      "verbatim_anchor": "Beverley walked into a neat living room and gestured at Matt to sit down on the leather sofa opposite, while she and Nigel sat together on the other, larger one. ... ‘Did you rent a PO Box in London recently?’"
+    },
+    {
+      "id": 6,
+      "range": [1533, 2021],
+      "line": 59, 62, 65, 68, 71, 74,
+      "actor": "Beverley / Matt / Nigel",
+      "action": "Beverley 不知道什么是邮政信箱；Matt 说这类东西常被用于那种用途；Nigel 问“Beverley 为什么需要邮政信箱”，反感暗示；Matt 再问；Beverley 否认“No, definitely not”；Nigel 说“尤其不该是伦敦的，她为什么要去那里？”",
+      "verbatim_anchor": "‘Why would Beverley need a PO Box?’ Nigel asked. He didn’t like the implication that Beverley was up to something untoward. ... ‘No, definitely not,’ Beverley said, mystified."
+    },
+    {
+      "id": 7,
+      "range": [2024, 2334],
+      "line": 77, 80, 83,
+      "actor": "Beverley / Matt",
+      "action": "Beverley 说自皇家婚礼后再没去过伦敦，站在威斯敏斯特教堂正对面，和表姐在前一晚露营；“Kate Middleton?”后她纠正说“O no, Lady Di”，指向柜里的纪念盘，说“Taken too young”",
+      "verbatim_anchor": "‘I’ve not been to London since the Royal Wedding. ... Me and my cousin camped out the night before. What a fairytale.’ ... ‘Oh no, Lady Di,’ Beverley said, gesturing to a commemorative plate in a cabinet. ‘Taken too young.’"
+    },
+    {
+      "id": 8,
+      "range": [2337, 3307],
+      "line": 86, 89, 92, 95, 98, 101, 104, 107,
+      "actor": "Matt / Nigel / Beverley",
+      "action": "Matt 问“Have you been phished recently?”，Nigel 误解为现代双关；Matt 解释网络诈骗（骗子假装需要帮助、冒充朋友或陷入麻烦的亲戚，点链接交出银行信息）；Beverley 说有账户只用来收账单和 Next 促销邮件，想起“the other month”在 M&S Food 丢过卡，换了新卡，但没注意到异常消费；Matt 问两步验证，她不懂；Matt 解释“银行在网购时给你发短信”，她答“I do have that I think. Maybe. Oh, I’m not sure.”",
+      "verbatim_anchor": "‘I beg your pardon, young man,’ Nigel said. He took ‘phished’ to be some modern innuendo. ... ‘It can’t have been an expensive charge or I would’ve noticed and challenged it with the bank. I hadn’t noticed anything, actually.’"
+    },
+    {
+      "id": 9,
+      "range": [3310, 3460],
+      "line": 110, 113, 116,
+      "actor": "Nigel / Beverley / Nigel",
+      "action": "Nigel 问 Bev 是否把写着 PIN 码的小纸条和卡放在一起；Beverley 说“I might have done”；Nigel 说“你得更小心些”",
+      "verbatim_anchor": "‘Bev, did you leave a little piece of paper with the PIN number on it with the card?’ / ‘I might have done, Nigel.’ / ‘You’ve got to be more careful.’"
+    },
+    {
+      "id": 10,
+      "range": [3463, 4198],
+      "line": 119,
+      "actor": "Matt（叙述视角）",
+      "action": "环顾房间：壁炉架上有一个年轻女子的毕业照，除了一头厚重刘海和与脖子色号不匹配的厚重妆盖不住她惊人的平庸外无特别之处；Beverley 年轻时应该算漂亮；她的女儿一定随了她那个面团似的父亲。Matt 建议尽快联系银行（银行有关于防诈骗的建议）、注意其他异常扣款并给他打电话；把名片递给 Beverley，然后开车四小时回伦敦",
+      "verbatim_anchor": "There was a graduation photo of a young woman on the mantlepiece. ... Beverley looked like she would’ve been pretty when she was younger. Her daughter must have taken after her doughy father. ... Matt handed Beverley his card and left for the four-hour drive back to London."
+    },
+    {
+      "id": 11,
+      "range": [4201, 4522],
+      "line": 122, 125, 128, 131,
+      "actor": "Beverley（对丈夫 Nigel）",
+      "action": "Matt 走后 Beverley 关上门，转身看坐在楼梯上的丈夫：追问“Jenny 要邮政信箱做什么？她说只想买件开衫”“为什么警察还感兴趣”；Nigel 问“开衫？她不能自己买开衫吗？”；Beverley 耸肩说“She said she didn’t have any cash.”",
+      "verbatim_anchor": "‘A PO Box? What does Jenny want with a PO Box? She said she just wanted to buy a cardigan. And why are the police interested?’ ... Beverley shrugged. ‘She said she didn’t have any cash.’"
+    },
+    {
+      "id": 12,
+      "range": [4525, 4794],
+      "line": 134,
+      "actor": "Nigel",
+      "action": "站起来从口袋掏出手机：“我想她们不缺钱啊”“买不了开衫？我本以为 Jenny 搬到伦敦去是为了有点独立，同时她姐姐也能看着她、确保她没事”",
+      "verbatim_anchor": "Nigel stood up and took his phone out of his pocket. ‘Can’t buy a cardigan? I thought the whole idea of Jenny moving to London too was that she’d get a bit of independence while her sister kept an eye on her. Made sure she was OK.’"
+    },
+    {
+      "id": 13,
+      "range": [4797, 5088],
+      "line": 137,
+      "actor": "Beverley（内心）",
+      "action": "点头说“I know”；她本也认为 Jenny 更独立、离开他们更好；这样 Jenny 神经再发作时，邻居就不必像上次那样看见或听见；反正伦敦那边医生更好",
+      "verbatim_anchor": "It also meant that if Jenny had another turn with her nerves the neighbours didn’t have to see or hear of it like last time. Besides, they had better doctors down there."
+    },
+    {
+      "id": 14,
+      "range": [5091, 5347],
+      "line": 140,
+      "actor": "Nigel",
+      "action": "“她现在该是付钱雇 Jenny 当助理了，因为她那边的事正在起飞”；他打算打电话弄清真相；“她们很久没回来探望了”“我绝不会跑去那该死的伦敦”",
+      "verbatim_anchor": "‘She’s supposed to be paying her to be her assistant now that things are taking off for her. I’m going to call and find out what this is really about. ... there’s no way I’m going all the way to bloody London.’"
+    },
+    {
+      "id": 15,
+      "range": [5350, 5679],
+      "line": 143, 146,
+      "actor": "Beverley → Nigel",
+      "action": "Beverley 从丈夫手里拿走手机，另一只手轻放在他胸口，用过去三十年安抚他大多数脾气的语调说“It's no big deal”；Nigel 反驳“当然是大事，他们不会为了那点小鬼祟的扣款从伦敦派警察上来”",
+      "verbatim_anchor": "Beverley took the phone from her husband and placed her other hand gently on his chest. She spoke in the soothing manner that had calmed most of his bluster over the last thirty years. ... ‘Of course it is, Bev, they don’t send policemen up from London for one little dodgy payment like that.’"
+    },
+    {
+      "id": 16,
+      "range": [5682, 6118],
+      "line": 149,
+      "actor": "Beverley（内心独白结尾）",
+      "action": "看手表说“我晚点再打给他们”“他们会忙，我不想让任何人不高兴”；她真不想惊动那件“每月偷偷进行”、丈夫不知道的‘housekeeping’——它付了她的新挑染、一双新皮靴，以及丈夫一直以为是从衣柜深处翻出来的其他小零碎",
+      "verbatim_anchor": "She really didn’t want to upset the little bit of ‘housekeeping’ she was sent on the sly every month without her tight husband’s knowledge, which had paid for her new highlights and a pair of new leather boots and all the other little treats that her husband had been convinced had come from the back of the wardrobe."
+    }
+  ],
+
+  "relationships": [
+    {"rel": "Matt（DS Matthew Cheung，Metropolitan Police）— Beverley Parkin", "type": "警方调查者 : 被问询者（疑似诈骗受害者）", "evidence_range": [282, 461]},
+    {"rel": "Beverley Parkin — Nigel", "type": "夫妻（Nigel 是她丈夫，秃顶、脸红、拿着小铲和园艺剪）", "evidence_range": [464, 743]},
+    {"rel": "Beverley — Nigel（女儿）", "type": "母亲 : 女儿（照片里的年轻女子；Nigel 说 Jenny 神经再发作过，邻居上次看见或听见了）", "evidence_range": [3463, 4198], "note": "原文未在 4198 之前点名照片里的人叫 Jenny，但后文与 Matt 的判断相接"},
+    {"rel": "Nigel — Jenny", "type": "父亲 : 女儿（Nigel 说 Jenny 搬到伦敦是为了独立，同时“她姐姐”看着她）", "evidence_range": [4525, 4794]},
+    {"rel": "Jenny — 她的姐妹", "type": "姐妹；Nigel 说 Jenny 现在是给“她”（他信里那个事业起飞的人）当助理", "evidence_range": [4525, 5347], "note": "原文中 “her sister”“She’s supposed to be paying her” 的 “her” 所指未在本章显式点名"},
+    {"rel": "Beverley — 她的表姐 cousin", "type": "亲戚（皇家婚礼前一晚与她一起露营）", "evidence_range": [2024, 2211]},
+    {"rel": "Nigel — Matt", "type": "戒备的丈人/被访者对警察（Nigel 一度想关门）", "evidence_range": [746, 1159]}
+  ],
+
+  "numbers_and_dates_verbatim": [
+    {"item": "章号", "verbatim": "22", "range": [0, 2]},
+    {"item": "地点标题", "verbatim": "Harrogate", "range": [20, 29]},
+    {"item": "房屋年代", "verbatim": "1930s semi-detached", "range": [66, 88]},
+    {"item": "伦敦邮政信箱", "verbatim": "a PO Box in London", "range": [1502, 1530]},
+    {"item": "皇家婚礼（时间参照）", "verbatim": "the Royal Wedding", "range": [2043, 2063]},
+    {"item": "丢卡时间", "verbatim": "the other month", "range": [2761, 2775]},
+    {"item": "回程", "verbatim": "the four-hour drive back to London", "range": [4162, 4198]},
+    {"item": "Nigel 的脾气被安抚的年数", "verbatim": "the last thirty years", "range": [5523, 5543]},
+    {"item": "‘housekeeping’ 频率", "verbatim": "every month", "range": [5901, 5911]}
+  ],
+
+  "notes_for_later": [
+    "本章原文除小标题 Harrogate 外，没有任何表示日期/星期的字样；‘Wednesday in May’ 这类表述在本文件里查不到，待 R3 核。",
+    "原文全章没有出现 ‘cardigan’ 以外的交易金额数字，也没有 PO Box 的具体地址或编号。",
+    "原文对照片里年轻女子的评价是 Matt 的内心判断（叙述者视角），不是 Beverley 说的。"
+  ]
+}

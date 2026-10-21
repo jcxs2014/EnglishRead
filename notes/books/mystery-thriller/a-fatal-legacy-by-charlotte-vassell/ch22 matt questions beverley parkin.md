@@ -11,7 +11,7 @@ source_text: ch22
 - **一句话概括**：Matt 开着四个小时的车到哈罗盖特，敲开一户半独立住宅的门，问贝弗利·帕金太太有没有在伦敦租过邮政信箱；她当场否认，转头却跟丈夫念叨女儿要「买件开衫」，以及每月瞒着丈夫办的那趟差事。
 - **视角**：第三人称限知，先是贴着 Matt 的提问与四下打量的视线，等他交出名片、开车离开，镜头才转进门内，落到贝弗利和 Nigel 夫妻身上；本章属「五月的星期三」这一分部。
 - **线索结构**：邮政信箱（伦敦，PO Box）→ 网络钓鱼与那张在 M&S Food 丢掉的卡、她答不上来的两步验证 → 壁炉架上女儿的毕业照与那双刻意藏拙的眼睛 → Jenny 说要「买件开衫」 → 每月一次的秘密差事，和丈夫以为「从衣柜深处翻出来」的小玩意。
-- **人物弧线**：贝弗利从一句「No, definitely not」的否认，走到后来亲口说出女儿的「another turn with her nerves」、伦敦有「better doctors」，以及那笔瞒着丈夫的钱；Nigel 则从堵着门喊「just shut the door」，到攥着手机要给伦敦打电话。
+- **人物弧线**：贝弗利从一句「No, definitely not」的否认，走到后来只在心里盘算女儿的「another turn with her nerves」和伦敦的「better doctors」，而那笔始终没对丈夫说出口的钱同样留在她心里；Nigel 则从堵着门喊「just shut the door」，到攥着手机要给伦敦打电话。
 - **叙事手法**：先用一场喜剧式的家庭闹剧把警方和这对夫妇隔开，再让 Matt 的问话一句句逼出细节；Matt 记下的是诈骗流程和屋里的陈设，屋主记下的是女儿要买开衫，两套记录在同一个邮政信箱上错开，末了靠一段女主人自己的独白把没说出口的部分兜了出来。
 
 ## 精读
@@ -20,7 +20,7 @@ source_text: ch22
 **中文理解**：贝弗利探头喊丈夫，第一声没人应，第二声却拉长了调子，像歌剧里的号角一样喊了出去。
 **关键词**：demurely / operatic gusto / Nigeeelllll
 **为什么这样写**：作者先用一个笑声把这次登门定成家庭喜剧：妻子的矜持与丈夫的慌手慌脚并置，读者的第一印象是「这一家离命案远得很」——而这份轻松正是后面要一点点拆掉的东西。
-**读者视角提示**：留意屋里的称呼：妻子叫「Bev」、丈夫叫「Beverley」；门外那个「Mrs Beverley Parkin」在这套叫法之外，是另一重身份。
+**读者视角提示**：留意屋里的称呼：「Beverley」和「Bev」都是丈夫 Nigel 对妻子 Beverley 的叫法，丈夫本人叫「Nigel」；门外那句「Mrs Beverley Parkin」就是女主人自己的正式称谓，不是另一重身份。
 
 > **原句 2:** "‘Hang on, Nigel. I think I dropped a card in M&S Food the other month. I had to get a new card, but perhaps I wasn’t quick enough. It was such a hassle. It can’t have been an expensive charge or I would’ve noticed and challenged it with the bank. I hadn’t noticed anything, actually.’"
 **中文理解**：听到「被钓鱼」几个字，贝弗利先说自己只有一个账户、只用来收账单和 Next 的促销邮件，随即话锋一转：前些月她在 M&S Food 丢过一张卡，会不会没来得及补办；她觉得那笔开销若贵重，自己一定会发现并找银行交涉。

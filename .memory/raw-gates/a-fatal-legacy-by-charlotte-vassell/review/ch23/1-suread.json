@@ -1,0 +1,95 @@
+{
+  "chapter": "ch23",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch23_23.txt",
+  "source_len_chars": 14267,
+  "read_order": "只读 text/ch23_23.txt；未开 md、未看别章 md、未凭记忆",
+  "events": [
+    {
+      "id": 1,
+      "who": "Eulalia",
+      "what": "独自坐在卧室地板上，MacBook 搁在盘起的双腿之间，又把那段录像放了一遍",
+      "ranges": [[38, 133]]
+    },
+    {
+      "id": 2,
+      "who": "录像里 Monty Don / Callie",
+      "what": "Monty Don 说维多利亚时代的花有特定含义；戴帽子的 Callie 高高举起她祖母那本古老的凯特·格里纳韦《Language of Flowers》；Michaelmas daisy 的花语是 'farewell'（永别）",
+      "ranges": [[182, 710]]
+    },
+    {
+      "id": 3,
+      "who": "录像里 Max / Callie",
+      "what": "醉了的 Max 单膝跪地求婚「Calliope Foster, will you marry me?」；Callie 转过身，脸上从惊喜狂喜变成恐怖，回绝「No, definitely not. I don't ever want to see you again. This is a Michaelmas daisy.」，并说花束里还配了一朵 musk rose（句子被 Max 的叫喊打断）",
+      "ranges": [[723, 1273]]
+    },
+    {
+      "id": 4,
+      "who": "录像里 Max / Caius / Monty Don / Callie",
+      "what": "Max 喊「The new man!」挥拳朝 Caius 走去，场务追上去，摄像师放弃花语改拍戏剧；Caius 退到镜头外递水，Max 说「I'd punch you but you've got a cast on your arm」，Caius 说这样算公平；Max 挥拳被 Caius 单手制住，Caius 向 Monty Don 投去求他收场的眼神，Monty Don 转镜头说「Chivalry isn't dead.」，Callie 说「You know, right now I rather wish it was.」",
+      "ranges": [[1347, 2034]]
+    },
+    {
+      "id": 5,
+      "who": "录像里 Callie / Monty Don",
+      "what": "Callie 讲自己的作品：aesthetics 而非行为准则，讲的是纯粹的爱而非现实，「the romance not the consummation」，追求 sublime，「the difference between art and things」，只为造出 poetic poignancy；她否认这是 chivalry，说那只是她那个「stupid ex」在 corporate credit card 上喝了一天酒；Monty Don 接「Men, eh?」「You should get a dog.」「They're loyal.」「Perhaps women should replace men with Golden Retrievers?」「They're more likely to chew your slippers.」，Callie 说狗能「shed less」，最后一句「I don't know, Monty. It's rough out there.」",
+      "ranges": [[2098, 3158]]
+    },
+    {
+      "id": 6,
+      "who": "Mel（姐姐）与 Eulalia（妹妹）",
+      "what": "Mel 在门口问「Are you playing that again?」；Eulalia 说喜欢 Callie 的 vibe、为 Callie 的荣誉辩护；Mel 说 Callie 已寄来签字的合同与 NDA，并提到「without her leaking your bra size to the Mail」；Eulalia 说「she gets it. Cal understands me」并开始来回踱步，Mel 说她「a bit manic」、她该别再迷恋这些「girls who aren't interested in you」、「I don't think you're capable of love per se… you just get obsessed or even jealous of them」；Eulalia 抓起床边一本薄书冲出房间，说「I'm not gay」；Mel 回「No one would care if you were.」并说下一轮采访不如假装双性恋、弄个几周 PR 女友，随后下到地下室——房子买下后在下面迅速施工，挖了健身房和隔音录音棚",
+      "ranges": [[3205, 4995]]
+    },
+    {
+      "id": 7,
+      "who": "Mel 与 DJ Sonikk（房东转 DJ 制作人）",
+      "what": "Sonikk 在做 Eulalia 即将发行的第二张专辑；Mel 说 Eulalia 出去逛街，「at least an hour and a half of peace… maybe two if we're lucky」；分工是「She's the face, I'm everything else」；Sonikk 说自己对这桩隐瞒「don't really have a problem」，但签了 NDA 后热情骤降，他明白做出第一张专辑的 3lectr0 为何不回来，觉得 'Eulalia' 的其他worldly 美一半来自「she wasn't always in this world」，本以为她会是 bratty 或 cokehead，而不是「a sweet girl who possibly had a personality disorder and her hyper-gifted, sow-faced big sis」；他问「Who even is this Calliope Foster?」（怀疑自己把谁认成 Penelope Carter）；Mel 说 Callie 去过艺术学校、在大杂志工作过、做 premier milliners，label 与 PCQV 都知道并愿意尽量采纳她的想法，「'Eulalia' doesn't know that though… It needs to feel like a victory」；Mel 一直在确保妹妹吃药，并考虑找精神科医生复核剂量；Sonikk 觉得 Callie 印象化、易受影响、孤立；Mel 说她说话一半是 word salad，「It's useful for interviews」；Sonikk 想象她五年后在 Grammys 后台崩溃；Mel 说「Fuck the label. They're just the bank.」「She's Ringo and I'm George and Paul and John」「God gave my sister the face and the body and me the talent and tenacity」「Together we make one phenomenal popstar」「She will. I will always make sure of that. No harm will ever come to her. I love my sister.」「Now let's go from the top.」；父母只要每月现金；Mel 提醒他签了 ironclad NDA 并威胁起诉；Mel 唱，「a voice that could lead each and every one of them to wreckage」，Sonikk 说「We're all going to be so rich」，Mel 一遍完美而哀伤的演唱",
+      "ranges": [[5049, 11085]]
+    },
+    {
+      "id": 8,
+      "who": "Mel 与 Eulalia（分场后）",
+      "what": "Mel 上楼敲门（听见前门摔上已有十分钟），门开时妹妹又在看 Callie 的录像；Mel 问「Perhaps having Calliope work for you was a bad idea?」得到「No.」；Mel 劝她别再纠缠、像对平常人那样对待 Callie；Eulalia 说 Callie 非常浪漫，「Her boyfriend will be a knight one day. An actual knight. His family have a big house in the country.」；Mel 回「Not this Downton Abbey nonsense again.」；Eulalia 说她读过关于此人的报道，他祖父因有人非婚生而继承了这栋房子，家族是 Plantagenets 一支因而出自 Melusine，「she's a fairy. I think she's half snake or something」；Mel 问「Who's Melusine?」并要她别对 Callie 说这些；Eulalia 关掉标签页说「I'm going to read instead.」；午餐是 quinoa with black beans and roasted squash and grilled chicken breast，Eulalia 抱怨又是鸡肉、想要 lasagne/cottage pie/cheeseburger/roast、「Let's have a roast on Sunday! We could go home? I've not seen Mum or Dad in ages.」；Mel 说 label 请了厨师备餐（organic, high protein），她要为巡演保持体形；Eulalia 问要不要换编舞，Mel 说在谈 Beyoncé's choreographer's assistant，上一位把她的照片卖给媒体，已加强审查；Eulalia 说「I really liked him. I thought he could help me.」；被追问「Help you with what?」后她停顿才答「My flexibility. I'm so much stiffer these days than I used to be.」；Mel 提议请瑜伽教练来家里、她陪练，Eulalia 问「Could Callie come too?」被回「Let's just have quality us time.」；Mel 看见妹妹边吃边在笔记本上看「some brain rot story」；Eulalia 说 Callie 要来家里吃饭，Mel 不愿意，怕她到处打量、想把妹妹带进楼下录音棚 preview；Eulalia 提议出去吃，Mel 同意；Eulalia 讨钱，Mel 说会在门厅桌上留现金，Eulalia 说「Amazing.」",
+      "ranges": [[11099, 14267]]
+    }
+  ],
+  "relations": [
+    "Eulalia 与 Mel 是姐妹（Mel 为姐，Eulalia 为妹）；妹妹住楼上卧室，姐姐掌握录音棚与一切实际事务",
+    "Eulalia 是台前的「脸」，Mel 是创作与运营的实际主脑：写歌与妹妹共同署名，但 Mel 主导；乐迷买的是妹妹的脸，Mel 自嘲自己的脸「could maybe inspire one very mediocre man to drive a Peugeot down two junctions of the M42」",
+    "Callie / Calliope Foster：受雇来做「look」与服装的帽饰师（milliner），去过艺术学校、在大杂志做过，是妹妹在片中崇拜的对象；Mel 说她「legit」、label 与 PCQV 都 vetting 过并已同意部分方案",
+    "Max：Callie 的前男友（stupid ex），录像中醉酒求婚又动手",
+    "Caius：录像中「新来的男人」，手臂上打着石膏，被 Max 攻击",
+    "Monty Don：录像中的纪录片主持人",
+    "DJ Sonikk：曾寄宿本屋的房客、现为制作人，做妹妹的第二张专辑；被 NDA 绑定，知道「Eulalia」并非真名身份",
+    "3lectr0：制作了第一张专辑的制作人，因知情而拒绝回归",
+    "Mel 与父母：关系疏离，只在每月现金上达成一致；妹妹说很久没见 Mum and Dad",
+    "妹妹状态：被姐姐管控（药物、精神科剂量复核、饮食、形体）；录像里那段「她不在这个世界」式的片段与她「可能有人格障碍」的评价相呼应"
+  ],
+  "numbers_dates_verbatim": [
+    "'at least an hour and a half of peace'",
+    "'maybe two if we're lucky'",
+    "'She believed 100 per cent that she was in charge of the look'",
+    "'in five years' time'",
+    "'a thousand ships'（My sister's face could launch a thousand ships）",
+    "'one very mediocre man to drive a Peugeot down two junctions of the M42'",
+    "'one perfectly haunting take'",
+    "'a couple of key phrases'",
+    "'Half of what she says is word salad'",
+    "'ten minutes ago'（听见前门摔上）",
+    "'a PR girlfriend for a few weeks'",
+    "'half snake or something'",
+    "'a Michaelmas daisy'",
+    "'a musk rose'",
+    "'sophomore album' / 'second album'",
+    "'the next round of interviews'",
+    "'Sunday'（Let's have a roast on Sunday!）",
+    "'a week'（working with darling Calliope for a week）",
+    "'quinoa with black beans and roasted squash and grilled chicken breast'"
+  ],
+  "chapter_specific_readings": [
+    "录像被反复播放：第一次在卧室地板上「She replayed the footage again.」，分场后 Mel 敲门时「Her sister was watching the footage of Callie again.」——同一段素材至少两次被重看",
+    "录像里被读出的是「chivalry / 永恒」的主题：Callie 用 'farewell' 拒绝求婚、Max 动手、Monty Don 收尾「Chivalry isn't dead.」、Callie 立刻说「I rather wish it was.」",
+    "刻意隐瞒：Eulalia 一直说「I'm not obsessed」，却在 Mel 走后（第二次）把标签页关掉、用「I'm going to read instead.」换掉录像；她对妹妹（对 Mel）也隐瞒过录像里的某些事——她关掉标签页的动作就是隐瞒的动作",
+    "对妹妹的态度变化：先是对 Mel 毫无保留（Mel 一问就答、说 Cal understands me、起身跳起来替 Callie 辩护），后段变成索求型（要钱、要求出去吃、要 Callie 也来），并在 Mel 说她「not capable of love per se」后突然翻脸出走（「Shut up, Mel」）"
+  ]
+}

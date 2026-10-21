@@ -1,0 +1,38 @@
+# 本次审查自跑：check_vocab.py（书目录口径）
+$ python3 scripts/check_vocab.py "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell"
+词条行合计: 1458
+
+--- FAIL (0) ---
+
+--- WARN (26) ---
+  ch13 matt and amy hunt for the real isolde.md [基础] 基础档疑含超纲词「leftovers」
+  ch13 matt and amy hunt for the real isolde.md [基础] 基础档疑含超纲词「manuscript」
+  ch18 mel tests the death scent samples.md [基础] 基础档疑含超纲词「packaging」
+  ch19 the post office box leads to harrogate.md [基础] 基础档疑含超纲词「toothbrush」
+  ch21 benedict reports a break in.md [基础] 基础档疑含超纲词「apparently」
+  ch21 benedict reports a break in.md [基础] 基础档疑含超纲词「coincidence」
+  ch26 matt returns from harrogate.md [基础] 基础档疑含超纲词「definitely」
+  ch26 matt returns from harrogate.md [基础] 基础档疑含超纲词「different」
+  ch26 matt returns from harrogate.md [基础] 基础档疑含超纲词「purchased」
+  ch26 matt returns from harrogate.md [基础] 基础档疑含超纲词「collected」
+  ch33 the missing journal volume.md [基础] 基础档疑含超纲词「livestream」
+  ch33 the missing journal volume.md [基础] 基础档疑含超纲词「pentagram」
+  ch34 matt breaks into a house at priory square.md [基础] 基础档疑含超纲词「suspiciously」
+  ch39 the institute is to be sold.md [基础] 基础档疑含超纲词「instincts」
+  ch41 margot bourne is questioned.md [基础] 基础档疑含超纲词「character」
+  ch41 margot bourne is questioned.md [基础] 基础档疑含超纲词「interview」
+  ch41 margot bourne is questioned.md [基础] 基础档疑含超纲词「attacking」
+  ch41 margot bourne is questioned.md [基础] 基础档疑含超纲词「online community」
+  ch46 caius confronts jennifer parkin.md [基础] 基础档疑含超纲词「blackbird」
+  ch46 caius confronts jennifer parkin.md [基础] 基础档疑含超纲词「intuition」
+  ch50 isolde is questioned about the stories.md [基础] 基础档疑含超纲词「reception」
+  ch50 isolde is questioned about the stories.md [基础] 基础档疑含超纲词「dashboard」
+  ch52 willow bell is arrested.md [基础] 基础档疑含超纲词「fingerprints」
+  ch52 willow bell is arrested.md [基础] 基础档疑含超纲词「confession」
+  ch54 there is no heartbeat.md [基础] 基础档疑含超纲词「heartbeat」
+  ch54 there is no heartbeat.md [基础] 基础档疑含超纲词「miscarriage」
+exit=0
+
+# ch20 相关行：
+$ grep 'ch20' 上述输出
+grep exit=1

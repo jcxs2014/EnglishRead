@@ -1,0 +1,297 @@
+{
+  "chapter": 23,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/ch23 eulalia watches the footage again.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch23_23.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Eulalia was sitting on the floor of her bedroom, her MacBook nestled between her crossed legs. She replayed the footage ",
+          "ok": true,
+          "pos": 21
+        }
+      ]
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Exactly so. The Victorians were a privately romantic if not publicly restrained people. Floriography was a way to discre",
+          "ok": true,
+          "pos": 351
+        }
+      ]
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "My work? My work is about aesthetics, it’s not a code of conduct",
+          "ok": true,
+          "pos": 2021
+        },
+        {
+          "text": "I’m aware that it may seem a little fanciful, but it’s about the idea of a pure love rather than the reality of it, isn’",
+          "ok": true,
+          "pos": 2087
+        }
+      ]
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I don’t know, Monty. It’s rough out there",
+          "ok": true,
+          "pos": 2907
+        }
+      ]
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘Good.’ Eulalia looked up at her sister and started pacing. ‘I just feel like she gets it. Cal understands me. She under",
+          "ok": true,
+          "pos": 3375
+        }
+      ]
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "‘Shut up, Mel. I’m going out,’ Eulalia said suddenly, putting her laptop down, grabbing a slim volume from beside her be",
+          "ok": true,
+          "pos": 3884
+        }
+      ]
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "‘She’s a jolly nice sort of gal. One of yours, I suspect,’ Mel said, affecting Callie’s heightened accent. ‘To be fair t",
+          "ok": true,
+          "pos": 6934
+        }
+      ]
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "‘I’m not obsessed. I just think she’s terribly romantic. Her boyfriend will be a knight one day. An actual knight. His f",
+          "ok": true,
+          "pos": 11023
+        }
+      ]
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "‘Amazing.’ Eulalia didn’t look up from the computer",
+          "ok": true,
+          "pos": 13565
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 111,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 0,
+        "为什么这样写": 124,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 146,
+        "关键词": 0,
+        "为什么这样写": 121,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 0,
+        "为什么这样写": 110,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 137,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 122,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 207,
+        "关键词": 0,
+        "为什么这样写": 133,
+        "读者视角提示": 77
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 143,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 22,
+        "关键词": 0,
+        "为什么这样写": 164,
+        "读者视角提示": 70
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.89
+      }
+    }
+  ],
+  "form": {
+    "h1": "23. Eulalia’s House",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 7.0,
+    "block_range": [
+      5,
+      10
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": []
+  }
+}

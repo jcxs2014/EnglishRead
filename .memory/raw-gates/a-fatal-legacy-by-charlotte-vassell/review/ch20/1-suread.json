@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "chapter": "ch20",
+    "reviewer": "独立审查实例（本次）",
+    "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch20_20.txt",
+    "read_order": "R1 盲读：只读 text/ch20_20.txt，未开 md、未看别章 md、未凭记忆；读完先落本文件，才读 md",
+    "source_size": "149 行 / 4594 字节 / 4335 字符（按 .split('\\n') 累加 len(line)+1 计）",
+    "sections_in_source": ["Caius and Callie’s Flat (L17)", "Tabs (L128)"],
+    "char_range_convention": "[start, end) 为字符偏移（0 基，Python 全文 .split('\\n') 逐行累加 len(line)+1 计算）；行号为文件行号（1 基）",
+    "note": "本目录存在前一次未完成审查（仅 R1/R2）的 1-suread.json 与 2-machine.json，已保留为 1-suread.prev-run.json 供对照；本次 R1 为独立重做，事件划分与结论与前次一致（互相印证）"
+  },
+
+  "events": [
+    {
+      "id": 1,
+      "actor": "Callie",
+      "action": "在卧室床上向 Caius 要一份煎蛋卷当晚饭（她已放弃沙发、退回床上）",
+      "quote_anchor": "‘Can I have an omelette for dinner, please?’ Callie asked. She’d given up on the sofa and had retreated to bed.",
+      "loc": "L20",
+      "char_range": [46, 157]
+    },
+    {
+      "id": 2,
+      "actor": "Caius",
+      "action": "回家后钻进被窝陪她，问「什么时候可以告诉别人」",
+      "quote_anchor": "‘Anything for you.’ Caius had got in under the covers with her after he’d come home. ‘When can we tell people?’",
+      "loc": "L23",
+      "char_range": [160, 271]
+    },
+    {
+      "id": 3,
+      "actor": "Callie",
+      "action": "用一条「老说法」回避何时公布：等满十二周做扫描，因为多数流产发生得更早；并说不再自欺，所以恶心感真的上来了",
+      "quote_anchor": "‘The old adage is that you wait for the twelve-week scan because most miscarriages happen earlier than that.’ … ‘I feel horrendous. I’m no longer in denial so the nausea has really kicked in.’",
+      "loc": "L26 / L32",
+      "char_range": [274, 477]
+    },
+    {
+      "id": 4,
+      "actor": "Caius → Callie",
+      "action": "Caius 问她有没有打电话给医生；Callie 说自己周四有社区助产士的预约；Caius 问要不要陪她去，Callie 拒绝（说只是抽血和称体重之类）",
+      "quote_anchor": "‘My darling.’ Caius stroked her hair. ‘Did you call the doctor’s?’ … ‘Yeah, I’ve got an appointment with the community midwife on Thursday.’ … ‘Want me to come?’ … ‘Oh no, it’s OK. I think they just do a blood test and weigh you or something.’",
+      "loc": "L35 / L38 / L41 / L44",
+      "char_range": [480, 723]
+    },
+    {
+      "id": 5,
+      "actor": "Callie + Caius",
+      "action": "讨论煎蛋卷配料（火腿、蘑菇、洋葱、奶酪）；Callie 想要冰箱里的「独角兽」刨丝撒在上面；Caius 说冷冻室里有从 Costco 买的一整包「神话动物肉」",
+      "quote_anchor": "‘What do you want in your omelette? Ham, mushrooms, onion, cheese?’ … ‘Everything, please. Is there any more unicorn in the fridge? A bit of that grated on top would do me wonders.’ … ‘I’m sure we’ve got a whole multipack of mythical animal meat in the freezer from Costco that I can add.’",
+      "loc": "L47 / L50 / L53",
+      "char_range": [726, 1135]
+    },
+    {
+      "id": 6,
+      "actor": "Callie（提出）→ Caius（捡起速写本）→ Callie（提 Eulalia 肖像）→ Caius（转介 Georgie）→ Callie（降格为速写）",
+      "action": "Caius 捡起掉到地上的速写本问她在画什么；Callie 说是肖像的一些碎片，说画一幅文艺复兴时期的 Eulalia 肖像会很有意思；Caius 说「你该去找 Georgie 谈谈」；Callie 说自己也这么想，但怀疑没时间做完整肖像，更喜欢速写（不是《维特鲁威人式的人》那样）",
+      "quote_anchor": "Callie’s sketchbook had slid onto the floor. He picked it up. ‘What have you been drawing?’ … ‘Bits and pieces from portraits,’ Callie said, sitting up. ‘I think that a sort of Renaissance-era portrait of Eulalia could be really interesting.’ … ‘You should speak to Georgie.’ … ‘Yes, I thought the same, but I doubt there’s time for a full-blown portrait. I love the idea of sketches. Not Vitruvian man exactly, but something along those lines.’",
+      "loc": "L53 / L56 / L59 / L62",
+      "char_range": [1030, 1488]
+    },
+    {
+      "id": 7,
+      "actor": "Caius + Callie",
+      "action": "讨论孩子取名：Caius 说主要是「要避开的名字」名单（学校时讨厌的人、他抓过的人、切尔西球员）；Callie 加一条「不要前任」；Caius 说绝对不要 baby Max，自己喜欢 Charles（可缩成 Charlie）；Callie 说「那是个约会过的人，他是个无聊的人」——那是很糟糕的三周，在 2011 年；Callie 要自己开一份名单，祈祷是女孩，因为自己约过很多次烂人的第二次约会；Caius 问「我在名单上吗」，Callie 答「在，但你是那种我可以小剂量忍受的烂人」",
+      "quote_anchor": "‘Ha ha.’ Caius got off the bed. ‘I’ve been thinking about names.’ … ‘Mostly it’s a list of names to avoid. People I hated at school, people I’ve arrested, Chelsea players, you know. The worst people in the world.’ … ‘No exes.’ … ‘Yeah. Definitely not baby Max. I quite like the name Charles. It’s solid. You can shorten it to Charlie. No nonsense.’ … ‘Dated one. He was a nonsense person.’ Callie shook her head. That had been a terrible three weeks in 2011. ‘I’ll start a list. Just pray that it’s a girl because I’ve been on a lot of second dates with utter bellends.’ … ‘Am I on that list?’ … ‘Yeah, but you’re a bellend that I can tolerate in small doses.’",
+      "loc": "L71 / L77 / L80 / L83 / L86 / L89 / L92",
+      "char_range": [1611, 2304]
+    },
+    {
+      "id": 8,
+      "actor": "Caius",
+      "action": "亲她额头，说「一份独角兽煎蛋卷马上来」",
+      "quote_anchor": "Caius kissed her on the forehead. ‘One unicorn omelette coming up.’",
+      "loc": "L95",
+      "char_range": [2306, 2374]
+    },
+    {
+      "id": 9,
+      "actor": "Callie + Caius（白玫瑰）",
+      "action": "Callie 挪到客厅沙发，咖啡桌上出现一大束白玫瑰；她问「这些是给我的吗」，Caius 正在切菜时答「不是」；她摸花瓣说「真漂亮」；Caius 放下刀走过来，说「我确实不小心把你搞怀孕了，那是我能做的最起码的事」；Callie 说「鲜花是个好的开始」并用眼神表示这才刚刚开始",
+      "quote_anchor": "‘Are these for me?’ … ‘No,’ Caius said, slicing the vegetables. … ‘They’re beautiful.’ … ‘Well, I did accidentally knock you up so it was the very least I could do.’ … ‘Flowers are a good start.’ She shot him a look to let him know that this was only the beginning.",
+      "loc": "L98 / L101 / L104 / L107 / L110 / L113",
+      "char_range": [2376, 2984]
+    },
+    {
+      "id": 10,
+      "actor": "Callie + Caius（外貌与基因）",
+      "action": "他搂着她的腰问孩子会长什么样；Callie 答「像我和你各一半」；Caius 说可能是红头发，不知道自己核子里藏着什么隐性基因；Callie 问「你为什么把红头发说得像多一根手指似的，红头发的宝宝很可爱」，随后她手机震了",
+      "quote_anchor": "‘What do you think they’ll look like?’ … ‘Like a cross between me and you.’ … ‘They could be ginger. I don’t know what recessive genes I’ve got lurking in my nuclei.’ … ‘Why did you say ginger like it was the same as having six fingers? Red-headed babies are adorable.’ Her phone buzzed.",
+      "loc": "L116 / L119 / L122 / L125",
+      "char_range": [2986, 3310]
+    },
+    {
+      "id": 11,
+      "actor": "Tabitha (Tabs)",
+      "action": "18.13 发来消息：看到 Callie 的切尔西视频、衣服好看、问是哪家的；自己做造型工作，在找新设计师；问视频是不是摆拍，若是摆拍她演得好，若不是「你的前任把你的观点演得很好」；问这周要不要一起喝咖啡",
+      "quote_anchor": "Hey Callie, it’s Tabitha! Saw that video from Chelsea. That dress was stunning on you. Where’s it from? I’m doing more stylist work atm and am always on the lookout for new designers. Honestly though, that video was so funny. Was it a set-up? If so you were very convincing. If not your ex illustrated your point very well. Fancy a coffee this week? Would be great to catch up X",
+      "loc": "L130 / L135",
+      "char_range": [3318, 3709]
+    },
+    {
+      "id": 12,
+      "actor": "Callie（犹豫）",
+      "action": "把消息读了两遍，不知道该怎么办；不想显得无礼，Tabs 是个好姑娘，但也不觉得被吸进那个圈子明智；说「我不太确定」",
+      "quote_anchor": "‘Tabs wants to go for coffee.’ Callie reread the message twice. She didn’t know what to do. She didn’t want to be rude, Tabs was a nice girl, but she also didn’t think it was wise to get sucked into that circle. ‘I’m not sure.’",
+      "loc": "L140",
+      "char_range": [3711, 3938]
+    },
+    {
+      "id": 13,
+      "actor": "Caius（先给许可）",
+      "action": "打蛋入碗时对 Callie 说「你要是想去就去」，反问「你喜欢她吧」",
+      "quote_anchor": "‘Go, if you want to,’ Caius said as he cracked an egg into a bowl. ‘You like her, right?’",
+      "loc": "L143",
+      "char_range": [3941, 4031]
+    },
+    {
+      "id": 14,
+      "actor": "Callie（给理由）",
+      "action": "说 Tabs 人不错，而且在时尚界工作「以后可能有用」，自称「唯利是图，我知道」",
+      "quote_anchor": "‘Yeah, she’s nice. Plus she works in fashion so she may be useful at some point. Mercenary, I know.’",
+      "loc": "L146",
+      "char_range": [4033, 4133]
+    },
+    {
+      "id": 15,
+      "actor": "Caius（替她做决定）",
+      "action": "一边搅蛋下锅一边说「你看吧」，心里想 Callie 听到 Arthur Hampton 的零星行踪也许不坏，最后说「去见她吧」——本章节尾的决定",
+      "quote_anchor": "‘There you go,’ Caius said, whisking the eggs together and adding them to the pan. It might not be the worst thing if Callie heard the odd account of Arthur Hampton’s goings-on. ‘Meet up with her.’",
+      "loc": "L149",
+      "char_range": [4136, 4333]
+    }
+  ],
+
+  "characters": [
+    {"name": "Callie", "role": "女主人；正在怀孕；画速写/肖像的人（有自己的 sketchbook）", "evidence": "L20, L53, L56, L98, L110"},
+    {"name": "Caius", "role": "Callie 的伴侣；是执法者（抓过人、认识切尔西球员）；在家做煎蛋卷", "evidence": "L23, L53, L77, L104, L149"},
+    {"name": "Georgie", "role": "Caius 建议 Callie 去找的人，本章只被提到一次", "evidence": "L59"},
+    {"name": "Eulalia", "role": "Callie 想画肖像的对象，本章只被提到一次", "evidence": "L56"},
+    {"name": "Tabitha (Tabs)", "role": "Callie 的旧圈子朋友，做造型师/时装相关工作；邀咖啡；消息里提到 Callie 的前任", "evidence": "L128, L130, L135, L140"},
+    {"name": "Arthur Hampton", "role": "Caius 认为 Callie 可能听到其行踪的人（只出现在叙述层）", "evidence": "L149"},
+    {"name": "Max", "role": "被明确列入「要避开的名字」的人（baby Max）；与 Callie 口中 2011 年那场「很糟糕的三周」是否同一人，本章未点明", "evidence": "L83, L86"},
+    {"name": "Callie 的前任", "role": "Tabs 消息中「your ex」；未具名", "evidence": "L135"},
+    {"name": "Charles / Charlie", "role": "Caius 自己偏好的名字", "evidence": "L83"}
+  ],
+
+  "relations": [
+    "Callie 与 Caius 是伴侣同居，即将为人父母；Caius 说自己意外让她怀孕（L110）",
+    "Caius 是执法者（L77 people I’ve arrested）",
+    "Callie 是画肖像/速写的艺术家；Caius 建议她去找 Georgie（L59）",
+    "Eulalia 是 Callie 想画肖像的对象；本章未出现会面情节",
+    "Tabitha 与 Callie 是旧圈子朋友；Tabitha 做造型师工作、在找新设计师；她提到 Callie 的前任",
+    "Caius 希望 Callie 见 Tabs，动机是可能听到 Arthur Hampton 的行踪（L149）",
+    "Callie 与 Tabs 见面与否＝本章节尾的落点"
+  ],
+
+  "numbers_dates_verbatim": [
+    {"text": "the twelve-week scan", "loc": "L26"},
+    {"text": "most miscarriages happen earlier than that", "loc": "L26"},
+    {"text": "an appointment with the community midwife on Thursday", "loc": "L38"},
+    {"text": "Ham, mushrooms, onion, cheese", "loc": "L47"},
+    {"text": "a whole multipack of mythical animal meat in the freezer from Costco", "loc": "L53"},
+    {"text": "a sort of Renaissance-era portrait of Eulalia", "loc": "L56"},
+    {"text": "baby Max", "loc": "L83"},
+    {"text": "the name Charles. It’s solid. You can shorten it to Charlie", "loc": "L83"},
+    {"text": "That had been a terrible three weeks in 2011.", "loc": "L86"},
+    {"text": "six fingers", "loc": "L125"},
+    {"text": "18.13", "loc": "L130"},
+    {"text": "Chelsea", "loc": "L77 / L135"},
+    {"text": "your ex illustrated your point very well", "loc": "L135"},
+    {"text": "Meet up with her.", "loc": "L149"}
+  ],
+
+  "suread_notes": [
+    "本章文本自始至终没有出现「要不要去见 Eulalia」这一议题的讨论：Eulalia 只在 L56 作为「想画肖像的对象」被提到一次（Callie 提出，Caius 回『你该去找 Georgie』）。",
+    "本章末尾真正被决定的事是 Callie 要不要去见 Tabitha：Callie 先犹豫（L140）→ Caius 先给许可（L143）→ Callie 自己给理由（L146）→ Caius 最后拍板（L149）。",
+    "源文件里可见的分节标题只有『Caius and Callie’s Flat』(L17) 与『Tabs』(L128)，另有章节号残留『20』(L1, L12)；文本内未出现『TUESDAY IN MAY』字样。",
+    "文本中未见 Callie 直接说要见 Eulalia，也没有决定要去找 Georgie。",
+    "章节内未出现任何夫妻/婚姻表述（Caius 以『I did accidentally knock you up』自陈；Callie 的『ex』指往前任，不是配偶）。"
+  ],
+
+  "cross_check_after_R1": [
+    "本次 R1 结束后才读 md；md 正文里的『丈夫/妻子/婚姻』『在床上告诉凯厄斯自己怀孕了』『去见她被包装』三处，与本盲读结论冲突（详见 3-diff.md 编-1/编-2/编-3）。",
+    "本次 R1 结束后才读 md；md 文件名『callie agrees to meet eulalia』与盲读结论冲突（详见 3-diff.md 编-4）。",
+    "跨章取证（本次审查补做，非盲读内容）：text/ch27_27.txt:98 与 :100 明确『He is your boyfriend, you’re not engaged, right?’ / ‘I refer to him as my “paramour” and he refers to me as his “missus”.’"
+  ]
+}

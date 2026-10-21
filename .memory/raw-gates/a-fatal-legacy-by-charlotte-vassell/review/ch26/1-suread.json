@@ -1,0 +1,171 @@
+{
+  "chapter": "ch26",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch26_26.txt",
+  "source_chars": 2331,
+  "source_lines": 78,
+  "read_order": "仅读 text/ch26_26.txt（未开 md）",
+  "sections_in_source": ["The Police Station"],
+  "events": [
+    {
+      "id": "E1",
+      "chars": [41, 154],
+      "lines": "20",
+      "who": "Matt",
+      "what": "从 Harrogate 回来的路上快速买了一盒司康饼，称之为『These are fat rascals』（胖 rascals）。",
+      "verbatim": "‘These are fat rascals,’ Matt said, opening the box of scones he’d quickly purchased on his way out of Harrogate."
+    },
+    {
+      "id": "E2",
+      "chars": [157, 244],
+      "lines": "23",
+      "who": "Amy",
+      "what": "拿起一块司康，咬掉它『big, fat head』，说『They’re so cute』。",
+      "verbatim": "‘They’re so cute,’ Amy said, picking one up and taking a bite out of its big, fat head."
+    },
+    {
+      "id": "E3",
+      "chars": [247, 391],
+      "lines": "26",
+      "who": "Caius",
+      "what": "问『How was Harrogate?』；先给 Matt 和 Amy 各放一杯茶，然后端着自己的茶坐到 break room 桌边。",
+      "verbatim": "‘How was Harrogate?’ Caius asked. He placed a cup of tea in front of Matt and Amy each before sitting down at the break room table with his own."
+    },
+    {
+      "id": "E4",
+      "chars": [394, 551],
+      "lines": "29",
+      "who": "Matt",
+      "what": "说 Harrogate『Delightful』；夏天想带 Yumi 去休假；气候不同、更凉快，但明显看到穿短裤的男人比这里多。",
+      "verbatim": "‘Delightful. Might take Yumi for a break in the summer. The climate was different, cooler, and yet I definitely saw a lot more men in shorts than down here.’"
+    },
+    {
+      "id": "E5",
+      "chars": [554, 690],
+      "lines": "32",
+      "who": "Caius",
+      "what": "说『I love Yorkshire. I went to uni up there.』（他在约克大学读过书）；同时取下自己那块司康的一只『眼睛』塞进嘴里；说『The tea’s shit though.』。",
+      "verbatim": "‘I love Yorkshire. I went to uni up there.’ Caius took one of his fat rascal’s eyes and popped it in his mouth. ‘The tea’s shit though.’"
+    },
+    {
+      "id": "E6",
+      "chars": [693, 862],
+      "lines": "35, 38",
+      "who": "Matt / Caius",
+      "what": "Matt 说『That’s tantamount to treason against God’s own country』；Caius 说他们永远不会知道他说过，并叫 Matt、Amy 这两个南方『Jessies』不敢告发。",
+      "verbatim": "‘That’s tantamount to treason against God’s own country,’ Matt said. / ‘They’ll never know I said it. Neither of you southern Jessies would dare rat me out,’ Caius said."
+    },
+    {
+      "id": "E7",
+      "chars": [867, 872],
+      "lines": "43",
+      "who": "叙述",
+      "what": "场景分隔符 `* * *`。",
+      "verbatim": "* * *"
+    },
+    {
+      "id": "E8",
+      "chars": [877, 1000],
+      "lines": "48",
+      "who": "Matt",
+      "what": "抬头看为 Scott Brown 谋杀案新出现的白板，问『So she’s what, some sort of black widow?』。",
+      "verbatim": "Matt looked up at the new whiteboard that had appeared for Scott Brown’s murder. ‘So she’s what, some sort of black widow?’"
+    },
+    {
+      "id": "E9",
+      "chars": [1003, 1056],
+      "lines": "51",
+      "who": "Caius",
+      "what": "说『I can see the Daily Mail headlines now』。",
+      "verbatim": "‘I can see the Daily Mail headlines now,’ Caius said."
+    },
+    {
+      "id": "E10",
+      "chars": [1059, 1253],
+      "lines": "54",
+      "who": "Amy",
+      "what": "说 Tumblr 上所有 girly edgelords 会激动疯，想着很快会有人在 Etsy 上卖周边；又说至少不会再有人拿 Matt 的脸做 meme 分享。",
+      "verbatim": "‘And all the girly edgelords on Tumblr will lose it,’ Amy said, wondering how long before someone would be selling merch on Etsy. ‘At least no one will be sharing memes with your face on, mate.’"
+    },
+    {
+      "id": "E11",
+      "chars": [1256, 1333],
+      "lines": "57, 60, 63",
+      "who": "Matt / Amy / Matt",
+      "what": "Matt 问『Is that still going on?』；Amy 答『No, you were a flash in the pan.』；Matt 说『Thank God.』。",
+      "verbatim": "‘Is that still going on?’ / ‘No, you were a flash in the pan.’ / ‘Thank God.’"
+    },
+    {
+      "id": "E12",
+      "chars": [1336, 1386],
+      "lines": "66",
+      "who": "Matt",
+      "what": "问『Do you think they’re a spree killer?』。",
+      "verbatim": "‘Do you think they’re a spree killer?’ Matt asked."
+    },
+    {
+      "id": "E13",
+      "chars": [1389, 1706],
+      "lines": "69",
+      "who": "Caius",
+      "what": "答『No』（虽犹豫）；Digby 的谋杀是彻底计划好的，动机非常私人但晦涩；Scott 被杀是因为任何有点脑子的人都会想到警方会找到 Scott 在 Post Office 的录像；一旦找到他，Scott 就能指认对方。",
+      "verbatim": "‘No,’ Caius said, although he hesitated. ‘Digby’s murder was thoroughly planned with a very personal, if not opaque motive. Scott was killed because, well because anyone with half a brain would realise that we would find the footage of Scott at the Post Office. Once we’d found him, Scott could easily identify them.’"
+    },
+    {
+      "id": "E14",
+      "chars": [1709, 1781],
+      "lines": "72",
+      "who": "Amy",
+      "what": "问『Why did he help? Do you think he knew he was an accomplice?』（她指 Scott 帮忙）。",
+      "verbatim": "‘Why did he help? Do you think he knew he was an accomplice?’ Amy asked."
+    },
+    {
+      "id": "E15",
+      "chars": [1784, 1906],
+      "lines": "75",
+      "who": "Matt",
+      "what": "答『I doubt it』；那是一场交易——他送那些信是为了在对方（她）面前邀功。",
+      "verbatim": "‘I doubt it,’ Matt said, staring at the board. ‘It was transactional. He was taking the letters to get in her good books.’"
+    },
+    {
+      "id": "E16",
+      "chars": [1909, 2330],
+      "lines": "78",
+      "who": "Caius（并分配任务）",
+      "what": "接了『Also known as her knickers.』（接 Matt 那句 good books 的调侃）；桌上的座机响，他接电话说『All right. Thank you.』；随后转述：Uniform（制服警察）已从 bakery 取走了『his new starter forms』（Scott 的新入职表格），他们有了他给 uniform 的母亲的联系方式，他来跟进；让 Matt 把 The Purple Toad 的员工带来，Scott 可能谈起过他的约会对象；让 Amy 追查他的电子设备去向；结语『It’s going to be a long night.』。",
+      "verbatim": "‘Also known as her knickers.’ Caius’s desk phone rang. ‘All right. Thank you.’ He put the receiver down. ‘Uniform have collected his new starter forms from the bakery. We’ve got contact details for his mum that he gave to them. I’ll deal with that. Matt, get the staff from The Purple Toad in. Scott might have talked about his date. Amy, please chase up where his electronics have got to. It’s going to be a long night.’"
+    }
+  ],
+  "relations": [
+    {"pair": "Matt / Caius / Amy", "rel": "同一间 break room 的三名同事；Caius 派活，Matt 与 Amy 各领一项"},
+    {"pair": "Matt / Yumi", "rel": "Matt 打算夏天带 Yumi 去 Harrogate 休假"},
+    {"pair": "Caius / Yorkshire", "rel": "Caius 曾在约克（uni）读书，自称爱约克"},
+    {"pair": "Matt / Amy / Caius", "rel": "被 Caius 称作 southern Jessies（南方人）"},
+    {"pair": "Matt / Scott Brown", "rel": "Matt 曾是被人拿脸做 meme 的对象（流行的过去），与本案死者无关"},
+    {"pair": "Scott Brown / 凶手（『she』/『they』）", "rel": "Scott 是目击者/可能的帮凶，会指认凶手，故被灭口"},
+    {"pair": "Scott Brown / Digby", "rel": "Digby 是更早的被害者；Scott 曾替凶手送（带）信"},
+    {"pair": "Scott Brown / Post Office", "rel": "警方在 Post Office 找到 Scott 的录像"},
+    {"pair": "Scott Brown / bakery", "rel": "Scott 在 bakery 工作（新 starter forms、uniform 收集其入职表格）"},
+    {"pair": "Scott Brown / mum", "rel": "Scott 给了 uniform 他母亲的联系方式"},
+    {"pair": "Scott Brown / The Purple Toad", "rel": "Scott 在 The Purple Toad 有一个约会（date）"},
+    {"pair": "Caius / Uniform", "rel": "uniform 协助取证（取表单、给联系人信息）"}
+  ],
+  "numbers_and_dates": {
+    "verbatims": [
+      "‘These are fat rascals,’ Matt said, opening the box of scones he’d quickly purchased on his way out of Harrogate. (chars 41-154, line 20)",
+      "‘I love Yorkshire. I went to uni up there.’ Caius took one of his fat rascal’s eyes and popped it in his mouth. (chars 554-690, line 32) — 『one of his fat rascal’s eyes』为逐字『one』",
+      "‘Do you think they’re a spree killer?’ Matt asked. (chars 1336-1386, line 66) — 无数字",
+      "‘anybody with half a brain’ 实为『anyone with half a brain would realise』 (chars 1389-1706, line 69) — 『half a brain』为逐字"
+    ],
+    "dates": "本章正文内无任何日期字样；无 ‘Wednesday’、无 ‘May’。仅有章节号 26（chars 0-2, line 1；chars 110-112, line 12）与场景分隔符 `* * *`（chars 867-872, line 43）。",
+    "counts": {
+      "章节号出现次数": 2,
+      "场景分隔符": 1,
+      "有名有姓的人物": ["Matt", "Amy", "Caius", "Yumi", "Scott Brown", "Digby"],
+      "提及的机构/地点": ["Harrogate", "Yorkshire", "Post Office", "The Purple Toad", "bakery", "Etsy", "Tumblr", "Daily Mail"]
+    }
+  },
+  "suread_notes": [
+    "本章正文只有一个场景：The Police Station（break room）。共 78 行、2331 字符。",
+    "结尾三句分工是本章的落点：Matt 查 The Purple Toad 的人；Amy 查电子设备；Caius 自己处理 Scott 母亲联系方式。"
+  ]
+}

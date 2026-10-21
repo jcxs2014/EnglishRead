@@ -1,0 +1,443 @@
+{
+  "meta": {
+    "chapter": "ch24",
+    "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch24_24.txt",
+    "source_total_chars": 7942,
+    "title": "24",
+    "section_heading": "Priory Square",
+    "read_order": "纯读 text/ch24_24.txt，未开 md、未看别章 md、未凭记忆",
+    "offsets": "字符区间为该 .txt 文件的字符下标 [start, end)，行号为 1-based 物理行"
+  },
+  "events": [
+    {
+      "id": "E1",
+      "who": "Caius",
+      "did": "第三次按 Benedict Carr-Ridge 市宅的门铃，试着往窗户里看（窗玻璃多年没擦，栏杆做成矛形挡住他探身），又按了第四次门铃",
+      "chars": [
+        36,
+        290
+      ],
+      "lines": "20",
+      "verbatim": "For the third time Caius rang the doorbell of Benedict Carr-Ridge’s town house. He tried to peer into the windows but they hadn’t been cleaned in years and the railings shaped like spears stopped him from leaning further round. He rang for a fourth time."
+    },
+    {
+      "id": "E2",
+      "who": "Caius / Benedict",
+      "did": "Caius 自报书名『Benedict Carr-Ridge. The Pursuit of Hostility.』（书终于到手）；Benedict 砰地把门关上",
+      "chars": [
+        294,
+        428
+      ],
+      "lines": "23,26,29",
+      "verbatim": "‘What the fuck do you want?’ / ‘Benedict Carr-Ridge. The Pursuit of Hostility.’ It had finally come to him. / He slammed the door shut."
+    },
+    {
+      "id": "E3",
+      "who": "Caius / Benedict",
+      "did": "Caius 再按门铃；Benedict 从信箱口看他，问『Did my editor send you?』，并说『It’s been thirty years; they should’ve just sunk the cost of the advance by now.』",
+      "chars": [
+        432,
+        647
+      ],
+      "lines": "32,35",
+      "verbatim": "‘Did my editor send you?’ He looked through the letterbox at Caius with his smudged, horn-rimmed glasses. Yes, the bastard looked literary enough. ‘It’s been thirty years; they should’ve just sunk the cost of the advance by now.’"
+    },
+    {
+      "id": "E4",
+      "who": "Caius / Benedict",
+      "did": "Caius 表明身份『DI Caius Beauchamp』并说来查入室盗窃案；Benedict 开门叫他进去，说『I am important』",
+      "chars": [
+        697,
+        900
+      ],
+      "lines": "38,41",
+      "verbatim": "‘DI Caius Beauchamp. I’m here about the break-in.’ / ‘Oh, a DI.’ He swung the door open to reveal himself standing with his arms aloft beckoning him in. ‘I am important. Oh and a detective who reads quality literature. Well, I never. I suppose you may enter.’"
+    },
+    {
+      "id": "E5",
+      "who": "Caius / Benedict",
+      "did": "Caius 跟进走廊；书架贴着墙，Benedict 走过时一堆书晃倒，twelve hardbacks 掉在 Caius 面前；Benedict 让他跨过去，带进更多书的房间，自己瘫在贵妃椅上，问『So, you’ve read my novel?』",
+      "chars": [
+        901,
+        1210
+      ],
+      "lines": "44,47",
+      "verbatim": "Stacks of books clung to the wall. One wobbled as Benedict walked past and a pile of twelve hardbacks fell in front of Caius. / ‘Just step over them,’ Benedict said, turning into a room filled with even more books. He flopped onto a chaise longue. ‘So, you’ve read my novel?’"
+    },
+    {
+      "id": "E6",
+      "who": "Caius",
+      "did": "Caius 谎称读过（『I have.』），实际没读；他那本平装本是几年前在 Oxfam 二手书店花 £1 买的，一直没读；随后支吾着答『It was …』，坐进破扶手椅、深呼吸、装出沉思样子",
+      "chars": [
+        1211,
+        1863
+      ],
+      "lines": "50,56",
+      "verbatim": "‘I have.’ Caius hadn’t but he nodded enthusiastically all the same. He had a paperback copy he’d bought for £1 from an Oxfam bookshop a couple of years ago lying around the flat somewhere, but he’d never got round to actually reading it. / ‘Well …’ Caius, still nodding although now he was doing it in a more thoughtful manner, grasped for any vague snippet he knew about Benedict and the book. … ‘It was …’ he fumbled. Instead of saying anything, he sat down in a battered armchair, took a deep breath and looked pensive."
+    },
+    {
+      "id": "E7",
+      "who": "Benedict / Caius",
+      "did": "Benedict 自夸『first-class minds』；『Fuck Martin Amis!』——这场结束他文学事业的骂战又回到他脑子里；他要威士忌，Caius 以『On duty』推掉，Benedict 自己倒了一杯",
+      "chars": [
+        1864,
+        2400
+      ],
+      "lines": "59,62,65,68,71",
+      "verbatim": "‘Yes. It often has that effect on first-class minds.’ / ‘Fuck Martin Amis!’ The literary spat that ended Benedict’s career came back to him. / ‘Attaboy. Whisky?’ … / ‘On duty, I’m afraid.’ He raised a hand to stop Benedict from pouring one anyway. … Benedict rooted around for a bottle of whisky and poured himself a healthy glass."
+    },
+    {
+      "id": "E8",
+      "who": "Benedict",
+      "did": "Benedict 讲述入室案当晚：喝了几杯（不比平常多），在椅子里睡着（正是 Caius 现在坐的那把），惊醒时黑暗中有一张白得像死亡女神的脸，看不清长相，对方逃了；他又睡回去，想着不知怎么今夜的杜松子酒不对劲",
+      "chars": [
+        2395,
+        2882
+      ],
+      "lines": "74,77",
+      "verbatim": "‘I’ve actually come to ask you about the break-in you had recently.’ / ‘I’m not going to lie, I’d had a few. No more than my usual few, mind you. My normal few. I fell asleep in my chair. The very one you’re sat in now. I woke with a start and there peering out at me was a face in the dark, white like death herself. I couldn’t tell you what they looked like. I gave a start, as well as one might, but they fled. I fell asleep again thinking that unusually the gin hadn’t agreed with me.’"
+    },
+    {
+      "id": "E9",
+      "who": "Benedict",
+      "did": "Benedict 描述早晨：后门大开；他平常总忘记锁门，但不会留成那样；不构成定论；门在晃，地下室的门也在晃；他说自己从不下去那儿，那地方让他 depresses me too much",
+      "chars": [
+        2883,
+        3242
+      ],
+      "lines": "80,83",
+      "verbatim": "‘Well here’s the thing. I woke up in the morning and my back door was wide open. I forget to lock the damn thing all the time but I wouldn’t leave it like that. Not conclusive, I know, but it was flapping about and so was the door to my basement. I never go down there. It depresses me too much.’"
+    },
+    {
+      "id": "E10",
+      "who": "Benedict / Caius",
+      "did": "Benedict 说地下室过去是有仆人时的食品储藏室和厨房，现在只是 makeshift library；Caius 请求下去看，Benedict 答应，开灯下楼，手里还端着酒",
+      "chars": [
+        3243,
+        3600
+      ],
+      "lines": "86,89,92,95",
+      "verbatim": "‘It used to be the pantry and the kitchen when the house had servants, but now it really is just a makeshift library.’ / ‘May I?’ Caius asked, standing up. / ‘Of course you may.’ Benedict stood and ambled over to the staircase. He turned the light on and started down the stairs. He was still holding his drink. ‘It’s quite a large space as you can imagine, but as a noted man of letters one cannot have too many books and the buggers need to go somewhere. I’ve read them all down here, but I can’t quite seem to let them go. I always said that I’d read one more book and then I’d get editing. But then there’s always something else to read. Other people keep writing bloody books. Some of them are even passable.’"
+    },
+    {
+      "id": "E11",
+      "who": "Caius / Benedict",
+      "did": "Caius 环视四周，判定『That much paper was highly flammable』，问想进来的那个冒牌窃贼是否下过地下室；Benedict 答『Yes, like I said, the basement door was open. I haven’t been down here in a while.』",
+      "chars": [
+        3900,
+        4180
+      ],
+      "lines": "98,101",
+      "verbatim": "Caius stared around the space. That much paper was highly flammable. ‘You think the wannabe burglar came down here?’ / ‘Yes, like I said, the basement door was open. I haven’t been down here in a while.’"
+    },
+    {
+      "id": "E12",
+      "who": "Caius",
+      "did": "Caius 注意到墙上剥漆露出的痕迹，看着像五芒星；心想也许 Matt 是对的、Camden 的哥特人真的牵涉进 Priory Square 正在发生的事",
+      "chars": [
+        4250,
+        4400
+      ],
+      "lines": "104",
+      "verbatim": "‘What’s that?’ Caius asked, looking at a mark on the wall revealed by a layer of paint peeling away. It looked to him like a pentagram. Maybe Matt was right and the goths of Camden were really involved in whatever was going on in Priory Square."
+    },
+    {
+      "id": "E13",
+      "who": "Benedict / Caius",
+      "did": "Benedict 说这个广场有历史，Caius 回『It’s London, show me a road that doesn’t.』；Benedict 回敬『Touché』，并承认自己从没对一个 flatfoot 好感起来过",
+      "chars": [
+        4401,
+        4580
+      ],
+      "lines": "107,110,113",
+      "verbatim": "‘Oh that, ha. This square has a history, you know.’ / ‘It’s London, show me a road that doesn’t.’ / ‘Touché.’ Benedict smiled. He’d never warmed up to a flatfoot before."
+    },
+    {
+      "id": "E14",
+      "who": "Benedict",
+      "did": "Benedict 讲 Priory Square 得名于建在修道院旧址上；修女们待到亨利八世自封教会之首；土地后来被 parcel off 给一位忠臣朝臣，其后代至今还持有他那 leasehold",
+      "chars": [
+        4583,
+        4842
+      ],
+      "lines": "113",
+      "verbatim": "‘Priory Square is so named because it is built on the site of, well, a priory. Lots of nuns nunning about until Henry VIII declared himself head of the church. The land was then parcelled off to a loyal courtier. His descendants still own my fucking leasehold.’"
+    },
+    {
+      "id": "E15",
+      "who": "Benedict",
+      "did": "Benedict 说广场中央那座怪物雕像是一群 unwashed, hairy feminists 在 1970s 立的，纪念被烧死的疯女人；Caius 提到 Covent Garden；Benedict 说疯女人是看见异象的修女，可能 schizophrenic，成人精神病发作多伴宗教 mania，他为此读过一本小说、很丧气、还得了该死的 Booker",
+      "chars": [
+        4847,
+        5420
+      ],
+      "lines": "116,119,122,125",
+      "verbatim": "‘Far more exciting than that. No one was ever burnt alive in the middle of Covent Garden for being a witch, were they? Go and have a look at the monstrous statue in the middle of the square. A horde of unwashed, hairy feminists erected it in the 1970s in homage to the madwoman they executed.’ / ‘Oh some nun who had visions. Poor thing was probably a schizophrenic. Most onsets of psychosis in adults are accompanied with religious mania. I read a novel about it once. It was a dirge. Of course it won the fucking Booker.’"
+    },
+    {
+      "id": "E16",
+      "who": "Benedict",
+      "did": "Caius 追问五芒星与广场历史有何关系；Benedict 说 1973 年他买下这栋房子时那位老太太告诉过他，她母亲告诉她，在他们家之前住这儿的 lady 曾在这下面做过 seances；维多利亚时代的人迷这种招魂术；他想过把它写成小说但一直没做",
+      "chars": [
+        5421,
+        5800
+      ],
+      "lines": "128,131",
+      "verbatim": "‘What has that got to do with the pentagram on the wall?’ / ‘Well, I was told by the old lady I bought the house off in 1973 that her mother had told her that the lady who lived here before their family did, had performed seances down here. The Victorians were mad for all that spiritualist nonsense. I’ve thought about turning that into a novel too, but alas I’ve never got round to it.’"
+    },
+    {
+      "id": "E17",
+      "who": "Caius / Benedict",
+      "did": "Caius 受够了旧书味道与地下室缺氧，爬回楼梯顶，问『You’re not missing anything, are you?』；Benedict 环顾一圈后耸肩答『No, not that I’ve noticed.』",
+      "chars": [
+        5801,
+        6090
+      ],
+      "lines": "134,137",
+      "verbatim": "‘You’re not missing anything, are you?’ / ‘No, not that I’ve noticed.’ Benedict turned around, taking in the space before shrugging at Caius."
+    },
+    {
+      "id": "E18",
+      "who": "Caius / Benedict",
+      "did": "Caius 问是否少了手稿，想起他们还没见到 Digby 那份传说中的『Apologia』；Benedict 说这里只有三十年的手稿、只有一个生涯，那些没被偷走，是 Martin fucking Amis 抢走的；他朝门挥手致谢",
+      "chars": [
+        6091,
+        6420
+      ],
+      "lines": "140,143",
+      "verbatim": "‘A manuscript perhaps?’ Caius remembered that they hadn’t yet come across Digby’s fabled ‘Apologia’, if indeed it existed. / ‘Only thirty years’ worth of manuscripts. Only a career. They didn’t steal that from me. Martin fucking Amis did.’ He gestured towards the door."
+    },
+    {
+      "id": "E19",
+      "who": "Caius / Benedict",
+      "did": "Caius 嘱咐他好好锁门、给名片、再有陌生人打 999、想起什么就打给他；Caius 会派人来提取后门和地下室门的指纹，再取 Benedict 自己的指纹比对；Benedict 捏着名片翻看",
+      "chars": [
+        6421,
+        6800
+      ],
+      "lines": "146,149",
+      "verbatim": "‘Lock your doors properly,’ Caius said, handing him his card. ‘Call 999 if you have another uninvited guest and call me if you remember anything else. I’ll send someone round to take fingerprints from the back door and the door to your basement, and then we’ll take your own so we can compare them.’ / Benedict read over the card, turning it in his hand."
+    },
+    {
+      "id": "E20",
+      "who": "Caius / Benedict",
+      "did": "Caius 走下台阶到街上，回头说『Fuck Martin Amis. One article in the LRB shouldn’t ruin a man’s career.』并让 Benedict 把抽屉里所有手稿寄给编辑，总有一本能出版；Benedict 说自己有一本关于麻风病人的，能进 longlist，还能加一对贫困的印度姐妹",
+      "chars": [
+        6801,
+        7320
+      ],
+      "lines": "152,155",
+      "verbatim": "‘Oh, and I meant it. Fuck Martin Amis. One article in the LRB shouldn’t ruin a man’s career. Send your editor all those manuscripts in the drawer. One of them will be publishable at least.’ / ‘I’ve got one about lepers, actually. That should get me onto the longlist of something. Everyone loves a good leper story,’ Benedict said, waving off Caius. ‘I could add in a pair of impoverished Indian sisters.’"
+    },
+    {
+      "id": "E21",
+      "who": "Caius",
+      "did": "Caius 没直接回车里，走进广场中央的花园，在 Benedict 提过的纪念碑前的长椅坐下；雕塑家放弃具象雕像，做了一个 amorphous globule；他读了底座铭牌",
+      "chars": [
+        7321,
+        7620
+      ],
+      "lines": "158",
+      "verbatim": "Instead of getting straight back in his car, Caius walked into the garden in the middle of the square. He sat down on a bench in front of the memorial that Benedict had mentioned. The sculptor had decided against a figurative statue, instead creating an amorphous globule. He read the plaque attached to the base of the sculpture."
+    },
+    {
+      "id": "E22",
+      "who": "Caius",
+      "did": "Caius 读铭牌；铭牌为『In memoriam / For Alice and all the other women / philosophers that we lost to the flames』；基座上有人放了一束 chequered fritillaria，Caius 只因为 Callie 曾指给他看过才知道那是贝母属（Regent's Park 一次周日上午散步时）",
+      "chars": [
+        7621,
+        7942
+      ],
+      "lines": "168,169,171,173,183",
+      "verbatim": "In memoriam / For Alice and all the other women / philosophers that we lost to the flames / A bunch of chequered fritillaria had been left at the base. He only knew they were fritillaria because Callie had pointed them out at some point during a Sunday morning stroll around Regent’s Park."
+    }
+  ],
+  "relationships": [
+    {
+      "pair": "Caius Beauchamp ↔ Benedict Carr-Ridge",
+      "relation": "DI Caius Beauchamp（警探，第二次与本案相关登门，实为第三次按门铃）上门查 Benedict 住宅入室盗窃案；Benedict 起初拒之门外，后因听说对方是 DI 且读「quality literature」而开门放行；两人是调查者与受害报案人关系"
+    },
+    {
+      "pair": "Caius ↔ Benedict（读小说一节）",
+      "relation": "Caius 谎称读过 Benedict 的小说《The Pursuit of Hostility》，实际只有一本 £1 从 Oxfam 买的平装书且从未读"
+    },
+    {
+      "pair": "Benedict ↔ Martin Amis",
+      "relation": "对手/毁其生涯者：Benedict 被 Martin Amis 的那次文学骂战（one article in the LRB）毁掉生涯，多年后仍以「Fuck Martin Amis」发泄"
+    },
+    {
+      "pair": "Benedict ↔ 出版社编辑",
+      "relation": "Benedict 提到『Did my editor send you?』，与编辑有约三十年的旧账；Caius 让他把抽屉里的手稿都寄给编辑"
+    },
+    {
+      "pair": "Benedict ↔ 地产（地主）",
+      "relation": "他住的 Priory Square 房产是 leasehold（租赁产权），地权在亨利八世时代那位 loyal courtier 的后代手里"
+    },
+    {
+      "pair": "Benedict ↔ 房子原卖主（old lady）",
+      "relation": "1973 年他向一位老太太买下此房；她转述母亲的话，说在他们家之前住这里的 lady 曾在这地下室做过 seances"
+    },
+    {
+      "pair": "Benedict ↔ 修女（疯女人）",
+      "relation": "广场雕像纪念的『madwoman』，一位看见异象的修女，被烧死；Benedict 推测她可能 schizophrenic"
+    },
+    {
+      "pair": "Caius ↔ Matt",
+      "relation": "Caius 心想『Maybe Matt was right』——关于 Camden 哥特人一说，尚未证实"
+    },
+    {
+      "pair": "Caius ↔ Digby",
+      "relation": "Digby 有份传说中的『Apologia』，Caius 记得他们还没见到过（if indeed it existed）"
+    },
+    {
+      "pair": "Caius ↔ Callie",
+      "relation": "Callie 曾指给 Caius 看 chequered fritillaria（Regent's Park 周日上午散步时）"
+    },
+    {
+      "pair": "Caius ↔ 广场纪念碑",
+      "relation": "纪念碑铭牌纪念 Alice 与所有被火烧死的女性哲学家；与五芒星/招魂术传说同一街区"
+    }
+  ],
+  "numbers_and_dates": [
+    {
+      "item": "third time（第三次上门按铃）",
+      "chars": [
+        36,
+        54
+      ],
+      "line": "20",
+      "verbatim": "For the third time"
+    },
+    {
+      "item": "a fourth time（又按了第四次）",
+      "chars": [
+        264,
+        290
+      ],
+      "line": "20",
+      "verbatim": "He rang for a fourth time."
+    },
+    {
+      "item": "thirty years（与编辑的旧账时长）",
+      "chars": [
+        622,
+        634
+      ],
+      "line": "35",
+      "verbatim": "thirty years"
+    },
+    {
+      "item": "twelve hardbacks（倒下来的一堆精装书）",
+      "chars": [
+        1080,
+        1096
+      ],
+      "line": "44",
+      "verbatim": "twelve hardbacks"
+    },
+    {
+      "item": "£1（Oxfam 平装书价格）",
+      "chars": [
+        1381,
+        1383
+      ],
+      "line": "50",
+      "verbatim": "£1"
+    },
+    {
+      "item": "a couple of years ago（买书时间）",
+      "chars": [
+        1407,
+        1428
+      ],
+      "line": "50",
+      "verbatim": "a couple of years ago"
+    },
+    {
+      "item": "Henry VIII（亨利八世）",
+      "chars": [
+        4694,
+        4704
+      ],
+      "line": "113",
+      "verbatim": "Henry VIII"
+    },
+    {
+      "item": "1973（买下房子的年份）",
+      "chars": [
+        5530,
+        5534
+      ],
+      "line": "131",
+      "verbatim": "1973"
+    },
+    {
+      "item": "1970s（立雕像的年代）",
+      "chars": [
+        5116,
+        5121
+      ],
+      "line": "119",
+      "verbatim": "1970s"
+    },
+    {
+      "item": "Only thirty years' worth of manuscripts（手稿存量）",
+      "chars": [
+        6280,
+        6297
+      ],
+      "line": "143",
+      "verbatim": "Only thirty years"
+    },
+    {
+      "item": "999（报警电话）",
+      "chars": [
+        6531,
+        6534
+      ],
+      "line": "146",
+      "verbatim": "999"
+    },
+    {
+      "item": "one article in the LRB（毁掉生涯的那篇文章）",
+      "chars": [
+        6937,
+        6959
+      ],
+      "line": "152",
+      "verbatim": "One article in the LRB"
+    },
+    {
+      "item": "a pair of impoverished Indian sisters（可以加进小说的两个角色）",
+      "chars": [
+        7264,
+        7301
+      ],
+      "line": "155",
+      "verbatim": "a pair of impoverished Indian sisters"
+    },
+    {
+      "item": "Sunday morning（Callie 指认贝母属的那次散步）",
+      "chars": [
+        7898,
+        7912
+      ],
+      "line": "183",
+      "verbatim": "Sunday morning"
+    },
+    {
+      "item": "Regent's Park（那次散步的地点）",
+      "chars": [
+        7927,
+        7933
+      ],
+      "line": "183",
+      "verbatim": "Regent"
+    }
+  ],
+  "suspense_notes": [
+    "本章门铃敲了两次门（Caius 首次被拒；再按一次通过信箱口对话）后 Benedict 才开门。",
+    "地下室门与后门都『在晃』（flapping about）；Benedict 从不下去地下室。",
+    "全章没有任何人陈述『有人偷走了东西』：Benedict 说的是『Only thirty years' worth of manuscripts. Only a career. They didn't steal that from me.』；Caius 问『You're not missing anything, are you?』Benedict 答『No, not that I've noticed.』"
+  ]
+}

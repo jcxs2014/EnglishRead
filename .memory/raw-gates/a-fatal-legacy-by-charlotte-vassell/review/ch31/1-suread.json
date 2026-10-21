@@ -1,0 +1,165 @@
+{
+  "chapter": "ch31",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch31_31.txt",
+  "source_md5": "ad8aa838b3253c3214c5d5af6c74c5bc",
+  "source_total_chars": 9053,
+  "read_order_note": "本文件在打开任何 md 之前写定；仅读了 text/ch31_31.txt。",
+  "interval_convention": "字符区间 [start, end) 为 text/ch31_31.txt 的 0 基字符偏移（Python len(str) 计 unicode 码点）",
+  "events": [
+    {
+      "n": 1,
+      "who_did_what": "Matt 下车抬头看房，说了一句 “A safe and well check, huh”，并问「谁报的警」。",
+      "interval": [36, 229],
+      "verbatim_anchor": "‘A safe and well check, huh,’ Matt said, getting out of the car and looking up at the house. It was identical to all the others in the square and had the exact same layout. ‘Who alerted us?’"
+    },
+    {
+      "n": 2,
+      "who_did_what": "Caius 说是「一个粉丝」报的警；他一边开车一边读初步报告，把报告邮件发给 Amy，并请 Amy 去联系那个粉丝。死者是 Jimmy Jones，四十八岁，做过二千年代中期的深夜.panel 节目。",
+      "interval": [229, 689],
+      "verbatim_anchor": "‘A fan, apparently.’ Caius sat on the bonnet of the car reading the initial report that he’d received while he was driving over. He emailed it to Amy and asked her to get in touch with the fan. ‘Jimmy Jones, forty-eight years old. You may well remember him from mid-two-thousands late-night panel shows.’"
+    },
+    {
+      "n": 3,
+      "who_did_what": "Caius 上维基查 Jimmy Jones：当年那个在 Radio 2 直播里被要求「flap her minge」的女人是女王的 ladies-in-waiting 之一，当时九十四岁；Jimmy 现在给少数几个粉丝做「weird little livestreams」，已经四年没巡演。Jimmy 直播中镜头里出现了入侵者，他追出去后再没回来。",
+      "interval": [689, 1124],
+      "verbatim_anchor": "‘Not just any woman, she was one of the Queen Mother’s ladies-in-waiting. She was ninety-four at the time. Apparently, Jimmy is doing weird little livestreams for a handful of fans these days. Hasn’t toured in four years.’ He put his phone back in his pocket. ‘He was in the middle of a live-stream when an intruder was spotted on camera. He gave chase and never returned.’"
+    },
+    {
+      "n": 4,
+      "who_did_what": "Caius 说那位粉丝发现 Jimmy 今天早上八点还在直播，于是打了电话报警；旁人（观看直播的人）起初都以为只是节目效果。",
+      "interval": [1124, 1244],
+      "verbatim_anchor": "‘Yeah, but one concerned fan called it in when they realised that he was still livestreaming at 8 a.m. this morning.’"
+    },
+    {
+      "n": 5,
+      "who_did_what": "Caius 与 Matt 走上石阶（这是 Caius 这周第三次到这个广场）；中央花园的玉兰树挡住了 Institute 的视线，但他能判断出正对面；他能看到广场西侧中段的 Benedict Carr-Ridge 的房子；广场中央的 “feminist blob monument” 在灌木后闪光。他进屋后循声走到花园，说 “All right, Barry”。",
+      "interval": [1244, 2108],
+      "verbatim_anchor": "They walked up the stone steps – Caius’s third set that week on the square. … The feminist blob monument in the middle of the square gleamed through the shrubbery in the unrelenting sunshine. He stepped into the house and followed the sound of activity to the garden. ‘All right, Barry,’ he said."
+    },
+    {
+      "n": 6,
+      "who_did_what": "Barry 说他正蹲在「广场上最新发现的尸体」旁；一名法医技术员在给尸体的 T 恤 swabbing，另一名在拍周围环境照片。Barry 判断这起看起来像意外：可怜的家伙在 crumbling stone steps 上滑倒后撞上 iron railing 头；他指着裂成两半的中间一级台阶和 Jimmy 沾着同色灰尘的**左脚**球鞋；他说自己报告里会写得比这更详细，但目前没有 foul play 的证据。",
+      "interval": [2108, 2757],
+      "verbatim_anchor": "‘What is this case you’re working on?’ Barry asked, getting up from crouching over the latest body found in the square. A forensic technician was swabbing the corpse’s T-shirt as another took pictures of the surrounding area. … ‘This one looks like an accident. The poor guy simply hit his head on the iron railing after slipping on the crumbling stone steps.’ Barry pointed to the middle step which had split in half and then to Jimmy’s left trainer which was covered in dust the same colour. ‘I’ll obviously be a little more thorough than that in my report, but there’s no evidence of foul play.’"
+    },
+    {
+      "n": 7,
+      "who_did_what": "Caius 说「用你所有的拉丁文吧，Barry」，查看花园：铺地，几个空花盆，其中一个挨着花园椅、装满烟蒂；他检查后门——完好、关着但没锁，说「门上没什么安全性，你可以把手臂伸过去打开锁；也可能他只是开着门出去倒垃圾忘了锁」。",
+      "interval": [2757, 3248],
+      "verbatim_anchor": "‘Use all the Latin you need, Barry,’ Caius said, looking around the garden. … He inspected the back gate which was undamaged and closed but unlocked. ‘Not much security on the gate. You could pop your arm over and open the lock. Or he might have just left it open. Took the bins out and forgot to lock it.’"
+    },
+    {
+      "n": 8,
+      "who_did_what": "Matt 问是否与「前几天那起入室」有相似之处。Barry 说两次入侵很可能都是从后门进的；Benedict 醒来时地下室门和后门都敞着；这条巷子绕广场整个背面，把它们与后面的房子隔开；墙很高，所以从后面房子看不到有人经过；「这里不是切尔西，没有 mews」。",
+      "interval": [3248, 3605],
+      "verbatim_anchor": "‘In both incidents it would seem they probably entered in through the back. Benedict’s basement and back doors were wide open when he woke up. This alleyway runs around the back of the whole square, separating them from the houses behind. The wall is fairly high, so I doubt you’d see anyone passing from the houses. It’s not Chelsea. There are no mews.’"
+    },
+    {
+      "n": 9,
+      "who_did_what": "Matt 问有没有东西被偷。Caius 说房主——小说家 Benedict Carr-Ridge——觉得没有；但他（指 Benedict）说自己是喝醉了，所以证词不太可靠，可能只是产生幻觉。",
+      "interval": [3605, 3861],
+      "verbatim_anchor": "‘Was anything taken?’ … ‘The owner, the novelist Benedict Carr-Ridge, didn’t think so.’ Caius gave Matt the look. ‘He said he was drunk so his statement isn’t hugely reliable. He may just have been hallucinating.’"
+    },
+    {
+      "n": 10,
+      "who_did_what": "Caius 说 Institute 的后门当时也没锁，Digby 的自行车停在外头；然后他推开后门走进巷子：一边是高墙，挡住后面那些 squat 两层住宅俯视巷子；走到巷尾看主路，公交吞吐乘客、骑行者穿梭；他说「不少房子有摄像头，但全在花园里、朝自家门口，没人能看到巷子」。",
+      "interval": [3861, 4847],
+      "verbatim_anchor": "‘The back door at the Institute was unlocked too. Digby’s bike was out there. Do you think this is someone just trying their luck? …’ ‘No.’ Caius opened the gate and popped into the alleyway. A high wall ran alongside the other side, blocking the squat two-storey houses behind from overlooking it. … ‘Quite a few of the houses have cameras but they’re all within the gardens and pointed at their gates. No one has a visual of the alley.’"
+    },
+    {
+      "n": 11,
+      "who_did_what": "Caius 断言 Digby 与 Scott 肯定是同一个人所杀，「PO Box 的关联不可能是巧合」；但他紧接着说这两起入室**可能**是巧合——凶杀发生在另一个人同时盯上这个区域的时候。",
+      "interval": [4847, 5138],
+      "verbatim_anchor": "‘I don’t know. Digby and Scott were definitely killed by the same person. Had to be. The PO Box connection cannot be a coincidence.’ They walked back into Jimmy’s garden. ‘These two break-ins could be a coincidence. The murder happens at the same time someone else is targeting the area.’"
+    },
+    {
+      "n": 12,
+      "who_did_what": "Matt 走到 Jimmy 死掉的台阶旁，说 Jimmy 的死真的可能是意外：台阶维护不良，整栋房子 less chic, more shabby。",
+      "interval": [5138, 5407],
+      "verbatim_anchor": "‘Jimmy’s death really could have been accidental,’ Matt said, walking over to the steps where he died. ‘They were not well maintained. The whole house is less chic, more shabby.’"
+    },
+    {
+      "n": 13,
+      "who_did_what": "Caius 说 Benedict 也许是因为醉得厉害才保住一命（醉到认不出自己的倒影）；Jimmy 相反——如果他在直播，那肯定是清醒的，而且还有不知道多少观众在看；让 Matt 回去后查直播录像。",
+      "interval": [5407, 5724],
+      "verbatim_anchor": "‘He was drunk. Couldn’t identify his own reflection. Jimmy, on the other hand. We don’t know what state he was in yet, but if he was livestreaming I bet he was sober. Plus however many witnesses were watching. You should check the livestream when we get back.’"
+    },
+    {
+      "n": 14,
+      "who_did_what": "Caius 下到 Jimmy 的地下室：Jimmy 把原来的独立食品储藏间和煤储藏室拆掉，改成开放式厨房，中间放一座大岛台；风格过时；厨房台面上有制意面机。Caius 想起自己十几岁时从周五夜电视上认识 Jimmy，说他是「灌啤酒的浅薄文人」（那是他表演出来的人格）。",
+      "interval": [5724, 6522],
+      "verbatim_anchor": "Caius stopped in front of the door to the basement level. He went down the stairs. Unlike Benedict, Jimmy had renovated down there. … He’d removed the separate pantry and coal storage and turned the space into an open kitchen area with a large island right in the middle. The style was dated. … Caius remembered Jimmy from Friday-night TV in his teens. He was a lager-swilling dilettante, or at least that was the personality he performed, and yet Jimmy had a pasta machine on the kitchen side."
+    },
+    {
+      "n": 15,
+      "who_did_what": "Matt 指出 Caius 上楼时出现在镜头里，问直播是什么时候；Caius 查报告说直播是凌晨一点；Matt 说那凶手大概以为他睡着了。",
+      "interval": [6522, 6785],
+      "verbatim_anchor": "‘You were on camera coming up the stairs then,’ Matt said, turning around to Caius. … ‘What time was the livestream?’ Caius checked the report on his phone. ‘It was 1 a.m.’ ‘So the killer probably thought he’d be asleep.’"
+    },
+    {
+      "n": 16,
+      "who_did_what": "Caius 说凶手不可能是跟着他的社交媒体来的（那样就会看到他在直播）；他表示「Fake Isolde」是聪明的，而这件事感觉不聪明——她不知怎么偷走了真 Isolde 的人生故事，大概是为了拖慢他们；PO Box 是用随机卡买的，明细可能是从暗网买的，还用 Scott 以免在邮局的监控里露面；「而 Jimmy 死于一级破台阶」。",
+      "interval": [6785, 7438],
+      "verbatim_anchor": "‘They couldn’t be following him on social media. They’d have seen that he was on a live. Another thing to suggest a random burglary. An unfortunate accident. “Fake Isolde” is clever; this doesn’t feel clever. She stole real Isolde’s life story somehow – I guess to slow us down. We spent a day searching for her. The PO Box purchased with a random card that they probably bought the details of on the dark web, using Scott to avoid being seen on the CCTV at the Post Office – all very smart, and yet Jimmy died because of a dodgy step.’"
+    },
+    {
+      "n": 17,
+      "who_did_what": "Matt 从边桌上拿起一摞纸翻看，说看起来像 Jimmy 写了回忆录；Caius 说「又一本书，多文学的邻里」；Matt 说「他现在死了，说不定还卖得出去」。",
+      "interval": [7438, 7601],
+      "verbatim_anchor": "‘It looks like Jimmy wrote a memoir,’ Matt said, putting the papers back down. ‘Another book. What a literary neighbourhood.’ ‘It might sell now he’s dead.’"
+    },
+    {
+      "n": 18,
+      "who_did_what": "两人搜了楼上卧室：看起来没有东西失窃，柜子里没有空位，积灰没被动，抽屉没被翻出东西；厕所里一排古老喜剧奖杯有点惨，卷纸上还搁着一个 Perrier 奖杯；药柜里只有半包扑热息痛和一把镊子。他们等尸体被抬走时在门外交谈。",
+      "interval": [7601, 8205],
+      "verbatim_anchor": "Matt and Caius went upstairs and searched the bedrooms. Nothing appeared to be missing. No empty spots in cabinets or dust disturbed. Nothing pulled out of drawers. The collection of ancient comedy awards in the loo was kind of sad, there was a bog roll balanced on top of a Perrier award, but Caius ignored them and checked in the medicine cabinet for any prescriptions. He found nothing other than half a packet of paracetamol and a pair of tweezers."
+    },
+    {
+      "n": 19,
+      "who_did_what": "Matt 说这房子不错、只差刷漆，怀疑他怎么住得起；Caius 说 Jimmy 大概是在 finance bros 搬进来之前买的——那是 Kate Moss 和 Sienna Miller 超模 boho 的早期、Camden 的独立摇滚、Amy Winehouse 的年代、到处还有 squat；他说 Jimmy Jones 那时在 BBC 挣大钱，做过一个关于 stag dos 的旅行节目（他还想起那个「很欧洲垃圾」的深夜游戏节目，自己十四岁时熬夜看，第二天在数学课后面背台词）。最后他钻进车里说「『我的好时候』还没到——至少我他妈希望如此」，Matt 问「你的还是他的」，Caius 答「他的」。",
+      "interval": [8205, 9053],
+      "verbatim_anchor": "‘It’s a nice house. Needs a lick of paint. I’m not sure how he could afford to live in it,’ Matt said, staring up at the house. ‘He probably purchased it before the finance bros moved in … Besides, Jimmy Jones would’ve been on big money at the BBC then. He did a travel show, right? About stag dos or something. And that late-night game show. It was a bit eurotrashy. I remember staying up to watch that when I was fourteen …’ ‘When there were still goths in the market.’ ‘The good old days.’ ‘Yours or his?’ ‘His. Mine are yet to come,’ Caius said, getting into the car. ‘Or at least I bloody hope so.’"
+    }
+  ],
+  "character_relations": [
+    {"a": "Caius", "b": "Matt", "relation": "同行的办案搭档；Caius 主导提问与推理，Matt 现场质疑并检查房间"},
+    {"a": "Caius", "b": "Amy", "relation": "同事；Caius 把初步报告邮件发给 Amy，请 Amy 去联系报信的粉丝"},
+    {"a": "Caius / Matt", "b": "Barry", "relation": "Barry 是现场法医/CSI 一方，正在做尸体现场与书面报告"},
+    {"a": "Caius", "b": "Jimmy Jones", "relation": "Jimmy Jones 是本章死者（四十八岁，前 BBC 主持人/深夜节目艺人，现做小规模直播）"},
+    {"a": "Jimmy Jones", "b": "报信粉丝", "relation": "直播观众中发现他早上八点仍在直播的人，打电话报警"},
+    {"a": "Caius", "b": "Benedict Carr-Ridge", "relation": "广场西侧的小说家住户；前几天入室事件中受害者（当时醉酒，声称后门与地下室门敞开）"},
+    {"a": "Caius", "b": "Digby 与 Scott", "relation": "先前被杀两人；Caius 断言由同一人所杀，关联点是 PO Box"},
+    {"a": "Fake Isolde", "b": "真 Isolde", "relation": "Fake Isolde 偷走了真 Isolde 的人生故事，Caius 推测为拖慢调查"},
+    {"a": "Benedict 的房子 / Institute", "b": "广场与后巷", "relation": "两者中间由花园与高墙隔开；Institute 后门亦未上锁，Digby 的自行车停在外面"},
+    {"a": "Caius", "b": "Jimmy（少年时期）", "relation": "Caius 十几岁时在周五夜电视上认识 Jimmy，说他是「灌啤酒的浅薄文人」"}
+  ],
+  "numbers_and_dates_verbatim": [
+    {"item": "死者年龄", "verbatim": "Jimmy Jones, forty-eight years old"},
+    {"item": "职业时期", "verbatim": "mid-two-thousands late-night panel shows"},
+    {"item": "电台", "verbatim": "Radio 2"},
+    {"item": "当年那位女士年龄", "verbatim": "She was ninety-four at the time"},
+    {"item": "直播粉丝规模", "verbatim": "doing weird little livestreams for a handful of fans these days"},
+    {"item": "停巡演年数", "verbatim": "Hasn’t toured in four years"},
+    {"item": "报警时间参照", "verbatim": "still livestreaming at 8 a.m. this morning"},
+    {"item": "本周来广场次数", "verbatim": "Caius’s third set that week on the square"},
+    {"item": "前一次入室时间", "verbatim": "the break-in the other day"},
+    {"item": "直播开始时间", "verbatim": "It was 1 a.m."},
+    {"item": "Caius 十四岁", "verbatim": "staying up to watch that when I was fourteen"},
+    {"item": "台阶", "verbatim": "the middle step which had split in half"},
+    {"item": "球鞋", "verbatim": "Jimmy’s left trainer which was covered in dust the same colour"}
+  ],
+  "chapter_specific_observation": {
+    "same_place_second_body": "本章所有场景都在同一个广场（the square / Priory Square）：Caius 明说「我一点也不想住在这个广场上，我担心下一个就是我」；Barry 提到「广场上最新发现的尸体」（the latest body found in the square），暗示广场上此前已有尸体。",
+    "oppressive_presence_of_place": "原文可核的「同一个地方」压迫感来自：Caia 第三次到广场（third set that week）、广场中央的 feminist blob monument、封住 Institute 视线的中央花园玉兰树、正对面/西侧中段的其他房屋、高墙与没有 mews 的后巷、只朝向自家门口而照不到巷子的摄像头、巷尾主路上吞吐乘客的公交与穿梭的骑行者、以及「广场上的破旧房屋/只差刷漆」。",
+    "not_present_in_source": [
+      "原文没有出现警车（police car / sirens / blue lights）的任何描写",
+      "原文没有出现邻居（neighbours / residents）围观的描写，也没有围观人群（crowd / onlookers）",
+      "原文没有出现办案者意识到「这不再是巧合」的那一刻；相反 Caius 明说这两起入室「could be a coincidence」，并把凶杀与「有人同时盯上这个区域」并列",
+      "原文没有出现星期几或月份（无 Thursday / May 等字样）；只有 'this morning'、'8 a.m. this morning'、'1 a.m.'、'mid-two-thousands'、'four years'、'fourteen' 这类相对时间"
+    ],
+    "victim_identity_and_cause": {
+      "identity": "Jimmy Jones，四十八岁，前 BBC 主持人（旅行节目 + 深夜游戏节目），现在做小规模直播",
+      "cause": "原文里死因只是 Barry 的初步现场判断、且被明确留了余地：看着像意外，在 crumbling stone steps 上滑倒后撞上 iron railing 头部；证据是裂成两半的中间台阶和沾同色灰的左脚球鞋；Barry 说「没有 foul play 的证据」，但同时说报告里会写得更详细。⇒ 死因在本章原文中**未被确诊**。"
+    }
+  }
+}
