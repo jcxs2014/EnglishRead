@@ -7,9 +7,9 @@ source_text: ch45
 # 45. Priory Square
 
 ## 本章导航
-- **一句话概括**：Priory Square 35 号那扇打不开的门被撞开以后，警方在屋里找到一个倒在血泊里的年轻女子，并顺着遗落的一张信用卡、一个邮政信箱和那几包药，把「假 Isolde」的真实身份指向这栋房子里的女人杰妮弗；而失踪的那一卷 Horatio 日记，就躺在她房间里梳妆台上那摞粉丝来信中间。
+- **一句话概括**：Priory Square 35 号那扇打不开的门被撞开以后，警方在屋里找到一个倒在血泊里的年轻女子梅尔（Melissa Parkin），而开门后当场落下的判断是：对倒地的她下手的，正是她的姐妹杰妮弗（Jennifer Parkin）；顺着遗落的一张信用卡、一个邮政信箱和那几包药，「假 Isolde」被指向的也是杰妮弗这一个人；失踪的那一卷 Horatio 日记，就躺在 Jennifer 房间梳妆台上那摞粉丝来信中间。
 - **视角**：第三人称限知，本章贴着 Matt、Amy 与 Robbie 三个人走：Robbie 负责破门与调度，Matt 负责翻电脑、查信箱、听音频做推理，Amy 负责搜房间与衣柜，并且是找到那本日记的人。发现的那一刻，屋里只剩 Matt 与 Amy 在场（Robbie 此前已下楼去录音棚），诸人的反应只有 Amy 朝着 Matt 喊出的那一句，本章也在这一句上收住。
-- **线索结构**：四样东西串成一条链——门缝里那滩还没凝固的血把案子钉死；Beverley 的信用卡买下的邮政信箱，把冒名者指向这栋房子；梳妆台抽屉里的奥氮平与锂，说明住在这屋里的两姐妹正各自被药物绑住；那滩血则是这间屋子在夜里被人破门而入的结果；再往里，梳妆台上的那摞粉丝信里藏着失踪的那一卷日记。至于她当初为什么要把这卷日记带走、又为什么要把它塞进自家的一堆粉丝信中间，本章没有交代；能确证的只有藏匿者身份（那个以「假 Isolde」之名做过实习生、因此进得去那栋楼的人）与藏匿地点（Jennifer 房间梳妆台上的信堆）。
+- **线索结构**：四样东西串成一条链——门缝里那滩还没凝固的血把案子钉死：倒在血泊里的是梅尔（Melissa Parkin），警方当场断定「是她姐妹干的」（Her sister did this then），而被点到名的那个姐妹正是杰妮弗·帕金（Jennifer Parkin）；Beverley 的信用卡买下的邮政信箱，把冒名者指向这栋房子；Mel 房间抽屉里的奥氮平与锂，说明这屋里的药只开给 Jennifer 一人，而药量一直由 Mel 攥在手里；再往里，Jennifer 房间梳妆台上的那摞粉丝信里藏着失踪的那一卷日记。至于她当初为什么要把这卷日记带走、又为什么要把它塞进自家的一堆粉丝信中间，本章没有交代；能确证的只有藏匿者身份（那个以「假 Isolde」之名做过实习生、因此进得去那栋楼的人）与藏匿地点（Jennifer 房间梳妆台上的信堆）。
 - **人物弧线**：Amy 从听见那段歌剧时的「quietly devastated」（她曾是粉丝，Fi 还想买下一轮巡演的票），到在衣柜里摸到那件与 Willow 同款的亮红开衫、把冒名者钉死，再到翻开梳妆台喊出那句话；Matt 从查邮箱、听音频，一步步把冒名者的来路拼出来；Robbie 则从嫌弃这案子一路接手指挥搜查。
 - **叙事手法**：以「破门」作全章节拍——敲三下、撬不开、等增援、撞开；进门后用逐件清点的物证推进，每件东西都同时回答两个问题：这个人是谁、这个人有多病态；收尾停在梳妆台前那摞被挪开的信上，一句话收束。
 
@@ -17,11 +17,11 @@ source_text: ch45
 
 > **原句 1:** "Robbie, closely followed by Tiny Simm who had been standing outside the Horatio Combe Institute while forensics trooped in and out all morning, was traipsing up the steps to 35 Priory Square. Robbie knocked on the door, and then harder a second time. He had to bring in this pervy girl that Matt and Amy had got their knickers in a twist about."
 
-**中文理解**：罗比紧跟着蒂尼·西姆走上 35 号 Priory Square 的台阶——西姆整个上午都守在 Horatio Combe 博物馆外面，看着法医进进出出。罗比敲了门，第二下敲得更重；这趟差事他并不情愿：他还得把这个「变态女孩」带进去——Matt 和 Amy 正为她急得不得了呢。
+**中文理解**：罗比走上 35 号 Priory Square 的台阶，蒂尼·西姆紧跟在他身后——西姆整个上午都守在 Horatio Combe 博物馆外面，看着法医进进出出。罗比敲了门，第二下敲得更重；这趟差事他并不情愿：他还得把这个「变态女孩」带进去——Matt 和 Amy 正为她急得不得了呢。
 
 **关键词**：forensics / traipsing / knickers
 
-**为什么这样写**：开篇用「跟着……上楼」这个移动镜头把两个人放进同一幅画面，顺手交代西姆这一上午都在博物馆外面守着法医——博物馆那边的调查和这间屋子，从第一段起就并排摆着。「变态女孩」是罗比嘴里给那个冒名者的定性，一句轻蔑的定性就把警方先入为主的态度摆了出来，而后面所有的物证都要跟这个先入之见打对台。
+**为什么这样写**：开篇用「一前一后上楼」这个移动镜头把两个人放进同一幅画面，顺手交代西姆这一上午都守在 Horatio Combe 博物馆外面，看着法医进进出出——博物馆那边的调查和这间屋子，从第一段起就并排摆着。「变态女孩」是罗比嘴里给那个冒名者的定性，一句轻蔑的定性就把警方先入为主的态度摆了出来，而后面所有的物证都要跟这个先入之见打对台。
 
 **读者视角提示**：留意「pervy girl」这个说法：它出自办案人嘴里，不是事实；本章接下来会用一屋子的东西来推翻它。
 
@@ -43,7 +43,7 @@ source_text: ch45
 
 **为什么这样写**：短句、无人应答，全句的动作只落在血泊「发亮」上。作者不写流出多少血、伤在哪里，只写它还在反光——案发时间就这样被交了出来，而判断权留给读者自己。
 
-**读者视角提示**：血有没有凝固，在这一章里就是一枚时间刻度——它是判断这具身体被放倒多久的凭据，记住这个刻度。
+**读者视角提示**：血有没有凝固，在这一章里就是一枚时间刻度——它是判断这具身体被放倒多久的凭据，记住这个刻度。地上那位随后被点名：梅尔（Melissa Parkin）；而警方当场断定「是她姐妹干的」（Her sister did this then），那个姐妹就是杰妮弗·帕金（Jennifer Parkin）——两人是住在这栋房子里的姐妹，一个倒在血泊里，一个是动手的人。
 
 > **原句 4:** "‘The PO Box that “fake Isolde” wrote to Digby from was purchased using Beverley’s credit card. She told me she’d lost it in M&S Food and had stupidly left the PIN with it on a piece of paper.’"
 
@@ -53,7 +53,7 @@ source_text: ch45
 
 **为什么这样写**：这一段把「谁在冒充 Isolde」从悬案变成一条能追的链：信箱有购买记录，卡有归属，PIN 有下落。作者用两句平淡的陈述代替惊呼，让证据自己说话；而「丢卡」和「把 PIN 写在纸上」这两处松手，也正好解释了为什么冒名者敢这么干——她赌的是没人会把一张在 M&S Food 丢掉的卡和一封来信放到一起看。
 
-**读者视角提示**：把这张卡和这个信箱记下来，它们就是通往这间屋子的门牌。
+**读者视角提示**：把这张卡和这个信箱记下来，它们就是通往这间屋子的门牌；门牌上的人是杰妮弗·帕金（Jennifer Parkin）——本章的追查把「假 Isolde」只落到这一个人身上，她与她姐妹梅尔（Melissa Parkin）是两个人，但不是两个冒名者。
 
 > **原句 5:** "Matt looked up. ‘That’s a lot. An antipsychotic and a mood stabiliser.’ He remembered a module he’d taken during his degree. ‘I’d say she’s bipolar or possibly schizoaffective.’"
 
@@ -133,4 +133,4 @@ source_text: ch45
 
 ## 一句话总结
 
-Priory Square 35 号的门被撞开后，警方在血泊边上的年轻女子、一张买下邮政信箱的信用卡、两包该按时服用却会被人擅自停掉的处方药，把「假 Isolde」拆成台上那张脸和台上的声音；而失踪的那一卷 Horatio 日记，就由搜房的 Amy 在梳妆台上一摞粉丝信中间翻了出来。
+Priory Square 35 号的门被撞开后，警方在血泊边上的年轻女子梅尔（Melissa Parkin）、一张买下邮政信箱的信用卡、两包只开给 Jennifer、药量却由 Mel 掌握的处方药，把「假 Isolde」这个人指向了这栋房子里的女人杰妮弗·帕金（Jennifer Parkin）；而破门后警方当场落下的判断是：对倒地的梅尔下手的，正是她的姐妹杰妮弗。失踪的那一卷 Horatio 日记，则由搜房的 Amy 在 Jennifer 房间梳妆台上一摞粉丝信中间翻了出来。
