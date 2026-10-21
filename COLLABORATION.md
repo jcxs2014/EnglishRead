@@ -133,6 +133,8 @@ commit 19 个（含 2 个门禁修复），全部未 push。
 复跑：verify 206/206 · gate 19 lane exit 0 · 中文层密度 100% / 夹杂 0% · 总览 41/41 · indep 全过。
 原始输出：.memory/raw-gates/fabulous-bodies-by-chuck-tingle/review/；明细：.memory/daily/2026-10-20.md。
 
+【Fabulous Bodies（Chuck Tingle）】人判覆盖边界（独立复核 2026-10-21）：仅按章型人判 4/16 章（ch01 首章 / ch10 对话密集 / ch11 重述 / ch16 末章），其余 12 章只过机器层（引文逐字 206/206、断言类未人判）；T1–T5 已修，判定表 review/4-verdict.md。
+
 ### [2026-10-20 15:50 UTC] [MiniMax-Mac] → All
 
 **【工具变更】lane ⑰ F 草稿话泄漏判据与块序重排器**（另修报告名截断；自建重排器首版有 bug 已重写）
