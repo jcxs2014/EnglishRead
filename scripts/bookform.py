@@ -53,6 +53,7 @@ MIN_CHAPTERS_FOR_MODAL = 3
 DEFAULT_SUBITEMS = ["中文理解", "关键词", "为什么这样写", "读者视角提示", "句子结构"]
 DEFAULT_NAV_COUNT = 5
 DEFAULT_BLOCK_RANGE = (3, 8)
+DEFAULT_NAV_ITEMS = ["一句话概括", "情感弧线位置", "人物弧线", "叙事手法"]  # 仅 profile 未给项名时兜底
 
 # —— 体裁 profile（2026-10-20 立，用户拍板「按体裁给结构约束；短篇合集没有总览」）——
 # 结构约束的**唯一定义处**是 docs/rules/genre-profiles.json；本文件只读它、不再自带一套。
@@ -412,6 +413,74 @@ def print_form(f: dict) -> None:
     print("  ⚠️ 形态偏离本书众数不算错，写一行理由即可。")
 
 
+def print_contract(book: Path) -> None:
+    """打印「这本书的写作契约」：会判红的、不判红的、以及一章的骨架。
+
+    存在的理由：形态与阈值原先只能靠读 scripts/ 源码反推（2026-10-21 实测某会话
+    为写第 1 章读了 58 次检查器源码、0 字产出）。契约应当一条命令吐出来。
+    """
+    profs = load_profiles()
+    key = genre_of(book)
+    prof = profs.get(key) or profs.get("_default") or {}
+    label = prof.get("label", "")
+    subs = prof.get("subitems") or DEFAULT_SUBITEMS
+    opt = prof.get("optional_subitems") or []
+    blocks = prof.get("blocks") or list(DEFAULT_BLOCK_RANGE)
+    nav_items = (prof.get("nav") or {}).get("items") or DEFAULT_NAV_ITEMS
+    nav_n = (prof.get("nav") or {}).get("count") or DEFAULT_NAV_COUNT
+    f = book_form(book)
+    have = f.get("chapters", 0)
+    mode = f"按 profile 判（满 {MIN_CHAPTERS_FOR_MODAL} 章后切本书众数）" if have < MIN_CHAPTERS_FOR_MODAL \
+        else f"按本书众数判（已有 {have} 章；块数中位 {f['block_median']}，范围 {f['block_range'][0]}–{f['block_range'][1]}）"
+
+    print(f"契约 · {book.name}")
+    print(f"  体裁 {key}（{label}）｜{mode}")
+    print()
+    print("【会判红】bash scripts/chapter.sh \"<章 md>\"   （1–3 秒，退出码 0/1/2）")
+    print("  1 引语逐字   每块 `> **原句 N:** \"…\"`；含 `…` 的分段各自独立回 text/chNN_*.txt 取证")
+    print("               （大小写、弯直引号不算差异；任一段查无即红）")
+    print("  2 空引号     `\"\"` 或分析里残留空引号")
+    print(f"  3 子项齐全   {' / '.join(subs)}" + (f"（可加：{'、'.join(opt)}）" if opt else ""))
+    print("  4 关键词     每个词必须出现在本块引语或本章原文里（按 / 、 , ； 切分）")
+    print("  5 中文       中文理解 ≥6 汉字；为什么这样写 ≥8 汉字且中文占比 ≥15%")
+    print()
+    print("【不判红，但会毁掉这本书】")
+    print("  · 引语长度   1–3 句 / 30–70 词 / ≤4 行（创建卡 §3 硬线；机器不查）")
+    print("               ⚠️ 上一版这本书引语中位 168 词、72% 超 100 词，19 lane 照样全绿 ⇒ 判据烂了不会红")
+    print(f"  · 块数       每章 {blocks[0]}–{blocks[1]}（profile）")
+    print("  · 谁做的 / 谁欠谁 / 数字 / 关系 / 漏掉的段落   机器结构上查不到（审查表 R1 素读 + R3 对账）")
+    print()
+    print("【一章的骨架】")
+    print("---")
+    print("状态: 未读")
+    print('modified: "YYYY-MM-DD"')
+    print("---")
+    print()
+    print("# NN. 章标题")
+    print()
+    print("## 本章导航")
+    for it in nav_items[:nav_n]:
+        print(f"- **{it}**：…")
+    print()
+    print("## 精读")
+    print('> **原句 1:** "…"')
+    for sb in subs:
+        print(f"**{sb}**：…")
+    print()
+    print("## 本章词汇")
+    for tier in ("⭐⭐⭐ 高级", "⭐⭐ 进阶", "⭐ 常用"):
+        print(f"### {tier}")
+        print("| 词/短语 | 释义 | 例句 |")
+        print("|---|---|---|")
+        print("| … | … | …（必须是本章 text/ 里的逐字原句） |")
+        print()
+    print("## 一句话总结")
+    print("…")
+    print()
+    print("【顺序】先读本章 text/ 全文 → 写 → 立刻 chapter.sh，红了照它的话改（它会点名哪块哪项）。")
+    print("        不要读 scripts/ 源码反推判据：契约就是上面这些，源码只是它的实现。")
+
+
 def print_check(r: dict) -> None:
     print(f"单章体检：ch{r['chapter']:02d}  {Path(r['md']).name}")
     if r["verdict"] == "undecidable":
@@ -529,6 +598,7 @@ def main() -> int:
     ap.add_argument("--chapter", default=None)
     ap.add_argument("--json", action="store_true")
     ap.add_argument("--all", action="store_true", help="整书体检（每章都跑，判据同单章）")
+    ap.add_argument("--contract", action="store_true", help="打印本书的写作契约：会判红的/不判红的/一章骨架")
     a = ap.parse_args()
 
     t = Path(a.target).expanduser().resolve()
@@ -539,6 +609,10 @@ def main() -> int:
         md, book = t, t.parent
     else:
         md, book = None, t
+
+    if a.contract:
+        print_contract(book)
+        return 0
 
     if md is None and a.all:
         return check_all(book, a.json)
