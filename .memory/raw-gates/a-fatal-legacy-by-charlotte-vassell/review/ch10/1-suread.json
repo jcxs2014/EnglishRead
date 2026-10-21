@@ -1,0 +1,143 @@
+{
+  "chapter": "ch10",
+  "slug": "a-fatal-legacy-by-charlotte-vassell",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch10_10.txt",
+  "source_total_chars": 4594,
+  "read_order": "只读 text/ch10_10.txt，未开 md、未看别章 md、未凭记忆",
+  "section_headings_in_source": ["Caius and Callie’s Flat"],
+  "events": [
+    {
+      "id": 1,
+      "who": "Callie",
+      "what": "回家闻到的气味；走进厨房区（kitchen area）看到 Caius 在煎韩式蔬菜煎饼",
+      "verbatim": "Callie came home to the most delicious smell. She walked into the kitchen area to find Caius frying Korean veggie pancakes.",
+      "range": [46, 168]
+    },
+    {
+      "id": 2,
+      "who": "Caius",
+      "what": "说做煎饼是因为前几天看过一个视频想试试；目的之一是用掉冰箱里快变软的蔬菜",
+      "verbatim": "He’d seen a video of someone doing it the other day and wanted to try it. … ‘Just using up the veg in the fridge before it goes soft.’",
+      "range": [170, 304]
+    },
+    {
+      "id": 3,
+      "who": "Callie / Caius",
+      "what": "Callie 剥橙子吃，问 Caius 明天拆石膏（cast off tomorrow）是否期待；Caius 答『Yeah』但听起来并不兴奋",
+      "verbatim": "‘Cast off tomorrow? Are you excited.’ … ‘Yeah.’ He didn’t sound it.",
+      "range": [452, 519]
+    },
+    {
+      "id": 4,
+      "who": "Callie",
+      "what": "说 Caius 有『那种眼神』——像走神到脑后深处；不像上个月他帮忙处理的那起 gang 持刀伤人案那么『chill』，那时那只是他的工作，他因为是 professional 所以能应付；Caius 说 gang 的案子在某些方面更好对付，因为有残酷的逻辑，但 murder is murder",
+      "verbatim": "‘Like you’re lost in the back of your head. You’re not quite here, whereas last month when you helped out on that gang stabbing you were sort of chill.’ … ‘you’re a professional’ … ‘In some ways gang stuff is easier to deal with, there’s a brutal logic to them, but murder is murder and it’s always grim.’",
+      "range": [625, 1620]
+    },
+    {
+      "id": 5,
+      "who": "Callie / Caius",
+      "what": "Callie 说今天和旧邻居 Innogen 聊天，她丈夫是 St Barts 的顶尖外科医生（whizzbang surgeon），有很 zen 的气质，毕竟他也是在处理生死，而『这大多也是你』；Caius 追问『Not this time?』，Callie 答『No』",
+      "verbatim": "I hung out with Innogen my old neighbour today, and her husband is a whizzbang surgeon down at St Barts. She was saying he has this very zen vibe to his work considering he’s literally dealing with life and death and that’s you too most of the time. … ‘Not this time?’ … ‘No.’",
+      "range": [1051, 1328]
+    },
+    {
+      "id": 6,
+      "who": "Caius",
+      "what": "说这一案子很怪：最近接手的一串『funny cases』通常是毒品、帮派相关或家暴，但这一单……；Callie 问有多怪，他只肯说到这一步：『It looks like a man was murdered by his date.』（这句话是 Caius 说的），且他不愿再多讲",
+      "verbatim": "‘It’s an odd one. I’ve had a bad run of funny cases. It’s usually drugs and gang-related like you said, or domestic violence which is a special sort of awful but this one …’ … ‘How weird?’ … ‘It looks like a man was murdered by his date.’ Caius was reluctant to go beyond that.",
+      "range": [1420, 1759]
+    },
+    {
+      "id": 7,
+      "who": "Callie / Caius",
+      "what": "Callie 坐在厨房台面上说『大家都一样』，并说她担心这案子会牵涉到一个孩子；Caius 抬头看她又迅速低头看锅，说『No. Not this time.』（不是孩子），接着自我贬低『I’m mean, well, you know. Varying degrees.’",
+      "verbatim": "‘We’ve all been there.’ Callie sat on a kitchen unit as Caius went back to making dinner. ‘I was worried it was going to be a kid.’ … ‘No. Not this time.’",
+      "range": [1761, 2050]
+    },
+    {
+      "id": 8,
+      "who": "Callie / Caius",
+      "what": "Callie 耸耸肩，把话咽下去；问『What am I doing with my life?』；Caius 回答她是一名 milliner，正转向令人兴奋的创意咨询机会（exciting creative consulting opportunities）；Callie 吐槽这听起来像 LinkedIn 冒牌 CEO，Caius 再来一版『Artist, slow-fashion advocate, creative thinker. Warmer?』；Callie 说自己只是 feel off，问是普通的存在主义恐惧还是别的",
+      "verbatim": "‘What am I doing with my life?’ … ‘You’re a milliner who’s moving on to exciting creative consulting opportunities.’ … ‘That makes me sound like a LinkedIn wannabe CEO.’ … ‘Artist, slow-fashion advocate, creative thinker. Warmer?’ … ‘Is this regular existential dread or something more?’ … ‘I don’t know. I just feel off.’",
+      "range": [2145, 2600]
+    },
+    {
+      "id": 9,
+      "who": "Caius / Callie",
+      "what": "Caius 提议玩 hot/cold 游戏（他 plating 第一张煎饼），Callie 抗议被当六岁小孩，Caius 回『Six-year-olds do not get PMT』；Callie 反方向走，Callie 走向沙发；Caius 说 Warmer；Callie 走向他的 backpack；Caius 说 Boiling",
+      "verbatim": "‘OK, let’s play a game,’ Caius said, plating the first pancake. You start moving around the kitchen and I will say hot or cold.’ … ‘Are you treating me like a six-year-old?’ … ‘Six-year-olds do not get PMT,’ … ‘Warm.’ … ‘Warmer,’ … ‘Boiling.’",
+      "range": [2613, 3080]
+    },
+    {
+      "id": 10,
+      "who": "Callie / Caius",
+      "what": "Callie 从他背包里拿出三整条 Lindt 牛奶巧克力，问是不是提前买好等她来例假；Caius 答『Yes』，同时把酱油、米醋、芝麻油倒进小碗；Callie 说不知该生气还是感激；Caius 说生气就还给他他吃掉；Callie 打开其中一包、掰下两块、吃了一块",
+      "verbatim": "Callie took out three full bars of Lindt milk chocolate. ‘Did you buy this in anticipation of the arrival of my period.’ … ‘Yes.’ Caius poured a little soy sauce, rice vinegar and sesame oil into a small bowl. … breaking two squares off and putting the first in her mouth.",
+      "range": [3081, 3550]
+    },
+    {
+      "id": 11,
+      "who": "Caius / Callie",
+      "what": "Caius 又往碗里加了两瓣碎蒜、芝麻、葱末和 gochugaru（上周在 Tottenham Court Road 的韩国超市买的）；然后问『Are you happy?』，Callie 答『Yeah』；Callie 反问『But are you?』；Caius 问『My dad put you up to this?』；Callie 答『No, you just begin to look a little hollowed-out after a few shifts in a row.』",
+      "verbatim": "He added two cloves of crushed garlic, sesame seeds, chopped spring onions and gochugaru that he’d picked up from a Korean supermarket on Tottenham Court Road last week to the bowl. … ‘Are you happy?’ … ‘But are you?’ Callie couldn’t help herself after all. … ‘My dad put you up to this?’ … ‘No, you just begin to look a little hollowed-out after a few shifts in a row.’",
+      "range": [3532, 3990]
+    },
+    {
+      "id": 12,
+      "who": "Caius / Callie",
+      "what": "Caius 把煎饼滑到盘上并切块，问她明天见 Eulalia 的会准备好了没；Callie 说差不多，没给太多可准备的，她几乎读过/听过 Eulalie 所有的访谈，会带上 portfolio（她过去做过 couple of editorial shoots），剩下的临场发挥，因为有压力时想法更好；Caius 说『You are going to be brilliant』，把煎饼和蘸酱放到她面前，转身回炉灶",
+      "verbatim": "Caius slid the pancake onto a plate. He began slicing it into pieces. ‘All set for your meeting with Eulalia tomorrow?’ … ‘I’m going to take my portfolio – I worked on a couple of editorial shoots back in the day – and just wing the rest. I have better ideas when I’m under pressure.’ … ‘You are going to be brilliant.’ He placed the pancake and the dipping sauce in front of Callie and then turned back to the stove.",
+      "range": [3991, 4594]
+    }
+  ],
+  "relationships": [
+    {
+      "pair": "Caius ↔ Callie",
+      "evidence_range": [46, 4594],
+      "note": "同居/伴侣式同居（她回家他做饭；她从他背包取巧克力；她在他面前吐槽人生）；Caius 关心她明天见 Eulalia，并预先买好巧克力；Callie 察觉他状态不对并追问。"
+    },
+    {
+      "pair": "Caius ↔ Callie 的父亲",
+      "evidence_range": [3831, 3990],
+      "note": "原文只有 Caius 一句『My dad put you up to this?』——字面是『我爸让你来问这个的吗』；父辈（谁的父亲）与具体关系原文未交代。"
+    },
+    {
+      "pair": "Callie ↔ Innogen",
+      "evidence_range": [1051, 1154],
+      "note": "Innogen 是 Callie 的旧邻居（my old neighbour）；Innogen 的丈夫是 St Barts 的外科医生。"
+    },
+    {
+      "pair": "Callie ↔ Eulalia",
+      "evidence_range": [4064, 4388],
+      "note": "Callie 明天要见 Eulalia，要带 portfolio（她过去做过 editorial shoots）。"
+    },
+    {
+      "pair": "Caius ↔ 他的病案",
+      "evidence_range": [1420, 1916],
+      "note": "Caius 是处理凶案/验尸类案件的医生（提及 gang 持刀伤人案、drugs、家暴、murder）；当前案子据他口述『看起来像是男人被他的约会对象杀的』。"
+    }
+  ],
+  "numbers_and_dates": [
+    {"verbatim": "three full bars of Lindt milk chocolate", "range": [3081, 3136]},
+    {"verbatim": "two cloves of crushed garlic", "range": [3532, 3560]},
+    {"verbatim": "breaking two squares off", "range": [3456, 3480]},
+    {"verbatim": "Six-year-olds do not get PMT", "range": [2790, 2821]},
+    {"verbatim": "like a six-year-old", "range": [2690, 2712]},
+    {"verbatim": "a couple of editorial shoots back in the day", "range": [4299, 4388]},
+    {"verbatim": "St Barts", "range": [1103, 1154]},
+    {"verbatim": "the first pancake", "range": [2613, 2650]},
+    {"verbatim": "Cast off tomorrow", "range": [452, 489]},
+    {"verbatim": "your meeting with Eulalia tomorrow", "range": [4064, 4111]},
+    {"verbatim": "last month when you helped out on that gang stabbing", "range": [700, 775]},
+    {"verbatim": "last week", "range": [3670, 3700]},
+    {"verbatim": "a few shifts in a row", "range": [3911, 3990]},
+    {"verbatim": "one hand", "range": [1434, 1480]}
+  ],
+  "notes": [
+    "本章无日期标注；时间线索全为相对表述（tomorrow / last month / last week / other day）。",
+    "全章唯一一次点名指认性陈述：『It looks like a man was murdered by his date.』——说话人是 Caius（紧接 Caius was reluctant to go beyond that），不是 Callie。",
+    "本章原文未出现「自由撰稿人/自由职业」字样；Callie 的职业被 Caius 明说为 milliner。",
+    "原文未明说 Caius 不会做饭；只说他看了视频想试、且本可以等明天石膏拆了再单手做（cast off… wouldn’t have to hold the pan with one hand）——『不会做饭却硬要做』属读者/写作者的推断。"
+  ]
+}

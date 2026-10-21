@@ -10,8 +10,8 @@ source_text: ch10
 
 - **一句话概括**：Caius 手上还缠着石膏绷带，却照着前几天的视频在自家厨房里煎韩式蔬菜煎饼，想赶在 Callie 回来之前把饭做好；饭桌上他第一次把手上那桩"被约会对象杀害"的案子说出口，Callie 则用一个冷热游戏把两个人的心事都推到了台面上。
 - **视角**：第三人称限知，紧贴 Caius 一侧——他翻锅时的小动作、被看穿后"赶紧低头看锅"的心虚、以及哪些话他选择咽回去；场景从头到尾只是两人在自家厨房里的一顿晚饭。
-- **线索结构**：表面上全是生活细节：韩式蔬菜煎饼、酱油米醋香油蒜末芝麻葱花辣椒粉调成的蘸汁、冰箱里快蔫掉的菜、三整条没拆封的 Lindt 牛奶巧克力；这些细节串起两条暗线——他的石膏绷带（说明他带伤仍在张罗）与他的职业状态（一批"怪案子"里最怪的这一桩）。
-- **人物弧线**：Caius 从"我不往下说"（reluctant to go beyond that）走到"你脸上有那个表情"，被人当面读出来；Callie 反过来，先读他、把自己的话咽回去（let the words in her mouth fall to the floor unspoken），再用"我到底在干什么人生"把话题转回自己，最后用一个明天的面试把话题稳稳接住。
+- **线索结构**：表面上全是生活细节：韩式蔬菜煎饼、酱油米醋香油蒜末芝麻葱花辣椒粉调成的蘸汁、冰箱里快蔫掉的菜、三条都没拆封的 Lindt 牛奶巧克力；这些细节串起两条暗线——他的石膏绷带（说明他带伤仍在张罗）与他的职业状态（一批"怪案子"里最怪的这一桩）。
+- **人物弧线**：Caius 从"你脸上有那个表情"被人当面读出来，走到"我不往下说"（reluctant to go beyond that）；Callie 反过来，先读他、把自己的话咽回去（let the words in her mouth fall to the floor unspoken），再用"我到底在干什么人生"把话题转回自己，最后用明天的会面把话题稳稳接住。
 - **叙事手法**：以"做饭"作容器，把案情藏在油烟和煎饼的间隙里；对白全部短促（"Which look?"／"Chill?"／"No."），叙述则靠动作加注（"He looked up at her and then quickly down to the pan"），用身体的小动作替代心理说明。
 
 ## 精读
@@ -19,7 +19,7 @@ source_text: ch10
 > **原句 1:** "Callie came home to the most delicious smell. She walked into the kitchen area to find Caius frying Korean veggie pancakes. He’d seen a video of someone doing it the other day and wanted to try it."
 **中文理解**：Callie 一进门就闻到一股极香的味道，走进厨房区，看见 Caius 正在煎韩式蔬菜煎饼——他前几天看过一段别人做的视频，就想自己试一次。
 **关键词**：delicious / Korean veggie pancakes / wanted to try it
-**为什么这样写**：全章第一句先给气味、再给人，把这顿饭写成"有人等她回来"的信号；"看过视频就想试"顺手交代了他不会做饭——他不是凭经验上手，是凭一段视频上手，这层生涩正是后面所有笨拙的根。
+**为什么这样写**：全章第一句先给气味、再给人，把这顿饭写成"有人等她回来"的信号；"看过视频就想试"顺手交代了他没做过这道菜——他不是凭经验上手，是凭一段视频上手，这层生涩正是后面所有笨拙的根。
 **读者视角提示**：留意那个被抬高的"delicious"：做饭的人显然等着被夸，而夸他的人此刻还不知道，这锅饼他已经张罗了一阵。
 
 > **原句 2:** "‘I don’t know how to describe it.’ Callie ate another segment. ‘Like you’re lost in the back of your head. You’re not quite here, whereas last month when you helped out on that gang stabbing you were sort of chill.’"
