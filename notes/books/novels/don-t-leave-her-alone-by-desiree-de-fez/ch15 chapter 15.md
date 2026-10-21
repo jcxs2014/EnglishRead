@@ -32,9 +32,9 @@ source_text: ch15
 
 > **原句 3:** "“My hands are disgusting,” she said, and she looked at her mom’s and sister’s, which were just as dirty, then she tore off two slices and held them out. They ate happily, in silence, unconcerned by the grease dripping onto their chins and their hands."
 
-- **中文理解**：「我的手脏死了。」戴安娜说着，看了看母亲和妹妹的手——一样脏——然后撕下两片披萨递过去。三个人吃得开心，也安静，油顺着下巴和手往下滴，谁也不在意。
+- **中文理解**：「我的手脏死了。」阿尔巴说着，看了看母亲和姐姐的手——一样脏——然后撕下两片披萨递过去。三个人吃得开心，也安静，油顺着下巴和手往下滴，谁也不在意。
 - **关键词**：My hands are disgusting · which were just as dirty · unconcerned by the grease dripping onto their chins and their hands
-- **为什么这样写**：戴安娜那句「我的手脏死了」听起来是嫌弃，其实是在核对：她的手和母亲、妹妹的一样脏。作者用一次「比着看」把三个女人受的伤写成同一种伤，不必解释一句。接下来的「安静地吃」「油滴下来也不管」把圣诞夜写成家常饭，没有一个恐怖的形容词，语气却是全章最冷的一处。
+- **为什么这样写**：阿尔巴那句「我的手脏死了」听起来是嫌弃，其实是在核对：她的手和母亲、姐姐的一样脏。作者用一次「比着看」把三个女人受的伤写成同一种伤，不必解释一句。接下来的「安静地吃」「油滴下来也不管」把圣诞夜写成家常饭，没有一个恐怖的形容词，语气却是全章最冷的一处。
 - **读者视角提示**：留意「一样脏」这个细节：三只手此刻是同一种脏；读者读到的第一份证据是手上的脏，不是身上的伤口。
 
 > **原句 4:** "And Mom, too. I think it happened about the same time, but I’m not sure how. It was telepathic, like the day Brisa and Brigitte got bloody noses within minutes of each other."
