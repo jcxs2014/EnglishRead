@@ -37,28 +37,7 @@ source_text: ch18
 **为什么这样写**：Eulalia 先给抽象评价（气味是超验的），再给具体结论（闻起来像烂掉的李子），两句都是加法——腐坏的甜味被她当成享受来炫耀。作者借她的大词把这份自我陶醉写得滑稽，而叙述者的句子始终是干的：她一瓶瓶试过去，同样高兴，仅此而已。
 **读者视角提示**：这批香水本来就是照着"死亡气息"设计的，Eulalia 觉得名副其实——她欣赏的东西与这套产品线要卖出的形象，在这里是同一件事。
 
-> **原句 4:** "Eulalia flitted back upstairs to her room to shower off the gloopy excesses of hyper-profitable vanity and then to listen to music in her bedroom. She was searching for inspiration for the lyrics of a new song her sister had already bashed out a melody for. Eulalia blasted Fleetwood Mac as Mel was left downstairs to manage everything else."
-
-**中文理解**：Eulalia 轻快地回楼上冲掉手上黏腻的、赚钱赚到过分的 Vanity 残留，然后回房听音乐找灵感——她要给姐姐已经写好旋律的那首新歌填词。楼上放着 Fleetwood Mac，楼下留给 Mel 打理其余的一切。
-**关键词**：gloopy excesses / inspiration / downstairs
-**为什么这样写**：作者用上下两层楼的空间把姐妹俩分开：妹妹在楼上追逐灵感与刺激，姐姐在楼下处理电话与杂务。同一套化妆品，在这两个人手里分别是作品和生意。
-**读者视角提示**：Mel 说"manage everything else"时的那份平静，是她把所有麻烦都揽到自己身上的姿态。
-
-> **原句 5:** "‘Hey, Venetia, it’s Mel.’ She disliked speaking to Venetia. She found it hard to maintain her new accent around someone who spoke in such a heightened way. ‘From Eulalia’s team. She was thrilled with everything you sent over. Loved it all. I’ll email over the final choices, but yeah she picked everything I said, sorry, I mean everything I thought she would. Yes … let’s finalise the meeting. You know Calliope Foster? Yeah, yeah, so lovely. Milliner, but did a lot of fashion editorial a decade ago. Oh you know her personally. You’re old friends. Small world. She’s working with Eulalia on concepts. They’ve really gelled.’ Mel smiled as she spoke; it hid her true feelings. She wasn’t comfortable with an outsider being so close to the process, so close to their mutually held deceit."
-
-**中文理解**：电话那头是 Venetia——样品正是从她那边送来的。Mel 报出"从 Eulalia 团队打来"，说妹妹对送来的样品全都喜欢；紧接着她顺手把"她挑的全是我说的"改成"她挑的全是我以为她会挑的"，一句自我更正把漏洞圆了过去。话题转到 Calliope Foster，Mel 用一串不相干的履历（旧日做过时装编辑、你们是旧相识）把人接住，再甩一句"她们很合拍"带过；说话时她在笑，而这份笑遮住了真心话——她不愿意让外人靠这套流程、靠她们共同的隐瞒太近。
-**关键词**：final choices / Calliope Foster / mutually held deceit
-**为什么这样写**：Mel 应对 Venetia 的方式是两件事叠着做：用一串职业履历把关于 Calliope 的问题填满，让对方没有追问的余地；再用"共同的隐瞒"把 Venetia 拉进同一个阵营。作者让她在一段话里同时做加法（拉人入伙）和减法（挡住外人），话说得越顺滑，遮掩就越显眼。
-**读者视角提示**：那句自我更正——"everything I said"改成"everything I thought she would"——是这一章里一句几乎要露馅的话。
-
-> **原句 6:** "Between you and me, we all just need to listen to the presentation and nod along, telling Eulalia she’s a genius. I think realistically what you’ll end up incorporating is a font or a colourway, you know. Artists huh. Great chat.’ Mel ended the call and smiled to herself. She was pulling it off."
-
-**中文理解**：临挂电话前，Mel 把电话那头的同事拉进伙：接下来只要听演示、点头，再告诉 Eulalia 她是天才就行；她私下把结果说破——真落进彩妆线的，多半不过是一个字体或一套配色。"艺术家嘛。聊得开心。"电话挂断，她对自己笑了笑：她演成了。
-**关键词**：presentation / genius / pulling it off
-**为什么这样写**：这段是 Mel 的收尾，两句话一褒一贬：把仪式说成"点头"和"夸天才"，再把成果压缩成字体与配色。对着电话她许的是姿态，私下认定的是结果；作者用这种口是心非把她的位置摆清——她替两边跑腿，两边也都被她牵着走。
-**读者视角提示**："presentation"与"genius"是同一套话术的两副面孔：Mel 让对方点头、夸姐姐是天才，心里清楚这一整套姿态只有自己在经营。
-
-> **原句 7:** "Eulalia smeared every high-pigmented glitter eyeshadow from a palette inspired by poisonous jellyfish down her other forearm, followed by every cream blush that looked like bruising and every mercurial highlighter."
+> **原句 4:** "Eulalia smeared every high-pigmented glitter eyeshadow from a palette inspired by poisonous jellyfish down her other forearm, followed by every cream blush that looked like bruising and every mercurial highlighter."
 
 **中文理解**：她把取自毒水母灵感的高饱和闪粉眼影抹满另一条手臂，再叠上看起来像瘀伤的膏状腮红，以及水银质地的高光。
 
@@ -67,6 +46,27 @@ source_text: ch18
 **为什么这样写**：这一串化妆品把"杀伤力"一路写成了包装语言——毒水母、瘀伤、水银，全是危险物的意象，却以色号和质地的方式落在脸上；读者在这层玩笑里读到的，正是梅尔在旁边记笔记时心里在盘算的东西。
 
 **读者视角提示**：留意作者把"致命"一路翻译成化妆品词汇的这条线：这一章的死亡气息，从来不直接说破。
+
+> **原句 5:** "Eulalia flitted back upstairs to her room to shower off the gloopy excesses of hyper-profitable vanity and then to listen to music in her bedroom. She was searching for inspiration for the lyrics of a new song her sister had already bashed out a melody for. Eulalia blasted Fleetwood Mac as Mel was left downstairs to manage everything else."
+
+**中文理解**：Eulalia 轻快地回楼上冲掉手上黏腻的、赚钱赚到过分的 Vanity 残留，然后回房听音乐找灵感——她要给姐姐已经写好旋律的那首新歌填词。楼上放着 Fleetwood Mac，楼下留给 Mel 打理其余的一切。
+**关键词**：gloopy excesses / inspiration / downstairs
+**为什么这样写**：作者用上下两层楼的空间把姐妹俩分开：妹妹在楼上追逐灵感与刺激，姐姐在楼下处理电话与杂务。同一套化妆品，在这两个人手里分别是作品和生意。
+**读者视角提示**：Mel 说"manage everything else"时的那份平静，是她把所有麻烦都揽到自己身上的姿态。
+
+> **原句 6:** "‘Hey, Venetia, it’s Mel.’ She disliked speaking to Venetia. She found it hard to maintain her new accent around someone who spoke in such a heightened way. ‘From Eulalia’s team. She was thrilled with everything you sent over. Loved it all. I’ll email over the final choices, but yeah she picked everything I said, sorry, I mean everything I thought she would. Yes … let’s finalise the meeting. You know Calliope Foster? Yeah, yeah, so lovely. Milliner, but did a lot of fashion editorial a decade ago. Oh you know her personally. You’re old friends. Small world. She’s working with Eulalia on concepts. They’ve really gelled.’ Mel smiled as she spoke; it hid her true feelings. She wasn’t comfortable with an outsider being so close to the process, so close to their mutually held deceit."
+
+**中文理解**：电话那头是 Venetia——样品正是从她那边送来的。Mel 报出"从 Eulalia 团队打来"，说妹妹对送来的样品全都喜欢；紧接着她顺手把"她挑的全是我说的"改成"她挑的全是我以为她会挑的"，一句自我更正把漏洞圆了过去。话题转到 Calliope Foster，Mel 用一串不相干的履历（旧日做过时装编辑、你们是旧相识）把人接住，再甩一句"她们很合拍"带过；说话时她在笑，而这份笑遮住了真心话——她不愿意让外人靠这套流程、靠她们共同的隐瞒太近。
+**关键词**：final choices / Calliope Foster / mutually held deceit
+**为什么这样写**：Mel 应对 Venetia 的方式是两件事叠着做：用一串职业履历把关于 Calliope 的问题填满，让对方没有追问的余地；再用"共同的隐瞒"把 Venetia 拉进同一个阵营。作者让她在一段话里同时做加法（拉人入伙）和减法（挡住外人），话说得越顺滑，遮掩就越显眼。
+**读者视角提示**：那句自我更正——"everything I said"改成"everything I thought she would"——是这一章里一句几乎要露馅的话。
+
+> **原句 7:** "Between you and me, we all just need to listen to the presentation and nod along, telling Eulalia she’s a genius. I think realistically what you’ll end up incorporating is a font or a colourway, you know. Artists huh. Great chat.’ Mel ended the call and smiled to herself. She was pulling it off."
+
+**中文理解**：临挂电话前，Mel 把电话那头的同事拉进伙：接下来只要听演示、点头，再告诉 Eulalia 她是天才就行；她私下把结果说破——真落进彩妆线的，多半不过是一个字体或一套配色。"艺术家嘛。聊得开心。"电话挂断，她对自己笑了笑：她演成了。
+**关键词**：presentation / genius / pulling it off
+**为什么这样写**：这段是 Mel 的收尾，两句话一褒一贬：把仪式说成"点头"和"夸天才"，再把成果压缩成字体与配色。对着电话她许的是姿态，私下认定的是结果；作者用这种口是心非把她的位置摆清——她替两边跑腿，两边也都被她牵着走。
+**读者视角提示**："presentation"与"genius"是同一套话术的两副面孔：Mel 让对方点头、夸姐姐是天才，心里清楚这一整套姿态只有自己在经营。
 
 ## 本章词汇
 
