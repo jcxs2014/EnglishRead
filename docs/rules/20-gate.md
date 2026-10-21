@@ -108,6 +108,11 @@ git status --short "<书目录>" .memory/raw-gates/<slug>/
 
 ### 🕐 门禁时序表（何时跑什么，2026-09-06 固化）
 
+> ⚠️ 本节是**历史时序表原文**，里面的脚本名是当时的旧名（`check_quote_order.py` / `audit_structure.py` /
+> `verify_overview_quotes.py` 等）。2026-10-20 已合并为四接口：引语→`quotes.py`、总览→`overview.py`、
+> 结构→`structure.py`、分析→`analysis.py`，**新名见 §1 与 `docs/rules/工具登记.md` 末尾的映射表**；
+> 照抄本节命令会 `can't open file`。
+
 > **🚦 先判 lane**（每批开工第一步）：`ls "<书目录>"/library/*.epub` 有 → **完整 lane**；
 > 无 → **降级 lane**。降级 lane 的书**不是"检查通过"，是"部分检查没做"**——
 > 引语的 epub 全书口径核不了、词条的「是否虚构」不出结论。报告必须写明 lane。
