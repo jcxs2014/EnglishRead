@@ -24,7 +24,7 @@ source_text: ch02
 
 **中文理解**：门后的房间像一座图书馆，堆满各色书籍——有的旧、有的古、有的新；有成堆的报纸、三个地球仪、许多青铜与钢制的器械，用途在 Mrs Fell 看来晦涩不明。
 
-**关键词**：mounds（成堆）· globes（地球仪）· obscure（晦涩的）
+**关键词**：mounds（成堆） /  globes（地球仪） /  obscure（晦涩的）
 
 **为什么这样写**：开章用杂乱的书斋建立 Scrooge 的"收藏癖"与知识欲，"some old, some ancient, some new"的递进暗示他跨越时间的积累；"obscure"把 Mrs Fell 的局外人位置坐实——读者与她一样看不懂这些器械。
 
@@ -34,7 +34,7 @@ source_text: ch02
 
 **中文理解**：他是一位高个、棱角分明的男人，处于人生的冬天，身着深色正式服装，像一只沉思的、形容枯槁的乌鸦；可当他转过身面对访客，宽大而看似天真的微笑立刻给他的脸注入了活力与热情。
 
-**关键词**：cadaverous（形容枯槁的）· guileless（天真的）· verve（活力）
+**关键词**：cadaverous（形容枯槁的） /  guileless（天真的） /  verve（活力）
 
 **为什么这样写**：先给狄更斯式的老吝啬鬼轮廓（形容枯槁的乌鸦），再用 smile 打破——"seemingly guileless" 的 "seemingly" 是作者的标志性保留，暗示他的善意可能只是表象。
 
@@ -44,7 +44,7 @@ source_text: ch02
 
 **中文理解**："Mrs Fell！请进、请进，热烈欢迎。请原谅这一团乱。我永远打算把它整理成某种秩序。把船长逼疯了，是不是，Ambrose？"
 
-**关键词**：muddle（一团乱）· forever intending（永远打算）
+**关键词**：muddle（一团乱） /  forever intending（永远打算）
 
 **为什么这样写**：Scrooge 的第一句话就是道歉加幽默，与 狄更斯 的"Bah! Humbug!" 形成尖锐对照；"forever intending" 自嘲拖延，立刻让他人性化。
 
@@ -54,7 +54,7 @@ source_text: ch02
 
 **中文理解**："不客气，"老人说，"相信我，我花了相当多——太多——的人生把人拒之门外。如今我至少能做的，就是把门永远对需要帮助的人敞开。"
 
-**关键词**：turning people away（把人拒之门外）· forever open（永远敞开）· in need（需要帮助的人）
+**关键词**：turning people away（把人拒之门外） /  forever open（永远敞开） /  in need（需要帮助的人）
 
 **为什么这样写**：Scrooge 把自己的过去定义为"turning people away"，这是对 狄更斯 原著的直接回应（Fred、慈善募捐者的拒绝）；"forever open" 把使命宣言口头化，与俱乐部铭文 "Mittamus lucem in abyssum" 呼应。
 
@@ -64,7 +64,7 @@ source_text: ch02
 
 **中文理解**："那么，让我们看看能否在目前只有黑暗的地方投下一束光。Mrs Fell，您想喝点茶吗？" Louisa 说愿意，因为她的旅程漫长，且她没有时间吃喝。
 
-**关键词**：cast some light（投下一束光）· darkness（黑暗）· refreshment（茶点）
+**关键词**：cast some light（投下一束光） /  darkness（黑暗） /  refreshment（茶点）
 
 **为什么这样写**：Scrooge 再次使用 "cast light" 一词，把俱乐部铭文的使命口头化；茶的提供是日常节奏的开始，把审问推迟，让紧张缓和。
 
@@ -74,7 +74,7 @@ source_text: ch02
 
 **中文理解**：Mrs Fell 意识到 Scrooge 的目光落在她身上。她当然与之对视，她在他眼中看到了如之前所见的丰富的慷慨与善意，但还有别的东西——某种警觉的东西，甚至某种狡黠的东西。
 
-**关键词**：gaze（凝视）· watchful（警觉的）· cunning（狡黠的）
+**关键词**：gaze（凝视） /  watchful（警觉的） /  cunning（狡黠的）
 
 **为什么这样写**：作者用 "both... but there was also" 的三段式把他的善意与狡黠并置，避免救赎叙事过于感伤；"as she had before" 暗示女士此前已见过他（或其画像/声誉）。
 
@@ -84,7 +84,7 @@ source_text: ch02
 
 **中文理解**："您的广告非同寻常，"她说。"我怕我是一个喜欢不寻常事物的不寻常的男人。""那么我的故事可能对您有相当大的兴趣，"女士说。他看着她，眼中可见明显的寒意。他轻声地说："是的，我相信可能如此。"他仔细地看着她。"你见过什么，不是吗？一个灵体。"
 
-**关键词**：unusual（不寻常的）· considerable interest（相当大的兴趣）· chill（寒意）· very softly（轻声地）· spirit（灵体）
+**关键词**：unusual（不寻常的） /  considerable interest（相当大的兴趣） /  chill（寒意） /  very softly（轻声地） /  spirit（灵体）
 
 **为什么这样写**：三句对话用 "unusual" 三次递进，把他的怪癖与女士的故事预先对接；"considerable interest" 是女士的试探，他的回应（chill）确认她猜对了。他的寒意把茶的日常节奏瞬间转为审问；"very softly" 与 "chill" 的并置制造威胁感——他不是被动的倾听者，而是主动的调查者。
 
@@ -94,7 +94,7 @@ source_text: ch02
 
 **中文理解**："也许，"她说。然后："是的。"然后："很多年前。"此时 Captain Ambrose 匆匆回到房间，手中托着银盘，上面有茶壶、杯子和一盘温热的松饼。
 
-**关键词**：Perhaps（也许）· Many years ago（很多年前）· silver tray（银盘）
+**关键词**：Perhaps（也许） /  Many years ago（很多年前） /  silver tray（银盘）
 
 **为什么这样写**：女士的三段式回答（也许 → 是的 → 很多年前）是逐步坦白的节奏，把超自然体验在时间上锚定在"很多年前"；船长带茶归来打断坦白，把紧张重新搁置。
 
@@ -104,7 +104,7 @@ source_text: ch02
 
 **中文理解**："我希望，"Scrooge 对 Mrs Fell 说，当他们都手握杯子、松饼已被吃得只剩碎屑之后，"你不会介意这位好船长在场。他四年前在奇异的情况下来到我这里，现在我发现没有他我几乎做不了多少工作。"
 
-**关键词**：peculiar circumstances（奇异的情况）· reduced to crumbs（被吃得只剩碎屑）· cannot do very much of my work without him（没有他做不了多少工作）
+**关键词**：peculiar circumstances（奇异的情况） /  reduced to crumbs（被吃得只剩碎屑） /  cannot do very much of my work without him（没有他做不了多少工作）
 
 **为什么这样写**：Scrooge 把 Ambrose 的出身推迟为 "peculiar circumstances"，与 Mrs Fell 的 "Many years ago" 形成对应——两人都有神秘的过去；松饼 "reduced to crumbs" 的日常细节把超自然的紧张重新落回日常生活，让读者在审问与款待之间摇摆。
 
@@ -114,7 +114,7 @@ source_text: ch02
 
 **中文理解**："很好，"Scrooge 说。他向前倾身，就在这时，外面的太阳上一定飘过一朵云，一束光照亮了他的苍老面容。"那么，Mrs Fell，能否请您告诉我们，您今天来 The Club of Decent-Hearted Men 究竟所为何事？"
 
-**关键词**：leaned forward（向前倾身）· shaft of light（一束光）· illumined（照亮）
+**关键词**：leaned forward（向前倾身） /  shaft of light（一束光） /  illumined（照亮）
 
 **为什么这样写**：Scrooge 的 "Very good" 是信号——他已确认 Mrs Fell 的超自然经历，现在要求全部披露；"shaft of light illumined his aged face" 把 "cast light" 的母题视觉化，Scrooge 的脸被光照亮，象征他使命的启蒙；章节收在问题上，把叙事球交还 Mrs Fell，也为下一章的坦白做铺垫。
 
