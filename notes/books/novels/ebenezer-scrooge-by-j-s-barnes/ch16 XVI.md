@@ -34,7 +34,7 @@ source_text: ch16
 
 **中文理解**："你认为他是骗子？还是……今晚之前是骗子，今晚之后不是？”我不确定事情是否像你说的那样黑白分明，"Scrooge 说，"但我远不能确定我们与 Beck 先生已经了结，或者他与我们已经了结。”我敢肯定 Talbot 先生还没跟他完，"那位女士以一种颇为费力的轻快语气说，"因为他斩钉截铁地说，他一定要向那位先生讨回全部酬金。"Scrooge 轻轻笑了一声，说他对那个结局并不抱什么高希望；不过他随即以更郑重的语气补充："我真希望我们能在他逃走之前直接跟他说上话。我本想就他与 Gowing 先生表面上的关联，还有那栋房子，问他几个问题。你没认出他吧？”没有，"那位女士说，"如果他确实住过我叔父那儿，那一定是在家族失和之后好些年了。"
 
-**关键词**：a fraud until tonight（今晚之前是骗子）/ plain-cut as that（黑白分明）/ far from certain（远不能确定）/ done with Mr Beck（与 Beck 了结）/ a rather effortful lightness of tone（颇为费力的轻快语气）/ adamant（斩钉截铁）/ full repayment of that gentleman's fee（讨回全部酬金）/ I do not hold out high hopes（并不抱高希望）/ in graver tones（更郑重的语气）/ in some fashion（以某种方式）
+**关键词**：a fraud until tonight（今晚之前是骗子）/ plain-cut as that（黑白分明）/ far from certain（远不能确定）/ done with Mr Beck（与 Beck 了结）/ a rather effortful lightness of tone（颇为费力的轻快语气）/ adamant（斩钉截铁）/ full repayment of that gentleman's fee（讨回全部酬金）/ I do not hold out high hopes（并不抱高希望）/ in graver tones（更郑重的语气）
 
 **为什么这样写**：Scrooge 那句 "a fraud until tonight?"（今晚之前才是骗子？）是全章最见机锋的一句反问——它把二元判断拆成时间轴：骗子可以先是骗子、后来不是；这与他后文"不知哪更糟"的思想一脉相承。而 "I am not sure that matters are quite so plain-cut as that"（事情并非如此黑白分明）用的是他一贯的精确保留句式，"plain-cut"（干脆分明）本身带双关："plain"可作"朴素"。Fell 太太那句 "a rather effortful lightness of tone"（颇为费力的轻快语气）很妙：作者不写她"故作轻松"，而写这份轻松是费力的，于是读者知道她正在安抚他、也在掩饰自己的怕。Talbot 的 "adamant"（斩钉截铁）与 Scrooge 的 "I do not hold out high hopes"（对那位先生讨回酬金不抱高希望）形成人物对照：外行要讨说法，内行知道要不来。最后 Scrooge 的追问 "You didn't recognise him, I suppose?"（你没认出他吧）把悬疑钉在 Fell 太太身上——她若认得，这案就简单了；她的回答是"家族失和之后好些年"，反而把时间线推到更深处。
 
