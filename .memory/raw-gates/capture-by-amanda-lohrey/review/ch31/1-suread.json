@@ -1,0 +1,54 @@
+{
+ "chapter": "ch31",
+ "source": "notes/books/novels/capture-by-amanda-lohrey/text/ch31_incubatio.txt",
+ "facts": [
+  {
+   "claim": "十三岁男孩 Selim 兜售小册子",
+   "anchor": "I am thirteen years",
+   "span": [
+    2185,
+    2204
+   ]
+  },
+  {
+   "claim": "只有男性可入内殿",
+   "anchor": "but only if you were male",
+   "span": [
+    2901,
+    2926
+   ]
+  },
+  {
+   "claim": "狗神圣，且被鼓励去舔病人伤口",
+   "anchor": "encouraged to lick the flesh wounds of patients",
+   "span": [
+    3843,
+    3890
+   ]
+  },
+  {
+   "claim": "祭司夜里在耳边低语药名",
+   "anchor": "whispered the names of remedies in your ear",
+   "span": [
+    5210,
+    5253
+   ]
+  },
+  {
+   "claim": "他在那几美元里找到天职",
+   "anchor": "I had found my vocation",
+   "span": [
+    5936,
+    5959
+   ]
+  },
+  {
+   "claim": "梦屋＝incubatio，梦中新意义被孵化",
+   "anchor": "new meanings are hatched",
+   "span": [
+    7284,
+    7308
+   ]
+  }
+ ]
+}

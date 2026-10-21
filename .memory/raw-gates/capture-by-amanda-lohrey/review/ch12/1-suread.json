@@ -1,0 +1,46 @@
+{
+ "chapter": "ch12",
+ "source": "notes/books/novels/capture-by-amanda-lohrey/text/ch12_caf_europa.txt",
+ "facts": [
+  {
+   "claim": "Lucy 想谈长寿医学，因 Scott 提雇主想永生",
+   "anchor": "wants to talk about longevity medicine",
+   "span": [
+    35,
+    73
+   ]
+  },
+  {
+   "claim": "Jim 讲 Aubrey de Grey 与 Methuselah Foundation",
+   "anchor": "Aubrey de Grey",
+   "span": [
+    481,
+    495
+   ]
+  },
+  {
+   "claim": "露西问「我熟悉最新成果吗」——问的是马瑟是否熟悉",
+   "anchor": "Am I familiar with the latest findings",
+   "span": [
+    166,
+    204
+   ]
+  },
+  {
+   "claim": "长寿逃逸速度：每年多活一年即可永生",
+   "anchor": "longevity escape velocity",
+   "span": [
+    1029,
+    1054
+   ]
+  },
+  {
+   "claim": "马瑟想到父亲死时的解脱",
+   "anchor": "the relief I had felt when my caustic father died",
+   "span": [
+    1821,
+    1870
+   ]
+  }
+ ]
+}

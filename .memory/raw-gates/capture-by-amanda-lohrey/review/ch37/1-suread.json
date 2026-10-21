@@ -1,0 +1,46 @@
+{
+ "chapter": "ch37",
+ "source": "notes/books/novels/capture-by-amanda-lohrey/text/ch37_chap37.txt",
+ "facts": [
+  {
+   "claim": "门垫上有 Lucy 从雅典寄来的信",
+   "anchor": "a letter from Lucy, postmarked Athens",
+   "span": [
+    179,
+    216
+   ]
+  },
+  {
+   "claim": "十一点整三只鸟来啄玻璃",
+   "anchor": "on the dot of eleven",
+   "span": [
+    828,
+    848
+   ]
+  },
+  {
+   "claim": "他说「你的朋友来了，伊薇特」",
+   "anchor": "Your friends are here, Yvette",
+   "span": [
+    1145,
+    1174
+   ]
+  },
+  {
+   "claim": "Lucy 信里在写「傲慢的编年史」",
+   "anchor": "a chronicle of hubris",
+   "span": [
+    3525,
+    3546
+   ]
+  },
+  {
+   "claim": "点了一份咸味布里欧修，一口没动",
+   "anchor": "leave it on the plate untouched",
+   "span": [
+    4313,
+    4344
+   ]
+  }
+ ]
+}

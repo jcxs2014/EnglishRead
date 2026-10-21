@@ -1,0 +1,47 @@
+{
+ "chapter": "ch01",
+ "source": "notes/books/novels/capture-by-amanda-lohrey/text/ch01_chap1.txt",
+ "facts": [
+  {
+   "claim": "布拉格咖啡馆与导师 Helena 晚餐，委托研究 experiencers",
+   "anchor": "I have a commission for you",
+   "span": [
+    6043,
+    6070
+   ]
+  },
+  {
+   "claim": "她去年的病人是会计师、离婚求诊、坚持「I saw what I saw」",
+   "anchor": "He’s an accountant",
+   "span": [
+    8396,
+    8414
+   ]
+  },
+  {
+   "claim": "叙述者姓氏 Mather 不在本章出现，见 ch03:64「I, James Mather, …」",
+   "anchor": "James Mather",
+   "span": [
+    7145,
+    7160
+   ],
+   "where": "ch03"
+  },
+  {
+   "claim": "孙女 Caitlin 因进食障碍住院",
+   "anchor": "Caitlin",
+   "span": [
+    5271,
+    5278
+   ]
+  },
+  {
+   "claim": "侍者 Marek 像卡夫卡照片",
+   "anchor": "I am Marek",
+   "span": [
+    2487,
+    2497
+   ]
+  }
+ ]
+}
