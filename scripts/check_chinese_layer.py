@@ -56,8 +56,12 @@ v1 只判「整段无汉字」，结果同一批修复任务出现三种**假修
      ⑨ **中英夹杂（单条）**：字段有中文，但**英文单词字符占比 > 35%**
         ——2026-10-20 用户拍板由提示型升级为阻断型（v2 原只作提示，
         被「提示型可整层忽略」的教训推翻）
+     ⑪ **骨架层：`## 本章导航` / `## 一句话总结` 散文中文占比 <35% / <30%**
+        ——2026-10-21 补（v1–v3 完全不看这两节：don-t-leave-her-alone 的 ch11–ch17
+        「一句话总结」只有 4%–11% 中文，而 18 lane 全绿）。0.35–0.60 / 0.30–0.60 记提示。
   ⚠️ 提示型（只记不改）
      ⑩ 总览行内英文引语（AGENTS 第 9 条 d2 违规：英文原句必须成行引用块）
+     ⑫ 「句子结构」散文中文占比 <20%（正常书写实测 0.68 以上；多出现在整段照抄英文结构说明）
   ❓ 跳过型
      本书一个引语块都没解析出来 → **不算通过**，报「无法判定」
 
@@ -369,6 +373,78 @@ def scan_overview(book_dir):
     return findings
 
 
+# ── 章节骨架层语言（导航 / 一句话总结 / 句子结构）──────────────────────────
+# ⚠️ 为什么单列：v1–v3 只查引语块下的四个字段，**`## 本章导航` 与
+#    `## 一句话总结` 完全在口径外**。2026-10-21 实测 don-t-leave-her-alone：
+#    18 lane 全绿，而 ch11–ch17 的「一句话总结」中文字符占比只有 4%–11%
+#    （整段英文），ch10–ch17 的导航 26%–38%。全库同批命中 18 本。
+#    ⇒ 这两个字段是每章的门面，写英文等于没写，必须与「中文理解」同级判红。
+# 阈值来历：先剥掉引号内原文（引用英文原句是正当写法），只量散文部分。
+#    正常中文导航/总结实测 0.75–1.00（a-fatal-legacy 0.98 / bright-girl 0.75）；
+#    0.35 以下已无合法写法能到达（专名再多也压不到这个数），故作阻断线。
+NAV_BLOCK = 0.35      # `## 本章导航` 散文中文占比 < 0.35 ⇒ 阻断
+NAV_WARN = 0.60       # 0.35–0.60 ⇒ 提示（半英半中）
+SUMM_BLOCK = 0.30     # `## 一句话总结` < 0.30 ⇒ 阻断
+SUMM_WARN = 0.60
+STRUCT_WARN = 0.20    # `句子结构` 散文中文占比 < 0.20 ⇒ 提示（正常书写到 0.68 以上）
+MIN_LETTERS = 12      # 剥引号后不足 12 个字符的字段不判（无从判断，不是缺陷）
+
+
+def prose_ratio(text):
+    """剥掉引号内原文与反引号代码后，返回中文字符占比；样本太短返回 None。"""
+    bare = QUOTED.sub(" ", text or "")
+    zh = len(HAN.findall(bare))
+    en = len(ENW.findall(bare))
+    if zh + en < MIN_LETTERS:
+        return None
+    return zh / (zh + en)
+
+
+def _heading_body(text, heading):
+    m = re.search(r"^## " + heading + r"\s*$(.*?)(?=^## |\Z)", text, re.M | re.S)
+    return m.group(1) if m else None
+
+
+def scan_skeleton_language(book_dir):
+    """扫每章 `## 本章导航` / `## 一句话总结` / `句子结构` 的散文语言。
+
+    返回 (blocking_items, hint_items)，元素是 {file,line,ratio,kind,quote}。
+    """
+    blocking, hint = [], []
+    for path in sorted(glob.glob(os.path.join(book_dir, "ch*.md"))):
+        text = open(path, encoding="utf-8").read()
+        name = os.path.basename(path)
+
+        def line_of(body):
+            idx = text.find(body.strip()) if body else -1
+            return text[:idx].count("\n") + 1 if idx >= 0 else 0
+
+        for heading, block_line, warn_line, label in (
+            ("本章导航", NAV_BLOCK, NAV_WARN, "导航"),
+            ("一句话总结", SUMM_BLOCK, SUMM_WARN, "总结"),
+        ):
+            body = _heading_body(text, heading)
+            if body is None:
+                continue                       # 本书不用这一节 ⇒ 不判（不是缺陷）
+            r = prose_ratio(body)
+            if r is None:
+                continue
+            item = {"file": name, "line": line_of(body), "ratio": r,
+                    "quote": f"{heading} 散文中文占比 {r:.0%}"}
+            if r < block_line:
+                blocking.append(dict(item, kind=f"{label}非中文"))
+            elif r < warn_line:
+                hint.append(dict(item, kind=f"{label}偏英文"))
+
+        for m in re.finditer(r"\*\*句子结构\*\*[：:](.*?)(?=\n\n|\n>|\Z)", text, re.S):
+            r = prose_ratio(m.group(1))
+            if r is not None and r < STRUCT_WARN:
+                hint.append({"file": name, "line": text[:m.start()].count("\n") + 1,
+                             "ratio": r, "kind": "句子结构偏英文",
+                             "quote": f"句子结构 散文中文占比 {r:.0%}"})
+    return blocking, hint
+
+
 def main():
     ap = argparse.ArgumentParser(description="中文层体检：分析字段必须是中文、不能是空话")
     ap.add_argument("book_dir")
@@ -508,6 +584,13 @@ def main():
             "file": "（整层）", "line": 0,
             "quote": f"合格分析 {good_blocks}/{total} 块，密度 {density:.0%} < {DENSITY_FLOOR:.0%}",
         }]
+
+    # 章节骨架层：导航 / 一句话总结 / 句子结构（2026-10-21 纳入）
+    skel_block, skel_hint = scan_skeleton_language(args.book_dir)
+    for it in skel_block:
+        blocking.setdefault(it.pop("kind"), []).append(it)
+    for it in skel_hint:
+        hinting.setdefault(it.pop("kind"), []).append(it)
 
     # 总览三篇
     overview_findings = []
