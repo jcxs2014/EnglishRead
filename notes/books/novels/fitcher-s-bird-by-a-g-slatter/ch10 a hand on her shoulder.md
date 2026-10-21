@@ -15,19 +15,31 @@ modified: "2026-10-20"
 
 ## 精读
 
-> **原句 1:** "Olivia had found it on one of their walks in the woods (she always collected such charms), laughingly named it ‘Fitcher’s Bird’ for a fairy tale she’d tell her daughters at night – this one most often because it was a lesson in sisters looking out for each other. That they had to be sword and shield for each other, and it was a lesson Dido learned well for she was the one who heard that tale through every time; the others, younger, fell asleep before the end, mostly, but it carved itself upon Dido’s heart. Her pattern for loyalty and responsibility. Your sisters, your self."
+> **原句 1:** "Olivia had found it on one of their walks in the woods (she always collected such charms), laughingly named it ‘Fitcher’s Bird’ for a fairy tale she’d tell her daughters at night – this one most often because it was a lesson in sisters looking out for each other."
 
-**中文理解**：那只头骨是奥莉维亚在林子里散步时捡的（她一向爱收集这类小护符），她笑着给它取名「Fitcher 的鸟」，因为这是她夜里常给女儿们讲的那个童话——讲得最勤，因为它是「姐妹要互相照看」的一课：她们必须互为剑与盾。这一课 Dido 学得最牢，因为只有她每次都把故事听完了；更小的两个常常没听到结尾就睡着，可它已经刻进她心里，成了她对忠诚与责任的模板——你的妹妹，就是你自己。
+**中文理解**：那只头骨是奥莉维亚在林子里散步时捡的（她一向爱收集这类小护符），她笑着给它取名「Fitcher 的鸟」，因为这是她夜里常给女儿们讲的那个童话——讲得最勤，因为它是「姐妹要互相照看」的一课。
 
-**关键词**：Fitcher’s Bird（童话之名 亦为头骨之名）/ sword and shield（互为剑与盾）/ loyalty and responsibility（忠诚与责任）
+**关键词**：charms（小护符）/ Fitcher’s Bird（童话之名 亦为头骨之名）/ lesson（一课）
 
-**为什么这样写**：这一段的分量在「谁记住了」。童话在本书里一直是被讲出来的东西，而这里它被交还给受害者一方：同一个故事，从「哄睡」变成「守则」。作者用三个短句收尾，把整段叙述压成格言——先是「她忠诚与责任的模板」，再是「你的妹妹就是你自己」——仿佛这段话不是写给读者看的，而是 Dido 从小默念的句子。更冷的是那个对比：听完全程的人后来去找妹妹，先睡着的两个后来一个被掳走、一个被带走。
+**为什么这样写**：母亲把一只鸟的头骨命名为童话里的鸟，等于替一件死物挂上了故事——这是她的方式：把恐怖的东西改成可爱的、可讲给孩子听的。而「讲得最勤」说明这个决定的重量：她越强调姐妹要互相照看，越说明她怕的是什么。
 
-**读者视角提示**：记住「只有她听完了」这个细节——它解释了后面所有不合理的举动：她为什么替妹妹还债、为什么挨骂还继续找、为什么明知危险还要回自己家。也留意头骨的名字：一只鸟的头骨被叫作「鸟」，而这本书里真正的鸟一直是空心的。下一段她立刻想到要把这块骨头藏起来，一个八岁孩子对承诺的第一反应，是防人。
+**读者视角提示**：留意头骨的名字：一只鸟的头骨被叫作「鸟」，而这本书里真正的鸟一直是空心的。名字与实物之间的错位，正是全书所有仪式的原型。
 
-**句子结构**：整段其实是一个被拉长的同位语：it 指头骨，后面用分词（named）和名词短语（Her pattern…／Your sisters…）一层层追加说明。括号插话负责交代母亲的收集癖，破折号负责交代「为什么讲得最多」，分号把「她听完了」和「别人睡着了」并置。最后两个没有动词的短句把语法人为地停住，像在石头上刻字。
+**句子结构**：整句是一串追加的修饰：先给「谁捡的」，再用括号交代癖好，再用分词短语（laughingly named it…）交代名字与来历，最后用 because 从句给出理由；破折号后补一句「讲得最勤」，把频率也变成信息。
 
-> **原句 2:** "The woman’s – Persephone’s – hand on Dido’s – Mae’s – shoulder, heavy and hard like an obligation. ‘Now, let’s get you all changed out of those awful things into some pretty dresses.’"
+> **原句 2:** "That they had to be sword and shield for each other, and it was a lesson Dido learned well for she was the one who heard that tale through every time; the others, younger, fell asleep before the end, mostly, but it carved itself upon Dido’s heart. Her pattern for loyalty and responsibility. Your sisters, your self."
+
+**中文理解**：她们必须互为剑与盾。这一课 Dido 学得最牢，因为只有她每次都把故事听完了；更小的两个常常没听到结尾就睡着，可它已经刻进她心里，成了她对忠诚与责任的模板——你的妹妹，就是你自己。
+
+**关键词**：sword and shield（互为剑与盾）/ learned well（学得最牢）/ pattern for loyalty and responsibility（忠诚与责任的模板）/ Your sisters, your self（你的妹妹就是你自己）
+
+**为什么这样写**：这一段的分量在「谁记住了」。童话在本书里一直是被讲出来的东西，而这里它被交还给受害者一方：同一个故事，从「哄睡」变成「守则」。作者用三个短句收尾，把整段叙述压成格言，仿佛这段话不是写给读者看的，而是 Dido 从小默念的句子。
+
+**读者视角提示**：记住「只有她听完了」这个细节——它解释了后面所有不合理的举动：她为什么替妹妹还债、为什么挨骂还继续找、为什么明知危险还要回自己家。
+
+**句子结构**：主句是一串并列（had to be sword and shield…／it was a lesson…／it carved itself…），通过 for 与 but 转折推进；最后两个没有动词的短句把语法人为地停住，像在石头上刻字。
+
+> **原句 3:** "The woman’s – Persephone’s – hand on Dido’s – Mae’s – shoulder, heavy and hard like an obligation. ‘Now, let’s get you all changed out of those awful things into some pretty dresses.’"
 
 **中文理解**：那个女人的——珀耳塞福涅的——手，按在 Dido 的——也就是 Mae 的——肩上，又沉又硬，像一项义务。「好了，来把你们这些难看的衣服都换掉，换上漂亮裙子。」
 
@@ -39,7 +51,8 @@ modified: "2026-10-20"
 
 **句子结构**：首句没有谓语，是一个纯粹的名词短语加介词短语（手在肩上），靠两个插入的破折号把它切成四截，读起来一顿一顿，像被人按着肩膀说话。第二句才给动词，而且是祈使句（let’s），把镜头从远景的手切到近景的裙子；引号一开，叙述者的声音退场，只剩下那个女人的热情。
 
-> **原句 3:** "There’s another sound, beneath the beeping, something stealthy, thinking it doesn’t need to be quite so careful, that the beep will cover its approach; doesn’t know how keen her hearing is because of all those childhood nights, the habit of listening for someone creeping towards you."
+
+> **原句 4:** "There’s another sound, beneath the beeping, something stealthy, thinking it doesn’t need to be quite so careful, that the beep will cover its approach; doesn’t know how keen her hearing is because of all those childhood nights, the habit of listening for someone creeping towards you."
 
 **中文理解**：蜂鸣底下还有另一种声音，鬼鬼祟祟的，自以为不必那么小心——以为那嘟嘟声能盖住它靠近的动静；它不知道她的耳朵有多尖，因为童年那些夜晚，她早就养成了听人摸过来的习惯。
 
@@ -51,7 +64,8 @@ modified: "2026-10-20"
 
 **句子结构**：以存在句开头，随后两个分词短语把一句拆成「它在想什么」和「它不知道什么」两层；分号正好落在两层之间，是视角交接的缝。全句没有一个人称主语，只有声音与听觉，直到末尾那个物主代词才把 Dido 悄悄放回句子里。
 
-> **原句 4:** "A hand on her shoulder, heavy and hard, throws her momentarily back to the farmhouse, that day, that second, the wife’s hand like a full stop, and she’s hurled to the floor, face hitting the edge of the sofa, the wooden armrests. Her cheekbone crunches, she imagines the bruises she’ll have, before finding the skull and crossbones of the ball of wool, the knitting needles. Dido wraps her fingers around one of the needles, pivots on her knees, stabs downward at the sound of footsteps, meets resistance, hears a grunt that transforms into a scream"
+
+> **原句 5:** "A hand on her shoulder, heavy and hard, throws her momentarily back to the farmhouse, that day, that second, the wife’s hand like a full stop, and she’s hurled to the floor, face hitting the edge of the sofa, the wooden armrests. Her cheekbone crunches, she imagines the bruises she’ll have, before finding the skull and crossbones of the ball of wool, the knitting needles. Dido wraps her fingers around one of the needles, pivots on her knees, stabs downward at the sound of footsteps, meets resistance, hears a grunt that transforms into a scream"
 
 **中文理解**：一只手按上她的肩，又沉又硬，一下把她拽回那座农舍、那一天、那一秒——妻子的手像一个句号；她被摔到地上，脸撞上沙发边缘和木扶手。颧骨咔的一声，她已经在想明天会有多青，手却先摸到了毛线球边那对交叉的织针。她攥住一根，跪着转身，朝脚步声的方向往下扎，扎到了东西，听见一声闷哼变成尖叫。
 
@@ -63,7 +77,8 @@ modified: "2026-10-20"
 
 **句子结构**：首句是一个被拆碎的长句：手（主语）→ 回忆（插入）→ 摔倒（结果）→ 撞到哪里（补语），逗号密集得像喘气；第二句用 before finding 把「疼」和「摸到针」压进同一句，动作抢在感觉前面；第三句六个动词并列（攥、转、扎、遇到、听见、看见），只在最后用一个定语从句把「闷哼」升级成「尖叫」，句子的音量就是伤口的音量。
 
-> **原句 5:** "‘It was me. Couldn’t get anyone to agree to an obo. Not worth the overtime, not when it’s just little old me from Romford asking. So, it was just me in my own car.’"
+
+> **原句 6:** "‘It was me. Couldn’t get anyone to agree to an obo. Not worth the overtime, not when it’s just little old me from Romford asking. So, it was just me in my own car.’"
 
 **中文理解**：「是我。没人肯答应来盯梢。为这点加班费不值——尤其还是我这么个从 Romford 来的小人物开口。所以就我一个人，开我自己的车。」
 

@@ -27,6 +27,7 @@ modified: "2026-10-20"
 
 **句子结构**：三个并列动词串成一条动作线（转身／翻找／摸出），主语只出现一次，全部重量压在手上；随后直接接引语，中间没有「他说」这类转述词，让那句话像跟着钥匙一起从碗里被掏出来。引语内部先用破折号补出钥匙的数目与挂饰，再用一句「不想多管闲事」把责任推开——句法上的退让正好是道德上的退让。
 
+
 > **原句 2:** "Resting on the cushions is another cutting from a newspaper, this one not hidden, not secreted between the pages of a book. Someone (with a heavy tread) assuming that someone else would come looking for Zoe, sooner or later. Dido picks up the clipping, again yellowed and smudged, and sits on the bed because her knees are shaking."
 
 **中文理解**：枕头上还搁着另一张剪报，这一张没有藏起来，也没有夹进书页里。留下它的人（脚步很重的那位）认定，迟早会有人来找 Zoe。Dido 拾起那张同样发黄、蹭得模糊的剪报，坐到床上，因为她的膝盖在抖。
@@ -38,6 +39,7 @@ modified: "2026-10-20"
 **读者视角提示**：和第 5 章那张剪报对照着看。那一张被夹进书页，要翻才找得到；这一张摊在枕头上，等人来拿。藏与不藏的区别，就是「让你找」和「让你找到」。也把两张的日期差记住：这一张比 Chloe 小屋那张晚五个月——两起失踪之间，凶手什么都没耽误。
 
 **句子结构**：前两句都以物作主语（一张剪报／某个人），人反而缺席；第三句才把 Dido 放回主语位置，而她做的第一件事是坐下。三个句子连着用现在时，像镜头一格一格推近。括号里那句是全段唯一的判断，作者把它压进括号，等于让凶手的声音降到旁白的音量。
+
 
 > **原句 3:** "There’s the farmhouse or what’s left of it. There’s the barn, barely more than a skeleton. Hard to believe anyone survived, let alone those three little girls. Mae who’d smelled the smoke and herded her sisters outside from their bedroom, which was at the opposite end of the house (to put a decent and moral separation between the new daughters and the family’s sons)."
 
@@ -51,6 +53,7 @@ modified: "2026-10-20"
 
 **句子结构**：四句里前两句是「有……」的清单句（农舍／谷仓），第三句是无主语的评价句，第四句忽然落进一个带长定语从句的人名句；括号把「卧室为什么在最远那头」压成一句旁注，让残忍以补充说明的语气出现，而不是以控诉的语气出现。
 
+
 > **原句 4:** "‘I smelled smoke. I woke my sisters.’ Doesn’t say that she’d been outside, under the full moon, watching it in the sky because it was the only calm moment she could steal for herself. Doesn’t say that she’d been praying. No one knows that. No one ever needs to know."
 
 **中文理解**：「我闻到烟。我叫醒了妹妹们。」她没说那晚她其实在屋外，站在满月底下看天上的月亮，因为那是她唯一能偷来给自己的一点安静。她也没说她在祈祷。没有人知道这件事。也永远不需要有人知道。
@@ -63,17 +66,30 @@ modified: "2026-10-20"
 
 **句子结构**：引语只占两个短句，后面全是第三人称的否定式报告，主语始终是「她」而动词一再是否定的；最后两个短句突然缩短、干脆去掉主语，变成一句判决。否定式在这里不是省略，是逐条清点她藏起来的东西。
 
-> **原句 5:** "‘I know. Every infraction incurred a punishment and just about anything could be an infraction. I took my sisters’ punishments, claimed their sins as my own. I’d tell the woman that I’d made them do whatever it was that had pissed her off, or say I’d done it.’ Dido lifts her shoulders slightly as if her scars demand it, then she relaxes, folds them away. ‘After the fire, someone managed to locate our mother’s aunt – no kids of her own, eccentric as fuck, but she took us in. Her surname was Forrester and she was the one who gave us our new names.’"
 
-**中文理解**：「我知道。每一次犯规都要受罚，而几乎任何事都能算犯规。我替妹妹们挨打，把她们的错认成自己的。我会告诉那个女人，是我让她们做了惹她生气的事，或者干脆说是我做的。」Dido 轻轻抬了抬肩，好像那些疤要求她这么做，随后又放松下来，把它们收好。「火灾之后，有人找到了我母亲的姑妈——她自己没有孩子，怪得要命，但她收下了我们。她姓 Forrester，我们的新名字就是她给的。」
+> **原句 5:** "‘I know. Every infraction incurred a punishment and just about anything could be an infraction. I took my sisters’ punishments, claimed their sins as my own. I’d tell the woman that I’d made them do whatever it was that had pissed her off, or say I’d done it.’"
 
-**关键词**：Every infraction incurred a punishment（每一次犯规都要受罚）/ took my sisters’ punishments（替妹妹们挨打）/ gave us our new names（给我们改了名）
+**中文理解**：「我知道。每一次犯规都要受罚，而几乎任何事都能算犯规。我替妹妹们挨打，把她们的错认成自己的。我会告诉那个女人，是我让她们做了惹她生气的事，或者干脆说是我做的。」
 
-**为什么这样写**：这一段同时办三件事。它解开了第 6 章那个谜——剪报上的女孩叫 Sally、Becky、Mae，如今却叫 Dido、Zoe、Chloe：名字是姑婆给的，旧名字连同旧身份一起被埋掉。它把「替妹妹挨打」写成陈述句而不是控诉，句子的主语一直是「我」。最狠的是中间那句身体描写：她抬肩，「好像那些疤要求她这么做」，然后立刻把它们收好——疤在替她说话，而她连这个也要管住，这个动作比任何哭诉都更能说明她是怎么活下来的。
+**关键词**：Every infraction incurred a punishment / took my sisters’ punishments / claimed their sins as my own
 
-**读者视角提示**：她对警探说的每一句都经过删减，上一段她自己承认没说的还有一半。这段自述里唯一没删的是「我替她们挨打」，因为那是她唯一愿意承认的功劳。另外注意姑婆的姓 Forrester——第 5 章警局里的人就是这么称呼她的。也就是说，她如今用的姓，来自一个没有孩子的女人；那个女人收下三个女孩，也顺手把她们旧的名字一起换掉了。
+**为什么这样写**：这一段把「替妹妹挨打」写成陈述句而不是控诉：她没有说母亲残酷，只说规则——任何事都算犯规。引语里两次出现「是我做的」，认罪被写成一套练熟的程序，主语始终是「我」，责任因此全部收到自己身上。
 
-**句子结构**：一段话里两次被叙述打断（她说话→叙述者写她的肩→她继续说话），节奏像她在换气；引语内部用「是我让她们……或者是我做的」这组平行句，把认罪写成一套练熟的程序，最后一句用姓与名收束，把整段家史压成两个名词。
+**读者视角提示**：她对警探说的每一句都经过删减，上一段她自己承认没说的还有一半。这段自述里唯一没删的是「我替她们挨打」，因为那是她唯一愿意承认的功劳。
+
+**句子结构**：引语内部三个平行句（I took / I’d tell / say I’d done）＋一个 or 的替换，把认罪写成一套备用方案；句子里几乎不出现「她」（母亲），主语被系统地留给了「我」。
+
+> **原句 6:** "Dido lifts her shoulders slightly as if her scars demand it, then she relaxes, folds them away. ‘After the fire, someone managed to locate our mother’s aunt – no kids of her own, eccentric as fuck, but she took us in. Her surname was Forrester and she was the one who gave us our new names.’"
+
+**中文理解**：Dido 轻轻抬了抬肩，好像那些疤要求她这么做，随后又放松下来，把它们收好。「火灾之后，有人找到了我母亲的姑妈——她自己没有孩子，怪得要命，但她收下了我们。她姓 Forrester，我们的新名字就是她给的。」
+
+**关键词**：lifts her shoulders / folds them away / eccentric as fuck / gave us our new names
+
+**为什么这样写**：最狠的是中间那句身体描写：她抬肩，「好像那些疤要求她这么做」，然后立刻把它们收好——疤在替她说话，而她连这个也要管住，这个动作比任何哭诉都更能说明她是怎么活下来的。接着她才交代名字的来历：新名字是姑婆给的，旧名字连同旧身份一起被埋掉。
+
+**读者视角提示**：注意姑婆的姓 Forrester——第 5 章警局里就是这么称呼她的。她如今用的姓，来自一个没有孩子的女人；那个女人收下三个女孩，也顺手把她们旧的名字一起换掉了。
+
+**句子结构**：一段话里被叙述打断两次（她说话→叙述者写她的肩→她继续说话），节奏像她在换气；最后一句用姓与名收束，把整段家史压成两个名词。
 
 ## 本章词汇
 

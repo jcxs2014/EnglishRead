@@ -27,19 +27,32 @@ modified: "2026-10-20"
 
 **句子结构**：陈述句连发，全是短句，中间用破折号补充、用冒号收束（`but right up until then: perfect`）。整段的节奏是「下判断、补理由、盖章」，这正是他脑子里那套流程的语法形状。
 
-> **原句 2:** "He’d expected her to come quietly like a sleeping puppy; instead he’d tried to put a feral cat in a sack. And she was so fucking fast. Bitch. He’d only had just enough time to get out of the house and lever himself over the back fence into a neighbouring garden before there came the shouts and thudding footsteps of some plod who’d blundered by while he’d spat blood from where she’d clocked his chin – fucking lucky he’d not lost a piece of his tongue, but he had bitten mostly through the inside of his lower lip, mouth filling with liquid salt and iron again and again."
+
+> **原句 2:** "He’d expected her to come quietly like a sleeping puppy; instead he’d tried to put a feral cat in a sack. And she was so fucking fast. Bitch. He’d only had just enough time to get out of the house and lever himself over the back fence into a neighbouring garden."
 
 **中文理解**：他本以为她会像一只睡着的幼犬那样乖乖就范；结果他是在把一只野猫往麻袋里塞。而且她快得要命。贱人。他只来得及逃出屋子、翻过后院篱笆落进邻居家的花园，随后就是一个巡警的喊声和越来越近的脚步声——那警察碰巧在附近晃，而他正吐着血，那是她一拳打在他下巴上打出来的。运气好，舌头没掉一块，可下唇内侧几乎被他自己咬穿，嘴里一次又一次灌满咸腥的铁味。
 
-**关键词**：sleeping puppy / feral cat in a sack / plod / clocked his chin / liquid salt and iron
+**关键词**：sleeping puppy（睡着的幼犬）/ feral cat in a sack（麻袋里的野猫）/ quietly（乖乖地）
 
-**为什么这样写**：全章第一次让「受害者」以**动作**出现——不是尸体、不是照片，而是一个把他打到翻墙的人。两个动物比喻成对：他预期的是睡着的幼犬，碰上的是塞不进口袋的野猫。作者还故意让他只挨了一下就被迫撤退，让「最年长的那个」在还没出场时就先赢了半分。
+**为什么这样写**：全章第一次让「受害者」以动作出现——不是尸体、不是照片，而是一个把他打到翻墙的人。两个动物比喻成对：他预期的是睡着的幼犬，碰上的是塞不进口袋的野猫。作者还故意让他只挨了一下就被迫撤退，让「最年长的那个」在还没出场时就先赢了半分。
 
 **读者视角提示**：这一拳是 Dido 在整个故事里唯一一次正面出手，而她自己此刻还不知道——下一段她才在旅店醒来，只当那是「昨天」。读者比她多知道一层，这层落差就是本章的悬念。
 
-**句子结构**：分号把两个动物比喻并置（预期／现实）；随后两个独词句把叙述者的情绪顶出来；主句一路用过去完成时堆叠（`He'd expected`、`he'd tried`、`He'd only had`），像在替自己复述一份事故报告。
+**句子结构**：分号把两个动物比喻并置（预期／现实）；随后两个独词句（And she was so fucking fast. Bitch.）把叙述者的情绪顶出来；主句一路用过去完成时堆叠（He’d expected／he’d tried／He’d only had），像在替自己复述一份事故报告。
 
-> **原句 3:** "Gathered their remains, dug a trench behind the barn, made his own bone pit. Everyone went in there – the owners, the walkers, the women he’d vanished to get his hand back in the game. Practice. Everyone except those two, those last two, those Foxhill girls, littlest and middlest. They’re part of a special project."
+> **原句 3:** "before there came the shouts and thudding footsteps of some plod who’d blundered by while he’d spat blood from where she’d clocked his chin – fucking lucky he’d not lost a piece of his tongue, but he had bitten mostly through the inside of his lower lip, mouth filling with liquid salt and iron again and again."
+
+**中文理解**：他翻过篱笆之后，喊声与沉重的脚步声追了上来——那是个碰巧路过的巡警。他正吐着血，是她一拳打在他下巴上打出来的；运气好，舌头没掉一块，可下唇内侧几乎被他自己咬穿，嘴里一次又一次灌满咸腥的铁味。
+
+**关键词**：plod（巡警的俚称）/ clocked his chin（打在他下巴上）/ liquid salt and iron（咸腥的铁味）
+
+**为什么这样写**：这一段只有一个身体反应，却被写成反复的：again and again。作者不写他怕，只写他嘴里的味道——恐惧变成了身体自己记得的事。而「运气好」三个字是他给自己的评语，与倒在血里的处境放在一起，显出这个人对自己的在意远大于对别人。
+
+**读者视角提示**：注意他受伤的原因：不是她打的，是他自己咬穿的。他把自己弄伤这件事安排进叙述里，读者可以留意他后面如何把每一次遭遇都讲成别人的错。
+
+**句子结构**：句子以破折号起头，接上前一句的运气；用 but 把「没掉舌头」与「咬穿嘴唇」对调，重心落在后者；末尾的分词短语（mouth filling…）把生理感受挂在句尾，again and again 加重了反复感。
+
+> **原句 4:** "Gathered their remains, dug a trench behind the barn, made his own bone pit. Everyone went in there – the owners, the walkers, the women he’d vanished to get his hand back in the game. Practice. Everyone except those two, those last two, those Foxhill girls, littlest and middlest. They’re part of a special project."
 
 **中文理解**：他把它们的尸骸收拢起来，在谷仓后挖了一条沟，给自己造了一个骨坑。所有人都在那儿——房主、那些徒步客、那些被他「弄消失」、用来找回手感的女人。练手。所有人，除了那两个，最后那两个，那对 Foxhill 家的女孩，最小的和老二。她们属于一个特别项目。
 
@@ -51,7 +64,8 @@ modified: "2026-10-20"
 
 **句子结构**：三个动词并列开头，主语（他）被省掉，动作像清单；破折号后面用三类人把范围铺开；然后一个单词句打断，再用 Everyone except… 把例外挑出来。句式本身就在做分类，和他分类尸体的动作同构。
 
-> **原句 4:** "He should have known the oldest would be the hardest; if he’d paid attention, at all, he’d have known that firstborn daughters were the toughest things on the planet, resilient and spiky: human cacti."
+
+> **原句 5:** "He should have known the oldest would be the hardest; if he’d paid attention, at all, he’d have known that firstborn daughters were the toughest things on the planet, resilient and spiky: human cacti."
 
 **中文理解**：他早该知道最年长的那个会最难对付；只要他稍稍留意过，就该知道长女是这个星球上最难缠的东西，韧、扎手：人形仙人掌。
 
@@ -63,7 +77,8 @@ modified: "2026-10-20"
 
 **句子结构**：虚拟语气三连（`should have known`、`if he'd paid attention`、`he'd have known`），全部指向「他本可以知道」；冒号后面的名词短语把整句压成一个比喻收尾，短、硬、带刺。
 
-> **原句 5:** "He was committed well before you ever went to Ashwood Farm. His father signed off on it. Benjamin’s been there the last twenty-two years.’ Howard took a deep breath. ‘Or he was until a couple of months ago, when he was allowed out on a day release – having been a good patient and earned a privilege – and didn’t return."
+
+> **原句 6:** "He was committed well before you ever went to Ashwood Farm. His father signed off on it. Benjamin’s been there the last twenty-two years.’ Howard took a deep breath. ‘Or he was until a couple of months ago, when he was allowed out on a day release – having been a good patient and earned a privilege – and didn’t return."
 
 **中文理解**：他在你去 Ashwood Farm 之前很久就被收治了。是他父亲签的字。Benjamin 在那儿待了最近这二十二年。Howard 深吸一口气。「或者说，直到几个月前：他因为表现好、挣到一项特权，被批准白天外出——然后就再没回来。」
 

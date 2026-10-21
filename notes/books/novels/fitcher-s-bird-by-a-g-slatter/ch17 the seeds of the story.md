@@ -27,6 +27,7 @@ modified: "2026-10-20"
 
 **句子结构**：三个短句层层加码（不只救自己 → 不靠兄弟 → 自己动手），中间插一句「oh no」把语气掰成口语；最后一句是全书主题句的雏形，主语 she、动词 takes，宾语是 matters。
 
+
 > **原句 2:** "Secondly, there’s the Welsh legend of Blodeuwedd who, made from flowers, is turned into an owl after betraying a husband she didn’t ever ask for. I have always been fascinated by the imagery of her becoming a bird, of the feathers piercing her flesh, and of her changing utterly – and I’m also amused by the idea that this being changed was seen as a punishment. Owls are stealthy, clever and feared. Blodeuwedd’s given wings and the ability to fly away to freedom – where’s the punishment in that?"
 
 **中文理解**：其次，是威尔士传说里的 Blodeuwedd：她由花做成，在背叛了一个她从未要求过的丈夫之后，被变成一只猫头鹰。我一直着迷于她变成鸟的画面——羽毛刺穿她的皮肉，她彻底变成另一样东西——我也觉得「这种变化被当成惩罚」这个想法很好笑。猫头鹰隐秘、聪明、令人畏惧。Blodeuwedd 得到的是翅膀，和飞向自由的能力——惩罚在哪里？
@@ -38,6 +39,7 @@ modified: "2026-10-20"
 **读者视角提示**：注意「羽毛刺穿她的皮肉」和正文里 Dido 的纹身、变形用的是同一组词。作者不是事后解释，她是在告诉你：那些画面她想了很久。
 
 **句子结构**：第一句用定语从句把神话压成一句（who, made from flowers, is turned…）；中段三个 of 短语并列，节奏放慢；末尾用破折号引出反问，把整段的判断交回给读者。
+
 
 > **原句 3:** "Thirdly, there’s the idea of the Bird itself, that it’s a thing that doesn’t exist, that no one really knows what it is – and isn’t that very much like a woman who chooses to remake herself? The protagonist creates the Fitcher’s Bird, remakes herself and takes her freedom, saves her sisters. Choose yourself, choose your shape and fly."
 
@@ -51,6 +53,7 @@ modified: "2026-10-20"
 
 **句子结构**：三个 that 从句层层递进（不存在 → 没人知道 → 像一个重塑自己的女人），最后用反问合拢；末句是三个祈使句连发（Choose / choose / fly），语法上第一次把读者拉成主语。
 
+
 > **原句 4:** "Fourthly, I am, as ever, obsessed with the tales of eldest daughters and all the responsibility that gets poured upon them without their consent. So, even though in many fairy tales it’s the youngest child, female or male, who begins as a ne’er-do-well yet somehow triumphs, for me it’s the eldest who’s most likely to apply practicality and responsibility (for herself and others) to a situation and come out on top all the while rescuing younger siblings."
 
 **中文理解**：第四，我一如既往地着迷于长女的故事，以及那些未经她们同意就浇在她们身上的责任。所以，尽管在许多童话里，开头是个不成器的小儿子或小女儿、最后却莫名其妙地赢了，在我看来，最有可能把务实与责任心（对自己，也对别人）用在一件事上、并最终胜出的，是长女——而且是在救弟弟妹妹的同时胜出。
@@ -62,6 +65,7 @@ modified: "2026-10-20"
 **读者视角提示**：对照 Dido 和 Zoe：一个把责任全揽下，一个拼命想摆脱被照顾的位置。这一段解释了她们为什么会一直打，也解释了为什么打不散。
 
 **句子结构**：第一句用被动语态（gets poured upon them）把责任写成外来的东西，不是她们要的；第二句是一个长让步句（even though… for me…），把传统和自己的选择摆在一起比较；括号补充是全段唯一的自我限定。
+
 
 > **原句 5:** "Fifthly, there’s a photograph by Anastasiya Dobrovolskaya I saw some years ago, of three women – a blonde, a brunette and a redhead – all holding a fox with different coloured fur. It’s beautiful and strange and wild, and the feeling I got when I first beheld it has remained with me ever since, an inspiration I can still tap into. I remain curious about it, moved by it, and I have always wanted to tell a story about those women and their secrets."
 
@@ -75,17 +79,30 @@ modified: "2026-10-20"
 
 **句子结构**：首句用同位语加破折号插入语（of three women – a blonde, a brunette and a redhead –）把照片内容一次摆完；中间两句从「评价画面」（It's beautiful and strange and wild）转到「它留下的感觉」（the feeling I got … has remained），最后用两个现在时的 I remain / I have always wanted 把一次观看拉成一条持续到写作当下的线。
 
-> **原句 6:** "Sixthly and finally, there’s a quote from Anne Sexton’s diaries that I read a long time ago when I was doing my PhD, which is: ‘But one can’t build little white picket fences to keep the nightmares out’ – it stabs at the heart and mind. I loved it then, still do now, but for this novella I needed something that was different, something that chimed with Sexton’s words yet fitted with my own writing and which formed a foundation for this story and the lives of its characters. What I came up with is: ‘Nightmares, like houses, have white picket fences…’ Because I wanted to hark back to the idea that we don’t know what goes on behind closed doors, that families who look the most normal, who appear to live the most enviable lives, aren’t all they seem."
 
-**中文理解**：第六，也是最后，是 Anne Sexton 日记里的一句话，我读博时读到的：「可你没法竖起小小的白色尖桩栅栏，把噩梦挡在外面」——它刺进人的心里。我当时喜欢，现在还是喜欢；但为这部中篇，我需要一句不同的、与 Sexton 的话相通、又贴合我自己写法、还能作为这个故事和它人物生活地基的东西。我想出来的是：「噩梦，和房子一样，也有白色尖桩栅栏……」因为我想把话头引回那个念头：我们不知道关着的门后发生了什么，那些看起来最正常的家庭、看起来过着最令人羡慕生活的家庭，并不像表面那样。
+> **原句 6:** "Sixthly and finally, there’s a quote from Anne Sexton’s diaries that I read a long time ago when I was doing my PhD, which is: ‘But one can’t build little white picket fences to keep the nightmares out’ – it stabs at the heart and mind."
 
-**关键词**：white picket fences / stabs at the heart and mind / chimed with / hark back / aren’t all they seem
+**中文理解**：第六，也是最后，是 Anne Sexton 日记里的一句话，我读博时读到的：「可你没法竖起小小的白色尖桩栅栏，把噩梦挡在外面」——它刺进人的心里。
+
+**关键词**：Anne Sexton’s diaries（安妮·塞克斯顿的日记）/ white picket fences（白色尖桩栅栏）/ stabs at the heart and mind（刺进心里）
+
+**为什么这样写**：她把自己摆进书里当作者，用「读博时读到的」这种具体到时间的说法，让引文带上一段私人履历——这句话不是查来的，是随身带了很多年的。而选取的这句恰好与全书的意象（房子、栅栏、噩梦）同源，读者会明白这六个来处里，这一个是她自己的。
+
+**读者视角提示**：栅栏在全书里一直是「体面」的符号；Sexton 说它挡不住噩梦，接下来作者就要把这句话翻过来用。读到这里请留意「翻」这个动作本身。
+
+**句子结构**：以 Sixthly and finally 起手，先把次序交代清楚；主句是一个 there’s 存在句，被一个长长的定语从句拖住（that I read a long time ago when…），把引文推到句末；破折号后补一句评价，句子在情绪上收住。
+
+> **原句 7:** "I loved it then, still do now, but for this novella I needed something that was different, something that chimed with Sexton’s words yet fitted with my own writing and which formed a foundation for this story and the lives of its characters. What I came up with is: ‘Nightmares, like houses, have white picket fences…’ Because I wanted to hark back to the idea that we don’t know what goes on behind closed doors, that families who look the most normal, who appear to live the most enviable lives, aren’t all they seem."
+
+**中文理解**：我当时喜欢，现在还是喜欢；但为这部中篇，我需要一句不同的、与 Sexton 的话相通、又贴合我自己写法、还能作为这个故事和它人物生活地基的东西。我想出来的是：「噩梦，和房子一样，也有白色尖桩栅栏……」因为我想把话头引回那个念头：我们不知道关着的门后发生了什么，那些看起来最正常的家庭、看起来过着最令人羡慕生活的家庭，并不像表面那样。
+
+**关键词**：chimed with（与……相通）/ hark back（把话头引回）/ behind closed doors（关着的门后）/ aren’t all they seem（并不像表面那样）
 
 **为什么这样写**：全书最后一段落在一句被改写的引文上。作者没有直接引用 Sexton 就完事，而是把它「翻」了一遍：Sexton 说栅栏挡不住噩梦，她说噩梦本身就有栅栏——同一件东西，从防线变成伪装。这一翻，就把整本书的题材（体面家庭里的暴行）压进了一句话，而且这句是她自己的。
 
 **读者视角提示**：省略号是原文的，不是排版失误。作者故意让这句话悬着——它既是标题式的格言，也是一句没说完的话，像她之前所有的童话。
 
-**句子结构**：三段式：引文（带引号）→ 评价（stabs at the heart and mind）→ 改写（What I came up with is）。最后用 Because 从句一路铺开解释，句子越来越长，语气却越来越轻，像在跟读者解释一个私人决定。
+**句子结构**：三段式：承接上一句的评价（loved it then, still do now）→ 用 but 转向自己的需要（needed something that was different…）→ 给出改写（What I came up with is）。最后用 Because 从句一路铺开解释，句子越来越长，语气却越来越轻，像在跟读者解释一个私人决定。
 
 ## 本章词汇
 

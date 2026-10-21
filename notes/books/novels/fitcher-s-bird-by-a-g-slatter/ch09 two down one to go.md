@@ -15,19 +15,31 @@ modified: "2026-10-20"
 
 ## 精读
 
-> **原句 1:** "He’d known a long time about his mother and her (their) proclivities; he’d been her first canvas. When he was growing – an only child for six years, until those three younger brothers miraculously popped up – there’d been all those visits to churches, a shifting roster of locations and priests and pastors who’d been bid to pray the Devil out of him. Until his mother took that into her own hands. He never stopped doing the things he wanted to, but he became more careful about covering them up. Eventually Persephone came to regard him as a success, a cleansed child, a credit to her methods. His brothers got very little of the special treatment he’d received – they weren’t very like him at all, and he was pretty sure they weren’t smart enough to cover up for themselves to avoid her fury. The problem with his mother – or one of them – was her certainty about things. It was the same sort of utter certainty that always led to wars, famines, general atrocities."
+> **原句 1:** "He’d known a long time about his mother and her (their) proclivities; he’d been her first canvas. When he was growing – an only child for six years, until those three younger brothers miraculously popped up – there’d been all those visits to churches, a shifting roster of locations and priests and pastors who’d been bid to pray the Devil out of him. Until his mother took that into her own hands. He never stopped doing the things he wanted to, but he became more careful about covering them up."
 
-**中文理解**：他很早就知道母亲——也知道他们夫妻俩——的那些癖好；他自己就是母亲的第一块画布。六岁以前他是独子，后来三个弟弟像奇迹一样接连冒出来；那些年他被带去一间又一间教堂，地点与神职人员轮着换，都是被请来把他身上的魔鬼祷告出去的。后来母亲干脆自己动手。他从未停止做自己想做的事，只是变得更善于遮掩。最终母亲认定他是成功的样本、一个被洁净过的孩子、她方法的活招牌。弟弟们几乎没得到过他那种特殊待遇——他们一点也不像他，而且他相当肯定，他们没有聪明到能替自己遮掩、躲过母亲的怒火。他母亲的问题——问题之一——是她对事情的那种笃定。正是这种不容置疑的笃定，才会带来战争、饥荒和种种暴行。
+**中文理解**：他很早就知道母亲——也知道他们夫妻俩——的那些癖好；他自己就是母亲的第一块画布。六岁以前他是独子，后来三个弟弟像奇迹一样接连冒出来；那些年他被带去一间又一间教堂，地点与神职人员轮着换，都是被请来把他身上的魔鬼祷告出去的。
 
-**关键词**：proclivities（癖好）/ first canvas（第一块画布）/ cleansed child（被洁净的孩子）
+**关键词**：proclivities（癖好）/ first canvas（第一块画布）/ shifting roster（不断更换的名单）
 
-**为什么这样写**：第 4 章那次地窖与谷仓的独白之后，作者第二次把叙述权交给他；这里补的是「他怎么变成这样」的因果链，而作者把因果整条交给一个女人：母亲。他用画布形容自己，等于承认自己是一件被画出来的作品；母亲先请神父驱魔、再亲自接手，最后宣布洁净成功——这句话同时是审判和赦免，也是他学会伪装的那一天。整段没有一个字的自我辩解：他不说恨她，只说「她太笃定」，然后把这份笃定一路升级成战争、饥荒、暴行。真正的寒意在这里——他把自己犯下的事推给一个抽象名词，而这个名词恰好是他母亲的美德。
+**为什么这样写**：他用画布形容自己，等于承认自己是一件被画出来的作品——不是被生下来的。而「地点与神职人员轮着换」这句说明驱魔不是一次仪式，是一项持续多年、换过好几拨专家的工程；母亲的癖好与儿子的癖好被括号里那个「他们的」含混地并在一起。
 
-**读者视角提示**：注意「六岁以前是独子」和「三个弟弟」这两个数字，它们与下一段「被送走」一起，解释了后来那三个女孩为什么会住进这个家。也记住「第一块画布」这个说法：本章结尾他杀 Zoe 用的是刀，可整章真正在谈的是「谁在谁身上作画」——母亲画他，他再去找下一个可以下笔的东西。
+**读者视角提示**：注意「六岁以前是独子」和「三个弟弟」这两个数字，它们与后文被送走的三姐妹一起，解释了后来那三个女孩为什么会住进这个家。而「母亲干脆自己动手」这句是全段的转折：驱魔从外包变成家务。
 
-**句子结构**：全段是一条顺时间的长链：知道母亲、被当画布、独子六年、弟弟出生、教堂巡诊、母亲接手、学会遮掩、被宣布成功、弟弟作对照，最后落到「笃定」。前面所有从句都在为末句蓄力，末句用战争、饥荒、暴行三个名词一路升级，把家庭史推到历史尺度；标点几乎全是逗号和破折号，句号只用来切时间阶段，读起来像一份冷静的病例记录。
+**句子结构**：首句用分号把「知道母亲」与「自己是画布」并置，因果被压进一个逗号；第二句用一对破折号插入独生子的时间跨度，主句是一串 there’d been 的存在句，把教堂、地点、神职人员一个接一个铺开；末两句改用 Until 与 but 完成转折：外包的驱魔结束，他学会的是遮掩而不是停止。
 
-> **原句 2:** "A corvid skull, he thinks, perhaps a raven, atop a pole of alder wood, and around the pole from bottom to top a series of vertebrae, like a curved staircase – maybe not avian, maybe human (some of his own souvenirs, he wonders, found and colonised), maybe fox – wing bones protrude to the sides as if in flight, held together with wire, as if those naked bones could catch any wind, any updraught that might lift it from the floor of the barn. Those bones and their spatters of old bloodstains."
+> **原句 2:** "Eventually Persephone came to regard him as a success, a cleansed child, a credit to her methods. His brothers got very little of the special treatment he’d received – they weren’t very like him at all, and he was pretty sure they weren’t smart enough to cover up for themselves to avoid her fury. The problem with his mother – or one of them – was her certainty about things. It was the same sort of utter certainty that always led to wars, famines, general atrocities."
+
+**中文理解**：后来母亲干脆自己动手。他从未停止做自己想做的事，只是变得更善于遮掩。最终母亲认定他是成功的样本、一个被洁净过的孩子、她方法的活招牌。弟弟们几乎没得到过他那种特殊待遇——他们一点也不像他，而且他相当肯定，他们没有聪明到能替自己遮掩、躲过母亲的怒火。他母亲的问题——问题之一——是她对事情的那种笃定。正是这种不容置疑的笃定，才会带来战争、饥荒和种种暴行。
+
+**关键词**：cleansed child（被洁净的孩子）/ special treatment（特殊待遇）/ certainty（笃定）
+
+**为什么这样写**：母亲先请神父驱魔、再亲自接手，最后宣布洁净成功——这句话同时是审判和赦免，也是他学会伪装的那一天。整段没有一个字的自我辩解：他不说恨她，只说「她太笃定」，然后把这份笃定一路升级成战争、饥荒、暴行。真正的寒意在这里——他把自己犯下的事推给一个抽象名词，而这个名词恰好是他母亲的美德。
+
+**读者视角提示**：他说弟弟们「不够聪明、不会遮掩」，是在给自己发一张聪明人的许可证；这句话的潜台词是他比他们更该活下来。读者要留意：这段自我叙述里所有对他有利的判断，都是他自己下的。
+
+**句子结构**：一句一个阶段（Until…／Eventually…／The problem…），像病例记录一样冷；末句用 the same sort of 把家庭内部的确定性接到历史尺度上，战争、饥荒、暴行三个名词一路升级，收在一个抽象名词上。
+
+> **原句 3:** "A corvid skull, he thinks, perhaps a raven, atop a pole of alder wood, and around the pole from bottom to top a series of vertebrae, like a curved staircase – maybe not avian, maybe human (some of his own souvenirs, he wonders, found and colonised), maybe fox – wing bones protrude to the sides as if in flight, held together with wire, as if those naked bones could catch any wind, any updraught that might lift it from the floor of the barn. Those bones and their spatters of old bloodstains."
 
 **中文理解**：一颗鸦科的头骨，他想，也许是渡鸦，架在一根桤木杆顶上；杆子从下到上串着一列脊椎骨，像一道弯曲的楼梯——不一定是鸟的，也许是人（他猜其中几节是他自己收的纪念品，被找到、被占了位置），也许是狐狸的；翼骨向两侧伸出，像正在飞，用铁丝绑在一起，仿佛那些光秃秃的骨头真能兜住风，兜住任何能把它从谷仓地面上托起来的气流。骨头上还溅着旧血。
 
@@ -39,7 +51,8 @@ modified: "2026-10-20"
 
 **句子结构**：一个名词短语开头（一颗鸦科头骨），后面拖着三层附属成分：同位语式的连杆子、like 引出的比喻（弯曲的楼梯）、as if 引出的两次虚拟（仿佛能兜住风、仿佛能被托起）。全段没有一句「我看见」，只有「他想」——视线其实是推测，描写其实是猜测；末句用一个短句落地，把整段的空想砸回血渍上。
 
-> **原句 3:** "Those girls, he thinks, those girls his parents took in after he’d been sent away would have the answer. Even if they didn’t? He had other business with them. Those girls whose names had been changed so it took him a while to find them – it’s hard to trace people who don’t want to be found, who’ve dispersed on the wind as surely as dandelion heads. But he’d persisted, and now it was two down, one to go."
+
+> **原句 4:** "Those girls, he thinks, those girls his parents took in after he’d been sent away would have the answer. Even if they didn’t? He had other business with them. Those girls whose names had been changed so it took him a while to find them – it’s hard to trace people who don’t want to be found, who’ve dispersed on the wind as surely as dandelion heads. But he’d persisted, and now it was two down, one to go."
 
 **中文理解**：那些女孩，他想——他父母在他被送走之后收留下来的那些女孩——应该有答案。就算没有呢？他跟她们还有别的账要算。那些女孩的名字都被改过，所以他花了好一阵才找到她们；不想被找到的人本来就难追，她们像蒲公英的头一样散在风里。可他一直没停手，如今两个已经到手，只剩一个。
 
@@ -51,7 +64,8 @@ modified: "2026-10-20"
 
 **句子结构**：五个句子里有两句以 Those girls 起头，第一句内部还重复了一次，像反复指着同一群人；第二句是一个问句加一个短答，把「答案」和「账」分开；末句用 But 逆转，再以一个数字短语收束，语气从回忆的松散一路收紧到倒计时。同一个指示词重复三次，也制造出一种清点猎物的节奏。
 
-> **原句 4:** "But she’s no more successful at finding a way out than her little sister had been and she collapses back onto the uncomfortable mattress, buries her face into the rough fabric of the ticking, catches a smell she’d not noticed on waking: floral notes, honeyed, fresh, Centifolia rose, a hint of pepper. Miss Dior."
+
+> **原句 5:** "But she’s no more successful at finding a way out than her little sister had been and she collapses back onto the uncomfortable mattress, buries her face into the rough fabric of the ticking, catches a smell she’d not noticed on waking: floral notes, honeyed, fresh, Centifolia rose, a hint of pepper. Miss Dior."
 
 **中文理解**：可她找出口的本事并不比妹妹强，最后还是摔回那张硌人的床垫上，把脸埋进床垫套粗糙的布纹里，这才闻到一股醒来时没留意的气味：花香、带蜜、新鲜，千叶玫瑰，还有一丝胡椒。是 Miss Dior。
 
@@ -63,7 +77,8 @@ modified: "2026-10-20"
 
 **句子结构**：一个长句贯穿全段，三个并列动词全靠 and 串起来（摔回、埋脸、闻到），中间没有句号——动作是一口气做完的，像人扑倒。冒号引出气味清单，四个短语一路收窄，最后用一个独立的名词句断开，让品牌名单独站着，像贴在布上的一张标签。
 
-> **原句 5:** "And she doesn’t go quietly. Doesn’t, when bid, obediently climb the ladder like sweet-natured Chloe did. He has to come down and chase her around the small space, slashing over and over with the bright silver knife until she’s torn, shredded, so weak from blood loss, lack of food and dehydration that she slows enough for him to catch her and put her out of both their misery."
+
+> **原句 6:** "And she doesn’t go quietly. Doesn’t, when bid, obediently climb the ladder like sweet-natured Chloe did. He has to come down and chase her around the small space, slashing over and over with the bright silver knife until she’s torn, shredded, so weak from blood loss, lack of food and dehydration that she slows enough for him to catch her and put her out of both their misery."
 
 **中文理解**：她不肯安静地走。也不像好脾气的 Chloe 那样，被叫一声就乖乖去爬梯子。他只好自己下来，在那个小空间里追着她转，举着那把亮银色的刀一遍遍砍，直到她被砍烂、被撕开，失血、没吃东西、脱水，虚弱到慢下来，才让他抓住，才让他把两个人都从这场折磨里解脱出去。
 
