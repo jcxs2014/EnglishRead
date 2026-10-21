@@ -1,0 +1,229 @@
+{
+  "chapter": "ch50",
+  "source": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch50_50.txt",
+  "source_bytes": 6280,
+  "source_lines": 172,
+  "offset_convention": "[start, end) 字符区间，起点为该行首个非空白字符在全文（UTF-8 码点）中的偏移",
+  "read_order": "仅读 text/ch50_50.txt，未开任何 md",
+  "chapter_title_in_source": {"text": "The Police Station", "range": [20, 38], "line": 17},
+  "events": [
+    {
+      "id": "E1",
+      "who": "Robbie Eastley / Matt",
+      "what": "Robbie 的手机响了，正当他和 Matt 准备去接待处接 Isolde 时。Robbie 听完电话那头 forensics 的人，脸色一沉；他告诉 Matt 他得去 Institute，因为「那疯子说的不是隐喻意义上的隧道」，Forensics 真的找到了一条隧道。Matt 提议给 Caius 的父亲打个电话（因为地是他的）；Robbie 反问 Caius 为什么总不被派去处理持刀 gang 案、为什么总是些怪案子。Matt 耸肩说那他去跟 Isolde 谈。",
+      "range": [41, 650],
+      "lines": "20-35",
+      "key_verbatim": [
+        "That nutter wasn’t talking about metaphorical tunnels. Forensics have bloody found one.",
+        "I’d give Caius’s dad a call in that case. It’s his land.",
+        "Why doesn’t he get assigned to gang stabbings? Why is it always weird?",
+        "I’ll speak to Isolde then."
+      ]
+    },
+    {
+      "id": "E2",
+      "who": "Matt (询问) / Isolde (受问)",
+      "what": "Matt 在警局隔着桌子问 Isolde 的话，为录音做了自我介绍，并说同事 DI Caius Beauchamp 之前跟她谈过「有人用她的资料钓男人（catfish）」的事。Isolde 问是否抓到了人；Matt 答「我们相信抓到了」。",
+      "range": [665, 1049],
+      "lines": "45-51",
+      "key_verbatim": [
+        "Matt introduced himself for the recording. ‘My colleague DI Caius Beauchamp spoke to you before about someone using your details to catfish men.’",
+        "‘Yes, have you caught them?’",
+        "‘We believe we have.’"
+      ]
+    },
+    {
+      "id": "E3",
+      "who": "Isolde",
+      "what": "Isolde 说她这一周都吓坏了（petrified all week），觉得整件事很阴惨——有人偷走她生活的碎片去勾引并谋杀一个男人；她怀疑过见过的每一个人，甚至买了一台门铃摄像头。",
+      "range": [1052, 1361],
+      "lines": "54",
+      "key_verbatim": [
+        "I’ve been petrified all week.",
+        "I bought one of those doorbell cameras for my house."
+      ]
+    },
+    {
+      "id": "E4",
+      "who": "Matt",
+      "what": "Matt 脸红，心里想她太性感了，不会坐在家里写那种东西，觉得这种女生只会被人睡而不是凭空想象；他于是说「我们认为他们关注你的同人（fanfic）账号」。",
+      "range": [1364, 1686],
+      "lines": "57-63",
+      "key_verbatim": [
+        "He thought she was far too hot to be sat at home writing things like salad sex.",
+        "‘We think that they follow you on your fanfic account.’",
+        "‘My what?’ Isolde looked confused."
+      ]
+    },
+    {
+      "id": "E5",
+      "who": "Matt (问) / Isolde (否认)",
+      "what": "Matt 问「你不写中世纪性幻想？」；Isolde 否认：先是「绝对不」，被说「没必要害羞」后升级为「我不给网上的陌生人写黄色故事」；Matt 再问「你确定？」，她说「我当然非常确定」。她当场把笔记本电脑从包里拿出来，说自己本来打算去咖啡馆、申请意大利的英语教学岗位。",
+      "range": [1734, 2135],
+      "lines": "69-84",
+      "key_verbatim": [
+        "‘Do you not write medieval sexual fantasies online?’",
+        "‘Absolutely not.’ Isolde was offended.",
+        "‘There’s no need to be embarrassed—’",
+        "‘I do not write dirty stories for strangers on the internet.’",
+        "‘Are you sure?’",
+        "‘Of course I’m bloody sure.’",
+        "I was going to go to a cafe after and apply for English language teaching jobs in Italy."
+      ]
+    },
+    {
+      "id": "E6",
+      "who": "Matt",
+      "what": "Matt 要过她的笔记本——这样他们就不必去申请搜查令搜她的住处；他连上警局的访客 Wi-Fi，打开那个同人网站，发现她仍处于登录状态（‘You’re still logged in’），把电脑转过来给她看。",
+      "range": [2138, 2419],
+      "lines": "87",
+      "key_verbatim": [
+        "it saved them having to get a warrant to search her place and get it",
+        "He logged on to the station’s guest Wi-Fi and opened up a new tab.",
+        "‘You’re still logged in.’ He spun the laptop around."
+      ]
+    },
+    {
+      "id": "E7",
+      "who": "Isolde (否认方) / Matt (在场)",
+      "what": "Isolde 看到主页后爆粗口「What the actual fuck?」，并说「这些我没写过任何一个」（I didn't write any of this）。她点开最后那篇故事，给出两条理由：第一，「我是英语的 lead——语法糟透了」；第二，「这东西发布时我正在上班，正值一个上学日的中间，我在 Stratford 的一所学校代课。我没带笔记本，它在家里。我工作时从不用自己的设备，连手机都关掉。我会树立什么样的榜样？」",
+      "range": [2422, 2940],
+      "lines": "90-96",
+      "key_verbatim": [
+        "‘What the actual fuck?’ Isolde stared at her homepage on the site. ‘I didn’t write any of this.’",
+        "‘I didn’t.’ She clicked on the last story. ‘Two things: firstly, I’m an English lead – the grammar is appalling. Secondly, I was at work when this was published. That’s right in the middle of a school day. I was substituting in a school in Stratford. I didn’t have my laptop, it was at home. I never use my own devices when I’m at work. I even turn my phone off. What sort of example would I be setting?’"
+      ],
+      "note": "Isolde 只否认「是我写的」，没有说「有别人冒我的名写」；也未回答「作者是谁」——原文里作者身份并未被她提出。"
+    },
+    {
+      "id": "E8",
+      "who": "Matt",
+      "what": "Matt 把电脑转回去，回到仪表板与「已发布故事的摘要」页面，问「这些日期你都在哪里？」（Where were you on these dates?）——本章到此为止，这个问题的答案不在本章。",
+      "range": [2943, 3103],
+      "lines": "99",
+      "key_verbatim": [
+        "He went back to the dashboard and the summary of the stories posted. ‘Where were you on these dates?’"
+      ]
+    },
+    {
+      "id": "E9",
+      "who": "Matt / Isolde",
+      "what": "Matt 把她送出大楼（她拄着月球靴走路一瘸一拐），两人进电梯。Isolde 说「我感到被侵犯了」「为什么是我？」；Matt 说「我们很快就会查出来」，然后送她回接待处——她的前男友 Andy 在那里等她。",
+      "range": [3118, 3411],
+      "lines": "109-115",
+      "key_verbatim": [
+        "She was walking unevenly with her moon boot.",
+        "‘I feel so violated.’ She turned to Matt. ‘Why me?’",
+        "‘We’ll find out soon enough,’",
+        "He walked her back to reception. Andy, her ex, was waiting for her."
+      ]
+    },
+    {
+      "id": "E10",
+      "who": "Andy / Isolde / Matt",
+      "what": "Andy 问「一切都好吗？」并把手放在她背上；Isolde 说「我需要一杯烈酒」并提到「有人在网上写关于我的黄色故事」；Andy 说「天哪，太可怕了」。Matt 观察 Andy，觉得他先是短暂不安、然后是生气。Andy 把车钥匙交给 Isolde。",
+      "range": [3414, 3782],
+      "lines": "118-127",
+      "key_verbatim": [
+        "‘Everything OK?’ he asked, placing his hand on her back.",
+        "‘I need a strong drink,’",
+        "‘Someone’s writing dirty stories about me online.’",
+        "Matt watched Andy. He briefly looked disturbed, and then angry."
+      ]
+    },
+    {
+      "id": "E11",
+      "who": "Andy / Matt",
+      "what": "Isolde 拿钥匙一瘸一拐地走了。Andy 说不想她大老远坐公共交通来（她的脚）；Matt 说 overground 有座位，很体贴，还讽刺她「能跟前男友保持成熟的关系真好」。",
+      "range": [3785, 4068],
+      "lines": "130-136",
+      "key_verbatim": [
+        "‘I didn’t want her travelling all the way here on public transport. Her foot.’",
+        "‘They have seats on the overground,’ Matt said, smiling at Andy.",
+        "‘That’s very courteous of you. It’s nice that you can have a grown-up relationship with your ex.’"
+      ]
+    },
+    {
+      "id": "E12",
+      "who": "Andy (问) / Matt (答)",
+      "what": "Andy 打听 Matt 的上司 DI Beauchamp 是否还管这个案子；Matt 答：不是了，是利益冲突——他刚发现他家拥有案发集中地区那些房产的租约权益（leaseholds）。Andy 随即自夸式地说：难怪他们难管住自己的产业；他们在 Hertfordshire 的宅子有很多 priest holes；Priory Square 有迷人的历史；「你知道吗？」",
+      "range": [4071, 4655],
+      "lines": "139-145",
+      "key_verbatim": [
+        "‘Look, am I to understand it that your boss, I guess, DI Beauchamp. The guy I met before. He’s not on the case any more?’",
+        "‘No, it was a conflict of interest. He just discovered that his family own the leaseholds in the area where the crimes have been concentrated.’",
+        "Their house in Hertfordshire has lots of priest holes.",
+        "And Priory Square has a fascinating history. Did you know that?"
+      ]
+    },
+    {
+      "id": "E13",
+      "who": "Andy / Matt",
+      "what": "Andy 提到「你同事的祖先……」后故弄玄虚地停顿；Matt 答「我不知道」，并不明白 Andy 为什么看起来那么高兴。Andy 继续：当现在的房子在维多利亚时代建起、修道士院三百年来第一次被打开时，Beauchamp 一家就已经知道下面有什么；他们选择再封一次，像十六世纪的祖先那样；他们把修道院拆了，只留下地下墓室和地下层；至于 DI Beauchamp 和他家人现在是否知情则是另一回事；「要是老 Horatio 打通了我也不意外，他可是个 Boy's Own 式的变态，要是觉得下面有价值，他忍不住的」。",
+      "range": [4658, 5508],
+      "lines": "148-157",
+      "key_verbatim": [
+        "‘Your colleague’s ancestors …’ Andy sagely drifted off.",
+        "‘No, I didn’t,’ Matt replied. He wasn’t sure why Andy looked so pleased.",
+        "the priory was exposed for the first time in three hundred years, the Beauchamps already knew what was down there",
+        "They chose to seal it up again, like their ancestors had in the sixteenth century.",
+        "They knocked the priory down, you know. Left the crypt and basement levels only.",
+        "I wouldn’t be surprised if old Horatio knocked through. He was a Boy’s Own psychopath, after all."
+      ]
+    },
+    {
+      "id": "E14",
+      "who": "Matt / Andy",
+      "what": "Matt 只说「哦」。Andy 的嘴颤了颤，本来还想问 Matt 什么，但退缩了；他说「我最好把 Isolde 公主送回家」。",
+      "range": [5511, 5647],
+      "lines": "160-163",
+      "key_verbatim": [
+        "‘Oh.’",
+        "He wanted to ask Matt something else but backed off it.",
+        "‘Anyway, I best drive Princess Isolde back home.’"
+      ]
+    },
+    {
+      "id": "E15",
+      "who": "Matt / Amy",
+      "what": "Matt 回到事故室自己的办公桌，开始看 35 号（number 35）门口监控摄像头的录像；他叫 Amy，问她还有没有那个「在邮局用过、能扫描录像的程序」；Amy 说「有」并把链接发给他。",
+      "range": [5650, 5951],
+      "lines": "166-172",
+      "key_verbatim": [
+        "started watching the footage from the security cameras at number 35",
+        "‘Amy,’ Matt called over. ‘Have you still got access to that program you used for the Post Office that scans footage?’",
+        "‘Yep,’ she said and sent him a link."
+      ]
+    }
+  ],
+  "relationships": [
+    {"a": "Matt", "b": "Robbie Eastley", "rel": "同事；Robbie 去了 Institute 查隧道，Matt 留下来问 Isolde"},
+    {"a": "Matt", "b": "DI Caius Beauchamp", "rel": "同事／上司（Andy 称 Beauchamp 为「your boss, I guess」）；Beauchamp 因利益冲突退出此案"},
+    {"a": "Robbie", "b": "Caius 的父亲", "rel": "Institute 那块地是 Caius 父亲的（Robbie：「It’s his land.」）"},
+    {"a": "Beauchamp 一家", "b": "案发集中区房产", "rel": "拥有该区域房产的租约权益（leaseholds）"},
+    {"a": "Horatio Beauchamp（老 Horatio）", "b": "Beauchamp 家族", "rel": "祖先，十六世纪封过地下通道，Andy 称其「Boy’s Own psychopath」"},
+    {"a": "Isolde", "b": "Andy", "rel": "前男友（ex）；Andy 在警局接待处等她、开车送她回家"},
+    {"a": "Isolde", "b": "冒名者/写信人", "rel": "Isolde 否认自己是那些故事的作者；她被冒用身份钓人事件的受害者"},
+    {"a": "Matt", "b": "Amy", "rel": "同事；Amy 有扫描监控录像的程序（当年在邮局用过）"}
+  ],
+  "numbers_and_dates_verbatim": [
+    {"item": "three hundred years", "context": "priory was exposed for the first time in three hundred years", "range": [4800, 5508]},
+    {"item": "sixteenth century", "context": "like their ancestors had in the sixteenth century", "range": [4800, 5508]},
+    {"item": "Victorian era", "context": "When the current houses were built in the Victorian era", "range": [4800, 5508]},
+    {"item": "number 35", "context": "the security cameras at number 35", "range": [5650, 5792]},
+    {"item": "one of those doorbell cameras", "context": "I bought one of those doorbell cameras for my house.", "range": [1052, 1361]},
+    {"item": "all week", "context": "I’ve been petrified all week.", "range": [1052, 1361]},
+    {"item": "Two things", "context": "Isolde 列举反驳理由时说 firstly / secondly", "range": [2536, 2940]},
+    {"item": "English lead", "context": "firstly, I’m an English lead – the grammar is appalling", "range": [2536, 2940]},
+    {"item": "Stratford", "context": "I was substituting in a school in Stratford", "range": [2536, 2940]},
+    {"item": "Italy", "context": "apply for English language teaching jobs in Italy", "range": [1951, 2135]},
+    {"item": "Post Office", "context": "that program you used for the Post Office that scans footage", "range": [5795, 5912]},
+    {"item": "Priory Square", "context": "And Priory Square has a fascinating history.", "range": [4394, 4655]},
+    {"item": "Hertfordshire", "context": "Their house in Hertfordshire has lots of priest holes.", "range": [4394, 4655]}
+  ],
+  "chapter_boundary_notes": [
+    "本章以 Matt 的一句提问收束：‘Where were you on these dates?’（range 2943-3103）——这个问题的答案不在本章。",
+    "Isolde 被问及前的全部铺垫与提问都由 Matt 发出；Robbie 本章不在警局问话现场（他去了 Institute）。",
+    "原文没有任何一处由 Isolde 指认作者是谁；也没有任何一处把「冒名者是谁」写成既定事实。"
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "chapter": "ch45",
+  "title": "Priory Square",
+  "source": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch45_45.txt",
+  "read_first": "R1 素读：只读 text/ch45_45.txt，未开本章 md，未看别章 md；本文件落盘后才读 md",
+  "citation_format": "ch45:<行号>[<起始字符>-<结束字符>]，字符偏移为全文 0-based 偏移",
+  "events": [
+    {
+      "id": 1,
+      "action": "Robbie 与 Tiny Simm 走到 35 Priory Square 的门前；Robbie 敲门，第二次更用力，第三次仍无人应",
+      "range": "ch45:20[36-380]; ch45:23[383-568]",
+      "verbatim": "Robbie, closely followed by Tiny Simm who had been standing outside the Horatio Combe Institute while forensics trooped in and out all morning, was traipsing up the steps to 35 Priory Square. Robbie knocked on the door, and then harder a second time. He had to bring in this pervy girl that Matt and Amy had got their knickers in a twist about.",
+      "notes": "Robbie 嘴里说这门是「wild goose chase」；他抱怨 DI Fauntleroy 接到这种荒唐案子。Robbie 提到他不得不带「this pervy girl」——即 Matt 和 Amy 高度关注的那个女孩（本章尚未点名）。"
+    },
+    {
+      "id": 2,
+      "action": "Tiny Simm 蹲下从信箱口往里看，报「someone unconscious on the floor」，随即叫人增援",
+      "range": "ch45:26[571-794]",
+      "verbatim": "‘Caius is all right.’ Tiny Simm, all six feet five of him, crouched down and peered through the letterbox. ‘Sir, there’s someone unconscious on the floor.’ He stepped out of the way for Robbie to see and called for back-up.",
+      "notes": "Tiny Simm 全名身高被写作 “all six feet five”；他称 Robbie 为 “Sir”。"
+    },
+    {
+      "id": 3,
+      "action": "Robbie 隔着信箱喊「Police, can you hear me?」无应答；尸体下方有一滩新鲜的血在反光",
+      "range": "ch45:29[797-942]",
+      "verbatim": "‘Police, can you hear me?’ Robbie called through the letterbox, but there was no response. The pool of fresh blood under the body was glistening.",
+      "notes": "原文只说 “The pool of fresh blood under the body”，未指明谁在地上。"
+    },
+    {
+      "id": 4,
+      "action": "门撬不开（Tiny 用肩撞、Robbie 也撞、后门与地窖门都不动），等来持破门锤的警员才破门；救护车到，之后 Matt 与 Amy 赶到",
+      "range": "ch45:32[945-1470]",
+      "verbatim": "Tiny Simm tried and failed to break open the door, wedging his broad shoulders against it, and then Robbie felt like he needed to have a go too for appearance’s sake. It wouldn’t budge for either of them. Robbie sent Tiny Simm down the servants’ steps to the basement level but that wouldn’t move either, and neither would the back gate give, even with his prop shoulders. They had to wait for an officer with an enforcer to appear and batter down the front door. An ambulance arrived, and not long after so did Matt and Amy.",
+      "notes": "破门的是“an officer with an enforcer”，不是 Matt/Amy/Tiny。"
+    },
+    {
+      "id": 5,
+      "action": "Robbie 问「Who is she?」；Matt 答「Melissa Parkin」——Beverley 与 Nigel Parkin 之女，住 Harrogate",
+      "range": "ch45:42[1485-1750]; ch45:45[1753-1960]",
+      "verbatim": "‘Who is she?’ Robbie asked Matt. They were standing over the spot where she had lain only five minutes before. … ‘Melissa Parkin,’ Matt said, picking up an electricity bill from a side table in the hallway. He remembered the graduation photograph on the mantlepiece. ‘Daughter of Beverley and Nigel Parkin of Harrogate.’",
+      "notes": "⚠️ 倒在地上的人 = Melissa Parkin（Mel）。Robbie 说她躺下只有 “only five minutes before”。"
+    },
+    {
+      "id": 6,
+      "action": "Matt 说明「假 Isolde」写信给 Digby 用的那个 PO Box 是用 Beverley 的信用卡买的；Beverley 告诉他卡丢在 M&S Food、PIN 写在纸上",
+      "range": "ch45:51[1987-2179]",
+      "verbatim": "‘The PO Box that “fake Isolde” wrote to Digby from was purchased using Beverley’s credit card. She told me she’d lost it in M&S Food and had stupidly left the PIN with it on a piece of paper.’",
+      "notes": "Matt 说这是 Beverley 亲口对他讲的。"
+    },
+    {
+      "id": 7,
+      "action": "Amy 反问「Eulalia used her mum’s card to buy the PO Box? That’s so dumb」，并拒绝相信一个「偷身份、假扮 Digby 的实习生混进大楼、用 PO Box」的人会蠢到让母亲付钱；她注意到房子布置俗气（faux Andy Warhols、novelty sofas）",
+      "range": "ch45:54[2182-2667]",
+      "verbatim": "‘Eulalia used her mum’s card to buy the PO Box? That’s so dumb,’ Amy said, staring around the hallway. The house was beautiful, but it was decorated in such a way that screamed ‘I’ve just got money for the first time, I need to buy art’ – faux Andy Warhols and novelty sofas. ‘I refuse to think that someone who was calculating enough to steal someone’s identity, dress up as Digby’s intern to enter the building and use a PO Box would be stupid enough to get their mum to pay for it.’",
+      "notes": "Amy 用了 “steal someone’s identity”“dress up as Digby’s intern”两个说法。"
+    },
+    {
+      "id": 8,
+      "action": "Matt 提到 Callie——Caius 的女友；Robbie 插话说是「the posh bird he brought down the pub for Janet’s sixtieth」；Amy 抢答「Yes」并希望就此打住",
+      "range": "ch45:60[2719-2781]; ch45:63[2784-2881]; ch45:66[2884-2944]",
+      "verbatim": "Matt was yet to catch Robbie up. ‘Callie, Caius’s girlfriend—’ … ‘The posh bird he brought down the pub for Janet’s sixtieth the other month?’ Robbie interjected. … ‘Yes,’ Amy said quickly, hoping that would be the end of it.",
+      "notes": "“the other month” 指 Janet 的六十岁生日。"
+    },
+    {
+      "id": 9,
+      "action": "Matt 说明：Callie 是上周被 Eulalia 雇来做 creative consulting 的；「Mel, her sister, is her manager」；Eulalia 显然很想和 Callie 合作",
+      "range": "ch45:69[2947-3114]",
+      "verbatim": "‘Callie was hired by Eulalia to do some creative consulting over the last week. Mel, her sister, is her manager. Eulalia was apparently desperate to work with Callie.’",
+      "notes": "⚠️ 本句代词有歧义：「Mel, her sister, is her manager」——her 可指 Callie（Mel 是 Callie 的姐妹兼其经纪人），也可指 Eulalia/Jennifer（Mel 是 Eulalia 的经理）。原文未消歧，审查时须看 md 怎么判读。"
+    },
+    {
+      "id": 10,
+      "action": "Amy 说「It was probably the memes」；Matt 说 Caius 与 Callie 认为 Mel 才是真正有音乐才华的那个，所以 Eulalia 才戴那些 bobblehead 演出",
+      "range": "ch45:72[3117-3155]; ch45:75[3158-3311]",
+      "verbatim": "‘It was probably the memes,’ Amy said. … ‘Possibly. Caius and Callie think that Mel was actually the one with the musical talent and that’s why Eulalia performs in those bobbleheads,’ Matt said.",
+      "notes": "关键：Mel ＝ 音乐才华方；Eulalia ＝ 台前演出的那个。"
+    },
+    {
+      "id": 11,
+      "action": "Robbie 总结「So Eulalia, this dodgy popstar, is our little fanfic perv who stole that Isolde woman’s identity?」，Matt 回「I think so」并问 Eulalia 是否还在；Robbie 说房子是空的",
+      "range": "ch45:78[3314-3427]; ch45:81[3430-3496]; ch45:84[3499-3538]",
+      "verbatim": "‘So Eulalia, this dodgy popstar, is our little fanfic perv who stole that Isolde woman’s identity?’ Robbie asked. … ‘I think so.’ Matt looked around the hallway. ‘Is she still here?’ … ‘No, the house was empty,’ Robbie said.",
+      "notes": "Matt 说的是 “I think so”（推测），不是确认。"
+    },
+    {
+      "id": 12,
+      "action": "最新一条 story 是一小时前（an hour ago）发的；Robbie 问 Mel 躺了多久，Robbie 说医护无法确定，但血还没凝固，破门时她还有呼吸，并断定「Her sister did this then」",
+      "range": "ch45:87[3541-3594]; ch45:90[3597-3604]; ch45:93[3607-3646]; ch45:96[3649-3833]",
+      "verbatim": "‘The latest story was posted, what an hour ago, Amy?’ … ‘Yeah.’ … ‘How long was Mel down here like that?’ … ‘The medics weren’t sure, but none of the blood had congealed,’ Robbie said, staring at the floor. ‘She was just about breathing when we broke the door down. Her sister did this then.’",
+      "notes": "⚠️ 行凶者是「Her sister」（Mel 的姐姐）——由 Robbie 说出。"
+    },
+    {
+      "id": 13,
+      "action": "Amy 说出行凶者名字：「Jennifer」「Jennifer Parkin」（她从边桌上又拿起一件邮件）",
+      "range": "ch45:99[3836-3930]",
+      "verbatim": "‘Jennifer,’ Amy said, picking up another piece of post from the side table. ‘Jennifer Parkin.’",
+      "notes": "⚠️ 名字是 Amy 说的，且是在 Robbie 说「Her sister did this then」之后——即行凶的姐妹 = Jennifer Parkin，倒地者 = Melissa (Mel) Parkin。"
+    },
+    {
+      "id": 14,
+      "action": "Robbie 命众人散开找线索，判断 Jennifer 此刻可能在哪儿；他自己下楼去录音棚",
+      "range": "ch45:102[3933-4094]",
+      "verbatim": "‘Let’s spread out. See if we can find something that tells us where she might be right now,’ Robbie said, before heading down the stairs to the recording studio."
+    },
+    {
+      "id": 15,
+      "action": "Amy 搜「probably Mel's room」；Matt 找到「what he thought was Eulalia's room」（墙上贴满蓝丁胶固定的女圣徒、王后等图片；书架上有一只开着的银色首饰盒，里面是一团带血的棉花——像是特意放在那儿的）；Mel 的 MacBook 没密码，Matt 解锁，发现她仍登着论坛账号；邮件里找到 PO Box 确认信（混在上千封未读邮件中）和一单出租车预约——到达时付 £60 现金——四十五分钟前下的",
+      "range": "ch45:105[4097-4903]",
+      "verbatim": "Amy searched through what they thought was probably Mel’s room. Matt found what he thought was Eulalia’s room – the walls were covered in a collage of Blu-Tacked pictures of female saints, queens and general feminine medieval bumf on display. There was a bloody cotton wool ball in an open silver jewellery box in pride of place on her bookshelf which he couldn’t work out, but it looked like it had been placed there especially. She’d left her MacBook on the bed and it didn’t have a password. Matt unlocked it. She was still logged in to the forum with her account. He then checked her emails. He found a confirmation for the PO Box buried amongst the thousands of unopened emails. There was also a booking – please pay £60 in cash on arrival – from a taxi firm that she’d ordered forty-five minutes ago.",
+      "notes": "「她」= Eulalia（此处 Matt 以为是 Eulalia 的房间）。MacBook 在床上 ⇒ 是 Eulalia（Jennifer）的房间；因后来 129 行改为 Jennifer's desk。"
+    },
+    {
+      "id": 16,
+      "action": "Amy 在 Mel 房间抽屉里找到两包药：olanzapine 与 lithium，全部开给 Jennifer Parkin",
+      "range": "ch45:108[4906-5058]",
+      "verbatim": "‘I found these in a drawer in Mel’s room.’ Amy walked in holding two packets of medication. ‘Olanzapine and lithium. All prescribed to Jennifer Parkin.’",
+      "notes": "⚠️ 地点＝Mel 的房间；处方人＝Jennifer Parkin。"
+    },
+    {
+      "id": 17,
+      "action": "Matt 说这是抗精神病药＋心境稳定剂，判断「she's bipolar or possibly schizoaffective」（「she」＝服药者 Jennifer）",
+      "range": "ch45:111[5061-5238]",
+      "verbatim": "Matt looked up. ‘That’s a lot. An antipsychotic and a mood stabiliser.’ He remembered a module he’d taken during his degree. ‘I’d say she’s bipolar or possibly schizoaffective.’"
+    },
+    {
+      "id": 18,
+      "action": "三人对话：'Mel had control of her medication.' → 'Mel's either really controlling or Jennifer sometimes comes off it when she shouldn't.' → 'So her sister keeps hold of it and makes sure she takes it.'",
+      "range": "ch45:114[5241-5277]; ch45:117[5280-5368]; ch45:120[5371-5432]",
+      "verbatim": "‘Mel had control of her medication.’ … ‘Mel’s either really controlling or Jennifer sometimes comes off it when she shouldn’t.’ … ‘So her sister keeps hold of it and makes sure she takes it.’",
+      "notes": "⚠️ 因果方向：被控制药量的是 Jennifer；「her sister」＝Mel（Jennifer 的妹妹）；「makes sure she takes it」的 she＝Jennifer。"
+    },
+    {
+      "id": 19,
+      "action": "Matt 长段推论：若 Mel 是才华、Jennifer 是门面，Mel 需要 Jennifer 维持状态；Jennifer 擅自停用大量抗精神病药（不经精神科医生）会成为巨大隐患；Mel 依赖她，二者是「codependent」；这可能让 Mel 觉得需要控制她；Jennifer 的事业依赖姐姐充当她音乐才华的具象化；两姐妹间的怨恨必然难以忍受。Matt 随后点开 Caius 转来的 Royal College of Music 链接并播放",
+      "range": "ch45:123[5435-6080]",
+      "verbatim": "‘If Caius and Callie are right, and Mel’s the talent and Jennifer is the face, then Mel needs Jennifer to keep it together. Her coming off some quite heavy antipsychotics whenever she fancied without a psychiatrist being involved would make her a massive liability. Mel’s dependent on her. Well, they’re codependent. That could make Mel feel the need to control her. Her career is reliant on her sister acting as the physical embodiment of her musical talent. The resentment between the two of them must have been unbearable.’ Matt checked his phone and clicked on the link from the Royal College of Music that Caius had sent over. He played it.",
+      "notes": "⚠️ 因果链：Jennifer 停药 → 隐患/风险；Mel 因为需要 Jennifer 撑住门面所以要控制她的药；两人相互依赖（codependent）。"
+    },
+    {
+      "id": 20,
+      "action": "Amy 听后说「It's opera, but it's still clearly ‘Eulalia’」，并说自己其实很受打击——她曾是粉丝，Fi 本来要去订她下一轮巡演的票",
+      "range": "ch45:126[6083-6234]",
+      "verbatim": "‘It’s opera, but it’s still clearly “Eulalia”,’ Amy said. She was quietly devastated. She’d been a fan. Fi was going to book tickets for her next tour.",
+      "notes": "录音是歌剧，但听上去仍是 Eulalia（说明 Mel 的声音＝Eulalia 的演唱）。"
+    },
+    {
+      "id": 21,
+      "action": "Matt 走到 Jennifer 的书桌，抽出剪贴簿：她从网上搜集的关于 Caius 的剪报（按时间顺序排列）、那张 infamous meme 的截图，还有一篇关于 Lydia 案子的文章「Her younger brother Caius made an appeal last night.」",
+      "range": "ch45:129[6237-6601]",
+      "verbatim": "Matt went over to Jennifer’s desk. There was a scrapbook sat in pride of place. He flicked it open. There were press cuttings she’d found on the internet of Caius, organised chronologically, and a screenshot of the infamous meme. She’d even found an article about Lydia’s case: ‘Her younger brother Caius made an appeal last night.’ He showed the scrapbook to Amy.",
+      "notes": "⚠️ 剪贴簿在 Jennifer 的桌上 ⇒ Jennifer 是追 Caius 的人。"
+    },
+    {
+      "id": 22,
+      "action": "Amy 说「It feels inevitable, really, that he'd attract a stalker...」并补「Plus the whole Cinderella thing. Grew up thinking he was a normie, but turns out he's Norman.」",
+      "range": "ch45:132[6604-6781]; ch45:135[6784-6879]",
+      "verbatim": "‘It feels inevitable, really, that he’d attract a stalker. If you like men, I could understand fancying him. He isn’t terrible to look at. He rushes about, doing minor heroics.’ … ‘Plus the whole Cinderella thing. Grew up thinking he was a normie, but turns out he’s Norman.’"
+    },
+    {
+      "id": 23,
+      "action": "Amy 打开 Jennifer 的衣柜：衣服大多灰暗且偏大（宽松牛仔裤、超大 T 恤与卫衣），Jennifer 会被衣服淹没，「No one could lust after you if they couldn't see you」；她注意到一件亮红色开衫，像 Willow 的一件",
+      "range": "ch45:138[6882-7226]; ch45:141[7229-7330]; ch45:144[7333-7418]; ch45:147[7421-7563]",
+      "verbatim": "Amy opened Jennifer’s closet. She peered at the clothes. Most of them were drab and probably too large for her – lots of baggy jeans, oversized T-shirts and hoodies. Jennifer would’ve been lost in them. Her body would’ve been lost in them. No one could lust after you if they couldn’t see you, Amy supposed. One item of clothing caught her eye. … ‘Matt,’ Amy said, holding a hanger with the bright red cardigan up. ‘It’s just like one of Willow’s.’ … Matt took out his phone and found Willow’s Instagram. ‘It’s the same brand she buys.’ … ‘Jennifer was stalking Willow too?’ Amy put the cardigan in an evidence bag. ‘Willow did mention being friendly with a girl who lived nearby.’",
+      "notes": " Amy 自己推断了「追 Willow」；Willow 曾提过一个住在附近的女孩对她友好。"
+    },
+    {
+      "id": 24,
+      "action": "Matt 从衣柜顶上掉下的围巾、彩色假发、手袋堆里捡起一个 The Purple Toad Bakery 的布袋和一顶剪成波波头的廉价棕发假发",
+      "range": "ch45:150[7566-7780]",
+      "verbatim": "A jumble of scarves, brightly coloured party wigs and handbags fell off the shelf at the top of the wardrobe. Matt bent down and picked up a tote from The Purple Toad Bakery and a cheap brunette wig cut into a bob.",
+      "notes": "假发＝剪成波波头，与 Robin 实况/演出形象呼应。"
+    },
+    {
+      "id": 25,
+      "action": "Matt 断言「She has to be ‘fake Isolde’」",
+      "range": "ch45:153[7783-7867]",
+      "verbatim": "‘She has to be “fake Isolde”,’ Matt said, taking a couple of evidence bags from Amy.",
+      "notes": "⚠️ 指向 Jennifer（一人），不是两姐妹各担一半。"
+    },
+    {
+      "id": 26,
+      "action": "Amy 问「Is the missing volume of Horatio’s journal here?」，一边翻 Jennifer 的书架（诗集、亚瑟王传说、希腊神话女性改写、涂满字的笔记本），一边翻梳妆台上的一大堆信件——是粉丝寄来的；她拨开一幅「Eulalia 戴美人鱼 bobblehead 骑一条非常挑逗的海豚」的画，找到了它——「Matt, it's here. The missing volume.」",
+      "range": "ch45:156[7870-8470]",
+      "verbatim": "‘Is the missing volume of Horatio’s journal here?’ Amy sealed the cardigan up and began looking through Jennifer’s bookshelf. There was a lot of poetry; Arthurian legends; retellings of women from Greek myths; piles of scribbled-in notebooks that she knew she’d have to read through later. She turned to a huge pile of letters on the dressing table. They were from fans. She flicked through, merely glancing at their adoration for the hybrid popstar. She moved a drawing of Eulalia wearing a mermaid bobblehead straddling a very suggestive dolphin and found it. ‘Matt, it’s here. The missing volume.’",
+      "notes": "⚠️ 藏匿地点 = Jennifer 房间的梳妆台／那一堆粉丝来信处，由拨开海豚画后发现。发现者 = Amy。原文到此章末即止，未写在场诸人（Robbie、Tiny、Matt）的反应。"
+    }
+  ],
+  "relationships": [
+    "Robbie（被 Tiny 称 Sir、负责本案的老警探）与 Tiny Simm（同事，蹲下看信箱）破门进入 35 Priory Square；Robbie 抱怨 DI Fauntleroy 拿到荒唐案子（DI Fauntleroy 是不是 Robbie 本人，原文未明）。",
+    "Matt 与 Amy 是到场查案的两位主角；Robbie 称他们为「Matt and Amy」。",
+    "倒在地上的人 = Melissa Parkin（Mel），Beverley 与 Nigel Parkin 之女，住在 Harrogate；Robbie 倒推她倒下仅五分钟。",
+    "行凶者 = 「Her sister did this then」（Robbie 语），Amy 点名 Jennifer Parkin。",
+    "Jennifer Parkin 与 Melissa Parkin 是姐妹；Caius 与 Callie 认为 Mel 才是有音乐才华者、Jennifer 是门面，Eulalia 是 Jennifer 的艺名（Matt 在 Jennifer 的房间找到 MacBook 与论坛登录账号）。",
+    "Callie = Caius 的女友，被 Eulalia 雇来做 creative consulting；原文「Mel, her sister, is her manager」代词有歧义（Mel 是 Callie 的姐妹/其经纪人，或 Mel 是 Eulalia 的经纪人）。",
+    "Caius = Lydia 的弟弟，歌手；Janet 刚过六十岁生日；Willow = Amy 提过的红开衫同品牌对象；Fi = 原本要去订 Eulalia 巡演票的人；Digby = 「假 Isolde」用 PO Box 写信的对象；Beverley/Nigel = 父母；M&S Food = 信用卡丢失地；The Purple Toad Bakery = 布袋来源。",
+    "药物关系：Olanzapine（抗精神病药）+ lithium（心境稳定剂）全部开给 Jennifer Parkin，药放在 Mel 房间的抽屉里 ⇒ Mel 控制 Jennifer 的药；Matt 判断 Jennifer bipolar 或 schizoaffective。",
+    "藏匿与发现：Horatio 日记缺失的那一卷藏在 Jennifer 房间（书架／梳妆台上的粉丝信件堆、海豚画后）；由 Amy 发现并喊给 Matt。"
+  ],
+  "numbers_and_dates": [
+    { "value": "35 Priory Square", "range": "ch45:20[36-380]", "verbatim": "steps to 35 Priory Square" },
+    { "value": "all morning", "range": "ch45:20[36-380]", "verbatim": "forensics trooped in and out all morning" },
+    { "value": "all six feet five", "range": "ch45:26[571-794]", "verbatim": "Tiny Simm, all six feet five of him" },
+    { "value": "only five minutes before", "range": "ch45:42[1485-1750]", "verbatim": "the spot where she had lain only five minutes before" },
+    { "value": "over the last week", "range": "ch45:69[2947-3114]", "verbatim": "hired by Eulalia to do some creative consulting over the last week" },
+    { "value": "Janet’s sixtieth", "range": "ch45:63[2784-2881]", "verbatim": "the posh bird he brought down the pub for Janet’s sixtieth the other month" },
+    { "value": "the other month", "range": "ch45:63[2784-2881]", "verbatim": "the other month" },
+    { "value": "what an hour ago", "range": "ch45:87[3541-3594]", "verbatim": "The latest story was posted, what an hour ago, Amy?" },
+    { "value": "£60 in cash on arrival", "range": "ch45:105[4097-4903]", "verbatim": "please pay £60 in cash on arrival" },
+    { "value": "forty-five minutes ago", "range": "ch45:105[4097-4903]", "verbatim": "from a taxi firm that she’d ordered forty-five minutes ago" },
+    { "value": "thousands of unopened emails", "range": "ch45:105[4097-4903]", "verbatim": "buried amongst the thousands of unopened emails" },
+    { "value": "two packets of medication", "range": "ch45:108[4906-5058]", "verbatim": "holding two packets of medication. ‘Olanzapine and lithium.’" },
+    { "value": "last night", "range": "ch45:129[6237-6601]", "verbatim": "‘Her younger brother Caius made an appeal last night.’" },
+    { "value": "a couple of evidence bags", "range": "ch45:153[7783-7867]", "verbatim": "taking a couple of evidence bags from Amy" }
+  ],
+  "chapter_specific_findings": {
+    "1_倒地者": "原文 ch45:45「Melissa Parkin」；ch45:93「How long was Mel down here like that?」——倒地者是 Melissa（Mel）Parkin；ch45:96「She was just about breathing when we broke the door down. Her sister did this then.」；ch45:99 Amy 说出行凶者「Jennifer Parkin」。",
+    "2_假Isolde指向": "一个人：Jennifer Parkin（ch45:153 Matt「She has to be ‘fake Isolde’」，依据是 Jennifer 房间里的剪贴簿、假发、开衫）。原文未把「假 Isolde」拆给两姐妹；Mel 是有才华的姐姐/妹妹与幕后者，不是「假 Isolde」本人。",
+    "3_药物与相互依赖因果": "药在 Mel 房间但开给 Jennifer（ch45:108）→ Mel 控制 Jennifer 的药（ch45:114–120）→ 原因是 Jennifer 擅自停药会成隐患（ch45:123）而 Mel 需要 Jennifer 这个门面撑住（ch45:123）→ 两人 codependent。方向：不是 Jennifer 需要 Mel 稳定，也不是 Jennifer 停药会「让 Mel 失控」以外的反向因果。",
+    "4_日记卷藏匿": "地点＝Jennifer 房间的梳妆台／一大叠粉丝来信处，拨开那幅「Eulalia 骑海豚」画后找到（ch45:156）；藏匿者＝Jennifer（原文未明写藏者，由房间与物品归属推出）；发现者＝Amy。原文未写任何在场者的现场反应，章末停在 Amy「Matt, it's here. The missing volume.」"
+  }
+}
