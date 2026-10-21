@@ -10,7 +10,7 @@ source_text: ch09
 
 - **一句话概括**：两名警员在警局的白板上把动机劈成"钱"与"性"两栏；财产这一栏因为死者本人并不有钱而卡住，随即被"谁继承博物馆"的问题改写，而继承这一格在本章里始终没人填得出名字；另一半时间他们逐封读那叠求爱信，把"性"这一栏一点点读出内容来。
 - **视角**：第三人称限知，紧贴顾问警员凯厄斯；场景在警局休息室与事件室之间来回，章末落到事件室的桌前，两人对着成叠信件读。
-- **线索结构**：博物馆目录与展品逐一核对、并无一件失窃（"为拿藏品"被排除）· 迪吉的银行状况与多利斯山的小公寓（"图财"这一支缺少分量）· 博物馆房产本身的价值与继承归属（"钱"这一支转向遗产）· 伊索尔德的来信：日期、笔迹、口吻与那三行自我介绍（"性"这一支填出内容）。
+- **线索结构**：博物馆目录与展品逐一核对、并无一件失窃（"为拿藏品"被排除）· 迪吉的银行状况与多利斯山的小公寓（"图财"这一支缺少分量）· 博物馆房产本身的价值与继承归属（"钱"这一支转向遗产）· 伊索尔德的来信：日期、口吻与那份逐项列出的自我介绍（"性"这一支填出内容）。
 - **人物弧线**：凯厄斯从一句"我卡住了"走到把猜想一条条画成箭头与词组，他的强项是结构化，弱点是遇到没有证据支撑的地方就停在半路；艾米则从跑腿的人变成提出关键反问的人——正是她问出"迪吉一死博物馆归谁继承"，把案子从死者身上挪到活人身上。
 - **叙事手法**：用泡茶、煮水、拿马克笔、翻信件这类实物动作串起推理，抽象猜想被钉在白板的词与箭头之间；对话里塞进一堆土话和自嘲（把街区写成被"凯特·摩丝化"再被金融从业者磨平），让两条动机线始终带着日常语气。
 
@@ -78,11 +78,11 @@ source_text: ch09
 
 > **原句 7:** "‘She’s suggesting it but letting him think it was his idea.’"
 
-**中文理解**：艾米说：她是在暗示，但让迪吉以为这是他自己想出来的。
+**中文理解**：凯厄斯说：她是在暗示，但让迪吉以为这是他自己想出来的。
 
 **关键词**：suggesting / his idea
 
-**为什么这样写**：艾米读信时抓到的是一个手法而不是一个事实：伊索尔德从不直接要求见面，只把博物馆的评论夹在约定日期的前后，让地点显得像是对方挑的。推理的锋刃落在"谁在做决定"上——表面上迪吉在主导，实则每一步都被安排。
+**为什么这样写**：凯厄斯读信时抓到的是一个手法而不是一个事实：伊索尔德并不指定在研究所见面，甚至很愿意当面见——她只是把博物馆的评论夹在约定日期的前后，让地点显得像是对方挑的。推理的锋刃落在"谁在做决定"上——表面上迪吉在主导，实则每一步都被安排。
 
 **读者视角提示**：往后凡是出现"巧合"和"正好"的场合，都可以用这句话去量一量：到底是对方在做主，还是被引导的人以为自己在做主。
 
@@ -123,8 +123,8 @@ source_text: ch09
 | pavement | 人行道 | ‘The police cars had strewn past and blocked the pavement.’ |
 | killer | 凶手；杀人者 | ‘Isolde is looking more and more like a killer.’ |
 | motive | 动机；动机 | ‘That’s a good question,’ Caius said, writing it down. ‘Sex as a motive.’ |
-| plastic bag | 塑料袋 | ‘I’ll send you a link,’ Amy said, before handing Caius a plastic bag with the first letter in. |
-| day-to-day life | 日常生活 | ‘Isolde takes a huge amount of interest in his day-to-day life. She’s asking him questions about the Institute, the book he’s writing, his friends, what he’re reading. Giving that ego a good, firm rubbing.’ |
+| plastic bag | 塑料袋 | ‘I’ve gone through all the letters and I’ve made a key of their dates and contents. I’ll send you a link,’ Amy said, before handing Caius a plastic bag with the first letter in. |
+| day-to-day life | 日常生活 | ‘Isolde takes a huge amount of interest in his day-to-day life. She’s asking him questions about the Institute, the book he’s writing, his friends, what he’s reading. Giving that ego a good, firm rubbing.’ |
 | public place | 公共场所 | ‘A public place is safer, but that’s a female way of necessary, precautionary thinking.’ |
 
 ## 一句话总结

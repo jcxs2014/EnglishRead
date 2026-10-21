@@ -1,0 +1,459 @@
+{
+ "chapter": "ch09",
+ "title": "Money or sex on the whiteboard",
+ "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch09_9.txt",
+ "chars": 7269,
+ "read_protocol": "R1 素读：只读 text/ch09_9.txt，未开任何 md、未看别章 md；本文件落盘后才读 md。",
+ "facts": [
+  {
+   "id": "F1",
+   "claim": "Caius 熬夜看监控到 3 a.m.，没有 Willow 化妆的替身第二次走过；Amber/Amy 报告已把 Institute 的藏品与证物逐一交叉比对，「Not a single thing is missing」（没有一件东西不见了）。",
+   "who": "Caius / Amy",
+   "did": "Caius 看监控至凌晨；Amy 报告藏品与证物交叉核对完成、无失物",
+   "anchor": "Not a single thing is missing",
+   "span": [
+    39,
+    508
+   ],
+   "lines": [
+    20,
+    23
+   ],
+   "verified": true,
+   "anchor_span": [
+    477,
+    506
+   ],
+   "anchor_verbatim": "Not a single thing is missing"
+  },
+  {
+   "id": "F2",
+   "claim": "Caius 列出三种可能：一、Digby 误食带毒叶子的沙拉而死、Isolde 惊慌逃走；二、Digby 被谋杀；三、Digby 死于有人想进 Institute 取东西。Amy 认为第三种已被排除（因为不知道他们要进 Institute 干什么——「The boss-eyed kangaroo?」）。Caius 说地下室层（The basement level?）但答不上来，「That’s been sealed off for years.」（已封多年）。",
+   "who": "Caius 提出三分法；Amy 提出反驳并排除第三项",
+   "did": "Caius 摆出三条假设；Amy 反驳第三条；Caius 承认卡住（「That’s where I keep getting stuck.」）",
+   "anchor": "There are three options here",
+   "span": [
+    511,
+    1464
+   ],
+   "lines": [
+    26,
+    29,
+    32,
+    35,
+    38,
+    41,
+    44,
+    47,
+    50
+   ],
+   "verified": true,
+   "anchor_span": [
+    590,
+    618
+   ],
+   "anchor_verbatim": "There are three options here"
+  },
+  {
+   "id": "F3",
+   "claim": "Amy 说已把 Digby 办公室的所有文件拿到所里（brought here），全部在采指纹；Caius 说这是好主意，并指出 Willow 说过她替 Digby 做过大量行政事务，所以她的指纹预计会大量出现。",
+   "who": "Amy 提出并执行；Caius 回应",
+   "did": "Amy 取来全部文件送检指纹；Caius 预期 Willow 指纹会大量命中",
+   "anchor": "Everything is being fingerprinted",
+   "span": [
+    1467,
+    1748
+   ],
+   "lines": [
+    53,
+    56
+   ],
+   "verified": true,
+   "anchor_span": [
+    1532,
+    1565
+   ],
+   "anchor_verbatim": "Everything is being fingerprinted"
+  },
+  {
+   "id": "F4",
+   "claim": "【白板两个词的作者】Amy 倒了一杯水，两人回到案情室；Caius 把茶放在桌上，拿起马克笔在白板上写了两个词——「Money or sex」（钱或性），并说出口。Amy 问「Which one?」，Caius 答「Money.」，随即从这个词画出箭头，边说边写关键词。",
+   "who": "Caius（写板的人）/ Amy（提问）",
+   "did": "Caius 拿起 marker pen 在 whiteboard 上写两词 Money or sex；Caius 从 Money 画箭头并写关键词",
+   "anchor": "wrote two words on a whiteboard. ‘Money or sex,’ he said",
+   "span": [
+    1751,
+    2367
+   ],
+   "lines": [
+    59,
+    62,
+    65
+   ],
+   "verified": true,
+   "flag": "本章专属判据：白板上那两个词＝Caius 亲笔所写",
+   "anchor_span": [
+    1896,
+    1952
+   ],
+   "anchor_verbatim": "wrote two words on a whiteboard. ‘Money or sex,’ he said"
+  },
+  {
+   "id": "F5",
+   "claim": "Money 分支：Caius 说要查 Digby 的个人财务，但怀疑他银行里有 couple of million；他住在 Dollis Hill 的 studio，并不富有（wasn't loaded）；有人设局把他引出来以便入室盗窃并非不可能，但没有证据支持，那对看似很小的赃物来说 effort 太大。Amy 接到话头提「The Institute then」，Caius 问是「The contents or the building?」并把两者都写在板上；他说 building 比 contents 值钱得多（那一片 Camden 从 eighties 和 nineties 的 squats，到 Cool Britannia 式的 Kate Mossified，再到被穿 navy gilets 的 international finance bros 弄 dullified）。",
+   "who": "Caius 主导 money 推理；Amy 提出 Institute",
+   "did": "Caius 排除入室盗窃动机、写下 contents/building 两项",
+   "anchor": "He drew arrows coming off the word",
+   "span": [
+    1971,
+    2729
+   ],
+   "lines": [
+    65,
+    68,
+    71
+   ],
+   "verified": true,
+   "anchor_span": [
+    1980,
+    2014
+   ],
+   "anchor_verbatim": "He drew arrows coming off the word"
+  },
+  {
+   "id": "F6",
+   "claim": "【继承问题的提出者】Amy 盯着白板说「It’s worth a bomb.」并问「I wonder who inherits the Institute with Digby gone?」（Digby 一死，谁继承 Institute）；Caius 说「That’s a good question,」并把它写下来，随后说出「Sex as a motive.」（性作为动机）。",
+   "who": "Amy（提出继承问题）/ Caius（把问题写上白板，并给出 sex 分支）",
+   "did": "Amy 抛出遗产归属问题；Caius 写上白板并转入 sex 动机",
+   "anchor": "I wonder who inherits the Institute with Digby gone?",
+   "span": [
+    2732,
+    2913
+   ],
+   "lines": [
+    74,
+    77
+   ],
+   "verified": true,
+   "flag": "本章专属判据：继承那格＝Amy 提问、Caius 写下；本章只到「提出问题」为止",
+   "anchor_span": [
+    2784,
+    2836
+   ],
+   "anchor_verbatim": "I wonder who inherits the Institute with Digby gone?"
+  },
+  {
+   "id": "F7",
+   "claim": "Sex 分支：Caius 说 Isolde 是「Solitary Digby」——拒绝过去五十年内发展出的任何技术——在杂志上登 lonely-hearts ad，遇见一个像是为他量身定做的叫 Isolde 的女人。Amy 说「Bogus name.」，Caius 重复「Bogus name,」并把它加到板上，接着写下「The PO Box.」，Amy 补「The Willow disguise.」。",
+   "who": "Caius 主导 sex 分支；Amy 给出 bogus name / Willow disguise",
+   "did": "Caius 把 Bogus name、The PO Box 写上板",
+   "anchor": "adding it to the board. ‘The PO Box.’",
+   "span": [
+    2916,
+    3240
+   ],
+   "lines": [
+    80,
+    83,
+    86,
+    89,
+    92
+   ],
+   "verified": true,
+   "anchor_span": [
+    3178,
+    3215
+   ],
+   "anchor_verbatim": "adding it to the board. ‘The PO Box.’"
+  },
+  {
+   "id": "F8",
+   "claim": "Caius 说 Isolde 没有原路返回；若她慌了，更可能走熟路那条（familiar），且多数人惯用右手会本能地往那个方向转；他说「I’m grasping now.」。他判断 Willow 没参与（「My gut says no. She’s a bouncy twenty-year-old.」），Amy 也不认为（「I don’t see it.」）。Amy 问还有谁家门铃有摄像头，Caius 说邻近房子都没有，也没有其他视角——magnolia trees 挡住大片 square，旁边有个 huge skip。Amy 问何时能听到 Barry 的消息，Caius 看表说「Not until tomorrow now.」。",
+   "who": "Caius / Amy",
+   "did": "Caius 判断 Willow 无辜、无摄像头线索、Barry 消息要到明天",
+   "anchor": "I’m grasping now",
+   "span": [
+    3243,
+    4083
+   ],
+   "lines": [
+    95,
+    98,
+    101,
+    104,
+    107,
+    110,
+    113
+   ],
+   "verified": true,
+   "anchor_span": [
+    3496,
+    3512
+   ],
+   "anchor_verbatim": "I’m grasping now"
+  },
+  {
+   "id": "F9",
+   "claim": "Amy 桌上电话响，她接完说法证已处理完 Isolde 的信：没有指纹、信封没有被舔过（weren’t licked）、没有任何寄信人的痕迹。Caius 由此说「Isolde is looking more and more like a killer.」。",
+   "who": "Amy 传话（法证结论）/ Caius 判断",
+   "did": "法证查完信无指纹无寄信人痕迹；Caius 怀疑 Isolde 是凶手",
+   "anchor": "No fingerprints. The envelopes weren’t licked.",
+   "span": [
+    4086,
+    4352
+   ],
+   "lines": [
+    116,
+    119
+   ],
+   "verified": true,
+   "anchor_span": [
+    4216,
+    4262
+   ],
+   "anchor_verbatim": "No fingerprints. The envelopes weren’t licked."
+  },
+  {
+   "id": "F10",
+   "claim": "分节符 * * * 之后：Caius 已把监控看到 Saturday 10.30 a.m.；警车驶过挡住人行道，唯一值得注意的是那个 poor blonde girl——Caius 曾在进不去地下室后差点撞到她；他说「Urgh, I’m so embarrassing.」。Amy 给了 Caius 所有信件的日期与内容对照表，说 Isolde 总在信的顶端写日期（old-school），会隔一天回信，且很热切。",
+   "who": "Caius / Amy",
+   "did": "Amy 做信件日期/内容对照并交第一封信；Caius 承认自己差点撞到那个金发女孩",
+   "anchor": "I’ve made a key of their dates and contents",
+   "span": [
+    4367,
+    5080
+   ],
+   "lines": [
+    129,
+    132,
+    135,
+    138
+   ],
+   "verified": true,
+   "anchor_span": [
+    4771,
+    4814
+   ],
+   "anchor_verbatim": "I’ve made a key of their dates and contents"
+  },
+  {
+   "id": "F11",
+   "claim": "信的内容：Isolde 对 Digby 的日常生活极感兴趣，问他关于 Institute、他正在写的书、朋友、在读什么；Amy 评「Giving that ego a good, firm rubbing.」（在满足他的自我）。Caius 追问那本书（「A book?」），Amy 说他问过是关于什么的。",
+   "who": "Amy 讲解；Caius 追问",
+   "did": "Amy 指出 Isolde 在信里摸清 Digby 的日常与近况",
+   "anchor": "Giving that ego a good, firm rubbing",
+   "span": [
+    5083,
+    5407
+   ],
+   "lines": [
+    141,
+    144,
+    147,
+    150
+   ],
+   "verified": true,
+   "anchor_span": [
+    5317,
+    5353
+   ],
+   "anchor_verbatim": "Giving that ego a good, firm rubbing"
+  },
+  {
+   "id": "F12",
+   "claim": "Caius 问有没有特别突出的内容，Amy 说「Nothing in particular.」；Caius 问是否在 grooming，Caius 自己答「Love bombing?」「Yeah, I’m wondering.」；问是否交换过照片——「No. Although she’s very keen to meet face to face.」",
+   "who": "Caius / Amy",
+   "did": "Caius 提出 grooming/love bombing 与照片交换的疑问",
+   "anchor": "Love bombing?",
+   "span": [
+    5410,
+    5783
+   ],
+   "lines": [
+    153,
+    156,
+    159,
+    162,
+    165,
+    168
+   ],
+   "verified": true,
+   "anchor_span": [
+    5547,
+    5560
+   ],
+   "anchor_verbatim": "Love bombing?"
+  },
+  {
+   "id": "F13",
+   "claim": "问「At the Institute?」；Amy 拿出信指出一处：她并不明说要在 Institute 见，而是把提议的日期前后用关于 Institute、以及他因为经营它而有意思的评论包起来（bookends）。Caius 判定「She’s suggesting it but letting him think it was his idea.」；Amy 问为何不在餐厅，Caius 说公共场所更安全，但那是 female way of necessary, precautionary thinking；Amy 附和不会把约会安排在 secluded place。",
+   "who": "Amy 举证；Caius 解读；Amy 附议",
+   "did": "Caius 判定 Isolde 在暗示 Institute 但让对方以为是对方的主意",
+   "anchor": "She’s suggesting it but letting him think it was his idea.",
+   "span": [
+    5786,
+    6349
+   ],
+   "lines": [
+    171,
+    174,
+    177,
+    180,
+    183,
+    186
+   ],
+   "verified": true,
+   "anchor_span": [
+    6045,
+    6103
+   ],
+   "anchor_verbatim": "She’s suggesting it but letting him think it was his idea."
+  },
+  {
+   "id": "F14",
+   "claim": "Amy 提到 Matt 觉得她可能是 goth，Caius 说或许是个 proper history nerd，想被允许 out-of-hours 进入。Amy 问 Isolde 有没有透露自己的任何事实，并递给 Caius 她的笔记本。Caius 逐条念出：「Five seven; brown hair; a primary school teacher (English lead); wants to move to a small village for the peace and quiet; grew up in Dorset; Dad is big Wagner aficionado… used to do ballet until she fractured three metatarsals; has a brother called Richard; took up watercolours last year; allergic to strawberries but adores raspberries; big fan of Dickens novels; went to Exeter university.」，并说「Well, her height and hair colour match up with the footage at least.」。Amy 说「I wonder how much of that is true.」，Caius 说「Indeed.」并总结「She’s perfect for Digby. Too perfect perhaps.」",
+   "who": "Amy 列出；Caius 念出并核对",
+   "did": "Caius 念完 Isolde 自述清单，指出身高发色与监控对得上，并称「Too perfect perhaps.」",
+   "anchor": "Too perfect perhaps",
+   "span": [
+    6352,
+    7268
+   ],
+   "lines": [
+    189,
+    192,
+    195,
+    198,
+    201,
+    204,
+    207
+   ],
+   "verified": true,
+   "anchor_span": [
+    7247,
+    7266
+   ],
+   "anchor_verbatim": "Too perfect perhaps"
+  }
+ ],
+ "relations": [
+  "Caius：侦探/办案者，本章叙述主视角；与 Amy 同在所里办案，在 break room 冲茶（自己的 oat milk 盒，盒侧写自己名字）。",
+  "Amy：Caius 的同事/搭档，做交叉比对、采指纹安排、信件日期与内容对照表；提出「Institute then」「I wonder who inherits the Institute with Digby gone?」「Bogus name」「The Willow disguise」；与 Caius 就谁问的问题彼此附和（「You?」—「I don't see it.」）。",
+  "Isolde：疑为凶手的女性，以 Digby 的 lonely-hearts 搭讪对象身份通信、约在 Institute 见面。",
+  "Digby：死者，遗产含 Institute；被 Amy 称 Solitary Digby；生前在写一本书。",
+  "Willow：年轻女性，Digby 的行政助理（做过 admin tasks），Caius 判断她不是同谋（bouncy twenty-year-old）。",
+  "Barry：尚未回复的人（doorbell cameras 一事），消息要等到明天。",
+  "Matt：Amy 提到「Matt's house playlist」「Matt thought she might be a goth」；不在场同事。",
+  "Eulalia/Mel 等未在本章出现。"
+ ],
+ "numbers_dates_verbatim": [
+  {
+   "value": "3 a.m.",
+   "context": "Caius 熬夜看监控到 3 a.m.",
+   "span": [
+    39,
+    319
+   ],
+   "line": 20
+  },
+  {
+   "value": "three options",
+   "context": "Caius 说有三条可能",
+   "span": [
+    511,
+    735
+   ],
+   "line": 26
+  },
+  {
+   "value": "a couple of million",
+   "context": "怀疑 Digby 银行里没 couple of million",
+   "span": [
+    1971,
+    2367
+   ],
+   "line": 65
+  },
+  {
+   "value": "the eighties and nineties",
+   "context": "Camden 那片区的历史",
+   "span": [
+    2404,
+    2729
+   ],
+   "line": 71
+  },
+  {
+   "value": "last fifty years",
+   "context": "Solitary Digby 拒绝过去五十年的技术",
+   "span": [
+    2928,
+    3123
+   ],
+   "line": 83
+  },
+  {
+   "value": "twenty-year-old",
+   "context": "bouncy twenty-year-old（Willow）",
+   "span": [
+    3541,
+    3615
+   ],
+   "line": 101
+  },
+  {
+   "value": "10.30 a.m. on Saturday",
+   "context": "Caius 已把监控看到周六 10:30",
+   "span": [
+    4367,
+    4644
+   ],
+   "line": 129
+  },
+  {
+   "value": "the following day",
+   "context": "Isolde 隔天回信",
+   "span": [
+    4732,
+    5080
+   ],
+   "line": 138
+  },
+  {
+   "value": "Five seven",
+   "context": "Isolde 自述身高",
+   "span": [
+    6609,
+    7135
+   ],
+   "line": 201
+  },
+  {
+   "value": "three metatarsals",
+   "context": "芭蕾舞骨折三根跖骨",
+   "span": [
+    6609,
+    7135
+   ],
+   "line": 201
+  },
+  {
+   "value": "last year",
+   "context": "去年开始画水彩",
+   "span": [
+    6609,
+    7135
+   ],
+   "line": 201
+  },
+  {
+   "value": "Three options ⇒ Firstly / Secondly / thirdly",
+   "context": "三分法",
+   "span": [
+    511,
+    905
+   ],
+   "line": 26
+  }
+ ]
+}
