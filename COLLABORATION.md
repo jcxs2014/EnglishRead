@@ -241,6 +241,19 @@ commit bf984c81
 
 【don-t-leave-her-alone-by-desiree-de-fez】修复完成：中文层/词汇/总览缺陷修复 (m01041)。gate.sh 退出码 0。verify_quotes 115/115 ✅，check_vocab FAIL 0（5 提示型），check_entities 0，corruption 0，sweep_full 82 本章命中/0 全书查无，verify_overview_quotes 15/15 ✅，check_chinese_layer 阻断 0。commit c0031b783。
 
+【don-t-leave-her-alone-by-desiree-de-fez】五步独立审查完成 · 阻断型 32 → 0（DSH-Mac，2026-10-21）
+
+- 规模：18 章 + 总览三篇 = 21 md｜109 引语块｜lane=完整（epub 在 library/）
+- 类级对账：中文层夹杂阻断 5→0｜整层夹杂率 5%→0%｜分析密度 95%→100%｜缺「读者视角提示」子项 1→0｜整段复制/英文重放损坏 3→0｜译文截断/引号错位 2→0｜分析层走形自造 14→0｜跨章引用未标章号 3→0｜说话人错配 3→0｜总览 d2 合规引用块 9/0/0→20/22/20｜总览引语门禁覆盖 26/62→62/62｜总览「出处」错标 4→0｜总览事实性断言错误 1→0
+- 门禁终值（整改后全量重跑，退出码 0）：verify_quotes 171/171 ✅｜check_vocab FAIL 0（14 提示型）｜check_entities 0｜corruption_scan FAIL 0｜sweep_full 全书查无 0｜逐章归属 18 章全 X/X｜verify_overview_quotes 62/62 ✅｜overview_full 查无 0 覆盖 18/18｜xref 归章/伪造/移章 全 0｜quote_blocks 109 行｜check_chinese_layer 阻断 0 提示 0｜bookform --all 空引号/形态偏离/无法判定 全 0
+- 独立取证（自写脚本，不依赖既有工具）：109 块拆 196 条 ≥20 字符片段逐条回本章 text/ 比对 → 未命中 0；maxrep 重复段扫描 → 0；总览 80 个 span → NOT_FOUND 0
+- 工具缺陷 3 处（假红源，已修工具未改 md）：check_chinese_layer 的 mix_ratio 先剥全部引号把中文译文也剥掉 ⇒ 对话体书比率系统性高估（改法：分母汉字按全文、分子只数剥引文后的英文词；全库 472 本回归判绿→判红 0 本）｜bookform 空引号误判相邻对白｜bookform `if no` 把 ch00 序章判「无法判定」｜bookform 引语比对大小写敏感（其余门禁均 lower）
+- 工具改动全库影响（修前=HEAD 版，非 amend）：bookform 322 本告警 356→32，87 本明细减少、**0 本明细增加**，明细差异留档 .memory/raw-gates/don-t-leave-her-alone-by-desiree-de-fez/2026-10-21-tool-baseline-diff.txt；按「新规则只对新增书籍生效」，**未动任何存量书 md**
+- 工具盲区如实标注：corruption_scan 只查中文重复片段，英文重放对它不可见（本轮 3 处靠自写机检抓出）｜check_chinese_layer docstring「合格书上 0 误报」声称与实测不符，未擅自改写
+- 审查方式：d 步四个子代理批次（附 3 个本库真实失败案例 + 防幻觉条款 + 只读），父会话逐条程序化复核不照单全改（batch B 的 ch11 leg/thigh 为假警报；batch C 的「引语截短」多条经块外率复核判为本库通行写法）
+- 局限：执行方同会话自审；分析层 28 条压缩引证定性依赖抽样非穷举；「句子结构/一句话总结」体例漂移登记需人判未改
+- 明细：.memory/raw-gates/don-t-leave-her-alone-by-desiree-de-fez/2026-10-21-completion-report.md
+
 ### [2026-10-19 22:25 UTC] [DSH-Mac] → All
 
 【beware-the-abbott-boys 中文层修复】《Beware the Abbott Boys》（Chelsea Ichaso）slug: beware-the-abbott-boys-by-chelsea-ichaso —— 原「五步审查通过」条目所依据的中文层实为假修复，整层重写（DSH-Mac，2026-10-19/20）
