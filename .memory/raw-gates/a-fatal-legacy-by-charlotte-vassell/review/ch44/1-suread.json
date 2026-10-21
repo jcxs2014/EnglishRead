@@ -1,0 +1,179 @@
+{
+  "chapter": 44,
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch44_44.txt",
+  "source_chars": 8947,
+  "method": "只读 text/ch44_44.txt（197 行）；字符区间为该文件 0-based 半开区间 [start,end)，行号见 range.line",
+  "division": "SATURDAY（本章无内文日期标注；分部名为任务给定）",
+  "location": "Frithsden Old Hall（text/ch44_44.txt:17）",
+  "events": [
+    {
+      "id": "E1",
+      "actor": "Georgie",
+      "action": "说服 Caius 跟他打网球；Caius 此前只隐约知道庄园里有个网球场，处于劣势。Caius 只接回 Georgie 的三拍",
+      "range": {"start": 41, "end": 1039, "line": 20},
+      "verbatim": "Georgie had convinced Caius to play him at tennis. Caius, who was only vaguely aware that there was a tennis court on the property, was at a disadvantage. ... Caius successfully returned only three of Georgie’s shots."
+    },
+    {
+      "id": "E2",
+      "actor": "Georgie",
+      "action": "十五岁时本是网球天才苗子，后来迷上 WKDs、吸烟和女孩子；Tim Henman 的前教练想训练他，他被看好为温网种子；他拒绝了“那些壁球人”（squash people）的赞助，好多陪第一任女友 Delilah，而 Delilah 三周后就把他甩了",
+      "range": {"start": 41, "end": 1039, "line": 20},
+      "verbatim": "Georgie, it turned out, had once been considered a prodigy before he discovered WKDs, smoking and girls at fifteen. Tim Henman’s former coach had tried to train him and he’d been tipped as a potential Wimbledon hopeful. Georgie looked wistfully misty-eyed when he talked about turning down sponsorship by those squash people so he could spend time with Delilah his first girlfriend who dumped him three weeks later anyway."
+    },
+    {
+      "id": "E3",
+      "actor": "Callie / Dotty",
+      "action": "被碾压期间两个女孩在露台上休息，整个周末几乎没挪动；Dotty 的小说读到一半；Callie 还在反复琢磨与 Eulalia 会面的那个永远没有结论的尾声，一边翻 Caius 那本讽刺杂志《The Cutter》",
+      "range": {"start": 41, "end": 1039, "line": 20},
+      "verbatim": "While he was being annihilated the girls were relaxing on the terrace. They’d barely moved all weekend. Dotty was halfway through her romance and Callie was still mulling over the never-ending conclusion of her encounter with Eulalia while attempting to flick through Caius’s copy of the satirical magazine The Cutter."
+    },
+    {
+      "id": "E4",
+      "actor": "Callie / Dotty",
+      "action": "Callie 看手机后说“她又打来了”，并把手机倒扣；Dotty 头也不抬叫她“把手机关掉”，因为正读到好看的段落，她喜欢“假恋爱”这个套路",
+      "range": {"start": 1042, "end": 1246, "line": "23,26"},
+      "verbatim": "‘She’s rung again,’ Callie said, checking her phone and then turning it upside down. / ‘Turn your phone off,’ Dotty said without looking up. She was getting to a good bit. She loved the fake-dating trope."
+    },
+    {
+      "id": "E5",
+      "actor": "Matt",
+      "action": "打电话找 Caius，很急（“It's super urgent”）；来电显示在 Caius 的手机上，Callie 误以为是自己的；她接了，先寒暄他新公寓并推荐一家可持续涂料公司，一边绕过房子侧面、经过围墙花园",
+      "range": {"start": 1249, "end": 1662, "line": "29,32,35,38"},
+      "verbatim": "The table vibrated. Callie picked up her phone to finally turn it off, but put it back down again. It was Caius’s phone. Matt was calling. / ‘Hi, Matt, it’s Callie.’ / ‘Hey, is Caius there? It’s super urgent.’ / ‘Sure, hang on.’ Callie made small talk with Matt about his new flat, recommending a sustainable paint company, as she walked round the side of the house and past the walled garden."
+    },
+    {
+      "id": "E6",
+      "actor": "Caius",
+      "action": "接过电话走开，不想让 Callie 听见；Georgie 慢慢跟了过去。Caius 对 Matt 说“别开玩笑了……关于我们……她们在同一个组合里……是中世纪的？那个面包”，随后开免提并对 Callie 说“Matt 在，Callie 也在”",
+      "range": {"start": 1665, "end": 2123, "line": "41,44"},
+      "verbatim": "Caius, relieved to be released from Georgie’s merciless backhand, jogged over. Callie handed him his phone and he walked off, keen for her not to hear. Georgie ambled after him slowly. / ‘Hey, mate, all fine? Ah … What? Are you fucking kidding? No … About us … And they’re in the same group. Right … It’s medieval? The bread. Hang on, I’m putting you on speakerphone.’ Caius walked back over to Callie and put his phone on speaker. ‘OK, Matt, Callie’s here.’"
+    },
+    {
+      "id": "E7",
+      "actor": "Matt",
+      "action": "向 Callie 打听是否有人最近对她“有点跟踪狂”（stalkery）",
+      "range": {"start": 2126, "end": 2235, "line": 47},
+      "verbatim": "‘Hi again, Callie, I was just wondering whether you’d noticed anyone being a bit stalkery with you recently?’"
+    },
+    {
+      "id": "E8",
+      "actor": "Matt",
+      "action": "补充警告：也许还没到跟踪的程度（可能没跟到车边），但对方在拼命想认识她，例如“打听 Caius 和你们关系的一堆问题、私人的事”",
+      "range": {"start": 2298, "end": 2532, "line": 53},
+      "verbatim": "‘Maybe not that far,’ Matt continued. ‘They may not be following you to your car or anything but they are trying really hard to get to know you. For example, asking lots of questions about Caius and your relationship? Personal stuff.’"
+    },
+    {
+      "id": "E9",
+      "actor": "Callie",
+      "action": "承认确实有：她刚给 Eulalia 做完一个设计咨询（“那个留着波波头的歌手”），为一周的咨询项目被问了不少私事；Eulalia 一直对 Caius 过分感兴趣，到最后一周变得“有点不对劲”",
+      "range": {"start": 2535, "end": 2858, "line": 56},
+      "verbatim": "‘Yeah, actually. I’ve just completed a design consult for Eulalia. The singer with the bobbleheads. She was asking quite a lot of personal stuff for a week-long consulting gig. She was pretty cool the first time we met but she’s always been a little too interested in Caius. She started to feel off by the end of the week.’"
+    },
+    {
+      "id": "E10",
+      "actor": "Caius / Callie / Amy",
+      "action": "Caius 插话说他们认为 Eulalia 不是“独一个”的流行歌手——两人是姐妹；Callie 补充 Mel 是脑子和声音，另一位更漂亮的姐妹出面、以 Eulalia 之名活动，用波波头遮住对口型的事实；一直在旁默默听的 Amy 引用歌词“My heart bleeds, it spurts, it gushes…”确认身份已泄露，说她听起来很可爱",
+      "range": {"start": 2861, "end": 3618, "line": "59,62,65,68"},
+      "verbatim": "Caius chimed in, ‘We think actually that Eulalia isn’t a singular popstar, if that makes sense. They’re sisters.’ / ‘Mel is the brains and the voice,’ Callie added. ‘While her prettier sister is making the appearances and going by Eulalia. Hence the heads being used to hide the fact that she’s lip-syncing.’ / ‘Hang on a minute,’ Amy said. She’d been silently listening before. ‘Eulalia as in, “My heart bleeds, it spurts, it gushes. My love it needs, this hurts, my blushes. Wailing screaming throwing up. I hate you. Make me come.” That Eulalia. Her identity just leaked, didn’t it? She’s cute. I thought she’d be cute. She sounds cute.’ / ‘That’s the one,’ Callie said, rolling her eyes."
+    },
+    {
+      "id": "E11",
+      "actor": "Matt / Callie",
+      "action": "Matt 追问“你说 Mel？”并接管提问；Callie 说那边肯定有事、问“Eulalia 出什么事了吗”、提到 DJ Sonikk 跟她们合作、昨天去了媒体",
+      "range": {"start": 3621, "end": 3883, "line": "71,74"},
+      "verbatim": "‘Did you say Mel?’ Matt asked, taking control. / ‘Yes. There’s something going on there for sure. Has something happened to Eulalia? I knew there was something dodgy going on. You could try DJ Sonikk. He’s been working with them. He went to the press yesterday.’"
+    },
+    {
+      "id": "E12",
+      "actor": "Caius / Callie / Matt",
+      "action": "Caius 问 Cal 她是不是迷中世纪；他的客厅一周以来被那个时期的华丽图像占据。Callie 确认“非常迷”，咨询项目就是这个调调、提到圣女贞德；Matt 追问“罗曼史？亚瑟王那类？”；Callie 说痴迷、非常迷宫廷爱情",
+      "range": {"start": 3886, "end": 4267, "line": "77,80,83,86"},
+      "verbatim": "‘Cal, she’s into medieval stuff, right?’ Caius asked, knowing full well that she was. Their living room had been taken over by the period’s florid iconography for the last week. / ‘Yeah big time. That was the whole vibe of the consultancy work I did for her. Joan of Arc, you know.’ / ‘Romances? Arthurian and whatnot?’ Matt asked. / ‘Mad for them. She’s really into courtly love.’"
+    },
+    {
+      "id": "E13",
+      "actor": "Caius / Callie",
+      "action": "Caius 问她面包是不是从 The Purple Toad Bakery 买的；Callie 困惑、担心自己用砒霜酸面包毒了所有人",
+      "range": {"start": 4270, "end": 4523, "line": "89,92"},
+      "verbatim": "‘You bought that bread from The Purple Toad Bakery, didn’t you?’ Caius asked. / ‘Yeah. I’m confused. What’s wrong with the bread?’ Callie looked confused, and then worried that she’d poisoned everyone with an arsenic-laced sourdough or something stupid."
+    },
+    {
+      "id": "E14",
+      "actor": "Caius / Callie / Matt",
+      "action": "Caius 说面包很好，并问 Eulalia 住哪；Callie 说“Priory Square”，因为她喜欢那里的历史、说什么关于一位修女的事（那是本周早些时候吃饭时说的）；Matt 问“她是不是住在 35 号？”；Callie 回答是的，质问他怎么知道的、出了什么事",
+      "range": {"start": 4555, "end": 4899, "line": "98,101,104,107"},
+      "verbatim": "‘The bread’s great.’ Caius looked up at Callie. ‘Where does Eulalia live?’ / ‘Priory Square.’ Callie thought back to their dinner earlier in the week. ‘She said she moved there because she liked the history, something about a nun.’ / ‘Does she live at number 35, by any chance?’ Matt asked. / ‘She does. How did you know that? What’s going on?’"
+    },
+    {
+      "id": "E15",
+      "actor": "Caius / Callie",
+      "action": "Caius 把 Matt 移出免提并走开，Callie 只能听出“stalker”和“restraining order”这类词；Georgie 问 Caius 一切都好吗，Caius 答“没事”但语气过于明亮；Georgie 说“我去照看我亲爱的”，识趣地走回露台，把两人单独留下",
+      "range": {"start": 4902, "end": 5280, "line": "110,113,116,119"},
+      "verbatim": "Caius took Matt off speakerphone and walked away from them. Callie could pick out words like ‘stalker’ and ‘restraining order’. / ‘Everything all right?’ Georgie asked Caius as he came back over. / ‘Yeah,’ Caius said, a little too brightly to convince either of them. / ‘Best go check on my beloved,’ Georgie said, tactfully walking back towards the terrace, leaving them alone."
+    },
+    {
+      "id": "E16",
+      "actor": "Caius",
+      "action": "告诉 Callie 他在办的那个案子：Eulalia 可能牵涉其中，有人偷了另一个女人的身份，很复杂；Matt 在负责，他因潜在利益冲突不得靠近，“所以这事不会再提”；揽住她的肩，说“咱们好好过周末，你看这天多晴”",
+      "range": {"start": 5283, "end": 5664, "line": "122,125,128"},
+      "verbatim": "Caius turned to Callie once Georgie was out of earshot. ‘The case I was working on. Eulalia might be involved. Someone has stolen another woman’s identity. It’s complicated.’ / ‘What?’ / ‘Matt’s on it. I’m not allowed near it because of the potential conflict so it won’t come up again.’ He put his arm around her shoulder. ‘Let’s just have a lovely weekend. Look how sunny it is.’"
+    },
+    {
+      "id": "E17",
+      "actor": "Callie / Caius",
+      "action": "Callie 抱怨 Matt 不该打给 Caius、“你已经被停职了”，Caius 回“特殊情况”；Callie 追问并提到宝宝（Caius 反问“你在说什么”），说对方就算被正式撤出案子还是会打给他、工作与生活怎么平衡、她没法一个人照顾新生儿。Caius 说自己不会辞职、还没打算离开警察（但不能永远）、愿意搬离伦敦、会想想职业规划，并说“我爱你？胜过世上一切”。Callie 说“行，这次姑且算了”",
+      "range": {"start": 5667, "end": 6529, "line": "131,134,137,140,143,146,149,152,155"},
+      "verbatim": "‘Matt shouldn’t have called you. You’re off.’ / ‘Special circumstances.’ / ‘Oh come on.’ … / ‘Well, I do. How will this work with a baby?’ / ‘Whoa, what are you talking about?’ / ‘You can’t even be officially removed from a case. They still call you about it. Where’s the work–life balance? I can’t care for a newborn on my own.’ / ‘I’m not quitting. I’m not done with the police. Not yet. I can’t do it forever, but I’m not ready to stop. Am I happy to move out of London? Yes. Will I have a think about what my career is going to look like? Also yes. Do I love you? More than anything in the world.’ / ‘Fine. That will do for now.’"
+    },
+    {
+      "id": "E18",
+      "actor": "Caius / Callie",
+      "action": "Caius 说本来不打算讲这节（至少不到 Eulalia 被拘留），但瞒不住，于是说出 Matt 打电话的真正原因：Eulalia 一直在网上写“有点吓人的色情小说”；Callie 问关她什么事，Matt 干嘛非得打给他；Caius 说“那些脏故事是关于我们俩的”，讲的是“把自己塞进我们的关系”；Callie 问是不是在说 threesome，Caius 答“差不多，更像一个郁结的三人行（angsty throuple）”",
+      "range": {"start": 6532, "end": 7143, "line": "158,161,164,167,170,173,176"},
+      "verbatim": "‘Look.’ Caius hadn’t been going to tell her this bit, at least not until Eulalia was in custody, but he didn’t think he was going to get away with hiding it. ‘The reason Matt called is because Eulalia has been writing slightly disturbing erotic fiction on the internet.’ / ‘Sure, why not. Whatever floats your boat.’ Callie looked confused. ‘Why did Matt have to call you about it?’ / ‘The dirty stories are about us.’ / ‘What?’ Callie wasn’t sure what to think. ‘Us?’ / ‘About inserting herself into our relationship.’ / ‘Are you trying to say a threesome?’ / ‘Sort of. It sounds more like an angsty throuple.’"
+    },
+    {
+      "id": "E19",
+      "actor": "Callie / Caius",
+      "action": "Callie 恍然大悟（“这就说得通了”），说对方一直在打听她和 Caius 的关系、对他和 Frithsden 感兴趣；她问“我能读吗”；Caius 说 Matt 说写得不好，把手机交给她看 Matt 刚发来的链接；周围写景：晴空、蜜蜂在蒲公英间嗡鸣、母亲的围墙花园在努力恢复、一只红鸢在草地上空俯冲追兔子",
+      "range": {"start": 7146, "end": 7943, "line": "179,182"},
+      "verbatim": "‘That makes so much sense. She was asking me about our relationship. She was really interested in you and Frithsden.’ … ‘Can I read it?’ / ‘Matt said it was poorly written. The grammar is a bit …’ Caius had hoped that would be enough of a deterrent but he ended up handing Callie his phone so she could read the link Matt had just sent. … A red kite soared above them, diving down into the grassy parkland after a rabbit."
+    },
+    {
+      "id": "E20",
+      "actor": "Callie / Caius",
+      "action": "Callie 把手机还给 Caius，说“比喻用得拙劣”；Caius 说写露骨流行音乐的人写黄色小说本该更好；Callie 说“不算太黄”，又说“在我这儿挺 suburban 的”，她读过 Dotty 借她的粉色卡通封面书（她从 Max 之后想找回状态），记下了网站名，说以后无聊可能会去看看；最后说“我会叫 Peter 的律师去处理这件事，他把他保持在预付顾问费里”",
+      "range": {"start": 7946, "end": 8524, "line": "185,188,191,194,197"},
+      "verbatim": "‘Atrocious use of similes,’ Callie said, handing Caius his phone back. / ‘You’d expect someone who writes really explicit pop music to be better at smutty stories.’ / ‘It’s not that smutty.’ / ‘Do you think?’ Caius wasn’t so sure. / ‘Seems pretty suburban to me.’ … She noted the name of the website. She might have a look on there later if she got bored. ‘I’ll get Peter’s lawyer on it though. He keeps him on a retainer.’"
+    }
+  ],
+  "relations": [
+    {"a": "Callie", "b": "Caius", "rel": "同居伴侣（Callie 怀孕，Caius 是警察；Caius 因潜在利益冲突被调离案子）"},
+    {"a": "Callie", "b": "Matt", "rel": "Matt 是 Caius 的警察同事/上司角色，直接打电话给 Callie 通风报信；Matt 在办 Eulalia/Mel 相关的案子"},
+    {"a": "Callie", "b": "Eulalia", "rel": "客户关系：Callie 刚为 Eulalia 做完一周的设计咨询；Eulalia 过度关注 Caius，并在网上写关于二人关系的色情小说"},
+    {"a": "Mel", "b": "Eulalia", "rel": "姐妹：Mel 是脑子与声音，Eulalia 是出面/活动的那个，用波波头掩饰对口型"},
+    {"a": "Callie", "b": "Dotty", "rel": "朋友；Dotty 在读小说（喜欢假恋爱套路），曾借 Callie 一本书"},
+    {"a": "Dotty", "b": "Georgie", "rel": "伴侣（Georgie 说“my beloved”）；Georgie 在 Frithsden 打网球"},
+    {"a": "Amy", "b": "通话", "rel": "Amy 在免提旁默默听，认出歌词、泄露身份"},
+    {"a": "Callie", "b": "Peter", "rel": "本章末尾唯一一次出现 Peter：Callie 说要“叫 Peter 的律师”去处理（律师在 retainer 上）。本章 Peter 未参与任何对话、未被警告"},
+    {"a": "Caius", "b": "Caius 的母亲", "rel": "母亲在围墙花园里努力把厨房花园恢复原样"}
+  ],
+  "numbers_dates": [
+    {"item": "only three of Georgie’s shots", "value": "three", "range": {"start": 41, "end": 1039, "line": 20}},
+    {"item": "prodigy before he discovered WKDs, smoking and girls at fifteen", "value": "fifteen", "range": {"start": 41, "end": 1039, "line": 20}},
+    {"item": "his first girlfriend who dumped him three weeks later anyway", "value": "three weeks", "range": {"start": 41, "end": 1039, "line": 20}},
+    {"item": "a week-long consulting gig", "value": "week-long", "range": {"start": 2535, "end": 2858, "line": 56}},
+    {"item": "the period’s florid iconography for the last week", "value": "last week", "range": {"start": 3886, "end": 4063, "line": 77}},
+    {"item": "their dinner earlier in the week", "value": "earlier in the week", "range": {"start": 4632, "end": 4786, "line": 101}},
+    {"item": "Does she live at number 35, by any chance?", "value": "35", "range": {"start": 4789, "end": 4845, "line": 104}},
+    {"item": "They’d barely moved all weekend", "value": "all weekend", "range": {"start": 41, "end": 1039, "line": 20}},
+    {"item": "he went to the press yesterday", "value": "yesterday", "range": {"start": 3670, "end": 3883, "line": 74}},
+    {"item": "A red kite soared above them", "value": "a red kite", "range": {"start": 7353, "end": 7943, "line": 182}}
+  ],
+  "key_observations_for_ch44_criteria": {
+    "who_is_warned": "Matt 在免提上向 Callie 发出的是“有人对你有点跟踪狂”的警告，被警告对象是 Callie；Matt 全程没有提到 Peter（text 中 “Peter” 只出现在 :197 的 ‘I’ll get Peter’s lawyer on it though.’）。",
+    "stalker_identity": "警告所指者在原文里始终是复数/不明的“They”，随后落到 Eulalia（及 Mel）身上：Callie 说 Eulalia 过度关心 Caius、问私事；Caius 揭出“脏故事是关于我们俩的”。",
+    "what_callie_hides": "Callie 自己没有对 Matt 隐瞒新线索（她坦承咨询与 Eulalia 的事），但她本章的隐瞒/吸收主要发生在她与 Caius 之间：她读到那个网站后“记下网站名”“以后无聊可能会去看看”，并且只说“我会叫 Peter 的律师去处理”；她对自己怀孕后的工作压力、产检等与本案无关。",
+    "how_casual": "Matt 的措辞是淡化式试探（“a bit stalkery”“Maybe not that far”“They may not be following you to your car or anything”）；Callie 的第一反应是“What?”，随后即被改成好奇（“That makes so much sense.”）。"
+  }
+}

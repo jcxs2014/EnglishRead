@@ -1,0 +1,95 @@
+{
+  "chapter": 51,
+  "title_in_source": "A Park Near the Police Station",
+  "source_file": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch51_51.txt",
+  "source_len_chars": 4311,
+  "read_method": "R1 素读：只读 text/ch51_51.txt，未开本章 md、未看别章 md、未凭记忆",
+  "events": [
+    {
+      "id": "E1",
+      "who": "Caius（主角，警察）",
+      "did": "穿短裤「popped out for a light jog」出门轻跑，把 Callie 一个人留在家里；Callie 坐在沙发上浏览家居网页。他们要搬离「a one-bed flat with an open-plan living area」搬进一栋 whole house，卡莉要在宝宝出生前把房子弄到自己满意的标准。",
+      "ranges": ["89-148", "150-220", "222-304", "390-414"],
+      "verbatim": "He’d popped out for a light jog while Callie rested at home. He’d left her sitting on the sofa browsing the internet for home decor. They’d be going from a one-bed flat with an open-plan living area to a whole house, after all, and she had her work cut out getting the place to her exacting standards before the baby was born."
+    },
+    {
+      "id": "E2",
+      "who": "Matt（朋友）",
+      "did": "在公园里围着 Caius 走，嘲笑他「little running outfits」、说他不再跳过腿日训练；Caius 翻白眼但暗自得意（chuffed），正在做壶铃深蹲（kettlebell squats）；Matt 说等自己累了一天想找点乐子时就拿 Caius 的细小腿当乐子。",
+      "ranges": ["419-458", "605-641", "652-682", "731-767"],
+      "verbatim": "‘I’ve missed your little running outfits,’ Matt said, walking around him. ‘You’re not skipping leg day any more.’ … ‘He was nailing his kettlebell squats.’ … ‘Fine. I won’t use your skinny calves as a little light relief on a long hard day.’"
+    },
+    {
+      "id": "E3",
+      "who": "Matt（说） / Caius（回应）",
+      "did": "Matt 告诉 Caius：Callie「being a bit funny about work following me home」，Eulalia 这样出现让她觉得脆弱；Caius 说「我理解，尤其是考虑到她的过去」。",
+      "ranges": ["808-863", "893-950"],
+      "verbatim": "‘Callie’s being a bit funny about work following me home. Now everything has sunk in, Eulalia turning up like that has made her feel vulnerable.’ … ‘I get that, especially with her history.’"
+    },
+    {
+      "id": "E4",
+      "who": "Matt（问） / Caius（答）",
+      "did": "Matt 问案情进展；Matt 给他通报到最新，Caius 则把在候车区（waiting area）Cecil/DJ Sonikk 告诉他的事讲给 Matt 听。",
+      "ranges": ["1001-1022", "1026-1126"],
+      "verbatim": "‘How’s the case going?’ … ‘Matt caught him up to speed and Caius told him what Cecil/DJ Sonikk had told him in the waiting area.’"
+    },
+    {
+      "id": "E5",
+      "who": "Andy（说，转述给 Caius） / Robbie（打电话） / Caius",
+      "did": "Andy 把 Isolde 带到警局，之后跟 Caius 谈他的祖先：相隔数百年的两代人都决定封住修道院（priory）底下的东西，某个时候 Caius 家族知道下面有什么却隐瞒了；Andy 没说什么东西；Robbie 从工地的法医那里接到电话，发现了一条隧道。Caius 说「我就知道」，掏出手机要打给父亲、让他「推进下一阶段」，但此时是父亲在打给他。",
+      "ranges": ["1131-1165", "1286-1389", "1496-1574", "1580-1589", "1592-1675"],
+      "verbatim": "‘Andy brought Isolde to the station. He stopped me after I’d finished with her to talk about your ancestors.’ … ‘He didn’t say, but Robbie just got a call from forensics at the site. They’ve discovered a tunnel.’ … ‘I knew it.’ Caius took out his phone to call his dad – he’d need him to pull off the next stage – but his father was calling him instead."
+    },
+    {
+      "id": "E6",
+      "who": "Marcus（父亲，说）",
+      "did": "Marcus 说：据他的法律顾问（legal bloke），技术上 Beauchamps 家拥有那块地，所以隧道底下的东西归他们，除非是珠宝或超过某个价值，那才归女王。Matt 问 Marcus 觉得下面有什么、有没有传闻；Marcus 说不知道，但提到 Caius 的接替者昨天来电说有一只被锁在地下室约一百年的骨架人手，猜隧道通向一座墓穴和一群修女；他说 Bridget（母亲）不喜欢这件事；Caius 说她有点怕修女。",
+      "ranges": ["2065-2138", "2177-2263", "2389-2401", "2402-2525", "2570-2630", "2656-2691", "2723-2754"],
+      "verbatim": "‘Well according to my legal bloke, technically the Beauchamps own the land, so anything down that tunnel is ours unless it’s a jewel or something over a certain value, and then it becomes the queen’s.’ … ‘No idea, but Caius’s replacement called yesterday about a skeletal human hand that had been locked in a basement for a hundred-odd years, so I’m guessing as it’s an old priory that the tunnel probably leads to a crypt and a load of dead nuns.’ Marcus took a breath. ‘Your mum doesn’t like this business.’ … ‘She’s low-key terrified of nuns,’ Caius said."
+    },
+    {
+      "id": "E7",
+      "who": "Marcus（说） / Matt（说）",
+      "did": "Marcus 说他的法务正在跟 English Heritage 谈，如果是一群修女他实在不想惹麻烦；Matt 附议（他也不想麻烦），说会有考古团队进来、会上 BBC Four 的纪录片。Marcus 说要把这群修女「献给国家」；随即说自己在书房收到邮件，是 Robbie 来的，请他明天上午 10 点到工地、他们要用带摄像头的小机器人；Caius 说会到场，并要父亲联系那个为 priest holes 发过邮件的学者来现场；Marcus 说这就去办。Marcus 问「How’s Callie?」，Caius 很快回「She’s fine」并道别。",
+      "ranges": ["2844-2888", "2920-2957", "3047-3061", "3088-3122", "3128-3165", "3200-3238", "3327-3386", "3387-3436", "3464-3488", "3562-3632", "3742-3755", "3760-3770"],
+      "verbatim": "‘My legal chap is talking to English Heritage. If it is a load of dead nuns, quite frankly I don’t want the bother.’ … ‘They’ll get a team of archaeologists and stuff in, won’t they? It’ll be a documentary on BBC Four.’ … ‘Oh it’s from your Robbie fella. He’s asking me to come down to the site tomorrow at 10 a.m. They’re going to use a little robot with a camera.’ … ‘Dad, I need you to call that academic who emailed us about the priest holes and whatnot. Invite him down for his expert opinion.’ … ‘How’s Callie?’ … ‘She’s fine,’ Caius said quickly. ‘Bye.’"
+    },
+    {
+      "id": "E8",
+      "who": "Caius（说） / Matt（问）",
+      "did": "Caius 挂断电话后告诉 Matt「We're moving house」；Matt 说喜欢他现在这套但有点光棍汉公寓，问是不是搬进他爸的另一处房子；Caius 说「Yeah, in Hertfordshire」；Matt 吃了一惊（原本以为要更久才能说服 Caius 走），问「Are you quitting?」；Caius 说「No, not yet. I'm not quite finished with the police yet.」通勤只要一小时，Matt 说他「真是个成熟的大人」。",
+      "ranges": ["3852-3870", "3978-4000", "4022-4042", "4044-4109", "4112-4129", "4134-4189", "4191-4223", "4286-4308"],
+      "verbatim": "‘We’re moving house.’ … ‘Yeah, in Hertfordshire.’ … ‘Are you quitting?’ … ‘No, not yet. I’m not quite finished with the police yet. The commute will be only an hour. That’s not bad. Well, when everything’s running on time.’ … ‘You’re such a grown-up.’"
+    }
+  ],
+  "relationships": [
+    "Caius ↔ Callie：夫妻；卡莉怀孕（「before the baby was born」）；卡莉有「her history」（本章未展开），Eulalia 出现让她感到脆弱；Caius 对 Marcus 报「She's fine」时说得很快",
+    "Caius ↔ Marcus：父子；Marcus 是 Beauchamps 家族的一员，有书房、有法律顾问（legal bloke / legal chap），在跟 English Heritage 谈；Marcus 说话时可称 Caius 一家为「ours」",
+    "Caius ↔ Bridget：母子；Caius 说她「low-key terrified of nuns」，同时又「sort of loved nuns at the same time」",
+    "Caius ↔ Matt：朋友；Matt 拿他的小腿开玩笑，问他是否辞职（Are you quitting?）",
+    "Caius → 自己的「replacement」（接替者）：接替者昨天来电报告地下室骨架人手；说明 Caius 已在办理离职/交接（但本章明说尚未离职）",
+    "Andy → Caius：Andy 把 Isolde 带到警局并向 Caius 讲祖先封修道院的事",
+    "Robbie → Marcus：Robbie 从工地法医处得知隧道发现，并请 Marcus 明天 10 a.m. 到工地看带摄像头的机器人",
+    "Cecil/DJ Sonikk → Caius：在候车区向 Caius 讲过案情",
+    "Eulalia → Callie：Eulalia 的出现使卡莉感到脆弱"
+  ],
+  "numbers_and_dates_verbatim": [
+    "51",
+    "a one-bed flat with an open-plan living area",
+    "before the baby was born",
+    "two different generations hundreds of years apart",
+    "a hundred-odd years",
+    "called yesterday",
+    "come down to the site tomorrow at 10 a.m.",
+    "a documentary on BBC Four",
+    "over a certain value",
+    "The commute will be only an hour"
+  ],
+  "key_notes_for_later_checks": [
+    "时间点：原文是「He’d popped out for a light jog while Callie rested at home」——出门轻跑这一动作已完成，场景在公园（他在做壶铃深蹲，Matt 在旁边），不是「正在跑」也不是明写「刚跑完」；卡莉此刻在家里沙发上刷家居网页。",
+    "推理步：原文里没有「他在路上/跑步时想通了某一步推理」这一节；唯一的认知转折是听到隧道消息后的「I knew it.」（基于 Andy 讲的封修道院家族秘辛），以及把父亲拉进来「pull off the next stage」。",
+    "产权说法：说话人是 Marcus，原话是转述其法律顾问的「Well according to my legal bloke, technically the Beauchamps own the land, so anything down that tunnel is ours unless it’s a jewel or something over a certain value, and then it becomes the queen’s.」",
+    "结局走向：Caius 明说「No, not yet. I’m not quite finished with the police yet.」——尚未决定不做警察，也未说要做别的。",
+    "《A Park Near the Police Station》是原文章节标题（text 行 17）。"
+  ]
+}
