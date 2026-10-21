@@ -260,3 +260,117 @@
 ```
 
 机器层期望：`bash scripts/chapter.sh "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch08 chapter 8.md" --json` 退出码 **0**，`counts.struct_bad 0`、`empty_quote 0`、`keyword_bad 0`、`cjk_low 0`、`quote_long 0`、`segment_miss 0`；`form.h1_shape_ok true`、`nav_count 5`、`blocks 6`。
+
+---
+
+## 六、复核轮次二（2026-10-21 23:35，md 已按本单修过后复核）
+
+- 受审 md 版本：`ch08 chapter 8.md` = 12821 字节 / 126 行 / md5 `15589bfba50f9ffc0d0ac60d5ba53ee5`，对应 commit `9ae597b3f`（21:55:59，「ch08 复核修复（凭空「数锁」/清单项数/耳环成对/Carlos 抱怨时点/伴侣话为直引）」）。
+- 机器层复跑：`bash scripts/chapter.sh "…/ch08 chapter 8.md" --json` → 退出码 **0**，`verdict: ok`；`counts`：`struct_bad 0`、`empty_quote 0`、`keyword_bad 0`、`cjk_low 0`、`quote_long 0`、`template 0`、`hole 0`、`block_count 0`、`segments 6`、`segment_miss 0`；`form`：`h1_shape_ok true`、`nav_count 5`、`nav_count_ok true`、`blocks 6`、`block_median 7.5`、`block_range [5,8]`、`profile novels`、`baseline book`；引语字符位 [40, 2534, 2711, 5131, 8042, 10968] 与存档 `2-machine.json` 一致（复跑输出写临时文件，未覆盖存档）。
+- 逐字复跑：自写脚本 `check_md_quotes.py`（ch08）→ 原句块 6 条全部命中，词汇例句 MISS 数 = 0。
+
+### 本轮已销账（6 项）
+
+| 原编号 | 状态 | 复核证据 |
+|---|---|---|
+| F1（阻断） | **已修** | `md:39` 现文：「前面她一直在数电器、数出租车，现在她只能用一部电影来描述自己家里的僵局」——「数锁」已删；`/usr/bin/grep -c "数锁" "…/ch08 chapter 8.md"` → 0，退出码 1。 |
+| E1 | **已修** | `md:49` 现文「暖气、直发夹、炉灶和烤箱，三项，一项一项排过来……三个短语的句式完全平行」；`md:51` 现文「注意清单里的第三项——炉灶和烤箱，火就在这里」——与 `text/ch08:93`「the heat wasn’t on, the straightener was safely cooling, and both the stovetop and the oven were off」的三项并列一致。 |
+| E2 | **已修** | `md:15` 现文「伴侣的话则全部以直接引语出现，读者听得到他一句接一句的慌张」——与 `text/ch08` 中 Carlos 的 11 处直接引语（`:12/72/87/99/114/147/189/240/246/258/276`）一致。 |
+| E3 | **已修** | `md:14` 现文「Carlos 从当场抱怨她突然要跳车」——与 `text/ch08:189`「All of a sudden you’re obsessed with jumping out of trains and cars」一致。 |
+| E4 | **已修** | `md:11` 现文「母亲在洗衣篮边捡起一只银圈耳环——和前几天那只一模一样，她坚持说那不是自己的」——与 `text/ch08:27`「a silver hoop earring in her palm」＋`:33`「"Another earring."」＋`:36`「"Like the one from the other day?"」一致。 |
+| L4 | **已修** | `md:87` 现文末句「而孩子手里正抱着一个还没拆封的搅拌机玩具，大人盯着那道伤口，却还读不懂它指的是什么」——与 `text/ch08:252`「It was a blender, but they didn’t understand that yet」一致。 |
+
+### 本轮仍未修（3 项，全部为「md 未覆盖原文事实」的漏；提示档）
+
+#### L1｜母亲连打五个电话、Diana 四次挂断仍未进 md｜档：提示（漏）
+
+**原文侧**（`text/ch08_chapter_8.txt:96`，事起）：
+
+> Brisa got upset when she saw the phone ringing. To appease her, and maintain that rare moment of peace, Diana reached out with one finger to decline; the video played on. The phone rang once more and Diana declined it again.
+
+**原文侧**（`text/ch08_chapter_8.txt:111`）：
+
+> One second later, the phone rang again. Carmen called four more times, and all four times, Diana silenced the call.
+
+**原文侧**（`text/ch08_chapter_8.txt:114`，Carlos 开口）：
+
+> "Call her back. It's not normal for her to call this many times," Carlos said. "Look, she called me twice as well."
+
+**原文侧**（`text/ch08_chapter_8.txt:117`，Diana 拒接）：
+
+> "But she's annoying. They're both so annoying. It's most likely something stupid. They can wait, we're in the car already."
+
+**md 侧**：`/usr/bin/grep -cE "司机|挂断|不接|连打" "…/ch08 chapter 8.md"` → **0；退出码 1**。
+
+**影响**：这是全章的暗线发动机——母亲的连环电话与 Diana 的四次挂断，才让 Carlos 说出「给她回个电话，这不正常」（`:114`），也让 Brisa「looking between her mother and father, silently trying to decode the situation」（`:150`）有可解背景。md 写了 Brisa 摔手机（`md:14`）与 Brisa 怀疑地盯着父母（`md:14`），却没写「是谁在打、谁不接」。
+
+**修法**：块 3（`md:43-51`）「读者视角提示」补一句：车里手机响个不停——母亲连打五次，Diana 一次没接（还把手机扔到地上让 Brisa 捡），Carlos 让她回个电话。
+
+#### L2｜司机的两次拒绝仍未进 md｜档：提示（漏）
+
+**原文侧**（`text/ch08_chapter_8.txt:126`，司机）：
+
+> "I can't stop in the middle of Diagonal," the driver said, his voice sour.
+
+**原文侧**（`text/ch08_chapter_8.txt:171`，司机）：
+
+> "It's not early. It's almost eight. And there's barely anything around here—we're in the middle of nowhere. The kids are going to catch cold."
+
+**原文侧**（`text/ch08_chapter_8.txt:180`，司机）：
+
+> "No, no, I can't wait for you. This is my last ride of the night," he rushed to say. His tone had become nasty.
+
+**md 侧**：`md:11` 只写「坐上车后，她忽然要在 Diagonal 路边下车」；md 全文没有「司机」二字（`/usr/bin/grep -c "司机" "…/ch08 chapter 8.md"` → 0，退出码 1）。
+
+**影响**：司机的抵抗是这场戏的外部压力源，也让 `md:57` 那句「我带了袋子、一滴都不会弄到车上」有了对手。缺了司机这层，「编造」这件事的成本显得太轻。
+
+**修法**：块 4（`md:55-63`）「为什么这样写」补一句：司机先是拒绝在 Diagonal 中间停车，又说这是今晚最后一单、不会等他们，她的表演是冲着这个不耐烦去的。
+
+#### L3｜Carlos 在车里的追问链仍未进 md｜档：提示（漏）
+
+**原文侧**（`text/ch08_chapter_8.txt:219`）：
+
+> "Did you hurt yourself? Was there something in the taxi? The seat belt, or something else?" he asked.
+
+**原文侧**（`text/ch08_chapter_8.txt:258`）：
+
+> "Did something happen before? The last few days—did you see anything? A cut, a rash…This kind of thing doesn't just happen,"
+
+**原文侧**（`text/ch08_chapter_8.txt:264`）：
+
+> "Did you do it to yourself?"
+
+**原文侧**（`text/ch08_chapter_8.txt:261`，Diana 否认）：
+
+> "I swear, there's been nothing. Absolutely nothing."
+
+**md 侧**：`/usr/bin/grep -cE "Did you hurt yourself|seat belt|自己弄|割伤|安全带" "…/ch08 chapter 8.md"` → **1**（仅 `md:111` 词汇例句 unbuckled 一行）；正文分析里没有这串问答。
+
+**影响**：Carlos 的第一反应是**找原因**（安全带？之前就有伤？是不是你自己弄的？），Diana 的第一反应是**否认**。这条问答链是「她自己信了」这层判断的实据，`md:61` 只给了结论没给过程。
+
+**修法**：块 5（`md:67-75`）「读者视角提示」补一句：Carlos 连问三句——是不是安全带弄的、之前有没有受伤、是不是你自己弄的；她一口咬定什么都没有。
+
+### 本轮复核命令（原样）
+
+```
+/usr/bin/grep -c "数锁" "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch08 chapter 8.md"
+→ 0；退出码 1（F1 已修）
+/usr/bin/grep -cE "四项|第四项" "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch08 chapter 8.md"
+→ 0；退出码 1（E1 已修）
+/usr/bin/grep -c "转述" "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch08 chapter 8.md"
+→ 0；退出码 1（E2 已修）
+/usr/bin/grep -c "老想跳车" "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch08 chapter 8.md"
+→ 0；退出码 1（E3 已修）
+/usr/bin/grep -c "成对" "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch08 chapter 8.md"
+→ 0；退出码 1（E4 已修）
+/usr/bin/grep -cE "母亲.*打电话|挂断|不接|连打" "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch08 chapter 8.md"
+→ 0；退出码 1（L1 未修）
+/usr/bin/grep -c "司机" "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch08 chapter 8.md"
+→ 0；退出码 1（L2 未修）
+```
+
+### 本轮结论
+
+- **本章无阻断**：上一轮的 F1 阻断已由 `9ae597b3f` 修掉，复核通过。
+- 本轮剩余 3 项（L1、L2、L3）全部是「md 未覆盖原文事实」的**漏**（提示档），**没有一条与原文逐字冲突**。
+- 三条漏项的共同后果：md 把「母女连打五个电话」「司机两次拒绝」「Carlos 三句追问」这三段现实阻力全略去了，读者看到的是一场只有两个人在互相对峙的戏。

@@ -11,7 +11,7 @@
 | 逐字 | **7 / 7** | 7 个引语块逐字命中原文（`2-machine.json`：`segments 7`、`segment_miss 0`、`quote_long 0`、`empty_quote 0`；引文起始字符位 139 / 418 / 742 / 1367 / 2466 / 2705 / 2999，逐块 `ok: true`）。另：`本章词汇` 20 条例句全部是原文子串（自写脚本 `check_md_quotes.py`：词汇例句 MISS 数 = 0）。 |
 | 对应 | **7 / 7 块（21 问）** | R4 逐块对应走完 7 个块；每块固定三问（①每个动词的主语是谁 ②受事／宾语是谁 ③归属方向回原文看 by/to/from/of）＝21 问，全部有原文出处。导航 5 条、词汇 20 条、一句话总结 1 条另行逐句对账。 |
 | 形态 | **0 偏离 ／ 1 假红** | `2-machine.json` `counts`：`struct_bad 0`、`keyword_bad 0`、`cjk_low 0`、`empty_quote 0`、`quote_long 0`；`form`：`h1_shape_ok true`、`nav_count 5`、`nav_count_ok true`、`blocks 7`、`block_range [5,8]`、`subitems_modal`＝中文理解／关键词／为什么这样写／读者视角提示（与 `profile: novels` 一致）、`baseline: book`、`issues` 四组全空。唯一「异常」＝「关键词」子项 CJK=0（机器层仅此一项非零），与兄弟章同体例（关键词本就是英文短语）⇒ **假红**，非本章偏离。 |
-| 断言 | **22** | 判定表 22 行：通过 12 ／ **阻断 1** ／ 提示 8 ／ 假红 1 ／ 跳过 0。 |
+| 断言 | **22** | 判定表 22 行：通过 13 ／ **阻断 1** ／ 提示 7 ／ 假红 1 ／ 跳过 0。 |
 
 ---
 
@@ -74,3 +74,39 @@
 8. **`md:123` 的 rousing 例句逐字命中原文**。依据：`text/ch07:27`「but rousing that man was basically impossible」。
 9. **机器层「关键词」子项 CJK=0 不是本章缺陷**。依据：`ch03 chapter 3.md:23`、`ch04 chapter 4.md:23` 的「关键词」子项同样全为英文短语 ⇒ 全书体例，非形态偏离。
 10. **机器层存档与复跑一致**。依据：`bash scripts/chapter.sh "…/ch07 chapter 7.md" --json` 复跑退出码 0、`verdict: ok`、7 个引语字符位与 `2-machine.json` 相同（复跑输出写临时文件，未覆盖存档）。
+
+---
+
+## 六、复核轮次二判定（2026-10-21 23:35）
+
+**受审版本**：`ch07 chapter 7.md` = 11758 字节 / 140 行 / md5 `c6d3c343fcaad849af1d24ba8e017f60`（commit `6f02ca802`，21:40:08）。
+**机器层复跑**：退出码 **0**，`verdict: ok`，`issues` 五组全空；引语字符位 [139, 418, 742, 1367, 2466, 2705, 2999] 与存档 `2-machine.json` 一致。逐字自检：原句块 7/7、词汇例句 MISS = 0。
+
+### 四组数（轮次二）
+
+| 组 | 数 | 说明 |
+|---|---|---|
+| 逐字 | **7 / 7** | 8 段引语与 20 条词汇例句全部逐字命中原文（`check_md_quotes.py`） |
+| 对应 | **7 / 7 块（21 问）** | 逐块重走 21 问归属，主语／受事／归属方向与轮次一相同且无变化 |
+| 形态 | **0 偏离 ／ 1 假红** | `counts` 全零；「关键词」子项 CJK=0 与兄弟章同体例 |
+| 断言 | **22** | 通过 13 ／ **阻断 0** ／ 提示 8 ／ 假红 1 ／ 跳过 0 |
+
+### 轮次二判定表（增量）
+
+| # | 断言 | 证据（章:区间） | 结论 | 档位 |
+|---|---|---|---|---|
+| 23 | 轮次一的阻断 E1（两次触摸并成一次）已销账 | `md:11` 现文拆成「母亲伸手想把她转过来，她却一下子瘫了下去」＋「后来母亲再伸手去安抚，手一碰，胃就抽紧了——摸到的身体既不像背也不像胸」；`text/ch07:12`「When she tried to turn her around by the shoulders, Brisa collapsed.」＋`text/ch07:27`「it felt nothing like her back or even her chest」 | 已修 | — |
+| 24 | 轮次一的 E2（段落形态）已销账 | `md:15` 现文「正文段落不长却连成一条单向的下坠」；段落实测 8 段，末段 `:27` 占 57.9% | 已修 | — |
+| 25 | 轮次一的 E4（开灯后的「正常」）已销账 | `md:87` 现文「开灯之后看到的东西和她以为看到的完全不一样」；`text/ch07:27`「She was in an uncomfortable position, but not an unnatural one, nothing like what she'd seen.」 | 已修 | — |
+| 26 | `md:13`「母亲认定女儿是在梦游」已标明归属 | `text/ch07:27`「now she was absolutely sure Brisa had been sleepwalking」 | 通过 | — |
+| 27 | 「我口渴」（`:24`）与 `:21` 真正醒来仍未进 md | `/usr/bin/grep -cE "thirsty|Get in bed|bathroom|camp sleeping|sleeping bag|rolled onto" "…/ch07 chapter 7.md"` → 0，退出码 1；`text/ch07:24`「"I'm thirsty."」 | 漏（覆盖缺口） | 提示 |
+| 28 | `:9` 两句台词仍未进 md | `text/ch07:9`「"Honey, what's going on? Get in bed." … "Do you have to go to the bathroom?"」 | 漏（覆盖缺口） | 提示 |
+| 29 | `:27` 露营睡袋＋翻身趴下仍未进 md | `text/ch07:27`「She took one of the kids' camp sleeping bags from the closet… her daughter had now rolled onto her stomach.」 | 漏（覆盖缺口） | 提示 |
+| 30 | `:18`／`:21`「站起来却像睡着」仍未进 md | `text/ch07:18`「she didn't seem to comprehend her words」；`:21`「although her eyes were open, she was fast asleep」；`/usr/bin/grep -c "听不进" "…/ch07 chapter 7.md"` → 0，退出码 1 | 漏（覆盖缺口） | 提示 |
+| 31 | `:27` 叫不醒 Carlos 仍未进正文 | `text/ch07:27`「She tried to wake Carlos up… rousing that man was basically impossible.」；`/usr/bin/grep -nE "sleepwalking\|Carlos" "…/ch07 chapter 7.md"` → 仅 `md:123` 词汇例句 | 漏（覆盖缺口） | 提示 |
+
+### 轮次二结论
+
+- **本章无阻断**（轮次一的 E1 阻断已修并复核通过）。
+- 剩余 5 条提示项全部是「原文有、md 未覆盖」的**漏**，没有一条与原文逐字冲突，**不构成阻断**。
+- 覆盖缺口集中在一处：`:18`–`:24` 这段（站起来却听不进话 → 睁眼却睡着 → 被放回床上 → 醒来要水）以及「叫不醒丈夫」，在 md 的七块（落在 `:6/6/12/27/27/27/27`）里没有任何对应分析。

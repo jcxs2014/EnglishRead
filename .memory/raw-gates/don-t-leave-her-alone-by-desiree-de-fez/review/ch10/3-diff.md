@@ -335,3 +335,162 @@
    - `/usr/bin/grep -cE '手印|车底|后备箱' "…/ch10 chapter 10.md"` → 期望 ≥1（补入 L1 后）。
    - `/usr/bin/grep -cE '光柱|震动' "…/ch10 chapter 10.md"` → 期望 ≥1（补入 L3 后）。
    - `/usr/bin/grep -cE '独处|单独' "…/ch10 chapter 10.md"` → 期望 ≥1（补入 L6 后）。
+
+---
+
+## 六、复核轮次二（2026-10-21 23:35，md 已按本单修过后复核）
+
+- 受审 md 版本：`ch10 chapter 10.md` = 15676 字节 / 154 行 / md5 `ff482a9379f8144a8e63dddcb3116693`，对应 commit `d3c51a5b1`（23:14:19，「ch10 第二轮复核修复（挡光板/没说出口/她指代/走散经过/血手印/营地翻版/光柱震动/父亲夜访/独处断言/总结口径）」）；前一版 commit `33f74dfd5`（22:44:10，「胡安译名统一/三十年前为叙述者口径」）。
+- 机器层复跑：`bash scripts/chapter.sh "…/ch10 chapter 10.md" --json` → 退出码 **0**，`verdict: ok`；`counts`：`struct_bad 0`、`empty_quote 0`、`keyword_bad 0`、`cjk_low 0`、`quote_long 0`、`template 0`、`hole 0`、`block_count 0`、`segments 8`、`segment_miss 0`；`form`：`h1_shape_ok true`、`nav_count 5`、`nav_count_ok true`、`blocks 8`、`block_median 7.5`、`block_range [5,8]`、`profile novels`、`baseline book`；引语字符位 [986, 8692, 13050, 15786, 20664, 25301, 39462, 41088] 与存档 `2-machine.json` 一致（复跑输出写临时文件，未覆盖存档）。
+- 逐字复跑：自写脚本 `check_md_quotes.py`（ch10）→ 原句块 8 条全部命中，词汇例句 MISS 数 = 0。
+
+### 本轮已销账（9 项）
+
+| 原编号 | 状态 | 复核证据 |
+|---|---|---|
+| W1（阻断） | **已修** | `md:14` 现文「Diana 从**戴上眼镜**点数」——与 `text/ch10:6`「She took out her glasses and put them on」一致；`/usr/bin/grep -c "手镜" "…/ch10 chapter 10.md"` → 0，退出码 1。 |
+| W2 | **已修** | `md:14` 现文「用双手**在眼前搭起挡光板**的旁观者」——与 `text/ch10:9`「Diana made blinders with her own hands—still bloodstained—so she could concentrate on that image」一致。 |
+| W3 | **已修** | `md:14` 现文「Carlos 是**看穿**这家族病症、**却没说出口**的那个人」——与 `text/ch10:204`（叙述层认知）＋`:162`（Juan 的困惑）一致。 |
+| W4 | **已修** | `md:154` 现文末句「讲完了，母亲只夸她会写，追问她当年为什么不说」——与 `text/ch10:801`「"Boy, you are a writer, aren’t you."」＋`:807`「"But you were always so scared. Why didn’t you say anything?"」一致。 |
+| W5 | **已修** | `md:57` 现文「母亲曾花了多年催 **Diana** 长大、催她走出去闯荡；可 **Diana** 一有了孩子，母亲就忽然变得苛刻」——指代歧义已拆开，与 `text/ch10:210`「After her first child, Diana turned into a pumpkin」一致。 |
+| W7 | **已修** | `md:75` 现文「她的意思是对方人**虽然在这儿**，心还留在那年夏天」——与 `text/ch10:384`「I think she’s still there.」一致。 |
+| L1 | **已修** | `md:39` 现文「Juan 又招手让 Diana 和 Carlos 走近看车：车身溅满血，一个张开五指的血手印从一侧车门断断续续拖到后备厢；车底下露出一块像床单的东西，也浸透了血——那是他用来给母亲压住伤口的毯子」——与 `text/ch10:147`＋`:168` 一致。 |
+| L2 | **已修** | `md:27` 现文「两人在商场里被人流冲散，手机在他手上；闭店广播响后 Alba 要去买没给孩子看的礼物，他「确信」她是折回 MediaMarkt 问 Switch 手柄」——与 `text/ch10:87`＋`:93`＋`:111` 一致。 |
+| L3 | **已修** | `md:105` 现文补入「她能报出来的只有仪式的声音——像斧子、像肉铺切肉、水滴进塑料桶——和颜色：从桌面射起、越过树梢冲进天空的深粉近紫的光柱，以及随之而来的震动」——与 `text/ch10:792` 一致。 |
+| L4 | **已修** | `md:81` 现文括注「（她那方露台本来就是营地的翻版：两把沙滩伞、便携泳池、沙滩冰箱、条纹躺椅，窗外就是 B-20 环城路。）」——与 `text/ch10:414`＋`:435` 一致。 |
+| L5 | **已修** | `md:111` 现文补入「而在讲这一段之前，她刚跟母亲讲过另一件事：几天前的凌晨四点，她起夜时发现父亲来过家里，卫生间里是父亲抽完烟的味道，而且只在特定的日子出现」——与 `text/ch10:558/570/576/588` 一致。 |
+| L6 | **已修** | `md:51` 现文补入「同一段对话里，母亲沉默很久后主动说出「她已经很多年没有单独待过了」，Diana 立刻坐直了：「你终于说出来了。」」——与 `text/ch10:276`＋`:282` 一致。 |
+
+### 本轮新发现（阻断级，1 项）
+
+#### F1｜`md:87`「读者是从 Diana 的讲述里，第二次看到那块广告牌」——本章原文里那块广告牌只出现过一次，且不在 Diana 的讲述里｜档：阻断
+
+**原文侧**（`text/ch10_chapter_10.txt:438`，全章唯一一处广告牌，叙述层，Alba 视角）：
+
+> Every night after dinner, Alba would go out to her patio. … And the beltway, the cars, the lights, the billboards. They hadn't updated those billboards in a long time. One was for the McDonald's drive-thru off of L'Hospitalet; the other was for a brand of sex toys. Days before Splau had swallowed her up, Alba went out to the patio, as she did every night. Her eyes traveled over the landscape, as always, but for some reason, she got stuck on the McDonald's ad. She stared at it for a long time, watched it transform. The yellow M on its red background liquefied, trickling downward and leaving behind just a white billboard with red text and a running turtle—the billboard for La Tortuga Ligera. Alba closed her eyes for a moment, and when she opened them, the ad for the campground was still there. She went inside and shut the curtains.
+
+**md 侧**（`ch10 chapter 10.md:87`）：
+
+> **读者视角提示**：这里她看见就回避：窗帘一拉上，回忆立刻倒回当年那个露营地的夏天。这段属于 Alba 视角的转述层——读者是从 Diana 的讲述里，第二次看到那块广告牌。
+
+**取证命令（原样）**：
+```
+/usr/bin/grep -n "billboard" text/ch10_chapter_10.txt
+→ text/ch10_chapter_10.txt:438（唯一一处）；退出码 0
+/usr/bin/grep -n "McDonald" text/ch10_chapter_10.txt
+→ text/ch10_chapter_10.txt:438；退出码 0
+/usr/bin/grep -n "yellow M" text/ch10_chapter_10.txt
+→ text/ch10_chapter_10.txt:438；退出码 0
+/usr/bin/sed -n '603,810p' text/ch10_chapter_10.txt > /tmp/dshreview/camper2.txt
+/usr/bin/grep -niE "billboard|advert[a-z]*|McDonald" /tmp/dshreview/camper2.txt
+→ 无输出；退出码 1（Diana 讲营地故事的整段 603–810 里没有广告牌）
+/usr/bin/grep -nioE "billboard|advert[a-z]*|McDonald|sign[a-z]*" /tmp/dshreview/camper2.txt
+→ 22:sign ／ 196:sign（分别是 :624「the sign taped to the door: Do Not Disturb. It's Bingo Night.」与 :798 的同一句），与广告牌无关
+/usr/bin/grep -rn "McDonald" text/
+→ text/ch10_chapter_10.txt:438（全书仅此一处）；退出码 0
+/usr/bin/grep -rn "yellow M" text/
+→ text/ch10_chapter_10.txt:438（全书仅此一处）；退出码 0
+```
+
+**影响**：三处对不上。① **「第二次看到」无出处**——本章原文里 McDonald's 广告牌与化开的黄色 M 各只出现一次（都在 `:438`），读者此前从未见过它，谈不上「第二次」；② **「从 Diana 的讲述里」与叙述层不符**——`:438` 是叙述者直接写 Alba 的动作（Alba 走出去、盯住广告牌、闭眼、拉开窗帘），并不是 Diana 在讲给母亲听；Diana 讲的那段是三十年前的营地仪式（`:603` 起），两者之间没有「同一块广告牌」的呼应；③ 若读者据此去找「第一次看到那块广告牌」的位置，会落到 Diana 的营地故事里，而那里根本没有广告牌（camp story 段 603–810 内 billboard / advert / McDonald 命中 0），只有房车门上「Do Not Disturb. It's Bingo Night.」那块牌子。
+
+**修法**：`md:87` 末句改为「这段属于 Alba 视角的转述层——广告牌的异变发生在本书开篇前，读者在这里第一次看到它；母亲听到的是 Diana 讲的另一件事：那年的营地。」
+
+### 本轮其余未修项（提示级，1 项）
+
+#### E1｜同章内 Alba／阿尔巴、Carmen／卡门、Diana／戴安娜混用｜档：提示（体例）
+
+**md 侧**：`md:11`、`md:19`、`md:27`、`md:79`、`md:87` 用「Alba」，`md:81` 用「阿尔巴」；`md:11`–`md:15`、`md:57`、`md:133` 用「Diana」，全书该角色在 ch01–ch13 多用 Diana、ch14–ch17 多用戴安娜；`md:12`、`md:15`、`md:27`、`md:39`、`md:51` 用「Juan」，ch14/ch17 用「胡安」；`md:11`–`md:15`、`md:39` 用「Carmen」，ch14/ch15 用「卡门」。
+
+**取证命令**：
+```
+/usr/bin/grep -c "Alba" "…/ch10 chapter 10.md"   → 5
+/usr/bin/grep -c "阿尔巴" "…/ch10 chapter 10.md"  → 1
+/usr/bin/grep -c "Juan" "…/ch10 chapter 10.md"   → 5
+/usr/bin/grep -c "胡安" "…/ch10 chapter 10.md"    → 0
+/usr/bin/grep -c "卡门" "…/ch10 chapter 10.md"    → 0
+```
+**影响**：全书体例本身就混用（ch02/ch05/ch13/ch17 用 Carmen，ch14/ch15 用卡门；ch14/ch15/ch16/ch17 用戴安娜，其余章用 Diana），所以这不是新引入的错误；但同一章内「Alba」与「阿尔巴」并存，读者要在两种写法之间自行判断是同一个人。
+
+**修法**：本章内统一即可（建议随 `md:11` 保留 Alba，把 `md:81` 的「阿尔巴」改成「Alba」），全书其余章维持既有体例不动。
+
+### 本轮复核命令（原样）
+
+```
+/usr/bin/grep -c "手镜" "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch10 chapter 10.md"
+→ 0；退出码 1（W1 已修）
+/usr/bin/grep -c "取景框" "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch10 chapter 10.md"
+→ 0；退出码 1（W2 已修）
+/usr/bin/grep -c "说破" "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch10 chapter 10.md"
+→ 0；退出码 1（W3 已修）
+/usr/bin/grep -c "母亲还是不信" "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch10 chapter 10.md"
+→ 0；退出码 1（W4 已修）
+/usr/bin/grep -cE "手印|车底|后备箱" "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch10 chapter 10.md"
+→ 2（md:39）；退出码 0（L1 已修）
+/usr/bin/grep -cE "光柱|震动" "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch10 chapter 10.md"
+→ 1（md:105）；退出码 0（L3 已修）
+/usr/bin/grep -cE "独处|单独" "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch10 chapter 10.md"
+→ 1（md:51）；退出码 0（L6 已修）
+/usr/bin/grep -c "父亲" "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch10 chapter 10.md"
+→ 1（md:111）；退出码 0（L5 已修）
+/usr/bin/grep -c "第二次看到那块广告牌" "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch10 chapter 10.md"
+→ 1（md:87）；退出码 0（F1 仍在）
+```
+
+### 本轮结论
+
+- 上一轮 W1 阻断已由 `d3c51a5b1` 修掉（`md:14`「手镜」→「眼镜」）。
+- **本轮新发现 1 条阻断**：`md:87`「第二次看到那块广告牌」——本章 McDonald's 广告牌只出现一次（`:438`），且在叙述层而非 Diana 的讲述里；已附 `text/ch10_chapter_10.txt:438` 原文逐字与全部取证命令。
+- 其余 1 项（E1 译名体例）为提示级。
+
+---
+
+## 七、复核轮次三追加（2026-10-21 23:52）：`md:154`「谁都不肯让别人看」与原文相反
+
+### F2｜`md:154`「她和母亲身上各自带着一道腹部伤口，谁都不肯让别人看」——原文里两人先后都给对方看了伤口｜档：阻断
+
+**md 侧**（`ch10 chapter 10.md:154`）：
+
+> 平安夜商场关了门，妹妹走丢，她和母亲身上各自带着一道腹部伤口，谁都不肯让别人看；母亲躺在草地上玩消除游戏，女儿趁这个夜晚把当年隔着灌木看见的那场仪式从头讲了一遍——讲完了，母亲只夸她会写，追问她当年为什么不说。
+
+**原文侧**（`text/ch10_chapter_10.txt:216`，**Diana 先给母亲看**）：
+
+> "I don't think so. She must have just gotten sidetracked as she was leaving. She's probably on her way out now." Diana looked at her mother and now saw the bloodstains on her parka. She leaned forward so she could see better, then opened her coat and lifted her sweater. Carmen didn't resist. A wound just like hers, dark and fresh, ran across her stomach. She said nothing and covered it back up.
+
+**原文侧**（`text/ch10_chapter_10.txt:726`，**Diana 第二次给母亲看**）：
+
+> "My stomach. I have the same thing you do." Diana lifted her sweater to show her mother her wound.
+
+**原文侧**（`text/ch10_chapter_10.txt:732`，**母亲也掀起衣服给 Diana 看**）：
+
+> "It's nothing? Mom, Jesus, it looks awful. Let's see yours." She slid the parka off of her and lifted up her sweater. "It looks like it's getting worse. Maybe we should go to the hospital. Or the clinic. Is it open?"
+
+**原文侧**（`text/ch10_chapter_10.txt:903`，**Carlos 后来要看被拒**）：
+
+> Carlos tried to lift her sweater to check, but Diana stopped him, pushing his hand away.
+
+**取证命令（原样）**：
+```
+/usr/bin/grep -nE "didn't resist|show her mother|Let me see|see yours|lifted up her sweater" text/ch10_chapter_10.txt
+→ text/ch10_chapter_10.txt:21「"Let me see."」
+→ text/ch10_chapter_10.txt:63「"Let me see your stomach again," Carlos said, trying to lift Diana's sweater.」
+→ text/ch10_chapter_10.txt:69「"Let me see, the kids aren't looking."」
+→ text/ch10_chapter_10.txt:726「"My stomach. I have the same thing you do." Diana lifted her sweater to show her mother her wound.」
+→ text/ch10_chapter_10.txt:732「"Let's see yours." She slid the parka off of her and lifted up her sweater.」
+退出码 0
+/usr/bin/awk 'NR==216 {print $0}' text/ch10_chapter_10.txt
+→ "…opened her coat and lifted her sweater. Carmen didn't resist. A wound just like hers, dark and fresh, ran across her stomach. She said nothing and covered it back up."
+/usr/bin/awk 'NR==903 {print $0}' text/ch10_chapter_10.txt
+→ "Carlos tried to lift her sweater to check, but Diana stopped him, pushing his hand away."
+/usr/bin/grep -nE "不肯|不让|拒绝|撩起|掀开" "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch10 chapter 10.md"
+→ md:154（唯一一处）；退出码 0
+```
+
+**影响**：「谁都不肯让别人看」把本章两场**互相展示伤口**的戏整个抹掉了。原文里母女二人在草地上先后撩起衣服给对方看——Diana 先是俯身掀开自己的毛衣、看见母亲伤口「和她自己的一模一样」（`:216`），后来又撩起毛衣给母亲看，说「我和你一样」（`:726`），母亲也回手掀起自己的衣服让她看（`:732`）。真正「不肯让人看」的是**母亲对 Carlos**：她拒绝起身、拒绝上车、拒绝让人把她抬起来（`:858`「I'm not going anywhere until I've seen your sister myself.」／`:876`「I'm not moving.」／`:879`–`:880`「When they reached under her arms to lift her, she went limp.」），以及 Diana 对 Carlos 的拒绝（`:24`「"No."」／`:66`「"Stop! I told you, I'm fine," she said, swatting his hand away.」／`:903`）。md 的一句总结把「谁都不肯让别人看」安在母女两人身上，恰好写反了本章关系最松的一处。
+
+**修法**：`md:154`「她和母亲身上各自带着一道腹部伤口，谁都不肯让别人看」改为「她和母亲身上各自带着一道腹部伤口，两人在草地上先后撩起衣服给对方看，而谁都不肯让 Carlos 插手」。
+
+### 本轮结论
+
+- **本章现有 2 条阻断**：F1（`md:87`「第二次看到那块广告牌」，见第六节）与 F2（`md:154`「谁都不肯让别人看」，见本节）。两条均附 `text/ch10_chapter_10.txt` 行号＋原文逐字＋取证命令，满足 R5 硬约束。
+- F2 是轮次三新增；轮次二那 12 条提示项与 F1 的修法建议不受影响。

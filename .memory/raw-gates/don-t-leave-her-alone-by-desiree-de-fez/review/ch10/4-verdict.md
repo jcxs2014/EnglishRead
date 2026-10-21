@@ -11,7 +11,7 @@
 | 逐字 | **8 / 8** | 8 个引语块逐字命中原文（`2-machine.json`：`segments 8`、`segment_miss 0`、`quote_long 0`、`empty_quote 0`；自写脚本 `check_md_quotes.py`（ch10）：引语 MISS = 0、词汇例句 MISS = 0；引文起始字符位 986 / 12962 / 24251 / 30017 / 38509 / 43613 / 78274 / 80823，对应 `text/ch10` 行 6 / 156 / 204 / 210 / 384 / 438 / 786 / 810）。另：`本章词汇` 22 条例句全部是原文子串（phosphorescent:9、predetermined:9、autonomous:6、conflicted:6、conjecture:204、unmistakable:147、blood-streaked:147、half-deserted:6、trickled:6、haphazard:6、vignette:39、agitated:39、silhouettes:45、controllers:93、insisting:12、story:681、clinic:732、blanket:138、eyes:681、bingo woman:774、gift bag:216、kids:399）。 |
 | 对应 | **8 / 8 块（24 问）** | R4 逐块对应走完 8 个块；每块固定三问（①每个动词的主语是谁 ②受事／宾语是谁 ③归属方向回原文看 by/to/from/of）＝24 问，全部有原文出处。导航 5 条、词汇 22 条、一句话总结 1 条另行逐句对账。 |
 | 形态 | **0 偏离 ／ 1 假红** | `2-machine.json` `counts`：`struct_bad 0`、`keyword_bad 0`、`cjk_low 0`、`empty_quote 0`、`quote_long 0`；`form`：`h1_shape_ok true`、`h1 "10. Chapter 10"`、`nav_count 5`、`nav_count_ok true`、`blocks 8`、`block_median 7.0`、`block_range [5, 8]`、`subitems_modal`＝中文理解／关键词／为什么这样写／读者视角提示（与 `profile: novels` 一致）、`baseline: book`，`issues` 四组全空。机器层仅「关键词」子项 CJK=0 一项非零，与兄弟章同体例（关键词本就是英文短语）⇒ **假红**，非本章偏离。 |
-| 断言 | **25** | 判定表 25 行：通过 11 ／ **阻断 1** ／ 提示 12 ／ 假红 1 ／ 跳过 0。 |
+| 断言 | **25** | 判定表 25 行：通过 11 ／ **阻断 1** ／ 提示 12 ／ 假红 1 ／ 跳过 0。（**轮次二／三的增量断言见第六、七节；至轮次三累计 27 条、通过 12 ／ 阻断 2 ／ 提示 12 ／ 假红 1**） |
 
 ---
 
@@ -84,3 +84,92 @@
 12. **`md:111`「母亲听到这一段的反应不是害怕，而是先夸了一句她真会写，接着才问她当年为什么不说——从头到尾没有追问一句这到底是不是真的」正确**。依据：`text/ch10:801`「"Boy, you are a writer, aren’t you."」＋ `:807`「"But you were always so scared. Why didn’t you say anything?"」。
 13. **`md:11`「Splau 商场已经关门」与「九点过后」正确**。依据：`text/ch10:6`「It was after nine, and the area around Splau, which was now closed, was practically empty.」
 14. **机器层「关键词」子项 CJK=0 不是本章缺陷**。依据：`ch03 chapter 3.md:23`、`ch04 chapter 4.md:23` 的「关键词」子项同样全为英文短语 ⇒ 全书体例，非形态偏离。
+
+---
+
+## 六、复核轮次二判定（2026-10-21 23:35）
+
+**受审版本**：`ch10 chapter 10.md` = 15676 字节 / 154 行 / md5 `ff482a9379f8144a8e63dddcb3116693`（commit `d3c51a5b1`，23:14:19；前一版 `33f74dfd5`，22:44:10）。
+**机器层复跑**：`bash scripts/chapter.sh "…/ch10 chapter 10.md" --json` → 退出码 **0**，`verdict: ok`，`issues` 五组全空；引语字符位 [986, 8692, 13050, 15786, 20664, 25301, 39462, 41088] 与存档 `2-machine.json` 一致（复跑输出写临时文件，未覆盖存档）。逐字自检：原句块 8/8、词汇例句 MISS = 0。
+
+### 四组数（轮次二）
+
+| 组 | 数 | 说明 |
+|---|---|---|
+| 逐字 | **8 / 8** | 8 段引语与 22 条词汇例句全部逐字命中原文（`check_md_quotes.py`） |
+| 对应 | **8 / 8 块（24 问）** | 逐块重走 24 问归属（主语／受事／归属方向），与轮次一一致；新增补入的六段（走散经过、血手印、营地翻版、光柱震动、父亲夜访、独处断言）归属全部核对通过 |
+| 形态 | **0 偏离 ／ 1 假红** | `counts` 全零；「关键词」子项 CJK=0 与兄弟章同体例 |
+| 断言 | **26** | 通过 12 ／ **阻断 1** ／ 提示 12 ／ 假红 1 ／ 跳过 0 |
+
+### 轮次二判定表（增量）
+
+| # | 断言 | 证据（章:区间） | 结论 | 档位 |
+|---|---|---|---|---|
+| 26 | 轮次一的阻断 W1（`md:14`「手镜」）已销账 | `md:14` 现文「戴上眼镜点数」；`text/ch10:6`「She took out her glasses and put them on, and pointed to every family member, counting.」；`/usr/bin/grep -nw "mirror" text/ch10_chapter_10.txt` → 无输出，退出码 1 | 已修 | — |
+| 27 | W2（取景框→挡光板）已销账 | `md:14` 现文「用双手在眼前搭起挡光板」；`text/ch10:9`「Diana made blinders with her own hands—still bloodstained」 | 已修 | — |
+| 28 | W3（Carlos「说破」→没说出口）已销账 | `md:14` 现文「看穿这家族病症、却没说出口的那个人」；`text/ch10:204`（叙述层）＋`:162`（Juan 的困惑） | 已修 | — |
+| 29 | W4（`md:154`「母亲还是不信」）已销账 | `md:154` 现文「讲完了，母亲只夸她会写，追问她当年为什么不说」；`text/ch10:801`＋`:807`＋`:810` | 已修 | — |
+| 30 | W5（`md:57` 代词歧义）已销账 | `md:57` 现文「母亲曾花了多年催 Diana 长大、催她走出去闯荡；可 Diana 一有了孩子」；`text/ch10:210`「After her first child, Diana turned into a pumpkin」 | 已修 | — |
+| 31 | W7（`md:75`「人回来了」）已销账 | `md:75` 现文「对方人虽然在这儿，心还留在那年夏天」；`text/ch10:384`「I think she's still there.」 | 已修 | — |
+| 32 | L1（血手印与车底血布）已销账 | `md:39` 现文补入；`text/ch10:147`＋`:168` | 已修 | — |
+| 33 | L2（走散经过与 MediaMarkt）已销账 | `md:27` 现文补入；`text/ch10:87`＋`:93`＋`:111` | 已修 | — |
+| 34 | L3（光柱与震动）已销账 | `md:105` 现文补入；`text/ch10:792`「there was light shooting up from the table, over the trees and into the sky. A deep pink, almost purple. And everything started to vibrate.」 | 已修 | — |
+| 35 | L4（露台是营地翻版）已销账 | `md:81` 现文括注补入；`text/ch10:414`＋`:435` | 已修 | — |
+| 36 | L5（父亲夜访）已销账 | `md:111` 现文补入；`text/ch10:558/570/576/588` | 已修 | — |
+| 37 | L6（Carmen 说「她已经很多年没有单独待过了」）已销账 | `md:51` 现文补入；`text/ch10:276`「"She hasn't been alone in years," Carmen said after a long pause.」＋`:282`「"Wow. You finally said it."」 | 已修 | — |
+| 38 | `md:87`「读者是从 Diana 的讲述里，第二次看到那块广告牌」——本章那块广告牌只出现一次，且在叙述层 | `text/ch10:438`「The yellow M on its red background liquefied, trickling downward and leaving behind just a white billboard with red text and a running turtle—the billboard for La Tortuga Ligera. Alba closed her eyes for a moment, and when she opened them, the ad for the campground was still there. She went inside and shut the curtains.」（Alba 视角的叙述层）；`/usr/bin/grep -n "billboard" text/ch10_chapter_10.txt` → 仅 `:438`，退出码 0；`/usr/bin/grep -rn "McDonald" text/`、`/usr/bin/grep -rn "yellow M" text/` → 均仅 `:438`，退出码 0；`/usr/bin/grep -niE "billboard\|advert[a-z]*\|McDonald" /tmp/dshreview/camper2.txt`（= 原文 603–810 行）→ 无输出，退出码 1 | 与原文不符 | **阻断** |
+| 39 | 同章内 Alba／阿尔巴、Carmen／卡门、Diana／戴安娜、Juan／胡安 混用 | `/usr/bin/grep -c "Alba" "…/ch10 chapter 10.md"` → 5；`/usr/bin/grep -c "阿尔巴" …` → 1；`/usr/bin/grep -c "Juan" …` → 5；`/usr/bin/grep -c "胡安" …` → 0；`/usr/bin/grep -c "卡门" …` → 0；全书体例本身混用（ch02/ch05/ch13/ch17 用 Carmen，ch14/ch15 用卡门；ch14–ch17 用戴安娜，其余章用 Diana） | 体例不齐 | 提示 |
+
+### 轮次二收口复核
+
+1. **施事／归属三问（8 块重走，结论不变）**：块 1＝Diana 点数、Alba 缺席（`text:6`）；块 2＝Juan 转述、被描述者是 Carmen（`text:156`／`:138`）；块 3＝Carlos 的判断（`text:204`）；块 4＝Carmen 把梦想押在 Diana 身上（`text:210`）；块 5＝Diana 对母亲断言 Alba（`text:384`）；块 6＝Alba 视角的叙述层（`text:438`）；块 7＝Diana 的目击、动作主体是 bingo 女人（`text:786`／`:690`）；块 8＝Diana 讲、Carmen 回应（`text:810`／`:801`）。⇒ **八块仍无施事反转**；本轮的风险点转移到 `md:87` 的「转述层」定性（判定表 #38）。
+2. **新增补入的六段归属复核**：走散经过＝Juan 说（`text:87/93/111`）；血手印＝Juan 招手、Diana 与 Carlos 走近看（`text:147`）；营地翻版＝Diana 说母亲的抱怨、叙述层确认（`text:414/435`）；光柱震动＝Diana 的目击（`text:792`）；父亲夜访＝Diana 说、母亲不信（`text:558/564/576/588`）；独处断言＝Carmen 说、Diana 回应（`text:276/282`）。⇒ 六段归属全部正确。
+3. **人数／计数断言**：md 的数字仍只有「五个，不是六个」（`md:21`／`md:25`，对应 `text:6`）、「九点过后」（`md:11`，对应 `text:6`「It was after nine」）；「三十年」在 `md:105`／`md:109` 是 Diana 的口径（`text:330`／`:810`），与轮次一一致。**md 未出现会出错的计数断言**。
+4. **跨章指认**：md 正文无指向其他章的事件描述；`md:87`「第二次看到那块广告牌」是本轮唯一的凭空指认（判定表 #38），已按 R5 硬约束附 `text/ch10_chapter_10.txt:438` 原文逐字与取证命令。
+5. **草地上两个女人的身份**：`text:60`「Carmen, meanwhile, was stretched out on the grass several meters away.」＋`:201`「Carlos looked for Diana and saw she was stretched out next to her mom, in the same position.」⇒ 仍是 Carmen 与 Diana，Alba 不在场；md `md:12` 正确。
+
+### 轮次二结论
+
+- 轮次一的阻断 W1 已由 `d3c51a5b1` 修掉，复核通过。
+- **本轮新发现 1 条阻断**：`md:87`「第二次看到那块广告牌」（证据与取证命令见判定表 #38 及 `3-diff.md` 第六节 F1）。
+- 其余 1 项（译名体例）为提示级；原先 6 条漏项、6 条错项全部销账。
+
+### 轮次二已核实为正确（新增）
+
+1. **`md:39`「那是他用来给母亲压住伤口的毯子」归属正确**。依据：`text/ch10:168`「I cleaned it as well as I could, and I tried to apply pressure with a blanket we had in the back. That's what you see underneath the car.」（Juan 说的，被压住的是 Carmen 的腹部，见 `text/ch10:156`）。
+2. **`md:27`「手机在他手上」正确**。依据：`text/ch10:111`「"Because I have it."」＋`:117`「"She gave it to me just a little bit ago. Mine was dead, and I had to call my dad."」。
+3. **`md:51`「Diana 立刻坐直了」正确**。依据：`text/ch10:279`「Diana sat up, astonished, and gave her mother a long look. Then she stretched back out, a satisfied smile on her face.」＋`:282`「"Wow. You finally said it."」。
+4. **`md:111`「母亲听完没有追问是不是真的」正确**。依据：`text/ch10:597`「"Well, well."」＋`:600`「Diana thought Carmen would want to know more. But when she didn't press and kept looking calmly up at the stars, Diana went on.」。
+5. **`md:105`「像斧子、像肉铺切肉、水滴进塑料桶」逐字对应正确**。依据：`text/ch10:792`「I heard something like an axe, or like when they're cutting meat at the butcher, and the sound of water… dripping into the plastic bucket.」。
+
+---
+
+## 七、复核轮次三追加（2026-10-21 23:52）
+
+**受审版本不变**：`ch10 chapter 10.md` = 15676 字节 / 154 行 / md5 `ff482a9379f8144a8e63dddcb3116693`（commit `d3c51a5b1`）。
+
+### 四组数（轮次三）
+
+| 组 | 数 | 说明 |
+|---|---|---|
+| 逐字 | **8 / 8** | 未变 |
+| 对应 | **8 / 8 块（24 问）** | 未变 |
+| 形态 | **0 偏离 ／ 1 假红** | 未变 |
+| 断言 | **27** | 通过 12 ／ **阻断 2** ／ 提示 12 ／ 假红 1 ／ 跳过 0 |
+
+### 轮次三判定表（增量）
+
+| # | 断言 | 证据（章:区间） | 结论 | 档位 |
+|---|---|---|---|---|
+| 40 | `md:154`「她和母亲身上各自带着一道腹部伤口，谁都不肯让别人看」——原文里母女先后给对方看了伤口 | `text/ch10:216`「She leaned forward so she could see better, then opened her coat and lifted her sweater. Carmen didn't resist. A wound just like hers, dark and fresh, ran across her stomach.」；`:726`「"My stomach. I have the same thing you do." Diana lifted her sweater to show her mother her wound.」；`:732`「"Let's see yours." She slid the parka off of her and lifted up her sweater.」；`:903`「Carlos tried to lift her sweater to check, but Diana stopped him, pushing his hand away.」；`/usr/bin/grep -nE "不肯\|不让\|拒绝\|撩起\|掀开" "…/ch10 chapter 10.md"` → 仅 `md:154`，退出码 0 | 与原文相反 | **阻断** |
+
+### 轮次三收口复核（补）
+
+1. **「谁都不肯让别人看」的真正对象**：拒绝的是 **Carlos**（`:24`「"No."」、`:66`「"Stop! I told you, I'm fine," she said, swatting his hand away.」、`:903`「Carlos tried to lift her sweater to check, but Diana stopped him, pushing his hand away.」）与 **母亲对离开草地的抗拒**（`:858`「"No one. I'm not going anywhere until I've seen your sister myself."」、`:876`「"I'm not moving."」、`:879`–`:880`「When they reached under her arms to lift her, she went limp.」）；母女之间是**互看**，不是互拒。
+2. **md 其余各处是否受这条牵连**：`/usr/bin/grep -nE "不肯|不让|拒绝|撩起|掀开" "…/ch10 chapter 10.md"` → 仅 `md:154` 一处 ⇒ **其余 7 块与导航 5 条未受影响**，无需连带修订。
+
+### 轮次三结论
+
+- **本章现有 2 条阻断**：#38（`md:87` 广告牌「第二次」）与 #40（`md:154`「谁都不肯让别人看」）。
+- 两条均满足 R5 硬约束：附 `text/ch10_chapter_10.txt` 行号、原文逐字、取证命令与退出码。
+- 建议修法见 `3-diff.md` 第六节 F1 与第七节 F2。

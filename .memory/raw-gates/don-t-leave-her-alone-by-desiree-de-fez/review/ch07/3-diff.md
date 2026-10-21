@@ -200,3 +200,113 @@
 ```
 
 机器层期望：`bash scripts/chapter.sh "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch07 chapter 7.md" --json` 退出码 **0**，`counts.struct_bad 0`、`empty_quote 0`、`keyword_bad 0`、`cjk_low 0`、`quote_long 0`、`segment_miss 0`；`form.h1_shape_ok true`、`nav_count 5`、`blocks 7`。
+
+---
+
+## 六、复核轮次二（2026-10-21 23:35，md 已按本单修过后复核）
+
+- 受审 md 版本：`ch07 chapter 7.md` = 11758 字节 / 140 行 / md5 `c6d3c343fcaad849af1d24ba8e017f60`，对应 commit `6f02ca802`（21:40:08，「ch07 复核修复（两次触摸合并为一处/开灯后落差/段落形态）」）。
+- 机器层复跑：`bash scripts/chapter.sh "…/ch07 chapter 7.md" --json` → 退出码 **0**，`verdict: ok`；`counts`：`struct_bad 0`、`empty_quote 0`、`keyword_bad 0`、`cjk_low 0`、`quote_long 0`、`template 0`、`hole 0`、`block_count 0`、`segments 7`、`segment_miss 0`；`form`：`h1_shape_ok true`、`nav_count 5`、`nav_count_ok true`、`blocks 7`、`block_median 7.5`、`block_range [5,8]`、`subitems_modal`＝中文理解／关键词／为什么这样写／读者视角提示、`profile novels`、`baseline book`；引语字符位 [139, 418, 742, 1367, 2466, 2705, 2999] 与存档 `2-machine.json` 一致（复跑输出写临时文件，未覆盖存档）。
+- 逐字复跑：自写脚本 `check_md_quotes.py`（ch07）→ 原句块 7 条全部命中，词汇例句 MISS 数 = 0。
+
+### 本轮已销账（6 项）
+
+| 原编号 | 状态 | 复核证据 |
+|---|---|---|
+| E1（阻断） | **已修** | `md:11` 现文：「母亲伸手想把她转过来，她却一下子瘫了下去；后来母亲再伸手去安抚，手一碰，胃就抽紧了——摸到的身体既不像背也不像胸，开灯之后看到的东西又和刚才完全不同」——两次触碰已拆成两句，与 `text/ch07:12`「When she tried to turn her around by the shoulders, Brisa collapsed.」＋`text/ch07:27`「it felt nothing like her back or even her chest」一一对应。 |
+| E2 | **已修** | `md:15` 现文「正文段落不长却连成一条单向的下坠」；段落实测：8 个正文自然段、正文 3272 字符，末段 `:27` 占 1895 字符＝**57.9%**，前七段合计 20.0%＋2.9%＋6.7%＋2.0%＋3.2%＋6.9%＋0.4%。 |
+| E4 | **已修** | `md:87` 现文「开灯之后看到的东西和她以为看到的完全不一样，这份落差是这一夜最精密的安慰」；`md:11` 同口径改为「开灯之后看到的东西又和刚才完全不同」。 |
+| E3 | **部分修** | `md:11` 已含「后来母亲再伸手去安抚，手一碰，胃就抽紧了」；但「她站起来却像睡着」这一拍仍未写（见下方 L5）。 |
+| L4 | **部分修** | `md:13` 现文已写「**母亲认定**女儿是在梦游」——归属已标（符合 `text/ch07:27`「now she was absolutely sure Brisa had been sleepwalking」）；但「叫不醒 Carlos」仍未进正文（见 L6）。 |
+| L1 / L2 / L3 | **未修** | 见下方 L1–L3。 |
+
+### 本轮新增／仍未修（提示级，均无原文逐字冲突）
+
+#### L1｜Brisa 醒来后那句「I'm thirsty.」仍未进 md｜档：提示（漏）
+
+**原文侧**（`text/ch07_chapter_7.txt:24`）：
+
+> "I'm thirsty."
+
+**原文侧**（`text/ch07_chapter_7.txt:21`）：
+
+> Unsettled, she helped her lie back in bed and covered her with the duvet. It was then that Brisa truly woke up.
+
+**md 侧**：`/usr/bin/grep -cE "thirsty|Get in bed|bathroom|camp sleeping|sleeping bag|rolled onto" "…/ch07 chapter 7.md"` → **0；退出码 1**。
+
+**影响**：母亲把女儿放回床上盖好被子之后，女儿才真正醒来，第一句是要水——这是这一夜唯一的「她回来了」的信号。md 的七个块停在 `:6/6/12/27/27/27/27`，`:18`–`:24` 这一整段（站起来却听不进话 → 睁眼睡着 → 放回床上 → 醒来要水）没有对应分析。
+
+**修法**：块 4（`md:55-63`）「中文理解」补一句：她把女儿放回床上盖好被子，女儿这才真正醒来，第一句话是要水（`:21`「It was then that Brisa truly woke up.」＋`:24`「"I'm thirsty."」）。
+
+#### L2｜Diana 的两句台词仍未进 md｜档：提示（漏）
+
+**原文侧**（`text/ch07_chapter_7.txt:9`）：
+
+> "Honey, what's going on? Get in bed." Brisa didn't answer. "Do you have to go to the bathroom?"
+
+**影响**：原文里母亲的第一个反应是把这一切当普通起夜处理，两句都没得到回答；这拍「先按常识解释」的铺垫在 md 里缺失，读者直接看到「女儿瘫软」，少了常识失效的那一步。
+
+**修法**：块 3（`md:43-51`）「中文理解」补一句：母亲先按孩子要起夜处理，问了两句都没得到回答。
+
+#### L3｜露营睡袋与「女儿已翻身趴下」仍未进 md｜档：提示（漏）
+
+**原文侧**（`text/ch07_chapter_7.txt:27`）：
+
+> She took one of the kids' camp sleeping bags from the closet, stretched it out on the little mat, and reached up with one hand to hold Brisa's; her daughter had now rolled onto her stomach.
+
+**影响**：女儿翻身趴下是第二次触摸摸到「不像背也不像胸」的因果前提；缺了它，块 5 的触感异变显得突然。
+
+**修法**：块 5（`md:67-75`）「为什么这样写」补一句：她铺开睡袋、握住女儿的手，女儿自己翻成趴姿，这才有了第二次触摸。
+
+#### L5｜「她站起来却像睡着」这一拍仍未写｜档：提示（漏）
+
+**原文侧**（`text/ch07_chapter_7.txt:18`）：
+
+> Brisa got back on her feet and looked at her worried mother, but she didn't seem to comprehend her words.
+
+**原文侧**（`text/ch07_chapter_7.txt:21`）：
+
+> Diana could tell that although her eyes were open, she was fast asleep.
+
+**md 侧**：`/usr/bin/grep -c "听不进" "…/ch07 chapter 7.md"` → 0，退出码 1；`md:93` 里的「睁着眼」指的是母亲守夜（`text/ch07:27`「proceeded to lie awake all night」），不是这一拍。
+
+**影响**：原文里 Brisa 的异常不是一次性的瘫软，而是「站起来之后人是醒着的壳子」——听不进话、眼睛睁着却已经睡着。这是「她不是普通睡眠状态」最硬的证据。
+
+**修法**：块 3（`md:43-51`）「中文理解」补一句：她被扶起来后重新站着，望着母亲却像没听懂话，眼睛睁着，人已经在睡。
+
+#### L6｜叫不醒 Carlos 这件事仍未进正文｜档：提示（漏）
+
+**原文侧**（`text/ch07_chapter_7.txt:27`）：
+
+> She tried to wake Carlos up to tell him what had happened, to say that now she was absolutely sure Brisa had been sleepwalking, but rousing that man was basically impossible.
+
+**原文侧**（`text/ch07_chapter_7.txt:27`，下文）：
+
+> She was still feeling worked up, and angry, if unfairly, that Carlos was out through the whole thing.
+
+**md 侧**：`/usr/bin/grep -nE "sleepwalking|Carlos" "…/ch07 chapter 7.md"` → 仅 `md:123` 词汇例句一行（rousing）；正文分析里没有「叫不醒丈夫」这一事实。
+
+**影响**：这一层决定「梦游」这个解释的可信度——它不是叙述者的判断，而是**母亲独自守了一夜的唯一解释**，而她连说出口的机会都没有（丈夫叫不醒）。md 的 `md:13` 写了「母亲认定女儿是在梦游」，读者仍看不到这个解释的处境。
+
+**修法**：块 4（`md:55-63`）「读者视角提示」补一句：她试着叫醒丈夫告诉他实情、说她已确定女儿是在梦游，可那人根本叫不醒；这一夜她只能自己守着。
+
+### 本轮复核命令（原样）
+
+```
+/usr/bin/grep -cE "thirsty|Get in bed|bathroom|camp sleeping|sleeping bag|rolled onto" "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch07 chapter 7.md"
+→ 0；退出码 1
+/usr/bin/grep -nE "sleepwalking|Carlos" "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch07 chapter 7.md"
+→ md:123（词汇例句 rousing）；退出码 0
+/usr/bin/grep -c "听不进" "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch07 chapter 7.md"
+→ 0；退出码 1
+/usr/bin/grep -n "全章几乎是一个长段落" "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch07 chapter 7.md"
+→ 无输出；退出码 1（E2 已修）
+/usr/bin/grep -n "开灯之后的那份" "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch07 chapter 7.md"
+→ 无输出；退出码 1（E4 已修）
+```
+
+### 本轮结论
+
+- **本章无阻断**：上一轮的 E1 阻断已由 `6f02ca802` 修掉，复核通过。
+- 本轮剩余 6 项（L1、L2、L3、L5、L6 ＋ E3 的残余）全部是「md 未覆盖原文事实」的**漏**（提示档），**没有一条与原文逐字冲突**。
+- 剩余漏项的共同后果：`:18`–`:24` 这一整段（站起来听不进话 → 睁眼睡着 → 放回床上 → 醒来要水）以及「叫不醒 Carlos」在 md 里没有对应分析；md 的七块落在 `:6/6/12/27/27/27/27`。

@@ -76,3 +76,39 @@
 10. **`md:11`「在 Diagonal 路边下车」成立**。依据：`text/ch08:126`「"I can’t stop in the middle of Diagonal," the driver said」；`:153`「"I can pull over here, in that grassy spot."」；下车点离 Alba 家约七分钟（`:123`「They were just a few meters from the Ronda de Dalt, about seven minutes from Alba’s house.」）——本章没有写「Ronda de Dalt 附近下车」，md 未越界。
 11. **`md:14`「Brisa 用怀疑的目光盯着父母」归属正确**。依据：`text/ch08:252`「Brisa, on the other hand, kept glancing suspiciously at her parents.」
 12. **机器层「关键词」子项 CJK=0 不是本章缺陷**。依据：`ch03 chapter 3.md:23`、`ch04 chapter 4.md:23` 的「关键词」子项同样全为英文短语 ⇒ 全书体例，非形态偏离。
+
+---
+
+## 六、复核轮次二判定（2026-10-21 23:35）
+
+**受审版本**：`ch08 chapter 8.md` = 12821 字节 / 126 行 / md5 `15589bfba50f9ffc0d0ac60d5ba53ee5`（commit `9ae597b3f`，21:55:59）。
+**机器层复跑**：退出码 **0**，`verdict: ok`，`issues` 五组全空；引语字符位 [40, 2534, 2711, 5131, 8042, 10968] 与存档 `2-machine.json` 一致。逐字自检：原句块 6/6、词汇例句 MISS = 0。
+
+### 四组数（轮次二）
+
+| 组 | 数 | 说明 |
+|---|---|---|
+| 逐字 | **6 / 6** | 6 段引语与 18 条词汇例句全部逐字命中原文（`check_md_quotes.py`） |
+| 对应 | **6 / 6 块（18 问）** | 逐块重走 18 问归属，与轮次一相同；`:90` 的说话人判定链（Diana）复核依然成立 |
+| 形态 | **0 偏离 ／ 1 假红** | `counts` 全零；「关键词」子项 CJK=0 与兄弟章同体例 |
+| 断言 | **21** | 通过 12 ／ **阻断 0** ／ 提示 8 ／ 假红 1 ／ 跳过 0 |
+
+### 轮次二判定表（增量）
+
+| # | 断言 | 证据（章:区间） | 结论 | 档位 |
+|---|---|---|---|---|
+| 22 | 轮次一的阻断 F1（「前面她一直在数锁」）已销账 | `md:39` 现文「前面她一直在数电器、数出租车」；`/usr/bin/grep -nwiE "lock\|locked\|unlock\|bolt\|chain\|key" text/ch08_chapter_8.txt` → 无输出，退出码 1；`/usr/bin/grep -c "数锁" "…/ch08 chapter 8.md"` → 0，退出码 1 | 已修 | — |
+| 23 | 轮次一的 E1（四项/三个短语矛盾）已销账 | `md:49` 现文「三项」＋「三个短语的句式完全平行」；`md:51` 现文「第三项——炉灶和烤箱」；`text/ch08:93` 三项并列 | 已修 | — |
+| 24 | 轮次一的 E2（伴侣的话以转述出现）已销账 | `md:15` 现文「伴侣的话则全部以直接引语出现」；`text/ch08` 中 Carlos 直接引语 11 处（`:12/72/87/99/114/147/189/240/246/258/276`） | 已修 | — |
+| 25 | 轮次一的 E3（「老想跳车」）已销账 | `md:14` 现文「当场抱怨她突然要跳车」；`text/ch08:189`「All of a sudden you’re obsessed with jumping out of trains and cars.」 | 已修 | — |
+| 26 | 轮次一的 E4（「成对的银圈耳环」）已销账 | `md:11` 现文「捡起一只银圈耳环——和前几天那只一模一样」；`text/ch08:27`「a silver hoop earring in her palm」＋`:33`「"Another earring."」 | 已修 | — |
+| 27 | 轮次一的 L4（搅拌机玩具）已销账 | `md:87` 现文「而孩子手里正抱着一个还没拆封的搅拌机玩具，大人盯着那道伤口，却还读不懂它指的是什么」；`text/ch08:252`「It was a blender, but they didn't understand that yet」 | 已修 | — |
+| 28 | 母亲连打五个电话、Diana 四次挂断仍未进 md | `text/ch08:96`「Diana reached out with one finger to decline; … The phone rang once more and Diana declined it again.」＋`:111`「Carmen called four more times, and all four times, Diana silenced the call.」＋`:114`＋`:117`；`/usr/bin/grep -cE "母亲.*打电话\|挂断\|不接\|连打" "…/ch08 chapter 8.md"` → 0，退出码 1 | 漏（覆盖缺口） | 提示 |
+| 29 | 司机的两次拒绝仍未进 md | `text/ch08:126`「"I can't stop in the middle of Diagonal," the driver said, his voice sour.」＋`:171`「"It's not early. It's almost eight. …"」＋`:180`「"This is my last ride of the night," he rushed to say.」；`/usr/bin/grep -c "司机" "…/ch08 chapter 8.md"` → 0，退出码 1 | 漏（覆盖缺口） | 提示 |
+| 30 | Carlos 在车里的追问链仍未进 md | `text/ch08:219`「"Did you hurt yourself? Was there something in the taxi? The seat belt, or something else?" he asked.」＋`:258`＋`:264`「"Did you do it to yourself?"」＋`:261`「"I swear, there's been nothing. Absolutely nothing."」；`/usr/bin/grep -cE "Did you hurt yourself\|seat belt\|自己弄\|割伤\|安全带" "…/ch08 chapter 8.md"` → 1（仅 md:111 词汇例句） | 漏（覆盖缺口） | 提示 |
+
+### 轮次二结论
+
+- **本章无阻断**（轮次一的 F1 阻断已修并复核通过）。
+- 剩余 3 条提示项全部是「原文有、md 未覆盖」的**漏**，没有一条与原文逐字冲突，**不构成阻断**。
+- 覆盖缺口的共同后果：md 把「母亲连打五个电话」「司机两次拒绝」「Carlos 三句追问」这三段现实阻力全略去了，读者看到的是一场只有两个人在互相对峙的戏。
