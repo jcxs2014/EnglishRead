@@ -42,7 +42,7 @@ source_text: ch07
 
 > **原句 3:** "When she tried to turn her around by the shoulders, Brisa collapsed. She collapsed as if she’d been deactivated, as if the energy that had kept her standing had suddenly been cut off."
 
-**中文理解**：母亲伸手想把她转过来，女儿却一下子瘫了下去，像被关掉了开关一样，撑着她站立的那股劲儿忽然被切断了。
+**中文理解**：母亲伸手想把她转过来，女儿却一下子瘫了下去，像被关掉了开关一样，撑着她站立的那股劲儿忽然被切断了。在那之前她已经按普通起夜处理过一轮：「怎么了，去床上吧」「你是不是要去洗手间？」——女儿一声不吭；被扶起来重新站住之后，她望着母亲却像没听懂话，眼睛睁着，人已经在睡。
 
 **关键词**：collapsed · as if she’d been deactivated · the energy that had kept her standing had suddenly been cut off
 
@@ -54,13 +54,13 @@ source_text: ch07
 
 > **原句 4:** "Diana went to the kitchen for a glass of water, and when she got back, her daughter had fallen asleep. She left the glass on the dresser, sat down at the edge of the bed, and placed her hand on her daughter’s back to make sure she was breathing normally."
 
-**中文理解**：她去厨房倒了杯水，回来时女儿已经睡着了；她把水杯放在柜子上，坐在床边，把手放在女儿背上，想确认她呼吸正常。
+**中文理解**：她去厨房倒了杯水，回来时女儿已经睡着了；她把水杯放在柜子上，坐在床边，把手放在女儿背上，想确认她呼吸正常。更早一点她把女儿放回床上盖好被子，女儿这才真正醒来，第一句话是要水。
 
 **关键词**：went to the kitchen for a glass of water · placed her hand on her daughter’s back · breathing normally
 
 **为什么这样写**：这一段全是照顾的日常动作：倒水、放杯子、坐床边、把手放在背上确认呼吸。作者先把「正常」写足，读者才会相信接下来那一次触摸里的异样；这套流程本身就是人物说明书——只有焦虑到那个份上的人，才会在孩子睡着后还伸手去数她有没有在呼吸。
 
-**读者视角提示**：注意她做的每一步。这些步骤在本章还会再来一次，只是下一次的结果完全不同。
+**读者视角提示**：注意她做的每一步。这些步骤在本章还会再来一次，只是下一次的结果完全不同。那句「我渴了」是这一夜唯一的「她回来了」的信号——异状只出现在睡着之前那一阵，之后她就还是那个普通的孩子。她试着叫醒丈夫，要告诉他实情、说她已经确定女儿是在梦游，可那人根本叫不醒；这一夜她只能自己守着，连说出口的机会都没有。
 
 ---
 
@@ -72,7 +72,7 @@ source_text: ch07
 
 **为什么这样写**：作者把生理反应和认知崩塌绑在一起：胃一抽紧，不是因为看见了什么，而是因为摸不准。触觉在这里成了比视觉更诚实的感官——眼睛可以被灯光推翻，手掌不会，于是恐惧从「我看见了什么」升级成「她已经不是她了」。
 
-**读者视角提示**：这一句值得读两遍：第一遍看情节，第二遍看「温度」这个细节——还有温度，说明还是活的。
+**读者视角提示**：这一句值得读两遍：第一遍看情节，第二遍看「温度」这个细节——还有温度，说明还是活的。铺垫在前面：她从柜子里取出一只孩子的露营睡袋铺在小垫上，一只手伸上去握住女儿的手；就在这几十秒里，女儿自己翻成了趴姿——第二次触摸摸到那副不像背也不像胸的形状，正是从这个姿势里长出来的。
 
 ---
 
