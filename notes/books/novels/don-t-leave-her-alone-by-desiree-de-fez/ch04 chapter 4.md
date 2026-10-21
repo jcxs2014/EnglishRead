@@ -63,7 +63,7 @@ modified: "2026-10-20"
 
 **为什么这样写**：作者用 "clear as could be" 与 "couldn’t stop thinking" 的对立把 Diana 的强迫性确认写成感知与怀疑——她有清晰记忆但无法信任它；"made a little heart with their hands" 是温柔细节，与后文 "that terrible woman who’s always at the entrance scolded us for being three minutes late" 形成上学经历的双重性质；"I restrained myself, knowing they’d think I’ve lost it" 显示 Diana 的自我监控——她知道她的焦虑不正常但无法停止；"that thing from the other day happened again" 显示这是反复出现的模式，与第一章的直发器焦虑形成强迫性确认链条。
 
-**读者视角提示**："That thing from the other day" 与 ch01 的 straightener anxiety 是同一 compulsive pattern；Diana 的 "I’ve lost it" 与 Alba 的 "on purpose" 踢玩具车形成姐妹对照——两人都是 compulsive，但 Diana 内化、Alba 外化。
+**读者视角提示**："That thing from the other day" 与 ch01 的 straightener anxiety 是同一 compulsive pattern；Diana 的 "I’ve lost it" 与 Alba 的 "on purpose" 踢玩具车（ch02）形成姐妹对照——两人都是 compulsive，但 Diana 内化、Alba 外化。
 
 > **原句 5:** “He could see very clearly Alba was holding Carmen hostage and intimidating the rest of them. But when he tried to convey that to Diana, it always played out the same way, and he only ended up getting frustrated. … He pointed out that Alba’s demands weren’t normal. That Diana couldn’t always be at her beck and call, nor should she have Carmen at her service twenty-four hours a day. That such a degree of submission was just as bad for her mother as it was for Alba herself, and at her age, she shouldn’t be so dependent on others. … Carlos, who was an only child and barely had any contact with his parents, often stayed on the edge of family turmoil. He found it overwhelming and only engaged when it was directly and seriously affecting him.”
 
@@ -77,19 +77,7 @@ modified: "2026-10-20"
 
 **读者视角提示**：Carlos 的 critique 是本章 turning point——他 naming Alba's control，但 Diana 无法 hear it（"she complained about her sister’s demands and said she was fed up" 但 never acts）；"It wasn’t malicious; he’d even say it was constructive" 显示 Carlos 的 self-justification，也显示 his frustration。
 
-> **原句 6:** “Diana was nearsighted. Convinced that she wouldn’t be able to put them in—or that if she somehow did, they’d get stuck in her eyes—she had never tried contact lenses. Since she didn’t like how she looked in glasses, she had instead grown accustomed to somewhat blurred vision at a distance. She squinted, and it seemed that what the young man juggled was a knife. … It was a knife. The young man was searching for his reflection. He was wearing short sleeves, though it was winter, and his arms were full of wounds, some of them open. The tattoos partially concealed them, but there they were, fresh.”
-
-**中文理解**："Diana 是近视眼。深信自己无法把隐形眼镜戴上——或者即使戴上了，它们也会卡在眼睛里——她从未试过隐形眼镜。既然她不喜欢自己戴眼镜的样子，她反而习惯了远距离有些模糊的视力。她眯起眼睛，看起来那青年抛接的是把刀。……是把刀。那青年正在寻找自己的倒影。尽管是冬天，他却穿着短袖，手臂上布满伤口，有些还开着。纹身部分遮掩了它们，但它们就在那里，新鲜的。"
-
-**关键词**：nearsighted / juggled / wounds / fresh
-
-**句子结构**：长段——"Diana was nearsighted." 短句；"Convinced that she wouldn’t be able to put them in—or that if she somehow did, they’d get stuck in her eyes—she had never tried contact lenses." em dash 插入 + that 引导宾语从句；"Since she didn’t like how she looked in glasses, she had instead grown accustomed to somewhat blurred vision at a distance."；"She squinted, and it seemed that what the young man juggled was a knife."；"It was a knife." 短句确认；"The young man was searching for his reflection."；"He was wearing short sleeves, though it was winter, and his arms were full of wounds, some of them open." though 让步从句 + 分词短语；"The tattoos partially concealed them, but there they were, fresh." there be + 形容词。
-
-**为什么这样写**：作者用 "nearsighted" 把地铁恐怖写成感知问题——Diana 的视力本身就是不可靠的，显示她的焦虑扭曲感知；"It was a knife" 的确认后接 "searching for his reflection" 把恐怖写成自残而非攻击——青年在自残，不是对他人的威胁；"short sleeves, though it was winter" + "wounds … fresh" 把青年写成受苦的形象而非危险；Diana 的反应（把家人拖下火车）是过度反应，Carlos 的 "How is that possible? Are you sure it wasn’t something else?" 质疑她的感知；本章让刀保持模糊（是刀吗？他危险吗？）。
-
-**读者视角提示**："Search knife metro Collblanc" 显示 Diana 的 journalist instinct（document reality）；"your journalist brain is getting ahead of you" 其实是 Carlos 对 Diana 的讥讽，显示 Carlos 对 her perception 的 skepticism；"People going around with knives in Cornellà" 显示 class bias（Cornellà as dangerous neighborhood）；本章恐怖是 perception + class anxiety，而非 actual threat。
-
-> **原句 7:** “Diana was running on empty because she had slept so little and eaten so poorly. And she slept little and ate poorly because she worked too hard for almost no money. … Freelancing had stopped covering her bills a long time ago, and the financial stress had piled on top of the work stress. … She was tired of keeping her life on hold, of using one credit card to pay off another, of living on minus a thousand euros. … Yet nothing exhausted her more than the metro trip to her mom’s or her sister’s.”
+> **原句 6:** “Diana was running on empty because she had slept so little and eaten so poorly. And she slept little and ate poorly because she worked too hard for almost no money. … Freelancing had stopped covering her bills a long time ago, and the financial stress had piled on top of the work stress. … She was tired of keeping her life on hold, of using one credit card to pay off another, of living on minus a thousand euros. … Yet nothing exhausted her more than the metro trip to her mom’s or her sister’s.”
 
 **中文理解**："Diana 精疲力竭，因为她睡得太少、吃得太差。而她睡得少、吃得差，是因为她工作太辛苦却几乎赚不到钱。……自由职业早已无法支付账单，财务压力叠加在工作压力之上。……她厌倦了让生活搁置，厌倦了用一张信用卡还另一张的债，厌倦了入不敷出一千欧元的生活。……然而没有什么比去妈妈或姐妹家的地铁行程更让她疲惫的了。"
 
@@ -100,6 +88,18 @@ modified: "2026-10-20"
 **为什么这样写**：作者把 Diana 的疲惫写成社会经济状况——"living on minus a thousand euros" 把财务崩溃具象化；"freelancing had stopped covering her bills a long time ago" 显示结构性不稳定；"nothing exhausted her more than the metro trip" 把家庭义务写成身体消耗，显示家庭动态是她的主要压力源（而非工作）；"Her body would detach from reality"（第二章 Alba）与 "running on empty"（第四章 Diana）形成姐妹对照——两人都是精疲力竭，但 Alba 解离，Diana 继续前行。
 
 **读者视角提示**："she felt her energy draining, her waistband tightening" around Sants Estació 显示 Diana 的 body responds to proximity to family home；"Sants Estació" 是巴塞罗那交通枢纽，也是 Diana 的 psychological threshold；"living on minus a thousand euros" 是本章 socioeconomic reality，显示 financial stress 与 family stress 的 compounding。
+
+> **原句 7:** “Diana was nearsighted. Convinced that she wouldn’t be able to put them in—or that if she somehow did, they’d get stuck in her eyes—she had never tried contact lenses. Since she didn’t like how she looked in glasses, she had instead grown accustomed to somewhat blurred vision at a distance. She squinted, and it seemed that what the young man juggled was a knife. … It was a knife. The young man was searching for his reflection. He was wearing short sleeves, though it was winter, and his arms were full of wounds, some of them open. The tattoos partially concealed them, but there they were, fresh.”
+
+**中文理解**："Diana 是近视眼。深信自己无法把隐形眼镜戴上——或者即使戴上了，它们也会卡在眼睛里——她从未试过隐形眼镜。既然她不喜欢自己戴眼镜的样子，她反而习惯了远距离有些模糊的视力。她眯起眼睛，看起来那青年抛接的是把刀。……是把刀。那青年正在寻找自己的倒影。尽管是冬天，他却穿着短袖，手臂上布满伤口，有些还开着。纹身部分遮掩了它们，但它们就在那里，新鲜的。"
+
+**关键词**：nearsighted / juggled / wounds / fresh
+
+**句子结构**：长段——"Diana was nearsighted." 短句；"Convinced that she wouldn’t be able to put them in—or that if she somehow did, they’d get stuck in her eyes—she had never tried contact lenses." em dash 插入 + that 引导宾语从句；"Since she didn’t like how she looked in glasses, she had instead grown accustomed to somewhat blurred vision at a distance."；"She squinted, and it seemed that what the young man juggled was a knife."；"It was a knife." 短句确认；"The young man was searching for his reflection."；"He was wearing short sleeves, though it was winter, and his arms were full of wounds, some of them open." though 让步从句 + 分词短语；"The tattoos partially concealed them, but there they were, fresh." there be + 形容词。
+
+**为什么这样写**：作者用 "nearsighted" 把地铁恐怖写成感知问题——Diana 的视力本身就是不可靠的，显示她的焦虑扭曲感知；"It was a knife" 的确认后接 "searching for his reflection" 把恐怖写成自残而非攻击——青年在自残，不是对他人的威胁；"short sleeves, though it was winter" + "wounds … fresh" 把青年写成受苦的形象而非危险；Diana 的反应（把家人拖下火车）是过度反应，Carlos 的 "How is that possible? Are you sure it wasn’t something else?" 质疑她的感知；本章让刀保持模糊（是刀吗？他危险吗？）。
+
+**读者视角提示**："Search knife metro Collblanc" 显示 Diana 的 journalist instinct（document reality）；"your journalist brain is getting ahead of you" 其实是 Carlos 对 Diana 的讥讽，显示 Carlos 对 her perception 的 skepticism；"People going around with knives in Cornellà" 显示 class bias（Cornellà as dangerous neighborhood）；本章恐怖是 perception + class anxiety，而非 actual threat。
 
 ## 词汇分级
 

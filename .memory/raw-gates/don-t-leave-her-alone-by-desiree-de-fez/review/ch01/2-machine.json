@@ -1,0 +1,227 @@
+{
+  "chapter": 1,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch01 chapter 1.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch01_chapter_1.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The preschoolers had dressed up as angels. They wore wings made of cardboard and cotton, golden crowns, glitter on their",
+          "ok": true,
+          "pos": 2
+        }
+      ]
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Diana had done everything to make sure she would be on time for her daughter’s Christmas play. Her partner was going to ",
+          "ok": true,
+          "pos": 712
+        }
+      ]
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "But halfway there, her heart started pounding in her ears. It couldn’t be. There was no way. She couldn’t have left her ",
+          "ok": true,
+          "pos": 1641
+        }
+      ]
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "More humiliating than her slow but steady breakdown, than the feeling of becoming as lifeless as a dishrag, was crossing",
+          "ok": true,
+          "pos": 3042
+        }
+      ]
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "After what felt like hours, she arrived at the building entrance, exhausted. She didn’t smell anything frying or burning",
+          "ok": true,
+          "pos": 3558
+        }
+      ]
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Diana arrived at the Christmas play late, her pinkie toes raw. When she walked through the school doors, she could feel ",
+          "ok": true,
+          "pos": 4394
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 160,
+        "关键词": 0,
+        "句子结构": 64,
+        "为什么这样写": 89,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "句子结构": 0.23,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.45
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 195,
+        "关键词": 0,
+        "句子结构": 77,
+        "为什么这样写": 95,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "句子结构": 0.24,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 289,
+        "关键词": 0,
+        "句子结构": 64,
+        "为什么这样写": 112,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "句子结构": 0.11,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 114,
+        "关键词": 0,
+        "句子结构": 24,
+        "为什么这样写": 92,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "句子结构": 0.12,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.27
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 177,
+        "关键词": 0,
+        "句子结构": 82,
+        "为什么这样写": 116,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "句子结构": 0.11,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.33
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 385,
+        "关键词": 0,
+        "句子结构": 50,
+        "为什么这样写": 126,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "句子结构": 0.05,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.36
+      }
+    }
+  ],
+  "form": {
+    "h1": "Chapter 1",
+    "h1_shape_ok": true,
+    "nav_count": 4,
+    "nav_count_ok": true,
+    "nav_counts": [
+      4
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "句子结构",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      9
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "segments": 6,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": []
+  }
+}

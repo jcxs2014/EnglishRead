@@ -34,9 +34,9 @@ modified: "2026-10-20"
 
 **关键词**：wouldn’t shut up / driving me nuts
 
-**句子结构**：对话——Diana 问演出；Alba "bad"；Diana 追问；Alba 推迟 + 提及 Carmen 聚会；Alba 说 Carmen 没去；Diana 追问；Alba 解释"She stayed with the kids."；Diana 追问"With what kids?"；Alba "Well, with mine."
+**句子结构**：对话——Alba 问演出；Diana "bad"；Alba 追问；Diana 推迟 + 提及 Carmen 聚会；Alba 说 Carmen 没去；Diana 追问；Alba 解释"She stayed with the kids."；Diana 追问"With what kids?"；Alba "Well, with mine."
 
-**为什么这样写**：作者用 "She wouldn’t shut up about it all week" 揭示 Carmen 的期待，与后文"She got her nails done yesterday!"呼应；Diana 的 "With what kids?" 揭示她对自己行为后果浑然不觉；Alba 的 "Well, with mine." 是本章第一个道德重击——Alba 让母亲放弃聚会代看孩子，却装作不知。
+**为什么这样写**：作者用 Diana 的 "She wouldn’t shut up about it all week" 揭示 Carmen 的期待，与后文"She got her nails done yesterday!"呼应；Diana 的 "With what kids?" 揭示她对自己行为后果浑然不觉；Alba 的 "Well, with mine." 是本章第一个道德重击——Alba 让母亲放弃聚会代看孩子，却装作不知。
 **读者视角提示**："It was bad" 指 ch01 的演出（Diana 迟到、Brisa 罢演），姐妹间的信息不对称显示 Diana 不愿详述；"I’ll tell you later" 把 ch01 的创伤推到未来章节。
 
 > **原句 3:** “Jesus, Alba, couldn’t you have gone another time?” … “When?” … “Tomorrow, maybe?” … “No way, I can’t tomorrow.” … “Why?” … “In the morning I’ve got the baby’s check-up, and in the afternoon we’re doing my birthday thing.” … “Couldn’t you have just run out when Juan got off work?” … “Impossible.” … “Friday, then.” … “On Christmas Eve? Hell no.”
@@ -71,7 +71,7 @@ modified: "2026-10-20"
 **句子结构**：对话——Diana 提及 Carmen 的 nails；Alba 以 "can’t take the bus by myself" 拒绝；Diana 追问 "Why not?"；Alba "overwhelmed with the baby"；Diana 追问 "why did you take the baby?"；Alba "In case he got hungry"；Diana "he’s practically a teenager" 反讽；Alba "throws a fit"；Diana "give him a cookie."
 
 **为什么这样写**：作者用 "he’s practically a teenager! He’s almost a year old" 揭示 Diana 的理性视角，与 Alba 的过度保护对比；"throws a fit" 与 "throws up"（后文）揭示 Alba 用宝宝的痛苦作为拒绝工具；"give him a cookie" 是 Diana 的务实，被 Alba 忽视；姐妹间的育儿理念差异（Alba 过度保护的, Diana 务实的）是家族动力学的核心。
-**读者视角提示**："She got her nails done yesterday!" 与 ch02 "I bought a shirt and got my nails done for the holidays" 呼应，显示 Carmen 的 Christmas party 期待被 Alba 牺牲；Alba 的 "I can’t take the bus by myself" 是 ch02 dissociation 的 precursor。
+**读者视角提示**：Diana 转述 Carmen 的 "She got her nails done yesterday!"，与 ch02 中 Carmen 本人说的 "I bought a shirt and got my nails done for the holidays" 呼应，显示 Carmen 的 Christmas party 期待被 Alba 牺牲；Alba 的 "I can’t take the bus by myself" 是 ch02 那场解离（商场里空间褪去、"Her body would detach from reality"）的前奏。
 
 > **原句 6:** “You can’t celebrate two things at once. It’s bad luck. And you know it.” … “Christ, Alba, I’ve got to go. We’ll talk later.”
 

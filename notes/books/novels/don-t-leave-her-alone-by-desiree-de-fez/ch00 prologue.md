@@ -7,7 +7,7 @@ modified: "2026-10-20"
 
 ## 本章导航
 
-- **一句话概括**：一个女人在一家儿童用品店里苏醒，发现店里布满干涸的血，自己头部重创、脸上布满不明穿孔；她想起和女儿 Brigitte 在此试戴塑料皇冠的旧日，最后听到有人哼歌，转头看见一个女孩。
+- **一句话概括**：一个女人在一家儿童用品店里苏醒，发现店里布满干涸的血，自己头部重创、耳朵上布满陌生的新穿孔；她想起和女儿 Brigitte 在此试戴塑料皇冠的旧日，最后听到有人哼歌，转头看见一个女孩。
 
 - **情感弧线位置**：全书序章——在未交代任何人物关系前，先用「血与童趣并置」的意象把读者拖进惊悚；属全书恐怖基调的基线铺设，也为 Diana / Brisa / Alba 等人物的后续出场埋下伏笔。
 
@@ -19,7 +19,7 @@ modified: "2026-10-20"
 
 > **原句 1:** “She came to in the dark, sprawled across the floor. The light returned in phases, as if someone were rhythmically flipping the switches, and soon the whole store was lit up. The brightness was like a kick to the face. She lay back down, closed her eyes, and stayed that way awhile.”
 
-**中文理解**：女人在黑暗中苏醒，四肢摊开趴伏在地板上；灯光分阶段亮起，像有人在节奏地拨动开关，整间店很快灯火通明；强光像一记耳光打在脸上，她重新躺下、闭眼，暂时不愿面对。
+**中文理解**：女人在黑暗中苏醒，四肢摊开趴伏在地板上；灯光分阶段亮起，像有人在节奏地拨动开关，整间店很快灯火通明；强光像一脚踢在脸上，她重新躺下、闭眼，暂时不愿面对。
 
 **关键词**：came to / sprawled / phases / rhythmically
 
@@ -55,15 +55,15 @@ modified: "2026-10-20"
 
 > **原句 4:** “Her head was pounding. She almost touched it but stopped herself, afraid it wouldn’t be there, or not entirely there. She caught her reflection in one of those mirrors where girls admired their ballet slippers. Her head was there, but her hair was matted, and her face was a big, dark smudge. She dragged herself closer, unable to catch her breath, feeling weaker than she ever had. Her face was bloody, too, and she saw that her ears were covered in new piercings, full of earrings she’d never seen before. She counted nine hoops, all different sizes, five in one ear and four in the other. They appeared to be silver, but she wasn’t sure, since everything was scabbed over, brown and black. The appointment she couldn’t remember must have been long, unhygienic, and cruel.”
 
-**中文理解**：她头痛欲裂；她几乎伸手去摸，却停住，怕头不在那里，或不完整。她看见镜中的自己——女孩们照芭蕾舞鞋的镜子——头还在，但头发结成血块，脸是大片暗色污迹。她拖着自己靠近，无法喘息，比以往任何时候都虚弱。脸也血淋淋的，她发现耳朵上布满新的穿孔，插满她从未见过的耳环：九个圈，大小不一，一只耳五只、一只耳四只，看似银质，却因一切结痂、褐黑而无法确认。她不记得的那次"预约"必定漫长、不卫生、且残酷。
+**中文理解**：她头痛欲裂；她几乎伸手去摸，却停住，怕头不在那里，或不完整。她看见镜中的自己——女孩们照芭蕾舞鞋的镜子——头还在，但头发结成一团，脸是大片暗色污迹。她拖着自己靠近，无法喘息，比以往任何时候都虚弱。脸也血淋淋的，她发现耳朵上布满新的穿孔，插满她从未见过的耳环：九个圈，大小不一，一只耳五只、一只耳四只，看似银质，却因一切结痂、褐黑而无法确认。她不记得的那次"预约"必定漫长、不卫生、且残酷。
 
 **关键词**：pounding / matted / smudge / scabbed / unhygienic / cruel
 
 **句子结构**：九句——第一句 "Her head was pounding." 短句；第二句 "She almost touched it but stopped herself, afraid it wouldn’t be there, or not entirely there." 用 afraid 引导形容词短语，or not entirely there 是并列宾语补足；第三句 "She caught her reflection in one of those mirrors where girls admired their ballet slippers." where 引导定语从句；第四句 "Her head was there, but her hair was matted, and her face was a big, dark smudge." 三并列；第五句 "She dragged herself closer, unable to catch her breath, feeling weaker than she ever had." 两个分词短语作状语；第六句 "Her face was bloody, too, and she saw that her ears were covered in new piercings, full of earrings she’d never seen before." that 引导宾语从句，full of 为后置定语；第七句 "She counted nine hoops, all different sizes, five in one ear and four in the other." 两个同位语短语；第八句 "They appeared to be silver, but she wasn’t sure, since everything was scabbed over, brown and black." since 引导原因状语从句；第九句 "The appointment she couldn’t remember must have been long, unhygienic, and cruel." 主语 "The appointment she couldn’t remember" 为名词短语 + 定语从句，情态动词 must have been 表推测。
 
-**为什么这样写**：作者用 "afraid it wouldn’t be there, or not entirely there" 把头部伤写成存在性恐惧（身体可能残缺），而 "The appointment she couldn’t remember" 把施暴写成一种被预约的仪式——"appointment" 一词把暴力伪装成医疗/美容行为，"must have been long, unhygienic, and cruel" 三形容词递增，把施暴者写成某种有专业身份的人（像从业者）而非普通凶手；这种"仪式化暴力"是全书恐怖的核心手法。
+**为什么这样写**：作者用 "afraid it wouldn’t be there, or not entirely there" 把头部伤写成存在性恐惧（身体可能残缺），而 "The appointment she couldn’t remember" 把施暴写成一种被预约的仪式——"appointment" 一词把暴力伪装成医疗/美容行为，"must have been long, unhygienic, and cruel" 三形容词递增，把施暴写成一场无人担责的私下处置；这种"仪式化暴力"是全书恐怖的核心手法。
 
-**读者视角提示**：九个耳环（five in one ear and four in the other）是本章唯一可数的细节，也是后文人物识别的关键线索；"appointment she couldn’t remember" 暗示药物或催眠，为后续 Diana/Alba 线埋伏笔。
+**读者视角提示**：九个耳环（five in one ear and four in the other）是本章唯一可数的细节，也是后文人物识别的关键线索；"appointment she couldn’t remember" 暗示这像一场被安排好的处置，为后续 Diana/Alba 线埋伏笔。
 
 > **原句 5:** “Then, hearing someone humming, she turned and saw the girl.”
 

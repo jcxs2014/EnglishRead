@@ -1,0 +1,199 @@
+{
+  "chapter": 0,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/ch00 prologue.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch00_prologue.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "She came to in the dark, sprawled across the floor. The light returned in phases, as if someone were rhythmically flippi",
+          "ok": true,
+          "pos": 31
+        }
+      ]
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "An image arose in her mind: the last time she’d been here, with Brigitte, trying on plastic tiaras. For a minute, she to",
+          "ok": true,
+          "pos": 313
+        }
+      ]
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "She pushed herself up to a seated position and dared to open her eyes. She was horrified by the scene: rows of tutus spl",
+          "ok": true,
+          "pos": 585
+        }
+      ]
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Her head was pounding. She almost touched it but stopped herself, afraid it wouldn’t be there, or not entirely there. Sh",
+          "ok": true,
+          "pos": 1102
+        }
+      ]
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Then, hearing someone humming, she turned and saw the girl",
+          "ok": true,
+          "pos": 1873
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "句子结构": 68,
+        "为什么这样写": 80,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "句子结构": 0.3,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "句子结构": 53,
+        "为什么这样写": 68,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "句子结构": 0.25,
+        "为什么这样写": 0.41,
+        "读者视角提示": 0.47
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 127,
+        "关键词": 0,
+        "句子结构": 76,
+        "为什么这样写": 69,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "句子结构": 0.24,
+        "为什么这样写": 0.38,
+        "读者视角提示": 0.5
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 164,
+        "关键词": 0,
+        "句子结构": 108,
+        "为什么这样写": 96,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "句子结构": 0.12,
+        "为什么这样写": 0.4,
+        "读者视角提示": 0.35
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 20,
+        "关键词": 0,
+        "句子结构": 68,
+        "为什么这样写": 90,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "句子结构": 0.44,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.89
+      }
+    }
+  ],
+  "form": {
+    "h1": "Prologue",
+    "h1_shape_ok": true,
+    "nav_count": 4,
+    "nav_count_ok": true,
+    "nav_counts": [
+      4
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "句子结构",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 5,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      9
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 5,
+    "segments": 5,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": []
+  }
+}
