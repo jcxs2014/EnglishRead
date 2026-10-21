@@ -91,7 +91,7 @@ exit=1
 以下写法**看似可疑、回原文核对后成立**，后续任何人不得以「读着不对」为由改动，除非能给出反证：
 
 1. **死因的谨慎表述（本章专属判据点名的项目）**：md「法医初判为滑倒撞上铁栏杆的意外」「法医说像是滑倒撞上铁栏杆的意外」**正确**。原文 `text/ch31_31.txt:47`：「This one looks like an accident. The poor guy simply hit his head on the iron railing after slipping on the crumbling stone steps. … ‘I’ll obviously be a little more thorough than that in my report, but there’s no evidence of foul play.’」——**原文本身就没确诊死因**，md 用「初判」是恰当的，**不得改成确定死因或改成他杀**。
-2. **死者身份**：md「前电视主持人吉米·琼斯」**正确**：`text/ch31_31.txt:23`「Jimmy Jones, forty-eight years old」、`:29`（BBC 旅行节目 + 深夜游戏节目 + mid-two-thousands 深夜 panel 节目）。md 未写年龄，**不算漏**。
+2. **死者身份**：md「前电视主持人吉米·琼斯」**正确**：`text/ch31_31.txt:23`「Jimmy Jones, forty-eight years old. You may well remember him from mid-two-thousands late-night panel shows.」；`:125`（`Besides, Jimmy Jones would’ve been on big money at the BBC then. He did a travel show, right? … And that late-night game show.`）。md 未写年龄，**不算漏**。
 3. **块 6 的「一松一钉」分析**：`text/ch31_31.txt:74` 确为「could（松动）/ cannot（钉子）」两句并存，块 6 写对了。**A4 要改的是导航「一句话概括」「一句话总结」，不是块 6**——勿反向把块 6 改成「互相推翻」。
 4. **「同一个广场的第二具尸体」成立**：第一次是 Digby（`text/ch01_1.txt:17` The Horatio Combe Institute, Priory Square, Camden；`text/ch33_33.txt:243`「highlighted Digby’s and Jimmy’s houses in red」）。md 写「第二次」**不算编造**。
 5. **H1 `# 31. Priory Square`**＝epub 原章名 `text/ch31_31.txt:17`「Priory Square」，且与全书 54 章的「`# NN. <epub 章名>`」一致——**不得改成文件名里的描述性标题**。
