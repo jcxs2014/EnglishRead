@@ -1,0 +1,227 @@
+{
+  "chapter": "ch04",
+  "reviewer": "independent reviewer, ch04 only",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch04_4.txt",
+  "source_length_chars": 4178,
+  "interval_convention": "0-based [start,end) over raw file text; line numbers are 1-based",
+  "read_order": "R1 completed on text/ch04_4.txt only. No chapter md, no other chapter md, no notes were opened before this file was written. (A prior partial run of this same task by a parallel instance was moved to prior-run/ before starting; its conclusions were NOT read and are NOT reused.)",
+  "chapter_title_in_source": {
+    "line": 17,
+    "interval": [18, 58],
+    "verbatim": "Digby Combe-Watson’s Studio, Dollis Hill"
+  },
+  "events": [
+    {
+      "id": "E1",
+      "who": "narrator",
+      "did": "describes Digby’s dwelling: the place had once been a substantial Edwardian family home but had since been partitioned off into separate dwellings; his studio would likely have been the dining room, with a view of a halved garden; his space consisted of one large room with a bed at one end near the window, a table in the middle and a kitchenette down the far side, and a square cube that was the shower protruding into the room",
+      "interval": [61, 468],
+      "line": 20
+    },
+    {
+      "id": "E2",
+      "who": "Matt",
+      "did": "said ‘Way more modern than I was expecting’ while taking in the whitewashed walls and bare wooden floorboards; noted the curtains were navy blue, the bedding white and blue striped, the furniture solid, Scandinavian-esque and terribly practical, and there were no aggressively clunky old English sideboards here",
+      "interval": [471, 774],
+      "line": 23
+    },
+    {
+      "id": "E3",
+      "who": "Caius",
+      "did": "said ‘Makes sense’ while opening Digby’s sock drawer; said that if he had to see that cross-eyed taxidermy kangaroo every day he’d want to live in an immaculate little minimalist box too; said it smells like beeswax; bet he polished the place with a toothbrush every week",
+      "interval": [777, 1038],
+      "line": 26
+    },
+    {
+      "id": "E4",
+      "who": "Matt",
+      "did": "said ‘Digby’s still a bit old-school though’ and took the case off the typewriter perched on the edge of the table",
+      "interval": [1041, 1161],
+      "line": 29
+    },
+    {
+      "id": "E5",
+      "who": "Caius",
+      "did": "reported ‘Willow said he doesn’t have an email. Did everything by post’; took in the art on the walls and said ‘Modern. Abstract. 1960s? Antibiotics but no mobile phone.’",
+      "interval": [1164, 1323],
+      "line": 32
+    },
+    {
+      "id": "E6",
+      "who": "Matt",
+      "did": "said ‘One of those live slow types’; looked through the pockets of Digby’s jackets hanging up on a clothes rack (there wasn’t enough room for an actual wardrobe); found a receipt for the greengrocer’s by the station dated the day before he died and put it into an evidence bag",
+      "interval": [1326, 1605],
+      "line": 35
+    },
+    {
+      "id": "E7",
+      "who": "speaker not tagged in source (exchange between Matt and Caius; the line follows Matt’s line and is answered by Caius in E8)",
+      "did": "wondered about the old TV that wouldn’t be able to stream on top of the drawers, and a radio in the kitchenette but no laptop",
+      "interval": [1608, 1748],
+      "line": 38
+    },
+    {
+      "id": "E8",
+      "who": "speaker not tagged in source",
+      "did": "said ‘That’s probably quite pleasant’ and bet he had an attention span that lasts longer than fifteen seconds",
+      "interval": [1751, 1855],
+      "line": 41
+    },
+    {
+      "id": "E9",
+      "who": "speaker not tagged in source",
+      "did": "said ‘There are no memes in Digby’s world.’",
+      "interval": [1858, 1896],
+      "line": 44
+    },
+    {
+      "id": "E10",
+      "who": "Matt",
+      "did": "said ‘Mate, it’ll be over in a week. Someone will put a tutu on a corgi.’ and wasn’t sure that was true",
+      "interval": [1899, 1999],
+      "line": 47
+    },
+    {
+      "id": "E11",
+      "who": "speaker not tagged in source",
+      "did": "said ‘I’m just not going to look at them.’",
+      "interval": [2002, 2039],
+      "line": 50
+    },
+    {
+      "id": "E12",
+      "who": "speaker not tagged in source",
+      "did": "said ‘That’s all right, Amy is.’",
+      "interval": [2042, 2069],
+      "line": 53
+    },
+    {
+      "id": "E13",
+      "who": "Caius",
+      "did": "wandered over to the fridge, inspected a postcard of a Goan beach clinging to the front of it and took it down; the postcard read ‘Darling, meant to write when in Blighty but had mad rush for visa. Let’s talk about the Institute when I get back on 27th. Mum x.’; he turned to a half-height bookcase near the bed, a wooden box with a rose carved into the side caught his eye, he opened it, and it contained a month’s worth of frequent correspondence",
+      "interval": [2072, 2512],
+      "line": 56
+    },
+    {
+      "id": "E14",
+      "who": "Caius (reading Isolde’s letter out to Matt)",
+      "did": "read ‘“Dearest Darling Digby,”’ and ‘“That all sounds like a tremendous plan. I cannot wait. Yours eternally, Isolde.”’",
+      "interval": [2515, 2646],
+      "line": 59
+    },
+    {
+      "id": "E15",
+      "who": "Matt",
+      "did": "said ‘It was a date then’ while looking again at the receipt from the greengrocer’s",
+      "interval": [2649, 2734],
+      "line": 62
+    },
+    {
+      "id": "E16",
+      "who": "Caius",
+      "did": "speculated ‘He sets the date up, does it at the museum because it looks sort of impressive and then they kill him?’",
+      "interval": [2737, 2841],
+      "line": 65
+    },
+    {
+      "id": "E17",
+      "who": "Matt",
+      "did": "asked ‘Accidental contamination?’ while showing Caius the receipt he’d found; proposed that the hemlock leaves made it into the bagged salad he bought from the greengrocer’s by mistake; said it says organic on the receipt; maybe they added a bit of the hedgerow not realising",
+      "interval": [2844, 3111],
+      "line": 68
+    },
+    {
+      "id": "E18",
+      "who": "Caius",
+      "did": "said ‘Isolde, his date, panics and flees rather than ring an ambulance’ while glancing down at the letter in his hand; said it’s not impossible, but then this letter feels quite lovey-dovey; asked ‘Would you run?’; said they’ve been corresponding for a little while and he’s not a total stranger; said you’d think they’d have enough sense to at least call an ambulance",
+      "interval": [3114, 3453],
+      "line": 71
+    },
+    {
+      "id": "E19",
+      "who": "Matt",
+      "did": "suggested ‘Isolde could be married? She doesn’t want to get caught on a date.’",
+      "interval": [3456, 3524],
+      "line": 74
+    },
+    {
+      "id": "E20",
+      "who": "Caius",
+      "did": "suggested ‘Or maybe she’s broken her curfew?’ and that he hit on Willow the intern; said she’s twenty, twenty-one, maybe nineteen when she started",
+      "interval": [3527, 3650],
+      "line": 77
+    },
+    {
+      "id": "E21",
+      "who": "Matt (question) / Caius (answer)",
+      "did": "Matt asked ‘What’s her address?’; Caius answered ‘It’s a PO Box,’",
+      "interval": [3653, 3717],
+      "lines": "80, 83"
+    },
+    {
+      "id": "E22",
+      "who": "Matt",
+      "did": "said ‘An affair for sure. I wonder how they met? Not like he’s on the apps.’",
+      "interval": [3720, 3791],
+      "line": 86
+    },
+    {
+      "id": "E23",
+      "who": "Caius",
+      "did": "said ‘Digby’s definitely not the Hinge type,’ took the other letters out of the box, found a cut-out from a magazine at the back, and read ‘“North London romantic seeks connection with fellow old soul. 37, good-ish looking, sometimes amusing, culture vulture.”’; concluded he posted a lonely-hearts ad",
+      "interval": [3794, 4075],
+      "line": 89
+    },
+    {
+      "id": "E24",
+      "who": "Matt",
+      "did": "said ‘How quaint.’",
+      "interval": [4078, 4091],
+      "line": 92
+    },
+    {
+      "id": "E25",
+      "who": "speaker not tagged in source",
+      "did": "said ‘The poor guy had kept the ad. A memento of their romance.’",
+      "interval": [4094, 4153],
+      "line": 95
+    },
+    {
+      "id": "E26",
+      "who": "speaker not tagged in source",
+      "did": "said ‘A memento mori now.’",
+      "interval": [4156, 4177],
+      "line": 98
+    }
+  ],
+  "relations": [
+    "Digby Combe-Watson — the deceased; his studio is the search site; no email, did everything by post; owns a typewriter (Matt took the case off it), a cross-eyed taxidermy kangaroo, 1960s abstract art on the walls; no laptop, an old TV that couldn’t stream on top of the drawers, a radio in the kitchenette; keeps his jackets on a clothes rack (no room for an actual wardrobe); bought bagged salad from the greengrocer’s by the station; posted a lonely-hearts ad at 37 and kept the magazine cut-out in the rose-carved box",
+    "Matt — in the studio with Caius; found the greengrocer’s receipt dated the day before Digby died and bagged it; voiced the meme remark ‘it’ll be over in a week… tutu on a corgi’ and wasn’t sure that was true; knows Amy",
+    "Caius — in the studio with Matt; opened the sock drawer; read the postcard and Isolde’s letter out loud; opened the rose-carved box; read the magazine cut-out ad",
+    "Isolde — Digby’s correspondent; signs ‘Yours eternally, Isolde’; called by Caius ‘his date’; Matt suspects she could be married or not want to get caught on a date; the letter is described as lovey-dovey; they had been corresponding for a little while; she has a PO Box address",
+    "Willow — intern; told Caius that Digby has no email; Digby hit on her; per Caius she’s twenty, twenty-one, maybe nineteen when she started; the theory that Isolde broke her curfew is raised by Caius",
+    "Amy — named only; someone says ‘That’s all right, Amy is.’ (Amy is the one who does look at memes); not in the scene",
+    "Digby’s Mum — writer of the postcard (‘Mum x.’); away on a visa rush, wants to talk about the Institute when she gets back on the 27th",
+    "museum — where Digby would set up the date (Caius’s speculation)"
+  ],
+  "numbers_and_dates_verbatim": [
+    {"text": "Edwardian", "interval": [61, 468], "note": "era of the original family house"},
+    {"text": "1960s?", "interval": [1164, 1323], "note": "Caius’s guess for the wall art’s style"},
+    {"text": "fifteen seconds", "interval": [1751, 1855], "note": "guessed floor of Digby’s attention span"},
+    {"text": "it’ll be over in a week", "interval": [1899, 1999], "note": "Matt on how long memes last"},
+    {"text": "a month’s worth of frequent correspondence", "interval": [2072, 2512], "note": "contents of the rose-carved box"},
+    {"text": "27th", "interval": [2072, 2512], "note": "postcard: ‘when I get back on 27th’"},
+    {"text": "twenty, twenty-one", "interval": [3527, 3650], "note": "Willow’s age per Caius"},
+    {"text": "nineteen when she started", "interval": [3527, 3650], "note": "Willow’s age when she started"},
+    {"text": "37", "interval": [3794, 4075], "note": "age Digby gave in his lonely-hearts ad"},
+    {"text": "the day before he died", "interval": [1326, 1605], "note": "date on the greengrocer’s receipt"}
+  ],
+  "chapter_specific_observations_from_bare_read": [
+    "The room does the characterisation: halved garden, square cube shower protruding into the room, navy blue curtains, white and blue striped bedding, solid Scandinavian-esque practical furniture, no aggressively clunky old English sideboards, whitewashed walls, bare wooden floorboards, half-height bookcase near the bed, clothes rack instead of a wardrobe.",
+    "Object inventory actually present in the source: bed, table, kitchenette, shower cube, typewriter (with case), old TV, radio, clothes rack with jackets, fridge with Goan-beach postcard, half-height bookcase, wooden box with a rose carved into the side, greengrocer’s receipt, magazine cut-out ad, sock drawer. NO old sofa appears anywhere in this excerpt — the brief’s “一件旧沙发” example is not in the ch04 source text.",
+    "Loneliness is written through: PO Box address, no email / everything by post, no apps / ‘not the Hinge type’, a lonely-hearts ad kept as a memento, ‘The poor guy’, dated technology (no laptop, non-streaming TV, radio), a partitioned flat, the postcard from Mum, and the closing ‘A memento mori now.’",
+    "No explicit ‘Saturday’ and no month name occurs in this excerpt. The string ‘SATURDAY IN MAY’ does NOT occur in text/ch04_4.txt — the section label in the md has no basis in this chapter’s source.",
+    "The source ends on two untagged lines — ‘The poor guy had kept the ad. A memento of their romance.’ and ‘A memento mori now.’ — so their speaker cannot be settled from the source alone; any md attribution of these two lines is an inference, not a source fact.",
+    "Also untagged in source: the lines at 1608–1748, 1751–1855, 1858–1896, 2002–2039, 2042–2069 — i.e. ‘the old TV… no laptop’, ‘That’s probably quite pleasant… fifteen seconds’, ‘There are no memes in Digby’s world.’, ‘I’m just not going to look at them.’, ‘That’s all right, Amy is.’"
+  ]
+}

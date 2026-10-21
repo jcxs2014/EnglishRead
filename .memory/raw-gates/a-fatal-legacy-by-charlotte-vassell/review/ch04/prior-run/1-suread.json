@@ -1,0 +1,183 @@
+{
+  "chapter": "ch04",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch04_4.txt",
+  "source_chars": 4178,
+  "source_lines": 98,
+  "section_heading_in_text": "Digby Combe-Watson’s Studio, Dollis Hill (line 17, chars 18-58)",
+  "method": "R1 素读：只读 text/ch04_4.txt，未开 md、未读别章 md、未依赖记忆。",
+  "events": [
+    {
+      "id": "E1",
+      "who": "叙述者",
+      "what": "叙述 Digby 的住所原是「substantial Edwardian family home」，后被 partition 成多个独立 dwelling；他的 studio 很可能原来是餐厅；现在能看到被切半的花园；studio 由「one large room」构成：一端靠窗一张床、中间一张桌子、远侧一个 kitchenette，一个方形立方体（淋浴）凸进房间。",
+      "line": 20,
+      "chars": [61, 468],
+      "verbatim": "Digby’s place had once been a substantial Edwardian family home but had since been partitioned off into separate dwellings. His studio would likely have been the dining room. It now had a view of a halved garden. His space consisted of one large room with a bed at one end near the window, a table in the middle and a kitchenette down the far side. A square cube that was the shower protruded into the room."
+    },
+    {
+      "id": "E2",
+      "who": "Matt（对 Caius 说）",
+      "what": "环视白色粉刷墙与裸木地板后说「Way more modern than I was expecting」；房间里海军蓝窗帘、白蓝条纹床品、斯堪的纳维亚风、实用家具，「No aggressively clunky old English sideboards here」。",
+      "line": 23,
+      "chars": [471, 774],
+      "verbatim": "‘Way more modern than I was expecting,’ Matt said, taking in the whitewashed walls and bare wooden floorboards. The curtains were navy blue and the bedding was white and blue striped. The furniture was solid, Scandinavian-esque and terribly practical. No aggressively clunky old English sideboards here."
+    },
+    {
+      "id": "E3",
+      "who": "Caius（开 Digby 的袜子抽屉）",
+      "what": "开抽屉说「Makes sense」，因若每天要看那只 cross-eyed taxidermy kangaroo 标本，他也会住进一个 immaculate little minimalist box；说房间闻起来像 beeswax，打赌 Digby 每周用牙刷擦过这地方。",
+      "line": 26,
+      "chars": [777, 1038],
+      "verbatim": "‘Makes sense,’ Caius said, opening Digby’s sock drawer. ‘If I had to see that cross-eyed taxidermy kangaroo every day I’d want to live in an immaculate little minimalist box too. It smells like beeswax. I bet he polished the place with a toothbrush every week.’"
+    },
+    {
+      "id": "E4",
+      "who": "Matt（接话）",
+      "what": "说「Digby’s still a bit old-school though」，并取下放在桌边的打字机上的箱子（taking the case off the typewriter perched on the edge of the table）。",
+      "line": 29,
+      "chars": [1041, 1161],
+      "verbatim": "‘Digby’s still a bit old-school though,’ Matt said, taking the case off the typewriter perched on the edge of the table."
+    },
+    {
+      "id": "E5",
+      "who": "Caius（谈 Digby 无电子邮箱 / 墙上画作）",
+      "what": "说 Willow 讲过 Digby 没有 email、全靠邮寄；同时看墙上画作并评「Modern. Abstract. 1960s? Antibiotics but no mobile phone.」",
+      "line": 32,
+      "chars": [1164, 1323],
+      "verbatim": "‘Willow said he doesn’t have an email. Did everything by post.’ Caius took in the art on the walls. ‘Modern. Abstract. 1960s? Antibiotics but no mobile phone.’"
+    },
+    {
+      "id": "E6",
+      "who": "Matt（翻查夹克口袋）",
+      "what": "在挂衣架上 Digby 的夹克口袋里翻找，找到一张车站旁蔬果店（greengrocer’s by the station）的收据，日期是他死前一天，Matt 把它放进证物袋。",
+      "line": 35,
+      "chars": [1326, 1605],
+      "verbatim": "‘One of those live slow types.’ Matt looked through the pockets of Digby’s jackets hanging up on a clothes rack. There wasn’t enough room for an actual wardrobe. He found a receipt for the greengrocer’s by the station dated the day before he died. He put it into an evidence bag."
+    },
+    {
+      "id": "E7",
+      "who": "Caius（谈家电）",
+      "what": "说抽屉上方有台老电视（不能 stream），厨房角有台收音机，但**没有 laptop**；又说这大概挺惬意，并打赌 Digby 的注意力能超过 fifteen seconds。",
+      "line": 38,
+      "chars": [1608, 1748],
+      "verbatim": "‘Yeah. I’m wondering. There’s an old TV that wouldn’t be able to stream on top of the drawers and a radio in the kitchenette but no laptop.’"
+    },
+    {
+      "id": "E8",
+      "who": "Matt（回应 meme / tutu corgi）",
+      "what": "Matt 说一周就过去了（it’ll be over in a week），会有人给一只 corgi 穿上 tutu，且他自己也不确定这是不是真的；Caius 说自己不看那些（不明确指什么），Matt 接「That’s all right, Amy is.」",
+      "line": 47,
+      "chars": [1899, 2069],
+      "verbatim": "‘Mate, it’ll be over in a week. Someone will put a tutu on a corgi.’ Matt wasn’t sure that was true. … ‘I’m just not going to look at them.’ … ‘That’s all right, Amy is.’"
+    },
+    {
+      "id": "E9",
+      "who": "Caius（取冰箱明信片、打开玫瑰木盒）",
+      "what": "走到冰箱，取下夹在上面的 Goan 海滩明信片（内容：写信人要去 Blighty 但赶 visa，来信要等回来在 27th 谈 Institute，落款 Mum x.）；随后转向床边半高书架，打开一个侧面刻着玫瑰的木盒，里面是「a month’s worth of frequent correspondence」。",
+      "line": 56,
+      "chars": [2072, 2512],
+      "verbatim": "Caius wandered over to the fridge. Inspecting a postcard of a Goan beach clinging to the front of it, he took it down. ‘Darling, meant to write when in Blighty but had mad rush for visa. Let’s talk about the Institute when I get back on 27th. Mum x.’ Caius turned to a half-height bookcase near the bed. A wooden box with a rose carved into the side had caught his eye. He opened it. It contained a month’s worth of frequent correspondence."
+    },
+    {
+      "id": "E10",
+      "who": "Caius（朗读 Isolde 的信）",
+      "what": "向 Matt 读出木盒里的一封信：「Dearest Darling Digby, That all sounds like a tremendous plan. I cannot wait. Yours eternally, Isolde.」；Matt 说「It was a date then」。",
+      "line": 59,
+      "chars": [2515, 2734],
+      "verbatim": "‘“Dearest Darling Digby,”’ he read out to Matt. ‘“That all sounds like a tremendous plan. I cannot wait. Yours eternally, Isolde.”’ … ‘It was a date then,’ Matt said, looking again at the receipt from the greengrocer’s."
+    },
+    {
+      "id": "E11",
+      "who": "Caius（提出「博物馆约会后被杀」假设）",
+      "what": "发问：他安排这次约会、因为博物馆看起来体面而选在那里，然后他们杀了他？",
+      "line": 65,
+      "chars": [2737, 2841],
+      "verbatim": "‘He sets the date up, does it at the museum because it looks sort of impressive and then they kill him?’"
+    },
+    {
+      "id": "E12",
+      "who": "Matt（提出意外污染假设）",
+      "what": "向 Caius出示那张收据，问会不会是 Accidental contamination：毒芹（hemlock）叶子误进了他从蔬果店买的袋装沙拉，收据上写着 organic，也许店员加了一点野地植物而没意识到。",
+      "line": 68,
+      "chars": [2844, 3111],
+      "verbatim": "‘Accidental contamination?’ Matt asked, showing Caius the receipt he’d found. ‘What if the hemlock leaves made it into the bagged salad he bought from the greengrocer’s by mistake. It says organic on the receipt. Maybe they added a bit of the hedgerow not realising.’"
+    },
+    {
+      "id": "E13",
+      "who": "Caius（评估 Isolde 的行为）",
+      "what": "指出 Isolde 作为他的约会对象是惊慌逃走而非叫救护车，「It’s not impossible」，但这封信很温情（lovey-dovey）；认为既然他们已通信一段时间、他不是完全陌生人，人们至少会有常识打个救护车。",
+      "line": 71,
+      "chars": [3114, 3453],
+      "verbatim": "‘Isolde, his date, panics and flees rather than ring an ambulance.’ Caius glanced down at the letter in his hand. ‘It’s not impossible, but then this letter feels quite lovey-dovey. Would you run? They’ve been corresponding for a little while. He’s not a total stranger. You’d think they’d have enough sense to at least call an ambulance.’"
+    },
+    {
+      "id": "E14",
+      "who": "Matt 与 Caius（Isolde 的可能动机 / Willow 年龄）",
+      "what": "Matt 猜 Isolde 可能已婚、怕约会被发现；Caius 猜她违反宵禁（curfew），并说「He hit on Willow the intern; she’s twenty, twenty-one. Maybe nineteen when she started.」",
+      "line": 74,
+      "chars": [3456, 3650],
+      "verbatim": "‘Isolde could be married? She doesn’t want to get caught on a date.’ … ‘Or maybe she’s broken her curfew? He hit on Willow the intern; she’s twenty, twenty-one. Maybe nineteen when she started.’"
+    },
+    {
+      "id": "E15",
+      "who": "Matt 提问 / Caius 回答",
+      "what": "Matt 问 Isolde 的地址；Caius 答「It’s a PO Box」；Matt 由此断定是外遇，并好奇两人怎么认识的（“Not like he’s on the apps.”）。",
+      "line": 80,
+      "chars": [3653, 3791],
+      "verbatim": "‘What’s her address?’ Matt asked. … ‘It’s a PO Box,’ Caius said. … ‘An affair for sure. I wonder how they met? Not like he’s on the apps.’"
+    },
+    {
+      "id": "E16",
+      "who": "Caius（翻出杂志剪报 + 交友广告）",
+      "what": "说「Digby’s definitely not the Hinge type」，从木盒里把其它信件拿出来，在最后发现一份杂志剪报，念出广告：「North London romantic seeks connection with fellow old soul. 37, good-ish looking, sometimes amusing, culture vulture.」并总结「He posted a lonely-hearts ad」。",
+      "line": 89,
+      "chars": [3794, 4075],
+      "verbatim": "‘Digby’s definitely not the Hinge type.’ Caius took the other letters out of the box. A cut-out from a magazine was at the back. ‘“North London romantic seeks connection with fellow old soul. 37, good-ish looking, sometimes amusing, culture vulture.” He posted a lonely-hearts ad.’"
+    },
+    {
+      "id": "E17",
+      "who": "Matt 与 Caius（收尾）",
+      "what": "Matt 说「How quaint.」；Caius 说「The poor guy had kept the ad. A memento of their romance.」；最后一句「A memento mori now.」（说话人未在原文标明归属）",
+      "line": 92,
+      "chars": [4078, 4177],
+      "verbatim": "‘How quaint.’ … ‘The poor guy had kept the ad. A memento of their romance.’ … ‘A memento mori now.’"
+    }
+  ],
+  "relations": [
+    "Matt 与 Caius：结伴搜查 Digby 住所的调查搭档（互相以「Mate」相称，全章对话轮换），Matt 负责看口袋/收据，Caius 负责开抽屉、看冰箱、翻木盒。",
+    "Digby Combe-Watson：死者，本章被搜查者；37 岁；住 Dollis Hill 一栋由 Edwardian 大宅分隔出的单元（studio 可能原是餐厅）；无 email，只用邮寄；玩打字机；博物馆工作；收藏 cross-eyed taxidermy kangaroo 标本；墙上挂 1960s 现代抽象画；与 Isolde 通信并约会；曾向实习生 Willow 求爱；登过 lonely-hearts 广告。",
+    "Isolde：与 Digby 通信并约会的人（信尾署「Yours eternally, Isolde.」）；地址是 PO Box；Matt 猜她已婚，Caius 猜她违反 curfew；信的语气 lovey-dovey。",
+    "Mum（信/明信片署「Mum x.」）：给 Digby 写信的人，去过/将去 Blighty 并因 visa 而赶时间，要 27th 回来谈 Institute；与 Isolde 的关系原文未明说。",
+    "Willow：实习生（the intern）， Caius 转述她说 Digby 没有 email；Caius 说 Digby 也 hit on 过 Willow；年龄 twenty, twenty-one，Maybe nineteen when she started。",
+    "Amy：被提到会去看某些东西的人（「That’s all right, Amy is.」），身份原文未明。",
+    "Inesolde/博物馆：Isolde 约在 museum 见面的假设（Caius 提出的假设，非事实）。",
+    "蔬果店 (greengrocer’s by the station)：Digby 死前一天去过，收据上写 organic。",
+    "dating app「Hinge」：Caius 说 Digby 不是那种会用 Hinge 的人。",
+    "死因假设互斥：Matt 猜误食毒芹污染的沙拉（意外），Caius 猜 Isolde 逃走 + 有人杀了他。"
+  ],
+  "numbers_and_dates": [
+    {"value": "27th", "context": "明信片：Let’s talk about the Institute when I get back on 27th. Mum x.", "line": 56, "chars": [2072, 2512]},
+    {"value": "37", "context": "交友广告：North London romantic seeks connection with fellow old soul. 37, good-ish looking, sometimes amusing, culture vulture.", "line": 89, "chars": [3794, 4075]},
+    {"value": "1960s?", "context": "Caius 评墙上的画：Modern. Abstract. 1960s?", "line": 32, "chars": [1164, 1323]},
+    {"value": "twenty, twenty-one", "context": "Willow 的年龄：she’s twenty, twenty-one.", "line": 77, "chars": [3527, 3650]},
+    {"value": "nineteen", "context": "Maybe nineteen when she started.", "line": 77, "chars": [3527, 3650]},
+    {"value": "fifteen seconds", "context": "I bet he had an attention span that lasts longer than fifteen seconds.", "line": 41, "chars": [1751, 1855]},
+    {"value": "a month’s worth", "context": "木盒内容：It contained a month’s worth of frequent correspondence.", "line": 56, "chars": [2072, 2512]},
+    {"value": "a week", "context": "Mate, it’ll be over in a week. Someone will put a tutu on a corgi.", "line": 47, "chars": [1899, 1999]},
+    {"value": "the day before he died", "context": "greengrocer’s 收据日期：dated the day before he died.", "line": 35, "chars": [1326, 1605]},
+    {"value": "one large room", "context": "studio 结构：His space consisted of one large room.", "line": 20, "chars": [61, 468]},
+    {"value": "half-height bookcase", "context": "Caius turned to a half-height bookcase near the bed.", "line": 56, "chars": [2072, 2512]}
+  ],
+  "key_motifs_for_chapter": {
+    "room_tells_the_man": [
+      "旧沙发：素读中**未见**『旧沙发 / sofa / couch』字样——E1 只写 bed / table / kitchenette / shower / wardrobe 不足；需在 md 中核对该物件是否被凭空加入。",
+      "报纸交友广告：素读中为『杂志剪报』(A cut-out from a magazine) 的 lonely-hearts ad，**不是报纸**；需在 md 中核对『报纸』是否为编造。",
+      "孤独：靠 PO Box 地址、kept the ad 作纪念、无 app/email/笔记本、只有印刷品通信等细节被写出。"
+    ]
+  },
+  "notable_absences": [
+    "全章**没有**出现沙发/sofa/couch 的任何字样（仅 bed、table、kitchenette、shower、drawers、bookcase、wardrobe 不足）。",
+    "全章**没有**出现报纸/newspaper/paper 字样；交友广告来自『杂志剪报』。",
+    "全章**没有**提到 Digby 的年龄以外的其他身份信息（博物馆、1970s 之类），也没有出现提奥、遗产、法庭等主线词汇。"
+  ]
+}

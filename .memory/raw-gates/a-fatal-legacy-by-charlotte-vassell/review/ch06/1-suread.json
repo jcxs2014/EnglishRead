@@ -1,0 +1,599 @@
+{
+  "book": "A Fatal Legacy (Charlotte Vassell)",
+  "chapter": "ch06",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch06_6.txt",
+  "source_chars": 13073,
+  "read_order": "先素读 text/ch06_6.txt 全文，未打开任何 md",
+  "events": [
+    {
+      "id": "E1",
+      "action": "Callie 在公交车上肩膀紧绷，等着可怕的事发生（紧张）",
+      "range": [
+        29,
+        115
+      ],
+      "line": 20
+    },
+    {
+      "id": "E2",
+      "action": "Callie 说她上次来 Richmond 是 Harriet 的订婚派对，那次订婚持续了五个星期",
+      "range": [
+        157,
+        221
+      ],
+      "line": 26
+    },
+    {
+      "id": "E3",
+      "action": "Caius 捏了捏 Callie 的手",
+      "range": [
+        432,
+        456
+      ],
+      "line": 29
+    },
+    {
+      "id": "E4",
+      "action": "Dotty 要办一个 non-baby shower-cum-housewarming，Callie 腿上放着礼品袋",
+      "range": [
+        491,
+        543
+      ],
+      "line": 32
+    },
+    {
+      "id": "E5",
+      "action": "Callie 说自己饿坏了同时还有点恶心，可能今天没吃够东西",
+      "range": [
+        830,
+        882
+      ],
+      "line": 38
+    },
+    {
+      "id": "E6",
+      "action": "Callie 展示买的礼物：The White Company 的极小袜子",
+      "range": [
+        1008,
+        1049
+      ],
+      "line": 44
+    },
+    {
+      "id": "E7",
+      "action": "Callie 又展示一件连帽带小熊耳朵的卡片式小开衫，然后折好放回礼品袋，说『这是我们的站』",
+      "range": [
+        1187,
+        1248
+      ],
+      "line": 50
+    },
+    {
+      "id": "E8",
+      "action": "Caius 按铃，他们下车转进小路，绕过 Richmond Park 底部",
+      "range": [
+        1431,
+        1485
+      ],
+      "line": 53
+    },
+    {
+      "id": "E9",
+      "action": "Callie 说她没问过房价，回家要上 Rightmove 查，得开无痕模式，查朋友房产『感觉脏』",
+      "range": [
+        1666,
+        1760
+      ],
+      "line": 59
+    },
+    {
+      "id": "E10",
+      "action": "对讲机里 Georgie 声音发抖地喊『Callie, Caius! Come in』，让他们绕到后面去；叙述点出他整个下午都在抽大麻",
+      "range": [
+        2438,
+        2566
+      ],
+      "line": 83
+    },
+    {
+      "id": "E11",
+      "action": "房子是红砖大家庭住宅，前面爬满常春藤，看起来像牧师住宅；Callie 一度担心会是仿都铎式",
+      "range": [
+        2701,
+        2789
+      ],
+      "line": 86
+    },
+    {
+      "id": "E12",
+      "action": "Dotty 说自己有严重的骨盆带痛，几乎没出去探索过；并称赞 Caius 上『老眼镜盒』时好看",
+      "range": [
+        3377,
+        3448
+      ],
+      "line": 95
+    },
+    {
+      "id": "E13",
+      "action": "Dotty 骂 Max（『Sodding Max』），说 Mummy 也发消息夸 Caius 可爱，说他们处理得很好",
+      "range": [
+        3632,
+        3685
+      ],
+      "line": 101
+    },
+    {
+      "id": "E14",
+      "action": "Callie 的 Instagram 炸了，Tatler 分享了那条 clip，她已被近五百个新账号关注",
+      "range": [
+        3899,
+        3989
+      ],
+      "line": 104
+    },
+    {
+      "id": "E15",
+      "action": "Callie 收到男性私信称她『Milady』『Fair maiden』，有人问一个女仆为何这么白净，她直接拉黑",
+      "range": [
+        4085,
+        4178
+      ],
+      "line": 104
+    },
+    {
+      "id": "E16",
+      "action": "Dotty 带他们到花园底部的小露台，说大家从午饭就开始喝、除了她自己都醉了；她挺着肚子",
+      "range": [
+        4545,
+        4647
+      ],
+      "line": 110
+    },
+    {
+      "id": "E17",
+      "action": "Dotty 悄悄问 Callie『Did you shag Casper?』，Callie 否认",
+      "range": [
+        5487,
+        5545
+      ],
+      "line": 131
+    },
+    {
+      "id": "E18",
+      "action": "Dotty 说 Casper 今天在场，他的未婚妻 Nell 也在",
+      "range": [
+        5630,
+        5662
+      ],
+      "line": 143
+    },
+    {
+      "id": "E19",
+      "action": "Dotty 说 Nell nice enough 但太严肃、只看书，『对愚蠢的老我来说太 intellectual 了』",
+      "range": [
+        5799,
+        5838
+      ],
+      "line": 149
+    },
+    {
+      "id": "E20",
+      "action": "Dotty 说自己发现了一段婚外情",
+      "range": [
+        6029,
+        6067
+      ],
+      "line": 149
+    },
+    {
+      "id": "E21",
+      "action": "Callie 环顾聚会、想找出私通的恋人，转头问 Dotty 是谁在搞婚外情",
+      "range": [
+        6468,
+        6543
+      ],
+      "line": 158
+    },
+    {
+      "id": "E22",
+      "action": "Dotty 说等会儿再告诉她，并挑眉——那两人显然就在附近",
+      "range": [
+        6595,
+        6615
+      ],
+      "line": 161
+    },
+    {
+      "id": "E23",
+      "action": "Caius 问是不是要做 gender reveal，想象不了 Dotty 放彩带气球",
+      "range": [
+        717,
+        777
+      ],
+      "line": 35
+    },
+    {
+      "id": "E24",
+      "action": "Callie 看着 Caius 与 Georgie/Nell 的整个场面，意识到 Caius 的职业迟早会严重影响他们的社交生活",
+      "range": [
+        8424,
+        8540
+      ],
+      "line": 215
+    },
+    {
+      "id": "E25",
+      "action": "Callie 的手机响了，是私人号码；她转语音信箱，对方再打，她让它响完，第三次再打，她说『周六晚上谁找我啊』",
+      "range": [
+        8541,
+        8590
+      ],
+      "line": 215
+    },
+    {
+      "id": "E26",
+      "action": "Dotty 抢过 Callie 的手机，假冒 Callie 的助理『Amelia』接听，自报『Calliope Foster Millinery, Amelia speaking』",
+      "range": [
+        8859,
+        8918
+      ],
+      "line": 224
+    },
+    {
+      "id": "E27",
+      "action": "Dotty 听出是 Eulalia，惊呼『Oh, my giddy aunt』",
+      "range": [
+        9157,
+        9174
+      ],
+      "line": 227
+    },
+    {
+      "id": "E28",
+      "action": "Dotty 说从 Vogue 某人那里拿到号码，对方喜欢 Callie、想要她",
+      "range": [
+        9245,
+        9338
+      ],
+      "line": 233
+    },
+    {
+      "id": "E29",
+      "action": "Callie 接过电话与 Eulalia 约周一 10 a.m.，并为助理（Amelia）没能按计划离开而道歉，给出邮箱地址",
+      "range": [
+        9922,
+        9954
+      ],
+      "line": 248
+    },
+    {
+      "id": "E30",
+      "action": "Georgie 介绍 Eulalia 的音乐：electro-pop、1980s 基线、歌词像 Kate Bush 的邪恶版，去年获 Mercury Prize 提名但落选，『她被抢了』",
+      "range": [
+        10980,
+        11050
+      ],
+      "line": 266
+    },
+    {
+      "id": "E31",
+      "action": "Callie 说 Eulalia 一直戴着巨大的疯头罩演出",
+      "range": [
+        11176,
+        11247
+      ],
+      "line": 272
+    },
+    {
+      "id": "E32",
+      "action": "Callie 说每个场地换一个头罩，没人知道她实际长什么样",
+      "range": [
+        11248,
+        11331
+      ],
+      "line": 272
+    },
+    {
+      "id": "E33",
+      "action": "Callie 说 Eulalia 要换下张专辑的视觉风格，请 Callie 帮忙 develop 整个概念",
+      "range": [
+        11426,
+        11542
+      ],
+      "line": 272
+    },
+    {
+      "id": "E34",
+      "action": "Callie 说这个 brief 像在造一个小世界、一整套视觉语言",
+      "range": [
+        12187,
+        12265
+      ],
+      "line": 290
+    },
+    {
+      "id": "E35",
+      "action": "Callie 承认自己有点不对劲（I feel a bit off）",
+      "range": [
+        12361,
+        12382
+      ],
+      "line": 302
+    },
+    {
+      "id": "E36",
+      "action": "Callie 说『至少你没说这是我的荷尔蒙』",
+      "range": [
+        12551,
+        12594
+      ],
+      "line": 308
+    },
+    {
+      "id": "E37",
+      "action": "Caius 问是不是荷尔蒙作祟，说她生理期像时钟一样准，今晚又是满月",
+      "range": [
+        12613,
+        12675
+      ],
+      "line": 311
+    },
+    {
+      "id": "E38",
+      "action": "Caius 让她吃披萨：『吃披萨吧，你这个疯狂的艺术天才性感忧郁的女人』",
+      "range": [
+        12696,
+        12754
+      ],
+      "line": 317
+    },
+    {
+      "id": "E39",
+      "action": "Callie 说希望这句能刻在自己墓碑上",
+      "range": [
+        12759,
+        12807
+      ],
+      "line": 320
+    },
+    {
+      "id": "E40",
+      "action": "Caius 说喝完这杯就停，明天是无聊的工作日，宿醉会更难受；问 Callie 要不要再来一杯",
+      "range": [
+        12885,
+        12983
+      ],
+      "line": 323
+    },
+    {
+      "id": "E41",
+      "action": "Callie 拒绝，说自己只喝水（l’eau）",
+      "range": [
+        13051,
+        13071
+      ],
+      "line": 326
+    },
+    {
+      "id": "E42",
+      "action": "Caius 对 Georgie 说工作压力大、没心思读书",
+      "range": [
+        7910,
+        7991
+      ],
+      "line": 206
+    },
+    {
+      "id": "E43",
+      "action": "叙述点出 Georgie 对『死亡临近』暗自兴奋",
+      "range": [
+        8006,
+        8072
+      ],
+      "line": 209
+    },
+    {
+      "id": "E44",
+      "action": "Caius 注意到 Nell 一直在看他，只给了个弱笑就转回去听 Georgie 说话",
+      "range": [
+        8139,
+        8182
+      ],
+      "line": 212
+    },
+    {
+      "id": "E45",
+      "action": "Dotty 开始挺着肚子走路（waddle）",
+      "range": [
+        4295,
+        4323
+      ],
+      "line": 110
+    },
+    {
+      "id": "E46",
+      "action": "Caius 问 Georgie 一周后还去不去他父母家（gaffe）",
+      "range": [
+        7359,
+        7419
+      ],
+      "line": 188
+    },
+    {
+      "id": "E47",
+      "action": "Caius 说这个 brief 对 Callie 可能是绝佳机会，因为她一直想不再做帽子（hat making）",
+      "range": [
+        11999,
+        12038
+      ],
+      "line": 287
+    },
+    {
+      "id": "E48",
+      "action": "Callie 回答 Dotty『你应该去当侦探』，并说 Caius 的大部分工作时间其实在填 paperwork，Dotty 永远不会",
+      "range": [
+        6206,
+        6271
+      ],
+      "line": 158
+    }
+  ],
+  "characters": [
+    {
+      "name": "Callie",
+      "role": "视角人物，帽子设计师，Caius 的伴侣"
+    },
+    {
+      "name": "Caius",
+      "role": "Callie 的伴侣；就职于凶案组（Georgie 打趣『Any good murders?』他说不能谈工作）"
+    },
+    {
+      "name": "Dotty",
+      "role": "Callie 的朋友；怀孕，与 Georgie 搬进 Petersham 新家；办 non-baby shower-cum-housewarming"
+    },
+    {
+      "name": "Georgie",
+      "role": "Dotty 的伴侣；烤肉、披萨、播放 bubblegum electro-pop；下午抽大麻；对『邻近死亡』暗自兴奋；是 Eulalia 的乐迷"
+    },
+    {
+      "name": "Nell",
+      "role": "Casper 的未婚妻；在场，『serious/books/books』；一直在看 Caius"
+    },
+    {
+      "name": "Casper",
+      "role": "在场的人；Dotty 问 Callie 是否与他发生过关系"
+    },
+    {
+      "name": "Harriet",
+      "role": "Callie 的朋友（提到：上一次在 Richmond 是她的订婚派对）"
+    },
+    {
+      "name": "Max",
+      "role": "Dotty 口中『Sodding Max』，Dotty 说他让她受罪，Caius 上镜时他也在场"
+    },
+    {
+      "name": "Dotty 的 Mummy",
+      "role": "给 Dotty 发消息称 Caius 可爱"
+    },
+    {
+      "name": "Eulalia",
+      "role": "戴巨大头罩的 electro-pop 歌手；Mercury Prize 提名者；打电话请 Callie 参与新专辑视觉概念，周一 10 a.m. 见面"
+    },
+    {
+      "name": "Amelia",
+      "role": "Callie 的（虚构的）助理；Dotty 冒名接电话时用的名字"
+    },
+    {
+      "name": "Calliope Foster / Calliope Foster Millinary",
+      "role": "Callie 的全名/生意名；Callie 说自己在做帽子（millinery）"
+    }
+  ],
+  "numbers_and_dates": [
+    {
+      "item": "上一次到 Richmond 是 Harriet 的订婚派对",
+      "verbatim": "I’ve just not been to Richmond since Harriet’s engagement party.",
+      "range": [
+        157,
+        221
+      ]
+    },
+    {
+      "item": "订婚持续的时长",
+      "verbatim": "The engagement lasted all of five weeks",
+      "range": [
+        357,
+        396
+      ]
+    },
+    {
+      "item": "新粉丝数",
+      "verbatim": "She’d been followed by nearly five hundred new people already.",
+      "range": [
+        3927,
+        3989
+      ]
+    },
+    {
+      "item": "与 Eulalia 约定的时间",
+      "verbatim": "Monday at 10 a.m. is no problem.",
+      "range": [
+        9922,
+        9954
+      ]
+    },
+    {
+      "item": "Dotty 说 Amelia 应该在两小时前离开",
+      "verbatim": "Amelia, yes I know you were supposed to leave two hours ago.",
+      "range": [
+        9698,
+        9758
+      ]
+    },
+    {
+      "item": "Eulalia 获 Mercury Prize 提名的时间",
+      "verbatim": "Nominated for the Mercury Prize last year. Didn’t win. She was robbed.",
+      "range": [
+        10980,
+        11050
+      ]
+    },
+    {
+      "item": "今晚是满月",
+      "verbatim": "Your body runs like clockwork and there’s a full moon tonight.",
+      "range": [
+        12613,
+        12675
+      ]
+    },
+    {
+      "item": "一周后去 Caius 父母家",
+      "verbatim": "Are you guys still coming up to my parents’ gaffe next week?",
+      "range": [
+        7359,
+        7419
+      ]
+    },
+    {
+      "item": "Caius 明天（周日）要上班",
+      "verbatim": "I’ve got a really boring day at work tomorrow and a hangover would make it a trillion times worse.",
+      "range": [
+        12885,
+        12983
+      ]
+    },
+    {
+      "item": "Georgie 整个下午在抽大麻",
+      "verbatim": "He’d been on the sess all afternoon.",
+      "range": [
+        2530,
+        2566
+      ]
+    },
+    {
+      "item": "派对从午饭就开始喝酒",
+      "verbatim": "They’ve been drinking since lunchtime",
+      "range": [
+        4545,
+        4582
+      ]
+    },
+    {
+      "item": "Callie 上次来 Richmond 之后的位置信息",
+      "verbatim": "meandered slowly through Richmond towards Petersham and Dotty and Georgie’s new place",
+      "range": [
+        269,
+        354
+      ]
+    }
+  ],
+  "observations_about_callie_state": [
+    "E1 开场即『Callie was tense / shoulders were braced / waiting for something terrible to happen』——紧张先于任何事件",
+    "E5 在车上就饿+恶心，未吃够东西",
+    "E9 对『查朋友房产』有道德不适感（feels dirty），用 incognito 掩护——凡事留退路、怕被看见",
+    "E14/E15 社交媒体上被人投射成『女仆/小姐』并被言语骚扰，她用『Instant block』处理——对被凝视与被定义的敏感",
+    "E24 观察到 Caius 在聚会上的处境后感到『他的职业会影响我们的社交生活』——观察欲与对未来的不安",
+    "E26 Dotty 擅自用『Amelia』身份代接电话，Callie 最初抗议（『Shit, pass me the phone』）但接手",
+    "E35/E36/E37/E39 不适感被 Caius 用玩笑消解，她以『墓志铭』自嘲收场——不适被转化为幽默而非求助",
+    "E34 把新工作机会说成『造一个小世界/一整套视觉语言』——把不安置换成创造欲"
+  ]
+}

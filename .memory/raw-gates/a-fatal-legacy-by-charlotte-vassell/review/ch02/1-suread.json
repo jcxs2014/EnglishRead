@@ -1,0 +1,540 @@
+{
+  "chapter": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch02_2.txt",
+  "char_len": 19843,
+  "plain_read_only": true,
+  "note": "R1 素读：先读且只读 text/ch02_2.txt，未打开本章 md、未看其它章 md。字符区间为 [起, 止) 字符位置。事件条数超出 5–8 下限，为 R3 对账保留动作级粒度（粒度到动作，未写气氛）。",
+  "events": [
+    {
+      "id": "E1",
+      "what": "Caius 给 Amy 与 Matt 两分钟时间，把昨天的事说一遍（同时计时）。背景：昨天女友 Callie 为 BBC 的 RHS Chelsea Flower Show 拍直播段，与 Monty Don 一起；Callie 的前男友 Max 在公司团建现场闯入、含糊地求婚、随后与 Caius 动手；Caius 手腕有石膏绷带仍迅速把他制服。全过程被拍到并在网上传开。",
+      "chars": [
+        469,
+        1027
+      ],
+      "evidence": "‘You have two minutes to say whatever you want,’ Caius said. ... Caius started the timer on his phone. ‘And then it won’t be mentioned again.’"
+    },
+    {
+      "id": "E2",
+      "what": "Amy 抢在 Matt 前发言：夸 Caius 好看、说他成了 meme（用他的脸配文字、病毒传播，供社会与文化上的资本），说已存了不少；Matt 赞他的衬衫、称 Monty Don 是 ‘A consummate professional’、说他拿六位数薪水；Caius 说自己 35 岁不是 85 岁，问是哪种 meme。Amy 说他的爆火图多为 ‘not today, Satan’ 一类，gay 圈与 girlie 圈都在集体下头。",
+      "chars": [
+        1027,
+        2362
+      ],
+      "evidence": "‘Firstly, you looked stellar.’ / ‘Thirdly, are you aware that you’ve become a meme?’ / ‘Amy, I’m thirty-five not eighty-five,’ Caius said"
+    },
+    {
+      "id": "E3",
+      "what": "关于昨晚的收尾：Amy 说 Callie 的妈妈当时得拉住她；镜头一停，她已经脱了鞋要打 Max，妈妈劝她说「他们太漂亮了，不能冒险弄伤」。Amy 调侃 Max 至少没跟她决斗；Matt 说愿意当她的第二把手。Caius 说 Callie 父亲的律师要给 Max 发 cease and desist 函；他为自己毁了 Callie 的大场面而不安；Matt 说是 Max 自己跳到镜头前。",
+      "chars": [
+        2362,
+        3144
+      ],
+      "evidence": "‘Once the cameras stopped my mum had to hold her back from Max. She’d taken her shoe off and was going to hit him.’ / ‘Callie’s dad’s solicitor is going to send Max a cease and desist letter.’"
+    },
+    {
+      "id": "E4",
+      "what": "计时器响，Caius 钻过警戒线，向门口制服警员报出死者信息：男性、三十多岁中段，名叫 Digby Combe-Watson，是这座「恐怖小博物馆」的 owner-curator。Matt 念出门口的牌子：The Horatio Combe Institute；楼很破、旧漆剥落。Caius 说这是「anthropological nightmare」：Horatio Combe 是维多利亚时代冒险家那一类，爱收集文物与异域动物的标本（taxidermy），楼梯顶上有一只看起来脏兮兮的袋鼠；制服警员已在广场上查访目击者。",
+      "chars": [
+        3144,
+        4099
+      ],
+      "evidence": "‘Right, male, mid-thirties. His name is Digby Combe-Watson and he was the owner-curator of this little museum of horrors.’ / ‘It’s an anthropological nightmare,’ Caius said"
+    },
+    {
+      "id": "E5",
+      "what": "进门：门厅里木制募捐/收费箱钉在墙上，正面用金漆写着 ‘10 shillings entrance fee’；Amy 往里看了看，箱子是空的；她戴手套从小桌拿起一份参观指南。进客厅后法医正在爬着勘查。",
+      "chars": [
+        4099,
+        4590
+      ],
+      "evidence": "‘10 shillings entrance fee’ was written in gold paint on the front. Amy checked inside. It was empty. Wearing gloves, she picked up a guide to the house and its contents"
+    },
+    {
+      "id": "E6",
+      "what": "法医 Barry（队里最受欢迎的验尸官）正在拉上尸袋，说死因是 Hemlock（毒芹）。Matt 说这很老派、像苏格拉底。Barry 说自己闻得出：毒芹是胡萝卜科，叶子容易和 carrot tops、欧芹或莳萝混淆，但味道刺鼻，像鼠患或腐烂的欧防风，musty，他周末常去野采所以知道要避开。",
+      "chars": [
+        4590,
+        5577
+      ],
+      "evidence": "‘Hemlock,’ Barry said. / ‘I can smell it,’ Barry said, pointing to the salad bowl in the middle of the table ... Hemlock is a member of the carrot family ... It stinks though. It’s a bit like a mouse infestation or rotting parsnips."
+    },
+    {
+      "id": "E7",
+      "what": "Barry 说 Combe-Watson 一边口袋有一包拆开的纸巾、另一边口袋有一包薄荷止咳糖（因此闻不出毒芹味）；Amy 猜他习惯鼠尿味。Barry 说他会做常规检测但预计不会有意外，并说死者「看起来」是傍晚早些时候死的，大约晚上 7 点到 9 点之间；尸体由两名法医技术员抬走。",
+      "chars": [
+        5370,
+        5823
+      ],
+      "evidence": "‘Mr Combe-Watson had an open pack of tissues in one pocket and a packet of menthol cough sweets in the other,’ Barry said. / ‘By the looks of him he died in the early evening. I’d say somewhere between 7 and 9 p.m.’"
+    },
+    {
+      "id": "E8",
+      "what": "餐桌为两人布置：桌中一小瓶花、烧尽的烛台留下冷却的蜡流、水壶里的冰已全化、一瓶开着的红酒醒了一夜；两个盘子上是同一种沙拉。Amy 指出另一人主要吃面包：Digby 那边盘里有一个面包卷、客人那边只剩碎屑，是一个带罂粟籽旋纹的高级面包。",
+      "chars": [
+        5823,
+        6611
+      ],
+      "evidence": "‘Dinner time. The table was set for two,’ Caius said ... ‘The same salad on both plates.’ / ‘The other person filled up on bread,’ Amy said ... just crumbs on his guest’s. ‘It’s a fancy one too with poppy seeds in a swirl.’"
+    },
+    {
+      "id": "E9",
+      "what": "Matt 问这是不是约会布置（但他觉得发毛），并走向一个他以为是 doll heads 的柜子；Amy 翻指南后说是 mokomokai——来自新西兰的缩小人头。",
+      "chars": [
+        6611,
+        7120
+      ],
+      "evidence": "‘Is this a romantic set-up? It looks like it should be and yet I’ve got the heebies,’ Matt said ... He wandered over to a cabinet of what he thought were doll heads. / ‘Those are mokomokai.’"
+    },
+    {
+      "id": "E10",
+      "what": "Caius 说 Digby 不住在这里，整栋房子的东西都是他曾曾曾祖父（great-whatever-grandad）的；因此未必是约会，可能是工作关系——博物馆受托人？捐赠人？",
+      "chars": [
+        7120,
+        7478
+      ],
+      "evidence": "‘Digby didn’t live here.’ Caius grimaced. ... ‘The whole house is his great-whatever-grandad’s stuff. It might not have been a date. A work thing, maybe? A trustee for the museum? A donor?’"
+    },
+    {
+      "id": "E11",
+      "what": "Amy 问谁发现的尸体。Caius 查笔记：Willow Bell，King's College 的历史系学生，周六在这里实习；她来上班时发现他；博物馆前门异常地开着，她直接走了进去；她正在去警察局的路上，要先喝杯茶再做正式笔录；Caius 马上过去。",
+      "chars": [
+        7478,
+        7871
+      ],
+      "evidence": "‘Willow Bell, she’s a history student at King’s College and interns on Saturdays,’ Caius said, checking his notes. ... The front door to the museum was unusually left open and she just walked straight in."
+    },
+    {
+      "id": "E12",
+      "what": "安防为零：Matt 在屋里找常见的安防系统没找到；Caius 说没有摄像头、没有警报，什么都没有，只有一把带钥匙的锁。关于失窃：Caius 说如果这里有高价值物品保险公司会要求他们采取防护措施，而这里完全没有安保；展品共两层，阁楼里有 Horatio Combe 的藏书。",
+      "chars": [
+        7871,
+        8424
+      ],
+      "evidence": "‘No cameras, or alarms, nothing. Just a lock with a key.’ / ‘Their security measures are non-existent,’ Caius said ... ‘There’s two floors of exhibits and the attic contains Horatio Combe’s library.’"
+    },
+    {
+      "id": "E13",
+      "what": "后屋办公室：桌上有一盒 Lemsip、一盘凝固的烤鸡、两片巴斯克芝士蛋糕，正被法医技术员取走送检。Caius 让 Amy 等法医做完后翻看死者的文件；又问技术员死者手机是否找到——回答「还没有」。",
+      "chars": [
+        8424,
+        9093
+      ],
+      "evidence": "On his desk was a box of Lemsip, a congealed rotisserie chicken on a plate and two slices of Basque cheesecake. / ‘Sorry to interrupt, has the victim’s phone been found?’ / ‘Not yet, sir,’ the masked figure replied"
+    },
+    {
+      "id": "E14",
+      "what": "Caius 让 Matt 先摸清建筑布局，判断凶手很可能从敞开的前门进出，并找出其它可能性。他话没说完就被窗外的喧闹打断。",
+      "chars": [
+        9093,
+        9569
+      ],
+      "evidence": "‘Get a feel for the building’s layout. I think it’s likely Digby’s killer came in and out through the open front door but try and work out if there are any other options.’"
+    },
+    {
+      "id": "E15",
+      "what": "窗外是三名举着标语牌的毛利人抗议者。抗议理由：该研究所多次拒绝本国政府关于把不道德留存的人类遗骨归还 Aotearoa 的请求。三人自我介绍为 Kahurangi、Tākuta、Rawiri。不是每天都来：Kahurangi 周六上午来、下午带儿子去游泳课，他是 Kingston 一家 GP 诊所的护士；Rawiri 在 City 的银行全职；Tākuta 在 UCL 教物理。",
+      "chars": [
+        9569,
+        10534
+      ],
+      "evidence": "‘The Horatio Combe Institute has refused multiple requests from our government to return human remains unethically kept here to Aotearoa,’ said one of the group. / The group introduced themselves as Kahurangi, Tākuta and Rawiri. / ‘I work in a bank in the City full-time,’ said Rawiri. / ‘I lecture in physics at UCL,’ said Tākuta."
+    },
+    {
+      "id": "E16",
+      "what": "Caius 给抗议者看 Digby 的照片（取自研究所网站）。Rawiri 说「他终于把你们叫出来了」；Kahurangi 说几个月前他威胁要报警，因为他们影响了他的访客；Tākuta 说过去三个月每个周六早上都在这里、一个人也没有；Rawiri 说只有那个「对我们眨眼的好姑娘」；Tākuta 交上一份请愿书，Caius 看后交还；Caius 请他们回答同事的问题；Kahurangi 问为什么；Caius 回答「Digby Combe-Watson is dead.」",
+      "chars": [
+        10534,
+        11310
+      ],
+      "evidence": "‘A couple of months ago he threatened to call the police on us because we were upsetting his visitors,’ said Kahurangi. / ‘What visitors? We’ve been here every Saturday morning for the last three months, and not a soul,’ said Tākuta. / ‘Only that nice girl who winks at us when she goes on her break,’ said Rawiri. / ‘Digby Combe-Watson is dead.’"
+    },
+    {
+      "id": "E17",
+      "what": "（分隔符 *** 之后）Matt 说三名抗议者互相作了不在场证明——他们当时在 Covent Garden 的 Wagamama 谈策略；他们已决定发起写信运动；mokomokai 原本被保存下来是为了纪念祖先、展示有特定含义的纹身，存放在特殊的仪式空间，英国人到来后把它们当作奇物买走，事情就变味了。Matt 认为他们「pretty chill」，没有真正的动机。",
+      "chars": [
+        11310,
+        11942
+      ],
+      "evidence": "‘The protestors alibied each other. They were talking strategy in the Covent Garden Wagamama,’ Matt said ... ‘Apparently, the mokomokai were preserved as a way to honour their ancestors by showcasing their tattoos which have specific meanings attached to them.’ / ‘They were pretty chill. No real motive.’"
+    },
+    {
+      "id": "E18",
+      "what": "Matt 汇报物证勘察结果：建筑（及推测他的住宅）的钥匙在死者书桌抽屉里，法医已接触检验；没有车钥匙； overgrown 后花园小径上横着一辆破旧自行车，他猜死者从后巷进来把车扔在那；后门和大门都没锁。后巷：各家把垃圾桶堆在那（有一桶溢出的尿布在热天里发熟），可以不被察觉地进出。摄像头：有几户人家有，但没对着巷子的，都在花园里朝大门方向，因为拍摄公共通行权需要规划许可；巷子通到主路，对面是游乐场，所以入口没有视线。Caius 说那么晚餐客人可能从后门来去；Matt 说那正是 gut 的感觉。",
+      "chars": [
+        11942,
+        12885
+      ],
+      "evidence": "‘Digby’s keys for the building, and presumably his house, were in a drawer in his desk.’ / ‘No car keys, but there is a very battered-looking bike splayed across the path in the overgrown back garden.’ / ‘The back door and the gate were both unlocked.’ / ‘You could get in and out unnoticed.’"
+    },
+    {
+      "id": "E19",
+      "what": "两人闲聊凶手与晚餐客人的关系：Matt 说直觉是生意往来（这里太瘆人），除非是追 goth；两人讨论 goth/scene kid/emo：Amy 说戴黑帽的是 scene kid，太酷算不上 emo，妈妈也不会让他去；Caius 说自己 15 岁第一任女友是 emo，被一个把头发偏分抹平的叫 Dan 的人甩了，多年后在 King's Cross 看到那人已秃顶仍是同一个发型，「geriatric emo comb-over」；Amy 回「Rawr」；Caius 说 2006 年差点在手指上纹一个 moustache。Caius 看着手里的钥匙说 Digby 住处在 Dollis Hill，今天要过去一趟。",
+      "chars": [
+        13173,
+        14348
+      ],
+      "evidence": "‘Gut says business; it’s too creepy in here.’ / ‘I was a scene kid. I was too cool to even be an emo, and I doubt my mum would’ve let me.’ / ‘I nearly got a tattoo of a moustache on my finger in 2006.’ ‘Digby’s place is in Dollis Hill. We need to get over there today.’"
+    },
+    {
+      "id": "E20",
+      "what": "Amy 下楼后玩「博物馆只拿一样东西」的游戏：她说自己什么都不要（Nada. Zilch.），因为夹层上那只袋鼠的玻璃眼珠歪了、成了斗鸡眼；她已翻完整本参观指南，指南中标为藏品亮点的应是要紧或有价值的东西，指南提到的都在，没被拿走明显的东西。",
+      "chars": [
+        14348,
+        15357
+      ],
+      "evidence": "‘Nothing. Nada. Zilch. The glass eyes on the kangaroo on the mezzanine are crooked and the poor beast is cross-eyed.’ / ‘You have to assume the items included as collection highlights are important or valuable’ ... ‘Nothing obvious has been taken.’"
+    },
+    {
+      "id": "E21",
+      "what": "Amy 说阁楼「图书馆」里有一本 ledger（分类账/名录）。Caius 让她逐项核对是否都在，不只是亮点，并会派一名制服警员协助。",
+      "chars": [
+        15357,
+        15717
+      ],
+      "evidence": "‘There’s a ledger in the attic “library”.’ / ‘Great, go through it and just check that everything’s here, not just the highlights. I’ll assign a uniformed officer to help.’"
+    },
+    {
+      "id": "E22",
+      "what": "Caius 发现楼梯下有一扇门，拧把手打不开；Amy 说她没试过，但有人把门漆死了。Caius 说这是联排住宅，厨房和食品储藏室应该在下层；他看门上的漆痕并根据地上的漆屑判断是不久前有人试图开过门。他让 Matt 叫法医彻底查这扇门。",
+      "chars": [
+        15717,
+        16057
+      ],
+      "evidence": "‘Someone’s painted the door shut,’ Amy said. / ‘It’s a town house. The kitchen and the pantry should be down there.’ / judging by the flecks of paint on the floor, recently too. ‘Matt, ask forensics to give the door a proper once over.’"
+    },
+    {
+      "id": "E23",
+      "what": "Caius 带钥匙走下台阶到广场，穿过铁门再下地下室台阶：一把沉重的黄铜钥匙能插进锁里，但门仍然推不开。他对楼上 Amy 喊「这里的门也被漆死了」，并得出结论：如果他们进不去，凶手也进不去。",
+      "chars": [
+        16057,
+        16546
+      ],
+      "evidence": "A heavy brass key fit the lock but again he couldn’t get the door to budge. / ‘The door’s been painted shut here too.’ / ‘If we can’t get in then the killer couldn’t either.’"
+    },
+    {
+      "id": "E24",
+      "what": "Matt 问是否去 Dollis Hill，Caius 答「Station first」，随即撞上一个年轻女子，把她撞倒并扶住（用的是受伤那条手臂，隐隐作痛，怀疑是恢复不足而非新伤）；他僵住并道歉。她是金发（头发盘成乱髻、戴一顶素黑棒球帽压低眼睛）、衣着松垮黯淡，但帽檐下眼里有好奇的亮光。Caius 说自己是 DI Caius Beauchamp、有人死亡；她说「Oh, I see. How terrible.」并说自己住在附近但什么也不知道；他脸红，她转身回头看他。",
+      "chars": [
+        16546,
+        18473
+      ],
+      "evidence": "‘Station first,’ Caius said, turning quickly towards the car and straight into a young woman. She fell backwards and he caught her. He used his dodgy arm. / ‘Yes. DI Caius Beauchamp.’ / ‘Oh, I see. How terrible.’"
+    },
+    {
+      "id": "E25",
+      "what": "一位抱着小狗的女子（Mrs Bourne，小狗叫 Halloumi）上前询问，说看到广场上停满警车，感叹这一带一向安全；她说自己住在博物馆隔壁。Caius 看向她——端着一只印着青蛙图案的咖啡杯，灰棕挑染头发扎紧马尾，面部异常平静不动，穿藕粉色内衣与紧身裤的运动套装；他把问题交给 DC Noakes（Amy）来问昨天傍晚的事。",
+      "chars": [
+        18473,
+        19653
+      ],
+      "evidence": "‘Excuse me.’ A woman carrying a small dog ... ‘What’s happened? I’ve seen all the vans parked all over the square this morning.’ / ‘I live next door to the museum thingy.’ / ‘My colleague here would love to ask you a few questions, Miss …’ / ‘Mrs, bless you, Mrs Bourne. Did you hear that, Halloumi. The handsome police officer thought Mummy was eighteen.’ / ‘DC Noakes here will ask you a few questions about yesterday evening.’"
+    },
+    {
+      "id": "E26",
+      "what": "结尾：被 Caius 冲撞的那名金发年轻女子从广场花园里的一棵木兰树后探出身，看着他离开，希望他会回来。",
+      "chars": [
+        19653,
+        19843
+      ],
+      "evidence": "The flaxen-haired young woman Caius had discourteously collided with peeked out from behind one of the magnolia trees in the garden in the square. She watched him leave, hoping he’d return."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Caius Beauchamp",
+      "role": "DI（本案主办探员）",
+      "relations": "Callie 的男友；与 Max 交手并打伤他；Amy 与 Matt 的上级/同事",
+      "chars": [
+        469,
+        19843
+      ]
+    },
+    {
+      "name": "Matt",
+      "role": "警员，同事",
+      "relations": "与 Caius、Amy 同行；从后巷进入勘查；开警车；年轻时是 scene kid",
+      "chars": [
+        1027,
+        16546
+      ]
+    },
+    {
+      "name": "Amy (DC Noakes)",
+      "role": "警探，同事",
+      "relations": "与 Caius、Matt 同行；接手问 Mrs Bourne；翻阅死者文件与藏品名录",
+      "chars": [
+        1027,
+        19653
+      ]
+    },
+    {
+      "name": "Digby Combe-Watson",
+      "role": "死者，The Horatio Combe Institute 的 owner-curator",
+      "relations": "Horatio Combe 的后代；Willow Bell 在其岗位发现他",
+      "chars": [
+        3144,
+        19653
+      ]
+    },
+    {
+      "name": "Horatio Combe",
+      "role": "已故，维多利亚时代冒险家/收藏家",
+      "relations": "Digby 的 great-whatever-grandad；其藏品与藏书构成研究所",
+      "chars": [
+        3686,
+        8424
+      ]
+    },
+    {
+      "name": "Barry",
+      "role": "法医（队里最受欢迎的验尸官）",
+      "relations": "向 Caius、Matt、Amy 通报死因与死亡时间",
+      "chars": [
+        4590,
+        5823
+      ]
+    },
+    {
+      "name": "Willow Bell",
+      "role": "发现尸体的目击者",
+      "relations": "King's College 历史系学生，周六在此实习",
+      "chars": [
+        7508,
+        7871
+      ]
+    },
+    {
+      "name": "Kahurangi",
+      "role": "毛利抗议者",
+      "relations": "抗议团成员；Kingston GP 诊所护士；带儿子去游泳课",
+      "chars": [
+        9952,
+        11310
+      ]
+    },
+    {
+      "name": "Tākuta",
+      "role": "毛利抗议者",
+      "relations": "抗议团成员；UCL 物理讲师；交出请愿书",
+      "chars": [
+        9952,
+        11310
+      ]
+    },
+    {
+      "name": "Rawiri",
+      "role": "毛利抗议者",
+      "relations": "抗议团成员；City 银行职员；提到「眨眼的好姑娘」",
+      "chars": [
+        9952,
+        11310
+      ]
+    },
+    {
+      "name": "Callie",
+      "role": "Caius 的女友",
+      "relations": "BBC Chelsea Flower Show 直播嘉宾；Max 的前女友",
+      "chars": [
+        469,
+        3144
+      ]
+    },
+    {
+      "name": "Max",
+      "role": "Callie 的前男友",
+      "relations": "闯入直播求婚、与 Caius 打架；将收到 cease and desist 函",
+      "chars": [
+        469,
+        3144
+      ]
+    },
+    {
+      "name": "Monty Don",
+      "role": "BBC 园艺节目主持人",
+      "relations": "与 Callie 同框直播；被 Matt 称为 ‘A consummate professional’",
+      "chars": [
+        469,
+        2342
+      ]
+    },
+    {
+      "name": "Mrs Bourne",
+      "role": "邻居",
+      "relations": "住在博物馆隔壁；带小狗 Halloumi；接受 Amy 的问话",
+      "chars": [
+        18473,
+        19653
+      ]
+    },
+    {
+      "name": "金发年轻女子（未具名）",
+      "role": "被 Caius 撞到的女子",
+      "relations": "自称认识 Caius；住在附近；对死亡表示 ‘How terrible’；结尾从木兰树后观察 Caius 离开",
+      "chars": [
+        16546,
+        19843
+      ]
+    },
+    {
+      "name": "Callie 的母亲",
+      "role": "Callie 的母亲",
+      "relations": "镜头停后拉住 Callie、劝她别打 Max（说两人太漂亮不能冒险弄伤）",
+      "chars": [
+        2342,
+        3144
+      ]
+    },
+    {
+      "name": "Callie 的父亲（未出场）",
+      "role": "Callie 的父亲",
+      "relations": "其律师将给 Max 发 cease and desist 函",
+      "chars": [
+        2362,
+        3144
+      ]
+    }
+  ],
+  "numbers_and_dates": [
+    {
+      "value": "two minutes",
+      "context": "Caius 给 Amy 与 Matt 的发言时限（计时器）",
+      "chars": [
+        469,
+        1027
+      ]
+    },
+    {
+      "value": "BBC’s RHS Chelsea Flower Show",
+      "context": "昨天 Callie 拍直播的节目",
+      "chars": [
+        469,
+        1027
+      ]
+    },
+    {
+      "value": "thirty-five not eighty-five",
+      "context": "Caius 对 Amy 的年龄回应",
+      "chars": [
+        2342,
+        2362
+      ]
+    },
+    {
+      "value": "10 shillings entrance fee",
+      "context": "研究所门厅木箱上的金漆字",
+      "chars": [
+        4099,
+        4309
+      ]
+    },
+    {
+      "value": "Hemlock（毒芹）",
+      "context": "Barry 给出的死因",
+      "chars": [
+        4590,
+        4832
+      ]
+    },
+    {
+      "value": "7 and 9 p.m.",
+      "context": "Barry 估计的死亡时间区间",
+      "chars": [
+        5577,
+        5823
+      ]
+    },
+    {
+      "value": "two forensic technicians",
+      "context": "抬走尸体的技术员人数",
+      "chars": [
+        5577,
+        5823
+      ]
+    },
+    {
+      "value": "set for two",
+      "context": "餐桌为两人布置",
+      "chars": [
+        5823,
+        6233
+      ]
+    },
+    {
+      "value": "two floors of exhibits / the attic",
+      "context": "研究所的楼层结构，阁楼是 Horatio Combe 的藏书",
+      "chars": [
+        8112,
+        8424
+      ]
+    },
+    {
+      "value": "A couple of months ago",
+      "context": "Digby 威胁报警抗议者的时间",
+      "chars": [
+        10754,
+        10922
+      ]
+    },
+    {
+      "value": "last three months",
+      "context": "Tākuta 说每个周六早上都在",
+      "chars": [
+        10876,
+        10990
+      ]
+    },
+    {
+      "value": "2006",
+      "context": "Caius 差点在手指上纹 moustache 的年份",
+      "chars": [
+        14179,
+        14348
+      ]
+    },
+    {
+      "value": "fifteen",
+      "context": "Caius 第一任女友是 emo 时的年龄",
+      "chars": [
+        14179,
+        14348
+      ]
+    },
+    {
+      "value": "Dollis Hill",
+      "context": "Digby 的住处所在地",
+      "chars": [
+        14179,
+        14348
+      ]
+    },
+    {
+      "value": "King’s College / Kingston / UCL / Covent Garden Wagamama",
+      "context": "Willow Bell 的学校；Kahurangi 的诊所所在地；Tākuta 的授课机构；抗议者碰面地点",
+      "chars": [
+        7508,
+        12500
+      ]
+    },
+    {
+      "value": "second most beautiful woman he’d seen that day",
+      "context": "Caius 对金发女子的内心评价",
+      "chars": [
+        16546,
+        18473
+      ]
+    },
+    {
+      "value": "a pocket of tissues / a packet of menthol cough sweets",
+      "context": "死者两边的口袋物品",
+      "chars": [
+        5370,
+        5577
+      ]
+    }
+  ],
+  "two_threads_observed": {
+    "crime_scene": "到达 → 辨认尸体与死因（hemlock）→ 死亡时间 7–9 p.m. → 餐桌为两人 → mokomokai / 死因与发现人 → 无安防 → 办公室物品与失踪的手机 → 钥匙 / 后巷 / 无摄像头 → 漆死的地下室门 → 藏品清单与 ledger",
+    "watched_thread": "抗议者在广场上被人远远看着（三人自称只在周六上午来、有不在场证明）；结尾金发女子从木兰树后观察 Caius 离开、希望他回来",
+    "note": "抗议者线与金发女子线在原文中是两条独立的「被注视」线，md 若只写一条即漏"
+  }
+}
