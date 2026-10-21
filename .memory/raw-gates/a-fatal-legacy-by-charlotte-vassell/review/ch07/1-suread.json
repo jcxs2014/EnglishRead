@@ -1,0 +1,110 @@
+{
+  "chapter": "ch07",
+  "source": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch07_7.txt",
+  "source_chars": 14161,
+  "read_order": "素读完成（仅 text/ch07_7.txt），未开 md、未看别章 md",
+  "sections_in_source": [
+    {"heading": "The Police Station", "range": [17, 17]},
+    {"heading": "分部 A SUNDAY IN MAY", "range": null, "note": "源文本中未出现该小标题字样；源文本只有 The Police Station 一个显式标题 + 四处 * * * 分隔段"}
+  ],
+  "beats": [
+    {
+      "id": "B1",
+      "who": "Caius",
+      "what": "泡绿茶（绿茶放在自己桌上/柜子里「kept it in his locker for his own personal usage in desperate situations」），听 Foreign Office 说领事联系不上 Fenella Combe-Watson（她去参加灵性静修、没给旅馆留信息），怕她从「third cousin's Facebook post」得知消息，于是放 Matt 的 jungle playlist，播放对面广场的门铃摄像头录像",
+      "range": [39, 555],
+      "verbatim_snippet": "He started playing Matt’s most exulted jungle playlist and pressed play on the doorbell cam footage from across the square."
+    },
+    {
+      "id": "B2",
+      "who": "Caius",
+      "what": "因为 Barry 说死亡发生在 7 p.m.–9 p.m. 之间，所以从 2 p.m. 起以双倍速回看，只截图「走向 Horatio Combe Institute」的人；能看到轮廓、身高体格、穿戴携带物",
+      "range": [897, 1118],
+      "verbatim_snippet": "Barry had said that the death occurred somewhere between 7 p.m. and 9 p.m., so he began watching from 2 p.m. on double speed, screenshotting anyone walking towards the Horatio Combe Institute."
+    },
+    {
+      "id": "B3",
+      "who": "Caius",
+      "what": "看到 Willow 如她所述往返、抱着一本书离开，暂无可疑人；随后（看过 6.30 p.m. 之后、音乐第三次循环时）看到一名穿 oversized cardigan + 深色宽松牛仔裤、深色波波头的女人，长得极像实习生 Willow Bell",
+      "range": [1090, 1549],
+      "verbatim_snippet": "a woman wearing an oversized cardigan and a pair of dark, baggy jeans. Her dark hair was cropped into a bob. She looked remarkably like Willow Bell, the intern."
+    },
+    {
+      "id": "B4",
+      "who": "Caius",
+      "what": "把空的文件夹「砰」地放桌上（里面什么都没有，只是要让 Willow 以为里面有东西），重走一遍正式流程，把 Willow 叫回警局短通知问话",
+      "range": [1717, 1750],
+      "verbatim_snippet": "He put a large folder on the table. It thudded ominously. There wasn’t anything in the folder, but he wanted Willow to think there was."
+    },
+    {
+      "id": "B5",
+      "who": "Caius",
+      "what": "问 Willow 周五 6.30 p.m. 左右在哪；听到她说在 Harpenden 父母家、父亲周五退休、cricket club 办派对、她从 St Pancras 坐火车、周六早上八点前被母亲送到车站后，问她身高，得到「Five foot two」，随即暂停问话去走廊问 Amy 身高，得到「Five foot five」，并让 Tiny Simm 在同一地点给 Amy 拍照、等 5 分钟发来",
+      "range": [2026, 3921],
+      "verbatim_snippet": "She was diminutive. ‘Willow, how tall are you?’ … ‘Five foot two.’ … ‘Five foot five.’"
+    },
+    {
+      "id": "B6",
+      "who": "Caius",
+      "what": "问 Willow 是否有狂热粉丝（DMs、亲自出现），并指出「Isolde 冒用身份」的可能；Caius 说「There’s no evidence to suggest so」但让她注意异常者并来电；同时把前一天找到的 Isolde 的信交 forensics 做指纹与信封唾液检测",
+      "range": [5026, 6467],
+      "verbatim_snippet": "Caius had given the letters from Isolde that he’d found yesterday to forensics to fingerprint and to test the envelopes for saliva."
+    },
+    {
+      "id": "B7",
+      "who": "Amy + Caius",
+      "what": "Amy 回到警局，Caius 把门铃摄像头截图与 Tiny Simm 拍的同地点的 Amy 照片并排比较，说这个人比 Willow 高几英寸、比 Amy 也高几英寸；Caius 认为是「prank」，但代价太大（设 PO Box、连续数周写信给 Digby）；提出「Willow 的前男友」假设，Willow 否认并说已把对方甩了（Ex），Tom 是海洋生物学家，在 Cornwall 跟导师追踪 basking sharks 待了八个月，在 Penzance，不可能安排这种事",
+      "range": [6357, 8668],
+      "verbatim_snippet": "‘You’re a couple of inches taller than Willow and this person is a couple of inches taller than you,’"
+    },
+    {
+      "id": "B8",
+      "who": "Caius",
+      "what": "在 Willow 面前展示截图问她认不认识，Willow 说画面很 grainy、可能只是广场居民；问话结束后 Willow 交出指纹以便从犯罪现场排除，Caius 建议她回 Harpenden 父母家住一段时间；Amy 把模糊截图钉到事件板上用记号笔写上『Isolde?』；Caius 说除她之外没人在约定时间走向 Institute（『appointed time for the date』），并称另有 10 人在 Digby 死前两小时走过；分析：Isolde 装扮成「最可能发现尸体的人」，若有人在外面盯着房子（邻居或抗议者），大概只会看到一个深色波波头和巨大开衫，有身高差但从广场对面瞥一眼可能会当成 Willow 晚班；判断 Isolde 必须已经盯着 Institute 一阵子了；Amy 补充 Willow 说自己很小心不泄露行踪，且提到 "parasocial relationships"；Caius 说要再去定位 Isolde 离开的录像",
+      "range": [10862, 14161],
+      "verbatim_snippet": "Isolde dressed up as the person who they likely knew would find the body."
+    }
+  ],
+  "character_relations": [
+    {"a": "Caius", "b": "Amy", "rel": "同事（同属查案方，本章一起比对录像与照片）"},
+    {"a": "Caius", "b": "Willow Bell", "rel": "Caius 问话、调查的实习生/嫌疑人方向"},
+    {"a": "Caius", "b": "Tiny Simm", "rel": "与 Amy 同行者；受 Caius 委托在广场同地点拍 Amy 照片"},
+    {"a": "Caius", "b": "Matt", "rel": "同事/朋友，提供 jungle playlist（本书主角组）"},
+    {"a": "Callie", "b": "Caius", "rel": "同组，本周烤了 flapjacks 给 Caius"},
+    {"a": "Willow Bell", "b": "Digby (Mr Combe-Watson)", "rel": "实习关系；Digby 曾请她 pub 喝一杯，她否认有进一步接触"},
+    {"a": "Willow Bell", "b": "Tom", "rel": "前男友，已分手；海洋生物学家"},
+    {"a": "Isolde", "b": "Digby", "rel": "以 Isolde 身份写信给 Digby（设 PO Box），本周疑似假扮 Willow 出现在录像中"},
+    {"a": "Fenella Combe-Watson", "b": "Digby", "rel": "同姓/疑亲属，Caius 担心她从社媒得知消息"},
+    {"a": "Barry", "b": "Caius", "rel": "提供死亡时间窗（7–9 p.m.）的信息来源"},
+    {"a": "Māori protestors", "b": "Willow", "rel": "在 Institute 附近活动的抗议者，被 Willow 与 Caius 提为可能知情者"},
+    {"a": "广场对面的女孩", "b": "Willow", "rel": "午餐时在广场聊爱情小说的邻居/路人"},
+    {"a": "Amy", "b": "Isolde", "rel": "Amy 打字写上『Isolde?』，全案假定录像中人就是 Isolde"}
+  ],
+  "numbers_and_dates_verbatim": [
+    {"item": "死亡时间窗", "verbatim": "Barry had said that the death occurred somewhere between 7 p.m. and 9 p.m.", "range": [897, 965]},
+    {"item": "回看起点", "verbatim": "so he began watching from 2 p.m. on double speed", "range": [966, 1012]},
+    {"item": "看到可疑人时点", "verbatim": "He had watched up to 6.30 p.m.", "range": [1382, 1412]},
+    {"item": "音乐第三次循环", "verbatim": "Matt’s playlist had looped around to ‘Incredible’ by M-Beat and General Levy for a third time", "range": [1413, 1512]},
+    {"item": "问话时间", "verbatim": "‘Willow, where were you Friday evening at around 6.30 p.m.?’", "range": [2026, 2079]},
+    {"item": "周末活动", "verbatim": "My dad retired on Friday. We had a big party at the cricket club to celebrate that evening.", "range": [2256, 2343]},
+    {"item": "行程", "verbatim": "I caught the train from St Pancras mid-afternoon after I’d picked up my book for my essay. My mum dropped me off at the station before eight o’clock on Saturday morning.", "range": [2344, 2519]},
+    {"item": "开衫数量", "verbatim": "I have six of this specific cardigan, in different colours, and twenty-two others. Practically one for each day of the month.", "range": [2928, 3059]},
+    {"item": "鞋", "verbatim": "I have three pairs of the same shoes in different leathers.", "range": [3060, 3119]},
+    {"item": "Willow 身高", "verbatim": "‘Five foot two.’", "range": [3483, 3499]},
+    {"item": "Amy 身高", "verbatim": "‘Five foot five.’", "range": [3854, 3871]},
+    {"item": "等待时间", "verbatim": "then waited five minutes for them to send it over", "range": [3900, 3946]},
+    {"item": "地域人气", "verbatim": "I’m really popular in Taiwan. I’m the rainbow cardigan girl.", "range": [4253, 4312]},
+    {"item": "PO Box 与写信时长", "verbatim": "Setting up a PO Box and corresponding with Digby by letter for weeks.", "range": [6373, 6443]},
+    {"item": "Tom 在 Cornwall 时长", "verbatim": "He’s been in Cornwall for the last eight months with his tutor tracking basking sharks.", "range": [8256, 8345]},
+    {"item": "six weeks 前", "verbatim": "It might have just been one slip-up on a story six weeks ago.", "range": [13809, 13869]},
+    {"item": "截图人数", "verbatim": "I’ve got screenshots of ten other people who walked past in the two hours before Digby’s death that aren’t a priority any more.", "range": [12162, 12271]},
+    {"item": "Walkout 数量", "verbatim": "No one else walked towards the Institute at the appointed time for the date.", "range": [11728, 11798]}
+  ],
+  "numbers_list_not_found_in_source": [
+    "本门电话（Penzance）以外无具体日期；无周次/年份；无金额；无身高以外的物理量化"
+  ],
+  "open_questions_for_md": [
+    "录像证据的可靠性层级：像素/画质（from so far away、grainy picture）、身高可量（railings 对比）、走路姿势在源文本中并未被写成证据——源文本强调的是穿搭/轮廓（dark bob and giant cardigan）",
+    "Isolde 冒用身份这条线由谁先提出：Amy 在板上写『Isolde?』，Caius 说『Isolde dressed up as the person who they likely knew would find the body』"
+  ]
+}
