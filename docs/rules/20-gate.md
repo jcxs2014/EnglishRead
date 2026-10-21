@@ -7,6 +7,8 @@
 
 ```bash
 bash scripts/gate.sh "<书目录>"                  # 书级：20 lane 一次跑完
+#   ⚠️ "<书目录>" 是**完整路径，含体裁层**：notes/books/<novels|mystery-thriller|short-story-anthologies|non-fiction>/<slug>
+#     只给 slug 会跑错书或直接报无此书（2026-10-21 复核方照 slug 猜体裁、跑出红的实证）
 bash scripts/chapter.sh "<章 md>"                # 章级：写作时每章跑
 python3 scripts/sweep_journal.py "<日期目录>"     # 期刊
 python3 scripts/verify_corpus.py "<书目录>" --expect N --expect-source "…"   # 新书第一步
@@ -106,6 +108,8 @@ git status --short "<书目录>" .memory/raw-gates/<slug>/
 - **「已提交但被他人改写丢失」是另一类**：并行实例 rebase/force 把已提交章节甩出历史时，工作树干净、`??` 抓不到（2026-09-27 Boyfriend）⇒ 完工前做 **md 件数 == text 件数**对账（`bookform.py --all` 会报）。
 
 ## 6. 常见误读（工具口径）
+
+- **`check_vocab` 的例句校验取前 60 字符做指纹**（`scripts/check_vocab.py` 第 517 行 `if eq[:60] in corpus`）：只证「例句开头在原文里」，**不证整句在**。截断后补引号、凭空给叙述加对白引号，都能判绿（2026-10-21 a-fatal-legacy 实测 5 条阻断级漏网）。取证用书级第二实现全串比对，共享脚本的 `--full` 开关待静默时段加。
 
 | 误以为 | 实际 |
 |---|---|
