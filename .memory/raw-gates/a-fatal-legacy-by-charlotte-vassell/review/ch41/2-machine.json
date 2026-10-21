@@ -1,0 +1,214 @@
+{
+  "chapter": 41,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/ch41 margot bourne is questioned.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch41_41.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Digby sent letters to “fake Isolde”, the killer, via a PO Box. The two registered directors are a Mr Gerard Bourne and a",
+          "ok": true,
+          "pos": 737
+        }
+      ]
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I’m guessing she didn’t tell Amy that she’d offered Digby less than a third of what the estate agent had advised",
+          "ok": true,
+          "pos": 1059
+        }
+      ]
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "We have to wonder whether you forgot or if you hid the fact from DC Noakes that you’d offered the deceased a really low ",
+          "ok": true,
+          "pos": 2530
+        }
+      ]
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "No, Halloumi. The nasty men aren’t attacking Mummy. I want a solicitor",
+          "ok": true,
+          "pos": 2824
+        }
+      ]
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She mentioned a couple of the things that “fake Isolde” told Digby in that post, but she has been writing stories where ",
+          "ok": true,
+          "pos": 5422
+        }
+      ]
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Isolde’s got a thing, probably nominative determinism, about medieval knights and shit",
+          "ok": true,
+          "pos": 5833
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 0,
+        "为什么这样写": 97,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 99,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 0,
+        "为什么这样写": 118,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 116,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.9
+      }
+    }
+  ],
+  "form": {
+    "h1": "41. The Police Station",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 7.0,
+    "block_range": [
+      5,
+      10
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "segments": 6,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": []
+  }
+}

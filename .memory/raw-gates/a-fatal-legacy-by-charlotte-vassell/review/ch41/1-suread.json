@@ -1,0 +1,232 @@
+{
+  "chapter": "ch41",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch41_41.txt",
+  "source_len_chars": 6221,
+  "read_protocol": "R1 blind read: only text/ch41_41.txt opened before this file was written; no md, no other chapter, no recall.",
+  "section_heading_in_text": {
+    "title": "The Police Station",
+    "char_range": [20, 38],
+    "line": 17
+  },
+  "structure_observed": {
+    "scene_breaks": "two scenes separated by '* * *' (char ~1490 area for first break marker region; markers at lines 52 and 113)",
+    "voices": "third person past, present in Matt/Robbie/Amy POV, with Margot Bourne's interiority briefly rendered (lines 60, 72, 93)"
+  },
+  "events": [
+    {
+      "id": 1,
+      "who": "Matt",
+      "did": "told Robbie he had found the company that made the offer to Digby for the house",
+      "char_range": [41, 120],
+      "line": 20,
+      "verbatim": "‘I’ve found the company that made the offer to Digby for the house,’ Matt said."
+    },
+    {
+      "id": 2,
+      "who": "Robbie",
+      "did": "asked 'What’s that?' while looking up from the mountain of paperwork he needed to complete for the skeletal hand",
+      "char_range": [123, 150],
+      "line": 23
+    },
+    {
+      "id": 3,
+      "who": "Matt",
+      "did": "reported that Fenella Combe-Watson, Digby’s mother, brought in a letter yesterday that Digby sent to her while she was away; Digby had sent her a copy of the deal he’d been offered",
+      "char_range": [246, 358],
+      "line": 26,
+      "plus": "her address 'Out Oxford way' at [414, 486]"
+    },
+    {
+      "id": 4,
+      "who": "Matt",
+      "did": "found the company on Companies House; its contact address is a PO Box; Digby sent letters to “fake Isolde”, the killer, via a PO Box; the two registered directors are a Mr Gerard Bourne and a Mrs Margot Bourne; they live next door",
+      "char_range": [664, 949],
+      "line": 38,
+      "verbatim": "‘Yes, on Companies House. Interestingly, the contact address is a PO Box.’ He gave Robbie the context before he could ask. ‘Digby sent letters to “fake Isolde”, the killer, via a PO Box. The two registered directors are a Mr Gerard Bourne and a Mrs Margot Bourne. They live next door.’"
+    },
+    {
+      "id": 5,
+      "who": "Matt",
+      "did": "said Amy had already spoken to Mrs Bourne, pictured her in matchy-matchy workout gear with a little dog fawning over Caius, and guessed she had not told Amy that she had offered Digby less than a third of what the estate agent had advised; Matt remembered the estimate found early amongst Digby’s papers from his office",
+      "char_range": [975, 1250],
+      "line": 44,
+      "key_number": "less than a third of what the estate agent had advised"
+    },
+    {
+      "id": 6,
+      "who": "Robbie",
+      "did": "praised Matt and proposed they bring Margot Bourne in for questioning, saying 'Property is a fantastic motive for murder'",
+      "char_range": [1329, 1482],
+      "line": 47
+    },
+    {
+      "id": 7,
+      "who": "Margot Bourne (interviewee)",
+      "did": "interrupted Matt's formal opening ('Miss Bourne') with 'Margot, please'; she liked this policeman too, less than the other one, he was a dish, but still",
+      "char_range": [1497, 1614],
+      "lines": "57-60"
+    },
+    {
+      "id": 8,
+      "who": "Matt",
+      "did": "asked Margot whether she made an offer to Digby Combe-Watson for the Institute; Margot answered 'Yes, why?'",
+      "char_range": [1698, 1842],
+      "lines": "63-66",
+      "verbatim_offer_target": "for the Institute?"
+    },
+    {
+      "id": 9,
+      "who": "Robbie",
+      "did": "took over the questioning ('We’re asking the questions here, Margot'), stared her dead in the eye, picked up Amy’s notes of her interaction with Margot and silently read them while leaving Margot to wonder what was going on",
+      "char_range": [1787, 2010],
+      "line": 69
+    },
+    {
+      "id": 10,
+      "who": "Margot Bourne",
+      "did": "asked 'Where’s the other detective?' and stroked her dog, which she had claimed was an emotional support animal; neither Matt nor Robbie wanted to argue with her; it was the size of a shoe and barely moved in her arms anyway",
+      "char_range": [2013, 2233],
+      "line": 72,
+      "verbatim": "‘Where’s the other detective?’ She stroked her dog. She had claimed it was an emotional support animal and neither Matt nor Robbie wanted to argue with her. It was the size of a shoe and barely moved in her arms anyway."
+    },
+    {
+      "id": 11,
+      "who": "Robbie",
+      "did": "answered 'He’s not here' when Margot asked about the other detective",
+      "char_range": [2235, 2264],
+      "line": 75
+    },
+    {
+      "id": 12,
+      "who": "Matt",
+      "did": "put the copy of the proposition that Margot and her husband’s company proposed to Digby on the table in its plastic evidence bag (the offer Digby had sent to his mother) and said it was well under the market value",
+      "char_range": [2267, 2505],
+      "line": 78
+    },
+    {
+      "id": 13,
+      "who": "Margot Bourne",
+      "did": "replied 'And? There’s nothing wrong with going in low on an opening gambit.'",
+      "char_range": [2507, 2575],
+      "line": 81
+    },
+    {
+      "id": 14,
+      "who": "Robbie",
+      "did": "began 'The thing is, Margot,' was interrupted by Margot saying 'Mrs Bourne.', then said 'Mrs Bourne' again and pressed her: they had to wonder whether she forgot, or hid, that she had offered the deceased a really low amount for his property shortly before he died — 'It looks like the beginning of a motive, doesn’t it?'",
+      "char_range": [2578, 2836],
+      "lines": "84-90"
+    },
+    {
+      "id": 15,
+      "who": "Margot Bourne",
+      "did": "asked 'Does it?', stroked the dog which sprung to life bearing its little teeth, said 'No, Halloumi. The nasty men aren’t attacking Mummy. I want a solicitor.'",
+      "char_range": [2838, 3043],
+      "line": 93
+    },
+    {
+      "id": 16,
+      "who": "Robbie",
+      "did": "said 'Of course,' got up from the table; Matt followed; Amy was waiting outside the room; Robbie said he would speak to her again once the lawyer was present, took the folder Matt had picked up, and asked Amy if she was all right; Matt hid his annoyance with how poorly Robbie had handled the interview",
+      "char_range": [3045, 3412],
+      "lines": "96-102"
+    },
+    {
+      "id": 17,
+      "who": "Amy",
+      "did": "said she just wanted to grab Matt for a second and told Robbie he was really busy; Robbie said 'Sure' and went through the folder while Matt returned with Amy to her desk in the incident room",
+      "char_range": [3415, 3560],
+      "lines": "105-108"
+    },
+    {
+      "id": 18,
+      "who": "Matt (asks) / Amy (answers)",
+      "did": "Matt asked whether it was about the missing volume of Horatio’s journal; Amy said there was no trace of it and she still thought it was odd, and had sent Tiny Simm over to Dollis Hill and he did not find anything either",
+      "char_range": [3640, 3830],
+      "lines": "118-121"
+    },
+    {
+      "id": 19,
+      "who": "Matt",
+      "did": "asked whether there was anything in Willow’s transcript so far that might lend itself to murder, and wrote ‘22nd volume’ on the whiteboard as a possible motive",
+      "char_range": [3867, 4010],
+      "line": 124
+    },
+    {
+      "id": 20,
+      "who": "Amy",
+      "did": "said Willow’s transcript was mostly sex and occult stuff, frequently the same thing; then explained that, as Caius said, “fake Isolde” is the problem, so she searched for Isolde Burrell on Google and found an article on her as a sixth-former winning a poetry contest in Dorchester in 2011; she read her whole (dull) Twitter account, which posted nothing about her personal life; trawled her LinkedIn with nothing; one can see she left her job at a primary school in East Ham a couple of months ago; her Instagram is set to private; her username has numbers in it and is hard to identify without prior knowledge — she told Caius what it was when he interviewed her",
+      "char_range": [4033, 4950],
+      "line": 127,
+      "numbers_verbatim": ["a sixth-former winning a poetry contest in Dorchester in 2011", "left her job at a primary school in East Ham a couple of months ago"]
+    },
+    {
+      "id": 21,
+      "who": "Matt",
+      "did": "dismissed those as dead ends and asked what she found",
+      "char_range": [4951, 4954],
+      "line": 130
+    },
+    {
+      "id": 22,
+      "who": "Amy",
+      "did": "said she searched the random number name Isolde has on Instagram and it threw up an account on a fanfic site",
+      "char_range": [4954, 5065],
+      "line": 133
+    },
+    {
+      "id": 23,
+      "who": "Amy",
+      "did": "explained fanfic: an online community where people share stories they made up about characters from other works; Dramione is popular, i.e. Draco and Hermione from Harry Potter; she understands from Fi that some are spectacularly good and eventually get published properly; there are many fandoms and a lot of the stories are smutty; 'There's some weird shit on there. I found a whole series of kinky stories about Richard Nixon. Waterplaygate.'",
+      "char_range": [5080, 5550],
+      "line": 139
+    },
+    {
+      "id": 24,
+      "who": "Amy",
+      "did": "confirmed Isolde is on the site, and that she wrote a little introduction post last month to one of the forums in which she mentioned a couple of the things that “fake Isolde” told Digby, and has been writing stories clearly using bits of info from her life, including all of the remaining details that were told to Digby",
+      "char_range": [5593, 5890],
+      "line": 145
+    },
+    {
+      "id": 25,
+      "who": "Matt",
+      "did": "summarised it as 'Isolde is writing dirty stories, sharing them online and using her own biography as material'; Amy said 'Exactly' and added that Isolde has been really active in this one group and has a thing, probably nominative determinism, about medieval knights; Matt concluded 'So the killer could be one of her readers.'",
+      "char_range": [5932, 6220],
+      "lines": "148-154"
+    }
+  ],
+  "relationships": [
+    "Matt and Robbie are the investigating detectives (Robbie runs the questioning; Matt sits in).",
+    "Amy is the third detective; she had earlier spoken to Mrs Bourne (interviewed her) and keeps notes of that interaction; she works at a desk in the incident room.",
+    "Caius is another detective who interviewed Isolde Burrell earlier and previously worked the same kind of interview with Matt.",
+    "Margot Bourne is the interviewee: one of the two registered directors of the company that made the offer to Digby; husband is Mr Gerard Bourne; they live next door (to the detectives). She has a small dog called Halloumi which she claims is an emotional support animal.",
+    "Digby Combe-Watson = the deceased; his mother is Fenella Combe-Watson; the property in question is 'the Institute'.",
+    "“fake Isolde” is the killer Matt is hunting; Digby sent letters to “fake Isolde” via a PO Box; the real Isolde Burrell is a separate person (sixth-former in 2011, now a fanfic writer).",
+    "Horatio = person whose journal has a missing 22nd volume; Willow = person whose transcript Amy read; Tiny Simm = a colleague sent to Dollis Hill; Fi = someone who knows about fanfic writing."
+  ],
+  "numbers_and_dates_verbatim": [
+    "chapter number 41 (line 1 and line 12)",
+    "'the offer to Digby for the house' (line 20)",
+    "'a letter yesterday' (line 26)",
+    "'Out Oxford way' (line 32)",
+    "'less than a third of what the estate agent had advised' (line 44)",
+    "'for the Institute?' (line 63)",
+    "'the size of a shoe' (line 72)",
+    "'22nd volume' written on the whiteboard (line 124)",
+    "'a sixth-former winning a poetry contest in Dorchester in 2011' (line 127)",
+    "'left her job at a primary school in East Ham a couple of months ago' (line 127)",
+    "'last month' — introduction post on the fanfic forum (line 145)",
+    "'Dramione ... Draco and Hermione from Harry Potter' (line 139)"
+  ],
+  "names_verbatim": ["Matt", "Robbie", "Amy", "Caius", "Margot Bourne", "Gerard Bourne", "Digby Combe-Watson", "Fenella Combe-Watson", "Isolde Burrell", "Horatio", "Willow", "Tiny Simm", "Fi", "Halloumi", "Noakes (DC Noakes)"],
+  "institution_names_present_in_text": ["Companies House", "Dollis Hill (place)", "East Ham (place)", "Dorchester (place)", "the Institute (the property/offer target)", "Harry Potter (work)", "Waterplaygate (fanfic series)"],
+  "company_names_present_in_text": [],
+  "observations_for_later_check": [
+    "The chapter never names the company that made the offer; it is only 'your and your husband’s company' and 'the two registered directors'.",
+    "The chapter never uses the word 'museum'; the offer target is called 'the Institute' and the first mention is 'the offer to Digby for the house'.",
+    "The only number attached to the offer is 'less than a third of what the estate agent had advised' (Matt's guess) and 'well under the market value' (Matt's statement to Margot).",
+    "Isolde-related research (Dorchester 2011, East Ham primary school, fanfic, medieval knights) is Amy's research reported to Matt, not part of the police questioning of Margot.",
+    "The two registered directors are of the company (Mr Gerard Bourne, Mrs Margot Bourne), and they are described as living next door; 'registered' attaches to the company directorship, per 'on Companies House'."
+  ]
+}
