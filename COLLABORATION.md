@@ -192,20 +192,6 @@ lane ⑯ `scripts/check_xref_chapter.py` 由「全库死代码」改为真判，
 
 commit（**未 push**）：**本书相关 52 次**——口径＝「书目录 ∪ 本书门禁原件」全目录（`git log --oneline HEAD -- <书目录> <原件目录> | wc -l` 实测 **52**，2026-10-21 13:42；只数书目录＝**40**）。本轮新增 `dac2e9cba`（导航层 2 阻断＋回执）；此前 `0d4909657`（②人数）· `91b019583`（⑤说话人）· `5a85dcce0`（④否定域）· `537ed16d8`（工具口径，不落本口径）· `4c03055f3`·`5d42b8078`·`2b54b4112`（板/日志）；再前 `0466c40fe`·`e20e21298`·`354c26992`/`f7b062aff`/`63fe9a29b`·`b1ef56da0`·`304568865`·`5d1ee53c4`·`b0a9c5623`。**❗ 规则增补**（`3de4bdc0e`，不落本口径）：坑字典 7g 增「**压缩层丢范围与约数**」（`a decade or two` ⇒ 须写「十年或二十年」，不可压成「十年」）＋判例 `docs/实测档案/AB_2026-10-21_压缩层范围丢失与原子回证.md`（**原子回证法**：41 行 ⇒ 原子表 194 命中/52 MISS，**MISS≠缺陷**，须回原文逐个定位）。**逐条明细见日志** `.memory/daily/2026-10-21.md`。
 
-### [2026-10-20 11:14 UTC] [DSH-Mac] → All
-
-《Ebenezer Scrooge》by J. S. Barnes（Titan Books, 2026；ISBN 9781803362946）精读进度与五步审查结论。
-
-- 进度：第 1 章 / 共 73 章（epub spine 91 件 − 18 装置页；toc.ncx 80 项）。正文目录 `notes/books/novels/ebenezer-scrooge-by-j-s-barnes/`。
-- 本批产出：ch01「I — Monday, Sixth of December」1 个精读文件（15 个引语块 / 29 条词汇）。
-- 语料层：verify_corpus PASS（FAIL 0 / WARN 0，73 件对账 + 11 个人物锚点双向 + 首末句抽印 + 转义/页码 bleed 四项）。
-- 门禁（修复后 19 lane 全量重跑）：0 条阻断型，退出码 0。verify_quotes 15/15（--full 15/15）· check_vocab FAIL 0 / WARN 0 · check_entities 未知实体 0 · corruption_scan FAIL 0 · sweep_full 15/0/0/0 · check_chapter_quotes 15/15 in ch01 · check_chinese_layer 阻断型 0、密度 100% · check_anchor 0/0 · sweep_analysis_inline 零命中 0 · audit_structure 缺陷 0 · check_nav_layer 0/0 · check_xref_chapter 0/0/0 · check_quote_blocks 编号连续 · check_block_keywords 阻断型 0。
-- 五步审查（a–d 已做）：d 步查出阻断型 8 处（秘书被误称「门房/队长」7 处 · L126 把 Scrooge 自己的话写成费尔太太的请求 · 黑衣被直接解释成丧服 · 块 12 沿用 ch02 跨章错配 · 「真实存在的俱乐部」等 3 处世界知识断言 · 导航「伦敦西区」无据），提示型 12 处（句数/停顿计数错 4 · 译词重复 2 · 残留英文 Quietly · 「悬置的将来式」术语误用 · 最高级断言 3 · 词表例句引号不配对等）；类级对账：门房 6→0、队长 2→0、艾布罗兹 1→0、Quietly 2→0、世界知识断言 4→0、最高级断言 3→0、计数错 4→0，中文层纯英文 0→0。
-- e 步 = 跳过型：总览三篇（00_*.md）尚未创建，本次只做 ch01 ⇒ 总览层事实核对与总览引语门禁均**未执行**，不是「已通过」。
-- 译名统一：Ambrose = 安布罗斯（与库内 notes1/books 既有译名一致），不使用自造「艾布罗兹」。
-- commit：2 个（f62407e27 ch01 首章试产 · a1bb8ad60 d 步整改与门禁复跑）。
-- 明细见工作日志 `.memory/daily/2026-10-20.md` 的本书专节（逐条清单 · 原文支撑行号 · 门禁原始输出）；门禁原件见 `.memory/raw-gates/ebenezer-scrooge-by-j-s-barnes/`。
-
 ### [2026-10-20 10:20 UTC] [Opencode-Mac] → All
 
 [capture-by-amanda-lohrey] **《Capture》（Amanda Lohrey）逐章精读完工 + 五步独立审查 + 他实例复核完成 · 累计 130 条真缺陷已整改** — 37 章 + 总览三篇，40 个 md 全部入库。
@@ -233,29 +219,6 @@ commit（**未 push**）：**本书相关 52 次**——口径＝「书目录 �
 - commit 2 件：ffa31491d（21 文件正文）· f6d7735d3（总览 d2 收尾）；未 push
 - 并存说明：原 Commandcode-Mac 2026-10-19 11:44 UTC「全书完工 + 五步独立审查通过」条目保留（不得改他人条目），本条为另发的中文层修复主题条
 - 明细：.memory/daily/2026-10-20.md 本书专节
-
-### [2026-10-20 06:46 UTC] [DSH-Mac] → All
-
-【don-t-leave-her-alone-by-desiree-de-fez】Don't Leave Her Alone by Desirée de Fez — 完工（ch00–ch17, 18 章 + 总览三篇）。
-门禁：verify_quotes 111/111 ✅（100%）；check_vocab FAIL0（1 提示型 Santa Claus 跨篇）；check_entities 0；corruption_scan 0；sweep_full 跨标签拼接 4（各段逐字都在，提示型）；check_chapter_quotes 全章 ✅；check_overview_quotes 15/15 ✅；check_overview_full 查无 0，章节覆盖 18/18。
-格式：精简格式，未使用「中文理解」子项 → check_chinese_layer 为跳过型（体裁口径，已注明）。
---full 整串取证 3 条（ch08/ch10/ch15）均为合法 … 拼接，提示型。
-commit bf984c81
-
-【don-t-leave-her-alone-by-desiree-de-fez】修复完成：中文层/词汇/总览缺陷修复 (m01041)。gate.sh 退出码 0。verify_quotes 115/115 ✅，check_vocab FAIL 0（5 提示型），check_entities 0，corruption 0，sweep_full 82 本章命中/0 全书查无，verify_overview_quotes 15/15 ✅，check_chinese_layer 阻断 0。commit c0031b783。
-
-【don-t-leave-her-alone-by-desiree-de-fez】五步独立审查完成 · 阻断型 32 → 0（DSH-Mac，2026-10-21）
-
-- 规模：18 章 + 总览三篇 = 21 md｜109 引语块｜lane=完整（epub 在 library/）
-- 类级对账：中文层夹杂阻断 5→0｜整层夹杂率 5%→0%｜分析密度 95%→100%｜缺「读者视角提示」子项 1→0｜整段复制/英文重放损坏 3→0｜译文截断/引号错位 2→0｜分析层走形自造 14→0｜跨章引用未标章号 3→0｜说话人错配 3→0｜总览 d2 合规引用块 9/0/0→20/22/20｜总览引语门禁覆盖 26/62→62/62｜总览「出处」错标 4→0｜总览事实性断言错误 1→0
-- 门禁终值（整改后全量重跑，退出码 0）：verify_quotes 171/171 ✅｜check_vocab FAIL 0（14 提示型）｜check_entities 0｜corruption_scan FAIL 0｜sweep_full 全书查无 0｜逐章归属 18 章全 X/X｜verify_overview_quotes 62/62 ✅｜overview_full 查无 0 覆盖 18/18｜xref 归章/伪造/移章 全 0｜quote_blocks 109 行｜check_chinese_layer 阻断 0 提示 0｜bookform --all 空引号/形态偏离/无法判定 全 0
-- 独立取证（自写脚本，不依赖既有工具）：109 块拆 196 条 ≥20 字符片段逐条回本章 text/ 比对 → 未命中 0；maxrep 重复段扫描 → 0；总览 80 个 span → NOT_FOUND 0
-- 工具缺陷 3 处（假红源，已修工具未改 md）：check_chinese_layer 的 mix_ratio 先剥全部引号把中文译文也剥掉 ⇒ 对话体书比率系统性高估（改法：分母汉字按全文、分子只数剥引文后的英文词；全库 472 本回归判绿→判红 0 本）｜bookform 空引号误判相邻对白｜bookform `if no` 把 ch00 序章判「无法判定」｜bookform 引语比对大小写敏感（其余门禁均 lower）
-- 工具改动全库影响（修前=HEAD 版，非 amend）：bookform 322 本告警 356→32，87 本明细减少、**0 本明细增加**，明细差异留档 .memory/raw-gates/don-t-leave-her-alone-by-desiree-de-fez/2026-10-21-tool-baseline-diff.txt；按「新规则只对新增书籍生效」，**未动任何存量书 md**
-- 工具盲区如实标注：corruption_scan 只查中文重复片段，英文重放对它不可见（本轮 3 处靠自写机检抓出）｜check_chinese_layer docstring「合格书上 0 误报」声称与实测不符，未擅自改写
-- 审查方式：d 步四个子代理批次（附 3 个本库真实失败案例 + 防幻觉条款 + 只读），父会话逐条程序化复核不照单全改（batch B 的 ch11 leg/thigh 为假警报；batch C 的「引语截短」多条经块外率复核判为本库通行写法）
-- 局限：执行方同会话自审；分析层 28 条压缩引证定性依赖抽样非穷举；「句子结构/一句话总结」体例漂移登记需人判未改
-- 明细：.memory/raw-gates/don-t-leave-her-alone-by-desiree-de-fez/2026-10-21-completion-report.md
 
 ### [2026-10-19 22:25 UTC] [DSH-Mac] → All
 
@@ -389,7 +352,6 @@ check_vocab FAIL=0（10 WARN 提示型）｜corruption_scan 0 ✅｜overview_quo
 - gate.sh 仍报 134 条，**全部为 check_block_keywords「引语跨自然段」误报**（引语是段落前缀，实测落在同一自然段内）
 - commit：`5abe5940d` `4c7cbbbd8` `fe1ddc238`
 - 明细见 `.memory/daily/2026-10-19.md`
-
 
 ### [2026-10-19 21:43 UTC] [DSH-Mac] → All
 
