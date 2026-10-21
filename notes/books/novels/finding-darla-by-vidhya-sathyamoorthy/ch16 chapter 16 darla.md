@@ -49,7 +49,7 @@ modified: "2026-10-20"
 
 > **原句 3:** "She pored over her audition pages religiously, memorising her lines and trying out different facial expressions in front of the mirror."
 
-中文理解：她虔诚地翻阅 试镜， 并在 前尝试。把 试镜 写成 （虔诚的），把 达尔拉 的 人物 写成 "决心的"（决心的）。
+中文理解：她虔诚地翻试镜稿，背台词，对着镜子试不同的表情。把试镜准备写成「虔诚」，把达尔拉写成「下了决心」。
 
 句子结构：主谓宾 She pored over her audition pages religiously + 现在分词短语 memorising her lines and trying out different facial expressions in front of the mirror。
 

@@ -35,7 +35,7 @@ modified: "2026-10-20"
 
 > **原句 2:** "Two lines. Yet again, two lines that may upend her life and change everything."
 
-中文理解：两条线。又是两条线，可能颠覆她的生活，改变一切。把 新冠疫情 写成 （两条线），把 达尔拉 的 人物 写成 "恐惧"（恐惧的）。
+中文理解：两条线。又是两条线，可能颠覆她的生活，改变一切。把新冠检测写成「两条线」，把达尔拉写成「恐惧」。
 
 句子结构：独立短句 Two lines. Yet again, two lines that may upend her life and change everything（定语从句）。
 
@@ -43,7 +43,7 @@ modified: "2026-10-20"
 
 表达方式：Covid test 把 "two lines" 写成 "life-changing"（改变人生的），把 Darla 的 character 写成 "fearful"。
 
-为什么这样写：把 新冠疫情 写成，让 达尔拉 的 人物 写成 "恐惧"——" . , " 把 新冠疫情 写成 （反复的威胁），把 达尔拉 的 人物 写成 "恐惧"；" 吉米 " 把 吉米 写成 （困惑的见证者），把 达尔拉 的 人物 写成 （孤立的）。
+为什么这样写：把新冠检测写成「两条线」，让达尔拉写成「恐惧」——「两条线。又是两条线」把疫情写成反复的威胁，把她写成恐惧；「她抬头看了一眼一脸困惑的吉米」把吉米写成困惑的见证者，把她写成孤立的人。
 
 ---
 
@@ -51,7 +51,7 @@ modified: "2026-10-20"
 
 > **原句 3:** "Shaking in fear, Jimmy thought of Darla and hoped she would return soon."
 
-中文理解：吉米 在恐惧中颤抖，想着 达尔拉，希望她很快回来。把 吉米 的 "恐惧" 写成 （颤抖），把 吉米 的 人物 写成 （忠诚的）。
+中文理解：吉米在恐惧中发抖，想着达尔拉，盼她早点回来。把吉米的恐惧写成发抖，把它写成忠诚。
 
 句子结构：现在分词短语 Shaking in fear + 主谓宾 Jimmy thought of Darla and hoped she would return soon。
 

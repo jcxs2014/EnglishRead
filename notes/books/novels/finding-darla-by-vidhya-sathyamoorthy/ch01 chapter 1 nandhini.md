@@ -52,7 +52,7 @@ modified: "2026-10-20"
 
 > **原句 3:** "Thakesh's dad paid for their bungalow, right?"
 
-中文理解：南迪妮 反击：塔克什 的爸爸付了他们的别墅钱，对吧？她把 米什拉阿姨 隐瞒的"家族财富"翻到台面上，把 普佳 家族"凭自己努力"的神话拆穿。
+中文理解：南迪妮反击：塔克什的爸爸付了他们家别墅的钱，对吧？她把米什拉阿姨瞒下的「家族财富」翻到台面上，把普佳家「全靠自己努力」的神话拆穿。
 
 句子结构：主语 Thakesh's dad + 谓语 paid + 宾语 for their bungalow + 疑问标记 right?。
 
@@ -69,7 +69,7 @@ modified: "2026-10-20"
 
 > **原句 4:** "Honestly, the risk of complications increases with geriatric pregnancies."
 
-中文理解：普佳 用医学术语"高龄妊娠并发症风险"教育 南迪妮，把"关心"伪装成"专业知识"，是"知识精英"式霸凌。
+中文理解：普佳用医学术语「高龄妊娠并发症风险」教训南迪妮，把「关心」伪装成「专业意见」，是「知识精英」式的霸凌。
 
 句子结构：主语 the risk of complications + 谓语 increases + 介词短语 with geriatric pregnancies。
 
@@ -119,7 +119,7 @@ modified: "2026-10-20"
 
 > **原句 7:** "What was it doing in the parking lot of one of the busiest hospitals in KL?"
 
-中文理解：南迪妮 问：它在吉隆坡最繁忙的医院停车场做什么？把车辆拟人化，仿佛它有故事要讲，把"被遗忘的车辆"= "被遗忘的人"。
+中文理解：南迪妮问：它在吉隆坡最繁忙的医院停车场做什么？把车拟人化，仿佛它有故事要讲；「被遗忘的车」等于「被遗忘的人」。
 
 句子结构：疑问句 What was it doing in the parking lot of one of the busiest hospitals in KL?（主语 it + 谓语 was doing + 介词短语）。
 

@@ -60,7 +60,7 @@ modified: "2026-10-20"
 
 表达方式：Jimmy's collar tag 把 "clue" 写成 "discovery"——"Recognizing his name, the dog started wagging its tail and licking Nandhini's face excitedly" 把 Jimmy 写成 "Darla's dog"。
 
-为什么这样写：把 吉米 写成，让 南迪妮 的 调查 写成 "身体的 "（物理证据）——"吉米" 把 南迪妮 的 调查 从 转向 "达尔拉's "，把 吉米 写成 "达尔拉's 同伴"（达尔拉 的同伴）；" , ?" 把 南迪妮 的 人物 写成 "有同情心的"（有同情心的），把 吉米 写成 （信使）。
+为什么这样写：把吉米写成「线索」，让南迪妮的调查写成「物证」——「吉米」把调查从「车主」转向「达尔拉的狗」，把吉米写成「达尔拉的同伴」；「怎么了，小家伙？」把南迪妮写成有同情心的人，把吉米写成「信使」。
 
 ---
 

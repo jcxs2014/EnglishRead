@@ -83,7 +83,7 @@ modified: "2026-10-20"
 
 > **原句 5:** "Her portrayal of a woman in a twisted, confusing romance was nothing short of mesmerizing."
 
-中文理解：她对一个处于扭曲、混乱恋情中的女人的刻画，无异于令人着迷。把 达尔拉 的 表演 写成，把 南迪妮 的 调查 写成 "迷恋" 而非。
+中文理解：她对一个困在扭曲恋情里的女人的刻画，简直让人着迷。把达尔拉的表演写成「摄人心魄」，把南迪妮的调查写成「着迷」而不是「研究」。
 
 句子结构：主系表 Her portrayal of a woman in a twisted, confusing romance was nothing short of mesmerizing。
 

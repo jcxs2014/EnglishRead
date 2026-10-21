@@ -19,7 +19,7 @@ modified: "2026-10-20"
 
 > **原句 1:** "I am Ariyah. Ariyah is me."
 
-中文理解：我是 阿里亚，阿里亚 是我。把 表演 写成 身份，把 "I 阿里亚. 阿里亚 ." 的 表演 把 表演 写成 身份 而非。
+中文理解：我是阿丽雅，阿丽雅是我。把表演写成身份的转换，「我是阿丽雅。阿丽雅是我」这种方法派把演戏写成成为，而不是假装。
 
 句子结构：主系表 I am Ariyah + 并列 Ariyah is me。
 
@@ -35,7 +35,7 @@ modified: "2026-10-20"
 
 > **原句 2:** "Conversation flowed easily between them as if they had known each for years."
 
-中文理解：他们之间的对话流畅自然，仿佛他们已经认识多年。把 化学反应 写成，把 唐尼-达尔拉 的 吸引 写成。
+中文理解：他们之间的对话流畅自然，仿佛已经认识多年。把化学反应写成「自然」，把唐尼与达尔拉戏外的吸引力写成「命中注定」。
 
 句子结构：主谓宾 Conversation flowed easily between them + 时间状语从句 as if they had known each for years。
 
@@ -43,7 +43,7 @@ modified: "2026-10-20"
 
 表达方式：dream world scene 把 Ariyah-Jack 的 romance 写成 "dream logic"；"Conversation flowed easily" 把 chemistry 写成 "natural"。
 
-为什么这样写：把 梦境 写成，让 达尔拉 的 表演 写成 而非 ； 把 杰克 的 人物 写成 而非。
+为什么这样写：把梦境那场戏写成「爱情片的模板」，让达尔拉的表演写成「沉浸」而不是「表演」；「木笛为他伴奏」把杰克写成浪漫的，而不是操控的。
 
 ---
 

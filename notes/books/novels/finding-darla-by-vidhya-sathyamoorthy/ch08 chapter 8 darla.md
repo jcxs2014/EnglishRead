@@ -35,7 +35,7 @@ modified: "2026-10-20"
 
 > **原句 2:** "Not some cheap whore who kisses men and who knows what else for money!"
 
-中文理解：不是那种亲吻男人、天知道还做什么来赚钱的廉价妓女！把 母亲's 恐惧 写成，把 达尔拉 的 表演 事业 写成 （玷污），把 母亲's 爱 写成 " 拒绝"。
+中文理解：不是那种亲男人、天知道还干什么挣钱的廉价妓女！把母亲的恐惧写成暴烈的语言，把达尔拉的演艺事业写成「玷污」，把母亲的爱写成「用拒绝来保护」。
 
 句子结构：主系表 Not some cheap whore who kisses men and who knows what else for money（否定 + 定语从句）。
 
@@ -43,7 +43,7 @@ modified: "2026-10-20"
 
 表达方式：mother's opposition 写成 "trauma-driven"——"cheap whore" 是 Mrs Fernandez 的 worst fear 具象化。
 
-为什么这样写：把 母亲's 写成 "创伤- " 的 版本—— 是 费尔南德斯夫人 的 恐惧 具象化，把 母亲's 爱 写成 " 拒绝"；"I'd a " 把 母亲's 写成。
+为什么这样写：把母亲的反对写成「创伤驱动的过度保护」的极端版本——「廉价妓女」是费尔南德斯太太最深的恐惧的具象化，把母亲的爱写成「用拒绝来保护」；「我宁可你是个傻子」把母亲的心愿写成宁可她笨，也别受伤害。
 
 ---
 

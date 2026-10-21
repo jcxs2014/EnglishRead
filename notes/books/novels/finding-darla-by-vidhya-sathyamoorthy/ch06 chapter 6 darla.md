@@ -27,7 +27,7 @@ modified: "2026-10-20"
 
 表达方式：improvisation trope 把 Darla 的 creative instinct 写成 first-day risk；Ms Farah 的 "I like what you did" 把 director's approval 写成 career boost。
 
-为什么这样写：把 达尔拉 的 表演 写成 "即兴 "，让她的人物 从 " 试镜" 转向 ； 法拉 作为 把 " & " 写成。
+为什么这样写：把达尔拉第一次出镜写成「即兴被奖赏」，让她的人物线从「试镜搞砸」转向「建立自信」；法拉女士作为第一次执导的导演，把「沉着又自信」写成了导演的样板。
 
 ---
 

@@ -67,7 +67,7 @@ modified: "2026-10-20"
 
 > **原句 4:** "With the paring knife safely tucked away in the kitchen drawer, Darla accepted that not being alone wasn't so bad after all."
 
-中文理解：削皮刀安全地收在厨房抽屉里，达尔拉 接受了独处并不那么糟糕。
+中文理解：削皮刀安全地收在厨房抽屉里，达尔拉接受了独处并不那么糟糕。
 
 句子结构：介词短语 With the paring knife safely tucked away in the kitchen drawer + 主谓宾 Darla accepted that not being alone wasn't so bad after all。
 
