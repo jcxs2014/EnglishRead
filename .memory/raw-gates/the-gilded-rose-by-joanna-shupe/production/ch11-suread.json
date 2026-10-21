@@ -1,0 +1,61 @@
+{
+ "book": "the-gilded-rose-by-joanna-shupe",
+ "chapter": "ch11",
+ "text": "notes/books/novels/the-gilded-rose-by-joanna-shupe/text/ch11_chapter_ten.txt",
+ "facts": [
+  {
+   "fact": "开篇：Zane 在自家地下室打一只沉重的帆布沙袋，沙袋几乎纹丝不动，像在嘲笑他的稳定。",
+   "anchor": "I raised my fist and punched as hard as I could. The heavy canvas bag barely rocked, almost mocking me with its stability.",
+   "start": 44,
+   "end": 166
+  },
+  {
+   "fact": "Zane 说拳击是少年时的必需与活命手段，因为纽约街头对男孩危险；进磨坊后则是为了保持体面而打，如今只用来发泄攻击性。",
+   "anchor": "The streets of New York were dangerous for young boys.",
+   "start": 357,
+   "end": 411
+  },
+  {
+   "fact": "Zane 心里反复念着的一句核心判断：她已经结婚了。",
+   "anchor": "She is married.",
+   "start": 660,
+   "end": 675
+  },
+  {
+   "fact": "妹妹 Camilla 下地下室找他，说 Fletcher 讲他“像一只受伤的熊”。",
+   "anchor": "He said you are like a wounded bear.",
+   "start": 1619,
+   "end": 1655
+  },
+  {
+   "fact": "Camilla 带来消息：Orson Grey 出远门期间禁止 Caroline 离开房产；他还电报通知 Camilla，Caroline 不会再回来整理图书馆，工作可视为完成。",
+   "anchor": "Because her husband forbade her from leaving the property while he was away.",
+   "start": 3431,
+   "end": 3507
+  },
+  {
+   "fact": "Camilla 用“外地亲戚生病需要照顾”的说法把 Caroline 带出了房子，Caroline 住进城里的朋友家，因此仍可每天回到 Zane 家。",
+   "anchor": "I suggested a story about a sick out-of-town relative who required her assistance.",
+   "start": 4100,
+   "end": 4182
+  },
+  {
+   "fact": "Caroline 段开篇：书房的书桌上放着一只碟子，里面只有一颗草莓马卡龙，她因此认定 Zane 没有生气。",
+   "anchor": "There was a plate on the desk. With a single strawberry macaron.",
+   "start": 11469,
+   "end": 11533
+  },
+  {
+   "fact": "Caroline 承认自己若被丈夫发现收下别的男人的礼物，会被像《简·爱》里罗切斯特的第一任妻子那样锁在家里。",
+   "anchor": "like Rochester’s first wife in Jane Eyre.",
+   "start": 12479,
+   "end": 12520
+  },
+  {
+   "fact": "Zane 主动为前一天的失态道歉，不找借口；Caroline 说这是她几乎忘了的、理性对话的样子。",
+   "anchor": "There is no excuse for my behavior yesterday, and I hope you’ll forgive me.",
+   "start": 14423,
+   "end": 14498
+  }
+ ]
+}

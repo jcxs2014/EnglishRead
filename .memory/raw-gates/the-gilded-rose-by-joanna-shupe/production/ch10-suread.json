@@ -1,0 +1,55 @@
+{
+ "book": "the-gilded-rose-by-joanna-shupe",
+ "chapter": "ch10",
+ "text": "notes/books/novels/the-gilded-rose-by-joanna-shupe/text/ch10_chapter_nine.txt",
+ "facts": [
+  {
+   "fact": "次日下午，Caroline 把四本书放到 Zane 的书桌上；这四本是她前一晚从父亲家取回来的，途中躲开了父亲追问她要书的原因。",
+   "anchor": "The next afternoon I placed four books on Zane’s desk.",
+   "start": 48,
+   "end": 102
+  },
+  {
+   "fact": "Zane 几乎没看那四本书，就报出每本五百美元的价。",
+   "anchor": "“Five hundred each.”",
+   "start": 266,
+   "end": 286
+  },
+  {
+   "fact": "Caroline 嫌这个数目荒唐并当场拒绝，Zane 说价格由他决定，这就是供求规律。",
+   "anchor": "“I decide what I am willing to pay for them. Such is the law of supply and demand.”",
+   "start": 446,
+   "end": 529
+  },
+  {
+   "fact": "又一颗草莓马卡龙在早晨等着她；书商女儿一向有人记得她爱吃的点心，而 Zane 是第一个记住并用这点让她惊喜的人。",
+   "anchor": "The proof? Another strawberry macaron had been waiting for me this morning.",
+   "start": 886,
+   "end": 961
+  },
+  {
+   "fact": "回忆里 Orson 曾在 Caroline 反抗时威胁叫医生，她因此怕自己会被关进 Blackwell’s Island 的女疯人院——这是她婚姻里真正的危险。",
+   "anchor": "The one time I tried to stand up to him, he threatened to summon a doctor.",
+   "start": 4320,
+   "end": 4394
+  },
+  {
+   "fact": "在马厩里，Zane 介绍她时用的是 Mrs. Orson Grey 这个婚后的名字，还对马夫说她“已经是别人的妻子”。",
+   "anchor": "“Settle down, George.” Zane crossed his arms, his expression darkening to something I would catalogue as between annoyed and angry. “You smell like horse and she’s already married.”",
+   "start": 6213,
+   "end": 6394
+  },
+  {
+   "fact": "在 Zane 手掌的托扶下，Caroline 让马 Minos 从自己掌心吃掉苹果片，Zane 用一句 Brava 夸她做到了。",
+   "anchor": "“Indeed, you did. Brava, Caroline.”",
+   "start": 16620,
+   "end": 16655
+  },
+  {
+   "fact": "成功之后 Zane 立刻收起热情、客气而疏离，借口要回屋工作，把她一个人留在马厩。",
+   "anchor": "Polite, but distant. “My pleasure. Now, I must return to the house and my work. You are welcome to continue with the apples, however.”",
+   "start": 17229,
+   "end": 17363
+  }
+ ]
+}

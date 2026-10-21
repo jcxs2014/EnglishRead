@@ -1,0 +1,55 @@
+{
+ "book": "the-gilded-rose-by-joanna-shupe",
+ "chapter": "ch05",
+ "text": "notes/books/novels/the-gilded-rose-by-joanna-shupe/text/ch05_chapter_four.txt",
+ "facts": [
+  {
+   "fact": "Zane 把办公室的窗户开着听图书馆的动静：Caroline 每天九点整到，先跟 Fletcher 聊几分钟，Fletcher 退下后她把书从架上抱下来堆在地上；Fletcher 提议让伙计代劳搬书被拒，理由是书要小心处理、也是运动。",
+   "anchor": "This meant I heard Caroline arrive each morning at precisely nine o’clock. As she settled in the library, she would chat with Fletcher for a few minutes, then he departed to let her work. The lock would turn and then her skirts would rustle as she removed books from the shelves and stacked them neatly on the floor. Fletcher had offered the staff’s help for this, but Caroline refused, saying the books needed to be handled carefully and it was good exercise.",
+   "start": 202,
+   "end": 662
+  },
+  {
+   "fact": "她十一点整离开、一秒不早；Fletcher 坚持用 Zane 的马车送她（她平时搭四轮马车来），Zane 据此断定 Orson Grey 完全不知道妻子在做什么。",
+   "anchor": "She left exactly at eleven o’clock, not a second before. Fletcher insisted on sending her home in my carriage, as she arrived in a hack each morning. Further proof that Grey had no idea what his wife was doing.",
+   "start": 1041,
+   "end": 1251
+  },
+  {
+   "fact": "三天后他撑不住了，去图书馆的上层回廊偷看 Caroline，借口是「收集情报」：既然要拿她当报复丈夫的工具，就得了解她的一切。",
+   "anchor": "And so, against my better judgment, I caved. I told myself it was to gather information. After all, if she was to be an instrument of revenge against her husband, I needed to learn everything about her.",
+   "start": 1561,
+   "end": 1766
+  },
+  {
+   "fact": "她对 Fletcher 谎称昨晚撞了门框，他听后骂了一句 horseshit，认定 Caroline 的伤是 Orson Grey 干的、不是门框。",
+   "anchor": "I would bet my fortune her injury was the work of Orson Grey, not a doorjamb.",
+   "start": 8082,
+   "end": 8159
+  },
+  {
+   "fact": "Zane 十六岁那年父亲去世，第二天就进 Grey 糖厂求职；他自己说这段往事里还有一场炸死四人、伤二十八人的爆炸，他也在其中。",
+   "anchor": "Very next day I walked into the Grey sugar refining factory in Williamsburg and applied for a position.",
+   "start": 9447,
+   "end": 9550
+  },
+  {
+   "fact": "他不再查 Caroline，转而命管家去请前 Pinkerton 侦探 Cribbs 去查 Orson Grey。",
+   "anchor": "“Fletcher, send for Mr. Cribbs.”",
+   "start": 11333,
+   "end": 11365
+  },
+  {
+   "fact": "Caroline 用了六天理完馆藏的四分之一，估摸一个月能完工；她最怕的，是以后再也回不来这个房间。",
+   "anchor": "It took me six days to get a quarter of the collection sorted.",
+   "start": 11694,
+   "end": 11756
+  },
+  {
+   "fact": "Camilla 告诉 Caroline：哥哥十九岁那年在工厂遇上爆炸，数人死亡、多人受伤，Zane 因此毁了容，屋里一面镜子也没有。",
+   "anchor": "There was an accident when my brother was nineteen.",
+   "start": 17048,
+   "end": 17099
+  }
+ ]
+}

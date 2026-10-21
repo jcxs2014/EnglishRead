@@ -1,0 +1,61 @@
+{
+ "book": "the-gilded-rose-by-joanna-shupe",
+ "chapter": "ch24",
+ "text": "notes/books/novels/the-gilded-rose-by-joanna-shupe/text/ch24_chapter_twenty_three.txt",
+ "facts": [
+  {
+   "fact": "Caroline 在酒店提心吊胆地等了两天，律师 Mr. Guthrie 传来消息：开庭日期已定；法庭要求双方当事人到场。",
+   "anchor": "After two worry-filled days at the hotel, Mr. Guthrie sent word that a court date had been secured.",
+   "start": 57,
+   "end": 156
+  },
+  {
+   "fact": "Zane 白天出门办事时，Caroline 把好友 Gertrude 召到酒店密谈。",
+   "anchor": "When Zane left during the day to tend to his business, I summoned Gertrude to the hotel.",
+   "start": 795,
+   "end": 883
+  },
+  {
+   "fact": "Caroline 决定若败诉就永远离开纽约，远走他乡并带够钱彻底消失。",
+   "anchor": "I need to leave New York, fast. And I need to go far away, with enough money to disappear. For good.",
+   "start": 2872,
+   "end": 2972
+  },
+  {
+   "fact": "Caroline 请 Gertrude 代为卖掉那本 1476 年印的 Caxton 珍本，用所得作为出逃的本钱。",
+   "anchor": "“This is about the Caxton,” I confirmed. “I’d like for you to sell it for me.”",
+   "start": 3328,
+   "end": 3406
+  },
+  {
+   "fact": "法庭上 Choate 律师陈述：Orson 申请撤销离婚协议，理由是签字系被胁迫。",
+   "anchor": "Mr. Grey is petitioning the court to absolve the divorce settlement on the grounds that it was procured by coercion.",
+   "start": 13610,
+   "end": 13726
+  },
+  {
+   "fact": "庭上宣读家庭医生宣誓书，称 Orson 右腿胫骨骨折、鼻梁骨折、两根肋骨骨折，均在抗拒签离婚协议时受伤。",
+   "anchor": "This claims Mr. Grey suffers from a broken tibia in his right leg, a broken nose, and two broken ribs.",
+   "start": 14388,
+   "end": 14490
+  },
+  {
+   "fact": "Caroline 当庭反驳时被 Goff 法官厉声打断，法官称此庭不容歇斯底里的女人。",
+   "anchor": "“That is enough,” Judge Goff snapped, pointing a bony finger at her. “Control yourself, Mrs. Grey. We do not allow hysterical women in this court.”",
+   "start": 27840,
+   "end": 27987
+  },
+  {
+   "fact": "Caroline 当庭说出婚内真相：丈夫在亲密时按住她、咬她、掐她的手腕，并强奸了她。",
+   "anchor": "During our intimacies, he hurt me. He would hold me down, bite me, squeeze my wrists. He . . .” She paused to moisten her lips. “He raped me.”",
+   "start": 29679,
+   "end": 29821
+  },
+  {
+   "fact": "案情末尾，Orson 一方提出要对 Zane 提起袭击控告并要求当场羁押。",
+   "anchor": "Mr. Grey intends to press assault charges against Mr. Bishop. We would request that Mr. Bishop is taken into custody at this time.",
+   "start": 32539,
+   "end": 32669
+  }
+ ]
+}

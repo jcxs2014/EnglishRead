@@ -1,0 +1,67 @@
+{
+ "book": "the-gilded-rose-by-joanna-shupe",
+ "chapter": "ch14",
+ "text": "notes/books/novels/the-gilded-rose-by-joanna-shupe/text/ch14_chapter_thirteen.txt",
+ "facts": [
+  {
+   "fact": "离开纽约后坐了将近三天的火车，抵达怀俄明州的夏延（Cheyenne）",
+   "anchor": "After almost three days of travel, we’d arrived in Cheyenne.",
+   "start": 531,
+   "end": 591
+  },
+  {
+   "fact": "夏延不是终点，余下的路程改用马匹走",
+   "anchor": "The rest of the journey would be made on horseback.",
+   "start": 623,
+   "end": 674
+  },
+  {
+   "fact": "Zane 自述少年时代大半在街上混：先做擦鞋童、报童、剥牡蛎工，之后才进 Grey 糖厂做工",
+   "anchor": "Most of my youth had been spent on the streets—as a bootblack, a newsie, then an oyster shucker—before I went to work in the sugar mill.",
+   "start": 243,
+   "end": 379
+  },
+  {
+   "fact": "同行的两人：站台上搬行李的搬运工 Sam，以及一路随行的调查员 Cribbs",
+   "anchor": "I hadn’t left my compartment, but between Sam and Cribbs, who came along with me on this journey, I’d wanted for nothing.",
+   "start": 1053,
+   "end": 1174
+  },
+  {
+   "fact": "从夏延到 Orson 的营地还要至少骑两天",
+   "anchor": "At least two days of riding to reach their camp.",
+   "start": 2503,
+   "end": 2551
+  },
+  {
+   "fact": "为不惊动 Orson，他们正经组织了一次狩猎出行作掩护，营里的人只会以为他们也是来加入的猎手",
+   "anchor": "We’d organized a real trip so as to not raise any alarm bells with Orson, and these men would assume we were more hunters coming to join the party.",
+   "start": 3375,
+   "end": 3522
+  },
+  {
+   "fact": "Zane 拒绝留在营地等 Orson 回来，坚持要单独去找他",
+   "anchor": "I need to get him alone. And I don’t want to wait.",
+   "start": 4270,
+   "end": 4320
+  },
+  {
+   "fact": "Zane 逼 Orson 认下婚内出轨、不经审判、不见报地放 Caroline 走",
+   "anchor": "You will admit to infidelity and let her go.",
+   "start": 10309,
+   "end": 10353
+  },
+  {
+   "fact": "Zane 以糖厂那场火与他骚扰女职员的旧账威胁 Orson：一旦公开，父亲只能公开不认这个儿子",
+   "anchor": "I’ll go public with what you did at the mill, how you started that fire.",
+   "start": 10890,
+   "end": 10962
+  },
+  {
+   "fact": "枪在手里时 Zane 一度动了在林中悄悄杀掉 Orson 的念头",
+   "anchor": "No one would ever miss him.",
+   "start": 13436,
+   "end": 13463
+  }
+ ]
+}

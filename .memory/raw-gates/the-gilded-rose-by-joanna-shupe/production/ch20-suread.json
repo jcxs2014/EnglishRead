@@ -1,0 +1,55 @@
+{
+ "book": "the-gilded-rose-by-joanna-shupe",
+ "chapter": "ch20",
+ "text": "notes/books/novels/the-gilded-rose-by-joanna-shupe/text/ch20_chapter_nineteen.txt",
+ "facts": [
+  {
+   "fact": "Camilla Marshall 拿着报纸闯进图书馆找 Caroline，说自己担心死了；Fletcher 告诉她 Zane 把 Caroline 藏在这里，等风头过去",
+   "anchor": "I’ve been worried sick ever since I read this. Fletcher finally told me that Zane brought you here until all this dies down.",
+   "start": 527,
+   "end": 651
+  },
+  {
+   "fact": "报纸头条：结婚不到一年，MRS. O. GREY 拿到离婚判决",
+   "anchor": "MARRIED LESS THAN A YEAR, A DECREE OF DIVORCE FOR MRS. O. GREY.",
+   "start": 1264,
+   "end": 1327
+  },
+  {
+   "fact": "报道指她每月 lifestyle 花费超过 15000 美元，并传她不忠",
+   "anchor": "Mrs. Grey was spending more than $15,000 a month on her lifestyle. Rumors of her infidelity—",
+   "start": 1682,
+   "end": 1774
+  },
+  {
+   "fact": "离婚是 Zane 办成的：编造狩猎旅行支开 Orson，再跑到 Cheyenne 拿签字",
+   "anchor": "I drew in a deep breath and told Camilla the entire story, from Zane inventing the hunting trip to get rid of Orson, to traveling out to Cheyenne with divorce papers.",
+   "start": 2335,
+   "end": 2501
+  },
+  {
+   "fact": "Camilla 断言 Zane 爱 Caroline，理由是事故后几乎没出门，却远赴西部拿离婚签字",
+   "anchor": "And he went all the way out West to get Orson’s signature on your divorce papers? Trust me, he is in love with you.",
+   "start": 2773,
+   "end": 2888
+  },
+  {
+   "fact": "Camilla 承认当年逼她整理 Zane 的藏书是为了让她离开 Orson，并要她今晚引诱 Zane，条件是别伤哥哥的心",
+   "anchor": "All I ask is that you do not break my brother’s heart.",
+   "start": 6871,
+   "end": 6925
+  },
+  {
+   "fact": "Zane 段：Branson 按 Caroline 的吩咐在他办公室摆好晚餐，她穿着翠绿丝袍出现",
+   "anchor": "Heels clacked on marble, silk rustling, and then Caroline appeared, draped in a gown I hadn’t seen before.",
+   "start": 10119,
+   "end": 10225
+  },
+  {
+   "fact": "结尾 Zane 把她抱回自己房间，Branson 完全知情还要备餐",
+   "anchor": "I’ll have cook prepare a tray and will leave it outside your door. For when you both recover.",
+   "start": 31858,
+   "end": 31951
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "the-gilded-rose-by-joanna-shupe",
+ "chapter": "ch04",
+ "text": "notes/books/novels/the-gilded-rose-by-joanna-shupe/text/ch04_chapter_three.txt",
+ "facts": [
+  {
+   "fact": "清晨是 Zane 一天中最珍视的一小时：每天天亮他都骑马穿过空荡的公园",
+   "anchor": "Each day at dawn I rode through the empty park to feel the wind on my face without the fear of scaring small children.",
+   "start": 72,
+   "end": 190
+  },
+  {
+   "fact": "他的坐骑名叫 Minos，回家路上他一边让它慢下来一边拍着它出汗的鬃毛",
+   "anchor": "Slowing my stallion, Minos, to a walk, I patted his sweaty coat as both of us attempted to catch our breath.",
+   "start": 538,
+   "end": 646
+  },
+  {
+   "fact": "Zane 自述白手起家，少年在街头赚每一丁点钞票，因此把仆人当朋友待",
+   "anchor": "But I’d been born with nothing, a boy who hustled on the street for every scrap of money he could find.",
+   "start": 2242,
+   "end": 2345
+  },
+  {
+   "fact": "这个清晨厨房在备一只茶点，与平日的节奏不同",
+   "anchor": "As I polished it on my coat, I noted a tea tray being prepared.",
+   "start": 3498,
+   "end": 3561
+  },
+  {
+   "fact": "管家 Fletcher 说来客是男主的妹妹 Camilla 约来的",
+   "anchor": "She said your sister asked her to meet here this morning.",
+   "start": 4434,
+   "end": 4491
+  },
+  {
+   "fact": "管家递上的厚卡片写着 Mrs. Orson Grey——来客就是 Caroline",
+   "anchor": "Mrs. Orson Grey",
+   "start": 4944,
+   "end": 4959
+  },
+  {
+   "fact": "Zane 决意把 Caroline 当成向 Orson Grey 报复的工具",
+   "anchor": "And his wife would be the instrument of my revenge.",
+   "start": 12307,
+   "end": 12358
+  },
+  {
+   "fact": "依当时的法律妻子不拥有财产与收入，Caroline 的一切都并入丈夫名下",
+   "anchor": "I owned no property, had no money of my own.",
+   "start": 32620,
+   "end": 32664
+  }
+ ]
+}

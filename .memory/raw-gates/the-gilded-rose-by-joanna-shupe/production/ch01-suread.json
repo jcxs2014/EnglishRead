@@ -1,0 +1,55 @@
+{
+ "book": "the-gilded-rose-by-joanna-shupe",
+ "chapter": "ch01",
+ "text": "notes/books/novels/the-gilded-rose-by-joanna-shupe/text/ch01_prologue.txt",
+ "facts": [
+  {
+   "fact": "Orson Grey 在四天里送来了第六束花",
+   "anchor": "That made it the sixth bouquet in four days.",
+   "start": 838,
+   "end": 882
+  },
+  {
+   "fact": "Orson 的情书抄的是勃朗宁《葡萄牙十四行诗》第 43 首的中段而非人人会背的开头",
+   "anchor": "He’d copied a portion of Browning’s Sonnets from the Portuguese, number 43.",
+   "start": 2234,
+   "end": 2309
+  },
+  {
+   "fact": "父亲的社交生活基本只有 Hoffman House 酒吧的每周文学沙龙",
+   "anchor": "his regular social interaction was mostly limited to a weekly literary salon in the bar of the Hoffman House.",
+   "start": 4399,
+   "end": 4508
+  },
+  {
+   "fact": "Caroline 的母亲在她还是婴儿时便去世，父亲很想念母亲",
+   "anchor": "She had died so young, when I was just a baby, and my father missed her terribly.",
+   "start": 6079,
+   "end": 6160
+  },
+  {
+   "fact": "相识六周后 Orson 求婚，Caroline 爽快答应",
+   "anchor": "When he proposed six weeks after we met, I happily accepted.",
+   "start": 8895,
+   "end": 8955
+  },
+  {
+   "fact": "Orson 要求六月立刻完婚，随后一起去 Bar Harbor 度夏",
+   "anchor": "He wanted to be married straightaway, in June, then summer in Bar Harbor together.",
+   "start": 9154,
+   "end": 9236
+  },
+  {
+   "fact": "新婚夜的火车车厢里 Orson 说妻子的身体属于他",
+   "anchor": "As your husband, your body belongs to me.",
+   "start": 10974,
+   "end": 11015
+  },
+  {
+   "fact": "Orson 要 Caroline 在床上铺羊毛毯「为了血迹」",
+   "anchor": "Place that underneath you. For the blood.",
+   "start": 14548,
+   "end": 14589
+  }
+ ]
+}

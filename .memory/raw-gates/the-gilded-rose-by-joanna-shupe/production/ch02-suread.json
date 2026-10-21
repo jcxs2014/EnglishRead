@@ -1,0 +1,67 @@
+{
+ "book": "the-gilded-rose-by-joanna-shupe",
+ "chapter": "ch02",
+ "text": "notes/books/novels/the-gilded-rose-by-joanna-shupe/text/ch02_chapter_one.txt",
+ "facts": [
+  {
+   "fact": "本章时间：1898 年 9 月",
+   "anchor": "September 1898",
+   "start": 37,
+   "end": 51
+  },
+  {
+   "fact": "婚期已满八周，Caroline 对自己与身边的世界都失去了信心",
+   "anchor": "After eight weeks of marriage, I’d lost faith in myself, as well as the world around me.",
+   "start": 760,
+   "end": 848
+  },
+  {
+   "fact": "舞会举办地是纽约最隐居的富商 Zane Bishop 的宅邸，七十五个房间，从不见客",
+   "anchor": "“This place” was the home of one of New York’s most reclusive tycoons, Mr. Zane Bishop. No one ever saw him, and he didn’t receive guests at his seventy-five-room mansion.",
+   "start": 1886,
+   "end": 2057
+  },
+  {
+   "fact": "Orson 的妻子 Camilla Bishop Marshall 说服兄长 Zane 主办这场为「改善穷人状况协会」募款的舞会",
+   "anchor": "Somehow Camilla Bishop Marshall had convinced her brother to host tonight’s ball as a benefit for the Association for Improving the Condition of the Poor.",
+   "start": 2148,
+   "end": 2302
+  },
+  {
+   "fact": "Caroline 梳着时髦发式、穿着新做的 Worth 礼服出门，认定自己看起来完美无缺",
+   "anchor": "With my hair coiffed in an elegant sweep and my new Worth gown, I knew I looked perfect.",
+   "start": 429,
+   "end": 517
+  },
+  {
+   "fact": "Mr. Barbey 提起Caroline 二人是在 Bar Harbor 度蜜月",
+   "anchor": "“I hear you honeymooned in Bar Harbor, Mrs. Grey.",
+   "start": 5029,
+   "end": 5078
+  },
+  {
+   "fact": "Mrs. Barbey 对 Van de Hart 说 Caroline 无聊透顶，Orson 娶她只为了带在身边好看",
+   "anchor": "She bores Orson to tears. He only married her to look good on his arm, not for her personality.",
+   "start": 11454,
+   "end": 11549
+  },
+  {
+   "fact": "花园长椅上的陌生男子正是 Zane Bishop",
+   "anchor": "The man in the darkness had been Zane Bishop.",
+   "start": 16377,
+   "end": 16422
+  },
+  {
+   "fact": "Caroline 婚前私下买下子宫帽（womb veil）避孕",
+   "anchor": "This was why I secretly used a womb veil to prevent consequences.",
+   "start": 19214,
+   "end": 19279
+  },
+  {
+   "fact": "Orson 说次日要随几位朋友去宾夕法尼亚狩猎",
+   "anchor": "“Incidentally, I’m accompanying some fellows on a hunting trip in Pennsylvania tomorrow.",
+   "start": 24553,
+   "end": 24641
+  }
+ ]
+}

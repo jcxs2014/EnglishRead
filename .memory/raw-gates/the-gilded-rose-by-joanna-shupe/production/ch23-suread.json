@@ -1,0 +1,55 @@
+{
+ "book": "the-gilded-rose-by-joanna-shupe",
+ "chapter": "ch23",
+ "text": "notes/books/novels/the-gilded-rose-by-joanna-shupe/text/ch23_chapter_twenty_two.txt",
+ "facts": [
+  {
+   "fact": "一进城她就坚持要住酒店，不肯回自家宅子。",
+   "anchor": "As soon as we arrived in the city, I insisted on a hotel.",
+   "start": 55,
+   "end": 112
+  },
+  {
+   "fact": "Zane 同意住酒店，但神情平淡、眼里的暖意不见；自离开 Newport 以来一次也没有争辩，态度礼貌而疏远。",
+   "anchor": "Zane agreed, his expression flat, the usual warmth in his eyes missing. In fact, he hadn’t argued once since we left Newport, his behavior polite but distant.",
+   "start": 116,
+   "end": 274
+  },
+  {
+   "fact": "她躲在等候区，不想被任何熟人或报社记者看见；Orson 迟早会发现她在这座城市里。",
+   "anchor": "I didn’t wish to be spotted by anyone I knew or any newspaper reporters. Orson would discover my presence here eventually, but the longer I delayed the inevitability, the better.",
+   "start": 590,
+   "end": 768
+  },
+  {
+   "fact": "Zane 在同一层另订了一套客房，不肯让她在有前夫的城市里独自待着。",
+   "anchor": "I booked another suite on this floor. I’m not leaving you here by yourself, not with your former husband in the city.",
+   "start": 1552,
+   "end": 1669
+  },
+  {
+   "fact": "Orson 已提出撤销离婚判决的上诉，声称离婚是被胁迫才取得的。",
+   "anchor": "Mr. Grey has filed an appeal to vacate the divorce judgment. He is claiming that Mrs. Grey obtained the divorce by coercion.",
+   "start": 3895,
+   "end": 4019
+  },
+  {
+   "fact": "胁迫指控的内容是：一位相识者差点把 Orson 打死，并逼他在文件上签字。",
+   "anchor": "That an acquaintance of Mrs. Grey nearly beat him to death and forced him to sign the documents.",
+   "start": 4254,
+   "end": 4350
+  },
+  {
+   "fact": "争执之后，Caroline 在心里承认自己已经深爱 Zane。",
+   "anchor": "I am in love with this man.",
+   "start": 13445,
+   "end": 13472
+  },
+  {
+   "fact": "Zane 承认自己在 Wyoming 几乎打死 Orson，并说若重来会做得更狠。",
+   "anchor": "And I would gladly do it again. In fact, I would do worse.",
+   "start": 12610,
+   "end": 12668
+  }
+ ]
+}

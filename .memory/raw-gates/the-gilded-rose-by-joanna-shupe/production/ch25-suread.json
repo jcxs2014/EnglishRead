@@ -1,0 +1,55 @@
+{
+ "book": "the-gilded-rose-by-joanna-shupe",
+ "chapter": "ch25",
+ "text": "notes/books/novels/the-gilded-rose-by-joanna-shupe/text/ch25_chapter_twenty_four.txt",
+ "facts": [
+  {
+   "fact": "本章开篇：Caroline 头痛欲裂，身体其余部分麻木得像个空壳",
+   "anchor": "My head throbbed, but the rest of me was numb, an empty shell.",
+   "start": 56,
+   "end": 118
+  },
+  {
+   "fact": "判决不利于她：法官小组认定她要为「嫁给一个欺骗她的男人」这个选择付出代价，直到死为止",
+   "anchor": "a panel of judges had decided that I was to pay for that choice until the day I died.",
+   "start": 951,
+   "end": 1036
+  },
+  {
+   "fact": "归途马车上，Orson 在对面座位默默解开腿上的绷带，自她离开法院后一言不发",
+   "anchor": "Orson, now stretched out on the carriage seat opposite from me, was slowly and silently unwinding the bandages from his leg.",
+   "start": 243,
+   "end": 367
+  },
+  {
+   "fact": "她在心里列出关心自己的人：Zane、Gertrude 和父亲，据此确认自己并非完全孤立",
+   "anchor": "No, that wasn’t true. Zane cared. Gertrude cared. My father cared.",
+   "start": 1185,
+   "end": 1251
+  },
+  {
+   "fact": "她的盘算是先顺抚丈夫，指望他放过 Zane",
+   "anchor": "if I pacified him, hopefully he would leave Zane alone.",
+   "start": 1487,
+   "end": 1542
+  },
+  {
+   "fact": "Orson 预告：一周之内 Zane 将不再是个问题",
+   "anchor": "By this time next week Zane Bishop won’t be a problem ever again.",
+   "start": 8653,
+   "end": 8718
+  },
+  {
+   "fact": "当夜逃出宅邸后，Caroline 打算天亮去码头搭第一艘船远走",
+   "anchor": "I’m going to the docks. In the morning, I’ll jump aboard the first ship headed far, far away.",
+   "start": 15053,
+   "end": 15146
+  },
+  {
+   "fact": "结尾她拉着 Zane 一起驾马车，去跟踪深夜外出的 Orson",
+   "anchor": "Let’s take it and see what my husband is up to.",
+   "start": 20474,
+   "end": 20521
+  }
+ ]
+}

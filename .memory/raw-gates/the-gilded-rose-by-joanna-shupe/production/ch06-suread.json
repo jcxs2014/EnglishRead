@@ -1,0 +1,55 @@
+{
+ "book": "the-gilded-rose-by-joanna-shupe",
+ "chapter": "ch06",
+ "text": "notes/books/novels/the-gilded-rose-by-joanna-shupe/text/ch06_chapter_five.txt",
+ "facts": [
+  {
+   "fact": "这座宅子是他自己挣钱、自己督造出来的，八年来几乎天天泡在园子上",
+   "anchor": "I’d earned the funds to pay for it, had overseen its construction, and spent nearly every minute of the last eight years on the grounds.",
+   "start": 137,
+   "end": 273
+  },
+  {
+   "fact": "那场事故之后医生说他能活下来算走运，他当年不信，如今也不信",
+   "anchor": "You are fortunate to be alive, the doctors had said after the accident.",
+   "start": 523,
+   "end": 594
+  },
+  {
+   "fact": "他绝不会让\"完美的\"Caroline Grey 看见自己的伤疤",
+   "anchor": "Never would I let the perfect Caroline Grey witness such ugliness.",
+   "start": 658,
+   "end": 724
+  },
+  {
+   "fact": "Camilla 没敲门就走进 Zane 的办公室质问他",
+   "anchor": "Finally, after what seemed an eternity, Camilla entered my office. Without knocking.",
+   "start": 851,
+   "end": 935
+  },
+  {
+   "fact": "Zane 交代他早先看见 Caroline 肩膀疼得发抖，怀疑 Orson 在虐待她",
+   "anchor": "She was wincing. Her shoulder. I think he is mistreating her.",
+   "start": 3129,
+   "end": 3190
+  },
+  {
+   "fact": "Zane 的私家调查员 Silas Cribbs 号称全城最好，他要把 Orson 的生平彻底翻出来",
+   "anchor": "Silas Cribbs was my personal investigator and the best in the city.",
+   "start": 6988,
+   "end": 7055
+  },
+  {
+   "fact": "自从 Caroline 开始为 Mr. Bishop 的藏书编目，Orson 对她的亲昵变得越来越粗暴",
+   "anchor": "A reprieve from his intimacies, which had grown increasingly rough ever since I started to work on cataloguing Mr. Bishop’s library.",
+   "start": 9026,
+   "end": 9158
+  },
+  {
+   "fact": "Orson 说只要他一句话，仆人就敢把 Caroline 关在屋里",
+   "anchor": "If I tell them to lock you indoors, they will.",
+   "start": 16590,
+   "end": 16636
+  }
+ ]
+}

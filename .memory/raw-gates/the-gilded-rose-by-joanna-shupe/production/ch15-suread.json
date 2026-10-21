@@ -1,0 +1,55 @@
+{
+ "book": "the-gilded-rose-by-joanna-shupe",
+ "chapter": "ch15",
+ "text": "notes/books/novels/the-gilded-rose-by-joanna-shupe/text/ch15_chapter_fourteen.txt",
+ "facts": [
+  {
+   "fact": "图书室又冷又静；她吃着当天的草莓马卡龙，却听不见他办公室方向一点声响——没有他唤 Fletcher 的吼声，也没有股价单机器的转动声。",
+   "anchor": "Once again, I couldn’t hear a thing coming from the direction of his office.",
+   "start": 214,
+   "end": 290
+  },
+  {
+   "fact": "他已经躲了她将近一周，像躲一个得了伤寒的人；Fletcher 只说主人没病、让她不必担心。",
+   "anchor": "for him to avoid me as if I had typhoid",
+   "start": 487,
+   "end": 526
+  },
+  {
+   "fact": "她想听 Zane 讲自己的成长：磨坊爆炸之后他赤手空起家做出一份产业；她说他是\"a fascinating man\"。",
+   "anchor": "how he’d recovered after the mill explosion to build an empire with his bare hands",
+   "start": 1139,
+   "end": 1221
+  },
+  {
+   "fact": "她承认自己想他。",
+   "anchor": "And yes, I could admit it. I missed him.",
+   "start": 1253,
+   "end": 1293
+  },
+  {
+   "fact": "密道尽头是一间藏满书的阳台，正对着她在图书室书桌的位置——站在那儿的人可以在阴影里无声地看着她。",
+   "anchor": "There was . . . a direct view of where I sat at the desk",
+   "start": 4103,
+   "end": 4159
+  },
+  {
+   "fact": "她向 Fletcher 喊出自己的诉求：只想要一处能独自读书、不被窥探、也不受男人支配的空间。",
+   "anchor": "All I wanted was a quiet space to be alone with books, to be free of prying eyes and controlling men.",
+   "start": 7270,
+   "end": 7371
+  },
+  {
+   "fact": "Zane 本人出现在华盛顿广场公园的长椅上，帽子压低遮住脸；他就坐在她身边。",
+   "anchor": "My head snapped up. Zane was on the bench, directly beside me, his hat pulled low to obscure his face.",
+   "start": 8971,
+   "end": 9073
+  },
+  {
+   "fact": "他西行五天、返程四天找到 Orson，说服他在离婚文件上签字；文件送回她手上时，她说自己自由了。",
+   "anchor": "It took five days there, four days back.",
+   "start": 14150,
+   "end": 14190
+  }
+ ]
+}

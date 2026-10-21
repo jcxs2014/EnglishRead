@@ -1,0 +1,67 @@
+{
+ "book": "the-gilded-rose-by-joanna-shupe",
+ "chapter": "ch03",
+ "text": "notes/books/novels/the-gilded-rose-by-joanna-shupe/text/ch03_chapter_two.txt",
+ "facts": [
+  {
+   "fact": "本章时间：舞会（Chapter One）之后的数日；Zane 对 Caroline Stanford Grey 产生了好奇",
+   "anchor": "The days following the ball, I grew curious about Caroline Stanford Grey.",
+   "start": 75,
+   "end": 148
+  },
+  {
+   "fact": "Zane 只能从远处打听 Caroline，连股票行情都顾不上，全部心思都在调查她",
+   "anchor": "All I could do was learn about her from a distance, and the effort was currently taking up all the space in my brain.",
+   "start": 742,
+   "end": 859
+  },
+  {
+   "fact": "Zane 雇了两名调查员，读他们的笔记后认定 Orson Grey 配不上 Caroline",
+   "anchor": "While I read the notes provided by my two investigators, one thing became abundantly clear: Orson Grey did not deserve this woman.",
+   "start": 961,
+   "end": 1091
+  },
+  {
+   "fact": "Caroline 与父亲 Stanford 都是东海岸最有名的古籍鉴定人；她婚前随父四处鉴书，甚至为一位巴伐利亚亲王鉴过书",
+   "anchor": "Before her marriage, Caroline had traveled extensively with her father on various jobs, even appraising books for a Bavarian prince before her debut.",
+   "start": 1314,
+   "end": 1463
+  },
+  {
+   "fact": "Zane 判断 Orson 在限制妻子的独立，并把 Orson 的脑子比作一颗豌豆",
+   "anchor": "Was Grey curbing his wife’s independence? I wouldn’t doubt it.",
+   "start": 1546,
+   "end": 1608
+  },
+  {
+   "fact": "Zane 脸上的疤来自十二年前那场他被冤枉的事故；此后他只能躲在阴影里",
+   "anchor": "Twelve years since the accident, one I was erroneously blamed for, yet it felt like yesterday.",
+   "start": 1900,
+   "end": 1994
+  },
+  {
+   "fact": "管家 Fletcher 大半生是私掠船船长，右眼在与海军当局的冲突中失去，因此戴着眼罩",
+   "anchor": "A privateer for most of his life, Fletcher wore a patch over his right eye, which had been lost during a skirmish with the naval authorities.",
+   "start": 2575,
+   "end": 2716
+  },
+  {
+   "fact": "Zane 为自己被迫承办的那场舞会让厨房员工歇班好几天，Camilla 因此质问他",
+   "anchor": "I gave the kitchen staff a few days off after the ball you forced me to host.",
+   "start": 3527,
+   "end": 3604
+  },
+  {
+   "fact": "Orson 在 Caroline 面前说 Zane 疯了、彻底不正常，并称他「生来一无所有、在自家工厂做过工」",
+   "anchor": "Brother’s insane. Totally cracked.",
+   "start": 26024,
+   "end": 26058
+  },
+  {
+   "fact": "Orson 立刻下令把 Caroline 的书搬到阁楼，作为准许她外出鉴书的「交换」",
+   "anchor": "I’ll instruct the footmen to take your collection of books to the attic.",
+   "start": 26723,
+   "end": 26795
+  }
+ ]
+}

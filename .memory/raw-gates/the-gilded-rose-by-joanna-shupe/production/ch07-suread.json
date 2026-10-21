@@ -1,0 +1,55 @@
+{
+ "book": "the-gilded-rose-by-joanna-shupe",
+ "chapter": "ch07",
+ "text": "notes/books/novels/the-gilded-rose-by-joanna-shupe/text/ch07_chapter_six.txt",
+ "facts": [
+  {
+   "fact": "Caroline has suddenly brought a maid named Patricia, after a week of coming to the Bishop library alone.",
+   "anchor": "She brought a maid.",
+   "start": 43,
+   "end": 62
+  },
+  {
+   "fact": "Zane concludes Grey must have discovered Caroline was out by herself and put a stop to it.",
+   "anchor": "There was only one logical conclusion. Grey.",
+   "start": 264,
+   "end": 308
+  },
+  {
+   "fact": "Zane calls her marriage like a lamb going to slaughter: Orson handsome outside, but a rotted soul underneath.",
+   "anchor": "Christ, I couldn’t believe this woman, this delicate and intelligent creature, had willingly married Orson Grey. It was like a lamb going to slaughter. What had she possibly seen in him? He was handsome, no one would deny it. But underneath was a rotted soul full of self-importance and selfishness.",
+   "start": 435,
+   "end": 734
+  },
+  {
+   "fact": "Zane hits on a hunting trip as the way to get Orson out of New York.",
+   "anchor": "It hit me then with the force of a sledgehammer. Why hadn’t I thought of it sooner? “Hunting. A trip he can’t turn down.”",
+   "start": 3955,
+   "end": 4076
+  },
+  {
+   "fact": "Zane dashes off a telegram to his investigator Cribbs to arrange the trip, covering all costs and allowing no women.",
+   "anchor": "“Fuck you.” I picked up my pen and dashed off a telegram to Cribbs. My investigator would know who organizes these sorts of trips and how to craft one appealing enough for Orson Grey. I handed the piece of paper to Fletcher. “Send this right away.”",
+   "start": 4874,
+   "end": 5122
+  },
+  {
+   "fact": "Caroline says Orson hovered each morning as she left, and she dreads the day he forbids her to leave the house.",
+   "anchor": "Each morning, Orson hovered as I left, his scowl growing deeper and deeper. I knew it was only a matter of time before he decided my work was done and forbade me to leave the house. I dreaded it like an appointment with a tooth puller. I was jumpy around him, nerves stretched taut, as I waited for the metaphorical blade to fall.",
+   "start": 8263,
+   "end": 8593
+  },
+  {
+   "fact": "Orson announces a hunting trip West to Wyoming for elk, away five or six weeks (35-42 days).",
+   "anchor": "“Now, don’t you worry. I won’t be away too long. Five or six weeks at most.”",
+   "start": 11395,
+   "end": 11471
+  },
+  {
+   "fact": "Orson confines Caroline to the gardens, forbids her contact with Camilla and orders staff surveillance; she fears a doctor or an asylum.",
+   "anchor": "He studied my face for a long moment, his expression inscrutable. I couldn’t tell what he was thinking, but he concentrated intently, as if I were a puzzle he couldn’t solve. Finally, he let go of the door. “Fine. I won’t summon Dr. Baird. But I will instruct the staff to keep an eye on you. If you seem unwell, I want Dr. Baird sent for straightaway.”",
+   "start": 20930,
+   "end": 21283
+  }
+ ]
+}

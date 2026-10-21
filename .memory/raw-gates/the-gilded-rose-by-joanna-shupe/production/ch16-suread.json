@@ -1,0 +1,55 @@
+{
+ "book": "the-gilded-rose-by-joanna-shupe",
+ "chapter": "ch16",
+ "text": "notes/books/novels/the-gilded-rose-by-joanna-shupe/text/ch16_chapter_fifteen.txt",
+ "facts": [
+  {
+   "fact": "Fletcher 冲进办公室报「她来了」——Caroline 又出现在 Zane 的办公室",
+   "anchor": "Fletcher appeared, his eye shining with excitement.",
+   "start": 71,
+   "end": 122
+  },
+  {
+   "fact": "管家 Fletcher 固执得很，擅自替主人答应：Caroline 点名要见他，他告诉她主人会陪她喝茶",
+   "anchor": "Obstinate to a fault, he walked in and closed the door behind him.",
+   "start": 627,
+   "end": 693
+  },
+  {
+   "fact": "时间线：Zane 整整消失了一个星期，其间 Caroline 发现了他在暗中监视她；昨天他才拿离婚文件在公园追上她",
+   "anchor": "You disappeared for a week, and during that time she discovered your spying on her.",
+   "start": 935,
+   "end": 1018
+  },
+  {
+   "fact": "Orson 被诱到怀俄明州夏延郊外——Zane 上一趟西部行程就是为找他",
+   "anchor": "He is in Wyoming, just outside",
+   "start": 4616,
+   "end": 4646
+  },
+  {
+   "fact": "是 Zane 自掏腰包组织了这场为期六周的狩猎，只为让 Caroline 离开丈夫几天喘口气",
+   "anchor": "I organized the hunting trip to lure Orson out of the city.",
+   "start": 5026,
+   "end": 5085
+  },
+  {
+   "fact": "Caroline 今天一早就把离婚文件递交到市政厅，离婚已不可撤销",
+   "anchor": "Yes, first thing this morning.",
+   "start": 6944,
+   "end": 6974
+  },
+  {
+   "fact": "Zane 吩咐管家打开他在 Newport 的宅子，让 Caroline 今晚就过去住",
+   "anchor": "Have the Newport staff open the place up. A guest will be arriving tonight.",
+   "start": 12099,
+   "end": 12174
+  },
+  {
+   "fact": "Newport 宅邸管家 Branson 仍以「Grey 夫人」称呼她，说明离婚虽已生效，世俗称呼尚未跟上",
+   "anchor": "“Welcome, Mrs. Grey,” the butler was saying.",
+   "start": 19785,
+   "end": 19829
+  }
+ ]
+}

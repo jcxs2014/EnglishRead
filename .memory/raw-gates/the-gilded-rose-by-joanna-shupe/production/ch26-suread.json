@@ -1,0 +1,61 @@
+{
+ "book": "the-gilded-rose-by-joanna-shupe",
+ "chapter": "ch26",
+ "text": "notes/books/novels/the-gilded-rose-by-joanna-shupe/text/ch26_chapter_twenty_five.txt",
+ "facts": [
+  {
+   "fact": "夜里在第五大道，Caroline 与 Zane 乘马车往北走，Zane 的马车远远跟着 Orson 的车（间距 discreet distance）。",
+   "anchor": "the Fifth Avenue mansions growing larger, more spread out",
+   "start": 91,
+   "end": 148
+  },
+  {
+   "fact": "Caroline 判断 Orson 深夜出门不是行善，Zane 也认同；她随即断定这必是另有情事（affair）。",
+   "anchor": "Safe to say it is not a charity endeavor",
+   "start": 275,
+   "end": 315
+  },
+  {
+   "fact": "白天在法院（courthouse）之后 Caroline 告诉 Zane：Orson 手上那些绷带是假的，他并没有受重伤。",
+   "anchor": "Those bandages were fake, by the way",
+   "start": 829,
+   "end": 865
+  },
+  {
+   "fact": "Zane 冷静判断 Orson 今晚出门是要杀他，而不是送他进监狱或以袭击罪逮捕。",
+   "anchor": "He plans to kill me, then",
+   "start": 1435,
+   "end": 1460
+  },
+  {
+   "fact": "Orson 在马车里几乎掐死了她，还威胁要把她卖到市中心的妓院（brothel downtown）。",
+   "anchor": "H-he nearly strangled me in the carriage",
+   "start": 2677,
+   "end": 2717
+  },
+  {
+   "fact": "Caroline 决定当晚就逃离那栋房子，不想再过第二夜。",
+   "anchor": "I need to escape tonight",
+   "start": 2866,
+   "end": 2890
+  },
+  {
+   "fact": "马车停在第九十街，车夫 William 报告 Orson 已从后巷（mews）潜入 Zane 家后院；Zane 吩咐他把 Mrs. Grey 送到码头附近的体面旅馆。",
+   "anchor": "Looks like he’s creeping into the mews behind your house, sir",
+   "start": 4256,
+   "end": 4317
+  },
+  {
+   "fact": "Zane 认出那只罐子里的东西：与糖厂爆炸同一手法，用白磷纵火烧掉自己的宅子，先烧到正上方的卧房——他要杀的是睡在楼上的 Caroline。",
+   "anchor": "He planned to set my home on fire with white phosphorus",
+   "start": 8846,
+   "end": 8901
+  },
+  {
+   "fact": "Orson 承认白磷罐是舞会那夜就藏在自己马车里、再转藏进 Zane 家园丁棚的，因为 Caroline 与佣人曾离它只有几英尺。",
+   "anchor": "It was the night of your ball",
+   "start": 11718,
+   "end": 11747
+  }
+ ]
+}

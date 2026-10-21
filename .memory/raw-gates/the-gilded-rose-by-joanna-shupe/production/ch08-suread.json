@@ -1,0 +1,55 @@
+{
+ "book": "the-gilded-rose-by-joanna-shupe",
+ "chapter": "ch08",
+ "text": "notes/books/novels/the-gilded-rose-by-joanna-shupe/text/ch08_chapter_seven.txt",
+ "facts": [
+  {
+   "fact": "Orson 出门后整栋房子像松了一口气，Caroline 从喝茶、逛花园、吃晚饭到读书全程止不住地笑。",
+   "anchor": "Never had silence sounded so sweet. It was as if the entire house breathed a sigh of relief when Orson departed. I couldn’t stop smiling.",
+   "start": 49,
+   "end": 186
+  },
+  {
+   "fact": "傍晚降临，Caroline 喉咙深处不再有恐惧，只剩纯粹的解脱——楼上等着她的只有枕头。",
+   "anchor": "The evening crept on, and there was no dread sitting in the back of my throat. Only pure, blessed relief, knowing all that awaited me upstairs was my pillow.",
+   "start": 409,
+   "end": 566
+  },
+  {
+   "fact": "九点多，女佣 Patricia 探头进起居室找 Caroline，说有人送了一封给她的信。",
+   "anchor": "Shortly after nine o’clock, Patricia peeked into the sitting room.",
+   "start": 571,
+   "end": 637
+  },
+  {
+   "fact": "Camilla 收到一封令她不安的电报，写信约 Caroline 在后花园见面，只为确认她身体无恙。",
+   "anchor": "I received a disturbing telegram today, and wish to reassure myself of your continued good health.",
+   "start": 1078,
+   "end": 1176
+  },
+  {
+   "fact": "Orson 当天已出发去西部打猎，至少要走五到六周。",
+   "anchor": "He departed earlier today for a hunting trip out West. He’ll be gone five or six weeks, at least.",
+   "start": 6236,
+   "end": 6333
+  },
+  {
+   "fact": "Orson 已交代佣人：Caroline 不得离开家门。",
+   "anchor": "He’s given instructions to the staff that I’m not to leave home.",
+   "start": 7501,
+   "end": 7565
+  },
+  {
+   "fact": "Fletcher 来告诉 Zane：Caroline 回来了；Zane 昨天已知道 Grey 提前一天离开。",
+   "anchor": "She’s returned. Thought you’d want to know.",
+   "start": 9897,
+   "end": 9940
+  },
+  {
+   "fact": "Zane 认定：无论活多久、无论再发生什么，他都不可能从这次与 Caroline Grey 的相遇中恢复过来。",
+   "anchor": "Because no matter how long I lived or what else happened in my life, I’d never recover from this encounter with Caroline Grey.",
+   "start": 24157,
+   "end": 24283
+  }
+ ]
+}
