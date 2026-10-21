@@ -107,7 +107,7 @@ modified: "2026-10-20"
 
 > **原句 10:** "Once the presence of the new arrivals had been processed, Galev cleared his throat, rose from his seat, and gently helped his wife back to her feet. “I’m beginning to think you two have an innate talent for summoning chaos.”"
 
-**中文理解：** 等两位不速之客闹够了，Galev 咳了一声，起身把妻子扶回座位：「我开始觉得，你们两个有一种召唤混乱的天赋。」
+**中文理解：** 等两位不速之客闹够了，Galev 咳了一声，起身把妻子从地上扶起来：「我开始觉得，你们两个有一种召唤混乱的天赋。」
 
 **关键词：** an innate talent for summoning chaos
 
