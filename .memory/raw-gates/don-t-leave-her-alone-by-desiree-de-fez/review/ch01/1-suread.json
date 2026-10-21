@@ -1,0 +1,244 @@
+{
+  "chapter": "01",
+  "source": "notes/books/novels/don-t-leave-her-alone-by-desiree-de-fez/text/ch01_chapter_1.txt",
+  "source_total_chars": 6308,
+  "source_total_lines": 30,
+  "source_heading": "1",
+  "note": "本文件在阅读任何 md 之前生成；区间为原文字符偏移 [start,end)，基于 UTF-8 解码后的字符计数（由 /tmp/dsh_rev/off3.py 打印）。line 列为 /usr/bin/grep -n 在原文中的行号。原文引文逐字抄录。",
+  "events": [
+    {
+      "id": "E1",
+      "who": "学龄前班的孩子（含 Brisa）",
+      "what": "扮成天使：硬纸板和棉花做的翅膀、金色皇冠、脸颊上扑亮粉；设计意图是全场 immaculate white 以象征纯洁，但几双米色 Decathlon 运动裤和磨薄 T 恤让场面不够完美。Brisa 在台上扫视全场找妈妈，一边背圣诞诗（『I'm the queen of the house and nougat's my treat, at Christmas I send you kisses so sweet!』）；在观众席里没看见妈妈，表演从『正在演』切成 playback（只动嘴、词照唱），最后『she decided to stop looking』。",
+      "range": [
+        6,
+        717
+      ],
+      "lines": [
+        6
+      ]
+    },
+    {
+      "id": "E2",
+      "who": "Diana",
+      "what": "为女儿 Brisa 的圣诞演出把一切都安排妥当：伴侣 Carlos 当天整天在 Madrid（由同学的妈妈帮忙接他们的儿子）；她提前几周留出整个下午（看完演出带 Brisa 吃个东西，母女二人时光）；放假前已交稿，甚至把下一周的活也做完了（自由撰稿以来第一次）。她回忆自己这些年常在圣诞节把购物、家人晚餐、学校的演出都推掉，只为窝着写影评或去采访无关紧要的人物。她走 Balmes 街，打算先去喝一杯 espresso 再去学校。",
+      "range": [
+        723,
+        1661
+      ],
+      "lines": [
+        12
+      ]
+    },
+    {
+      "id": "E3",
+      "who": "Diana",
+      "what": "走到半路心跳开始敲耳朵：她无法回想自己拔掉插头的那一刻，只记得直发夹一向搁在水槽里（旁边没有可燃物），并且『sure it had a temperature gauge』会自己断电——但她从没留意过那东西到底有没有温控，而且很旧。她列出各种可能（水龙头滴水溅到直发夹、放在毛巾旁的架子上），『She turned halfway around』，打电话给 Carlos 想让他替她确认、替她决定（叫她别回去看），Carlos 没接。她泪眼、尴尬地折返 Balmes，新靴子太紧，小趾被磨破。",
+      "range": [
+        1664,
+        3070
+      ],
+      "lines": [
+        15
+      ]
+    },
+    {
+      "id": "E4",
+      "who": "Diana × Brisa 同班同学的家长",
+      "what": "比『慢慢崩溃』『变得像块抹布一样没生气』更让她难堪的，是撞见同班同学的家长们——他们都是卡着点出门的，却似乎还是会比她先到学校演出；他们笑着指出她走错方向（她自己以前也开过这种玩笑）。她假装在看手机以免眼神接触。",
+      "range": [
+        3074,
+        3591
+      ],
+      "lines": [
+        18
+      ]
+    },
+    {
+      "id": "E5",
+      "who": "Diana",
+      "what": "到了楼下（『the building entrance』）没有闻到炸东西或烧焦的味道；上楼时盼着真有一场小火——毛巾或发圈之类能烧起来，好证明自己荒唐得有道理（这样即便错过演出开头，也算避免了一场大祸）。推门进去后：没有烟、没有火、没有温控器响；那支『of course had no thermostat』的直发夹是关着的，电线盘好，离浴室里其他东西半米远；『Everything was in order. Everything had been checked, and checked again, an hour earlier.』",
+      "range": [
+        3594,
+        4432
+      ],
+      "lines": [
+        21
+      ]
+    },
+    {
+      "id": "E6",
+      "who": "Diana",
+      "what": "独立成段的一句铰链：『Diana arrived at the Christmas play late, her pinkie toes raw.』（迟到，小趾磨破）。",
+      "range": [
+        4438,
+        4500
+      ],
+      "lines": [
+        27
+      ]
+    },
+    {
+      "id": "E7",
+      "who": "Diana × 老师助理 × 到场的家长",
+      "what": "她一进校门就感觉到老师的助理（正出神地数着分钟等人下班）在评判她迟到；她在走廊听见 Brisa 在家里哼了几周的圣诞歌，眼眶发软、腿发抖。她本盼演出晚开或别的年级先上——但没有，孩子们按班级顺序上。她在台上看见的画面被无数家长与祖辈的手机屏幕缩小成同样的画面（『they’d ignored the instruction not to take videos』）；到场的一个-school-pickup 时认识的保姆也没有，来的几乎都是提前很久到的家长，多是妈妈（『serene and impeccable, toes soft and perfect』）。诗之后孩子们唱了一首『loosely religious version of a Taylor Swift song』，家长大声笑，急于显示自己认得这首连外星人都知道的歌。她独自坐到最后一排、不出声，在别的家长手臂之间寻找 Brisa。",
+      "range": [
+        4503,
+        5725
+      ],
+      "lines": [
+        30
+      ]
+    },
+    {
+      "id": "E8",
+      "who": "Brisa",
+      "what": "她不唱歌，成了唯一不唱的孩子：交叉双臂，把同学们戴在头上的金色皇冠做成面具；被母亲的缺席刺痛，退进了合唱队（『she had sunk into the choir』）。『She looked like a tiny felon in a lineup, blindfolded with a band of sparkly paper.』——像列队照相里的小囚犯，被一条闪亮纸带蒙住眼。",
+      "range": [
+        5969,
+        6307
+      ],
+      "lines": [
+        30
+      ]
+    }
+  ],
+  "characters": {
+    "Diana": "视角人物。自由撰稿人（freelance），Carlos 的伴侣，Brisa 的母亲。本章全部动作围绕『去女儿圣诞演出』这一件事展开：安排下午、提前交稿、走到半路折返查直发夹、最后迟到。原文用 Her partner 指 Carlos（:12），本章未出现『丈夫』字样。",
+    "Brisa": "Diana 的女儿，学龄前班，本章有两个场景：台上找妈妈（:6）与台下用皇冠做面具（:30）。原文写『their classmates』（Brisa 与同学们）。",
+    "Carlos": "Diana 的伴侣（:12 原文「Her partner」），当天整天在 Madrid；Diana 打电话给他想让他替她确认直发夹并替她做决定，他没接（:15）。本章他从未出场。",
+    "Brisa 同班同学的家长": "在 Balmes 街上与 Diana 擦肩而过的那批家长（:18），也是演出时提前到场、几乎都是妈妈的那批人（:30）。",
+    "老师助理（teacher's aide）": "在校门口评判 Diana 迟到的那位（:30）；原文写她正出神地数着分钟等人下班。",
+    "教 Brisa 的老师": "本章未出场；只由 teacher's aide 一句侧面带出。",
+    "Diana 的同学的妈妈": "受托去接 Carlos 的儿子（:12）——即 Carlos 由同学妈妈代接孩子。",
+    "Brisa 的哥哥 Tomás": "本章未出现（名字只在 ch02:480 出现）。",
+    "Carmen / Alba / Juan": "本章三人均未出现；Alba 另有自己的章节。"
+  },
+  "numbers_and_dates": {
+    "verbatim_numbers": [
+      {
+        "text": "blocked off the afternoon weeks in advance",
+        "range": [
+          910,
+          960
+        ],
+        "line": 12,
+        "note": "提前几周留出整个下午"
+      },
+      {
+        "text": "She'd even finished the following week's assignments",
+        "range": [
+          1157,
+          1209
+        ],
+        "line": 12,
+        "note": "连下一周的活都提前做完"
+      },
+      {
+        "text": "since she'd gone freelance all those years ago",
+        "range": [
+          1209,
+          1288
+        ],
+        "line": 12,
+        "note": "自由撰稿的年限（无数个年头，原文用 all those years）"
+      },
+      {
+        "text": "halfway there",
+        "range": [
+          1664,
+          1676
+        ],
+        "line": 15,
+        "note": "折返的时点：走到半路"
+      },
+      {
+        "text": "quite old",
+        "range": [
+          1967,
+          1977
+        ],
+        "line": 15,
+        "note": "直发夹很旧（无具体年数）"
+      },
+      {
+        "text": "half a meter",
+        "range": [
+          4234,
+          4246
+        ],
+        "line": 21,
+        "note": "直发夹离浴室其他东西半米远"
+      },
+      {
+        "text": "an hour earlier",
+        "range": [
+          4412,
+          4425
+        ],
+        "line": 21,
+        "note": "『Everything had been checked, and checked again, an hour earlier』——出门前一小时就已检查过"
+      },
+      {
+        "text": "multiplied by one hundred",
+        "range": [
+          5065,
+          5086
+        ],
+        "line": 30,
+        "note": "家长手机屏幕上同一个画面被缩小复制上百次"
+      },
+      {
+        "text": "the following week",
+        "range": [
+          1157,
+          1173
+        ],
+        "line": 12,
+        "note": "提前完成下一周的任务"
+      },
+      {
+        "text": "spent weeks preparing",
+        "range": [
+          612,
+          633
+        ],
+        "line": 6,
+        "note": "Brisa 们练了几周的词"
+      },
+      {
+        "text": "at home for weeks",
+        "range": [
+          4716,
+          4735
+        ],
+        "line": 30,
+        "note": "Brisa 在家里哼了几周的圣诞歌"
+      },
+      {
+        "text": "seven thirty",
+        "range": [
+          0,
+          0
+        ],
+        "line": 0,
+        "note": "本章无此数字（此条为占位核对用，实际不存在）"
+      }
+    ],
+    "dates": {
+      "chapter_time": "平安夜前一天的傍晚（演出在圣诞前夜）。epub 分隔页 `xhtml/008_p001_December_22_Three_Da.xhtml` 标题为『December 22: Three Days Before Christmas』，p001 之后依次是 Chapter 1–3 ⇒ 第 1–3 章＝**12 月 22 日**（圣诞节前三天）。本章原文内部无日期字样，只有『the start of the holidays』（:12）与『Brisa had been humming at home for weeks』（:30）。",
+      "relative_times": "『following week』（:12）＝下周；『an hour earlier』（:21）＝出门前一小时；『all those years ago』（:12）＝转做自由撰稿以来；『all day』（:12）＝Carlos 在 Madrid 一整天。",
+      "long_arc": "本章只交代 Diana 的工作状态（自由撰稿、已完成下周任务）与 Brisa 在学龄前班；亲属网络的其余部分不在本章。"
+    }
+  },
+  "open_questions_for_md_check": [
+    "「错过了女儿的第一场演出」——本章原文有没有『第一场』？原文只说『missed a school play』是 Diana 过去若干个圣诞节里常有的旧习（:12），与 Brisa 这次是哪一场无关；本章 "first" 一词只出现在 :30 的『The only child not singing』。md 若把『第一场』当成本场演出的属性即为凭空计数。",
+    "「真女王正站在楼下为一只插头发疯」（块 2 的解读）——Diana 折返发生在『走到半路』（:15 halfway there），不是『楼下』；她后来确实到了楼下（:21 the building entrance），但那时她已经折返到家中了。md 若称她当时在楼下，属时间／地点错位。",
+    "「纯白标准后面还会以更脏的样子回来」——本章的 immaculate white 只在 :6 出现一次。md 的跨章承诺指向别的章，须在被指章的原文里找得到落点，否则属无出处的前瞻。",
+    "「序章里也出现过一次——别人给她戴上的耳环」——序章（text/ch00_prologue.txt）的耳环是主角醒来后自己戴上的新耳洞（:21 "her ears were covered in new piercings, full of earrings she’d never seen before"），不是别人给她戴的；序章主角是带着 Brigitte 的那位母亲（ch12 同场景），不是 Brisa。md 若说『序章里别人给她戴上耳环』需回 ch00/ch12 核。",
+    "Brisa 在本章的唯一一次自主决定——原文只写『she decided to stop looking』（:6）这一个动作；:30 的『crossed her arms and made a mask』发生在 Brisa 看不见母亲的背景下。md 若称前者是本章唯一一次，需确认没有把 :30 也算作自主决定。",
+    "「序章那家童趣店」与本章舞台道具的呼应——序章是玩具/服装店（塑料头冠、芭蕾舞鞋、蝴蝶翅膀），本章是幼儿园舞台（硬纸板翅膀、金冠）；md 说是『互相呼应』属解读层，核的是别把序章的店写成与本章同一场景。",
+    "Carlos 在本章的身份——原文用 Her partner（:12），未出现 husband；md 若称『丈夫』属称谓过头。",
+    "Diana 的职业——原文 :12 说 she's gone freelance；:9 的 articles 指稿子。md 若写成『编剧/导演』等具体职业与本章原文不符（她的电影评论员身份是 ch04:207 才出现的）。"
+  ]
+}
