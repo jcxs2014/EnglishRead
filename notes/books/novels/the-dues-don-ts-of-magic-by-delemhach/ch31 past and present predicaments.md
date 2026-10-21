@@ -43,7 +43,7 @@ modified: "2026-10-20"
 
 **为什么这样写：** 她一边贬低 Pesch，一边替打手辩护，**道德账算得极细**。而"ick"是她临时造出来的词——先被追问，才改成"滑腻"，两次换词都暴露她找不到一个够用的形容词。作者让**语言的笨拙**承担潜台词：她还在乎那帮打手。
 
-**读者视角提示：** 留意人物**临时换词**的时刻。找不到合适的词，往往说明她还没把对方想明白。
+**读者视角提示：** 留意人物**临时换词**的时刻。找不到合适的词，往往说明她还没把 Pesch 想明白。
 
 > **原句 4:** "Spidena winced as she attempted to let her hair back down “Well, I… I may have taken some of my back pay that he would’ve refused to give me if I’d asked with the intent of leaving his gambling house."
 
