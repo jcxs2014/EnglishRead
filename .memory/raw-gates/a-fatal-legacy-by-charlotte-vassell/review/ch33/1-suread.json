@@ -1,0 +1,161 @@
+{
+  "chapter": "ch33",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch33_33.txt",
+  "source_len_chars": 14406,
+  "read_order": ["text/ch33_33.txt only", "no md read before this file was written"],
+  "title": "The Police Station",
+  "number": "33",
+  "events": [
+    {
+      "id": "E1",
+      "who": "Amy",
+      "did": "告诉 Caius：Jimmy 的粉丝 David Glossop 在直播没有结束后报了警；他说他只瞥见闯入者，对方穿深色衣服、现场光线昏暗，所以他认不出是谁、也判断不出身高，只觉得对方看起来像白人或者中东人。",
+      "range": [41, 390]
+    },
+    {
+      "id": "E2",
+      "who": "Caius",
+      "did": "命令 Amy 读完 Horatio Combe 的全部日记，指定「All twenty-one of them」（他说图书馆楼上一共只有 21 卷）。他自己则去翻 Jimmy 最新一条社交媒体的评论，看有没有像疯狂粉丝的人出现。",
+      "range": [393, 756]
+    },
+    {
+      "id": "E3",
+      "who": "Amy",
+      "did": "被难住：Amy 花了十分钟连第一本日记的第一段都读不出来——「The letters are all the same. It's just squiggles.」（原文字母都是一样的，全是弯弯扭扭的线）。",
+      "range": [2114, 2332]
+    },
+    {
+      "id": "E4",
+      "who": "Caius（打电话给 Willow）",
+      "did": "Caius 拨通 Willow 的电话（免提），自报「DI Caius Beauchamp」；Willow 确认是她誊录的，说「All twenty-two of the bloody things.」（二十二本）。",
+      "range": [2335, 2731]
+    },
+    {
+      "id": "E5",
+      "who": "Willow",
+      "did": "澄清誊录方式：不是用 Digby 的打字机，是用自己的笔记本电脑，因为「I kept making too many mistakes to type them up that way」；她还没全部打完，所以 Digby 从没见过誊本。她说每个日记是一个单独的 Word 文档，文件都还在。",
+      "range": [2734, 3104]
+    },
+    {
+      "id": "E6",
+      "who": "Caius / Amy / Willow",
+      "did": "Caius 看向 Amy，Amy 摇头并嘴型说「twenty-one」——她面前正摊着全部日记，刚数过。Willow 确认有 22 卷；Caius 说「There were only twenty-one in the library upstairs.」（楼上图书馆里只有 21 本）。",
+      "range": [3136, 3469]
+    },
+    {
+      "id": "E7",
+      "who": "Willow",
+      "did": "解释多出来的那一卷：「One of Digby's forebears removed this one specific volume from the collection for being lewd. It was kept under lock and key in Digby's desk.」——Digby 的某位祖先因为这一卷「淫秽」把它从藏品里抽走，锁在 Digby 的书桌抽屉里。Digby 的祖父告诉过他不要读第二十二卷，但 Willow 读了，而且「He had me start there」（Digby 让她从这一卷开始誊）。Caius 问「The malaria year?」，Willow 确认就是疟疾那一年；内容是「gibberish about communing with the dead and orgies」，有图示她没誊，只拍了两张照片发给女孩们。Horatio 死于那一年。",
+      "range": [3472, 4406]
+    },
+    {
+      "id": "E8",
+      "who": "Willow",
+      "did": "问「Any luck with the weirdo who dressed up like me?」（假扮成我的怪人）；Caius 说还没有。她说自己没睡好、总觉得有个跟踪狂，「What if there was someone who lived on the square who was watching my every move?」（会不会就有个住在广场上的人盯着她的一举一动）。",
+      "range": [4472, 4971]
+    },
+    {
+      "id": "E9",
+      "who": "Amy / Tiny Simm",
+      "did": "被问第二十二卷是否在场（Was the twenty-second volume there?）：Amy 断然否认——她和 Tiny Simm 把那栋楼翻了个底朝天，Digby 抽屉里的任何文件都已被列为证物。Caius 追问「Missing? Or stolen?」（不见了？还是被偷了？）——原文未给答案。",
+      "range": [4974, 5197]
+    },
+    {
+      "id": "E10",
+      "who": "Caius / Matt / Amy",
+      "did": "三人围着电脑看 Willow 传来的图示。Amy 是「gold-star lesbian」，问「Is that what straight sex is really like?」；Matt 说物理规律总得参与；Caius 说得有绞盘和强腹肌就行，然后追问「are we really sure that we didn't miss the dirty journal at the crime scene?」——Amy 再次否认，说自己亲手翻过 Digby 的抽屉，现场没有另一本日记。Matt 问「Why steal it?」（为什么要偷？），Caius 调侃说「It has the family's famous damson jam recipe?」并让 Amy 去读 Willow 的誊本。",
+      "range": [5212, 6189]
+    },
+    {
+      "id": "E11",
+      "who": "Amy",
+      "did": "先读疟疾那一年；她说日记里大量以神秘、插入式措辞描写群体性行为，Horatio 在研究所的地下室以及广场上其他房屋里开降神会，「Sometimes the two things seemed to merge.」",
+      "range": [6342, 6860]
+    },
+    {
+      "id": "E12",
+      "who": "Amy",
+      "did": "读出 Horatio 的小圈子成员：他自己一个男的，跟所有女性都睡；其他人住在广场周边，降神会可能只是「proto-swinging」的掩护。名单：（a）7 号的寡妇和女儿——Mary and Emmeline Plunkett（7 号＝Benedict 的房子）；（b）在外务部工作的 21 号——Josiah Hargreaves，与 Horatio 上过同一所寄宿学校、对 Horatio 谄媚，「He just watches」（他只是看着）；21 号＝Jimmy Jones 的房子；（c）35 号的女画家——Lavinia Caddington，因在皇家美术学院的夏季展览上脱衣被禁止入内；Caius 搜过她，她曾一度时髦，后来长时间在海滨疗养。",
+      "range": [6958, 7851]
+    },
+    {
+      "id": "E13",
+      "who": "Caius",
+      "did": "查 35 号——目前没有报案；调出广场地图并打印。Benedict 告诉过他 Victorian 时代他家也开过降神会（说的时候像是在炫耀，Matt 追问是趣闻还是隐晦的吹嘘，Caius 答「Titbit」）；Caius 还在他家地下室厨房层墙上见过像五芒星的印记，一层漆剥落了；房子是从一位在此住了一辈子的老太太手里买的。",
+      "range": [7854, 8579]
+    },
+    {
+      "id": "E14",
+      "who": "Caius",
+      "did": "用荧光笔在地图上标注：Digby 和 Jimmy 的房子红色，Benedict 的橙色。分析：广场是「fake Isolde」的猎场——两名受害者的工作地点步行五分钟内，破门而入就发生在那两栋特定房子，还怀疑 Digby 家也被搜过。Matt 评「That's three out of four」。Caius 派 Matt 回家顺路去 35 号看看有没有出事，把 35 号涂黄并在广场上画了个十字；让 Amy 做一份日记的 crib sheet：凡是提到广场的、他旅行途中偷来的贵重东西、可能影响「我们这个年纪」的任何内容。",
+      "range": [8582, 9524]
+    },
+    {
+      "id": "E15",
+      "who": "Caius",
+      "did": "上网查广场历史，找到一个关于 Priory Square 的博客（有脚注指向本地史丛书），Benedict 说得大致不错。查到：圣 Agnes 修道院由埃莉诺·阿基坦于 1188 年与丈夫争吵后为赎罪而建；它控制的土地在 14 世纪一度供应伦敦十分之一的猪肉；宗教改革时被亨利八世赐给宠臣 Sir Walter de Cressy，其后裔经母系发展成今天的这些房子并仍持有这一带的 leasehold；修道院被认为建在盎格鲁-撒克逊小教堂之上、而小教堂又建在罗马废墟上，12 世纪的文献提到下方有密涅瓦神庙；最臭名昭著的住民 Alice de Burge（年轻修女，1532 年因异端被烧死，所有「Her Visions」抄本随她一起被焚，伦敦国王学院 Andrew Clifton 教授另有解释）；1860 年代建这些房子时曾传挖地下室发现中世纪砌体，但从未正式发掘。",
+      "range": [9527, 12130]
+    },
+    {
+      "id": "E16",
+      "who": "Caius 与父亲 Marcus",
+      "did": "Caius 点开 Sir Walter de Cressy 的链接（全是「Norman blah blah」），突然站起来说要去打私人电话，在空房间里喊「Hi, Dad.」——父亲认出是 Priory Square，说租约（leasehold）归他们家、房子里还有三分之一也归他们家；他们名下的房子在 1980 年代全改成了公寓、待翻新；建楼时卖掉了一部分，卖房的钱付了其余房子的建造成本；1950 年代又有一批房子上市，为的是支付一位曾叔祖去世后的遗产税。Caius 说广场上连着两起谋杀、一起「看着像意外但可疑」的死亡。Marcus 说「Oh dear.」，声调沉下来。",
+      "range": [12133, 13295]
+    },
+    {
+      "id": "E17",
+      "who": "Caius / Amy",
+      "did": "Caius 回到事件室告诉 Amy「My dad owns it.」——「Priory Square. It's Beauchamp land.」他说得向首席警司（Chief Superintendent）汇报，因为利益冲突会被调离此案；并说在他走之前先定个计划（取决于新来的 DI 是谁、是否觉得他碍事）。",
+      "range": [13298, 13926]
+    },
+    {
+      "id": "E18",
+      "who": "Caius",
+      "did": "书面申请（Fenella Combe-Watson）进入 Horatio Combe 研究所地下室以查看当年降神会的地点；同时催办一份悬着的 CCTV 申请；用手机打给 Matt 说明情况；Amy 把他的策略抄进笔记本；Caius 带着打印好的广场地图去首席警司办公室。",
+      "range": [13929, 14405]
+    }
+  ],
+  "relations": [
+    {"a": "Caius Beauchamp", "b": "Marcus", "rel": "父子；Marcus 是 Caius 的父亲（同姓 Beauchamp 家），家里持有 Priory Square 的 leasehold 和三分之一房产", "range": [12524, 13463]},
+    {"a": "Caius", "b": "Amy", "rel": "同事（Caius 下令 Amy 读 21 本日记）", "range": [393, 756]},
+    {"a": "Caius", "b": "Willow", "rel": "Caius 打电话向 Willow 求证誊本与卷数；Willow 曾受 Digby 之托誊录 22 本日记", "range": [2335, 2731]},
+    {"a": "Willow", "b": "Digby", "rel": "Digby 让她从第二十二卷（疟疾年）开始誊录；她没誊完，Digby 从未看过誊本", "range": [3472, 3766]},
+    {"a": "Amy", "b": "Tiny Simm", "rel": "Amy 与 Tiny Simm 一起搜过整栋楼", "range": [5032, 5173]},
+    {"a": "David Glossop", "b": "Jimmy", "rel": "Jimmy 的粉丝；在直播未结束后报警", "range": [41, 390]},
+    {"a": "Horatio Combe", "b": "Mary and Emmeline Plunkett / Josiah Hargreaves / Lavinia Caddington", "rel": "降神会兼性伴侣小圈子成员，住在广场各号（7 / 21 / 35）", "range": [6958, 7851]},
+    {"a": "Benedict", "b": "7 号（Plunkett 母女旧居）", "rel": "7 号现为 Benedict 的房子", "range": [7231, 7332]},
+    {"a": "Jimmy Jones", "b": "21 号（Josiah Hargreaves 旧居）", "rel": "21 号现为 Jimmy Jones 的房子", "range": [7335, 7552]},
+    {"a": "Caius", "b": "Chief Superintendent", "rel": "上级；Caius 因家族持股 Priory Square 属利益冲突，须向其汇报并被调离案件", "range": [13505, 13926]},
+    {"a": "Caius", "b": "Fenella Combe-Watson", "rel": "研究所方面联系人；Caius 书面申请进入研究所地下室", "range": [13929, 14405]}
+  ],
+  "numbers_and_dates": [
+    {"item": "Horatio Combe 日记总卷数", "value": "twenty-two（22）", "verbatim": "All twenty-two of the bloody things.", "range": [2698, 2731]},
+    {"item": "图书馆楼上的卷数（Caius 的说法 / Amy 刚数出的数）", "value": "twenty-one（21）", "verbatim": "There were only twenty-one in the library upstairs.", "range": [3416, 3469]},
+    {"item": "Caius 布置 Amy 读的卷数", "value": "All twenty-one of them.", "range": [462, 756]},
+    {"item": "多出的那卷 = 疟疾年 / 淫秽被抽走的那一卷", "value": "one specific volume（第二十二卷）", "verbatim": "One of Digby’s forebears removed this one specific volume from the collection for being lewd.", "range": [3500, 3766]},
+    {"item": "Amy 读第一段花的时间", "value": "the last ten minutes", "range": [2114, 2235]},
+    {"item": "Jimmy 上个月做的反税收视频数", "value": "five videos in the last month", "range": [1806, 2035]},
+    {"item": "Horatio 死去的年份（=疟疾年）", "value": "Horatio died that year", "range": [3845, 4406]},
+    {"item": "降神会地点数", "value": "the basement of the Institute and other houses in the square", "range": [6621, 6860]},
+    {"item": "两名受害者工作地点步行距离", "value": "within five minutes’ walk of each other", "range": [8855, 9086]},
+    {"item": "Matt 的评语", "value": "That’s three out of four", "range": [9089, 9127]},
+    {"item": "广场成员住址", "value": "number 7（Mary and Emmeline Plunkett）、number 21（Josiah Hargreaves）、number 35（Lavinia Caddington）", "range": [7231, 7851]},
+    {"item": "研究所奠基年份", "value": "1188（Eleanor of Aquitaine 赎罪建 St Agnes’s Priory）", "range": [9820, 10317]},
+    {"item": "修道院供猪比例", "value": "one-tenth of London’s pork（14 世纪）", "range": [10189, 10317]},
+    {"item": "Alice de Burge 被烧死年份", "value": "1532", "range": [11385, 11905]},
+    {"item": "现 houses 建成年代", "value": "the 1860s", "range": [11908, 12130]},
+    {"item": "Beauchamp 家名下房产改公寓年份", "value": "the 1980s", "range": [12769, 13079]},
+    {"item": "第二批房子上市年份（为付遗产税）", "value": "the 1950s", "range": [12983, 13079]},
+    {"item": "Caius 家持有份额", "value": "The leasehold yes, and a third of the houses still", "range": [12664, 13079]},
+    {"item": "Caius 提到的死亡数", "value": "two murders, and one accident-but-looks-dodgy", "range": [13165, 13249]},
+    {"item": "平方 postcode", "value": "NW1", "range": [12581, 12587]},
+    {"item": "Willow 拍的图示照片数", "value": "a couple of pictures", "range": [3845, 4406]},
+    {"item": "Caius 手机的地图标注色", "value": "Digby 与 Jimmy 红、Benedict 橙、35 号黄", "range": [8643, 9130]}
+  ],
+  "open_threads": [
+    "第二十二卷（疟疾年）现在在哪儿：缺失还是被偷——原文停在问句，无答案。",
+    "假扮成 Willow 的闯入者是谁；Willow 怀疑住在广场上的人盯着她。",
+    "「fake Isolde」的猎场与广场的关系；「three out of four」中的四指的是什么，原文未明写。",
+    "Caius 因 Beauchamp 家持有 Priory Square 被调离案件。"
+  ]
+}
