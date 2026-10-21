@@ -1,0 +1,220 @@
+{
+  "chapter": "ch05",
+  "reviewer": "R3",
+  "source": "notes/books/mystery-thriller/a-fatal-legacy-by-charlotte-vassell/text/ch05_5.txt",
+  "source_chars": 5461,
+  "source_bytes": 5776,
+  "source_lines": 151,
+  "note": "R3 素读：本次审查员在开 md 之前独立读完全文（未读 md）。字符区间为本文件 0-based 半开区间 [start,end)；行号为 text/ch05_5.txt 行号。数字与引语逐字抄写。",
+  "title": "The Police Station",
+  "title_verbatim": "The Police Station",
+  "part": {
+    "name": "SATURDAY",
+    "evidence": "epub OPS/s010-Part-002.xhtml 首行正文为 'SATURDAY'；s014-Chapter-005.xhtml（本章）的书内章题为 'The Police Station'。本章落在第二分部 SATURDAY（epub 十二分部依次为 A FRIDAY IN MAY / SATURDAY / SUNDAY / MONDAY / TUESDAY / WEDNESDAY / THURSDAY / FRIDAY / SATURDAY / MONDAY / TUESDAY / SIX WEEKS LATER）。"
+  },
+  "sections": [
+    { "name": "The Police Station", "span": [39, 1939], "note": "第一场：Chief Superintendent 与 Caius 在警务室" },
+    { "name": "（第二场：无小标题，* * * 分隔符之后）", "span": [1954, 5460], "note": "Matt 与 Caius 泡茶；末段 Amy 打电话汇报" }
+  ],
+  "events": [
+    {
+      "id": "E1",
+      "who": "Chief Superintendent",
+      "did": "开场摇头说 '‘Poisoned salad, eh?’ asked the Chief Superintendent, shaking his head. ‘You couldn’t make that up.’'",
+      "span": [39, 139],
+      "source_line": 20
+    },
+    {
+      "id": "E2",
+      "who": "Caius",
+      "did": "向 Chief Superintendent 报告：'We’ve contacted the Food Standards Agency who are in touch with the supplier that distributes to the greengrocer’s we’re certain Digby Combe-Watson bought it from,'，'They’ve done an emergency recall. It’s possible that the bag had some hemlock leaves in it.'",
+      "span": [142, 436],
+      "source_line": 23
+    },
+    {
+      "id": "E3",
+      "who": "Chief Superintendent",
+      "did": "对 E2 回以玩笑 '‘And they say eating your greens is good for you.’ The Chief Superintendent chortled at his own joke.'（此处他是接笑话，不是下结论）",
+      "span": [439, 540],
+      "source_line": 26
+    },
+    {
+      "id": "E4",
+      "who": "Caius",
+      "did": "答 '‘Indeed, sir.’' 并说笑得 'laughed a little too hard to be believable'；随后说 'We’re trying to locate his date. They go by Isolde.'",
+      "span": [543, 661],
+      "source_line": 29
+    },
+    {
+      "id": "E5",
+      "who": "Chief Superintendent",
+      "did": "接话 '‘Like the opera.’'；并说 '‘Wagner did a version. Tristan and Isolde. It’s a very old story and a very long opera. Four hours.’'",
+      "span": [664, 681],
+      "span2": [809, 909],
+      "source_line": 32, 38
+    },
+    {
+      "id": "E6",
+      "who": "Caius（内心）",
+      "did": "没想到 Chief Superintendent 是歌剧迷 'He was lift-worthy smooth jazz personified.'；自陈分不清 Handel 与 Bach。",
+      "span": [684, 806],
+      "span2": [912, 1058],
+      "source_line": 35, 41
+    },
+    {
+      "id": "E7",
+      "who": "Chief Superintendent",
+      "did": "低声问 '‘How are you doing?’'，点出 Caius 的 special unit 已被 disbanded；理由是 'your champion Arthur Hampton leaving the Cabinet' 与新任 Home Secretary 要 further budget cuts，'its closure was inevitable really'；并称 'Those cold cases and the double train murder, all within a year. It was very impressive.'",
+      "span": [1061, 1584],
+      "source_line": 44
+    },
+    {
+      "id": "E8",
+      "who": "Caius",
+      "did": "看一只 magpie 飞过窗外、'He resisted the urge to salute it'；答 '‘It is what it is, sir. Just happy to be out there serving the community.’'",
+      "span": [1587, 1762],
+      "source_line": 47
+    },
+    {
+      "id": "E9",
+      "who": "Chief Superintendent",
+      "did": "说 '‘That’s the spirit.’'；自陈 'He himself had been disappointed. It had brought a little prestige to the station.'；然后点头离开房间。",
+      "span": [1765, 1939],
+      "source_line": 50
+    },
+    {
+      "id": "E10",
+      "who": "Matt / Caius",
+      "did": "Matt 问 '‘What sort of tea?’'，Caius 答 '‘Peppermint,’'；两人聊 PMQs 片段与新 PM 签 stilton 出口 South Korea 贸易协议；Caius 说 '‘I’m done with politics. I’m going to live in a cave…’'",
+      "span": [1954, 2034],
+      "span2": [2053, 2346],
+      "source_line": 60, 63, 66, 69
+    },
+    {
+      "id": "E11",
+      "who": "Matt",
+      "did": "说 '‘I’ve put in a warrant request for the details of the PO Box owner to the Post Office. We won’t hear back from them until Monday now.’'",
+      "span": [2363, 2562],
+      "source_line": 72
+    },
+    {
+      "id": "E12",
+      "who": "Caius",
+      "did": "说 '‘I’ve let the Foreign Office know that we need to speak to Digby’s mother.’'",
+      "span": [2565, 2680],
+      "source_line": 75
+    },
+    {
+      "id": "E13",
+      "who": "Caius",
+      "did": "看到楼下 'a bright red post box' 后说 '‘A PO Box.’'；并自答 '‘It’s an affair.’'；随后说 'Who has an affair conducted by letters these days?'",
+      "span": [2911, 3097],
+      "source_line": 99, 102
+    },
+    {
+      "id": "E14",
+      "who": "Matt",
+      "did": "说 '‘They’re not cheap though. PO Boxes are £40 a month.’' 并问 '‘What are you thinking?’'",
+      "span": [3425, 3546],
+      "source_line": 114
+    },
+    {
+      "id": "E15",
+      "who": "Caius",
+      "did": "提出 '‘A scam, maybe? Someone targeting old people… They could be writing to multiple people. They lure them out on a date while an accomplice does their place over.’'",
+      "span": [3549, 3791],
+      "source_line": 117
+    },
+    {
+      "id": "E16",
+      "who": "Matt",
+      "did": "反驳 '‘But Digby wasn’t burgled.’'",
+      "span": [3794, 3821],
+      "source_line": 120
+    },
+    {
+      "id": "E17",
+      "who": "Caius",
+      "did": "回 '‘Well, no, because he ate an accidentally poisoned salad. The date panics, flees and calls off the burglary. They’d know we’d be looking for them and they don’t want us to see a pattern if they’ve done it before.’'",
+      "span": [3824, 4037],
+      "source_line": 123
+    },
+    {
+      "id": "E18",
+      "who": "Matt",
+      "did": "说 '‘Isolde is a fake name, if ever I heard one.’'",
+      "span": [4040, 4085],
+      "source_line": 126
+    },
+    {
+      "id": "E19",
+      "who": "Caius",
+      "did": "说 '‘It’s either fake or they’re super posh. It’s from an opera by Wagner.’'，并自承 'Caius wasn’t going to admit that this fact had been new to him five minutes ago'；又引征友广告 'They’ve handpicked it based on their “culture vulture” mark. It says, “I come from a petit bourgeois family.”'",
+      "span": [4088, 4404],
+      "source_line": 129
+    },
+    {
+      "id": "E20",
+      "who": "Amy（电话，Caius 开免提）",
+      "did": "说 '‘Me and Simm. You know Anthony Simm. Tiny Simm in uniform. The really lanky guy. Anyway, me and Simm have crossed off the downstairs rooms and half of the upstairs. The taxidermy stuff took up a lot of space so it didn’t take as long as I first feared.’'",
+      "span": [4501, 4754],
+      "source_line": 135
+    },
+    {
+      "id": "E21",
+      "who": "Amy（电话）",
+      "did": "转述 Mrs Bourne（邻居）没看到也没听到任何东西，'She said she bulk buys melatonin whenever she’s in the US and takes one every night to knock her out'；并问 'Were the door-to-doors any use?'",
+      "span": [4812, 5048],
+      "source_line": 141
+    },
+    {
+      "id": "E22",
+      "who": "Matt",
+      "did": "说 '‘No one on the square saw anything,’'、'‘Half of the flats are empty. Investment properties.’'；但最末端那栋 house 有 doorbell camera，'It doesn’t show the Institute, it’s blocked by the trees, but you do get a portion of the pavement a bit further along.'",
+      "span": [5051, 5372],
+      "source_line": 144
+    },
+    {
+      "id": "E23",
+      "who": "Caius / Matt",
+      "did": "Caius '‘Woo, that’s my Sunday sorted,’'（指去查那台门口摄像头）；Matt '‘I’ve updated my playlists.’'",
+      "span": [5375, 5418],
+      "span2": [5423, 5460],
+      "source_line": 147, 150
+    }
+  ],
+  "characters": [
+    { "name": "Caius", "role": "视角人物，警察；原 special unit 成员（该组已被 disbanded）；本章与 Chief Superintendent 对话、与 Matt 泡茶", "key_span": [142, 1939] },
+    { "name": "Chief Superintendent", "role": "Caius 的上级（未具名）；歌剧迷；对 special unit 解散自己也失望", "key_span": [39, 1939] },
+    { "name": "Matt", "role": "Caius 同事；泡茶、提交 warrant request、看 emails、查广场门口摄像头", "key_span": [1954, 5460] },
+    { "name": "Amy", "role": "Caius 同事；正与 Anthony Simm 搜查 Digby 住处，电话里汇报", "key_span": [4501, 5048] },
+    { "name": "Anthony Simm (\"Tiny Simm\")", "role": "Amy 的搭档，制服人员，高瘦", "key_span": [4501, 4754] },
+    { "name": "Digby Combe-Watson", "role": "死者；警方确信他从那家 greengrocer 买沙拉；被网恋对象约见，自称 Isolde", "key_span": [142, 436] },
+    { "name": "Isolde", "role": "Digby 约会对象的自称（疑假名，取自瓦格纳 Tristan and Isolde）", "key_span": [543, 661] },
+    { "name": "Mrs Bourne", "role": "邻居；曾与 Amy 交谈", "key_span": [4812, 5048] },
+    { "name": "Arthur Hampton", "role": "已离开 Cabinet；Chief Superintendent 口称 'your champion'，是 special unit 的靠山", "key_span": [1061, 1584] },
+    { "name": "Callie", "role": "Caius 熟人；她一位朋友在新家办活动", "key_span": [2826, 2887] },
+    { "name": "Yumi", "role": "Matt 的朋友（酒吧局）", "key_span": [2914, 2944] }
+  ],
+  "numbers_and_dates": [
+    { "item": "章号", "verbatim": "5", "span": [0, 1], "source_line": 1 },
+    { "item": "歌剧时长", "verbatim": "Four hours.", "span": [897, 908], "source_line": 38 },
+    { "item": "special unit 战果时段", "verbatim": "Those cold cases and the double train murder, all within a year.", "span": [1495, 1559], "source_line": 44 },
+    { "item": "邮局回信时间", "verbatim": "We won’t hear back from them until Monday now.", "span": [2515, 2561], "source_line": 72 },
+    { "item": "PO Box 月租", "verbatim": "PO Boxes are £40 a month.", "span": [3452, 3477], "source_line": 114 },
+    { "item": "搜查进度", "verbatim": "me and Simm have crossed off the downstairs rooms and half of the upstairs", "span": [4590, 4664], "source_line": 135 },
+    { "item": "空置公寓比例", "verbatim": "Half of the flats are empty. Investment properties.", "span": [5139, 5190], "source_line": 144 },
+    { "item": "邻居用药", "verbatim": "she bulk buys melatonin whenever she’s in the US and takes one every night to knock her out", "span": [4884, 4985], "source_line": 141 },
+    { "item": "行动日", "verbatim": "my Sunday sorted", "span": [5388, 5404], "source_line": 147 }
+  ],
+  "key_questions_prep": {
+    "Q1_警方如何把意外讲成自洽剧本": "本章的『官方化』动作分两层：(a) Chief Superintendent 用 '‘Poisoned salad, eh?’ … ‘You couldn’t make that up.’' 和 '‘And they say eating your greens is good for you.’' 把投毒案降格为笑话，且他本人对解散 special unit 也失望并说 '‘That’s the spirit.’'；(b) 真正把『意外』写成剧本的是 Caius 本人——FSA→供应商→紧急召回→袋中可能有 hemlock 叶（E2），以及后来 '‘Well, no, because he ate an accidentally poisoned salad. The date panics, flees and calls off the burglary.’'（E17）。原文中唯一一次反驳是 Matt 的 '‘But Digby wasn’t burgled.’'（E16），随即被 E17 转成剧本一环。Chief Superintendent 在本章没有下过任何『排除投毒／认定为意外』的结论。",
+    "Q2_沙拉与面包归属": "本章正文没有出现任何关于沙拉/面包归属或吃没吃的句子；本章与食物有关的唯一句子是 Caius 的 'he ate an accidentally poisoned salad'（3824–4037）。原文关于归属的两句在 text/ch02_2.txt:131（Caius：'‘The same salad on both plates.’'）与 text/ch02_2.txt:134（Amy：'a roll on Digby’s side plate and just crumbs on his guest’s'）。因此若 md 在本章声称沙拉/面包属于谁、吃没吃，即为超出本章原文。",
+    "Q3_FSA与供应商线的结论": "本章只有 Caius 一段（142–436）：已联系 FSA；FSA 正与那家供应商接洽，该供应商供货给他们确信 Digby 买沙拉的那家 greengrocer；已做紧急召回；'It’s possible that the bag had some hemlock leaves in it.'（是可能，不是断定）。本章没有任何『已排除投毒』『已认定为意外』的结论，也没有出现 PCQV、唱片公司、food standards 的裁定措辞。",
+    "Q4_调查线概括": "本章警方工作线共三条：(i) FSA/供应链/紧急召回（E2）；(ii) 邮局 PO Box warrant + 外交部找 Digby 母亲（E11–E12）；(iii) 搜查 Digby 住处（Amy+Simm）+ 广场上无人目击 + 最末端那栋 house 的 doorbell camera（E20–E23）。"
+  },
+  "external_checks": [
+    "沙拉/面包归属句位置复核：text/ch02_2.txt:131 '‘The same salad on both plates.’'（说话人 Caius）；text/ch02_2.txt:134 'there was a roll on Digby’s side plate and just crumbs on his guest’s'（说话人 Amy）。",
+    "分部名复核：epub OPS/s010-Part-002.xhtml = 'SATURDAY'；s014-Chapter-005.xhtml 章题 'The Police Station'。"
+  ]
+}
