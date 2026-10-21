@@ -19,7 +19,7 @@ modified: "2026-10-20"
 
 > **原句 1:** "the weight on her shoulders seemed to lighten."
 
-中文理解：肩上重担似乎减轻了。南迪妮 把 写成 情感的 （情感麻醉），把 写成 （逃避）而非 （酗酒）。
+中文理解：肩上的重担似乎轻了一些。南迪妮把酒精写成情感麻醉，把喝酒写成逃避，而不是酗酒。
 
 句子结构：主语 the weight on her shoulders + 谓语 seemed to lighten。
 
@@ -51,7 +51,7 @@ modified: "2026-10-20"
 
 > **原句 3:** "Follow the light, my dear. Let it show you the way."
 
-中文理解：祖母 说"跟随光亮，亲爱的。让它为你指路。"把 写成 （指引者）而非 （威胁），把 从 转为。
+中文理解：祖母说「跟着光走，亲爱的。让它给你指路。」把鬼魂写成指引者而不是威胁，把这个意象从威胁转成了指引。
 
 句子结构：祈使句 Follow the light, my dear. + Let it show you the way。
 

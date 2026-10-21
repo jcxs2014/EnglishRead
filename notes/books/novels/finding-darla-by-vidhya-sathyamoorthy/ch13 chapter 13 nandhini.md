@@ -51,7 +51,7 @@ modified: "2026-10-20"
 
 > **原句 3:** "You don't need an ex-gangster's help to break into an unlocked car, Nandhini."
 
-中文理解：你不需要前帮派分子的帮助来闯入一辆没锁的车，南迪妮。把 写成 —— 变成，把 写成。
+中文理解：你不需要一个前帮派分子帮忙，就能撬开一辆没锁的车，南迪妮。把入室写成雷声大雨点小——迈克尔的铁丝根本用不上，把「前帮派手艺」写成杀鸡用牛刀。
 
 句子结构：主谓宾 You don't need an ex-gangster's help + 不定式短语 to break into an unlocked car + 同位语 Nandhini。
 
@@ -59,7 +59,7 @@ modified: "2026-10-20"
 
 表达方式：break-in scene 把 "unlocked car" 写成 "anticlimax"——Mike's metal wire 变成 unnecessary，把 "ex-gangster skills" 写成 "overkill"。
 
-为什么这样写：把 写成，让 迈克尔 的 人物 写成 —— 把 迈克尔 的 "改过自新的帮派分子" 写成，把 迈克尔 的 人物 写成 ； 把 写成，把 调查 写成。
+为什么这样写：把入室写成雷声大雨点小，让迈克尔显得准备过度——「你不需要一个前帮派分子帮忙，就能撬开一辆没锁的车」把迈克尔的本事写成用不上，把他写成紧张；把轻松写成笑点，把调查写成不靠蛮力。
 
 ---
 
@@ -67,7 +67,7 @@ modified: "2026-10-20"
 
 > **原句 4:** "Nandhini, you're not going to believe this."
 
-中文理解：南迪妮，你不会相信的。把 普佳's 写成，把 写成。
+中文理解：南迪妮，你不会相信的。把普佳的电话写成悬念，把这一章写成未完待续。
 
 句子结构：直接引语 Nandhini, you're not going to believe this（主谓宾 + 宾语从句）。
 
@@ -75,7 +75,7 @@ modified: "2026-10-20"
 
 表达方式：glove compartment discovery 把 "Darla's address" 写成 "lead"，把 investigation 从 "car" 转向 "address"；"You're not going to believe this" 把 Pooja's call 写成 "cliffhanger"。
 
-为什么这样写：把 g爱 写成，让 调查 从 转向 ——南迪妮 现在有 达尔拉 的 吉隆坡，把 调查 从 转向 " 达尔拉"； 把 普佳's 写成，把 写成。
+为什么这样写：把手套箱里的发现写成线索，让调查从车转向地址——南迪妮现在有了达尔拉在吉隆坡的住址，把调查从找车转向找达尔拉；普佳那通电话把线索写成接力，把调查写成有人一起推。
 
 ---
 

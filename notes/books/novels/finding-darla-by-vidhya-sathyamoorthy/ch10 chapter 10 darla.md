@@ -51,7 +51,7 @@ modified: "2026-10-20"
 
 > **原句 3:** "As his fingertips grazed her skin, her heart started beating so fast that she worried he might hear it."
 
-中文理解：当他的指尖轻触她的皮肤时，她的心跳得如此之快，以至于她担心他会听到。把 吸引 写成，把 写成。
+中文理解：他的指尖擦过她的皮肤时，她的心跳得那么快，她怕他听见。把吸引写成触碰，把心动写成身体的反应。
 
 句子结构：时间状语从句 As his fingertips grazed her skin + 主谓宾 her heart started beating so fast + 宾语从句 that she worried he might hear it。
 
@@ -67,7 +67,7 @@ modified: "2026-10-20"
 
 > **原句 4:** "It's been too long, Zooms!"
 
-中文理解：好久不见，！把 写成 （朋友），把 写成 达尔拉 的 情感的。
+中文理解：好久不见，祖米！把车写成朋友，把祖米写成达尔拉的情感锚点。
 
 句子结构：直接引语 It's been too long, Zooms!（主系表）。
 

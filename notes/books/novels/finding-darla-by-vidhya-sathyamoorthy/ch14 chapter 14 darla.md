@@ -69,7 +69,7 @@ modified: "2026-10-20"
 
 > **原句 4:** "I want to give the baby up for adoption."
 
-中文理解：我想把宝宝送人收养。把 收养 写成 （痛苦的），把 写成 （折磨），把 写成。
+中文理解：我想把孩子送人收养。把收养的决定写成痛苦的，把「父亲」那一栏写成折磨，把「不详」写成永久的伤疤。
 
 句子结构：主谓宾 I want to give the baby up for adoption。
 
@@ -85,7 +85,7 @@ modified: "2026-10-20"
 
 > **原句 5:** "I'm sorry. I'm sorry. I'm sorry."
 
-中文理解：对不起。对不起。对不起。把 写成 （苦乐参半），把 写成，把 写成 （纪念品）。
+中文理解：对不起。对不起。对不起。把生产写成苦乐参半，把放弃孩子写成永久的伤疤，把照片写成纪念。
 
 句子结构：直接引语 I'm sorry. I'm sorry. I'm sorry.（重复，强调）。
 
@@ -93,7 +93,7 @@ modified: "2026-10-20"
 
 表达方式：birth scene 把 "giving up baby" 写成 "permanent scar"——"I'm sorry. I love you. I'll love you forever and ever" 把 mother's love 写成 "unconditional"（无条件的）。
 
-为什么这样写：把 写成，让 达尔拉 的 人物 写成 "破碎的 母亲"——"I'm . I 爱 . I' 爱 " 把 母亲's 爱 写成，把 写成 ； 把 失去 写成，把 达尔拉 的 人物 写成 "伤痕累累的"（伤痕累累的）。
+为什么这样写：把生产写成苦乐参半，让达尔拉写成被打碎的母亲——「对不起。我爱你。我会永远爱你」把母亲的爱写成不因放手而减少，把送养写成爱的延续；把失去写成身体上的，把她写成伤痕累累的人。
 
 ---
 

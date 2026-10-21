@@ -85,7 +85,7 @@ modified: "2026-10-20"
 
 > **原句 5:** "She made a promise to herself to make her father proud one day."
 
-中文理解：达尔拉 拿起照片， 父亲的脸——这是 前。" . . ."三句把 写成。" , … , a , "把 悲伤 写成 身体的。最后" a 父亲 "把 悲伤 转化为 决心。
+中文理解：达尔拉拿起照片，凝视父亲的脸——这是事故前最后一张照片。「只要能再见他一面。再听一次他的笑。再把头靠在他肩上。」三句排比把悲伤写成渴望；紧接的动作把悲伤写成身体上的反应。最后「父亲」这个词把悲伤转成了决心。
 
 句子结构：主谓宾 She made a promise to herself + 不定式短语 to make her father proud one day。
 

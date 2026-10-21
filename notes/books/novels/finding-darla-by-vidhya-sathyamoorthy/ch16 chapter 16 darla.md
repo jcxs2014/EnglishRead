@@ -18,13 +18,13 @@ modified: "2026-10-20"
 ### 第1处：Postpartum depression & recovery
 
 
-中文理解：她被 愧疚、羞耻、孤独 与 坚持的 绝望 所折磨，大多数日子躺在床上，无望地对着枕头哭泣。把 产后 写成 （被折磨），把 写成 "坚持的"（持续的）。
+中文理解：她被内疚、羞耻、孤独和熬着的绝望折磨，大多数日子躺在床上，绝望地对着枕头哭。把产后抑郁写成「被折磨」，把绝望写成「挥之不去」。
 
 
 
 表达方式：postpartum depression 把 "racked with" 写成 "physical"（身体的），把 depression 写成 "persistent"（持续的）。
 
-为什么这样写：把 产后 写成 " 愧疚, 羞耻, 孤独"，让 达尔拉 的 人物 写成 "破碎的"（破碎的）——"坚持的 绝望 " 把 写成 （致残的），把 达尔拉 的 人物 写成 ；" 达尔拉 : 母亲 " 把 写成 " 爱"（被爱阻止），把 母亲 写成 （生命线）。
+为什么这样写：把产后写成「内疚、羞耻、孤独」，让达尔拉写成「碎了」——「熬着的绝望」把抑郁写成让人衰弱的，把她写成陷在里面的人；「达尔拉：母亲」把母职写成她唯一的身份，也写成拉住她的那根线。
 
 ---
 
@@ -32,7 +32,7 @@ modified: "2026-10-20"
 
 > **原句 2:** "Darla Roland Fernandez is amazing in her debut film. She truly brought Ariyah's character to life."
 
-中文理解：达尔拉 在她的 中。她真正把 阿里亚 的 人物 带到了。把 写成 的 （催化剂），把 达尔拉 的 人物 写成 （被唤醒的）。
+中文理解：达尔拉·罗兰·费尔南德斯在她的处女作里令人惊艳，她真正把阿丽雅演活了。把影评写成「想演戏」的催化剂，把达尔拉写成被唤醒的人。
 
 句子结构：主系表 Darla Roland Fernandez is amazing in her debut film + 并列 She truly brought Ariyah's character to life。
 
@@ -41,7 +41,7 @@ modified: "2026-10-20"
 
 表达方式：reviews 把 "yearning to act" 写成 "catalyst"——"Glossing over the parts that mention Donny (mostly highlighting his good looks), Darla hungrily devoured all the positive reviews" 把 Donny 写成 "avoided"（避开的），把 reviews 写成 "hungrily devoured"（贪婪地吞噬）。
 
-为什么这样写：把 写成 的，让 达尔拉 的 人物 从 "产后 " 转向 （复出）——" , , 心 表演" 把 表演 写成，把 达尔拉 的 人物 写成 （渴望的）；"茉莉 母亲 !" 把 茉莉 写成 （动机），把 表演 写成 " 茉莉"（为 茉莉）。
+为什么这样写：把影评写成「想演戏」的催化剂，让达尔拉从产后抑郁转向复出——「每一个里程碑、每一份成绩，心里想的都是表演」把表演写成她真正想要的，把她写成渴望着的人；「茉莉，妈妈！」把茉莉写成动机，把表演写成为了茉莉。
 
 ---
 
@@ -57,7 +57,7 @@ modified: "2026-10-20"
 
 表达方式：audition preparation 把 "religious" 写成 "determined"——"On the day of the audition, Darla felt ready" 把 preparation 写成 "confidence"（信心）。
 
-为什么这样写：把 试镜 写成，让 达尔拉 的 人物 写成 "决心的"——" 决心的 . , " 把 达尔拉 的 人物 写成 （才华胜过风格），把 写成 （风格失败）。
+为什么这样写：把试镜准备写成虔诚，让达尔拉写成「下了决心」——「她下定决心要一鸣惊人。她缺的是风格，不是才华」把她写成才华胜过风格，把落选写成风格不合。
 
 ---
 
@@ -83,7 +83,7 @@ modified: "2026-10-20"
 
 > **原句 5:** "She wailed, banging the steering wheel violently, enraged by yet another betrayal, grieving the loss of the future she had envisioned for herself."
 
-中文理解：她哀号，猛烈地拍打方向盘，被又一次的背叛激怒，哀悼她为自己设想的未来的丧失。把 写成 "身体的"（身体的），把 达尔拉 的 人物 写成 "破碎的"（破碎的）。
+中文理解：她嚎啕大哭，猛砸方向盘，被又一次背叛激怒，哀悼她为自己设想过的未来。把崩溃写成身体上的，把达尔拉写成碎了。
 
 句子结构：主谓宾 She wailed + 现在分词短语 banging the steering wheel violently + 介词短语 enraged by yet another betrayal, grieving the loss of the future she had envisioned for herself。
 
@@ -91,7 +91,7 @@ modified: "2026-10-20"
 
 表达方式：breakdown 把 "physical" 写成 "wailing"（哀号）与 "banging"（拍打），把 Darla 的 character 写成 "broken"。
 
-为什么这样写：把 写成 "身体的"，让 达尔拉 的 人物 写成 "破碎的"——" , " 把 悲伤 写成 "身体的"，把 达尔拉 的 人物 写成 "破碎的"；" 背叛, 失去 " 把 背叛 写成 （反复的），把 写成 （失去的）。
+为什么这样写：把崩溃写成身体上的，让达尔拉写成碎了——「她嚎啕大哭，猛砸方向盘」把悲伤写成身体的动作，把她写成碎了；「背叛、失去」把背叛写成反复发生的，把失去写成不可挽回的。
 
 ---
 

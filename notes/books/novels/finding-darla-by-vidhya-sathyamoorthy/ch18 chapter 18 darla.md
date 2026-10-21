@@ -34,7 +34,7 @@ modified: "2026-10-20"
 
 > **原句 2:** "The paring knife glistened from a distance, guiding her towards it."
 
-中文理解：削皮刀从远处闪烁，引导她走向它。把 写成 （被引导的），把 写成 （诱惑的）。
+中文理解：削皮刀在远处反光，引着她走过去。把自杀写成被引导的，把削皮刀写成诱惑。
 
 句子结构：主谓宾 The paring knife glistened from a distance + 现在分词短语 guiding her towards it。
 
@@ -42,7 +42,7 @@ modified: "2026-10-20"
 
 表达方式：near suicide 把 "paring knife" 写成 "tempting"——"There's nothing worth living for any more. Just do it. I'll take hell over this." 把 suicide 写成 "rational"（理性的）。
 
-为什么这样写：把 写成，让 达尔拉 的 人物 写成 "自杀的"（ 自杀的）——" . . I' ." 把 写成 （理性的），把 达尔拉 的 人物 写成 "绝望"（绝望的）； 把 写成 （被中断的），把 吉米 写成 "救星"（救星）。
+为什么这样写：把差点自杀写成被削皮刀引着走，让达尔拉写成想死的人——「再没有什么值得活下去了。动手吧」把念头写成理性的，把她写成绝望的；吉米的叫声把这一刻写成被打断的，把吉米写成救星。
 
 ---
 

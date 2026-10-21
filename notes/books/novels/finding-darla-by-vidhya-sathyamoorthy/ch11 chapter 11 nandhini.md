@@ -35,7 +35,7 @@ modified: "2026-10-20"
 
 > **原句 2:** "Happy birthday, Nandhini. Make a wish and blow out the candles."
 
-中文理解：生日快乐，南迪妮。许个愿，吹灭蜡烛。把 写成，让 迈克尔 的 人物 写成 "脆弱的"—— 把 写成。
+中文理解：生日快乐，南迪妮。许个愿，吹蜡烛。把生日歌写成好笑的场面，让迈克尔显得脆弱——「声音破了」把唱歌写成勇气。
 
 句子结构：直接引语 Happy birthday, Nandhini. Make a wish and blow out the candles（祈使）。
 
@@ -75,7 +75,7 @@ modified: "2026-10-20"
 
 表达方式：kiss attempt 把 Nandhini 的 desire 写成 "forget everything"——she wants to "feel good for a change"，把 kiss 写成 "escape" 而非 "romance"。
 
-为什么这样写：把 吻 写成，让 南迪妮 的 人物 写成 ——，把 吻 写成 而非 ；迈克尔's 把 写成，把 迈克尔 的 人物 写成 —— 把 写成 "情感的 " 的。
+为什么这样写：把想吻她写成「逃开」，让南迪妮显得绝望——她想「忘掉一切」，把吻写成自我麻醉而不是浪漫；迈克尔那句把亲吻写成安慰，把他写成有分寸——他要的是「情感上的」，不是趁人之危。
 
 ---
 

@@ -19,7 +19,7 @@ modified: "2026-10-20"
 
 > **原句 1:** "I like what you did."
 
-中文理解： 法拉 说"我喜欢你做的。"把 写成 事业，让 达尔拉 的 保持。
+中文理解：法拉女士说「我喜欢你的作品。」把导演的认可写成事业上的推力，让达尔拉的自信仍然悬着。
 
 句子结构：主谓宾 I like what you did（宾语从句 what you did）。
 
@@ -35,7 +35,7 @@ modified: "2026-10-20"
 
 > **原句 2:** "He mimicked her happy dance teasingly."
 
-中文理解：他戏谑地模仿她的快乐舞蹈。把 写成 而非，把 写成。
+中文理解：他打趣地学她那段高兴的舞。把心动写成玩笑而不是认真，把「高兴的舞被看见」写成一出喜剧式的相遇。
 
 句子结构：主谓宾 He mimicked her happy dance + 副词 teasingly。
 
@@ -43,7 +43,7 @@ modified: "2026-10-20"
 
 表达方式：comedy of errors 把 Darla 的 embarrassment 写成 slapstick。
 
-为什么这样写：把 写成，让 唐尼 的 人物 通过 建立—— &， ；" 达尔拉 " 把 写成 身体的。
+为什么这样写：把「高兴的舞被看见」写成喜剧式的相遇，让唐尼的形象靠反应立起来——他觉得好笑、爱逗，而不是评判；「达尔拉脸涨得通红」把害羞写成身体上的。
 
 ---
 
@@ -51,7 +51,7 @@ modified: "2026-10-20"
 
 > **原句 3:** "the audition is actually today."
 
-中文理解：试镜其实就在今天。把 写成，让 达尔拉 的 从 "群演" 转向 " 试镜"。
+中文理解：试镜其实就在今天。把机会写成时间紧迫，让达尔拉的处境从「群演」转向「主角试镜」。
 
 句子结构：主系表 the audition is actually today。
 
@@ -83,7 +83,7 @@ modified: "2026-10-20"
 
 > **原句 5:** "Before she could finish, Donny had pulled her into his arms and kissed her hungrily."
 
-中文理解：在她能说完之前，唐尼 已经把她拉入怀中，贪婪地吻了她。把 吻 写成，把 写成。
+中文理解：她还没说完，唐尼已经把她拉进怀里，急切地吻了她。把戏里的吻写成真情，把心动写成不由自主。
 
 句子结构：时间状语从句 Before she could finish + 主谓宾 Donny had pulled her into his arms and kissed her hungrily。
 
