@@ -10,7 +10,7 @@ source_text: ch07
 
 **一句话概括**：Louisa Fell 从那个童年旧宅的噩梦里醒来，已近黄昏；Charlotte 敲门说听见她喊叫，随后带来消息：Scrooge 与上尉已从他们那趟差事回来，带着关于她这桩案子的"新消息"，可 Charlotte 一眼就看出两人脸色铁板——"so grim and set were their faces"；Fell 太太深吸一口气，立刻说"那么我最好马上听听他们的发现"，随 Charlotte 走。
 
-**情感弧线位置**：本章是纯等待章，走的是"醒来—掩饰—消息—恐惧—起身"这条线。前半段被压得很低：梦境、昏沉、一句"A bad dream, that's all"的轻描淡写、Charlotte 不信的目光；消息一到，气压骤降，Charlotte 用一句脸色描写替代了任何实质判断；末段 Fell 太太用一个深呼吸把恐惧压回去，转为行动。全章情绪落差全在 "Oh but is it good news?" 与 "I doubt it" 这两句之间。
+**情感弧线位置**：本章是纯等待章，走的是"醒来—掩饰—消息—恐惧—起身"这条线。前半段被压得很低：梦境、昏沉、一句"A bad dream, Charlotte."的轻描淡写、Charlotte 不信的目光；消息一到，气压骤降，Charlotte 用一句脸色描写替代了任何实质判断；末段 Fell 太太用一个深呼吸把恐惧压回去，转为行动。全章情绪落差全在 "Oh but is it good news?" 与 "I doubt it" 这两句之间。
 
 **Tropes 兑现/反转**：兑现的是第三章以来悬置的"调查将有结果"；反转在消息的种类而非内容——他们带回的不是鬼，而是"some fresh information"，而且 Charlotte 明确判断这消息不是好消息。这一手把恐怖从"鬼故事"改成"查账与查人"，也把 Scrooge 的谨慎变成了全书的姿态：他不许诺，只说"有了新信息"。
 
@@ -28,7 +28,7 @@ source_text: ch07
 
 **为什么这样写**：首句把"再次醒来"与"将近黄昏"焊在一起：睡了整整一个下午，正是最坏的睡眠。"She did not care for the winter months and for the awful brevity of their days" 用一个双重否定加两个 of 引出两层不爱——不爱冬天，也不爱冬天里白天短；"awful brevity" 的分量在后面第九章"八岁那年的十二月"会得到兑现，此处先埋。真正的关键是作者对梦的定性："that dreadful, vivid dream which, drawn from childhood, had kept from her the necessary benefits of rest"。"dreadful" 与 "vivid" 并列，一怕一清；"drawn from childhood" 五个词点明这不是随机的梦，而是记忆的复现；结尾用 "the necessary benefits of rest" 这种医学式的抽象说法，讲的其实是"睡不着觉"，作者偏要用学术口吻说最生理的事，反差即分量。
 
-**读者视角提示**：请记住那场梦是童年来的——第九章会写它到底梦见了什么（被褥下温热的活物）。此刻 Mrs Fell 只能说 "A bad dream, that's all"，这个说法本身就是全书的一个主题：用平淡的词压住不能说的东西。
+**读者视角提示**：请记住那场梦是童年来的——第九章会写它到底梦见了什么（被褥下温热的活物）。此刻 Mrs Fell 只能说 "A bad dream, Charlotte."，这个说法本身就是全书的一个主题：用平淡的词压住不能说的东西。
 
 > **原句 2:** "“Come in,” she murmured, still emerging from her stupor. As the door opened, light flooded in from the hallway and the silhouette of Charlotte grew visible. “Ma’am?” Charlotte asked, stepping inside but leaving the door ajar. “Are you quite well? I heard you call out.” “A bad dream, Charlotte. That’s all.” The maidservant wore a look of scepticism. “Are you sure, ma’am?”"
 
@@ -93,6 +93,6 @@ source_text: ch07
 
 ## 一句话总结
 
-本章几乎全靠对白推进：Louisa Fell 从童年带来的噩梦里醒来，已近黄昏；Charlotte 带着"苏醒了但不清醒"的口吻敲门，说听见她喊叫，而她只用一句"A bad dream, that's all"搪塞，Charlotte 脸上的怀疑没有再往下追；随后 Charlotte 报信——Scrooge 与上尉回来了，带着"some fresh information"，可她不敢断言好坏，只说"so grim and set were their faces"；Fell 太太深深吸一口气、说了句"Then I had better hear of their discovery at once"，便跟着 Charlotte 走了。
+本章几乎全靠对白推进：Louisa Fell 从童年带来的噩梦里醒来，已近黄昏；Charlotte 带着"苏醒了但不清醒"的口吻敲门，说听见她喊叫，而她只用一句"A bad dream, Charlotte."搪塞，Charlotte 脸上的怀疑没有再往下追；随后 Charlotte 报信——Scrooge 与上尉回来了，带着"some fresh information"，可她不敢断言好坏，只说"so grim and set were their faces"；Fell 太太深深吸一口气、说了句"Then I had better hear of their discovery at once"，便跟着 Charlotte 走了。
 
 ---
