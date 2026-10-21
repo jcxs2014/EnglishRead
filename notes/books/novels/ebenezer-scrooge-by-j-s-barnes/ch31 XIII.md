@@ -20,7 +20,7 @@ source_text: ch31
 
 ## 精读
 
-> **原句 1:** "On the train, Captain Ambrose stopped short, his story not yet finished. He turned pale. He looked into the middle distance. He did not speak. … “Are you quite all right?”"
+> **原句 1:** On the train, Captain Ambrose stopped short, his story not yet finished. He turned pale. He looked into the middle distance. He did not speak. “Captain Ambrose?” prompted the lady. “Are you quite all right
 
 **中文理解**：火车上，Ambrose 上尉的故事还没讲完，人就突然停住，脸色发白，目光落进空处。同行的女士唤他，问他是不是安好。
 
@@ -30,7 +30,7 @@ source_text: ch31
 
 **读者视角提示**：开篇只给动作不给解释，先记住这个停顿。
 
-> **原句 2:** "“I…” This single syllable spoken, the soldier lapsed into silence once again. Then, collecting himself with what seemed to the other passenger like quite an effort of will: “Yes, quite all right, thank you. I just had the strangest sensation. You know the old saying, of course, about a goose walking over your grave?”"
+> **原句 2:** Then, collecting himself with what seemed to the other passenger like quite an effort of will: “Yes, quite all right, thank you. I just had the strangest sensation. You know the old saying, of course, about a goose walking over your grave?”
 
 **中文理解**：上尉挤出一个「I…」便再次沉默，费了番力气才镇定下来，答说自己完全没事、谢谢关心，只是刚刚有一种说不出的奇异感觉，随即搬出「鹅从你的坟墓上走过」那个老说法。
 
@@ -40,7 +40,7 @@ source_text: ch31
 
 **读者视角提示**：俗语是幌子，别被它带偏。
 
-> **原句 3:** "He shrugged. “I’m sure that it most likely signifies nothing at all.” … “Perhaps.” Mrs Fell, who did not sound convinced by this argument, looked at him levelly. “We shall surely see. But for now – please – finish your story. About poor Mr Halvorsen.” … Ambrose, who had until then just been beginning to enjoy himself, found that his enthusiasm was waning."
+> **原句 3:** I’m sure that it most likely signifies nothing at all.” “Perhaps.” Mrs Fell, who did not sound convinced by this argument, looked at him levelly. “We shall surely see. But for now – please – finish your story. About poor Mr Halvorsen.” Ambrose, who had until then just been beginning to enjoy himself, found that his enthusiasm was waning
 
 **中文理解**：上尉耸了耸肩，笃定这多半什么也不算；Fell 太太显然没有被说服，只回了一个「Perhaps」，又平直地看着他，说他们一定还会见到什么，但眼下请他把故事讲完，说说可怜的 Halvorsen 先生。上尉原本正讲得起劲，却发现自己的热情在消退。
 
@@ -50,7 +50,7 @@ source_text: ch31
 
 **读者视角提示**：她催的不是故事，是他自己。
 
-> **原句 4:** "He did not wish to say more to the lady or to alarm her in any way, but he felt an odd certainty that all was not well. … Oh yes – Mr Scrooge and I, dogging the steps of the unfortunate Halvorsen, had just seen that spectre which had attached itself to him, glaring at us out of the gloom, its little face a mask of hatred and resentment."
+> **原句 4:** He did not wish to say more to the lady or to alarm her in any way, but he felt an odd certainty that all was not well. Nonetheless, seeing no alternative but to push down these unexpected sentiments, he went on with his tale, being sure to place particular emphasis on the successful conclusion to the case so as to reassure his companion. “Where was I? Oh yes – Mr Scrooge and I, dogging the steps of the unfortunate Halvorsen, had just seen that spectre which had attached itself to him, glaring at us out of the gloom, its little face a mask of hatred and resentment
 
 **中文理解**：上尉不愿再多说，也不想吓着身边的女士，心里却有一种奇怪的笃定：事情并不妙。他顿了顿，回到故事里：自己与 Scrooge 紧跟在不幸的 Halvorsen 先生身后，已经看见那个缠上他的幽灵，正从昏暗中怒视着两人，那张小脸是一张憎恨与怨恨的面具。
 
@@ -60,7 +60,7 @@ source_text: ch31
 
 **读者视角提示**：越是被写得具体，越该提防。
 
-> **原句 5:** "At the sight of it, old Scrooge – who is, I think, the most courageous man that I have ever met – sprang forward and began to run towards the creature, heedless of his safety."
+> **原句 5:** At the sight of it, old Scrooge – who is, I think, the most courageous man that I have ever met – sprang forward and began to run towards the creature, heedless of his safety
 
 **中文理解**：看见那东西，老 Scrooge——他自称是自己见过的最勇敢的人——便不顾自身安危，径直朝它冲了过去。
 
@@ -70,7 +70,7 @@ source_text: ch31
 
 **读者视角提示**：越是被夸勇敢，越要留意他的动机。
 
-> **原句 6:** "Mr Halvorsen himself was startled at our approach but also, I think, rather relieved. … He thanked us, but he then seemed somewhat surprised when Mr Scrooge instructed him to turn out his pockets.” … “He wanted to see if there was anything about Mr Halvorsen’s person which was attracting that malicious spirit.”"
+> **原句 6:** Mr Halvorsen himself was startled at our approach but also, I think, rather relieved. At this point, we three gentlemen retired to a nearby tavern, in which establishment we were able to assure our new friend that we had seen the creature, that we believed his story utterly and that our every effort was now to be expended upon releasing him from this horrible persecution. He thanked us, but he then seemed somewhat surprised when Mr Scrooge instructed him to turn out his pockets.” “Why ever did he do that?” asked the lady. “He wanted to see if there was anything about Mr Halvorsen’s person which was attracting that malicious spirit
 
 **中文理解**：Halvorsen 本人被他们的靠近吓了一跳，却也像是松了口气；他道谢时，对 Scrooge 让他把口袋翻空显得有些意外。太太追问为什么，上尉答，Scrooge 想知道 Halvorsen 身上是什么在吸引那个恶灵。
 
@@ -80,7 +80,7 @@ source_text: ch31
 
 **读者视角提示**：口袋里的东西，正是下一段的答案。
 
-> **原句 7:** "“There was. For it transpired that our new friend was something of a mudlark. One of those who take pleasure in combing the banks of the Thames for flotsam and treasure.” … “Ah. And what had he picked up?”"
+> **原句 7:** For it transpired that our new friend was something of a mudlark. One of those who take pleasure in combing the banks of the Thames for flotsam and treasure.” “Ah. And what had he picked up
 
 **中文理解**：答案是有的：原来这位新朋友是个专到泰晤士河滩拾荒的人，喜欢在岸边翻找漂浮物与财宝。太太便问，他都捡了些什么。
 
@@ -90,7 +90,7 @@ source_text: ch31
 
 **读者视角提示**：职业一出场，谜底的方向就定了。
 
-> **原句 8:** "“Many things, ma’am. He was a little embarrassed – as well he might be – by the wealth of items that he was in the habit of carrying about his person. Yet there was one thing in particular… Mr Scrooge has a sensitivity in such matters, you understand, and he saw it at once – a tarnished silver coin from many centuries past."
+> **原句 8:** He was a little embarrassed – as well he might be – by the wealth of items that he was in the habit of carrying about his person. Yet there was one thing in particular… Mr Scrooge has a sensitivity in such matters, you understand, and he saw it at once – a tarnished silver coin from many centuries past.
 
 **中文理解**：他随身东西之多，自己也有些难为情；可最要紧的一样，Scrooge 一眼就看出——他对这类事有一双敏感的眼睛：那是一枚生了锈的古银币，出自许多个世纪之前。
 
@@ -100,7 +100,7 @@ source_text: ch31
 
 **读者视角提示**：记住这枚硬币，它后面还要再出现一次。
 
-> **原句 9:** "A Roman thing. A denarius, I believe it’s called. Had a picture on it of one of their strange gods. And it seemed – in Mr Scrooge’s opinion – that it was this object which was attracting the malevolent thing that was following old Halvorsen all around the town."
+> **原句 9:** “A Roman thing. A denarius, I believe it’s called. Had a picture on it of one of their strange gods. And it seemed – in Mr Scrooge’s opinion – that it was this object which was attracting the malevolent thing that was following old Halvorsen all around the town."
 
 **中文理解**：那是件罗马古物，叫 denarius，上头刻着他们的神像。上尉说，在他看来，正是这件东西在吸引那个缠着 Halvorsen、满城跟着他的恶灵。
 
@@ -110,7 +110,7 @@ source_text: ch31
 
 **读者视角提示**：术语落地，解释却仍是二手的。
 
-> **原句 10:** "For some spirits, ma’am, they attach themselves to objects. Others attach themselves to people. And others still are connected to…” … “Houses,” said Mrs Fell quietly. … “Yes, ma’am.” … “And so what happened after that?”"
+> **原句 10:** For some spirits, ma’am, they attach themselves to objects. Others attach themselves to people. And others still are connected to…” “Houses,” said Mrs Fell quietly
 
 **中文理解**：于是上尉提出那套分类：有的灵附着在物件上，有的附着在人身上，还有的则连着……Fell 太太轻声接上了那个被悬置的答案：「房子。」
 
@@ -120,7 +120,7 @@ source_text: ch31
 
 **读者视角提示**：她补上的那两个字，比上尉讲了半天都准。
 
-> **原句 11:** "He reached out an arm as if to throw the coin as far as he could into the murky waters of the Thames. … “‘We’re not alone here,’ he said. ‘There is another.’ … “He shook his head, his meaning plain. Not him. Another still. … “Then Scrooge threw the coin high up into the air – straight up, not towards the water."
+> **原句 11:** He reached out an arm as if to throw the coin as far as he could into the murky waters of the Thames. I moved towards him and was about to suggest, as tactfully as I could, that the job should, perhaps, be mine, since I am surely a more powerful bowler than he. Divining my intention, he waved me away. “‘We’re not alone here,’ he said. ‘There is another.’ “‘Mr Halvorsen?’ “He shook his head, his meaning plain. Not him. Another still. “Then Scrooge threw the coin high up into the air – straight up, not towards the water
 
 **中文理解**：上尉以为 Scrooge 要伸手把币远远扔进泰晤士河的浑水里；可 Scrooge 先说这里不止他们两个，还有另一个，上尉摇头示意不是 Halvorsen，而是另一个。随后 Scrooge 把银币高高抛向空中——直直向上，不是朝水面。
 
@@ -130,7 +130,7 @@ source_text: ch31
 
 **读者视角提示**：往上看，不是往水里看。
 
-> **原句 12:** "“I am still far from certain, Mrs Fell, what happened then. Except to say that I saw a glimpse of something, an impossible thing, a flutter of something like dark fabric against the clear sky. Of the coin there was no sign at all. … “‘What’s happened?’ Halvorsen asked. ‘What was that?’"
+> **原句 12:** Except to say that I saw a glimpse of something, an impossible thing, a flutter of something like dark fabric against the clear sky. Of the coin there was no sign at all. “‘What’s happened?’ Halvorsen asked. ‘What was that
 
 **中文理解**：上尉说自己也说不清接着发生了什么：只见一线像深色布料的东西在晴空里闪了一下，那是不可能之物，而银币已不见踪影。Halvorsen 忙问那是什么。
 
@@ -140,7 +140,7 @@ source_text: ch31
 
 **读者视角提示**：见证者自己都不敢作证。
 
-> **原句 13:** "“Scrooge only smiled. He held out his palm. Three long seconds later and the coin fell back into it, from thin air so far as I was able to tell. Where it had been I could not say. ‘All done,’ said the old man. ‘All finished.’ … “Then he tucked the coin away in his pocket. And shook hands with Mr Halvorsen.” … “And so was that the end of it?”"
+> **原句 13:** He held out his palm. Three long seconds later and the coin fell back into it, from thin air so far as I was able to tell. Where it had been I could not say. ‘All done,’ said the old man. ‘All finished.’ “Then he tucked the coin away in his pocket. And shook hands with Mr Halvorsen.” “And so was that the end of it
 
 **中文理解**：Scrooge 只笑了笑，摊开手掌，三秒之后硬币凭空落回掌心；至于它去了哪里，上尉说不出来。老人只说了两句：「全都办完了。」「全都结束了。」然后他把银币塞进口袋，与 Halvorsen 握了握手。太太问这就算结束了吗。
 
@@ -150,7 +150,7 @@ source_text: ch31
 
 **读者视角提示**：故事讲完了，讲故事的人却还在打折扣。
 
-> **原句 14:** "“So far as I can tell, ma’am, yes. Halvorsen came to see us once again, a month and a half later, just before he was due to board a ship that was bound for Johannesburg. He thanked us both and shook us by the hand and said there had been no recurrence of the phenomenon. He seemed better too. Lighter and happier in himself.”"
+> **原句 14:** So far as I can tell, ma’am, yes. Halvorsen came to see us once again, a month and a half later, just before he was due to board a ship that was bound for Johannesburg. He thanked us both and shook us by the hand and said there had been no recurrence of the phenomenon. He seemed better too. Lighter and happier in himself
 
 **中文理解**：按上尉所知，是的。Halvorsen 一个半月后又来看过他们一次，就在登船去 Johannesburg 之前；他道谢、握手，说那种现象再没出现过，人也显得轻快快乐。
 
@@ -160,7 +160,7 @@ source_text: ch31
 
 **读者视角提示**：驱魔有效，但解释本身没人验证。
 
-> **原句 15:** "“I am pleased to hear that,” said Mrs Fell. “Though I doubt very much my own story will be so neatly resolved. Don’t you, Captain?” … Ambrose, being uncertain as to how to respond to this statement, only nodded sympathetically. Quiet fell between them once again after that, and the train roared on, moving with impatient speed towards the very edge of England."
+> **原句 15:** Though I doubt very much my own story will be so neatly resolved. Don’t you, Captain?” Ambrose, being uncertain as to how to respond to this statement, only nodded sympathetically. Quiet fell between them once again after that, and the train roared on, moving with impatient speed towards the very edge of England
 
 **中文理解**：Fell 太太说听到这个消息她很高兴，不过她很怀疑自己的故事不会这样干脆地解决，便问上尉是不是也这么觉得。上尉不知如何作答，只是同情地点了点头。此后两人之间再次安静下来，火车以不耐烦的速度驶向英格兰的边缘。
 

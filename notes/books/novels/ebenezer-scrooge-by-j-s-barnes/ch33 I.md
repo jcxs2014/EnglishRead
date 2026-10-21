@@ -42,7 +42,7 @@ source_text: ch33
 
 > **原句 3:** A passer-by – a young legal clerk named Penberry – came to their aid and, hot upon his heels, another pedestrian, this one a newspaper vendor, known to his friends and intimates as Charlie. Together these two gentlemen, following the careful directions of Mr Bentinck, and under the blurred and tearful gaze of Miss Charlotte, bore the recumbent Scrooge solemnly inside and laid him down in Mr Bentinck’s office.
 
-**中文理解**：一个过路人——名叫 Penberry 的年轻法律书记员——上前帮忙；紧跟着他脚后的是另一个行人，这位是个报贩，朋友们和熟人叫他 Charlie。这两位绅士照着 Bentinck 小心指示，在 Charlotte 模糊含泪的注视下，庄重地把仰卧的 Scrooge 抬进屋里，放在 Bentinck 的办公室。
+**中文理解**：一个过路人——名叫潘伯里的年轻法律书记员——上前帮忙；紧跟着他脚后的是另一个行人，这位是个报贩，朋友们和熟人叫他查理。这两位绅士照着本廷克秘书的小心指示，在查洛特模糊含泪的注视下，庄重地把仰卧的斯克罗吉抬进屋里，放在本廷克的办公室。
 
 **关键词**：A passer-by / a young legal clerk named Penberry / a newspaper vendor / known to his friends and intimates as Charlie / bore the recumbent Scrooge solemnly inside / laid him down in Mr Bentinck’s office
 

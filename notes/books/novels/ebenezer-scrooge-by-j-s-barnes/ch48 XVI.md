@@ -20,7 +20,7 @@ source_text: ch48
 
 ## 精读
 
-> **原句 1:** By five o’clock, Captain Ambrose was sitting very happily in a chair beside the fire in Starningham’s only tavern, The Warden and the Cry. The ale was excellent, and the welcome had been a warm and sympathetic one. He had, perhaps, been expecting to have been greeted with some suspicion, an outsider in a little place like this. Instead, the landlord shook his hand, welcomed him to Starningham and gave him a brimming glass with what appeared to be real pleasure.
+> **原句 1:** By five o’clock, Captain Ambrose was sitting very happily in a chair beside the fire in Starningham’s only tavern, The Warden and the Cry. The ale was excellent, and the welcome had been a warm and sympathetic one. He had, perhaps, been expecting to have been greeted with some suspicion, an outsider in a little place like this. Instead, the landlord shook his hand, welcomed him to Starningham and gave him a brimming glass with what appeared to be real pleasure
 
 **中文理解**：五点刚过，Ambrose 上尉正非常惬意地坐在 Starningham 唯一一家酒馆 The Warden and the Cry 的壁炉旁椅上。麦酒极好，欢迎也热诚而富于同情心。他本来或许以为会被人带着猜疑相待——在这种小地方，他是个外乡人；可店主却与他握手、欢迎他来到 Starningham，递上一杯斟得满满的酒，看那神色是真心高兴。
 
@@ -30,7 +30,7 @@ source_text: ch48
 
 **读者视角提示**：店主不打听，先给酒——这份善意后面有分寸。
 
-> **原句 2:** The place was sleepy, with only a few other men, of Ambrose’s own age, or older. They had all nodded as he entered and there were none of those glances of sly curiosity which one might have feared at such a moment. Even the elderly cat who was sleeping peacefully in front of the fire seemed pleased to see him, padding over after he had been seated for only a few moments and curling itself around his shoes and ankles.
+> **原句 2:** The place was sleepy, with only a few other men, of Ambrose’s own age, or older. They had all nodded as he entered and there were none of those glances of sly curiosity which one might have feared at such a moment. Even the elderly cat who was sleeping peacefully in front of the fire seemed pleased to see him, padding over after he had been seated for only a few moments and curling itself around his shoes and ankles
 
 **中文理解**：这地方昏昏欲睡，店里只有几个与上尉同龄或更老的男客；他们在他进来时都点了点头，没有他本会担心的那种狡黠好奇的目光。甚至连睡在炉前的老猫似乎也高兴见到他，他坐下不过几分钟，它就踱过来，绕着他的鞋与脚踝蜷起身子。
 
@@ -40,7 +40,7 @@ source_text: ch48
 
 **读者视角提示**：猫会记住这家店，也记住住客。
 
-> **原句 3:** Sitting in this homely establishment, with a pint in his hand, a fire crackling before him and a cat dozing gently at his feet, the captain reflected on how very benign a place Starningham seemed, with the one exception of what he had come to think of as ‘the House’. He even permitted himself a reverie as to what it might be like to live in such a place, what a wholesome life might be found there – even how apt it might be to raise a family in such a setting.
+> **原句 3:** Sitting in this homely establishment, with a pint in his hand, a fire crackling before him and a cat dozing gently at his feet, the captain reflected on how very benign a place Starningham seemed, with the one exception of what he had come to think of as ‘the House’. He even permitted himself a reverie as to what it might be like to live in such a place, what a wholesome life might be found there – even how apt it might be to raise a family in such a setting
 
 **中文理解**：坐在这样家常的店里，手里一杯麦酒，炉火在面前噼啪，脚边有猫轻缓打盹，上尉觉得 Starningham 实在是个过于良善的地方，唯一例外是他心中称作「the House」的那栋。他甚至放任自己幻想：住在这样的地方会是什么样，能找到怎样一种健全的生活；在这样的环境里养一个家庭又是何等合适。
 
@@ -50,7 +50,7 @@ source_text: ch48
 
 **读者视角提示**：他梦见在这栋房里养孩子——已入虎穴而不自知。
 
-> **原句 4:** Such pleasant daydreams were chased away soon enough, however, by thoughts of what he had witnessed on Brightwell Road, as well as his concerns as to the whereabouts of Mr Scrooge. Still nothing from him and nothing from London. He drank a little more and allowed his memory to roam back over the most successful of those investigations that he had seen by the old man’s side.
+> **原句 4:** Such pleasant daydreams were chased away soon enough, however, by thoughts of what he had witnessed on Brightwell Road, as well as his concerns as to the whereabouts of Mr Scrooge. Still nothing from him and nothing from London. He drank a little more and allowed his memory to roam back over the most successful of those investigations that he had seen by the old man’s side
 
 **中文理解**：然而这些愉快的白日梦很快就消散了：一是被他在 Brightwell Road 上目睹的一切驱散，二是被他对 Scrooge 去向的挂念驱散——那边仍没有消息，伦敦那边也没有。他又喝了一口，任记忆游回他与老先生并肩做过的那些最成功的调查。
 
@@ -60,7 +60,7 @@ source_text: ch48
 
 **读者视角提示**：旧日战绩越辉煌，此刻越失控。
 
-> **原句 5:** He was thinking of the pale creature which had scuttled out before the wheels of their coach one summer; of that strange temple in a patch of Essex woodland to which they had been summoned by a sequence of desperate letters in the autumn of the preceding year; and of their encounter with a spirit (only half-glimpsed, from the very edges of their eyes) which seemed to haunt a library in the otherwise singularly dreary town of Kingston-upon-Thames.
+> **原句 5:** He was thinking of the pale creature which had scuttled out before the wheels of their coach one summer; of that strange temple in a patch of Essex woodland to which they had been summoned by a sequence of desperate letters in the autumn of the preceding year; and of their encounter with a spirit (only half-glimpsed, from the very edges of their eyes) which seemed to haunt a library in the otherwise singularly dreary town of Kingston-upon-Thames
 
 **中文理解**：他想起那个夏天从他们马车车轮前窜出的一只苍白的东西；想起前一年秋天一连串求救信把他们召到埃塞克斯林地中那座古怪神庙；想起他们与某个灵体的遭遇——那东西只是从眼角边缘被瞥见一半——似乎盘踞在 Kingston-upon-Thames 这座沉闷得出奇的小镇的一座图书馆里。
 
@@ -70,7 +70,7 @@ source_text: ch48
 
 **读者视角提示**：他们只看得见一半——老问题也是本书的底色。
 
-> **原句 6:** So engrossed was he in these reminiscences that he did not notice the approach of the landlord. “Another drink, sir?” he said. “I can fetch you the same again.” “Thank you, sir, but no. I’d best be off. In fact, I think I’ve rather lost track of time.” “Of course, sir. Of course.” The fire before them spat and hissed in the hearth. By Ambrose’s feet, the cat stirred and stretched. “Will you be staying long here in Starningham, sir?” “Do you know,” said the captain, “I’m not altogether sure.
+> **原句 6:** So engrossed was he in these reminiscences that he did not notice the approach of the landlord. “Another drink, sir?” he said. “I can fetch you the same again.” “Thank you, sir, but no. I’d best be off. In fact, I think I’ve rather lost track of time.” “Of course, sir. Of course.” The fire before them spat and hissed in the hearth. By Ambrose’s feet, the cat stirred and stretched. “Will you be staying long here in Starningham, sir?” “Do you know,” said the captain, “I’m not altogether sure. I’m here with an… associate… a friend, one might even say. To
 
 **中文理解**：他沉浸在回忆里，没注意到店主走近。「再来一杯吗，先生？我可以给您续上同样的。」「谢谢您，不过不了。我该走了。事实上，我想我有点把时间耽误了。」「当然，先生，当然。」他们面前的炉火在炉膛里噼啪作响；上尉脚边，那只猫动了动，伸了个懒腰。「先生，您会在 Starningham 住很久吗？」「您知道吗，」上尉说，「我不太确定。我是和一位……同伴……可以说是朋友，一起来的。」
 
@@ -80,7 +80,7 @@ source_text: ch48
 
 **读者视角提示**：他找不到词定义她的身份。
 
-> **原句 7:** I’m here with an… associate… a friend, one might even say. To help her with her new home.” “Oh yes, sir.” A look of heaviness came into the eyes of the landlord. “And where might this new home be, sir? That is, of course, if you don’t mind my asking.” Something made Captain Ambrose hesitate before replying. “You don’t have to say, sir,” said the landlord hurriedly. “Not if you’d rather keep it to yourself.” “I’m staying in a house on Brightwell Road,” said the captain.
+> **原句 7:** A look of heaviness came into the eyes of the landlord. “And where might this new home be, sir? That is, of course, if you don’t mind my asking.” Something made Captain Ambrose hesitate before replying. “You don’t have to say, sir,” said the landlord hurriedly. “Not if you’d rather keep it to yourself.” “I’m staying in a house on Brightwell Road,”
 
 **中文理解**：「哦，是的，先生。」店主眼里浮起一层沉重。「那么，新家会在哪儿呢，先生？——当然，如果您不介意我问的话。」上尉迟疑了一下才回答。「您不用说，先生，」店主连忙补道，「如果您宁愿留在自己心里不说的话。」「我住在 Brightwell Road 的一栋房子里，」上尉说。
 
@@ -90,7 +90,7 @@ source_text: ch48
 
 **读者视角提示**：他犹豫了；店主已经知道答案。
 
-> **原句 8:** “Used to be owned by a fellow named—” “Gowing,” interjected the other. “That’s right, yes.” The landlord looked at him with great solemnity. “I’m not sure I believe all of what’s said about that place, sir. Not all of it. Some of it, yes, perhaps I do credit some of it. But not all, sir. Not the worst of it.” “I suppose,” said the captain, “that there’s a kind of comfort in that.” The landlord just gazed at him, his expression noncommittal. “What was he like?” the captain asked.
+> **原句 8:** “Gowing,” interjected the other. “That’s right, yes.” The landlord looked at him with great solemnity. “I’m not sure I believe all of what’s said about that place, sir. Not all of it. Some of it, yes, perhaps I do credit some of it. But not all, sir. Not the worst of it.” “I suppose,” said the captain, “that there’s a kind of comfort in that.” The landlord just gazed at him, his expression noncommittal
 
 **中文理解**：「以前是一位叫——」「Gowing，」对方接过话头。「对，就是他。」店主神色极为庄重地看着他。「先生，对于那地方人们所说的话，我不敢说自己全信。不是全信。有些么，也许我信其中一部分。但不是全部，先生。不是其中最离谱的那些。」「我想，」上尉说，「那样倒是有种安慰。」店主只是看着他，表情不置可否。「那他是个什么样的人？」上尉问，「已故的 Gowing 先生？」
 
@@ -104,13 +104,13 @@ source_text: ch48
 
 **中文理解**：「已故的 Gowing 先生？」「先生，我跟他不熟，」店主松了口气——显然庆幸上尉没有追问那些关于这栋房子的传闻他究竟信了几分。「但这里有过几件……怪事……那个人身上有种……怎么说呢，换成您的话准会说是让人不安的东西。我的其他客人们，先生，他们抱怨过他。」「为什么？他做了什么？」「先生，问题不在他做了什么，而在乎他说了什么……他好像知道一些他本不该知道的事，如果您明白我的意思。」
 
-**关键词**：relieved, perhaps, at not being asked to specify those rumours / There was a few… incidents here / something… I suppose you’d call it unsettling about the man / My other patrons, sir, they complained about him / It wasn’t what he did, sir, so much as what he said / He seemed to know things he oughtn’t to know
+**关键词**：relieved, perhaps, at not being asked to specify those rumours / something… I suppose you’d call it unsettling about the man / My other patrons, sir, they complained about him / It wasn’t what he did, sir, so much as what he said / He seemed to know things he oughtn’t to know
 
 **为什么这样写**：作者把 Gowing 的旧日形象与第 37 章 Bethlem 太太转述的证词暗中接续——那也是「他知道不该知道的事」。而「My other patrons... complained about him」把 Gowing 从传闻人物还原成一个在酒馆里让客人生厌的房东；怪谈最怕的正是这种日常化。
 
 **读者视角提示**：鬼故事的外壳是一个让人不舒服的房东。
 
-> **原句 10:** “No, I’m afraid I’m not sure I do.” “Secrets, sir. Things people didn’t want other people to know about them. I’m sure you can imagine, sir. We are none of us entirely free of sin, are we? Not even the best of us.” “I don’t suppose you would care to give me an example, would you?” “No, sir, I don’t believe I would. Can’t be a landlord, sir, without knowing when to use a bit of discretion, now can you?” The captain said that he expected that this was the case.
+> **原句 10:** Secrets, sir. Things people didn’t want other people to know about them. I’m sure you can imagine, sir. We are none of us entirely free of sin, are we? Not even the best of us.” “I don’t suppose you would care to give me an example, would you?” “No, sir, I don’t believe I would. Can’t be a landlord, sir, without knowing when to use a bit of discretion, now can you?” The captain said that he expected that this was the case
 
 **中文理解**：「不，我恐怕不太明白。」「秘密，先生。是人们不愿别人知道的那些事。我敢肯定您能想象。我们没有谁是全然无罪的，不是吗？就连最好的人也不是。」「我想您不会愿意给我举个例子吧？」「不，先生，我恐怕不会。您说得对，做店主的，先生，总得知道什么时候该谨慎一点，不是吗？」上尉说他料到了。
 
@@ -124,13 +124,13 @@ source_text: ch48
 
 **中文理解**：上尉又看了一眼时辰，也看了一眼外面正一点点暗下来的暮色，站起身来，动作极轻地把猫从脚边挪开。「最后到底还是把他关在门外，」店主在他动作的同时说道，「没办法的选择。」「您是说 Gowing 先生？」「正是，先生，是的。他不是个讨人喜欢的人，先生。他身上有种……不健全的东西，请您行行好理解我的意思。」
 
-**关键词**：the presence of the creeping dark outside / very gently prising away the cat / Had to bar him in the end / Didn’t have a choice / an unwholesome quality to him / if you’ll be kind enough, sir, to appreciate my meaning
+**关键词**：the presence of the creeping dark outside / very gently prising away the cat / Had to bar him in the end / Didn’t have a choice / if you’ll be kind enough, sir, to appreciate my meaning
 
 **为什么这样写**：「prising away the cat」这个动作写他的体贴，而店主的台词却在这份体贴的当口插进来——最坏的记忆往往在最平静的时刻说出口。「an unwholesome quality」是全书对恶意最节约也最重的用词：不写鬼，写不健全。
 
 **读者视角提示**：作者不写鬼，写「不健全」。
 
-> **原句 12:** “Well, I do believe I’m building up something of a picture of him. Still, he’s dead now. And his niece – that is, my associate, my new friend – she is quite determined to build a home for herself here.” The landlord managed only a weak, unconvincing smile. “And I dare say I’m looking forward to making her acquaintance, sir, when the time is right. We will make her very welcome here in Starningham, you need have no fear on that score.”
+> **原句 12:** And his niece – that is, my associate, my new friend – she is quite determined to build a home for herself here.” The landlord managed only a weak, unconvincing smile. “And I dare say I’m looking forward to making her acquaintance, sir, when the time is right. We will make her very welcome here in Starningham, you need have no fear on that score
 
 **中文理解**：「这么看来，我确实对这位先生有了些印象。不过他人已经死了。而他的侄女——也就是我的同伴、我新结识的朋友——她非常坚决地要在这里为自己建一个家。」「到合适的时候，我敢说，我倒很期待认识她。」店主只挤出一个虚弱而不令人信服的微笑，「我们一定会在这里 Starningham 好好欢迎她，这一点您尽管放心。」
 
@@ -140,7 +140,7 @@ source_text: ch48
 
 **读者视角提示**：「合适的时候」——那个时刻正在逼近。
 
-> **原句 13:** Captain Ambrose thanked him for this and shook his hand, and made as to leave the establishment. At the doorway, the landlord called out to him: “Just as so you know, sir!” The captain turned back. “What’s that?” he asked. “If you ever need… that is, if you or the lady ever need a room or two for the night. If things on Brightwell Road become… too difficult… you’ll always be welcome here. Feel quite at liberty, sir, should you wish to, to think of us here as a sanctuary.”
+> **原句 13:** At the doorway, the landlord called out to him: “Just as so you know, sir!” The captain turned back. “What’s that?” he asked. “If you ever need… that is, if you or the lady ever need a room or two for the night. If things on Brightwell Road become… too difficult… you’ll always be welcome here. Feel quite at liberty, sir, should you wish to, to think of us here as a sanctuary.”
 
 **中文理解**：上尉谢过他，握了手，正要离开店门。走到门口，店主叫住他：「就当是让您知道吧，先生！」上尉回过头。「什么事？」「如果你们——我是说，您或那位女士——哪天晚上需要一两间房间；如果 Brightwell Road 上的事情变得……太难办……您在这里永远受欢迎。您尽可以放胆，先生，要是您愿意，把我们这儿当成一处避难所。」
 
@@ -167,7 +167,7 @@ source_text: ch48
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | a brimming glass | 斟满的一杯 | gave him a brimming glass with what appeared to be real pleasure. |
-| to permit oneself a reverie | 允许自己遐想 | He even permitted himself a reverie as to what it might be like to live in such a place |
+| permitted himself a reverie | 允许自己遐想 | He even permitted himself a reverie as to what it might be like to live in such a place |
 | to roam back over | 回忆徘徊于 | allowed his memory to roam back over the most successful of those investigations |
 | to prise away | 撬开、挪开 | very gently prising away the cat from his feet as he did so |
 | a sanctuary | 避难所 | to think of us here as a sanctuary. |
@@ -178,7 +178,7 @@ source_text: ch48
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | sly curiosity | 狡黠的好奇 | there were none of those glances of sly curiosity which one might have feared |
-| to be engulfed in | 全神贯注于 | So engrossed was he in these reminiscences that he did not notice the approach of the landlord. |
+| engrossed in these reminiscences | 全神贯注于回忆 | So engrossed was he in these reminiscences that he did not notice the approach of the landlord. |
 | a noncommittal expression | 不置可否的表情 | the landlord just gazed at him, his expression noncommittal. |
 | to use discretion | 谨慎行事、 discretion 守口 | Can’t be a landlord, sir, without knowing when to use a bit of discretion, now can you? |
 | the creeping dark | 渐浓的暮色 | the presence of the creeping dark outside |
@@ -189,10 +189,12 @@ source_text: ch48
 |---------|------|------|
 | to shake hands | 握手 | the landlord shook his hand, welcomed him to Starningham |
 | to stretch (out) | 伸展 | By Ambrose’s feet, the cat stirred and stretched. |
-| to coax | 哄劝 | coaxed his horses into action once again. |
+| to stir and stretch | 动了动身子伸了伸懒腰 | By Ambrose’s feet, the cat stirred and stretched. |
 | to growl | 咕哝 | “Gowing,” interjected the other. |
 | to call out to | 叫住 | At the doorway, the landlord called out to him |
 
-## 一句话总结**：五点过后，Ambrose 上尉在 Starningham 唯一的酒馆 The Warden and the Cry 炉边落座（“The ale was excellent, and the welcome had been a warm and sympathetic one.”），被炉前老猫“curling itself around his shoes and ankles”，甚至生出白日梦：“how very benign a place Starningham seemed, with the one exception of what he had come to think of as ‘the House’”以及“how apt it might be to raise a family in such a setting”；旧日战绩（“the pale creature which had scuttled out before the wheels of their coach”“that strange temple in a patch of Essex woodland”“only half-glimpsed, from the very edges of their eyes”）被“Brightwell Road 上的目睹”与“Still nothing from him and nothing from London”打断；店主一听说 Brightwell Road 就“interjected”出前主人之名“Gowing”，自陈“I’m not sure I believe all of what’s said about that place… Not the worst of it.”，称 Gowing“He seemed to know things he oughtn’t to know”、泄露“Secrets, sir. Things people didn’t want other people to know about them”，并以“Can’t be a landlord, sir, without knowing when to use a bit of discretion, now can you?”拒举实例，末了说“Had to bar him in the end”“a kind of… unwholesome quality”；临别在门口许诺“If things on Brightwell Road become… too difficult… you’ll always be welcome here”，可“to think of us here as a sanctuary”；上尉答“I do have some experience in matters of haunting. I am sure that the lady and I will be quite all right.”，店主只“a little, almost inadvertent shake of his head”：“I do hope you’re right in that assumption, sir. Truly, sir. Truly, I do.”
+## 一句话总结
+
+五点过后，Ambrose 上尉在 Starningham 唯一的酒馆 The Warden and the Cry 炉边落座（“The ale was excellent, and the welcome had been a warm and sympathetic one.”），被炉前老猫“curling itself around his shoes and ankles”，甚至生出白日梦：“how very benign a place Starningham seemed, with the one exception of what he had come to think of as ‘the House’”以及“how apt it might be to raise a family in such a setting”；旧日战绩（“the pale creature which had scuttled out before the wheels of their coach”“that strange temple in a patch of Essex woodland”“only half-glimpsed, from the very edges of their eyes”）被“Brightwell Road 上的目睹”与“Still nothing from him and nothing from London”打断；店主一听说 Brightwell Road 就“interjected”出前主人之名“Gowing”，自陈“I’m not sure I believe all of what’s said about that place… Not the worst of it.”，称 Gowing“He seemed to know things he oughtn’t to know”、泄露“Secrets, sir. Things people didn’t want other people to know about them”，并以“Can’t be a landlord, sir, without knowing when to use a bit of discretion, now can you?”拒举实例，末了说“Had to bar him in the end”“a kind of… unwholesome quality”；临别在门口许诺“If things on Brightwell Road become… too difficult… you’ll always be welcome here”，可“to think of us here as a sanctuary”；上尉答“I do have some experience in matters of haunting. I am sure that the lady and I will be quite all right.”，店主只“a little, almost inadvertent shake of his head”：“I do hope you’re right in that assumption, sir. Truly, sir. Truly, I do.”
 
 ---

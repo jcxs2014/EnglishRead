@@ -70,7 +70,7 @@ source_text: ch50
 
 **读者视角提示**：他把那栋房子降级成了"小骚扰"。
 
-> **原句 X:** “I see,” said the priest, and then: “Yes, of course, I do see. And I am sure that the lady is in very good hands with you by her side. Nonetheless…” His gaze moved from the captain and seemed to rove around in the gathering darkness.
+> **原句 6:** “I see,” said the priest, and then: “Yes, of course, I do see. And I am sure that the lady is in very good hands with you by her side. Nonetheless…” His gaze moved from the captain and seemed to rove around in the gathering darkness.
 
 **中文理解**：「我明白了，」神父说，然后又说：「是啊，当然，我明白。而且我确信那位女士在你身边会得到很好的照顾。不过……」；他的目光从上尉身上移开，仿佛在渐浓的黑暗里四处游移。
 
@@ -79,7 +79,7 @@ source_text: ch50
 **为什么这样写**：神父连说两句"我明白"——第一句应付，第二句才是真心。而「Nonetheless…」的省略号独立在末尾，像门缝里挤出来的一句话：他要说的事在这半句之后。；神父不看上尉而看黑暗——他在看"那里"。作者用一个眼神的移动，把威胁从对话层挪到了空间层：那栋房子此刻不在场，却已经在这段对话里。
 
 **读者视角提示**：省略号后才是正题。；他看的是黑暗，不看上尉。
-> **原句 6:** “Yes?” asked Ambrose. “Now, if you’ve something to say, I would be most grateful if you would say it.”
+> **原句 7:** “Yes?” asked Ambrose. “Now, if you’ve something to say, I would be most grateful if you would say it.”
 
 **中文理解**：「是吗？」Ambrose 问，「现在，如果您有什么话要说，我非常感激您能直说。」
 
@@ -89,7 +89,7 @@ source_text: ch50
 
 **读者视角提示**：他请对方把话说尽——错误的选择。
 
-> **原句 7:** “Only this,” said the priest. “That I know that house. I have been in it several times myself. It had a certain reputation even before the arrival of your friend’s uncle. He may have… opened a door wide, shall we say, to the realms which lie beyond. But that door in that house was already ajar before he was even so much as thought of.”
+> **原句 8:** “Only this,” said the priest. “That I know that house. I have been in it several times myself. It had a certain reputation even before the arrival of your friend’s uncle. He may have… opened a door wide, shall we say, to the realms which lie beyond. But that door in that house was already ajar before he was even so much as thought of.”
 
 **中文理解**：「只说这一件，」神父说，「那栋房子我认识。我自己进去过好几次。它在您那位朋友的叔叔到来之前就已经有些名声了。他也许……可以说，把通向彼岸世界的那扇门大大敞开了。可是那栋房子里的那扇门，在他还没被人念及之前，就已经半开着。」
 
@@ -99,7 +99,7 @@ source_text: ch50
 
 **读者视角提示**：门一直半开——换谁住都一样。
 
-> **原句 8:** “Why? What happened there?”
+> **原句 9:** “Why? What happened there?”
 
 **中文理解**：「为什么？那房子里发生过什么？」
 
@@ -109,7 +109,7 @@ source_text: ch50
 
 **读者视角提示**：短问句把节奏交回上尉。
 
-> **原句 9:** “Oh, shall we say unhappiness? From before the first brick of the place was even laid down. A long litany of misery. Three people took their own lives in that place over a span of scarcely more than a decade. Yet it was the residence of Mr Gowing which made things so very much worse.
+> **原句 10:** “Oh, shall we say unhappiness? From before the first brick of the place was even laid down. A long litany of misery. Three people took their own lives in that place over a span of scarcely more than a decade. Yet it was the residence of Mr Gowing which made things so very much worse.
 
 **中文理解**：「哦，就说是不幸吧？从那地方连第一块砖砌起来之前就有了。一长串的不幸。在不到十年的工夫里，有三个人在那栋房子里结束了自己的生命。不过，正是 Gowing 先生住在那里，才让事情变得糟糕得多。」
 
@@ -119,7 +119,7 @@ source_text: ch50
 
 **读者视角提示**：三起自尽在第一块砖之前就注定了。
 
-> **原句 10:** After he died, I performed a blessing in that property. Did you know that?” “No, sir. I did not. Though my associate, Mr Scrooge, and I have sometimes found in the past that such interventions by a member of the clergy can be very effective.”
+> **原句 11:** After he died, I performed a blessing in that property. Did you know that?” “No, sir. I did not. Though my associate, Mr Scrooge, and I have sometimes found in the past that such interventions by a member of the clergy can be very effective.”
 
 **中文理解**：「他死后，我在那处房产里做过一次祝福仪式。您知道吗？」「不，先生，我不知道。不过我的同伴 Scrooge 先生和我过去有时发现，教区成员做这样的干预往往很有效。」
 
@@ -129,7 +129,7 @@ source_text: ch50
 
 **读者视角提示**：神父的驱魔即将被证伪。
 
-> **原句 11:** The priest gave a small, dry smile at this suggestion. “Not, I fear, in this instance. Although I sprinkled holy water in every room and bade whatever presences were there to leave, I felt that it did no good at all.
+> **原句 12:** The priest gave a small, dry smile at this suggestion. “Not, I fear, in this instance. Although I sprinkled holy water in every room and bade whatever presences were there to leave, I felt that it did no good at all.
 
 **中文理解**：神父对这话露出一个干巴巴的小笑。「恐怕这次不行。虽然我在每个房间都洒了圣水，也命令那里的一切存在离开，但我感觉一点用也没有。」
 
@@ -139,7 +139,7 @@ source_text: ch50
 
 **读者视角提示**：驱魔失败，而神父用"这次"来自保。
 
-> **原句 12:** In fact, what I encountered in that house I’m not sure I’ve ever felt before, at least not to so great a degree of intensity.” “And what was that?” asked the soldier.
+> **原句 13:** In fact, what I encountered in that house I’m not sure I’ve ever felt before, at least not to so great a degree of intensity.” “And what was that?” asked the soldier.
 
 **中文理解**：「事实上，我在那栋房子里遇到的东西，我不确定自己以前是否遇到过，至少没有遇到过这么强的强度。」「那是什么？」士兵问。
 
@@ -149,7 +149,7 @@ source_text: ch50
 
 **读者视角提示**：神父讲的是强度，上尉问的是性质。
 
-> **原句 13:** “Pure and concentrated enmity. Solid. Like a wall somehow pushing back against you.” The captain only nodded at this, as if he had half-expected to hear such a set of sentences. “Perhaps you did more good in that house than you think, Reverend. For I have felt nothing so serious as you describe.”
+> **原句 14:** “Pure and concentrated enmity. Solid. Like a wall somehow pushing back against you.” The captain only nodded at this, as if he had half-expected to hear such a set of sentences. “Perhaps you did more good in that house than you think, Reverend. For I have felt nothing so serious as you describe.”
 
 **中文理解**：「纯粹而集中的敌意。凝实的。像一道墙，在把你往后推。」上尉只是点了点头，仿佛他早就料到自己会听到这样一番话。「神父，也许您在那栋房子里做的事，比您自己以为的更有用。因为我感到的东西，没有一样严重到您说的这个程度。」
 
@@ -159,7 +159,7 @@ source_text: ch50
 
 **读者视角提示**：这里的恶没有面目，只有重量。
 
-> **原句 X:** “Aye, perhaps. Or perhaps that place has been sleeping awhile. Perhaps that’s what it is.” The captain found himself growing rather irritated with the man by now, with all these murmured hints and warnings. “Well, it’s been most informative, but I fear I must return to the side of the lady.” “Of course,” murmured the priest, “of course.” And without even saying so much as goodbye, he turned and went back into the vestry, where he was soon lost to the shadows. Ambrose, a little surprised by the curtness of this departure, only turned himself and hurried back towards Brightwell Road, where, even now, Mrs Fell was standing at the foot of the staircase and listening, with rising fear, to the sound of impossible tears.
+> **原句 15:** “Aye, perhaps. Or perhaps that place has been sleeping awhile. Perhaps that’s what it is.” The captain found himself growing rather irritated with the man by now, with all these murmured hints and warnings. “Well, it’s been most informative, but I fear I must return to the side of the lady.” “Of course,” murmured the priest, “of course.” And without even saying so much as goodbye, he turned and went back into the vestry, where he was soon lost to the shadows. Ambrose, a little surprised by the curtness of this departure, only turned himself and hurried back towards Brightwell Road, where, even now, Mrs Fell was standing at the foot of the staircase and listening, with rising fear, to the sound of impossible tears.
 
 **中文理解**：「也许吧。也可能那地方睡了一阵子。也许就是这样。」上尉这时已有些烦躁，被这些絮絮叨叨的暗示与警告弄得不耐烦。「这些信息很有用，不过我恐怕得回到那位女士身边去了。」；「当然，」神父低声说，「当然。」连一句道别也没说，他就转身回到教区储物间里，很快消失在阴影中。上尉对这样突兀的告别有些惊讶，只是转身赶回 Brightwell Road——就在此刻，Fell 太太正站在楼梯脚下，带着越来越深的恐惧，聆听那不可能存在的哭声。
 
@@ -168,3 +168,36 @@ source_text: ch50
 **为什么这样写**：「Or perhaps that place has been sleeping awhile」是神父最乐观也最无力的猜测；作者把这句与上尉的"irritated"并置，读者清楚：那个东西没有睡，它醒着——而唯一可能知道此事的人此刻正被忽视。；末句以「impossible tears（不可能的哭声）」作结，把上一章的婴啼重新定性为"不可能"——然而作者不解释它不可能在何处：孩子尚未出生（第 9 章），所以这哭声既不属于活人也不属于亡者，只能属于尚未之人。而神父的不告而别，让上尉连追问的机会都没有。
 
 **读者视角提示**："它睡了一会儿"——恰恰相反，它醒着。；婴啼是"不可能"的——因为孩子还没出生。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| bedevilled | 纠缠、困扰 | no recurrence of those phenomena which had bedevilled them the night before |
+| silhouetted against | 逆着（光）显出轮廓 | a figure, standing in the doorway and looking out, silhouetted against the light from within |
+| to rove | 游移、扫视 | His gaze moved from the captain and seemed to rove around in the gathering darkness. |
+| to deploy | 施展、动用 | At this, the captain deployed his heartiest manner. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| to be ajar | 虚掩着 | But that door in that house was already ajar before he was even so much as thought of. |
+| a litany of | 一连串的 | A long litany of misery. |
+| of no good at all | 完全没用 | I felt that it did no good at all. |
+| to grow rather irritated | 变得相当烦躁 | The captain found himself growing rather irritated with the man by now. |
+
+### ⭐ 常用
+
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| to beckon | 招手示意 | He raised a hand as the captain passed by, then beckoned him over. |
+| a dry smile | 干巴巴的笑 | The priest gave a small, dry smile at this suggestion. |
+| to make things worse | 使情况更糟 | it was the residence of Mr Gowing which made things so very much worse |
+| to lose to | 消失于 | he was soon lost to the shadows |
+
+## 一句话总结
+
+天已全黑，Ambrose 上尉穿过昏暗的 Starningham（past the grocer’s, the butcher’s, the baker’s），本想直接赶回 Brightwell Road，却在教堂门口看见一个逆着内光站着的人影朝他招手；他走进教区储物间（vestry），正是前一日下午接待他们的那位神父。神父说他「know that house」，那栋房子的名声在 Gowing 到来之前就已存在——他「opened a door wide」，可那门「was already ajar before he was even so much as thought of」；根源是「unhappiness」，自「before the first brick of the place was even laid down」起，「Three people took their own lives in that place over a span of scarcely more than a decade」；Gowing 住进去后一切「made things so very much worse」。Gowing 死后他做过祝福（blessing）与圣水，「I felt that it did no good at all」，他感到的是「Pure and concentrated enmity. Solid. Like a wall somehow pushing back against you.」上尉却答「For I have felt nothing so serious as you describe」，神父只说「Or perhaps that place has been sleeping awhile. Perhaps that’s what it is.」——随即连再见也不说便走进阴影里；上尉赶回时，Fell 太太正站在楼梯脚下，「listening, with rising fear, to the sound of impossible tears.」

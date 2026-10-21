@@ -20,7 +20,7 @@ source_text: ch44
 
 ## 精读
 
-> **原句 1:** Eleven o’clock in the morning. The day bright and clear.
+> **原句 1:** Eleven o’clock in the morning. The day bright and clear
 
 **中文理解**：上午十一点。天色明亮而晴朗。
 
@@ -30,7 +30,7 @@ source_text: ch44
 
 **读者视角提示**：作者故意用最晴朗的天气开场。
 
-> **原句 2:** After a moment’s mild awkwardness upon waking, with the fire dead before them, and with the December sunshine streaming through the drawing room window, Mrs Fell and Captain Ambrose had dressed and made ready for the day. The house seemed still again and the weird events of the night before appeared, in the smiling morning, to be the stuff of dreams (so much so that the gentleman and lady had even gone so far as to confirm with the other that they had indeed witnessed what they believed they had witnessed).
+> **原句 2:** After a moment’s mild awkwardness upon waking, with the fire dead before them, and with the December sunshine streaming through the drawing room window, Mrs Fell and Captain Ambrose had dressed and made ready for the day. The house seemed still again and the weird events of the night before appeared, in the smiling morning, to be the stuff of dreams (so much so that the gentleman and lady had even gone so far as to confirm with the other that they had indeed witnessed what they believed they had witnessed)
 
 **中文理解**：醒来后有片刻轻微的尴尬——他们面前的火已经熄了，十二月的阳光从客厅的窗子直泻进来；Mrs Fell 与 Captain Ambrose 已穿好衣服、收拾停当，准备开始这一天。房子又静了下来，昨夜那些怪事在含笑的早晨里，显得像是梦里的东西（以至于那位绅士与那位女士甚至特意向对方确认：他们确实看见了自己所相信看见的东西）。
 
@@ -40,7 +40,7 @@ source_text: ch44
 
 **读者视角提示**：白昼把怪谈降格成梦，但人仍需互相作证。
 
-> **原句 3:** Having breakfasted, they both were eager to leave the house, for reasons which need not be spelled out here. And so they spent a pleasant hour or so in acquainting themselves with the little town of Starningham – its butcher, baker, shop of stores and post office. They went once again to the church but found no sign of the priest to whom they had spoken upon the previous evening.
+> **原句 3:** Having breakfasted, they both were eager to leave the house, for reasons which need not be spelled out here. And so they spent a pleasant hour or so in acquainting themselves with the little town of Starningham – its butcher, baker, shop of stores and post office. They went once again to the church but found no sign of the priest to whom they had spoken upon the previous evening
 
 **中文理解**：吃过早饭，两人都急着离开这栋房子，理由在此不必细说。于是他们花了一个钟头左右，认识了这座小镇 Starningham：它的肉铺、面包房、杂货铺和邮局。他们又去了一次教堂，却没找到昨晚那位他们与之交谈过的神父。
 
@@ -50,7 +50,7 @@ source_text: ch44
 
 **读者视角提示**：叙述者故意不说"急着离开"的理由。
 
-> **原句 4:** The captain suggested the seeking out of Mrs Bethlem and telling her of that weird apparition upon the threshold. With this, Mrs Fell did not concur, at least in part out of embarrassment that she would have to admit to the lady that they had broken the first of her rules within hours of her departure.
+> **原句 4:** The captain suggested the seeking out of Mrs Bethlem and telling her of that weird apparition upon the threshold. With this, Mrs Fell did not concur, at least in part out of embarrassment that she would have to admit to the lady that they had broken the first of her rules within hours of her departure
 
 **中文理解**：上尉提议去找 Bethlem 太太，把门口那个古怪的 apparition 告诉她。对此，Mrs Fell 并不赞同——至少有一部分原因是尴尬，因为她不得不向那位女士承认：人家前脚刚走，他们后脚几小时内就破坏了她的第一条规矩。
 
@@ -60,9 +60,9 @@ source_text: ch44
 
 **读者视角提示**：他们已经破了 Bethlem 的第一条规矩。
 
-> **原句 5:** At the post office, Ambrose wrote a hasty note, addressed to Mr Scrooge at The Club of Decent-Hearted Men, enquiring as to his well-being and expressing his earnest hope that they would see him very soon in Starningham. Having handed it to the postmistress, he said to Mrs Fell how he expected that it would reach London only after Mr Scrooge had already left, and that that aged gentleman was surely already on his way.
+> **原句 5:** At the post office, Ambrose wrote a hasty note, addressed to Mr Scrooge at The Club of Decent-Hearted Men, enquiring as to his well-being and expressing his earnest hope that they would see him very soon in Starningham. Having handed it to the postmistress, he said to Mrs Fell how he expected that it would reach London only after Mr Scrooge had already left, and that that aged gentleman was surely already on his way
 
-**中文理解**：在邮局里，Ambrose 匆匆写了一封信，收信人是 The Club of Decent-Hearted Men 的 Mr Scrooge，问候他的身体状况，并热切地表示希望很快能在 Starningham 见到他。把信交给女邮差后，他对 Mrs Fell 说：他估计这封信只有在 Mr Scrooge 已经离开之后才能送达伦敦，而那位老先生此刻肯定已经在路上了。
+**中文理解**：在邮局里，安布罗斯匆匆写了一封信，收信人是仁心男士俱乐部的斯克罗吉先生，问候他的身体状况，并热切地表示希望很快能在斯塔宁厄姆见到他。把信交给女邮差后，他对费尔太太说：他估计这封信只有在斯克罗吉先生已经离开之后才能送达伦敦，而那位老先生此刻肯定已经在路上了。
 
 **关键词**：At the post office, Ambrose wrote a hasty note / addressed to Mr Scrooge at The Club of Decent-Hearted Men / enquiring as to his well-being / expressing his earnest hope that they would see him very soon in Starningham / he said to Mrs Fell how he expected that it would reach London only after Mr Scrooge had already left / that aged gentleman was surely already on his way
 
@@ -70,7 +70,7 @@ source_text: ch44
 
 **读者视角提示**：信到伦敦时他早已不在——作者在铺后来的行程。
 
-> **原句 6:** Neither the speaker nor she who heard the words quite believed in this little summary, for all that they dearly wished it to be true. And so, these errands run, the two of them returned to the house, outside of which a young woman was waiting. She was not more than twenty, soberly dressed, pretty with long brown hair. She smiled as they approached.
+> **原句 6:** Neither the speaker nor she who heard the words quite believed in this little summary, for all that they dearly wished it to be true
 
 **中文理解**：可无论说话的人还是听这话的人，都没有真正相信这句小小的总结，尽管他们都巴望它是真的。
 
@@ -80,7 +80,7 @@ source_text: ch44
 
 **读者视角提示**：他们的乐观是希望，不是判断。
 
-> **原句 7:** “Mrs Fell? Captain Ambrose?” They admitted, of course, to these identities. “I’m Susan, miss. Susan Naylor. I think Mrs Bethlem told you to expect me?” “She did indeed,” said Mrs Fell. “And we’re very pleased to make your acquaintance, aren’t we?” Captain Ambrose nodded briskly. “We are.” “I’m so glad you’re here,” said Mrs Fell to the girl. “I do think I’ll need some help as I get settled in. And perhaps some companionship also.”
+> **原句 7:** And so, these errands run, the two of them returned to the house, outside of which a young woman was waiting. She was not more than twenty, soberly dressed, pretty with long brown hair. She smiled as they approached. “Mrs Fell? Captain Ambrose?” They admitted, of course, to these identities. “I’m Susan, miss. Susan Naylor. I think Mrs Bethlem told you to expect me
 
 **中文理解**：办完这些差事，两人回到房子，门外已有一个年轻女人在等着。她不超过二十岁，衣着朴素，长长的棕发，很漂亮。他们走近时她笑了笑。「Mrs Fell？Captain Ambrose？」他们自然承认了这两个身份。「我是 Susan，小姐。Susan Naylor。我想 Bethlem 太太告诉过你们我会来吧？」「她确实这么说了，」Fell 太太说，「而且我们很高兴认识你，不是吗？」
 
@@ -94,13 +94,13 @@ source_text: ch44
 
 **中文理解**：「你来了我真高兴，」Fell 太太对姑娘说，「我想等我安顿下来，确实会需要些帮手。也许还需要些陪伴。」「哦，可我以为您已经有人陪了，小姐，」Susan说着，瞥了上尉一眼。「我不知道 Captain Ambrose 会住多久，」Fell 太太说，「而且，虽然他是一位十分出色、最勇敢的绅士，我不确定他在家务这一行是否很在行。」两个女人相视而笑。
 
-**关键词**：I do think I’ll need some help as I get settled in / perhaps some companionship also / Oh, but I should have thought you had that already, miss / glancing at the captain / I have no notion of how long Captain Ambrose will be staying / a fine and most courageous gentleman / not terribly accomplished in the domestic line / The two women smiled at one another
+**关键词**：Oh, but I should have thought you had that already, miss / glancing at the captain / I have no notion of how long Captain Ambrose will be staying / a fine and most courageous gentleman / The two women smiled at one another
 
 **为什么这样写**：Susan 用一个眼神加半句话就把上尉的功能挑明：陪伴已经有了——他就是那个陪伴。Fell 太太的回答里藏着对丈夫亡故、对未来独居的全部心事，只是用「十分出色、最勇敢」这一串褒扬收住。而「not terribly accomplished in the domestic line」是全章最漂亮的俏皮话：一个军人的家务能力，用行话一笔带过。
 
 **读者视角提示**：Susan 一眼就看出上尉只是"陪伴"。
 
-> **原句 9:** “Yes. Yes.” Mrs Fell did not sound certain. “Susan, listen, before we go in… I want to be frank with you… I want you to be altogether certain… Do you know – that is, are you aware of – this house’s… reputation?” The girl laughed. “Bless you, miss, but of course I am! You can’t grow up in Starningham, miss, and not know all about the house on Brightwell Road. Nor about your uncle neither, God rest his soul.”
+> **原句 9:** Shall we go inside?” Susan asked. “I should so like to get started.” “Yes. Yes.” Mrs Fell did not sound certain. “Susan, listen, before we go in… I want to be frank with you… I want you to be altogether certain… Do you know – that is, are you aware of – this house’s… reputation?”
 
 **中文理解**：「我们进去好吗？」Susan 问，「我真希望快点开始。」「好，好。」Fell 太太的语气并不确定，「Susan，听着，进门之前……我要跟你坦白……我要你完全清楚……你知不知道——也就是说，你是否听说过——这栋房子的……名声？」
 
@@ -110,7 +110,7 @@ source_text: ch44
 
 **读者视角提示**：她的三处省略号就是她的全部犹豫。
 
-> **原句 10:** “You’re not concerned?” asked Mrs Fell, a little bemused by this attitude. “I can’t say as I am, miss, no. I save my fear for the living, to be honest, and I’ve reason enough for that, you may believe me.” She looked at them both thoughtfully for a moment. “Why?” she asked. “Have you seen something, then? Seen something already?” A quick glance of collaboration between the soldier and the lady.
+> **原句 10:** The girl laughed. “Bless you, miss, but of course I am! You can’t grow up in Starningham, miss, and not know all about the house on Brightwell Road. Nor about your uncle neither, God rest his soul.” “You’re not concerned?” asked Mrs Fell, a little bemused by this attitude. “I can’t say as I am, miss, no. I save my fear for the living, to be honest, and I’ve reason enough for that, you may believe me.” She looked at them both thoughtfully for a moment. “Why?” she asked. “Have you seen something, then? Seen something already
 
 **中文理解**：姑娘笑了。「哎呀，小姐，我当然知道啦！您总不能在 Starningham 长大，却不知道 Brightwell Road 上那栋房子的事。也不会不知道您舅舅的事，愿主赐他安息。」「你不担心？」Fell 太太问，对这态度有点困惑。「我可说不上担心，小姐。我把害怕留给活人，老实说，而且我也有足够的理由这么怕，您可以信我。」她若有所思地看了他们俩一会儿。「为什么？」她问，「你们是不是已经看见了什么？看见了什么了吗？」
 
@@ -120,7 +120,7 @@ source_text: ch44
 
 **读者视角提示**：Susan 心里另有一桩怕活人的事。
 
-> **原句 11:** “Let us all go inside,” said the captain. “Let us stoke up the fire and let us speak of the past and of the future. And perhaps, once that’s done, we can think about how we might make of this house a home for this remarkable lady,” he nodded towards the widow, “and for the new life that’s to come.”
+> **原句 11:** Let us all go inside,” said the captain. “Let us stoke up the fire and let us speak of the past and of the future. And perhaps, once that’s done, we can think about how we might make of this house a home for this remarkable lady,” he nodded towards the widow, “and for the new life that’s to come
 
 **中文理解**：「我们一起进去吧，」上尉说，「我们把火生起来，我们谈谈过去和将来。也许做完这些，我们就能想想，怎么把这栋房子变成这位非凡女士的家——」他朝那位寡妇点了点头，「——以及即将到来的那条新生命。」
 
@@ -134,13 +134,13 @@ source_text: ch44
 
 **中文理解**：「哦，」Susan 说，「哦，我明白了。我没想到这个。小姐，我能先问一句吗？在我们进去之前：您为什么不把这房子卖给别人呢？既然是您的遗产，是的，那您想怎样处置都可以吧？」「遗产也带来了许多义务，」Fell 太太说，「其中之一就是，法律上我在至少五年内不得出售这处房产。」Susan 听了做了个鬼脸。「五年？」她说，「天哪。」「您看我的处境了？」那位女士不安地问。
 
-**关键词**：Why don’t you sell this house to another? / It’s your inheritance / An inheritance which arrives with many obligations / I am not legally permitted to sell the property for at least five years / Susan pulled a face / Five years? Goodness / You see my predicament?
+**关键词**：Why don’t you sell this house to another? / It’s your inheritance / An inheritance which arrives with many obligations / I am not legally permitted to sell the property for at least five years / Susan pulled a face / You see my predicament?
 
 **为什么这样写**：作者用 Susan 的一句天真提问，替读者问出了全书最关键的一块拼图：**她不是选择留下**。这条法律约束把"这栋房子"从她的意志问题变成她的处境问题——「You see my predicament?」的不安口气因此完全成立。而「Goodness」这个词把英国人对五年禁售期的震惊写得轻巧又地道。
 
 **读者视角提示**：她走不了——不是不想，是被法律锁住。
 
-> **原句 13:** The girl agreed that she did and so they all went into the house then, Mrs Fell speaking, as they did so, of the rules that had been laid down by Mrs Bethlem and of their decision (now, in her opinion, well-founded) to follow them to the letter.
+> **原句 13:** The girl agreed that she did and so they all went into the house then, Mrs Fell speaking, as they did so, of the rules that had been laid down by Mrs Bethlem and of their decision (now, in her opinion, well-founded) to follow them to the letter
 
 **中文理解**：姑娘表示确实如此，于是三人一同走进房子；进屋时，Fell 太太谈起 Bethlem 太太定下的那些规矩，以及她们决定（照她现在的看法，这决定完全站得住脚）一字不差地照办。
 
@@ -150,7 +150,7 @@ source_text: ch44
 
 **读者视角提示**：决心是真的，心虚也是真的。
 
-> **原句 14:** Once they were inside the house, Captain Ambrose peered out into the street, suddenly feeling certain that they were being watched. There was no one there – the quiet and narrow road was still deserted. He closed the door and went within, to light the fire and join the ladies at the hearth. He was cheered, after all, if only a little, by the arrival of this new ally, even if there was still no word from Ebenezer.
+> **原句 14:** Once they were inside the house, Captain Ambrose peered out into the street, suddenly feeling certain that they were being watched. There was no one there – the quiet and narrow road was still deserted. He closed the door and went within, to light the fire and join the ladies at the hearth. He was cheered, after all, if only a little, by the arrival of this new ally, even if there was still no word from Ebenezer
 
 **中文理解**：进了屋之后，Captain Ambrose 往街里张望，忽然极确定有人在看着他们。可外面没有人——那条安静狭窄的路依旧空荡。他关上门，走进去生火，加入炉边两位女士的谈话。新盟友的到来毕竟让他心里宽慰了些，尽管 Ebenezer 仍然音讯全无。
 
@@ -160,7 +160,7 @@ source_text: ch44
 
 **读者视角提示**：没人，却确信被看——这是全章最冷的一句。
 
-> **原句 15:** A moment later, on the street outside, a black dog appeared, the very image of that which had snarled at Mr Scrooge in the churchyard of St Michael. It sniffed the air. It came closer to the house. It barked once. Upstairs, on the top floor, there came a sort of swift fluttering against the windowpane, something like a lengthening shadow. Then nothing. The dog barked once more and then loped, seemingly satisfied, away.
+> **原句 15:** A moment later, on the street outside, a black dog appeared, the very image of that which had snarled at Mr Scrooge in the churchyard of St Michael. It sniffed the air. It came closer to the house. It barked once. Upstairs, on the top floor, there came a sort of swift fluttering against the windowpane, something like a lengthening shadow. Then nothing. The dog barked once more and then loped, seemingly satisfied, away
 
 **中文理解**：片刻之后，街上出现一条黑狗，几乎就是那条曾在 St Michael 的墓园里对 Mr Scrooge 龇牙的狗的翻版。它嗅了嗅空气，往房子这边靠近，叫了一声。楼上顶层传来一阵急促的扑腾，撞在窗玻璃上，像是有什么东西正在伸长。然后归于寂静。狗又叫了一声，然后像是心满意足似的，颠着小跑离去。
 
@@ -197,11 +197,13 @@ source_text: ch44
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | to be eager to leave | 急着要走 | they both were eager to leave the house |
-| to acquaint oneself with | 熟悉、认识 | acquainting themselves with the little town of Starningham |
+| acquainting themselves with | 熟悉、结识 | they spent a pleasant hour or so in acquainting themselves with the little town of Starningham |
 | to snatch at | 抓住 |  |
 | to peer out | 向外看 |  |
 | to knock at the door | 敲门 |  |
 
-## 一句话总结**：上午十一点，天色「bright and clear」；昨夜的火「dead before them」，十二月阳光从客厅窗子直泻而入，Mrs Fell 与 Captain Ambrose 醒来后有「a moment’s mild awkwardness」，而「The house seemed still again」，昨夜怪事「appeared, in the smiling morning, to be the stuff of dreams」，两人都特意向对方确认「they had indeed witnessed what they believed they had witnessed」；吃过早饭两人「eager to leave the house」（理由「need not be spelled out」），花一个钟头走遍 Starningham 的 butcher, baker, shop of stores and post office，又去教堂却「found no sign of the priest」；上尉提议找 Bethlem 太太告知「that weird apparition upon the threshold」，Fell 太太却因尴尬而不愿承认自己「had broken the first of her rules」；邮局里上尉写信给 The Club of Decent-Hearted Men 的 Mr Scrooge 问候并盼「see him very soon in Starningham」，他推测信到伦敦时对方「had already left」，「that aged gentleman was surely already on his way」——但两人都「quite believed」不了一厢情愿的这份小结；回到房前，一个不超过二十岁、衣着朴素、长棕发的姑娘在等，自报「I’m Susan, miss. Susan Naylor」，Bethlem 明明没许诺，她还是来了；她说自己「I save my fear for the living」「I’ve reason enough for that」，反问「Have you seen something, then?」，上尉与 Fell 太太以「A quick glance of collaboration」默契带过；上尉提议「stoke up the fire」、谈过去与将来，把这房子变成「this remarkable lady」与「the new life that’s to come」的家；Susan 这才「Oh, I see. I didn’t realise that」，随即问为何不卖房，Fell 太太答「An inheritance which arrives with many obligations」，法律上五年内不得出售（Susan「Five years? Goodness.」「You see my predicament?」）；三人进屋，一路上谈定「to follow them to the letter」；进了屋上尉「peered out into the street」，「suddenly feeling certain that they were being watched」，可「the quiet and narrow road was still deserted」；片刻后街上出现一条黑狗，「the very image of that which had snarled at Mr Scrooge in the churchyard of St Michael」，嗅了嗅空气、凑近房子、「It barked once」；楼上顶层「a sort of swift fluttering against the windowpane, something like a lengthening shadow. Then nothing.」，狗再叫一声，「then loped, seemingly satisfied, away」。
+## 一句话总结
+
+上午十一点，天色「bright and clear」；昨夜的火「dead before them」，十二月阳光从客厅窗子直泻而入，Mrs Fell 与 Captain Ambrose 醒来后有「a moment’s mild awkwardness」，而「The house seemed still again」，昨夜怪事「appeared, in the smiling morning, to be the stuff of dreams」，两人都特意向对方确认「they had indeed witnessed what they believed they had witnessed」；吃过早饭两人「eager to leave the house」（理由「need not be spelled out」），花一个钟头走遍 Starningham 的 butcher, baker, shop of stores and post office，又去教堂却「found no sign of the priest」；上尉提议找 Bethlem 太太告知「that weird apparition upon the threshold」，Fell 太太却因尴尬而不愿承认自己「had broken the first of her rules」；邮局里上尉写信给 The Club of Decent-Hearted Men 的 Mr Scrooge 问候并盼「see him very soon in Starningham」，他推测信到伦敦时对方「had already left」，「that aged gentleman was surely already on his way」——但两人都「quite believed」不了一厢情愿的这份小结；回到房前，一个不超过二十岁、衣着朴素、长棕发的姑娘在等，自报「I’m Susan, miss. Susan Naylor」，Bethlem 明明没许诺，她还是来了；她说自己「I save my fear for the living」「I’ve reason enough for that」，反问「Have you seen something, then?」，上尉与 Fell 太太以「A quick glance of collaboration」默契带过；上尉提议「stoke up the fire」、谈过去与将来，把这房子变成「this remarkable lady」与「the new life that’s to come」的家；Susan 这才「Oh, I see. I didn’t realise that」，随即问为何不卖房，Fell 太太答「An inheritance which arrives with many obligations」，法律上五年内不得出售（Susan「Five years? Goodness.」「You see my predicament?」）；三人进屋，一路上谈定「to follow them to the letter」；进了屋上尉「peered out into the street」，「suddenly feeling certain that they were being watched」，可「the quiet and narrow road was still deserted」；片刻后街上出现一条黑狗，「the very image of that which had snarled at Mr Scrooge in the churchyard of St Michael」，嗅了嗅空气、凑近房子、「It barked once」；楼上顶层「a sort of swift fluttering against the windowpane, something like a lengthening shadow. Then nothing.」，狗再叫一声，「then loped, seemingly satisfied, away」。
 
 ---

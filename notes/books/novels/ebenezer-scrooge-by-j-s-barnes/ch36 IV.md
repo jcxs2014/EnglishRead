@@ -168,7 +168,7 @@ source_text: ch36
 |---------|------|------|
 | dangerous undercurrents which might well lie beneath | 底下可能潜藏的危险暗流 | dangerous undercurrents which might well lie beneath. |
 | to emanate malice | 散发恶意 | The last one upon the street. It emanated malice. |
-| the architectural equivalent of a snarl | 建筑上「龇牙咧嘴」的对应物 | the architectural equivalent of a snarl |
+| the architectural equivalent of a snarl | 建筑上「龇牙咧嘴」的对应物 | If a house might be said to possess the architectural equivalent of a snarl, then this assuredly was it. |
 | a quality of focused malevolence | 那种集中的、聚焦的恶意 | no description had come close to capturing its quality of focused malevolence. |
 | a casual sort of courage | 一种随意式的勇气 | with a casual sort of courage in her voice which she did not altogether feel. |
 
@@ -177,7 +177,7 @@ source_text: ch36
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | to be made of sterner stuff | 是更硬气的材料 | but Mrs Fell was made of sterner stuff. |
-| to keep something secure | 保证某物安全 | I have kept it secure. |
+| I have kept it secure | 保证它安全 | I have kept it secure. |
 | to aid one in these endeavours | 在这些事上帮忙 | he would aid me in these endeavours. |
 | to be at an end | 到头了、结束了 | that arrangement is at an end. |
 | to come close to capturing | 接近于传达出 | though no description had come close to capturing its quality of focused malevolence. |
@@ -187,13 +187,13 @@ source_text: ch36
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | to tap the brim of one’s hat | 摘帽檐致意 | The men tapped the brims of their hats in greeting to the ladies |
-| the brims of their hats | 帽檐 | while the women smiled and said good evening |
+| the brims of their hats | 帽檐 | The men tapped the brims of their hats in greeting to the ladies |
 | no especially sinister air | 没有特别阴森的气息 | there seemed to be no especially sinister air to any of the passers-by |
 | to air a place | 给屋子通风 | I have lit fires in the winter and aired the place at the height of summer. |
 | to turn smoothly in the lock | 在锁里转动得顺滑 | it turned smoothly in the lock |
 
 ## 一句话总结
 
-本章是「入宅」段：上尉与 Fell 太太跟在 Bethlem 太太身后沿 Brightwell Road 走去，Fell 太太说这是一条「A quiet, still sort of street」，而上尉心里想「a peaceful surface does not always indicate those dangerous undercurrents which might well lie beneath」；一路居民摘帽道晚安、说「weren’t we lucky it was still so dry」，沿路老屋也「no especially sinister air」，见惯鬼魂的上尉甚至觉得「no promise of the supernatural」、只是「no chill / no sense of unease / no sense of being watched by unseen eyes」，几乎要断定这一切不过是已故 Gowing 编排、旁有 Cadge、Beck 与「Giles」相助的一场「elaborate piece of shared fantasy」；然后「And then he saw the house」——街上最后一栋，「It emanated malice」，若说房子可有「the architectural equivalent of a snarl」，那必定是它，三层暗窗、独栋，教堂尖顶在身后；上尉庆幸自己陪她前来，「he would not for all the world have abandoned the lady (and the precious life which she bore within her)」；Fell 太太低声道「It certainly hasn’t changed」，原以为它会「more… tumbledown」，而 Bethlem 太太答「Well, I have cared for it」——Gowing 遗嘱给了她慷慨报酬，「For the past ten years I have come into this house three times a week」，打扫、守安全、冬天生火、盛夏通风，丈夫在世时帮忙，三年前丈夫去世后她独自做了三年；如今「that arrangement is at an end」，「This house… is now yours. It is your responsibility and yours alone」，她问「Would you like to try the key, dear?」；别人这时大概会犹豫，但 Fell 太太「was made of sterner stuff」，不看同伴径直上前，钥匙在锁里「turned smoothly in the lock」；开门那一刻她心里生出全书最反常的一念：走进这栋房子「felt peculiarly like coming home」，她甚至幻想已故父亲会从阴霾里走出来抱住自己，随即把这个念头甩掉；上尉在身后问「Are you quite all right, ma’am?」（今天已问过三十来回），她用并不完全真信的勇气答「Oh, I’m quite well!」，然后迈步「into the shadows of the house」，两人跟在后面。
+本章是「入宅」段：上尉与 Fell 太太跟在 Bethlem 太太身后沿 Brightwell Road 走去，Fell 太太说这是一条「A quiet, still sort of street」，而上尉心里想「a peaceful surface does not always indicate those dangerous undercurrents which might well lie beneath」；一路居民摘帽道晚安、说「weren’t we lucky it was still so dry」，沿路老屋也「no especially sinister air」，见惯鬼魂的上尉甚至觉得「any promise of the supernatural」、只是「no chill」「no sense of unease」「no sense of being watched by unseen eyes」，几乎要断定这一切不过是已故 Gowing 编排、旁有 Cadge、Beck 与「Giles」相助的一场「elaborate piece of shared fantasy」；然后「And then he saw the house」——街上最后一栋，「It emanated malice」，若说房子可有「the architectural equivalent of a snarl」，那必定是它，三层暗窗、独栋，教堂尖顶在身后；上尉庆幸自己陪她前来，「he would not for all the world have abandoned the lady (and the precious life which she bore within her)」；Fell 太太低声道「It certainly hasn’t changed」，原以为它会「more… tumbledown」，而 Bethlem 太太答「Well, I have cared for it」——Gowing 遗嘱给了她慷慨报酬，「For the past ten years I have come into this house three times a week」，打扫、守安全、冬天生火、盛夏通风，丈夫在世时帮忙，三年前丈夫去世后她独自做了三年；如今「that arrangement is at an end」，「This house… is now yours. It is your responsibility and yours alone」，她问「Would you like to try the key, dear?」；别人这时大概会犹豫，但 Fell 太太「was made of sterner stuff」，不看同伴径直上前，钥匙在锁里「turned smoothly in the lock」；开门那一刻她心里生出全书最反常的一念：走进这栋房子「felt peculiarly like coming home」，她甚至幻想已故父亲会从阴霾里走出来抱住自己，随即把这个念头甩掉；上尉在身后问「Are you quite all right, ma’am?」（今天已问过三十来回），她用并不完全真信的勇气答「Oh, I’m quite well!」，然后迈步「into the shadows of the house」，两人跟在后面。
 
 ---

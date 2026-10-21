@@ -20,7 +20,7 @@ source_text: ch34
 
 ## 精读
 
-> **原句 1:** Mr Penberry, the young legal clerk, hurled himself through the West End streets, scattering slower pedestrians in his wake and causing a considerable commotion.
+> **原句 1:** Mr Penberry, the young legal clerk, hurled himself through the West End streets, scattering slower pedestrians in his wake and causing a considerable commotion
 
 **中文理解**：年轻法律书记员 Penberry 冲进西区的街巷，把慢吞吞的行人撞得四散，自己身后留下一片不小的骚动。
 
@@ -30,7 +30,7 @@ source_text: ch34
 
 **读者视角提示**：速度是本章的底色，后面每一块都在提速。
 
-> **原句 2:** Not, he thought as he ran, and as he called out hurried apologies to those whose progress he had interrupted, that many of them would mind in the slightest if they knew that his urgent journey was to help Mr Scrooge in his hour of need. The old man was popular indeed in these parts and there were doubtless several whose path he had already crossed that afternoon whom he had assisted in the past, either in purely philanthropic terms or through his other, more mysterious work.
+> **原句 2:** Not, he thought as he ran, and as he called out hurried apologies to those whose progress he had interrupted, that many of them would mind in the slightest if they knew that his urgent journey was to help Mr Scrooge in his hour of need. The old man was popular indeed in these parts and there were doubtless several whose path he had already crossed that afternoon whom he had assisted in the past, either in purely philanthropic terms or through his other, more mysterious work
 
 **中文理解**：他一边跑、一边向那些被他打断行程的人匆匆道歉，心里想的是：要是他们知道自己赶的是这样一趟急路——去帮 Scrooge 度过性命攸关的时刻——恐怕他们多半一点也不会介意。这位老人在这一带确实很受欢迎；今天下午他路过的那些人里，准有好几个他过去曾帮过，不是出于纯粹的慈善，就是靠他「那另一项更神秘的工作」。
 
@@ -40,7 +40,7 @@ source_text: ch34
 
 **读者视角提示**：「more mysterious work」是全书对 Scrooge 第二职业最克制的一次提及。
 
-> **原句 3:** Dodging traffic and horses and people on foot, ducking through all the bustle of the city streets, he came at last to Sargasso Street and sprinted along the pavement down to number 157. It was a grand building, with a green door, and a flight of steps which led up to that door. He ran up these and all but barrelled into the door himself, narrowly stopping in time before hammering hard with the knocker.
+> **原句 3:** Dodging traffic and horses and people on foot, ducking through all the bustle of the city streets, he came at last to Sargasso Street and sprinted along the pavement down to number 157
 
 **中文理解**：他闪避车流、马匹和步行的人，在城市街道的喧闹中钻来钻去，最后终于来到 Sargasso Street，沿着人行道一路奔到 157 号门前。
 
@@ -50,7 +50,7 @@ source_text: ch34
 
 **读者视角提示**：157 Sargasso Street，记住这个门牌。
 
-> **原句 4:** At this ruckus, a window was opened on the first floor and a silver head, belonging to a man of distinction, peered out.
+> **原句 4:** It was a grand building, with a green door, and a flight of steps which led up to that door. He ran up these and all but barrelled into the door himself, narrowly stopping in time before hammering hard with the knocker
 
 **中文理解**：那是一幢气派的房子，一扇绿门，门前的台阶通向那扇门。他冲上台阶，几乎连人带门一起撞上去，勉强及时刹住，随即用门环狠狠砸起来。
 
@@ -60,7 +60,7 @@ source_text: ch34
 
 **读者视角提示**：他敲门的方式决定了医生对他的第一印象——急躁的陌生人。
 
-> **原句 5:** “What is it? What do you want?” He sounded as though this interruption was by no means the first of the day.
+> **原句 5:** At this ruckus, a window was opened on the first floor and a silver head, belonging to a man of distinction, peered out
 
 **中文理解**：这一阵响动惊动了人，一楼的窗户被推开，一颗银色的脑袋探出来——那属于一位有身份地位的人。
 
@@ -70,7 +70,7 @@ source_text: ch34
 
 **读者视角提示**：记住 Tarkin 这个名字——它是第 33 章那张收据上的兑现。
 
-> **原句 6:** “You Dr Tarkin?” Penberry called up. “Of course I am! Who are you?”
+> **原句 6:** What is it? What do you want?”
 
 **中文理解**：「什么事？你们要什么？」
 
@@ -80,7 +80,7 @@ source_text: ch34
 
 **读者视角提示**：这句之后紧跟的那句关于「今天不是第一次被打扰」的解释，才是真话。
 
-> **原句 7:** “My name’s not important, sir!” shouted the legal clerk, with commendable modesty under the circumstances. “I’m here on behalf of Mr Scrooge!”
+> **原句 7:** He sounded as though this interruption was by no means the first of the day
 
 **中文理解**：他的语气听起来，好像这样的打扰今天绝不会是第一回。
 
@@ -90,7 +90,7 @@ source_text: ch34
 
 **读者视角提示**：老人今天的多次被打扰，正是这场的日常。
 
-> **原句 8:** The old fellow peered at him. “Mr Ebenezer Scrooge?” he asked. A cry went up. “The same, sir!” “Been taken ill, has he?”
+> **原句 8:** You Dr Tarkin?” Penberry called up. “Of course I am! Who are you?”
 
 **中文理解**：「您是 Tarkin 医生吗？」Penberry 仰头喊道。「我当然是！你是谁？」
 
@@ -100,7 +100,7 @@ source_text: ch34
 
 **读者视角提示**：医生还没弄清来者是谁，先要面子。
 
-> **原句 9:** Mr Penberry passed a hand across his forehead. Caught up in the emergency, he had scarcely noticed how heavily he was perspiring. “Worse, sir!” he said. “Ebenezer Scrooge has been shot!”
+> **原句 9:** My name’s not important, sir!” shouted the legal clerk, with commendable modesty under the circumstances. “I’m here on behalf of Mr Scrooge
 
 **中文理解**：「我姓什么不重要，先生！」这位法律书记员在这种处境下仍带着值得称道的谦逊大声喊道，「我是代表 Scrooge 先生来的！」
 
@@ -110,7 +110,7 @@ source_text: ch34
 
 **读者视角提示**：他不肯报名字，说明他不要任何回报。
 
-> **原句 10:** No answer came to this except the sudden slamming down of the window above. Penberry looked about him in some alarm, and was all set to hammer once again upon the front door, only for it to be thrown open and for old Dr Tarkin to emerge at a trot, still in the midst of putting on his frock coat. He did not wait for Penberry to acknowledge the situation but started off at a run, back in the direction in which the legal clerk had come.
+> **原句 10:** The old fellow peered at him. “Mr Ebenezer Scrooge?” he asked. A cry went up. “The same, sir!” “Been taken ill, has he?”
 
 **中文理解**：老人打量着他。「是 Ebenezer Scrooge 先生吗？」他问。一声呼喊冲了上来：「正是他，先生！」「他病了吗？」
 
@@ -120,7 +120,7 @@ source_text: ch34
 
 **读者视角提示**：医生的第一判断是「病」——他还没想到枪。
 
-> **原句 11:** “He’s at the Club, I presume?” he called back. Mr Penberry, catching up with the physician, said that yes he was, that Scrooge was still bleeding and was even now entirely insensible.
+> **原句 11:** Mr Penberry passed a hand across his forehead. Caught up in the emergency, he had scarcely noticed how heavily he was perspiring. “Worse, sir!” he said. “Ebenezer Scrooge has been shot!”
 
 **中文理解**：Penberry 抬手抹了一下额头。陷在这样的紧急中，他几乎没察觉自己已经汗流浃背。「更糟，先生！」他说，「Ebenezer Scrooge 被人开枪打了！」
 
@@ -130,7 +130,7 @@ source_text: ch34
 
 **读者视角提示**：「更糟」是全章唯一一次程度升级。
 
-> **原句 12:** “Then we should hurry!” shouted the doctor, altogether unnecessarily since they both were now running as fast as they could back towards St James’s Square, to save the life of one whom they considered to be amongst the finest men in England.
+> **原句 12:** No answer came to this except the sudden slamming down of the window above. Penberry looked about him in some alarm, and was all set to hammer once again upon the front door, only for it to be thrown open and for old Dr Tarkin to emerge at a trot, still in the midst of putting on his frock coat. He did not wait for Penberry to acknowledge the situation but started off at a run, back in the direction in which the legal clerk had come
 
 **中文理解**：对此没有别的回应，只有楼上那扇窗被砰地摔下。Penberry 惊慌地四下张望，正要再次上前猛砸大门，却见门被猛地推开，老 Tarkin 医生小跑着出来，外套还穿到一半。他没有等 Penberry 说完情况，就朝来路奔了回去。
 

@@ -82,7 +82,7 @@ source_text: ch38
 
 > **原句 7:** Charlotte sat very quietly, waiting for news, while the men talked amongst themselves. At long last, just around the time that Mrs Fell and Captain Ambrose were being shown around the house on Brightwell Road by Mrs Bethlem, the door to the office was opened and the doctor strode out.
 
-**中文理解**：Charlotte 静静地坐着等消息，男人们在一旁交谈。终于，就在 Mrs Fell 与 Ambrose 上尉正在 Brightwell Road 上被 Bethlem 太太带着参观那栋房子的前后，办公室的门打开了，医生大步走了出来。
+**中文理解**：查洛特静静地坐着等消息，男人们在一旁交谈。终于，就在费尔太太与安布罗斯上尉正在布赖特韦尔路上被贝特勒姆太太带着参观那栋房子的前后，办公室的门打开了，医生大步走了出来。
 
 **关键词**：Charlotte sat very quietly, waiting for news / At long last / just around the time that Mrs Fell and Captain Ambrose / were being shown around the house on Brightwell Road by Mrs Bethlem / the door to the office was opened / the doctor strode out
 

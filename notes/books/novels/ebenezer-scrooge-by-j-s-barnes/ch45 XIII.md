@@ -22,7 +22,7 @@ source_text: ch45
 
 > **原句 1:** Noon now, and there have been visitors to The Club of Decent-Hearted Men.
 
-**中文理解**：此刻是正午，而 The Club of Decent-Hearted Men 今日已有访客。
+**中文理解**：此刻是正午，而仁心男士俱乐部今日已有访客。
 
 **关键词**：Noon now / there have been visitors / to The Club of Decent-Hearted Men
 
@@ -101,6 +101,8 @@ source_text: ch45
 | to die down | 淡去、平息 | all of this had died down |
 | to pray beside | 在旁边祈祷 | She sat and prayed beside him |
 
-## 一句话总结**：正午，The Club of Decent-Hearted Men 已有访客：先是医生再来，然后是前一日下午那两位绅士「to see if all was well」，再是俱乐部会员「concerned about the well-being of one of their most celebrated members」；午餐前不久一名警察「kindly found a moment to saunter down to St James’s Square」，「interviewed the secretary and Charlotte in a lackadaisical fashion」，看到 Mr Scrooge 熟睡的形体便「much shaking of head, much sucking of teeth and much wagging of finger at the iniquities of the world」；Charlotte 问警队能否找出那个「had tried to kill Mr Scrooge」的人，警察「sounded most affronted」，搬出「both personal poverty and the alarming size of the city」，说完便去打听「the contents of the Club’s kitchens」，只「given short shrift indeed by Charlotte and Mr Bentinck」；Scrooge 本人「slept through all of this」「seemed wholly oblivious to all who came to see him」；下午早些时候一名记者（消息来自警察）就其健康状况提出「impertinent questions」，被「asked politely to leave」「questions were rebuffed」，临走留下「rather sour commentary on the lack of decent-hearted treatment in an establishment which bore such a name」；待「all of this had died down」已是两点，Charlotte 上午歇过几个钟头，此时回到老人身边「sat and prayed beside him, listening, with terrible care, to his every breath」。
+## 一句话总结
+
+正午，The Club of Decent-Hearted Men 已有访客：先是医生再来，然后是前一日下午那两位绅士「to see if all was well」，再是俱乐部会员「concerned about the well-being of one of their most celebrated members」；午餐前不久一名警察「kindly found a moment to saunter down to St James’s Square」，「interviewed the secretary and Charlotte in a lackadaisical fashion」，看到 Mr Scrooge 熟睡的形体便「much shaking of head, much sucking of teeth and much wagging of finger at the iniquities of the world」；Charlotte 问警队能否找出那个「had tried to kill Mr Scrooge」的人，警察「sounded most affronted」，搬出「both personal poverty and the alarming size of the city」，说完便去打听「the contents of the Club’s kitchens」，只「given short shrift indeed by Charlotte and Mr Bentinck」；Scrooge 本人「slept through all of this」「seemed wholly oblivious to all who came to see him」；下午早些时候一名记者（消息来自警察）就其健康状况提出「impertinent questions」，被「asked politely to leave」「questions were rebuffed」，临走留下「rather sour commentary on the lack of decent-hearted treatment in an establishment which bore such a name」；待「all of this had died down」已是两点，Charlotte 上午歇过几个钟头，此时回到老人身边「sat and prayed beside him, listening, with terrible care, to his every breath」。
 
 ---

@@ -20,11 +20,11 @@ source_text: ch40
 
 ## 精读
 
-> **原句 1:** I don’t believe that Mr Scrooge can be joining us tonight after all.” This was said by Mrs Fell and it was said with a kind of forced lightness, as though the matter of which she spoke was somehow of very little moment. “I fear you may be right,” replied the captain, in an approximation of the same, dishonest tone. “Perhaps something has delayed him,” suggested the lady.
+> **原句 1:** I don’t believe that Mr Scrooge can be joining us tonight after all.” This was said by Mrs Fell and it was said with a kind of forced lightness, as though the matter of which she spoke was somehow of very little moment. “I fear you may be right,” replied the captain, in an approximation of the same, dishonest tone. “Perhaps something has delayed him,”
 
 **中文理解**：「我不认为 Scrooge 先生今晚还能来得了。」这句话是 Fell 太太说的，语气带着一种刻意的轻松，好像她说的那件事无关紧要。「恐怕你说得对，」上尉答道，用的是同一个腔调——那同样是一种不诚实的调子。「也许有什么事耽搁了他，」那位女士说。
 
-**关键词**：I don’t believe that Mr Scrooge can be joining us tonight after all / with a kind of forced lightness / as though the matter of which she spoke were somehow of very little moment / in an approximation of the same, dishonest tone / Perhaps something has delayed him
+**关键词**：I don’t believe that Mr Scrooge can be joining us tonight after all / with a kind of forced lightness / in an approximation of the same, dishonest tone / Perhaps something has delayed him
 
 **为什么这样写**：作者在第一块就把话术拆穿：forced lightness（勉强的轻快）与 dishonest tone（不诚实的腔调）。三个人用三种说法表达同一件事——不抱希望，却都假装这不重要。读者由此知道：他们已经等了一整天，Scrooge 根本没来。
 
@@ -40,17 +40,17 @@ source_text: ch40
 
 **读者视角提示**：越舒适越不对劲。
 
-> **原句 3:** Or for things to have been made so comfortable for us.” The captain remarked that he shared her surprise. “It’s just all so very ordinary. Pleasant, yes, but ordinary too.” “But Mrs Bethlem’s rules…” Captain Ambrose began. Supper and the time that had passed since the departure of that lady seemed to have softened Mrs Fell in her opinion of it all.
+> **原句 3:** Or for things to have been made so comfortable for us.” The captain remarked that he shared her surprise. “It’s just all so very ordinary. Pleasant, yes, but ordinary too.” “But Mrs Bethlem’s rules…” Captain Ambrose began. Supper and the time that had passed since the departure of that lady seemed to have softened Mrs Fell in her opinion of it all
 
 **中文理解**：「或者说，为我们把这里安排得这么舒适。」上尉说他和她一样感到意外。「这一切实在太普通了。是啊，愉快，但也就是普通。」「可是 Bethlem 太太的规矩……」Ambrose 上尉开口。晚饭以及 Bethlem 太太离开后这段时间，似乎软化了 Fell 太太对这一切的看法。
 
-**关键词**：Or for things to have been made so comfortable for us / the captain remarked that he shared her surprise / It’s just all so very ordinary / Pleasant, yes, but ordinary too / But Mrs Bethlem’s rules / seemed to have softened Mrs Fell in her opinion of it all
+**关键词**：Or for things to have been made so comfortable for us / It’s just all so very ordinary / Pleasant, yes, but ordinary too / But Mrs Bethlem’s rules / seemed to have softened Mrs Fell in her opinion of it all
 
 **为什么这样写**：作者把「普通」这个词放在最显眼处：普通＝不合逻辑地妥帖，而妥帖本身是 Bethlem 早就布置好的伪装。而 Bethlem 名字一出现，Fell 太太立刻接上「But Mrs Bethlem's rules…」，却被叙述者插入的一句（seemed to have softened…）抢白——作者代替角色宣布：她已经软化了。
 
 **读者视角提示**：「ordinary」在这个故事里从来不是褒义。
 
-> **原句 4:** “I do think we should follow them,” she admitted. “Yet she has been here a very long time, in this little place, and it would hardly be unusual if all manner of queer beliefs and superstitions should spring up in her.” “These things are quite likely,” said the captain.
+> **原句 4:** I do think we should follow them,” she admitted. “Yet she has been here a very long time, in this little place, and it would hardly be unusual if all manner of queer beliefs and superstitions should spring up in her.” “These things are quite likely,”
 
 **中文理解**：「我确实觉得我们该遵守它们，」她承认道，「不过她在这个小地方待了很久很久，就算她心里长出各种古怪的信念和忌讳，也不算稀奇。」「这些东西很可能有，」上尉说。
 
@@ -64,13 +64,13 @@ source_text: ch40
 
 **中文理解**：「不过我想知道……」他停了一下，确保接下来的话不被说成一个疑问句。「我想知道，你在门外台阶上究竟和 Bethlem 太太谈了什么。」「我问了她关于我舅舅的事，」那位女士平静地说，「因为听起来她生前似乎很了解他。我问过他是个什么样的人，因为我见到他时还是个孩子；我还问，那些关于他的传闻是否属实。」
 
-**关键词**：He paused then, to make sure that he did not phrase what follows as a question / I should like to know what it was that you discussed with Mrs Bethlem on the steps outside / I asked her about my uncle / it sounded to me as though she had known him well in life / I asked if any of the rumours about him were true
+**关键词**：I should like to know what it was that you discussed with Mrs Bethlem on the steps outside / I asked her about my uncle / it sounded to me as though she had known him well in life
 
 **为什么这样写**：上尉的小心很反常：他要把疑问句改成陈述句才敢问——可见 Bethlem 的规矩在他心里已经生效。而 Fell 太太的回答用词讲究：她没有问「我舅舅是不是恶人」，只问「他是个什么样的人」和「传闻是否属实」。她要的不是答案，是描述。
 
 **读者视角提示**：上尉的措辞是本章最耐人寻味的一处。
 
-> **原句 6:** I asked what he was like, for I was just a child when I met him, and I asked if any of the rumours about him were true.” She took a sip from the glass that lay before her. “Her replies were as follows. Firstly, that she wasn’t sure if my uncle was the kind of man that anyone ever really knew at all well.
+> **原句 6:** I asked what he was like, for I was just a child when I met him, and I asked if any of the rumours about him were true.” She took a sip from the glass that lay before her. “Her replies were as follows. Firstly, that she wasn’t sure if my uncle was the kind of man that anyone ever really knew at all well
 
 **中文理解**：她问他是个什么样的人——因为她见到他时还是个孩子；她还问，那些关于他的传闻是否属实。她端起面前杯中的酒抿了一口。「她的回答如下：第一，她不确定我舅舅是不是那种真的能被谁彻底了解的人。」
 
@@ -80,7 +80,7 @@ source_text: ch40
 
 **读者视角提示**：Bethlem 的证词是一份清单，本章只给了第一条。
 
-> **原句 7:** She had never met anybody, she said, who might be said to be close to the man. But that she could only speak as she found and that my uncle had been to her a very fair – no, more than fair – a very generous employer and that he had been considerable material help to her and her husband, even after his death.
+> **原句 7:** She had never met anybody, she said, who might be said to be close to the man. But that she could only speak as she found and that my uncle had been to her a very fair – no, more than fair – a very generous employer and that he had been considerable material help to her and her husband, even after his death
 
 **中文理解**：「她从未遇见过任何人，」她说，「可以说与那个人亲近。但是她只能据实而言，而我的舅舅待她算是十分厚道——不，比厚道更多——他是个非常慷慨的雇主，而且在她丈夫死后仍对她与丈夫有相当大的实际帮助。」
 
@@ -90,7 +90,7 @@ source_text: ch40
 
 **读者视角提示**：「她只能据实而言」＝她不肯多说。
 
-> **原句 8:** I had the strong sense that there was more that she might have said then. But she seemed so eager to depart that I let her.” “So, we’re on our own,” stated the captain. “Only until Mr Scrooge gets here.” “Yes.” Without meaning to, Ambrose made the word sound full of doubt. “Only until then.” He rose abruptly to his feet. “Now, I shall tidy this away.
+> **原句 8:** I had the strong sense that there was more that she might have said then. But she seemed so eager to depart that I let her.” “So, we’re on our own,” stated the captain. “Only until Mr Scrooge gets here.” “Yes.” Without meaning to, Ambrose made the word sound full of doubt. “Only until then.” He rose abruptly to his feet
 
 **中文理解**：「我有一种强烈的感觉：她当时本来还可能说更多。但她那么急着要走，我就由她去了。」「那么，我们只能靠自己了，」上尉说。「至少在 Scrooge 先生到来之前。」「是啊。」Ambrose 不由自主地把那个「是」字说得满怀疑。「只到那时候为止。」他蓦地站起身来。「现在，我来收拾这些。
 
@@ -100,7 +100,7 @@ source_text: ch40
 
 **读者视角提示**：Fell 太太在自责，她自己知道错过了什么。
 
-> **原句 9:** We have the girl visiting with us first thing tomorrow to keep things nice and shipshape. And it’s been a long day. So, please, might I suggest that we go to our beds and see if we can’t both of us have a good night’s sleep?” He stopped short then, for he realised that he had asked a question aloud.
+> **原句 9:** We have the girl visiting with us first thing tomorrow to keep things nice and shipshape. And it’s been a long day. So, please, might I suggest that we go to our beds and see if we can’t both of us have a good night’s sleep?” He stopped short then, for he realised that he had asked a question aloud
 
 **中文理解**：「我们明天一早会有那位姑娘来帮忙，把这里收拾得井井有条。而且今天很长了。所以，请容我提议：我们去睡吧，看看我们俩是不是都能睡个好觉？」他随即停住，因为他意识到自己刚才把一个问题问出了口。
 
@@ -110,7 +110,7 @@ source_text: ch40
 
 **读者视角提示**：问句的禁令已经进入了本能层面。
 
-> **原句 10:** Mrs Fell must have realised the same, for she looked at him with an expression of distinct nervousness upon her face. After that? Nothing. Nothing at all. But only the quietness of the little town. Mrs Fell smiled at the captain, and it was a smile of tentative but growing relief. “Yes,” she said. “I quite agree. And then we can see what everything looks like in the daytime.”
+> **原句 10:** Mrs Fell must have realised the same, for she looked at him with an expression of distinct nervousness upon her face. After that? Nothing. Nothing at all. But only the quietness of the little town. Mrs Fell smiled at the captain, and it was a smile of tentative but growing relief. “Yes,” she said. “I quite agree. And then we can see what everything looks like in the daytime
 
 **中文理解**：Fell 太太显然也意识到了这一点，因为她带着一种明显紧张的神情看着他。此后呢？什么也没有。什么也没有。只有小镇的寂静。Fell 太太朝上尉笑了笑，那笑容里有试探，却渐渐舒展开来。「好的，」她说，「我完全同意。然后我们就可以看看白天这一切是什么样子。」
 
@@ -120,7 +120,7 @@ source_text: ch40
 
 **读者视角提示**：这份安全感是本章最贵的一句铺垫。
 
-> **原句 11:** Now, there is no need to trouble you with what followed. With the setting aside of the dinner and the remainder of the food. With Captain Ambrose’s careful locking of the front door, with his almost reverential hanging up of the key upon a hook which had been placed in the hallway for that purpose, and with his making sure that the house was as secure as it could possibly be.
+> **原句 11:** Now, there is no need to trouble you with what followed. With the setting aside of the dinner and the remainder of the food. With Captain Ambrose’s careful locking of the front door, with his almost reverential hanging up of the key upon a hook which had been placed in the hallway for that purpose, and with his making sure that the house was as secure as it could possibly be
 
 **中文理解**：现在，没必要用接下来的事来烦扰你了。撤走晚餐与剩下的食物。上尉 Ambrose 小心地锁上前门，几乎是虔敬地把钥匙挂到门厅里为此专设的钩子上，又确保这所房子尽可能地安全。
 
@@ -130,7 +130,7 @@ source_text: ch40
 
 **读者视角提示**：虔敬地挂钥匙＝已经把自己交给了这栋房子。
 
-> **原句 12:** With their making ready for bed, with all their nervous preparations. They said good night to one another upon the landing, standing a goodly distance apart. “I do hope that you sleep well, ma’am,” said the captain. “And I wish the same for you,” said the lady. “Thank you for all that you have done today.
+> **原句 12:** With their making ready for bed, with all their nervous preparations. They said good night to one another upon the landing, standing a goodly distance apart. “I do hope that you sleep well, ma’am,” said the captain. “And I wish the same for you,” said the lady. “Thank you for all that you have done today. For, in spite of it all, I should not have wished to have come here alone
 
 **中文理解**：他们做着睡前的准备，带着各自神经紧绷的忙乱。他们在楼梯平台上互道晚安，彼此站得相当远。「我希望你睡得好，夫人，」上尉说。「我也祝你如此，」那位女士说。「谢谢你今天所做的一切。因为不管怎样，我原本也不愿意一个人来这里。」
 
@@ -140,7 +140,7 @@ source_text: ch40
 
 **读者视角提示**：他们之间的距离是心理距离的度量。
 
-> **原句 13:** For, in spite of it all, I should not have wished to have come here alone.” “You’re very welcome, ma’am. Very welcome indeed.” They exchanged a small smile. Then they said good night once again and they went to their separate rooms. Both bore with them a candle.
+> **原句 13:** You’re very welcome, ma’am. Very welcome indeed.” They exchanged a small smile. Then they said good night once again and they went to their separate rooms. Both bore with them a candle
 
 **中文理解**：「不敢当，夫人。非常不敢当。」两人交换了一个小小的微笑。随后他们又道了一次晚安，各自回到自己的房间。两人都带着一支蜡烛。
 
@@ -150,17 +150,17 @@ source_text: ch40
 
 **读者视角提示**：两支蜡烛，两间房，同一栋楼。
 
-> **原句 14:** Both looked rather nervously about their chambers, but both also discovered that there was nothing at all to be worried about, even as the candlelight threw capering shadows upon the walls. Both discovered that the beds which Mrs Bethlem had made up for them were comfortable indeed. And, to their surprise, both of them found themselves drifting off very easily and lightly to sleep.
+> **原句 14:** Both looked rather nervously about their chambers, but both also discovered that there was nothing at all to be worried about, even as the candlelight threw capering shadows upon the walls. Both discovered that the beds which Mrs Bethlem had made up for them were comfortable indeed
 
 **中文理解**：两人都有些紧张地打量自己的房间，却也都发现根本没有什么可担心的——即便烛光在墙上投下跳跃的影子。两人还发现，Mrs Bethlem 为他们铺好的床确实舒适。而且，出乎他们意料，两人都很快就、轻轻松松地睡了过去。
 
-**关键词**：Both looked rather nervously about their chambers / there was nothing at all to be worried about / the candlelight threw capering shadows upon the walls / the beds which Mrs Bethlem had made up for them were comfortable indeed / they found themselves drifting off very easily and lightly to sleep
+**关键词**：Both looked rather nervously about their chambers / there was nothing at all to be worried about / the candlelight threw capering shadows upon the walls / the beds which Mrs Bethlem had made up for them were comfortable indeed
 
 **为什么这样写**：作者在这里密集使用「Both… both… both…」，像三连拍，构造出一种整齐的、无恙的、几乎过于完美的睡前画面。而「capering shadows」（跳跃嬉闹的影子）是唯一的异样笔触——读者在文本里看到了不安，人物却没有。
 
 **读者视角提示**：影子在跳，墙上却“没什么好担心”。
 
-> **原句 15:** By now it was around ten o’clock at night. And for the following four hours Captain Ambrose and Mrs Louisa Fell slept well and deeply in their beds. This was to be the last time that they would do so in that house.
+> **原句 15:** By now it was around ten o’clock at night. And for the following four hours Captain Ambrose and Mrs Louisa Fell slept well and deeply in their beds. This was to be the last time that they would do so in that house
 
 **中文理解**：此时大约已是夜里十点。在接下来的四个小时里，Ambrose 上尉与 Louisa Fell 太太在各自的床上睡得又香又沉。这将是他们在那栋房子里最后一次这样安睡。
 

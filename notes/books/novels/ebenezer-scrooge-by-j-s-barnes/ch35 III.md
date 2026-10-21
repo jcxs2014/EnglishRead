@@ -20,7 +20,7 @@ source_text: ch35
 
 ## 精读
 
-> **原句 1:** Night had started to fall by the time Mrs Louisa Fell and Captain Ambrose finally arrived in Starningham. The train had reached its terminus in the city of Norwich, and from there the gentleman and lady had secured the services of a coach and driver who had taken them the remaining fifteen miles. It was a journey across stark, wintry countryside, beside fields and patches of woodland, and against a gathering twilight. For Mrs Fell, the trip, most naturally, brought back memories of her last visit to this secluded portion of England in the company of her late father.
+> **原句 1:** Night had started to fall by the time Mrs Louisa Fell and Captain Ambrose finally arrived in Starningham. The train had reached its terminus in the city of Norwich, and from there the gentleman and lady had secured the services of a coach and driver who had taken them the remaining fifteen miles. It was a journey across stark, wintry countryside, beside fields and patches of woodland, and against a gathering twilight. For Mrs Fell, the trip, most naturally, brought back memories of her last visit to this secluded portion of England in the company of her late father
 
 **中文理解**：等 Fell 太太与 Ambrose 上尉终于抵达 Starningham 时，夜色已经开始降临。火车在诺里奇市到达终点，从那里这两位绅士与女士雇了一辆带车夫的马车，走完剩下的十五英里。那是一段穿越萧瑟冬日乡野的路程，沿着田野与片片林地，在渐浓的暮色里行进。对 Fell 太太来说，这趟行程最自然地勾起了她上次与已故父亲同来这个偏远英格兰角落时的记忆。
 
@@ -30,7 +30,7 @@ source_text: ch35
 
 **读者视角提示**：Fell 太太上一次来是跟父亲一起——那已是过去。
 
-> **原句 2:** For the captain, who – although he was, by any standards, a well-travelled man – had never before visited the county, it was nonetheless curiously familiar, as though he had somehow seen this flat, low landscape before, perhaps in some half-remembered dream. It was, however, the sky which he would always remember from that journey – that great, grey and glowering sky which filled up the horizon as if to remind those who laboured beneath it of their own sublime insignificance when weighed against the scale of the world.
+> **原句 2:** For the captain, who – although he was, by any standards, a well-travelled man – had never before visited the county, it was nonetheless curiously familiar, as though he had somehow seen this flat, low landscape before, perhaps in some half-remembered dream. It was, however, the sky which he would always remember from that journey – that great, grey and glowering sky which filled up the horizon as if to remind those who laboured beneath it of their own sublime insignificance when weighed against the scale of the world
 
 **中文理解**：对这位上尉来说——尽管按任何标准他都算见多识广——他此前从未到过这个郡，可这片平坦低矮的地貌却莫名熟悉，仿佛他曾在某个半记得的梦里见过。然而，他真正会永远记住的，是那趟旅程中的天空：那片浩大、灰暗、阴沉的穹隆铺满地平线，仿佛要提醒其下劳作的人，在世界的尺度面前他们自己有多么崇高而渺小。
 
@@ -40,7 +40,7 @@ source_text: ch35
 
 **读者视角提示**：「崇高而渺小」——宗教感的措辞，为教堂场景铺路。
 
-> **原句 3:** There was little opportunity for conversation as the coach rattled through this bleak and often minatory countryside. Although it must be said that both the gentleman and the lady exchanged frequent glances. These spoke of strength, understanding and determination, and they only grew in number as the pair approached their destination. They both felt a sense of awful anticipation, a terrible sense of inevitability as the miles fell away beneath the hooves of the horses and the wheels of the carriage, as the thought of Starningham became an actuality.
+> **原句 3:** There was little opportunity for conversation as the coach rattled through this bleak and often minatory countryside. Although it must be said that both the gentleman and the lady exchanged frequent glances. These spoke of strength, understanding and determination, and they only grew in number as the pair approached their destination. They both felt a sense of awful anticipation, a terrible sense of inevitability as the miles fell away beneath the hooves of the horses and the wheels of the carriage, as the thought of Starningham became an actuality
 
 **中文理解**：马车在这片凄凉而常带威胁意味的乡野里颠簸前行，几乎没有谈话的机会。不过必须说，两人都频频交换了目光。那些目光说的是力量、理解与决心，而且随着两人渐渐接近目的地，这样的目光越来越多。他们都怀着一种可怕的预期、一种可怖的必然感——随着马蹄与车轮把一英里又一英里甩在身后，「Starningham」这个念头渐渐成为一个确凿的现实。
 
@@ -50,7 +50,7 @@ source_text: ch35
 
 **读者视角提示**：频繁交换的目光＝两人都在用对方给自己打气。
 
-> **原句 4:** And then, at last, they were there, the long journey done with (though, as Mrs Fell remarked, it was a very much more swift undertaking than it had been in her childhood, before the coming of the railways). By this time, their arrival betokened no greater emotion than relief, and they were happy indeed to climb down and stretch themselves a little and take in the crisp, clear air of the place. They alighted by the little marketplace which was, at this hour, in the process of being closed up.
+> **原句 4:** And then, at last, they were there, the long journey done with (though, as Mrs Fell remarked, it was a very much more swift undertaking than it had been in her childhood, before the coming of the railways). By this time, their arrival betokened no greater emotion than relief, and they were happy indeed to climb down and stretch themselves a little and take in the crisp, clear air of the place. They alighted by the little marketplace which was, at this hour, in the process of being closed up
 
 **中文理解**：然后，他们终于到了，长途的跋涉宣告结束（不过 Fell 太太评论说，这趟旅程比她童年时——铁路到来之前——要快得多得多）。到这时，他们的抵达所预示的不过是一份如释重负，他们很高兴地下了车，舒展了一下筋骨，深深吸了一口这里清冽的空气。他们在那个正被收摊的小市集旁下车。
 
@@ -60,7 +60,7 @@ source_text: ch35
 
 **读者视角提示**：这一块的轻松是暴风雨前的气压计。
 
-> **原句 5:** From here, they thanked their driver and walked down in the direction of the church. Had the nature of their expedition not been such a disagreeable one, they might have found the place to be charming and quaint. To walk the streets of Starningham was to walk through a picture of England which had long since vanished in the big cities.
+> **原句 5:** From here, they thanked their driver and walked down in the direction of the church. Had the nature of their expedition not been such a disagreeable one, they might have found the place to be charming and quaint. To walk the streets of Starningham was to walk through a picture of England which had long since vanished in the big cities
 
 **中文理解**：从这里起，他们谢过车夫，朝教堂的方向走去。倘若他们此行的性质不是这样一件令人不快的差事，他们本会觉得这个地方迷人而古朴。在 Starningham 的街上走一走，就等于走在一幅早已在大城市里消失的英格兰图景里。
 
@@ -70,7 +70,7 @@ source_text: ch35
 
 **读者视角提示**：注意作者用「disagreeable」形容此行——他知道读者也知道他们要去干什么。
 
-> **原句 6:** In addition to these observations, it ought also to be noted that Starningham was not a place in which it would be easy to lose one’s bearings, for all of the streets seemed to emanate from the church, like spokes from a cartwheel, and the spire of that place of worship was visible at all times. Mrs Fell and the captain walked to the church which, being built of pale French sandstone, was a fine example of the Norman style.
+> **原句 6:** In addition to these observations, it ought also to be noted that Starningham was not a place in which it would be easy to lose one’s bearings, for all of the streets seemed to emanate from the church, like spokes from a cartwheel, and the spire of that place of worship was visible at all times. Mrs Fell and the captain walked to the church which, being built of pale French sandstone, was a fine example of the Norman style
 
 **中文理解**：除了这些观感之外，还应当指出，Starningham 不是一个容易让人迷失方向的地方，因为所有街道似乎都从教堂辐射出去，像车轮的辐条，而那座敬拜场所的尖顶始终可见。Fell 太太与上尉走向那座教堂，它由浅色法国砂岩建成，是诺曼式的典范之作。
 
@@ -90,7 +90,7 @@ source_text: ch35
 
 **读者视角提示**：全章唯一柔软的一笔，被他自己掐灭了。
 
-> **原句 8:** She smiled, perhaps at the rather odd formality of his tone. “Quite well, thank you, Captain. If a little tired. I shall be glad when we are in the house and there is an opportunity for rest.” “I too, ma’am.” “No regrets, I hope? At having come all this way?” Ambrose shook his head. “No, ma’am.”
+> **原句 8:** She smiled, perhaps at the rather odd formality of his tone. “Quite well, thank you, Captain. If a little tired. I shall be glad when we are in the house and there is an opportunity for rest.” “I too, ma’am.” “No regrets, I hope? At having come all this way?” Ambrose shook his head
 
 **中文理解**：她笑了，或许是因为他语气里那份不自然的正式。「很好，谢谢你，上尉。只是有点累。等进了房子、有机会休息，我就高兴了。」「我也是，夫人。」「不后悔吧？走了这么远过来？」「不后悔，夫人。」Ambrose 摇了摇头说。
 
@@ -100,7 +100,7 @@ source_text: ch35
 
 **读者视角提示**：「不后悔」是本章最要紧的一句承诺。
 
-> **原句 9:** “I’m glad.” And then, as if she had somehow heard his earlier thought, she offered him her hand to take. He took it, without thinking. And it was in this fashion that they reached the front of the church. “Let us hope that we can find this Mrs Bethlem as soon as possible and, well, see what we can see in… my inheritance.” They stepped into the church. Inside it was cool and dry and rather welcoming. There was a distinctive scent in the air, of dust and of age and of candle wax.
+> **原句 9:** And then, as if she had somehow heard his earlier thought, she offered him her hand to take. He took it, without thinking. And it was in this fashion that they reached the front of the church. “Let us hope that we can find this Mrs Bethlem as soon as possible and, well, see what we can see in… my inheritance.” They stepped into the church. Inside it was cool and dry and rather welcoming. There was a distinctive scent in the air, of dust and of age and of candle wax
 
 **中文理解**：「我很高兴。」然后，仿佛她不知怎么听见了他的心思，她把手递给他去握。他接住了，没有多想。就这样，他们走到教堂门前。「但愿我们能尽快找到这位 Bethlem 太太，然后——嗯——看看我们能在这份……我的遗产里看到些什么。」他们走进教堂。里面凉而干燥，相当宜人。空气里有一种独特的气味，尘土的、陈年的、还有蜡烛蜡的。
 
@@ -110,7 +110,7 @@ source_text: ch35
 
 **读者视角提示**：「my inheritance」的停顿——她并不确定这遗产是什么滋味。
 
-> **原句 10:** No service was in progress and there was but one other person visible: a man of fifty or so, dressed in a cassock, who was busying himself around the altar. At the sight of the new arrivals, he hurried over to greet them. “Welcome, welcome.” He was smiling, friendly, yet both Ambrose and Mrs Fell were later to agree that there was an odd nervousness to his manner too, something almost skittish underneath. “You are visitors, I think, to our little town?” Captain Ambrose agreed that they were, at which the priest bade them welcome once again.
+> **原句 10:** No service was in progress and there was but one other person visible: a man of fifty or so, dressed in a cassock, who was busying himself around the altar. At the sight of the new arrivals, he hurried over to greet them. “Welcome, welcome.” He was smiling, friendly, yet both Ambrose and Mrs Fell were later to agree that there was an odd nervousness to his manner too, something almost skittish underneath. “You are visitors, I think, to our little town
 
 **中文理解**：没有礼拜在进行，教堂里只见另一个人：一位五十上下、穿着法衣的先生，正在祭坛周围忙着什么。看见新来者，他赶忙过来迎接他们。「欢迎，欢迎。」他笑着，态度友善，然而 Ambrose 与 Fell 太太后来都一致认为他的举止里也带着一种异样的紧张，底下几乎藏着一点惊慌。「二位是来我们小镇观光的吧？」Ambrose 上尉承认他们是，神父便再次表示欢迎。
 
@@ -124,13 +124,13 @@ source_text: ch35
 
 **中文理解**：Fell 太太冒昧地说这地方真宜人，正要问起 Bethlem 太太在何处，神父却抢在她话头之前，问了一个直白的问题：「夫人，您为什么来这里？」「我在这里有一栋房子，」女士坚定地说，「我是来收它的。」那位先生再开口时，声音里有一道裂痕：「Brightwell Road？」「没错，」Fell 太太说，她正要问他怎么这么容易就猜中了，神父却又开口了。「您不该……」「您不该来这里。」
 
-**关键词**：cut across her words with the blunt question / Why are you here, madam? / I have a house here / I’ve come to claim it / there was a fracture in his voice / Brightwell Road? / You shouldn’t have come here
+**关键词**：cut across her words with the blunt question / I have a house here / I’ve come to claim it / there was a fracture in his voice / Brightwell Road?
 
 **为什么这样写**：作者用「cut across her words」写抢话，再用一个「blunt」形容这个问题——粗暴本身就是征兆。而 Fell 太太的回答是全章她最硬的一句：不等对方铺垫，直接宣示所有权。真正的重击在「a fracture in his voice」——声音裂了，说出「Brightwell Road」四个字，然后是那句本该是警告的「你不该来」。
 
 **读者视角提示**：Fell 太太已经知道这地方不对，却仍要来。
 
-> **原句 12:** Of course, the lady was about to ask him why, and Captain Ambrose meant to tell him in no uncertain terms that he really ought not to be alarming her unduly, when a fresh voice called out. “Mrs Fell? It is you, isn’t it?” They all looked over at this and saw that a stranger had arrived, and was even then scurrying with distinct self-importance in their direction. She was a stranger to them but not, entirely, to us, for we have seen her before, locking up the house on Brightwell Road.
+> **原句 12:** Of course, the lady was about to ask him why, and Captain Ambrose meant to tell him in no uncertain terms that he really ought not to be alarming her unduly, when a fresh voice called out. “Mrs Fell? It is you, isn’t it?” They all looked over at this and saw that a stranger had arrived, and was even then scurrying with distinct self-importance in their direction. She was a stranger to them but not, entirely, to us, for we have seen her before, locking up the house on Brightwell Road
 
 **中文理解**：当然，女士正要问他为什么，而 Ambrose 上尉也打算毫不含糊地告诉他，不该这样吓唬她——这时一个新的声音喊了出来。「Fell 太太？是你吧？」众人循声望去，只见一个陌生人正朝他们走来，而且此刻正带着十足的自命不凡快步赶过来。她对他们来说是陌生人，但对我们却不算完全是——因为我们已经见过她了，就是那个在 Brightwell Road 上锁房子的人。
 
@@ -140,7 +140,7 @@ source_text: ch35
 
 **读者视角提示**：Bethlem 就是上一章那个对房子说好话的女人。
 
-> **原句 13:** “I’m Mrs Bethlem,” she said, and extended her hand. “You must be Mrs Fell. And this is…” She looked over at Captain Ambrose, at which a flicker of what looked very much like relief passed across her face. The captain introduced himself and he too shook hands with the lady. “You’re both very welcome here,” she said. “I can see you’ve been admiring our church. My late father was the Sacristan here. It’s a beautiful place and a great place of sanctuary too. If you should ever need it.” “Why should the lady need sanctuary?” asked the captain.
+> **原句 13:** I’m Mrs Bethlem,” she said, and extended her hand. “You must be Mrs Fell. And this is…” She looked over at Captain Ambrose, at which a flicker of what looked very much like relief passed across her face. The captain introduced himself and he too shook hands with the lady. “You’re both very welcome here,” she said. “I can see you’ve been admiring our church. My late father was the Sacristan here. It’s a beautiful place and a great place of sanctuary too. If you should ever need it.” “Why should the lady need sanctuary?”
 
 **中文理解**：「我是 Bethlem 太太，」她说着伸出手来，「您一定是 Fell 太太。这位是……」她看向 Ambrose 上尉，就在这时，一张几乎可以称之为如释重负的神色从她脸上掠过。上尉自我介绍，也同这位女士握了手。「两位都非常欢迎来这里，」她说，「我看你们一直在欣赏我们的教堂。我已故的父亲曾是这里的司事。这是个美丽的地方，也是个极好的避难所。你们若需要，随时可以来。」「为什么这位女士需要避难？」上尉问。
 
@@ -150,7 +150,7 @@ source_text: ch35
 
 **读者视角提示**：她见到上尉时是「如释重负」——她怕的不是 Fell 太太。
 
-> **原句 14:** Mrs Bethlem laughed, most unconvincingly. “Merely a figure of speech,” she said. “Now then, Mrs Fell, I understand that all of the necessary paperwork has already been completed in London with Mr Cadge of Cleeford, Crawlin and Cadge.” “That is so,” said Mrs Fell. “In which case, this key is yours.” With a flourish, she produced from about her person the great iron key to the last house on Brightwell Road. “Would you like to see what you have inherited?” “Of course I should,” said the lady. “Good, good!” Bethlem had already turned and was striding back towards the door. “This way!”
+> **原句 14:** Mrs Bethlem laughed, most unconvincingly. “Merely a figure of speech,” she said. “Now then, Mrs Fell, I understand that all of the necessary paperwork has already been completed in London with Mr Cadge of Cleeford, Crawlin and Cadge.” “That is so,” said Mrs Fell. “In which case, this key is yours.” With a flourish, she produced from about her person the great iron key to the last house on Brightwell Road. “Would you like to see what you have inherited?”
 
 **中文理解**：Bethlem 太太笑了，笑得极不令人信服。「只是个比喻罢了，」她说。「那么，Fell 太太，我明白所有必要的手续已经在伦敦由 Cleeford, Crawlin and Cadge 事务所的 Cadge 先生办妥了。」「确实如此，」Fell 太太说，「那么这把钥匙就归你了。」她煞有介事地从身上取出那把 Brightwell Road 上最后一栋房子的巨大铁钥匙。「你想看看自己继承了什么吗？」「我当然想看。」「好，好！」Bethlem 已经转身朝门口走去。「这边请！」
 
@@ -164,7 +164,7 @@ source_text: ch35
 
 **中文理解**：上尉与 Fell 太太开始跟着走，可就在她转身之际，女士感到有人把手放在她肩上。是神父，他此刻的状态几乎可以说是痛苦。「你随时可以来这里，」他说，「你随时可以回来。这里是安全的。我保证。」「快点！」Bethlem 显然有些不耐烦了。「谢谢，」Louisa Fell 对神父只说了这一句，随后她与上尉又一次走到外面，跟在她们的主人身后——她正从教堂的阴影里走开，走向外面的街道。
 
-**关键词**：felt a hand upon her shoulder / looked to be in a state not far from pain / You can always come here / You can always come back / It’s safe. I promise / Come along / growing impatient / Thank you, was all that Louisa Fell said / strode away from the shadow of the church
+**关键词**：felt a hand upon her shoulder / looked to be in a state not far from pain / You can always come here / You can always come back / It’s safe. I promise / Come along / growing impatient / strode away from the shadow of the church
 
 **为什么这样写**：作者让神父在最后一刻用触碰说话——手按在肩上，比任何话都更急。「It's safe. I promise.」是一个加重的许诺，却没有任何人接住：Fell 太太只答了一句「谢谢」。最后一句把她写成「strode away from the shadow of the church」，从教堂的阴影里走出去——影子的归属被悄悄倒置：她离开了庇护所，走向那栋房子。
 
