@@ -59,7 +59,7 @@ source_text: ch42
 
 **为什么这样写**：全书最好的一个身体恐怖比喻。"零钱包"是日常的、装零钱的小东西，用在眼睛上，把恐怖降到了家庭尺度——它不是在变形，它是在被塞满。
 
-**读者视角提示**：回头想第一章那扇"打碎的车窗"。玻璃在这个故事里从来不是意外。
+**读者视角提示**：回头想第二章那扇被晾衣架砸碎的挡风玻璃。玻璃在这个故事里从来不是意外。
 
 > **原句 5:** "Its mouth pulled into a perfect dark ‘oh’, too round to feel natural in any way, and shook the walls with a piercing scream."
 

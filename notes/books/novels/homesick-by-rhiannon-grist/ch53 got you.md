@@ -27,9 +27,9 @@ source_text: ch53
 
 **关键词**：came crashing down / reinforced with springs / snapped shut with a bang
 
-**为什么这样写**：两句话列了四样东西，再补一句机关的结构。作者把凶器写得像产品说明书，因为第一章她就研究过同一套结构——衣架的横梁。
+**为什么这样写**：两句话列了四样东西，再补一句机关的结构。作者把凶器写得像产品说明书，因为第二章她就研究过同一套结构——衣柜里那台撑开的晾衣架，交叉支脚就是后来的 X。
 
-**读者视角提示**：注意这是"折叠加弹簧"的机构，和第一章那台衣架、以及她地下室那道门，是同一套东西。
+**读者视角提示**：注意这是"折叠加弹簧"的机构，和第二章那台衣架、以及她地下室那道门，是同一套东西。
 
 > **原句 2:** "Everyone had seen me next to the desk, but no one had noticed me pull the latch. And it was so overloaded with Alan’s things there was every reason to believe it had collapsed by itself."
 
@@ -89,7 +89,7 @@ source_text: ch53
 
 **为什么这样写**："spat out"把门写成一张嘴：不是她走过去，是被吐出来。最后一句"the door between our houses"是全书第一次把两栋房子说成一对。
 
-**读者视角提示**：四关都过了，可门在她身后关上——这不是通关的写法，是被关在外面的写法。留到第五关。
+**读者视角提示**：四关都过了，可门在她身后关上——这不是通关的写法，是被关在外面的写法。后面等着她的是收尾，不是新的一关。
 
 ## 本章词汇
 

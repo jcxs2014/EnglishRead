@@ -9,7 +9,7 @@ source_text: ch28
 
 ## 本章导航
 
-- **一句话概括**：Maggie 和 Rowan 找上门来——她昨晚把一条格子围巾落在 The Curtyard，而那正是蒙在邻居眼睛上的那条；"1a 不是空的"这个认知第一次被说出口，围巾被她系在邻居门把手上当证据；随后 Rowan 请她陪他开货车送树苗上山，她答应了，还把地下室的缝皮针穿在钥匙圈上带出门。
+- **一句话概括**：Maggie 和 Rowan 找上门来——Viv 说这条围巾是她昨晚落在 The Curtyard 的——可它不是她的，而是蒙在邻居眼睛上、看她投环的那条；"1a 不是空的"这个认知第一次被说出口，围巾被她系在邻居门把手上当证据；随后 Rowan 请她陪他开货车送树苗上山，她答应了，还把地下室的缝皮针穿在钥匙圈上带出门。
 
 - **情感弧线位置**：从"我可能杀了鬼"回到"村子是活的、有人上门、有人请我帮忙"的一段回暖；全章的恐怖只出现在一个细节里（Maggie 说 1a 一直是空的），其余都是日常。
 
@@ -101,7 +101,7 @@ source_text: ch28
 | lifesaver | 救星 | You’re a lifesaver. |
 | exodus | 大批离去 | Having someone from there here felt like universes colliding, like when you see your police-recommended therapist at the big supermarket on your exodus out of town. |
 | universes | 宇宙（复数） | Having someone from there here felt like universes colliding, like when you see your police-recommended therapist at the big supermarket on your exodus out of town. |
-| sparkling | 闪亮的，妙趣横生的 | “And miss out on your sparkling company? |
+| sparkling | 闪亮的，妙趣横生的 | “And miss out on your sparkling company? Never.” |
 | windscreen | 挡风玻璃 | Rowan was examining my smashed windscreen and politely ignoring the vomit next to the front wheel. |
 | poker | 扑克 | Though we have the odd poker night at Viv’s…” |
 
