@@ -22,7 +22,7 @@ source_text: ch10
 
 **关键词**：A second oar / fits perfectly into the oarlocks / He spent time on it, in secret
 
-**为什么这样写**：作者把一件礼物的工序全写出来——削平、收窄、卡进桨架——却把心思压在最后半句上：他为它花的工夫，是为了确保它真的能用。先给形状、后给心意，让读者和Ellie同时发现：他嘴上放她走，手上却替她把回家的路修好了。"偷偷"两个字更硬——他知道这东西等于替她备好了离去的工具，仍然做了。
+**为什么这样写**：作者把一件礼物的工序全写出来——削平、收窄、卡进桨架——却把心思压在最后半句上：他为它花的工夫，是为了确保它真的能用。先给形状、后给心意，让读者和 Ellie 同时发现：他嘴上放她走，手上却替她把回家的路修好了。"偷偷"两个字更硬——他知道这东西等于替她备好了离去的工具，仍然做了。
 
 **读者视角提示**：记住这支桨。它是全章的第一个转折，也是他七十年没说出口的那句话的实体版。
 
@@ -30,7 +30,7 @@ source_text: ch10
 
 > **原句 2:** "He may not have wanted me to leave, but he wouldn’t let me row out into the sea with only a single oar. He’s giving me a chance at survival, at returning home. To James."
 
-**中文理解**：他也许并不想我走，但他不肯让我只带着一支桨划进海里。他是在给我一条活路，一条回不回得去家的路。回到James身边。
+**中文理解**：他也许并不想我走，但他不肯让我只带着一支桨划进海里。他是在给我一条活路，一条回不回得去家的路。回到 James 身边。
 
 **关键词**：wouldn't let me row out into the sea / a chance at survival / To James
 
@@ -102,7 +102,7 @@ source_text: ch10
 
 > **原句 8:** "My heart bangs against my ribs, uncertainty pushing against my vocal cords, but I force myself to say what’s been inside me for too many days. “I don’t want to go back to Seattle, back to James. I want to stay here. With you.”"
 
-**中文理解**：我的心脏撞击着肋骨，犹豫顶着我的声带，可我还是逼自己说出了那句在心里压了太多天的话："我不要回西雅图，不要回到James身边。我要留在这里。和你一起。"
+**中文理解**：我的心脏撞击着肋骨，犹豫顶着我的声带，可我还是逼自己说出了那句在心里压了太多天的话："我不要回西雅图，不要回到 James 身边。我要留在这里。和你一起。"
 
 **关键词**：uncertainty pushing against my vocal cords / I don't want to go back to Seattle / I want to stay here. With you
 
@@ -186,7 +186,7 @@ source_text: ch10
 
 > **原句 15:** "We are not alone. Something is shimmering in the distance, at the surface of the ocean, and my hands release Clay."
 
-**中文理解**：我们不是孤身一人。有什么东西在远处的海面上闪着光，而我的双手松开了Clay。
+**中文理解**：我们不是孤身一人。有什么东西在远处的海面上闪着光，而我的双手松开了 Clay。
 
 **关键词**：We are not alone / Something is shimmering in the distance / my hands release Clay
 
