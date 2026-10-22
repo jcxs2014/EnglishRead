@@ -1,0 +1,55 @@
+{
+ "book": "ebenezer-scrooge-by-j-s-barnes",
+ "chapter": "ch55",
+ "text": "notes/books/novels/ebenezer-scrooge-by-j-s-barnes/text/ch55_xxiii.txt",
+ "facts": [
+  {
+   "fact": "本章以 Scrooge 的一句喊叫开场，喊的是\"别让她进来\"",
+   "anchor": "Don’t let her… don’t let her in!",
+   "start": 9,
+   "end": 41
+  },
+  {
+   "fact": "守夜的三人是医生 Tarkin、俱乐部书记员 Bentinck 先生和女仆 Charlotte",
+   "anchor": "Doctor Tarkin, who had returned; the Club secretary, Mr Bentinck: and that redoubtable maidservant, Charlotte.",
+   "start": 179,
+   "end": 289
+  },
+  {
+   "fact": "医生让另外两人留在门外，自己先进去照料",
+   "anchor": "“Stay here,” said the doctor to both of the others. “Let’s not crowd the poor fellow. Just allow me to attend on him at first.”",
+   "start": 624,
+   "end": 751
+  },
+  {
+   "fact": "医生与书记员被定住，只有 Charlotte 还能动",
+   "anchor": "Only Charlotte seemed to have agency, only she seemed free to move around.",
+   "start": 1269,
+   "end": 1343
+  },
+  {
+   "fact": "屋里的来客是深沉的男声，问 Scrooge 是否愿意跟他们去",
+   "anchor": "It was a deep, male voice which sounded full of age and wisdom. “Ebenezer. They need your help. Will you go to them?”",
+   "start": 1522,
+   "end": 1641
+  },
+  {
+   "fact": "Scrooge 答应了\"带我到他们那里\"",
+   "anchor": "Then, overheard, the voice of Ebenezer Scrooge: “Yes, Spirit, take me to them.”",
+   "start": 1930,
+   "end": 2009
+  },
+  {
+   "fact": "强光之后房间空了，只剩一团乱毯",
+   "anchor": "The room was empty, the bed untenanted. There was only a tangle of blankets",
+   "start": 2611,
+   "end": 2686
+  },
+  {
+   "fact": "Charlotte 判断 Scrooge 正在他最该在的地方",
+   "anchor": "it’s my suspicion that Mr Scrooge is now precisely where he needs to be",
+   "start": 3255,
+   "end": 3326
+  }
+ ]
+}

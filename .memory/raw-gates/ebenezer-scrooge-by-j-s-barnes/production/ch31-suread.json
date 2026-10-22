@@ -1,0 +1,67 @@
+{
+ "book": "ebenezer-scrooge-by-j-s-barnes",
+ "chapter": "ch31",
+ "text": "notes/books/novels/ebenezer-scrooge-by-j-s-barnes/text/ch31_xiii.txt",
+ "facts": [
+  {
+   "fact": "火车上，Ambrose 上尉的故事还没讲完就突然停住",
+   "anchor": "On the train, Captain Ambrose stopped short, his story not yet finished.",
+   "start": 8,
+   "end": 80
+  },
+  {
+   "fact": "他用「鹅走过坟墓」的俗语解释自己的异感",
+   "anchor": "You know the old saying, of course, about a goose walking over your grave?",
+   "start": 463,
+   "end": 537
+  },
+  {
+   "fact": "Fell 太太催他继续讲 Halvorsen 的故事",
+   "anchor": "But for now – please – finish your story. About poor Mr Halvorsen.",
+   "start": 818,
+   "end": 884
+  },
+  {
+   "fact": "追 Halvorsen 时他们遇见的恶灵在靠近时瞬间消失",
+   "anchor": "as we approached, the entity vanished as swiftly and as completely as any stage illusion.",
+   "start": 1783,
+   "end": 1872
+  },
+  {
+   "fact": "Halvorsen 随身带着一枚古罗马银币 denarius",
+   "anchor": "a tarnished silver coin from many centuries past. A Roman thing. A denarius, I believe it’s called.",
+   "start": 3023,
+   "end": 3122
+  },
+  {
+   "fact": "上尉解释有的恶灵附着于物、有的附着于人",
+   "anchor": "For some spirits, ma’am, they attach themselves to objects. Others attach themselves to people.",
+   "start": 3335,
+   "end": 3430
+  },
+  {
+   "fact": "Scrooge 把银币抛向空中而不是河里",
+   "anchor": "Then Scrooge threw the coin high up into the air – straight up, not towards the water.",
+   "start": 4234,
+   "end": 4320
+  },
+  {
+   "fact": "三秒后银币凭空落回他掌心",
+   "anchor": "Three long seconds later and the coin fell back into it, from thin air so far as I was able to tell.",
+   "start": 4656,
+   "end": 4756
+  },
+  {
+   "fact": "一个半月后 Halvorsen 即将登船前往 Johannesburg",
+   "anchor": "just before he was due to board a ship that was bound for Johannesburg.",
+   "start": 5056,
+   "end": 5127
+  },
+  {
+   "fact": "火车向英格兰边缘疾驰",
+   "anchor": "the train roared on, moving with impatient speed towards the very edge of England.",
+   "start": 5565,
+   "end": 5647
+  }
+ ]
+}

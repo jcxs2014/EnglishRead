@@ -1,0 +1,91 @@
+{
+ "book": "ebenezer-scrooge-by-j-s-barnes",
+ "chapter": "ch26",
+ "text": "notes/books/novels/ebenezer-scrooge-by-j-s-barnes/text/ch26_viii.txt",
+ "facts": [
+  {
+   "fact": "Emilia Hare 是 The Jolly Boaters 酒馆后厅吧台的女工，几乎白天黑夜都在店里干活",
+   "anchor": "the young lady who worked most days and nights behind the public bar at The Jolly Boaters",
+   "start": 22,
+   "end": 111
+  },
+  {
+   "fact": "她恨母亲，因为到这家又吵又臭的店打工本来就是母亲的主意",
+   "anchor": "She hated her mother (whose idea it had been that she take a job in that noisy and malodorous establishment in the first place)",
+   "start": 180,
+   "end": 307
+  },
+  {
+   "fact": "她恨父亲，因为他一向什么都不说，只是照例顺从发号施令的妻子",
+   "anchor": "she hated her father (who had said nothing but only acquiesced, as ever, to his commanding wife)",
+   "start": 312,
+   "end": 408
+  },
+  {
+   "fact": "她恨自己的雇主——那个叫 Bill Crickmore 的满口脏话的男人，常偷喝自家酒窖的酒",
+   "anchor": "She hated her employer (that foul-mouthed gentleman called Bill Crickmore who resorted too often to the contents of his own cellar)",
+   "start": 410,
+   "end": 541
+  },
+  {
+   "fact": "她在人前永远挂着刀枪不入的轻蔑神色，可这神色反倒招来更多追求者，令她恼火",
+   "anchor": "She wore at all times in public a look of imperishable scorn which, to her infuriation, seemed to serve only to attract admirers to a greater degree",
+   "start": 891,
+   "end": 1039
+  },
+  {
+   "fact": "唯一让她露出真笑的那个人在中午刚过一点点时走进吧台，跌跌撞撞朝她走来",
+   "anchor": "it was this gentleman who walked into the public bar at a little after noon and stumbled towards her",
+   "start": 1293,
+   "end": 1393
+  },
+  {
+   "fact": "那人走起路来脚下打晃，衣衫褴褛蓬乱，像前一晚几乎没睡",
+   "anchor": "He seemed to be swaying on his feet as he moved. He looked ragged, unkempt, as though he had barely slept (or not slept at all) the preceding night",
+   "start": 1710,
+   "end": 1857
+  },
+  {
+   "fact": "Beck 说他打开了一扇再也关不上的门",
+   "anchor": "“I think that I have opened a door which I may not be able to close again.”",
+   "start": 3026,
+   "end": 3101
+  },
+  {
+   "fact": "他说脑子里那个声音属于一个叫 Marley 的死人",
+   "anchor": "A man, a dead man, called Marley.",
+   "start": 3352,
+   "end": 3385
+  },
+  {
+   "fact": "这位伦敦最负盛名的年轻灵媒抓过酒杯，把那团又黑又旋的液体一饮而尽",
+   "anchor": "The most celebrated young psychic medium in London seized the glass gratefully and drank deep of the dark and swirling liquid.",
+   "start": 3591,
+   "end": 3717
+  },
+  {
+   "fact": "就连盐也挡不住 Marley 多久",
+   "anchor": "Even the salt didn’t keep him out for long.",
+   "start": 3943,
+   "end": 3986
+  },
+  {
+   "fact": "Beck 说想讲却收住，理由是这样不对、这样不公平",
+   "anchor": "“But it wouldn’t be right. It wouldn’t be fair.”",
+   "start": 4255,
+   "end": 4303
+  },
+  {
+   "fact": "她从地窖回来时，吧台空了，Beck 已经走了",
+   "anchor": "it was to find the bar empty and Mr Beck gone.",
+   "start": 4956,
+   "end": 5002
+  },
+  {
+   "fact": "面对空椅子她生出焦虑的悲伤，仿佛知道 Beck 即将犯下那桩可怕的事",
+   "anchor": "she felt an anxious sadness, as though she somehow knew the dreadful act which he was about to commit.",
+   "start": 5072,
+   "end": 5174
+  }
+ ]
+}

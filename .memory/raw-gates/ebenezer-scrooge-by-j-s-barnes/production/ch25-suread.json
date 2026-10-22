@@ -1,0 +1,97 @@
+{
+ "book": "ebenezer-scrooge-by-j-s-barnes",
+ "chapter": "ch25",
+ "text": "notes/books/novels/ebenezer-scrooge-by-j-s-barnes/text/ch25_vii.txt",
+ "facts": [
+  {
+   "fact": "火车上，Captain Ambrose 身子前倾，直视 Mrs Fell 的双眼讲述这件事",
+   "anchor": "On the train, Captain Ambrose leaned forward and looked Mrs Fell directly in the eyes",
+   "start": 7,
+   "end": 92
+  },
+  {
+   "fact": "Captain Ambrose 把那位客人带进 Scrooge 的房间",
+   "anchor": "I brought the client inside and carried him through to Mr Scrooge’s room",
+   "start": 227,
+   "end": 299
+  },
+  {
+   "fact": "他们脱下客人的大衣、给他喝水，一两分钟后他缓了过来",
+   "anchor": "We took off his greatcoat and gave him some water to drink and a minute or so later the fellow came around",
+   "start": 301,
+   "end": 407
+  },
+  {
+   "fact": "那位客人自称 Halvorsen",
+   "anchor": "His name, he said, was Halvorsen",
+   "start": 837,
+   "end": 869
+  },
+  {
+   "fact": "Halvorsen 生于瑞典，以水手身份来到英格兰",
+   "anchor": "He had been born in Sweden and had come to England as a sailor",
+   "start": 927,
+   "end": 989
+  },
+  {
+   "fact": "他说将近三年没有上船了",
+   "anchor": "He had not been on a ship, he said, for almost three years now",
+   "start": 1134,
+   "end": 1196
+  },
+  {
+   "fact": "船长把这种缠身称作可以随身携带的纠缠",
+   "anchor": "a portable haunting",
+   "start": 1761,
+   "end": 1780
+  },
+  {
+   "fact": "那影子从暮色降临一直跟到黎明微光",
+   "anchor": "There was someone beside him from the moment that twilight began to descend until the first glimmerings of the dawn",
+   "start": 1871,
+   "end": 1986
+  },
+  {
+   "fact": "那影子是个与他同龄的小个子男人，瘦削结实，衣衫褴褛",
+   "anchor": "a small man of about his own age, very lean and sinewy and dressed in rags",
+   "start": 2243,
+   "end": 2317
+  },
+  {
+   "fact": "Halvorsen 坚称那不是活人，而是死后不肯离开人世的东西",
+   "anchor": "The spectre was no living man but something which had died and refused to leave the world",
+   "start": 2946,
+   "end": 3035
+  },
+  {
+   "fact": "只有在教堂围墙之内他才得以喘息",
+   "anchor": "The only place where he had a respite in the hours of darkness from this persistent thing was within the walls of a church",
+   "start": 3428,
+   "end": 3550
+  },
+  {
+   "fact": "Scrooge 说被人纠缠总有原因",
+   "anchor": "There is always a reason",
+   "start": 4215,
+   "end": 4239
+  },
+  {
+   "fact": "这些说法源自他亲身经历的过去",
+   "anchor": "how they are born of his own experience",
+   "start": 4411,
+   "end": 4450
+  },
+  {
+   "fact": "他们说服 Halvorsen 一起吃了点午饭",
+   "anchor": "We spoke some more and persuaded Halvorsen to take a little luncheon with us",
+   "start": 4658,
+   "end": 4734
+  },
+  {
+   "fact": "三个人一起等到夜晚降临",
+   "anchor": "And then we waited, the three of us, for the arrival of the night",
+   "start": 4805,
+   "end": 4870
+  }
+ ]
+}

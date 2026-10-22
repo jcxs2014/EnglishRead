@@ -1,0 +1,67 @@
+{
+ "book": "ebenezer-scrooge-by-j-s-barnes",
+ "chapter": "ch63",
+ "text": "notes/books/novels/ebenezer-scrooge-by-j-s-barnes/text/ch63_vii.txt",
+ "facts": [
+  {
+   "fact": "Scrooge 在门外盯着门看，觉得那扇门仿佛在回望他",
+   "anchor": "the door seemed somehow to gaze back at him",
+   "start": 72,
+   "end": 115
+  },
+  {
+   "fact": "他在眼角瞥见一点微光般动静，是古老衣物的窸窣声",
+   "anchor": "the merest glint of movement, a rustle of some ancient clothing",
+   "start": 518,
+   "end": 581
+  },
+  {
+   "fact": "他断定那不是 Marley，而是 Marley 已回到阴阳之间",
+   "anchor": "have surely returned to the world that lies between",
+   "start": 872,
+   "end": 923
+  },
+  {
+   "fact": "他在门上敲了三下",
+   "anchor": "knocked three times upon the door",
+   "start": 1094,
+   "end": 1127
+  },
+  {
+   "fact": "开门的 Captain Ambrose 双目清澈发白、没有瞳孔，像遭过可怕事故",
+   "anchor": "were clear white and pupilless as though he had been the victim of some dreadful accident",
+   "start": 1554,
+   "end": 1643
+  },
+  {
+   "fact": "Scrooge 问上尉是否被人操纵",
+   "anchor": "I do believe you’re being controlled, aren’t you?",
+   "start": 1678,
+   "end": 1727
+  },
+  {
+   "fact": "上尉身体可见地抽动，像真正的 Ambrose 想传递讯息",
+   "anchor": "the true Ambrose were trying to communicate",
+   "start": 1843,
+   "end": 1886
+  },
+  {
+   "fact": "那个声音请 Scrooge 进去，说主人在等",
+   "anchor": "Come inside, my master is waiting",
+   "start": 1919,
+   "end": 1952
+  },
+  {
+   "fact": "Scrooge 问屋内主人是否是 Mr Gowing",
+   "anchor": "Mr Gowing, is it?",
+   "start": 1958,
+   "end": 1975
+  },
+  {
+   "fact": "Scrooge 跨过门槛的那一刻，雪完全停了",
+   "anchor": "the snow ceased entirely to fall",
+   "start": 2376,
+   "end": 2408
+  }
+ ]
+}

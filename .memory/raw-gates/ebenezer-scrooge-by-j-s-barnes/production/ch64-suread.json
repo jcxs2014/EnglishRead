@@ -1,0 +1,109 @@
+{
+ "book": "ebenezer-scrooge-by-j-s-barnes",
+ "chapter": "ch64",
+ "text": "notes/books/novels/ebenezer-scrooge-by-j-s-barnes/text/ch64_i.txt",
+ "facts": [
+  {
+   "fact": "叙述者交代本卷跟踪的三个人：Bethlem 太太、车夫 Christian、灵媒 Beck",
+   "anchor": "the progress of Mrs Bethlem, her coachman, Christian, and that unfortunate medium, Mr Beck",
+   "start": 49,
+   "end": 139
+  },
+  {
+   "fact": "这一行人在暗路与林地中趁被云遮的月光赶路",
+   "anchor": "down darkened lanes and mournful woodland, under the light of a clouded moon",
+   "start": 183,
+   "end": 259
+  },
+  {
+   "fact": "马匹疲惫、车夫恼火，整趟赶路乱七八糟又急促",
+   "anchor": "with exhausted horses and an exasperated driver, the whole thing pell-mell and frantic",
+   "start": 260,
+   "end": 346
+  },
+  {
+   "fact": "全队人都感到一种说不清的紧迫感",
+   "anchor": "an urgency which all felt but which none could quite explain",
+   "start": 387,
+   "end": 447
+  },
+  {
+   "fact": "Bethlem 太太连珠炮追问，Beck 招架不住",
+   "anchor": "yielding to a barrage of questions from Mrs Bethlem",
+   "start": 490,
+   "end": 541
+  },
+  {
+   "fact": "Beck 自述记忆里有许多古怪的缺口与空白",
+   "anchor": "there were numerous odd gaps and ellipses in his memory",
+   "start": 634,
+   "end": 689
+  },
+  {
+   "fact": "车队从 Holt 以东某座孤零零的农舍旁驶过",
+   "anchor": "as the coach careered past a lonely farmstead somewhere east of Holt",
+   "start": 934,
+   "end": 1002
+  },
+  {
+   "fact": "Beck 说鬼魂常常说谎",
+   "anchor": "Spirits often lie",
+   "start": 1045,
+   "end": 1062
+  },
+  {
+   "fact": "Beck 认定驱使他的是两人共同认识的那位（后文点名为 Gowing）",
+   "anchor": "My former landlord and your old employer.",
+   "start": 1234,
+   "end": 1275
+  },
+  {
+   "fact": "Beck 说那边把 Gowing 改变了，因为他受苦太多",
+   "anchor": "The other side… the place where he has surely been… it has changed him. For he has suffered much.",
+   "start": 1330,
+   "end": 1427
+  },
+  {
+   "fact": "Bethlem 太太虽经验老到却语气不确定",
+   "anchor": "sounding uncertain in spite of her considerable experience of the supernatural",
+   "start": 1458,
+   "end": 1536
+  },
+  {
+   "fact": "Beck 形容那个声音像长而开裂的指甲划过棺材盖",
+   "anchor": "sounded like long, cracked nails upon a coffin’s lid",
+   "start": 1576,
+   "end": 1628
+  },
+  {
+   "fact": "太太说出 Gowing 的名字并问他要什么",
+   "anchor": "If it’s Mr Gowing back from beyond, what does he want?",
+   "start": 1690,
+   "end": 1744
+  },
+  {
+   "fact": "太太追问 Gowing 为何要阻止 Scrooge 前往 Brightwell Road",
+   "anchor": "Why would he have done so much to keep Mr Scrooge away from Brightwell Road?",
+   "start": 1745,
+   "end": 1821
+  },
+  {
+   "fact": "Beck 面色苍白、疲惫憔悴",
+   "anchor": "Beck looked very pale, very tired and wan.",
+   "start": 1854,
+   "end": 1896
+  },
+  {
+   "fact": "Beck 说有比他们所知的更大的力量在起作用",
+   "anchor": "there are larger forces at work here than any of us know",
+   "start": 1947,
+   "end": 2003
+  },
+  {
+   "fact": "夜过半时他们越来越接近 Starningham 小镇",
+   "anchor": "as the middle of the night approached and as they drew ever nearer to the little town of Starningham",
+   "start": 2073,
+   "end": 2173
+  }
+ ]
+}

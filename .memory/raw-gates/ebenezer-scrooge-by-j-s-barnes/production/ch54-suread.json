@@ -1,0 +1,67 @@
+{
+ "book": "ebenezer-scrooge-by-j-s-barnes",
+ "chapter": "ch54",
+ "text": "notes/books/novels/ebenezer-scrooge-by-j-s-barnes/text/ch54_xxii.txt",
+ "facts": [
+  {
+   "fact": "Bethlem 太太在 Norwich 城外认出 Mr Beck，他曾与 Gowing 同住",
+   "anchor": "You lived with Mr Gowing, did you not?",
+   "start": 127,
+   "end": 165
+  },
+  {
+   "fact": "Beck 是灵媒，他承认在 Gowing 身边学到很多",
+   "anchor": "And there was much that I learned by his side.",
+   "start": 282,
+   "end": 328
+  },
+  {
+   "fact": "Beck 说自己的心智已不正常，持续一天一夜",
+   "anchor": "I have not been in my perfect mind. Not for a day and a night now.",
+   "start": 586,
+   "end": 652
+  },
+  {
+   "fact": "Beck 说他脑中有一个不属于他的意识",
+   "anchor": "there has been in my mind an intelligence that is not my own",
+   "start": 693,
+   "end": 753
+  },
+  {
+   "fact": "Beck 说自己正竭力阻止灾祸",
+   "anchor": "I am doing what I can to thwart disaster!",
+   "start": 994,
+   "end": 1035
+  },
+  {
+   "fact": "车夫 Christian 提出把 Beck 赶走，被 Bethlem 太太无视",
+   "anchor": "Shall I remove him for you, ma’am? The fellow’s raving.",
+   "start": 1143,
+   "end": 1198
+  },
+  {
+   "fact": "Bethlem 太太在 Beck 开口之前就知道他要说的话",
+   "anchor": "she knew precisely what the man was about to say before he said it",
+   "start": 1634,
+   "end": 1700
+  },
+  {
+   "fact": "Beck 要去 Staringham 的 Brightwell Road，并认为那边正发生可怕的事",
+   "anchor": "The house on Brightwell Road. I think that, even as we stand here talking, something dreadful is happening there.",
+   "start": 1745,
+   "end": 1858
+  },
+  {
+   "fact": "Bethlem 太太当场决定折返",
+   "anchor": "In an instant, her mind was made up and she yielded",
+   "start": 1991,
+   "end": 2042
+  },
+  {
+   "fact": "章末二人同车折返海边，商议计划并祈祷",
+   "anchor": "Secrets were aired and suspicions shared. Plans were made and stratagems devised. Prayers were said.",
+   "start": 2786,
+   "end": 2886
+  }
+ ]
+}
