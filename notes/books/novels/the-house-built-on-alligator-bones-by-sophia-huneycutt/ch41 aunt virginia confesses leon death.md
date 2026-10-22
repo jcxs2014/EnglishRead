@@ -103,7 +103,7 @@ modified: "2026-10-22"
 
 **为什么这样写**：听到一整套家族血案的人，最后一张牌却握在她自己手里——relishing 一词透出攻击性的快感：用「我已知道 Harrison confess」把对面的人钉在听众席上。
 
-**读者视角提示**：她「sensed」手里那叠 papers「would be the final key in unraveling his death」，却偏不当场拼这把钥匙——把 records 换进门口报纸袋的动作做完了，结论一个字没给。
+**读者视角提示**：她「sensed」手里那叠 papers「they’d be the final key in unraveling his death」，却偏不当场拼这把钥匙——把 records 换进门口报纸袋的动作做完了，结论一个字没给。
 
 ## 本章词汇
 

@@ -200,7 +200,7 @@
 
 **Ida Greer（née Bolden）**
 - 首现：ch02 L49「a small print of Ida’s portrait」（信里 PPS）。
-- 身份交代：ch10 L57「Ida Greer, née Bolden, had what you have… The heart condition. Except in those days, they called it soldier's heart」；Dart 的 great-great-grandmother——ch04 L279（Virginia 语，未点名 Ida）、ch06 L90（Harrison 语「your great-great-grandmother」，紧接肖像，Dart 于 ch06 L93 自行确认「Ida was a relative」）；ch05 L219 叙述者仍写「if not my great-great-grandmother herself」为推测。
+- 身份交代：ch10 L57「Ida Greer, née Bolden, had what you have… The heart condition. Except in those days, they called it soldier’s heart」；Dart 的 great-great-grandmother——ch04 L279（Virginia 语，未点名 Ida）、ch06 L90（Harrison 语「your great-great-grandmother」，紧接肖像，Dart 于 ch06 L93 自行确认「Ida was a relative」）；ch05 L219 叙述者仍写「if not my great-great-grandmother herself」为推测。
 - 关键事：(1) 从女仆升至 lady’s maid、患心脏病、偷枪练射 (ch10 L63, L66, L105)；(2) 射杀 Ironheart 换取 500 美元 (ch10 L123–L135)；(3) 建 Greer House 并把 Ironheart 骨头埋进地基 (ch10 L159)；(4) 死于 marsh，「Whole leg torn to shreds」(ch10 L174)。
 - 家中形象：十幅肖像 (ch10 L21–L30)、客厅原件 (ch06 L21)、农场办公室 (ch08 L78)、屠宰室 (ch13 L150)、剥皮室 (ch18 L150)。
 
@@ -274,7 +274,7 @@
 **序章人物（身份未展开）**
 - 市政检查员：ch01 L15「the dazed version of me from five years ago who faced that city inspector, presumably summoned by neighbors」；原文未具名、未交代结论。
 - 「the old neighborhood cat」：ch01 L48；原文未交代与 ch05 L51 灰猫是否同一只（见 D-9）。
-- ch01 L31「the patter of waterlogged feet, the dragging sound of a long, wet skirt」——序章开篇即有湿裙拖地声，与本区间 ch15 L33 的黑影同一意象群；序章未给身份。
+- ch01 L30「the patter of waterlogged feet, the dragging sound of a long, wet skirt」——序章开篇即有湿裙拖地声，与本区间 ch15 L33 的黑影同一意象群；序章未给身份。
 
 ---
 
@@ -444,7 +444,7 @@
 **D-6｜Greer House 的建造者、以及「Mother」的名字**
 - ch05 L108「an upper-middle-class, respectable home built by a lady’s maid turned businesswoman」；ch10 L159 则由 Gazzie 亲口说 Ida「built Greer House with her earnings」。两处的建造者是同一人（Ida），但 ch05 L108 不给名字，ch04 L279 又提到「Your great-great-grandmother invested in railroads」——原文未说明 Ida 何时、如何取得修铁路的资本（ch10 只讲鳄鱼皮生意）。**不裁决**。
 - Gazzie 与 Virginia 的母亲始终只有「Mother」「Our mother」「her mother」(ch11 L9, ch16 L129, ch25 L15)，无名字。
-- 代际表述不一：ch10 L30「Jesus’s image replaced with her grandmother's」（「her」指 Gazzie 还是 Dart 未定）；ch10 L192「She was only sixty-five when I was born. She raised me」；ch16 L129「let Gazzie take over officially when she was eighteen」（「she」指 Gazzie 还是母亲未定）；ch11 L93「passed down through three generations of Greer women」；ch04 L282 叙述者自陈算术不确定「I supposed my great-great-grandmother was just Aunt Virginia’s grandmother… Was Ida my great-great-grandmother?」。**不裁决**。
+- 代际表述不一：ch10 L30「Jesus’s image replaced with her grandmother’s」（「her」指 Gazzie 还是 Dart 未定）；ch10 L192「She was only sixty-five when I was born. She raised me」；ch16 L129「let Gazzie take over officially when she was eighteen」（「she」指 Gazzie 还是母亲未定）；ch11 L93「passed down through three generations of Greer women」；ch04 L282 叙述者自陈算术不确定「I supposed my great-great-grandmother was just Aunt Virginia’s grandmother… Was Ida my great-great-grandmother?」。**不裁决**。
 
 **D-7｜Leon 手记中的「Aunt V」「Mom」指谁**
 - ch23 L46「Brought Aunt V flowers at the hospital. Mom too busy to visit. Shocker.」——本区间没有任何一处把「Aunt V」与 Virginia、或把「Mom」与 Gazzie 对应起来；住院者身份也未交代。
@@ -459,7 +459,7 @@
 - 湿裙与脚步声：ch01 L30「the patter of waterlogged feet, the dragging sound of a long, wet skirt」；ch15 L33「more a gauzy, black blur… the faintest swish of a long, heavy skirt」；ch17 L78「They thudded softly, almost—wetly, and slightly out of sync」。
 - 浴缸里的脸：ch09 L36–L48，Gazzie 检查后「No one here」(ch09 L84)，但 Dart 自陈「Gazzie must have thought the face belonged to Ida」(ch16 L147)＝叙述者推测。
 - 夜里的男人笑声：ch09 L9「I heard light steps striding down the hall, a man’s soft laugh」；Dart 在 ch15 L72 用「Harrison probably stayed in Greer House all the time」来收，仍是「probably」。
-- 女性低语：ch17 L72「a muttering, like someone talking to themselves」、ch17 L123「it had been soft, feminine. Nothing like Gazzie’s voice at all」——本区间未给出说话者。
+- 女性低语：ch17 L72「a muttering, like someone talking to themselves」（同一行另有「The faint scent of jasmine wafted toward me」）、ch17 L123「it had been soft, feminine」＋ch17 L126「Nothing like Gazzie’s voice at all」——本区间未给出说话者。
 - 睡眠瘫痪中的到访者：ch20 L111「The person had a slight limp. Quick-slow. Quick-slow」→ ch20 L120「Ida.」（单词成段，是 Dart 的判定不是他人陈述）。
 - 窗内滑行物：ch22 L99「More like a column of vibrating air」；画本移进水槽：ch23 L144「the tail end of a black shape slip into the bathroom」。
 - 叙述者自己的总账：ch15 L93「this was the second time I’d seen an inexplicable person in Greer House」；ch25 L126「I just wasn’t sure whether there were two separate presences or one」；ch24 L9 只说嫌疑在「the three people with access to my room」之内，**未点名**（同段紧接的怀疑对象是 Gazzie，见 ch24 L21）。
@@ -487,7 +487,7 @@
 
 **D-14｜时间线两处对不齐**
 - Leon 年龄：ch23 L30「a date: 1983. He’d been sixteen」＋ch23 L53「one dated 1985—the year he’d died」；ch20 L363「When Leon was seventeen, he threatened to go to college up north」；ch23 L56 又把该年定为「his last high school semester」＋毕业礼。**原文从未直写他死时几岁**。
-- 主线的日历跨度：ch05 L12 抵达、ch06 首次晚餐、ch08「VIP tour」次日、ch11 L132「You’ll start tomorrow」、ch15 L9「Beyond our silent drive back to Greer House Friday evening」（首个周五）、ch19 L9「Over the next week」、ch21 L12「Minutes after lunch on Thursday」＋L24「Friday morning」、ch24 L9「That Saturday afternoon」。solstice 派对在本区间始终未办 (ch11 L72, ch25 L51)。
+- 主线的日历跨度：ch05 L12 抵达、ch06 首次晚餐、ch08「VIP tour」次日、ch11 L132「You’ll start tomorrow」、ch15 L9「Beyond our silent drive back to Greer House Friday evening」（首个周五）、ch19 L9「Over the next week」、ch21 L12「Minutes after lunch on Thursday」＋L24「Friday morning」、ch24 L12「That Saturday afternoon」。solstice 派对在本区间始终未办 (ch11 L72, ch25 L51)。
 - 序章的「现在」比主线晚至少五年：ch01 L15「the dazed version of me from five years ago」＋ch05 L108「Years later, I would realize」、ch20 L420「months later」。**不裁决**，总览层写「第 N 天」一律避免。
 
 **D-15｜Virginia 的亲属称谓在不同人物口中不完全对齐**
@@ -512,7 +512,7 @@
 - 「Lena」：maid／清洁公司老板 (ch05 L195, ch15 L48)；她与「the whole crew」「maids」的层级，原文未说明。
 - 「Joe」「Javier」「Will」「Seth」「Benny-G」：仅 ch21 L72 的分工一句；三人（Will／Seth／Benny-G）再无戏份、无外貌、无对话。
 - 「the goateed man」「the stocky blond man」「a thin goateed man in a bright green tee」(ch12 L84, ch13 L162, ch18 L195)：Dart 未在同一章内把 goateed 男与「Joe」对上号，本区间也无一处直写二者同一。
-- 序章「city inspector」(ch01 L15)、ch01 L48「the old neighborhood cat」、ch10 L135「the rich man who wanted the skin」（Ida 的丈夫，始终无名）、ch16 L129「Our mother」（无名）。
+- 序章「city inspector」(ch01 L15)、ch01 L48「the old neighborhood cat」、ch10 L135「The rich man who wanted the skin」（Ida 的丈夫，始终无名）、ch16 L129「Our mother」（无名）。
 - **不裁决**；总览层凡引到这些人物，只能带原文标签。
 
 **D-19｜ch01（序章）的具名状态**

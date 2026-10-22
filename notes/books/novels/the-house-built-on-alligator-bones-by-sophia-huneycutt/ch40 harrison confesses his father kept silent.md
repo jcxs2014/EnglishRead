@@ -11,7 +11,7 @@ modified: "2026-10-22"
 - **情感弧线位置**：从"必须知道"跨到"已经知道"，却没有解脱。指控被说出口的一瞬，她的反应先是身体（心跳成倍、走不稳），再是暴力（杯子炸在墙上）；紧接着是识破——她发现自己正被人推着和 Harrison 开战，于是主动把怒火收住（I reined in my fury），换来整段真相。结尾她既不原谅他，也不接受他的护送，情绪停在"清醒但孤立"。
 - **Tropes 兑现/反转**：兑现"带锁的箱子揭开家族犯罪"（纵火、同日不同额的两本账、市长写给她的贺信、只靠手写便条确认的蛋数），也兑现"恋人原来与家族旧案有牵连"这一言情节点——他不是外人，是被 Gazzie 用钱封过口的目击者的儿子。两处反转：其一，她没有扑向唯一知情男人的怀抱，反而当场把他的身份降级（He wasn’t even my boyfriend, or my lover. Or a friend.），用"You should hear it from family"把自己推回孤军；其二，Ida 不再只是拦路者，而改做撮合争吵的操盘手，目的是让她重新站回 Gazzie 一边。
 - **人物弧线**：她自己的暴力在这一章有了实物：hurled 出去的杯子、shooting across the floor 的碎片，以及一句让她自己发冷的解读——那阵风 like it was rewarding me for good behavior。她由此逆着 Ida 的调度行动（reined in my fury），并把它翻译成要求："Tell me everything."。对 Harrison，她把"理解"与"信任"拆开：承认他 honest by nature、被 loyalty 逼着 spin lie after lie，仍然 refused to let my anger die。Harrison 则第一次交出隐瞒的形状：父命、封口费、毁财产、用刀传话，以及"我本来怕你和她一样"。
-- **叙事手法**：证据用清单流水交出（The first… Next… Then… Finally…），叙述者几乎不评论，只在末了补一句她懂鳄鱼养殖法规，读者才知道她早有判断力；随后长段对话由 Harrison 一口气推进，中间只用她自己的答话切回去（"Fine." "Spy." "No." "That’s over."）。超自然从体感升级为心理调度：凉风是奖励，Ida wanted me to argue with Harrison。视点最后拉到楼下——Gazzie 站在 Ida 画像正下方笑着——再交给天气（八点却黑如午夜、大雨、无人提起刚升级的 Hurricane Flora），全章结束在她迈出的一步上，而不是任何结论。
+- **叙事手法**：证据用清单流水交出（The first… Next… Then… Finally…），叙述者几乎不评论，只在末了补一句她懂鳄鱼养殖法规，读者才知道她早有判断力；随后长段对话由 Harrison 一口气推进，中间只用她自己的答话切回去（"Fine." "Spy." "No." "That’s over."）。超自然从体感升级为心理调度：凉风是奖励，破折号里的 Ida 接着 wanted me to argue with Harrison。视点最后拉到楼下——Gazzie 站在 Ida 画像正下方笑着——再交给天气（八点却黑如午夜、大雨、无人提起刚升级的 Hurricane Flora），全章结束在她迈出的一步上，而不是任何结论。
 
 ## 精读
 

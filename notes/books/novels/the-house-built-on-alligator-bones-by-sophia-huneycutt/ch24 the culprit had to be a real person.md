@@ -31,7 +31,7 @@ modified: "2026-10-22"
 
 **关键词**：conservatory / border / claws / overnight
 
-**为什么这样写**："three feet closer overnight" 违反植物的常识速度，而她的处理是把异常归档成"地界"问题——if I hadn’t seen the border 说明这条线是后来才出现的，草的推进被写成一次无声的领土扩张。"Grass reached toward the glass walls like claws" 只给一个比喻：玻璃墙是圈舍的栏，人是栏里看戏的，猎手是院子本身；三英尺的刻度让恐惧有了可以丈量的单位。
+**为什么这样写**："three feet closer to the house overnight" 违反植物的常识速度，而她的处理是把异常归档成"地界"问题——if I hadn’t seen the border 说明这条线是后来才出现的，草的推进被写成一次无声的领土扩张。"Grass reached toward the glass walls like claws" 只给一个比喻：玻璃墙是圈舍的栏，人是栏里看戏的，猎手是院子本身；三英尺的刻度让恐惧有了可以丈量的单位。
 
 **读者视角提示**：她在这个画面里等来的是 Gazzie 一句"let’s head out"——草地的异动没有被调查，只是被离开。本章里没人接住的异常就这样原样留着账，别指望读者替她们销掉。
 
