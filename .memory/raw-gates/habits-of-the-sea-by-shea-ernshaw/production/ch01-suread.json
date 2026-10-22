@@ -1,0 +1,55 @@
+{
+ "book": "habits-of-the-sea-by-shea-ernshaw",
+ "chapter": "ch01",
+ "text": "notes/books/novels/habits-of-the-sea-by-shea-ernshaw/text/ch01_prologue.txt",
+ "facts": [
+  {
+   "fact": "1952 年 1 月，暴风雨夜，Clay Lockhart 的哭声沿苏格兰外赫布里底海岸传出半英里",
+   "anchor": "Clay Lockhart’s cries echoed for half a mile up the rain-drowned coastline",
+   "start": 36,
+   "end": 110
+  },
+  {
+   "fact": "他推开橡木门冲进风暴，怀里抱着一具身体",
+   "anchor": "a body slumped and weighted in his arms",
+   "start": 674,
+   "end": 713
+  },
+  {
+   "fact": "他把死者放进自家临海地块的土里，埋法与十年前葬父母相同",
+   "anchor": "just as he’d done with his parents a decade earlier",
+   "start": 1293,
+   "end": 1344
+  },
+  {
+   "fact": "未足月的双胞胎只由两块小石头代替，他把它们塞在妻子肋边",
+   "anchor": "They were merely stones, tiny as garden squash, not yet ripe.",
+   "start": 1410,
+   "end": 1471
+  },
+  {
+   "fact": "那一夜地面裂开，房子连同四公顷土地脱离大陆，漂进大西洋",
+   "anchor": "to crack free of the mainland and drift out into the Atlantic",
+   "start": 4092,
+   "end": 4153
+  },
+  {
+   "fact": "邻居 Neil 望向海面，成为目击者",
+   "anchor": "Neil lifted his eyes and peered out at the sea",
+   "start": 3670,
+   "end": 3716
+  },
+  {
+   "fact": "全书最后一个名字是 Eleanor Mills，她的命途将在一个风雨夜偏航",
+   "anchor": "A girl named Eleanor Mills, whose life would veer off course on a rainy, tempest night.",
+   "start": 5416,
+   "end": 5503
+  },
+  {
+   "fact": "民间说法认定他后来跳崖自尽，岛本身被当作诅咒与传说",
+   "anchor": "Clay Lockhart, in his despair, likely flung himself over the cliff’s edge that night.",
+   "start": 4875,
+   "end": 4960
+  }
+ ]
+}
