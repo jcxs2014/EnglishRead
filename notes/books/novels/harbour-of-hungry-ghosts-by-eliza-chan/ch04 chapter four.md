@@ -21,12 +21,15 @@ modified: "2026-10-22"
 **读者视角提示**：注意作者量人物地位用的不是钱，而是门口的花牌、柜台和玻璃罐。这串腊肠后面会被白送出去，它的分量正是从这一句开始称的。
 **句子结构**：三句各管一段距离：门前的现在、街边的过去、钩上的年节；中间隔着一整张货架清单，时间被折起来，读者读到的是一间店的全部历史。
 
-> **原句 2:** "“I asked for your grandmother,” he said for the eleventh or twelfth time. “I didn’t realise she’d send a girl instead. I should’ve insisted.” Kiamling wanted to tell him that her por por had sent her out of spite, her seemingly never-ending penance for the geongsi incident."
-**中文理解**：他第十一、十二次说他请的是她祖母，又补一句：没想到派来个女孩，早知道就该坚持。Kiamling 想回他：祖母打发她来是赌气，是那桩 geongsi 事件之后没完没了的赎罪。
-**关键词**：eleventh or twelfth time / send a girl instead / out of spite
-**为什么这样写**：最伤人的话由外人用最平的语气说出来。Soon 没骂她，只把「我要的是你祖母」重复到第十几次，重复本身成了判决，比任何一句嫌弃都难反驳。紧接着一句内心独白把差事翻了个面：她不是被信得过才来的，是被罚来的，于是越卖力越像个笑话。
-**读者视角提示**：数一数 Soon 到底说了几次「我请的是你祖母」。作者用次数代替形容词，读者自己会替她累；她的沉默因此有了重量。
-**句子结构**：两句直接引语把外人的声音推在前面，第三句才切进她的内心；视角一换，读者立刻站到她这一侧。
+> **原句 2:** "Kiamling wanted to tell him that her por por had sent her out of spite, her seemingly never-ending penance for the geongsi incident. She’d been relegated to blessing shrines and putting up batgua mirrors to deflect misfortune. “I assure you, it’s a very simple process. I’ve done it dozens of times.””
+
+**中文理解**：她很想回他一句：是祖母赌气才把她派来的，那桩尸变的事至今还是她的罚。她如今只被分派去给神龛开光、往门上挂八卦镜挡煞。可她开口说的是：「您放心，这很简单，我做过几十回了。」
+
+**关键词**：sent her out of spite / batgua mirrors / dozens of times
+
+**为什么这样写**：三句是一条被压下去的曲线：第一句是想说的实话（羞辱与罚），第二句是实话背后的处境（只配做零碎差事），第三句是她真正说出口的话——一句熟练的行话。中间没有转折词，落差全靠句子自己掉下去：心里越硬，嘴上越软。作者不写她咽下了什么，只让那口话停在引号外面。
+
+**读者视角提示**：她把被看轻这件事咽下去，换成一句「我做过几十回」的保证。注意她保证的是一桩除煞的活计，不是自己的本事。
 
 > **原句 3:** "Ironically, one of the door gods he had chosen was Chung Kwai, god of demon-slaying. The picture pasted to the door of the shop was imposing: a towering man with a ferocious beard and thick eyebrows, bright red robes and bulging angry eyes. Por Por swore their family line could be traced back to Chung Kwai’s sister."
 **中文理解**：讽刺的是，他挑的门神之一正是斩鬼的钟馗。贴在这家店门上的画像很有压迫感：高个子、虬髯浓眉、一身大红袍、一双瞪出的怒眼。祖母发誓说，她们家的血脉能上溯到钟馗的妹妹。

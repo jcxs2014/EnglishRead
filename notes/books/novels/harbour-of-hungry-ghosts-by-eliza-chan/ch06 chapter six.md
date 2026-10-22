@@ -50,11 +50,15 @@ modified: "2026-10-22"
 **为什么这样写**：恐怖不靠「看见」，靠「不该这么黑」这种量感上的错位——先让读者感到比例不对，再给红眼睛。gaping maw 这个比喻把街道本身变成活物，危险从「有什么东西」升级为「整条街都是它」。
 **读者视角提示**：作者写怪物始终不给全身像，只给浓度、气味、声音。这种写法要求读者自己补，也就更难摆脱。
 
-> **原句 7:** "But a general protective talisman should’ve done something, slowed it at least. Instead, the eyes looked down, flickering orange and yellow like a brazier. The discarded talisman burst into flames. This was the cause of the fire. Never had the connection been clearer to her."
-**中文理解**：一张通用的护身符总该起点作用，哪怕只是让它慢一点；可那双眼睛低下来，瞳孔像火盆一样闪着橙黄，被丢开的符纸自己烧了起来。这场火的起因就是它——这个联系从没这么清楚过。
-**关键词**：general protective talisman / burst into flames / the cause of the fire
-**为什么这样写**：符纸自燃是全章最漂亮的一笔：它同时完成了三件事——证明这只怪物强过她的装备、解释了大火、把「未知」变成一个可以追查的对象。作者的推理从来不在对话里，而在这种物证上。
-**读者视角提示**：从这一刻起，火灾不再是背景灾难，而是敌人在岛上的行迹。往后凡是起火，都要问一句：是谁点的？
+> **原句 7:** "But a general protective talisman should’ve done something, slowed it at least. Instead, the eyes looked down, flickering orange and yellow like a brazier. The discarded talisman burst into flames."
+
+**中文理解**：可一张通用的护身符总该起点作用，至少能把它拖慢一点。结果那双眼睛垂下来看，橙黄的火色在里头一闪一闪，像一炉炭。被丢在地上的那张符自己烧了起来。
+
+**关键词**：protective talisman / flickering orange and yellow / burst into flames
+
+**为什么这样写**：先给一个「本该有用」的判断，再用「结果」把它推翻，最后落在符纸自己起火这个动作上。作者不解释原理，只让三样东西依次出现：没起作用的符、像炭火的眼睛、烧起来的纸。因果全靠这三样排在一起自己接上。
+
+**读者视角提示**：一张本该护人的纸，最后成了点火的引子。这一块里她没有台词，只有她眼睛看见的东西。
 
 > **原句 8:** "Out of nowhere, Por Por cut through the shadows with her glowing coin sword. Whirling the weapon around her, she moved with the practised steps of a defensive sequence. The darkness backed away, loosening its grasp on the boy as it stepped out of reach of the older woman’s decisive blade cuts."
 **中文理解**：祖母不知从哪里出现，用发光的铜钱剑劈开黑影；她绕着自身转剑，走的是一套练熟了的守势步法。黑暗退开，松开那男孩，退到老妇人利落剑势够不着的地方。

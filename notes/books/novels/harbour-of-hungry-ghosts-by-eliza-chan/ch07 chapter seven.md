@@ -20,11 +20,15 @@ modified: "2026-10-22"
 **为什么这样写**：上一章她的安全来自一把剑，这一章的安全来自「人多」——作者用一个悖论把她的处境说清楚：真正能护住人的不是法器，是围观者与邻居的密度。buckets 这个细节把英雄叙事拉回体力活。
 **读者视角提示**：记住这句判断：往后遇到危险，先看周围有没有人。这本书里活下来的人，几乎都靠这一点。
 
-> **原句 2:** "“Please, ah seh, let them save their homes first.” It was Leung gor, dirt still smeared on his forehead. “Nonsense, these hovels are ten a penny. We shipped furniture from India for this!” The foreman shoved his hands into his deep pockets and said nothing else. The muscles in his jaw twitched."
-**中文理解**：「先生，求您，先让他们救自己的家。」说话的是工头 Leung gor，额头还沾着泥。「胡说，这些破棚子一文不值。我们特地从印度运家具来！」工头把两只手塞进深口袋，再没说话，只有腮帮的肌肉在跳。
-**关键词**：ah seh / ten a penny / jaw twitched
-**为什么这样写**：全章最锋利的一对数字：hovels 对 furniture from India。前者把人的住处折成零钱，后者把殖民者的家当说成远洋运来的贵重品。Leung gor 的回应不是台词，是把手插进口袋——作者用这个动作替代了一整段愤怒。
-**读者视角提示**：注意 ah seh 这个称呼：他在向一个刚刚侮辱了他的人请求。这种礼貌本身就是被规定好的。
+> **原句 2:** "The youths hesitated. Their families were all over on the side of the Chinese shops, smothering the flames with burlap sacks where they could, trying to protect the fragile homes to the rear of the shops."
+
+**中文理解**：少年们迟疑了。他们的家人全在中文店铺那一头，正拿麻袋去捂火，能捂多少捂多少，为的是保住铺子后头那几间住人的屋。
+
+**关键词**：hesitated / burlap sacks / fragile homes
+
+**为什么这样写**：一个「迟疑」后面接的不是心理，是画面——家在哪、家人正在做什么。作者把少年的犹豫写成一笔街上的算术：他们挑水要去救的地方，就是自己住的地方。最后那个 fragile 用得准，房子不是财产，是再碰一下就要散的东西。
+
+**读者视角提示**：这一句替后面所有争执打了底：谁的家，谁在救，谁只是路过。
 
 > **原句 3:** "Kiamling recognised her immediately as Madam Yau, mistress of one of the biggest brothels on Tai Ping Shan Street. She purred as she stroked his arm in long, slow movements. Her eyes flickered up under long lashes, holding his gaze for a moment. The hypnotism caught him like a moth to a candle."
 

@@ -42,17 +42,25 @@ modified: "2026-10-22"
 
 **读者视角提示**：注意「Everything went still.」这一句：混乱的顶点之后突然静止，是本书写转折的惯用手法。
 
-> **原句 5:** "From amid the blaze, haloed by flames like a mane, Por Por’s face blinked into focus. “Playing the pig, eating the tiger.” It was not the time for cryptic comments."
-**中文理解**：火光里，祖母的脸像被一圈鬃毛似的光托着，忽然清晰起来。她说：「扮猪吃老虎。」这时候实在不是说谜语的时候。
-**关键词**：haloed by flames / Playing the pig / cryptic comments
-**为什么这样写**：作者让她在最危急的一刻说一句俗语，等于把全书的方法论塞进一句谚语：先示弱，再下口。Kiamling 的反应（不是时候）恰好说明她还没懂——她连这句是在教她都没听出来。
-**读者视角提示**：这句谚语后面还会回来。留意谁在扮猪、谁在吃老虎：往往不是你以为的那一方。
+> **原句 5:** "It was not the time for cryptic comments. Kiamling did not have the energy to respond, gritting her teeth as she clawed her way up the monster’s back inch by inch. Just a bit further and she would reach her grandmother."
 
-> **原句 6:** "“Let go, you fool,” the old woman snapped. Kiamling’s body responded automatically, so used to taking commands from Por Por. Her aching hands released, and she tripped, knees scraping and shredding as she fell."
-**中文理解**：「放手，你这傻子。」老妇人厉声说。她的身体自动照办——太习惯听祖母的命令了；手一松，人绊倒，膝盖在地上刮得稀烂。
-**关键词**：Let go / responded automatically / scraping and shredding
-**为什么这样写**：全章最狠的一笔是「自动」：她没有做决定，身体替她做了。作者用这个词把十年的训练变成一个缺陷，让读者明白她输在哪里——不是力气不够，是从来没被允许自己判断。
-**读者视角提示**：这一松手是全书的一个伤口。往后她每次违抗祖母，都像在替这一秒钟还债。
+**中文理解**：这会儿不是打哑谜的时候。她连回话的力气都没有，只能咬着牙，一寸一寸往那东西的背上爬。再往前一点，她就够得着祖母了。
+
+**关键词**：cryptic comments / clawed her way up / inch by inch
+
+**为什么这样写**：三句都在写「没有余裕」：先否掉闲话，再否掉回话的力气，最后只剩一个动作和一句自我催促。一寸一寸这个说法把速度压到最低，和她想救人的急迫正好相反，句子因此有了重量。
+
+**读者视角提示**：她连抱怨都省了。这一段的紧张不靠声音，靠距离——还差一点。
+
+> **原句 6:** "Kiamling’s body responded automatically, so used to taking commands from Por Por. Her aching hands released, and she tripped, knees scraping and shredding as she fell. Her chin slammed into the ground."
+
+**中文理解**：她的身体自己就动了——八年学徒，听祖母的话已经成了本能。那双发疼的手松开，她整个人栽下去，膝盖在地上蹭得稀烂，下巴重重磕在地上。
+
+**关键词**：responded automatically / taking commands / slammed into the ground
+
+**为什么这样写**：三个动作一个比一个狼狈，而且全是被动的：松开、绊倒、磕下去。没有一句写她「决定」松手，都是身体替她做的。作者把「听话」写成一种肌肉记忆，代价由膝盖和下巴来付。
+
+**读者视角提示**：松手是听话，摔倒是后果。这一块里她唯一主动做的事，就是服从。
 
 > **原句 7:** "Up ahead, there was an opening: jagged and torn like someone had sliced through the air. A crude doorway glimmering in dark blue and white. The edges flashed like the bulb of one of those new-fangled cameras."
 **中文理解**：前方出现一道开口：参差撕裂，像有人把空气割开了一刀；一扇粗糙的门，在暗蓝与白色里发亮，边缘一闪一闪，像那种新式照相机的镁光。
@@ -60,11 +68,15 @@ modified: "2026-10-22"
 **为什么这样写**：作者用两个现代物件来写神异——割开的布、相机的闪光——让异界入口显得既古老又像刚被拍下来。dark blue and white 是全书后面反复出现的「裂口色」，此处第一次定调。
 **读者视角提示**：记住这扇门的样子与颜色。它不是终点，是这本书真正的边界；往后再出现同样的蓝白闪光，就是有人又开了一次门。
 
-> **原句 8:** "And her grandmother had told her to let go. The reasons piled higher and higher, the weight of them anchoring her feet to the ground. The yiugwai hunter who longed for action, who said she was ready for anything, stood frozen as the doorway slammed shut."
-**中文理解**：而祖母刚刚叫过她放手。理由一层层堆高，重量把她的脚钉在地上。那个渴望行动、说自己什么都准备好了的猎妖人，就那样僵着，看着门砰地合上。
-**关键词**：told her to let go / anchoring her feet / stood frozen
-**为什么这样写**：结尾的三个词把整章的账结清：说「准备好了」的人，僵住了。作者不写她哭、不写她喊，只写「理由」有重量——她的失败不是胆怯，是一整套被教出来的听话在最后一刻替她做了选择。
-**读者视角提示**：这一章之后，Kiamling 再没有「准备好了」这句话可讲。留意她接下来的每一个决定，都是在这扇关上的门前做出的。
+> **原句 8:** "The reasons piled higher and higher, the weight of them anchoring her feet to the ground. The yiugwai hunter who longed for action, who said she was ready for anything, stood frozen as the doorway slammed shut."
+
+**中文理解**：理由一层层堆高，重量把她的脚钉在地上。那个渴望动手、口口声声说随时都准备好了的猎妖人，就这么站着不动，眼看着那道门砰地关上。
+
+**关键词**：anchoring her feet / longed for action / stood frozen
+
+**为什么这样写**：先把犹豫写成物理的重量：理由越多，人越沉。再把她对自己的描述原样搬出来——渴望行动、什么都准备好了——和最后那个 stood frozen 正面撞上。全句没有一个字评价她，反差自己说话。
+
+**读者视角提示**：她自己说过的话，在这一句里成了反证。
 
 ## 本章词汇
 
