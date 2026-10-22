@@ -80,7 +80,10 @@ def main():
         if q not in flat:
             problems.append(f"原句 {n}：text/ 逐字查无（{b['quote'][:60]}…）")
         words = len(b["quote"].split())
-        sents = len([s for s in re.split(r"(?<=[.!?])\s+", b["quote"].strip()) if s])
+        # 句数口径：**整段引语（“…”）算一句**，引号外的旁白按句末标点计
+        masked = re.sub(r"“[^”]*”", "Q", b["quote"])
+        sents = len([s for s in re.split(r"(?<=[.!?])\s+", masked.strip())
+                     if s.strip() and s.strip() != "Q"])
         if words > 100:
             problems.append(f"原句 {n}：{words} 词（>100，须按句界拆）")
         elif not (30 <= words <= 70):
