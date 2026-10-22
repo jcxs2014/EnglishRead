@@ -29,7 +29,7 @@ source_text: ch43
 
 **为什么这样写**：她是从楼梯上滚下来的，作者却把每一级写成"有人打她"——被打和被摔在体感上是一回事。最后半句是重点：她一直没松手。
 
-**读者视角提示**：注意"unbandaged hand"。她身上还带着上一章伤的那只手，这只手现在握着斧头。
+**读者视角提示**：注意"unbandaged hand"。“没缠绷带的那只”正是没伤的那只手——伤手是 ch40 里被包扎的另一只；她手里握着斧头。
 
 > **原句 2:** "“You can bring all the papers and the coins and the genealogical charts and the swords and the crockery and the shields. You can pray to your gods and chant your spells and shake your charms and cite your laws and repeat your mantras and state your ‘facts.’ It means nothing.”"
 
