@@ -30,7 +30,7 @@ source_text: ch09
 
 > **原句 2:** "“It belongs here,” he answers, his tone plaintive, infused with memory. “The island is…” He hesitates, searching for the words. “It grips yer heart an’ winnae let go. Anything taken from this place will always return.”"
 
-**中文理解**：“它属于这里，”他回答，语气带着哀求，浸透了回忆。“这座岛……”他顿了顿，像在找词。“它会攥住你的心，不肯松手。从这个地方拿走的东西，总会回来。”
+**中文理解**："它属于这里，"他回答，语气带着哀求，浸透了回忆。"这座岛……"他顿了顿，像在找词。"它会攥住你的心，不肯松手。从这个地方拿走的东西，总会回来。"
 
 **关键词**：It belongs here / It grips yer heart an’ winnae let go / will always return / searching for the words
 
@@ -42,7 +42,7 @@ source_text: ch09
 
 > **原句 3:** "I make a stack of his shirts that need mending—the elbows worn through or a button missing—and I use a basic stitching pattern I learned from Nana. It’s not pretty or neat, but it’ll hold. I feel a need to keep busy, to pass the time, to contribute in some way."
 
-**中文理解**：我把他那些要缝补的衬衫摞成一叠——有的肘部磨穿了，有的掉了颗扣子——用外婆教我的基本针法去缝。缝得不漂亮，也不整齐，但能撑住。我需要让自己忙起来，打发时间，好歹出点力。
+**中文理解**：我把他那些要缝补的衬衫摞成一叠——有的肘部磨穿了，有的掉了颗扣子——用 Nana 教我的基本针法去缝。缝得不漂亮，也不整齐，但能撑住。我需要让自己忙起来，打发时间，好歹出点力。
 
 **关键词**：a stack of his shirts that need mending / a basic stitching pattern I learned from Nana / not pretty or neat / to contribute in some way
 
@@ -54,7 +54,7 @@ source_text: ch09
 
 > **原句 4:** "“Shit,” I say, knowing instantly. When I swung around—moving wildly, frantically—I must have slashed the blade right through Clay’s hand where he was holding the frame, only a few inches away. “Clay!” I start toward him, but he waves me back."
 
-**中文理解**：“糟了，”我脱口而出，瞬间就明白了。我刚才猛地转身——又急又慌——一定是刀从正紧握着蜂框的 Clay 手背上划了过去，只差几英寸。“Clay！”我朝他迈过去，他却抬手把我挡了回去。
+**中文理解**："糟了，"我脱口而出，瞬间就明白了。我刚才猛地转身——又急又慌——一定是刀从正紧握着蜂框的 Clay 手背上划了过去，只差几英寸。"Clay！"我朝他迈过去，他却抬手把我挡了回去。
 
 **关键词**：knowing instantly / swung around / slashed the blade right through Clay’s hand / he waves me back
 
@@ -66,7 +66,7 @@ source_text: ch09
 
 > **原句 5:** "“I do,” I answer quickly. “I want to wear it. It’s beautiful.” And it is, seeing it up close, the perfect curve and slope of it. Not a single flaw."
 
-**中文理解**：“我愿意，”我立刻回答。“我想戴着它。它真美。”凑近了看，它确实如此：曲线与弧度都恰到好处，找不到一处瑕疵。
+**中文理解**："我愿意，"我立刻回答。"我想戴着它。它真美。"凑近了看，它确实如此：曲线与弧度都恰到好处，找不到一处瑕疵。
 
 **关键词**：I want to wear it / seeing it up close / the perfect curve and slope of it / Not a single flaw
 
@@ -102,7 +102,7 @@ source_text: ch09
 
 > **原句 8:** "“This island is anchored to no land, no calendar, no place that is governed by man.” His eyes flick to the window, rain blowing hard against the glass. “The island is its own country now.”"
 
-**中文理解**：“这座岛不系于任何陆地，不系于任何日历，也不系于任何由人治理的地方。”他的目光掠向窗外，雨正狠命地抽打玻璃。“这座岛现在就是它自己的国家。”
+**中文理解**："这座岛不系于任何陆地，不系于任何日历，也不系于任何由人治理的地方。"他的目光掠向窗外，雨正狠命地抽打玻璃。"这座岛现在就是它自己的国家。"
 
 **关键词**：anchored to no land / no calendar / no place that is governed by man / The island is its own country now
 
@@ -138,7 +138,7 @@ source_text: ch09
 
 > **原句 11:** "He carries it to the counter, but stops, staring out the back window, and I know what he’s looking at: the gravestone at the edge of the island. He shakes his head. “This place is all I have left.”"
 
-**中文理解**：他端起水壶走到台面，却停住了，望着后窗；我知道他在看什么：岛那头的那块墓碑。他摇了摇头。“这里就是我所剩的一切。”
+**中文理解**：他端起水壶走到台面，却停住了，望着后窗；我知道他在看什么：岛那头的那块墓碑。他摇了摇头。"这里就是我所剩的一切。"
 
 **关键词**：staring out the back window / the gravestone at the edge of the island / He shakes his head / This place is all I have left
 
@@ -174,7 +174,7 @@ source_text: ch09
 
 > **原句 14:** "“This is yer home, for as long as ye want.” His eyes flash to the sea, then back. “You could stay,” he suggests with a tilt of his upper lip, three words that could change everything."
 
-**中文理解**：“这里是你家，只要你想待多久。”他的目光闪向海面，又收了回来。“你可以留下，”他说着，嘴角微微一挑，三个字足以改变一切。
+**中文理解**："这里是你家，只要你想待多久。"他的目光闪向海面，又收了回来。"你可以留下，"他说着，嘴角微微一挑，三个字足以改变一切。
 
 **关键词**：This is yer home / His eyes flash to the sea / You could stay / three words that could change everything
 
@@ -186,7 +186,7 @@ source_text: ch09
 
 > **原句 15:** "“Goodbye, Ellie,” he says, and I can hear all the regret, all the unsaid things hanging in the air. He pushes the little boat away from the shore, the hull scraping briefly across the rocks, and then I’m adrift out into the deep ocean, away from the island I found again after all these years—proof that I was right, that I didn’t make it all up."
 
-**中文理解**：“再见，Ellie，”他说，而我能听出那里头所有的遗憾，和所有没说出口的话。他把小船推离岸边，船帮在礁石上短暂地刮了两下，接着我便漂进辽阔的大洋，离开那座我后来重新找到的岛——一个证明我当年并没有凭空捏造的证据。
+**中文理解**："再见，Ellie，"他说，而我能听出那里头所有的遗憾，和所有没说出口的话。他把小船推离岸边，船帮在礁石上短暂地刮了两下，接着我便漂进辽阔的大洋，离开那座我后来重新找到的岛——一个证明我当年并没有凭空捏造的证据。
 
 **关键词**：all the unsaid things hanging in the air / pushes the little boat away from the shore / proof that I was right / adrift out into the deep ocean
 

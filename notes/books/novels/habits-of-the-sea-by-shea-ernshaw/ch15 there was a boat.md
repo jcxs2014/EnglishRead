@@ -39,7 +39,7 @@ source_text: ch15
 
 > **原句 3:** "“Nae,” he answers, his voice like an echo, held in the cavern of his chest too long. “I always knew ye gave up yer old life, but seeing ye back there, with him—” His eyes drop, air escaping his lips."
 
-**中文理解**：“不。”他答道，声音像回声，在胸腔的洞穴里憋得太久。“我一直知道你放弃了从前的生活，可看到你回到那边、和他在一起——”他的眼睛垂下去，嘴唇间漏出一口气。
+**中文理解**："不。"他答道，声音像回声，在胸腔的洞穴里憋得太久。"我一直知道你放弃了从前的生活，可看到你回到那边、和他在一起——"他的眼睛垂下去，嘴唇间漏出一口气。
 
 **关键词**：his voice like an echo / seeing ye back there, with him
 
@@ -51,7 +51,7 @@ source_text: ch15
 
 > **原句 4:** "“There was a boat, Ellie,” he confesses—his voice hollow and awful. “An’ if I’d told ye the truth, in those early days when we were still close to land, ye might have made it back. Ye might never have been trapped here.”"
 
-**中文理解**：“Ellie，那时候是有船的。”他坦白道，声音空洞得可怕。“如果我早一点告诉你实话，在最初那些我们还离岸不远的日子里，你本来能划回去的。你本来根本不会被困在这里。”
+**中文理解**："Ellie，那时候是有船的。"他坦白道，声音空洞得可怕。"如果我早一点告诉你实话，在最初那些我们还离岸不远的日子里，你本来能划回去的。你本来根本不会被困在这里。"
 
 **关键词**：There was a boat, Ellie / his voice hollow and awful / ye might never have been trapped here
 
@@ -99,7 +99,7 @@ source_text: ch15
 
 > **原句 8:** "“No,” I answer, blood beating against my eardrums. “You took the choice from me once before, you don’t get to take it again.” Clay remains silent. He knows I’m right."
 
-**中文理解**：“不。”我答道，血在耳膜上怦怦直跳。“你以前已经夺走过我一次选择权，这次你不能再夺走。”Clay 没有说话。他知道我说得对。
+**中文理解**："不。"我答道，血在耳膜上怦怦直跳。"你以前已经夺走过我一次选择权，这次你不能再夺走。"Clay 没有说话。他知道我说得对。
 
 **关键词**：You took the choice from me once before / you don’t get to take it again / He knows I’m right
 
@@ -123,7 +123,7 @@ source_text: ch15
 
 > **原句 10:** "The kettle begins to whistle from the stove, and I move toward it, grateful for a reason to pull my eyes from the admiral’s. 2062. I pour the boiling water into each mug, but my hand trembles."
 
-**中文理解**：水壶在炉子上开始尖叫，我走向它，庆幸终于有个理由把目光从那位“上将”脸上移开。2062 年。我把沸水倒进每一只杯子，手却在抖。
+**中文理解**：水壶在炉子上开始尖叫，我走向它，庆幸终于有个理由把目光从那位"上将"脸上移开。2062 年。我把沸水倒进每一只杯子，手却在抖。
 
 **关键词**：The kettle begins to whistle / 2062 / my hand trembles
 
