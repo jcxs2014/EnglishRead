@@ -1,0 +1,54 @@
+{
+ "chapter": 19,
+ "source": "text/ch19_epilogue.txt",
+ "facts": [
+  {
+   "fact": "盐井岛不会被记住；大多数故事都是如此",
+   "span": [
+    28,
+    92
+   ],
+   "anchor": "Saltwell Island would not be remembered. Most stories never are."
+  },
+  {
+   "fact": "但寓言不必被记住，也可以是真的",
+   "span": [
+    95,
+    148
+   ],
+   "anchor": "But a fable doesn’t need to be remembered to be true."
+  },
+  {
+   "fact": "结局并不像我们以为的那样",
+   "span": [
+    151,
+    194
+   ],
+   "anchor": "And endings are not what we think they are."
+  },
+  {
+   "fact": "海比我们能丈量的更深；人的心是想象之地",
+   "span": [
+    197,
+    274
+   ],
+   "anchor": "The sea is deeper than we can measure; our minds are a place of make-believe."
+  },
+  {
+   "fact": "站在万物的边缘、望向无名的陆地与海岸时，你可能必须选择：这一种生活，还是等着你的那一种",
+   "span": [
+    381,
+    443
+   ],
+   "anchor": "you may have to choose: this life, or the one waiting for you."
+  },
+  {
+   "fact": "结尾三句独立成段：Out there. / Somewhere.",
+   "span": [
+    459,
+    469
+   ],
+   "anchor": "Somewhere."
+  }
+ ]
+}

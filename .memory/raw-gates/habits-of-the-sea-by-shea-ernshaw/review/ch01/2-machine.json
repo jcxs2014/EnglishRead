@@ -1,0 +1,12 @@
+{
+ "chapter": 1,
+ "md": "ch01 the land breaks free.md",
+ "chapter_sh": {"exit": 0, "blocks": 5, "quotes": 5, "fragments": 5, "miss": 0,
+   "empty_quotes": 0, "missing_subitems": 0, "keyword_fail": 0, "thin_chinese": 0, "template_boilerplate": 0,
+   "block_count_warn": "5 vs 建议 2–3（已在任务表登记偏离理由）"},
+ "verify_quotes": {"book_level": "255/255 可核实（100%）", "file_level": "完全干净"},
+ "fragments_indep": {"book_level": "197 引语 / 276 片段 / MISS 0 / 拼接未标省略号 0"},
+ "vocab": {"check_vocab_fail": 0, "entries": 18},
+ "order": {"book_level": "19 md / 197 块 / 缺陷 0 章"},
+ "summary_names": {"flags": 0, "note": "本章导航点名 Eleanor Mills / Neil Hagdorn / Clay Lockhart 均在原文出现"}
+}

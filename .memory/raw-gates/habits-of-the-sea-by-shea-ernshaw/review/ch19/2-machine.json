@@ -1,0 +1,12 @@
+{
+ "chapter": 19,
+ "md": "ch19 a fable does not need to be remembered.md",
+ "chapter_sh": {"exit": 0, "blocks": 3, "quotes": 3, "fragments": 3, "miss": 0,
+   "empty_quotes": 0, "missing_subitems": 0, "keyword_fail": 0, "thin_chinese": 0, "template_boilerplate": 0,
+   "block_count_warn": "3 vs 建议 2（⑱ lane 下限为阻断型，须 ≥3 块）"},
+ "verify_quotes": {"book_level": "255/255 可核实（100%）", "file_level": "完全干净"},
+ "fragments_indep": {"book_level": "276 片段 / MISS 0"},
+ "vocab": {"check_vocab_fail": 0, "entries": 9},
+ "order": {"book_level": "缺陷 0 章"},
+ "summary_names": {"flags": 3, "verdict": "假阳：导航写「Ellie、Clay、Nana 都不再被点名」，是**声明他们不在场**，不是误认人物"}
+}

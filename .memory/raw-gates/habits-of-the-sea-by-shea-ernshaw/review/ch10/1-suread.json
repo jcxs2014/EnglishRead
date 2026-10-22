@@ -1,0 +1,150 @@
+{
+ "chapter": 10,
+ "source": "text/ch10_chapter_nine.txt",
+ "facts": [
+  {
+   "fact": "她划船离开岛；座下多了一支 Clay 偷偷用她几天前问过的那块木头削成的第二支桨（一端削平、一端收窄以卡进桨架）",
+   "span": [
+    683,
+    756
+   ],
+   "anchor": "A second oar—made from the piece of wood I had asked Clay about days ago."
+  },
+  {
+   "fact": "她划了一两小时，发现自己在想 Nana、想 James——却对 James 毫无感觉，只想着 Clay",
+   "span": [
+    3760,
+    3841
+   ],
+   "anchor": "I try to think of James. I try to feel some longing for his hands against my skin"
+  },
+  {
+   "fact": "祖母的话：「There is nothing more powerful than a woman who knows her worth—and won’t ever be convinced otherwise.」",
+   "span": [
+    5773,
+    5836
+   ],
+   "anchor": "There is nothing more powerful than a woman who knows her worth"
+  },
+  {
+   "fact": "她掉头划回岛；风暴来了，岛消失，她哀求「Take me back」，浪把她送回去",
+   "span": [
+    11062,
+    11096
+   ],
+   "anchor": "“Take me back,” I whisper, I plead"
+  },
+  {
+   "fact": "她进门说「I couldn’t leave」；Clay 说苏格兰语 drookit（浑身湿透）；她说不想回西雅图、不想回 James，要留在这里",
+   "span": [
+    14609,
+    14692
+   ],
+   "anchor": "“I don’t want to go back to Seattle, back to James. I want to stay here. With you.”"
+  },
+  {
+   "fact": "事后她等愧疚来，它没有来；她看着 James 的钻戒觉得「像一场骗局、戴错了人」",
+   "span": [
+    20988,
+    21044
+   ],
+   "anchor": "It feels like a hoax, like it was put on the wrong woman"
+  },
+  {
+   "fact": "几天后她把 James 的戒指摘下来，藏进床头抽屉最里面",
+   "span": [
+    24366,
+    24436
+   ],
+   "anchor": "I open the bedside drawer and tuck it in the far back, among the dust."
+  },
+  {
+   "fact": "Clay 醒来说「I want you here with me, on this island, in this house. I want you.」",
+   "span": [
+    22030,
+    22097
+   ],
+   "anchor": "I want you here with me, on this island, in this house. I want you."
+  },
+  {
+   "fact": "四个月过去，又过了五个月；两人一起种地、捞海藻烧盐",
+   "span": [
+    24659,
+    24686
+   ],
+   "anchor": "Four months pass, then five"
+  },
+  {
+   "fact": "她问起他的妻子（她心里叫 Alice，不敢说出口）；他说这块地是 Alice 家的，十英亩、传了三代",
+   "span": [
+    28770,
+    28796
+   ],
+   "anchor": "This was her family’s land"
+  },
+  {
+   "fact": "他说当年娶她是「该做的事」：她父亲去世、母亲撑不住；两人互相尊重，但不是书里那种爱",
+   "span": [
+    29175,
+    29255
+   ],
+   "anchor": "Marry her. Take care of the house, work the land as well as my own up the ridge."
+  },
+  {
+   "fact": "他说失去她「是惩罚」——罚他没有像应该的那样爱她",
+   "span": [
+    30068,
+    30138
+   ],
+   "anchor": "Not loving her like I should’ve. Not looking at her like she deserved."
+  },
+  {
+   "fact": "Clay 指出她还在看海平线、还在照看那条船：「Yer only half here」",
+   "span": [
+    33246,
+    33302
+   ],
+   "anchor": "Yer still thinking of leaving, Ellie. Yer only half here"
+  },
+  {
+   "fact": "他逼她二选一：「Ye don’t get to have both」——旧生活与这段生活",
+   "span": [
+    36151,
+    36176
+   ],
+   "anchor": "Ye don’t get to have both"
+  },
+  {
+   "fact": "他留下一句盖尔语「Whit’s fer ye’ll no go by ye」（命里属于你的不会错过），独自走开",
+   "span": [
+    37376,
+    37404
+   ],
+   "anchor": "Whit’s fer ye’ll no go by ye"
+  },
+  {
+   "fact": "冷战三天后他在门廊道歉；她说「I love you」；两人在门廊抱在一起",
+   "span": [
+    40382,
+    40409
+   ],
+   "anchor": "“I love you,” I dare to say"
+  },
+  {
+   "fact": "夜里她拉他下海游泳；他说她像 selkie（海豹精）",
+   "span": [
+    43168,
+    43189
+   ],
+   "anchor": "Ye look like a selkie"
+  },
+  {
+   "fact": "结尾：暗处出现一道微光、海平线上有灯——「We are not alone」",
+   "span": [
+    44077,
+    44119
+   ],
+   "anchor": "But a shiver of light appears in the dark."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "chapter": 1,
+ "source": "text/ch01_prologue.txt",
+ "facts": [
+  {
+   "fact": "1952 年 1 月末，外赫布里底（苏格兰西部）风暴；Saltwell 是 St. Magnus 湾沿岸的小社区",
+   "span": [
+    29,
+    33
+   ],
+   "anchor": "1952"
+  },
+  {
+   "fact": "Clay Lockhart 抱着刚死去的妻子冲出屋：金发、苍白、深色从腰以下浸透白睡袍的血",
+   "span": [
+    674,
+    755
+   ],
+   "anchor": "a body slumped and weighted in his arms: golden hair spilling from a pallid skull"
+  },
+  {
+   "fact": "他在自家崖边挖了一小时，把她埋下；再回屋取出“两个更小的身体”——只是两块石头，小如园中南瓜，“还没长成”",
+   "span": [
+    1410,
+    1471
+   ],
+   "anchor": "They were merely stones, tiny as garden squash, not yet ripe."
+  },
+  {
+   "fact": "邻居 Neil Hagdorn（脾气坏的牧羊人）听见地裂；众人以为是地震或巨人 Benandonner，但两者都不是",
+   "span": [
+    2569,
+    2612
+   ],
+   "anchor": "Neil Hagdorn heard the cracking of the land"
+  },
+  {
+   "fact": "天亮时白房子不见了，且不只是房子——整块地都不见了",
+   "span": [
+    3247,
+    3333
+   ],
+   "anchor": "But it wasn’t merely the house that had vanished. The entire plot of land was missing."
+  },
+  {
+   "fact": "此后流传的版本：他的悲伤把地面整个裂开，房子连同四公顷土地崩离大陆、漂进大西洋",
+   "span": [
+    4034,
+    4121
+   ],
+   "anchor": "causing the house and the four hectares of land it sat on to crack free of the mainland"
+  },
+  {
+   "fact": "水手发誓看见岛上有 Clay 在游荡，不愿离开他埋葬妻儿的地方",
+   "span": [
+    4487,
+    4582
+   ],
+   "anchor": "wandering the rocky shores of the island with no intention of calling out to the ships for help"
+  },
+  {
+   "fact": "岛被称作 Saltwell Island：幽灵船、被诅咒的一堆土地；后来警告淡去，有人猜他跳崖自尽",
+   "span": [
+    4666,
+    4759
+   ],
+   "anchor": "It’s known as Saltwell Island, a ghost ship, a fabled drifting island that should be avoided."
+  },
+  {
+   "fact": "数十年后，在异国的海岸线上，一个叫 Eleanor Mills 的女孩将登上这座岛：她因它被记住、也被遗忘",
+   "span": [
+    5416,
+    5503
+   ],
+   "anchor": "A girl named Eleanor Mills, whose life would veer off course on a rainy, tempest night."
+  }
+ ]
+}

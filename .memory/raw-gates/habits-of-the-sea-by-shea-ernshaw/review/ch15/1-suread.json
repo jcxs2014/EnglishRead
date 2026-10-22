@@ -1,0 +1,142 @@
+{
+ "chapter": 15,
+ "source": "text/ch15_chapter_fourteen.txt",
+ "facts": [
+  {
+   "fact": "离新斯科舍登岸、与 James 告别已三天；Clay 沉默，晚上不再伸手碰她",
+   "span": [
+    72,
+    123
+   ],
+   "anchor": "It’s been three days since we landed in Nova Scotia"
+  },
+  {
+   "fact": "她告诉了 Clay Nana 的死讯，但隐瞒了那张留言条——那是她欠下的欺瞒",
+   "span": [
+    1587,
+    1621
+   ],
+   "anchor": "But the note is a secret I’ve kept"
+  },
+  {
+   "fact": "Clay 自责：「I took everything, Ellie. I took yer whole life.」",
+   "span": [
+    3073,
+    3121
+   ],
+   "anchor": "I took everything, Ellie. I took yer whole life."
+  },
+  {
+   "fact": "他坦白当年岛上有船：她说想离开时他谎称没有退路；次日他把船拖到岸边准备放她走，夜里潮水把船带走了",
+   "span": [
+    5519,
+    5542
+   ],
+   "anchor": "There was a boat, Ellie"
+  },
+  {
+   "fact": "几个月后那船被洋流送回、缺一支桨——她曾千恩万谢的那条小船本来就是他的",
+   "span": [
+    7499,
+    7526
+   ],
+   "anchor": "The current brought it back"
+  },
+  {
+   "fact": "她说「You took the choice from me」，并拒绝他再替她决定离开",
+   "span": [
+    8485,
+    8512
+   ],
+   "anchor": "You took the choice from me"
+  },
+  {
+   "fact": "她交出留言条的秘密：署名 Ellie Wells-Lockhart 是「你的姓」，为了让 Nana 知道她找到了家",
+   "span": [
+    17324,
+    17362
+   ],
+   "anchor": "I signed the note Ellie Wells-Lockhart"
+  },
+  {
+   "fact": "她的选择被自己确认：「I chose this」，以及「Then don’t let go」",
+   "span": [
+    13527,
+    13540
+   ],
+   "anchor": "I chose this."
+  },
+  {
+   "fact": "此后五六个月没再见到大陆；她推算岸上已过去八九年、James 已六十多岁",
+   "span": [
+    23726,
+    23749
+   ],
+   "anchor": "Eight years, maybe nine"
+  },
+  {
+   "fact": "海底涌来成千上万条死鱼，宽达数英里、漂了四天才过完；Clay 猜是毒素或藻类",
+   "span": [
+    25964,
+    25992
+   ],
+   "anchor": "Thousands of them. All dead."
+  },
+  {
+   "fact": "三名自称美国海军的男人登岛：Admiral Kochek、First Officer Bosch、Langston",
+   "span": [
+    31117,
+    31135
+   ],
+   "anchor": "I’m Admiral Kochek"
+  },
+  {
+   "fact": "他们自报 USS Kingston；Kochek 的制服小了两号（裤脚短、扣子绷开）——不是他的制服，这些人不是他的部下",
+   "span": [
+    40749,
+    40792
+   ],
+   "anchor": "his uniform is at least two sizes too small"
+  },
+  {
+   "fact": "Kochek 说出年份：2062；并提到 Sarkak（旧称格陵兰）、还有劫船的海盗",
+   "span": [
+    35390,
+    35416
+   ],
+   "anchor": "Ma’am, it’s the year 2062."
+  },
+  {
+   "fact": "Clay 冲进客厅取步枪，两枪击中 Bosch（肩、胸）；Kochek 在搏斗中死去（上胸中弹或颅骨创伤，原文不确定）",
+   "span": [
+    44122,
+    44167
+   ],
+   "anchor": "the first shot piercing Bosch in the shoulder"
+  },
+  {
+   "fact": "Langston 把她拖上摩托艇；Clay 在岸上开枪打死 Langston，自己腹部中弹、子弹留在体内",
+   "span": [
+    49965,
+    50019
+   ],
+   "anchor": "The bullet went into his stomach, just below his ribs."
+  },
+  {
+   "fact": "她用缝纫线缝合他的伤口（线不是缝合线）；把三具尸体交给潮水，船最终转向西离开",
+   "span": [
+    51652,
+    51674
+   ],
+   "anchor": "I have to stitch it up"
+  },
+  {
+   "fact": "结尾他只说「I love ye」，她无话可说，只有眼泪",
+   "span": [
+    59036,
+    59061
+   ],
+   "anchor": "“I love ye,” he whispers."
+  }
+ ]
+}

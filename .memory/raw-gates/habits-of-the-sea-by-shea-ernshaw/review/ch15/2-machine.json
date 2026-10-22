@@ -1,0 +1,12 @@
+{
+ "chapter": 15,
+ "md": "ch15 there was a boat.md",
+ "chapter_sh": {"exit": 0, "blocks": 15, "quotes": 15, "fragments": 15, "miss": 0,
+   "empty_quotes": 0, "missing_subitems": 0, "keyword_fail": 0, "thin_chinese": 0, "template_boilerplate": 0,
+   "block_count_warn": "15 vs 建议 20–15（源建议上限越过硬限，取硬限 15，已登记）"},
+ "verify_quotes": {"book_level": "255/255 可核实（100%）", "file_level": "完全干净"},
+ "fragments_indep": {"book_level": "276 片段 / MISS 0", "chapter_note": "本章 15 块无 `…` 拼接"},
+ "vocab": {"check_vocab_fail": 0, "entries": 24},
+ "order": {"book_level": "缺陷 0 章"},
+ "summary_names": {"flags": 0}
+}
