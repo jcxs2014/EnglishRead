@@ -79,7 +79,7 @@ modified: "2026-10-22"
 
 ### ⭐⭐⭐ 高级
 
-| 词条 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | --- | --- | --- |
 | mortification | 羞耻、难堪 | "She straightened her shoulders, grinding the mortification underfoot." |
 | chagrin | 懊恼、悔恨 | "She thought about it now and again with deep chagrin." |
@@ -89,7 +89,7 @@ modified: "2026-10-22"
 
 ### ⭐⭐ 进阶
 
-| 词条 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | --- | --- | --- |
 | bemused | 困惑中带点好笑的 | "even as Hoi’s frown dissolved into a bemused smile" |
 | unruly | 不驯服的、难打理的 | "His queue was technically regulation, but something about his hair remained unruly, a knotted rope more than a braid." |
@@ -99,7 +99,7 @@ modified: "2026-10-22"
 
 ### ⭐ 常用
 
-| 词条 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | --- | --- | --- |
 | grubby | 脏兮兮的 | "tears wiped on his grubby sleeve" |
 | squint | 眯起眼睛看 | "Kiamling squinted, recognising the innkeeper." |
