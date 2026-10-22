@@ -169,6 +169,22 @@ def extract_quotes(txt: str):
         if len(flat_alpha(body)) >= 20 and body not in seen:
             seen.add(body)
             quotes.append(body)
+    # 2026-10-22 第四类：**行内引语**——既无 `>` 行首、也无编号/圈码标注，
+    # 英文引语直接嵌在中文段落里（`他的创伤一次性交底（"Married thirty-three
+    # years this summer…"）`）。此前这类整篇被报「口径外 ⇒ 未核」，
+    # 但引号内的文本**是可以核的**——抽出来逐条比对即可，没核 ≠ 不能核。
+    # 只收 is_quoteish 通过的片断（无中文 / ≥8 字母 / ≥3 词），避免把中文
+    # 引号跨对匹配出的假段当引语。
+    for raw in txt.splitlines():
+        s2 = raw.strip()
+        if not s2 or s2.startswith(">"):
+            continue
+        for q2 in re.findall(r'"([^"]{15,})"', s2):
+            if not is_quoteish(q2):
+                continue
+            if len(flat_alpha(q2)) >= 15 and q2 not in seen:
+                seen.add(q2)
+                quotes.append(q2)
     return quotes
 
 
@@ -259,6 +275,16 @@ def main(book_dir: str, epub_path: str = ""):
         nfiles += 1
         txt = open(f, encoding="utf-8").read()
         quotes = extract_quotes(txt)
+        # 2026-10-22：行内引语现在**会被抽出并逐条核**（见 extract_quotes 第四类）。
+        # 格式上仍不合 d2（应独立成行 `> "…"`），所以给一行提示，但不判红——
+        # 判据是「有没有核过」，不是「长什么样」。
+        _inline_n = sum(
+            1 for ln in txt.splitlines()
+            if not ln.strip().startswith(">")
+            and any(is_quoteish(q) and len(flat_alpha(q)) >= 15
+                    for q in re.findall(r'"([^"]{15,})"', ln)))
+        if _inline_n:
+            print(f"{name}: ⚠️ 行内引语 {_inline_n} 行（已核，但建议迁为 `> \"…\"（chNN）` 引用块）")
         if not quotes:
             # 2026-09-29 修正：原先一律「⚠️ 未提取到编号引语」后 `continue`，
             # 而文件既不计入 clean 也不计入 bad ⇒ 汇总行照样打
