@@ -1,0 +1,94 @@
+{
+ "chapter": 14,
+ "source": "text/ch14_chapter_thirteen.txt",
+ "facts": [
+  {
+   "fact": "她在岛上满一年：他点满蜡烛、从地窖取出藏了半年的威士忌，说“Anniversary”",
+   "span": [
+    3195,
+    3220
+   ],
+   "anchor": "“Ye’ve been here a year.”"
+  },
+  {
+   "fact": "蓝宝石戒指是他母亲戴过的、再往前是他祖母的；他说「I promise to take care of ye… Until the very end.」",
+   "span": [
+    5050,
+    5069
+   ],
+   "anchor": "Until the very end."
+  },
+  {
+   "fact": "他用盖尔语说「Tha goal agam ort」，原文自己给出翻译：I love you.",
+   "span": [
+    5682,
+    5699
+   ],
+   "anchor": "Tha goal agam ort"
+  },
+  {
+   "fact": "岛越漂越北、下雪；某个傍晚她在厨房窗边看见海上有光——灯塔、港口、一排房子",
+   "span": [
+    8083,
+    8111
+   ],
+   "anchor": "a lighthouse comes into view"
+  },
+  {
+   "fact": "她认出那道像弓一样弯回来的岸线，喊出「Nana」；他们划竹筏上岸",
+   "span": [
+    8780,
+    8822
+   ],
+   "anchor": "the soft slope of the shoreline like a bow"
+  },
+  {
+   "fact": "Nana 家门边那块陶牌还在：SANDY FEET WELCOME",
+   "span": [
+    13122,
+    13140
+   ],
+   "anchor": "SANDY FEET WELCOME"
+  },
+  {
+   "fact": "开门的是个陌生老人，他喊她「Ellie? Ellie… Mills?」",
+   "span": [
+    15930,
+    15942
+   ],
+   "anchor": "Ellie… Mills"
+  },
+  {
+   "fact": "他说已经过去「Twenty-two years, and a few months」",
+   "span": [
+    17731,
+    17766
+   ],
+   "anchor": "Twenty-two years, and a few months."
+  },
+  {
+   "fact": "Nana 四年前去世，房子留给了他；他替 Nana 每晚为她留灯",
+   "span": [
+    24465,
+    24498
+   ],
+   "anchor": "I still keep the light on for you"
+  },
+  {
+   "fact": "她说「This isn’t my life anymore. Not my timeline.」",
+   "span": [
+    26316,
+    26332
+   ],
+   "anchor": "Not my timeline."
+  },
+  {
+   "fact": "她留下一句「I’m not home. Not anymore.」并跑回竹筏",
+   "span": [
+    26137,
+    26163
+   ],
+   "anchor": "I’m not home. Not anymore."
+  }
+ ]
+}
