@@ -1,0 +1,55 @@
+{
+ "book": "habits-of-the-sea-by-shea-ernshaw",
+ "chapter": "ch02",
+ "text": "notes/books/novels/habits-of-the-sea-by-shea-ernshaw/text/ch02_chapter_one.txt",
+ "facts": [
+  {
+   "fact": "2007 年夏，新斯科舍像一排断牙从大西洋里被巨口顶出来，埃莉第一眼就讨厌它",
+   "anchor": "Nova Scotia rose up from the Atlantic as if it were a clot of broken teeth, forced from the maw of a giant mouth.",
+   "start": 41,
+   "end": 154
+  },
+  {
+   "fact": "母亲说这次安置最多两个月，等她在硅谷安顿好就来接她",
+   "anchor": "It was only supposed to be temporary.",
+   "start": 655,
+   "end": 692
+  },
+  {
+   "fact": "之后的四个月里母亲的信越来越少、再婚生子，却始终没叫她过去",
+   "anchor": "But she never asked me to come.",
+   "start": 1425,
+   "end": 1456
+  },
+  {
+   "fact": "祖母 June 说 Eleanor 太长，退潮时在浅滩间喊不动，改叫她 Ellie",
+   "anchor": "She said Eleanor was too long, not easily shouted over the crashing waves when we were out searching the shoals at low tide.",
+   "start": 1669,
+   "end": 1793
+  },
+  {
+   "fact": "住满一年后她给房间刷了奶油黄墙漆、从此改口自称 Nana",
+   "anchor": "After a whole year at Grandma June’s, she let me paint the walls of my room a warm buttercream yellow, and insisted I call her simply Nana.",
+   "start": 2767,
+   "end": 2906
+  },
+  {
+   "fact": "十二岁生日后那个秋夜，风暴里她听见金属刮擦岩石的刺耳声，以为是船触礁",
+   "anchor": "The grating, grinding wheeze of metal on rock. Of a ship coming aground, its bow tearing apart against the shallow boulders just off the cape.",
+   "start": 4573,
+   "end": 4715
+  },
+  {
+   "fact": "雨里她划着小艇出去，看见的不是搁浅的渔船，而是一座完整的岛",
+   "anchor": "It was a whole island.",
+   "start": 7729,
+   "end": 7751
+  },
+  {
+   "fact": "她在岛上只待了几个小时，回来后警察告诉她已经整整失踪一周",
+   "anchor": "that I had been missing for a whole week.",
+   "start": 8955,
+   "end": 8996
+  }
+ ]
+}
