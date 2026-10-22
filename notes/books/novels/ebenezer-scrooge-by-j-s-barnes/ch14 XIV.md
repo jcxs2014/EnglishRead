@@ -41,7 +41,7 @@ source_text: ch14
 
 **读者视角提示**：Marley 死后来过一次——once, just once；Beck 此刻用的是问句，他并不确定。而全场脸色最难看的是斯克罗吉。
 
-> **原句 3:** “He says that he did not expect to speak with you again. He says that he is… yes… that he’s proud of all that you’ve achieved.” … Scrooge, recovering from the shock of Beck’s pronouncement, gave Louisa a look of thin-lipped scepticism. … “That hardly sounds like Jacob.” … “He has watched you,” the medium went on. “He has seen much. But now…” … “What does this Marley fellow say now?”
+> **原句 3:** “He says that he did not expect to speak with you again. He says that he is… yes… that he’s proud of all that you’ve achieved.” … Scrooge, recovering from the shock of Beck’s pronouncement, gave Louisa a look of thin-lipped scepticism. … “That hardly sounds like Jacob.” … “He has watched you,” the medium went on. “He has seen much. But now…” “Yes?” said Leopold Talbot. “What does this Marley fellow say now?”
 
 **中文理解**："他说他没想到还能再与您说话。他说他是……是的……他说他为您所取得的成就感到骄傲。"斯克罗吉从震惊中恢复过来，向 Louisa 投去薄唇的怀疑目光："这听起来可不像雅各布。""他一直看着您，"灵媒继续说，"他看见了很多。但是现在……""那么？这位 Marley 先生现在说什么？"（其余叙述略）
 
@@ -101,7 +101,7 @@ source_text: ch14
 
 **读者视角提示**：作者明写旁观者中有"得意"——看客心理是本书反复出现的暗面。
 
-> **原句 9:** “Ebenezer… Ebenezer, pay me heed…” … The old man tottered to his feet. … Scrooge had seen much in his long life, though even he now wore an expression of astonishment. … “Jacob?” was all that he succeeded in saying. … Beck, or rather whatever entity it was which spoke through Beck, continued.
+> **原句 9:** “Ebenezer… Ebenezer, pay me heed…” The old man tottered to his feet. … Scrooge had seen much in his long life, though even he now wore an expression of astonishment. … “Jacob?” was all that he succeeded in saying. … Beck, or rather whatever entity it was which spoke through Beck, continued.
 
 **中文理解**："埃比尼泽……埃比尼泽，听我说……"老人踉跄着站起身。斯克罗吉一生见过许多事，然而此刻就连他也露出惊愕的神色。"雅各布？"他只说出了这一个词。Beck——或者说，那个借 Beck 说话的存在——继续往下说。（其余叙述略）
 

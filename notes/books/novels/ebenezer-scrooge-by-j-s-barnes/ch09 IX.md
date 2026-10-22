@@ -60,7 +60,7 @@ source_text: ch09
 
 **读者视角提示**：这里出现全章唯一一次"理性 vs 亲历"的交锋，而作者明显站在亲历一边——记住"by themselves"这个限定词，它为后文"另有原因"留了门。
 
-> **原句 5:** There were three incidents, gentlemen. The first of them took place on our first night there. … The room was empty except for a large, ornate silver mirror which had been set above the fireplace on the wall. … Something neither hard nor soft but rather, somehow… brittle. It happened once, twice, three times. … until I had no choice but to wake and to open my eyes and to see that the bed and all around me was covered with…” … Covered with leaves. Autumn leaves, of dark yellow and brown.”
+> **原句 5:** There were three incidents, gentlemen. The first of them took place on our first night there. … The room was empty except for a large, ornate silver mirror which had been set above the fireplace on the wall. … Something neither hard nor soft but rather, somehow… brittle. It happened once, twice, three times. … until I had no choice but to wake and to open my eyes and to see that the bed and all around me was covered with…” She stopped speaking, then sighed and looked at the two men. “Covered with leaves. Autumn leaves, of dark yellow and brown.”
 
 **中文理解**：她把话说明确：她在那儿所见有三件事，第一件发生在抵达的第一个晚上。她被安排在最高一层的大房，家具很少，只放了一张窄床；房间里唯一的陈设是壁炉上方一面大而华丽的银镜。夜里她被唤醒：有什么东西在触碰她的脸，既不硬也不软，而是某种说不清的……脆；这发生了一次、两次、三次。她以为是自己在做梦，但事情没有停，反而愈发强烈，直到她不得不醒来睁眼，看见床和四周都铺满了——她停下话，叹了口气看着两位先生——铺满了叶子，深黄与褐色的秋叶。（其余叙述略）
 
