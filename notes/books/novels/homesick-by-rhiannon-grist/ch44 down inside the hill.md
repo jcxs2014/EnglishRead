@@ -57,7 +57,7 @@ source_text: ch44
 
 **关键词**：Stay in the house / Find the breach / Down inside the hill
 
-**为什么这样写**：三个"back"把她的路线写成一次逆行的过程：back into the house、back past the body、back to the door。最后"Down inside the hill"独立成句，是全书少见的分行式收尾——她不是被推进去的，是自己走进去的。
+**为什么这样写**：三个"回到"把她的路线写成一次逆行：回到屋里、经过那具身体、回到楼梯下那道门。最后一句"下到山里面"独立成句，是全书少见的分行式收尾——她不是被推进去的，是自己走进去的。
 
 **读者视角提示**：Callie-Ann 的声音是"随着风"来的。全书里凡是给她指路的话，都来得很轻、很像她自己的念头。
 ## 本章词汇
