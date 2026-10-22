@@ -1,0 +1,55 @@
+{
+ "book": "the-hexing-miss-helena-by-darcy-mcguire",
+ "chapter": "ch06",
+ "text": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch06_chapter_6.txt",
+ "facts": [
+  {
+   "fact": "海伦娜坐在布莱尔家女性世代相传的樱桃木桌旁。",
+   "anchor": "Helena sat at the cherry wood table passed down to the Blair women",
+   "start": 44,
+   "end": 110
+  },
+  {
+   "fact": "罗温姑妈把一杯热蒲公英茶放到海伦娜面前，想冲开堵塞她能力的东西。",
+   "anchor": "Aunt Rowan placed a steaming cup of dandelion tea in front of Helena",
+   "start": 781,
+   "end": 849
+  },
+  {
+   "fact": "埃莉说海伦娜的气场有些雾蒙蒙的。",
+   "anchor": "Your aura is a little foggy",
+   "start": 2207,
+   "end": 2234
+  },
+  {
+   "fact": "海伦娜仍能操控自己的元素（水），但唯独读不到辛西娅的念头。",
+   "anchor": "I can still control my element",
+   "start": 3948,
+   "end": 3978
+  },
+  {
+   "fact": "海伦娜承认自己讨厌辛西娅，理由之一是辛西娅把克莱奥从她们身边带走。",
+   "anchor": "She has taken Clio away from us",
+   "start": 8681,
+   "end": 8712
+  },
+  {
+   "fact": "埃莉主动替海伦娜上明天的班，好让她陪拉克兰叔叔去问话。",
+   "anchor": "she had volunteered to cover Helena’s shift on the morrow",
+   "start": 6280,
+   "end": 6337
+  },
+  {
+   "fact": "辛西娅把旧裙匆匆染黑，为丈夫服丧。",
+   "anchor": "Cynthia couldn’t stop rubbing the uneven streaks of black staining her skirt",
+   "start": 11557,
+   "end": 11633
+  },
+  {
+   "fact": "海伦娜在问话中向辛西娅承认自己能读心。",
+   "anchor": "I read thoughts, Lady Burrows.",
+   "start": 19584,
+   "end": 19614
+  }
+ ]
+}

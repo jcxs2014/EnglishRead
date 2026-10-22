@@ -1,0 +1,55 @@
+{
+ "book": "the-hexing-miss-helena-by-darcy-mcguire",
+ "chapter": "ch07",
+ "text": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch07_chapter_7.txt",
+ "facts": [
+  {
+   "fact": "海伦娜从小遵守三条家规，第一条是不向血亲和巫团以外的人透露能力。",
+   "anchor": "Don’t reveal your powers to anyone outside of kin and coven",
+   "start": 222,
+   "end": 281
+  },
+  {
+   "fact": "她想起上一次信任外人后毁掉整个世界的禁忌记忆。",
+   "anchor": "A forbidden memory of the last time she trusted an outsider",
+   "start": 618,
+   "end": 677
+  },
+  {
+   "fact": "辛西娅打开吊坠后说，这已经不是她的项链。",
+   "anchor": "This is not my necklace.",
+   "start": 3860,
+   "end": 3884
+  },
+  {
+   "fact": "吊坠里与休伯特相对的女子不是辛西娅。",
+   "anchor": "the woman opposite is most certainly not me",
+   "start": 4114,
+   "end": 4157
+  },
+  {
+   "fact": "拉克兰推断休伯特把原本给辛西娅的吊坠送给了别人。",
+   "anchor": "He gave your locket to someone else.",
+   "start": 4425,
+   "end": 4461
+  },
+  {
+   "fact": "他们在休伯特房间撞见一个压低礼帽、正在偷画的年轻男子。",
+   "anchor": "A young man, bowler hat pulled low over his eyes",
+   "start": 6489,
+   "end": 6537
+  },
+  {
+   "fact": "账本显示休伯特欠神秘的 DOSD 一大笔钱。",
+   "anchor": "Hubert owed the mysterious DOSD a very large amount indeed",
+   "start": 12711,
+   "end": 12769
+  },
+  {
+   "fact": "章末信上写着期限已过，要么履约，要么还清债务。",
+   "anchor": "The deadline has passed. Fulfil your bargain or pay your debt in full.",
+   "start": 17972,
+   "end": 18042
+  }
+ ]
+}
