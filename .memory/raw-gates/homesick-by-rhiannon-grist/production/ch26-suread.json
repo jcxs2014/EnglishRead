@@ -4,49 +4,49 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch26_chapter_26.txt",
  "facts": [
   {
-   "fact": "她沿着长满草的石子路走回 Sgàthan Sìth 那排小屋，把钥匙插进自己那扇门——这次真是她的门，换了新锁，门板上还有几道陌生的刮痕",
-   "anchor": "my door this time, very much my door with its new lock and strange scratches down the front",
-   "start": 157,
-   "end": 248
+   "fact": "塔姆辛走上 Sgàthan Sìth 小屋的石子路回家，开的是“自己的门”——新换的锁、门面上还有奇怪的划痕，屋里一片黑。",
+   "anchor": "I put my key in the door—my door this time, very much my door with its new lock and strange scratches down the front—and returned to the darkness within.",
+   "start": 132,
+   "end": 285
   },
   {
-   "fact": "她借用“厨房是家的心脏”这句俗语，判断这间只有冰箱、灶台和几个柜子的厨房算不上一颗心脏，这地方没有心跳、没有血",
-   "anchor": "They say the kitchen is the heart of the home.",
+   "fact": "她觉得这屋子没有“家”的气息：炉火灭了，厨房只有冰箱、灶台和几个柜子，房子“无心无血”，偏偏这正是她想要的、理应完美的。",
+   "anchor": "They say the kitchen is the heart of the home. Does that still count when your kitchen isn’t much more than a fridge, a hob and a few cupboards?",
    "start": 895,
-   "end": 941
+   "end": 1039
   },
   {
-   "fact": "她先前把 1a 想成整洁的杯垫或积灰的报堆，现在改想成暖炉、格子呢靠垫和一块尺寸正好的地毯",
-   "anchor": "My earlier idea of neat doilies or dusty newspaper piles was replaced by a warm fireplace, tartan cushions, a nice rug.",
-   "start": 1420,
-   "end": 1539
+   "fact": "她想象 1a 的厨房：不止冰箱灶台柜子，还有整洁的 range cooker、吊挂铜锅、中岛、窗台香草、铁闩上的捕光坠。",
+   "anchor": "Her kitchen would have more than a fridge, a hob and a cupboard. There’d be a tidy range cooker.",
+   "start": 1859,
+   "end": 1955
   },
   {
-   "fact": "她借多利羊和它的供体想事：那个被克隆出来的、更年轻更特别的自己拿走了所有关注、照料和食物",
-   "anchor": "feeling envious of the attention, the care, the food Dolly got",
-   "start": 3570,
-   "end": 3632
+   "fact": "她由多莉羊想到其供体母羊，疑问供体有没有名字，并揣想供体嫉妒多莉得到的关注与照料。",
+   "anchor": "Did Dolly’s donor even have a name?",
+   "start": 3484,
+   "end": 3519
   },
   {
-   "fact": "邻居翻柜门的震动穿过地板、床垫一直传进她耳朵，她把连帽衫当枕头压住头、用胳膊肘夹住耳朵也没用",
-   "anchor": "I could still feel the vibration of the cupboards opening and closing through the floor and through the mattress and into my ears.",
-   "start": 5673,
-   "end": 5803
+   "fact": "她进而揣想：多莉死时，供体母羊也许暗暗高兴。",
+   "anchor": "Maybe she was secretly glad when Dolly died.",
+   "start": 3756,
+   "end": 3800
   },
   {
-   "fact": "她把睡袍当床单拉到脖子，侧过身蜷起膝盖；过一会儿又用一只手臂环住自己的肩、搓自己的背，直到困得顾不上难为情",
-   "anchor": "I pulled my dressing gown bedsheet up to my neck, rolled onto my side and tucked up my knees.",
-   "start": 4217,
-   "end": 4310
+   "fact": "隔壁脚步声清晰得可怕，她怀疑地下室里“看见”邻居的画面只是听到声音后自己脑补的幻觉。",
+   "anchor": "Maybe that’s what had triggered my vision of her in the basement.",
+   "start": 5303,
+   "end": 5368
   },
   {
-   "fact": "她说在爱丁堡时这类深夜噪音两月一次，最难忍受的是自己无能为力：她一次次说服自己过去敲门，又一次次预演出自己被嘲笑或被威胁的下场",
-   "anchor": "The worst part was always the powerlessness of it.",
-   "start": 7988,
-   "end": 8038
+   "fact": "半夜十二点已过，隔壁传来她不认识的节拍，她抓手机看时间并恼怒邻居深夜放音乐。",
+   "anchor": "It was gone midnight!",
+   "start": 7453,
+   "end": 7474
   },
   {
-   "fact": "她冲下楼拉开门冲楼上吼，抬头看见的是黑着灯、安安静静的空房子：客厅里没有人，没有舞曲，最吵最扰人的东西是她自己",
+   "fact": "她冲出门大喊“闭嘴”后，发现对面房子漆黑安静、无人无乐——最吵、最扰人的其实是她自己。",
    "anchor": "The loudest, most disruptive thing was me.",
    "start": 11278,
    "end": 11320

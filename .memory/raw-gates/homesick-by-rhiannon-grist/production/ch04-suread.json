@@ -4,52 +4,52 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch04_chapter_4.txt",
  "facts": [
   {
-   "fact": "她在干涩的喉咙里呛醒，一时想不起自己在哪，伸手摸到身后那面把石屋一分为二的墙，昨夜那边的窸窣已经安静",
-   "anchor": "There was the wall that split the cottage in two, quiet now after all the rustling and commotion from last night.",
-   "start": 368,
-   "end": 481
+   "fact": "她惊醒，一口抽气卡在干嗓里；花了一点时间才想起自己在哪；卧室依旧空荡，灰光从天窗漏进来；她伸手往后摸到那堵把石屋一分为二的墙，昨夜整晚的窸窣与动静此刻安静了",
+   "anchor": "I jumped awake, choking on a gasp that stuck in my dry throat.",
+   "start": 13,
+   "end": 75
   },
   {
-   "fact": "她往窗外看，隔壁 1a 那半草坪一夜之间被修得整整齐齐：交替的条纹、九十度的直角、没有一根杂草——而昨天明明没割",
+   "fact": "她走到窗前，看见 1a 那半边前草坪已被修得整整齐齐：绿得完美、留着一道道像庄园照片里的交替条纹、四角是笔直的九十度，不见一根杂草或蓟；她确信昨天绝不是这样——她清楚记得自己昨天还想\"我这半边割过、1a 那半边没割\"",
    "anchor": "1a’s side of the front lawn was now neatly mown.",
    "start": 729,
    "end": 777
   },
   {
-   "fact": "她在心里自问自答（\"出了什么事，Tamsin？\"\"邻居的草坪被割了\"），最后决定该去打个招呼",
-   "anchor": "I pressed my lips together. It was time I said hello.",
-   "start": 1947,
-   "end": 2000
+   "fact": "她心里自问自答：怎么了 Tamsin？邻居的草坪被割了。那有什么奇怪？昨天不是这样。那不是好事吗？我不知道，感觉不像好事。最后一句自嘲：姑娘，你该多出门了",
+   "anchor": "What’s wrong, Tamsin?",
+   "start": 1301,
+   "end": 1322
   },
   {
-   "fact": "她在门口反复预演开场白，把\"Hi\"和\"Hi there\"来回推翻，怕自己听起来古怪或端着架子",
-   "anchor": "I knocked on the door and mentally prepared for what I would say.",
-   "start": 2394,
-   "end": 2459
+   "fact": "她看手机：早上十点；她替邻居找理由——也许昨夜动静就是为了割草，也许他们因自家草坪凌乱而难堪、也许我这个外人来了才让他们在意；她决定该去打个招呼，吃掉最后一点薯片和葡萄、把油头发尽量编整齐，出门结识新邻居",
+   "anchor": "I checked my phone. Ten o’clock in the morning.",
+   "start": 1532,
+   "end": 1579
   },
   {
-   "fact": "门开一条缝，黑暗里只看得见半张脸：一只圆而湿润、不眨的眼睛，垂着的长发，微微恳求的斜眉——那轮廓让她觉得奇怪地熟悉",
-   "anchor": "Something oddly familiar.",
-   "start": 3920,
-   "end": 3945
+   "fact": "门在她没准备好时开了一道黑缝；黑暗里只辨出半张脸：一只能看见的圆而水润、不眨的眼睛，一道微斜、略带恳求的眉毛，垂在肩头的扁塌长发；她觉得这张脸的形状、这人的姿态有种古怪的熟悉，却想不起在哪见过；对方声音很小、隔着门发闷，她凭音高假定是\"她\"，猜她与自己年纪相仿",
+   "anchor": "In the darkness inside, I could just make out half a face.",
+   "start": 3391,
+   "end": 3449
   },
   {
-   "fact": "对方伸出一只软塌塌的手，握手正常，只是有点湿、有点凉；她原以为会被拽进黑暗，或被牙齿像捕鼠夹一样咬住手腕",
-   "anchor": "But no sudden yank into the dark.",
-   "start": 4499,
-   "end": 4532
+   "fact": "握到那只绵软、微湿、微凉的手后，她一路幻想：也许有个邻居也不错，两个女人在乡下过最好的生活，她做外向热闹的阳、对方做安静深思的阴；一起在树下野餐、在门廊喝茶、万圣节发自家果园的太妃苹果、苹果里藏小纸条；甚至成为恋人、结婚，把两家之间的墙打通，让 Sgàthan Sìth 重新合一——握手还没结束，她已经在心里结完婚了",
+   "anchor": "Perhaps we’d even become lovers—I’m not closed to the idea, opposites attract.",
+   "start": 5290,
+   "end": 5368
   },
   {
-   "fact": "握手的几秒里她已经把两人的友谊、野餐、万圣节太妃糖苹果、甚至结婚和打通两栋房子都想了一遍",
-   "anchor": "And when we married, we’d knock down the walls between our two homes and Sgàthan Sìth would be one again.",
-   "start": 5369,
-   "end": 5474
+   "fact": "她问邻居昨夜是否听得见墙这边的声音，邻居朝那堵墙看了一眼、像第一次意识到它存在，然后摇头；Tamsin 顺口提出要开车去村里、问对方要不要带什么（说完立刻后悔）；邻居道谢并说\"你真是慷慨\"，又问\"你要不要进来\"；门开得更大，屋里却丝毫没亮起来，邻居仍把自己藏在门后，只露那一角脸；Tamsin 看见门边她嘴角在笑",
+   "anchor": "She pulled the door further open, which oddly did nothing to illuminate the inside.",
+   "start": 6280,
+   "end": 6363
   },
   {
-   "fact": "她终究没进屋，对方把门轻轻关上；她忘了问电怎么开，也忘了请对方八点后安静，只好背着包走四十分钟去村里，风吹榆树叶像掌声把她送下台",
-   "anchor": "like a small audience clapping me off stage.",
-   "start": 8948,
-   "end": 8992
+   "fact": "她推说只是来打个招呼、不进屋；邻居说\"哦，好吧。你好\"，然后利落又迅速地关上门；Tamsin 在门口站了一会儿、有点失落，随后走开；她走到车边才想起挡风玻璃已碎成渣，也想起忘了问怎么通电、忘了请对方八点后安静；她回 1b 把背包倒空、装上笔记本电脑和充电线，步行去最近的村子——四十分钟；路上她想父亲总说她对人期待太多，而榆树叶在风里轻响，像一小群观众把她嘘下台",
+   "anchor": "It would be a forty-minute walk to the nearest village.",
+   "start": 8173,
+   "end": 8228
   }
  ]
 }

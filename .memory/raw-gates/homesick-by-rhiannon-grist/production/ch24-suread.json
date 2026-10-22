@@ -4,61 +4,49 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch24_chapter_24.txt",
  "facts": [
   {
-   "fact": "巷口那股气味先撞上来：酒馆整面石墙被一层粗硬的薄叶爬满，酒桶桌旁聚着一桶桶长茎香草，潮湿空气里全是浓香",
-   "anchor": "A coarse coat of flat, thin leaves climbed and covered the old stones of the pub.",
-   "start": 762,
-   "end": 843
+   "fact": "才刚过午后，塔姆辛带着宿醉却极想喝一杯（前一晚在 Curtyard 喝醉）。",
+   "anchor": "It was barely afternoon and despite my hangover I found myself desperately needing a drink.",
+   "start": 189,
+   "end": 280
   },
   {
-   "fact": "她踮脚靠近，认出茴香和迷迭香——迷迭香竟爬满了那块破旧的 Curtyard 招牌；她记得昨晚它们不在那儿，也不记得迷迭香是会爬藤的",
-   "anchor": "I didn’t think rosemary was a climber.",
-   "start": 1462,
-   "end": 1500
+   "fact": "她伸手想摸叶子，认出气味是茴香与迷迭香便缩手；酒吧外墙一夜之间爬满香草绿植， rosemary 甚至爬过破招牌。",
+   "anchor": "Reaching out, I stopped as I identified the smells. Fennel. And rosemary?",
+   "start": 1239,
+   "end": 1312
   },
   {
-   "fact": "她在门口停住，掂量进酒馆是自证其罪还是显得坦荡；心里的声音回她：有罪的人当然会在门外鬼鬼祟祟磨蹭半天",
-   "anchor": "Do guilty people go to the pub?",
-   "start": 1698,
-   "end": 1729
+   "fact": "童年记忆转折：几年后父母的朋友 Graysons 夫妇离婚。",
+   "anchor": "Of course, that all changed a few years later when the Graysons divorced.",
+   "start": 2591,
+   "end": 2664
   },
   {
-   "fact": "白天的酒馆让她想起小时候父母常去的乡下酒馆：黏腻的栗色地毯、发黏的深色木桌、角落发光的水果机；她被塞上冰可乐和盐醋薯片，赶去花园里的攀爬架和滚烫的金属滑梯",
-   "anchor": "I’d be plied with bottles of cold, sweet cola and packets of salt and vinegar crisps",
-   "start": 2212,
-   "end": 2296
+   "fact": "母亲解释 Graysons 父母不再在一起，要她让两个女孩“分一点爸爸”。",
+   "anchor": "“Their parents aren’t together anymore,” my mum explained,",
+   "start": 3133,
+   "end": 3191
   },
   {
-   "fact": "转机是父母的 friends Graysons 夫妇离婚：他们去调解时，父母替他们照看两个金发女儿 Lucy 和 Laura-Ann；从此去酒馆，妈妈在阴凉处抽烟看饮料，爸爸抱着两个女孩一前一后荡秋千，笑声撞在红砖上，她站在旁边等轮到自己",
-   "anchor": "so you should let them share your dad for a bit.",
-   "start": 3193,
-   "end": 3241
-  },
-  {
-   "fact": "轮到她荡秋千时，爸爸却去陪那两个女孩玩滑梯；那个夏天晚些时候，他给她们买了一只黄风筝——正是她从春天生日起一直想要的那只；她打了自己手背一下，骂自己别溺在自怜里",
+   "fact": "同年夏天父亲买了黄风筝给那两个女孩——正是她从春天生日起一直想要的那只。",
    "anchor": "Later that summer he bought them a yellow kite.",
    "start": 3381,
    "end": 3428
   },
   {
-   "fact": "酒馆右侧吧台围了一群人，每次欢呼就举杯敲空气：人群中间一个女人单脚站立，格子围巾蒙着眼睛当蒙眼布，一手端啤酒一手拿塑料\"o\"圈",
+   "fact": "酒吧中央一个女人单脚站立、用格纹围巾蒙眼，边喝啤酒边掷塑料圈套酒瓶。",
    "anchor": "A woman stood on one bare foot with a tartan scarf wrapped around her eyes like a blindfold.",
    "start": 4067,
    "end": 4159
   },
   {
-   "fact": "她笑着骂\"闭嘴，你们这些混蛋\"，说自己\"正忙着非常重要的事\"；她仰头灌一口、手腕一抖，圈无声飞出，稳稳套住架子上最贵那瓶威士忌的瓶颈，人群炸开欢呼",
-   "anchor": "She raised the ‘o’ in her hand, tilted back her pint glass to gulp, then flicked her wrist.",
-   "start": 5480,
-   "end": 5571
-  },
-  {
-   "fact": "她扯下围巾尖叫\"我做到了\"，光脚跳进最近的人怀里；叙述者僵在原地、全身发冷——那女人解开人群时露出一道白疤，正在左额弯处",
+   "fact": "女人扯下围巾后，左额弧线处有一道白疤——塔姆辛由此认出她。",
    "anchor": "A white scar shone along the left-hand curve of her forehead.",
    "start": 6449,
    "end": 6510
   },
   {
-   "fact": "她比昨晚更\"精致\"：定制的白丝衬衫、剪裁极好的黑裤、打理得蓬松的头发、酒红指甲；她礼貌地向帮她捡鞋的人微笑（一双带粗花呢滚边的威灵顿靴），目光随后直直落到叙述者身上，脸先僵住，然后嘴越咧越开，直到露出每一颗牙：\"很高兴见到你，邻居。\"",
+   "fact": "章末：那女人直视塔姆辛，说“很高兴见到你，邻居”，点明她就是隔壁邻居。",
    "anchor": "“Good to see you,” she said, “neighbour.”",
    "start": 7258,
    "end": 7299

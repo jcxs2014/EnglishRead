@@ -4,61 +4,49 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch17_chapter_17.txt",
  "facts": [
   {
-   "fact": "邻居倒下之后的事她记不清了：只记得冲上楼、把能找到的东西堆在卧室门口、窗外夜空在醉意里摇晃，然后一片黑",
-   "anchor": "I remembered throwing myself up the stairs.",
-   "start": 81,
-   "end": 124
+   "fact": "开篇：邻居“从门里跌进来”之后她几乎不记得什么，只记得自己冲上楼、把家当堆在卧室门后，然后是一片黑暗",
+   "anchor": "I didn’t remember much after my neighbour fell through the door.",
+   "start": 14,
+   "end": 78
   },
   {
-   "fact": "醒来先是几秒钟的宽限：躺在晨光里，用脚趾和指尖慢慢找回世界——然后她想起来自己做了什么，猛地坐起，头痛像一根钉子",
-   "anchor": "When I woke, I was gifted a few seconds of grace",
-   "start": 291,
-   "end": 339
-  },
-  {
-   "fact": "她把自己抱成一团，穿着昨晚的衣服，那件漂亮的 Aran 毛衣扔在旁边、一股呕吐味；她开始替自己辩护：不怪我、我控制不了、我醉了、天很黑、是她从背后靠近我",
-   "anchor": "It’s not my fault, I told myself. I couldn’t be responsible.",
+   "fact": "她醒后自我开脱：不是我的错、我不清醒、我醉了、天很黑、她从背后冒出来；还反问“她到底在我地下室里干什么”",
+   "anchor": "It’s not my fault, I told myself. I couldn’t be responsible. I wasn’t with it. I was drunk. It was dark. She snuck up behind me. What was she even doing in my basement?",
    "start": 1028,
-   "end": 1088
+   "end": 1196
   },
   {
-   "fact": "她在脑子里预演：我是在家劈柴，有人从黑暗里吓我，我一惊、一挥——这是自卫、是可怕的事故；她甚至想象警察同情地点头、陪审团理解地看着她",
-   "anchor": "I could see my defence.",
-   "start": 1199,
-   "end": 1222
+   "fact": "她在脑中预演正当防卫叙事：警察同情地点头、陪审团表示理解，把这事想成“没人有错的可怕意外”",
+   "anchor": "I could see the police officer nod sympathetically, the jury look at me with understanding.",
+   "start": 1402,
+   "end": 1493
   },
   {
-   "fact": "但她也知道没人看得见她的念头：动念之前她有多紧、多愤怒——气那些电脑后的冷笑脸、气 Fergus 的讥笑、气邻居的贴近和笑、气自己被人拿捏、气自己可能把 Rowan 和留在这里的机会都吓跑了",
-   "anchor": "They wouldn’t see my thoughts.",
-   "start": 1554,
-   "end": 1584
+   "fact": "她自责的核心是弃之不顾：邻居倒下后她整夜逃走，没查看来人、没报警、没叫救护车",
+   "anchor": "I’d just left her. She’d fallen through the door and I’d left her.",
+   "start": 2445,
+   "end": 2511
   },
   {
-   "fact": "她还能感到斧柄随着劈砍的力道震上手臂，于是问自己：这真是意外，还是你就是崩了？",
-   "anchor": "Or did you just snap?",
-   "start": 2147,
-   "end": 2168
+   "fact": "她下地下室准备面对血腥，结果毫无破坏、没有血迹，地下室只是积灰、昏暗、寒冷",
+   "anchor": "No destruction. No gore. Just a basement, dusty and dim and cold.",
+   "start": 3460,
+   "end": 3525
   },
   {
-   "fact": "她下楼准备面对血和内脏，结果什么都没有：满地乱砍的木头和尖木刺、斧头躺在原地、墙里的门还是封着的、一滴血也没有",
-   "anchor": "There was nothing.",
-   "start": 3116,
-   "end": 3134
-  },
-  {
-   "fact": "混凝土地面中央有一点金属反光：一枚又粗又弯的针，比祖母针线盒里的细针重得多、结实得多，能用来缝皮革——她想到 Fergus 讲的皮革匠，原来那故事里有真东西",
+   "fact": "混凝土地面中央有一点金属反光，她捡起的是一根粗大弯曲的缝针（可缝皮革）",
    "anchor": "A thick, curved needle.",
    "start": 4445,
    "end": 4468
   },
   {
-   "fact": "她把针收进口袋，躺在地板上，让宽慰和恶心、头痛一起涌上来：没有怪物、没有血、没有尸体，只有一枚旧针和宿醉；她开始相信自己只是挥空了、吓到了自己",
-   "anchor": "But now I had the needle in my pocket.",
-   "start": 5738,
-   "end": 5776
+   "fact": "这根针改变她对 Fergus 所讲“皮革匠”故事的态度：原以为全是他编的，现在看来确有其事",
+   "anchor": "I’d assumed he’d just made the whole thing up, but clearly there was some truth to his story.",
+   "start": 4776,
+   "end": 4869
   },
   {
-   "fact": "她贴墙听隔壁：今天安静得反常，头一晚每个吱呀声都听得见；她替邻居找理由——也许只是宿醉在睡——最后一句话把这个理由戳破：也许她正冷冷地躺在地下室地板上",
+   "fact": "结尾她贴共用墙听，邻居那边一片寂静；她一边安慰自己“大概只是宿醉在睡”，一边想到“也许她正冷冰冰躺在她家地下室地板上”",
    "anchor": "Or maybe she’s lying cold on the floor of her basement.",
    "start": 6496,
    "end": 6551

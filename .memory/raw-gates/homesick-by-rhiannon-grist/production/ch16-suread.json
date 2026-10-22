@@ -4,58 +4,52 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch16_chapter_16.txt",
  "facts": [
   {
-   "fact": "她继续喝，为了让\"玩笑\"继续下去又点了两轮；觉得自己至少不那么\"不像人\"，正变成一个随和、外向、温暖的人；后来记不清喝了什么，只记得 Rowan 手机又响、端来一壶水",
-   "anchor": "I was becoming someone better!",
-   "start": 287,
-   "end": 317
+   "fact": "午夜酒劲到顶，微醺变眩晕恶心；她趁 1a 邻居没再露面偷偷溜出 The Curtyard，怕被抓住一起走回家，也不确定有没有跟 Rowan 道别。",
+   "anchor": "Around midnight, my inebriation reached its peak and my happy buzz quickly turned to dizzying nausea.",
+   "start": 532,
+   "end": 633
   },
   {
-   "fact": "午夜她醉到恶心，趁邻居没出现偷偷溜出酒馆，独自走夜路回家——没有路灯、没有月亮，只有深蓝天空和远处星点；她想到如果有人在（或有什么在）暗处看着她，会看到一个醉女人在路中间摇来晃去、几次撞进树篱",
-   "anchor": "How I must have looked to someone—or something—watching, unseen.",
-   "start": 1155,
-   "end": 1219
+   "fact": "她独自醉着走夜路回家（清醒时绝不敢），对自己说\"这是我的家，我不怕自己的家\"，并想象某个看不见的「人——或东西」眼里她是什么样子。",
+   "anchor": "In the still air, my shambling footsteps echoed for miles.",
+   "start": 1441,
+   "end": 1499
   },
   {
-   "fact": "她摸钥匙开门，拧不动，手柄的手感也不对；抬头发现门上写着\"1a\"——走错了门，她对着漆黑的窗户说\"抱歉，走错屋了\"，然后笑到跪在地上",
-   "anchor": "I looked up. The door said ‘1a’.",
-   "start": 3167,
-   "end": 3199
+   "fact": "酒后在脑子里重播酒馆对话：后悔那么快认下第二杯、还两杯都尝了一口；怪 Fergus 把她搅乱；随后想到克隆羊 Dolly——她在博物馆见过，死了、制成标本、在小转台上转个不停，随即呕吐。",
+   "anchor": "I saw Dolly at the museum. Dead. Stuffed and dead.",
+   "start": 2155,
+   "end": 2205
   },
   {
-   "fact": "进屋开灯被刺得眯眼；电终于通了，但满屋亮光让她觉得自己暴露了，\"我的窗户是一座灯塔，我的位置被标在地图上\"；她想拉窗帘，发现根本没有窗帘，只能在手机里记下\"CUYRTASIN\"（拼错的 Curtyard）",
-   "anchor": "My windows were a beacon.",
-   "start": 3997,
-   "end": 4022
+   "fact": "她扶着树篱呕吐，树篱却又硬又滑——原来是汽车尾部；她吐在车后轮下，车身挡风玻璃全碎，她断定是废车。",
+   "anchor": "Only the hedge had turned hard and smooth. The back end of a car.",
+   "start": 2319,
+   "end": 2384
   },
   {
-   "fact": "屋里比外面还冷，暖气片冰凉，她今天没给锅炉添柴；抓了斧头下地下室，楼梯在眼前摇晃，斧刃还砍进过楼梯板；她用手把旧灰掏到地上、塞进一把引火物——引火物不知何时已经着了，她不记得自己伸手拿过火柴",
-   "anchor": "At some point the tinder was alight, though I couldn’t remember reaching for a match.",
-   "start": 5355,
-   "end": 5440
+   "fact": "钥匙第三次才插进锁孔却拧不动，门把手手感也与先前不同，抬头看见门上写着 \"1a\"——她走错了门；随后笑得跪倒，捂嘴时漏出的笑声像放屁（正像昨天老头那个）。",
+   "anchor": "The door said ‘1a’. I almost fell back down the step.",
+   "start": 3180,
+   "end": 3233
   },
   {
-   "fact": "柴太长塞不进炉口，得先劈；她想\"要是我清醒，就会知道这主意多糟\"，但她是\"能照顾自己的女人\"\"能劈柴的女人\"；一边劈一边回想 Fergus 的冷笑和邻居的贴近，想到自己在别人桌边\"悬\"过的每一次、事后才知道的每一场派对、悬崖上的黄风筝、涂着亮粉色指甲的细长手指",
-   "anchor": "If I was sober, I would have known what a terrible idea this was.",
-   "start": 5776,
-   "end": 5841
+   "fact": "屋里没有窗帘，灯一亮她觉得自己成了地图上被点亮的目标；她在手机上记下拼错的 \"CUYRTASIN\"；屋里比外面冷，暖气片冰凉——她今天没给锅炉添柴。",
+   "anchor": "I looked for curtains to pull closed over the living room window, but there were none.",
+   "start": 4060,
+   "end": 4146
   },
   {
-   "fact": "锅炉里的火光灭了，她把斧头一次次砍进已经劈开的木头、砸成碎片，喊\"fuck you\"；忽然察觉到身后有东西，寒毛竖起、肾上腺素冲上来、醉意瞬间退去——这一次她没有僵住，而是转身挥斧",
-   "anchor": "A wet shunk-crack!",
-   "start": 8166,
-   "end": 8184
+   "fact": "她自称「能照顾自己的女人」「能劈柴的女人」，想起 Rowan 早先问过「你是砍还是劈？」，她答「劈」；一边劈一边反复想邻居的穿着举止、自己从前在别人桌前「悬浮」、事后才听说的那些派对、悬崖上的黄风筝、涂亮粉色指甲的细手指，最后把柴砸成碎片骂脏话。",
+   "anchor": "Are you chopping or splitting? Rowan had said.",
+   "start": 5980,
+   "end": 6026
   },
   {
-   "fact": "斧头砍进邻居左额；她僵住，邻居睁着惨白的眼、湿发贴在脸上、手还朝她伸着，指尖离她的背只有几毫米；邻居身后，墙里那扇门开着",
+   "fact": "她忽然察觉身后有东西，转身挥斧；斧头嵌进邻居额头的左弧，邻居的手正伸向她的背、只差几毫米，身后墙上的门开着——邻居倒退穿门跌进 1a 的黑暗，门随即关上。",
    "anchor": "My axe found its home wedged into the left-hand curve of my neighbour’s forehead.",
    "start": 8187,
    "end": 8268
-  },
-  {
-   "fact": "血流下来不像血；邻居后退，斧头从她脸上\"吸\"出来，黑血像油膜一样挂在刃上；她向后倒进那扇开着的门，消失在 1a 的黑暗里，门随即关上",
-   "anchor": "She fell back through the open door in the basement, disappearing into the darkness of 1a Sgàthan Sìth beyond. Then the door swung shut.",
-   "start": 8807,
-   "end": 8943
   }
  ]
 }

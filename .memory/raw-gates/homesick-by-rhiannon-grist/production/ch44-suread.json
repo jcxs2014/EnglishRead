@@ -4,94 +4,52 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch44_chapter_44.txt",
  "facts": [
   {
-   "fact": "Rowan 胸口布满一道道切口与凿痕",
-   "anchor": "Rowan’s chest was patterned with slices and gouges.",
+   "fact": "Rowan 胸口布满一道道切口与凿痕；半张脸剥落，颅骨敞开，血污淌到羊皮毯上",
+   "anchor": "Rowan’s chest was patterned with slices and gouges. Half of his face peeled away, opening up his skull and spilling gore onto the sheepskin rug.",
    "start": 14,
-   "end": 65
-  },
-  {
-   "fact": "他半张脸剥落，露出颅骨，血污淌在羊皮地毯上",
-   "anchor": "Half of his face peeled away, opening up his skull and spilling gore onto the sheepskin rug.",
-   "start": 66,
    "end": 158
   },
   {
-   "fact": "她冒出一个愚蠢的念头：\"那玩意儿永远洗不出羊毛了。\"",
+   "fact": "她冒出一个蠢念头：\"那东西我永远洗不出羊毛毯了。\"",
    "anchor": "I’ll never get that out of the wool, I thought stupidly.",
    "start": 161,
    "end": 217
   },
   {
-   "fact": "他噗噗作响、抖动着，像提线被勾住的木偶，深色泡沫从他裂开的嘴里翻出来",
+   "fact": "他抽搐、喷气，像个线被缠住的提线木偶；深色泡沫从他裂开的嘴里冒出来；这次没有一闪即逝的血污、没有脸消失在黑影门口——那具血淋淋的东西就躺在她面前，躲不掉",
    "anchor": "He sputtered and shook, a marionette whose strings were snagged and caught, as a dark froth foamed up from his bisected mouth.",
    "start": 220,
    "end": 346
   },
   {
-   "fact": "这一次没有一闪而过的血污，也没有脸消失在暗门里",
-   "anchor": "This time there was no brief flash of gore, no face disappearing into the darkened doorway.",
-   "start": 364,
-   "end": 455
-  },
-  {
-   "fact": "那具血腥的恐怖就躺在她面前，逃不掉，不停歇",
-   "anchor": "The bloody horror was lying in front of me, inescapable, unrelenting.",
-   "start": 456,
-   "end": 525
-  },
-  {
-   "fact": "心里那句：\"你永远学不会，是吧？\"",
+   "fact": "她脑里响起一句：\"你永远学不会，是吧？\"",
    "anchor": "You’ll never learn, will you?",
    "start": 528,
    "end": 557
   },
   {
-   "fact": "她身体发抖，觉得自己听见了警笛；前门在她身后敞着",
-   "anchor": "My body trembled. I thought I could hear sirens. The front door lay open behind me.",
-   "start": 560,
-   "end": 643
-  },
-  {
-   "fact": "心里那句：\"伤了又伤，一圈又一圈。\"（还有一句\"你自己的地狱，像仓鼠轮一样转\"）",
-   "anchor": "Hurting and hurting, round and round.",
-   "start": 646,
-   "end": 683
-  },
-  {
-   "fact": "她在想：也许那真的是 Rowan；她要不要留下来确认？\"这次他们会把我关一辈子。\"",
+   "fact": "她身体发抖，觉得听见警笛，前门在身后敞着；她想\"也许那真的是 Rowan\"，又自问要不要等结果；\"这次他们会把我永远关起来\"，现在跑还能逃到镇上；\"为什么偏偏是 Rowan，唯一对我好的人\"——她试着把做过的事推开",
    "anchor": "Maybe it really was Rowan. Did I want to wait and find out? They’ll lock me up for good this time.",
    "start": 686,
    "end": 784
   },
   {
-   "fact": "她想：为什么偏偏是 Rowan——唯一对她好过的人；她试着把做过的事推开",
-   "anchor": "Why did it have to be Rowan? The one person who was nice to me. I tried to push what I’d done away.",
-   "start": 823,
-   "end": 922
+   "fact": "又一句：\"你自己的地狱圈，像仓鼠轮一样转个不停。\"",
+   "anchor": "Your very own circle of hell, spinning like a hamster wheel.",
+   "start": 925,
+   "end": 985
   },
   {
-   "fact": "她朝前门踉跄过去，急着往夜风的空气里走，一边想着能躲到哪里",
-   "anchor": "I stumbled toward the front door, hurrying in the direction of the night air, thinking of places I could hide.",
-   "start": 988,
-   "end": 1098
-  },
-  {
-   "fact": "然后她停住，靠在门框上朝车道望：她那辆挡风玻璃碎掉的车停在那儿",
-   "anchor": "Then I stopped. I leant against the door jamb, looking out onto the driveway. My car sat there with its broken windshield.",
-   "start": 1101,
+   "fact": "她踉跄走向前门，想着能躲哪去，却停住，靠着门框看车道：她的车停在那儿，挡风玻璃碎着；夜风凉爽诱人，她渴望出去、去任何地方，只要不是这栋凶宅",
+   "anchor": "I leant against the door jamb, looking out onto the driveway. My car sat there with its broken windshield.",
+   "start": 1117,
    "end": 1223
   },
   {
-   "fact": "Callie-Ann 的话随着风突然冷冷硬硬地回来：\"留在房子里。找到那道缺口。\"",
-   "anchor": "“Stay in the house. Find the breach.”",
-   "start": 1454,
-   "end": 1491
-  },
-  {
-   "fact": "她深吸一口甜凉的夜气，让风把手臂和额头上的汗吹凉，然后转身回到屋里，从客厅地板上那具还在抽动的身体旁走过，走到楼梯下那道门，下到地下室——下到山里面",
-   "anchor": "I inhaled a deep breath of that sweet, night air, let it cool the sweat on my arms and brow, then I turned around and went back into the house, back past the twitching body on the living room floor, back to the door under the stairs, and headed down into the basement. Down inside the hill.",
+   "fact": "Callie-Ann 的话随冷风回来：\"待在屋里。找到裂缝。\"她深吸夜风，转身回屋，经过客厅地板上那具还在抽搐的身体，回到楼梯下那扇门，走进地下室——走进山体内部",
+   "anchor": "I inhaled a deep breath of that sweet, night air, let it cool the sweat on my arms and brow, then I turned around and went back into the house, back past the twitching body on the living room floor, back to the door under the stairs, and headed down into the basement.",
    "start": 1494,
-   "end": 1784
+   "end": 1762
   }
  ]
 }

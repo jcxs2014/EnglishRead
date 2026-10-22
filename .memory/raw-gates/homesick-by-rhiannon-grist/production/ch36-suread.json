@@ -4,49 +4,49 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch36_chapter_36.txt",
  "facts": [
   {
-   "fact": "她一路跑回 Sgàthan Sìth 的 1b 号；跑到车道尽头那棵榆树下时，天色已经变得凶险可怖",
-   "anchor": "I ran all the way back to 1b Sgàthan Sìth. By the time I reached the elm tree at the base of the driveway, the sky had turned murderous.",
+   "fact": "她一路跑回 1b Sgàthan Sìth，到车道口那棵榆树下时天已变得凶险。",
+   "anchor": "I ran all the way back to 1b Sgàthan Sìth.",
    "start": 14,
-   "end": 150
+   "end": 56
   },
   {
-   "fact": "她脑子里反复磨着同一个问题：邻居长得和她一模一样，这怎么可能，她到底是什么东西",
+   "fact": "她反复自问：邻居长得和她一样，怎么可能，她到底是什么；脑中浮出“Fairy mirror”这个词。",
    "anchor": "My neighbour looked just like me. How was that even possible? What was she?",
    "start": 153,
    "end": 228
   },
   {
-   "fact": "雾变酸、变坏，天空凝成厚厚的云，把世界罩进一层不祥的紫光里",
+   "fact": "雾变味败坏、天凝成厚云，世界罩在紫色凶光里；两栋对称小屋在山丘上，卧室窗像空洞的眼、共用门廊雨棚像尸体的嘴。",
    "anchor": "The mist had soured and spoiled, and the sky had curdled into thick clouds, casting the world in a foreboding, violet light.",
    "start": 246,
    "end": 370
   },
   {
-   "fact": "卧室的窗像空洞的眼往下盯着她，两户共用的门廊遮阳篷张着口，像一具尸体的嘴",
-   "anchor": "The bedroom windows stared down like hollow eyes; the shared awning over the front doors gaped open like the mouth of a corpse.",
-   "start": 470,
-   "end": 597
+   "fact": "她告诉自己那只是房子——砖、石、灰浆、瓦、木梁、铜管——却既不敢进去拿行李，也不敢回 Carlinsrest（Fergus 的笑、讥笑的孩子、惊恐的脸、Rowan 的怜悯）。",
+   "anchor": "But it’s just a house, I told myself.",
+   "start": 600,
+   "end": 637
   },
   {
-   "fact": "她把受伤的手紧抱在胸前，再也没法逼自己朝那栋房子多走一步，哪怕所有家当都还丢在里面",
-   "anchor": "I clutched my sore hand close to my chest. I couldn’t urge myself any further toward the house, not even for fear of all my belongings abandoned inside.",
-   "start": 723,
-   "end": 875
+   "fact": "她决定必须逃，向右急拐，走进树下。",
+   "anchor": "I turned a sharp right and marched away under the trees.",
+   "start": 1343,
+   "end": 1399
   },
   {
-   "fact": "她边走边可怜巴巴地抽鼻子，觉得自己又变回那个在超市里故意从父母身边走开、存心把自己弄丢的小孩",
-   "anchor": "I sniffled pathetically as I walked. I felt like I was a child again and walking away from my parents in the supermarket to purposefully make myself lost",
-   "start": 1593,
+   "fact": "她挤过幼枝、踩着常春藤边走边抽泣，想起小时候在超市故意走丢、被好心人或店员送回时父母只是笑，也许他们从没那么担心失去她。",
+   "anchor": "I felt like I was a child again and walking away from my parents in the supermarket to purposefully make myself lost",
+   "start": 1630,
    "end": 1746
   },
   {
-   "fact": "她过去以为所有孩子多少都想要比父母能给的多一点的爱，以为带着\"有人不得不爱你\"的感觉长大是正常的",
+   "fact": "她曾以为所有孩子都想要比父母能给的更多的爱；没有淤青、肚子饱就算没事，所以她总还是回去。",
    "anchor": "I used to think all children—at some level—wanted more love than their parents were able to provide.",
    "start": 2204,
    "end": 2304
   },
   {
-   "fact": "只是这一次，她心里并不偷偷盼着被找到；这次驱她出门的不是那种说不出口的钝痛，而是恐惧",
+   "fact": "这一次她也想跑、想故意迷路，但不希望被找到、不渴望被追回；驱她出门的是 terror，她哭着走进树林深处。",
    "anchor": "Only this time, I didn’t secretly want to be found.",
    "start": 2682,
    "end": 2733

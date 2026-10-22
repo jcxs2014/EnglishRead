@@ -4,58 +4,52 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch32_chapter_32.txt",
  "facts": [
   {
-   "fact": "她走出视线与听觉范围后立刻拐上林道边的草坡，把一棵大蓟连根拔起抽打最近的树，手心被刺扎得发疼，直到纤维断裂、花头飞进林子",
-   "anchor": "I ducked onto the verge of the forest track",
-   "start": 271,
-   "end": 314
+   "fact": "她从林中空地一路疾走下山，耳鸣眼花，只想着往前走，沿松树林间的黑走廊下坡",
+   "anchor": "My ears rang and my vision blurred.",
+   "start": 14,
+   "end": 49
   },
   {
-   "fact": "耳鸣在最高处爆掉、停了；她漏出一声可怜的抽泣，伸手捂住嘴像要把它抓回来，却已经变成无声的鱼嘴式哭法，跌坐在草里流泪",
-   "anchor": "The high whine in my head popped at its crescendo and stopped.",
-   "start": 835,
-   "end": 897
+   "fact": "确认看不见也听不见之后，她拐进长满荨麻的路边草坡，连根拔起一棵大蓟，猛抽树干，直到纤维断裂、花头飞进林中",
+   "anchor": "As soon as I was certain I was out of sight and out of hearing, I ducked onto the verge of the forest track, overgrown with weeds and nettles, pulled a large thistle out of the ground, tearing it roots from the earth, and whipped it against the nearest tree.",
+   "start": 207,
+   "end": 465
   },
   {
-   "fact": "她心里喊\"天啊，他知道了，他知道办公室那件事\"；抽着鼻子想\"我以为我们是朋友，至少正在成为朋友\"，随即自嘲\"才几天，你真以为有人会那么快喜欢你\"",
-   "anchor": "I thought we were friends, or at least becoming friends.",
-   "start": 1349,
-   "end": 1405
+   "fact": "她认定 Rowan 已经知道了办公室发生的事，惊恐自己醉后把底全交了出去；又骂自己蠢，才几天就把对方当朋友",
+   "anchor": "Oh God, he knows. He knows! He knows what happened at the office!",
+   "start": 1270,
+   "end": 1335
   },
   {
-   "fact": "她坐着消化他的话，试着想象温和、呆气、镇定的 Rowan 把酒瓶砸在陌生人头上；卡车里的恐惧并不全是多疑，她想到脚上的针孔和口袋里那根针",
-   "anchor": "I tried to imagine Rowan—gentle, dorky, calm Rowan—smashing a bottle over a stranger’s head.",
-   "start": 1667,
+   "fact": "她坐下来消化他的自述，试着想象温和、笨气、冷静的 Rowan 拿瓶子砸陌生人；承认卡车里的恐惧不全是偏执",
+   "anchor": "I sat with what he’d told me. I tried to imagine Rowan—gentle, dorky, calm Rowan—smashing a bottle over a stranger’s head.",
+   "start": 1637,
    "end": 1759
   },
   {
-   "fact": "她站起来给自己找理由：那只是一次判断失误、一次摇晃，算不上记录；\"有愤怒问题的是男人，这已经被证明了，不是吗\"——随即又列出女人也会动手、也会在夜店挑事",
-   "anchor": "It’s men who have a problem with anger.",
-   "start": 2298,
-   "end": 2337
+   "fact": "她随即反弹：去他的，他凭什么教训我要小心愤怒；她把这归结为一次判断失误，不承认是长期模式",
+   "anchor": "No, fuck him. Where does he get off telling me to be careful with anger?",
+   "start": 2133,
+   "end": 2205
   },
   {
-   "fact": "她想女人不是太愤怒而是不够愤怒，\"不愤怒就是没在注意\"；愤怒是解药，愤怒意味着她站在对的一边、不会被伤害，否则怎么活下来",
-   "anchor": "Anger was the antidote.",
-   "start": 2701,
-   "end": 2724
+   "fact": "她替愤怒辩护：愤怒是解药、是安全感的来源，问题不是女人太愤怒而是不够愤怒；她列举街头、职场、深夜噪音这些该愤怒的对象",
+   "anchor": "If anything, women aren’t angry enough. That’s what people say. If you’re not angry, you’re not paying attention.",
+   "start": 2587,
+   "end": 2700
   },
   {
-   "fact": "她躺在草坡上：厌倦了读别人的心，脑子坐在骨头的城堡里被完全封住，一道墙把她和所有人隔开；她与每个人在\"我之为我、他之为他\"的物理性上都是孤独的",
-   "anchor": "I and everyone else, in the very physicality of what makes me ‘me’ and them ‘them’, were alone.",
-   "start": 5437,
-   "end": 5532
+   "fact": "黑鸟被她吼走后山林彻底寂静；她躺在草坡上想：每个人的“我”都被封在骨头的城堡里，永远无法真正触到别人；她对邻居的所有假设都错了，一切只是翻译",
+   "anchor": "My brain, the seat of myself, sat in its castle of bone, completely encased, a wall separating me from everyone else, never to touch, never to meet.",
+   "start": 5288,
+   "end": 5436
   },
   {
-   "fact": "她坐起来打开手机，用微弱但有信号的数据查苏格兰盖尔语到英语的翻译，输入 Sgàthan Sìth，得到 Fairy Mirror——老人说过这房子是镜子，也许他没疯，她得找到他",
-   "anchor": "I typed in ‘Sgàthan Sìth.’",
-   "start": 6296,
-   "end": 6322
-  },
-  {
-   "fact": "她摸口袋确认东西都还在：钥匙、针仍挂在环上，然后摸到 Rowan 卡车的钥匙，咬牙往山上看，决定不上去还给他、也不扔进灌木",
-   "anchor": "And then I found the keys to Rowan’s truck.",
-   "start": 6613,
-   "end": 6656
+   "fact": "她用手机查苏格兰盖尔语“Sgàthan Sìth”，得到“Fairy Mirror”，想起老人说这房子是镜子，决定去找他；随后发现口袋里还揣着 Rowan 的卡车钥匙",
+   "anchor": "The old man had said the house was a mirror. Maybe he wasn’t as mad as I thought. I had to find him.",
+   "start": 6384,
+   "end": 6484
   }
  ]
 }

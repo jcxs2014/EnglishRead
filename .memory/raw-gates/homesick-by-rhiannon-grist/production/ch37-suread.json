@@ -4,175 +4,49 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch37_chapter_37.txt",
  "facts": [
   {
-   "fact": "头顶枝上有鹪鹩啭鸣，下面灌木里乌鸫窸窣；雾的残余像苍白的手指在树干和草间游走",
+   "fact": "林中一只鹪鹩在枝头鸣啭、一只乌鸫在灌木下窸窣，残雾像苍白的手指缠着树干与草。",
    "anchor": "A wren trilled in the branches above. A blackbird rustled through the undergrowth below.",
    "start": 14,
    "end": 102
   },
   {
-   "fact": "她想：该承认了——我不是个好人，我几乎算不上一个人；邻居在这件事上做得比我好，而我根本不知道她到底是什么",
-   "anchor": "It was time to admit it. I wasn’t a good person. I was barely a person.",
-   "start": 310,
+   "fact": "她在林中承认自己不是好人、几乎算不上一个人；邻居“做人”比她做得好，而她根本不知道那是什么东西。",
+   "anchor": "I wasn’t a good person. I was barely a person.",
+   "start": 335,
    "end": 381
   },
   {
-   "fact": "也许不再假装是个人反而更好；也许更安全的是干脆离开人类——让邻居那个东西拿走房子、她的生活、她的身份；她消失在荒野里，永不被找到、永不被看见",
-   "anchor": "Maybe it was better if I stopped pretending to be a person at all.",
-   "start": 480,
-   "end": 546
+   "fact": "她想干脆脱离人类：让邻居拿走房子、她的生活与身份，自己消失在荒野里，永不被人找到，并希望这就是邻居想要的全部。",
+   "anchor": "Maybe it was safer if I just left humanity altogether.",
+   "start": 549,
+   "end": 603
   },
   {
-   "fact": "她\"拉钩保证\"自己会消失；她希望那就是邻居想要的，\"我希望她要的就只是这些\"",
-   "anchor": "I’d disappear into the wilderness never to be found, never to be seen again. Pinkie promise!",
-   "start": 683,
-   "end": 775
-  },
-  {
-   "fact": "她想象自己脱下衣服丢在一边、让腿毛臂毛长长、长成一层细灰的毛皮；想象在林地爬行，指节和膝盖的皮变得又厚又硬",
-   "anchor": "I imagined myself slipping out of my clothes and casting them aside. I imagined letting the hair on my legs and my arms grow long. I imagined it spreading over my body, a fine grey pelt.",
-   "start": 974,
+   "fact": "她幻想脱掉衣服、腿臂长出细灰毛、指节与膝盖变得厚韧、只会低吼吠叫，再也不用斟酌该说什么。",
+   "anchor": "I imagined it spreading over my body, a fine grey pelt.",
+   "start": 1105,
    "end": 1160
   },
   {
-   "fact": "她会发出呼噜、吠叫、嚎叫，再也不用想该说什么话，不再说错、不再担心说多说少",
-   "anchor": "Instead of words I would grunt and bark and howl. I’d never have to think of the right thing to say again.",
-   "start": 1298,
-   "end": 1404
+   "fact": "一群人形从黑暗里走进空地：Fergus 露着獠牙、村里的青少年在树上尖叫扔树枝、Viv 成了斑马而 Maggie 骑在她背上啄鬃、旧同事们成了松鼠、Grayson 家女孩覆着白羽、戴她父亲眼镜的鹤、粉色蹄的鹿腿女人、尖耳红眼的 Rowan。",
+   "anchor": "They were a herd of humans, picking their way through the forest, digging up the earth with their clawed hands, sniffing the air.",
+   "start": 4297,
+   "end": 4426
   },
   {
-   "fact": "她用手背擦额头：傍晚凉，她却被汗浸透——\"好吧，我现在想流多少汗、想多臭都行\"",
-   "anchor": "I wiped my forehead with the back of my hand. Despite the evening cool, I was drenched in sweat.",
-   "start": 1497,
-   "end": 1593
-  },
-  {
-   "fact": "她列出一整套\"建立在她显然不适配的秩序之上的结构\"：学校、工作、办公室、婚前派对、足球赛、社交媒体、工时表、电子表格、积极倾听、健康计划、纪律会议、病假条、问卷（问你多久想揍上司一顿）、正式警告、红牌、法庭传票、监狱、拉黑按钮——\"一层层石膏、夹板、绷带，包着一根永远长不直的骨头\"",
-   "anchor": "They were all casts upon splints upon bindings upon a bone that would never straighten.",
-   "start": 2095,
-   "end": 2182
-  },
-  {
-   "fact": "她不知道是冷、缺觉还是那种麻木的恐惧，视线开始浮动，世界移位了",
-   "anchor": "I didn’t know if it was the cold or the lack of sleep or the mind-numbing fear, but my vision started to swim and the world shifted.",
-   "start": 2895,
-   "end": 3027
-  },
-  {
-   "fact": "她突然感到林子里还有别人，躲到一段腐烂的树桩后面，冷和恐惧让四肢发抖",
-   "anchor": "Suddenly, I got a sense of others in the forest.",
-   "start": 3030,
-   "end": 3078
-  },
-  {
-   "fact": "她认出了那些脸：Fergus 在灌木里拱找，獠牙从咧开的笑嘴里突出来；村里的少年们在树枝上尖叫、朝下面扔树枝；Viv（酒馆老板娘）真的成了一匹斑马，Maggie 骑在她背上啄她的鬃毛；旧同事们像松鼠一样在林地窜，尾巴上下摆着某种她看不懂的暗号",
-   "anchor": "I recognised their faces!",
-   "start": 3437,
-   "end": 3462
-  },
-  {
-   "fact": "Grayson 家的女孩们手臂和脸颊覆满柔软白羽；一只鹤从树冠下来，戴着我父亲的眼镜，张开翅膀罩住她们；一个优雅的女人长着鹿腿、蹄子漆成亮粉色，长耳不停抽动；Rowan 耳朵尖、眼睛红——\"他们是一群人的兽群，用爪子刨土、嗅空气\"",
-   "anchor": "I saw the Grayson girls, their golden arms and cheeks covered in soft white feathers.",
-   "start": 3934,
-   "end": 4019
-  },
-  {
-   "fact": "空地另一侧的树影里有个影子绕着他们转，只在眼角一闪一闪地变形，盯着这群人；影子\"用一张咧得过宽的笑嘴咯咯笑\"",
-   "anchor": "The shadow on the edge of the clearing cackled. Cackled with a too-wide grin.",
-   "start": 5882,
-   "end": 5959
-  },
-  {
-   "fact": "一个少年朝 Fergus 扔石头，Fergus 把他从树枝上拽下来摔在地上，獠牙捅进他肚子像勺子插进打发的奶油；林地爆出尖叫，少年们扑上去撕他的头发和脸，有人挖出他一只眼睛",
+   "fact": "一个青少年拿石头砸 Fergus，Fergus 把他从树枝上扯下、一獠牙捅进他肚子；青少年们扑上去撕他头发和脸、拔掉他一只眼；鹤飞走，同事们戳弄两个女孩后咬颈吃掉；Rowan 扯掉一个同事的头。",
    "anchor": "Fergus ran his tusk into the kid’s stomach as easy as plunging a spoon into whipped cream.",
    "start": 4863,
    "end": 4953
   },
   {
-   "fact": "鹤飞走，留下两个长羽毛的女孩被那些\"多指\"的同事们戳弄研究，掰她们的胳膊和手指看能弯到哪儿；玩腻了就咬住女孩的脖子开始吃",
-   "anchor": "They investigated the pitifully cheeping children, bending their arms and fingers to find how far they would go.",
-   "start": 5229,
-   "end": 5341
-  },
-  {
-   "fact": "她想大多数动物就是这样死的——被活活吃掉；她一直相信人类也好不到哪去，文明底下藏着的就是这个，\"所以我从不相信它\"",
-   "anchor": "This was how most animals go. Eaten alive.",
-   "start": 5503,
-   "end": 5545
-  },
-  {
-   "fact": "一切形式、流程与法律底下那股安静的压力：要生产，否则就成为产品；成为食物；互相活吃",
-   "anchor": "Produce or be the product. Be the food. Eat each other alive.",
-   "start": 5814,
-   "end": 5879
-  },
-  {
-   "fact": "她的思绪被眼前的景象绊住：\"等等，Fergus 不会真的把人活活吃掉。\"Rowan 扯掉一个同事的头，嘴边一圈血沫。\"我不确定我还想待在外面。\"",
-   "anchor": "Wait, Fergus wouldn’t actually eat someone alive.",
-   "start": 6261,
-   "end": 6310
-  },
-  {
-   "fact": "鹿腿女人把漆过的蹄子踩进裂开的树缝里；她一边后退一边想\"我不要这个！\"，然后跑起来，顾不上冷，只希望那些披着熟人面孔的血腥畜生不会追来；她不敢回头",
-   "anchor": "I don’t want this!",
-   "start": 6597,
-   "end": 6615
-  },
-  {
-   "fact": "无论往哪个方向跑，很快又回到那片空地——只是林地成了敞开的坟墓，堆满骷髅和腐烂的尸体；骨堆顶上坐着那个影子，蹲着，嘴张得很大，从堆里吃东西",
-   "anchor": "Only now the forest floor was an open grave filled with skeletons and rotting corpses.",
-   "start": 6965,
-   "end": 7051
-  },
-  {
-   "fact": "她四处张望找逃路：城市待不了，乡下待不了，做新人不行，做人不行，连做动物都不行——\"我到哪儿，这东西就在哪儿，在我内脏里啃。没有出口。\"",
-   "anchor": "I couldn’t be in the city. I couldn’t be in the countryside. I couldn’t be someone new.",
-   "start": 7253,
-   "end": 7340
-  },
-  {
-   "fact": "那个声音问：\"你知道你是谁，对吧？\"——她是被推出巢的、让人失望的后代；被办公室的部落赶出来；输掉了 Sgàthan Sìth 木屋的竞争；\"杜鹃挪走林莺的蛋，乌鸦啄出羊羔的眼，弱崽被丢下\"",
-   "anchor": "You know who you are, don’t you?",
-   "start": 7468,
-   "end": 7500
-  },
-  {
-   "fact": "她答：是的，我知道我是什么——\"我是个他妈的怪物。而我属于这里。\"；她爬到尸堆上躺进尸体中间，描写身体一点点腐烂：脚趾到腿失去感觉、括约肌松开、肠子排空、胃酸溶解器官、眼球缩进眼窝、牙龈后退、大脑变成褐色汤",
-   "anchor": "Yes. I knew what I was. I was a fucking monster.",
-   "start": 7841,
-   "end": 7889
-  },
-  {
-   "fact": "那影子一直在上面咂嘴、嘎吱咀嚼；她想\"至少她不会把我活活吃掉\"",
-   "anchor": "All the while the shadow slurped and crunched and smacked its lips.",
-   "start": 8630,
-   "end": 8697
-  },
-  {
-   "fact": "她眼角瞥见旁边骷髅嘴里有个金属的闪光；用腐烂的、裹着苔藓的手臂撬开颅骨——嘴里是一把钥匙，另一把 Yale 钥匙，但比她的旧；下一具也是钥匙，更旧",
-   "anchor": "Inside the mouth was a key.",
-   "start": 9084,
-   "end": 9111
-  },
-  {
-   "fact": "周围每一具骷髅嘴里都有钥匙，越往前越旧，像逆着时间：方形钥匙→小铜钥匙→结实铁钥匙→简单的金属片→一块木头；还有一具较小、半带肉、半边脸有胎记的颅骨，嘴里也是钥匙——\"所有这些身体都受着和我一样的苦。这不只是我。这是更大的、更古老的东西。\"",
+   "fact": "空地变成堆满骸骨的敞开的坟，影子坐在骨山顶进食；她掰开身边每个骷髅的嘴，里面都有一把 Yale 钥匙、越往里越古老（方头钥匙→小铜钥匙→铁钥匙→铁片→木片），其中一个较小、脸上带胎记的骷髅嘴里也有钥匙。",
    "anchor": "Every skull around me held a key, getting older and older as if going back through time.",
    "start": 9656,
    "end": 9744
   },
   {
-   "fact": "顶上传来一声尖叫，一点光闪过眼角：酒馆里那个坐轮椅的老妇人出现在尸堆脚下，醒着，看着她；她伸手递出钥匙，心里喊\"帮帮我，我想停下，可我不知道怎么做\"",
-   "anchor": "“Enough,” she said to the creature on the pile.",
-   "start": 10387,
-   "end": 10434
-  },
-  {
-   "fact": "老妇人哼了一声，对尸堆上的东西说\"够了\"——几乎没提高嗓门，却震动了树木、震响整座骨山；影子尖叫着窜进黑暗",
-   "anchor": "She’d barely raised her voice and yet it shook the trees and rang through the hill of bones.",
-   "start": 10435,
-   "end": 10527
-  },
-  {
-   "fact": "她转动枯骨般的头颅面对老妇人；老妇人此刻坐在 The Curtyard 的火边，膝上一卷红线，绕在指上，把猩红的线头穿过环——\"该聊聊了\"，然后拉紧结，她醒了",
+   "fact": "轮椅上的 pub 老妇人出现在骨堆底、醒着看她；她递出钥匙求救，老妇人只说“Enough”，声音震得树林发抖，影子尖叫逃走；随后老妇人坐在 The Curtyard 火边、膝上红线轴，说“Time we had a chat”，拉紧线结，她醒了。",
    "anchor": "“Time we had a chat,” she said.",
    "start": 10846,
    "end": 10877

@@ -4,45 +4,51 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch10_chapter_10.txt",
  "facts": [
   {
-   "fact": "她泡在自己烧的热水里，又允许自己骄傲一次——这盆热水是她亲手弄出来的",
-   "anchor": "Hot steaming water, courtesy of my hands.",
-   "start": 78,
-   "end": 119
+   "fact": "她躺在浴缸里，又允许自己骄傲一会儿：热腾腾的蒸汽水，靠她自己的双手；她没带泡泡浴，所以能看见水面下自己整具被热水泡得发胀的身体",
+   "anchor": "As I lay in the bath, I allowed myself another moment of pride.",
+   "start": 14,
+   "end": 77
   },
   {
-   "fact": "她平时尽量不去想自己的身体，甚至想过如果可以选择，她宁愿没有身体，只想安静地存在、漂浮、观察，永远不被人看见",
-   "anchor": "quietly observing, never being perceived.",
-   "start": 461,
+   "fact": "她平时尽量不去想自己的身体，甚至不去想\"身处一具身体里\"这件事；她常想，若有的选，她宁肯根本没有身体——只存在着、在世界里飘着、静静看着，\"永远不被人看见\"",
+   "anchor": "To be able to just exist, floating about the world, quietly observing, never being perceived.",
+   "start": 409,
    "end": 502
   },
   {
-   "fact": "她抬起脚检查昨天被扎的伤口，洞已经封成一个深褐色圆圈，泡胀的白皮被拉扯成一张小小的、赌气的嘴；幸好没有感染",
-   "anchor": "like a tiny sulking mouth.",
-   "start": 1025,
-   "end": 1051
+   "fact": "但现在这具身体会劈柴、会生火：\"一具能干的身体。一具强壮的身体。\"紧接着一句：\"一具酸痛的身体。\"",
+   "anchor": "But this was now a body that could chop wood and build fires.",
+   "start": 505,
+   "end": 566
   },
   {
-   "fact": "她想再下一次地下室，不只是把钉子捡走，而是确认扎她的确实是钉子或木刺，而不是别的东西——发现那扇门之后她更不安",
-   "anchor": "it was a nail or a splinter and not something else.",
-   "start": 1369,
-   "end": 1420
+   "fact": "哗啦一声，她把脚抬出水面查看刺伤：早已封口，只剩一个深褐色的圆点，正是那个洞；洞周围厚皮被水泡得发白起皱；她轻轻扒开伤口检查底下没藏东西，那圈泡白的皮肤被拉开又收紧，像一张噘着的极小的嘴；谢天谢地，不像发炎",
+   "anchor": "With a splash, I pulled up my foot and inspected the puncture wound.",
+   "start": 617,
+   "end": 685
   },
   {
-   "fact": "从回来到做晚饭，隔壁 1a 完全没有声音：没有做饭的响动，也没有昨天的脚步声；她猜昨夜只是偶然，也庆幸自己没提噪音的事——她连对方叫什么都不知道",
-   "anchor": "No muffled footsteps like the day before. Not a peep.",
-   "start": 1647,
-   "end": 1700
+   "fact": "她决定要再下一次地下室：不想有散落的木刺或钉子留在那儿；发现那扇门之后，\"不知道是什么扎了我\"这件事更让她不安；她想找到它，不只是为了扔掉，而是要确定那真是一根钉子或木刺，而不是别的东西",
+   "anchor": "Something about the discovery of the door made me feel even more uneasy about not knowing what had pricked me.",
+   "start": 1180,
+   "end": 1290
   },
   {
-   "fact": "她泡在浴缸里猜 1a 的屋内：要么是囤积者的天堂（报纸堆到天花板、外卖盒围着水槽），要么是纤尘不染、家具全摆成直角",
-   "anchor": "Maybe it was a hoarder’s paradise",
-   "start": 2052,
-   "end": 2085
+   "fact": "她听着屋里的静：回来之后 1a 一点动静也没有；做晚饭时也没有——她庆幸路上买了意面和酱；没有隔壁自己做饭的声音，没有前一天那种闷闷的脚步声，\"一声都没有\"；她开始想昨夜也许只是一次性的，希望如此；她想，自己跟她（1a 的邻居，原文用了 her）说话时没提噪音大概算走运——她到现在还不知道她叫什么名字",
+   "anchor": "I hadn’t heard anything from 1a since I’d got back.",
+   "start": 1461,
+   "end": 1512
   },
   {
-   "fact": "她从白日梦里回神，发现水已经凉了，指尖泡出硬棱；水面上自己的倒影被波纹打碎，水龙头里映出的脸又被拉长变形",
-   "anchor": "Always losing myself.",
-   "start": 3133,
+   "fact": "她往水里沉，让水漫过嘴唇：这邻居看来很安静，\"也许是个闭门不出的人\"；她好奇 1a 里面是什么样——也许是囤积狂的天堂：报纸堆到天花板、外卖盒围着水槽、拾来的小玩意儿夹出一条窄窄通道；也许相反，是极度的整洁：家具精确摆放、一丝灰都没有、沙发与椅子摆成直角、每张边桌正中一张蕾丝垫、墙上画框成一条水平线、床铺得严严实实；她坐起来使劲搓肥皂想搓出够密的泡沫，又想：她的肥皂大概整整齐齐排在洗脸池后沿，说不定还裹着纸",
+   "anchor": "She seemed quiet, my neighbour. A shut-in, perhaps.",
+   "start": 1957,
+   "end": 2008
+  },
+  {
+   "fact": "她把泡沫抹到腋下，再听——还是没有；她看见自己的脸映在水龙头上，被拉得又歪又长、认不出；影子在水面波纹上碎成片；她从白日梦里回神，发现浴缸里的水已经明显凉了，指尖泡出硬硬的褶；\"又来了，我总是这样，把自己弄丢\"；她冲掉泡沫、出了浴缸",
+   "anchor": "There I go again, I thought. Always losing myself.",
+   "start": 3104,
    "end": 3154
   }
  ]

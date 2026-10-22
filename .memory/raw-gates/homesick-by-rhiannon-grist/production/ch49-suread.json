@@ -4,49 +4,49 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch49_chapter_49.txt",
  "facts": [
   {
-   "fact": "她心里清楚：幻想里那套\"他退缩、我赢了\"的场面不会在这里发生",
+   "fact": "她原本幻想邻居会道歉求饶、她扛着锤子凯旋（“Keep the noise down. Got it. Sorry, pal.”），但一照面就知道这不会发生。",
    "anchor": "I had the distinct feeling that wasn’t going to happen here.",
    "start": 677,
    "end": 737
   },
   {
-   "fact": "开门的瘦男人说他一直在等她，声音沙哑得像气声",
+   "fact": "瘦削青年早就在等她，声音嘶哑；她一进门，头顶路灯熄灭、音乐骤然变响。",
    "anchor": "“I’ve been expecting you,” he said, his voice a hoarse whisper.",
    "start": 740,
    "end": 803
   },
   {
-   "fact": "他伸手绕过她，不紧不慢地从她手里拿走了锤子",
+   "fact": "他贴近她、从容地从她手里拿走锤子，说带武器来就得准备真的用它。",
    "anchor": "He reached around me and gently, calmly, took the hammer out of my hand.",
    "start": 2009,
    "end": 2081
   },
   {
-   "fact": "他掂着锤子说：把武器带到某处的人，得准备好真的用它",
-   "anchor": "“The thing about a weapon is”—he casually tilted the hammer as if checking the balance—“if you’re going to bring it somewhere, you’ve got to be prepared to use it.”",
-   "start": 2084,
-   "end": 2248
+   "fact": "他骂她欺软怕硬：只敢对无力还手的人逞凶，不敢面对真正让她愤怒的对象；守着讨厌的工作、破合租屋，怕失去仅有的一点东西。",
+   "anchor": "You’ll dish it out on those who can’t fight back, but you wouldn’t dream of standing up to the real target of your anger.",
+   "start": 3155,
+   "end": 3276
   },
   {
-   "fact": "他说自己认得她这一类人",
-   "anchor": "I know your kind.",
-   "start": 3001,
-   "end": 3018
+   "fact": "他把锤子砸向自己手，闪光中可见手指反折、指节像葡萄般爆开、骨头刺破皮肤。",
+   "anchor": "A finger bent the wrong way. A knuckle burst like a grape. A bone piercing skin.",
+   "start": 4209,
+   "end": 4289
   },
   {
-   "fact": "她把手伸进口袋，摸到那卷线",
-   "anchor": "I reached into my pocket and found the spool of thread.",
-   "start": 7417,
-   "end": 7472
+   "fact": "灯光一闪他换一张脸：高个、满头头发、蓝条纹衬衫；再闪是矮壮、白背心、耳毛的老头；再闪是村里扑出来吓她的那个少年。",
+   "anchor": "Now he was the teen boy who’d leapt out at me in the village.",
+   "start": 5726,
+   "end": 5787
   },
   {
-   "fact": "白光一闪，男人在强光里散掉了",
-   "anchor": "The man disintegrated in the flare.",
-   "start": 8342,
-   "end": 8377
+   "fact": "她压住“抢锤砸他脑袋”的冲动，想起 Rowan 在山上的话：怒火上头时唯一的赢法是走开。",
+   "anchor": "“The only way to win when you’re seeing red is to walk away,” he’d said.",
+   "start": 6190,
+   "end": 6262
   },
   {
-   "fact": "她摔在深色木地板上，斧头闷闷一声落在身边",
+   "fact": "她说破他只是孤独、用深夜音乐盖住念头（“狼时”），缠线打结；他尖啸消失、墙塌，她跌在深色木地板上，斧头哐当一声落在身旁。",
    "anchor": "And then the axe fell beside me with a dull clang.",
    "start": 8536,
    "end": 8586

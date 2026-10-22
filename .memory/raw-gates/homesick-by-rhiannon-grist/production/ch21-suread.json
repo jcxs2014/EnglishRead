@@ -4,52 +4,52 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch21_chapter_21.txt",
  "facts": [
   {
-   "fact": "她没敢进 Maggie 的店（前几天突然离席、今早又聊过花），在另一家咖啡馆吃了个培根卷，把找人的范围扩到后街；她不知道邻居在哪，河边店铺和吃食店都找过，邻居没车走不了太远",
-   "anchor": "I extended my search to the back streets.",
-   "start": 178,
-   "end": 219
+   "fact": "她避开 Maggie 的店（怕为昨天突然离席和今早的花话题尴尬），在另一家咖啡店吃了培根卷，把搜寻扩到后街；邻居没有车，走不了多远",
+   "anchor": "She didn’t have a car, so she couldn’t have gone that far.",
+   "start": 332,
+   "end": 390
   },
   {
-   "fact": "她扒着五金杂货店的窗往里看，正好能望见柜台，Rowan 一眼看见她，露出大牙笑并招手让她进去；她先摇头，他翻了个白眼更起劲地招手，她算了一下：走掉比进去更尴尬",
+   "fact": "她在五金杂货店窗外朝里张望，被柜台后的 Rowan 一眼看见；她当场僵住，Rowan 咧嘴笑、招手让她进去",
    "anchor": "Rowan clocked me immediately.",
    "start": 644,
    "end": 673
   },
   {
-   "fact": "他提到她昨晚聊了很多工作，她血都凉了，怕自己把办公室那件事说了出去；结果他只是觉得\"大公司邮件背后是个人假装成他们\"很好玩，她暗谢基督：她只聊了营销邮件",
-   "anchor": "Did I tell him what happened at the office?",
-   "start": 1853,
-   "end": 1896
+   "fact": "Rowan 问她宿醉如何，她说大半在路上吐了；他说她开头喝两品脱后反而放松得多，没在桌上跳舞、只是话多，是个\"爱发牢骚的醉鬼\"，还挺好笑",
+   "anchor": "If it helps to know, you’re a ranty drunk.",
+   "start": 1665,
+   "end": 1707
   },
   {
-   "fact": "Rowan 说他姐让他给店里开 Facebook 主页或简报，他懒得弄；如果她真像自己说的那么行，可以帮店里做点东西，条件只有一个：别假装成他，\"Be yourself\"",
-   "anchor": "maybe you could work something up for the store",
-   "start": 2703,
-   "end": 2750
+   "fact": "她怕自己酒后把办公室的事说了出去，结果只是讲替大公司写营销邮件、冒充那些公司；她说上班本来就是人人都在假装",
+   "anchor": "Oh, thank Christ. I’d just talked about marketing emails.",
+   "start": 2069,
+   "end": 2126
   },
   {
-   "fact": "她这才反应过来这是机会：老客户一个都没回音，她本已担心自由职业做不成；现在能给店里做网站、社媒、邮件，还能拿五金店当案例，附近村子也有生意可做——\"This could be a living. A career.\"",
-   "anchor": "This was a lead. A job!",
-   "start": 2901,
-   "end": 2924
+   "fact": "Rowan 说妹妹劝他给店里弄 Facebook 页面或简报、他懒得弄，让她帮忙做营销，条件是\"别冒充我，做你自己\"",
+   "anchor": "If you’re as good as you say, maybe you could work something up for the store.",
+   "start": 2673,
+   "end": 2751
   },
   {
-   "fact": "她胃里像压了块铅，还是问了 Rowan 见没见过昨晚那个女人：住她隔壁、长直发、穿衬衫、走到桌边没说话；Rowan 说没印象，还说他认识住 Sgàthan Sìth 的只有她，昨晚才知道那些小屋是分成两户的",
-   "anchor": "you haven’t seen the woman from last night, have you?",
-   "start": 3718,
-   "end": 3771
+   "fact": "她立刻把这件事想成事业：给店里做网站、社媒、邮件，拿五金店当案例，再扩展到村里和更远的村镇；嘴上爽快答应，胃里却有一块铅似的发沉",
+   "anchor": "This could be a living. A career.",
+   "start": 3394,
+   "end": 3427
   },
   {
-   "fact": "酒馆那位老头（带牧羊犬、推着打呼的妻子）先问她缝线补好没有、说她房子爱勾人衣缝；她以为又是鬼屋传说，他大笑说胡说——\"那房子不是闹鬼，是一面镜子\"",
+   "fact": "她问 Rowan 有没有见过邻居（长直发、穿衬衫、昨晚到过桌边却没说话）；他说没印象，她是他认识的唯一住在 Sgàthan Sìth 的人，昨晚才知道那些小屋是分隔开的——她马上后悔自己开了口",
+   "anchor": "I don’t remember seeing anyone. To be honest, you’re the only person I know who lives in Sgàthan Sìth.",
+   "start": 4071,
+   "end": 4173
+  },
+  {
+   "fact": "酒馆老头（带牧羊犬、轮椅上睡着的老妻）在店里问她\"你的影子怎么样了\"，否认房子闹鬼、说它是一面镜子，并称\"它已经脱离你了\"，正爬食品架、跑屋顶、躲地下室；Rowan 递来一个装了缝纫线的邮包，老头说\"我只是送信的\"",
    "anchor": "That house isn’t haunted. It’s a mirror.",
    "start": 5714,
    "end": 5754
-  },
-  {
-   "fact": "老头说她身上那东西已经脱手：当初还只靠一根线挂在身上，现在自由了，在食品柜架上爬、在屋顶上跑、躲在地下室；Rowan 这时递来一个邮政小包（一角坠着块东西），老头说是妻子坚持在他这儿订绣线，\"我只是送信的\"",
-   "anchor": "It’s got away from you, hasn’t it?",
-   "start": 5863,
-   "end": 5897
   }
  ]
 }

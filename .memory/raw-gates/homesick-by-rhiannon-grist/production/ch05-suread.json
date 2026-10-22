@@ -4,52 +4,52 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch05_chapter_5.txt",
  "facts": [
   {
-   "fact": "她沿没有步道的直路往村里走，最近的地名叫 Carlinsrest；旅游网站把它写成\"去高地途中游客的友好一站\"\"漫游者的乐土\"，她搬家前从没听过",
-   "anchor": "The closest village was a place called Carlinsrest.",
-   "start": 337,
-   "end": 388
+   "fact": "去村子的公路没有人行道，好在有些路段笔直清静，来车来货车大概能提前察觉；过了最靠近 Sgàthan Sìth 1a、1b 的那段路有个岔口；她用快没电的手机查到最近的村子叫 Carlinsrest——VisitScotland 称它\"去高地途中对游客友好的一站\"，TripAdvisor 称它\"漫步者的乐土\"；搬来那次\"月光逃遁\"之前她从没听说过这地方",
+   "anchor": "There was no footpath along the road, but it was straight and quiet enough in places that I’d hopefully get a heads up if a car or a lorry came careening through.",
+   "start": 13,
+   "end": 175
   },
   {
-   "fact": "一群穿防风外套的徒步者在梯磴上冲她喊\"早\"，她当场僵住张着嘴；其中一人嘟囔\"乡下不是该很友好吗\"，她慌慌张张走了左边的路",
-   "anchor": "“Thought the countryside was supposed to be friendly,” one of the man’s companions muttered.",
-   "start": 1176,
-   "end": 1268
+   "fact": "她拿不准村名该怎么念，又觉得开口问不礼貌；她怕自己又被当成那种\"从南方来、从本地人鼻子底下买走房产\"的无知外来户，于是决定闭嘴、别麻烦别人",
+   "anchor": "Was it Cahr-lins-rest or Care-lin-srest?",
+   "start": 573,
+   "end": 613
   },
   {
-   "fact": "她决定从此对每个徒步者、遛狗人和周末客都打招呼，先装出来，装到成真为止",
+   "fact": "正当她要\"别麻烦任何人\"时，一个灰胡子、穿冲锋衣的男人站在台阶式梯磴上冲她喊\"Morning!\"，身后还有一群同样穿冲锋衣的人笑着；他们上方一座山像一道绿色巨浪要压下来；她僵住、张嘴干吸气；那人的同伴嘟囔\"还以为乡下应该很友好\"，那人笑了；她慌慌张张走开，走左边的路去村子，决意不回头",
+   "anchor": "A grey moustached man in an anorak was stood on a stile.",
+   "start": 909,
+   "end": 965
+  },
+  {
+   "fact": "她想那男人说得对：自己现在是乡下人，该努力更友好——可要向每个徒步客、遛狗人、周末客挥手问好，她不确定自己受不受得了；她给自己打气\"装到会为止\"，又立刻自我打断\"别再装、装、装下去\"，然后说这次会不一样；她自认过去显得冷淡、被误当势利；她拿第一天上班当例子：她父母一个是邮差、一个是护士，她对坐办公室的了解全来自电视电影，入职时照想象买了白衬衫和打蜡黑长裤，想扮成\"自信的现代职业女性\"",
    "anchor": "Fake it till I make it!",
    "start": 1726,
    "end": 1749
   },
   {
-   "fact": "闪回第一天上班：她父亲是邮差、母亲是护士，关于坐办公室的一切都是从电视电影里学的，于是照想象买了白衬衫和蜡感黑长裤",
-   "anchor": "I don’t come from office workers.",
-   "start": 2035,
-   "end": 2068
+   "fact": "可同事们全穿连帽衫和 T 恤、埋头看屏幕戴耳机；她的桌子在几排桌子边缘、伸进主过道，桌上没有电脑，只有一本带公司标志的笔记本和一部座机，她提出后只拿到一台 iPad 去看公司网站、\"熟悉品牌\"；她左边那桌属于一个叫 Alan 的沉默男人，痴迷健身和没调味、微波加热的鸡肉，他的加高站立桌横梁被设计书、脏马克杯和他打字的力气压得直晃",
+   "anchor": "There was no computer. Just a branded notebook and a desk phone.",
+   "start": 2854,
+   "end": 2918
   },
   {
-   "fact": "第一天上工桌上只有一本品牌笔记本和电话，没有电脑；电话响起，一个生硬的声音问她是谁，并说这部电话原来是 Issy 的",
-   "anchor": "“This used to be Issy’s phone.”",
-   "start": 4410,
-   "end": 4441
+   "fact": "座机响了，全组没人抬头；她迟疑着接起，对方声音短促生硬：\"Who's this?\"；她答\"我是新来的邮件撰稿人 Tamsin\"；对方说\"这是 Issy 以前的电话\"，要她让 Issy 回电就挂了；她右边坐着一个白金发女人，耳机戴着、眼睛盯着屏幕，桌上马克杯印着\"ISOLDE'S PATIENCE\"；她挥手，女人一脸不耐地摘下耳机问\"你需要什么？\"，语气像酒吧打烊时的假客气；她确认对方是 Issy，转告有人找、没问名字，Issy 说\"大概是 Mel\"，她说\"对方好像挺急\"，Issy 说\"好，我过会儿就打\"，又把耳机戴上",
+   "anchor": "The mug on her desk said ISOLDE’S PATIENCE.",
+   "start": 4576,
+   "end": 4619
   },
   {
-   "fact": "下班时 Issy 邀她一起去喝酒，她太累，说了句\"抱歉我有事\"；对方挑眉、从鼻子里哼了一声，说\"哦，当然，'有事'\"",
-   "anchor": "“Sorry, I’ve got a thing.”",
-   "start": 6369,
-   "end": 6395
+   "fact": "到六点她只想回家缓一缓，一整天什么也没做却精疲力竭；下楼去门厅时 Issy 拍她肩，问\"我们几个要去喝一杯，你来吗？\"；她读不懂对方那张冷淡无表情的脸，累得判断不出是无聊、漠然还是紧张，于是犯了\"致命错误\"——说\"抱歉，我有件事\"；Issy 挑眉、从鼻子哼了一声：\"哦，当然。一件'事'。\"；她心里冒出\"冷淡。势利。冷血动物。\"；她补救\"不，我真的——下次吧\"，Issy 说\"当然\"，头也不回地出门；她从玻璃门上看清自己：衬衫皱了几处、裤腰滑到胯下、整个人像泄了气，顶灯把那张丧气的脸照得清清楚楚",
+   "anchor": "Standoffish. Snobbish. A cold fish.",
+   "start": 6486,
+   "end": 6521
   },
   {
-   "fact": "她回想城里的社交：好像要求你立刻被看透、随时能找到，却永远保持礼貌的距离；一切靠复杂的 app 和即时消息，让她又晕又像被冒犯",
-   "anchor": "to be instantly knowable, constantly reachable, but always at a polite distance.",
-   "start": 7359,
-   "end": 7439
-  },
-  {
-   "fact": "在 BODACHS BRIG 桥上她向推着轮椅老伴的老先生问早，被无视；他掉了两张五十镑，她追上去还给他，他点头、放了一个低而短促的屁，就走了",
-   "anchor": "farted—a low, singular parp—and went on his way.",
-   "start": 9736,
-   "end": 9784
+   "fact": "她沿河走到 Carlinsrest 的桥：桥很古旧，圆石上生着地衣与苔藓，桥柱上钉着一块同样老旧但没那么老的牌子，写着\"BODACHS BRIG\"；对面来了一位穿棕褐毛背心、戴鸭舌帽的老先生——她眯眼一看，那\"两只鹿角\"其实是两撮硬白头发；他推着轮椅，椅上坐着一位同样苍老的老太太，裹着一件大了两号的旧蜡布夹克、兜帽拉起、头后仰、张嘴打鼾，旁边小跑着一条吐舌的牧羊犬；她摆出最快乐正常的笑喊\"Morning!\"，老人几乎没看她一眼就过去了，连狗都没理她；她脸上的笑僵成龇牙，怀疑自己是不是搞反了——难道只有游客才在乡间路上跟陌生人打招呼？这时老人推轮椅碾过一块鹅卵石，一叠东西从他口袋里飘出：像一只将死的粉蝴蝶，不，是两张五十英镑钞票，被风卷到她脚边；她用靴子踩住，免得吹下桥落进河里；她左右看，没人注意，想到自己迅速缩水的存款和换挡风玻璃的钱，还是把钞票捡起、在袖子上掸了掸，追上去说\"先生，你掉了东西\"；老人看看她、看看钱，慢慢接过，简单点了个头，然后转身放了个又低又单响的屁，继续走他的路；她惊讶地眨眼，不明白自己何必多事；河水映出她的倒影，脸藏在阴影里；她心里骂自己：你还指望什么？指望因为没偷钱就给你来一场他妈的大游行？然后她对自己说：好吧，也许下一次互动就是了，然后我就会更好",
+   "anchor": "A dying pink butterfly. No. Two fifty-pound notes.",
+   "start": 9068,
+   "end": 9118
   }
  ]
 }

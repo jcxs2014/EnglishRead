@@ -4,136 +4,52 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch42_chapter_42.txt",
  "facts": [
   {
-   "fact": "她无声地对他比口型：\"你在这儿干什么？\"",
-   "anchor": "What are you doing here? I mouthed at him.",
-   "start": 14,
-   "end": 56
-  },
-  {
-   "fact": "\"浴室里的 Rowan\"把脸往门缝里又挤进去一点",
-   "anchor": "Rowan-in-the-bathroom pushed his face further into the gap in the door.",
-   "start": 59,
-   "end": 130
-  },
-  {
-   "fact": "他说想来看看她，见门开着、担心出了事就进来，然后听见\"那个东西\"，就跑去躲起来；声音压得低、在抖，问\"那是什么？为什么它听起来像我的声音？\"",
+   "fact": "她用口型问浴室里的 Rowan\"你在这干什么\"；他解释：本来想来看看她，见门开着怕出事就进来，随后听见\"那个……东西……\"，吓得跑来躲进浴室；声音压得又低又抖，问\"那是什么？为什么它听起来像我？\"",
    "anchor": "“I wanted to check in on you. Then I saw the door was open and I was worried something had happened, so I stepped inside and then I heard that… thing… and I ran and hid.”",
    "start": 133,
    "end": 303
   },
   {
-   "fact": "她胸口发紧、手心出汗：全是她的错，她得把他弄出去——可她到底怎么把他弄出去",
-   "anchor": "My chest went tight and my hands started to sweat. This was all my fault. I had to get him out. How in the hell was I going to get him out?",
-   "start": 379,
-   "end": 518
+   "fact": "她胸口发紧、两手出汗，认定全是自己的错，必须把他弄出去——却想不出怎么弄",
+   "anchor": "This was all my fault. I had to get him out.",
+   "start": 430,
+   "end": 474
   },
   {
-   "fact": "楼下刚下几级台阶的地方，那个声音喊：\"你还好吗？\"",
-   "anchor": "“Are you alright?” the voice called from just down the stairs.",
-   "start": 521,
-   "end": 583
+   "fact": "楼梯下方那个声音问\"你没事吧？\"；浴室 Rowan 缩回门后，低声急喊\"它来了，它来了！快，躲进来\"；楼梯最下一级在黑暗里吱呀一响；他伸手给她",
+   "anchor": "“It’s coming, it’s coming!” he whispered. “Quick, hide in here.”",
+   "start": 641,
+   "end": 705
   },
   {
-   "fact": "楼梯最下面那级在黑暗里吱呀作响",
-   "anchor": "The bottom step of the stairs creaked in the dark.",
-   "start": 708,
-   "end": 758
-  },
-  {
-   "fact": "浴室里的 Rowan 朝她伸出手",
-   "anchor": "Rowan-in-the-bathroom reached out his hand to me.",
-   "start": 761,
-   "end": 810
-  },
-  {
-   "fact": "她伸过去要抓，一只手从斧柄上松开，然后停住了",
-   "anchor": "I went to grab it, taking one hand off the axe, then stopped.",
-   "start": 813,
-   "end": 874
-  },
-  {
-   "fact": "她想起那句\"她会猎捕你\"",
-   "anchor": "“She will hunt you.”",
-   "start": 877,
-   "end": 897
-  },
-  {
-   "fact": "她想起 Fergus 讲的故事：楼下有一个妈妈，浴室里也有一个——你选哪个？",
+   "fact": "她一只手离斧去抓他的手，又停住——想起\"她会猎你\"，也想起 Fergus 讲的故事：楼下一个妈妈、浴室一个妈妈，你选哪个？于是把两只手都放回斧柄；浴室 Rowan 先惊慌、后慢慢震惊",
    "anchor": "I remembered Fergus’s story. One mum downstairs. One in the bathroom. Who do you choose?",
    "start": 900,
    "end": 988
   },
   {
-   "fact": "她把两只手都放回斧柄上",
-   "anchor": "I put both hands back on the axe.",
-   "start": 991,
-   "end": 1024
+   "fact": "他催她\"Tamsin？你在干什么？快来\"，她后退，他喊\"你疯了吗\"，她退向楼梯，他的脸扭成愤怒，喊\"你会把我们两个都害死\"",
+   "anchor": "“You’re going to get us both killed!”",
+   "start": 1254,
+   "end": 1291
   },
   {
-   "fact": "他先是惊慌，然后慢慢变成震惊",
-   "anchor": "Rowan-in-the-bathroom looked at me, panicked at first, then slowly shocked.",
-   "start": 1025,
-   "end": 1100
+   "fact": "她道歉说\"但你不是 Rowan\"；他靠着浴室门、眼周皮肤抽动，问\"你真觉得那东西是我？\"；她答\"不。你们两个都不是 Rowan。Rowan 不在这里\"",
+   "anchor": "“No,” I said. “Neither of you are Rowan. Rowan’s not here.”",
+   "start": 1452,
+   "end": 1511
   },
   {
-   "fact": "她后退，他喊：\"Tamsin！你疯了吗？\"",
-   "anchor": "“Tamsin! Are you nuts?”",
-   "start": 1162,
-   "end": 1185
-  },
-  {
-   "fact": "他的脸扭成一团怒火；他喊：\"你会把我们俩都害死！\"",
-   "anchor": "His face curdled into anger.",
-   "start": 1223,
-   "end": 1251
-  },
-  {
-   "fact": "她说：\"对不起，但你不是 Rowan。\"",
-   "anchor": "“I’m sorry,” I said, “but you’re not Rowan.”",
-   "start": 1294,
-   "end": 1338
-  },
-  {
-   "fact": "他靠着浴室门瘫下去，眼睛周围的皮肤抽动着",
-   "anchor": "He sank against the bathroom door. The skin around his eyes twitched.",
-   "start": 1341,
-   "end": 1410
-  },
-  {
-   "fact": "房子突然静止下来，像一只上满弦、等着弹起的捕兽夹那样静止",
-   "anchor": "The house was suddenly still in the way a loaded, waiting, spring trap is still.",
-   "start": 1578,
-   "end": 1658
-  },
-  {
-   "fact": "他的脸塌了下去——若不是知道得清楚，她会把那读成失望、绝望",
-   "anchor": "His face sagged.",
-   "start": 1799,
-   "end": 1815
-  },
-  {
-   "fact": "直到第一小片碎玻璃从眼皮底下探出来、把眼角皮肤顶得皱起，她才明白那不是抽搐，而是在\"装满\"，像一只零钱包",
+   "fact": "那东西盯着她，房子静得像上了膛的弹簧夹；她不敢眨眼；他的脸垮下来，若不是她知道底细，会读成失望与绝望；眼周抽动其实是\"在填充\"，像零钱包鼓起，直到第一片细小玻璃碎片从眼皮下探出",
    "anchor": "It was only when the first, tiny shard of glass peeked out from under its eyelids, puckering the skin at the corners, that I realised it wasn’t twitching but filling, like a coin purse.",
    "start": 1987,
    "end": 2172
   },
   {
-   "fact": "一股墨水似的碎玻璃从眼珠底下滚出来，挂在眼皮薄薄的皮肤上",
+   "fact": "墨黑的碎玻璃从眼球下涌出、挂在薄眼皮上；它的嘴张成一个完美的黑色\"哦\"，圆得不自然，发出一声刺穿墙壁的尖叫；碎玻璃一闪，假 Rowan 扑向她；她惊恐中忘了斧头，扭身躲开，在最高一级台阶滑倒、绊着自己的脚，一路滚下楼梯，滚进下面那片黑暗——那个声音正在那里等她",
    "anchor": "An inky stream of splintered glass tumbled from under its eyeballs, catching in the thin skin of its eyelids.",
    "start": 2175,
    "end": 2284
-  },
-  {
-   "fact": "它的嘴张成一个完美的黑色\"哦\"，圆得毫无自然可言，然后发出一声刺穿墙壁的尖叫",
-   "anchor": "Its mouth pulled into a perfect dark ‘oh’, too round to feel natural in any way, and shook the walls with a piercing scream.",
-   "start": 2285,
-   "end": 2409
-  },
-  {
-   "fact": "她在最高一级滑了一下、脚下绊住，摔下楼梯，跌进下面那片黑暗——那个声音正在那里等她",
-   "anchor": "I slipped on the top step, fumbled on my own feet and tumbled down the stairs, down into the dark below where the voice was waiting for me.",
-   "start": 2546,
-   "end": 2685
   }
  ]
 }

@@ -4,85 +4,49 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch43_chapter_43.txt",
  "facts": [
   {
-   "fact": "往下滚的每一级台阶她都感觉到了",
-   "anchor": "I felt every stair on the way down.",
-   "start": 14,
-   "end": 49
-  },
-  {
-   "fact": "每一下都像有个狂怒的攻击者把棍子朝她身上砸",
-   "anchor": "Each blow felt like a stick hurled against my body by a furious assailant.",
-   "start": 52,
-   "end": 126
-  },
-  {
-   "fact": "最后撞上地板，把胸里的气全撞空了",
-   "anchor": "The final impact with the floor knocked the air out of my chest.",
-   "start": 127,
-   "end": 191
-  },
-  {
-   "fact": "她气喘着摊开手臂，斧头仍攥在没缠绷带的那只手里——奇迹般没被斧刃戳伤",
-   "anchor": "Miraculously, I hadn’t gouged myself with it.",
-   "start": 273,
+   "fact": "她滚下每一级楼梯都感觉得清清楚楚，像被愤怒的袭击者一棍一棍抽在身上；最后一撞把气都撞出胸口；斧头仍攥在没包扎的那只手里，居然没割到自己；她慢慢摸遍四肢查骨折，小腿淤青但没断，手臂也一样",
+   "anchor": "I wheezed and splayed out my arms, the axe still clutched in my unbandaged hand. Miraculously, I hadn’t gouged myself with it.",
+   "start": 192,
    "end": 318
   },
   {
-   "fact": "她慢慢拍打四肢检查有没有骨头穿皮、有没有不该弯的地方弯了；小腿淤青但没断，手臂也是",
-   "anchor": "My shins were bruised, but unbroken. My arms, the same.",
-   "start": 476,
-   "end": 531
-  },
-  {
-   "fact": "她心里那句话：\"行吧，现在你确实把她引上猎途了。\"",
+   "fact": "她趴在地上时脑中冒出一句冷话：这下你可算把她惹成猎人了",
    "anchor": "Well, you definitely have her on the hunt now.",
    "start": 534,
    "end": 580
   },
   {
-   "fact": "黑暗里传来一句：\"这不是你的家。\"",
+   "fact": "她忍痛起身，肋侧立刻一阵尖痛、叫出声；黑暗里传来\"这不是你的家\"——不是刚才那个声音，是另一个，在客厅另一侧，近但辨不出确切方位；她僵住咬牙，在黑暗里找轮廓",
    "anchor": "“This is not your home.”",
    "start": 737,
    "end": 761
   },
   {
-   "fact": "是那个声音——不，是另一个，在客厅另一头；很近，但近不到能确定到底从哪儿来",
-   "anchor": "It was the voice. No, a different one. On the other side of the living room.",
-   "start": 764,
-   "end": 840
+   "fact": "那人影自黑暗中浮出：只剩对着厨房微光的轮廓，两足、四肢很长、瘦，静止得彻底",
+   "anchor": "Bipedal, long-limbed and slender. They were still, perfectly still.",
+   "start": 1204,
+   "end": 1271
   },
   {
-   "fact": "它的长篇宣告：你可以带来所有文书、钱币、族谱、刀剑、陶器、盾牌，向你的神祈祷、念咒、摇符、引你的法、重复你的曼陀罗、陈述你的\"事实\"——\"这毫无意义\"",
+   "fact": "它用嘶嘶的气声说：纸、钱、族谱、剑、陶器、盾，你尽可以搬来；向你的神祈祷、念咒、摇符、引法、念口头禅、陈述你的\"事实\"——全都没有意义",
    "anchor": "“You can bring all the papers and the coins and the genealogical charts and the swords and the crockery and the shields. You can pray to your gods and chant your spells and shake your charms and cite your laws and repeat your mantras and state your ‘facts.’ It means nothing.”",
    "start": 1319,
    "end": 1595
   },
   {
-   "fact": "那身影头上亮起一对眼睛；她只因为它们长在脸上该在的位置才认出是眼睛——圆圆的、闪烁的光点",
-   "anchor": "A set of eyes lit up in the figure’s head. I only knew they were eyes because of where they sat on their face.",
-   "start": 1598,
-   "end": 1708
+   "fact": "它脸上亮起一对眼睛——若不是长在眼睛该在的位置根本认不出是眼睛，只是圆圆闪烁的光点；人影没动，声音却贴着她耳边说\"这不是你的房子\"；她心跳催她：出去出去出去，别管结了、别管越界，先出去",
+   "anchor": "The figure hadn’t moved, but the voice spoke beside my ear.",
+   "start": 1804,
+   "end": 1863
   },
   {
-   "fact": "身影没动，声音却在她耳边说：\"这不是你的房子。\"",
-   "anchor": "“This is not your house.”",
-   "start": 1866,
-   "end": 1891
+   "fact": "她挥斧打中什么、一声尖啸，人影消失；月光下屋子仍是空的——没有沙发、没有扶手椅、没有待客的餐桌，只有一张羊皮毯；她一直没空添家具，这地方像没人住，孤独、空、冷",
+   "anchor": "It was still bare. Bare as I’d found it. Bare as I’d left it. No sofa, no armchair, no dining table for dinner parties with friends. Just a single sheepskin rug.",
+   "start": 2840,
+   "end": 3001
   },
   {
-   "fact": "月光下屋子还是空的——和来时一样空、和她走时一样空；没有沙发、没有扶手椅、没有待客的餐桌，只有一张羊皮地毯；她这才想起自己一直没时间买家具：没有软的东西替脆弱的她挡住四围硬石墙",
-   "anchor": "No soft things to buffer my fragile self from the hard stone walls built up around me.",
-   "start": 3091,
-   "end": 3177
-  },
-  {
-   "fact": "她本能地去够自己的怒火，发现它一如既往只差分毫——因为在这个世界里，那是活下去的关键：手指永远搭在扳机上",
-   "anchor": "I instinctively reached for my anger, finding it—as always—a hair’s breadth away.",
-   "start": 3691,
-   "end": 3772
-  },
-  {
-   "fact": "月光积在客厅地板上，把 Rowan 被打得变形的脸照成冷冷的蓝色；他头周围摊开一洼洼黑色液体",
+   "fact": "她喊\"来啊，你在哪\"，右侧木头炸响、前门被撞开，怪物从外面冲进来（野猪、弥诺陶洛斯、复仇女神，肢体爪子与亮而水汪的眼睛）；她凭\"愤怒永远只隔一根发丝\"的本能挥斧猛砍，砍到挥空、失衡倒地；铜腥味盖过门外飘进的树与花粉味；月光照出 Rowan 被打烂的脸，头边摊开一滩滩黑液",
    "anchor": "Moonlight pooled on the living room floor, casting Rowan’s battered face in cool blue light. Puddles of black liquid spread around his head.",
    "start": 4600,
    "end": 4740

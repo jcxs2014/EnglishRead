@@ -4,190 +4,52 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch50_chapter_50.txt",
  "facts": [
   {
-   "fact": "她回到邻居的客厅；和她先前猜的一样，这里现在和刚才那间卧室一样破败",
-   "anchor": "I was back in my neighbour’s living room. As I’d suspected earlier, it was now as dilapidated as the bedroom before.",
-   "start": 14,
-   "end": 130
-  },
-  {
-   "fact": "沙发垫塌陷、裂开，泡沫从角上冒出来",
-   "anchor": "The sofa cushions were sunken and ripped, their foam spilling out at the corners.",
-   "start": 133,
-   "end": 214
-  },
-  {
-   "fact": "壁炉在崩裂、发潮；咖啡桌上蒙着一层污垢和老鼠屎",
-   "anchor": "The fireplace was crumbling and damp. The coffee table was covered in a layer of grime and mouse droppings",
-   "start": 215,
-   "end": 321
-  },
-  {
-   "fact": "她闪过一个念头：那些发苦的绿色玻璃碎片，在她试着吞下去时割开她的喉咙",
-   "anchor": "I briefly imagined those bitter, green shards slicing my throat as I tried to swallow them.",
-   "start": 372,
-   "end": 463
-  },
-  {
-   "fact": "她甩开那念头，去摸手里的线：两个结——两场考验已过，还剩两场",
-   "anchor": "I shook the thought from my head and fingered the thread in my hand instead. Two knots. Two challenges down. Two more to go.",
-   "start": 466,
+   "fact": "她回到邻居（1a）破败的客厅，数着手里的线结：两个结、两关已过、还剩两关；伤痛加剧，仍拿起斧头往地下室走。",
+   "anchor": "Two knots. Two challenges down. Two more to go.",
+   "start": 543,
    "end": 590
   },
   {
-   "fact": "她曾把这边的房子想象成一个整洁的隐修处、一个嬉皮派对屋、一座奢华的女神神庙；真看到时却有点\"雷声大雨点小\"",
-   "anchor": "After all the different ways I’d imagined this side of the house—a tidy hermitage, a hipster party pad, a luxurious temple to the feminine divine—seeing it for real was anti-climactic somehow.",
-   "start": 1102,
-   "end": 1294
-  },
-  {
-   "fact": "就像你当面质问出轨的恋人、对方却哭起来：你不太能生出同情，但也不再那么理直气壮地愤怒了",
-   "anchor": "Like when a cheating lover cries when you confront them and you can’t quite feel pity for them but you’re not as righteously angry anymore.",
-   "start": 1374,
-   "end": 1513
-  },
-  {
-   "fact": "这一次没有音乐，也没有诱人的光和暖把她引向下一层",
-   "anchor": "This time there was no music, no inviting light and warmth drawing me to the next level.",
-   "start": 2008,
-   "end": 2096
-  },
-  {
-   "fact": "脚下的楼梯变软了，地毯更厚、也更磨破",
+   "fact": "地下室的楼梯越走越软、地毯变厚变毛，场景渐渐变成阴天草坡，冷风扑面、闻到海味。",
    "anchor": "The stairs became soft underfoot. The carpet grew thicker and more frayed.",
    "start": 2600,
    "end": 2674
   },
   {
-   "fact": "她意识到自己不是在往下走，而是在一个阴沉的下午走上一座长草的山坡",
-   "anchor": "I realised I was no longer descending, but walking up a grassy hill on an overcast afternoon.",
-   "start": 2715,
-   "end": 2808
-  },
-  {
-   "fact": "忽然，她闻到了海",
-   "anchor": "And then suddenly, I could smell the sea.",
-   "start": 2981,
-   "end": 3022
-  },
-  {
-   "fact": "山坡平缓下来，她站在海滩上方、靠近她长大的那座镇子的悬崖上",
-   "anchor": "The hill levelled off and I was on the cliffs above the beach close to the town where I’d grown up.",
-   "start": 3025,
-   "end": 3124
-  },
-  {
-   "fact": "某人的格子围巾被风卷着飞过崖边",
-   "anchor": "Someone’s tartan scarf went flying over the cliff edge.",
-   "start": 3323,
-   "end": 3378
-  },
-  {
-   "fact": "她父亲裹着抓绒衣和防水外套，抓紧一小卷细线，把自己稳在草地上",
+   "fact": "悬崖上，父亲穿抓绒衣和防水外套、抓着线轴放黄风筝；两个卷发、甜脸的小女孩（Grayson 姐妹）靠在他腿边，他把风筝线递给她们。",
    "anchor": "My father, wrapped in a fleece and a waterproof, was anchoring himself into the grass as he gripped a fine spool of string.",
    "start": 3503,
    "end": 3626
   },
   {
-   "fact": "两个小姑娘——最漂亮的卷发、甜心的脸蛋、完美的一对——靠在她父亲腿边，笑着接过风筝线：Grayson 家的女孩",
-   "anchor": "Two little girls, with the prettiest curls and sweetheart faces, a perfect pair, leaned into my father’s legs, giggling and smiling as he passed them the kite string. The Grayson girls.",
-   "start": 3846,
-   "end": 4031
-  },
-  {
-   "fact": "路过的老夫妇赞许地微笑：\"如今这年头，看到一个男人拥抱父职是好事。\"",
-   "anchor": "“This day and age, it’s good to see a man embrace fatherhood.”",
-   "start": 4257,
-   "end": 4319
-  },
-  {
-   "fact": "可那两个笑着的快乐女孩，都不是她父亲的女儿",
+   "fact": "关键：两个女孩都不是父亲的女儿；他亲生女儿 Tamsin 就在旁边看着，母亲把她拉到一边，不让她一起玩。",
    "anchor": "Except neither of the smiling, happy girls were my father’s daughter.",
    "start": 4322,
    "end": 4391
   },
   {
-   "fact": "母亲对她说的版本不同：\"她们没有父亲了，让她们跟你爸玩吧。分享是好事。\"",
+   "fact": "母亲的说法是“她们没有父亲了，让她们跟你爸玩，要懂得分享”；此后两个女孩长期来家里吃饭、过周末、过生日、过圣诞。",
    "anchor": "They don’t have a father anymore, she’d said, so let them play with your dad. It’s good to share.",
    "start": 5128,
    "end": 5225
   },
   {
-   "fact": "可她也开始拔自己的头发、咬掉嘴唇上的皮",
-   "anchor": "But I also started pulling out my hair and biting the skin off my lips.",
-   "start": 6573,
-   "end": 6644
-  },
-  {
-   "fact": "学校里她趁 Lucy 要坐下时把椅子抽走",
+   "fact": "她在学校把姐姐 Lucy 的椅子抽走；父亲赶到后先蹲下安慰 Lucy、抱住她，再默默签字把她接回家，一路无话。",
    "anchor": "I pulled the chair out from under her as she went to sit down.",
    "start": 6773,
    "end": 6835
   },
   {
-   "fact": "父亲先到走廊去看 Lucy，蹲下来擦她的眼泪、抱了她，然后一言不发地给她办了离校手续、开车带她回家",
-   "anchor": "He checked on Lucy first out in the hallway. He got down on her level and wiped away her tears and gave her a hug.",
-   "start": 6919,
-   "end": 7033
-  },
-  {
-   "fact": "她记得自己想象灵魂离开身体、飞上山崖上空灰色的天，像一只黄色风筝，明亮又自由",
-   "anchor": "I remember imagining I’d left my body and was flying up into a grey sky over the cliffs, a yellow kite, brilliant and free.",
-   "start": 7223,
-   "end": 7346
-  },
-  {
-   "fact": "她这才注意到风筝线是红色的——一卷红线",
-   "anchor": "I noticed now that the kite string was red. A spool of red string.",
-   "start": 7349,
-   "end": 7415
-  },
-  {
-   "fact": "父亲啧了一声：\"Tammy，这什么话。\"",
-   "anchor": "“Such language, Tammy.” My father tutted.",
-   "start": 7608,
-   "end": 7649
-  },
-  {
-   "fact": "父亲对她说：\"看她们多会分享？你真该对她们好一点。你根本不知道她们过得多难。\"",
-   "anchor": "“See how well they share?” my father said to me. “You really should have been better to them. You’ve no idea how hard it’s been for them.”",
-   "start": 7828,
-   "end": 7966
-  },
-  {
-   "fact": "她爆发：她们的父亲没死、没抛下她们，甚至没离开这座镇子，只是搬到了两条街外",
-   "anchor": "Their father didn’t die. He didn’t leave them. Fuck, he didn’t even leave the town. He moved two streets over.",
-   "start": 8190,
-   "end": 8300
-  },
-  {
-   "fact": "她说：Laura-Ann 美甲课毕业时，你给她买了车",
+   "fact": "她翻旧账：小女儿 Laura-Ann 美甲课毕业，父亲送她一辆车；Lucy 怀孕，父亲把她搬进家里（占了 Tamsin 的旧房间）；而她自己大学毕业只得到一顿“去找工作”的说教。",
    "anchor": "When she”—I pointed at Laura-Ann, the smallest girl—“graduated from her nail course, you got her a car.",
    "start": 8951,
    "end": 9054
   },
   {
-   "fact": "而她大学毕业时，只得到一顿\"去找工作\"的说教",
-   "anchor": "But when I graduated from uni, I just got a lecture on finding a job.",
-   "start": 9268,
-   "end": 9337
-  },
-  {
-   "fact": "\"那你们他妈离婚的时候，谁在我身边？\"",
-   "anchor": "“Then who was there for me when you got fucking divorced?”",
-   "start": 9591,
-   "end": 9649
-  },
-  {
-   "fact": "母亲不在了——她搬到南方，改嫁进一个大家族",
-   "anchor": "My mother was gone. She moved down south and remarried into a large family.",
-   "start": 9791,
-   "end": 9866
-  },
-  {
-   "fact": "父亲点头叹气：\"我想你现在够大了，可以知道真相了。\"",
-   "anchor": "“I suppose you’re old enough now to know the truth.”",
-   "start": 10511,
-   "end": 10563
+   "fact": "父亲最后叹气说“你大了，该知道真相了”，本章在此收束。",
+   "anchor": "I suppose you’re old enough now to know the truth.",
+   "start": 10512,
+   "end": 10562
   }
  ]
 }

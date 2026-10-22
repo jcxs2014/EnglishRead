@@ -4,52 +4,52 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch41_chapter_41.txt",
  "facts": [
   {
-   "fact": "她回到 1b 时云已经散尽，车里、山上的空气都静得没有一丝风。",
-   "anchor": "The clouds had burned away by the time I got back to the house.",
-   "start": 14,
-   "end": 77
+   "fact": "云散日出时她回到房子；空气静止，车道上榆树叶子一动不动；山坡上两栋 Sgàthan Sìth 石屋背光而立、\"一脸被冒犯的表情\"看着她回来；她以为自己会怕，却只觉得麻木——一种\"对接下来必须发生之事的冷淡接受\"",
+   "anchor": "The Sgàthan Sìth cottages stood on the hill against the sun, their scandalised face in shadow, watching me return.",
+   "start": 173,
+   "end": 287
   },
   {
-   "fact": "她原以为回家会害怕，结果只剩麻木，冷静接受接下来必须发生的事。",
-   "anchor": "I thought I’d feel afraid, but I just felt numb.",
-   "start": 288,
-   "end": 336
-  },
-  {
-   "fact": "她再次看见自家那半扇门锁上新漆底下那些深划痕，但这一次看它们的心情不一样了。",
-   "anchor": "Once again, I noted the deep scratches sunken beneath the thick, fresh coat of gloss paint.",
+   "fact": "她用仍新仍亮的那把钥匙开自己这半边的锁；又注意到厚厚新漆底下陷着的深划痕——这回看它们的眼光不同了，心想\"它们撑了多久？\"；也发现自己没包扎的那只手很脏、很久没洗澡、头发里可能还有落叶，想到自己这副样子在村民和 Callie-Ann 眼里是什么样，\"要是没人吭声，说明情况真的很糟\"",
+   "anchor": "Once again, I noted the deep scratches sunken beneath the thick, fresh coat of gloss paint. I saw them differently this time.",
    "start": 483,
-   "end": 574
+   "end": 608
   },
   {
-   "fact": "她发现自己没包扎的那只手全是泥、很久没洗，头发里大概还有落叶，村人和 Callie-Ann 都没提。",
-   "anchor": "I also noticed the dirt on my unbandaged hand.",
-   "start": 649,
-   "end": 695
+   "fact": "屋里静得像屏住呼吸；金色光柱里尘埃凝住，她一进来就把它们搅得飞舞，像她的存在本身就足以打破这份安宁、或给这具\"空壳\"般的家带来活气；她心想\"习惯吧，因为我要留下了\"",
+   "anchor": "The house was quiet, as if it were holding its breath.",
+   "start": 941,
+   "end": 995
   },
   {
-   "fact": "她说给满屋静止的灰尘听：习惯吧，因为我要留下来。",
-   "anchor": "Get used to it, I thought. Because I’m staying.",
-   "start": 1227,
-   "end": 1274
+   "fact": "她没脱鞋，翻遍厨房柜子，把剩下的罐头一一煮掉：先喝汤、掰饼干泡着吃、用面包抹干净；再把第二罐辣豆盖上切薄的奶酪、借锅的余温化开；吃完对着水槽喝自来水、用没包扎的手洗脸、又啃了几块剩饼干——吃了东西后觉得\"准备得充分一点了\"",
+   "anchor": "I pulled out the remaining tins I’d bought and began to cook their contents, one by one.",
+   "start": 1336,
+   "end": 1424
   },
   {
-   "fact": "吃完罐头和饼干后她把空袋揉进垃圾桶，只为用别的声音盖住脑子里反复的那两句争论。",
-   "anchor": "I scrunched the empty cracker packet into the bin just to put a different noise in my head.",
-   "start": 2263,
-   "end": 2354
+   "fact": "眼角瞥见斧头的金属边；她想起 Callie-Ann 说邻居会先动手、也会诱她顺从恶念；脑中反复对打：\"你需要保护自己不被她伤\"／\"你需要保护自己不被你自己伤\"，\"她。你自己。她。你自己。\"；她揉掉饼干袋制造别的声响，看斧头\"一脸无辜\"地靠墙，最后决定\"宁可备而不用，也不要用时没有\"，抱起斧头上楼",
+   "anchor": "You need protection from her.",
+   "start": 2085,
+   "end": 2114
   },
   {
-   "fact": "她想起 Callie-Ann 既警告过邻居会来攻击，也说过她会想屈从自己那些不善良的冲动，于是拿起斧头。",
-   "anchor": "Callie-Ann had said my neighbour would be on the attack.",
-   "start": 1942,
-   "end": 1998
+   "fact": "她穿着衣服躺在光床垫上，针和线在口袋里，斧头像祷告一样沉甸甸压在胸口；\"房子 1b 在午后光里静静空着\"；她心想\"好吧影子，来抓我\"，闭眼睡去",
+   "anchor": "Alright, shadow, I thought to myself, come and get me.",
+   "start": 2825,
+   "end": 2879
   },
   {
-   "fact": "她被楼下的敲门声惊醒，来者在门外喊 Tamsin，声音是 Rowan。",
-   "anchor": "Knocking from downstairs.",
-   "start": 3464,
-   "end": 3489
+   "fact": "醒来时房间已全黑，她昏沉、像睡错时段般恶心发虚，又因听见暗处声响而肾上腺素一冲；楼下传来敲门声，是 Rowan 的声音问她醒着没；他说\"我想为昨天的事道歉\"，她心里涌起愧疚，骂自己\"愚蠢、善良、苦出来的软\"；她意识到自己其实想要帮助、想要 Rowan 的帮助，也许只要有朋友在场就够了——\"如果我们算朋友，这一夜就没那么危险\"，于是朝黑暗喊\"好，我下来\"",
+   "anchor": "“Tamsin?” A voice muffled by wood and night came from downstairs. “Are you awake?”",
+   "start": 3492,
+   "end": 3574
+  },
+  {
+   "fact": "她开门走到楼梯口，正要下楼放 Rowan 进来，耳边却听见一声吱呀；浴室门开着一道缝，黑暗里慢慢浮出一张脸——Rowan 的脸，从门缝里探出，灰白、惊恐；她呆看着那双惊惶的眼睛，同时听见他的声音又从楼下前门传来：\"我知道你在里面，跟我说话\"；浴室里的 Rowan 朝声音方向瞥一眼又看回她；她想\"Fergus 说对了一件事：这真像脑子坏了\"；她后退一步，地板响了一声；那声音已移到客厅，浴室里的 Rowan 用力摇头——她最怕的事发生了：\"我把他拖进了我的烂事，现在他也危险了\"",
+   "anchor": "He peered through the gap, ashen and terrified.",
+   "start": 4879,
+   "end": 4926
   }
  ]
 }

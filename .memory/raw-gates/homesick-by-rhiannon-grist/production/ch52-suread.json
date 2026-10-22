@@ -4,154 +4,52 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch52_chapter_52.txt",
  "facts": [
   {
-   "fact": "邻居的地下室和她的一模一样：刷白的墙、光裸的地板、墙上那道几乎藏不住的门，只是左右相反；连气味都一样",
-   "anchor": "Her basement had the same whitewashed walls as mine. The same bare floor. The same barely concealed door in the wall, only flipped, of course. It even smelled the same.",
-   "start": 49,
-   "end": 217
-  },
-  {
-   "fact": "三个结：三场考验",
+   "fact": "她回到与自家完全相同的 1a 地下室（白墙、裸地、暗门只是方向相反，气味也一样），摸口袋里的线：三个结、三关已过，只剩最后一关。",
    "anchor": "Three knots. Three challenges.",
    "start": 390,
    "end": 420
   },
   {
-   "fact": "和 Callie-Ann 谈过之后，她本以为会遇到更多让人暴怒的时刻",
-   "anchor": "After my chat with Callie-Ann, I’d expected a lot more… rage-inducing moments.",
-   "start": 434,
-   "end": 512
-  },
-  {
-   "fact": "可到目前为止没有一次让她气到那种程度：悲伤是有的，恐惧肯定有，骇然也肯定有——但气到要发疯？",
-   "anchor": "But none of the interactions so far had made me that angry. Sad, yes. Terrified, definitely. Horrified, most certainly. But angry to the point of snapping?",
-   "start": 513,
-   "end": 668
-  },
-  {
-   "fact": "她走进一间亮堂的现代办公室的门厅：玻璃隔断、怪趣家具。可不是随便哪间现代办公室",
-   "anchor": "I stepped into the foyer of a bright modern office, all glass dividing walls and funky furniture. But not just any modern office.",
+   "fact": "推门进入她旧公司的明亮现代办公室：玻璃隔断、怪趣家具、总监喜欢的橙色百合、墙上旧客户作品（不少是她做的）。",
+   "anchor": "I stepped into the foyer of a bright modern office, all glass dividing walls and funky furniture.",
    "start": 1166,
-   "end": 1295
+   "end": 1263
   },
   {
-   "fact": "那里摆着她那位总监喜欢的橙色百合",
-   "anchor": "There were the same orange lilies the director liked.",
-   "start": 1307,
-   "end": 1360
+   "fact": "周五下午四点“啤酒时间”，同事围在工位喝啤酒/苹果酒、戴毛线帽，围着一顶装满折纸签的礼帽。",
+   "anchor": "It was four o’clock on a Friday, or “Beer o’clock” as the team called it.",
+   "start": 2967,
+   "end": 3040
   },
   {
-   "fact": "她一直以为每个人都私下和她一样不快乐，只是更会藏",
-   "anchor": "I’d always assumed that everyone was secretly just as unhappy as I was, only they were better at hiding it.",
-   "start": 2222,
-   "end": 2329
+   "fact": "总监擦肩而过：亮黄连身裙、早白的波波头挑染霓虹蓝、标志性哑光唇釉、短而精致的热粉色指甲。",
+   "anchor": "the director passed by my shoulder, shining bright in a fitted sunshine-yellow suit.",
+   "start": 3119,
+   "end": 3203
   },
   {
-   "fact": "回头看，那位秘书一直对她很好；开发组也从没回避跟她聊天。也许她只是太专注于自己的苦，没看见",
-   "anchor": "Come to think of it, she’d always been nice to me. The Dev Team, too, had never seemed shy about chatting with me. Maybe I’d been a little too focused on my own misery to see it.",
-   "start": 2332,
-   "end": 2510
-  },
-  {
-   "fact": "总监具备她心目中现代职业女性应有的一切，也具备她所没有的一切",
-   "anchor": "She was everything I thought a modern career woman should be. And everything I was not.",
-   "start": 3718,
-   "end": 3805
-  },
-  {
-   "fact": "总监宣布：\"明星奖时间到！幸运儿有五十镑电子券。\"",
+   "fact": "月度 Star Awards，奖品是 50 镑数字代金券；她曾用标签模板把生产成本降了 25%，以为这次稳拿奖。",
    "anchor": "“It’s Star Awards time!” the director announced. “And I’ve got fifty quid in digital vouchers for our lucky winner.”",
    "start": 4969,
    "end": 5085
   },
   {
-   "fact": "念到她的提名时，总监挑眉、眯眼看纸条、靠上 Alan 的升降桌：\"最后是 CRM 部的 Tamsin，因为——开发了一个用标签自动填充客户邮件的模板。\"",
+   "fact": "提名念到她时，总监把她的成果念得像异国菜名，最后耸肩说“Whatever that is.”；奖给了 Felicity。",
    "anchor": "“And finally, we have”—she raised her eyebrows in surprise—“Tamsin from CRM Services for”—she squinted at the paper and leaned on Alan’s standing desk—“developing a template to automatically populate customer emails with tags.”",
    "start": 7876,
    "end": 8103
   },
   {
-   "fact": "她把每个词都念得像陌生菜单上的异国菜名，或某种早被遗忘的蜥蜴的分类名",
-   "anchor": "She said each word as if it were the name of an exotic dish on an unfamiliar menu, or the taxonomy of some long-forgotten lizard.",
-   "start": 8106,
-   "end": 8235
-  },
-  {
-   "fact": "总监耸耸肩：\"管它是什么呢。\"",
-   "anchor": "The director shrugged. “Whatever that is.”",
-   "start": 8238,
-   "end": 8280
-  },
-  {
-   "fact": "\"那么，本月明星奖颁给……Felicity！\"",
-   "anchor": "“In which case, this month’s Star Award goes to… Felicity!",
-   "start": 8678,
-   "end": 8736
-  },
-  {
-   "fact": "她对总监说：\"我看见你了，我明白。你……那么努力地跟年轻人套近乎。衣服、头发、指甲。\"",
-   "anchor": "“I see you and I understand,” I said. “You, uh… the way you try so hard to pal about with the younger ones. The clothes, the hair, the nails.",
+   "fact": "她没有发作，反而对总监说“我看得见你、我理解你”：靠衣服/头发/指甲跟年轻人称兄道弟、当年只能比男人更硬、如今把梯子抽掉；总监眼睛却不安地扫向别人。",
+   "anchor": "“I see you and I understand,” I said.",
    "start": 8969,
-   "end": 9110
+   "end": 9006
   },
   {
-   "fact": "\"你从没意识到，你是在身后把梯子往上收。\"",
-   "anchor": "You never realised you were pulling the ladder up behind you.”",
-   "start": 9247,
-   "end": 9309
-  },
-  {
-   "fact": "\"我不知道你当年有多担心。我们都担心。\"",
-   "anchor": "I don’t know how much you must have worried. We all worried.”",
-   "start": 9680,
-   "end": 9741
-  },
-  {
-   "fact": "\"你没弄懂我做的东西。你说得好像我们是在往邮件里塞标签。你弄错了。你根本不知道那是什么。\"",
-   "anchor": "“You didn’t understand what I’d made. You said it like we were putting tags into emails. You got it wrong. You didn’t know what it was.",
-   "start": 10210,
-   "end": 10345
-  },
-  {
-   "fact": "\"你不懂，而'不懂'让你害怕。所以你就开了个玩笑。\"",
-   "anchor": "You didn’t understand and it scared you not to understand. So, you made a joke instead.”",
-   "start": 10346,
-   "end": 10434
-  },
-  {
-   "fact": "她伸手去拿线，说：\"这从来都跟我无关。你——\"",
-   "anchor": "“It was never about me. You—”",
-   "start": 10767,
-   "end": 10796
-  },
-  {
-   "fact": "但她错了：这件事恰恰跟她有关",
-   "anchor": "But I was wrong. This was exactly about me.",
-   "start": 10799,
-   "end": 10842
-  },
-  {
-   "fact": "她看见自己出现在人群后面——不是旁观的那个她，是当年的那个她",
-   "anchor": "I watched as I appeared at the back of the crowd. Not the me-watching-this-happen. The me-back-then.",
-   "start": 10845,
-   "end": 10945
-  },
-  {
-   "fact": "那张总监随手把手穿过去、手指正搭在梁交叉处的桌子——X 标出的位置",
-   "anchor": "The desk the director had carelessly threaded her hand through, fingers resting right at the crossing of those beams, the X that marks the spot.",
-   "start": 11452,
-   "end": 11596
-  },
-  {
-   "fact": "她看着自己抓住安全栓",
+   "fact": "她发现自己“正是关于我”：她看着过去的自己绕到 Alan 的升降桌旁，抓住安全栓拉下——总监的手正随意穿在桌下交叉横梁间、指尖停在那个“X”上。",
    "anchor": "I watched myself grab the safety latch.",
    "start": 11599,
    "end": 11638
-  },
-  {
-   "fact": "她看着自己的脸，没有表情，嘴抿成一条细线",
-   "anchor": "I watched my face, expressionless, my mouth a thin line.",
-   "start": 11641,
-   "end": 11697
   }
  ]
 }

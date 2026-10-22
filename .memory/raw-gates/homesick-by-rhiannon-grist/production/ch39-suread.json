@@ -4,130 +4,52 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch39_chapter_39.txt",
  "facts": [
   {
-   "fact": "她走到村里，几乎认不出来",
-   "anchor": "When I reached the village, I barely recognised it.",
-   "start": 14,
-   "end": 65
-  },
-  {
-   "fact": "每道排水沟、每根路灯都挂着鲜艳的粉彩三角旗，在路面和人行道上投下飘动的影子；每家咖啡馆、餐馆、酒馆门口都堆着半边莲和三色堇的桶，浓烈的花香呛在喉咙后头",
+   "fact": "村子被彻底\"装饰化\"：每条排水沟和灯柱挂满粉彩三角旗，咖啡馆/餐馆/酒馆脚下堆满半边莲和三色堇，浓烈花香呛到喉咙；每扇窗挂荷叶边格子布，每张桌铺波点桌布——\"像 Hallmark 频道吐了一地\"，没有泥、草修得一样齐、鹅卵石干净，只剩粉彩塑料的单一种植，让她想起迪士尼、扮装人偶和自己最擅长写的品牌邮件",
    "anchor": "Bright pastel bunting hung from every gutter and every lamppost, casting fluttering shadows over the road and pavements.",
    "start": 68,
    "end": 188
   },
   {
-   "fact": "每扇窗都装上荷叶边格子布窗帘，每张桌子都铺着波点可擦桌布——\"像贺曼频道在这地方吐了一地\"；没有泥，草都一样齐，鹅卵石干净得过分",
-   "anchor": "It was as if the Hallmark channel had thrown up all over the place.",
-   "start": 452,
-   "end": 519
-  },
-  {
-   "fact": "装饰极端到\"所有被暗示出的温馨都被烧掉了\"，只剩一片粉彩塑料的单一种植园；这让想起迪士尼乐园、扮装角色、她当年很擅长写的那种品牌邮件",
-   "anchor": "It was so extreme that all inferred cosiness had been burned away and all that was left was a monoculture of pastel plastic.",
-   "start": 589,
-   "end": 713
-  },
-  {
-   "fact": "过 Bodach's Brig 桥时，她看见咖啡馆的 Maggie 假笑全没了，正拿扫帚敲咖啡馆窗边七只吊篮中的一只，边敲边皱眉；少年们不见踪影；村里很安静",
-   "anchor": "As I crossed Bodach’s Brig, I saw Maggie from Maggie’s Café, all pretence of a smile gone now, trying to knock down one of the seven hanging baskets clustered around the café windows with a broom, and scowling as she did.",
-   "start": 821,
+   "fact": "过 Bodach’s Brig 时，她看见 Maggie’s Café 的 Maggie 假笑全无，正拿扫帚想把咖啡馆窗边七个吊篮中的一个打下来，一边打一边皱眉",
+   "anchor": "I saw Maggie from Maggie’s Café, all pretence of a smile gone now, trying to knock down one of the seven hanging baskets clustered around the café windows with a broom, and scowling as she did.",
+   "start": 849,
    "end": 1042
   },
   {
-   "fact": "她盯着那份\"咄咄逼人的欢快\"装饰：花缠满每根路灯，直到看不见灯柱；花盆花槽把路弄得几乎走不通；她想笑，觉得这确实可笑，却笑不出来",
-   "anchor": "I stared at the aggressively cheery decoration.",
-   "start": 1112,
-   "end": 1159
+   "fact": "村里的少年们一个都不见，村子很安静（她盯着那股\"咄咄逼人的喜气\"：花缠满灯柱、花盆让路几乎没法走，她想笑却笑不出——那层体面薄壳底下压着真正失控的东西）",
+   "anchor": "The village was quiet.",
+   "start": 1087,
+   "end": 1109
   },
   {
-   "fact": "不只是那种威胁感、那层体面薄漆下真正失控的东西——\"还有别的。某种悲伤的东西。\"",
-   "anchor": "It wasn’t just the feeling of threat underlying it all, the thin veneer of respectability over something truly unhinged. There was something else.",
-   "start": 1372,
-   "end": 1518
-  },
-  {
-   "fact": "她用没伤的手去碰 Maggie 打落到地上的一只花篮：里面是小小的、娇嫩的水仙，花瓣白得几乎透明，喇叭口是阳光般的黄；花瓣在指间又冷又软",
-   "anchor": "The petals were cold and soft in my fingers.",
-   "start": 1753,
-   "end": 1797
-  },
-  {
-   "fact": "她想：\"可怜的小东西。你本该让人愉快，可你只是在把所有人吓跑。\"",
-   "anchor": "Poor wee thing, I thought. You’re supposed to be cheerful, but you’re just frightening everyone away.",
-   "start": 1800,
+   "fact": "她伸手碰被 Maggie 打落的花篮：里面是小而娇嫩的水仙，花瓣白得近乎透明、喇叭口金黄，摸上去又冷又软；她心里说\"可怜的小东西，你本该让人高兴，却把所有人都吓跑了\"——装饰底下还有\"某种悲伤\"",
+   "anchor": "You’re supposed to be cheerful, but you’re just frightening everyone away.",
+   "start": 1827,
    "end": 1901
   },
   {
-   "fact": "她直起身：该把这事查到底，趁疯劲还没蔓延到整个村子",
+   "fact": "她直起身，决定在疯狂蔓延到整个村子之前把这事查到底；她穿过一排向日葵，拐进通往 The Curtyard 的小巷",
    "anchor": "It was time I got to the bottom of this, before the madness spread across the whole village.",
    "start": 1923,
    "end": 2015
   },
   {
-   "fact": "她穿过一排向日葵、拐进通往 The Curtyard 的小巷，走进酒馆，发现村里大多数人缩在里面",
-   "anchor": "I stepped inside the pub and found most of the other villagers hunkering within.",
-   "start": 2109,
-   "end": 2189
-  },
-  {
-   "fact": "门一响，所有人跳起来转身，像她戳破了一只气球；地方挤满人却静得诡异，没人说话比耳语大声",
-   "anchor": "Everyone jumped and turned to the sound of the door as if I’d popped a balloon. The place was packed and yet eerily quiet. No one spoke louder than a whisper.",
-   "start": 2192,
-   "end": 2350
-  },
-  {
-   "fact": "Viv 站在吧台后盯着波纹玻璃窗，阳光的粉彩色在她 T 恤上一列斑马上跳动；阳台上的斑马们似乎在不满地旁观",
-   "anchor": "Viv stood behind the bar staring toward the rippled windows, the light from the sunny pastel colours dancing over the zebras marching across her T-shirt.",
-   "start": 2351,
-   "end": 2504
-  },
-  {
-   "fact": "她唯一没看到的脸是 Rowan 的（她想象他在上面的树间、坐在幼树丛里看云从谷上过来）和那个老头子的",
+   "fact": "酒馆里挤满村民却人人压低声音；她一进门所有人都像被气球炸响般惊跳转身；Viv 在吧台后盯着波纹玻璃窗、T 恤上斑马行走；脸红男人 Dave 几乎贴着吧台边；少年们挤在卡座、Fergus 从另一卡座看见她就低头——唯独不见 Rowan（她想象他在山坡树苗间看云）和\"那位老先生\"",
    "anchor": "The only faces I couldn’t see were Rowan’s—I imagined he was up among the trees, sat among the saplings, watching the clouds come over the glen—and the old man’s.",
    "start": 2810,
    "end": 2972
   },
   {
-   "fact": "之前那个男孩说：\"看，狗女人来了。\"——这一次没人笑",
+   "fact": "先前那个少年说\"看，狗女来了\"，这次没人笑；Dave 瞪他一眼叫他闭嘴，少年缩回卡座阴沉着脸",
    "anchor": "“Look. The dog woman’s arrived,” said the boy from earlier.",
    "start": 2975,
    "end": 3034
   },
   {
-   "fact": "Dave 朝男孩那边瞪眼：\"闭嘴。\"男孩缩回卡座里皱眉",
-   "anchor": "“Shut up.” Dave glowered in the boy’s direction. The boy sank down in the booth and scowled.",
-   "start": 3065,
-   "end": 3157
-  },
-  {
-   "fact": "Viv 在打电话，低声而愤怒地问什么时候有人能来\"把那片丛林砍下来\"；架子上那排斑马似乎往后缩",
-   "anchor": "She was on her phone, speaking in low, angry tones about when someone could come out to “hack the jungle down”.",
-   "start": 3201,
-   "end": 3312
-  },
-  {
-   "fact": "她问\"打扰一下，我在找——\"，Viv 没从窗上移开视线，指了指房间另一头：\"嗯，壁炉旁边那道门。\"",
-   "anchor": "“Yeah, through the door by the fireplace.”",
+   "fact": "她挤到 Viv 跟前，Viv 正低声恼火地打电话催人来\"把这堆丛林砍掉\"；Viv 没看她、只指向壁炉旁的门说\"就那扇门\"——她这才发现壁炉边有扇从没见过的门（以为可能是私人餐室）；Viv 又补一句\"她说了要留意你\"，她心想\"果然她在等我\"，便侧身进去",
+   "anchor": "“Yeah, through the door by the fireplace.” She pointed me across the room, not even looking away from the window.",
    "start": 3404,
-   "end": 3446
-  },
-  {
-   "fact": "壁炉旁果然有一道门，她以前从没见过那儿有门；也许是个私人餐室",
-   "anchor": "Sure enough, there was a door next to the fireplace. I’d never seen a door there before.",
-   "start": 3520,
-   "end": 3608
-  },
-  {
-   "fact": "Viv 说：\"她说要留意你。\"——当然，她在等她",
-   "anchor": "“She said to keep an eye out for you.”",
-   "start": 3652,
-   "end": 3690
-  },
-  {
-   "fact": "她穿过人群走到门边，溜了进去",
-   "anchor": "I shuffled through the crowd to the door and slipped inside.",
-   "start": 3729,
-   "end": 3789
+   "end": 3517
   }
  ]
 }

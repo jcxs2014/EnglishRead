@@ -4,52 +4,52 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch02_chapter_2.txt",
  "facts": [
   {
-   "fact": "一楼是一个打通的大房间：翘曲发黑的旧地板、未上漆的梁顶，左侧壁炉，右侧通二楼的楼梯，楼梯下有一扇斜切的柜门",
-   "anchor": "The ground floor was a single, open-plan room with warped wooden floorboards, blackened with age, and an unpainted, beamed ceiling.",
-   "start": 261,
-   "end": 392
+   "fact": "前门直通主起居区，室内外之间只有一道厚而发霉的帘子和一个下沉式瓷砖门廊；她评这是农工的实用做法，但入冬前得处理",
+   "anchor": "The front door opened straight into the main living space, with nothing but a thick musty curtain and a sunken tiled entryway to usher me between outside and in.",
+   "start": 13,
+   "end": 174
   },
   {
-   "fact": "她刚踏上地板就被尖锐物扎穿脚底，血透过新买的灰羊毛袜；她找钉子却找不到，钉子已被踩进地板缝里",
-   "anchor": "A circle of blood bloomed through the grey wool of my socks.",
-   "start": 2906,
+   "fact": "一楼是打通的大单间，无家具：左侧壁炉（厚木壁炉架、石砌烟囱腔直上屋顶），远端一排发黄橱柜作厨房（小冰箱冷冻柜、电灶、搪瓷水槽下藏褪色格子布帘），右侧是上二楼的楼梯，楼梯下有一扇为贴合斜度而切成斜角的门（大概是储物间）",
+   "anchor": "There was no furniture. On the left-hand side was a fireplace with a thick wooden mantel and a stone-clad chimney breast reaching up into the ceiling; on the far edge, a bank of yellowing cabinets made up the kitchen, complete with a small fridge-freezer, an electric stove, and an enamel sink with a faded gingham curtain hiding the space underneath it; then on the right there was a staircase leading up to the first floor.",
+   "start": 393,
+   "end": 818
+  },
+  {
+   "fact": "她瘫坐在门廊边缘查看脚：血透过灰羊毛袜晕开一圈；这双袜子是她专为这次搬家买的",
+   "anchor": "Sat slumped on the edge of the entryway, I checked my foot. A circle of blood bloomed through the grey wool of my socks.",
+   "start": 2846,
    "end": 2966
   },
   {
-   "fact": "木头的吱呀声从壁炉那面墙里传来，她认定是隔壁邻居在动，站定盯墙，声音随即停下",
+   "fact": "吱呀声是从壁炉那面墙里传来的；她认定是隔壁邻居在动，站起来盯着墙像等邻居从壁炉黑洞里走出来，随后声音停了",
    "anchor": "It was coming through the wall.",
    "start": 3961,
    "end": 3992
   },
   {
-   "fact": "房屋清单在供暖一栏只写\"生物质供暖系统\"，她先幻想成某种清洁能源，随后想到楼下可能有煤桶——意味着要烧煤取暖",
-   "anchor": "“Biomass heating system” it read.",
-   "start": 7341,
-   "end": 7374
+   "fact": "冷冻柜里又黑又是室温，冰箱也一样；墙上开关摸上去发黏，按了没反应，她估计得先通知水电公司——但至少说明屋里有电；清单写明有电、无煤气，她盯着壁炉想是否有柴火",
+   "anchor": "Inside it was dark and room temperature. The fridge, too.",
+   "start": 4644,
+   "end": 4701
   },
   {
-   "fact": "浴室没有电热水器，龙头只出冷水；倾角屋顶下只能蜷在浴缸里用花洒，她得先去开通水电",
+   "fact": "浴室在檐下、只有一扇 PVC 天窗，斜顶使淋浴无法站直，只能跪着或蜷在浴缸里洗；更关键的是没有电热水器，热水龙头只出冷水；清单上只写“shower bath”，供暖一栏写“Biomass heating system”，她由此想到壁炉边的煤桶，想象自己在煤火上烧水再端上楼",
    "anchor": "More importantly, there was no electric shower.",
    "start": 6775,
    "end": 6822
   },
   {
-   "fact": "二楼卧室同样有倾角屋顶与天窗，但窗上没有任何窗帘，与隔壁 1a 不同；前任住客留了一张床垫",
+   "fact": "卧室斜顶像大帐篷，后侧天窗望田野、前侧小窗被山墙檐遮着；与隔壁 1a 不同，她楼上的窗没有任何窗帘、百叶或遮板，长夏夜会很难熬；前任住客留下一张床垫但无床架",
    "anchor": "Unlike in 1a, my upstairs window had no curtains.",
    "start": 8994,
    "end": 9043
   },
   {
-   "fact": "她把檐下柜里那副摊开的晾衣架折起来时，眼前闪过荧光灯、笑声、亮粉色指甲油，随后是一声抽气、沉默、一声尖叫",
-   "anchor": "Fluorescent light. Laughter. Hot pink nail polish.",
-   "start": 10819,
-   "end": 10869
-  },
-  {
-   "fact": "她把晾衣架扔向树林却砸中自己车的挡风玻璃，玻璃立刻蜘蛛网般裂开，警报响起，1a 毫无反应",
-   "anchor": "It slipped out of my hands and into the windscreen of my car",
+   "fact": "她把那副晾衣架扔向树林却失了准，脱手砸进自己车的挡风玻璃，整块玻璃瞬间裂成蛛网；晾衣架弹开、像体操运动员般旋转着消失在五月新绿里，车警报响起，她抬头看 1a 毫无反应、连窗帘都没动一下",
+   "anchor": "It slipped out of my hands and into the windscreen of my car, instantly spiderwebbing the whole thing with cracks and shards.",
    "start": 12224,
-   "end": 12284
+   "end": 12349
   }
  ]
 }

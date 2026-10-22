@@ -4,105 +4,51 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch54_chapter_54.txt",
  "facts": [
   {
-   "fact": "她摸索把手、边沿，任何能撬开它的东西",
+   "fact": "门打不开；她抓斧劈门，木板后面只有砖与旧石墙——门不是消失，是仿佛从未存在。",
    "anchor": "I scrabbled for a handle, an edge, anything to pry it open again.",
    "start": 85,
    "end": 150
   },
   {
-   "fact": "金属砍穿木板，当一声撞在砖上；门的碎片落下，露出的是旧石墙",
-   "anchor": "The metal cut through the boards then clanged against brick. Fragments of door fell away, revealing nothing but old stone wall.",
-   "start": 350,
-   "end": 477
+   "fact": "她跪倒：家就在墙那侧（春天的花、秋天的彩叶），她差一点就到；她承认自己什么也没学会，在最后一栏倒下。",
+   "anchor": "I wasn’t getting out. It was over.",
+   "start": 552,
+   "end": 586
   },
   {
-   "fact": "门不是消失了，而是仿佛从来不存在",
-   "anchor": "The door wasn’t just gone. It was as if it had never been there at all.",
-   "start": 478,
-   "end": 549
-  },
-  {
-   "fact": "她以为要理解并原谅总监，但错了；这跟她对别人的怒气毫无关系",
-   "anchor": "I thought I’d had to understand and forgive the director, but I’d gotten it wrong. It wasn’t about my anger at other people at all.",
-   "start": 803,
-   "end": 934
-  },
-  {
-   "fact": "她在最后一道栏前摔倒了",
-   "anchor": "And I’d fallen at the very last hurdle.",
-   "start": 963,
-   "end": 1002
-  },
-  {
-   "fact": "邻居从黑暗里踱出来：\"你可真让我绕了一大圈。先是斧头，现在又这样。\"",
-   "anchor": "My neighbour prowled out of the darkness. “You really gave me the runaround there. First the axe. Now this.”",
-   "start": 1089,
+   "fact": "邻居从黑暗里踱出，笑说她“真能折腾：先是斧头，现在又这样”。",
+   "anchor": "“You really gave me the runaround there. First the axe. Now this.”",
+   "start": 1133,
    "end": 1199
   },
   {
-   "fact": "她长着我的脸，眼睛睁大、笑得脸都疼；月牙形的疤在她额头的弧线上发亮",
-   "anchor": "She wore my face, wide-eyed and grinning so hard it looked painful. The crescent moon scar shone along the curve of her forehead.",
+   "fact": "邻居长着她的脸、瞪大眼笑得发疼，额头上一道月牙形疤。",
+   "anchor": "She wore my face, wide-eyed and grinning so hard it looked painful.",
    "start": 1202,
-   "end": 1331
+   "end": 1269
   },
   {
-   "fact": "\"他们总把剩下的那点宝贵时间用来跟必然作对。\"",
-   "anchor": "“They always spend the precious little time they have remaining fighting the inevitable.”",
-   "start": 1595,
-   "end": 1684
+   "fact": "邻居说本不必这么难：有些人无法接受“终点已到”，用否认与讨价还价的结把自己缠住，最后一刻只剩愤怒、绝望、恐惧。",
+   "anchor": "“It didn’t have to be this difficult,” she said.",
+   "start": 1334,
+   "end": 1382
   },
   {
-   "fact": "\"他们把自己裹进否认和讨价还价的结里，跟一个根本不在乎的宇宙。\"",
-   "anchor": "They wrap themselves in knots of denial and bargaining with a universe that really doesn’t care.",
-   "start": 1717,
-   "end": 1813
+   "fact": "她讥讽地建议：本该去陪爱的人、去海滩或花园，留点好东西在最后想；但她俩都知道那没用。",
+   "anchor": "“You could have spent time with loved ones.”",
+   "start": 2087,
+   "end": 2131
   },
   {
-   "fact": "泥土从楼梯滚进地下室；土流从石墙缝里渗进来",
-   "anchor": "Rivulets of earth trickled in through the gaps between the stones in the wall.",
-   "start": 2422,
-   "end": 2500
-  },
-  {
-   "fact": "\"要是没有爱的人，就去个自己喜欢的地方。海滩。一座好花园。随便什么，在最后能想的美好东西。\"",
-   "anchor": "“Or if you don’t have any loved ones, gone somewhere you like to be. The beach. A nice garden. I don’t know, something nice to think about in the last moments.”",
-   "start": 2146,
-   "end": 2306
-  },
-  {
-   "fact": "\"得了吧 Tammy，你还不明白吗？我不是你跑来要摆脱的那个东西。\"",
-   "anchor": "“Oh, come on, Tammy. Don’t you understand yet?” She knelt down in front of me as soil rained down around her. “I’m not the one you came here to get rid of.”",
-   "start": 2809,
+   "fact": "关键反转：邻居说“你要除掉的人不是我”。",
+   "anchor": "“I’m not the one you came here to get rid of.”",
+   "start": 2919,
    "end": 2965
   },
   {
-   "fact": "她说自己好相处、好喜欢、好理解，不会为一句蠢话炸毛，也不记仇",
-   "anchor": "I’m easy to know. I’m easy to like. I’m easy to understand. I’m not going to bristle at some stupid comment. I’m not going to hold offense or a grudge.",
-   "start": 3430,
-   "end": 3581
-  },
-  {
-   "fact": "她说自己不会随口吐出童年那些让人不适的细节，没人知道她的童年",
-   "anchor": "I don’t randomly blurt out uncomfortable details about my childhood. No one knows what my childhood was like.",
-   "start": 3815,
-   "end": 3924
-  },
-  {
-   "fact": "\"我很好奇有多少人下注你会带枪进办公室，你个疯子。\"",
-   "anchor": "I wonder how many people had odds on you bringing a gun into the office, you fucking psychopath.",
-   "start": 4574,
-   "end": 4670
-  },
-  {
-   "fact": "她沉默地看着她；她没有任何辩词，没有反驳",
-   "anchor": "I watched her silently. I had no arguments, no rebuttal.",
-   "start": 4852,
-   "end": 4908
-  },
-  {
-   "fact": "她盯着她，眼里满是同情：\"我不是你的影子。你才是。\"",
-   "anchor": "She stared at me, eyes sympathetic. “You know the truth, right? Deep down, you’ve got to know,” she said. “I’m not your shadow. You are.”",
-   "start": 4911,
+   "fact": "章末：邻居说“我不是你的影子。你才是。”",
+   "anchor": "“I’m not your shadow. You are.”",
+   "start": 5019,
    "end": 5050
   }
  ]

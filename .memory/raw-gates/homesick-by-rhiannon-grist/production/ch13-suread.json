@@ -4,52 +4,52 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch13_chapter_13.txt",
  "facts": [
   {
-   "fact": "抱着地毯往回走比来时更慢，她走几步就得停下来重新调整抱姿。",
+   "fact": "她抱着那块「最小」的地毯一路走回石屋，因为尺寸不上不下、单手夹不住，只能不断换姿势，进门时已是一身汗。",
    "anchor": "The walk back took longer than the walk in.",
    "start": 14,
    "end": 57
   },
   {
-   "fact": "斧刃割断塑料捆扎带，勒紧的地毯一圈圈松开来。",
-   "anchor": "The ties popped off one by one",
-   "start": 1861,
-   "end": 1891
+   "fact": "她已经弄明白了热水，可以洗腋下；屋里邻居又恢复安静，她告诫自己别再想隔壁那个人。",
+   "anchor": "At least I’d figured out the hot water so I could wash my pits.",
+   "start": 477,
+   "end": 540
   },
   {
-   "fact": "地毯摊开后小得可笑，整间客厅被它衬得又空又大，她一屁股坐下认输。",
-   "anchor": "It flopped onto the floor with an anti-climactic fwap.",
-   "start": 2164,
-   "end": 2218
+   "fact": "找不到剪刀和刀，她从床上取回还缠在睡袍里的斧头，用依旧崭新的斧刃一根根割断地毯的塑料扎带。",
+   "anchor": "Carefully, I nicked the plastic ties with its shining, still-new edge.",
+   "start": 1790,
+   "end": 1860
   },
   {
-   "fact": "她后悔没拿收据：地毯退不掉了。",
+   "fact": "地毯展开后小得可笑：不足一米长，摆在客厅中间像门垫、杯垫、邮票，她试着拉扯也几乎撑不大。",
+   "anchor": "The rug wasn’t just small, it was tiny!",
+   "start": 2247,
+   "end": 2286
+  },
+  {
+   "fact": "她坐在地上认输，后悔当时没拿收据，骂自己又蠢又犟。",
    "anchor": "I should have taken the receipt.",
    "start": 2626,
    "end": 2658
   },
   {
-   "fact": "她把邻居想象成被自己拽出家门、恋爱结婚的人，甚至替对方在婚礼上排了座次。",
-   "anchor": "Perhaps, thanks to me, she’d make friends, start dating, find her future partner.",
-   "start": 3398,
-   "end": 3479
+   "fact": "她幻想要主动邀邻居出门、帮她走出壳，甚至想象自己坐在对方婚礼主桌、日后替她看孩子，越想越晚。",
+   "anchor": "Perhaps she’d be grateful someone finally saw her.",
+   "start": 3347,
+   "end": 3397
   },
   {
-   "fact": "她咬掉吊牌，把在爱丁堡搁了多年没穿的奶油色羊毛衫套上，把自己打扮成乡下人。",
-   "anchor": "I bit the tags off and pulled the jumper on over my head.",
-   "start": 5123,
-   "end": 5180
+   "fact": "她捐掉了大部分好衣服，只能穿牛仔裤配松绿色长袖，又翻出从未穿过、吊牌还在的米色 Aran 麻花毛衣，咬掉吊牌穿上。",
+   "anchor": "It even still had its tags.",
+   "start": 5082,
+   "end": 5109
   },
   {
-   "fact": "邻居门口忽然挂出吊花篮，她举起的拳头停在半空。",
-   "anchor": "were those hanging baskets trailing pretty little flowers",
-   "start": 5358,
-   "end": 5415
-  },
-  {
-   "fact": "她收回拳头退开，独自去了村子。",
-   "anchor": "Then I left for the village on my own.",
-   "start": 5885,
-   "end": 5923
+   "fact": "她走到 1a 门口举手要敲，却看见门边凭空多出的吊篮花，想起屋里那片黑、那张憔悴的脸和单只水眼，收回拳头退开，最后独自去了村里。",
+   "anchor": "I retracted my fist and backed away from the door, hoping she couldn’t see me from her living room window.",
+   "start": 5776,
+   "end": 5882
   }
  ]
 }

@@ -4,49 +4,49 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch47_chapter_47.txt",
  "facts": [
   {
-   "fact": "Fergus 转过身朝她笑、一脸汗；他手里那台工业订书机的\"金属嘴\"又红又湿",
-   "anchor": "Fergus turned back to me, grinning and sweating.",
-   "start": 14,
-   "end": 62
+   "fact": "Fergus 从自己手上拔出工业钉枪，枪口又红又湿、沾着自己的血，脸上还在笑、在出汗。",
+   "anchor": "He pulled the industrial stapler from his hand, its metallic mouth red and wet with its feed.",
+   "start": 63,
+   "end": 156
   },
   {
-   "fact": "他把她的沉默读成\"你想教训我\"，一边反问一边朝她点头",
+   "fact": "Fergus 认定她是来“教训”他的，一边说一边把钉枪移向自己手腕。",
    "anchor": "“You wanted to teach me a lesson, didn’t you?” he said.",
    "start": 159,
    "end": 214
   },
   {
-   "fact": "她还没来得及回答，他就把订书机打进了自己的眼睛",
+   "fact": "自伤逐级升级：手腕、脖子、锁骨、乳头之后，他把钉子打进自己眼睛，眼珠上悬着一枚 staples、瞳孔像在融化。",
    "anchor": "Before I could answer, he fired the stapler into his eye.",
    "start": 1490,
    "end": 1547
   },
   {
-   "fact": "她说自己并没有觉得好一点——这一套从不让她好过",
-   "anchor": "“I don’t feel better,” I said. “It doesn’t make me feel better! It never does.",
+   "fact": "她拒绝配合他的自伤表演，说这并不能让她好受，只会让一切更糟。",
+   "anchor": "“I don’t feel better,” I said. “It doesn’t make me feel better! It never does. It just makes everything worse!”",
    "start": 2079,
-   "end": 2157
+   "end": 2190
   },
   {
-   "fact": "她意识到这就是\"考验\"，是她要过的第一关",
-   "anchor": "And then I realised. This was it. I was being tested.",
-   "start": 2314,
-   "end": 2367
+   "fact": "她醒悟这是“试探/考验”，是她的第一道关，于是放下斧头、伸手去摸口袋里的线。",
+   "anchor": "This was it. I was being tested. This was my first challenge.",
+   "start": 2335,
+   "end": 2396
   },
   {
-   "fact": "Callie-Ann 早先教过她：她考验你的时候，别砍，打个结",
+   "fact": "她想起 Callie-Ann 的忠告：被“她”试探时，不要顺着砍下去，改打一个结。",
    "anchor": "“When she tests you,” Callie-Ann had said, “make a knot instead.”",
    "start": 2461,
    "end": 2526
   },
   {
-   "fact": "她当面对他说：这一切从来跟她无关，他根本看不见她",
-   "anchor": "“It was never about me. None of this is. You couldn’t even see me.”",
-   "start": 3816,
-   "end": 3883
+   "fact": "她当面拆穿 Fergus：他就是本村人、从没离开过；同龄人（朋友、表亲）都为了大学/工作/伴侣走了，把他留下，他才认定外人看不起村里人。",
+   "anchor": "So, you grew up in this village. I don’t think you’ve ever left it.",
+   "start": 2931,
+   "end": 2998
   },
   {
-   "fact": "她撞开门冲出去，跌在 1a 的楼梯平台上",
+   "fact": "钉枪男发狂扑来、货架与天花板崩塌，她抱着斧头攥紧线冲开大门，跌落在 1a 的楼梯平台——回到邻居家门口。",
    "anchor": "And fell onto the landing of 1a.",
    "start": 4763,
    "end": 4795

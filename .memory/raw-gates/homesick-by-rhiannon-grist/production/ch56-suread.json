@@ -4,112 +4,52 @@
  "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch56_chapter_56.txt",
  "facts": [
   {
-   "fact": "重建一栋房子很难，重建一种生活难得多",
-   "anchor": "It is hard to rebuild a house. It is so much harder to rebuild a life.",
-   "start": 14,
-   "end": 86
-  },
-  {
-   "fact": "她在医院病床上醒来，浑身是伤，不记得自己怎么到那儿的",
-   "anchor": "I woke up, broken and bruised in a hospital bed. I didn’t remember getting there.",
+   "fact": "她在医院醒来，浑身是伤；一时以为自己死了，这里是收留破破烂烂灵魂的“灵魂医院”。",
+   "anchor": "I woke up, broken and bruised in a hospital bed.",
    "start": 199,
-   "end": 280
+   "end": 247
   },
   {
-   "fact": "她一度以为自己死了，这就是死后的人会遇到的事",
-   "anchor": "For a moment I thought I’d died and this was just what happened to folks after.",
-   "start": 281,
-   "end": 360
+   "fact": "住院第三天，她从小睡中醒来，发现 Fergus 坐在床尾塑料椅上翻古董目录。",
+   "anchor": "Then on the third day, I woke from another recovery nap to find I had a visitor.",
+   "start": 1009,
+   "end": 1089
   },
   {
-   "fact": "床边小桌上有一盆系黄丝带的小仙人掌，旁边纸条写着\"来自一个刺头的刺头，F x\"",
-   "anchor": "Sat on the table was a small cactus with a yellow ribbon round the pot. Next to it was a note: A prickly bastard from a prickly bastard, F x",
+   "fact": "床头柜上一盆系黄丝带的小仙人掌，卡片写“A prickly bastard from a prickly bastard, F x”；因病房禁花，他改送仙人掌。",
+   "anchor": "Sat on the table was a small cactus with a yellow ribbon round the pot.",
    "start": 1844,
-   "end": 1986
+   "end": 1915
   },
   {
-   "fact": "\"只剩瓦砾了，\"他说；Rowan 让他开车去看她，就在\"你那次谈话\"之后",
-   "anchor": "“Nothing but rubble left,” he said. “Rowan had me drive us round to check in on you after… your conversation.”",
+   "fact": "塌的是 1a（邻居那半）；1b 几乎没事，里面空得只剩她曾嫌弃的那张羊皮地毯。",
+   "anchor": "“The 1a one, so your neighbour’s place. Though we weren’t sure which half was yours at first, ’cause there’s bloody nothing in 1b.",
+   "start": 3437,
+   "end": 3567
+  },
+  {
+   "fact": "Fergus 说 1a 只剩瓦砾；他和 Rowan 开车来“道歉”时发现半栋房塌了，Rowan 冲进去、在地下室找到她。",
+   "anchor": "“Nothing but rubble left,” he said.",
    "start": 2749,
-   "end": 2859
+   "end": 2784
   },
   {
-   "fact": "Rowan 告诉急救人员她提过一个邻居，于是他们去那栋满是违规搭建的隔壁找人",
-   "anchor": "“Rowan told the emergency services you’d talked about having a neighbour, so they went looking for her in the clusterfuck of building violations you call next door.",
-   "start": 4696,
-   "end": 4860
-  },
-  {
-   "fact": "他们说那地方看起来像荒废了好几年",
-   "anchor": "they said the place looked like it had been deserted for years.",
-   "start": 4894,
-   "end": 4957
-  },
-  {
-   "fact": "他们验了她身上的血，怕她杀了人；结果全是她自己的，于是给她起了外号\"血浴\"",
+   "fact": "她身上的血全是她自己的，Fergus 给她起外号“Blood Bath”；医院验血排除了她杀人。",
    "anchor": "“But it’s all yours, so we’re calling you Blood Bath from now on.”",
    "start": 5049,
    "end": 5115
   },
   {
-   "fact": "她手臂上是一排针孔，红线不见了",
+   "fact": "手臂上留着一排针眼，红线不见了；医生不知那是什么，她撒谎说是地板钉。",
    "anchor": "Along my arms, I saw the line of pinpricks from the needle. The red thread was gone.",
    "start": 5339,
    "end": 5423
   },
   {
-   "fact": "\"医生完全不知道那些是什么，\"他说，还指望她能解答",
-   "anchor": "“Doctors don’t have clue what those are,” he said. “They were hoping you could enlighten them.”",
-   "start": 5455,
-   "end": 5550
-  },
-  {
-   "fact": "\"得了吧，我够男人，知道自己在犯浑。\"他指着仙人掌：\"所以是'刺头'。\"",
-   "anchor": "“Oh, come on. I’m man enough to know when I’ve been a prick.” He pointed at the cactus. “Hence the prickly bastard.”",
-   "start": 5885,
-   "end": 6001
-  },
-  {
-   "fact": "\"Ro 有捡流浪动物的习惯，\"Fergus 说，又补一句\"大概不该那么叫你\"",
-   "anchor": "“See, Ro has a habit of picking up strays,” Fergus said, before adding, “Probably shouldn’t have called you that.”",
-   "start": 6361,
-   "end": 6475
-  },
-  {
-   "fact": "\"他知道把生活搞砸是什么滋味。我记得他刚搬来时，看上去像被什么缠着\"",
-   "anchor": "“He knows what it’s like to fuck up your life. I remember when he first moved up here. He looked haunted.",
-   "start": 6516,
-   "end": 6621
-  },
-  {
-   "fact": "\"我以为你讨厌我是因为我来自城里之类的，\"她说",
-   "anchor": "“I thought you hated me because I’m from the city or something,” I said.",
-   "start": 7181,
-   "end": 7253
-  },
-  {
-   "fact": "\"不，我评判你是因为你来自城里，\"他带着一点笑，\"但我不恨你。对不起让你有那种感觉。\"",
+   "fact": "Fergus 正式道歉：他因 Rowan 总捡流浪者、把气撒在她身上；他承认自己“看不起来自城市的人”，但并不恨她。",
    "anchor": "“No, I judge you because you’re from the city,” he said, with a ghost of a smile. “But I don’t hate you. And I’m sorry I made you feel like that.”",
    "start": 7256,
    "end": 7402
-  },
-  {
-   "fact": "\"在这荒地方，我们只有彼此。要是连邻居都不能指望在你需要时出现，那——\"",
-   "anchor": "“We’re all we have out here. If you can’t trust your neighbours to turn up when you need them, then—”",
-   "start": 8000,
-   "end": 8101
-  },
-  {
-   "fact": "手机弹出提醒：\"给 Rowan 发短信\"",
-   "anchor": "TEXT ROWAN",
-   "start": 7504,
-   "end": 7514
-  },
-  {
-   "fact": "后来手机又弹出一条：\"喝水\"。她喝了",
-   "anchor": "It said, DRINK WATER. I did.",
-   "start": 8671,
-   "end": 8703
   }
  ]
 }
