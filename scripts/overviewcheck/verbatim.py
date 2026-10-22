@@ -120,8 +120,11 @@ def extract_quotes(txt: str):
             if m2:
                 body2 = m2.group(1).strip()
                 if '"' in body2 or '\u201c' in body2:
-                    mc = re.search(r'[\u4e00-\u9fff]', body2)
-                    cand = (body2[:mc.start()] if mc else body2).strip()
+                    # 尾注切点：中文字符 / 全角括号 / 方括号——`（Ch XIV — 首尾呼应）`
+                    # 这类章号尾注是**库内标准形态**，不切掉会让整条引语恒查无
+                    # （2026-10-22 实测：addie-laud 15 条「查无」里 14 条是这个假红）。
+                    cuts = [m.start() for m in re.finditer(r'[\u4e00-\u9fff\uff08\u3010]', body2)]
+                    cand = (body2[:min(cuts)] if cuts else body2).strip()
                     cand = re.sub(r'^["\u201c]', '', cand).strip()
                     cand = cand.strip('"\u201c\u201d\'* ')
                     if (is_quoteish(cand) and len(flat_alpha(cand)) >= 20
