@@ -1,0 +1,55 @@
+{
+ "book": "habits-of-the-sea-by-shea-ernshaw",
+ "chapter": "ch05",
+ "text": "notes/books/novels/habits-of-the-sea-by-shea-ernshaw/text/ch05_chapter_four.txt",
+ "facts": [
+  {
+   "fact": "她订了第二天一早的航班，并给客户发信取消一周的来访",
+   "anchor": "I book a flight for first thing the following morning.",
+   "start": 36,
+   "end": 90
+  },
+  {
+   "fact": "给客户的理由是\"家里有急事\"——这是她头一回对来访者撒谎",
+   "anchor": "Family emergency, I lie.",
+   "start": 213,
+   "end": 237
+  },
+  {
+   "fact": "祖母说海会让人相信不可能与难以置信的事",
+   "anchor": "The ocean makes you believe in the impossible and unlikely.",
+   "start": 1270,
+   "end": 1329
+  },
+  {
+   "fact": "祖母仍记着女儿被学校孤立、\"消失了一个星期\"的那段日子",
+   "anchor": "the girl who vanished for a week and went god-knows-where",
+   "start": 1589,
+   "end": 1646
+  },
+  {
+   "fact": "祖母塞给她三明治和两块覆盆子司康，低声说\"去找到你的岛\"",
+   "anchor": "Go find your island,",
+   "start": 2283,
+   "end": 2303
+  },
+  {
+   "fact": "祖母要她这一辈子鲁莽一次",
+   "anchor": "Be a little reckless for once in your life.",
+   "start": 2598,
+   "end": 2641
+  },
+  {
+   "fact": "倒车离开时，她从后视镜里看着门口的祖母，冒出这个念头",
+   "anchor": "Will I see her again?",
+   "start": 2976,
+   "end": 2997
+  },
+  {
+   "fact": "胃里那点刺痛在警告她：这可能是关于祖母的最后一段记忆",
+   "anchor": "Warning me that this might be the last memory I have of her.",
+   "start": 3145,
+   "end": 3205
+  }
+ ]
+}
