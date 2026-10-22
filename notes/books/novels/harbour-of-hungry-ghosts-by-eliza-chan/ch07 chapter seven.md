@@ -26,19 +26,33 @@ modified: "2026-10-22"
 **为什么这样写**：全章最锋利的一对数字：hovels 对 furniture from India。前者把人的住处折成零钱，后者把殖民者的家当说成远洋运来的贵重品。Leung gor 的回应不是台词，是把手插进口袋——作者用这个动作替代了一整段愤怒。
 **读者视角提示**：注意 ah seh 这个称呼：他在向一个刚刚侮辱了他的人请求。这种礼貌本身就是被规定好的。
 
-> **原句 3:** "Kiamling recognised her immediately as Madam Yau, mistress of one of the biggest brothels on Tai Ping Shan Street. … The woman’s ferocity, her confidence in her own body, holding herself without apology, elicited a peculiar combination of frank admiration and trepidation from Kiamling, who had been taught that her body was nothing but muscle and reflex."
-**中文理解**：她一眼认出这是 Madam Yau，太平山街最大几家妓院的女主人。……这女人的凶悍、她对自己身体的那份笃定、那种毫不道歉的站法，在 Kiamling 心里同时勾起坦白的佩服与畏惧——而她受的教导一直是：身体只是肌肉和反应。
-**关键词**：Madam Yau / without apology / muscle and reflex
-**为什么这样写**：作者用一个身体对照另一个身体：一个把身体当本钱与武器，一个被训练成把身体当工具。frank admiration 与 trepidation 并列，说明这种羡慕里带着危险感——她看见的是自由，也是自己不被允许的那条路。
+> **原句 3:** "Kiamling recognised her immediately as Madam Yau, mistress of one of the biggest brothels on Tai Ping Shan Street. She purred as she stroked his arm in long, slow movements. Her eyes flickered up under long lashes, holding his gaze for a moment. The hypnotism caught him like a moth to a candle."
+
+**中文理解**：她一眼认出这是 Madam Yau——太平山街最大的几家妓院的女主人。她一边低低地哼着，一边用手在军官臂上慢慢地捋；眼睫下的目光抬起来，把他的视线扣住一瞬。那点催眠像烛火吸住飞蛾。
+
+**关键词**：Madam Yau / stroked his arm / like a moth to a candle
+
+**为什么这样写**：先给身份，再给手法，最后给效果——三句是一套完整的技术演示。飞蛾扑火的比喻把「她的魅力」写成一种可以致命的自然现象，也预告了后面她对 Kiamling 的那种吸引力。
+
+**读者视角提示**：注意她平息冲突靠的不是道理，是身体与语调。这一章里，谁能让男人闭嘴，谁就掌握现场。
+
+> **原句 4:** "The woman’s ferocity, her confidence in her own body, holding herself without apology, elicited a peculiar combination of frank admiration and trepidation from Kiamling, who had been taught that her body was nothing but muscle and reflex."
+
+**中文理解**：这女人的凶悍、她对自己身体的那份笃定、那种毫不道歉的站法，在 Kiamling 心里同时勾起坦白的佩服与畏惧——而她受的教导一直是：身体只是肌肉和反射。
+
+**关键词**：ferocity / without apology / muscle and reflex
+
+**为什么这样写**：作者用一个身体对照另一个身体：一个把身体当本钱与武器，一个被训练成把身体当工具。admiration 与 trepidation 并列，说明这种羡慕里带着危险感——她看见的是自由，也是自己不被允许的那条路。
+
 **读者视角提示**：这一句是全书对「女性身体」最直白的一次对照。往后 Kiamling 每一次在意自己的外表，都可以回到这里。
 
-> **原句 4:** "“If I may, Superintendent Lancaster,” said a Chinese-accented voice. It was Barrister Ng. He moved past Kiamling, brushing her elbow as if in acknowledgement, although his face betrayed no such awareness. … “A compromise that’s good for everyone.”"
+> **原句 5:** "“If I may, Superintendent Lancaster,” said a Chinese-accented voice. It was Barrister Ng. He moved past Kiamling, brushing her elbow as if in acknowledgement, although his face betrayed no such awareness. … “A compromise that’s good for everyone.”"
 **中文理解**：「如果可以，Lancaster 警司。」一个带中国口音的声音说。是 Ng 律师。他从 Kiamling 身边走过，手肘轻轻碰了她一下，像是在打招呼，脸上却半点不显。……「一个对大家都有好处的折中。」
 **关键词**：Barrister Ng / brushing her elbow / compromise
 **为什么这样写**：他先叫她名字里的官衔，再给一个「对大家都有好处」的方案：这一套是殖民地中间人的生存技术，也是全书对「体面」最实用的一次示范。手肘那一下是全章唯一对她的承认，而且是无声的。
 **读者视角提示**：Ng 后面还会出现。留意他每次都在用英文的规矩替华人争一点空间，而每次争到的都很小。
 
-> **原句 5:** "“You write your fu backwards or something, girl?” a familiar voice shot back. Mr Soon, the owner of the dried-food store, threw an empty bucket at her head. Kiamling ducked, and it narrowly missed clipping her. His shop was burning and she was an easy target to blame."
+> **原句 6:** "“You write your fu backwards or something, girl?” a familiar voice shot back. Mr Soon, the owner of the dried-food store, threw an empty bucket at her head. Kiamling ducked, and it narrowly missed clipping her. His shop was burning and she was an easy target to blame."
 **中文理解**：「你那符是倒着画的吧，丫头？」一个熟声音回过来。干货店老板 Soon 先生把一只空桶朝她头上扔。她低头躲过，桶擦着边飞过去。他的店在烧，而她是个最好怪罪的对象。
 **关键词**：fu backwards / threw an empty bucket / easy target to blame
 **为什么这样写**：上一章他还站在门口等祖母，这一章他把桶扔向一个提水的女孩。作者用「他的店在烧」解释而不辩护：灾祸需要一个可以指认的人，而她既在场又没有靠山。

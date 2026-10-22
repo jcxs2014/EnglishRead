@@ -56,17 +56,35 @@ modified: "2026-10-22"
 **为什么这样写**：全章最不体面的姿态，作者写得毫无修饰：伏、砸、念。野狗的比喻把体面剥掉，也让读者明白她此刻不在表演仪式，是在拼命。
 **读者视角提示**：咒词短、押韵、像童谣，这是口头法术的本相：好记、好念、当众念得出口。她念的全是身体部位——诅咒从最具体的地方下手。
 
-> **原句 8:** "A putrid odour filled the air. … A ghost nibbled at him, its distended belly sagging low near the ground. … Kiamling stooped, careful not to touch any of the offerings, as she lit three more joss sticks for the hungry ghost."
-**中文理解**：空气里泛起一股腐臭；一只饿鬼凑上去啃他，胀大的肚子几乎垂到地上。Kiamling 弯下腰，小心避开供品，又点三炷香，把这只鬼引回席上。
-**关键词**：putrid odour / distended belly / lit three more joss sticks
-**为什么这样写**：作者不给牧师「被神惩罚」的场面，只给气味——最不体面的那种感官。她的应对不是驱赶而是添香：解决麻烦的办法始终是喂，这一点她跟祖母一脉相承。
-**读者视角提示**：她护的是仪式，不是牧师。注意她绕开供品才去点香：规矩比立场要紧。
+> **原句 8:** "A putrid odour filled the air. The sour stench of rotten meat in the midday heat. A ghost nibbled at him, its distended belly sagging low near the ground. Its proportions were all wrong, bulging eyes and overly long limbs."
 
-> **原句 9:** "“That wasn’t proper villain hitting,” Kiamling pointed out, pleased that she knew the difference. “You’re supposed to feed the paper to the spiritual tiger to curse someone.” … She shrugged. “Worked, didn’t it?”"
-**中文理解**：她指出这不算正经的打小人：该把纸喂给灵虎，那才叫下咒。祖母耸一耸肩，只回一句：管用就行。
-**关键词**：proper villain hitting / spiritual tiger / Worked, didn’t it
-**为什么这样写**：全章收在一句最不讲理也最讲理的话上。孙女懂规矩，祖母懂效果；作者不裁决，让两代人的分歧停在这里，剩下的交给读者掂量。
-**读者视角提示**：「管用」这两个字在这本书里分量很重：规矩是给外人看的，效果才是活下来的依据。这一耸肩，比任何说教都更像她的世界观。
+**中文理解**：空气里泛起一股腐臭——正午热天里烂肉的酸味。一只饿鬼凑上去啃他，胀大的肚子几乎垂到地上，比例全不对：眼珠暴出，四肢过长。
+
+**关键词**：putrid odour / distended belly / bulging eyes
+
+**为什么这样写**：作者不给牧师「被神惩罚」的场面，只给气味，而且是最不体面的那种；接着用「比例全不对」四个字，把饿鬼写成画坏的人形——它啃人的样子，和被饿死的人一样难看。
+
+**读者视角提示**：注意这段只写感官，不写神学。她的世界不需要裁决谁对谁错，只看得到、闻得到的东西才算数。
+
+> **原句 9:** "“That wasn’t proper villain hitting,” Kiamling pointed out, pleased that she knew the difference. “You’re supposed to feed the paper to the spiritual tiger to curse someone.”"
+
+**中文理解**：「这不算正经的打小人，」她指出，还挺得意自己懂这里头的分别，「该把纸喂给灵虎，那才叫下咒。」
+
+**关键词**：proper villain hitting / spiritual tiger / curse someone
+
+**为什么这样写**：全章的分歧收在一句技术纠正上：孙女讲的是仪轨，祖母讲的是效果。她「挺得意自己懂」——这份得意很孩子气，也说明她还没学会祖母那种不讲规矩的干脆。
+
+**读者视角提示**：记住她此刻还在意「正不正宗」。往后她越做越顺手，这条线就越松。
+
+> **原句 10:** "Her grandmother took a long swig of water, wiping her mouth with the back of her hand. She shrugged. “Worked, didn’t it?”"
+
+**中文理解**：祖母仰头灌了一大口水，用手背抹了抹嘴，耸耸肩：「管用，不是吗？」
+
+**关键词**：a long swig of water / She shrugged / Worked, didn’t it
+
+**为什么这样写**：先喝水、擦嘴，再耸肩，三个动作都在说同一件事：她不打算辩论。最后三个词把整章的规矩问题一笔勾销——这不是耍赖，是她活下来的方式。
+
+**读者视角提示**：「管用」这两个字在本书里分量很重：规矩是给外人看的，效果才是活命的依据。这一耸肩，比任何说教都更像她的世界观。
 
 ## 本章词汇
 

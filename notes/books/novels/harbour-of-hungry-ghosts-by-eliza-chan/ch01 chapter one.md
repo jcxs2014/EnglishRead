@@ -56,10 +56,14 @@ modified: "2026-10-22"
 **为什么这样写**：打斗刚收，作者立刻递上一句冷静的解释，把「怪物」还原成「死者的情绪」。问题于是从「怎么打」变成「谁带着怒气死的、为什么没人替他化掉」，恐怖故事就此变成一桩待查的旧事。
 **读者视角提示**：这是本章留下的唯一真问题。往后若出现一个死得不明不白、丧事又办得潦草的人，请回到这句话上。
 
-> **原句 8:** "“You’re welcome to come to the graveyard with us,” Kiamling said innocently. He let go immediately. “Who shall we make the bill out to?” … “For the exorcism. The destruction of property.”"
-**中文理解**：Kiamling 一脸天真地邀军官「跟我们回坟场」，他立刻松手；她顺势问账单该开给谁——驱邪、损毁财物，一项一项算。
-**关键词**：innocently / the bill / destruction of property
-**为什么这样写**：作者用讨账把神鬼事收成市井喜剧：法术要收费，惊吓要赔钱，帝国的军官在这一问里变成欠账的客人。innocently 一词是全部机关——她明明在敲诈，姿态却像在尽地主之谊。
+> **原句 8:** "“For the exorcism. The destruction of property.” She brushed geongsi dust from her top. Was never entirely sure what that stuff was… probably not worth thinking about too hard. “And the laundry bill.”"
+
+**中文理解**：她一项一项报账：驱邪，损毁财物。顺手拍掉衣上的尸灰——那东西到底是什么，她一直没弄明白，也不打算细想——末了再补一句：「还有洗衣费。」
+
+**关键词**：the exorcism / destruction of property / the laundry bill
+
+**为什么这样写**：作者用讨账把神鬼事收成市井喜剧：法术要收费，惊吓要赔钱，帝国的军官在这一问里变成欠账的客人。中间那句「不打算细想」最妙——她刚把一具尸体放倒，转头在操心衣服脏了。
+
 **读者视角提示**：她连洗衣费都要算，说明这个家确实缺钱。穷不是背景板，是 Kiamling 每一次冒险的理由。
 
 ## 本章词汇

@@ -42,12 +42,15 @@ modified: "2026-10-22"
 **读者视角提示**：这是全章的论点，也是她输掉鬼节的理由。记住「一半」与「另一半」：往后她每一次只顾捉鬼、不顾人，读者都会想起这句判词。
 **句子结构**：前三句都是判断句，主语 We 领起，节奏一锤一锤；末句忽然换成陈述事实，把抽象的「管人」落到一个具体家世上。
 
-> **原句 5:** "“I thought you were ready. I was wrong. I’ll lead the Ghost Festival for another year.” … It was suffocating trying constantly to prove herself but never knowing what the test was."
-**中文理解**：祖母说：我以为你准备好了，我错了；鬼节再由我主持一年。……一直要证明自己、却从不知道考题是什么，这种日子让人透不过气。
-**关键词**：I was wrong / Ghost Festival / never knowing what the test
-**为什么这样写**：判决只有三个短句，一个形容词也没有，连失望都省掉了；真正扎人的是那句 I thought，说明她连被正式考过一回都没有。随后作者把「考试」这个词捡起来，读者才明白：题目从来没公布，评分却每年都发生一次。收在这里，愤怒找不到落脚处，比吵架更难受。
-**读者视角提示**：注意 another year 这三个字：机会不是取消，是延期，所以她连发作的理由都没有。这句之后她再说什么都晚了，作者也就不再给她台词。
-**句子结构**：引语三句全是四到六个词，短得像盖章；省略号后面换成叙述句，长度一放开，窒息感才浮上来。
+> **原句 5:** "Por Por rested her chopsticks on the edge of her bowl. Somehow, despite the discussion, she had managed to finish her rice down to the last grain. “I thought you were ready. I was wrong. I’ll lead the Ghost Festival for another year.” She rose from the table and went to the small altar inside the house. The joss sticks had burnt away to red spikes and the names on the three tablets stared at Kiamling disapprovingly."
+
+**中文理解**：祖母把筷子搁在碗沿上。吵了这么一场，她居然还是把饭一粒不剩地吃完了。她说：「我以为你准备好了。我错了。鬼节再由我主持一年。」然后起身走到屋里的神龛前：香已烧成红色的尖，三块牌位上的名字不赞成地盯着 Kiamling。
+
+**关键词**：down to the last grain / I was wrong / stared at Kiamling disapprovingly
+
+**为什么这样写**：判决之前先写她吃完了饭——这个细节比骂人更伤人：她的失望不影响胃口。三个短句像盖章，随后人起身、香成残尖、牌位盯着她，视线一层层从活人转到死人，压得她说不出话。
+
+**读者视角提示**：注意「another year」：机会不是取消，是延期，所以她连发作的理由都没有。牌位那一眼是全书第一次让「祖先」参与评判。
 
 ## 本章词汇
 

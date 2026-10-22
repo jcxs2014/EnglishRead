@@ -20,11 +20,15 @@ modified: "2026-10-22"
 **为什么这样写**：先写工具，再写疲劳：没有车，只能用肩；没有车这件事本身，就是这家人的贫困。blurred into one 把「降妖」的传奇感一把抹掉，也替后文的一次次麻木做下铺垫。
 **读者视角提示**：注意作者写神鬼事的入口永远是器物与身体——扁担、筐、肩、灰。这本书的「法术」先从劳作写起。
 
-> **原句 2:** "“You sorted them?” Por Por poked one basket with her staff. … Por Por did not need to know that Kiamling had spotted bone shards at the original burial site, gleaming white like broken shells in the lamplight."
-**中文理解**：祖母用拐杖戳了戳筐，问「你分好了？」——她要问的是：有没有把碎骨挑出来、把破烂的裹尸布一一对上，让每一具尸体分别、完整。而 Kiamling 在坟地就看见过几片白骨，像灯下的碎贝壳，她用脚把它们蹭进薄土里盖住了。
-**关键词**：sorted / bone shards / broken shells
-**为什么这样写**：祖母的问题一句话里藏着整套职业伦理；作者不解释，只用「戳筐」这个动作。随后立刻交代孙女的隐瞒——读者于是站在共犯的位置上，比祖母先知道她撒了谎。
-**读者视角提示**：骨片像碎贝壳，这个比喻把「完整」这个词变成了可以摸到的东西。整本书里 Kiamling 的每一次赶工，都会回到这几片被蹭进土里的骨头。
+> **原句 2:** "Por Por did not need to know that Kiamling had spotted bone shards at the original burial site, gleaming white like broken shells in the lamplight. Nor did she need to know that she had scuffed them away with her foot, covering them with a thin layer of earth."
+
+**中文理解**：祖母不必知道，她在原来的坟地看见过几片白骨，在灯下白得像碎贝壳；也不必知道，她用脚把它们蹭开，盖上一层薄土。
+
+**关键词**：bone shards / broken shells / scuffed them away
+
+**为什么这样写**：两句话都用「不必知道」起头，等于把隐瞒写成句式：她不是在撒谎，是在决定谁配知道。骨片「像碎贝壳」让「完整」这个词有了可以摸到的形状，而下一句她就用鞋底把它抹平了。
+
+**读者视角提示**：注意顺序：先「看见」，再「蹭开」。她不是没认出来，是认出来之后选择埋掉。这本账后面还要算。
 
 > **原句 3:** "“Your mother would’ve taken more care.” Here it was. The inevitable comparison game. Kiamling had nothing against her parents, the supposedly incomparable yiugwai hunters of Canton province. She just resented how much her por por idolised them. They had been deified in death, raised on the household shrine next to Chung Kwai, the god of monster hunting himself."
 **中文理解**：祖母开口就是那句「你母亲会仔细得多」；Kiamling 心想果然来了，这场比较躲不掉。她对父母本人没有意见——那可是广州省被说成无可匹敌的猎妖人；她恨的是祖母把他们供得太高：一死就封神，牌位摆到猎妖之神钟馗旁边。
@@ -32,17 +36,25 @@ modified: "2026-10-22"
 **为什么这样写**：作者让祖母只出一句台词，剩下全交给孙女的内心反驳，于是读者同时听见控诉和辩护。deified 是全部怨恨的准确词：死人被抬高，活人就被压低。
 **读者视角提示**：留意「牌位在钟馗旁边」这个细节。祖母供的不是父母，是一个「合格的继承人」的标准；Kiamling 每天在这个标准下面吃饭。
 
-> **原句 4:** "One time she had watched her mother sleep. Squatted by her woven mat and stared in fascination at a woman she barely knew, moles she’d never noticed before and scars that ran up uncovered arms. … When they had died, she felt nothing."
-**中文理解**：她曾蹲在母亲的席边看她睡觉，像看一个陌生人：从没注意过的痣、一直爬到手臂上的疤，还偷偷幻想这不是同住一个屋檐下的生人。父母死后，她什么也没感觉到。
-**关键词**：barely knew / moles / felt nothing
-**为什么这样写**：全章最狠的一段没有任何超自然成分：一个女儿要靠看睡脸来认母亲。felt nothing 单独成句，不解释、不修饰，比任何哭喊都重；作者也不替她辩解。
-**读者视角提示**：记住这个「什么也没感觉到」。它不是冷血，是长期缺席的后果——而后文她每一次拼命救人，都可以拿这句话来对照。
+> **原句 4:** "When her parents woke, it was training and fighting and travelling as always until Kiamling could only remember the shape of the scar and not the person who bore it. When they had died, she felt nothing. She was more distraught about leaving Canton city, the only home she had ever known."
 
-> **原句 5:** "“It’s done now, why does it matter how?” … “It matters, Au Kiamling, because cutting things down doesn’t solve every problem.” … “Works for me.” It was a circular argument, one they had repeated as many times as the fighting forms."
-**中文理解**：她反问：事情都办完了，管我用什么法子？祖母叫出她的全名回答：要紧，因为「砍掉」解决不了所有问题。她顶一句「对我就管用」——这套循环论证，她们已经像练拳一样重复过无数遍。
-**关键词**：cutting things down / every problem / circular argument
-**为什么这样写**：全书的主题句在这里第一次被说出来，而且是被一个不肯听的人顶回去。作者用 fighting forms 作比：争吵对她们而言也是日常操练，谁也没打算赢。
-**读者视角提示**：cutting things down 在这本书里既是字面（杀殭尸），也是比喻（断关系、断线索）。祖母这句判词会在后面反复被验证。
+**中文理解**：父母醒来之后，照旧是练功、打斗、上路，直到她只记得那道疤的形状，记不得长疤的那个人。他们死的时候，她什么也没感觉到；她更难过的是离开广州城——她唯一认得的家。
+
+**关键词**：the shape of the scar / felt nothing / the only home she had ever known
+
+**为什么这样写**：三句排下来，感情一层层被抽掉：先只剩疤的形状，再是「什么也没感觉到」，最后连悲伤都换了对象——她哭的是城，不是人。作者不替她解释，也不许读者替她定罪。
+
+**读者视角提示**：记住这个「什么也没感觉到」。它不是冷血，是长期缺席的结果；后面她每一次拼命救人，都可以拿这句话来对照。
+
+> **原句 5:** "“She’d be disappointed to see her firstborn so reckless on the job.” It might’ve worked, three or four years ago. She might’ve yearned for the approval of her dead parents enough to buckle down. But Kiamling saw past Por Por’s rhetoric now. An old woman gripping on to shadow puppets. The bygone days."
+
+**中文理解**：「她要是看见自己的长女干活这么莽撞，会很失望。」这话三四年前也许管用：那时她还会渴望得到死去父母的认可，从而乖乖听话。可现在她看穿了祖母这套话术——一个老太太死死攥着几个皮影，攥着从前的日子。
+
+**关键词**：firstborn so reckless / approval of her dead parents / shadow puppets
+
+**为什么这样写**：祖母拿死人当杠杆，作者却把杠杆拆开给读者看：「三四年前」「也许管用」两个退一步的说法，把亲情写成了一件过期的工具。皮影的比喻最狠——她手里那些亡灵，早已只是她自己的影子。
+
+**读者视角提示**：注意她说这话时祖母的反应随后才到。祖孙俩的每一次交锋都是同一个结构：死者被搬出来，活着的人把秤掀了。
 
 > **原句 6:** "Two years her junior, Jingling was day to Kiamling’s night. Other families had gold and jade, rice fields and orchards, learned scholars and herbalists. The Au family had Jingling. Even in their darkest moments, Jingling was a spring breeze on a sweltering day."
 **中文理解**：妹妹小她两岁，是她黑夜里的白天。别家有的是金银、田地、果园、读书人和郎中；Au 家有的只是 Jingling。哪怕最黑的日子里，她也是闷热天里的一阵春风。

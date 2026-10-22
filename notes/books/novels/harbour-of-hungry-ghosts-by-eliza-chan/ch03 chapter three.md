@@ -38,10 +38,14 @@ modified: "2026-10-22"
 **为什么这样写**：馒头先被写成「什么也没有」，再被写成十二小时里的第一口，最后才成为她喜欢这份工的理由。三句话把穷和情分压进同一个动作，Keilin 全程没说话。
 **读者视角提示**：这个馒头是后面换班的账。她替 Keilin 去烧水，不是勤快，是这笔人情已经记下了。
 
-> **原句 5:** "“Are you quite simple or just hoping to whore yourself out standing there?” … Kiamling was in shock. It wasn’t the words, which she’d heard before in many forms and from many mouths. It was the utter indifference with which they were spoken. The assumption she would not understand a word of English, and on the slight chance she did, it mattered little anyway."
-**中文理解**：他问她是不是傻子，还是站在那儿想拉客。她愣住，不是因为这句话——这种话她听过很多版本、很多张嘴——是他说这话时的满不在乎：他认定她一个字也听不懂，就算听懂了也无所谓。
-**关键词**：quite simple / utter indifference / mattered little anyway
-**为什么这样写**：作者把伤害从「骂了什么」挪到「用什么态度骂」，一句里做两层让步：词她听过，语气她没听过。末了那半句「听懂了也无所谓」最冷，它连敌意都懒得给。
+> **原句 5:** "Kiamling was in shock. It wasn’t the words, which she’d heard before in many forms and from many mouths. It was the utter indifference with which they were spoken. The assumption she would not understand a word of English, and on the slight chance she did, it mattered little anyway."
+
+**中文理解**：她愣住了。不是因为那些词——这种话她听过很多版本、很多张嘴——是说话时那股彻底的满不在乎：他认定她一个字也听不懂；就算听懂了，也无所谓。
+
+**关键词**：utter indifference / not understand a word of English / mattered little anyway
+
+**为什么这样写**：作者把伤害从「骂了什么」挪到「用什么态度骂」，一句里做两层让步：词她听过，语气她没听过。末了那半句「听懂了也无所谓」最冷——它连敌意都懒得给。
+
 **读者视角提示**：记住这个「无所谓」。下一段她的回击之所以痛快，不是骂得更脏，是她证明了自己一直在听。
 
 > **原句 6:** "“I was just wondering if all your bastards were as ugly as you,” she replied in Cantonese, cushioning her words with a cheery smile. She paused but had judged correctly. She had learnt English. Absorbed it on the docks, in the teahouses and from half a dozen other casual jobs she’d done over the years."
@@ -62,11 +66,15 @@ modified: "2026-10-22"
 **为什么这样写**：全章最难受的一句不是被骂，是「他不再骂了」——怜悯被写成比责骂更难接的东西。铜板比作米粒，既是钱也是口粮，重量轻得几乎不算钱。
 **读者视角提示**：和上一块连起来读：她刚为一句脏话付了工钱，转头又在老板的沉默里被可怜。两笔账都由不得她挑。
 
-> **原句 9:** "This was nothing new. The Fuk Luk Sau trio of old men were in high demand across businesses and even in homes. What was new was the cross hanging over their heads. … Her head buzzed with the rush of elation, and with blustered confidence she replied, “No problem at all. Just offer more joss sticks; on festival days burn a few more offerings. The gods don’t mind sharing.”"
-**中文理解**：这一角原本没什么新鲜：福禄寿三位老人在商铺甚至住家里都抢手，供花供果、开铺前求个保佑，天天如此；新鲜的是他们头顶多挂了一个十字架。血往头上涌，她就凭一股硬撑出来的底气回答：「没问题。多上几炷香，逢节日多烧点供品。神明不介意分着吃。」
-**关键词**：Fuk Luk Sau trio / the cross hanging over their heads / the gods don’t mind sharing
-**为什么这样写**：作者用「没什么新鲜」和「新鲜的是」把两套神明并排摆进同一段，冲突不必解释就看得见。她开口之前没有任何神迹或请示，只有「硬撑出来的底气」——这句许可其实是她自己签发给自己。
-**读者视角提示**：她答的是「神明不介意」，不是「我不介意」。把决定权推给神明，自己只做传话的那一个；这一次没有人替她兜底，她也没去问谁。
+> **原句 9:** "Despite the mild panic in her chest that she had no answer for the unvoiced question, a small part of her was comforted that he had come to her rather than Por Por. Her head buzzed with the rush of elation, and with blustered confidence she replied, “No problem at all. Just offer more joss sticks; on festival days burn a few more offerings. The gods don’t mind sharing.”"
+
+**中文理解**：她心里有点慌——那个没问出口的问题，她其实答不上来；可一小部分她又觉得安慰：他来找的是她，不是祖母。血往头上涌，她就凭一股硬撑出来的底气回答：「没问题。多上几炷香，逢节日多烧点供品。神明不介意分着吃。」
+
+**关键词**：mild panic / rather than Por Por / the gods don’t mind sharing
+
+**为什么这样写**：先写「慌」，再写「被选中」的得意，最后才是那句豪气的裁决——三层情绪挤在一句里，读者因此知道这份权威是怎么来的：一半是没人可问，一半是她想被人问。
+
+**读者视角提示**：她答的是「神明不介意」，不是「我不介意」。决定权推给神明，自己只做传话的那个；这一次没有人替她兜底，她也没去问谁。
 
 > **原句 10:** "Por Por was wrong. Kiamling was more than capable of making decisions without her guidance. She had settled this without needing to ask for help. Her earnings could provide for the family. She was responsible enough whether or not her grandmother was willing to acknowledge it."
 **中文理解**：祖母错了。她完全能自己拿主意，不需要人指点；这件事她没问谁就办完了。她挣的钱能养家，不管祖母肯不肯承认，她都已经够可靠。

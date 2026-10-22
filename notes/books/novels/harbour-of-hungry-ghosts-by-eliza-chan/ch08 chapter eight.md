@@ -32,11 +32,15 @@ modified: "2026-10-22"
 **为什么这样写**：这是全书设定上最关键的一段：怪物不是外来者，它是被这场祭祀喂出来的——香、纸、供品全在它身上。作者用物证而不是解释来完成反转，读者自己会想到「我们喂了它」。
 **读者视角提示**：这一条后面会反复用上：凡有祭祀、凡有供品，都要问一句——这些东西最后喂了谁？
 
-> **原句 4:** "“My sword!” Por Por said. Kiamling threw the coin sword. It arced through the smoke, blade and hilt turning. Por Por reached up and grabbed it from the air, her fingers wrapped around the hilt as she plunged it down on the beast’s back. … One of the British officers had fired his revolver. The cylinder clicked as he continued pulling at the trigger, panic clear on his stricken face. His shots went wide, missing the darkness entirely, but a couple had slammed into the crowd, into the shopfronts, and one into Por Por’s shoulder."
-**中文理解**：「我的剑！」祖母喊。她把铜钱剑扔过去，剑在烟里翻着身划出一道弧；祖母抬手从空中接住，指头一握剑柄就往下扎进怪物背里。……一个英国警官开了枪：转轮空响，他还在不停扣扳机，脸上全是惊慌；子弹全打偏了，没碰着那片黑暗，却有几发打进人群、打进店面，一发打进祖母的肩膀。
-**关键词**：threw the coin sword / his revolver / into Por Por’s shoulder
-**为什么这样写**：全章的分水岭就在这两个动作之间：一边是练了一辈子的接剑，一边是慌到空扣扳机的枪。作者把「法器」与「火器」并排放在同一段，让读者亲眼看见谁在救人、谁在杀人。
-**读者视角提示**：注意子弹打偏这件事：他不是瞄错了，是根本没看见目标。恐惧在殖民地手里就是一把乱开的枪。
+> **原句 4:** "One of the British officers had fired his revolver. The cylinder clicked as he continued pulling at the trigger, panic clear on his stricken face. His shots went wide, missing the darkness entirely, but a couple had slammed into the crowd, into the shopfronts, and one into Por Por’s shoulder. Everything went still."
+
+**中文理解**：一个英国军官开了枪。转轮空响，他还在不停扣扳机，脸上全是惊慌。子弹全打偏了，没碰着那片黑暗，却有几发打进人群、打进店面，一发打进祖母的肩膀。四周一下子静了。
+
+**关键词**：fired his revolver / missing the darkness entirely / into Por Por’s shoulder
+
+**为什么这样写**：作者让枪的每一发都落在错的地方：打不中怪物，打中人、打中店、打中祖母。空扣扳机的「咔哒」声写尽了恐惧——他不是在瞄准，是在泄愤，而代价由别人承担。
+
+**读者视角提示**：注意「Everything went still.」这一句：混乱的顶点之后突然静止，是本书写转折的惯用手法。
 
 > **原句 5:** "From amid the blaze, haloed by flames like a mane, Por Por’s face blinked into focus. “Playing the pig, eating the tiger.” It was not the time for cryptic comments."
 **中文理解**：火光里，祖母的脸像被一圈鬃毛似的光托着，忽然清晰起来。她说：「扮猪吃老虎。」这时候实在不是说谜语的时候。
