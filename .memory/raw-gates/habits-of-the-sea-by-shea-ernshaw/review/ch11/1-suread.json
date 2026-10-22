@@ -1,0 +1,86 @@
+{
+ "chapter": 11,
+ "source": "text/ch11_chapter_ten.txt",
+ "facts": [
+  {
+   "fact": "一瘦光出现在海平线上；他先看见，说是一艘货轮",
+   "span": [
+    52,
+    97
+   ],
+   "anchor": "his voice ghostly, razor-thin. “A freighter.”"
+  },
+  {
+   "fact": "从她游上岛算起已经七个月，这段时间他们没见过任何船与陆地",
+   "span": [
+    895,
+    944
+   ],
+   "anchor": "It’s been seven months since I swam to the island"
+  },
+  {
+   "fact": "她在石圈里搭好引火柴，只差一个火种，Clay 站着不动",
+   "span": [
+    2348,
+    2397
+   ],
+   "anchor": "“I need a flame!” I say, panic choking my throat."
+  },
+  {
+   "fact": "他问她想要什么，并说不会怪她离开",
+   "span": [
+    3239,
+    3268
+   ],
+   "anchor": "I winnae blame ye for leaving"
+  },
+  {
+   "fact": "她提议一起走，他说自己不属于那个世界、那个时代",
+   "span": [
+    3623,
+    3661
+   ],
+   "anchor": "I dinnae belong in that world anymore."
+  },
+  {
+   "fact": "她求他告诉她该怎么做，他说「Ye know I can’t. Ye already know what I want.」",
+   "span": [
+    4007,
+    4052
+   ],
+   "anchor": "Ye know I can’t. Ye already know what I want."
+  },
+  {
+   "fact": "她想起 Nana 在车道上说的「去找你的岛」「鲁莽一次」",
+   "span": [
+    5125,
+    5170
+   ],
+   "anchor": "Go find your island, she said in the driveway"
+  },
+  {
+   "fact": "她把手里的引火柴扔在地上",
+   "span": [
+    5643,
+    5683
+   ],
+   "anchor": "I drop the piece of kindling in my hand."
+  },
+  {
+   "fact": "她说「I don’t care about the ship… I don’t want my old life. I want this one.」",
+   "span": [
+    6319,
+    6361
+   ],
+   "anchor": "I don’t want my old life. I want this one."
+  },
+  {
+   "fact": "他把她抱进屋，两人没到卧室，停在沙发上",
+   "span": [
+    6607,
+    6670
+   ],
+   "anchor": "We don’t make it to the bedroom. The couch is as far as we get."
+  }
+ ]
+}

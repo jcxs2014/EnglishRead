@@ -1,0 +1,102 @@
+{
+ "chapter": 12,
+ "source": "text/ch12_chapter_eleven.txt",
+ "facts": [
+  {
+   "fact": "她与 Clay 把毯子搬到草坡上露宿；他说绿闪光只是水手的传说，「也许只是故事，也许是真的」",
+   "span": [
+    2485,
+    2529
+   ],
+   "anchor": "Might only be a tall tale, or might be true."
+  },
+  {
+   "fact": "岛在往南漂、靠近赤道；她按时日与月相计算可能受孕的日子并避开",
+   "span": [
+    4265,
+    4337
+   ],
+   "anchor": "I count my cycle, measuring the days alongside the patterns of the moon."
+  },
+  {
+   "fact": "她给他读《罗伯特·彭斯诗与歌全集》",
+   "span": [
+    4849,
+    4894
+   ],
+   "anchor": "The Complete Poems and Songs of Robert Burns."
+  },
+  {
+   "fact": "近一周无雨，第十五天菜园开始枯死；他们一桶桶搬水",
+   "span": [
+    7037,
+    7071
+   ],
+   "anchor": "Day fifteen since we last had rain"
+  },
+  {
+   "fact": "夜里雨来，随后变成飓风：「This is no storm. It’s a hurricane.」",
+   "span": [
+    13079,
+    13114
+   ],
+   "anchor": "This is no storm. It’s a hurricane."
+  },
+  {
+   "fact": "飓风把他建的菜园、温室、羊棚、鸡舍全部摧毁",
+   "span": [
+    18751,
+    18774
+   ],
+   "anchor": "Everything he has built"
+  },
+  {
+   "fact": "岛被推到一处陌生的热带海岸，礁石卡住它不再漂走",
+   "span": [
+    35595,
+    35635
+   ],
+   "anchor": "The reef refuses to let go of the island"
+  },
+  {
+   "fact": "他们在废弃度假村找到一部老式电话，没有拨号音；她按下 Nana 的号码只听见沉默",
+   "span": [
+    34288,
+    34336
+   ],
+   "anchor": "I listen for the dial tone, but there’s nothing."
+  },
+  {
+   "fact": "丛林里的香蕉树是成排种的——有人工痕迹",
+   "span": [
+    29254,
+    29305
+   ],
+   "anchor": "“They’re in rows,” he says. “They’ve been planted.”"
+  },
+  {
+   "fact": "他说「I’d marry ye if I could」，随后「I promise it now, even without an altar.」把贝壳当戒指",
+   "span": [
+    39285,
+    39325
+   ],
+   "anchor": "I promise it now, even without an altar."
+  },
+  {
+   "fact": "他用盖尔语说「Mo ghràdh」（我的爱）",
+   "span": [
+    40289,
+    40298
+   ],
+   "anchor": "Mo ghràdh"
+  },
+  {
+   "fact": "结尾：「We make love on an island we have no name for.」",
+   "span": [
+    40368,
+    40414
+   ],
+   "anchor": "We make love on an island we have no name for."
+  }
+ ]
+}
