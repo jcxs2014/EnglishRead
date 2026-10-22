@@ -1,7 +1,0 @@
-# corruption_scan.py  notes/books/mystery-thriller/beware-the-abbott-boys-by-chelsea-ichaso
-# 运行时间 2026-10-20 (UTC)  修复后终跑
-
-=== 编辑损坏扫描（beware-the-abbott-boys-by-chelsea-ichaso）===
-  FAIL 0 处（U+FFFD / 双句号）
-  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
-# exit=0

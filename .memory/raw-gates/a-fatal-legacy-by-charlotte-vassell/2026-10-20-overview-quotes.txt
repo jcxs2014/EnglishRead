@@ -1,1 +1,0 @@
-/opt/homebrew/Cellar/python@3.15/3.15.0/Frameworks/Python.framework/Versions/3.15/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/verify_overview_quotes.py': [Errno 2] No such file or directory

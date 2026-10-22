@@ -1,5 +1,0 @@
-❌ MISS ch08 the return of la muelona.md:127  片段: Blood is the currency of power.
-
-=== 逐片段核验（独立实现） ===
-  引语条数 180 ｜ 受检片段 197 ｜ ❌ MISS 1 ｜ 缺参照章 0
-  ⇒ 有片段在**本章** text/ 里查无 = 伪造或跨章搬引，必须改

@@ -1,8 +1,0 @@
-=== B 步：逐章归属 check_chapter_quotes --book-dir（2026-10-17 15:17 UTC）===
-⚠️  全书共 50 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
-全章扫描: 解析引语块 357，命中本章 357（100%）
-
---- 异常章节 (1) ---
-  ch02 ch02 Playlist.md: NO_QUOTES_EXTRACTED
-
---- P0-5 吞词/尾词截断 ---

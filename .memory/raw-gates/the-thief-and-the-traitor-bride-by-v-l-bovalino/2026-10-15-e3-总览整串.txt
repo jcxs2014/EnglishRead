@@ -1,9 +1,0 @@
-=== 总览整串核查（the-thief-and-the-traitor-bride-by-v-l-bovalino）===
-  参照集：text/ 逐章（50 章） ｜ 总览文件 3 个
-  A 整串：命中 57 ｜ 🔶 拼接 3 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 14
-  B 章节标签：对 49 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 8 ｜ 无法判定(无逐章参照) 0
-  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
-  C 跨章多重命中：0 ｜ E H1 语义错配：0
-  ⚠️ 00_金句精选.md:43  跨标签拼接：Nore took a tentative sip. The taste of the coffee
-  ⚠️ 00_金句精选.md:151  跨标签拼接：I'm sorry I waited so long to say it again. … But 
-  ⚠️ 00_金句精选.md:229  跨标签拼接：Cas's laugh was warm and sure. … he said, already 

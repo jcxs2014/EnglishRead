@@ -1,3 +1,0 @@
-  ❌ ch02 abilene.md: [summary] 引语 2: 子项「为什么这样写」出现 0 次（须恰 1）
-  ⚠️ ch01 dickinson county archives.md: ⚠ [summary] 引语块 4 个，与本书众数 10 相差过大
-=== 独立结构扫描：4 个 md，缺陷 1 处（另有提示型 1 条，不计入缺陷、不影响退出码）===

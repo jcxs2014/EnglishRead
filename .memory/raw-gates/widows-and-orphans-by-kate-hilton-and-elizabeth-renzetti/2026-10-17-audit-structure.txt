@@ -1,7 +1,0 @@
-=== audit_structure ===
-=== 精读结构扫描（widows-and-orphans-by-kate-hilton-and-elizabeth-renzetti）===
-  扫 29 个 md、283 个引语块；多数派必备节：（无，不判）
-  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 9
-  ❌ 结构缺陷 0 ｜ ⚠️ 提示 2 ｜ 🔀 映射不一致 0
-  ⚠️ ch27 lewis kinross.md  第 78 行引语与第 69 行重复（提示型）：Not anymore. I just saw him running across t
-  ⚠️ ch29 resolution.md  第 76 行引语与第 25 行重复（提示型）：Healing may be a matter of time, but it’s al

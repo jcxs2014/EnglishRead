@@ -1,9 +1,0 @@
-# verify_overview_quotes.py  notes/books/mystery-thriller/beware-the-abbott-boys-by-chelsea-ichaso  <epub>
-# 运行时间 2026-10-20 (UTC)
-=== lane：完整 lane（epub） ===
-00_情感节点.md: 12/12 ✅
-00_概述.md: ➖ 无引语行（未检出待核引语形态，非门禁项）
-00_金句精选.md: 14/14 ✅
-
-=== 总览引文 26/26 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
-# exit=0

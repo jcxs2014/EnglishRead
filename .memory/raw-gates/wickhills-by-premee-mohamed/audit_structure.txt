@@ -1,7 +1,0 @@
-=== 精读结构扫描（wickhills-by-premee-mohamed）===
-  扫 38 个 md、231 个引语块；多数派必备节：（无，不判）
-  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 6
-  ❌ 结构缺陷 0 ｜ ⚠️ 提示 3 ｜ 🔀 映射不一致 0
-  ⚠️ 00_金句精选.md  第 180 行引语与第 54 行重复（提示型）："No, his unease came from something else. An
-  ⚠️ 00_金句精选.md  第 236 行引语与第 222 行重复（提示型）："Long may it run from us, evading our snatch
-  ⚠️ 00_金句精选.md  第 348 行引语与第 250 行重复（提示型）："His hands had never been clean and never wo

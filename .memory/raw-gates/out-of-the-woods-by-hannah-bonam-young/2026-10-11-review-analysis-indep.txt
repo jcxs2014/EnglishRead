@@ -1,5 +1,0 @@
-抽出分析层英文片段 343 条
-❌ 未命中 1 条：
-  ch06 three.md:12  best friend confidante
-      未命中词: ['confidante']
-exit=1

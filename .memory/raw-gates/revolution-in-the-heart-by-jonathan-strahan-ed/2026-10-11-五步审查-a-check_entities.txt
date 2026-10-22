@@ -1,3 +1,0 @@
-=== CMD: check_entities notes/books/short-story-anthologies/revolution-in-the-heart-by-jonathan-strahan-ed ===
-=== 实体一致性检测：0 个文件存在未知实体 ===
-EXIT=0
