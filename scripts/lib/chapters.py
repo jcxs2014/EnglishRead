@@ -63,10 +63,12 @@ def legacy_format(book) -> bool:
     files = chapter_files(book)
     if not files:
         return False
+    miss = 0
     for p in files:
         try:
-            if "原句" in p.read_text(encoding="utf-8", errors="replace"):
-                return False
+            if "原句" not in p.read_text(encoding="utf-8", errors="replace"):
+                miss += 1
         except OSError:
             continue
-    return True
+    # 八成以上章节没有 `原句 N` ⇒ 判旧格式（个别章混写不算）
+    return bool(files) and miss / len(files) >= 0.8
