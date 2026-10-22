@@ -1,0 +1,55 @@
+{
+ "book": "homesick-by-rhiannon-grist",
+ "chapter": "ch09",
+ "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch09_chapter_9.txt",
+ "facts": [
+  {
+   "fact": "她把斧头扛在肩上走回村外，觉得它的重量让自己显得能干、像属于这里；走了一英里被车窗里几道异样目光看过之后，她改判自己更像\"斧头杀人犯\"，把斧头放了下来",
+   "anchor": "I walked back from town with the axe over my shoulder.",
+   "start": 13,
+   "end": 67
+  },
+  {
+   "fact": "回到 Sgàthan Sìth 她先贴墙听隔壁，一片寂静，和昨夜整晚的磕碰完全不同；她猜对方白天睡觉",
+   "anchor": "I set down my bag and listened for my neighbour.",
+   "start": 579,
+   "end": 627
+  },
+  {
+   "fact": "她决定洗澡，就得先有热水，于是打开楼梯下那扇斜切的\"柜门\"；门后是一段沉入山体的石阶，她摸到开关连按三次才想起总闸在地下室",
+   "anchor": "I felt for a light switch, found it on the wall to my right, and flicked it once, twice, thrice before remembering.",
+   "start": 1524,
+   "end": 1639
+  },
+  {
+   "fact": "她举着手机电筒、右手拿新斧头下地下室，一路给自己壮胆，又忍不住想象有尸体、捕兽夹或横在楼梯上的钢琴线",
+   "anchor": "No piano wire. The only person down there in the dark with an axe would be me.",
+   "start": 2666,
+   "end": 2744
+  },
+  {
+   "fact": "手机手电突然没电、她被黑暗罩住，一边拍打电箱一边喊\"come on\"，摸到并扳下总闸，地下室立刻亮起，她吓得尖叫",
+   "anchor": "I found and flicked the switch.",
+   "start": 3525,
+   "end": 3556
+  },
+  {
+   "fact": "总闸旁边就是柴火锅炉，底座有一袋劈好的木柴和引火物；她把木头立在水泥地上，用斧头劈了三次才劈开几块，用火柴和售房广告的末页点着了火",
+   "anchor": "I managed to split a few logs.",
+   "start": 4962,
+   "end": 4992
+  },
+  {
+   "fact": "火着起来后她手叉腰站着，觉得这是自己做过最实用的一件事，重新想起白天的幻想（园丁、图书管理员、花店老板），想也许能当自己故事里的女主角",
+   "anchor": "Here stands a capable woman, I thought.",
+   "start": 5655,
+   "end": 5694
+  },
+  {
+   "fact": "她小心地把两块劈开的木头架在火苗上方，看着火舌像一条亮橙色的毛毛虫沿着干裂的边缘爬开，把木头熏黑",
+   "anchor": "the dry split edge took and flame crept along it like a bright orange caterpillar, sooty feet leaching the colour from the wood and staining it black.",
+   "start": 5331,
+   "end": 5481
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "book": "homesick-by-rhiannon-grist",
+ "chapter": "ch08",
+ "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch08_chapter_8.txt",
+ "facts": [
+  {
+   "fact": "她到 Carlinsrest 还不到一小时，就觉得自己已经成了谈资，骂自己\"Get it together, Tamsin\"",
+   "anchor": "probably already a source of gossip",
+   "start": 66,
+   "end": 101
+  },
+  {
+   "fact": "她为躲开河，拐进侧街与后巷：车库、工场、仓储间夹着窄路，尽头一栋矮长的石屋，蓝底白字招牌写着 CARLINSREST HARDWARE & SUPPLIES，橱窗里摆钢锯、剪刀、驱蚊蜡烛、防蠓网、荧光工装背心、引火袋和种子",
+   "anchor": "CARLINSREST HARDWARE & SUPPLIES",
+   "start": 745,
+   "end": 776
+  },
+  {
+   "fact": "店主的手机响了，他走到柜台外趴地上做起平板支撑，说这些东西都是他伴侣在他手机里设的提醒（平板、拉伸、喝水），\"他觉得手机上设个提醒什么都能解决\"",
+   "anchor": "my other half has a habit of putting reminders in my phone",
+   "start": 3641,
+   "end": 3699
+  },
+  {
+   "fact": "她问他 biomass heating system 是什么，他说那就是烧木柴的锅炉，叫得花哨是为讨好城里的绿党；锅炉多半在地下室，靠近保险盒、总闸之类，入口可能是楼梯下那扇斜切的门，她一直以为那是储物间",
+   "anchor": "wood-fuelled boiler",
+   "start": 6469,
+   "end": 6488
+  },
+  {
+   "fact": "他说原房主若厚道该留了柴，没有就得买；因为她新来，他可以在卖斧头时搭一捆木柴和引火物，还说\"你总不能一直按游客价买柴\"",
+   "anchor": "bundle of wood and kindling with your axe",
+   "start": 7599,
+   "end": 7640
+  },
+  {
+   "fact": "结账时她报出自己住在 Sgàthan Sìth 的其中一栋小屋（1b 号），他停笔追问\"You’re in Sgàthan Sìth?\"，嘴唇一吸、眉毛一挑，只说\"没什么\"",
+   "anchor": "Sgàthan Sìth cottages",
+   "start": 9306,
+   "end": 9327
+  },
+  {
+   "fact": "他刚说这房子换过几个房主、\"好像没人能——\"，店里一声哐当打断：穿牛仔外套的年轻人把展示用链锯掉在地上，他半跑着去接住",
+   "anchor": "had a couple of owners, but no one ever seems to",
+   "start": 9621,
+   "end": 9669
+  },
+  {
+   "fact": "他临走叫住她，让她明天去 The Cut Yard：从 Maggie's Café 与 tapas 店之间的小巷往上，再左转，本地人晚上都在那儿；\"你现在也是本地人了，该来打个招呼\"",
+   "anchor": "you should come to the Curtyard tomorrow",
+   "start": 10042,
+   "end": 10082
+  },
+  {
+   "fact": "她把木柴、引火物和晾衣绳塞进背包，塞不下斧头，只能拿在手里转身出门",
+   "anchor": "There was no room for the axe so I just held it",
+   "start": 9927,
+   "end": 9974
+  }
+ ]
+}
