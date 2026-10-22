@@ -1,0 +1,125 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch01",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch01_prologue.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "开篇：自然正在吞噬 Greer House——草到腰高、金银花缠住游廊立柱、葛藤抓上发绿的墙板；屋顶下陷、二楼栏杆裂开、窗上没了玻璃。叙述者仍说「不过依然美」。",
+   "anchor": "Nature is consuming Greer House",
+   "start": 16,
+   "end": 47
+  },
+  {
+   "fact": "一只 crying bird 从扭曲的橡树俯冲到前走道上，伸着脖子瞪她、尖啸，像是在提醒「他们很快会发现我不在」；她于是把包甩上肩、钻出车门走进热气里。",
+   "anchor": "A crying bird swoops down from a gnarled oak tree",
+   "start": 337,
+   "end": 386
+  },
+  {
+   "fact": "她下车太急，眼前溅起黑点，只能靠着车门喘；她告诫自己不能赶。",
+   "anchor": "Black dots sprinkle across my vision as I slam the door closed",
+   "start": 623,
+   "end": 685
+  },
+  {
+   "fact": "回忆五年前那个「茫然的自己」如何面对一名 city inspector（大概是邻居叫来的，而邻居根本不在意她刚从医院出来）：她「用懦夫的办法」递出一张让 inspector 倒吸凉气的支票，任由房子烂下去。",
+   "anchor": "I want to hug the dazed version of me from five years ago",
+   "start": 936,
+   "end": 993
+  },
+  {
+   "fact": "她把此行的条件说清楚：等记起那一夜发生了什么，才能判定这处产业值不值得留、这一家子是不是已被判死。",
+   "anchor": "Once I remember what happened that night, I can decide whether this property is worth saving",
+   "start": 1441,
+   "end": 1533
+  },
+  {
+   "fact": "前门黑漆龟裂、碎块落在门前当作 welcome mat，这叫 alligatoring；她用一把头部做成鳄鱼头骨的铁制骨架钥匙开门，转动发乌的铜把手。",
+   "anchor": "The front door is riddled with cracking black paint",
+   "start": 1875,
+   "end": 1926
+  },
+  {
+   "fact": "门开时传来「湿脚轻踏」与「一条长湿裙拖过地板」的声音；她屏住呼吸，但再没有听见别的。",
+   "anchor": "The door creaks open to the patter of waterlogged feet",
+   "start": 2202,
+   "end": 2256
+  },
+  {
+   "fact": "屋内是烂木头味；Aunt Virginia 早在她逃离之前就搬走了，路过的人随后拿走了能拿的；客厅那只鳄鱼盖瓷壶断了尾巴，大楼梯缺了几级，餐厅由翠绿褪成泥色并长了黑霉。",
+   "anchor": "Aunt Virginia had already moved out by the time I fled",
+   "start": 2431,
+   "end": 2485
+  },
+  {
+   "fact": "墙上一幅画都不剩——她推断 Virginia 当真去烧掉了（她曾开口要求烧画）。",
+   "anchor": "No paintings remain on the wall; Aunt Virginia must have taken me seriously",
+   "start": 2847,
+   "end": 2922
+  },
+  {
+   "fact": "暗起来的 parlour 传来一声轻响；她拒看远处角落那幅遮住四分之一扇无玻璃窗的垂帘——如果地板上还留着血，她不想看见。",
+   "anchor": "From the darkened parlor beyond the dining room comes a light thud",
+   "start": 3010,
+   "end": 3076
+  },
+  {
+   "fact": "壁炉前的地上仍躺着「她的画像」，斧头仍嵌在里面、刃已经钝了；她由此判断 Aunt Virginia 没能狠下心毁掉这一幅。脑内回响一声尖叫，两个声音合成一个。",
+   "anchor": "Her portrait still lies on the floor in front of it, the axe still stuck inside her",
+   "start": 3313,
+   "end": 3396
+  },
+  {
+   "fact": "又一声撞在 parlour 墙上的闷响让她跳起来、气促，她在心里求「不是她」；贴着地面窜出一个灰色身影、黄眼睛眨，她的惊叫变成笑——只是社区里那只老猫。",
+   "anchor": "Something thumps the parlor wall. I jump, breath catching",
+   "start": 3555,
+   "end": 3612
+  },
+  {
+   "fact": "猫客气但疏离地走向窗口；她补一句旧规矩：从前没有动物能不被关着就进 Greer House，「这家的女主人」不许。",
+   "anchor": "Before, no animal could enter Greer House uncaged; the lady of the house wouldn’t allow it",
+   "start": 4061,
+   "end": 4151
+  },
+  {
+   "fact": "她在面向 parlour 的潮湿地椅子上坐下，从包里取出新的速写本和最喜欢的笔，手停在包口犹豫是否真需要 reminder。",
+   "anchor": "I settle into a damp seat facing the parlor",
+   "start": 4155,
+   "end": 4198
+  },
+  {
+   "fact": "包里有一盒验孕试纸，触感冰凉、不带感情；她说如果 Mama 活着，会立刻逼她测——一见两条粉线就把她拖去诊所，再拎着一盒火柴和一罐汽油回 Greer House。",
+   "anchor": "The box of pregnancy tests is cool to the touch, impersonal",
+   "start": 4484,
+   "end": 4543
+  },
+  {
+   "fact": "她重申来意：在祖屋里判定「我们」是否配得上一个未来；而要评判自己和这家人，必须先把那一夜的每个细节想起来——一部分画下来、一部分写下来，为「我死后还剩下的那个人」留一份记录，也许那样才会有人知道她究竟是谁。",
+   "anchor": "I’m here, in our ancestral home, our rotting heart, to decide whether we deserve a future",
+   "start": 4839,
+   "end": 4928
+  },
+  {
+   "fact": "她追溯那份「启动」落在哪一刻：把红色 Georgia 泥土抛进 Mama 的棺材？第一次读到 Greers 这些名字？最后一次把刀插进鳄鱼？都不是——是那封信。涌起的情绪是 hope, betrayal, guilt。",
+   "anchor": "When did I put that evening’s events in motion?",
+   "start": 5218,
+   "end": 5265
+  }
+ ],
+ "relations": [
+  "叙述者：本章通篇没有出现她的名字（第一人称「I」）",
+  "Mama：已死，本章有棺材（red Georgia dirt on Mama’s coffin）；叙述者反复以「如果 Mama 活着」设想她",
+  "Aunt Virginia：在本章被提到两次——早在叙述者逃离前搬走；拿走了（或烧掉了）墙上的画；没能毁掉地上那幅画像",
+  "the lady of the house：旧日女主人，不许动物不关笼子进屋（本章未给出姓名）",
+  "「her portrait」：地上斧头仍在体内的画像，与 parlour 可能的血迹、「Not her」的哀求相关（本章未给出姓名）",
+  "the city inspector：五年前出现过的公务人员，被一张支票打发"
+ ],
+ "numbers": [
+  "five years ago（五年前面对 city inspector）",
+  "a quarter of the paneless window（垂帘遮住四分之一扇窗）",
+  "two pink lines（验孕两条线，设想句里）",
+  "a box of matches and a can of gasoline（设想句里的数量）",
+  "several steps of the grand staircase are missing（原文只写 several，未给确数）"
+ ]
+}
