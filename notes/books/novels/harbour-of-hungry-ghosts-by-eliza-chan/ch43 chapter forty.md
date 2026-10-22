@@ -55,7 +55,7 @@ modified: "2026-10-22"
 
 **读者视角提示**：妹妹是「递出来」的，不是「说出来」的。照片在她手上留过一阵，说明她先自己看过一遍。
 
-> **原句 5:** "“Barrister Ng and Madam Yau paid for the hall; they would’ve had the honour of placing the first stones. Por Por would have been part of the ceremony to bless the building. … The temple is a massive protective talisman for all of Hong Kong."
+> **原句 5:** "“Barrister Ng and Madam Yau paid for the hall; they would’ve had the honour of placing the first stones. Por Por would have been part of the ceremony to bless the building. … The temple is a massive protective talisman for all of Hong Kong. …"
 
 **中文理解**：「Ng 律师和 Madam Yau 出钱修了这座礼堂，所以他们有资格放第一批基石。祖母应该也参加了给房子祝福的仪式。……这座庙是全香港一件巨大的护身符。」
 
@@ -65,7 +65,7 @@ modified: "2026-10-22"
 
 **读者视角提示**：放基石、做祝福、护身符，三句把人和建筑摆进同一个句子，不妨把两边对调着看：人散了，这座庙还剩什么。
 
-> **原句 6:** "“It’s to prevent gateways from opening. A talisman that started failing the night Por Por was abducted. … They just need to pull the foundation stones out, one by one."
+> **原句 6:** "“It’s to prevent gateways from opening. A talisman that started failing the night Por Por was abducted. … They just need to pull the foundation stones out, one by one. …"
 
 **中文理解**：「它是用来挡住门径打开的。一件从祖母被掳那一夜起就开始失效的护身符。……他们只要把基石一块一块抽出来。」
 
