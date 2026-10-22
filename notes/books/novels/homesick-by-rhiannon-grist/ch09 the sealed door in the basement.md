@@ -94,12 +94,10 @@ source_text: ch09
 ### ⭐ 常用
 
 | 词/短语 | 释义 | 原文例句 |
-|---------|------|----------|
-| axe | 斧头 | CHAPTER 9
+|---------|------|----------| | axe | 斧头 | CHAPTER 9 I walked back from town with the axe over my shoulder. |
 
 
 
-I walked back from town with the axe over my shoulder. |
 | basement | 地下室 | A basement wasn’t a bad thing. |
 | torch | 手电筒 | Not enough battery for the torch app. |
 | switch | 开关 | I felt for a light switch, found it on the wall to my right, and flicked it once, twice, thrice before remembering. |

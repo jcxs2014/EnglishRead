@@ -75,11 +75,9 @@ source_text: ch04
 
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
-| blurted | 脱口而出 | “Sorry,” I blurted into it. |
-| limp | 软塌塌的，无力的 | Hello.”
+| blurted | 脱口而出 | “Sorry,” I blurted into it. | | limp | 软塌塌的，无力的 | Hello.” She reached out a limp hand. |
 
 
-She reached out a limp hand. |
 | yank | 猛拉，猛拽 | But no sudden yank into the dark. |
 | plaited | 编成辫子 | I ate the last of my crisps and grapes, plaited my greasy hair as neatly as I could, then stepped out to make my first new acquaintance. |
 | hushed | 沙沙作响；安静下来 | The leaves on the elm tree hushed in the wind, like a small audience clapping me off stage. |
@@ -95,11 +93,9 @@ She reached out a limp hand. |
 | knock | 敲（门） | And when we married, we’d knock down the walls between our two homes and Sgàthan Sìth would be one again. |
 | handshake | 握手 | It was a normal handshake. |
 | village | 村庄 | “I’m driving into the village. |
-| weed | 杂草 | Not a weed or a thistle or a bare patch in sight. |
-| shoulders | 肩膀 | You’re very generous.”
+| weed | 杂草 | Not a weed or a thistle or a bare patch in sight. | | shoulders | 肩膀 | You’re very generous.” “Oh.” I felt my shoulders lift. |
 
 
-“Oh.” I felt my shoulders lift. |
 
 
 ## 一句话总结

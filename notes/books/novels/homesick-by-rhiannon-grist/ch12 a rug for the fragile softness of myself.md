@@ -88,23 +88,14 @@ source_text: ch12
 | fripperies | 华而不实的装饰品 | I needed somewhere that sold fripperies. |
 | tessellated | 镶嵌成棋盘格状的 | I searched for a triangle rug and found five hundred options with tessellated triangles over them in sad shades of white and grey. |
 | indignation | 愤慨 | All embarrassment leaving me on a hot wave of indignation. |
-| furrowed | 皱起（眉头） | I wish to buy this rug.”
-
-
-He furrowed his brows at me a moment. |
+| furrowed | 皱起（眉头） | He furrowed his brows at me a moment. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
 | sundries | 杂项，零碎杂物 | I’d considered Rowan’s hardware and supplies shop, but from what I could remember it was mostly tools and sundries. |
-| gilded | 镀金的 | The gilded sign above declared in a decorative, vintage font:
-
-
-The Auld Antiques Shoppe
-
-
-Bingo. |
+| smirk | 得意的笑，冷笑 | A cruel little smirk hitched up the side of his mouth. |
 | sullen | 闷闷不乐的，阴沉的 | The man sighed, his face suddenly sullen. |
 | motes | 微尘 | Pale light filtered in through a frosted window on the back wall, illuminating dancing motes of dust but barely lighting my way through the clutter. |
 | snarling | 龇牙低吼的 | There was a stuffed fox on a high shelf next to them, all glassy-eyed and snarling mouth. |
@@ -121,11 +112,7 @@ Bingo. |
 | candle | 蜡烛 | A lit scented candle beside the till perfumed the air with woody notes and toasted vanilla. |
 | mirror | 镜子 | My reflection stared back at me from a tall gilt mirror leant against the wall. |
 | wardrobe | 衣柜 | I squeezed past a wardrobe, turned a corner between warring chests of drawers and walked straight into another person, their surprised face just inches away from me. |
-| axe | 斧头 | CHAPTER 12
-
-
-
-I was still feeling unsettled the following morning when I woke tangled in my dressing gown-come-bedsheet, cuddling the axe. |
+| axe | 斧头 | I was still feeling unsettled the following morning when I woke tangled in my dressing gown-come-bedsheet, cuddling the axe. |
 | receipt | 收据 | “I’ll write you a receipt,” he said. |
 
 

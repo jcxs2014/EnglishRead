@@ -106,12 +106,12 @@ source_text: ch06
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
 | saucepan | 长柄深锅 | I’d found a saucepan in one of the kitchen cupboards back at the cottage, and a set of two forks and a spoon in a drawer. |
-| panelling | 护墙板 | It had white painted wood panelling halfway up the wall and everything above that was a pale duck-egg blue. |
+| paint | 油漆；涂料 | It had white painted wood panelling halfway up the wall and everything above that was a pale duck-egg blue. |
 | ceramic | 陶瓷的 | A chalk board listed the various tea and coffee options, and cakes were proudly displayed on ceramic stands with glass covers. |
 | mimic | 模仿（口吻、腔调） | I could mimic brand voices with ease. |
 | gaggle | 一群（闹哄哄的人） | A gaggle of teenagers walked past the window, excitedly gathered around one of their phones. |
 | bunting | 彩旗 | I’d expected more bunting and hanging baskets and cheery community centres and jam jars. |
-| rucksacks | 登山背包 | A group of young women wearing rucksacks came into the café and grabbed a table behind me. |
+| rucksack | 登山背包 | A group of young women wearing rucksacks came into the café and grabbed a table behind me. |
 
 
 ## 一句话总结
