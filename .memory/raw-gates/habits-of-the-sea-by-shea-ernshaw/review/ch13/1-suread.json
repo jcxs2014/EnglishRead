@@ -1,0 +1,94 @@
+{
+ "chapter": 13,
+ "source": "text/ch13_chapter_twelve.txt",
+ "facts": [
+  {
+   "fact": "Alice 的坟是一块无名的灰石，没有名字也没有日期；这是岛上她唯一回避的一块地",
+   "span": [
+    40,
+    83
+   ],
+   "anchor": "The grave is marked by a smooth gray stone."
+  },
+  {
+   "fact": "她在坟前向 Alice 告解：我爱他，比爱任何人都多；并发誓不伤害他",
+   "span": [
+    1421,
+    1449
+   ],
+   "anchor": "“I love him,” I admit to her"
+  },
+  {
+   "fact": "一只蓝鹭从岸边升起、绕着她飞一圈后飞向大海——她读成告别",
+   "span": [
+    1847,
+    1899
+   ],
+   "anchor": "seeing a blue heron—just like the one from my dreams"
+  },
+  {
+   "fact": "「What she has given up, I now inherit.」",
+   "span": [
+    2561,
+    2598
+   ],
+   "anchor": "What she has given up, I now inherit."
+  },
+  {
+   "fact": "岛卡在礁石上已经八天；度假村大概也是毁于一场飓风",
+   "span": [
+    3861,
+    3910
+   ],
+   "anchor": "We’ve been lodged against the reef for eight days"
+  },
+  {
+   "fact": "她说愿意跟他去北极；他说北极冷得皮都要从骨头上掉下来",
+   "span": [
+    4926,
+    4974
+   ],
+   "anchor": "“I’d go to the Arctic with you,” I say playfully"
+  },
+  {
+   "fact": "夜里她独自游到对岸的度假村，走过 THIS WAY TO POOL 的牌子，前台三块屏幕蒙尘",
+   "span": [
+    7414,
+    7430
+   ],
+   "anchor": "THIS WAY TO POOL"
+  },
+  {
+   "fact": "她写下留言条，署名前先写 Ellie Wells、划掉改成 Ellie Wells-Lockhart",
+   "span": [
+    9582,
+    9612
+   ],
+   "anchor": "Ellie Wells-Lockhart was here."
+  },
+  {
+   "fact": "她把一枚裂了口的螺壳压在字条上（留言瓶的替代物）",
+   "span": [
+    10426,
+    10475
+   ],
+   "anchor": "I pull out the shell—a conch, cracked on one side"
+  },
+  {
+   "fact": "十二天后他们在夜里被海带走，没有目睹沙滩消失",
+   "span": [
+    12156,
+    12176
+   ],
+   "anchor": "Twelve days drift by"
+  },
+  {
+   "fact": "沙滩、半月湾与棕榈岛全都消失，只剩海水",
+   "span": [
+    13112,
+    13185
+   ],
+   "anchor": "The beach, the half-moon cove, the island of swaying palms—it’s all gone."
+  }
+ ]
+}

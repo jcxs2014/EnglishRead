@@ -90,7 +90,7 @@ source_text: ch13
 
 > **原句 7:** "The ocean has ripped us away at night, when we couldn’t cry out against its cruelty. I hear Clay’s footsteps across the floor, and we stare out at the endless sea that has become our companion. Intimate and constant."
 
-**中文理解**：是海在夜里把我们撕走了，让我们连一声喊叫都没来得及向它的残酷发出。我听见 Clay 的脚步走过地板，我们一起望着那片已经成为我们同伴的无尽大海。亲密而恒常。
+**中文理解**：海在夜里把我们扯走了——那时我们连对着它的残酷喊一声都做不到。我听见 Clay 的脚步走过地板，我们一起望着那片已经成为我们同伴的无尽大海。亲密而恒常。
 
 **关键词**：The ocean has ripped us away at night / we couldn’t cry out against its cruelty / the endless sea that has become our companion
 
