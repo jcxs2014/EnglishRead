@@ -1,0 +1,55 @@
+{
+ "book": "the-hexing-miss-helena-by-darcy-mcguire",
+ "chapter": "ch19",
+ "text": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch19_chapter_19.txt",
+ "facts": [
+  {
+   "fact": "德文公爵夫人闯进客厅，邀请辛西娅参加两周后的夏季宴会，还说规矩是给蠢人定的。",
+   "anchor": "Decorum is for dunderheads.",
+   "start": 3424,
+   "end": 3451
+  },
+  {
+   "fact": "公爵夫人要她带情人赴宴，鼓励她做点不合规矩的事。",
+   "anchor": "Bring your paramour with you to my party. I dare you.",
+   "start": 4354,
+   "end": 4407
+  },
+  {
+   "fact": "公爵夫人说她躲快乐躲得太久了。",
+   "anchor": "You have spent far too long hiding from pleasure, Cynthia.",
+   "start": 4851,
+   "end": 4909
+  },
+  {
+   "fact": "辛西娅沐浴后叫来管家，要她找出被休伯特解雇的女仆地址，准备补偿。",
+   "anchor": "I need you to find all the addresses of the maids Hubert terminated.",
+   "start": 9813,
+   "end": 9881
+  },
+  {
+   "fact": "晚宴上辛西娅向女巫们坦白，以为自己一直在偷海伦娜的力量。",
+   "anchor": "I think I have been stealing Helena’s power.",
+   "start": 16616,
+   "end": 16660
+  },
+  {
+   "fact": "海伦娜告诉她力量来自她自己。",
+   "anchor": "Your power comes from within you.",
+   "start": 18110,
+   "end": 18143
+  },
+  {
+   "fact": "罗温问她能否听见其他动物的心思；辛西娅说不能。",
+   "anchor": "Can you hear the thoughts of other animals?",
+   "start": 19085,
+   "end": 19128
+  },
+  {
+   "fact": "罗温最后揭示哈姆雷特也是辛西娅的魔宠。",
+   "anchor": "Because Hamlet is Cynthia’s familiar.",
+   "start": 19747,
+   "end": 19784
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "the-hexing-miss-helena-by-darcy-mcguire",
+ "chapter": "ch18",
+ "text": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch18_chapter_18.txt",
+ "facts": [
+  {
+   "fact": "海伦娜走进利珀特家狭小的房间，想到辛克莱会把此人列入嫌疑人，并认定休伯特严重伤害了莉莉。",
+   "anchor": "No wonder Sinclair thought of him when he was listing men who might have murdered Hubert Burrows.",
+   "start": 233,
+   "end": 330
+  },
+  {
+   "fact": "利珀特当面说莉莉腹中的孩子是休伯特的，并骂辛西娅纵容丈夫。",
+   "anchor": "It was ’er husband what put that babe in yer belly.",
+   "start": 2289,
+   "end": 2340
+  },
+  {
+   "fact": "海伦娜握水成球、动了杀机时想起誓言，并否认辛西娅是“她的女人”。",
+   "anchor": "Do no harm. I made an oath. And she isn’t my woman.",
+   "start": 1737,
+   "end": 1788
+  },
+  {
+   "fact": "海伦娜读到他真正的恨意：他恨自己没来得及杀死休伯特。",
+   "anchor": "George Lippert despised himself for being too late to kill Hubert Burrows.",
+   "start": 7056,
+   "end": 7130
+  },
+  {
+   "fact": "海伦娜当面说她不信他杀了人，但要他说出凶手。",
+   "anchor": "I don’t think you killed him, George.",
+   "start": 8254,
+   "end": 8291
+  },
+  {
+   "fact": "利珀特嘴上否认知情；海伦娜当即说他撒谎。",
+   "anchor": "I ’aven’t a clue.",
+   "start": 8619,
+   "end": 8636
+  },
+  {
+   "fact": "莉莉喝止父亲与海伦娜，替辛西娅辩护。",
+   "anchor": "We are not each other’s enemies.",
+   "start": 9939,
+   "end": 9971
+  },
+  {
+   "fact": "回程马车上辛西娅仍否认自己有魔法，海伦娜提起她在狗面前的表现。",
+   "anchor": "There is nothing magical about me.",
+   "start": 17259,
+   "end": 17293
+  }
+ ]
+}
