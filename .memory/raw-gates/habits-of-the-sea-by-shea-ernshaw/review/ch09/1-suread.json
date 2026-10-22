@@ -1,0 +1,118 @@
+{
+ "chapter": 9,
+ "source": "text/ch09_chapter_eight.txt",
+ "facts": [
+  {
+   "fact": "他给她烧了五桶热水泡澡；柜里的浴盐（海盐、薰衣草、迷迭香）是他亡妻自己做的",
+   "span": [
+    38,
+    54
+   ],
+   "anchor": "I’ll draw a bath"
+  },
+  {
+   "fact": "晚饭时他说薰衣草的味道让他想起「另一个时代」，并说岛上没有季节，是天鹅决定天气",
+   "span": [
+    5655,
+    5730
+   ],
+   "anchor": "there are no seasons on the island. It’s the tide that decides the weather."
+  },
+  {
+   "fact": "他引用父亲的话：「To travel hopefully is a better thing than to arrive.」",
+   "span": [
+    6291,
+    6344
+   ],
+   "anchor": "To travel hopefully is a better thing than to arrive."
+  },
+  {
+   "fact": "他说从这座岛拿走的东西终会回来：「Anything taken from this place will always return.」",
+   "span": [
+    8181,
+    8231
+   ],
+   "anchor": "Anything taken from this place will always return."
+  },
+  {
+   "fact": "他取下自己的挂坠，把链子和 Nana 给的贝壳还给她",
+   "span": [
+    9192,
+    9243
+   ],
+   "anchor": "I suppose we’ve both taken something from the other"
+  },
+  {
+   "fact": "门厅柜里靠墙放着一支温彻斯特步枪，他说是为防鹞和猫头鹰叼走小鸡",
+   "span": [
+    13180,
+    13206
+   ],
+   "anchor": "the Winchester sits unused"
+  },
+  {
+   "fact": "她给他补衬衫，用 Nana 教的针法",
+   "span": [
+    13311,
+    13356
+   ],
+   "anchor": "a basic stitching pattern I learned from Nana"
+  },
+  {
+   "fact": "他带她去岛另一头的蜂箱取蜜；她挥刀赶蜂时划开他的手，随后替他缝针",
+   "span": [
+    25251,
+    25353
+   ],
+   "anchor": "When I swung around—moving wildly, frantically—I must have slashed the blade right through Clay’s hand"
+  },
+  {
+   "fact": "两天后她哼 Adele 的歌；他送她一枚在岸边捡到、亲手钻孔的牛角贝",
+   "span": [
+    30450,
+    30504
+   ],
+   "anchor": "Found it on the shore, reminded me of the one ye wear—"
+  },
+  {
+   "fact": "他刮掉胡子后她发现：不是他变了，是她变了——如今他们同龄",
+   "span": [
+    40458,
+    40502
+   ],
+   "anchor": "He is not different, as I had first thought."
+  },
+  {
+   "fact": "暴风夜喝的是老邻居 Neil Hagdorn 酿的威士忌；他说「Slàinte Mhath」",
+   "span": [
+    47368,
+    47380
+   ],
+   "anchor": "Neil Hagdorn"
+  },
+  {
+   "fact": "她说「I’ve been here over two months」；他把她比作 Highland cow（hairy coo）",
+   "span": [
+    50574,
+    50604
+   ],
+   "anchor": "I’ve been here over two months"
+  },
+  {
+   "fact": "她讲起一年前他曾被潮水送到瓜德罗普",
+   "span": [
+    56556,
+    56580
+   ],
+   "anchor": "it was called Guadeloupe"
+  },
+  {
+   "fact": "醉后她拉他在客厅跳没有音乐的舞，他迟疑地把手放在她腰上",
+   "span": [
+    59334,
+    59381
+   ],
+   "anchor": "Reluctantly he places his hands around my waist"
+  }
+ ]
+}
