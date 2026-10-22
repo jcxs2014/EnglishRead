@@ -35,15 +35,15 @@ modified: "2026-10-22"
 
 **读者视角提示**：注意"involuntary"。退后不是被她说服，而是因为她的存在不对劲，这份不对劲后面还会替她开门。
 
-> **原句 3:** "“No appointment, no entry. Not unless one of the officers or civil servants vouches for you.” The guard shooed her away like she was one of the stray dogs by the harbour. … Her grandmother’s words haunted her. Ghosts and monsters are only half the job. Managing people is the other half."
+> **原句 3:** "“No appointment, no entry. Not unless one of the officers or civil servants vouches for you.” The guard shooed her away like she was one of the stray dogs by the harbour."
 
-**中文理解**：没有预约就不许进，除非有军官或文官作保；门卫像赶码头上的野狗一样把她轰走。祖母那句话追着她不放：鬼与怪只占一半，另一半是管人。
+**中文理解**：门房说：没有预约就不许进，除非有军官或文官作保。他把她赶开，像赶港口边的一条野狗。
 
-**关键词**：appointment / stray dogs / Managing people
+**关键词**：No appointment, no entry / shooed her away / stray dogs
 
-**为什么这样写**：祖母立的规矩在这里第一次以失败兑现——她原以为会法术就够，结果卡在一句"没有预约"。野狗这个比喻把她放回城市的底层序列，也解释了为什么下一段她会被一个文官随手带进门。
+**为什么这样写**：先给一句押韵的规矩，再补一个野狗的比喻：不是她资格不够，是她在这栋楼眼里根本不算人。制度的门从来不说"你不配"，它只说"没有预约"。
 
-**读者视角提示**：这一章的主线就是"学管人"三个字。她后来的每一次让步，都要拿这三个字来衡量值不值。
+**读者视角提示**：这一关不是靠法术过的，是靠下一段的"接书"过的——她的身体比她的符先说服了英国人。
 
 > **原句 4:** "Without thinking, Kiamling leapt forward and snatched them up as they fell. Her hand missed the last one, but she thrust out a foot before it hit the ground, balancing it on the toe of her shoe."
 
@@ -55,45 +55,55 @@ modified: "2026-10-22"
 
 **读者视角提示**：这是"身体先于算计"。等到她说自己不会管人时，读者已经知道她的身体一直在替她说话。
 
-> **原句 5:** "“Excellent. Marvellous news indeed! We should make a start. Immediately, Miss Au.” … “I dare say we need no more than three or four months to get up to speed.” … “Why, yes. Is that going to be a problem?” Archie looked at her like a disappointed puppy pawing at an empty plate for scraps."
+> **原句 5:** "“Yes, yes, perfect.” Kiamling tried to ignore how he had mangled her name. Her mind schemed as she glanced behind her furtively. Archie would provide excellent cover for her to snoop around Government House. And perhaps he could be persuaded to set up a meeting with Governor Bowring, too."
 
-**中文理解**：他连声说这是天大的好消息，要马上开始，叫她"欧小姐"；随后轻描淡写地说，只要三四个月就能上手；她脱口反问，他一脸不解，眼神像小狗扒着空盘子找碎屑。
+**中文理解**：她连说"对，对，很好"，忍住不去计较他把她的名字念歪了；一边偷偷往后看，心里已经在打算盘：Archie 正好当她的挡箭牌，让她能在总督府里四处打探，说不定还能说动他去安排见总督一面。
 
-**关键词**：three or four months / get up to speed / disappointed puppy
+**关键词**：mangled her name / excellent cover / snoop around
 
-**为什么这样写**："三四个月"把她的算盘打翻：她以为几小时换一次进总督府的机会，结果签下的是一份长期劳役。小狗比喻让他的无害与他造成的束缚同时成立——他不是恶人，他只是没想过她的时间值钱。
+**为什么这样写**：这一句把她从受辱的人变成使唤人的人：名字被念错只是要忍的小事，进门才是大事。"schemed"和"furtively"两个词紧挨着，作者提醒读者这份机灵并不干净。
 
-**读者视角提示**：注意他准确叫出她的姓。比起他的热情，这件事更该让她警惕。
+**读者视角提示**：注意她把人也当符用。"cover"这个词在本书里既指掩护，也指被什么东西附上——这里两种意思都在。
 
-> **原句 6:** "“You tricking ghosts to eat tofu?” … “A tall tale!” Kiamling retorted, pleased she knew the English words for it. … But here were the British with their questions, picking and unpicking until things started to unravel entirely, concrete truths becoming unmoored boats."
+> **原句 6:** "“I dare say we need no more than three or four months to get up to speed. I was considered top of my Oriental languages class after all.”"
 
-**中文理解**：她用粤语骂他"骗鬼吃豆腐？"，再补一句英文"a tall tale"，说得挺得意。可英国人的追问是另一回事：他们一层层拆，把原本牢靠的常识拆成脱了缆的船。
+**中文理解**："我敢说，我们最多三四个月就能跟上进度。毕竟我在东方语言班上可是第一名。"
 
-**关键词**：tricking ghosts to eat tofu / a tall tale / unmoored boats
+**关键词**：three or four months / Oriental languages / top of my class
 
-**为什么这样写**：俗语在这里显出权力差：她的语言是现成的、不必解释；他的语言要求解释，而一解释，世界就松动。船解缆的比喻把殖民者的考据癖写成一种暴力——不是打人，是把自明性拆掉。
+**为什么这样写**：他报出这个长度时以为在谈学业，她听见的是刑期："东方语言"这个学科名本身就把她放在被研究的位置上。数字越具体，越显得他没想过她的时间也是时间。
 
-**读者视角提示**：这是全章的思想核心。被追问的不只是豆腐，是她整个生活世界的理所当然。
+**读者视角提示**：记住"三或四个月"这个数字。后面她每一次忍耐，都能拿它来量。
 
-> **原句 7:** "“The Celestial Empire is nothing like what it used to be. The Taiping Heavenly Kingdom has proven that.” … “Blame Pottinger. He should’ve made them sign more at the Treaty of Nanjing. Lost his bottle if you ask me,” … “Patience, my good fellow. We have enough Chinamen hooked on the pipe that they continue to let our merchants trade, even if it is under cover of darkness.”"
+> **原句 7:** "“Patience, my good fellow. We have enough Chinamen hooked on the pipe that they continue to let our merchants trade, even if it is under cover of darkness.”"
 
-**中文理解**：楼上的人谈天朝今非昔比、太平天国已经证明了一切；一个怪朴鼎查在《南京条约》上签得太少、"丢了胆"；另一个说别急，瘾君子够多，商人就能在暗处继续做生意。
+**中文理解**："耐心点，老兄。抽上鸦片的中国人多得够用，他们照样让我们的商人做生意，哪怕只能藏在暗处。"
 
-**关键词**：Taiping Heavenly Kingdom / Treaty of Nanjing / hooked on the pipe
+**关键词**：hooked on the pipe / under cover of darkness / Patience
 
-**为什么这样写**：把鸦片贸易说成"耐心"和"贸易逆差"，是最冷的日常化：暴力不需要动词，只需要账目。Kiamling 在楼下听着，读者才知道她争的不只是一只妖，是一整套把人当货的算法。
+**为什么这样写**：总督府楼上这句气定神闲的算计，比任何辱骂都狠：不用打赢，只要让人上瘾。全章她偷听到的最重的一句不是骂她，是这句把人和贸易一起算进账里的家常话。
 
-**读者视角提示**：注意"under cover of darkness"。同章她也在暗处偷听，两个"暗处"互为镜像——一个在数钱，一个在数线索。
+**读者视角提示**：注意"under cover of darkness"与她偷听时"furtively"是同一类词——两边都在暗处做事，只是有一边握着灯。
 
-> **原句 8:** "A British officer was berating the workers, slapping one man over the head repeatedly with a newspaper. It was Lancaster, the police superintendent. … “The Orientals are simply inferior in proportions to Europeans. Not to mention brain capacity,” another officer commented. “We ought to have them whipped.” … But he was a shield, giving her the legitimacy to dig deeper for clues about the beast and Por Por’s disappearance. Until then, she was stuck with him."
+> **原句 8:** "“The Orientals are simply inferior in proportions to Europeans. Not to mention brain capacity,” another officer commented. “We ought to have them whipped.”"
 
-**中文理解**：一名英国军官拿报纸反复抽工人的头，那是警司 Lancaster；另一个军官说东方人在体格和脑容量上都低劣，"该抽鞭子"。而 Archie 站在她身边，是一面盾，给她查妖和祖母下落的合法性；在那之前，她只能忍着他。
+**中文理解**："东方人在体格上就不如欧洲人，脑容量更不用说，"另一个军官说，"就该拿鞭子抽他们。"
 
-**关键词**：newspaper / Lancaster / shield
+**关键词**：inferior in proportions / brain capacity / whipped
 
-**为什么这样写**：报纸打头这个细节把"文明"与"暴力"放在同一只手上，比直接写鞭子更狠。结尾"shield"把本该是感情的关系写成交易，读者才明白她的忍耐是有账可算的。
+**为什么这样写**：种族论写成两句日常闲话：先给"科学"理由，再给处置办法，中间没有过渡——从脑容量跳到鞭子只用了一个句号，这正是它可怕的地方：打人在这些嘴里是顺理成章的下一步。
 
-**读者视角提示**：这一章没有妖，只有人。她第一次意识到，最难对付的东西长着人的脸，而且会请她喝茶。
+**读者视角提示**：这段话没有任何人当场反驳，只有 Archie 在一旁绷着身子不说话。沉默在这里也是证词。
+
+> **原句 9:** "“Come away, Miss Kim.” Archie had returned, standing beside her awkwardly. It was nothing she had not seen before, yet it still continued to sting like smoke in her eyes. He bristled beside her, but did not speak to either condone or castigate. But he was a shield, giving her the legitimacy to dig deeper for clues about the beast and Por Por’s disappearance. Until then, she was stuck with him."
+
+**中文理解**："走吧，Kim 小姐。"Archie 回来了，别扭地站在她旁边。这些场面她不是没见过，可还是像烟熏眼睛一样刺人。他在她身边绷着，既没附和也没斥责。可他能当她的挡箭牌，给她查那怪物和祖母下落的正当名义；在那之前，她只能跟他绑在一起。
+
+**关键词**：Come away, Miss Kim / sting like smoke / stuck with him
+
+**为什么这样写**：结尾不许他当好人：他不说话，只绷着；她的结论也不是感激，是"stuck with him"——将就与需要各占一半。烟熏眼睛的比喻把羞辱写成生理反应，比愤怒更难擦掉。
+
+**读者视角提示**：注意"shield"这个自我定位：她要的是他的身份，不是他的良心。这段关系后面一直建立在这个不对称上。
 
 ## 本章词汇
 
@@ -112,7 +122,7 @@ modified: "2026-10-22"
 | 词/短语 | 释义 | 例句 |
 | --- | --- | --- |
 | furtively | 鬼鬼祟祟地、偷偷地 | "Her mind schemed as she glanced behind her furtively." |
-| berate | 痛骂、训斥 | "A British officer was berating the workers" |
+| snoop | 打探、窥探 | "Archie would provide excellent cover for her to snoop around Government House." |
 | mangle | 把（名字、词）念得面目全非 | "how he had mangled her name" |
 | bristle | （因愤怒或戒备）竖起、绷紧 | "He bristled beside her" |
 | cower | 畏缩、蜷缩 | "The labourers cowered." |
