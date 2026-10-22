@@ -140,15 +140,35 @@ source_text: ch61
 
 **读者视角提示**：狗让路了，但并不服气。
 
-> **原句 13:** On Scrooge went past number twelve and number fourteen on Brightwell Road, the numbers increasing all the while as he approached the final building. He saw that it too lay in darkness. No sounds came from it, nor were there any signs of life. Scrooge even wondered if all was yet well – Mrs Fell and Captain Ambrose safe and sound asleep within – and that he had been brought here for no good reason. Yet he knew better than to doubt their wisdom. As he came closer to the door of number 25, he heard again the bark of the dog, a thing that sounded now too close to laughter.
+> **原句 13:** On Scrooge went past number twelve and number fourteen on Brightwell Road, the numbers increasing all the while as he approached the final building. He saw that it too lay in darkness. No sounds came from it, nor were there any signs of life. Scrooge even wondered if all was yet well – Mrs Fell and Captain Ambrose safe and sound asleep within – and that he had been brought here for no good reason.
 
-**中文理解**：Scrooge 走过了 Brightwell Road 上的 12 号与 14 号，门牌数一路递增，他越接近最后那栋房子。他看见那栋房子同样漆黑。其中没有声响传出，也没有任何活着的迹象。Scrooge 甚至想，也许一切还好——Fell 太太与 Ambrose 上尉正安安全全地睡在里面——他被带到此地其实毫无缘由。然而他比谁都清楚，不该质疑他们的智慧。就在他走近 25 号的门前时他又听见了那狗叫声，这声音此刻听起来太像笑了。他停下脚步，转过身，看见那畜生仍守在街口尽头，站立的样子有点像一名哨兵。有那么一瞬，人与兽彼此对望，随后 Scrooge 转回身朝向那栋房子——迎面撞上——
+**中文理解**：斯克罗吉走过布赖特韦尔路上的 12 号与 14 号，门牌数一路递增，越接近最后那栋房子。他看见那栋房子同样漆黑，其中没有声响传出，也没有任何活着的迹象。他甚至想，也许一切还好——费尔太太与安布罗斯上尉正安安全全地睡在里面——他被带到此地其实毫无缘由。（其余叙述略）
 
-**关键词**：past number twelve and number fourteen on Brightwell Road / it too lay in darkness / he knew better than to doubt their wisdom / too close to laughter / something of the sentry in how he stood
+**关键词**：past number twelve and number fourteen on Brightwell Road / it too lay in darkness / No sounds came from it, nor were there any signs of life / that he had been brought here for no good reason
 
-**为什么这样写**：作者让读者和 Scrooge 一起产生「也许白跑一趟」的松一口气，再由「不该质疑他们的智慧」把这份侥幸压回去。狗叫声太像笑，守街的姿态像哨兵，威胁于是从野兽升级为有组织的阻拦。最后一句以破折号戛然而止，把正面对峙整个悬置到下一章。
+**为什么这样写**：作者让读者和斯克罗吉一起产生「也许白跑一趟」的松一口气；门牌数一路递增把节奏拉长，而「没有声响、没有活着的迹象」又把这份侥幸直接抵消——他其实已经站在那扇门前了。
 
-**读者视角提示**：狗的笑声与哨兵般的站姿，接着就是那个破折号。
+**读者视角提示**：他松了一口气，而房子不作声。
+
+> **原句 14:** Yet he knew better than to doubt their wisdom. As he came closer to the door of number 25, he heard again the bark of the dog, a thing that sounded now too close to laughter.
+
+**中文理解**：然而他比谁都清楚，不该质疑他们的智慧。就在他走近 25 号的门前时，他又听见了那狗叫声，这声音此刻听起来太像笑了。（其余叙述略）
+
+**关键词**：he knew better than to doubt their wisdom / As he came closer to the door of number 25 / he heard again the bark of the dog / a thing that sounded now too close to laughter
+
+**为什么这样写**：「不该质疑他们的智慧」把侥幸压回去：是他该信他们，不是他们该信他。而狗叫声「太像笑了」——超自然第一次露出近乎滑稽的一面，恐惧与嘲讽开始重叠。
+
+**读者视角提示**：狗叫声太像笑——恐惧与嘲讽重叠的一刻。
+
+> **原句 15:** He stopped, turned, and saw behind him the animal still waiting at the head of the street, something of the sentry in how he stood. For an instant they watched either, man and beast, then Scrooge turned back towards the house, only to be confronted by—
+
+**中文理解**：他停下脚步，转过身，看见那畜生仍守在街口尽头，站立的样子有点像一名哨兵。有那么一瞬，人与兽彼此对望，随后 Scrooge 转回身朝向那栋房子——迎面撞上——
+
+**关键词**：something of the sentry in how he stood / they watched either, man and beast / only to be confronted by—
+
+**为什么这样写**：作者用「哨兵」一词把野兽升级为有组织的守卫，又让人与兽「对望」一秒——这一秒是全书 Scrooge 与敌方力量唯一一次平等对视。最后一句以破折号戛然而止，把正面对峙整个悬置到下一章。
+
+**读者视角提示**：人与兽对视一瞬，接着就是那个破折号。
 
 ## 本章词汇
 
@@ -183,14 +203,3 @@ source_text: ch61
 
 Scrooge 离开海滩向镇子走去，夜仍寒冷，但「the wind was a little less biting」；月亮从云后出来，把场景照成「a stark and somehow rather pitiless light」，他走近镇郊时开始下「the first snowfall of the year」，街道却「silent and deserted」，杂货铺、肉铺、客栈「all were closed and shuttered」，教堂漆黑；他怀疑方才听见的唱诗班是否错觉，还是「some lingering effect from his immersion into the past」；依「not to make any assumptions before the accumulation of all the information」的处世原则，他靠 Fell 太太的详尽描述独自摸到 Brightwell Road，作者还补一句「I should not expend any great degree of energy in the contradiction of that belief」；路尽头，一个「dark, sleek shape」从阴影里移出——是此前见过的那条狗，「without the slightest indication of fear」挡住去路，「Its flanks glistened with snow」并龇牙；Scrooge 说「if a bullet cannot stop me, then a dog has poor odds indeed of doing so」，又低头验出「firm pawprints」，随即一阵战栗——「like the beast in the graveyard, it was capable of doing him harm」；他以主之名命它退让，又加上「I am here in service of the light」，狗于是退到一边「with coiled fury in its posture」，他走过时它「whined once, a high sound of angry frustration」；他走过 12 号、14 号，尽头那栋也是漆黑无声，他一度以为 Fell 太太与上尉安睡其中；但走近 25 号时狗又叫了，「a thing that sounded now too close to laughter」，他回头见那畜生仍守在街口，「something of the sentry in how he stood」，人与兽对视一瞬，他转回屋子——迎面撞上——
 
----
-
-> **原句 14:** He stopped, turned, and saw behind him the animal still waiting at the head of the street, something of the sentry in how he stood. For an instant they watched either, man and beast, then Scrooge turned back towards the house, only to be confronted by—
-
-**中文理解**：他停下脚步，转过身，看见那畜生仍守在街口尽头，站立的样子有点像一名哨兵。有那么一瞬，人与兽彼此对望，随后 Scrooge 转回身朝向那栋房子——迎面撞上——
-
-**关键词**：something of the sentry in how he stood / they watched either, man and beast / only to be confronted by—
-
-**为什么这样写**：作者用「哨兵」一词把野兽升级为有组织的守卫，又让人与兽「对望」一秒——这一秒是全书 Scrooge 与敌方力量唯一一次平等对视。最后一句以破折号戛然而止，把正面对峙整个悬置到下一章。
-
-**读者视角提示**：人与兽对视一瞬，接着就是那个破折号。

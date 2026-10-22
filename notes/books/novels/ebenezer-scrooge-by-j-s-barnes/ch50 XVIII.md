@@ -129,27 +129,17 @@ source_text: ch50
 
 **读者视角提示**：神父的驱魔即将被证伪。
 
-> **原句 12:** The priest gave a small, dry smile at this suggestion. “Not, I fear, in this instance. Although I sprinkled holy water in every room and bade whatever presences were there to leave, I felt that it did no good at all.
+> **原句 12:** The priest gave a small, dry smile at this suggestion. “Not, I fear, in this instance. Although I sprinkled holy water in every room and bade whatever presences were there to leave, I felt that it did no good at all. … In fact, what I encountered in that house I’m not sure I’ve ever felt before, at least not to so great a degree of intensity.” “And what was that?” asked the soldier.
 
-**中文理解**：神父对这话露出一个干巴巴的小笑。「恐怕这次不行。虽然我在每个房间都洒了圣水，也命令那里的一切存在离开，但我感觉一点用也没有。」
+**中文理解**：神父对这话露出一个干巴巴的小笑。「恐怕这次不行。虽然我在每个房间都洒了圣水，也命令那里的一切存在离开，但我感觉一点用也没有。」「事实上，我在那栋房子里遇到的东西，我不确定自己以前是否遇到过，至少没有遇到过这么强的强度。」「那是什么？」士兵问。
 
-**关键词**：The priest gave a small, dry smile / Not, I fear, in this instance / I sprinkled holy water in every room / bade whatever presences were there to leave / I felt that it did no good at all
+**关键词**：The priest gave a small, dry smile / I felt that it did no good at all / at least not to so great a degree of intensity / And what was that? asked the soldier
 
-**为什么这样写**：「Not, I fear, in this instance」用"这一次"把失败局部化，神父并没有否证自己全部的职分——他只是承认这次例外。而「whatever presences were there」的复数与不具体化，正是本书对恶意的处理方式：它不讲名字，只讲数量与密度。
+**为什么这样写**：「Not, I fear, in this instance」用「这一次」把失败局部化，神父并没有否证自己全部的职分——他只是承认这次例外。而「whatever presences were there」的复数与不具体化，正是本书对恶意的处理方式：它不讲名字，只讲数量与密度。神父把强度作为唯一坐标——他不说可怕，只说强度；上尉的问句「那是什么」只问性质不问强弱，这正是他与神父的分野：他在分类，对方在计量。
 
-**读者视角提示**：驱魔失败，而神父用"这次"来自保。
+**读者视角提示**：驱魔失败，神父只谈强度；而上尉问的是性质。
 
-> **原句 13:** In fact, what I encountered in that house I’m not sure I’ve ever felt before, at least not to so great a degree of intensity.” “And what was that?” asked the soldier.
-
-**中文理解**：「事实上，我在那栋房子里遇到的东西，我不确定自己以前是否遇到过，至少没有遇到过这么强的强度。」「那是什么？」士兵问。
-
-**关键词**：In fact, what I encountered in that house / I’m not sure I’ve ever felt before / at least not to so great a degree of intensity / And what was that? asked the soldier
-
-**为什么这样写**：神父把强度作为唯一坐标——他不说可怕，只说强度。而上尉的问句"那是什么"只问性质不问强弱，这正是他与神父的分野：他在分类，对方在计量。
-
-**读者视角提示**：神父讲的是强度，上尉问的是性质。
-
-> **原句 14:** “Pure and concentrated enmity. Solid. Like a wall somehow pushing back against you.” The captain only nodded at this, as if he had half-expected to hear such a set of sentences. “Perhaps you did more good in that house than you think, Reverend. For I have felt nothing so serious as you describe.”
+> **原句 13:** “Pure and concentrated enmity. Solid. Like a wall somehow pushing back against you.” The captain only nodded at this, as if he had half-expected to hear such a set of sentences. “Perhaps you did more good in that house than you think, Reverend. For I have felt nothing so serious as you describe.”
 
 **中文理解**：「纯粹而集中的敌意。凝实的。像一道墙，在把你往后推。」上尉只是点了点头，仿佛他早就料到自己会听到这样一番话。「神父，也许您在那栋房子里做的事，比您自己以为的更有用。因为我感到的东西，没有一样严重到您说的这个程度。」
 
@@ -159,15 +149,25 @@ source_text: ch50
 
 **读者视角提示**：这里的恶没有面目，只有重量。
 
-> **原句 15:** “Aye, perhaps. Or perhaps that place has been sleeping awhile. Perhaps that’s what it is.” The captain found himself growing rather irritated with the man by now, with all these murmured hints and warnings. “Well, it’s been most informative, but I fear I must return to the side of the lady.” “Of course,” murmured the priest, “of course.” And without even saying so much as goodbye, he turned and went back into the vestry, where he was soon lost to the shadows. Ambrose, a little surprised by the curtness of this departure, only turned himself and hurried back towards Brightwell Road, where, even now, Mrs Fell was standing at the foot of the staircase and listening, with rising fear, to the sound of impossible tears.
+> **原句 14:** “Aye, perhaps. Or perhaps that place has been sleeping awhile. Perhaps that’s what it is.” The captain found himself growing rather irritated with the man by now, with all these murmured hints and warnings. “Well, it’s been most informative, but I fear I must return to the side of the lady.”
 
-**中文理解**：「也许吧。也可能那地方睡了一阵子。也许就是这样。」上尉这时已有些烦躁，被这些絮絮叨叨的暗示与警告弄得不耐烦。「这些信息很有用，不过我恐怕得回到那位女士身边去了。」；「当然，」神父低声说，「当然。」连一句道别也没说，他就转身回到教区储物间里，很快消失在阴影中。上尉对这样突兀的告别有些惊讶，只是转身赶回 Brightwell Road——就在此刻，Fell 太太正站在楼梯脚下，带着越来越深的恐惧，聆听那不可能存在的哭声。
+**中文理解**：「也许吧。也可能那地方睡了一阵子。也许就是这样。」上尉这时已有些不耐烦，被这些絮絮叨叨的暗示与警告弄得不耐烦。「这些信息很有用，不过我恐怕得回到那位女士身边去了。」（其余叙述略）
 
-**关键词**：“Aye, perhaps / Or perhaps that place has been sleeping awhile / Perhaps that's what it is / growing rather irritated with the man by now / with all these murmured hints and warnings / it’s been most informative, but I fear I must return to the side of the lady；“Of course,” murmured the priest / without even saying so much as goodbye / lost to the shadows / a little surprised by the curtness of this departure / hurried back towards Brightwell Road / standing at the foot of the staircase / listening, with rising fear, to the sound of impossible tears
+**关键词**：Or perhaps that place has been sleeping awhile / growing rather irritated with the man by now / with all these murmured hints and warnings / most informative, but I fear I must return to the side of the lady
 
-**为什么这样写**：「Or perhaps that place has been sleeping awhile」是神父最乐观也最无力的猜测；作者把这句与上尉的"irritated"并置，读者清楚：那个东西没有睡，它醒着——而唯一可能知道此事的人此刻正被忽视。；末句以「impossible tears（不可能的哭声）」作结，把上一章的婴啼重新定性为"不可能"——然而作者不解释它不可能在何处：孩子尚未出生（第 9 章），所以这哭声既不属于活人也不属于亡者，只能属于尚未之人。而神父的不告而别，让上尉连追问的机会都没有。
+**为什么这样写**：「那地方睡了一阵子」是神父最乐观也最无力的猜测；作者把这句与上尉的「irritated」并置，读者立刻明白：那个东西没有睡，它醒着——而唯一可能知道此事的人此刻正被当作絮叨打发掉。
 
-**读者视角提示**："它睡了一会儿"——恰恰相反，它醒着。；婴啼是"不可能"的——因为孩子还没出生。
+**读者视角提示**：「它睡了一会儿」——恰恰相反，它醒着。
+
+> **原句 15:** “Of course,” murmured the priest, “of course.” And without even saying so much as goodbye, he turned and went back into the vestry, where he was soon lost to the shadows. Ambrose, a little surprised by the curtness of this departure, only turned himself and hurried back towards Brightwell Road, where, even now, Mrs Fell was standing at the foot of the staircase and listening, with rising fear, to the sound of impossible tears.
+
+**中文理解**：「当然，」神父低声说，「当然。」连一句道别也没说，他就转身回到教区储物间，很快消失在阴影中。上尉对这样突兀的告别有些惊讶，只是转身赶回布赖特韦尔路——就在此刻，费尔太太正站在楼梯脚下，带着越来越深的恐惧，聆听那不可能存在的哭声。（其余叙述略）
+
+**关键词**：without even saying so much as goodbye / lost to the shadows / a little surprised by the curtness of this departure / hurried back towards Brightwell Road / listening, with rising fear, to the sound of impossible tears
+
+**为什么这样写**：神父的不告而别，让上尉连追问的机会都没有；末句以「impossible tears」作结，把上一章的婴啼重新定性为「不可能」——而作者不解释它不可能在何处：孩子尚未出生（第 9 章），这哭声既不属于活人也不属于亡者，只能属于尚未之人。
+
+**读者视角提示**：婴啼是「不可能」的——因为孩子还没出生。
 
 ## 本章词汇
 
