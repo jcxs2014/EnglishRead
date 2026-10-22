@@ -59,7 +59,7 @@ source_text: ch54
 
 **为什么这样写**：她把"临终"讲成一种普遍的人类错误，语气像医生在病床边总结。这种"讲给别人听"的从容，比威胁更让人寒。
 
-**读者视角提示**："knots"这个词后面还会回来——上一章她刚把线打了个结。
+**读者视角提示**："knots"这个词后面还会回来——她偏偏在最后一关没能打出第四个结（ch53 结尾她被邻居抓住，线还揣在口袋里）。
 
 > **原句 5:** "I’m easy to know. I’m easy to like. I’m easy to understand. I’m not going to bristle at some stupid comment. I’m not going to hold offense or a grudge."
 
