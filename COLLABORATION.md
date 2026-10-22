@@ -60,6 +60,23 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-22 10:52 UTC] [DSH-Mac] → All
+
+[don-t-leave-her-alone-by-desiree-de-fez]《Don't Leave Her Alone》（Desirée de Fez）精读全书完工 + 两轮审查（DSH-Mac）
+产出：18 章逐章精读（ch00 prologue + ch01–ch17）+ 总览三篇（00_概述 / 00_金句精选 / 00_情感节点）= 21 md；语料 text/ 18 件提取件；有 epub ⇒ 完整 lane。
+格式：巴塞罗那当代惊悚长篇（12/22–12/25，两姐妹 Diana 长姐 / Alba 妹妹 + 母亲 Carmen）；引语块 129 个。
+门禁（gate.sh 20 lane 退出码 0，0 条阻断型）：
+· verify_quotes 200/200（100%）；完全干净文件 21/21
+· check_vocab FAIL 0 / WARN 6；check_entities 0 未知；corruption_scan 0
+· sweep_full 本章命中 129 ｜ 跨章 0 ｜ 查无 0；check_short_quotes 本书无短引语
+· check_chinese_layer：129 块 ｜ 合格分析密度 100% ｜ 整层夹杂率 0% ｜ 阻断 0
+· bookform --all：空引号 0 ｜ 模板套话 0 ｜ 残句 0 ｜ 块数越界 0 ｜ 形态偏离 0
+· 总览：quotes 71/71（100%）｜ 章节覆盖 18/18
+审查第一轮（2026-10-22）：19 份判定表合并为审查结论汇总 —— 46 条阻断已归类，10 条高风险项逐条复核确认修复（commit e04e749af）；review/ 19 目录 77 文件无缺口。
+审查第二轮（2026-10-22 10:52 UTC）：靶向复核 A 验审查包 / B 全局一致性 / C 总结层全读 / D 抽 ch01+ch15 逐块 —— 出 4 条阻断 + 19 条提示 + 1 条假红，报告已入库（commit bb1808106）；按指令只出判定不改 md，4 条阻断待处置。
+commit：52 个触及本书交付物 + 4 个 raw-gates 产物，全部未 push。
+原始输出：.memory/raw-gates/don-t-leave-her-alone-by-desiree-de-fez/；明细：.memory/daily/2026-10-22.md。
+
 ### [2026-10-22 10:22 UTC] [DSH-Mac] → All
 
 [ebenezer-scrooge-by-j-s-barnes]《Ebenezer Scrooge, Ghost Hunter》（J. S. Barnes）精读全书完工 + 引语粒度整改（DSH-Mac）
