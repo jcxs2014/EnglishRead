@@ -1,0 +1,86 @@
+{
+ "chapter": 7,
+ "source": "text/ch07_chapter_six.txt",
+ "facts": [
+  {
+   "fact": "她从礁石上被一双手拖起来；雾里以为看见 Helen 在岸边挥手，也可能她根本没在",
+   "span": [
+    34,
+    81
+   ],
+   "anchor": "I feel arms hauling me up from the slick rocks."
+  },
+  {
+   "fact": "她在陌生的床上醒来，左髋有伤，伤口上涂着药膏——那人趁她睡着时替她上过药",
+   "span": [
+    1894,
+    1961
+   ],
+   "anchor": "The man has been tending to me, touching my bare hip while I slept."
+  },
+  {
+   "fact": "他说「That hip needs to heal」「Nae where yer supposed to be」",
+   "span": [
+    3567,
+    3596
+   ],
+   "anchor": "Nae where yer supposed to be."
+  },
+  {
+   "fact": "她认出他：记忆里三十五六岁，如今该五十多，却一点没变",
+   "span": [
+    4893,
+    4914
+   ],
+   "anchor": "He hasn’t aged a day."
+  },
+  {
+   "fact": "她问有没有船，他说几年前一场大风里丢了",
+   "span": [
+    5279,
+    5316
+   ],
+   "anchor": "Lost it to a bad gale some years ago."
+  },
+  {
+   "fact": "他趁她睡着取走了她脖子上的挂坠；他说当年有个小女孩偷了它，那女孩「才一年前来过」",
+   "span": [
+    8136,
+    8170
+   ],
+   "anchor": "The girl was here only a year ago."
+  },
+  {
+   "fact": "她答「It was twenty years ago.」；他自报 Clay，她说「I know.」",
+   "span": [
+    8258,
+    8282
+   ],
+   "anchor": "It was twenty years ago."
+  },
+  {
+   "fact": "他把她从岸边带上来已经两天",
+   "span": [
+    13362,
+    13413
+   ],
+   "anchor": "Been two days since I brought ye up from the shore."
+  },
+  {
+   "fact": "客厅壁炉上的木钟停着，指针停在 11:42",
+   "span": [
+    14714,
+    14729
+   ],
+   "anchor": "It reads 11:42."
+  },
+  {
+   "fact": "他给她的干净衣服是他亡妻的",
+   "span": [
+    17643,
+    17678
+   ],
+   "anchor": "These clothes belonged to his wife."
+  }
+ ]
+}

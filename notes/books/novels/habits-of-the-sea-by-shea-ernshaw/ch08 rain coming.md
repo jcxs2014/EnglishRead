@@ -66,7 +66,7 @@ source_text: ch08
 
 > **原句 5:** "I listen to his footsteps cross the floor below me, the soft unnamable sound of him pulling off his boots, undressing in the living room while I occupy his bedroom, and then the subtle depression of couch springs, before everything falls quiet. The farmhouse is old, small, no spare bedroom."
 
-**中文理解**：我听着他的脚步从楼下走过，是脱靴子、脱衣服那种叫不出名字的轻响——他在客厅里换衣服，而我占着他的卧室；接着是沙发弹簧轻轻陷下去的声音，然后一切安静下来。这 farmhouse 又旧又小，没有多余的卧室。
+**中文理解**：我听着他的脚步从楼下走过，是脱靴子、脱衣服那种叫不出名字的轻响——他在客厅里换衣服，而我占着他的卧室；接着是沙发弹簧轻轻陷下去的声音，然后一切安静下来。这栋农舍又旧又小，没有多余的卧室。
 
 **关键词**：the soft unnamable sound / the subtle depression of couch springs / no spare bedroom
 
@@ -124,7 +124,7 @@ source_text: ch08
 
 ---
 
-> **原句 10:** "I’ve always kept some part of myself locked up—even with James. Held captive by the past. Maybe there’s something wrong with me, maybe I’m incapable of this kind of carefree, delirious, fever-filled love."
+> **原句 10:** "I’ve always kept some part of myself locked up—even with James. Held captive by the past. Maybe there’s something wrong with me, maybe I’m incapable of this kind of carefree, delirious, fever-filled love. A defect in my worthless, malnourished heart."
 
 **中文理解**：我总是把自己的一部分锁起来，连对 James 也是这样——被过去押着。也许我身上有什么毛病，也许我压根做不到那种无忧无虑、发了疯似的、带着高烧的爱。我这颗又瘪又缺的心，缺陷就在这里。
 

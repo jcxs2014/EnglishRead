@@ -12,7 +12,7 @@ source_text: ch06
 - **情感弧线位置**：本章把上一章"决定回去"之后的三个阶段一次走完——寻觅、放弃、重燃，弧线形状是"孤独—诱惑—拒绝—孤注一掷"。在这条追岛线里它是最深的一段：出门前她已经付掉了代价（整周的工作、婚约、自己那套说辞的可信度），而回报直到最后一页才来，只来得及让她受伤。
 - **Tropes 兑现/反转**：兑现"目击者结盟"与"猎巫"两枚 trope——Helen 要的是节目，Ellie 要的是答案，两人在小酒馆里各要各的，谁也没得到。反转有两处：其一，记者没有成为她的救世主，最后横在她与岛之间的是她自己的身体；其二，言情小说里通常由男人完成的海中营救在这里被取消了——Helen 举着麦克风站在坡上，她在海里游。
 - **人物弧线**：Ellie 这一章走了四步：把一切准备妥当（取消预约、编好对客户的说法）、带着唯一的实证（那枚挂坠）上路、在没人能作证的地方独自走了一天、在 Helen 面前只肯说一句"我不记得"，却又补上一句"他当时三十多岁"。真正推动她的是那点海面上的反光，推动她游过去的不是证据，是那句"我需要把这个故事讲完"。
-- **叙事手法**：第一人称现在时为主，夹少量过去完成式回闪（Helen 从前叫她埃利诺）与整段插入的往昔（当年警方的笔录、当地报纸的旧闻）；对话体与独白体交替，Helen 每问一句，就逼出一句"我"字打头的判断句。全章用未完成时制造虚假的安全感（我会嫁给 James，我们会买房、养狗、聊孩子），最后用三个动作把这套将来时撕碎：扯掉、转身、走出去。
+- **叙事手法**：第一人称现在时为主，夹少量过去完成式回闪（Helen 从前叫她 Eleanor）与整段插入的往昔（当年警方的笔录、当地报纸的旧闻）；对话体与独白体交替，Helen 每问一句，就逼出一句"我"字打头的判断句。全章用未完成时制造虚假的安全感（我会嫁给 James，我们会买房、养狗、聊孩子），最后用三个动作把这套将来时撕碎：扯掉、转身、走出去。
 
 ## 精读
 
@@ -114,7 +114,7 @@ source_text: ch06
 
 > **原句 9:** "Now I’m seated beside Helen Ashcroft, the podcast journalist who phoned me back in Seattle and cracked apart the boundary I’d carefully laid out for myself. She’d called me Eleanor then, but she’s since learned the shortened name I’ve gone by most of my life. Has she known I’ve been in this hotel the whole time?"
 
-**中文理解**：现在我就坐在 Helen·阿什克罗夫特身边——那个在西雅图给我打电话、把我精心划好的边界敲开的播客记者。那时候她叫我埃利诺，可她后来已经学会了叫我这辈子用得最多的那个短名。她是不是从我一进这家酒店起就知道？一直跟着我，等一个最好的时机开口。
+**中文理解**：现在我就坐在 Helen Ashcroft 身边——那个在西雅图给我打电话、把我精心划好的边界敲开的播客记者。那时候她叫我 Eleanor，可她后来已经学会了叫我这辈子用得最多的那个短名。她是不是从我一进这家酒店起就知道？一直跟着我，等一个最好的时机开口。
 
 **关键词**：Now I’m seated beside Helen Ashcroft / cracked apart the boundary / She’d called me Eleanor then / the shortened name
 
