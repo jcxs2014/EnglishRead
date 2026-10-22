@@ -1,0 +1,169 @@
+{
+ "book": "homesick-by-rhiannon-grist",
+ "chapter": "ch46",
+ "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch46_chapter_46.txt",
+ "facts": [
+  {
+   "fact": "她抹掉脸上的灰、靠墙缓了一下，过了一会儿才意识到自己在哪儿",
+   "anchor": "It took me a moment to realise where I was.",
+   "start": 111,
+   "end": 154
+  },
+  {
+   "fact": "她注意到倾斜的天花板和开在天花板上的窗，头一阵发晕——她在邻居的卧室里，在楼上",
+   "anchor": "Then I noticed the slanting ceiling and the window set into it. My head spun. I was in her bedroom. Upstairs.",
+   "start": 207,
+   "end": 320
+  },
+  {
+   "fact": "不知怎么的，她从我家的地下室，到了 1a 的一楼",
+   "anchor": "Somehow, I had got from my basement to the first floor of 1a.",
+   "start": 385,
+   "end": 446
+  },
+  {
+   "fact": "这房间装饰得极其讲究",
+   "anchor": "It was lusciously decorated.",
+   "start": 637,
+   "end": 665
+  },
+  {
+   "fact": "缀着小金星的透明窗帘罩着一张铺了好几层华贵织物的床：深酒红缎面床单上压着厚羽绒被，一条手感厚实的雪尼尔盖毯，床尾随意搭着一块奶油色毛皮",
+   "anchor": "Sheer curtains dotted with little golden stars enveloped a bed layered in sumptuous fabrics; a thick feather duvet in deep burgundy sateen sheets, a tactile chenille throw, and a creamy fur tossed casually over the bottom.",
+   "start": 666,
+   "end": 888
+  },
+  {
+   "fact": "一打枕头堆在一只贝壳形状的软包床头板周围",
+   "anchor": "A dozen pillows were piled around a padded headboard shaped like a shell.",
+   "start": 889,
+   "end": 962
+  },
+  {
+   "fact": "一串暖色小灯在床周围照出一圈柔和的光晕",
+   "anchor": "A string of warm fairy lights lit the bed with a gentle halo.",
+   "start": 963,
+   "end": 1024
+  },
+  {
+   "fact": "门把上搭着一条带香味的围巾，还带着体温，把空气熏成浓郁的花香——就是她昨天系在邻居门把手上的那条格子围巾",
+   "anchor": "Draped over the door, a perfumed scarf—still body-warm—scented the air with a heady, floral aroma. It was the same tartan scarf I’d tied onto her door handle yesterday.",
+   "start": 1288,
+   "end": 1456
+  },
+  {
+   "fact": "邻居最近来过；也许她能找到更多关于她的东西：一条线索、一个弱点、一个让她停下来的钥匙",
+   "anchor": "My neighbour had been here recently. Maybe I could find out more about her, a clue, a weakness, a key to making her stop.",
+   "start": 1459,
+   "end": 1580
+  },
+  {
+   "fact": "她沿着墙边挪，什么都不想碰，小心跨过一张干净的羊皮地毯——那张看上去比她自己那张软得多",
+   "anchor": "I edged along the wall, not wanting to touch anything, being careful to step over a pristine sheepskin rug—which somehow looked much softer than mine.",
+   "start": 1583,
+   "end": 1733
+  },
+  {
+   "fact": "她在床罩下看见一对银色蕾丝内裤和相配的胸罩；香水底下还有另一种气味，温热身体、汗和头发的气味，浓郁、动物性——她脸上发烫，对自己说：\"专心办事。\"",
+   "anchor": "I felt the heat rise in my cheeks. Stay on task, I told myself.",
+   "start": 2291,
+   "end": 2356
+  },
+  {
+   "fact": "窗外世界不见了，像玻璃被黑色亮漆刷过",
+   "anchor": "The world outside was gone. It was as if the panes had been painted over with black gloss.",
+   "start": 2567,
+   "end": 2657
+  },
+  {
+   "fact": "是土：深色、压实的泥土，紧贴在玻璃上",
+   "anchor": "Soil. Dark, packed earth pressed up against the glass.",
+   "start": 2827,
+   "end": 2883
+  },
+  {
+   "fact": "她在底下，可她是从上到顶层出来的——这说不通：\"我怎么会在山里面？\"",
+   "anchor": "I was underground. But I’d come out on the top floor. That didn’t make sense. How was I inside the hill?",
+   "start": 2916,
+   "end": 3020
+  },
+  {
+   "fact": "空心山，仙山",
+   "anchor": "Hollow hill. Fairy hill.",
+   "start": 3023,
+   "end": 3047
+  },
+  {
+   "fact": "\"天哪！我是被活埋了，这就是我的棺材。\"六尺之下，独自在黑暗中，永远与所有人所有事隔绝——她开始过度换气",
+   "anchor": "Oh God! I was being buried alive and this was my coffin. Six feet under, alone in the dark, cut off from everyone and everything forever. I started to hyperventilate.",
+   "start": 3187,
+   "end": 3353
+  },
+  {
+   "fact": "她心里喊：\"这房子到底是什么鬼东西？\"",
+   "anchor": "What the hell is this house?",
+   "start": 3356,
+   "end": 3384
+  },
+  {
+   "fact": "身后传来一个声音：\"这房子怎么了？\"",
+   "anchor": "A voice came from behind me. “What about the house?”",
+   "start": 3387,
+   "end": 3441
+  },
+  {
+   "fact": "是 Fergus，低头看她，不眨眼，咧嘴笑，像大灰狼",
+   "anchor": "It was Fergus, looking down at me, unblinking, grinning, like the Big Bad Wolf.",
+   "start": 3489,
+   "end": 3568
+  },
+  {
+   "fact": "他站在五金杂货店的柜台后面；她四下一看，自己又站在货架之间了",
+   "anchor": "He was standing behind the counter at the hardware and supplies shop. I looked around. I was stood in the aisles again.",
+   "start": 3569,
+   "end": 3688
+  },
+  {
+   "fact": "Fergus 说：他真的认识一个住在她那房子里的孩子，那是他最好的朋友；\"但他并不是处变不惊——那部分是我编的。\"",
+   "anchor": "I really did know a kid who lived in your house. He was my best friend. He wasn’t unflappable though. I made that bit up. He had this haunted look about him, always looking over his shoulders, like he was being hunted. Him and his mum.”",
+   "start": 4821,
+   "end": 5057
+  },
+  {
+   "fact": "\"他脸上总带着那种被鬼缠住的神情，不停回头看，像有人在猎他。他和他妈妈都是。\"",
+   "anchor": "He had this haunted look about him, always looking over his shoulders, like he was being hunted.",
+   "start": 4943,
+   "end": 5039
+  },
+  {
+   "fact": "所有人都讨厌那孩子，觉得他妈妈是个势利婊子、他是个坏掉的怪胎；他们逼他跟她走；\"然后我再也没见过他。\"",
+   "anchor": "Everyone hated that kid. They thought his mum was a snooty whore and him a broken weirdo. They made him go with her. And then I never saw him again.",
+   "start": 5703,
+   "end": 5851
+  },
+  {
+   "fact": "Fergus 说：\"只不过那不是你的房子，对吧？\"",
+   "anchor": "Because it’s scary, your house. Only it’s not your house, is it?”",
+   "start": 6581,
+   "end": 6646
+  },
+  {
+   "fact": "他仍不眨眼，眼睛盯着她，笑还是那种大灰狼般饥饿的笑",
+   "anchor": "He still wasn’t blinking. His eyes continued to stare at me, his smile still a Big Bad Wolf-hungry grin.",
+   "start": 6745,
+   "end": 6849
+  },
+  {
+   "fact": "\"你当时想把它按在我手上，对吧？\"他把手放在柜台上，把订书机头压上去",
+   "anchor": "“You wanted to press it to my hand, didn’t you?” He put his hand onto the counter and pushed the head of the stapler against it.",
+   "start": 7416,
+   "end": 7544
+  },
+  {
+   "fact": "他食指平滑地一扣，订书机开火，发出一声又响又湿的\"咔嗒\"",
+   "anchor": "With one smooth, squeeze of his trigger finger he fired the stapler and there was a loud, wet sch-unk.",
+   "start": 7562,
+   "end": 7664
+  }
+ ]
+}
