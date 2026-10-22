@@ -20,75 +20,125 @@ source_text: ch10
 
 ## 精读
 
-> **原句 1:** A little under two hours later, just before nine o’clock, a hansom cab drew up outside a large and well-appointed house in Shepherd’s Gardens, Kensington, some three and three-quarter miles distant from The Club of Decent-Hearted Men. The rain had stopped, but the world still seemed dark, wet and largely unwelcoming. Still, the occupants of the cab – Mr Ebenezer Scrooge and Mrs Louisa Fell – emerged with determination out into the open air. The old man paid the driver (tipping generously as was now his wont), who rattled away in search of his next fare. At their arrival, the door to the town house had been opened and the silhouette of a butler was clearly visible against the kind of very bright, gas-lit illumination which spoke both of great wealth and of a willingness to spend it.
+> **原句 1:** A little under two hours later, just before nine o’clock, a hansom cab drew up outside a large and well-appointed house in Shepherd’s Gardens, Kensington, some three and three-quarter miles distant from The Club of Decent-Hearted Men. … The rain had stopped, but the world still seemed dark, wet and largely unwelcoming. … Mr Ebenezer Scrooge and Mrs Louisa Fell – emerged with determination out into the open air.
 
-**中文理解**：将近两小时后，快到九点，一辆双轮马车停在 Kensington 的 Shepherd's Gardens 一栋宽敞考究的大宅门外，离"正派心人士俱乐部"三又四分之三英里。雨已经停了，可世界看起来仍然黑暗、潮湿、而且大体上不友好。尽管如此，马车里的乘客——Ebenezer Scrooge 先生与 Louisa Fell 太太——还是带着决心走下车来，走进空地里。老人付了车钱（如今他小费给得很大方），车夫颠着车去寻找下一位乘客。他们到达时，宅门已经打开，一个管家的剪影清楚地映在那种极为明亮的煤气灯照明里——那光既说明财富，也说明花钱的意愿。
+**中文理解**：将近两小时后，快到九点，一辆双轮马车停在 Kensington 的 Shepherd's Gardens 一栋宽敞阔气的大宅门前，离"良善之心俱乐部"三又四分之三英里。雨已经停了，可世界看上去仍然黑暗、湿冷、极不友好。尽管如此，马车里的乘客——老埃比尼泽·斯克罗吉与 Louisa Fell 太太——仍带着决心走进夜里。老人付了车钱（如今他给钱大方得很），车夫哐当哐当地跑去找下一位客人。（其余叙述略）
 
-**关键词**：just before nine o'clock（快到九点）/ a hansom cab（双轮马车）/ still seemed dark, wet and largely unwelcoming（仍显得黑暗潮湿而不友好）/ tipping generously as was now his wont（如今小费大方）/ gas-lit illumination（煤气灯照明）
+**关键词**：A little under two hours later / a hansom cab / in Shepherd’s Gardens, Kensington / three and three-quarter miles distant / the world still seemed dark, wet and largely unwelcoming / emerged with determination
 
-**为什么这样写**：开篇三句全是精确的坐标："a little under two hours later, just before nine o'clock"——用两个时间刻度（两小时后／九点差一刻）把整章钉在一段有倒计时的夜路上，也让第八章末尾那句"今晚九点"真正落到纸面。第三句是全章的底色："the world still seemed dark, wet and largely unwelcoming"——雨停了，但世界的态度没变，作者用三个形容词排比（dark, wet, unwelcoming）让"天晴"失效；更狠的是 "largely"（大体上），留了一线余地。紧接着 "emerged with determination"（带着决心下车）用一个词把两人放进这场戏：他们不是被拖去的，是自己走出来的，而此刻还要走进那栋"unwelcoming"的世界。而 Scrooge "tipping generously as was now his wont"里的 "as was now his wont"（如今成了他的习惯）极短却极重：他在变，从前吝啬 now 慷慨，读者能感到这条线。最后的煤气灯光用了一个精巧的同源连缀——"which spoke both of great wealth and of a willingness to spend it"：这光"说明"财富，也"说明"愿意花；一盏灯同时把富与挥霍一起讲完，而为今晚花掉这笔钱的，是那间"不安静"的宅子。
+**为什么这样写**：本章一开篇就用精确的时间与距离把读者钉在地点上：快到九点、三又四分之三英里——这不是闲笔，而是把上一章"我有整整一小时"的倒计时兑现。而"the world still seemed dark, wet and largely unwelcoming"是雨停之后的加倍阴冷：雨停了，天没有亮；紧接着"emerged with determination"用一个副词把两个成年人推入雨夜，那份决心与"largely unwelcoming"构成对抗。"as was now his wont"（如今他才这样做）用一个时间副词把 Scrooge 的旧习与新习缝在一起，读者自然想起那枚一英镑的小费。
 
-**读者视角提示**：三又四分之三英里——车程两个多小时，这是 Scrooge 特意绕远、把 Fell 太太从俱乐部带出来的路程；"正派心人士俱乐部"这个正式名称也请留意，后文它仍是她的退路。
+**读者视角提示**：这一章的舞台从俱乐部换到伦敦西北的私宅——两人离俱乐部三又四分之三英里；注意"如今他才大方"这一变化。
 
-> **原句 2:** Upon the pavement, Scrooge asked the lady: “Are you absolutely certain that you wish to go inside? There would be no shame in returning to the Club and resting.” “As I believe I have made plain, sir, I am eager to meet this man and to understand his connection to my own story.” “Very well.” Having fully expected the answer, Scrooge was already moving towards the door, out of the dark and towards the light. “Have you ever attended a séance before?” “I have not, sir, no.” “And do you believe?” “I cannot say, sir, until I see him for myself. I know that there are other things in the world than just the human and the living… yet that does not mean I am credulous of all claims made by the table-rappers.” “Very wise,” murmured Scrooge as they reached the door together.
+> **原句 2:** the silhouette of a butler was clearly visible against the kind of very bright, gas-lit illumination which spoke both of great wealth and of a willingness to spend it … Are you absolutely certain that you wish to go inside? There would be no shame in returning to the Club and resting. … I am eager to meet this man and to understand his connection to my own story.
 
-**中文理解**：在人行道上，Scrooge 问那位女士："您绝对确定要进去吗？回俱乐部休息并不可耻。""正如我相信已经说明白的那样，先生，我急切地想见这个人，也想弄清他与我自身故事之间的关联。""很好。"Scrooge 显然早料到这个回答，已经朝门口走去，从黑暗走向光明。"您以前参加过降神会吗？""没有，先生，一次也没有。""那么您相信吗？""先生，在我亲眼见过他之前，我说不准。我知道这世上不只有活生生的人……但那并不意味着我会轻信桌子敲击者的一切说辞。""非常明智。"Scrooge 低声说着，与她一同走到门前。
+**中文理解**：他们到达时，宅门已经被打开，一个管家的身影在十分明亮的煤气灯照明下清晰可见——那照明既显示着巨大的财富，也显示着花钱的意愿。在人行道上，Scrooge 问那位女士："您绝对确定要进去吗？回俱乐部休息并不丢脸。""正如我相信已经说清楚的那样，先生，我急切地想见这个人，也想弄明白他与我自身故事之间的关联。"（其余叙述略）
 
-**关键词**：absolutely certain that you wish to go inside（绝对确定要进去）/ no shame in returning（回去并不可耻）/ eager to meet this man（急切地想见这个人）/ out of the dark and towards the light（从黑暗走向光明）/ credulous of all claims made by the table-rappers（轻信桌子敲击者的一切说辞）/ Very wise（非常明智）
+**关键词**：the silhouette of a butler / very bright, gas-lit illumination / spoke both of great wealth and of a willingness to spend it / Are you absolutely certain that you wish to go inside / no shame in returning to the Club / I am eager to meet this man
 
-**为什么这样写**：这是全书最漂亮的一段"同意式对话"：Scrooge 问的所有问题，她都给了否定或悬置的回答，而他每一问都早已料到答案——"Having fully expected the answer"（完全预料到这个回答）让他的每句劝退都变成礼节。第一问的分寸拿捏得极准："There would be no shame in returning to the Club and resting"——不说"你会害怕"，而说"回去不丢人"，把体面放在第一位，这是对一位寡居女士说的话。而她的回答里那个关键词是 "eager"（急切）：她不是被好奇心驱使，是有账要算——"to understand his connection to my own story"（弄清他与我故事的联系），一句话把灵媒拉回案件里。接着作者用 "out of the dark and towards the light"（从黑暗走向光明）把这句俗语写出双重含义：字面是她走进灯火通明的宅子，暗示却是他们正从晦暗处走向一处发光的、未必干净的地方。最见功力的是她那句自我设限："I know that there are other things in the world than just the human and the living… yet that does not mean I am credulous of all claims made by the table-rappers"——用省略号把话分成两半：先承认世上有超出活人的东西，再立刻否认轻信"桌子敲击者"（table-rappers，把灵媒说成骗子职业的行话）；一个既开放又不轻信的头脑，在即将面对伪证时是最可靠的证人。而 Scrooge 只给两个字："Very wise"（非常明智）——既可以是赞赏，也可以是"别急着下结论"。
+**为什么这样写**：作者先写门已经打开——这是全章最有效的一个细节：有人提前等着他们，说明这场降神会本身早就是为 Scrooge 准备的局。而"spoke both of great wealth and of a willingness to spend it"用一个双重"也"把金钱和炫耀欲同时点出——这家主人要的不是灵异的真相，是一场表演。Scrooge 在门口那句退路邀请（"回去并不丢脸"）写得极妙：他没有命令，只是把台阶递过去；而她毫不迟疑的回答"我急切地想见这个人"直接把这变成一场双方都清楚的各取所需。
 
-**读者视角提示**：她那句"我急切地想见这个人"是全章的引擎：她要的不是通灵，是查案。"table-rappers"（敲桌派）这个贬称请记住，它与第八章"the man’s a marvel"（这人是个奇才）形成正面对照。
+**读者视角提示**：管家已在门口等候——今晚的会本就是为 Scrooge 摆的；Fell 太太的目标是"他与我自身故事的关联"。
 
-> **原句 3:** The butler was a big man, stout and strong, and dressed in a tailcoat of palpable expense. “Mr Scrooge, sir,” he said, in a deep and somehow rather actorly voice. “A pleasure to see you again, sir.” “And you, Mr Barwood,” said the old man. “This is Mrs Louisa Fell.” The butler nodded. “You are most welcome, ma’am.” Scrooge asked him: “How fares your father now?” The butler lowered his head. “Not so good, sir, I’m afraid to say. He’s not even sure some days what his own name is, poor devil.” Very discreetly, and without the least hesitation, Scrooge reached into his pocket and passed the servant a sizable note. “Keep him safe, you hear me?” “Of course, sir. Thank you – I shall, sir.” Mr Barwood, it may be presumed by his profession and by the rank that he had achieved in it, was not a fellow accustomed to the overt demonstration of emotion. Nonetheless, as he accepted the Scrooge largesse there was, noticeable only to the observant, a distinct thickening of his voice and a glistening to be spied at the edges of his eyes. “You had better go in now, sir, they’ll be about to start soon. My master, Mr Talbot, is looking forward to seeing you again.”
+> **原句 3:** Having fully expected the answer, Scrooge was already moving towards the door, out of the dark and towards the light. … Have you ever attended a séance before? … I cannot say, sir, until I see him for myself. … I know that there are other things in the world than just the human and the living… yet that does not mean I am credulous of all claims made by the table-rappers. … Very wise,” murmured Scrooge
 
-**中文理解**：那管家是个大块头，结实强壮，穿着一身 昂贵得触手可及的外套。"Scrooge 先生，"他用一种低沉而多少有些做作的嗓音说，"很高兴又见到您，先生。""彼此彼此，Barwood 先生，"老人说，"这位是 Louisa Fell 太太。"管家点头。"非常欢迎您，夫人。"Scrooge 问他："你父亲现在怎么样？"管家低下头。"不太好，先生，怕是要说实话。有几天他连自己的名字是什么都不确定了，可怜的家伙。"Scrooge 极为不动声色地、毫不犹豫地把手伸进口袋，递给仆人一张相当大的钞票。"照看好他，听见了吗？""当然，先生，谢谢您——我会的，先生。"人们大概可以凭他的职业和他在这职业上达到的地位断定，Barwood 先生不是习惯于公开表露情感的人；然而就在他接过 Scrooge 的赏钱时，细致的人会察觉到他的嗓音明显变厚，眼角也有闪动的东西。"您现在最好进去吧，先生，他们很快就要开始了。我的主人 Talbot 先生正盼着再见到您。"
+**中文理解**："很好。"他完全料到了这个答案，Scrooge 已经朝门口走去，从黑暗走向光明。"您参加过降神会吗？""没有，先生，一次也没有。""那么您相信吗？""先生，不亲眼见到他本人我说不上来。我知道这世上并非只有人类与活物……但那并不意味着我会轻信那些拍桌子的家伙的一切说法。""很明智，"Scrooge 低声说，两人一同走到门前。（其余叙述略）
 
-**关键词**：a tailcoat of palpable expense（ 昂贵得触手可及的外套）/ a deep and somehow rather actorly voice（低沉而做作的嗓音）/ not even sure some days what his own name is（连自己的名字都不确定）/ without the least hesitation（毫不犹豫）/ Keep him safe, you hear me?（照看好他，听见了吗）/ a distinct thickening of his voice（嗓音明显变厚）
+**关键词**：Having fully expected the answer / out of the dark and towards the light / Have you ever attended a séance before / I cannot say, sir, until I see him for myself / other things in the world than just the human and the living / credulous of all claims made by the table-rappers / Very wise
 
-**为什么这样写**：这一块是本章唯一的温情，作者把它夹在两场"公事"之间，让它显得像顺手做的一件小事。管家的第一句就带着阶层标记："dressed in a tailcoat of palpable expense"（昂贵到可触可感的外套）——"palpable"（可触知的）把价钱写成了触觉。Scrooge 问的不是管家，而是"你父亲"，一个字"你"就把仆人还原成儿子；管家答"有几天他连自己的名字是什么都不确定了"（he's not even sure some days what his own name is），这是全文最沉的一句家常话：一个人的存在被记忆撤销了。此处作者处理得极为克制——Scrooge 不发表感想，只是"without the least hesitation"（毫不犹豫）地塞钱，然后一句"Keep him safe, you hear me?"（照看好他，听见了吗）：表面是吩咐，底下是托付，"hear me"（听见了吗）带一点近乎恳求的严厉。随后作者用"叙述者补白"承认这件善举的分量："Mr Barwood… was not a fellow accustomed to the overt demonstration of emotion"，可"distinct thickening of his voice and a glistening to be spied at the edges of his eyes"（嗓音变厚、眼角发亮）——作者不说他感动，只说被观察到这两个细节，并特意加一句"noticeable only to the observant"（只有细心的人才察觉得），把读者拉进"会看人"的位置。末句又用"我的主人 Talbot 先生正盼着再见到您"把场面推回主人家，全场立刻被这声"您最好进去"切断。
+**为什么这样写**：这段一问一答是全书 Scrooge 与 Fell 太太关系的缩影：他只抛两个短问句，她每次都给出有分寸的回答。她那句"我知道这世上并非只有人类与活物"是拒绝当轻信者之前的让步——她不否认彼岸，只否认"未经查验的断言"；"table-rappers"（拍桌子的家伙）这个略带轻蔑的俗名，把灵媒这一行从神秘拉回到江湖骗术，而全书后文正是用它来对照 Beck。作者用一个词的评语收尾："Very wise"——既是称赞，也是记录：Scrooge 记下了她的分寸。
 
-**读者视角提示**：Scrooge 会问陌生仆人的父亲身体状况并出手相帮——这与第八章那个"冰冷计算"的 Scrooge 是同一个人吗？请把这块留作判断依据，后面会再出现类似的温度。
+**读者视角提示**：她的立场是"先见人再判断"，不预设立场；她称灵媒为"拍桌子的家伙"，这个轻蔑后面会被证明说对了。
 
-> **原句 4:** Scrooge gave his thanks. He and the lady walked into the rich man’s house, where another servant was waiting to meet them and then another, before the pair were escorted through to a large, well-decorated drawing room. Inside, standing beside a small, circular table, four people were waiting for them, two men and two women. One of these individuals all but charged forward at the sight of Scrooge and his companion. He was another big fellow – corpulent; evidently well-fed – but there was to his bustling manner and bonhomie a clear and somehow faintly unsettling desire to be liked at all costs, reminiscent of the schoolboy whose fellows have left him forever upon the perimeter of their little society. “Mr Scrooge! Ebenezer! I am so glad you were able to come. My goodness, sir, but your message this afternoon, it heartened my soul, it really did! It gave it succour, sir, it gave me food and drink.” At this the old man shook the hand of this personage who was, of course, their host, and introduced him to Louisa as Mr Leopold Talbot, the noted financier and enthusiastic patron of spiritualism. More hurried introductions followed – to Mr Leonard Talbot’s particular friend, a striking woman in her middle years named Mrs Jemima Seabrook; to Mrs Seabrook’s sister (a little older and rather less handsome), Miss Elizabeth Bunn; and to a small, rather nervous man with spectacles and with an accent that spoke of the territories overseas by the name of Mr Roy.
+> **原句 4:** The butler was a big man, stout and strong, and dressed in a tailcoat of palpable expense. … in a deep and somehow rather actorly voice … How fares your father now? … He’s not even sure some days what his own name is, poor devil.
 
-**中文理解**：Scrooge  谢过主人。他与那位女士走进富人的宅子，那里又一个仆人来迎，接着又一个，然后两人被引入一间宽敞而装饰考究的客厅。里面，一张小圆桌旁站着四个人等着他们，两男两女。其中一人一见 Scrooge 和他的同伴，几乎冲上前来。那又是个大块头——肥胖，显然吃得好——可在他那熙熙攘攘的举止与和气之下，有一种清楚而多少令人不适的"不惜一切代价想被人喜欢"的渴望，活像一个被同学们永远落在小圈子边缘的男生。"Scrooge 先生！Ebenezer！您能来真是太好了。天哪，先生，您今天下午那条消息，它振奋了我的心灵，真的是！它给了我慰藉，先生，它给了我食物和饮剂。"老人握了这位的——他们当然是主人——的手，并把他介绍给 Louisa，说这是 Leopold Talbot 先生，那位著名的金融家、热心的灵性主义赞助者。接着是一连串更匆匆的介绍：Talbot 先生的特别友人、中年、美貌惊人的 Seabrook 太太；Seabrook 太太的姐姐（年纪稍长些，也稍欠好看些）Elizabeth Bunn 小姐；还有一位戴眼镜、有些紧张的矮小男子，口音出自信称为海外领地的地方，名叫 Roy 先生。
+**中文理解**：那管家是个大块头，结实强壮，穿着一件昂贵得触手可及的长礼服。"斯克罗吉先生，"他说，声音低沉，带着几分做作的意味。"很高兴又见到您，先生。""你好，Barwood 先生，"老人说，"这位是 Louisa Fell 太太。"管家点头致意。"欢迎您，夫人。"斯克罗吉问他："令尊近来如何？"管家低下头。"不太好，先生，我怕是要这么说了。可怜的老家伙，有些天连自己的名字都认不出了。"（其余叙述略）
 
-**关键词**：all but charged forward（几乎冲上前来）/ a desire to be liked at all costs（不惜一切代价想被喜欢）/ reminiscent of the schoolboy（小圈子边缘的男生）/ it heartened my soul（振奋了我的心灵）/ a noted financier and enthusiastic patron of spiritualism（著名的金融家与灵性主义热心赞助人）/ hurried introductions（一连串匆匆的介绍）
+**关键词**：a big man, stout and strong / a tailcoat of palpable expense / in a deep and somehow rather actorly voice / How fares your father now / not even sure some days what his own name is
 
-**为什么这样写**：作者写 Talbot 的方式极不客气：先写他"几乎冲过来"，再给他的热络配一个冷冰冰的比喻——"reminiscent of the schoolboy whose fellows have left him forever upon the perimeter of their little society"（像那个被同学永远留在小圈子边缘的男生）；这一句把一个成年人钉回成被排斥的孩子，也顺带说明了整晚的处境：这些人是围着 Beck 聚起来的一圈孤独者。"at all costs"（不惜一切代价）更狠，暗示他的热情里藏着恐惧——怕不被需要。而他的台词正是这种恐惧的产物："your message this afternoon, it heartened my soul, it really did! It gave it succour, sir, it gave me food and drink"（你今天下午的消息振奋了我的心灵！给了我慰藉，给了我食物和饮剂）——一个金融家把一条回信说成"食物和饮剂"，把"被记得"说成"被喂养"，可怜到有点滑稽，也危险到有点病态。作者同时用"the noted financier"与"enthusiastic patron of spiritualism"两个头衔点明他的双重身份：他是花钱买灵媒的人，也就是今晚这套把戏的经济基础。介绍其余三人时作者只用两三个词就完成全部刻画：Seabrook 太太"a striking woman in her middle years"、Bunn 小姐"a little older and rather less handsome"、Roy 先生"a small, rather nervous man with spectacles and with an accent that spoke of the territories overseas"——一个配角群，一句话一个性格，被压缩得像名册。
+**为什么这样写**：管家一登场，作者就用"actorly"（做作的）标记他——注意这个"actorly"与后文 Beck 的登场形成呼应：这一夜所有人都在演，包括仆人。而"palpable expense"（一摸就知道价钱）把昂贵写成了触觉，这个旧式夸饰同时建立了两件事：Talbot 家的排场，和 Scrooge 熟门熟路。最后那段关于父亲的描述是本章最锋利的暗线：老人已不认得自己的名字——一个连自己是谁都不知道的人，管家却要替父亲向恩人低头要钱；"poor devil"（可怜的家伙）既同情又是嫌弃。
 
-**读者视角提示**：Talbot 的"it heartened my soul"值得记住：一个把消息当食物的人，最需要的恰恰是被人需要——这是他愿意为灵媒掏钱的真正理由。
+**读者视角提示**：管家 Barwood 是 Talbot 家的总管，他父亲病重痴呆；"做作的嗓音"是作者给这一家人的第一个标签。
 
-> **原句 5:** There was time for only a little more chatter and introductions, and for the working out of how everyone was connected before the hour of nine drew near and the final preparations had to be made. No doubt you have attended séances yourself, so I need not spend too long in the description of these. Suffice it to say that the lights were dimmed in the room (stout Mr Barwood acting now as master of ceremonies) and the group of six was seated around the circular table. Conversation had slowed while these things were achieved and there was a sense of both reverence and excitement – a little like going to church, thought Mrs Fell, at Christmastime. She was seated beside Mr Scrooge upon her left and Mrs Seabrook upon her right. The lady turned her head to face her in the gloom. “Have you ever seen him before,” she asked, “our Mr Beck?” Mrs Fell said that she had not. “Oh?” said Mrs Seabrook. “Oh my goodness, but this will be a treat for you.” Mrs Fell considered this unlikely given the reason for her attendance, but she said only that she was looking forward greatly to seeing that gentleman work. The voice of Mrs Seabrook was filled with something very much like joy. “He sees…” she said, and she sounded almost transported, “my dear, he sees the most wonderful things.”
+> **原句 5:** Very discreetly, and without the least hesitation, Scrooge reached into his pocket and passed the servant a sizable note. … Keep him safe, you hear me? … as he accepted the Scrooge largesse there was, noticeable only to the observant, a distinct thickening of his voice and a glistening to be spied at the edges of his eyes.
 
-**中文理解**：只剩片刻闲聊与介绍的时间，也只够弄清各人之间如何相连，九点将近，最后的准备必须做完。想必诸位也参加过降神会，所以我不必花太多篇幅描述这些。简而言之：屋里的灯被调暗了（ 敦实的 Barwood 先生此时担任司仪），六个人围坐在圆桌旁。完成这些事的时候，谈话慢了下来，人人有种又敬又兴奋的感觉——Fell 太太心想，倒有点像圣诞节去做弥撒。她坐在 Scrooge 左边，右边是 Seabrook 太太。那位女士在昏暗中转过头来面对她。"您以前见过他吗，"她问，"我们那位 Beck ？"Fell 太太说她没有。"哦？"Seabrook 太太说，"哦我的天哪，这对您可是一大享受。"Fell 太太鉴于自己前来的缘由，认为这话不大可能，但她只说自己非常期待看那位先生工作。Seabrook 太太的声音里充满一种近乎喜悦的东西。"他能看见……"她说，听起来几乎被带走了一般，"亲爱的，他能看见最奇妙的东西。"
+**中文理解**：Scrooge 十分隐蔽、毫不犹豫地把手伸进口袋，递给仆人一张数额可观的钞票。"你照看好他，听见了吗？""当然，先生。谢谢您——我会的，先生。"Barwood 先生——凭他的职业与他在职业中达到的地位推测——并不是一个习惯于公开流露情感的人。然而接过 Scrooge 这份厚赐时，有心的读者会发现，他的声音明显变厚了，眼角也有闪闪的亮光。（其余叙述略）
 
-**关键词**：lights were dimmed（灯被调暗）/ acting now as master of ceremonies（担任司仪）/ a sense of both reverence and excitement（又敬又兴奋）/ a little like going to church, at Christmastime（有点像圣诞节去教堂）/ our Mr Beck（我们那位 Beck）/ he sees the most wonderful things（他能看见最奇妙的东西）
+**关键词**：Very discreetly, and without the least hesitation / passed the servant a sizable note / Keep him safe, you hear me / a distinct thickening of his voice / a glistening to be spied at the edges of his eyes
 
-**为什么这样写**：作者写降神会不写道具写气氛："the lights were dimmed"（灯调暗）——灵媒的舞台就是一个"暗"，所有的把戏都需要光与影做道具；而"由 敦实的 Barwood 先生担任司仪"这一笔俏皮：早上开门的那位大块头管家，今晚成了仪式的主持人，身份从仆从升为执事，作者用他身材的"敦实"（stout）强化这种喜剧的反差。"a sense of both reverence and excitement"（又敬又兴奋）是全场的基调词——既敬且兴奋，正是招魂术能流行起来的社会心理。而 Fell 太太那句 "a little like going to church, at Christmastime"（有点像圣诞节去教堂）是绝妙的自我定位：她觉得这场面熟悉得像宗教仪式；妙处还在于"Christmas"——最该被安慰的时刻，她在死人里找安慰，所以这句玩笑里有旧伤。接着作者用一问一答把观众席的潜台词全部抖出来：Seabrook 太太问"您以前见过他吗"，那句 "Oh?" 里全是期待；Fell 太太心里觉得"鉴于自己前来的缘由"这享受多半算不上，却礼貌地只说自己"非常期待看那位先生工作"（looking forward greatly to seeing that gentleman work）——"work"（干活）这个词极其冷静，是职业性的轻蔑。而 Seabrook 太太那句 "He sees… my dear, he sees the most wonderful things"用了省略号停顿、"almost transported"（几乎被带走）——信徒的狂喜与证人观察者的清醒，此时同处一桌。
+**为什么这样写**：这张钞票是全书里 Scrooge 最见"善"的一笔，而他给钱的姿态极有讲究："Very discreetly"（极隐蔽地）说明他不要仆人当场道谢的姿态戏，"without the least hesitation" 则把他写成一个立刻兑现承诺的人。这张钞票的用途也很典型：他买的不是服务，是"照看好他"——一句关于责任的叮嘱，恰好与后面 Scrooge 对自己承诺的语调同型。而作者最后那句"有心的读者会发现"更是把判断权交给读者，让读者自己去算：管家的动容，是职业性的礼貌，还是别的什么。
 
-**读者视角提示**：灯暗、圆桌、六人围坐——这场降神会的布景已经齐了。Fell 太太用 "work"（活儿）称呼通灵，这词后面会被验证得既准确又刻薄。
+**读者视角提示**：Barwood 收下钞票时的声音变厚、眼角闪光——这是作者留给读者自己判断的一处伏笔。
 
-> **原句 6:** Mr Talbot, who was taking a proprietorial interest in this conversation, leaned over to add: “The man’s a marvel.” No sooner had he begun to speak, however, than there came at the door of the drawing room a deeply theatrical knock. Talbot stopped, coughed, and said again in rather a weak tone: “Come in!” At this, the door was opened and the reason that they had all come to that place tonight strode into the room.
+> **原句 6:** You had better go in now, sir, they’ll be about to start soon. … four people were waiting for them, two men and two women … all but charged forward at the sight of Scrooge and his companion … a clear and somehow faintly unsettling desire to be liked at all costs
 
-**中文理解**：Talbot 先生正带着一种所有主般的兴趣加入这段谈话，俯身补上一句："这人是个奇才。"然而他话才起头，画室门口便传来一声极为做作的敲门声。Talbot 停下，咳了一声，然后用一种相当虚弱的语调再次说道："请进！"于是门被打开，而他们今夜统统赶到此处要见的那个人，便大步走进了房间。
+**中文理解**："您最好这就进去吧，先生，他们快开始了。我的主人 Talbot 先生正盼着再见到您呢。"斯克罗吉道了谢。他与那位女士走进这富人的宅子，先有一个仆人迎上来，再一个，然后两人被引到一间布置考究的大客厅。里面，在一张小小的圆桌旁，四个人正等着他们——两男两女。其中一人几乎是小跑着迎上来，一看见斯克罗吉和他的同伴。（其余叙述略）
 
-**关键词**：taking a proprietorial interest（带着所有主般的兴趣）/ leaned over to add（俯身补话）/ a deeply theatrical knock（极为做作的敲门声）/ Talbot stopped, coughed（停下、咳了一声）/ in rather a weak tone（相当虚弱的语调）/ strode into the room（大步走进房间）
+**关键词**：You had better go in now, sir / four people were waiting for them, two men and two women / all but charged forward / a clear and somehow faintly unsettling desire to be liked at all costs
 
-**为什么这样写**：这四句是纯古典的舞台调度，作者把希区柯克式的"敲门声"用了最保守也最有效的写法：不写脚步声，先写一声敲门，再写主人如何反应。"a deeply theatrical knock"（极为做作的敲门声）——"theatrical"（戏剧化的）一词既是听觉也是评价：这个敲门声是演给人听的，因此在宣告"开始了"的同时也暴露了整套表演的自知。"Talbot stopped, coughed"（停下、咳了一声）这两个小动作把刚才还滔滔不绝的主人瞬间压回座位——作者不给心理，只给动作，读者自己读出他的虚弱。而 "in rather a weak tone"（相当虚弱的语调）与前一句的 "The man’s a marvel"（这人是个奇才）形成刺眼的对照：夸别人夸得响亮，自己开口却虚得几乎听不见，这是本书惯用的反讽——崇拜者永远比被崇拜者更响。最后一句 "the reason that they had all come to that place tonight strode into the room"（他们今夜统统赶到此处要见的那个人大步走进房间）用 "the reason that they had all come"（他们所有人此行的原因）把来人写成全场的因果中心，而 "strode"（大步流星）一词先声夺人——在见到他之前，作者先交代他的走姿。
+**为什么这样写**："all but charged forward"（几乎冲上前）是本章唯一的加速动作，前文一路都是静默的寒暄与点灯，这个"冲"立刻把全场的期待写实了。而"one servant, then another"这种流水账式的重复不是偷懒：它写的是这家人用服务堆出来的体面——一个人不够，得两个接连地迎，把来客像物件一样从门口传递到客厅。全书的阶层主题在这里以最平淡的方式露了一下头：塔博特家的人力是可以堆出来的，而斯克罗吉一路走来只有自己。
 
-**读者视角提示**：门还没开，全场就先被一个敲门声按住了。请留意 Talbot 的虚弱语调——他是主人，却是全场最撑不住场面的人。
+**读者视角提示**：客厅里等着四男（实为两男两女）——注意谁冲向 Scrooge，谁没动。
 
-> **原句 7:** If one is accustomed to the ordinary run of mediums which at that time had just begun to infect the country – pale, willowy young men; large ladies of supposed Romany stock; glass-eyed twitchers and obvious, tediously flamboyant frauds – Mr Archibald Beck was a different proposition entirely. He was young, yes – not more than five and twenty – but neither pale nor willowy. In excess of six feet tall, he had the muscular chest of a rugby player and the athletic, captivating manner of the captain of the winning team. There was, beneath a well-tailored exterior, a quality of something close to roughness which spoke of a man conversant with aspects of society far below the house in which he was currently situated. It was as though he were at once half-officer and half-infantry. Both Mrs Seabrook and her sister, Miss Bunn, gasped at his arrival. Mr Roy watched with avid interest. Mr Talbot beamed with pride, like a man who is eager to show off a new pet. Scrooge, as was often the case, was entirely inscrutable. Mr Beck spoke with great confidence in that dim room. “Good evening, ladies and gentlemen. My name is Archibald Beck and it is my contention that you and I – the seven of us – will tonight hear from those who have passed through the veil into the world that lies beyond. Tonight, my friends, we will hear the words of the dead.”
+> **原句 7:** Mr Leopold Talbot, the noted financier and enthusiastic patron of spiritualism … a striking woman in her middle years named Mrs Jemima Seabrook … Miss Elizabeth Bunn … a small, rather nervous man with spectacles
 
-**中文理解**：如果一个人习惯了当时刚开始蔓延全国的普通灵媒——苍白、柔弱的年轻男人；自称吉卜赛血统的胖太太；眼神如玻璃的抽搐者，以及那些明目张胆、令人腻烦的哗众取宠之徒——那么 Archibald Beck 先生就完全是另一回事了。他确实年轻，不过二十五岁上下，但既不苍白也不柔弱。他身高超过六英尺，有着橄榄球运动员般的肌肉胸膛，以及 胜队队长那种运动而迷人的举止。在那身剪裁考究的外表之下，却有一种近乎粗野的质感，说明这是个熟悉远低于他当前所处之宅的社会层面的人的下层事务的人。他仿佛一半是军官，一半是步兵。Seabrook 太太与她姐姐 Bunn 小姐在他到来时都倒吸了一口气。Roy 先生兴趣盎然地看着。Talbot 先生则像个人极愿炫宝的新宠物那样，得意地笑着。至于 Scrooge——一如既往——完全不可捉摸。Beck 先生在那昏暗的房间里极其自信地开口："女士们，先生们，晚上好。我叫 Archibald Beck，我主张今晚你们与我——我们七个人——将听到那些穿过帷幔、进入那死后世界的人的讯息。今晚，我的朋友们，我们将听到死者的话语。"
+**中文理解**：老人握了这位——当然是他们主人——的手，并把他介绍给 Louisa：Leopold Talbot 先生，著名的金融家与灵性主义的热情赞助人。接着是更急促的一连串介绍：Talbot 先生特别的朋友、中年、引人注目的那位女士 Jemima Seabrook 太太；Seabrook 太太的姐姐（年纪稍大些，也稍欠漂亮）Elizabeth Bunn 小姐；以及一位戴眼镜、带着海外口音、身材瘦小而略显紧张的男人，Roy 先生。（其余叙述略）
 
-**关键词**：a different proposition entirely（完全是另一回事）/ neither pale nor willowy（既不苍白也不柔弱）/ the muscular chest of a rugby player（橄榄球运动员般的胸膛）/ the captain of the winning team（胜队队长的举止）/ quality of something close to roughness（近乎粗野的质感）/ far below the house in which he was currently situated（远低于他当前所处之宅）/ half-officer and half-infantry（一半军官一半步兵）/ entirely inscrutable（完全不可捉摸）/ we will hear the words of the dead（我们将听到死者的话语）
+**关键词**：Mr Leopold Talbot, the noted financier / enthusiastic patron of spiritualism / a striking woman in her middle years named Mrs Jemima Seabrook / Miss Elizabeth Bunn / a small, rather nervous man with spectacles
 
-**为什么这样写**：这一块是全书人物塑造的最高效示范，作者用"排除法"立人：先列四种典型灵媒（苍白柔弱的青年、自称吉卜赛血统的胖太太、玻璃眼的抽搐者、露骨的骗子），再下断语 "a different proposition entirely"（完全是另一回事）——读者立刻知道他不属于任何一类。他的身体是全套的：不过二十五岁、六英尺多、橄榄球球员的胸肌、"the athletic, captivating manner of the captain of the winning team"（胜队队长那种运动而迷人的举止）。而真正让作者不安的是那件被精心放在末位的东西：在一身考究外表之下，"there was… a quality of something close to roughness which spoke of a man conversant with aspects of society far below the house in which he was currently situated"（有一种近乎粗野的质感，说明他熟悉远低于这栋宅子的社会层面）。作者不说他粗野，只说"近乎"（close to），随后立刻用"说明"（spoke of）把这个感觉解释成经验：这栋宅子的客厅离他来的地方太远了。而 "It was as though he were at once half-officer and half-infantry"（一半军官一半步兵）是全章最锋利的比喻：军官有身份无实权，步兵有实力无身份——这个人介于灵媒与恶棍之间，他身上的军事感让人想起暴力。四种反应写尽满桌人：两姐妹倒吸一口气，Roy 兴致勃勃，Talbot"像个人极愿炫宝的新宠物"地得意——注意"beamed with pride"（骄傲地笑）与"show off a new pet"（炫一件新宠物），此刻众人眼中 Beck 是一件战利品；而 Scrooge"entirely inscrutable"（完全不可捉摸），四个词把主角从全场里抽了出去。最后 Beck 的开场白 "the seven of us"（我们七个人）当众清点人数——作者在叙述里已数过：主人、Seabrook、Bunn、Roy、Fell、Scrooge，加 Beck，正好七个。
+**为什么这样写**：作者用一串介绍完成两件事：Talbot 的头衔里 "noted financier" 与 "enthusiast patron of spiritualism" 并列——作者不说他相信，只说他赞助，这既贬又准；"enthusiast"（发烧友）比 "believer" 更轻，也更接近实情。而人物介绍里藏着将来会出事的信息：Seabrook 太太"引人注目的中年女人"、她姐姐"稍欠漂亮"——后文第十一章里，正是这对姐妹中的一个会被附体；戴眼镜、瘦小、紧张、海外口音的 Roy 先生，则在第二卷的降神会上另有角色。作者此刻只给轮廓，不给分量。
 
-**读者视角提示**：记住那句"far below the house in which he was currently situated"（远低于他当前所处的宅子）——Beck 的来历低，是后文的关键；他与那栋鬼宅的真正关系，就藏在这句反衬里。
+**读者视角提示**：记住这张名单：Talbot、Seabrook 太太、Bunn 小姐、Roy 先生；谁是丈夫的朋友、谁是姐妹，后文有用。
+
+> **原句 8:** the lights were dimmed in the room (stout Mr Barwood acting now as master of ceremonies) and the group of six was seated around the circular table. … a sense of both reverence and excitement – a little like going to church … She was seated beside Mr Scrooge upon her left and Mrs Seabrook upon her right.
+
+**中文理解**：在那之前只剩一点时间用于闲聊与介绍，以及弄清彼此的关系，九点将近，最后的准备必须做完。想必各位自己也参加过降神会，我就不必花太多篇幅描写这些了。简单说来：屋里的灯被调暗了（壮实的 Barwood 先生此时充任司仪），六个人围坐在圆桌旁。（其余叙述略）
+
+**关键词**：the lights were dimmed in the room / acting now as master of ceremonies / the group of six was seated around the circular table / a sense of both reverence and excitement / a little like going to church / beside Mr Scrooge upon her left
+
+**为什么这样写**：这段最妙的是叙述者的口吻突然转向读者："No doubt you have attended séances yourself"——作者直接对"你"说话，把自己从全知叙述降格成一个熟客，从而顺手免去了描写降神会程序的笔墨，又不失礼节。而 "the group of six" 这个数字让读者自己数：主客六人，Beck 进来就是七个——这个"七"会在 Beck 的开场白里被本人点出，全书唯一的数字伏笔在此扣合。司仪由管家担任，也说明今晚的一切都是 Talbot 家一手安排的。
+
+**读者视角提示**：围桌的是六人，Beck 进来后是七人——记住这个数。
+
+> **原句 9:** Have you ever seen him before … Oh my goodness, but this will be a treat for you. … he sees the most wonderful things … Mr Talbot, who was taking a proprietorial interest in this conversation, leaned over to add: “The man’s a marvel.”
+
+**中文理解**：Fell 太太左边坐着 Scrooge 先生，右边是 Seabrook 太太。她在昏暗中转过头去面对她。"您以前见过他吗，"她问，"我们的 Beck 先生？"Fell 太太说她没有。"哦？"Seabrook 太太说，"哎呀，这可要让您大饱眼福了。"（其余叙述略）
+
+**关键词**：Have you ever seen him before / this will be a treat for you / he sees the most wonderful things / taking a proprietorial interest / The man’s a marvel
+
+**为什么这样写**：座次是这一段的暗线：Scrooge 在她左边，Seabrook 太太在右边——也就是说，她夹在"查案的人"和"信的人"之间；而作者特意写她在昏暗中"转过头去面对"右边这位——一个动作就把她推向了信徒阵营。她对"您以前见过他吗"的回答只有"没有"，简单到近乎失礼；对方的"大饱眼福"更是把一个灵媒说成了马戏表演。作者一路用"the lady"指她，与满座的 "Mrs Seabrook"、"Mr Talbot" 并列——她在这里还不是圈中人。
+
+**读者视角提示**：Fell 太太坐在斯克罗吉与 Seabrook 太太之间；作者此时称她"the lady"，她尚未被这个圈子接纳。
+
+> **原句 10:** there came at the door of the drawing room a deeply theatrical knock … Talbot stopped, coughed, and said again in rather a weak tone: “Come in!” … the reason that they had all come to that place tonight strode into the room
+
+**中文理解**："他看得见……"她说，声音几乎飘了起来，"亲爱的，他看得见最不可思议的东西。"Talbot 先生以一种主人翁式的关切俯身补充："那人是个奇迹。"然而他话才起头，客厅门口便传来一声极为做作的敲门声。Talbot 停下来，咳了一声，又用相当虚弱的语调喊了一声："请进！"于是门被打开，他们今晚到此处来的缘由，大步走进了房间。（其余叙述略）
+
+**关键词**：a deeply theatrical knock / in rather a weak tone / Come in! / strode into the room
+
+**为什么这样写**：这段全部由"过度"构成：Seabrook 太太几乎飘起来的声音、Talbot "主人翁式的关切"（proprietorial＝像自己的东西那样）、"a marvel"；紧接着作者用 "a deeply theatrical knock" 一记把这一切掀翻——这声敲门把一屋子人的自High全部打回原形，也宣告真正的表演者要登场了。Talbot 那声虚弱的"请进"与他方才的热闹形成反差，像是被人打断了台。收尾句 "the reason that they had all come to that place tonight strode into the room"（他们今晚到此处来的缘由大步走进房间）是全章最好的一句叙述：被进入的不是人，是"缘由"——来赴约的是目的本身。
+
+**读者视角提示**：那声"极为做作的敲门声"是全章的转折点；请记住 Talbot 喊"请进"时"虚弱"的语调。
+
+> **原句 11:** If one is accustomed to the ordinary run of mediums which at that time had just begun to infect the country – pale, willowy young men; large ladies of supposed Romany stock; glass-eyed twitchers and obvious, tediously flamboyant frauds – … Mr Archibald Beck was a different proposition entirely. … He was young, yes – not more than five and twenty – but neither pale nor willowy. … It was as though he were at once half-officer and half-infantry.
+
+**中文理解**：如果你习惯了当时刚刚开始蔓延全国的普通灵媒——苍白瘦长的年轻人；自称吉卜赛血统的高大女士；眼神呆滞的抽搐者，以及那些明目张胆、乏味透顶的张扬骗子——那么 Archibald Beck 先生完全是另一回事。他确实年轻，不过不超过二十五岁，但既不苍白也不瘦长。他身高超过六英尺，有橄榄球运动员般的肌肉胸膛，也有夺冠球队队长般 athletic 而吸引人的举止。（其余叙述略）
+
+**关键词**：the ordinary run of mediums / pale, willowy young men / glass-eyed twitchers / tediously flamboyant frauds / a different proposition entirely / not more than five and twenty / It was as though he were at once half-officer and half-infantry
+
+**为什么这样写**：作者先花一整句把市面上的灵媒逐类点名，再让 Beck 以"完全是另一回事"登场——这是标准的造神手法：先贬低同类，才能抬高。而他的外貌全是体育词汇：橄榄球运动员的胸膛、夺冠队长的举止；这正是作者全书的一贯笔法——用身体性、动物性的强度去对抗灵媒应有的苍白虚无。紧接着作者又补一刀："但他彬彬有礼的外表之下，有一种近乎粗野的质感"，暗示这个人来自底层——他不是天生的仪表堂堂，而是爬上来的人。
+
+**读者视角提示**：Beck 是二十五岁上下、六英尺多、橄榄球球员般的体格，配上"近乎粗野"的底层质感；这与他在本部书中的出身线索一致。
+
+> **原句 12:** Both Mrs Seabrook and her sister, Miss Bunn, gasped at his arrival. … Mr Talbot beamed with pride, like a man who is eager to show off a new pet. … Scrooge, as was often the case, was entirely inscrutable. … My name is Archibald Beck and it is my contention that you and I – the seven of us – will tonight hear from those who have passed through the veil into the world that lies beyond. … we will hear the words of the dead.
+
+**中文理解**：Seabrook 太太和她姐姐 Bunn 小姐都在他进门时倒吸了一口气。Roy 先生目不转睛地看着。Talbot 先生则像急着炫耀新宠的人那样满脸得意。斯克罗吉则一如往常，完全不可捉摸。Beck 先生在昏暗的房间里极有信心地开口："女士们，先生们，晚上好。我叫 Archibald Beck，而我主张的是：今晚在座的我们七个人，将听到那些已经穿过帷幔、进入那彼岸世界的人的声音。今夜，我的朋友们，我们将听到死者的话语。"（其余叙述略）
+
+**关键词**：gasped at his arrival / beamed with pride / entirely inscrutable / My name is Archibald Beck / the seven of us / passed through the veil into the world that lies beyond / we will hear the words of the dead
+
+**为什么这样写**：作者用四个短句给满座反应一一打分：惊呼、凝视、得意、以及"不可捉摸"——三种浅层反应（外行）与一种深水反应（斯克罗吉），对比即完成。而 Beck 的开场白是全书最重要的一次职业宣言："my contention"（我的主张）——他用的是"主张"而非"我们知道"；"the seven of us" 把观众算进去，把听众变成同谋；而"those who have passed through the veil"（穿过帷幔的人）是通灵的整套话术第一次完整登场。只剩最后一句"we will hear the words of the dead"是承诺——全书接下来十四章，就是这句话的兑现史。
+
+**读者视角提示**：Beck 的开场白就是全书的契约："we will hear the words of the dead"——记住它，最后一章会回来。
 
 ## 本章词汇
 
