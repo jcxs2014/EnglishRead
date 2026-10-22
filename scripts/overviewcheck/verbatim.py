@@ -108,6 +108,26 @@ def extract_quotes(txt: str):
              or re.match(r'^\*\*原句\s*\d+(?:\s*\([^)]+\)\s*)?[:：]?\*\*\s+(.+)$', s)
              or re.match(r'^>\s*\*{0,2}原句\s*\d+(?:\s*\([^)]+\)\s*)?[:：]?\*{0,2}\s+(.+)$', s))
         if not m:
+            # 2026-10-22 新增：**整行独立引语**的库内主力形态（原全在口径外）。
+            # 实测 12 个总览文件、约 150 条引语因此从未被任何工具校验：
+            #   `## ① "…"`（金句精选用 H2 小标题）/ `- "…"`（情感节点用列表项，
+            #   常带 `（店主对 Richard 的低声警告）` 这类中文尾注）/ `**"…"**`。
+            # 处置同 2026-09-29 那条裸 `> "…"`：**纯增量**，不改既有分支行为；
+            # 中文尾注在第一个中文字符处切断；短引语（flat < 20）仍按阈值跳过。
+            m2 = (re.match(r'^#{2,4}\s*' + circ + r'\s*(.+)$', s)
+                  or re.match(r'^[-*+]\s+(.+)$', s)
+                  or re.match(r'^\*\*(.+?)\*\*\s*$', s))
+            if m2:
+                body2 = m2.group(1).strip()
+                if '"' in body2 or '\u201c' in body2:
+                    mc = re.search(r'[\u4e00-\u9fff]', body2)
+                    cand = (body2[:mc.start()] if mc else body2).strip()
+                    cand = re.sub(r'^["\u201c]', '', cand).strip()
+                    cand = cand.strip('"\u201c\u201d\'* ')
+                    if (is_quoteish(cand) and len(flat_alpha(cand)) >= 20
+                            and cand not in seen):
+                        seen.add(cand)
+                        quotes.append(cand)
             continue
         body = m.group(1).strip()
         body = body.strip("*' ")
@@ -236,9 +256,14 @@ def main(book_dir: str, epub_path: str = ""):
             # wolf-hour `00 emotional nodes.md` 16 对，全部嵌在中文段落里 ⇒ 前两闸都不认，
             # 被报「无引语行（正常）」——与 These Vengeful Wishes 那 2,277 行同型。
             # 判据取「行内有 ≥25 个字母的成对英文引号」，短词/术语不会命中。
+            # ⚠️ 2026-10-22 同日收紧：初版只判「≥25 个字母」，会把
+            # `从"接受"到"要求"…James 接受她的沉默` 这种**中文引号跨对贪婪匹配**
+            # 出的假段也算进去（a-sea `00_overview.md` 两条即此）。改用 is_quoteish
+            # 双闸（无中文 + ≥8 字母 + ≥3 词），与 `looks_like_labeled_quote` 同口径。
             inline = []
             for ln in txt.splitlines():
-                if any(len(flat_alpha(q)) >= 25 for q in re.findall(r'"([^"]{25,})"', ln)):
+                if any(is_quoteish(q) and len(flat_alpha(q)) >= 15
+                       for q in re.findall(r'"([^"]{15,})"', ln)):
                     inline.append(ln.strip()[:90])
             if looks or labeled or inline:
                 gap.append((name, (looks or labeled or inline)[0][:90]))
