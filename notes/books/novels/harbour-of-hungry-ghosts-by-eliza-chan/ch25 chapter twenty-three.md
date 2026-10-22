@@ -53,7 +53,7 @@ modified: "2026-10-22"
 
 **为什么这样写**：一场法术被她拆成三样便宜东西：偷来的硬币、干枸杞、一张符。中间那句自嘲才是重心——偷比猎妖挣得多，等于把她赖以为生的两门手艺放到同一杆秤上称了一次。开天眼要用的东西来路不干净，作者不替她辩解，只把价码写出来。
 
-**读者视角提示**：她先向左边的人讨硬币，又向右边的人讨，都被当成乞讨。同一枚钱讨不到，只能摸——这一章对体面的判决就落在这里。
+**读者视角提示**：她先向左边的人讨硬币，又向右边的人讨，都被当成乞讨。同一枚钱讨不到，只能摸——这一章对体面的判决就落在这里。再往回一句，她还摸过腰带：钱包是她自己故意留在家的，本盘算让 Archie 付她一整天的账。
 
 > **原句 5:** "The lions were a pair, solemnly pledged to protect doorways. Two halves of the same coin. But when facing each other, their attention was refocused on rivalry instead. … A rift opening once more, like at the Hungry Ghost Festival, and the horses that had crossed the threshold had triggered it, turning the racecourse into a threshold between realms."
 
