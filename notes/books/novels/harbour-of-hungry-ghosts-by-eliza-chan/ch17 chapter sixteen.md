@@ -77,9 +77,9 @@ modified: "2026-10-22"
 
 > **原句 7:** "The coin sword was the biggest giveaway. Unlike the knife a fisherman used to descale and gut his catch, or the hooked blade used by farmers at harvest, it was shaped like a kiam, the straight sword used by warriors, and made of sacred coins tied together with string around a wooden core."
 
-**中文理解**：最露底的就是那把铜钱剑。渔夫剖鱼刮鳞用刀，农夫收割用钩镰，它却做成"剑"的样子——武士用的直剑，用圣钱串在木芯上扎成。对付妖管用，别的时候不过是根抡人的棍子。
+**中文理解**：最露底的就是那把铜钱剑。渔夫剖鱼刮鳞用刀，农夫收割用钩镰，它却做成"剑"的样子——武士用的直剑，用圣钱串在木芯上扎成。放在剖鱼刀和割禾钩旁边，它没有刃，靠的是分量和形状。
 
-**关键词**：the biggest giveaway / shaped like a kiam / a bludgeoning stick
+**关键词**：the biggest giveaway / shaped like a kiam / sacred coins
 
 **为什么这样写**：作者用两件日常工具——剖鱼刀、割禾钩——把她的兵器放回劳作的尺度里，再指出它连刃都没有，威风全在形状上。"抡人的棍子"一句把法器降格，也顺手说出了旁人怕她的原因：怕的不是法力，是那副一看就知道是干什么的样子。
 
