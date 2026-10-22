@@ -18,7 +18,7 @@ source_text: ch17
 
 > **原句 1:** "He brings me flowers picked from the cliff edge, near the gravesite—blue bonnets and dandelions. I put them in a ceramic vase, leaving them on the kitchen table beside the hole burned permanently into the wood from Kochek’s cigarette."
 
-**中文理解**：他从悬崖边、坟地附近采来花给我——蓝的那种小蓝帽，还有蒲公英。我把它们插进一只陶花瓶里，放在厨房桌上，紧挨着那个被 Kochek 的烟头永久烧进木头里的洞。
+**中文理解**：他从悬崖边、坟地附近采来花给我——蓝色的矢车菊（bluebonnets），还有蒲公英。我把它们插进一只陶花瓶里，放在厨房桌上，紧挨着那个被 Kochek 的烟头永久烧进木头里的洞。
 
 **关键词**：flowers picked from the cliff edge, near the gravesite / blue bonnets and dandelions / the hole burned permanently into the wood
 

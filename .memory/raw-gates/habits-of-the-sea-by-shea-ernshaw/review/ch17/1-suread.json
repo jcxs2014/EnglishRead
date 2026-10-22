@@ -1,0 +1,62 @@
+{
+ "chapter": 17,
+ "source": "text/ch17_chapter_sixteen.txt",
+ "facts": [
+  {
+   "fact": "她捧着他从崖边坟地附近采来的野花（蓝矢车菊与蒲公英），插进陶瓶放在厨房桌上，旁边是 Kochek 的烟头烧出的洞",
+   "span": [
+    980,
+    1047
+   ],
+   "anchor": "He brings me flowers picked from the cliff edge, near the gravesite"
+  },
+  {
+   "fact": "夜里他说「我不知道现在怎么保护你，也不知道怎么救我们」，手从她头发上松开",
+   "span": [
+    1877,
+    1911
+   ],
+   "anchor": "I don’t know how to protect ye now"
+  },
+  {
+   "fact": "两人在那夜抱在一起死去：「We die on this night.」",
+   "span": [
+    4997,
+    5018
+   ],
+   "anchor": "We die on this night."
+  },
+  {
+   "fact": "他独自游上岸，回来时递给她一颗桃子",
+   "span": [
+    7492,
+    7500
+   ],
+   "anchor": "A peach."
+  },
+  {
+   "fact": "雨还在下，可海不见了，面前是一大片绿色陆地",
+   "span": [
+    8087,
+    8135
+   ],
+   "anchor": "Rain still dapples the sky, but the sea is gone."
+  },
+  {
+   "fact": "林子里先跑出一条金毛犬（或类似的狗），然后走出一个男孩",
+   "span": [
+    9345,
+    9357
+   ],
+   "anchor": "A young boy."
+  },
+  {
+   "fact": "「We didn’t die, as my dreams foretold.」",
+   "span": [
+    5332,
+    5369
+   ],
+   "anchor": "We didn’t die, as my dreams foretold."
+  }
+ ]
+}
