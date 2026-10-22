@@ -8,13 +8,13 @@ source_text: ch12
 
 ## 本章导航
 
-- **一句话概括**：本章是埃莉与克莱的新纪元：十几天的酷热与旱逼来一场飓风，把他建的菜园、温室、羊棚和鸡舍全部撕碎，只剩一间靠命运、怨气与悲伤撑住的房子；风暴又把这座岛推到一片陌生的热带大陆边上，礁石把它卡住，两条时间线重新接上。他们在荒废的度假村找到一部没有拨号音的电话、几株成排的香蕉树，埃莉在按下祖母号码之后说清楚自己不是想离开；当晚她在沙滩上按住他的嘴，不让他把危险说完，克莱把一枚贝壳当戒指，说他现在就答应，哪怕没有祭坛。
+- **一句话概括**：本章是Ellie与Clay的新纪元：十几天的酷热与旱逼来一场飓风，把他建的菜园、温室、羊棚和鸡舍全部撕碎，只剩一间靠命运、怨气与悲伤撑住的房子；风暴又把这座岛推到一片陌生的热带大陆边上，礁石把它卡住，两条时间线重新接上。他们在荒废的度假村找到一部没有拨号音的电话、几株成排的香蕉树，Ellie在按下Nana号码之后说清楚自己不是想离开；当晚她在沙滩上按住他的嘴，不让他把危险说完，Clay把一枚贝壳当戒指，说他现在就答应，哪怕没有祭坛。
 
 - **情感弧线位置**：全书「接受—失去」段的后半程，弧线是「圆满—击碎—重建—确认」：开篇是近乎奢侈的安宁（露营、绿闪光、数月相、读彭斯），中段被飓风一次性打回赤贫（血、碎片、空地窖、碎木与钉子），后段两人靠竹子、椰子和几只幸存的鸡一点点重建，最后在一片没有名字的沙滩上把彼此认领为配偶。
 
-- **Tropes 兑现/反转**：兑现「荒岛飓风毁掉一切」与「误入废弃度假村」两枚老套路；反转有两处：飓风摧毁的是他亲手建起来的全部家当，却把两人送到了带有人类痕迹的新大陆；而度假村不是海上的救援站，只是一堆死物——电话没有拨号音，屏幕是黑的，文明在这里只剩下形状。另一处反转是「不回来」：她按下祖母的号码却只听见沉默，转头把死电话挂回墙上，选择不走。
+- **Tropes 兑现/反转**：兑现「荒岛飓风毁掉一切」与「误入废弃度假村」两枚老套路；反转有两处：飓风摧毁的是他亲手建起来的全部家当，却把两人送到了带有人类痕迹的新大陆；而度假村不是海上的救援站，只是一堆死物——电话没有拨号音，屏幕是黑的，文明在这里只剩下形状。另一处反转是「不回来」：她按下Nana的号码却只听见沉默，转头把死电话挂回墙上，选择不走。
 
-- **人物弧线**：克莱从「什么都由他扛」变成「被人替他按住恐惧」——她不再只是被保护的那一个，他第一次被人按住嘴、被人替他做决定；埃莉则从「为生存计算」走向「为自己选择」：数月相是为了不怀孕，打电话是为了报平安而不是求救，最后她要的是一场没有仪式的婚礼。
+- **人物弧线**：Clay从「什么都由他扛」变成「被人替他按住恐惧」——她不再只是被保护的那一个，他第一次被人按住嘴、被人替他做决定；Ellie则从「为生存计算」走向「为自己选择」：数月相是为了不怀孕，打电话是为了报平安而不是求救，最后她要的是一场没有仪式的婚礼。
 
 - **叙事手法**：以「物」为骨架——地窖里的雨水盆、颈上的贝壳、碎木与钉子、废弃的电话与成排香蕉树；用天气推情绪（旱、第一场雨、飓风、风停后那阵超自然的安静），中段插入一段葬礼预演，先在她自己的想象里把灾难的代价结算一遍；结尾用两个「没有」收束——没有祭坛，也没有名字。
 
@@ -82,7 +82,7 @@ source_text: ch12
 
 > **原句 6:** "His eyes open, and the rain begins to fall in earnest now. I stand, tilting my head back to feel the drops against my face, cool and inviting. I laugh and Clay rises to his feet, bare chest to the sky."
 
-**中文理解**：他睁开眼睛，这回雨真的下起来了。我站起来，仰起脸让雨点落在脸上，凉丝丝的，让人想去迎它。我笑出声，克莱也站了起来，裸着胸膛对着天空。
+**中文理解**：他睁开眼睛，这回雨真的下起来了。我站起来，仰起脸让雨点落在脸上，凉丝丝的，让人想去迎它。我笑出声，Clay也站了起来，裸着胸膛对着天空。
 
 **关键词**：the rain begins to fall in earnest / tilting my head back / bare chest to the sky
 
@@ -106,7 +106,7 @@ source_text: ch12
 
 > **原句 8:** "He sits, pulling me into his arms. Still, I shiver, not just from the dampness of my skin, but from fear. Clay tries to appear steady, composed, but I know him too well, and I can see the strain in him."
 
-**中文理解**：他坐下来，把我拉进怀里。我还是在发抖，不只因为皮肤潮湿，更因为害怕。克莱竭力显得镇定、沉着，可我太了解他，看得见他身上的紧绷。
+**中文理解**：他坐下来，把我拉进怀里。我还是在发抖，不只因为皮肤潮湿，更因为害怕。Clay竭力显得镇定、沉着，可我太了解他，看得见他身上的紧绷。
 
 **关键词**：Still, I shiver / Clay tries to appear steady, composed / I can see the strain in him
 
@@ -130,7 +130,7 @@ source_text: ch12
 
 > **原句 10:** "I leave Clay where he stands, and I walk out toward where the barn once stood. I’m hoping to find a chicken still alive, the herd of sheep, the lamb who’s now grown. But there are only a few fragments of wood, a nail or two."
 
-**中文理解**：我把克莱留在原地，自己朝羊棚原来的方向走去。我盼着还能找到一只活着的鸡、那群羊、还有已经长大的那只小羊。可那里只有几块碎木头、几颗钉子。
+**中文理解**：我把Clay留在原地，自己朝羊棚原来的方向走去。我盼着还能找到一只活着的鸡、那群羊、还有已经长大的那只小羊。可那里只有几块碎木头、几颗钉子。
 
 **关键词**：the herd of sheep / the lamb who’s now grown / only a few fragments of wood
 
@@ -166,7 +166,7 @@ source_text: ch12
 
 > **原句 13:** "Clay shakes his head, about to tell me we can’t—the island might break free in the night, and then we’d be stranded—but I touch his mouth with my fingertips, stopping him from speaking."
 
-**中文理解**：克莱摇摇头正要告诉我不行——这座岛可能在夜里脱开，那时我们就会困在异乡——可我伸出指尖按在他的嘴唇上，止住了他说下去。
+**中文理解**：Clay摇摇头正要告诉我不行——这座岛可能在夜里脱开，那时我们就会困在异乡——可我伸出指尖按在他的嘴唇上，止住了他说下去。
 
 **关键词**：the island might break free in the night / I touch his mouth with my fingertips / stopping him from speaking
 

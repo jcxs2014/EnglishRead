@@ -5,17 +5,17 @@ source_text: ch15
 ---
 # 15. Chapter Fourteen
 ## 本章导航
-- **一句话概括**：离开新斯科舍第三天，埃莉（Ellie）在漂流的木筏上逼克莱（Clay）交代那桩瞒了整本书的旧事：当年岛上确实有船，他怕她出事便谎称没有，把她的选择权锁在了孤岛上；两人在星空下互摊底牌（她交出那封署名“威尔斯-洛克哈特”的留言条，他承认所谓“命运”其实是自己粗心），可紧接着岸上的世界已是 2062 年，三名自称美国海军的男人登岛动手，克莱两枪打中博斯奇（肩、胸口各一）、又与假上将搏斗到对方毙命，自己腹部中弹，埃莉用缝纫线替他缝合，尸体交给潮水，母舰掉头离开。
+- **一句话概括**：离开新斯科舍第三天，Ellie在漂流的木筏上逼Clay交代那桩瞒了整本书的旧事：当年岛上确实有船，他怕她出事便谎称没有，把她的选择权锁在了孤岛上；两人在星空下互摊底牌（她交出那封署名“威尔斯-洛克哈特”的留言条，他承认所谓“命运”其实是自己粗心），可紧接着岸上的世界已是 2062 年，三名自称美国海军的男人登岛动手，Clay两枪打中Bosch（肩、胸口各一）、又与假上将搏斗到对方毙命，自己腹部中弹，Ellie用缝纫线替他缝合，尸体交给潮水，母舰掉头离开。
 - **情感弧线位置**：全书关系线的“断裂—修复—再受创”三段式，也是全书情感强度的最高点。前半是全书最长的一次同处一室却形同陌陌（他睡在她身边，却不伸手碰她）；中段的坦白把两个人同时推向“我为你牺牲了一切”与“你替我做了决定”的对立；后半用一场闯入把旧账重新结清——她的选择权不再由他开口，而由她自己动手缝住那道伤口来主张。
 - **Tropes 兑现/反转**：兑现“归岛者发现岛上还住着另一个人”这条旧账的清算，把言情式的坦白翻成一场近似审问：他供出的不是浪漫承诺，而是一桩差点改变她一生的隐瞒。第一次反转在“小船完好的冲上岸”——她一直以为是运气，还回来的却是他的罪证；第二次反转在闯入者的军装——笔挺、别着勋章，却小了两号，说明来的是假海军。
-- **人物弧线**：克莱从“沉默的守墓人”变成“愿意被审判的人”：他承认船的存在、承认自私，最后用身体替她挡下这一枪。埃莉从“被带走的人”变成“做决定的人”：她拒绝被送回岸上、拒绝再由谁替她决定，并在他中弹的腹部上做出全章唯一真正属于治疗师的决定——子弹留在体内，她缝的是伤口。两人各交出一个藏了很久的秘密，关系从“两个人各守一座坟”变成“两个人共守一处伤疤”。
+- **人物弧线**：Clay从“沉默的守墓人”变成“愿意被审判的人”：他承认船的存在、承认自私，最后用身体替她挡下这一枪。Ellie从“被带走的人”变成“做决定的人”：她拒绝被送回岸上、拒绝再由谁替她决定，并在他中弹的腹部上做出全章唯一真正属于治疗师的决定——子弹留在体内，她缝的是伤口。两人各交出一个藏了很久的秘密，关系从“两个人各守一座坟”变成“两个人共守一处伤疤”。
 - **叙事手法**：一章三幕，用两处硬切分幕（坦白与和解／登岛与枪战），中段以整段“假如”反事实推演内心独白，结尾用身体动作代替抒情：他中弹、她缝合、他只说出三个字。数字是本章的叙事武器——2062 年、五年或六个月、二十年、几英里宽的死鱼带；作者反复用具体数字制造时代感与荒诞感，末段以“一艘船缩成地平线上的一个点”收束。
 
 ## 精读
 
 > **原句 1:** "But Clay has been quiet, moving silently through the house as if he’s held hostage by his thoughts. And in the evening, when we strip from our clothes and ease into bed, he doesn’t reach for me."
 
-**中文理解**：可是克莱一直很安静，像被自己的念头扣作人质那样，在屋里无声地走动。晚上脱掉衣服躺上床时，他也不伸手碰我。
+**中文理解**：可是Clay一直很安静，像被自己的念头扣作人质那样，在屋里无声地走动。晚上脱掉衣服躺上床时，他也不伸手碰我。
 
 **关键词**：held hostage by his thoughts / he doesn’t reach for me
 
@@ -27,7 +27,7 @@ source_text: ch15
 
 > **原句 2:** "But after I told him about Nana, about seeing James, he started to slip away from me, a distance growing between us each day. Two ghosts forgetting the shape of the other."
 
-**中文理解**：可自从我跟他说了祖母的事、说了我见到詹姆斯之后，他就开始从我身边一点点滑开，我们之间的距离一天比一天大——两个鬼，正在忘掉彼此的轮廓。
+**中文理解**：可自从我跟他说了Nana的事、说了我见到James之后，他就开始从我身边一点点滑开，我们之间的距离一天比一天大——两个鬼，正在忘掉彼此的轮廓。
 
 **关键词**：he started to slip away from me / Two ghosts forgetting the shape of the other
 
@@ -51,7 +51,7 @@ source_text: ch15
 
 > **原句 4:** "“There was a boat, Ellie,” he confesses—his voice hollow and awful. “An’ if I’d told ye the truth, in those early days when we were still close to land, ye might have made it back. Ye might never have been trapped here.”"
 
-**中文理解**：“埃莉，那时候是有船的。”他坦白道，声音空洞得可怕。“如果我早一点告诉你实话，在最初那些我们还离岸不远的日子里，你本来能划回去的。你本来根本不会被困在这里。”
+**中文理解**：“Ellie，那时候是有船的。”他坦白道，声音空洞得可怕。“如果我早一点告诉你实话，在最初那些我们还离岸不远的日子里，你本来能划回去的。你本来根本不会被困在这里。”
 
 **关键词**：There was a boat, Ellie / his voice hollow and awful / ye might never have been trapped here
 
@@ -99,7 +99,7 @@ source_text: ch15
 
 > **原句 8:** "“No,” I answer, blood beating against my eardrums. “You took the choice from me once before, you don’t get to take it again.” Clay remains silent. He knows I’m right."
 
-**中文理解**：“不。”我答道，血在耳膜上怦怦直跳。“你以前已经夺走过我一次选择权，这次你不能再夺走。”克莱没有说话。他知道我说得对。
+**中文理解**：“不。”我答道，血在耳膜上怦怦直跳。“你以前已经夺走过我一次选择权，这次你不能再夺走。”Clay没有说话。他知道我说得对。
 
 **关键词**：You took the choice from me once before / you don’t get to take it again / He knows I’m right
 
@@ -111,13 +111,13 @@ source_text: ch15
 
 > **原句 9:** "But someone did find the note, and it made its way back to Nana. She was able to see that I was still alive. She could finally let go and stop waiting for me."
 
-**中文理解**：可那封信真的被人找到了，并且一路传回了祖母那里。她因此能看到我还活着，终于可以放手，不必再等下去。
+**中文理解**：可那封信真的被人找到了，并且一路传回了Nana那里。她因此能看到我还活着，终于可以放手，不必再等下去。
 
 **关键词**：someone did find the note / it made its way back to Nana / let go and stop waiting for me
 
 **为什么这样写**：作者让一封她以为没人会发现的纸条真的找回了回去的路，把这份侥幸写成一串被动句：被找到、被传回、被看到。整段里救她的是两个捡到纸条的渔民和一条她无法控制的信路；她自己要做的，只是承认曾经需要它。
 
-**读者视角提示**：记住“终于可以放手”。祖母的放手救了她，也逼她面对一件事：这份迟到的告别本身就是她欠下的。
+**读者视角提示**：记住“终于可以放手”。Nana的放手救了她，也逼她面对一件事：这份迟到的告别本身就是她欠下的。
 
 ---
 
@@ -147,7 +147,7 @@ source_text: ch15
 
 > **原句 12:** "And Bosch, obeying, inches his body forward, peering around the doorway into the living room. But that’s all it takes, the sound echoes through the house, the first shot piercing Bosch in the shoulder. He staggers, points his gun through the doorway to fire back, but the second shot explodes, knocking him dead center in the chest."
 
-**中文理解**：博斯奇听命，猫着身子往前挪，从门框边往客厅里张望。可这就够了——枪声在屋子里炸开，第一发打穿了博斯奇的肩膀。他踉跄着把枪口从门里指回来要还击，第二发却炸开，正中他的胸口。
+**中文理解**：Bosch听命，猫着身子往前挪，从门框边往客厅里张望。可这就够了——枪声在屋子里炸开，第一发打穿了Bosch的肩膀。他踉跄着把枪口从门里指回来要还击，第二发却炸开，正中他的胸口。
 
 **关键词**：the first shot piercing Bosch in the shoulder / the second shot explodes / knocking him dead center in the chest
 
