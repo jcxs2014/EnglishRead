@@ -1,0 +1,85 @@
+{
+ "book": "habits-of-the-sea-by-shea-ernshaw",
+ "chapter": "ch14",
+ "text": "notes/books/novels/habits-of-the-sea-by-shea-ernshaw/text/ch14_chapter_thirteen.txt",
+ "facts": [
+  {
+   "fact": "开篇第一句：她后悔自己说过关于北极的那句话——本章随后真的越漂越北",
+   "anchor": "I regret what I said about the Arctic.",
+   "start": 44,
+   "end": 82
+  },
+  {
+   "fact": "他在地窖里藏了一瓶威士忌、点满蜡烛，说这是她在岛上满一年的纪念日",
+   "anchor": "Ye’ve been here a year.",
+   "start": 3196,
+   "end": 3219
+  },
+  {
+   "fact": "蓝宝石戒指的来历：他母亲生前戴过，再往前是他祖母的；他从一只旧鞋盒里翻出来",
+   "anchor": "It belonged to my mother before she passed. And my gran before her.",
+   "start": 4354,
+   "end": 4421
+  },
+  {
+   "fact": "他把戒指戴上她手指时说的誓言：我会照顾你，直到最后",
+   "anchor": "Until the very end.",
+   "start": 5050,
+   "end": 5069
+  },
+  {
+   "fact": "他用盖尔语说“我爱你”；原文紧接着自己给出翻译：I love you.",
+   "anchor": "Tha goal agam ort.",
+   "start": 5682,
+   "end": 5700
+  },
+  {
+   "fact": "岛继续向北漂，雪开始落下；羊群早已在飓风里没了，羊毛与蜂蜜都成过去",
+   "anchor": "We’re drifting farther north.",
+   "start": 5854,
+   "end": 5883
+  },
+  {
+   "fact": "她在厨房窗边看见海上有光，随浪起伏而显隐，最终确认是陆地",
+   "anchor": "It slips in and out of focus as the ocean swells upward, then reappears when the sea dips back down again. Land.",
+   "start": 7676,
+   "end": 7790
+  },
+  {
+   "fact": "她认出那道像弓一样弯回来的岸线——那是 Nana 所在的新斯科舍海岸",
+   "anchor": "The lights of the shore get brighter, closer, and my eyes trace the jetty, the shape of it, the soft slope of the shoreline like a bow, arching back on itself.",
+   "start": 8688,
+   "end": 8847
+  },
+  {
+   "fact": "她离开岸上已二十二年又几个月；而她在岛上只过了一年",
+   "anchor": "Twenty-two years, and a few months.",
+   "start": 17731,
+   "end": 17766
+  },
+  {
+   "fact": "Nana 四年前去世；James 一年飞来看她两次，并把房子留给了他",
+   "anchor": "Four years back. She went quick. She was sick for a while.",
+   "start": 20870,
+   "end": 20928
+  },
+  {
+   "fact": "James 替 Nana 继续每晚为她留灯",
+   "anchor": "I still keep the light on for you, just like your nana always did, every night.",
+   "start": 24465,
+   "end": 24544
+  },
+  {
+   "fact": "她解释自己为何回不去：见过就不可能假装没见（她用的比喻是奥兹国）",
+   "anchor": "I stood at the edge of a doorway, into a world of impossibility.",
+   "start": 25232,
+   "end": 25296
+  },
+  {
+   "fact": "她对 James 的结论：这里不再是她的生活，也不是她的时间线",
+   "anchor": "This isn’t my life anymore. Not my timeline.",
+   "start": 26288,
+   "end": 26332
+  }
+ ]
+}
