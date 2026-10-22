@@ -83,14 +83,6 @@ Unfortunately, the hob was also electric. |
 | tutted | 啧嘴（表示不满） | They tutted and rolled their eyes at my disorientation. |
 | malty | 麦芽味的 | I missed the smell of the place, the malty toasted scent from the breweries, the odd sea-salt-tinged gust from Leith. |
 | pattering | 啪嗒啪嗒的轻响 | Their muffled scrapes and knocks, the constant fiddling, pattering, shifting, came through the wall, the hoodie, the fingers in my ears until finally exhaustion took me and I slipped into sleep. |
-| un-steepled | 把搭成尖塔的手指放开 | “Something’s wrong.”
-
-
-Without blinking or moving her eyes from me, she un-steepled her long elegant fingers and pinched her left pinkie between the thumb and forefinger of her right hand. |
-| pinkie | 小指（口语） | “Something’s wrong.”
-
-
-Without blinking or moving her eyes from me, she un-steepled her long elegant fingers and pinched her left pinkie between the thumb and forefinger of her right hand. |
 
 ### ⭐ 常用
 
@@ -104,6 +96,8 @@ Without blinking or moving her eyes from me, she un-steepled her long elegant fi
 | mattress | 床垫 | I shut the garden gate door and covered the mattress with the single towel I’d brought with me. |
 | chain | 门链 | The door was locked, but I slipped the chain on as well. |
 | boiler | 锅炉，热水器 | Possibly a new boiler. |
+| gloom | 昏暗，阴郁 | I lay in the growing gloom. |
+| screech | 尖厉刺耳的声音 | A loud screech reverberated through the wall. |
 
 
 ## 一句话总结
