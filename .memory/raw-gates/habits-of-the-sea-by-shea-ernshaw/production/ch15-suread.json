@@ -1,0 +1,55 @@
+{
+ "book": "habits-of-the-sea-by-shea-ernshaw",
+ "chapter": "ch15",
+ "text": "notes/books/novels/habits-of-the-sea-by-shea-ernshaw/text/ch15_chapter_fourteen.txt",
+ "facts": [
+  {
+   "fact": "离开新斯科舍已三天：两人乘木筏沿海岸向东北漂，克莱一路沉默",
+   "anchor": "It’s been three days since we landed in Nova Scotia",
+   "start": 72,
+   "end": 123
+  },
+  {
+   "fact": "她讲完祖母的死与詹姆斯之后，克莱开始从她身边退开，两人像彼此忘了形状的鬼",
+   "anchor": "Two ghosts forgetting the shape of the other.",
+   "start": 1966,
+   "end": 2011
+  },
+  {
+   "fact": "他坦白：当年岛上有船，她被冲上岸那天他谎称根本没有离开的办法",
+   "anchor": "There was a boat, Ellie",
+   "start": 5519,
+   "end": 5542
+  },
+  {
+   "fact": "几个月后冲上岸的那条小船正是他的，是洋流把它送回岛上，还少了一支桨",
+   "anchor": "The current brought it back",
+   "start": 7499,
+   "end": 7526
+  },
+  {
+   "fact": "她坦白留言条的署名：她签了带他姓氏的名字，意思是\"我找到家了，我不回来了\"",
+   "anchor": "I signed the note Ellie Wells-Lockhart.",
+   "start": 17324,
+   "end": 17363
+  },
+  {
+   "fact": "登岛的\"海军上将\"报出年份：大陆已是 2062 年，离别已经过去很多年",
+   "anchor": "Ma’am, it’s the year 2062.",
+   "start": 35390,
+   "end": 35416
+  },
+  {
+   "fact": "克莱腹部中弹、子弹留在体内，她用缝纫线和烈酒替他缝住伤口",
+   "anchor": "The bullet went into his stomach, just below his ribs.",
+   "start": 49965,
+   "end": 50019
+  },
+  {
+   "fact": "结尾他只说出三个字，她没有话，只有眼泪",
+   "anchor": "I love ye",
+   "start": 59037,
+   "end": 59046
+  }
+ ]
+}

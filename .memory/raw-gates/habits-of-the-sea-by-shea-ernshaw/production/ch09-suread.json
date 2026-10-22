@@ -1,0 +1,55 @@
+{
+ "book": "habits-of-the-sea-by-shea-ernshaw",
+ "chapter": "ch09",
+ "text": "notes/books/novels/habits-of-the-sea-by-shea-ernshaw/text/ch09_chapter_eight.txt",
+ "facts": [
+  {
+   "fact": "Clay 替她烧满五桶热水倒进浴缸，并告诉她浴盐在柜子里——这是他第一次替她张罗这种事",
+   "anchor": "He hoists five steaming buckets of water up the stairs to the bath",
+   "start": 735,
+   "end": 801
+  },
+  {
+   "fact": "柜子里那罐海盐、干薰衣草和迷迭香属于亡妻；她一闻就哭出来",
+   "anchor": "This was his wife’s, of course.",
+   "start": 1393,
+   "end": 1424
+  },
+  {
+   "fact": "他说这座岛会攥住人的心不放，从这里拿走的东西必定会回到岛上（正对她当年偷走的挂坠）",
+   "anchor": "It grips yer heart an’ winnae let go. Anything taken from this place will always return.",
+   "start": 8143,
+   "end": 8231
+  },
+  {
+   "fact": "取蜂蜜时她慌乱中用刀划伤了他握框的手，他反而说这点血换一罐蜜很划算",
+   "anchor": "We shed a little blood to get some honey. I’d say it was worth the trade.",
+   "start": 28634,
+   "end": 28707
+  },
+  {
+   "fact": "她在岛上一天天数日子：二十九、三十三、四十，到这一段她已经待了一个多月",
+   "anchor": "Twenty-nine. Thirty-three. Forty.",
+   "start": 32672,
+   "end": 32705
+  },
+  {
+   "fact": "风暴过后海边冲上来一条小木船：没有马达，只有一支桨",
+   "anchor": "a small wooden boat—not much bigger than a bathtub.",
+   "start": 64869,
+   "end": 64920
+  },
+  {
+   "fact": "他拒绝跟她一起划船离开，说这座岛是他剩下的一切——他放不下埋在岸边的妻子和两个孩子",
+   "anchor": "This place is all I have left.",
+   "start": 73606,
+   "end": 73636
+  },
+  {
+   "fact": "最后他仍替她把船推离岸边，她随波逐流地漂进大西洋",
+   "anchor": "“Goodbye, Ellie,” he says",
+   "start": 101074,
+   "end": 101099
+  }
+ ]
+}

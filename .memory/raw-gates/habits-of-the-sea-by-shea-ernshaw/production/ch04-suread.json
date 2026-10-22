@@ -1,0 +1,55 @@
+{
+ "book": "habits-of-the-sea-by-shea-ernshaw",
+ "chapter": "ch04",
+ "text": "notes/books/novels/habits-of-the-sea-by-shea-ernshaw/text/ch04_chapter_three.txt",
+ "facts": [
+  {
+   "fact": "2026 年那天清晨，Ellie 的航班刚过八点降落在达特茅斯附近的机场，她租车开了两个半小时到 Maylarch 祖母家",
+   "anchor": "landing just after eight a.m. at the airport outside Dartmouth",
+   "start": 91,
+   "end": 153
+  },
+  {
+   "fact": "落地后她有七个未接来电，多数来自来访者，但其中三个来自播客主持 Helen Ashcroft",
+   "anchor": "seven missed calls, mostly from patients, but three from Helen Ashcroft",
+   "start": 325,
+   "end": 396
+  },
+  {
+   "fact": "祖母 Nana 在海边直接否定「那是编的」这个可能，说她从不是撒谎的孩子",
+   "anchor": "But you were never a child who lied, who made up stories.",
+   "start": 12489,
+   "end": 12546
+  },
+  {
+   "fact": "她把 James 昨晚求婚给的订婚戒指摘下来，装进小棉布袋塞进行李箱，James 并不知道她已回来",
+   "anchor": "I put it in a small cotton pouch, then stuffed it into my suitcase before I left.",
+   "start": 6790,
+   "end": 6871
+  },
+  {
+   "fact": "那一夜在岛上，她趁男人不注意把刻字的挂锁偷塞进雨衣口袋",
+   "anchor": "I slid the locket into the pocket of my raincoat",
+   "start": 21922,
+   "end": 21970
+  },
+  {
+   "fact": "风暴把岛推回海面，那个男人命令她立刻离开",
+   "anchor": "Storm is pushing the island back out to sea",
+   "start": 22458,
+   "end": 22501
+  },
+  {
+   "fact": "岛漂走时，那个男人在风里报出自己的名字 Clay Lockhart",
+   "anchor": "he answered into the wind, “Clay Lockhart.”",
+   "start": 24866,
+   "end": 24909
+  },
+  {
+   "fact": "就在她坐飞机抵达的当天早上，法罗群岛北岸的游客拍到了又一座不该存在的漂岛",
+   "anchor": "several tourists standing on the northern coast of the Faroe Islands",
+   "start": 31923,
+   "end": 31991
+  }
+ ]
+}
