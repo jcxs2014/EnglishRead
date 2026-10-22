@@ -35,7 +35,7 @@ modified: "2026-10-22"
 
 **读者视角提示**：把这一帧与她一路坚持的「我只是想问一句话」并排读；落差不是伪善的罪证，而是本章的论题——它稍后会由镜子和闪回亲手点破。
 
-> **原句 4:** "She’d heard the same story—Gazzie forcing Leon to feed the gators as a punishment, then one pulling him in—and interpreted the accident as murder. I could return to Greer House assured Gazzie was exactly who she’d said she was."
+> **原句 3:** "She’d heard the same story—Gazzie forcing Leon to feed the gators as a punishment, then one pulling him in—and interpreted the accident as murder. I could return to Greer House assured Gazzie was exactly who she’d said she was."
 
 **中文理解**：她听到的原来是同一个故事——Gazzie 把逼 Leon 去喂鳄鱼当惩罚，随后一头鳄鱼把他拖了进去——她把这个意外解读成了谋杀。我就可以放心回到 Greer House，确认 Gazzie 正是她自认的那个人。
 
@@ -43,9 +43,9 @@ modified: "2026-10-22"
 
 **为什么这样写**：破折号里的故事梗概全用动名词（forcing / pulling），一句之隔就被 interpreted A as B 的句式判成「误读」—— Dart 给对方的错判定罪的速度，比给祖母洗清的速度快得多。assured 一词把整段松弛封顶，而它依赖的宾语是 who she’d said she was：她安心的依据是别人讲给她、且由「她自己转述」的故事——二手材料在语法里全程在场，只是不被检查。
 
-**读者视角提示**：这一段的如释重负值得记下日期：它出现在 Nova 还在发抖、还尿了裤子的时候；读者的判断可以先于叙述者的判断，本章给足了两套身体证据。
+**读者视角提示**：这段安心落定得太快——对方只交出一句话，人还被困在她刚抵过的浴室里；「assured」到达的速度本身就是信息。读者的判断可以先于叙述者的判断，本章给足了两套身体证据。
 
-> **原句 5:** "And I was back on that playground twenty years ago, rage surging in my veins, my hands grasping at Michelle’s hair, her mouth forming a perfect O as she hit the ground."
+> **原句 4:** "And I was back on that playground twenty years ago, rage surging in my veins, my hands grasping at Michelle’s hair, her mouth forming a perfect O as she hit the ground."
 
 **中文理解**：我又回到了二十年前的那个操场——狂怒在血管里涌起，我的双手抓住 Michelle 的头发，她的嘴张成一个标准的 O 形，跌向地面。
 
@@ -55,7 +55,7 @@ modified: "2026-10-22"
 
 **读者视角提示**：Michelle 是谁、后来怎样，这一句都没有交代；读者只拿到一张定格——原来 Dart 的「暴力」有名字、有年代，且从未被处理过，只是被埋过。
 
-> **原句 6:** "I’d worked so hard to become a better person, and here I was, terrifying someone else. Maybe Gazzie wasn’t a murderer, but her passion for brutality was rubbing off on me. Her influence, and my exhaustion from everything happening at Greer House, had unearthed a part of me I thought I’d exorcised."
+> **原句 5:** "I’d worked so hard to become a better person, and here I was, terrifying someone else. Maybe Gazzie wasn’t a murderer, but her passion for brutality was rubbing off on me. Her influence, and my exhaustion from everything happening at Greer House, had unearthed a part of me I thought I’d exorcised."
 
 **中文理解**：我那么努力地想变成一个更好的人，可此刻的我，正在恐吓另一个人。也许 Gazzie 不是杀人犯，但她对暴力的热衷正一点点传染到我身上。她的影响，加上我在 Greer House 一连串事件里的耗尽力气，把我以为早已驱掉的自己挖了出来。
 

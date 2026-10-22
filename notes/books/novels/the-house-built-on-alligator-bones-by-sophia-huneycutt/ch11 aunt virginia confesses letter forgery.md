@@ -29,7 +29,7 @@ modified: "2026-10-22"
 
 **中文理解**：怪不得那封信让妈妈把邮件发给 Virginia 姨妈而不是 Gazzie。怪不得它声称 Gazzie 不查邮箱、不接电话。Virginia 姨妈是想赶在妈妈真的与 Greer 家重聚之前，先把谎话铺好。
 
-**关键词**：letter / lied / get ahead of / reunited
+**关键词**：letter / claimed / get ahead of / reunited
 
 **为什么这样写**：两个 Why 开头的句子是省略主句的名词性残句，语气是拼图落槽——Dart 把此前所有不合理处一次归位：邮箱地址、失联理由，全是仿签名这同一个动作的零件。get ahead of the lie 这个短语把谎话当成有位置的东西：谎不是临时起的意，是需要在真相到达前先站好岗的部署。before Mama actually reunited 藏着更冷的一层： Virginia 布局时假定重聚必然发生，信只负责修路。
 

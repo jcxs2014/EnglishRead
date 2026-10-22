@@ -10,7 +10,7 @@ modified: "2026-10-22"
 - **一句话概括**：Dart 攥着 Uncle Leon 的 papers 在 Henri 家被 Aunt Virginia 接进客厅，火边一问到底：Virginia 抖出那夜的完整经过——Gazzie 罚想上大学的 Leon 在农场过夜，回来时下巴带血、要她烧衣服作伪证；Caroline 揭发 Gazzie 打了 Leon、确认他没脉搏后把他滚进水里惹鳄鱼拖走尸体。同夜还抖出 Caroline 未婚先孕、因「Greer line was tainted by Ida's blood」而出走；Dart 随即自曝「I killed Mama, too」，把 Leon 的 records 换进 Henri 门边的报纸袋后冒雨走向海堤。
 - **情感弧线位置**：全书压抑到崩点的一章。开头紧张（breath came in short bursts）、中段是替 Gazzie 找「less incriminating explanation」的挣扎、真相落地后转为对自身的清算（"Am I?" 的追问与「I killed Mama」的自首）；结尾情绪翻向暴烈的冲动——想推倒 Virginia、听骨头断裂的声音，随后是雨里麻木的行走。
 - **Tropes 兑现/反转**：兑现「家族秘密在炉边一次摊牌」与「血污证人」桥段；反转发在认罪方向：读者以为要清算的是 Gazzie，Dart 却把自己摆进罪人席；而 Virginia 的「我也在场却沉默」把「唯一清醒的旁观者」形象一并拆掉。
-- **人物弧线**：Virginia 从照顾者（offer water bottle、"Should you drink more, honey?"）转为供述者，最后自认「my job was to support the family… That was my inheritance」；Dart 从攥紧 papers 拒绝放手，到主动说出 Harrison 已 confess 农场破坏，并把 records 藏进报纸袋——从被安置的人变成开始行动的人。
+- **人物弧线**：Virginia 从照顾者（递上 water bottle、"Should you drink more, honey?"）转为供述者，最后自认「my job was to support the family… That was my inheritance」；Dart 从攥紧 papers 拒绝放手（"I refused, clutching them tighter in one arm"），到主动说出 Harrison 已 confess 农场破坏，并把 records 藏进门边报纸袋——从被安置的人变成开始行动的人。
 - **叙事手法**：口述长供词被拆成层层追问（"Uncle Leon," I said firmly. / "What?" / "Or what?"），叙述者随时插进身体反应（stomach turned、feet too hot）标记证词的代价；「Tainted」一词在供词落地后被她单独接住充当钉子；结尾以风暴行程（Cat Two、four hours before Flora hits）给全章上时限。
 
 ## 精读
@@ -61,7 +61,7 @@ modified: "2026-10-22"
 
 **关键词**：taught her children / listened to every word / college tuition / punishment
 
-**为什么这样写**：施害链条正式接到下一代——「as Ida had taught her」一句就把重复讲完，不需要旁证。随后紧跟着 Caroline 的反应是「thought Leon was betraying the family, betraying her」：背叛一词先于暴力出现，读者可以据此给当晚定性地。
+**为什么这样写**：施害链条正式接到下一代——「as Ida had taught her」一句就把重复讲完，不需要旁证。被 … 略过的中段里，Caroline 的态度只有一句『thought Leon was betraying the family, betraying her』：在 Gazzie-Caroline 这套语法里，想离开就等于背叛——这正是给紧随其后的 punishment 定的性。
 
 **读者视角提示**：这一夜「罚过夜」之后发生什么尚未交代，而讲述到此处 voice caught、swiped at her eyes——她自认也递过一句话（"he might actually enjoy the work"）；她的 peacemaker 角色（"Act as peacemaker. That was my inheritance."）是她后面所有沉默的伏线。
 
@@ -71,11 +71,11 @@ modified: "2026-10-22"
 
 **关键词**：intentional / didn’t have a pulse / rolled him into the water / prod / make it look like an accident
 
-**为什么这样写**：三个动词短语排成一条处理尸体的工序（rolled、grabbed、riled up），节奏比前面的抒情句快得多——证词到最狠处反而最不带形容。全章开头 Dart 愿意原谅的 negligence 在这里正式作废：这不是疏忽，是「make it look like」的主动伪造。
+**为什么这样写**：三个动词短语排成一条处理尸体的工序（rolled、grabbed、riled up），节奏比前面的抒情句快得多——证词到最狠处反而最不带形容。全章开头叙述者愿意原谅的 negligence 在这里正式作废：这不是疏忽，是「make it look like」的主动伪造。
 
-**读者视角提示**：prod 一词在本章形成一组镜像：供词里它被用来把尸体拖进水下，而叙述者稍后自陈曾做出「swiping the cattle prod across his face」的动作——听供的人与施暴的人被同一件工具穿起来。
+**读者视角提示**：掩盖其实有两道工序——earlier 『Told me to burn her clothes and say she’d been with me all evening if the police asked』 处理的是活人的行踪，这一段处理的是死人的伤口。prod 一词又和本章后文形成一组镜像：叙述者自陈曾做出「swiping the cattle prod across his face」的动作——听供的人与施暴的人被同一件工具穿起来。
 
-> **原句 9:** "She said the Greer line was tainted by Ida’s blood. That she wanted to leave, to give her child a fighting chance to be good."
+> **原句 7:** "She said the Greer line was tainted by Ida’s blood. That she wanted to leave, to give her child a fighting chance to be good."
 
 **中文理解**：她说 Greer 这一脉的血已经被 Ida 污染了；她要离开，好让自己的孩子有一个争取变好的机会。
 
@@ -85,7 +85,7 @@ modified: "2026-10-22"
 
 **读者视角提示**：她对这个词的接住只有一句「Tainted.」；对照后文——「"My mother told me I was born with a devil inside. She meant Ida."」——读者会看见同一句话在她童年里早已以另一种版本运行过。
 
-> **原句 10:** "“I killed Mama, too,” I said, the words falling like stones from my lips."
+> **原句 8:** "“I killed Mama, too,” I said, the words falling like stones from my lips."
 
 **中文理解**：「我也杀了 Mama，」她说，话像石头一样从唇上掉下来。
 
@@ -95,7 +95,7 @@ modified: "2026-10-22"
 
 **读者视角提示**：紧接的下一段写道「I’d suspected it right after she’d died… I just hadn’t been brave enough to face it」，而听供的人回应「That’s not true. How could you have caused a heart attack?」——她具体的作案动作本章没有展开，只落下这句自首和这份没有被接受的自责。
 
-> **原句 11:** "“Harrison told me to ask what Gazzie did,” I said, relishing the shocked expression spreading across her face. “He’s behind the sabotage at the farm.”"
+> **原句 9:** "“Harrison told me to ask what Gazzie did,” I said, relishing the shocked expression spreading across her face. “He’s behind the sabotage at the farm.”"
 
 **中文理解**：「是 Harrison 让我去问 Gazzie 到底做了什么，」她说，一边品着对方脸上炸开的震惊，「农场的那些破坏就是他干的。」
 
@@ -103,7 +103,7 @@ modified: "2026-10-22"
 
 **为什么这样写**：听到一整套家族血案的人，最后一张牌却握在她自己手里——relishing 一词透出攻击性的快感：用「我已知道 Harrison confess」把对面的人钉在听众席上。
 
-**读者视角提示**：她「sensed」Leon 的 papers 与这些罪行「would be the final key in unraveling his death」，但本章刻意不拼上那把钥匙——它被换进 Henri 门外的报纸袋，动作先于结论，留给后续章节。
+**读者视角提示**：她「sensed」手里那叠 papers「would be the final key in unraveling his death」，却偏不当场拼这把钥匙——把 records 换进门口报纸袋的动作做完了，结论一个字没给。
 
 ## 本章词汇
 
