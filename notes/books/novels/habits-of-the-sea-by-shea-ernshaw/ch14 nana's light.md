@@ -148,19 +148,7 @@ source_text: ch14
 
 ---
 
-> **原句 12:** "“I still keep the light on for you, just like your nana always did, every night.” He flashes a look to the house, where the porch light glows golden and steady."
-
-**中文理解**："我还是每晚给你留着灯，就像你 Nana 一直做的那样。"他朝房子那边瞥了一眼，门廊的灯亮着，金黄、稳定。
-
-**关键词**：I still keep the light on for you / just like your nana always did / the porch light glows golden and steady
-
-**为什么这样写**：全书写过多次"灯"：海上的船灯、Nana 门廊的灯、她在法罗群岛夜里看见的岛上的光。作者在这里把灯交到 James 手里，让它变成一个替她守夜的仪式——他替 Nana 继续点灯，而 Nana 当年点灯是"让月光别忘了我们"。
-
-**读者视角提示**：记住这盏灯。它同时属于三个人：Nana、James、和那个还没回来的人。
-
----
-
-> **原句 13:** "He nods. “I flew out to see her a couple times a year. On the anniversary of when you went missing, and again for her birthday. I made sure she was okay. And I think after we got your note, and she knew you were safe, she stopped fighting so hard. She didn’t have to stay to wait for you.”"
+> **原句 12:** "He nods. “I flew out to see her a couple times a year. On the anniversary of when you went missing, and again for her birthday. I made sure she was okay. And I think after we got your note, and she knew you were safe, she stopped fighting so hard. She didn’t have to stay to wait for you.”"
 
 **中文理解**：他点头。"我一年飞过来看她两回。你失踪那天的周年，还有她生日。我得确认她没事。我想，等我们收到你的字条、她知道你平安之后，她就不再那么拼命撑着了。她不必再留下来等你。"
 
@@ -169,6 +157,18 @@ source_text: ch14
 **为什么这样写**：这一段把"她的失踪"造成的实际后果一件件结算：一个老人每年两次飞过来、一个祖母靠"等"活着、而那张字条反而成了她放手的许可。作者没有写"她很难过"，只写"她不必再留下来等你了"——把死亡写成一次被允许的休息。
 
 **读者视角提示**：记住"她不必再留下来等你"。这是全书对 Nana 的死唯一一次解释，也是 Ellie 欠下的最大一笔债。
+
+---
+
+> **原句 13:** "“I still keep the light on for you, just like your nana always did, every night.” He flashes a look to the house, where the porch light glows golden and steady."
+
+**中文理解**："我还是每晚给你留着灯，就像你 Nana 一直做的那样。"他朝房子那边瞥了一眼，门廊的灯亮着，金黄、稳定。
+
+**关键词**：I still keep the light on for you / just like your nana always did / the porch light glows golden and steady
+
+**为什么这样写**：全书写过多次"灯"：海上的船灯、Nana 门廊的灯、她在法罗群岛夜里看见的岛上的光。作者在这里把灯交到 James 手里，让它变成一个替她守夜的仪式——他替 Nana 继续点灯，而 Nana 当年点灯是"让月光别忘了我们"。
+
+**读者视角提示**：记住这盏灯。它同时属于三个人：Nana、James、和那个还没回来的人。
 
 ---
 
