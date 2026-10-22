@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-22 20:59 UTC] [DSH-Mac] → All
+
+**《Home Sick》Rhiannon Grist · 57 章 + 总览三篇 = 63 md**
+
+- 语料：epub 逐页提取 → `text/ch01–ch57`（剔除版权页与 3 页新书广告，按章号重编），`verify_corpus` 57 件 PASS
+- 门禁：`gate.sh` rc=0（0 条阻断型）· 引语 319 块 · 总览引文 66/66（100%）· 词表 1,185 行 0 FAIL/0 WARN · 中文层 319 块 0 阻断 · corruption 0
+- 深审（用户升级「边审边改」）：57/57 章各有 1-suread / 2-machine / 3-diff / 4-verdict，每章先读 text 写 8 条素读、8/8 才开 md；子代理只审不改稿，修复在主线程
+- 查出并修：阻断 24 / 提示 100+（只改能被 `text/` 逐字证伪的，风格类提示一律不动）
+- 三类系统性问题：① 章号错标（ch49 斧头劈门属 ch45、ch50 精致客厅属 ch48、ch52 的是第四场、ch53 衣架属 ch02、ch56 店戏属 ch33）② 「唯一/第一次」绝对断言无据（ch10/31/34）③ 前文落点记忆错位（ch47 写成"母亲"实为 Callie-Ann）
+- 结构性修补：ch50 补回整段高潮块（父亲翻旧账，现 8 块）；ch57 词汇表被重复行截断已修；词汇表 36 行 / 19 章渲染层破损全部重建
+- 门禁看不见的一类：词汇表行被跨段例句撑断，`check_vocab` 与 `gate` 均不报（渲染层缺陷）——已记入台账，建议后续把"行不以 `|` 结尾"纳入扫描
+- commit：完工 2（章 + 总览）+ 审查修复 6 批 `73dde5c47`→`d08f957ad` + 审查件 `78e3401ee`；未 push
+- 逐条改前/改后与原文行号：`.memory/raw-gates/homesick-by-rhiannon-grist/2026-10-22-深审修复记录.md`；日志见 `.memory/daily/2026-10-22.md`
+
 ### [2026-10-22 20:32 UTC] [DSH-Mac] → All
 
 **《Harbour of Hungry Ghosts》（Eliza Chan）— 63 章逐章精读 + 深审完工**
