@@ -9,9 +9,9 @@ source_text: ch22
 
 ## 本章导航
 
-- **一句话概括**：Tamsin 扔下 Rowan 追出五金店，撞上那位推着轮椅的老科学家——他就是克隆羊多莉研究组的成员；他一边推着打鼾的妻子走，一边告诉她多莉真正让人害怕的不是克隆，而是"复制"；临别他说"等你准备好了，她会帮你"，又补一句"如果你是你所说的那个人"。
+- **一句话概括**：Tamsin 扔下 Rowan 追出五金店，撞上那位推着轮椅的老人——Fergus 昨晚说他当年参与过多莉的项目，可他本人只回一句"我是个什么东西，没错"；他一边推着打鼾的妻子走，一边告诉她多莉真正让人害怕的不是克隆，而是"成双"——凭空多出一个你；临别他说"等你准备好了，她会帮你"，又补一句"如果你是你所说的那个人"。
 
-- **情感弧线位置**：全书第一次有人正面回应她的处境，但回应方式是谜语：她得到的不是证据，而是一套关于"复制"和"身份"的说法，正好卡在她"我是不是我"的恐惧上。
+- **情感弧线位置**：第一次有人把她的处境讲成一整套关于复制与身份的说法，但回应方式是谜语：她得到的不是证据，而是一套关于"复制"和"身份"的说法，正好卡在她"我是不是我"的恐惧上。他给她的判据是：多莉共享了另一只羊的 DNA，可多莉仍是多莉自己的羊。
 
 - **Tropes 兑现/反转**：仙族换子/二重身母题被换成科学版本——克隆、倒影、影子、雾中遇见自己；老头把民俗恐怖翻译成生物学，又用"人不止是 DNA"把它推回神秘。
 
@@ -59,7 +59,7 @@ source_text: ch22
 
 **为什么这样写**："ploughing"（犁地般前行）把一个推轮椅的老人写成不可阻挡的东西；"still snoring"提醒读者她全程没醒。最后一句不加引号、不加"他说"，直接落成一行——它已经变成她自己的念头了。
 
-**读者视角提示**：这是他给她的最后一句，也是本章的标题句。注意它是条件句：不是"你就是"，是"如果你就是"。
+**读者视角提示**：这是他给她的最后一句，也是全章收束的那句。注意它是条件句：不是"你就是"，是"如果你就是"。
 
 ## 本章词汇
 
@@ -74,12 +74,10 @@ source_text: ch22
 | spritely | 活泼轻快的 | The old man wheeled his wife toward the bridge, closely followed by his spritely trotting sheepdog. |
 
 
-The old man wheeled his wife toward the bridge, closely followed by his spritely trotting sheepdog. |
 | ewe | 母羊 | “They were only trying to increase the amount of milk a ewe could produce. |
 | ploughing | 犁地般前行，奋力推进 | And he disappeared out over Bodach’s Brig, pushing his still snoring wife over the bridge, ploughing on steadily and unhindered by the cobbles. |
 
 
-And he disappeared out over Bodach’s Brig, pushing his still snoring wife over the bridge, ploughing on steadily and unhindered by the cobbles. |
 
 ### ⭐⭐ 进阶
 
@@ -88,11 +86,9 @@ And he disappeared out over Bodach’s Brig, pushing his still snoring wife over
 | unhindered | 无阻碍的 | And he disappeared out over Bodach’s Brig, pushing his still snoring wife over the bridge, ploughing on steadily and unhindered by the cobbles. |
 
 
-And he disappeared out over Bodach’s Brig, pushing his still snoring wife over the bridge, ploughing on steadily and unhindered by the cobbles. |
 | cobbles | 鹅卵石 | And he disappeared out over Bodach’s Brig, pushing his still snoring wife over the bridge, ploughing on steadily and unhindered by the cobbles. |
 
 
-And he disappeared out over Bodach’s Brig, pushing his still snoring wife over the bridge, ploughing on steadily and unhindered by the cobbles. |
 | eyelid | 眼睑 | “But there was the problem: Clone a bit of tissue and no one bats an eyelid. |
 | antibiotics | 抗生素 | What those scientists did was no different to the creation of the first vaccine, antibiotics, surgery, and no one pitches a fit about those. |
 | gleeful | 幸灾乐祸的，得意的 | Hmm?” He glared at me with gleeful accusation. |
@@ -110,11 +106,9 @@ And he disappeared out over Bodach’s Brig, pushing his still snoring wife over
 | guilt | 愧疚 | I flinched at the mention of her, guilt crawling over me like ants, then marched out of Rowan’s store and ran after the old man. |
 
 
-I flinched at the mention of her, guilt crawling over me like ants, then marched out of Rowan’s store and ran after the old man. |
 | bridge | 桥 | And he disappeared out over Bodach’s Brig, pushing his still snoring wife over the bridge, ploughing on steadily and unhindered by the cobbles. |
 
 
-The old man wheeled his wife toward the bridge, closely followed by his spritely trotting sheepdog. |
 | river | 河 | We walked alongside the river past the memorial. |
 | glasses | 眼镜 | “Can I help you, young lady?” He stared at me through those thick glasses, his eyes large and insect-like, all-seeing. |
 | flower | 花 | He waved a hand toward the flower display at the end of the road. |
@@ -122,4 +116,4 @@ The old man wheeled his wife toward the bridge, closely followed by his spritely
 
 ## 一句话总结
 
-她追上一个知道内情的老科学家，听他用多莉的故事讲"复制"为什么让人恐惧，最后得到的不是答案，而是一句条件句——"如果你是你所说的那个人"。
+她追上一个知道内情的老头，听他用多莉的故事讲"成双"为什么让人恐惧，最后得到的不是答案，而是一句条件句——"如果你是你所说的那个人"。

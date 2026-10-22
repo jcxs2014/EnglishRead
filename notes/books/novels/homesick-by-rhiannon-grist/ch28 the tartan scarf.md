@@ -81,18 +81,15 @@ source_text: ch28
 
 
 
-Through the mottled glass in the door was a silhouette I didn’t immediately recognise. |
 | silhouette | 剪影 | Through the mottled glass in the door was a silhouette I didn’t immediately recognise. |
 
 
 
-Through the mottled glass in the door was a silhouette I didn’t immediately recognise. |
 | illicit | 非法的，不正当的 | I am charging you with the crime of grand illicit gardening. |
 | flatbed | 平板货车 | Parked behind my car on the driveway was a muddy, navy flatbed truck with the hardware store’s name along the side and a learner’s ‘L’ stuck in the windshield. |
 | papery | 纸质般薄脆的 | I headed down the steps to Rowan’s truck, kicking through the papery seeds from the elm tree. |
 
 
-I looked up and down the driveway littered with papery elm seeds. |
 | vicious | 凶恶的，狠的 | Still as vicious as ever. |
 | affectionate | 亲昵的 | Rowan gave her elbow an affectionate squeeze. |
 
@@ -115,7 +112,6 @@ I looked up and down the driveway littered with papery elm seeds. |
 | scarf | 围巾 | “Sorry to bother you”—she squinted inside the house—“but Viv said you left this at the pub last night.” She held out a tartan scarf. |
 
 
-She held out a tartan scarf. |
 | hoodie | 连帽衫 | I went indoors and grabbed my hoodie—despite sleeping on it, it was the only clean top layer I had left—and my house key. |
 | driveway | 车道 | Parked behind my car on the driveway was a muddy, navy flatbed truck with the hardware store’s name along the side and a learner’s ‘L’ stuck in the windshield. |
 | truck | 货车 | Parked behind my car on the driveway was a muddy, navy flatbed truck with the hardware store’s name along the side and a learner’s ‘L’ stuck in the windshield. |

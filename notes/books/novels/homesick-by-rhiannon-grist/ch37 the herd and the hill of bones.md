@@ -116,7 +116,6 @@ source_text: ch37
 
 
 
-A wren trilled in the branches above. |
 | tusks | 獠牙 | I saw Fergus rooting through the undergrowth, tusks protruding from his wide smirking mouth. |
 | claws | 爪子 | My fingers, rubbing my arms, now sported a set of sharp claws. |
 | corpses | 尸体 | Only now the forest floor was an open grave filled with skeletons and rotting corpses. |

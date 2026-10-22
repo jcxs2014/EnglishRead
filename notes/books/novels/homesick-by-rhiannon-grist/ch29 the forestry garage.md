@@ -67,9 +67,9 @@ source_text: ch29
 
 **关键词**：I immediately found myself / crash the truck just right / save myself
 
-**为什么这样写**：全章唯一一句真正的恐怖，而且它不来自 Rowen，来自她。作者用"immediately"把反应写成反射，用"just right"把残忍写成一道几何题——她已经不是那个被吓到的人，她是一个随时准备动手的人。
+**为什么这样写**：全章唯一一句真正的恐怖，而且它不来自 Rowan，来自她。作者用"immediately"把反应写成反射，用"just right"把残忍写成一道几何题——她已经不是那个被吓到的人，她是一个随时准备动手的人。
 
-**读者视角提示**：这一句把前十七章的"自卫"叙事彻底翻面：她现在评估每一个人的杀伤力，包括对她好的人。
+**读者视角提示**：这一句把前二十八章的"自卫"叙事彻底翻面：她现在评估每一个人的杀伤力，包括对她好的人。
 
 ## 本章词汇
 
@@ -108,17 +108,13 @@ source_text: ch29
 | banned | 被禁的 | “How long were you banned for?” |
 
 
-“How long were you banned for?”
 
 
-“Six months.”
 
 
-“Six months? |
 | saluted | 敬礼 | Rowan saluted. “I consider myself telt.” |
 
 
-Rowan saluted. |
 | scrunched | 皱起 | Her eyebrows scrunched together even more, which was impressive. |
 | shed | 棚屋 | It had the same lovely, musty, earthy smell as a garden shed. |
 

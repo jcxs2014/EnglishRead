@@ -75,11 +75,9 @@ source_text: ch24
 | extricated | 脱身，解脱 | The woman extricated herself from her adoring audience, her bright eyes sweeping the ceiling for a moment. |
 
 
-The woman extricated herself from her adoring audience, her bright eyes sweeping the ceiling for a moment. |
 | self-deprecation | 自嘲 | She grinned at her own self-deprecation, then put the pint back to her lips. |
 
 
-She grinned at her own self-deprecation, then put the pint back to her lips. |
 
 ### ⭐⭐ 进阶
 

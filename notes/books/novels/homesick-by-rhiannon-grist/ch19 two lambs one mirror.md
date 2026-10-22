@@ -102,7 +102,6 @@ source_text: ch19
 
 
 
-I put on fresh clothes, grabbed my key and left. |
 
 
 ## 一句话总结

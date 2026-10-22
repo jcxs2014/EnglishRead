@@ -119,7 +119,6 @@ source_text: ch34
 
 
 
-I stumbled down onto the main street, focusing my gaze on the pavement, my head abuzz with that high ringing. |
 | fist | 拳头 | My fist trembled around the needle. |
 | bridge | 桥 | Before anyone could say or do anything, I straightened my back, looked away from the onlookers and marched over the bridge and out of town in the silence I had made. |
 | throat | 喉咙 | Only the great animal fuck-you and leave-me-alone uproar, exploding from my lips and leaving my throat ragged. |

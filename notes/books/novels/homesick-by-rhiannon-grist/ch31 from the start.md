@@ -100,7 +100,6 @@ source_text: ch31
 | bristling | 竖起，因愤怒或戒备而绷紧 | “That must have felt good,” I said, envy bristling my skin. |
 
 
-“That must have felt good,” I said, envy bristling my skin. |
 | righteous | 正当的，理直气壮的 | It just taught me my anger was always righteous—my anger was the only way to keep me safe from being that helpless kid again. |
 | headlocks | 锁头（摔跤动作） | Once I’d done that, he’d put me into headlocks or sit on me or what have you. |
 | corkscrew | 开瓶器 | Then, as I was opening a bottle of wine, the corkscrew I was using broke in my hand. |
@@ -115,7 +114,6 @@ source_text: ch31
 | stifled | 忍住（笑、声音） | I stifled a laugh at the image. |
 
 
-I stifled a laugh at the image. |
 | twiddled | 捻弄 | The”—he twiddled a finger—“screw bit snapped right off, still stuck in the cork.” |
 | molehills | 小土堆（"小题大做"中的"小"） | Mountains and molehills and that. |
 | interrogate | 盘问 | No need to interrogate it.” |
@@ -136,23 +134,17 @@ I stifled a laugh at the image. |
 | mud | 泥 | He said something else, but I didn’t hear him as I marched back down the mud road. |
 
 
-“It’s a long walk.”
 
 
-“I like walking.”
 
 
-He said something else, but I didn’t hear him as I marched back down the mud road. |
 | wind | 风 | The wind whipped around us. |
 
 
-“I’m sorry.”
 
 
-“Good.”
 
 
-The wind whipped around us. |
 
 
 ## 一句话总结

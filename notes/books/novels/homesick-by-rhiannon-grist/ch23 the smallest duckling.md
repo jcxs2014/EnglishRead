@@ -96,7 +96,6 @@ source_text: ch23
 | photos | 照片 | The ducklings paddled after their mother along the river and the women left, swiping through photos, picking which ones to post. |
 
 
-The ducklings paddled after their mother along the river and the women left, swiping through photos, picking which ones to post. |
 | bone | 骨头 | I felt the memory of a wet crunch of bone shuddering up my arms. |
 | skull | 头骨 | The old ringing buzzed through my skull and my head ached. |
 | crumbs | 碎屑 | The women threw crumbs of the pastries and cakes they’d bought at the café into the river. |
@@ -105,7 +104,6 @@ The ducklings paddled after their mother along the river and the women left, swi
 
 
 
-I checked to see if my shadow was still attached to my feet. |
 
 
 ## 一句话总结
