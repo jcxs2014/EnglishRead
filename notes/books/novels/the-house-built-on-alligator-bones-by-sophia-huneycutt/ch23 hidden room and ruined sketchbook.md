@@ -57,7 +57,7 @@ modified: "2026-10-22"
 
 > **原句 5:** "It’s like Caroline says. The Greers built their fortune on alligator bones. Can’t escape a past like that without a bit of the devil in you."
 
-**中文理解**："就像 Caroline 说的。Greer 家把财富盖在了鳄鱼骨头上。那样的过去，心里没带一点魔鬼，你逃不掉。"
+**中文理解**：就像 Caroline 说的：Greer 家把财富盖在了鳄鱼骨头上。那样的过去，心里没带一点魔鬼，你逃不掉。
 
 **关键词**：Caroline / fortune / alligator bones / devil
 

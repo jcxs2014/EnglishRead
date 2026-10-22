@@ -47,7 +47,7 @@ modified: "2026-10-22"
 
 > **原句 4:** "“What I need,” she said to me, stepping closer, her pointer finger five inches from my nose, “is for you to digitize those files. If you can manage it.”"
 
-**中文理解**："我需要的，"她对我说着上前一步，食指停在离我鼻子五英寸的地方，"是你把那些文件数字化。如果你做得到的话。"
+**中文理解**：「我需要的，」她对我说着上前一步，食指停在离我鼻子五英寸的地方，「是你把那些文件数字化。如果你做得到的话。」
 
 **关键词**：digitize / pointer finger / manage
 

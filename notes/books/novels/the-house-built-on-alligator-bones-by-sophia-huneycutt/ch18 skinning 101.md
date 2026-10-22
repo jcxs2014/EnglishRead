@@ -47,7 +47,7 @@ modified: "2026-10-22"
 
 > **原句 4:** "“It’s been like this since I started working here five years ago. Things constantly leaking, breaking.” Eyeing me, he added, “But I’ve got it under control.”"
 
-**中文理解**："从我五年前来这儿干活起就一直这样。东西没完没了地漏、坏。"他瞟了我一眼，又补一句："不过我控制得住。"
+**中文理解**：「从我五年前来这儿干活起就一直这样。东西没完没了地漏、坏。」他瞟了我一眼，又补一句：「不过我控制得住。」
 
 **关键词**：five years ago / constantly leaking / under control
 
@@ -107,7 +107,7 @@ modified: "2026-10-22"
 
 > **原句 10:** "“Gazzie mentioned things going missing last week,” I said casually, hoping the statement was vague enough to fool him into thinking I knew what I was talking about. “Folks down on their luck and all that.”"
 
-**中文理解**："Gazzie 提过上周有东西不见了，"我故作随意地说，希望这话含糊到足以骗他以为我知道内情。"都是些走投无路的人干的事，之类的。"
+**中文理解**：「Gazzie 提过上周有东西不见了，」我故作随意地说，希望这话含糊到足以骗他以为我知道内情。「都是些走投无路的人干的事，之类的。」
 
 **关键词**：going missing / casually / fool him / down on their luck
 

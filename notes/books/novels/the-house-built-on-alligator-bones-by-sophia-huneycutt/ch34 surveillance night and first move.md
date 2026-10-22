@@ -27,7 +27,7 @@ modified: "2026-10-22"
 
 > **原句 2:** "“You won’t find a sparkling gator walking on its hind legs,” Gazzie said, leading us to her SUV. … “Nothing so obvious. Look for shadows that move funny. Water pooling where it shouldn’t. That sort of thing.”"
 
-**中文理解**："你不会找到一条用后腿走路、闪闪发光的鳄鱼，"Gazzie 带他们走向她的 SUV 时说。……"没那么明显的东西。找那些移动得怪异的影子。不该积水的地方积了水。就这类东西。"
+**中文理解**：「你不会找到一条用后腿走路、闪闪发光的鳄鱼，」Gazzie 带他们走向她的 SUV 时说。……「没那么明显的东西。找那些移动得怪异的影子。不该积水的地方积了水。就这类东西。」
 
 **关键词**：sparkling / hind legs / pooling / funny
 
@@ -57,7 +57,7 @@ modified: "2026-10-22"
 
 > **原句 5:** "I fixated on brushing my teeth a certain number of minutes. And tapping doorknobs, stepping on thresholds a certain number of times. I fully believed that if I didn’t, someone would suffocate my mother in her sleep."
 
-**中文理解**："我执着于按固定的分钟数刷牙。还有敲门把手、踩门槛，都要按固定的次数。我完全相信，如果不那样做，就会有人在我母亲熟睡时把她捂死。"
+**中文理解**：「我执着于按固定的分钟数刷牙。还有敲门把手、踩门槛，都要按固定的次数。我完全相信，如果不那样做，就会有人在我母亲熟睡时把她捂死。」
 
 **关键词**：fixated / thresholds / fully believed / suffocate
 
@@ -77,7 +77,7 @@ modified: "2026-10-22"
 
 > **原句 7:** "But I turned my head and you were standing by that table, so serious. Then you started cutting—and you did it with such professionalism right away. You’re the most determined person I’ve ever met."
 
-**中文理解**："但我转过头，你就站在那张案台旁边，那么认真。然后你开始下刀——你一上手就有那样的专业。你是我见过的最坚定的人。"
+**中文理解**：「但我转过头，你就站在那张案台旁边，那么认真。然后你开始下刀——你一上手就有那样的专业。你是我见过的最坚定的人。」
 
 **关键词**：so serious / cutting / professionalism / determined
 
