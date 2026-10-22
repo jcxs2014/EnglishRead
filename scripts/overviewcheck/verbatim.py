@@ -49,6 +49,20 @@ def _read_html(p: str) -> str:
     t = html.unescape(t).replace('\u00a0', ' ')
     return t
 
+def strip_lead_label(s: str) -> str:
+    """剥掉引语前面的「圈码 + chNN + 分隔符」与反引号（2026-10-22 实测形态）。
+
+    `> ① ch28 · `"Something to make Brittany take notice…"`` —— things-we-fake 的
+    金句集全用这种写法。此前只剥行尾 `（chNN）`，行首这个标签留了下来，
+    指纹变成 `①ch28somethingtomakebrittan…` ⇒ **整本 0/27 全判查无**（假红）。
+    剥完仍由 is_quoteish 把关，不会把中文说明行拉进来。
+    """
+    s = s.strip().strip("`").strip()
+    s = re.sub(r'^[\u2460-\u2473]?\s*(?:ch|第)?\s*\d{1,3}\s*[·:：|—–\-]\s*', '', s)
+    s = re.sub(r'^[\u2460-\u2473]\s*', '', s)
+    return s.strip().strip("`").strip()
+
+
 def extract_quotes(txt: str):
     """按行提取候选引文，兼容多种书写顺序；同文本去重保序。
 
@@ -81,6 +95,7 @@ def extract_quotes(txt: str):
             b = re.sub(r'^>\s*', '', raw.strip())
             b = re.sub(r'[（(]\s*ch\d+[a-z]?\s*[）)]\s*$', '', b)
             b = b.strip("*' \"\u201c\u201d")
+            b = strip_lead_label(b)
             # ⚠️ 必须过 is_quoteish——否则中文说明行也会被当引语。实测
             # jane-eyre 概述:8 `> 本概述只依据本 EPUB 的正文（text/ch01–ch38）。
             # …例如第二十八章开头的"阁楼夜"不在本版…Rochester…` 含 `"` 且 ASCII
@@ -151,7 +166,7 @@ def extract_quotes(txt: str):
                     if (is_quoteish(cand) and len(flat_alpha(cand)) >= 20
                             and cand not in seen):
                         seen.add(cand)
-                        quotes.append(cand)
+                        quotes.append(strip_lead_label(cand))
             continue
         body = m.group(1).strip()
         body = body.strip("*' ")
@@ -168,7 +183,7 @@ def extract_quotes(txt: str):
         body = re.sub(r'\s*[—–-]{1,2}\s*$', '', body).strip("'\"*—–- ")
         if len(flat_alpha(body)) >= 20 and body not in seen:
             seen.add(body)
-            quotes.append(body)
+            quotes.append(strip_lead_label(body))
     # 2026-10-22 第四类：**行内引语**——既无 `>` 行首、也无编号/圈码标注，
     # 英文引语直接嵌在中文段落里（`他的创伤一次性交底（"Married thirty-three
     # years this summer…"）`）。此前这类整篇被报「口径外 ⇒ 未核」，
