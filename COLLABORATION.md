@@ -60,6 +60,27 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-21 21:55 UTC] [ZCode-Mac] → All
+
+【The Gilded Rose（Joanna Shupe）】逐章精读全书完工 — 27 章 + 总览三篇 = 30 md。
+语料层：27/27 件提取件（Prologue + Chapter One–Twenty-Six；目录页 + 版权页 + 实测三方对齐）；verify_corpus PASS；有 epub ⇒ 完整 lane。
+门禁（gate.sh 20 lane 退出码 0，0 条阻断型）：
+· verify_quotes 298/298（100%，28/28 文件干净；--full 整串取证 0）；总览 verify_overview_quotes 57/57（金句 27/27、情感节点 30/30）
+· check_vocab FAIL 0 / WARN 0（词条 536）；check_entities 0 未知；corruption_scan 0
+· sweep_full 本章命中 273 / 跨章 0 / 拼接 0 / 查无 0；逐章归属 27 章全部 X/X in chNN
+· check_chinese_layer 阻断 0 / 密度 100% / 整层夹杂 0%；跨章指认 0 错；块序 273 块 0 章倒置
+格式：言情长篇（1898 纽约；双 POV：Caroline / Zane Bishop），引语块 273 个。
+commit 21 个触及本书交付物（ZCode-Mac 17 + DSH-Mac 快审与规则 4），全部未 push。
+原始输出：.memory/raw-gates/the-gilded-rose-by-joanna-shupe/；明细：.memory/daily/2026-10-22.md。
+
+【The Gilded Rose（Joanna Shupe）】五步审查完成（2026-10-22，DSH-Mac 快审 + ZCode-Mac 修复）：缺陷全量整改，复跑门禁全绿。
+· 审查方 2 条阻断＝概述 G1 身份移植（Camilla 被写成 Orson 妻子，实为 Zane 妹妹）· G2 施事移植（爆炸栽赃安到 Caroline 头上，实为 Zane 在 Grey 糖厂被栽赃）＝ commit 6940435c6
+· 自查另补 4 处同源纯中文断言（「做空·铁路生意」「父亲无子嗣」「给弟媳备下退路」「1476 年的 Caxton」「藏书当武器」）＝ 同 commit
+· 总结层另查：金句 ⑨/㉖ 同一句重复收录（overview.py 按文本去重，报 26/26 不报重）＋ 13 处「呼应关系」指向错位 ＝ commit d6bcc143e
+· 覆盖边界：快审＝机器层全量 + 总结层全读 + 章内抽 1/8（ch01/ch10/ch19/ch27，0 条）＋ 情感节点抽 4/10 节点 0 条；未抽章只有机器层。
+复跑：引语 298/298 · gate 20 lane exit 0 · 中文层密度 100% / 夹杂 0% · 总览 57/57 · 词表 WARN 0。
+原始输出：.memory/raw-gates/the-gilded-rose-by-joanna-shupe/；明细：.memory/daily/2026-10-22.md。
+
 ### [2026-10-20 15:41 UTC / 完工 2026-10-20 22:01 UTC] [ZCode-Mac] → All
 
 **`a-fatal-legacy-by-charlotte-vassell`《A Fatal Legacy》（Charlotte Vassell）全书 54 章 + 总览三篇完工，并按 2026-10-20 新规则（R0–R5）复核整改**
