@@ -73,7 +73,7 @@ modified: "2026-10-22"
 
 **为什么这样写**：三个词就写完了一段阶级史——"被嘲笑"与"改掉"说明他要付的代价不是信仰，是口音与出身。神龛那一眼最妙：他鄙视的混搭，英国人自己也在做。
 
-**读者视角提示**：这是全书对"迷信"最公道的一次处理——两边都在拼贴，只是谁有权力说那是宗教、谁是巫术。
+**读者视角提示**：这是全书对"迷信"最公道的一次处理——两边都在拼贴，只是谁有权力说那是宗教、谁是巫术。读到这里也该想起本章开头那笔账：他母亲是给人与牲畜看病的人，他自己说她"差不多算个接生婆"——所以他厌恶的那个词，最早是落在自家母亲身上的。
 
 > **原句 7:** "It was such an older-sibling comment that Archie could almost see his brother and sisters at the dinner table back in England. Could see the outline of Miss Kim’s sister too. Language and culture did not matter when it came to good-natured chiding and sharing of meagre portions. Something else they had in common."
 

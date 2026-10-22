@@ -8,3 +8,8 @@
 - `He's hungry.` 归 Miss Kim 的更正，非 Archie 自述；`gweilo` 是她说的、被刺到的是她。
 - 圣母像「joined a cross」是神龛并置，不是教堂陈设；银豆是她给他的护身符、他给回她（方向无误）。
 - 结尾「hungry not for sweet or savoury」是他的自觉，不是她的判断。
+
+## 修复复验（2026-10-22 21:45）
+- 已在原句 6 的「读者视角提示」补入本章那笔账：他母亲是给人与牲畜看病的人（"差不多算个接生婆"），他厌恶的 "witchcraft" 最早落在自家母亲身上。
+- `chapter.sh` ch13 仍 EXIT=0；`check_chinese_layer` 阻断 0（未引入英文夹注）；`gate.sh` rc=0。
+- 结论：**提示级「母亲是土医缺位」已闭合**。

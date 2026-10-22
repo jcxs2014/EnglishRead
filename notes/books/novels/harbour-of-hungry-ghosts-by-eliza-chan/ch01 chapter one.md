@@ -6,7 +6,7 @@ modified: "2026-10-22"
 # 01. Chapter One
 
 ## 本章导航
-- **一句话概括**：Kiamling 与祖母 Por Por 在香港替英方迁葬祖坟，一夜赶尸途中被一只狐狸精引来的醉军官搅乱，符纸脱落、尸变成殭尸；Kiamling 杀得干净，却杀错了分寸。
+- **一句话概括**：Kiamling 与祖母 Por Por 在香港替英方迁葬祖坟，一夜赶尸途中被一只狐狸精引来的醉军官搅乱，符纸脱落、尸变成殭尸；Kiamling 举剑硬拼、剑卡在肋骨里拔不出，最后是祖母一杖一杖把尸群按回去，再丢下一句问她是不是打算在那儿蹲一整夜——她杀得干净，却杀错了分寸。
 - **情感弧线位置**：全书起点，处在「熟练」与「不被承认」之间——她能独力办完仪式，却始终等不到祖母松口。
 - **Tropes 兑现/反转**：赶尸、点穴、铜钱剑、八卦镜、糯米照面兑现；反转落在「僵尸片」的喜剧位上——最吓人的不是鬼，是一个醉到去亲尸体的帝国军官。
 - **人物弧线**：Kiamling 从「想不等祖母就开工」到被一句「Are you planning on squatting there all night?」打回学徒；Por Por 动手次数极少，每次都在孙女收不住的时候。
@@ -50,13 +50,23 @@ modified: "2026-10-22"
 **为什么这样写**：两个 too late 把读者和 Kiamling 一起关在事后，谁都不能说「早该」。作者不写训斥而写沉默，师徒之间的权力关系靠一个表情完成，比一场争吵管用得多。
 **读者视角提示**：contained 与 dispatching 是一对要害词：祖母要的是留活口查因，孙女给的是杀掉完事。这一对动词，就是全书师徒分歧的种子。
 
-> **原句 7:** "“Someone died angry,” she said, sucking her teeth. It was not unheard of. Resentful emotions at the end could not always be neutralised by the proper funeral rites."
+> **原句 7:** "A dull thud sounded as Por Por’s staff smacked into the side of the geongsi’s head. The monster swayed for a moment before toppling. For good measure she reattached a talisman to its forehead."
+
+**中文理解**：一声闷响，祖母的木杖砸在僵尸头侧；那东西晃了一晃就倒下去。她顺手又把它额头上的符纸贴回去。
+
+**关键词**：Por Por’s staff / smacked into the side / reattached a talisman
+
+**为什么这样写**：三句三个动作，中间只隔一个"晃了一晃"——一杖、一晃、一贴符。救场写得极省：没有招式，没有喊话，最先到的只是"闷响"这个声音。最要紧的是那句"顺手"：补符在她那儿是收尾工序，不是救命的动作。
+
+**读者视角提示**：整段没有一句写她慌，也没有一句是对孙女说的。孙女的生死关头，在祖母手里只是一件没干利索的活儿——这个落差，比任何训话都重。
+
+> **原句 8:** "“Someone died angry,” she said, sucking her teeth. It was not unheard of. Resentful emotions at the end could not always be neutralised by the proper funeral rites."
 **中文理解**：祖母吸着牙说「有人死时带着怒气」；这不是没听过的事——临终的怨气未必能被该做的丧仪化掉。
 **关键词**：sucking her teeth / resentful emotions / funeral rites
 **为什么这样写**：打斗刚收，作者立刻递上一句冷静的解释，把「怪物」还原成「死者的情绪」。问题于是从「怎么打」变成「谁带着怒气死的、为什么没人替他化掉」，恐怖故事就此变成一桩待查的旧事。
 **读者视角提示**：这是本章留下的唯一真问题。往后若出现一个死得不明不白、丧事又办得潦草的人，请回到这句话上。
 
-> **原句 8:** "“For the exorcism. The destruction of property.” She brushed geongsi dust from her top. Was never entirely sure what that stuff was… probably not worth thinking about too hard. “And the laundry bill.”"
+> **原句 9:** "“For the exorcism. The destruction of property.” She brushed geongsi dust from her top. Was never entirely sure what that stuff was… probably not worth thinking about too hard. “And the laundry bill.”"
 
 **中文理解**：她一项一项报账：驱邪，损毁财物。顺手拍掉衣上的尸灰——那东西到底是什么，她一直没弄明白，也不打算细想——末了再补一句：「还有洗衣费。」
 
