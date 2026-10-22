@@ -105,10 +105,7 @@ source_text: ch16
 | radiator | 暖气片 | I touched the iron radiator. |
 | goosebumps | 鸡皮疙瘩 | Goosebumps stood to attention over my arms. |
 | beacon | 灯塔，指路的光 | My windows were a beacon. |
-| turntable | 转盘 | Spinning on a little turntable, round and round and round and…
-
-
-I vomited, bracing myself against the hedgerow. |
+| turntable | 转盘 | Spinning on a little turntable, round and round and round and… |
 | woozy | 晕乎乎的 | The room turned slowly around my woozy head. |
 | staggered | 踉跄行走 | I staggered home, walking alone in the dark, something I would never do sober. |
 | shuffled | 拖着脚走 | I shuffled away, fell up a hill twice, and found myself at my front step. |

@@ -109,35 +109,11 @@ source_text: ch55
 
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
-| devour | 吞噬 | “No no no—”
-
-
-“We are in hell.”
-
-
-“Fuck you.”
-
-
-“You and me.”
-
-
-“Fuck you!”
-
-
-“We’re in hell.”
-
-
-“I will devour you!”
-
-
-“And you’ll still be here. |
+| devour | 吞噬 | “I will devour you!” |
 | wrung | 扭曲，拧 | She stared at me in fury, eyes that horrible bloodshot red, throat wrung blue. |
 | bloodshot | 充血的 | She stared at me in fury, eyes that horrible bloodshot red, throat wrung blue. |
 | sobbed | 抽泣 | She curled up in my lap and sobbed into my chest as I hushed her and stroked her hair. |
-| pierce | 刺穿 | “You grew tough scaly skin that no one could pierce,” I said, “or see you through.”
-
-
-I pushed the needle into the sole of my foot, gritting my teeth against the pain. |
+| pierce | 刺穿 | “You grew tough scaly skin that no one could pierce,” I said, “or see you through.” |
 | flared | 骤然烧起 | The pain flared white hot in my mind. |
 
 ### ⭐ 常用

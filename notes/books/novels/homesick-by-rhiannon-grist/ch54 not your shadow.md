@@ -126,10 +126,7 @@ source_text: ch54
 | shrinking | 不断缩小的 | She circled me in the shrinking light. |
 | tumbled | 滚落 | Soil tumbled down the stairs into the basement. |
 | strain | 压力，拉力 | The beams overhead creaked under the strain of the earth outside. |
-| whistled | 吹口哨 | “It took me a bit to get it, but once I did,” she whistled, “you made this all so much easier for me.”
-
-
-She gestured to herself. |
+| whistled | 吹口哨 | “It took me a bit to get it, but once I did,” she whistled, “you made this all so much easier for me.” |
 
 
 ## 一句话总结

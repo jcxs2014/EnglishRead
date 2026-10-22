@@ -100,10 +100,7 @@ source_text: ch56
 | uncharacteristically | 一反常态地 | “Oh, hi,” he said, uncharacteristically sheepish. |
 | sheepish | 窘迫的 | “Oh, hi,” he said, uncharacteristically sheepish. |
 | snarky | 尖酸刻薄的 | “Visiting you, you snarky cow.” He pointed to the table at the side of my bed. |
-| masonry | 砖石 | “Anyway, we found you down in the basement, covered in masonry dust and more blood than I thought a person could make so… congratulations, I guess.”
-
-
-I looked down at my bandaged limbs. |
+| masonry | 砖石 | “Anyway, we found you down in the basement, covered in masonry dust and more blood than I thought a person could make so… congratulations, I guess.” |
 | violations | 违规 | “Rowan told the emergency services you’d talked about having a neighbour, so they went looking for her in the clusterfuck of building violations you call next door. |
 | compensation | 赔偿 | I reckon you could get some compensation or something. |
 | solicitor | 事务律师 | “I’ll have a chat with my Aunt Sheila—she used to be a solicitor—about what happened with your neighbour’s house. |
@@ -114,15 +111,9 @@ I looked down at my bandaged limbs. |
 |---------|------|----------|
 | cactus | 仙人掌 | Sat on the table was a small cactus with a yellow ribbon round the pot. |
 | prickly | 多刺的，易怒的 | A prickly bastard from a prickly bastard, F x |
-| strays | 流浪动物 | “See, Ro has a habit of picking up strays,” Fergus said, before adding, “Probably shouldn’t have called you that.”
-
-
-“I don’t mind,” I said, meaning it. |
+| strays | 流浪动物 | “See, Ro has a habit of picking up strays,” Fergus said, before adding, “Probably shouldn’t have called you that.” |
 | haunted | 被（往事）缠住的 | He looked haunted. |
-| rubble | 瓦砾 | “What?”
-
-
-“Nothing but rubble left,” he said. |
+| rubble | 瓦砾 | “Nothing but rubble left,” he said. |
 | trolley | 推车 | The sunlight arced gently across the ceiling over a steady background hum of beeps, coughs, sighs, trolley wheels and crocs squeaky on linoleum floors. |
 
 ### ⭐ 常用

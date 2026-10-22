@@ -108,10 +108,6 @@ source_text: ch57
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
 | desiccated | 干瘪的 | The whole of 1a had come down that night, collapsed like a diseased ribcage over desiccated lungs. |
-
-
-
-The whole of 1a had come down that night, collapsed like a diseased ribcage over desiccated lungs. |
 | sodden | 湿透的 | The floorboards on the ground floor had rotted through and the whole thing was sodden with mould and lichen. |
 | boneyard | 骨堆，尸骨场 | I had braced myself for news of what they found down there; images of the boneyard I’d seen in the apple grove crept their way into my mind. |
 | surveyor | 房屋勘测员 | When the building surveyor called, she said the destruction was so total she could see all the way down to the basement from outside. |

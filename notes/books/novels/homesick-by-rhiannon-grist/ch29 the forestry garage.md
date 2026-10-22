@@ -90,10 +90,7 @@ source_text: ch29
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
 | sapling | 树苗 | It took me a few tries to balance it right, but I eventually got a sapling on my shoulder. |
-| handicap | 障碍，不便 | “Seems to me that not having a license is a bit of a handicap out here.”
-
-
-Rowan was quiet for a moment. |
+| handicap | 障碍，不便 | “Seems to me that not having a license is a bit of a handicap out here.” |
 | footage | 录像片段 | The traffic police ran the footage back for me after I’d been taken in. |
 | deficiency | 缺乏 | I wasn’t mad, I just had a Vitamin D deficiency. |
 | hallucinate | 产生幻觉 | Could that make someone hallucinate a whole party next door or smacking an axe into someone’s face? |

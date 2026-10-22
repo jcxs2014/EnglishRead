@@ -116,25 +116,13 @@ source_text: ch31
 
 
 I stifled a laugh at the image. |
-| twiddled | 捻弄 | The”—he twiddled a finger—“screw bit snapped right off, still stuck in the cork.”
-
-
-I stifled a laugh at the image. |
+| twiddled | 捻弄 | The”—he twiddled a finger—“screw bit snapped right off, still stuck in the cork.” |
 | molehills | 小土堆（"小题大做"中的"小"） | Mountains and molehills and that. |
-| interrogate | 盘问 | No need to interrogate it.”
-
-
-Rowan shook his head. |
+| interrogate | 盘问 | No need to interrogate it.” |
 | faltering | 迟疑的，摇晃的 | He silenced it, fingers faltering for a moment on the screen. |
 | prickled | 刺痛 | My skin prickled. |
-| timebomb | 定时炸弹 | Just like that splinter of glass, it’s floating about out there, a timebomb, out of my control and completely my fault.”
-
-
-He looked at me pointedly. |
-| splinter | 碎片 | Just like that splinter of glass, it’s floating about out there, a timebomb, out of my control and completely my fault.”
-
-
-He looked at me pointedly. |
+| timebomb | 定时炸弹 | Just like that splinter of glass, it’s floating about out there, a timebomb, out of my control and completely my fault.” |
+| splinter | 碎片 | Just like that splinter of glass, it’s floating about out there, a timebomb, out of my control and completely my fault.” |
 
 ### ⭐ 常用
 

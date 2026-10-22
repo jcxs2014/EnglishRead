@@ -106,10 +106,7 @@ source_text: ch30
 | exultation | 欢腾 | Their springy, sparse limbs reached up in exultation to the sky. |
 | fertilizer | 肥料 | Rowan showed me how far apart to dig the holes, what fertilizer to scatter in the bottom, and how to firm the soil back in around the base of the sapling before covering it with a layer of unprocessed wool. |
 | pangs | 阵痛，一阵阵的难受 | Ignoring the hunger pangs when I felt I ought to slim down. |
-| levitate | 悬浮 | And for a second, I thought I might levitate out of my seat and—
-
-
-“Hey, did you hear me?” Rowan appeared at the window. |
+| levitate | 悬浮 | And for a second, I thought I might levitate out of my seat and— |
 
 ### ⭐ 常用
 

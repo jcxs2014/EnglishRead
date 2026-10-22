@@ -77,10 +77,7 @@ source_text: ch38
 
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
-| trespassing | 非法闯入 | “If you’re not dead,” she said, “then you’re trespassing in my orchard.”
-
-
-Achily, I looked around me. |
+| trespassing | 非法闯入 | “If you’re not dead,” she said, “then you’re trespassing in my orchard.” |
 | quiff | 额前翘起的一撮头发 | A quiff of reddish curls shook in the breeze. |
 | phlegm | 痰 | With my good hand, I pulled out my house key covered in spit and phlegm. |
 | visceral | 发自肺腑的，肉体的 | All hard to believe now, of course, lying on the floor of this orchard with my bruised body and my throbbing punctured hand, feeling very fucking visceral. |
@@ -105,10 +102,7 @@ Achily, I looked around me. |
 
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
-| orchard | 果园 | “If you’re not dead,” she said, “then you’re trespassing in my orchard.”
-
-
-Achily, I looked around me. |
+| orchard | 果园 | “If you’re not dead,” she said, “then you’re trespassing in my orchard.” |
 | blossom | 花 | Sure enough, I was lying between two rows of stout trees, pink blossom dotted among the leaves. |
 | swollen | 肿胀的 | Especially now as it sat in my painfully swollen palm next to the black-blood-crusted tear between my thumb and forefinger. |
 | throbbed | 跳痛 | My injured hand throbbed in my sleeve. |

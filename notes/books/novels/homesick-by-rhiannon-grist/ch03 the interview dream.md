@@ -61,10 +61,8 @@ source_text: ch03
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 原文例句 |
-|---------|------|----------| | hob | 炉灶面，灶台（英式） | CHAPTER 3 Unfortunately, the hob was also electric. |
-
-
-
+|---------|------|----------|
+| hob | 炉灶面，灶台（英式） | Unfortunately, the hob was also electric. |
 | claustrophobic | 幽闭的，令人窒息的 | Instead of soothing, the silence felt claustrophobic. |
 | coiffed | 头发精心梳理的 | The director of my company sat on the other side of the table, her hair perfectly coiffed, eyeliner impeccably winged, fingers with their hot pink nails steepled in front of her face. |
 | impeccably | 无可挑剔地 | The director of my company sat on the other side of the table, her hair perfectly coiffed, eyeliner impeccably winged, fingers with their hot pink nails steepled in front of her face. |

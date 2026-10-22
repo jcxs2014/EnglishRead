@@ -84,9 +84,8 @@ source_text: ch05
 |---------|------|----------|
 | taciturn | 沉默寡言的 | It belonged to a taciturn man called Alan who was big into body-building and unseasoned, microwaved chicken. |
 | rictus | 龇牙咧嘴的僵硬表情 | I felt the smile turn to a rictus on my face. |
-| impassive | 面无表情的 | She had that cool impassive look that could be boredom or disinterest or nerves. | | standoffish | 冷淡疏远的 | A ‘thing’.” Standoffish. |
-
-
+| impassive | 面无表情的 | She had that cool impassive look that could be boredom or disinterest or nerves. |
+| standoffish | 冷淡疏远的 |  |
 | hangdog | 垂头丧气的，像挨了骂的狗 | The overhead lighting caught my hangdog expression perfectly. |
 | flustered | 慌乱的，手足无措的 | I walked away, taking the left road to the village, flustered but determined not to look back. |
 | lichen | 地衣 | It was an ancient-looking thing, made with rounded stones dotted with lichen and moss. |
@@ -96,11 +95,9 @@ source_text: ch05
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
 | anorak | 防风外套，连帽衫式外套 | A grey moustached man in an anorak was stood on a stile. |
-| stile | 梯磴（翻越栅栏的台阶） | A grey moustached man in an anorak was stood on a stile. | | terse | 简短生硬的 | “Hello?” “Who’s this?” A voice, clipped, terse. | | clipped | 急促短促的（说话） | “Hello?” “Who’s this?” A voice, clipped, terse. |
-
-
-
-
+| stile | 梯磴（翻越栅栏的台阶） | A grey moustached man in an anorak was stood on a stile. |
+| terse | 简短生硬的 | “Who’s this?” A voice, clipped, terse. |
+| clipped | 急促短促的（说话） | “Who’s this?” A voice, clipped, terse. |
 | collie | 柯利牧羊犬 | Next to the two of them trotted a lively collie, tongue flapping out the side of its mouth. |
 | deflated | 泄了气的，灰心的 | It looked like I had deflated. |
 | shunted | 推，挪动 | The old man shunted the woman’s wheelchair over a cobblestone and a folded bit-of-something fluttered out of his pocket. |

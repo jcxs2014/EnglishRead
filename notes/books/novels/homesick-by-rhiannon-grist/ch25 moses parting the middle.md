@@ -102,10 +102,7 @@ source_text: ch25
 | bickering | 拌嘴，争吵 | The sparrows in the hedgerow stopped their bickering. |
 | stoic | 坚忍的 | The stoic gardener. |
 | prosecco | 普罗塞克起泡酒 | I bought a bottle of the second least expensive prosecco. |
-| devs | 开发人员 | One of the devs came down and asked, “Are we off then?”
-
-
-“Where to?” I’d asked, coat already on, ready to go. |
+| devs | 开发人员 | One of the devs came down and asked, “Are we off then?” |
 | ribcage | 胸腔 | And I’d ask, each Monday morning, that they let me know next time they were going out, even though doing so made my heart beat loud in my ribcage and my palms turn slick with sweat. |
 | monologue | 独白，长篇独话 | Nod and listen to the monologue and hope you can catch eyes with someone else and pass the role of listener on. |
 | slick | 滑腻的 | And I’d ask, each Monday morning, that they let me know next time they were going out, even though doing so made my heart beat loud in my ribcage and my palms turn slick with sweat. |

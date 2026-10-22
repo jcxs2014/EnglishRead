@@ -123,10 +123,7 @@ source_text: ch52
 | tattoos | 纹身 | Some had forearms covered in tattoos. |
 | favourites | 最受宠的人 | Maybe that’s why I was never one of her favourites. |
 | shrugged | 耸肩 | The director shrugged. |
-| squinted | 眯眼看 | “And finally, we have”—she raised her eyebrows in surprise—“Tamsin from CRM Services for”—she squinted at the paper and leaned on Alan’s standing desk—“developing a template to automatically populate customer emails with tags.”
-
-
-She said each word as if it were the name of an exotic dish on an unfamiliar menu, or the taxonomy of some long-forgotten lizard. |
+| squinted | 眯眼看 | “And finally, we have”—she raised her eyebrows in surprise—“Tamsin from CRM Services for”—she squinted at the paper and leaned on Alan’s standing desk—“developing a template to automatically populate customer emails with tags.” |
 | gathered | 聚集 | All of my colleagues were gathered around their workstations in the afternoon light. |
 
 

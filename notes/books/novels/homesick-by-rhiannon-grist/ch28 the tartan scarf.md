@@ -106,10 +106,7 @@ I looked up and down the driveway littered with papery elm seeds. |
 | universes | 宇宙（复数） | Having someone from there here felt like universes colliding, like when you see your police-recommended therapist at the big supermarket on your exodus out of town. |
 | sparkling | 闪亮的，妙趣横生的 | “And miss out on your sparkling company? |
 | windscreen | 挡风玻璃 | Rowan was examining my smashed windscreen and politely ignoring the vomit next to the front wheel. |
-| poker | 扑克 | Though we have the odd poker night at Viv’s…”
-
-
-Rowan appeared at her shoulder. |
+| poker | 扑克 | Though we have the odd poker night at Viv’s…” |
 
 ### ⭐ 常用
 

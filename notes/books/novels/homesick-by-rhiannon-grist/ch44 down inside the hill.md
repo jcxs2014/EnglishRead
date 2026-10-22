@@ -81,10 +81,7 @@ source_text: ch44
 | snagged | 被勾住 | He sputtered and shook, a marionette whose strings were snagged and caught, as a dark froth foamed up from his bisected mouth. |
 | sirens | 警笛 | I thought I could hear sirens. |
 | jamb | 门框 | I leant against the door jamb, looking out onto the driveway. |
-| breach | 缺口，破口 | Find the breach.”
-
-
-I inhaled a deep breath of that sweet, night air, let it cool the sweat on my arms and brow, then I turned around and went back into the house, back past the twitching body on the living room floor, back to the door under the stairs, and headed down into the basement. |
+| breach | 缺口，破口 | Find the breach.” |
 | aching | 渴望，隐痛 | A cool breeze, fresh and inviting, pulled around my sweat-sodden clothes, and I found myself aching to be outside, to be anywhere but this house of horrors. |
 
 ### ⭐ 常用

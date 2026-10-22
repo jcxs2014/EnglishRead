@@ -100,11 +100,8 @@ source_text: ch14
 | ruminating | 反复咀嚼，沉溺于回想 | No more ruminating. |
 | pervasive | 弥漫的，无处不在的 | The brighter nights of the year had always held such a pervasive sense of ‘ending’ to me. |
 | tarnished | 失去光泽的，发暗的 | Above the door, two light fittings illuminated a line of tarnished-brass-effect plastic letters reading “The C_urtyard”. |
-| repurposed | 改作他用 | A wagon wheel had been repurposed into a low chandelier with a rim of large, dusty bulbs—the ones with the wire filaments that hipsters loved so much these days. | | ancestral | 祖传的，世代相传的 | “That’s a hollow hill.” “What’s a hollow hill?” “It’s one of the ancestral homes of the Fair Folk. |
-
-
-
-
+| repurposed | 改作他用 | A wagon wheel had been repurposed into a low chandelier with a rim of large, dusty bulbs—the ones with the wire filaments that hipsters loved so much these days. |
+| ancestral | 祖传的，世代相传的 | “It’s one of the ancestral homes of the Fair Folk. |
 | culling | 剔除，扑杀（牲畜） | Herding, culling, tanning, the lot. |
 | gobbled | 被吞并，被一口吃掉 | “Gobbled up to make them bigger and bigger. |
 | conjoined | 连体的，相连的 | Just the two little houses left, holding hands together on the hill, like abandoned conjoined twins, forever reflecting each other until the hotel chain and the digger comes to mow them down. |
@@ -121,9 +118,8 @@ source_text: ch14
 | kegs | 小酒桶 | A few kegs lined the wall and a scraggly bay tree stood guard by a green wooden door with a small stained-glass window. |
 | hearth | 壁炉前的地面，炉边 | Sat by the hearth was a scuffed wing chair and a power-assisted wheelchair. |
 | collie | 柯利牧羊犬 | The old man bent over to pour some of his beer in the collie’s water bowl, then leant back in his chair and brought the same glass up to his lips in a slow, careful movement. |
-| farmhands | 农场雇工 | “For farmhands, then for seasonal workers.” He glanced down into his pint glass. | | patchwork | 拼布；这里指拼块状的田地 | Digging up the hedges and turning the patchwork into one big boring blanket of rapeseed or potato.” The table went quiet. |
-
-
+| farmhands | 农场雇工 | “For farmhands, then for seasonal workers.” He glanced down into his pint glass. |
+| patchwork | 拼布；这里指拼块状的田地 | Digging up the hedges and turning the patchwork into one big boring blanket of rapeseed or potato.” |
 | lank | 平直无生气的（头发） | I recognised the lank hair and the round watery eye. |
 | ribcage | 胸腔，肋骨架 | As if she were trying to hide inside herself, tucked away in her own ribcage, peeking out between the bones. |
 | unblinking | 不眨眼的 | Unblinking, open, hopeful. |

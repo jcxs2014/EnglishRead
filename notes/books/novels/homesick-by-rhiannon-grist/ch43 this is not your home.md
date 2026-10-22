@@ -90,10 +90,7 @@ source_text: ch43
 | assailant | 袭击者 | Each blow felt like a stick hurled against my body by a furious assailant. |
 | genealogical | 族谱的 | “You can bring all the papers and the coins and the genealogical charts and the swords and the crockery and the shields. |
 | crockery | 陶器，餐具 | “You can bring all the papers and the coins and the genealogical charts and the swords and the crockery and the shields. |
-| mantras | 曼陀罗，反复念的咒语 | You can pray to your gods and chant your spells and shake your charms and cite your laws and repeat your mantras and state your ‘facts.’ It means nothing.”
-
-
-A set of eyes lit up in the figure’s head. |
+| mantras | 曼陀罗，反复念的咒语 | You can pray to your gods and chant your spells and shake your charms and cite your laws and repeat your mantras and state your ‘facts.’ It means nothing.” |
 | pinpricks | 针尖似的光点 | Otherwise, they were unrecognisable as eyes; they were round, flickering pinpricks of light. |
 | coppery | 带铜腥味的 | A sickly coppery smell cut over the scent of trees and pollen blowing in from the open door. |
 

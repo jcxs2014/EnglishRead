@@ -98,10 +98,7 @@ And he disappeared out over Bodach’s Brig, pushing his still snoring wife over
 | gleeful | 幸灾乐祸的，得意的 | Hmm?” He glared at me with gleeful accusation. |
 | accusation | 指责 | Hmm?” He glared at me with gleeful accusation. |
 | insect-like | 像昆虫的 | “Can I help you, young lady?” He stared at me through those thick glasses, his eyes large and insect-like, all-seeing. |
-| rumour | 传闻 | “Sorry, I just heard a rumour that… ah… you worked on Dolly the Sheep.”
-
-
-It sounded idiotic the moment it came out of my mouth. |
+| rumour | 传闻 | “Sorry, I just heard a rumour that… ah… you worked on Dolly the Sheep.” |
 
 ### ⭐ 常用
 
