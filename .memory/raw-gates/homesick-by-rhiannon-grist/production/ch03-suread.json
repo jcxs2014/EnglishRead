@@ -1,0 +1,55 @@
+{
+ "book": "homesick-by-rhiannon-grist",
+ "chapter": "ch03",
+ "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch03_chapter_3.txt",
+ "facts": [
+  {
+   "fact": "电磁炉没通电，做不了饭；她买来塞进空柜的意面酱料只能放着，第一顿是坐在客厅地板上吃的薯片和葡萄",
+   "anchor": "Then I sat in the middle of the living room floor and ate the crisps and grapes I’d bought as snacks for the road.",
+   "start": 349,
+   "end": 463
+  },
+  {
+   "fact": "她原想的第一晚是外卖披萨加马克杯里的香槟，结果只能用手心接自来水喝",
+   "anchor": "I cupped my hands under the kitchen tap and drank water from my palms.",
+   "start": 685,
+   "end": 755
+  },
+  {
+   "fact": "屋子暗下来时她一阵恐慌，开始想念爱丁堡的旧房间、窗外的灰景、酒厂的麦芽味和利斯的海风味",
+   "anchor": "Suddenly I missed my old room in Edinburgh.",
+   "start": 1050,
+   "end": 1093
+  },
+  {
+   "fact": "她站起来把念头压下去，对自己说旧生活是\"逃开的\"，要投入新生活，然后\"才会幸福\"",
+   "anchor": "I would commit to this new life and forget what I’d left behind me.",
+   "start": 1495,
+   "end": 1562
+  },
+  {
+   "fact": "她确认前门锁好，还挂上门链，然后上楼；床垫只铺了随身带的一条毛巾，连帽衫团成枕头",
+   "anchor": "The door was locked, but I slipped the chain on as well.",
+   "start": 2120,
+   "end": 2176
+  },
+  {
+   "fact": "她意识到很久没跟人正经说过话，想不出一个可以打电话的人，只能抱住自己的肩假装是别人的拥抱",
+   "anchor": "pretended they belonged to someone else, someone giving me a hug and telling me I’d be okay.",
+   "start": 3966,
+   "end": 4058
+  },
+  {
+   "fact": "墙那边先有吱呀，再在耳边一声闷响，随后像搬重家具的声音持续整夜；她听着\"1a\"的动静直到累极睡着",
+   "anchor": "Who moves furniture around at eleven at night?",
+   "start": 4906,
+   "end": 4952
+  },
+  {
+   "fact": "梦里黑暗追着她的车，她到了只有一扇门的房子，屋里却变成旧办公室；老板坐在面试桌后问她\"你觉得自己是好人吗\"，然后把小指掰断",
+   "anchor": "Then with a flick she snapped her little finger in two.",
+   "start": 9254,
+   "end": 9309
+  }
+ ]
+}
