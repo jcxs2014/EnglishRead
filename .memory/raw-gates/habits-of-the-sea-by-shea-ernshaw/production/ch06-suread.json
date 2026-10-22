@@ -1,0 +1,55 @@
+{
+ "book": "habits-of-the-sea-by-shea-ernshaw",
+ "chapter": "ch06",
+ "text": "notes/books/novels/habits-of-the-sea-by-shea-ernshaw/text/ch06_chapter_five.txt",
+ "facts": [
+  {
+   "fact": "她飞到的是法罗群岛，不是新斯科舍；飞机在黑海上飞了几个小时，窗外连一条船都看不见",
+   "anchor": "The Faroes are a remote cluster of islands set deep in the Atlantic",
+   "start": 36,
+   "end": 103
+  },
+  {
+   "fact": "酒店被\"幽灵船\"的传闻订满，前台男孩问她是不是来看幽灵船，还说\"也有媒体\"",
+   "anchor": "You here to see the ghost ship?",
+   "start": 3002,
+   "end": 3033
+  },
+  {
+   "fact": "她从行李箱的羊毛围巾里取出那枚小挂坠，刻着\"For AL, until the seas take us away\"——AL 即当年难产而亡的 Alice Lockhart",
+   "anchor": "the empty locket with the inscription cut into the metal: For AL, until the seas take us away",
+   "start": 10485,
+   "end": 10578
+  },
+  {
+   "fact": "酒吧里那个点白兰地的陌生女人叫出\"Ellie\"；原来她就是播客《The Other Grim》主持人 Helen Ashcroft",
+   "anchor": "That’s not a good idea, Ellie.",
+   "start": 18568,
+   "end": 18598
+  },
+  {
+   "fact": "她拒绝在播客里重讲当年那一晚，怕自己多年建起的生活被新一波怀疑与批评掀翻",
+   "anchor": "I won’t risk the life I’ve built.",
+   "start": 21526,
+   "end": 21559
+  },
+  {
+   "fact": "Helen 追问岛上那个男人是不是更老；Ellie 确认他当年三十多岁，等于承认那人没有变老",
+   "anchor": "Are you sure he wasn’t older? In his eighties?",
+   "start": 25351,
+   "end": 25397
+  },
+  {
+   "fact": "北部小村 Viðareiði 的渔妇 Erol 坚称自己清晨看到的是一座真实的岛，还称它是\"幽灵岛\"",
+   "anchor": "It was solid and real as the ground beneath our feet.",
+   "start": 36129,
+   "end": 36182
+  },
+  {
+   "fact": "返程车上她看见一点像玻璃反光的亮光，立刻叫停汽车，脱掉雨靴、外套和牛仔裤，只穿 T 恤和内裤走进大西洋，要游到那座岛去",
+   "anchor": "I need to finish the story.",
+   "start": 41527,
+   "end": 41554
+  }
+ ]
+}

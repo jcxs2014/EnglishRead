@@ -1,0 +1,55 @@
+{
+ "book": "habits-of-the-sea-by-shea-ernshaw",
+ "chapter": "ch07",
+ "text": "notes/books/novels/habits-of-the-sea-by-shea-ernshaw/text/ch07_chapter_six.txt",
+ "facts": [
+  {
+   "fact": "她是从海里被拖上滑腻礁石的——游向岛的过程中受伤，有人把她捞上了岸。",
+   "anchor": "I feel arms hauling me up from the slick rocks.",
+   "start": 34,
+   "end": 81
+  },
+  {
+   "fact": "她在礁石上隔着雨与海雾以为看见海伦在岸边挥手，雾把人吞掉，她怀疑海伦从没来过。",
+   "anchor": "Maybe she was never there at all.",
+   "start": 305,
+   "end": 338
+  },
+  {
+   "fact": "她发现左髋骨伤口上被涂了药膏——那个陌生男人趁她睡着时给她上过药。",
+   "anchor": "The man has been tending to me, touching my bare hip while I slept.",
+   "start": 1894,
+   "end": 1961
+  },
+  {
+   "fact": "她认出这是二十年前在新斯科舍外海遇见的那个男人，而他一点没变老。",
+   "anchor": "He hasn’t aged a day.",
+   "start": 4893,
+   "end": 4914
+  },
+  {
+   "fact": "他断言拿走挂坠的那个小姑娘是一年前才来过这里——与 Ellie 说的“二十年前”冲突。",
+   "anchor": "That’s not possible. The girl was here only a year ago.",
+   "start": 8115,
+   "end": 8170
+  },
+  {
+   "fact": "她昏睡了整整两天；是他把她从岸边带上岛的。",
+   "anchor": "Been two days since I brought ye up from the shore.",
+   "start": 13362,
+   "end": 13413
+  },
+  {
+   "fact": "他拿给她的干净衣服是他亡妻的。",
+   "anchor": "These clothes belonged to his wife.",
+   "start": 17643,
+   "end": 17678
+  },
+  {
+   "fact": "他说自己上一次看见陆地是在五个月零二十一天之前。",
+   "anchor": "Five months and twenty-one days.",
+   "start": 19621,
+   "end": 19653
+  }
+ ]
+}
