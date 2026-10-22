@@ -1,0 +1,55 @@
+{
+ "book": "the-hexing-miss-helena-by-darcy-mcguire",
+ "chapter": "ch01",
+ "text": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch01_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "Cynthia 满腔怒火，准备去书房与丈夫对质。",
+   "anchor": "Cynthia was well and truly vexed.",
+   "start": 44,
+   "end": 77
+  },
+  {
+   "fact": "Hubert 未经 Cynthia 同意就辞退了她的女仆，这是她爆发的直接导火索。",
+   "anchor": "To sack my maid without even bothering to consult me",
+   "start": 407,
+   "end": 459
+  },
+  {
+   "fact": "Cynthia 推开书房门，发现 Hubert 面朝下倒在血泊里。",
+   "anchor": "He was sprawled face down on the thick Aubusson rug.",
+   "start": 2976,
+   "end": 3028
+  },
+  {
+   "fact": "她确认丈夫已经死亡，伸手触碰时脸颊冰冷。",
+   "anchor": "Who was very much dead.",
+   "start": 3335,
+   "end": 3358
+  },
+  {
+   "fact": "混乱中场景突然被魔法切断，满屋的人瞬间消失。",
+   "anchor": "Cynthia blinked, and everyone disappeared.",
+   "start": 5258,
+   "end": 5300
+  },
+  {
+   "fact": "哥哥 Thomas 出现在她面前，绿眼睛里带着近似恐惧的神色。",
+   "anchor": "his green eyes flashing with something akin to fear",
+   "start": 5475,
+   "end": 5526
+  },
+  {
+   "fact": "哥哥的好友、警司 MacDougal 也在场，手里端着一杯茶。",
+   "anchor": "Superintendent Lachlan MacDougal. He held a cup of tea in his hands.",
+   "start": 5788,
+   "end": 5856
+  },
+  {
+   "fact": "她意识到自己感到的是解脱与自由，而不是丧夫之痛。",
+   "anchor": "a new understanding sank into her like water into thirsty soil. She was free.",
+   "start": 10061,
+   "end": 10140
+  }
+ ]
+}
