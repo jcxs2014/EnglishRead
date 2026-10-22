@@ -100,9 +100,9 @@ metadata:
 
 ### 最近
 
+- **2026-10-22 · Habits of the Sea（Shea Ernshaw）** 19 章 + 总览三篇 = 22 md；言情长篇、三条时间线（1952/2007/2026）；`gate.sh` EXIT=0 / verify 255/255 / 逐章归属 19/19 / 总览 58/58 + 整串 100；五步审查未做（待用户发起）。
 - **2026-10-13 · The South（Tash Aw）** 36 章 + 总览三篇 = 39 md；五步审查完成（a/b/c/d/e，阻断 12 全修），终值 verify 268/268、vocab 950 词条 FAIL0、逐章归属 36/36。13 commits 未 push。
 - **2026-10-03 · Deathless（Julie Kagagawa）** 22 章 + 总览 = 25 md；`gate.sh` EXIT=0（18 项 0 阻断）；五步审查未做（待用户发起）。
-- **2026-10-02 · Black Is the Body（Emily Bernard）** 非虚构 13 章 + 总览 = 16 md；15 commits 未 push。
 
 > 更多：`.memory/log/2026-10.md`（本月 3 节）、`2026-09.md`（9 节）、`2026-08.md`（3 节）。
 
