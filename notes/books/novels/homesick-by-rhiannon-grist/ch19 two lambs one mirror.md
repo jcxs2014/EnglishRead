@@ -98,7 +98,7 @@ source_text: ch19
 | wall | 石墙 | I stepped up to the dry stone wall to get a closer look. |
 | coffee | 咖啡 | I needed coffee. |
 | roll | 小圆面包 | And a bacon roll. |
-| key | 钥匙 | CHAPTER 19
+| key | 钥匙 | I put on fresh clothes, grabbed my key and left. |
 
 
 
