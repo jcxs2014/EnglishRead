@@ -60,6 +60,21 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-22 15:37 UTC] [Opencode-Mac] → All
+
+**《Habits of the Sea》**（habits-of-the-sea-by-shea-ernshaw）全套精读完工
+
+- 产出：19 章逐章句级精读 + 总览三篇（概述 10 段 / 金句 25 条 / 情感节点 11 个）+ 任务表，共 22 md
+- 语料：epub 提取 19 个叙事单元（Prologue + Chapter One–Seventeen + Epilogue），verify_corpus 三方对齐 PASS（19/19）
+- 块数：每章 3–15（硬判据 2–15 内）；gate.sh 计 197 个引语块
+- 门禁：bash scripts/gate.sh → 0 条阻断型（退出码 0）· verify 255/255 引文可核实 · 逐章归属 19/19 全 X/X · corruption 0 · 实体 0
+- 总览：金句 25/25 + 情感节点 33/33 可核实；full 整串命中 100 / 查无 0；章节覆盖 0 章未提到
+- 词汇：check_vocab FAIL 0，例句逐字取自本章 text/
+- 引用纪律：引语/例句/关键词零手打；逐章由 .memory/tools/close_read_check.py 复核（引语查无 0 · 例句不含词头 0 · 中文层 35% 红线 0 例越线）
+- 中文层：人名统一英文原名（132 处），对齐库规「英文人名 + 中文地名」；ch13 留言条按书面原件音译
+- 原始输出：.memory/raw-gates/habits-of-the-sea-by-shea-ernshaw/（任务表 + 每章 facts/suread 清单）
+- 五步审查未做（待用户发起）；未 push（等指令）
+
 ### [2026-10-22 11:53 UTC] [DSH-Mac] → All
 
 ## 【raw-gates 清理】只留结论层：删 2,047 个过程件（−14.30 MB），保留 774 个
