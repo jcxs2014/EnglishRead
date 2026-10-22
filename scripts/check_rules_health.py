@@ -89,7 +89,9 @@ def main() -> int:
             p = m.group(1).rstrip("，。；、)")
             if p.endswith("/") or any(c in p for c in "<>*…"):
                 continue  # 占位符/通配符不是真引用
-            if not (ROOT / p).exists():
+            # `路径:行号` 是合法引用形态（2026-10-22 修：此前整串去查存在性 ⇒ 恒报悬空）
+            target = re.sub(r":\d+(-\d+)?$", "", p)
+            if not (ROOT / target).exists():
                 dangling.append(f"{f.name} → {p}")
     if dangling:
         bad.append("悬空引用：" + "；".join(sorted(set(dangling))[:8]))
