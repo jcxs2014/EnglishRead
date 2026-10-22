@@ -18,7 +18,7 @@ from pathlib import Path
 _NO = re.compile(r"^(?:ch)?(\d{1,3})(?![0-9])", re.I)
 
 # 总览三篇的命名（中英双口径），不算章节
-_OVERVIEW_ZH = re.compile(r"^\d+_|^(?:概述|金句精选|金句集|情感节点|总结|论证节点)[.\s_]*\.md$")
+_OVERVIEW_ZH = re.compile(r"^\d+_|^(?:\d+\s*[_.\-\s]?)?(?:概述|金句精选|金句集|情感节点|总结|论证节点)[.\s_]*\.md$")
 _OVERVIEW_EN = re.compile(
     r"^(?:\d+\s*[_\-\s]?)"
     r"(?:overview|quotes?|golden[_\s-]*quotes?|emotional[_\s-]*(?:nodes?|moments?)"
@@ -63,7 +63,7 @@ def legacy_format(book) -> bool:
     files = chapter_files(book)
     if not files:
         return False
-    for p in files[:3]:
+    for p in files:
         try:
             if "原句" in p.read_text(encoding="utf-8", errors="replace"):
                 return False
