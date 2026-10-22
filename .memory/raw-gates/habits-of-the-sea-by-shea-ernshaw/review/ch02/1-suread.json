@@ -1,0 +1,86 @@
+{
+ "chapter": 2,
+ "source": "text/ch02_chapter_one.txt",
+ "facts": [
+  {
+   "fact": "2007 年，她坐火车到新斯科舍的 June 外婆（Nana）家；第一个夏天她讨厌这里",
+   "span": [
+    41,
+    115
+   ],
+   "anchor": "Nova Scotia rose up from the Atlantic as if it were a clot of broken teeth"
+  },
+  {
+   "fact": "本来说好只待几个月（a couple months at most）；母亲去硅谷上班，安顿好就来接她",
+   "span": [
+    655,
+    716
+   ],
+   "anchor": "It was only supposed to be temporary. A couple months at most"
+  },
+  {
+   "fact": "此后四个月母亲的信与电话越来越少；她交了一个带着三个孩子的男人，却从未叫她过去",
+   "span": [
+    1425,
+    1456
+   ],
+   "anchor": "But she never asked me to come."
+  },
+  {
+   "fact": "她后来改叫 Ellie，是 Nana 起的：Eleanor 太长，在浪里喊不动",
+   "span": [
+    1625,
+    1666
+   ],
+   "anchor": "It was Nana who started calling me Ellie."
+  },
+  {
+   "fact": "在 Nana 家满一年后，她允许她把房间刷成奶油黄，并要她只叫「Nana」；她被送进镇上中学",
+   "span": [
+    2767,
+    2868
+   ],
+   "anchor": "After a whole year at Grandma June’s, she let me paint the walls of my room a warm buttercream yellow"
+  },
+  {
+   "fact": "十二岁生日之后的那个秋天；暴雨夜她数天花板上挂的二十七颗纸星星",
+   "span": [
+    3732,
+    3775
+   ],
+   "anchor": "Until the autumn after my twelfth birthday."
+  },
+  {
+   "fact": "她听见「深腹的刮擦声」——像船靠岸撞碎在礁石上；她认定有船失事",
+   "span": [
+    4546,
+    4570
+   ],
+   "anchor": "A deep-bellied scraping."
+  },
+  {
+   "fact": "她划 Nana 的单桨小渔船出海，十分钟到天然港湾外缘；半英里外是 Maylarch 镇的灯",
+   "span": [
+    5876,
+    5955
+   ],
+   "anchor": "I slid Nana’s small, single-prop fishing boat down the sand and into the water."
+  },
+  {
+   "fact": "那不是搁浅的渔船，而是一栋白墙房子立在高高的土石堆上——整座岛",
+   "span": [
+    7729,
+    7751
+   ],
+   "anchor": "It was a whole island."
+  },
+  {
+   "fact": "她踩上盐井岛；回来时警察蹲在她面前，说她整整失踪了一周",
+   "span": [
+    8955,
+    8995
+   ],
+   "anchor": "that I had been missing for a whole week"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "chapter": 3,
+ "source": "text/ch03_chapter_two.txt",
+ "facts": [
+  {
+   "fact": "2026 年，西雅图；她是儿童治疗师，最后一个来访者是丧父（胰腺癌）的九岁男孩",
+   "span": [
+    325,
+    399
+   ],
+   "anchor": "a nine-year-old boy grieving the loss of his father from pancreatic cancer"
+  },
+  {
+   "fact": "她租在 Queen Anne 区；昨晚 James 把一只金戒指放在她掌心，说「先戴着看看感觉」",
+   "span": [
+    2811,
+    2844
+   ],
+   "anchor": "“Just see how it feels,” he said."
+  },
+  {
+   "fact": "James 开一家小法式餐馆，交往两年，仍未同居；她戴着戒指觉得像脚弓上一根刺、像折了一只翅膀的鸟",
+   "span": [
+    3459,
+    3545
+   ],
+   "anchor": "the ring he gave me last night feels like a thorn pressing against the arch of my foot"
+  },
+  {
+   "fact": "来电者自报 Helen Ashcroft，主持播客 The Other Grim，正在做一整季盐井岛",
+   "span": [
+    8499,
+    8558
+   ],
+   "anchor": "I’m Helen Ashcroft, I host a podcast called The Other Grim."
+  },
+  {
+   "fact": "Helen 问她是不是 2007 年在 Maylarch 外海「encountered」盐井岛的那个 Eleanor Mills",
+   "span": [
+    7520,
+    7603
+   ],
+   "anchor": "Is this the Eleanor Mills who encountered Saltwell Island off the coast of Maylarch"
+  },
+  {
+   "fact": "Helen 说最近一次目击在缅因外海：一艘邮轮上至少两百人看见，有人拍到视频",
+   "span": [
+    9924,
+    9976
+   ],
+   "anchor": "“About the recent sighting? Off the coast of Maine.”"
+  },
+  {
+   "fact": "目击细节：白百叶窗的房子、下方岩上一座玻璃棚（也许是温室）、岸边站着一个男人回头看他们",
+   "span": [
+    10213,
+    10262
+   ],
+   "anchor": "a man standing at the shore, looking back at them"
+  },
+  {
+   "fact": "她挂断后上网搜到缅因州 Brunswick 的文章《SALTWELL ISLAND SEEN BY HUNDREDS》，配一张从邮轮甲板拍的照片",
+   "span": [
+    12034,
+    12066
+   ],
+   "anchor": "SALTWELL ISLAND SEEN BY HUNDREDS"
+  },
+  {
+   "fact": "她给 Nana 打电话说「岛又出现了」，说可能还能赶上今晚的红眼航班",
+   "span": [
+    12842,
+    12874
+   ],
+   "anchor": "The island’s been spotted again."
+  },
+  {
+   "fact": "她脖子上那枚扇贝壳项链是 Nana 在她离家上大学那天给的",
+   "span": [
+    13223,
+    13276
+   ],
+   "anchor": "Nana gave me the necklace the day I left for college."
+  },
+  {
+   "fact": "结尾她决定去新斯科舍——「I’m going home.」",
+   "span": [
+    13611,
+    13626
+   ],
+   "anchor": "I’m going home."
+  }
+ ]
+}
