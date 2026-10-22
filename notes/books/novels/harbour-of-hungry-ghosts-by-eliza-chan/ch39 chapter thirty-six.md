@@ -7,16 +7,15 @@ modified: "2026-10-22"
 
 ## 本章导航
 
-- **一句话概括**：她被 Keilin 找来的 Archie 抱了个满怀，一边朝身后的 Jingling 打暗号，一边在心里算"把 Peake 秘书封进树里算不算杀人"；Madam Yau 哭着承认那人是她放进门的，Jingling 一句"yiugwai 附身"把话挑明，她说出"他自称 Merlin"，Archie 却只肯认一场局地台风当解释。她撑不住昏过去，醒来是八宝汤的味道：妹妹一边用气替她把肋骨接回去，一边逼她说谢谢，她终于说了，还发现自己这个不爱打架的妹妹能与 lui gwei 打交道，是个灵媒。两个人从正经话里逃出来，滚在地上打了一架，她才把憋了几个月的事说出来——那晚裂口还开着，她只是不敢进去，甚至有一小块自己庆幸祖母被带走。妹妹说早就知道，骂她是犟牛、铁嘴鸡，不是两面蛇。最后她提出：让灵媒把祖母叫来，问一句。
-- **情感弧线位置**：这一章先紧后松，中间塌一次。开头是错位的重逢：抱住的暖与退开的凉挨着写；接着谎话被一口咽下去，她的身体跟着垮掉。中段几乎全是被照顾——汤、气、一句迟迟不出口的道歉；到后半段才往上翻，把"我得护着她"换成"她比我想的强"，把藏了几个月的话交出去。落点不是解决，是一个刚敢开口的人提出一个自己也没有底的计划。
-- **Tropes 兑现/反转**：（兑现）久别重逢的拥抱、帝国臣子不肯信怪力乱神、妹妹侍汤、姐妹和解、招魂问亡。（反转）拥抱的第一下她拿来打暗号；"开化的人"那套说辞最后成了他闭眼的理由，谎话是他自己咽下去的；被照顾的那个从来是被护着的妹妹，她的气比姐姐足；"两面蛇"的自责被妹妹一句"犟牛"顶回来；结尾不是找到祖母，是决定去问一个可能已经不在的人。
-- **人物弧线**：Kiamling 这一章的本事全在忍：忍住不提树、忍住不反驳、忍住不推开妹妹的手、忍住心里那几句"我不需要"。她第一次承认自己怕，也第一次承认自己有过不肯说出口的庆幸。Jingling 从被护着的人变成给气的人：谎话编得比姐姐顺，逼谢逼得比姐姐狠，最后那句"那就招个鬼"是她定的调子。Archie 只在头尾露面，作用是量出两人之间那道距离。
+- **一句话概括**：Keilin 找来的 Archie 到了，她扑上去抱了个满怀——这一抱既是重逢，也是给身后的 Jingling 打暗号；他被这一抱僵住，才迟疑地回抱，而她到这一刻才想起两人从前从未拥抱过。Madam Yau 哭着纠正众人：不是谁都没认出，是她早认出来了；她起初为钱接这个客人，今晚叫他走，下一刻整片森林就在屋里长起来。Jingling 只说了「yiugwai」，接上「附身」的是她自己——楼与树是门，他的情绪是通道，他还自称 Merlin。她一边朝 Jingling 打暗号、一边在心里算「把 Peake 秘书封进树里算不算杀人」，嘴上却顺着 Archie 的「开化的人不信这些」把话推回去：那就什么也没发生。谎话是 Jingling 替她圆完的——「局地台风，很局地，Peake 秘书在混乱中失踪」——Archie 把这套鬼话咽了下去，她撑不住昏过去。醒来是八宝汤的味道：她的气在仙女环那回之后一直没补回来，却不肯承认，妹妹一边用气把她的肋骨接回去，一边逼她说谢谢。她这才发现这个不爱打架的妹妹能与 lui gwei 打交道，是个灵媒（她的话只是试探：说不定比我还多）。两人从正经话滚到地上打了一架，她才把憋了几个月的事说出来——那晚裂口还开着，她只是不敢进去，甚至有一小块自己庆幸祖母被带走；她还欠妹妹一句具体的道歉：吼她、害她丢了酒店的工作、没听她说过不想要这条路。Jingling 说早就知道，骂她是犟牛、铁嘴鸡，不是两面蛇，又哭着反问「那我血里的是什么」，提起 Beggar So 在广州、父母去世前本要她当继承人。最后是她提的：让灵媒把祖母叫来，我们自己去问；祖母被困在裂隙里已几个月，她只能拿 Ng Choy 做尺——他在另一界只困了几周就老了好几年。
+- **情感弧线位置**：这一章先紧后松，中间塌一次。开头是错位的重逢：抱住的暖与退开的凉挨着写，第一个拥抱在她的掌心底下变成暗号；接着谎话被一口咽下去，她的身体跟着垮掉。中段几乎全是被照顾——汤、气、一句迟迟不出口的道歉；到后半段才往上翻，把「我得护着她」换成「她比我想的强」，把藏了几个月的话连同那句具体的认错一起交出去。落点不是解决，是一个刚敢开口的人提出一个自己也没有底的计划。
+- **Tropes 兑现/反转**：（兑现）久别重逢的拥抱——可原文点明这是两人有生以来第一次拥抱，而她拿它打了暗号；（兑现）帝国臣子不肯信怪力乱神——他把「开化的人不信德鲁伊」说得斩钉截铁，随后把这套鬼话咽下去；（兑现）妹妹侍汤、姐妹和解、招魂问亡。（反转）被照顾的那个从来是被护着的妹妹，她只是试探地说「说不定比我还多」；「两面蛇」的自责被妹妹一句「犟牛、铁嘴鸡」顶回来；结尾不是找到祖母，是决定去问一个可能已经不在的人。
+- **人物弧线**：Kiamling 这一章的本事全在忍：忍住不提树、忍住不反驳、忍住不推开妹妹的手、忍住心里那几句「我不需要」。她第一次承认自己怕，也第一次承认自己有过不肯说出口的庆幸，还终于把道歉说成了具体的事：吼她、害她失业、没听她说不想要这条路。Jingling 从被护着的人变成给气的人：谎话编得比姐姐顺，逼谢逼得比姐姐狠，可她哭着问的那句「那我血里的是什么」才是她真正的底——她一直把自己放在姐姐的影子里。至于「那就招个鬼」，是妹妹最后附议的口头禅，方案与决断都在姐姐这边。Archie 只在这一场露面，作用是量出两人之间那道距离。
 - **叙事手法**：前半靠对话推进，句子短，叙述夹在两句台词之间，读者的视线跟着她在人和树之间来回。中间用一个昏倒把场面切开，之后整整一大段没有外人，只有两个人、一只碗和一双手。后半的节奏靠打断：正经话说到一半就被打闹、被汤、被一句玩笑截住，情绪不许停在原地。结尾用一句极短的口语收束，把沉重的计划压成一句轻话。
 
 ## 精读
 
 > **原句 1:** "“Archie,” Kiamling said, her voice unnaturally high. With everything that had happened, she had forgotten she had told Keilin to fetch him. She threw her arms around the startled Englishman, using the motion to gesture at Jingling behind her."
-
 **中文理解**："Archie，"Kiamling 开口，声音高得不自然。这一连串事情下来，她忘了自己曾让 Keilin 去把他找来。她一把抱住这个被吓到的英国人，借这个动作朝身后的 Jingling 示意。
 
 **关键词**：unnaturally high / had forgotten / startled Englishman
@@ -25,8 +24,16 @@ modified: "2026-10-22"
 
 **读者视角提示**：注意她是先抱住人、再打暗号的。这个顺序说明她担心的不是重逢本身，是身后的场面。
 
-> **原句 2:** "“Good heavens, is that Secretary Peake?” Archie’s face was already so pale, Kiamling had not believed it could get any whiter. He moved away from her, his eyes flicking between her and the tree, the distance between them suddenly a chasm."
+> **原句 2:** "“I did,” Madam Yau corrected. Her face was tear-stained, red liner running like blood down her cheeks. She tilted her chin upwards. “He was an insatiable brute. Violent. I accepted his custom at first, his pockets were deep. But tonight when he came in, there was something wrong. I asked him to leave, and the next moment a whole forest had grown around us.”"
+**中文理解**：Madam Yau 纠正她：「我认出来了。」眼泪把红描的眼线冲成两道血痕，她抬着下巴说：那人贪得无厌、又暴烈；她起初接他的生意，因为他出手阔；可今晚他进来时就不对劲——她叫他走，紧接着一座林子就在她们四周长起来。
 
+**关键词**：I did / an insatiable brute / I asked him to leave
+
+**为什么这样写**：作者让最该被同情的人先纠正主角。众人以为谁都没认出 Peake，她却说「我认出来了」——这一句同时替她洗掉「把人放进门的帮凶」嫌疑，也把责任推回给那个暴烈的客人：她赶过他。红眼线像血、下巴抬起，是这份证词自带的姿态。
+
+**读者视角提示**：注意「我叫他走」这句的位置——它比任何辩解都有效。她是受害者里唯一开口说清「我不是没拦」的人，而这一章的谎话就是从这句话接下去的。
+
+> **原句 3:** "“Good heavens, is that Secretary Peake?” Archie’s face was already so pale, Kiamling had not believed it could get any whiter. He moved away from her, his eyes flicking between her and the tree, the distance between them suddenly a chasm."
 **中文理解**："天哪，那是 Peake 秘书吗？"Archie 的脸本来就已经白得不能再白，Kiamling 原以为不会更白了。他从她身边退开，眼睛在她和那棵树之间来回扫，两人中间那段距离忽然成了一道深谷。
 
 **关键词**：already so pale / flicking between her and the tree / suddenly a chasm
@@ -35,8 +42,7 @@ modified: "2026-10-22"
 
 **读者视角提示**：他问的是"那是谁"，看的方向却是她。这一眼比那句问话凉。
 
-> **原句 3:** "“Civilised people do not believe in druids, in any of this.” The Englishman shifted in discomfort. Trying his best to stay firm as the keystone of his belief system was pulled out over his head."
-
+> **原句 4:** "“Civilised people do not believe in druids, in any of this.” The Englishman shifted in discomfort. Trying his best to stay firm as the keystone of his belief system was pulled out over his head."
 **中文理解**："开化的人不信德鲁伊，也不信这些。"这个英国人不安地挪了一下身子。他拼命站稳，可他那套信念的基石正被从他头顶抽走。
 
 **关键词**：Civilised people / shifted in discomfort / keystone of his belief system
@@ -45,8 +51,7 @@ modified: "2026-10-22"
 
 **读者视角提示**：他说的"开化"是讲给自己听的。真正在晃的是他站的地方，不是他讲的那套道理。
 
-> **原句 4:** "Wait, Kiamling recognised that knotted belt Jingling was wearing round her simple robes; it was hers! She had been searching fruitlessly for it for weeks. She gritted her teeth and hoisted herself into a sitting position, snatching the bowl from Jingling to feed herself before her sister won any more good-karma points."
-
+> **原句 5:** "Wait, Kiamling recognised that knotted belt Jingling was wearing round her simple robes; it was hers! She had been searching fruitlessly for it for weeks. She gritted her teeth and hoisted herself into a sitting position, snatching the bowl from Jingling to feed herself before her sister won any more good-karma points."
 **中文理解**：等等，Kiamling 认出了 Jingling 素袍上系的那条结带——那是她的！她找了好几个星期都没找到。她咬着牙把身子撑起来坐好，一把从妹妹手里夺过碗自己喝，免得妹妹再赚几分功德。
 
 **关键词**：knotted belt / searching fruitlessly / good-karma points
@@ -55,8 +60,7 @@ modified: "2026-10-22"
 
 **读者视角提示**：她伤还没好，先抢的是碗。这口气冲的不是汤，是"又要欠你一点"。
 
-> **原句 5:** "The trickle of qi became a steady stream, flowing through Jingling’s hands into Kiamling’s body. The broken rib knitted its edges back together, a thrum of intense heat as her sister’s qi healed her. Kiamling bit back the automatic responses that formed in her mind: she didn’t need the help; Jingling didn’t know what she was doing."
-
+> **原句 6:** "The trickle of qi became a steady stream, flowing through Jingling’s hands into Kiamling’s body. The broken rib knitted its edges back together, a thrum of intense heat as her sister’s qi healed her. Kiamling bit back the automatic responses that formed in her mind: she didn’t need the help; Jingling didn’t know what she was doing."
 **中文理解**：那股气从细流变成稳定的水线，从 Jingling 的手掌流进 Kiamling 的身体。断掉的肋骨把两边的边缘重新接上，妹妹的气治她的时候是一阵灼热的震颤。Kiamling 把心里冒出来的那几句老话咬了回去：她不需要帮忙；Jingling 根本不知道自己在做什么。
 
 **关键词**：steady stream / knitted its edges back together / automatic responses
@@ -65,8 +69,7 @@ modified: "2026-10-22"
 
 **读者视角提示**：这一块最要紧的是最后那两句。她没有说出口，可那是她一向的默认反应。
 
-> **原句 6:** "Madam Yau’s ability to converse with lui gwei was not unexpected given that she was a wulei jing; but Jingling’s affinity with them went further. Working in the brothel must have built up her skills, even if she was unaware of it. Her qi was powerful, Kiamling had not lied about that."
-
+> **原句 7:** "Madam Yau’s ability to converse with lui gwei was not unexpected given that she was a wulei jing; but Jingling’s affinity with them went further. Working in the brothel must have built up her skills, even if she was unaware of it. Her qi was powerful, Kiamling had not lied about that."
 **中文理解**：能与那些 lui gwei 交谈并不奇怪，那位女主人本就是 wulei jing 一类；可 Jingling 与它们的缘分走得更远。在妓院做事想必把本事练了出来，哪怕她自己并不知道。这妹妹的气很强，她说这话时没有说谎。
 
 **关键词**：wulei jing / affinity with them went further / not lied about that
@@ -75,8 +78,7 @@ modified: "2026-10-22"
 
 **读者视角提示**：留意"她自己并不知道"这半句。本事在她身上长了很久，只是没人告诉她。
 
-> **原句 7:** "They wrestled and laughed, threatening to push each other’s paralysis points, finally collapsing on the floor side by side. A warmth had spread through Kiamling’s belly that had nothing to do with the qi her sister had given her."
-
+> **原句 8:** "They wrestled and laughed, threatening to push each other’s paralysis points, finally collapsing on the floor side by side. A warmth had spread through Kiamling’s belly that had nothing to do with the qi her sister had given her."
 **中文理解**：两个人笑着扭打，威胁要按对方的麻筋，最后并排瘫在地板上。一股暖意从 Kiamling 的肚子里散开，这跟她妹妹渡给她的气没有关系。
 
 **关键词**：paralysis points / A warmth had spread / nothing to do with the qi
@@ -85,8 +87,7 @@ modified: "2026-10-22"
 
 **读者视角提示**：这一块没有一句说到和好，答案是最后那句"跟气没有关系"给的。
 
-> **原句 8:** "Jingling wrapped her arms around Kiamling’s neck, and the dam that had been only leaking broke completely. Kiamling sobbed on her sister’s shoulder, the relief at unburdening the load she had carried for months crashing like waves."
-
+> **原句 9:** "Jingling wrapped her arms around Kiamling’s neck, and the dam that had been only leaking broke completely. Kiamling sobbed on her sister’s shoulder, the relief at unburdening the load she had carried for months crashing like waves."
 **中文理解**：Jingling 搂住 Kiamling 的脖子，那道原本只是渗水的堤坝彻底垮了。Kiamling 伏在妹妹肩上哭，几个月背着的东西一卸下来，像浪一样砸在她身上。
 
 **关键词**：the dam that had been only leaking / unburdening the load / crashing like waves
@@ -95,8 +96,7 @@ modified: "2026-10-22"
 
 **读者视角提示**："只是渗"这三个字说明这件事憋了很久，不是这一刻才崩的。
 
-> **原句 9:** "She paused, letting the weight of it settle over them. It had been months since Por Por had been pulled across the rift. Kiamling had to believe her grandmother was stronger than Barrister Ng, as stubborn as she and Jingling had proved to be."
-
+> **原句 10:** "She paused, letting the weight of it settle over them. It had been months since Por Por had been pulled across the rift. Kiamling had to believe her grandmother was stronger than Barrister Ng, as stubborn as she and Jingling had proved to be."
 **中文理解**：她停了一下，让这句话的分量落到两个人身上。Por Por 被拽过裂口已经好几个月了。Kiamling 只能相信祖母比 Ng 律师更硬，犟得像她和 Jingling 已经证明过的那样。
 
 **关键词**：letting the weight of it settle / pulled across the rift / stronger than Barrister Ng
