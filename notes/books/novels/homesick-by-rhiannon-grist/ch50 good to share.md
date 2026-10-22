@@ -81,7 +81,17 @@ source_text: ch50
 
 **读者视角提示**：父亲说"她们过得多难"时，那两个女孩的父亲只是搬到了两条街外。这句话的重量，下一段她自己会称出来。
 
-> **原句 7:** "The wind ripped through the space between us, a howl. I looked over my shoulder, but I already knew the hillside behind me would be empty. My mother was gone."
+> **原句 7:** "“Yeah, yeah, I get it. Divorce is tough on kids. But here's the thing”—that high whining buzz rang in my ears again—“they still had a fucking dad, Dad!”"
+
+**中文理解**："是，是，我懂。离婚对孩子不好过。可问题是"——那阵高频的嗡鸣又在她耳朵里响起来——"她们还有个他妈的爸爸，爸！"
+
+**关键词**：they still had a fucking dad / that high whining buzz / Divorce is tough on kids
+
+**为什么这样写**：这一块是整章的高潮，也是她把"分享"这笔道德账反算回父亲的地方。父亲用的是母亲当年教她的词——分享；她接着往下数：两个女孩的父亲没死、没离开、只搬到两条街外，周末照样接送；Laura-Ann 拿到美甲课毕业证就得到一辆车，Lucy 怀孕就被接进家里；而她大学毕业只换来一通"赶紧找工作"的说教，需要落脚时，自己原来的房间已经住进了别人。最后一句是"那你离婚的时候，谁在我身边？"——她不是在争宠，是在指出这套"谁更需要照顾"的算法里，从来没有她。作者让她先咬住舌头（"I bit my tongue"）、再松开，把那阵嗡鸣写成她发火前的生理前兆。
+
+**读者视角提示**：注意父亲全程没有否认任何一件事实，他只重复"她们开局更难"。这就是她这一生被压住的方式：账目明明算得清，可谁都不许她算。也注意那两个女孩始终手拉手站着——她们有彼此，而这正是她最羡慕、也最没法开口要的东西。
+
+> **原句 8:** "The wind ripped through the space between us, a howl. I looked over my shoulder, but I already knew the hillside behind me would be empty. My mother was gone."
 
 **中文理解**：风嚎叫着撕开我们之间的空隙。我回头，但我早就知道身后那片山坡会是空的。我母亲不在了。
 
