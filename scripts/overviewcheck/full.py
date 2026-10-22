@@ -211,9 +211,8 @@ def overview_files(book):
     全库 1,273 个数字开头的 md 中，含这些词的就是总览件，其余全是章节/装置页；
     章级文件（`chNN` 开头）含这些词的 **0 个**，故不会误收。
     """
-    kw = re.compile(r'概述|金句|情感节点')
-    return sorted(p for p in glob.glob(os.path.join(book, '*.md'))
-                  if kw.search(os.path.basename(p)))
+    from overviewcheck.names import find_overviews
+    return find_overviews(book)
 
 
 def main():

@@ -313,12 +313,41 @@ echo; echo "=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才�
 # 处置：与 `check_overview_full.py` / `verify_overview_quotes.py` / `check_overview_labels.py`
 # 四处统一改**语义关键词**判据（`概述|金句|情感节点`），不再依赖编号前缀。
 # 全库章级文件（`chNN` 开头）含该三词的 0 个，故不会把章节文件当总览。
-OV=$(ls "$B"/*.md 2>/dev/null | grep -cE '概述|金句|情感节点' || true)
+# 2026-10-22 三修（三处漏洞一次补齐，用户拍板 1+2+3）：
+#   ① **英文命名漏收**：中文语义关键词之外，本库还有 `00_overview.md` / `01_quotes.md` /
+#      `02_emotional_nodes.md` / `00 golden quotes.md` / `00 emotional moments.md` 等英文命名，
+#      实测 **7 本书**（a-sea-of-unspoken-things / the-last-thing / forest-of-scars / lost /
+#      the-girl-from-the-war-room / wolf-hour / books-that-saved-my-life）因此被 ⑭⑮ 判
+#      「本项不适用」⇒ 总览引语与章节标签从未进门禁。文件名识别统一到
+#      `scripts/overviewcheck/names.py`（三处工具 + gate 同一实现）。
+#   ② **「口径外」不判红**：`overview.py quotes` 在整篇口径外时**退出码 1**，但原式
+#      `… | tail -6` 把退出码吃掉了，而 rc 层只覆盖 ②③⑦⑧⑲⑳、口径外那行又是 ⚠️ ⇒
+#      **一整篇总览零核验而 gate EXIT=0**（habits 概述 11 条行内引语实证）。现接住退出码。
+#   ③ **没有总览也算「不适用」**：全库 23 本小说/悬疑/非虚构没有任何总览文件，
+#      而 profile 要求 3 篇 ⇒ 现打一行提示（不判红：书可能在写）。
+OV=$(python3 scripts/overview.py names "$B" 2>/dev/null | wc -l | tr -d ' ')
+NEED=$(python3 scripts/overview.py need "$B" 2>/dev/null || echo "?")
 if [ "$OV" -gt 0 ]; then
+  # 2026-10-22 补：无 epub 也要跑（工具本身有降级 lane，用 `text/` 兜底）。
+  # 原式 `[ -n "$EPUB" ]` 直接跳过 ⇒ 7 本英文总览书**全部无 epub**，
+  # 即使文件名识别修好了，⑭ 仍会打印「❓ 无 epub，无法判定」= 跳过型假绿。
+  OVLOG=$(mktemp)
   if [ -n "$EPUB" ]; then
-    # 签名是「书目录 + epub」两参，它自己扫该目录下的 00*.md——不是单文件
-    python3 scripts/overview.py quotes "$B" "$EPUB" 2>&1 | tail -6
-  else echo "❓ 无 epub，无法判定（总览 ${OV} 篇）"; fi
+    # 签名是「书目录 + epub」两参，它自己扫该目录下的总览件——不是单文件
+    python3 scripts/overview.py quotes "$B" "$EPUB" >"$OVLOG" 2>&1
+  else
+    python3 scripts/overview.py quotes "$B" >"$OVLOG" 2>&1
+  fi
+  OVRC=$?
+  tail -6 "$OVLOG"
+  rm -f "$OVLOG"
+  if [ "$OVRC" -eq 2 ]; then
+    echo "❓ 降级 lane 参照集不足 ⇒ 未核（不是通过）"
+  elif [ "$OVRC" -ne 0 ]; then
+    _blk ⑭     # 口径外 / 覆盖缺口 / 查无 = 阻断型（2026-10-22 起接住退出码）
+  fi
+elif [ "$NEED" != "0" ] && [ "$NEED" != "?" ] && [ -n "$NEED" ]; then
+  echo "⚠️ 本书体裁 profile 要求 ${NEED} 篇总览，实有 0（提示型：书可能尚未写完，不判红）"
 else echo "（无总览三篇，本项不适用）"; fi
 
 echo; echo "=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）==="

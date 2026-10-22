@@ -93,9 +93,8 @@ def overview_files(book):
     完全一致（三处口径必须同，否则同一段文字在 A 段被核、B 段看不见）。
     全库章级文件（`chNN` 开头）含 `概述|金句|情感节点` 的 **0 个**，故不会误收章节。
     """
-    kw = re.compile(r'概述|金句|情感节点')
-    return sorted(p for p in glob.glob(os.path.join(book, '*.md'))
-                  if kw.search(os.path.basename(p)))
+    from overviewcheck.names import find_overviews
+    return find_overviews(book)
 
 
 def parse_quotes(md_path):

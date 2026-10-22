@@ -167,6 +167,18 @@ git status --short "<书目录>" .memory/raw-gates/<slug>/
 | **审查修复后**（第 10 条，与结构复扫**合并执行**、不另设检查站） | **`corruption_scan`** + **`audit_structure`**（基线对比，防自伤） | 修复脚本用正则批量替换 → **重跑在已替换的行上会复制前缀或从句**（AGENTS 第 9 条 g 记 Memories Like Fangs 一次损毁全书 116 处结构）；修完不验＝白修 |
 | 全书终验（第 9 条，**五步审查由用户发起**） | 用户发话后：五步法 + `audit_book.py` + `check_crossref.py` + `sweep_full`⚠️ + `check_overview_full`⚠️ | 执行方自行启动/代做全书级审查；crossref 报警未经人工复核直接判缺陷 |
 
+> **⚠️ 2026-10-22 总览层三修（用户拍板 1+2+3，实测三个洞）**：
+> ① **英文命名漏收**——文件名识别原只认中文三词，本库 7 本书用英文命名
+> （`00_overview.md` / `01_quotes.md` / `02_emotional_nodes.md` / `00 golden quotes.md` /
+> `00 emotional moments.md` / `总结.md`）⇒ ⑭⑮ 打印「本项不适用」，**整本总览从未进门禁**。
+> 识别统一到 `scripts/overviewcheck/names.py`（三处工具 + gate 同一实现）。
+> ② **「口径外」不判红**——整篇行内引语（无 `>` 行、无 `（chNN）` 标注）原被判
+> 「无引语行（正常）」；`overview.py quotes` 虽返回 1，但 `… | tail -6` 吃掉退出码 ⇒
+> **零核验而 gate EXIT=0**。现计入覆盖缺口并接住退出码（⑭ 进 `_blk`）。
+> ③ **没有总览也算「不适用」**——profile 要求 3 篇而实有 0 时打一行提示（不判红）。
+> ⚠️ 无 epub 的书**也要跑 ⑭**（工具本身有降级 lane，用 `text/` 兜底）；
+> 原式 `[ -n "$EPUB" ]` 直接跳过，而上面那 7 本**全都没有 epub**。
+
 > **⚠️ 条件性工具现只剩 `check_overview_full` 一个**（需 epub + 有总览）；`sweep_full` 已于 2026-09-27 改为第 3 条常跑（参照集 `text/` 优先，不依赖 epub）
 > epub 清理后跑不了）：**有 epub 才跑，不计入「门禁全绿」判定**，报「❓ 无法判定」
 > 是正常结果不是失败。清理 epub 后应从本表撤下而非任其报错。

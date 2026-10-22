@@ -24,7 +24,9 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 
-MODES = {"quotes": "总览引语逐字", "full": "总览整串 + 章节标签对账", "labels": "（chNN）标注层"}
+MODES = {"quotes": "总览引语逐字", "full": "总览整串 + 章节标签对账", "labels": "（chNN）标注层",
+         "names": "列出总览件（文件名识别，供 gate 用）",
+         "need": "按体裁 profile 打印应有总览篇数（供 gate 用）"}
 
 
 def _argv_call(mod, argv):
@@ -51,6 +53,16 @@ def main():
         print(f'用法: overview.py {mode} "<书>" ["<epub>"]', file=sys.stderr)
         return 2
 
+    if mode == "names":
+        from overviewcheck.names import find_overviews
+        for p in find_overviews(rest[0]):
+            print(p)
+        return 0
+    if mode == "need":
+        from overviewcheck.names import required_count
+        n = required_count(rest[0])
+        print("?" if n is None else n)
+        return 0
     if mode == "quotes":
         from overviewcheck.verbatim import main as quotes_main
         try:

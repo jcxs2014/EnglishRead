@@ -177,9 +177,8 @@ def overview_files(book_dir):
     判据与 `check_overview_full.py:overview_files` 同口径（语义关键词），
     全库章级文件（`chNN` 开头）含该三词的 **0 个**，故不会误收章节。
     """
-    kw = re.compile(r'概述|金句|情感节点')
-    return sorted(p for p in glob.glob(os.path.join(book_dir, '*.md'))
-                  if kw.search(os.path.basename(p)))
+    from overviewcheck.names import find_overviews
+    return find_overviews(book_dir)
 
 
 def main(book_dir: str, epub_path: str = ""):
@@ -232,10 +231,19 @@ def main(book_dir: str, epub_path: str = ""):
             # 命中的算「覆盖缺口」而非「正常」——**「没核」不许写成「正常」**。
             labeled = [ln for ln in txt.splitlines()
                        if looks_like_labeled_quote(ln)]
-            if looks or labeled:
-                gap.append((name, (looks or labeled)[0].strip()[:90]))
+            # ⚠️ 2026-10-22：第三类——**整段行内引语**（既无 `>` 行首、也无 `（chNN）` 标注）。
+            # 实证：a-sea-of-unspoken-things `00_overview.md` 19 对英文引号、
+            # wolf-hour `00 emotional nodes.md` 16 对，全部嵌在中文段落里 ⇒ 前两闸都不认，
+            # 被报「无引语行（正常）」——与 These Vengeful Wishes 那 2,277 行同型。
+            # 判据取「行内有 ≥25 个字母的成对英文引号」，短词/术语不会命中。
+            inline = []
+            for ln in txt.splitlines():
+                if any(len(flat_alpha(q)) >= 25 for q in re.findall(r'"([^"]{25,})"', ln)):
+                    inline.append(ln.strip()[:90])
+            if looks or labeled or inline:
+                gap.append((name, (looks or labeled or inline)[0][:90]))
                 print(f"{name}: ❌ 覆盖缺口——{len(looks)} 条引语样 > 行 / "
-                      f"{len(labeled)} 行带（chNN）标注的引语形态，"
+                      f"{len(labeled)} 行带（chNN）标注 / {len(inline)} 行行内英文引语，"
                       f"但 extract_quotes 提取到 0 条（口径外，须人判）")
             else:
                 bare.append(name)
