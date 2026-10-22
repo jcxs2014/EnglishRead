@@ -1,0 +1,209 @@
+{
+  "chapter": 18,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/ch18 chapter seventeen.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/text/ch18_chapter_seventeen.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The people moving south did not have all their belongings carefully packed, but walked with only the clothes on their ba",
+          "ok": true,
+          "pos": 102
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Nonetheless, the others had a good many opinions about the family, scoffing at Por Por’s pride in tracing a matrilineage",
+          "ok": true,
+          "pos": 3841
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "She should not feel relieved that the others had refused to help, but secretly she was. So much time had passed since th",
+          "ok": true,
+          "pos": 4776
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "He wore a black silk formal robe with blue cuffs. On his head, a rattan hat fringed in red silk with a single long feath",
+          "ok": true,
+          "pos": 5923
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Where was the emperor when the south was being razed by the Taiping rebels; when people starved to death in famine after",
+          "ok": true,
+          "pos": 9081
+        }
+      ],
+      "words": 34
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 123,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 100,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 95,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 111,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.9
+      }
+    }
+  ],
+  "form": {
+    "h1": "18. Chapter Seventeen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 5,
+    "block_median": 8,
+    "block_range": [
+      4,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 5,
+    "quote_long": 0,
+    "segments": 5,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1744,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

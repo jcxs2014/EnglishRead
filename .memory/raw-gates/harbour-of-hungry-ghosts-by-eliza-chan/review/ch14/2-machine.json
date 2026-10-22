@@ -1,0 +1,305 @@
+{
+  "chapter": 14,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/ch14 chapter thirteen.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/text/ch14_chapter_thirteen.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“Why",
+          "ok": true,
+          "pos": 1294
+        },
+        {
+          "text": "are we at an opium den?” Archie froze in place, just beyond the threshold with the look of a caged animal. His hands had",
+          "ok": true,
+          "pos": 1299
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“I told you, I have a job. You don’t have to come.” She threw the words at him, not looking to see if he would catch",
+          "ok": true,
+          "pos": 1603
+        },
+        {
+          "text": "Por Por’s voice warning her: Do not go in there. Ever. But a job was a job",
+          "ok": true,
+          "pos": 1976
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Cheap is a labourer smoking in the fields to stave off hunger because he cannot afford food. Or the builder smoking to p",
+          "ok": true,
+          "pos": 5390
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Lying diagonally across the middle of it was the acclaimed barrister and much-talked-about new member of the Legislative",
+          "ok": true,
+          "pos": 6610
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Opening her third eye felt like staring into the midday sun. The heat seared the skin of her forehead, concentrated into",
+          "ok": true,
+          "pos": 9531
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Instead of red, he was lined in a dark blue, like clouds against a full moon. The colour of something betwixt this world",
+          "ok": true,
+          "pos": 10094
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Archie’s arms had caught her around the waist. At this proximity, Kiamling could see the scattering of freckles on his n",
+          "ok": true,
+          "pos": 10948
+        },
+        {
+          "text": "Warm as well",
+          "ok": true,
+          "pos": 11167
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "He walked briskly ahead, his long legs carrying him quite far down the street. Kiamling trotted to keep up, but did not ",
+          "ok": true,
+          "pos": 13193
+        }
+      ],
+      "words": 43
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 97,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 100,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 102,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 0,
+        "为什么这样写": 93,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 95,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 119,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.59
+      }
+    }
+  ],
+  "form": {
+    "h1": "14. Chapter Thirteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 8,
+    "block_range": [
+      4,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2400,
+    "block_target": [
+      4,
+      8
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "chapter": 16,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/ch16 chapter fifteen.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/text/ch16_chapter_fifteen.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "His queue was technically regulation, but something about his hair remained unruly, a knotted rope more than a braid. He",
+          "ok": true,
+          "pos": 447
+        },
+        {
+          "text": "good. If he had been a stranger, she would have stared long and hard; then immediately and vehemently denied it",
+          "ok": true,
+          "pos": 576
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "In this case, her sister was right. Just because she had not returned his feelings did not mean she had to be so cruel. ",
+          "ok": true,
+          "pos": 1026
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "It had not occurred to her that they had already hatched. The white snake had been protecting her brood. This was not so",
+          "ok": true,
+          "pos": 3451
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The words didn’t really make sense, pouring out of her like a sack of rice that had split its seams. Once she started, s",
+          "ok": true,
+          "pos": 4564
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Au Kiamling,” his dark eyes locked on hers until she forgot to breathe, “you are the most selfish person I’ve ever met.",
+          "ok": true,
+          "pos": 8777
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "The warehouse door was thrown open before he could finish. Kiamling squinted, recognising the innkeeper. He couldn’t spe",
+          "ok": true,
+          "pos": 9633
+        }
+      ],
+      "words": 30
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.92
+      }
+    }
+  ],
+  "form": {
+    "h1": "16. Chapter Fifteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 8,
+    "block_range": [
+      4,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 7,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1813,
+    "block_target": [
+      3,
+      6
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

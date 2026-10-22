@@ -1,0 +1,119 @@
+{
+ "book": "harbour-of-hungry-ghosts-by-eliza-chan",
+ "chapter": "ch18",
+ "source": "text/ch18_chapter_seventeen.txt",
+ "facts": [
+  {
+   "n": 1,
+   "anchor": "The people moving south did not have all their belongings carefully packed, but walked with only the clothes on their backs and one eye trained behind them.",
+   "fact": "距广州约一天路程，气氛骤变：南逃者只带身上衣服、频频回头；Jingling 的热情招呼换来敌意瞪视，靠 Hoi 委婉探问才问出——红巾军烧了他们的家。",
+   "start": 115,
+   "end": 271
+  },
+  {
+   "n": 2,
+   "anchor": "Canton was a city transformed from her memory of five years before. A sprawling metropolis that made Hong Kong look like a tiny village in comparison. The river was swollen with tea clippers around Whampoa Anchorage.",
+   "fact": "到广州：城与五年前记忆中大不相同，这座蔓延的大都会让香港相形见小村；黄埔锚地河面挤满茶叶飞剪船。",
+   "start": 1770,
+   "end": 1986
+  },
+  {
+   "n": 3,
+   "anchor": "She had heard they could sail all the way to Britain in a hundred or so days, their holds bursting with tea.",
+   "fact": "欧洲船船身长而窄、帆如云；听说约一百来天可直航英国，货舱塞满茶叶。",
+   "start": 2120,
+   "end": 2228
+  },
+  {
+   "n": 4,
+   "anchor": "He hesitated a moment, sensing the bluff behind her bravado. “I’m meeting someone inside the Old City. I’ll be back before sundown.”",
+   "fact": "在便宜客栈落脚后，Hoi 问她还认不认路；他看穿她逞强，只交代自己要进旧城见一个人、日落前回来，便向北朝白墙城墙走去。",
+   "start": 3007,
+   "end": 3139
+  },
+  {
+   "n": 5,
+   "anchor": "He had gone, transferred to Macau. The twins in the south-west were on a job in the provinces. Old Man Lo had retired.",
+   "fact": "逐个碰壁：庙里那位和气道士已调往澳门，西南的双胞胎在外省接活，老罗已退休。",
+   "start": 4414,
+   "end": 4532
+  },
+  {
+   "n": 6,
+   "anchor": "He slid the door open a mere crack, his rheumy eye looking first at Kiamling, then her sister. Without another word, he slammed it shut again.",
+   "fact": "最后去敲一向不好客的独眼谢的门；他只把门开一道缝，浑浊的眼睛先看 Kiamling 再看妹妹，一言不发把门摔上。",
+   "start": 4663,
+   "end": 4805
+  },
+  {
+   "n": 7,
+   "anchor": "So much time had passed since the night of the fires that she had almost convinced herself she had imagined the doorway.",
+   "fact": "Kiamling 私下庆幸无人肯帮：大火那夜已过太久，她几乎说服自己那扇门是幻觉，如此就不必去戳破自己的谎。",
+   "start": 4932,
+   "end": 5052
+  },
+  {
+   "n": 8,
+   "anchor": "She pulled it out, angling the reflective surface towards the attacker. He shielded his eyes against the light, but disappointingly did not sizzle and dissolve.",
+   "fact": "姐妹俩被拽进巷子；Kiamling 踢打到对方骂痛松手，取出挂颈的八卦镜照向袭击者，对方遮眼却未「滋滋」消融。",
+   "start": 5829,
+   "end": 5989
+  },
+  {
+   "n": 9,
+   "anchor": "He wore a black silk formal robe with blue cuffs. On his head, a rattan hat fringed in red silk with a single long feather sweeping behind.",
+   "fact": "来人以「Au Kiamling」相称：黑绸官袍配蓝袖口，藤帽缀红丝流苏、拖一根长翎，胸前方补绣雉鸡望红日——是朝廷官员。",
+   "start": 6017,
+   "end": 6156
+  },
+  {
+   "n": 10,
+   "anchor": "“So the rumours are true. The Grandmistress Ghost-Queller is missing. That is why our fireflies have gone silent.”",
+   "fact": "Jingling 行礼说明婆婆被香港一个不知名猎魔人掳走、她们来求助；官员由此确认传言：驱鬼「大宗师」失踪，所以他们的「萤火虫」都断了消息。",
+   "start": 7200,
+   "end": 7314
+  },
+  {
+   "n": 11,
+   "anchor": "“Your grandmother worked for our imperial interests in Hong Kong. Our eyes and ears on the island.”",
+   "fact": "官员抖出底牌：婆婆在香港替朝廷利益做事，是朝廷在岛上的耳目；Kiamling 激动否认婆婆会做这种事。",
+   "start": 7487,
+   "end": 7586
+  },
+  {
+   "n": 12,
+   "anchor": "“The British are not content with what they already have; they are like cockroaches congregating in the dark where we do not think to look. Take the Grandmistress’s place. Report back to us and you will be rewarded.”",
+   "fact": "官员开价：英国如暗处蟑螂般扩张，要 Kiamling 顶替婆婆的位置、向他们回报，许诺有赏。",
+   "start": 8592,
+   "end": 8808
+  },
+  {
+   "n": 13,
+   "anchor": "“And you will help us? Send yiugwai hunters to Hong Kong to find Por Por?”",
+   "fact": "Kiamling 追问对方是否肯派猎魔人去香港找婆婆；官员答不能在香港冒险越境、会损害外交关系，拒绝。",
+   "start": 8924,
+   "end": 8998
+  },
+  {
+   "n": 14,
+   "anchor": "He stayed in Peking, safe in his palace, behind his walls. The British had taken advantage of the chaos to the south, but they had not been the only cause of it.",
+   "fact": "官员以「你是中国人、对皇帝有义务」作答；Kiamling 心中嗤笑——南方被太平军焚掠、饥荒连年时，皇帝安坐 Peking 宫中墙后；英国趁乱得利却非唯一成因。",
+   "start": 9376,
+   "end": 9537
+  },
+  {
+   "n": 15,
+   "anchor": "Our duty is to the people. To maintaining the balance between the living and the dead. We shall consider your generous offer carefully.",
+   "fact": "Kiamling 险些破口大骂，Jingling 按住她后腰，代为周旋：职责是对百姓、维持生死平衡，会「仔细考虑」这份厚意。",
+   "start": 9806,
+   "end": 9941
+  },
+  {
+   "n": 16,
+   "anchor": "If you change your mind, leave a message at the Cantonese Opera House on En Ning Road. They will know how to reach me.",
+   "fact": "官员不信却拿她没办法，留下联络方式：改变主意就去恩宁路的粤剧戏院留话。",
+   "start": 10093,
+   "end": 10211
+  }
+ ]
+}
