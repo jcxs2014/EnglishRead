@@ -1,0 +1,79 @@
+{
+ "book": "habits-of-the-sea-by-shea-ernshaw",
+ "chapter": "ch16",
+ "text": "notes/books/novels/habits-of-the-sea-by-shea-ernshaw/text/ch16_chapter_fifteen.txt",
+ "facts": [
+  {
+   "fact": "Clay 中枪后躺了三周，她照料他：汤、姜汤、擦汗",
+   "anchor": "Clay stays in bed for three weeks",
+   "start": 190,
+   "end": 223
+  },
+  {
+   "fact": "岛被冻进北冰洋的浮冰里，四面都是冰山",
+   "anchor": "The ocean has been iced over, solid and endless.",
+   "start": 7914,
+   "end": 7962
+  },
+  {
+   "fact": "他说自己到过最北的地方，风停之后连遮挡都没了",
+   "anchor": "This is the farthest north I’ve ever been.",
+   "start": 8013,
+   "end": 8055
+  },
+  {
+   "fact": "暴风雪里一只像渡鸦的鸟飞过，他答\"在试着活下去\"",
+   "anchor": "“Trying to survive,” Clay answers",
+   "start": 8706,
+   "end": 8739
+  },
+  {
+   "fact": "她夜里用两个希腊词区分时间的两种形态",
+   "anchor": "The Greeks had two words for time: chronos and kairos.",
+   "start": 11130,
+   "end": 11184
+  },
+  {
+   "fact": "没有钟与日历标记时辰，她写下\"我们不受任何法令或自然法则约束，我们是自由的\"",
+   "anchor": "We are free.",
+   "start": 11853,
+   "end": 11865
+  },
+  {
+   "fact": "海面上开来一整支废弃的船队，几百艘，大多是帆船",
+   "anchor": "They arrive like a parade.",
+   "start": 19790,
+   "end": 19816
+  },
+  {
+   "fact": "其中几艘在烧，烟迹细细升起",
+   "anchor": "Some of them are burning",
+   "start": 20009,
+   "end": 20033
+  },
+  {
+   "fact": "他从一艘白色双体船上搬回四把椅子、一袋书和半磅米",
+   "anchor": "A white catamaran, its pale blue sail flapping from the mast",
+   "start": 21108,
+   "end": 21168
+  },
+  {
+   "fact": "袋里滚出的是一张世界地图，而她认识的世界已经碎了",
+   "anchor": "It depicts the whole world. And everything I once knew is broken.",
+   "start": 25349,
+   "end": 25416
+  },
+  {
+   "fact": "地图上多数岛打了叉＝无人居住，少数被圈起来",
+   "anchor": "X—uninhabited",
+   "start": 28470,
+   "end": 28483
+  },
+  {
+   "fact": "全章最后一句：什么也没剩下；\"剩下的是我们\"",
+   "anchor": "There’s nothing left.",
+   "start": 32488,
+   "end": 32509
+  }
+ ]
+}

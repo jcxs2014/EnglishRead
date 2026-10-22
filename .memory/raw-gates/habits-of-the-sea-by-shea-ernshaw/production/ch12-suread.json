@@ -1,0 +1,55 @@
+{
+ "book": "habits-of-the-sea-by-shea-ernshaw",
+ "chapter": "ch12",
+ "text": "notes/books/novels/habits-of-the-sea-by-shea-ernshaw/text/ch12_chapter_eleven.txt",
+ "facts": [
+  {
+   "fact": "两人把毯子、枕头和最后那点威士忌搬下俯海的草坡，露天睡在星空下",
+   "anchor": "We haul blankets, pillows, and the last of the whiskey",
+   "start": 345,
+   "end": 399
+  },
+  {
+   "fact": "她按月相推算自己可能受孕的日子，并尽量避开",
+   "anchor": "the days when I could get pregnant",
+   "start": 4394,
+   "end": 4428
+  },
+  {
+   "fact": "她在暴风雨里关窗时被飞来的碎片划伤，指尖沾到血",
+   "anchor": "blood coming away on my fingertips",
+   "start": 11552,
+   "end": 11586
+  },
+  {
+   "fact": "克莱说这不是普通风暴，是一场飓风",
+   "anchor": "“This is no storm. It’s a hurricane.”",
+   "start": 13078,
+   "end": 13115
+  },
+  {
+   "fact": "他七十年建的菜园、温室、羊棚、鸡舍和小工具棚全被撕碎卷走",
+   "anchor": "Everything he has built—the garden, the greenhouse",
+   "start": 18751,
+   "end": 18801
+  },
+  {
+   "fact": "丛林里的香蕉树成行种着，说明这片地方有人工痕迹",
+   "anchor": "“They’re in rows,” he says. “They’ve been planted.”",
+   "start": 29254,
+   "end": 29305
+  },
+  {
+   "fact": "度假村厨房那部电话没有拨号音，她狂按祖母号码只听到沉默",
+   "anchor": "I press down on the receiver several times. Still nothing.",
+   "start": 34337,
+   "end": 34395
+  },
+  {
+   "fact": "克莱说他愿意娶她，假如有祭坛，他会在坛前宣告自己属于她",
+   "anchor": "I’d marry ye if I could",
+   "start": 38999,
+   "end": 39022
+  }
+ ]
+}
