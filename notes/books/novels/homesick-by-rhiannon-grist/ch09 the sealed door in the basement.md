@@ -101,7 +101,7 @@ source_text: ch09
 
 I walked back from town with the axe over my shoulder. |
 | basement | 地下室 | A basement wasn’t a bad thing. |
-| boiler | 锅炉 | The boiler was right next to the electrical box, a thick grey metal column with a hatch for wood and a hatch for ash. |
+| torch | 手电筒 | Not enough battery for the torch app. |
 | switch | 开关 | I felt for a light switch, found it on the wall to my right, and flicked it once, twice, thrice before remembering. |
 | stairs | 楼梯 | I turned to the door under the stairs. |
 | bath | 洗澡 | I needed a bath. |

@@ -26,7 +26,17 @@ source_text: ch10
 
 **读者视角提示**：把这句话和 ch06 咖啡店里"被人看见"的恐慌放在一起看。她想要的是隐身，而这本书从头到尾都在让她被看见。
 
-> **原句 2:** "I caught my face reflected in the taps, warped and elongated beyond recognition. My shadow shattered to pieces across the ripples on the water’s surface. I came to from my daydreaming and found the bath had grown noticeably cold around me."
+> **原句 2:** "I pulled at the wound slightly to check nothing had got underneath. The little hole of puffy white skin elongated and pinched together under the strain, like a tiny sulking mouth. It didn’t look infected, thank God."
+
+**中文理解**：她轻轻拉了拉伤口，看看里面有没有东西。那一小圈泡胀的白皮被拉长、又捏合到一起，像一张小小的、赌气的嘴。谢天谢地，看起来没有感染。
+
+**关键词**：pulled at the wound / a tiny sulking mouth / didn’t look infected
+
+**为什么这样写**：这是全章最精确的一次身体描写：一个针孔在热水里泡胀之后，被拉扯成"赌气的小嘴"。这个比喻把伤口变成了有情绪的东西——它在生气，气她把它弄出来看。作者写得很小（小小的、针孔），因为恐惧在这里也是小的：她并不是怕这个洞，而是怕洞里的东西不知道是什么。三个动作连成一串，读者几乎能感觉到皮肤的回弹。
+
+**读者视角提示**：这段的功能是把上一章那根钉子重新变成一个悬而未决的问题。她担心的不是伤口，是"那到底是什么扎的"。
+
+> **原句 3:** "I caught my face reflected in the taps, warped and elongated beyond recognition. My shadow shattered to pieces across the ripples on the water’s surface. I came to from my daydreaming and found the bath had grown noticeably cold around me."
 
 **中文理解**：她在水龙头的金属面上看见自己的脸，被拉长扭曲得认不出来。她的影子在水面的波纹里碎成一片片。她从白日梦里回过神，发现身边的水已经明显凉了。
 
@@ -54,7 +64,7 @@ source_text: ch10
 
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
-| puncture | 刺孔，扎伤 | With a splash, I pulled up my foot and inspected the puncture wound. |
+| wrinkled | 起皱的 | My fingertips had wrinkled to hard ridges. |
 | infected | 感染的 | It didn’t look infected, thank God. |
 | hoarder | 囤积者 | Maybe it was a hoarder’s paradise: newspapers stacked to the ceiling, takeaway boxes piled up around the sink, collected bits and bobs lining a narrow walkway through the house. |
 | doily | 装饰性小垫布 | Or maybe she was fastidiously neat: furniture placed precisely throughout with not a speck of dust to be spied, sofas and chairs at right angles to each other, doily at the exact centre of each side table, pictures in a level line on the walls, bed made and properly tucked in and everything. |
@@ -66,11 +76,7 @@ source_text: ch10
 
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
-| bath | 浴缸，洗澡 | CHAPTER 10
-
-
-
-As I lay in the bath, I allowed myself another moment of pride. |
+| surface | 表面，水面 | I hadn’t brought any bubble bath with me, so I could see my whole body under the surface, bloated by the hot water. |
 | soap | 肥皂 | I sat up and vigorously rubbed a bar of soap in my hands, trying to work up a tight enough foam to wash myself with. |
 | taps | 水龙头 | I caught my face reflected in the taps, warped and elongated beyond recognition. |
 | armpits | 腋下 | I rubbed the soap foam under my armpits and listened again. |

@@ -42,7 +42,7 @@ source_text: ch05
 
 **关键词**：waxed black trousers / soft and hard at once / Do no harm, take no shit
 
-**为什么这样写**：这一段是"用服装造人"的典型写法：她不是挑衣服，是在挑一个角色，连"她会穿什么"都要先想象出来。蜡感长裤的说明又长又具体（the closest I could get to leather without…），透出她对"体面"的计算与对身体的不适感——她想硬，但不愿真的付代价。最后两句是口号：soft and hard at once 是全章的自我定义，Do no harm, take no shit 则是一个从没做到过的人给自己写的座右铭。
+**为什么这样写**：这一段是"用服装造人"的典型写法：她不是挑衣服，是在挑一个角色，连"她会穿什么"都要先想象出来。蜡感长裤的说明又长又具体，透出她对"体面"的计算与对身体的不适感——她想硬，但不愿真的付代价。最后两句是口号：同时柔软又坚硬，是全章的自我定义；"不伤人，也不受气"则是一个从没做到过的人给自己写的座右铭。
 
 **读者视角提示**：这套衣服在章末还会出现一次——玻璃门里的倒影，衬衫起皱、裤腰下滑。同一套"盔甲"，穿了一天就塌了。
 
@@ -115,7 +115,7 @@ Standoffish. |
 
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
-| village | 村庄 | The closest village was a place called Carlinsrest. |
+| hiker | 徒步者 | Did that mean waving to every hiker, dogwalker and weekender I saw? |
 | bridge | 桥 | I followed the river toward Carlinsrest, until eventually I reached the bridge into the village. |
 | wheelchair | 轮椅 | He was pushing a wheelchair bearing an equally ancient lady, wrapped up in an old wax jacket, two sizes too big for her, hood up, head back, mouth open and snoring. |
 | pocket | 口袋 | The old man shunted the woman’s wheelchair over a cobblestone and a folded bit-of-something fluttered out of his pocket. |

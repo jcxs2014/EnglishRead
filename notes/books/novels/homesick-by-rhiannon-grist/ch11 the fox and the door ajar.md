@@ -88,14 +88,13 @@ source_text: ch11
 | ramblers | 徒步者 | The woman at the café, the ramblers from the road, the teenagers by the monument. |
 | clutched | 紧抓 | He clutched the handles of the wheelchair carrying the sleeping old woman, and grinned. |
 | damp | 潮湿的 | My towel was now damp, of course, and I had nothing to sleep under unless I wanted to catch a cold. |
-| boiler | 锅炉 | At least the house was warmer now I’d figured out how to use the boiler. |
-
+| floor | 地板 | Footsteps skittered across the bedroom floor. |
 ### ⭐ 常用
 
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
 | blanket | 毯子 | I went digging through my suitcase to find something else I could use as a blanket. |
-| towel | 毛巾 | My towel was now damp, of course, and I had nothing to sleep under unless I wanted to catch a cold. |
+| window | 窗户 | I gripped the mattress beneath me, eyes not daring to leave the window. |
 | wall | 墙 | I eyed the joining wall between 1b and 1a. |
 | bulb | 灯泡 | Pale yellow light from the single naked bulb painted a golden circle in the centre of the bedroom. |
 | scream | 尖叫 | I had almost fallen asleep, when a scream pierced the twilight. |

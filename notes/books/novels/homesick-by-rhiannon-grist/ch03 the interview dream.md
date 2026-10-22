@@ -91,9 +91,9 @@ Unfortunately, the hob was also electric. |
 | crisps | 薯片（英式） | Then I sat in the middle of the living room floor and ate the crisps and grapes I’d bought as snacks for the road. |
 | grapes | 葡萄 | Then I sat in the middle of the living room floor and ate the crisps and grapes I’d bought as snacks for the road. |
 | towel | 毛巾 | I shut the garden gate door and covered the mattress with the single towel I’d brought with me. |
-| hoodie | 连帽衫 | After a thought, I got back up, grabbed my hoodie and bundled it into an improvised pillow. |
+| furniture | 家具 | It sounded like they were moving heavy furniture around. |
 | pillow | 枕头 | After a thought, I got back up, grabbed my hoodie and bundled it into an improvised pillow. |
-| mattress | 床垫 | I shut the garden gate door and covered the mattress with the single towel I’d brought with me. |
+| hoodie | 连帽衫 | After a thought, I got back up, grabbed my hoodie and bundled it into an improvised pillow. |
 | chain | 门链 | The door was locked, but I slipped the chain on as well. |
 | boiler | 锅炉，热水器 | Possibly a new boiler. |
 | gloom | 昏暗，阴郁 | I lay in the growing gloom. |
