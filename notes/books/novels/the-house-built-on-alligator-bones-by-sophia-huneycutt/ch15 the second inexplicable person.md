@@ -37,7 +37,7 @@ modified: "2026-10-22"
 
 > **原句 3:** "Harrison probably stayed in Greer House all the time. He and Gazzie had much more than a boss-employee relationship. He was practically family."
 
-**中文理解**：Harrison 大概一直住在 Greer House。他和 Gazzie 的关系远不止雇佣。他几乎就是家里人。
+**中文理解**：Harrison 大概是一直都住在 Greer House 的。他和 Gazzie 之间的关系，也远远超出老板与雇员那一层。说得再直白些：他几乎就是这家里的人了。三句都出自她一人的心口揣摩，句句带着「大概」「几乎」这类留有余地的词。
 
 **关键词**：all the time / boss-employee / practically family
 

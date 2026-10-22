@@ -31,7 +31,7 @@ modified: "2026-10-22"
 
 **关键词**：affectionate / snatch / harbored / contagious
 
-**为什么这样写**：三句话把同一双手的两面放齐：run her fingers through 与 scratch 是她主动给到的，snatch her hand away 是对方主动收回的；always 把一次动作说成规律，after a few seconds 则给这条规律一个可以测量的长度。"like she remembered my skin harbored something contagious"停在 like 上，没有直说 Mama 当真嫌她脏：harbored 让皮肤变成藏东西的容器，而那个"东西"是什么、是不是真的存在，这一句一个字都不给。"Mama hadn't been affectionate"用过去完成时把结论放在最前，随后两句只是呈堂证供。
+**为什么这样写**：三句话把同一双手的两面放齐：让手指梳过她的头发、挠挠头皮，是她主动给到的；几秒钟之后把手抽走（snatch），是对方主动收回的。一个「总是」把一次动作说成规律，「几秒钟之后」又给这条规律一个可以测量的长度，于是给与收都成了可以核对的事。第三句停在「像是」上，没有直说 Mama 当真嫌她脏：它把皮肤写成藏得住东西的容器（harbored），而那件东西是什么、是不是真的存在，这一句一个字都不给。首句用过去完成时把结论摆在最前，随后两句只是呈堂证供。
 
 **读者视角提示**：本章第一次把 Mama 的身体反应写成一条可以测量的规则（几秒之后一定收回）。往后凡是她写自己被人碰到，可以先回头量一下这一条。
 

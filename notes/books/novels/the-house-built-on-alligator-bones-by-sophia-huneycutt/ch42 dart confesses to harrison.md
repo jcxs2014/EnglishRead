@@ -111,7 +111,7 @@ modified: "2026-10-22"
 
 **关键词**：pang of guilt / stuffed / worn socks / slipped out / the storm
 
-**为什么这样写**：三个动作一气呵成（stuffed、shoved、slipped），全章的「被留下」在最后一秒翻成「自行离开」；worn socks 的寒酸细节给这趟夜行定价——没有告别，只有一双借来的旧袜和鞋。
+**为什么这样写**：三个动作一气呵成——塞钥匙、蹬鞋、溜出门，全章的「被留下」在最后一秒翻成「自行离开」；「worn socks」这个寒酸细节给这趟夜行定价：没有告别，只有一双门边穿旧的袜子和鞋。
 
 **读者视角提示**：出发前她把「"This family is all I have,"」又说了一遍，而挽留只有一句「"You have me."」——她判定那是「to keep me out of the storm」的缓兵之计；接着两句「That, or they trusted me. / They shouldn’t have.」让她亲手给偷钥匙的动作定性：她最怕的「没变好」，正被她自己当作证据坐实。
 

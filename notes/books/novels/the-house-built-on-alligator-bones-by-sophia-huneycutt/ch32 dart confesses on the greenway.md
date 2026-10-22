@@ -57,7 +57,7 @@ modified: "2026-10-22"
 
 > **原句 5:** "I almost confessed that I’d seen Ida myself, but I didn’t want to seem delusional like my grandmother. Instead, I told him about Nova’s warning, how she said I needed to ask how Uncle Leon died. At his look of surprise, I added, “You didn’t know about his accident? Gazzie locking him in the breeding pond and finding him drowned?”"
 
-**中文理解**：她差点坦白自己亲眼见过 Ida，但不愿显得像 grandmother 那样 delusional（脱离现实），于是改说 Nova 的警告——Nova 要她去问 Uncle Leon 到底怎么死的。Harrison 露出惊讶，她追了一句：你不知道那场「事故」？Gazzie 把他锁进繁殖池，后来发现他溺亡。
+**中文理解**：她差点把自己亲眼见过 Ida 这件事说出口，却不愿显得像祖母那样神志不清，于是改口去讲 Nova 留下的那句警告——对方要她去问 Uncle Leon 到底是怎么死的。Harrison 一听面露惊讶，她追着问了一句：你不知道那是场「事故」？不知道是 Gazzie 把他锁进繁殖池、后来又发现他溺了水？
 
 **关键词**：delusional / warning / breeding pond / drowned
 
@@ -71,7 +71,7 @@ modified: "2026-10-22"
 
 **关键词**：blinding / braid / tottered / windmilling
 
-**为什么这样写**："blinding, all-consuming" 用破折号插进主谓之间，句法的中断就是自控的中断；"had taken over" 提前宣告人不在驾驶位。随后整段是双人舞步的分解动作：grabbed、yanking、tottered、jerking、pushed、stumbled、windmilling，动作一环扣一环、没有心理评论，读者被按在原地看全程。落点 "finding only air" 最狠——稳身的支点不存在，重力把故事交给下一段的地面。
+**为什么这样写**：破折号把两个形容词——“blinding, all-consuming”——插进主谓之间，句子自己在中途失控，句法上的中断就是自控上的中断；领头的动词还是过去完成（“had taken over”），人尚未动手就先被宣告已经不在驾驶位上。随后整段是双人舞步的分解：抓住辫子、往下拽、对方向前踉跄、从手里挣开、再推她的肩、对方向后绊倒、双臂像风车一样乱抡——一环扣一环，没有一个表示心理活动的词插进来，读者被按在原地看完全程，也听不到她此刻怎么替自己说话。落点“finding only air”最狠：一只手想抓住什么稳住自己，抓到的只有空气，稳身的支点不存在，重力于是把故事交给下一段的地面。
 
 **读者视角提示**：她向 Harrison 复述时把这段压缩成 "I pushed her. Then, when she was on the ground, I hit her."（本章原文的对话句）；比较压缩版与此处的动作密度，就能估出这段记忆在她那里的分辨率。
 

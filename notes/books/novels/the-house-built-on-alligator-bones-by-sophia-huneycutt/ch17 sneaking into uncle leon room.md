@@ -21,7 +21,7 @@ modified: "2026-10-22"
 
 **关键词**：nightstand / presumably / respective / refusing / moved
 
-**为什么这样写**：清点结果由 contained only 的 only 定性——耳塞、眼罩、平装书、钓鱼照，全部是无害的男性日常，一样也立不起罪名。given the golden-brown curls 与 presumably 两处括号式推断，暴露她其实不认得幼年 Harrison、也不确定那是不是父亲——她是在现场现推。refusing to be moved 是全段动词里唯一及物于她自身的：触动已经发生，拒绝才是决定。
+**为什么这样写**：清点结果由 "contained only" 里那个 only（只有）定性——耳塞、眼罩、平装书、钓鱼照，全部是无害的男性日常，一样也立不起罪名。"given the golden-brown curls"（凭那头金棕卷发）与 "presumably"（想来）两处括号式推断，暴露她其实不认得幼年 Harrison、也不确定那是不是父亲——她是在现场现推。"refusing to be moved"（拒绝被触动）是全段动词里唯一反过来落在她自身的：触动已经发生，拒绝才是决定。
 
 **读者视角提示**：同章里她还翻检了这间房的其他角落、又把鼻子埋进 Harrison 的 T 衫——注意「拒绝被触动」的人手上一直在翻看他的东西，言行温差是本章给读者留的题。
 
@@ -41,7 +41,7 @@ modified: "2026-10-22"
 
 **关键词**：emptiness / erased / bedframe / sifted / mysterious
 
-**为什么这样写**：or because of it 四个词把逻辑拧反——空本身成了识别依据，「什么都没有」反而是这间房留下的唯一笔迹。He’d been erased 用被动语态删掉了施动者，谁抹掉的就是这句真正在问的事。sifted through explanations 把猜想写成筛土动作，而形容词 mysterious 出现在转述里：事故至今没人讲过，叙述者先替它挂了号。
+**为什么这样写**："or because of it"（或者正因为空空如也）四个词把逻辑拧反——空本身成了识别依据，「什么都没有」反而是这间房留下的唯一笔迹。"He’d been erased"（他被抹掉了）用被动语态删掉了施动者，谁抹掉的就是这句真正在问的事。"sifted through explanations"（把解释一条条筛过去）把猜想写成筛土动作，而形容词 "mysterious"（神秘的）出现在转述里：事故至今没人讲过，叙述者先替它挂了号。
 
 **读者视角提示**：这两条解释（太伤心留不下／事故前已搬走）都出自她的推测。带着它们去读壁橱一段——箱子里留着东西，两条解释都不体面地站不住。
 

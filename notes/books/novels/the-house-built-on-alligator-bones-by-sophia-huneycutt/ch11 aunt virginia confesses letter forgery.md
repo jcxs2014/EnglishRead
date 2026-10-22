@@ -27,7 +27,7 @@ modified: "2026-10-22"
 
 > **原句 2:** "That’s why the letter had asked Mama to email Aunt Virginia, not Gazzie. Why it had claimed Gazzie didn’t check her email or answer phone calls. Aunt Virginia had wanted to get ahead of the lie before Mama actually reunited with the Greers."
 
-**中文理解**：怪不得那封信让妈妈把邮件发给 Virginia 姨妈而不是 Gazzie。怪不得它声称 Gazzie 不查邮箱、不接电话。Virginia 姨妈是想赶在妈妈真的与 Greer 家重聚之前，先把谎话铺好。
+**中文理解**：怪不得那封信当初要求妈妈把邮件发给 Virginia 姨妈，而不是发给 Gazzie。怪不得它又声称 Gazzie 既不查看邮箱、也不接听电话。原来 Virginia 姨妈是想赶在妈妈真的与 Greer 这一家人重新团聚之前，先把这句谎话安置到位。
 
 **关键词**：letter / claimed / get ahead of / reunited
 
@@ -51,7 +51,7 @@ modified: "2026-10-22"
 
 **关键词**：No wonder / relied on / dislike / inheritance
 
-**为什么这样写**：三个 No wonder 是倒推的排比：结论先钉死（heir apparent 已在上一句成立），然后回头把先前每桩疑点重新归档——逗留、倚重、敌意，全部改由「他是内定继承人」解释。whatever the hell 保留着农场黑箱的原文，说明这条推理链没有解决麻烦，只是重新解释麻烦。分号后的自我更正最狠：he, like Gazzie, had assumed——把两位长辈并列为同类，而最后一句 And he wasn’t entirely wrong 又把她自己送上被告席，interloper 的罪名由她亲手补上。
+**为什么这样写**：三个 No wonder 是倒推的排比：结论先在上一句钉死——他才是内定的继承人——然后回头把先前每桩疑点重新归档，逗留、倚重、敌意，全部改由这一个判断解释。写农场时原话仍留着「天知道在闹什么」的口径，说明这条推理链没有解决麻烦，只是重新解释麻烦。分号后的自我更正最狠：她把 Harrison 与 Gazzie 并成一类，两个都早已认定她是为遗产而来；紧接的一句又承认对方「并不全错」，于是她把自己也送上被告席，interloper 的罪名由她亲手补上。
 
 **读者视角提示**：这是 Dart 单方面替 Harrison 想的，不是 Harrison 说的。凡是 No wonder 收编过的旧疑点，都值得留一份底——日后翻案时，错的可能正是「难怪」本身。
 

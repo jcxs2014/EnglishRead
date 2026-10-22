@@ -67,7 +67,7 @@ modified: "2026-10-22"
 
 > **原句 6:** "I’d asked the question before realizing why: It was the phrase on Mama’s closet wall, haunting me: The Greers built their fortune on alligator bones. “I haven’t seen a pile of them anywhere. Do you grind them up?”"
 
-**中文理解**：骨头去哪的问题脱口而出，她过了几秒才明白为什么会问这句：Mama 壁橱墙上的那句话一直在缠她——The Greers built their fortune on alligator bones（Greer 家的财富盖在鳄鱼骨头上）。她接着说：我在哪儿都没见过骨头堆，是你们磨碎处理了吗？
+**中文理解**：骨头去哪的问题脱口而出，她过了几秒才明白为什么会问这句：Mama 壁橱墙上的那句话一直在缠她——"The Greers built their fortune on alligator bones"（Greer 家的财富盖在鳄鱼骨头上）。她接着说：我在哪儿都没见过骨头堆，是你们磨碎处理了吗？
 
 **关键词**：before realizing / phrase / haunting / fortune / grind
 

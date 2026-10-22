@@ -61,7 +61,7 @@ modified: "2026-10-22"
 
 **关键词**：everywhere / grasping / clung / screwing my eyes shut / wrists / digging
 
-**为什么这样写**：搏斗的不对称写在副词与动词的落差里：Ida 是 everywhere at once，她只有 clung tighter 这一招，攻守于是不是两个人对打，而是一个人护住一个物件。三个动词一步步收紧——grasping for（冲着箱子来）、clung（不给）、digging into my skin（改冲她的手来）。screwing my eyes shut 是这一段的枢纽：她主动撤掉视觉，因为本章前面已经摆明"看清"并不能保护她；随后那句 a witch’s fingers, a corpse’s fingers. A haint’s. 的归类也就全部靠触觉完成。
+**为什么这样写**：搏斗的不对称写在副词与动词的落差里：Ida 那一方「同时无处不在」，她手里只有一招「抱得更紧」，攻守于是不是两个人对打，而是一个人护住一件物件。三个动作一步步收紧——先是冲着箱子来（grasping for），再是不给，最后改成掐进皮里：落点从物转移到人，代价由她的身体来付。「把眼睛拧闭上」是这一段的枢纽：她主动撤掉视觉，因为本章前面已经摆明"看清"并不能保护她，看得见与看不见都躲不开那只手。于是随后那串归类（巫的手指、尸体的手指、「A haint’s」）全部靠触觉完成，一个视觉证据都没留下；直到那几根手指消失，这段遭遇才收束——她闭眼之后的整场搏斗，只存在于皮肤上。
 
 **读者视角提示**：她闭眼之后，本章的超自然就没有形状了。后面 Harrison 说"只是蝙蝠"，读者能反驳的依据只剩她腕上那道 earthy and slightly salty 的水痕。
 

@@ -47,11 +47,11 @@ modified: "2026-10-22"
 
 > **原句 4:** "“Ginny and I found Leon’s papers where you left them in front of the fire,” he said. “We read them, and when Gazzie got back home, we confronted her. She hit Ginny in the face with the bolt gun."
 
-**中文理解**：Harrison 说，他和 Ginny 找到了她留在火前的那些 Leon 的文件；他们读完，等 Gazzie 回到家就当面问她。接着他说出结果：Gazzie 用击昏枪打了 Ginny 的脸。
+**中文理解**：Harrison 说，他和 Ginny 两个人一起，把她先前留在火边的那叠 Leon 文件找了出来；两人都读完了，等 Gazzie 回到家里便上前对质。接着他说出这一场对质的结果：对方用一支击昏枪打了 Ginny 的脸。
 
 **关键词**：papers / confronted / bolt gun
 
-**为什么这样写**：四小句排成一条可回溯的链条——文件在哪儿、谁读了、谁去对质、对方做了什么。前三步的主语都是「我们」（Ginny and I / We read / we confronted），到最后一句人称突然只剩她一个（She hit Ginny），读者的注意力被这一跳挪到 Gazzie 的手上。「where you left them」顺手把 Dart 自己也安进这条链里：这些信息能到 Harrison 手里，是她放的位置。
+**为什么这样写**：四小句排成一条可回溯的链条——文件在哪儿、谁读了、谁去对质、对方做了什么。前三步的主语都是第一人称复数，「We read」就是这样开头；到最后一句，人称突然只剩对方一个——「She hit Ginny」，读者的注意力被这一跳挪到 Gazzie 的手上。前半句那个表示地点的从句，顺手把 Dart 自己也安进这条链里：这些信息能到他手里，是她放的位置。
 
 **读者视角提示**：「I don’t know what I saw」在前、这段文件在后，两件事出自同一个人；留意他在本章里说过的「看见」与「知道」分别在哪里松了口。
 
@@ -61,7 +61,7 @@ modified: "2026-10-22"
 
 **关键词**：primitive / revenge / innate / thirst / splattered
 
-**为什么这样写**：三个名词短语全部朝内（desire for revenge / resistance to being controlled / thirst to hurt others），没有一个指向别人，这和她前面那句「我厌倦了修自己」其实是同一件判断的两种写法。innate 与 lifelong 两个词把这三样东西放到出生与一辈子的尺度上——本章末尾把责任归给 blood 与 lineage 的那段推论用的正是同一把尺子。splattered 是液体飞溅的用词，于是「证据」在这里不是文件，而是看得见颜色、会溅到眼前的东西。
+**为什么这样写**：三个名词短语全部朝内——复仇的欲望、抗拒被控制的抵触、想伤害别人的渴求，没有一个指向别人；这和她前面那句「我厌倦了试图把自己修好」其实是同一件判断的两种写法。「innate」与「一生之久」这两个限定词，把这三样东西放到出生与寿命的尺度上——本章末尾把责任归给血统与家系的那段推论，用的正是同一把尺子。末尾那个表示液体飞溅的动词，让「证据」在这里不是文件，而是看得见颜色、会溅到眼前的东西。
 
 **读者视角提示**：这是本章里她第二次判定别人读错了她，而两次的顺序刚好相反：一次是她在对方开口前先替他决定他会怎么说，一次是对方说完之后她才判定他错过了什么。
 
@@ -71,7 +71,7 @@ modified: "2026-10-22"
 
 **关键词**：impossibility / blood / lineage / inevitable / wickedness
 
-**为什么这样写**：整段挂在一个 if 上：两个前提（人从不变、改变不可能）都没有被论证，结论却是一次清账（nothing that had happened was truly my fault）。三笔账越算越短、语气越说越松（And Gazzie—well），末了又被收进一个复数：their deaths。原文在 Michelle 与 Mama 两项明写的是 death，轮到 Gazzie 这一项只写 that wasn’t my fault，并没有把她的事写成一次死亡——这项留白是文本给的，不是读者补的。
+**为什么这样写**：整段挂在一个假设条件上：两个前提——人从来没变过、改变根本不可能——都没有被论证，结论却是一次彻底清账，被否定的正是「my fault」这两个词。三笔账越算越短、语气越说越松，到第三条只剩一个「Gazzie—well」，末了又收进一个复数「their deaths」。原文在 Michelle 与 Mama 两项明写的是死亡，轮到 Gazzie 这一项只说不是她的错，并没有把她的事写成一次死亡——这项留白是文本给的，不是读者补的。
 
 **读者视角提示**：这段推论之后本章再没有别人开口，只剩观景台上她自己的感受与末句那句「I am wicked, and I am loved」；留意你在这一页同意她的程度，和你在这本书里同意她的程度是不是同一个数。
 

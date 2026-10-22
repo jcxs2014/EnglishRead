@@ -21,7 +21,7 @@ modified: "2026-10-22"
 
 **关键词**：throat swelled / resented / isolating / concealing / coldness
 
-**为什么这样写**：怨恨的宾语是两个动名词（isolating、concealing）而不是人，这笔账因此有精确的名目。紧接着 I could imagine a world in which 不宣布母亲当年为何隐瞒，只搭建一个「她也可能是不忍」的可能世界——体谅被写成假设而非事实，正是怨恨松动的诚实形状。coldness 不给事件只给温度，Gazzie 的为人第一次由体感定义。
+**为什么这样写**：怨恨的宾语是两个动名词——隔离（"isolating"）与隐瞒（"concealing"）——而不是人，这笔账因此有精确的名目。紧接着那句 "I could imagine a world in which"（我能想象出这样一个世界）不宣布母亲当年为何隐瞒，只搭建一个「她也可能是不忍」的可能世界——体谅被写成假设而非事实，正是怨恨松动的诚实形状。"coldness"（冷漠）不给事件只给温度，Gazzie 的为人第一次由体感定义。
 
 **读者视角提示**：extended family 点明被隐瞒的是母系这一支。带着 coldness 这个词往下读，观察 Gazzie 的言行是否配得上它——这个由推测立起的判词后面还在被证据反复过堂。
 
@@ -31,7 +31,7 @@ modified: "2026-10-22"
 
 **关键词**：Knocked / assault / job offer / officially
 
-**为什么这样写**：started…with assault and ended it accepting a job offer 把整个相识压进一场对话的两个端点，袭击与录用这对不搭界的事被并置成喜剧——这就是 Virginia 叙述 Harrison 的声口：表面数落，实际是夸。Came back 省略主语、像讲过很多遍的段子；two summer breaks、graduated、officially 三拍递进，把「一个外姓人怎样长进这座岛」讲完。
+**为什么这样写**："started our conversation with assault"（这场对话开场是一次袭击）与 "ended it accepting a job offer"（收场是接下工作邀约）把整个相识压进一场对话的两个端点，袭击与录用这对不搭界的事被并置成喜剧——这就是 Virginia 叙述 Harrison 的声口：表面数落，实际是夸。"Came back"（又回来过）省略主语、像讲过很多遍的段子；两个暑假（"two summer breaks"）、大学毕业（"graduated"）、正式搬来（"officially"）三拍递进，把「一个外姓人怎样长进这座岛」讲完。
 
 **读者视角提示**：这段引语里 her 的指代要靠上文补出（Gazzie），Henri 出现而不解释——先记住这两个坐标。叙述者紧接着给了一句 Sounds like Harrison——判断这个人，用别人讲的段子就够，这是她此刻的处境。
 
@@ -41,7 +41,7 @@ modified: "2026-10-22"
 
 **关键词**：built / get away / hated the farm / eighteen
 
-**为什么这样写**：to get away 的目的状语先行——别墅的存在理由是逃离，逃什么由下句补（the farm），语序本身把「恨」放在因果的上游。hated 与 take over 在一句里连写，交接读起来像恨的连带后果。句末 Only a year after Ida died 只给时间差、不给事件——Ida 之死在这个讲述里仍是空白，而它被放在了继承年表旁边。
+**为什么这样写**："to get away"（为了出逃）这个目的状语先行——别墅的存在理由是逃离，逃什么由下句补出（"She hated the farm"），语序本身把「恨」放在因果的上游。"take over officially" 与前半句的恨在一句里连写，交接读起来像恨的连带后果。句末 "Only a year after Ida died" 只给时间差、不给事件——Ida 之死在这个讲述里仍是空白，而它被放在了继承年表旁边。
 
 **读者视角提示**：这一家系的两个姿态已经并排：母亲建别馆为逃离，Gazzie 被问会不会离开时只答 Never（同章）。谁被钉在农场、谁有出口，这条线后面还会反复出现。
 
@@ -51,7 +51,7 @@ modified: "2026-10-22"
 
 **关键词**：imaginary / stressed / tipped upside down
 
-**为什么这样写**：破折号里的 imaginary 是 Virginia 的处理术：先把「看见」从外部事件降级为内部状态，再给出机制——shows up（触发条件）→ got worse（恶化节点）→ tipped upside down（失稳的幅度），三步层层向内。your mother 而非 Caroline 把叙述者留在家庭称呼圈内，同时提醒：被谈论的死者与生者都还在这段对话的射程里。
+**为什么这样写**：破折号里的 "imaginary"（想象出来的那个）是 Virginia 的处理术：先把「看见」从外部事件降级为内部状态，再给出机制——"shows up"（现身）标出触发条件、"It got worse"（变得更糟）标出恶化节点、"tipped upside down"（被掀了个底朝天）标出失稳的幅度，三步层层向内。"your mother"（你母亲）而非 Caroline 把叙述者留在家庭称呼圈内，同时提醒：被谈论的死者与生者都还在这段对话的射程里。
 
 **读者视角提示**：紧接的下文里，Virginia 讲到 Gazzie 偶尔「just—」然后摇头补一个 Slips。理性化修辞撑到最后只立得住一个词——滑出去的那个瞬间是鬼还是崩溃，本章不下判词。
 
@@ -71,7 +71,7 @@ modified: "2026-10-22"
 
 **关键词**：terrible accident / choked / sometime
 
-**为什么这样写**：对话被叙述语拆头拆尾，中间只剩关于死亡的一句——信息给出、细节延期，这个结构本身就是 Leon 在家族里的待遇。voice choked with emotion 替 Virginia 解释了延期的性质：不是端着，是说不下去。terrible 不带任何内容，事故的全貌留白；sometime 则是一张写下的期票。
+**为什么这样写**：对话被叙述语拆头拆尾，中间只剩关于死亡的一句——信息给出、细节延期，这个结构本身就是 Leon 在家族里的待遇。"voice choked with emotion"（声音被情绪哽住）替 Virginia 解释了延期的性质：不是端着，是说不下去。"terrible"（可怕的）不带任何内容，事故的全貌留白；"sometime"（改天）则是一张写下的期票。
 
 **读者视角提示**：同章回城路上她自问：Nova 和 Gazzie 前几日提到的 an accident 是不是此事。带着这张期票继续读——哪些「事故」在互相指认，本章没有对账。
 
@@ -81,7 +81,7 @@ modified: "2026-10-22"
 
 **关键词**：crocodiles / wasps / gators / honeybees
 
-**为什么这样写**：一段民间分类学对仗：黄蜂对蜜蜂，mean-spirited、for the hell of it 填满黄蜂一侧，let you alone 的镜像重复收束蜜蜂一侧——互不侵犯被讲成一种缔约关系（long as you let them alone, too）。称呼 honey 与 crocodile 的冷内容相缠，是这座岛上亲昵与危险共存的语法。
+**为什么这样写**：一段民间分类学对仗：黄蜂对蜜蜂，"mean-spirited"（存心不良）与 "for the hell of it"（平白无故也要咬你）填满黄蜂一侧，"let you alone"（不搭理你）的镜像重复收束蜜蜂一侧——互不侵犯被讲成一种缔约关系（"long as you let them alone, too"，只要你不招惹它们）。"honey"（宝贝）这个称呼与鳄鱼话题的冷内容相缠，是这座岛上亲昵与危险共存的语法。
 
 **读者视角提示**：紧接的下文 So they weren’t the aggressive killers I’d assumed they were 记下这次认知修正；再对照同章早先 Blood ends up in the most unexpected places——鼍不主动伤人，不等于这座农场的血有分寸。
 

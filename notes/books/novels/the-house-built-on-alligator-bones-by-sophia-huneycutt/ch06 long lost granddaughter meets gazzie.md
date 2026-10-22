@@ -61,7 +61,7 @@ modified: "2026-10-22"
 
 **关键词**：resemblance / great-great-grandmother / avoided cameras / Awe
 
-**为什么这样写**：辈分关系（great-great-grandmother）出自一个花园工人的嘴而不是任何家人的介绍，信息的来路从此带着标记；stared directly at the painter 给 Ida 一个主动的姿态——躲镜头的习惯属于她和 Mama 这一支，画里那位偏不躲；Awe, I think. 连对一位先人的敬畏都要用 I think 打个折才敢承认。
+**为什么这样写**：辈分关系（great-great-grandmother）出自一个花园工人的嘴，而不是出自任何家人的介绍——信息的来路从此带着标记：她确认自己和这栋房子有血缘，用的还是一个外人的说法。写画中人时只给了一个主动的姿态，她直直盯着画家；躲镜头的习惯属于她和 Mama 这一支，画里那位偏不躲。末句 Awe, I think. 只有三个词，连对一位先人的敬畏，也要先补上「我想」打个折才敢承认。
 
 **读者视角提示**：从此凡「复制品／原作」再出现，记得先确认——第一个肯定她与这栋房子共用一张脸的，是她说「希望别再见到」的那个人。
 
@@ -87,7 +87,7 @@ modified: "2026-10-22"
 
 > **原句 8:** "Aunt Virginia had never claimed Gazzie wanted me at Greer House; she’d said she wanted me to visit, so she could get to know me. She must have told Gazzie I was coming at the last minute. That’s what they’d been fighting about."
 
-**中文理解**：Virginia 姨妈从没说过 Gazzie 想让她来 Greer House；她说的只是她想让她来小住、好认识她。她一定是临到最后一刻才告诉 Gazzie 她要来。那就是厨房争吵的全部内容。
+**中文理解**：Virginia 姨妈从来没有说过是 Gazzie 想让她来 Greer House；她说过的那句，只是她自己想让她来小住一段，好认识认识她。她一定是临到最后一刻才把要来这件事告诉 Gazzie。厨房那场争吵，为的就是这一件。
 
 **关键词**：never claimed / get to know me / last minute / fighting
 
@@ -101,7 +101,7 @@ modified: "2026-10-22"
 
 **关键词**：hanger-on / desperate / cracking open / leaking
 
-**为什么这样写**：自我认识借敌人的眼睛完成，看见即受刑。Alone, desperate for family 两个残缺短句像两块挂牌；接着把悲伤物化为液体——leaking onto the dining table，桌子刚刚才摆上冷虾沙拉和橙子，此刻多接住一层看不见的湿。
+**为什么这样写**：自我认识借敌人的眼睛完成，看见即受刑。「孤零零」「对家人如饥似渴」是两个残缺短句，像两块挂牌并排挂在她身上。接着她把悲伤物化成液体：一个「漏」字（leaking）让胸口裂开的那种感觉有了去处——桌子刚刚才摆上冷虾沙拉和橙子，此刻多接住一层看不见的湿。
 
 **读者视角提示**：注意她「借谁的眼睛」的账目：本章她先借 Harrison 的眼睛（intruder）、再借 Gazzie 的眼睛（hanger-on）——每次借完，她对自己的判决都会更重一格。
 

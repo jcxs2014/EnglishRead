@@ -47,7 +47,7 @@ modified: "2026-10-22"
 
 > **原句 4:** "Something suspicious was going on. Why would Gazzie have Joe tell Harrison instead of texting Harrison herself?…But why had Joe left a note for Harrison instead of telling him face-to-face?"
 
-**中文理解**：有事情不对劲。Gazzie 为什么要借 Joe 的口去告诉 Harrison，而不自己给 Harrison 发短信？……可 Joe 又为什么给 Harrison 留纸条，而不是当面说？
+**中文理解**：有事情不对劲。Gazzie 为什么要借 Joe 的口去转告 Harrison，而不是自己直接给他发一条短信？……可 Joe 又为什么要给这个人留下一张纸条，而不是当面对他说一句？
 
 **关键词**：suspicious / face-to-face
 

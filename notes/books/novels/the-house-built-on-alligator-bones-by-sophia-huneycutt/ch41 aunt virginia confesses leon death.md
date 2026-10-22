@@ -27,7 +27,7 @@ modified: "2026-10-22"
 
 > **原句 2:** "Inside Henri’s house, Aunt Virginia placed my umbrella in the mudroom, where it dripped onto the tiled floor. She gave Uncle Leon’s papers a curious glance and offered to take them, but I refused, clutching them tighter in one arm as I took the water bottle she offered. I felt like I’d entered a room with a caged snake."
 
-**中文理解**：进了 Henri 家，Aunt Virginia 把她的伞放在杂物间，伞在瓷砖地上滴水。Virginia 朝 Uncle Leon 的 papers 好奇地看了一眼，伸手要接，她拒绝了——一只手把 papers 攥得更紧，另一只手接过对方递来的水瓶。她觉得自己像是走进了一间关着笼中蛇的房间。
+**中文理解**：进了 Henri 家，Aunt Virginia 把她的伞放在杂物间，伞在瓷砖地上滴水。姨妈朝 Uncle Leon 留下来的那叠文件好奇地看了一眼，伸手要接，她拒绝了——一只手把文件攥得更紧，另一只手接过对方递来的水瓶。她觉得自己像是走进了一间关着笼中蛇的房间。
 
 **关键词**：curious glance / refused / clutching them tighter / caged snake
 
@@ -47,7 +47,7 @@ modified: "2026-10-22"
 
 > **原句 4:** "Once, I walked in on them in her office. Gazzie was kneeling, forehead pressed to the floor. Ida had placed her boot on Gazzie’s head and was grinding her face into the ground."
 
-**中文理解**：Virginia 回忆：有一次她撞进 Ida 的办公室，Gazzie 跪在地上、额头贴着地面；Ida 把靴子踩在 Gazzie 的头上，正把她的脸往地里碾。
+**中文理解**：姨妈回忆：有一次她撞进那间办公室，看见 Gazzie 跪在地上、额头贴着地面；Ida 把靴子踩在她头上，正把她的脸往地里碾。
 
 **关键词**：walked in on / kneeling / forehead pressed to the floor / boot / grinding
 
@@ -57,7 +57,7 @@ modified: "2026-10-22"
 
 > **原句 5:** "Gazzie taught her children as Ida had taught her. Unlike Leon, Caroline listened to every word Gazzie said, believed it all… After another fight about college tuition, Gazzie made Leon stay overnight on the farm as punishment."
 
-**中文理解**：Gazzie 用 Ida 教她的方式教自己的孩子。和 Caroline 不同，Leon 不肯句句听信；又一次为大学学费吵完架后，Gazzie 罚 Leon 到农场过夜，作为 punishment。
+**中文理解**：Gazzie 用当年 Ida 教她的方式，照样去教自己的孩子。和 Caroline 不同，Leon 不肯句句听信；又一次为大学学费吵完架之后，她罚这个儿子到农场过夜，当作惩罚。
 
 **关键词**：taught her children / listened to every word / college tuition / punishment
 

@@ -21,7 +21,7 @@ modified: "2026-10-22"
 
 **关键词**：crack / bead / steady stream / attention
 
-**为什么这样写**：镜头跟着 Gazzie 的仰视走——视线先行，裂缝是被「看」出来的。水量按时间单位升级：a bead、then another、within seconds a steady stream，三个刻度把一场小漏写成倒计时。as though her attention had made it worse 是全章最暧昧的半句：它既是 Dart 的自嘲式归因（我一抬头它就变本加厉），又像在给房子留一个「有反应」的接口——本章 Dart 自己给出的判词是 Nature just seemed intent on interfering with the property，水、藻、裂缝在这里都是有意志的原告。
+**为什么这样写**：镜头跟着 Gazzie 的仰视走——视线先行，裂缝是被「看」出来的。水量按时间单位三级升级："A bead of water" 是一滴渗下、"then another" 是又一滴、"it was a steady stream" 是几秒内连成的水流，三个刻度把一场小漏写成倒计时。"as though her attention had made it worse"（好像她的注视反而让它更糟）是全章最暧昧的半句：它既是 Dart 的自嘲式归因（我一抬头它就变本加厉），又像在给房子留一个「有反应」的接口——本章 Dart 自己给出的判词是 "Nature just seemed intent on interfering with the property"（自然仿佛存心跟这处房产作对），水、藻、裂缝在这里都是有意志的原告。
 
 **读者视角提示**：留意这漏水发生在办公室正中央、Gazzie 脚边——破洞不在远处的棚舍，而在权力的桌面上；后面所有「农场一切正常」的场面话都从这摊水上走过去。
 
@@ -31,7 +31,7 @@ modified: "2026-10-22"
 
 **关键词**：missing / consolation / throw out / dig back
 
-**为什么这样写**：even with so much missing 是本句唯一一处泄露：Nova 默认「缺」是既定事实，却无人解释缺了什么、谁弄缺的——本章早前 Dart 追问「生意不是 1800 年代末创立吗，文件不该更多吗」，得到的也只有 Nova 一句 Yeah.。扔文件的尺度不是价值而是稽查回溯期：dig back more than ten years 把历史切成两摞——税务局够得着的与够不着的，前者要扫描，后者进垃圾堆。这条规矩的出处用 Virginia said 转述，档案室的实际行政命令出自 Virginia，Gazzie 反而不在规则链里。
+**为什么这样写**："even with so much missing"（就算已经少了这么多）是本句唯一一处泄露：Nova 默认「缺」是既定事实，却无人解释缺了什么、谁弄缺的——本章早前 Dart 追问「生意不是 1800 年代末创立吗，文件不该更多吗」，得到的也只有 Nova 一句干巴巴的 "Yeah."。扔文件的尺度不是价值而是稽查回溯期："dig back more than ten years"（往回查十年以上）把历史切成两摞——税务局够得着的与够不着的，前者要扫描，后者进垃圾堆。这条规矩的出处用 "Virginia said" 转述，档案室的实际行政命令出自 Virginia，Gazzie 反而不在规则链里。
 
 **读者视角提示**：Nova 说这些时毫无起伏（She spoke without inflection）。凡是平静语气交付的异常信息，都值得怀疑农场里的人早已习惯到什么程度。
 
@@ -41,7 +41,7 @@ modified: "2026-10-22"
 
 **关键词**：isolating / worthless / message / picked up on
 
-**为什么这样写**：Dart 的身体先认罪（Heat spread across my cheeks），随后才是解读。sending a message 这个说法把一间屋子、一堆箱子、一个岗位全部当成句子成分来读——她读出的不是工作内容而是「被安排」这件事本身。worthless 值得较真：文件价值由谁定？本章前文刚交代这些箱子 festering for years, if not decades，且缺了一大块——同一堆纸，在 Gazzie 的安排里是羞辱，在 Dart 的证据学里却可能恰恰是缺口所在。Even Nova had picked up on it 把共谋感扩大：连最不在乎这份工的人都读懂了，说明这话传得毫不隐秘。
+**为什么这样写**：Dart 的身体先认罪（"Heat spread across my cheeks"，热意漫上脸颊），随后才是解读。"sending a message"（放话）这个说法把一间屋子、一堆箱子、一个岗位全部当成句子成分来读——她读出的不是工作内容而是「被安排」这件事本身。"worthless"（毫无价值）值得较真：文件价值由谁定？本章前文刚交代这些箱子 "festering for years, if not decades"（沤了几年甚至几十年），且缺了一大块——同一堆纸，在 Gazzie 的安排里是羞辱，在 Dart 的证据学里却可能恰恰是缺口所在。"Even Nova had picked up on it"（连 Nova 都看出来了）把共谋感扩大：连最不在乎这份工的人都读懂了，说明这话传得毫不隐秘。
 
 **读者视角提示**：这是 Dart 单方面替 Gazzie 写的判词。对照本章开头——Gazzie 在车旁等她、一句怨言没有——同一天的两个证据指向相反结论，叙述者没有调和它们。
 

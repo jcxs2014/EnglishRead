@@ -7,21 +7,21 @@ modified: "2026-10-22"
 
 ## 本章导航
 
-- **一句话概括**：Dartrine 在梦中沉于沼泽底，被一张同时是 Ida、Gazzie 与她自己的脸举枪射击；醒来后她发现自己躺在 breeding pond 的围栏里，gate 挂锁、Gazzie 已走。她摸回 Gazzie 扔出却没带走的那把 pliers，冒着鳄口剪断围栏铁丝，在最后一剪被鳄鱼咬住靴子时把钳子扎进它的头侧；对满池逼近的黄色眼睛她喊出「I’m not like them」，换来鳄鱼撤退。她包扎伤脚、穿过飓风眼那段反常的平静，判下「Gazzie was irredeemable. Ida was beyond that; Ida was damned」，最后没有驶向 Georgia，而是把车开往 Greer House。
+- **一句话概括**：她在梦中沉于沼泽底，被一张同时是 Ida、Gazzie 与她自己的脸举枪射击；醒来后她发现自己躺在 breeding pond 的围栏里，gate 挂锁、Gazzie 已走。她摸回 Gazzie 扔出却没带走的那把 pliers，冒着鳄口剪断围栏铁丝，在最后一剪被鳄鱼咬住靴子时把钳子扎进它的头侧；对满池逼近的黄色眼睛她喊出「I’m not like them」，换来鳄鱼撤退。她包扎伤脚、穿过飓风眼那段反常的平静，判下「Gazzie was irredeemable. Ida was beyond that; Ida was damned」，最后没有驶向 Georgia，而是把车开往 Greer House。
 - **情感弧线位置**：从梦里的臣服（她乐意留在平静的沼泽底）到醒后的求生（剪网、扎鳄），再到隔池求和的哀告，最后落在「我能想事了」的冷却决意——恐惧一路让位给判断，章末的平静比全章任何一段暴力都重。
 - **Tropes 兑现/反转**：兑现「被至亲弃于图腾兽口、从鳄口生还的继承人」；反转有两层：救她的不是及时赶到的外援，而是攻击者留下的那把钳子（Gazzie 没把它捡走）；鳄群也未被屠戮收场，而是一次喊话谈判止战——超自然在本章是谈判对象，不只是杀手。
-- **人物弧线**：Dartrine 在本章把 Ida 与 Gazzie 分开定罪（irredeemable / damned），把「无法讲理、无法威胁、无法改变」写成对祖母的最终判词；同时她对自己许下对自然也生效的诺（make things right），行动目标从自保切换为回 Greer House 处置这段 legacy。
+- **人物弧线**：她在本章把 Ida 与 Gazzie 分开定罪（irredeemable / damned），把「无法讲理、无法威胁、无法改变」写成对祖母的最终判词；同时她对自己许下对自然也生效的诺（make things right），行动目标从自保切换为回 Greer House 处置这段 legacy。
 - **叙事手法**：开篇梦境充当全章的判决书与节目单（Ironheart 要她做的事、她反击的对象都在梦里先排好）；醒来段落按感官恢复的顺序写（先触与听、后视）；中段用剪孔计数与短动作句压缩时间；结尾借气象注解把这段平静既写成自然现象、又留一句「I agree」让叙述者承认其中有超自然的账。
 
 ## 精读
 
 > **原句 1:** "I didn’t realize it then, but looking back, this was the moment Ironheart first revealed itself to me. Ida had infiltrated my dreams in Greer House to convince me to continue her legacy, and now Ironheart was trying to sway me to its side, show me what it wanted me to do."
 
-**中文理解**：梦先铺底：Dartrine 躺在子宫般温热的沼泽底，一个煤黑眼睛的女人举枪朝她射击；第二次浮出水面时她认出来，射手同时有好几张脸——她是 Ida、是 Gazzie、也是她自己。回顾定性：梦里被撕咬的那一刻，是 Ironheart 第一次向她显形。她把前后两桩梦并排说清：Ida 从前潜入她在 Greer House 的睡眠，劝她把那份遗志接着办下去；如今另一股力量也要把她拉向自己那一边，让她看懂它要她做什么——而它到底要她做什么，这一句里故意留白。
+**中文理解**：梦先铺底：她躺在子宫般温热的沼泽底，一个煤黑眼睛的女人举枪朝她射击；第二次浮出水面时她认出来，射手同时有好几张脸——她是 Ida、是 Gazzie、也是她自己。回顾定性：梦里被撕咬的那一刻，是 Ironheart 第一次向她显形。她把两桩梦并排说清：Ida 从前潜入她在 Greer House 的睡眠，劝她把那份遗志接着办下去；如今另一股力量也要把她拉向自己那一边，让她看懂它要她做什么——而它到底要她做什么，这一句里没有说。
 
 **关键词**：revealed / infiltrated / sway / legacy
 
-**为什么这样写**：infiltrated 与 sway 两个动词把两股势力写成同一种作业方式——渗透与游说，受体都是第一人称「我」的睡眠。her legacy 与 its side 对照着放：Ida 要的是继承，Ironheart 要的只是站队。句末把「要她做的事」悬在半空，下一行立刻用两个词交货：Destroy the Greers——目标覆盖全族，包括说话人自己。
+**为什么这样写**：两个动词把两股势力写成同一种作业方式——infiltrated 走暗门，sway 走劝服，一个潜入、一个游说；受体都是第一人称的睡眠，没有谁醒着与它们谈判。所属格被刻意错开：一边是「她的」家业，一边是「它的」阵营，Ida 要的是继承，Ironheart 要的只是站队。句末把「要她做的事」悬在半空，下一行立刻用两个词交货：Destroy the Greers——目标覆盖全族，包括说话人自己。
 
 **读者视角提示**：注意这张「多脸」：把 Ida、Gazzie 与自己并列成同一射手，等于先替本章后面的三场对峙（祖先、祖母、自我）定好调。
 
@@ -41,7 +41,7 @@ modified: "2026-10-22"
 
 **关键词**：melon-sized / calculated / snips / freedom
 
-**为什么这样写**：calculated 与裸数字 Eight 把越狱写成算术，恐惧被稀释进计数动作里；risked a glance down 与上一段的 risked a glance at the gate 复用同一个 risked，提醒读者她每一次「确认进度」都要付风险。freedom 一词在此处还是轻的——她尚不知道自由的价格后面还要另付一次。
+**为什么这样写**：越狱被写成一道算术题：摸算洞口大小的动词是 calculated，报出来的答案只有一个裸数字 Eight，恐惧于是被稀释进逐剪计数里，不抬头也能摸出洞已经多大。「低头看一眼」与上一段「回头看门锁」复用同一个 risked，提醒读者她每一次确认进度都要付风险——确认这个动作本身就是一次暴露。freedom 一词在此处还是轻的，她尚不知道自由的价格后面还要另付一次。
 
 **读者视角提示**：数剪子时顺手记下她不敢做的事：不背对鳄鱼、不停下手中动作。这份操作规程会在被咬一刻全部作废。
 
@@ -57,7 +57,7 @@ modified: "2026-10-22"
 
 > **原句 5:** "Ironheart was real and was determined to kill my family. The first Greer up would be me, unless I could convince it I wasn’t the same kind of Greer as my grandmother and great-great-grandmother, that I wasn’t on their side."
 
-**中文理解**：整池鳄鱼循着那声震天的 hiss 列队逼近时，她给梦定案：Ironheart 是真的，铁了心要杀她全家；它要动的第一条命就是她——除非她能说服它：自己不是 grandmother 和 great-great-grandmother 那种 Greer，自己不在她们那边。
+**中文理解**：整池鳄鱼循着那声震天的嘶鸣列队逼近，她在这时候给梦定案：Ironheart 是真的，铁了心要杀她全家；它要动的第一条命就是她自己。除非她能说服它——自己不是祖母与曾曾祖母那一类 Greer，自己不在她们那一边。这句推理说完，她紧接着就把它喊出了口：我不像她们。
 
 **关键词**：determined / convince / great-great-grandmother / on their side
 
@@ -71,7 +71,7 @@ modified: "2026-10-22"
 
 **关键词**：bend / reasoning / irredeemable / damned
 
-**为什么这样写**：no reasoning、no threatening、no changing 三个否定按「对话手段」排序：她逐一试完才承认无路可走，于是哭（a sob wrenched out of my chest）不是软弱，是宣判后的余波。beyond that 与 damned 把神学词从日常语域里拽出来——Ida 不在人间的救赎账本上，Gazzie 只是账内赖账者；两人被她划进同一部账簿却分列两栏。
+**为什么这样写**：三个否定排成一份「对话手段」清单：先讲理、再威胁、最后想改造她，宾语自始至终是同一个 her。她把这三条路逐条试完才承认无路可走，于是那声从胸口硬扯出来的哭不是软弱，而是宣判之后的余波。末尾两个词把审判从日常语域抬进神学语域：「beyond that」先把 Ida 放到 Gazzie 之外，紧随的 damned 再给她定名——Ida 不在人间的救赎账本上，Gazzie 只是账内的赖账者；两人被她划进同一部账簿，却分列两栏。
 
 **读者视角提示**：留意 she’d left Leon all those years ago 这个 like：它把眼前的鳄圈与当年的水池并成同一个动作，重复模式才是她对本家的终极发现。
 
@@ -81,7 +81,7 @@ modified: "2026-10-22"
 
 **关键词**：loose / promise / make things right
 
-**为什么这样写**：破折号把 promise 的受体从「鳄鱼」一级级放大到「nature itself」，一句私了被写成对自然法的担保；leave her loose in the world 用的仍是养殖语汇——Gazzie 在她眼里成了需要围栏的猛兽，本章的鳄圈与人间的位置就此对调。make things right 三个词不含任何具体条款，这个空洞正是留给后续章节的悬念接口。
+**为什么这样写**：破折号把这份承诺的受体一级级放大——从池塘边那排逼近的鳄鱼、到 Ironheart、再到自然本身，一句私下答应因此被写成对自然法的担保。放她走的那句说的是「leave her loose in the world」，一个 loose 几乎把人写成了没被拴住的牲口——Gazzie 在她眼里成了需要围栏才关得住的猛兽，本章的鳄圈与人间就此位置对调。至于末尾那三个词 make things right，一个具体条款也没有：这个空洞正是留给后续章节的悬念接口。
 
 **读者视角提示**：把「不能逃」和「没有计划」并排读：她的决定此刻只有方向（Greer House），没有方案——读者的紧张应该按这个差额计价。
 

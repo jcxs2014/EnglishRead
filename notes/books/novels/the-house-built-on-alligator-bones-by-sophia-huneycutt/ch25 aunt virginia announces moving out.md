@@ -47,7 +47,7 @@ modified: "2026-10-22"
 
 > **原句 4:** "Like Mama, she’d taken my life into her hands, molding it to fit her needs. I’d been used to Mama doing it, though; I hadn’t expected it from sweet, caring Aunt Virginia."
 
-**中文理解**：和 Mama 一样，她也把我的人生攥进自己手里，捏成合她需要的形状。不过，Mama 这样对我，我早就习惯了；我没想到 sweet、caring 的 Virginia 姨妈也会这样。
+**中文理解**：和 Mama 一样，她也把我的人生攥进自己手里，捏成合她需要的形状。不过，Mama 这样对我，我早就习惯了；我没想到温柔、体贴的 Virginia 姨妈也会这样。
 
 **关键词**：molding / expected / sweet
 

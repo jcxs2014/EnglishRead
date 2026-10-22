@@ -61,7 +61,7 @@ modified: "2026-10-22"
 
 **关键词**：marble / braids / tilted / laughed
 
-**为什么这样写**：三句话没有一行对白，全凭体态拼出一段关系的形状——leaning on 是松弛，wrapped one arm lightly around 是当众的所属，face tilted up...and she laughed 是仰慕的夹角。副词 lightly 干最重的活：手臂的重量敢放轻，是因为这段关系不需要向这间屋子证明什么。称谓也给得讲究：两句里都写全 Aunt Virginia，对新出现的对方只落一个 the woman——叙述者仍站在亲属头衔里看这两个人。
+**为什么这样写**：三句话没有一行对白，全凭体态拼出一段关系的形状——leaning on 是松弛，一条手臂轻轻环住对方是当众的所属，脸朝她仰起、笑出声是仰慕的夹角。副词 lightly 干最重的活：手臂的重量敢放轻，是因为这段关系不需要向这间屋子证明什么。称谓也给得讲究：两句里都写全 Aunt Virginia，对新出现的对方只落一个 the woman——叙述者仍站在亲属头衔里看这两个人。
 
 **读者视角提示**：这个画面让叙述者"my anxiety about Uncle Leon’s sketchbooks washing away"——侦查线程被"人怎样相爱"的线程暂时顶掉。她随后感叹从没见过两个人爱得这么明显；可以留意：这是本章唯一一处全透明的人际关系，而同一屋檐下的其他信息都走拧大的音量和不肯开口的身体。
 

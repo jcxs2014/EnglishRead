@@ -31,7 +31,7 @@ modified: "2026-10-22"
 
 **关键词**：gathering evidence / must not have known / sentiment / confronting
 
-**为什么这样写**：第二个 against 把对象从一个人放大成一门生意，读者于是知道 Leon 的目标不是家丑而是罪行。紧接着的推理是倒着做的：从"箱子还留着"反推"她不知道箱里有什么"，用对方的疏忽当证据。最有意思的是第三句的犹豫：她一边说 keeping anything out of sentiment 古怪，一边替这件事找出一条只可能成立的版本（藏 Leon 的东西、但不打开），并顺手交代依据——同段后一句 She wasn’t particularly curious about other people; only Ida sparked her interest.
+**为什么这样写**：同一个介词「against」在一句话里写了两遍，对象从一个人放大成一整门生意——读者于是明白 Leon 列进取证清单的不止家门内的事，还有那座养殖场。紧接着的推理是倒着做的：从"箱子还留着"反推"她不知道箱里有什么"，拿对方的疏忽当证据，前提是她先认定 Gazzie 不是念旧的人。第三句的犹豫最有意思：她一面承认「因为念旧而留下什么东西」这件事本身就古怪，一面替它找出一条只可能成立的版本——把 Leon 的东西藏起来，却不去面对里面的内容；这条版本不是凭空猜的，同段下一句就给了依据：她本就不怎么对别人好奇，只有 Ida 提得起她的兴趣。
 
 **读者视角提示**：她对 Gazzie 的判断此刻只到"不会好奇"，还没有到"不会犯罪"。这一章接下来撬动她的正是后一条：纵火的报告、同日不同额的两套账，以及 Harrison 那句 She did it. She killed him.
 
@@ -41,7 +41,7 @@ modified: "2026-10-22"
 
 **关键词**：hit at once / double time / found myself / reaching / stopping himself
 
-**为什么这样写**：破折号拆开的三项里，前两项是身体条件，第三项才是消息本身，三者并列就是把"我撑不住"写成有借口的生理事实。found myself 让动作脱离她的指挥，读者看见她的自控先失效。Harrison 的克制全在这句的动词顺序里：rushed、reaching、stopping、falling——一个拥抱被拆成"伸手"与"收手"两个动作，收手那个才是他做的选择；同段随后一句他悬在她面前放下药杯（Hovering in front of me, he placed his whiskey glass on the nightstand.），把这份谨慎落到一个具体物件上。
+**为什么这样写**：破折号拆开的三项里，前两项是身体条件（酒精、热气），第三项才是消息本身；三者并列，就等于把"我撑不住"写成一件有借口的生理事实，责任先分给了身体。「found myself」这个说法让动作脱离她的指挥——心跳加倍之后，人是先走歪的，自控随后才失效。Harrison 的克制全在这句的动词顺序里：rushed、reaching、stopping、letting 四个动作连着写，一个拥抱被拆成"伸手"与"收手"两截，收手那一截才是他做的选择。同段随后一句，他悬在她面前把酒杯搁到床头柜上，这份谨慎于是落到一件具体的东西上：他不敢碰她，却把杯子留在了她手边。
 
 **读者视角提示**：这只杯子不是道具。他不敢碰她，转身却看着她把它抄起来砸向墙壁——先记下这份谨慎，再看那一下落点。
 
@@ -61,7 +61,7 @@ modified: "2026-10-22"
 
 **关键词**：confronted / money to stay quiet / hated himself / summer job / spy
 
-**为什么这样写**：封口这笔交易被写成两个短句，价格与答复之间没有一个形容词，"he said yes" 的干脆正是他后来痛恨自己的形状。省略号跳开的是他父亲与 Leon 的旧交与病重（He and Leon—they’d grown up together. / Wanted to make things right before he passed.），于是最后那句 Asked me 的施动者要靠读者自己接回"父亲"——她记下了这条链：目击者收钱沉默，儿子被派来监视。
+**为什么这样写**：封口这笔交易被压成两个短句，价格与答复之间一个形容词也没有——「he said yes」的干脆，正是他后来痛恨自己的形状：这个答复没有为自己找任何借口。省略号跳开的那几行是他父亲与 Leon 的旧交和病重，于是末尾那句「Asked me」的施动者只能由读者自己接回"父亲"。这条链的落差就此摆明：目击者收钱闭嘴，儿子被派到农场来盯着 Gazzie——沉默落在上一代，执行落在下一代。
 
 **读者视角提示**：spy 这个词先由 Harrison 说出、再由她顶回去（"Spy." This was getting more and more ridiculous.），随后一段一段由他自己坐实。注意施动者一路是父亲：出主意的是上一代，执行与隐瞒落在下一代身上。
 
@@ -71,7 +71,7 @@ modified: "2026-10-22"
 
 **关键词**：carried / directly under / portrait / rippling / billowing / swear
 
-**为什么这样写**：构图先替她说话——Gazzie 站在 Ida 的画像正下方笑着，directly under 把活人和画里的人排进同一条垂直线上。did not, could not 中间只隔一个逗号，前者是她的选择，后者是她的极限，两个词一起把"看"变成危险动作。后面那串 -ing（rippling、billowing、fluttering）全是画像在动，而她的措辞承认这只是证词（I swear）不是证据，句尾的 caught in a breeze 又把动因推回那一层说不清的空气。
+**为什么这样写**：构图先替她说话——Gazzie 站在 Ida 的画像正下方笑着，一个「正下方」就把活人和画里的人排进同一条垂直线，谁在上、谁在下不由她决定。did not, could not 中间只隔一个逗号：前者写她没有看，后者写她看不了——是不敢还是被什么按住，原文不作分辨，两个短语一起把"看"变成危险动作。后面那一串以 -ing 收尾的动词全是画像在动——水在荡、裙在鼓、发丝在飘；她的措辞又自己承认这只是证词而不是证据（「I swear」），句尾的「caught in a breeze」再把动因推回那层说不清的空气里。她没有直视，却又发誓自己看见画像在动，两件事并排写在同一句里，本章不替她圆场。
 
 **读者视角提示**：到了楼下这一场，Ida 的存在感又落回一幅画和一阵风上，而不是任何 Harrison 也能看见的东西。她推门出去之后迈出的每一步，都在这份"只有她看得见"的压力下进行。
 
