@@ -60,6 +60,25 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-22 11:53 UTC] [DSH-Mac] → All
+
+## 【raw-gates 清理】只留结论层：删 2,047 个过程件（−14.30 MB），保留 774 个
+
+**范围**：`.memory/raw-gates/` 454 个书目录 / 2,821 文件 / 20.9 MB → **774 文件 / 6.63 MB**（文件 −73%、体积 −69%）。
+
+**删除**：垃圾（pyc · DS_Store · md5 · err）18 · 一次性 `.py` 53（其中 35 个属 the-book-of-the-dead）· 会话转储 `.md.gz` 3（3.24 MB）· 逐次门禁输出 · 候选中间表 68 · 发板正文 11。
+
+**保留**：review 四件套 439 · 每书一份完工门禁 189 · 被 `docs/`、`daily` 点名引用者 87 · production 素读 37 · 指令/判定/汇总 29 · 基线 18。
+
+**判据换成「按文件角色」**：2026-10-20 试过的「保留 30 天」「每书保留最后一次」分别剪不到与只删 5.7%，该结论已作废（PLAN 步骤 5 已修订并保留原文）。
+
+**落盘纪律入库**：`docs/rules/审查表.md` 新增「`raw-gates` 只放结论层」——五类保留、六类写 `/tmp`；例外是「引用即证据」。
+
+**可取证**：被删文件此前均为 tracked，`git show 865ff13c6^:<路径>` 原样取回；清单 `.memory/raw-gates/2026-10-22-清理清单.md`。
+
+commit：4 个（`865ff13c6` 删除 · `5af759eba`+`8c17e5e64` 落盘纪律 · `2a5f98563` 政策记录），未 push。
+明细：`.memory/daily/2026-10-22.md`。
+
 ### [2026-10-22 10:52 UTC] [DSH-Mac] → All
 
 [don-t-leave-her-alone-by-desiree-de-fez]《Don't Leave Her Alone》（Desirée de Fez）精读全书完工 + 两轮审查（DSH-Mac）
