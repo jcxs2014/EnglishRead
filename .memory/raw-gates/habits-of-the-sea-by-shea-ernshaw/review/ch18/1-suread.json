@@ -1,0 +1,70 @@
+{
+ "chapter": 18,
+ "source": "text/ch18_chapter_seventeen.txt",
+ "facts": [
+  {
+   "fact": "男孩把 Clay 领进树林，她留在岛上；Clay 回头却没挥手——他不想让男孩知道岛上还有个女人",
+   "span": [
+    610,
+    677
+   ],
+   "anchor": "Clay turns his head back to the island, to me, but he doesn’t wave."
+  },
+  {
+   "fact": "她独自咬下那颗桃，一颗不够",
+   "span": [
+    1155,
+    1173
+   ],
+   "anchor": "One wasn’t enough."
+  },
+  {
+   "fact": "他带回一条面包：「上面有人，一个社群，在树里」",
+   "span": [
+    1922,
+    1974
+   ],
+   "anchor": "There’s people, Ellie. A community, up in the trees."
+  },
+  {
+   "fact": "社区的问候被磨得极短：「Tide pull you wrong?」「Rain find you last eve?」",
+   "span": [
+    3836,
+    3872
+   ],
+   "anchor": "“Tide pull you wrong?” one man asked"
+  },
+  {
+   "fact": "她把手按在肚子上说她可能怀孕了；他说「I canna lose ye」",
+   "span": [
+    6871,
+    6887
+   ],
+   "anchor": "I canna lose ye."
+  },
+  {
+   "fact": "社区有七十三人，住在废弃高尔夫球场上",
+   "span": [
+    3518,
+    3568
+   ],
+   "anchor": "There are seventy-three members of their community"
+  },
+  {
+   "fact": "他们用石头与一条废弃的锚链把岛固定住",
+   "span": [
+    9419,
+    9431
+   ],
+   "anchor": "anchor chain"
+  },
+  {
+   "fact": "日落时出现绿闪；最后一句「Ye, Ellie, are my homeland.」",
+   "span": [
+    13409,
+    13425
+   ],
+   "anchor": "are my homeland."
+  }
+ ]
+}
