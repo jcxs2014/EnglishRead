@@ -1,0 +1,55 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch02",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch02_chapter_one.txt",
+ "facts": [
+  {
+   "fact": "叙述者从厨房垃圾里翻出一封寄给 Mama、来自佛罗里达 Fernandina Beach 一个叫 Gazzie Greer 的人的信",
+   "anchor": "addressed to Mama from someone named Gazzie Greer",
+   "start": 143,
+   "end": 192
+  },
+  {
+   "fact": "信封里掉出一封短信和一张撕成两半、金额 30,000 美元的支票",
+   "anchor": "two halves of a ripped check for $30,000",
+   "start": 1673,
+   "end": 1713
+  },
+  {
+   "fact": "信中 Gazzie 自称后悔当年与 Caroline 分开，称她「my girl」，说要见孙女",
+   "anchor": "I regret the way we parted, my girl",
+   "start": 2608,
+   "end": 2643
+  },
+  {
+   "fact": "信让收信人把回信发到 Ginny 的邮箱 virginia@greerfinealligators.com",
+   "anchor": "Please email Ginny at virginia@greerfinealligators.com",
+   "start": 2695,
+   "end": 2749
+  },
+  {
+   "fact": "网站 About Us 自述 Greer 家是经营鳄鱼养殖场的网络，总部 Jacksonville，1892 年创立、家族持有百余年",
+   "anchor": "owned the business for more than 125 years",
+   "start": 4793,
+   "end": 4835
+  },
+  {
+   "fact": "叙述者在回信里自报 Dartrine、Caroline Beaumont 的女儿",
+   "anchor": "I’m Caroline Beaumont’s daughter, Dartrine",
+   "start": 7095,
+   "end": 7137
+  },
+  {
+   "fact": "回信里告知对方母亲本周因手术并发症去世",
+   "anchor": "she passed this week due to surgical complications",
+   "start": 7211,
+   "end": 7261
+  },
+  {
+   "fact": "叙述者从垃圾深处翻出一张持步枪的维多利亚女人画像复制卡，判定她是 Ida",
+   "anchor": "I decided she must be Ida, whoever that was",
+   "start": 8694,
+   "end": 8737
+  }
+ ]
+}

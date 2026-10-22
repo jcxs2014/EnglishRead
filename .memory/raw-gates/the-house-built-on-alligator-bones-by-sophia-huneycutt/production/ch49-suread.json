@@ -1,0 +1,55 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch49",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch49_epilogue.txt",
+ "facts": [
+  {
+   "fact": "日出照在 Greer House 的残骸上：叙述者坐在自家餐桌前速写本摊开、一边低声自语一边把记忆写下来并在段落间涂鸦；一只灰猫蹲在她面前的桌上盯着那盒验孕试纸，伸爪把盒子往桌边轻推，她放下笔把它赶开，猫怏怏退回起居室、回头像等她道歉。",
+   "anchor": "When the sun rises over Greer House’s remains, the gray cat is sitting on the dining table in front of me, staring intently at the box of pregnancy tests.",
+   "start": 16,
+   "end": 170
+  },
+  {
+   "fact": "速写本已经写满，北上之后的一切记不下了：海边小村（每天早晨有雾涌进来）的新家、展出她画作的画廊、Harrison 白天做工的蓝莓农场与他夜里备考 GRE 的咖啡馆、与 Aunt Virginia 和 Henri 的年度度假——去过里约热内卢、阿玛尔菲海岸、拉各斯；那几地画出来的画色彩浓艳，她现在用油画颜料；这是五年来第一本画得这么暗的速写本，插画狂乱奇幻，像 Uncle Leon 的。",
+   "anchor": "the blueberry farm where Harrison works by day, the coffee shop where he studies for the GRE by night",
+   "start": 691,
+   "end": 792
+  },
+  {
+   "fact": "她起身伸懒腰、背痛（坐太久），自陈三十七岁——若真的怀孕就是高龄产妇；手放在肚子上，决定先答容易的那问：要不要毁掉 Greer House，理由是「这里发生的邪恶已经够多了，值得毁掉」。",
+   "anchor": "At thirty-seven, I’ll be a geriatric pregnancy—if I’m pregnant at all.",
+   "start": 1323,
+   "end": 1393
+  },
+  {
+   "fact": "她随猫进起居室端详 Ida 的画像：仍旧躺在地上、斧子插在她胸口，绿霉在她脸上绽开、越过嘴，像是把她闷住；她的反应是一个词「Good」。同段她说那晚自己大多是在余光里看到 Ida，因此有时想（也希望）与 Ida 的往来是她被咬伤的脚开始感染时的想象，但无法否认发生过；接着判词「我们 Greer 家的人都邪恶，Ida 是生前死后最坏的一个」。",
+   "anchor": "It still lies on the floor, the axe in her chest. Green mold has bloomed across her face, crossing over her mouth as though suffocating her. Good.",
+   "start": 1579,
+   "end": 1725
+  },
+  {
+   "fact": "她推开画像，走到墙上一块凸出的砖前，轻拉、稳住自己、探身查看：Gazzie 的装裱工具与绘画材料——Ida 身体的最后残余——不见了；她皱眉伸脖子看，洞里什么都没有，连问是不是 Aunt Virginia 拿走了罐子、她是否知道画里有祖母的身体，又猜想是自然要素把它们赶出去、和鳄鱼骨头混在一起，想到 Ida 会恨看到这房子被夷平，于是又多了一条拆掉它的理由。",
+   "anchor": "Gazzie’s framing tools and painting materials—the last of Ida’s body—are gone.",
+   "start": 2175,
+   "end": 2253
+  },
+  {
+   "fact": "她还有 Ironheart 要考虑：已经卖掉了三座鳄鱼养殖场、磷酸盐矿、甘蔗股份；她想它 surely 希望她毁掉 Ida 用血钱买的一切（包括这房子）；那是否算他们协议的一部分——「不可能确切知道」，并说人已无法与 Ironheart 沟通，至少现在不能。随后落定：她要拆掉 Greer House。",
+   "anchor": "I’ve sold the three alligator farms, the phosphate mines, the sugarcane shares.",
+   "start": 2684,
+   "end": 2763
+  },
+  {
+   "fact": "拆屋定了之后她问第二问：要不要生下这个孩子。她先说自己大概不是世界的危险，如今再没人能控制她，想像不出还会伤害谁；但另一个 Greer 家孩子会闯什么祸说不准。两种画面并列：一边是 Harrison 的蓝眼、她的深棕发、软胖小手伸向她、把画笔放进她手里时打圈的笑，她打算先教她画风景、将来她可以画她自己的画像；另一边是沾满鳄鱼内脏的手、血从嘴里漏出、用锤打断情人的鼻子、把头按进水里直到肺尖叫。她说无论如何会爱她，这就是她要打破家族循环的方式（至少试着），并承认「我想我也已经为女儿做了决定」。",
+   "anchor": "I picture a baby with Harrison’s clear blue eyes, my dark brown hair.",
+   "start": 3287,
+   "end": 3356
+  },
+  {
+   "fact": "走向大门时她想起自己曾不解 Mama 为何没除掉她、若真信 Greer 家注定邪恶为何明知故传基因；踩过玻璃碎片她停下，答案终于到来：两个人都把自已的欲望放在世界的需求之上，这就是 Greer 家生来要做的事；而她要一个女儿。她伸手进包里摸那盒试纸，说结果对她早已明朗；她想象 Harrison 会照现在一贯的样子紧紧抱她——爱意背后带着庆幸，像谢天谢地他们活着出来了。",
+   "anchor": "We both prioritized our wants above the world’s needs. It’s what Greers were born to do.",
+   "start": 4228,
+   "end": 4316
+  }
+ ]
+}
