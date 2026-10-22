@@ -1,0 +1,55 @@
+{
+ "book": "the-hexing-miss-helena-by-darcy-mcguire",
+ "chapter": "ch13",
+ "text": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch13_chapter_13.txt",
+ "facts": [
+  {
+   "fact": "辛西娅在回程马车上意识到自己真正的心意。",
+   "anchor": "A veil had been removed from her eyes.",
+   "start": 192,
+   "end": 230
+  },
+  {
+   "fact": "海伦娜说别人念头喧闹，唯独辛西娅这里是安静的。",
+   "anchor": "‘No. With you, it’s quiet.’",
+   "start": 2583,
+   "end": 2610
+  },
+  {
+   "fact": "狐狸哈姆雷特在心里问两人为什么身上有彼此的气味。",
+   "anchor": "Like why you two smell of each other.",
+   "start": 2986,
+   "end": 3023
+  },
+  {
+   "fact": "辛西娅承认拍照时想的是海伦娜的头发和想尝她的冲动。",
+   "anchor": "‘I was thinking that your hair is like a blazing sunset. Or the glory of autumn. And I wanted to taste you.’",
+   "start": 3705,
+   "end": 3813
+  },
+  {
+   "fact": "海伦娜说出自己九、十岁时在亚麻橱里初次心动的女孩名字。",
+   "anchor": "‘Clara Beaumont.’",
+   "start": 5721,
+   "end": 5738
+  },
+  {
+   "fact": "辛西娅的母亲说她希望魔法绕过女儿，像绕过自己和外祖母一样。",
+   "anchor": "‘I hoped it would pass you by. As it did me, and my mother. You are destined to be a grand lady of the beau monde, my darling. Magic has no place in this world. Come.’",
+   "start": 11634,
+   "end": 11801
+  },
+  {
+   "fact": "海伦娜说辛克莱心里闪过的名字是乔治·利珀特。",
+   "anchor": "‘Not intentionally. But when you asked who killed your husband, he thought it clear as church bells on Sunday. George Lippert.’",
+   "start": 13893,
+   "end": 14020
+  },
+  {
+   "fact": "海伦娜说只能听见人的念头，听不见动物的。",
+   "anchor": "‘Only people. Why?’",
+   "start": 14519,
+   "end": 14538
+  }
+ ]
+}

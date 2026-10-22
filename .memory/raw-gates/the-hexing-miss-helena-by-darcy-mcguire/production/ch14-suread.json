@@ -1,0 +1,55 @@
+{
+ "book": "the-hexing-miss-helena-by-darcy-mcguire",
+ "chapter": "ch14",
+ "text": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch14_chapter_14.txt",
+ "facts": [
+  {
+   "fact": "埃莉一早冲进房间，问海伦娜是不是请了辛西娅当晚来吃饭。",
+   "anchor": "‘You invited her for dinner? Tonight?’",
+   "start": 686,
+   "end": 724
+  },
+  {
+   "fact": "海伦娜在镜前决定只谈调情与探索，绝不承诺。",
+   "anchor": "Commitment? Never.",
+   "start": 4770,
+   "end": 4788
+  },
+  {
+   "fact": "罗温姑妈在饭桌上故意点出“朋友”二字。",
+   "anchor": "‘Lady Burrows, it is a pleasant surprise to have you dining with us this evening. Helena never invites… friends… to dinner.’",
+   "start": 5557,
+   "end": 5681
+  },
+  {
+   "fact": "辛西娅对托马斯发火，宣告自己终于自由。",
+   "anchor": "‘I am sick to death of men telling me what I can and cannot do. I have spent my entire life following other people’s orders. My husband is dead. I am finally free. I won’t be dictated to by anyone.’",
+   "start": 9771,
+   "end": 9969
+  },
+  {
+   "fact": "辛西娅说“永远不”时，雷电劈开天空。",
+   "anchor": "‘Ever.’ Lightning cracked through the sky.",
+   "start": 10023,
+   "end": 10065
+  },
+  {
+   "fact": "罗温姑妈在心里断定辛西娅血脉里有魔法。",
+   "anchor": "She has power in her blood. Magic in her soul.",
+   "start": 10457,
+   "end": 10503
+  },
+  {
+   "fact": "拉克兰说不认识乔治·利珀特。",
+   "anchor": "‘I don’t know him.’",
+   "start": 11864,
+   "end": 11883
+  },
+  {
+   "fact": "罗温姑妈最后断定辛西娅是女巫，有人封住了她的力量。",
+   "anchor": "She is a witch. Someone trapped her powers, but magic can’t stay bound forever.",
+   "start": 17692,
+   "end": 17771
+  }
+ ]
+}
