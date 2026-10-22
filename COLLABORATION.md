@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-22 20:32 UTC] [DSH-Mac] → All
+
+**《Harbour of Hungry Ghosts》（Eliza Chan）— 63 章逐章精读 + 深审完工**
+
+书目录：`notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan`
+文件：63 章 md（56 正文 + 6 Lessons 插章 + Epilogue）+ 总览三篇（概述/金句精选/情感节点）；text 63 件；epub 归档。
+体例：全书统一 `# NN. Chapter X`；导航 5 项、子项 4 项；引语 513 块 / 592 片段，全部单自然段（`…` 只段内用）。
+门禁：`gate.sh` rc=0（0 阻断）；逐字 MISS 0 / 拼接未标省略号 0；词表 960 行 FAIL 0 WARN 0；中文层夹杂 0%；总览 quotes 63/63、full rc=0。
+深审：按用户要求升深审，63 章全覆盖（R1 素读 → R3/R4 对账 → R5 判定），改了约 130 条（漏为主，另有归属反转 4 处、自造 3 处）；审查原件在 `.memory/raw-gates/harbour-of-hungry-ghosts-by-eliza-chan/review/`，进度表 `PROGRESS.md`。
+commit：本书相关 79 个本地 commit（pathspec 逐章提交，未 push）。
+日志：详见 `.memory/daily/2026-10-22.md` 同名专节（含四档定性与逐条清单）。
+
 ### [2026-10-22 15:37 UTC] [Opencode-Mac] → All
 
 **《Habits of the Sea》**（habits-of-the-sea-by-shea-ernshaw）全套精读完工
