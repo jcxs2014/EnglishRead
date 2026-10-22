@@ -1,0 +1,102 @@
+{
+ "chapter": 16,
+ "source": "text/ch16_chapter_fifteen.txt",
+ "facts": [
+  {
+   "fact": "她照顾中弹的 Clay 三周：发烧十二天后退烧，伤口在愈合",
+   "span": [
+    190,
+    223
+   ],
+   "anchor": "Clay stays in bed for three weeks"
+  },
+  {
+   "fact": "天气转冷、下雪，菜园冻住；第一座冰山漂过（有小汽车那么大）",
+   "span": [
+    2274,
+    2314
+   ],
+   "anchor": "The iceberg is small—the size of an SUV."
+  },
+  {
+   "fact": "风或潮水把岛推进一片封冻的海，四周都是冰山——「We’re stuck.」",
+   "span": [
+    8556,
+    8568
+   ],
+   "anchor": "We’re stuck."
+  },
+  {
+   "fact": "他们烧掉最后的柴、吃地窖里的存粮；克莱说宁愿死也不回文明世界",
+   "span": [
+    10539,
+    10564
+   ],
+   "anchor": "“I think I prefer death.”"
+  },
+  {
+   "fact": "她夜里想时间：希腊语有两个词，chronos 与 kairos",
+   "span": [
+    11130,
+    11184
+   ],
+   "anchor": "The Greeks had two words for time: chronos and kairos."
+  },
+  {
+   "fact": "她给 Clay 读海明威《老人与海》",
+   "span": [
+    11868,
+    11921
+   ],
+   "anchor": "I find a copy of The Old Man and the Sea by Hemingway"
+  },
+  {
+   "fact": "冰面裂开，岛重新漂起，漂出冰原进入开阔的黑海",
+   "span": [
+    16157,
+    16198
+   ],
+   "anchor": "And we drift out into the open black sea."
+  },
+  {
+   "fact": "后来海面开来一整支废弃船队：几百艘帆船，几艘在燃烧",
+   "span": [
+    19868,
+    19902
+   ],
+   "anchor": "Hundreds of them, mostly sailboats"
+  },
+  {
+   "fact": "他从一艘白色双体船上带回四把折叠木椅、一袋书和半磅米",
+   "span": [
+    24673,
+    24714
+   ],
+   "anchor": "rice—translucent, a good half pound of it"
+  },
+  {
+   "fact": "书里夹着一张世界地图：旧大陆碎成群岛，多数标 X（无人居住），少数被圈起（未勘测）",
+   "span": [
+    28470,
+    28483
+   ],
+   "anchor": "X—uninhabited"
+  },
+  {
+   "fact": "地图上大西洋改名 Old Atlantic，太平洋改名 the Vast Quiet，南极洲叫 Crya",
+   "span": [
+    27019,
+    27033
+   ],
+   "anchor": "the Vast Quiet"
+  },
+  {
+   "fact": "结尾：「There’s nothing left.」「We’re left,」he answers.",
+   "span": [
+    32514,
+    32524
+   ],
+   "anchor": "We’re left"
+  }
+ ]
+}

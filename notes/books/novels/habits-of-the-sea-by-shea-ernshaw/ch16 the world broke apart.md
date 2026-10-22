@@ -8,7 +8,7 @@ source_text: ch16
 
 ## 本章导航
 
-- **一句话概括**：Clay 中枪后躺了三周，两人随岛漂进北冰洋，被困在一片浮冰里整整七天；冰裂开、岛重新浮起来，他们靠半磅米、几颗蛋和一只钓上来的鱼续命。随后海面上开来一整支废弃的船队，Clay 只穿一条裤子爬下礁石，从一艘白色双体船上搬回四把椅子、一袋书和半磅米——而袋里滚出一张世界地图：旧大陆碎成了群岛（欧洲成了 Gaelen Reach、Nordhavn、Rhinemark，非洲成了 Riftlands 与 Capa Noor，南极洲变成一片绿色的 Crya，太平洋改叫 the Vast Quiet），地图上多数地方标着 X（无人居住），只有少数被圈起来。Ellie 问：世上还有活着的人吗？
+- **一句话概括**：Clay 中枪后躺了三周，两人随岛漂进北冰洋，被困在一片浮冰里整整七天；冰裂开、岛重新浮起来，他们靠半磅米、几颗蛋和一只钓上来的鱼续命。随后海面上开来一整支废弃的船队，Clay 把上衣和长裤都脱掉、爬下礁石，从一艘白色双体船上搬回四把椅子、一袋书和半磅米——而袋里滚出一张世界地图：旧大陆碎成了群岛（欧洲成了 Gaelen Reach、Nordhavn、Rhinemark，非洲成了 Riftlands 与 Capa Noor，南极洲变成一片绿色的 Crya，太平洋改叫 the Vast Quiet），地图上多数地方标着 X（无人居住），只有少数被圈起来。Ellie 问：世上还有活着的人吗？
 - **情感弧线位置**：全书的"世界终结"段，弧线是"伤病—冰困—脱困—船队—地图—幸存者的羞愧"。她从"护理者"（汤、姜汤、擦汗、量体温）一路走到"读地图的人"，最后一句"没有什么可剩下的了"与"我们剩下"，把整本书的重量压到两个词上。
 - **Tropes 兑现/反转**：兑现"末日后的空世界"这枚 trope，但作者把它写成地理学而不是废墟：灾难的结果不是城市消失，而是大陆本身碎成群岛，旧地名换成新岛名。反转藏在地图的记号里——多数岛被打了叉（无人），少数被圈起来，于是"还有没有人"从绝望变成了一个可以追问的问题。
 - **人物弧线**：Clay 在本章从"被救的人"变成"去偷生的人"——带着枪、伤着腿、只穿一条裤子爬下湿滑的礁石去搬吃的和柴火，还顺回四把椅子（她说过什么都要留下）；Ellie 则从"想家"走到"不敢问还有没有别人"，直到她的手指摸到那张地图。
@@ -150,7 +150,7 @@ source_text: ch16
 
 > **原句 12:** "None of the features look familiar—there is no remnant, no shape that mimics what I remember from geography class. It’s been broken apart into smaller, scattered fragments of land. Only a handful of larger landmasses remain, while the rest aren’t much larger than my thumb against the map."
 
-**中文理解**：这些地貌没有一样是熟悉的——没有任何残迹，没有任何形状像我记忆中地理课上的那样。它们被打碎成更小的、散落的陆地块。只剩下少数几块较大的陆地，其余的摊在这张地图上还没她一个拇指大。
+**中文理解**：这些地貌没有一样是熟悉的——没有任何残迹，没有任何形状像我记忆中地理课上的那样。它们被打碎成更小的、散落的陆地块。只剩下少数几块较大的陆地，其余的摊在这张地图上还没我拇指大。
 
 **关键词**：None of the features look familiar / broken apart into smaller, scattered fragments / much larger than my thumb
 
