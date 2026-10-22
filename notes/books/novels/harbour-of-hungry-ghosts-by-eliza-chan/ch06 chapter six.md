@@ -65,7 +65,7 @@ modified: "2026-10-22"
 > **原句 9:** "“Lesson Nine.” Her voice rang like a morning drill. “If a foe is unknown, defend and deliberate.” No asking if Kiamling was okay, if the boy had turned. No gentle hands, no warm embraces of affection. Just training. Always training."
 **中文理解**：「第九课。」她的声音像清晨的操练口令：「敌情不明，先守后断。」不问孙女有没有事，不问男孩有没有变；没有温言，没有拥抱。只有训练，永远是训练。
 **关键词**：Lesson Nine / defend and deliberate / Always training
-**为什么这样写**：全章的情绪在打完架之后才落地——落的是一句教材。作者连用三个否定句（No asking / No gentle hands / no warm embraces）把亲情的缺席写成一种制度，而 Just training 两个词就是 Kiamling 长大的方式。
+**为什么这样写**：全章的情绪在打完架之后才落地——落的是一句教材。作者连用三个以「No」起头的否定句，把亲情的缺席写成一种制度；末尾那两个词——只有训练——就是她长大的方式。
 **读者视角提示**：这一课会在后面被反复引用。留意它既是祖母的爱，也是祖母的失职——两者在这本书里从不分开。
 
 > **原句 10:** "Por Por put her own weapon into Kiamling’s hands. “Take it. Get them to safety. I do not like what I’ve seen tonight. We’re wandering around with our eyes closed.”"
@@ -88,7 +88,7 @@ modified: "2026-10-22"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| stilted | （语言、文字）生硬不自然的 | At the end of her stilted words, he stood up as though his chair had been covered in upturned nails. |
+| stilted | （语言、文字）生硬不自然的 | At the end of his stilted words, he stood up as though his chair had been covered in upturned nails. |
 | guffawed | 哄然大笑 | The rest of the party guffawed and smacked their legs like they were at a bawdy show. |
 | reticence | 沉默寡言、不轻易表态 | She knew better than to mistake his quiet demeanour for reticence. |
 | farcical | 滑稽荒唐的、像闹剧的 | Heads turned, welcoming the distraction from the now farcical stage performance. |
