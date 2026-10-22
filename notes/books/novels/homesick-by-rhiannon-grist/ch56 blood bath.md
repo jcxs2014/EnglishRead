@@ -49,7 +49,7 @@ source_text: ch56
 
 **为什么这样写**：仙人掌替代鲜花（医院不许带花），这个替代同时是道歉的比喻：他自己就是那个刺头。全章的温度都建立在这种笨拙的好意上。
 
-**读者视角提示**：黄丝带、便条、"F x"——这是全书第一次有人给她留便条。对照第 1 章她收到的第一封信是账单。
+**读者视角提示**：黄丝带、便条、"F x"——这是全书第一次有人给她留便条。对照第 1 章她手里只有一叠没细看的购房文件。
 
 > **原句 4:** "“Nothing but rubble left,” he said. “Rowan had me drive us round to check in on you after… your conversation.” ... “we weren’t sure which half was yours at first, ’cause there’s bloody nothing in 1b. Except that sheepskin rug you got funny about.”"
 
@@ -79,7 +79,7 @@ source_text: ch56
 
 **为什么这样写**：道歉只用一句，其余靠一个玩笑完成。作者不让他长篇剖白——这本书里所有真正的和解都很短，长了就变成表演。
 
-**读者视角提示**：对照第 8 章五金店里他当众羞辱她的那段，同一个词（prick）在这里被他自己捡起来了。
+**读者视角提示**：对照第 33 章五金店里他用工业钉枪封箱、拿“Fairy Mirror”吓她的那段，同一个词（prick）在这里被他自己捡起来了。
 
 > **原句 7:** "“We’re all we have out here. If you can’t trust your neighbours to turn up when you need them, then—” He shrugged. “And Ro’s right. You are a ranty drunk. And it amuses me.”"
 
