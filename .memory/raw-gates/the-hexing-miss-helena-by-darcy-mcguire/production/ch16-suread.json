@@ -1,0 +1,55 @@
+{
+ "book": "the-hexing-miss-helena-by-darcy-mcguire",
+ "chapter": "ch16",
+ "text": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch16_chapter_16.txt",
+ "facts": [
+  {
+   "fact": "辛西娅从管家嘴里得知莉莉的父亲就是乔治·利珀特，利珀特家在齐普赛德。",
+   "anchor": "Lily’s father is George Lippert?",
+   "start": 3402,
+   "end": 3434
+  },
+  {
+   "fact": "海伦娜回忆自己曾当面指责母亲的情人看中的是魔药带来的钱财和母亲的力量。",
+   "anchor": "He wants the riches your potions bring. He needs your power. That is not love.",
+   "start": 6479,
+   "end": 6557
+  },
+  {
+   "fact": "母亲回答愿为他违背所有誓言，称这就是爱的要求。",
+   "anchor": "I will break every oath I’ve made for him. That is what love demands.",
+   "start": 6835,
+   "end": 6904
+  },
+  {
+   "fact": "海伦娜承认不愿被人利用魔法，辛西娅误以为她在拒绝同行。",
+   "anchor": "I just don’t like the idea of being used for my magic.",
+   "start": 7163,
+   "end": 7217
+  },
+  {
+   "fact": "海伦娜看见窗外骤起的风雨，判断辛西娅是跟罗温姑妈一样的地巫。",
+   "anchor": "She’s an earthwitch, just like Aunt Rowan.",
+   "start": 12389,
+   "end": 12431
+  },
+  {
+   "fact": "辛西娅被劝“保持冷静”时爆发，雷声震动窗玻璃。",
+   "anchor": "Do. Not. Tell. Me. To. Remain. Calm!",
+   "start": 13664,
+   "end": 13700
+  },
+  {
+   "fact": "狐狸去蹭辛西娅时，海伦娜心里冒出这句。",
+   "anchor": "We are creatures shaped from the same stardust.",
+   "start": 14416,
+   "end": 14463
+  },
+  {
+   "fact": "海伦娜收回前言，答应同行，章末落在“一起”。",
+   "anchor": "Yes, we. I was being stupid before.",
+   "start": 14708,
+   "end": 14743
+  }
+ ]
+}

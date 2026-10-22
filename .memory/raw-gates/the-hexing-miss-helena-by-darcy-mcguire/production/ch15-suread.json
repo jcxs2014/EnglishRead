@@ -1,0 +1,55 @@
+{
+ "book": "the-hexing-miss-helena-by-darcy-mcguire",
+ "chapter": "ch15",
+ "text": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch15_chapter_15.txt",
+ "facts": [
+  {
+   "fact": "晚宴散场时托马斯先说不是要管束妹妹，随即又请她让他们接手调查；海伦娜反问“us”是否指男人们，并说世上只有女巫，也许是女神要维持平衡。",
+   "anchor": "By “us”, do you mean the men?",
+   "start": 2157,
+   "end": 2186
+  },
+  {
+   "fact": "海伦娜说女人自古就知道危险，因为男人一直是威胁，这也许就是只有女巫的原因。",
+   "anchor": "The goddess believes in balance.",
+   "start": 2383,
+   "end": 2415
+  },
+  {
+   "fact": "辛西娅答应不鲁莽，除非身边有位女巫护着她；海伦娜上前请求做那个女巫。",
+   "anchor": "Unless I have a witch with me to keep me safe.",
+   "start": 3307,
+   "end": 3353
+  },
+  {
+   "fact": "海伦娜心里认定辛西娅归她保护。",
+   "anchor": "She is mine to protect.",
+   "start": 4046,
+   "end": 4069
+  },
+  {
+   "fact": "辛西娅只提一个条件：让她回报海伦娜的出力。",
+   "anchor": "Only if you let me repay you for your efforts.",
+   "start": 4073,
+   "end": 4119
+  },
+  {
+   "fact": "一周后在她家客厅，海伦娜赞她是奇迹、谜，而且非常美。",
+   "anchor": "I think you are a wonder. And a mystery. And very, very beautiful.",
+   "start": 8585,
+   "end": 8651
+  },
+  {
+   "fact": "辛西娅要求丢掉旧称呼，只叫她“辛”。",
+   "anchor": "Not Lady Burrows. Not Miss Cynthia Grey. Just Cyn.",
+   "start": 11973,
+   "end": 12023
+  },
+  {
+   "fact": "海伦娜回应“辛与海儿，我们真是般配的一对”，两人接吻，被敲门声打断。",
+   "anchor": "Cyn and Hel. What a pair we make.",
+   "start": 12051,
+   "end": 12084
+  }
+ ]
+}
