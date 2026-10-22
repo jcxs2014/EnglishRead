@@ -1,0 +1,78 @@
+{
+ "chapter": "ch45",
+ "source": "text/ch45_chapter_45.txt",
+ "facts": [
+  {
+   "fact": "她走下更多台阶，这次是自愿下行，心里怕自己真的疯了",
+   "anchor": "No, I was choosing this descent.",
+   "range": [
+    85,
+    117
+   ],
+   "line": 5
+  },
+  {
+   "fact": "黑暗里没有上下之分，像她想象中的死亡——无止境的黑与孤独",
+   "anchor": "no discernible up, no down",
+   "range": [
+    377,
+    403
+   ],
+   "line": 11
+  },
+  {
+   "fact": "从前她会喝酒、换台、刷手机逃开，这次她留在原地不逃",
+   "anchor": "Normally, I would run from this.",
+   "range": [
+    568,
+    600
+   ],
+   "line": 14
+  },
+  {
+   "fact": "她意识到恐惧本身在场，于是抓住恐惧当坐标，感觉胸口起伏、心跳",
+   "anchor": "I held onto the fear as a something.",
+   "range": [
+    1127,
+    1163
+   ],
+   "line": 23
+  },
+  {
+   "fact": "眼睛适应后她看见地下室与那扇门：抹灰盖住的淡淡线条，就是那个缺口",
+   "anchor": "Faint lines, plastered over.",
+   "range": [
+    1364,
+    1392
+   ],
+   "line": 32
+  },
+  {
+   "fact": "她想起 Rowan 曾问她“你是在劈还是在剁”，以及自己砍过的三张脸",
+   "anchor": "“What are you doing? Splitting or chopping?”",
+   "range": [
+    1638,
+    1682
+   ],
+   "line": 44
+  },
+  {
+   "fact": "她想：斧头曾把一样东西砍成两半，也能不能把两样东西砍成一样",
+   "anchor": "Could an axe ever cut two things back into one?",
+   "range": [
+    2118,
+    2165
+   ],
+   "line": 50
+  },
+  {
+   "fact": "她答“剁”，一斧一斧砍穿门板，撬开大洞，用肩膀撞进去，进了邻居家",
+   "anchor": "Chopping, I answered and swung my axe into the door.",
+   "range": [
+    2398,
+    2450
+   ],
+   "line": 59
+  }
+ ]
+}

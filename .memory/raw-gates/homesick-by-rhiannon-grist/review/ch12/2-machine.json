@@ -1,0 +1,236 @@
+{
+  "chapter": 12,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/homesick-by-rhiannon-grist/ch12 a rug for the fragile softness of myself.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/homesick-by-rhiannon-grist/text/ch12_chapter_12.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The first thing I did when I got up was test the door to the bedroom. Its hinges shrieked and squealed. I must have left",
+          "ok": true,
+          "pos": 345
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "This place might look like a home but it’s not. It’s a praying mantis camouflaged as an orchid. It’s a grave in disguise",
+          "ok": true,
+          "pos": 1179
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "But I could shell out a little for a cheap rug. No more errant splinters or whatever stabbing my soles. That’s the kind ",
+          "ok": true,
+          "pos": 2035
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I squeezed past a wardrobe, turned a corner between warring chests of drawers and walked straight into another person, t",
+          "ok": true,
+          "pos": 6131
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "A cruel little smirk hitched up the side of his mouth. “You should check one of the bigger supermarkets just outside Gla",
+          "ok": true,
+          "pos": 9762
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I bit back the insults boiling up my throat and plucked up the closest—and smallest—rug within reach. “Actually, I’d lik",
+          "ok": true,
+          "pos": 10165
+        }
+      ],
+      "words": 29
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 121,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 116,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 100,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.94,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 86,
+        "关键词": 0,
+        "为什么这样写": 124,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 100,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 128,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.91
+      }
+    }
+  ],
+  "form": {
+    "h1": "12. Chapter Twelve",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 6,
+    "block_range": [
+      3,
+      8
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 6,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2173,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+ "chapter": "ch12",
+ "source": "text/ch12_chapter_12.txt",
+ "facts": [
+  {
+   "fact": "次日早晨她缠在睡袍改成的被子里、抱着斧头醒来，想过再去敲门叫邻居小声点，还是没胆",
+   "anchor": "I considered knocking on my neighbour’s door again to ask her to keep it down",
+   "range": [
+    139,
+    216
+   ],
+   "line": 5
+  },
+  {
+   "fact": "她先去试卧室门，铰链吱呀作响，于是把昨夜归为半睡半醒的幻觉",
+   "anchor": "I must have left it ajar when I went to bed.",
+   "range": [
+    455,
+    499
+   ],
+   "line": 8
+  },
+  {
+   "fact": "天亮后的房子让她处处不适，她把这种感觉比作伪装成兰花的螳螂、伪装的坟墓",
+   "anchor": "It’s a praying mantis camouflaged as an orchid.",
+   "range": [
+    1235,
+    1282
+   ],
+   "line": 11
+  },
+  {
+   "fact": "她决定用一块便宜地毯来让 1b 变“像家”，换不了风挡也换不了床垫",
+   "anchor": "But I could shell out a little for a cheap rug.",
+   "range": [
+    2064,
+    2111
+   ],
+   "line": 26
+  },
+  {
+   "fact": "她进了 Carlinsrest 一家古董店，店员头也不抬说“苏格兰文学在左边”",
+   "anchor": "“Scottish books to the left,” said the man, not even looking up from his novel.",
+   "range": [
+    5057,
+    5136
+   ],
+   "line": 74
+  },
+  {
+   "fact": "后屋她撞上镜子里自己的脸，又撞响一只花瓶",
+   "anchor": "My reflection stared back at me from a tall gilt mirror leant against the wall.",
+   "range": [
+    6468,
+    6547
+   ],
+   "line": 98
+  },
+  {
+   "fact": "地毯标价四位数，她当场掏出手机在网上找便宜的同款，被店员撞见",
+   "anchor": "There were four figures on that tag!",
+   "range": [
+    7608,
+    7644
+   ],
+   "line": 113
+  },
+  {
+   "fact": "店员冷笑建议她去格拉斯哥城外的大超市买，她赌气买下最小的羊皮地毯，且拒绝收据",
+   "anchor": "“You should check one of the bigger supermarkets just outside Glasgow.",
+   "range": [
+    9974,
+    10044
+   ],
+   "line": 140
+  }
+ ]
+}

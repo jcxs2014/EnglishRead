@@ -1,0 +1,78 @@
+{
+ "chapter": "ch34",
+ "source": "text/ch34_chapter_34.txt",
+ "facts": [
+  {
+   "fact": "她走回主街，低头盯着路面，耳鸣轰鸣，决心当天收拾东西离开、砸掉破风挡去坐火车",
+   "anchor": "Moving here had been a mistake.",
+   "range": [
+    694,
+    725
+   ],
+   "line": 11
+  },
+  {
+   "fact": "心里的声音骂她“又跑了，懦夫”，她小声顶回去",
+   "anchor": "That’s right. Run away again. Coward.",
+   "range": [
+    1465,
+    1502
+   ],
+   "line": 14
+  },
+  {
+   "fact": "酒馆老板娘 Viv 追上来问她围巾拿回来没有，又问她是不是换了发型",
+   "anchor": "“Hullo, hen, did you get your scarf back?”",
+   "range": [
+    1797,
+    1839
+   ],
+   "line": 26
+  },
+  {
+   "fact": "Viv 说“我发誓我见过你妹妹，你长得像极了——”，她答自己没有姐妹",
+   "anchor": "I don’t have any sisters",
+   "range": [
+    2302,
+    2326
+   ],
+   "line": 50
+  },
+  {
+   "fact": "那群少年在战争纪念碑前把花盆堆成粗俗形状，领头的男孩冲她喊“又尿裤子了？”",
+   "anchor": "Wet your knickers again?",
+   "range": [
+    2769,
+    2793
+   ],
+   "line": 62
+  },
+  {
+   "fact": "她攥住挂在钥匙圈上的弯针，脑中演练把它扎进那男孩的眼睛",
+   "anchor": "I envisaged myself plunging it deep into his cocky sneering eyes.",
+   "range": [
+    3897,
+    3962
+   ],
+   "line": 83
+  },
+  {
+   "fact": "她没有扎他，而是把针刺穿自己的手掌，然后凑到他脸前狂吠",
+   "anchor": "I pushed the needle through my hand.",
+   "range": [
+    4383,
+    4419
+   ],
+   "line": 107
+  },
+  {
+   "fact": "咖啡馆里的人都出来“帮忙、阻止危险——阻止我”，她挺直背、走上桥出城",
+   "anchor": "ready to intervene, to help, to stop the danger.",
+   "range": [
+    5110,
+    5158
+   ],
+   "line": 122
+  }
+ ]
+}

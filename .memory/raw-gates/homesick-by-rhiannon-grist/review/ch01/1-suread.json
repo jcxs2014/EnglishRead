@@ -1,0 +1,78 @@
+{
+ "chapter": "ch01",
+ "source": "text/ch01_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "Tamsin 坐在自家车里抬头看那栋小屋，反复看出对称：两扇前门只隔一英尺多一点",
+   "anchor": "I sat in the driver’s seat of my car staring up at the house",
+   "range": [
+    216,
+    276
+   ],
+   "line": 11
+  },
+  {
+   "fact": "她翻出车里合同照片，才发现地址是 1b——半独立，她只看照片没实地看房就签了",
+   "anchor": "When I saw the 1b on the form, I’d assumed it was a contract thing.",
+   "range": [
+    1122,
+    1189
+   ],
+   "line": 17
+  },
+  {
+   "fact": "1a 那半的草坪疯长，1b 这半被草草割过（她猜是中介为拍房源照）",
+   "anchor": "the lawn on 1a’s side of the mound was wildly overgrown",
+   "range": [
+    2998,
+    3053
+   ],
+   "line": 44
+  },
+  {
+   "fact": "1a 楼上窗户的浅色花纹窗帘突然被拉紧，她判断是手不是风",
+   "anchor": "A pale, patterned curtain was suddenly pulled tight.",
+   "range": [
+    3870,
+    3922
+   ],
+   "line": 53
+  },
+  {
+   "fact": "她攥紧房源单，指节发白，纸的折痕压进掌心",
+   "anchor": "I’d scrunched the listing into a tight ball, my knuckles white",
+   "range": [
+    4540,
+    4602
+   ],
+   "line": 68
+  },
+  {
+   "fact": "警方联系人给她安排了心理咨询，并明确说这不是建议；她认为自己不需要",
+   "anchor": "They’d made it very clear that it wasn’t a suggestion.",
+   "range": [
+    4889,
+    4943
+   ],
+   "line": 77
+  },
+  {
+   "fact": "门上新换的 Yale 锁四周有深划痕，她猜是撬开前任住户留下的",
+   "anchor": "they’d failed to hide the deep scratches in the woodwork all around the edge",
+   "range": [
+    8616,
+    8692
+   ],
+   "line": 125
+  },
+  {
+   "fact": "一楼窗帘又抽动一下；她自问也许警察说得对，也许自己疯了",
+   "anchor": "Maybe the police were right. Maybe I was crazy.",
+   "range": [
+    9312,
+    9359
+   ],
+   "line": 149
+  }
+ ]
+}

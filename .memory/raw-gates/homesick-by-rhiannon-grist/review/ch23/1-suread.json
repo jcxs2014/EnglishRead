@@ -1,0 +1,78 @@
+{
+ "chapter": "ch23",
+ "source": "text/ch23_chapter_23.txt",
+ "facts": [
+  {
+   "fact": "她在正午阳光下确认自己的影子还在，影子短短地摊在鹅卵石上",
+   "anchor": "I checked to see if my shadow was still attached to my feet.",
+   "range": [
+    14,
+    74
+   ],
+   "line": 5
+  },
+  {
+   "fact": "宿醉里她反复回想 Rowan 说过的“装扮成不同公司”的话，以及老人讲的克隆与复制",
+   "anchor": "I couldn’t get what Rowan had said out of my mind. About the costumes.",
+   "range": [
+    374,
+    444
+   ],
+   "line": 23
+  },
+  {
+   "fact": "她自我说服：邻居没事，早上起来进城忙花去了，她没杀人",
+   "anchor": "But nothing had happened. My neighbour was fine.",
+   "range": [
+    797,
+    845
+   ],
+   "line": 32
+  },
+  {
+   "fact": "她想起手臂上那记“湿的骨裂”的触感，立刻反问自己若没发生为何记得这么清楚",
+   "anchor": "I felt the memory of a wet crunch of bone shuddering up my arms.",
+   "range": [
+    1044,
+    1108
+   ],
+   "line": 35
+  },
+  {
+   "fact": "她坐到河边的长椅上，一群女人在喂水鸟拍照，她盯着鸭妈妈领着一队小鸭",
+   "anchor": "A group of women had stopped at the waterside nearby, phones up, taking pictures.",
+   "range": [
+    1692,
+    1773
+   ],
+   "line": 53
+  },
+  {
+   "fact": "只剩她看见队伍渐渐甩开最小的一只小鸭，别人都没注意",
+   "anchor": "Only I was left watching the little duck family after they were gone.",
+   "range": [
+    2809,
+    2878
+   ],
+   "line": 56
+  },
+  {
+   "fact": "她想起母鸭嗅出孩子身上的弱与异样就会弃养，怕拖累或传染其他雏鸟",
+   "anchor": "When a mother senses something wrong, smells a weakness, an oddness, in her child, she’s driven to abandon it.",
+   "range": [
+    4246,
+    4356
+   ],
+   "line": 62
+  },
+  {
+   "fact": "鸭子钻进芦苇，小鸭独自直直游走、叫着消失；她得出结论：必须装得更好，否则会被闻出来、被丢下",
+   "anchor": "See, this is why you have to pretend.",
+   "range": [
+    4699,
+    4736
+   ],
+   "line": 68
+  }
+ ]
+}

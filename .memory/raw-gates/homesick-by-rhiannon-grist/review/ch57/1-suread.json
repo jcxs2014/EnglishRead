@@ -1,0 +1,78 @@
+{
+ "chapter": "ch57",
+ "source": "text/ch57_chapter_57.txt",
+ "facts": [
+  {
+   "fact": "1a 那夜全部塌了，一楼地板烂穿，整栋湿透长满霉与地衣",
+   "anchor": "The whole of 1a had come down that night, collapsed like a diseased ribcage over desiccated lungs.",
+   "range": [
+    14,
+    112
+   ],
+   "line": 5
+  },
+  {
+   "fact": "勘测员说从外面能一直看到地下室；下面什么都没有，只有磨损发黑的“孤独的老石头”",
+   "anchor": "Just lonely old stones, worn and blackened with age.",
+   "range": [
+    545,
+    597
+   ],
+   "line": 8
+  },
+  {
+   "fact": "她问地下室那扇门，对方含糊说所有门都毁了，她猜自己永远不会知道",
+   "anchor": "she said something about all doors being completely destroyed",
+   "range": [
+    675,
+    736
+   ],
+   "line": 11
+  },
+  {
+   "fact": "中介用的是“房产牛仔”签字的旧勘测、根本没人到现场；他们赔了一张支票，够她过一两年",
+   "anchor": "never actually making their way out to survey the place at all",
+   "range": [
+    1136,
+    1198
+   ],
+   "line": 14
+  },
+  {
+   "fact": " Fergus 拉她逛古董市集、后备箱集市，她买回旧家具；她说这一仗她乐意停战",
+   "anchor": "This was one battle on which I was happy to call a truce.",
+   "range": [
+    1617,
+    1674
+   ],
+   "line": 14
+  },
+  {
+   "fact": "工人拆房把石头码在一边，说石头还好，只需放回正确位置、配上正确支撑",
+   "anchor": "They just needed to be put back in the right place, with the right support.",
+   "range": [
+    2736,
+    2811
+   ],
+   "line": 26
+  },
+  {
+   "fact": "她跟 Rowan 去他的愤怒小组（Fergus 戏称 Angerholics Anonymous），也上线上情绪管理课",
+   "anchor": "Fergus calls them Angerholics Anonymous.",
+   "range": [
+    2891,
+    2931
+   ],
+   "line": 29
+  },
+  {
+   "fact": "回到 Carlinsrest，Maggie 用对熟客的抬眉招呼她、给她通心粉派；她与那少年隔街对嚎",
+   "anchor": "We howled together until someone inside the pub yelled for someone to see to their dog.",
+   "range": [
+    5887,
+    5974
+   ],
+   "line": 92
+  }
+ ]
+}
