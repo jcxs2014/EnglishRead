@@ -1,0 +1,55 @@
+{
+ "book": "homesick-by-rhiannon-grist",
+ "chapter": "ch02",
+ "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch02_chapter_2.txt",
+ "facts": [
+  {
+   "fact": "一楼是一个打通的大房间：翘曲发黑的旧地板、未上漆的梁顶，左侧壁炉，右侧通二楼的楼梯，楼梯下有一扇斜切的柜门",
+   "anchor": "The ground floor was a single, open-plan room with warped wooden floorboards, blackened with age, and an unpainted, beamed ceiling.",
+   "start": 261,
+   "end": 392
+  },
+  {
+   "fact": "她刚踏上地板就被尖锐物扎穿脚底，血透过新买的灰羊毛袜；她找钉子却找不到，钉子已被踩进地板缝里",
+   "anchor": "A circle of blood bloomed through the grey wool of my socks.",
+   "start": 2906,
+   "end": 2966
+  },
+  {
+   "fact": "木头的吱呀声从壁炉那面墙里传来，她认定是隔壁邻居在动，站定盯墙，声音随即停下",
+   "anchor": "It was coming through the wall.",
+   "start": 3961,
+   "end": 3992
+  },
+  {
+   "fact": "房屋清单在供暖一栏只写\"生物质供暖系统\"，她先幻想成某种清洁能源，随后想到楼下可能有煤桶——意味着要烧煤取暖",
+   "anchor": "“Biomass heating system” it read.",
+   "start": 7341,
+   "end": 7374
+  },
+  {
+   "fact": "浴室没有电热水器，龙头只出冷水；倾角屋顶下只能蜷在浴缸里用花洒，她得先去开通水电",
+   "anchor": "More importantly, there was no electric shower.",
+   "start": 6775,
+   "end": 6822
+  },
+  {
+   "fact": "二楼卧室同样有倾角屋顶与天窗，但窗上没有任何窗帘，与隔壁 1a 不同；前任住客留了一张床垫",
+   "anchor": "Unlike in 1a, my upstairs window had no curtains.",
+   "start": 8994,
+   "end": 9043
+  },
+  {
+   "fact": "她把檐下柜里那副摊开的晾衣架折起来时，眼前闪过荧光灯、笑声、亮粉色指甲油，随后是一声抽气、沉默、一声尖叫",
+   "anchor": "Fluorescent light. Laughter. Hot pink nail polish.",
+   "start": 10819,
+   "end": 10869
+  },
+  {
+   "fact": "她把晾衣架扔向树林却砸中自己车的挡风玻璃，玻璃立刻蜘蛛网般裂开，警报响起，1a 毫无反应",
+   "anchor": "It slipped out of my hands and into the windscreen of my car",
+   "start": 12224,
+   "end": 12284
+  }
+ ]
+}
