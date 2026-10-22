@@ -557,9 +557,17 @@ def main():
             else:
                 ratio = mix_ratio(why)
                 if ratio > MIX_WARN:
-                    blocking["夹杂为什么"].append(b)
-                    block_hits.append("夹杂为什么")
-                    mixed_ids.add(bid)
+                    # 2026-10-23 二次收窄：英文占比高但**句子是中文的**不算缺陷。
+                    # 判据＝中文标点（，。、；：！？——）≥2 个 ⇒ 句子结构是中文，
+                    # 英文只是被引用的术语/引文（实测 ch51「yellow eyes（jaundice）、
+                    # sweet smell」这种写法被判 0.5 以上）；整段英文的字段里
+                    # 中文标点通常是 0 个（实测 ch35 "The words had a hollow sound"）。
+                    if len(re.findall(r"[，。、；：！？]|——", why)) >= 2:
+                        hinting.setdefault("夹杂为什么（中文句子，英文仅引用）", []).append(b)
+                    else:
+                        blocking["夹杂为什么"].append(b)
+                        block_hits.append("夹杂为什么")
+                        mixed_ids.add(bid)
 
         # ⚠️ 2026-10-19 增补：**「读者视角提示」「表达方式」也必须查**。
         #   v1/v2 只查「中文理解 / 句子结构 / 为什么这样写」三个字段 ⇒
