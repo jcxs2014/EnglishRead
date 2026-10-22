@@ -1,0 +1,55 @@
+{
+ "book": "homesick-by-rhiannon-grist",
+ "chapter": "ch04",
+ "text": "notes/books/novels/homesick-by-rhiannon-grist/text/ch04_chapter_4.txt",
+ "facts": [
+  {
+   "fact": "她在干涩的喉咙里呛醒，一时想不起自己在哪，伸手摸到身后那面把石屋一分为二的墙，昨夜那边的窸窣已经安静",
+   "anchor": "There was the wall that split the cottage in two, quiet now after all the rustling and commotion from last night.",
+   "start": 368,
+   "end": 481
+  },
+  {
+   "fact": "她往窗外看，隔壁 1a 那半草坪一夜之间被修得整整齐齐：交替的条纹、九十度的直角、没有一根杂草——而昨天明明没割",
+   "anchor": "1a’s side of the front lawn was now neatly mown.",
+   "start": 729,
+   "end": 777
+  },
+  {
+   "fact": "她在心里自问自答（\"出了什么事，Tamsin？\"\"邻居的草坪被割了\"），最后决定该去打个招呼",
+   "anchor": "I pressed my lips together. It was time I said hello.",
+   "start": 1947,
+   "end": 2000
+  },
+  {
+   "fact": "她在门口反复预演开场白，把\"Hi\"和\"Hi there\"来回推翻，怕自己听起来古怪或端着架子",
+   "anchor": "I knocked on the door and mentally prepared for what I would say.",
+   "start": 2394,
+   "end": 2459
+  },
+  {
+   "fact": "门开一条缝，黑暗里只看得见半张脸：一只圆而湿润、不眨的眼睛，垂着的长发，微微恳求的斜眉——那轮廓让她觉得奇怪地熟悉",
+   "anchor": "Something oddly familiar.",
+   "start": 3920,
+   "end": 3945
+  },
+  {
+   "fact": "对方伸出一只软塌塌的手，握手正常，只是有点湿、有点凉；她原以为会被拽进黑暗，或被牙齿像捕鼠夹一样咬住手腕",
+   "anchor": "But no sudden yank into the dark.",
+   "start": 4499,
+   "end": 4532
+  },
+  {
+   "fact": "握手的几秒里她已经把两人的友谊、野餐、万圣节太妃糖苹果、甚至结婚和打通两栋房子都想了一遍",
+   "anchor": "And when we married, we’d knock down the walls between our two homes and Sgàthan Sìth would be one again.",
+   "start": 5369,
+   "end": 5474
+  },
+  {
+   "fact": "她终究没进屋，对方把门轻轻关上；她忘了问电怎么开，也忘了请对方八点后安静，只好背着包走四十分钟去村里，风吹榆树叶像掌声把她送下台",
+   "anchor": "like a small audience clapping me off stage.",
+   "start": 8948,
+   "end": 8992
+  }
+ ]
+}
