@@ -42,7 +42,7 @@ source_text: ch05
 
 > **原句 3:** "I turn the car around in the driveway, glimpsing her in the rearview mirror—standing in the doorway of her blue-shingled house, the ocean visible behind her, dark and flat, and a thought rises up inside me, unbidden: Will I see her again?"
 
-**中文理解**：我在车道上把车掉头，从后视镜里瞥见她——站在那栋蓝色木瓦小屋的门廊里，她身后就是海，dark and flat，一动不动；一个念头在我心里自己冒了出来：我还会再见到她吗？
+**中文理解**：我在车道上把车掉头，从后视镜里瞥见她——站在那栋蓝色木瓦小屋的门廊里，她身后就是海，又暗又平；一个念头在我心里自己冒了出来：我还会再见到她吗？
 
 **关键词**：glimpsing her in the rearview mirror / the ocean visible behind her, dark and flat / a thought rises up inside me, unbidden
 
@@ -54,7 +54,7 @@ source_text: ch05
 
 > **原句 4:** "I put the car in drive, shaking the notion away, but in some basement part of my gut—there is a nagging prick, something telling me not to go. Warning me that this might be the last memory I have of her."
 
-**中文理解**：我挂上挡，摇下车子，可我肚子深处某个地方有一阵针扎似的刺痛，有什么东西在叫我别去。它在警告我：关于她的这段记忆，也许就是最后一段。
+**中文理解**：我挂上挡，把那个念头甩开，可我肚子深处某个地方有一阵针扎似的刺痛，有什么东西在叫我别去。它在警告我：关于她的这段记忆，也许就是最后一段。
 
 **关键词**：in some basement part of my gut / a nagging prick / the last memory I have of her
 

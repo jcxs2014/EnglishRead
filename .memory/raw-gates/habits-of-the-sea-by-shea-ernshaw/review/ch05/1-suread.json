@@ -1,0 +1,70 @@
+{
+ "chapter": 5,
+ "source": "text/ch05_chapter_four.txt",
+ "facts": [
+  {
+   "fact": "她订了第二天一早的航班，给客户发十几封邮件取消下周预约，理由说成「家里有急事」",
+   "span": [
+    213,
+    237
+   ],
+   "anchor": "Family emergency, I lie."
+  },
+  {
+   "fact": "Nana 站在门口问「我不确定这是好主意」，并追问「要是真找到了，你会好受还是更难受」",
+   "span": [
+    770,
+    850
+   ],
+   "anchor": "“And if you do find something out there, will it make you feel better or worse?”"
+  },
+  {
+   "fact": "Nana 从不表态信不信那座岛；她说「在这种海上你会看见东西，海洋会让你相信不可能的事」",
+   "span": [
+    1270,
+    1329
+   ],
+   "anchor": "The ocean makes you believe in the impossible and unlikely."
+  },
+  {
+   "fact": "Nana 记得她那些年的咨询、不肯上学、被同学当骗子，以及整夜拿望远镜望海的夜晚",
+   "span": [
+    1548,
+    1621
+   ],
+   "anchor": "I was instantly made an outcast, a liar, the girl who vanished for a week"
+  },
+  {
+   "fact": "Nana 递给她一个三明治和两块覆盆子司康，说「去找你的岛」「这辈子鲁莽一次」",
+   "span": [
+    2282,
+    2317
+   ],
+   "anchor": "“Go find your island,” she whispers"
+  },
+  {
+   "fact": "她在车道掉头，从后视镜里看 Nana 站在蓝瓦房门口，心里冒出一句「我还会见到她吗」",
+   "span": [
+    2976,
+    2997
+   ],
+   "anchor": "Will I see her again?"
+  },
+  {
+   "fact": "车开出去后，她胃的深处有一阵隐痛（a nagging prick），像在警告她不要去",
+   "span": [
+    3053,
+    3109
+   ],
+   "anchor": "in some basement part of my gut—there is a nagging prick"
+  },
+  {
+   "fact": "最后一句：这也许是关于她的最后一段记忆",
+   "span": [
+    3145,
+    3205
+   ],
+   "anchor": "Warning me that this might be the last memory I have of her."
+  }
+ ]
+}
