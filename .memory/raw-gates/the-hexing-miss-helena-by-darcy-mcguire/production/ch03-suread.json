@@ -1,0 +1,55 @@
+{
+ "book": "the-hexing-miss-helena-by-darcy-mcguire",
+ "chapter": "ch03",
+ "text": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch03_chapter_3.txt",
+ "facts": [
+  {
+   "fact": "海伦娜·布莱尔走进辛西娅的起居室，辛西娅抬头惊讶，狐狸哈姆雷特从她裙后探头。",
+   "anchor": "Helena Blair walked into her parlour",
+   "start": 77,
+   "end": 113
+  },
+  {
+   "fact": "海伦娜当众说辛西娅需要的是白兰地，不是茶。",
+   "anchor": "‘She needs brandy, not tea.’",
+   "start": 2260,
+   "end": 2288
+  },
+  {
+   "fact": "辛西娅拒绝白兰地时说，当时还不到中午。",
+   "anchor": "It wasn’t even noon yet",
+   "start": 2393,
+   "end": 2416
+  },
+  {
+   "fact": "渡鸦罗宾爵士开口说“什么都没留下”，并上下点头。",
+   "anchor": "‘Nothing remains!’",
+   "start": 5701,
+   "end": 5719
+  },
+  {
+   "fact": "海伦娜告诉辛西娅，吊坠是在她丈夫书房里找到的，上面沾着他的血。",
+   "anchor": "‘In your husband’s study. Covered in his blood.’",
+   "start": 8918,
+   "end": 8966
+  },
+  {
+   "fact": "辛西娅承认吊坠是休伯特在求爱时送给她的，婚后几个月又还了回去。",
+   "anchor": "Hubert gave it to me when we were courting",
+   "start": 13806,
+   "end": 13848
+  },
+  {
+   "fact": "海伦娜认定使魔绝不会抛弃自己的女巫。",
+   "anchor": "A familiar did not abandon his witch. Ever.",
+   "start": 11284,
+   "end": 11327
+  },
+  {
+   "fact": "海伦娜把项链按进辛西娅掌心，强行建立接触。",
+   "anchor": "pressed the necklace into Cynthia’s hand",
+   "start": 17184,
+   "end": 17224
+  }
+ ]
+}

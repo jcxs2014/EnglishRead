@@ -15,15 +15,15 @@ modified: "2026-10-22"
 
 ## 精读
 
-> **原句 1:** "Helena Blair looked from the very dead Marquess of Kentmore to her cousin, Clio. Hamlet, her familiar and constant companion, twitched his fluffy copper tail. His left ear flicked back, and he tipped up his head, his black nose twitching."
+> **原句 1:** "Hamlet, her familiar and constant companion, twitched his fluffy copper tail. His left ear flicked back, and he tipped up his head, his black nose twitching. The strange clicking growl, indicative of foxes, never ceased to charm Helena."
 
-**中文理解**：海伦娜·布莱尔的视线从"死得透透的肯特莫尔侯爵"移向表亲克莱奥；她的使魔兼常年同伴哈姆雷特抖了抖蓬松的铜色尾巴，左耳向后一撇，仰起头，黑鼻子抽动。
+**中文理解**：哈姆雷特是海伦娜的使魔，也是她形影不离的同伴；它抖了抖蓬松的铜色尾巴，左耳往后一撇，仰起头，黑鼻子抽动。狐狸那种奇特的、咯咯作响的低吼，对海伦娜来说从来都听不腻。
 
-**关键词**：Marquess / familiar / twitched
+**关键词**：familiar / flicked / charm
 
-**为什么这样写**：叙述者把"死得透透的"这个说法放在爵位前面，先交代死亡的程度，再交代身份；只用一句就点完死者是谁，镜头随即降到狐狸的耳朵与鼻子。死亡现场因此没有被正面描述，读者先看见的是一对耳朵和一只抽动的鼻子。
+**为什么这样写**：这一块不正面写尸体，也不先写海伦娜对案子的判断，而把镜头压到狐狸的尾巴、耳朵和鼻子上；三个动作都属于动物自己。"familiar and constant companion"一句交代了它的双重身份，"never ceased to charm"则把海伦娜的偏爱放在最后：读者先认识的是她与这只狐狸的关系。
 
-**读者视角提示**：叙述者的语气里没有哀悼，"死得透透的"甚至有点刻薄；读者由此知道这一章不打算替死者致哀，而要看屋里这些活人怎么应对。
+**读者视角提示**：这一块先给出的是一对转动的耳朵和抽动的鼻子，而不是死者；这份熟稔让死亡暂时退到背景，也说明叙述的注意力属于海伦娜这一方。
 
 > **原句 2:** "He didn’t appreciate the mess the marquess left when he departed. That is, if Lord Hubert Burrows had actually departed. Determining whether his ghost lingered was a task her cousin was here to accomplish."
 
@@ -57,7 +57,7 @@ modified: "2026-10-22"
 
 > **原句 5:** "Hardly a frightening fate when she could easily douse the flames with her witchwater, but the scandal of such accusations would ruin her reputation and, by extension, the business which provided her family’s living. So, Helena was cautious with her consorts. And nothing about Cynthia Burrows was safe."
 
-**中文理解**：火刑本身吓不倒她——真有火，她用水就能浇灭；真正会毁掉她的，是丑闻：名声一坏，连养活一家人的那门生意也保不住。所以她对情人一向谨慎。而辛西娅·伯罗斯身上，没有一处是安全的。
+**中文理解**：火刑本身吓不倒她——真有火，她用水就能浇灭；真正会毁掉她的，是丑闻：名声一坏，连养活一家人的那门生意也保不住。所以她对交往对象一向谨慎。而辛西娅·伯罗斯身上，没有一处是安全的。
 
 **关键词**：witchwater / scandal / consorts
 
