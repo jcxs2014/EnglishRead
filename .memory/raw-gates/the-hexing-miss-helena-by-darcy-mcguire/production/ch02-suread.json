@@ -1,0 +1,55 @@
+{
+ "book": "the-hexing-miss-helena-by-darcy-mcguire",
+ "chapter": "ch02",
+ "text": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch02_chapter_2.txt",
+ "facts": [
+  {
+   "fact": "海伦娜在书房里从刚死的肯特莫尔侯爵看向表亲克莱奥，同场还有她的使魔狐狸哈姆雷特。",
+   "anchor": "from the very dead Marquess of Kentmore",
+   "start": 64,
+   "end": 103
+  },
+  {
+   "fact": "叙述者把“侯爵”与休伯特·伯罗斯勋爵写成同一人，并说判断鬼魂是否滞留是克莱奥此行的任务。",
+   "anchor": "if Lord Hubert Burrows had actually departed",
+   "start": 606,
+   "end": 650
+  },
+  {
+   "fact": "克莱奥说她感觉不到鬼魂，判断休伯特没有留下。",
+   "anchor": "I don’t think his spirit remains",
+   "start": 3080,
+   "end": 3112
+  },
+  {
+   "fact": "既然问不到鬼魂，海伦娜就依叔父之请去偷读辛西娅的念头，查她是不是凶手。",
+   "anchor": "Helena would steal the thoughts from Cynthia’s head",
+   "start": 5120,
+   "end": 5171
+  },
+  {
+   "fact": "海伦娜自述性向：她认为被烧死的理由里做女巫排第一，这件事紧随其后。",
+   "anchor": "Being a sapphic ranked just beneath being a witch",
+   "start": 6261,
+   "end": 6310
+  },
+  {
+   "fact": "渡鸦罗宾爵士从书桌后衔来一枚镶红宝石、盘金蛇的吊坠。",
+   "anchor": "A locket, rubies glinting in the centre",
+   "start": 12512,
+   "end": 12551
+  },
+  {
+   "fact": "麦克杜格尔转述：尸体被发现前不到半小时，辛西娅对管家说过“我要杀了那个人”。",
+   "anchor": "not half an hour before Lord Burrows was found dead",
+   "start": 10873,
+   "end": 10924
+  },
+  {
+   "fact": "叙述者判断这枚吊坠太贵重，只可能是侯爵夫人的东西。",
+   "anchor": "too expensive to belong to anyone but the lady of the house",
+   "start": 12659,
+   "end": 12718
+  }
+ ]
+}
