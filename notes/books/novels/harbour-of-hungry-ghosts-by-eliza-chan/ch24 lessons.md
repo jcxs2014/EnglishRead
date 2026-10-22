@@ -55,13 +55,13 @@ modified: "2026-10-22"
 
 **读者视角提示**：这两尊狮子被立作终点线。把"终点"和"朝外"放在一起想：她讲的其实是门口该由什么守住。
 
-> **原句 5:** "It was the wrong thing to say, he knew it as soon as the words had left his mouth. Before he could repair the mistake, the brass band started up again and any conversation was lost beneath the cacophony."
+> **原句 5:** "“It’s just a lark, they aren’t really providing protection.” It was the wrong thing to say, he knew it as soon as the words had left his mouth. Before he could repair the mistake, the brass band started up again and any conversation was lost beneath the cacophony."
 
-**中文理解**：话说错了——一出口他就知道。他还没来得及补救，铜管乐队又奏起来，任何对话都被那片喧闹盖住。
+**中文理解**：他先说出那句"就是闹着玩的，它们其实不保佑什么"——话一出口他就知道说错了。他还没来得及补救，铜管乐队又奏起来，任何对话都被那片喧闹盖住。
 
 **关键词**：the wrong thing to say / repair the mistake / the cacophony
 
-**为什么这样写**：作者不重述他说错了什么，只写"知道"的那一瞬，然后把节奏交给乐队：人一开口，乐队就响。这不是巧合，是这本书惯用的处理——最该说清楚的地方永远被别的声音盖掉。他连补救的机会都没有——机会是被那片喧闹拿走的。
+**为什么这样写**：他先把失言原样摆出来，紧跟着只写"知道"的那一瞬，然后把节奏交给乐队：人一开口，乐队就响。这不是巧合，是这本书惯用的处理——最该说清楚的地方永远被别的声音盖掉。他连补救的机会都没有——机会是被那片喧闹拿走的。
 
 **读者视角提示**：留意 "repair" 这个词。这一章他一直在修：修口音、修失言、修自己的出身，唯独修不好他和她之间那半步。
 
