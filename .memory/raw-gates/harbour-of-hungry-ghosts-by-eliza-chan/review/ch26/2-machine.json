@@ -1,0 +1,290 @@
+{
+  "chapter": 26,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/ch26 chapter twenty-four.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/text/ch26_chapter_twenty_four.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The guardian lions pounced, working as a pair to bring down the nearest horse. Kiamling swiftly followed, attaching a fu",
+          "ok": true,
+          "pos": 40
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Most of the other spectators had scrabbled up and out of the seats, climbing over the rails and scattering in every dire",
+          "ok": true,
+          "pos": 2670
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The elderly woman shoved the parasol once more into the beast’s face, opening it up as she did so. The ballooning shape ",
+          "ok": true,
+          "pos": 3200
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "A revolver fired, one round square between the beast’s eyes, four into its body, and one going wide and piercing a leath",
+          "ok": true,
+          "pos": 6005
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "The floorboards beneath her gave way, and she bit through the agony to thrust the talisman and herself forward, squeezin",
+          "ok": true,
+          "pos": 8302
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Kiamling put two fingers in her mouth and whistled, making them all turn. “Here, get them in here!” she said, pointing a",
+          "ok": true,
+          "pos": 9467
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "The lead horse passed through the arch. The string flared as it galloped across the threshold. A dark blue shadow caught",
+          "ok": true,
+          "pos": 10451
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "For the first time in a long time, she had also done as she was told: even though that had meant slamming the door in he",
+          "ok": true,
+          "pos": 12231
+        }
+      ],
+      "words": 28
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 110,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 117,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 102,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 94,
+        "关键词": 0,
+        "为什么这样写": 112,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 0,
+        "为什么这样写": 104,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 104,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 107,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 103,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.92
+      }
+    }
+  ],
+  "form": {
+    "h1": "26. Chapter Twenty-Four",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 8,
+    "block_range": [
+      4,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2138,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": "块数 8 偏离本章篇幅建议 4–7（本章 2138 词）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

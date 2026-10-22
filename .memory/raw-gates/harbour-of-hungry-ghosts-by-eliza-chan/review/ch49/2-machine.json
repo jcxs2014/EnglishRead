@@ -1,0 +1,263 @@
+{
+  "chapter": 49,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/ch49 chapter forty-five.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/text/ch49_chapter_forty_five.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "There was no time to rest. Kiamling pulled herself to her feet, thighs burning. Normally she would make a witty comment,",
+          "ok": true,
+          "pos": 38
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Some of the corpses were in a terrible state, those who had died on the long voyage over. No one to leave offerings and ",
+          "ok": true,
+          "pos": 1941
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "One of the undead lunged for Reverend Nairns behind her, and he yelled, thrusting out his open Bible in a panic. As he p",
+          "ok": true,
+          "pos": 2191
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Reverend Nairns held his Bible in one hand, flicking past the torn pages, and his cross in the other. He started to read",
+          "ok": true,
+          "pos": 4125
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Kiamling threw her spool of red thread to Archie, wanting him to make a barrier as she had done at the racecourse. He gr",
+          "ok": true,
+          "pos": 5169
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Kiamling had not taken in as deep a breath as she really should have. Even Jingling knew better than that. Her face had ",
+          "ok": true,
+          "pos": 6095
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "The threads held as more undead launched themselves forward, giving Kiamling precious time to scramble up the stairs. Ea",
+          "ok": true,
+          "pos": 6991
+        }
+      ],
+      "words": 48
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 94,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.91
+      }
+    }
+  ],
+  "form": {
+    "h1": "49. Chapter Forty-Five",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 8,
+    "block_range": [
+      4,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 7,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1272,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": "块数 7 偏离本章篇幅建议 2–4（本章 1272 词）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

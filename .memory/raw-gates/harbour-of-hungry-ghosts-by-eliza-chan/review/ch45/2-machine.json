@@ -1,0 +1,290 @@
+{
+  "chapter": 45,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/ch45 chapter forty-two.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/text/ch45_chapter_forty_two.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Partially camouflaged by the foliage was a huge tiger. Archie had plugged it full of bullets. The beast’s yellow eyes gl",
+          "ok": true,
+          "pos": 400
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Others, she was sure, would brag about the kill, take the tiger’s pelt back as a trophy. Archie was not one of those. Sh",
+          "ok": true,
+          "pos": 1126
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "A tiger could not have done this, at least not one made of flesh and blood. It was the shadow beast, it had to be. Just ",
+          "ok": true,
+          "pos": 3025
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“The only duty they have is to the chests of gold and silver they’re taking back to London. Everything else is just excu",
+          "ok": true,
+          "pos": 3430
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She sat up, surprised to find that Archie and Hoi gor had not in fact taken lumps out of each other, but were playing a ",
+          "ok": true,
+          "pos": 6041
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Her qi pool had not been completely refilled for days. She had ignored what that meant, even though she of all people wa",
+          "ok": true,
+          "pos": 7025
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Archie,” she trod carefully, “Chinese community leaders are being targeted by creatures you say are from children’s tal",
+          "ok": true,
+          "pos": 11377
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "And yet Kiamling was wistful for a time when she’d had more hope. When her defences were not constantly raised and she c",
+          "ok": true,
+          "pos": 12785
+        }
+      ],
+      "words": 50
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 115,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 105,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 71
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.9
+      }
+    }
+  ],
+  "form": {
+    "h1": "45. Chapter Forty-Two",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 8,
+    "block_range": [
+      4,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2340,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": "块数 8 偏离本章篇幅建议 4–7（本章 2340 词）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

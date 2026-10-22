@@ -50,6 +50,18 @@
       "no": 4,
       "segments": [
         {
+          "text": "“My granddaughter is perfectly capable of ensuring your shop is protected, Soon sang.” Por Por walked slowly towards the",
+          "ok": true,
+          "pos": 2442
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
           "text": "We are the gateway between the living and the dead. Ghosts and monsters are only half the job. Managing people is the ot",
           "ok": true,
           "pos": 7184
@@ -58,8 +70,8 @@
       "words": 32
     },
     {
-      "block": "原句5",
-      "no": 5,
+      "block": "原句6",
+      "no": 6,
       "segments": [
         {
           "text": "Por Por rested her chopsticks on the edge of her bowl. Somehow, despite the discussion, she had managed to finish her ri",
@@ -123,6 +135,21 @@
     {
       "block": "原句4",
       "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
         "中文理解": 42,
         "关键词": 0,
         "为什么这样写": 97,
@@ -138,7 +165,7 @@
       }
     },
     {
-      "block": "原句5",
+      "block": "原句6",
       "cjk": {
         "中文理解": 87,
         "关键词": 0,
@@ -168,7 +195,7 @@
       "为什么这样写",
       "读者视角提示"
     ],
-    "blocks": 5,
+    "blocks": 6,
     "block_median": 8,
     "block_range": [
       4,
@@ -187,9 +214,9 @@
     "baseline": "book"
   },
   "counts": {
-    "blocks": 5,
+    "blocks": 6,
     "quote_long": 0,
-    "segments": 6,
+    "segments": 7,
     "segment_miss": 0,
     "struct_bad": 0,
     "empty_quote": 0,
@@ -204,7 +231,7 @@
       3,
       5
     ],
-    "block_hint": ""
+    "block_hint": "块数 6 偏离本章篇幅建议 3–5（本章 1644 词）"
   },
   "issues": {
     "struct": [],

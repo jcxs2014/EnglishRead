@@ -1,0 +1,263 @@
+{
+  "chapter": 32,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/ch32 chapter thirty.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/text/ch32_chapter_thirty.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Archie laughed, but the sound escaping from his mouth was too high-pitched, too nervous to be indifferent. Kiamling gave",
+          "ok": true,
+          "pos": 30
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Now that the floodgates had opened, and Kiamling did not appear inclined to ridicule him for his provincial tommyrot, Ar",
+          "ok": true,
+          "pos": 2681
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "No one knew that she had frozen in fear on the night of the fires, letting the rift close. If she allowed herself to ove",
+          "ok": true,
+          "pos": 3633
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The monstrous horses at the racetrack had been strange hybrids of British and Chinese folk tales. And Archie had said th",
+          "ok": true,
+          "pos": 5876
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Don’t you dare!” Kiamling yelled as she threw herself with her last dregs of qi. Half rolling, half tumbling, every bon",
+          "ok": true,
+          "pos": 8820
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Archie?” She sat up, but his end of the spool lay on the ground, loops of red thread making idle patterns in puddle wat",
+          "ok": true,
+          "pos": 9224
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Sorry, Archie. She made up her mind, stepping backwards over the fairy circle towards the noise of the fae. As her visio",
+          "ok": true,
+          "pos": 10174
+        }
+      ],
+      "words": 35
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 97,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 106,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 99,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 100,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 93,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.89
+      }
+    }
+  ],
+  "form": {
+    "h1": "32. Chapter Thirty",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 8,
+    "block_range": [
+      4,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 7,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1859,
+    "block_target": [
+      3,
+      6
+    ],
+    "block_hint": "块数 7 偏离本章篇幅建议 3–6（本章 1859 词）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

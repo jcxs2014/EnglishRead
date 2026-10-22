@@ -1,0 +1,344 @@
+{
+  "chapter": 62,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/ch62 chapter fifty-six.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/text/ch62_chapter_fifty_six.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Por Por was out cold, Jingling and Hoi barely able to keep The Arrow afloat. The words on the fu had worked, Kiamling fe",
+          "ok": true,
+          "pos": 36
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“Don’t worry, the Empire will protect us. It always has.” His words were fervent, as eager as a schoolboy’s despite all ",
+          "ok": true,
+          "pos": 2424
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Words that she did not know how to articulate and probably never would: the colour of unbridled joy, the smell of his co",
+          "ok": true,
+          "pos": 3340
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The gun followed her, glued to her body like a kiss. She had known it would come to this. Fervently hoped another outcom",
+          "ok": true,
+          "pos": 3838
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“I’m sorry too,” she said, gravel in her throat. She thrust the coin sword up through his abdomen, all the way to the hi",
+          "ok": true,
+          "pos": 4323
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "For so long she had wanted to make decisions, wanted the responsibility Por Por had never been willing to give her. It w",
+          "ok": true,
+          "pos": 5655
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Every yiugwai hunter knew that the blood of a dog was more potent than that of a chicken. She could only imagine what th",
+          "ok": true,
+          "pos": 7061
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“More so than usual?” Kiamling snapped back. The remark was enough to remind her that yes, she should probably take cove",
+          "ok": true,
+          "pos": 8701
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "The wind was in their favour, filling the secondary sail as Hoi pointed The Arrow up the Pearl River Delta. Kiamling clo",
+          "ok": true,
+          "pos": 11503
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "It was broken by Por Por’s sudden exclamation. “Wait – mau toi? Have the three of you been drinking?”",
+          "ok": true,
+          "pos": 11842
+        }
+      ],
+      "words": 19
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 104,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 0,
+        "为什么这样写": 119,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 107,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 88,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.9
+      }
+    }
+  ],
+  "form": {
+    "h1": "62. Chapter Fifty-Six",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 8,
+    "block_range": [
+      4,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2182,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": "块数 10 偏离本章篇幅建议 4–7（本章 2182 词）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

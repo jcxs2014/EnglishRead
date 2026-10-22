@@ -1,0 +1,344 @@
+{
+  "chapter": 59,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/ch59 chapter fifty-three.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/text/ch59_chapter_fifty_three.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“Do it harder this time, put us all out of our misery,” Hoi gor said from his position on the floor. One of his little s",
+          "ok": true,
+          "pos": 154
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The harbour was the gateway. To Shanghai, Singapore and Formosa; to the American West and the Caribbean. A gateway for t",
+          "ok": true,
+          "pos": 1386
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“I’ve understood this much while trying to fill your shoes: not all that appears evil is truly evil. The spirits under M",
+          "ok": true,
+          "pos": 3610
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“No, Ah Kiam. You are the strongest yiugwai hunter in generations. Your weakness is that you did not understand that pow",
+          "ok": true,
+          "pos": 4440
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Months ago, Kiamling would have taken the more dramatic option. Desperate to prove herself to her grandmother, to the wh",
+          "ok": true,
+          "pos": 5176
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "As if aware they were talking about her, a nonchalant humming voice pottered down the stairs. It was Jingling, her pigta",
+          "ok": true,
+          "pos": 7597
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "They had cleared the burial grounds here to allow the British to build the police station. Por Por had had such a go at ",
+          "ok": true,
+          "pos": 10333
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Jingling started singing, rolling the egg between her hands as she did so. She swayed on her feet, stumbling from side t",
+          "ok": true,
+          "pos": 11681
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“Done!” the spirits said. The bone pieces rose en masse, the transparent forms fading away to nothing. The shards pelted",
+          "ok": true,
+          "pos": 13584
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "The spectres stopped the officers from giving chase. Kiamling looked back only once before stepping through the back wal",
+          "ok": true,
+          "pos": 14409
+        }
+      ],
+      "words": 23
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 107,
+        "读者视角提示": 69
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 109,
+        "读者视角提示": 68
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 100,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 90,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.87
+      }
+    }
+  ],
+  "form": {
+    "h1": "59. Chapter Fifty-Three",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 8,
+    "block_range": [
+      4,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2607,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": "块数 10 偏离本章篇幅建议 5–8（本章 2607 词）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "chapter": 31,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/ch31 chapter twenty-nine.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/text/ch31_chapter_twenty_nine.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Archie’s arm was still in a sling, but he was in good spirits, conversing with the sedan-chair men at the corner of Holl",
+          "ok": true,
+          "pos": 40
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Her plan had been to be more Jingling. Charming and inoffensive before requesting Archie take pity on her and loan her m",
+          "ok": true,
+          "pos": 1636
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "A few weeks ago, Kiamling would have agreed, but the falling-out with Jingling made her less certain. Either way, she co",
+          "ok": true,
+          "pos": 3894
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "As they approached, she was immediately drawn to the shuttered windows at the rear. Deep scratch marks were gouged in th",
+          "ok": true,
+          "pos": 4537
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "The hairs on the back of Kiamling’s neck prickled. She was fortunate that Mr Ma did not remember it was Archie rather th",
+          "ok": true,
+          "pos": 5695
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Poppies grew under opium beds, from cracks in the wall and even outside on the street. They worked systematically throug",
+          "ok": true,
+          "pos": 7297
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Por Por preferred dog’s blood, but I don’t have the stomach for that. This equipment, or something similar, has been use",
+          "ok": true,
+          "pos": 9203
+        }
+      ],
+      "words": 34
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.87
+      }
+    }
+  ],
+  "form": {
+    "h1": "31. Chapter Twenty-Nine",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 8,
+    "block_range": [
+      4,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 7,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1759,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": "块数 7 偏离本章篇幅建议 3–5（本章 1759 词）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

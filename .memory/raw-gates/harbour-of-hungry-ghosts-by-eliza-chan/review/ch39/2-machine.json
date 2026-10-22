@@ -1,0 +1,317 @@
+{
+  "chapter": 39,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/ch39 chapter thirty-six.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/text/ch39_chapter_thirty_six.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“Archie,” Kiamling said, her voice unnaturally high. With everything that had happened, she had forgotten she had told K",
+          "ok": true,
+          "pos": 38
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“Good heavens, is that Secretary Peake?” Archie’s face was already so pale, Kiamling had not believed it could get any w",
+          "ok": true,
+          "pos": 899
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Civilised people do not believe in druids, in any of this.” The Englishman shifted in discomfort. Trying his best to st",
+          "ok": true,
+          "pos": 2165
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Wait, Kiamling recognised that knotted belt Jingling was wearing round her simple robes; it was hers! She had been searc",
+          "ok": true,
+          "pos": 5358
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "The trickle of qi became a steady stream, flowing through Jingling’s hands into Kiamling’s body. The broken rib knitted ",
+          "ok": true,
+          "pos": 7324
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Madam Yau’s ability to converse with lui gwei was not unexpected given that she was a wulei jing; but Jingling’s affinit",
+          "ok": true,
+          "pos": 11475
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "They wrestled and laughed, threatening to push each other’s paralysis points, finally collapsing on the floor side by si",
+          "ok": true,
+          "pos": 12861
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Jingling wrapped her arms around Kiamling’s neck, and the dam that had been only leaking broke completely. Kiamling sobb",
+          "ok": true,
+          "pos": 14249
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "She paused, letting the weight of it settle over them. It had been months since Por Por had been pulled across the rift.",
+          "ok": true,
+          "pos": 15659
+        }
+      ],
+      "words": 44
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 99,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.79
+      }
+    }
+  ],
+  "form": {
+    "h1": "39. Chapter Thirty-Six",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 8,
+    "block_range": [
+      4,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2910,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

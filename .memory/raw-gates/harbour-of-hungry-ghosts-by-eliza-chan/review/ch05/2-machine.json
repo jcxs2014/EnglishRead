@@ -43,6 +43,18 @@
       "no": 3,
       "segments": [
         {
+          "text": "Hungry ghosts were the forgotten. Wandering spirits who had died without family or friends; angry or alone; growing rese",
+          "ok": true,
+          "pos": 831
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
           "text": "The flicker of the burning flames changed direction as the ghosts picked up their share",
           "ok": true,
           "pos": 1592
@@ -61,8 +73,8 @@
       "words": 54
     },
     {
-      "block": "原句4",
-      "no": 4,
+      "block": "原句5",
+      "no": 5,
       "segments": [
         {
           "text": "People had started to bring food offerings, laying them out on the ground before the stage. Platters of fruit, steamed b",
@@ -73,8 +85,8 @@
       "words": 35
     },
     {
-      "block": "原句5",
-      "no": 5,
+      "block": "原句6",
+      "no": 6,
       "segments": [
         {
           "text": "“Blasphemy!” the priest repeated, eyes sweeping the crowd and coming to rest on Mr Fung the butcher, who stood a head ta",
@@ -90,8 +102,8 @@
       "words": 47
     },
     {
-      "block": "原句6",
-      "no": 6,
+      "block": "原句7",
+      "no": 7,
       "segments": [
         {
           "text": "“I might not understand what you’re saying, but the sentiment is clear. No one is asking you to be here.” She had not ra",
@@ -102,8 +114,32 @@
       "words": 33
     },
     {
-      "block": "原句7",
-      "no": 7,
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“Tell him the governor himself approved this celebration. The longer he holds us up, the angrier the hungry ghosts will ",
+          "ok": true,
+          "pos": 9387
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“She is in charge, Reverend Nairns. She is their spiritual leader.” The voice rang from the seats; the man’s English – a",
+          "ok": true,
+          "pos": 9948
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句10",
+      "no": 10,
       "segments": [
         {
           "text": "Por Por hunched over the paper like a feral dog around a piece of meat. She slammed the heel of her shoe down on it, mak",
@@ -114,8 +150,8 @@
       "words": 54
     },
     {
-      "block": "原句8",
-      "no": 8,
+      "block": "原句11",
+      "no": 11,
       "segments": [
         {
           "text": "A putrid odour filled the air. The sour stench of rotten meat in the midday heat. A ghost nibbled at him, its distended ",
@@ -126,8 +162,8 @@
       "words": 40
     },
     {
-      "block": "原句9",
-      "no": 9,
+      "block": "原句12",
+      "no": 12,
       "segments": [
         {
           "text": "“That wasn’t proper villain hitting,” Kiamling pointed out, pleased that she knew the difference. “You’re supposed to fe",
@@ -138,8 +174,8 @@
       "words": 27
     },
     {
-      "block": "原句10",
-      "no": 10,
+      "block": "原句13",
+      "no": 13,
       "segments": [
         {
           "text": "Her grandmother took a long swig of water, wiping her mouth with the back of her hand. She shrugged. “Worked, didn’t it?",
@@ -184,6 +220,21 @@
     {
       "block": "原句3",
       "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
         "中文理解": 52,
         "关键词": 0,
         "为什么这样写": 60,
@@ -197,7 +248,7 @@
       }
     },
     {
-      "block": "原句4",
+      "block": "原句5",
       "cjk": {
         "中文理解": 36,
         "关键词": 0,
@@ -212,7 +263,7 @@
       }
     },
     {
-      "block": "原句5",
+      "block": "原句6",
       "cjk": {
         "中文理解": 46,
         "关键词": 0,
@@ -227,7 +278,7 @@
       }
     },
     {
-      "block": "原句6",
+      "block": "原句7",
       "cjk": {
         "中文理解": 40,
         "关键词": 0,
@@ -242,7 +293,37 @@
       }
     },
     {
-      "block": "原句7",
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句10",
       "cjk": {
         "中文理解": 45,
         "关键词": 0,
@@ -257,7 +338,7 @@
       }
     },
     {
-      "block": "原句8",
+      "block": "原句11",
       "cjk": {
         "中文理解": 52,
         "关键词": 0,
@@ -272,7 +353,7 @@
       }
     },
     {
-      "block": "原句9",
+      "block": "原句12",
       "cjk": {
         "中文理解": 37,
         "关键词": 0,
@@ -287,7 +368,7 @@
       }
     },
     {
-      "block": "原句10",
+      "block": "原句13",
       "cjk": {
         "中文理解": 25,
         "关键词": 0,
@@ -317,7 +398,7 @@
       "为什么这样写",
       "读者视角提示"
     ],
-    "blocks": 10,
+    "blocks": 13,
     "block_median": 8,
     "block_range": [
       4,
@@ -336,9 +417,9 @@
     "baseline": "book"
   },
   "counts": {
-    "blocks": 10,
+    "blocks": 13,
     "quote_long": 0,
-    "segments": 15,
+    "segments": 18,
     "segment_miss": 0,
     "struct_bad": 0,
     "empty_quote": 0,
@@ -353,7 +434,7 @@
       5,
       9
     ],
-    "block_hint": "块数 10 偏离本章篇幅建议 5–9（本章 2770 词）"
+    "block_hint": "块数 13 偏离本章篇幅建议 5–9（本章 2770 词）"
   },
   "issues": {
     "struct": [],

@@ -123,6 +123,18 @@
         }
       ],
       "words": 30
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Por Por snorted, finally glancing at her granddaughter. “You think I can’t look after myself?” She cricked her neck to o",
+          "ok": true,
+          "pos": 16465
+        }
+      ],
+      "words": 42
     }
   ],
   "blocks": [
@@ -275,6 +287,21 @@
         "为什么这样写": 0.75,
         "读者视角提示": 0.89
       }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.86
+      }
     }
   ],
   "form": {
@@ -292,7 +319,7 @@
       "为什么这样写",
       "读者视角提示"
     ],
-    "blocks": 10,
+    "blocks": 11,
     "block_median": 8,
     "block_range": [
       4,
@@ -311,9 +338,9 @@
     "baseline": "book"
   },
   "counts": {
-    "blocks": 10,
+    "blocks": 11,
     "quote_long": 0,
-    "segments": 10,
+    "segments": 11,
     "segment_miss": 0,
     "struct_bad": 0,
     "empty_quote": 0,
@@ -328,7 +355,7 @@
       5,
       9
     ],
-    "block_hint": "块数 10 偏离本章篇幅建议 5–9（本章 2948 词）"
+    "block_hint": "块数 11 偏离本章篇幅建议 5–9（本章 2948 词）"
   },
   "issues": {
     "struct": [],

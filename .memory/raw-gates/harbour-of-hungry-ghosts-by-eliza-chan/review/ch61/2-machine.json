@@ -1,0 +1,354 @@
+{
+  "chapter": 61,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/ch61 chapter fifty-five.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/text/ch61_chapter_fifty_five.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Despite Kiamling’s clear incompetence on a ship, Hoi managed to steer The Arrow away from the harbour. The blue light fr",
+          "ok": true,
+          "pos": 38
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Kiamling clambered up the mast, trying not to look down as she did so. With her hand dipped in her bottle of opium-laced",
+          "ok": true,
+          "pos": 1255
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "She had been born in Canton, but Hong Kong was where she had found herself. Here, with the push and pull of different la",
+          "ok": true,
+          "pos": 1726
+        },
+        {
+          "text": "no, not merely accept",
+          "ok": true,
+          "pos": 1893
+        },
+        {
+          "text": "embrace the change. It suited her",
+          "ok": true,
+          "pos": 1916
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The shadow creature looked different from previous iterations: evolving the longer he stayed on the island; the longer h",
+          "ok": true,
+          "pos": 2847
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Finish it!” Lancaster yelled. He groaned in disgust as Archie did not immediately respond, his feet stamping towards th",
+          "ok": true,
+          "pos": 7184
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Leave my sister alone!” howled a voice filled with rage. Not a vengeful lui gwei, but an irate Jingling, rushing forwar",
+          "ok": true,
+          "pos": 8608
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Por Por had used only the traditional words. Kiamling swore under her breath. In all that had happened, she had forgot t",
+          "ok": true,
+          "pos": 9317
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Kiamling yanked out the compact mirror Lady Bowring had given her at the races, modified to fit into a batgua mirror’s e",
+          "ok": true,
+          "pos": 9884
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Hoi had grabbed hold of the steering wheel, propelling it back on course. Jingling was behind him, both hands flat on hi",
+          "ok": true,
+          "pos": 10551
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "It had not worked. The fu had not been strong enough. And now they were drifting on the water, watching as monsters dest",
+          "ok": true,
+          "pos": 11700
+        }
+      ],
+      "words": 25
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 96,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.8
+      }
+    }
+  ],
+  "form": {
+    "h1": "61. Chapter Fifty-Five",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 8,
+    "block_range": [
+      4,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2110,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": "块数 10 偏离本章篇幅建议 4–7（本章 2110 词）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

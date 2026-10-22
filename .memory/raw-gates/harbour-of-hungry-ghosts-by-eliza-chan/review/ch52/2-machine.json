@@ -1,0 +1,327 @@
+{
+  "chapter": 52,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/ch52 chapter forty-eight.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/text/ch52_chapter_forty_eight.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Merlin’s tree still dominated the centre of the space, but it had been pruned and coaxed into a softer form. People had ",
+          "ok": true,
+          "pos": 107
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Kiamling had her own theory about that, but she kept it to herself. Archie had wanted to be caught. No, that wasn’t it –",
+          "ok": true,
+          "pos": 1042
+        },
+        {
+          "text": "And despite his betrayal, she still wanted to save him",
+          "ok": true,
+          "pos": 1335
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“When the spirits forced doorways into the living world, they were neither wholly Eastern nor Western any more. A fusion",
+          "ok": true,
+          "pos": 2719
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Archie had come into her life, a sweetness she had craved like the treats Por Por had denied her. She had wanted his att",
+          "ok": true,
+          "pos": 4059
+        },
+        {
+          "text": "He had spurred her on to better herself",
+          "ok": true,
+          "pos": 4342
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "The brothel owner hid a knowing smile behind her teacup. It took a lot for Kiamling to ask for help from yiugwai; to ack",
+          "ok": true,
+          "pos": 5067
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Here,” Kiamling said, and ignoring his outstretched hand, she threw the piece of fabric into the brazier. It burnt up f",
+          "ok": true,
+          "pos": 6371
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Even though Kiamling had seen Archie transform into the shadow beast, the priest’s comments rubbed her up the wrong way.",
+          "ok": true,
+          "pos": 7321
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "The notion tickled her greatly, but she could see Jingling was flagging with the effort of keeping his ghost present. As",
+          "ok": true,
+          "pos": 10759
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“First, we talk to our devoted friend.”",
+          "ok": true,
+          "pos": 11802
+        }
+      ],
+      "words": 7
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.82
+      }
+    }
+  ],
+  "form": {
+    "h1": "52. Chapter Forty-Eight",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 8,
+    "block_range": [
+      4,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2121,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": "块数 9 偏离本章篇幅建议 4–7（本章 2121 词）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

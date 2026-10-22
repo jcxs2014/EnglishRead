@@ -57,12 +57,12 @@
       "no": 5,
       "segments": [
         {
-          "text": "It was the wrong thing to say, he knew it as soon as the words had left his mouth. Before he could repair the mistake, t",
+          "text": "“It’s just a lark, they aren’t really providing protection.” It was the wrong thing to say, he knew it as soon as the wo",
           "ok": true,
-          "pos": 4159
+          "pos": 4102
         }
       ],
-      "words": 39
+      "words": 48
     },
     {
       "block": "原句6",
@@ -158,15 +158,15 @@
     {
       "block": "原句5",
       "cjk": {
-        "中文理解": 39,
+        "中文理解": 60,
         "关键词": 0,
-        "为什么这样写": 88,
+        "为什么这样写": 90,
         "读者视角提示": 38
       },
       "cjk_ratio": {
         "中文理解": 0.87,
         "关键词": 0.0,
-        "为什么这样写": 0.86,
+        "为什么这样写": 0.87,
         "读者视角提示": 0.73
       }
     },

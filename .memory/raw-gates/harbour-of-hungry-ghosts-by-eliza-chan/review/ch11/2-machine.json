@@ -1,0 +1,182 @@
+{
+  "chapter": 11,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/ch11 chapter eleven.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/text/ch11_chapter_eleven.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Man Mo temple sat halfway up the Mid-Levels on Hollywood Road, looking down over the harbour to the north. It was the mo",
+          "ok": true,
+          "pos": 30
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "On the lid were carved depictions of Mount Kunlun, home of the gods. She and Jingling had squatted beside it, running th",
+          "ok": true,
+          "pos": 2774
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "In the back of her mind she already knew they would offer no aid. The painstaking copying years ago had not been fully e",
+          "ok": true,
+          "pos": 4711
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The British had sat in the chairs reserved for the ghosts at the festival. Your ghosts aren’t real, Governor Bowring had",
+          "ok": true,
+          "pos": 5618
+        }
+      ],
+      "words": 34
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 123,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 108,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 114,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.73
+      }
+    }
+  ],
+  "form": {
+    "h1": "11. Chapter Eleven",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 4,
+    "block_median": 8,
+    "block_range": [
+      4,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 4,
+    "quote_long": 0,
+    "segments": 4,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1042,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": "块数 4 偏离本章篇幅建议 2–3（本章 1042 词）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

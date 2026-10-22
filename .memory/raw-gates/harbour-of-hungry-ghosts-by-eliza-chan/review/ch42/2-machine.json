@@ -1,0 +1,295 @@
+{
+  "chapter": 42,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/ch42 chapter thirty-nine.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/text/ch42_chapter_thirty_nine.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Jingling, the little snake, waited until Kiamling had recounted the whole sorry story, keeping back whatever the heck ha",
+          "ok": true,
+          "pos": 40
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She slapped more paint on the wall, not bothering to daub the excess off, spreading it haphazardly in every direction. S",
+          "ok": true,
+          "pos": 2704
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Hoi gor laughed, not denying it. He had been the clown in class, hiding behind pillars and putting frogs in the sifu’s r",
+          "ok": true,
+          "pos": 6758
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Kiamling scanned the page, paint-stained fingers tracing each line. “‘The clipper known as The Arrow will be given into ",
+          "ok": true,
+          "pos": 7835
+        },
+        {
+          "text": "’ Hoi gor, did you sign this?”",
+          "ok": true,
+          "pos": 8011
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "On the one hand officials declared it was corrupt, causing lethargy and a decay of the mind; while the other hand contin",
+          "ok": true,
+          "pos": 8761
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“What could you possibly have done, killed a man?” The comment, as most of Kiamling’s remarks tended to be, was flippant",
+          "ok": true,
+          "pos": 10333
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“What exactly is the difference between a pirate and a merchant other than a piece of paper?” Everyone knew a fisherman ",
+          "ok": true,
+          "pos": 10751
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Kiamling’s rant trailed off as her brain caught up to her mouth. The temple. She had been trying to connect the dots, to",
+          "ok": true,
+          "pos": 11440
+        }
+      ],
+      "words": 36
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 100,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 0,
+        "为什么这样写": 115,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 97,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 90,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.87
+      }
+    }
+  ],
+  "form": {
+    "h1": "42. Chapter Thirty-Nine",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 8,
+    "block_range": [
+      4,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2164,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": "块数 8 偏离本章篇幅建议 4–7（本章 2164 词）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

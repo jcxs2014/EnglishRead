@@ -1,0 +1,268 @@
+{
+  "chapter": 60,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/ch60 chapter fifty-four.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/text/ch60_chapter_fifty_four.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "A diagonal slash tearing down through the fabric of reality. The edges were roughly torn, flapping open like a knife wou",
+          "ok": true,
+          "pos": 963
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The serpent pounced on the nearest man. His shaking bayonet cut through its forked tongue, but still the beast advanced,",
+          "ok": true,
+          "pos": 2070
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Por Por laughed without responding. Somewhere between the police station and the harbour, she had found a bamboo cane to",
+          "ok": true,
+          "pos": 3015
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Kiamling used the hesitation in Bowring’s response to throw a handful of salt into his face. His rifle fired with a deaf",
+          "ok": true,
+          "pos": 6555
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Her hip ached with a dull pain, throbbing like a heartbeat in her side, as though she had been smacked with a brutal pun",
+          "ok": true,
+          "pos": 6848
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "The bullet and the bean",
+          "ok": true,
+          "pos": 7265
+        },
+        {
+          "text": "One a precious keepsake; the other a weapon. It was hard to tell them apart any more, welded together by the impact",
+          "ok": true,
+          "pos": 7310
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Or perhaps her luck had run out",
+          "ok": true,
+          "pos": 7434
+        }
+      ],
+      "words": 7
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 90,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 11,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.89
+      }
+    }
+  ],
+  "form": {
+    "h1": "60. Chapter Fifty-Four",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 8,
+    "block_range": [
+      4,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1319,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": "块数 7 偏离本章篇幅建议 2–4（本章 1319 词）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

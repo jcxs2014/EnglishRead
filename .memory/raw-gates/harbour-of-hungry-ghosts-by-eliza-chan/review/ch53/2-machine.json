@@ -1,0 +1,268 @@
+{
+  "chapter": 53,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/ch53 lessons.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/text/ch53_lessons.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It was lucky timing perhaps that several trade agreements needed translating and a number of the other interpreters had ",
+          "ok": true,
+          "pos": 394
+        },
+        {
+          "text": "or something else. It had never been luck, after all, whatever lies he told himself to sleep at night",
+          "ok": true,
+          "pos": 568
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“Are you going to say hello, or just slit my throat in my sleep?” he said in Cantonese, turning his head to the shadow b",
+          "ok": true,
+          "pos": 723
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "She smelt as smoky as a bonfire, of joss sticks and black tea. God, he wanted to bury his nose in her clothes. The tip o",
+          "ok": true,
+          "pos": 2625
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“I don’t even remember them taking the first couple of childhood memories. So I gave them another. And another. Until al",
+          "ok": true,
+          "pos": 3650
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Every kiss is your first kiss.” Kiamling wrenched her eyes away from his lips, looking like she wanted to try the theor",
+          "ok": true,
+          "pos": 4939
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "At the bottom of the brown liquor, a paper tiger had been folded from a fu talisman. Its four feet tied up with red stri",
+          "ok": true,
+          "pos": 7033
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Clever girl. And with that, Archie once again blacked out",
+          "ok": true,
+          "pos": 7196
+        }
+      ],
+      "words": 10
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 101,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 107,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 90,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 94,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 100,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 17,
+        "关键词": 0,
+        "为什么这样写": 96,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.91
+      }
+    }
+  ],
+  "form": {
+    "h1": "53. Lessons",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 8,
+    "block_range": [
+      4,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1348,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": "块数 7 偏离本章篇幅建议 2–4（本章 1348 词）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

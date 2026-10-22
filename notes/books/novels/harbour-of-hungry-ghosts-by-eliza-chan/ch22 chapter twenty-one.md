@@ -16,7 +16,6 @@ modified: "2026-10-22"
 ## 精读
 
 > **原句 1:** "So, the British wanted to start another war. It should not surprise her. The European powers had carved the world up like the overcooked roast they so loved on a Sunday, affronted when they met the least bit of resistance."
-
 **中文理解**：原来英国人又要打一场仗了，这并不让她意外。欧洲列强把世界分得就像他们星期天钟爱的那只烤过头的烤肉，一碰上哪怕一丁点反抗，还要觉得受了冒犯。
 
 **关键词**：start another war / carved the world up / the least bit of resistance
@@ -26,7 +25,6 @@ modified: "2026-10-22"
 **读者视角提示**：注意这只烤肉是"他们"星期天爱吃的，不是她爱吃的。同一张桌子上，谁在分、谁是被分的，这一句已经站好了位置。
 
 > **原句 2:** "A grudging second realisation bubbled to the surface: Jingling was actually very good. She did not have the stage presence of the opera singers, in their elaborate make-up and clothing, but her voice pierced the smoke, bright and clear."
-
 **中文理解**：第二个念头是不情愿地冒上来的：Jingling 唱得确实很好。她没有戏班歌者那样浓妆华服撑起来的台风，可她的声音穿得过烟气，又亮又清。
 
 **关键词**：grudging second realisation / stage presence / pierced the smoke
@@ -36,7 +34,6 @@ modified: "2026-10-22"
 **读者视角提示**：这份夸奖里没有一句问她为什么要唱。她把"唱得好"和"该不该唱"分得很开，这个裂缝后面会一直开着。
 
 > **原句 3:** "Jingling sang of the goddess’s exile not as punishment, but as breaking away from restraints and judgement. The world looking up at the full moon with wistful envy, wishing that they too could be brave enough to seize the chance. The refrain was sung in English: To be free."
-
 **中文理解**：Jingling 唱那位月中女神的被逐，不当作惩罚，而当作挣脱束缚与评判。世人抬头看满月，带着怅然的羡慕，盼自己也能有那份胆量去抓住机会。副歌唱的是英文：To be free。
 
 **关键词**：not as punishment / wistful envy / To be free
@@ -46,7 +43,6 @@ modified: "2026-10-22"
 **读者视角提示**：把这句"不是惩罚，是挣脱"记住。等姐妹俩在门外吵起来，Jingling 说的每一句几乎都是这三个字的变奏。
 
 > **原句 4:** "“Indeed. I wonder if she gives private performances,” his companion remarked. The tone of the comment was less salubrious, and Kiamling noticed for the first time how tightly the European dress fitted to her sister’s form."
-
 **中文理解**："可不。不知道她接不接私下的场子。"他同伴接了这么一句。这话的调子就不那么干净了；Kiamling 也是到这时才第一次注意到，那条欧式裙子把她妹妹的身形箍得多紧。
 
 **关键词**：private performances / less salubrious / how tightly the European dress fitted
@@ -56,7 +52,6 @@ modified: "2026-10-22"
 **读者视角提示**："第一次"这三个字很要紧：她不是没见过妹妹穿这身，是从没站到"别人会怎么看"的位置上看过。她接下来的火气全从这个位置上烧起来。
 
 > **原句 5:** "“My ears work fine, as do their eyes.” Kiamling rummaged inside the skirts of her uniform and found a clean handkerchief. She scrubbed at Jingling’s mouth with it, ignoring her sister’s protests as if she were a naughty child caught with sugar on her face."
-
 **中文理解**："我耳朵好使，他们的眼睛也好使。"Kiamling 在制服的裙子里翻出一块干净手帕，就着它擦妹妹的嘴，把她的抗议当没听见，像对付一个偷吃糖被当场抓住的小孩。
 
 **关键词**：as do their eyes / a clean handkerchief / a naughty child caught with sugar
@@ -66,7 +61,6 @@ modified: "2026-10-22"
 **读者视角提示**：留意她擦的是嘴，不是眼泪。她收拾的是"别人看见的那个妹妹"，不是妹妹本人；这也解释了后面妹妹为什么先炸的是这一句。
 
 > **原句 6:** "“You, voice of a nightingale or not, need to leave,” he said without preamble to Jingling. He swivelled to Kiamling. “And you, whom I most certainly did not hire, are barred. This is an upscale establishment, not some common wet market to brawl in.”"
-
 **中文理解**："您哪，不管是不是夜莺的嗓子，都得走。"他没半句客套，直接对 Jingling 说，随即转向 Kiamling，"还有您，我百分之百没雇过您，从今往后不许进。这是体面的地方，不是谁都能来撒泼的菜市场。"
 
 **关键词**：voice of a nightingale / are barred / common wet market
@@ -75,8 +69,16 @@ modified: "2026-10-22"
 
 **读者视角提示**：他说的是"leave"和"barred"，两个词就把两个人的去处分开了：一个被解雇，一个被禁止入内。她本来只想护妹妹，结果连妹妹站的地方也一起没了。
 
-> **原句 7:** "“It’s always about you! You and Por Por, you and the geongsi, you and chopping down everything with the biggest blade you can find without ever considering that other people might get cut.”"
+> **原句 7:** "A noise interrupted Kiamling. An inhuman sound, screeching like a creature of nightmares. It was not a hungry ghost. It was Jingling, crumpled to her knees and wailing. She had pulled some of the pins from her hair, scattering them across the dirt."
+**中文理解**：一声响把 Kiamling 的念头打断。那声音不像人，尖得像夜里爬出来的东西。可它不是饿鬼——是 Jingling，跪在地上号哭，头发上的簪子被自己扯下来几根，散在土里。
 
+**关键词**：an inhuman sound / It was not a hungry ghost / scattering them across the dirt
+
+**为什么这样写**：全书最锋利的反转摆在这里：她一辈子听声辨妖，这一次却把妹妹的哭声听成了饿鬼。作者先让声音「不像人」，再用一句短句否掉她最熟悉的判断，最后才给出名字。这一层否定比任何解释都狠——她的本事没失灵，只是用错了地方。
+
+**读者视角提示**：记住这一句。「不是饿鬼」是全书的回声：整本书都在问谁在挨饿、谁在叫，而这一夜的尖叫来自一个活人。
+
+> **原句 8:** "“It’s always about you! You and Por Por, you and the geongsi, you and chopping down everything with the biggest blade you can find without ever considering that other people might get cut.”"
 **中文理解**："什么事都是你！你和婆婆，你和那些 geongsi，你拿着能找到的最大的刀，把什么都一路砍平，从来不想想别人也会被砍到。"
 
 **关键词**：It’s always about you / the biggest blade / other people might get cut
@@ -85,8 +87,7 @@ modified: "2026-10-22"
 
 **读者视角提示**：她说的是"你挑最大的刀"，不是"你砍错了"。她反对的从来不是姐姐救人，是姐姐从不问谁愿意被这样救。
 
-> **原句 8:** "This fragile girl who fainted at the sight of geongsi; a beauty who could cause fish to drown and birds to fall from the sky. She was none of those things. Kiamling did not know her at all."
-
+> **原句 9:** "This fragile girl who fainted at the sight of geongsi; a beauty who could cause fish to drown and birds to fall from the sky. She was none of those things. Kiamling did not know her at all."
 **中文理解**：这个一见 geongsi 就晕过去的娇弱女孩，这个美得能让鱼沉下去、鸟从天上掉下来的妹妹——她一样都不是。Kiamling 根本不认识她。
 
 **关键词**：fainted at the sight of geongsi / none of those things / did not know her at all

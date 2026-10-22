@@ -1,0 +1,263 @@
+{
+  "chapter": 48,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/ch48 chapter forty-four.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/text/ch48_chapter_forty_four.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "She summoned her qi and dozens of fu flew into the air, the yellow talismans floating at eye level. She had been busy wh",
+          "ok": true,
+          "pos": 238
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Kiamling took her pent-up rage and directed it into her sword swing. She was supposed to be the rule-breaker, not them. ",
+          "ok": true,
+          "pos": 1424
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The line of fu-paralysed monsters would soon rupture. The sheer weight of the geongsi behind pushed upon them, and talis",
+          "ok": true,
+          "pos": 2311
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“You, girl, you cursed witch! You did this!” the reverend said, thrusting a cross out in his shaking hands. There was an",
+          "ok": true,
+          "pos": 2612
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She dipped her coin sword into the font, pouring the water as best she could so it ran down the length of the weapon. Ar",
+          "ok": true,
+          "pos": 5418
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Without the training to defend his own life essence, everything had been drained almost instantaneously. His skin shrive",
+          "ok": true,
+          "pos": 7014
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Archie and the reverend had their backs against the side door, trying desperately to keep it from opening further. Score",
+          "ok": true,
+          "pos": 7217
+        }
+      ],
+      "words": 64
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 116,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 95,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 100,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 104,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 104,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 88,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 103,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.88
+      }
+    }
+  ],
+  "form": {
+    "h1": "48. Chapter Forty-Four",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 8,
+    "block_range": [
+      4,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 7,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1303,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": "块数 7 偏离本章篇幅建议 2–4（本章 1303 词）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

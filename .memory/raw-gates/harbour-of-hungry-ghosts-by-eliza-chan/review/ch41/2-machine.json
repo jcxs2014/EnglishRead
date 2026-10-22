@@ -1,0 +1,403 @@
+{
+  "chapter": 41,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/ch41 chapter thirty-eight.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/text/ch41_chapter_thirty_eight.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "They had only been apart for a few weeks, but to Kiamling it felt much longer. Jingling’s presence, that elbow in her si",
+          "ok": true,
+          "pos": 86
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Kiamling looked at herself in the polished metal that acted as a mirror. They had found some serviceable clothes and tak",
+          "ok": true,
+          "pos": 610
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Kiamling had not been able to conceal her coin sword on her person, but she had pouches of glutinous rice and fu tucked ",
+          "ok": true,
+          "pos": 2791
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "She walked boldly forward, topping up his glass of sherry. Her light fingers palmed his coin purse on the first attempt,",
+          "ok": true,
+          "pos": 4680
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "The stolen purse dropped to the floor between them. She might as well have drawn a circle around it with arrows. The law",
+          "ok": true,
+          "pos": 5031
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "A man who had lived in London and understood the British ways more intimately, he would be able to shed light on the sit",
+          "ok": true,
+          "pos": 6046
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Kiamling peered at the various bottles lining the bar, buying time as she tried to make out the faded labels in ornate w",
+          "ok": true,
+          "pos": 6782
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "The Englishman looked for something in her face, his jaw tensing as he did so, as if this was a test she had not known s",
+          "ok": true,
+          "pos": 12835
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Archie was not one of these men. He did not have a country house and rich parents to bail him out. Had he not told her –",
+          "ok": true,
+          "pos": 14487
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "When she opened her eyes, Archie was staring at her mouth. He held a black ace of spades between his finger and thumb. “",
+          "ok": true,
+          "pos": 16301
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“I prefer the",
+          "ok": true,
+          "pos": 17255
+        },
+        {
+          "text": "problem-solving approach.” Archie almost growled, and Kiamling gave an involuntary moan in response. His hands rose to c",
+          "ok": true,
+          "pos": 17269
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "Kiamling had almost forgotten about the money. She could not ask for his help, not after what had just occurred. Nor cou",
+          "ok": true,
+          "pos": 17938
+        }
+      ],
+      "words": 37
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 98,
+        "关键词": 0,
+        "为什么这样写": 105,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 104,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 88,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 90,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 90,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.88
+      }
+    }
+  ],
+  "form": {
+    "h1": "41. Chapter Thirty-Eight",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 8,
+    "block_range": [
+      4,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3306,
+    "block_target": [
+      6,
+      10
+    ],
+    "block_hint": "块数 12 偏离本章篇幅建议 6–10（本章 3306 词）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

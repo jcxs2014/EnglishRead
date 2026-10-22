@@ -1,0 +1,295 @@
+{
+  "chapter": 47,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/ch47 chapter forty-three.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/harbour-of-hungry-ghosts-by-eliza-chan/text/ch47_chapter_forty_three.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The exterior of the building in its Gothic style was impressive, but inside it was exquisite. Singing echoed from the ch",
+          "ok": true,
+          "pos": 177
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "One of the most important festivals of the year. Por Por would supervise them making the tongyun, while she and Jingling",
+          "ok": true,
+          "pos": 1702
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "If Kiamling was feeling homesick, she could not begin to imagine what Archie felt",
+          "ok": true,
+          "pos": 2036
+        },
+        {
+          "text": "Too working-class for the government officials; too well educated for the army men. He was a misfit, just like her",
+          "ok": true,
+          "pos": 2245
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The protective layer around her heart had thawed completely, dripping like scalding candle wax. Oh no, she realised, muc",
+          "ok": true,
+          "pos": 2361
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Vehemently not. All this hogwash about the little folk. Mass hysteria is what I’m concerned about, hallucinations due t",
+          "ok": true,
+          "pos": 3993
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Claiming to be devout, cavorting with this wicked woman, coming to me with talk of sin and transgressions. You asked me",
+          "ok": true,
+          "pos": 6252
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Kiamling’s skin prickled all the way up her back and down her arms. If Archie was on the left and Reverend Nairns in fro",
+          "ok": true,
+          "pos": 8686
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Wearing European three-piece suits or military uniforms, these undead were from the cemetery outside. Europeans who had ",
+          "ok": true,
+          "pos": 9270
+        }
+      ],
+      "words": 43
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 101,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 113,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 116,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 110,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.89
+      }
+    }
+  ],
+  "form": {
+    "h1": "47. Chapter Forty-Three",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 8,
+    "block_range": [
+      4,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1659,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": "块数 8 偏离本章篇幅建议 3–5（本章 1659 词）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
