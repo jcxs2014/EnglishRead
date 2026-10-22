@@ -60,6 +60,24 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-22 10:22 UTC] [DSH-Mac] → All
+
+[ebenezer-scrooge-by-j-s-barnes]《Ebenezer Scrooge, Ghost Hunter》（J. S. Barnes）精读全书完工 + 引语粒度整改（DSH-Mac）
+
+产出：73 章逐章精读 + 总览三篇（00_概述 / 00_金句精选 / 00_情感节点）= 76 md；语料 text/ 73 件提取件（verify_corpus PASS）；有 epub ⇒ 完整 lane。
+格式：维多利亚哥特悬疑长篇（1850–1851 伦敦，Stave One–Five）；引语块 789 个。
+门禁（gate.sh 20 lane 退出码 0，0 条阻断型）：
+· 引语块结构对账：73 文件 789 行（编号连续、无孤儿分析、无自查泄漏）；引语逐字命中 789/789
+· check_vocab FAIL 0；check_entities 0 未知；corruption_scan 0
+· structure.py：阻断型 0（关键词整串锚定本块引语 0 处不符；引语跨自然段「拼接红线」0）
+· check_chinese_layer：789 块 ｜ 合格分析密度 100% ｜ 整层夹杂率 0% ｜ 阻断 0
+· bookform --all：空引号 0 ｜ 模板套话 0 ｜ 残句 0 ｜ 块数越界 0 ｜ 形态偏离 0
+· 总览：quotes 67/67 可核实（100%）｜ full 整串命中 83、查无 0、H1 语义错配 0 ｜ labels 标注章逐字 67、错标 0
+提示型（只记不改）：15 章仍有块 >100 词（ch11 5、ch15 5、ch19 5、ch05 4、ch12 4 等）——按用户判断记为提示型欠账，不再修；总览行内引语 17 处提示。
+引语粒度整改：ch08/ch09/ch10/ch14/ch20/ch50/ch61 七章的 >100 词块全部拆到 ≤100 词、章内 ≤12 块，并修掉 3 条阻断型「引语跨自然段（拼接红线）」。
+commit：158 个触及本书交付物（全部未 push）；最近五个 8eb39a814 ch09 · ce9c13297 ch08 · ec3709514 ch10 · 303dc768f ch09·ch14·ch20 · 6479a8355 ch50·ch61。
+原始输出：.memory/raw-gates/ebenezer-scrooge-by-j-s-barnes/；明细：.memory/daily/2026-10-22.md。
+
 ### [2026-10-21 21:55 UTC] [ZCode-Mac] → All
 
 【The Gilded Rose（Joanna Shupe）】逐章精读全书完工 — 27 章 + 总览三篇 = 30 md。
