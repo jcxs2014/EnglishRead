@@ -1,0 +1,55 @@
+{
+ "book": "the-hexing-miss-helena-by-darcy-mcguire",
+ "chapter": "ch09",
+ "text": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch09_chapter_9.txt",
+ "facts": [
+  {
+   "fact": "海伦娜坐在黑暗的马车里，穿便于行动的深蓝骑马装。",
+   "anchor": "Helena shifted in the dark carriage.",
+   "start": 44,
+   "end": 80
+  },
+  {
+   "fact": "她们把车停在七晷区西街旁的暗巷。",
+   "anchor": "They were in a shadowed alley just off West Street and well in the heart of Seven Dials.",
+   "start": 977,
+   "end": 1065
+  },
+  {
+   "fact": "距海伦娜上次离开辛西娅已过一周。",
+   "anchor": "It had been a week since Helena left Cynthia in her sun-filled parlour.",
+   "start": 1974,
+   "end": 2045
+  },
+  {
+   "fact": "拉克兰只把辛克莱扣了三小时，律师一到就被迫放人。",
+   "anchor": "Damien Sinclair was brought to heel by Uncle Lachlan for a grand three hours before his solicitors demanded his release.",
+   "start": 4167,
+   "end": 4287
+  },
+  {
+   "fact": "埃莉的预视说辛西娅将被困在红丝绒与黑蕾丝的房间。",
+   "anchor": "Trapped in a room swathed in crimson velvet and black lace.",
+   "start": 1912,
+   "end": 1971
+  },
+  {
+   "fact": "辛西娅穿紫色天鹅绒斗篷，兜帽遮住头发和半张脸。",
+   "anchor": "She wore a decadent velvet cloak in rich purple with the hood pulled up to cover her hair and half her face.",
+   "start": 6925,
+   "end": 7033
+  },
+  {
+   "fact": "门房直接请辛西娅去辛克莱的私人办公室，并允许海伦娜同行。",
+   "anchor": "‘Your presence is requested in Mr Sinclair’s private office, Lady Burrows.’",
+   "start": 15029,
+   "end": 15104
+  },
+  {
+   "fact": "海伦娜心里冒出一个原始的“我的”念头。",
+   "anchor": "Mine.",
+   "start": 15734,
+   "end": 15739
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "book": "the-hexing-miss-helena-by-darcy-mcguire",
+ "chapter": "ch10",
+ "text": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch10_chapter_10.txt",
+ "facts": [
+  {
+   "fact": "辛西娅认出包间里的贵妇是巴克尔索恩夫人，她领导“上流淑女会”。",
+   "anchor": "‘That’s Lady Bucklethorne,’ she hissed to Helena. ‘She leads the Society of Genteel Ladies.’",
+   "start": 1517,
+   "end": 1609
+  },
+  {
+   "fact": "海伦娜说高处的镜子其实是单向观察窗。",
+   "anchor": "‘They aren’t mirrors. It’s a special window that allows the person on the other side to see out, while we only see our reflections.’",
+   "start": 4736,
+   "end": 4868
+  },
+  {
+   "fact": "辛西娅用“肯特米尔侯爵夫人”的身份给自己壮胆。",
+   "anchor": "I am the Marchioness of Kentmore. I do not shudder in the face of danger.",
+   "start": 7821,
+   "end": 7894
+  },
+  {
+   "fact": "辛西娅一见辛克莱就觉得他像魔鬼本尊，但对他毫无心动。",
+   "anchor": "If she ever wondered what the Devil might look like, she no longer needed to guess.",
+   "start": 8340,
+   "end": 8423
+  },
+  {
+   "fact": "辛克莱威胁说自己是“死亡的化身”，警告她们别与他作对。",
+   "anchor": "your friend might be dangerous, but I am death incarnate. Do not fuck with me. You will not survive the experience.",
+   "start": 13462,
+   "end": 13577
+  },
+  {
+   "fact": "辛西娅说明来意：查清休伯特的欠款并替他了结。",
+   "anchor": "‘I understand my recently deceased husband was in debt to you. I wish to know how much he owed so I can settle his accounts.",
+   "start": 14150,
+   "end": 14274
+  },
+  {
+   "fact": "章末辛西娅直接问辛克莱，丈夫的债是否与他的死有关。",
+   "anchor": "‘Did my husband’s debt to you play a role in his untimely death?’",
+   "start": 16773,
+   "end": 16838
+  }
+ ]
+}

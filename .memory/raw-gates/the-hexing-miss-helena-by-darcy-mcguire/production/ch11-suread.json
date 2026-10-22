@@ -1,0 +1,55 @@
+{
+ "book": "the-hexing-miss-helena-by-darcy-mcguire",
+ "chapter": "ch11",
+ "text": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch11_chapter_11.txt",
+ "facts": [
+  {
+   "fact": "辛克莱否认杀休伯特，但说他活该。",
+   "anchor": "‘I didn’t kill your ’usband, though it was no less than ’e deserved.’",
+   "start": 5634,
+   "end": 5703
+  },
+  {
+   "fact": "辛克莱用纵火威胁海伦娜在萨维尔街的药妆店。",
+   "anchor": "‘It’s frightening ’ow susceptible apothecary shops are to fire.",
+   "start": 4086,
+   "end": 4149
+  },
+  {
+   "fact": "辛克莱辩称杀光欠债人等于自断财路。",
+   "anchor": "‘If I killed everyone ’oo fell behind in their payments, London’s ruling class would be culled, as would me coffers.",
+   "start": 6766,
+   "end": 6882
+  },
+  {
+   "fact": "辛克莱点破辛西娅知道麦克杜格尔抓过他却没有证据。",
+   "anchor": "‘But you must know that already, being the widow.",
+   "start": 2098,
+   "end": 2147
+  },
+  {
+   "fact": "辛克莱提出用别的办法抵债。",
+   "anchor": "‘But I ’ave an alternative means to repay ’is debt, Lady Burrows. If you’re interested.’",
+   "start": 11111,
+   "end": 11199
+  },
+  {
+   "fact": "辛克莱要的是辛西娅和海伦娜的照片。",
+   "anchor": "‘I want pictures. Of you. And ’er.’",
+   "start": 12900,
+   "end": 12935
+  },
+  {
+   "fact": "海伦娜用水魔法弄翻水杯，浸湿辛克莱桌上的文件。",
+   "anchor": "The glass of water tipped, spilling over the papers in front of him.",
+   "start": 5706,
+   "end": 5774
+  },
+  {
+   "fact": "辛西娅护住海伦娜时心里冒出“她是我的”。",
+   "anchor": "She is mine.",
+   "start": 4609,
+   "end": 4621
+  }
+ ]
+}
