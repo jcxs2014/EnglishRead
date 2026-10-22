@@ -95,6 +95,8 @@ import glob
 import os
 import re
 import sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from lib.chapters import chapter_files
 
 HAN = re.compile(r"[一-鿿]")
 # 引文段：弯引号 / 直引号 / 直角引号。用于「英文原句不算分析层内容」。
@@ -314,7 +316,7 @@ def sections(block):
 def scan_chapters(book_dir):
     """扫 ch*.md 的引语块。"""
     blocks = []
-    for path in sorted(glob.glob(os.path.join(book_dir, "ch*.md"))):
+    for path in chapter_files(book_dir):
         text = open(path, encoding="utf-8").read()
         idx = [m.start() for m in BLOCK.finditer(text)] + [len(text)]
         for start, end in zip(idx, idx[1:]):

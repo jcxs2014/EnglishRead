@@ -42,6 +42,8 @@
 import re
 import sys
 from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from lib.chapters import chapter_files, legacy_format
 
 # ⚠️ 2026-10-08 同步 verify_quotes.py 修复：原模式用 `：** ` 结尾要求引语头后必须有空格，
 # 而 ch65 等章节格式是 `：**`（无空格）后接引语正文。
@@ -893,10 +895,13 @@ def main():
         print(__doc__)
         return 2
     book = Path(sys.argv[1])
-    mds = [Path(x) for x in sys.argv[2:]] or sorted(book.glob("ch*.md"))
+    mds = [Path(x) for x in sys.argv[2:]] or chapter_files(book)
     if not mds:
         print(f"❌ {book} 下没有 ch*.md")
         return 2
+    if not sys.argv[2:] and legacy_format(book):
+        print("❓ 旧格式章节（无 `原句 N` 标记）——本项不适用，不是「通过」")
+        return 0
     bad = []
     for md in mds:
         bad += check(md, book)

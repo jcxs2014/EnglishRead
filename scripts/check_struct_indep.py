@@ -31,6 +31,8 @@
 """
 import re, sys
 from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from lib.chapters import chapter_files, legacy_format
 
 TIER = ["### ⭐⭐⭐ 高级", "### ⭐⭐ 进阶", "### ⭐ 基础"]
 CIRCLED = "①②③④⑤⑥⑦⑧⑨⑩"
@@ -606,9 +608,12 @@ def main():
     if len(sys.argv) < 2:
         print(__doc__); return 2
     book = Path(sys.argv[1])
-    mds = [Path(x) for x in sys.argv[2:]] or sorted(book.glob("ch*.md"))
+    mds = [Path(x) for x in sys.argv[2:]] or chapter_files(book)
     if not mds:
         print(f"❌ {book} 下没有 ch*.md"); return 2
+    if not sys.argv[2:] and legacy_format(book):
+        print("❓ 旧格式章节（无 `原句 N` 标记）——本项不适用，不是「通过」")
+        return 0
     bad, warn = [], []
     cal = {p: calibrate_sub(mds, p) for p in ("summary", "nonfiction", "overview")}
     for md in mds:

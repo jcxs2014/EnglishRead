@@ -154,12 +154,14 @@ def has_empty_quote_span(text: str) -> bool:
             return True
     return False
 
+from lib.chapters import chapter_files, chapter_no as _lib_chapter_no
 from lib.text import (  # noqa: E402  统一原语，见 scripts/lib/text.py
     CJK, STOPWORDS, cjk_count, cjk_ratio, norm, split_segments, strip_quotes,
 )
 
 def chapter_md_files(book: Path) -> list[Path]:
-    return [p for p in sorted(book.glob("ch*.md")) if re.match(r"^ch\d+(?![0-9])", p.name)]
+    # 兼容 `chNN …` 与 `NN 标题.md` 两套命名（见 scripts/lib/chapters.py）
+    return chapter_files(book)
 
 
 def text_files(book: Path) -> dict[int, list[Path]]:
@@ -174,7 +176,8 @@ def text_files(book: Path) -> dict[int, list[Path]]:
 
 
 def chapter_no(path: Path) -> int | None:
-    m = re.match(r"^ch(\d+)(?![0-9])", path.name)
+    # 兼容 `chNN …` 与 `NN 标题.md`（旧格式 29 本）
+    m = re.match(r"^(?:ch)?(\d{1,3})(?![0-9])", path.name, re.I)
     return int(m.group(1)) if m else None
 
 
