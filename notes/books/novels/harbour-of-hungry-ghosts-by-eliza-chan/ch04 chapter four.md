@@ -21,8 +21,7 @@ modified: "2026-10-22"
 **读者视角提示**：注意作者量人物地位用的不是钱，而是门口的花牌、柜台和玻璃罐。这串腊肠后面会被白送出去，它的分量正是从这一句开始称的。
 **句子结构**：三句各管一段距离：门前的现在、街边的过去、钩上的年节；中间隔着一整张货架清单，时间被折起来，读者读到的是一间店的全部历史。
 
-> **原句 2:** "Kiamling wanted to tell him that her por por had sent her out of spite, her seemingly never-ending penance for the geongsi incident. She’d been relegated to blessing shrines and putting up batgua mirrors to deflect misfortune. “I assure you, it’s a very simple process. I’ve done it dozens of times.””
-
+> **原句 2:** "Kiamling wanted to tell him that her por por had sent her out of spite, her seemingly never-ending penance for the geongsi incident. She’d been relegated to blessing shrines and putting up batgua mirrors to deflect misfortune. “I assure you, it’s a very simple process. I’ve done it dozens of times.””"
 **中文理解**：她很想回他一句：是祖母赌气才把她派来的，那桩尸变的事至今还是她的罚。她如今只被分派去给神龛开光、往门上挂八卦镜挡煞。可她开口说的是：「您放心，这很简单，我做过几十回了。」
 
 **关键词**：sent her out of spite / batgua mirrors / dozens of times
@@ -38,15 +37,23 @@ modified: "2026-10-22"
 **读者视角提示**：留意「钟馗的妹妹」这个说法：祖上被供成神话，孙女就被按在神话的尺寸里量。她日后每一次失手，门上都有一双怒眼在看。
 **句子结构**：判断、细描、来历，一句一层；中间那句用冒号把画像一次铺开，节奏刻意放慢，好让读者在门前多站一会儿。
 
-> **原句 4:** "We are the gateway between the living and the dead. Ghosts and monsters are only half the job. Managing people is the other half. Soon sang’s family were farmers in Canton province."
+> **原句 4:** "“My granddaughter is perfectly capable of ensuring your shop is protected, Soon sang.” Por Por walked slowly towards them. Her confident words belied her eyes, which were roving the shop for a single misstep. She adjusted the placement of the incense holder, a minuscule movement to the left."
+**中文理解**：祖母当众说「我孙女完全镇得住你这间店」；她一边走过来，眼睛一边在店里四处搜，专找哪里出了差错；随后她把香炉挪了一下——只挪向左边一丁点。
+
+**关键词**：perfectly capable / roving the shop for a single misstep / a minuscule movement to the left
+
+**为什么这样写**：一句话里同时给了担保和否决：嘴上替她撑腰，手却把香炉挪开一寸。作者不写祖孙吵架，只让这个「一丁点」承担全部意思——祖母的认可从来不是结论，而是一道没有题面的考试。
+
+**读者视角提示**：记住这一寸。整章她都在猜这根香炉到底该摆哪里，而题面从来不写出来；往后每一次「我是不是做得够好」，都从这一寸开始。
+
+> **原句 5:** "We are the gateway between the living and the dead. Ghosts and monsters are only half the job. Managing people is the other half. Soon sang’s family were farmers in Canton province."
 **中文理解**：我们是活人与死人之间的门户。鬼和怪只占这份差事的一半，另一半是管人。Soon 先生的家族在广州府种田。
 **关键词**：gateway / half the job / Managing people
 **为什么这样写**：祖母把职业说成一道门，再用「一半」与「另一半」把孙女的野心从中间切开：她想学的是驱鬼，祖母要她学的是看人。紧跟着报出 Soon 家的来历，说明这套道理不是空话，是刚才在茶桌上问出来的功课。三句短、一句长，像训话，也像临场划出的考试范围。
 **读者视角提示**：这是全章的论点，也是她输掉鬼节的理由。记住「一半」与「另一半」：往后她每一次只顾捉鬼、不顾人，读者都会想起这句判词。
 **句子结构**：前三句都是判断句，主语 We 领起，节奏一锤一锤；末句忽然换成陈述事实，把抽象的「管人」落到一个具体家世上。
 
-> **原句 5:** "Por Por rested her chopsticks on the edge of her bowl. Somehow, despite the discussion, she had managed to finish her rice down to the last grain. “I thought you were ready. I was wrong. I’ll lead the Ghost Festival for another year.” She rose from the table and went to the small altar inside the house. The joss sticks had burnt away to red spikes and the names on the three tablets stared at Kiamling disapprovingly."
-
+> **原句 6:** "Por Por rested her chopsticks on the edge of her bowl. Somehow, despite the discussion, she had managed to finish her rice down to the last grain. “I thought you were ready. I was wrong. I’ll lead the Ghost Festival for another year.” She rose from the table and went to the small altar inside the house. The joss sticks had burnt away to red spikes and the names on the three tablets stared at Kiamling disapprovingly."
 **中文理解**：祖母把筷子搁在碗沿上。吵了这么一场，她居然还是把饭一粒不剩地吃完了。她说：「我以为你准备好了。我错了。鬼节再由我主持一年。」然后起身走到屋里的神龛前：香已烧成红色的尖，三块牌位上的名字不赞成地盯着 Kiamling。
 
 **关键词**：down to the last grain / I was wrong / stared at Kiamling disapprovingly

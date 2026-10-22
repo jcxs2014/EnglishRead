@@ -1,0 +1,76 @@
+{
+  "chapter": "ch12",
+  "source": "text/ch12_chapter_twelve.txt",
+  "facts": [
+    {
+      "n": 1,
+      "anchor": "Governor Bowring was installed in the newly built Government House, a squat white building set over three floors with a vantage point across the island.",
+      "fact": "总督宝灵（Bowring）已入驻新建的总督府：白色矮楼共三层，选址可俯瞰全岛，是英国殖民统治的中枢（立法局也在楼内开会）。"
+    },
+    {
+      "n": 2,
+      "anchor": "“No appointment, no entry. Not unless one of the officers or civil servants vouches for you.” The guard shooed her away like she was one of the stray dogs by the harbour.",
+      "fact": "卫兵当场拒绝金玲（Kiamling）见总督：没有预约就不许进，除非有军官或文官替她作保；随后像赶码头野狗一样把她轰走。"
+    },
+    {
+      "n": 3,
+      "anchor": "The man who had been clutching the books did not fare so well. The lanky civil servant, Archie, had fallen onto the ground, very likely with a bruised tailbone to show for it.",
+      "fact": "被她撞散一摞布面书的人，是瘦高文官阿奇（Archie）：她撞上他时书飞了起来（她伸手接住了书），阿奇本人摔倒在地，很可能摔出尾椎淤青。"
+    },
+    {
+      "n": 4,
+      "anchor": "The cogs in her head turned quickly. A different approach then. “Mr Redferne, sir, I’ve come to take you up on your offer!”",
+      "fact": "金玲脑筋急转、改换策略，直接对阿奇说“雷德芬（Redferne）先生，我来接受您的提议了”——拿他的邀请当进门的由头。"
+    },
+    {
+      "n": 5,
+      "anchor": "“I dare say we need no more than three or four months to get up to speed. I was considered top of my Oriental languages class after all.”",
+      "fact": "阿奇开口就说要“三到四个月”才能上手（每天几小时），还自称当年东方语言课的第一名——与她以为的“帮个小忙”完全不符。"
+    },
+    {
+      "n": 6,
+      "anchor": "“The Celestial Empire is nothing like what it used to be. The Taiping Heavenly Kingdom has proven that.”",
+      "fact": "楼上英国官员议论时局：说“天朝”（Celestial Empire）已非旧日模样，并称“太平天国已经证明了这一点”。"
+    },
+    {
+      "n": 7,
+      "anchor": "“To think he was inspired by our Christian missionaries. That the might of the Qing emperor has not been able to quash such a rebellion. It’s magnificent! Can we not get this Hong fellow on side?”",
+      "fact": "第二名说话者惊叹洪（Hong）受英国基督教传教士启发、清帝竟镇压不了这场叛乱，称其“壮丽”（magnificent），并提议把“这个姓洪的”拉到英方一边。"
+    },
+    {
+      "n": 8,
+      "anchor": "“Our missionaries have tried, but he is adamant he is Jesus Christ reborn. No, Hong is a powder keg, useful only for pointing in Peking’s direction.”",
+      "fact": "对方回答：传教士已经试过，但洪坚称自己是转世基督；结论是“洪是个火药桶”，只可用来指向北京（Peking）的方向。"
+    },
+    {
+      "n": 9,
+      "anchor": "“Blame Pottinger. He should’ve made them sign more at the Treaty of Nanjing. Lost his bottle if you ask me,” the first man complained.",
+      "fact": "第一人把条约失手归咎于璞鼎查（Pottinger）：怪他在《南京条约》（Treaty of Nanjing）没逼清廷多签，骂他“失了胆”。"
+    },
+    {
+      "n": 10,
+      "anchor": "“Patience, my good fellow. We have enough Chinamen hooked on the pipe that they continue to let our merchants trade, even if it is under cover of darkness.”",
+      "fact": "谈到鸦片滞销，第一人主张耐心：已有足够多中国人“上了烟枪的瘾”，所以仍容英商贸易，哪怕只能在暗处进行。"
+    },
+    {
+      "n": 11,
+      "anchor": "A British officer was berating the workers, slapping one man over the head repeatedly with a newspaper. It was Lancaster, the police superintendent.",
+      "fact": "楼下庭院里，一名英国军官一边痛骂搬运工，一边用报纸反复拍打其中一人的头；此人被点明是警察总监兰卡斯特（Lancaster）。"
+    },
+    {
+      "n": 12,
+      "anchor": "“Utter imbeciles. Shipped thousands of miles in one piece only to be ruined by fools who don’t know the value of things.”",
+      "fact": "兰卡斯特骂工人“十足的蠢货”：一张进口切斯特菲尔德沙发千里迢迢完好运到，却被不懂价值的人毁掉了。"
+    },
+    {
+      "n": 13,
+      "anchor": "“The Orientals are simply inferior in proportions to Europeans. Not to mention brain capacity,” another officer commented. “We ought to have them whipped.”",
+      "fact": "另一名军官认为东方人身材比例不如欧洲人、“脑容量”更差，并主张“该抽他们鞭子”（we ought to have them whipped）。"
+    },
+    {
+      "n": 14,
+      "anchor": "But he was a shield, giving her the legitimacy to dig deeper for clues about the beast and Por Por’s disappearance. Until then, she was stuck with him.",
+      "fact": "金玲最终把阿奇当“挡箭牌”：借他给的合法身份深入查探怪兽与婆婆（Por Por）失踪的线索，在此之前只能被他缠着。"
+    }
+  ]
+}

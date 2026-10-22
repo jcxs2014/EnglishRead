@@ -54,7 +54,7 @@ modified: "2026-10-22"
 
 > **原句 6:** "Kiamling’s body responded automatically, so used to taking commands from Por Por. Her aching hands released, and she tripped, knees scraping and shredding as she fell. Her chin slammed into the ground."
 
-**中文理解**：她的身体自己就动了——八年学徒，听祖母的话已经成了本能。那双发疼的手松开，她整个人栽下去，膝盖在地上蹭得稀烂，下巴重重磕在地上。
+**中文理解**：她的身体自己就动了——多年学徒，听祖母的话已经成了本能。那双发疼的手松开，她整个人栽下去，膝盖在地上蹭得稀烂，下巴重重磕在地上。
 
 **关键词**：responded automatically / taking commands / slammed into the ground
 

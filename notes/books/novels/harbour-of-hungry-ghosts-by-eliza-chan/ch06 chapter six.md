@@ -51,7 +51,6 @@ modified: "2026-10-22"
 **读者视角提示**：作者写怪物始终不给全身像，只给浓度、气味、声音。这种写法要求读者自己补，也就更难摆脱。
 
 > **原句 7:** "But a general protective talisman should’ve done something, slowed it at least. Instead, the eyes looked down, flickering orange and yellow like a brazier. The discarded talisman burst into flames."
-
 **中文理解**：可一张通用的护身符总该起点作用，至少能把它拖慢一点。结果那双眼睛垂下来看，橙黄的火色在里头一闪一闪，像一炉炭。被丢在地上的那张符自己烧了起来。
 
 **关键词**：protective talisman / flickering orange and yellow / burst into flames
@@ -77,6 +76,15 @@ modified: "2026-10-22"
 **关键词**：her own weapon / to safety / eyes closed
 **为什么这样写**：交剑是这一章真正的评价：嘴上全是训斥，手上把唯一的武器给了她。eyes closed 是全书对殖民地的判词——不是没有危险，是没人愿意看。
 **读者视角提示**：祖母独自留下，孙女带着剑和人走。这个分工在这一章是保护，到后面会变成代价。
+
+> **原句 11:** "Por Por snorted, finally glancing at her granddaughter. “You think I can’t look after myself?” She cricked her neck to one side, then the other. “The fires may well be a distraction. There’s more than one monster lurking on the island tonight.”"
+**中文理解**：祖母哼了一声，这才看向孙女：「你以为我照看不了自己？」她把脖子一边掰响、再掰另一边：「那几处火很可能只是障眼法——今晚在岛上作祟的东西不止一个。」
+
+**关键词**：look after myself / a distraction / more than one monster
+
+**为什么这样写**：收尾没有安慰，只有一句重新定性：她打了半天的那只怪物只是被放出来遮眼的东西。作者把「不止一个」放在最后，等于把读者刚放下的心重新吊起来——这一夜并没有结束，只是暂时看不见别的。
+
+**读者视角提示**：回头看士兵那句「一直在那儿吗」：火、怪物、围观的人，全都可能是被安排来让她分神的。记住这个收尾，下一章她面对的已经不是一只兽，而是有人在布置整座岛。
 
 ## 本章词汇
 

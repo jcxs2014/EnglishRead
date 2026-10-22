@@ -21,7 +21,6 @@ modified: "2026-10-22"
 **读者视角提示**：记住这句判断：往后遇到危险，先看周围有没有人。这本书里活下来的人，几乎都靠这一点。
 
 > **原句 2:** "The youths hesitated. Their families were all over on the side of the Chinese shops, smothering the flames with burlap sacks where they could, trying to protect the fragile homes to the rear of the shops."
-
 **中文理解**：少年们迟疑了。他们的家人全在中文店铺那一头，正拿麻袋去捂火，能捂多少捂多少，为的是保住铺子后头那几间住人的屋。
 
 **关键词**：hesitated / burlap sacks / fragile homes
@@ -31,7 +30,6 @@ modified: "2026-10-22"
 **读者视角提示**：这一句替后面所有争执打了底：谁的家，谁在救，谁只是路过。
 
 > **原句 3:** "Kiamling recognised her immediately as Madam Yau, mistress of one of the biggest brothels on Tai Ping Shan Street. She purred as she stroked his arm in long, slow movements. Her eyes flickered up under long lashes, holding his gaze for a moment. The hypnotism caught him like a moth to a candle."
-
 **中文理解**：她一眼认出这是 Madam Yau——太平山街最大的几家妓院的女主人。她一边低低地哼着，一边用手在军官臂上慢慢地捋；眼睫下的目光抬起来，把他的视线扣住一瞬。那点催眠像烛火吸住飞蛾。
 
 **关键词**：Madam Yau / stroked his arm / like a moth to a candle
@@ -41,7 +39,6 @@ modified: "2026-10-22"
 **读者视角提示**：注意她平息冲突靠的不是道理，是身体与语调。这一章里，谁能让男人闭嘴，谁就掌握现场。
 
 > **原句 4:** "The woman’s ferocity, her confidence in her own body, holding herself without apology, elicited a peculiar combination of frank admiration and trepidation from Kiamling, who had been taught that her body was nothing but muscle and reflex."
-
 **中文理解**：这女人的凶悍、她对自己身体的那份笃定、那种毫不道歉的站法，在 Kiamling 心里同时勾起坦白的佩服与畏惧——而她受的教导一直是：身体只是肌肉和反射。
 
 **关键词**：ferocity / without apology / muscle and reflex
@@ -61,6 +58,24 @@ modified: "2026-10-22"
 **关键词**：fu backwards / threw an empty bucket / easy target to blame
 **为什么这样写**：上一章他还站在门口等祖母，这一章他把桶扔向一个提水的女孩。作者用「他的店在烧」解释而不辩护：灾祸需要一个可以指认的人，而她既在场又没有靠山。
 **读者视角提示**：这是本章第二次「开口被驳回」：第一次是警官，第二次是受害者。她的权威在这本书里就是这样一点点被磨掉的。
+
+> **原句 7:** "Before she could retort in kind, a deep growl cut through the discussion. Despite the heat from the flames, the air took on a sudden chill."
+**中文理解**：她还没来得及还嘴，一声低沉的咆哮就把这场争执切开；火就在旁边烧着，空气却忽然冷了下来。
+
+**关键词**：deep growl / cut through the discussion / a sudden chill
+
+**为什么这样写**：作者用温度和声音代替「看见」：火在旁边，空气却变冷，读者先知道有东西来了，人物还没看见。这一句把整章的争执一把掐断——谁的地皮、谁的鞭子，在这声咆哮之后都不再重要。
+
+**读者视角提示**：注意「热里的冷」这个矛盾。它同时也是本章的答案：怪物不在暗巷深处，它已经走到火场的人堆里。
+
+> **原句 8:** "It was here."
+**中文理解**：它到了——不是从巷子深处慢慢走近，是已经站到火场边上，人和火都还在，它已经在场。
+
+**关键词**：It was here
+
+**为什么这样写**：全章收在四个字上。作者不写它长什么样、不写谁尖叫，只把「到了」单独放进一个段落——前面所有关于地价、鞭子、折中的争论，被这两个词一次作废。
+
+**读者视角提示**：记住这四个字的位置：它独占一段，像关门声。下一章第一句就是「影子动了」，中间没有过渡。
 
 ## 本章词汇
 
