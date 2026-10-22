@@ -124,6 +124,27 @@ def extract_quotes(txt: str):
                     # 这类章号尾注是**库内标准形态**，不切掉会让整条引语恒查无
                     # （2026-10-22 实测：addie-laud 15 条「查无」里 14 条是这个假红）。
                     cuts = [m.start() for m in re.finditer(r'[\u4e00-\u9fff\uff08\u3010]', body2)]
+                    # 半角括号尾注也要切：`- "He'd fallen apart beautifully." (ch02)`
+                    # （yellow-pine 实测 14 行这种形态）——切点取**闭引号之后**的 `(`，
+                    # 引语内部的括号（`"…(quietly)…"`）不受影响。
+                    mcut = re.search(r'["\u201d]\s*\(', body2)
+                    if mcut:
+                        cuts.append(mcut.start() + 1)
+                    # 说话人尾注也要切：`- "…" — Celeste` / `— narration`（demon-in-the-sand
+                    # 实测 16 条「查无」里 14 条是这个假红）。判据：**闭引号之后**紧跟
+                    # `（ ( 【 [ — – -- |` 才切；`"…," I say` 这种叙述尾巴不动（它整行在原文里）。
+                    # 说话人注解也可能跟在一段叙述之后：`"…," she says, and I don't
+                    # doubt her. — Celeste`（demon-in-the-sand 实测）。库内注解一律写成
+                    # **前后带空格的破折号**，故切第一个 ` — `；引语内部的破折号在英文里
+                    # 通常不带空格，不受影响。
+                    msp = re.search(r'\s+[\u2014\u2013]\s+', body2)
+                    if msp:
+                        cuts.append(msp.start())
+                    mq = list(re.finditer(r'["\u201d]', body2))
+                    if mq:
+                        tstart = mq[-1].end()
+                        if re.match(r'\s*(?:[\uff08(\u3010\[]|[\u2014\u2013]|--|\|)', body2[tstart:]):
+                            cuts.append(tstart)
                     cand = (body2[:min(cuts)] if cuts else body2).strip()
                     cand = re.sub(r'^["\u201c]', '', cand).strip()
                     cand = cand.strip('"\u201c\u201d\'* ')
