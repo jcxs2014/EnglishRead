@@ -35,7 +35,7 @@ source_text: ch17
 
 **中文理解**：斧头还躺在我丢下它的地方。墙里那扇门仍然封着。而且一滴血都找不到。
 
-**关键词**：lay where I’d dropped it / still sealed over / not a drop of blood
+**关键词**：lay where I’d dropped it / still sealed over / wasn’t a drop of blood
 
 **为什么这样写**：三个否定式的事实，一个比一个彻底：凶器在、门封着、现场干净。作者不写她的反应，让这三句自己站成一排；读者和她同时被迫面对一个荒谬的结论——要么她没砍到人，要么那一斧砍进了别的地方。
 
