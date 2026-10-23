@@ -1,0 +1,49 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch01",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch01_prologue.txt",
+ "facts": [
+  {
+   "fact": "男人站在门口石阶上打量开门的年轻女子。",
+   "anchor": "She opened the door and he stood on the top stone step and looked her up and down.",
+   "start": 46,
+   "end": 128
+  },
+  {
+   "fact": "他说自己有她可能感兴趣的消息。",
+   "anchor": "‘I have some information that might interest you.’",
+   "start": 292,
+   "end": 342
+  },
+  {
+   "fact": "叙述点明他只讲真相的一个版本。",
+   "anchor": "He only ever told anyone a version of the truth.",
+   "start": 526,
+   "end": 574
+  },
+  {
+   "fact": "她提议去街角咖啡馆谈。",
+   "anchor": "‘Can we talk somewhere else?’ she asked. ‘Like, maybe in the café down the road?’",
+   "start": 1178,
+   "end": 1259
+  },
+  {
+   "fact": "他看表推说时间不够，拒绝换地方。",
+   "anchor": "‘Thing is, I don’t have much time. I’ve got to be somewhere soon.’",
+   "start": 1337,
+   "end": 1403
+  },
+  {
+   "fact": "她最终让他进了屋。",
+   "anchor": "‘OK,’ she said. ‘Come in then.’",
+   "start": 1406,
+   "end": 1437
+  },
+  {
+   "fact": "他再次微笑，双手一直插在大衣口袋里。",
+   "anchor": "He smiled again, keeping his hands firmly inside his coat pockets.",
+   "start": 1553,
+   "end": 1619
+  }
+ ]
+}

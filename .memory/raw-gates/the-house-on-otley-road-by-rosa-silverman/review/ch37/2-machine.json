@@ -1,0 +1,155 @@
+{
+  "chapter": 37,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch37 new year without emily.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch37_chapter_36.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Actually, he was glad that Arthur and Charlie were late because he wasn’t ready for them, not yet. Hadn’t thought of a g",
+          "ok": true,
+          "pos": 1015
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "‘Hi there,’ said Matty by his side, introducing himself to Arthur and Charlie since JJ had been struck dumb. ‘I’m Jake’s",
+          "ok": true,
+          "pos": 2544
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The sea of arms on the dance floor reached for heaven. JJ’s still hung by his side, the spotlight catching the terror in",
+          "ok": true,
+          "pos": 4823
+        }
+      ],
+      "words": 31
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 18,
+        "为什么这样写": 170,
+        "读者视角提示": 72
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.19,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 14,
+        "为什么这样写": 158,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.48,
+        "关键词": 0.18,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 14,
+        "为什么这样写": 173,
+        "读者视角提示": 80
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.18,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.83
+      }
+    }
+  ],
+  "form": {
+    "h1": "37. Chapter 36",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 3,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 3,
+    "quote_long": 0,
+    "segments": 3,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 987,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

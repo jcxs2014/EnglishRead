@@ -1,0 +1,155 @@
+{
+  "chapter": 10,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch10 matty waits and keeps score.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch10_chapter_9.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Matty sat alone at the kitchen table. The flat had been quiet since JJ stormed out after his argument with Alice. She ha",
+          "ok": true,
+          "pos": 17
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She also owed him more than £800. Some of it he had given in small loans here and there, which she had never paid back. ",
+          "ok": true,
+          "pos": 1507
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "In an effort to save the anecdote, he rushed on to the part where JJ accused Alice of fancying Emily. Had imagined her s",
+          "ok": true,
+          "pos": 4016
+        }
+      ],
+      "words": 37
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 24,
+        "为什么这样写": 134,
+        "读者视角提示": 66
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.2,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 22,
+        "为什么这样写": 117,
+        "读者视角提示": 66
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.18,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 25,
+        "为什么这样写": 115,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.19,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.72
+      }
+    }
+  ],
+  "form": {
+    "h1": "10. Chapter 9",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 3,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 3,
+    "quote_long": 0,
+    "segments": 3,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 889,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

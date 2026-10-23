@@ -1,0 +1,155 @@
+{
+  "chapter": 1,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch01 the man at the door.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch01_prologue.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "She opened the door and he stood on the top stone step and looked her up and down. The loose blue jeans that didn’t flat",
+          "ok": true,
+          "pos": 36
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "He only ever told anyone a version of the truth. It surprised him when she pulled back the door slightly wider. He’d sor",
+          "ok": true,
+          "pos": 509
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "He could see she remained uncertain. He must put her at her ease, but that was fine, he knew all the techniques. He smil",
+          "ok": true,
+          "pos": 1381
+        }
+      ],
+      "words": 33
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 15,
+        "为什么这样写": 156,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.17,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 18,
+        "为什么这样写": 157,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.19,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 28,
+        "为什么这样写": 145,
+        "读者视角提示": 68
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.22,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.89
+      }
+    }
+  ],
+  "form": {
+    "h1": "01. Prologue",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 3,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 3,
+    "quote_long": 0,
+    "segments": 3,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 336,
+    "block_target": [
+      2,
+      2
+    ],
+    "block_hint": "块数 3 偏离本章篇幅建议 2–2（本章 336 词）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

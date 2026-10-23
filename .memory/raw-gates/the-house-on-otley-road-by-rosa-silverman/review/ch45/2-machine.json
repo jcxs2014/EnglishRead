@@ -1,0 +1,236 @@
+{
+  "chapter": 45,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch45 two stars over london.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch45_chapter_44.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "She knew not to blame herself. How could she ever have guessed at what he had done? Even now, there were times when she ",
+          "ok": true,
+          "pos": 2582
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Alice told Kate about finding Emily’s body when she returned to the flat with her friend (now partner) Gareth, in that f",
+          "ok": true,
+          "pos": 4363
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "But what was perhaps even worse was the thought of Smith returning so recently to silence Olivia Kavanagh. The thought o",
+          "ok": true,
+          "pos": 5173
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "One day, she decided, after the trial was over, she would write the whole thing down from start to finish. Make sure the",
+          "ok": true,
+          "pos": 9706
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Kate’s gaze fell on two particular stars burning side by side. They looked only a very short distance apart but could be",
+          "ok": true,
+          "pos": 10568
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "‘Goodnight,’ she whispered to them both. Then she stepped back into the party to see in another new year with all her fr",
+          "ok": true,
+          "pos": 10767
+        }
+      ],
+      "words": 23
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 23,
+        "为什么这样写": 103,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.2,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 26,
+        "为什么这样写": 92,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.21,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 18,
+        "为什么这样写": 84,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.2,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 22,
+        "为什么这样写": 91,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.2,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 20,
+        "为什么这样写": 86,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.19,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 15,
+        "为什么这样写": 84,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.18,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.86
+      }
+    }
+  ],
+  "form": {
+    "h1": "45. Chapter 44",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 6,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1992,
+    "block_target": [
+      4,
+      6
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

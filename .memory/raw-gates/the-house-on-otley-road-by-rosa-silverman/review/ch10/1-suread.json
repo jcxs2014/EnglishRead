@@ -1,0 +1,55 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch10",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch10_chapter_9.txt",
+ "facts": [
+  {
+   "fact": "JJ 与 Alice 吵架后冲出公寓。",
+   "anchor": "The flat had been quiet since JJ stormed out after his argument with Alice.",
+   "start": 65,
+   "end": 140
+  },
+  {
+   "fact": "Emily 欠 Matty 八百多英镑。",
+   "anchor": "She also owed him more than £800.",
+   "start": 1527,
+   "end": 1560
+  },
+  {
+   "fact": "Emily 说去和历史课同学喝酒。",
+   "anchor": "She’d said she was going out for some drinks with mates from her History course",
+   "start": 2057,
+   "end": 2136
+  },
+  {
+   "fact": "午夜刚过 Emily 回家。",
+   "anchor": "Just after midnight, her key turned in the lock.",
+   "start": 3141,
+   "end": 3189
+  },
+  {
+   "fact": "她回答时移开目光，他认定她在说谎。",
+   "anchor": "She averted her eyes when she gave it, which he knew people did when they lied.",
+   "start": 3743,
+   "end": 3822
+  },
+  {
+   "fact": "他讲起 JJ 指控 Alice 看上 Emily 的那段。",
+   "anchor": "he rushed on to the part where JJ accused Alice of fancying Emily",
+   "start": 4119,
+   "end": 4184
+  },
+  {
+   "fact": "她给他的眼神把他压垮，随后起身回房。",
+   "anchor": "The look she gave him crushed him.",
+   "start": 4254,
+   "end": 4288
+  },
+  {
+   "fact": "他后悔不该提到钱。",
+   "anchor": "Shouldn’t have mentioned the money.",
+   "start": 4516,
+   "end": 4551
+  }
+ ]
+}

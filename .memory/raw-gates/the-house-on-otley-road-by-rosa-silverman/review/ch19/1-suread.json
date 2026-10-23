@@ -1,0 +1,67 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch19",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch19_chapter_18.txt",
+ "facts": [
+  {
+   "fact": "Kate 在门阶守了一整天。",
+   "anchor": "Kate remained on the doorstep all day, growing progressively colder.",
+   "start": 29,
+   "end": 97
+  },
+  {
+   "fact": "Smith 在电话里说要被派来陪她。",
+   "anchor": "‘I’m not having you stand around there on your own waiting to be stabbed.’",
+   "start": 1466,
+   "end": 1540
+  },
+  {
+   "fact": "两人在同行面前不能拥抱，关系保密。",
+   "anchor": "She couldn’t embrace him, because no one in their professional world knew of their relationship.",
+   "start": 3178,
+   "end": 3274
+  },
+  {
+   "fact": "酒店前台查不到她的预订。",
+   "anchor": "No, there’s no booking under that name, I’m afraid.",
+   "start": 6648,
+   "end": 6699
+  },
+  {
+   "fact": "独自进酒店后她突然觉得暴露。",
+   "anchor": "she felt suddenly exposed.",
+   "start": 6375,
+   "end": 6401
+  },
+  {
+   "fact": "Scorpion 未再私信，账号也从未公开发帖。",
+   "anchor": "‘Scorpion’ had not messaged again and the account was still yet to tweet anything publicly.",
+   "start": 7717,
+   "end": 7808
+  },
+  {
+   "fact": "Smith 认为报警不值得。",
+   "anchor": "‘Can’t imagine it would be worth it. What would they do about it?’",
+   "start": 12573,
+   "end": 12639
+  },
+  {
+   "fact": "Smith 猜测是性游戏出了岔子。",
+   "anchor": "‘I reckon it was a sex game gone wrong.’",
+   "start": 15828,
+   "end": 15868
+  },
+  {
+   "fact": "Kate 反驳 Olivia 是脖子被刺。",
+   "anchor": "‘She was stabbed in the neck!’",
+   "start": 15871,
+   "end": 15901
+  },
+  {
+   "fact": "Kate 推断没有破门，凶手是熟人或她开门放进的人。",
+   "anchor": "There was no break-in. It must have been someone she knew, or at least someone she opened the door to.",
+   "start": 15108,
+   "end": 15210
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch37",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch37_chapter_36.txt",
+ "facts": [
+  {
+   "fact": "JJ 独自站在 Boar Lane 的 The Observatory。",
+   "anchor": "Inside The Observatory on Boar Lane, JJ stood alone.",
+   "start": 22,
+   "end": 74
+  },
+  {
+   "fact": "Arthur 与 Charlie 未到，Matty 在男厕。",
+   "anchor": "Arthur and Charlie hadn’t turned up yet, Matty was in the gents’",
+   "start": 411,
+   "end": 475
+  },
+  {
+   "fact": "他还没想好解释 Emily 缺席的说法。",
+   "anchor": "Hadn’t thought of a good enough story to explain Emily’s absence.",
+   "start": 1130,
+   "end": 1195
+  },
+  {
+   "fact": "Matty 向 Arthur、Charlie 自我介绍为 Jake 的室友 Matthew 并买一轮。",
+   "anchor": "‘I’m Jake’s flatmate, Matthew. What are you two drinking, I’ll get this round?’",
+   "start": 2710,
+   "end": 2789
+  },
+  {
+   "fact": "Arthur 直接问他们把 Emily 怎么了。",
+   "anchor": "What have you done with Emily?’",
+   "start": 3027,
+   "end": 3058
+  },
+  {
+   "fact": "之后他的记忆断片，直接跳到随众人去俱乐部。",
+   "anchor": "The next thing JJ remembered of the night was walking the short distance to the club",
+   "start": 3061,
+   "end": 3145
+  },
+  {
+   "fact": "他记得 Alice 和 Gareth 也出现在俱乐部。",
+   "anchor": "He remembered Alice and Gareth.",
+   "start": 4009,
+   "end": 4040
+  },
+  {
+   "fact": "Alice 问 Emily 是不是喝昏过去了。",
+   "anchor": "Where’s Emily, then?’ she asked. ‘Drank herself unconscious in the end?’",
+   "start": 4430,
+   "end": 4502
+  },
+  {
+   "fact": "午夜霓虹闪出 2000。",
+   "anchor": "the number 2000 flashed in neon",
+   "start": 4804,
+   "end": 4835
+  },
+  {
+   "fact": "Matty 转身消失。",
+   "anchor": "Matty turned on his heel and vanished",
+   "start": 5223,
+   "end": 5260
+  }
+ ]
+}
