@@ -1,0 +1,1845 @@
+{
+  "book": "the-hexing-miss-helena-by-darcy-mcguire",
+  "chapter": 21,
+  "source": "text/ch21_chapter_21.txt",
+  "source_lines": 371,
+  "read_order_note": "只读 text/ch21_chapter_21.txt，未开任何 md",
+  "pov": "本章自始至终贴 Helena 的视角，第三人称限知，全章无视角换人。证据行：L35「Sleep refused to grant her the oblivion she craved」（她的感受）、L62「Maybe she didn’t want to hear what he was thinking」（她的揣想）、L80「Helena couldn’t rip her gaze away」（她的目光）、L104「This was not how she imagined things would unfold」、L116「If she knew how enticing she looked… she wouldn’t relax so easily in Helena’s presence」（她对 Cynthia 的揣测）、L122「Whatever she saw, Helena guessed she liked it」（明写 guess，Cynthia 的内心只经 Helena 猜测）、L161「Helena hesitated. Because there were certain hidden memories she didn’t want to share」、L239「Never had her explorations with other women been so enthralling」、L260「she wished she could push the memories of her past away」、L311「But Helena didn’t deserve her grief」、L350「only increased Helena’s shame」。不属于视角人物的『心声』逐条核查：Cynthia 的内心从未直接呈现（只有外显动作+Helena 的猜测，见 L116/L122）；Hamlet 的内心也没有——L59 Helena 恰恰抱怨自己听不到他在想什么，L62「Maybe she didn’t want to hear what he was thinking」仍是 Helena 的想法。两处无引号第一人称心声均属 Helena：L83「Bloody hell. I want her.」、L140「That’s all this is. All this can ever be.」。另有叙述者评点（仍限知于 Helena）：L92「Cynthia was not one of those people」、L164「It was the perfect solution, if Helena was brave enough…」、L344「Helena knew this was true, but blaming herself was easier…」。",
+  "scene_split": [
+    {
+      "lines": "1–34",
+      "where": "front matter：行1为章节标题「Chapter 21」，行22为页码「21」，其余为出版方的空白填充行；不是正文场景",
+      "when": "—",
+      "pov": "—"
+    },
+    {
+      "lines": "35–65",
+      "where": "Helena 的卧室（床上，Hamlet 在她床上的窝里）",
+      "when": "破晓前，天空正从黑转靛蓝",
+      "pov": "Helena"
+    },
+    {
+      "lines": "66–67",
+      "where": "场景间空行分隔（卧室→走廊）",
+      "when": "—",
+      "pov": "—"
+    },
+    {
+      "lines": "68–77",
+      "where": "走廊；在 Clio 门外驻足回忆；随后推开（Cynthia 的）门、跨过门槛",
+      "when": "破晓前，紧接上一场景",
+      "pov": "Helena"
+    },
+    {
+      "lines": "78–79",
+      "where": "场景间空行分隔（进门→床前）",
+      "when": "—",
+      "pov": "—"
+    },
+    {
+      "lines": "80–353",
+      "where": "Cynthia 的卧室（床上为主）",
+      "when": "黎明边缘到日出后（L260 天空由靛蓝转淡蓝、太阳升起）",
+      "pov": "Helena"
+    },
+    {
+      "lines": "354–355",
+      "where": "场景内空行分隔（Hamlet 到来之前）",
+      "when": "—",
+      "pov": "—"
+    },
+    {
+      "lines": "356–371",
+      "where": "Cynthia 的卧室，Hamlet 加入后卧在两人之间",
+      "when": "日出后、光线渐暖（L362「In the warming light」）",
+      "pov": "Helena"
+    }
+  ],
+  "events": [
+    {
+      "n": 1,
+      "lines": "35",
+      "who": "Helena",
+      "did": "在被子里翻身，把被子踢开",
+      "verbatim": "Helena shifted under her covers, kicking them off"
+    },
+    {
+      "n": 2,
+      "lines": "35",
+      "who": "Helena",
+      "did": "哼出一口气，气得把她的铜色卷发吹散到脸颊上",
+      "verbatim": "huffing a breath that sent her copper curls scattering across her cheek"
+    },
+    {
+      "n": 3,
+      "lines": "35",
+      "who": "叙述（Helena 视角）",
+      "did": "睡眠拒绝给她渴望的遗忘；躺得越久越难受",
+      "verbatim": "Sleep refused to grant her the oblivion she craved. The longer she lay in her bed, the worse she felt."
+    },
+    {
+      "n": 4,
+      "lines": "35",
+      "who": "Helena",
+      "did": "眯眼看窗，太阳正开始把天空从黑晒成靛蓝",
+      "verbatim": "Squinting at the window, the sun was just beginning to warm the skies from black to indigo."
+    },
+    {
+      "n": 5,
+      "lines": "38",
+      "who": "Hamlet",
+      "did": "从她床上的窝里站起，抖了抖身子",
+      "verbatim": "Hamlet stood from his nest on her bed, shook himself"
+    },
+    {
+      "n": 6,
+      "lines": "38",
+      "who": "Hamlet",
+      "did": "转了三圈后重新趴下，把头搁在她大腿上",
+      "verbatim": "circled three times before resettling, and rested his head on her thigh"
+    },
+    {
+      "n": 7,
+      "lines": "38",
+      "who": "Helena",
+      "did": "伸手抚摸他两耳之间",
+      "verbatim": "She reached down to pet between his ears."
+    },
+    {
+      "n": 8,
+      "lines": "41",
+      "who": "Helena",
+      "did": "对 Hamlet 说自己觉得真的把和 Cynthia 的事搞砸了",
+      "verbatim": "‘I think I really messed things up with Cynthia.’"
+    },
+    {
+      "n": 9,
+      "lines": "44",
+      "who": "Hamlet",
+      "did": "叹气",
+      "verbatim": "Hamlet sighed."
+    },
+    {
+      "n": 10,
+      "lines": "47",
+      "who": "Helena",
+      "did": "说自己立过誓",
+      "verbatim": "‘But I made a vow, Hamlet.’"
+    },
+    {
+      "n": 11,
+      "lines": "50",
+      "who": "Hamlet",
+      "did": "抬起头、歪头，然后咬了她手臂一口",
+      "verbatim": "He perked his head up, cocked it, and nipped her arm."
+    },
+    {
+      "n": 12,
+      "lines": "53",
+      "who": "Helena / 叙述",
+      "did": "Helena 喊他的名字；叙述指出他以前从没咬过她",
+      "verbatim": "‘Hamlet!’ He’d never nipped her before."
+    },
+    {
+      "n": 13,
+      "lines": "56",
+      "who": "Hamlet",
+      "did": "发出沙哑的低吼（尖牙没说明问题，低吼说明了）",
+      "verbatim": "If his sharp teeth hadn’t made the point, his little raspy growl did."
+    },
+    {
+      "n": 14,
+      "lines": "59",
+      "who": "Helena",
+      "did": "问为什么自己听不到他（Hamlet）和她（Cynthia）在想什么，说 Rowan 姨妈的假说完全荒唐",
+      "verbatim": "‘Why can’t I hear what you’re thinking? Or what she is thinking? Because Aunt Rowan’s hypothesis is completely barmy.’"
+    },
+    {
+      "n": 15,
+      "lines": "62",
+      "who": "Hamlet / Helena",
+      "did": "Hamlet 的金色眼睛穿透她的 shields 直刺深处；也许她并不想听到他在想什么",
+      "verbatim": "Hamlet’s golden eyes cut past her shields, piercing deep. Maybe she didn’t want to hear what he was thinking."
+    },
+    {
+      "n": 16,
+      "lines": "65",
+      "who": "Helena",
+      "did": "说这太可笑了，她要去找她（Cynthia）谈",
+      "verbatim": "‘This is ridiculous. I’m going to speak with her.’"
+    },
+    {
+      "n": 17,
+      "lines": "65",
+      "who": "Helena",
+      "did": "坐起身，从床角拿过睡袍，裹进温暖的法兰绒里",
+      "verbatim": "Helena sat up, took her robe from the corner of her bed, and wrapped herself in the warm flannel."
+    },
+    {
+      "n": 18,
+      "lines": "65",
+      "who": "Helena",
+      "did": "吩咐 Hamlet 待在这里；心想光是猜 Cynthia 在想什么已经够糟，不想再猜狐狸对那女人说什么",
+      "verbatim": "‘Stay here.’ It was bad enough she would be wondering what Cynthia was thinking without having to wonder what her fox was saying to the woman."
+    },
+    {
+      "n": 19,
+      "lines": "68",
+      "who": "Helena",
+      "did": "悄悄穿过走廊，冰冷的地板催促她的脚步",
+      "verbatim": "She crept across the hallway, the cold floorboards hastening her steps."
+    },
+    {
+      "n": 20,
+      "lines": "68",
+      "who": "Helena",
+      "did": "在 Clio 的门外停步，无数夜晚的百万段记忆涌出——躺在 Clio 床上、Ellie 在另一边",
+      "verbatim": "Pausing outside Clio’s door, a million memories spilled forth of countless nights lying on Clio’s bed with Ellie on the other side."
+    },
+    {
+      "n": 21,
+      "lines": "68",
+      "who": "Helena / Clio / Ellie",
+      "did": "她们的童年在编童话、分享恐惧、为在爱的祭坛上牺牲自己的母亲们相互慰藉中度过",
+      "verbatim": "They spent their childhoods spinning fairy tales, sharing fears, and commiserating over mothers who had sacrificed themselves on the altar of love."
+    },
+    {
+      "n": 22,
+      "lines": "68",
+      "who": "Clio",
+      "did": "（Helena 心中评述）Clio——本该与她结伴保持单身的同伙——犯了最重的罪：爱上了一个 Helena 勉强承认完美适合 Clio 的男人",
+      "verbatim": "Clio – Helena’s supposed partner in remaining single – had committed the worst crime. Falling in love with a man that Helena begrudgingly admitted was perfect for her."
+    },
+    {
+      "n": 23,
+      "lines": "68",
+      "who": "Ellie",
+      "did": "（Helena 心中评述）Ellie 必定紧随其后；她是无可救药的浪漫主义者，在每个懦弱青年身上都看到英俊英雄",
+      "verbatim": "Ellie was sure to follow on her heels. She was a hopeless romantic who saw a dashing hero in every milksop swain."
+    },
+    {
+      "n": 24,
+      "lines": "71",
+      "who": "Helena",
+      "did": "翻了个白眼，但她惯有的不屑缺乏说服力",
+      "verbatim": "She rolled her eyes, but her usual disdain lacked conviction."
+    },
+    {
+      "n": 25,
+      "lines": "74",
+      "who": "Helena",
+      "did": "自言自语：我在磨蹭，而我从不磨蹭；决定推开门、把 Cynthia 从睡梦中叫醒、解释清楚为什么她们不能只是朋友以上",
+      "verbatim": "‘I am dithering. And I don’t dither. This is ridiculous. I shall just push open this door, wake Cynthia from her slumber, and explain exactly why we can’t be more than just friends.’"
+    },
+    {
+      "n": 26,
+      "lines": "77",
+      "who": "Helena",
+      "did": "推开门、跨过门槛，眼看自己的意图被一条狂野的欲望之河冲走",
+      "verbatim": "Helena pushed open the door, crossed the threshold, and watched her intentions be swept away in a wild river of need."
+    },
+    {
+      "n": 27,
+      "lines": "80",
+      "who": "Cynthia",
+      "did": "缠在床单里，上身没有遮盖",
+      "verbatim": "Cynthia was tangled in her sheets. Her torso was uncovered."
+    },
+    {
+      "n": 28,
+      "lines": "80",
+      "who": "Cynthia",
+      "did": "她穿的薄白色 shift 在昏暗房间里亮得像灯塔，显出一夜辗转的痕迹",
+      "verbatim": "The shift she wore, a thin white thing that glowed like a beacon in the dim room, showed evidence of her restless night."
+    },
+    {
+      "n": 29,
+      "lines": "80",
+      "who": "Helena",
+      "did": "一只乳房滑露出来，Helena 无法把目光从那雪白隆起与含苞乳尖上撕开",
+      "verbatim": "One breast spilled out, and Helena couldn’t rip her gaze away from the creamy swell of flesh tipped with a budded nipple."
+    },
+    {
+      "n": 30,
+      "lines": "83",
+      "who": "Helena（内心）",
+      "did": "无引号心声：该死，我想要她",
+      "verbatim": "Bloody hell. I want her."
+    },
+    {
+      "n": 31,
+      "lines": "86",
+      "who": "Helena",
+      "did": "强迫自己的脚动起来，拿过床尾的盖毯，铺盖住 Cynthia 的裸体",
+      "verbatim": "She forced her feet to move, taking a coverlet at the end of the bed, draping it over Cynthia’s body to cover her nudity"
+    },
+    {
+      "n": 32,
+      "lines": "86",
+      "who": "Helena",
+      "did": "轻轻抓住 Cynthia 的肩膀摇晃",
+      "verbatim": "before gently gripping her shoulder and shaking her."
+    },
+    {
+      "n": 33,
+      "lines": "89",
+      "who": "Helena",
+      "did": "叫 Cynthia 醒来",
+      "verbatim": "‘Cynthia, wake up.’"
+    },
+    {
+      "n": 34,
+      "lines": "92",
+      "who": "叙述（Helena 视角）",
+      "did": "有人醒得像温柔的浪滚上岸，Cynthia 不是这种人",
+      "verbatim": "Some people woke slowly, like a gentle wave rolling onto shore. Cynthia was not one of those people."
+    },
+    {
+      "n": 35,
+      "lines": "95",
+      "who": "Cynthia",
+      "did": "猛地坐起，盖毯从身上滑落，头差点撞上 Helena 的下巴",
+      "verbatim": "She sat up violently, the coverlet falling off her as she nearly slammed her head into Helena’s chin."
+    },
+    {
+      "n": 36,
+      "lines": "98",
+      "who": "Helena",
+      "did": "向后仰倒，屁股着地",
+      "verbatim": "Helena reared back and landed on her arse."
+    },
+    {
+      "n": 37,
+      "lines": "101",
+      "who": "Cynthia",
+      "did": "喊「谁在那里」，狂乱地环视房间，随后发现闯入者堆在钩织地毯上",
+      "verbatim": "‘Who’s there!’ Cynthia looked around the room wildly before realising her intruder was heaped on the hooked rug."
+    },
+    {
+      "n": 38,
+      "lines": "101",
+      "who": "Cynthia",
+      "did": "问 Helena 为什么在地板上",
+      "verbatim": "‘Helena, what are you doing on the floor?’"
+    },
+    {
+      "n": 39,
+      "lines": "101",
+      "who": "Cynthia",
+      "did": "意识到自己衣不蔽体，赶紧整好 shift，把毯子拉回肩上",
+      "verbatim": "It was then Cynthia must have realised her state of undress. She quickly adjusted her shift, then pulled the blanket back up around her shoulders."
+    },
+    {
+      "n": 40,
+      "lines": "101",
+      "who": "Cynthia",
+      "did": "问到底他妈的怎么回事",
+      "verbatim": "‘What the bloody hell is going on?’"
+    },
+    {
+      "n": 41,
+      "lines": "104",
+      "who": "Helena",
+      "did": "设法从睡袍和睡衣里把自己解开",
+      "verbatim": "Helena tried to untangle herself from her robe and nightgown."
+    },
+    {
+      "n": 42,
+      "lines": "104",
+      "who": "Helena",
+      "did": "站起来后头发塌下来遮住视线，她把头发拨开、呼出一口气",
+      "verbatim": "When she gained her feet, her hair tumbled over her face, obscuring her view. She swiped it out of the way and huffed out a breath."
+    },
+    {
+      "n": 43,
+      "lines": "104",
+      "who": "Helena（内心）",
+      "did": "心想事情不是照她想象展开的——但在 Cynthia 身上不总是这样吗",
+      "verbatim": "This was not how she imagined things would unfold. But wasn’t that always the case with Cynthia?"
+    },
+    {
+      "n": 44,
+      "lines": "107",
+      "who": "Helena",
+      "did": "说她需要和 Cynthia 谈谈",
+      "verbatim": "‘I needed to speak with you.’"
+    },
+    {
+      "n": 45,
+      "lines": "110",
+      "who": "Cynthia",
+      "did": "眯眼望窗外，说现在还是半夜",
+      "verbatim": "Cynthia squinted out the window. ‘Now? It’s still the middle of the night.’"
+    },
+    {
+      "n": 46,
+      "lines": "113",
+      "who": "Helena",
+      "did": "说不算，她们处在黎明的边缘",
+      "verbatim": "‘Not quite. We’re on the edge of dawn.’"
+    },
+    {
+      "n": 47,
+      "lines": "116",
+      "who": "Cynthia",
+      "did": "翻着白眼扭身捶松背后的靠垫、又多加一个、靠上去、双臂叠在胸下",
+      "verbatim": "Rolling her eyes, Cynthia twisted to punch the cushions behind her back, added an extra one, leaned back against them and folded her arms under her breasts."
+    },
+    {
+      "n": 48,
+      "lines": "116",
+      "who": "Helena（揣测）",
+      "did": "Helena 揣测：如果 Cynthia 知道自己此刻（凌乱、胸脯如奉献般托起、眼神柔软困倦）多诱人，就不会在 Helena 面前放松成这样",
+      "verbatim": "If she knew how enticing she looked, hopelessly rumpled, her breasts pushed up like an offering, her eyes still soft and sleepy, she wouldn’t relax so easily in Helena’s presence."
+    },
+    {
+      "n": 49,
+      "lines": "116",
+      "who": "Cynthia",
+      "did": "说对任何文明女人来说黎明边缘仍是半夜",
+      "verbatim": "‘The edge of dawn is still the middle of the night for any civilised woman.’"
+    },
+    {
+      "n": 50,
+      "lines": "119",
+      "who": "Helena",
+      "did": "感到野性、狂放、饥饿；Cynthia 像盛宴般躺在她面前；进房的一切理由都被品尝她的本能需要淹没",
+      "verbatim": "She felt feral, and wild, and hungry. And Cynthia lay before her like a feast. Whatever reasons she had for coming into her room were forgotten in the visceral need to taste her."
+    },
+    {
+      "n": 51,
+      "lines": "119",
+      "who": "Helena",
+      "did": "说自己不是文明女人；她听见自己声音里的绝望，但不在乎",
+      "verbatim": "‘I’m not a civilised woman.’ Helena heard the desperation in her voice, but she didn’t care."
+    },
+    {
+      "n": 52,
+      "lines": "122",
+      "who": "Cynthia",
+      "did": "目光流过 Helena，瞳孔放大；Helena 猜无论看到什么，对方喜欢",
+      "verbatim": "Cynthia’s gaze flowed over Helena, her pupils dilating. Whatever she saw, Helena guessed she liked it."
+    },
+    {
+      "n": 53,
+      "lines": "122",
+      "who": "Cynthia",
+      "did": "问什么事重要到必须把她从睡眠里扯出来",
+      "verbatim": "‘What did you wish to talk about that is so important, you must rip me from sleep?’"
+    },
+    {
+      "n": 54,
+      "lines": "125",
+      "who": "Helena",
+      "did": "脱口问「你想要我吗」——不是她本来要说的话，但是她需要知道的事",
+      "verbatim": "‘Do you want me?’ It wasn’t what she meant to say. But it’s what she needed to know."
+    },
+    {
+      "n": 55,
+      "lines": "128",
+      "who": "Cynthia",
+      "did": "咽了口口水，胸口随突然粗乱的呼吸起伏，答「想」",
+      "verbatim": "Cynthia swallowed. Her chest rose and fell in suddenly ragged breaths. ‘Yes.’"
+    },
+    {
+      "n": 56,
+      "lines": "131",
+      "who": "Helena",
+      "did": "问「现在就要？」",
+      "verbatim": "‘Now?’"
+    },
+    {
+      "n": 57,
+      "lines": "134",
+      "who": "Cynthia",
+      "did": "像挑衅的女神般抬起下巴，点头说「要」",
+      "verbatim": "Tipping her chin up like a defiant goddess, she nodded. ‘Yes.’"
+    },
+    {
+      "n": 58,
+      "lines": "137",
+      "who": "Helena",
+      "did": "问「即使这不会改变我们之间的任何事？」——因为她不能对 Cynthia 撒谎，也不愿让自己的欲望被误认为更深的东西",
+      "verbatim": "‘Even if it changes nothing between us?’ Because she couldn’t lie to Cynthia. And she wouldn’t risk her lust being mistaken for something more."
+    },
+    {
+      "n": 59,
+      "lines": "140",
+      "who": "Helena（内心）",
+      "did": "无引号心声：这就是全部，也只能是全部",
+      "verbatim": "That’s all this is. All this can ever be."
+    },
+    {
+      "n": 60,
+      "lines": "143",
+      "who": "Cynthia",
+      "did": "说不可能——无论结局如何，与她在一起都会改变她们之间的一切",
+      "verbatim": "‘That’s impossible. No matter how this ends, being with you will change everything between us.’"
+    },
+    {
+      "n": 61,
+      "lines": "146",
+      "who": "Helena",
+      "did": "心跳漏拍，因为 Cynthia 说得对：她们结合就不可能被不改变",
+      "verbatim": "Helena’s heart stuttered. Because Cynthia was right. They couldn’t join together without being irrevocably altered."
+    },
+    {
+      "n": 62,
+      "lines": "149",
+      "who": "Helena",
+      "did": "说不想失去 Cynthia 这个朋友",
+      "verbatim": "‘I don’t want to lose you as a friend.’"
+    },
+    {
+      "n": 63,
+      "lines": "152",
+      "who": "Cynthia",
+      "did": "眼里盈满泪水，说她也不想失去 Helena",
+      "verbatim": "Cynthia’s eyes filled with tears. ‘I don’t want to lose you either, Helena.’"
+    },
+    {
+      "n": 64,
+      "lines": "155",
+      "who": "Helena",
+      "did": "挫败感翻涌，说这不可能——她无法假装不想品尝 Cynthia 的每一寸、想吞下她的激情尖叫据为己有",
+      "verbatim": "Frustration bubbled. ‘This is impossible. How can I pretend that I don’t want to taste every inch of you? I want to swallow your screams of passion and make them mine."
+    },
+    {
+      "n": 65,
+      "lines": "155",
+      "who": "Helena",
+      "did": "说想舔到她散架、在她重新合拢时抱住她、想发现她所有的秘密",
+      "verbatim": "I want to lick you until you spin apart and hold you as you come back together. I want to discover all your secrets.’"
+    },
+    {
+      "n": 66,
+      "lines": "158",
+      "who": "Cynthia",
+      "did": "反问：你愿意让我发现你的秘密吗",
+      "verbatim": "‘Will you let me discover yours?’"
+    },
+    {
+      "n": 67,
+      "lines": "161",
+      "who": "Helena",
+      "did": "犹豫——有些藏起的记忆她不想和任何人分享；但也许那正是答案",
+      "verbatim": "Helena hesitated. Because there were certain hidden memories she didn’t want to share with anyone. And yet, perhaps that was the answer."
+    },
+    {
+      "n": 68,
+      "lines": "161",
+      "who": "Helena（盘算）",
+      "did": "盘算：若把真相告诉 Cynthia，对方就会明白 Helena 为何只能给这一刻，并会庆幸她们的灵魂没有真正绑在一起",
+      "verbatim": "If she revealed those truths to Cynthia, she would understand. She would see why Helena could only give her this moment and nothing more. And she would be grateful that their souls weren’t truly bound to each other."
+    },
+    {
+      "n": 69,
+      "lines": "164",
+      "who": "Helena",
+      "did": "说「愿意」；叙述评：只要 Helena 有勇气拉开遮蔽最深伤口的 shield，这就是完美的解决方案",
+      "verbatim": "‘Yes.’ It was the perfect solution, if Helena was brave enough to pull back the shield hiding her deepest wounds."
+    },
+    {
+      "n": 70,
+      "lines": "167",
+      "who": "Cynthia",
+      "did": "在床上挪动，给 Helena 腾出位置",
+      "verbatim": "Cynthia shifted on the bed, making space for Helena."
+    },
+    {
+      "n": 71,
+      "lines": "170",
+      "who": "Helena",
+      "did": "褪下睡袍爬上床到 Cynthia 身边，扭转上身面对这个轻易拆掉她全部盔甲的女人",
+      "verbatim": "Helena shrugged out of her robe and climbed next to Cynthia, twisting her torso to face the woman who so easily dismantled all Helena’s armour."
+    },
+    {
+      "n": 72,
+      "lines": "170",
+      "who": "Helena",
+      "did": "说「如果你想让我停……」（原文即无 to）",
+      "verbatim": "‘If you want me stop…’"
+    },
+    {
+      "n": 73,
+      "lines": "173",
+      "who": "Cynthia",
+      "did": "说不想你停",
+      "verbatim": "‘I don’t want you to stop.’"
+    },
+    {
+      "n": 74,
+      "lines": "173",
+      "who": "Cynthia",
+      "did": "把手指缠进 Helena 的野性卷发、把她拉近、唇贴上 Helena 的唇、描摹唇缝、寻求进入",
+      "verbatim": "Cynthia tangled her fingers in Helena’s wild curls and tugged her closer, pressing her lips against Helena’s, tracing the seam. Seeking entrance."
+    },
+    {
+      "n": 75,
+      "lines": "176",
+      "who": "Helena",
+      "did": "向她敞开，两人舌头交缠翻飞、逗弄品尝；Helena 咬 Cynthia 的嘴唇并为她的喘息得意",
+      "verbatim": "Helena opened to her, and their tongues danced and flicked, teased and tasted. She bit Cynthia’s lip and delighted in her gasp."
+    },
+    {
+      "n": 76,
+      "lines": "179",
+      "who": "Helena",
+      "did": "隔开两人的堤坝崩塌：Helena 拽下 Cynthia shift 的袖子",
+      "verbatim": "The dam holding them apart broke as Helena tugged down the sleeve of Cynthia’s shift."
+    },
+    {
+      "n": 77,
+      "lines": "179",
+      "who": "Helena",
+      "did": "低下头向诱惑投降，舔那皱起的皮肤",
+      "verbatim": "Dipping her head, Helena gave in to temptation and licked the puckered skin."
+    },
+    {
+      "n": 78,
+      "lines": "182",
+      "who": "Cynthia / Helena",
+      "did": "Cynthia 叫出声，Helena 伸手捂住她的嘴——她最不想要的就是 Rowan 姨妈或 Ellie 来查看",
+      "verbatim": "Cynthia cried out, and Helena reached up to cover her mouth. The last thing she wanted was Aunt Rowan or Ellie coming to investigate."
+    },
+    {
+      "n": 79,
+      "lines": "185",
+      "who": "Helena",
+      "did": "嘘声说 Ellie 在撒谎：她们没那么远，墙比你以为的薄；Cynthia 舔她的手指、轻咬指肚，令她颤栗",
+      "verbatim": "‘Shh. Ellie was lying. They aren’t that far away, and the walls are thinner than you think.’ She thrilled when Cynthia licked her finger, nipping the pad."
+    },
+    {
+      "n": 80,
+      "lines": "188",
+      "who": "Helena",
+      "did": "回到 Cynthia 的双乳，舔洗、吮吸、轻咬，先一边再另一边",
+      "verbatim": "Returning her attentions to Cynthia’s breasts, she laved, suckled, and nibbled one side, then the other."
+    },
+    {
+      "n": 81,
+      "lines": "191",
+      "who": "Cynthia",
+      "did": "喘着说「轮到我了」，用长腿缠住 Helena 的腰翻身到上面",
+      "verbatim": "‘My turn.’ Cynthia gasped, wrapping long legs around Helena’s waist and twisting so she was on top."
+    },
+    {
+      "n": 82,
+      "lines": "191",
+      "who": "Cynthia",
+      "did": "灵巧的手指解开 Helena 的 shift，拇指停在 Helena 的胸骨上，描摹那枚覆盆子色的星形印记",
+      "verbatim": "Nimble fingers unbuttoned Helena’s shift. Her thumbs paused on Helena’s sternum and traced the raspberry-coloured star."
+    },
+    {
+      "n": 83,
+      "lines": "194",
+      "who": "Helena",
+      "did": "说那只是个胎记",
+      "verbatim": "‘It’s just a birthmark.’"
+    },
+    {
+      "n": 84,
+      "lines": "197",
+      "who": "Cynthia",
+      "did": "俯身（头发搔痒了 Helena），亲吻那块印记，说它很美、你很美",
+      "verbatim": "Leaning forward, Cynthia’s hair tickled Helena as she pressed a kiss against the stain. ‘It’s beautiful. You are beautiful.’"
+    },
+    {
+      "n": 85,
+      "lines": "200",
+      "who": "Helena",
+      "did": "低头看自己，试着用 Cynthia 的眼睛想象自己的身体",
+      "verbatim": "Helena glanced down to look at herself, trying to imagine her body through Cynthia’s eyes."
+    },
+    {
+      "n": 86,
+      "lines": "200",
+      "who": "Cynthia",
+      "did": "拨开遮住 Helena 双乳的棉布",
+      "verbatim": "Cynthia pushed aside the cotton covering Helena’s breasts."
+    },
+    {
+      "n": 87,
+      "lines": "200",
+      "who": "Cynthia / Helena",
+      "did": "Cynthia 的拇指拂过酸痛的乳尖时，Helena 只得咬住手背跟部压住自己的尖叫",
+      "verbatim": "When Cynthia brushed her thumb over an aching tip, Helena had to bite the heel of her hand to muffle her own scream."
+    },
+    {
+      "n": 88,
+      "lines": "203",
+      "who": "Cynthia",
+      "did": "注意到 Helena 的反应并微笑，说你的胸真美；她榛色眼睛里的饥渴让 Helena 两腿间涌起暖流",
+      "verbatim": "Cynthia noted Helena’s reaction and smiled. ‘You have such beautiful breasts.’ The hungry look in her hazel eyes caused a rush of warmth between Helena’s thighs."
+    },
+    {
+      "n": 89,
+      "lines": "206",
+      "who": "Cynthia",
+      "did": "桃花心木色的头发像丝束落在 Helena 皮肤上，她低下头把一只乳尖吸进滚烫湿润的嘴里",
+      "verbatim": "Cynthia’s mahogany hair fell across Helena’s skin like skeins of silk as she lowered her head and sucked a nipple into her hot, wet mouth."
+    },
+    {
+      "n": 90,
+      "lines": "209",
+      "who": "Helena",
+      "did": "扭动身体需要摩擦，抓住 Cynthia 的腿拉向自己的核心，抵着她的大腿磨蹭、迷失在旋转的感觉里",
+      "verbatim": "Helena squirmed, needing friction. She gripped Cynthia’s leg, pulling it up against her core. Writhing against Cynthia’s thigh, she lost herself in the spinning sensation."
+    },
+    {
+      "n": 91,
+      "lines": "209",
+      "who": "Helena（内心）",
+      "did": "她本该向 Cynthia 展示性爱的荣光，但这个矛盾的女人又一次把 Helena 的计划搅成混乱",
+      "verbatim": "She was supposed to be showing Cynthia the glory of sexual congress, but the contradictory woman had once again shaken Helena’s plans into chaos."
+    },
+    {
+      "n": 92,
+      "lines": "212",
+      "who": "Cynthia / Helena",
+      "did": "Cynthia 用牙齿轻咬细啃，Helena 被推上浪尖；她磨出快感，Cynthia 吸得更用力、捻她另一只乳尖、再以轻抚掠过过敏的皮肤",
+      "verbatim": "When Cynthia employed teeth to nip and nibble, Helena was swept higher on a cresting wave. She ground out her pleasure, as Cynthia sucked harder, pinching Helena’s other nipple then brushing soft caresses over the sensitised flesh."
+    },
+    {
+      "n": 93,
+      "lines": "215",
+      "who": "Helena",
+      "did": "喘息着说「你……好厉害……」",
+      "verbatim": "‘You are… so good… at this…’ Helena panted as pleasure swept her higher."
+    },
+    {
+      "n": 94,
+      "lines": "218",
+      "who": "Cynthia",
+      "did": "以低吼回应，把腿抬得更高、加重对 Helena 湿透褶缝的压迫、向前摇动",
+      "verbatim": "Cynthia growled her response, hiking her leg up, increasing the pressure against Helena’s drenched folds as she rocked forward."
+    },
+    {
+      "n": 95,
+      "lines": "221",
+      "who": "Helena / Cynthia",
+      "did": "Helena 平衡在锋利的欲望边缘；Cynthia 用野蛮的吻封住她的嘴",
+      "verbatim": "Helena was balanced on a sharp edge of need. Cynthia took her mouth in a brutal kiss."
+    },
+    {
+      "n": 96,
+      "lines": "224",
+      "who": "Cynthia",
+      "did": "命令：让我看看你多想要这个、多想要我；这命令无法抗拒",
+      "verbatim": "‘Show me how much you want this. How much you want me.’ Cynthia’s demand was impossible to resist."
+    },
+    {
+      "n": 97,
+      "lines": "224",
+      "who": "Cynthia",
+      "did": "伸手到两人之间，描摹 Helena 的入口，用 Helena 的欲望润湿手指，以轻柔的抚触探索柔软褶缝",
+      "verbatim": "She reached down between them, tracing Helena’s entrance, wetting her fingers on Helena’s need. Exploring her soft folds with gentle strokes."
+    },
+    {
+      "n": 98,
+      "lines": "224",
+      "who": "Cynthia / Helena",
+      "did": "Helena 专注于核心绽放的快感；Cynthia 的舌头从锁骨舔到下颌、牙齿咬进 Helena 裸露的颈子",
+      "verbatim": "the velvet softness of Cynthia’s tongue as she licked from Helena’s clavicle to her jaw, the sharp bite of Cynthia’s teeth sinking into Helena’s exposed neck."
+    },
+    {
+      "n": 99,
+      "lines": "224",
+      "who": "Cynthia",
+      "did": "她「 wicked 」的手指找到阴蒂、以完美节奏无尽打圈；太多、又不够、就是一切",
+      "verbatim": "And her wicked fingers as they found her clitoris, circling endlessly in perfect rhythm. It was too much. It wasn’t enough. It was everything."
+    },
+    {
+      "n": 100,
+      "lines": "227",
+      "who": "Helena",
+      "did": "在意图之岸上碎裂、沉入沙中又被吸回海心再度升起；Cynthia 把她摇过第一次高潮、再送进第二次",
+      "verbatim": "She shattered against the shore of intentions, sinking into the sand only to be sucked back to the heart of the sea to rise again. Cynthia rocked her past the first orgasm and eased her into the second."
+    },
+    {
+      "n": 101,
+      "lines": "230",
+      "who": "Helena",
+      "did": "喊「停。求你。你必须……」，身体化成液体、骨头溶成果冻",
+      "verbatim": "‘Stop. Please. You must…’ Her body turned liquid, her bones dissolving into jelly."
+    },
+    {
+      "n": 102,
+      "lines": "233",
+      "who": "Cynthia",
+      "did": "拉开身子，嘴唇肿胀、瞳孔放大，说「你又在试图命令我了」",
+      "verbatim": "Cynthia pulled back, her lips swollen and her pupils dilated. ‘There you go, trying to tell me what to do again.’"
+    },
+    {
+      "n": 103,
+      "lines": "233",
+      "who": "Cynthia",
+      "did": "作为惩罚变本加厉：先是指尖轻拂，再是更坚决的打圈，直到 Helena 再度扭动",
+      "verbatim": "As punishment, she redoubled her efforts. She began with gentle brushes of her fingertips, then more determined circles until Helena was writhing once more."
+    },
+    {
+      "n": 104,
+      "lines": "233",
+      "who": "Cynthia",
+      "did": "把一根手指推进 Helena 酸痛的通道、再一根、抵着壁按压；更紧、更快、更重，快感近乎疼痛",
+      "verbatim": "Cynthia pushed a finger into her aching channel, then another, pressing against the walls. Tighter, faster, harder, the pleasure almost painful."
+    },
+    {
+      "n": 105,
+      "lines": "233",
+      "who": "Helena",
+      "did": "对着枕头猛烈挣扎，随后像念咒一样哭喊 Cynthia 的名字，抵达又一座峰顶",
+      "verbatim": "Helena thrashed against the pillow before sobbing Cynthia’s name like a spell as she reached yet another peak."
+    },
+    {
+      "n": 106,
+      "lines": "233",
+      "who": "Cynthia",
+      "did": "终于慈悲：把手掌压在 Helena 搏动的核心上，直到她回到地面",
+      "verbatim": "Finally, the woman showed mercy, pressing the palm of her hand against Helena’s throbbing core until she returned to the earth."
+    },
+    {
+      "n": 107,
+      "lines": "236",
+      "who": "Cynthia / Helena",
+      "did": "Cynthia  exclaimed 「Gracious!」——这措辞考究的词本会让 Helena 发笑，如果她肺里还有气做呼吸以外的事",
+      "verbatim": "‘Gracious!’ Cynthia’s proper word would have made Helena laugh, if she had breath left in her lungs to do anything but breathe."
+    },
+    {
+      "n": 108,
+      "lines": "236",
+      "who": "Cynthia",
+      "did": "说自己完全不知道给予快感可以如此……赋予力量",
+      "verbatim": "‘I had no idea giving pleasure could be so… empowering.’"
+    },
+    {
+      "n": 109,
+      "lines": "239",
+      "who": "Helena",
+      "did": "身体只剩一滩温水；她与其他女人的探索从没这么摄人；她挣扎着把思绪拉回秩序",
+      "verbatim": "Helena’s body was nothing more than a warm puddle. Never had her explorations with other women been so enthralling. She struggled to pull her thoughts back into some semblance of order."
+    },
+    {
+      "n": 110,
+      "lines": "242",
+      "who": "Helena",
+      "did": "说本来该是我让你高潮的",
+      "verbatim": "‘I was supposed to bring you to climax.’"
+    },
+    {
+      "n": 111,
+      "lines": "245",
+      "who": "Cynthia",
+      "did": "瘫倒在 Helena 身边，握住她的手、逐根抚摸手指，说若自己有一丝悔意就会为打乱你的计划道歉",
+      "verbatim": "Cynthia collapsed next to her, taking Helena’s hand in hers and stroking along each finger. ‘I would apologise for disrupting your plans if I felt even an ounce of remorse.’"
+    },
+    {
+      "n": 112,
+      "lines": "248",
+      "who": "Helena",
+      "did": "说你总是打乱我的计划；现实慢慢重新就位——她来这里本是要向 Cynthia 解释",
+      "verbatim": "‘You are always disrupting my plans.’ Reality slowly reasserted itself. She had come here to explain things to Cynthia."
+    },
+    {
+      "n": 113,
+      "lines": "248",
+      "who": "Helena",
+      "did": "要让 Cynthia 明白她们不是什么灵魂纠缠的一对、不是把 Hamlet 当爱情结晶版 familiar 来共享的关系",
+      "verbatim": "To make her see why they weren’t some entangled spiritual couple that shared Hamlet between them like the familiar version of a love child."
+    },
+    {
+      "n": 114,
+      "lines": "251",
+      "who": "Cynthia",
+      "did": "问要不要我停下，手指静止",
+      "verbatim": "‘Would you like me to stop?’ Cynthia stilled her fingers."
+    },
+    {
+      "n": 115,
+      "lines": "254",
+      "who": "Helena",
+      "did": "说我希望你明白——为什么 Rowan 姨妈错了",
+      "verbatim": "‘I would like you to understand. Why Aunt Rowan is wrong.’"
+    },
+    {
+      "n": 116,
+      "lines": "257",
+      "who": "Cynthia",
+      "did": "床垫下沉：Cynthia 侧过身，拉起被子，脸颊枕在手上，说「那你解释给我听」",
+      "verbatim": "The mattress dipped as Cynthia shifted on her side. She pulled the covers up and rested her cheek on her hand. ‘Then explain it to me.’"
+    },
+    {
+      "n": 117,
+      "lines": "260",
+      "who": "Helena",
+      "did": "照她的姿势侧卧；天空已从靛蓝漂成更淡的蓝，太阳开始缓缓升起迎接清晨",
+      "verbatim": "Helena mirrored her pose. The sky had drifted from indigo to a much paler blue as the sun began her slow ascent to welcome morning."
+    },
+    {
+      "n": 118,
+      "lines": "260",
+      "who": "Helena",
+      "did": "忍冬与香草的气息包裹住 Helena；她希望能把过去的记忆推开、希望母亲做了不同的选择",
+      "verbatim": "Honeysuckle and vanilla wrapped around Helena, and she wished she could push the memories of her past away. She wished her mother had made different choices."
+    },
+    {
+      "n": 119,
+      "lines": "260",
+      "who": "Helena（内心）",
+      "did": "希望她不必被迫独自生活——因为「在关系中失去自己」的恐惧令她瘫痪",
+      "verbatim": "That she wasn’t forced to remain alone because the fear of losing herself in a relationship was crippling."
+    },
+    {
+      "n": 120,
+      "lines": "263",
+      "who": "Cynthia",
+      "did": "伸手越过床垫，把手放在 Helena 腰际凹陷处轻轻捏了捏，说「不管是什么，你都可以告诉我」",
+      "verbatim": "Cynthia reached across the mattress, resting her hand where Helena’s waist dipped and squeezed gently. ‘Whatever it is, you can tell me.’"
+    },
+    {
+      "n": 121,
+      "lines": "266",
+      "who": "Helena",
+      "did": "颤抖地呼气，开始讲述：母亲坠入爱河——不是和 Helena 的父亲，他们只在 Edinburgh 的 Samhain 庆典上共度了一夜",
+      "verbatim": "Helena exhaled a shaky breath. ‘My mother fell in love. Not with my father – they only spent one night together at the Samhain celebrations in Edinburgh."
+    },
+    {
+      "n": 122,
+      "lines": "266",
+      "who": "Helena 的母亲",
+      "did": "母亲把心交给的男人是村里铁匠，两人相识多年；Helena 始终不明白最终是什么把母亲引向他",
+      "verbatim": "The man she gave her heart to was a blacksmith in our village. They had known each other for years. I never understood what finally drew her to him."
+    },
+    {
+      "n": 123,
+      "lines": "266",
+      "who": "Mother / Aunt Aspen / Aunt Rowan",
+      "did": "关于母亲、Aspen 姨妈和 Rowan 姨妈一直有流言：她们是能治好你病孩子、能在枯萎病诅咒之地后仍催熟庄稼的巫师",
+      "verbatim": "There were always whispers about Mother, Aunt Aspen, and Aunt Rowan. The witches who could heal your ailing child or ripen the crops to harvest even after a blight cursed the land."
+    },
+    {
+      "n": 124,
+      "lines": "266",
+      "who": "村民",
+      "did": "村民容许她们平静居住，因为知道身旁有仁慈巫师的好处",
+      "verbatim": "The villagers allowed them to live peacefully because they knew the benefits of benevolent witches in their midst."
+    },
+    {
+      "n": 125,
+      "lines": "266",
+      "who": "Aunt Aspen / Mother",
+      "did": "随后 Aspen 姨妈追随她的心走向其终极死亡；母亲开始去铁匠那里——先是偶尔一夜，后来几乎夜夜",
+      "verbatim": "But then Aunt Aspen left to follow her heart to its ultimate death. And Mother started visiting the blacksmith. At first, it was one night here and there, then it was most nights."
+    },
+    {
+      "n": 126,
+      "lines": "266",
+      "who": "铁匠",
+      "did": "他知道母亲的能力，并且觊觎这些能力能带来的财富",
+      "verbatim": "He knew of her powers. He knew, and he craved the riches they could bring."
+    },
+    {
+      "n": 127,
+      "lines": "269",
+      "who": "Cynthia",
+      "did": "问「什么财富？」",
+      "verbatim": "‘What riches?’"
+    },
+    {
+      "n": 128,
+      "lines": "272",
+      "who": "Helena",
+      "did": "说母亲是像 Clio 一样擅药剂的 firewitch；铁匠说服她开始做爱情补剂的生意",
+      "verbatim": "‘Mother was a firewitch with the power of potions, much like Clio. The blacksmith convinced her to start dealing in love tonics.’"
+    },
+    {
+      "n": 129,
+      "lines": "275",
+      "who": "Cynthia",
+      "did": "皱起鼻子，问真的可能吗——一种让人坠入爱河的药水？",
+      "verbatim": "Cynthia scrunched her nose. ‘Is that truly possible? A potion that makes you fall in love?’"
+    },
+    {
+      "n": 130,
+      "lines": "278",
+      "who": "Helena",
+      "did": "黑暗嶙峋的记忆从脑海深处抓出；她说不知道那药水是让人恋爱还是把人置于药水主人的支配，但知道那些爱情咒违反了她所立的誓——所有 Blair 女巫的誓：不作伤害",
+      "verbatim": "Dark and jagged memories clawed from the back of Helena’s mind. ‘I don’t know if it made people fall in love, or put them in a thrall to the owner of the potion, but I do know those love spells violated the oath she made. The oath of all the Blair witches. To do no harm."
+    },
+    {
+      "n": 131,
+      "lines": "278",
+      "who": "Helena",
+      "did": "说我们不能偷走某人的意志再屈从于自己或他人的欲望；强迫感情在贫瘠田里开花只会以痛苦告终",
+      "verbatim": "We can’t steal someone’s will and bend it to our own desires, or the desires of another. Forcing someone’s affections to blossom and grow in barren fields only ends in pain."
+    },
+    {
+      "n": 132,
+      "lines": "278",
+      "who": "铁匠 / Mother",
+      "did": "而那正是铁匠要母亲做的事——因为人们会为爱破产；母亲选择了他，弃了自己的 coven、弃了只行光明魔法的承诺",
+      "verbatim": "And that is what the blacksmith asked Mother to do. Because people would bankrupt themselves for love. She chose him over her own coven. Over her commitment to only work in light magic.’"
+    },
+    {
+      "n": 133,
+      "lines": "281",
+      "who": "Cynthia",
+      "did": "说自己不明白……还有另一种魔法吗？",
+      "verbatim": "‘I don’t understand… Is there another kind?’"
+    },
+    {
+      "n": 134,
+      "lines": "284",
+      "who": "Helena",
+      "did": "说魔法有三种：光明、黑暗、血；血魔法最强大，要求献祭，可用于光明与黑暗咒法",
+      "verbatim": "‘There are three kinds of magic. Light magic, dark magic, and blood magic. Blood magic is the most powerful. It demands a sacrifice and can be used in both light and dark spells."
+    },
+    {
+      "n": 135,
+      "lines": "284",
+      "who": "女巫们",
+      "did": "当她们立誓做只带来健康与疗愈的女巫时，自愿献血以强化誓言；但血魔法可以在违背意愿下被取走、用于伤害",
+      "verbatim": "When we committed to being witches who bring only health and healing, we willingly gave our blood to strengthen the oath. But blood magic can be taken against someone’s will and used to harm."
+    },
+    {
+      "n": 136,
+      "lines": "284",
+      "who": "Mother",
+      "did": "母亲需要非自愿献出的血来完成爱情药水——偷来的血换偷来的爱；而女巫的血远比凡人的血强大",
+      "verbatim": "Mother needed blood, unwillingly given, to complete her love potions. Stolen blood for stolen affections. And a witch’s blood is far more powerful than a mortal’s.’"
+    },
+    {
+      "n": 137,
+      "lines": "287",
+      "who": "Cynthia",
+      "did": "榛色眼睛因恐惧睁大，说「她没有……」",
+      "verbatim": "Hazel eyes widened with horror. ‘She didn’t…’"
+    },
+    {
+      "n": 138,
+      "lines": "290",
+      "who": "Helena",
+      "did": "说自己不知道为什么有些早晨醒来手臂或腿上覆着包扎伤口的绷带，只知道发生得越来越频繁",
+      "verbatim": "‘I didn’t know why I would wake some mornings with bandages covering cuts on my arms or legs. Only that it was happening more frequently."
+    },
+    {
+      "n": 139,
+      "lines": "290",
+      "who": "Helena",
+      "did": "于是有一夜她假装睡觉、等着溜进她房间的恶魔——那不是恶魔，是拿着圣刃的母亲",
+      "verbatim": "So, one night, I pretended to sleep and waited for whatever devil was sneaking into my room. Only it wasn’t a devil. It was Mother with a sacred blade in her hand.’"
+    },
+    {
+      "n": 140,
+      "lines": "293",
+      "who": "Cynthia",
+      "did": "说「亲爱的上帝」，把 Helena 拉进怀里，用温暖、力量与柔软包裹她",
+      "verbatim": "‘Dear God.’ Cynthia pulled Helena into her arms, wrapping her in warmth and strength and softness."
+    },
+    {
+      "n": 141,
+      "lines": "296",
+      "who": "Helena",
+      "did": "想溶进 Cynthia 的拥抱里遗忘、想沉入甜美 oblivion 不再浮现；但故事没有讲完，她轻轻推着 Cynthia 的肩膀把自己抽出来",
+      "verbatim": "Helena wanted to dissolve into Cynthia’s embrace and forget. She wanted to sink into sweet oblivion and never emerge. But her story was not complete. Gently pushing against Cynthia’s shoulders, she extricated herself."
+    },
+    {
+      "n": 142,
+      "lines": "299",
+      "who": "Cynthia / Helena",
+      "did": "泪水淌下 Cynthia 的脸（像从天使身上拧出的水）；Helena 擦去那湿润、让它吸进自己皮肤——Cynthia 的一部分无可挽回地属于她——说「别哭。别为我哭」",
+      "verbatim": "Tears streamed down Cynthia’s face. Water wrung from an angel. Helena wiped the moisture and let it absorb into her skin, a part of Cynthia irrevocably hers. ‘Don’t cry. Not for me.’"
+    },
+    {
+      "n": 143,
+      "lines": "302",
+      "who": "Cynthia",
+      "did": "嘴唇绷紧，说「我就要为你哭！你母亲怎么敢如此可怕地虐待你？你还只是个孩子」",
+      "verbatim": "Cynthia’s lips hardened. ‘I will cry for you! How dare your mother abuse you so horrifically? You were just a child.’"
+    },
+    {
+      "n": 144,
+      "lines": "305",
+      "who": "Helena",
+      "did": "说自己已经大到该懂事；本该去找 Rowan 姨妈，但她不在小屋，于是一路跑到村里",
+      "verbatim": "‘I was old enough to know better. I should have found Aunt Rowan. But she wasn’t at her cottage, so I kept running until I came to the village."
+    },
+    {
+      "n": 145,
+      "lines": "305",
+      "who": "Old Mrs Campbell",
+      "did": "老 Campbell 太太在 Helena 跪倒前一把抓住了她；她一定是赶集回来——她从前卖兔皮和泥炭砖",
+      "verbatim": "Old Mrs Campbell caught me right before I fell on my knees. She must have been on her way back from the market. She used to sell rabbit furs and peat bricks."
+    },
+    {
+      "n": 146,
+      "lines": "305",
+      "who": "Helena",
+      "did": "自己在流血，是逃跑时母亲想抓住她抓出的抓痕；肯定看起来像个野东西",
+      "verbatim": "I was bleeding, scratched from Mother trying to catch me when I fled. I’m sure I looked like a wild thing.’"
+    },
+    {
+      "n": 147,
+      "lines": "308",
+      "who": "Cynthia",
+      "did": "说「可怜的孩子」",
+      "verbatim": "‘Darling girl.’"
+    },
+    {
+      "n": 148,
+      "lines": "311",
+      "who": "Helena（内心）",
+      "did": "但 Helena 不配她的悲伤、更不配她的同情——母亲对她做的一切，与 Helena 惩罚 Willow 的方式相比根本不算什么",
+      "verbatim": "But Helena didn’t deserve her grief. She certainly didn’t deserve her sympathy. Whatever her mother had done to her was nothing compared to how Helena punished Willow."
+    },
+    {
+      "n": 149,
+      "lines": "314",
+      "who": "Helena",
+      "did": "说「别这样」；怒气上涨——不是对 Cynthia，是对自己；悲伤、恐惧、羞耻熔合成某种黑暗强大、锋利饥饿的东西",
+      "verbatim": "‘Don’t.’ Anger grew. Not at Cynthia. But at herself. Grief, fear, and shame amalgamated into something dark and powerful. Sharp and hungry."
+    },
+    {
+      "n": 150,
+      "lines": "314",
+      "who": "Helena",
+      "did": "说别为我浪费一滴泪，Cynthia，我不配你的安慰",
+      "verbatim": "‘Don’t waste a single tear on me, Cynthia. I don’t deserve your comfort.’"
+    },
+    {
+      "n": 151,
+      "lines": "317",
+      "who": "Cynthia",
+      "did": "被 Helena 残忍的话刺痛，向后拉开；摇头，桃花心木色头发像林中秋叶般落下，说「你配得远比安慰多」",
+      "verbatim": "Cynthia pulled back, stung by Helena’s brutal words. She shook her head, mahogany falling around her like autumn leaves in the forest. ‘You deserve so much more than comfort.’"
+    },
+    {
+      "n": 152,
+      "lines": "320",
+      "who": "Helena",
+      "did": "说不，我不配——她死是我的错：因为我，村民围了母亲的小屋、把她和铁匠锁在里面、烧成灰烬",
+      "verbatim": "‘I don’t. I’m the reason she died. It’s because of me the villagers swarmed my mother’s cottage, locked her inside with the blacksmith, and burned them to cinders."
+    },
+    {
+      "n": 153,
+      "lines": "320",
+      "who": "Helena",
+      "did": "一个 firewitch 被凡人的火焰吞噬",
+      "verbatim": "A firewitch consumed by mortal flames.’"
+    },
+    {
+      "n": 154,
+      "lines": "323",
+      "who": "Cynthia",
+      "did": "摇头，下巴颤抖，问「怎么会？」",
+      "verbatim": "Cynthia shook her head, her chin quivering. ‘How?’"
+    },
+    {
+      "n": 155,
+      "lines": "326",
+      "who": "Helena",
+      "did": "说老 Campbell 太太看到了她的伤口；她告诉对方爱情咒的事、说自己害怕母亲、想要姨妈",
+      "verbatim": "‘Old Mrs Campbell saw my wounds. I told her about the love spells, and that I was scared of Mother. That I wanted my aunt."
+    },
+    {
+      "n": 156,
+      "lines": "326",
+      "who": "Old Mrs Campbell / 村民",
+      "did": "她跑回村里，告诉人们有黑暗女巫混在他们中间；他们先去了母亲家",
+      "verbatim": "She ran back to the village, told the people dark witches were in our midst. They went to Mother’s house first."
+    },
+    {
+      "n": 157,
+      "lines": "326",
+      "who": "Aunt Rowan / Uncle Lachlan",
+      "did": "到那时 Rowan 姨妈和 Lachlan 姨父明白他们救不了母亲，只能救 Clio、Ellie 和 Helena，且必须行动迅速",
+      "verbatim": "By then, Aunt Rowan and Uncle Lachlan realised they couldn’t save her. Only Clio, Ellie and me, and only if they acted swiftly.’"
+    },
+    {
+      "n": 158,
+      "lines": "326",
+      "who": "Helena",
+      "did": "擦去并非有意流下的眼泪，抽了抽鼻子",
+      "verbatim": "Helena wiped the tears she had not meant to shed and sniffed."
+    },
+    {
+      "n": 159,
+      "lines": "326",
+      "who": "Helena",
+      "did": "说自己是 waterwitch，拥有雨云、河流与海洋，却唤不出巫水去浇灭火焰",
+      "verbatim": "‘I’m a waterwitch. I own the rain clouds, the rivers, and the seas. But I couldn’t call forth my witchwater to douse the flames.’"
+    },
+    {
+      "n": 160,
+      "lines": "329",
+      "who": "Cynthia",
+      "did": "说你那时只是个孩子",
+      "verbatim": "‘You were just a child.’"
+    },
+    {
+      "n": 161,
+      "lines": "332",
+      "who": "Helena",
+      "did": "说我七岁，已经大到能做点什么；我试过，但我的力量不足以阻止大火；她的喉咙沙哑生疼",
+      "verbatim": "‘I was seven. Old enough to have done something. And I tried, but my powers weren’t enough to stop the fire.’ Helena’s throat was raw."
+    },
+    {
+      "n": 162,
+      "lines": "335",
+      "who": "Cynthia",
+      "did": "说你不能怪自己，Helena",
+      "verbatim": "‘You cannot blame yourself, Helena.’"
+    },
+    {
+      "n": 163,
+      "lines": "338",
+      "who": "Helena",
+      "did": "说就是我的错！我不该告诉老 Campbell 太太，本该一直找到 Rowan 姨妈；我背叛了自己的母亲",
+      "verbatim": "‘It is my fault! I should never have told Old Mrs Campbell. I should have kept searching until I found Aunt Rowan. I betrayed my own mother.’"
+    },
+    {
+      "n": 164,
+      "lines": "341",
+      "who": "Cynthia",
+      "did": "说是她背叛了你，她在利用你",
+      "verbatim": "‘She betrayed you. She was using you.’"
+    },
+    {
+      "n": 165,
+      "lines": "344",
+      "who": "Helena",
+      "did": "Helena 知道这是真的，但责怪自己比接受母亲的背叛更容易",
+      "verbatim": "Helena knew this was true, but blaming herself was easier than accepting her mother’s treachery."
+    },
+    {
+      "n": 166,
+      "lines": "344",
+      "who": "Helena",
+      "did": "说自己一直以为 waterwitch 的天赋是女神降下的诅咒，是提醒她如何失败",
+      "verbatim": "‘I always thought my gift as a waterwitch was a curse from the goddess. A reminder of how I failed."
+    },
+    {
+      "n": 167,
+      "lines": "344",
+      "who": "Helena",
+      "did": "她弹指就能灭任何火，但当母亲在曾是他们家的火海里尖叫时，她的水化成了雾；她完全没用；抽泣夺走她的话语，她喘着气",
+      "verbatim": "I can douse any flame with no more than a flick of my fingers, and yet when my mother screamed inside the inferno that had once been our home, my water turned to mist. I was completely useless.’ Helena gasped for breath as the sobs stole her words."
+    },
+    {
+      "n": 168,
+      "lines": "347",
+      "who": "Cynthia",
+      "did": "说 Helena，你对他们的恨意而言和你母亲一样是受害者",
+      "verbatim": "‘Helena, you were just as much a victim of their hatred as your mother.’"
+    },
+    {
+      "n": 169,
+      "lines": "350",
+      "who": "Helena",
+      "did": "Cynthia 温柔的安慰只加重了 Helena 的羞耻",
+      "verbatim": "Cynthia’s soft comfort only increased Helena’s shame."
+    },
+    {
+      "n": 170,
+      "lines": "353",
+      "who": "Helena",
+      "did": "说「我是个诅咒」",
+      "verbatim": "‘I’m a curse.’"
+    },
+    {
+      "n": 171,
+      "lines": "356",
+      "who": "Cynthia / Hamlet",
+      "did": "Cynthia 门上的抓挠声加急切的呜咽转移了她们的注意；Cynthia 掀开被子、光脚走到门边、开门放进绝望的 Hamlet",
+      "verbatim": "A scratch on Cynthia’s door, followed by an insistent whine, diverted their attention. Cynthia threw back the covers, padded to the door, and opened it to let in a desperate Hamlet."
+    },
+    {
+      "n": 172,
+      "lines": "356",
+      "who": "Hamlet",
+      "did": "他尖叫一声、擦过 Cynthia（尾巴短暂卷过她的脚踝）、跳上床、用头撞 Helena 的头——狐狸版的拥抱",
+      "verbatim": "He yipped, brushed past her as his tail briefly curled around her ankles, then hopped onto the bed and bumped his head against Helena’s in a foxy version of a hug."
+    },
+    {
+      "n": 173,
+      "lines": "356",
+      "who": "Helena",
+      "did": "让手指埋进他柔软的毛里",
+      "verbatim": "Helena let her fingers dive into his soft fur."
+    },
+    {
+      "n": 174,
+      "lines": "359",
+      "who": "Cynthia / Hamlet",
+      "did": "Cynthia 跟着 Hamlet 回到自己的位置；狐狸在被子上嗅了嗅、转圈、瘫倒在两人之间——鼻子在 Helena 的肘边、尾巴在 Cynthia 的脚边",
+      "verbatim": "Cynthia followed Hamlet and reclaimed her spot. The fox snuffled at the covers before circling and slumping down between them, his nose at Helena’s elbow, his tail at Cynthia’s feet."
+    },
+    {
+      "n": 175,
+      "lines": "362",
+      "who": "Cynthia",
+      "did": "问「如果你真那么邪恶，Hamlet 会选你做他的主人吗？」并挑起一道深色眉毛；在渐暖的光线里她的皮肤像晨曦中的蜂蜜",
+      "verbatim": "‘Would Hamlet choose you as his familiar if you were so evil?’ Cynthia raised a dark brow. In the warming light, her skin looked like honey caught in dawn’s glory."
+    },
+    {
+      "n": 176,
+      "lines": "365",
+      "who": "Helena / Hamlet",
+      "did": "说「也许他是想救赎我」；忍不住伸手摸她的狐狸；他冰冷的鼻子抵上她的手腕，她挠他两耳之间",
+      "verbatim": "‘Perhaps he is trying to redeem me.’ Helena couldn’t stop herself from reaching out to pet her fox. His cold nose pressed against her wrist as she scratched between his ears."
+    },
+    {
+      "n": 177,
+      "lines": "368",
+      "who": "Cynthia",
+      "did": "问「那你打算怎么办？你告诉过我，Hubert 的罪不该由我背。虽然我甩不掉羞耻，但我在努力做点什么。你呢？」",
+      "verbatim": "‘So what do you propose? You told me I wasn’t to blame for Hubert’s crimes. And though I can’t shake the shame of it, I’m endeavouring to do something about it. What about you?"
+    },
+    {
+      "n": 178,
+      "lines": "368",
+      "who": "Cynthia",
+      "did": "问「以后我该叫你 Hexed Helena 吗？」同时把手穿过 Helena 的头发、把一缕深红卷发绕上手指轻轻拽",
+      "verbatim": "Henceforth, should I call you Hexed Helena?’ Cynthia ran her hand through Helena’s hair, winding a crimson curl around her finger and tugging gently."
+    },
+    {
+      "n": 179,
+      "lines": "368",
+      "who": "Cynthia",
+      "did": "说别傻了：你母亲极其恶劣地虐待了你，她交付真心的铁匠配不上这样珍贵的礼物；这里唯一的诅咒是相信历史必须重演",
+      "verbatim": "‘Don’t be silly. Your mother abused you. Most terribly. And the blacksmith she gave her heart to was not worthy of such a precious gift. But the only curse here is believing history must repeat itself.’"
+    },
+    {
+      "n": 180,
+      "lines": "371",
+      "who": "Helena",
+      "did": "说你还不明白吗？这正是我要避免的，这就是我们不能成为两个缠绕灵魂的原因",
+      "verbatim": "‘Don’t you see? That’s what I’m trying to avoid. It’s why we can’t be two souls, intertwined."
+    },
+    {
+      "n": 181,
+      "lines": "371",
+      "who": "Helena",
+      "did": "说我见过你最糟的时刻：你丈夫死的那天、在 Sinclair 的办公室、甚至面对 Lippert；你在最黑暗的时刻也是光、希望与爱",
+      "verbatim": "I’ve seen you in the worst of times. The day your husband died. In Sinclair’s office. Even facing off against Lippert. You are light and hope and love, even in the darkest moments."
+    },
+    {
+      "n": 182,
+      "lines": "371",
+      "who": "Helena",
+      "did": "说我不会把你和我所做之恶、我可能变成之恶缠在一起",
+      "verbatim": "I won’t tangle you together with the evil of what I’ve done. Of what I could become."
+    },
+    {
+      "n": 183,
+      "lines": "371",
+      "who": "Helena",
+      "did": "当 Lippert 威胁你时，我离用能力淹死他只差一个念头；我会杀死任何试图伤害你的人——那不是光明女巫之道",
+      "verbatim": "When Lippert threatened you, I was a thought away from drowning him with my powers. I would kill anyone who tried to hurt you. That is not the way of a light witch."
+    },
+    {
+      "n": 184,
+      "lines": "371",
+      "who": "Helena",
+      "did": "说母亲的血在我身体里流淌，爱曾把母亲扭成冰冷残酷的东西，我不能冒变成那样的险，我不会",
+      "verbatim": "My mother’s blood runs through me. Love twisted her into something cold and cruel. I can’t risk becoming like that, Cynthia. I won’t.’"
+    }
+  ],
+  "relationships_noted": [
+    {
+      "pair": "Helena ↔ Cynthia",
+      "rel": "朋友之上：Helena 坚称只能做朋友、只给这一刻；两人当晚发生性关系；Cynthia 认为无论结局如何一切都会被改变",
+      "verbatim": "‘That’s impossible. No matter how this ends, being with you will change everything between us.’",
+      "lines": "143"
+    },
+    {
+      "pair": "Helena ↔ Cynthia",
+      "rel": "Helena 不想失去这份友谊，Cynthia 同样不想失去 Helena",
+      "verbatim": "‘I don’t want to lose you as a friend.’ … Cynthia’s eyes filled with tears. ‘I don’t want to lose you either, Helena.’",
+      "lines": "149, 152"
+    },
+    {
+      "pair": "Helena ↔ Cynthia",
+      "rel": "章末 Helena 单方面宣布不能成为灵魂缠绕的一对，怕自己变成母亲那样伤害 Cynthia",
+      "verbatim": "It’s why we can’t be two souls, intertwined.",
+      "lines": "371"
+    },
+    {
+      "pair": "Helena ↔ Hamlet",
+      "rel": "Hamlet 是 Helena 的狐狸/她的 familiar 候选（她称 her fox；Cynthia 问它是否会选她做主人）",
+      "verbatim": "It was bad enough she would be wondering what Cynthia was thinking without having to wonder what her fox was saying to the woman.",
+      "lines": "65"
+    },
+    {
+      "pair": "Hamlet ↔ Helena",
+      "rel": "Hamlet 首次咬她手臂以示不满（他以前从没咬过她）",
+      "verbatim": "He perked his head up, cocked it, and nipped her arm. … ‘Hamlet!’ He’d never nipped her before.",
+      "lines": "50, 53"
+    },
+    {
+      "pair": "Hamlet ↔ Cynthia",
+      "rel": "Hamlet 尾巴卷过 Cynthia 的脚踝、躺下时尾巴在她脚边，显得亲昵",
+      "verbatim": "He yipped, brushed past her as his tail briefly curled around her ankles",
+      "lines": "356"
+    },
+    {
+      "pair": "Helena ↔ Clio",
+      "rel": "童年伙伴、本该结伴单身的「同伙」；Clio 先坠入爱河（Helena 勉强承认那男人完美适合 Clio）",
+      "verbatim": "Clio – Helena’s supposed partner in remaining single – had committed the worst crime.",
+      "lines": "68"
+    },
+    {
+      "pair": "Helena ↔ Ellie",
+      "rel": "童年同床密友；Ellie 是无药可救的浪漫派，Helena 断定她会步 Clio 后尘",
+      "verbatim": "Ellie was sure to follow on her heels. She was a hopeless romantic who saw a dashing hero in every milksop swain.",
+      "lines": "68"
+    },
+    {
+      "pair": "Helena ↔ 母亲（Mother）",
+      "rel": "母亲为爱情药水偷取幼年 Helena 的血（虐待）；Helena 却因告发母亲致其被烧死而自责",
+      "verbatim": "It was Mother with a sacred blade in her hand.",
+      "lines": "290"
+    },
+    {
+      "pair": "母亲 ↔ 铁匠（blacksmith）",
+      "rel": "母亲把心交给铁匠，铁匠觊觎她的能力可换财富；两人被村民锁在一起烧死",
+      "verbatim": "The man she gave her heart to was a blacksmith in our village.",
+      "lines": "266"
+    },
+    {
+      "pair": "母亲 ↔ Blair 女巫誓约/coven",
+      "rel": "母亲选择铁匠、违背「不作伤害」的誓约与只行光明魔法的承诺",
+      "verbatim": "She chose him over her own coven. Over her commitment to only work in light magic.’",
+      "lines": "278"
+    },
+    {
+      "pair": "Helena ↔ Aunt Rowan",
+      "rel": "Rowan 姨妈有一个被 Helena 斥为荒唐（barmy）的假说；火灾夜 Rowan 与 Lachlan 只能救走三个孩子",
+      "verbatim": "Because Aunt Rowan’s hypothesis is completely barmy.",
+      "lines": "59"
+    },
+    {
+      "pair": "Aunt Rowan ↔ Uncle Lachlan",
+      "rel": "两人共同判断救不了母亲，只能救 Clio、Ellie 和 Helena",
+      "verbatim": "By then, Aunt Rowan and Uncle Lachlan realised they couldn’t save her.",
+      "lines": "326"
+    },
+    {
+      "pair": "Helena ↔ Old Mrs Campbell",
+      "rel": "Campbell 太太接住了逃跑流血的 Helena；随后她回村报信引来烧屋的村民——Helena 因此认为自己背叛了母亲",
+      "verbatim": "Old Mrs Campbell caught me right before I fell on my knees.",
+      "lines": "305"
+    },
+    {
+      "pair": "Helena ↔ Willow",
+      "rel": "Helena 自称惩罚过 Willow，其严重性超过母亲对她的虐待（本章未解释 Willow 是谁）",
+      "verbatim": "Whatever her mother had done to her was nothing compared to how Helena punished Willow.",
+      "lines": "311"
+    },
+    {
+      "pair": "Cynthia ↔ Hubert",
+      "rel": "Helena 曾告诉 Cynthia：Hubert 的罪不该由她背；Cynthia 仍带羞耻但在努力补救",
+      "verbatim": "You told me I wasn’t to blame for Hubert’s crimes.",
+      "lines": "368"
+    },
+    {
+      "pair": "Cynthia ↔ 亡夫",
+      "rel": "Cynthia 的丈夫已死（死的具体情形本章未讲），Helena 见证过那一天",
+      "verbatim": "I’ve seen you in the worst of times. The day your husband died.",
+      "lines": "371"
+    },
+    {
+      "pair": "Helena ↔ Lippert",
+      "rel": "Lippert 曾威胁 Cynthia，Helena 自称当时离用能力淹死他只差一个念头",
+      "verbatim": "When Lippert threatened you, I was a thought away from drowning him with my powers.",
+      "lines": "371"
+    },
+    {
+      "pair": "Aunt Aspen ↔ 她的心/命运",
+      "rel": "Aspen 姨妈追随她的心走向其「终极死亡」（本章未展开）",
+      "verbatim": "But then Aunt Aspen left to follow her heart to its ultimate death.",
+      "lines": "266"
+    },
+    {
+      "pair": "母亲 ↔ Helena 之父",
+      "rel": "只在 Edinburgh 的 Samhain 庆典共度一夜——他不是铁匠",
+      "verbatim": "Not with my father – they only spent one night together at the Samhain celebrations in Edinburgh.",
+      "lines": "266"
+    }
+  ],
+  "numbers_verbatim": [
+    {
+      "n": "三圈（Hamlet 转圈）",
+      "verbatim": "circled three times before resettling",
+      "lines": "38"
+    },
+    {
+      "n": "一百万段记忆（夸张）",
+      "verbatim": "a million memories spilled forth",
+      "lines": "68"
+    },
+    {
+      "n": "一只乳房滑出",
+      "verbatim": "One breast spilled out",
+      "lines": "80"
+    },
+    {
+      "n": "半夜（Cynthia 语）",
+      "verbatim": "‘Now? It’s still the middle of the night.’",
+      "lines": "110"
+    },
+    {
+      "n": "黎明的边缘（Helena 语）",
+      "verbatim": "‘Not quite. We’re on the edge of dawn.’",
+      "lines": "113"
+    },
+    {
+      "n": "先一边、再另一边（吮咬乳房）",
+      "verbatim": "she laved, suckled, and nibbled one side, then the other",
+      "lines": "188"
+    },
+    {
+      "n": "第一次高潮、第二次",
+      "verbatim": "Cynthia rocked her past the first orgasm and eased her into the second",
+      "lines": "227"
+    },
+    {
+      "n": "一根手指、再一根",
+      "verbatim": "Cynthia pushed a finger into her aching channel, then another",
+      "lines": "233"
+    },
+    {
+      "n": "天空从黑到靛蓝（破晓时刻）",
+      "verbatim": "the sun was just beginning to warm the skies from black to indigo",
+      "lines": "35"
+    },
+    {
+      "n": "天空从靛蓝到更淡的蓝（时间推移）",
+      "verbatim": "The sky had drifted from indigo to a much paler blue",
+      "lines": "260"
+    },
+    {
+      "n": "一夜（Samhain 庆典，父母）",
+      "verbatim": "they only spent one night together at the Samhain celebrations in Edinburgh",
+      "lines": "266"
+    },
+    {
+      "n": "相识多年（母亲与铁匠）",
+      "verbatim": "They had known each other for years",
+      "lines": "266"
+    },
+    {
+      "n": "先是偶尔一夜，后来几乎夜夜",
+      "verbatim": "At first, it was one night here and there, then it was most nights",
+      "lines": "266"
+    },
+    {
+      "n": "三种魔法",
+      "verbatim": "‘There are three kinds of magic. Light magic, dark magic, and blood magic.",
+      "lines": "284"
+    },
+    {
+      "n": "七岁（火灾时 Helena 的年龄）",
+      "verbatim": "‘I was seven. Old enough to have done something.",
+      "lines": "332"
+    },
+    {
+      "n": "只救三个孩子：Clio、Ellie 和我",
+      "verbatim": "Only Clio, Ellie and me, and only if they acted swiftly.",
+      "lines": "326"
+    },
+    {
+      "n": "两个缠绕的灵魂",
+      "verbatim": "It’s why we can’t be two souls, intertwined.",
+      "lines": "371"
+    },
+    {
+      "n": "只差一个念头",
+      "verbatim": "I was a thought away from drowning him with my powers",
+      "lines": "371"
+    },
+    {
+      "n": "只是个孩子（Cynthia 两次强调）",
+      "verbatim": "You were just a child.",
+      "lines": "302, 329"
+    }
+  ],
+  "unresolved_in_source": [
+    {
+      "id": "U1",
+      "q": "Aunt Rowan 的「假说」具体内容是什么，本章始终没有正面交代（只有 Helena 斥其 barmy、要解释她为何错，以及「entangled spiritual couple」的暗示）",
+      "evidence": "`59` ‘Because Aunt Rowan’s hypothesis is completely barmy.’——假说本身从未被陈述，只有评价；`248` 的 spiritual couple 也只是 Helena 要否认的说法，不等于假说原文",
+      "lines": "59, 248, 254"
+    },
+    {
+      "id": "U2",
+      "q": "Helena 对 Hamlet 说的「誓」（vow）是什么、向谁立的，本章未交代",
+      "evidence": "`47` ‘But I made a vow, Hamlet.’——只说立过誓，誓的内容留白",
+      "lines": "47"
+    },
+    {
+      "id": "U3",
+      "q": "Willow 是谁/是什么、Helena 怎样「惩罚」了 Willow，本章完全没有解释",
+      "evidence": "`311` Whatever her mother had done to her was nothing compared to how Helena punished Willow.——单句提及，无任何上下文",
+      "lines": "311"
+    },
+    {
+      "id": "U4",
+      "q": "Hubert 是谁、犯了什么罪、为何 Cynthia 觉得自己有份，本章未交代（属前文事件）",
+      "evidence": "`368` You told me I wasn’t to blame for Hubert’s crimes.——只回指 Helena 之前的安慰，Hubert 其人其事不在本章",
+      "lines": "368"
+    },
+    {
+      "id": "U5",
+      "q": "Sinclair 是谁、其办公室里发生过什么，本章未交代",
+      "evidence": "`371` In Sinclair’s office.——仅作为「最糟时刻」的地名式提及",
+      "lines": "371"
+    },
+    {
+      "id": "U6",
+      "q": "Lippert 是谁、他怎样威胁 Cynthia、事件如何收场，本章未交代",
+      "evidence": "`371` Even facing off against Lippert. … When Lippert threatened you, I was a thought away from drowning him with my powers.——只有回指",
+      "lines": "371"
+    },
+    {
+      "id": "U7",
+      "q": "Cynthia 丈夫死亡的情形（时间、原因）本章未交代",
+      "evidence": "`371` The day your husband died.——只确认他已死及 Helena 在场",
+      "lines": "371"
+    },
+    {
+      "id": "U8",
+      "q": "「Ellie 在撒谎」——Ellie 到底说过什么谎（推测是关于房间远近/隔音），本章没有复述",
+      "evidence": "`185` ‘Shh. Ellie was lying. They aren’t that far away, and the walls are thinner than you think.’——谎言内容要靠读者倒推",
+      "lines": "185"
+    },
+    {
+      "id": "U9",
+      "q": "火灾夜的救援过程（Rowan/Lachlan 如何把 Clio、Ellie、Helena 带出）、火灾善后与 Helena 此后的抚养安排，本章只有概述没有展开",
+      "evidence": "`326` Only Clio, Ellie and me, and only if they acted swiftly.’——「acted swiftly」的具体行动留白",
+      "lines": "326"
+    },
+    {
+      "id": "U10",
+      "q": "Aunt Aspen「追随她的心走向其终极死亡」具体指什么（去了哪、结局如何），本章未交代",
+      "evidence": "`266` But then Aunt Aspen left to follow her heart to its ultimate death.——措辞含混，未展开",
+      "lines": "266"
+    },
+    {
+      "id": "U11",
+      "q": "Helena 的父亲是谁、是否知道 Helena 存在，本章只有一夜情的信息",
+      "evidence": "`266` Not with my father – they only spent one night together at the Samhain celebrations in Edinburgh.——父亲身份止步于此",
+      "lines": "266"
+    },
+    {
+      "id": "U12",
+      "q": "Hamlet 为何/如何能「穿透她的 shields」、familiar 联结的机制，本章未解释",
+      "evidence": "`62` Hamlet’s golden eyes cut past her shields, piercing deep.——现象呈现，机制留白",
+      "lines": "62"
+    },
+    {
+      "id": "U13",
+      "q": "Cynthia 对 Helena 章末拒绝（不能成为缠绕灵魂）的回应没有写出——全章止于 Helena 的独白",
+      "evidence": "`371` My mother’s blood runs through me. … I can’t risk becoming like that, Cynthia. I won’t.’——文件到 Helena 说完即结束，无 Cynthia 回话",
+      "lines": "371"
+    },
+    {
+      "id": "U14",
+      "q": "母亲与铁匠的「爱情药水」生意规模、受害者有哪些人，本章未列出（只说人们会为爱破产）",
+      "evidence": "`278` Because people would bankrupt themselves for love.——泛指，无具体受害者",
+      "lines": "278"
+    }
+  ],
+  "traps_noted": [
+    {
+      "id": "T1",
+      "trap": "L35「Squinting at the window, the sun was just beginning…」是悬垂分词：语法主语成了 the sun（太阳在眯眼）。实际眯眼的是 Helena。误判后果：把「眯眼看窗」写成太阳的动作，或据此认为 Helena 没看窗。",
+      "lines": "35"
+    },
+    {
+      "id": "T2",
+      "trap": "L38「his nest on her bed」——窝在 Helena 的床上（her=Helena），不是 Hamlet 自己的窝；「rested his head on her thigh」的 her 也是 Helena。误判后果：把床归属写错，或以为 Hamlet 头搁在 Cynthia 腿上。",
+      "lines": "38"
+    },
+    {
+      "id": "T3",
+      "trap": "L50/53 咬手臂的是 Hamlet，且「He’d never nipped her before」——首次发生。误判后果：写成 Hamlet 惯常咬人，或把咬人安到 Cynthia 头上（后文确有她 nipping the pad）。",
+      "lines": "50, 53"
+    },
+    {
+      "id": "T4",
+      "trap": "L59「Or what she is thinking?」的 she 指 Cynthia（Helena 想听的两个人：Hamlet 与 Cynthia）。误判后果：把心声对象错认成 Clio 或 Ellie，进而错解 Helena 去找谁。",
+      "lines": "59"
+    },
+    {
+      "id": "T5",
+      "trap": "L68「Pausing outside Clio’s door, a million memories spilled forth」双重陷阱：①悬垂分词（语法主语是 memories）；②停在的是 Clio 的门，但接下来 L77 推开的门里躺着 Cynthia——原文没写她从 Clio 门口移到 Cynthia 门口。误判后果：以为 Cynthia 睡在 Clio 房间，或把 Clio 与 Cynthia 混为一人。",
+      "lines": "68, 74, 77"
+    },
+    {
+      "id": "T6",
+      "trap": "L68「mothers who had sacrificed themselves on the altar of love」是 Helena/Clio/Ellie 童年时对母亲们的抱怨式评价，不是本章陈述的事实；而 Helena 自己母亲的真实故事（为铁匠背叛、偷女儿血）与「为爱牺牲」并不相同。误判后果：把这句当作 Helena 母亲的定论，与后文虐待叙述冲突。",
+      "lines": "68"
+    },
+    {
+      "id": "T7",
+      "trap": "L68「a man that Helena begrudgingly admitted was perfect for her」——her 指 Clio。误判后果：写成「Helena 承认那男人适合她自己」，三人关系全错。",
+      "lines": "68"
+    },
+    {
+      "id": "T8",
+      "trap": "L77「watched her intentions be swept away」是被动+比喻：被冲走的是 Helena「只做朋友、解释清楚」的意图。误判后果：写成 Helena 按计划完成了「解释」——她实际一句话没解释就上床了，「解释」推迟到 L254 之后。",
+      "lines": "77"
+    },
+    {
+      "id": "T9",
+      "trap": "L83「Bloody hell. I want her.」是无引号第一人称心声，属 Helena。误判后果：心声错置给 Cynthia（Cynthia 此时还在睡），整段欲望视角颠倒。",
+      "lines": "83"
+    },
+    {
+      "id": "T10",
+      "trap": "L86「draping it over Cynthia’s body」——是 Helena 给 Cynthia 盖毯子；L95「the coverlet falling off her」的 her=Cynthia。误判后果：写成 Cynthia 自己拉毯遮体（她当时未醒），或把 L101 Cynthia 拉的 blanket 与 Helena 盖的 coverlet 混为一物。",
+      "lines": "86, 95, 101"
+    },
+    {
+      "id": "T11",
+      "trap": "L95/98「she nearly slammed her head into Helena’s chin」——猛坐起的是 Cynthia，差点撞上的是 Helena 的下巴；随后「Helena reared back and landed on her arse」摔到地上的是 Helena。误判后果：把摔倒安到 Cynthia 头上，L101「intruder was heaped on the hooked rug」（intruder=Helena）就全读反。",
+      "lines": "95, 98, 101"
+    },
+    {
+      "id": "T12",
+      "trap": "L116 一句里四个 she：「If she knew how enticing she looked … she wouldn’t relax so easily in Helena’s presence」——三个 she 全是 Cynthia，且整句是 Helena 的揣测而非事实。误判后果：写成 Cynthia 自知诱人（原文恰是「她若知道就不会这么放松」），人物心态反转。",
+      "lines": "116"
+    },
+    {
+      "id": "T13",
+      "trap": "L134「Tipping her chin up like a defiant goddess, she nodded. ‘Yes.’」——she 是 Cynthia（回答 L131 Helena 的「Now?」）。误判后果：把「现在就要」的应允安到 Helena 头上，主动/被动关系颠倒。",
+      "lines": "131, 134"
+    },
+    {
+      "id": "T14",
+      "trap": "L140「That’s all this is. All this can ever be.」是无引号心声，属 Helena（她不许欲望被误认成更多，见 L137）；而 L143 Cynthia 口头反驳「That’s impossible」。误判后果：把心声当成两人共识，或当成 Cynthia 的话——两人的立场其实相反。",
+      "lines": "137, 140, 143"
+    },
+    {
+      "id": "T15",
+      "trap": "L170「‘If you want me stop…’」原文就没有 to（印刷如此）。误判后果：抄录/校对时「顺手修正」成 me to stop，verbatim 校验即失真。",
+      "lines": "170"
+    },
+    {
+      "id": "T16",
+      "trap": "L185「They aren’t that far away」的 they 指 Aunt Rowan 和 Ellie（L182 刚提到两人）；「Ellie was lying」回指本章之前的对话，谎言内容不在本章。误判后果：把 they 写成 Helena 与 Cynthia，或臆断 Ellie 谎言的具体内容。",
+      "lines": "182, 185"
+    },
+    {
+      "id": "T17",
+      "trap": "L191「twisting so she was on top」——翻身到上面的是 Cynthia；L194「‘It’s just a birthmark.’」是 Helena 说的，星形胎记长在 Helena 的胸骨上（Her thumbs paused on Helena’s sternum）。误判后果：胎记归到 Cynthia 身上，或体位写反。",
+      "lines": "191, 194"
+    },
+    {
+      "id": "T18",
+      "trap": "L197「Leaning forward, Cynthia’s hair tickled Helena」悬垂分词：语法上是「头发在俯身」。实际俯身亲吻的是 Cynthia，被亲的是 Helena 的印记。误判后果：动作主体错置。",
+      "lines": "197"
+    },
+    {
+      "id": "T19",
+      "trap": "L200「They weren’t as full as Cynthia’s. Her nipples were a brighter red, the same colour as her star」——They/Her/her 全指 Helena 的胸与乳尖（her star=Helena 的胎记）。误判后果：把「较红、与星同色」的特征安到 Cynthia 身上，身体描写整体错位。",
+      "lines": "200"
+    },
+    {
+      "id": "T20",
+      "trap": "L203/287 hazel eyes 与 L362 dark brow、L206/317 mahogany 头发都是 Cynthia；L35 copper curls、L368 crimson curl 是 Helena。误判后果：外貌特征张冠李戴（尤其「mahogany falling around her like autumn leaves」易误读成 Helena 的头发）。",
+      "lines": "203, 206, 287, 317, 362, 368"
+    },
+    {
+      "id": "T21",
+      "trap": "全章性爱段落的方向性极易写反：Helena 原计划是让 Cynthia 体验/给她口（L209「She was supposed to be showing Cynthia the glory of sexual congress」、L242「‘I was supposed to bring you to climax.’」），但 L191「‘My turn.’」之后实际被带上高潮的一直是 Helena（L227/233 都是 Cynthia 让她高潮）。误判后果：把「谁给谁快感」写反，L236 Cynthia 的「giving pleasure could be so… empowering」也就无法理解。",
+      "lines": "191, 209, 227, 233, 236, 242"
+    },
+    {
+      "id": "T22",
+      "trap": "L224「She reached down between them」的 She=Cynthia（承接她的 demand），被探索的是 Helena。误判后果：探索者/被探索者对调，与上一条叠加会把整段主客体全反。",
+      "lines": "224"
+    },
+    {
+      "id": "T23",
+      "trap": "L230「‘Stop. Please. You must…’」——喊停的是 Helena，但 L233 Cynthia 明说「There you go, trying to tell me what to do again」并把这当命令不予理会（作为惩罚变本加厉）；「停止」并未被服从。误判后果：写成 Cynthia 应声停手，随后情节全部错位。",
+      "lines": "230, 233"
+    },
+    {
+      "id": "T24",
+      "trap": "L233「the woman showed mercy」与 L236「Cynthia’s proper word」——the woman=Cynthia；「Gracious!」是 Cynthia 的惊叹，不是 Helena 的。误判后果：感叹归属错人；「proper word」是叙述评点 Cynthia 用词考究，不是 Helena 说的。",
+      "lines": "233, 236"
+    },
+    {
+      "id": "T25",
+      "trap": "L266「Not with my father」——黑铁匠不是 Helena 的父亲；父亲只是 Samhain 一夜情对象。误判后果：把铁匠写成 Helena 生父，L290「It was Mother with a sacred blade」的虐待者与血缘关系全变。",
+      "lines": "266, 290"
+    },
+    {
+      "id": "T26",
+      "trap": "L278「or the desires of another」——意志可被屈从于「自己或他人（买药人）」的欲望；药水到底产生爱情还是支配（thrall），Helena 自己说不知道。误判后果：写成原文确认药水制造真爱情，或删掉「另一种欲望」的买主维度。",
+      "lines": "278"
+    },
+    {
+      "id": "T27",
+      "trap": "L284「blood magic … can be used in both light and dark spells」——血魔法本身不专属黑暗；母亲之罪在于用「非自愿的血」。误判后果：写成「血魔法=黑魔法」，整个三分类体系被简化掉，也错解 Helena 为何自责却又被 Cynthia 开解。",
+      "lines": "284"
+    },
+    {
+      "id": "T28",
+      "trap": "L305「She must have been on her way back from the market」是 Helena 对 Campbell 太太当时行踪的推测（must have been），不是叙述者确证。误判后果：把推测写成事实。",
+      "lines": "305"
+    },
+    {
+      "id": "T29",
+      "trap": "L314「Anger grew. Not at Cynthia. But at herself.」——愤怒的对象是 Helena 自己。误判后果：写成 Helena 对 Cynthia 发火，随后「Don’t waste a single tear on me」的语气与 L317 Cynthia「stung」的反应都会被错解。",
+      "lines": "314, 317"
+    },
+    {
+      "id": "T30",
+      "trap": "L320「locked her inside with the blacksmith」——被锁在屋里的是母亲与铁匠两人，锁人的是村民（villagers swarmed… locked… burned）。误判后果：漏掉铁匠同死，或把锁门安到 Rowan/Lachlan 头上。",
+      "lines": "320"
+    },
+    {
+      "id": "T31",
+      "trap": "L326「I told her about the love spells, and that I was scared of Mother. That I wanted my aunt.」——告诉 Campbell 太太的是 Helena 本人；「She ran back to the village」的 She 换成 Campbell 太太。误判后果：报信人写错，Helena 的自责逻辑（L338「I betrayed my own mother」）就断了。",
+      "lines": "326, 338"
+    },
+    {
+      "id": "T32",
+      "trap": "L326「Aunt Rowan and Uncle Lachlan realised they couldn’t save her」——救不了的 her=母亲；能救的只有三个孩子。误判后果：写成 Rowan/Lachlan 无力救孩子，事实恰相反。",
+      "lines": "326"
+    },
+    {
+      "id": "T33",
+      "trap": "L344「my water turned to mist」——失效的是 Helena 的巫水；她平时「弹指灭任何火」。误判后果：写成母亲（firewitch）的水化雾，或写成 Helena 从未有灭火能力，L353「I’m a curse」的分量即失。",
+      "lines": "344, 353"
+    },
+    {
+      "id": "T34",
+      "trap": "L356 尾巴卷过脚踝的对象是 Cynthia（opened it… brushed past her as his tail briefly curled around her ankles，her=Cynthia）；L359 鼻子在 Helena 肘边、尾巴在 Cynthia 脚边。误判后果：狐狸的方位与亲昵对象写反。",
+      "lines": "356, 359"
+    },
+    {
+      "id": "T35",
+      "trap": "L362「Would Hamlet choose you as his familiar if you were so evil?」是 Cynthia 对 Helena 的反问（你=Helena）；familiar 的主人是 Helena。误判后果：问话方向或 familiar 归属颠倒，L365「Perhaps he is trying to redeem me」的答话就接不上。",
+      "lines": "362, 365"
+    },
+    {
+      "id": "T36",
+      "trap": "L368 一段内说话人两次转换：「‘So what do you propose? … What about you? Henceforth, should I call you Hexed Helena?’」是 Cynthia；中间「Cynthia ran her hand through Helena’s hair」是动作叙述；「‘Don’t be silly. …』」又是 Cynthia 自答自话。误判后果：把 Hexed Helena 的绰号安给 Helena 自称，或把「Don’t be silly」误归 Helena。",
+      "lines": "368"
+    },
+    {
+      "id": "T37",
+      "trap": "L371「I’ve seen you in the worst of times」的 you=Cynthia；「Even facing off against Lippert」是 Cynthia 面对 Lippert，而「When Lippert threatened you」中 Helena 想淹死的是 Lippert。误判后果：把「对抗 Lippert」写成 Helena 的战绩，或把「威胁」的受害者搞错。",
+      "lines": "371"
+    },
+    {
+      "id": "T38",
+      "trap": "L371 全章以 Helena 独白结束（I won’t.’），文件里没有 Cynthia 的任何回应。误判后果：分析时臆造「Cynthia 答应了/反驳了」，给未写出的情节下结论。",
+      "lines": "371"
+    }
+  ]
+}

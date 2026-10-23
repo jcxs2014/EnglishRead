@@ -1,371 +1,1833 @@
 {
-  "chapter": "ch18",
-  "slug": "the-hexing-miss-helena-by-darcy-mcguire",
-  "source": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch18_chapter_18.txt",
-  "source_lines": 399,
-  "read_discipline": "先素读：仅读 text/ch18_chapter_18.txt（已分两段读完 399 行），未打开 ch18 md、未看该章总览。盲点声明：ch18 曾在写作期的总览事实核查中被读过，故本章非完全盲读；其价值在于「对照前先固定事实」。",
-  "sampling_reason": "对话密集章型（全章 1065 处引号，quoted dialogue 占比最高）＋ 重述／前情章型（Lippert 家世、Hubert 恶行、怀特的死因线索集中在此章）",
-  "line_ref_convention": "行号为 text/ch18_chapter_18.txt 的 1 基行号；引文逐字抄录",
-  "events": [
-    {
-      "n": 1,
-      "who": "海伦娜／辛西娅",
-      "did": "海伦娜推着辛西娅走进乔治·利珀特家那间兼作客厅、饭厅、卧室的破屋子（至少住着他两个孩子中的两个）",
-      "lines": "35",
-      "verbatim": "Helena put her hand on the small of Cynthia’s back, pushing her into the dingy room that served as parlour, dining room, and bedroom for at least two of George Lippert’s many children."
-    },
-    {
-      "n": 2,
-      "who": "海伦娜（内心）",
-      "did": "想：辛克莱列「可能杀死休伯特的人」时想到利珀特；休伯特「最为恶劣地」虐待莉莉，随后辞退她、让她身无分文地回切普赛德；若利珀特没试图杀过休伯特，她才意外",
-      "lines": "38",
-      "verbatim": "No wonder Sinclair thought of him when he was listing men who might have murdered Hubert Burrows. … there was no doubt Hubert had abused Lily most grievously. Then terminated her employment and sent her scuttling back to Cheapside with nothing. Helena would be more surprised if Lippert hadn’t tried to kill Hubert."
-    },
-    {
-      "n": 3,
-      "who": "海伦娜／利珀特",
-      "did": "海伦娜开口报上身份：「你必须是乔治·利珀特，我们来是为了关于莉莉的一件非常重要的事」；并明确此行目的未变——仍需查明乔治是否杀了休伯特",
-      "lines": "41",
-      "verbatim": "‘You must be George Lippert. We’re here on a very important matter regarding Lily.’ Nothing about their mission had changed. They still needed to determine if George had killed Hubert."
-    },
-    {
-      "n": 4,
-      "who": "利珀特／莉莉",
-      "did": "利珀特向辛西娅道歉「我都不知道该怎么告诉您」；莉莉在旁看着辛西娅；利珀特骂辛西娅「你不欠这婊子任何东西」",
-      "lines": "44-50",
-      "verbatim": "Helena shifted to the left, keeping her gaze on the man as his daughter watched Cynthia. … ‘I’m so sorry, Lady Burrows. I didn’t know how to tell ye.’ … ‘You owe this bitch nothing!’ Lippert spat the words at Cynthia."
-    },
-    {
-      "n": 5,
-      "who": "海伦娜",
-      "did": "从空气里取水在手心凝成水球，一个念头就能变成水矛劈开利珀特；她明知眼睛会由灰转银、对方会看见眼中发光，但不在乎——她要杀掉任何敢碰辛西娅的男人",
-      "lines": "53-56",
-      "verbatim": "Helena felt her power swell. … she pulled water from the air to form a sphere in her palm. With one thought, that sphere could turn into a spear of water that would cleave Lippert in two. … She knew her eyes would be changing from grey to silver. … She would kill George Lippert before she let him put a hand on her woman."
-    },
-    {
-      "n": 6,
-      "who": "海伦娜（内心）",
-      "did": "「不伤害。我发过誓。而且她不是我的女人」——想起自己立下的不伤害誓言，并划清「我的女人」与「辛西娅」的界线",
-      "lines": "62",
-      "verbatim": "Do no harm. I made an oath. And she isn’t my woman."
-    },
-    {
-      "n": 7,
-      "who": "海伦娜（说话人待定）",
-      "did": "仍向前一步，撂下话「你最好记住你是在跟一位侯爵夫人说话，否则我会提醒你礼貌」；随后利珀特看向海伦娜并僵住（他看见了她身上脉动的力量）",
-      "lines": "65-71",
-      "verbatim": "But that didn’t stop her from stepping forward. ‘You will remember you are speaking to a marchioness, or I will be forced to remind you of your manners.’ Steel infused her voice. … Lippert flicked his gaze to Helena and froze. No doubt he saw the power pulsing through her."
-    },
-    {
-      "n": 8,
-      "who": "莉莉／利珀特／辛西娅",
-      "did": "莉莉要父亲坐下，说「布尔洛斯夫人自我上岗以来对我只有 kindness」「发生的这一切不是她的错」；利珀特骂是「她丈夫」害莉莉怀了孕，辛西娅站在一边看着他虐待女儿",
-      "lines": "74-77",
-      "verbatim": "‘Father, sit down.’ Lily frowned at Lippert, her small frame hardening as she gripped his arm. ‘Lady Burrows has been nothing but kind to me since I got my post. What happened was none of her doing.’ … ‘It was ’er husband what put that babe in yer belly. She stood by and let ’im abuse you like a common whore.’"
-    },
-    {
-      "n": 9,
-      "who": "辛西娅／海伦娜",
-      "did": "辛西娅脸色死白，伸手拉住海伦娜的胳膊把她拽回去，说「别」并承认「他说得对」；海伦娜怒斥「这不是你做的」",
-      "lines": "80-86",
-      "verbatim": "Before she could punish the man for his cruel words, Cynthia reached out and gripped her arm, pulling her back. … ‘Don’t.’ She exhaled a shaky breath. ‘He’s right.’ … ‘You didn’t do this,’ she hissed, willing Cynthia to listen to reason."
-    },
-    {
-      "n": 10,
-      "who": "辛西娅／莉莉",
-      "did": "辛西娅自认「我也没有阻止」，并说结婚那整整十年面对这种恶兽；她走过去握住莉莉的双手请求原谅；莉莉说「他本该自己阻止自己」",
-      "lines": "89-92",
-      "verbatim": "‘Nor did I stop it.’ … ‘Or even see what was right under my nose the whole ten bloody years I was married to such an evil creature.’ … ‘Please forgive me. I should have known. I should have stopped him.’ … ‘’e should ’ave stopped ’imself.’ Lily’s lips trembled, but her voice was strong."
-    },
-    {
-      "n": 11,
-      "who": "莉莉／辛西娅",
-      "did": "莉莉说责任是丈夫自己的选择、该由他来付；她自己也做过选择——只是怕丢工作，结果工作照样丢了，「我是个傻瓜」；辛西娅说她不是傻瓜，休伯特是个混蛋恶棍，狠狠地伤害了她",
-      "lines": "98-101",
-      "verbatim": "‘You can’t shoulder the blame of yer ’usband’s choices. They were ’is to make, and ’is to pay for. I made choices too. Not that I weren’t scared if I didn’t, I’d lose me job.’ Her dry laugh held no joy. ‘Fool that I am. I lost it anyway.’ … ‘You are no fool. Hubert is a bastard and a scoundrel. He hurt you most grievously.’"
-    },
-    {
-      "n": 12,
-      "who": "莉莉／利珀特",
-      "did": "莉莉忍住没掉一滴泪，说自己不会是第一个也不会是最后一个因为像布尔洛斯勋爵那样的男人而陷入困境的切普赛德女孩；父亲咆哮「他根本不是个男人，不配你为他掉一滴泪」",
-      "lines": "104-107",
-      "verbatim": "‘Aye. ’e did that. But I’m not the first, nor will I be the last girl from Cheapside ’oo finds ’erself in a bind because of men like Lord Burrows.’ … ‘’e’s no man, and ’e doesn’t deserve a single one of yer tears,’ her father growled."
-    },
-    {
-      "n": 13,
-      "who": "辛西娅",
-      "did": "承诺「我会保证你日后生活有着落」；说她那混账丈夫欠下的是一笔还不起的债，远超她能给的，但她能提供钱",
-      "lines": "113",
-      "verbatim": "‘I promise you’ll be provided for after what you’ve suffered.’ … ‘My bastard of a husband owes you an unpayable debt, far more than I can give. But money I can provide.’"
-    },
-    {
-      "n": 14,
-      "who": "利珀特／辛西娅",
-      "did": "利珀特拒绝施舍（「我们不要你那些慈善」），大步逼近、掰开莉莉与辛西娅相握的手、手指戳向辛西娅胸口，说她一生都要背着丈夫行为的污点，多少钱也补不了",
-      "lines": "116-119",
-      "verbatim": "‘We don’t want yer charity, Mrs ’igh-and-Mighty. You lot ’ave done enough.’ … He grabbed Cynthia’s hands and wrenched them from his daughter’s. ‘Leave me girl alone.’ He leaned closer, his finger jabbing into her chest with blunt force. ‘She’ll carry the stain of your ’usband’s actions for the rest of ’er life. No amount of money can fix that.’ … Cynthia stepped back, rubbing where his finger had poked."
-    },
-    {
-      "n": 15,
-      "who": "海伦娜",
-      "did": "警告「再碰她一次，你就活不到那个孩子出生」；心里说明自己是光明女巫、从不把魔法用于暴力、与女巫团立过不伤害的誓言，但只要手腕一抖就能毁掉这个男人；水带来生命也能带来死亡",
-      "lines": "122",
-      "verbatim": "‘Touch her again, and you won’t live long enough to see that baby born.’ … She was a light witch. She never used her magic for violence. She had taken an oath with her coven to do no harm. But it would only take a flick of her wrists to destroy this man. Water brought life, but it could also herald death."
-    },
-    {
-      "n": 16,
-      "who": "海伦娜（内心）",
-      "did": "「女神啊，我正在变得和她一模一样」；这是几个小时内第二次感到母亲的「病」在自己血里涌；她意识到把魔法拧成残忍致命之力太容易，可以不管休伯特的谋杀案而先毁掉利珀特",
-      "lines": "125-128",
-      "verbatim": "Dear goddess, I’m becoming just like her. … It was the second time in as many hours she felt her mother’s sickness in her blood. It would be so easy to twist her magic into something cruel and lethal. To focus on destroying Lippert instead of trying to solve Hubert’s murder and free Cynthia from this hideous mess."
-    },
-    {
-      "n": 17,
-      "who": "海伦娜（内心）",
-      "did": "自认「她对这女人着迷得过了头，这是不可饶恕的」；攥紧拳头收住力量，不让情绪主宰",
-      "lines": "131-134",
-      "verbatim": "She was becoming far too infatuated with the woman. It was unforgiveable. … Clenching her fist and reining in her power, she refused to let her emotions hold sway when they were as volatile as a violent sea."
-    },
-    {
-      "n": 18,
-      "who": "利珀特（内心）／海伦娜",
-      "did": "利珀特看向海伦娜，脸由红转白，心想「她就是魔鬼本人」；恐惧放大他的思绪，海伦娜听得见",
-      "lines": "137-143",
-      "verbatim": "Lippert swung his head to Helena. Whatever he saw in her face caused his cheeks to pale from ruddy red to ghostly white. … She’s the very Devil! … Fear amplified his thoughts, making them easy to hear."
-    },
-    {
-      "n": 19,
-      "who": "辛西娅／利珀特（内心）",
-      "did": "辛西娅当面质问「是不是因为他对莉莉做的事，所以你杀了休伯特」；她毫不退缩地面对比她大三倍的男人；利珀特心里想「她能知道什么」",
-      "lines": "146-152",
-      "verbatim": "‘Is that why you did it? Is that why you killed Hubert? Because of what he did to Lily?’ … She faced him, brave as any soldier readying to battle a man thrice her size. And just as stubbornly stupid. … What can she possibly know?"
-    },
-    {
-      "n": 20,
-      "who": "莉莉",
-      "did": "惊呼落泪，哀求父亲「你没有杀他吧，他的命不值你的命」",
-      "lines": "155",
-      "verbatim": "‘Father, you didn’t. Please tell me that you didn’t kill ’im. ’is life isn’t worth yours.’"
-    },
-    {
-      "n": 21,
-      "who": "海伦娜（读心）",
-      "did": "确信利珀特像任何好父亲一样想保护女儿、让她幸福，而休伯特的死恰好两样都做到了；她探进他内心，看到他对辛西娅的憎恨、对休伯特更深的憎恨，但最终盖过一切的是对自己的憎恨",
-      "lines": "158-161",
-      "verbatim": "Helena would bet her favourite moon-charged crystals that George Lippert, like any good father, wanted to protect his little girl and make her happy. Hubert’s death had done both. … His thoughts of love for Lily dissolved into vicious rage as he looked at Cynthia. He hated her. Hated Hubert even more. But as Helena sank deeper into his mind, it was hatred for himself that eclipsed all else. Not because he had taken a man’s life. But because he hadn’t."
-    },
-    {
-      "n": 22,
-      "who": "海伦娜（读心）",
-      "did": "得出关键判断：利珀特憎恨自己，因为**他没能**杀掉休伯特——即他没有杀休伯特；脑中闪过画面：休伯特死在书房地板上，血像暗红色光环一样 pooling 在四周，利珀特在咒骂上帝不让他得逞",
-      "lines": "164-170",
-      "verbatim": "Damnation! … George Lippert despised himself for being too late to kill Hubert Burrows. … An image flashed, pulled from Lippert’s thoughts. Hubert, dead on the floor of his study, blood pooled around him like a dark-red halo as Lippert cursed God for denying him the chance to claim his justified vengeance."
-    },
-    {
-      "n": 23,
-      "who": "海伦娜",
-      "did": "当场点破「你当时就在休伯特死的时候现场」；利珀特涨红了脸转向女儿，浑身是勉强压住的怒火",
-      "lines": "173-176",
-      "verbatim": "‘You were there when Hubert died.’ … Lippert’s face flushed red as he let go of his daughter’s hands and turned to her. His large body vibrated with barely leashed rage."
-    },
-    {
-      "n": 24,
-      "who": "利珀特／海伦娜",
-      "did": "利珀特吼「你什么都不知道」并大步逼近；莉莉扑上去被他像甩疯狗一样甩开；他走到与海伦娜几乎脚尖对脚尖，却因满眼通红没看见她转银的眼睛；他心里在喊不要吓到莉莉——他只想赶走海伦娜和辛西娅，不想伤害她们",
-      "lines": "179-182",
-      "verbatim": "‘You don’t know anyfink,’ he bellowed, taking huge strides towards her. … ‘Father!’ Lily lunged for his arm, but he shook his daughter off like a rabid dog … she heard his mind screaming at him not to frighten Lily. Scare off Helena and Cynthia, yes. But Lippert didn’t want to hurt these women. He just wanted to keep his daughter safe."
-    },
-    {
-      "n": 25,
-      "who": "海伦娜",
-      "did": "稳住语气说出她看见的画面（休伯特死在地板上、泡在自己的血里），并断言「我不认为是你杀的他」；请他帮忙找出真凶，条件是她们立刻离开不再回来",
-      "lines": "185",
-      "verbatim": "‘I know you saw him there. Dead on the floor. Lying in a pool of his own blood. I don’t think you killed him, George. But I’m guessing you have a good idea who might have done the deed. Help us find Hubert’s killer, and we will leave here and never return.’"
-    },
-    {
-      "n": 26,
-      "who": "利珀特（内心）／辛西娅",
-      "did": "辛西娅一僵；利珀特脑中浮出一个名字，清楚得像许愿井底发亮的硬币，但「那不可能」；他矢口否认「我一点线索也没有」；海伦娜指他撒谎，他退缩了一下",
-      "lines": "188-200",
-      "verbatim": "Cynthia stiffened. … A name surfaced in his mind. As clear as a shiny penny glinting at the bottom of a wishing well. But it was impossible. … ‘I ’aven’t a clue.’ … ‘You’re lying.’ Helena’s words carried the bite of conviction. … Lippert flinched."
-    },
-    {
-      "n": 27,
-      "who": "辛西娅",
-      "did": "追问「至少告诉我们你是怎么进他办公室的」——MacDougal 警司的手下已经问过所有仆人，没人记得休伯特那天早上见过任何人",
-      "lines": "203",
-      "verbatim": "‘At least tell us how you got into his office. Superintendent MacDougal’s men questioned all of the staff. No one recalls Hubert meeting with anyone that morning.’ Cynthia refused to back down. It was both admirable and terrifying."
-    },
-    {
-      "n": 28,
-      "who": "利珀特",
-      "did": "得意地笑，反问辛西娅是否真敢肯定休伯特那天早上没见人；说他「八成是自己开的门」，不想让家里任何人知道他深夜在跟什么人来往；讽刺她从不过问丈夫、只忙着打扮赴舞会沙龙，像「拿胡须逗猛兽的驯狮人」",
-      "lines": "206",
-      "verbatim": "‘You so sure ’e didn’t meet with someone in the dead o’ the night? Answered the door ’imself, I’ll bet. Didn’t want anyone in ’is fine ’ousehold knowing the company ’e kept when the ’onest folks were all sleeping. Not that you would notice. Can’t rightly remember ’im ever talking about his lady wife. Too busy chasing after the innocent girls you put before ’im. Like a lion tamer feeding ’er beast, you were. Kept ’is attentions busy on ’elpless chits like my Lily while you swanned off to yer next damned ball or salon.’"
-    },
-    {
-      "n": 29,
-      "who": "海伦娜",
-      "did": "威胁利珀特：再那样对辛西娅说话，她会亲手拧断他的脖子，不必等法庭判定她有罪无罪",
-      "lines": "212",
-      "verbatim": "‘Speak to her that way again, and you won’t need to worry about your neck winding up in the hangman’s noose. I’ll break it myself and save the courts having to decide if you’re innocent or guilty.’"
-    },
-    {
-      "n": 30,
-      "who": "莉莉",
-      "did": "第一次提高声音喊「够了」；说「我们不是彼此的敌人」；要父亲停止因为辛西娅活着而他死了就迁怒；指出是休伯特自己把罪藏进黑暗，而夫人的身份活在光明里；并要海伦娜停止威胁她父亲",
-      "lines": "215",
-      "verbatim": "‘Enough!’ Lily’s soft voice was all the more compelling when it finally rose in anger. ‘We are not each other’s enemies.’ … ‘Lady Burrows was nothing but kind to me, so stop blaming ’er just because she’s alive and ’e’s not. If she didn’t see what ’e was up to with the female staff, it’s because ’e made sure to keep his sins hidden in the dark, and ’er ladyship lived in the light.’ She turned to Helena. ‘And you stop threatening my father.’"
-    },
-    {
-      "n": 31,
-      "who": "莉莉／利珀特",
-      "did": "莉莉说父亲是在用他能想到的方式保护她，他不会伤一只苍蝇；利珀特摇头说「更好的父亲会杀了他」；莉莉哭着说「你是最好的父亲」，扑进父亲怀里",
-      "lines": "218-227",
-      "verbatim": "‘He’s trying to protect me the best way ’e knows how, but ’e wouldn’t ’urt a fly. Would you?’ … He shook his head. ‘A better father would ’ave killed ’im fer what ’e did to you.’ … ‘You are the best father.’ Lily’s chin quivered as a tear escaped, rolling down her cheek. She rushed to him, and he wrapped his burly arms around her tightly."
-    },
-    {
-      "n": 32,
-      "who": "辛西娅／莉莉",
-      "did": "辛西娅请莉莉允许她帮忙；莉莉挣开父亲说「那不是你的错，也不是你的责任」",
-      "lines": "230-233",
-      "verbatim": "‘You must let me help you.’ Cynthia’s voice was tight with too many emotions. … ‘What ’e did ain’t yer fault. And it ain’t yer responsibility, neither.’"
-    },
-    {
-      "n": 33,
-      "who": "辛西娅",
-      "did": "挺直脊背，在海伦娜眼前「变成肯特米尔侯爵夫人」；说莉莉是她极出色的雇员、给一笔告别礼在权利之内；丈夫死后给了她优渥年金；其中一部分将专门留给莉莉的孩子，用不用由莉莉自己定",
-      "lines": "236",
-      "verbatim": "Cynthia straightened her spine, transforming before Helena’s eyes into Marchioness Kentmore. ‘You were my employee, and an excellent one at that. It is well within my rights to give you a parting gift. My husband granted me a substantial living upon his death. A portion of that money will be set aside for your child. Whether you take it or let it sit untouched is up to you.’"
-    },
-    {
-      "n": 34,
-      "who": "辛西娅／利珀特",
-      "did": "辛西娅坚持「不为别的，就为你的孩子」；海伦娜心里赞她「了不起」；利珀特仍骂不要布尔洛斯家一分钱，宁可饿死",
-      "lines": "242-251",
-      "verbatim": "‘I insist. If not for me, for your child.’ … Dear goddess, she is magnificent. … ‘We don’t want nuffink from the wife of ’ubert Burrows. Better we starve than take a penny of yer cursed money.’ George Lippert crossed his arms over his chest, ignoring the slap his daughter landed on his right shoulder."
-    },
-    {
-      "n": 35,
-      "who": "海伦娜／辛西娅",
-      "did": "海伦娜骂「不可忍受的男人」，判断她们已经拿到了想要的信息，再待下去只会延长辛西娅的折磨；拉住辛西娅的手要她走；辛西娅却挣脱，坚持要说完",
-      "lines": "254-257",
-      "verbatim": "‘Insufferable man!’ … They got the information they were seeking. Staying further would only prolong Cynthia’s torture … She took Cynthia’s hands. ‘We should leave.’ … But Cynthia pulled back as Helena tried to tug her towards the door. She wouldn’t turn away from George Lippert."
-    },
-    {
-      "n": 36,
-      "who": "辛西娅",
-      "did": "向利珀特认错：她本该知道自己家里走廊与房间在发生什么；她学会的处世方式是「不提问、不提要求」，对自己和别人都一样；海伦娜捏紧她的手指，心想若独处会接住那颗泪让它沉进自己血管、吸收她的悲伤",
-      "lines": "260-269",
-      "verbatim": "‘You are right, sir. I should have known what was going on in the hallways and rooms of my own house.’ … ‘When it came to my husband, I learned early and well that life was far more pleasant if I didn’t ask any questions or make any demands. For myself or others.’ … If they were alone, she would have caught the tear that fell and let it sink past her skin and into her veins, absorbing Cynthia’s sorrow as her own."
-    },
-    {
-      "n": 37,
-      "who": "辛西娅",
-      "did": "说出完整理由：请利珀特允许她做这件事——为了你的女儿和你的外孙；就算这理由不够，就当是为了报复那个恶劣地虐待莉莉的男人；她发誓休伯特最恨的就是知道他的钱被用来养莉莉的孩子",
-      "lines": "272",
-      "verbatim": "‘I should have been braver. I should have been better, and I wasn’t. But I would like to be better now. You don’t owe me anything. That is true. But I would ask that you let me do this. For your daughter and your grandchild. And if that isn’t a good enough reason, then to spite the man who abused Lily so grievously. Because I swear to you, Hubert would hate nothing more than knowing his precious money is being used to support Lily’s child.’"
-    },
-    {
-      "n": 38,
-      "who": "海伦娜（内心）／利珀特",
-      "did": "海伦娜本想把想法塞进利珀特脑子、逼他接受并跪地求饶（她只能偷读不能植入），转而认真考虑给他下咒——哪怕违反不伤害的誓言；利珀特退后半步打量辛西娅，称她「精明的女人」",
-      "lines": "275-278",
-      "verbatim": "If only Helena had the ability to put thoughts in other people’s minds instead of snatching them out. … In lieu of that, she was seriously contemplating hexing the man, regardless of her oath to do no harm. … ‘Yer a shrewd woman, Lady Burrows.’"
-    },
-    {
-      "n": 39,
-      "who": "辛西娅／利珀特",
-      "did": "辛西娅手在发抖地答「你可以再给我记一笔」；利珀特终于接受，但强调只是因为「每有一便士进我们口袋，那个混蛋就在坟里多翻一个身」",
-      "lines": "281-284",
-      "verbatim": "Cynthia’s hand trembled in Helena’s. ‘One more fault you can add to the list.’ … ‘All righ’. We accept yer offer. But only because I’ll know the bastard is rolling over in ’is grave with every penny of ’is that lines our pockets.’"
-    },
-    {
-      "n": 40,
-      "who": "辛西娅",
-      "did": "安排下周让自己的事务律师上门敲定细节；随即与莉莉道别，称她是了不起的女人、值得比她所忍受的更多，并道歉",
-      "lines": "290-296",
-      "verbatim": "‘I shall have my man of business visit you next week to finalise the details.’ … ‘You are a remarkable woman who deserves far more than what you have endured. I’m so very sorry.’ … ‘I feel exactly the same about you, Lady Burrows.’"
-    },
-    {
-      "n": 41,
-      "who": "海伦娜／辛西娅／哈姆雷特",
-      "did": "出门后海伦娜说「这本来可以更好，也可能糟得多」；辛西娅不答，望着街面；海伦娜想「我愿付出一切去听她的想法」；上车时哈姆雷特跳进海伦娜怀里；辛西娅说「他是在担心我们」",
-      "lines": "305-326",
-      "verbatim": "‘That could have been better, but it also could have been far worse.’ … What I wouldn’t give to hear her thoughts. … Hamlet yipped at Helena, nearly bowling her over as he leapt from the carriage floor into her lap … ‘He was worried for us,’ Cynthia said before pressing her lips together as if she might somehow recall her words."
-    },
-    {
-      "n": 42,
-      "who": "海伦娜／辛西娅",
-      "did": "海伦娜问「他告诉你的？」随即后悔——这不是逼辛西娅承认自己powers的时候；辛西娅反问「你指控我会跟你的狐狸说话？我要是能跟动物交流就是个疯子」；海伦娜答「或者是个女巫」",
-      "lines": "329-344",
-      "verbatim": "‘Did he tell you that?’ … Drat. This is hardly the right time to confront her with her powers. … ‘Never mind?’ Disbelief coated her words. ‘You accuse me of being able to, what? Speak to your fox? I would be a lunatic if I thought I could communicate with animals.’ … ‘Or a witch.’"
-    },
-    {
-      "n": 43,
-      "who": "辛西娅／海伦娜",
-      "did": "辛西娅笑得不稳：她见过海伦娜和 Clio 做的事，怀疑 Ellie 一样有魅力；「你天生就带着某种不可思议和独特的东西，我天生就是侯爵夫人」；「我身上没有任何魔法」；海伦娜则反问她若不信自己血管里流着魔法，怎么解释刚才在车前对狗的那一幕；辛西娅答「我不知道那是什么」",
-      "lines": "347-353",
-      "verbatim": "‘Don’t be ridiculous. I’ve seen what you and Clio can do. I suspect Ellie is just as enchanting. You were born into something incredible and unique. I was born to be a marquess’s wife. Look how well I’m doing with that.’ Her laughter bordered on hysterical. ‘There is nothing magical about me.’ … ‘You were magnificent with that dog in front of the carriage. If you don’t believe you have magic running through your veins, explain that moment to me.’ … ‘I don’t know what that was.’"
-    },
-    {
-      "n": 44,
-      "who": "海伦娜（内心）",
-      "did": "想到接受自己的力量与意义可能是件可怕的事，尤其对被养大「价值取决于别人看法」的辛西娅；她知道自己需要时间与安慰，却害怕提供——因为她面临的不只是违背誓言的风险：辛西娅是她可能把心交出去的那种女人，而那对海伦娜是不可能的",
-      "lines": "356-359",
-      "verbatim": "Accepting power and significance could be a terrifying thing. Especially when Cynthia had been raised to believe her only worth came from the opinion of others. … She needed time and comfort. Two things Helena was scared to provide. Because she was at risk of breaking more than just her oath to do no harm. Cynthia Burrows was the kind of woman she could give her heart to. And that was impossible for Helena. This day had reminded her why love was dangerous for her."
-    },
-    {
-      "n": 45,
-      "who": "海伦娜／哈姆雷特／辛西娅",
-      "did": "海伦娜让哈姆雷特去安慰；它用头顶蹭她的脸、绕三小圈，钻进辛西娅黑裙与车厢侧板之间的窄缝；辛西娅向海伦娜伸手（海伦娜心里说「我不能」却还是坐到她那一侧、把手放在她腿上隔着丝绸与亚麻轻捏大腿）",
-      "lines": "362-377",
-      "verbatim": "She whispered into his pointed ear. ‘Go on.’ … making three tight circles and settling himself in the snug space between the right side of the carriage and Cynthia’s black skirts. … Cynthia reached her hand to Helena. … I can’t. … But she was moving before she knew it, taking Cynthia’s opposite side. … she gave her an excuse to rest her hand on Cynthia’s leg and gently squeeze her thigh through layers of silk and linen. … I’m just being a friend. There’s no harm in being a friend."
-    },
-    {
-      "n": 46,
-      "who": "辛西娅／海伦娜",
-      "did": "辛西娅僵硬片刻后滑下座位把头靠在海伦娜肩上（香草与忍冬混着佛手柑与柠檬）；海伦娜说「那不是你的错，你丈夫对莉莉做的事」；辛西娅反问「他糟蹋了多少姑娘？我在纠结裙子和饰物时，有多少无辜女人在我家里受伤害」；她认为「我本该知道」，说「我是世上最大的傻瓜」；海伦娜无言以对，只用身体与魔力安慰她",
-      "lines": "380-395",
-      "verbatim": "Cynthia held herself stiff for a moment before slowly sliding down on the seat until her head rested on Helena’s shoulder. Vanilla and honeysuckle blended with bergamot and lemon. … ‘It isn’t your fault, you know. What your husband did to Lily.’ … ‘How many girls did he abuse, Helena? How many innocent women were hurt in my house while I fussed over my gowns and fripperies?’ … ‘I expect me to know. I’ve always thought myself rather clever, but I’m not. I’m the world’s biggest fool.’ … She funnelled her power and poured it over Cynthia in waves of comfort."
-    },
-    {
-      "n": 47,
-      "who": "海伦娜（内心）",
-      "did": "章末：辛西娅需要接受关于丈夫、关于自己、关于自己力量的事实，而海伦娜自己还没准备好面对自己的不愉快真相；「他们真是绝配」",
-      "lines": "398",
-      "verbatim": "There were certain facts Cynthia would need to accept about her husband. Herself. Her powers. But Helena was in no place to tell her such things when she wasn’t facing her own set of uncomfortable truths. What a pair they made."
-    }
-  ],
-  "relationships_noted": [
-    "乔治·利珀特 ↔ 莉莉：父女（`:35`「George Lippert’s many children」；`:74` 莉莉称他 Father；`:224` 他自称「更好的父亲」）",
-    "休伯特·布尔洛斯 ↔ 莉莉：雇主与女仆；休伯特性侵并使她怀孕，随后辞退她（`:38` `:77` `:104`）",
-    "休伯特 ↔ 辛西娅：夫妻，婚龄十年（`:89`「the whole ten bloody years I was married to such an evil creature」）；辛西娅为肯特米尔侯爵夫人（`:236`）",
-    "辛西娅 ↔ 莉莉：主仆；莉莉曾为辛西娅的贴身侍女（`:74`「since I got my post」），辛西娅称之为「excellent employee」（`:236`）",
-    "海伦娜 ↔ 利珀特：读心者与对象；海伦娜能听见他的心声、恐惧放大他的思绪（`:143` `:161` `:182`）",
-    "海伦娜 ↔ 辛西娅：海伦娜以「my woman」称辛西娅（`:56` `:62`），并说自己「far too infatuated with the woman」（`:131`）",
-    "海伦娜 ↔ 自己的母亲：`:125`「I'm becoming just like her」＋`:128`「her mother's sickness in her blood」——指母亲也在魔法/誓言上走过同一条路（本章未写明母亲具体做了什么）",
-    "海伦娜 ↔ 女巫团：与女巫团立过不伤害誓言（`:122`）",
-    "MacDougal ↔ 本案：其手下已问询全体仆人（`:203`）",
-    "哈姆雷特 ↔ 辛西娅：辛西娅能感知哈姆雷特的情绪（`:326`），但她否认自己能与动物沟通（`:341`）；海伦娜知情（`:350`）"
-  ],
-  "numbers_verbatim": [
-    "at least two（利珀特家兼作卧室的房间至少住着两个孩子，:35）",
-    "ten years（辛西娅与休伯特的婚龄十年，:89）",
-    "twice / second time in as many hours（海伦娜第二次感到母亲的病，:128）",
-    "thrice her size（利珀特体型是辛西娅的三倍，:146）",
-    "three tight circles（哈姆雷特绕三圈，:365）",
-    "next week（事务律师下周上门，:290）"
-  ],
-  "source_inconsistencies_not_to_adjudicate": [
-    ":65 「You will remember you are speaking to a marchioness」——按上下文（海伦娜上前一步、海伦娜限知视角）似为海伦娜在说话，但「侯爵夫人」是辛西娅的头衔（ch10:140「I am the Marchioness of Kentmore」；ch18:236「into Marchioness Kentmore」；ch27:231「My last act as Marchioness of Kentmore」）；此处或是原文的说话人漂移。⇒ **不裁决**，md 若归给海伦娜须按此标注",
-    ":141 「She's the very Devil!」与本书记载的「the Devil」形象呼应，但本章未指明这是谁心里的话的转写之外的可核查事实"
-  ],
-  "unresolved_in_source": [
-    "利珀特脑中浮现的那个名字「清晰得像硬币」但「那不可能」——本章没有说出名字，也没有给出那个「不可能」的判断依据（:191）",
-    "利珀特是否进过休伯特的办公室、以及他与休伯特死亡当夜的关系，本章不解释（:206 只是他的推测与嘲讽）",
-    "辛西娅承认「I don’t know what that was」——她的力量究竟是什么本章不揭（:353）",
-    "海伦娜「becoming just like her（母亲）」的具体所指，本章不写（:125）",
-    "「My bastard of a husband owes you an unpayable debt」——「unpayable debt」指性侵莉莉一事还是别的债务，本章未明说（:113）"
-  ]
+ "book": "the-hexing-miss-helena-by-darcy-mcguire",
+ "chapter": 18,
+ "source": "text/ch18_chapter_18.txt",
+ "source_lines": 398,
+ "read_order_note": "只读 text/ch18_chapter_18.txt，未开任何 md，未读旧底稿",
+ "pov": "本章为第三人称有限视角，自始至终贴 Helena，全章没有换视角人物。证据行：`35`（Helena put her hand…以她的动作开场）、`38`（No wonder Sinclair thought of him…为 Helena 的内心推断）、`53`（Helena felt her power swell）、`56`（She knew her eyes would be changing from grey to silver——只有 Helena 能知道自己眼睛变色）、`62`（Do no harm. I made an oath.——Helena 第一人称心声）、`71`（Good. Be afraid.）、`125`（Dear goddess, I’m becoming just like her.）、`161`（as Helena sank deeper into his mind——读心动作以她为主语）、`245`（Dear goddess, she is magnificent.）、`248`（she couldn’t say）、`314`（What I wouldn’t give to hear her thoughts.）、`317`（Helena felt helpless…）、`332`（Drat.…）、`335`（Helena knew she was raw and bleeding…）、`356`、`359`、`371`（I can’t.）、`377`、`395`（kept her thoughts well away…）、`398`（结尾仍是 Helena 的自省）。不属于视角人物的「心声」共三处，全部属于 George Lippert，且都因 Helena 的读心魔法而被「听见」，不构成视角切换：`140`（She’s the very Devil!——归属证据 `143` Fear amplified his thoughts, making them easy to hear）、`152`（What can she possibly know?——归属证据 `149` Lippert turned back to Cynthia 紧接该独白，且 `161` 说明 Helena 正在读他）、`164`（Damnation!——归属证据 `161`–`167` Helena sank deeper into his mind 与 George Lippert despised himself…的解释段）。动物 Hamlet 没有任何直接心声：`323` The poor thing must have been terrified 是 Helena 的推测，`326` ‘He was worried for us’ 是 Cynthia 的转述（该转述本身是本章埋的「Cynthia 可能听懂动物」的线索，但原文未证实）。Cynthia 的内心全章不可见——`314`/`317` 明确 Helena 读不到她的心思。",
+ "scene_split": [
+  {
+   "lines": "1",
+   "where": "排版页（章标题行 Chapter 18）",
+   "when": "—",
+   "pov": "—（非叙事）"
+  },
+  {
+   "lines": "2–21",
+   "where": "（空行分隔，排版留白）",
+   "when": "—",
+   "pov": "—"
+  },
+  {
+   "lines": "22",
+   "where": "排版页（孤立章号 18）",
+   "when": "—",
+   "pov": "—（非叙事）"
+  },
+  {
+   "lines": "23–34",
+   "where": "（空行分隔，排版留白）",
+   "when": "—",
+   "pov": "—"
+  },
+  {
+   "lines": "35–302",
+   "where": "Cheapside 一带 George Lippert 家的昏暗小屋（一间兼作客厅、餐厅、卧室的房间）",
+   "when": "白天（305 行出门后是 sunny patch 阳光地，可回证）",
+   "pov": "Helena（第三人称有限视角，全程贴 Helena）"
+  },
+  {
+   "lines": "303–304",
+   "where": "（空行分隔，两场景之间）",
+   "when": "—",
+   "pov": "—"
+  },
+  {
+   "lines": "305–398",
+   "where": "Lippert 家门外阳光下的街道 → Cynthia 等候的 landau 马车车厢内",
+   "when": "紧接前一场，同日白天",
+   "pov": "Helena（第三人称有限视角，未换人）"
+  }
+ ],
+ "events": [
+  {
+   "n": 1,
+   "lines": "1",
+   "who": "版面（非情节）",
+   "did": "文件首行为章标题行 Chapter 18，属排版内容而非正文情节",
+   "verbatim": "Chapter 18"
+  },
+  {
+   "n": 2,
+   "lines": "22",
+   "who": "版面（非情节）",
+   "did": "正文前另有一行孤立章号 18，同属排版行",
+   "verbatim": "18"
+  },
+  {
+   "n": 3,
+   "lines": "35",
+   "who": "Helena",
+   "did": "Helena 把手放在 Cynthia 后腰上，把她推进那间昏暗的房间",
+   "verbatim": "Helena put her hand on the small of Cynthia’s back, pushing her into the dingy room"
+  },
+  {
+   "n": 4,
+   "lines": "35",
+   "who": "叙述（Helena 视角）",
+   "did": "该房间同时充当客厅、餐厅与卧室，George Lippert 众多孩子中至少两个住在这里",
+   "verbatim": "that served as parlour, dining room, and bedroom for at least two of George Lippert’s many children."
+  },
+  {
+   "n": 5,
+   "lines": "38",
+   "who": "Helena（内心）",
+   "did": "Helena 心下明白：难怪 Sinclair 列举可能谋杀 Hubert Burrows 的男人时会想到 Lippert",
+   "verbatim": "No wonder Sinclair thought of him when he was listing men who might have murdered Hubert Burrows."
+  },
+  {
+   "n": 6,
+   "lines": "38",
+   "who": "Helena（内心）",
+   "did": "Helena 判定 Cynthia 的丈夫愈发可憎：无论 Hubert 是强加关注还是利用 Lily 的天真做诱奸武器，他确实极其严重地虐待了 Lily",
+   "verbatim": "Whether he forced his attentions on the girl or used her innocence as a weapon of uninvited seduction, there was no doubt Hubert had abused Lily most grievously."
+  },
+  {
+   "n": 7,
+   "lines": "38",
+   "who": "Helena（内心）",
+   "did": "Helena 心里数落 Hubert 随后解雇 Lily、把她赶回 Cheapside、分文未给",
+   "verbatim": "Then terminated her employment and sent her scuttling back to Cheapside with nothing."
+  },
+  {
+   "n": 8,
+   "lines": "38",
+   "who": "Helena（内心）",
+   "did": "Helena 心想：如果 Lippert 没试图杀 Hubert，她反而会更惊讶",
+   "verbatim": "Helena would be more surprised if Lippert hadn’t tried to kill Hubert."
+  },
+  {
+   "n": 9,
+   "lines": "41",
+   "who": "Helena",
+   "did": "Helena 对男主人开口，点出对方身份并说明来意是关于 Lily 的重要事情",
+   "verbatim": "‘You must be George Lippert. We’re here on a very important matter regarding Lily.’"
+  },
+  {
+   "n": 10,
+   "lines": "41",
+   "who": "Helena（内心）",
+   "did": "Helena 内心确认：任务没有变，仍需查明 George 是否杀了 Hubert",
+   "verbatim": "They still needed to determine if George had killed Hubert."
+  },
+  {
+   "n": 11,
+   "lines": "44",
+   "who": "Helena / Lily",
+   "did": "Helena 向左移步、目光不离男人；他的女儿（Lily）则盯着 Cynthia",
+   "verbatim": "Helena shifted to the left, keeping her gaze on the man as his daughter watched Cynthia."
+  },
+  {
+   "n": 12,
+   "lines": "47",
+   "who": "Lily（原文未具名，据上下文推断）",
+   "did": "说话人向 Lady Burrows 道歉，说自己不知道该怎么开口；该行未标说话人，由 50 行 Lippert 的反驳与方言 ye 推断为 Lily",
+   "verbatim": "‘I’m so sorry, Lady Burrows. I didn’t know how to tell ye.’"
+  },
+  {
+   "n": 13,
+   "lines": "50",
+   "who": "George Lippert",
+   "did": "Lippert 冲 Cynthia 啐出这句话：你欠那个婊子什么都没有（你什么都不欠她）",
+   "verbatim": "‘You owe this bitch nothing!’ Lippert spat the words at Cynthia."
+  },
+  {
+   "n": 14,
+   "lines": "53",
+   "who": "Helena",
+   "did": "Helena 感到力量涌起，把搭在 Cynthia 腰上的手放下、藏到背后",
+   "verbatim": "Helena felt her power swell. She dropped her hand from Cynthia’s waist but kept it behind her back"
+  },
+  {
+   "n": 15,
+   "lines": "53",
+   "who": "Helena",
+   "did": "Helena 从空气中抽取水汽，在掌心凝成一个水球",
+   "verbatim": "as she pulled water from the air to form a sphere in her palm."
+  },
+  {
+   "n": 16,
+   "lines": "53",
+   "who": "Helena（内心）",
+   "did": "Helena 盘算：只需一念，水球即可化作水矛把 Lippert 劈成两半；她可以同情他孩子的遭遇，但绝不容他伤害 Cynthia",
+   "verbatim": "With one thought, that sphere could turn into a spear of water that would cleave Lippert in two."
+  },
+  {
+   "n": 17,
+   "lines": "56",
+   "who": "Helena（内心）",
+   "did": "Helena 知道自己的眼睛正由灰转银，即便在昏暗房间里对方也会看见她目光中的力量，但她不在乎",
+   "verbatim": "She knew her eyes would be changing from grey to silver."
+  },
+  {
+   "n": 18,
+   "lines": "56",
+   "who": "Helena（内心）",
+   "did": "Helena 立下狠心：宁可杀死 George Lippert，也不许他碰她的 woman 一根手指",
+   "verbatim": "She would kill George Lippert before she let him put a hand on her woman."
+  },
+  {
+   "n": 19,
+   "lines": "59",
+   "who": "Helena",
+   "did": "Helena 眨了一下眼",
+   "verbatim": "Helena blinked."
+  },
+  {
+   "n": 20,
+   "lines": "62",
+   "who": "Helena（心声）",
+   "did": "Helena 心声自我约束：不可造成伤害、我立过誓，而且她并不是我的女人",
+   "verbatim": "Do no harm. I made an oath. And she isn’t my woman."
+  },
+  {
+   "n": 21,
+   "lines": "65",
+   "who": "Helena",
+   "did": "Helena 仍然上前一步，警告对方记住自己是在同一位 marchioness（侯爵夫人，指 Helena 自己）说话，否则她将被迫教他规矩",
+   "verbatim": "‘You will remember you are speaking to a marchioness, or I will be forced to remind you of your manners.’"
+  },
+  {
+   "n": 22,
+   "lines": "65",
+   "who": "叙述（Helena 视角）",
+   "did": "钢铁般的冷硬注入 Helena 的嗓音",
+   "verbatim": "Steel infused her voice."
+  },
+  {
+   "n": 23,
+   "lines": "68",
+   "who": "George Lippert",
+   "did": "Lippert 目光扫向 Helena 并僵住；Helena 判断他无疑看见了她周身脉动的力量",
+   "verbatim": "Lippert flicked his gaze to Helena and froze."
+  },
+  {
+   "n": 24,
+   "lines": "71",
+   "who": "Helena（心声）",
+   "did": "Helena 心声：很好，怕我吧",
+   "verbatim": "Good. Be afraid."
+  },
+  {
+   "n": 25,
+   "lines": "74",
+   "who": "Lily",
+   "did": "Lily 皱眉叫父亲坐下，抓住他的手臂，小小的身躯绷硬",
+   "verbatim": "‘Father, sit down.’ Lily frowned at Lippert, her small frame hardening as she gripped his arm."
+  },
+  {
+   "n": 26,
+   "lines": "74",
+   "who": "Lily",
+   "did": "Lily 替 Cynthia 辩护：自打得到这份差事，Lady Burrows 待她只有好；发生的事不是 Cynthia 干的",
+   "verbatim": "‘Lady Burrows has been nothing but kind to me since I got my post. What happened was none of her doing.’"
+  },
+  {
+   "n": 27,
+   "lines": "77",
+   "who": "George Lippert",
+   "did": "Lippert 指责 Cynthia：是你丈夫把孩子放进你肚子的，你却袖手旁观任他像糟蹋下贱婊子一样糟蹋她",
+   "verbatim": "‘It was ’er husband what put that babe in yer belly. She stood by and let ’im abuse you like a common whore.’"
+  },
+  {
+   "n": 28,
+   "lines": "80",
+   "who": "Cynthia / Helena",
+   "did": "Cynthia 的脸变得死白；Helena 又逼近一步，打算把水矛直接掷穿 George Lippert 的心脏",
+   "verbatim": "Cynthia’s face had grown deathly pale. Helena took another step closer, intent on throwing a water spear right through George Lippert’s heart."
+  },
+  {
+   "n": 29,
+   "lines": "80",
+   "who": "Cynthia",
+   "did": "在 Helena 出手惩罚之前，Cynthia 先伸手抓住 Helena 的手臂把她拉了回来",
+   "verbatim": "Before she could punish the man for his cruel words, Cynthia reached out and gripped her arm, pulling her back."
+  },
+  {
+   "n": 30,
+   "lines": "83",
+   "who": "Cynthia",
+   "did": "Cynthia 说「别这样」，呼出一口颤抖的气，承认「他说得对」；她双肩垮塌、眼中痛苦几乎击垮 Helena",
+   "verbatim": "‘Don’t.’ She exhaled a shaky breath. ‘He’s right.’"
+  },
+  {
+   "n": 31,
+   "lines": "86",
+   "who": "Helena",
+   "did": "Helena 嘶声说「这不是你造成的」，心里使劲希望 Cynthia 能听进道理",
+   "verbatim": "‘You didn’t do this,’ she hissed, willing Cynthia to listen to reason."
+  },
+  {
+   "n": 32,
+   "lines": "89",
+   "who": "Cynthia",
+   "did": "Cynthia 发出苦笑说：我也没能阻止他，甚至在嫁给了那样的恶人的整整十个血腥年头里，连眼皮底下发生的事都没看见",
+   "verbatim": "‘Or even see what was right under my nose the whole ten bloody years I was married to such an evil creature.’"
+  },
+  {
+   "n": 33,
+   "lines": "89",
+   "who": "Cynthia",
+   "did": "Cynthia 放开 Helena 的手臂，走到 Lily 面前握住她双手",
+   "verbatim": "She dropped Helena’s arm and walked over to Lily, gripping both of her hands."
+  },
+  {
+   "n": 34,
+   "lines": "89",
+   "who": "Cynthia",
+   "did": "Cynthia 请求 Lily 原谅：我本该知道、本该阻止他",
+   "verbatim": "‘Please forgive me. I should have known. I should have stopped him.’"
+  },
+  {
+   "n": 35,
+   "lines": "92",
+   "who": "Lily",
+   "did": "Lily 嘴唇发抖但声音坚定：他（Hubert）本该自己管住自己",
+   "verbatim": "‘’e should ’ave stopped ’imself.’ Lily’s lips trembled, but her voice was strong."
+  },
+  {
+   "n": 36,
+   "lines": "95",
+   "who": "Helena",
+   "did": "Helena 想为这女孩对 Cynthia 如此坦率的辩护而拥抱她——但她没有抱",
+   "verbatim": "Helena wanted to hug the girl for such an honest defence of Cynthia. And she didn’t hug."
+  },
+  {
+   "n": 37,
+   "lines": "98",
+   "who": "Lily",
+   "did": "Lily 劝 Cynthia 别把丈夫选择的罪责扛到自己肩上：那些选择该由他做、也该由他偿",
+   "verbatim": "‘You can’t shoulder the blame of yer ’usband’s choices. They were ’is to make, and ’is to pay for."
+  },
+  {
+   "n": 38,
+   "lines": "98",
+   "who": "Lily",
+   "did": "Lily 承认自己也做过选择，因为害怕不做就丢掉差事；她干涩的笑毫无喜意，说傻瓜如她反正还是丢了",
+   "verbatim": "I made choices too. Not that I weren’t scared if I didn’t, I’d lose me job.’ Her dry laugh held no joy. ‘Fool that I am. I lost it anyway.’"
+  },
+  {
+   "n": 39,
+   "lines": "101",
+   "who": "Cynthia",
+   "did": "Cynthia 摇头说 Lily 不是傻瓜，骂 Hubert 是杂种恶棍、伤她极重",
+   "verbatim": "Cynthia shook her head. ‘You are no fool. Hubert is a bastard and a scoundrel. He hurt you most grievously.’"
+  },
+  {
+   "n": 40,
+   "lines": "104",
+   "who": "Lily",
+   "did": "Lily 下巴颤动、眼里蓄满泪，却把嘴唇抿成一条紧线，一滴泪也没落",
+   "verbatim": "Lily’s chin wobbled, her eyes filled, but she pressed her lips into a tight line. Not one tear drop fell."
+  },
+  {
+   "n": 41,
+   "lines": "104",
+   "who": "Lily",
+   "did": "Lily 说：自己不是第一个、也不会是最后一个因为 Lord Burrows 这种男人而陷入困境的 Cheapside 姑娘",
+   "verbatim": "But I’m not the first, nor will I be the last girl from Cheapside ’oo finds ’erself in a bind because of men like Lord Burrows.’"
+  },
+  {
+   "n": 42,
+   "lines": "107",
+   "who": "George Lippert",
+   "did": "Lily 的父亲咆哮：他不是男人，不配得到你的一滴眼泪",
+   "verbatim": "‘’e’s no man, and ’e doesn’t deserve a single one of yer tears,’ her father growled."
+  },
+  {
+   "n": 43,
+   "lines": "110",
+   "who": "Helena（内心）",
+   "did": "Helena 理解他的愤怒，并心想：Hubert 若是还活着，也活不了多久",
+   "verbatim": "Helena understood his rage. If Hubert had still lived, it wouldn’t have been for long."
+  },
+  {
+   "n": 44,
+   "lines": "113",
+   "who": "Cynthia",
+   "did": "Cynthia 承诺 Lily 受苦之后会得到供养；她纤弱的双肩绷成硬角，声音带着力量与承诺",
+   "verbatim": "‘I promise you’ll be provided for after what you’ve suffered.’ Cynthia’s delicate shoulders were hard angles, her voice redolent with power and promise."
+  },
+  {
+   "n": 45,
+   "lines": "113",
+   "who": "Cynthia",
+   "did": "Cynthia 说自己的混蛋丈夫欠 Lily 一笔还不清的债，远超她所能给，但钱她出得起",
+   "verbatim": "‘My bastard of a husband owes you an unpayable debt, far more than I can give. But money I can provide.’"
+  },
+  {
+   "n": 46,
+   "lines": "116",
+   "who": "George Lippert",
+   "did": "Lippert 拒绝施舍，骂 Cynthia 是「高高在上的太太」，说你们这号人造成的害已经够多了",
+   "verbatim": "‘We don’t want yer charity, Mrs ’igh-and-Mighty. You lot ’ave done enough.’"
+  },
+  {
+   "n": 47,
+   "lines": "116",
+   "who": "George Lippert",
+   "did": "Lippert 大步瞬间吞掉他与 Cynthia 之间的距离，快得 Helena 来不及反应；他抓住 Cynthia 的双手，把它们从自己女儿（Lily）的手中硬扯开",
+   "verbatim": "Lippert’s long strides ate the space between himself and Cynthia too quickly for Helena to react. He grabbed Cynthia’s hands and wrenched them from his daughter’s."
+  },
+  {
+   "n": 48,
+   "lines": "116",
+   "who": "George Lippert",
+   "did": "Lippert 喝令 Cynthia 别碰他女儿，同时俯身逼近、用手指狠狠戳她胸口",
+   "verbatim": "‘Leave me girl alone.’ He leaned closer, his finger jabbing into her chest with blunt force."
+  },
+  {
+   "n": 49,
+   "lines": "116",
+   "who": "George Lippert",
+   "did": "Lippert 说：她这一生都要背负你丈夫行为的污点，多少钱都洗不掉",
+   "verbatim": "‘She’ll carry the stain of your ’usband’s actions for the rest of ’er life. No amount of money can fix that.’"
+  },
+  {
+   "n": 50,
+   "lines": "119",
+   "who": "Cynthia",
+   "did": "Cynthia 向后退，揉着被 Lippert 手指戳过的地方",
+   "verbatim": "Cynthia stepped back, rubbing where his finger had poked."
+  },
+  {
+   "n": 51,
+   "lines": "122",
+   "who": "Helena",
+   "did": "Helena 威胁 Lippert：再碰她一下，他就活不到那孩子出生",
+   "verbatim": "‘Touch her again, and you won’t live long enough to see that baby born.’"
+  },
+  {
+   "n": 52,
+   "lines": "122",
+   "who": "Helena（内心）",
+   "did": "保护 Cynthia 的冲动几乎把 Helena 卷走；她提醒自己：她是光之巫、从不以魔法行暴、并与 coven 立过不伤害的誓约",
+   "verbatim": "She was a light witch. She never used her magic for violence. She had taken an oath with her coven to do no harm."
+  },
+  {
+   "n": 53,
+   "lines": "122",
+   "who": "Helena（内心）",
+   "did": "Helena 心想：只需手腕一抖就能毁掉这个人；水带来生命，也能预告死亡——若 Lippert 敢再碰 Cynthia，就是他的死期",
+   "verbatim": "But it would only take a flick of her wrists to destroy this man. Water brought life, but it could also herald death."
+  },
+  {
+   "n": 54,
+   "lines": "125",
+   "who": "Helena（心声）",
+   "did": "Helena 心声：天子女神啊，我正在变得跟她（结合 128 行可知指她母亲）一模一样",
+   "verbatim": "Dear goddess, I’m becoming just like her."
+  },
+  {
+   "n": 55,
+   "lines": "128",
+   "who": "叙述（Helena 视角）",
+   "did": "短短两小时之内，Helena 第二次感到母亲的病症在自己血液里发作",
+   "verbatim": "It was the second time in as many hours she felt her mother’s sickness in her blood."
+  },
+  {
+   "n": 56,
+   "lines": "128",
+   "who": "Helena（内心）",
+   "did": "Helena 意识到：把魔法拧成残忍致命的东西太容易了——专注毁掉 Lippert，而不是去破解 Hubert 谋杀案、把 Cynthia 从这可怕的烂摊子里解救出来",
+   "verbatim": "It would be so easy to twist her magic into something cruel and lethal."
+  },
+  {
+   "n": 57,
+   "lines": "131",
+   "who": "Helena（内心）",
+   "did": "Helena 察觉自己对那个女人迷恋过深，认为这不可原谅",
+   "verbatim": "She was becoming far too infatuated with the woman. It was unforgiveable."
+  },
+  {
+   "n": 58,
+   "lines": "134",
+   "who": "Helena",
+   "did": "Helena 攥紧拳头、收束力量，拒绝让如狂暴大海般翻涌的情绪主宰自己",
+   "verbatim": "Clenching her fist and reining in her power, she refused to let her emotions hold sway when they were as volatile as a violent sea."
+  },
+  {
+   "n": 59,
+   "lines": "137",
+   "who": "George Lippert",
+   "did": "Lippert 猛地把头转向 Helena；他在她脸上看到的东西令他的脸颊由红润涨红褪成鬼魅般的惨白",
+   "verbatim": "Lippert swung his head to Helena. Whatever he saw in her face caused his cheeks to pale from ruddy red to ghostly white."
+  },
+  {
+   "n": 60,
+   "lines": "140",
+   "who": "George Lippert（心声，Helena 读心听到）",
+   "did": "Lippert 的心声被 Helena 听到：她就是魔鬼本人！",
+   "verbatim": "She’s the very Devil!"
+  },
+  {
+   "n": 61,
+   "lines": "143",
+   "who": "叙述（Helena 视角）",
+   "did": "恐惧放大了 Lippert 的想法，令 Helena 轻易就能听见",
+   "verbatim": "Fear amplified his thoughts, making them easy to hear."
+  },
+  {
+   "n": 62,
+   "lines": "146",
+   "who": "Cynthia",
+   "did": "Cynthia 直问 Lippert：是不是因此你才干了那件事、才杀了 Hubert？因为他对 Lily 做的事？她不退缩、不躲开",
+   "verbatim": "‘Is that why you did it? Is that why you killed Hubert? Because of what he did to Lily?’ Cynthia didn’t flinch. She didn’t pull away."
+  },
+  {
+   "n": 63,
+   "lines": "146",
+   "who": "Cynthia / Helena（内心）",
+   "did": "Cynthia 正面直面他，勇敢得如同迎战三倍于己身躯的士兵；Helena 心里补了一句：也一样地倔得愚蠢",
+   "verbatim": "She faced him, brave as any soldier readying to battle a man thrice her size. And just as stubbornly stupid."
+  },
+  {
+   "n": 64,
+   "lines": "149",
+   "who": "George Lippert",
+   "did": "Lippert 转回身面向 Cynthia",
+   "verbatim": "Lippert turned back to Cynthia."
+  },
+  {
+   "n": 65,
+   "lines": "152",
+   "who": "George Lippert（心声，Helena 读心听到）",
+   "did": "Lippert 的心声：她到底能知道些什么？",
+   "verbatim": "What can she possibly know?"
+  },
+  {
+   "n": 66,
+   "lines": "155",
+   "who": "Lily",
+   "did": "Lily 倒抽一口气，手指按住嘴唇，眼里涌满泪水，恳求父亲说他没有杀人",
+   "verbatim": "Lily gasped, pressing her fingers against her lips as her eyes filled with tears. ‘Father, you didn’t. Please tell me that you didn’t kill ’im."
+  },
+  {
+   "n": 67,
+   "lines": "155",
+   "who": "Lily",
+   "did": "Lily 说：他（Hubert）的命不值你的命（别为他赔上自己）",
+   "verbatim": "’is life isn’t worth yours.’"
+  },
+  {
+   "n": 68,
+   "lines": "158",
+   "who": "Helena（内心）",
+   "did": "Helena 愿意拿自己最心爱的充月水晶打赌：George Lippert 和任何好父亲一样想保护小女儿、让她幸福，而 Hubert 之死两样都做到了",
+   "verbatim": "Helena would bet her favourite moon-charged crystals that George Lippert, like any good father, wanted to protect his little girl and make her happy."
+  },
+  {
+   "n": 69,
+   "lines": "161",
+   "who": "Helena",
+   "did": "Helena 低下头把魔法聚焦到 Lippert 身上读心；他对 Lily 的爱意在他望向 Cynthia 时化成恶毒的暴怒",
+   "verbatim": "She tipped her head down to focus her magic on him. His thoughts of love for Lily dissolved into vicious rage as he looked at Cynthia."
+  },
+  {
+   "n": 70,
+   "lines": "161",
+   "who": "Helena（读心）",
+   "did": "Helena 潜入更深处：他恨 Cynthia、更恨 Hubert，但压倒一切的是他对自身的憎恨",
+   "verbatim": "But as Helena sank deeper into his mind, it was hatred for himself that eclipsed all else."
+  },
+  {
+   "n": 71,
+   "lines": "161",
+   "who": "Helena（读心结论）",
+   "did": "读心结论：那份自恨不是因为他夺走了一条人命，而是因为他没能夺走",
+   "verbatim": "Not because he had taken a man’s life. But because he hadn’t."
+  },
+  {
+   "n": 72,
+   "lines": "164",
+   "who": "George Lippert（心声，Helena 读心读到）",
+   "did": "Lippert 的心声：该死！（悔恨自己没杀成）",
+   "verbatim": "Damnation!"
+  },
+  {
+   "n": 73,
+   "lines": "167",
+   "who": "叙述（Helena 读心结论）",
+   "did": "George Lippert 憎恨自己，因为他去杀 Hubert Burrows 时已经太迟",
+   "verbatim": "George Lippert despised himself for being too late to kill Hubert Burrows."
+  },
+  {
+   "n": 74,
+   "lines": "170",
+   "who": "Helena（读心所见）",
+   "did": "一幅画面从 Lippert 的思绪中被拉出闪现：Hubert 死在书房地板上，血泊如暗红光环环绕，Lippert 咒骂上帝剥夺了他伸张正义复仇的机会",
+   "verbatim": "An image flashed, pulled from Lippert’s thoughts. Hubert, dead on the floor of his study, blood pooled around him like a dark-red halo"
+  },
+  {
+   "n": 75,
+   "lines": "173",
+   "who": "Helena",
+   "did": "Helena 说出：Hubert 死的时候你在场",
+   "verbatim": "‘You were there when Hubert died.’"
+  },
+  {
+   "n": 76,
+   "lines": "176",
+   "who": "George Lippert",
+   "did": "Lippert 的脸涨红，放开女儿的双手转向 Helena（her 指 Helena），硕大身躯因强压的愤怒而震颤",
+   "verbatim": "Lippert’s face flushed red as he let go of his daughter’s hands and turned to her. His large body vibrated with barely leashed rage."
+  },
+  {
+   "n": 77,
+   "lines": "179",
+   "who": "George Lippert",
+   "did": "Lippert 咆哮「你什么都不知道」，大步冲向 Helena",
+   "verbatim": "‘You don’t know anyfink,’ he bellowed, taking huge strides towards her."
+  },
+  {
+   "n": 78,
+   "lines": "182",
+   "who": "Lily / George Lippert",
+   "did": "Lily 喊着「父亲！」扑抓他的手臂，他却像甩掉疯狗一样把女儿甩开，继续逼近直到几乎与 Helena 脚尖对脚尖",
+   "verbatim": "‘Father!’ Lily lunged for his arm, but he shook his daughter off like a rabid dog and kept moving until he was almost toe to toe with Helena."
+  },
+  {
+   "n": 79,
+   "lines": "182",
+   "who": "George Lippert / Helena（判断）",
+   "did": "他被怒火蒙眼，没看见 Helena 的眼睛正变成银色；但他虽怒，却不至于真伤她",
+   "verbatim": "He was too blinded by red to see her eyes turn silver. But not so enraged he would do her any real harm."
+  },
+  {
+   "n": 80,
+   "lines": "182",
+   "who": "Helena（读心）",
+   "did": "即便在他逼近时，Helena 也听见他脑内尖叫着提醒自己别吓着 Lily：吓跑 Helena 和 Cynthia 可以，但他不想伤害这两个女人，只想保住女儿",
+   "verbatim": "Even as he advanced, she heard his mind screaming at him not to frighten Lily."
+  },
+  {
+   "n": 81,
+   "lines": "185",
+   "who": "Helena",
+   "did": "Helena 拒绝被吓住——她开始意识到这个男人雷声大雨点小——她强迫自己的声音恢复平静",
+   "verbatim": "Refusing to be intimidated by a man she was beginning to realise was more bark than bite, Helena forced calm into her voice."
+  },
+  {
+   "n": 82,
+   "lines": "185",
+   "who": "Helena",
+   "did": "Helena 说：我知道你当时在场看见了他，死在地板上、躺在自己的血泊里；我不认为凶手是你，George",
+   "verbatim": "‘I know you saw him there. Dead on the floor. Lying in a pool of his own blood. I don’t think you killed him, George."
+  },
+  {
+   "n": 83,
+   "lines": "185",
+   "who": "Helena",
+   "did": "Helena 开出交易：帮我们找到杀 Hubert 的凶手，我们就离开此地、永不回来",
+   "verbatim": "Help us find Hubert’s killer, and we will leave here and never return.’"
+  },
+  {
+   "n": 84,
+   "lines": "188",
+   "who": "Cynthia",
+   "did": "Cynthia 身体一僵（对 Helena「永不回来」的承诺的反应）",
+   "verbatim": "Cynthia stiffened."
+  },
+  {
+   "n": 85,
+   "lines": "191",
+   "who": "George Lippert / Helena",
+   "did": "Lippert 僵住、连眨几次眼；一个名字从他心底浮起，清晰得像许愿井底闪光的新便士；但 Helena 觉得那不可能",
+   "verbatim": "Lippert froze and blinked several times. A name surfaced in his mind. As clear as a shiny penny glinting at the bottom of a wishing well. But it was impossible."
+  },
+  {
+   "n": 86,
+   "lines": "194",
+   "who": "George Lippert",
+   "did": "Lippert 嘴上否认：我一点头绪都没有",
+   "verbatim": "‘I ’aven’t a clue.’"
+  },
+  {
+   "n": 87,
+   "lines": "197",
+   "who": "Helena",
+   "did": "Helena 断言：你在撒谎，话语带着笃定的锋芒",
+   "verbatim": "‘You’re lying.’ Helena’s words carried the bite of conviction."
+  },
+  {
+   "n": 88,
+   "lines": "200",
+   "who": "George Lippert",
+   "did": "Lippert 瑟缩了一下",
+   "verbatim": "Lippert flinched."
+  },
+  {
+   "n": 89,
+   "lines": "203",
+   "who": "Cynthia",
+   "did": "Cynthia 追问：至少说说你是怎么进他办公室的；MacDougal 警司的人问过所有仆人，没人记得 Hubert 那天上午见过任何人",
+   "verbatim": "‘At least tell us how you got into his office. Superintendent MacDougal’s men questioned all of the staff. No one recalls Hubert meeting with anyone that morning.’"
+  },
+  {
+   "n": 90,
+   "lines": "203",
+   "who": "Cynthia / Helena（内心）",
+   "did": "Cynthia 拒绝退让；Helena 心里评价这既令人钦佩又令人胆寒",
+   "verbatim": "Cynthia refused to back down. It was both admirable and terrifying."
+  },
+  {
+   "n": 91,
+   "lines": "206",
+   "who": "George Lippert",
+   "did": "Lippert 唇边浮起自得的小笑，反问：你们就这么确定他没在深更半夜见人？我敢打赌是他自己去开的门",
+   "verbatim": "A small, smug smile curled his lips. ‘You so sure ’e didn’t meet with someone in the dead o’ the night? Answered the door ’imself, I’ll bet."
+  },
+  {
+   "n": 92,
+   "lines": "206",
+   "who": "George Lippert",
+   "did": "Lippert 讥讽：他不想让他那体面府邸里的人知道他往来的是什么货色；没人记得他提过自己的夫人，他忙着追逐你们送到他面前的无辜女孩",
+   "verbatim": "Didn’t want anyone in ’is fine ’ousehold knowing the company ’e kept when the ’onest folks were all sleeping."
+  },
+  {
+   "n": 93,
+   "lines": "206",
+   "who": "George Lippert",
+   "did": "Lippert 骂 Cynthia 像驯狮人喂野兽一样，把他家的注意力拴在像自己女儿 Lily 这样无助的小女孩身上，自己却招摇着赶去下一场舞会或沙龙",
+   "verbatim": "Like a lion tamer feeding ’er beast, you were. Kept ’is attentions busy on ’elpless chits like my Lily while you swanned off to yer next damned ball or salon.’"
+  },
+  {
+   "n": 94,
+   "lines": "209",
+   "who": "Cynthia",
+   "did": "Cynthia 脸色发白，开口说「那不是——」即被打断（原句在破折号处截断，破折号前有不可见的 U+2060 连接符）",
+   "verbatim": "Cynthia’s face paled."
+  },
+  {
+   "n": 95,
+   "lines": "212",
+   "who": "Helena",
+   "did": "Helena 打断并威胁：再敢用那种腔调对她说话，就不必担心脖子套进绞刑架的绳索了——她会亲手拧断，替法院省掉裁决有罪无罪的功夫",
+   "verbatim": "‘Speak to her that way again, and you won’t need to worry about your neck winding up in the hangman’s noose. I’ll break it myself and save the courts having to decide if you’re innocent or guilty.’"
+  },
+  {
+   "n": 96,
+   "lines": "212",
+   "who": "Helena",
+   "did": "Helena 的怒火如失控的巨浪再次掀起，蓄势要用保护性的力量撞击他",
+   "verbatim": "Helena’s rage reared once more like a rogue wave, ready to ram him with protective power."
+  },
+  {
+   "n": 97,
+   "lines": "215",
+   "who": "Lily",
+   "did": "Lily 喊「够了！」——她柔和的嗓音第一次因愤怒拔高反而更有力量；她说我们并不是彼此的敌人",
+   "verbatim": "‘Enough!’ Lily’s soft voice was all the more compelling when it finally rose in anger. ‘We are not each other’s enemies.’"
+  },
+  {
+   "n": 98,
+   "lines": "215",
+   "who": "Lily",
+   "did": "Lily 转向父亲、用手指戳他的胸口：别再怪 Lady Burrows 只因为她活着而他死了；如果她没看出他对女雇员干的勾当，那是因为他把罪孽藏进黑暗，而夫人活在光里",
+   "verbatim": "She turned to her father, pointing a finger at his chest. ‘Lady Burrows was nothing but kind to me, so stop blaming ’er just because she’s alive and ’e’s not."
+  },
+  {
+   "n": 99,
+   "lines": "215",
+   "who": "Lily",
+   "did": "Lily 转向 Helena：你也别再威胁我父亲",
+   "verbatim": "She turned to Helena. ‘And you stop threatening my father.’"
+  },
+  {
+   "n": 100,
+   "lines": "218",
+   "who": "Helena",
+   "did": "Helena 后退一步躲开 Lily 食指的戳击，心里断定这套战术是女孩从 Lippert 那里学来的",
+   "verbatim": "Helena stepped back to avoid being jabbed by Lily’s index finger, a tactic the girl must have learned from Lippert."
+  },
+  {
+   "n": 101,
+   "lines": "221",
+   "who": "Lily",
+   "did": "Lily 替父亲辩解：他在用他所知道最好的方式保护我，但他连苍蝇都不会伤害；随后当面向父亲求证「你会吗？」；她的目光里满是被说中的希望与被说错的恐惧",
+   "verbatim": "‘He’s trying to protect me the best way ’e knows how, but ’e wouldn’t ’urt a fly. Would you?’ Her gaze was full of hope she was right and fear that she might be wrong."
+  },
+  {
+   "n": 102,
+   "lines": "224",
+   "who": "George Lippert / Helena（内心）",
+   "did": "Helena 觉得 Lippert 对女儿的爱令人不忍目睹；他摇着头说：更好的父亲会因为 Hubert 对你做的事而杀了他",
+   "verbatim": "Lippert’s love for his daughter was a painful thing to behold. He shook his head. ‘A better father would ’ave killed ’im fer what ’e did to you.’"
+  },
+  {
+   "n": 103,
+   "lines": "227",
+   "who": "Lily",
+   "did": "Lily 说「你是最好的父亲」；她的下巴颤抖，一滴泪终于逃出、滚下脸颊",
+   "verbatim": "‘You are the best father.’ Lily’s chin quivered as a tear escaped, rolling down her cheek."
+  },
+  {
+   "n": 104,
+   "lines": "227",
+   "who": "Lily / George Lippert",
+   "did": "Lily 扑向父亲，Lippert 用粗壮的手臂紧紧搂住她",
+   "verbatim": "She rushed to him, and he wrapped his burly arms around her tightly."
+  },
+  {
+   "n": 105,
+   "lines": "230",
+   "who": "Cynthia",
+   "did": "Cynthia 说「你必须让我帮你」，声音因太多情绪而发紧",
+   "verbatim": "‘You must let me help you.’ Cynthia’s voice was tight with too many emotions."
+  },
+  {
+   "n": 106,
+   "lines": "233",
+   "who": "Lily",
+   "did": "Lily 从父亲怀里挣脱，对 Cynthia 说：他做的事不是你的错，也不是你的责任",
+   "verbatim": "Lily pulled free of her father. ‘What ’e did ain’t yer fault. And it ain’t yer responsibility, neither.’"
+  },
+  {
+   "n": 107,
+   "lines": "236",
+   "who": "Cynthia",
+   "did": "Cynthia 挺直脊背，在 Helena 眼前变回 Marchioness Kentmore（肯特莫尔侯爵夫人）",
+   "verbatim": "Cynthia straightened her spine, transforming before Helena’s eyes into Marchioness Kentmore."
+  },
+  {
+   "n": 108,
+   "lines": "236",
+   "who": "Cynthia",
+   "did": "Cynthia 说：你曾是我的雇员、还是极出色的雇员；给你一份离别赠礼完全在我的权利之内",
+   "verbatim": "‘You were my employee, and an excellent one at that. It is well within my rights to give you a parting gift."
+  },
+  {
+   "n": 109,
+   "lines": "236",
+   "who": "Cynthia",
+   "did": "Cynthia 说：丈夫去世时给了她一笔可观的赡养年金；她会从中划出一部分留给 Lily 的孩子，收或不收、原封不动都随 Lily",
+   "verbatim": "My husband granted me a substantial living upon his death. A portion of that money will be set aside for your child. Whether you take it or let it sit untouched is up to you.’"
+  },
+  {
+   "n": 110,
+   "lines": "239",
+   "who": "Lily",
+   "did": "Lily 开口叫「Lady Burrows——」便停住（该行破折号前同样有不可见的 U+2060 连接符，句意未完）",
+   "verbatim": "‘Lady Burrows"
+  },
+  {
+   "n": 111,
+   "lines": "242",
+   "who": "Cynthia",
+   "did": "Cynthia 坚持：我坚持；就算不为我，也为了你的孩子",
+   "verbatim": "‘I insist. If not for me, for your child.’"
+  },
+  {
+   "n": 112,
+   "lines": "245",
+   "who": "Helena（心声）",
+   "did": "Helena 心声（无引号）：女神啊，她真是光彩照人",
+   "verbatim": "Dear goddess, she is magnificent."
+  },
+  {
+   "n": 113,
+   "lines": "248",
+   "who": "Helena（内心）",
+   "did": "Helena 的心在胸腔里胀大；她说不清那是骄傲、钦佩还是敬意，也许三者兼有",
+   "verbatim": "Helena’s heart swelled in her chest. Whether it was pride, admiration, or respect, she couldn’t say. Perhaps a combination of all three."
+  },
+  {
+   "n": 114,
+   "lines": "251",
+   "who": "George Lippert",
+   "did": "Lippert 拒绝：我们不要 Hubert Burrows 妻子的任何东西；宁可饿死也不拿你被诅咒的钱一个便士",
+   "verbatim": "‘We don’t want nuffink from the wife of ’ubert Burrows. Better we starve than take a penny of yer cursed money.’"
+  },
+  {
+   "n": 115,
+   "lines": "251",
+   "who": "George Lippert / Lily",
+   "did": "George Lippert 双臂抱胸，对女儿落在他右肩上的一记巴掌置若罔闻",
+   "verbatim": "George Lippert crossed his arms over his chest, ignoring the slap his daughter landed on his right shoulder."
+  },
+  {
+   "n": 116,
+   "lines": "254",
+   "who": "Helena（内心）",
+   "did": "Helena 判断：他们已拿到 sought 的信息，再留下去只会延长 Cynthia 在一个永不满足的男人手里的折磨",
+   "verbatim": "They got the information they were seeking. Staying further would only prolong Cynthia’s torture at the hands of a man who would never be satisfied."
+  },
+  {
+   "n": 117,
+   "lines": "254",
+   "who": "Helena",
+   "did": "Helena 骂了句「受够了这男人！」，不忍再看 Cynthia 受煎熬；她拉起 Cynthia 的双手说「我们该走了」",
+   "verbatim": "She took Cynthia’s hands. ‘We should leave.’"
+  },
+  {
+   "n": 118,
+   "lines": "257",
+   "who": "Cynthia",
+   "did": "Helena 想拉 Cynthia 往门口走，Cynthia 却往回抽手；她不肯转身背对 George Lippert",
+   "verbatim": "But Cynthia pulled back as Helena tried to tug her towards the door. She wouldn’t turn away from George Lippert."
+  },
+  {
+   "n": 119,
+   "lines": "260",
+   "who": "Cynthia",
+   "did": "Cynthia 说：你说得对，先生，我本该知道自己宅邸的走廊和房间里在发生什么；她的唇颤抖，一颗泪在她淡褐色（hazel）的眼中闪光",
+   "verbatim": "‘You are right, sir. I should have known what was going on in the hallways and rooms of my own house.’ Her lip trembled, and a tear glimmered in her hazel eyes."
+  },
+  {
+   "n": 120,
+   "lines": "263",
+   "who": "Helena（内心）",
+   "did": "Helena 既心疼想减轻 Cynthia 的痛苦，又几乎同样强烈地想朝 George Lippert 脸上冲一股水流直到他求饶；但她能做的只有握住她的手、让她把话说完",
+   "verbatim": "Helena ached to ease her suffering almost as fiercely as she wished to funnel a stream of water at George Lippert’s face until he begged for mercy. But all she could do was hold her hand and let Cynthia speak."
+  },
+  {
+   "n": 121,
+   "lines": "266",
+   "who": "Cynthia",
+   "did": "Cynthia 自述：谈到丈夫，她很早就学得透透的——不问问题、不提要求（无论为自己还是为他人），日子就好过得多",
+   "verbatim": "‘When it came to my husband, I learned early and well that life was far more pleasant if I didn’t ask any questions or make any demands. For myself or others.’"
+  },
+  {
+   "n": 122,
+   "lines": "269",
+   "who": "Helena",
+   "did": "Helena 捏了捏 Cynthia 的手指；心想如果只有她们两人，她会接住那颗落下的泪、让它渗过皮肤进入血管，把 Cynthia 的悲伤当作自己的吸收掉（虚拟语气，并未发生）",
+   "verbatim": "Helena squeezed Cynthia’s fingers. If they were alone, she would have caught the tear that fell and let it sink past her skin and into her veins, absorbing Cynthia’s sorrow as her own."
+  },
+  {
+   "n": 123,
+   "lines": "272",
+   "who": "Cynthia",
+   "did": "Cynthia 吸吸鼻子、清清喉咙继续说，声音渐强：我本该更勇敢、本该更好，可我没有；但我想从现在开始变得更好",
+   "verbatim": "Sniffing, Cynthia cleared her throat and continued, her voice gaining strength. ‘I should have been braver. I should have been better, and I wasn’t. But I would like to be better now."
+  },
+  {
+   "n": 124,
+   "lines": "272",
+   "who": "Cynthia",
+   "did": "Cynthia 请求 Lippert 让她做这件事：为了你的女儿和你的外孙；如果这理由不够，那就为了气那个严重虐待 Lily 的人",
+   "verbatim": "But I would ask that you let me do this. For your daughter and your grandchild. And if that isn’t a good enough reason, then to spite the man who abused Lily so grievously."
+  },
+  {
+   "n": 125,
+   "lines": "272",
+   "who": "Cynthia",
+   "did": "Cynthia 发誓：Hubert 最恨的事莫过于知道他珍视的钱被拿去供养 Lily 的孩子",
+   "verbatim": "Because I swear to you, Hubert would hate nothing more than knowing his precious money is being used to support Lily’s child.’"
+  },
+  {
+   "n": 126,
+   "lines": "275",
+   "who": "George Lippert",
+   "did": "Lippert 脚跟后仰、扬起下巴，默默打量 Cynthia",
+   "verbatim": "Lippert rocked back on his heels and tilted his chin as he silently assessed Cynthia."
+  },
+  {
+   "n": 127,
+   "lines": "275",
+   "who": "Helena（内心）",
+   "did": "Helena 心想：要是她能把想法塞进别人脑子而不是只能从中偷取就好了——她会强迫 George Lippert 接受 Cynthia 的提议、再跪下为那些恶语乞求宽恕",
+   "verbatim": "If only Helena had the ability to put thoughts in other people’s minds instead of snatching them out."
+  },
+  {
+   "n": 128,
+   "lines": "275",
+   "who": "Helena（内心）",
+   "did": "退而求其次，Helena 认真考虑给这个男人下咒，尽管她立过不伤害的誓约",
+   "verbatim": "she was seriously contemplating hexing the man, regardless of her oath to do no harm."
+  },
+  {
+   "n": 129,
+   "lines": "278",
+   "who": "George Lippert",
+   "did": "Lippert 说：你是个精明的女人，Lady Burrows",
+   "verbatim": "‘Yer a shrewd woman, Lady Burrows.’"
+  },
+  {
+   "n": 130,
+   "lines": "281",
+   "who": "Cynthia",
+   "did": "Cynthia 的手在 Helena 掌中发抖，回答说：那就再添一条到你那张罪名清单上吧",
+   "verbatim": "Cynthia’s hand trembled in Helena’s. ‘One more fault you can add to the list.’"
+  },
+  {
+   "n": 131,
+   "lines": "284",
+   "who": "George Lippert",
+   "did": "那抹小笑回到 Lippert 唇边，但这次眼里没有得意；他说：好吧，我们接受你的提议——只因为我会知道那个混蛋（Hubert）每当一个他的便士填进我们口袋都要在坟里翻身",
+   "verbatim": "‘All righ’. We accept yer offer. But only because I’ll know the bastard is rolling over in ’is grave with every penny of ’is that lines our pockets.’"
+  },
+  {
+   "n": 132,
+   "lines": "287",
+   "who": "Helena / Cynthia",
+   "did": "Helena 松了口气，Cynthia 也呼出一口颤抖的气",
+   "verbatim": "Helena breathed a sigh of relief as Cynthia let out a shaky breath."
+  },
+  {
+   "n": 133,
+   "lines": "290",
+   "who": "Cynthia",
+   "did": "Cynthia 说下周派她的商务代理人（man of business）来敲定细节；她放开 Helena 的手，指尖一路留下一道痕迹",
+   "verbatim": "‘I shall have my man of business visit you next week to finalise the details.’ She let go of Helena’s hand, her fingers leaving a trail in their wake."
+  },
+  {
+   "n": 134,
+   "lines": "293",
+   "who": "Cynthia",
+   "did": "Cynthia 走向 Lily，抓住女孩的双肩、低下头对上她的目光，说：你是个了不起的女人，配得上远比你忍受过的更多，我非常抱歉",
+   "verbatim": "Walking to Lily, she gripped the girl’s shoulders and ducked her head to meet her gaze. ‘You are a remarkable woman who deserves far more than what you have endured. I’m so very sorry.’"
+  },
+  {
+   "n": 135,
+   "lines": "296",
+   "who": "Lily",
+   "did": "Lily 吸吸鼻子、抬起下巴微笑，一滴泪终于滑落；她说：我对你的感受一模一样，Lady Burrows",
+   "verbatim": "Lily sniffed, lifting her chin and smiling as a tear finally escaped. ‘I feel exactly the same about you, Lady Burrows.’"
+  },
+  {
+   "n": 136,
+   "lines": "299",
+   "who": "Cynthia",
+   "did": "Cynthia 承受这句话，如同职业拳手硬吃一记结结实实的刺拳（比喻，非肢体冲突）",
+   "verbatim": "Cynthia absorbed the words the way a prize fighter might absorb a solidly landed jab."
+  },
+  {
+   "n": 137,
+   "lines": "302",
+   "who": "Cynthia",
+   "did": "Cynthia 说：我想是我们该走的时候了",
+   "verbatim": "‘I think it is time for us to leave.’"
+  },
+  {
+   "n": 138,
+   "lines": "305",
+   "who": "Helena",
+   "did": "Helena 警惕地盯着 Lippert、领路走出小房子；门在身后关上，两人站到街上一块阳光地里（Cynthia 的马车在此等候），Helena 舒了口气",
+   "verbatim": "Helena kept a wary gaze on Lippert as she led the way out of the small house. When the door was shut behind them, and they stood in a sunny patch on the street where Cynthia’s carriage waited, she breathed a sigh of relief."
+  },
+  {
+   "n": 139,
+   "lines": "308",
+   "who": "Helena（原文未具名，据 311 行 Cynthia didn’t answer 推断）",
+   "did": "说话人评价：刚才那场可以更好，但也本可能糟糕得多",
+   "verbatim": "‘That could have been better, but it also could have been far worse.’"
+  },
+  {
+   "n": 140,
+   "lines": "311",
+   "who": "Cynthia",
+   "did": "Cynthia 没有回答；她盯着街道，仿佛那里藏着宝贵答案，回答着 Helena 只能猜测的、在她脑中飞转的问题",
+   "verbatim": "Cynthia didn’t answer. She stared at the street as though it held precious answers to questions Helena could only guess were racing through her mind."
+  },
+  {
+   "n": 141,
+   "lines": "314",
+   "who": "Helena（心声）",
+   "did": "Helena 心声：为了听见她的心声，我什么都愿意付出",
+   "verbatim": "What I wouldn’t give to hear her thoughts."
+  },
+  {
+   "n": 142,
+   "lines": "317",
+   "who": "Helena（内心）",
+   "did": "这已成了两人相处时不断重演的心念；当不知道这个女人想什么时，Helena 感到无力支撑她",
+   "verbatim": "It was becoming a constant refrain whenever they were together. Helena felt helpless to support Cynthia when she didn’t know what the woman was thinking."
+  },
+  {
+   "n": 143,
+   "lines": "320",
+   "who": "footman（男仆）",
+   "did": "男仆从车夫座上跳下来，打开车门，扶两位女士登上 landau（四座敞篷马车）",
+   "verbatim": "The footman leapt down from his perch, opened the door and helped both women into the landau."
+  },
+  {
+   "n": 144,
+   "lines": "323",
+   "who": "Hamlet",
+   "did": "Helena 刚在坐垫上坐定，Hamlet 就冲她叫了一声、从车厢地板跳进她膝上，差点把她撞翻",
+   "verbatim": "Hamlet yipped at Helena, nearly bowling her over as he leapt from the carriage floor into her lap the moment she settled herself on the squabs."
+  },
+  {
+   "n": 145,
+   "lines": "323",
+   "who": "Helena（推测）",
+   "did": "Helena 推测这可怜的小东西一定吓坏了（must have been 表推测，非动物心声）",
+   "verbatim": "The poor thing must have been terrified."
+  },
+  {
+   "n": 146,
+   "lines": "323",
+   "who": "Helena",
+   "did": "Helena 用手抚过 Hamlet 柔软的毛，说：我们没事了，Hamlet",
+   "verbatim": "She ran her hands over his soft fur. ‘We’re all right, Hamlet.’"
+  },
+  {
+   "n": 147,
+   "lines": "326",
+   "who": "Cynthia",
+   "did": "Cynthia 说「它在担心我们」，随即抿紧嘴唇，仿佛想把话收回去（recall her words＝收回话语，非回忆）",
+   "verbatim": "‘He was worried for us,’ Cynthia said before pressing her lips together as if she might somehow recall her words."
+  },
+  {
+   "n": 148,
+   "lines": "329",
+   "who": "Helena",
+   "did": "Helena 反问：是它告诉你的吗？",
+   "verbatim": "‘Did he tell you that?’"
+  },
+  {
+   "n": 149,
+   "lines": "332",
+   "who": "Helena（心声）",
+   "did": "Helena 心声暗叫糟糕：现在绝不是拿她（Cynthia）的能力去当面质问她的时机",
+   "verbatim": "Drat. This is hardly the right time to confront her with her powers."
+  },
+  {
+   "n": 150,
+   "lines": "335",
+   "who": "Helena（判断）",
+   "did": "Helena 判断：无论 Cynthia 在那间昏暗排屋里多么勇敢，与 George Lippert 的谈话已让她血肉模糊；她发现了关于丈夫的几个可怕真相，却认定自己没阻止他是自己的错",
+   "verbatim": "No matter how courageous Cynthia had been in the dingy row house, Helena knew she was raw and bleeding from her conversation with George Lippert."
+  },
+  {
+   "n": 151,
+   "lines": "335",
+   "who": "Helena（判断）",
+   "did": "Helena 觉得这种自责荒唐、想跟她谈，但 Cynthia 没准备好——尤其没准备好讨论她千真万确是个女巫这一事实（此为 Helena 的判断，原文未证实）",
+   "verbatim": "But Cynthia wasn’t ready. And she certainly wasn’t ready to discuss the fact that she was most certainly a witch."
+  },
+  {
+   "n": 152,
+   "lines": "338",
+   "who": "Helena",
+   "did": "Helena 挥手把自己的问题撇开，改口说：算了，别在意",
+   "verbatim": "Helena waved away her own question. ‘Never mind.’"
+  },
+  {
+   "n": 153,
+   "lines": "341",
+   "who": "Cynthia",
+   "did": "Cynthia 满是不信地重复「别在意？」，说：你指责我能……跟你的狐狸说话？我要是自以为能和动物交流，那就是个疯子",
+   "verbatim": "‘Never mind?’ Disbelief coated her words. ‘You accuse me of being able to, what? Speak to your fox? I would be a lunatic if I thought I could communicate with animals.’"
+  },
+  {
+   "n": 154,
+   "lines": "344",
+   "who": "Helena",
+   "did": "Helena 接了一句：或者是女巫",
+   "verbatim": "‘Or a witch.’"
+  },
+  {
+   "n": 155,
+   "lines": "347",
+   "who": "Cynthia",
+   "did": "Cynthia 笑声发紧，说：别荒唐；我见过你和 Clio 的本事，猜 Ellie 也一样迷人；你们生来就属于某种不可思议、独一无二的东西，而我生来只做侯爵的妻子——瞧我这份差事干得多「出色」",
+   "verbatim": "‘Don’t be ridiculous. I’ve seen what you and Clio can do. I suspect Ellie is just as enchanting. You were born into something incredible and unique. I was born to be a marquess’s wife. Look how well I’m doing with that.’"
+  },
+  {
+   "n": 156,
+   "lines": "347",
+   "who": "Cynthia",
+   "did": "Cynthia 的笑近乎歇斯底里，声称：我身上没有任何魔法",
+   "verbatim": "Her laughter bordered on hysterical. ‘There is nothing magical about me.’"
+  },
+  {
+   "n": 157,
+   "lines": "350",
+   "who": "Helena",
+   "did": "Helena 不知先反驳哪一句、该多小心措辞；她说：你在马车前对付那条狗时出色极了；如果你不信自己血管里流着魔法，就把那一刻解释给我听",
+   "verbatim": "‘You were magnificent with that dog in front of the carriage. If you don’t believe you have magic running through your veins, explain that moment to me.’"
+  },
+  {
+   "n": 158,
+   "lines": "353",
+   "who": "Cynthia",
+   "did": "Cynthia 张嘴、闭上、又张开，泪水涌满眼睛，呼出一口颤抖的气说：我不知道那是什么",
+   "verbatim": "Cynthia opened her mouth, shut it, opened it again, and tears filled her eyes before she exhaled a shaky breath. ‘I don’t know what that was.’"
+  },
+  {
+   "n": 159,
+   "lines": "356",
+   "who": "Helena（内心）",
+   "did": "Helena 心想：接受力量与自身的意义可能是件可怕的事——尤其当 Cynthia 从小被教养得只从别人的评价里取得自我价值",
+   "verbatim": "Accepting power and significance could be a terrifying thing. Especially when Cynthia had been raised to believe her only worth came from the opinion of others."
+  },
+  {
+   "n": 160,
+   "lines": "359",
+   "who": "Helena（内心）",
+   "did": "Helena 判断 Cynthia 需要时间与安慰——恰是两样她害怕提供的东西，因为她面临打破的可能远不止「不伤害」的誓约",
+   "verbatim": "She needed time and comfort. Two things Helena was scared to provide. Because she was at risk of breaking more than just her oath to do no harm."
+  },
+  {
+   "n": 161,
+   "lines": "359",
+   "who": "Helena（内心）",
+   "did": "Helena 承认 Cynthia Burrows 是那种她可以交心的女人，而这于她绝无可能；这一天再次提醒她爱对她而言多么危险",
+   "verbatim": "Cynthia Burrows was the kind of woman she could give her heart to. And that was impossible for Helena. This day had reminded her why love was dangerous for her."
+  },
+  {
+   "n": 162,
+   "lines": "362",
+   "who": "Helena",
+   "did": "Helena 心想自己给不了安慰但 Hamlet 能，便凑近它的尖耳朵低语：去吧",
+   "verbatim": "She might not be able to provide comfort, but Hamlet could. She whispered into his pointed ear. ‘Go on.’"
+  },
+  {
+   "n": 163,
+   "lines": "365",
+   "who": "Hamlet",
+   "did": "Hamlet 转向她，金色眼睛对上灰色的眼睛；它不会粗俗到去舔 Helena，但用头顶蹭了蹭她的脸颊",
+   "verbatim": "He turned to her, golden eyes meeting grey. Hamlet would never be so crass as to lick Helena, but he bumped his head against her cheek"
+  },
+  {
+   "n": 164,
+   "lines": "365",
+   "who": "Hamlet",
+   "did": "Hamlet 灵巧地从车厢一侧跳到另一侧，打了三个紧凑的转，在车厢右侧与 Cynthia 的黑裙之间的窄缝里安顿下来",
+   "verbatim": "before nimbly hopping from one side of the carriage to the other, making three tight circles and settling himself in the snug space between the right side of the carriage and Cynthia’s black skirts."
+  },
+  {
+   "n": 165,
+   "lines": "368",
+   "who": "Cynthia",
+   "did": "Cynthia 朝 Helena 伸出手",
+   "verbatim": "Cynthia reached her hand to Helena."
+  },
+  {
+   "n": 166,
+   "lines": "371",
+   "who": "Helena（心声）",
+   "did": "Helena 心声：我不行",
+   "verbatim": "I can’t."
+  },
+  {
+   "n": 167,
+   "lines": "374",
+   "who": "Helena",
+   "did": "可还没意识到 Helena 就已经动了，坐到 Cynthia 的另一侧；地方很挤，却给了她借口把手搁在 Cynthia 腿上、隔着层层丝绸与亚麻轻轻捏她的大腿",
+   "verbatim": "But she was moving before she knew it, taking Cynthia’s opposite side. It was a tight fit, but it gave her an excuse to rest her hand on Cynthia’s leg and gently squeeze her thigh through layers of silk and linen."
+  },
+  {
+   "n": 168,
+   "lines": "377",
+   "who": "Helena（心声）",
+   "did": "Helena 心声自我开解：我只是在当朋友，当朋友没有害处",
+   "verbatim": "I’m just being a friend. There’s no harm in being a friend."
+  },
+  {
+   "n": 169,
+   "lines": "380",
+   "who": "Cynthia",
+   "did": "Cynthia 先僵了片刻，随后慢慢沿座位滑下，直到头靠在 Helena 肩上；香草与忍冬的气息混着佛手柑与柠檬（此句为 Helena 所闻，无主语）",
+   "verbatim": "Cynthia held herself stiff for a moment before slowly sliding down on the seat until her head rested on Helena’s shoulder. Vanilla and honeysuckle blended with bergamot and lemon."
+  },
+  {
+   "n": 170,
+   "lines": "383",
+   "who": "Helena",
+   "did": "Helena 说：你知道这不是你的错——你丈夫对 Lily 做的事；她转过头，把下巴搁在 Cynthia 头顶",
+   "verbatim": "‘It isn’t your fault, you know. What your husband did to Lily.’ Helena turned so she could rest her chin on top of Cynthia’s head."
+  },
+  {
+   "n": 171,
+   "lines": "386",
+   "who": "Cynthia",
+   "did": "Cynthia 问：他到底虐待了多少女孩？多少无辜女人在我的宅子里受伤害，而我却在摆弄裙装和花边小玩意？",
+   "verbatim": "‘How many girls did he abuse, Helena? How many innocent women were hurt in my house while I fussed over my gowns and fripperies?’"
+  },
+  {
+   "n": 172,
+   "lines": "389",
+   "who": "Helena",
+   "did": "Helena 说：没人会指望你知道的，Cyn",
+   "verbatim": "‘No one would expect you to know, Cyn.’"
+  },
+  {
+   "n": 173,
+   "lines": "392",
+   "who": "Cynthia",
+   "did": "Cynthia 的头发蹭着 Helena 的脖子，她摇头说：我指望我自己知道；我一直自认挺聪明，其实不是——我是世界上最大的傻瓜",
+   "verbatim": "Cynthia’s hair rubbed against her neck as she shook her head. ‘I expect me to know. I’ve always thought myself rather clever, but I’m not. I’m the world’s biggest fool.’"
+  },
+  {
+   "n": 174,
+   "lines": "395",
+   "who": "Helena",
+   "did": "Helena 什么也没说，因为没有话语能帮上忙；她用自己的身体温暖 Cynthia，让安静抚慰她",
+   "verbatim": "Helena didn’t say anything. Because there were no words to help. Instead, she let her body warm Cynthia’s."
+  },
+  {
+   "n": 175,
+   "lines": "395",
+   "who": "Helena",
+   "did": "Helena 引导自己的力量，把安慰一波波倾注到 Cynthia 身上，并让思绪远远避开这一切意味着什么",
+   "verbatim": "She funnelled her power and poured it over Cynthia in waves of comfort. And kept her thoughts well away from what any of this meant."
+  },
+  {
+   "n": 176,
+   "lines": "398",
+   "who": "Helena（内心）",
+   "did": "Helena 想：有些关于丈夫、关于她自己、关于她的力量的事实，Cynthia 终将必须接受；但当 Helena 自己也还没面对自己那一堆不舒服的真相时，她没立场说这些；她们真是一对（同病相怜的人）",
+   "verbatim": "But Helena was in no place to tell her such things when she wasn’t facing her own set of uncomfortable truths. What a pair they made."
+  }
+ ],
+ "relationships_noted": [
+  {
+   "pair": "Helena ↔ Cynthia",
+   "rel": "Helena 对 Cynthia 有强烈保护欲与迷恋，一度在心里称她为「她的 woman」并动了杀心护她；随后又自我否认",
+   "verbatim": "She would kill George Lippert before she let him put a hand on her woman. … Do no harm. I made an oath. And she isn’t my woman.",
+   "lines": "56, 62"
+  },
+  {
+   "pair": "Helena → Cynthia",
+   "rel": "Helena 自察迷恋过深、认为不可原谅，并认定 Cynthia 是她可以交心的女人，而这于她绝无可能",
+   "verbatim": "She was becoming far too infatuated with the woman. It was unforgiveable.",
+   "lines": "131"
+  },
+  {
+   "pair": "Helena ↔ Lily",
+   "rel": "Helena 同情并想拥抱为 Cynthia 辩护的 Lily，但克制住没有抱",
+   "verbatim": "Helena wanted to hug the girl for such an honest defence of Cynthia. And she didn’t hug.",
+   "lines": "95"
+  },
+  {
+   "pair": "Cynthia ↔ Lily",
+   "rel": "前雇主与雇员：Lily 曾在 Cynthia（Lady Burrows）处做事，称她待自己一直很好；Cynthia 称她是极出色的雇员",
+   "verbatim": "Lady Burrows has been nothing but kind to me since I got my post. … You were my employee, and an excellent one at that.",
+   "lines": "74, 236"
+  },
+  {
+   "pair": "George Lippert ↔ Lily",
+   "rel": "父女：Lily 称他是最好的父亲；他脑中满载对女儿的爱，只想护她平安；他自责没为女儿杀掉 Hubert",
+   "verbatim": "‘You are the best father.’ … His thoughts of love for Lily dissolved into vicious rage as he looked at Cynthia.",
+   "lines": "227, 161"
+  },
+  {
+   "pair": "George Lippert → Cynthia",
+   "rel": "由 blaming（骂她袖手旁观、拒其施舍）转为有条件接受她的资助提议",
+   "verbatim": "She stood by and let ’im abuse you like a common whore. … All righ’. We accept yer offer.",
+   "lines": "77, 284"
+  },
+  {
+   "pair": "George Lippert → Hubert",
+   "rel": "深恨 Hubert，并因自己去杀他时已太迟而自我憎恨",
+   "verbatim": "George Lippert despised himself for being too late to kill Hubert Burrows.",
+   "lines": "167"
+  },
+  {
+   "pair": "Cynthia ↔ Hubert",
+   "rel": "夫妻十年；Cynthia 称他为 evil creature、bastard，说自己学会不问不求以求相安",
+   "verbatim": "the whole ten bloody years I was married to such an evil creature.",
+   "lines": "89"
+  },
+  {
+   "pair": "Hubert → Lily",
+   "rel": "Hubert 严重虐待 Lily、致其怀孕后解雇她赶回 Cheapside（Helena 视角的判定＋Lippert 的指控）",
+   "verbatim": "there was no doubt Hubert had abused Lily most grievously. Then terminated her employment and sent her scuttling back to Cheapside with nothing.",
+   "lines": "38"
+  },
+  {
+   "pair": "Helena ↔ 她母亲",
+   "rel": "Helena 血液里有「母亲的病症」，两小时内第二次发作，并令她惊觉自己在变得像母亲",
+   "verbatim": "It was the second time in as many hours she felt her mother’s sickness in her blood.",
+   "lines": "128"
+  },
+  {
+   "pair": "Helena ↔ coven（誓约）",
+   "rel": "Helena 是光之巫，与 coven 立过 do no harm 誓约，本章多次约束她的杀意",
+   "verbatim": "She had taken an oath with her coven to do no harm.",
+   "lines": "122"
+  },
+  {
+   "pair": "Helena ↔ Hamlet",
+   "rel": "Hamlet 是 Helena 的狐狸伙伴，会跳上她膝头受抚慰，也能听她低语差遣去安慰别人",
+   "verbatim": "‘We’re all right, Hamlet.’ … She might not be able to provide comfort, but Hamlet could.",
+   "lines": "323, 362"
+  },
+  {
+   "pair": "Cynthia ↔ Hamlet",
+   "rel": "Cynthia 无意中说出 Hamlet 在担心她们，暗示她可能听懂了它（本章未证实）",
+   "verbatim": "‘He was worried for us,’ Cynthia said before pressing her lips together as if she might somehow recall her words.",
+   "lines": "326"
+  },
+  {
+   "pair": "Helena ↔ Clio / Ellie",
+   "rel": "Cynthia 口中 Helena 的同族：她见过 Helena 和 Clio 施法，猜 Ellie 也一样",
+   "verbatim": "I’ve seen what you and Clio can do. I suspect Ellie is just as enchanting.",
+   "lines": "347"
+  },
+  {
+   "pair": "Helena ↔ Sinclair",
+   "rel": "Sinclair 曾列过可能谋杀 Hubert 的男人名单，Lippert 在名单联想之内",
+   "verbatim": "No wonder Sinclair thought of him when he was listing men who might have murdered Hubert Burrows.",
+   "lines": "38"
+  },
+  {
+   "pair": "Superintendent MacDougal 的人 ↔ Lippert 宅邸仆人",
+   "rel": "警方已问过 Hubert 家所有仆人，无人记得案发上午他见过任何人",
+   "verbatim": "Superintendent MacDougal’s men questioned all of the staff.",
+   "lines": "203"
+  }
+ ],
+ "numbers_verbatim": [
+  {
+   "n": "章号十八（排版行）",
+   "verbatim": "Chapter 18",
+   "lines": "1"
+  },
+  {
+   "n": "章号十八（孤立数字行）",
+   "verbatim": "18",
+   "lines": "22"
+  },
+  {
+   "n": "至少两个（George Lippert 众多孩子中至少两个住这间屋）",
+   "verbatim": "at least two of George Lippert’s many children",
+   "lines": "35"
+  },
+  {
+   "n": "一个念头（水球化矛所需）",
+   "verbatim": "With one thought, that sphere could turn into a spear of water",
+   "lines": "53"
+  },
+  {
+   "n": "两半（把 Lippert 劈成两半）",
+   "verbatim": "that would cleave Lippert in two",
+   "lines": "53"
+  },
+  {
+   "n": "整整十个血腥年头（Cynthia 与 Hubert 的婚姻时长）",
+   "verbatim": "the whole ten bloody years I was married to such an evil creature",
+   "lines": "89"
+  },
+  {
+   "n": "同样多的几小时里的第二次（母亲的病症发作频率）",
+   "verbatim": "It was the second time in as many hours she felt her mother’s sickness in her blood.",
+   "lines": "128"
+  },
+  {
+   "n": "三倍于她的体格（Lippert 与 Cynthia 对比）",
+   "verbatim": "readying to battle a man thrice her size",
+   "lines": "146"
+  },
+  {
+   "n": "眨了好几次眼",
+   "verbatim": "Lippert froze and blinked several times.",
+   "lines": "191"
+  },
+  {
+   "n": "深夜（Lippert 猜测 Hubert 夜里见客的时间）",
+   "verbatim": "in the dead o’ the night",
+   "lines": "206"
+  },
+  {
+   "n": "那天上午（仆人无人记得 Hubert 会客的时间）",
+   "verbatim": "No one recalls Hubert meeting with anyone that morning.",
+   "lines": "203"
+  },
+  {
+   "n": "三者全部（骄傲、钦佩、敬意的组合）",
+   "verbatim": "Perhaps a combination of all three.",
+   "lines": "248"
+  },
+  {
+   "n": "再添一条（罪名清单计数）",
+   "verbatim": "One more fault you can add to the list.",
+   "lines": "281"
+  },
+  {
+   "n": "下周（商务代理登门时间）",
+   "verbatim": "I shall have my man of business visit you next week to finalise the details.",
+   "lines": "290"
+  },
+  {
+   "n": "好几个可怕的真相（Cynthia 发现的数量）",
+   "verbatim": "She had discovered several horrifying truths about her husband",
+   "lines": "335"
+  },
+  {
+   "n": "三个紧凑的圈（Hamlet 躺下前打转次数）",
+   "verbatim": "making three tight circles",
+   "lines": "365"
+  },
+  {
+   "n": "一个便士都不拿（Lippert 拒钱的极端说法）",
+   "verbatim": "Better we starve than take a penny of yer cursed money.",
+   "lines": "251"
+  },
+  {
+   "n": "每一枚便士（Hubert 的钱填进他们口袋）",
+   "verbatim": "with every penny of ’is that lines our pockets",
+   "lines": "284"
+  }
+ ],
+ "unresolved_in_source": [
+  {
+   "id": "U1",
+   "q": "Lily 腹中孩子的父亲身份只有 Lippert 的指控与 Helena 的推断，Lily 本人始终没有正面确认，原文也未给独立证据",
+   "evidence": "`77` ‘It was ’er husband what put that babe in yer belly.——只有 Lippert 单方指认；`155` Lily 只恳求父亲别杀人，未谈孩子父亲；本章无任何佐证情节，故属未交代",
+   "lines": "77, 155"
+  },
+  {
+   "id": "U2",
+   "q": "浮现在 Lippert 心头的那个名字是谁——全文未揭晓，且 Helena 还评了一句 But it was impossible",
+   "evidence": "`191` A name surfaced in his mind. As clear as a shiny penny glinting at the bottom of a wishing well. But it was impossible.——名字被刻意隐去，`194` Lippert 嘴上否认 ‘I ’aven’t a clue.’，原文没有再回到这个名字",
+   "lines": "191, 194"
+  },
+  {
+   "id": "U3",
+   "q": "Lippert 究竟如何进入 Hubert 的办公室／Hubert 是否深夜自己开门——只有 Lippert 的猜测，他对 Cynthia 的直接追问始终没有回答",
+   "evidence": "`203` ‘At least tell us how you got into his office.——问题提出后，`206` Lippert 只给出 Answered the door ’imself, I’ll bet.（我打赌）这种猜测，未证实",
+   "lines": "203, 206"
+  },
+  {
+   "id": "U4",
+   "q": "Lippert 到场时是否看见凶手、他在书房门口经历了什么——读心画面只显示他面对已死的 Hubert 咒骂上帝，其余空白",
+   "evidence": "`170` Hubert, dead on the floor of his study, blood pooled around him like a dark-red halo as Lippert cursed God for denying him the chance to claim his justified vengeance.——画面止于尸体与悔恨，未交代他进出经过",
+   "lines": "170"
+  },
+  {
+   "id": "U5",
+   "q": "Cynthia 是否真是女巫、马车前对狗做的到底是什么——本章只有 Helena 的判断与 Cynthia 的否认，双方都拿不出解释",
+   "evidence": "`335` she was most certainly a witch（Helena 判断）；`347` ‘There is nothing magical about me.’（Cynthia 否认）；`353` ‘I don’t know what that was.’——原文把矛盾原样留下，未下结论",
+   "lines": "335, 347, 353"
+  },
+  {
+   "id": "U6",
+   "q": "为什么 Helena 能读 Lippert 的心，却始终听不见 Cynthia 的想法——原文未解释",
+   "evidence": "`314` What I wouldn’t give to hear her thoughts. 与 `317` Helena felt helpless to support Cynthia when she didn’t know what the woman was thinking.——对照 `161` 她能深读 Lippert，读不到 Cynthia 的原因原文没有交代",
+   "lines": "314, 317, 161"
+  },
+  {
+   "id": "U7",
+   "q": "Helena 的母亲是谁、「mother’s sickness」指什么——本章只提发作，未交代来历",
+   "evidence": "`128` It was the second time in as many hours she felt her mother’s sickness in her blood.——只给出感受，无任何背景说明",
+   "lines": "128"
+  },
+  {
+   "id": "U8",
+   "q": "「马车前的那条狗」事件的经过——本章只回指，未复述（应发生在更早章节）",
+   "evidence": "`350` ‘You were magnificent with that dog in front of the carriage.——本章内不存在该场景的叙述，细节无从回溯",
+   "lines": "350"
+  },
+  {
+   "id": "U9",
+   "q": "为什么「爱」对 Helena 是危险的——只说这一天提醒了她原因，原因本身未展开",
+   "evidence": "`359` This day had reminded her why love was dangerous for her.——why 的具体内容原文没有给出",
+   "lines": "359"
+  },
+  {
+   "id": "U10",
+   "q": "Lily 本人是否接受这笔钱——George 以 We accept yer offer 代答，Lily 在 239 行欲言又止后再无表态",
+   "evidence": "`284` ‘All righ’. We accept yer offer.——说话人是 George；`239` ‘Lady Burrows——Lily 被打断/停住，之后原文未写她的决定",
+   "lines": "284, 239"
+  },
+  {
+   "id": "U11",
+   "q": "Sinclair 列出的疑似凶手名单还有谁、名单现状——本章只一笔带过",
+   "evidence": "`38` No wonder Sinclair thought of him when he was listing men who might have murdered Hubert Burrows.——名单内容未在本章展开",
+   "lines": "38"
+  },
+  {
+   "id": "U12",
+   "q": "Hamlet 的真实内心状态——全部经由 Helena 的推测（must have been terrified）和 Cynthia 的转述（He was worried for us）呈现，原文没有任何直接的动物心声",
+   "evidence": "`323` The poor thing must have been terrified.（推测）；`326` ‘He was worried for us,’（转述）——均非确证",
+   "lines": "323, 326"
+  },
+  {
+   "id": "U13",
+   "q": "Helena 口中 Cynthia 的「powers」到底包括什么（听懂动物？驯狗？更多？）——本章只列举现象，未定义",
+   "evidence": "`332` This is hardly the right time to confront her with her powers.——powers 的范围原文没有界定",
+   "lines": "332"
+  }
+ ],
+ "traps_noted": [
+  {
+   "id": "T1",
+   "trap": "47 行台词无说话人标注，容易被安到 George 或 Helena 头上；从方言 ye 和 50 行 Lippert 随即冲 Cynthia 反驳可推断说话人是 Lily。误判后果：把「不知道怎么开口」的道歉错位，重构出「George 早已知情并向 Cynthia 道歉」的假情节，也抹掉 Lily 主动向女主人坦白的关键动作",
+   "lines": "47, 50"
+  },
+  {
+   "id": "T2",
+   "trap": "50 行 You owe this bitch nothing 是 Lippert 冲 Cynthia 说的（spat the words at Cynthia），不是冲 Helena。误判后果：冲突方向调转，会以为 George 在骂 Helena 婊子、把 Helena 的杀意（53 行）错读成受辱报复而非护 Cynthia",
+   "lines": "50"
+  },
+  {
+   "id": "T3",
+   "trap": "56 行 Helena 心中称 Cynthia 为 her woman，62 行心声立刻自我否认 she isn’t my woman——两句相隔仅数行且都无引号，容易被当成前后矛盾或漏读其一。误判后果：把 Helena 的自我否认丢掉，写成两人已确认关系；或反过来把 56 行当她一时口误",
+   "lines": "56, 62"
+  },
+  {
+   "id": "T4",
+   "trap": "125 行心声 I’m becoming just like her 里的 her 指 Helena 的母亲（128 行 her mother’s sickness 为证），不是 Cynthia，也不是 Lily。误判后果：写成「Helena 自比 Cynthia」，把母女黑化伏线整个读丢",
+   "lines": "125, 128"
+  },
+  {
+   "id": "T5",
+   "trap": "140 行 She’s the very Devil!、152 行 What can she possibly know?、164 行 Damnation! 三处无引号独白都属于 George Lippert，是 Helena 用读心魔法听到的（143 行 Fear amplified his thoughts 与 161 行 sank deeper into his mind 为证）。误判后果：把 140 行当成叙述者评语或 Helena 自嘲，把 152 行安到 Helena 头上（她其实什么都知道），把 164 行安到 Lily 头上",
+   "lines": "140, 143, 152, 161, 164"
+  },
+  {
+   "id": "T6",
+   "trap": "83 行 Cynthia 说的 He’s right 承认的是 George 那句「她袖手旁观任丈夫虐待 Lily」（77 行），不是承认 George 杀了 Hubert（此时尚无人指控他杀人）。误判后果：把认罪方向调转，写成「Cynthia 承认丈夫是凶手」，颠覆整个案件时间线",
+   "lines": "77, 83"
+  },
+  {
+   "id": "T7",
+   "trap": "86 行 ‘You didn’t do this,’ she hissed 的 she 是 Helena——上一段（83 行）的主语是 Cynthia，代词极易顺接错。误判后果：把劝慰安到 Cynthia 头上，语义变成她自我开脱，而 Helena 反而缺席",
+   "lines": "83, 86"
+  },
+  {
+   "id": "T8",
+   "trap": "89 行 my nose／I was married 全部属 Cynthia（她自责十年没看出丈夫虐待），不是 Helena 的自述。误判后果：归属调转，写成 Helena 在忏悔自己的婚姻",
+   "lines": "89"
+  },
+  {
+   "id": "T9",
+   "trap": "92 行 ’e should ’ave stopped ’imself 中两个方言代词 ’e/’imself 都指 Hubert（他本该管住自己），不是指 Lily 的父亲 George。误判后果：指代错人，把 Lily 的强硬回击读成对父亲的指责，父女关系的呈现（74、107 行他一直在维护她）随之拧反",
+   "lines": "92"
+  },
+  {
+   "id": "T10",
+   "trap": "116 行 He grabbed Cynthia’s hands and wrenched them from his daughter’s 的动作方向是：George 抓住 Cynthia 的双手、把它们从 Lily 手中扯开——不是从 Cynthia 手上扯走什么东西，his daughter 是 Lily。误判后果：动作方向搞反，写成 George 拉扯自己女儿，与 89 行 Cynthia 握 Lily 双手的前情接不上",
+   "lines": "89, 116"
+  },
+  {
+   "id": "T11",
+   "trap": "119 行 rubbing where his finger had poked 的 his 是 Lippert（116 行他手指戳她胸口）。误判后果：误写成 Helena 碰了 Cynthia，凭空多出两人冲突",
+   "lines": "116, 119"
+  },
+  {
+   "id": "T12",
+   "trap": "122 行 The need to protect Cynthia nearly swept Helena away——想动武的是 Helena，被保护的是 Cynthia；同段却又强调 Helena 立誓 do no harm。误判后果：把暴力冲动安到 Cynthia 头上，或漏掉誓约与杀意的张力（本章 Helena 的核心矛盾）",
+   "lines": "122"
+  },
+  {
+   "id": "T13",
+   "trap": "128 行 the second time in as many hours＝两小时之内第二次，不是两天、也不是笼统的「又一次」。误判后果：时间跨度算错，把紧凑的心理滑坡摊成数日",
+   "lines": "128"
+  },
+  {
+   "id": "T14",
+   "trap": "161 行 Not because he had taken a man’s life. But because he hadn’t. 是双重否定转折：George 自恨不是因为杀了人，而是因为没杀成（167 行 too late to kill 为证）。误判后果：读反则 George 从「到迟了的复仇者」变成「已动手的凶手」，本章洗清嫌疑的核心翻转被写反",
+   "lines": "161, 167"
+  },
+  {
+   "id": "T15",
+   "trap": "170 行的画面是 Helena 从 Lippert 思绪里拉出的他所目睹的场景（Hubert 已死、他咒骂上帝），不是叙述者插入的凶案回放，更不是 George 行凶的画面。误判后果：把目击画面当行凶证据，直接给 George 定罪",
+   "lines": "170"
+  },
+  {
+   "id": "T16",
+   "trap": "176 行 turned to her 的 her 是 Helena（173 行刚说完话的人），不是他刚放开手的女儿 Lily。误判后果：把 George 的怒火指向改成对女儿，父女线崩坏",
+   "lines": "173, 176"
+  },
+  {
+   "id": "T17",
+   "trap": "182 行 shook his daughter off like a rabid dog 的喻体结构是「像甩掉一条疯狗那样甩开女儿」——狗是比喻甩动的样子，不是说 Lily 是狗、也不是说 George 像狗。同段 he 全部指 George、she/her 指 Helena。误判后果：喻体错位＋代词错配，把甩开女儿读成 Lily 攻击父亲",
+   "lines": "182"
+  },
+  {
+   "id": "T18",
+   "trap": "185 行的交易（帮我们找凶手就永不回来）是 Helena 开出的条件；188 行 Cynthia stiffened 恰说明 Cynthia 不愿走。误判后果：把提议安给 Cynthia，并把她的僵硬误读成赞成",
+   "lines": "185, 188"
+  },
+  {
+   "id": "T19",
+   "trap": "191 行 A name surfaced in his mind 是名字浮现在 George 心中，But it was impossible 是 Helena 对该名字可能性的判断；名字本身全文未揭晓。误判后果：臆测补名（写成某个已登场人物），或以为 Helena 不知道名字——其实她读到了但认为不可能",
+   "lines": "191"
+  },
+  {
+   "id": "T20",
+   "trap": "203 行逼问 how you got into his office 的是 Cynthia（Helena 在 197 行只说了 You’re lying）；It was both admirable and terrifying 是 Helena 对 Cynthia 的评价。误判后果：台词归属颠倒，把 Cynthia 本章最勇敢的转折记到 Helena 账上",
+   "lines": "197, 203"
+  },
+  {
+   "id": "T21",
+   "trap": "206 行 Answered the door ’imself, I’ll bet 是 George 的猜测（I’ll bet），不是他目击的事实；Like a lion tamer feeding ’er beast, you were 骂的是 Cynthia 像驯狮人喂兽一样把女孩喂给 Hubert。误判后果：把猜测升格为证词写进案情；比喻方向读反成 Hubert 喂 Cynthia",
+   "lines": "206"
+  },
+  {
+   "id": "T22",
+   "trap": "209 行 Cynthia’s face paled. ‘That isn’t——句子在破折号处被打断（212 行 Helena 的威胁接上），破折号前还藏着一个不可见 U+2060 连接符；239 行 ‘Lady Burrows 同样以 U+2060＋破折号截断。误判后果：把残句当完整台词引用（verbatim 对不上原文），或漏掉「被打断」这一互动事实",
+   "lines": "209, 212, 239"
+  },
+  {
+   "id": "T23",
+   "trap": "215 行 Lily 一段话里有两个听话人：先转向父亲（stop blaming ’er），后转向 Helena（you stop threatening my father）。误判后果：把两句合并安给同一对象，抹掉 Lily 同时压住两边的调停动作",
+   "lines": "215"
+  },
+  {
+   "id": "T24",
+   "trap": "218 行 a tactic the girl must have learned from Lippert 是 Helena 的推测（must have），不是叙述事实。误判后果：把推断写成定论",
+   "lines": "218"
+  },
+  {
+   "id": "T25",
+   "trap": "221 行前两个 ’e 指 Lily 的父亲 George，结尾 Would you? 是 Lily 当面直接问父亲（224 行 He shook his head 作答）。误判后果：把反问安给 Helena 或读成修辞问，丢掉父亲被迫当面表态这一关键节拍",
+   "lines": "221, 224"
+  },
+  {
+   "id": "T26",
+   "trap": "224 行 A better father would ’ave killed ’im fer what ’e did to you：’im＝Hubert，you＝Lily——George 自责不是好父亲，因为他没为女儿杀了 Hubert。误判后果：代词全错，读成「好父亲会杀了你(Lily)」之类的恐怖歧义",
+   "lines": "224"
+  },
+  {
+   "id": "T27",
+   "trap": "227 行 She rushed to him, and he wrapped his burly arms around her：she＝Lily、he＝George。误判后果：拥抱双方颠倒，或误以为 Cynthia 扑向 George",
+   "lines": "227"
+  },
+  {
+   "id": "T28",
+   "trap": "236 行 transforming into Marchioness Kentmore 说的是 Cynthia 的正式头衔；而 65 行 Helena 自称 you are speaking to a marchioness——两位女性各有 marchioness 身份，Lily 和 George 口中之 Lady Burrows／Mrs ’igh-and-Mighty 也都指 Cynthia。误判后果：头衔张冠李戴，把 Helena 写成 Kentmore 或把 Cynthia 的觉醒时刻安给 Helena",
+   "lines": "65, 236"
+  },
+  {
+   "id": "T29",
+   "trap": "245 行 Dear goddess, she is magnificent. 是 Helena 的心声（无引号），赞的是 Cynthia（248 行 Helena’s heart swelled 为证）；紧接着 248 行才是叙述。误判后果：当成出声台词或 Lily 的话，错上加错地把赞美对象写成 Helena 自己",
+   "lines": "245, 248"
+  },
+  {
+   "id": "T30",
+   "trap": "251 行 the slap his daughter landed on his right shoulder 是 Lily 打了父亲 George 右肩一巴掌（父亲无视）；251 行与 116 行 George 两次拒绝金钱（措辞不同），284 行才接受。误判后果：把「打」安给 Helena 或 Cynthia；把两次拒绝合并成一次、或把接受提前，谈判弧线全乱",
+   "lines": "116, 251, 284"
+  },
+  {
+   "id": "T31",
+   "trap": "254 行 a man who would never be satisfied 指 George（正在折磨 Cynthia 的人），不是已死的 Hubert。误判后果：把在场冲突写成对亡夫的恐惧，时间线错乱",
+   "lines": "254"
+  },
+  {
+   "id": "T32",
+   "trap": "257 行拉人往门口走的是 Helena、往回抽手不走的是 Cynthia（Cynthia pulled back as Helena tried to tug her）。误判后果：动作双方颠倒，写成 Cynthia 想走被 Helena 拦下——恰好与两人意愿相反",
+   "lines": "257"
+  },
+  {
+   "id": "T33",
+   "trap": "269 行 If they were alone, she would have caught the tear 是虚拟语气，接泪入血的动作没有发生。误判后果：把未发生的魔法动作写进事件流，还会提前暴露 Helena 吸收他人悲伤的能力设定",
+   "lines": "269"
+  },
+  {
+   "id": "T34",
+   "trap": "275 行 If only Helena had the ability to put thoughts in other people’s minds instead of snatching them out 明确 Helena 只能读取、不能植入思想；同段 hexing（下咒）也只是 contemplating（考虑）。误判后果：以为 Helena 操纵了 George 接受提议（284 行），把 Lippert 家的和解写成魔法胁迫",
+   "lines": "275, 284"
+  },
+  {
+   "id": "T35",
+   "trap": "284 行 the bastard is rolling over in ’is grave 的 bastard 指死去的 Hubert（用他的钱气他），不是骂 Cynthia（113 行 Cynthia 说的 My bastard of a husband 才指 Hubert 本人、也是同一骂法）。误判后果：指代错人，读成 George 在骂 Cynthia 死在坟里",
+   "lines": "284, 113"
+  },
+  {
+   "id": "T36",
+   "trap": "290 行 my man of business＝Cynthia 的商务代理人（律师/管事类），不是她的丈夫——Hubert 已死。误判后果：以为 Hubert 还活着或 Cynthia 另有男人，凭空造出人物",
+   "lines": "290"
+  },
+  {
+   "id": "T37",
+   "trap": "299 行 prize fighter／solidly landed jab 是比喻：Cynthia 承受 Lily 的话如拳手挨拳，没有任何肢体冲突。误判后果：写成发生了打斗",
+   "lines": "299"
+  },
+  {
+   "id": "T38",
+   "trap": "305 行主语链 Helena kept…she led…she breathed：出门后松口气的 she 是 Helena；308 行无标注台词据 311 行 Cynthia didn’t answer 也应归 Helena。误判后果：把释然与总结安给 Cynthia，抹掉她此刻其实沉默出神（311 行）的状态",
+   "lines": "305, 308, 311"
+  },
+  {
+   "id": "T39",
+   "trap": "323 行 The poor thing must have been terrified 是 Helena 对 Hamlet 状态的推测（must have been），全章没有任何动物直接心声；365 行 would never be so crass as to lick 同样是 Helena 式拟人推断。误判后果：写成动物 POV 心声，破坏「全章第三人称贴 Helena」的视角判定",
+   "lines": "323, 365"
+  },
+  {
+   "id": "T40",
+   "trap": "Hamlet 是 Helena 的狐狸（341 行 your fox、365 行 golden eyes、362 行 pointed ear），而 350 行 Cynthia 面对的 that dog in front of the carriage 是另一只动物、且是本章之前发生的事。误判后果：把 fox 和 dog 当成同一只，进而把 350 行的「魔法时刻」错安到车上的 Hamlet 头上",
+   "lines": "323, 341, 350, 365"
+  },
+  {
+   "id": "T41",
+   "trap": "326 行 as if she might somehow recall her words 的 recall＝收回话语（不是回忆）；这句话让 Cynthia 无意暴露了她可能听懂 Hamlet。误判后果：词义读错，漏掉本章埋下的「Cynthia 是女巫」关键证词",
+   "lines": "326"
+  },
+  {
+   "id": "T42",
+   "trap": "332 行 confront her with her powers 的两个 her 都指 Cynthia——是 Cynthia 的能力，不是 Helena 的。误判后果：归属调转，写成 Helena 怕暴露自己的能力",
+   "lines": "332"
+  },
+  {
+   "id": "T43",
+   "trap": "341 行 I would be a lunatic if I thought I could communicate with animals 是反事实条件句：Cynthia 断然否认自己能和动物说话（正因为她刚说漏了 He was worried for us）。误判后果：读成她承认能交流，326→341 的自相矛盾节拍（本章重点）就没了",
+   "lines": "326, 341"
+  },
+  {
+   "id": "T44",
+   "trap": "350 行 If you don’t believe you have magic running through your veins, explain that moment to me——Helena 要求解释的 that moment 指更早章节的狗事件，不在本章内。误判后果：在本章里找狗的场景找不到，或把该 moment 错认成 326 行 Cynthia 说漏嘴那一刻",
+   "lines": "350"
+  },
+  {
+   "id": "T45",
+   "trap": "356 行 Especially when Cynthia had been raised to believe…是 Helena 的推断性叙述，不是 Cynthia 自述。误判后果：把推断当人物证言引用",
+   "lines": "356"
+  },
+  {
+   "id": "T46",
+   "trap": "362 行 whispered into his pointed ear：his＝Hamlet（狐狸的尖耳）、she＝Helena。误判后果：以为 Helena 在对男仆或车夫低语",
+   "lines": "362"
+  },
+  {
+   "id": "T47",
+   "trap": "365 行动作时序固定为：蹭 Helena 脸颊 → 跳到车厢另一侧 → 打三个转 → 在 Cynthia 裙边卧下；Hamlet 离开 Helena、去陪 Cynthia 是 Helena 差遣的结果（362 行 Go on）。误判后果：时序颠倒或漏掉「受命安慰」这层，把 Hamlet 写成自行其是",
+   "lines": "362, 365"
+  },
+  {
+   "id": "T48",
+   "trap": "371 行心声 I can’t 与 374 行行动 But she was moving before she knew it 相反——先拒绝后身体先动；374 行 rest her hand 的 her 是 Helena。误判后果：按心声写「Helena 没动」，丢掉本章最重要的口是心非节拍；或把手搁腿的动作安给 Cynthia",
+   "lines": "371, 374"
+  },
+  {
+   "id": "T49",
+   "trap": "377 行 I’m just being a friend 是 Helena 的自我说服（心声），叙述并不背书；380 行随后是 Cynthia 主动把头靠上 Helena 肩。误判后果：把心声当事实定论，或把 380 行的主动姿态安给 Helena",
+   "lines": "377, 380"
+  },
+  {
+   "id": "T50",
+   "trap": "380 行 Vanilla and honeysuckle blended with bergamot and lemon 是无主语气味句，是 Cynthia 靠肩后 Helena 闻到的。误判后果：补出错误主语（如有人在洒香水），或漏掉这是 Helena 的感官",
+   "lines": "380"
+  },
+  {
+   "id": "T51",
+   "trap": "383 行 It isn’t your fault 是 Helena 对 Cynthia 说的（后半 Helena turned so she could rest her chin on top of Cynthia’s head 确证方位：Cynthia 的头在 Helena 肩上）；386 行反问才是 Cynthia。误判后果：两句对调后变成 Cynthia 在安慰 Helena，整段马车戏的安慰方向反了",
+   "lines": "383, 386"
+  },
+  {
+   "id": "T52",
+   "trap": "392 行 I expect me to know 的 me＝myself（Cynthia 要求自己知道），不是「我指望某人知道」。误判后果：读成她在要求 Helena 或别人，自责的力度全失",
+   "lines": "392"
+  },
+  {
+   "id": "T53",
+   "trap": "395 行 she let her body warm Cynthia’s／She funnelled her power and poured it over Cynthia：施动者全是 Helena，Cynthia 是被温暖、被倾注安慰的一方；同段 kept her thoughts well away 也是 Helena 在刻意回避。误判后果：归属颠倒成 Cynthia 在施法安慰 Helena",
+   "lines": "395"
+  },
+  {
+   "id": "T54",
+   "trap": "398 行 when she wasn’t facing her own set of uncomfortable truths 的 she＝Helena（她自己也有一堆没面对的真相），不是 Cynthia；What a pair they made 是 Helena 对两人的自嘲总评。误判后果：结尾自省安错人，把「两人各自逃避真相」的对称收束读成单方面指责 Cynthia",
+   "lines": "398"
+  },
+  {
+   "id": "T55",
+   "trap": "1–34 行与 303–304 行是排版内容（Chapter 18、孤立数字 18、大段空行），不是正文；本章无任何出版方推广行混入正文，但 22 行的孤立 18 容易被当成正文数字引用。误判后果：把排版行当事件或语料，行号统计与 verbatim 校验被污染",
+   "lines": "1, 22, 303–304"
+  }
+ ]
 }
