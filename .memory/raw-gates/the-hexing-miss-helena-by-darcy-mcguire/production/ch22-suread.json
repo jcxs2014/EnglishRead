@@ -1,0 +1,30 @@
+=== 素读清单：the-hexing-miss-helena-by-darcy-mcguire ch22（text 17281 字符）===
+  ✅ [    46:   163] 章首辛西娅的世界在拒绝之后崩塌，从眩晕的美梦落进冷现实。  ←「Cynthia’s world, moments ago…」
+  ✅ [  2378:  2432] 海伦娜断言没有任何时间长度能改变她所发的誓；誓的具体内容与出处本章没有交代。  ←「‘There is no amount of time …」
+  ✅ [  2720:  2763] 辛西娅当面指出海伦娜拒绝她是因为害怕，并说她把拒绝包装成替对方着想。  ←「You are rejecting me because…」
+  ✅ [  4527:  4589] 辛西娅不肯接受只做朋友，向海伦娜道别后独自离开。  ←「It was a cruel torture she c…」
+  ✅ [ 14710: 14817] 克莱奥把辛西娅移动物件的能力归因于她是地巫，与构成万物的土元素相连。  ←「Clio believed Cynthia’s abil…」
+  ✅ [  7632:  7678] 辛西娅决定把寡妇宅改成有需要的女人的栖身之所，并援助被休伯特伤害的女佣。  ←「I am turning it into a home …」
+  ✅ [ 16584: 16665] 辛西娅否定了用爱情药水夺走海伦娜自由意志的念头。  ←「Cynthia could never hex the …」
+  ✅ [ 17100: 17191] 章末辛西娅仍确认罗温是对的：两人灵魂交织，只是海伦娜看不见。  ←「Because Aunt Rowan was right…」
+
+已写入 .memory/raw-gates/the-hexing-miss-helena-by-darcy-mcguire/production/ch22-suread.json
+�寡妇宅改成有需要的女人的栖身之所，并援助被休伯特伤害的女佣。",
+   "anchor": "I am turning it into a home for women in need.",
+   "start": 7632,
+   "end": 7678
+  },
+  {
+   "fact": "辛西娅否定了用爱情药水夺走海伦娜自由意志的念头。",
+   "anchor": "Cynthia could never hex the woman she loved with a potion stealing her free will.",
+   "start": 16584,
+   "end": 16665
+  },
+  {
+   "fact": "章末辛西娅仍确认罗温是对的：两人灵魂交织，只是海伦娜看不见。",
+   "anchor": "Because Aunt Rowan was right. Even if Helena couldn’t see it. Their souls were intertwined.",
+   "start": 17100,
+   "end": 17191
+  }
+ ]
+}
