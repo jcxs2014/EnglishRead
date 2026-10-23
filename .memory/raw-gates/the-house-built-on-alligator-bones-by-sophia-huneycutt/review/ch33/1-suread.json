@@ -1,0 +1,221 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch33",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch33_chapter_thirty_two.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "第一个真正的吻、开始接受商业课",
+   "anchor": "My first real kiss with Harrison outshone my misgivings about becoming a Greer",
+   "start": 18,
+   "end": 96,
+   "line": 9
+  },
+  {
+   "fact": "冒充 Joe 妻子向医院确认",
+   "anchor": "which Gazzie made me, posing as Joe’s wife, confirm with the hospital",
+   "start": 602,
+   "end": 671,
+   "line": 9
+  },
+  {
+   "fact": "订黄色太阳裙备约会",
+   "anchor": "I ordered a yellow sundress for the occasion",
+   "start": 828,
+   "end": 872,
+   "line": 9
+  },
+  {
+   "fact": "电台预告下周末可能有热带风暴",
+   "anchor": "the radio announced the possibility of a tropical storm the following weekend",
+   "start": 1165,
+   "end": 1242,
+   "line": 15
+  },
+  {
+   "fact": "Gazzie 静听电话、哼两声挂断",
+   "anchor": "Gazzie listened in silence, grunted twice, and said goodbye",
+   "start": 1466,
+   "end": 1525,
+   "line": 15
+  },
+  {
+   "fact": "四分钟内出发",
+   "anchor": "she yelled",
+   "start": 1537,
+   "end": 1547,
+   "line": 18
+  },
+  {
+   "fact": "倒车冲出停车场",
+   "anchor": "She threw it into reverse before I’d buckled myself in, whipping us out of the parking lot",
+   "start": 1847,
+   "end": 1937,
+   "line": 27
+  },
+  {
+   "fact": "Harrison 称巡周边时见办公室亮灯",
+   "anchor": "I saw a light on in the office",
+   "start": 3542,
+   "end": 3572,
+   "line": 60
+  },
+  {
+   "fact": "报告现场有血",
+   "anchor": "“Blood,” he replied.",
+   "start": 3620,
+   "end": 3640,
+   "line": 66
+  },
+  {
+   "fact": "递水瓶、Gazzie 眯眼",
+   "anchor": "I handed him my water bottle. As he tipped it to his lips, Gazzie narrowed her eyes.",
+   "start": 3833,
+   "end": 3917,
+   "line": 81
+  },
+  {
+   "fact": "Gazzie 推开 Harrison 进办公楼",
+   "anchor": "She pushed past Harrison and through the front doors.",
+   "start": 4259,
+   "end": 4312,
+   "line": 102
+  },
+  {
+   "fact": "Harrison 抓臂让她转身面对",
+   "anchor": "he caught me by the arm, gently pulling me to face him",
+   "start": 4342,
+   "end": 4396,
+   "line": 105
+  },
+  {
+   "fact": "血中滑倒摔伤前臂",
+   "anchor": "I slipped, flying through the air and landing on my forearm with a crack",
+   "start": 5681,
+   "end": 5753,
+   "line": 123
+  },
+  {
+   "fact": "Gazzie 斥「你真丢人」",
+   "anchor": "You’re embarrassing yourself",
+   "start": 6622,
+   "end": 6650,
+   "line": 135
+  },
+  {
+   "fact": "搂腰扶稳至眼前黑点散去",
+   "anchor": "She pulled me up, holding me around the waist until the black spots in my vision dissipated",
+   "start": 6655,
+   "end": 6746,
+   "line": 138
+  },
+  {
+   "fact": "录像凌晨两点缺一小时、被删",
+   "anchor": "Security company says someone deleted the recording",
+   "start": 7048,
+   "end": 7099,
+   "line": 144
+  },
+  {
+   "fact": "疑员工或前员工渗透监控公司",
+   "anchor": "Maybe one of our employees or ex-employees has an in with the surveillance company?",
+   "start": 7446,
+   "end": 7529,
+   "line": 153
+  },
+  {
+   "fact": "Joe 在圣彼得堡医院；问 Nova",
+   "anchor": "Joe’s at the hospital in St. Petersburg",
+   "start": 7665,
+   "end": 7704,
+   "line": 156
+  },
+  {
+   "fact": "Nova 带行李箱离开、房子已空",
+   "anchor": "Friend on the force said she left with a bunch of suitcases. House is empty.",
+   "start": 7799,
+   "end": 7875,
+   "line": 159
+  },
+  {
+   "fact": "命 Harrison 叫清洁工并全天跟进",
+   "anchor": "call the cleaners",
+   "start": 8576,
+   "end": 8593,
+   "line": 174
+  },
+  {
+   "fact": "命两人留宿农场通宵",
+   "anchor": "Then you two will stay the night.",
+   "start": 8677,
+   "end": 8710,
+   "line": 174
+  },
+  {
+   "fact": "Harrison 拉手腕到雨中冲血",
+   "anchor": "Taking my wrists between his fingers, Harrison pulled my arms out from under the awning’s protection",
+   "start": 9838,
+   "end": 9938,
+   "line": 213
+  }
+ ],
+ "relations": [
+  [
+   "我↔Gazzie：祖母与孙女，以继承为筹码施压",
+   "my grandmother",
+   "L9"
+  ],
+  [
+   "我↔Harrison：新恋人",
+   "My first real kiss with Harrison",
+   "L9"
+  ],
+  [
+   "Gazzie↔Harrison：雇员服从其命",
+   "Harrison",
+   "L174"
+  ],
+  [
+   "Joe 妻子身份由「我」假冒",
+   "posing as Joe’s wife",
+   "L9"
+  ],
+  [
+   "Nova 行踪只确认已离开、去向未知",
+   "House is empty.",
+   "L159"
+  ]
+ ],
+ "numbers": [
+  [
+   "Joe 请假一周",
+   "a week off",
+   "L9"
+  ],
+  [
+   "四分钟内出发",
+   "Four minutes",
+   "L18"
+  ],
+  [
+   "四小时车程（到圣彼得堡）",
+   "a four-hour drive away",
+   "L27"
+  ],
+  [
+   "录像凌晨两点缺一小时",
+   "an hour around two in the morning",
+   "L144"
+  ],
+  [
+   "Ironheart 诅咒逾百年",
+   "over a century",
+   "L126"
+  ],
+  [
+   "尸潮事件在两周前",
+   "two weeks before",
+   "L117"
+  ]
+ ]
+}
