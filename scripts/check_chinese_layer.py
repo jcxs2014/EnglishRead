@@ -298,6 +298,7 @@ def sections(block):
        `sections()` 的返回值多一个 `dups` 键，调用方据此判红。
     """
     out, cur, dups = {}, None, {}
+    synthetic = set()   # 由裸段落推导出的「中文理解」标记
     for raw in block.split("\n"):
         line = raw.strip()
         if not line or line == "---":
@@ -306,7 +307,12 @@ def sections(block):
         m = LAB.match(s)
         if m:
             cur = m.group(1)
-            if cur in out:
+            if cur in synthetic:
+                # 先前的裸段落只是没写标签的「中文理解」，正式标签来了就合并，不算重复
+                out[cur] = (out[cur] + " " + m.group(2).strip()).strip()
+                out[cur + "\x00多组"] = [out[cur]]
+                synthetic.discard(cur)
+            elif cur in out:
                 # 同名标签第二次出现 ⇒ 结构性重复（AGENTS 第 9 条 c：重复内容视为缺陷）
                 dups.setdefault(cur, []).append(m.group(2).strip())
                 # 保留第一组（标准格式 `- **X**：` 通常在前），但**不丢**后面的
@@ -314,6 +320,13 @@ def sections(block):
             else:
                 out[cur] = m.group(2).strip()
                 out.setdefault(cur + "\x00多组", []).append(m.group(2).strip())
+        elif cur is None and line.strip() and not line.startswith(("> ", "#", "|", "```")) and "**" not in line:
+            # 2026-10-23 第六修：引语行之后、第一个标签之前的裸段落，
+            # 是没写标签的「中文理解」（the-man 全书这种写法，30 块被判缺项）。
+            cur = "中文理解"
+            synthetic.add(cur)
+            out[cur] = line.strip()
+            out.setdefault(cur + "\x00多组", []).append(line.strip())
         elif cur and line.startswith(("- ", "* ")):
             out[cur] = (out[cur] + " " + s).strip() if out[cur] else s
         elif cur and not line.startswith(("> ", "#", "|", "```")):
