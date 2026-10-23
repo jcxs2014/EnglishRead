@@ -38,3 +38,4 @@
 - **只记不改 10 条**：ch18 四处漏项（非转折点）＋ ch27 四处未取用；书内不一致 4 组（ch18 说话人漂移与 `She’s the very Devil!`；ch27 `Blair House` vs `Kentmore House`、花瓶施事）——**一律不裁决**。
 - **本轮未改任何稿**，只出指令（`.memory/raw-gates/<slug>/2026-10-23-复核与修复指令.md`），未推送。
 | 2026-10-23 | the-house-on-otley-road-by-rosa-silverman | 快 | 38 min | gate 0 / fragments 315·0 MISS / 总览 49/49 | 总结层 1 · 实体 0（summary_names 10 条提示均正当）· 章内 2（ch19/ch43 跨段拼接） | 3 | 否 | 同会话审查；拼接类均为机器盲区，由 R3 段落对账抓出 |
+| 2026-10-23 | the-house-built-on-alligator-bones-by-sophia-huneycutt | 深（用户升级） | 约两日（49 章串行＋R1 子代理 20 批） | gate 0 · 引语块 313 全程不变 · 443 片段 0 MISS · 总览 125/125 | 总结层（快审已判）· 章内 49 章全覆盖 | 阻断 123（直撇号 33/10 章＋时间事实错译 4＋漏项对应类约 90）＋提示约 140＋假红约 75（四族不修） | 已升级 | 49/49 章四件套（1-suread 每章 20 facts MISS 0 / 2-machine / 3-diff / 4-verdict）；铁律「先素读后 md」全程未破；新增缺陷全在中文层（引语层 0）；只出指令未改稿（`.memory/raw-gates/<slug>/2026-10-23-深审复核与修复指令.md`）；⚠️ cwd 事故两次（书目录嵌套 .memory，均未入库/已撤销），探针派生后必须 grep 验证文件名行、Bash 一律从 repo 根跑 |
