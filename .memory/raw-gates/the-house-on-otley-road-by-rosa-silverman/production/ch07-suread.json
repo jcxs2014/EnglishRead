@@ -1,0 +1,55 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch07",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch07_chapter_6.txt",
+ "facts": [
+  {
+   "fact": "格洛丽亚四十岁获教席、四十一岁任系主任，早知道丈夫有情况，只是还不知道对方是谁。",
+   "anchor": "Professor Gloria Jessop knew about the girl, of course she did. She had not been given a chair at the early age of forty",
+   "start": 20,
+   "end": 140
+  },
+  {
+   "fact": "Aiden 见完“Dave”回家心情很好，身上一股浓重的酒馆味。",
+   "anchor": "He was in a good mood when he came home that night, after meeting ‘Dave’, and smelled strongly of the pub.",
+   "start": 788,
+   "end": 894
+  },
+  {
+   "fact": "他给不存在的朋友编了全名 Dave Spencer，说两人曾一起打板球。",
+   "anchor": "‘You don’t know him. Dave Spencer. I used to play cricket with him.’",
+   "start": 556,
+   "end": 624
+  },
+  {
+   "fact": "最终把女孩名字告诉 Gloria 的是 Marie Hollingworth 博士。",
+   "anchor": "It was Dr Marie Hollingworth who finally supplied her name.",
+   "start": 1337,
+   "end": 1396
+  },
+  {
+   "fact": "Marie 把 Emily 描述成穿紧身牛仔裤、有点风骚的二年级学生。",
+   "anchor": "‘Second-year student who wears the tight jeans, yes? Bit tarty, if you know what I mean.",
+   "start": 5020,
+   "end": 5108
+  },
+  {
+   "fact": "Marie 说一两次看见 Emily 独自从 Aiden 的办公室出来。",
+   "anchor": "Seen her come out of Aiden’s office on her own once or twice",
+   "start": 5412,
+   "end": 5472
+  },
+  {
+   "fact": "Gloria 回想两人最近一次性生活可能是夏天在彭布罗克郡，至少四个月前。",
+   "anchor": "On their summer holiday in Pembrokeshire, perhaps? That was at least four months ago.",
+   "start": 12714,
+   "end": 12799
+  },
+  {
+   "fact": "Crawley 家新年夜请柬寄给他们两人，名字并排写作“Gloria and Aiden”。",
+   "anchor": "the Crawleys’ New Year’s Eve party, addressed to them both, their names side by side: ‘Gloria and Aiden’",
+   "start": 13796,
+   "end": 13900
+  }
+ ]
+}
