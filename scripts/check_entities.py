@@ -220,7 +220,11 @@ def check_book(book_dir, wide=False):
         seg_total += len(segs)
         for _, syn in segs:
             for ent_m in ENT_PAT.finditer(syn):
-                ent = ent_m.group(0).strip()
+                ent_raw = ent_m.group(0).strip()
+                # 2026-10-23：人名所有格归一（`Annette's` → `Annette`）。
+                # 不归一 ⇒ flat 成 `annettes`，在语料里查无，把真人物报成未知实体
+                # （the-art-of-a-lie ch18 实证：Annette 在 text/ch18 出现 4 次）。
+                ent = re.sub(r"['’]s$", "", ent_raw)
                 key = flat_alpha(ent)
                 if len(key) < 4 or ent in STOP:
                     continue
@@ -257,7 +261,7 @@ def check_book(book_dir, wide=False):
                 if sig in seen_in_file: continue
                 seen_in_file.add(sig)
                 if (key[:30] not in corpus and key[:30] not in author_str and key not in wl):
-                    unknown.append(ent)
+                    unknown.append(ent_raw)
                     checked += 1
         if unknown:
             fails.append((name, sorted(set(unknown))))
