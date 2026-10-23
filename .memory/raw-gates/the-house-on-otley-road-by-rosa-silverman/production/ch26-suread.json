@@ -1,0 +1,55 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch26",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch26_chapter_25.txt",
+ "facts": [
+  {
+   "fact": "Kate 在 Aiden Berkeley 面前连声道歉，称一切都是误会。",
+   "anchor": "‘Oh my God, sorry,’ stammered Kate. ‘It was all a mistake.’",
+   "start": 22,
+   "end": 81
+  },
+  {
+   "fact": "即便已有人被捕、即便 Berkeley 可能与新案无关，她仍不愿空手离开。",
+   "anchor": "Even if there had already been an arrest. Even if he probably had nothing to do with the latest murder.",
+   "start": 437,
+   "end": 540
+  },
+  {
+   "fact": "Kate 借上厕所翻看药柜与抽屉，自称职业窥探者。",
+   "anchor": "She was a professional snooper and you could learn a lot about someone from what was in their bathroom cabinet.",
+   "start": 1181,
+   "end": 1292
+  },
+  {
+   "fact": "她提起当年的谣言，Berkeley 厉声否认。",
+   "anchor": "‘It was nonsense,’ he snapped.",
+   "start": 3708,
+   "end": 3738
+  },
+  {
+   "fact": "Berkeley 自称昨天上班前从新闻里听说 Emily 旧房间里的女孩死在同一栋房子。",
+   "anchor": "I was as shocked as anyone when I heard on the news before work yesterday morning that a girl who lived in Emily’s old room had been killed in the same house.",
+   "start": 4899,
+   "end": 5057
+  },
+  {
+   "fact": "Kate 意识到早间新闻并未报道 Olivia 死在 Emily 同一栋房子，这个关联是后来才出现的。",
+   "anchor": "But it wasn’t reported yesterday morning that Olivia had been killed in the same house as Emily.",
+   "start": 8155,
+   "end": 8251
+  },
+  {
+   "fact": "Smith 在电话里说 Elliot 被抓了，语气毫不意外。",
+   "anchor": "‘Elliot’s been nicked. Surprise, surprise.’",
+   "start": 9125,
+   "end": 9168
+  },
+  {
+   "fact": "Kate 捶方向盘，坚持认为不是 Elliot 干的。",
+   "anchor": "‘But I don’t think Elliot did it!’",
+   "start": 10449,
+   "end": 10483
+  }
+ ]
+}
