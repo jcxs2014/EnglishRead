@@ -1,0 +1,1028 @@
+{
+  "chapter": "ch14",
+  "slug": "the-hexing-miss-helena-by-darcy-mcguire",
+  "source": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch14_chapter_14.txt",
+  "source_lines": 366,
+  "read_discipline": "先素读：仅读 text/ch14_chapter_14.txt（全文 366 行），未打开 ch14 md、未看该章词表与导航",
+  "sampling_reason": "深审 R0–R5 全章（批 5／27，第 2 章）",
+  "line_ref_convention": "行号为 text/ch14_chapter_14.txt 的 1 基行号；引文逐字抄录",
+  "pov": "单 POV 全章：**海伦娜·布莱尔**第三人称限知（`:35`–`:366`）——与 ch13（辛西娅限知）**相反**。他人「心声」以无引号独立段出现、由海伦娜读到：`:213` 罗温姨妈（`:216` 明示归属）、`:222` 克里奥；海伦娜自己的心声：`:147`、`:198`、`:273`。**`:225` 与 `:351` 两段无归属**（见 traps T2/T5）。场景切分：`:35`–`:50` 早晨（卧室），`:51`–`:65` 为空行分隔，`:66`–`:366` 当天傍晚至晚餐。",
+  "events": [
+    {
+      "n": 1,
+      "who": "海伦娜 / 艾莉",
+      "did": "海伦娜埋在床铺里；艾莉一早闯进房、一屁股坐在床脚。棉布睡裙缀满褶边（换个人穿会显得可笑），衬出她丰满的身段；一头金色卷发，像古时城堡里等待王子来救的公主。艾莉可爱之处很多，但她**对自己有多美毫无觉察**，这一点总让海伦娜想笑——除了现在：太他妈早了，而艾莉敏锐得对自己不利",
+      "lines": "35",
+      "verbatim": "Helena was buried in the covers of her bed. Ellie had flounced into her room far too early that morning and flumped on the foot of the mattress. Her cotton nightgown, covered in ruffles that would look ridiculous on anyone else, highlighted Ellie’s generous curves. She could have been a princess of old, trapped in some stone castle, with her tumble of blonde curls, waiting for her prince to come and rescue her. There were many endearing things about Ellie, but her complete lack of awareness about how beautiful she was always made Helena smile. Except for now. It was too bloody early, and Ellie was too perceptive for her own good."
+    },
+    {
+      "n": 2,
+      "who": "艾莉",
+      "did": "「你请了她来吃晚饭？**今晚**？」",
+      "lines": "38",
+      "verbatim": "‘You invited her for dinner? Tonight?’"
+    },
+    {
+      "n": 3,
+      "who": "海伦娜",
+      "did": "努力对齐还没醒的思绪：「什么？」",
+      "lines": "41",
+      "verbatim": "Helena tried to align her still sleep-hazy thoughts. ‘What?’"
+    },
+    {
+      "n": 4,
+      "who": "艾莉",
+      "did": "「辛西娅。我全看见了。我得先警告你：不管你打算跟拉克兰叔叔说什么，他不会高兴的。不过能见到克里奥和托马斯就太好了！」",
+      "lines": "44",
+      "verbatim": "‘Cynthia. I saw the whole thing. I should warn you now. Whatever you are planning to tell Uncle Lachlan, he is not going to be pleased. But it will be lovely to see Clio and Thomas!’"
+    },
+    {
+      "n": 5,
+      "who": "海伦娜",
+      "did": "皱眉摇头，一边跟挡住视线的乱红卷发搏斗：「**克里奥和托马斯不是我请的。**」",
+      "lines": "47",
+      "verbatim": "Furrowing her brow, Helena shook her head and grappled with the wild red curls obstructing her view. ‘I didn’t invite Clio and Thomas.’"
+    },
+    {
+      "n": 6,
+      "who": "艾莉（＋她的雪貂）",
+      "did": "艾莉咯咯笑，她的**雪貂**窜上床罩、跑到蜷在海伦娜腿边的哈姆雷特旁边：「反正他们要来。」",
+      "lines": "50",
+      "verbatim": "Ellie giggled as her ferret scrambled up the coverlet and scampered to where Hamlet curled next to Helena’s legs. ‘Well, they’re coming.’"
+    },
+    {
+      "n": 7,
+      "who": "（场景切换）",
+      "did": "`:51`–`:65` 为连续空行 ⇒ 时间由早晨跳到当天傍晚",
+      "lines": "51–65",
+      "verbatim": ""
+    },
+    {
+      "n": 8,
+      "who": "海伦娜",
+      "did": "莫名紧张，**换了三次裙子**：先是薄荷色日装裙，再是衬她发色的深蓝裙，最后定了她最爱的绿丝礼服（领口大胆）。她从不花时间端详自己的倒影：中等身高、身形纤细、胸不大却在紧身胸衣里引人目光、脸不算能引出十四行诗的那种，但在合适的光线下很打眼。她知道自己的长处并按需施展。可今天不一样——今天显得……重要",
+      "lines": "66",
+      "verbatim": "Helena was unaccountably nervous. She changed her dress three times. First, the mint day dress. Then the dark-blue one that contrasted with her hair. She finally settled on her favourite green silk gown with a daring neckline. Helena never spent time contemplating her reflection. She was of average height and slender build. Her breasts were modest but drew the eye in a tight corset. Her face didn’t herald sonnets, but she was striking in the right lighting. She knew her strengths and played to them when needed. But today felt different. Today felt… important."
+    },
+    {
+      "n": 9,
+      "who": "海伦娜",
+      "did": "「天哪。我在打扮。在镜子前。为了一个连自己的欲望都还没弄明白的女人。」",
+      "lines": "69",
+      "verbatim": "‘Dear goddess. I’m primping. In front of a mirror. For a woman who isn’t even sure of her desires.’"
+    },
+    {
+      "n": 10,
+      "who": "哈姆雷特（狐狸）",
+      "did": "坐在她旁边，蓬松的尾巴整齐地绕着脚；以斯多葛式的沉思眨眼看她",
+      "lines": "72",
+      "verbatim": "Hamlet sat next to her, his bushy tail neatly wrapped around his feet. He blinked at her with stoic contemplation."
+    },
+    {
+      "n": 11,
+      "who": "海伦娜（回想辛西娅的问话）",
+      "did": "「你能听见动物的想法吗？」——辛西娅的问题在她脑中回响；她蹲到魔宠身边，手从它两耳之间抚到背上",
+      "lines": "75–78",
+      "verbatim": "‘Can you hear animals’ thoughts?’\n\n\nCynthia’s question echoed in her mind. She crouched next to her familiar, running her hand between his ears and down his back."
+    },
+    {
+      "n": 12,
+      "who": "海伦娜",
+      "did": "「她能听见你的想法吗，哈姆雷特？」",
+      "lines": "81",
+      "verbatim": "‘Can she hear your thoughts, Hamlet?’"
+    },
+    {
+      "n": 13,
+      "who": "哈姆雷特（狐狸）",
+      "did": "用头撞她的膝盖、叫了一声；金色的眼睛在傍晚早段的光里发亮",
+      "lines": "84",
+      "verbatim": "The fox bumped his head against her knee and yipped. His golden eyes glowed in the early-evening light."
+    },
+    {
+      "n": 14,
+      "who": "海伦娜",
+      "did": "「这算『是』吗？还是你在告诉我我疯了？」",
+      "lines": "87",
+      "verbatim": "‘Is that a yes? Or are you telling me I’m crazy?’"
+    },
+    {
+      "n": 15,
+      "who": "哈姆雷特（狐狸）",
+      "did": "这只难解的狐狸把爪子搁在她膝上（**没有回答**）",
+      "lines": "90",
+      "verbatim": "The enigmatic fox rested his paw on her knee."
+    },
+    {
+      "n": 16,
+      "who": "艾莉",
+      "did": "穿着浅粉色夏裙（腰部收紧、臀部展开）冲进 dressing room，金发高盘、双颊绯红：「你看上去美极了，海伦娜。快点，辛西娅刚到。」",
+      "lines": "93",
+      "verbatim": "Ellie rushed into Helena’s dressing room in a pale-pink summer gown that cinched tight at the waist and flared over her hips. Her blonde curls were piled high, and her cheeks were flushed. ‘You look lovely, Helena. Come on, Cynthia just arrived.’"
+    },
+    {
+      "n": 17,
+      "who": "海伦娜（内心）",
+      "did": "肚子里蝴蝶乱飞。**这很荒唐。**",
+      "lines": "96",
+      "verbatim": "Butterflies fluttered in her belly. Which was ridiculous."
+    },
+    {
+      "n": 18,
+      "who": "海伦娜（内心）",
+      "did": "她在马车上对辛西娅说的是真的：她和几个女人探索过欢愉，但从不让它超出满足肉体欲望的范围——像挠痒，或享用一块蛋糕；是一时的疯狂，最好到天亮就忘掉",
+      "lines": "99",
+      "verbatim": "What she told Cynthia in the carriage was true. She had explored pleasure with a few women, but she never let it go beyond fulfilling a physical desire. Like scratching an itch or indulging in a slice of cake. Moments of madness best forgotten by morning."
+    },
+    {
+      "n": 19,
+      "who": "海伦娜（内心）",
+      "did": "维持一段不张扬的私情并非不可能，但有风险：女人之间的亲密友谊能让一段恋情**藏在明处**；老处女可以同住而不引人侧目——谁真在乎无关紧要的中产女士的私生活，只要她们的家人不闹；**罗温姨妈**绝不会反对海伦娜找个伴侣；但这种安排在**上流社会最恶毒的长舌妇**眼皮底下要难维持得多",
+      "lines": "102",
+      "verbatim": "While pursuing a discreet affair with someone was not impossible, it carried with it certain risks. Intimate friendships among women made it far easier to conceal a romantic attachment in plain sight. Spinsters could lodge together without raising any eyebrows, for who really cared about the private habits of inconsequential middle-class ladies if their families did not raise a fuss? Aunt Rowan certainly wouldn’t begrudge Helena a partner if she wished to pursue a lasting romance. But such an arrangement would be far more difficult to maintain under the watchful eyes of the beau monde’s most vicious gossips."
+    },
+    {
+      "n": 20,
+      "who": "海伦娜（内心）",
+      "did": "更要紧的是，她**不想**要这种长久羁绊。她懂得把心交给别人的危险：**她母亲甘愿把自己身上所有光明与美好献给一个扭曲她的魔法、供自己牟利的男人**；她绝不会再走这种傻路",
+      "lines": "105",
+      "verbatim": "More to the point, Helena didn’t want to pursue such permanent bonds. She knew the dangers of giving her heart to another. Her mother willingly sacrificed all that was light and good within herself to a man who twisted her magic for his own gain. She would never follow in such foolish footsteps."
+    },
+    {
+      "n": 21,
+      "who": "海伦娜（内心）",
+      "did": "她闭上眼睛，拒绝去想**母亲愿意为血魔法做出的牺牲**，也拒绝去想**母亲逼她付的代价**",
+      "lines": "108",
+      "verbatim": "She closed her eyes, refusing to acknowledge the sacrifice her mother was willing to make for blood magic, or the price she forced Helena to pay."
+    },
+    {
+      "n": 22,
+      "who": "海伦娜（内心）",
+      "did": "那股把她拉向辛西娅的、无法解释的力量，不可能强过她**对变成和母亲一样的恐惧**：为了追逐爱而丢掉自己的目的与力量。这条路她拒绝走",
+      "lines": "111",
+      "verbatim": "The unexplainable force drawing her to Cynthia couldn’t possibly be more powerful than her fear of becoming just like her mother. Losing sight of her purpose and her power in pursuit of love. It was a path she refused to walk."
+    },
+    {
+      "n": 23,
+      "who": "海伦娜（内心）",
+      "did": "何况她甚至不知道辛西娅是否想和她有更进一步的、超越一时调情的东西：一个深陷上流社会期待的**侯爵夫人遗孀**能蒙混过很多事，但一段同性恋情**越界**了；有些规矩就是不能违",
+      "lines": "114",
+      "verbatim": "Besides, she didn’t even know if Cynthia wished for anything more with Helena than a passing flirtation. A widowed marchioness ensconced in society’s expectations could get away with much, but a sapphic relationship was beyond the pale. Certain rules simply couldn’t be flouted."
+    },
+    {
+      "n": 24,
+      "who": "艾莉",
+      "did": "「来，海伦娜。大家都在等。」她拽海伦娜的手",
+      "lines": "117",
+      "verbatim": "‘Come, Helena. Everyone is waiting.’ Ellie tugged on her hand."
+    },
+    {
+      "n": 25,
+      "who": "海伦娜",
+      "did": "对镜中的自己点头，**决定做好了**",
+      "lines": "120",
+      "verbatim": "Helena nodded at her reflection, decision made."
+    },
+    {
+      "n": 26,
+      "who": "海伦娜（内心，三短句）",
+      "did": "调情？可以。／探索？妙极。／**承诺？绝不。**",
+      "lines": "123–129",
+      "verbatim": "Flirtations? Fine.\n\n\nExplorations? Marvellous.\n\n\nCommitment? Never."
+    },
+    {
+      "n": 27,
+      "who": "海伦娜（内心）",
+      "did": "这样对两人都好：她不会冒失去自己的险，辛西娅也不会冒失去社会地位的险",
+      "lines": "132",
+      "verbatim": "It was better for them both. Helena wouldn’t risk losing herself, and Cynthia wouldn’t risk losing her place in society."
+    },
+    {
+      "n": 28,
+      "who": "海伦娜",
+      "did": "「我们可不能让一位侯爵夫人等着。」她朝**表妹**眨眨眼，跟她下楼",
+      "lines": "135",
+      "verbatim": "‘We can’t possibly let a marchioness wait.’ Helena winked at her cousin and followed her down the stairs."
+    },
+    {
+      "n": 29,
+      "who": "罗温姨妈（Aunt Rowan）",
+      "did": "坐在餐桌主位。**即将进入第五个十年**（四十多岁）的女人，栗色头发盘成辫子、卷儿与发髻；腰身紧、皮肤光滑，是她在「All Things Bright and Beautiful」服务过的每一位蓝血贵妇的羡慕对象；她对岁月侵蚀的抵抗，正是那家药铺在最富有的女士圈里如此受欢迎的原因之一——老板娘一定掌握着永葆青春与光彩的秘密",
+      "lines": "138",
+      "verbatim": "Aunt Rowan sat at the head of their table. For a woman about to enter her fifth decade, she was striking with chestnut hair piled in braids, curls, and twists. Her trim waist and smooth skin were the envy of every blue-blooded lady she served at All Things Bright and Beautiful. Indeed, her defiance of time’s ravages was one reason why the apothecary was so popular amongst the wealthiest ladies in society. Surely the proprietress must know the secrets of eternal youth and glowing beauty to have maintained such a constant bloom."
+    },
+    {
+      "n": 30,
+      "who": "罗温姨妈",
+      "did": "「伯罗斯夫人，今晚您能来和我们一起用餐，真是个惊喜。海伦娜从来不请……朋友……来吃饭。」（省略号在原文中即为停顿）",
+      "lines": "141",
+      "verbatim": "‘Lady Burrows, it is a pleasant surprise to have you dining with us this evening. Helena never invites… friends… to dinner.’"
+    },
+    {
+      "n": 31,
+      "who": "海伦娜",
+      "did": "如果她能用一道急咒把姨妈打成哑巴，她早干了、后果也认；她只是狠狠瞪了一眼，结果姨妈的笑更大了",
+      "lines": "144",
+      "verbatim": "If Helena could have struck her aunt mute with a hasty hex, she would have done so and damned the consequences. Instead, she sent her a withering glare, resulting in Aunt Rowan’s smile widening."
+    },
+    {
+      "n": 32,
+      "who": "海伦娜（内心）",
+      "did": "「爱管闲事的女巫！」",
+      "lines": "147",
+      "verbatim": "Meddling witch!"
+    },
+    {
+      "n": 33,
+      "who": "辛西娅（外表）",
+      "did": "脸颊泛粉；今晚又是黑衣，但裙子远不如**前一晚那身行头**暴露；海伦娜仍被她苍白皮肤与**乌黑 bombazine**（一种对夏日来说太厚重的织物）的对比分散了注意力；她讨厌看到辛西娅裹在一个像休伯特·伯罗斯这么不值的男人的丧色里",
+      "lines": "150",
+      "verbatim": "Cynthia’s cheeks flushed pink. She wore black again this evening, though her gown was far less revealing than the costume she poured herself into the night before. Still, Helena was distracted by the contrast of her pale skin against ebony bombazine, a fabric far too heavy for the summer warmth. She hated to see Cynthia swathed in colours of mourning for a man as undeserving as Hubert Burrows."
+    },
+    {
+      "n": 34,
+      "who": "辛西娅 / 海伦娜",
+      "did": "「我很荣幸能加入你们。」她把目光扫向海伦娜，随后端庄地喝汤；海伦娜从未如此着迷地看着一个人**吹热的清鸡汤**",
+      "lines": "153",
+      "verbatim": "‘I’m honoured to join you.’ She flicked her gaze to Helena before demurely sampling the soup. Helena had never before been so fascinated to watch someone blow on hot chicken consommé."
+    },
+    {
+      "n": 35,
+      "who": "拉克兰叔叔",
+      "did": "「你说要跟我们通报情况，姑娘。跟案子有关？」他坐在罗温姨妈的**对面**。他的目光不时飘向她，而他平时清晰易读的念头就變得混浊模糊",
+      "lines": "156",
+      "verbatim": "‘You said you needed to update us, lass. Is it somethin’ to do with the case?’ Uncle Lachlan sat at the opposite end of the table to Aunt Rowan. Every so often, his gaze would wander to her, and his thoughts, usually clear and easy for Helena to read, would become muddled and fuzzy."
+    },
+    {
+      "n": 36,
+      "who": "（背景设定）",
+      "did": "她知道姨妈**很久以前施过一道咒**，把罗温与拉克兰之间的秘密牢牢藏起来，不让爱管闲事的小女巫看到。海伦娜、克里奥、艾莉曾熬过许多深夜，编出各种故事来解释**罗温姨妈与拉克兰叔叔之间那种古怪的敌意**；但那位诡计多端的姨妈用她强大的魔法挡住三个女孩：**克里奥无法探入他们的过去，海伦娜读不到他们彼此之间的念头，艾莉看不见他们任何可能的未来**——这是表姐妹三人共同的挫败",
+      "lines": "159",
+      "verbatim": "She knew her aunt had cast a spell long ago to keep whatever secrets Rowan had with Uncle Lachlan hidden safely away from meddling little witches. Helena, Clio, and Ellie had spent many late nights spinning out possible stories that would explain the strange enmity between Aunt Rowan and Uncle Lachlan. But their tricksy aunt used her impressive magic to block the girls from seeing anything. Clio couldn’t delve into their pasts. Helena couldn’t read their thoughts about each other. Ellie couldn’t see any possible future for them. It was a point of shared frustration between the cousins."
+    },
+    {
+      "n": 37,
+      "who": "海伦娜",
+      "did": "深吸一口气，快速把她**前一晚**和辛西娅在「魔鬼的交易」的历险讲了一遍",
+      "lines": "162",
+      "verbatim": "Helena took a deep breath before she quickly summarised her adventure with Cynthia at The Devil’s Bargain the previous evening."
+    },
+    {
+      "n": 38,
+      "who": "拉克兰叔叔",
+      "did": "「你们干了什么？」他的低吼几乎被辛西娅的哥哥盖过",
+      "lines": "165",
+      "verbatim": "‘You did what?’ Uncle Lachlan’s growl was nearly drowned out by Cynthia’s brother."
+    },
+    {
+      "n": 39,
+      "who": "托马斯",
+      "did": "「你他妈在想什么，Cyn？」他拍桌子拍得太用力，餐具都跳了起来",
+      "lines": "168",
+      "verbatim": "‘What the bloody hell were you thinking, Cyn?’ Thomas slammed his hand down so hard, the cutlery jumped."
+    },
+    {
+      "n": 40,
+      "who": "罗宾爵士（Sir Robin，鸟）",
+      "did": "「混蛋！」他从**克里奥的椅子**上的栖处愉快地补了一句",
+      "lines": "171",
+      "verbatim": "‘Bastard!’ Sir Robin added cheerfully from his perch on Clio’s chair."
+    },
+    {
+      "n": 41,
+      "who": "辛西娅",
+      "did": "对哥哥露出她那种**初社交名媛的笑**；海伦娜不得不佩服她的胆量：「冷静点，托马斯。没出什么事。」目光又落回海伦娜：「多亏了海伦娜。我得说，麦克杜格尔警司，你说达米安·辛克莱是个魔鬼，说对了。他是个极其讨厌的人。」",
+      "lines": "174",
+      "verbatim": "Cynthia smiled one of her debutante smiles at her brother. Helena had to give her credit for brash courage. ‘Calm yourself, Thomas. No harm came of it.’ Her gaze once more found Helena. ‘Thanks to Helena, that is. I must say, Superintendent MacDougal, you were right about Damien Sinclair being a devil. He is an incredibly unpleasant man.’"
+    },
+    {
+      "n": 42,
+      "who": "艾莉",
+      "did": "「他怎么敢敲诈你！」艾莉很少生气，她更容易生柔和的情绪；但她对所爱之人的忠诚，比狂风更有力量、也同样具破坏力",
+      "lines": "177",
+      "verbatim": "‘How dare he try to blackmail you!’ Ellie rarely showed anger. She was far more prone to soft emotions. But her loyalty to those she loved was more powerful than a gale-force wind and just as destructive."
+    },
+    {
+      "n": 43,
+      "who": "克里奥",
+      "did": "把手覆在**丈夫**的手上：「托马斯担心得有道理，辛西娅。那太鲁莽了。」",
+      "lines": "180",
+      "verbatim": "Clio put a hand over her husband’s. ‘Thomas is right to be concerned, Cynthia. That was terribly reckless.’"
+    },
+    {
+      "n": 44,
+      "who": "罗宾爵士（鸟）",
+      "did": "「太鲁莽了！」它点头，朝辛西娅眨眼",
+      "lines": "183",
+      "verbatim": "‘Terribly reckless!’ Sir Robin nodded, winking at Cynthia."
+    },
+    {
+      "n": 45,
+      "who": "辛西娅",
+      "did": "抬起下巴、挺直肩膀以示反抗；她那双榛色眼睛今晚**棕多于绿**；她迎着克里奥的目光：「我感谢你的关心，克里奥。但我是一个能为自己选择的成年女人。这只是一次和辛克莱先生的商务会面，为的是弄清我丈夫欠债的数额，以及辛克莱是不是谋杀休伯特的那个混蛋。」",
+      "lines": "186",
+      "verbatim": "Cynthia tipped up her chin and squared her shoulders in defiance. Her hazel eyes were more brown than green tonight as she held Clio’s gaze. ‘I appreciate your concern, Clio. But I am a grown woman capable of making my own choices. This was simply a business meeting with Mr Sinclair to determine the extent of my husband’s debts, and whether or not Sinclair was the bastard who murdered Hubert.’"
+    },
+    {
+      "n": 46,
+      "who": "拉克兰叔叔",
+      "did": "脸涨红；他的念头毫无悬念——他气的是她们**没找他帮忙**就跑到伦敦一个非常危险的地方，去见一个更危险的人",
+      "lines": "189",
+      "verbatim": "Uncle Lachlan’s face flushed. His thoughts left no doubt that he was furious with them for going to a very dangerous part of London to speak with an even more dangerous man without asking him for help."
+    },
+    {
+      "n": 47,
+      "who": "托马斯",
+      "did": "「这正是你们绝不该单独去的理由！你低估了你的脆弱，Cyn。」在这一点上他和拉克兰叔叔一条心：「作为你哥哥，保护你是我的责任。我不能允许你参与这种危险活动。」",
+      "lines": "192",
+      "verbatim": "‘The very reason why you should never have gone alone! You underestimate your vulnerability, Cyn.’ Thomas was of one mind with Uncle Lachlan on this point. ‘As your brother, it’s my duty to protect you. I can’t allow you to engage in such dangerous activities.’"
+    },
+    {
+      "n": 48,
+      "who": "辛西娅",
+      "did": "声音**轻得吓人**：「你不能允许我？」",
+      "lines": "195",
+      "verbatim": "Cynthia’s voice was frighteningly soft. ‘You can’t allow me?’"
+    },
+    {
+      "n": 49,
+      "who": "海伦娜（内心）",
+      "did": "「哦天哪。辛西娅要在我们餐厅里杀了她哥哥。而我还得帮她藏尸。克里奥永远不会原谅我们，可是说真的——这男人是自己招来的。」",
+      "lines": "198",
+      "verbatim": "Oh dear goddess. Cynthia is going to kill her brother in our dining room. And I shall have to help her hide his body. Clio will never forgive us, but really. The man brought this fate onto himself."
+    },
+    {
+      "n": 50,
+      "who": "托马斯",
+      "did": "似乎意识到自己失言，但像大多数男人一样仍旧硬着头皮往前撞：「正是。」",
+      "lines": "201",
+      "verbatim": "Thomas seemed to recognise his mistake, but like most men, he blundered forward regardless. ‘Exactly.’"
+    },
+    {
+      "n": 51,
+      "who": "辛西娅（＋天气）",
+      "did": "她起身、俯过桌面：「我受够了男人告诉我什么能做什么不能做。我这辈子都在听别人的命令。我丈夫死了。我终于自由了。我不会再被任何人指使。」**雷声在屋顶滚过，震得窗户发颤。**「永远。」**闪电劈开天空。**「不会再有下一次。连你也不行，托马斯。」**雨点砸在屋顶上。**「别试探我。」又一声惊雷，**奥菲莉亚**钻进了艾莉怀里",
+      "lines": "204",
+      "verbatim": "Cynthia rose from her chair and leaned over the table. ‘I am sick to death of men telling me what I can and cannot do. I have spent my entire life following other people’s orders. My husband is dead. I am finally free. I won’t be dictated to by anyone.’ Thunder rumbled over the house, shaking the windows. ‘Ever.’ Lightning cracked through the sky. ‘Again. Not even by you, Thomas.’ Rain pelted on the roof. ‘Do not test me.’ Another boom of thunder had Ophelia burrowing into Ellie’s arms."
+    },
+    {
+      "n": 52,
+      "who": "罗宾爵士（鸟）",
+      "did": "「Dick！Dick！Dictated！」它抖了抖羽毛，乌黑的眼睛盯着天花板",
+      "lines": "207",
+      "verbatim": "‘Dick! Dick! Dictated!’ Sir Robin fluffed his feathers, his obsidian eye trained on the ceiling."
+    },
+    {
+      "n": 53,
+      "who": "罗温姨妈",
+      "did": "望着窗外又一道夏日闪电；她锐利的目光先切回辛西娅，再落到海伦娜身上",
+      "lines": "210",
+      "verbatim": "Aunt Rowan looked out the window as another flash of summer lightning lit the dark sky. Her sharp gaze cut back to Cynthia before finding Helena."
+    },
+    {
+      "n": 54,
+      "who": "罗温姨妈（心声，海伦娜读到）",
+      "did": "「**她血里有力量。灵魂里有魔法。**」——`:216` 明示这是罗温姨妈的念头在海伦娜脑中回响",
+      "lines": "213–216",
+      "verbatim": "She has power in her blood. Magic in her soul.\n\n\nAunt Rowan’s thoughts echoed in Helena’s head."
+    },
+    {
+      "n": 55,
+      "who": "艾莉",
+      "did": "蓝眼睛睁大：「神圣的赫卡忒。」",
+      "lines": "219",
+      "verbatim": "Ellie’s blue eyes widened. ‘Holy Hecate.’"
+    },
+    {
+      "n": 56,
+      "who": "克里奥",
+      "did": "目光从辛西娅到海伦娜再到姨妈：「哦，我的女神。」**（心声）辛西娅是个女巫。**",
+      "lines": "222",
+      "verbatim": "Clio looked from Cynthia to Helena and then to her aunt. ‘Oh, my goddess.’ Cynthia is a witch."
+    },
+    {
+      "n": 57,
+      "who": "（无归属的心声／叙述）",
+      "did": "**这改变了一切。**",
+      "lines": "225",
+      "verbatim": "This changed everything."
+    },
+    {
+      "n": 58,
+      "who": "辛西娅（＋天气）",
+      "did": "她深吸一口气，**雨势减弱成轻柔的淅沥**：「我无意失礼，哥哥，但我认为大家都没抓住重点。我们去了达米安·辛克莱的赌窟，是的。但我们并没有真正的危险。他若动粗，海伦娜会给他来一场洪水，把他和他手下那群混蛋一起冲进泰晤士河。比我们做了什么更重要的，是我们发现了什么。」",
+      "lines": "228",
+      "verbatim": "Cynthia took a deep breath and the rain eased to a soft patter. ‘I have no wish to be rude, brother, but I think everyone is missing the point. We went to Damien Sinclair’s gaming hell. Yes. But we weren’t in any real danger. If he had gotten violent at all, Helena would have unleashed a flood on him that would have swept him and the bastards he runs with into the Thames. What is far more important than what we did is what we discovered.’"
+    },
+    {
+      "n": 59,
+      "who": "海伦娜（内心）",
+      "did": "辛西娅对海伦娜保护她的能力的信任，海伦娜几乎没接收到——她正在消化这个惊人的消息：**那个占据她注意力、搅动她欲望的女人，竟是同道的女巫**",
+      "lines": "231",
+      "verbatim": "Cynthia’s faith in Helena’s ability to protect her barely registered as Helena processed the shocking news that the woman claiming her attentions and stirring her desires was actually a fellow witch."
+    },
+    {
+      "n": 60,
+      "who": "辛西娅",
+      "did": "「告诉他们，海伦娜。」",
+      "lines": "234",
+      "verbatim": "‘Tell them, Helena.’"
+    },
+    {
+      "n": 61,
+      "who": "海伦娜",
+      "did": "「呃，好。对。」她强迫自己回到当下。以后有的是时间和**她的巫会**谈辛西娅的事；现在她需要专注案子——因为查出谁杀了休伯特·伯罗斯，比解开他妻子这个谜容易得多",
+      "lines": "237",
+      "verbatim": "‘Erm, yes. Right.’ She forced herself back to the moment. There would be time to speak with her coven about Cynthia later. Right now, she needed to focus on the case. Because discovering who killed Hubert Burrows was far easier than untangling the mystery of his wife."
+    },
+    {
+      "n": 62,
+      "who": "海伦娜",
+      "did": "「辛西娅说得对。我们拿到了一个名字，拉克兰叔叔。杀休伯特的那个人的名字。」",
+      "lines": "240",
+      "verbatim": "‘Cynthia’s right. We got a name, Uncle Lachlan. Of the man who killed Hubert.’"
+    },
+    {
+      "n": 63,
+      "who": "拉克兰叔叔",
+      "did": "把叉子握得像武器：「谁？」",
+      "lines": "243",
+      "verbatim": "Uncle Lachlan gripped his fork like a weapon. ‘Who?’"
+    },
+    {
+      "n": 64,
+      "who": "海伦娜",
+      "did": "「**乔治·利珀特。**」",
+      "lines": "246",
+      "verbatim": "‘George Lippert.’"
+    },
+    {
+      "n": 65,
+      "who": "拉克兰叔叔",
+      "did": "眉头拧起：「我不认识他。」他看向托马斯：「你听说过这人吗？」",
+      "lines": "249",
+      "verbatim": "Uncle Lachlan’s brows drew down in a frown. ‘I don’t know him.’ He looked to Thomas. ‘Have you heard of the man?’"
+    },
+    {
+      "n": 66,
+      "who": "托马斯",
+      "did": "仍在瞪着辛西娅，下颌肌肉抽动",
+      "lines": "252",
+      "verbatim": "Thomas was still glaring at Cynthia, his jaw muscles twitching."
+    },
+    {
+      "n": 67,
+      "who": "（重复发问）",
+      "did": "「托马斯，你听说过乔治·利珀特吗？」",
+      "lines": "255",
+      "verbatim": "‘Thomas, have you heard of George Lippert?’"
+    },
+    {
+      "n": 68,
+      "who": "托马斯",
+      "did": "「没有。辛克莱提到他了？」",
+      "lines": "258",
+      "verbatim": "‘Never. Did Sinclair mention him?’"
+    },
+    {
+      "n": 69,
+      "who": "海伦娜",
+      "did": "忍不住得意的笑：「**不是嘴上说的**。但当辛西娅问他是不是杀了休伯特时，他心里想的就是这个名字。清楚得就像我现在跟你说话一样。」",
+      "lines": "261",
+      "verbatim": "Helena couldn’t stop her smug smile. ‘Not aloud. But when Cynthia asked if he killed Hubert, that’s the name he thought. Clear as I’m speaking to you now.’"
+    },
+    {
+      "n": 70,
+      "who": "托马斯",
+      "did": "「你直接问他了？你是想把自己弄死吗？」脸因怒气变暗，目光甩回妹妹身上",
+      "lines": "264",
+      "verbatim": "‘You asked him outright? Are you trying to get yourself killed?’ Thomas’ face darkened with rage as he swung his gaze back to his sister."
+    },
+    {
+      "n": 71,
+      "who": "海伦娜",
+      "did": "他语气里的某种东西激起了她的反应：「**别冲她吼！**她在尽力破这个案子，走得比你或拉克兰叔叔都远。」她瞥了叔叔一眼：「抱歉。但这是事实。而且她说得对。辛克莱若要动手，我会拦住他。你们爱吹就吹，但**布莱尔家的女人保护自己人的本事，远胜过任何一群男人**。」",
+      "lines": "267",
+      "verbatim": "Something in his tone caused a reaction in Helena. ‘Stop yelling at her! She is trying to solve this case and has gotten further than you or Uncle Lachlan.’ She flicked her gaze to her uncle. ‘Sorry. But it’s true. And she’s right. If Sinclair had tried anything, I would have stopped him. Bluster all you want, but Blair women are far more capable of protecting our own than any pack of men.’"
+    },
+    {
+      "n": 72,
+      "who": "辛西娅",
+      "did": "猛地吸了一口气",
+      "lines": "270",
+      "verbatim": "Cynthia inhaled sharply."
+    },
+    {
+      "n": 73,
+      "who": "海伦娜（内心）",
+      "did": "「该死。我刚才是不是把她叫作『自己人』了？」",
+      "lines": "273",
+      "verbatim": "Damnation. Did I just call her my own?"
+    },
+    {
+      "n": 74,
+      "who": "海伦娜",
+      "did": "惊慌赶着她的下一句话：「我只是说，她现在算是**克里奥的嫂子／弟媳（sister-in-law）**。所以克里奥的家人就是我们的家人。而我们保护自己人。我就是这个意思。」",
+      "lines": "276",
+      "verbatim": "Panic rushed Helena’s next words. ‘I just mean, she is Clio’s sister-in-law now. So, Clio’s family is our family. And we protect our family. That is all I meant.’"
+    },
+    {
+      "n": 75,
+      "who": "艾莉",
+      "did": "「妙极了！」她大大的笑容只让海伦娜觉得自己更像傻瓜：「而且因为辛西娅和海伦娜的这趟出击，我们有了一个可以追的名字。」",
+      "lines": "279",
+      "verbatim": "‘Marvellous!’ Ellie’s wide smile only made Helena feel like a bigger fool. ‘And because of Cynthia and Helena’s excursion, we have a name to pursue.’"
+    },
+    {
+      "n": 76,
+      "who": "托马斯",
+      "did": "反驳：「这个名字由**拉克兰和我**去追。你就待在原地别动，辛西娅。」",
+      "lines": "282",
+      "verbatim": "‘We have a name that Lachlan and I will pursue,’ Thomas countered. ‘You will stay put, Cynthia.’"
+    },
+    {
+      "n": 77,
+      "who": "克里奥",
+      "did": "转向丈夫时**指尖冒出火花**：「亲爱的，告诉一个女人她能和不能做什么从来不明智。尤其当那个女人像你妹妹这样思想自由又聪明。」",
+      "lines": "285",
+      "verbatim": "Clio’s fingers sparked as she turned to her husband. ‘Darling, it’s never wise to tell a woman what she can and can’t do. Especially if that woman is as free-thinking and intelligent as your sister.’"
+    },
+    {
+      "n": 78,
+      "who": "罗宾爵士（鸟）",
+      "did": "「爱吹牛的蠢货！」它跳到克里奥椅子的另一侧，去啄托马斯肩膀上的一粒斑点",
+      "lines": "288",
+      "verbatim": "‘Blustering dunderhead!’ Sir Robin hopped to the other side of Clio’s chair so he could peck at a fleck on Thomas’ jacket shoulder."
+    },
+    {
+      "n": 79,
+      "who": "托马斯",
+      "did": "不理那只鸟：「辛西娅不像你。**她没有你和你的家人那样的能力。**」",
+      "lines": "291",
+      "verbatim": "Thomas ignored the bird. ‘Cynthia isn’t like you. She doesn’t have the powers you and your family have.’"
+    },
+    {
+      "n": 80,
+      "who": "海伦娜 / 罗温姨妈 / 艾莉",
+      "did": "海伦娜咬住舌头；罗温姨妈与艾莉交换了一个心照不宣的眼神",
+      "lines": "294",
+      "verbatim": "Helena bit her tongue as Aunt Rowan shared a knowing look with Ellie."
+    },
+    {
+      "n": 81,
+      "who": "克里奥（＋煤气灯）",
+      "did": "**煤气灯猛地一亮——这是克里奥发脾气的确凿信号**：「她受我们能力的保护。连你也得承认，有海伦娜在她身边，辛西娅比跟任何人在一起都安全。不久前我才护你免于确定的危险，你忘了吗？因为我乐意再提醒你一次。」她指尖飞出的火花在她掌心跳成一团火焰",
+      "lines": "297",
+      "verbatim": "The gas lights flared, a sure sign of Clio’s temper. ‘She has the protection of our powers. Even you must admit, with Helena by her side, Cynthia is safer than she would be with anyone else. I kept you protected against certain danger not so long ago, or have you forgotten? Because I’ll gladly remind you.’ The sparks flying from her finger leapt into a single flame in her palm."
+    },
+    {
+      "n": 82,
+      "who": "托马斯",
+      "did": "握住她的手、按在自己心口，把火掐灭：「你一直让我平安。可她是我妹妹，她已经受了够多苦。我不想任何伤害落到她身上。」",
+      "lines": "300",
+      "verbatim": "Thomas took her hand and placed it against his heart, snuffing out the fire. ‘You keep me safe always. But she is my sister, and she has already suffered enough. I don’t want any harm to come to her.’"
+    },
+    {
+      "n": 83,
+      "who": "克里奥",
+      "did": "脸软下来，用另一只空着的手贴住托马斯的脸颊；在**晚宴正中间**做出这么亲昵的一幕，让人很不自在",
+      "lines": "303",
+      "verbatim": "Clio’s face softened as she took her free hand and pressed it against Thomas’ cheek. It was a disconcertingly intimate moment to have in the middle of a dinner party."
+    },
+    {
+      "n": 84,
+      "who": "辛西娅",
+      "did": "清了清嗓子把所有人的注意力收回来：「我是你妹妹，而且我就在这里。请别当我不在场似的谈论我。人活着就不可能不受一点苦。这一点你比大多数人清楚，托马斯。但你的磨难没有压倒你，我的也不会。相信我。我比你想的能干，我厌倦了别人试图控制我的选择——**哪怕他们是出于爱**。」",
+      "lines": "306",
+      "verbatim": "Cynthia cleared her throat, reclaiming everyone’s attention. ‘I am your sister, and I am right here. Please desist talking about me as if I weren’t present. One cannot live without suffering some amount of pain. You know this better than most, Thomas. But your trials did not triumph over you, and neither will mine. Trust me. I am more capable than you think, and I am tired of people trying to control my choices. Even when they do so out of love.’"
+    },
+    {
+      "n": 85,
+      "who": "海伦娜",
+      "did": "「说得好。」这个词在她来得及阻止前就溜了出来；但点亮辛西娅脸庞的那个笑，让她非常庆幸自己说了",
+      "lines": "309",
+      "verbatim": "‘Bravo.’ The word escaped before Helena could stop it, but the smile lighting Cynthia’s face made her ever so glad she spoke."
+    },
+    {
+      "n": 86,
+      "who": "罗温姨妈",
+      "did": "啜了口酒，目光评估：「兄弟姐妹从来不容易。有强烈的爱，但没有人比他们更懂得如何激怒对方。我想这是因为我们的根缠在一起，哪怕我们长成了截然不同的树。你和托马斯小时候是什么样的，辛西娅？」",
+      "lines": "312",
+      "verbatim": "Aunt Rowan sipped her glass of wine, her gaze assessing. ‘Siblings are never easy. There is fierce love, but no one knows better how to irritate or enrage. I suppose it’s because our roots are inextricably linked, even if we grow into vastly different trees. What were you and Thomas like as children, Cynthia?’"
+    },
+    {
+      "n": 87,
+      "who": "辛西娅",
+      "did": "对这突兀的换题眨了眨眼、呼出一口气：「问托马斯更合适。我对我们小时候的记忆一直是模糊的。」",
+      "lines": "315",
+      "verbatim": "Blinking at the abrupt change in subject, Cynthia huffed out a breath. ‘Thomas is the better one to ask. My memories of our younger years have always been fuzzy.’"
+    },
+    {
+      "n": 88,
+      "who": "罗温姨妈",
+      "did": "倾身向前，把酒杯推开：「**什么时候？**」",
+      "lines": "318",
+      "verbatim": "Leaning forward, Aunt Rowan pushed her glass aside. ‘When?’"
+    },
+    {
+      "n": 89,
+      "who": "辛西娅",
+      "did": "「什么时候什么？」她从罗温姨妈看向海伦娜",
+      "lines": "321",
+      "verbatim": "‘When what?’ Cynthia looked from Aunt Rowan to Helena."
+    },
+    {
+      "n": 90,
+      "who": "海伦娜（内心）",
+      "did": "姨妈在探问消息，但她**守着自己的念头**，海伦娜读不到",
+      "lines": "324",
+      "verbatim": "Her aunt was seeking information, but she was guarding her thoughts so Helena couldn’t easily read her."
+    },
+    {
+      "n": 91,
+      "who": "罗温姨妈",
+      "did": "「你的记忆**确切从什么时候**开始变清楚？」",
+      "lines": "327",
+      "verbatim": "‘When exactly do your memories become clear?’"
+    },
+    {
+      "n": 92,
+      "who": "辛西娅",
+      "did": "靠回椅背：「我想是从**史密斯夫人**来的时候起。」",
+      "lines": "330",
+      "verbatim": "Cynthia leaned back in her chair. ‘I suppose when Governess Smithers came.’"
+    },
+    {
+      "n": 93,
+      "who": "托马斯",
+      "did": "摇头：「那个女人是个暴君。**父母把我送去伊顿**时，我真恨把你一个人丢给她。你那时应该是**七岁**，因为我刚满**十岁**。知道你得独自忍受史密斯夫人和她那根**桦木条**，太可怕了。」",
+      "lines": "333",
+      "verbatim": "Thomas shook his head. ‘That woman was a tyrant. I hated leaving you alone with her when Mother and Father sent me to Eton. You would have been seven, because I had just turned ten. It was ghastly knowing you had to endure Smithers and her birch cane all alone.’"
+    },
+    {
+      "n": 94,
+      "who": "辛西娅",
+      "did": "耸肩，玩着餐巾边缘，眼睛盯着桌子：「也没那么糟。他们只是想让我成为一位淑女。看看结果多好。」她的笑几乎让海伦娜那颗戒备的心碎掉：「我想他们现在不会太为我骄傲吧，会吗？」",
+      "lines": "336",
+      "verbatim": "Shrugging, Cynthia played with the edge of a napkin and kept her eyes on the table. ‘It wasn’t so bad. They just wanted me to become a lady. Look how well that worked out.’ Her laughter nearly broke Helena’s guarded heart. ‘I don’t suppose they would be very proud of me now, would they?’"
+    },
+    {
+      "n": 95,
+      "who": "托马斯",
+      "did": "「他们逼你嫁给休伯特，那是他们的错，Cyn。」他用拳头敲桌子：「你曾经是个野东西。你可能不记得，但我记得。总是求我跟你去森林里冒险，从山坡上滚下去直到裙子毁了，偷偷溜进马厩对马儿说悄悄话、喂它们从厨房偷来的苹果。」",
+      "lines": "339",
+      "verbatim": "‘They were wrong to force your hand in marrying Hubert, Cyn.’ Thomas tapped his fist on the table. ‘You were a wild thing once. You might not remember, but I do. Always begging me to go on adventures with you in the forest, rolling down the hills until your dress was ruined, sneaking to the stables to whisper secrets to the horses and feed them stolen apples from the kitchen.’"
+    },
+    {
+      "n": 96,
+      "who": "辛西娅",
+      "did": "「难怪他们要请史密斯夫人。以这种规矩，我肯定钓不到一位侯爵。」",
+      "lines": "342",
+      "verbatim": "‘It’s no wonder they hired Governess Smithers. I certainly wouldn’t have caught a marquess with such manners.’"
+    },
+    {
+      "n": 97,
+      "who": "海伦娜",
+      "did": "低声说：「**可那样你会快乐。**」",
+      "lines": "345",
+      "verbatim": "‘But you would have been happy,’ Helena murmured."
+    },
+    {
+      "n": 98,
+      "who": "罗温姨妈",
+      "did": "重新抓住辛西娅的注意力：「他们请家庭教师时你七岁？你确定？」",
+      "lines": "348",
+      "verbatim": "‘And you were seven when they hired the governess? You’re sure?’ Aunt Rowan reclaimed Cynthia’s attention."
+    },
+    {
+      "n": 99,
+      "who": "（**无归属**的心声）",
+      "did": "「七岁。**女巫的力量初次显现的年纪。**」",
+      "lines": "351",
+      "verbatim": "Seven. The age a witch first comes into her powers."
+    },
+    {
+      "n": 100,
+      "who": "艾莉 / 克里奥",
+      "did": "艾莉一手捂住嘴；克里奥从托马斯身上转开，盯着辛西娅",
+      "lines": "354",
+      "verbatim": "Ellie clapped a hand over her mouth as Clio turned from Thomas to stare at Cynthia."
+    },
+    {
+      "n": 101,
+      "who": "哈姆雷特（狐狸）/ 海伦娜",
+      "did": "哈姆雷特撞了撞她的大腿；她把手指埋进它柔软的毛里，从她的魔宠身上汲取安慰",
+      "lines": "357",
+      "verbatim": "Hamlet bumped against Helena’s thigh, and she buried her fingers in his soft fur, drawing comfort from her familiar."
+    },
+    {
+      "n": 102,
+      "who": "辛西娅",
+      "did": "「既然托马斯说我七岁，那我一定是七岁。我告诉过你，他对童年的记忆比我好得多。但我确实记得史密斯夫人。她那个人让人忘不了。」",
+      "lines": "360",
+      "verbatim": "‘If Thomas says I was seven, then I must have been seven. I told you, his memories of our childhood are much better than mine. But I do remember Governess Smithers. Her personality was impossible to forget.’"
+    },
+    {
+      "n": 103,
+      "who": "罗温姨妈",
+      "did": "「有意思。」她给海伦娜一个意味深长的眼神",
+      "lines": "363",
+      "verbatim": "‘Fascinating.’ Aunt Rowan sent Helena a look laden with meaning."
+    },
+    {
+      "n": 104,
+      "who": "罗温姨妈（心声，海伦娜读到）",
+      "did": "「**她是个女巫。有人封住了她的力量，但魔法不可能永远被绑住。**」",
+      "lines": "366",
+      "verbatim": "She is a witch. Someone trapped her powers, but magic can’t stay bound forever."
+    }
+  ],
+  "relationships_noted": [
+    {
+      "pair": "海伦娜 ↔ 辛西娅",
+      "kind": "情感线：海伦娜本章**单方面立下规矩**",
+      "lines": "66, 69, 96, 99, 105, 111, 114, 120, 123–129, 132, 231, 267, 273, 276, 309, 345",
+      "verbatim": "Flirtations? Fine. … Commitment? Never. … It was better for them both. … Damnation. Did I just call her my own? … ‘Bravo.’ The word escaped before Helena could stop it",
+      "note": "海伦娜为辛西娅换三次裙子、在镜前打扮（`:66`/`:69`），却在 `:120`–`:129` **决定**只要调情与探索、绝不要承诺；理由是**母亲的前车之鉴**（`:105`/`:111`）与辛西娅的社会地位（`:114`/`:132`）。`:273` 她失口把辛西娅称作「自己人」后立刻惊慌改口（`:276`）——**她没有表白**。"
+    },
+    {
+      "pair": "辛西娅 ↔ 巫会（布莱尔家）",
+      "kind": "身份揭示：辛西娅是女巫",
+      "lines": "204, 213, 216, 222, 228, 231, 351, 366",
+      "verbatim": "She has power in her blood. Magic in her soul. … ‘Oh, my goddess.’ Cynthia is a witch. … She is a witch. Someone trapped her powers, but magic can’t stay bound forever.",
+      "note": "揭示顺序：天气异动（`:204` 雷／电／雨，`:228` 雨止）→ 罗温姨妈的心声（`:213`）→ 克里奥的心声（`:222`）→ 海伦娜的震惊（`:231`）→ 章末罗温姨妈的结论「有人封住了她的力量」（`:366`）。⚠️ **辛西娅本人从未承认**，`:228` 她把话题引回案子。"
+    },
+    {
+      "pair": "海伦娜 ↔ 克里奥 ↔ 艾莉",
+      "kind": "**表姐妹三人**，各有不同能力",
+      "lines": "135, 159",
+      "verbatim": "Helena winked at her cousin … Clio couldn’t delve into their pasts. Helena couldn’t read their thoughts about each other. Ellie couldn’t see any possible future for them. It was a point of shared frustration between the cousins.",
+      "note": "**能力不可互换**：海伦娜＝读心、克里奥＝探过去（delve into pasts）、艾莉＝看未来（see possible future）。`:135` 明示艾莉是海伦娜的表妹（cousin）。"
+    },
+    {
+      "pair": "克里奥 ↔ 托马斯",
+      "kind": "夫妻",
+      "lines": "180, 285, 300, 303",
+      "verbatim": "Clio put a hand over her husband’s. … Clio’s fingers sparked as she turned to her husband. … Thomas took her hand and placed it against his heart, snuffing out the fire.",
+      "note": "克里奥是托马斯的妻子 ⇒ **辛西娅是克里奥的 sister-in-law**（`:276` 海伦娜明说）。克里奥的能力是**火／火花**（`:285` 指尖冒火花、`:297` 掌心生火），发脾气时**煤气灯会猛亮**（`:297`）。托马斯曾受她保护（`:297`「不久前我才护你免于确定的危险」，具体事件本章未述）。"
+    },
+    {
+      "pair": "托马斯 ↔ 辛西娅",
+      "kind": "兄妹",
+      "lines": "168, 192, 264, 282, 300, 306, 333, 339",
+      "verbatim": "‘As your brother, it’s my duty to protect you. I can’t allow you to engage in such dangerous activities.’ … You would have been seven, because I had just turned ten. It was ghastly knowing you had to endure Smithers and her birch cane all alone.’ … ‘They were wrong to force your hand in marrying Hubert, Cyn.’",
+      "note": "托马斯十岁时被父母送去**伊顿**，辛西娅七岁；他记得她童年「野」的样子（森林冒险／滚山坡／对马说悄悄话／偷苹果）。⚠️ **他不知道辛西娅是女巫**（`:291`「她没有你和你的家人那样的能力」，此话为假，`:294` 罗温与艾莉交换了心照不宣的眼神）。"
+    },
+    {
+      "pair": "罗温姨妈 ↔ 拉克兰叔叔",
+      "kind": "**古怪的敌意**（未解释）",
+      "lines": "138, 156, 159",
+      "verbatim": "Uncle Lachlan sat at the opposite end of the table to Aunt Rowan. … explain the strange enmity between Aunt Rowan and Uncle Lachlan. … their tricksy aunt used her impressive magic to block the girls",
+      "note": "罗温很久以前施咒封住两人之间的秘密，三个表姐妹都探不到（`:159`）；晚餐时两人**对面而坐**，拉克兰的目光飘向她时念头会变模糊（`:156`）。**本章不解释敌意由来**。"
+    },
+    {
+      "pair": "罗温姨妈 ↔ 药铺",
+      "kind": "经营关系",
+      "lines": "138",
+      "verbatim": "every blue-blooded lady she served at All Things Bright and Beautiful … one reason why the apothecary was so popular amongst the wealthiest ladies in society. Surely the proprietress must know the secrets of eternal youth",
+      "note": "药铺名为 **All Things Bright and Beautiful**；罗温是 proprietress（老板娘／主事者）。⚠️ 与 ch06/ch12 提到的「Savile Row 上的 apothecary」是否同一家，**本章未说**，不得代为断言。"
+    },
+    {
+      "pair": "海伦娜 ↔ 母亲",
+      "kind": "母女／前车之鉴",
+      "lines": "105, 108",
+      "verbatim": "Her mother willingly sacrificed all that was light and good within herself to a man who twisted her magic for his own gain. … the sacrifice her mother was willing to make for blood magic, or the price she forced Helena to pay.",
+      "note": "母亲为**一个扭曲她魔法供自己牟利的男人**献出身上所有光明与美好；母亲愿意为**血魔法（blood magic）**做牺牲，并**逼海伦娜付出代价**。⚠️ 那个男人**未具名**（不得指认为辛克莱或任何已知人物）；「血魔法」在本章仅此一次，内容未展开。"
+    },
+    {
+      "pair": "三人 ↔ 各自的动物",
+      "kind": "动物伙伴",
+      "lines": "50, 72, 171, 204, 207, 288, 357",
+      "verbatim": "Ellie giggled as her ferret scrambled up the coverlet … Hamlet sat next to her, his bushy tail neatly wrapped around his feet … ‘Bastard!’ Sir Robin added cheerfully from his perch on Clio’s chair. … Another boom of thunder had Ophelia burrowing into Ellie’s arms.",
+      "note": "**海伦娜＝哈姆雷特（狐狸，`:78` 明写 her familiar）**；**艾莉＝奥菲莉亚（雪貂）**——`:50` 只写「her ferret」，`:204` 才给出名字 Ophelia；**克里奥＝罗宾爵士（鸟，会说话）**——`:171` 栖在椅背、`:207` 抖羽毛且有一只乌黑的眼睛、`:288` 跳走并啄托马斯肩上的斑点。⚠️ 罗宾爵士与奥菲莉亚是否也算 familiar，**原文未说**。"
+    },
+    {
+      "pair": "辛西娅 ↔ 父母（未出场）",
+      "kind": "被安排的婚姻",
+      "lines": "333, 336, 339, 342",
+      "verbatim": "when Mother and Father sent me to Eton … ‘It wasn’t so bad. They just wanted me to become a lady. Look how well that worked out.’ … ‘They were wrong to force your hand in marrying Hubert, Cyn.’",
+      "note": "父母**双双在世**（至少在托马斯去伊顿、辛西娅七岁那时）；他们逼辛西娅嫁给休伯特；休伯特是**侯爵**（`:342` marquess，`:135` 辛西娅是 marchioness）。本章父母**未出场、未给名字**。"
+    }
+  ],
+  "numbers_verbatim": [
+    {
+      "n": 1,
+      "lines": "66",
+      "verbatim": "She changed her dress three times. First, the mint day dress. Then the dark-blue one that contrasted with her hair. She finally settled on her favourite green silk gown with a daring neckline.",
+      "meaning": "换裙**三次**，且三条裙子有明确顺序：薄荷色日装裙 → 深蓝裙 → 绿丝礼服（最终选定）"
+    },
+    {
+      "n": 2,
+      "lines": "138",
+      "verbatim": "For a woman about to enter her fifth decade",
+      "meaning": "罗温姨妈**即将进入第五个十年**（即四十多岁）；原文为「about to enter」，不是确数"
+    },
+    {
+      "n": 3,
+      "lines": "333",
+      "verbatim": "You would have been seven, because I had just turned ten.",
+      "meaning": "托马斯**刚满十岁**、辛西娅**七岁**（与 ch13 `:245` `He was ten, only three years older than her` 完全互证）"
+    },
+    {
+      "n": 4,
+      "lines": "351",
+      "verbatim": "Seven. The age a witch first comes into her powers.",
+      "meaning": "**七岁＝女巫力量初次显现的年纪**（设定性数字；⚠️ 该句无归属，见 traps T2）"
+    },
+    {
+      "n": 5,
+      "lines": "348",
+      "verbatim": "‘And you were seven when they hired the governess? You’re sure?’",
+      "meaning": "罗温姨妈**追问确认**七岁这个数字；辛西娅在 `:360` 只说「既然托马斯说我七岁，那我一定是七岁」——**她本人并不确定**"
+    },
+    {
+      "n": 6,
+      "lines": "162",
+      "verbatim": "her adventure with Cynthia at The Devil’s Bargain the previous evening",
+      "meaning": "ch12/ch13 那晚是**前一晚**（时间衔接明确）"
+    },
+    {
+      "n": 7,
+      "lines": "99",
+      "verbatim": "She had explored pleasure with a few women",
+      "meaning": "**几个女人**（原文未给数目）——与 ch13 `:194` `‘A few. Never more than a passing whim.’` 一致"
+    },
+    {
+      "n": 8,
+      "lines": "297",
+      "verbatim": "I kept you protected against certain danger not so long ago",
+      "meaning": "克里奥**不久前**保护过托马斯一次（原文未给时间、未述事件）"
+    },
+    {
+      "n": 9,
+      "lines": "186",
+      "verbatim": "Her hazel eyes were more brown than green tonight",
+      "meaning": "辛西娅的榛色眼睛**今晚棕多于绿**（与 ch13 `:137` 的「森林的绿与棕：silver sage, deep moss, rich bark」相呼应，但本章只作一句外观描写）"
+    },
+    {
+      "n": 10,
+      "lines": "159",
+      "verbatim": "Helena, Clio, and Ellie had spent many late nights spinning out possible stories",
+      "meaning": "**三个表姐妹**＋**许多深夜**（无确数）；三种能力各被姨妈的咒挡住一次（`:159` 三句并列）"
+    }
+  ],
+  "unresolved_in_source": [
+    {
+      "id": "U1",
+      "question": "**谁**封住了辛西娅的力量、**怎么**封的（`:366` `Someone trapped her powers, but magic can’t stay bound forever.`）——本章不答",
+      "lines": "366"
+    },
+    {
+      "id": "U2",
+      "question": "罗温姨妈与拉克兰叔叔之间那种**古怪的敌意**究竟是什么（`:159`）；姨妈施的封锁咒内容为何",
+      "lines": "156, 159"
+    },
+    {
+      "id": "U3",
+      "question": "海伦娜母亲愿意为**血魔法**做出的牺牲是什么、她**逼海伦娜付的代价**是什么（`:108`）；那个「扭曲她魔法供自己牟利的男人」是谁（`:105`）",
+      "lines": "105, 108"
+    },
+    {
+      "id": "U4",
+      "question": "**乔治·利珀特**是谁——拉克兰（`:249`）与托马斯（`:258`）都不认识；本章毫无进展",
+      "lines": "246, 249, 258"
+    },
+    {
+      "id": "U5",
+      "question": "辛西娅**能否听见哈姆雷特（及动物）的想法**——海伦娜当面问过狐狸两次（`:81`/`:87`），狐狸**始终没有回答**（`:90` 只把爪子搁在她膝上）",
+      "lines": "75, 81, 84, 87, 90"
+    },
+    {
+      "id": "U6",
+      "question": "克里奥「不久前」保护托马斯免于的「确定的危险」是什么（`:297`）——本章未述",
+      "lines": "297"
+    },
+    {
+      "id": "U7",
+      "question": "辛西娅七岁前的记忆为何模糊（`:315`/`:330`/`:360`）——`:351`/`:366` 暗示与力量被封有关，但**原文未点明因果**",
+      "lines": "315, 330, 351, 360, 366"
+    }
+  ],
+  "traps_noted": [
+    {
+      "id": "T1",
+      "trap": "**本章 POV 是海伦娜，不是辛西娅**——与 ch13 相反。所有「读到的念头」都由海伦娜接收，不得写成辛西娅的视角",
+      "lines": "35, 366"
+    },
+    {
+      "id": "T2",
+      "trap": "`:351` `Seven. The age a witch first comes into her powers.` **无归属**：既可能是海伦娜自己的念头，也可能是她读到的罗温姨妈的念头（`:348` 是姨妈在追问、`:363` 姨妈又说「有意思」）。**不得断言是谁想的**",
+      "lines": "348, 351, 363"
+    },
+    {
+      "id": "T3",
+      "trap": "`:225` `This changed everything.` 同样**无归属**（紧接克里奥的心声 `:222`，最可能是海伦娜的，但原文未标）",
+      "lines": "222, 225"
+    },
+    {
+      "id": "T4",
+      "trap": "`:222` 末句 `Cynthia is a witch.` 是**克里奥的心声**（海伦娜读到），**不是叙述者的定论、也不是海伦娜自己的判断**；`:213` 的 `She has power in her blood. Magic in her soul.` 是**罗温姨妈的心声**，`:216` 明示归属",
+      "lines": "213, 216, 222"
+    },
+    {
+      "id": "T5",
+      "trap": "`:366` 是**罗温姨妈的心声**（章末最后一行，无 `echoed in Helena’s head` 那样的明示句，但 `:363` 她刚给海伦娜一个「意味深长的眼神」⇒ 归属可靠）",
+      "lines": "363, 366"
+    },
+    {
+      "id": "T6",
+      "trap": "**奥菲莉亚（Ophelia）＝艾莉的雪貂**，不是人：`:50` 只写 `her ferret`，`:204` 才出现名字 `Ophelia burrowing into Ellie’s arms`。不得当作在场的女性人物",
+      "lines": "50, 204"
+    },
+    {
+      "id": "T7",
+      "trap": "**罗宾爵士（Sir Robin）＝克里奥的鸟**，不是骑士：`:171` `from his perch on Clio’s chair`、`:207` `fluffed his feathers, his obsidian eye`、`:288` `hopped … peck at a fleck`。它**会说话**且只重复／改写别人的词（`Bastard!`／`Terribly reckless!`／`Dick! Dick! Dictated!`／`Blustering dunderhead!`）",
+      "lines": "171, 183, 207, 288"
+    },
+    {
+      "id": "T8",
+      "trap": "**三个表姐妹的能力不可互换**：`:159` 三句并列——克里奥＝delve into pasts（探过去）、海伦娜＝read thoughts（读心）、艾莉＝see any possible future（看未来）",
+      "lines": "159"
+    },
+    {
+      "id": "T9",
+      "trap": "`:105` 母亲献身的那个男人**原文未具名**（`a man who twisted her magic for his own gain`）。不得指认为辛克莱、不得指认为任何已知角色",
+      "lines": "105"
+    },
+    {
+      "id": "T10",
+      "trap": "`:108` 的 **blood magic（血魔法）** 全书此处首次出现在本章，**内容完全未展开**；「母亲逼海伦娜付的代价」也未说明。不得代为解释",
+      "lines": "108"
+    },
+    {
+      "id": "T11",
+      "trap": "`:291` 托马斯说「她没有你和你的家人那样的能力」——**这句是假的**，且海伦娜／罗温／艾莉当场就知道（`:294` `Helena bit her tongue as Aunt Rowan shared a knowing look with Ellie.`）。**托马斯不知道辛西娅是女巫**，不得写成「全家都知道了」",
+      "lines": "291, 294"
+    },
+    {
+      "id": "T12",
+      "trap": "`:267`–`:276` 海伦娜说「Blair women … protecting **our own**」→ `:273` 惊慌「Did I just call her **my own**?」→ `:276` 用「克里奥的 sister-in-law ⇒ 家人」把话圆回去。**这是掩饰，不是表白**；不得写成她当众承认了感情",
+      "lines": "267, 273, 276"
+    },
+    {
+      "id": "T13",
+      "trap": "`:204` 与 `:228` 的天气变化**跟着辛西娅的情绪走**（怒→雷／电／雨；平静→雨止），但**辛西娅自己毫无评论、也不承认**，她在 `:228` 把话题引回案子。是**在场的女巫们**察觉（`:210`/`:213`/`:219`/`:222`）",
+      "lines": "204, 210, 228"
+    },
+    {
+      "id": "T14",
+      "trap": "`:120`–`:129` 的三短句（Flirtations? Fine. / Explorations? Marvellous. / Commitment? Never.）是**海伦娜的内心决定**，不是她说出口的话",
+      "lines": "120, 123, 126, 129"
+    },
+    {
+      "id": "T15",
+      "trap": "`:138` 药铺名 **All Things Bright and Beautiful** 只在本章出现；「apothecary」一词也在此行。与 ch11 `:74`（`your apothecary shop on Savile Row`）是否同一家，**原文未说**",
+      "lines": "138"
+    },
+    {
+      "id": "T16",
+      "trap": "`:150` `the costume she poured herself into **the night before**` ＋ `:162` `the previous evening` ⇒ 本章晚餐与 ch12/ch13 那晚**只隔一天**（ch13 是当晚的马车回程）",
+      "lines": "150, 162"
+    },
+    {
+      "id": "T17",
+      "trap": "`:141` 罗温姨妈那句里的 `…` 是**原文的戏剧性停顿**（`Helena never invites… friends… to dinner.`），不是提取残缺、也不是 md 的省略号拼接",
+      "lines": "141"
+    },
+    {
+      "id": "T18",
+      "trap": "`:198` 的海伦娜内心话（杀哥哥、藏尸、克里奥不会原谅）是**夸张的玩笑式内心独白**，不是意图；不得当作情节",
+      "lines": "198"
+    },
+    {
+      "id": "T19",
+      "trap": "`:51`–`:65` 为**连续空行**（场景分隔），不是提取缺陷；据此判定「早晨卧室」与「傍晚梳妆／晚餐」是两场",
+      "lines": "50, 51–65, 66"
+    },
+    {
+      "id": "T20",
+      "trap": "`:297` **煤气灯猛亮＝克里奥发脾气的信号**（`a sure sign of Clio’s temper`）；她的能力是**火**（`:285` 指尖火花、`:297` 掌心火焰），托马斯把她的手按在自己心口即灭火（`:300`）",
+      "lines": "285, 297, 300"
+    },
+    {
+      "id": "T21",
+      "trap": "`:345` `‘But you would have been happy,’ Helena murmured.` —— 这是海伦娜全章唯一一句柔软的话，**原文没有记录任何回应**；不得补写辛西娅或托马斯的反应",
+      "lines": "345"
+    },
+    {
+      "id": "T22",
+      "trap": "`:237` 的 **coven（巫会）**＝ `:222`/`:294` 在场的这一桌人（罗温、克里奥、艾莉、海伦娜）；本章**没有**给这个巫会起名，也未说明成员是否只此四人",
+      "lines": "237"
+    },
+    {
+      "id": "T23",
+      "trap": "`:333` 提到 **Mother and Father** 双双把托马斯送去伊顿 ⇒ 那时父母都在世；本章**未说**他们现在是否在世、也未给名字",
+      "lines": "333"
+    }
+  ]
+}
