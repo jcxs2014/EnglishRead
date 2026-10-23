@@ -1,0 +1,195 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch35",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch35_chapter_thirty_four.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "醒后摸 Harrison 只摸到织物",
+   "anchor": "I reached for Harrison, finding nothing but fabric.",
+   "start": 132,
+   "end": 183,
+   "line": 9
+  },
+  {
+   "fact": "望远镜看不透雾",
+   "anchor": "too thick for me to see through with the binoculars",
+   "start": 650,
+   "end": 701,
+   "line": 21
+  },
+  {
+   "fact": "田野、办公室、SUV 都找不到",
+   "anchor": "I couldn’t find him in the field or the office or the SUV",
+   "start": 1149,
+   "end": 1206,
+   "line": 27
+  },
+  {
+   "fact": "闸门在无风处摆动",
+   "anchor": "The gate closest to me was swaying in a nonexistent breeze",
+   "start": 2230,
+   "end": 2288,
+   "line": 33
+  },
+  {
+   "fact": "鳄鱼正逃出池子",
+   "anchor": "Some were making their escape",
+   "start": 2475,
+   "end": 2504,
+   "line": 39
+  },
+  {
+   "fact": "七英尺鳄鱼张口对峙后盯住她",
+   "anchor": "a seven-foot alligator, mouth open, stared down a smaller one",
+   "start": 2677,
+   "end": 2738,
+   "line": 42
+  },
+  {
+   "fact": "雾中灰色人形似在驱赶鳄鱼",
+   "anchor": "like it was trying to herd them out of the enclosure",
+   "start": 3371,
+   "end": 3423,
+   "line": 48
+  },
+  {
+   "fact": "雾中现身的是 Harrison 不是 Ida",
+   "anchor": "It wasn’t Ida. It was him.",
+   "start": 4335,
+   "end": 4361,
+   "line": 66
+  },
+  {
+   "fact": "他用电击棒赶出最后一条鳄鱼",
+   "anchor": "herded out the alligators",
+   "start": 4477,
+   "end": 4502,
+   "line": 69
+  },
+  {
+   "fact": "谎称是「他们」开的闸门",
+   "anchor": "They opened the pond gates",
+   "start": 5169,
+   "end": 5195,
+   "line": 75
+  },
+  {
+   "fact": "把电击棒塞进她手里",
+   "anchor": "pressing the cattle prod into my hand",
+   "start": 5831,
+   "end": 5868,
+   "line": 90
+  },
+  {
+   "fact": "讥讽「你很擅长——说谎」",
+   "anchor": "At lying",
+   "start": 6113,
+   "end": 6121,
+   "line": 105
+  },
+  {
+   "fact": "摊牌：全都看见了",
+   "anchor": "“I saw everything,” I snapped.",
+   "start": 6424,
+   "end": 6454,
+   "line": 114
+  },
+  {
+   "fact": "血从自家鳄鱼攒了一个月",
+   "anchor": "Just saved it up from our gators. Took a month.",
+   "start": 7258,
+   "end": 7305,
+   "line": 150
+  },
+  {
+   "fact": "尸体捡自收容所、鱼买自海鲜市场、手锯干一夜",
+   "anchor": "Spent the night with a handsaw",
+   "start": 7494,
+   "end": 7524,
+   "line": 156
+  },
+  {
+   "fact": "发假纸条短信支开 Gazzie",
+   "anchor": "I texted Gazzie that I’d seen a note for her outside the slaughtering room",
+   "start": 7877,
+   "end": 7951,
+   "line": 162
+  },
+  {
+   "fact": "承认与 Nova 多年前交往过、她从不重要",
+   "anchor": "We dated. But only for a bit, and she never meant anything.",
+   "start": 8727,
+   "end": 8786,
+   "line": 174
+  },
+  {
+   "fact": "抡电击棒抽中脸颊",
+   "anchor": "It landed with a satisfying crack across his cheek.",
+   "start": 10450,
+   "end": 10501,
+   "line": 204
+  },
+  {
+   "fact": "溅泥驶离农场",
+   "anchor": "tires splattering mud across Harrison",
+   "start": 11507,
+   "end": 11544,
+   "line": 228
+  }
+ ],
+ "relations": [
+  [
+   "Harrison 与 Nova：多年前短暂交往、现共谋；由他举荐进农场",
+   "We dated.",
+   "L168"
+  ],
+  [
+   "Harrison 用短信骗 Gazzie",
+   "I texted Gazzie",
+   "L162"
+  ],
+  [
+   "Joe 被 Harrison 布局误导为嫌疑",
+   "Joe",
+   "L165"
+  ],
+  [
+   "她怀疑 Nova 想与 Harrison 复合",
+   "rekindle whatever she’d had with Harrison",
+   "L182"
+  ],
+  [
+   "Buddy 借卡车",
+   "Buddy",
+   "L156"
+  ]
+ ],
+ "numbers": [
+  [
+   "清晨六七点",
+   "six or seven in the morning",
+   "L18"
+  ],
+  [
+   "七英尺鳄鱼",
+   "seven-foot alligator",
+   "L42"
+  ],
+  [
+   "攒血花一个月",
+   "Took a month.",
+   "L150"
+  ],
+  [
+   "手锯干一夜",
+   "Spent the night with a handsaw",
+   "L156"
+  ],
+  [
+   "动物维权几年",
+   "a few years",
+   "L186"
+  ]
+ ]
+}
