@@ -22,9 +22,9 @@ modified: "2026-09-15"
 
 **关键词**：childhood（童年）、truth（真相）
 
-**为什么这样写**：Luke's opening statement establishes his commitment to truth-telling. After so many half-truths, this signals a new level of honesty. The tragic backstory that follows—the mother trade, the deal with the devil—explains his character's complexity.
+**为什么这样写**：Luke 开场那句话，立下了他要说真话的决心。经过那么多半真半假的话之后，这标志着一种新的坦诚。随后那段悲剧性的往事——以母亲为代价的交易、与魔鬼的契约——解释了他性格的复杂。
 
-**读者视角提示**：This backstory recontextualizes every protective moment Luke showed Brie.
+**读者视角提示**：这段往事让 Luke 对 Brie 的每一次保护举动都有了新的解释。
 
 ---
 
@@ -35,9 +35,9 @@ modified: "2026-09-15"
 
 **关键词**：deal（交易）、the devil（魔鬼）
 
-**为什么这样写**：Luke's deal with the devil explains his origin story—he wasn't born evil but became it through circumstances. The irony is that he became the very thing he sought power over.
+**为什么这样写**：Luke 与魔鬼的契约解释了他的来历——他并非生来就恶，而是被境遇变成了恶。反讽的是，他最后变成了自己当初想压制的那个东西。
 
-**读者视角提示**：This origin story follows the classic "sold soul to save family" trope but with a twist.
+**读者视角提示**：这段来历遵循了经典的“出卖灵魂救家人”套路，但加了一层转折。
 
 ---
 
@@ -48,9 +48,9 @@ modified: "2026-09-15"
 
 **关键词**：becoming（变成）
 
-**为什么这样写**：The revelation that Luke killed the previous devil and took over his position is the chapter's bombshell. His claim to have had "good intentions" to be "kinder, more merciful" adds tragic depth—he tried to reform hell but was corrupted by it.
+**为什么这样写**：Luke 杀了上一任魔鬼并取而代之，是本章的重磅揭示。他自称当初抱着“善意”，想做得“更温和、更仁慈”，为这段悲剧添了深度——他想改造地狱，却被地狱腐蚀。
 
-**读者视角提示**：This explains why his eyes were black in the portrait—he literally became the devil.
+**读者视角提示**：这解释了画像里他的眼睛为什么是纯黑的——他确确实实变成了魔鬼。
 
 ---
 
@@ -61,9 +61,9 @@ modified: "2026-09-15"
 
 **关键词**：human（人类）、again（再次）
 
-**为什么这样写**：Brie's realization that the overworld was reversing Luke's transformation is poignant. It suggests love and the overworld have healing properties. His red blood when cut proves this theory.
+**为什么这样写**：Brie 意识到人间正在逆转 Luke 的转变，这令人动容。它暗示爱与人间具有疗愈之力。他被割伤时流出的红血，证实了这个推断。
 
-**读者视角提示**：This is hopeful—redemption is possible even for a devil.
+**读者视角提示**：这带来了希望——哪怕是魔鬼，也有可能得到救赎。
 
 ---
 
@@ -74,9 +74,9 @@ modified: "2026-09-15"
 
 **关键词**：brother（兄弟）
 
-**为什么这样写**：The chapter ends with Luke's brother—the current devil—arriving. This cliffhanger raises stakes dramatically: Brie is now trapped with two devils. The "home" reference reinforces that this is literally Luke's domain.
+**为什么这样写**：本章以 Luke 的哥哥——现任魔鬼——登场收尾。这个悬念把风险陡然抬高：Brie 如今和两个魔鬼困在一处。那句“欢迎回家”，更坐实了这里本来就是 Luke 的地盘。
 
-**读者视角提示**：This final line sets up the final confrontation.
+**读者视角提示**：这最后一句为最终的对决做好了铺垫。
 
 ## 本章词汇
 

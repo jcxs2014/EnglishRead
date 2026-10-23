@@ -22,9 +22,9 @@ modified: "2026-09-15"
 
 **关键词**：show（表演）、fall（坠落）
 
-**为什么这样写**：Dante's observation about Brie's balcony fall shows he's been watching her. His amusement at her near-death is chilling but also reveals he's not entirely evil—he acknowledges her courage.
+**为什么这样写**：Dante 对 Brie 跳阳台那一下的评论，说明他一直在看着她。他拿她的九死一生当乐子，令人胆寒，却也显出他并非全然邪恶——他承认了她的胆量。
 
-**读者视角提示**：This line shows Dante's complex personality—he's dangerous but appreciative of spectacle.
+**读者视角提示**：这句话显出 Dante 性格的复杂——他危险，却懂得欣赏好戏。
 
 ---
 
@@ -35,9 +35,9 @@ modified: "2026-09-15"
 
 **关键词**：entertainment（娱乐）、provide my own entertainment（自己找乐子）
 
-**为什么这样写**：Brie's quip even while holding a knife to Dante's throat shows her characteristic humor under pressure. It's a baller moment—literally the most badass line of the book.
+**为什么这样写**：Brie 把刀架在 Dante 喉头还能接话，显出她在压力下特有的幽默。这是极霸气的一刻——堪称全书最狠的一句台词。
 
-**读者视角提示**：This is Brie's "most baller line" moment—she's in control.
+**读者视角提示**：这是 Brie 最霸气的一句台词——主动权在她手里。
 
 ---
 
@@ -48,9 +48,9 @@ modified: "2026-09-15"
 
 **关键词**：what about me（我呢）
 
-**为什么这样写**：After Dante and Luke's entire conversation about destiny and hell and the veil, Brie asserts herself. She's not a pawn in their brotherly drama—she's an agent of her own fate. This line is the chapter's climax and her character arc's culmination.
+**为什么这样写**：在 Dante 和 Luke 谈完命运、地狱与屏障那一整套之后，Brie 替自己发了声。她不是兄弟俩戏码里的棋子——她是自己命运的行使者。这句话是本章的高潮，也是她人物弧线的收束。
 
-**读者视角提示**：This final line is the perfect character moment for Brie.
+**读者视角提示**：这最后一句，是再合适不过的 Brie 人物时刻。
 
 ## 本章词汇
 

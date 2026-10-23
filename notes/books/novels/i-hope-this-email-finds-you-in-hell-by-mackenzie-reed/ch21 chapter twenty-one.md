@@ -78,7 +78,7 @@ modified: "2026-09-15"
 
 **关键词**：hearing（听力）、skewered（被刺穿）
 
-**为什么这样写**：这是 practical information about the enemy—Luke is briefing Brie on how to move silently."Make a sound and you'll be skewered"是 consequences 的 clear statement。
+**为什么这样写**：这是关于敌人的实用信息——Luke 在向 Brie 交代如何无声行动。“一出声就会被刺穿”把后果说得很清楚。
 
 **读者视角提示**：这个 line also reminds us how dangerous this mission is—the archers are effectively perfect assassins.
 
@@ -104,9 +104,9 @@ modified: "2026-09-15"
 
 **关键词**：weekly report（每周报告）、close to on time（差不多准时）
 
-**为什么这样写**：Brie's reaction to Debra's email timing is relatable office humor—even in hell, coworkers still complain about reports. The absurdity of getting work email while on a rescue mission adds levity.
+**为什么这样写**：Brie 对 Debra 发邮件时机的反应，是那种让人会心一笑的职场幽默——哪怕身在地狱，同事也照样为报告抱怨。在营救行动中途收到工作邮件的荒谬感，为本章添了几分轻松。
 
-**读者视角提示**：This line anchors the chapter in Brie's office-worker identity, reminding us she's not just a hero but someone who cares about mundane work things.
+**读者视角提示**：这句把本章牢牢锚在 Brie 的上班族身份上，提醒我们她不只是个英雄，还是个会在意琐碎工作的人。
 
 ## 本章词汇
 

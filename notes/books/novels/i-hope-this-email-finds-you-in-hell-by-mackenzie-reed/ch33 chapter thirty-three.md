@@ -7,7 +7,7 @@ modified: "2026-09-15"
 
 ## 本章导航
 
-- **一句话概括**：Brie holds Dante at knifepoint but gets thrown off; Luke and Dante fight while Brie tosses Luke the dagger; Luke refuses to kill his brother and they escape to the elevator, heading to fix the veil with hell beings rising to block their path.
+- **一句话概括**：Brie 把刀架在 Dante 喉头，却被甩了下去；Luke 与 Dante 交手，Brie 把匕首抛给 Luke；Luke 不肯杀自己的哥哥，两人逃进电梯，前去修复屏障，而地狱的造物正涌上来挡住去路。
 - **情感弧线位置**：action climax 后回落 + emotional resolution。
 - **Tropes 兑现/反转**：Luke won't kill his brother；Brie forgives Luke。
 - **人物弧线**：Luke chooses mercy over revenge；Brie offers forgiveness。
@@ -22,9 +22,9 @@ modified: "2026-09-15"
 
 **关键词**：currency（货币）、deserves（值得）
 
-**为什么这样写**：Brie's statement about souls being used as currency is her moral stand. It shows she maintains her humanity even in hell—her core value that distinguishes her from the devils.
+**为什么这样写**：Brie 关于灵魂被当作货币的那句话，是她的道德立场。它说明哪怕身在地狱，她仍保有人性——这是她与魔鬼区别开来的核心价值。
 
-**读者视角提示**：This line defines Brie's moral character.
+**读者视角提示**：这句话定义了 Brie 的道德品格。
 
 ---
 
@@ -35,9 +35,9 @@ modified: "2026-09-15"
 
 **关键词**：kill（杀）
 
-**为什么这样写**：Dante's dare for Luke to kill him reveals his nihilistic worldview: "You either get killed by the monsters you're running from, or you become them." It's a challenge to Luke's attempt at redemption.
+**为什么这样写**：Dante 激 Luke 杀他，暴露了他那套虚无的世界观：“你要么被你逃离的怪物杀死，要么就变成它们。”这是对 Luke 救赎尝试的挑衅。
 
-**读者视角提示**：This challenge forces Luke to choose between revenge and his humanity.
+**读者视角提示**：这一挑衅逼 Luke 在复仇与人性之间做选择。
 
 ---
 
@@ -48,9 +48,9 @@ modified: "2026-09-15"
 
 **关键词**：forgive（原谅）
 
-**为什么这样写**：Brie's forgiveness of Luke is a pivotal emotional moment. She chooses to release the burden of anger not for his sake but for her own peace. The timing (just before the final mission) makes it even more meaningful.
+**为什么这样写**：Brie 原谅 Luke，是一个关键的情感时刻。她选择放下愤怒的重担，不是为了他，而是为了自己的安宁。这个时机（恰在最终行动之前）让它更有了分量。
 
-**读者视角提示**：This forgiveness scene completes Brie's emotional journey.
+**读者视角提示**：这场原谅的戏，走完了 Brie 的情感历程。
 
 ---
 
@@ -61,9 +61,9 @@ modified: "2026-09-15"
 
 **关键词**：team（团队）、forgive（原谅）
 
-**为什么这样写**：Brie's logic is perfectly her—using humor and pragmatism to frame a deeply emotional decision. The callback to "team" reinforces their partnership.
+**为什么这样写**：Brie 的这套逻辑再像她不过——用幽默和务实来包装一个极重情感的决定。“团队”这个呼应，强化了两人的伙伴关系。
 
-**读者视角提示**：This is Brie's signature blend of humor and heart.
+**读者视角提示**：这是 Brie 标志性的幽默与真心的混合。
 
 ## 本章词汇
 

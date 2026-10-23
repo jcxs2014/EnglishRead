@@ -22,9 +22,9 @@ modified: "2026-09-15"
 
 **关键词**：blood（血）
 
-**为什么这样写**：The chapter opens with this visceral statement, immediately grounding us in Brie's physical reality after the chaos of Chapter 23. It sets a somber, intimate tone for this quiet chapter.
+**为什么这样写**：本章以这句触感强烈的话开篇，在第 23 章的混乱之后，立刻把我们按进 Brie 的身体实感里。它为这一安静的章节定下低沉而私密的调子。
 
-**读者视角提示**：This opening mirrors the book's opening, showing how Brie has come full circle from receptionist to someone who actively saves lives.
+**读者视角提示**：这个开篇呼应了全书的开头，显出 Brie 走完了一整圈：从前台接待员，变成主动去救人性命的人。
 
 ---
 
@@ -35,9 +35,9 @@ modified: "2026-09-15"
 
 **关键词**：stay（留下）
 
-**为什么这样写**：Luke's vulnerable admission—"I don't want to be alone anymore"—cuts through all the banter and action. It reveals his deep loneliness and the emotional toll of being banished. Brie's response "You're not alone. You have me" shows her recognizing their shared isolation.
+**为什么这样写**：Luke 那句脆弱的自白——“我不想再一个人了”——穿透了此前所有的打趣与行动。它暴露出他深重的孤独，以及被驱逐在外的情感代价。Brie 的回答“你不是一个人。你有我”，说明她看出了两人共同的孤绝。
 
-**读者视角提示**：This line represents the emotional heart of the chapter—two lonely people finding connection.
+**读者视角提示**：这句话是本章的情感核心——两个孤独的人找到了连接。
 
 ---
 
@@ -48,9 +48,9 @@ modified: "2026-09-15"
 
 **关键词**：angel（天使）
 
-**为什么这样写**：The irony of this comment—Brie is literally in hell, covered in blood and grime—makes it poignant rather than literal. Luke says it reverently, as if it slipped out unconsciously. The moment is tender without being saccharine.
+**为什么这样写**：这句话的反差——Brie 明明身在地狱，浑身是血和污垢——让它动人，而不是字面意义上的赞美。Luke 说得很虔诚，像是无意识间漏出来的。这一刻温柔，却不甜腻。
 
-**读者视角提示**：Brie's name is Gabriella, meaning "angel of God." Luke's subconscious choice of words reveals deeper feelings.
+**读者视角提示**：Brie 的本名是 Gabriella，意为“上帝的天使”。Luke 潜意识里选用的这个词，透露出更深的感情。
 
 ---
 
@@ -61,9 +61,9 @@ modified: "2026-09-15"
 
 **关键词**：Gabriella（full name reveal）
 
-**为什么这样写**：The use of Brie's full legal name— Gabriella— is a significant reveal. Nobody calls her this anymore since she reinvented herself as "Brie" after her parents' death. Luke knowing it suggests he's been paying attention to details most people miss, and it triggers Brie's identity crisis.
+**为什么这样写**：用上 Brie 的法定全名——Gabriella——是一个重要的揭示。父母死后她把自己重塑成“Brie”，从此再没人这样叫她。Luke 却知道这个名字，说明他一直在留意大多数人会忽略的细节，而这触发了 Brie 的身份危机。
 
-**读者视角提示**：This moment confronts Brie with the gap between who she was and who she's becoming.
+**读者视角提示**：这一刻把 Brie 逼到“过去的她”与“正在成为的她”之间的裂缝面前。
 
 ---
 
@@ -74,9 +74,9 @@ modified: "2026-09-15"
 
 **关键词**：rest（休息）
 
-**为什么这样写**：Luke's repeated insistence that he just needs rest while Brie knows he's going into hypovolemic shock creates tension. He downplays his condition, prioritizing her peace of mind over his own survival. The gender dynamic here is notable—male character downplaying injury while female character medicalizes it.
+**为什么这样写**：Luke 一再坚称自己只是需要休息，而 Brie 知道他已经进入低血容量性休克，张力由此而生。他把自己的状况说得很轻，把她的安心放在自己的生死之前。这里的性别动态值得注意——男性角色淡化伤势，女性角色则用医学眼光去处理它。
 
-**读者视角提示**：This moment shows the limits of his stubbornness and sets up Brie's ongoing worry.
+**读者视角提示**：这一刻显出他的固执到了极限，也为 Brie 后续的担忧埋下伏笔。
 
 ---
 
@@ -87,9 +87,9 @@ modified: "2026-09-15"
 
 **关键词**：Polaroid（宝丽来照片）、two young boys（两个小男孩）
 
-**为什么这样写**：The discovery of the childhood photo humanizes Luke's demon twin. The description—"not like a devil-in-the-making, even his toothy smile is innocent"—suggests evil may not be innate but circumstances of life. This resonates with Moira's earlier "sometimes we can't help what we become."
+**为什么这样写**：发现那张童年照片，让 Luke 的恶魔双胞胎兄弟有了人味。那句描写——“不像一个正在长成魔鬼的孩子，连他露齿的笑都是天真的”——暗示恶未必天生，而是生活境遇所致。这与 Moira 先前那句“有时候我们无法掌控自己会变成什么”相呼应。
 
-**读者视角提示**：This photo provides crucial backstory that recontextualizes the entire conflict.
+**读者视角提示**：这张照片提供了关键的前情，让整场冲突有了新的解释。
 
 ## 本章词汇
 

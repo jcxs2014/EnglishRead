@@ -22,9 +22,9 @@ modified: "2026-09-15"
 
 **关键词**：deals（交易）
 
-**为什么这样写**：Luke's rule about no deals at the soiree is ironic given that they're surrounded by beings who made deals to get there. It establishes the danger of the environment and reminds us that every interaction in hell has a price.
+**为什么这样写**：Luke 立下“晚会上不做任何交易”的规矩，颇有反讽意味——他们周围全是靠交易才来到这里的家伙。这条规矩立起了环境的危险，也提醒我们：在地狱，每一次互动都有价钱。
 
-**读者视角提示**：This rule contrasts with everyone else at the party who likely made deals to get where they are.
+**读者视角提示**：这条规矩与舞会上其余所有人形成对照——他们多半都是靠交易才走到今天的位置。
 
 ---
 
@@ -35,9 +35,9 @@ modified: "2026-09-15"
 
 **关键词**：sly（狡猾的）、stunning（迷人的）
 
-**为什么这样写**：Luke's emotional confession on the dance floor is the romantic climax of the party arc. He finally admits his feelings explicitly ("I want to explore every inch of you, inside and out"). The eclipse-enhanced emotions strip away his usual reserve.
+**为什么这样写**：Luke 在舞池上的情感告白，是晚会这条线的情感高潮。他终于把心意明白说出来（“我想把你从里到外每一寸都探索一遍”）。日食放大的情绪，剥掉了他惯常的克制。
 
-**读者视角提示**：This confession is made more powerful by the magical setting—the eclipse amplifies genuine emotions.
+**读者视角提示**：这一告白因魔法般的场景而更有力量——日食放大了真实的情绪。
 
 ---
 
@@ -48,9 +48,9 @@ modified: "2026-09-15"
 
 **关键词**：feel（感觉）
 
-**为什么这样写**：After listing all of Brie's qualities, Luke's simple "you make me feel" is the emotional thesis. It's vulnerable and direct—the most honest he's been in the entire novel. The incompleteness ("I haven't felt like this since—") hints at deeper issues.
+**为什么这样写**：在数完 Brie 的种种之后，Luke 那句简单的“你让我有感觉”是情感主旨。它脆弱而直接——是他在整部小说里最诚实的一刻。那句没说完的话（“我自从……之后就没这样感觉过”）暗示了更深的心事。
 
-**读者视角提示**：This line echoes Brie's own journey to feeling alive again after her parents' death.
+**读者视角提示**：这句话呼应了 Brie 自己在父母死后重新感到活着的历程。
 
 ---
 
@@ -61,9 +61,9 @@ modified: "2026-09-15"
 
 **关键词**：split up（分开）
 
-**为什么这样写**：The pivot from romantic intensity to tactical necessity creates chapter tension. Luke's logic (dilute scent) conflicts with Brie's emotional need to stay together. Her refusal sets up the conflict for the chapter's climax.
+**为什么这样写**：从浓烈的浪漫转向战术上的必要，制造了本章的张力。Luke 的道理（冲淡气味）与 Brie 想待在一起的情感需要相冲突。她的拒绝，为本章高潮的冲突做好了铺垫。
 
-**读者视角提示**：This moment shows the tension between their relationship and the mission.
+**读者视角提示**：这一刻显出两人的关系与任务之间的张力。
 
 ---
 
@@ -74,9 +74,9 @@ modified: "2026-09-15"
 
 **关键词**：fraternal（异卵双胞胎的）
 
-**为什么这样写**：The portrait reveals that the devil brothers look nearly identical, contradicting Luke's earlier claim about being fraternal twins. This is the chapter's cliffhanger—Brie realizes Luke has been lying about something fundamental about his identity.
+**为什么这样写**：那幅画像揭示两位魔鬼兄弟长得几乎一模一样，与 Luke 先前自称异卵双胞胎的说法相矛盾。这是本章的悬念收尾——Brie 意识到，Luke 在自己的身份这件根本大事上一直在撒谎。
 
-**读者视角提示**：This revelation recontextualizes Luke's identity mysteries throughout the novel.
+**读者视角提示**：这一揭示让全书关于 Luke 身份的种种谜团有了新的解释。
 
 ## 本章词汇
 

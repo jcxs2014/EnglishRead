@@ -22,9 +22,9 @@ modified: "2026-09-15"
 
 **关键词**：it was you（就是你）
 
-**为什么这样写**：Brie's realization that Luke was not just banished but was the boss of the hell hounds transforms her understanding of their entire relationship. The portrait with the WANTED sign makes the betrayal concrete. Her "I'm not furious, I'm hurt" shows emotional depth beyond anger.
+**为什么这样写**：Brie 意识到 Luke 不只是被驱逐，他还是地狱犬的头目，这改变了她对两人整段关系的理解。那张带有 WANTED 标记的画像，让背叛变得具体。她那句“我不是愤怒，我是受伤”，显出超越愤怒的情感深度。
 
-**读者视角提示**：This moment recontextualizes every protective moment Luke showed—were they genuine or manipulation?
+**读者视角提示**：这一刻让 Luke 每一次保护她的举动都有了新的解释——那些是真心，还是操控？
 
 ---
 
@@ -35,9 +35,9 @@ modified: "2026-09-15"
 
 **关键词**：midnight（午夜）
 
-**为什么这样写**：The tolling bell creates physical urgency to match emotional urgency. Brie's race against time to remove the mask before it's permanently fused creates physical stakes. The fact that she succeeds at the last moment (12th toll) shows her resourcefulness.
+**为什么这样写**：钟声一响，身体的紧迫与情感的紧迫对上了。Brie 要在面具永久粘连之前把它摘下，这场与时间的赛跑立起了实打实的赌注。她恰在最后一刻（第十二响）成功，显出她的机变。
 
-**读者视角提示**：The midnight deadline was set up in Chapter 28—this is the payoff.
+**读者视角提示**：午夜的期限在第 28 章就已埋下——这里是它的兑现。
 
 ---
 
@@ -48,9 +48,9 @@ modified: "2026-09-15"
 
 **关键词**：hell of a bash（超级棒的派对）
 
-**为什么这样写**：Brie's quip even while facing the devil embodies her character—she uses humor as a defense mechanism even in the most terrifying moments. The final line "darkness pulls me under" shows she's lost consciousness but her spirit remains unbroken.
+**为什么这样写**：面对魔鬼还照样插科打诨，正是 Brie 这个人的写照——哪怕在最可怕的时刻，她也用幽默当防御。最后那句“黑暗把我吞没”，说明她已失去意识，但精神没有被击垮。
 
-**读者视角提示**：This final line is classic Brie—fearless humor in the face of certain doom.
+**读者视角提示**：这个收尾是典型的 Brie——在必死之境里照样无所畏惧地开玩笑。
 
 ## 本章词汇
 

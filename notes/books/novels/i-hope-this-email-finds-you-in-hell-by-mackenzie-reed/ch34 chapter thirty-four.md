@@ -22,9 +22,9 @@ modified: "2026-09-15"
 
 **关键词**：powers（供电）、fax machine（传真机）
 
-**为什么这样写**：The revelation that the "veil" is actually maintained through an antique fax machine is perfectly absurd—and perfectly Brie. It takes her office skills to save the world.
+**为什么这样写**：所谓“屏障”竟是靠一台老式传真机维持的——这个揭示荒诞得恰到好处，也 Brie 得恰到好处。拯救世界要靠她的办公室技能。
 
-**读者视角提示**：This is classic humor-in-the-face-of-apocalypse writing.
+**读者视角提示**：这是典型的“末日当前照样搞笑”的写法。
 
 ---
 
@@ -35,9 +35,9 @@ modified: "2026-09-15"
 
 **关键词**：unplug（拔插）、reset（重启）
 
-**为什么这样写**：Brie's IT support trick—unplug and replug—saves both worlds. The absurdity is balanced by the genuine tension of whether it will work. Luke's disbelief ("That's the magic fix no one else ever thought of?") makes the moment comedic yet triumphant.
+**为什么这样写**：Brie 那招 IT 支持式的办法——拔掉电源再插上——救了两个世界。荒诞感被“到底行不行”的真实紧张平衡住了。Luke 的不敢置信（“这就是谁都没想过的神奇解法？”）让这一刻既好笑又像一场胜利。
 
-**读者视角提示**：This is a perfect character moment for Brie—mundane office skills applied to supernatural problems.
+**读者视角提示**：这是 Brie 再合适不过的人物时刻——把平凡的办公室技能用在超自然难题上。
 
 ---
 
@@ -48,9 +48,9 @@ modified: "2026-09-15"
 
 **关键词**：you did it（你做到了）
 
-**为什么这样写**：Luke's awe at Brie fixing the veil shows his genuine admiration. It's a turning point from "I brought you here to be maintenance" to acknowledging her brilliance.
+**为什么这样写**：Luke 对 Brie 修好屏障的惊叹，显出他真心的佩服。这是从“我带你下来只是做维护”到承认她才华的转折点。
 
-**读者视角提示**：This recognition completes their partnership arc.
+**读者视角提示**：这份认可，走完了两人的伙伴关系弧线。
 
 ---
 
@@ -61,9 +61,9 @@ modified: "2026-09-15"
 
 **关键词**：send back（送回）、deal（交易）
 
-**为什么这样写**：Luke's desperate deal with Dante—becoming his hunter in exchange for sending Brie back to the overworld—shows how far he's come. He chooses her life over his freedom.
+**为什么这样写**：Luke 与 Dante 那笔绝望的交易——做他的猎手，换取把 Brie 送回人间——显出他走了多远。他选择她的性命，而不是自己的自由。
 
-**读者视角提示**：This deal is Luke's final act of love and redemption.
+**读者视角提示**：这笔交易是 Luke 爱与救赎的最后一次行动。
 
 ## 本章词汇
 

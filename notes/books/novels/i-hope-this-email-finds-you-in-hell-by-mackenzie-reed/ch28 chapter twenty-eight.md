@@ -22,9 +22,9 @@ modified: "2026-09-15"
 
 **关键词**：pier（码头）、overworld（人间）
 
-**为什么这样写**：Moira's confirmation that Krystal and the others made it to the overworld is a moment of relief after the tension of Chapter 24. The simple statement "no longer in this world" confirms success without dwelling on it.
+**为什么这样写**：Moira 确认 Krystal 等人已抵达人间，这是第 24 章的紧张之后松一口气的时刻。那句简单的“已经不在这世上了”，不带多余停留地确认了成功。
 
-**读者视角提示**：This line closes the rescue arc and allows the story to move toward the final confrontation.
+**读者视角提示**：这句话收束了营救这条线，让故事得以转向最终的对决。
 
 ---
 
@@ -35,9 +35,9 @@ modified: "2026-09-15"
 
 **关键词**：asking for it（自找的）
 
-**为什么这样写**：Brie's dry humor about Luke's siren ex-girlfriend ("she tried to drown me") shows her comfort with his past. It's a throwaway joke that demonstrates their growing ease with each other.
+**为什么这样写**：Brie 拿 Luke 那位塞壬前女友打趣（“她想淹死我”），显出她已能坦然面对他的过去。这只是一句顺口的玩笑，却说明两人相处越来越自在。
 
-**读者视角提示**：This banter shows their relationship has moved past crisis mode into comfortable intimacy.
+**读者视角提示**：这番斗嘴说明他们的关系已经走出危机模式，进入自在的亲密。
 
 ---
 
@@ -48,9 +48,9 @@ modified: "2026-09-15"
 
 **关键词**：beautiful（帅）
 
-**为什么这样写**：Brie's jealous admission about Chryser—and Luke's calm agreement—creates a moment of vulnerability. Her insecurity about being compared to his attractive immortal exes surfaces, and Luke's simple "So are you" reassures without fanfare.
+**为什么这样写**：Brie 承认自己嫉妒 Chryser，而 Luke 平静地附和，于是有了一刻脆弱。她怕自己被拿去和他那些迷人的不朽前任比较，这份不安浮上水面；Luke 一句简单的“你也是”，不事张扬地给了安抚。
 
-**读者视角提示**：This moment shows Brie's human insecurity contrasted with Luke's matter-of-fact reassurances.
+**读者视角提示**：这一刻显出 Brie 作为普通人的不安，与 Luke 就事论事式的安抚形成对照。
 
 ---
 
@@ -61,9 +61,9 @@ modified: "2026-09-15"
 
 **关键词**：stunning（令人惊艳的）
 
-**为什么这样写**：Luke's response to Brie in the purple gown is simple but powerful. After all they've been through, the compliment feels earned rather than flirty. His gaze on the bodice shows physical attraction that transcends their emotional connection.
+**为什么这样写**：Luke 对身着紫裙的 Brie 的回应简单却有力。经历了这一切之后，这句赞美像是挣来的，而不是调情。他落在裙身上的目光，显出超越两人情感连接的身体吸引。
 
-**读者视角提示**：The dress-up moment is a classic romance beat—partners admiring each other before a big event.
+**读者视角提示**：盛装打扮这一幕是经典的言情节拍——重大场合之前，伴侣互相欣赏。
 
 ---
 
@@ -74,9 +74,9 @@ modified: "2026-09-15"
 
 **关键词**：queen（女王）
 
-**为什么这样写**：Luke's upgrade from "princess" (Brie's Belle reference) to "queen" is a subtle power move. It acknowledges her agency and strength rather than positioning her as someone to be rescued. This fits their dynamic where she's equally capable.
+**为什么这样写**：Luke 把称呼从“公主”（Brie 借《美女与野兽》的自比）升格为“女王”，是一步不露声色的权力表态。它承认她的自主与力量，而不是把她摆在被拯救的位置上。这正合两人势均力敌的相处格局。
 
-**读者视角提示**：The queen imagery reflects Brie's growth from damsel to equal partner.
+**读者视角提示**：“女王”这一意象，映出 Brie 从待救的少女成长为平等的伴侣。
 
 ---
 
@@ -87,9 +87,9 @@ modified: "2026-09-15"
 
 **关键词**：masks（面具）、midnight（午夜）
 
-**为什么这样写**：Chryser's revelation about the cursed masks adds urgency to the soiree subplot. It establishes a clear ticking clock (midnight) and stakes (permanent attachment). This is classic fairy tale logic—beauty has a price.
+**为什么这样写**：Chryser 关于受诅咒面具的揭示，为晚会这条支线添了紧迫感。它立起了一个清晰的倒计时（午夜）与代价（永久粘连）。这是典型的童话逻辑——美是有价钱的。
 
-**读者视角提示**：The cursed masks create tension for the upcoming party scene and add to the overall theme of identity and transformation.
+**读者视角提示**：受诅咒的面具为即将到来的舞会场景制造张力，也强化了身份与变形这一贯穿全书的主题。
 
 ## 本章词汇
 

@@ -22,9 +22,9 @@ modified: "2026-09-15"
 
 **关键词**：need help（需要帮助）、desperation（绝望）
 
-**为什么这样写**：Brie's raw, desperate plea at the door is the chapter's emotional opening. After everything she's been through, she finally admits she can't do it alone. The simplicity of the line belies the weight of everything that's led to this moment.
+**为什么这样写**：Brie 在门口那句赤裸而绝望的求助，是本章的情感开场。经历了这一切之后，她终于承认自己一个人做不到。这句话的简单，掩盖了把它推到这一步的全部重量。
 
-**读者视角提示**：This moment shows Brie's vulnerability—she's been strong for everyone else, but now she needs help.
+**读者视角提示**：这一刻显出 Brie 的脆弱——她一直为别人撑着，现在她需要帮助。
 
 ---
 
@@ -35,9 +35,9 @@ modified: "2026-09-15"
 
 **关键词**：choose（选择）、save（拯救）
 
-**为什么这样写**：This is the chapter's emotional core—Brie faces an impossible choice with one dose of Vitality and four lives at stake. Her willingness to even consider the choice shows her character: she takes responsibility for everyone's survival even when it's impossible.
+**为什么这样写**：这是本章的情感核心——一份 Vitality、四条人命，Brie 面对一个不可能的选择。她甚至愿意去考虑这个选择，就显出她的品性：哪怕不可能，她也要为所有人的生死负责。
 
-**读者视角提示**：This dilemma mirrors real-world triage situations, bringing Brie's medical training full circle.
+**读者视角提示**：这个两难照应了现实中的伤员分类处置，也让 Brie 的医学训练首尾相接。
 
 ---
 
@@ -48,9 +48,9 @@ modified: "2026-09-15"
 
 **关键词**：mother（母亲）
 
-**为什么这样写**：Brie pieces together Moira's identity through observation and intuition. Moira's emotional reaction—closing her eyes as if the title is too much—confirms it without exposition. The revelation that Luke has a mother in hell adds another layer to his backstory.
+**为什么这样写**：Brie 靠观察和直觉拼出了 Moira 的身份。Moira 的情绪反应——闭上眼睛，仿佛这个称呼太沉重——不用一句说明就证实了它。Luke 在地狱里有一位母亲这一揭示，为他的身世又添了一层。
 
-**读者视角提示**：Moira's scarred appearance and the hint of her past with Luke add depth to his character background.
+**读者视角提示**：Moira 满是伤疤的模样，以及她与 Luke 过往的暗示，让他的角色背景更有纵深。
 
 ---
 
@@ -61,9 +61,9 @@ modified: "2026-09-15"
 
 **关键词**：uncork（开瓶）、dividing（分配）
 
-**为什么这样写**：The physical act of dividing the Vitality potion represents Brie's resourcefulness—she finds a solution that saves all three women instead of choosing one. The decision reflects her character: she refuses to give up on anyone even when resources are limited.
+**为什么这样写**：分装 Vitality 药水这个具体动作，代表 Brie 的机变——她找到了一个能救活三个女人而不是只选一个的办法。这个决定反映出她的性格：哪怕资源有限，她也不肯放弃任何一个人。
 
-**读者视角提示**：This solution showcases Brie's problem-solving skills and her refusal to accept impossible choices.
+**读者视角提示**：这个办法展示了 Brie 解决问题的能力，以及她拒绝接受“不可能的选择”。
 
 ---
 
@@ -74,9 +74,9 @@ modified: "2026-09-15"
 
 **关键词**：save（拯救）
 
-**为什么这样写**：Moira's final words to Brie before leaving encapsulate the chapter's emotional stakes. It's both a plea and a command, showing Moira's trust in Brie despite barely knowing her. The parallel with Brie's earlier "I need help" completes the circle of mutual reliance.
+**为什么这样写**：Moira 离开前对 Brie 说的最后一句话，浓缩了本章的情感赌注。它既是恳求也是命令，显出 Moira 明明几乎不认识 Brie 却信任她。它与 Brie 先前那句“我需要帮助”遥相呼应，让彼此依靠的圆环合拢。
 
-**读者视角提示**：The simplicity of "Save him" carries enormous weight—it's all Moira can say as she leaves her son's life in a stranger's hands.
+**读者视角提示**：“救救他”如此简单，却承载着极大的重量——这是 Moira 把儿子的命交到一个陌生人手里时，唯一能说的话。
 
 ---
 
@@ -87,9 +87,9 @@ modified: "2026-09-15"
 
 **关键词**：once just a boy（曾经只是个男孩）、can't help what we become（无法掌控自己变成什么）
 
-**为什么这样写**：Moira's response about Luke's brother (the devil) provides tragic context for his villainy. It suggests nature vs. nurture—that people aren't born evil but become evil through circumstances. This theme resonates with Luke's own potential for redemption.
+**为什么这样写**：Moira 关于 Luke 哥哥（那个魔鬼）的回答，为他的恶行提供了悲剧性的背景。它指向天性与教养之争——人并非生来就恶，而是被境遇变成了恶。这个主题与 Luke 自身仍有救赎可能相呼应。
 
-**读者视角提示**：This line adds philosophical depth to the book's treatment of good and evil, suggesting moral complexity.
+**读者视角提示**：这句话为全书对善与恶的处理添了哲思的深度，暗示道德并不非黑即白。
 
 ## 本章词汇
 

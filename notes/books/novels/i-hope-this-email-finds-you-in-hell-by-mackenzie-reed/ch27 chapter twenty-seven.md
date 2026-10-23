@@ -22,9 +22,9 @@ modified: "2026-09-15"
 
 **关键词**：beautiful（美丽）
 
-**为什么这样写**：Luke's simple declaration cuts through Brie's insecurities about her body. The context—she's completely bare before him, vulnerable and exposed—makes this moment powerful. His repetition of "beautiful" with "so fucking beautiful and brave" elevates it from compliment to character definition.
+**为什么这样写**：Luke 这句简单的宣告，击穿了 Brie 对自己身体的不安。眼前的处境——她在他面前完全赤裸，脆弱而毫无遮掩——让这一刻有了力量。他把“美”重复成“真他妈的美，而且勇敢”，于是这句话从一句恭维升格为对她这个人的定义。
 
-**读者视角提示**：This is the emotional climax of the intimacy arc—Brie's body image issues are directly addressed and resolved.
+**读者视角提示**：这是亲密关系这条线的情感高潮——Brie 对身体形象的心结被直接点到并化解。
 
 ---
 
@@ -35,9 +35,9 @@ modified: "2026-09-15"
 
 **关键词**：look at me（看着我）、eye contact（眼神交流）
 
-**为什么这样写**：Before physical union, Luke asks Brie to meet his eyes. It's a moment of mutual vulnerability—they're both nervous ("I haven't done this in a while"), and eye contact grounds them together. The simplicity of "Look at me" is an act of emotional intimacy before physical.
+**为什么这样写**：在身体结合之前，Luke 要 Brie 对上他的眼睛。这是双方一同袒露的时刻——两人都紧张（“我有一阵子没做过了”），而目光相接让他们落回彼此身上。“看着我”如此简单，却是在身体亲密之前先行的一步情感亲密。
 
-**读者视角提示**：This moment establishes consent and connection as central to their physical relationship.
+**读者视角提示**：这一刻把知情同意与连接，确立为他们肉体关系的核心。
 
 ---
 
@@ -48,9 +48,9 @@ modified: "2026-09-15"
 
 **关键词**：safe（安全）
 
-**为什么这样写**：Brie's realization that sex with Luke makes her feel safe is profound given her trauma. The car accident killed her parents and gave her nightmares; being held by Luke is the first time since then she feels protected. This emotional safety is more important than physical pleasure.
+**为什么这样写**：以 Brie 的创伤而言，她意识到和 Luke 做爱让她感到安全，这一点意味深长。那场车祸夺走了她的父母，也给她留下噩梦；被 Luke 抱着，是她在那之后第一次感到被保护。这种情感上的安全感，比身体的快感更重要。
 
-**读者视角提示**：This line is the emotional thesis of the chapter—intimacy is about feeling safe, not just physical pleasure.
+**读者视角提示**：这句话是本章的情感主旨——亲密关乎安全感，而不只是身体的快感。
 
 ---
 
@@ -61,9 +61,9 @@ modified: "2026-09-15"
 
 **关键词**：date（约会）
 
-**为什么这样写**：The casual promise of a date—"at the movies so you can finally appreciate how funny I am"—is perfectly Brie. Even after everything they've been through, she frames the future in terms of humor and normalcy. It's a reminder they're both young people who haven't had normal relationships.
+**为什么这样写**：随口许下的约会——“去电影院，好让你终于见识到我有多好笑”——再 Brie 不过。经历了这一切之后，她仍用幽默和平常日子来构想未来。这也提醒我们：两人都还年轻，都没谈过正常的恋爱。
 
-**读者视角提示**：This line grounds the supernatural adventure in universal romantic moments.
+**读者视角提示**：这句话把这场超自然的冒险，落在人人都懂的恋爱瞬间上。
 
 ---
 
@@ -74,9 +74,9 @@ modified: "2026-09-15"
 
 **关键词**：don't dream（不做梦）
 
-**为什么这样写**：The chapter's final line is poignant—Brie's nightmares (brought on by her parents' death in the car accident) finally stop because she feels safe with Luke. It mirrors Luke's earlier confession that he never dreamed "until you." They heal each other.
+**为什么这样写**：本章最后一句令人动容——Brie 的噩梦（由父母在车祸中丧生引起）终于停了，因为和 Luke 在一起她感到安全。这呼应了 Luke 先前“直到遇见你”才做梦的自白。他们在彼此身上得到疗愈。
 
-**读者视角提示**：This ending line is thematically perfect—love and safety free Brie from her trauma-related nightmares.
+**读者视角提示**：这个收尾在主题上恰到好处——爱与安全感让 Brie 摆脱了与创伤相关的噩梦。
 
 ## 本章词汇
 

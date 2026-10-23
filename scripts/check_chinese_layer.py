@@ -323,6 +323,11 @@ def sections(block):
         # 这里先剥引用符、并跳过裸 `>` 行；阈值与判红口径一律不变。
         if line == ">":
             continue
+        # 2026-10-23：剥引用符之前先记下「这原本是引用行」。
+        # 否则「原句正文独占一行」的块（`> **原句 6:` 换行 `> The Polaroid…`）
+        # 剥完前缀后看着像裸段落，被并进「中文理解」⇒ 引文英文占比一超阈值就判「夹杂理解」
+        # （i-hope-this-email 实测 172 块这种排版，5 块越线假红）。
+        orig_quote = line.startswith("> ")
         line = re.sub(r"^(?:>\s*)+", "", line)
         s = re.sub(r"^[-*]\s+", "", line).replace("**", "").strip()
         m = LAB.match(s)
@@ -341,7 +346,7 @@ def sections(block):
             else:
                 out[cur] = m.group(2).strip()
                 out.setdefault(cur + "\x00多组", []).append(m.group(2).strip())
-        elif cur is None and line.strip() and not line.startswith(("> ", "#", "|", "```")) and "**" not in line:
+        elif cur is None and line.strip() and not (orig_quote or line.startswith(("#", "|", "```"))) and "**" not in line:
             # 2026-10-23 第六修：引语行之后、第一个标签之前的裸段落，
             # 是没写标签的「中文理解」（the-man 全书这种写法，30 块被判缺项）。
             cur = "中文理解"
@@ -350,7 +355,7 @@ def sections(block):
             out.setdefault(cur + "\x00多组", []).append(line.strip())
         elif cur and line.startswith(("- ", "* ")):
             out[cur] = (out[cur] + " " + s).strip() if out[cur] else s
-        elif cur and not line.startswith(("> ", "#", "|", "```")):
+        elif cur and not (orig_quote or line.startswith(("#", "|", "```"))):
             # 2026-10-23 第五修：字段写成 `**中文理解：**` 单独成行、正文在**下一行**
             # （the-man-by-laura-sims 全书这种写法，54 块被判「缺中文理解」）。
             # 原先只并 bullet 续行，裸段落行被丢掉 ⇒ 内容看不见。

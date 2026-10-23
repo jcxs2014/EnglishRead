@@ -54,7 +54,7 @@ modified: "2026-09-15"
 
 **为什么这样写**：这是 Poppi 的反应是 drug-induced confusion 的展示——她 sees Luke as savior figure。"quiet as a prayer"是 simile that captures her虚弱状态。Luke's "Not even close"是 dry humor even in crisis。
 
-**读者视角提示**：Four women rescued but all are poisoned/weak，setting up the ticking clock element。
+**读者视角提示**：四名女性虽然获救，却全都中毒或虚弱，为“倒计时”这一要素埋下引子。
 
 ---
 
