@@ -316,6 +316,13 @@ def sections(block):
                 out.setdefault(cur + "\x00多组", []).append(m.group(2).strip())
         elif cur and line.startswith(("- ", "* ")):
             out[cur] = (out[cur] + " " + s).strip() if out[cur] else s
+        elif cur and not line.startswith(("> ", "#", "|", "```")):
+            # 2026-10-23 第五修：字段写成 `**中文理解：**` 单独成行、正文在**下一行**
+            # （the-man-by-laura-sims 全书这种写法，54 块被判「缺中文理解」）。
+            # 原先只并 bullet 续行，裸段落行被丢掉 ⇒ 内容看不见。
+            para = line.strip()
+            if para and "**" not in para:
+                out[cur] = (out[cur] + " " + para).strip() if out[cur] else para
     return out, dups
 
 
