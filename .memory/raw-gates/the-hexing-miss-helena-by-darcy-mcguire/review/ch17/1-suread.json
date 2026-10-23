@@ -1,0 +1,1512 @@
+{
+ "book": "the-hexing-miss-helena-by-darcy-mcguire",
+ "chapter": 17,
+ "source": "text/ch17_chapter_17.txt",
+ "source_lines": 254,
+ "read_order_note": "只读 text/ch17_chapter_17.txt，未开任何 md",
+ "pov": "本章通篇第三人称有限视角，紧贴 Cynthia（Lady Burrows），全程未换人。证据行：47（Cynthia was sitting）、50（她选择贴着 Helena 坐、A secret thrill ran through her）、86（Cynthia could easily become lost…看 Helena 眼睛）、92（无引号心声 I shouldn’t have said that.）、110（Cynthia couldn’t stop the giggle）、125（她自认 bound by golden chains）、134–140（掌心发出能量并控制无形缰绳的是她；Or magic. / Unless I’m somehow stealing power from Helena. 均为她的心声）、149（A strange calm flooded Cynthia）、164（What the bloody hell just happened?…心声）、179–188（Later. / Like a sensible person. 心声）、197（Nerves threatened to choke her；连串自问）、200–212（Hellfire. 等心声）、245–254（That is why Hubert fired her… / Hubert, you bastard. / Nausea washed through her.）。非视角人物的心声：全章没有直接进入 Helena、Lily、Mrs Higgins、coachman、大男人内心的句子；176 行「Act normal.」不是心声，而是 Helena 眼神讯息（173 行 The message in her gaze was impossible to miss）由 Cynthia 读出后的呈现，归属 Helena 的意图、经 Cynthia 视角过滤。68 行对狐狸 Hamlet 只有外部描写（lifted his own copper brows / golden eyes glowing / carefully watched），无动物内心话。",
+ "scene_split": [
+  {
+   "lines": "1–34",
+   "where": "出版方版式区（非正文）：「Chapter 17」标题与孤立数字「17」",
+   "when": "—",
+   "pov": "—"
+  },
+  {
+   "lines": "35–44",
+   "where": "Cynthia 宅内某房间（宅名原文未交代；Mrs Higgins 送信、footman 备车）",
+   "when": "出发前，当日下午之前（信「just arrived」）",
+   "pov": "Cynthia"
+  },
+  {
+   "lines": "45–46",
+   "where": "（场景间空行分隔）",
+   "when": "—",
+   "pov": "—"
+  },
+  {
+   "lines": "47–116",
+   "where": "Cynthia 的 landau 马车内，驶向 Cheapside 途中",
+   "when": "十五分钟后；天异常热",
+   "pov": "Cynthia"
+  },
+  {
+   "lines": "117–118",
+   "where": "（场景间空行分隔）",
+   "when": "—",
+   "pov": "—"
+  },
+  {
+   "lines": "119–125",
+   "where": "Cheapside 窄街，马车抵达 Lippert 地址附近；Cynthia 下车",
+   "when": "紧接车内对话",
+   "pov": "Cynthia"
+  },
+  {
+   "lines": "126–127",
+   "where": "（场景间空行分隔）",
+   "when": "—",
+   "pov": "—"
+  },
+  {
+   "lines": "128–218",
+   "where": "Lippert 家门外街边：狗袭 Hamlet、Cynthia 与 Helena 先后施法、与 coachman 交谈、约定今晚 Blair House",
+   "when": "下车后连续发生",
+   "pov": "Cynthia"
+  },
+  {
+   "lines": "219–220",
+   "where": "（场景间空行分隔）",
+   "when": "—",
+   "pov": "—"
+  },
+  {
+   "lines": "221–254",
+   "where": "Lippert 家门廊与门口：敲门、大男人开门、Lily 现身、发现其怀孕",
+   "when": "紧接街边交谈之后",
+   "pov": "Cynthia"
+  }
+ ],
+ "events": [
+  {
+   "n": 1,
+   "lines": "35",
+   "who": "Cynthia",
+   "did": "Cynthia 叫来一名男仆，吩咐他备好马车",
+   "verbatim": "Cynthia summoned a footman and asked him to ready the carriage."
+  },
+  {
+   "n": 2,
+   "lines": "35",
+   "who": "Mrs Higgins",
+   "did": "男仆还没回来，Mrs Higgins 敲门",
+   "verbatim": "Before he returned, Mrs Higgins knocked on the door"
+  },
+  {
+   "n": 3,
+   "lines": "35",
+   "who": "Mrs Higgins",
+   "did": "Higgins 手里拿着一张折起的羊皮纸（写着 George Lippert 的地址）和一封信",
+   "verbatim": "carrying a folded piece of parchment holding George Lippert’s address and a letter."
+  },
+  {
+   "n": 4,
+   "lines": "38",
+   "who": "Mrs Higgins",
+   "did": "Higgins 说信刚到，称呼 Cynthia 为 my lady",
+   "verbatim": "‘This just arrived, my lady."
+  },
+  {
+   "n": 5,
+   "lines": "38",
+   "who": "Mrs Higgins",
+   "did": "Higgins 说天气恶劣，出门最好带上外套",
+   "verbatim": "Wild weather we’re having. Best take your coat with you if you’re going out."
+  },
+  {
+   "n": 6,
+   "lines": "38",
+   "who": "Mrs Higgins",
+   "did": "Higgins 说分不清是夏天、冬天还是两者之间",
+   "verbatim": "There’s no telling if it’s summer, winter, or something in between.’"
+  },
+  {
+   "n": 7,
+   "lines": "41",
+   "who": "Cynthia",
+   "did": "Cynthia 把地址收进口袋",
+   "verbatim": "Cynthia pocketed the address"
+  },
+  {
+   "n": 8,
+   "lines": "41",
+   "who": "Cynthia",
+   "did": "Cynthia 拿起信查看火漆封印",
+   "verbatim": "picked up the letter to inspect the seal."
+  },
+  {
+   "n": 9,
+   "lines": "41",
+   "who": "Cynthia",
+   "did": "Cynthia 断言（推测）是好友 Duchess of Devon 来信致哀",
+   "verbatim": "My dear friend, the Duchess of Devon has no doubt written to extend her condolences."
+  },
+  {
+   "n": 10,
+   "lines": "41",
+   "who": "Cynthia",
+   "did": "Cynthia 请 Higgins 把信放到她房间，说她晚点再读",
+   "verbatim": "Can you put this in my room? I shall read it later."
+  },
+  {
+   "n": 11,
+   "lines": "41",
+   "who": "Cynthia",
+   "did": "Cynthia 说她和 Helena 有几件急事要办，下午大半时间不在",
+   "verbatim": "Helena and I have several pressing errands to run. We’ll be gone most of the afternoon."
+  },
+  {
+   "n": 12,
+   "lines": "41",
+   "who": "Cynthia",
+   "did": "Cynthia 保证两人都带外套",
+   "verbatim": "But never fear. We shall both bring our coats.’"
+  },
+  {
+   "n": 13,
+   "lines": "44",
+   "who": "Mrs Higgins",
+   "did": "Higgins 应声取回信，行了屈膝礼，安静离开",
+   "verbatim": "‘Of course.’ Mrs Higgins retrieved the letter, bobbed a curtsey, and left as quietly as she arrived."
+  },
+  {
+   "n": 14,
+   "lines": "47",
+   "who": "Cynthia、Helena",
+   "did": "十五分钟后，Cynthia 坐在 landau 马车里 Helena 身旁",
+   "verbatim": "Fifteen minutes later, Cynthia was sitting next to Helena in her landau"
+  },
+  {
+   "n": 15,
+   "lines": "47",
+   "who": "Cynthia、Helena",
+   "did": "马车沿越来越颠簸的街驶向 Cheapside",
+   "verbatim": "as they bumped along an increasingly rutted street on their way to Cheapside."
+  },
+  {
+   "n": 16,
+   "lines": "47",
+   "who": "（天气）",
+   "did": "天变得异常热，外套变得滑稽地多余",
+   "verbatim": "The day had turned uncommonly hot, making their coats comically unnecessary."
+  },
+  {
+   "n": 17,
+   "lines": "47",
+   "who": "（环境）",
+   "did": "车内空气沉闷",
+   "verbatim": "and the air in the carriage felt heavy."
+  },
+  {
+   "n": 18,
+   "lines": "50",
+   "who": "Cynthia",
+   "did": "Cynthia 本可坐对面或挪到坐垫边缘，但她没有",
+   "verbatim": "She could have sat on the bench opposite Helena. Or shifted further to the edge of the squabs. But she did not."
+  },
+  {
+   "n": 19,
+   "lines": "50",
+   "who": "Cynthia",
+   "did": "Cynthia 把整条腿贴住 Helena 的腿",
+   "verbatim": "She pressed the length of her leg against Helena’s."
+  },
+  {
+   "n": 20,
+   "lines": "50",
+   "who": "Helena",
+   "did": "Helena 的小指蹭到 Cynthia 的黑丝裙",
+   "verbatim": "Helena’s pinkie brushed against her black silk skirt."
+  },
+  {
+   "n": 21,
+   "lines": "50",
+   "who": "Cynthia",
+   "did": "一阵隐秘的战栗流过 Cynthia",
+   "verbatim": "A secret thrill ran through her."
+  },
+  {
+   "n": 22,
+   "lines": "53",
+   "who": "Helena",
+   "did": "Helena 低声说到达后该想个策略",
+   "verbatim": "‘We should devise some kind of strategy when we arrive.’"
+  },
+  {
+   "n": 23,
+   "lines": "53",
+   "who": "Cynthia",
+   "did": "Helena 的低语音抚平了 Cynthia 因接近 George Lippert 家而绷紧的神经",
+   "verbatim": "Helena’s low voice soothed nerves that were beginning to stretch and fray the closer they came to George Lippert’s house."
+  },
+  {
+   "n": 24,
+   "lines": "56",
+   "who": "Cynthia",
+   "did": "Cynthia 轻敲下巴，说好主意",
+   "verbatim": "Cynthia tapped her chin. ‘Yes, excellent idea.’"
+  },
+  {
+   "n": 25,
+   "lines": "56",
+   "who": "Cynthia",
+   "did": "（Cynthia 心想）做计划能减轻她的焦虑",
+   "verbatim": "Creating a plan would help her feel less anxious."
+  },
+  {
+   "n": 26,
+   "lines": "56",
+   "who": "Cynthia",
+   "did": "Cynthia 说想为 Hubert 突兀无理的解雇向 Lily 道歉",
+   "verbatim": "‘I have wanted to apologise to Lily for Hubert’s abrupt and unwarranted dismissal."
+  },
+  {
+   "n": 27,
+   "lines": "56",
+   "who": "Cynthia",
+   "did": "Cynthia 提议把道歉当作登门的理由",
+   "verbatim": "Perhaps that could be our reason for visiting?’"
+  },
+  {
+   "n": 28,
+   "lines": "59",
+   "who": "Helena",
+   "did": "Helena 点头",
+   "verbatim": "Helena nodded."
+  },
+  {
+   "n": 29,
+   "lines": "59",
+   "who": "Helena",
+   "did": "Helena 把小指在丝绸上上下抬动",
+   "verbatim": "She lifted her pinkie up and down over the silk."
+  },
+  {
+   "n": 30,
+   "lines": "59",
+   "who": "Cynthia",
+   "did": "极轻微的摩擦撩拨 Cynthia 的大腿，掀起一阵感觉",
+   "verbatim": "The smallest whisper of friction tickled Cynthia’s thigh, creating a wave of sensation."
+  },
+  {
+   "n": 31,
+   "lines": "59",
+   "who": "Cynthia",
+   "did": "Cynthia 思绪散乱，花了一会儿才收拢",
+   "verbatim": "Her thoughts scattered. It took her a moment to gather them back."
+  },
+  {
+   "n": 32,
+   "lines": "62",
+   "who": "Cynthia",
+   "did": "Cynthia 说无论如何都想给可怜的 Lily 推荐信",
+   "verbatim": "‘I also hope to provide poor Lily with letters of recommendation if she needs them, regardless.’"
+  },
+  {
+   "n": 33,
+   "lines": "62",
+   "who": "Cynthia",
+   "did": "Cynthia 嗓音明显沙哑，心里嘀咕束腰为何这么紧",
+   "verbatim": "Her voice had become decidedly husky. And why was her corset so damnably tight?"
+  },
+  {
+   "n": 34,
+   "lines": "62",
+   "who": "Cynthia",
+   "did": "Cynthia 说不管 Lily 父亲做过什么，她都配得上光明前途的机会",
+   "verbatim": "‘Regardless of what her father might have done, she deserves every chance of a bright future. That is another reason for us to visit.’"
+  },
+  {
+   "n": 35,
+   "lines": "65",
+   "who": "Helena",
+   "did": "Helena 挑起铜色眉毛，手指停住",
+   "verbatim": "Helena raised a copper brow, her finger pausing."
+  },
+  {
+   "n": 36,
+   "lines": "65",
+   "who": "Helena",
+   "did": "Helena 问：明知她父亲杀了你丈夫，你还愿意帮她？",
+   "verbatim": "‘You would still offer to help her, knowing her father murdered your husband?’"
+  },
+  {
+   "n": 37,
+   "lines": "68",
+   "who": "Hamlet",
+   "did": "Hamlet 蜷在对面长椅上",
+   "verbatim": "Hamlet had curled up on the opposite bench."
+  },
+  {
+   "n": 38,
+   "lines": "68",
+   "who": "Hamlet",
+   "did": "听到 Helena 的问题，Hamlet 抬起自己的铜色眉毛，金眼发亮，仔细观察 Cynthia",
+   "verbatim": "At Helena’s question, he lifted his own copper brows, his golden eyes glowing as he carefully watched Cynthia."
+  },
+  {
+   "n": 39,
+   "lines": "71",
+   "who": "Cynthia",
+   "did": "Cynthia 说当然，她父亲的选择不该由她背",
+   "verbatim": "‘Of course. Her father’s choices are hardly her burden to bear.’"
+  },
+  {
+   "n": 40,
+   "lines": "71",
+   "who": "Cynthia",
+   "did": "Cynthia 冒出一个本该更早想到的念头",
+   "verbatim": "A new thought occurred. One Cynthia should have come to much sooner."
+  },
+  {
+   "n": 41,
+   "lines": "71",
+   "who": "Cynthia",
+   "did": "Cynthia 问：若发现他真的杀了 Hubert 怎么办",
+   "verbatim": "‘Dear God. What shall we do if we discover he really is guilty of murdering Hubert?"
+  },
+  {
+   "n": 42,
+   "lines": "71",
+   "who": "Cynthia",
+   "did": "Cynthia 说他发现骗局败露时一定会反应恶劣",
+   "verbatim": "Surely he will react poorly when he realises his ruse has been discovered.’"
+  },
+  {
+   "n": 43,
+   "lines": "74",
+   "who": "Helena",
+   "did": "Helena 摇头，说不能让他知道她们已察觉其罪行",
+   "verbatim": "Helena shook her head. ‘We won’t let him know we are aware of his crimes. We are simply gathering information."
+  },
+  {
+   "n": 44,
+   "lines": "74",
+   "who": "Helena",
+   "did": "Helena 说有了确凿证据就交给 Uncle Lachlan，让 Scotland Yard 去对付他",
+   "verbatim": "Once we have some firm evidence, we can take that to Uncle Lachlan and let Scotland Yard confront him."
+  },
+  {
+   "n": 45,
+   "lines": "74",
+   "who": "Helena",
+   "did": "Helena 给出另一选项：现在就掉头带地址去找 Uncle Lachlan",
+   "verbatim": "Or we can turn the carriage around and go to Uncle Lachlan now with George Lippert’s address.’"
+  },
+  {
+   "n": 46,
+   "lines": "77",
+   "who": "Cynthia",
+   "did": "Cynthia 皱鼻摇头",
+   "verbatim": "Cynthia scrunched her nose and shook her head."
+  },
+  {
+   "n": 47,
+   "lines": "77",
+   "who": "Cynthia",
+   "did": "（Cynthia 心想）她敬重 Superintendent MacDougal，但没有他在场更有机会得知真相",
+   "verbatim": "While she respected Superintendent MacDougal, she knew they had a better chance of learning the truth without his presence."
+  },
+  {
+   "n": 48,
+   "lines": "77",
+   "who": "Cynthia",
+   "did": "（Cynthia 心想）他会凭虚张声势与蛮力硬闯，而她们需要更温和的手段",
+   "verbatim": "He would barge in with bluster and brawn when they needed a gentler hand to uncover whatever secrets George Lippert was keeping."
+  },
+  {
+   "n": 49,
+   "lines": "77",
+   "who": "Cynthia",
+   "did": "（Cynthia 心想）只要 Lippert 不怀疑她们知情，她们就没有危险",
+   "verbatim": "Besides, Helena was right. They were in no danger so long as George Lippert didn’t suspect they knew the truth."
+  },
+  {
+   "n": 50,
+   "lines": "80",
+   "who": "Cynthia",
+   "did": "Cynthia 说对两人的能力有十足信心，他不可能比 Mr Sinclair 更吓人",
+   "verbatim": "‘I have the utmost faith in our abilities. He can’t possibly be any more frightening than Mr Sinclair."
+  },
+  {
+   "n": 51,
+   "lines": "80",
+   "who": "Cynthia",
+   "did": "Cynthia 说自己有女巫保护",
+   "verbatim": "And I have a witch to protect me; what could possibly go wrong?’"
+  },
+  {
+   "n": 52,
+   "lines": "80",
+   "who": "Cynthia",
+   "did": "Cynthia 立刻闭嘴后悔失言，她不想试探命运",
+   "verbatim": "She snapped her mouth shut, regretting her last words. She had no wish to tempt fate."
+  },
+  {
+   "n": 53,
+   "lines": "83",
+   "who": "Helena",
+   "did": "Helena 说「多得是」，灰眼睛亮了一度，仔细打量她",
+   "verbatim": "‘Many things.’ Helena’s grey eyes lightened a shade as she carefully watched her."
+  },
+  {
+   "n": 54,
+   "lines": "86",
+   "who": "Cynthia",
+   "did": "Cynthia 觉得自己能看 Helena 虹膜由灰转银的细微变化看到入迷",
+   "verbatim": "Cynthia could easily become lost in the subtle changes of Helena’s irises from grey to silver, like watching water crystalise one moment at a time."
+  },
+  {
+   "n": 55,
+   "lines": "89",
+   "who": "Cynthia",
+   "did": "Cynthia 说 Helena 的眼睛是她平生所见最美之物",
+   "verbatim": "‘Your eyes are the most beautiful thing I’ve seen in all my days.’"
+  },
+  {
+   "n": 56,
+   "lines": "92",
+   "who": "Cynthia（心声）",
+   "did": "Cynthia 心声：我不该说那句话",
+   "verbatim": "I shouldn’t have said that."
+  },
+  {
+   "n": 57,
+   "lines": "95",
+   "who": "Cynthia（心声）",
+   "did": "（承上心声）但没法不欣赏 Helena 的种种迷人之处",
+   "verbatim": "But it was impossible not to appreciate Helena’s many attractions."
+  },
+  {
+   "n": 58,
+   "lines": "98",
+   "who": "Helena",
+   "did": "Helena 眨眼，嘴角浮起小小笑意",
+   "verbatim": "Helena blinked. A small smile creased the edges of her mouth."
+  },
+  {
+   "n": 59,
+   "lines": "98",
+   "who": "Helena",
+   "did": "Helena 把手整个移到 Cynthia 腿上",
+   "verbatim": "She shifted her hand so it rested fully on Cynthia’s leg."
+  },
+  {
+   "n": 60,
+   "lines": "98",
+   "who": "Helena",
+   "did": "Helena 的手指掐进 Cynthia 膝上方大腿，轻轻捏紧",
+   "verbatim": "Her finger dug into Cynthia’s thigh, just above her knee, as she squeezed gently."
+  },
+  {
+   "n": 61,
+   "lines": "101",
+   "who": "Helena",
+   "did": "Helena 说你的眼睛才更美；说初见时望进那双森林般的眼睛她就知道了",
+   "verbatim": "‘Not nearly as stunning as yours. Do you know, when I first met you and looked into eyes so like the forest, I knew.’"
+  },
+  {
+   "n": 62,
+   "lines": "104",
+   "who": "Cynthia",
+   "did": "Cynthia 问：知道什么？",
+   "verbatim": "‘Knew what?’"
+  },
+  {
+   "n": 63,
+   "lines": "107",
+   "who": "Helena",
+   "did": "Helena 说：知道你会是麻烦",
+   "verbatim": "‘That you would be trouble.’"
+  },
+  {
+   "n": 64,
+   "lines": "110",
+   "who": "Cynthia",
+   "did": "Cynthia 忍不住咯咯笑，Helena 的话带来一阵愉悦",
+   "verbatim": "Cynthia couldn’t stop the giggle. Or the rush of pleasure Helena’s words caused."
+  },
+  {
+   "n": 65,
+   "lines": "113",
+   "who": "Cynthia",
+   "did": "Cynthia 说：你喜欢麻烦",
+   "verbatim": "‘You like trouble.’"
+  },
+  {
+   "n": 66,
+   "lines": "116",
+   "who": "Helena",
+   "did": "Helena 摇头，说自己喜欢麻烦喜欢得对自己没好处",
+   "verbatim": "Helena shook her head. ‘I find I like trouble far too much for my own good.’"
+  },
+  {
+   "n": 67,
+   "lines": "119",
+   "who": "Cynthia、Helena",
+   "did": "Cynthia 还没消化她的话，马车拐进一条窄街",
+   "verbatim": "Before Cynthia could process her words, the carriage turned down a narrow street"
+  },
+  {
+   "n": 68,
+   "lines": "119",
+   "who": "（环境）",
+   "did": "街边房屋像醉汉般互相歪靠；她们接近 Lippert 的地址",
+   "verbatim": "where the houses slumped against each other like drunk men trying to stumble home. They were getting close to Lippert’s address."
+  },
+  {
+   "n": 69,
+   "lines": "122",
+   "who": "（环境）",
+   "did": "一群孩子从门洞涌到街上",
+   "verbatim": "A group of children spilled from one of the doorways into the street."
+  },
+  {
+   "n": 70,
+   "lines": "122",
+   "who": "（环境）",
+   "did": "砖楼吸热又反射到破碎鹅卵石上，暑气被放大",
+   "verbatim": "The heat was amplified by the brick buildings absorbing the sun and reflecting it back onto broken cobblestones."
+  },
+  {
+   "n": 71,
+   "lines": "122",
+   "who": "Cynthia",
+   "did": "缓慢流动的腐臭淤泥加重恶臭，把 Cynthia 从两人间美妙张力中分神",
+   "verbatim": "A slow-moving river of putrid sludge added to the foul scent … It rather distracted Cynthia from the lovely tension building between them."
+  },
+  {
+   "n": 72,
+   "lines": "125",
+   "who": "Cynthia（心声）",
+   "did": "Cynthia 自认并非不知自己的富贵，尽管被金链子锁着",
+   "verbatim": "She wasn’t ignorant of her fortune, even if she was bound by golden chains."
+  },
+  {
+   "n": 73,
+   "lines": "125",
+   "who": "Cynthia",
+   "did": "Cynthia 扶着马车夫的手下车",
+   "verbatim": "But as she took her coachman’s hand and descended"
+  },
+  {
+   "n": 74,
+   "lines": "125",
+   "who": "Cynthia（心声）",
+   "did": "Cynthia 心想 Cheapside 的劳苦人同样被社会规则困住，笼子远不如她的舒适",
+   "verbatim": "They were just as trapped as Cynthia within society’s rules, and their cages were far less comfortable."
+  },
+  {
+   "n": 75,
+   "lines": "128",
+   "who": "Helena",
+   "did": "Helena 下车",
+   "verbatim": "As Helena exited the carriage"
+  },
+  {
+   "n": 76,
+   "lines": "128",
+   "who": "stray dog、Hamlet",
+   "did": "一条杂种狗看见 Hamlet 把铜色鼻子探出车门",
+   "verbatim": "a stray dog caught sight of Hamlet poking his copper nose out of the door."
+  },
+  {
+   "n": 77,
+   "lines": "131",
+   "who": "Cynthia",
+   "did": "Cynthia 先听到低吼和爪子刮鹅卵石声，随即看见脏灰皮毛从她身边窜向狐狸",
+   "verbatim": "Cynthia heard the growl and scratching claws on cobblestones a moment before she saw dirty grey fur streak past her towards the fox."
+  },
+  {
+   "n": 78,
+   "lines": "131",
+   "who": "Hamlet、stray dog",
+   "did": "Hamlet 无处可逃，更大更凶的狗绷紧肌肉要跳进马车",
+   "verbatim": "Hamlet had no escape as the much larger, much fiercer dog bunched his muscles to leap into the carriage."
+  },
+  {
+   "n": 79,
+   "lines": "134",
+   "who": "Cynthia",
+   "did": "Cynthia 尖叫「Stop!」，把手朝狗伸出",
+   "verbatim": "‘Stop!’ Cynthia screamed, throwing her hand out towards the dog."
+  },
+  {
+   "n": 80,
+   "lines": "134",
+   "who": "Cynthia",
+   "did": "一道能量爆响从她掌心飞向狗",
+   "verbatim": "A snap of energy flew from her palm to the dog."
+  },
+  {
+   "n": 81,
+   "lines": "134",
+   "who": "stray dog",
+   "did": "狗猛地后挫，像被无形系绳拽住，肌肉颤抖，龇出尖利白牙",
+   "verbatim": "He jerked back, caught on an invisible tether. His muscles quivered, and his lip snarled, showing sharp white teeth."
+  },
+  {
+   "n": 82,
+   "lines": "134",
+   "who": "Cynthia、stray dog",
+   "did": "狗挣脱不得；那是一根她凭某种奇迹控制的无形缰绳",
+   "verbatim": "He couldn’t break free as he strained against what held him. An invisible leash she controlled by some miracle."
+  },
+  {
+   "n": 83,
+   "lines": "137",
+   "who": "Cynthia（心声）",
+   "did": "Cynthia 心声改口：或者是魔法",
+   "verbatim": "Or magic."
+  },
+  {
+   "n": 84,
+   "lines": "140",
+   "who": "Cynthia（心声）",
+   "did": "Cynthia 心声：但那不可能，除非我在偷 Helena 的力量",
+   "verbatim": "But that is impossible. Unless I’m somehow stealing power from Helena."
+  },
+  {
+   "n": 85,
+   "lines": "143",
+   "who": "Helena",
+   "did": "Helena 的灰眼睛亮成银色",
+   "verbatim": "Helena’s grey eyes lightened to silver"
+  },
+  {
+   "n": 86,
+   "lines": "143",
+   "who": "Helena、stray dog",
+   "did": "奔涌的水在动物脚边聚起，逼它失去立足点，被冲离马车门好几英尺",
+   "verbatim": "as rushing water pooled around the animal’s feet, forcing him to lose his ground and be swept several feet away from the carriage door."
+  },
+  {
+   "n": 87,
+   "lines": "146",
+   "who": "coachman",
+   "did": "扶 Helena 下车的马车夫瞪眼看狗、再看 Helena、再看 Cynthia",
+   "verbatim": "The coachman who had helped Helena from the carriage looked wide-eyed at the dog, then Helena, then Cynthia."
+  },
+  {
+   "n": 88,
+   "lines": "149",
+   "who": "Cynthia",
+   "did": "一种奇异的平静涌遍 Cynthia，卷走疑问，注满信心",
+   "verbatim": "A strange calm flooded Cynthia, sweeping away her questions and filling her with confidence."
+  },
+  {
+   "n": 89,
+   "lines": "149",
+   "who": "Cynthia",
+   "did": "Cynthia 知道该做什么",
+   "verbatim": "She knew what needed to be done."
+  },
+  {
+   "n": 90,
+   "lines": "152",
+   "who": "Cynthia",
+   "did": "Cynthia 下令「Go home.」，声音带着命令的共鸣",
+   "verbatim": "‘Go home.’ Her voice resonated with command."
+  },
+  {
+   "n": 91,
+   "lines": "152",
+   "who": "Cynthia（心声）",
+   "did": "Cynthia 毫不怀疑狗会服从",
+   "verbatim": "There was no question in her mind that the dog would follow her orders."
+  },
+  {
+   "n": 92,
+   "lines": "155",
+   "who": "stray dog",
+   "did": "狗浑身湿透发抖，站在离她们几英尺处",
+   "verbatim": "He stood, soaking wet and trembling, several feet away from them."
+  },
+  {
+   "n": 93,
+   "lines": "155",
+   "who": "stray dog",
+   "did": "狗的低吼变成困惑的呜咽，朝 Cynthia 歪头",
+   "verbatim": "His growls turned into confused whining as he cocked his head at Cynthia."
+  },
+  {
+   "n": 94,
+   "lines": "158",
+   "who": "Cynthia",
+   "did": "Cynthia 说「Now.」，手指指向远离马车的方向",
+   "verbatim": "‘Now.’ She pointed away from the carriage."
+  },
+  {
+   "n": 95,
+   "lines": "161",
+   "who": "stray dog",
+   "did": "狗甩甩身子，朝 Cynthia 叫了一声，转身顺她手指方向跑进黑巷",
+   "verbatim": "Shaking himself, he yipped at Cynthia before turning to follow her finger down a darkened alleyway."
+  },
+  {
+   "n": 96,
+   "lines": "161",
+   "who": "Cynthia",
+   "did": "狗一消失，Cynthia 的信心也随之消失",
+   "verbatim": "As soon as the dog disappeared, so did her confidence."
+  },
+  {
+   "n": 97,
+   "lines": "164",
+   "who": "Cynthia（心声）",
+   "did": "Cynthia 心声惊呼：刚才到底怎么回事？我做了什么？怎么做到的？",
+   "verbatim": "What the bloody hell just happened? What did I just do? And how in blazes did I do it?"
+  },
+  {
+   "n": 98,
+   "lines": "167",
+   "who": "Helena",
+   "did": "Helena 对马车夫说今天天气真怪，仿佛什么都没发生",
+   "verbatim": "‘Such strange weather we’re having today.’ Helena spoke to the coachman as though nothing untoward had taken place."
+  },
+  {
+   "n": 99,
+   "lines": "167",
+   "who": "Helena、coachman",
+   "did": "Helena 刺眼的灿烂笑容让马车夫咧嘴缩脖子",
+   "verbatim": "Her painfully bright smile made the man wince."
+  },
+  {
+   "n": 100,
+   "lines": "167",
+   "who": "coachman",
+   "did": "马车夫僵硬地点头示意",
+   "verbatim": "He dipped his head in a jerky nod."
+  },
+  {
+   "n": 101,
+   "lines": "170",
+   "who": "coachman",
+   "did": "马车夫应声说是，称 Blair 小姐，这几天天气怪得很",
+   "verbatim": "‘Yes, Miss Blair. Awful odd weather the last few days.’"
+  },
+  {
+   "n": 102,
+   "lines": "173",
+   "who": "Helena",
+   "did": "Helena 转向 Cynthia，说拜访 Lily 时让 Hamlet 留在马车里为妙",
+   "verbatim": "Helena turned to Cynthia. ‘I think it might be wise for Hamlet to stay in the carriage while we visit with Lily.’"
+  },
+  {
+   "n": 103,
+   "lines": "173",
+   "who": "Helena",
+   "did": "Helena 的银眼慢慢暗回灰色，眼神里的讯息不可能错过",
+   "verbatim": "Her silver eyes slowly darkened back to grey. The message in her gaze was impossible to miss."
+  },
+  {
+   "n": 104,
+   "lines": "176",
+   "who": "Helena（眼神讯息，Cynthia 接收）",
+   "did": "眼神讯息：表现正常",
+   "verbatim": "Act normal."
+  },
+  {
+   "n": 105,
+   "lines": "179",
+   "who": "Cynthia",
+   "did": "Cynthia 说「Capital plan.」，努力保持声音平稳",
+   "verbatim": "‘Capital plan.’ Cynthia tried to keep her voice steady."
+  },
+  {
+   "n": 106,
+   "lines": "179",
+   "who": "Cynthia（心声）",
+   "did": "Cynthia 心想不能在马车夫和全 Cheapside 面前崩溃",
+   "verbatim": "She could hardly fall apart in front of her coachman and all of Cheapside."
+  },
+  {
+   "n": 107,
+   "lines": "182",
+   "who": "Cynthia（心声）",
+   "did": "心声：晚点再说",
+   "verbatim": "Later."
+  },
+  {
+   "n": 108,
+   "lines": "185",
+   "who": "Cynthia（心声）",
+   "did": "她打算在盘问完潜在杀手之后再质疑自己的理智",
+   "verbatim": "She would question her sanity after she interviewed a potential killer."
+  },
+  {
+   "n": 109,
+   "lines": "188",
+   "who": "Cynthia（心声）",
+   "did": "心声反讽：像个理智的人那样",
+   "verbatim": "Like a sensible person."
+  },
+  {
+   "n": 110,
+   "lines": "191",
+   "who": "Cynthia",
+   "did": "Cynthia 凑近 Helena，压低成耳语",
+   "verbatim": "She stepped closer to Helena and lowered her voice to a whisper."
+  },
+  {
+   "n": 111,
+   "lines": "191",
+   "who": "Cynthia",
+   "did": "Cynthia 说等只有两人时 Helena 得解释刚才发生的事",
+   "verbatim": "‘You’ll have to explain what just happened when we’re alone.’"
+  },
+  {
+   "n": 112,
+   "lines": "194",
+   "who": "Helena",
+   "did": "Helena 凝视之锐利仿佛在探测 Cynthia 灵魂深处",
+   "verbatim": "Helena could have been plumbing the depths of Cynthia’s soul with the intensity of her stare."
+  },
+  {
+   "n": 113,
+   "lines": "194",
+   "who": "Helena",
+   "did": "Helena 说今晚最好去 Blair House，到那里谈",
+   "verbatim": "‘I think it’s best you come to Blair House tonight. We can talk about it there.’"
+  },
+  {
+   "n": 114,
+   "lines": "197",
+   "who": "Cynthia",
+   "did": "紧张几乎扼住 Cynthia 的喉咙；Helena 神情非常严肃",
+   "verbatim": "Nerves threatened to choke her. Helena looked very serious."
+  },
+  {
+   "n": 115,
+   "lines": "197",
+   "who": "Cynthia（心声）",
+   "did": "Cynthia 连串自问：若怀疑属实、她在偷 Helena 的力量？那就是她止住狗的方式？是天气异常的原因？是每次碰 Helena 都感到电力窜过的缘由？",
+   "verbatim": "What if Cynthia’s suspicions were correct and she was stealing Helena’s powers somehow? Is that how she stopped the dog? Or why the weather was behaving so strangely? Or the reason every time she touched Helena, she felt a jolt of power running through her?"
+  },
+  {
+   "n": 116,
+   "lines": "200",
+   "who": "Cynthia（心声）",
+   "did": "心声：Hellfire（见鬼）",
+   "verbatim": "Hellfire."
+  },
+  {
+   "n": 117,
+   "lines": "203",
+   "who": "Cynthia（心声）",
+   "did": "偷女巫的力量只会凶多吉少",
+   "verbatim": "Stealing a witch’s power could only bode ill."
+  },
+  {
+   "n": 118,
+   "lines": "206",
+   "who": "Cynthia（心声）",
+   "did": "Cynthia 想起自己无意间打破社交规矩的滋味",
+   "verbatim": "Cynthia remembered what it felt like to inadvertently break society’s protocols for behaviour."
+  },
+  {
+   "n": 119,
+   "lines": "206",
+   "who": "Cynthia、Governess Smithers",
+   "did": "家庭教师 Smithers 用咬人的桦木条把她教得很到位",
+   "verbatim": "Governess Smithers had taught her well with her biting birch stick."
+  },
+  {
+   "n": 120,
+   "lines": "206",
+   "who": "Cynthia（心声）",
+   "did": "Cynthia 对这个新世界的规矩一无所知，多半已触犯女巫社交规则，须求原谅并立刻学会新规矩",
+   "verbatim": "But Cynthia had no idea what was expected in this new world. She had likely committed a faux pas within the witchy rules of social interactions. She must ask forgiveness. And learn this new set of policies immediately."
+  },
+  {
+   "n": 121,
+   "lines": "209",
+   "who": "Cynthia",
+   "did": "她头晕目眩；魔法感觉有点像疯狂",
+   "verbatim": "Her head spun. Magic felt a little like madness."
+  },
+  {
+   "n": 122,
+   "lines": "212",
+   "who": "Cynthia（心声）",
+   "did": "她打算解释自己无意为之，或许可以对她施咒停止偷取 Helena 的魔法",
+   "verbatim": "She would simply explain that whatever she was doing was unintentional. Perhaps they could bespell her to stop stealing Helena’s magic."
+  },
+  {
+   "n": 123,
+   "lines": "212",
+   "who": "Cynthia（心声）",
+   "did": "她有一部分为此隐痛：那种冲击令人陶醉，她会想念力量的脉动",
+   "verbatim": "A part of her ached at the thought. The rush was intoxicating. She would miss feeling the pulse of power."
+  },
+  {
+   "n": 124,
+   "lines": "212",
+   "who": "Cynthia（心声）",
+   "did": "但她会更想念 Helena，无法想象若继续偷其天赋对方还肯与她为友",
+   "verbatim": "But she would miss Helena more, and she couldn’t imagine the woman remaining friends with Cynthia if she kept robbing her gifts."
+  },
+  {
+   "n": 125,
+   "lines": "215",
+   "who": "Cynthia",
+   "did": "Cynthia 答应今晚过去，把事情理清楚",
+   "verbatim": "‘All right, I’ll come, and we’ll sort things out.’"
+  },
+  {
+   "n": 126,
+   "lines": "218",
+   "who": "Helena",
+   "did": "Helena 说好",
+   "verbatim": "‘Good.’"
+  },
+  {
+   "n": 127,
+   "lines": "221",
+   "who": "Cynthia（心声）",
+   "did": "Cynthia 试图重新聚焦任务：她或许控制不了靠近 Helena 时的状况，但能帮忙找出杀 Hubert 的凶手",
+   "verbatim": "Cynthia tried to refocus on their mission. She might not be able to control what was happening every time she was near Helena, but she could help find Hubert’s killer."
+  },
+  {
+   "n": 128,
+   "lines": "221",
+   "who": "Cynthia",
+   "did": "Cynthia 说「Let’s get this over with, shall we?」",
+   "verbatim": "‘Let’s get this over with, shall we?’"
+  },
+  {
+   "n": 129,
+   "lines": "221",
+   "who": "Cynthia",
+   "did": "Cynthia 大步踩过肮脏鹅卵石，低头钻过塌斜门廊，敲一扇下垂的木板门",
+   "verbatim": "She strode over the filthy cobblestones, ducked under a slouching stoop, and knocked on a sagging planked door."
+  },
+  {
+   "n": 130,
+   "lines": "224",
+   "who": "（门内众人）",
+   "did": "门另一侧传来说话声——一个男声、几个女声——随后门缓缓吱呀打开",
+   "verbatim": "The sounds of voices – one male and several female – came from the opposite side of the door before it slowly creaked open."
+  },
+  {
+   "n": 131,
+   "lines": "227",
+   "who": "a large man",
+   "did": "一个高大男人开门：浓发从头爬上面颊连到下巴",
+   "verbatim": "A large man with impressive hair that crept from his head down his cheeks and onto his chin"
+  },
+  {
+   "n": 132,
+   "lines": "227",
+   "who": "a large man",
+   "did": "男人用手摩过肚皮，街上光线照得他蓝眼睛泪汪汪",
+   "verbatim": "rubbed his hand over his belly as the light from the street turned his blue eyes watery."
+  },
+  {
+   "n": 133,
+   "lines": "227",
+   "who": "a large man",
+   "did": "男人问「Who are ye?」",
+   "verbatim": "‘Who are ye?’"
+  },
+  {
+   "n": 134,
+   "lines": "230",
+   "who": "Cynthia",
+   "did": "Cynthia 听见男人身后传来倒抽气声",
+   "verbatim": "Behind him, Cynthia heard a gasp."
+  },
+  {
+   "n": 135,
+   "lines": "233",
+   "who": "Lily",
+   "did": "Lily 惊呼「Lady Burrows? Wha’ are ye doin’ here?」",
+   "verbatim": "‘Lady Burrows? Wha’ are ye doin’ here?’"
+  },
+  {
+   "n": 136,
+   "lines": "233",
+   "who": "Lily",
+   "did": "Lily 把一绺金发从额头掠开，从门内黑暗房间走出来",
+   "verbatim": "Lily brushed a wisp of blonde hair from her forehead as she came from the darkened room beyond the door."
+  },
+  {
+   "n": 137,
+   "lines": "236",
+   "who": "Cynthia",
+   "did": "Cynthia 低声说「Oh my」",
+   "verbatim": "‘Oh my,’ Cynthia whispered."
+  },
+  {
+   "n": 138,
+   "lines": "239",
+   "who": "Helena",
+   "did": "Helena 骂了一声「Damnation」",
+   "verbatim": "‘Damnation,’ Helena cursed."
+  },
+  {
+   "n": 139,
+   "lines": "242",
+   "who": "Lily",
+   "did": "Lily 仓促改过的裙子遮不住明显得刺眼的隆起",
+   "verbatim": "Lily’s hastily altered dress couldn’t hide a painfully obvious swelling."
+  },
+  {
+   "n": 140,
+   "lines": "245",
+   "who": "Cynthia（心声）",
+   "did": "心声推断：这就是 Hubert 解雇她的原因——因为她怀孕了",
+   "verbatim": "That is why Hubert fired her. Because she is with child."
+  },
+  {
+   "n": 141,
+   "lines": "248",
+   "who": "Cynthia（心声）",
+   "did": "疑念像毒蛇般爬上 Cynthia 心头：她确切知道孩子的父亲是谁",
+   "verbatim": "Suspicion slithered in Cynthia’s mind like a poisonous snake. Because she knew exactly who sired the babe."
+  },
+  {
+   "n": 142,
+   "lines": "251",
+   "who": "Cynthia（心声）",
+   "did": "心声：Hubert, you bastard（你这混蛋）",
+   "verbatim": "Hubert, you bastard."
+  },
+  {
+   "n": 143,
+   "lines": "254",
+   "who": "Cynthia",
+   "did": "恶心涌遍她全身",
+   "verbatim": "Nausea washed through her."
+  }
+ ],
+ "relationships_noted": [
+  {
+   "pair": "Cynthia ↔ Helena",
+   "rel": "两人同车密谋查案，身体亲密、互相调情；Helena 自称初见就看出 Cynthia 会是「麻烦」",
+   "verbatim": "‘That you would be trouble.’",
+   "lines": "107"
+  },
+  {
+   "pair": "Cynthia ↔ Helena",
+   "rel": "Helena 触碰 Cynthia 的腿与大腿，Cynthia 感到战栗与愉悦",
+   "verbatim": "She shifted her hand so it rested fully on Cynthia’s leg.",
+   "lines": "98"
+  },
+  {
+   "pair": "Cynthia ↔ Helena",
+   "rel": "Cynthia 自称有女巫（Helena）保护",
+   "verbatim": "And I have a witch to protect me; what could possibly go wrong?’",
+   "lines": "80"
+  },
+  {
+   "pair": "Cynthia ↔ Helena",
+   "rel": "Helena 约 Cynthia 今晚去 Blair House 谈狗/魔法一事",
+   "verbatim": "‘I think it’s best you come to Blair House tonight. We can talk about it there.’",
+   "lines": "194"
+  },
+  {
+   "pair": "Cynthia ↔ Helena",
+   "rel": "Cynthia 心想若继续偷 Helena 的天赋，无法想象对方还肯与她为友",
+   "verbatim": "she couldn’t imagine the woman remaining friends with Cynthia if she kept robbing her gifts.",
+   "lines": "212"
+  },
+  {
+   "pair": "Cynthia ↔ Hubert",
+   "rel": "Hubert 是 Cynthia 的丈夫，据 Helena 之问已被 Lily 的父亲杀害",
+   "verbatim": "‘You would still offer to help her, knowing her father murdered your husband?’",
+   "lines": "65"
+  },
+  {
+   "pair": "Cynthia ↔ Hubert",
+   "rel": "Cynthia 此行目标之一是找出杀 Hubert 的凶手",
+   "verbatim": "but she could help find Hubert’s killer.",
+   "lines": "221"
+  },
+  {
+   "pair": "George Lippert ↔ Hubert",
+   "rel": "Lippert 被怀疑设局（ruse）杀害 Hubert；Cynthia 担心他发现败露会反应恶劣",
+   "verbatim": "Surely he will react poorly when he realises his ruse has been discovered.’",
+   "lines": "71"
+  },
+  {
+   "pair": "George Lippert ↔ Helena、Cynthia",
+   "rel": "Helena 的策略：不让他察觉她们知情，先收集证据",
+   "verbatim": "‘We won’t let him know we are aware of his crimes. We are simply gathering information.",
+   "lines": "74"
+  },
+  {
+   "pair": "Lily ↔ Hubert",
+   "rel": "Lily 被 Hubert 突兀且无理地解雇；Cynthia 想为此道歉",
+   "verbatim": "‘I have wanted to apologise to Lily for Hubert’s abrupt and unwarranted dismissal.",
+   "lines": "56"
+  },
+  {
+   "pair": "Lily ↔ Hubert",
+   "rel": "Lily 怀孕；Cynthia 疑心使她怀孕的正是 Hubert（心声，未证实）",
+   "verbatim": "Because she knew exactly who sired the babe.",
+   "lines": "248"
+  },
+  {
+   "pair": "Cynthia ↔ Lily",
+   "rel": "Cynthia 想给 Lily 推荐信，助她前程",
+   "verbatim": "‘I also hope to provide poor Lily with letters of recommendation if she needs them, regardless.’",
+   "lines": "62"
+  },
+  {
+   "pair": "Lily ↔ George Lippert",
+   "rel": "George Lippert 是 Lily 的父亲",
+   "verbatim": "Regardless of what her father might have done, she deserves every chance of a bright future.",
+   "lines": "62"
+  },
+  {
+   "pair": "Helena ↔ Uncle Lachlan",
+   "rel": "Lachlan 是 Helena 的叔叔，Helena 提议把证据交给他",
+   "verbatim": "we can take that to Uncle Lachlan and let Scotland Yard confront him.",
+   "lines": "74"
+  },
+  {
+   "pair": "Cynthia ↔ Superintendent MacDougal",
+   "rel": "Cynthia 敬重 MacDougal，但认为没有他在场更容易挖出真相",
+   "verbatim": "While she respected Superintendent MacDougal, she knew they had a better chance of learning the truth without his presence.",
+   "lines": "77"
+  },
+  {
+   "pair": "Cynthia ↔ Mr Sinclair",
+   "rel": "Cynthia 拿 Lippert 与 Mr Sinclair 比胆量（本章未交代 Sinclair 其人）",
+   "verbatim": "He can’t possibly be any more frightening than Mr Sinclair.",
+   "lines": "80"
+  },
+  {
+   "pair": "Cynthia ↔ Mrs Higgins",
+   "rel": "Higgins 称 Cynthia 为 my lady，为她收信、行礼，是仆役身份",
+   "verbatim": "‘This just arrived, my lady.",
+   "lines": "38"
+  },
+  {
+   "pair": "Cynthia ↔ Duchess of Devon",
+   "rel": "Cynthia 称 Duchess of Devon 为亲爱的朋友（据封印猜测来信者）",
+   "verbatim": "My dear friend, the Duchess of Devon has no doubt written to extend her condolences.",
+   "lines": "41"
+  },
+  {
+   "pair": "Cynthia ↔ Governess Smithers",
+   "rel": "Smithers 是昔日用桦木条管教 Cynthia 的家庭教师",
+   "verbatim": "Governess Smithers had taught her well with her biting birch stick.",
+   "lines": "206"
+  },
+  {
+   "pair": "coachman ↔ Helena、Cynthia",
+   "rel": "马车夫称 Helena 为 Miss Blair；Cynthia 也称「her coachman」",
+   "verbatim": "‘Yes, Miss Blair. Awful odd weather the last few days.’",
+   "lines": "170"
+  },
+  {
+   "pair": "Hamlet ↔ stray dog",
+   "rel": "杂种狗袭击狐狸 Hamlet，被 Cynthia 的无形缰绳与 Helena 的水流制服驱离",
+   "verbatim": "Hamlet had no escape as the much larger, much fiercer dog bunched his muscles to leap into the carriage.",
+   "lines": "131"
+  },
+  {
+   "pair": "Hamlet ↔ Helena",
+   "rel": "Helena 安排 Hamlet 留在马车里",
+   "verbatim": "‘I think it might be wise for Hamlet to stay in the carriage while we visit with Lily.’",
+   "lines": "173"
+  },
+  {
+   "pair": "Cynthia ↔ Lady Burrows 身份",
+   "rel": "Lily 称 Cynthia 为 Lady Burrows（Cynthia 的称谓/夫姓）",
+   "verbatim": "‘Lady Burrows? Wha’ are ye doin’ here?’",
+   "lines": "233"
+  },
+  {
+   "pair": "a large man ↔ Lily",
+   "rel": "开门的大男人身后传来 Lily 的抽气声并现身（两人关系原文未明说）",
+   "verbatim": "Behind him, Cynthia heard a gasp.",
+   "lines": "230"
+  }
+ ],
+ "numbers_verbatim": [
+  {
+   "n": "十七（章号）",
+   "verbatim": "Chapter 17",
+   "lines": "1"
+  },
+  {
+   "n": "17（章号重复）",
+   "verbatim": "17",
+   "lines": "22"
+  },
+  {
+   "n": "十五分钟后",
+   "verbatim": "Fifteen minutes later",
+   "lines": "47"
+  },
+  {
+   "n": "下午大半时间",
+   "verbatim": "We’ll be gone most of the afternoon.",
+   "lines": "41"
+  },
+  {
+   "n": "好几英尺（狗被水冲离车门）",
+   "verbatim": "be swept several feet away from the carriage door",
+   "lines": "143"
+  },
+  {
+   "n": "好几英尺（狗站的位置离她们）",
+   "verbatim": "He stood, soaking wet and trembling, several feet away from them.",
+   "lines": "155"
+  },
+  {
+   "n": "这几天（天气怪）",
+   "verbatim": "Awful odd weather the last few days.",
+   "lines": "170"
+  },
+  {
+   "n": "今晚（约定去 Blair House）",
+   "verbatim": "come to Blair House tonight",
+   "lines": "194"
+  },
+  {
+   "n": "晚些（心声 Later）",
+   "verbatim": "Later.",
+   "lines": "182"
+  },
+  {
+   "n": "一个男声、几个女声",
+   "verbatim": "one male and several female",
+   "lines": "224"
+  },
+  {
+   "n": "初见（你时）",
+   "verbatim": "when I first met you",
+   "lines": "101"
+  },
+  {
+   "n": "一会儿（收拢思绪）",
+   "verbatim": "It took her a moment to gather them back.",
+   "lines": "59"
+  },
+  {
+   "n": "片刻（听到低吼之后、看见之前）",
+   "verbatim": "a moment before she saw dirty grey fur streak past her towards the fox.",
+   "lines": "131"
+  }
+ ],
+ "unresolved_in_source": [
+  {
+   "id": "U1",
+   "q": "信是否真是 Duchess of Devon 所写、内容是什么——Cynthia 只看封印就下了判断，信被拿走未拆读",
+   "evidence": "`41` “My dear friend, the Duchess of Devon has no doubt written to extend her condolences. Can you put this in my room? I shall read it later.”——「has no doubt written」是 Cynthia 的推断且「later」表明本章内无人读过信",
+   "lines": "41"
+  },
+  {
+   "id": "U2",
+   "q": "Uncle Lachlan 与 Superintendent MacDougal 是否同一人——74 行只说交给 Uncle Lachlan 让 Scotland Yard 行动，77 行突然出现 MacDougal，原文未点明两者关系",
+   "evidence": "`74, 77` “we can take that to Uncle Lachlan” … “While she respected Superintendent MacDougal”——两个称谓先后出现却无一句衔接",
+   "lines": "74, 77"
+  },
+  {
+   "id": "U3",
+   "q": "开门的大男人是谁——原文只写外貌与口音，未给姓名；是否就是 George Lippert 无从确认",
+   "evidence": "`227` “A large man with impressive hair that crept from his head down his cheeks and onto his chin”——只有外貌描写，无身份交代",
+   "lines": "227"
+  },
+  {
+   "id": "U4",
+   "q": "Cynthia 止住狗的力量从何而来、是否真在偷 Helena 的力量——本章只有她的猜测，Helena 把解释推到今晚",
+   "evidence": "`140, 194` “Unless I’m somehow stealing power from Helena.” … “We can talk about it there.”——猜测未获解答",
+   "lines": "140, 194"
+  },
+  {
+   "id": "U5",
+   "q": "连日怪天气与 Cynthia/Helena 是否有关——Higgins、coachman、Helena 都拿天气打掩护，Cynthia 的联想只是疑问",
+   "evidence": "`197` “Or why the weather was behaving so strangely?”——以疑问形式出现，原文未证实因果",
+   "lines": "197"
+  },
+  {
+   "id": "U6",
+   "q": "Lily 腹中孩子的父亲是否真是 Hubert——只是 Cynthia 的疑心与暗骂，原文未证实",
+   "evidence": "`248, 251` “Because she knew exactly who sired the babe.” … “Hubert, you bastard.”——「knew」是 Cynthia 的主观确信，无人证物证",
+   "lines": "248, 251"
+  },
+  {
+   "id": "U7",
+   "q": "Hamlet 是什么来历——原文只出现「the fox」与铜色眉毛金眼睛，他与 Helena 的关系（是否魔宠）未交代",
+   "evidence": "`131` “she saw dirty grey fur streak past her towards the fox.”——仅确认是狐狸，其余留白",
+   "lines": "131"
+  },
+  {
+   "id": "U8",
+   "q": "被叫去备车的 footman 后来去哪了——35 行说他还没回来 Higgins 就到了，此后马车夫出现，footman 再无下落",
+   "evidence": "`35` “Cynthia summoned a footman and asked him to ready the carriage. Before he returned”——之后原文再未提 footman",
+   "lines": "35"
+  },
+  {
+   "id": "U9",
+   "q": "带 George Lippert 地址的羊皮纸从哪来、Higgins 说的「This just arrived」是否也包括它——原文未说明地址的送达者与来源",
+   "evidence": "`35, 38` “carrying a folded piece of parchment holding George Lippert’s address and a letter.” … “‘This just arrived, my lady.”——「This」单数指代不明",
+   "lines": "35, 38"
+  },
+  {
+   "id": "U10",
+   "q": "第一场景发生在哪座宅邸——Cynthia 被称 my lady、有仆役，但宅子名称本章未出现（对照后文 Blair House 是 Helena 家）",
+   "evidence": "`38` “‘This just arrived, my lady.”——只有称谓，无地点名",
+   "lines": "35–44"
+  },
+  {
+   "id": "U11",
+   "q": "Mr Sinclair 是何许人、为何「frightening」——本章只有一句比较，无背景交代",
+   "evidence": "`80` “He can’t possibly be any more frightening than Mr Sinclair.”——孤立提及",
+   "lines": "80"
+  },
+  {
+   "id": "U12",
+   "q": "Cynthia 摸到的信封印图案是什么——原文只写 inspect the seal，未描写封印，她的判断依据成谜",
+   "evidence": "`41` “picked up the letter to inspect the seal. ‘Very true, Mrs Higgins. Ah.”——只写动作，未写所见",
+   "lines": "41"
+  }
+ ],
+ "traps_noted": [
+  {
+   "id": "T1",
+   "trap": "35 行「Before he returned」——是 footman 还没回来 Higgins 就敲门了；易误读成马车已备好、Higgins 之后才到。误判后果：把备车与送信的先后时序写反。",
+   "lines": "35"
+  },
+  {
+   "id": "T2",
+   "trap": "38 行「This just arrived」的 This 语法上指那封 letter；同拿的羊皮纸（Lippert 地址）是否也「刚到」原文未说——而 74 行 Helena 口中她们已握有地址。误判后果：错写地址来源（以为是旧有情报或以为与信同源）。",
+   "lines": "35–38, 74"
+  },
+  {
+   "id": "T3",
+   "trap": "41 行「has no doubt written」是 Cynthia 看封印后的自信猜测，信未拆。误判后果：把「Duchess of Devon 来信致哀」当成已证实的剧情事实写进精读。",
+   "lines": "41"
+  },
+  {
+   "id": "T4",
+   "trap": "47 行「in her landau」的 her 语法上最近的主语是 Cynthia——马车是谁的原文其实有歧义；125/179 行 coachman 又称「her coachman」（Cynthia）。误判后果：把马车与雇员的归属安错人。",
+   "lines": "47, 125, 179"
+  },
+  {
+   "id": "T5",
+   "trap": "50 行「Helena’s pinkie brushed against her black silk skirt」——her 是 Cynthia：黑丝裙穿在 Cynthia 身上；动小指的是 Helena。误判后果：裙子与动作双双安错人。",
+   "lines": "50"
+  },
+  {
+   "id": "T6",
+   "trap": "59 行「She lifted her pinkie」主语是 Helena，被 tickle 的大腿是 Cynthia 的。误判后果：把主动撩拨与被撩拨颠倒。",
+   "lines": "59"
+  },
+  {
+   "id": "T7",
+   "trap": "65 行是 Helena 以反问说出「her father murdered your husband」：凶手=Lily 之父 George Lippert，死者=Cynthia 之夫 Hubert。误判后果：凶手与被害人方向调转；且此句是「known/指控」而非审判定论，71 行 Cynthia 还在问「if we discover he really is guilty」。误判后果二：把嫌疑写成实锤。",
+   "lines": "65, 71"
+  },
+  {
+   "id": "T8",
+   "trap": "68 行「he lifted his own copper brows」的 he 是狐狸 Hamlet（金眼），不是任何人类男性；与 65 行 Helena 的「copper brow」是呼应的同色描写。误判后果：凭空多出一个在场男人。",
+   "lines": "65, 68"
+  },
+  {
+   "id": "T9",
+   "trap": "74 行「let Scotland Yard confront him」的 him 是 George Lippert，不是 Uncle Lachlan。误判后果：把「交给警方对付的人」写成 Lachlan。",
+   "lines": "74"
+  },
+  {
+   "id": "T10",
+   "trap": "77 行首次出现 Superintendent MacDougal，前文只有 Uncle Lachlan；原文没有任何一句说两人是同一人。误判后果：擅自合并两个人物。",
+   "lines": "74, 77"
+  },
+  {
+   "id": "T11",
+   "trap": "80 行「And I have a witch to protect me」是 Cynthia 说的（女巫=Helena），紧接着「She snapped her mouth shut」后悔的也是 Cynthia。误判后果：把这句奉承安到 Helena 头上，人物关系全变。",
+   "lines": "80"
+  },
+  {
+   "id": "T12",
+   "trap": "92 行「I shouldn’t have said that.」是无引号第一人称心声，属 Cynthia（紧跟她 89 行的赞美）；95 行「But it was impossible...」仍是她的心声延续。误判后果：把心声错归 Helena 或当成叙述者评论。",
+   "lines": "89–95"
+  },
+  {
+   "id": "T13",
+   "trap": "101 行「Not nearly as stunning as yours」是 Helena 回敬：意为 Cynthia 的眼睛更美；「eyes so like the forest」形容的是 Cynthia 的眼睛（Helena 的眼是 grey/silver）。误判后果：互赞方向调转、眼睛颜色张冠李戴。",
+   "lines": "89, 101"
+  },
+  {
+   "id": "T14",
+   "trap": "119 行「Before Cynthia could process her words」——her words 是 Helena 在 116 行说的话；马车拐弯打断了回应。误判后果：把没来得及回话的人写成 Helena。",
+   "lines": "116, 119"
+  },
+  {
+   "id": "T15",
+   "trap": "125 行下车的是 Cynthia（扶 coachman 的手），128 行才写 Helena 下车，而 146 行又说 coachman「扶过 Helena 下车」——谁先下、车夫先扶谁，原文顺序与追述并不完全咬合。误判后果：把下车顺序或车夫服侍对象写死写错。",
+   "lines": "125, 128, 146"
+  },
+  {
+   "id": "T16",
+   "trap": "131 行「streak past her towards the fox」——her 是 Cynthia，被扑的目标是狐狸 Hamlet；134 行「He jerked back」的 He 是狗。误判后果：狗与狐狸的攻击/被制方向混淆。",
+   "lines": "131, 134"
+  },
+  {
+   "id": "T17",
+   "trap": "134–140 行：能量发自 Cynthia 的掌心（her palm），控制无形缰绳的是她（she controlled）；137「Or magic.」与 140「Unless I’m somehow stealing power from Helena.」都是 Cynthia 的心声推测。误判后果：把「Cynthia 偷用 Helena 力量」这一未证实猜测写成叙事定论。",
+   "lines": "134–140"
+  },
+  {
+   "id": "T18",
+   "trap": "143 行施水的是 Helena（grey eyes lightened to silver），被冲走的是「the animal」=狗，不是狐狸。误判后果：把 Helena 的水魔法写到 Hamlet 头上或写成冲走 Hamlet。",
+   "lines": "143"
+  },
+  {
+   "id": "T19",
+   "trap": "146 行马车夫的视线顺序是狗→Helena→Cynthia。误判后果：视线顺序写反，惊吓指向错人。",
+   "lines": "146"
+  },
+  {
+   "id": "T20",
+   "trap": "167 行「made the man wince」「He dipped his head」的 man/He 都是 coachman；「as though nothing untoward had taken place」形容的是 Helena 说话的姿态。误判后果：把 wince 安到 Cynthia 头上。",
+   "lines": "167"
+  },
+  {
+   "id": "T21",
+   "trap": "176 行「Act normal.」既不是 Helena 的出声台词，也不是 Cynthia 自己的心声，而是 173 行「The message in her gaze」的内容——Helena 用眼神传达、Cynthia 读出的讯息。误判后果：心声/台词归属错人。",
+   "lines": "173, 176"
+  },
+  {
+   "id": "T22",
+   "trap": "182「Later.」185–188「She would question her sanity after she interviewed a potential killer. / Like a sensible person.」都是 Cynthia 的自嘲式心声；「Like a sensible person」是反讽（先审凶手再怀疑自己理智并不算 sensible）。误判后果：把反讽当叙述者正面评价。",
+   "lines": "182–188"
+  },
+  {
+   "id": "T23",
+   "trap": "194 行「Helena could have been plumbing the depths of Cynthia’s soul」是虚拟语气比喻，Helena 并未真做此事；同句 Helena 的邀约是「你今晚来 Blair House」。误判后果：把比喻当实际动作、把邀约方向写反（不是 Helena 来 Cynthia 处）。",
+   "lines": "194"
+  },
+  {
+   "id": "T24",
+   "trap": "206 行「biting birch stick」属于从前的 Governess Smithers，是回忆里的管教；「witchy rules」才是眼下 Cynthia 担心触犯的新规矩。误判后果：把旧日家庭教师与当下女巫圈子混为一谈。",
+   "lines": "206"
+  },
+  {
+   "id": "T25",
+   "trap": "212 行「bespell」是原文造词（对某人施咒），不是拼写错误；「they」指 Helena 一方的女巫们。误判后果：改成 spell 或译错施动方。",
+   "lines": "212"
+  },
+  {
+   "id": "T26",
+   "trap": "224 行门后是「one male and several female」多个声音，且门「slowly creaked open」；开门的只有 227 行那一个大男人。误判后果：把门后人数写成一人。",
+   "lines": "224, 227"
+  },
+  {
+   "id": "T27",
+   "trap": "227 行「rubbed his hand over his belly」是大男人自己的动作；「Who are ye?」带苏格兰/方言口音（ye、Wha’、doin’），此口音在 Lily（233 行）身上也出现。误判后果：把动作安给身后的人、或据口音乱认身份。",
+   "lines": "227, 233"
+  },
+  {
+   "id": "T28",
+   "trap": "230 行「Behind him, Cynthia heard a gasp」——抽气声在男人身后由 Cynthia 听见，233 行才揭示是 Lily；gasp 的发出者到下一段才落地。误判后果：把 gasp 安到开门男人或 Helena 头上。",
+   "lines": "230, 233"
+  },
+  {
+   "id": "T29",
+   "trap": "242 行「swelling」指怀孕的腹部隆起（由 245 行 with child 坐实），不是衣物破损；245 行「That is why Hubert fired her」是 Cynthia 的无引号心声推断，解雇原因此前只是「abrupt and unwarranted」。误判后果：把 Cynthia 的推断写成原文给出的事实。",
+   "lines": "242, 245, 56"
+  },
+  {
+   "id": "T30",
+   "trap": "1–34 行是出版方版式（「Chapter 17」标题行、孤立数字「17」与大片空行），不是正文；正文从 35 行开始。误判后果：把版式行当正文引用、或行号统计起点错位。",
+   "lines": "1–34"
+  }
+ ]
+}
