@@ -1,0 +1,55 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch14",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch14_chapter_13.txt",
+ "facts": [
+  {
+   "fact": "Aiden 在利兹火车站下车时低着头、戴着深蓝针织帽，只想避免被认出。",
+   "anchor": "He kept his head down, covered by a navy blue beanie hat, just in case.",
+   "start": 259,
+   "end": 330
+  },
+  {
+   "fact": "他在心里过了一遍可能的解释，找不到一个能让前妻相信的说法。",
+   "anchor": "Running through a mental list of possible explanations, he came upon none that would strike his ex-wife as plausible.",
+   "start": 864,
+   "end": 981
+  },
+  {
+   "fact": "多年来没有人提起 Emily，一句都没有。",
+   "anchor": "All those years of hearing nothing about Emily, not a single mention by anyone",
+   "start": 1132,
+   "end": 1210
+  },
+  {
+   "fact": "他反复强调 Emily 当时十九岁、是完全同意的成年人，而且是她先开始的。",
+   "anchor": "Emily had been nineteen years old, a fully consenting adult. And most importantly, she had started it.",
+   "start": 1946,
+   "end": 2048
+  },
+  {
+   "fact": "她摊在床上、一动不动、毫无生气的画面一有浮现的迹象，他就把它压下去。",
+   "anchor": "Whenever the memory of her sprawled on her bed, immobile and lifeless, threatened to surface in his mind",
+   "start": 2268,
+   "end": 2372
+  },
+  {
+   "fact": "他在加的夫只住着 Roath 一栋小排屋底层的单身公寓，生活孤独。",
+   "anchor": "A lonely bachelor flat on the ground floor of a small, terraced house in Roath.",
+   "start": 2624,
+   "end": 2703
+  },
+  {
+   "fact": "一个空落的周末，他找到了几个女学生的社交媒体账号。",
+   "anchor": "During one empty weekend, he had found a few of his female students’ social media accounts.",
+   "start": 3254,
+   "end": 3345
+  },
+  {
+   "fact": "他在 Otley Road 下出租车时心跳加快。",
+   "anchor": "Climbing out of the taxi on to Otley Road, he felt his heartbeat quicken.",
+   "start": 7081,
+   "end": 7154
+  }
+ ]
+}

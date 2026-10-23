@@ -1,0 +1,67 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch13",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch13_chapter_12.txt",
+ "facts": [
+  {
+   "fact": "Olivia 在 Google 搜索 Emily Pierce 与室友。",
+   "anchor": "She typed a search into Google. Emily Pierce Leeds student murdered flatmate",
+   "start": 345,
+   "end": 423
+  },
+  {
+   "fact": "搜索结果里有一篇室友悼念 Emily 的报道。",
+   "anchor": "FLATMATE OF MURDERED LEEDS STUDENT PAYS TRIBUTE TO ‘WARM-HEARTED’ FRIEND.",
+   "start": 549,
+   "end": 622
+  },
+  {
+   "fact": "室友 Alice Wheatley 在报道中称自己震惊、心碎。",
+   "anchor": "Alice Wheatley said she was ‘shocked and heartbroken’ by the 19-year-old’s death.",
+   "start": 840,
+   "end": 921
+  },
+  {
+   "fact": "报道称三个室友在市中心夜店过千禧夜，袭击者闯入时 Emily 独自在家。",
+   "anchor": "Her three flatmates were celebrating the millennium at a city centre nightclub when an attacker broke into their building and found Pierce at home alone.",
+   "start": 1256,
+   "end": 1409
+  },
+  {
+   "fact": "Olivia 认定 Alice 一定知道 Aiden Berkeley 的事。",
+   "anchor": "Alice Wheatley must know the truth about Aiden Berkeley.",
+   "start": 2079,
+   "end": 2135
+  },
+  {
+   "fact": "Olivia 在 Facebook 上找到一个在利兹读过书、现居伦敦的 Alice Wheatley。",
+   "anchor": "This Alice Wheatley had studied in Leeds and now lived in London.",
+   "start": 3596,
+   "end": 3661
+  },
+  {
+   "fact": "Alice 转发的一篇 2010 年报道称，一名嫌疑人被逮捕后无条件释放。",
+   "anchor": "A man arrested last week in connection with the 1999 murder of Leeds student Emily Pierce has been released without charge.",
+   "start": 5870,
+   "end": 5993
+  },
+  {
+   "fact": "报道点名嫌疑人是无固定住所的 Jason McIntyre，曾因另一起入室盗窃服刑九个月。",
+   "anchor": "Jason McIntyre, of no fixed abode, was questioned over the unsolved killing of the 19-year-old",
+   "start": 5996,
+   "end": 6090
+  },
+  {
+   "fact": "这篇 2010 年的报道由记者 Kate Marsden 撰写。",
+   "anchor": "The article was dated 2010 and written by a journalist called Kate Marsden.",
+   "start": 5730,
+   "end": 5805
+  },
+  {
+   "fact": "Olivia 从 Benson Stansfield 律所网站找到 Alice 的邮箱并立刻写信。",
+   "anchor": "The firm’s website provided Alice’s email address and Olivia didn’t hesitate this time.",
+   "start": 6867,
+   "end": 6954
+  }
+ ]
+}
