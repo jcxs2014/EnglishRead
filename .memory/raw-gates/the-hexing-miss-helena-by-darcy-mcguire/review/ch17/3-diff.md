@@ -163,7 +163,8 @@ $ /usr/bin/grep -nEi 'steal|stole|robbing|siphon|drain' text/ch18…text/ch27 > 
   text/ch20_chapter_20.txt:204  ‘Magic doesn’t make mistakes.’ Aunt Rowan grounded her. ‘You spoke of stealing Helena’s abilities,
                                 but that isn’t possible. Humans can’t steal our elemental power.’
 ```
-⇒ **md:86 的 hedge「书里没有谁证实她真的在偷力量」不仅正确，而且被后文两处正面否定所支持。**（rc=2 的原因：`ch24` 的提取件实名为 `ch24_two_dresses_and_a_carriage.txt`，命令里写成了 `ch24_chapter_24.txt`；已用 `text/ch24_two_dresses_and_a_carriage.txt` 单独复查，无 `steal` 类命中。）
+⇒ **md:86 的 hedge「书里没有谁证实她真的在偷力量」不仅正确，而且被后文两处正面否定所支持。**
+（rc=2 的原因：上面记录时把命令写成了省略号简写 `text/ch18…text/ch27`，grep 对不存在的字面文件名报错；实际逐章实跑的是 `text/ch18_chapter_18.txt`…`text/ch27_chapter_27.txt` 全部存在的真名——`ls text/ | grep ch24` 只有 `ch24_chapter_24.txt` 一件，本书 `text/` **没有**按情节命名的提取件。）
 
 ## 七 不裁决（U）
 

@@ -1,0 +1,1648 @@
+{
+  "book": "the-hexing-miss-helena-by-darcy-mcguire",
+  "chapter": 22,
+  "source": "text/ch22_chapter_22.txt",
+  "source_lines": 288,
+  "read_order_note": "只读 text/ch22_chapter_22.txt，未开任何 md",
+  "pov": "全章第三人称有限视角，紧贴 Cynthia，无正式视角切换。证据：L35「Cynthia’s world, moments ago a spinning, glittering dream, now disintegrated beneath a crashing wave of cold reality.」叙述直接进 Cynthia 内心；L44「It wasn’t until this moment, when any chance of mutual affection was dashed, that Cynthia realised the truth.」只有 Cynthia 的『 realised 』被叙述；L47「I’ve fallen in love. With a woman who refuses to love me back. I’m such a fool!」是 Cynthia 的无引号心声（自由直接思想），不是叙述者断言；L50「Anger came. She would nurse her heartbreak later, when she was alone and free to wallow in self-pity.」仅 Cynthia 的打算被披露；L198「How could one feel so many things at the same time?」Cynthia 的内心自问；L213「Yes, the duchess was fickle in her favours.」开头两个 Yes 是 Cynthia 心里对 Clio 指责的让步性回应（自由间接），不是叙述者客观断言；L273「but she found her thoughts wandering to the red-haired siren despite her best efforts」只披露 Cynthia 的思绪。第二场（L129 起）同样只写 Cynthia 的感知与内心。非视角人物的『心声』逐条核查：L56「Your souls are intertwined. You can’t just leave. Why are humans such stubborn creatures?」、L62「She wants you. She’s just frightened.」、L71「If Ophelia was scared, I would stay.」、L77「As long as she needed.」、L83「I always make sense.」——这五条是 Hamlet（Helena 的使魔狐狸）的心灵感应『发言』，属于直接引语性质的传讯（本书使魔设定），不是叙述者披露 Hamlet 内心，也不是 Cynthia 的猜测；说话人无 tag，需靠 L80「a fox and a ferret」与上下文推定（见 T5）。L285「What happens when your soulmate rejects you?」与 L288「You create a new life in the Cotswolds.」同为无引号无 tag 的问与答，源文本未标明是 Hamlet 远距离传讯、Cynthia 自问自答、还是叙述者修辞问——无法从本章内证据判定（见 U1、T19）。Helena、Clio、Ellie 的内心全章从未被直接披露：L65「her silence screamed a confirmation Cynthia could not ignore」是 Cynthia 一方的解读；L174「understanding bloomed in her amber eyes」是 Cynthia 眼中所见的外部证据，均不构成视角切换。",
+  "scene_split": [
+    {
+      "lines": "1–21",
+      "where": "前置材料：章节标题行「Chapter 22」及其后空行——不是正文",
+      "when": "—",
+      "pov": "—"
+    },
+    {
+      "lines": "22–34",
+      "where": "前置材料：页码行「22」及其后空行（出版方空白填充）——不是正文",
+      "when": "—",
+      "pov": "—"
+    },
+    {
+      "lines": "35–113",
+      "where": "Blair House，Helena 的卧室（晨光穿窗；两人昨夜同床，Cynthia 当场穿衣）",
+      "when": "Rowan 晚宴翌日清晨（紧接上一章）",
+      "pov": "Cynthia（贴她一人）；穿插 Hamlet 的心灵传讯"
+    },
+    {
+      "lines": "114–128",
+      "where": "空行分隔（场景转换间隙）——不是正文",
+      "when": "—",
+      "pov": "—"
+    },
+    {
+      "lines": "129–270",
+      "where": "Cynthia 的房间（打包箱、窗景柳树；后半段在房内练魔法，挪花瓶与橡木衣柜）",
+      "when": "Cynthia 离开 Blair House 之后数日内；Clio 与 Ellie 来访数小时，至午后两人离开",
+      "pov": "Cynthia"
+    },
+    {
+      "lines": "271–288",
+      "where": "收束段：Cynthia 独处的思绪（无明确空间描写，仍在伦敦、离境前最后几天）",
+      "when": "友人离开后至动身去 Cotswolds 前的最后几天",
+      "pov": "Cynthia；末两行为无 tag 问答（归属未明）"
+    }
+  ],
+  "events": [
+    {
+      "n": 1,
+      "lines": "35",
+      "who": "叙述者/Cynthia",
+      "did": "Cynthia 片刻前还如旋转闪光之梦的世界，在一道冰冷现实的巨浪下瓦解",
+      "verbatim": "Cynthia’s world, moments ago a spinning, glittering dream, now disintegrated beneath a crashing wave of cold reality."
+    },
+    {
+      "n": 2,
+      "lines": "38",
+      "who": "Cynthia",
+      "did": "Cynthia 问 Helena：你是否相信，若让自己爱上我，你就会变得残酷而可怖",
+      "verbatim": "‘You believe if you let yourself fall in love with me, you would become something cruel and monstrous?’"
+    },
+    {
+      "n": 3,
+      "lines": "41",
+      "who": "Helena",
+      "did": "Helena 咬住下唇",
+      "verbatim": "Helena bit her lip."
+    },
+    {
+      "n": 4,
+      "lines": "41",
+      "who": "Helena",
+      "did": "太阳升过树线、怒光穿窗，Helena 的灰眼睛闪出银光",
+      "verbatim": "Her grey eyes flashed silver as the sunlight rose above the tree line and streamed through the window in blinding fury."
+    },
+    {
+      "n": 5,
+      "lines": "41",
+      "who": "Helena",
+      "did": "Helena 回答：我知道（不是『相信』而是『确知』）",
+      "verbatim": "‘I know it.’"
+    },
+    {
+      "n": 6,
+      "lines": "44",
+      "who": "Cynthia（心声）",
+      "did": "Cynthia 心中骂命运是恶毒的贱人",
+      "verbatim": "The fates were spiteful bitches."
+    },
+    {
+      "n": 7,
+      "lines": "44",
+      "who": "Cynthia",
+      "did": "直到两情相悦的可能被击碎的这一刻，Cynthia 才意识到真相",
+      "verbatim": "It wasn’t until this moment, when any chance of mutual affection was dashed, that Cynthia realised the truth."
+    },
+    {
+      "n": 8,
+      "lines": "47",
+      "who": "Cynthia（心声）",
+      "did": "无引号心声：我恋爱了，爱上一个拒绝回爱我女人，我真是个傻瓜",
+      "verbatim": "I’ve fallen in love. With a woman who refuses to love me back. I’m such a fool!"
+    },
+    {
+      "n": 9,
+      "lines": "50",
+      "who": "Cynthia",
+      "did": "怒火涌起；她决定等独处时再消化心碎、自怜",
+      "verbatim": "Anger came. She would nurse her heartbreak later, when she was alone and free to wallow in self-pity."
+    },
+    {
+      "n": 10,
+      "lines": "50",
+      "who": "Cynthia",
+      "did": "此刻她要用愤怒作燃料，逃离这撕裂灵魂的片刻",
+      "verbatim": "Right now, she would use the rage to fuel her escape from this soul-rendering moment."
+    },
+    {
+      "n": 11,
+      "lines": "50",
+      "who": "Cynthia",
+      "did": "Cynthia 宣布：那我这就走",
+      "verbatim": "‘Then I shall leave.’"
+    },
+    {
+      "n": 12,
+      "lines": "53",
+      "who": "Hamlet",
+      "did": "Hamlet 的金色眼睛瞪大",
+      "verbatim": "Hamlet’s golden eyes widened."
+    },
+    {
+      "n": 13,
+      "lines": "56",
+      "who": "Hamlet（传讯）",
+      "did": "Hamlet 心灵传讯：你们的灵魂交织在一起，你不能就这么走，人类为何如此固执",
+      "verbatim": "Your souls are intertwined. You can’t just leave. Why are humans such stubborn creatures?"
+    },
+    {
+      "n": 14,
+      "lines": "59",
+      "who": "Cynthia",
+      "did": "Cynthia 说待不下去，声音破裂，转开身、双腿发抖地站起",
+      "verbatim": "‘I can’t stay, Hamlet.’ Cynthia’s voice broke as she turned away from Helena and stood on shaky legs."
+    },
+    {
+      "n": 15,
+      "lines": "59",
+      "who": "Cynthia（心声）",
+      "did": "内心：她可以对 Helena 生气，但 Hamlet 在这件事里是无辜的",
+      "verbatim": "Because she could be angry with Helena, but Hamlet was innocent in all of this."
+    },
+    {
+      "n": 16,
+      "lines": "59",
+      "who": "Cynthia（心声）",
+      "did": "内心：离开 Helena 意味着也得离开使魔——这笔账等理智回笼后要一并记在 Helena 头上",
+      "verbatim": "And leaving Helena meant she also had to leave the witch’s familiar. Something else she planned to hold against Helena when her mind was rational enough to think with any measure of logic."
+    },
+    {
+      "n": 17,
+      "lines": "59",
+      "who": "Cynthia",
+      "did": "Cynthia 对 Hamlet 说会非常想念他，但 Helena 离不开他，而她不愿待在不被需要的地方",
+      "verbatim": "‘I will miss you terribly, but she cannot live without you, and I will not stay where I’m not wanted.’"
+    },
+    {
+      "n": 18,
+      "lines": "62",
+      "who": "Hamlet（传讯）",
+      "did": "Hamlet 传讯：她要你，她只是害怕",
+      "verbatim": "She wants you. She’s just frightened."
+    },
+    {
+      "n": 19,
+      "lines": "65",
+      "who": "Helena",
+      "did": "Helena 一言不发",
+      "verbatim": "Helena said nothing."
+    },
+    {
+      "n": 20,
+      "lines": "65",
+      "who": "Cynthia",
+      "did": "她的沉默在 Cynthia 听来如同尖叫般的确认，无法忽视",
+      "verbatim": "And her silence screamed a confirmation Cynthia could not ignore."
+    },
+    {
+      "n": 21,
+      "lines": "68",
+      "who": "Cynthia",
+      "did": "Cynthia 四肢僵硬，匆忙套上紧身胸衣、尽力系好",
+      "verbatim": "With stiff limbs, she hastily slipped on her corset and tied it as well as she could."
+    },
+    {
+      "n": 22,
+      "lines": "68",
+      "who": "Cynthia",
+      "did": "她拒绝向 Helena 求助",
+      "verbatim": "She refused to ask Helena for help."
+    },
+    {
+      "n": 23,
+      "lines": "68",
+      "who": "Hamlet",
+      "did": "Hamlet 跳下床绕着她转，蓬松的橙色尾巴扫过她赤裸的双腿",
+      "verbatim": "Hamlet jumped from the bed and circled her, his fluffy orange tail trailing against her bare legs."
+    },
+    {
+      "n": 24,
+      "lines": "71",
+      "who": "Hamlet（传讯）",
+      "did": "Hamlet 传讯：如果 Ophelia 受了惊，他会留下",
+      "verbatim": "If Ophelia was scared, I would stay."
+    },
+    {
+      "n": 25,
+      "lines": "74",
+      "who": "Cynthia",
+      "did": "Cynthia 问：留多久？几天？几周？几月？还是几年",
+      "verbatim": "‘For how long? Days? Weeks? Months? Years, perhaps?’"
+    },
+    {
+      "n": 26,
+      "lines": "77",
+      "who": "Hamlet（传讯）",
+      "did": "Hamlet 答：她需要多久就留多久",
+      "verbatim": "As long as she needed."
+    },
+    {
+      "n": 27,
+      "lines": "80",
+      "who": "Cynthia",
+      "did": "Cynthia 说：那么一只狐狸加一只雪貂，倒比我们俩更说得通",
+      "verbatim": "‘Then I suppose a fox and a ferret make more sense than the two of us.’"
+    },
+    {
+      "n": 28,
+      "lines": "80",
+      "who": "Cynthia",
+      "did": "她激动地在自己和 Helena 之间来回比划",
+      "verbatim": "She gestured wildly between herself and Helena."
+    },
+    {
+      "n": 29,
+      "lines": "83",
+      "who": "Hamlet（传讯）",
+      "did": "Hamlet 传讯：我永远说得通",
+      "verbatim": "I always make sense."
+    },
+    {
+      "n": 30,
+      "lines": "86",
+      "who": "Hamlet/Helena",
+      "did": "Hamlet 把头转向 Helena，Helena 坐起身",
+      "verbatim": "Hamlet turned his head to Helena, who sat up."
+    },
+    {
+      "n": 31,
+      "lines": "86",
+      "who": "Helena",
+      "did": "Helena 把床单护在胸前，决然盯着窗外",
+      "verbatim": "She held the sheet against her chest and stared resolutely at the window."
+    },
+    {
+      "n": 32,
+      "lines": "86",
+      "who": "Helena",
+      "did": "Helena 说：她或许读不了你们俩的思想，但她的耳朵没毛病",
+      "verbatim": "‘I might not be able to read either of your thoughts, but there is nothing wrong with my hearing.’"
+    },
+    {
+      "n": 33,
+      "lines": "86",
+      "who": "Helena",
+      "did": "她转身，用比冰河更冷的银色目光钉住 Cynthia",
+      "verbatim": "She turned, catching Cynthia in her silver glare, colder than frozen rivers."
+    },
+    {
+      "n": 34,
+      "lines": "86",
+      "who": "Helena",
+      "did": "Helena 说：再多的时间也改变不了她的誓言",
+      "verbatim": "‘There is no amount of time that will change my oath.’"
+    },
+    {
+      "n": 35,
+      "lines": "89",
+      "who": "Cynthia",
+      "did": "Cynthia 说：你听见了吧 Hamlet，这就算回答了我的问题",
+      "verbatim": "‘You heard her, Hamlet. I suppose that answers my question.’"
+    },
+    {
+      "n": 36,
+      "lines": "92",
+      "who": "Helena（无tag）",
+      "did": "无 tag 台词（据上下文为 Helena）：你不懂吗？我这样做既为保护你也为保护我自己；你并不想要我，不是真的",
+      "verbatim": "‘Can’t you understand? I’m doing this as much to protect you as myself. You don’t want me, Cynthia. Not really.’"
+    },
+    {
+      "n": 37,
+      "lines": "95",
+      "who": "Cynthia",
+      "did": "Cynthia 反驳：你根本不知道我想要什么，也不知道我本可以给你什么",
+      "verbatim": "‘You have no idea what I want. Or what I could have given you, Helena."
+    },
+    {
+      "n": 38,
+      "lines": "95",
+      "who": "Cynthia",
+      "did": "她指责 Helena 别把这扭曲成利他：你拒绝我是因为你害怕",
+      "verbatim": "And don’t twist this into altruism. You are rejecting me because you’re scared."
+    },
+    {
+      "n": 39,
+      "lines": "95",
+      "who": "Cynthia",
+      "did": "她说没想到如此强大的女巫竟会这般怯懦",
+      "verbatim": "I never would have guessed such a powerful witch could be so cowardly.’"
+    },
+    {
+      "n": 40,
+      "lines": "95",
+      "who": "Cynthia",
+      "did": "她动作僵硬地穿上衬裙、在腰间系紧，再装上裙撑",
+      "verbatim": "With jerky movements, she stepped into her petticoats, tying them tightly around her waist before attaching her bustle."
+    },
+    {
+      "n": 41,
+      "lines": "95",
+      "who": "Cynthia/Helena",
+      "did": "一颗硕大的泪珠滚下 Helena 的脸颊，Cynthia 拒绝被它动摇",
+      "verbatim": "She refused to be swayed by the fat tear running down Helena’s cheek."
+    },
+    {
+      "n": 42,
+      "lines": "98",
+      "who": "Cynthia",
+      "did": "她从昨晚精心放好衣物的椅子上抓起胸衣和外裙",
+      "verbatim": "Snatching her bodice and outer skirt from the chair where she had so carefully placed them the night before"
+    },
+    {
+      "n": 43,
+      "lines": "98",
+      "who": "Cynthia",
+      "did": "她匆忙穿上丝质晚宴裙——在刺眼晨光里显得过于华贵",
+      "verbatim": "she hastily donned the silky dinner gown, far too lush in the glaring morning light."
+    },
+    {
+      "n": 44,
+      "lines": "98",
+      "who": "Cynthia（心声）",
+      "did": "内心：她受够了穿黑衣，但今天这颜色正配她的心境",
+      "verbatim": "She was so sick of wearing black, but today, the colour fit her mood."
+    },
+    {
+      "n": 45,
+      "lines": "98",
+      "who": "Cynthia（心声）",
+      "did": "她终于觉得自己在哀悼什么——哀悼那段本可能存在的可能",
+      "verbatim": "She finally felt like she was mourning something. The hope of what could have been."
+    },
+    {
+      "n": 46,
+      "lines": "101",
+      "who": "Cynthia",
+      "did": "她最后摸了一下 Hamlet，转身走向门口",
+      "verbatim": "Giving Hamlet a final pet, she turned and walked to the door"
+    },
+    {
+      "n": 47,
+      "lines": "101",
+      "who": "Cynthia",
+      "did": "她在门口停步，但拒绝回头",
+      "verbatim": "pausing, but refusing to look back."
+    },
+    {
+      "n": 48,
+      "lines": "101",
+      "who": "Cynthia（心声）",
+      "did": "内心：她知道回头看到的画面会纠缠她的余生",
+      "verbatim": "Because she knew the image would haunt her for the rest of her days."
+    },
+    {
+      "n": 49,
+      "lines": "104",
+      "who": "Cynthia",
+      "did": "她请 Helena 代谢 Rowan 姑妈的美好夜晚",
+      "verbatim": "‘Please thank Aunt Rowan for such a lovely evening."
+    },
+    {
+      "n": 50,
+      "lines": "104",
+      "who": "Cynthia",
+      "did": "她祝 MacDougal 探长调查顺利",
+      "verbatim": "I wish Superintendent MacDougal all the best with his investigation."
+    },
+    {
+      "n": 51,
+      "lines": "104",
+      "who": "Cynthia",
+      "did": "她说相信 Thomas 会把对方（们）的进展随时告知她",
+      "verbatim": "I’m sure Thomas will keep me apprised of the progress you make.’"
+    },
+    {
+      "n": 52,
+      "lines": "107",
+      "who": "Helena",
+      "did": "Helena 说她们还会再见：你弟弟娶了我表妹",
+      "verbatim": "‘We’ll still see each other. Your brother is married to my cousin, after all.’"
+    },
+    {
+      "n": 53,
+      "lines": "107",
+      "who": "Helena",
+      "did": "Helena 的嗓音听起来可疑地沙哑；她说没理由不能继续做朋友",
+      "verbatim": "Helena’s voice sounded suspiciously rusty. ‘There’s no reason why we can’t remain friends.’"
+    },
+    {
+      "n": 54,
+      "lines": "110",
+      "who": "Cynthia（无tag）",
+      "did": "Cynthia（无 tag）说：理由多得是",
+      "verbatim": "‘There is every reason.’"
+    },
+    {
+      "n": 55,
+      "lines": "110",
+      "who": "Cynthia",
+      "did": "一时软弱，她回头看了一眼",
+      "verbatim": "In a moment of weakness, she glanced over her shoulder."
+    },
+    {
+      "n": 56,
+      "lines": "110",
+      "who": "Helena/Cynthia",
+      "did": "Helena 红发如夏日海浪般翻涌、双臂裸露、白床单护胸、眼中盛满痛苦与懊悔——这一幕几乎击溃 Cynthia 的决心",
+      "verbatim": "The image of Helena, her riot of red curls frothing about like sea waves in the summer sun, her pale arms bare, holding the white sheet to her chest, her eyes swimming with pain and regret, almost broke Cynthia’s resolve."
+    },
+    {
+      "n": 57,
+      "lines": "110",
+      "who": "Cynthia（心声）",
+      "did": "内心：她无法接受只做朋友——手臂永远渴望拥抱 Helena 却永远落空",
+      "verbatim": "But she could not settle for friendship. Not when her arms would forever ache to embrace Helena but always remain empty."
+    },
+    {
+      "n": 58,
+      "lines": "110",
+      "who": "Cynthia（心声）",
+      "did": "内心：她的心会改变节律去应和 Helena 胸腔里的搏动，却只在空荡厅堂里回响",
+      "verbatim": "Not when her heart would change its rhythm to match the beat within Helena’s breast but echo in empty halls."
+    },
+    {
+      "n": 59,
+      "lines": "110",
+      "who": "Cynthia（心声）",
+      "did": "内心：她的灵魂将永远寻找另一半却永不得交融——这种残酷折磨她无法忍受",
+      "verbatim": "Not when her soul would eternally seek its other half but never be granted communion. It was a cruel torture she couldn’t endure."
+    },
+    {
+      "n": 60,
+      "lines": "110",
+      "who": "Cynthia",
+      "did": "Cynthia 道别：再见，Helena",
+      "verbatim": "‘Goodbye, Helena.’"
+    },
+    {
+      "n": 61,
+      "lines": "113",
+      "who": "Cynthia",
+      "did": "她推门而出，走进她要独自面对的未来",
+      "verbatim": "Pushing open the door, Cynthia stepped out of the room and into her future. One she would face alone."
+    },
+    {
+      "n": 62,
+      "lines": "129",
+      "who": "Clio",
+      "did": "Clio 禁止 Cynthia 躲去乡下舔伤口，用带跟鞋跟跺地",
+      "verbatim": "‘You cannot scamper off to the country to lick your wounds, Cynthia. I forbid it!’ Clio stomped her heeled slipper."
+    },
+    {
+      "n": 63,
+      "lines": "132",
+      "who": "Sir Robin",
+      "did": "乌鸦 Sir Robin 以沙哑命令腔复述『Forbid it!』，末尾化作一声愤慨的鸟叫",
+      "verbatim": "‘Forbid it!’ Sir Robin reiterated in a throaty command that ended with an indignant squawk."
+    },
+    {
+      "n": 64,
+      "lines": "135",
+      "who": "Cynthia",
+      "did": "Cynthia 不慌不忙地继续包裹她的小狗摆件、放进板条箱",
+      "verbatim": "Cynthia continued to calmly wrap her puppy figurines and place them in a crate"
+    },
+    {
+      "n": 65,
+      "lines": "135",
+      "who": "Cynthia",
+      "did": "箱子渐渐装满——都是她打算带去 Cotswold 区孀妇宅的东西",
+      "verbatim": "a crate that was slowly filling with the items she planned to take with her to the dowager house waiting in the Cotswold district."
+    },
+    {
+      "n": 66,
+      "lines": "138",
+      "who": "Cynthia",
+      "did": "Cynthia 说：侯爵夫人不会『scamper』，寡居的也不会；而她待不下去",
+      "verbatim": "‘A marchioness does not scamper. Even a widowed one. And I can’t stay.’"
+    },
+    {
+      "n": 67,
+      "lines": "141",
+      "who": "Ellie",
+      "did": "Ellie 说 Helena 只是犯倔，给她几周就会回心转意",
+      "verbatim": "‘Helena is just being stubborn. Give her a few weeks. She’ll come around.’"
+    },
+    {
+      "n": 68,
+      "lines": "141",
+      "who": "Ellie",
+      "did": "Ellie 穿着糖粉色夏日连衣裙窸窣走来——那裙子换任何人穿都显繁复可笑，唯独这位丰满金发女郎例外",
+      "verbatim": "Ellie rustled over in a sugar-pink summer frock that would look frilly and ridiculous on anyone other than the buxom blonde."
+    },
+    {
+      "n": 69,
+      "lines": "141",
+      "who": "Ellie",
+      "did": "她轻轻握住 Cynthia 的手臂捏了捏；暖风把焦糖与鼠尾草的气息送进房间",
+      "verbatim": "She gently gripped Cynthia’s arm and squeezed, a warm summer breeze ushering burnt sugar and sage into her room."
+    },
+    {
+      "n": 70,
+      "lines": "144",
+      "who": "Cynthia",
+      "did": "Cynthia 说：那 Helena 可以来乡下找我；我已下定决心",
+      "verbatim": "‘Then she can come and find me in the country. I have made up my mind.’"
+    },
+    {
+      "n": 71,
+      "lines": "147",
+      "who": "Clio",
+      "did": "Clio 说你们俩在固执上旗鼓相当，并恼火地叹了口气",
+      "verbatim": "‘You two are equally matched in hard-headedness, that is certain.’ Clio huffed out an exasperated breath"
+    },
+    {
+      "n": 72,
+      "lines": "147",
+      "who": "Sir Robin",
+      "did": "她的乌鸦以惊人准确度模仿出同样的神情",
+      "verbatim": "her raven mimicking the expression with uncanny accuracy."
+    },
+    {
+      "n": 73,
+      "lines": "150",
+      "who": "Ellie",
+      "did": "Ellie 问：那调查怎么办？她柔软的嗓音下藏着一缕坚决",
+      "verbatim": "‘What about the investigation?’ Ellie’s soft voice hid a ripple of determination running beneath the sweetness."
+    },
+    {
+      "n": 74,
+      "lines": "153",
+      "who": "Cynthia",
+      "did": "Cynthia 从 Ellie 手里抽身，走到窗边欣赏蓝天与阳光穿过柳叶",
+      "verbatim": "Cynthia pulled free of Ellie and moved to the window, admiring the blue sky and how the bright sun filtered through the willow leaves."
+    },
+    {
+      "n": 75,
+      "lines": "153",
+      "who": "Cynthia（心声）",
+      "did": "内心：别的都不说，她至少会想念这片窗景",
+      "verbatim": "She would miss her view, if nothing else."
+    },
+    {
+      "n": 76,
+      "lines": "156",
+      "who": "Cynthia",
+      "did": "Cynthia 说：相信你们的叔叔和我的弟弟不需要她帮忙；反正她只是在添乱",
+      "verbatim": "‘I’m sure your uncle and my brother need no help from me. I was only making a nuisance of myself, at any rate.’"
+    },
+    {
+      "n": 77,
+      "lines": "159",
+      "who": "Ellie（推定，无tag）",
+      "did": "无 tag 台词（据 L165 署名回推为 Ellie）：不是这样；既然知道你有力量，就不能把你丢给该死的 Cotswolds 的奶牛和鸡；你是我们的一员，女巫团齐心才最强",
+      "verbatim": "‘That’s not true. And now that we know you have powers, we can’t just abandon you to the cows and chickens in the bloody Cotswolds. You are one of us. A coven is strongest together!’"
+    },
+    {
+      "n": 78,
+      "lines": "162",
+      "who": "Cynthia",
+      "did": "Cynthia 说：我不属于 Blair 女巫团",
+      "verbatim": "‘I’m not part of the Blair coven.’"
+    },
+    {
+      "n": 79,
+      "lines": "165",
+      "who": "Ellie",
+      "did": "Ellie 嘟囔：那只是因为你在整件事上犯傻",
+      "verbatim": "‘Only because you’re being a dunderhead about this entire thing,’ Ellie muttered."
+    },
+    {
+      "n": 80,
+      "lines": "165",
+      "who": "Ophelia",
+      "did": "雪貂 Ophelia 从 Ellie 裙子的口袋里探出头，冲 Cynthia 叽叽叫了一通明摆着的数落",
+      "verbatim": "Ophelia poked her head from a pocket in Ellie’s skirt and chittered what was clearly a rebuke at Cynthia."
+    },
+    {
+      "n": 81,
+      "lines": "168",
+      "who": "Clio",
+      "did": "Clio 说：我们欢迎你加入女巫团；你现在是我妹妹——不靠血缘，靠魔法缔结，同样强大",
+      "verbatim": "‘We would welcome you into our coven. You are my sister now. Maybe not by blood but bound by magic, which is just as powerful.’"
+    },
+    {
+      "n": 82,
+      "lines": "168",
+      "who": "Clio/Sir Robin",
+      "did": "Clio 穿过房间，Sir Robin 拍着翅膀才在她肩头站稳",
+      "verbatim": "Clio crossed the room, Sir Robin flapping to keep his perch on her shoulder."
+    },
+    {
+      "n": 83,
+      "lines": "168",
+      "who": "Clio",
+      "did": "她双手握住 Cynthia 的手：留下来吧，妹妹",
+      "verbatim": "She took both Cynthia’s hands in her own. ‘Stay with us, sister.’"
+    },
+    {
+      "n": 84,
+      "lines": "171",
+      "who": "Cynthia",
+      "did": "泪水刺痛 Cynthia 的眼睛，她强压住嘴唇的颤抖",
+      "verbatim": "Tears stung her eyes as she forced the tremble from her lips."
+    },
+    {
+      "n": 85,
+      "lines": "171",
+      "who": "Cynthia",
+      "did": "Cynthia 说留不下，并用类比反问 Clio：如果是 Thomas 拒绝了你，你还能待在他眼前吗",
+      "verbatim": "‘I can’t stay, Clio. If Thomas refused you, could you stay in his presence?’"
+    },
+    {
+      "n": 86,
+      "lines": "174",
+      "who": "Clio",
+      "did": "Clio 倒吸一口气，琥珀色眼睛里浮起了然，答：不能",
+      "verbatim": "Clio inhaled as understanding bloomed in her amber eyes. ‘No.’"
+    },
+    {
+      "n": 87,
+      "lines": "177",
+      "who": "Cynthia",
+      "did": "Cynthia 凑近，在 Clio 脸颊上印下一吻",
+      "verbatim": "Cynthia leaned close and pressed a kiss against Clio’s cheek."
+    },
+    {
+      "n": 88,
+      "lines": "177",
+      "who": "Cynthia",
+      "did": "她说：别再把这事弄得更难；再说，她有重要的工作要做",
+      "verbatim": "‘Then don’t make this any harder than it already is. Besides, I have important work to do."
+    },
+    {
+      "n": 89,
+      "lines": "177",
+      "who": "Cynthia",
+      "did": "Higgins 太太给了她一份长长的名单——被 Hubert 解雇的女仆们，那些他无疑虐待过的女人",
+      "verbatim": "Mrs Higgins provided me with a rather extensive list of maids who were fired by Hubert. Women he doubtlessly abused."
+    },
+    {
+      "n": 90,
+      "lines": "177",
+      "who": "Cynthia",
+      "did": "她要联络这些女人、尽力相助，尽管这几乎不足以弥补",
+      "verbatim": "I am going to reach out to these women and offer what I can, though it hardly feels like enough.’"
+    },
+    {
+      "n": 91,
+      "lines": "180",
+      "who": "Clio",
+      "did": "Clio 说：你不能背负他罪行的责任",
+      "verbatim": "‘You can’t carry the blame of his sins,’ Clio said."
+    },
+    {
+      "n": 92,
+      "lines": "183",
+      "who": "Cynthia",
+      "did": "Cynthia 说：我没有；但我也不会再对他造成的伤害视而不见——在我有能力帮忙的时候",
+      "verbatim": "‘I’m not. But neither will I continue to ignore the harm he’s done. Not when I’m in a position to help."
+    },
+    {
+      "n": 93,
+      "lines": "183",
+      "who": "Cynthia",
+      "did": "她宣布把孀妇宅善用起来，改造成困境女性的家园",
+      "verbatim": "So, I am going to put my dowager house to good use. I am turning it into a home for women in need."
+    },
+    {
+      "n": 94,
+      "lines": "183",
+      "who": "Cynthia",
+      "did": "她愿意为想改善处境的人提供教育与培训；对其他人，这里就是过渡的避难所",
+      "verbatim": "I hope to offer education and training for those who wish to improve their circumstances. And for others, it will simply be a place of refuge until they can determine their next steps."
+    },
+    {
+      "n": 95,
+      "lines": "183",
+      "who": "Cynthia",
+      "did": "Hubert 的罪不可原谅，却让她看见了众多年轻女性的困境；她决意支持这些女孩",
+      "verbatim": "Hubert’s crimes are unforgiveable, but they have opened my eyes to the plight of so many young women. I’m determined to offer these girls support.’"
+    },
+    {
+      "n": 96,
+      "lines": "186",
+      "who": "Clio",
+      "did": "Clio 凝视 Cynthia 许久，说这个主意棒极了；你需要帮手，这不正好给我们探望的借口",
+      "verbatim": "Clio held Cynthia’s gaze for a long moment. ‘I think that is a fabulous idea. You will need help, and what better excuse to come and visit you?"
+    },
+    {
+      "n": 97,
+      "lines": "186",
+      "who": "Clio",
+      "did": "她要 Cynthia 一准备好就捎信，她们就来；说着张开双臂死死抱住 Cynthia",
+      "verbatim": "You must send word as soon as you are ready, and we shall come.’ She threw her arms around Cynthia in a crushing hug."
+    },
+    {
+      "n": 98,
+      "lines": "189",
+      "who": "Ellie",
+      "did": "Ellie 说当然会来，加入拥抱",
+      "verbatim": "‘Of course we will!’ Ellie joined the hug."
+    },
+    {
+      "n": 99,
+      "lines": "189",
+      "who": "三人+两兽",
+      "did": "她们缠成一团乱糟糟的拥抱：三个含泪的女巫、一只羽毛凌乱的乌鸦、一只不爽的雪貂",
+      "verbatim": "They tangled in a messy embrace, three tearful witches, a ruffled raven, and a disgruntled ferret."
+    },
+    {
+      "n": 100,
+      "lines": "192",
+      "who": "Ellie",
+      "did": "抽着鼻子，Ellie 先退开",
+      "verbatim": "Sniffing, Ellie pulled away first."
+    },
+    {
+      "n": 101,
+      "lines": "195",
+      "who": "Ellie",
+      "did": "Ellie 用手背擦着泛粉的脸颊问：你什么时候动身",
+      "verbatim": "‘When do you depart?’ Ellie wiped her pink cheek with the back of her hand."
+    },
+    {
+      "n": 102,
+      "lines": "198",
+      "who": "Cynthia",
+      "did": "Cynthia 答：Devon 公爵夫人邀请她出席一年一度的夏季舞会",
+      "verbatim": "‘The Duchess of Devon invited me to her annual summer ball.’"
+    },
+    {
+      "n": 103,
+      "lines": "198",
+      "who": "Cynthia",
+      "did": "她努力把翻涌的情绪拉回一点秩序",
+      "verbatim": "Cynthia tried to pull her wild emotions into some semblance of order."
+    },
+    {
+      "n": 104,
+      "lines": "198",
+      "who": "Cynthia（心声）",
+      "did": "内心自问：人怎能同时感受这么多——离开 Helena 的悲伤、帮助像 Lily 那样的女人的希望、对未知的恐惧、为正义事业兴奋",
+      "verbatim": "How could one feel so many things at the same time? Grief at leaving Helena. Hope that she might help women like Lily. Fear of the unknown. Excitement for a worthy cause."
+    },
+    {
+      "n": 105,
+      "lines": "198",
+      "who": "Cynthia（心声）",
+      "did": "还有此刻的欢喜：知道她不会与挚友们永远分离",
+      "verbatim": "And now the joy of knowing she wouldn’t be separated from her dear friends forever."
+    },
+    {
+      "n": 106,
+      "lines": "198",
+      "who": "Cynthia",
+      "did": "她把思绪拉回当下与迅速临近的舞会",
+      "verbatim": "She pulled her thoughts back to the demands of the moment and the duchess’s quickly approaching ball."
+    },
+    {
+      "n": 107,
+      "lines": "198",
+      "who": "Cynthia",
+      "did": "她开口打趣：公爵夫人当然会拖到最后一刻才发请柬，她就爱看贵族们鸡飞狗跳",
+      "verbatim": "‘Of course, the duchess would wait until the last minute to send invitations. She does love to watch the peerage scurry about.’"
+    },
+    {
+      "n": 108,
+      "lines": "198",
+      "who": "公爵夫人（追述）",
+      "did": "追述：公爵夫人曾带着她的裁缝上门，为 Cynthia 的礼服做最后量体",
+      "verbatim": "She had come by with her modiste to take some final measurements for Cynthia’s dress."
+    },
+    {
+      "n": 109,
+      "lines": "198",
+      "who": "Cynthia（心声）",
+      "did": "内心：尽管公爵夫人戏剧化成瘾，她一直是 Cynthia 的朋友，Cynthia 会想念她",
+      "verbatim": "Despite the duchess’s penchant for drama, she had been a friend to Cynthia and she would miss her."
+    },
+    {
+      "n": 110,
+      "lines": "201",
+      "who": "公爵夫人（追述）",
+      "did": "追述：公爵夫人对收留失足淑女的计划很兴奋——但兴奋点更多在这消息将引发的丑闻",
+      "verbatim": "The duchess was delighted by Cynthia’s plans to create a home for wayward ladies, though her enthusiasm was more inspired by the scandal the news would cause than anything else."
+    },
+    {
+      "n": 111,
+      "lines": "201",
+      "who": "公爵夫人（追述）",
+      "did": "她仍承诺全力支持，并答应在伦敦失去吸引力的沉闷冬季来访",
+      "verbatim": "Still, she pledged her unending support and promised to visit during the dreary winter months when London lost its appeal."
+    },
+    {
+      "n": 112,
+      "lines": "204",
+      "who": "Ellie",
+      "did": "Ellie 眼睛睁大问：所以你会出席 Devon 公爵夫人的舞会？梦幻的光彩把她的眼睛点亮成蓝宝石色",
+      "verbatim": "‘So you will attend the Duchess of Devon’s ball?’ Ellie’s eyes widened, and a dreamy haze brightened their colour to the heart of a sapphire."
+    },
+    {
+      "n": 113,
+      "lines": "207",
+      "who": "Cynthia",
+      "did": "Cynthia 说：按规矩她至少该守两年丧，可这才过了一个月",
+      "verbatim": "‘By rights, I should remain in mourning for at least two years, and it’s barely been a month."
+    },
+    {
+      "n": 114,
+      "lines": "207",
+      "who": "Cynthia",
+      "did": "出席会引起不小的震动——而这正是公爵夫人坚持要她参加的部分原因",
+      "verbatim": "It will cause quite a shock if I attend. Which is part of why she insists I join her.’"
+    },
+    {
+      "n": 115,
+      "lines": "207",
+      "who": "Cynthia",
+      "did": "她唇边压不住一抹自嘲的微笑，说那女人戏剧成瘾，但多年来一直是朋友",
+      "verbatim": "She couldn’t stop the wry smile that curled her lips. ‘That woman is addicted to drama. But she has been a friend for years."
+    },
+    {
+      "n": 116,
+      "lines": "207",
+      "who": "Cynthia",
+      "did": "她说自己有一部分正为公然藐视上流社会的规则而雀跃",
+      "verbatim": "And part of me revels at the idea of flouting the beau monde’s rules.’"
+    },
+    {
+      "n": 117,
+      "lines": "210",
+      "who": "Clio",
+      "did": "Clio 说：她算不上好朋友；调查 Beachley 子爵谋杀案时我见过她怎么待你",
+      "verbatim": "‘She’s hardly a good friend. I saw how she treated you when we were investigating Viscount Beachley’s murder.’"
+    },
+    {
+      "n": 118,
+      "lines": "210",
+      "who": "Clio",
+      "did": "Clio 扶正在刚才临时抱团时被碰歪的圆顶礼帽",
+      "verbatim": "Clio adjusted her bowler hat, which had been knocked askew in their impromptu huddle."
+    },
+    {
+      "n": 119,
+      "lines": "213",
+      "who": "Cynthia（心声）",
+      "did": "自由间接心声（像叙述者断言，实为 Cynthia 的让步）：是的，公爵夫人的恩宠反复无常；是的，谁不追随她，她会毫不犹豫地当面除名",
+      "verbatim": "Yes, the duchess was fickle in her favours. And yes, she wouldn’t hesitate to cut a lady direct if they did not follow her lead."
+    },
+    {
+      "n": 120,
+      "lines": "213",
+      "who": "Cynthia（心声）",
+      "did": "心声：没有秘密在公爵夫人那里是安全的，她盯上的男人也一样",
+      "verbatim": "No secret was safe with the duchess, nor any man she set her sights on."
+    },
+    {
+      "n": 121,
+      "lines": "213",
+      "who": "Cynthia（心声）",
+      "did": "心声：但自 Cynthia 嫁给 Hubert 起，公爵夫人就一直在她的生活里，在艰难时日给过她一份陪伴与慰藉",
+      "verbatim": "But she had also been a part of Cynthia’s life since she married Hubert. She had shown Cynthia a measure of companionship and comfort in difficult times"
+    },
+    {
+      "n": 122,
+      "lines": "213",
+      "who": "Cynthia（心声）",
+      "did": "心声：Cynthia 的一部分意识到公爵夫人在给她一个机会——公开弃绝『规矩淑女』的角色；这是无法拒绝的邀请",
+      "verbatim": "a part of Cynthia recognised that the duchess was giving her an opportunity. To publicly renounce her role as a proper lady. It was an invitation she couldn’t refuse."
+    },
+    {
+      "n": 123,
+      "lines": "216",
+      "who": "叙述者/Cynthia",
+      "did": "出席这场舞会将是 Cynthia 对她已准备好离开的世界的最终告别",
+      "verbatim": "Attending this ball would be Cynthia’s final goodbye to a world she was ready to leave."
+    },
+    {
+      "n": 124,
+      "lines": "219",
+      "who": "Cynthia（无tag）",
+      "did": "Cynthia（无 tag）说：她不总是最和善的朋友，但始终如一；我欠她一场最终而轰动的退场",
+      "verbatim": "‘She hasn’t always been the kindest friend, but she has been constant. I owe her one final and spectacular departure.’"
+    },
+    {
+      "n": 125,
+      "lines": "222",
+      "who": "Clio",
+      "did": "Clio 问：所以你要等舞会结束才走？并与 Ellie 交换了一个眼神",
+      "verbatim": "‘So, you aren’t leaving until after the ball?’ Clio exchanged a look with Ellie"
+    },
+    {
+      "n": 126,
+      "lines": "222",
+      "who": "Cynthia（心声）",
+      "did": "那个眼神让 Cynthia 恨不得能像对 Hamlet 那样轻易读懂她们的心思",
+      "verbatim": "that had Cynthia wishing she could read their minds as easily as Hamlet’s."
+    },
+    {
+      "n": 127,
+      "lines": "225",
+      "who": "Cynthia",
+      "did": "Cynthia 说：公爵夫人费了这么大劲，她没法拒绝——用公爵夫人自己的话说，那件礼服是『神的报应』",
+      "verbatim": "‘I don’t see how I can refuse when she’s gone to so much trouble to ensure I have a gown that is, in her words, “divine retribution”.’"
+    },
+    {
+      "n": 128,
+      "lines": "228",
+      "who": "Ellie/Ophelia",
+      "did": "Ellie 说哎呀、听起来不祥，心不在焉地顺着 Ophelia 光滑的身子抚摸，雪貂把自己绕上 Ellie 的脖颈",
+      "verbatim": "‘Oh dear. That sounds ominous.’ Ellie absently ran her hand along Ophelia’s sleek body as the ferret settled herself around Ellie’s neck."
+    },
+    {
+      "n": 129,
+      "lines": "231",
+      "who": "Cynthia",
+      "did": "Cynthia 扬起下巴，让旧日神采的一点火星重新燃起",
+      "verbatim": "Cynthia tipped her chin, letting a spark of her old spirit reignite."
+    },
+    {
+      "n": 130,
+      "lines": "231",
+      "who": "Cynthia",
+      "did": "她说：若说了解公爵夫人，那礼服绝不会像哀伤的寡妇该穿的；可话又说回来，我并不悲伤",
+      "verbatim": "‘If I know the duchess, it will hardly be something befitting a grieving widow. But then again, I’m not grieving."
+    },
+    {
+      "n": 131,
+      "lines": "231",
+      "who": "Cynthia",
+      "did": "Hubert 不值得她再搭进两年生命——他已经拿走了十年",
+      "verbatim": "Hubert doesn’t deserve two more years of my life. He’s already had ten.’"
+    },
+    {
+      "n": 132,
+      "lines": "234",
+      "who": "Clio",
+      "did": "Clio 轻声说：十年，是很长的不快乐",
+      "verbatim": "‘Ten years is a long time to be unhappy.’ Clio spoke quietly."
+    },
+    {
+      "n": 133,
+      "lines": "237",
+      "who": "Cynthia",
+      "did": "Cynthia 说：她不快乐的年头远比这长——自幼社会就要求她顺从；但从今往后不再了",
+      "verbatim": "‘I’ve been unhappy much longer than that. Since I was a child, society demanded my submission. But no more."
+    },
+    {
+      "n": 134,
+      "lines": "237",
+      "who": "Cynthia",
+      "did": "她觉得在一片丑闻旋涡中离场再合适不过；说出这话感觉很好，真心这么想感觉更好",
+      "verbatim": "I think it’s quite fitting to leave in a swirl of scandal, don’t you?’ It felt good to say the words, and even better to mean them."
+    },
+    {
+      "n": 135,
+      "lines": "237",
+      "who": "Cynthia（心声）",
+      "did": "心声：无论她与 Helena 之间如何，她永远感激 Helena 在她灵魂上打开的窗——一扇通往真实自我的窗",
+      "verbatim": "she would always be grateful for the window Helena opened in Cynthia’s soul. A window to her true self."
+    },
+    {
+      "n": 136,
+      "lines": "240",
+      "who": "Cynthia（心声）",
+      "did": "心声自我定义：她是爱女人的女人、是女巫、是不再受他人摆布的强大女人",
+      "verbatim": "She was a sapphist. A witch. And a powerful woman who would no longer be subject to the whims of others."
+    },
+    {
+      "n": 137,
+      "lines": "240",
+      "who": "Cynthia（心声）",
+      "did": "心声：往后的选择只属于她；是时候掌控人生——哪怕要献祭心脏来换回灵魂",
+      "verbatim": "Whatever choices she made moving forward would be hers alone. It was time to take control of her life, even if that meant sacrificing her heart to reclaim her soul."
+    },
+    {
+      "n": 138,
+      "lines": "243",
+      "who": "Clio",
+      "did": "Clio 说：Thomas 和我会到场支持你；请柬多半因你的关系才发给我们，但至少你不会孤单",
+      "verbatim": "‘Thomas and I shall be there to support you. I’m sure we only received an invitation because of our connection to you, but at least you shan’t be alone."
+    },
+    {
+      "n": 139,
+      "lines": "243",
+      "who": "Clio",
+      "did": "她说：别人忙着找像样的礼服，公爵夫人该知道她永远有一条随时能穿的裙子",
+      "verbatim": "And while others might scramble for a worthy gown, the duchess should know I always have a dress at the ready.’"
+    },
+    {
+      "n": 140,
+      "lines": "243",
+      "who": "叙述者/Clio",
+      "did": "描写 Clio 的打扮：裙上是仿蝴蝶翅的彩绘布块，胸衣如男式衬衫结构，品红色马甲把两个世界缝成一个整体",
+      "verbatim": "Her dress today incorporated cleverly painted fabric squares that mimicked butterfly wings for her skirt, while her bodice was structured like a man’s dress shirt with a fuchsia waistcoat miraculously bringing both worlds together into a cohesive vision."
+    },
+    {
+      "n": 141,
+      "lines": "243",
+      "who": "叙述者/Clio",
+      "did": "她的圆顶礼帽与马甲同色，与她墨黑的卷发形成大师级对比",
+      "verbatim": "The bowler hat she wore was of the same hue as her waistcoat and contrasted masterfully with her ink-black locks."
+    },
+    {
+      "n": 142,
+      "lines": "246",
+      "who": "Ellie",
+      "did": "Ellie 怅惘地叹气：真希望我能去，但我 doubt 自己融不进那样光鲜的爵爷淑女圈",
+      "verbatim": "‘I wish I could attend. But I doubt I would fit in the company of such dashing lords and ladies.’ Ellie sighed wistfully."
+    },
+    {
+      "n": 143,
+      "lines": "249",
+      "who": "Cynthia（心声）",
+      "did": "心声：自她逃离 Blair House 后，对 Helena 的渴望只增不减；她怕去了乡下会更糟",
+      "verbatim": "Cynthia’s yearning for Helena had only increased since she fled Blair House, and she feared it would be worse once she left for the country."
+    },
+    {
+      "n": 144,
+      "lines": "249",
+      "who": "Cynthia（心声）",
+      "did": "心声：离开 Clio 和 Ellie 同样痛苦，只是方式不同；她们敞开胸怀接纳了她",
+      "verbatim": "But leaving Clio and Ellie would be equally painful, though in a very different way. They had welcomed her into their hearts and their family with open arms."
+    },
+    {
+      "n": 145,
+      "lines": "249",
+      "who": "Cynthia",
+      "did": "她对 Ellie 说：你太纯真赤诚，不该待在不会珍惜这份珍宝的人群里",
+      "verbatim": "‘You are far too pure and true of heart to be around people who would never appreciate such a treasure in their midst.’"
+    },
+    {
+      "n": 146,
+      "lines": "252",
+      "who": "Ellie",
+      "did": "Ellie 说：真希望你不用走，Cyn；嗓音哽咽，用手捂住嘴唇摇头",
+      "verbatim": "‘I wish you didn’t need to leave, Cyn.’ Ellie’s voice thickened with emotion as she pressed her hand against her lips and shook her head."
+    },
+    {
+      "n": 147,
+      "lines": "252",
+      "who": "Ellie",
+      "did": "她自嘲是爱哭鬼（watering pot），提议至少帮 Cynthia 把房间打包",
+      "verbatim": "‘Such a silly watering pot! Come on. The least we can do is help you pack your room.’"
+    },
+    {
+      "n": 148,
+      "lines": "255",
+      "who": "Clio/Ellie",
+      "did": "Clio 和 Ellie 又待了几个小时",
+      "verbatim": "Clio and Ellie stayed for another few hours."
+    },
+    {
+      "n": 149,
+      "lines": "255",
+      "who": "三人",
+      "did": "小物件包扎完毕后，姐妹女巫们用余下的探访时间帮 Cynthia 练习她的力量",
+      "verbatim": "Once Cynthia’s trinkets had been wrapped and packed, the sister-witches spent the rest of their visit helping Cynthia practise her powers."
+    },
+    {
+      "n": 150,
+      "lines": "255",
+      "who": "Cynthia",
+      "did": "她发现自己相当擅长移动物体：只出过几次小事故，就能一挑眉毛把花瓶从房间一头搬到另一头",
+      "verbatim": "She found she was quite adept at moving objects. With only a few mishaps, she could transport a vase from one side of the room to the other with no more than a flick of her eyebrow."
+    },
+    {
+      "n": 151,
+      "lines": "255",
+      "who": "Cynthia",
+      "did": "重的物体更难；几番尝试、夏日晴空里劈出一道杂散闪电之后，她把庞大的橡木衣柜挪动了整整三英寸",
+      "verbatim": "Heavier objects were more difficult, but after several attempts and a stray burst of lightning in the summery sky, she was able to shift the massive oak armoire three full inches."
+    },
+    {
+      "n": 152,
+      "lines": "258",
+      "who": "Clio",
+      "did": "Clio 相信 Cynthia 移物的能力系于她的元素之力",
+      "verbatim": "Clio believed Cynthia’s ability to transport objects was tied to her elemental power."
+    },
+    {
+      "n": 153,
+      "lines": "258",
+      "who": "叙述者/Clio",
+      "did": "Cynthia 是大地女巫，与构成世界的所有微粒不可撤销地相连——木料、瓷土与石英、熔成玻璃的热砂",
+      "verbatim": "She was an earthwitch, irrevocably linked to all the particles creating their world, which included the wood used to make tables and chairs, the clay and quartz comprising china, the heated sand that melted into glass."
+    },
+    {
+      "n": 154,
+      "lines": "258",
+      "who": "叙述者/Clio",
+      "did": "推论：Cynthia 家里的每件东西都取自大地元素，因此全都与她的力量相连",
+      "verbatim": "Every object in Cynthia’s house was taken from elements of the earth, therefore it was all connected to her power."
+    },
+    {
+      "n": 155,
+      "lines": "261",
+      "who": "Cynthia",
+      "did": "专注魔法让她不必去想 Helena：凝神于穿过身体的能量带、学着把它磨成聚焦的力",
+      "verbatim": "Focusing on her magic was a welcome distraction from thinking about Helena. While she was concentrating on the ribbon of energy running through her and learning to hone that into focused power"
+    },
+    {
+      "n": 156,
+      "lines": "261",
+      "who": "Cynthia（心声）",
+      "did": "心声：那时她没空隙去想象 Helena 在做什么、在想不想她、会不会也有一点想她",
+      "verbatim": "she had no space to imagine what Helena might be doing. Or wonder if she was thinking about Cynthia. Or hope Helena might be missing her just a little."
+    },
+    {
+      "n": 157,
+      "lines": "264",
+      "who": "Ellie",
+      "did": "Ellie 叮嘱她必须持续练习技艺——如同任何技能，越练越强；想想我们第一次来访时你能展示什么",
+      "verbatim": "‘You must continue to practise your craft, Cynthia. It’s like any skill. The more you train, the better you shall become. And just think what you’ll show us when we come for our first visit.’"
+    },
+    {
+      "n": 158,
+      "lines": "264",
+      "who": "Ellie",
+      "did": "提到 Cynthia 即将离开，Ellie 眼里又盈满泪，引发新一轮抽泣拥抱",
+      "verbatim": "Ellie’s eyes filled with tears at the reminder of Cynthia’s impending departure, which started another round of sniffling hugs."
+    },
+    {
+      "n": 159,
+      "lines": "267",
+      "who": "Clio",
+      "did": "Clio 说：我们得走了；我答应 Rowan 姑妈今天下午去药铺帮工，而你还有货要送，Ellie",
+      "verbatim": "‘We must go. I promised Aunt Rowan I would work at the apothecary this afternoon, and you have deliveries to make, Ellie.’"
+    },
+    {
+      "n": 160,
+      "lines": "267",
+      "who": "Clio",
+      "did": "Clio 平静的嗓音掩饰不住她金色眼睛里迸发的情绪",
+      "verbatim": "Clio’s calm voice belied the emotions sparking in her golden eyes."
+    },
+    {
+      "n": 161,
+      "lines": "270",
+      "who": "Clio/Ellie",
+      "did": "两人离开，各自许诺：一个舞会上见 Cynthia，另一个等药铺夏季忙季一过就去乡下看她",
+      "verbatim": "Clio and Ellie left with promises from one to see Cynthia at the ball, and from the other to visit her in the country as soon as the busy summer season at the apothecary slowed."
+    },
+    {
+      "n": 162,
+      "lines": "273",
+      "who": "Cynthia",
+      "did": "Cynthia 决意在伦敦的最后几天不去想 Helena，思绪却仍不受控地飘向那个红发海妖",
+      "verbatim": "Cynthia determined to focus on anything other than Helena for her last few days in London, but she found her thoughts wandering to the red-haired siren despite her best efforts."
+    },
+    {
+      "n": 163,
+      "lines": "276",
+      "who": "Cynthia",
+      "did": "她说（或想）：要是我不用走就好了；要是你有勇气承认你爱我就好了",
+      "verbatim": "‘If only I didn’t have to leave. If only you could find the courage to admit you love me.’"
+    },
+    {
+      "n": 164,
+      "lines": "276",
+      "who": "Cynthia（心声）",
+      "did": "她想起 Helena 的母亲曾经调制的爱情魔药，自问：若能拿到那种魔法，她会用吗",
+      "verbatim": "She thought of the love potion Helena’s mother once made. If she had access to such magic, would she use it?"
+    },
+    {
+      "n": 165,
+      "lines": "279",
+      "who": "Cynthia",
+      "did": "她被这个念头惊退：绝不能用窃取自由意志的魔药诅咒她所爱的女人",
+      "verbatim": "She recoiled from the idea. Cynthia could never hex the woman she loved with a potion stealing her free will."
+    },
+    {
+      "n": 166,
+      "lines": "279",
+      "who": "Cynthia（心声）",
+      "did": "心声：Cynthia 大半生没什么选择，才刚开始懂得个人自主的力量",
+      "verbatim": "Cynthia had lived most of her life with few choices. She was just beginning to understand the power of personal autonomy."
+    },
+    {
+      "n": 167,
+      "lines": "279",
+      "who": "Cynthia（心声）",
+      "did": "心声：以爱为名夺走任何人的自主都是她永远不会犯的罪",
+      "verbatim": "The devastation of stripping that away from anyone, even in the name of love, was a crime she could never commit."
+    },
+    {
+      "n": 168,
+      "lines": "282",
+      "who": "Cynthia（心声）",
+      "did": "心声：难怪 Helena 害怕把心主动交给别人；她无法责怪那种恐惧",
+      "verbatim": "No wonder Helena was terrified to willingly give her heart to another. Cynthia could hardly blame her for her fears."
+    },
+    {
+      "n": 169,
+      "lines": "282",
+      "who": "Cynthia（心声）",
+      "did": "心声：但这丝毫不能减轻『永远无法与唯一所爱在一起』的痛",
+      "verbatim": "But it didn’t lessen the pain of knowing she would never be with her one love."
+    },
+    {
+      "n": 170,
+      "lines": "282",
+      "who": "Cynthia（心声）",
+      "did": "心声：Rowan 姑妈是对的——哪怕 Helena 自己看不见——她们的灵魂交织在一起",
+      "verbatim": "Because Aunt Rowan was right. Even if Helena couldn’t see it. Their souls were intertwined."
+    },
+    {
+      "n": 171,
+      "lines": "285",
+      "who": "未署名（疑 Hamlet）",
+      "did": "无引号无 tag 的问句：灵魂伴侣拒绝你时会发生什么（说话人源文本未标明）",
+      "verbatim": "What happens when your soulmate rejects you?"
+    },
+    {
+      "n": 172,
+      "lines": "288",
+      "who": "未署名（疑 Cynthia）",
+      "did": "无引号无 tag 的答句：你会在 Cotswolds 创造新生活（全章收尾；说话人未标明）",
+      "verbatim": "You create a new life in the Cotswolds."
+    }
+  ],
+  "relationships_noted": [
+    {
+      "pair": "Cynthia ↔ Helena",
+      "rel": "Cynthia 已坠入爱河并当面承认；Helena 以誓言为由拒绝回爱（怕自己变得残酷可怖），提议维持友谊被 Cynthia 拒绝；两人灵魂被认为交织（Hamlet 与 Aunt Rowan 都这么说），Cynthia 离开 Blair House",
+      "verbatim": "I’ve fallen in love. With a woman who refuses to love me back.",
+      "lines": "47"
+    },
+    {
+      "pair": "Cynthia ↔ Hamlet",
+      "rel": "Hamlet 是 Helena 的使魔（狐狸），心灵传讯；Cynthia 深爱它、离开前最后抚摸它；离开 Helena 意味着也必须离开 Hamlet",
+      "verbatim": "And leaving Helena meant she also had to leave the witch’s familiar.",
+      "lines": "59"
+    },
+    {
+      "pair": "Hamlet ↔ Ophelia",
+      "rel": "狐狸与雪貂的一对（使魔眷侣），Cynthia 用『a fox and a ferret make more sense』自嘲人不如兽；Hamlet 说若 Ophelia 受惊他会留下",
+      "verbatim": "If Ophelia was scared, I would stay.",
+      "lines": "71"
+    },
+    {
+      "pair": "Helena ↔ 她的誓言",
+      "rel": "Helena 声称再多时间也改变不了她的誓言；她说拒绝既是自保也是保护 Cynthia",
+      "verbatim": "There is no amount of time that will change my oath.",
+      "lines": "86"
+    },
+    {
+      "pair": "Cynthia ↔ Clio",
+      "rel": "Clio 视 Cynthia 为『不靠血缘、靠魔法缔结』的妹妹，邀她加入女巫团、挽留、拥抱、承诺舞会支持；Cynthia 亲她的脸颊并用 Thomas 的类比让她理解自己为何必须走",
+      "verbatim": "You are my sister now. Maybe not by blood but bound by magic, which is just as powerful.",
+      "lines": "168"
+    },
+    {
+      "pair": "Cynthia ↔ Ellie",
+      "rel": "Ellie 温柔挽留、称 Cynthia 是『我们的一员』、帮打包帮练魔法；Cynthia 赞她心地纯真不该混迹上流圈；Ellie 自认配不上出席舞会",
+      "verbatim": "You are one of us. A coven is strongest together!",
+      "lines": "159"
+    },
+    {
+      "pair": "Cynthia ↔ Thomas",
+      "rel": "Thomas 是 Cynthia 的弟弟，娶了 Helena 的表妹——这条姻亲是 Helena 说『还会再见』的依据；Cynthia 说 Thomas 会向她通报调查进展",
+      "verbatim": "Your brother is married to my cousin, after all.",
+      "lines": "107"
+    },
+    {
+      "pair": "Cynthia ↔ Hubert（亡夫）",
+      "rel": "寡居的侯爵夫人；婚姻不幸十年（自孩提时代起就不快乐更久）；Hubert 虐待女仆、罪行不可原谅，却促使她建立救助女性的家园；她认为守丧两年都不必给他",
+      "verbatim": "Hubert doesn’t deserve two more years of my life. He’s already had ten.",
+      "lines": "231"
+    },
+    {
+      "pair": "Cynthia ↔ Devon 公爵夫人",
+      "rel": "公爵夫人戏剧成瘾、恩宠无常、嘴不严，但自 Cynthia 嫁 Hubert 起一直待她如友；邀请她出席夏季舞会、带裁缝为她量衣、称礼服为『divine retribution』；Clio 认为她算不上好朋友",
+      "verbatim": "She hasn’t always been the kindest friend, but she has been constant.",
+      "lines": "219"
+    },
+    {
+      "pair": "Cynthia ↔ Mrs Higgins",
+      "rel": "Mrs Higgins 向 Cynthia 提供被 Hubert 解雇的女仆名单，成为她救助计划的信息来源",
+      "verbatim": "Mrs Higgins provided me with a rather extensive list of maids who were fired by Hubert.",
+      "lines": "177"
+    },
+    {
+      "pair": "Cynthia ↔ Aunt Rowan",
+      "rel": "Rowan 姑妈主持了前夜的晚宴（Cynthia 请 Helena 代谢）；Rowan 曾断言 Helena 与 Cynthia 灵魂交织，Cynthia 如今认同她是对的；Clio 也答应 Rowan 下午去药铺帮工（Rowan 与 Clio 一家的关系本章未明说）",
+      "verbatim": "Because Aunt Rowan was right. Even if Helena couldn’t see it.",
+      "lines": "282"
+    },
+    {
+      "pair": "Cynthia ↔ Lily",
+      "rel": "Lily 仅作为『像 Lily 那样的女人』出现——Cynthia 的希望是帮助这类女性（Lily 是谁本章未交代）",
+      "verbatim": "Hope that she might help women like Lily.",
+      "lines": "198"
+    },
+    {
+      "pair": "Cynthia ↔ Clio/Ellie（女巫团）",
+      "rel": "Cynthia 自称不属于 Blair 女巫团，但两人坚持她是『我们的一员』并欢迎她加入；三人练魔法、拥抱、约定舞会与乡下再见",
+      "verbatim": "I’m not part of the Blair coven.",
+      "lines": "162"
+    },
+    {
+      "pair": "Cynthia ↔ 她的魔法",
+      "rel": "Cynthia 是新觉醒的大地女巫（earthwitch），擅长移物（花瓶一挑眉即过房间、橡木衣柜挪三英寸）；Clio 认为移物系于她与大地元素的联结",
+      "verbatim": "She was an earthwitch, irrevocably linked to all the particles creating their world",
+      "lines": "258"
+    },
+    {
+      "pair": "Clio ↔ Sir Robin",
+      "rel": "Sir Robin 是 Clio 的乌鸦，栖息她肩头，能以惊人准确度模仿她的神情与话语",
+      "verbatim": "her raven mimicking the expression with uncanny accuracy.",
+      "lines": "147"
+    },
+    {
+      "pair": "Ellie ↔ Ophelia",
+      "rel": "Ophelia 是 Ellie 的雪貂，从她裙子口袋里探头、绕上她脖颈；Ophelia 会冲 Cynthia 叽叽数落",
+      "verbatim": "Ophelia poked her head from a pocket in Ellie’s skirt and chittered what was clearly a rebuke at Cynthia.",
+      "lines": "165"
+    }
+  ],
+  "numbers_verbatim": [
+    {
+      "n": "章节号/页码 22",
+      "verbatim": "22",
+      "lines": "1,22"
+    },
+    {
+      "n": "Cynthia 问 Hamlet 会陪 Ophelia 多久：天？周？月？年？",
+      "verbatim": "‘For how long? Days? Weeks? Months? Years, perhaps?’",
+      "lines": "74"
+    },
+    {
+      "n": "Hamlet 的回答：她需要多久就多久",
+      "verbatim": "As long as she needed.",
+      "lines": "77"
+    },
+    {
+      "n": "Ellie 说给 Helena 几周就会回心转意",
+      "verbatim": "Give her a few weeks.",
+      "lines": "141"
+    },
+    {
+      "n": "Clio 凝视 Cynthia 许久",
+      "verbatim": "Clio held Cynthia’s gaze for a long moment.",
+      "lines": "186"
+    },
+    {
+      "n": "拥抱中的成员计数：三个含泪女巫、一只乱羽乌鸦、一只不爽雪貂",
+      "verbatim": "three tearful witches, a ruffled raven, and a disgruntled ferret.",
+      "lines": "189"
+    },
+    {
+      "n": "守丧期至少两年，而 Hubert 死了才一个月",
+      "verbatim": "I should remain in mourning for at least two years, and it’s barely been a month.",
+      "lines": "207"
+    },
+    {
+      "n": "Hubert 不值得再搭两年——他已拿走十年（婚姻）",
+      "verbatim": "Hubert doesn’t deserve two more years of my life. He’s already had ten.",
+      "lines": "231"
+    },
+    {
+      "n": "Clio 复述：十年是很长的不快乐",
+      "verbatim": "Ten years is a long time to be unhappy.",
+      "lines": "234"
+    },
+    {
+      "n": "Cynthia 的不快乐更久：从孩提时代起",
+      "verbatim": "Since I was a child, society demanded my submission.",
+      "lines": "237"
+    },
+    {
+      "n": "Clio 与 Ellie 又待了几小时",
+      "verbatim": "Clio and Ellie stayed for another few hours.",
+      "lines": "255"
+    },
+    {
+      "n": "练魔法只出过几次小事故",
+      "verbatim": "With only a few mishaps",
+      "lines": "255"
+    },
+    {
+      "n": "移动橡木衣柜整整三英寸（几次尝试之后）",
+      "verbatim": "after several attempts and a stray burst of lightning in the summery sky, she was able to shift the massive oak armoire three full inches.",
+      "lines": "255"
+    },
+    {
+      "n": "Clio 承诺下午去药铺帮工",
+      "verbatim": "I promised Aunt Rowan I would work at the apothecary this afternoon",
+      "lines": "267"
+    },
+    {
+      "n": "等药铺夏季忙季过去就去乡下看她",
+      "verbatim": "as soon as the busy summer season at the apothecary slowed",
+      "lines": "270"
+    },
+    {
+      "n": "Cynthia 在伦敦的最后几天",
+      "verbatim": "her last few days in London",
+      "lines": "273"
+    },
+    {
+      "n": "Cynthia 大半生少有选择",
+      "verbatim": "Cynthia had lived most of her life with few choices.",
+      "lines": "279"
+    }
+  ],
+  "unresolved_in_source": [
+    {
+      "id": "U1",
+      "q": "章末 L285/L288 两行无引号问答『What happens when your soulmate rejects you? / You create a new life in the Cotswolds.』说话人是谁？若是 Hamlet 传讯，Cynthia 已离开 Blair House，且第二场通篇未提 Hamlet 在场（L189 清点拥抱成员只有三女巫、乌鸦、雪貂）；若是 Cynthia 自问自答或叙述者修辞，源文本也未标明",
+      "evidence": "L285「What happens when your soulmate rejects you?」＋L288「You create a new life in the Cotswolds.」＋L189「three tearful witches, a ruffled raven, and a disgruntled ferret.」（无狐狸）",
+      "lines": "285,288,189"
+    },
+    {
+      "id": "U2",
+      "q": "L156『your uncle and my brother』——『your uncle』是谁的叔叔？此话回应 Ellie 的提问（L150），但屋内还有 Clio；Thomas 是 Cynthia 的弟弟有 L107/L243 佐证，叔叔的身份与归属本章无解",
+      "evidence": "L156「‘I’m sure your uncle and my brother need no help from me.」＋L107「Your brother is married to my cousin, after all.」",
+      "lines": "156,107"
+    },
+    {
+      "id": "U3",
+      "q": "L222『read their minds as easily as Hamlet’s』比较对象不完整：是『像 Hamlet（读心）那样容易』还是『像读 Hamlet 的心思那样容易』？本章从未说 Cynthia 能读任何人的心（Helena 在 L86 明说自己读不了），语法上两种解读都通",
+      "evidence": "L222「that had Cynthia wishing she could read their minds as easily as Hamlet’s.」＋L86「‘I might not be able to read either of your thoughts」",
+      "lines": "222,86"
+    },
+    {
+      "id": "U4",
+      "q": "Clio 的眼睛颜色前后不一：L174 写 amber eyes，L267 写 golden eyes——是同一双眼睛的两种修辞，还是笔误，源文本未澄清（Hamlet 的眼睛也是 golden，L53）",
+      "evidence": "L174「Clio inhaled as understanding bloomed in her amber eyes.」vs L267「Clio’s calm voice belied the emotions sparking in her golden eyes.」vs L53「Hamlet’s golden eyes widened.」",
+      "lines": "174,267,53"
+    },
+    {
+      "id": "U5",
+      "q": "L276『If only I didn’t have to leave. If only you could find the courage to admit you love me.』带引号却无 said 类 tag、无受话人在场——是 Cynthia 出声自语，还是引号化的心声？源文本不给判定依据（对比 L47 心声无引号、L38 心声场景对话有 tag）",
+      "evidence": "L276「‘If only I didn’t have to leave. If only you could find the courage to admit you love me.’ She thought of the love potion Helena’s mother once made.」",
+      "lines": "276"
+    },
+    {
+      "id": "U6",
+      "q": "Beachley 子爵谋杀案调查在本章只被提及（L104 祝 MacDougal 顺利、L156『调查怎么办』、L210 Clio 回忆），凶手与结局本章完全未交代；Cynthia 说 Thomas 会通报『the progress you make』——『you』指 Helena 一人还是 Helena 家全体，也未明说",
+      "evidence": "L104「I’m sure Thomas will keep me apprised of the progress you make.’」＋L210「when we were investigating Viscount Beachley’s murder.’」",
+      "lines": "104,210"
+    },
+    {
+      "id": "U7",
+      "q": "L270『promises from one... and from the other...』——『one / the other』未点名谁许了哪个诺。按 L246（Ellie 自认不会出席舞会）可推『舞会见』是 Clio、『乡下访』是 Ellie，但这是读者推断，源文本没有明写",
+      "evidence": "L270「Clio and Ellie left with promises from one to see Cynthia at the ball, and from the other to visit her in the country」＋L246「‘I wish I could attend. But I doubt I would fit in」",
+      "lines": "270,246"
+    }
+  ],
+  "traps_noted": [
+    {
+      "id": "T1",
+      "trap": "L38『You believe if you let yourself fall in love with me, you would become something cruel and monstrous?』——两个 you 都指 Helena：是 Helena 相信『她自己爱上 Cynthia 会让 Helena 变得残酷可怖』。中文稿极易写成『Cynthia 担心自己变可怕』或『Helena 认为 Cynthia 可怕』，方向全反；且这是 Cynthia 的复述性问句，回答『I know it.』（L41）是 Helena 把『believe』升级为『确知』，不是简单同意",
+      "lines": "38,41"
+    },
+    {
+      "id": "T2",
+      "trap": "L56/62/71/77/83 五条无引号斜体式心灵传讯全部是 Hamlet 说的，不是 Cynthia 的心声、也不是叙述者断言。尤其 L71『If Ophelia was scared, I would stay.』第一人称 I=Hamlet、she=Ophelia——若误归给 Cynthia，会读成『Cynthia 愿意为 Ophelia 留下』，与情节完全相反（她此刻正要离开）。判定依据是 L80 Cynthia 接话『a fox and a ferret』",
+      "lines": "56,62,71,77,80,83"
+    },
+    {
+      "id": "T3",
+      "trap": "L92『Can’t you understand? I’m doing this as much to protect you as myself. You don’t want me, Cynthia. Not really.』整句无说话人 tag——是 Helena 说的（句中直呼 Cynthia 之名可证），紧接 L95 Cynthia 反驳。中文稿极易把这无 tag 台词错归给 Cynthia（因 L89 是 Cynthia 的话），一错则 L95『You are rejecting me because you’re scared』就变成自相矛盾",
+      "lines": "89,92,95"
+    },
+    {
+      "id": "T4",
+      "trap": "L98 黑裙陷阱：Cynthia 穿上的 silky dinner gown 是黑色的（前夜赴宴的礼服），『She was so sick of wearing black, but today, the colour fit her mood』——她厌烦黑衣但今天黑衣正配心境（哀悼『本可能的希望』）。中文稿极易写成『她讨厌黑色所以换了颜色』或把『哀悼』误挂到 Hubert 身上；她哀悼的是与 Helena 的可能，不是亡夫",
+      "lines": "98"
+    },
+    {
+      "id": "T5",
+      "trap": "L59『she cannot live without you』——she=Helena、you=Hamlet：是 Helena 离不开 Hamlet（使魔），不是 Hamlet 离不开 Helena，更不是 Cynthia。同段三个 she 交替指 Cynthia 与 Helena（『she could be angry with Helena』的 she 是 Cynthia），逐句换指代",
+      "lines": "59"
+    },
+    {
+      "id": "T6",
+      "trap": "L107『Your brother is married to my cousin』是 Helena 对 Cynthia 说的：Cynthia 的弟弟（Thomas）娶了 Helena 的表妹。中文稿极易反写成『Helena 的弟弟娶了 Cynthia 的表妹』。另『Helena’s voice sounded suspiciously rusty』的 rusty 指嗓音沙哑（强忍泪），不是『可疑的生锈』",
+      "lines": "107"
+    },
+    {
+      "id": "T7",
+      "trap": "L104『the progress you make』——Thomas 向 Cynthia 通报的是『你（们）取得的进展』，即 Helena 一方参与调查的进展；不是 Thomas 自己的进展、也不是 Cynthia 的。施受方向：Thomas→通报→Cynthia，内容=you（Helena 侧）的进展",
+      "lines": "104"
+    },
+    {
+      "id": "T8",
+      "trap": "L44『The fates were spiteful bitches.』与 L47 整段无引号文字都是 Cynthia 的自由间接/直接心声，不是叙述者的客观断言；bitches 是 Cynthia 的粗口口吻。中文稿若写成叙述者评论『命运是贱人』会丢失视角归属；L44 的 not...until 结构：她『意识到真相』的时刻=两情相悦的可能破灭的时刻，二者同时，先后关系易写反",
+      "lines": "44,47"
+    },
+    {
+      "id": "T9",
+      "trap": "L213 整段『Yes, the duchess was fickle...』以 Yes/And yes 开头，是 Cynthia 心里对 Clio 指责（L210）的让步回应（自由间接），不是叙述者盖棺定论；其中『she set her sights on』的 she=公爵夫人（她盯上的男人没一个安全），『giving her an opportunity』的 her=Cynthia。段内 she/her 在公爵夫人与 Cynthia 之间至少切换四次",
+      "lines": "213"
+    },
+    {
+      "id": "T10",
+      "trap": "L198 段内『She had come by with her modiste to take some final measurements for Cynthia’s dress』——She=公爵夫人（不是 Cynthia 也不是裁缝），her modiste=公爵夫人的裁缝，量的是 Cynthia 的礼服；此句是追述（前文无铺垫，突兀插入对话段）。同段结尾『she had been a friend to Cynthia and she would miss her』——第一个 she=公爵夫人、第二个 she=Cynthia、her=公爵夫人：是 Cynthia 会想念公爵夫人，极易反写成公爵夫人想念 Cynthia",
+      "lines": "198"
+    },
+    {
+      "id": "T11",
+      "trap": "L231『two more years』与『ten』是两套数字：两年=按礼制应守的丧期，十年=她已经『给』Hubert 的十年不幸婚姻。中文稿极易混写成『他不值得她再守两年丧，他已经守了十年』——方向全错：是 Hubert 占用了她十年生命",
+      "lines": "231,234,207"
+    },
+    {
+      "id": "T12",
+      "trap": "L171『Tears stung her eyes』的 her=Cynthia（说话人），不是被称呼的 Clio——本句在引语前，代词先于 Clio 之名出现，易误挂。『If Thomas refused you, could you stay in his presence?』是反事实类比：假如 Thomas 拒绝了你（Clio），你还能待在他眼前吗——用 Clio 的处境映射自己被 Helena 拒绝，不是真的在问 Thomas 的事",
+      "lines": "171"
+    },
+    {
+      "id": "T13",
+      "trap": "L177『maids who were fired by Hubert』——by 定施事：解雇女仆的是 Hubert；『Women he doubtlessly abused』的 he 也是 Hubert，abused 是 Cynthia 的推断（doubtlessly 表她的确信，非事实宣判）。中文稿易把『被 Hubert 解雇』误写成『被 Mrs Higgins 解雇』（Mrs Higgins 只是名单提供者）",
+      "lines": "177"
+    },
+    {
+      "id": "T14",
+      "trap": "L132『’Forbid it!’ Sir Robin reiterated』——是 Clio 的乌鸦在学舌复读 Clio 的话（reiterated+鸟叫收尾），不是新说话人的独立命令；中文稿若给乌鸦单独立一条『Sir Robin 下令禁止』就夸大了。L147 乌鸦还在模仿 Clio 的表情",
+      "lines": "129,132,147"
+    },
+    {
+      "id": "T15",
+      "trap": "L138『A marchioness does not scamper. Even a widowed one.』——侯爵夫人（含寡居的）指 Cynthia 自己：她在反驳 Clio 用词『scamper』，同时自报身份是寡居侯爵夫人。易误写成 Clio 或第三人称的规矩",
+      "lines": "138"
+    },
+    {
+      "id": "T16",
+      "trap": "L141 双重否定+比较陷阱：『a sugar-pink summer frock that would look frilly and ridiculous on anyone other than the buxom blonde』——裙子换别人穿都可笑，只有 Ellie（buxom blonde）穿不显可笑，是夸 Ellie 不是损裙子。中文稿极易写成『裙子俗气得可笑』",
+      "lines": "141"
+    },
+    {
+      "id": "T17",
+      "trap": "L159 无 tag 台词『That’s not true...A coven is strongest together!』的说话人要靠 L165『Ellie muttered』回推为 Ellie（L156 Cynthia 说完后接话的只能是两位友人之一）；L162『I’m not part of the Blair coven.』才是 Cynthia。中文稿若把 L159 归给 Clio，与 L168 Clio 的正式邀请（『We would welcome you』）就重复矛盾",
+      "lines": "159,162,165,168"
+    },
+    {
+      "id": "T18",
+      "trap": "L189『three tearful witches』计数=3：Cynthia+Clio+Ellie（Cynthia 本人算女巫团姐妹），拥抱成员共五人组（另加乌鸦与雪貂）；中文稿易漏掉 Cynthia 数成两人。另 watering pot（L252）是 Ellie 自嘲爱哭，不是骂 Cynthia",
+      "lines": "189,252"
+    },
+    {
+      "id": "T19",
+      "trap": "L285/288 收尾问答无引号无 tag：问题『What happens when your soulmate rejects you?』若归给 Hamlet，须解释他如何在 Cynthia 离开 Blair House 后仍能传讯（第二场从未写他在场，L189 拥抱清点也无狐狸）；若归给 Cynthia 自问或叙述者修辞问，答案『You create a new life in the Cotswolds.』的第二人称 You 又指向谁？——中文稿在这里给任何一方安上『Hamlet 说/Cynthia 答』的标签都是超出文本的臆断，安全写法是保留『无署名问答』的悬置形态",
+      "lines": "285,288,189"
+    },
+    {
+      "id": "T20",
+      "trap": "L225 嵌套引号：单引号台词内的『“divine retribution”』是公爵夫人的原话（in her words 的 her=公爵夫人），形容那条礼服；中文稿易把『神的报应/天谴』误挂成 Cynthia 或 Ellie 的评语。L228 Ellie 接话『That sounds ominous』评的正是这个说法",
+      "lines": "225,228"
+    },
+    {
+      "id": "T21",
+      "trap": "L255『three full inches』是三英寸（约 7.6 厘米）不是三英尺；『a stray burst of lightning in the summery sky』是练魔法时杂散劈出的闪电（夏日晴空），中文稿易夸大成『雷暴』或漏掉『杂散/失控』意味。『no more than a flick of her eyebrow』——移花瓶只需一挑眉，轻描淡写与衣柜的吃力形成对比",
+      "lines": "255"
+    },
+    {
+      "id": "T22",
+      "trap": "L258 理论归属陷阱：『Clio believed Cynthia’s ability...was tied to her elemental power. She was an earthwitch...』——整套大地女巫解释是 Clio 的信念（believed 管到底），后两句 She=Cynthia；中文稿易写成叙述者的客观设定。L258 的『china』是瓷器（瓷土+石英），不是中国",
+      "lines": "258"
+    },
+    {
+      "id": "T23",
+      "trap": "L267『Clio’s calm voice belied the emotions sparking in her golden eyes』——belied=平静嗓音掩盖/背叛了眼中情绪（外表平静、内里翻涌），中文稿易反写成『嗓音透露出情绪』；且 her golden eyes 与 L174 amber eyes 的出入（见 U4）别自行统一成一个颜色",
+      "lines": "267,174"
+    },
+    {
+      "id": "T24",
+      "trap": "L219『She hasn’t always been the kindest friend, but she has been constant.』整句无 tag——是 Cynthia 说的（回应 Clio 在 L210 的批评、承接 L213-216 的心声），两个 she 都指公爵夫人；constant 在此是『始终在场/不变』的中性偏褒义，与 kindest 的让步关系易写丢",
+      "lines": "210,219"
+    },
+    {
+      "id": "T25",
+      "trap": "L35 悬垂同位语：『Cynthia’s world, moments ago a spinning, glittering dream, now disintegrated beneath a crashing wave of cold reality』——『旋转闪光的梦』修饰 world（她的世界曾是一场梦），不是修饰 Cynthia；disintegrate 的语法主语是 world。中文稿易写成『Cynthia 从梦中醒来』",
+      "lines": "35"
+    },
+    {
+      "id": "T26",
+      "trap": "L68『Hamlet jumped from the bed and circled her, his fluffy orange tail trailing against her bare legs』——his=Hamlet、两个 her=Cynthia：狐狸尾巴扫过的是 Cynthia 的裸腿（她正在穿紧身胸衣、尚未穿裙）。旁证：两人昨夜同床且 Cynthia 半裸起身；中文稿若把 her 误挂 Helena（Helena 也在床上、持床单遮胸），画面就错了",
+      "lines": "68,86"
+    },
+    {
+      "id": "T27",
+      "trap": "L86『I might not be able to read either of your thoughts』——Helena 自认读不了 Cynthia 和 Hamlet 两者的思想（either of your 复数指向两人），但听力没问题（她听见了 Hamlet 的传讯与 Cynthia 的问话）；这句同时坐实『前文无引号行是出声/传讯可闻的』。中文稿易漏掉 either 的双人指向，只写成『我读不了你的心思』",
+      "lines": "86"
+    },
+    {
+      "id": "T28",
+      "trap": "L50『soul-rendering』为原文拼写（通常作 soul-rending，撕裂灵魂）；引用时必须逐字保留 render 形态，不可『顺手修正』。同句『use the rage to fuel her escape』——愤怒是她主动用作燃料的工具，不是失控情绪",
+      "lines": "50"
+    },
+    {
+      "id": "T29",
+      "trap": "L110 三个『Not when...』排比全是 Cynthia 的自由间接心声（解释为何不能接受友谊），主语链条：her arms/her heart/her soul 都是 Cynthia 的，embrace/match/seek 的对象都是 Helena；『the beat within Helena’s breast』是 Helena 的心跳。中文稿易把第三个 Not when 误写成 Helena 的灵魂",
+      "lines": "110"
+    },
+    {
+      "id": "T30",
+      "trap": "L276-279 爱情魔药一段的代词雷区：『the love potion Helena’s mother once made』——魔药是 Helena 的母亲做的；『would she use it?』的 she=Cynthia（自问）；『hex the woman she loved with a potion stealing her free will』——she loved=Cynthia 爱，her free will=Helena 的自由意志。中文稿极易写成『Helena 会不会用药』或『Cynthia 的母亲做过药』",
+      "lines": "276,279"
+    },
+    {
+      "id": "T31",
+      "trap": "L156『I was only making a nuisance of myself』是 Cynthia 的自嘲（我在调查里只是添乱），不是别人对她的评价；L159『That’s not true』是 Ellie（推定）反驳这句自嘲。若把 L156 误写成他人批评、L159 误写成 Cynthia 自辩，对话方向就倒了",
+      "lines": "156,159"
+    },
+    {
+      "id": "T32",
+      "trap": "L129『You cannot scamper off to the country to lick your wounds』——scamper off（蹦跳着溜走）与 lick your wounds（舔伤口）都是 Clio 的口语化指责，scamper 一词在 L138 被 Cynthia 抓住反驳（侯爵夫人不 scamper）；中文稿若把 L138 的反驳与 L129 的原词脱钩，这段『用词之争』的趣味就丢了",
+      "lines": "129,138"
+    },
+    {
+      "id": "T33",
+      "trap": "L201『her enthusiasm was more inspired by the scandal the news would cause than anything else』——公爵夫人的热心主要冲着丑闻效应（比较级 more...than），但仍『pledged her unending support』；中文稿易写成纯粹善意或纯粹虚伪，原文是两者并存的讽刺笔调。wayward ladies 指走偏/失足的女性，非『任性小姐』",
+      "lines": "201"
+    }
+  ]
+}
