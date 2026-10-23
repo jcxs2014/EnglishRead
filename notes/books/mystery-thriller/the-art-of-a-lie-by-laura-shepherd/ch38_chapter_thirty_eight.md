@@ -158,33 +158,33 @@ modified: "2026-09-07"
 
 ### ⭐⭐⭐ 高级
 
-/ 词汇 / 释义 / 例句 /
-/------/------/------/
-/ authorises / 授权，批准 / authorises you to withdraw my money. /
-/ interminable / 冗长的，无休止的 / wait for a few interminable minutes. /
-/ mahogany / 红木，桃花心木 / eyeing the mahogany counter with impatience. /
-/ secreted / 隐藏，藏匿 / secreted the notes upon my person. /
-/ disarming / 使人消除敌意的，使人放松警惕的 / gave them my most disarming smile. /
+| 词汇 | 释义 | 例句 |
+| ------ | ------ | ------ |
+| authorises | 授权，批准 | authorises you to withdraw my money. |
+| interminable | 冗长的，无休止的 | wait for a few interminable minutes. |
+| mahogany | 红木，桃花心木 | eyeing the mahogany counter with impatience. |
+| secreted | 隐藏，藏匿 | secreted the notes upon my person. |
+| disarming | 使人消除敌意的，使人放松警惕的 | gave them my most disarming smile. |
 
 ### ⭐⭐ 进阶
 
-/ 词汇 / 释义 / 例句 /
-/------/------/------/
-/ gripped / 抓住，控制 / a moment of panic gripped me. /
-/ soberly / 严肃地，冷静地 / Hannah nodded rather soberly. /
-/ dazzled / 使眼花，使目眩 / the sunlight was so bright it dazzled me. /
-/ last-ditch / 最后的，孤注一掷的 / make a last-ditch effort to change his mind. /
-/ pregnant / 充满的，意味深长的 / a tone pregnant with dark intent. /
+| 词汇 | 释义 | 例句 |
+| ------ | ------ | ------ |
+| gripped | 抓住，控制 | a moment of panic gripped me. |
+| soberly | 严肃地，冷静地 | Hannah nodded rather soberly. |
+| dazzled | 使眼花，使目眩 | the sunlight was so bright it dazzled me. |
+| last-ditch | 最后的，孤注一掷的 | make a last-ditch effort to change his mind. |
+| pregnant | 充满的，意味深长的 | a tone pregnant with dark intent. |
 
 ### ⭐ 基础
 
-/ 词汇 / 释义 / 例句 /
-/------/------/------/
-/ letter / 信 / held out the letter. /
-/ money / 钱 / withdraw my money. /
-/ shop / 店铺 / call in at the shop. /
-/ night / 夜晚 / stay overnight. /
-/ room / 房间 / my rooms. /
+| 词汇 | 释义 | 例句 |
+| ------ | ------ | ------ |
+| letter | 信 | held out the letter. |
+| money | 钱 | withdraw my money. |
+| shop | 店铺 | call in at the shop. |
+| night | 夜晚 | stay overnight. |
+| room | 房间 | my rooms. |
 
 ## 一句话总结
 本章是 Billy 的"不安"——Hannah 给 Billy 授权信让他去银行取钱。Billy 去银行取钱后准备逃离伦敦，但 Fielding 拦住了他。Billy 的"不安"是真实的，他意识到"危机"可能才刚刚开始。

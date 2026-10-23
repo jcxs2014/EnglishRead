@@ -59,7 +59,7 @@ modified: "2026-09-07"
 
 **中文理解**："我是否可以理解为你正在寻求将业务扩展到其他领域？""我确实是，"我说。"科尔先生曾提出在这方面帮助我们，但他的不恰好在我们的交易取得成果之前就终止了我们的关系。"
 
-**关键词**：prolong our time together（延长我们在一起的时间）/ spun my story out（把故事编得更长）/ aghast（惊讶）/ prior engagement（先前的约定）
+**关键词**：expand your business（拓展生意）/ other quarters（别的门路）/ untimely demise（英年早逝）/ dealings（往来交易）
 
 **为什么这样写**：Billy 邀请 Hannah——"spun my story out"（把故事编得更长）暗示 Billy 的"编造"。"aghast"（惊讶）暗示 Hannah 的"震惊"。
 
@@ -145,17 +145,7 @@ modified: "2026-09-07"
 
 **读者视角提示**：注意 Billy 说的是"She was a natural！"（她是个天才！）——这种措辞暗示 Billy 对 Hannah 的"欣赏"。
 
-> **原句 14:** 'Oh, indeed we can,' Banks declared happily. 'When it comes to the laws against gaming - forgive me, madam - Parliament is an ass! Happily many of our magistrates believe that too. One or two of them even own gaming establishments themselves. Given the right inducement, which I should be pleased to facilitate for a small fee, those gentlemen will ensure that I learn about any imminent raid upon your establishment.'
-
-**中文理解**："哦，我们当然可以，"班克斯高兴地宣布。"谈到反对赌博的法律——请夫人原谅——议会是一头驴！很高兴我们的许多法官也这么认为。其中一两个甚至自己拥有赌场。在适当的诱导下，我很乐意收取少量费用来促成，那些绅士们将确保我了解任何即将对你的场所进行的突袭。"
-
-**关键词**：Parliament is an ass（议会是一头驴）/ inducement（诱导）/ facilitate（促成）/ imminent raid（即将进行的突袭）
-
-**为什么这样写**：Banks 的"腐败"——"Parliament is an ass"（议会是一头驴）暗示 Banks 对"法律"的"鄙视"。"inducement"（诱导）暗示 Banks 的"贿赂"。
-
-**读者视角提示**：注意 Billy 说的是"forgive me, madam"（请夫人原谅）——这种措辞暗示 Banks 的"礼貌"是"虚伪"的。
-
-> **原句 15:** 'You can guarantee it?' I said. 'That we'll never be raided without advance warning?' Banks pulled a sorrowful face. 'Alas, there are never any guarantees. A few of the Westminster magistrates are men of a reforming nature. And Henry Fielding has whipped them into a lather. Then there are the ambitious fellows eager to curry favour with the ministry.'
+> **原句 14:** 'You can guarantee it?' I said. 'That we'll never be raided without advance warning?' Banks pulled a sorrowful face. 'Alas, there are never any guarantees. A few of the Westminster magistrates are men of a reforming nature. And Henry Fielding has whipped them into a lather. Then there are the ambitious fellows eager to curry favour with the ministry.'
 
 **中文理解**："你能保证吗？"我说。"我们永远不会在没有提前警告的情况下被突袭？"班克斯露出一副悲伤的表情。"唉，从来没有保证。威斯敏斯特的一些法官是改革者。亨利·菲尔丁已经把他们激怒了。还有一些急于讨好部长的野心家。"
 
@@ -165,7 +155,7 @@ modified: "2026-09-07"
 
 **读者视角提示**：注意 Billy 说的是"Henry Fielding has whipped them into a lather"（亨利·菲尔丁已经把他们激怒了）——这种措辞暗示 Fielding的"影响力"。
 
-> **原句 16:** 'It all sounds very reasonable to me,' I said. 'But if we are to do business together, I shall require something more from you. I'd like to know the name of every gaming-house owner on your books, and every man on the Westminster bench who has taken your bribes.'
+> **原句 15:** 'It all sounds very reasonable to me,' I said. 'But if we are to do business together, I shall require something more from you. I'd like to know the name of every gaming-house owner on your books, and every man on the Westminster bench who has taken your bribes.'
 
 **中文理解**："这一切对我来说都非常合理，"我说。"但如果我们要一起做生意，我需要你提供更多信息。我想知道你账本上每一个赌场老板的名字，以及威斯敏斯特法官席上每一个接受你贿赂的人的名字。"
 
@@ -175,7 +165,7 @@ modified: "2026-09-07"
 
 **读者视角提示**：注意 Billy 说的是"I'd like to know the name"（我想知道名字）——这种措辞暗示 Billy 的"要求"是"直接"的。
 
-> **原句 17:** Banks laughed. 'I cannot oblige you there, sir. My associates insist upon my utmost discretion.' 'And yet I insist that we exist upon terms of perfect honesty,' I said. 'Allow me to go first. I regret to say that we have lied to you. I am not in the wine trade, and my name is not Canning. This good lady is not my wife. Her name is Mrs Cole, the widow of your late partner.'
+> **原句 16:** Banks laughed. 'I cannot oblige you there, sir. My associates insist upon my utmost discretion.' 'And yet I insist that we exist upon terms of perfect honesty,' I said. 'Allow me to go first. I regret to say that we have lied to you. I am not in the wine trade, and my name is not Canning. This good lady is not my wife. Her name is Mrs Cole, the widow of your late partner.'
 
 **中文理解**：班克斯笑了。"先生，我不能满足你的要求。我的同事们坚持要求我绝对谨慎。""但我坚持我们建立在完全诚实的基础上，"我说。"让我先说。我很遗憾地对你说，我们对您撒了谎。我不是做葡萄酒生意的，我的名字不是坎宁。这位女士不是我的妻子。她的名字是科尔太太，你已故合伙人的遗孀。"
 
@@ -185,7 +175,7 @@ modified: "2026-09-07"
 
 **读者视角提示**：注意 Billy 说的是"Allow me to go first"（让我先说）——这种措辞暗示 Billy 的"控制"。
 
-> **原句 18:** Banks paled visibly. 'I had nothing to do with his murder.' 'I believe you,' I said. 'But what matters is what Fielding believes. Even if he accepts your pleas of innocence, there's still the small matter of your misconduct in public office. If Fielding can't hang you for it, he'll certainly have you dismissed.'
+> **原句 17:** Banks paled visibly. 'I had nothing to do with his murder.' 'I believe you,' I said. 'But what matters is what Fielding believes. Even if he accepts your pleas of innocence, there's still the small matter of your misconduct in public office. If Fielding can't hang you for it, he'll certainly have you dismissed.'
 
 **中文理解**：班克斯明显地脸色发白。"我与他的谋杀无关。""我相信你，"我说。"但重要的是菲尔丁相信什么。即使他接受你的无罪恳求，还有你在公职不当行为的小事。如果菲尔丁不能因此绞死你，他肯定会解雇你。"
 
@@ -195,7 +185,7 @@ modified: "2026-09-07"
 
 **读者视角提示**：注意 Billy 说的是"If Fielding can't hang you for it"（如果菲尔丁不能因此绞死你）——这种措辞暗示 Billy 的"威胁"是"直接"的。
 
-> **原句 19:** The prospect of unemployment and the shadow of the gallows tree seemed to make up Banks's mind. Taking a little book and a pencil from his coat pocket, he wrote studiously for a few minutes. Tearing out the page, he handed it to me. I studied it for a moment, being familiar with most of the names of the gamesters and magistrates on the list.
+> **原句 18:** The prospect of unemployment and the shadow of the gallows tree seemed to make up Banks's mind. Taking a little book and a pencil from his coat pocket, he wrote studiously for a few minutes. Tearing out the page, he handed it to me. I studied it for a moment, being familiar with most of the names of the gamesters and magistrates on the list.
 
 **中文理解**：失业的前景和绞刑架的阴影似乎让班克斯下定了决心。他从口袋里拿出一本书和一支铅笔，认真地写了几分钟。撕下那一页，他递给了我。我研究了一会儿，对名单上大多数赌徒和法官的名字都很熟悉。
 
@@ -205,7 +195,7 @@ modified: "2026-09-07"
 
 **读者视角提示**：注意 Billy 说的是"being familiar with most of the names"（对大多数名字都很熟悉）——这种措辞暗示 Billy 的"知识"。
 
-> **原句 20:** Hannah fixed Banks with a hard stare. 'If I were you, sir, I'd keep to honest work from now on. You don't want to end up like my poor husband.' Doubting that Banks would follow her advice, I escorted Hannah back across the rotunda.
+> **原句 19:** Hannah fixed Banks with a hard stare. 'If I were you, sir, I'd keep to honest work from now on. You don't want to end up like my poor husband.' Doubting that Banks would follow her advice, I escorted Hannah back across the rotunda.
 
 **中文理解**：汉娜用严厉的目光盯着班克斯。"如果我是你，先生，我会从现在开始做诚实的工作。你不会想和我可怜的丈夫一样下场。"我怀疑班克斯会听从她的建议，我护送汉娜穿过圆形大厅。
 
@@ -215,7 +205,7 @@ modified: "2026-09-07"
 
 **读者视角提示**：注意 Billy 说的是"Doubting that Banks would follow her advice"（我怀疑班克斯会听从她的建议）——这种措辞暗示 Billy 对 Banks 的"不信任"。
 
-> **原句 21:** 'For a man unaccustomed to lying, Mr Devereux, you are remarkably good at it.' 'You were rather adept yourself,' I said. 'What perfect sinners we are.' She gazed at me rather anxiously. 'We must give that list of names to Henry Fielding.'
+> **原句 20:** 'For a man unaccustomed to lying, Mr Devereux, you are remarkably good at it.' 'You were rather adept yourself,' I said. 'What perfect sinners we are.' She gazed at me rather anxiously. 'We must give that list of names to Henry Fielding.'
 
 **中文理解**："对于一个不习惯撒谎的人来说，德弗罗先生，你非常擅长。""你自己也很熟练，"我说。"我们是多么完美的罪人。"她焦虑地凝视着我。"我们必须把那份名单交给亨利·菲尔丁。"
 
@@ -225,7 +215,7 @@ modified: "2026-09-07"
 
 **读者视角提示**：注意 Billy 说的是"What perfect sinners we are"（我们是多么完美的罪人）——这种措辞暗示 Billy 的"讽刺"。
 
-> **原句 22:** 'I concur,' I said. 'But I think it would be a mistake for you to give it to him. He may suspect that you had knowledge of Jonas's corruption. It might make him more inclined to confiscate the money, rather than less. Whereas I could talk to him, gentleman to gentleman, on your behalf.'
+> **原句 21:** 'I concur,' I said. 'But I think it would be a mistake for you to give it to him. He may suspect that you had knowledge of Jonas's corruption. It might make him more inclined to confiscate the money, rather than less. Whereas I could talk to him, gentleman to gentleman, on your behalf.'
 
 **中文理解**："我同意，"我说。"但我认为你把它交给他是个错误。他可能怀疑你知道乔纳斯的腐败。这可能使他更倾向于没收钱，而不是更少。而我可以代表你和他谈谈，绅士对绅士。"
 
@@ -235,7 +225,7 @@ modified: "2026-09-07"
 
 **读者视角提示**：注意 Billy 说的是"I think it would be a mistake"（我认为这是个错误）——这种措辞暗示 Billy 的"控制欲"。
 
-> **原句 23:** 'Of course I will,' I said, as we emerged from the rotunda into the moonlight. 'How will you tell him that you came by those names? If you intend to keep that young rogue out of it?' I waved a hand. 'I'll think of something. Now I promised that I'd take you home directly, and I always keep my word.'
+> **原句 22:** 'Of course I will,' I said, as we emerged from the rotunda into the moonlight. 'How will you tell him that you came by those names? If you intend to keep that young rogue out of it?' I waved a hand. 'I'll think of something. Now I promised that I'd take you home directly, and I always keep my word.'
 
 **中文理解**："当然，"我说，当我们从圆形大厅走到月光下时。"你会告诉他你是怎么得到那些名字的？如果你想让那个年轻的流氓置身事外？"我挥了挥手。"我会想出办法的。现在我说过我会直接带你回家，我总是信守诺言。"
 
@@ -245,7 +235,7 @@ modified: "2026-09-07"
 
 **读者视角提示**：注意 Billy 说的是"I always keep my word"（我总是信守诺言）——这种措辞暗示 Billy 的"讽刺"。
 
-> **原句 24:** 'It is hardly your fault,' she said, though that note of anxiety had crept back into her voice. 'Be sure to come and find us the moment the blockage is cleared,' I instructed Tom. 'Mrs Cole and I will be by the canal. If we are forced to wait, it might as well be with wine in our hands.'
+> **原句 23:** 'It is hardly your fault,' she said, though that note of anxiety had crept back into her voice. 'Be sure to come and find us the moment the blockage is cleared,' I instructed Tom. 'Mrs Cole and I will be by the canal. If we are forced to wait, it might as well be with wine in our hands.'
 
 **中文理解**："这不是你的错，"她说，尽管焦虑的语气又回到了她的声音里。"一堵车就马上来找我们，"我指示汤姆。"科尔太太和我会在运河边。如果我们被迫等待，不如手里拿着酒。"
 
@@ -255,7 +245,7 @@ modified: "2026-09-07"
 
 **读者视角提示**：注意 Billy 说的是"it might as well be with wine in our hands"（不如手里拿着酒）——这种措辞暗示 Billy 的"浪漫"情怀。
 
-> **原句 25:** I offered Hannah my arm again and we walked back into the garden. The wind stirred the lanterns in the trees, starlight and music to arouse the passions. Easy as getting a dog to lick a dish.
+> **原句 24:** I offered Hannah my arm again and we walked back into the garden. The wind stirred the lanterns in the trees, starlight and music to arouse the passions. Easy as getting a dog to lick a dish.
 
 **中文理解**：我再次向汉娜伸出手臂，我们走回了花园。风吹动了树上的灯笼，星光和音乐激发了激情。就像让狗舔盘子一样容易。
 
