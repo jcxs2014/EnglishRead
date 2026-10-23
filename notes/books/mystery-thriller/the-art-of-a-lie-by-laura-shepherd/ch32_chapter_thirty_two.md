@@ -86,6 +86,8 @@ modified: "2026-09-07"
 
 > **原句 8:** How even as I'd built her confidence back up, there was a part of her that remained unknowable, a missing piece that I couldn't quite put my finger on.
 
+**中文理解**：Billy 看出，即便自己把她的自信一点点补回来，她身上仍有一块他摸不透的地方，像缺了一角。他第一次承认自己读不全这个“猎物”，这句也为后文她的隐瞒埋线。
+
 **关键词**：built her confidence back up（重建她的信心）/ remained unknowable（仍然不可知）/ missing piece（缺失的部分）/ put my finger on（指出）
 
 **为什么这样写**：Billy 的"困惑"——"remained unknowable"暗示 Billy 的"困惑"。"missing piece"暗示 Hannah 的"复杂"。
@@ -93,6 +95,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"there was a part of her that remained unknowable"——这种措辞暗示 Billy 对 Hannah 的"感情"是"真实"的。
 
 > **原句 9:** Occasionally she said things that caught me off-guard. 'Life leaves scars on the soul as well as the body,' she'd told me once, as she'd traced the line of knitted tissue on my knee.
+
+**中文理解**：她偶尔会说些让他猝不及防的话，比如一边摸着他膝盖上的疤，一边说生活不只给身体留疤，也给灵魂留疤。Billy 一时接不上——她看人的方式比他想得深。
 
 **关键词**：caught me off-guard（让我猝不及防）/ scars on the soul（灵魂上的伤疤）/ traced the line（沿着线条抚摸）/ knitted tissue（编织组织/疤痕）
 
@@ -102,6 +106,8 @@ modified: "2026-09-07"
 
 > **原句 10:** 'It's the knocks that make up a man,' I'd told her blithely.
 
+**中文理解**：Billy 只轻快地回一句：人就是被这些磕碰打出来的。他用俏皮话挡开她的认真，也挡开自己不愿碰的记忆；两人的分量在这里并不对等。
+
 **关键词**：knocks that make up a man（塑造男人的打击）/ blithely（愉快地）
 
 **为什么这样写**：Billy 的"轻浮"——"blithely"暗示 Billy 的"轻浮"。"knocks that make up a man"暗示 Billy 的"过去"。
@@ -109,6 +115,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"I'd told her blithely"——这种措辞暗示 Billy 的"轻浮"是"刻意"的。
 
 > **原句 11:** Hannah's unplumbed depths might have occasioned me more concern, but I was in no doubt about her feelings. I'd never told her that I loved her, never said those words out loud to any woman - not since Hackney.
+
+**中文理解**：她那些没探到底的地方本可以让他更担心，但他对她的感情并不怀疑。他从未对她说过“我爱你”，也从未对任何女人说过——自 Hackney 之后就没有。这句把“他不动真心”和“他其实动了一点”同时摆出来。
 
 **关键词**：unplumbed depths（深不可测的深度）/ occasioned me more concern（引起我更多关注）/ in no doubt about her feelings（对她的感情毫不怀疑）/ not since Hackney（自从哈克尼以来）
 
@@ -118,6 +126,8 @@ modified: "2026-09-07"
 
 > **原句 12:** I didn't tell Tom how it gnawed at me. Seeing her in the shop, all flushed with her success. Imagining her sitting in some dark little house, having lost the shop because of me.
 
+**中文理解**：他没告诉 Tom，这件事怎样啃着他：看见她在店里因生意成功而容光焕发，又想象她日后坐在某间昏暗小屋里，因为他的缘故丢掉店铺。骗子的算计里第一次掺进了内疚。
+
 **关键词**：gnawed at me（折磨我）/ flushed with her success（因成功而脸红）/ dark little house（黑暗的小房子）/ lost the shop because of me（因为我而失去店铺）
 
 **为什么这样写**：Billy 的"内疚"——"gnawed at me"暗示 Billy 的"内疚"。"lost the shop because of me"暗示 Billy 的"自责"。
@@ -125,6 +135,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"I didn't tell Tom how it gnawed at me"——这种措辞暗示 Billy 的"内疚"是"真实"的。
 
 > **原句 13:** After his first visit, when Musgrave had told me that he hadn't killed Cole, I'd wondered if he was telling me the truth. That alibi might have been cogged, and if I could prove it, then it might be a route out of all this mess.
+
+**中文理解**：Musgrave 第一次来访时说 Cole 不是他杀的，Billy 当时就在猜这是不是真话；那份不在场证明可能是伪造的，只要证得出来，他就有机会从这个局里脱身。这让他开始私下查 Musgrave。
 
 **关键词**：telling me the truth（告诉我真相）/ alibi might have been cogged（不在场证明可能是伪造的）/ route out of all this mess（摆脱这一切困境的途径）
 
@@ -134,6 +146,8 @@ modified: "2026-09-07"
 
 > **原句 14:** I found Banks laid out on his bed covered in flies. Musgrave hadn't crucified him, like the stories said. He'd skinned that poor fuckster alive.
 
+**中文理解**：他找到 Banks 时，人躺在床上，满身苍蝇；Musgrave 并没有像传言那样把他钉上十字架，而是把这可怜虫活活剥了皮。威胁从口头变成了看得见的尸体。
+
 **关键词**：laid out on his bed（躺在床上）/ covered in flies（覆盖着苍蝇）/ crucified（被钉十字架）/ skinned that poor fuckster alive（活活剥了那个可怜的家伙的皮）
 
 **为什么这样写**：Musgrave 的"残忍"——"skinned that poor fuckster alive"暗示 Musgrave 的"残忍"。"covered in flies"暗示 Musgrave 的"恐怖"。
@@ -141,6 +155,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"He'd skinned that poor fuckster alive"——这种措辞暗示 Musgrave 的"残忍"是"极端"的。
 
 > **原句 15:** If anything had concentrated my mind on the job, then it was that. What other choice did I have? Musgrave didn't make threats lightly. If I let him down, then nowhere in England would be safe for me.
+
+**中文理解**：正是这一幕让他彻底收心干活：他还有什么选择？Musgrave 不轻易放狠话，一旦让此人失望，英格兰境内再没有他容身之处。恐惧成了他继续行骗的理由。
 
 **关键词**：concentrated my mind on the job（把心思集中在工作上）/ didn't make threats lightly（不轻易威胁）/ let him down（让他失望）/ nowhere in England would be safe（英格兰没有安全的地方）
 
@@ -150,6 +166,8 @@ modified: "2026-09-07"
 
 > **原句 16:** All our tricks had played out like a charm: Arcadia, implausible profits, the world dying to get in on the act. A greedy woman would have been begging William Devereux to pull some strings and get her a piece of it.
 
+**中文理解**：他们所有的把戏都奏效：Arcadia 的名头、离谱的利润、人人抢着入局。换个贪心的女人，早就求 William Devereux 走门路分她一份了。
+
 **关键词**：played out like a charm（大获成功）/ implausible profits（难以置信的利润）/ world dying to get in on the act（全世界都想参与）/ pull some strings（走后门）/ get her a piece of it（分她一杯羹）
 
 **为什么这样写**：Billy 的"骄傲"——"played out like a charm"暗示 Billy 的"骄傲"。"implausible profits"暗示 Billy 的"狡猾"。
@@ -157,6 +175,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"A greedy woman would have been begging"——这种措辞暗示 Billy 对 Hannah 的"欣赏"。
 
 > **原句 17:** But Hannah was more cautious, and so at Lord Richard's supper, we'd played a longer game, the Rope unfurling loop by loop to draw her in. Money as a means to an end. The house next door, a bigger shop.
+
+**中文理解**：可 Hannah 更谨慎，于是在 Lord Richard 的晚宴上，他们改放长线，把“绳子”一圈圈松开引她靠近：钱只是手段，隔壁的房子、更大的店面才是钩子。
 
 **关键词**：more cautious（更谨慎）/ longer game（更长的游戏）/ Rope unfurling loop by loop（绳索一圈一圈展开）/ draw her in（引诱她）/ means to an end（达到目的的手段）
 
@@ -166,6 +186,8 @@ modified: "2026-09-07"
 
 > **原句 18:** Darling Teddy. Tom had found that little angel at Covent Garden, begging with a woman who claimed to be his mother. I suspected she'd bought or hired him, and she was eager enough to sub-let him to us for the right price.
 
+**中文理解**：“亲爱的 Teddy”是 Tom 在 Covent Garden 找到的小天使，当时正跟着一个自称是他母亲的女人讨钱。Billy 疑心那孩子是买来或租来的，而那女人只要价钱合适，很乐意把孩子转租给他们。
+
 **关键词**：little angel（小天使）/ claimed to be his mother（声称是他的母亲）| sub-let him to us（把他转租给我们）
 
 **为什么这样写**：Billy 的"冷酷"——"sub-let him to us"暗示 Billy 的"冷酷"。"claimed to be his mother"暗示 Billy 的"怀疑"。
@@ -173,6 +195,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"I suspected she'd bought or hired him"——这种措辞暗示 Billy 的"经验"是"丰富"的。
 
 > **原句 19:** Older than he looked, already a skilled little prig, he'd done everything we'd asked and more. When Hannah had held him in her arms in the gardens of that mansion at Kensington Gore, I'd known this would be our Rope if Arcadia failed.
+
+**中文理解**：这孩子比看上去大，已经是个熟练的小滑头，他们交代的事他做得比要求还多。当 Hannah 在 Kensington Gore 那幢宅子的花园里把他抱在怀里时，Billy 就知道：万一 Arcadia 失败，这孩子就是他们的“绳子”。
 
 **关键词**：skilled little prig（熟练的小偷）/ held him in her arms（把他抱在怀里）/ Kensington Gore（肯辛顿戈尔）
 
@@ -182,6 +206,8 @@ modified: "2026-09-07"
 
 > **原句 20:** Dreams again. Motherhood and me. I'm not sure I'd even needed that big house. I could have taken her to a little cottage on Well Walk and she'd have reacted just the same.
 
+**中文理解**：又是梦：母爱与他。他甚至觉得未必需要那幢大房子——把她带到 Well Walk 上一间小屋，她的反应也会一样。这句说明他的整个算计依赖的正是她对孩子的渴望。
+
 **关键词**：Motherhood and me（母性和我）/ big house（大房子）/ little cottage on Well Walk（威尔小屋）/ reacted just to the same（反应完全一样）
 
 **为什么这样写**：Billy 的"冷酷"——"reacted just the same"暗示 Billy 的"冷酷"。"Motherhood and me"暗示 Billy 的"操控"。
@@ -189,6 +215,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"I'm not sure I'd even needed that big house"——这种措辞暗示 Billy 的"操控"是"精心策划"的。
 
 > **原句 21:** That night I'd dreamed of my mother hunched in a cell, chained to the wall - and when she'd looked at me, she had the eyes of Hannah Cole.
+
+**中文理解**：那晚他梦见母亲蜷在牢房里、被锁在墙上，而当他看过去，她长着 Hannah Cole 的眼睛。梦境把母亲、Hannah 和绞索连成一条线，预告他最怕的结局。
 
 **关键词**<td>hunched in a cell（蜷缩在牢房里）/ chained to the wall（被锁在墙上）/ eyes of Hannah Cole（汉娜·科尔的眼睛）
 
@@ -198,6 +226,8 @@ modified: "2026-09-07"
 
 > **原句 22:** Despite everything - Hackney, Mitford Banks, Patrick Musgrave, the taste of that fucking iced cream - I'd only come close to losing it once. That night when Hannah had watched me in the mirror and caught sight of my mood.
 
+**中文理解**：尽管有 Hackney、Mitford Banks、Patrick Musgrave，还有那口该死的冰淇淋的味道，他只有一次差点失手——就是 Hannah 在镜子里看他、察觉到他情绪的那晚。
+
 **关键词**<td>come close to losing it once（只有一次差点失控）| caught sight of my mood（看到我的情绪）
 
 **为什么这样写**：Billy 的"自控"——"come close to losing it once"暗示 Billy 的"自控"。"caught sight of my mood"暗示 Hannah 的"观察力"。
@@ -205,6 +235,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"only come close to losing it once"——这种措辞暗示 Billy 对 Hannah 的"感情"是"真实"的。
 
 > **原句 23:** 'We could live anywhere in the world,' I'd said, and in that moment, I think I'd meant it. Just her and me, far away from Musgrave and the Black Lion and Tom and Amy and Henry Fielding.
+
+**中文理解**：那晚他说“我们可以住到世界任何地方”，说出口的一刻他觉得自己是真心的：只有她和他，远远离开 Musgrave、Black Lion、Tom、Amy 和 Henry Fielding。
 
 **关键词**<td>live anywhere in the world（住在世界任何地方）| meant it（认真的）/ far away from（远离）
 
@@ -214,6 +246,8 @@ modified: "2026-09-07"
 
 > **原句 24:** It was impossible, of course, even if I'd really wanted it, which was a joke. Hannah was my gull, my mark, flat as the fens - see how she danced! Yet my indiscipline that night had shocked me and I'd resolved no more.
 
+**中文理解**：这当然不可能，即便他真想要，那念头本身也是个笑话。Hannah 是他的“鸽子”、他的目标，平得像沼泽地——看她跳得多欢。但那晚自己的失控吓到了他，他决定不再有下次。
+
 **关键词**<td>gull（受骗者）/ mark（目标）| flat as the fens（像沼泽一样平坦）| indiscipline（不守纪律/放纵）| resolved no more（不再决心）
 
 **为什么这样写**：Billy 的"自嘲"——"gull, my mark"暗示 Billy 的"自嘲"。"indiscipline"暗示 Billy 的"自控"。
@@ -221,6 +255,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"which was a joke"——这种措辞暗示 Billy 的"自嘲"是"苦涩"的。
 
 > **原句 25:** Two days later, when I'd fashioned my noose - poor Teddy and his wicked mother, set to whisk him off to Ireland into the hands of his brutal stepfather - Hannah had slipped her neck quite readily into it.
+
+**中文理解**：两天后，他布好套索——可怜的 Teddy 和那个恶毒的母亲要把孩子送去爱尔兰、交到残暴的继父手里——Hannah 几乎是自己把脖子伸了进去。母性的软处被精确地做成了机关。
 
 **关键词**<td>fashioned my noose（制造我的绞索）| wicked mother（邪恶的母亲）| whisk him off（把他带走）| brutal stepfather（残酷的继父）| slipped her neck quite readily into it（相当顺从地把脖子伸进去）
 
@@ -230,6 +266,8 @@ modified: "2026-09-07"
 
 > **原句 26:** Which was why I was waiting now, in the Black Lion, in such a foul temper. Everything hinged upon this play. The Drop, the money, my life. I didn't want to wind up covered in flies, stinking up the place.
 
+**中文理解**：所以他此刻坐在 Black Lion 里脾气极坏地等着：一切都押在这一场上——收网、钱、他的命。他不想像 Banks 那样满身苍蝇地烂在屋里。
+
 **关键词**<td>foul temper（坏脾气）| hinged upon this play（取决于这个骗局）| wind up covered in flies（以覆盖着苍蝇告终）| stinking up the place（把地方弄臭）
 
 **为什么这样写**：Billy 的"焦虑"——"foul temper"暗示 Billy 的"焦虑"。"hinged upon this play"暗示 Billy 的"决心"。
@@ -238,6 +276,8 @@ modified: "2026-09-07"
 
 > **原句 27:** At last, across the taproom, I glimpsed Amy coming through the crowd, Tom behind her. His girl, Beth, had done a good job dressing Amy's hair. She wore half-mourning dress and gloves, not too many stones.
 
+**中文理解**：终于，他在大堂那头看见 Amy 从人群里过来，Tom 跟在后面；Tom 的姑娘 Beth 把 Amy 的头发做得很好。她穿半丧服、戴手套，首饰不多不少。
+
 **关键词**<td>glimpsed Amy（瞥见艾米）| half-mourning dress（半丧服）| not too many stones（不太多的宝石）
 
 **为什么这样写**：Billy 的"焦虑"——"glimpsed Amy"暗示 Billy 的"焦虑"。"half-mourning dress"暗示 Amy 的"角色"。
@@ -245,6 +285,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"not too many stones"——这种措辞暗示 Billy 的"谨慎"。
 
 > **原句 28:** Amy had always passed well for a lady, albeit one who didn't bear the slightest resemblance to Penelope Felton. She lowered her face for a kiss. 'Not even a bow? Where's your manners?'
+
+**中文理解**：Amy 一向能冒充贵妇，尽管她和 Penelope Felton 长得一点也不像。她低下头来讨一个吻，还嗔他连个鞠躬都不会——一句玩笑把她演贵妇的从容写足了。
 
 **关键词**<td>passed well for a lady（很好地装成女士）| bore the slightest resemblance to（有丝毫相似之处）| lowered her face for a吻（低下脸接吻）
 
@@ -263,6 +305,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的语气"rather roughly"——暗示 Billy 的"焦虑"是"真实"的。
 
 > **原句 30:** Amy smiled slyly. 'She came.' 'And?' I said, still too loud in my agitation. 'Would I ever let you down? She swallowed the lot.'
+
+**中文理解**：Amy 狡黠一笑说“她来了”；Billy 急得声音太大，追问“然后呢”，她回一句“我什么时候让你失望过？她全吞下去了”。意思是 Hannah 把整套说辞连同钱都接下了——收网成功。
 
 **关键词**<td>slyly（狡猾地）| still too loud in my agitation（在我的焦虑中仍然太大声）| let you down（让你失望）| swallowed the lot（全盘接受）
 

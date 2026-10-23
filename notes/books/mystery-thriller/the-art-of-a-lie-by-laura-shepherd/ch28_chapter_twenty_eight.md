@@ -136,6 +136,8 @@ modified: "2026-09-07"
 
 > **原句 13:** Sometimes I prayed that this would happen, that I would be delivered from my desires and my conscience. Yet I also knew that to lose him now would be a torment I could scarcely imagine, a living Tartarus of punishment I surely deserved.
 
+**中文理解**：她有时甚至祈祷这件事发生——让她从自己的欲望和良心手里被解救出来。但她也清楚，此刻若失去他，那种折磨她几乎无法想象，是一场她活该承受的、活着的 Tartarus。内心在“求脱身”和“怕失去”之间撕扯。
+
 **关键词**：delivered from my desires and my conscience（从我的欲望和良心中解脱）/ torment（折磨）/ living Tartarus（活生生的地狱）
 
 **为什么这样写**：Hannah 的"矛盾"——"delivered from my desires and my conscience"暗示 Hannah 的"矛盾"。"living Tartarus"暗示 Hannah 的"恐惧"。
@@ -143,6 +145,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"to lose him now would be a torment I could scarcely imagine"（现在失去他将是我几乎无法想象的折磨）——这种措辞暗示 Hannah 的"爱"是"真实"的。
 
 > **原句 14:** Deserve it I might, but that didn't prevent a rush of relief the following day when William called at the shop not long after we had closed. I fetched him a bowl of iced cream - this one flavoured with mint, the colour enhanced with a little spinach greening - and when I put it in front of him, I could see from the strain on his face that something was wrong.
+
+**中文理解**：她固然活该，可第二天店里刚打烊 William 就来访时，她还是松了一口气。她端给他一碗薄荷冰淇淋（用一点菠菜汁提色），放到他面前，就从那张紧绷的脸上看出有事不对。
 
 **关键词**：rush of relief（一阵宽慰）/ strain on his face（脸上的紧张）/ something was wrong（出了问题）
 
@@ -152,6 +156,8 @@ modified: "2026-09-07"
 
 > **原句 15:** 'What is it?' I asked, after he'd paid me his usual compliments, but without his customary wit and spark. 'Is it that obvious? I'm sorry. I do not wish to trouble you with my problems.' 'How many times have I troubled you with mine?' I cried. 'Please, tell me. I might be able to help.'
 
+**中文理解**：她问他怎么了——他照例恭维了她，却少了往日的机锋和神采。他说不想拿自己的烦心事来烦她，她反问：我麻烦你多少次了？说出来吧，也许我能帮上忙。这句话既是关切，也是她一步步走进圈套的台阶。
+
 **关键词**：customary wit and spark（惯常的机智和火花）/ trouble you with my problems（用我的问题打扰你）/ might be able to help（可能能帮忙）
 
 **为什么这样写**：Hannah 的"关心"——"might be able to help"暗示 Hannah 的"关心"。"customary wit and spark"暗示 Billy 的"异常"。
@@ -159,6 +165,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"How many times have I troubled you with mine"（我多少次用我的问题打扰过你）——这种措辞暗示 Hannah 的"关心"是"真实"的。
 
 > **原句 16:** He sighed. 'It's Teddy. Or rather it is his mother. I had a letter from her yesterday, asking to see me. She tells me that she and her husband are intending to move to Ireland. I might have said it's the best place for her, except that now she says she's changed her mind, and intends to take Teddy with her.'
+
+**中文理解**：William 叹气说“是 Teddy——更确切说，是他母亲”。他昨天收到她的信说要见他：她与丈夫打算搬去爱尔兰，本来还算好事，可现在她改了主意，还要把 Teddy 一起带走。
 
 **关键词**<td>asking to see me（要求见我）/ intending to move to Ireland（打算搬到爱尔兰）/ changed her mind（改变了主意）
 
@@ -168,6 +176,8 @@ modified: "2026-09-07"
 
 > **原句 17:** I stared at him dismayed. 'Oh, William.' He shook his head angrily. 'The boy had a bruise upon his face last night. He lives in fear of that brute. You should have seen how relieved he was to see me.' 'That darling boy,' I said. 'Is there nothing you can do to change her mind?'
 
+**中文理解**：Hannah 惊愕地望着他，只叫了一声“Oh, William”。他愤愤摇头：昨晚孩子脸上有块淤青，他怕那个畜生怕得要命，见到他时那份如释重负谁都看得出来。Hannah 追问难道没有办法让她改主意。
+
 **关键词**<td>bruise upon his face（脸上的瘀伤）/ lives in fear of that brute（生活在对那个暴君的恐惧中）/ change her mind（改变她的主意）
 
 **为什么这样写**：Teddy 的"恐惧"——"lives in fear of that brute"暗示 Teddy 的"恐惧"。"bruise upon his face"暗示 Teddy 的"伤害"。
@@ -175,6 +185,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"That darling boy"（那个可爱的男孩）——这种措辞暗示 Hannah 的"母爱"。
 
 > **原句 18:** 'As it happens there is,' William said, with a hard smile. 'Five hundred pounds will do the trick, or so she tells me.' 'But that's blackmail!' I cried. 'She didn't even flinch when I called it that. The trouble is, I don't have it at the moment. Not if I buy that house.'
+
+**中文理解**：William 硬笑一下说，办法倒是有：五百镑就能办成——她是这么说的。Hannah 惊呼这是敲诈，他答她连被叫作敲诈都不眨眼；麻烦在于他现在拿不出这笔钱，除非放弃买那幢房子。
 
 **关键词**<td>five hundred pounds（五百英镑）/ do the trick（奏效）/ blackmail（勒索）/ didn't even flinch（甚至没有退缩）
 
@@ -184,6 +196,8 @@ modified: "2026-09-07"
 
 > **原句 19:** 'Ordinarily, I would simply borrow it, but I'm already overextended because of Mr Bennett and that damn ship. I asked Mrs Parmenter for a loan, but she says she can't help me.' Too many diamond necklaces to buy, I thought savagely. And after everything William had done for her.
 
+**中文理解**：他解释：本来借就是了，可 Bennett 先生和那条该死的船已让他周转过度；他向 Mrs Parmenter 借过，对方说帮不了。Hannah 心里狠狠想：她有多少条钻石项链要买——何况 William 为她做过那么多事。
+
 **关键词**<td>overextended（过度扩张）/ can't help me（不能帮我）/ too many diamond necklaces to buy（要买太多钻石项链）
 
 **为什么这样写**：Mrs Parmenter 的"自私"——"can't help me"暗示 Mrs Parmenter 的"自私"。"too many diamond necklaces to buy"暗示 Hannah 的"鄙视"。
@@ -191,6 +205,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"Too many diamond necklaces to buy, I thought savagely"（要买太多钻石项链，我凶狠地想）——这种措辞暗示 Hannah 的"鄙视"是"真实"的。
 
 > **原句 20:** 'There's nothing for it,' William went on. 'I'll have to pull out of the sale. I'll lose my deposit, but I don't see any other solution. Until that ship returns from Lisbon and the cargo is sold, there's nothing to be done. And Teddy's mother refuses to wait that long.'
+
+**中文理解**：William 说只能退出这笔买卖，定金会损失，但别无他法；要等船从里斯本回来、货卖掉才有钱，而 Teddy 的母亲不肯等那么久。这一步是逼 Hannah 自己开口说“我来出”。
 
 **关键词**<td>pull out of the sale（退出交易）/ lose my deposit（失去我的定金）/ refuses to wait that long（拒绝等那么久）
 
@@ -200,6 +216,8 @@ modified: "2026-09-07"
 
 > **原句 21:** 'How much is the deposit?' I asked. 'Three hundred pounds. I don't care about the money. Not really. But the house . . .' He smiled sadly. 'I have spent too many hours imagining us living there.' As had I, despite all my misgivings.
 
+**中文理解**：她问定金多少：三百镑。他说钱其实不在乎，真正舍不得的是那幢房子——他花了太多时间想象两人住在里面的样子。Hannah 承认自己也一样，尽管满心疑虑。
+
 **关键词**<td>three hundred pounds（三百英镑）/ imagining us living there（想象我们住在那里）
 
 **为什么这样写**：Billy 的"悲伤"——"imagining us living there"暗示 Billy 的"悲伤"。"three hundred pounds"暗示 Hannah 的"决心"。
@@ -207,6 +225,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"As had I, despite all my misgivings"（尽管我有很多疑虑，我也一样）——这种措辞暗示 Hannah 的"爱"是"真实"的。
 
 > **原句 22:** Nor was I so nonchalant as William about the thought of him losing three hundred pounds. When he would have the money in a matter of weeks. The very idea offended me. 'You must not do it,' I said, with sudden conviction. 'Why don't I lend you the money? I'll have it once probate is granted. You can pay me back when the cargo is sold.'
+
+**中文理解**：她也不像 William 那样对三百镑的损失满不在乎——几周后钱就到手了，这在她看来简直不能接受。于是她突然下了决心：别退，我借给你，遗嘱认证一办下来我就有钱，等货卖了再还我。
 
 **关键词**<td>nonchalant（漠不关心）/ sudden conviction（突然的信念）/ lend you the money（借给你钱）
 
@@ -216,6 +236,8 @@ modified: "2026-09-07"
 
 > **原句 23:** He frowned. 'I could never ask that of you. A gentleman doesn't borrow money from a lady.' 'I'm not just any lady.' He held my gaze. 'How true that is.'
 
+**中文理解**：他皱眉推辞：一个绅士不能向女士借钱。她回一句“我可不是一般的女士”，他盯着她说“这话再真不过”。这句调情把借贷变成了亲密，也让她更难把钱收回去。
+
 **关键词**<td>never ask that of you（永远不会要求你）/ gentleman doesn't borrow money from a lady（绅士不向女士借钱）/ not just any lady（不仅仅是任何女士）
 
 **为什么这样写**：Billy 的"绅士"——"gentleman doesn't borrow money from a lady"暗示 Billy 的"绅士"。"not just any lady"暗示 Billy 的"认可"。
@@ -223,6 +245,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"How true that is"（这是多么真实）——这种措辞暗示 Billy 的"认可"是"真实"的。
 
 > **原句 24:** In that moment, everything felt right. To use this money, Jonas's ill-gotten loot, to save that little boy. To save the house. To bring a smile back to William's face. 'You have to take it,' I said. 'I'm afraid I insist.'
+
+**中文理解**：那一刻她觉得一切都对了：用这笔钱——Jonas 来路不正的钱——去救那个孩子、保住房子、让 William 重新笑起来。她说你必须收下，我坚持。自我说服的链条在这里闭合。
 
 **关键词**<td>ill-gotten loot（不义之财）/ save that little boy（拯救那个小男孩）/ bring a smile back to William's face（让威廉脸上重新露出笑容）
 
@@ -232,6 +256,8 @@ modified: "2026-09-07"
 
 > **原句 25:** 'What about your debts?' he said. 'I'll just let the interest mount a little longer. It will cost me another ten pounds or so, but that doesn't compare to the three hundred you stand to lose.' He thought for a moment. 'I suppose there's a certain logic to what you are saying . . .'
 
+**中文理解**：他还惦记她的债，她说就让利息再涨一阵，多花十镑左右，也比白白损失三百镑强。他想了一下，承认她说的“有几分道理”——他要的正是她自己把这笔账算圆。
+
 **关键词**<td>let the interest mount a little longer（让利息再积累一点）/ doesn't compare to（无法与……相比）/ a certain logic（某种逻辑）
 
 **为什么这样写**：Hannah 的"牺牲"——"let the interest mount a little longer"暗示 Hannah 的"牺牲"。"doesn't compare to"暗示 Hannah 的"决心"。
@@ -239,6 +265,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"It will cost me another ten pounds or so, but that doesn't compare to the three hundred you stand to lose"（这会再花我十英镑左右，但这与你可能损失的三百英镑相比不算什么）——这种措辞暗示 Hannah 的"牺牲"是"真实"的。
 
 > **原句 26:** 'It makes perfect sense,' I said firmly. 'Please, I want to help.' 'I shall meet all of your costs - and pay you interest upon the loan at a generous rate.' 'You certainly shall.' I lowered my voice, though Theo and Oscar were busy in the kitchen, and Felix was cleaning the windows outside. 'Only not in coin.'
+
+**中文理解**：她趁热打铁：完全说得通，我想帮你。William 承诺承担她全部费用、按慷慨的利率付息；她压低声音——厨房里有 Theo 和 Oscar，Felix 在外擦窗——说“只是不要用硬币还”。这话已带上私情。
 
 **关键词**<td>makes perfect sense（完全合理）/ pay you interest upon the loan（支付你贷款利息）/ not in coin（不是用硬币）
 
@@ -248,6 +276,8 @@ modified: "2026-09-07"
 
 > **原句 27:** William grinned. 'And not even Henry Fielding will be able to protect me.' How at peace I felt in that moment. To be able to do something for him, after everything he'd done for me. A small compensation for all my lies and deceptions.
 
+**中文理解**：William 咧嘴笑说，这样连 Henry Fielding 也护不住他了。Hannah 那一刻无比安宁：终于能为他做点什么，算是替自己那些谎言和欺瞒做一点补偿。她把负罪感变成了掏钱的理由。
+
 **关键词**<td>not even Henry Fielding will be able to protect me（甚至亨利·菲尔丁也无法保护我）/ at peace（平静）/ compensation for all my lies and deceptions（对我所有谎言和欺骗的补偿）
 
 **为什么这样写**：Hannah 的"平静"——"at peace"暗示 Hannah 的"平静"。"compensation for all my lies and deceptions"暗示 Hannah 的"内疚"。
@@ -255,6 +285,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"A small compensation for all my lies and deceptions"（对我所有谎言和欺骗的小补偿）——这种措辞暗示 Hannah 的"内疚"是"真实"的。
 
 > **原句 28:** I saw William to the door, promising that I'd come later that night. Mrs Brunsden, Mrs Fortnum and Mrs Howard were gossiping outside the Howards' shop, and I tried to act normally, giving them a little wave. Mrs Brunsden looked away - she wasn't speaking to me because I'd ended my dealings with her husband.
+
+**中文理解**：她送 William 到门口，答应晚上过去。门外 Brunsden、Fortnum、Howard 三位太太正在闲聊，她照常挥手；Brunsden 太太转过脸去——因为她和对方丈夫断了往来，两人已不说话。邻里的敌意悄悄积起来。
 
 **关键词**<td>saw William to the door（送威廉到门口）/ gossiping outside the Howards' shop（在霍华德店外八卦）/ ended my dealings with her husband（结束了我与她丈夫的交易）
 
@@ -264,6 +296,8 @@ modified: "2026-09-07"
 
 > **原句 29:** Their eyes followed William down the street. Turning, I spotted one of William's kid gloves on the shop floor. I stooped to pick it up, and hastened after him. Luckily, he had been waylaid by a gentleman down the street, and I was easily able to catch up with him.
 
+**中文理解**：那些眼睛跟着 William 走远。她回头看见店堂地上有一只他的小山羊皮手套，弯腰捡起，急忙追出去；幸好他在街上被一位先生拦住说话，她很容易就赶上了。
+
 **关键词**<td>kid gloves（小山羊皮手套）/ stooped to pick it up（弯腰捡起）/ waylaid by a gentleman（被一位绅士拦住）
 
 **为什么这样写**：Hannah 的"关心"——"stooped to pick it up"暗示 Hannah 的"关心"。"waylaid by a gentleman"暗示 Billy 的"过去"。
@@ -271,6 +305,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"I stooped to pick it up, and hastened after him"（我弯腰捡起，急忙追上去）——这种措辞暗示 Hannah 的"关心"是"真实"的。
 
 > **原句 30:** 'You must remember me,' the gentleman was saying. 'David Thewson from the Wandsworth Academy.' William gave him a bland smile. 'I think you must have me confused with somebody else.'
+
+**中文理解**：那位先生说“您一定记得我，Wandsworth 学院的 David Thewson”，William 却淡淡一笑，说他认错人了。一个陌生人叫出另一个名字，裂口第一次出现在他的假身份上。
 
 **关键词**<td>must remember me（必须记得我）/ Wandsworth Academy（旺兹沃思学院）/ bland smile（冷淡的微笑）
 
@@ -280,6 +316,8 @@ modified: "2026-09-07"
 
 > **原句 31:** 'Really, sir?' the man exclaimed. 'You are the very spit of William Everhart.' At that moment, William noticed me. His smile never slipped, but I saw a flicker of something alien in his expression. I knew it at once, both disturbing and familiar: the look Jonas had used to wear when I'd caught him out in a lie.
 
+**中文理解**：那人嚷道：怎么会，您和 William Everhart 长得一模一样。这时 William 看见了她，笑容没变，眼里却闪过一丝异样的东西——她立刻认出来：那是 Jonas 被她当场揭穿谎言时的神情。直觉先于理智抓住了真相。
+
 **关键词**<td>very spit of William Everhart（与威廉·埃弗哈特一模一样）/ flicker of something alien（一丝陌生的东西）/ caught him out in a lie（抓住他撒谎）
 
 **为什么这样写**：Billy 的"谎言"——"very spit of William Everhart"暗示 Billy 的"谎言"。"caught him out in a lie"暗示 Hannah 的"经验"。
@@ -288,6 +326,8 @@ modified: "2026-09-07"
 
 > **原句 32:** 'Oh, Mrs Cole, you are a godsend.' William took the glove from my outstretched hand. The man looked from William to me, and back again. He had a pointed nose like a chiselled pencil, salt-and-pepper eyebrows, and rather swollen eyes. In his hand was a parcel wrapped with the distinctive purple ribbon used by Mr Floris.
 
+**中文理解**：William 接过她递来的手套，说“Mrs Cole，您真是救星”。那男人来回打量两人：尖鼻子像削过的铅笔，花白眉毛，眼睛浮肿，手里拿着一个用 Floris 特有紫丝带捆的包裹。细节暗示他另有来路。
+
 **关键词**<td>godsend（天赐之物）/ pointed nose like a chiselled pencil（像削尖的铅笔一样的尖鼻子）/ distinctive purple ribbon（独特的紫色丝带）
 
 **为什么这样写**：Thewson 的"形象"——"pointed nose like a chiselled pencil"暗示 Thewson 的"形象"。"distinctive purple ribbon"暗示 Thewson 的"线索"。
@@ -295,6 +335,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"In his hand was a parcel wrapped with the distinctive purple ribbon used by Mr Floris"（他手里拿着一个用弗洛里斯先生独特的紫色丝带包裹的包裹）——这种措辞暗示 Thewson 的"线索"。
 
 > **原句 33:** 'Then my apologies, sir,' he said. 'I shall not keep you.' He walked away, but I saw him look back and shake his head. William gave me a bemused shrug. 'They say everyone has a double,' he said.
+
+**中文理解**：那人道歉告辞，走开时却回头摇了摇头。William 无所谓地耸肩：大家都说世上有个人跟你长得一模一样。他用一句俗话把裂缝糊上，Hannah 只好跟着笑——但疑心已经种下。
 
 **关键词**<td>my apologies, sir（对不起，先生）/ look back and shake his head（回头看并摇头）/ everyone has a double（每个人都有一个分身）
 

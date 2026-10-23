@@ -106,6 +106,8 @@ modified: "2026-09-07"
 
 > **原句 10:** Unwittingly, you've been recruited to Mrs Cole's cause. I should warn you that her neighbours have paid attention to her movements of late. Going off in your carriage. Late-night visits, coming home at all hours. I'm afraid that it may come out in court.
 
+**中文理解**：Fielding 进一步警告 Billy：他已在不知不觉中被 Mrs Cole 拉进了她那一方；邻居们早就注意她的行踪——坐他的马车出去、深夜来往、不分时辰才回家，这些迟早会在法庭上被抖出来。这是拿“丑闻”当压力，逼 Billy 退开。
+
 **关键词】<td>unwittingly（不知不觉地）| recruited to Mrs Cole's cause（被招募到科尔太太的事业中）| paid attention to her movements of late（最近注意到了她的行动）| going off in your carriage（坐你的马车离开）| late-night visits（深夜来访）| coming home at all hours（在任何时间回家）| come out in court（在法庭上曝光）
 
 **为什么这样写**：Fielding 的"威胁"——"come out in court"暗示 Fielding 的"威胁"。"late-night visits"暗示 Fielding 的"调查"。
@@ -113,6 +115,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Fielding 的说法"I'm afraid that it may come out in court"——这种措辞暗示 Fielding 的"威胁"是"真实"的。
 
 > **原句 11:** His judgemental gaze told me that he still saw Hannah and me as a mirror of all that had happened between him and his wife. Yet that mirror no longer reflected the golden light of star-cross'd lovers, but rather the darker reflection of all his second thoughts: a tale of unbridled passion, poor judgement, and duty shirked.
+
+**中文理解**：他的目光说明他仍把 Hannah 和 Billy 看成自己与妻子的翻版；但那面镜子照出的已不是命运多舛的情侣，而是他反复回味后的另一种解释——放纵的激情、糟糕的判断、被推卸掉的责任。Billy 意识到 Fielding 其实是在审判自己。
 
 **关键词】<td>judgemental gaze（评判的目光）| mirror of all that had happened between him and his wife（他和他妻子之间发生的一切的镜子）| golden light of star-cross'd lovers（命运多舛恋人的金色光芒）| darker reflection of all his second thoughts（他所有反思的阴暗反映）| unbridled passion（放纵的激情）| poor judgement（糟糕的判断）| duty shirked（逃避责任）
 
@@ -122,6 +126,8 @@ modified: "2026-09-07"
 
 > **原句 12:** 'To love again after loss is not a crime,' I said, rather pointedly. 'I know Hannah. She's not capable of murder.' 'Do you know what I believe?' Fielding said. 'That any one of us is capable of acts of great wickedness under the right circumstances.'
 
+**中文理解**：Billy 针锋相对：丧偶之后再爱并不是罪，他了解 Hannah，她做不出杀人的事。Fielding 则说出他真正的信念：只要处境合适，任何人都做得出极恶之事。两人的分歧从“她有没有罪”滑到了“人是什么”。
+
 **关键词】<td>love again after loss is not a crime（失去后再次恋爱不是罪）| rather pointedly（相当尖锐地）| capable of murder（有能力谋杀）| capable of acts of great wickedness（有能力犯下大恶行）| under the right circumstances（在适当的情况下）
 
 **为什么这样写**：Billy 的"辩护"——"love again after loss is not a crime"暗示 Billy 的"辩护"。"capable of acts of great wickedness"暗示 Fielding 的"哲学"。
@@ -129,6 +135,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Fielding 的说法"That any one of us is capable of acts of great wickedness under the right circumstances"——这种措辞暗示 Fielding 的"哲学"是"真实"的。
 
 > **原句 13:** When I was a youth, I became infatuated with my young cousin. Her guardian would not consider my suit, and so one day, I attempted to abduct her on her way to church. It was as if I was consumed by madness. Another man entirely. Had I not learned to master my passions, I might have ended up in a hangman's noose myself.
+
+**中文理解**：Fielding 讲起自己年轻时迷恋表妹，竟在她去教堂的路上试图把她劫走，像被另一种疯狂附体；若不是后来学会克制，他自己也早该上绞架。他用自己的往事为“人人皆可作恶”作证，也在暗示他懂那种失控。
 
 **关键词】<td>when I was a youth（当我年轻时）| infatuated with my young cousin（迷恋我的年轻表妹）| guardian would not consider my suit（监护人不会考虑我的求婚）| attempted to abduct her（试图绑架她）| consumed by madness（被疯狂吞噬）| another man entirely（完全是另一个人）| master my passions（控制我的激情）| ended up in a hangman's noose（最终上了绞刑架）
 
@@ -138,6 +146,8 @@ modified: "2026-09-07"
 
 > **原句 14:** Confronted by her husband's cruel design, I believe Mrs Cole was gripped by a terrible rage. Perhaps she told herself afterwards that the person who committed this deed was akin to a stranger. A possession of body and spirit. I know I did.
 
+**中文理解**：他继续推演：面对丈夫冷酷的算计，Mrs Cole 大概被一股可怕的怒火攫住，事后也许说服自己，动手的是另一个人——只是占用了她的身体与精神。最后那句“我知道我做过”把话锋转回自身：审判别人其实是在审判自己。
+
 **关键词】<td>confronted by her husband's cruel design（面对她丈夫的残酷计划）| gripped by a terrible rage（被可怕的愤怒所控制）| akin to a stranger（类似于陌生人）| possession of body and spirit（身体和灵魂的附身）
 
 **为什么这样写**：Fielding 的"同理心"——"akin to a stranger"暗示 Fielding 的"同理心"。"possession of body and spirit"暗示 Fielding 的"理解"。
@@ -145,6 +155,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Fielding 的说法"I know I did"——这种措辞暗示 Fielding 的"同理心"是"真实"的。
 
 > **原句 15:** 'You have no evidence, only a theory,' I told him. 'One boy's story about a tooth, that may not even have belonged to Jonas Cole.' 'She will confess, I know she will,' Fielding said. 'If not today, then tomorrow. My constables are searching her house as we speak. I believe Mrs Cole kept her grandfather's watch, you see. I think it's hidden somewhere in that house. And when we find it, she will admit to everything.'
+
+**中文理解**：Billy 抓住漏洞：你只有推论，没有证据，一个男孩关于一颗牙的说法，那颗牙甚至未必属于 Jonas。Fielding 却亮出真正的底气：她一定会招，而且他的警员此刻正在搜她的房子——他相信 Mrs Cole 收着祖父的怀表，只要找到表，她就会全部认下。
 
 **关键词】<td>no evidence, only a theory（没有证据，只有一个理论）| one boy's story about a tooth（一个男孩关于牙齿的故事）| may not even have belonged to Jonas Cole（可能甚至不属于乔纳斯·科尔）| she will confess（她会招供）| searching her house as we speak（正在搜查她的房子）| grandfather's watch（祖父的手表）| hidden somewhere in that house（藏在房子里的某个地方）| admit to everything（承认一切）
 
@@ -154,6 +166,8 @@ modified: "2026-09-07"
 
 > **原句 16:** Then Hannah had admitted to nothing yet. That gave me hope. She was tough, I told myself, perhaps more than I'd ever imagined. Yet even the hardest of men could be induced to confess. When they were tired, or manipulated, or they just wanted the questions to stop.
 
+**中文理解**：这让 Billy 意识到 Hannah 到现在什么都没承认，于是有了希望：她比他想的更硬。但他也清楚，再硬的人也扛不住疲劳、诱导，或者仅仅是想让人别再问下去——审讯的可怕正在于此。
+
 **关键词】<td>admitted to nothing yet（还没有承认任何事）| gave me hope（给了我希望）| tough（坚强）| more than I'd ever imagined（比我想象的更多）| induced to confess（被引诱招供）| tired, or manipulated（疲倦，或被操纵）| wanted the questions to stop（想让问题停止）
 
 **为什么这样写**：Billy 的"希望"——"gave me hope"暗示 Billy 的"希望"。"induced to confess"暗示 Billy 的"担忧"。
@@ -161,6 +175,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"She was tough, I told myself, perhaps more than I'd ever imagined"——这种措辞暗示 Billy 的"希望"是"真实"的。
 
 > **原句 17:** I knew they'd be holding Hannah in the cellar of the Brown Bear tavern, opposite Fielding's house. It had been used for years by the Bow Street magistrates as a temporary prison, to hold villains before their transfer to Bridewell or Newgate.
+
+**中文理解**：Billy 知道 Hannah 被关在 Fielding 家对面 Brown Bear 酒馆的地窖里；那地方多年来被 Bow Street 的治安法官当作临时牢房，关押等待转往 Bridewell 或 Newgate 的犯人。地点交代为下一步的探视与打点铺路。
 
 **关键词】<td>holding Hannah in the cellar of the Brown Bear tavern（把汉娜关在棕熊酒馆的地下室）| opposite Fielding's house（菲尔丁房子的对面）| used for years by the Bow Street magistrates（被弓街地方法官使用多年）| temporary prison（临时监狱）| hold villains（关押罪犯）| transfer to Bridewell or Newgate（转移到布里德韦尔特或纽盖特）
 
@@ -170,6 +186,8 @@ modified: "2026-09-07"
 
 > **原句 18:** I strode through the taproom, rain dripping from my hat, and descended the stairs. In the first room of the cellar, I found the gaoler, reading a lewd pamphlet by the light of a lantern. A number of doors reinforced by iron led into the cells, and there was a warren of other rooms and cells further back.
 
+**中文理解**：他穿过酒馆大堂，帽檐还滴着雨，走下地窖；第一间屋里看守正借灯光看一本淫秽小册子，后面是一道道铁皮加固的门和更深处成片的牢房。环境写得越日常，越显得这里关人只是桩例行生意。
+
 **关键词】<td>strode through the taproom（大步穿过酒吧间）| rain dripping from my hat（雨水从我的帽子上滴落）| descended the stairs（走下楼梯）| gaoler（狱卒）| lewd pamphlet（下流的小册子）| doors reinforced by iron（铁加固的门）| warren of other rooms and cells（其他房间和牢房的迷宫）
 
 **为什么这样写**：监狱的"环境"——"lewd pamphlet"暗示监狱的"环境"。"warren of other rooms and cells"暗示监狱的"复杂"。
@@ -177,6 +195,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"there was a warren of other rooms and cells further back"——这种措辞暗示监狱的"环境"是"复杂"的。
 
 > **原句 19:** 'I'd like to see Hannah Cole,' I told the gaoler. 'She's not allowed visitors,' he said. 'Mr Fielding's orders.' I produced a guinea, more than he'd earn in a week. 'I say differently. Order of King George.'
+
+**中文理解**：Billy 说要见 Hannah，看守回称 Fielding 有令不许探视；他掏出一枚几尼——比看守一周挣的还多——再压上一句“King George 的命令”。一枚金币比任何道理都管用，也预告了他的方式：靠骗和买。
 
 **关键词】<td>I'd like to see Hannah Cole（我想见汉娜·科尔）| not allowed visitors（不允许探视）| Mr Fielding's orders（菲尔丁先生的命令）| produced a guinea（变出一个基尼）| more than he'd earn in a week（比他一周赚的还多）| I say differently（我说不同）| Order of King George（乔治国王的命令）
 
@@ -186,6 +206,8 @@ modified: "2026-09-07"
 
 > **原句 20:** When I entered the cell and saw Hannah sitting there in the dark, something seemed to tear inside me. A manacle around one wrist chained her to the wall. A grating near to the ceiling afforded a glimpse of black sky. Lightning flashed, illuminating her drawn face. It was like that scene from my dream. My mother, Hannah's eyes.
 
+**中文理解**：牢门一开，看见 Hannah 坐在黑暗里，他心里像有什么被撕开：一只手腕被镣铐锁在墙上，靠近天花板的铁栅透出一角黑天，闪电照亮她憔悴的脸——和他梦里母亲死去那一幕重叠。私人创伤与国家暴力在此重合。
+
 **关键词】<td>entered the cell and saw Hannah sitting there in the dark（走进牢房看到汉娜坐在黑暗中）| something seemed to tear inside me（内心似乎有什么东西撕裂了）| manacle around one wrist chained her to the wall（一只手腕上的手铐把她锁在墙上）| grating near to the ceiling afforded a glimpse of black sky（天花板附近的格栅可以看到一片漆黑的天空）| lightning flashed, illuminating her drawn face（闪电照亮了她憔悴的脸）| like that scene from my dream（就像我梦中的场景）| my mother, Hannah's eyes（我的母亲，汉娜的眼睛）
 
 **为什么这样写**：Billy 的"痛苦"——"something seemed to tear inside me"暗示 Billy 的"痛苦"。"like that scene from my dream"暗示 Billy 的"创伤"。
@@ -193,6 +215,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"It was like that scene from my dream. My mother, Hannah's eyes"——这种措辞暗示 Billy 的"痛苦"是"真实"的。
 
 > **原句 21:** 'Fielding means to hang me,' was all she said. Kneeling, I took her in my arms. 'I won't let him do it,' I told her fiercely. 'I'm going to get you out. But in the meantime, you must admit to nothing, do you understand me? Fielding's constables are searching your house for Jonas's watch. When they don't find it, he'll have to let you go.'
+
+**中文理解**：Hannah 只说得出一句：Fielding 要吊死她。Billy 跪下抱住她，说绝不会让他得逞，会把她弄出去；同时叮嘱她什么都别承认——警员正在搜 Jonas 的怀表，找不到表，Fielding 就只能放人。他的整个计划都押在“表不在屋里”上。
 
 **关键词】<td>Fielding means to hang me（菲尔丁要绞死我）| kneeling, I took her in my arms（跪下，我把她抱在怀里）| I won't let him do it（我不会让他这么做）| get you out（把你救出来）| admit to nothing（什么都不承认）| searching your house for Jonas's watch（搜查你的房子寻找乔纳斯的手表）| when they don't find it, he'll have to let you go（当他们找不到时，他只能放你走）
 
@@ -202,6 +226,8 @@ modified: "2026-09-07"
 
 > **原句 22:** She gazed at me for a long time and when she spoke, her words were a whisper: 'In my ice tub. In the well. Down in the cellar.' I stared at her lovely face, imagining her wielding that mallet. Accepting it took some doing, even then.
 
+**中文理解**：Hannah 久久看着他，最后低声说：在冰桶里，在井里，在地窖下面。Billy 盯着她那张可爱的脸，想象她握着冰锤的样子——即便到这一刻，接受这件事也要费些力气。真相第一次从她嘴里说出来。
+
 **关键词】<td>gazed at me for a long time（凝视了我很久）| words were a whisper（话语是耳语）| in my ice tub（在我的冰桶里）| in the well（在井里）| down in the cellar（在地下室里）| imagining her wielding that mallet（想象着她挥舞着那个锤子）| accepting it took some doing（接受这一点需要一些努力）
 
 **为什么这样写**：Hannah 的"招供"——"in my ice tub"暗示 Hannah 的"招供"。"accepting it took some doing"暗示 Billy 的"震惊"。
@@ -210,6 +236,8 @@ modified: "2026-09-07"
 
 > **原句 23:** I recalled that shadowy part of her that I'd never quite been able to understand. Her reticence when I'd tried to discuss marriage. Her reckless abandonment in the face of this gathering storm.
 
+**中文理解**：他回想起她身上那块自己始终看不懂的阴影：他提婚事时她的退缩沉默，以及风暴逼近时她那种不顾一切的放纵。这些旧细节此刻被重新解释——它们都是她有事瞒着他的证据。
+
 **关键词】<td>shadowy part of her（她阴暗的部分）| never quite been able to understand（从未完全理解）| reticence when I'd tried to discuss marriage（当我试图讨论婚姻时的沉默）| reckless abandonment in the face of this gathering storm（面对这场即将到来的风暴的鲁莽放弃）
 
 **为什么这样写**：Billy 的"理解"——"shadowy part of her"暗示 Billy 的"理解"。"reckless abandonment"暗示 Hannah 的"复杂"。
@@ -217,6 +245,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"Her reckless abandonment in the face of this gathering storm"——这种措辞暗示 Hannah 的"复杂"是"真实"的。
 
 > **原句 24:** She'd lied to me over and over. Me, who prided myself on the art of a lie. Used me to point Fielding in the wrong direction. I had to hand it to her, it was nicely done. But she'd lost her heart, despite herself. That must have been a struggle. However good she thought she was, I was better.
+
+**中文理解**：她一次次对他撒谎，而他向来以“说谎的技艺”自负；她利用他把 Fielding 引向错误的方向。Billy 不得不承认这手法漂亮，但她也终究动了真情，那对她想必是场挣扎。末句是他惯有的好胜：不管她自以为多高明，他都更高明。
 
 **关键词】<td>lied to me over and over（一次又一次地对我撒谎）| prided myself on the art of a lie（以撒谎的艺术为荣）| used me to point Fielding in the wrong direction（利用我把菲尔丁引向错误的方向）| I had to hand it to her（我不得不承认她）| lost her heart, despite herself（不由自主地失去了她的心）| however good she thought she was, I was better（无论她认为自己多好，我都更好）
 

@@ -76,6 +76,8 @@ modified: "2026-09-07"
 
 > **原句 7:** But our hordes of customers allowed me little respite. 'You are the toast of the town, Mrs C,' Theo had cried, after a famous actor from Drury Lane had visited the shop with a party of his friends. But I could not bask in my success.
 
+**中文理解**：顾客多得让 Hannah 几乎喘不过气；一位 Drury Lane 的名演员带朋友来过店里之后，Theo 说她成了全城红人。可她无心享受这份成功，心里另有挂碍。
+
 **关键词**：hordes of customers（成群的顾客）/ toast of the town（城里的红人）/ bask in my success（沉浸在我的成功中）
 
 **为什么这样写**：Hannah 的"成功"——"toast of the town"暗示 Hannah 的"成功"。"bask in my success"暗示 Hannah 的"不安"。
@@ -83,6 +85,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"You are the toast of the town, Mrs C"（你是城里的红人，C太太）——这种措辞暗示 Hannah 的"成功"是"讽刺"的。
 
 > **原句 8:** The higher I climbed, the dizzier I became. My new grocer, Mr Pickering, was working out very well, and unlike Roger Brunsden, never skimped on his measures. Nor did he give me old vanilla pods oiled up to look fresh.
+
+**中文理解**：生意越做越大，Hannah 反而越觉得头晕目眩；新换的杂货商 Mr Pickering 比 Roger Brunsden 可靠，不缺斤短两，也不拿上过油的旧香草荚充新鲜货。
 
 **关键词**：the higher I climbed, the dizzier I became（我爬得越高，头越晕）/ skimped on his measures（缺斤少两）/ old vanilla pods oiled up to look fresh（上油看起来新鲜的旧香草荚）
 
@@ -92,6 +96,8 @@ modified: "2026-09-07"
 
 > **原句 9:** I had been in to see him recently, wanting only the very best ingredients for the iced cream I'd conceived for Lord Richard's supper. I'd also bought a new gown to wear that night, far grander than anything else I owned, determined not to look shabby and embarrass William in front of his friends.
 
+**中文理解**：她为 Lord Richard 的晚宴研制冰奶油，只挑最好的原料，还买了一件远贵于自己所有衣裳的新礼服，就怕在 William 的朋友面前显得寒酸、丢他的脸。
+
 **关键词**：very best ingredients（最好的食材）/ far grander than anything else I owned（比我拥有的任何其他东西都要华丽）/ look shabby and embarrass William（看起来寒酸并让威廉难堪）
 
 **为什么这样写**：Hannah 的"决心"——"look shabby and embarrass William"暗示 Hannah 的"决心"。"far grander than anything else I owned"暗示 Hannah 的"奢侈"。
@@ -99,6 +105,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"determined not to look shabby and embarrass William in front of his friends"（决心不要看起来寒酸并在他的朋友面前让威廉难堪）——这种措辞暗示 Hannah 的"决心"。
 
 > **原句 10:** I probably should have used that money to reduce my debts, but I told myself that probate would be granted any day now, and then I'd never need to worry about money ever again.
+
+**中文理解**：她本可以拿这笔钱去还债，却安慰自己遗嘱认证随时会批下来，到那时就再也不用为钱发愁。
 
 **关键词**：reduce my debts（减少我的债务）/ probate would be granted any day now（遗嘱认证随时会被授予）/ never need to worry about money ever again（再也不需要担心钱）
 
@@ -108,6 +116,8 @@ modified: "2026-09-07"
 
 > **原句 11:** The day of the supper finally dawned, and I saw to the last of the preparations in the kitchen. We closed the shop early, and my creation, still in its mould, was placed carefully within a metal pail filled with ice. Oscar and Felix carried it out to the hackney carriage, and I prayed that the jolting of the journey would not damage it.
 
+**中文理解**：晚宴当天，她在厨房盯着最后的准备，提前关了店，把还待在模具里的冰奶油放进装满冰的金属桶；Oscar 和 Felix 把它抬上出租马车，她一路担心颠簸会毁掉作品。
+
 **关键词**：day of the supper finally dawned（晚宴的日子终于到来）/ still in its mould（仍然在模具中）/ jolting of the journey（旅程的颠簸）
 
 **为什么这样写**：Hannah 的"紧张"——"jolting of the journey"暗示 Hannah 的"紧张"。"still in its mould"暗示 Hannah 的"精心"。
@@ -115,6 +125,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"I prayed that the jolting of the journey would not damage it"（我祈祷旅程的颠簸不会损坏它）——这种措辞暗示 Hannah 的"紧张"。
 
 > **原句 12:** Oscar and Theo rode with this precious cargo to the Marquis of Morrow's kitchens, whilst William came to collect me in his carriage. Seeing my tense face, he smiled. 'They will adore your iced cream and they will adore you.'
+
+**中文理解**：两人护送这件“珍贵货物”去 Marquis of Morrow 的厨房，William 则坐马车来接她；见她神色紧张，他笑着说宾客会喜欢她的冰奶油，也会喜欢她本人。
 
 **关键词**：precious cargo（珍贵的货物）/ Marquis of Morrow's kitchens（莫罗侯爵的厨房）/ tense face（紧张的表情）/ adore your iced cream and they will adore you（他们会喜欢你的冰淇淋，也会喜欢你）
 
@@ -124,6 +136,8 @@ modified: "2026-09-07"
 
 > **原句 13:** I had anticipated that the house would be grand, but when we pulled up outside one of the largest mansions in Grosvenor Square, with a vast frontage of pillars and windows blazing with light, my nerve almost failed me.
 
+**中文理解**：她原以为那宅子会很气派，可到了 Grosvenor Square 数一数二的大宅前，看见成排石柱和灯火通明的窗，勇气几乎垮掉。
+
 **关键词**：house would be grand（房子会很宏伟）/ largest mansions in Grosvenor Square（格罗夫纳广场最大的豪宅之一）/ vast frontage of pillars and windows blazing with light（巨大的柱子和灯光闪耀的门面）/ nerve almost failed me（我的勇气几乎崩溃了）
 
 **为什么这样写**：Hannah 的"不安全感"——"nerve almost failed me"暗示 Hannah 的"不安全感"。"largest mansions in Grosvenor Square"暗示 Hannah 的"渺小"。
@@ -131,6 +145,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"my nerve almost failed me"（我的勇气几乎崩溃了）——这种措辞暗示 Hannah 的"不安全感"是"真实"的。
 
 > **原句 14:** A pair of liveried footmen descended upon our carriage, ushering William and me inside with great ceremony. An entrance hall laid with marble led to a pair of black-and-gold gates and a vast staircase hall. The stairs were also made of marble and sported a modern balustrade of ornate bronze.
+
+**中文理解**：穿制服的男仆迎上来，隆重地把两人引进门；大理石前厅通向黑金大门和巨大的楼梯厅，楼梯也是大理石，配着华丽的青铜栏杆。
 
 **关键词**：liveried footmen（穿制服的男仆）/ ushering William and me inside with great ceremony（隆重地将威廉和我迎进去）/ laid with marble（铺着大理石）/ black-and-gold gates（黑色和金色的大门）/ ornate bronze（华丽的青铜）
 
@@ -140,6 +156,8 @@ modified: "2026-09-07"
 
 > **原句 15:** On the galleried landing, a second pair of footmen threw open a pair of double doors, and our presence was announced to the guests inside. 'Mr William Devereux, Esquire and Mrs Hannah Cole.' It was the most sumptuous room I had ever seen.
 
+**中文理解**：楼梯平台上又一对男仆推开双开门，向满屋客人通报“Mr William Devereux 与 Mrs Hannah Cole”；这是她见过最奢华的房间。
+
 **关键词**：galleried landing（画廊楼梯平台）/ threw open a pair of double doors（推开一对双开门）/ our presence was announced to the guests inside（向里面的客人宣布我们的到来）/ sumptuous room（豪华的房间）
 
 **为什么这样写**：Hannah 的"不安"——"our presence was announced to the guests inside"暗示 Hannah 的"不安"。"sumptuous room"暗示 Hannah 的"渺小"。
@@ -147,6 +165,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"It was the most sumptuous room I had ever seen"（这是我见过的最豪华的房间）——这种措辞暗示 Hannah 的"不安"是"真实"的。
 
 > **原句 16:** The ceiling a deep dark blue, emblazoned with plasterwork stars, the walls hung with gilt mirrors reflecting all the heads that turned to welcome us. I recognised only two of the guests: Lord Richard and Mrs Parmenter, who ran her gimlet eye over my new lilac-grey silk and sniffed.
+
+**中文理解**：深蓝天花板上饰着石膏星星，镀金镜墙映出转过来迎接他们的面孔；她只认得 Lord Richard 和 Mrs Parmenter，后者用锐利的目光打量她的新淡紫灰绸裙，嗤了一声。
 
 **关键词**：deep dark blue（深蓝色）/ emblazoned with plasterwork stars（装饰着石膏星星）/ gilt mirrors（镀金镜子）/ gimlet eye（锐利的眼睛）
 
@@ -156,6 +176,8 @@ modified: "2026-09-07"
 
 > **原句 17:** Yet two other ladies smiled at me and I could detect no trace of scorn in their eyes. Both elegantly attired and bejewelled, I didn't know which one was the Countess of Yarmouth. Of the five remaining gentlemen, only one stood out.
 
+**中文理解**：另两位女士对她微笑，眼里看不出轻蔑；两人都衣着考究、珠翠满身，她分不清哪位是 Countess of Yarmouth，剩下的五位先生里也只有一位格外显眼。
+
 **关键词**：detect no trace of scorn（察觉不到任何轻蔑的痕迹）/ elegantly attire and bejewelled（穿着优雅，佩戴珠宝）
 
 **为什么这样写**：Hannah 的"观察"——"detect no trace of scorn"暗示 Hannah 的"观察"。"elegantly attired and bejewelled"暗示 Hannah 的"渺小"。
@@ -163,6 +185,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"I didn't know which one was the Countess of Yarmouth"（我不知道哪一个是雅茅斯伯爵夫人）——这种措辞暗示 Hannah 的"不安"。
 
 > **原句 18:** His dark skin reminded me of the Lascar sailors who lived in lodging houses down at the docks, except that he was dressed in flowing gold robes, and wore a silk turban embellished with a red stone. He held a chain in his hand, and as my gaze followed it to the floor, I was startled to see a tiger cub nestled at his feet.
+
+**中文理解**：那人的深色皮肤让她想起码头的 Lascar 水手，但他穿金色长袍、戴嵌红石的丝头巾，手里牵着链子，链子末端竟是一只伏在脚边的小虎崽。
 
 **关键词**：Lascar sailors（拉斯卡水手）/ flowing gold robes（飘逸的金色长袍）/ silk turban embellished with a red stone（装饰着红石的丝绸头巾）/ tiger cub（小虎崽）
 
@@ -172,6 +196,8 @@ modified: "2026-09-07"
 
 > **原句 19:** 'His Excellency takes him everywhere,' William whispered, perhaps sensing my unease. 'Sometimes he makes a bit of a mess, but he's perfectly safe.' A short, rotund gentleman with a brandy nose barrelled up to us. 'Devereux,' he cried. 'And the famous Mrs Cole. Charmed, I'm sure.'
 
+**中文理解**：William 低声替她解释，说这位殿下走到哪儿都带着虎崽，它偶尔弄脏地方但绝对安全；话音未落，一个红鼻子的矮胖绅士就冲过来寒暄，连称幸会。
+
 **关键词**：takes him everywhere（带他去任何地方）/ perfectly safe（完全安全）/ rotund gentleman with a brandy nose（红鼻子矮胖绅士）
 
 **为什么这样写**：Mr Bennett 的热情——"barrelled up to us"暗示 Mr Bennett 的"热情"。"brandy nose"暗示 Mr Bennett 的"形象"。
@@ -179,6 +205,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"His Excellency takes him everywhere"（他的殿下带他去任何地方）——这种措辞暗示 Billy 的"关心"。
 
 > **原句 20:** William made a more formal introduction. 'Allow me to name Mr Bennett, the agent of Arcadia, our syndicate. Everyone else here is an investor, aside from Lord Richard who represents his father, and His Excellency.' He looked around. 'The Countess of Yarmouth isn't here?'
+
+**中文理解**：William 正式介绍：Mr Bennett 是 Arcadia 这家辛迪加的代理人，其余宾客多是投资人，只有 Lord Richard 代表父亲、以及那位殿下例外；他说着环顾四周，问伯爵夫人怎么没来。
 
 **关键词**：agent of Arcadia（阿卡迪亚的代理人）/ syndicate（辛迪加）/ investor（投资者）
 
@@ -188,6 +216,8 @@ modified: "2026-09-07"
 
 > **原句 21:** 'Bout of the dropsy,' Mr Bennett said. 'A great pity, but it can't be helped.' I was trying to contain my disappointment, when Mr Bennett drew William aside. 'I need to talk to you rather urgently,' I heard him say in a low voice.
 
+**中文理解**：Bennett 说伯爵夫人水肿发作来不了，实在遗憾；Hannah 正压着失望，就听见他把 William 拉到一边，低声说有件相当紧急的事要谈。
+
 **关键词**：bout of the dropsy（水肿发作）/ contain my disappointment（抑制我的失望）/ rather urgently（相当紧急）
 
 **为什么这样写**：Billy 的"世界"——"rather urgently"暗示 Billy 的"世界"。"bout of the dropsy"暗示 Countess 的"缺席"。
@@ -195,6 +225,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"I need to talk to you rather urgently"（我需要和你相当紧急地谈谈）——这种措辞暗示 Billy 的"世界"。
 
 > **原句 22:** 'This is hardly the time, Bennett. Can't it wait?' 'I'm not sure it can.' They were still speaking in hushed tones, when a gentleman with long white hair and a military posture introduced himself to me with a bow.
+
+**中文理解**：William 嫌此刻不合适、问能否等一等，Bennett 说恐怕等不得；两人还在低声争执，一位白发、腰板笔挺的绅士已走过来鞠躬自我介绍。
 
 **关键词**：hardly the time（不合适的时间）/ military posture（军人的姿态）/ introduced himself to me with a bow（向我鞠躬介绍自己）
 
@@ -204,6 +236,8 @@ modified: "2026-09-07"
 
 > **原句 23:** 'Colonel Watkin-Williams. I must say, it is a pleasure. My wife can talk of nothing but your iced cream. She's been into your shop three times this week.' How odd it was to be lauded by strangers like this. 'If you tell her to make herself known to me next time, I will give her a good price.' I smiled.
 
+**中文理解**：来者是 Colonel Watkin-Williams，他说妻子一周内光顾了三次，只谈她的冰奶油；Hannah 觉得被陌生人这样夸很怪，仍笑着许诺下次让她报上名来、给个好价。
+
 **关键词**：lauded by strangers（被陌生人赞美）/ make herself known to me next time（下次让我认识她）
 
 **为什么这样写**：Hannah 的"不习惯"——"lauded by strangers"暗示 Hannah 的"不习惯"。"make herself known to me next time"暗示 Hannah 的"善良"。
@@ -211,6 +245,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"How odd it was to be lauded by strangers like this"（被陌生人这样赞美是多么奇怪）——这种措辞暗示 Hannah 的"不习惯"是"真实"的。
 
 > **原句 24:** 'Oh, I will. I'll tell her to bring the Countess of Yarmouth too, once she's back on her feet.' Were the countess to walk into my shop, I thought, Theo might expire upon the spot. 'As for all the profit you must be making,' the colonel went on, 'you're in the right company. Devereux has performed marvels for most of us here.'
+
+**中文理解**：上校说等伯爵夫人康复，也要带她一起来店里；Hannah 暗想伯爵夫人若真踏进门，Theo 大概会当场晕过去。上校又夸 Devereux 为在场大多数人创造了奇迹。
 
 **关键词**：expire upon the spot（当场晕倒）/ performed marvels（创造了奇迹）
 
@@ -220,6 +256,8 @@ modified: "2026-09-07"
 
 > **原句 25:** I smiled politely. 'My father always taught me that it was safer to save than to invest. Though I imagine that way of thinking is heresy here.' 'Not heresy,' he said. 'Only a crying shame. Why, I wince at all the money you'll be losing.'
 
+**中文理解**：Hannah 礼貌地说父亲教她储蓄比投资稳妥，又自嘲这想法在此地怕算异端；上校说不算异端，只是可惜，想到她要少赚的那些钱他就心疼。
+
 **关键词**：safer to save than to invest（储蓄比投资更安全）/ heresy（异端）/ crying shame（极大的遗憾）
 
 **为什么这样写**：Hannah 的"保守"——"safer to save than to invest"暗示 Hannah 的"保守"。"heresy"暗示 Hannah 的"不安"。
@@ -227,6 +265,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"Though I imagine that way of thinking is heresy here"（虽然我想这种想法在这里是异端）——这种措辞暗示 Hannah 的"不安"。
 
 > **原句 26:** Gazing around at the happy throng in their jewels and finery, I wondered if he was right. Perhaps my father's way of thinking was outmoded. Even once I'd paid off my loans, I'd still have over four hundred pounds to my name. Perhaps I could risk a portion of it - maybe as much as a hundred pounds? William could advise me on where to place it.
+
+**中文理解**：环顾满室珠光宝气的欢腾人群，她开始怀疑父亲那一套是否已经过时：还清贷款后名下还剩四百多镑，也许可以拿一百镑出来冒险，让 William 指点投到哪里。
 
 **关键词**：happy throng in their jewels and finery（穿着珠宝和华丽衣服的欢乐人群）/ outmoded（过时的）/ risk a portion of it（冒一部分险）
 
@@ -236,6 +276,8 @@ modified: "2026-09-07"
 
 > **原句 27:** 'Forgive me,' William murmured, as he rejoined us. 'Do you mind if I steal Mrs Cole, sir? I haven't yet introduced her to the ambassador and you know how prickly he can be.' 'Wouldn't want to start a war, now, would we?' the colonel said, with a grin.
 
+**中文理解**：William 回来向众人告罪，说要“借走”Mrs Cole 去见大使，还打趣那位殿下脾气不好；上校笑着接话，说总不想因此开战。
+
 **关键词**：steal Mrs Cole（偷走科尔太太）/ prickly（易怒的）/ start a war（发动战争）
 
 **为什么这样写**：Billy 的"礼貌"——"steal Mrs Cole"暗示 Billy 的"礼貌"。"prickly"暗示 Nawab 的"性格"。
@@ -243,6 +285,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"Wouldn't want to start a war, now, would we"（现在不想发动战争，对吧）——这种措辞暗示 Colonel 的"幽默"。
 
 > **原句 28:** As we approached the young man in the turban, he studied me with a haughty gaze. 'Allow me to name His Excellency Nawab Farook,' William said. 'He is the ambassador to the Court of St James's from the island of Bentoo. Your Excellency, allow me to present Mrs Hannah Cole, a very dear friend of mine.'
+
+**中文理解**：走近戴头巾的年轻人时，对方傲慢地打量她；William 介绍这是 Bentoo 岛驻圣詹姆斯宫廷的大使 Nawab Farook，并称 Hannah 是他非常亲密的朋友。
 
 **关键词**：haughty gaze（傲慢的目光）/ ambassador to the Court of St James's（圣詹姆斯宫大使）/ island of Bentoo（本图岛）/ very dear friend of mine（我非常亲爱的朋友）
 
@@ -252,6 +296,8 @@ modified: "2026-09-07"
 
 > **原句 29:** The Nawab raised his hand, which was adorned by a ring with a blue stone. Realising that I was supposed to kiss it, as if he were the Pope himself, I lowered my lips, trying to keep as great a distance from the tiger cub as I could.
 
+**中文理解**：Nawab 抬起戴蓝宝石戒指的手，Hannah 才明白要像对教皇那样去吻它；她俯身去吻，同时尽量离脚边那只虎崽远一点。
+
 **关键词**：adorned by a ring with a blue stone（装饰着蓝宝石戒指）/ kiss it, as if he were the Pope himself（亲吻它，就像他是教皇一样）/ as great a distance from the tiger cub as I could（尽可能远离小虎崽）
 
 **为什么这样写**：Hannah 的"不适"——"as if he were the Pope himself"暗示 Hannah 的"不适"。"as great a distance from the tiger cub as I could"暗示 Hannah 的"恐惧"。
@@ -259,6 +305,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"Realising that I was supposed to kiss it, as if he were the Pope himself"（意识到我应该亲吻它，就像他是教皇一样）——这种措辞暗示 Hannah 的"不适"。
 
 > **原句 30:** 'Forgive my ignorance,' I said, 'but I am not familiar with the island of Bentoo.' 'It lies in the middle of the ocean, two weeks' voyage south of India,' the Nawab said, in heavily accented English. I remembered seeing a prospectus for Arcadia in William's rooms.
+
+**中文理解**：她坦言自己对本图岛一无所知；Nawab 用浓重口音的英语说那岛在大洋中央、从印度南行要走两周。她想起在 William 房里见过 Arcadia 的招股书。
 
 **关键词**：heavily accented English（浓重口音的英语）/ prospectus for Arcadia（阿卡迪亚的招股说明书）
 
@@ -268,6 +316,8 @@ modified: "2026-09-07"
 
 > **原句 31:** An engraving upon the front had depicted a tropical island with palm trees and exotic birds. 'Does your island have a connection to Arcadia?' The Nawab frowned, and I sensed that I'd said the wrong thing. I glanced rather anxiously at William, fearing a reaction like that of Jonas on the day of the dinner at the Vestry Hall.
 
+**中文理解**：招股书封面画着一座长满棕榈、有异鸟的热带岛屿；她问本图岛是否与 Arcadia 有关，Nawab 立刻皱眉，她知道自己说错了话，紧张地看向 William，怕重演 Jonas 发火那一幕。
+
 **关键词**：depicted a tropical island（描绘了一个热带岛屿）/ said the wrong thing（说错了话）/ fearing a reaction（担心反应）
 
 **为什么这样写**：Hannah 的"紧张"——"said the wrong thing"暗示 Hannah 的"紧张"。"fearing a reaction"暗示 Hannah 的"恐惧"。
@@ -275,6 +325,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"I sensed that I'd said the wrong thing"（我感觉到我说错了话）——这种措辞暗示 Hannah 的"紧张"。
 
 > **原句 32:** But he only smiled. 'I promise you, Farook. Mrs Cole can be trusted.' He glanced at me. 'You're not going to sell our secrets in Whitehall, or to our competitors, I hope?' 'I should hardly know where to start,' I said, bemused.
+
+**中文理解**：不想 Nawab 只是笑了，William 保证 Mrs Cole 值得信任，还半开玩笑地问她总不会把秘密卖到 Whitehall 或竞争对手手里吧；Hannah 一脸困惑，说自己根本不知从何卖起。
 
 **关键词**：can be trusted（可以信任）/ sell our secrets in Whitehall（在白厅出售我们的秘密）/ bemused（困惑）
 
@@ -284,6 +336,8 @@ modified: "2026-09-07"
 
 > **原句 33:** The Nawab studied me for what felt like an eternity, before he seemed to relent. 'Arcadia is a colony upon the eastern tip of Bentoo,' he said, bending to ruffle the fur on the back of the tiger cub's neck. 'My uncle, the Maharajah of Paan, opened our doors to the Englishmen ten years ago.'
 
+**中文理解**：Nawab 盯了她许久才松口：Arcadia 是 Bentoo 东端的一块殖民地，十年前他叔父 Maharajah of Paan 向英国人打开了大门；他边说边弯腰去揉虎崽后颈的毛。
+
 **关键词**：what felt like an eternity（感觉像永恒一样）/ eastern tip of Bentoo（本图岛的东端）/ Maharajah of Paan（帕恩大君）
 
 **为什么这样写**：Nawab 的"信任"——"what felt like an eternity"暗示 Nawab 的"信任"。"Maharajah of Paan"暗示 Nawab 的"权力"。
@@ -291,6 +345,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"before he seemed to relent"（在他似乎放松之前）——这种措辞暗示 Nawab 的"傲慢"。
 
 > **原句 34:** 'Our syndicate has leased the land for a period of one hundred years,' William said. 'It was I who first conceived it, when I visited the island during my travels. Between myself, the Nawab, the Maharajah and Mr Bennett we brought it to fruition.'
+
+**中文理解**：William 补充说辛迪加把这块地租了一百年，是他在旅行途中先起意，再与 Nawab、大君和 Mr Bennett 一同促成。
 
 **关键词**：leased the land for a period of one hundred years（租了一百年）/ first conceived it（首先构思了它）/ brought it to fruition（使它实现）
 
@@ -300,6 +356,8 @@ modified: "2026-09-07"
 
 > **原句 35:** 'It sounds a most impressive achievement,' I said. 'What do you cultivate there, sir?' The Nawab seemed confused by the question, and I wondered if his English wasn't as good as it had first appeared.
 
+**中文理解**：Hannah 称赞这是了不起的成就，又问那里种些什么；Nawab 似乎被问住了，她暗自怀疑他的英语并没有初见时那么好。
+
 **关键词**：most impressive achievement（最令人印象深刻的成就）/ cultivate（耕种）
 
 **为什么这样写**：Hannah 的"好奇"——"most impressive achievement"暗示 Hannah 的"好奇"。"cultivate"暗示 Hannah 的"无知"。
@@ -307,6 +365,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"It sounds a most impressive achievement"（这听起来是最令人印象深刻的成就）——这种措辞暗示 Hannah 的"好奇"。
 
 > **原句 36:** 'Spices and sugar for the most part,' William said. 'The climate is perfect for both. Which is why we endeavour to keep our business quiet. The Maharajah's greatest fear is that once the European powers learn about our profits, one of them will send a flotilla to take the island and our colony, too.'
+
+**中文理解**：William 代为回答：主要种香料和糖，气候正合适；正因如此他们才尽量低调，大君最怕欧洲列强一旦知道利润，就会派舰队来夺岛、连殖民地一并拿走。
 
 **关键词**：spices and sugar（香料和糖）/ endeavour to keep our business quiet（努力保持我们的业务安静）/ flotilla（舰队）
 
@@ -316,6 +376,8 @@ modified: "2026-09-07"
 
 > **原句 37:** I learned rather more about Arcadia over supper. We dined in an adjoining room with yellow silk wallpaper painted with butterflies and a magnificent table laid with elaborate arrangements of fruit and flowers. I found myself seated between the colonel and Lord Richard, and though William was down the other end of the table, next to the Nawab, I could at least catch his eye.
 
+**中文理解**：晚宴上她了解到更多 Arcadia 的事：餐厅糊着画蝴蝶的黄绸墙纸，桌上水果鲜花摆得极讲究；她坐在上校与 Lord Richard 之间，William 远在长桌另一端陪 Nawab，只能隔桌交换眼神。
+
 **关键词**：learned rather more about Arcadia（学到了更多关于阿卡迪亚的知识）/ yellow silk wallpaper painted with butterflies（黄色丝绸壁纸上画着蝴蝶）/ elaborate arrangements（精心布置）
 
 **为什么这样写**：Hannah 的"学习"——"learned rather more about Arcadia"暗示 Hannah 的"学习"。"elaborate arrangements"暗示 Hannah 的"渺小"。
@@ -323,6 +385,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"I found myself seated between the colonel and Lord Richard"（我发现我坐在上校和理查德勋爵之间）——这种措辞暗示 Hannah 的"不安"。
 
 > **原句 38:** Various soups and stews were served, and platters of dressed fish. I'd had to remove my gloves to eat, and I was very conscious of my hands, which were covered with old burns and scars. While we ate, Lord Richard pointed out some of the paintings in the room.
+
+**中文理解**：席间接连上汤、炖菜和一盘盘调味鱼；她不得不脱下手套进食，对自己满是旧烫伤和疤痕的双手格外在意。Lord Richard 边吃边指点墙上的画。
 
 **关键词**：platters of dressed fish（一盘盘调味鱼）/ remove my gloves to eat（脱下手套吃饭）/ old burns and scars（旧烧伤和疤痕）
 
@@ -332,6 +396,8 @@ modified: "2026-09-07"
 
 > **原句 39:** I'd only heard of a few of the artists, but the others nodded knowledgeably, and I felt a little embarrassed by my ignorance. 'That jade dragon on the mantelshelf used to be owned by a Chinese emperor. My great-grandfather bought it for a song.'
 
+**中文理解**：那些画家她只听过几个名字，别人却都懂行地点头，她为自己的无知发窘；Lord Richard 说壁炉架上那条玉龙曾属一位中国皇帝，是他曾祖父捡便宜买下的。
+
 **关键词**：nodded knowledgeably（会意地点头）/ embarrassed by my ignorance（为我的无知感到尴尬）/ bought it for a song（便宜买到）
 
 **为什么这样写**：Hannah 的"无知"——"embarrassed by my ignorance"暗示 Hannah 的"无知"。"bought it for a song"暗示 Lord Richard 的"财富"。
@@ -339,6 +405,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"I felt a little embarrassed by my ignorance"（我为我的无知感到有点尴尬）——这种措辞暗示 Hannah 的"不安全感"。
 
 > **原句 40:** 'Don't let the Nawab hear you saying that,' the colonel cautioned. 'He already suspects that we're out to rob his uncle blind.' I studied his face. 'You're not, are you?' 'Heavens, no,' the colonel exclaimed. 'Farook has little enough to complain about, not that it will stop him.'
+
+**中文理解**：上校提醒她别让 Nawab 听见这话，说对方已怀疑他们要把他的叔父榨干；Hannah 盯着他问“你们没有吧”，上校大声否认，说 Farook 没什么可抱怨的，虽然这拦不住他抱怨。
 
 **关键词**：rob his uncle blind（抢劫他的叔叔）/ little enough to complain about（没有什么可抱怨的）
 
@@ -348,6 +416,8 @@ modified: "2026-09-07"
 
 > **原句 41:** Our colony is making his uncle a fortune. We gave him very generous terms, some might say too generous. But William insisted upon a fair deal for all parties concerned, including the colonists.' 'Who are they?' I asked. 'Where did they come from?'
 
+**中文理解**：上校说殖民地替大君赚了大钱，条件给得极宽，甚至有人说太宽，但 William 坚持各方——包括移民——都得到公平交易；Hannah 追问那些移民是什么人、从哪儿来。
+
 **关键词**：making his uncle a fortune（为他的叔叔创造财富）/ very generous terms（非常慷慨的条款）/ fair deal for all parties concerned（对所有相关方公平交易）
 
 **为什么这样写**：Billy 的"正义"——"fair deal for all parties concerned"暗示 Billy 的"正义"。"very generous terms"暗示 Billy 的"慷慨"。
@@ -355,6 +425,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"But William insisted upon a fair deal for all parties concerned"（但威廉坚持对所有相关方公平交易）——这种措辞暗示 Billy 的"正义"。
 
 > **原句 42:** 'Scotland, for the most part,' the colonel said. 'They indenture themselves for five years, and at the end of it they receive a small plantation. Because they are working upon their own behalf and we can evict anyone whose labour we deem insufficient, our harvests are abundant.'
+
+**中文理解**：上校说多半来自苏格兰，他们签五年契约，期满得一小块种植园；因为他们是替自己干活，而资方可以赶走“劳力不足”的人，所以收成丰厚。
 
 **关键词**：indenture themselves for five years（契约五年）/ small plantation（小种植园）/ evict anyone whose labour we deem insufficient（驱逐任何我们认为劳动不足的人）
 
@@ -364,6 +436,8 @@ modified: "2026-09-07"
 
 > **原句 43:** 'Then there are no slaves on your plantations?' 'Not one,' the colonel said. 'William was insistent about that too.' 'What a worthy enterprise,' I said. 'The Atlantic trade has never sat well with me. I would be interested in purchasing Arcadian sugar for my shop.'
 
+**中文理解**：Hannah 问种植园里是否没有奴隶，上校说一个也没有，这也是 William 坚持的；她称赞这是可敬的事业，说自己一向不喜大西洋贸易，想为店里进 Arcadia 的糖。
+
 **关键词**：no slaves on your plantations（你的种植园里没有 slaves）/ worthy enterprise（有价值的事业）/ Atlantic trade（大西洋贸易）
 
 **为什么这样写**：Hannah 的"道德"——"no slaves on your plantations"暗示 Hannah 的"道德"。"worthy enterprise"暗示 Hannah 的"认可"。
@@ -371,6 +445,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"The Atlantic trade has never sat well with me"（大西洋贸易从来都不让我舒服）——这种措辞暗示 Hannah 的"道德"。
 
 > **原句 44:** 'We have a shipment due next week,' the colonel said. 'You should have William speak to Mr Bennett. I am certain that he could get you a good price.' I resolved to talk to William about it, though I would raise the subject delicately, in case he felt that I was taking advantage of his connections.
+
+**中文理解**：上校说下周有一船货到，让她通过 Mr Bennett 去谈，保证能拿到好价；她决定跟 William 提，但要说得委婉，免得他以为她在利用他的人脉。
 
 **关键词**<td>shipment due next week（下周有货）/ raise the subject delicately（微妙地提出这个话题）/ taking advantage of his connections（利用他的关系）
 
@@ -380,6 +456,8 @@ modified: "2026-09-07"
 
 > **原句 45:** There was a lull in conversation while the plates were cleared, and then a peacock pie was served, along with many other platters of meat and beautifully dressed vegetables. The pie tasted just like chicken to me, but everybody made appreciative noises and I joined in.
 
+**中文理解**：撤盘时谈话静了片刻，随后上了一只孔雀馅饼和许多肉食、精致蔬菜；她觉得馅饼吃起来跟鸡肉无异，却还是随大家一起发出赞叹。
+
 **关键词**：lull in conversation（谈话暂停）/ peacock pie（孔雀馅饼）/ appreciative noises（赞赏的声音）
 
 **为什么这样写**：Hannah 的"不习惯"——"appreciative noises"暗示 Hannah 的"不习惯"。"peacock pie"暗示 Hannah 的"惊讶"。
@@ -387,6 +465,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"The pie tasted just like chicken to me"（馅饼对我来说尝起来就像鸡肉）——这种措辞暗示 Hannah 的"不习惯"。
 
 > **原句 46:** Nervous about how my iced cream would compare alongside such delights, I prayed that Oscar had everything under control in the kitchens. As if reading my thoughts, William caught my eye, and gave me a smile of encouragement.
+
+**中文理解**：她担心自己的冰奶油比不过这些佳肴，祈祷厨房里的 Oscar 一切顺利；William 像看穿她心思般迎上目光，给了她一个鼓励的笑。
 
 **关键词**<td>nervous about how my iced cream would compare（担心我的冰淇淋如何与这些美食相比）/ reading my thoughts（读懂我的心思）/ smile of encouragement（鼓励的微笑）
 
@@ -396,6 +476,8 @@ modified: "2026-09-07"
 
 > **原句 47:** All around me, the guests were discoursing freely about their wealth - in a manner that would have impressed Jonas, but shocked my father. Lord Richard was buying a painting by Watteau, another gentleman was buying a racehorse, and Mrs Parmenter couldn't stop talking about a yellow diamond necklace she'd seen in a shop on Bond Street.
 
+**中文理解**：满桌客人坦然谈论财富：Lord Richard 要买一幅 Watteau，另一位要买赛马，Mrs Parmenter 则念念不忘 Bond Street 店里见过的黄钻项链。Hannah 想，这做派会让 Jonas 赞叹，却会吓坏她父亲。
+
 **关键词**：discoursing freely about their wealth（自由地谈论他们的财富）/ buying a painting by Watteau（购买一幅华托的画）/ yellow diamond necklace（黄色钻石项链）
 
 **为什么这样写**：Hannah 的"渺小"——"discoursing freely about their wealth"暗示 Hannah 的"渺小"。"yellow diamond necklace"暗示 Hannah 的"惊讶"。
@@ -403,6 +485,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"All around me, the guests were discoursing freely about their wealth"（我周围的所有客人都在自由地谈论他们的财富）——这种措辞暗示 Hannah 的"渺小"。
 
 > **原句 48:** 'Everybody has a dream,' the colonel said, perhaps observing my detachment from the conversation. 'Wealth merely opens the door to opportunity. Take Lord Carter down there. He wishes to build a country house that will rival Blenheim in splendour. One that will stand as his legacy for centuries to come.'
+
+**中文理解**：上校看出她插不上话，便说人人都有梦想，财富只是打开机会之门；他指远处那位 Lord Carter，说此人想建一座可与 Blenheim 媲美的乡间大宅，作为留传数百年的遗产。
 
 **关键词**：everybody has a dream（每个人都有一个梦想）/ wealth merely opens the door to opportunity（财富只是打开了机会之门）/ rival Blenheim in splendour（与布莱尼姆相媲美）
 
@@ -412,6 +496,8 @@ modified: "2026-09-07"
 
 > **原句 49:** 'While Mr Llewellyn there dreams only of winning the Newmarket Town Plate. For my own part, I wish to build an experimental hospital. I have seen too many men die over the years for want of effective treatments. I hope in the future we shall see rather less.'
 
+**中文理解**：上校又说另一位只梦想赢下 Newmarket Town Plate；而他自己想建一所实验医院，因为这些年见太多人因缺有效治疗而死，希望往后少些。
+
 **关键词**：winning the Newmarket Town Plate（赢得纽马克特镇盘）/ experimental hospital（实验医院）/ for want of effective treatments（因为缺乏有效的治疗）
 
 **为什么这样写**：Colonel 的"善良"——"experimental hospital"暗示 Colonel 的"善良"。"for want of effective treatments"暗示 Colonel 的"经历"。
@@ -419,6 +505,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"I have seen too many men die over the years for want of effective treatments"（这些年来我看到太多人因为缺乏有效的治疗而死亡）——这种措辞暗示 Colonel 的"经历"。
 
 > **原句 50:** 'Another worthy enterprise,' I said. 'Don't think me entirely worthy,' the colonel said, with a grin. 'My wife has her eye on a rather fine house near to the palace. She is a great confidante of the countess, which necessitates court dress and all the rest. I'd be in the Fleet, were it not for Arcadia. Now how about you? What's your dream? Don't tell me you don't have one. Everybody does.'
+
+**中文理解**：Hannah 说这又是一件可敬的事业，上校笑着承认自己没那么高尚：妻子看中宫附近一所好宅子，她是伯爵夫人的密友，得置办宫廷礼服等行头，若没有 Arcadia 他早进债务人监狱了。随后他反问她的梦想。
 
 **关键词**：don't think me entirely worthy（不要认为我完全有价值）/ great confidante of the countess（伯爵夫人的密友）/ in the Fleet（在舰队监狱）
 
@@ -428,6 +516,8 @@ modified: "2026-09-07"
 
 > **原句 51:** To be free from Mr Fielding. To be free to marry William. But that was the one thing money could not buy me. I recalled the old dreams we'd had, back in the days when my husband had loved me: Jonas the Great. 'In the early days of our marriage, my late husband and I dreamed about buying the shop next door and knocking them into one,' I said.
 
+**中文理解**：她心里真正的答案是摆脱 Fielding、自由地嫁给 William，可这是钱买不到的唯一一样；于是她讲起从前与 Jonas 的旧梦——买下隔壁店铺，把两家打通。
+
 **关键词**：free from Mr Fielding（摆脱菲尔丁先生）/ free to marry William（自由嫁给威廉）/ the one thing money could not buy me（钱买不到的唯一东西）/ knocking them into one（把它们打通）
 
 **为什么这样写**：Hannah 的"梦想"——"the one thing money could not buy me"暗示 Hannah 的"梦想"。"knocking them into one"暗示 Hannah 的"过去"。
@@ -435,6 +525,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"To be free from Mr Fielding. To be free to marry William"（摆脱菲尔丁先生。自由嫁给威廉）——这种措辞暗示 Hannah 的"梦想"是"真实"的。
 
 > **原句 52:** That house fell vacant a few months ago, and nobody has bought it yet. Sometimes I imagine how I would fit it out, all the improvements I would make if money were no object. The thought of it occasioned me a little frisson of excitement. Once probate was granted, I'd have enough money to buy that house, though not enough to fit it out as well.
+
+**中文理解**：那房子几个月前空了出来，至今没人买；她常想象若钱不成问题该怎么布置、做哪些改造，一想就兴奋。遗嘱认证一到手她买得起，却不够按心意装修。
 
 **关键词**：fell vacant（空置）/ fit it out（装修）/ frisson of excitement（一阵兴奋）
 
@@ -444,6 +536,8 @@ modified: "2026-09-07"
 
 > **原句 53:** 'Hold on to that ambition,' the colonel told me, rather fiercely. 'You must be ready to seize opportunity whenever it arrives.' The footmen cleared the plates again, and once they had withdrawn, Lord Richard rose to his feet.
 
+**中文理解**：上校语气颇严厉地叫她守住这份抱负，机会一来就要抓住；男仆再次撤盘退下后，Lord Richard 站起身来。
+
 **关键词**：hold on to that ambition（坚持那个抱负）/ seize opportunity whenever it arrives（每当机会来临时抓住它）
 
 **为什么这样写**：Colonel 的"鼓励"——"seize opportunity whenever it arrives"暗示 Colonel 的"鼓励"。"hold on to that ambition"暗示 Colonel 的"支持"。
@@ -451,6 +545,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"You must be ready to seize opportunity whenever it arrives"（你必须准备好每当机会来临时抓住它）——这种措辞暗示 Colonel 的"鼓励"。
 
 > **原句 54:** 'As you know, my father couldn't be here tonight, but he did ask me to say a few words on his behalf. When our good friend, William Devereux, glimpsed the soft white sands of a distant island amidst an ocean of deepest blue, who might have guessed that it would lead us here.'
+
+**中文理解**：Lord Richard 说父亲今晚不能来，托他代讲几句：当年 William Devereux 在深蓝大洋中望见远方岛屿的白沙时，谁会想到事情能走到今天这一步。
 
 **关键词**：couldn't be here tonight（今晚不能来）/ say a few words on his behalf（代表他说几句话）/ soft white sands of a distant island（遥远岛屿的白色软沙）
 
@@ -460,6 +556,8 @@ modified: "2026-09-07"
 
 > **原句 55:** 'Through Devereux's vision - and Mr Bennett's diligence - and the trust bestowed upon us by the maharajah and His Excellency, we have created a paradise on earth.' He grinned. 'A very profitable paradise.' Everybody laughed, raising their glasses.
 
+**中文理解**：他称赞凭 Devereux 的眼光、Bennett 的勤勉，以及大君与殿下给予的信任，他们造出了人间天堂——还笑着补一句“一个很赚钱的天堂”，满座举杯大笑。
+
 **关键词**<td>Devereux's vision（德弗罗的愿景）/ Mr Bennett's diligence（班尼特先生的勤奋）/ trust bestowed upon us（授予我们的信任）/ paradise on earth（人间天堂）
 
 **为什么这样写**：Lord Richard 的"赞美"——"paradise on earth"暗示 Lord Richard 的"赞美"。"very profitable paradise"暗示 Lord Richard 的"幽默"。
@@ -467,6 +565,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"We have created a paradise on earth"（我们创造了人间天堂）——这种措辞暗示 Lord Richard 的"赞美"。
 
 > **原句 56:** 'In the second year of our syndicate's business, every person here saw a twenty-three per cent return. By the fifth year that figure stood at fifty per cent. Now we double our money year upon year.' I knew how extraordinary such profits were from my conversation with William on our first trip to the icehouse.
+
+**中文理解**：他报出回报：头一年人人拿到百分之二十三，第五年已到五十，如今逐年翻倍。Hannah 想起初访冰库时 William 讲过的利润，知道这种数字何等惊人。
 
 **关键词**<td>twenty-three per cent return（23%的回报）/ fifty per cent（50%）/ double our money year upon year（每年翻倍）
 
@@ -476,6 +576,8 @@ modified: "2026-09-07"
 
 > **原句 57:** Little wonder men like Jonas and Sir James had been so eager to be a part of it. 'To celebrate our success,' Lord Richard went on, 'I asked Mrs Cole to create us a dessert worthy of Arcadia.' My hands were moist, my breathing shallow. What if the iced cream had melted? Or the mould had not come away easily?
 
+**中文理解**：难怪 Jonas 和 Sir James 那样的人都急着入伙；Lord Richard 宣布为庆祝成功，请 Mrs Cole 做一道配得上 Arcadia 的甜点。Hannah 手心发潮、呼吸变浅，担心冰奶油化了、或脱模不顺。
+
 **关键词**<td>eager to be a part of it（渴望成为其中的一部分）/ dessert worthy of Arcadia（配得上阿卡迪亚的甜点）/ hands were moist, my breathing shallow（手心出汗，呼吸急促）
 
 **为什么这样写**：Hannah 的"紧张"——"hands were moist, my breathing shallow"暗示 Hannah 的"紧张"。"dessert worthy of Arcadia"暗示 Hannah 的"压力"。
@@ -483,6 +585,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"What if the iced cream had melted"（如果冰淇淋融化了怎么办）——这种措辞暗示 Hannah 的"紧张"。
 
 > **原句 58:** Lord Richard rang a silver bell, a signal for the doors to be thrown open once again. A footman marched in, bearing a plate covered in a silver cloche. He placed it ceremoniously in the centre of the table and then whisked away the cloche. There was a gasp from the guests and then a ripple of applause.
+
+**中文理解**：Lord Richard 摇响银铃，门再度打开，男仆端进罩着银盖的盘子，郑重放在桌子中央，随后揭开；满座先是一声惊叹，接着响起一片掌声。
 
 **关键词**<td>rang a silver bell（摇响银铃）/ silver cloche（银罩）/ gasp from the guests（客人的惊叹）/ ripple of applause（一阵掌声）
 
@@ -492,6 +596,8 @@ modified: "2026-09-07"
 
 > **原句 59:** My pineapple stood proudly upon the silver plate, fashioned from iced cream, yet nearly indistinguishable from the genuine article. Theo, who had an artistic bent, had painted the eyes with coloured dyes, and real pineapple leaves were affixed to the top. I'd had to use a third of the flesh of my pineapple in order to make the iced cream, and the guinea Lord Richard had paid me wouldn't come close to meeting the cost.
 
+**中文理解**：银盘上是她做的菠萝：用冰奶油塑成，几乎与真菠萝无异；有艺术天分的 Theo 用食用色素点了“眼睛”，顶上插着真菠萝叶。为做这份冰奶油她用掉三分之一果肉，而 Lord Richard 付的一基尼连成本都不够。
+
 **关键词**<td>fashioned from iced cream（用冰淇淋制作）/ nearly indistinguishable from the genuine article（几乎与真品无法区分）/ artistic bent（艺术天赋）/ affixed to the top（固定在顶部）
 
 **为什么这样写**：Hannah 的"精心"——"nearly indistinguishable from the genuine article"暗示 Hannah 的"精心"。"artistic bent"暗示 Theo 的"天赋"。
@@ -499,6 +605,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"I'd had to use a third of the flesh of my pineapple in order to make the iced cream"（我不得不用菠萝肉的三分之一来制作冰淇淋）——这种措辞暗示 Hannah 的"牺牲"。
 
 > **原句 60:** But sometimes you had to spend money to make money, and I hoped William's rich friends would now patronise my shop. It was only a pity that the Countess of Yarmouth wasn't there. William beamed at me with pride, as the guests exclaimed their astonishment, and lauded the flavour.
+
+**中文理解**：但她想有时得先花钱才能赚钱，指望 William 的有钱朋友日后光顾她的店；唯一可惜的是伯爵夫人不在场。宾客惊叹称好，William 也骄傲地朝她笑。
 
 **关键词**<td>spend money to make money（花钱赚钱）/ patronise my shop（光顾我的店）/ beamed at me with pride（骄傲地对我微笑）/ lauded the flavour（赞美味道）
 
@@ -508,6 +616,8 @@ modified: "2026-09-07"
 
 > **原句 61:** Lord Richard proposed another toast, this time in my honour, and I basked as everybody applauded once again. Even Mrs Parmenter's curt remark that her tongue felt horribly numb couldn't dent my exhilaration at how the night had gone.
 
+**中文理解**：Lord Richard 又提议为她干杯，她在掌声中陶然；连 Mrs Parmenter 抱怨舌头麻得厉害的冷话，也没能扫掉她的兴。
+
 **关键词**<td>proposed another toast（提议再干一杯）/ in my honour（以我的名义）/ basked as everybody applauded（沉浸在所有人的掌声中）/ curt remark（简短的话）
 
 **为什么这样写**：Hannah 的"成功"——"basked as everybody applauded"暗示 Hannah 的"成功"。"curt remark"暗示 Mrs Parmenter 的"轻蔑"。
@@ -515,6 +625,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"Even Mrs Parmenter's curt remark that her tongue felt horribly numb couldn't dent my exhilaration"（甚至蒙特福德夫人简短的话说她的舌头感觉非常麻木，也无法削弱我的兴奋）——这种措辞暗示 Hannah 的"成功"。
 
 > **原句 62:** Two hours later, at nearly midnight, I was still bubbling with the thrill of my success. We were making our farewells in the entrance hall, when William drew me aside. 'I'm afraid that Mr Bennett has some urgent business he needs to discuss with me. I don't know why it can't wait until tomorrow, but he was most insistent.'
+
+**中文理解**：近午夜她仍为成功兴奋不已；在门厅告别时 William 把她拉到一边，说 Mr Bennett 有急事要谈，虽不知为何不能等到明天，但对方非常坚持。
 
 **关键词**<td>bubbling with the thrill of my success（沉浸在成功的激动中）/ urgent business（紧急事务）/ most insistent（最坚持）
 
@@ -524,6 +636,8 @@ modified: "2026-09-07"
 
 > **原句 63:** 'Of course,' I said, trying to conceal my disappointment. 'I can take the hackney home with Theo and Oscar.' 'You will not,' William exclaimed. 'Once I've got rid of Bennett, I want you all to myself.' I want you. Those words still sent a delicious shiver through me.
 
+**中文理解**：她说无妨，可以和 Theo、Oscar 坐马车回去；William 不肯，说打发走 Bennett 之后只想单独和她在一起。“I want you”这句话仍让她一阵酥麻。
+
 **关键词**<td>conceal my disappointment（掩饰我的失望）/ take the hackney home（坐马车回家）/ want you all to myself（想独自拥有你）/ delicious shiver（美妙的颤抖）
 
 **为什么这样写**：Billy 的"渴望"——"want you all to myself"暗示 Billy 的"渴望"。"delicious shiver"暗示 Hannah 的"渴望"。
@@ -531,6 +645,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"I want you. Those words still sent a delicious shiver through me"（我想要你。那些话仍然让我感到一阵美妙的颤抖）——这种措辞暗示 Hannah 的"渴望"是"真实"的。
 
 > **原句 64:** The carriage was brought round, and once the three of us were seated inside, William turned to Mr Bennett. 'Now George,' he said, 'what's all this about?' Mr Bennett gave me a sidelong glance, but William waved an impatient hand. 'You can speak in front of Mrs Cole, or not at all.'
+
+**中文理解**：马车来了，三人坐定，William 转向 Bennett 问“George，到底什么事”；Bennett 瞥了她一眼，William 不耐烦地摆手，说有话就当着 Mrs Cole 讲，否则别讲。
 
 **关键词**<td>sidelong glance（斜视）/ impatient hand（不耐烦的手）/ speak in front of Mrs Cole（在科尔太太面前说话）
 
@@ -540,6 +656,8 @@ modified: "2026-09-07"
 
 > **原句 65:** Seeing that he had little choice, Bennett launched into an explanation: 'I received word this morning from Captain Rigby of the Silver Star. She's been impounded in Lisbon. The harbour master says we owe him fees, which is a pack of lies.'
 
+**中文理解**：Bennett 只好说明：今早收到 Silver Star 号船长 Rigby 的消息，船在 Lisbon 被扣，港务长说他们欠费，纯属胡说。
+
 **关键词**<td>received word this morning（今天早上收到消息）/ impounded in Lisbon（在里斯本被扣押）/ pack of lies（一堆谎言）
 
 **为什么这样写**：Mr Bennett 的"紧急"——"impounded in Lisbon"暗示 Mr Bennett 的"紧急"。"pack of lies"暗示 Mr Bennett 的"愤怒"。
@@ -547,6 +665,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"I received word this morning from Captain Rigby of the Silver Star"（我今天早上收到了银星号船长里格比的消息）——这种措辞暗示 Mr Bennett 的"紧急"。
 
 > **原句 66:** I could see from Bennett's face that this news was occasioning him great distress. I guessed he had been holding it in all evening, trying to appear unruffled. William greeted the news rather more calmly. 'How much does he say we owe?'
+
+**中文理解**：从 Bennett 脸上看得出这事让他极难受，她猜他整晚都在硬撑、装作若无其事；William 听到消息倒平静得多，只问对方说欠多少。
 
 **关键词**<td>occasioning him great distress（给他带来极大的痛苦）/ holding it in all evening（整晚都在压抑）/ appear unruffled（显得镇定）
 
@@ -556,6 +676,8 @@ modified: "2026-09-07"
 
 > **原句 67:** 'Seven hundred pounds. According to him, the debt dates back eight years and the interest has been mounting all that time.' 'Pirate,' William exclaimed. 'Can't we get the law involved?' 'Of course, and we'd probably win. But the delay, man, the delay.'
 
+**中文理解**：Bennett 说七百镑，债务追溯到八年前，利息一路滚到现在；William 骂了一声“海盗”，问能否让法律介入，Bennett 说赢面是有，可官司拖不起。
+
 **关键词**<td>seven hundred pounds（七百英镑）/ debt dates back eight years（债务追溯到八年前）/ interest has been mounting（利息一直在增加）/ get the law involved（让法律介入）
 
 **为什么这样写**：Mr Bennett 的"困境"——"seven hundred pounds"暗示 Mr Bennett 的"困境"。"get the law involved"暗示 Mr Bennett 的"无奈"。
@@ -563,6 +685,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"But the delay, man, the delay"（但延迟，伙计，延迟）——这种措辞暗示 Mr Bennett 的"无奈"。
 
 > **原句 68:** 'Roseberry is in for three hundredweight and contractually he is bound only until the first of September. We'll lose thousands - and my suspicion is that the harbour master knows it. Rigby thinks we'll be able to beat him down, but it will cost us five hundred at least.'
+
+**中文理解**：Bennett 说 Roseberry 订了三百英担，合同只约束到九月一日，拖下去要损失几千；他怀疑港务长正看准这一点。Rigby 认为能压价，但至少也要五百镑。
 
 **关键词**<td>three hundredweight（三百英担）/ contractually he is bound（合同约束）/ beat him down（压价）
 
@@ -572,6 +696,8 @@ modified: "2026-09-07"
 
 > **原句 69:** William thought for a moment. 'So pay him. The cargo's worth twenty times that.' 'I don't have it, not at the moment. Not with my losses upon the Exchange.' 'You should have listened to me upon that score,' William rebuked him mildly.
 
+**中文理解**：William 想了想说那就付，那船货值二十倍于此；Bennett 说手头没有这笔钱，交易所上亏了。William 淡淡责备他当初就该听劝。
+
 **关键词**<td>cargo's worth twenty times that（货物价值是它的二十倍）/ losses upon the Exchange（交易所的损失）/ rebuked him mildly（温和地责备他）
 
 **为什么这样写**：Billy 的"财富"——"cargo's worth twenty times that"暗示 Billy 的"财富"。"rebuked him mildly"暗示 Billy 的"温和"。
@@ -579,6 +705,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"The cargo's worth twenty times that"（货物价值是它的二十倍）——这种措辞暗示 Billy 的"财富"。
 
 > **原句 70:** 'No need to kick a fellow when he's down,' Bennett said. 'I'm reluctant to appeal to the syndicate. They'll all start haggling for better terms and it could end up costing us more. I was hoping you and I might handle it between ourselves. If you could lend me the money, I'll pay you back once the cargo is sold, and you can have another three hundred out of my share by way of interest.'
+
+**中文理解**：Bennett 请他别落井下石，说自己不愿惊动整个辛迪加，怕大家趁机压条件反而更贵；他提出向 William 私下借，货卖出后归还，另从自己那份里多给三百作利息。
 
 **关键词**<td>kick a fellow when he's down（落井下石）/ reluctant to appeal to the syndicate（不愿向辛迪加求助）/ haggling for better terms（讨价还价）/ by way of interest（作为利息）
 
@@ -588,6 +716,8 @@ modified: "2026-09-07"
 
 > **原句 71:** William pulled a face. 'As it happens, I'm not sure I can. I've just put in an offer on a house.' Bennett muttered an oath. 'You can't borrow it?' 'Of course I could,' William said. 'But the money-men will want to know what it is for. They've all heard rumours about Arcadia, and I fear they'll want better terms than the ones you're offering.'
 
+**中文理解**：William 面露难色，说自己刚对一栋房子出了价；Bennett 低声骂了一句，问不能去借吗。William 说能借，但放债人会追问用途，他们已听到 Arcadia 的风声，会要更好的条件。
+
 **关键词**<td>pulled a face（做了个鬼脸）/ put in an offer on a house（对房子出价）/ money-men（放债人）/ better terms（更好的条件）
 
 **为什么这样写**：Billy 的"困境"——"put in an offer on a house"暗示 Billy 的"困境"。"money-men"暗示 Billy 的"财富"。
@@ -595,6 +725,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"I've just put in an offer on a house"（我刚对房子出价）——这种措辞暗示 Billy 的"困境"。
 
 > **原句 72:** Bennett sighed. 'Nine hundred?' 'More like a thousand.' He nodded gloomily. 'I suppose we have little choice.' Perhaps it was all that talk over supper, but as I listened to this conversation, it occurred to me that I might volunteer the money.
+
+**中文理解**：Bennett 叹气问九百行不行，William 说恐怕要一千；Bennett 阴郁地点头，说看来别无选择。Hannah 听着，忽然想到自己可以主动出这笔钱——也许是晚宴上那些话起了作用。
 
 **关键词**<td>nine hundred（九百）/ more like a thousand（更像一千）/ nodded gloomily（沮丧地点头）/ volunteer the money（主动提供钱）
 
@@ -604,6 +736,8 @@ modified: "2026-09-07"
 
 > **原句 73:** Probate was due to be granted in a few days, and with my iced cream profits, I could afford to let my debt run a few weeks longer. Then when the ship returned, I would have eight hundred pounds to my name. Even after I'd settled my debts, I'd have enough to buy and fit out the shop next door.
 
+**中文理解**：遗嘱认证几天内就下来，加上冰奶油的进账，她的债可以再拖几周；等船回来，她名下就有八百镑，还清债后还够买下并装修隔壁店铺。
+
 **关键词**<td>probate was due to be granted in a few days（遗嘱认证将在几天内授予）/ iced cream profits（冰淇淋利润）/ eight hundred pounds（八百英镑）
 
 **为什么这样写**：Hannah 的"想法"——"probate was due to be granted in a few days"暗示 Hannah 的"想法"。"eight hundred pounds"暗示 Hannah 的"财富"。
@@ -611,6 +745,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"Even after I'd settled my debts, I'd have enough to buy and fit out the shop next door"（即使在我还清债务后，我也有足够的钱买下并装修隔壁的商店）——这种措辞暗示 Hannah 的"想法"。
 
 > **原句 74:** Opportunity! For a moment I was tantalised by this dazzling possibility. But in the next moment, reason prevailed, all my father's words about the risks of speculation sounding in my ears.
+
+**中文理解**：“机会”！那一瞬她被这个耀眼的可能性勾住，可下一刻理智占了上风，父亲关于投机风险的话在耳边响起。
 
 **关键词**<td>tantalised by this dazzling possibility（被这种令人眼花缭乱的可能性所吸引）/ reason prevailed（理智占了上风）/ risks of speculation（投机风险）
 
@@ -620,6 +756,8 @@ modified: "2026-09-07"
 
 > **原句 75:** This harbour master sounded like a most dishonest man. What if he demanded more money? What if the ship sank? Or the cargo had spoiled because of the delay? And what was I even doing thinking about speculation, ambition and greed, when Henry Fielding might arrest me at any moment?
 
+**中文理解**：她转念又想：那港务长听着极不老实，万一他加价呢？万一船沉了、货因耽搁坏了呢？何况 Fielding 随时可能抓她，她竟还有心思想投机、野心和贪婪。
+
 **关键词**<td>most dishonest man（最不诚实的人）/ demanded more money（要求更多钱）/ ship sank（船沉了）/ cargo had spoiled（货物变质了）
 
 **为什么这样写**：Hannah 的"恐惧"——"most dishonest man"暗示 Hannah 的"恐惧"。"Henry Fielding might arrest me at any moment"暗示 Hannah 的"恐惧"。
@@ -628,6 +766,8 @@ modified: "2026-09-07"
 
 > **原句 76:** I almost laughed at the hubris of it all. Both men had fallen silent, an air of expectancy between them - as if each was waiting for the other to speak. The silence stretched on, to the point where I began to feel quite awkward, turning away to look out of the window at a party of revellers in Golden Square.
 
+**中文理解**：她几乎为这份自负发笑；两个男人都沉默下来，空气里满是等待，像在等对方先开口，静得让她发窘，只好转头去看 Golden Square 上狂欢的人群。
+
 **关键词**<td>hubris of it all（这一切的傲慢）/ air of expectancy（期待的氛围）/ quite awkward（相当尴尬）/ party of revellers（一群狂欢者）
 
 **为什么这样写**：Hannah 的"尴尬"——"quite awkward"暗示 Hannah 的"尴尬"。"hubris of it all"暗示 Hannah 的"自嘲"。
@@ -635,6 +775,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的说法"I almost laughed at the hubris of it all"（我几乎嘲笑这一切的傲慢）——这种措辞暗示 Hannah 的"自嘲"。
 
 > **原句 77:** Mr Bennett let out a little sigh. 'Don't lose heart, sir,' William said softly. 'One way or another, I'll get that money.'
+
+**中文理解**：Bennett 轻轻叹了口气，William 低声叫他别灰心，说无论如何都会弄到那笔钱。
 
 **关键词**<td>don't lose heart（不要灰心）/ one way or another（无论如何）/ get that money（拿到那笔钱）
 

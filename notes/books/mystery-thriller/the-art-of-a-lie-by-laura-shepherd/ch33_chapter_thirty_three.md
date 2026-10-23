@@ -76,6 +76,8 @@ modified: "2026-09-07"
 
 > **原句 7:** I produced a half-crown from between my fingers. 'Might this prove an adequate inducement?'
 
+**中文理解**：Billy 手指间一变，亮出半克朗银币，笑着问这点钱够不够当「诱因」。他用一个小戏法把钱递出去，既是行骗人的习惯动作，也是在探 Felix 的价码。
+
 **关键词**<td>produced a half-crown from between my fingers（从手指间变出半克朗）| adequate inducement（足够的诱因）
 
 **为什么这样写**：Billy 的"贿赂"——"produced a half-crown"暗示 Billy 的"贿赂"。"adequate inducement"暗示 Billy 的"冷静"。
@@ -94,6 +96,8 @@ modified: "2026-09-07"
 
 > **原句 9:** The monkey was probably diseased and the hurdy-gurdy played flat, but Felix's silence was cheap at the price. It didn't stop me resenting it, watching my profit get smaller and smaller.
 
+**中文理解**：Billy 心里清楚那只猴子多半有病、风琴也走调，但用这点钱买 Felix 闭嘴仍算便宜；只是眼看着自己的利润一点点缩水，他还是忍不住怨恨。这种「算得清却仍心疼」的口气，正是他衡量一切关系的尺子。
+
 **关键词**<td>diseased（有病的）| played flat（走调）| cheap at the price（物超所值）| resenting it（怨恨）| get smaller and smaller（越来越小）
 
 **为什么这样写**：Billy 的"怨恨"——"resenting it"暗示 Billy 的"怨恨"。"cheap at the price"暗示 Billy 的"理性"。
@@ -101,6 +105,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"watching my profit get smaller and smaller"——这种措辞暗示 Billy 的"怨恨"是"真实"的。
 
 > **原句 10:** Nor would she. Tilbury had been a sorry business, all told, but Mary had never blamed me. We'd made good money on the black spice lay, her Stanley, Dick and me. Until the governor had got wind of it and started asking too many questions.
+
+**中文理解**：Billy 想起 Tilbury 那桩倒霉事，Mary 从没怪过他；当年他、她丈夫 Stanley 和 Dick 靠走私黑香料赚了不少，直到总督听到风声、开始追问不休。这段回忆交代了他的军人前科，也解释了他后来为何对 Mary 心怀亏欠。
 
 **关键词】<td>sorry business（遗憾的事）| never blamed me（从未责怪我）| black spice lay（黑香料活儿）| got wind of it（听到风声）
 
@@ -110,6 +116,8 @@ modified: "2026-09-07"
 
 > **原句 11:** We'd been trying to move the gunpowder out in a hurry, when the explosion happened. The evidence against me had been rather damning, but Dick had held his tongue, and I'd talked the court martial round. A dishonourable discharge for negligence was a good outcome under the circumstances.
 
+**中文理解**：他们急着把火药运走时发生了爆炸，对他不利的证据相当扎实，但 Dick 守口如瓶，他又把军事法庭的人说服了，最后只以「疏忽」判了个不光彩退役。在他口中，这场灾祸也成了一次成功脱身。
+
 **关键词】<td>move the gunpowder out in a hurry（匆忙搬走火药）| damning（有罪的）| held his tongue（保持沉默）| talked the court martial round（说服军事法庭）| dishonourable discharge（不光彩的退役）
 
 **为什么这样写**：Billy 的"狡猾"——"talked the court martial round"暗示 Billy 的"狡猾"。"held his tongue"暗示 Dick 的"忠诚"。
@@ -117,6 +125,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"A dishonourable discharge for negligence was a good outcome under the circumstances"——这种措辞暗示 Billy 的"狡猾"是"真实"的。
 
 > **原句 12:** I'd been to see Mary afterwards, to give her some money to keep her sweet. She asked me to stay for supper, and I ended up staying six months. I know what you're thinking: that I robbed her blind as well. Well, you're wrong. I could have, but I didn't. She was Stanley's missus, and I'm sentimental like that.
+
+**中文理解**：事后他去看 Mary，塞钱想让她别多话，结果被留下吃晚饭，一住就是半年；他预先替读者说出那句「你肯定也把她骗光了」，然后否认——他本可以下手，但念在她是 Stanley 的妻子，没做。这段自辩既像真心，也像他惯用的漂亮说法。
 
 **关键词】<td>keep her sweet（讨好她）| ended up staying six months（最终待了六个月）| robbed her blind as well（也把她抢个精光）| Stanley's missus（斯坦利的老婆）| sentimental（感伤的）
 
@@ -126,6 +136,8 @@ modified: "2026-09-07"
 
 > **原句 13:** She'd do anything for me, would Mary. And she made a far more convincing advocate for my trustworthiness than that old drunk, Dick Britten, who could never keep a story straight in his head for long.
 
+**中文理解**：Billy 说 Mary 肯为他做任何事，由她来证明他可信，比那个连一套说辞都记不牢的老酒鬼 Dick Britten 有说服力得多。他把人分成「好用」和「不中用」两类，连旧日同伴也不例外。
+
 **关键词】<td>do anything for me（为我做任何事）| convincing advocate（有说服力的倡导者）| trustworthiness（可信度）| keep a story straight（把故事说清楚）
 
 **为什么这样写**：Billy 的"自信"——"do anything for me"暗示 Billy 的"自信"。"trustworthiness"暗示 Billy 的"操控"。
@@ -134,6 +146,8 @@ modified: "2026-09-07"
 
 > **原句 14:** Tom and I had come up with a story that would weave together all the lies I'd told Hannah into a new tale that would provide a pretty explanation for the uglier truths she'd ferreted out.
 
+**中文理解**：他和 Tom 编好了一套说法，要把先前对 Hannah 说过的谎全部串起来，给她查出的那些难看的真相套上一个体面的解释。这句是全章的纲领：接下来 Amy 的表演都服务于这个「把谎话编圆」的工程。
+
 **关键词】<td>come up with a story（想出一个故事）| weave together（编织在一起）| pretty explanation（漂亮的解释）| uglier truths（更丑陋的真相）| ferreted out（查出）
 
 **为什么这样写**：Billy 的"狡猾"——"weave together"暗示 Billy 的"狡猾"。"ferreted out"暗示 Hannah 的"调查"。
@@ -141,6 +155,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"provide a pretty explanation for the uglier truths"——这种措辞暗示 Billy 的"狡猾"是"真实"的。
 
 > **原句 15:** 'You should have seen her face when she came in,' Amy told me now in the Black Lion. 'Her eyes all big and round, looking sick with nerves. You didn't tell me she was pretty, Bill.'
+
+**中文理解**：Amy 在 Black Lion 酒馆向他汇报，说 Hannah 进门时眼睛瞪得又大又圆、紧张得脸色发白，末了还半真半假地嗔一句「你可没告诉我她长得好看」。这句闲话既写出 Hannah 的忐忑，也点出 Amy 对 Billy 的在意。
 
 **关键词】<td>eyes all big and round（眼睛又大又圆）| sick with nerves（紧张得要命）
 
@@ -170,6 +186,8 @@ modified: "2026-09-07"
 
 > **原句 18:** 'I have been searching for William Everhart for several months,' I said. 'I wish to return to him a bundle of letters that he wrote to my late sister. I also need to tell him that she went to her grave knowing that she was wrong. That at the end, William occupied a place in her heart.'
 
+**中文理解**：扮成 Penelope 的 Amy 一开口就说，她找了 William Everhart 好几个月，只为把当年他写给姐姐的一捆信还给他，并转告他：姐姐临终前已知自己错怪了他，他心里始终有他的位置。这番话先把「上门追查」包装成「替亡姐了愿」，为整场戏定了调。
+
 **关键词】<td>searching for William Everhart for several months（寻找威廉·埃弗哈特好几个月了）| bundle of letters（一捆信）| late sister（已故的姐姐）| went to her grave knowing that she was wrong（带着知道自己错了的认知进了坟墓）| occupied a place in her heart（在她心中占据一席之地）
 
 **为什么这样写**：Amy 的"表演"——"bundle of letters"暗示 Amy 的"表演"。"went to her grave knowing that she was wrong"暗示 Amy 的"台词"。
@@ -177,6 +195,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Amy 的说法"She went to her grave knowing that she was wrong"——这种措辞暗示 Amy 的"表演"是"精心排练"的。
 
 > **原句 19:** 'Eliza fell in love with William Everhart many years ago,' I said. 'He was then a broker upon the Exchange, making his way in the world. Our parents did not approve of the match, but my sister begged them to reconsider, and between us we convinced them to assent to an engagement.'
+
+**中文理解**：她接着讲姐姐 Eliza 多年前爱上当时在交易所做经纪人的 William，父母本不赞成这门亲事，是姐姐苦苦哀求、姐妹俩一起才说服二老点头订婚。这段编出来的家史把 William 抬成一个有前途的正经人，正好对上 Hannah 想听的版本。
 
 **关键词】<td>fell in love with（爱上了）| broker upon the Exchange（交易所经纪人）| making his way in the world（在社会上打拼）| did not approve of the match（不赞成这门婚事）| assent to an engagement（同意订婚）
 
@@ -186,6 +206,8 @@ modified: "2026-09-07"
 
 > **原句 20:** 'A few weeks prior to their marriage, William told my sister that he had once been dishonourably discharged as an army officer. Though he told her that the charges against him had been unjust, my sister was disturbed by this information and confided in our father. He looked into the matter, and became convinced that not only was William a bounder, he was also a thief. He ordered Eliza to break off the engagement, and though it broke her heart to do so, this she did.'
 
+**中文理解**：她继续说，婚前不久 William 向姐姐坦白自己曾以不光彩的方式被逐出军队，姐姐不安，把这事告诉了父亲；父亲一查，认定 William 不只是无赖还是贼，逼 Eliza 解除婚约，姐姐虽心碎还是照做了。这段把「不光彩退役」的旧账翻出来，却预先把它说成一场误会。
+
 **关键词】<td>prior to their marriage（在婚礼之前）| dishonourably discharge（不光彩的退役）| unjust（不公正的）| disturbed by this information（被这个消息困扰）| confided in our father（向我们的父亲倾诉）| bounder（无赖）| break off the engagement（解除婚约）
 
 **为什么这样写**：Amy 的"表演"——"dishonourably discharge"暗示 Amy 的"表演"。"break off the engagement"暗示 Amy 的"台词"。
@@ -193,6 +215,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Amy 的说法"He ordered Eliza to break off the engagement"——这种措辞暗示 Amy 的"表演"是"精心排练"的。
 
 > **原句 21:** 'We only learned it years later, when my sister encountered another officer who had served with William. This gentleman told her that it was the governor of the fort who had manufactured the charges against him. That men he knew had been bribed to tell lies about William at the court martial. That he regretted deeply his own part in the matter, in believing those lies, and how he wished he could find William to make amends.'
+
+**中文理解**：她说这些年来才知道真相：姐姐后来遇到一位与 William 共事过的军官，那人告诉她，当年的指控是堡垒总督捏造的，还有人收了钱在军事法庭上作伪证，那位军官一直想找到 William 弥补。这套说辞把他的污点整个翻成冤屈，为的是让 Hannah 心甘情愿地收回怀疑。
 
 **关键词】<td>encountered another officer（遇到另一个军官）| manufactured the charges（捏造指控）| bribed to tell lies（贿赂说谎）| regretted deeply（深深后悔）| make amends（弥补）
 
@@ -202,6 +226,8 @@ modified: "2026-09-07"
 
 > **原句 22:** When I said it, Mrs Cole clasped her hands together, looking like she might piss herself with happiness. 'I confess I doubted him too. How wrong I was.'
 
+**中文理解**：听她把话说完，Hannah 双手交握，高兴得几乎失态，还主动承认自己也曾怀疑过他、实在错得离谱。这句自责说明戏演成了——她要的不是证据，而是一个可以原谅自己的理由。
+
 **关键词】<td>clasped her hands together（双手紧握）| piss herself with happiness（高兴得要尿裤子）| doubted him too（也怀疑过他）
 
 **为什么这样写**：Hannah 的"轻信"——"piss herself with happiness"暗示 Hannah 的"轻信"。"doubted him too"暗示 Hannah 的"内疚"。
@@ -209,6 +235,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Amy 的说法"looking like she might piss herself with happiness"——这种措辞暗示 Hannah 的"轻信"是"真实"的。
 
 > **原句 23:** I'd taken my time over those letters. If I couldn't convince Hannah to her face, the written word was the next best thing. Of course, those words were designed to appeal to Hannah and her doubts and her conscience, as much as to their fictional recipient.
+
+**中文理解**：那些信是他花了不少心思写的：当面说不通 Hannah，退而求其次就用文字；而信里的话明面上写给虚构的收信人，实际句句冲着 Hannah 的疑虑和良心去。这句点破他的写作动机——情书也是骗术的一部分。
 
 **关键词】<td>taken my time over those letters（花时间写那些 letters）| written word（书面文字）| next best thing（次好的东西）| designed to appeal to（旨在吸引）| fictional recipient（虚构的收件人）
 
@@ -218,6 +246,8 @@ modified: "2026-09-07"
 
 > **原句 24:** Every night as I try to sleep, I hear your cold speech all over again, remembering the suspicion in your eyes. To know that you went behind my back, spoke words of deception to my face - that you did not trust me - I cannot reconcile any of this with the woman I love.
 
+**中文理解**：信里的「William」说，他每夜难眠时都重听见那句冷话、想起她眼里的怀疑；知道她背着自己行事、当面又说谎，他没法把这些与他所爱的女人对上。这段话表面是诉苦，实际是把「不信任」的罪名轻轻推到读信的 Hannah 头上。
+
 **关键词】<td>cold speech（冷言冷语）| suspicion in your eyes（眼中的怀疑）| went behind my back（在背后搞鬼）| spoke words of deception（说谎）| reconcile any of this with the woman I love（将这些与我爱的这个女人调和）
 
 **为什么这样写**：Billy 的"操控"——"went behind my back"暗示 Billy 的"操控"。"suspicion in your eyes"暗示 Billy 的"内疚"。
@@ -225,6 +255,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"remembering the suspicion in your eyes"——这种措辞暗示 Billy 的"内疚"是"真实"的。
 
 > **原句 25:** Upon my word as a gentleman, I am an innocent man, unfairly maligned. Those acts of betrayal committed against me by men I called my friends were the worst of crimes. To be shunned, humiliated, my name traduced in public - I thought little could be worse. Yet that pain is as nothing compared to the torment I suffer now. That you believe those lies, despite the love we shared, is the cruellest wound of all.
+
+**中文理解**：信里继续赌咒：他以绅士的名誉担保自己是清白的，从前被朋友背叛、被众人回避羞辱，他以为那已是最痛；如今她竟也信了那些谎话，这才是最狠的一刀。Billy 把受害者的位置占得满满的，让 Hannah 越读越愧疚。
 
 **关键词】<td>Upon my word as a gentleman（以我绅士的誓言）| unfairly maligned（被不公平地诽谤）| acts of betrayal（背叛行为）| shunned, humiliated, my name traduced in public（被回避、羞辱、我的名字在公开场合被诽谤）| cruellest wound of all（最残忍的伤口）
 
@@ -234,6 +266,8 @@ modified: "2026-09-07"
 
 > **原句 26:** You ask why I did not call those men out, as a man of honour must. The truth is, I blamed myself for everything that had happened to poor Stanley and Richard, good men under my command. I had no desire to see yet more blood and suffering, more children orphaned by my own hand. How I regret that mercy now. I would kill a hundred men in defence of my honour, if it would bring you back to me.
 
+**中文理解**：信里解释他当年为何不找人决斗：他把 Stanley 和 Richard 的遭遇都归咎于自己，不愿再看到流血、再让更多孩子因他成孤儿——如今他反倒后悔这份仁慈，说只要能换回她，他肯为名誉杀一百个人。这段话把「不动手」说成慈悲，又把「肯动手」说成深情，两头都讨好。
+
 **关键词】<td>call those men out（挑战那些人）| as a man of honour must（作为绅士必须做的）| blamed myself for everything（为一切自责）| no desire to see yet more blood and suffering（不想再看到更多鲜血和苦难）| in defence of my honour（为捍卫我的荣誉）
 
 **为什么这样写**：Billy 的"操控"——"call those men out"暗示 Billy 的"操控"。"in defence of my honour"暗示 Billy 的"精心策划"。
@@ -241,6 +275,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"I would kill a hundred men in defence of my honour"——这种措辞暗示 Billy 的"操控"是"精心策划"的。
 
 > **原句 27:** 'Women like a man who would kill for the lady he loves,' Amy had said.
+
+**中文理解**：Amy 早先说过，女人就喜欢肯为心上人动手的男人。这句短话交代了上面那段「杀一百个人」的来历——那不是 Billy 的真心，而是 Amy 给出的设计。
 
 **关键词】<td>kill for the lady he loves（为心爱的女人杀人）
 
@@ -250,6 +286,8 @@ modified: "2026-09-07"
 
 > **原句 28:** Are the rumours true? That you are to marry HIM? I fear that they are. I shall not be there to witness it, worry not. I leave for India tomorrow, a distance yet smaller than that which now exists between us. And if I shall never give another man the opportunity to besmirch my honour again, nor will I ever permit another woman to capture my heart. I struggle to accept that I have lost you, dearest Eliza. But I know that I must.
 
+**中文理解**：信的结尾是一连串自伤的问句：传闻她要嫁给「那个人」可是真的？他明天就去印度，那点路程还不如两人之间现在的距离远；他从此再不许任何人俘获他的心，也只好承认失去了 Eliza。这封绝笔写得越决绝，越像专为赚 Hannah 眼泪而设计的。
+
 **关键词】<td>Are the rumours true?（谣言是真的吗？）| besmirch my honour（玷污我的荣誉）| capture my heart（俘获我的心）| struggle to accept that I have lost you（努力接受我失去了你）
 
 **为什么这样写**：Billy 的"操控"——"besmirch my honour"暗示 Billy 的"操控"。"capture my heart"暗示 Billy 的"精心策划"。
@@ -257,6 +295,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"I leave for India tomorrow"——这种措辞暗示 Billy 的"操控"是"精心策划"的。
 
 > **原句 29:** Amy moistened her lower lip with her tongue. 'I told her: "My sister died knowing that her suspicions had destroyed her one chance of happiness. She regretted it until the end of her days. Her guilt at the hurt she'd caused William is hard to comprehend." And then, get this, Mrs Cole said: "I understand now why he did not tell me the full story about his past. Because he once trusted a woman he loved and he lost her for ever. I don't wonder that he changed his name. Who wouldn't want a new life after all that pain?" Just like you said, Bill. She danced and danced. I gave her the letters to give to you. Do you think she will? No lady likes her man to be reminded of his lost love. I'd just burn them.'
+
+**中文理解**：Amy 复述她怎么对 Hannah 说姐姐带着悔恨死去，又转述 Hannah 的原话——如今明白他为何隐瞒过去，也理解他为何改名；最后 Amy 得意地说 Hannah 高兴得直跳舞，她把信交了出去，还断言没有哪个女人愿意被提醒丈夫的旧情，换她就一把火烧了。Hannah 的彻底相信与 Amy 的冷眼，在这段里对照得很清楚。
 
 **关键词】<td>moistened her lower lip with her tongue（用舌头湿润下唇）| destroyed her one chance of happiness（毁掉了她唯一的机会）| hard to comprehend（难以理解）| danced and danced（跳啊跳）| reminded of his lost love（被提醒他失去的爱情）
 
@@ -266,6 +306,8 @@ modified: "2026-09-07"
 
 > **原句 30:** 'I doubt it,' I said. 'She'd have to explain how she found Felton, which means admitting she didn't trust me. Did she ask you about the money?'
 
+**中文理解**：Billy 却说未必——Hannah 若真去烧信，就得解释她是怎么找到 Felton 的，那等于承认自己一直不信他；他随即追问 Amy，Hannah 有没有问起那笔钱。他关心的始终是钱能不能到手，而不是她的信任。
+
 **关键词】<td>explain how she found Felton（解释她是怎么找到费尔顿的）| admitting she didn't trust me（承认她不相信我）
 
 **为什么这样写**：Billy 的"冷静"——"admitting she didn't trust me"暗示 Billy 的"冷静"。"explain how she found Felton"暗示 Billy 的"分析"。
@@ -273,6 +315,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"She'd have to explain how she found Felton"——这种措辞暗示 Billy 的"冷静"是"真实"的。
 
 > **原句 31:** 'Of course.' Amy smiled rather contemptuously. 'I said my sister had left William fifty pounds in her will, but that I doubted he would ever take it, for despite his financial talents, he had never been overly motivated by money.'
+
+**中文理解**：Amy 轻蔑地一笑，说她早铺好了：告诉 Hannah 姐姐在遗嘱里留给 William 五十英镑，但又说这人未必肯收——他虽有理财的本事，却从不把钱看得太重。这句台词是故意把钱往外推，好让 Hannah 自己把家底送上来。
 
 **关键词】<td>rather contemptuously（相当轻蔑地）| left William fifty pounds in her will（在遗嘱里留给威廉五十英镑）| financial talents（财务天赋）| overly motivated by money（过度被金钱驱动）
 
@@ -282,6 +326,8 @@ modified: "2026-09-07"
 
 > **原句 32:** 'You sweet beauty.' Amy preened, leaning in for another kiss. 'With any luck, she'll be running to her bank as we speak.'
 
+**中文理解**：Billy 夸她「你这小美人」，Amy 得意地凑上来要再亲一下，说运气好的话，Hannah 这会儿已经在往银行跑了。两人把一场骗局当成合演的好戏来庆祝，语气轻快得近乎残忍。
+
 **关键词】<td>preened（得意洋洋）| leaning in for another kiss（倾身吻她）| running to her bank（跑向银行）
 
 **为什么这样写**：Amy 的"得意"——"preened"暗示 Amy 的"得意"。"running to her bank"暗示 Amy 的"自信"。
@@ -289,6 +335,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Amy 的说法"With any luck, she'll be running to her bank as we speak"——这种措辞暗示 Amy 的"自信"是"真实"的。
 
 > **原句 33:** 'Luck? What's that?' I grinned. 'I owe you one, Amy.'
+
+**中文理解**：Billy 笑说「运气？那是什么东西」，又承她一个人情。这句玩笑把功劳归给自己的算计，也顺手把 Amy 拴在下一场合作里。
 
 **关键词】<td>I owe you one（我欠你一个人情）
 
@@ -298,6 +346,8 @@ modified: "2026-09-07"
 
 > **原句 34:** 'You certainly do,' she said, moving my hand onto her breast. 'There's a room free upstairs. I already checked.'
 
+**中文理解**：Amy 说「你当然欠我」，把他的手按到自己胸前，又告诉他楼上正好有间空房，她早就看好了。她的主动既是索酬，也是在试探 Billy 还愿不愿意要她。
+
 **关键词】<td>moving my hand onto her breast（把我的手移到她的胸部）| room free upstairs（楼上有空房）
 
 **为什么这样写**：Amy 的"主动"——"moving my hand onto her breast"暗示 Amy 的"主动"。"room free upstairs"暗示 Amy 的"计划"。
@@ -305,6 +355,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Amy 的说法"There's a room free upstairs. I already checked"——这种措辞暗示 Amy 的"主动"是"真实"的。
 
 > **原句 35:** 'I can't,' I said, pulling away. 'Carpe diem, and all that. Mrs Cole will be waiting to show me how sorry she is.'
+
+**中文理解**：Billy 抽身拒绝，说「得抓紧今天」之类，Hannah 还等着向他表示歉意。他拿一句拉丁文格言装点自己的算计，也第一次在 Amy 面前露出冷淡。
 
 **关键词】<td>pulling away（抽身离开）| Carpe diem, and all that（抓住今天，诸如此类）| show me how sorry she is（向我展示她有多抱歉）
 
@@ -314,6 +366,8 @@ modified: "2026-09-07"
 
 > **原句 36:** Amy's smile faded. 'It's been over two weeks. What's up with you?'
 
+**中文理解**：Amy 的笑容淡了，说已经两个多星期了，问他到底怎么回事。这句抱怨点出 Billy 近来的疏远，也为下一段他的辩解铺路。
+
 **关键词】<td>smile faded（笑容消失）| over two weeks（超过两周）| What's up with you?（你怎么了？）
 
 **为什么这样写**：Amy 的"不满"——"smile faded"暗示 Amy 的"不满"。"What's up with you"暗示 Amy 的"关心"。
@@ -322,6 +376,8 @@ modified: "2026-09-07"
 
 > **原句 37:** She was looking at me like I had another girl on the bounce. I decided to tell her the truth - it was better than her imaginings. 'It's just this job. Taking the lot. I don't relish doing it, that's all. I like to leave my widows better off, not worse.'
 
+**中文理解**：Amy 看他的眼神像在疑心他外头又有了别人，Billy 索性说真话——问题出在这单活上：要把 Hannah 的钱全部拿走，他心里并不好受，他向来愿意让那些寡妇的日子好过一点，而不是更糟。这是他少见的自白，也等于承认这次下手比往常狠。
+
 **关键词】<td>another girl on the bounce（另一个女孩）| better than her imaginings（比她的想象好）| taking the lot（全部拿走）| relish doing it（喜欢做）| leave my widows better off（让我的寡妇们过得更好）
 
 **为什么这样写**：Billy 的"内疚"——"relish doing it"暗示 Billy 的"内疚"。"leave my widows better off"暗示 Billy 的"自嘲"。
@@ -329,6 +385,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"I like to leave my widows better off, not worse"——这种措辞暗示 Billy 的"自嘲"是"真实"的。
 
 > **原句 38:** She stared at me incredulously. 'You don't really believe that, do you? I thought it was just one of your jokes. Jesus, Billy, you break their fucking hearts.'
+
+**中文理解**：Amy 难以置信地瞪着他，说她本以为那只是他的一句笑话，还骂他「天哪 Billy，你是把她们的心都掰碎了」。这句直话戳破了他的自我开脱：他所谓「让寡妇过得好一点」，在别人眼里就是把人骗到心碎。
 
 **关键词】<td>stared at me incredulously（难以置信地盯着我）| just one of your jokes（只是你的一个笑话）| break their fucking hearts（碎了他们的心）
 
