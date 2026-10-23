@@ -1,0 +1,55 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch35",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch35_chapter_34.txt",
+ "facts": [
+  {
+   "fact": "Matty 付了披萨钱，并盯着 Emily 吃够。",
+   "anchor": "It was Matty who paid for the pizzas. Matty who made sure Emily ate enough.",
+   "start": 22,
+   "end": 97
+  },
+  {
+   "fact": "Emily 把 Aiden 的约想成六星酒店、五道菜、四柱床和一枚大钻戒。",
+   "anchor": "Six-star hotel. Five-course dinner. Four-poster bed. One enormous diamond ring.",
+   "start": 671,
+   "end": 750
+  },
+  {
+   "fact": "她故意当着两人的面从瓶里灌下一大口龙舌兰。",
+   "anchor": "she made a show of taking a large swig of tequila from the bottle",
+   "start": 1036,
+   "end": 1101
+  },
+  {
+   "fact": "她假装一小时后去 club 或“随便什么地方”与他们会合。",
+   "anchor": "I’ll meet you at the club or wherever.",
+   "start": 1679,
+   "end": 1717
+  },
+  {
+   "fact": "她记得小时候每次家门响都等着妈妈的脚步声。",
+   "anchor": "She remembered listening for her mum’s steps every time the front door opened at home",
+   "start": 2543,
+   "end": 2628
+  },
+  {
+   "fact": "父亲说不怪她，她回说该怪父亲。",
+   "anchor": "‘Of course it’s not, it’s yours.’",
+   "start": 3435,
+   "end": 3468
+  },
+  {
+   "fact": "Matty 当面叫出 JJ 的真名 Liam Craig。",
+   "anchor": "‘I called you by your name, Liam Craig.",
+   "start": 6279,
+   "end": 6318
+  },
+  {
+   "fact": "JJ 最后警告她别想出门。",
+   "anchor": "‘Don’t make me have to stop you.’",
+   "start": 6900,
+   "end": 6933
+  }
+ ]
+}
