@@ -1,0 +1,55 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch41",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch41_chapter_40.txt",
+ "facts": [
+  {
+   "fact": "Olivia 的父母直到周四才发布声明，距她死亡已四天。",
+   "anchor": "It took Olivia’s parents until the Thursday to release a statement. Four days after her death.",
+   "start": 22,
+   "end": 116
+  },
+  {
+   "fact": "Smith 与 Kate 在笔记本电脑上并肩读完声明，他说“非常动人”，Kate 反问他别这么愤世嫉俗。",
+   "anchor": "‘Very moving,’ said Smith as they read it side by side on Kate’s laptop screen.",
+   "start": 1306,
+   "end": 1385
+  },
+  {
+   "fact": "当晚记者团在 Vicar Lane 一家繁忙的泰餐馆吃饭，同行抱怨警方不配合、认定“人已经抓到了”。",
+   "anchor": "They had dinner with the rest of the pack that night at a busy Thai restaurant on Vicar Lane.",
+   "start": 1927,
+   "end": 2020
+  },
+  {
+   "fact": "次日清晨 Smith 告知 Elliot 已被无条件释放、调查仍在继续，Kate 立刻要联系他做具名报道。",
+   "anchor": "‘Nothing, it’s … Elliot’s been released without charge. Inquiries remain ongoing.",
+   "start": 3523,
+   "end": 3604
+  },
+  {
+   "fact": "Kate 推断 Olivia 既找过 Aiden，也可能联系过 Emily 的其他旧识，比如只给过几句平淡引语的 Alice。",
+   "anchor": "If Olivia contacted Aiden Berkeley, then isn’t there a chance she also contacted other people who knew Emily Pierce?",
+   "start": 5012,
+   "end": 5128
+  },
+  {
+   "fact": "Kate 用 Ancestry 查到 Aiden 的妻子叫 Gloria Jessop，并交叉核实她曾在 Leeds 教历史。",
+   "anchor": "First, to establish that Aiden had been married to a woman called Gloria Jessop",
+   "start": 12061,
+   "end": 12140
+  },
+  {
+   "fact": "她快出门时有人重重砸门，她一度想起 Twitter 威胁而僵住，随后听见 Smith 的声音。",
+   "anchor": "She was almost ready to leave when someone banged loudly on the door. The sound froze her to the spot.",
+   "start": 12851,
+   "end": 12953
+  },
+  {
+   "fact": "Smith 改口：Kate 去守 Olivia 家门，他去 Bramhope 找前妻，并以身体堵住门口逼她交出地址。",
+   "anchor": "‘Change of plan,’ he said, curtly. ‘I’m sick of standing on the doorstep. You cover it today and I’ll go and try the ex-wife.’",
+   "start": 13347,
+   "end": 13473
+  }
+ ]
+}
