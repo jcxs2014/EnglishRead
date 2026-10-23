@@ -42,7 +42,7 @@ title: "ch01 Alpha"
 
 **关键词**：Help
 
-**为什么这样写**： placed after the bone-pulling scene, this moment of humanity disrupts the Butcher's clinical detachment. The Youth's single word "Help" is the first human voice in the chapter, breaking the Butcher's monologue and forcing him to acknowledge another person's suffering.
+**为什么这样写**：这一句被安排在抽骨场景之后，这一瞬间的人性打断了屠夫那种临床式的冷静抽离。青年只说出一个「Help」，却是本章第一次出现的人声，它打断了屠夫的独白，逼他承认另一个人正在受苦。
 
 > **原句 4:** "I am not an angel," the Butcher said. "And my blade is saved for the devil."
 
@@ -52,7 +52,7 @@ title: "ch01 Alpha"
 
 **关键词**：angel, blade, devil
 
-**为什么这样写**：三重否定的修辞模式 reminiscent of Peter's three denials, but here it's not cowardice—it's self-definition. The Butcher defines himself by what he is NOT, before revealing what he IS (a blade reserved for the devil). This creates dramatic irony: he claims to be no healer, yet he's on a mission of "healing" the world through assassination.
+**为什么这样写**：三重否定的修辞模式让人想起彼得三次不认主的场面，但在这里它不是怯懦——而是自我界定。屠夫先说清自己不是什么，再揭示自己是什么（一把为魔鬼保留的刀刃）。这制造了戏剧性反讽：他声称自己不是医者，走的却是一条靠刺杀「医治」世界的路。
 
 > **原句 5:** "I need your help," the Merchant said.
 
@@ -62,7 +62,7 @@ title: "ch01 Alpha"
 
 **关键词**：help
 
-**为什么这样写**：The parallel between "Help" (Youth) and "I need your help" (Merchant) creates a dark irony: the Youth begs to live, the Merchant pays for his son to die. The Butcher stands between these two requests, and his bargaining reveals his true nature—he's a businessman of death.
+**为什么这样写**：「Help」（青年）与「I need your help」（商人）之间的呼应制造了黑色反讽：青年求的是活下去，商人花钱买的是儿子死去。屠夫站在这两个请求之间，而他的讨价还价暴露了他的本性——他是做死亡生意的商人。
 
 > **原句 6:** "It is a great shame when a father abandons his son," the Butcher said over his shoulder.
 
@@ -72,7 +72,7 @@ title: "ch01 Alpha"
 
 **关键词**：shame, father, abandons, son
 
-**为什么这样写**：This line operates on multiple levels. Surface: criticizing the Merchant for leaving his son. Deeper: the Butcher's own guilt about abandoning his family after the Culling. The phrase "over his shoulder" suggests he's not really talking to the Youth—he's talking to himself, or to his past self.
+**为什么这样写**：这句话同时在几个层次上起作用。表层：指责商人丢下儿子。深层：屠夫对自己在大屠杀之后抛弃家人的罪疚。「over his shoulder」这个动作说明他其实不是在跟青年说话——他是在对自己说，或者在对过去的自己说。
 
 > **原句 7:** "I was a butcher, not an assassin, but our beloved King Herod cared not."
 
@@ -82,7 +82,7 @@ title: "ch01 Alpha"
 
 **关键词**：butcher, assassin, beloved, Herod
 
-**为什么这样写**：The distinction between "butcher" and "assassin" is the Butcher's central self-justification. A butcher kills animals (livestock, necessary work); an assassin kills people (murder). By insisting he was "a butcher, not an assassin," he tries to minimize his moral culpability. But "our beloved King Herod cared not" undercuts this—Herod (and by extension, the Butcher himself) erased this distinction.
+**为什么这样写**：「屠夫」与「刺客」之分是屠夫的核心自我辩护。屠夫杀的是牲畜，是他口中必要的活计；刺客杀的是人，是谋杀。他坚持自己是「a butcher, not an assassin」，是想把道德责任压到最小。但「our beloved King Herod cared not」把这一点抽掉了——希律王（进而也包括屠夫自己）把这个区别抹掉了。
 
 > **原句 8:** "I fled to Egypt and laid down my sakin and spent many years as a maker of city roads."
 
@@ -92,7 +92,7 @@ title: "ch01 Alpha"
 
 **关键词**：fled, laid down, sakin, maker, city roads
 
-**为什么这样写**：The tricolon (fled/laid down/spent) creates a narrative of transformation. "Laid down my sakin" echoes "lay down your arms"—a gesture of peace. But the fact that he mentions the sakin at all shows he hasn't fully let go of his past identity. The roads (building) contrast with the Culling (destroying), establishing his penance through constructive labor.
+**为什么这样写**：三个动词的排比（fled / laid down / spent）构成一条转变的叙事线。「Laid down my sakin」呼应「lay down your arms」，是一个求和的手势。但他终究还是提到了那把 sakin，说明他并没有完全放下过去的身份。筑路（建设）与「大屠杀」（毁灭）形成对照，把他的赎罪落在建设性的劳作上。
 
 > **原句 9:** "I must finish the Culling…"
 
@@ -104,7 +104,7 @@ title: "ch01 Alpha"
 
 **关键词**：finish, Culling, eradicate, memory, false king
 
-**为什么这样写**：The ellipsis between the two sentences creates a pause that suggests the Butcher's hesitation or the gravity of his task. "Finish the Culling" reframes the Massacre of the Innocents as an incomplete project, with Jesus as the one who escaped. "Eradicate any with memory" elevates the task from assassination to erasure—eliminating not just the person but the very possibility of his story being told.
+**为什么这样写**：两句之间的省略号造出一个停顿，暗示屠夫的迟疑，或这项任务的分量。「Finish the Culling」把「无辜婴儿大屠杀」重新叙述成一个尚未完成的项目，而耶稣是唯一逃掉的那一个。「Eradicate any with memory」把任务从刺杀提升为抹除——不只除去这个人，还要除去他的故事被讲述的任何可能。
 
 **关键词**：eradicate, memory, false king
 
@@ -117,7 +117,7 @@ title: "ch01 Alpha"
 
 **关键词**：Indeed, simple, arduous
 
-**为什么这样写**：The circular return to "simple though arduous" creates a frame narrative. The word "Indeed" suggests confirmation—he has moved from questioning to acceptance. But the unchanged "though arduous" reminds us that his doubt persists. The chapter ends not with resolution but with resigned acceptance, setting up the tension for the rest of the novel.
+**为什么这样写**：回到「simple though arduous」形成首尾呼应的框架。Indeed 一词表示确认——他已经从质疑走到了接受。但「though arduous」一字未改，提醒我们他的怀疑仍在。本章的结尾不是和解，而是认命的接受，为全书余下的张力做了铺垫。
 
 ## 词汇
 

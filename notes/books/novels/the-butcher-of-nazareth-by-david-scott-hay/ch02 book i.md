@@ -22,7 +22,7 @@ title: "ch02 Book I"
 
 **关键词**：slaughter, ceremony, dance, acknowledgement, sacrifice
 
-**为什么这样写**：The Butcher's monologue to the goat is a displacement activity—he's really talking about his own past. The contrast between animal slaughter (with ceremony) and infant slaughter (without) reveals his lingering guilt. By addressing the goat, he avoids directly confronting his own trauma while still processing it.
+**为什么这样写**：屠夫对山羊说的这段独白是一种替代行为——他其实在讲自己的过去。牲畜被杀（有仪式）与婴儿被杀（无仪式）之间的对照，暴露了他挥之不去的罪疚。他借对着山羊说话，避开直接面对自己的创伤，却又在暗中把它消化掉。
 
 > **原句 2:** "My specialty lies at the beginning of life," she said. "And as for this young man, he is not long for this world. You have my condolences."
 
@@ -32,7 +32,7 @@ title: "ch02 Book I"
 
 **关键词**：specialty, beginning of life, not long for this world, condolences
 
-**为什么这样写**：The Midwife's professional identity (birth) is set against the Butcher's (death). Her specialty is "the beginning of life" while his was ending lives. The phrase "not long for this world" is clinical and detached, mirroring the Butcher's own detachment. Her "condolences" are perfunctory, suggesting she's seen enough death to be desensitized.
+**为什么这样写**：助产士的职业身份（接生）与屠夫的身份（致死）正好相对。她的专长是「生命的开端」，他做的却是终结生命。「not long for this world」这句话冷静而疏离，映照出屠夫自己的疏离。她的「condolences」只是例行公事，说明她见过的死亡已多到令她麻木。
 
 > **原句 3:** "Not a father, are you?" The Midwife leaned over and whispered into the Youth's ear.
 
@@ -42,7 +42,7 @@ title: "ch02 Book I"
 
 **关键词**：father, whispered
 
-**为什么这样写**：The Midwife's question cuts to the core of the Butcher's identity crisis. He was a father who became a child-killer. Her whisper to the Youth (revealing his name/opium use) establishes her as someone who extracts secrets. The question "Not a father, are you?" is both personal attack and professional assessment.
+**为什么这样写**：助产士这一问直刺屠夫身份危机的核心：他本是一个父亲，后来却成了杀孩子的人。她对青年耳语（说出他的名字、他吸食鸦片的事），说明她属于那种能从人嘴里掏出秘密的人。「Not a father, are you?」这一问既是人身攻击，也是职业判断。
 
 > **原句 4:** "I am not a looter." / "They can't get poorer, the dying."
 
@@ -52,7 +52,7 @@ title: "ch02 Book I"
 
 **关键词**：looter, poorer, dying
 
-**为什么这样写**：The exchange reveals the Midwife's moral framework: she sees through the Butcher's self-justifications. "They can't get poorer, the dying" is a devastating one-liner that exposes the absurdity of the Butcher's distinction between "payment" and "looting." The dying are beyond economic exploitation.
+**为什么这样写**：这番交锋显出助产士的道德框架：她看穿了屠夫的自我辩解。「They can't get poorer, the dying」是一句极具杀伤力的一行话，戳破了屠夫在「付钱」与「掠夺」之间所作区分的荒谬——垂死的人已经不可能在经济上再被剥削了。
 
 > **原句 5:** "I cannot leave his side."
 
@@ -60,7 +60,7 @@ title: "ch02 Book I"
 
 **关键词**：leave, side, cannot
 
-**为什么这样写**：The Butcher's insistence on staying is the first sign of his attachment to the Youth.
+**为什么这样写**：屠夫坚持留在青年身边，这是他依恋青年的第一个迹象。
 
 > **原句 6:** "The more we haggle, the more daylight is lost, and I have yet to slaughter my lamb."
 
@@ -70,7 +70,7 @@ title: "ch02 Book I"
 
 **关键词**：haggle, daylight, slaughter, lamb
 
-**为什么这样写**：The Butcher's insistence on staying ("I cannot leave his side") is the first sign of his attachment to the Youth. The Midwife's impatience ("the more we haggle, the more daylight is lost") establishes her as pragmatic and time-conscious. The juxtaposition of "slaughter my lamb" with the Butcher's past of slaughtering infants creates an uncomfortable parallel.
+**为什么这样写**：屠夫坚持不走（「I cannot leave his side」），这是他依恋青年的第一个迹象。助产士的不耐烦（「the more we haggle, the more daylight is lost」）显出她务实、看重时间。「slaughter my lamb」这句与他过去屠杀婴儿的经历并置，形成一种令人不安的对应。
 
 > **原句 7:** "The Lord will guide my hand."
 
@@ -80,7 +80,7 @@ title: "ch02 Book I"
 
 **关键词**：Lord, guide, hand
 
-**为什么这样写**：This phrase recurs throughout the novel as the Butcher's self-justification mantra. It appears before violent acts (slaughtering the lamb, contemplating murder). The phrase transforms personal violence into divine duty, revealing how faith can be weaponized to justify atrocity. Its repetition creates a ritualistic, almost liturgical quality.
+**为什么这样写**：这句话在全书反复出现，是屠夫用来自我辩护的口头禅。它总是出现在暴力行为之前（宰杀羔羊、盘算杀人）。这句话把个人的暴力转化为神的职责，显出信仰如何可以被武器化、用来为暴行正名。它的重复带有仪式感，几乎像经文。
 
 > **原句 8:** "The proclamation shocked the Butcher's attitude, as if he had dunked his head into a bucket of spring water."
 
@@ -90,7 +90,7 @@ title: "ch02 Book I"
 
 **关键词**：proclamation, shocked, dunked, spring water
 
-**为什么这样写**：The simile of dunking one's head in cold water is visceral and physical, contrasting with the intellectual shock. The Butcher's reaction reveals his hope: if these are truly the Magi's descendants, they might have information about Jesus. This hope is immediately undercut by the revelation that they are impostors.
+**为什么这样写**：把头浸进冷水这个比喻是身体性的、可感的，与智识上的震惊形成对照。屠夫的反应暴露了他的希望：如果这些人真是东方三博士的后裔，他们或许知道耶稣的消息。这个希望随即被打掉——他们是冒牌货。
 
 > **原句 9:** "I will kill him first."
 
@@ -100,7 +100,7 @@ title: "ch02 Book I"
 
 **关键词**：kill, first
 
-**为什么这样写**：This internal monologue reveals the Butcher's true nature beneath his pious exterior. While outwardly he's a guest at a supper, inwardly he's calculating murders. The phrase "I will kill him first" is chilling in its casualness—he's already decided, and the only question is order. This parallels his past as a "butcher of children" where he also calculated efficiency.
+**为什么这样写**：这段内心独白露出屠夫虔诚外表下的真实本性。表面上他是晚宴上的客人，内里却在盘算杀人。「I will kill him first」的随意令人发冷——他已经决定了，剩下的只是顺序问题。这与他当年做「杀孩子的人」时一样，也是在计算效率。
 
 > **原句 10:** "They crave a story. And I provide it."
 
@@ -110,7 +110,7 @@ title: "ch02 Book I"
 
 **关键词**：crave, story, provide
 
-**为什么这样写**：This revelation is the thematic key of Book I. The "nativity" was a performance, and the Persians were paying customers. The Midwife's line "They crave a story. And I provide it" reframes the entire chapter: the sacred narrative of Jesus's birth is being commodified and performed. This mirrors the Butcher's own "task"—he too is "providing" a service (assassination) that others "crave" (Herod's paranoia). Both characters are in the business of providing stories.
+**为什么这样写**：这个揭示是第一卷的主题钥匙。那场「耶稣诞生」只是一次演出，波斯人是付了钱的顾客。助产士这句「They crave a story. And I provide it」把整章重新定性：耶稣降生这一神圣叙事被商品化、被表演。这也映照屠夫自己的「任务」——他同样在「提供」一项别人「渴求」的服务（刺杀，对应希律王的偏执）。两个人做的都是提供故事的生意。
 
 > **原句 11:** "This was but a pantomime?" / "Theater?"
 
@@ -120,7 +120,7 @@ title: "ch02 Book I"
 
 **关键词**：pantomime, theater
 
-**为什么这样写**：The Butcher's shock reveals his naivety—he believed the nativity reenactment was real. His question "This was but a pantomime?" echoes his own self-deception: he believed his "task" (killing Jesus) was a genuine divine mission, but the Midwife's revelation suggests all sacred narratives might be performances. The one-word follow-up "Theater?" is devastating in its brevity.
+**为什么这样写**：屠夫的震惊暴露了他的天真——他原以为那场「圣诞」再现是真的。「This was but a pantomime?」这一问也回响着他自己的自我欺骗：他相信自己的「任务」（杀耶稣）是一项真正的神圣使命，而助产士的揭示暗示，所有神圣叙事都可能是演出。紧接着的一词追问「Theater?」短得令人心惊。
 
 ## 词汇
 

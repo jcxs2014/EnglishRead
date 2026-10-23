@@ -22,7 +22,7 @@ title: "ch05 Omega"
 
 **关键词**：edge, world, desert
 
-**为什么这样写**：The final chapter shifts from the Butcher to Jesus, completing the novel's theological inversion. Jesus—not the Butcher—is now the central figure, standing at the "edge of the world" (a liminal space between known and unknown). The desert, which was the Butcher's road of penance, becomes Jesus's road of mission. This perspective shift suggests the Butcher's story was always secondary to Jesus's.
+**为什么这样写**：末章把视点从屠夫移开、落到耶稣身上，完成了全书的神学倒转。中心人物现在是耶稣而不是屠夫，他站在「世界的边缘」（已知与未知之间的临界地带）。沙漠本是屠夫的赎罪之路，如今成了耶稣的使命之路。这个视角转移暗示：屠夫的故事从头到尾都从属于耶稣的故事。
 
 > **原句 2:** "father / sacrifice / healing / anger / rage / madness"
 
@@ -32,7 +32,7 @@ title: "ch05 Omega"
 
 **关键词**：father, sacrifice, healing, anger, rage, madness
 
-**为什么这样写**：The six words form a psychological profile. "Father" (divine paternity) leads to "sacrifice" (the Crucifixion), which leads to "healing" (his mission), but also "anger," "rage," and "madness" (his human darkness). The progression from spiritual to psychological suggests Jesus is not purely divine—he contains the same violent potential the Butcher does. The goat, as silent witness, receives these words without judgment.
+**为什么这样写**：这六个词构成一份心理剖面。「father」（神性的父）引向「sacrifice」（十字架之死），再引向「healing」（他的使命），但同时也引出「anger」「rage」「madness」（他属人的黑暗）。从灵性滑向心理的这条线说明耶稣并非纯然神性——他身上有和屠夫一样的暴力潜能。山羊作为沉默的见证者，不加判断地收下这些词。
 
 > **原句 3:** "GREETINGS."
 
@@ -54,7 +54,7 @@ title: "ch05 Omega"
 
 **关键词**：companion
 
-**为什么这样写**：The shift to ALL CAPS suggests divine authority or revelation. "Adversary" is the most loaded word in the novel—it's what Jesus calls the goat, which was the Butcher's companion. This redefines the Butcher's entire journey: the goat (and by extension, the Butcher) was Jesus's "adversary" all along, but now Jesus invites it to be his "companion." The transformation from adversary to companion mirrors the novel's central question: can violence be redeemed into fellowship?
+**为什么这样写**：全大写的转换暗示神性的权威或启示。「Adversary」是全书分量最重的一个词——耶稣用它称呼那头山羊，而山羊原是屠夫的同伴。这重新定义了屠夫整段旅程：山羊（推而广之，屠夫本人）一直是耶稣的「对手」，而此刻耶稣邀它作「同伴」。从对手到同伴的转变，正对应全书的核心追问：暴力能否被赎回为同行的情谊？
 
 > **原句 6:** "And the beast follows."
 
@@ -64,7 +64,7 @@ title: "ch05 Omega"
 
 **关键词**：beast, follows
 
-**为什么这样写**：The novel's final sentence is devastatingly ambiguous. "The beast follows" could mean: (1) the goat (the Butcher's companion) follows Jesus, (2) the Beast (the demonic entity from Book III) follows Jesus, or (3) the Butcher himself (now transformed into "the beast") follows Jesus. The absence of a period (em-dash "–The End–") suggests continuation rather than conclusion. The beast following Jesus into the desert echoes the Butcher's own desert journey, creating a circular structure: the Butcher followed the goat, now the beast follows Jesus.
+**为什么这样写**：全书最后一句歧义极大，且正因歧义而有力。它至少可以读成三种意思：（1）那头山羊（屠夫的同伴）跟随耶稣；（2）「野兽」（第三卷里那个魔性存在）跟随耶稣；（3）屠夫本人（此时已化为「野兽」）跟随耶稣。句末不用句号（而是破折号「–The End–」），暗示的是延续而不是收束。野兽跟着耶稣走进沙漠，回响着屠夫自己的沙漠之旅，构成环形：先前是屠夫跟着山羊，如今是野兽跟着耶稣。
 
 ## 词汇
 

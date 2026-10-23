@@ -22,7 +22,7 @@ title: "ch04 Book III"
 
 **关键词**：oversized, bright, rode, goat, Nazareth
 
-**为什么这样写**：The Butcher's disguise as a "potbelly" (swaddled infant under tunic) is both practical and symbolic. He carries a dead baby (the Midwife's son) as if it were alive, mirroring Mary carrying Jesus. The "bright clothes" and "Egyptian jester's hat" make him a figure of ridicule, contrasting with his self-image as a divine agent. This disguise is his final performance—becoming a fool to get close to his target.
+**为什么这样写**：屠夫把自己伪装成一个「大肚子」（束腰衣下裹着一名婴儿），这既是实用的，也是象征的。他抱着一具死婴（助产士的儿子）当作活婴，与玛利亚抱着耶稣形成镜像。「bright clothes」和「Egyptian jester's hat」让他成为一个可笑的人物，与他自视为神之使者的形象正相反。这层伪装是他最后一场演出——扮成小丑，只为接近目标。
 
 > **原句 2:** "Dear Lord, please tell me I have not led senseless slaughter to Nazareth's doorstep."
 
@@ -32,7 +32,7 @@ title: "ch04 Book III"
 
 **关键词**：Dear Lord, senseless slaughter, doorstep
 
-**为什么这样写**：This prayer reveals the Butcher's growing moral awareness. He's no longer the clinical killer of ch01—he fears causing collateral damage. "Senseless slaughter" vs. his "purposeful" Culling shows his rationalization: his violence has always had a purpose (Herod's orders, YHWH's command), but now he confronts the possibility of purposeless violence. The word "led" suggests he sees himself as a leader of destruction.
+**为什么这样写**：这句祈祷显出屠夫的道德意识在生长。他不再是第一章那个临床式的杀手——他开始害怕造成附带伤害。「Senseless slaughter」与他口中「有目的」的大屠杀并置，暴露了他的自辩逻辑：他的暴力一直都有目的（希律王的命令、YHWH 的吩咐）；可如今他面对的是一种可能毫无目的的暴力。「led」一词说明他把自己看作毁灭之途的带领者。
 
 > **原句 3:** "The Lord will guide my hand."
 
@@ -42,7 +42,7 @@ title: "ch04 Book III"
 
 **关键词**：Lord, guide, hand
 
-**为什么这样写**：This phrase now appears at its most chilling: before the Beast attack, before the Butcher considers killing Jesus. The repetition has become mechanical—the Butcher no longer believes it but uses it as a psychological crutch. Its appearance here, when he's about to face the Beast, reveals how faith has become a tool for violence rather than a source of genuine guidance.
+**为什么这样写**：这句话在这里出现得最冷：就在野兽袭击之前，就在屠夫考虑杀耶稣之前。重复已经变得机械——他不再相信它，只是拿它当心理拐杖。它偏偏出现在他将要面对野兽的时刻，说明信仰已经变成施暴的工具，而不是真正指引的来源。
 
 > **原句 4:** "I am not the Chosen."
 
@@ -52,7 +52,7 @@ title: "ch04 Book III"
 
 **关键词**：not, Chosen
 
-**为什么这样写**：This is the novel's most subversive moment. Jesus—the "false king" the Butcher seeks to kill—doubts his own divinity. This parallels the Butcher's doubt about his mission. Both characters are trapped by roles imposed on them (Messiah/assassin). Jesus's denial of being "Chosen" undermines the entire sacred narrative, suggesting the "false king" might be just as human and uncertain as the Butcher.
+**为什么这样写**：这是全书最具颠覆性的一刻。耶稣——屠夫要杀的那个「假王」——在怀疑自己的神性。这与屠夫对自己任务的怀疑互为平行。两个人都被强加的角色困住（弥赛亚／刺客）。耶稣否认自己「被选中」，动摇了整个神圣叙事：那位「假王」也许和屠夫一样是人，一样不确定。
 
 > **原句 5:** "A fire burns in men not yet born, atrocities committed in your name: the metal cages, the trampling horses, the burning stakes, the severed tongues, the exiles, and genocide, and at last, the ashen shadows and glassing of Judea. In the name of my sacrificed son, your spilled blood will extinguish the coming flame deluge. This is your bounty."
 
@@ -62,7 +62,7 @@ title: "ch04 Book III"
 
 **关键词**：fire, atrocities, metal cages, trampling horses, burning stakes, severed tongues, exiles, genocide, ashen shadows, glassing, sacrificed son, spilled blood, flame deluge, bounty
 
-**为什么这样写**：This passage reveals the novel's theological core. The "Beast" (possibly the Butcher's own dark side, or a demonic entity) prophesies future violence committed "in Jesus's name"—Crusades, Inquisition, etc. The paradox is devastating: Jesus's sacrifice (the Crucifixion) will be used to justify atrocities. The demand for "your spilled blood" to "extinguish" the flame deluge suggests the Butcher must die to prevent future violence—a reversal of his mission (he came to kill, now he must be killed). "This is your bounty" is bitterly ironic—the "bounty" is his own death.
+**为什么这样写**：这一段是全书的神学核心。「野兽」（可能是屠夫自己的黑暗面，也可能是某种魔鬼实体）预言今后会有人以耶稣之名施暴——十字军、宗教裁判所之类。其中的悖论极为沉重：耶稣的牺牲（钉十字架）将被用来为暴行正名。它要求「your spilled blood」去「extinguish」那场火焰洪流，意味着屠夫必须死才能阻止未来的暴力——这是对他任务的翻转：他本是来杀人的，如今却必须被杀。「This is your bounty」是苦涩的反讽——这份「赏赐」就是他自己的死。
 > **原句 6:** "And now an eerie silence blankets Nazareth."
 
 **中文理解**：拿撒勒被诡异的寂静笼罩。
@@ -71,7 +71,7 @@ title: "ch04 Book III"
 
 **关键词**：eerie, silence, blankets
 
-**为什么这样写**：The silence is the novel's atmospheric turning point. After the noisy chaos of the Beast attack, the silence is more terrifying than sound. "Blankets" suggests suffocation—Nazareth is being smothered. This silence precedes the Beast's return, creating dramatic tension through absence rather than presence.
+**为什么这样写**：这片寂静是全书气氛的转折点。野兽袭击的喧闹混乱之后，寂静比声音更可怕。「Blankets」带有窒息感——拿撒勒像被蒙住了。这寂静出现在野兽回返之前，用「缺席」而不是「在场」造出戏剧张力。
 
 > **原句 7:** "Wounds staunched, they rush Mary back to Nazareth on a litter."
 
@@ -81,7 +81,7 @@ title: "ch04 Book III"
 
 **关键词**：Wounds, staunched, rush, litter
 
-**为什么这样写**：The passive construction "Wounds staunched" (without specifying who staunched them) emphasizes the chaos and urgency. The word "rush" contrasts with the earlier leisurely pace of the Butcher's arrival. Mary's injury (caused by the Beast) is the physical manifestation of the violence that follows the Butcher wherever he goes.
+**为什么这样写**：「Wounds staunched」用被动结构（不说是谁包扎的），强调混乱与急迫。「rush」与先前屠夫进村时不紧不慢的节奏形成对照。玛利亚受伤（由野兽所致）是那股跟着屠夫到哪就到哪的暴力的肉身化显现。
 
 > **原句 8:** "Afterwards, they burned the Beast, its carcass nailed to the ground with the stakes retrieved from the pool."
 
@@ -91,7 +91,7 @@ title: "ch04 Book III"
 
 **关键词**：burned, Beast, carcass, nailed, stakes, pool
 
-**为什么这样写**：The Beast's destruction mirrors the Crucifixion: nailed to the ground, burned. But this is a false crucifixion—the Beast is not Jesus, and its destruction doesn't save anyone. The "stakes retrieved from the pool" connect to Jesus's earlier thoughts about "the pool" (possibly the Pool of Bethesda). The burning of the Beast is both victory and defeat: the village is saved, but the Butcher's mission remains unfulfilled.
+**为什么这样写**：野兽的毁灭与钉十字架互为镜像：钉在地上、烧掉。但这是一次假的十字架——野兽不是耶稣，它的死救不了任何人。「stakes retrieved from the pool」接上耶稣先前关于「the pool」（可能是毕士大池）的念头。烧死野兽既是胜利也是失败：村子得救了，可屠夫的任务仍未完成。
 
 > **原句 9:** "The goat watches them travel past the pool, the apiary, and the Culling graveyard."
 
@@ -101,7 +101,7 @@ title: "ch04 Book III"
 
 **关键词**：goat, watches, pool, apiary, Culling graveyard
 
-**为什么这样写**：The final image of the goat watching them leave is the novel's closing tableau. The goat—present since ch01—has been the Butcher's only constant companion. Its watching (rather than following) suggests the Butcher's journey is complete in some way. The three locations (pool, apiary, graveyard) represent the novel's arc: healing (pool), community (apiary), and death (graveyard). The goat's perspective is the only non-human viewpoint, offering a final, wordless commentary.
+**为什么这样写**：山羊目送他们离开，是全书收束的一幅画面。这头山羊从第一章起就在，是屠夫唯一始终如一的同伴。它只是「望着」而不是「跟着」，暗示屠夫的旅程在某种意义上已经走完。三个地点（池子、养蜂场、墓地）对应全书的弧线：医治（池子）、社群（养蜂场）、死亡（墓地）。山羊的视角是全书唯一的非人视角，给出最后一句无言的评注。
 
 ## 词汇
 

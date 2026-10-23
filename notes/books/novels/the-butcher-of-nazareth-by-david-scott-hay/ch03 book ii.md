@@ -22,7 +22,7 @@ title: "ch03 Book II"
 
 **关键词**：shed, enough, blood, Culling
 
-**为什么这样写**：This rhetorical question reveals the Butcher's fundamental inability to comprehend the concept of "enough" suffering. He quantifies guilt ("enough blood") as if morality were a ledger. The question is also deeply ironic—he's asking if his past violence has "paid" for his present situation, when in fact his past violence is the cause of his present persecution.
+**为什么这样写**：这个反问句暴露了屠夫根本理解不了「够」这个概念——他无法设想痛苦有满足的时候。他把罪疚量化（「enough blood」），仿佛道德是一本账簿。这句话也极具反讽：他在问自己过去的暴力是否已经为眼下的处境「付清」了代价，而实际上，正是过去的暴力造成了他眼下的迫害。
 
 > **原句 2:** "Before I was a Pharisee, I was a Black Mask. I wore this one. I participated in the Culling."
 
@@ -32,7 +32,7 @@ title: "ch03 Book II"
 
 **关键词**：Pharisee, Black Mask, wore, participated, Culling
 
-**为什么这样写**：The Pharisee's confession mirrors the Butcher's own unspoken guilt. The progression from religious authority (Pharisee) to terrorist (Black Mask) to participant (Culling) reveals how institutions can sanitize violence. "I wore this one" is devastating in its casualness—the mask is an object, easily donned and removed, suggesting the banality of evil.
+**为什么这样写**：法利赛人的坦白与屠夫未曾说出口的罪疚互为镜像。从宗教权威（法利赛人）到恐怖分子（黑面具）再到参与者（大屠杀），这一路的递降说明制度如何能把暴力洗干净。「I wore this one」的随意令人心惊——面具只是一件物件，随时戴上、随时摘下，暗示恶的平庸。
 
 > **原句 3:** "It took a third slice to silence the crying of my son."
 
@@ -42,7 +42,7 @@ title: "ch03 Book II"
 
 **关键词**：third, slice, silence, crying, son
 
-**为什么这样写**：This is the most horrifying line in the novel. The Pharisee's clinical description ("a third slice") of killing his own son reveals how violence becomes routine even for the perpetrator. The word "silence" is especially chilling—it reduces a child's death to the cessation of noise. This parallels the Butcher's own description of his killings ("I said a prayer and imagined them livestock").
+**为什么这样写**：这是全书最骇人的一句。法利赛人用临床般的口吻描述杀死亲生儿子的过程（「a third slice」），说明暴力对施暴者本人也会变成例行公事。「silence」一词尤其冷——它把一个孩子的死压缩成噪音的停止。这与屠夫自述杀人的说法（「I said a prayer and imagined them livestock」）正相对应。
 
 > **原句 4:** "Who among you has lost a babe to the Culling?"
 
@@ -52,7 +52,7 @@ title: "ch03 Book II"
 
 **关键词**：Who, among you, lost, babe, Culling
 
-**为什么这样写**：The Thief's question transforms the stoning from punishment into testimony. By asking "who has lost a babe," he forces the crowd to confront their own victimhood rather than their vengeance. The question is rhetorical—every hand rises—but its effect is to humanize the Butcher by revealing the shared trauma that connects perpetrator and victims.
+**为什么这样写**：盗贼这一问把石刑从惩罚变成了作证。他问「谁因大屠杀失去过孩子」，逼人群去面对自己的受害，而不是自己的复仇。这是反问——每一只手都举了起来——但它的效果是让屠夫重新成为一个人：它揭出施害者与受害者共有的创伤。
 
 > **原句 5:** "My daughter."
 
@@ -62,7 +62,7 @@ title: "ch03 Book II"
 
 **关键词**：My, daughter
 
-**为什么这样写**：The two-word revelation is devastating in its economy. After pages of denial and evasion, the Butcher's identity as a father is forced upon him through his daughter's testimony. The possessive "My" is crucial—it's not "a daughter" but "my daughter," emphasizing the biological bond that makes his past violence unforgivable. The absence of a verb suggests the Butcher is frozen, unable to process.
+**为什么这样写**：两个词就完成了揭示，省到极处反而最重。经过多页的否认与回避，女儿的一句作证把他「父亲」的身份硬按回他身上。所有格「My」是关键——不是「a daughter」，而是「my daughter」，强调那层生物性的纽带，而正是这层纽带让他过去的暴力无法被原谅。没有动词，暗示屠夫僵在原地，无法处理眼前的事。
 
 > **原句 6:** "Jesus of Nazareth."
 
@@ -72,7 +72,7 @@ title: "ch03 Book II"
 
 **关键词**：Jesus, Nazareth
 
-**为什么这样写**：The revelation comes after extreme violence (hand amputation, burning), suggesting truth can only be extracted through torture. The name "Jesus of Nazareth" is stated plainly, without title or epithet—just a name and place. This contrasts with the Midwife's elaborate "King of the Jews, Son of YHWH" etc. The simplicity of the name emphasizes the gap between myth and man.
+**为什么这样写**：这个揭示出现在极端暴力（断手、火烧）之后，暗示真相只能靠酷刑逼出。「Jesus of Nazareth」只是平直地说出一个名字加一个地方，没有头衔、没有尊号。这与助产士那一大串「King of the Jews, Son of YHWH」之类的说法形成对照。名字的朴素强调了神话与人之间的落差。
 
 > **原句 7:** "The Lord will guide my hand."
 
@@ -82,7 +82,7 @@ title: "ch03 Book II"
 
 **关键词**：Lord, guide, hand
 
-**为什么这样写**：The repetition of this phrase throughout the novel creates a liturgical rhythm. Each utterance precedes violence (slaughtering the lamb, burning the Pharisee). The phrase functions as both prayer and self-hypnosis, allowing the Butcher to transform murder into divine duty. Its appearance here, before burning the Pharisee alive, is the most chilling instance.
+**为什么这样写**：这句话在全书反复出现，形成一种经文般的节奏。每一次出口都先于暴力（宰杀羔羊、烧死法利赛人）。它既是祈祷，也是自我催眠，让屠夫得以把谋杀转化为神的职责。此处它出现在活活烧死法利赛人之前，是全书最冷的一次。
 
 > **原句 8:** "Bring me back a son."
 
@@ -92,7 +92,7 @@ title: "ch03 Book II"
 
 **关键词**：Bring, back, son
 
-**为什么这样写**：Sarah's final words transform the Butcher's mission. "Bring me back a son" redefines "finish the Culling" as "bring back a son"—from killing to resurrection. This is the novel's central paradox: the Butcher's path to redemption requires him to kill the one who could save his dead son. Sarah's words are both blessing and curse, sending him toward Nazareth with a task that is simultaneously hopeful and impossible.
+**为什么这样写**：莎拉的临别之言改变了屠夫任务的性质。「Bring me back a son」把「finish the Culling」重新定义为「带一个儿子回来」——从杀戮转向复活。这是全书的核心悖论：屠夫的救赎之路要求他杀掉那个本可以救活他死去的儿子的人。莎拉的话既是祝福也是诅咒，把他送往拿撒勒，交付给他一项既满怀希望又不可能完成的任务。
 
 > **原句 9:** "I must go to Nazareth, Sarah. I must finish the Culling."
 
@@ -102,7 +102,7 @@ title: "ch03 Book II"
 
 **关键词**：must, go, Nazareth, finish, Culling
 
-**为什么这样写**：The double "I must" reveals the Butcher's enslavement to his mission. Even faced with his wife's love and forgiveness, he cannot choose family over duty. "Finish the Culling" has become his identity—without it, he is nothing. The repetition of "must" echoes the liturgical "The Lord will guide my hand," suggesting his mission has replaced genuine faith.
+**为什么这样写**：两个「I must」显出他被任务奴役。即使面对妻子的爱与宽恕，他也无法把家庭放在职责之前。「Finish the Culling」已经成了他的身份——没有它，他什么都不是。「must」的重复呼应那句经文式的「The Lord will guide my hand」，暗示任务已经取代了真正的信仰。
 
 > **原句 10:** "Titus…?"
 
@@ -124,7 +124,7 @@ title: "ch03 Book II"
 
 **关键词**：cruel, vision, this
 
-**为什么这样写**：The revelation of the Butcher's name (Titus) comes at the moment of reunion, emphasizing that his true identity has been hidden throughout. "What cruel vision is this?" shows his inability to accept happiness—he interprets love as torment. The three-line exchange creates a rhythm of hope and doubt that mirrors the entire novel's tension between redemption and damnation.
+**为什么这样写**：屠夫的名字（Titus）直到重逢的一刻才被说出，强调他真正的身份一直藏着。「What cruel vision is this?」显出他无法接受幸福——他把爱解释成折磨。这三句往来一递一接，造出希望与怀疑交替的节奏，正对应全书在救赎与沉沦之间的张力。
 
 ## 词汇
 
