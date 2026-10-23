@@ -1,0 +1,317 @@
+{
+  "chapter": 46,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/ch46 teeth and blood behind the portrait.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch46_chapter_forty_five.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "In it were several clear artist’s storage jars. The first held paintbrushes, the next gold leaf—Gazzie’s standard framin",
+          "ok": true,
+          "pos": 3194
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "My eyes flicked to the farthest jar. It was filled with a nest of dark hair. Once I recognized that, I recognized the tr",
+          "ok": true,
+          "pos": 3604
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Whose,” I said, pointing at the jars, “are those?” I willed her to say I was wrong, that they were animals’ body parts,",
+          "ok": true,
+          "pos": 4322
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Seizing her chin, I forced her to look at me. My fingers dug into her cheeks. “She’s not in control of your actions. You",
+          "ok": true,
+          "pos": 6252
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Behind Aunt Virginia, by the dining room table, stood Ida. Her image rippled, slightly translucent but clearer than I’d ",
+          "ok": true,
+          "pos": 8695
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Ida raised her hands higher, and I felt Gazzie raise her own hand. My head snapped forward. Gazzie held her knife—the sa",
+          "ok": true,
+          "pos": 9513
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“I’ve always had it in me,” I said, low enough that Harrison and Aunt Virginia couldn’t hear. “How do you think your dau",
+          "ok": true,
+          "pos": 12291
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "A wave of triumph propelled me forward, and I thrust her into the glass shard. Her skin resisted for a moment but, like ",
+          "ok": true,
+          "pos": 12516
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "She spoke in a tone of wonder, of joy. Like I was a newborn baby, a gift, a benevolent sign sent from beyond. “You reall",
+          "ok": true,
+          "pos": 16457
+        }
+      ],
+      "words": 30
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 0,
+        "为什么这样写": 125,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 117,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 102,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 103,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 120,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 120,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 122,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.56,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.94
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 126,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.61
+      }
+    }
+  ],
+  "form": {
+    "h1": "46. Chapter Forty-Five",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 6,
+    "block_range": [
+      3,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2970,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
