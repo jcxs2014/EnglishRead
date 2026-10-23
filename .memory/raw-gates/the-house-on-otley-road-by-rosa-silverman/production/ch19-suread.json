@@ -1,0 +1,79 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch19",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch19_chapter_18.txt",
+ "facts": [
+  {
+   "fact": "Kate 在门阶上守了一整天，越来越冷。",
+   "anchor": "Kate remained on the doorstep all day, growing progressively colder.",
+   "start": 29,
+   "end": 97
+  },
+  {
+   "fact": "Smith 在电话里说这事很可疑，要设法被派到利兹陪她。",
+   "anchor": "‘This sounds well dodgy. I’m going to get myself sent up there to be with you,’ he told her over the phone.",
+   "start": 1321,
+   "end": 1428
+  },
+  {
+   "fact": "两人的关系在同行中无人知晓，所以她在街上不能拥抱他。",
+   "anchor": "She couldn’t embrace him, because no one in their professional world knew of their relationship.",
+   "start": 3178,
+   "end": 3274
+  },
+  {
+   "fact": "和一群记者在一起时她觉得安全。",
+   "anchor": "Surrounded by the rest of the pack, she’d felt safe.",
+   "start": 6084,
+   "end": 6136
+  },
+  {
+   "fact": "独自走进酒店时，她突然觉得自己暴露在外。",
+   "anchor": "But here, a few minutes’ walk from the railway station, metres from the hotel’s tall arched entrance, its wrought-iron gates wide open, she felt suddenly exposed.",
+   "start": 6239,
+   "end": 6401
+  },
+  {
+   "fact": "她把匿名威胁解释成无聊的网络喷子，可这解释连她自己都不太信。",
+   "anchor": "A dumb troll, she told herself. A sad man sitting in his mum’s basement. But somehow it didn’t ring true.",
+   "start": 7809,
+   "end": 7914
+  },
+  {
+   "fact": "新闻首页上 Olivia 命案排在另一条脱欧新闻之下，让她厌烦。",
+   "anchor": "Olivia Kavanagh’s murder sat second from the top, beneath yet another Brexit story, the sight of which made her weary.",
+   "start": 8807,
+   "end": 8925
+  },
+  {
+   "fact": "Kate 问 Smith 要不要为那条死亡威胁报警。",
+   "anchor": "‘Do you think I should call the police?’",
+   "start": 12281,
+   "end": 12321
+  },
+  {
+   "fact": "Smith 开玩笑说这案子是“性游戏出了岔子”。",
+   "anchor": "‘I reckon it was a sex game gone wrong.’",
+   "start": 15828,
+   "end": 15868
+  },
+  {
+   "fact": "Kate 立刻反驳：她是脖子被刺死的。",
+   "anchor": "‘She was stabbed in the neck!’ exclaimed Kate",
+   "start": 15871,
+   "end": 15916
+  },
+  {
+   "fact": "Smith 含糊地说“连谋杀都有它的好处”，心不在焉地亲了亲她的头顶。",
+   "anchor": "‘Even murder has its upsides,’ he mumbled, kissing her absently on the top of her head.",
+   "start": 11607,
+   "end": 11694
+  },
+  {
+   "fact": "章末 Smith 说他有“一些主意”。",
+   "anchor": "‘I have some ideas.’",
+   "start": 16940,
+   "end": 16960
+  }
+ ]
+}
