@@ -1,0 +1,2124 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch21",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch21_chapter_twenty.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "次日回工；车上 Gazzie 问她睡得如何",
+   "anchor": "Gazzie asked how I’d slept",
+   "start": 62,
+   "end": 88,
+   "line": 9
+  },
+  {
+   "fact": "Gazzie 给她一把应急钥匙环",
+   "anchor": "she handed me a ring of keys for emergencies",
+   "start": 105,
+   "end": 149,
+   "line": 9
+  },
+  {
+   "fact": "Gazzie 说想让她回文件房几天——因为脑震荡在恢复",
+   "anchor": "while she’d like me to return to filing for a few days—just while my concussion was healing",
+   "start": 168,
+   "end": 259,
+   "line": 9
+  },
+  {
+   "fact": "Gazzie 允许她休息时自由走动",
+   "anchor": "I could roam freely on breaks",
+   "start": 260,
+   "end": 289,
+   "line": 9
+  },
+  {
+   "fact": "Gazzie 午餐时露面，问起她的文件",
+   "anchor": "She even made an appearance at lunch, asking after my files",
+   "start": 291,
+   "end": 350,
+   "line": 9
+  },
+  {
+   "fact": "Harrison 对她扬眉",
+   "anchor": "Harrison raised his eyebrows at me",
+   "start": 352,
+   "end": 386,
+   "line": 9
+  },
+  {
+   "fact": "她忍不住笑了",
+   "anchor": "I couldn’t suppress a smile",
+   "start": 392,
+   "end": 419,
+   "line": 9
+  },
+  {
+   "fact": "连 Harrison 也看出她和 Gazzie 关系在改善",
+   "anchor": "Even he could tell that my relationship with her was improving",
+   "start": 421,
+   "end": 483,
+   "line": 9
+  },
+  {
+   "fact": "她借机追问走失的鳄鱼",
+   "anchor": "I took the opportunity to ask about the loose alligator",
+   "start": 485,
+   "end": 540,
+   "line": 9
+  },
+  {
+   "fact": "Harrison 说 Joe 否认留过纸条",
+   "anchor": "Harrison said Joe denied leaving the note",
+   "start": 542,
+   "end": 583,
+   "line": 9
+  },
+  {
+   "fact": "Gazzie 既否认派她们去文件房，又承认收到过一张陌生笔迹的纸条把她叫到剥皮间",
+   "anchor": "Gazzie both denied ordering us to the filing room and admitted to receiving a note in unfamiliar handwriting",
+   "start": 585,
+   "end": 693,
+   "line": 9
+  },
+  {
+   "fact": "两人都把纸条扔了",
+   "anchor": "Both of them had trashed their notes",
+   "start": 728,
+   "end": 764,
+   "line": 9
+  },
+  {
+   "fact": "她的盘问至少确认一件事：有人专门针对 Gazzie",
+   "anchor": "at least my interrogation confirmed one thing: Someone had it out for Gazzie specifically",
+   "start": 770,
+   "end": 859,
+   "line": 9
+  },
+  {
+   "fact": "还没查完，农场局势倒退",
+   "anchor": "the situation at the farm regressed",
+   "start": 919,
+   "end": 954,
+   "line": 12
+  },
+  {
+   "fact": "周四午饭后几分钟，Harrison 报告有人毁掉了烘干房的皮",
+   "anchor": "Minutes after lunch on Thursday, Harrison reported that someone had shredded the skins in the drying room",
+   "start": 956,
+   "end": 1061,
+   "line": 12
+  },
+  {
+   "fact": "二十张皮全部被切成半英寸宽的条",
+   "anchor": "cutting all twenty into half-inch-wide strips",
+   "start": 1063,
+   "end": 1108,
+   "line": 12
+  },
+  {
+   "fact": "皮条像派对流苏一样悬在天花板",
+   "anchor": "that dangled from the ceiling like party fringe",
+   "start": 1109,
+   "end": 1156,
+   "line": 12
+  },
+  {
+   "fact": "到场时风扇还在吹，把碎片轻轻吹开",
+   "anchor": "The fans were still blowing when we arrived, gently parting the pieces",
+   "start": 1158,
+   "end": 1228,
+   "line": 12
+  },
+  {
+   "fact": "Gazzie 用指尖抚过一张碎皮",
+   "anchor": "Gazzie stroked a shredded skin with a fingertip",
+   "start": 1232,
+   "end": 1279,
+   "line": 15
+  },
+  {
+   "fact": "Harrison 抓另一张细看",
+   "anchor": "as Harrison grabbed another one, examining it closely",
+   "start": 1280,
+   "end": 1333,
+   "line": 15
+  },
+  {
+   "fact": "Harrison 说切口是剃刀或同样锋利的东西",
+   "anchor": "he claimed, been cut by a razor blade or something equally sharp",
+   "start": 1343,
+   "end": 1407,
+   "line": 15
+  },
+  {
+   "fact": "她问损失多少钱",
+   "anchor": "When I asked how much the damage would cost the farm",
+   "start": 1409,
+   "end": 1461,
+   "line": 15
+  },
+  {
+   "fact": "Gazzie 把眼镜推进头发里",
+   "anchor": "Gazzie pushed her glasses into her hair",
+   "start": 1463,
+   "end": 1502,
+   "line": 15
+  },
+  {
+   "fact": "Gazzie 报价：五千左右",
+   "anchor": "Five thousand or so",
+   "start": 1507,
+   "end": 1526,
+   "line": 18
+  },
+  {
+   "fact": "Gazzie：不算糟，但本可能更糟",
+   "anchor": "Not great. But could’ve been worse.",
+   "start": 1540,
+   "end": 1575,
+   "line": 18
+  },
+  {
+   "fact": "她问监控拍到什么",
+   "anchor": "When I asked if the cameras caught anything",
+   "start": 1579,
+   "end": 1622,
+   "line": 21
+  },
+  {
+   "fact": "附近的摄像头又坏了",
+   "anchor": "the ones close by had cut out again",
+   "start": 1636,
+   "end": 1671,
+   "line": 21
+  },
+  {
+   "fact": "Gazzie 满不在乎，令她困惑",
+   "anchor": "which, confusingly, still didn’t seem to bother her",
+   "start": 1673,
+   "end": 1724,
+   "line": 21
+  },
+  {
+   "fact": "Harrison 说 Joe 有向客户送货的不在场证明",
+   "anchor": "he swore Joe had an alibi with a vendor, where he’d been delivering hides",
+   "start": 1768,
+   "end": 1841,
+   "line": 21
+  },
+  {
+   "fact": "周五一早 Joe 把他们叫到农场",
+   "anchor": "Friday morning, Joe called us to the farm early",
+   "start": 1845,
+   "end": 1892,
+   "line": 24
+  },
+  {
+   "fact": "太阳在谷仓后升起时他们查看地面",
+   "anchor": "While the sun rose behind the barns, we surveyed",
+   "start": 1894,
+   "end": 1942,
+   "line": 24
+  },
+  {
+   "fact": "数百把牛排刀刀柄朝上插在繁殖塘围栏边",
+   "anchor": "hundreds of steak knives stuck in the ground, handle up, along the breeding pond fence",
+   "start": 1943,
+   "end": 2029,
+   "line": 24
+  },
+  {
+   "fact": "围栏里几条鳄鱼的黄眼睛跟着他们移动",
+   "anchor": "several alligators’ yellow eyes tracked our steps",
+   "start": 2052,
+   "end": 2101,
+   "line": 24
+  },
+  {
+   "fact": "几十条从水里探出来",
+   "anchor": "Dozens more peered out from the water",
+   "start": 2103,
+   "end": 2140,
+   "line": 24
+  },
+  {
+   "fact": "Gazzie 在她问出问题前跺步回办公室",
+   "anchor": "Gazzie stomped back inside the office before I could ask questions",
+   "start": 2142,
+   "end": 2208,
+   "line": 24
+  },
+  {
+   "fact": "Harrison 只是困惑地摇头",
+   "anchor": "Harrison just shook his head, bewildered",
+   "start": 2214,
+   "end": 2254,
+   "line": 24
+  },
+  {
+   "fact": "她认同：这是警告？威胁？还是得意？",
+   "anchor": "was this a warning? A threat? Gloating?",
+   "start": 2265,
+   "end": 2304,
+   "line": 24
+  },
+  {
+   "fact": "围栏另一边 Joe 蹲在草里逐把拔刀",
+   "anchor": "Joe crouched in the grass, pulling knives from the ground one by one",
+   "start": 2341,
+   "end": 2409,
+   "line": 27
+  },
+  {
+   "fact": "他摆弄这些刀很自在、很顺手",
+   "anchor": "He handled them comfortably, smoothly.",
+   "start": 2411,
+   "end": 2449,
+   "line": 27
+  },
+  {
+   "fact": "难怪——那些刀像他削橙子常用的那把",
+   "anchor": "they resembled the knife he constantly used to peel oranges",
+   "start": 2460,
+   "end": 2519,
+   "line": 27
+  },
+  {
+   "fact": "听到脚步声他抬头",
+   "anchor": "At the sound of my footsteps, he looked up.",
+   "start": 2523,
+   "end": 2566,
+   "line": 30
+  },
+  {
+   "fact": "Joe 用夸张的客服腔问能帮什么",
+   "anchor": "What can I do for you?",
+   "start": 2570,
+   "end": 2592,
+   "line": 33
+  },
+  {
+   "fact": "她咽下自尊，笑了",
+   "anchor": "Swallowing my pride, I smiled.",
+   "start": 2647,
+   "end": 2677,
+   "line": 36
+  },
+  {
+   "fact": "她说只是有几个问题",
+   "anchor": "Just had a few questions.",
+   "start": 2679,
+   "end": 2704,
+   "line": 36
+  },
+  {
+   "fact": "Joe：没那个时间，同时拔出另一把刀",
+   "anchor": "No time for those",
+   "start": 2709,
+   "end": 2726,
+   "line": 39
+  },
+  {
+   "fact": "她不理他，问有多少把刀",
+   "anchor": "Ignoring him, I asked",
+   "start": 2781,
+   "end": 2802,
+   "line": 42
+  },
+  {
+   "fact": "Joe：数到二百五就放弃了",
+   "anchor": "Lost count at two hundred fifty.",
+   "start": 2836,
+   "end": 2868,
+   "line": 45
+  },
+  {
+   "fact": "叙述者注：他大约干到一半",
+   "anchor": "He was about halfway done.",
+   "start": 2870,
+   "end": 2896,
+   "line": 45
+  },
+  {
+   "fact": "她惊讶地问他在外面待了多久",
+   "anchor": "How long have you been out here?",
+   "start": 2900,
+   "end": 2932,
+   "line": 48
+  },
+  {
+   "fact": "Joe：太久了",
+   "anchor": "Too long.",
+   "start": 2957,
+   "end": 2966,
+   "line": 51
+  },
+  {
+   "fact": "五百把以上插进地里，一个人干要花几个小时",
+   "anchor": "Sticking five hundred or more knives into the ground would take several hours for someone working alone.",
+   "start": 2970,
+   "end": 3074,
+   "line": 54
+  },
+  {
+   "fact": "如果是 Joe 放的，他早知道要在热天里拔出来",
+   "anchor": "If Joe had put them there, he must have known he’d be pulling them out in the heat.",
+   "start": 3075,
+   "end": 3158,
+   "line": 54
+  },
+  {
+   "fact": "那需要某种决心、某种恨",
+   "anchor": "That took a certain amount of determination. Hatred.",
+   "start": 3159,
+   "end": 3211,
+   "line": 54
+  },
+  {
+   "fact": "她自问：Gazzie 买下他家农场真让他这么介意？她的钱？她的性别？",
+   "anchor": "Did Gazzie’s takeover of his family farm really bother him that much? Her wealth? Her gender?",
+   "start": 3212,
+   "end": 3305,
+   "line": 54
+  },
+  {
+   "fact": "她还有一件事要问",
+   "anchor": "One more thing",
+   "start": 3309,
+   "end": 3323,
+   "line": 57
+  },
+  {
+   "fact": "她知道 Harrison 已经问过了，她想看 Joe 的反应",
+   "anchor": "I knew Harrison had already asked, but I wanted to see his reaction.",
+   "start": 3334,
+   "end": 3402,
+   "line": 57
+  },
+  {
+   "fact": "她直接问：那天鳄鱼走失，是不是你给 Harrison 留条叫我们去文件房",
+   "anchor": "The day that alligator got loose. Did you leave Harrison a note",
+   "start": 3404,
+   "end": 3467,
+   "line": 57
+  },
+  {
+   "fact": "Joe 明显困惑，好像第一次听到这个问题",
+   "anchor": "He looked visibly confused, like he’d never heard the question before.",
+   "start": 3512,
+   "end": 3582,
+   "line": 60
+  },
+  {
+   "fact": "Joe：没有。现在我能干活了吗",
+   "anchor": "No. Now can I do my job?",
+   "start": 3584,
+   "end": 3608,
+   "line": 60
+  },
+  {
+   "fact": "他站起来走到塘另一边，结束对话",
+   "anchor": "He stood and strode to the other side of the pond, ending our conversation.",
+   "start": 3612,
+   "end": 3687,
+   "line": 63
+  },
+  {
+   "fact": "在储藏室她坐在地上，额头抵着一个文件箱",
+   "anchor": "I sat on the floor, resting my forehead on a filing box",
+   "start": 3711,
+   "end": 3766,
+   "line": 66
+  },
+  {
+   "fact": "箱子比平时更酸臭",
+   "anchor": "which smelled even more sour than usual",
+   "start": 3768,
+   "end": 3807,
+   "line": 66
+  },
+  {
+   "fact": "她的推断：放鳄鱼的人大概也割了皮、插了刀",
+   "anchor": "Whoever had put the live alligator in the skinning room had probably shredded the skins and planted the knives.",
+   "start": 3809,
+   "end": 3920,
+   "line": 66
+  },
+  {
+   "fact": "同一人也造成了天花板漏水，一夜之间又全长出来",
+   "anchor": "That same person had also caused the ceiling leaks, which had all sprouted again overnight.",
+   "start": 3921,
+   "end": 4012,
+   "line": 66
+  },
+  {
+   "fact": "也许连持续的藻华也是他搞的——大家都说反常，但她不太信",
+   "anchor": "They might have even finagled the constant algae blooms, which everyone agreed were abnormal, but I was less sold on that idea",
+   "start": 4013,
+   "end": 4139,
+   "line": 66
+  },
+  {
+   "fact": "按网上的说法，人一夜之间造不出藻华",
+   "anchor": "according to the internet, people couldn’t cause them—not overnight.",
+   "start": 4141,
+   "end": 4209,
+   "line": 66
+  },
+  {
+   "fact": "她把事件分成两组：鳄鱼与刀＝警告；皮、漏水、藻＝会升级的破坏行动",
+   "anchor": "Maybe the alligator and the knives were warnings, and the skins, leaks, and algae part of a sabotage campaign that promised to escalate.",
+   "start": 4210,
+   "end": 4346,
+   "line": 66
+  },
+  {
+   "fact": "但她问：一个人怎么可能全部搞定",
+   "anchor": "But how could one person be behind all that?",
+   "start": 4347,
+   "end": 4391,
+   "line": 66
+  },
+  {
+   "fact": "Joe 是她的头号嫌疑，尽管否认且有不在场证明",
+   "anchor": "Joe, my prime suspect despite his denials and apparent alibis",
+   "start": 4394,
+   "end": 4455,
+   "line": 69
+  },
+  {
+   "fact": "Joe 一点线索都没给",
+   "anchor": "hadn’t come close to giving me a clue",
+   "start": 4457,
+   "end": 4494,
+   "line": 69
+  },
+  {
+   "fact": "尽管 Gazzie 更有礼了，也没再向她交底",
+   "anchor": "despite Gazzie’s increased civility, she hadn’t confided in me further.",
+   "start": 4500,
+   "end": 4571,
+   "line": 69
+  },
+  {
+   "fact": "要查下去就得扩大调查面",
+   "anchor": "I needed to broaden my investigation.",
+   "start": 4651,
+   "end": 4688,
+   "line": 69
+  },
+  {
+   "fact": "她开始盘算农场其他员工",
+   "anchor": "I considered the farm’s other employees.",
+   "start": 4691,
+   "end": 4731,
+   "line": 72
+  },
+  {
+   "fact": "除她/Gazzie/Harrison/Joe 外还有五个全职",
+   "anchor": "five other people worked at the farm full-time",
+   "start": 4771,
+   "end": 4817,
+   "line": 72
+  },
+  {
+   "fact": "Javier 与 Will 主要在外场",
+   "anchor": "Javier and Will primarily worked outside.",
+   "start": 4819,
+   "end": 4860,
+   "line": 72
+  },
+  {
+   "fact": "Seth 与 Benny-G 管肉",
+   "anchor": "Seth and Benny-G managed the meat.",
+   "start": 4861,
+   "end": 4895,
+   "line": 72
+  },
+  {
+   "fact": "她在农场遇过他们，他们都不愿和老板的孙女闲聊",
+   "anchor": "they all seemed reluctant to chitchat with the owner’s granddaughter.",
+   "start": 4935,
+   "end": 5004,
+   "line": 72
+  },
+  {
+   "fact": "她判断：最不依附这份生意的人也许愿意说——Nova",
+   "anchor": "But the person least attached to the business might be willing to share information. Nova.",
+   "start": 5005,
+   "end": 5095,
+   "line": 72
+  },
+  {
+   "fact": "她抛下文件，学 Harrison 的做法在休息室冲咖啡",
+   "anchor": "Abandoning the files, I took a page from Harrison’s playbook and quickly brewed coffee in the break room",
+   "start": 5098,
+   "end": 5202,
+   "line": 75
+  },
+  {
+   "fact": "Nova 正埋头看杂志，抬头给出一个近乎微笑",
+   "anchor": "Nova, who was poring over a magazine, looked up with an almost-smile.",
+   "start": 5242,
+   "end": 5311,
+   "line": 75
+  },
+  {
+   "fact": "小风扇吹她麂皮夹克的流苏，像碎鳄皮一样飘",
+   "anchor": "Her mini fan blew the fringe of her suede jacket, which fluttered like the shredded alligator skins.",
+   "start": 5312,
+   "end": 5412,
+   "line": 75
+  },
+  {
+   "fact": "Nova 以为来的是 Harrison；看清是她笑容就淡了",
+   "anchor": "She must have been expecting Harrison; her smile faded when our eyes met",
+   "start": 5415,
+   "end": 5487,
+   "line": 78
+  },
+  {
+   "fact": "她直直盯着递过去的杯子",
+   "anchor": "she stared blankly at the cup I extended toward her",
+   "start": 5493,
+   "end": 5544,
+   "line": 78
+  },
+  {
+   "fact": "她把杯子放在桌上一支点燃的大豆蜡烛旁",
+   "anchor": "I set it next to a lit soy candle on her desk.",
+   "start": 5546,
+   "end": 5592,
+   "line": 78
+  },
+  {
+   "fact": "Nova：我上班路上买星巴克（刻意翻页）",
+   "anchor": "I pick up Starbucks on the way here",
+   "start": 5596,
+   "end": 5631,
+   "line": 81
+  },
+  {
+   "fact": "Nova 不说话，她追加一句「这儿怎么样」",
+   "anchor": "When she didn’t say anything else, I added",
+   "start": 5678,
+   "end": 5720,
+   "line": 84
+  },
+  {
+   "fact": "Nova：Things?",
+   "anchor": "Things?",
+   "start": 5743,
+   "end": 5750,
+   "line": 87
+  },
+  {
+   "fact": "她挥手示意空荡的前办公室：忙吗",
+   "anchor": "I waved my hand to indicate the empty front office.",
+   "start": 5762,
+   "end": 5813,
+   "line": 90
+  },
+  {
+   "fact": "Nova：不忙",
+   "anchor": "No.",
+   "start": 3584,
+   "end": 3587,
+   "line": 60
+  },
+  {
+   "fact": "她问：摄像头今天又坏了？",
+   "anchor": "Cameras cut out again today?",
+   "start": 5833,
+   "end": 5861,
+   "line": 96
+  },
+  {
+   "fact": "Nova：要是有画面我早告诉 Gazzie 了",
+   "anchor": "I would’ve said something to Gazzie if we got any footage.",
+   "start": 5866,
+   "end": 5924,
+   "line": 99
+  },
+  {
+   "fact": "她把 Nova 称为友善度的最终 boss",
+   "anchor": "Nova was like the final boss of friendliness",
+   "start": 5928,
+   "end": 5972,
+   "line": 102
+  },
+  {
+   "fact": "对照：Laura Leigh 至少是真和善，即使觉得她怪",
+   "anchor": "at least Laura Leigh had been genuinely kind, even if she thought I was a weirdo.",
+   "start": 5974,
+   "end": 6055,
+   "line": 102
+  },
+  {
+   "fact": "她把手背到身后忍住坐立不安，继续推进",
+   "anchor": "I held my arms behind my back to stop myself from fidgeting and pressed on.",
+   "start": 6056,
+   "end": 6131,
+   "line": 102
+  },
+  {
+   "fact": "Nova 冷淡地答：Sure",
+   "anchor": "she said coolly",
+   "start": 6205,
+   "end": 6220,
+   "line": 105
+  },
+  {
+   "fact": "她直问：你觉得是谁干的",
+   "anchor": "Who do you think’s doing it?",
+   "start": 6225,
+   "end": 6253,
+   "line": 108
+  },
+  {
+   "fact": "Nova 在椅子上挪了挪",
+   "anchor": "She shifted in her chair.",
+   "start": 6257,
+   "end": 6282,
+   "line": 111
+  },
+  {
+   "fact": "Nova：我要是知道早就告诉 Gazzie 了",
+   "anchor": "If I knew, I would have told Gazzie.",
+   "start": 6284,
+   "end": 6320,
+   "line": 111
+  },
+  {
+   "fact": "她想编个谎但编不出来，只能说真话",
+   "anchor": "I tried to spin a lie but came up empty. The truth would have to do.",
+   "start": 6334,
+   "end": 6402,
+   "line": 114
+  },
+  {
+   "fact": "她说想帮 Gazzie 查出是谁",
+   "anchor": "I’m trying to help her figure out who did it.",
+   "start": 6437,
+   "end": 6482,
+   "line": 114
+  },
+  {
+   "fact": "Nova 投来一个出乎意料的理解眼神，像她第一天上办公室那次",
+   "anchor": "Nova shot me another surprisingly sympathetic look, like she had on my first day at the office, when she’d left me with the files.",
+   "start": 6486,
+   "end": 6616,
+   "line": 117
+  },
+  {
+   "fact": "她猜想 Nova 不是主动刻薄，只是无聊",
+   "anchor": "Maybe she wasn’t being actively mean to me; maybe she was just bored.",
+   "start": 6617,
+   "end": 6686,
+   "line": 117
+  },
+  {
+   "fact": "她说这没什么可怪她的",
+   "anchor": "I couldn’t fault her for that.",
+   "start": 6687,
+   "end": 6717,
+   "line": 117
+  },
+  {
+   "fact": "Nova：你觉得这会有差别吗",
+   "anchor": "You think that’ll make a difference?",
+   "start": 6719,
+   "end": 6755,
+   "line": 117
+  },
+  {
+   "fact": "她心口一紧",
+   "anchor": "My heart squeezed.",
+   "start": 6770,
+   "end": 6788,
+   "line": 120
+  },
+  {
+   "fact": "自问：赢得 Gazzie 真是无望的目标吗",
+   "anchor": "Was winning Gazzie over really such a hopeless goal?",
+   "start": 6789,
+   "end": 6841,
+   "line": 120
+  },
+  {
+   "fact": "Nova 端详她的脸片刻，叹气，把杂志面朝下扣在桌上",
+   "anchor": "After studying my face for a moment, Nova sighed and set her magazine face down on the desk.",
+   "start": 6844,
+   "end": 6936,
+   "line": 123
+  },
+  {
+   "fact": "Nova 第一猜想：PETA 的人，但她自己就否了——他们不在乎鳄鱼",
+   "anchor": "Obviously it could be PETA people, but I doubt it. They don’t give a shit about alligators.",
+   "start": 6938,
+   "end": 7029,
+   "line": 123
+  },
+  {
+   "fact": "Nova 提出两条：旧的甘蔗投资、她正在取得的磷酸矿",
+   "anchor": "there’s the old sugarcane investments, and the phosphate mine she’s acquiring.",
+   "start": 7034,
+   "end": 7112,
+   "line": 123
+  },
+  {
+   "fact": "Nova：环保行动者可能想破坏她",
+   "anchor": "Eco-activists might be trying to sabotage her or whatever.",
+   "start": 7113,
+   "end": 7171,
+   "line": 123
+  },
+  {
+   "fact": "她意识到自己忘了 Gazzie 的其他生意",
+   "anchor": "I’d forgotten about Gazzie’s other business dealings.",
+   "start": 7175,
+   "end": 7228,
+   "line": 126
+  },
+  {
+   "fact": "她问为什么",
+   "anchor": "Why?",
+   "start": 7230,
+   "end": 7234,
+   "line": 126
+  },
+  {
+   "fact": "Nova：两个行业都以伤环境出名",
+   "anchor": "Both of those industries are notoriously bad for the environment.",
+   "start": 7239,
+   "end": 7304,
+   "line": 129
+  },
+  {
+   "fact": "Nova 补充：尤其是径流，毒化当地水道",
+   "anchor": "Especially the runoff. Poisons local waterways.",
+   "start": 7336,
+   "end": 7383,
+   "line": 129
+  },
+  {
+   "fact": "她不知道这些，但觉得自己本该猜到",
+   "anchor": "I hadn’t known that, though I supposed I should have guessed.",
+   "start": 7387,
+   "end": 7448,
+   "line": 132
+  },
+  {
+   "fact": "她问：为什么专打农场而不打住宅？我们有径流进附近的湖吗",
+   "anchor": "Why would they target our farm specifically, though, and not our house?",
+   "start": 7450,
+   "end": 7521,
+   "line": 132
+  },
+  {
+   "fact": "Nova：Obviously（显然有），但周围农场都有，没听说别人有麻烦",
+   "anchor": "Obviously, but most farms around here do, and I haven’t heard anything about them having trouble.",
+   "start": 7584,
+   "end": 7681,
+   "line": 135
+  },
+  {
+   "fact": "Nova：只打我们说不通；不过可能是更私人的",
+   "anchor": "It could be more personal, though",
+   "start": 7723,
+   "end": 7756,
+   "line": 135
+  },
+  {
+   "fact": "Nova 深思着问：你听说过那两个卫星办公室吗",
+   "anchor": "Have you heard about the two satellite offices?",
+   "start": 7783,
+   "end": 7830,
+   "line": 135
+  },
+  {
+   "fact": "她答：听 Aunt Virginia 讲过一点",
+   "anchor": "A little, from Aunt Virginia.",
+   "start": 7835,
+   "end": 7864,
+   "line": 138
+  },
+  {
+   "fact": "Nova：前主人们恨 Gazzie",
+   "anchor": "The former owners hate Gazzie.",
+   "start": 7869,
+   "end": 7899,
+   "line": 141
+  },
+  {
+   "fact": "Nova 压低声音做密谋状，说起八卦后更有精神",
+   "anchor": "She lowered her voice conspiratorially, slightly more energetic now she was gossiping.",
+   "start": 7901,
+   "end": 7987,
+   "line": 141
+  },
+  {
+   "fact": "Nova：那些生意手段据说很不客气",
+   "anchor": "The business deals were pretty hostile, apparently.",
+   "start": 7989,
+   "end": 8040,
+   "line": 141
+  },
+  {
+   "fact": "Nova：我一直说麻烦来自他们之一，但没人听",
+   "anchor": "I keep saying the trouble’s coming from one of them, but no one listens.",
+   "start": 8041,
+   "end": 8113,
+   "line": 141
+  },
+  {
+   "fact": "她努力保持镇定——这是她第一条真正的线索",
+   "anchor": "I tried to stay calm, but this was my first real clue.",
+   "start": 8117,
+   "end": 8171,
+   "line": 144
+  },
+  {
+   "fact": "也许 Joe 不是唯一嫌疑人",
+   "anchor": "Maybe Joe wasn’t my only suspect.",
+   "start": 8172,
+   "end": 8205,
+   "line": 144
+  },
+  {
+   "fact": "她自嘲：Move over, Nancy Drew.",
+   "anchor": "Move over, Nancy Drew.",
+   "start": 8206,
+   "end": 8228,
+   "line": 144
+  },
+  {
+   "fact": "其余问题都没有结果",
+   "anchor": "None of my other questions, however, were fruitful.",
+   "start": 8231,
+   "end": 8282,
+   "line": 147
+  },
+  {
+   "fact": "Nova 说不清前主人与 Gazzie 的过节细节，也说不出哪个更像凶手",
+   "anchor": "Nova claimed she didn’t know any specifics about Gazzie’s feud with the former owners, nor did she know which of the two was a more likely culprit.",
+   "start": 8283,
+   "end": 8430,
+   "line": 147
+  },
+  {
+   "fact": "她明白再问不出进展，回文件房",
+   "anchor": "Realizing I wouldn’t make more headway, I headed back to the filing room.",
+   "start": 8431,
+   "end": 8504,
+   "line": 147
+  },
+  {
+   "fact": "Nova 在她身后叫她 Dart",
+   "anchor": "Dart?",
+   "start": 8508,
+   "end": 8513,
+   "line": 150
+  },
+  {
+   "fact": "她探头到走廊拐角：Yeah?",
+   "anchor": "I poked my head around the hallway corner.",
+   "start": 8544,
+   "end": 8586,
+   "line": 153
+  },
+  {
+   "fact": "Nova：你手指上有东西",
+   "anchor": "You’ve got something on your fingers.",
+   "start": 8590,
+   "end": 8627,
+   "line": 156
+  },
+  {
+   "fact": "她的指尖粉红配绿颜料",
+   "anchor": "my fingertips were pink and green with paint.",
+   "start": 8644,
+   "end": 8689,
+   "line": 159
+  },
+  {
+   "fact": "自从鳄鱼事件后她一直在画那张张开嘶吼的嘴",
+   "anchor": "Since the incident with the loose alligator, I’d been trying to capture its mouth, open in a hiss",
+   "start": 8690,
+   "end": 8787,
+   "line": 159
+  },
+  {
+   "fact": "画的是那条饱满厚实的舌头、黄白的牙",
+   "anchor": "the plump, thick tongue, the yellow-white teeth.",
+   "start": 8788,
+   "end": 8836,
+   "line": 159
+  },
+  {
+   "fact": "之后遇到 Harrison，他对新理论有兴趣（或至少继续假装容忍她）",
+   "anchor": "he seemed interested in the new theory or, at least, was still pretending to tolerate me.",
+   "start": 8871,
+   "end": 8960,
+   "line": 162
+  },
+  {
+   "fact": "他喝她带来养鳄棚当借口的水壶里的水",
+   "anchor": "He sipped from the water bottle I’d brought to the grow-out barns as an excuse to chat",
+   "start": 8961,
+   "end": 9047,
+   "line": 162
+  },
+  {
+   "fact": "她不想让他以为她喜欢他",
+   "anchor": "I didn’t want him to think I liked him",
+   "start": 9048,
+   "end": 9086,
+   "line": 162
+  },
+  {
+   "fact": "他望着田野，好像能看见她的主意在天边成形",
+   "anchor": "gazing across the field as though he could see my idea brewing in the distance.",
+   "start": 9087,
+   "end": 9166,
+   "line": 162
+  },
+  {
+   "fact": "Harrison：细节我不确定",
+   "anchor": "I’m not sure about the details",
+   "start": 9170,
+   "end": 9200,
+   "line": 165
+  },
+  {
+   "fact": "Harrison：Gazzie 在接手前把两位主人都得罪了",
+   "anchor": "I do know Gazzie pissed off both owners before taking over.",
+   "start": 9217,
+   "end": 9276,
+   "line": 165
+  },
+  {
+   "fact": "她说 Nova 也是这么讲的",
+   "anchor": "That’s what Nova said, too.",
+   "start": 9281,
+   "end": 9308,
+   "line": 168
+  },
+  {
+   "fact": "Harrison：你跟 Nova 谈过？",
+   "anchor": "You talked to Nova?",
+   "start": 9313,
+   "end": 9332,
+   "line": 171
+  },
+  {
+   "fact": "Harrison：我以为她不在乎这儿发生什么",
+   "anchor": "I didn’t think she cared enough to notice what goes on here.",
+   "start": 9347,
+   "end": 9407,
+   "line": 177
+  },
+  {
+   "fact": "她回：她注意的是你",
+   "anchor": "She notices you.",
+   "start": 9412,
+   "end": 9428,
+   "line": 180
+  },
+  {
+   "fact": "Harrison：我可没注意到（笑着）",
+   "anchor": "I haven’t noticed",
+   "start": 9433,
+   "end": 9450,
+   "line": 183
+  },
+  {
+   "fact": "她由此断定他知道 Nova 的暗恋",
+   "anchor": "So he knew about her crush.",
+   "start": 9474,
+   "end": 9501,
+   "line": 186
+  },
+  {
+   "fact": "她指责他故意无视她",
+   "anchor": "You’re ignoring her on purpose.",
+   "start": 9503,
+   "end": 9534,
+   "line": 186
+  },
+  {
+   "fact": "Harrison：别担心，我多分你注意力来补",
+   "anchor": "Don’t worry",
+   "start": 9539,
+   "end": 9550,
+   "line": 189
+  },
+  {
+   "fact": "Harrison：我额外关注你，作为补偿",
+   "anchor": "I pay extra attention to you to make up for it.",
+   "start": 9566,
+   "end": 9613,
+   "line": 189
+  },
+  {
+   "fact": "她翻白眼却头重脚轻，像空气不够",
+   "anchor": "I rolled my eyes but felt light-headed, like I’d run out of air.",
+   "start": 9617,
+   "end": 9681,
+   "line": 192
+  },
+  {
+   "fact": "自问：我们真的像朋友一样开玩笑了吗",
+   "anchor": "Were we really joking like friends?",
+   "start": 9682,
+   "end": 9717,
+   "line": 192
+  },
+  {
+   "fact": "她说还有另一个想法",
+   "anchor": "I have another idea.",
+   "start": 9719,
+   "end": 9739,
+   "line": 192
+  },
+  {
+   "fact": "她停下考虑切入方式",
+   "anchor": "Pausing, I considered my approach.",
+   "start": 9741,
+   "end": 9775,
+   "line": 192
+  },
+  {
+   "fact": "她不确定 Harrison 有多喜欢 Joe；他们共事多年",
+   "anchor": "I wasn’t sure how much he liked Joe; they’d been working together for years",
+   "start": 9776,
+   "end": 9851,
+   "line": 192
+  },
+  {
+   "fact": "Harrison 似乎相信 Joe 的不在场证明，但两人除此之外并不亲近",
+   "anchor": "Harrison seemed to believe his alibis, but they didn’t appear close otherwise.",
+   "start": 9857,
+   "end": 9935,
+   "line": 192
+  },
+  {
+   "fact": "Harrison：Oh yeah?",
+   "anchor": "Oh yeah?",
+   "start": 9939,
+   "end": 9947,
+   "line": 195
+  },
+  {
+   "fact": "她想：既然已经下水了——答案是 Joe",
+   "anchor": "Well, I was in it now.",
+   "start": 9951,
+   "end": 9973,
+   "line": 198
+  },
+  {
+   "fact": "Harrison 摇头否：没门",
+   "anchor": "Harrison shook his head.",
+   "start": 9983,
+   "end": 10007,
+   "line": 201
+  },
+  {
+   "fact": "Harrison：他很难搞，也确实不愿给 Gazzie 当雇员，但他诚实",
+   "anchor": "he’s honest.",
+   "start": 10099,
+   "end": 10111,
+   "line": 201
+  },
+  {
+   "fact": "Harrison：有意见会当面说",
+   "anchor": "If he has a problem, he says it to your face.",
+   "start": 10112,
+   "end": 10157,
+   "line": 201
+  },
+  {
+   "fact": "Harrison：真要伤她，他会放火烧了农场看着我们救",
+   "anchor": "he’d set the farm on fire and watch us try to put it out.",
+   "start": 10184,
+   "end": 10241,
+   "line": 201
+  },
+  {
+   "fact": "她不完全信服；但她想让他明白她是认真的，他也许会回头告诉 Joe",
+   "anchor": "if I made it clear I was serious about my suspicions, he might report back to Joe.",
+   "start": 10276,
+   "end": 10358,
+   "line": 204
+  },
+  {
+   "fact": "她不情愿地欣赏他替雇员说话这一点",
+   "anchor": "I reluctantly appreciated that he’d defended his employee",
+   "start": 10368,
+   "end": 10425,
+   "line": 204
+  },
+  {
+   "fact": "他不会让随便谁来顶罪",
+   "anchor": "he wasn’t going to let just anyone take the fall.",
+   "start": 10427,
+   "end": 10476,
+   "line": 204
+  },
+  {
+   "fact": "她说「Fine」，这个词在嘴里发酸",
+   "anchor": "the word sour in my mouth.",
+   "start": 10493,
+   "end": 10519,
+   "line": 204
+  },
+  {
+   "fact": "向 Gazzie 提前主人这个想法没那么顺利",
+   "anchor": "Bringing up the former-owners idea to Gazzie didn’t go as well.",
+   "start": 10522,
+   "end": 10585,
+   "line": 207
+  },
+  {
+   "fact": "她在屠宰房找到 Gazzie，门一开就急切地问是不是他们怀恨在心",
+   "anchor": "I found her in the slaughtering room and, when she opened the door, eagerly asked her if they might have it out for her.",
+   "start": 10586,
+   "end": 10706,
+   "line": 207
+  },
+  {
+   "fact": "Gazzie：他们没参与（喘着气）",
+   "anchor": "They’re not involved",
+   "start": 10710,
+   "end": 10730,
+   "line": 210
+  },
+  {
+   "fact": "一只棒球棍悬在她手里",
+   "anchor": "A baseball bat hung from her hand.",
+   "start": 10761,
+   "end": 10795,
+   "line": 213
+  },
+  {
+   "fact": "从半开的门里她看见一条不动的鳄鱼尾巴，赶紧移开眼",
+   "anchor": "Through the cracked door, I saw an unmoving alligator tail and averted my eyes.",
+   "start": 10796,
+   "end": 10875,
+   "line": 213
+  },
+  {
+   "fact": "她的算盘：解决了破坏者，若 Gazzie 立她为继承人，也许就会认真对待她请求用击发枪",
+   "anchor": "If I solved the vandal problem and she named me heir, maybe she’d take my request to use a captive-bolt gun seriously.",
+   "start": 10876,
+   "end": 10994,
+   "line": 213
+  },
+  {
+   "fact": "她问：你怎么知道",
+   "anchor": "How do you know?",
+   "start": 10998,
+   "end": 11014,
+   "line": 216
+  },
+  {
+   "fact": "Gazzie：为扩张生意，我们得给其他主人一点鼓励，让他们听话",
+   "anchor": "we had to give the other owners a little encouragement. So they’d fall in line.",
+   "start": 11052,
+   "end": 11131,
+   "line": 219
+  },
+  {
+   "fact": "她缓慢重复「鼓励」并猜测：销售提成？降薪？",
+   "anchor": "Sales commissions. Pay cuts.",
+   "start": 11181,
+   "end": 11209,
+   "line": 222
+  },
+  {
+   "fact": "她缓慢重复 Encouragement 一词",
+   "anchor": "Encouragement?",
+   "start": 11136,
+   "end": 11150,
+   "line": 222
+  },
+  {
+   "fact": "Gazzie：有的要多一些",
+   "anchor": "Some required more than others.",
+   "start": 11213,
+   "end": 11244,
+   "line": 225
+  },
+  {
+   "fact": "Gazzie 抿唇：这么说吧，有位主人庆幸自己买了火灾险",
+   "anchor": "Let’s just say one owner was happy he had fire insurance.",
+   "start": 11271,
+   "end": 11328,
+   "line": 225
+  },
+  {
+   "fact": "她说不懂",
+   "anchor": "I don’t understand.",
+   "start": 11333,
+   "end": 11352,
+   "line": 228
+  },
+  {
+   "fact": "Gazzie 翻白眼后说明：她一个线人放火烧了他一间小棚，只为表明她是认真的，且不伤生意价值",
+   "anchor": "A contact of mine set one of his smaller sheds on fire.",
+   "start": 11390,
+   "end": 11445,
+   "line": 231
+  },
+  {
+   "fact": "Gazzie 强调：没有会伤害生意价值的东西",
+   "anchor": "Nothing that would harm the business’s value.",
+   "start": 11500,
+   "end": 11545,
+   "line": 231
+  },
+  {
+   "fact": "她的结论：纵火。她犯了纵火",
+   "anchor": "Arson. She’d committed arson.",
+   "start": 11549,
+   "end": 11578,
+   "line": 234
+  },
+  {
+   "fact": "不算全意外，但她想知道 Gazzie 是否在乎伤到人",
+   "anchor": "Not entirely surprising, but had she been at all concerned about hurting anyone?",
+   "start": 11579,
+   "end": 11659,
+   "line": 234
+  },
+  {
+   "fact": "她的读法：Gazzie 看人像看鳄鱼，都只是达成目的的手段",
+   "anchor": "It was as though she considered people, like alligators, just a means to an end.",
+   "start": 11660,
+   "end": 11740,
+   "line": 234
+  },
+  {
+   "fact": "自问：为了生意她还愿意伤谁",
+   "anchor": "Who else would she be willing to hurt for her business’s future?",
+   "start": 11741,
+   "end": 11805,
+   "line": 234
+  },
+  {
+   "fact": "她把表情强行按住，说这就是动机",
+   "anchor": "Wrestling my expression into submission, I said",
+   "start": 11808,
+   "end": 11855,
+   "line": 237
+  },
+  {
+   "fact": "她说的原话：听起来像动机",
+   "anchor": "Sounds like motive to me.",
+   "start": 11858,
+   "end": 11883,
+   "line": 237
+  },
+  {
+   "fact": "Gazzie：别联络他们任何一个，否则——（退回屋内）",
+   "anchor": "Do not contact either of them",
+   "start": 11888,
+   "end": 11917,
+   "line": 240
+  },
+  {
+   "fact": "她没提对 Joe 的怀疑，也没照计划请求重新开始剥皮",
+   "anchor": "I didn’t bring up my suspicion of Joe or ask to start skinning again, like I’d planned.",
+   "start": 11968,
+   "end": 12055,
+   "line": 243
+  },
+  {
+   "fact": "她 instead→改为：她一气之下走回储藏室（原文 Instead, I stomped back）",
+   "anchor": "Instead, I stomped back to the storage room.",
+   "start": 12056,
+   "end": 12100,
+   "line": 243
+  },
+  {
+   "fact": "她本以为在 Gazzie 那边有进展，显然没有",
+   "anchor": "I’d thought I’d made progress with Gazzie, but apparently not.",
+   "start": 12101,
+   "end": 12163,
+   "line": 243
+  },
+  {
+   "fact": "她怕按这速度永远查不出凶手也赢不到她",
+   "anchor": "At this rate, I’d never discover the culprit and win her over.",
+   "start": 12164,
+   "end": 12226,
+   "line": 243
+  },
+  {
+   "fact": "她怕被卡在中间地带：Gazzie 只在怀旧时喂她几段家族史，其余时候忽略她",
+   "anchor": "I’d be stuck in a middle ground, where she fed me snippets of family history when she felt nostalgic but otherwise overlooked me.",
+   "start": 12227,
+   "end": 12356,
+   "line": 243
+  },
+  {
+   "fact": "门口她打量面前的工作，试图忽略浓稠酸臭的空气",
+   "anchor": "I surveyed the work ahead, trying to ignore the thick, sour air.",
+   "start": 12375,
+   "end": 12439,
+   "line": 246
+  },
+  {
+   "fact": "二十个箱子矗立在前",
+   "anchor": "Twenty boxes loomed before me.",
+   "start": 12440,
+   "end": 12470,
+   "line": 246
+  },
+  {
+   "fact": "她撕开前一天开始的那个箱子，抽出一份文件",
+   "anchor": "I ripped open the one I’d started a day before, yanking out a file.",
+   "start": 12471,
+   "end": 12538,
+   "line": 246
+  },
+  {
+   "fact": "纸软、潮、布满黑斑",
+   "anchor": "The paper was limp, damp, and covered in black spots.",
+   "start": 12541,
+   "end": 12594,
+   "line": 249
+  },
+  {
+   "fact": "她立刻丢掉，在牛仔裤上擦手",
+   "anchor": "I dropped it immediately, wiping my hands on my jeans.",
+   "start": 12597,
+   "end": 12651,
+   "line": 252
+  },
+  {
+   "fact": "她翻剩下的：文件全长了霉",
+   "anchor": "The files were covered in mold.",
+   "start": 12696,
+   "end": 12727,
+   "line": 252
+  },
+  {
+   "fact": "霉味恶心：麝香般、古老、不祥",
+   "anchor": "They smelled vile—musky and ancient and sinister.",
+   "start": 12728,
+   "end": 12777,
+   "line": 252
+  },
+  {
+   "fact": "她说这讲不通：那只箱子她一天前才在做",
+   "anchor": "I’d been working on that box only a day earlier",
+   "start": 12804,
+   "end": 12851,
+   "line": 252
+  },
+  {
+   "fact": "文件当时不算好闻，但绝无长霉",
+   "anchor": "while the files hadn’t smelled pleasant, they certainly hadn’t been covered in mold.",
+   "start": 12857,
+   "end": 12941,
+   "line": 252
+  },
+  {
+   "fact": "犹豫后她开下一个箱子：也霉了",
+   "anchor": "Those files were molded over, too.",
+   "start": 12997,
+   "end": 13031,
+   "line": 255
+  },
+  {
+   "fact": "下一个、再下一个都一样，每一份文件都毁了",
+   "anchor": "Every single file, ruined.",
+   "start": 13069,
+   "end": 13095,
+   "line": 255
+  },
+  {
+   "fact": "她脑中跳到养鳄棚：像藻一样，霉长得快得不可能",
+   "anchor": "Like the algae, the mold had grown impossibly fast.",
+   "start": 13134,
+   "end": 13185,
+   "line": 255
+  },
+  {
+   "fact": "她判定：这不自然",
+   "anchor": "It wasn’t natural.",
+   "start": 13188,
+   "end": 13206,
+   "line": 258
+  },
+  {
+   "fact": "她手心出汗、呼吸变浅",
+   "anchor": "My hands were slick with sweat, my breath shallow.",
+   "start": 13209,
+   "end": 13259,
+   "line": 261
+  },
+  {
+   "fact": "她想象霉孢子从鼻孔飘进、堵住肺",
+   "anchor": "I imagined mold spores floating through my nostrils, clogging my lungs.",
+   "start": 13260,
+   "end": 13331,
+   "line": 261
+  },
+  {
+   "fact": "极短的一瞬她想到 Ironheart，想到 Gazzie 坚持说它要永无止境地毁掉家族生意",
+   "anchor": "my mind flicked to Ironheart, to Gazzie’s insistence on his never-ending quest to destroy the family business.",
+   "start": 13357,
+   "end": 13467,
+   "line": 261
+  },
+  {
+   "fact": "她说一秒也待不下去了",
+   "anchor": "I couldn’t spend another second inside.",
+   "start": 13468,
+   "end": 13507,
+   "line": 261
+  },
+  {
+   "fact": "她摔上门，快步走向前办公室",
+   "anchor": "Slamming the door shut, I speed-walked to the front office.",
+   "start": 13510,
+   "end": 13569,
+   "line": 264
+  },
+  {
+   "fact": "没人在视野里，但透过玻璃门能看见 Joe 的皮卡在停车场",
+   "anchor": "through the glass front door, I could see Joe’s pickup truck in the parking lot.",
+   "start": 13595,
+   "end": 13675,
+   "line": 264
+  },
+  {
+   "fact": "她受不了撞见他在休息、手里那把刀盯着她看的那个画面",
+   "anchor": "I couldn’t bear the thought of catching him on a break, leering at me with that knife in hand.",
+   "start": 13676,
+   "end": 13770,
+   "line": 264
+  },
+  {
+   "fact": "她转身走回侧廊",
+   "anchor": "Instead, I whirled around and headed down the side hallway again.",
+   "start": 13771,
+   "end": 13836,
+   "line": 264
+  },
+  {
+   "fact": "用新钥匙环她溜进加工楼",
+   "anchor": "With my new set of keys, I slipped into the processing building.",
+   "start": 13837,
+   "end": 13901,
+   "line": 264
+  },
+  {
+   "fact": "每个房间都在忙碌，全体员工接下来一周被要求在室内加快制皮以补损失",
+   "anchor": "all employees ordered inside for the next week to speed up skin production and recoup losses.",
+   "start": 13935,
+   "end": 14028,
+   "line": 264
+  },
+  {
+   "fact": "空气里满是人汗与霉孢子",
+   "anchor": "The air felt thick with human sweat and mold spores.",
+   "start": 14029,
+   "end": 14081,
+   "line": 264
+  },
+  {
+   "fact": "她呼吸越来越短，穿到后出口",
+   "anchor": "Breath shorter and shorter, I wound through the hallway until I came to the back entrance.",
+   "start": 14082,
+   "end": 14172,
+   "line": 264
+  },
+  {
+   "fact": "门卡住了",
+   "anchor": "The door was stuck.",
+   "start": 14175,
+   "end": 14194,
+   "line": 267
+  },
+  {
+   "fact": "她先轻推，随后绝望地用肩撞开",
+   "anchor": "I pushed it gently, then desperation took over and I rammed it with my shoulder.",
+   "start": 14195,
+   "end": 14275,
+   "line": 267
+  },
+  {
+   "fact": "门给了，她踉跄出去，蝉在耳边不安地合鸣",
+   "anchor": "It gave, and I stumbled outside, where the cicadas thrummed in their unsettling chorus.",
+   "start": 14276,
+   "end": 14363,
+   "line": 267
+  },
+  {
+   "fact": "傍晚前的太阳暂时晃瞎她",
+   "anchor": "The late-afternoon sun temporarily blinded me.",
+   "start": 14364,
+   "end": 14410,
+   "line": 267
+  },
+  {
+   "fact": "然后她闻到死动物与血的气味",
+   "anchor": "Then I smelled it: the stench of dead animal and blood.",
+   "start": 14413,
+   "end": 14468,
+   "line": 270
+  },
+  {
+   "fact": "这气味在农场不算罕见，但比平时更浓",
+   "anchor": "Not an uncommon odor at the farm, but it was stronger than usual",
+   "start": 14469,
+   "end": 14533,
+   "line": 270
+  },
+  {
+   "fact": "她后悔下午吃了一整个古巴三明治",
+   "anchor": "I wished I hadn’t had an entire Cuban sandwich that afternoon.",
+   "start": 14539,
+   "end": 14601,
+   "line": 270
+  },
+  {
+   "fact": "她用手捂住鼻子，眨眼直到眼前的景象固化",
+   "anchor": "Holding my hand over my nose, I blinked until the scene in front of me solidified.",
+   "start": 14602,
+   "end": 14684,
+   "line": 270
+  },
+  {
+   "fact": "主楼与繁殖塘之间的草地上铺满动物尸骸",
+   "anchor": "Animal carcasses spread across the grass between the main building and the breeding pond.",
+   "start": 14687,
+   "end": 14776,
+   "line": 273
+  },
+  {
+   "fact": "主要是鱼，也有鸭子、天鹅和一两只水獭",
+   "anchor": "Fish, mostly, but also ducks and swans and an otter or two.",
+   "start": 14777,
+   "end": 14836,
+   "line": 273
+  },
+  {
+   "fact": "总数数百，也许五百",
+   "anchor": "Hundreds of carcasses in total. Five hundred, maybe.",
+   "start": 14837,
+   "end": 14889,
+   "line": 273
+  },
+  {
+   "fact": "全部被切成两半",
+   "anchor": "All of them halved.",
+   "start": 14892,
+   "end": 14911,
+   "line": 276
+  },
+  {
+   "fact": "更准确说：是被撕成两半，像被某种动物撕开",
+   "anchor": "More accurately, ripped in half. Like an animal had torn into them.",
+   "start": 14914,
+   "end": 14981,
+   "line": 279
+  },
+  {
+   "fact": "她承认：若不是刚见过数千份一夜发霉的文件、见过藻持续爆发、见过幼年鳄鱼同步转身面向她、又夜夜在 Greer House 睡不好，她可能以为是人锯的、抛的",
+   "anchor": "I might have assumed a person—or, more accurately, a few people—had sawed up the carcasses. Dumped them there.",
+   "start": 15236,
+   "end": 15346,
+   "line": 282
+  },
+  {
+   "fact": "她站在阳光下压着呕吐感，思绪失控",
+   "anchor": "my thoughts spun out of control.",
+   "start": 15445,
+   "end": 15477,
+   "line": 285
+  },
+  {
+   "fact": "她想象残躯从地里一道看不见的裂缝滑出——这个世界与下一个世界之间的裂口",
+   "anchor": "I pictured the mangled bodies sliding out from some invisible crack in the ground, a rift between our world and the next.",
+   "start": 15478,
+   "end": 15599,
+   "line": 285
+  },
+  {
+   "fact": "近处传来一声嘶气，轻得像雾",
+   "anchor": "A hiss sounded close by, soft as mist.",
+   "start": 15602,
+   "end": 15640,
+   "line": 288
+  },
+  {
+   "fact": "她倒退，差点撞上已在身后关上的门",
+   "anchor": "Staggering backward, I nearly knocked into the door, which had closed behind me.",
+   "start": 15643,
+   "end": 15723,
+   "line": 291
+  },
+  {
+   "fact": "她拉开门穿加工楼走廊冲进屠宰房",
+   "anchor": "burst into the slaughtering room",
+   "start": 15792,
+   "end": 15824,
+   "line": 291
+  },
+  {
+   "fact": "Gazzie 正挥棍打鳄鱼头，闷响一声",
+   "anchor": "as Gazzie swung her bat, hitting an alligator’s head with a dull thump.",
+   "start": 15825,
+   "end": 15896,
+   "line": 291
+  },
+  {
+   "fact": "她太晕以至于没有怜悯，把看到的报告给 Gazzie",
+   "anchor": "Too dazed to feel pity, I reported what I’d seen.",
+   "start": 15897,
+   "end": 15946,
+   "line": 291
+  },
+  {
+   "fact": "Gazzie 一言不发跟她走",
+   "anchor": "She followed me without another word.",
+   "start": 15947,
+   "end": 15984,
+   "line": 291
+  },
+  {
+   "fact": "Harrison 在走廊找到她们，跟上来",
+   "anchor": "Harrison found us in the hallway and tagged along.",
+   "start": 15985,
+   "end": 16035,
+   "line": 291
+  },
+  {
+   "fact": "外头 Gazzie 检视尸骸",
+   "anchor": "Outside, Gazzie surveyed the carcasses.",
+   "start": 16038,
+   "end": 16077,
+   "line": 294
+  },
+  {
+   "fact": "她胸口因快走而起伏——也因别的东西",
+   "anchor": "Her chest heaved with the effort of power walking—and with something else, too.",
+   "start": 16078,
+   "end": 16157,
+   "line": 294
+  },
+  {
+   "fact": "叙述者猜：Fear?",
+   "anchor": "Fear?",
+   "start": 16158,
+   "end": 16163,
+   "line": 294
+  },
+  {
+   "fact": "她终于觉得破坏行为让 Gazzie 在意了",
+   "anchor": "Finally, the vandalism was bothering her.",
+   "start": 16164,
+   "end": 16205,
+   "line": 294
+  },
+  {
+   "fact": "看到她受影响令人不安",
+   "anchor": "It was unnerving to see her affected.",
+   "start": 16206,
+   "end": 16243,
+   "line": 294
+  },
+  {
+   "fact": "Gazzie 轻声：这至少让我们退一天",
+   "anchor": "This is going to set us back a day at least",
+   "start": 16247,
+   "end": 16290,
+   "line": 297
+  },
+  {
+   "fact": "Gazzie：加上那些皮……",
+   "anchor": "Combined with the skins…",
+   "start": 16312,
+   "end": 16336,
+   "line": 297
+  },
+  {
+   "fact": "Gazzie 住口，嘴拧成皱眉",
+   "anchor": "She trailed off, mouth twisting into a frown.",
+   "start": 16338,
+   "end": 16383,
+   "line": 297
+  },
+  {
+   "fact": "叙述者修正：她不是害怕，是沮丧",
+   "anchor": "She wasn’t afraid; she was frustrated.",
+   "start": 16384,
+   "end": 16422,
+   "line": 297
+  },
+  {
+   "fact": "Harrison 指出摄像头又停了，看着电网最近的镜头",
+   "anchor": "Cameras are out again",
+   "start": 16426,
+   "end": 16447,
+   "line": 300
+  },
+  {
+   "fact": "那镜头的录像灯是灭的",
+   "anchor": "Its recording light was off.",
+   "start": 16512,
+   "end": 16540,
+   "line": 300
+  },
+  {
+   "fact": "她说：他们能接触生意；她忽略不了 Joe",
+   "anchor": "I said, trying to ignore the humid air hanging on my shoulders like some malignant creature. I couldn’t forget about Joe.",
+   "start": 16579,
+   "end": 16700,
+   "line": 303
+  },
+  {
+   "fact": "她问有人知道 Joe 在哪儿吗",
+   "anchor": "Does anyone know where Joe was?",
+   "start": 16702,
+   "end": 16733,
+   "line": 303
+  },
+  {
+   "fact": "Harrison：他剥了一下午皮，和 Javier 一起",
+   "anchor": "Skinning all afternoon",
+   "start": 16738,
+   "end": 16760,
+   "line": 306
+  },
+  {
+   "fact": "Harrison：我们出来时经过他们；晚点可以复核，但我不认为是这里的人",
+   "anchor": "We passed them on our way out. We can double-check later, but I don’t think it’s anyone here.",
+   "start": 16795,
+   "end": 16888,
+   "line": 306
+  },
+  {
+   "fact": "她头晕：不是 Joe，还能是谁",
+   "anchor": "I felt dizzy. If it wasn’t Joe, who could it be?",
+   "start": 16892,
+   "end": 16940,
+   "line": 309
+  },
+  {
+   "fact": "Harrison：可能是知道无线摄像头多好黑的外部人",
+   "anchor": "It could be an outsider who knows how easy it is to hack wireless security camera systems",
+   "start": 16944,
+   "end": 17033,
+   "line": 312
+  },
+  {
+   "fact": "她想到前主人，但反驳：这些事发生在几小时内，他们怎么知道今天所有员工都在室内",
+   "anchor": "But they did this over the course of a few hours",
+   "start": 17085,
+   "end": 17133,
+   "line": 315
+  },
+  {
+   "fact": "Harrison：他们运气好",
+   "anchor": "They got lucky",
+   "start": 17243,
+   "end": 17257,
+   "line": 318
+  },
+  {
+   "fact": "她：他们还给你们俩留了条",
+   "anchor": "They left you and Gazzie those notes.",
+   "start": 17278,
+   "end": 17315,
+   "line": 321
+  },
+  {
+   "fact": "Harrison：有了摄像头权限和好时机，都可控",
+   "anchor": "Manageable, with security-camera access and great timing.",
+   "start": 17320,
+   "end": 17377,
+   "line": 324
+  },
+  {
+   "fact": "她眯眼指出：前几天烘干房没有被撬，是用钥匙开的",
+   "anchor": "The skin drying room wasn’t broken into the other day. They used a key.",
+   "start": 17402,
+   "end": 17473,
+   "line": 327
+  },
+  {
+   "fact": "Harrison：谁都能撬锁",
+   "anchor": "Anybody can pick a lock.",
+   "start": 17478,
+   "end": 17502,
+   "line": 330
+  },
+  {
+   "fact": "她：那好几把挂锁呢？",
+   "anchor": "And multiple padlocks?",
+   "start": 17507,
+   "end": 17529,
+   "line": 333
+  },
+  {
+   "fact": "Harrison：那种东西有工具",
+   "anchor": "There’s equipment for that kind of stuff.",
+   "start": 17534,
+   "end": 17575,
+   "line": 336
+  },
+  {
+   "fact": "她不考虑就逐条被打回来",
+   "anchor": "He batted down each idea without even considering it.",
+   "start": 17579,
+   "end": 17632,
+   "line": 339
+  },
+  {
+   "fact": "她看向 Gazzie 希望她在听，但 Gazzie 只是空茫地看着现场、揉太阳穴",
+   "anchor": "I glanced at Gazzie, hoping she was listening, but she was staring vacantly at the scene, rubbing her temples.",
+   "start": 17633,
+   "end": 17743,
+   "line": 339
+  },
+  {
+   "fact": "Harrison 踢了一条死鱼，棕色脏物从鱼腹流出",
+   "anchor": "Harrison kicked at a dead fish, brown gunk oozing out of its stomach.",
+   "start": 17744,
+   "end": 17813,
+   "line": 339
+  },
+  {
+   "fact": "她提高声音问：为什么要做这些",
+   "anchor": "Why do this, though?",
+   "start": 17817,
+   "end": 17837,
+   "line": 342
+  },
+  {
+   "fact": "Harrison 复述她的 Why",
+   "anchor": "he repeated.",
+   "start": 17875,
+   "end": 17887,
+   "line": 345
+  },
+  {
+   "fact": "她说：为什么要造这么多麻烦，不像工作量很大吗",
+   "anchor": "Why would someone cause this much trouble? Doesn’t it seem like a lot of work?",
+   "start": 17891,
+   "end": 17969,
+   "line": 348
+  },
+  {
+   "fact": "她的判断：以 Gazzie 已经惩罚过其中一个的程度来看，她看不见那两位卫星农场前主人来做这件事",
+   "anchor": "I couldn’t see the former satellite-farm owners doing it, especially given how Gazzie had punished one of them already.",
+   "start": 17971,
+   "end": 18090,
+   "line": 348
+  },
+  {
+   "fact": "Harrison：我猜是动物维权者，他们什么疯狂事都干",
+   "anchor": "I bet it’s an animal activist. They do all kinds of crazy shit.",
+   "start": 18094,
+   "end": 18157,
+   "line": 351
+  },
+  {
+   "fact": "她试着想象",
+   "anchor": "I tried to picture it.",
+   "start": 18161,
+   "end": 18183,
+   "line": 354
+  },
+  {
+   "fact": "她的专业反驳：他们通常挺无聊，闯入设施不常见；真闯入也是拍虐待画面上传以左右舆论；更激进的会放动物，仅此而已",
+   "anchor": "they’ll take videos of animal abuse, like inhumane living conditions, then share them online to sway public opinion. More radical groups sometimes try to release animals, but that’s all.",
+   "start": 18279,
+   "end": 18465,
+   "line": 354
+  },
+  {
+   "fact": "Harrison：也许吧，但是——",
+   "anchor": "I guess, but—",
+   "start": 18470,
+   "end": 18483,
+   "line": 357
+  },
+  {
+   "fact": "她：总不会为了抗议再杀更多动物吧（她说到兴头上）",
+   "anchor": "Would they really kill more animals as part of a protest?",
+   "start": 18488,
+   "end": 18545,
+   "line": 360
+  },
+  {
+   "fact": "自陈：动物福利是她的本行",
+   "anchor": "Animal welfare was, after all, my wheelhouse.",
+   "start": 18564,
+   "end": 18609,
+   "line": 360
+  },
+  {
+   "fact": "她的论点：我们不是普通农场；牛不跳；猪聪明可爱；鳄鱼……不",
+   "anchor": "We aren’t a normal farm. Cows skip. Pigs are smart and pretty cute. Alligators are…not.",
+   "start": 18646,
+   "end": 18733,
+   "line": 360
+  },
+  {
+   "fact": "她说：维权者不为会咬人的丑动物辩护，品牌上划不来",
+   "anchor": "Activists don’t defend ugly animals that bite. It’s bad branding.",
+   "start": 18734,
+   "end": 18799,
+   "line": 360
+  },
+  {
+   "fact": "她的收束：况且他们前几天不会把那头鳄鱼关进楼里——他们会把它放了",
+   "anchor": "they wouldn’t have released that alligator in the building the other day. They would have freed it.",
+   "start": 18806,
+   "end": 18905,
+   "line": 360
+  },
+  {
+   "fact": "Harrison：I don’t know, Dart, 也许他们觉得必须采取激烈行动",
+   "anchor": "maybe they felt like drastic action was necessary.",
+   "start": 18930,
+   "end": 18980,
+   "line": 363
+  },
+  {
+   "fact": "她说：也许。但真不信 PETA 会锯动物来证明主张",
+   "anchor": "But I really don’t think PETA would saw up animals to prove a point.",
+   "start": 18992,
+   "end": 19060,
+   "line": 366
+  },
+  {
+   "fact": "一阵风把腐肉味抬向他们，两人都退一步作呕",
+   "anchor": "A breeze lifted the smell of rotting flesh toward us, and Harrison and I took a step back, gagging.",
+   "start": 19064,
+   "end": 19163,
+   "line": 369
+  },
+  {
+   "fact": "她的思路转了：凶手不留痕迹地制造混乱讲不通——除非真有非人的东西在动手，或至少在替某人助攻",
+   "anchor": "Not unless something inhuman really was at work—or, at the very least, assisting someone",
+   "start": 19260,
+   "end": 19348,
+   "line": 369
+  },
+  {
+   "fact": "那种助攻就是让人忘记锁门的好运、保证没人恰好在错误的时刻转过拐角",
+   "anchor": "providing the kind of luck that made people forget to lock doors, that ensured no one turned a corner at the wrong moment.",
+   "start": 19350,
+   "end": 19472,
+   "line": 369
+  },
+  {
+   "fact": "Gazzie 阴沉地说：我们一直有麻烦，也永远会有",
+   "anchor": "We’ve always had trouble",
+   "start": 19476,
+   "end": 19500,
+   "line": 372
+  },
+  {
+   "fact": "Harrison 不自然地笑，Gazzie 懒得回应",
+   "anchor": "Harrison laughed uncomfortably, but Gazzie didn’t bother responding.",
+   "start": 19543,
+   "end": 19611,
+   "line": 375
+  },
+  {
+   "fact": "她继续研究尸骸，大概正在想象一个模糊的怪物在农场里忙活",
+   "anchor": "She studied the carcasses, presumably imagining a nebulous monster puttering about the farm.",
+   "start": 19612,
+   "end": 19704,
+   "line": 375
+  },
+  {
+   "fact": "末句：Ironheart 在驱散它的猎物",
+   "anchor": "Ironheart, scattering its prey.",
+   "start": 19707,
+   "end": 19738,
+   "line": 378
+  }
+ ],
+ "relations": [
+  [
+   "Gazzie＝叙述者的祖母（ch02:144 已坐实）；本章 she handed me a ring of keys 是第一次对她示好",
+   "Gazzie"
+  ],
+  [
+   "Harrison＝农场经理／文件房对手；本章两人对话密度最高，且第一次出现朋友式玩笑（Were we really joking like friends?）",
+   "Harrison"
+  ],
+  [
+   "Joe＝第三代鳄鱼农，家族农场被 Gazzie 收购后随附；本章她的头号嫌疑人",
+   "Joe"
+  ],
+  [
+   "Nova＝前台，本章第一次成为信息来源；她给的两条商业线索（甘蔗／磷酸矿）与 ch18 phosphate contracts 的玩笑呼应",
+   "Nova"
+  ],
+  [
+   "Javier 与 Will 外场；Seth 与 Benny-G 管肉——本章第一次点名四位全职员工",
+   "employees"
+  ],
+  [
+   "Ironheart＝家族传说生物；本章末句由叙述者自己把它当作肇事者",
+   "Ironheart"
+  ],
+  [
+   "Laura Leigh＝ch02/ch03 前同事（本章用作 Nova 的对照）",
+   "Laura Leigh"
+  ]
+ ],
+ "numbers": [
+  [
+   "20 张皮被切成半英寸宽的条",
+   "cutting all twenty into half-inch-wide strips"
+  ],
+  [
+   "损失约五千美元",
+   "Five thousand or so"
+  ],
+  [
+   "数百把牛排刀插在地上",
+   "hundreds of steak knives stuck in the ground"
+  ],
+  [
+   "Joe 数到 250 就放弃了计数；他大约完成一半",
+   "Lost count at two hundred fifty."
+  ],
+  [
+   "叙述者推算：五百把以上一个人要插几个小时",
+   "Sticking five hundred or more knives into the ground would take several hours"
+  ],
+  [
+   "农场除主角 4 人外还有 5 名全职",
+   "five other people worked at the farm full-time"
+  ],
+  [
+   "储藏室有 20 个箱子",
+   "Twenty boxes loomed before me"
+  ],
+  [
+   "尸骸数百，可能五百",
+   "Hundreds of carcasses in total. Five hundred, maybe."
+  ],
+  [
+   "Gazzie 估算：这批尸骸至少让进度退一天",
+   "This is going to set us back a day at least"
+  ],
+  [
+   "全体员工的室内作业令覆盖下一周",
+   "ordered inside for the next week"
+  ]
+ ]
+}
