@@ -7,7 +7,7 @@ modified: "2026-09-13"
 
 ## 本章导航
 
-- **一句话概括**：MARCH——Grace flies home and finds Julian with another girl in Kai's photo; Tori warns Grace about Julian; Asher confesses; Alesha/Steve Langston marriage revealed (Alesha was the GME rumor source all along); Grace retaliates by impersonating Alesha on a patient page call
+- **一句话概括**：MARCH——Grace 飞回家，在 Kai 的照片里看到 Julian 身边有另一个女孩；Tori 警告 Grace 别再伤 Julian；Asher 向 Grace 表白；Alesha 与 Steve Langston 的婚姻曝光（原来 GME 的谣言源头一直是 Alesha）；Grace 用 Alesha 的名字冒名接听病人呼叫来报复她
 - **情感弧线位置**：低谷 (rock bottom — heartbreak + betrayal)
 - **Tropes 兑现/反转**："the protective friend"（Tori threatens Grace）；"the friend who knew first"（Asher's confession）；"the betrayal reveal"（Alesha = rumor source）；"revenge"
 - **人物弧线**：Grace 从 heartbreak → parental comfort → Tori confrontation → Asher friendship → Alesha betrayal shock → revenge against Alesha
@@ -137,7 +137,7 @@ modified: "2026-09-13"
 
 > **原句 11:** "It was Alesha?"
 
-**中文理解**：是 Alesha？
+**中文理解**：是 Alesha？散布那些话的人，是她？
 
 **关键词**：Alesha
 
@@ -186,4 +186,4 @@ modified: "2026-09-13"
 
 ## 一句话总结
 
-Tori's ultimatum + Asher's confession + Alesha's betrayal = Grace hits rock bottom, then chooses revenge.
+Tori 的最后通牒、Asher 的告白、Alesha 的背叛叠在一起，把 Grace 推到谷底；她随后选择了报复。

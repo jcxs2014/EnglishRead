@@ -41,7 +41,7 @@ modified: "2026-09-12"
 
 **关键词**：in love, love, difference
 
-**为什么这样写**：Grace 把 "in love"（浪漫激情）和 "love"（stable 关怀）放在对比—she's asking whether her feelings for Julian are just infatuation or real love.
+**为什么这样写**：Grace 把"in love"（浪漫激情）与"love"（稳定的关怀）放在一起对照——她想弄清自己对 Julian 的感情，只是短暂的心动，还是真正的爱。
 
 **读者视角提示**："in love" vs "love" 是爱情理论的基本区别—Grace 在 philosophical level 上思考她的感情。
 
@@ -61,7 +61,7 @@ modified: "2026-09-12"
 
 **关键词**：not cold
 
-**为什么这样写**：Julian 用 "You're not cold"（你不是冷的）来反驳 Grace 被前 boyfriend 说 "cold" 的创伤—he's reassuring her.
+**为什么这样写**：Julian 用"You're not cold"（你不是冷的）来反驳 Grace 被前男友说"cold"留下的那道伤——他是在安抚她。
 
 **读者视角提示**：注意 Julian 的 tone—"not cold" 是 direct, firm, no hesitation—his response is "defiant rejection" of Grace's self-criticism.
 

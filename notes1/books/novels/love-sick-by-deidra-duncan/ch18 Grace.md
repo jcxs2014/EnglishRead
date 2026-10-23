@@ -21,9 +21,9 @@ modified: "2026-09-12"
 
 **关键词**：diamond, facets, dazzling, endless, trust
 
-**为什么这样写**：Grace uses the diamond metaphor—"standing in a diamond while sunlight shines through" (站在钻石里阳光穿透) — a reversal of "diamond in the rough"; she's enveloped by light. "Dazzling rainbows sparkle over each surface" is synesthetic imagery (light as color as emotion). The tricolon "warm and bright and endless" builds from tactile → visual → temporal. Then the pivot: "I don't trust it" — her trauma from Matt makes her suspicious even of good things.
+**为什么这样写**：Grace 用钻石比喻——"standing in a diamond while sunlight shines through"（站在钻石里，阳光穿透）——把"diamond in the rough"（未经打磨的钻石）整个翻过来：她是被光包住的。"Dazzling rainbows sparkle over each surface"是通感意象（光写成颜色，颜色写成情绪）。"warm and bright and endless"三项排比，从触觉推到视觉再推到时间感。然后是转折："I don't trust it"——Matt 留下的创伤，让她连好事也要怀疑。
 
-**读者视角提示**："I don't trust it" is the defensive pivot. The shift from "from the outside" to "on the inside" shows Grace moving from abstract to experiential.
+**读者视角提示**："I don't trust it"是防御性的转折。"from the outside"到"on the inside"的切换，说明 Grace 正从抽象的概念走向亲身的体验。
 
 > **原句 2:** "Diamonds are beautiful, but hard. They can break under pressure. They can be faked. Julian wouldn't do that, though."
 
@@ -31,9 +31,9 @@ modified: "2026-09-12"
 
 **关键词**：hard, break under pressure, faked
 
-**为什么这样写**：Grace continues the diamond metaphor — "hard / break under pressure / faked" — tricolon listing escalating dangers. "Julian wouldn't do that, though" is her exception-making for him despite general distrust. The "though" (然而) is the pivot.
+**为什么这样写**：Grace 接着钻石这个比喻往下走——"hard / break under pressure / faked"——三项排比，危险一级比一级重。"Julian wouldn't do that, though"是她尽管普遍不信任、却单独为他破的例。"though"（然而）就是那个转折点。
 
-**读者视角提示**：The pattern mirrors ch17's Julian: both characters recognize danger but make exceptions for each other.
+**读者视角提示**：这个写法与第十七章 Julian 的写法互为镜像：两个人都看得见危险，却都愿意为对方破一次例。
 
 > **原句 3:** "Two months have passed since he claimed he loves me, yet I can't silence the voice in my head. It reminds me of the last man who declared himself in love with me. He lied."
 
@@ -41,9 +41,9 @@ modified: "2026-09-12"
 
 **关键词**：claimed, declared, lied
 
-**为什么这样写**：Grace uses "claimed" (声称) — subtly questioning Julian's sincerity. "can't silence the voice" shows her active psychological struggle. "declared himself in love" parallels her ex's false declaration. "He lied" — three words, period, final.
+**为什么这样写**：Grace 用"claimed"（声称）——悄悄质疑 Julian 的真心。"can't silence the voice"写她正在进行的那场心理挣扎。"declared himself in love"与她前任那句虚假的宣告形成对照。"He lied"——三个词，一个句号，终局。
 
-**读者视角提示**："claimed" vs "declared" — both are slightly distancing verbs, showing Grace's lingering distrust.
+**读者视角提示**："claimed"与"declared"——两个都带着轻微的距离感，显出 Grace 挥之不去的戒备。
 
 > **原句 4:** "Love doesn't leave scars. It doesn't humiliate. It's not conditional. That man's 'love' broke me, and I wish I'd healed."
 
@@ -51,9 +51,9 @@ modified: "2026-09-12"
 
 **关键词**：scars, humiliate, conditional
 
-**为什么这样写**：Grace's tricolon defines her trauma-based criteria for healthy love. "doesn't leave scars / doesn't humiliate / not conditional" — medical/legal imagery. "That man's 'love' broke me" uses physical injury metaphor. "I wish I'd healed" reveals unresolved trauma.
+**为什么这样写**：Grace 的三项排比，把她依据创伤立起来的"健康之爱"标准说清了——"doesn't leave scars / doesn't humiliate / not conditional"，带着医学与法律的意象。"That man's 'love' broke me"用身体受伤作比。"I wish I'd healed"泄露了还没好的伤。
 
-**读者视角提示**："broke me" (弄破) — not "hurt" but "broke" suggests permanent damage.
+**读者视角提示**："broke me"（弄破）——不是"hurt"（伤到），而是"broke"（弄坏），暗示这是永久性的损伤。
 
 > **原句 5:** "This adoration deep in the marrow of my bones is unmistakable. I love him, but if I say the words, it's real. If I say them, I relinquish all power."
 
@@ -61,9 +61,9 @@ modified: "2026-09-12"
 
 **关键词**：marrow, relinquish all power
 
-**为什么这样写**：Grace frames her silence as "selfish" and love confession as surrender: "if I say the words, it's real / I relinquish all power" — political/legal language for vulnerability. This is her trauma: vulnerability = risk of destruction.
+**为什么这样写**：Grace 把自己的沉默说成"自私"，把表白说成缴械——"if I say the words, it's real / I relinquish all power"，用政治与法律的词写脆弱。这就是她的创伤逻辑：示弱等于有被毁掉的风险。
 
-**读者视角提示**："marrow of my bones" (骨髓) — deep, primal. Not just emotional, physical. "relinquish all power" — she sees love as a zero-sum transaction.
+**读者视角提示**："marrow of my bones"（骨髓）——深到本能，不只是情绪，而是身体层面。"relinquish all power"——她把爱看成一笔零和交易。
 
 > **原句 6:** "He's silver-lined."
 
@@ -71,9 +71,9 @@ modified: "2026-09-12"
 
 **关键词**：silver-lined
 
-**为什么这样写**：Grace reverses the idiom "silver-lined cloud" (乌云的金边) — now applied to Julian. The moonlight makes him literally silver-lined. She's finding the beauty in him, contrasting with the diamond metaphor earlier.
+**为什么这样写**：Grace 把成语"silver-lined cloud"（乌云的金边）倒过来用，落到 Julian 身上。月光让他的轮廓真的像镶了一圈银边。她在找他的美，与前面那个钻石比喻形成对照。
 
-**读者视角提示**：Silver vs diamond: silver is softer, more intimate; diamond is cold and hard. Grace is moving from abstract to personal.
+**读者视角提示**：银与钻石——银更软、更贴身；钻石冷而硬。Grace 正从抽象走向具体的人。
 
 > **原句 7:** "'I love you,' I whisper. He doesn't stir."
 
@@ -81,9 +81,9 @@ modified: "2026-09-12"
 
 **关键词**：whisper, doesn't stir
 
-**为什么这样写**：Grace whispers her confession — quiet, vulnerable, without expectation. "He doesn't stir" (他没有动) — Julian is deeply asleep. The devastating understatement mirrors ch17's "She never said it back."
+**为什么这样写**：Grace 低声说出告白——轻轻的、脆弱的、不指望回应的。"He doesn't stir"（他没有动）——Julian 睡得很沉。这种轻描淡写的致命感，与第十七章"She never said it back"正好对称。
 
-**读者视角提示**："doesn't stir" vs "ignored me" — the understated absence of reaction is more painful than rejection.
+**读者视角提示**："doesn't stir"而不是"ignored me"（无视我）——这份被压低了的"没有反应"，比直接拒绝更疼。
 
 > **原句 8:** "I lean on the door since no chair has ever been offered to me. 'God forbid you don't get a shot of that nasal bone.'"
 
@@ -91,9 +91,9 @@ modified: "2026-09-12"
 
 **关键词**：nasal bone, god forbid
 
-**为什么这样写**：Grace sarcastically echoes Dr. John's obsession with the baby's nasal bone (from earlier in the chapter). "God forbid you don't get a shot" — her bitter humor about his creepy fixation.
+**为什么这样写**：Grace 用讽刺的口吻复述 John 医生对胎儿鼻骨的执念（本章前文提过）。"God forbid you don't get a shot"——她对他那种令人不适的痴迷，用一句苦味的玩笑回敬。
 
-**读者视角提示**：The nasal bone motif returns — Dr. John's repeated "beautiful nasal bone" running joke throughout MFM rotation.
+**读者视角提示**：鼻骨这个母题又回来了——John 医生反复念叨"beautiful nasal bone"，是 MFM 轮转期间贯穿的一个梗。
 
 > **原句 9:** "'I'm a little ticked off you didn't tell me you're dating, Sapphire.' He crosses his arms. 'I told you about my affair with my attending when I was a resident.'"
 
@@ -101,9 +101,9 @@ modified: "2026-09-12"
 
 **关键词**：ticked off, Sapphire
 
-**为什么这样写**：Hoffman uses "ticked off" (恼火) — dismissive irritation. He insists on calling her "Sapphire" (full name) — intimate/mocking. He weaponizes his own vulnerability ("I told you about my affair") to extract hers.
+**为什么这样写**：Hoffman 用"ticked off"（恼火）——一种居高临下的不耐烦。他坚持叫她"Sapphire"（全名）——既亲密又带嘲弄。他拿自己的脆弱当武器（"I told you about my affair"），来撬出她的。
 
-**读者视角提示**：The asymmetry: Hoffman shared voluntarily, but demands Grace share. His "affair with my attending" is bragging; his curiosity about her dating is predatory.
+**读者视角提示**：不对称就在这里——Hoffman 是自愿说出来的，却要求 Grace 也交代。他讲"和主治的绯闻"是炫耀；他追问她的约会却是猎捕。
 
 > **原句 10:** "'She said you're dating a couple who are both radiology residents. Said you were caught in one of the call rooms.' My mind goes still, followed swiftly by my body."
 
@@ -111,9 +111,9 @@ modified: "2026-09-12"
 
 **关键词**：radiology, call room
 
-**为什么这样写**：The specific lie — "radiology residents" + "call room" — is salacious and specific. Grace's "mind goes still, followed swiftly by my body" is her physical freeze response to shock.
+**为什么这样写**：这个具体的谎——"radiology residents"加"call room"——既下流又具体。Grace 的"mind goes still, followed swiftly by my body"写的正是震惊之下身体的冻结反应。
 
-**读者视角提示**：This is a classic slut-shame scenario: a woman alone in a professional setting immediately assumed to be sexual.
+**读者视角提示**：这是典型的荡妇羞辱场景：一个女人独自处在职业环境里，立刻就被默认跟性有关。
 
 ## 本章词汇
 

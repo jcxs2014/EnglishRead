@@ -164,4 +164,4 @@ modified: "2026-09-13"
 
 ## 一句话总结
 
-The reunion: Grace tells Julian the truth about Matt; Julian chases her down and says "I'm all in."
+重逢：Grace 向 Julian 说出关于 Matt 的真相；Julian 追了过去，说"I'm all in."（我全押上了。）

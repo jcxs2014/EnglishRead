@@ -126,4 +126,4 @@ modified: "2026-09-13"
 
 ## 一句话总结
 
-Four years later: Grace saves herself (Rumor Wranglers), and Julian proposes with a sparkly rose gold ring. Always yes.
+四年后：Grace 靠自己走了出来（创办 Rumor Wranglers），Julian 用一枚闪亮的玫瑰金戒指求婚。答案永远是 yes。
