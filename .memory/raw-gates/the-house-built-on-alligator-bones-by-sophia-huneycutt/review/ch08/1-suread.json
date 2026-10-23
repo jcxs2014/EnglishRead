@@ -1,0 +1,536 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch08",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch08_chapter_seven.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "开场定调：Gazzie 开车像她说话——急弯与临到才刹；叙述者没要求她慢（七点路上车少），只想昨晚没睡好",
+   "anchor": "Gazzie drove like she spoke. All sharp turns and last-minute brakes.",
+   "start": 13,
+   "end": 81,
+   "line": 9
+  },
+  {
+   "fact": "回床后 Greer House 活了过来：管子吹哨、墙壁呻吟，她的脑子绕着 Mama 衣柜墙上的字转圈",
+   "anchor": "Pipes had whistled and walls had groaned while my mind spun circles around the words scrawled on Mama’s closet wall.",
+   "start": 339,
+   "end": 455,
+   "line": 9
+  },
+  {
+   "fact": "农场在大岛以西的大陆、Jacksonville 正北；车程只有三十五分钟，她还是睡着了，被碎石声吵醒",
+   "anchor": "It was only thirty-five minutes away, but I drifted off, waking to the crunch of gravel.",
+   "start": 552,
+   "end": 640,
+   "line": 12
+  },
+  {
+   "fact": "进 gates：Gazzie 按中控台上的小遥控器；她几天前查过鳄鱼场，搜到的多是动物园，真场子私密，只能靠想象（一座红顶长棚，像商用猪圈）",
+   "anchor": "I’d tried researching alligator farms days before, but most that surfaced in my search engine turned out to be zoos.",
+   "start": 837,
+   "end": 953,
+   "line": 12
+  },
+  {
+   "fact": "到场所见是一栋 Frankenstein 式拼合物：前座两层维多利亚砖楼（她日后才知道是原始店面），后接灰色现代谷仓像肿瘤一样贴上去＝加工车间；旁边水泥地上堆着几托盘后来认出是饲料的东西；远处十几座银顶建筑",
+   "anchor": "A Frankenstein’s monster of a building sat in the middle of a dry grass field.",
+   "start": 1218,
+   "end": 1296,
+   "line": 15
+  },
+  {
+   "fact": "停车场上方一只监控摄像头朝他们闪；左前门上方挂一块鲜红牌子",
+   "anchor": "Over the left front door hung a bright red sign.",
+   "start": 1920,
+   "end": 1968,
+   "line": 18
+  },
+  {
+   "fact": "牌子全文",
+   "anchor": "Trespassers Will Be Shot",
+   "start": 1971,
+   "end": 1995,
+   "line": 21
+  },
+  {
+   "fact": "她的不解：谁会甘愿夜里溜进鳄鱼场；她问「很多人偷鳄鱼吗」",
+   "anchor": "“Do a lot of people steal alligators?” I asked.",
+   "start": 2081,
+   "end": 2128,
+   "line": 27
+  },
+  {
+   "fact": "Gazzie 不笑：偷猎者、落魄的人；偷蛋、有时偷幼鳄；卖给路易斯安那不怕法的小场；一只二十到三十美元",
+   "anchor": "Sell them to smaller farms in Louisiana that aren’t afraid of the law. Good for twenty or thirty dollars a pop.",
+   "start": 2235,
+   "end": 2346,
+   "line": 30
+  },
+  {
+   "fact": "Gazzie 一脚踢开车门直奔 office，她慌忙跟上",
+   "anchor": "She kicked open the SUV door, barreling toward the office, and I scrambled after her.",
+   "start": 2350,
+   "end": 2435,
+   "line": 33
+  },
+  {
+   "fact": "室内与 Greer House 一样冷（工业空调）、气味无菌像碎纸加洗手液；维多利亚外墙内部砖墙被抹平；门厅几把椅子与半圆前台、一条走廊拐向左",
+   "anchor": "It smelled sterile, like shredded paper and hand sanitizer.",
+   "start": 2552,
+   "end": 2611,
+   "line": 36
+  },
+  {
+   "fact": "若非另外两只摄像头（前台上方一只、走廊里一只）这里可以是任何一间郊区诊所",
+   "anchor": "It could have been any suburban doctor’s office, if not for the two additional security cameras blinking at me",
+   "start": 2802,
+   "end": 2912,
+   "line": 36
+  },
+  {
+   "fact": "前台女人：流苏和服式开衫、黯淡金发披肩、波浪里编小辫、嘴角眼周细纹；年轻的衣服与年长的脸让她困惑；她说「现在我能认出被无遮挡的太阳 weathered 过的皮肤」",
+   "anchor": "Her young clothes and older face confused me.",
+   "start": 3176,
+   "end": 3221,
+   "line": 39
+  },
+  {
+   "fact": "女人只对 Gazzie  monotone 说话、一眼不给叙述者：「Harrison 已经收拾掉一部分了，但他在等你」",
+   "anchor": "“Harrison’s already cleaned up some of it, but he’s waiting for you.”",
+   "start": 3390,
+   "end": 3459,
+   "line": 42
+  },
+  {
+   "fact": "她不喜欢对方说这个名字的方式（像他是个要紧人物）；想起 Gazzie 已定继承人那句、心里问「总不会是员工吧」",
+   "anchor": "It couldn’t be an employee, could it?",
+   "start": 3675,
+   "end": 3712,
+   "line": 45
+  },
+  {
+   "fact": "三段短问答暴露出有件事出了、Gazzie 不让公开：Gazzie 反问「为了什么」「为什么还没处理」；女人答不知道、一直在座位上、要不要报警",
+   "anchor": "“I don’t know, Ms. Greer. I’ve been at my desk. Should I call the police? Or—”",
+   "start": 3876,
+   "end": 3954,
+   "line": 57
+  },
+  {
+   "fact": "Gazzie 用「我们有客人」掐断话题、才瞥她一眼；叙述者读出：出了事、对方不想公开；她压下被当外人的刺痛、提醒自己本来也不喜欢这位祖母",
+   "anchor": "Something had happened, and she didn’t want it becoming public knowledge.",
+   "start": 4020,
+   "end": 4093,
+   "line": 63
+  },
+  {
+   "fact": "介绍方式：「Nova, Dart. Dart, Nova。我今天带 Dart 参观」——没有把她介绍成孙女；Nova 挑眉、叙述者皱眉",
+   "anchor": "“Nova, Dart. Dart, Nova. I’m giving Dart a tour today.”",
+   "start": 4241,
+   "end": 4296,
+   "line": 66
+  },
+  {
+   "fact": "Gazzie 说先去找 Harrison、对她「在这儿等」，对她瞪视毫无察觉",
+   "anchor": "“I’ll catch up with Harrison first,”",
+   "start": 4427,
+   "end": 4463,
+   "line": 72
+  },
+  {
+   "fact": "趁这段她打量 office：前台上一只发亮的标本鳄鱼头、旁边一份复古 Florida 明信片日历；Nova 身后墙上挂一幅画——又一张真人大小的 Ida 画，枪挎在一肩、用手指向水面、把一队穿厚靴的男人领向一条半沉的鳄鱼",
+   "anchor": "It was another full-sized painting of Ida, her rifle slung over one shoulder.",
+   "start": 4898,
+   "end": 4975,
+   "line": 78
+  },
+  {
+   "fact": "画里 Ida 头仍朝画家、头发质感细到几缕像在空调风里颤；但农场上这只眼睛里是空的：不像燃烧的煤、像烧尽的煤",
+   "anchor": "But here, at the farm, her eyes were hollow—less like burning coal and more like coal, burned.",
+   "start": 5251,
+   "end": 5345,
+   "line": 81
+  },
+  {
+   "fact": "室外compound 有淡淡臭鸡蛋味；Gazzie 解释是废水、原来就在主场地有沉淀池、太臭所以现在管到更远处、用新处理减轻",
+   "anchor": "“Wastewater,” Gazzie explained.",
+   "start": 5408,
+   "end": 5439,
+   "line": 90
+  },
+  {
+   "fact": "叙述者接一句：她想象不出味道还能更糟",
+   "anchor": "I couldn’t imagine the smell being worse.",
+   "start": 5588,
+   "end": 5629,
+   "line": 90
+  },
+  {
+   "fact": "太阳刚升到橡树上方、天已热；他们乘高尔夫车沿一条标示清楚土路出发；她庆幸：风冲淡味道、场子大到步行撑不住、还能随时躲开乱跑的鳄鱼",
+   "anchor": "We set off down a well-marked dirt road in a golf cart, for which I was thankful;",
+   "start": 5738,
+   "end": 5819,
+   "line": 93
+  },
+  {
+   "fact": "主楼正后方一个人工棕塘、形状像多出一条腿的 M；每段半个足球场长、整塘围着约十英尺高的围栏、四角多只摄像头闪；草岸边点缀几根木头、拙劣模仿天然沼泽",
+   "anchor": "a brown man-made pond shaped like an M with an extra leg.",
+   "start": 6052,
+   "end": 6109,
+   "line": 96
+  },
+  {
+   "fact": "Gazzie 称它 breeding pond、是取得蛋的老办法；她的自评：并不完全高效、但我喜欢传统",
+   "anchor": "“And not wholly efficient, but I like tradition.”",
+   "start": 6422,
+   "end": 6471,
+   "line": 99
+  },
+  {
+   "fact": "蛋源交代：夏天有许可从野外采集；八月游客付费帮着把幼鳄从蛋里取出；「你以为现在空气就糟？盛夏的 hatchling barn 才该闻一闻」",
+   "anchor": "“We have permits to collect from the wild in summer. In August, tourists pay to help take hatchlings out of their eggs, if you can believe it.",
+   "start": 6528,
+   "end": 6670,
+   "line": 105
+  },
+  {
+   "fact": "幼鳄约七英寸；Gazzie 补一句「可惜」——神情毫无遗憾：Virginia 告诉她叙述者撑不到幼鳄季就走",
+   "anchor": "“About seven inches. Unfortunately,” she added, looking anything but regretful,",
+   "start": 6785,
+   "end": 6864,
+   "line": 111
+  },
+  {
+   "fact": "塘里挤满鳄鱼：有的在沙岸晒、把尾或整个身子搭在彼此身上；车过时它们像在转动以保持把人看在眼里；叙述者觉得一移开视线它们就会整片朝她移动、于是睁大眼、用那道威严的围栏自安",
+   "anchor": "they seemed to ripple, like they were turning to keep us in their sights.",
+   "start": 7184,
+   "end": 7257,
+   "line": 114
+  },
+  {
+   "fact": "围栏是带电的（她注意到几块警告牌）；Gazzie：不带电它们就爬出来；她说十英尺高了；答：它们擅长爬",
+   "anchor": "“Why’s the fence electrified?” I asked, noticing several warning signs.",
+   "start": 7417,
+   "end": 7488,
+   "line": 117
+  },
+  {
+   "fact": "恐慌掠过：它们会跳会爬；她问有多少；答：三个场合计是全州最大、约两万五千条、这个场约一万五千",
+   "anchor": "“On our three farms? Collectively, we’re the biggest in the state. Around twenty-five thousand gators total. This branch has about fifteen.”",
+   "start": 7669,
+   "end": 7809,
+   "line": 132
+  },
+  {
+   "fact": "她极费力才没张大嘴；问一年杀多少；答一万四千上下",
+   "anchor": "“Fourteen thousand, give or take.”",
+   "start": 7892,
+   "end": 7926,
+   "line": 138
+  },
+  {
+   "fact": "她想象一堆带血的鳄鱼、话说不利索；Gazzie：不能为它们难受、这是生意不是动物园；随后用排练过的口气补：鳄鱼场对保护至关重要、把 American alligator 从灭绝边缘救回来",
+   "anchor": "“You can’t feel bad for them. This is a business, not a zoo.”",
+   "start": 8008,
+   "end": 8069,
+   "line": 144
+  },
+  {
+   "fact": "叙述者想不通：一个场就这么多，怎么会濒危；Gazzie 像读到她心思，讲维多利亚人喜好、几乎猎到绝迹、场子养皮卖给奢侈品公司并放归部分成体、六十年代政府禁猎、如今一切受控、没有许可连沼泽里一颗蛋都不能看",
+   "anchor": "As though she’d read my mind, she said, “The Victorians had a thing for them.",
+   "start": 8298,
+   "end": 8375,
+   "line": 150
+  },
+  {
+   "fact": "车一个急拐、她闭嘴思量；这条理由让她对今年要宰的一万四千条好受了一点",
+   "anchor": "That did make me feel a little better about the fourteen thousand they’d slaughter this year.",
+   "start": 8808,
+   "end": 8901,
+   "line": 153
+  },
+  {
+   "fact": "塘对岸一个穿 neon-green 衫的男人从塑料桶里抓一把棕色颗粒抛向空中、几条鳄鱼扑食把水泛起泡沫；她数过：除 Gazzie 之外员工三人",
+   "anchor": "I’d counted three employees so far, excluding Gazzie.",
+   "start": 9001,
+   "end": 9054,
+   "line": 156
+  },
+  {
+   "fact": "尽管她明显感兴趣、Gazzie 没停车；她扭身最后看一眼问「它们不打架吗」；答：里头雄性多、同一栏雄越多越不打；她本以为相反；答：大到这份上谁都知道争头狗没意义",
+   "anchor": "“A lotta males in there. The more males in a pen, the less aggressive they are.”",
+   "start": 9299,
+   "end": 9379,
+   "line": 165
+  },
+  {
+   "fact": "朝银顶谷仓去时超过另一个拎桶的工人＝Harrison；Gazzie 朝他方向点一下头、他抬手回她、继而（想必看见她）皱眉；叙述者移开视线、不肯让他搅动自己",
+   "anchor": "Harrison. Gazzie bobbed her head in his direction. He lifted his hand to her, then, presumably seeing me, frowned.",
+   "start": 9581,
+   "end": 9695,
+   "line": 174
+  },
+  {
+   "fact": "过两座长方谷仓（分别孵蛋与养最小的一批）、再过十座较小的长方谷仓养亚成体、每座三十英尺长；Gazzie 喝一声「grow-out barns」：小的按体型分开以减少打斗",
+   "anchor": "“Grow-out barns,” she barked. “The little ones are separated by size to limit fighting.”",
+   "start": 9992,
+   "end": 10080,
+   "line": 180
+  },
+  {
+   "fact": "路往前弯、绕到塘另一侧、最终回到前楼；她推算：若一路走下去、参观提前结束，她就没机会问 Mama 与衣柜上那些短语",
+   "anchor": "If we continued down it and our tour finished early, I wouldn’t have a chance to ask Gazzie about Mama and the phrases in her closet.",
+   "start": 10198,
+   "end": 10331,
+   "line": 183
+  },
+  {
+   "fact": "她开口「Wait」并试探「Can we—」；Gazzie 一脚刹死、她甩出手才没翻过车头；Gazzie 只说：记得告诉 Ginny 你得到了完整的参观",
+   "anchor": "“Be sure to tell Ginny you got a full tour.”",
+   "start": 10480,
+   "end": 10524,
+   "line": 189
+  },
+  {
+   "fact": "下车时她思量这对姐妹的关系：Gazzie 支得动 Virginia 却避免彻底惹怒她；Virginia 必对她持有某种权力、来处不明",
+   "anchor": "As I slipped out of my seat, I considered the sisters’ dynamic.",
+   "start": 10527,
+   "end": 10590,
+   "line": 192
+  },
+  {
+   "fact": "跟到一座较大的长方谷仓门口、不敢进（怕小鳄鱼也能压倒人、想象成片如火蚁涌上来）；往里几乎看不见、但听见那些幼崽在 chirp——Gazzie 纠正叫 hatchlings；听起来像可爱的小青蛙、配上外面蝉声成一种合唱",
+   "anchor": "I could, however, hear the babies—hatchlings, Gazzie corrected—chirping.",
+   "start": 11076,
+   "end": 11148,
+   "line": 195
+  },
+  {
+   "fact": "进门一步她捂住鼻子：臭鸡蛋味变复杂、掺进泥与死水的土腥",
+   "anchor": "A step inside, I stopped, pressing my hand to my nose.",
+   "start": 11306,
+   "end": 11360,
+   "line": 198
+  },
+  {
+   "fact": "Gazzie 明显来劲地问「要不要回去了」；她哑声答不、用嘴呼吸",
+   "anchor": "Gazzie turned, visibly perky.",
+   "start": 11471,
+   "end": 11500,
+   "line": 201
+  },
+  {
+   "fact": "谷仓是暖的；温度决定性别（它们没有性染色体）：凉＝雌、暖＝雄，所以水温多保持偏暖；她追问换来 grunts；Gazzie 说雄的更大、更大＝更多皮，但天气若持续变暖、也许有一天鳄鱼场是唯一雌性来源、那时会多养雌的以重填野外「要付钱的」",
+   "anchor": "Gazzie explained that temperature determined the gators’ sex, something about them not having sex chromosomes.",
+   "start": 11590,
+   "end": 11700,
+   "line": 207
+  },
+  {
+   "fact": "往里走、鳄鱼齐齐安静下来",
+   "anchor": "As we proceeded inside, the alligators went silent.",
+   "start": 12076,
+   "end": 12127,
+   "line": 210
+  },
+  {
+   "fact": "中间走道两侧是半高木墙；右边池子被半高墙再分成三格、约六英尺见方、内衬厚白塑料、灌约一英尺深的水；她脚下那池里映回约三十只黄眼睛；她觉得手伸到水面上它们会跳起来咬、庆幸它们被关着",
+   "anchor": "In the pool I stood above, thirty or so yellow eyes reflected back at me.",
+   "start": 12391,
+   "end": 12464,
+   "line": 213
+  },
+  {
+   "fact": "她说「这里暗」；Gazzie：暗里长得快、有个爱做好事的科学家说光更好、但我们一直这么做、多数场如今也这么做；有些一直到死那天都见不到太阳、长得也好；breeder 能在塘里多活一年左右；她说得公事公办、像这些条件不由她掌控",
+   "anchor": "“Gators grow faster in the dark. A do-gooder scientist tried to tell me light’s better for them,",
+   "start": 12603,
+   "end": 12699,
+   "line": 219
+  },
+  {
+   "fact": "同情涌上来：就算是小杀手、也不确定该过一辈子黑暗；但又提醒自己不能这么想——这是农场参观、不是慈善活动",
+   "anchor": "This was a farm tour, not a charity event.",
+   "start": 13211,
+   "end": 13253,
+   "line": 222
+  },
+  {
+   "fact": "Gazzie 沿谷仓大步走时、一片齐声的 hiss 爆发；那声音让她发冷、不自然、像有组织的抗议",
+   "anchor": "It was chilling, that sound. Unnatural, almost like a coordinated protest.",
+   "start": 13318,
+   "end": 13392,
+   "line": 228
+  },
+  {
+   "fact": "Gazzie 唤她来、说它们够不到她；她小心往前、等 hiss 也跟着她、但没有——只朝 Gazzie 响、像知道她是囚禁的责任人；她自己找理由：想必总对进谷仓的第一个人响、它们大概受惊",
+   "anchor": "They only hissed at Gazzie, like they knew she was responsible for their imprisonment.",
+   "start": 13540,
+   "end": 13626,
+   "line": 234
+  },
+  {
+   "fact": "Gazzie 手扶栏杆盯着右边一栏：水面一层亮绿膜、一英尺长的鳄鱼在泥里穿行、用黄眼看着他们；答 algae、并皱眉；「会伤它们吗」「我们清得够快就不伤」",
+   "anchor": "A bright green film covered the water.",
+   "start": 13814,
+   "end": 13852,
+   "line": 237
+  },
+  {
+   "fact": "她摘下腰带上的 walkie-talkie 低声说话；那头回「又是？我们昨天才清」；Gazzie：给你半小时",
+   "anchor": "“Again?” a voice crackled. “We cleaned it yesterday.”",
+   "start": 14164,
+   "end": 14217,
+   "line": 255
+  },
+  {
+   "fact": "她问藻一夜就长？Gazzie：任自然失控、它就整口把你吞下",
+   "anchor": "“Let nature get out of control,” Gazzie replied, “and it’ll swallow you whole.”",
+   "start": 14295,
+   "end": 14374,
+   "line": 264
+  },
+  {
+   "fact": "远处一辆高尔夫车嗡来；她想：这大概是被打断前最后的机会；深吸一口气（立刻后悔、眼睛进水）、逼自己面对她、把手从鼻子上放下",
+   "anchor": "This was probably my last chance to ask about Mama before we were interrupted.",
+   "start": 14414,
+   "end": 14492,
+   "line": 267
+  },
+  {
+   "fact": "她问出的原句",
+   "anchor": "“Why did my mother leave?”",
+   "start": 14711,
+   "end": 14737,
+   "line": 276
+  },
+  {
+   "fact": "Gazzie 整个身体僵住、像被电击枪电到；叙述者握紧拳赶着说：猜想你们吵过架、我昨天在她房里翻看过——",
+   "anchor": "Her entire body stiffened, like I’d zapped her with a taser.",
+   "start": 14740,
+   "end": 14800,
+   "line": 279
+  },
+  {
+   "fact": "Gazzie 眼睛危险地转黑、慢慢转身只说「And?」",
+   "anchor": "Eyes dangerously black, Gazzie turned to me slowly.",
+   "start": 14933,
+   "end": 14984,
+   "line": 285
+  },
+  {
+   "fact": "叙述者脸红、腋下出汗；又一次感到被这女人弄成不受欢迎；心里骂 Hateful woman；想象把她推进长藻的栏里、看鳄鱼咬她、撕掉她指尖的细肉",
+   "anchor": "I could push her into the algae-infested pen, watch the alligators nip at her, rip off the delicate flesh of her fingertips.",
+   "start": 15103,
+   "end": 15227,
+   "line": 288
+  },
+  {
+   "fact": "这个画面把她自己吓到；她提醒自己不是有暴力念头的那种女人、要找回掌控；她是讲理的、平静的",
+   "anchor": "I was not the kind of woman who had violent thoughts, I reminded myself",
+   "start": 15252,
+   "end": 15323,
+   "line": 291
+  },
+  {
+   "fact": "她重算策略：若错在 Gazzie、对方不会招认；得去问 Virginia 姨妈——她当然会难过（对自己的侄女极其敏感）、但大概能劝她说出她想知的",
+   "anchor": "I’d have to ask Aunt Virginia what had happened.",
+   "start": 15498,
+   "end": 15546,
+   "line": 294
+  },
+  {
+   "fact": "她改口「Never mind」；Gazzie「Good」、 sharply 转身、说自己有活要干",
+   "anchor": "“Never mind,” I muttered.",
+   "start": 15675,
+   "end": 15700,
+   "line": 297
+  },
+  {
+   "fact": "出门时幼鳄重新彼此 chirp、像在庆祝他们离开；她希望再也不听到那声音；不想回农场、也开始怕回 Greer House；心想一个人在 Savannah 过日子也许值得换来与这位祖母的距离",
+   "anchor": "A life alone in Savannah might be worth the distance from my grandmother.",
+   "start": 16026,
+   "end": 16099,
+   "line": 303
+  }
+ ],
+ "relations": [
+  [
+   "Nova＝前台女人，本章只有名、无姓、无身份说明；她称 Gazzie 为 Ms. Greer",
+   ""
+  ],
+  [
+   "「the sisters’ dynamic」（:192）＝Gazzie 与 Virginia 是姐妹（与 ch06:165 `her sister` 一致）；本章仍不写排行、也不写权力来处（叙述者明说不知道）",
+   ""
+  ],
+  [
+   "Harrison 在本章第二次出现：:42 由 Nova 口中说出（已在收拾「some of it」并等 Gazzie）、:174 被超车时与 Gazzie 互相致意、对她皱眉；本章无人解释他要 Gazzie 什么事",
+   ""
+  ],
+  [
+   "叙述者与 Gazzie 的关系：Gazzie 对 Nova 只说「Dart」、介绍时不说孙女（:66/:69）；:63 叙述者仍称她 my grandmother",
+   ""
+  ],
+  [
+   "「昨天在她房里翻看过」（:282）指 ch07 那一夜发生的事（Polaroid 与墙字）——本章内部称 yesterday",
+   ""
+  ],
+  [
+   "Ida 在本章第二次以画出现（农场 office 一幅 full-sized）；枪挎肩、指向水面、领一队男人向半沉的鳄鱼——本章不给画师、年代、是否原作",
+   ""
+  ]
+ ],
+ "numbers": [
+  [
+   "七点上路（:9）／车程三十五分钟（:12）",
+   "few cars were on the road at seven a.m."
+  ],
+  [
+   "两层维多利亚砖楼；十几座银顶建筑（:15）",
+   "a dozen large, silver-roofed structures"
+  ],
+  [
+   "偷卖价一只二十到三十美元（:30）",
+   "Good for twenty or thirty dollars a pop."
+  ],
+  [
+   "围栏约十英尺高（:96、:123）",
+   "a fence about ten feet high"
+  ],
+  [
+   "塘每段半个足球场长（:96）",
+   "Each stretch was half a football field long"
+  ],
+  [
+   "幼鳄约七英寸（:111）",
+   "About seven inches."
+  ],
+  [
+   "三个场合计约两万五千条＝全州最大；本场约一万五千（:132）",
+   "Around twenty-five thousand gators total."
+  ],
+  [
+   "一年宰一万四千上下（:138、:153 两次同一数）",
+   "“Fourteen thousand, give or take.”"
+  ],
+  [
+   "除 Gazzie 外她数到员工三人（:156）",
+   "I’d counted three employees so far, excluding Gazzie."
+  ],
+  [
+   "两座长方谷仓（孵化／最小）＋十座较小（亚成体）、每座三十英尺长（:177）",
+   "then ten smaller rectangular barns where juvenile alligators were housed. Each was thirty feet long."
+  ],
+  [
+   "栏约六英尺见方、内衬厚白塑料、水深约一英尺、她脚下那池约三十只黄眼（:213）",
+   "each about six feet by six feet"
+  ],
+  [
+   "breeder 多在塘里活一年左右（:219）",
+   "Breeders get to live an extra year or so in the ponds."
+  ],
+  [
+   "藻清理工说昨天才清过；Gazzie 给半小时（:255/:258）",
+   "“You have half an hour.”"
+  ]
+ ]
+}

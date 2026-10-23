@@ -1,0 +1,215 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch03",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch03_chapter_two.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "回岗第一个周四，没有一个同事致悼——她不吃味，因为她只告诉过老板母亲去世的事；尽管哭得眼皮肿，她感到乐观：这是「脱离 Mama 管治的第一天」。",
+   "anchor": "this would be my first day free from her rule",
+   "start": 246,
+   "end": 291
+  },
+  {
+   "fact": "午饭后 Laura Leigh 敲她办公室门约 happy hour；她每周都邀，而叙述者在与她共事的整整两年里一直拒绝。",
+   "anchor": "though I’d declined the entire two years",
+   "start": 462,
+   "end": 502
+  },
+  {
+   "fact": "「现在我是我自己的女人。」她别扭地倚着电脑答「我很愿意」；Laura Leigh 回到门口笑说「我以为我永远劝不动你」。",
+   "anchor": "I didn’t think I’d ever convince you",
+   "start": 655,
+   "end": 691
+  },
+  {
+   "fact": "交换电话号码时她希望对方别注意到自己脸红——她想借此向同事、也向看不见的 Mama 证明自己是正常的。",
+   "anchor": "This was my chance to prove I was normal",
+   "start": 757,
+   "end": 797
+  },
+  {
+   "fact": "会议之间查私人邮箱：没有 Gazzie 的回复；想到对方可能不回会刺痛，但她告诉自己只等了五天。",
+   "anchor": "but I’d only been waiting five days",
+   "start": 976,
+   "end": 1011
+  },
+  {
+   "fact": "四点三十手机亮起 Laura Leigh 的短信：The Girls（她给自己和两个最好的工作朋友起的称呼）要一起下班、车里有个空位；她把短信读两遍——「她们真的带上我了」。",
+   "anchor": "The Girls—Laura Leigh’s term for herself and her two best work friends",
+   "start": 1123,
+   "end": 1193
+  },
+  {
+   "fact": "多年前她买过一支 Mama 绝不会同意的鲜红口红；对着洗手间镜子自信地一抹，生疏的手划得太靠下，镜里回来一个玩过家家的小女孩。",
+   "anchor": "a little girl playing dress-up blinked back at me",
+   "start": 1658,
+   "end": 1707
+  },
+  {
+   "fact": "她拿纸巾擦那扎眼的颜色时，一群说笑的女人进了洗手间；嘴还红着，她钻进隔间刚闩上门，高跟鞋声齐进来——The Girls 在兴高采烈地 dissect 一场即将举办的 big-cat 筹款活动那低得令人尴尬的预算。",
+   "anchor": "dissecting the embarrassingly low budget for an upcoming big-cat fundraiser",
+   "start": 1978,
+   "end": 2053
+  },
+  {
+   "fact": "她坐在马桶盖上想过出去求助化妆——按杂志的说法，交朋友就是这么交的：把自己推出去。",
+   "anchor": "That’s how you made friends, according to magazines",
+   "start": 2155,
+   "end": 2206
+  },
+  {
+   "fact": " voices 压低后她抓到几个词：Awkward. Really, Laura Leigh? 她安慰自己「她们可能在说任何人」，想也许在车里会点出对象、然后大家一起笑她。",
+   "anchor": "They could be talking about anyone",
+   "start": 2374,
+   "end": 2408
+  },
+  {
+   "fact": "Sarah from sales：「她妈妈不是上周才去世吗？」Sarah from accounting：「Kelsey 说她从上周三就开始请休假。」——heat tore across her cheeks。",
+   "anchor": "Kelsey said she requested time off starting last Wednesday",
+   "start": 2606,
+   "end": 2664
+  },
+  {
+   "fact": "她一度希望 Laura Leigh 那句「每个人悲伤的方式不同」把话题压下去，打算几分钟后发短信推掉、下周再去，还等着 Sarah from sales 收回她说的话。",
+   "anchor": "Hope streaked through my humiliation",
+   "start": 2846,
+   "end": 2882
+  },
+  {
+   "fact": "第二轮：「她想今晚就跟我们出去？」「她那种想搭话时露出的表情」「像得了食物中毒？」「她在她妈妈死之前就很怪了。」",
+   "anchor": "She was weird way before her mother died",
+   "start": 3245,
+   "end": 3285
+  },
+  {
+   "fact": "她屏息、希望自己掉进马桶淹死在下水道里，直到心跳如雷；想过把脚抬起来别让人看见乐福鞋，但她没有核心力量撑住；只能绝望地用手指塞耳朵——没用。",
+   "anchor": "I considered lifting my feet so they wouldn’t spot my loafers",
+   "start": 3487,
+   "end": 3548
+  },
+  {
+   "fact": "Laura Leigh 语气轻松地补刀：「你们为那样议论一个丧亲的人，该害臊。」她透过门缝认出了那件淡紫毛衣，还一度往好处想——她正在证明自己是个真朋友。",
+   "anchor": "Y’all should be ashamed, talking about somebody bereaved like that",
+   "start": 3705,
+   "end": 3771
+  },
+  {
+   "fact": "结论由 Laura Leigh 亲口给出：「HR 的人就这样。」被追问「假？」时她答「压抑（Repressed）」；另一人收尾「不管她是怎么回事，她让人发毛。」",
+   "anchor": "HR people are like that, though",
+   "start": 4012,
+   "end": 4043
+  },
+  {
+   "fact": "「连温柔的 Laura Leigh 也觉得我怪」；她摇晃着扶住扶手，只有一个清楚念头：逃出办公室、回自己家恢复；声音完全消失后她才开门溜出去。",
+   "anchor": "I needed to escape the office",
+   "start": 4368,
+   "end": 4397
+  },
+  {
+   "fact": "Laura Leigh 正对着最靠门的镜子、镊子悬在左眉上方；两人对上眼，她的手垂到身侧，叙述者僵住——她不能让她看见自己慌乱，虽然对友谊没有 firsthand 经验，但知道 desperation 会让人退避。",
+   "anchor": "While I didn’t have firsthand experience with friendship",
+   "start": 4712,
+   "end": 4768
+  },
+  {
+   "fact": "对方刚问「你是不是刚好听到——」，她抢先 airy 地推掉今晚；没等回答就关掉水龙头、撞开浴室门冲出去；Laura Leigh 一路跟到电梯里解释「我们没别的意思，只想让你从壳里出来」。",
+   "anchor": "we just want you to come out of your shell",
+   "start": 5291,
+   "end": 5333
+  },
+  {
+   "fact": "电梯里她心里翻涌：Laura Leigh 是需要被爱的人，所以才来搭话；「谁会比一个没朋友的女人更爱她呢」——她断定没人跟她说过这句：我是孤僻，可她也 needy。",
+   "anchor": "Laura Leigh was the kind of person who needed to be loved",
+   "start": 5416,
+   "end": 5473
+  },
+  {
+   "fact": "停车场电梯门开，她转身面对对方——对方在风里抱紧自己发抖；她张嘴要说一句毁灭性的话，出来的却是相反的东西：「我家里有一大堆事要处理……我妈妈留下了很多东西。」随即为自己能完全掌控而松一口气。",
+   "anchor": "but what came out was the opposite",
+   "start": 5917,
+   "end": 5951
+  },
+  {
+   "fact": "她挤出安慰性的笑，承认「我有点害羞，我会改」，约明天见；Laura Leigh 亮起来小跑离开，presumably 去等她的 The Girls；她没有回头，而叙述者不怪她——她和所有人只认识那个尴尬、令人退避的自己，「母亲那个不离家的造物」。",
+   "anchor": "my mother’s homebound creature",
+   "start": 6457,
+   "end": 6487
+  },
+  {
+   "fact": "Honda 前排再次查邮箱：Gazzie 仍未回；她自嘲竟以为对方会急着来见她，「她从邮件里大概一眼就看穿我是个怪胎」。",
+   "anchor": "She could probably tell I was a freak from the email",
+   "start": 6638,
+   "end": 6690
+  },
+  {
+   "fact": "胸口深处某种原始的东西开始积聚、压住肋骨、冲上食道；一声尖叫撕开喉咙，她双手反复砸方向盘直到掌心生疼。",
+   "anchor": "A scream ripped through my throat, high and ragged",
+   "start": 6843,
+   "end": 6893
+  },
+  {
+   "fact": "她径直开到 Forsyth Park，坐在自己最爱的那棵长满苔的石棉树下掏速写本：画一只优雅地吞自己呕吐物的博美、一个 Mama 年纪的女人在手持镜里挤下巴上的痘、一个少年用皮凉鞋踩死甲虫。",
+   "anchor": "pulled out my sketchbook",
+   "start": 7086,
+   "end": 7110
+  },
+  {
+   "fact": "五年级的美术老师—— homeschooling 之前唯一注意到她的老师——教她画「像蜱虫一样紧贴在脑海里的图像」；她发现自己着迷于生活的下腹面、多数人不想看的东西，「连我自己也不」；她知道自己的画不正常，近乎病态。",
+   "anchor": "they bordered on sick",
+   "start": 7690,
+   "end": 7711
+  },
+  {
+   "fact": "在树荫下画着画着心气落定：自己反应过度了，只是不惯于社交，这不代表她永远不会正常；下一句独立成段——「这也不代表 Mama 是对的。」",
+   "anchor": "It didn’t mean Mama had been right",
+   "start": 7912,
+   "end": 7946
+  },
+  {
+   "fact": "六点半回到公寓停车场，手指被炭黑染黑，全身慢得像跑完马拉松；只想吃冰箱里剩的、睡掉这整场 fiasco，假装从没想跟 The Girls 出去玩。",
+   "anchor": "my fingers dark with charcoal",
+   "start": 8006,
+   "end": 8035
+  },
+  {
+   "fact": "拐到自家门口她猛地停住：一个穿飘垂、缀满黄色虞美人的连身裤的女人靠在门边墙上，白发垂到腰下，墨镜有葡萄柚那么大；头转过来时笑容在脸上绽开——她说「Bloomed 是个滥情的词，但它是真的」，这人一切都清新、带花香。",
+   "anchor": "Sunglasses the size of grapefruits hid her eyes",
+   "start": 8446,
+   "end": 8493
+  },
+  {
+   "fact": "对方直呼「Dartrine」，用丝滑的南方口音一口气解释：冒昧登门无礼，但收到邮件后（邮件迟了几天因为她死活记不住查邮箱）她去 google 了她，长得太像 Caroline，于是忍不住开了车——「才两个小时，你敢信？」；还说自己从来不善克制，「到了某个年纪，逆着自己的天性没有用」。",
+   "anchor": "you looked so much like Caroline I couldn’t help making the drive",
+   "start": 8980,
+   "end": 9045
+  },
+  {
+   "fact": "Mama 的名字——连她在世时也很少被听到——夺走了她的呼吸；叙述者说这女人简直像用铸铁锅敲了她头一下。",
+   "anchor": "Mama’s name, which I rarely heard even when she’d been alive",
+   "start": 9229,
+   "end": 9289
+  },
+  {
+   "fact": "对方后退一步摇头，动作带着夸张的弧线像默片明星：「我妈要是看见我这样催一个丧亲的女人、话到一半连 self-introduction 都不来，非把我用鞋带吊起来不可；天知道她怎么还没从坟墓里起来教训我。」然后握住她的手，皮肤软如麂皮：「我是你的 great-aunt，亲爱的。我叫 Virginia。你可以叫我 Aunt Virginia——那些 great 会把人绊倒。」",
+   "anchor": "I’m your great-aunt, honey. Virginia",
+   "start": 9757,
+   "end": 9793
+  }
+ ],
+ "relations": [
+  "叙述者本名 Dartrine，本章由 Virginia 之口第一次被当面叫出（:180）；电梯里也被叫 Dart（:126）",
+  "Laura Leigh＝同层同事，The Girls 三人组的核心；另外两人分别是 Sarah from sales 与 Sarah from accounting（同名不同人）；Kelsey＝行政/考勤侧提到她请假的人（本章只给名字与一句话）",
+  "Virginia＝自称她的 great-aunt、主动登门（从 Fernandina Beach/佛罗里达开两小时到萨凡纳），本章未说明她与 Gazzie 的具体亲属层级",
+  "Mama＝Caroline：本章第一次由外人直呼其名",
+  "Gazzie＝邮箱另一端仍未回复的人（本章两次确认没回复）"
+ ],
+ "numbers": [
+  "共事 two years 全拒",
+  "等回信 five days",
+  "短信时间 four thirty",
+  "五年级美术老师",
+  "回到公寓 six thirty",
+  "Virginia 开车 only two hours"
+ ]
+}

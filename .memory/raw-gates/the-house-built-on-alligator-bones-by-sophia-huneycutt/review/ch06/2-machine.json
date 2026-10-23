@@ -1,0 +1,369 @@
+{
+  "chapter": 6,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/ch06 long lost granddaughter meets gazzie.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch06_chapter_five.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Above the mantel hung Ida’s portrait in an elaborate double frame—the outer layer gilded, the inner layer polished wood ",
+          "ok": true,
+          "pos": 1585
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The paint’s texture lifted a centimeter off the canvas, like it was trying to peel itself off, like she was trying to cr",
+          "ok": true,
+          "pos": 2185
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "I turned to my left to find the unpleasant landscaper leaning against the dining room doorway. He’d cleaned himself up. ",
+          "ok": true,
+          "pos": 2835
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“The long-lost granddaughter,” he replied, expression unchanged. He’d been expecting me, which meant Aunt Virginia and G",
+          "ok": true,
+          "pos": 3794
+        },
+        {
+          "text": "No, I assured myself. They wanted me here",
+          "ok": true,
+          "pos": 4072
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“The resemblance between you and your great-great-grandmother.”",
+          "ok": true,
+          "pos": 5034
+        },
+        {
+          "text": "Unlike me and Mama, though, who avoided cameras, she stared directly at the painter",
+          "ok": true,
+          "pos": 5420
+        },
+        {
+          "text": "Awe, I think",
+          "ok": true,
+          "pos": 5643
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Gazzie’s upper lip lifted in disgust as she glanced at Aunt Virginia. “Still can’t believe she changed her last name.”",
+          "ok": true,
+          "pos": 8595
+        },
+        {
+          "text": "“You’re the spitting image of her.”",
+          "ok": true,
+          "pos": 8773
+        },
+        {
+          "text": "“Not a compliment.”",
+          "ok": true,
+          "pos": 8817
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“A long-lost granddaughter shows up a month before I name my heir, and I’m supposed to believe that doesn’t have anythin",
+          "ok": true,
+          "pos": 14024
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Aunt Virginia had never claimed Gazzie wanted me at Greer House; she’d said she wanted me to visit, so she could get to ",
+          "ok": true,
+          "pos": 14796
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Suddenly, I could see myself through Gazzie’s eyes: a pathetic hanger-on. Alone, desperate for family. My chest felt lik",
+          "ok": true,
+          "pos": 15276
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "But who was I to upset Aunt Virginia, after all she’d done for me? I told myself that was why I took pleasure in Gazzie’",
+          "ok": true,
+          "pos": 17195
+        }
+      ],
+      "words": 41
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 93,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 90,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 133,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 99,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 101,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 66
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.74
+      }
+    }
+  ],
+  "form": {
+    "h1": "06. Chapter Five",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 6,
+    "block_range": [
+      3,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3204,
+    "block_target": [
+      6,
+      10
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,582 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch06",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch06_chapter_five.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "睡前收拾：桌面只留笔袋与速写本，她画的是「一条瘫软的鱼挂在白鹭嘴里」",
+   "anchor": "Every surface was clear, save the desk, where I set up my pen roll and sketchbook",
+   "start": 102,
+   "end": 183,
+   "line": 9
+  },
+  {
+   "fact": "小睡五分钟变成两小时，睡过了 Virginia 的呼喊",
+   "anchor": "I must have slept right through Aunt Virginia",
+   "start": 747,
+   "end": 792,
+   "line": 12
+  },
+  {
+   "fact": "她被蝉/人声弄醒时的判断依据：住在 Greer House 的只有女人",
+   "anchor": "only women lived in Greer House",
+   "start": 499,
+   "end": 530,
+   "line": 12
+  },
+  {
+   "fact": "下楼时差点被墙边一根手杖绊倒：橙木杖、柄上刻鳄鱼头",
+   "anchor": "an orangewood cane leaning against the wall, an alligator head carved into its handle",
+   "start": 1076,
+   "end": 1161,
+   "line": 15
+  },
+  {
+   "fact": "隔壁房间壁炉的木 mantel 刻棕榈树，两侧白瓷花瓶画蓝鳄鱼",
+   "anchor": "A wooden mantel carved with palm trees crowned a grand fireplace",
+   "start": 1421,
+   "end": 1485,
+   "line": 21
+  },
+  {
+   "fact": "墙上挂的 Ida 画像是双层框（外鎏金、内木嵌贝母棕榈叶）——原作",
+   "anchor": "This was the original.",
+   "start": 1788,
+   "end": 1810,
+   "line": 21
+  },
+  {
+   "fact": "墙上这幅比她床头那张至少大二十倍",
+   "anchor": "at least twenty times the size of the one on my bedside table",
+   "start": 1849,
+   "end": 1910,
+   "line": 24
+  },
+  {
+   "fact": "远处水面下隐约有一个生物轮廓",
+   "anchor": "the faintest outline of a creature beneath the surface",
+   "start": 2013,
+   "end": 2067,
+   "line": 24
+  },
+  {
+   "fact": "近看：Ida 眼睛黑得发燃、头发细到像会掉出一缕、颜料像要爬出来",
+   "anchor": "eyes burned black",
+   "start": 2118,
+   "end": 2135,
+   "line": 27
+  },
+  {
+   "fact": "退开之后她自己给出的解释：厚涂 impasto，由一位热情的油画师堆出来",
+   "anchor": "thick impasto, layered on by an enthusiastic oil painter",
+   "start": 2652,
+   "end": 2708,
+   "line": 30
+  },
+  {
+   "fact": "她自我归因的第三条：这房子的电路有年头（Virginia 已解释过）",
+   "anchor": "Aunt Virginia had already explained the house",
+   "start": 2714,
+   "end": 2759,
+   "line": 30
+  },
+  {
+   "fact": "倚在餐厅门口的正是那个不愉快的园丁，他把自己收拾干净了",
+   "anchor": "the unpleasant landscaper leaning against the dining room doorway",
+   "start": 2903,
+   "end": 2968,
+   "line": 36
+  },
+  {
+   "fact": "他湿发之后更偏棕而非金、松卷扫到眉毛；穿黑卫衣（说明他熟悉这屋里的冷）",
+   "anchor": "Damp, his hair was more brown than gold",
+   "start": 2995,
+   "end": 3034,
+   "line": 36
+  },
+  {
+   "fact": "他开口第一句是「Looking for something?」第二句是「Cat got your tongue?」",
+   "anchor": "“Cat got your tongue?”",
+   "start": 3274,
+   "end": 3296,
+   "line": 39
+  },
+  {
+   "fact": "她的感受：角色颠倒——这陌生人像家里人，她像闯入者",
+   "anchor": "this stranger the family member, me the intruder",
+   "start": 3374,
+   "end": 3422,
+   "line": 42
+  },
+  {
+   "fact": "她说自己不是会冲人发火的那种女人、好几年没这么紧绷",
+   "anchor": "I was not the kind of woman who snaps at people",
+   "start": 3578,
+   "end": 3625,
+   "line": 45
+  },
+  {
+   "fact": "他一口认出她是「long-lost granddaughter」，表情没变",
+   "anchor": "The long-lost granddaughter,",
+   "start": 3854,
+   "end": 3882,
+   "line": 51
+  },
+  {
+   "fact": "她因此推断 Virginia 与 Gazzie 背后谈过她，并立刻自我安慰「他们想要我来」",
+   "anchor": "No, I assured myself. They wanted me here.",
+   "start": 4136,
+   "end": 4178,
+   "line": 54
+  },
+  {
+   "fact": "他劝她给家人留空间，理由是「他们正在忙一件事」",
+   "anchor": "“They’re in the middle of something.”",
+   "start": 4435,
+   "end": 4472,
+   "line": 66
+  },
+  {
+   "fact": "她回刺：要不要我通知他们在等他那张支票；他答「正要出门」",
+   "anchor": "Should I tell them you’re waiting for your check?",
+   "start": 4670,
+   "end": 4719,
+   "line": 75
+  },
+  {
+   "fact": "他走回来一步说「I see it」——看出她和曾曾祖母的相像",
+   "anchor": "The resemblance between you and your great-great-grandmother.",
+   "start": 5154,
+   "end": 5215,
+   "line": 90
+  },
+  {
+   "fact": "她的确认：直觉对了，Ida 是亲属，而且相当近；深棕发、深棕眼、圆脸随 Mama 与她",
+   "anchor": "So my instincts had been correct",
+   "start": 5262,
+   "end": 5294,
+   "line": 93
+  },
+  {
+   "fact": "画像里的 Ida 直直盯着画师；这份神情激起她的情绪被她辨认为 Awe",
+   "anchor": "Awe, I think.",
+   "start": 5768,
+   "end": 5781,
+   "line": 93
+  },
+  {
+   "fact": "他半举手离开；她希望再不见他",
+   "anchor": "Fervently hoping I’d never see him again",
+   "start": 6136,
+   "end": 6176,
+   "line": 105
+  },
+  {
+   "fact": "厨房门外两个声音：一个说「unbelievable. I’m sick of—」，Virginia 接「thank me later for—」",
+   "anchor": "“—unbelievable. I’m sick of—”",
+   "start": 6352,
+   "end": 6381,
+   "line": 111
+  },
+  {
+   "fact": "她把先前那股「有人在怒气里」的不安归到 Gazzie 身上，并承认那讨厌的陌生人说对了",
+   "anchor": "That obnoxious stranger had been right",
+   "start": 6754,
+   "end": 6792,
+   "line": 117
+  },
+  {
+   "fact": "厨房里冲出来的女人就是她在楼上窗口看到的那位；对方停住但寸步不让，退的是她",
+   "anchor": "the woman I’d seen in the upstairs window",
+   "start": 7165,
+   "end": 7206,
+   "line": 123
+  },
+  {
+   "fact": "Gazzie 体貌：比五尺五的她矮约两寸；银发用银色爪夹、一根不乱；长方黑框眼镜；稳健得像套牛（或套鳄鱼）的人",
+   "anchor": "two inches shorter than my five-foot-five frame",
+   "start": 7381,
+   "end": 7428,
+   "line": 126
+  },
+  {
+   "fact": "Virginia 站在大理石面中岛旁、编辫搭在肩上，右手搓左手腕；那个画面「此后 lingered for a long time」",
+   "anchor": "her right hand rubbed her left wrist",
+   "start": 7982,
+   "end": 8018,
+   "line": 129
+  },
+  {
+   "fact": "她把 Virginia 护腕的样子解释成扭伤——这是她自己给的第一个解释",
+   "anchor": "like she was protecting a bird with a broken wing",
+   "start": 8111,
+   "end": 8160,
+   "line": 129
+  },
+  {
+   "fact": "她自报姓名时把 Dart 纠正成 Dartrine Beaumont",
+   "anchor": "“I’m Dart,” I said. “Dartrine, I mean.",
+   "start": 8301,
+   "end": 8339,
+   "line": 135
+  },
+  {
+   "fact": "Gazzie 的开场：叫她 Gazzie、不要 Gim Gam 那套；声音低哑、一点也不 grandmotherly",
+   "anchor": "None of that Gim Gam mess.",
+   "start": 8460,
+   "end": 8486,
+   "line": 144
+  },
+  {
+   "fact": "握手时 Gazzie 掌上的老茧刮到她；她用力回握以盖住发抖的声音；又感到有人在看着她们初次见面",
+   "anchor": "her callused palm scratching mine",
+   "start": 8587,
+   "end": 8620,
+   "line": 150
+  },
+  {
+   "fact": "Gazzie 先对 Virginia 说「还是不能相信她把姓改了」，随后（在她反应之前）转向叙述者说她活脱脱是同一个人",
+   "anchor": "Still can’t believe she changed her last name.",
+   "start": 8868,
+   "end": 8914,
+   "line": 153
+  },
+  {
+   "fact": "叙述者道谢，Gazzie 回「Not a compliment」；她张口的样子被自己形容成涂鸦卡通",
+   "anchor": "“Not a compliment.”",
+   "start": 9032,
+   "end": 9051,
+   "line": 159
+  },
+  {
+   "fact": "Virginia 从她姐姐/妹妹身后走出来打圆场，说 Gazzie 自以为好笑其实像 dry skin 一样无趣",
+   "anchor": "Aunt Virginia stepped out from behind her sister.",
+   "start": 9123,
+   "end": 9172,
+   "line": 165
+  },
+  {
+   "fact": "Gazzie 一句「Harrison’s waiting」；叙述者由此在心里对上号：Harrison 就是那个不快的男人，并已离开",
+   "anchor": "Harrison. That must be the unpleasant man.",
+   "start": 9463,
+   "end": 9505,
+   "line": 171
+  },
+  {
+   "fact": "Gazzie 听完只发了条短信；叙述者记得她信里对手机有过某种态度，但不敢问",
+   "anchor": "her letter had mentioned a certain attitude toward phones",
+   "start": 9637,
+   "end": 9694,
+   "line": 174
+  },
+  {
+   "fact": "Virginia 用一句带终结口气的话把今天的晚饭定在餐厅；她自己从橱柜拿出自制沙拉酱让叙述者搬过去，说「我随后就到」",
+   "anchor": "“We’ll eat in the dining room today,”",
+   "start": 9723,
+   "end": 9760,
+   "line": 177
+  },
+  {
+   "fact": "餐厅三面墙挂三幅画：娃娃茶会／卡通风女人在皮面木书桌前／印象派女人在类似 Greer House 的大宅下挖掘",
+   "anchor": "a cartoon-style portrait of a woman at a leather-topped wooden desk",
+   "start": 10542,
+   "end": 10609,
+   "line": 192
+  },
+  {
+   "fact": "两幅画里的女人穿相似的维多利亚裙，画风差异让她无法判断是不是同一个人；三幅画都让她不舒服，像被排除在一个笑话之外",
+   "anchor": "like they were in on a joke I didn’t understand",
+   "start": 10860,
+   "end": 10907,
+   "line": 192
+  },
+  {
+   "fact": "座次：Gazzie 坐长桌主位、叙述者在她右侧、Virginia 坐对面（Gazzie 左侧），Gazzie 仍在划手机",
+   "anchor": "I sat to her right, and Aunt Virginia sat across from me",
+   "start": 10985,
+   "end": 11041,
+   "line": 195
+  },
+  {
+   "fact": "Virginia 问「住得怎么样」；叙述者心里的答案是：这家雇了个 smug shithead、祖母一看就恨她；她只能想起自己要成为的那种人",
+   "anchor": "The family apparently employed a smug shithead",
+   "start": 11227,
+   "end": 11273,
+   "line": 201
+  },
+  {
+   "fact": "她只答「Great, thanks」；Virginia 分沙拉先给 Gazzie 再给她",
+   "anchor": "“Great, thanks,” I managed.",
+   "start": 11448,
+   "end": 11475,
+   "line": 204
+  },
+  {
+   "fact": "旁桌一瓶天堂鸟（她后来才学会这个名字）已经蔫了；Virginia 说今早在农夫市场挑的、这里的花不持久，猜是空调的关系",
+   "anchor": "I picked them out at the farmer’s market this morning",
+   "start": 11863,
+   "end": 11916,
+   "line": 216
+  },
+  {
+   "fact": "Gazzie 一句「Can we just eat?」打断；Virginia 点头但不放弃聊天，改问会不会开船",
+   "anchor": "“Can we just eat?”",
+   "start": 12009,
+   "end": 12027,
+   "line": 219
+  },
+  {
+   "fact": "叙述者答不会但很想学，回头看 Gazzie 有没有在听；随后讲四年级全班坐船下 Savannah River 是她那年最大的乐事",
+   "anchor": "My fourth-grade class took a boat down the Savannah River",
+   "start": 12474,
+   "end": 12531,
+   "line": 234
+  },
+  {
+   "fact": "Michelle 站在舵位、蝴蝶发夹在阳光下闪、眼睛蛇形地回到她座位上——这段是叙述者的回忆",
+   "anchor": "butterfly hair clips glittering in the sun",
+   "start": 12599,
+   "end": 12641,
+   "line": 234
+  },
+  {
+   "fact": "Virginia 夸那条河漂亮、说城市前几年清理过、没什么人给它记功",
+   "anchor": "They really don’t get enough credit.",
+   "start": 12797,
+   "end": 12833,
+   "line": 237
+  },
+  {
+   "fact": "Gazzie 头也不抬地问她有没有见过鳄鱼；答「动物园」；Gazzie  smirk 反问「The zoo, huh?」",
+   "anchor": "“Have you ever even seen an alligator?”",
+   "start": 12948,
+   "end": 12987,
+   "line": 240
+  },
+  {
+   "fact": "叙述者内心订正：实际是六年级去的、在家教育之前；她记得快速走过一个满是绿鳞、像 Scooby-Doo 怪物服的栖息地，并决定不必告诉 Gazzie",
+   "anchor": "Scooby-Doo monster suits",
+   "start": 13250,
+   "end": 13274,
+   "line": 249
+  },
+  {
+   "fact": "Virginia 放下叉子替客人说话；Gazzie 嘴上应「Sure thing」、转脸就问鳄鱼养殖懂不懂",
+   "anchor": "“Know anything about gator farming?”",
+   "start": 13473,
+   "end": 13509,
+   "line": 255
+  },
+  {
+   "fact": "Gazzie 追问养过哪种肉：猪？牛？；叙述者第一次为不懂农活而羞愧、且困惑，像做从没听说过的科目的考试的老噩梦",
+   "anchor": "“You got experience farming any kind of meat? Pig? Cow?”",
+   "start": 13561,
+   "end": 13617,
+   "line": 264
+  },
+  {
+   "fact": "她慢速强调自己在办公室做 HR",
+   "anchor": "“I work in HR,” I said slowly.",
+   "start": 13882,
+   "end": 13912,
+   "line": 270
+  },
+  {
+   "fact": "Gazzie 说 farming 不是普通生意、她没时间教基础、农场事多，还提到 phosphate deal 并点名 Ginny 知道",
+   "anchor": "Not to mention the phosphate deal. You know that, Ginny.",
+   "start": 14130,
+   "end": 14186,
+   "line": 273
+  },
+  {
+   "fact": "叙述者说「我不会挡你们的路」、继而改口「我根本不想学」",
+   "anchor": "“I won’t be in your way.”",
+   "start": 14190,
+   "end": 14215,
+   "line": 276
+  },
+  {
+   "fact": "Gazzie 全注意力转回来只问一句「Then why are you here?」",
+   "anchor": "“Then why are you here?”",
+   "start": 14373,
+   "end": 14397,
+   "line": 279
+  },
+  {
+   "fact": "Gazzie 摊牌：long-lost granddaughter 在她宣布继承人前一个月出现；她已经选了人，不是叙述者",
+   "anchor": "a month before I name my heir",
+   "start": 14463,
+   "end": 14492,
+   "line": 285
+  },
+  {
+   "fact": "叙述者震惊之处：以为对方认定她图谋接手生意、愿意整天和鳄鱼打交道",
+   "anchor": "She thought I was scheming to take over her business.",
+   "start": 14686,
+   "end": 14739,
+   "line": 288
+  },
+  {
+   "fact": "她转向 Virginia 求助（她本该提醒我、她一定知道这时间看着像什么）；Virginia 却在瞪 Gazzie；她仍说「谢谢你接待我」",
+   "anchor": "“It’s really nice of you to host me—”",
+   "start": 15052,
+   "end": 15089,
+   "line": 294
+  },
+  {
+   "fact": "Gazzie 否认自己是 host：Ginny 才是",
+   "anchor": "“I’m not your host. Ginny is.”",
+   "start": 15116,
+   "end": 15146,
+   "line": 297
+  },
+  {
+   "fact": "叙述者由此把碎片拼起来：Virginia 从没说 Gazzie 想她来、只说自己想认识她；一定是最后一刻才告知；这就是两人吵架的内容",
+   "anchor": "That’s what they’d been fighting about.",
+   "start": 15418,
+   "end": 15457,
+   "line": 300
+  },
+  {
+   "fact": "她重读 Gazzie 那句「我想见见我孙女。时候到了」——更像义务，而不是愿望；也可能只是想让 Mama 愿意见她",
+   "anchor": "It sounded more like an obligation than a wish.",
+   "start": 15586,
+   "end": 15633,
+   "line": 300
+  },
+  {
+   "fact": "她突然从 Gazzie 眼里看自己：可怜的攀附者、孤单、拼命想要家人；胸口像裂开、悲伤漏在餐桌上",
+   "anchor": "a pathetic hanger-on.",
+   "start": 15769,
+   "end": 15790,
+   "line": 303
+  },
+  {
+   "fact": "Gazzie 拒绝她时连看都不看她，把最后几片菜叶叉起来；她的悲伤转成尴尬、紧跟一层发亮的愤怒，想象抢过盘子摔在 Gazzie 脚下",
+   "anchor": "smashing it at her feet",
+   "start": 16168,
+   "end": 16191,
+   "line": 306
+  },
+  {
+   "fact": "她盯着自己盘里的叶子逼自己冷静，然后低声向 Virginia 道谢",
+   "anchor": "Staring at the leaves on my plate, I willed myself to calm down.",
+   "start": 16195,
+   "end": 16259,
+   "line": 309
+  },
+  {
+   "fact": "Virginia 起身时撞响了三只杯子、收走她没吃完的盘子，借口 solstice party 要定一件事把 Gazzie 叫进厨房",
+   "anchor": "shaking all three of our glasses",
+   "start": 16346,
+   "end": 16378,
+   "line": 315
+  },
+  {
+   "fact": "Gazzie 先说「我就在这儿挺舒服」，被那句含糊的威胁说服才跟去",
+   "anchor": "A vague threat lay in those words.",
+   "start": 16617,
+   "end": 16651,
+   "line": 321
+  },
+  {
+   "fact": "厨房里铝箔、橱柜、抽屉的声响让余怒复燃；她反问自己为何如此不感恩——像是 Greer House 里有东西在捅她心里最暗的角落、还在旁起哄",
+   "anchor": "prodded at the darkest corner of my mind, egging it on",
+   "start": 16972,
+   "end": 17026,
+   "line": 330
+  },
+  {
+   "fact": "回席时 Virginia 笑着摆上一块 key lime pie、宣布「Gazzie 有事要告诉你」；Gazzie 沉着脸说：明天可以参观农场",
+   "anchor": "“You can tour the farm tomorrow.”",
+   "start": 17308,
+   "end": 17341,
+   "line": 339
+  },
+  {
+   "fact": "叙述者低声说不用；Virginia  insist：朋友里谁坐过鳄鱼场的私人参观？她 weakly 微笑，心里答：没有，我一个朋友也没有",
+   "anchor": "None, I thought.",
+   "start": 17549,
+   "end": 17565,
+   "line": 348
+  },
+  {
+   "fact": "她明知 Gazzie 希望她拒绝、却因 Virginia 为她做的一切而不便扫兴；她给自己找的理由是「不是因为我心里有什么坏东西，完全没有」",
+   "anchor": "It wasn’t because of anything nasty in me, not at all.",
+   "start": 17849,
+   "end": 17903,
+   "line": 351
+  },
+  {
+   "fact": "Virginia 宣布 VIP tour 由 Gazzie 亲自带；Gazzie 一言不发端盘子走向楼梯、去别处吃完甜点",
+   "anchor": "give you the VIP tour herself",
+   "start": 17984,
+   "end": 18013,
+   "line": 357
+  },
+  {
+   "fact": "帮 Virginia 装洗碗机后她回房舔伤口；路过鳄鱼皮时想起 Virginia 曾暗示问它能拉近关系、而她完全忘了；她决定现在不给对方这份满足",
+   "anchor": "I wasn’t about to give her the satisfaction now.",
+   "start": 18546,
+   "end": 18594,
+   "line": 366
+  }
+ ],
+ "relations": [
+  [
+   "Virginia 与 Gazzie 在同一屋檐下、被叙述者称作 sister（原文：Aunt Virginia stepped out from behind her sister）；本章未写两人排行",
+   ""
+  ],
+  [
+   "Ida＝great-great-grandmother（男人一句话点出相像，叙述者自己确认 Ida 是近亲）；本章不写明 Ida 就是曾曾祖母",
+   ""
+  ],
+  [
+   "Harrison＝本章的园丁/landscaper，由「Harrison’s waiting」＋叙述者自认「that must be the unpleasant man」两条对上；本章他的台词不含姓名自称",
+   ""
+  ],
+  [
+   "Gazzie＝写信的那位祖母（her letter 指 Gazzie 的信）；Mama＝Caroline＝改了姓的那位（「Still can’t believe she changed her last name」紧接叙述者的 Beaumont 自报）",
+   ""
+  ],
+  [
+   "Michelle＝Savannah River 四年级游船回忆里站在舵位的人；本章不给她的结局",
+   ""
+  ],
+  [
+   "叙述者本章自报全名 Dartrine Beaumont、日常用 Dart",
+   ""
+  ]
+ ],
+ "numbers": [
+  [
+   "睡了两小时（闹钟看出的）／本打算小睡五分钟",
+   "Two hours had passed."
+  ],
+  [
+   "Ida 画像比床头那张大至少二十倍",
+   "at least twenty times the size"
+  ],
+  [
+   "手杖离门廊/墙边：本章只写靠在墙边，无尺寸",
+   "an orangewood cane leaning against the wall"
+  ],
+  [
+   "叙述者身高五尺五；Gazzie 矮她约两寸",
+   "five-foot-five frame"
+  ],
+  [
+   "Gazzie 每天早上三杯黑咖啡属前章信息；本章座次是三人三杯（撞响 all three of our glasses）",
+   "shaking all three of our glasses"
+  ],
+  [
+   "四年级（游船）／六年级（动物园，在家教育之前）",
+   "pre-homeschooling"
+  ],
+  [
+   "继承人时间窗：距 Gazzie 宣布继承人还有一个月",
+   "a month before I name my heir"
+  ]
+ ]
+}

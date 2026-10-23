@@ -1,0 +1,203 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch02",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch02_chapter_one.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "信躺在厨房垃圾里，夹在发褐的橙皮堆与一张沾着呕吐物的纸巾之间；寄件人＝佛罗里达 Fernandina Beach 的 Gazzie Greer，收件人＝Mama。叙述者「从没见过它」⇒ 推断 Mama 从病床上爬起来把它扔了。",
+   "anchor": "The letter lay in the kitchen trash",
+   "start": 11,
+   "end": 46
+  },
+  {
+   "fact": "她把多余的葬礼传单丢进垃圾、抬起信封，想象 Mama 手扶墙挪过门厅；这解释了淋浴回来时她为何上气不接下气、缝线为何渗血（深红夹黄），也给了心梗的原因＝过度用力；医生说过心梗是肾移植常见并发症，但怀疑仍钻进心里。",
+   "anchor": "heart attacks were a common kidney transplant complication",
+   "start": 841,
+   "end": 899
+  },
+  {
+   "fact": "新问题：这个试图联系母亲的女人是谁。她们「没有朋友。没有家人。只有彼此」；也许 Gazzie 是 Mama 在福利系统那些年认识的熟人——她没有别的猜测。",
+   "anchor": "Maybe this Gazzie person was an acquaintance",
+   "start": 1084,
+   "end": 1128
+  },
+  {
+   "fact": "萨凡纳的春夜冷得像冬天在咬人；她发抖走进母亲卧室，仿佛读了信她就能解释自己；风从裂开的窗灌进来，她闭眼想唤起母亲的玫瑰皂香，那屋里唯一的气味是死亡。",
+   "anchor": "the only smell in that room was death",
+   "start": 1533,
+   "end": 1570
+  },
+  {
+   "fact": "信封里掉出一封潦草连笔的短信＋一张撕成两半的三万美元支票——超过她年薪的一半，够还清拖欠的医疗账单、请日间护士、偶尔买点覆盆子；「像折扣传单一样被丢弃」。",
+   "anchor": "two halves of a ripped check for $30,000",
+   "start": 1673,
+   "end": 1713
+  },
+  {
+   "fact": "信本身完整但皱了，像 Mama 常摸过；可信封的时间戳只早两周 ⇒ 她推断信是手术前几日收到的。",
+   "anchor": "the envelope was time-stamped only two weeks earlier",
+   "start": 2177,
+   "end": 2229
+  },
+  {
+   "fact": "信正文一：希望她别怪我找到你的地址，通过小道消息听说你病了；「我们这些摇摇欲坠的身体是 Greer 家和统治世界之间唯一挡着的东西」。",
+   "anchor": "rickety bodies are the only thing standing between",
+   "start": 2459,
+   "end": 2509
+  },
+  {
+   "fact": "信正文二：我在拖延，我知道，这是我在你身上劝止过的东西；真心是我后悔我们分开的方式，my girl，我想见我的孙女，是时候了。",
+   "anchor": "I regret the way we parted, my girl",
+   "start": 2608,
+   "end": 2643
+  },
+  {
+   "fact": "信正文三：请发邮件给 Ginny（virginia@greerfinealligators.com）；我仍不查自己的邮箱，你也知道我对电话什么态度。署名 Gazzie。",
+   "anchor": "Please email Ginny at",
+   "start": 2695,
+   "end": 2716
+  },
+  {
+   "fact": "PS：兑了那张支票，我们错过了太多生日。PPS：附一张 Ida 画像的小印刷件，几年前一位专业人士做的，以为她会想要一份副本。",
+   "anchor": "including a small print of Ida",
+   "start": 2916,
+   "end": 2946
+  },
+  {
+   "fact": "「我的孙女」读了一遍又一遍：这个叫 Gazzie 的人称我作她的孙女 ⇒ 她是我的祖母 ⇒ 我不是这世上孤零零的一个人。紧接着：那就意味着 Mama 对我撒了三十二年的谎。",
+   "anchor": "which meant I was not alone in the world",
+   "start": 3218,
+   "end": 3258
+  },
+  {
+   "fact": "本能驱使她冲起身，不知要去哪——去质问母亲的尸体，还是去找祖母？对她这副坏心脏是新手动作；黑点挤满周边视力，她跌坐回尾椎；忍痛数到十、鼻吸口吐，视线恢复后直奔厨房桌、打开工作笔记本搜索 Gazzie Greer——结果是 Nothing。",
+   "anchor": "Rookie move for this faulty heart",
+   "start": 3469,
+   "end": 3502
+  },
+  {
+   "fact": "她推演：信可能是恶作剧（那能解释 Mama 扔掉它却只字不提），但写信人的恳求很私人，Mama 也不会把恶作剧信留一周再从病床上爬起来扔掉——她是刻意藏起来；视线落在邮箱地址上：Greer Fine Alligators 是什么生意？",
+   "anchor": "The letter could be a prank",
+   "start": 3858,
+   "end": 3885
+  },
+  {
+   "fact": "第一个网站首页是一条半沉水下的鳄鱼特写，眼睛在浑水上方发着琥珀光，表情空白而具威胁；她发抖着点开 About Us。",
+   "anchor": "eyes glowing amber above the muddy water",
+   "start": 4395,
+   "end": 4435
+  },
+  {
+   "fact": "About Us 原文：以 Jacksonville, FL 为总部的鳄鱼养殖场网络，给国内外品牌供奢侈品原料、给少数游客独家私人狩猎体验；Greer 家自 1892 年创立起持有本业一百二十五年以上。",
+   "anchor": "owned the business for more than 125 years",
+   "start": 4793,
+   "end": 4835
+  },
+  {
+   "fact": "她干的市场营销公司专做动物福利非营利，因此知道各类农场都存在——曾管过一个水貂避难所的社媒活动——但从没想过满是鳄鱼的农场；页面没有客户名单、推荐信、行程说明，她替老年 Gazzie 找解释：看起来够真，所以 presumably 她也是真的。",
+   "anchor": "no client list, no testimonials",
+   "start": 5206,
+   "end": 5237
+  },
+  {
+   "fact": "「信任圈」：Mama 和她之间，对外可以摆假面孔，对家里讲真话；既然 Mama 声称没有别的家人，那她们本该只对彼此讲真话——可她却编了「生于福利系统、除了嫁来的姓没有真姓」的假历史。",
+   "anchor": "had a circle of trust",
+   "start": 5439,
+   "end": 5460
+  },
+  {
+   "fact": "爱着 Mama 的那部分愿意相信她是为保护我才毁约；四条「也许」（Greer 家不正派／不愿回忆那段／相信这个谎换来我们的安宁）。",
+   "anchor": "The part of me that loved Mama despite the lies",
+   "start": 5866,
+   "end": 5913
+  },
+  {
+   "fact": "第五种也许由一个熟悉的声音低语给出：那个贱人想把你独留给她自己。",
+   "anchor": "that bitch wanted to keep you all to herself",
+   "start": 6148,
+   "end": 6192
+  },
+  {
+   "fact": "Michelle 事件后 Mama 把她从中学接走，她当时接受了「要保护我、保护我同学」的说法；二十年过去，Mama 的 grip 反而更紧——只允许她通勤上大学、之后上班付房租饭钱；别人做 keg stands、和同事喝鸡尾酒的年纪，她在塌陷沙发上被盯着——那场最终争吵的核心就是她能不能终于掌控自己的人生。",
+   "anchor": "After the incident with Michelle",
+   "start": 6196,
+   "end": 6228
+  },
+  {
+   "fact": "她慌乱到把邮箱地址重打两遍；回复改了一遍又一遍，删掉字与情绪，最后落在一封客气的邮件——「对我多年在 HR 扯淡的真 credit」。",
+   "anchor": "a real credit to my years bullshitting in HR",
+   "start": 7017,
+   "end": 7061
+  },
+  {
+   "fact": "邮件抬头同时称呼两人（Hello Gazzie and Virginia），正文自报 Caroline Beaumont 的女儿 Dartrine，说母亲本周因手术并发症去世，问能否视频通话，落款 Dartrine Beaumont。",
+   "anchor": "I found your letter while cleaning out her belongings",
+   "start": 7139,
+   "end": 7192
+  },
+  {
+   "fact": "按下 Send 前她压掉对说谎的残余愧疚——原文明写「Mama 并没有打算让她们见面」；盯屏幕两次呼吸后按刷新，没有回应，于是回到农场网站与水下鳄鱼对视。",
+   "anchor": "Squashing any residual guilt at the lie",
+   "start": 7389,
+   "end": 7428
+  },
+  {
+   "fact": "过了两分钟，她知道自己不能全天守在电脑旁，抓起信找新线索，只找到一条：Gazzie 提到一幅画像。原来放信的位置空无一物，她开始翻垃圾（用过的纸巾、带血的绷带、空香草酸奶盒），手指擦到一张光滑的名片大小纸片，擦掉背面的奶油菠菜后翻过来。",
+   "anchor": "tossing junk onto the floor",
+   "start": 8025,
+   "end": 8052
+  },
+  {
+   "fact": "那是幅油画的复制件（油画＝她还没碰过的凌乱媒介）：前景女人穿老式酒红裙、紧身上衣、蓬裙，右手握着木枪管、枪托消失在高草里，头顶灰云、身后沼泽黑水只有一道涟漪；她断定那人必是 Ida——管 Ida 是谁。",
+   "anchor": "I decided she must be Ida",
+   "start": 8694,
+   "end": 8719
+  },
+  {
+   "fact": "她用食指抚过那张脸，凉纸送来一阵寒；老式肖像里的女人既不端枪、也不歪嘴冷笑、更不用煤黑的窄眼睛把人点着——「Mama 会为我这样看人而剥我的皮」。",
+   "anchor": "Mama would have skinned me sideways",
+   "start": 9020,
+   "end": 9055
+  },
+  {
+   "fact": "她把这一堆收成一句「鳄鱼和一个凶眼的维多利亚女人」，低声问「What the hell, Mama?」",
+   "anchor": "Alligators and a mean-eyed Victorian woman",
+   "start": 9092,
+   "end": 9134
+  },
+  {
+   "fact": "当时她没去想：信几乎没藏，画像却塞进垃圾最深处；一个病成那样、离死只有几小时的女人得有多大恨（或多怕），才把手伸到可能失去平衡、太阳穴磕上木台面、血流在厨房地面的地步。",
+   "anchor": "stuffed the portrait deep in the trash",
+   "start": 9266,
+   "end": 9304
+  },
+  {
+   "fact": "她最后一次回到那封信，胸口绽出一颗希望的珠子，真得像一只灌满液体的肺；Gazzie Greer 是她的祖母 ⇒ 她不只是 Dartrine Beaumont，也是 Dart Greer。",
+   "anchor": "I was Dart Greer, too",
+   "start": 9759,
+   "end": 9780
+  },
+  {
+   "fact": "末两行：「一家人了」，她喜欢这个说法；「Greer 家的人」。",
+   "anchor": "One of the family, I thought to myself",
+   "start": 9784,
+   "end": 9822
+  }
+ ],
+ "relations": [
+  "叙述者本章自报全名 Dartrine Beaumont、家族名内的自称 Dart；Mama＝Caroline Beaumont，本章已下葬（葬礼传单、缝线、手术并发症）",
+  "Gazzie Greer＝写信人、自称她的祖母，住 Fernandina Beach, Florida",
+  "Ginny＝邮箱 virginia@greerfinealligators.com 的名字（本章只给邮箱，未说与 Gazzie 的关系）",
+  "Ida＝画像中人，叙述者由画自证推断（whoever that was）",
+  "Michelle＝中学操场事件的死者，本章只以「the incident with Michelle」提及，死因地点均未展开"
+ ],
+ "numbers": [
+  "$30,000（超过她年薪一半）",
+  "Mama 瞒了 thirty-two years",
+  "信封时间戳只早 two weeks",
+  "1892 年创立／more than 125 years",
+  "按下发送后 Two minutes",
+  "Michelle 事件后 twenty years"
+ ]
+}

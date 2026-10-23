@@ -1,0 +1,199 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch04",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch04_chapter_three.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "开篇内心纠正：Ginny（祖母信里提到、她邮件回过去的那位）**不是助手，是另一个家族成员**；她愣着看她，情绪互相打架：惊喜与喜悦，还有一股压迫性的愧疚——她突然明白，复活一封被 Mama 判了死刑的信，就是背叛 Mama。",
+   "anchor": "she was another family member",
+   "start": 168,
+   "end": 197
+  },
+  {
+   "fact": "对方皱眉不是 Mama 那种「准备好挨刻薄话」的皱眉，皱眉后面还藏着一线光；她自称 Dart、对方重复一遍后把她拉进拥抱；几秒不松手，她放松下来——手臂有力、头发扎脸、椰子味、连身裤一股醋味。",
+   "anchor": "smelled of coconuts, her jumpsuit of vinegar",
+   "start": 1218,
+   "end": 1262
+  },
+  {
+   "fact": "Mama 不亲热：偶尔看电视时摸她的头发、抓她的头皮，但几秒就抽手，像想起她的皮肤里藏着会传染的东西。",
+   "anchor": "like she remembered my skin harbored something contagious",
+   "start": 1457,
+   "end": 1514
+  },
+  {
+   "fact": "分别时她已流泪、赶紧翻纸巾擦脸「不想让她觉得我可怜」；她自责「该告诉你葬礼的事，就在上周」，对方答「我知道，我在网上读了讣告」；原文点明她只给了仪式的基本信息，被最后那场争吵的愧疚拖着没肯花心思。",
+   "anchor": "I read the obituary online",
+   "start": 1785,
+   "end": 1811
+  },
+  {
+   "fact": "她一激动忘了自己还有另一位亲戚，眼睛跳到院里——redbud 树下的长椅空着；Virginia 脸上掠过古怪表情、像为把 Gazzie 丢在背后而愧疚：「她受不了长途车程，加上正夹在一桩 acquisition 中间，你知道那是什么情形。」",
+   "anchor": "she’s in the middle of an acquisition",
+   "start": 2510,
+   "end": 2547
+  },
+  {
+   "fact": "叙述者当场觉得反常：最初的信是她发起的，人却不来——是改主意，还是觉得太痛苦？又一波泪、身体发晃，她靠住对方 steadied：「只是需要一片盐丸。」",
+   "anchor": "her absence was strange",
+   "start": 2624,
+   "end": 2647
+  },
+  {
+   "fact": "Virginia 立刻说出「POTS?」；她惊讶又高兴「你也有？」；对方笑答：不是我，可这一家子人人都有病——我有 Hashimoto's，Gazzie 也是；我祖母就有 POTS，吃咸的管用吧。她点头，咽下喉咙里的块：**一个陌生人从没这么快理解过她的处境**。",
+   "anchor": "everybody in this damn family is sick one way or another",
+   "start": 3024,
+   "end": 3080
+  },
+  {
+   "fact": "「那就晚饭，我请」；她跟对方走向一辆一尘不染的黄色 VW Bug，心里惊的是「认识几分钟她就已经开始照顾我、把白天那次被拒的刺痛揉开」，并问自己一整晚能改变她的人生多少。",
+   "anchor": "spotless yellow VW Bug",
+   "start": 3526,
+   "end": 3548
+  },
+  {
+   "fact": "去餐馆路上（离 Savannah River 一个街区、名头很高档）问题不断，她一度怀疑对方是那种受不了沉默的人，但确实对她的**工作与速写本**都好奇；速写本连同装笔的皮卷放在后座，是二手店淘来的幸运物。",
+   "anchor": "my sketchbook, which I’d placed in the back seat",
+   "start": 4096,
+   "end": 4144
+  },
+  {
+   "fact": "点餐：她要玉米浓汤、Virginia 龙虾浓汤；Virginia 边说边把白发编成侧辫、用黄丝带扎住——丝带本该显幼稚（像她激动时拍手那样），却衬她；叙述者当场决定：若哪天给她画肖像，要学油画，不给 Virginia Greer 用空灵的水彩。",
+   "anchor": "No ethereal watercolors for Virginia Greer",
+   "start": 4526,
+   "end": 4568
+  },
+  {
+   "fact": "Virginia 突然发问「Caroline 跟你说过我们什么？」；叙述者犹豫——已在邮件里撒过谎（说 Mama 想见她们），于是给半真话「我最近才知道有你们」；对方第一次垮下脸：天知道她有自己的理由，可不管怎样都让我心碎。",
+   "anchor": "I’d give her a half-truth",
+   "start": 4868,
+   "end": 4893
+  },
+  {
+   "fact": "本章唯一的「错过」被原文写明：这是追问 Mama 保密理由的绝佳机会，但**从没一个陌生人在她面前自在地表达过悲伤**，她忍不住要反过来安慰对方，于是抛出「她爱橘子；她说自己把两样东西从佛罗里达带到乔治亚——对柑橘的口味和一身永久的晒痕」，句末原文自加一句「Though, of course, she’d claimed she’d come from a Florida foster home.」",
+   "anchor": "a taste for citrus and a permanent tan",
+   "start": 5395,
+   "end": 5433
+  },
+  {
+   "fact": "话题转向岛：信是从 Fernandina Beach 寄的、不是岛，Virginia 解释 Amelia Island 与岛上最大的镇；描述它「像直接从加勒比摘下来的」，天蒙蒙亮去海滩（她母亲把早起刻进她骨头里）、几乎没人、日出淡粉——「有时候是佛罗里达唯一的柔和颜色」。",
+   "anchor": "my mother drilled that early-bird mentality into me",
+   "start": 6254,
+   "end": 6305
+  },
+  {
+   "fact": "她像玻璃罐里收萤火虫一样收集关于祖母的细节：黎明即起、每早三杯黑咖啡、收古董（由一位专攻维多利亚时代的当地商人协助）；她低语「Mama 爱古董」，原文立刻自我收窄「至少爱淘二手」，Virginia 只答「我知道」。",
+   "anchor": "collected antiques, assisted by a local dealer",
+   "start": 6678,
+   "end": 6724
+  },
+  {
+   "fact": "她打量这位 great-aunt，找那副甜性格是不是假面：从不眯眼、皱眉纹极浅、总用笑强调鱼尾纹——「我看不出她有什么坏，至少表面没有」。",
+   "anchor": "searching for signs that her sweet personality was a façade",
+   "start": 7101,
+   "end": 7160
+  },
+  {
+   "fact": "饭后走 Factors Walk（原存棉花的砖仓库改成的店）与 River Street；在护墙边两人望 Savannah River：**Michelle 就是在附近一段岸边被发现的**，新闻报道一个同班同学差点被她的身体绊倒；Virginia 敲了两下金属栏杆，把她拉回来——现在不是想 Michelle 的时候。",
+   "anchor": "Michelle had been discovered on a nearby shore",
+   "start": 7835,
+   "end": 7881
+  },
+  {
+   "fact": "农场与家分两地：房子离农场好几英里，农场太臭所以放在内陆前不着村的地方，但 Caroline 每天都去工作；Virginia 惊讶她居然现在才问，说多数人一听就几乎发疯，想知道她是否像「真正的 Florida Woman」那样摔鳄鱼。",
+   "anchor": "Farm stinks too bad for the island",
+   "start": 8294,
+   "end": 8328
+  },
+  {
+   "fact": "她摇头否认摔鳄鱼（那是 Gatorland 之类的游乐园）：只有一个农场完全对游客开放，有气艇与「鳄鱼跳」——能跳出水面五英尺，为从低枝抓鸟；员工用长杆挂整鸡触发本能。 Jacksonville 分部不玩这些，除了偶有的狩猎或参观，全做产品：从蛋养大、按尺寸屠宰卖肉与皮，**优先皮**，奢侈品牌供不应求。",
+   "anchor": "Up to five feet out of the water",
+   "start": 9281,
+   "end": 9313
+  },
+  {
+   "fact": "Virginia 自陈如今与农场关系不多，主要照看 Greer House「一个难伺候的老家伙」，也照看 Gazzie「另一个难伺候的老家伙」；有保洁服务所以她不打扫，但她做饭、管一切，包括 Gazzie 的社交日历；她评：Gazzie 痴迷当社区支柱，却讨厌履行那份责任。",
+   "anchor": "She’s a needy old bird",
+   "start": 10132,
+   "end": 10154
+  },
+  {
+   "fact": "「Maids?」——她想不出自己付得起清洁服务的世界，随即想起那张三万美元的支票：Greer 家有闲钱；Virginia 说自己只兼职、很感激，女友 Henri 开面包房，她有大把时间帮忙，说到这里脸红；叙述者认那是新恋期的幸福感（类比 Laura Leigh 炫耀带她喝 boba 的 Delta 飞行员）。",
+   "anchor": "My girlfriend, Henri, runs a bakery",
+   "start": 10788,
+   "end": 10823
+  },
+  {
+   "fact": "「可 Gazzie 宁愿我每一秒都耗在房子里。她大概不把我当人看，更不当我是有别段关系的人。」她翻个白眼又看着自己的手：「我真希望 Caroline 当初主动联系过。」叙述者哑声：「我也是。」",
+   "anchor": "I wish Caroline would have reached out",
+   "start": 11309,
+   "end": 11347
+  },
+  {
+   "fact": "Virginia 忽然发出一声哽咽、双手捂脸靠在栏杆上，溢出的是一声 sob；那粗粝的声音一下把「Mama 的保密」从叙述者脑中抹掉——原文写明：她一向要求我压制自己最丑的情绪；片刻后她掏手帕擦脸、表情回到「愉快的静止」，握住叙述者的手（本以为在风里凉了，却温热微潮）。",
+   "anchor": "She’d always demanded I repress my ugliest emotions",
+   "start": 11850,
+   "end": 11901
+  },
+  {
+   "fact": "铺垫长句之后 Virginia 开口问：去 Amelia Island 待一个月左右怎么样？叙述者喉咙收紧，先把画面看完（佛罗里达的日落、祖母的古董、**Mama 童年的卧室**、不必独处、Greer 家也许比 Mama 更懂「新的我、正常的我」），才听见对方后半句；原文点明她当时只顾忍泪，没注意「我在敲定几个细节」这句措辞＝「这次邀请比一般假期更复杂」的细微警告。",
+   "anchor": "a subtle warning that this fortuitous invitation was more complex",
+   "start": 13888,
+   "end": 13953
+  },
+  {
+   "fact": "她立刻算账：可用丧假与攒下的 PTO（公司律师离婚后这样休过四个月，但有一部分无薪；她身无分文），得把公寓转租出去；对方马上接：「你祖母和我会付你房租。」她低头看破乐福鞋与打折货架西装，脸红着说不能，Virginia 抬手的理由是一句：你的曾曾祖母在 1800 年代末投资了铁路。",
+   "anchor": "Your great-great-grandmother invested in railroads in the late 1800s",
+   "start": 14565,
+   "end": 14633
+  },
+  {
+   "fact": "突然的历史课让她一头雾水（也奇怪为何提这么远的亲戚），她自己圆：great-great-grandmother 大概就是 Virginia 的祖母（对方已提过她、两人都有 POTS），心里闪过画像里那双硬眼睛与卷起的嘴唇——**Ida 是我的曾曾祖母吗？**",
+   "anchor": "Was Ida my great-great-grandmother?",
+   "start": 14986,
+   "end": 15021
+  },
+  {
+   "fact": "「她的投资与再投资、加上农场利润，让我们过得舒服——也就是说你现在也舒服。一个月房租不是问题。一年也行。十年。」叙述者由此明白他们不只是殷实，是有钱；而原文紧接一句：**她当时还不理解 Greer 财富的规模**。",
+   "anchor": "they weren’t just well-off. They were rich",
+   "start": 15242,
+   "end": 15284
+  },
+  {
+   "fact": "再劝一阵她勉强同意；Virginia 满意地读她：「我看出来你有那份 Greer 骄傲，你会非常合得来。」",
+   "anchor": "You have that Greer pride, I see",
+   "start": 15422,
+   "end": 15454
+  },
+  {
+   "fact": "她问「既然你们已经——」并当场在心里改口（有钱人不喜欢「rich」这个词），改用「过得舒服」——为什么还要经营农场？Virginia：Gazzie 重传统、而且享受这行，天知道为什么；「有时我觉得她自己就部分像鳄鱼」，随即更像自言自语：「不过那不可能是真的。没人比她更恨它们。」",
+   "anchor": "Sometimes I think she’s part alligator herself",
+   "start": 15974,
+   "end": 16020
+  },
+  {
+   "fact": "回家路上把细节过完：Virginia 的会计师会处理公寓，她安排好雇主那边就发短信；**她周日开车去佛罗里达**；第二次拥抱更紧，她双手按着嘴唇看对方的车驶出停车场，路灯在暗里发着微光。",
+   "anchor": "I’d drive to Florida that Sunday",
+   "start": 16290,
+   "end": 16322
+  }
+ ],
+ "relations": [
+  "本章叙述者尚未与 Gazzie 见面（Gazzie 未到场）；Virginia 是全章唯一在场的 Greer 家人",
+  "Ginny＝Aunt Virginia＝Virginia Greer：本章开头由叙述者内心纠正「不是助手，是另一个家族成员」；二人称谓全程是 great-aunt（:132/:162/:282），Virginia 自己说「那些 great 会把人绊倒」⇒ 可叫 Aunt Virginia",
+  "Gazzie＝另一位亲戚、未到场；本章只给「受不了长途车程＋正在一桩收购中间」两条理由（Virginia 之口）",
+  "Henri＝Virginia 的女友、开面包房（本章首次点名，未说与 Gazzie 的关系）",
+  "Ida＝画像中人；本章叙述者把「曾曾祖母」与 Ida 之间只写成一句自问（Was Ida my great-great-grandmother?），未坐实",
+  "Michelle＝中学操场事件死者；本章新增「尸体在 Savannah River 附近岸边被发现、同学差点被绊倒」由新闻报道转述",
+  ":174 `So, my mother grew up on the farm?`＝**叙述者问自己的母亲**（Caroline）；Virginia 答 `More or less… But yes, she worked there every day.`（:177）——Greer House 离农场好几英里、农场因太臭放在内陆"
+ ],
+ "numbers": [
+  "一个月左右（a month or so）的邀请",
+  "鳄鱼跳出水面 five feet",
+  "曾曾祖母投资铁路＝late 1800s",
+  "公司律师离婚休了 four months",
+  "周日（that Sunday）动身去佛罗里达",
+  "三万美元支票在本章被回想一次"
+ ]
+}
