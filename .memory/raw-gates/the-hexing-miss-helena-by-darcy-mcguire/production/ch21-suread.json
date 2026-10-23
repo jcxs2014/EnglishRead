@@ -1,0 +1,35 @@
+=== 素读清单：the-hexing-miss-helena-by-darcy-mcguire ch21（text 21064 字符）===
+  ✅ [  4961:  5045] 海伦娜问辛西娅“你要我吗”，这不是她原本想说的话，却是她必须知道的答案；辛西娅回答“是”。  ←「‘Do you want me?’ It wasn’t …」
+  ✅ [  5392:  5487] 辛西娅说不管这段关系怎样收场，和海伦娜在一起都会改变两人之间的一切。  ←「‘That’s impossible. No matte…」
+  ✅ [ 12886: 13008] 海伦娜的母亲爱上的不是海伦娜的父亲；父母只在爱丁堡的萨温节共度一夜。  ←「‘My mother fell in love. Not…」
+  ✅ [ 14637: 14745] 世上魔法分三类：光明魔法、黑暗魔法和血魔法；血魔法最强。  ←「‘There are three kinds of ma…」
+  ✅ [ 15223: 15316] 海伦娜曾不明原因地在早晨醒来时发现手臂或腿上缠着绷带、带着伤口。  ←「‘I didn’t know why I would w…」
+  ✅ [ 15454: 15524] 夜里进她房间的不是魔鬼，而是母亲，手里握着一把圣刃。  ←「Only it wasn’t a devil. It w…」
+  ✅ [ 17183: 17311] 海伦娜认为村民冲进母亲的屋子、把她和铁匠锁在里面烧死，是她造成的。  ←「It’s because of me the villa…」
+  ✅ [ 17992: 18101] 母亲被烧死时海伦娜七岁；她试过灭火，但力量不够。  ←「‘I was seven. Old enough to …」
+
+已写入 .memory/raw-gates/the-hexing-miss-helena-by-darcy-mcguire/production/ch21-suread.json
+some mornings with bandages covering cuts on my arms or legs.",
+   "start": 15223,
+   "end": 15316
+  },
+  {
+   "fact": "夜里进她房间的不是魔鬼，而是母亲，手里握着一把圣刃。",
+   "anchor": "Only it wasn’t a devil. It was Mother with a sacred blade in her hand.",
+   "start": 15454,
+   "end": 15524
+  },
+  {
+   "fact": "海伦娜认为村民冲进母亲的屋子、把她和铁匠锁在里面烧死，是她造成的。",
+   "anchor": "It’s because of me the villagers swarmed my mother’s cottage, locked her inside with the blacksmith, and burned them to cinders.",
+   "start": 17183,
+   "end": 17311
+  },
+  {
+   "fact": "母亲被烧死时海伦娜七岁；她试过灭火，但力量不够。",
+   "anchor": "‘I was seven. Old enough to have done something. And I tried, but my powers weren’t enough to stop the fire.’",
+   "start": 17992,
+   "end": 18101
+  }
+ ]
+}
