@@ -1,0 +1,150 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch47",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch47_chapter_forty_six.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "天亮时 Harrison 把车冲进医院门口停下并跑进医院，分诊护士安抚他后，两名护士推着担架冲向汽车。",
+   "anchor": "Day broke as Harrison threw his car into park and sprinted through the hospital entrance.",
+   "start": 17,
+   "end": 106,
+   "line": 9
+  },
+  {
+   "fact": "Gazzie 瘫在后座、手垂在身侧，医护人员把她抬上担架推进医院，一名护士直着双臂给她做胸外按压。",
+   "anchor": "Together they placed her on the gurney and rolled her inside, one nurse pumping at her chest with stiff arms.",
+   "start": 530,
+   "end": 639,
+   "line": 12
+  },
+  {
+   "fact": "抢救没有成功，叙述者确认自己的祖母已经死了。",
+   "anchor": "They couldn’t bring her back to life, of course; my grandmother was dead.",
+   "start": 683,
+   "end": 756,
+   "line": 15
+  },
+  {
+   "fact": "一名头发葡萄色的护士把“我”单独带进房间，问祖母的伤是怎么来的。",
+   "anchor": "“How did she sustain her injury?” she asked.",
+   "start": 1107,
+   "end": 1151,
+   "line": 21
+  },
+  {
+   "fact": "“我”用单调的语气谎称风刮破防风板、树枝砸碎窗户、祖母摔倒撞进玻璃，且称自己当时不在房间。",
+   "anchor": "“Wind broke a storm shutter,” I said in a monotone. “Branch busted through a window.",
+   "start": 1443,
+   "end": 1527,
+   "line": 27
+  },
+  {
+   "fact": "护士盯着“我”的手寻找伤害或挣扎的痕迹，“我”悄悄把手翻过来，露出没有破损的指节。",
+   "anchor": "The nurse eyed my hands, looking for signs that I’d hurt Gazzie, that she’d struggled.",
+   "start": 1641,
+   "end": 1727,
+   "line": 30
+  },
+  {
+   "fact": "面对肿胀得快塞不进网球鞋的脚，“我”告诉护士那是鳄鱼咬的。",
+   "anchor": "which barely fit in my tennis shoe at that point, a wave of dizziness hit me. “Alligator bite.”",
+   "start": 2176,
+   "end": 2271,
+   "line": 42
+  },
+  {
+   "fact": "“我”下意识要求大量补液并说明自己有 POTS，随后在护士的操作中陷入黑暗、失去意识。",
+   "anchor": "“And I need lots of fluids,” I added automatically, eyes fluttering closed. “I’ve got POTS.”",
+   "start": 2328,
+   "end": 2420,
+   "line": 48
+  },
+  {
+   "fact": "“我”在医院病床上醒来，对祖母之死仍无内疚，只是模糊地担心 Aunt Virginia 或 Harrison 会不会向警方告发自己。",
+   "anchor": "I still felt no angst about my grandmother’s death, only vaguely wondering whether Aunt Virginia or Harrison",
+   "start": 2796,
+   "end": 2904,
+   "line": 60
+  },
+  {
+   "fact": "另一名护士告知“我”：咬伤已过去两夜，脚打了石膏并用了抗生素，还让“我”服用 fludrocortisone 升血压。",
+   "anchor": "a different nurse marched in, explaining that two nights had passed since the bite had broken my foot",
+   "start": 2979,
+   "end": 3080,
+   "line": 63
+  },
+  {
+   "fact": "护士向“我”转述 Gazzie 是到院即亡，官方说法是她绊倒撞进碎窗、背部有动脉，可能没受多少痛苦。",
+   "anchor": "“I’m so sorry, dear. She passed on arrival. Apparently, she tripped and fell into a broken window?",
+   "start": 3535,
+   "end": 3633,
+   "line": 66
+  },
+  {
+   "fact": "“我”明白是 Aunt Virginia 和 Harrison 替自己撒了谎，不会再有调查，这会让“我”更容易消失。",
+   "anchor": "So Aunt Virginia and Harrison had lied for me. There would be no investigation.",
+   "start": 3789,
+   "end": 3868,
+   "line": 69
+  },
+  {
+   "fact": "Harrison 在走廊与护士争执，说自己送祖母进来时人就在场，并坚持要等上级来处理。",
+   "anchor": "“I was with her when she came in,” he argued.",
+   "start": 4039,
+   "end": 4084,
+   "line": 75
+  },
+  {
+   "fact": "“我”挣扎坐起，认为自己无法承受 Harrison 得知真相后的厌恶目光和得知自己毫不后悔时的恐惧。",
+   "anchor": "I wouldn’t be able to bear Harrison’s look of disgust at what I’d done, his horror when I explained I didn’t regret it.",
+   "start": 4257,
+   "end": 4376,
+   "line": 84
+  },
+  {
+   "fact": "“我”认定 Mama 说得对：没有人能在看到真实的“我”之后还爱“我”，而且 Harrison 已经看到了一切。",
+   "anchor": "No. Mama had been right. No one could love me after seeing the real me, and Harrison had seen everything.",
+   "start": 5237,
+   "end": 5342,
+   "line": 99
+  },
+  {
+   "fact": "“我”拔掉身上的监护线，避开护士台前的 Harrison，换上 T 恤和运动裤后拄拐从侧门离开医院。",
+   "anchor": "Then I limped down the hallway and out a side entrance, phone in hand.",
+   "start": 5845,
+   "end": 5915,
+   "line": 102
+  },
+  {
+   "fact": "Uber 司机对地址起疑，“我”确认这就是目的地 Greer House，推门下车、把拐杖拿出车外。",
+   "anchor": "“This is it,” I confirmed, clicking open the door and shoving my crutches out.",
+   "start": 6209,
+   "end": 6287,
+   "line": 117
+  },
+  {
+   "fact": "院子里 Flora 的洪水冲出了几十年积存的鳄鱼骨，“我”想到 Ironheart 一定很高兴、甚至在庆祝。",
+   "anchor": "decades of alligator bones freed by Flora’s floodwaters. Ironheart must have been pleased. Celebrating, even.",
+   "start": 6646,
+   "end": 6755,
+   "line": 120
+  },
+  {
+   "fact": "“我”从窗户进入 Greer House，屋内已没有任何 Ida 的痕迹——没有寒意、没有茉莉香水味、没有嗡嗡声。",
+   "anchor": "Nothing remained of Ida—no chill, no jasmine perfume, no buzzing.",
+   "start": 7027,
+   "end": 7092,
+   "line": 123
+  },
+  {
+   "fact": "楼上画板上还留着一页栗色模糊、一只黑眼睛瞪着“我”的画；“我”合上速写本，从衣柜取出旅行袋开始往里塞衣服准备离开。",
+   "anchor": "I shut the sketchbook, retrieved my duffel bag from the closet, and began to shove clothes inside",
+   "start": 7483,
+   "end": 7580,
+   "line": 129
+  }
+ ],
+ "relations": [],
+ "numbers": []
+}
