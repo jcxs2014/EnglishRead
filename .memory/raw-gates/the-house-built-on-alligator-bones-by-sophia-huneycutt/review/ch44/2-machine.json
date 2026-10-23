@@ -1,0 +1,263 @@
+{
+  "chapter": 44,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/ch44 locked in the breeding pond.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch44_chapter_forty_three.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I didn’t realize it then, but looking back, this was the moment Ironheart first revealed itself to me. Ida had infiltrat",
+          "ok": true,
+          "pos": 1311
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Above me, the barbed wire lining the ten-foot fence glinted. I couldn’t climb out. Sucking in a breath, I risked a glanc",
+          "ok": true,
+          "pos": 3387
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Still facing the alligators, I felt the fence and calculated that I’d opened a melon-sized hole. I cut it four more time",
+          "ok": true,
+          "pos": 5558
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "In one movement, I sat up and slammed the pliers down in the direction of the alligator’s eye. I missed, landing on its ",
+          "ok": true,
+          "pos": 6715
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Ironheart was real and was determined to kill my family. The first Greer up would be me, unless I could convince it I wa",
+          "ok": true,
+          "pos": 8097
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "My grandmother had left me, unconscious, in an alligator pen, like she’d left Leon all those years ago. She and Ida coul",
+          "ok": true,
+          "pos": 12271
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "I could escape, drive back to Georgia, but I couldn’t leave her loose in the world, now that I knew what she was capable",
+          "ok": true,
+          "pos": 12628
+        }
+      ],
+      "words": 41
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 155,
+        "关键词": 0,
+        "为什么这样写": 122,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 0,
+        "为什么这样写": 90,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 135,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 93,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 102,
+        "关键词": 0,
+        "为什么这样写": 88,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.44
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 146,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 142,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.66
+      }
+    }
+  ],
+  "form": {
+    "h1": "44. Chapter Forty-Three",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 6,
+    "block_range": [
+      3,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 7,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2393,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
