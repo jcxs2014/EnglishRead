@@ -366,7 +366,7 @@ modified: "2026-09-07"
 
 > **原句 36:** But Everhart convinced the court that he was innocent of the more serious charge. It sounds as if he was lucky to escape a hanging. A common thief. A man able to talk his way out of a difficult situation.
 
-**中文理解**：但 Everhart 让法庭相信他在更重的罪名上是清白的，看来他侥幸逃过绞刑；办事员随口评一句“一个普通小偷，一个能靠嘴摆脱困境的人”。
+**中文理解**：但 Everhart 让法庭相信他在更重的罪名上是清白的，看来他侥幸逃过绞刑；Hannah 心里随即冒出判断：一个普通小偷，一个能靠嘴摆脱困境的人。
 
 **关键词**：innocent of the more serious charge（无罪于更严重的指控）/ escape a hanging（逃脱绞刑）/ common thief（普通小偷）
 

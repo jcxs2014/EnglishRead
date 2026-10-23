@@ -426,7 +426,7 @@ modified: "2026-09-07"
 
 > **原句 42:** Fielding nodded. 'To help fund his new life in Scotland with his mistress.' Not knowing what else to do, I covered my face with my hands. 'Forgive me.' 'It would make one very angry, I would think,' Fielding said. 'Losing your home, everything you and your father had worked for.'
 
-**中文理解**：菲尔丁点了点头。"为了帮助资助他在苏格兰与他的情妇的新生活。"不知道还能做什么，我用手捂住了脸。""原谅我。""这会让人非常生气，我想，"菲尔丁说。"失去你的家，你和你父亲为之奋斗的一切。"
+**中文理解**：菲尔丁点了点头。"为了帮助资助他在苏格兰与他的情妇的新生活。"不知道还能做什么，我用手捂住了脸。"原谅我。""这会让人非常生气，我想，"菲尔丁说。"失去你的家，你和你父亲为之奋斗的一切。"
 
 **关键词**：help fund his new life（帮助资助他的新生活）/ covered my face with my hands（用手捂住了脸）/ losing your home（失去你的家）
 
