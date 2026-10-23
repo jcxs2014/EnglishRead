@@ -303,6 +303,15 @@ def sections(block):
         line = raw.strip()
         if not line or line == "---":
             continue
+        # 2026-10-23：字段行可能带 markdown 引用符（`> **中文理解**：…`，全库实测 9 本书用此体例，
+        # 含 `> - **字段**：` 变体；其中 3 本因此整段假红）。
+        # 原实现只剥 `**` 与 bullet 前缀，`> ` 留在行首 ⇒ LAB 锚定 `^` 永不命中，
+        # 紧随其后的裸 `>` 空行反被当成续行拼进字段值（实测拼成 '> > > >'）⇒
+        # 合格中文被判「整段无中文」（such-a-fun-age 实测假红 170 处）。
+        # 这里先剥引用符、并跳过裸 `>` 行；阈值与判红口径一律不变。
+        if line == ">":
+            continue
+        line = re.sub(r"^(?:>\s*)+", "", line)
         s = re.sub(r"^[-*]\s+", "", line).replace("**", "").strip()
         m = LAB.match(s)
         if m:
