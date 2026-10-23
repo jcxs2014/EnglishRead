@@ -35,6 +35,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"right then and there"——这种措辞暗示 Musgrave 的"残忍"是"真实"的。
 
 > **原句 3:** But I explained the dearth of evidence against Hannah, said he could take the lawyer's fees out of my share. It would leave me with next to nothing, but I was past caring.
+**中文理解**：我替他解释为什么针对 Hannah 的证据如此单薄，还说律师费可以从我那份里扣——那样我几乎不剩什么，但我不在乎。
+
 
 **关键词】<td>explained the dearth of evidence against Hannah（解释了缺乏对汉娜的证据）| take the lawyer's fees out of my share（从我的份额中扣除律师费）| leave me with next to nothing（让我几乎一无所有）| past caring（不再在乎）
 

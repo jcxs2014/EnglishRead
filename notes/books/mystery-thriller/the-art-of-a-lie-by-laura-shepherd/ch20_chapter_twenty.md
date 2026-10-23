@@ -66,6 +66,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 说的是"pressing her damp face to my hair"（把她潮湿的脸压在我的头发上）——这种措辞暗示 Billy 的"回忆"是"痛苦"的。
 
 > **原句 6:** Digging a nail into my palm to cut through my thoughts, I told her the yarn I'd spun Fielding to explain how I'd come by that list. 'He'll have his work cut out now, but he appears confident that he'll find the murderer eventually. And I also convinced him to lift his delay on probate. That five hundred pounds will soon be yours.'
+**中文理解**：我把指甲掐进掌心，压住纷乱的念头，把当初糊弄 Fielding 的那套说辞又对她讲了一遍——那是为了解释这份名单的来路。
+
 
 **关键词**：digging a nail into my palm（用指甲掐我的手掌）/ yarn I'd spun Fielding（我编给菲尔丁的故事）/ lift his delay on probate（解除他对遗嘱认证的延迟）
 

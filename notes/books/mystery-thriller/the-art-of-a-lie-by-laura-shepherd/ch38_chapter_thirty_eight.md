@@ -95,6 +95,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Billy 的说法"determined to be there the moment the doors opened"——这种措辞暗示 Billy 的"决心"是"真实"的。
 
 > **原句 9:** If he refused, then I'd head down to the docks alone and buy passage on the first ship bound for France or Italy that I could find. My mood lightened as I walked. I refused to think of it as a choice. When all was said and done, it was the only course I could take.
+**中文理解**：要是他拒绝，我就独自去码头，搭上第一艘开往法国或意大利的船；这样一想，我反而不那么沉重了。
+
 
 **关键词】<td>if he refused, then I'd head down to the docks alone（如果他拒绝，那么我会独自去码头）/ buy passage on the first ship bound for France or Italy that I could find（买第一张去法国或意大利的船票）/ mood lightened as I walked（当我走路时心情变轻松了）/ refused to think of it as a choice（拒绝把它看作一个选择）/ when all was said and done, it was the only course I could take（说到底，这是我唯一能走的路）
 

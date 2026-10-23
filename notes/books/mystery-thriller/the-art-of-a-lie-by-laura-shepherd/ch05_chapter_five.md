@@ -56,6 +56,8 @@ modified: "2026-09-07"
 **读者视角提示**：注意 Hannah 的观察视角——她十二岁时就能看出父亲的疲惫，暗示她从小就具有敏锐的观察力。
 
 > **原句 5:** Jonas improved the fortunes of the Punchbowl and Pineapple in countless small ways. His real talent lay with figures and he soon took over the books, pointing out to my father where he could make savings, who was overcharging, and who was skimping on their measures.
+**中文理解**：Jonas 用无数细小的办法盘活了「Punchbowl and Pineapple」的生意；他真正的本事在数字上，很快接手了账本，向父亲指出哪里在浪费、哪里能多赚。
+
 
 **Jonas 以无数微小的方式改善了 Punchbowl and Pineapple 的财务状况。他真正的天赋在于数字，很快接管了账本，向父亲指出哪里可以节省、谁在漫天要价、谁在克扣分量。
 
