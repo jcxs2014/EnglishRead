@@ -1,0 +1,172 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch38",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch38_chapter_thirty_seven.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "拖鳄尸进剥皮间、煮骨待放屋下",
+   "anchor": "we’d skin it, per usual, then boil the bones",
+   "start": 173,
+   "end": 217,
+   "line": 9
+  },
+  {
+   "fact": "装晕退到墙边瘫坐",
+   "anchor": "Begging a fainting spell, I backed into the wall and sank to the concrete floor.",
+   "start": 462,
+   "end": 542,
+   "line": 15
+  },
+  {
+   "fact": "次日涂药后在露台画素描",
+   "anchor": "I spent the morning sketching on the patio",
+   "start": 1807,
+   "end": 1849,
+   "line": 33
+  },
+  {
+   "fact": "六点一刻穿薰衣草吊带裙下楼、藏染墨的手",
+   "anchor": "At six fifteen, I descended the stairs",
+   "start": 2854,
+   "end": 2892,
+   "line": 39
+  },
+  {
+   "fact": "向宾客确认名字 Dart、Dartrine 的简称",
+   "anchor": "“Dart,” I confirmed. “Short for Dartrine.”",
+   "start": 4842,
+   "end": 4884,
+   "line": 60
+  },
+  {
+   "fact": "Mama 曾骄傲解释全名含义、Michelle 事件后改叫 Dart",
+   "anchor": "Daria means upholder of good, and Catrine means pure.",
+   "start": 5131,
+   "end": 5184,
+   "line": 72
+  },
+  {
+   "fact": "Rebecca 提醒演讲时机",
+   "anchor": "This is a good time for your speech, ma’am.",
+   "start": 8073,
+   "end": 8116,
+   "line": 120
+  },
+  {
+   "fact": "撞上 Harrison、饮品泼鞋",
+   "anchor": "A clear brown drink splashed onto my sandals.",
+   "start": 8406,
+   "end": 8451,
+   "line": 126
+  },
+  {
+   "fact": "Harrison 求私下谈、她拒绝直奔 Gazzie",
+   "anchor": "I snatched my hand off his arm and beelined toward Gazzie.",
+   "start": 9444,
+   "end": 9502,
+   "line": 147
+  },
+  {
+   "fact": "Gazzie 银勺敲杯开场致辞",
+   "anchor": "Raising her glass, Gazzie tapped it with a silver spoon.",
+   "start": 10483,
+   "end": 10539,
+   "line": 168
+  },
+  {
+   "fact": "当众宣布继承、上午已签文件",
+   "anchor": "Signed the paperwork this morning.",
+   "start": 12530,
+   "end": 12564,
+   "line": 192
+  },
+  {
+   "fact": "当众宣布已改姓 Beaumont→Greer、下周出庭",
+   "anchor": "changing her last name from Beaumont to Greer",
+   "start": 12934,
+   "end": 12979,
+   "line": 198
+  },
+  {
+   "fact": "以握手代替拥抱收尾",
+   "anchor": "Instead of a hug, she shook my hand.",
+   "start": 13690,
+   "end": 13726,
+   "line": 207
+  },
+  {
+   "fact": "Aunt Virginia 低声要她需要离开就打电话",
+   "anchor": "Call me if you need to get out of here.",
+   "start": 14670,
+   "end": 14709,
+   "line": 231
+  },
+  {
+   "fact": "上楼拧开 Leon 房门（这次无阻碍）、进屋锁门痛哭",
+   "anchor": "A sob wrenched forth, and I clapped my hand over my mouth",
+   "start": 15670,
+   "end": 15727,
+   "line": 246
+  }
+ ],
+ "relations": [
+  [
+   "叙述者↔Gazzie：定名继承人、私自改姓；她不再感到温暖",
+   "her acceptance didn’t warm me",
+   "L99"
+  ],
+  [
+   "叙述者↔Ida：惧且感其存在；净骨放屋下供其欣赏",
+   "where Ida could gloat over them",
+   "L9"
+  ],
+  [
+   "叙述者↔Harrison：他带淤青赴会求私谈被拒",
+   "Despite everything, he’d come to the party.",
+   "L135"
+  ],
+  [
+   "叙述者↔Aunt Virginia：被顶替的策划人、暗中递信号",
+   "And she was afraid for me.",
+   "L234"
+  ],
+  [
+   "Gazzie↔市长夫人：百年小秘密互相要挟、警队晋升",
+   "they ensure the right police officers get promotions",
+   "L108"
+  ],
+  [
+   "Gazzie↔Rebecca：临时请来的派对策划人",
+   "the last-minute party planner hired in lieu of Aunt Virginia",
+   "L36"
+  ]
+ ],
+ "numbers": [
+  [
+   "鳄尸 150 磅",
+   "150-pound body",
+   "L9"
+  ],
+  [
+   "升级为 Cat One 飓风",
+   "Cat One hurricane",
+   "L48"
+  ],
+  [
+   "六点一刻下楼",
+   "six fifteen",
+   "L39"
+  ],
+  [
+   "Gazzie 上五级台阶、她上三级",
+   "five steps",
+   "L165"
+  ],
+  [
+   "下周出庭",
+   "court next week",
+   "L198"
+  ]
+ ]
+}
