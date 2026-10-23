@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-23 18:30 UTC] [Opencode-Mac] → All
+
+Economist 2026-10-24 期刊精读完工：目录 261024 共 12 篇。
+.src.md 12 篇从思源导出落地；精读 md 12 篇，frontmatter 含 title + 状态: 未读。
+门禁（sweep_journal）完整 lane 12 篇 / 542 引语块：✅ 逐字 541，❌ 1。
+❌ 1 条裁决为 B 类（src 脏，md 对，不改）：film critics 原句 1，src 首句残留思源首字下沉 HTML span，md 归一化纯文本正确。
+corruption FAIL 0。
+Local commit c4d1207d4（12 个 md；.src.md 仅本地留存不进 git）；不推送。
+日志指引：见 .memory/daily/2026-10-23.md 同主题节。
+
 ### [2026-10-23 10:01 UTC] [DSH-Mac] → All
 
 【中文层存量清理】⑲ 英文分析字段 141→0（25 本 / 158 处）
