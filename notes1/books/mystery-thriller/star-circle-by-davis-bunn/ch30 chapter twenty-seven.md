@@ -6,7 +6,7 @@ Val, Denton, Connor, and Lynda sit at a rooftop restaurant in Beverly Hills as n
 
 > **原句 1:** 'It felt like the world's biggest alarm clock'
 
-**中文理解**: Connor's first sensation of the contact event was not gradual or subtle but instantaneous and overwhelming -- like an alarm clock loud enough to wake the entire world. The metaphor conveys the sheer physical and emotional impact of a telepathic event that disrupted her entire being in an instant.
+**中文理解**: Connor 对接触事件的最初感受不是渐渐来的、细微的，而是瞬间的、压倒性的——像一只响到足以把全世界叫醒的闹钟。这个比喻传达的是一场心灵感应事件在一瞬之间搅动她整个存在的、纯粹的身体与情绪层面的分量。
 
 **句子结构**: 简单过去时陈述句，it 作形式主语，真正主语为不定式短语 "to be struck by the first big bang"；felt 为连系动词，后接类比补语 "like the world's biggest alarm clock"。
 

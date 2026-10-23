@@ -6,7 +6,7 @@ Val and her companions return to Denton's motel room to watch CNN's rerun of the
 
 > **原句 1:** 'I guess this is what passes for entertainment in corn country,'
 
-**中文理解**: Denton makes a wry comment about the gathered crowd, suggesting that in rural areas where little happens, even a construction project becomes spectator sport. The observation carries a hint of condescension mixed with genuine amusement at the spectacle they have joined.
+**中文理解**: Denton 就聚在周围的人说了句带刺的玩笑话，意思是这种乡下地方没什么事可看，连一项工程都能被当作消遣。这话里既有几分居高临下，也有对他们眼前这场热闹真心的兴味。
 
 **句子结构**: 简单陈述句，名词性从句 "what passes for entertainment" 作介词 for 的宾语，corn country 是主句表语。
 

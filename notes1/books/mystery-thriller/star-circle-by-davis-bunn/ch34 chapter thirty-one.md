@@ -6,7 +6,7 @@ Val, Denton, Connor, and Lynda complete the purchase of three new homes, then ma
 
 > **原句 1:** 'One year today.'
 
-**中文理解**: Connor taps her wedding ring and reminds Denton that this very night marks their first anniversary. The statement is spare, almost casual, yet loaded with the weight of what they almost lost and what they are about to risk again. The food truck scene and the counter-guy's dark jokes form a comic frame around this quiet moment of intimacy.
+**中文理解**: Connor 摩挲着自己的婚戒，提醒 Denton：就在今晚，是他们的第一个结婚周年。这句话极简，近乎随口，却承载着两人差点失去的东西和即将再次冒险的分量。小吃车那一幕和摊主的黑色玩笑，为这个安静的亲密时刻框出一圈喜剧性的外框。
 
 **句子结构**: Three-word noun phrase with temporal deictic "today"; no verb, relying on context for completeness. The brevity mimics the way anniversaries often surface unexpectedly in conversation.
 
@@ -18,7 +18,7 @@ Val, Denton, Connor, and Lynda complete the purchase of three new homes, then ma
 
 > **原句 2:** 'How's life in the big city?'
 
-**中文理解**: Chakkan opens with a casual, almost teasing greeting—a formulaic pleasantry that belies the extraordinary logistics he is coordinating across time zones. The question also subtly acknowledges Val's worldlier status compared to his Bali-based engineering life, injecting warmth and levity before the serious business begins.
+**中文理解**: Chakkan 用一句随意的、近乎打趣的问候开场——这种套话式的客套，与他正在跨时区协调的非凡后勤安排形成反差。这一问也含蓄地承认了 Val 的「见过世面」，让他那巴厘岛工程师的生活相形之下更接地气；在正事开始前，添了一层暖意和轻松。
 
 **句子结构**: Informal wh-question with idiomatic expression "big city" as a set phrase for Los Angeles.
 
@@ -30,7 +30,7 @@ Val, Denton, Connor, and Lynda complete the purchase of three new homes, then ma
 
 > **原句 3:** 'Tell me. Which is why I went for something simple, like electrical engineering.'
 
-**中文理解**: Chakkan jokes that the time-zone confusion (two in the afternoon relative to LA) is precisely why he chose electrical engineering—a field he characterizes as "simple" compared to whatever Val's more complex work entails. The self-deprecating humor deflects from the gravity of what they are planning while subtly complimenting her role.
+**中文理解**: Chakkan 打趣说，时差这档子混乱（洛杉矶那边是下午两点）正是他当初选了电气工程的原因——比起 Val 手头那些复杂得多的活计，他把这门学问说成"简单"。这种自嘲的幽默既从他们正在筹划之事的沉重里抽身，又不动声色地抬了她一把。
 
 **句子结构**: Two-sentence response; the first is an imperative interjection, the second a clause with "which" referring back to the preceding statement about time confusion.
 
@@ -42,7 +42,7 @@ Val, Denton, Connor, and Lynda complete the purchase of three new homes, then ma
 
 > **原句 4:** 'Tick tock, remember? Not to mention how we'd rather show up when the city's snoozing.'
 
-**中文理解**: Chakkan reminds Val of the ticking clock—the mission's urgency—while explaining the ungodly 4am arrival time. The phrase "when the city's snoozing" conveys tactical preference for secrecy and minimal witnesses, echoing the same cloak-and-dagger logic that has governed their operation from the start.
+**中文理解**: Chakkan 提醒 Val 时钟在走——任务的紧迫——同时解释那个不成样子的凌晨四点。所谓"when the city's snoozing"，传达的是一种战术上的偏好：要保密，要尽量少目击者，这与本行动从头到尾奉行的那套秘密逻辑一脉相承。
 
 **句子结构**: Two independent clauses joined by a period; the first is an imperative ("Tick tock"), the second a statement with parenthetical justification.
 
@@ -54,7 +54,7 @@ Val, Denton, Connor, and Lynda complete the purchase of three new homes, then ma
 
 > **原句 5:** 'Is it true what they're saying? You've agreed to go on this idiotic mission?'
 
-**中文理解**: Elizabeth Larkin accosts Val the moment she steps out of the hut, demanding confirmation of the wild rumor that Val has agreed to join a mission everyone around her considers suicidal. The word "idiotic" leaves no doubt about Elizabeth's assessment—and the fact that she has come all this way despite her objections suggests something beyond mere pessimism drove her onto that transport.
+**中文理解**: Elizabeth Larkin 在 Val 从茅屋里出来的那一刻就拦住她，要她确认那个荒唐的传闻：Val 已经答应参加这趟她周围人人都觉得是送死的任务。"idiotic"一词让人毫不怀疑 Elizabeth 的判断——而她一路反对却还是来了，说明把她推上那艘运输器的，不只是悲观。
 
 **句子结构**: Embedded question introduced by "what they're saying" with the main clause "Is it true"; "idiotic" is a fronted adjective modifier intensifying "mission."
 
@@ -66,7 +66,7 @@ Val, Denton, Connor, and Lynda complete the purchase of three new homes, then ma
 
 > **原句 6:** 'So now we're twelve.'
 
-**中文理解**: Chakkan counts the assembled team and arrives at twelve—the number that seems to carry symbolic or practical weight for this mission. The statement is flat, almost bureaucratic, yet it marks a milestone: the crew is complete. The addition of Lynda brings the total to a round number that feels deliberate, as if twelve is the target they have been building toward.
+**中文理解**: Chakkan 数了数聚齐的队伍，得出十二这个数——对这项任务来说，这数字似乎带着象征或实际的分量。这句话平平的，近乎公文式，却标下一个里程碑：队伍齐了。Lynda 的加入凑成了一个整数，像是刻意为之，仿佛十二正是他们一直在朝之搭建的目标。
 
 **句子结构**: Simple declarative sentence with adverbial "now"; subject-verb inversion for emphasis on the new total.
 
@@ -78,7 +78,7 @@ Val, Denton, Connor, and Lynda complete the purchase of three new homes, then ma
 
 > **原句 7:** 'I need to make a call.'
 
-**中文理解**: Val, having experienced what she calls a "harmonic resonance"—a message that forms around impressions before compacting into words—asks Lynda for space to make a phone call. The chapter ends on this cliffhanger: Val has received a communication, and its content remains unspoken. The resonance suggests the entities are reaching out again, perhaps sensing that departure is imminent.
+**中文理解**: Val 经历了她所谓的"harmonic resonance"——一种先以印象成形、后压缩成词句的讯息——之后，向 Lynda 要一点空间去打一个电话。本章就停在这个悬念上：Val 收到了一次通讯，内容却始终没说出口。这种谐振暗示，那些存有又在往外伸手了，也许是察觉到出发在即。
 
 **句子结构**: Short declarative sentence with infinitive complement "to make a call"; no elaboration, no context given—the very plainness creates tension.
 

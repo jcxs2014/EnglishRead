@@ -6,7 +6,7 @@ Carlton arrives at the Raleigh Hilton hours before Val's CBS interview airs at 7
 
 > **原句 1:** 'Everyone except CBS shared the identical expression: a mix of astonishment and bitterness over someone else gaining the scoop. The CBS crew made no attempt to hide their smug joy.'
 
-**中文理解**: Carlton observes the gathered press pool with sardonic precision: every outlet except CBS wears the same face — shock mixed with resentment at having been beaten to the story. The CBS crew, by contrast, openly gloats. This contrast between the losers' bitter expressions and the winners' undisguised satisfaction captures the competitive ruthlessness of breaking news journalism.
+**中文理解**: Carlton 以一种讥讽的精确观察挤满现场的记者群：除 CBS 之外，每一家电视台的表情都一模一样——震惊，掺杂着被人抢了独家之后的怨气。相比之下，CBS 那组人毫不掩饰地沾沾自喜。输家怨怼的表情与赢家不加遮掩的得意之间的这种对照，正好抓住了抢新闻这行的竞争之狠。
 
 **句子结构**: Semicolon-separated parallel clauses contrasting two groups; the second clause uses the construction "made no attempt to [verb]" for deliberate, unapologetic behavior.
 
@@ -18,7 +18,7 @@ Carlton arrives at the Raleigh Hilton hours before Val's CBS interview airs at 7
 
 > **原句 2:** 'Do I think they are taking these nutrients to Saturn's moon? My answer to this is unequivocal. Yes. I do think they are going to try.'
 
-**中文理解**: After a hesitation marked by stroking his tie, Terrance Dale gives the answer the press has been waiting for: an unequivocal yes. He believes the global group is genuinely attempting to transport twelve thousand tons of fertilizer to Titan, Saturn's largest moon. The deliberate repetition of "Yes" and "I do think" — rather than a simple affirmative — signals that Terrance is aware his words carry the weight of official government response and chooses his emphasis accordingly.
+**中文理解**: 在一段摸领带的迟疑之后，Terrance Dale 给出了记者们一直在等的答案：一个毫不含糊的「是」。他相信这个全球性的群体真的在试图把一万二千吨肥料运往土星最大的卫星 Titan。他刻意重复"Yes"和"I do think"，而不是只给一个简单的肯定——这说明 Terrance 清楚自己的话承载着政府正式回应的分量，并据此选择了强调的落点。
 
 **句子结构**: Three-sentence construction with the first posing the question, the second announcing the answer's certainty, and the third delivering it with emphatic self-confirmation; parallel "I do think" structure mirrors the cadence of formal oratory.
 
@@ -30,7 +30,7 @@ Carlton arrives at the Raleigh Hilton hours before Val's CBS interview airs at 7
 
 > **原句 3:** 'But if you accept Ms Garnier's claims as true, that this is derived from a visitation by other beings, then yes. There is a distinct possibility that certain governments view this as a threat to their power structure.'
 
-**中文理解**: Terrance conditionally accepts Val's premise — that this technology derives from extraterrestrial contact — and from that premise draws a logical conclusion: some governments will inevitably see this as a threat to their authority. The phrase "distinct possibility" is carefully hedged, acknowledging the logic without committing to specific countries or actions. This diplomatic phrasing is classic political non-answer that nonetheless confirms the worst fears.
+**中文理解**: Terrance 有条件地接受了 Val 的前提——这项技术源自外星接触——再由这个前提推出一个合乎逻辑的结论：某些政府不可避免地会把它视为对自己权威的威胁。"distinct possibility"措辞谨慎、留有余地：承认这条逻辑，却不点明具体国家，也不承诺具体行动。这种外交式说法是典型的政治「不答之答」，却恰恰坐实了最坏的担忧。
 
 **句子结构**: Conditional sentence structure ("if X, then yes") with an appositive clause embedded; the second independent clause delivers the substantive political observation.
 
@@ -42,7 +42,7 @@ Carlton arrives at the Raleigh Hilton hours before Val's CBS interview airs at 7
 
 > **原句 4:** 'That is wrong thinking. It reveals a weakness at the core of our political systems. I condemn it in the strongest possible terms.'
 
-**中文理解**: Terrance issues a direct, three-part condemnation: labeling the threatening reaction "wrong thinking," diagnosing it as a systemic weakness, and then escalating to formal condemnation. The phrase "in the strongest possible terms" is diplomatic boilerplate elevated here to genuine moral urgency. This is Terrance Dale, four years of silence broken, speaking not as a policy maker but as a moral witness.
+**中文理解**: Terrance 发出三段式的直接谴责：先把那种视之为威胁的反应定性为"wrong thinking"，再诊断它是政治体系的系统性软弱，最后升级为正式的谴责。"in the strongest possible terms"本是外交辞令里的套话，在这里被抬升为真正的道德紧迫。此刻说话的是四年的沉默被打破的 Terrance Dale，他不是以政策制定者的身份，而是以道德见证者的身份说话。
 
 **句子结构**: Three short declarative sentences in rapid succession; the third uses the formulaic construction "in the strongest possible terms" for rhetorical force amplification. The cumulative effect is that of a prosecutor's closing summation.
 
@@ -54,7 +54,7 @@ Carlton arrives at the Raleigh Hilton hours before Val's CBS interview airs at 7
 
 > **原句 5:** 'I ask any and all of you to show me one iota of evidence that these people represent a threat to our nation, our civilization, our human race.'
 
-**中文理解**: Terrance concludes with an escalating challenge that widens the scope with each phrase: from "our nation" to "our civilization" to "our human race." The demand for "one iota of evidence" — the smallest possible unit of proof — is rhetorically devastating because it shifts the burden of proof onto those making the threat claim. The rhetorical escalation forces the audience to consider that if this group threatens anything, it threatens everything humanity has built.
+**中文理解**: Terrance 以一个层层扩大的挑战收尾，每一层都把范围推得更远：从"our nation"到"our civilization"，再到"our human race"。要人拿出"one iota of evidence"——最小的一份证据——这在修辞上是致命的，因为它把举证责任推给了那些提出威胁指控的人。这种层层递进的修辞逼着听众去想：如果这个群体威胁到了什么，那它威胁的是全人类建起的一切。
 
 **句子结构**: Complex sentence with parallel noun phrases escalating in scope; "any and all" and "one iota" create a rhetorical contrast between maximal demand and minimal threshold.
 
@@ -66,7 +66,7 @@ Carlton arrives at the Raleigh Hilton hours before Val's CBS interview airs at 7
 
 > **原句 6:** 'Thank you, ladies and gentlemen. This interview is now concluded.'
 
-**中文理解**: Carlton rises to his feet and ends the interview with the formal cadence of a press secretary or government official — polite in form, absolute in substance. The abrupt termination after Terrance's moral climax is itself a statement: the administration has said what it needed to say, and no further questioning will be permitted. The press has been given a narrative, and now the narrative is closed.
+**中文理解**: Carlton 站起身来，用新闻秘书或政府官员那种正式腔调结束采访——形式上客气，实质上不容商量。在 Terrance 的道德高潮之后骤然收场，本身就是一句声明：政府已经把该说的说了，不再接受追问。媒体得到了一套叙述，而现在这套叙述到此为止。
 
 **句子结构**: Two imperative sentences; the first is gracious in form, the second is a flat declarative statement of termination. No elaboration, no justification — just action.
 
@@ -78,7 +78,7 @@ Carlton arrives at the Raleigh Hilton hours before Val's CBS interview airs at 7
 
 > **原句 7:** 'He stroked the striped tie, running his hand down from neck to navel. Twice. A third time.'
 
-**中文理解**: Before his pivotal answer about whether the group is truly bound for Titan, Terrance performs a physical ritual: stroking his striped tie from collar to waist, then repeating it, then doing it a third time. The detail is specific — "striped tie," "twice," "a third time" — and the repetition signals the weight of what he is about to say. This is a man steeling himself to break four years of silence on a matter that could reshape global politics.
+**中文理解**: 在就这个群体是否真的要去 Titan 给出关键答案之前，Terrance 做了一个身体上的仪式：把手从领口顺着领带摸到腰际，再摸一次，第三次。细节很具体——"striped tie"、"twice"、"a third time"——重复本身就在示意他接下来要说的话有多重。这是个正在给自己鼓劲的人，要就一件可能重塑全球政治的事，打破四年的沉默。
 
 **句子结构**: Three very short sentences; the first describes the action in full, the second and third are merely numerical adverbs. The staccato rhythm mimics the physical gesture's deliberation.
 

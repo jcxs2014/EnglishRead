@@ -6,85 +6,85 @@ Kelly drives an official car to Vivienne's therapist office with Rabbit, both ar
 
 > **原句 1:** 'It OK. She'll probably come quietly.' But her training had constantly emphasized the need to be ready for the unexpected. Just as it had stressed the need to stay aware of the risk of subversive influences. Being taken in by the enemy. 'I've been such a total idiot.'
 
-**中文理解**: Kelly rationalizes that Vivienne will surrender without resistance, yet immediately beneath this bravado is a crushing self-indictment. Her training has always demanded readiness for the unexpected and awareness of enemy infiltration — and she recognizes she has failed on both counts. The admission "total idiot" is not self-pity but a cold, honest recognition that Vivienne exploited her at her most vulnerable.
+**中文理解**: Kelly 用「她会乖乖就范」安抚自己，可这句虚张声势底下立刻涌出一句严厉的自责。她的训练一直要求她随时准备应对意外，也要求她对「颠覆性影响」的渗透保持警觉——而她意识到这两条自己都没做到。「total idiot」不是自怜，而是一种冷硬、诚实的承认：Vivienne 恰好在她最脆弱的时候利用了她。
 
 **句子结构**: Two sentences of dialogue flanking a clause of introspection; the em-dash break signals the shift from verbal performance to internal reckoning. The final quoted confession lands after the analytical aside, making it land harder.
 
 **关键词**: subversive influences 颠覆性影响，情报工作中的核心概念；Being taken in by the enemy 被敌人蒙骗，是特工最致命的失误。
 
-**为什么这样写**: Bunn layers Kelly's self-blame directly over her tactical assumption. The juxtaposition of "probably come quietly" with the acknowledgment that she has been manipulated by the very enemy she should have been alert to reveals the psychological cost of Vivienne's betrayal. Kelly is not just angry — she is horrified at her own blindness.
+**为什么这样写**: Bunn 把 Kelly 的自责直接叠在她那句战术判断之上。「probably come quietly」的乐观，与「她被那个本该提防的敌人操纵了」的醒悟并置，显出 Vivienne 背叛带来的心理代价。Kelly 不只是愤怒——她为自己的盲目而骇然。
 
 ---
 
 > **原句 2:** 'Vivienne played us like a total pro.' Rabbit's voice carried a harsh tone she had never heard before. 'We came to her at our weakest. She knew it. She used us.'
 
-**中文理解**: Rabbit speaks with a harshness born of violated trust. He and Kelly sought Vivienne's help when their defenses were down, and she weaponized that vulnerability with professional precision. The phrase "total pro" is almost grudging acknowledgment — Vivienne was so skilled at manipulation that even her victims can admire the craftsmanship of the deception.
+**中文理解**: Rabbit 说话的粗粝来自被辜负的信任。他和 Kelly 在防备最弱时去找 Vivienne 求助，而她以专业级的精确把这份脆弱变成了武器。「total pro」几乎是一种不甘的认可——Vivienne 太擅长操纵，连受害者都不得不佩服这场骗局的手法。
 
 **句子结构**: Two quoted sentences from Rabbit separated by a narrative observation about his tone; the second quote expands on the first, unpacking "played us" into its specific mechanics — timing, knowledge of weakness, deliberate exploitation.
 
 **关键词**: total pro 职业高手，是贬义语境中的被迫认可；at our weakest 揭示了背叛的情感深度；She knew it. She used us 是平行结构的递进，强调Vivienne明知故犯。
 
-**为什么这样写**: Rabbit's unfamiliar harsh tone tells Kelly something has broken inside him — he who has always been steady is now vibrating with rage and shame. Bunn uses Rabbit's reaction to confirm what Kelly already feels but needs external validation for: they were not merely deceived, they were systematically managed.
+**为什么这样写**: Rabbit 那种 Kelly 从未听过的粗粝语调，告诉 Kelly 他心里有什么东西断了——一向稳当的他此刻浑身是怒火与羞耻。Bunn 借 Rabbit 的反应，印证了 Kelly 自己已经感觉到、却需要外部确认的事：他们不只是被骗，而是被一步步系统性地操控了。
 
 ---
 
 > **原句 3:** 'Keep behind me.'
 
-**中文理解**: Three words, a command, spoken as Kelly draws her weapon and leads the way down the empty hall toward the therapist's office. The line is pure tactical procedure — the trained operator taking point, shielding the partner behind her. But beneath the professional efficiency is a woman who still has no idea what waits inside.
+**中文理解**: 三个字，一句命令，Kelly 一边拔枪，一边带着 Rabbit 沿空荡的走廊走向治疗师办公室。这句话是纯粹的战术程序——受过训练的行动者抢占前方，把同伴护在身后。但在这份职业化的利落之下，是一个完全不知道门后有什么的女人。
 
 **句子结构**: Imperative phrase, stripped of any elaboration; the brevity itself communicates controlled adrenaline and the priority of action over words.
 
 **关键词**: Keep behind me 是执法人员的基本战术用语，但在本场景中暗示Kelly要保护Rabbit不受到更多心理伤害。
 
-**为什么这样写**: Bunn drops this three-word command into the chapter without any further comment. The starkness makes it land like a gunshot. In context, Kelly's protective instinct toward Rabbit — the man who has supported her through everything — is the chapter's emotional anchor even as she prepares for a confrontation that never comes.
+**为什么这样写**: Bunn 把这三个字的命令丢进章节，不加任何评论。这份生硬让它像一声枪响般落地。就情境而言，Kelly 对 Rabbit——那个一路支撑她的男人——的保护本能，才是本章的情感锚点，哪怕她正为一场最终并没有发生的对峙做准备。
 
 ---
 
 > **原句 4:** Three clear plastic packets rested on the side table next to Vivienne's chair. Each was about an inch square. They held a tiny fleck of something. Scarcely larger than a bit of dust.
 
-**中文理解**: The physical description is deliberately, almost painfully anticlimactic. Three small plastic packets, each about an inch square, containing something barely visible — the payoff Vivienne promised, "the draw." After all the anticipation, the buildup, the fear and fury of the drive and the elevator and the hall, the object of their search is almost invisibly small. The restraint of the description makes the moment more chilling than any dramatic reveal could.
+**中文理解**: 这段物理描写刻意——几近刻意到令人难受——反高潮。三个小塑料袋，各约一英寸见方，里面装着几乎看不见的一点东西：Vivienne 承诺的"the draw"。经过一路的期待、铺垫，以及车上、电梯里、走廊上的恐惧与暴怒之后，他们要找的东西小得几乎不可见。这种克制的写法，比任何戏剧化的揭晓都更让人发冷。
 
 **句子结构**: Three short declarative sentences with heavy use of approximate measurements ("about an inch," "scarcely larger than") that collectively understate the object's significance. The repetition of "Three" and "each" creates a rhythm of methodical cataloging.
 
 **关键词**: draw 是这一行人追寻的核心目标——一个小到几乎看不见的东西，却足以改变一切；side table next to Vivienne's chair 放置的位置暗示这是故意留下的。
 
-**为什么这样写**: Bunn's deliberate minimization — "tiny fleck," "scarcely larger than a bit of dust" — is a masterstroke of restraint. By refusing to sensationalize the discovery, he makes it more terrifying. The search for something life-changing ends with something you could lose in a breath. The placement on Vivienne's chairside table, not hidden, not secured, suggests she left it as a message.
+**为什么这样写**: Bunn 刻意的轻描淡写——"tiny fleck"、"scarcely larger than a bit of dust"——是克制上的神来之笔。拒绝把这一发现耸动化，反而使它更可怖。寻找足以改变人生的东西，最后找到的却是一口气就能吹散的物件。它被放在 Vivienne 椅子旁的边几上，不藏、不上锁，暗示她是故意留作讯息。
 
 ---
 
 > **原句 5:** 'The draw.'
 
-**中文理解**: Two words, spoken aloud, as Kelly stands frozen above the packets. She names what she sees — the draw, the prize, the leverage Vivienne promised would change everything. But the words come out flat, disconnected. The reality of the moment has not yet registered. She is stating a fact about what is there while her mind struggles to process why it is there and what it means.
+**中文理解**: 两个字，出声念出来，Kelly 僵立在那些袋子前。她给看见的东西命名——the draw，那件奖赏，Vivienne 说会改变一切的筹码。但这话说得平板、脱节。此刻的现实还没真正落到她心里。她只是在陈述那里放着什么，脑子仍在挣扎着弄清它为什么在那里、又意味着什么。
 
 **句子结构**: Two-word quoted fragment; the brevity mirrors Kelly's stunned mental state. No elaboration, no analysis — just the raw identification of the object she has risked everything to find.
 
 **关键词**: The draw 是他们整个行动的目标代号，两词独白在此处是震惊下的本能反应而非分析。
 
-**为什么这样写**: After the elaborate buildup — the sleepless nights, the manipulation by Vivienne, the journey to this office — the actual naming of the object is almost throwaway. Bunn uses this flatness to capture a specific human response to anticlimax: when the thing you feared or desired for so long finally arrives, the first reaction is often silence, not celebration or despair.
+**为什么这样写**: 经过漫长的铺垫——失眠的夜、Vivienne 的操纵、奔向这间办公室的路程——真正把那件东西名字说出口时，却几乎是随手一带。Bunn 用这种平淡，捕捉人面对反高潮时一种具体的反应：当你恐惧或渴求许久的东西终于出现，第一反应往往是沉默，而不是欢呼或绝望。
 
 ---
 
 > **原句 6:** 'I want Rabbit to go with me. And Diyani. Yes, ma'am, both should come. She and Rabbit work as a team in handling input generated by our new group … Thank you, ma'am. Rabbit's here with me now. I'll make it clear Diyani can't slow us down. Yes, ma'am. We're leaving now.'
 
-**中文理解**: Kelly speaks to Agnes on the phone while still standing over the packets. She wants Rabbit to accompany her and requests Diyani as well, emphasizing that the two work as a unit when processing input from their new group. She assures Agnes that Diyani can keep pace and confirms they are departing immediately. The speech is clipped, efficient, all business despite the emotional earthquake still reverberating in the room.
+**中文理解**: Kelly 站在那些袋子前给 Agnes 打电话。她要 Rabbit 陪她去，又请求让 Diyani 也来，强调两人在处理「我们的新群体」产生的输入时是一个整体。她向 Agnes 保证 Diyani 不会拖慢他们的节奏，并确认他们马上就要出发。这番话简短、利落、全是事务——尽管房间里仍回荡着那场情感地震。
 
 **句子结构**: Extended single-quote block showing a phone conversation in real time; the repeated "Yes, ma'am" creates a staccato rhythm of confirmation and obedience. The middle section about Rabbit and Diyani is practical exposition — Kelly is already managing logistics even while processing shock.
 
 **关键词**: Yes, ma'am 显示Agnes在指挥链上对Kelly有绝对权威；can't slow us down 强调任务的紧迫性；handling input generated by our new group 暗示Rabbit和Diyani在处理某种集体信息或能量。
 
-**为什么这样写**: Bunn interrupts the frozen tableau of Kelly and the packets with a phone call — a sudden intrusion of the practical world into a moment of existential weight. The phone conversation forces Kelly back into operational mode even as the packets sit untouched. The contrast between the mundane logistics discussion and the metaphysical significance of what lies before her captures the surreal texture of the moment.
+**为什么这样写**: Bunn 用一通电话打断了 Kelly 与那些袋子凝固的画面——务实世界的突然闯入，落在一个承载着存在性重量的时刻。电话把 Kelly 拽回行动模式，而那些袋子仍旧没人动。日常的后勤商议，与眼前的形而上意义并置，正好抓住了这一刻的超现实质感。
 
 ---
 
 > **原句 7:** Rabbit shuddered his way through a breath, then turned away. 'You take the packets. I can't, I won't …'
 
-**中文理解**: Rabbit cannot bring himself to touch what lies before them. His breath comes in shuddering gasps as he confronts the physical evidence of Vivienne's manipulation and the object she left behind. He turns away — physically, emotionally, absolutely — and assigns the task to Kelly. The trailing incomplete sentence "I can't, I won't" carries more weight than any finished explanation could: he cannot bear to touch what represents everything that went wrong, and he will not try.
+**中文理解**: Rabbit 无法让自己去碰眼前的东西。面对 Vivienne 操纵的物证和她留下的物件，他呼吸一抽一抽地断续。他转过身去——身体上、情绪上、彻底地——把这件事交给 Kelly。那句没说完的"I can't, I won't"比任何完整的解释都更重：他受不了去碰那件代表一切出错的东西，而他也不会去试。
 
 **句子结构**: Narrative sentence describing Rabbit's physical state and withdrawal, followed by a quoted fragment with deliberate ellipsis. The unfinished sentence mirrors Rabbit's emotional inability to articulate his refusal — language itself has reached its limit.
 
 **关键词**: shuddered his way through a breath 描述极度紧张或情绪冲击下的呼吸状态；I can't, I won't 拒绝做出解释，情感重于逻辑。
 
-**为什么这样写**: After Kelly's protective "Keep behind me" — herself ready to face whatever came — it is Rabbit who cannot go on. His refusal to touch the packets is the chapter's emotional climax. Bunn shows the cost of Vivienne's manipulation not in exposition but in this physical retreat. The woman who led is left alone with what they came for; the partner who followed cannot stay.
+**为什么这样写**: 在 Kelly 那句护人的"Keep behind me"——她自己准备好面对一切——之后，反而是 Rabbit 走不下去了。他拒绝去碰那些袋子，是本章的情感高潮。Bunn 不靠说明、而靠这一次身体上的退却，写出 Vivienne 操纵的代价。先前领路的人被独自留下，面对他们此行的目的；跟在后面的同伴却留不下来。
 
 ---
 
