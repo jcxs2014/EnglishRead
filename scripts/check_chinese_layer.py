@@ -533,9 +533,14 @@ def main():
         else:
             ratio = mix_ratio(zh)
             if ratio > MIX_WARN:
-                blocking["夹杂理解"].append(b)
-                block_hits.append("夹杂理解")
-                mixed_ids.add(bid)
+                # 与「为什么这样写」同一口径（2026-10-23 第四修）：中文标点 ≥2 ⇒
+                # 句子结构是中文，英文只是被引用的术语/原句，记提示不判阻断。
+                if len(re.findall(r"[，。、；：！？]|——", zh)) >= 2:
+                    hinting.setdefault("夹杂理解（中文句子，英文仅引用）", []).append(b)
+                else:
+                    blocking["夹杂理解"].append(b)
+                    block_hits.append("夹杂理解")
+                    mixed_ids.add(bid)
             if has_hollow(zh):
                 blocking["残句"].append(b)
                 block_hits.append("残句")
