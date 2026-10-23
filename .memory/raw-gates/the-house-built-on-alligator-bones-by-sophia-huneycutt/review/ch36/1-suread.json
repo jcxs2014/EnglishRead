@@ -1,0 +1,183 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch36",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch36_chapter_thirty_five.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "电话派 Benny-G 与 Javier 赶鳄",
+   "anchor": "assigning him and Javier to alligator-herding duty",
+   "start": 56,
+   "end": 106,
+   "line": 9
+  },
+  {
+   "fact": "给 Gazzie 发短信后静音手机",
+   "anchor": "I silenced my phone.",
+   "start": 266,
+   "end": 286,
+   "line": 9
+  },
+  {
+   "fact": "Gazzie 二楼阳台俯身喊她",
+   "anchor": "She was watching me from the second-floor veranda, hands gripping the railing.",
+   "start": 439,
+   "end": 517,
+   "line": 12
+  },
+  {
+   "fact": "先洗脸再从窗口进阳台",
+   "anchor": "Then I opened my window to the veranda and stepped through.",
+   "start": 961,
+   "end": 1020,
+   "line": 24
+  },
+  {
+   "fact": "呵斥别管幼鳄、本周不喂",
+   "anchor": "She doesn’t need anything to eat this week.",
+   "start": 1526,
+   "end": 1569,
+   "line": 27
+  },
+  {
+   "fact": "谎称有人开了繁殖池闸门",
+   "anchor": "Someone opened the gate to the breeding pond",
+   "start": 2094,
+   "end": 2138,
+   "line": 39
+  },
+  {
+   "fact": "内心认定巨大失败、须抖出 Harrison 背叛",
+   "anchor": "It had been a colossal failure on my part",
+   "start": 2330,
+   "end": 2371,
+   "line": 51
+  },
+  {
+   "fact": "Gazzie 称多数鳄会滞留蓄水塘可捞回",
+   "anchor": "We’ll scoop them up.",
+   "start": 2776,
+   "end": 2796,
+   "line": 54
+  },
+  {
+   "fact": "谎称 Harrison 应该还在农场",
+   "anchor": "“I think he’s still at the farm.” Not exactly a lie.",
+   "start": 3407,
+   "end": 3459,
+   "line": 66
+  },
+  {
+   "fact": "盗猎者偷两百枚蛋、Ironheart 协助、献更大祭",
+   "anchor": "two hundred eggs",
+   "start": 3911,
+   "end": 3927,
+   "line": 81
+  },
+  {
+   "fact": "盗猎者翻车、法律完好归还蛋",
+   "anchor": "The law returned the eggs to us. In perfect condition, each one.",
+   "start": 4097,
+   "end": 4161,
+   "line": 87
+  },
+  {
+   "fact": "两盗猎者一断腿一被压死",
+   "anchor": "One lost a leg in the crash, and the other was crushed. Died.",
+   "start": 4201,
+   "end": 4262,
+   "line": 93
+  },
+  {
+   "fact": "狩猎定在周五（原周六晚会后、怕雨）",
+   "anchor": "Let’s do it Friday.",
+   "start": 4749,
+   "end": 4768,
+   "line": 105
+  },
+  {
+   "fact": "要求参加狩猎并宣布继承权",
+   "anchor": "I’ll announce your inheritance at the party.",
+   "start": 5031,
+   "end": 5075,
+   "line": 111
+  },
+  {
+   "fact": "浴室门玻璃上看到更白、黑眼的脸",
+   "anchor": "With eyes that burned black.",
+   "start": 5989,
+   "end": 6017,
+   "line": 120
+  },
+  {
+   "fact": "认定 Ida 强求这场狩猎",
+   "anchor": "Ida wanted this hunt. She was insisting on it.",
+   "start": 6131,
+   "end": 6177,
+   "line": 126
+  },
+  {
+   "fact": "被迫答应周五、太阳穴痛消退",
+   "anchor": "Instantly, the pain in my temples relented. Ida was satisfied.",
+   "start": 6896,
+   "end": 6958,
+   "line": 141
+  },
+  {
+   "fact": "淋浴搓红皮肤、盯镜防曾祖母",
+   "anchor": "I scrubbed my skin raw, eyes fixed on the bathroom mirror",
+   "start": 6990,
+   "end": 7047,
+   "line": 144
+  }
+ ],
+ "relations": [
+  [
+   "我↔Gazzie：继承权由她宣布、怕她不容错",
+   "I’ll announce your inheritance at the party.",
+   "L111"
+  ],
+  [
+   "我↔Harrison：打了且享受其痛、须磨说辞",
+   "how I’d struck him. Enjoyed his pain.",
+   "L63"
+  ],
+  [
+   "我↔Ida：great-great-grandmother，会施加疼痛逼服从",
+   "great-great-grandmother",
+   "L144"
+  ],
+  [
+   "Gazzie↔Ida：献祭关系",
+   "make bigger offerings to Ida",
+   "L81"
+  ],
+  [
+   "我↔Benny-G/Javier：派工",
+   "assigning him and Javier",
+   "L9"
+  ]
+ ],
+ "numbers": [
+  [
+   "跑掉的鳄鱼「三十、四十？」",
+   "Maybe thirty, forty?",
+   "L45"
+  ],
+  [
+   "被盗两百枚蛋",
+   "two hundred eggs",
+   "L81"
+  ],
+  [
+   "狩猎原定周六晚会后、改周五",
+   "Friday",
+   "L105"
+  ],
+  [
+   "小鳄每几周一喂、大鳄可一年不食",
+   "a whole year",
+   "L30"
+  ]
+ ]
+}
