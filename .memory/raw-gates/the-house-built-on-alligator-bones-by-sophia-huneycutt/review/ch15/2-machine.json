@@ -1,0 +1,187 @@
+{
+  "chapter": 15,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/ch15 the second inexplicable person.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch15_chapter_fourteen.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "In the glimmering water, two yellow eyes glided toward me. A delicate, cold hand pressed into the center of my back, pus",
+          "ok": true,
+          "pos": 672
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The smell came next: jasmine, slightly off",
+          "ok": true,
+          "pos": 2051
+        },
+        {
+          "text": "The shape of someone—more a gauzy, black blur than anything—glided from the bottom of the stairs into the dining room, o",
+          "ok": true,
+          "pos": 2203
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Harrison probably stayed in Greer House all the time. He and Gazzie had much more than a boss-employee relationship. He ",
+          "ok": true,
+          "pos": 4431
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Despite Aunt Virginia’s perfectly reasonable explanation, I only ever heard it before something odd happened. I wanted t",
+          "ok": true,
+          "pos": 5089
+        }
+      ],
+      "words": 51
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 110,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 114,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 95,
+        "读者视角提示": 67
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.44,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 119,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.62
+      }
+    }
+  ],
+  "form": {
+    "h1": "15. Chapter Fourteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 4,
+    "block_median": 6,
+    "block_range": [
+      3,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 4,
+    "quote_long": 0,
+    "segments": 5,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1143,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

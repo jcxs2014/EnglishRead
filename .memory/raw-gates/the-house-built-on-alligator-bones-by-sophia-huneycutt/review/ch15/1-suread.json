@@ -1,0 +1,451 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch15",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch15_chapter_fourteen.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "从养大棚那次越轨之后，她在农场独处不超过二十分钟",
+   "anchor": "I spent no more than twenty minutes alone at the farm",
+   "start": 56,
+   "end": 109,
+   "line": 9
+  },
+  {
+   "fact": "Nova 探头进她那间霉味屋子，问了一堆关于文件的问题：进度、何时完成、税表有没有被弄脏",
+   "anchor": "whether a tax return was stained",
+   "start": 231,
+   "end": 263,
+   "line": 9
+  },
+  {
+   "fact": "Harrison 在她下午中段吃点心时出现在休息室，别扭地闲聊，主要聊那道越长越大、屋顶工也治不了的天花板裂缝",
+   "anchor": "making stilted small talk, mostly about the growing, roofer-resistant ceiling leak",
+   "start": 345,
+   "end": 427,
+   "line": 9
+  },
+  {
+   "fact": "她推测是 Gazzie 吩咐两人看着她（apparently），可 Gazzie 一次也没来过",
+   "anchor": "Gazzie had apparently ordered them to babysit me, though she didn’t check on me once",
+   "start": 429,
+   "end": 513,
+   "line": 9
+  },
+  {
+   "fact": "除了周五傍晚那段沉默的回程车程，他当天再没出现",
+   "anchor": "Beyond our silent drive back to Greer House Friday evening, I didn’t see her",
+   "start": 515,
+   "end": 591,
+   "line": 9
+  },
+  {
+   "fact": "当晚她在梦里进进出出，浮现在月光下的沼泽岸边",
+   "anchor": "surfacing on a marsh shore in the moonlight",
+   "start": 640,
+   "end": 683,
+   "line": 12
+  },
+  {
+   "fact": "水中两只黄色的眼睛朝她滑来",
+   "anchor": "two yellow eyes glided toward me",
+   "start": 710,
+   "end": 742,
+   "line": 12
+  },
+  {
+   "fact": "一只纤细冰冷的手按在她背心正中推她向前，她踏进水里一步、又一步",
+   "anchor": "A delicate, cold hand pressed into the center of my back, pushing me forward, and I took one step into the water. Another.",
+   "start": 744,
+   "end": 866,
+   "line": 12
+  },
+  {
+   "fact": "一条大得不可能的鳄鱼抬起头，水顺着吻部成股流下，它张开颌露出参差的黄牙",
+   "anchor": "An impossibly large alligator raised its head. Water ran down its snout in rivulets as it opened its jaws, revealing jagged yellowed teeth.",
+   "start": 869,
+   "end": 1008,
+   "line": 15
+  },
+  {
+   "fact": "震耳的嘶声扑来、越来越响，她双手捂住耳朵",
+   "anchor": "A deafening hiss whooshed toward me, growing louder and louder. I slammed my hands over my ears.",
+   "start": 1009,
+   "end": 1105,
+   "line": 15
+  },
+  {
+   "fact": "她双眼猛地睁开",
+   "anchor": "My eyes flew open.",
+   "start": 1108,
+   "end": 1126,
+   "line": 18
+  },
+  {
+   "fact": "肾上腺素流遍全身，她屏住呼吸直到确信嘶声已随梦一起消失",
+   "anchor": "I held my breath until I was sure the hiss had disappeared with the dream",
+   "start": 1161,
+   "end": 1234,
+   "line": 21
+  },
+  {
+   "fact": "窗边漏进来的光太弱，她分不清那是日光还是月光",
+   "anchor": "The light drifting in from the window was so weak I wasn’t sure whether it came from the sun or moon.",
+   "start": 1236,
+   "end": 1337,
+   "line": 21
+  },
+  {
+   "fact": "黑暗里她只勉强认出书桌与五斗橱；没什么异常在暗处等她",
+   "anchor": "Nothing out of the ordinary lay in wait for me.",
+   "start": 1393,
+   "end": 1440,
+   "line": 21
+  },
+  {
+   "fact": "呻吟着坐起揉眼；这场梦呼应了 Ida 猎 Ironheart 的传说；如今她梦里和上班时都得面对鳄鱼",
+   "anchor": "The dream had echoed Ida’s legendary hunt for Ironheart.",
+   "start": 1482,
+   "end": 1538,
+   "line": 24
+  },
+  {
+   "fact": "楼梯上一记脚步吱响，墙面随电流嗡鸣",
+   "anchor": "Then a step on the stair creaked, and the walls hummed with electricity.",
+   "start": 1612,
+   "end": 1684,
+   "line": 27
+  },
+  {
+   "fact": "有什么拉了她一下，把她从被子里带出去",
+   "anchor": "Something pulled at me, drawing me out from under my covers.",
+   "start": 1687,
+   "end": 1747,
+   "line": 30
+  },
+  {
+   "fact": "她以为是又早起的 Gazzie，也许能再听一个家族故事、对方也就重新喜欢她",
+   "anchor": "I assumed it was Gazzie, up early again. Maybe I’d get her to tell me another family story, and she’d like me again.",
+   "start": 1748,
+   "end": 1864,
+   "line": 30
+  },
+  {
+   "fact": "她梦游般滑下床走到走廊，但起身太急；楼梯扶手在眼前褪淡，手指触到冰冷光滑的木",
+   "anchor": "Dreamily, I slid out of bed and wandered into the hallway, but I’d stood too quickly.",
+   "start": 1865,
+   "end": 1950,
+   "line": 30
+  },
+  {
+   "fact": "接着是气味：茉莉，略微不对劲；是浓缩香水而非鲜花的那种淡香",
+   "anchor": "The smell came next: jasmine, slightly off. A concentrated perfume rather than the light scent of fresh flowers.",
+   "start": 2083,
+   "end": 2195,
+   "line": 33
+  },
+  {
+   "fact": "楼下的动静引开她：一个人的轮廓——与其说有形不如说一层薄纱般的黑色模糊——从楼梯底滑进餐室、消失",
+   "anchor": "more a gauzy, black blur than anything—glided from the bottom of the stairs into the dining room, out of sight",
+   "start": 2256,
+   "end": 2366,
+   "line": 33
+  },
+  {
+   "fact": "只剩一条长而沉的裙摆最轻微的一声窸窣",
+   "anchor": "All that remained was the faintest swish of a long, heavy skirt.",
+   "start": 2368,
+   "end": 2432,
+   "line": 33
+  },
+  {
+   "fact": "她本能地知道有东西不对劲：那影子既不是 Gazzie 也不是 Virginia 姨妈",
+   "anchor": "I knew, instinctually, that something was wrong, that this figure wasn’t Gazzie or Aunt Virginia.",
+   "start": 2433,
+   "end": 2530,
+   "line": 33
+  },
+  {
+   "fact": "她的第一个解释是有人闯进屋",
+   "anchor": "Someone must have broken into the house.",
+   "start": 2533,
+   "end": 2573,
+   "line": 36
+  },
+  {
+   "fact": "她死攥扶手、手忽然出汗，喊救救命",
+   "anchor": "Clinging to the banister, hands suddenly slick with sweat, I screamed for help.",
+   "start": 2576,
+   "end": 2655,
+   "line": 39
+  },
+  {
+   "fact": "Virginia 应声「Dart?」从餐室冲进门厅，前后不到十五秒",
+   "anchor": "rushing from the dining room into the entryway no more than fifteen seconds later",
+   "start": 2688,
+   "end": 2769,
+   "line": 42
+  },
+  {
+   "fact": "前门透进的微光里她已能判断是清晨；Virginia 的白发发亮，她几乎瘫软在地",
+   "anchor": "I nearly crumpled to the floor with relief.",
+   "start": 2903,
+   "end": 2946,
+   "line": 45
+  },
+  {
+   "fact": "一个她从未见过的女人出现在她身后，越过她的肩张望",
+   "anchor": "A woman I’d never met appeared behind her, peering over her shoulder.",
+   "start": 2947,
+   "end": 3016,
+   "line": 45
+  },
+  {
+   "fact": "Virginia 回头介绍：这是 Lena；见她一脸茫然又补一句「她是开保洁公司的？」",
+   "anchor": "“She owns the cleaning service?”",
+   "start": 3114,
+   "end": 3146,
+   "line": 48
+  },
+  {
+   "fact": "她尴尬地答「对」，自问刚才看到的是不是她——不是，那人穿大红 polo，再暗也该注意到",
+   "anchor": "Had she been the woman I’d seen? No. She was wearing a bright red polo shirt; I would have noticed that, even in the dim light.",
+   "start": 3179,
+   "end": 3306,
+   "line": 51
+  },
+  {
+   "fact": "她忙问你们团队还有别的人在吗",
+   "anchor": "Is someone else from your team here? I thought I saw someone.",
+   "start": 3335,
+   "end": 3396,
+   "line": 51
+  },
+  {
+   "fact": "两个女人都摇头；Virginia 低声把 Lena 遣开，再转回来时目光落在她身后某处",
+   "anchor": "Aunt Virginia quietly turned to Lena and excused her. Then she turned my way again, eyes settling on something behind me.",
+   "start": 3430,
+   "end": 3551,
+   "line": 54
+  },
+  {
+   "fact": "她猛转身、双手抬起挡开逼近的东西",
+   "anchor": "I whirled around, hands raised to fend off whatever approached.",
+   "start": 3552,
+   "end": 3615,
+   "line": 54
+  },
+  {
+   "fact": "来人是 Harrison：头发微乱、脸颊发红、光着上身",
+   "anchor": "It was Harrison, his hair slightly tousled, cheeks pink. Shirtless.",
+   "start": 3618,
+   "end": 3685,
+   "line": 57
+  },
+  {
+   "fact": "她不由自主注意到他宽肩、一线金色体毛顺着肚子垂进一条印满松鼠的睡裤",
+   "anchor": "the line of golden hair trailing down his stomach and into a pair of long pajama bottoms dotted with squirrels",
+   "start": 3743,
+   "end": 3853,
+   "line": 57
+  },
+  {
+   "fact": "他的皮肤光滑古铜，像冲浪板广告模特",
+   "anchor": "His skin was smooth and bronze, like a surfboard model’s.",
+   "start": 3855,
+   "end": 3912,
+   "line": 57
+  },
+  {
+   "fact": "她移开视线、双臂交叉抱在 T 恤前，骂自己没顺手套件内衣",
+   "anchor": "cursing myself for not throwing on a bra",
+   "start": 3968,
+   "end": 4008,
+   "line": 60
+  },
+  {
+   "fact": "「我有时住那间空房」他语气随意，却设法显得有点得意；「深夜回来的时候」",
+   "anchor": "“I stay in the spare room sometimes,” he said casually, managing to look slightly triumphant.",
+   "start": 4039,
+   "end": 4132,
+   "line": 63
+  },
+  {
+   "fact": "「深夜在干什么？」她呛回去；她的恐惧似乎把火气烧得更旺",
+   "anchor": "My fear seemed to stoke my annoyance.",
+   "start": 4193,
+   "end": 4230,
+   "line": 66
+  },
+  {
+   "fact": "「查账」「复盘季度目标」「Gazzie 总会不由分说灌我些威士忌——你懂她的」；顿了顿：「其实我猜你不懂」",
+   "anchor": "“Actually, I guess you don’t.”",
+   "start": 4406,
+   "end": 4436,
+   "line": 69
+  },
+  {
+   "fact": "心往下沉，她想起几天前那个男人的声音；当然，Harrison 八成常年住在 Greer House",
+   "anchor": "Heart sinking, I remembered the man’s voice from a few nights before. Of course. Harrison probably stayed in Greer House all the time.",
+   "start": 4439,
+   "end": 4573,
+   "line": 72
+  },
+  {
+   "fact": "他与 Gazzie 的关系远不止雇佣，几乎是家人；一句独立成段：替代孙子",
+   "anchor": "A surrogate grandson.",
+   "start": 4666,
+   "end": 4687,
+   "line": 75
+  },
+  {
+   "fact": "她独自陪母亲这些年，这男人一路钻进了祖母的心；难怪她想让他继承",
+   "anchor": "this man had been worming his way into my grandmother’s heart. No wonder she wanted him to inherit.",
+   "start": 4737,
+   "end": 4836,
+   "line": 78
+  },
+  {
+   "fact": "Virginia 从楼下问：你确定刚才看见的不是 Lena？",
+   "anchor": "“You’re sure you didn’t just see Lena?”",
+   "start": 4839,
+   "end": 4878,
+   "line": 81
+  },
+  {
+   "fact": "她咽下疼痛的刺，回到眼前的问题：不是；那人穿深色，也许是条长裙",
+   "anchor": "Swallowing the sting of pain, I refocused on the problem at hand.",
+   "start": 4903,
+   "end": 4968,
+   "line": 84
+  },
+  {
+   "fact": "「会不会是场噩梦？」她摇头",
+   "anchor": "“Could it have been a bad dream?”",
+   "start": 5062,
+   "end": 5095,
+   "line": 87
+  },
+  {
+   "fact": "她摇头——否掉「会不会是场噩梦」这个解释",
+   "anchor": "I shook my head.",
+   "start": 5098,
+   "end": 5114,
+   "line": 90
+  },
+  {
+   "fact": "鸡皮疙瘩满臂、揉也压不住；嗡鸣已经安静下来",
+   "anchor": "Goosebumps covered my arms, refusing to subside as I rubbed them. The hum had quieted.",
+   "start": 5117,
+   "end": 5203,
+   "line": 93
+  },
+  {
+   "fact": "尽管 Virginia 的解释完全合理，她只在那嗡声之后遇到怪事",
+   "anchor": "Despite Aunt Virginia’s perfectly reasonable explanation, I only ever heard it before something odd happened.",
+   "start": 5204,
+   "end": 5313,
+   "line": 93
+  },
+  {
+   "fact": "她本想接受别的解释，但这是她在 Greer House 第二次见到无法解释的人——比浴水里变形的倒影难打发得多",
+   "anchor": "this was the second time I’d seen an inexplicable person in Greer House, and it was more difficult to explain away than a distorted reflection in bathwater.",
+   "start": 5363,
+   "end": 5519,
+   "line": 93
+  },
+  {
+   "fact": "「胡说」Gazzie 的声音从 Harrison 与她身后传来；随后是人本人，头发用惯常的银色抓夹拢起",
+   "anchor": "“Bull,” came Gazzie’s voice from behind Harrison and me, shortly followed by the woman herself, hair pulled back with its usual silver claw.",
+   "start": 5522,
+   "end": 5662,
+   "line": 96
+  },
+  {
+   "fact": "Virginia 瞪她：你给我闭嘴",
+   "anchor": "Aunt Virginia glared at her. “You be quiet.”",
+   "start": 5665,
+   "end": 5709,
+   "line": 99
+  },
+  {
+   "fact": "显然起早的 Gazzie 已穿戴整齐（而不是来看她）；若无其事、甚至轻快地绕开两人，轻盈下楼踱到前门，懒得解释",
+   "anchor": "Gazzie, apparently an early riser, had finished dressing for the day instead of checking on me.",
+   "start": 5712,
+   "end": 5807,
+   "line": 102
+  },
+  {
+   "fact": "她走后 Harrison 回客房，路上给她一个气人的从容耸肩；Virginia 拍响双手：索性早点出发",
+   "anchor": "giving me an infuriatingly calm shrug on the way—Aunt Virginia clapped her hands.",
+   "start": 6041,
+   "end": 6122,
+   "line": 105
+  },
+  {
+   "fact": "「好」她脑子飞转，需要先稳住自己：她在幻想、在出现幻觉——也许是卧室铅漆吸多了，或档案室的毒霉",
+   "anchor": "Maybe I’d accidentally inhaled lead paint in my bedroom? Or toxic mold in the file room?",
+   "start": 6262,
+   "end": 6350,
+   "line": 108
+  },
+  {
+   "fact": "Virginia 提议骑车去海边；语气近乎绝望，但 Dart 感激那份强撑的愉快",
+   "anchor": "Aunt Virginia’s tone edged on desperate, but I appreciated the attempt at cheerfulness.",
+   "start": 6387,
+   "end": 6474,
+   "line": 111
+  },
+  {
+   "fact": "她飞快答应，急于离开 Greer House 和潜伏在其中的一切古怪",
+   "anchor": "I agreed quickly, eager to leave Greer House and whatever peculiarities lurked within.",
+   "start": 6628,
+   "end": 6714,
+   "line": 114
+  }
+ ],
+ "relations": [
+  [
+   "梦呼应的传说：Ida 猎 Ironheart（ch05:135 起讲述）；与 ch14:66 她自我否定的 Ironheart 相隔一天",
+   "The dream had echoed Ida’s legendary hunt for Ironheart."
+  ],
+  [
+   "「几天前那个男人的声音」＝ch06:12 的同源记忆：`I thought I heard a man laughing, then sleepily decided I hadn’t; only women lived in Greer House.`",
+   "I remembered the man’s voice from a few nights before"
+  ],
+  [
+   "「第二次见到无法解释的人」的前一次＝ch09:36 浴水里的陌生女人（`Where my reflection should have been was a stranger`），且 ch09:30 同样是茉莉气味袭来",
+   "a distorted reflection in bathwater"
+  ],
+  [
+   "茉莉味与 ch09:30 的浴房同一种气味标记",
+   "The smell came next: jasmine, slightly off."
+  ],
+  [
+   "Lena 并非首次出场：ch05:189 Virginia 已说过 `Lena will collect it Tuesdays and Sundays`，ch05:192 Dart 追问过 `“Lena?”`",
+   "“Dart, this is Lena.”"
+  ],
+  [
+   "天花板那道裂缝与屋顶工：接 ch12:27 漏水、ch12:42 `Call the roofers… We’re under warranty`",
+   "the growing, roofer-resistant ceiling leak"
+  ],
+  [
+   "档案室毒霉接 ch12:39 霉味与 :156 `the mildew smell intensified`",
+   "Or toxic mold in the file room?"
+  ],
+  [
+   "「被吩咐看着她」接 ch12:147 `Don’t leave this building`＋ch12:31 Harrison 提议数字化档案",
+   "Gazzie had apparently ordered them to babysit me"
+  ]
+ ],
+ "numbers": {
+  "不超过二十分钟": "no more than twenty minutes alone at the farm",
+  "十五秒": "no more than fifteen seconds later",
+  "第二次": "the second time I’d seen an inexplicable person in Greer House",
+  "两只黄眼": "two yellow eyes glided toward me",
+  "一步又一步": "and I took one step into the water. Another.",
+  "几天前": "the man’s voice from a few nights before",
+  "周五傍晚": "our silent drive back to Greer House Friday evening",
+  "一条睡裤印松鼠": "pajama bottoms dotted with squirrels"
+ }
+}
