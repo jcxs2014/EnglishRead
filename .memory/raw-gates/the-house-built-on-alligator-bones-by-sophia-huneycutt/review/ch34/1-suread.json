@@ -1,0 +1,200 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch34",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch34_chapter_thirty_three.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "Harrison 准八点半上门",
+   "anchor": "Harrison knocked on the front door at eight thirty on the dot.",
+   "start": 20,
+   "end": 82,
+   "line": 9
+  },
+  {
+   "fact": "Gazzie 教找超自然踪迹",
+   "anchor": "walking on its hind legs",
+   "start": 332,
+   "end": 356,
+   "line": 12
+  },
+  {
+   "fact": "Harrison 问若是人怎么办",
+   "anchor": "And if there’s a person?",
+   "start": 1273,
+   "end": 1297,
+   "line": 21
+  },
+  {
+   "fact": "应对指令：对质、问名、报警",
+   "anchor": "Confront them, get their name, call the police.",
+   "start": 1573,
+   "end": 1620,
+   "line": 27
+  },
+  {
+   "fact": "「别乱来」后回 Greer House",
+   "anchor": "no funny business",
+   "start": 1937,
+   "end": 1954,
+   "line": 33
+  },
+  {
+   "fact": "广播预告热带风暴概率上升",
+   "anchor": "increasing chances of a tropical storm the following weekend",
+   "start": 2405,
+   "end": 2465,
+   "line": 45
+  },
+  {
+   "fact": "Harrison 自述童年 OCD 与治疗",
+   "anchor": "They diagnosed me with OCD.",
+   "start": 3860,
+   "end": 3887,
+   "line": 84
+  },
+  {
+   "fact": "父亲去世五年、大四那年",
+   "anchor": "It’s been five years. Happened my senior year of college.",
+   "start": 4493,
+   "end": 4550,
+   "line": 108
+  },
+  {
+   "fact": "绿灯提醒打破暧昧",
+   "anchor": "“It’s green,” I said, pointing to the traffic light.",
+   "start": 5045,
+   "end": 5097,
+   "line": 129
+  },
+  {
+   "fact": "SUV 驶入沟里藏车、手扶她大腿",
+   "anchor": "placing it bracingly on my thigh",
+   "start": 5980,
+   "end": 6012,
+   "line": 162
+  },
+  {
+   "fact": "弃车徒步北上",
+   "anchor": "Throwing the SUV into park, he said",
+   "start": 6272,
+   "end": 6307,
+   "line": 171
+  },
+  {
+   "fact": "爬上瞭望塔进观察室",
+   "anchor": "is where we’ll be",
+   "start": 8212,
+   "end": 8229,
+   "line": 201
+  },
+  {
+   "fact": "长凳吃饼干（实为买的）",
+   "anchor": "definitely store-bought",
+   "start": 9890,
+   "end": 9913,
+   "line": 255
+  },
+  {
+   "fact": "Harrison 称前几天之吻并非有意",
+   "anchor": "I didn’t mean to kiss you the other day",
+   "start": 10425,
+   "end": 10464,
+   "line": 276
+  },
+  {
+   "fact": "夸她最有决心",
+   "anchor": "You’re the most determined person I’ve ever met.",
+   "start": 11703,
+   "end": 11751,
+   "line": 297
+  },
+  {
+   "fact": "说自己不会留在农场",
+   "anchor": "I won’t stay here. I can’t.",
+   "start": 12488,
+   "end": 12515,
+   "line": 312
+  },
+  {
+   "fact": "她主动触碰下巴、接吻",
+   "anchor": "Reaching out, I tentatively touched his chin.",
+   "start": 13997,
+   "end": 14042,
+   "line": 342
+  },
+  {
+   "fact": "因心脏问题他在上位、做爱",
+   "anchor": "he’d have to be on top because of my heart",
+   "start": 15730,
+   "end": 15772,
+   "line": 381
+  },
+  {
+   "fact": "本想保持警戒却睡着",
+   "anchor": "But, of course, I fell asleep.",
+   "start": 16792,
+   "end": 16822,
+   "line": 408
+  }
+ ],
+ "relations": [
+  [
+   "我↔Harrison：监视搭档渐成恋人",
+   "Reaching out, I tentatively touched his chin.",
+   "L342"
+  ],
+  [
+   "我↔Gazzie：祖母/雇主",
+   "grandmotherly",
+   "L240"
+  ],
+  [
+   "我↔Ida：家人、已死幽灵；那夜亲眼见过",
+   "I’d seen Ida that night in my room",
+   "L15"
+  ],
+  [
+   "Harrison↔Gazzie：雇佣关系（出车）",
+   "SUV",
+   "L12"
+  ],
+  [
+   "Harrison↔其父：已故五年",
+   "five years",
+   "L108"
+  ],
+  [
+   "Harrison↔其母：OCD 起因",
+   "mother",
+   "L84"
+  ]
+ ],
+ "numbers": [
+  [
+   "八点半",
+   "eight thirty",
+   "L9"
+  ],
+  [
+   "父亲去世五年、大四",
+   "five years",
+   "L108"
+  ],
+  [
+   "年龄问答 26/25/30/32",
+   "Twenty-five",
+   "L114"
+  ],
+  [
+   "瞭望塔首层离地十二英尺",
+   "twelve feet off the ground",
+   "L189"
+  ],
+  [
+   "观察室约十乘十英尺",
+   "ten by ten feet",
+   "L204"
+  ]
+ ]
+}
