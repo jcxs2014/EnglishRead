@@ -79,7 +79,7 @@ chapter_num: 63
 
 **关键词**：`looks like`——Matt 和 Archer 的 connection
 
-**为什么这样写**：Matt and Archer share this emotional moment—they're not biologically related but feel like family。
+**为什么这样写**：Matt 和 Archer 共享这一刻的情绪——两人没有血缘，却像一家人。
 
 ---
 

@@ -23,7 +23,7 @@ modified: "2026-10-17"
 
 > "I can do this. But a nugget of doubt lodged in the pit of my stomach."
 
-**中文理解**："I can do this. But a nugget of doubt lodged in the pit of my stomach。"
+**中文理解**："我能做成这件事。可有一丝疑虑卡在我的胃底。"
 
 **关键词**：I can do this（I can do this）/ But a nugget of doubt（But a nugget of doubt）/ lodged in the pit of my stomach（lodged in the pit of my stomach）
 
@@ -35,7 +35,7 @@ modified: "2026-10-17"
 
 > "Steeled with outrage, I swung the door open."
 
-**中文理解**："Steeled with outrage, I swung the door open。"
+**中文理解**："我因愤怒而硬起心肠，一把推开了门。"
 
 **关键词**：Steeled with outrage（Steeled with outrage）/ I swung the door open（I swung the door open）
 
@@ -47,7 +47,7 @@ modified: "2026-10-17"
 
 > "Who between us is sick?"
 
-**中文理解**："Who between us is sick?"
+**中文理解**："我们俩到底谁有病？"
 
 **关键词**：Who between us（Who between us）/ is sick（is sick）
 
@@ -59,7 +59,7 @@ modified: "2026-10-17"
 
 > "He'd fucked with the wrong woman."
 
-**中文理解**："He'd fucked with the wrong woman。"
+**中文理解**："他惹错了女人。"
 
 **关键词**：He'd fucked with（He'd fucked with）/ the wrong woman（the wrong woman）
 

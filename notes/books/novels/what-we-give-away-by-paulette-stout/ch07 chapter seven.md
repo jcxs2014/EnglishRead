@@ -41,7 +41,7 @@ modified: "2026-10-17"
 
 **为什么这样写**："nonexistent support"将 Leslie 的态度定义为"zero"而非"insufficient"——不是"she didn't support enough" but "she didn't support at all"。"spoke volumes"用" volumes"（音量）来定义 Leslie's silence——不是"she said nothing" but "her silence said everything"。这种"silence-as-communication"修辞是 Risto's breakup justification: Leslie's "nonsensical excuses" (avoiding restaurant) and "moping" (not engaging) are interpreted as "nonexistent support" rather than "different relationship to food".
 
-**读者视角提示**：Risto's "nonexistent support" is actually a misreading of Leslie's food anxiety. Leslie's "avoiding restaurant" is not "rejecting Risto's career" but "avoiding food temptation" (anti-diet theme). Risto's "nonexistent support" interpretation reveals the romance genre's "misunderstanding": both partners interpret the other's behavior through their own lens (Risto through "career", Leslie through "food anxiety").
+**读者视角提示**：Risto 眼中的"毫无支持"其实是对 Leslie 食物焦虑的误读。Leslie 的"回避餐厅"不是"否定 Risto 的事业"，而是"回避食物的诱惑"（反节食主题）。Risto 把这一切解读为"毫无支持"，恰恰暴露了言情类型惯用的"误会"机制：两个人都用自己的视角去诠释对方的行为（Risto 透过"事业"，Leslie 透过"食物焦虑"）。
 
 ---
 

@@ -46,7 +46,7 @@ chapter_num: 60
 
 **关键词**：`good girl`——Freddy 的 positive reinforcement
 
-**为什么这样写**：Freddy praising Ro for saying "suck your cock"。This is their sexual dynamic——he praises her for being open about her desires。
+**为什么这样写**：Freddy 在夸 Ro 说出 "suck your cock" 这句话。这是两人之间的情欲互动方式——他夸她坦白自己的欲望。
 
 ---
 
@@ -57,7 +57,7 @@ chapter_num: 60
 
 **关键词**：`first kiss`——Freddy 得知自己是 Ro 的初吻
 
-**为什么这样写**：Freddy is excited to learn he was Ro's first kiss——"like winning the lottery"。
+**为什么这样写**：Freddy 得知自己是 Ro 的初吻时很兴奋——"像中了彩票"。
 
 ---
 

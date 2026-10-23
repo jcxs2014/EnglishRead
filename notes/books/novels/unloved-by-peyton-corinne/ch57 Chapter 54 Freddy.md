@@ -46,7 +46,7 @@ chapter_num: 57
 
 **关键词**：`reputation`——Ro 对 Matt 的 reputation 不屑一顾
 
-**为什么这样写**：Matt worried about his reputation affecting Ro。Ro dismissed it completely——she only cares about who he is。
+**为什么这样写**：Matt 担心自己的名声会连累 Ro。Ro 完全不吃这一套——她只看重他这个人。
 
 ---
 

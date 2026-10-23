@@ -41,7 +41,7 @@ modified: "2026-10-17"
 
 **为什么这样写**："I'd be lying if I said..."是 Risto's confession——not "I admit" but "I'd be lying if I denied"，这种 "negative confession" 修辞将 truth 定义为 "inevitable"——not "I choose to tell" but "I can't not tell"。"had nothing to do with"将 Leslie's proximity 定义为 "factor"——not "the only reason" but "a contributing factor"。"getting closer to Leslie"将 career expansion 定义为 "proximity strategy"——not "career move" but "relationship strategy"。This confession is the romance arc's turning point: Risto explicitly links career ambition to romantic desire.
 
-**读者视角提示**：Risto's confession is the chapter's climax and the romance arc's pivot—career expansion is no longer "professional ambition" but "proximity to Leslie"。This "career-as-proximity" reveals Risto's true motivation: not "success" but "Leslie"。The romance arc now moves from "mutual longing without action" to "action motivated by longing"。
+**读者视角提示**：Risto 的这番坦白是本章的高潮，也是感情线的转折点——扩张事业不再出于"职业抱负"，而是为了"靠近 Leslie"。这种"以事业换靠近"揭示了 Risto 的真实动机：不是"成功"，而是"Leslie"。感情线至此从"彼此渴望却按兵不动"转向"因渴望而行动"。
 
 ---
 

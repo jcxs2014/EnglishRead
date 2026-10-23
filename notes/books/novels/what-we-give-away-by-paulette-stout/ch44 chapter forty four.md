@@ -23,7 +23,7 @@ modified: "2026-10-17"
 
 > "That fake protest wasn't even close."
 
-**中文理解**："That fake protest wasn't even close。"
+**中文理解**："那场假抗议根本演得不像。"
 
 **关键词**：That fake protest（That fake protest）/ wasn't even close（wasn't even close）
 
@@ -35,7 +35,7 @@ modified: "2026-10-17"
 
 > "Why do people diet?"
 
-**中文理解**："Why do people diet?"
+**中文理解**："人们为什么要节食？"
 
 **关键词**：Why do people diet（Why do people diet）
 
@@ -47,7 +47,7 @@ modified: "2026-10-17"
 
 > "If, ultimately, we're concerned with health and longevity, then our focus on dieting moves us farther away from our goal."
 
-**中文理解**："If, ultimately, we're concerned with health and longevity, then our focus on dieting moves us farther away from our goal。"
+**中文理解**："如果我们归根结底关心的是健康与长寿，那么把注意力放在节食上，只会让我们离这个目标更远。"
 
 **关键词**：If, ultimately（If, ultimately）/ we're concerned with health and longevity（we're concerned with health and longevity）/ our focus on dieting moves us farther away（our focus on dieting moves us farther away）/ from our goal（from our goal）
 
@@ -59,7 +59,7 @@ modified: "2026-10-17"
 
 > "That makes a lot of sense."
 
-**中文理解**："That makes a lot of sense。"
+**中文理解**："这话非常有道理。"
 
 **关键词**：That makes a lot of sense（That makes a lot of sense）
 

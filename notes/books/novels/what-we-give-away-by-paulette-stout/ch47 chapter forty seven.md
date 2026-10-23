@@ -23,7 +23,7 @@ modified: "2026-10-17"
 
 > "I was grateful to be me."
 
-**中文理解**："I was grateful to be me。"
+**中文理解**："我为自己是我而心怀感激。"
 
 **关键词**：I was grateful（I was grateful）/ to be me（to be me）
 
@@ -35,7 +35,7 @@ modified: "2026-10-17"
 
 > "Sometimes, silence spoke louder."
 
-**中文理解**："Sometimes, silence spoke louder。"
+**中文理解**："有时候，沉默说得更响。"
 
 **关键词**：Sometimes（Sometimes）/ silence spoke louder（silence spoke louder）
 
@@ -47,7 +47,7 @@ modified: "2026-10-17"
 
 > "I was grateful for my life with Risto."
 
-**中文理解**："I was grateful for my life with Risto。"
+**中文理解**："我为自己与 Risto 共度的生活心怀感激。"
 
 **关键词**：I was grateful for（I was grateful for）/ my life with Risto（my life with Risto）
 
@@ -59,7 +59,7 @@ modified: "2026-10-17"
 
 > "I was grateful to be well, something that never would have happened without Dot first opening my eyes."
 
-**中文理解**："I was grateful to be well, something that never would have happened without Dot first opening my eyes。"
+**中文理解**："我为自己恢复健康而心怀感激——若不是 Dot 最初让我睁开眼，这永远不会发生。"
 
 **关键词**：I was grateful to be well（I was grateful to be well）/ something that never would have happened without Dot（something that never would have happened without Dot）
 

@@ -23,7 +23,7 @@ modified: "2026-10-17"
 
 > "Old me would have turtled in shame."
 
-**中文理解**："Old me would have turtled in shame。"
+**中文理解**："过去的我会羞愧得缩成一团。"
 
 **关键词**：Old me（Old me）/ would have turtled（would have turtled）/ in shame（in shame）
 
@@ -35,7 +35,7 @@ modified: "2026-10-17"
 
 > "You deserve your own show."
 
-**中文理解**："You deserve your own show。"
+**中文理解**："你该有属于自己的一档节目。"
 
 **关键词**：You deserve（You deserve）/ your own show（your own show）
 
@@ -47,7 +47,7 @@ modified: "2026-10-17"
 
 > "¡Sueña en grande!"
 
-**中文理解**："Dream big!"
+**中文理解**："志向要大！"
 
 **关键词**：¡Sueña en grande!（Dream big!）
 
@@ -59,7 +59,7 @@ modified: "2026-10-17"
 
 > "When the time came for my battle with Mr. Reed, I'd be ready."
 
-**中文理解**："When the time came for my battle with Mr. Reed, I'd be ready。"
+**中文理解**："等到我与 Mr. Reed 交手的那一天，我会准备好的。"
 
 **关键词**：When the time came（When the time came）/ my battle（my battle）/ I'd be ready（I'd be ready）
 

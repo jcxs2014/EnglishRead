@@ -23,7 +23,7 @@ modified: "2026-10-17"
 
 > "We've all been fed a steady diet of lies."
 
-**中文理解**："We've all been fed a steady diet of lies。"
+**中文理解**："我们所有人一直被日复一日地喂着谎言的食谱。"
 
 **关键词**：We've all been fed（We've all been fed）/ a steady diet of lies（a steady diet of lies）
 
@@ -35,7 +35,7 @@ modified: "2026-10-17"
 
 > "Old me was unrecognizable. Alone. Angry. Afraid. And very, very hungry."
 
-**中文理解**："Old me was unrecognizable. Alone. Angry. Afraid. And very, very hungry。"
+**中文理解**："过去的我已经面目全非。孤独。愤怒。恐惧。而且非常、非常饿。"
 
 **关键词**：Old me was unrecognizable（Old me was unrecognizable）/ Alone（Alone）/ Angry（Angry）/ Afraid（Afraid）/ And very, very hungry（And very, very hungry）
 
@@ -47,7 +47,7 @@ modified: "2026-10-17"
 
 > "I have everything I need right here."
 
-**中文理解**："I have everything I need right here。"
+**中文理解**："我所需要的一切，就在这里。"
 
 **关键词**：I have everything I need（I have everything I need）/ right here（right here）
 
@@ -59,7 +59,7 @@ modified: "2026-10-17"
 
 > "That's not even funny. Now get dressed. You're the featured attraction at an event in your honor. Boricua 2 awaits its famous chef!"
 
-**中文理解**："That's not even funny. Now get dressed. You're the featured attraction at an event in your honor. Boricua 2 awaits its famous chef!"
+**中文理解**："这根本不好笑。现在去穿衣服。这场为你举办的活动，你才是主角。Boricua 2 正等着它那位名厨呢！"
 
 **关键词**：That's not even funny（That's not even funny）/ get dressed（get dressed）/ featured attraction（featured attraction）/ Boricua 2 awaits its famous chef（Boricua 2 awaits its famous chef）
 

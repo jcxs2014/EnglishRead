@@ -47,7 +47,7 @@ modified: "2026-10-17"
 
 > "I didn't have to choose."
 
-**中文理解**："I didn't have to choose。"
+**中文理解**："我不必做出选择。"
 
 **关键词**：I didn't have to choose（I didn't have to choose）
 
@@ -59,7 +59,7 @@ modified: "2026-10-17"
 
 > "All of me would go into this restaurant."
 
-**中文理解**："All of me would go into this restaurant。"
+**中文理解**："我的全部都会投入到这家餐厅里。"
 
 **关键词**：All of me（All of me）/ would go into this restaurant（would go into this restaurant）
 

@@ -23,7 +23,7 @@ modified: "2026-10-17"
 
 > "My wife."
 
-**中文理解**："My wife。"
+**中文理解**："我的妻子。"
 
 **关键词**：My wife（My wife）
 
@@ -35,7 +35,7 @@ modified: "2026-10-17"
 
 > "I'd dreamed about it for years."
 
-**中文理解**："I'd dreamed about it for years。"
+**中文理解**："这件事我梦想了好多年。"
 
 **关键词**：I'd dreamed about it（I'd dreamed about it）/ for years（for years）
 
@@ -47,7 +47,7 @@ modified: "2026-10-17"
 
 > "young me, an orphan with dreams."
 
-**中文理解**："young me, an orphan with dreams。"
+**中文理解**："年轻时的我，一个怀揣梦想的孤儿。"
 
 **关键词**：young me（young me）/ an orphan（an orphan）/ with dreams（with dreams）
 
@@ -59,7 +59,7 @@ modified: "2026-10-17"
 
 > "You deserve it, and more."
 
-**中文理解**："You deserve it, and more。"
+**中文理解**："这是你应得的，而且远不止于此。"
 
 **关键词**：You deserve it（You deserve it）/ and more（and more）
 

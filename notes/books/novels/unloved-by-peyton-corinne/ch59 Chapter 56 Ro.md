@@ -68,7 +68,7 @@ chapter_num: 59
 
 **关键词**：`she was thinking about me`——Matt 对 Tyler 的最后一击
 
-**为什么这样写**：Matt uses Tyler's own revelation against him——he turns it into a compliment to Ro and a dig at Tyler。
+**为什么这样写**：Matt 拿 Tyler 自己抖出的内幕反将一军——他把这话变成对 Ro 的称赞，也变成刺向 Tyler 的一刀。
 
 ---
 

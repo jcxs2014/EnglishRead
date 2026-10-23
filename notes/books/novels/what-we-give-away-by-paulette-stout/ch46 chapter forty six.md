@@ -23,7 +23,7 @@ modified: "2026-10-17"
 
 > "I love New York."
 
-**中文理解**："I love New York。"
+**中文理解**："我爱 New York。"
 
 **关键词**：I love New York（I love New York）
 
@@ -35,7 +35,7 @@ modified: "2026-10-17"
 
 > "You did it. This is all yours, and I couldn't be more proud."
 
-**中文理解**："You did it. This is all yours, and I couldn't be more proud。"
+**中文理解**："你做到了。这一切都是你的，我为你骄傲到无以复加。"
 
 **关键词**：You did it（You did it）/ This is all yours（This is all yours）/ I couldn't be more proud（I couldn't be more proud）
 
@@ -47,7 +47,7 @@ modified: "2026-10-17"
 
 > "This is yours too. Be proud. Both of you. You are as much the heart of Boricua as I am."
 
-**中文理解**："This is yours too. Be proud. Both of you. You are as much the heart of Boricua as I am。"
+**中文理解**："这也是你的。要骄傲。你们俩都是。你们和我一样，都是 Boricua 的心脏。"
 
 **关键词**：This is yours too（This is yours too）/ Be proud（Be proud）/ You are as much the heart of Boricua as I am（You are as much the heart of Boricua as I am）
 
@@ -59,7 +59,7 @@ modified: "2026-10-17"
 
 > "To Boricua!"
 
-**中文理解**："To Boricua!"
+**中文理解**："敬 Boricua！"
 
 **关键词**：To Boricua（To Boricua）
 

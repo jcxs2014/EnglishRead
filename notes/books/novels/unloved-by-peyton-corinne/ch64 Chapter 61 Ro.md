@@ -46,7 +46,7 @@ chapter_num: 64
 
 **关键词**：`thankful`——Ro 的 gratitude
 
-**为什么这样写**：Ro grateful for all the changes in her life。Her growth from misery to happiness。
+**为什么这样写**：Ro 对生活里所有的改变心怀感激。她一路从痛苦走到幸福——这就是她的成长。
 
 ---
 

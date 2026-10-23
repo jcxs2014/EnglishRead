@@ -35,7 +35,7 @@ chapter_num: 65
 
 **关键词**：`last name`——Matt 随了 Ro 的姓氏 Shariff
 
-**为什么这样写**：Matt took Ro's last name——shed the Fredderic name with its haunted memories。He wanted to be a Shariff。
+**为什么这样写**：Matt 婚后改随了 Ro 的姓——他要卸下 Fredderic 这个带着噩梦记忆的姓氏。他想成为 Shariff 家的人。
 
 ---
 
