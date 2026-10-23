@@ -1,0 +1,686 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch17",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch17_chapter_sixteen.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "周日午后：Mama 的宝丽来照片没能喂饱她对舅舅 Leon 的好奇，也还没撞见 Gazzie",
+   "anchor": "By Sunday afternoon, Mama’s Polaroid photos hadn’t sated my curiosity about Uncle Leon, and I still hadn’t run into Gazzie.",
+   "start": 15,
+   "end": 138,
+   "line": 9
+  },
+  {
+   "fact": "又一次没能问成 Virginia 之后，她自认别无选择，只能翻查",
+   "anchor": "After another failed attempt to ask Aunt Virginia about him, I had no choice but to snoop.",
+   "start": 139,
+   "end": 229,
+   "line": 9
+  },
+  {
+   "fact": "她的推理：Mama 的房里留有她的痕迹，Leon 的卧室想必也会露出点什么",
+   "anchor": "Mama’s room held hints of her; surely Uncle Leon’s bedroom would reveal something of him, too.",
+   "start": 230,
+   "end": 324,
+   "line": 9
+  },
+  {
+   "fact": "她认定走廊对面两间空房之一是他的",
+   "anchor": "One of the two spare rooms across the hall must have been his.",
+   "start": 325,
+   "end": 387,
+   "line": 9
+  },
+  {
+   "fact": "每回她动了溜进去的念头，Virginia 就出现——像对捣蛋有第六感",
+   "anchor": "Every time I thought about sneaking in, however, Aunt Virginia appeared, like she had a sixth sense for mischief.",
+   "start": 388,
+   "end": 501,
+   "line": 9
+  },
+  {
+   "fact": "Virginia 三连差事：过一遍下周午餐菜单、在客厅挂新窗帘、整理工具棚",
+   "anchor": "First, she wanted me to review the upcoming week’s lunch menu, then help her hang new curtains in the drawing room, then rearrange the toolshed.",
+   "start": 502,
+   "end": 646,
+   "line": 9
+  },
+  {
+   "fact": "当晚她在露台上画画时，Gazzie 在「Greer House 三人小群」里发消息说处理完差事会很晚回来",
+   "anchor": "as I sketched on the patio, Gazzie texted the three-person Greer House thread that she’d be back late from running errands.",
+   "start": 667,
+   "end": 790,
+   "line": 12
+  },
+  {
+   "fact": "片刻后 Virginia 从厨房窗户探出头，说她要去和 Henri 一起吃晚饭",
+   "anchor": "A moment later, Aunt Virginia popped her head out the kitchen window and said she’d be eating dinner with Henri.",
+   "start": 791,
+   "end": 903,
+   "line": 12
+  },
+  {
+   "fact": "「我可能明天早上才回来」她说得脸红——「只有一种情况下，即你一个人在 Gazzie 外出期间没问题」",
+   "anchor": "“And I may not be back until tomorrow morning,” she added with a blush, “if, and only if, you’ll be okay alone while Gazzie’s out.”",
+   "start": 906,
+   "end": 1037,
+   "line": 15
+  },
+  {
+   "fact": "「我会没事的」她保证着合上速写本",
+   "anchor": "“I’ll be fine,” I assured her, shutting my sketchbook.",
+   "start": 1040,
+   "end": 1094,
+   "line": 18
+  },
+  {
+   "fact": "十分钟后门一关，Greer House 的声响全开：地板吱响、水管震颤；她一概不理、轰隆上楼",
+   "anchor": "As soon as I clicked the front door shut behind her ten minutes later, the sounds of Greer House kicked off: floorboards creaking, pipes shuddering. I ignored them all and thundered up the stairs.",
+   "start": 1097,
+   "end": 1293,
+   "line": 21
+  },
+  {
+   "fact": "先试离 Gazzie 办公室最近的那间客房：把手立刻开了，藏蓝房间、端正的铁床",
+   "anchor": "First, I tried the guest room closest to Gazzie’s office. The handle gave immediately, and I stepped into a navy room with a prim iron bed.",
+   "start": 1296,
+   "end": 1435,
+   "line": 24
+  },
+  {
+   "fact": "椅上一件 T 恤、壁橱旁洗衣筐里堆着更皱的衣服；床没铺、白被单甩得到处都是；床头柜上一本平装书",
+   "anchor": "A T-shirt lay on a bedside chair, more wrinkled clothes piled in a laundry basket by the closet. The bed was unmade, white covers thrown this way and that, and a paperback lay on the nightstand.",
+   "start": 1436,
+   "end": 1630,
+   "line": 24
+  },
+  {
+   "fact": "一句话独立成段：Harrison 就住这儿",
+   "anchor": "This was where Harrison stayed.",
+   "start": 1633,
+   "end": 1664,
+   "line": 27
+  },
+  {
+   "fact": "他东西极少，却不妨碍她翻找黄物、一块可卡因——任何能败坏他在 Gazzie 眼中形象的东西",
+   "anchor": "He’d stored few belongings in the room, but that didn’t stop me from searching for a porn stash, a block of cocaine—anything that might taint Gazzie’s view of him.",
+   "start": 1667,
+   "end": 1830,
+   "line": 30
+  },
+  {
+   "fact": "抽屉与壁橱里全是皱衣服；床头柜只有耳塞和眼罩",
+   "anchor": "Rumpled clothes filled the dresser drawers and closet. The nightstand contained only earplugs and an eye mask",
+   "start": 1831,
+   "end": 1940,
+   "line": 30
+  },
+  {
+   "fact": "她拿起那本平装书（Jo Nesbø 的《The Son》），一张照片掉了出来",
+   "anchor": "but when I picked up the paperback, The Son by Jo Nesbø, a photograph fell out.",
+   "start": 1942,
+   "end": 2021,
+   "line": 30
+  },
+  {
+   "fact": "照片里一个小男孩——按那一头金棕卷发判断是 Harrison——和一位年长男人，presumably 是他父亲，各自举着钓到的鱼",
+   "anchor": "It was of a young boy—Harrison, given the golden-brown curls—and an older man, presumably his father, holding up their respective fish.",
+   "start": 2022,
+   "end": 2157,
+   "line": 30
+  },
+  {
+   "fact": "她把「书签」塞回去，拒绝被触动",
+   "anchor": "I stuffed the bookmark back in, refusing to be moved.",
+   "start": 2158,
+   "end": 2211,
+   "line": 30
+  },
+  {
+   "fact": "掀起 T 恤检查下面时闻到一股柔顺剂味和某种麝香；「也许是雪松」",
+   "anchor": "As I lifted the T-shirt from the chair to check underneath, I caught a whiff of dryer sheets and something musky. Cedar, maybe.",
+   "start": 2214,
+   "end": 2341,
+   "line": 33
+  },
+  {
+   "fact": "她把衣服按在鼻上深吸；能想象他光上身躺在床上、头发刚淋湿、一臂垫在脑后另一臂在肚子上平衡着书",
+   "anchor": "Pressing it to my nose, I breathed in deeper. I could picture him lying shirtless in bed, hair wet from a shower, one arm thrown behind his head as the other balanced the book on his stomach.",
+   "start": 2342,
+   "end": 2533,
+   "line": 33
+  },
+  {
+   "fact": "「他大概连独处都挂着那副得意的表情，这讨厌鬼。」",
+   "anchor": "He probably wore that smug expression even in private, the prick.",
+   "start": 2534,
+   "end": 2599,
+   "line": 33
+  },
+  {
+   "fact": "脸红得像撞见了他本人，她把衬衫扔回椅上",
+   "anchor": "Blushing like I’d just walked in on him, I threw the shirt back on the chair.",
+   "start": 2602,
+   "end": 2679,
+   "line": 36
+  },
+  {
+   "fact": "她必须在 Gazzie 看见并误会之前离开",
+   "anchor": "I had to leave before Gazzie saw me and got the wrong idea.",
+   "start": 2680,
+   "end": 2739,
+   "line": 36
+  },
+  {
+   "fact": "穿过后侧相连的浴室——与她那间同款，只是双大理石洗手台——伸手去够另一间空房的门把",
+   "anchor": "Slipping through the adjoining bathroom—a copy of mine, with two marble sinks instead of one—I reached for the doorknob to the other spare room.",
+   "start": 2742,
+   "end": 2886,
+   "line": 39
+  },
+  {
+   "fact": "一声嘶响她缩回手：门把冰冷；咬牙再抓、开了一条缝",
+   "anchor": "With a hiss, I drew back. The handle was freezing. Gritting my teeth, I grabbed it again and opened it a crack.",
+   "start": 2887,
+   "end": 2998,
+   "line": 39
+  },
+  {
+   "fact": "余光里有东西动了；回头看向 Harrison 的房，没人，但那房间凉了好几度",
+   "anchor": "In my peripheral vision, something moved. Releasing the doorknob, I looked behind me, into Harrison’s room. No one was there, though the room seemed several degrees cooler",
+   "start": 3001,
+   "end": 3172,
+   "line": 42
+  },
+  {
+   "fact": "空调的轰鸣之下她仍能听见 Greer House 的低嗡",
+   "anchor": "below the ACs’ roar, I could hear Greer House’s low hum. Dated electrical system, I reminded myself.",
+   "start": 3178,
+   "end": 3278,
+   "line": 42
+  },
+  {
+   "fact": "动的大概只是那扇在颤的浴室窗帘；她摇头关窗——这里的人爱开着窗，管它什么空调",
+   "anchor": "And the movement was probably just the bathroom window’s curtain, which I could now see was fluttering. Shaking my head, I shut the window. People loved to leave them open here, AC be damned.",
+   "start": 3279,
+   "end": 3470,
+   "line": 42
+  },
+  {
+   "fact": "独立成段：她身后，那扇开缝的门猛地关上",
+   "anchor": "Behind me, the cracked door to the other room slammed shut.",
+   "start": 3473,
+   "end": 3532,
+   "line": 45
+  },
+  {
+   "fact": "她猛地转身盯着门；第一个念头未经过滤、由「可能被逮住」的紧张推动：Ida 不想我进去",
+   "anchor": "Whirling around, I stared at it. My first thought was unfiltered, fueled by the stress of potentially getting caught: Ida doesn’t want me in there.",
+   "start": 3535,
+   "end": 3682,
+   "line": 48
+  },
+  {
+   "fact": "她摇头自我安抚：是 Greer House 的穿堂风——但她自己承认是不安地这么说的",
+   "anchor": "I shook my head. It was Greer House’s draft, I told myself uneasily.",
+   "start": 3685,
+   "end": 3753,
+   "line": 51
+  },
+  {
+   "fact": "鼓起勇气再抓门把推开门；极短一瞬她想象与楼下那个模糊影子面对面、落进一对漆黑无底的眼睛",
+   "anchor": "Steeling myself, I grabbed the handle again and pushed the door open. For the briefest moment, I imagined coming face-to-face with the blurry shape I’d seen downstairs, falling into a pair of black, depthless eyes.",
+   "start": 3756,
+   "end": 3970,
+   "line": 54
+  },
+  {
+   "fact": "松了口气：没人；但身体因一种有形的压力与更冷的风而瑟缩",
+   "anchor": "To my relief, no one stood in front of me, but my body cringed from a tangible sense of pressure and a gust of even cooler air.",
+   "start": 3973,
+   "end": 4100,
+   "line": 57
+  },
+  {
+   "fact": "这间比 Greer House 任何地方冷十倍——而这本身已经很说明问题",
+   "anchor": "It was ten times colder than anywhere else in Greer House, and that was saying something.",
+   "start": 4101,
+   "end": 4190,
+   "line": 57
+  },
+  {
+   "fact": "她退了步、考虑去拿卫衣，但 Gazzie 随时可能回来，必须抓紧",
+   "anchor": "I drew back, considered grabbing my sweatshirt, but Gazzie could return any minute. I had to hurry.",
+   "start": 4191,
+   "end": 4290,
+   "line": 57
+  },
+  {
+   "fact": "房间是 Mama 那间的一半大，两扇窗看后院、一扇看侧院；窗却和 Mama 的一样大，月光充足",
+   "anchor": "The room was half the size of Mama’s, with only two windows overlooking the backyard and one the side yard. They were huge, though, as big as Mama’s, and let plenty of moonlight in—enough for me to see everything.",
+   "start": 4293,
+   "end": 4506,
+   "line": 60
+  },
+  {
+   "fact": "一句反转：所谓「 everything 」其实是「nothing」",
+   "anchor": "And by everything, I mean nothing.",
+   "start": 4507,
+   "end": 4541,
+   "line": 60
+  },
+  {
+   "fact": "揉着手臂转了一整圈，眼睛逐处扫：房间被清空了",
+   "anchor": "Rubbing my arms, I turned in a full circle, eyes darting from spot to spot, but the room had been stripped bare.",
+   "start": 4544,
+   "end": 4656,
+   "line": 63
+  },
+  {
+   "fact": "铁架床没毯没枕；抽屉里唯一藏着的东西是灰",
+   "anchor": "The iron-framed bed had no blankets on it, no pillows. The only thing hiding in the dresser was dust.",
+   "start": 4657,
+   "end": 4758,
+   "line": 63
+  },
+  {
+   "fact": "尽管空——或正因为空——她认定这就是 Leon 的房；独立短句：他被抹掉了",
+   "anchor": "Despite its emptiness—or because of it—I knew it was Uncle Leon’s room. He’d been erased.",
+   "start": 4759,
+   "end": 4848,
+   "line": 63
+  },
+  {
+   "fact": "她敲着床架盘点解释：Gazzie 伤心到留不下他的东西；或者他出那桩神秘事故前就已搬走；两个都不像",
+   "anchor": "Tapping my fingers on the bedframe, I sifted through explanations: Gazzie could’ve been too sad to keep his things, or maybe he’d already moved out when he’d had his mysterious accident. Neither option felt convincing.",
+   "start": 4849,
+   "end": 5067,
+   "line": 63
+  },
+  {
+   "fact": "接着她瞥见一扇窄而关着的门下透出微弱的光",
+   "anchor": "Then my eyes caught a weak light underneath a narrow, closed door.",
+   "start": 5070,
+   "end": 5136,
+   "line": 66
+  },
+  {
+   "fact": "那是壁橱：一只被遗忘的灯泡照亮它唯一的住客——地上叠着三只箱子",
+   "anchor": "It was, I discovered, a closet. Inside, a single forgotten lightbulb lit its sole occupants: three boxes stacked on the floor.",
+   "start": 5139,
+   "end": 5265,
+   "line": 69
+  },
+  {
+   "fact": "最上面是鞋盒，装着几十张更多宝丽来",
+   "anchor": "The top one, a shoebox, held dozens more Polaroid photos.",
+   "start": 5266,
+   "end": 5323,
+   "line": 69
+  },
+  {
+   "fact": "第一张：Mama 细腿咧嘴笑，头发是 80 年代的蓬，配高腰 mom jeans",
+   "anchor": "Lifting the first, I found Mama skinny-legged and grinning, her hair in a 1980s fluff, complete with high-waisted mom jeans.",
+   "start": 5324,
+   "end": 5448,
+   "line": 69
+  },
+  {
+   "fact": "Mama 的胳膊搂着一个约小两岁、一身全黑的男孩；眼睛凸出；「他看着像病了。或者怕。」",
+   "anchor": "Her arm was slung around a boy about two years younger, dressed in all black. His eyes were bulbous. He looked sick. Or scared.",
+   "start": 5449,
+   "end": 5576,
+   "line": 69
+  },
+  {
+   "fact": "一股淡茉莉味飘来；走廊传来声音——低声嘟囔，像有人自言自语",
+   "anchor": "The faint scent of jasmine wafted toward me, and a sound drifted in from the hallway—a muttering, like someone talking to themselves.",
+   "start": 5579,
+   "end": 5712,
+   "line": 72
+  },
+  {
+   "fact": "同时太阳穴被割开般一痛；一出壁橱痛就消失",
+   "anchor": "At the same time, pain sliced through my temples. As soon as I stepped out of the closet, it disappeared.",
+   "start": 5713,
+   "end": 5818,
+   "line": 72
+  },
+  {
+   "fact": "她昏沉中等 Gazzie 进来，眼睛钉着卧室门；她没来，于是贴门听——走廊无声",
+   "anchor": "Disoriented, I waited for Gazzie to enter, my eyes fixed on the bedroom door. When she didn’t, I crept closer, pressing my ear to it, but the hall was silent.",
+   "start": 5819,
+   "end": 5977,
+   "line": 72
+  },
+  {
+   "fact": "「她若在外头，迟早会发现我；不如趁被发现之前多翻点」",
+   "anchor": "If she was out there, she would find me soon. I might as well snoop as much as possible before she did.",
+   "start": 5978,
+   "end": 6081,
+   "line": 72
+  },
+  {
+   "fact": "她抓一把照片塞进裤袋，换到下一只（那种留存回忆的纸盒）",
+   "anchor": "In the closet, I grabbed a handful of photos, stuffed them in my pocket, and moved to the next box, one of those memory-keeping paper boxes.",
+   "start": 6084,
+   "end": 6224,
+   "line": 75
+  },
+  {
+   "fact": "里面是一台摔坏的随身听和一件撕成两半的衬衫，下摆结着深色物质——泥，或血",
+   "anchor": "In it was a busted portable cassette player and a shirt torn in half, a dark substance crusting the bottom. Mud—or blood.",
+   "start": 6225,
+   "end": 6346,
+   "line": 75
+  },
+  {
+   "fact": "胃一翻：他们保存的会是 Leon 死时穿的衣服吗？",
+   "anchor": "My stomach lurched as I lifted it up. Had they saved the clothes Uncle Leon died in?",
+   "start": 6347,
+   "end": 6431,
+   "line": 75
+  },
+  {
+   "fact": "空气收紧如绳缠在腰上；走廊的嘟囔再起，更响、更怒，仍隔着东西发闷、且哪里不对",
+   "anchor": "The air closed in on me, tight as a rope around my middle, and the muttering in the hallway began anew. It was louder, angrier, though still muffled, like someone speaking through a curtain, and off, somehow.",
+   "start": 6434,
+   "end": 6642,
+   "line": 78
+  },
+  {
+   "fact": "脚步从 Gazzie 的房那侧沿走廊回响；落下得闷、几乎——是湿的、且略有不同步",
+   "anchor": "Steps echoed down the hallway from Gazzie’s room. They thudded softly, almost—wetly, and slightly out of sync.",
+   "start": 6643,
+   "end": 6753,
+   "line": 78
+  },
+  {
+   "fact": "她的科学化解释：Gazzie 准是在农场的泥里待过、准是踢到了脚趾",
+   "anchor": "Gazzie must have been outside in the mud at the farm, must have stubbed a toe.",
+   "start": 6754,
+   "end": 6832,
+   "line": 78
+  },
+  {
+   "fact": "她僵住、衬衫还悬在手里；认定「就是这一刻」：她会冲进来抓住她肩膀把她拖出去",
+   "anchor": "I froze, shirt dangling from my hand. This was it. She would burst in, grab me by the shoulders, haul me out.",
+   "start": 6833,
+   "end": 6942,
+   "line": 78
+  },
+  {
+   "fact": "松了口气：脚步退回 Gazzie 的房；可她刚放松又再来——她在走廊来回踱；她的心跳踩着对方脚步的拍",
+   "anchor": "To my relief, the steps retreated to Gazzie’s room, but just as I relaxed, they came again. She was pacing the hallway. My heart pounded in time with her footfalls.",
+   "start": 6945,
+   "end": 7109,
+   "line": 81
+  },
+  {
+   "fact": "她手忙脚乱蹲下开最后一只箱：更大、某种金属制成；盖晃得很有希望却打不开——上了锁",
+   "anchor": "Frantically, I squatted down to open the last box. It was larger than the others and made from some sort of metal. The top jiggled promisingly but didn’t open; it was locked.",
+   "start": 7112,
+   "end": 7286,
+   "line": 84
+  },
+  {
+   "fact": "她的判语：舅舅一直在藏什么；藏给谁——Gazzie？Virginia？Mama？也许与他的事故、与 Mama 的离开有关",
+   "anchor": "Uncle Leon had been hiding something. From whom—Gazzie? Aunt Virginia? Mama? Maybe it had to do with his accident. With Mama’s departure.",
+   "start": 7289,
+   "end": 7426,
+   "line": 87
+  },
+  {
+   "fact": "「你在这儿干什么？」身后一个粗声喝道",
+   "anchor": "“What are you doing in here?” a gruff voice barked behind me.",
+   "start": 7429,
+   "end": 7490,
+   "line": 90
+  },
+  {
+   "fact": "Gazzie 立在门口、双手成拳；发褐的血点溅在白纽扣衬衫上、几缕头发从抓夹里散落",
+   "anchor": "Gazzie stood in the doorway, hands in fists. Browning blood splattered her white button-down, and strands of hair fell from her clip.",
+   "start": 7493,
+   "end": 7626,
+   "line": 93
+  },
+  {
+   "fact": "她蹲在地上，Gazzie 在她上方显得高大；她刚才太出神，没注意到对方开门",
+   "anchor": "She towered over me in my squat on the floor. I’d been too distracted to notice her opening the door.",
+   "start": 7627,
+   "end": 7728,
+   "line": 93
+  },
+  {
+   "fact": "她的半句话：「对不起——只是——我才知道舅舅 Leon 的事。我只是想——」",
+   "anchor": "“I’m sorry— It’s just— I found out about Uncle Leon. I was wondering—”",
+   "start": 7731,
+   "end": 7801,
+   "line": 96
+  },
+  {
+   "fact": "Gazzie 迈进一步，开始朝她挥手，像赶一只乱跑的狗",
+   "anchor": "She took a step inside and began waving at me, like I was an errant dog.",
+   "start": 7804,
+   "end": 7876,
+   "line": 99
+  },
+  {
+   "fact": "「出去，」她吼，「出去！」",
+   "anchor": "“Out,” she bellowed. “Out!”",
+   "start": 7879,
+   "end": 7906,
+   "line": 102
+  },
+  {
+   "fact": "她撑起身、尽量快地走向门口，眼前在发黑；进了走廊视力恢复，Gazzie 在她们身后摔上门",
+   "anchor": "I pushed myself up and walked toward the door as quickly as I could, despite my vision darkening. My sight returned as I hurried into the hallway and she slammed the door behind us.",
+   "start": 7909,
+   "end": 8090,
+   "line": 105
+  },
+  {
+   "fact": "她再次面对她时，胸口夸张地起伏；她想道歉但对方不接受；抬起手打断她",
+   "anchor": "When she faced me again, her chest rose and fell in exaggerated huffs. I tried to apologize, but she wouldn’t have it. She raised her hand, cutting me off.",
+   "start": 8091,
+   "end": 8246,
+   "line": 105
+  },
+  {
+   "fact": "威胁原话：「再进那儿一次，我就把你送回 Georgia，比你念一声鬼还快。」",
+   "anchor": "“Go in there again,” she growled, “and I’ll send you back to Georgia faster than you can say boo.”",
+   "start": 8249,
+   "end": 8347,
+   "line": 108
+  },
+  {
+   "fact": "她怒气冲冲走下走廊，把她的办公室门砰地关上",
+   "anchor": "She stormed down the hallway, shutting her office door with a bang.",
+   "start": 8350,
+   "end": 8417,
+   "line": 111
+  },
+  {
+   "fact": "她瞪着对方背影退回自己房间：若 Gazzie 想扑灭她的好奇，她彻底失败了",
+   "anchor": "Glaring after her, I retreated to my own room. If she was trying to snuff out my curiosity about Uncle Leon, she’d failed miserably.",
+   "start": 8420,
+   "end": 8552,
+   "line": 114
+  },
+  {
+   "fact": "坐在书桌前心跳仍急，她把偷来的宝丽来取出",
+   "anchor": "At my desk, heart still pounding, I pulled out the stolen Polaroids.",
+   "start": 8555,
+   "end": 8623,
+   "line": 117
+  },
+  {
+   "fact": "她的读图结论：Leon 是个忧郁的孩子，长成的少年也一样忧郁，那股性子显然没让他受家里人待见",
+   "anchor": "Uncle Leon had been a melancholy kid who’d grown into a melancholy teen, and his disposition clearly hadn’t endeared him to his family.",
+   "start": 8624,
+   "end": 8759,
+   "line": 117
+  },
+  {
+   "fact": "一张接一张里他都在事物的边缘",
+   "anchor": "In photo after photo, he was at the edge of things.",
+   "start": 8760,
+   "end": 8811,
+   "line": 117
+  },
+  {
+   "fact": "几张他独自一人、目光离开镜头，像被一个正要进门的人吸引了注意",
+   "anchor": "A few showed him alone, looking away from the camera, like his attention had been caught by someone stepping into the room.",
+   "start": 8812,
+   "end": 8935,
+   "line": 117
+  },
+  {
+   "fact": "好几张他蜷在椅子里在速写本上涂写",
+   "anchor": "In several, he was curled up in a chair, scribbling in a sketchbook.",
+   "start": 8936,
+   "end": 9004,
+   "line": 117
+  },
+  {
+   "fact": "怒气开始退、被决心替换",
+   "anchor": "My anger began to fade, replaced by determination.",
+   "start": 9007,
+   "end": 9057,
+   "line": 120
+  },
+  {
+   "fact": "她的推想：若 Leon 和她一路，他必会给速写本加批注、把想法随处留下；也许那就是 Mama 的线索所在",
+   "anchor": "If Uncle Leon had been anything like me, he’d have annotated his sketchbooks, left thoughts here and there. Maybe that’s where I’d find a hint about Mama.",
+   "start": 9058,
+   "end": 9212,
+   "line": 120
+  },
+  {
+   "fact": "她定下要做的事：再溜进他的壁橱、撬开那只锁箱，读他大概藏进去的几本速写本",
+   "anchor": "I knew what I had to do: sneak back into his closet, open the lockbox where he’d likely hidden at least a few of his sketchbooks, and read his notes.",
+   "start": 9213,
+   "end": 9362,
+   "line": 120
+  },
+  {
+   "fact": "计划定、她把宝丽来塞进抽屉爬上床；拉被子时才发现走廊那嘟囔声让她不安在哪——它很轻、是女声",
+   "anchor": "Plan solidified, I slipped the Polaroids in a desk drawer and crawled into bed. As I pulled the covers over myself, I realized what was bothering me about the muttering voice in the hallway: it had been soft, feminine.",
+   "start": 9365,
+   "end": 9583,
+   "line": 123
+  },
+  {
+   "fact": "末句独立成段：完全不像 Gazzie 的声音",
+   "anchor": "Nothing like Gazzie’s voice at all.",
+   "start": 9586,
+   "end": 9621,
+   "line": 126
+  }
+ ],
+ "relations": [
+  [
+   "本章承接 ch16：周日午后（:9）；她翻查 Leon 的动机来自前一章得知舅舅存在",
+   ":9"
+  ],
+  [
+   ":12 「去和 Henri 一起吃晚饭」＝Henri（ch04:234 Nova 的女友）在本书中的又一次在场，且 Virginia 为此脸红到可能彻夜不归",
+   ":12"
+  ],
+  [
+   ":33 柔顺剂气味回收 ch13「他闻起来像柔顺剂」（Dryer sheets 第二次出现）",
+   ":33"
+  ],
+  [
+   ":54 「楼下那个模糊影子、漆黑无底的眼睛」回收 ch15 的黑裙影子（:33）",
+   ":54"
+  ],
+  [
+   ":72 的茉莉味＝ch09:30 与 ch15:33 之后的第三次，且再次紧挨异常（太阳穴剧痛＋嘟囔声）",
+   ":72"
+  ],
+  [
+   ":111 Gazzie 的办公室在 Greer House 内（她把门砰上后走下走廊）——可回对 ch16:279「农场前办公室那幅画」是否另一间",
+   ":111"
+  ],
+  [
+   "Leon 的房间在走廊对面、与 Harrison 的客房及后侧相连浴室相邻；:24 她先试的是「离 Gazzie 办公室最近的那间」",
+   ":24"
+  ],
+  [
+   "偷照片（:75）→ 回房读照片（:117）→ 决定再溜（:120）＝ch17 内部的三段递进",
+   ":75"
+  ],
+  [
+   "Gazzie 白衬衫上的血与 :78「湿的脚步」「泥」同轴，指向她在农场屠宰后回来（ch13 的杀鳄工序）",
+   ":93"
+  ],
+  [
+   "末两拍（:123/:126）把「嘟囔是女声」与「不像 Gazzie」并列——本章结尾的悬置",
+   ":126"
+  ]
+ ],
+ "numbers": [
+  [
+   "周日下午（:9）",
+   "By Sunday afternoon"
+  ],
+  [
+   "走廊对面两间空房（:9）",
+   "One of the two spare rooms across the hall"
+  ],
+  [
+   "Virginia 三连差事（:9）",
+   "First, she wanted me to review the upcoming week’s lunch menu, then help her hang new curtains in the drawing room, then rearrange the toolshed."
+  ],
+  [
+   "三人小群（:12）",
+   "the three-person Greer House thread"
+  ],
+  [
+   "十分钟后（:21）",
+   "ten minutes later"
+  ],
+  [
+   "约小两岁的男孩（:69）",
+   "a boy about two years younger"
+  ],
+  [
+   "三只箱子叠在地上（:69）",
+   "three boxes stacked on the floor"
+  ],
+  [
+   "几十张更多宝丽来（:69）",
+   "dozens more Polaroid photos"
+  ],
+  [
+   "凉好几度（:42）",
+   "several degrees cooler"
+  ],
+  [
+   "冷十倍（:57）",
+   "ten times colder than anywhere else in Greer House"
+  ],
+  [
+   "房间一半大（:60）",
+   "The room was half the size of Mama’s"
+  ],
+  [
+   "两扇后院窗一扇侧院窗（:60）",
+   "only two windows overlooking the backyard and one the side yard"
+  ],
+  [
+   "Gazzie 的手成拳（:93）",
+   "hands in fists"
+  ],
+  [
+   "「一张接一张」（:117）",
+   "In photo after photo"
+  ],
+  [
+   "「好几张」蜷在椅子里（:117）",
+   "In several, he was curled up in a chair"
+  ]
+ ]
+}
