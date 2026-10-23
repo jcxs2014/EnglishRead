@@ -1,0 +1,29 @@
+=== 素读清单：the-hexing-miss-helena-by-darcy-mcguire ch26（text 18782 字符）===
+  ✅ [   493:   533] 辛西娅中弹倒地后，立过光之女巫不做伤害誓约（前文写明布莱尔家女性皆宣誓如此、她也是与女巫团一同立的誓）的  ←「Breaking her vow to do no ha…」
+  ✅ [  1486:  1518] 是罗温姨妈的一声喝止把她拉开——原文写那语气之下无人敢违抗，连海伦娜也不能；罗温明确说就算此刻也不行凶。  ←「We do no harm, Helena. Even …」
+  ✅ [  5478:  5510] 罗温取出子弹后说辛西娅的灵光仍在消散，血魔法是唯一机会，但那需要心甘情愿的献祭。  ←「It requires a willing sacrif…」
+  ✅ [  5619:  5683] 海伦娜要把自己的血给辛西娅，罗温拒绝——因为她知道威洛当年对女儿做了什么；最后是哈姆雷特一口咬破海伦娜的  ←「I know what your mother did …」
+  ✅ [  6744:  6812] 古老咒词与涌起的水把辛西娅的伤完全愈合，皮肤上只留下一枚山楂果红的新月牙印。  ←「her smooth skin unmarred sav…」
+  ✅ [ 10899: 10926] 众人散去后辛西娅私下向海伦娜承认：她当着麦克杜格尔说的“休伯特自杀”是谎话，真相仍是希金斯太太动的手。  ←「Hubert didn’t kill himself.…」
+  ✅ [ 11654: 11726] 她撒谎的理由是那个撞见休伯特掐住女仆脖子的女管家不该为替他收场而上绞架；辛克莱没向麦克杜格尔供出希金斯太  ←「She doesn’t deserve to hang …」
+  ✅ [ 18246: 18262] 克莱奥承认在两人的茶与咖啡里加了药，埃莉与她互换眼神后点破那是丘比特蜜露；原文只写克莱奥无辜地耸肩，没有  ←「Cupid’s cordial?…」
+
+已写入 .memory/raw-gates/the-hexing-miss-helena-by-darcy-mcguire/production/ch26-suread.json
+anchor": "Hubert didn’t kill himself.",
+   "start": 10899,
+   "end": 10926
+  },
+  {
+   "fact": "她撒谎的理由是那个撞见休伯特掐住女仆脖子的女管家不该为替他收场而上绞架；辛克莱没向麦克杜格尔供出希金斯太太，正是为了让辛西娅自己扛起这份重量。",
+   "anchor": "She doesn’t deserve to hang for doing what I should have done all along.",
+   "start": 11654,
+   "end": 11726
+  },
+  {
+   "fact": "克莱奥承认在两人的茶与咖啡里加了药，埃莉与她互换眼神后点破那是丘比特蜜露；原文只写克莱奥无辜地耸肩，没有交代药是否起了作用。",
+   "anchor": "Cupid’s cordial?",
+   "start": 18246,
+   "end": 18262
+  }
+ ]
+}
