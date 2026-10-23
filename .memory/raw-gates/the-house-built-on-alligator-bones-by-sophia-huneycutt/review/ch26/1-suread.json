@@ -1,0 +1,685 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch26",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch26_chapter_twenty_five.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "时间锚：Henri 派对后的那个周一；她醒来一身汗随即发抖",
+   "anchor": "The Monday after Henri’s party, I woke drenched in sweat, then immediately began to shiver",
+   "start": 19,
+   "end": 109,
+   "line": 9
+  },
+  {
+   "fact": "外窗挂着水珠；电视里气象员对 Amelia Island 和 Jacksonville 发高温警报，屋里却冷得刺骨",
+   "anchor": "A weatherman on TV announced heat advisories in Amelia Island and Jacksonville, but inside the house, it was frigid",
+   "start": 161,
+   "end": 276,
+   "line": 9
+  },
+  {
+   "fact": "Virginia 的缺席在 Greer House 留下印子，但和她预想的不同：像屋子的气氛扩张过来，占掉她留下的空位",
+   "anchor": "it was like its atmosphere expanded, taking up the space she’d left behind",
+   "start": 365,
+   "end": 439,
+   "line": 9
+  },
+  {
+   "fact": "她边半听新闻边把梦画下来",
+   "anchor": "I half listened to the news as I sketched out my dream",
+   "start": 443,
+   "end": 497,
+   "line": 12
+  },
+  {
+   "fact": "梦：她站在没踝深的 marsh 水里，捡起脚边的步枪，那只温柔的手把枪引上她的肩",
+   "anchor": "Ankle-deep in marsh water, I’d picked up the rifle at my feet, and that gentle hand had guided it to my shoulder",
+   "start": 499,
+   "end": 611,
+   "line": 12
+  },
+  {
+   "fact": "那只看不见的存在替她摆好瞄准姿势时，她抗拒着，怕和挫败让她发抖",
+   "anchor": "As the invisible being had positioned me to aim, I’d resisted, shaking with fear and frustration",
+   "start": 613,
+   "end": 709,
+   "line": 12
+  },
+  {
+   "fact": "在书桌前她仍觉得那双眼睛在自己背上，每次回头都没人",
+   "anchor": "At my desk, I still felt those eyes on me, though each time I turned, I found no one",
+   "start": 711,
+   "end": 795,
+   "line": 12
+  },
+  {
+   "fact": "到办公室时汗已浸额头；Nova 举着手持风扇迎客，睫毛膏晕到下眼睑，神色依旧平静",
+   "anchor": "Nova greeted us with a handheld fan pointed at her face. Mascara bled onto her lower eyelids, but her expression remained placid",
+   "start": 863,
+   "end": 991,
+   "line": 15
+  },
+  {
+   "fact": "Nova 说：空调坏了；冰箱冰柜塞了瓶装水，不够她再去买",
+   "anchor": "“AC’s down,” she said",
+   "start": 995,
+   "end": 1016,
+   "line": 18
+  },
+  {
+   "fact": "令她意外，Nova 打断了 Gazzie 的话——高温显然把 Nova 从前的拘束剥掉了",
+   "anchor": "To my surprise, Nova cut her off. The heat had apparently stripped away any restraint she’d shown before",
+   "start": 1153,
+   "end": 1257,
+   "line": 24
+  },
+  {
+   "fact": "Nova 转述：Harrison 在后面和修理工一起，估计要修一整天；他不想有人当「后排技术指导」",
+   "anchor": "He also said he’d rather not have any backseat technicians.”",
+   "start": 1369,
+   "end": 1429,
+   "line": 24
+  },
+  {
+   "fact": "她的私念：好，那就不用马上见 Harrison",
+   "anchor": "Good. I wouldn’t have to see him right away",
+   "start": 1432,
+   "end": 1475,
+   "line": 27
+  },
+  {
+   "fact": "Gazzie 嘴张开又合上再张开——Nova 的插话也惊到了她；她说自己去 slaughter",
+   "anchor": "Nova’s interruption had surprised her, too. “I’ll be in slaughter.”",
+   "start": 1528,
+   "end": 1595,
+   "line": 30
+  },
+  {
+   "fact": "Nova 更大声更慢地重复：里面很热——像对听力不好的人说话",
+   "anchor": "Nova spoke louder and more slowly, like Gazzie was hard of hearing",
+   "start": 1619,
+   "end": 1685,
+   "line": 33
+  },
+  {
+   "fact": "Nova 朝她交代：你的窗能开，卡住就晃一晃",
+   "anchor": "“Your window opens. Give it a jiggle if it’s stuck.”",
+   "start": 1739,
+   "end": 1791,
+   "line": 39
+  },
+  {
+   "fact": "她想起那批发霉的档案——先前被尸骸的事分了心没提——说：我们有个麻烦",
+   "anchor": "“Actually,” I said, remembering the moldy files. I’d been too distracted by the carcasses to mention them before. “We’ve got a problem.”",
+   "start": 1794,
+   "end": 1930,
+   "line": 42
+  },
+  {
+   "fact": "Gazzie 听完整份报告直皱眉，尤其听到霉是一夜之间长出来的；但她另有安排：Joe 说 kudzu 又爬上蛋库了，你去处理",
+   "anchor": "“Joe says the kudzu’s back on the egg barn. Deal with it.”",
+   "start": 2084,
+   "end": 2142,
+   "line": 45
+  },
+  {
+   "fact": "她心里的盘算：太好了——若 Joe 在外面，就能审他，确认抛尸那天早上他是否真的在剥皮",
+   "anchor": "If Joe was outside, I’d be able to interrogate him, confirm whether he’d really been skinning the morning the carcasses were dumped",
+   "start": 2154,
+   "end": 2285,
+   "line": 48
+  },
+  {
+   "fact": "她自标这一步的性质：证明背后是人的最后一把、孤注一掷的尝试",
+   "anchor": "A last, desperate attempt to prove a human was behind it all",
+   "start": 2287,
+   "end": 2347,
+   "line": 48
+  },
+  {
+   "fact": "她带着大剪刀和除草剂开高尔夫球车去蛋库；一路目视前方，防着 Harrison 在路两边——他并没在",
+   "anchor": "Loppers and herbicide in tow, I drove a golf cart to the egg barn, keeping my head straight in case Harrison was on either side of the road, which he wasn’t",
+   "start": 2351,
+   "end": 2507,
+   "line": 51
+  },
+  {
+   "fact": "走近蛋库她惊得张嘴：周五路过时它还和别的库房一样——两倍大、完全空着，七八月起要在里面孵蛋",
+   "anchor": "it was twice as large and completely empty; we’d start hatching eggs inside in July and August",
+   "start": 2640,
+   "end": 2734,
+   "line": 54
+  },
+  {
+   "fact": "这天早上，绿藤把整栋建筑缠死了；藤从蛋库鼓出来，像一件宽松的衬衫",
+   "anchor": "green vines choked the entire building",
+   "start": 2754,
+   "end": 2792,
+   "line": 54
+  },
+  {
+   "fact": "（另一段）藤从蛋库鼓出来，像一件宽松的衬衫",
+   "anchor": "puffed out from the barn like a loose blouse",
+   "start": 2911,
+   "end": 2955,
+   "line": 54
+  },
+  {
+   "fact": "她绕到库后很快找到源头：kudzu 一路直通东边五十码的沼泽——猎场；据 Nova 说，富游客付钱来杀自己的鳄鱼和野猪",
+   "anchor": "Kudzu trailed directly to the swamp fifty yards to the east—the hunting grounds, where, according to Nova, wealthy tourists paid to kill their own gators and wild pigs",
+   "start": 3029,
+   "end": 3196,
+   "line": 57
+  },
+  {
+   "fact": "kudzu 一个周末就蔓延了那么远；热浪压肩，她盯着眼前的怪物，头昏涨",
+   "anchor": "The kudzu had spread that far over the weekend",
+   "start": 3198,
+   "end": 3244,
+   "line": 57
+  },
+  {
+   "fact": "她的判断：kudzu 素来凶，但没凶到这个地步；而且只缠了蛋库这一栋——像选定唯一目标，像在传话",
+   "anchor": "Kudzu was aggressive, but not that aggressive. And it hadn’t covered any building other than the egg barn, like it had chosen a single target, like it was sending a message",
+   "start": 3372,
+   "end": 3544,
+   "line": 60
+  },
+  {
+   "fact": "她给那条「消息」配上内容：它不想农场再养出一年的鳄鱼来杀",
+   "anchor": "It didn’t want the farm growing another year’s worth of alligators for slaughter",
+   "start": 3546,
+   "end": 3626,
+   "line": 60
+  },
+  {
+   "fact": "两个短句定性：这不正常。这是 Ironheart",
+   "anchor": "This was not normal.",
+   "start": 3630,
+   "end": 3650,
+   "line": 63
+  },
+  {
+   "fact": "念头一出她逼自己笑：是热昏头了；Greer 家运气差归差，神话生物不会像魔术师一样让藤一夜长成",
+   "anchor": "The heat was getting to me. Sure, we Greers had bad luck, but a mythical creature wasn’t making vines grow overnight like a magician",
+   "start": 3726,
+   "end": 3858,
+   "line": 69
+  },
+  {
+   "fact": "可念头不散，边剪边在脑子里回响：Ironheart 三连；她自嘲真的要疯了——下一步该看见 Ida 戴着老式卷发筒出现在浴室里",
+   "anchor": "Ironheart. Ironheart. Ironheart. I really was losing it, I mused. Next, I’d see Ida in my bathroom, hair in old-fashioned curlers",
+   "start": 3942,
+   "end": 4071,
+   "line": 69
+  },
+  {
+   "fact": "Nova 的操作指示：贴地剪掉再喷药；她几分钟就进了节奏，但每一剪都是角力——藤像笼中豹寸土必争",
+   "anchor": "each cut was a struggle, the plant fighting me for every inch it gave, like a panther resisting the confines of a cage",
+   "start": 4237,
+   "end": 4355,
+   "line": 72
+  },
+  {
+   "fact": "她不时抬头盼 Joe 出现，没等到；剪到半栋库房时衬衫已被汗浸透",
+   "anchor": "Every so often, I’d look up, hoping to find Joe, with no luck",
+   "start": 4357,
+   "end": 4418,
+   "line": 72
+  },
+  {
+   "fact": "她退到休息室拿了瓶温水，趁 Nova 座位空着溜到正门外，背靠门边墙坐下——那里正好有荫",
+   "anchor": "Retreating to the break room, I grabbed a bottle of lukewarm water and made my way to the front office",
+   "start": 4491,
+   "end": 4593,
+   "line": 75
+  },
+  {
+   "fact": "一句人声：真恶心",
+   "anchor": "“It’s disgusting.”",
+   "start": 4863,
+   "end": 4881,
+   "line": 81
+  },
+  {
+   "fact": "后颈皮肤刺麻——她认得这声音，是 Nova",
+   "anchor": "The skin on the back of my neck prickled. I knew that voice. It was Nova",
+   "start": 4884,
+   "end": 4956,
+   "line": 84
+  },
+  {
+   "fact": "睁眼费劲；水泥地热气像蒸汽上蒸；视野里没有 Nova",
+   "anchor": "Heat radiated from the cement, waves of it rising like steam. She wasn’t anywhere in sight",
+   "start": 4984,
+   "end": 5074,
+   "line": 87
+  },
+  {
+   "fact": "她判定声音来自楼左侧；探头没人，声音反而更响；没有车可藏、没有垃圾桶",
+   "anchor": "Listening hard, I determined her voice was coming from the left of the building",
+   "start": 5078,
+   "end": 5157,
+   "line": 90
+  },
+  {
+   "fact": "一只空塑料水瓶从天上落下，在水泥地上弹跳",
+   "anchor": "An empty plastic water bottle fell from the sky, bouncing on the concrete",
+   "start": 5349,
+   "end": 5422,
+   "line": 93
+  },
+  {
+   "fact": "头顶：办公室二层唯一会议室的窗支开着；Nova 坐在窗台上，侧对她、电话贴耳、右手夹烟，烟灰簌簌往下掉",
+   "anchor": "Above me, on the office’s second floor, a window to the sole meeting room was propped open. Nova sat on the sill, her side to me, phone to her ear, cigarette in her right hand",
+   "start": 5426,
+   "end": 5601,
+   "line": 96
+  },
+  {
+   "fact": "她听到的电话内容：她简直是在拿砸烂他们的头取乐，或者说减压什么的；我知道你知道，可我说，搞什么鬼？",
+   "anchor": "“She’s literally bashing their heads in for fun or stress relief or whatever.”",
+   "start": 5709,
+   "end": 5787,
+   "line": 99
+  },
+  {
+   "fact": "电话里最关键的一句：对，我没锁",
+   "anchor": "“Yeah. I left it unlocked.”",
+   "start": 5859,
+   "end": 5886,
+   "line": 99
+  },
+  {
+   "fact": "电话收尾：一声少女似的笑——「那我就不客气了」",
+   "anchor": "A final pause and a girlish giggle. “I’ll take you up on that.”",
+   "start": 5917,
+   "end": 5980,
+   "line": 99
+  },
+  {
+   "fact": "Nova 把手机从耳边拿开，盯着屏幕看了几秒才搁到腿上",
+   "anchor": "She pulled the phone away from her ear and looked at the screen for several seconds before setting it on her lap",
+   "start": 5983,
+   "end": 6095,
+   "line": 102
+  },
+  {
+   "fact": "她绕回角落，脑子比一整天任何时候都清楚",
+   "anchor": "I snuck around the corner again, mind clearer than it had been all day",
+   "start": 6099,
+   "end": 6169,
+   "line": 105
+  },
+  {
+   "fact": "她立论：Nova 参与了破坏案——她太另类，不适合农场（流苏背心、大豆蜡烛）；她来上班就是为了接近这里",
+   "anchor": "She was too alternative to work on a farm. Not with her fringed vests and soy candles. She’d taken the job to get access",
+   "start": 6246,
+   "end": 6366,
+   "line": 108
+  },
+  {
+   "fact": "她推论：Nova 必是某种活动家；且从电话加刀阵加抛尸看，并非单干——Joe 必是同伙，这解释了他的不在场证明",
+   "anchor": "Based on the call—not to mention the planted knives and dumped carcasses—she wasn’t working alone, either. Joe must be her accomplice; that explained his alibis",
+   "start": 6466,
+   "end": 6626,
+   "line": 108
+  },
+  {
+   "fact": "她心里有一半知道答案没这么简单：Joe 对女性的公开蔑视，配一个被宠坏的 Gen Z 姑娘？",
+   "anchor": "Given Joe’s open disdain for women, I couldn’t imagine he’d work with a pampered Gen Z girl",
+   "start": 6680,
+   "end": 6771,
+   "line": 111
+  },
+  {
+   "fact": "更深的那一半 weighs 着同步的幼鳄、藻类、霉、kudzu——没有一样是人能编排的",
+   "anchor": "An even deeper part of me weighed the in-sync juvenile alligators, the algae, the mold, the kudzu, understanding that none of that could be orchestrated by a human",
+   "start": 6773,
+   "end": 6936,
+   "line": 111
+  },
+  {
+   "fact": "她承认自欺的动机：她想要局面简单——想做一个能在一下午里解决家族凡人麻烦的体面人——于是逼自己信",
+   "anchor": "But I wanted the situation to be straightforward—wanted to be a decent person who could solve her family’s mundane, not-supernatural problems in an afternoon—so I forced myself to believe it was",
+   "start": 6940,
+   "end": 7134,
+   "line": 114
+  },
+  {
+   "fact": "她心跳如鼓走回楼里；怕晕倒在见到 Nova 之前，一步一步爬楼梯；发短信约 Gazzie 来二层",
+   "anchor": "I considered jogging up the staircase but didn’t want to faint before I confronted Nova. Taking the steps one by one, I texted Gazzie to meet me on the second floor",
+   "start": 7176,
+   "end": 7340,
+   "line": 117
+  },
+  {
+   "fact": "她冲进会议室时 Nova 还坐在窗台上",
+   "anchor": "Nova was still sitting in the window when I burst inside the meeting room",
+   "start": 7344,
+   "end": 7417,
+   "line": 120
+  },
+  {
+   "fact": "Nova 翻白眼：修理工还没给我更新，有消息我会告诉你",
+   "anchor": "She rolled her eyes. “The repairman hasn’t updated me. I’ll tell you when he does.”",
+   "start": 7421,
+   "end": 7504,
+   "line": 123
+  },
+  {
+   "fact": "她喘着气说 Gazzie 在路上，试着借来对方的底气",
+   "anchor": "“Gazzie’s on her way,” I panted, trying to channel her confidence",
+   "start": 7507,
+   "end": 7572,
+   "line": 126
+  },
+  {
+   "fact": "Nova：那我反正也变不出别的说法",
+   "anchor": "“Well, I can’t tell her anything different.”",
+   "start": 7576,
+   "end": 7620,
+   "line": 129
+  },
+  {
+   "fact": "她：她来不是为了这个",
+   "anchor": "“That’s not what she’s coming for.”",
+   "start": 7623,
+   "end": 7658,
+   "line": 132
+  },
+  {
+   "fact": "她摊牌：我听见你了",
+   "anchor": "“I heard you.”",
+   "start": 7671,
+   "end": 7685,
+   "line": 138
+  },
+  {
+   "fact": "Nova 抿唇警觉：听见我什么",
+   "anchor": "Nova pursed her lips, alert. “Heard me what?”",
+   "start": 7688,
+   "end": 7733,
+   "line": 141
+  },
+  {
+   "fact": "她列举罪状：动物尸骸？恶心。插刀那手只是怪。毁皮我能理解，但放跑一条鳄鱼？它本可能从我腿上咬掉一块",
+   "anchor": "Ruining the skins I can understand, but letting an alligator loose? It could have taken a chunk out of my leg.",
+   "start": 8011,
+   "end": 8121,
+   "line": 153
+  },
+  {
+   "fact": "Nova 打量她；她表情里的得意多半出卖了她；Nova 说：你又没受伤——头靠上窗框，一副松弛到家的样子",
+   "anchor": "“You didn’t get hurt,” she said, resting her head against the window frame. The picture of ease.",
+   "start": 8230,
+   "end": 8326,
+   "line": 156
+  },
+  {
+   "fact": "她：我可能受伤。Nova：可你没有（两句对答）",
+   "anchor": "“But you didn’t.”",
+   "start": 8347,
+   "end": 8364,
+   "line": 162
+  },
+  {
+   "fact": "会议室一股陈味，像微波炉内部",
+   "anchor": "The room smelled stale, like the inside of a microwave",
+   "start": 8367,
+   "end": 8421,
+   "line": 165
+  },
+  {
+   "fact": "她追问图什么：是在给哪条宠物鳄鱼报仇吗",
+   "anchor": "“Are you avenging a pet alligator or something?”",
+   "start": 8479,
+   "end": 8527,
+   "line": 168
+  },
+  {
+   "fact": "Nova 皱眉反问：什么？她接不上话——「所以你是在抗议？」对方只重复：抗议？",
+   "anchor": "“Protesting?”",
+   "start": 8603,
+   "end": 8616,
+   "line": 177
+  },
+  {
+   "fact": "她不耐烦地挑明：农场。你在 PETA 吗",
+   "anchor": "“The farm. Are you in PETA?”",
+   "start": 8658,
+   "end": 8686,
+   "line": 180
+  },
+  {
+   "fact": "Nova 脸上掠过恍然：哦，Dart——这不是抗议",
+   "anchor": "“Oh, Dart,” she said. “It’s not a protest.”",
+   "start": 8726,
+   "end": 8769,
+   "line": 183
+  },
+  {
+   "fact": "单凭那个同情的表情她就明白自己错了：Nova 不是活动家；对方是在可怜她消息不灵",
+   "anchor": "From her sympathetic expression alone, I understood I’d been mistaken. She wasn’t an activist",
+   "start": 8772,
+   "end": 8865,
+   "line": 186
+  },
+  {
+   "fact": "她问那为什么做",
+   "anchor": "“Then why do it?”",
+   "start": 8989,
+   "end": 9006,
+   "line": 189
+  },
+  {
+   "fact": "Nova 慢慢摇头：关于你祖母，你并不知道一切",
+   "anchor": "“You don’t know everything about your grandmother.”",
+   "start": 9036,
+   "end": 9087,
+   "line": 192
+  },
+  {
+   "fact": "她差点笑出 Nova 的拖延，追问什么意思",
+   "anchor": "I almost laughed at her stalling. “What’s that supposed to mean?”",
+   "start": 9090,
+   "end": 9155,
+   "line": 195
+  },
+  {
+   "fact": "Nova 的判词：她是个杀人犯。而且她别想再逍遥下去——不会再有了",
+   "anchor": "“She’s a killer. And she’s not getting away with it. Not anymore.”",
+   "start": 9158,
+   "end": 9224,
+   "line": 198
+  },
+  {
+   "fact": "她的反应：嘴张开、唇黏在牙上，想不出一个字的回答；祖母当然是 killer——她每天杀几十条鳄鱼；可 Nova 为什么说得像启示、像警告",
+   "anchor": "Of course my grandmother was a killer—she killed dozens of alligators every day. But why did Nova say it like that? Like a revelation? A warning?",
+   "start": 9314,
+   "end": 9459,
+   "line": 201
+  },
+  {
+   "fact": "Leon 的那行字第三次浮上来：我要让她放我走，不成功便成仁",
+   "anchor": "I’ll make her let me go or die trying.",
+   "start": 9462,
+   "end": 9500,
+   "line": 204
+  },
+  {
+   "fact": "Nova 一个箭步跃下窗台、从她身边挤过去；她失去平衡、被热耗尽，向后摔倒，尾椎砸在地毯上，惊得几秒动弹不得",
+   "anchor": "Nova launched herself off the windowsill and pushed past me. Off balance and exhausted from the heat, I fell backward",
+   "start": 9526,
+   "end": 9643,
+   "line": 207
+  },
+  {
+   "fact": "Nova 消失后一口气没喘匀，Gazzie 已经朝她跑来，衬衫前襟一大片深褐——血，比平时多",
+   "anchor": "Gazzie was running toward me, a dark brown stain across her button-down. Blood. More than usual",
+   "start": 9752,
+   "end": 9847,
+   "line": 210
+  },
+  {
+   "fact": "一阵失控的念头：她伤到 Nova 了？在走廊捅了她？用鳄鱼棒打晕了她？",
+   "anchor": "For a wild moment, I thought she’d hurt Nova. Stabbed her in the hallway. Bludgeoned her with the alligator bat",
+   "start": 9849,
+   "end": 9960,
+   "line": 210
+  },
+  {
+   "fact": "Gazzie 说我在我在，用一个惊人地像祖母的动作把手覆上她的额头",
+   "anchor": "In a shockingly grandmotherly move, she held her hand to my forehead",
+   "start": 9996,
+   "end": 10064,
+   "line": 213
+  },
+  {
+   "fact": "她的猜想：那天早上把她吓着时按住她的冷手，也许就是 Gazzie——若破坏是人干的，Greer House 的怪事也许也是",
+   "anchor": "Maybe she was the one who’d pressed her cold hand to me that morning I got spooked; if the vandalism was caused by a human, maybe Greer House’s oddities were, too",
+   "start": 10066,
+   "end": 10228,
+   "line": 213
+  },
+  {
+   "fact": "心刚鼓起来又一沉：Gazzie 指甲缝里有红褐色的血",
+   "anchor": "My heart swelled, then skipped as I noticed red-brown blood under her nails",
+   "start": 10230,
+   "end": 10305,
+   "line": 213
+  },
+  {
+   "fact": "她盯着衬衫强问：出什么事了；Gazzie 烦躁地顺着她的视线看去：我在 slaughter——你到底需不需要帮忙",
+   "anchor": "“I was in slaughter. Do you or do you not need help?”",
+   "start": 10420,
+   "end": 10473,
+   "line": 219
+  },
+  {
+   "fact": "误会揭开：Gazzie 以为她发短信是叫人扶她起来；她挥手朝门：她要走了",
+   "anchor": "She thought I’d texted her to help me stand up",
+   "start": 10476,
+   "end": 10522,
+   "line": 222
+  },
+  {
+   "fact": "Gazzie 问谁、去哪；她答：一切都是她在背后操办",
+   "anchor": "“She’s behind everything.”",
+   "start": 10660,
+   "end": 10686,
+   "line": 234
+  },
+  {
+   "fact": "Gazzie 双眼一亮，冲出房间；她数着十拍把气吐出来再吸回去，压心跳",
+   "anchor": "Gazzie’s eyes lit up, and she barreled out of the room. I held my breath for a ten count",
+   "start": 10689,
+   "end": 10777,
+   "line": 237
+  },
+  {
+   "fact": "她的自评：成了——问清 Nova 就能查清农场的乱摊子，Gazzie 就会指定她做继承人",
+   "anchor": "We’d question Nova and get to the bottom of the farm mess, and Gazzie would name me heir",
+   "start": 10879,
+   "end": 10967,
+   "line": 240
+  },
+  {
+   "fact": "末句：她只需要忘掉 Nova 告诉她的那些话",
+   "anchor": "I just had to forget what Nova had told me",
+   "start": 10971,
+   "end": 11013,
+   "line": 243
+  }
+ ],
+ "relations": [
+  [
+   "Nova 本章当面称叙述者 Dart",
+   "“Oh, Dart,” she said. “It’s not a protest.”",
+   "L183"
+  ],
+  [
+   "叙述者与 Gazzie 的关系在本章自陈两次：my grandmother／Gazzie would name me heir",
+   "Of course my grandmother was a killer",
+   "L201"
+  ],
+  [
+   "Harrison 本章在修空调（与修理工一起），与她刻意不见",
+   "He’s with the repairman in the back",
+   "L24"
+  ],
+  [
+   "Joe 被她锁定为 Nova 的假定同伙",
+   "Joe must be her accomplice; that explained his alibis",
+   "L108"
+  ],
+  [
+   "Leon 那行字本章第三次出现",
+   "I’ll make her let me go or die trying.",
+   "L204"
+  ],
+  [
+   "「那只温柔的手／看不见的存在」的梦延续 ch20 的冷手线",
+   "that gentle hand had guided it to my shoulder",
+   "L12"
+  ],
+  [
+   "Gazzie 手上有血（slaughter 工作的直接后果）",
+   "a dark brown stain across her button-down. Blood. More than usual",
+   "L210"
+  ],
+  [
+   "破坏案清单本章点齐：插刀、抛尸、毁皮、放跑鳄鱼、kudzu、霉",
+   "the planted knives and dumped carcasses",
+   "L108"
+  ]
+ ],
+ "numbers": [
+  [
+   "沼泽距蛋库的尺度：东边五十码",
+   "the swamp fifty yards to the east",
+   "L57"
+  ],
+  [
+   "蛋库相对其他库房的规模：两倍大",
+   "it was twice as large and completely empty",
+   "L54"
+  ],
+  [
+   "kudzu 蔓延所用时间：一个周末",
+   "The kudzu had spread that far over the weekend",
+   "L57"
+  ],
+  [
+   "孵蛋计划的月份：七月与八月",
+   "we’d start hatching eggs inside in July and August",
+   "L54"
+  ],
+  [
+   "会议楼层与房间数：二层唯一一间会议室",
+   "a window to the sole meeting room",
+   "L96"
+  ],
+  [
+   "她压心跳的数息：十拍",
+   "I held my breath for a ten count",
+   "L237"
+  ],
+  [
+   "Gazzie 每日所杀：几十条鳄鱼",
+   "she killed dozens of alligators every day",
+   "L201"
+  ],
+  [
+   "Leon 那行字出现次数：本章第三次",
+   "I’ll make her let me go or die trying.",
+   "L204"
+  ],
+  [
+   "她剪完的范围：半栋蛋库",
+   "By the time I’d freed half the barn",
+   "L75"
+  ]
+ ]
+}
