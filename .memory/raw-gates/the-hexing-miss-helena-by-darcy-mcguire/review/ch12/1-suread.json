@@ -1,0 +1,823 @@
+{
+  "chapter": "ch12",
+  "slug": "the-hexing-miss-helena-by-darcy-mcguire",
+  "source": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch12_chapter_12.txt",
+  "source_lines": 372,
+  "read_discipline": "先素读：仅读 text/ch12_chapter_12.txt（全文 372 行），未打开 ch12 md、未看该章词表与导航",
+  "sampling_reason": "深审 R0–R5 全章（批 4／27，第 2 章）",
+  "line_ref_convention": "行号为 text/ch12_chapter_12.txt 的 1 基行号；引文逐字抄录",
+  "pov": "**双 POV 中途切换**：`:35`–`:113` 为辛西娅·伯罗斯第三人称限知；`:129` 起切到海伦娜·布莱尔第三人称限知（`:129` 首句 `Helena was unaccountably nervous…` 即切换点），直至章末 `:372`。切换点在辛克莱带两人离开办公室、进入摄影棚的转场处。海伦娜的读心是「思考中的声音」（无引号独立段），如 `:162`、`:177`；辛克莱的读心同样是辛西娅／海伦娜单方面听到的（`:345`、`:348`）。",
+  "events": [
+    {
+      "n": 1,
+      "who": "辛西娅",
+      "did": "恶心翻涌、继而是义愤：「我绝不会为你拍裸照，也不会允许我的朋友为了你那变态的乐趣而糟践自己。」她抓起海伦娜的手，决定验证自己的猜想——也许她们能跑得够快、逃出辛克莱的人的手；否则她宁可进债务人监狱，也不肯让自己或海伦娜被这样用在一种可憎的方式上",
+      "lines": "35",
+      "verbatim": "Nausea rolled in Cynthia’s belly, followed quickly by indignant rage. ‘I will not take nude photographs for you, nor will I allow my friend to debase herself for your perverse pleasure.’ She grabbed Helena’s hand, deciding to test her theory. Maybe they could run fast enough to escape Sinclair’s men. If not, she would go to a debtor’s prison before she allowed herself or Helena to be used in such a deplorable manner."
+    },
+    {
+      "n": 2,
+      "who": "辛克莱",
+      "did": "脚步又快又静；一分钟前还靠在书桌前，下一分钟就挡在她通往门口的路上：「冷静点，伯罗斯夫人。我的建议可没那么淫邪。我不会要求你处于任何不着一丝的状态。你可以完全保持现在的样子……只要做几处小改动。」",
+      "lines": "38",
+      "verbatim": "Sinclair was swift and silent on his feet. One minute, he was leaning on his desk; the next, he was blocking her path to the door. ‘Calm yourself, Lady Burrows. My suggestions is ’ardly as depraved as all that. I wouldn’t require you to be in any state of undress. You may stay exactly as you are… with a few minor changes.’"
+    },
+    {
+      "n": 3,
+      "who": "辛西娅 / 海伦娜",
+      "did": "辛西娅后退时撞上海伦娜，海伦娜扶住她的腰稳住她；辛西娅能感到海伦娜的手指压在自己紧身胸衣腰侧的凉意，既令人安心又令人不安",
+      "lines": "41",
+      "verbatim": "Cynthia stepped back, inadvertently bumping into Helena, who gripped Cynthia’s hip to steady her. She could feel the cool pressure of Helena’s fingers against her corseted waist, both comforting and disconcerting."
+    },
+    {
+      "n": 4,
+      "who": "辛西娅",
+      "did": "「我不明白。你为什么要给我们拍全身穿着衣服的照片？这种照片你没法拿来勒索。那对你有什么好处？」",
+      "lines": "44",
+      "verbatim": "‘I don’t understand. Why would you want to photograph us fully clothed? You can’t use such images for blackmail. How does that benefit you?’"
+    },
+    {
+      "n": 5,
+      "who": "海伦娜",
+      "did": "「他可以用它们来勒索。」声音在发抖，辛西娅分不清那是恐惧还是愤怒；她猜是后者",
+      "lines": "47",
+      "verbatim": "‘He can use them as blackmail.’ Helena’s voice quavered, though Cynthia couldn’t be certain if it was fear or rage. She guessed the latter."
+    },
+    {
+      "n": 6,
+      "who": "辛西娅",
+      "did": "「怎么勒索？」",
+      "lines": "50",
+      "verbatim": "‘How?’"
+    },
+    {
+      "n": 7,
+      "who": "海伦娜",
+      "did": "「因为他要的是我们在一起的照片。」手指在辛西娅腰间收紧，随后松开。「亲密照。是这样吧，辛克莱？」",
+      "lines": "53",
+      "verbatim": "‘Because he wants images of us together.’ Helena’s fingers tightened around Cynthia’s waist before she dropped her hand. ‘Intimate photos. Isn’t that right, Sinclair?’"
+    },
+    {
+      "n": 8,
+      "who": "辛西娅",
+      "did": "脸热起来，因为海伦娜的目光冷得足以冻住大多数男人的蛋",
+      "lines": "56",
+      "verbatim": "Cynthia’s face heated as Helena’s gaze turned icy enough to freeze most men’s bollocks."
+    },
+    {
+      "n": 9,
+      "who": "辛克莱",
+      "did": "只是点了点头：「一石二鸟，不是吗？我同时握住了你们两个人的筹码。」",
+      "lines": "59",
+      "verbatim": "Damien Sinclair merely nodded. ‘Kills two birds with one stone, dunnit? I ’ave bargaining power over both of you.’"
+    },
+    {
+      "n": 10,
+      "who": "辛西娅",
+      "did": "光是想到要和海伦娜拍亲密照片就有一阵完全不恰当的战栗涌过全身；但那阵兴奋立刻死于她意识到镜头后面会站着谁。「他真是魔鬼。」",
+      "lines": "62",
+      "verbatim": "A completely inappropriate thrill coursed through Cynthia at the very thought of taking intimate pictures with Helena. But the pulse of excitement immediately died when she realised who would be standing behind the camera. He truly was the Devil."
+    },
+    {
+      "n": 11,
+      "who": "辛西娅",
+      "did": "「你想把我们两个都毁掉？」",
+      "lines": "65",
+      "verbatim": "‘You want to ruin both of us?’"
+    },
+    {
+      "n": 12,
+      "who": "辛克莱",
+      "did": "耸肩，裁剪完美的西装几乎不起褶：「那取决于你。我可以保证这些照片永远不见天日，只要你时不时答应我几个小忙。比如给你那位称作叔叔的狗套上链子，布莱尔小姐。我厌倦他在我地盘上嗅来嗅去。」他是狡猾凶险的混蛋，可以永远勒索她们；而辛西娅完全玩进了他的手掌，把海伦娜像一块糖点似的送了上去",
+      "lines": "68",
+      "verbatim": "He shrugged, his impeccably tailored suit barely wrinkling. ‘That’s up to you. I can ensure these pictures never see the light of day. As long as you grant me a few favours from time to time. Like putting a leash on that dog you call an uncle, Miss Blair. I grow weary of ’im sniffing around my territory.’ Damien Sinclair was a devious, dangerous bastard. He could blackmail them forever. And Cynthia had played right into his hands. In the process, she’d delivered Helena up like some sugary treat."
+    },
+    {
+      "n": 13,
+      "who": "辛西娅",
+      "did": "骂自己是三倍的傻瓜；她也许愿意拿自己的名声冒险去还清辛克莱的债，但**绝不会**把海伦娜置于那样一个不义的位置",
+      "lines": "71",
+      "verbatim": "She cursed herself for being three times a fool. No matter what the alternative, she couldn’t possibly agree to his deal. She might be willing to risk her own reputation to clear her debts with Sinclair, but she would never put Helena in such an unconscionable position."
+    },
+    {
+      "n": 14,
+      "who": "辛西娅",
+      "did": "如果照片公开，毁掉的不只是海伦娜的名声，还会连根拔起她的家族和生计——药妆店由上流社会最上层的夫人小姐们光顾，若发现性堕落的证据，她们会立刻与海伦娜及其家族断绝往来。但海伦娜自己也不会允许落到辛克莱的掌控里：辛西娅一辈子被别人控制，而海伦娜是一只野物，会在这种约束下枯萎；辛西娅愿赴任何地狱也不愿海伦娜落到那步",
+      "lines": "74",
+      "verbatim": "If their photos were made public, it would destroy more than just Helena’s reputation. It would decimate her family and her livelihood. The apothecary shop was patronised by the beau monde’s most elite ladies. Women who would cut off any business with Helena and her family if evidence of sexual depravity were discovered. But neither would Helena allow herself to be at Sinclair’s mercy. While Cynthia had been controlled by others her whole life, Helena was a wild creature who would wither under such constraints. Cynthia would face any manner of hell to avoid such a fate for Helena."
+    },
+    {
+      "n": 15,
+      "who": "辛西娅",
+      "did": "「你这可恶、可怕的混蛋。」她嘶声道。她没法杀休伯特——他已经死了——但她完全可以杀了辛克莱",
+      "lines": "77",
+      "verbatim": "‘You wretched, horrible bastard,’ she hissed. She couldn’t kill Hubert, as he was already dead, but she could certainly murder Sinclair."
+    },
+    {
+      "n": 16,
+      "who": "辛克莱",
+      "did": "「一位淑女竟说这么粗鲁的话，我很震惊。」",
+      "lines": "80",
+      "verbatim": "‘Such coarse language from a refined lady. I’m shocked.’"
+    },
+    {
+      "n": 17,
+      "who": "辛西娅 / 海伦娜",
+      "did": "辛西娅往前猛冲，若非海伦娜抓住她的手臂把她拉回来，她就要扇他一耳光",
+      "lines": "83",
+      "verbatim": "Cynthia lurched forward and would have slapped him had Helena not grabbed her arm and pulled her back."
+    },
+    {
+      "n": 18,
+      "who": "海伦娜",
+      "did": "「我们照做。」",
+      "lines": "86",
+      "verbatim": "‘We’ll do it.’"
+    },
+    {
+      "n": 19,
+      "who": "辛西娅",
+      "did": "一定是她想象出海伦娜用那种冷静的声音说出这种不可能的话——这是唯一说得通的解释；但辛克莱那得意的笑可不是想象。她转身瞪着海伦娜，张嘴要抗议，海伦娜轻轻捏了捏她的手臂",
+      "lines": "89",
+      "verbatim": "She must have imagined Helena’s cool voice speaking such impossible words. It was the only explanation that made sense. But Damien Sinclair’s smug smile wasn’t her imagination. Turning to stare at Helena, she opened her mouth to protest. Helena squeezed her arm gently."
+    },
+    {
+      "n": 20,
+      "who": "海伦娜",
+      "did": "重复了一遍「我们照做」，灰眸灼烧着辛西娅；她眼里有银光闪烁，还有一个无声的承诺；辛西娅不需要魔法就听懂了海伦娜的信息",
+      "lines": "92",
+      "verbatim": "‘We’ll do it,’ she repeated, her grey gaze burning into Cynthia. There was a glint of silver in her eyes and an unspoken promise. Cynthia didn’t need magic to hear Helena’s message."
+    },
+    {
+      "n": 21,
+      "who": "辛西娅（内心）",
+      "did": "「相信我。」",
+      "lines": "95",
+      "verbatim": "Trust me."
+    },
+    {
+      "n": 22,
+      "who": "辛西娅",
+      "did": "这是疯狂；她们不能这么轻易落入怪物的掌心；但一股奇异的平静笼罩了她。过去这一小时里，辛西娅与海伦娜之间的某种东西变了——她们有了一个共同的、也是邪恶的敌人，这让她们从对手变成盟友；辛克莱无意中逼得她们联手对付他",
+      "lines": "98",
+      "verbatim": "Cynthia swallowed. This was madness. They couldn’t fall so easily into the monster’s hand. But a strange calm broke over her. Over the course of the last hour, something had shifted between Cynthia and Helena. They had a common – and evil – enemy. Which made them allies instead of adversaries. Sinclair had inadvertently forced them to join forces against him."
+    },
+    {
+      "n": 23,
+      "who": "辛西娅（内心）",
+      "did": "「他会很快后悔。」",
+      "lines": "101",
+      "verbatim": "A mistake he will soon regret."
+    },
+    {
+      "n": 24,
+      "who": "辛西娅（内心）",
+      "did": "「因为他根本不知道一个水巫和一个愤怒的寡妇能有多致命。」",
+      "lines": "104",
+      "verbatim": "Because he had no idea how deadly a waterwitch and an angry widow could be."
+    },
+    {
+      "n": 25,
+      "who": "辛西娅",
+      "did": "转向辛克莱，抬起下巴、挺直肩膀：「我同意之前要先拿到休伯特的债据。全部。」",
+      "lines": "107",
+      "verbatim": "Turning to face Sinclair, Cynthia tipped up her chin and straightened her shoulders. ‘I want Hubert’s letters of debt before I agree. All of them.’"
+    },
+    {
+      "n": 26,
+      "who": "辛克莱",
+      "did": "挑起一道黑眉：「我想这屋里不只我一个聪明人。」",
+      "lines": "110",
+      "verbatim": "Sinclair raised a black brow. ‘I s’pose I’m not the only cunning person in this room.’"
+    },
+    {
+      "n": 27,
+      "who": "海伦娜",
+      "did": "低语只传到辛西娅耳中：「差远了。」",
+      "lines": "113",
+      "verbatim": "‘Not by half.’ Helena’s whisper only reached Cynthia’s ear."
+    },
+    {
+      "n": 28,
+      "who": "海伦娜（**POV 切换点**）",
+      "did": "辛克莱领她们沿走廊更深处走进另一间房，她莫名紧张；开门进摄影棚时舌上尝到恐惧的金属味；房间空荡，只有相机架前一片用深红与黑蕾丝罩住的布景区，中央一张贵妃椅，四周地上散着靠垫",
+      "lines": "129",
+      "verbatim": "Helena was unaccountably nervous as Sinclair led them further down the corridor and into another room. When he opened the door to the studio, she tasted the metallic tang of fear on her tongue. The room was bare except for a staged area directly in front of the camera stand that was swathed in crimson and black lace. A chaise longue sat in the centre with cushions strewn about the floor."
+    },
+    {
+      "n": 29,
+      "who": "海伦娜（内心）",
+      "did": "「天哪。这就是艾莉在幻象里看到的。」",
+      "lines": "132",
+      "verbatim": "Dear God. This is what Ellie saw in her vision."
+    },
+    {
+      "n": 30,
+      "who": "海伦娜",
+      "did": "转身对着辛西娅，诅咒那个让她读不到辛西娅内心的咒；若知道她此刻在想什么、有什么感受，一切都会容易得多。辛西娅害怕吗？厌恶吗？对他们马上要做的事感到恐惧吗？**艾莉说辛西娅极想离开这个房间却走不了**——是因为和辛克莱做的交易，还是因为她将不得不和海伦娜亲密？或者两者同样令她作呕？",
+      "lines": "135",
+      "verbatim": "Helena turned to Cynthia and cursed whatever hex stopped her from reading the other woman’s mind. If she knew what Cynthia was thinking, what she was feeling, this would all be so much easier. Was she frightened? Repulsed? Horrified by what they were about to do? Ellie said Cynthia was desperate to leave the room but couldn’t. Was that because of the deal they made with Sinclair, or because she would have to be intimate with Helena? Or perhaps both were equally disgusting to her."
+    },
+    {
+      "n": 31,
+      "who": "海伦娜",
+      "did": "读不出辛西娅的想法让她处于明显劣势；这种劣势别人整日都在应付，但她自己从未体验过——直到现在。完全不可接受",
+      "lines": "138",
+      "verbatim": "Not being able to discern Cynthia’s thoughts put Helena at a distinct disadvantage. A disadvantage others dealt with all the time, but she had never had to experience. Until now. It was completely unacceptable."
+    },
+    {
+      "n": 32,
+      "who": "海伦娜",
+      "did": "她与辛西娅同样憎恨辛克莱把他们逼到这个处境，但她**并不排斥与辛西娅亲密这件事本身，只排斥亲密发生的处境**",
+      "lines": "141",
+      "verbatim": "While she shared Cynthia’s feelings of hatred towards Sinclair for forcing them into this situation, she was not repulsed by the idea of intimacy with Cynthia, just the circumstances of the intimacy."
+    },
+    {
+      "n": 33,
+      "who": "海伦娜",
+      "did": "她试过否认自己的吸引，但现在该说实话了；对自己说谎、或对事业上的伙伴说谎，从不会有好结果。不知什么时候，两人已经成了伙伴——至少在这次调查里",
+      "lines": "144",
+      "verbatim": "She had tried to deny her attraction, but it was time for honesty. Lying to oneself, or to one’s partner in a venture, never boded well. And somewhere along the way, they had become partners. At least in this investigation."
+    },
+    {
+      "n": 34,
+      "who": "海伦娜",
+      "did": "被迫摆出亲密姿势，会让「她觉得辛西娅多么诱人」几乎无法隐藏；这对辛西娅极不公平——辛西娅并没有要求海伦娜的关注，也没有理由相信她会欢迎海伦娜的求爱",
+      "lines": "147",
+      "verbatim": "Being forced into intimate poses with Cynthia would make it nearly impossible to hide how tempting she found the woman. Which was incredibly unfair to Cynthia. She had not asked for Helena’s attention, nor was there any reason to believe she would welcome her advances."
+    },
+    {
+      "n": 35,
+      "who": "海伦娜（内心）",
+      "did": "记起「俱乐部外的那一刻」",
+      "lines": "150",
+      "verbatim": "There was that moment outside of Sinclair’s club."
+    },
+    {
+      "n": 36,
+      "who": "海伦娜",
+      "did": "她认得欲望在另一个人眼睛里的样子，也曾在辛西娅的榛色目光里见过那种饥渴；但那不意味着她想要这样；危险时刻里疯狂的一瞬并不代表辛西娅更愿意与女人相伴。她最不愿意做的，就是把自己的欲望强加到一个自主权已经被剥夺的女人身上",
+      "lines": "153",
+      "verbatim": "Helena knew what desire looked like in the eyes of another. And she’d seen that hunger in Cynthia’s hazel gaze. But that didn’t mean she wanted this. A mad moment caught in the heat of danger did not mean Cynthia preferred the company of women. The very last thing Helena wished to do was force any desire she had onto a woman whose autonomy was already compromised."
+    },
+    {
+      "n": 37,
+      "who": "海伦娜",
+      "did": "「开始之前我需要和伯罗斯夫人说几句。私下说。」声音在安静的房间里很响",
+      "lines": "156",
+      "verbatim": "‘I need to speak with Lady Burrows before we begin. Privately.’ Helena’s voice was loud in the quiet room."
+    },
+    {
+      "n": 38,
+      "who": "辛克莱",
+      "did": "在相机后停下：「后悔了？因为你的选择可不多，布莱尔小姐。」",
+      "lines": "159",
+      "verbatim": "Sinclair paused behind the camera. ‘’aving second thoughts? Because you don’t ’ave a lot of options, Miss Blair.’"
+    },
+    {
+      "n": 39,
+      "who": "海伦娜（内心／读心）",
+      "did": "「你一个选择也没有。你叔叔也不会有。很快。」",
+      "lines": "162",
+      "verbatim": "You ’ave no options. And neither will your uncle. Soon."
+    },
+    {
+      "n": 40,
+      "who": "海伦娜（内心）",
+      "did": "他的想法和他其他一切一样有力",
+      "lines": "165",
+      "verbatim": "His thoughts were as forceful as everything else about him."
+    },
+    {
+      "n": 41,
+      "who": "海伦娜",
+      "did": "「你会拿到你那些该死的照片。但我需要和我的……朋友单独待一会儿。」",
+      "lines": "168",
+      "verbatim": "‘You’ll get your bloody pictures. But I need a moment alone with my… friend.’"
+    },
+    {
+      "n": 42,
+      "who": "辛克莱",
+      "did": "皱眉；他不会同意她的请求",
+      "lines": "171",
+      "verbatim": "Sinclair frowned. He wasn’t going to agree to her request."
+    },
+    {
+      "n": 43,
+      "who": "海伦娜",
+      "did": "故意激他：「怎么，辛克莱？你怕我们在一个没有窗、只有一道门的房间里找到什么隐藏的逃跑路线？」",
+      "lines": "174",
+      "verbatim": "Helena provoked him. ‘What’s the matter, Sinclair? Are you worried we’ll find some kind of hidden escape in a room with no windows and only one door?’"
+    },
+    {
+      "n": 44,
+      "who": "海伦娜（内心／读心）",
+      "did": "「没有逃生之路。我们谁都逃不掉。」",
+      "lines": "177",
+      "verbatim": "There’s no escape. Not for any of us."
+    },
+    {
+      "n": 45,
+      "who": "辛克莱",
+      "did": "危险男人的可怕想法。他从鼻子里呼气，掏出一块金表故意盯着表盘看：「五分钟。不能多。回来时我要她的头发散开。」朝辛西娅一点头，辛西娅僵住。他一言不发地迅速退出，门在身后咔哒一声关上",
+      "lines": "180",
+      "verbatim": "Dire thoughts from a dangerous man. He exhaled through his nose, pulled a gold watch from his pocket and looked pointedly at its face. ‘Five minutes. No more. And when I return, I want ’er hair unbound.’ He nodded at Cynthia, who stiffened. Without another word, he swiftly exited, shutting the door behind him with a loud click."
+    },
+    {
+      "n": 46,
+      "who": "辛西娅",
+      "did": "「这是个可怕的错误。」下唇颤抖，她狠狠咬住它，把海伦娜的目光引向那丰满的唇肉；一阵渴慕在她小腹深处舒展。「看看我的裙子。我不可能挑到更适合配合他那场恶心游戏的衣服。就像你说的，我看起来像个婊子。」眼里蓄满泪水，海伦娜为自己先前的粗话懊悔——**其实辛西娅看起来像个幻想**：天真穿着罪恶。「还有你！」她摇头。「你会因为我被毁掉。我不能允许这样。我不会。」",
+      "lines": "183",
+      "verbatim": "‘This is a terrible mistake.’ Cynthia’s bottom lip quivered and she bit it hard, drawing Helena’s eyes to the plump flesh. A swirl of need unfurled low in her belly. ‘Just look at my dress. I couldn’t have chosen a better outfit to play into his sick game. It’s as you said. I look like a trollop.’ Tears filled her eyes, and Helena cursed herself for her brash words earlier. In truth, Cynthia looked like a fantasy. Innocence dressed in sin. Sinclair could sell her picture for twice what Hubert owed him. ‘And you!’ She shook her head. ‘You’ll be ruined because of me. I can’t allow this. I won’t.’"
+    },
+    {
+      "n": 47,
+      "who": "海伦娜",
+      "did": "尖锐明亮的东西刺穿了她心口的盾；她把辛西娅拉近，把声音压到耳语（**辛克莱正在门外听着**，她不愿让他听见对话）：「我能毁掉胶片。」",
+      "lines": "186",
+      "verbatim": "Something sharp and bright pierced the shield around Helena’s heart. She pulled Cynthia close, dropping her voice to a whisper. Sinclair was listening at the door, and she had no wish for him to hear their conversation. ‘I can ruin the film.’"
+    },
+    {
+      "n": 48,
+      "who": "辛西娅",
+      "did": "一手捂住嘴，压住惊呼：「你能？」",
+      "lines": "189",
+      "verbatim": "Cynthia pressed a hand to her mouth, muffling her gasp. ‘You can?’"
+    },
+    {
+      "n": 49,
+      "who": "海伦娜",
+      "did": "「是的。你不必担心有人发现这些影像。」",
+      "lines": "192",
+      "verbatim": "‘Yes. You needn’t fret about anyone discovering these images.’"
+    },
+    {
+      "n": 50,
+      "who": "辛西娅",
+      "did": "「那你就是安全的？」",
+      "lines": "195",
+      "verbatim": "‘So, you’ll be safe?’"
+    },
+    {
+      "n": 51,
+      "who": "海伦娜",
+      "did": "她的盾从中间裂开，但她拒绝让它碎掉：「我宁可把泰晤士河喝干，也不会让那个男人对我或你有任何权力。」",
+      "lines": "198",
+      "verbatim": "Her shield cracked down the centre, but she refused to let it break. ‘I would drink the Thames dry before I let that man have any power over me. Or you.’"
+    },
+    {
+      "n": 52,
+      "who": "叙述层（海伦娜视角）",
+      "did": "辛西娅脸上的宽慰转瞬即逝；她望向镜头外那个为诱惑搭起来的布景，眉头皱下，颤抖地呼出一口气；恐惧一波波从这可怜女人身上滚落",
+      "lines": "201",
+      "verbatim": "The relief on Cynthia’s face was fleeting. As she looked beyond the camera at a stage set for seduction, her brow drew down, and she exhaled a shaky breath. Apprehension rolled off the poor woman in waves."
+    },
+    {
+      "n": 53,
+      "who": "海伦娜（内心）",
+      "did": "「真是的。」",
+      "lines": "204",
+      "verbatim": "Blast and bother."
+    },
+    {
+      "n": 54,
+      "who": "海伦娜",
+      "did": "她显然不想和海伦娜亲密——她的迟疑已经说明一切；但没办法避开这个处境。海伦娜需要让辛西娅安心一切都会好；她会控制自己的欲望；会尽一切力量让辛西娅在这不可能的处境里尽可能舒服",
+      "lines": "207",
+      "verbatim": "She didn’t want to be intimate with Helena, that much was obvious in her hesitation. But there was no way to avoid the situation. Helena needed to reassure Cynthia all would be well. She would control her desires. She would do everything in her power to make Cynthia as comfortable as she could in this impossible situation."
+    },
+    {
+      "n": 55,
+      "who": "辛西娅",
+      "did": "转身面对她，榛色眼睛里满是悲伤：「如果我知道休伯特这么深地陷在辛克莱口袋里，我绝不会让你跟我来。我怎么可能原谅你把我拖进这么糟糕的烂摊子？我知道你从来不喜欢我。我想这彻底毁掉了我们成为朋友的可能。」",
+      "lines": "210",
+      "verbatim": "Cynthia turned back to her, hazel eyes swimming in sorrow. ‘I never would have let you come with me if I knew Hubert was so deeply in Sinclair’s pocket. How can you ever forgive me for forcing you into such an awful mess? I know you were never fond of me. I suppose this well and truly destroys any chance we have of becoming friends.’"
+    },
+    {
+      "n": 56,
+      "who": "海伦娜（内心）",
+      "did": "「朋友？」担心的是这个？担心事后她不会再和她做朋友？",
+      "lines": "213",
+      "verbatim": "‘Friends?’ Is that what worried Cynthia? That Helena wouldn’t want to be chums after this?"
+    },
+    {
+      "n": 57,
+      "who": "辛西娅",
+      "did": "「傻，我知道。但我一直盼着有一天你会变得喜欢我。」声音沙哑；海伦娜能看见她乳房的上缘在那身丑闻服装的黑色蕾丝下起伏；她想在那儿印下一个吻，尝她的皮肤是甜是咸",
+      "lines": "216",
+      "verbatim": "‘Silly, I know. But I desperately hoped you would one day grow to like me.’ Cynthia’s voice was husky. Helena could see the upper globes of her breasts expand and contract against the black lace of her scandalous costume. She wanted to press a kiss just there. To taste her skin and know if it was sweet, salty, or a heady blend of both."
+    },
+    {
+      "n": 58,
+      "who": "海伦娜",
+      "did": "摇头。允许辛西娅为一个海伦娜无论如何都会享受的瞬间道歉，是不可忍受的",
+      "lines": "219",
+      "verbatim": "Helena shook her head. This was wrong. Allowing Cynthia to apologise for a moment Helena would undeniably enjoy, regardless of why they were in this position, was unbearable."
+    },
+    {
+      "n": 59,
+      "who": "海伦娜",
+      "did": "「我确实喜欢你。」",
+      "lines": "222",
+      "verbatim": "‘I do like you.’"
+    },
+    {
+      "n": 60,
+      "who": "辛西娅",
+      "did": "翻了个白眼：「当然了。我敢肯定你对每个强迫你在有损名声、生计和家族荣誉的风险下摆丑闻姿势的女人都怀着深厚情谊。」",
+      "lines": "225",
+      "verbatim": "Cynthia rolled her eyes. ‘Of course you do. I’m sure you hold great affection for every woman who forces you to pose scandalously in photos at the risk of your reputation, livelihood, and family honour.’"
+    },
+    {
+      "n": 61,
+      "who": "海伦娜",
+      "did": " frustrated 地呼出一口气：「我家族对荣誉的看法和你遇到过的任何人都不一样。相信我。」",
+      "lines": "228",
+      "verbatim": "Helena exhaled a frustrated breath. ‘My family’s view on honour is distinctly different from anyone you’ve encountered. Trust me.’"
+    },
+    {
+      "n": 62,
+      "who": "辛西娅",
+      "did": "「我想女巫不需要讨好上流社会。」",
+      "lines": "231",
+      "verbatim": "‘I suppose witches don’t need to curry favour with the beau monde.’"
+    },
+    {
+      "n": 63,
+      "who": "海伦娜",
+      "did": "「我们很少讨好任何人。你知道我讨厌辛克莱逼我们做这事吗？不。但你必须明白，**如果情况变了，如果他不是这笔交易的一部分，我不会有任何异议和你一起拍照，丑闻与否都一样。**」",
+      "lines": "234",
+      "verbatim": "Helena couldn’t stop the small smile. ‘We rarely curry favour with anyone. Do I like that Sinclair is forcing us to do this? No. But you must know, if the circumstances were altered, if he was not part of this deal, I would have no objections to posing in photos with you, scandalous or not.’"
+    },
+    {
+      "n": 64,
+      "who": "辛西娅",
+      "did": "眉间出现一道动人的皱褶：「我不明白。」",
+      "lines": "237",
+      "verbatim": "A charming wrinkle formed between Cynthia’s brows. ‘I don’t understand.’"
+    },
+    {
+      "n": 65,
+      "who": "海伦娜",
+      "did": "「你迷人得无法抗拒。」",
+      "lines": "240",
+      "verbatim": "‘I find you impossibly attractive.’"
+    },
+    {
+      "n": 66,
+      "who": "辛西娅",
+      "did": "嘴巴张开，无声地吸气",
+      "lines": "243",
+      "verbatim": "Cynthia’s mouth fell open on a silent inhalation."
+    },
+    {
+      "n": 67,
+      "who": "海伦娜",
+      "did": "抢时间把话说完（否则她会失去勇气）：「我以欣赏女人而非男人为荣，尽管许多人都认为这种吸引是扭曲的。」等了一下给辛西娅回应的机会，见她仍沉默便继续：「我从未在冲动下对某人行事，除非有相互理解，但……我恐怕在这场闹剧中藏不住我对你的欲望。我不要你为把我置于这样的处境道歉——若非辛克莱在场，这对我来说毫无难处。该道歉的是我。尽管我努力，我恐怕今晚无法不在我们的亲密中经历某种程度上的欢愉，而我知道你不会分享。这不可原谅，但我看不出别的办法。只要知道，无论他要求我们做什么，我都会尽我所能尊重你的界限。你在害怕，这完全有理由，但我从不想让你怕我，辛西娅。」",
+      "lines": "246",
+      "verbatim": "Helena pushed on, knowing they had scant moments remaining to reach an understanding. If she didn’t speak the rest in a rush, she would lose her courage to say it at all. ‘I have no shame in admiring women rather than men, though many consider such attraction to be twisted.’ She waited a beat, giving Cynthia a chance to respond. When she remained silent, Helena forged onward. ‘I have never acted on my impulses with someone unless there was a mutual understanding, but… I fear I won’t be able to hide my desire for you during this debacle. I won’t have you apologising for putting me in a situation that, were Sinclair not present, would pose no hardship for me. It is I who should apologise to you. Try as I might, I fear I won’t escape this evening without experiencing some element of pleasure in our intimacy that I know you won’t share. It’s unforgiveable, but I can’t see a way around it. Just know, I will do whatever I can to respect your boundaries, no matter what he asks of us. You are frightened, and there is much reason for that, but I don’t ever want you to fear me, Cynthia.’"
+    },
+    {
+      "n": 68,
+      "who": "海伦娜（内心）",
+      "did": "「我说出来了。而且正如我所料的那样糟糕。」",
+      "lines": "249",
+      "verbatim": "There. I said it. And it was just as awful as I expected."
+    },
+    {
+      "n": 69,
+      "who": "海伦娜",
+      "did": "她不习惯难为情；她知道自己是谁，对自己的魔法力量或性欲望都不感羞耻；但**明知不会被回报**仍承认自己对辛西娅的吸引，是相当可怕的。尽管如此，她不愿留下任何误解；她无法阻止对辛西娅的拉力，但可以让她安心——两人之间没有期待",
+      "lines": "252",
+      "verbatim": "Helena wasn’t accustomed to embarrassment. She knew who she was and felt no shame in her magical powers or her sexual desires. But admitting her attraction to Cynthia, knowing full well it would not be returned, was rather ghastly. Still, she would not risk there being a misunderstanding between them. She couldn’t help the pull she felt towards Cynthia, but she could reassure her there were no expectations."
+    },
+    {
+      "n": 70,
+      "who": "辛西娅",
+      "did": "「你真的读不了我的心思，对吧？」",
+      "lines": "255",
+      "verbatim": "‘You really can’t read my thoughts, can you?’"
+    },
+    {
+      "n": 71,
+      "who": "海伦娜",
+      "did": "被打了个措手不及；她歪了歪头：「什么？」",
+      "lines": "258",
+      "verbatim": "Helena was caught off guard. She cocked her head. ‘Pardon?’"
+    },
+    {
+      "n": 72,
+      "who": "辛西娅",
+      "did": "「你确定能毁掉那些照片吗？」",
+      "lines": "261",
+      "verbatim": "‘Are you certain you can destroy the photographs?’"
+    },
+    {
+      "n": 73,
+      "who": "海伦娜",
+      "did": "话题急转让她手忙脚乱：「呃，是的。相当确定。他必须立刻冲洗每块底片，所以我得等到他对自己的照片满意。不过我们离开时，我相当确定能用我的巫水灌进底片盒、冲掉承载我们影像的化学品。他手上有的任何照片我也能毁掉。我弄完之后，他手上只会剩下毁坏的底片和两个模糊难辨的身影泡在药水里的照片。」",
+      "lines": "264",
+      "verbatim": "The swift change in conversation had her floundering. ‘Er, yes. Reasonably certain. He’ll have to develop each plate right away, so I will need to wait until he is satisfied with his pictures. But as we are leaving, I’m quite sure I can use my witchwater to flood the negative box and wash away the chemicals holding our images. Whatever photographs he has, I can destroy as well. When I’m done, he’ll have ruined negatives and soaking photos of two indistinguishable figures.’"
+    },
+    {
+      "n": 74,
+      "who": "辛西娅",
+      "did": "抓住海伦娜一缕叛逆的卷发、慢慢别到耳后。「你真是个奇迹。」手指沿海伦娜下颌轻抚，如一阵战栗的触感。「你对我坦诚，就让我回报这份坦诚。」她用心吻了海伦娜的脸颊——那是女人日常问候时的随意动作；但在此刻、此地，海伦娜感到辛西娅的唇瓣拂过皮肤，**她的欲望变得液态**",
+      "lines": "267",
+      "verbatim": "Cynthia caught one of Helena’s rebellious curls and slowly tucked it behind her ear. ‘You are a wonder.’ She brushed her fingers along Helena’s jaw in a whisper of sensation. ‘As you have been honest with me, allow me to return the favour.’ With painstaking care, she pressed a chaste kiss against Helena’s cheek. It was a casual gesture women used in greetings every day. But here, now, Helena felt the brush of Cynthia’s lips against her skin, and her desire turned liquid."
+    },
+    {
+      "n": 75,
+      "who": "辛西娅",
+      "did": "没有退开，而是贴着她颈窝说话：「我一点也不觉得你吸引女人这件事是扭曲的。我唯一害怕的欲望是我自己的。我从没像现在这样想要过任何人。」她退开，海伦娜因失去那份温暖而隐隐作痛。「这很吓人。你迷住了我。而辛克莱这种恶心的混蛋不配目睹我们之间的这种魔法。**是他让这一切成为错误。不是你。不是我。不是我们。**」她转过身，几乎下巴碰到肩膀：「你愿意帮我把头发放下来吗？」",
+      "lines": "270",
+      "verbatim": "Cynthia didn’t pull away, but spoke into the crook of Helena’s neck. ‘I don’t find your attraction to women twisted in the slightest. And the only desires I fear are my own. I’ve never wanted anyone the way I want you.’ She stepped back. Helena ached at the loss of her warmth. ‘It’s terrifying. You captivate me. And a sick bastard like Sinclair doesn’t deserve to witness whatever this magic is between us. He is why this is a mistake. Not you. Not me. Not us.’ She turned, nearly touching her chin to her shoulder. ‘Will you take down my hair?’"
+    },
+    {
+      "n": 76,
+      "who": "海伦娜",
+      "did": "手指发抖地取下每一个别住辛西娅头发的发针，同时拼命消化她的话；每一条丝绳般的发绺落下，她就吸入香草与**忍冬**，把辛西娅的气味吸进肺里留住；当那团红木色的卷发披散下来，她俯身把鼻尖埋进柔软的发波，双手落在辛西娅腰上、把她拉紧贴住自己的胯；她咒骂那隔在两人身体之间的裙撑",
+      "lines": "273",
+      "verbatim": "Helena’s fingers shook as she carefully removed every pin holding Cynthia’s hair captive and desperately tried to process the woman’s words. As each silken rope fell free, she inhaled vanilla and honeysuckle, taking Cynthia’s scent into her lungs and holding her there. When the glorious mahogany mass of curls hung free, she leaned forward, pressing her nose into the soft waves, her hands falling to Cynthia’s waist and pulling her tight against her hips. She cursed the bustle separating their bodies."
+    },
+    {
+      "n": 77,
+      "who": "辛克莱",
+      "did": "「看来你们准备好了。」沙哑的声音是一段不受欢迎的打断；海伦娜感到核心里涌起一阵凉凉的力量：叫出水来托在掌心、让液态的狂怒像潮水般以海啸的力量砸向辛克莱，是再容易不过的事；但门外无疑有一支军队等着保护他们的首领",
+      "lines": "276",
+      "verbatim": "‘I see you’re ready.’ Sinclair’s rasp was an unwelcome interruption. Helena felt the cool rush of power growing in her core. It would be so easy to call forth the water, hold it in her palm, force a swell of liquid rage to crash down upon Sinclair with the force of a tidal wave. But he doubtless had an army on the other side of the door, waiting to protect their leader."
+    },
+    {
+      "n": 78,
+      "who": "辛西娅",
+      "did": "从海伦娜怀里走出来、移到贵妃椅上：「你到底要我们做什么？」",
+      "lines": "279",
+      "verbatim": "Cynthia stepped out of Helena’s embrace and moved to the chaise. ‘What exactly do you want us to do?’"
+    },
+    {
+      "n": 79,
+      "who": "辛克莱（内心）",
+      "did": "「帮我拿到本就属于我的东西。」嘴角抽动成一个紧绷的笑",
+      "lines": "282",
+      "verbatim": "Help me get what’s rightfully mine. Sinclair’s lips twitched in a tight smile."
+    },
+    {
+      "n": 80,
+      "who": "辛克莱",
+      "did": "走到相机旁；相机座旁的桌上有各种玻璃片和一只浅盘；辛克莱抽出一块玻璃片、小心地浸入盛着硝酸银的盘里；迅速把片塞进相机，指示海伦娜坐在贵妃椅上，辛西娅坐在她腿上",
+      "lines": "285",
+      "verbatim": "He stepped to the camera. A table, next to where the photographic box sat on a stand, held various plates and a shallow dish. Sinclair pulled free a glass plate and dipped it carefully into the dish, which held silver nitrate. He quickly slid the plate into the camera and directed Helena to sit on the chaise with Cynthia perched on her lap."
+    },
+    {
+      "n": 81,
+      "who": "辛克莱",
+      "did": "「把手指缠进她的头发，对，就这样。现在把她拉近些。」",
+      "lines": "288",
+      "verbatim": "‘Tangle your fingers in her hair, yes. Like that. Now pull her closer.’"
+    },
+    {
+      "n": 82,
+      "who": "海伦娜",
+      "did": "照他说的做，把辛西娅拉得极近，两人的唇只隔一息之遥；她的重量让海伦娜锚定在当下",
+      "lines": "291",
+      "verbatim": "Helena did as he asked, pulling Cynthia so close, their lips were only a breath apart. The weight of her grounded Helena, holding her present in the moment."
+    },
+    {
+      "n": 83,
+      "who": "海伦娜",
+      "did": "她会迷失在辛西娅眼睛的绿与褐里——森林的许多不同色阶：银鼠尾草、深苔、浓树皮，外面围着一圈更深的边缘，囚禁着宇宙；她空着的手收紧在辛西娅紧身胸衣的腰上，渴望摸到底下皮肤的柔软",
+      "lines": "294",
+      "verbatim": "She could lose herself in the greens and browns of Cynthia’s eyes. So many different shades of the forest. Silver sage, deep moss, rich bark, surrounded by a darker rim that held the universe captive. Her free hand tightened around Cynthia’s corseted waist, and she wished to feel the softness of her skin beneath."
+    },
+    {
+      "n": 84,
+      "who": "海伦娜",
+      "did": "辛西娅的呼吸一阵阵暖热地拂过她，辛西娅舔了舔嘴唇；海伦娜能感到热量一波波从辛西娅身上涌出；她渴望品尝她的嘴，探索隐秘的深处，向辛西娅展示两个彼此强烈渴望的人之间能寻到什么样的欢愉",
+      "lines": "297",
+      "verbatim": "Cynthia’s breath washed over her in puffs as she licked her lips. Helena could feel the heat pouring off Cynthia in waves. She longed to taste her mouth. Explore the hidden depths. Show Cynthia what pleasure could be found between two people who wanted each other as desperately as she wanted her."
+    },
+    {
+      "n": 85,
+      "who": "海伦娜",
+      "did": "镜盖咔哒一声扣回原位的快门声把她拉回当下；她眨了眨眼，看见辛西娅绷直了脊背",
+      "lines": "300",
+      "verbatim": "The snap of the lens cover clicking back into place pulled Helena back to the present. She blinked as Cynthia stiffened her spine."
+    },
+    {
+      "n": 86,
+      "who": "辛克莱",
+      "did": "眼神变硬；嘴角拉平；脑子里翻涌着恶毒的咒骂",
+      "lines": "303",
+      "verbatim": "Sinclair’s eyes turned hard. His mouth flattened as vicious curses filled his head."
+    },
+    {
+      "n": 87,
+      "who": "海伦娜",
+      "did": "也许他对萨福克女人有意见。但生气说不通——是他在让她们摆姿势，被勒索的是她们两个；她无法在不把眼睛变成银色的前提下更深地探入他的思维，而在这般近的距离他会看到突然的变化；她不能冒险再给他任何弹药；她最不需要的就是让辛克莱怀疑她可能是女巫",
+      "lines": "306",
+      "verbatim": "Perhaps he had an issue with sapphic women. But getting upset made no sense. He was making them pose. They were the ones being blackmailed. Helena couldn’t push deeper into his thoughts to determine the root of his bitterness without her eyes shifting to silver. In such close quarters, he would see the abrupt change, and she couldn’t risk giving him any more ammunition against them. The last thing she needed was for a man like Sinclair to suspect she might be a witch."
+    },
+    {
+      "n": 88,
+      "who": "辛克莱",
+      "did": "迅速抽出那块玻璃片，在硝酸银浅盘里蘸了一块新的塞进相机",
+      "lines": "309",
+      "verbatim": "He quickly pulled the glass plate free, dipped a new one in the shallow dish of silver nitrate and inserted it into the camera."
+    },
+    {
+      "n": 89,
+      "who": "辛克莱",
+      "did": "「伯罗斯夫人，站在布莱尔小姐身后。布莱尔小姐，给我侧面。伯罗斯夫人，把嘴贴在她脖子上，就那儿。」",
+      "lines": "312",
+      "verbatim": "‘Lady Burrows, stand behind Miss Blair. Miss Blair, show me your profile. Lady Burrows, press your mouth to her neck, just there.’"
+    },
+    {
+      "n": 90,
+      "who": "海伦娜",
+      "did": "她对摄影知道得够多：每块玻璃片只有几分钟就会干透、底片作废；她们磨蹭的话他会损失照片、得从头再来。这很诱人，但延长这场独特的折磨似乎不明智。两个女人迅速摆出新姿势；海伦娜转头让辛西娅够到她的脖子，感到辛西娅温热的呼吸，然后柔软的嘴唇压在她脖颈与肩膀相接的敏感筋腱上；辛西娅轻轻喘了一声，牙齿刮过她的皮肤；辛西娅的手按在海伦娜的小腹上紧紧握住，热与血涌上来，辛西娅的嘴在她脖子上细细吮吸",
+      "lines": "315",
+      "verbatim": "Helena knew enough of photography to understand he only had a few minutes before each glass plate would dry and render the negative useless. If they dawdled, he would lose his photographs and need to start over. It was tempting, but prolonging this unique torture seemed unwise. Both women quickly assumed the new pose. Helena turned her head to give Cynthia access to her neck. She felt the warm rush of Cynthia’s breath before soft lips pressed against the sensitive tendon where her neck met her shoulder. Helena gasped as Cynthia’s teeth gently scraped her skin. Cynthia’s hand pressed against Helena’s belly, holding her tightly as heat and blood rushed to the surface where Cynthia’s mouth delicately sucked her neck."
+    },
+    {
+      "n": 91,
+      "who": "海伦娜（内心）",
+      "did": "「女神啊。」",
+      "lines": "318",
+      "verbatim": "Dear goddess."
+    },
+    {
+      "n": 92,
+      "who": "海伦娜",
+      "did": "一股液态的热流涌过身体，在她双腿之间积聚，空洞的隐痛绽开；她恨自己在一个人一心想毁掉她们的男人面前如此兴奋",
+      "lines": "321",
+      "verbatim": "A liquid rush of heat flowed through Helena, pooling between her thighs as a hollow ache bloomed. She hated being so aroused in front of a man intent on ruining them."
+    },
+    {
+      "n": 93,
+      "who": "辛克莱 / 海伦娜",
+      "did": "辛克莱清了清嗓子，辛西娅从海伦娜身上退开；她差点抓住从海伦娜小腹上滑落的辛西娅的手，不愿失去那份连接",
+      "lines": "324",
+      "verbatim": "Sinclair cleared his throat, and Cynthia stepped back from Helena. She nearly caught Cynthia’s hand as it slipped from her belly, loathe to lose their connection."
+    },
+    {
+      "n": 94,
+      "who": "辛克莱 / 海伦娜",
+      "did": "「待在原地」，他走向房间角落一块帘子后面——那一定是间临时暗房，很聪明；他把两张玻璃片都冲洗出来以确保影像清晰，再把每张底片放进纸套、存在硝酸银盘旁的木盒里；**那是一个海伦娜要用水灌满的木盒**……如果她不是如此兴奋得不得劲，她本可以享受让辛克莱上当的满足感；她转向辛西娅，在对方脸上寻找恐惧或厌恶的迹象",
+      "lines": "327",
+      "verbatim": "‘Stay there,’ he instructed before stepping to a curtained area in the corner of the room. It must be a makeshift darkroom. Clever. He could develop photographs from both glass plates to ensure the images were clear before placing each negative in a paper sleeve, storing them in the wooden box sitting next to the dish of silver nitrate. A wooden box Helena would flood with water, soaking the chemicals so the images would be ruined before she left the room. Whatever other negatives he stored there would also be destroyed. If she weren’t so incredibly aroused, she could enjoy the satisfaction of knowing they would dupe the devious Damien Sinclair. She turned to face Cynthia and searched her face for signs of fear or disgust."
+    },
+    {
+      "n": 95,
+      "who": "海伦娜",
+      "did": "「你还好吗？」",
+      "lines": "330",
+      "verbatim": "‘Are you well?’"
+    },
+    {
+      "n": 96,
+      "who": "辛西娅",
+      "did": "「我……请原谅我。我不是故意，呃，怎么说……」她说不下去，但意思清楚：她吻海伦娜脖子时失控了；用牙齿、甜蜜地吮吸海伦娜，那些都不是辛克莱能拍下来的东西；她那么做是因为她想要海伦娜，而这显然让她自己不安；这个美丽、自信、强大的女人被自己的欲望吓到了——也就是说海伦娜必须极其小心",
+      "lines": "333",
+      "verbatim": "‘I… Please forgive me. I didn’t mean to, er, well.’ She couldn’t finish her thought, but the meaning was clear. She had gotten carried away when she kissed Helena’s neck. Using her teeth, sucking Helena so sweetly, those weren’t things Sinclair could photograph. She had done that because she wanted Helena, and that clearly upset her. This beautiful, confident, powerful woman was frightened of her own desires. Which meant Helena needed to tread very carefully."
+    },
+    {
+      "n": 97,
+      "who": "海伦娜",
+      "did": "「没有什么需要原谅的。」她把辛西娅颤抖的双手握在自己手里，轻轻捏了捏",
+      "lines": "336",
+      "verbatim": "‘There is nothing to forgive.’ Helena took Cynthia’s trembling hands in her own and squeezed gently."
+    },
+    {
+      "n": 98,
+      "who": "辛西娅",
+      "did": "「直到现在我才明白。我见过克里奥和我哥哥在一起的样子。我看过舞会上的情侣像饿汉盯着盛宴那样看着彼此。我一直以为自己缺的就是那块拼图。但现在——」（注：原文此处破折号前带一个 U+2060 word joiner）",
+      "lines": "339",
+      "verbatim": "‘I never understood until now. I’ve seen the way Clio and my brother are together. I’ve watched couples at balls stare at one another the way a starving man might look at a feast. I always thought I was missing that vital piece. But now⁠—’"
+    },
+    {
+      "n": 99,
+      "who": "辛克莱 / 海伦娜",
+      "did": "许多理由都值得辛克莱受苦，但没有比打断辛西娅这一刻更卑鄙；他拨开帘子大步走回来，**阻止辛西娅说出那些依然恼人地隐藏着的东西**；但海伦娜不必用魔法也能越过辛克莱思维的屏障——他几乎是在大声喊出自己的得意",
+      "lines": "342",
+      "verbatim": "Damien Sinclair deserved to suffer for many reasons, but none so dastardly as interrupting Cynthia in this moment. He swept the curtain aside and strode back to them, halting Cynthia from revealing what remained infuriatingly hidden from Helena. But she didn’t have to use her magic to get past the barriers of Sinclair’s mind. He was fairly shouting out his triumph."
+    },
+    {
+      "n": 100,
+      "who": "辛克莱（被读到的想法）",
+      "did": "「我快成功了！很快。很快，就完成了。这一切都会值得。必须值得。」（原文此句缺句读点：`done All of this`）",
+      "lines": "345",
+      "verbatim": "I’m so close! Soon. Soon, it will be done All of this will be worth it. It has to be."
+    },
+    {
+      "n": 101,
+      "who": "海伦娜（内心）",
+      "did": "另一样东西在他脑中一闪，快得抓不住；一道更暗的低语回响得如此之轻，海伦娜想知道他能否听见",
+      "lines": "348",
+      "verbatim": "Something else flickered in his mind, too quick to catch. A darker whisper echoing so quietly, Helena wondered if he could hear it."
+    },
+    {
+      "n": 102,
+      "who": "辛克莱",
+      "did": "「我已经拿到我需要的了。」他把每块玻璃片仔细放进各自的纸套，打开那个装着成排同样被保护好的底片的木盒，把它们恭敬地放进各自的格子；关上并重新锁好箱子，冷冷的目光锁定辛西娅：「现在，出去。」",
+      "lines": "351",
+      "verbatim": "‘I have what I need.’ He carefully inserted each glass plate into its own paper cover, unlocked the wooden box holding rows of similarly protected negatives, and placed them reverently into their own slots. Shutting and relocking the case, his cold gaze locked on Cynthia. ‘Leave, now.’"
+    },
+    {
+      "n": 103,
+      "who": "海伦娜",
+      "did": "不需要第二遍邀请；她牵起辛西娅的手匆匆奔向门口；回头看那个盒子时，她汇聚力量，把盒内的空气粒子压缩到凝成水滴；只一会儿就把盒子灌满；她藏起一个满意的笑，水从木箱外面滴下；**每一张底片都会被泡烂**——那些曾被囚禁在火棉胶与硝酸银里的影像被彻底毁掉",
+      "lines": "354",
+      "verbatim": "Helena didn’t need a second invitation. She took Cynthia’s hand, and they hurried to the door. Looking behind her at the box, she pooled her power, condensing the particles of air inside until droplets formed. It took only a moment to fill the box. She hid a satisfied grin as water dripped down the outside of the wooden case. Every negative would be soaked; the images that were once held captive in collodion and silver nitrate were irrevocably ruined."
+    },
+    {
+      "n": 104,
+      "who": "海伦娜",
+      "did": "只需一个眼神的闪动，她想象那些照片挂在临时暗房里晾干，也把它们一并泡掉，把清晰的影像糊成黑灰色的污痕",
+      "lines": "357",
+      "verbatim": "With a flick of her gaze, she imagined the photographs hanging to dry in the makeshift darkroom and soaked them as well, blurring the clear images to black and grey smudges."
+    },
+    {
+      "n": 105,
+      "who": "辛克莱",
+      "did": "「给你叔叔带个话，布莱尔小姐。如果他不停止调查我的事，我会毁掉他最珍视的东西。至于你，伯罗斯夫人……改天我会来讨一个人情，而且我要你答应我。现在，滚。」",
+      "lines": "360",
+      "verbatim": "Sinclair’s gravelled voice tore her focus away from her handiwork. ‘Take a message to your uncle, Miss Blair. If ’e doesn’t cease ’is investigations into my affairs, I will destroy that which ’e holds most dear. As for you, Lady Burrows… I’ll come calling for a favour one day. And I’ll expect you to grant it. Now, begone.’"
+    },
+    {
+      "n": 106,
+      "who": "海伦娜（内心）",
+      "did": "穿过她心底的恐惧是不理智的；**尽管他还不知道，她已经毁掉了他对拉克伦叔叔的任何筹码**",
+      "lines": "363",
+      "verbatim": "The fear whispering through her was nonsensical. Though he didn’t yet know it, she had ruined any leverage he might have over Uncle Lachlan."
+    },
+    {
+      "n": 107,
+      "who": "海伦娜（内心）",
+      "did": "「但他仍是个威胁。魔鬼没那么容易毁灭。」",
+      "lines": "366",
+      "verbatim": "But he is still a threat. Devils are not so easily destroyed."
+    },
+    {
+      "n": 108,
+      "who": "海伦娜（内心）",
+      "did": "这个念头不请自来，在她骨髓里共鸣",
+      "lines": "369",
+      "verbatim": "The thought came unbidden and resonated in the marrow of her bones."
+    },
+    {
+      "n": 109,
+      "who": "辛西娅",
+      "did": "拽着她的手把她拉出房间，走下楼梯、穿过赌厅、来到街上，伦敦凉爽的夜风洗过她们，辛西娅的马车在等着",
+      "lines": "372",
+      "verbatim": "Cynthia tugged her hand, pulling her from the room and scuttling down the stairs, through the gaming room and out onto the street where London’s cool evening air washed over them and Cynthia’s carriage waited."
+    }
+  ],
+  "relationships_noted": [
+    "辛西娅 ↔ 海伦娜：:35 「我的朋友」；:41 海伦娜扶腰（安慰＋不安）；:71 绝不把海伦娜置于不义位置；:95 「相信我」；:98 从对手变盟友；:183 辛西娅自认「像个婊子」、为把海伦娜拖进来道歉；:216 「我一直盼着有一天你会喜欢我」；:267 吻海伦娜脸颊并回以坦诚；:270 「我从没像现在这样想要过任何人」「是你迷住了我」「不是你。不是我。不是我们」；:315 辛西娅主动吮海伦娜的脖子（失控）；:333 辛西娅为自己的欲望道歉",
+    "海伦娜 ↔ 辛西娅：:135 读不到辛西娅的心＝劣势；:141 不排斥亲密本身、只排斥处境；:144 已成 partners；:153 不把自己的欲望强加给她；:186 「我能毁掉胶片」；:198 「我宁可把泰晤士河喝干」；:207 会控制自己的欲望、让辛西娅尽可能舒服；:222 「我确实喜欢你」；:234 若非辛克莱在场她乐意拍照；:246 长段剖白（不想让辛西娅为处境道歉／该道歉的是自己／会尊重界限／不想让她怕自己）；:252 明知不会被回报仍承认；:264 巫水毁底片方案；:273 拆发、闻香草与忍冬；:321 恨自己在要毁掉她们的男人面前兴奋",
+    "辛克莱 ↔ 辛西娅：:38 挡住去路；:59 一石二鸟、同时握筹码；:68 「看你想怎么办」＋用人情换；:77–:83 激怒她；:105/:106 他要她将来答应一个人情；:180 限她五分钟",
+    "辛克莱 ↔ 海伦娜：:68 「给你那位称作叔叔的狗套上链子」；:162（海伦娜读心）他也没有选择、他叔叔也不会有；:165 他的想法同样有力；:174 海伦娜激他；:180 走出五分钟；:276 他门外有军队；:286–:312 他主导摆姿势；:303 他对萨福克女人有芥蒂（海伦娜的猜测）；:345 他自认「快成功了」；:351 锁进木盒；:360 「给你叔叔带个话」",
+    "辛西娅 ↔ 休伯特（亡夫）：:35 「否则宁可进债务人监狱」；:77 「没法杀他，他已经死了」；:107 索要休伯特的债据全部；:183 「辛克莱能把她照片卖两倍于休伯特欠他的价钱」；:210 「如果我知道休伯特这么深地陷在辛克莱口袋里」",
+    "辛西娅 ↔ 克莱奥与哥哥：:339 「我见过克里奥和我哥哥在一起的样子」——克莱奥是海伦娜的表姐（ch02:35 `her cousin, Clio`）、也是辛西娅哥哥托马斯（Thomas，ch05:56 `Clio and Thomas`）的伴侣",
+    "辛西娅 ↔ 艾莉（幻象）：:339 未提；海伦娜一侧：:132 「这就是艾莉在幻象里看到的」；:135 艾莉说辛西娅「极想离开这个房间却走不了」（幻象细节只在本章出现）",
+    "辛西娅 ↔ 辛克莱的债据：:107 「我同意之前要先拿到休伯特的债据，全部」——**本章未写辛克莱是否交出**",
+    "海伦娜 ↔ 艾莉（幻象）：:132、:135",
+    "辛西娅 ↔ 上流社会客群：:74 药妆店的顾客是最上层的夫人小姐"
+  ],
+  "numbers_verbatim": [
+    "My suggestions is ’ardly as depraved as all that（L38）——**原文语法瑕疵：suggestions 用复数却配 is**",
+    "a few minor changes（L38）",
+    "Kills two birds with one stone（L59）",
+    "bargaining power over both of you（L59，两个人）",
+    "three times a fool（L71）",
+    "Five minutes. No more.（L180）",
+    "twice what Hubert owed him（L183，两倍于休伯特欠款）",
+    "a few minutes before each glass plate would dry（L315，每块玻璃片几分钟）",
+    "two indistinguishable figures（L264，两个人）",
+    "both glass plates（L327，两张玻璃片）"
+  ],
+  "unresolved_in_source": [
+    "辛克莱是否真的交出了休伯特的全部债据——辛西娅在 `:107` 提出要求，本章**没有回答**（她随后被带进摄影棚）",
+    "辛克莱「快成功了」「这一切都会值得」的**具体所指**（`:342`–`:348`）——「另一样东西在他脑中一闪」是什么，全书本章未解",
+    "辛克莱对「萨福克女人」的芥蒂（`:303`–`:306`）——海伦娜的**猜测**，原文只写「也许他有问题」",
+    "辛西娅的「克里奥和我哥哥」之外，她自己与海伦娜的「朋友」关系能否成立（`:210`–`:225`）——本章未落定",
+    "辛克莱将来要辛西娅答应的那「一个人情」（`:360`）具体是什么——悬置"
+  ],
+  "traps_noted": [
+    "**POV 在 `:129` 切换**（辛西娅 → 海伦娜）——`:129` 首句即 `Helena was unaccountably nervous…`；任何「全章贴辛西娅限知」的写法都是错的；任何把 `:129` 之后的内心句归给辛西娅的写法都是错的",
+    "L38 原文语法为 `My suggestions is ’ardly…`（复数名词配单数动词）——**原文如此**，不得「修正」或当作语料污染",
+    "L110 已核：`:345` `I’m so close! Soon. Soon, it will be done All of this will be worth it.` ——**原文 `done` 与 `All` 之间无标点**（疑似 epub 缺句读），逐字照抄时不得自行补句点",
+    "L339 `But now⁠—` ——**破折号前带 U+2060 word joiner（U+2060）**，逐字照抄须保留（归一化时不得当噪声删掉，否则与原文子串不匹配）",
+    "L141／L153：海伦娜**不排斥与辛西娅亲密本身，只排斥处境**；L153 更明写「不愿把自己的欲望强加到自主权已被剥夺的女人身上」——**不得**写成「海伦娜并不想要辛西娅」或「海伦娜对辛西娅没有欲望」",
+    "L246：海伦娜说的是「我恐怕今晚无法不在我们的亲密中经历某种程度的欢愉」——她**承认并预告了**自己的欢愉，不是「承诺不越界」而已；L246 同时有「我会尽我所能尊重你的界限」——两句并存，不得只引其一",
+    "L252 `knowing full well it would not be returned` ——海伦娜在 `:252` 认定辛西娅**不会**回报她；**辛西娅的回应（`:270`）在此之后**，不得把「不被回报」写成全章定论",
+    "L33／L35：辛西娅的「债务人监狱」是**假设性选项**（`If not, she would go to a debtor’s prison before…`），不是她已入狱或扬言入狱的既成事实",
+    "L264：海伦娜说「用我的巫水灌进底片盒」是**计划**，`:354`／`:357` 才**实际执行**；`she imagined the photographs hanging to dry… and soaked them as well` 是「想象＋做法」的混合叙述，不得写成辛克莱已确认照片被毁",
+    "L306：海伦娜**不能**在近距离下深入读心，因为眼睛会变成银色被看见——本章她**没有**读到辛克莱的「根因」，只读到「厌恶／咒骂」；不得写成她已读出他厌恶的原因",
+    "L339：说话人是**辛西娅**（她提到「我哥哥」与「克里奥」）；L342 是海伦娜**阻止**辛西娅把话说完——不得写成辛西娅已把话说完",
+    "L132 「这就是艾莉在幻象里看到的」指**摄影棚的布景**（深红与黑蕾丝）与 ch09 `:53` 幻象中的「crimson velvet and black lace」房间对应，**不是**指辛克莱的办公室；不得写成「辛克莱的办公室就是幻象中的房间」",
+    "L98「盟友」指的是**对抗辛克莱**这一具体目标，不是别的",
+    "L338「克里奥和我哥哥」——克里奥是**海伦娜的表姐**（ch02:35），同时是辛西娅哥哥托马斯的伴侣（ch05:56）；不得把两人关系颠倒，也不得把「我哥哥」当作海伦娜的哥哥",
+    "L360「给你叔叔带个话」的对象是**海伦娜的叔叔拉克伦**（L363 `Uncle Lachlan`），不是辛西娅的叔叔；辛西娅没有叔叔这条线"
+  ]
+}

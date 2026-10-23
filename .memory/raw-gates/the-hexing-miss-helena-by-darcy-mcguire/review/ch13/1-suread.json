@@ -1,0 +1,927 @@
+{
+  "chapter": "ch13",
+  "slug": "the-hexing-miss-helena-by-darcy-mcguire",
+  "source": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch13_chapter_13.txt",
+  "source_lines": 326,
+  "read_discipline": "先素读：仅读 text/ch13_chapter_13.txt（全文 326 行），未打开 ch13 md、未看该章词表与导航",
+  "sampling_reason": "深审 R0–R5 全章（批 5／27，第 1 章）",
+  "line_ref_convention": "行号为 text/ch13_chapter_13.txt 的 1 基行号；引文逐字抄录",
+  "pov": "单 POV 全章：辛西娅·伯罗斯第三人称限知（`:35`–`:326`）。例外：`:95`、`:296` 两段是海伦娜／狐狸（Hamlet）的**心声**，`:293` 是辛西娅对狐狸说的半句、`:296` 是狐狸的回话；`:164` `She is mine.` 是辛西娅的内心话（无引号独立段）。`:212`–`:260` 为辛西娅的**回忆闪回**（童年七岁，恩师史密斯夫人在场），叙述仍是她的限知。",
+  "events": [
+    {
+      "n": 1,
+      "who": "辛西娅",
+      "did": "马车在煤气灯街道上颠簸驶向梅费尔，她目不转睛盯着海伦娜的脸（那脸在黑暗里忽明忽暗）；她说「眼前的一层纱被揭掉了」，外面世界没变，变的是她自己心里",
+      "lines": "35",
+      "verbatim": "Cynthia couldn’t tear her gaze away from Helena’s face, flashing in and out of darkness as they bumped along the gas-lit streets towards Mayfair. A veil had been removed from her eyes. She finally saw things clearly. Nothing had changed in the world outside The Devil’s Bargain, but everything had changed inside of Cynthia."
+    },
+    {
+      "n": 2,
+      "who": "辛西娅（内心）",
+      "did": "达米安·辛克莱是危险的人，但他无意间送了她一份无价之礼：**对真实自我的觉察**；她几乎原谅他是个邪恶、算计、残忍的混蛋——**几乎**",
+      "lines": "38",
+      "verbatim": "Damien Sinclair was a dangerous man, but he had unintentionally given her an invaluable gift. Awareness of her true self. She could almost forgive him for being an evil, calculating, cruel bastard. Almost."
+    },
+    {
+      "n": 3,
+      "who": "海伦娜",
+      "did": "声音像一阵柔和的雨声穿过车厢：「越来越受不了不知道你在想什么」",
+      "lines": "41",
+      "verbatim": "‘I find it increasingly frustrating to not know what you are thinking.’ Helena’s cool voice reached across the carriage, a soft rainfall of sound."
+    },
+    {
+      "n": 4,
+      "who": "辛西娅",
+      "did": "「你也得和其余人一样受这份罪，真是不幸。」她忍不住嘴角带笑，尽管今晚的遭遇仍恐怖；她拿到了丈夫欠那个危险男人的**全部债据**，而且因为海伦娜的独门本领，他们**什么也没给他**",
+      "lines": "44",
+      "verbatim": "‘How unfortunate that you must suffer as the rest of us do.’ Cynthia couldn’t stop the smile curling her lips despite the horror of their evening. Though it certainly could have gone far worse. She had all the letters of debt her husband owed to a dangerous man, and thanks to Helena’s unique gifts, they had given him nothing in return."
+    },
+    {
+      "n": 5,
+      "who": "海伦娜",
+      "did": "「不只是听不见，是我不明白**为什么**。街上任何陌生人的内心独白我都能不费吹灰之力地摘出来，可你怎么都读不到。这说不通。」",
+      "lines": "47",
+      "verbatim": "‘It isn’t just that I can’t hear you. It’s that I don’t understand the why of it. I could pluck the inner musings of any stranger on the street without a hint of effort. But no matter how I try, your thoughts remain hidden. It makes no sense.’"
+    },
+    {
+      "n": 6,
+      "who": "辛西娅",
+      "did": "「现在再试一次。我想个简单的东西，你试着读我。」她仔细看着海伦娜",
+      "lines": "50",
+      "verbatim": "‘Try again, now. I’ll think something simple, and you try to read me.’ Cynthia watched Helena carefully."
+    },
+    {
+      "n": 7,
+      "who": "辛西娅（心中想的词）",
+      "did": "**RED.**（独立一行，是她清空杂念后想的那一个词）",
+      "lines": "53",
+      "verbatim": "RED."
+    },
+    {
+      "n": 8,
+      "who": "辛西娅（内心）",
+      "did": "她把心里除这个词以外的一切都清空了",
+      "lines": "56",
+      "verbatim": "She cleared her mind of everything except that one word."
+    },
+    {
+      "n": 9,
+      "who": "海伦娜",
+      "did": "眼睛开始变化：像池塘结冰那样一点点变浅、发亮，转成**闪烁的银色**",
+      "lines": "59",
+      "verbatim": "Helena’s eyes started to change. In the dark carriage, she could barely distinguish their shade, but like water freezing on a pond, they lightened, glowed, and turned to flashing silver."
+    },
+    {
+      "n": 10,
+      "who": "辛西娅",
+      "did": "「你的眼睛为什么会那样变？」",
+      "lines": "62",
+      "verbatim": "Cynthia stopped thinking about any colour other than Helena’s incandescent eyes. ‘Why do your eyes change like that?’"
+    },
+    {
+      "n": 11,
+      "who": "海伦娜",
+      "did": "眨了下眼，银色立刻消散：「我动用力量的时候就会这样。」",
+      "lines": "65",
+      "verbatim": "Helena blinked, the silver immediately dissipated until shadows once more hid her. ‘It happens when I use my powers.’"
+    },
+    {
+      "n": 12,
+      "who": "辛西娅",
+      "did": "「**一直**都会吗？」",
+      "lines": "68",
+      "verbatim": "‘Always?’"
+    },
+    {
+      "n": 13,
+      "who": "海伦娜",
+      "did": "耸肩，丝质衣料擦着天鹅绒坐垫沙沙作响：「有时候人们想得太大声，我根本不必深入魔法，他们的念头像浪一样朝我涌过来；另一些时候，当我在追寻某个真相，我必须**用力推**，然后眼睛才会变。」",
+      "lines": "71",
+      "verbatim": "Helena shrugged, the swish of silk against velvet squabs loud in the quiet carriage. ‘Sometimes, people are thinking so loudly, I don’t have to delve into my magic at all. Their thoughts crash over me like waves. Other times, when I’m seeking a particular truth, I have to push, and then my eyes change.’"
+    },
+    {
+      "n": 14,
+      "who": "辛西娅",
+      "did": "「会痛吗？」",
+      "lines": "74",
+      "verbatim": "‘Does it hurt?’"
+    },
+    {
+      "n": 15,
+      "who": "海伦娜",
+      "did": "「不会。动用力量像一股水流涌来，把我托起，让我失重。但别人念头的**持续噪音**会变得……很吵。」",
+      "lines": "77",
+      "verbatim": "Helena smiled, her face caught in the flashing streetlamp as the carriage swayed. ‘No. Accessing my power feels like a rush of water, lifting me. Making me weightless. But the constant noise of other people’s thoughts can become…’ Helena shrugged, ‘loud.’"
+    },
+    {
+      "n": 16,
+      "who": "辛西娅",
+      "did": "「但对我不会？」",
+      "lines": "80",
+      "verbatim": "‘But not with me?’"
+    },
+    {
+      "n": 17,
+      "who": "海伦娜",
+      "did": "摇头时一缕深红卷发散落：「不会。**和你在一起，是安静的。**」",
+      "lines": "83",
+      "verbatim": "A crimson curl broke free as she shook her head. ‘No. With you, it’s quiet.’"
+    },
+    {
+      "n": 18,
+      "who": "辛西娅",
+      "did": "「也许这是好事。」",
+      "lines": "86",
+      "verbatim": "‘Maybe that’s a good thing.’"
+    },
+    {
+      "n": 19,
+      "who": "海伦娜",
+      "did": "「是让人烦躁。我习惯了持续的噪音，可这沉默没法接受。就说今晚——我完全不知道拍那些照片对你影响如何，也不知道你真正的看法。」",
+      "lines": "89",
+      "verbatim": "‘It’s frustrating. I’m used to the constant noise, but the silence is impossible. Take tonight, for instance. I have no idea how taking those pictures affected you, or what your true opinion is.’"
+    },
+    {
+      "n": 20,
+      "who": "辛西娅",
+      "did": "「想知道我在想什么就问。我保证会回答你所有问题。」",
+      "lines": "92",
+      "verbatim": "‘If you wish to know what I’m thinking, ask. I promise I will answer any questions you might have.’"
+    },
+    {
+      "n": 21,
+      "who": "海伦娜（心声，无引号独立段）",
+      "did": "「我倒有几个问题想听答案。比如，你们两个身上为什么有彼此的味道。」",
+      "lines": "95",
+      "verbatim": "I have a few questions I’d like answered. Like why you two smell of each other."
+    },
+    {
+      "n": 22,
+      "who": "辛西娅（内心）",
+      "did": "她猛地转头看窝在海伦娜身边的那只**狐狸**；它舔了舔嘴、把尖鼻子搁在纤巧的爪子上；她没感到海伦娜说的那股失重的潮涌，但既然她能听见这只狐狸说话，**一定有某种魔法在起作用**",
+      "lines": "98",
+      "verbatim": "Cynthia turned sharply to the fox snuggled next to Helena. He licked his chops and placed his sharp nose between delicate paws. She didn’t feel the rush of weightlessness Helena described, but some magic must be at play to let her hear Helena’s familiar."
+    },
+    {
+      "n": 23,
+      "who": "海伦娜",
+      "did": "挑起一道深红的眉，无声地挑战她：「好。那拍照的时候你在想什么？」",
+      "lines": "101",
+      "verbatim": "‘All right. What were you thinking when we posed for those photographs?’ Helena lifted a crimson brow in silent challenge, daring Cynthia to live up to her promise."
+    },
+    {
+      "n": 24,
+      "who": "辛西娅（内心）",
+      "did": "心口怦怦作痛，那一刻感到的热度卷土重来且愈发强烈，把她的注意力从狐狸身上拽走",
+      "lines": "104",
+      "verbatim": "Her heart thudded painfully in her chest as the heat she had felt in those moments returned with increasing intensity, pulling her attention away from Hamlet."
+    },
+    {
+      "n": 25,
+      "who": "辛西娅（内心）",
+      "did": "「糟了。我不该撩她。」",
+      "lines": "107",
+      "verbatim": "Blast. I should never have baited her."
+    },
+    {
+      "n": 26,
+      "who": "辛西娅",
+      "did": "但承诺过的事她从不反悔：「我在想你的头发像燃烧的落日。或者秋天的荣光。我还想尝尝你的味道。」",
+      "lines": "110",
+      "verbatim": "‘I was thinking that your hair is like a blazing sunset. Or the glory of autumn. And I wanted to taste you.’"
+    },
+    {
+      "n": 27,
+      "who": "辛西娅",
+      "did": "「想知道我是不是尝起来像焦糖和咸味？」",
+      "lines": "113",
+      "verbatim": "‘To see if I taste of caramel and salt?’"
+    },
+    {
+      "n": 28,
+      "who": "海伦娜",
+      "did": "想起**一周前**自己问过的那个问题——那一定说明了什么——那给了她继续的勇气：「是的。而且我整个身体似乎都变成了流动的火焰。太不可思议了。」她往前靠；车厢热得不可思议，也许那只是辛西娅自己的体温；她的皮肤绷得紧紧的，被蕾丝紧身衣内衬蹭着裸露的臂内侧，酸胀地敏感",
+      "lines": "116",
+      "verbatim": "Helena remembered her question from a week ago. Surely that meant something. It gave her courage to continue. ‘Yes. And my whole body seemed to turn into liquid fire. It was extraordinary.’ She leaned closer to Helena. The carriage was impossibly warm. Or perhaps that was just Cynthia’s skin. It stretched tight, achingly sensitive to the rasp of her lace bodice against her bare inner arm."
+    },
+    {
+      "n": 29,
+      "who": "海伦娜",
+      "did": "「辛克莱打断我们之前，你说你一直不明白别人怎么会对彼此产生欲望。现在明白了吗？」眼睛又一次转向银色",
+      "lines": "119",
+      "verbatim": "‘Before Sinclair interrupted us, you told me you never understood how others felt desire for one another. Do you comprehend now?’ Helena’s eyes were turning silver once more."
+    },
+    {
+      "n": 30,
+      "who": "辛西娅（内心）",
+      "did": "她咬住嘴唇、屏住呼吸；她该退开，等这股疯狂的劲过去；但她想让海伦娜知道，也想找个人聊聊这个发现——若不是为了更好地理解自己",
+      "lines": "122",
+      "verbatim": "Cynthia bit her lip and held her breath. She should pull back. Wait until whatever madness currently claiming her released its grip. But she wanted Helena to know. She wanted to talk with someone about this revelation, if not to better understand it herself."
+    },
+    {
+      "n": 31,
+      "who": "辛西娅",
+      "did": "「你真觉得我漂亮吗？」她寻求保证——这是她从来不做、却迫切需要的事",
+      "lines": "125",
+      "verbatim": "‘Do you really think I’m beautiful?’ Cynthia sought assurance. Something she never did but desperately needed."
+    },
+    {
+      "n": 32,
+      "who": "海伦娜",
+      "did": "把脚从辛西娅的拖鞋间挪动，靴尖顺着小腿内侧往上拖——她在试探他，而他确实招架不住；车厢里的空气神秘地蒸发殆尽，辛西娅拼命想撑开肺",
+      "lines": "128",
+      "verbatim": "Helena shifted her foot between Cynthia’s slippers, dragging the toe of her boot up the inside of Cynthia’s calf. She was testing her, and dear God, it was working. All the air in the carriage mysteriously evaporated as Cynthia fought to expand her lungs."
+    },
+    {
+      "n": 33,
+      "who": "海伦娜",
+      "did": "「美得让人火大。你让这件案子变得**dashed**（异常）难集中注意力。」",
+      "lines": "131",
+      "verbatim": "‘Infuriatingly so. You make it dashed difficult to focus on this investigation.’"
+    },
+    {
+      "n": 34,
+      "who": "辛西娅",
+      "did": "「你怎么知道的？」",
+      "lines": "134",
+      "verbatim": "‘How did you know?’"
+    },
+    {
+      "n": 35,
+      "who": "辛西娅（内心）",
+      "did": "海伦娜俯身向前，辛西娅的视线控制不住地往她领口下扫；她太清楚自己胸房的模样，却被一股突如其来的欲望淹没——想感受海伦娜胸部的重量与质地，想知道她的乳尖是否和嘴唇一样是草莓红，想把那紧实的花蕾含在嘴里像咬熟透的果子",
+      "lines": "137",
+      "verbatim": "Helena leaned forward. Cynthia couldn’t stop her gaze from flicking down to the neckline of her dress. She knew what her own breasts looked like, but she was overwhelmed with a sudden desire to feel the weight and texture of Helena’s. To know if her nipples were the same strawberry red as her lips. To feel the tight bud against her mouth and nip her like a ripe fruit."
+    },
+    {
+      "n": 36,
+      "who": "辛西娅（内心）",
+      "did": "「太不成体统了！」",
+      "lines": "140",
+      "verbatim": "Highly untoward!"
+    },
+    {
+      "n": 37,
+      "who": "海伦娜",
+      "did": "把手放在辛西娅膝上，拇指画着煽火般的圈：「知道什么？」",
+      "lines": "143",
+      "verbatim": "‘Know what?’ Helena placed her hand on Cynthia’s knee, her thumb rubbing incendiary circles."
+    },
+    {
+      "n": 38,
+      "who": "辛西娅",
+      "did": "「知道你更偏爱女人而不是男人？」",
+      "lines": "146",
+      "verbatim": "‘That you preferred women to men?’"
+    },
+    {
+      "n": 39,
+      "who": "海伦娜",
+      "did": "牙齿白得闪光：「**克拉拉·博蒙特。**」",
+      "lines": "149",
+      "verbatim": "Helena’s teeth gleamed white. ‘Clara Beaumont.’"
+    },
+    {
+      "n": 40,
+      "who": "辛西娅（内心）",
+      "did": "对克拉拉·博蒙特的强烈憎恨涌遍全身，尽管她对这个人一无所知",
+      "lines": "152",
+      "verbatim": "An overwhelming hatred for Clara Beaumont washed through Cynthia, though she didn’t know a thing about her."
+    },
+    {
+      "n": 41,
+      "who": "辛西娅",
+      "did": "眯起眼：「克拉拉·博蒙特。」这个名字简直可以是一句咒语",
+      "lines": "155",
+      "verbatim": "She narrowed her gaze. ‘Clara Beaumont.’ The name could have been a curse."
+    },
+    {
+      "n": 42,
+      "who": "海伦娜",
+      "did": "舔了舔饱满的上唇、挑眉、缓缓点头：「我那时差不多**八九岁或十岁**。她是我们一个邻居的女儿。我们过去常一起玩。是个下雨天，我们在玩躲猫猫。**艾莉在找我们**。克拉拉和我一起躲进一个亚麻布橱柜。我记得淀粉和梨子的气味。她在狭小空间里把身体贴着我，我身体里的一切都苏醒了。就在那时我知道了。」",
+      "lines": "158",
+      "verbatim": "Helena licked her full upper lip and raised her brows, nodding slowly. ‘I was near to nine or ten. She was the daughter of one of our neighbours. We used to play together. It was a rainy day, and we were playing hide-and-seek. Ellie was seeking us. Clara and I hid together in a linen cupboard. I remember the smell of starch and pears. She pressed her body against mine in the small space and everything in me came alive. It was then I knew.’"
+    },
+    {
+      "n": 43,
+      "who": "辛西娅",
+      "did": "「后来呢？」她想找到这个克拉拉，用不容置疑的措辞告诉她：海伦娜·布莱尔不是她的人",
+      "lines": "161",
+      "verbatim": "‘What happened?’ Cynthia wished to find this Clara and tell her in no uncertain terms that Helena Blair was not for her."
+    },
+    {
+      "n": 44,
+      "who": "辛西娅（内心话，无引号独立段）",
+      "did": "**她是我的。**",
+      "lines": "164",
+      "verbatim": "She is mine."
+    },
+    {
+      "n": 45,
+      "who": "辛西娅（内心）",
+      "did": "**这是第二次**了，这个词在她胸口怦怦作响，比心跳还响",
+      "lines": "167",
+      "verbatim": "For the second time, the word pounded in her chest, louder than her heartbeat."
+    },
+    {
+      "n": 46,
+      "who": "辛西娅（内心）",
+      "did": "她从那种原始的渴求里退开——一个人不能占有另一个人；可她又无法否认把海伦娜拉进怀里、结结实实吻下去的冲动，好让那女巫再也不想克拉拉·博蒙特",
+      "lines": "170",
+      "verbatim": "She pulled back from the raw need. One could not possess another person. Yet she couldn’t deny the impulse to pull Helena into her arms and kiss her so soundly, the witch never thought of Clara Beaumont again."
+    },
+    {
+      "n": 47,
+      "who": "辛西娅（内心）",
+      "did": "休伯特吻过她上千次，却总是湿黏糊的一团嘴，她只忍着等它结束；完全不是她想对海伦娜做的——她想舔她双唇的缝直到对方张嘴，想沿着她下颌的边缘轻咬，想吮她下唇看她是不是又咸又甜，想让她发出和自己一样迫切的呻吟",
+      "lines": "173",
+      "verbatim": "Cynthia had been kissed by Hubert a thousand times, but it was always a wet, slimy mashing of mouths that she endured until it was over. Nothing like what she wanted to do with Helena. She wanted to lick the seam between her lips until the other woman opened to her. Nibble along the edge of her jaw. Suck her bottom lip and see if she did taste salty and sweet. She wanted to make Helena moan with a need as desperate as her own."
+    },
+    {
+      "n": 48,
+      "who": "海伦娜",
+      "did": "低笑一声，化解了辛西娅胸口的什么东西：「什么也没发生。我们当时只是孩子。克拉拉爱上了马厩管事的儿子。她没完没了地描绘那小子的棕眼睛。」",
+      "lines": "176",
+      "verbatim": "Helena’s low laugh eased something in Cynthia’s chest. ‘Nothing happened. We were just children. Clara was in love with the stable master’s son. She used to rhapsodise endlessly about the lad’s brown eyes.’"
+    },
+    {
+      "n": 49,
+      "who": "（站点推广行 · 语料污染）",
+      "did": "「A new book can wait quietly in the background.」",
+      "lines": "182",
+      "verbatim": "A new book can wait quietly in the background."
+    },
+    {
+      "n": 50,
+      "who": "（站点推广行 · 语料污染）",
+      "did": "「Add one to your list from Lokepub.」",
+      "lines": "185",
+      "verbatim": "Add one to your list from Lokepub."
+    },
+    {
+      "n": 51,
+      "who": "辛西娅",
+      "did": "「哦。可你……和别的女人有过亲密关系吗？」",
+      "lines": "191",
+      "verbatim": "‘Oh. But you have… experienced intimacy with other women?’"
+    },
+    {
+      "n": 52,
+      "who": "海伦娜",
+      "did": "拇指在辛西娅腿上又往上挪了一点：「有过几次。从来都不过是一时兴起。情感纠葛充满危险，应该不惜一切代价避开。」",
+      "lines": "194",
+      "verbatim": "Helena’s thumb inched higher up Cynthia’s leg. ‘A few. Never more than a passing whim. Emotional entanglements are fraught with peril and should be avoided at all costs.’"
+    },
+    {
+      "n": 53,
+      "who": "辛西娅（内心）",
+      "did": "这是一句警告。他们之间的一切都不会长久，也就是说**不该开始**；她现在就该退开",
+      "lines": "197",
+      "verbatim": "It was a warning. Whatever was between them couldn’t last. Which meant it shouldn’t start. Cynthia should pull back now. Because it would be impossible for her to continue down this path and not develop feelings for the elusive red-headed witch."
+    },
+    {
+      "n": 54,
+      "who": "海伦娜",
+      "did": "拇指继续沿大腿往上走：「但我一直知道那些女人想要什么。我从不必怀疑自己的举动是否被欢迎、是否给了她们想要的。没有谜团。完全不像你。你让我摸不着头脑。」",
+      "lines": "200",
+      "verbatim": "Helena’s thumb continued its journey along Cynthia’s thigh. ‘But always I knew what those women wanted. I never had to question whether my actions were welcome. Whether I was giving them what they desired. There was no mystery. Nothing like you. You bewilder me.’"
+    },
+    {
+      "n": 55,
+      "who": "辛西娅",
+      "did": "紧身胸衣勒得难受，她想要一把刀割开系带好深吸一口气：「这很糟吗？」",
+      "lines": "203",
+      "verbatim": "Her corset was insufferably tight. She wished for a blade to cut the ribbons so she could take a deep breath. ‘Is that bad?’"
+    },
+    {
+      "n": 56,
+      "who": "海伦娜",
+      "did": "缓缓摇头，视线牢牢攫住她：「只是让人不安。因为我不知道你是不是像我想要你那样渴望我。你说过你的欲望让你害怕。我不想你怕我，辛西娅。这对你来说全是新的。我想给你任何你需要的时间去确定。」",
+      "lines": "206",
+      "verbatim": "Helena slowly shook her head, her gaze holding Cynthia in thrall. ‘Only disconcerting. Because I don’t know if you want me with the same fervency that I want you. You said your desires frighten you. I don’t want you to be afraid, Cynthia. This is all new for you. I want to give you whatever time you need to be sure.’"
+    },
+    {
+      "n": 57,
+      "who": "辛西娅",
+      "did": "把海伦娜的手从自己大腿上拿开、把手印在对方手指上、舌尖探出去描摹指节；海伦娜张口喘气：「我一直相信直面自己的恐惧。有时候，**跳下去**比在不确定里踱步更好。」她也许还没准备好，但若不试怎么知道；她被伪装困住太久，已经记不起做回「**Cyn**」是什么感觉",
+      "lines": "209",
+      "verbatim": "Cynthia took Helena’s hand from her thigh and pressed her lips against the other woman’s fingers, her tongue darting out to explore the ridges. Helena’s mouth parted on a gasp. ‘I’ve always believed in facing my fears. Sometimes, it is better to leap than dither with uncertainty.’ She might not be ready, but how would she know if she didn’t try? She had been trapped in a disguise for so long, she couldn’t remember what if felt like to just be Cyn."
+    },
+    {
+      "n": 58,
+      "who": "（转场）",
+      "did": "一段记忆快速而鲜明地闪回",
+      "lines": "212",
+      "verbatim": "A memory flashed, fast and vivid."
+    },
+    {
+      "n": 59,
+      "who": "恩师史密斯夫人（Governess Smithers）",
+      "did": "瞪着辛西娅、眼睛睁大：「这姑娘不对劲。我向你发誓。」恐惧把她的脸绷硬，此时无云的空中闪过闪电",
+      "lines": "215",
+      "verbatim": "‘Something’s not right with the girl. I swear to you.’ Governess Smithers looked at Cynthia with wide eyes. Fear hardened her features as lightning flashed in a cloudless sky."
+    },
+    {
+      "n": 60,
+      "who": "辛西娅的母亲",
+      "did": "难得来访：「你快成歇斯底里了。控制自己。我雇你是因为你最好。不管有什么问题，把它从她身上训练掉。」",
+      "lines": "218",
+      "verbatim": "‘You are near hysterics. Control yourself.’ Cynthia’s mother had come for a rare visit. ‘I hired you because you are the best. Whatever is wrong, train it out of her.’"
+    },
+    {
+      "n": 61,
+      "who": "恩师史密斯夫人",
+      "did": "「这是魔鬼的勾当，我的夫人。我向你发誓。我见过她对着动物说话、 conjure 出各种天气。」",
+      "lines": "221",
+      "verbatim": "‘It’s the very Devil’s work, my lady. I swear to you. I’ve seen her whispering to the animals. Conjuring all kinds of weather.’"
+    },
+    {
+      "n": 62,
+      "who": "（环境）",
+      "did": "雷声隆隆；史密斯夫人转向窗户，窗子在一阵狂风里震响",
+      "lines": "224",
+      "verbatim": "Thunder rumbled. Governess Smithers turned to the window as it rattled in a wild burst of wind."
+    },
+    {
+      "n": 63,
+      "who": "辛西娅的母亲",
+      "did": "带着越来越重的忧虑看了辛西娅一眼，再转向恩师：「不必担心。魔鬼不是我的对手。我会处理这件事，你留下来把辛西娅训练成一位淑女。我会**加倍**你的工钱，让你把看到的事保密。」",
+      "lines": "227",
+      "verbatim": "Cynthia’s mother glanced at Cynthia with growing concern before turning back to the governess. ‘Fear not. The Devil is no match for me. I will take care of this, and you will stay and train Cynthia to become a proper lady. I will double your wages to keep what you have seen a secret.’"
+    },
+    {
+      "n": 64,
+      "who": "恩师史密斯夫人",
+      "did": "眯起眼、绷紧下颌：「**三倍。**」",
+      "lines": "230",
+      "verbatim": "Governess Smithers narrowed her gaze and firmed her jaw. ‘Triple.’"
+    },
+    {
+      "n": 65,
+      "who": "辛西娅的母亲",
+      "did": "从鼻子里哼出一口气：「行。但你若吐出一个字，我就**毁了你**。等我办完，你就不适合再训练田鼠了。」",
+      "lines": "233",
+      "verbatim": "Cynthia’s mother hissed out a breath. ‘Fine. But if you breathe a word of this, I will decimate you. When I’m through, you won’t be fit to train field mice.’"
+    },
+    {
+      "n": 66,
+      "who": "恩师史密斯夫人",
+      "did": "下巴抖动着点头",
+      "lines": "236",
+      "verbatim": "Governess Smithers’s chin wobbled as she nodded."
+    },
+    {
+      "n": 67,
+      "who": "托马斯（兄）",
+      "did": "声音还是稚嫩的高音，却带着忠诚兄长的怒气：「Cyn 才没有不对劲！」",
+      "lines": "239",
+      "verbatim": "‘There’s nothing wrong with Cyn!’ Thomas’ voice, still a tender falsetto, rang with the rage of a loyal brother."
+    },
+    {
+      "n": 68,
+      "who": "辛西娅的母亲",
+      "did": "用不容忽视的严厉语气：「跟史密斯夫人走，托马斯。你明天就要去上学，得准备好。我要和辛西娅单独谈谈。」",
+      "lines": "242",
+      "verbatim": "‘Go with Governess Smithers, Thomas. You’re leaving for school on the morrow and must be ready.’ Their mother used the stern tone that was impossible to ignore. ‘I need to speak with Cynthia alone.’"
+    },
+    {
+      "n": 69,
+      "who": "托马斯",
+      "did": "捏了捏辛西娅的手指；他十岁，只比她大三岁，但一向是她的保护者；绿色的眼睛里噙满泪水，被史密斯夫人拉走",
+      "lines": "245",
+      "verbatim": "Thomas squeezed Cynthia’s fingers. He was ten, only three years older than her, but always her protector. His green eyes filled with tears as Governess Smithers pulled him away."
+    },
+    {
+      "n": 70,
+      "who": "辛西娅",
+      "did": "「没事的，托马斯。」她不忍看他的痛苦；七岁生日那天起她身上发生变化，睁开眼那一刻涌进来的力量不会消失，反而越来越糟；也许这是魔鬼的勾当；反正肯定让周围所有人都生气",
+      "lines": "248",
+      "verbatim": "‘It’s all right, Thomas.’ Cynthia couldn’t stand to see his distress. Whatever had changed within her on her seventh birthday, the power that filled her the moment she opened her eyes, wasn’t going away. It was getting worse. Perhaps it was the Devil’s work. It certainly made everyone around her angry."
+    },
+    {
+      "n": 71,
+      "who": "辛西娅的母亲",
+      "did": "史密斯夫人关上育婴室的门后，母亲立刻握住辛西娅双手：「比我担心的更糟。」",
+      "lines": "251",
+      "verbatim": "‘It’s worse than I feared.’ Her mother took both of Cynthia’s hands as soon as Governess Smithers shut the nursery door behind them."
+    },
+    {
+      "n": 72,
+      "who": "辛西娅",
+      "did": "真实的、灼热而刺人的恐惧从胸口流到指尖脚趾：「我有什么不对劲吗，母亲？」因为确实有什么不一样了",
+      "lines": "254",
+      "verbatim": "Fear, real and hot and prickling, flowed from Cynthia’s chest out to her fingers and toes. ‘Is something wrong with me, Mother?’ Because something was certainly different."
+    },
+    {
+      "n": 73,
+      "who": "（叙述）",
+      "did": "母亲抿紧嘴唇、蹲下来平视辛西娅的眼睛；她浅蓝色的目光里满是某种挥之不去又让人心碎的哀伤",
+      "lines": "257",
+      "verbatim": "Her mother pressed her lips together and crouched down to look Cynthia in the eyes. Her pale-blue gaze was full of something haunting and achingly sad."
+    },
+    {
+      "n": 74,
+      "who": "辛西娅的母亲",
+      "did": "「我本希望它会绕过你。它绕过了我，也绕过了我的母亲。你注定要成为上流社会（beau monde）的贵妇，我的宝贝。魔法在这个世界没有容身之地。来。」",
+      "lines": "260",
+      "verbatim": "‘I hoped it would pass you by. As it did me, and my mother. You are destined to be a grand lady of the beau monde, my darling. Magic has no place in this world. Come.’"
+    },
+    {
+      "n": 75,
+      "who": "（环境）",
+      "did": "马车猛地一停",
+      "lines": "263",
+      "verbatim": "The carriage lurched to a stop."
+    },
+    {
+      "n": 76,
+      "who": "辛西娅",
+      "did": "弹簧的吱呀声与碎石声把她从回忆里拽回当下",
+      "lines": "266",
+      "verbatim": "Cynthia was pulled from her memory as the creak of springs and crunch of gravel brought her back to the present."
+    },
+    {
+      "n": 77,
+      "who": "辛西娅（内心）",
+      "did": "她吩咐车夫**先**送她们到海伦娜家，再送她回那栋她很快就要搬离的房子",
+      "lines": "269",
+      "verbatim": "She had instructed the driver to take them to Helena’s home first before returning Cynthia to the house she would soon be leaving."
+    },
+    {
+      "n": 78,
+      "who": "辛西娅（内心）",
+      "did": "「这到底是怎么回事？」（原文粗口：What the bloody hell was that?）",
+      "lines": "272",
+      "verbatim": "What the bloody hell was that?"
+    },
+    {
+      "n": 79,
+      "who": "辛西娅（内心）",
+      "did": "她对史密斯夫人来之前的童年几乎没记忆；托马斯会讲那些故事，但**七岁以前**她的记忆出奇地空白，偶尔闪回的画面也模糊零碎",
+      "lines": "275",
+      "verbatim": "She didn’t remember much of her childhood before Governess Smithers arrived. Thomas would tell stories, but before seven, her memories were curiously blank. The fleeting images she recalled from those times were hazy and disjointed."
+    },
+    {
+      "n": 80,
+      "who": "辛西娅（内心）",
+      "did": "海伦娜说得对，她需要时间消化正在发生的一切；休伯特的死像一记重击，打碎她为自己筑起的、用来包裹那些不被接受的部分的盾牌；但她已不那么在乎自己是否「被接受」了",
+      "lines": "278",
+      "verbatim": "Helena was right. She needed time to process all that was changing within her. Hubert’s death was like a blow shattering shields she had constructed around parts of herself that were unacceptable. But she didn’t care so much about being acceptable any more."
+    },
+    {
+      "n": 81,
+      "who": "辛西娅",
+      "did": "靠回座位，让海伦娜的手从自己手里滑脱：「你到家了，海伦娜。」",
+      "lines": "281",
+      "verbatim": "Leaning back, she let Helena’s hand slip from her own. ‘You are home, Helena.’"
+    },
+    {
+      "n": 82,
+      "who": "海伦娜",
+      "did": "瞪着窗户，仿佛窗户严重冒犯了她：「真不巧。」",
+      "lines": "284",
+      "verbatim": "Helena glared at the window as if it had gravely insulted her. ‘How unfortunate.’"
+    },
+    {
+      "n": 83,
+      "who": "哈姆雷特（狐狸，心声）",
+      "did": "「秘密这东西总会往上冒。祝你那份好运。」——这是狐狸对辛西娅说的风凉话，紧接着 `:290` 它跳起来、`:293` 辛西娅回嘴「你帮不上忙」并瞪它。**不是站点推广行**（该行全书仅此一处；真正的 Lokepub 推广行在 `:182`/`:185`，且与 ch19 `:194`/`:197` 逐字相同）",
+      "lines": "287",
+      "verbatim": "Secrets have a way of bubbling up. Good luck with yours."
+    },
+    {
+      "n": 84,
+      "who": "哈姆雷特（狐狸）",
+      "did": "跳起来站定，琥珀色的眼睛在辛西娅身上停留了一下，然后跳下车厢地板等着开门",
+      "lines": "290",
+      "verbatim": "Hamlet sprang to his feet, his amber gaze lingering on Cynthia before he hopped to the floor and waited for the carriage door to open."
+    },
+    {
+      "n": 85,
+      "who": "辛西娅（对狐狸说）",
+      "did": "「你帮不上忙。」她瞪着狐狸",
+      "lines": "293",
+      "verbatim": "You are not helpful. Cynthia glared at the fox."
+    },
+    {
+      "n": 86,
+      "who": "哈姆雷特（狐狸，心声）",
+      "did": "「我可帮大忙了。」",
+      "lines": "296",
+      "verbatim": "I’m incredibly helpful."
+    },
+    {
+      "n": 87,
+      "who": "海伦娜",
+      "did": "准备下车：「明天你有空一起吃晚饭吗？**拉克兰叔叔**会在。我们可以跟他讲讲今晚的事。」",
+      "lines": "299",
+      "verbatim": "‘Are you free tomorrow for dinner? Uncle Lachlan will be there. We can tell him about this evening.’ Helena shifted, readying to depart."
+    },
+    {
+      "n": 88,
+      "who": "辛西娅",
+      "did": "心往下沉：「必须吗？他会告诉托马斯的，我无法想象我哥哥听到这消息会高兴。」不管世界怎么变，有一点不变：哥哥的保护本能，他不会乐意听说辛西娅把自己置于如此危险的境地",
+      "lines": "302",
+      "verbatim": "Cynthia’s belly rolled as her heart dropped. ‘Must we? He’ll tell Thomas and I can’t imagine my brother will take the news well.’ No matter how her world was shifting, one thing was constant: the protective nature of her brother. He would not be pleased to hear Cynthia had put herself in such a dangerous situation."
+    },
+    {
+      "n": 89,
+      "who": "海伦娜",
+      "did": "苦笑回应：「我觉得必须。今晚辛克莱放弃的可不止是对我们的把柄。他告诉你他没杀你丈夫时没有撒谎，但也并非完全诚实——他说还有别人有理由杀休伯特，可他没告诉我们的是**他脑子里冒出的那个名字**。」",
+      "lines": "305",
+      "verbatim": "Helena’s rueful smile echoed Cynthia’s sentiment. ‘I think we must. Sinclair gave up more than just his leverage against us tonight. He wasn’t lying when he told you he didn’t kill your husband. But neither was he completely honest. He said there were others who had reason to murder Hubert, but what he didn’t tell us was the name that came into his mind.’"
+    },
+    {
+      "n": 90,
+      "who": "辛西娅",
+      "did": "「他给了你一个名字？」",
+      "lines": "308",
+      "verbatim": "‘He gave you a name?’"
+    },
+    {
+      "n": 91,
+      "who": "海伦娜",
+      "did": "「不是有意的。但当你问他谁杀了你丈夫时，他**心里想得清清楚楚**，像周日教堂的钟声一样。**乔治·利珀特**。」",
+      "lines": "311",
+      "verbatim": "‘Not intentionally. But when you asked who killed your husband, he thought it clear as church bells on Sunday. George Lippert.’"
+    },
+    {
+      "n": 92,
+      "who": "辛西娅",
+      "did": "摇头：「乔治·利珀特到底是哪号人物？」",
+      "lines": "314",
+      "verbatim": "Cynthia shook her head. ‘Who the bloody hell is George Lippert?’"
+    },
+    {
+      "n": 93,
+      "who": "海伦娜",
+      "did": "车夫打开车门放下踏板；哈姆雷特跳下车，海伦娜跟在后面，风卷起她一缕火红的头发吹过脸颊：「不知道。但拉克兰叔叔可能知道；如果他也不知道，他会去查出来。」",
+      "lines": "317",
+      "verbatim": "The footman opened the carriage door and set the step. Hamlet leapt to the ground and Helena followed, turning as the wind caught a strand of her fiery hair and blew it across her cheek. ‘No idea. But Uncle Lachlan might know. And if he doesn’t, he’ll find out.’"
+    },
+    {
+      "n": 94,
+      "who": "辛西娅",
+      "did": "关门前又看了一眼哈姆雷特，再看回海伦娜：「你能听见动物的**想法**吗？还是只有人的？」",
+      "lines": "320",
+      "verbatim": "Before she shut the door, Cynthia glanced at Hamlet, then back to Helena. ‘Can you hear animals’ thoughts as well? Or only people?’"
+    },
+    {
+      "n": 95,
+      "who": "海伦娜",
+      "did": "银色的眼睛蒙上阴翳：「只有人。怎么了？」",
+      "lines": "323",
+      "verbatim": "Helena’s silver eyes clouded. ‘Only people. Why?’"
+    },
+    {
+      "n": 96,
+      "who": "辛西娅",
+      "did": "靠回车厢的阴影里：「没什么。」但她看见海伦娜的嘴唇抿紧了——她不该问这个；反正也不可能；**不管那只狐狸怎么说，她都不是女巫**；她只是个女人，正在意识到自己世界里的一切都不是表面那样",
+      "lines": "326",
+      "verbatim": "Cynthia leaned back into the shadows of the carriage. ‘No reason.’ But she saw Helena’s lips press together. She shouldn’t have asked. It was impossible at any rate. She wasn’t a witch, no matter what the fox said. She was just a woman, realising nothing in her world was as it seemed."
+    }
+  ],
+  "relationships_noted": [
+    {
+      "pair": "辛西娅 ↔ 海伦娜",
+      "kind": "情感关系推进（全书第 13 章）",
+      "lines": "35, 110, 116, 125, 128, 152, 161, 164, 173, 194, 197, 206, 209",
+      "verbatim": "‘I was thinking that your hair is like a blazing sunset. Or the glory of autumn. And I wanted to taste you.’ … ‘I find you impossibly attractive.’（ch12）… She is mine. … ‘Only disconcerting. Because I don’t know if you want me with the same fervency that I want you.",
+      "note": "辛西娅第二次说出「她是我的」（`:164`；第一次在 ch11 `:89`）；海伦娜给出「你让我摸不着头脑」（`:200`）与「我想给你确定所需的时间」（`:206`）。**两人尚未确立关系**，海伦娜明确说情感纠葛应避开（`:194`），辛西娅意识到不该开始（`:197`）。"
+    },
+    {
+      "pair": "辛西娅 ↔ 休伯特（亡夫）",
+      "kind": "夫妻／对比",
+      "lines": "44, 173, 278, 305, 311",
+      "verbatim": "She had all the letters of debt her husband owed to a dangerous man … Cynthia had been kissed by Hubert a thousand times, but it was always a wet, slimy mashing of mouths that she endured until it was over.",
+      "note": "本章提到休伯特的方式全是「已死」：债据（`:44`）、吻（`:173`）、死亡带来的打击（`:278`）、被谋杀的案件（`:305`/`:311`）。**休伯特本人不出场、不说话**。"
+    },
+    {
+      "pair": "辛西娅 ↔ 托马斯（兄）",
+      "kind": "兄妹",
+      "lines": "239, 242, 245, 248, 302",
+      "verbatim": "‘There’s nothing wrong with Cyn!’ Thomas’ voice, still a tender falsetto, rang with the rage of a loyal brother. … Thomas squeezed Cynthia’s fingers. He was ten, only three years older than her, but always her protector.",
+      "note": "托马斯比辛西娅**大三岁**（`:245`）⇒ 辛西娅七岁；是她的保护者；会通过海伦娜的叔叔获知今晚的事（`:302`）。"
+    },
+    {
+      "pair": "辛西娅 ↔ 母亲",
+      "kind": "母女",
+      "lines": "218, 227, 233, 251, 260",
+      "verbatim": "Cynthia’s mother had come for a rare visit. … ‘I hoped it would pass you by. As it did me, and my mother.",
+      "note": "母亲**自己与自己的母亲都有魔法**（`:260`），能力「传给了」辛西娅；母亲要求恩师保密并加封口费用（`:227`「double」→ `:230`「Triple」→ 母亲「Fine」）；母亲要恩师「训练掉」女儿（`:218`）但最终放弃（`:233`「When I’m through」）；母亲说「你注定成为上流社会的贵妇，魔法没有容身之地」（`:260`）。"
+    },
+    {
+      "pair": "辛西娅 ↔ 恩师史密斯夫人（Governess Smithers）",
+      "kind": "雇主／教师（童年）",
+      "lines": "215, 221, 230, 236, 245, 251, 275",
+      "verbatim": "‘It’s the very Devil’s work, my lady. I swear to you. I’ve seen her whispering to the animals. Conjuring all kinds of weather.’ … Governess Smithers narrowed her gaze and firmed her jaw. ‘Triple.’",
+      "note": "⚠️ **她与 ch11 的管家 Smith 不是同一人**（管家姓 Smith，恩师姓 Smithers）；恩师是辛西娅七岁前的家庭教师，负责「训练」她。本章她被母亲的「decimate」威胁收买并沉默（`:233`/`:236`）。"
+    },
+    {
+      "pair": "海伦娜 ↔ 克拉拉·博蒙特",
+      "kind": "童年玩伴／初恋启蒙（非恋爱关系）",
+      "lines": "149, 152, 158, 176",
+      "verbatim": "‘Clara Beaumont.’ … ‘I was near to nine or ten. She was the daughter of one of our neighbours. … ‘Nothing happened. We were just children. Clara was in love with the stable master’s son.",
+      "note": "**「克拉拉·博蒙特」是海伦娜全书中第一个被点名的童年女性**；原文明确「什么也没发生」，克拉拉当时爱上马厩管事之子。辛西娅对此人产生强烈憎恨（`:152`）。"
+    },
+    {
+      "pair": "海伦娜 ↔ 艾莉（Ellie）",
+      "kind": "童年玩伴／寻找者",
+      "lines": "158",
+      "verbatim": "It was a rainy day, and we were playing hide-and-seek. Ellie was seeking us.",
+      "note": "与 ch09 `:53`/`:242` 的幻象（深红天鹅绒＋黑蕾丝房间）同属艾莉；本章艾莉只作为「找我们的人」出现。"
+    },
+    {
+      "pair": "海伦娜 ↔ 拉克兰叔叔（Uncle Lachlan）",
+      "kind": "亲属／调查支持",
+      "lines": "299, 317",
+      "verbatim": "‘Are you free tomorrow for dinner? Uncle Lachlan will be there. … ‘No idea. But Uncle Lachlan might know. And if he doesn’t, he’ll find out.’",
+      "note": "「Uncle Lachlan」＝ ch11 `:44` 提到的苏格兰场警司拉克兰·麦克杜格尔。"
+    },
+    {
+      "pair": "辛西娅 ↔ 达米安·辛克莱",
+      "kind": "债权人 ↔ 债务人遗孀（本章仅余波）",
+      "lines": "38, 44, 305",
+      "verbatim": "Damien Sinclair was a dangerous man, but he had unintentionally given her an invaluable gift. … She had all the letters of debt her husband owed to a dangerous man, and thanks to Helena’s unique gifts, they had given him nothing in return.",
+      "note": "**本章辛克莱未出场**；交易结果是「拿到全部债据、什么也没给他」（`:44`）。"
+    },
+    {
+      "pair": "辛西娅 ↔ 哈姆雷特（狐狸 Hamlet）",
+      "kind": "会说话的灵兽／ Familiar",
+      "lines": "98, 104, 290, 293, 296, 320, 326",
+      "verbatim": "some magic must be at play to let her hear Helena’s familiar … ‘Only people. Why?’ … She wasn’t a witch, no matter what the fox said.",
+      "note": "哈姆雷特能开口说话（`:296`）；辛西娅听得见；**海伦娜明确说她只能读人的心，不能读动物**（`:323`）——但能听见哈姆雷特说话，辛西娅由此怀疑自己可能有特殊能力（`:326`「不管那只狐狸怎么说」）。"
+    }
+  ],
+  "numbers_verbatim": [
+    {
+      "n": 1,
+      "lines": "158",
+      "verbatim": "‘I was near to nine or ten.",
+      "meaning": "海伦娜在亚麻布橱柜里初次意识到自己「醒了」的年纪：**八九岁或十岁**（原文为模糊表述，不是确数）"
+    },
+    {
+      "n": 2,
+      "lines": "245",
+      "verbatim": "Thomas squeezed Cynthia’s fingers. He was ten, only three years older than her",
+      "meaning": "托马斯**十岁**，比辛西娅**大三岁** ⇒ 辛西娅当时**七岁**"
+    },
+    {
+      "n": 3,
+      "lines": "248",
+      "verbatim": "Whatever had changed within her on her seventh birthday",
+      "meaning": "辛西娅**七岁生日**当天睁眼即有力量 ⇒ 与 n2 互相印证"
+    },
+    {
+      "n": 4,
+      "lines": "116",
+      "verbatim": "Helena remembered her question from a week ago.",
+      "meaning": "「是不是尝起来像焦糖和咸味」这个问题是**一周前**问的（原文未在本章给出该问题的出处章节）"
+    },
+    {
+      "n": 5,
+      "lines": "227",
+      "verbatim": "I will double your wages to keep what you have seen a secret.",
+      "meaning": "母亲许诺**双倍**工钱买沉默"
+    },
+    {
+      "n": 6,
+      "lines": "230",
+      "verbatim": "‘Triple.’",
+      "meaning": "史密斯夫人要求**三倍**工钱，母亲在 `:233` 接受（「Fine」）"
+    },
+    {
+      "n": 7,
+      "lines": "44",
+      "verbatim": "She had all the letters of debt her husband owed to a dangerous man",
+      "meaning": "ch12 交易的兑现：**全部**债据（ch12 `:107` 辛西娅索要的是「All of them」）"
+    },
+    {
+      "n": 8,
+      "lines": "35",
+      "verbatim": "as they bumped along the gas-lit streets towards Mayfair",
+      "meaning": "行驶方向：**梅费尔（Mayfair）**；全程**煤气灯**街道"
+    },
+    {
+      "n": 9,
+      "lines": "269",
+      "verbatim": "before returning Cynthia to the house she would soon be leaving",
+      "meaning": "辛西娅**即将搬离**现住处（原文未说明原因与去向）"
+    },
+    {
+      "n": 10,
+      "lines": "311",
+      "verbatim": "he thought it clear as church bells on Sunday. George Lippert.",
+      "meaning": "新人物名 **George Lippert（乔治·利珀特）**：辛克莱**心里**想到的姓名（非有意给出）；本章**无人认识**此人（`:317`「No idea」）"
+    }
+  ],
+  "unresolved_in_source": [
+    {
+      "id": "U1",
+      "question": "「焦糖和咸味」那个问题（`:113`）是**一周前**（`:116`）在哪里问的？本章未给出场景",
+      "lines": "113, 116"
+    },
+    {
+      "id": "U2",
+      "question": "海伦娜读不到辛西娅的念头，原因是什么（原文只说「说不通」，`:47`）",
+      "lines": "47, 89"
+    },
+    {
+      "id": "U3",
+      "question": "辛西娅**七岁前**的记忆为何空白（`:275`「curiously blank」），原文不给解释",
+      "lines": "248, 275"
+    },
+    {
+      "id": "U4",
+      "question": "**乔治·利珀特**是谁、与休伯特之死有无关系，本章完全未答（`:317`「No idea」）",
+      "lines": "311, 314, 317"
+    },
+    {
+      "id": "U5",
+      "question": "辛西娅**即将搬离**那栋房子（`:269`），搬去哪里、为什么，原文未说",
+      "lines": "269, 281"
+    }
+  ],
+  "traps_noted": [
+    {
+      "id": "T1",
+      "trap": "`:53` `RED.` 是**独立一行的内心词**，不是标题、不是章节标记，更不是红字的排版指令",
+      "lines": "53, 56"
+    },
+    {
+      "id": "T2",
+      "trap": "**双数心智段落无引号**：`:95`（海伦娜心声）、`:164`（辛西娅 `She is mine.`）、`:293`（辛西娅对狐狸说）、`:296`（狐狸心声）——不得把 `:95`/`:296` 当作辛西娅的话，也不得把 `:164` 当作出声说出的台词",
+      "lines": "95, 164, 293, 296"
+    },
+    {
+      "id": "T3",
+      "trap": "`:212`–`:260` 是**闪回**（辛西娅七岁生日那天的场景），发生在车厢里的当下之前；`:263` 马车一停把叙述拉回当下",
+      "lines": "212, 263, 266"
+    },
+    {
+      "id": "T4",
+      "trap": "**站点推广行注入语料**：`:182`、`:185` **两行**是 Lokepub 推广文字（与 ch19 `:194`/`:197` 逐字相同），**不是小说正文**，不得当作情节或引语来源。⚠️ 切勿把 `:287` 一并算作推广行——它是狐狸哈姆雷特的心声（见 T4b）",
+      "lines": "182, 185"
+    },
+    {
+      "id": "T4b",
+      "trap": "`:287` `Secrets have a way of bubbling up. Good luck with yours.` **是正文（哈姆雷特的心声），不是推广行**：全书仅此一处（`grep -rn 'bubbling up' text/` ⇒ 只命中 ch13:287），而真推广行是跨章重复的；且 `:293` `You are not helpful. Cynthia glared at the fox.` 正是辛西娅对它的回嘴，`:296` `I’m incredibly helpful.` 是它的答话——三行构成一组对话。**误判后果**：会把一句正文心声当语料污染删掉／漏掉，也会把「狐狸说过什么」（`:326` 的依据）少算一条",
+      "lines": "287, 290, 293, 296, 326"
+    },
+    {
+      "id": "T5",
+      "trap": "`:149` `Clara Beaumont` 是**海伦娜自己说出口的名字**（回答「你怎么知道我喜欢女人」），不是辛西娅猜的；`:152` 辛西娅的憎恨是「though she didn’t know a thing about her」",
+      "lines": "146, 149, 152"
+    },
+    {
+      "id": "T6",
+      "trap": "`:158` 中「**Ellie** was seeking us」——艾莉是**找人的人**（躲猫猫），不是被躲的人",
+      "lines": "158"
+    },
+    {
+      "id": "T7",
+      "trap": "`:170` 的 `the witch never thought of Clara Beaumont again` 是**辛西娅的想象/愿望语气**（紧跟在「她无法否认把海伦娜拉进怀里吻下去的冲动」之后），不是既成事实",
+      "lines": "170"
+    },
+    {
+      "id": "T8",
+      "trap": "`:167` `For the second time` 指**辛西娅第二次**生出「她是我的」这个念头（第一次在 ch11 `:89`），不是第二次见到克拉拉",
+      "lines": "167"
+    },
+    {
+      "id": "T9",
+      "trap": "`:311` 的乔治·利珀特是辛克莱**心里想到**的名字，**海伦娜并非有意套出**（`:311`「Not intentionally」）；**不得**写成「辛克莱供出了凶手」",
+      "lines": "305, 311, 317"
+    },
+    {
+      "id": "T10",
+      "trap": "`:218`–`:233` 母亲与恩师的对话中，母亲**先说「double」**、恩师要求「Triple」、母亲接受（「Fine」）；「decimate you」是对**恩师**的威胁，不是对辛西娅",
+      "lines": "227, 230, 233"
+    },
+    {
+      "id": "T11",
+      "trap": "**恩师史密斯夫人（Governess Smithers）≠ ch11 的管家 Smith**：姓氏不同（Smithers vs Smith）；恩师是童年教师",
+      "lines": "215, 245"
+    },
+    {
+      "id": "T12",
+      "trap": "`:326`「不管那只狐狸怎么说」表明**狐狸此前说过辛西娅可能是女巫**（该情节不在本章），本章只出现「她不是女巫」的自我否认，不得断言她究竟是不是",
+      "lines": "326"
+    },
+    {
+      "id": "T13",
+      "trap": "闪回中「魔鬼」出现两次且**归属不同**：`:221` 是恩师说的 `It’s the very Devil’s work`（指辛西娅的能力），`:227` 是母亲说的 `The Devil is no match for me`（自夸）——两句都是**修辞**，不是指认某个具体魔鬼／具体人物（达米安·辛克莱绰号「魔鬼」，但本章闪回里无人提到他）",
+      "lines": "221, 227"
+    },
+    {
+      "id": "T14",
+      "trap": "海伦娜**只能读人的心、不能读动物**（`:323`「Only people」）与「她能听见狐狸说话」（`:296`）是两件事，不得混为「海伦娜能读动物心思」",
+      "lines": "296, 320, 323"
+    },
+    {
+      "id": "T15",
+      "trap": "`:83`「和你在一起是安静的」与 `:322`–`:326` 辛西娅**不是女巫**的否认构成张力：海伦娜读不到她，恰恰因为她没有可读的心声——原文未点破此因果，不得代为断言",
+      "lines": "83, 326"
+    }
+  ]
+}

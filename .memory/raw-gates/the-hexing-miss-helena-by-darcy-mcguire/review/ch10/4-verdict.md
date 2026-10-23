@@ -1,10 +1,8 @@
-# 4-verdict.md · 《The Hexing Miss Helena》第 10 章 审查判定
+# 4-verdict.md · 《The Hexing Miss Helena》ch10 审查判定（深审 R0–R5）
 
-审查员：主会话自审（**同会话盲区见文末**）｜章型：**cliffhanger 章（章末问句在下一章开头作答）＋ 对话密集章**
-抽样理由：快审 `ceil(N/8)` = 4 章（首末必含、等距 1·10·18·27）；本章按「对话跨章落点」类型加权入选，**且是本轮唯一此前未读过 `text/` 的抽样章**。
-底稿：`1-suread.json`（R1 先素读，22 条事实／6 组关系／6 处数字／2 处原文自相矛盾）→ `2-machine.json`（R2）→ `3-diff.md`（R3）
-源：`text/ch10_chapter_10.txt`（273 行）｜受审：`ch10 the mirrored office.md`（9 块 / 23 条词表）
-**R2 退出码 0，verdict `ok`，9/9 引语逐字命中，字符位 14→257→4135→4637→7315→8701→13166→13852→16436 单调递增，无 `…`、无拼接。**
+审查员：主会话自审（**同会话盲区见文末**）｜章型：入场章＋对峙章＋内心推进章｜档位：**深审**（2026-10-23 用户指令）
+底稿：`1-suread.json`（R1 先素读，272 行全读，74 事件 / 9 关系 / 7 数字 / 4 未决 / 10 陷阱）→ `2-machine.json`（R2）→ `3-diff.md`（R3）→ 本表（R4 逐块 ＋ R5）
+源：`text/ch10_chapter_10.txt`（272 行）｜受审：`ch10 the mirrored office.md`（9 块 / 词表 22 条）
 
 ---
 
@@ -12,12 +10,12 @@
 
 | 组 | 计数 | 明细 |
 |---|---|---|
-| **逐字** | **引语 9 / 9 相符，0 错** | `2-machine.json` 全部 `ok:true`；词表 **23 / 23** 例句逐字回源命中（行号见 `3-diff.md` C12） |
-| **对应** | **9 块：9 对应，0 不对应，0 密度不足** | 逐块 R4 三问全部一致：原句 1–2 主体＝辛西娅／辛西娅；原句 3–4 说话人＝**海伦娜**（原句 4 的引语出自海伦娜，md 的中文理解写「她说」并明确指海伦娜 ✓）；原句 5–6 主体＝辛西娅；原句 7 说话人＝**辛克莱**；原句 8 说话人＝辛西娅；原句 9 说话人＝辛西娅。**引语未截短**：原句 7 只取 `:227` 的末段（`:227` 前半是 `'I shall 'eed your warning…'`，md 未引）——被引部分自足 |
-| **形态** | **4 / 4 符合，0 偏离** | H1 `# 10. Chapter Ten` ✓｜导航 **5 项** = profile ✓｜子项 **中文理解／关键词／为什么这样写／读者视角提示** 9 块一致 ✓｜块数 **9** ∈ profile 目标 [5,9] ✓，亦 ∈ 本书众数区间 [6,13] ⇒ **无偏离，不需写理由**（`structure.py audit` 对本章无提示） |
-| **断言** | **共核 22 条：相符 16 ／ 提示 6 ／ 阻断 0 ／ 跳过 2** | 提示 6 条＝未取用的关键场景（L1–L6，见 `3-diff.md`），非缺陷；跳过 2 条＝原文自相矛盾（不裁决） |
+| **逐字** | **引语 9 / 9 相符，0 错** | `2-machine.json`：`segment_miss=0`、`quote_long=0`、`keyword_bad=0`、`keyword_long=0`、`hole=0`、`empty_quote=0`；R0 全书级 `verify_fragments_indep.py`：**312 片段 / 0 MISS**（本章 9 条引语**均无 `…`**，无省略号片段可取证）；词表 **22 / 22** 例句逐字回源命中（`## 本章词汇` 不在 `check_vocab.py` 默认扫描域，本轮自建 `/tmp/vocab_check_hx.py` 补验：`ch10: rows=22 missing=0`）、**22 / 22** 词头落在例句内（`/tmp/vocab_head_hx.py`，无输出＝零失配） |
+| **对应** | **9 块：9 块对应成立，0 越界** | R4 三问（动词主语／受事／归属方向）逐块核对，见 `3-diff.md` §四；密度不足 0 处；未发现「分析讲的是引语之外的上下文」「讲全书主旨」「只复述字面」三类失配 |
+| **形态** | **5 / 5 符合，0 偏离** | H1 `# 10. Chapter Ten` ✓｜导航 **5 项** ✓｜子项 **中文理解／关键词／为什么这样写／读者视角提示** 4 项一致 ✓｜块数 **9** ∈ 本书区间 **6–13** ✓，亦 ∈ 本章 `block_target:[5,9]` ✓（**已触上限**）；`block_count=0`、`struct_bad=0`、`cjk_low=0`、`template=0`；**引号配对**（机器层零覆盖，自建 `/tmp/pair4_hx.py` 全书扫描）本章 **0 处偏离** |
+| **断言** | **共核 24 条：相符 20 ／ 提示 4 ／ 阻断 0 ／ 跳过 0** | 提示 4 条（E1 时点标签差一场、E2 同章措辞不齐、E3 译法级、E4 取舍级）；**阻断型条数 = 0** |
 
-**阻断型条数 = 0。**
+**本章无阻断型缺陷。**
 
 ---
 
@@ -25,53 +23,61 @@
 
 | # | 断言 | 证据（`text/ch10_chapter_10.txt:行`） | 结论 | 档位 |
 |---|---|---|---|---|
-| V1 | 本章未取用：醉汉被海伦娜逼退（`:104-110`） | `:104` `Helena moved like mist, stepping in front of her.`；`:104` `A crimson curl had broken free of her twist` | 全章最具动作性的一处戏未进引语与分析；取舍未写理由 | **提示**（只记不改） |
-| V2 | 本章未取用：辛西娅以「毒蛇 venom」替海伦娜抬轿并反问辛克莱才智（`:176-182`） | `:176` `Trust me when I tell you, Miss Blair is far more deadly than that venom.`；`:182` `Have I been misled? Are you a fool?` | 本章唯一一次她主动出招，未取用 | **提示**（只记不改） |
-| V3 | 本章未取用：她自知「是在拿命钓一个凶手」（`:188`） | `:188` `She was playing a dangerous game, baiting a killer.` | 行动自觉未进分析层 | **提示**（只记不改） |
-| V4 | 本章未取用：拒绝落座「这不是一次社交拜访」（`:230`） | `:230` `‘We prefer to stand. This is no social call.’` | 姿态戏未取用 | **提示**（只记不改） |
-| V5 | 本章未取用：她自问对女性身体的亲密是否正当（`:260-263`） | `:260` `the intimacy she longed to explore with Helena had nothing to do with platonic friendship`；`:263` `her blood ran rather cold` | 性别自觉整段未取用 | **提示**（只记不改） |
-| V6 | 导航「叙事手法」：`胃里的翻涌` | `:35` `going to cast up her accounts`（要吐的前兆）、`:110` `something strange stirred in her belly`（情动） | 两个来源合并成一句概括，「翻涌」兼指二者；不算错但指代含混 | **提示**（措辞） |
-| V7 | 原文自相矛盾一：`text/ch10_chapter_10.txt:98` 海伦娜对辛西娅说 `When your uncle is the Superintendent of Scotland Yard, you learn many things` | 全书交叉：`text/ch16_chapter_16.txt:209` `my brother, your uncle, and now you are dictating…`；`text/ch22_chapter_22.txt:156` `your uncle and my brother need no help from me`；`text/ch11_chapter_11.txt:44` `There’s a superintendent at Scotland Yard ’as nieces with the name of Blair. Lachlan MacDougal.` | 「your uncle」在原文里指向不明：按全书其余证据 MacDougal 是**海伦娜与 Clio 的舅舅**（辛西娅的舅舅从未出现），故 `:98` 疑为原书笔误。**md 未引用该句、未据此断言，本审查不裁决原文，只记「书内不一致」** | **跳过**（不裁决） |
-| V8 | 原文自相矛盾二：`text/ch10_chapter_10.txt:203` 辛克莱接辛西娅 `:182` 的话却称她 `Miss Blair` | 同一段他另有三处对辛西娅称 `Lady Burrows`／`you`（`:215`、`:227`、`:239` `a pair of women as formidable as you and Miss Blair.`），且 `:167` 他称海伦娜 `Miss Blair` | 疑为原书笔误。**md 只在词表例句逐字引用该句（`acumen` 行），未据此断言** | **跳过**（不裁决） |
+| E1 | 导航·情感弧线位置：「从**进门前的**失控恐惧，到赌厅里的好奇与警觉……」；一句话总结「辛西娅**走进**辛克莱的赌场」 | 进门发生在上一章：ch09 `:233` `Stringed music escaped on a cloud of cheroot smoke and perfume. Cynthia stepped in front of Helena … as they both faced a man dressed much like Cynthia’s butler.`；本章 `:38` `The burly gentlemen led them past a room full of smoke…`、`:35` 的恐惧已发生在**进入俱乐部内部之后** | 情感内容与位置（本章开场）正确，仅「进门前／走进」这一**时点标签差一场**；原文她们上一章已进门并见到管家 | **提示**（措辞级·涉时序） |
+| E2 | 原句 3·为什么这样写：「位置又高到天花板下方、**墙腰以上**」 | `:89` `They sat just below the ceiling and **extended halfway down the wall**.` —— 镜子自天花板下方延伸到**墙面中段**；同块中文理解写的是「一直延伸到**墙壁中部**」（与原文一致） | 非错但比原文低一档，且与本块自己的措辞不齐 | **提示**（同章措辞不齐） |
+| E3 | 原句 8·中文理解：「她**听说**自己刚去世的丈夫欠了他的钱」 | `:236` `‘I understand my recently deceased husband was in debt to you. …’` | 「I understand」＝**我明白／我了解到**，不带「听人转述」意味；`听说` 凭空加了一层消息来源 | **提示**（译法级） |
+| E4 | 原句 2·读者视角提示：「**她没有停下来看，只是被领着穿过**」 | `:41` `Her curiosity was piqued, and she **would have loved to linger and watch** the men wager away staggering sums of money while the painted doves giggled and flirted shamelessly. Unfortunately, their escort seemed to be on a tight schedule, and she rushed to keep pace.` | 她**本来很想**留下来看，是被行程逼着才快步跟上；现写法让读者得到「她对场子没兴趣」的印象，与原文不符 | **提示**（取舍级） |
 
-### 与原文相符的 16 条断言（避免「只报问题」的不完整交代）
+### 与原文相符的 20 条断言（避免「只报问题」的不完整交代）
 
-- 十五岁 debutante 见女王：`:35` `presented to the Queen as a debutante at fifteen` ✓
-- 首次（很可能也是最后一次）进这种场所、想留下看赌局：`:41` ✓
-- 三个男人与一名女子：`:50` ✓；Lady Bucklethorne 领 Society of Genteel Ladies：`:53` ✓
-- 辛克莱的保密规矩、管家转身即走＝「这就是答案」：`:59`、`:68`、`:71` ✓
-- 赌戏 Bacarat／Macao／hazard、天花板至少两层楼：`:74`、`:77` ✓
-- 海伦娜灰眼睛只看辛西娅、扶住她肘部、佛手柑与柠檬皂：`:80` ✓
-- 镜子在西墙高处、只反吊灯光、要三十英尺高才看得见倒影：`:89` ✓
-- 「不是镜子，是单向观察窗」：`:92` ✓
-- 办公室：深色木墙、整面窗、桃花心木书桌、深绿地毯、煤气灯：`:134` ✓
-- 「我是肯特米尔侯爵夫人，我不惧怕危险」：`:140` ✓
-- 辛克莱全名 Damien Sinclair：`:146` ✓
-- 她对辛克莱毫无吸引、直到回头撞上海伦娜的目光：`:149-152` ✓
-- 辛克莱「我就死本身」：`:227` ✓
-- 债务可转到活着的亲属身上：`:236` ✓
-- 章末问句落在下一章开头作答：`:272` → `text/ch11_chapter_11.txt:35` `Sinclair shifted a glass of water on his desk…` ✓
+1. 辛西娅紧张到可能呕吐或晕厥，且**从未**如此；连十五岁觐见女王的 Debutante 也没有——`:35` ✓
+2. 魁梧的男人（护卫）领她们穿过烟雾、男性喝彩与大赌桌——`:38` ✓
+3. 那些女人像「异国的鸟」在男人之间飞旋、**从不落下**——`:38` ✓
+4. 她**好奇被撩起**、本想留下看赌局；护送者行程紧，她只得快步跟上——`:41` ✓（`wager` 一行的例句即此句）
+5. 左边那扇门像一间女士客厅，里面的活动足以在上流社会引发 endless 丑闻——`:44` ✓
+6. 那个女人同时与三个男人厮混（一个像婴儿吮吸她裸露的乳房、一个头埋裙下、一个俯身吻她）——`:47`、`:50` ✓
+7. 那是**巴克利索恩夫人**，她领导**淑女协会**（Society of Genteel Ladies）——`:53` ✓
+8. 辛克莱有严格的保密规矩，客人隐私受保证；该承诺被威胁时他会「不悦」——`:59` ✓
+9. 海伦娜的自信「像后腰上的一只温热的手」，给了辛西娅一点所需的力量——`:62` ✓
+10. 管家被那句反问**逼退**（几秒后眨眼、转身继续走）——`:65`、`:68`、`:71` ✓
+11. 大厅足以承办一场社交舞会；赌法为 Bacarat / Macao / hazard；男人像奔赴战场——`:74` ✓
+12. 天花板至少两层楼高；雪茄、方头雪茄，以及一位戴面具女子用烟斗——`:77` ✓
+13. 低胸领口比比皆是、有的裙摆短到露出几英寸脚踝；一阵陌生的兴奋感掠过皮肤——`:80` ✓
+14. 海伦娜的灰眼睛**只专注地看着辛西娅**——`:80` ✓
+15. 辛西娅被地毯边绊倒、海伦娜上前抓住她的手臂；佛手柑与柠檬皂的气味切开浓香与烟——`:80` ✓
+16. 海伦娜捏了捏她的手臂就松开；辛西娅「愚蠢地想念那双手指的温度」——`:86` ✓
+17. 高处那排镜子贴在天花板下方、沿墙延伸一半；要看见自己的倒影得有三十英尺高——`:89` ✓
+18. 海伦娜说明那是**单向窗**，并给出理由：「当你叔叔是苏格兰场警司的时候，你会学到很多事」——`:92`、`:98` ✓
+19. 辛西娅主动要求直呼其名：「我和某人一起走进赌窟，他就有了直呼我辛西娅的权利」——`:101` ✓
+20. 海伦娜「像雾一样」挡在醉醺醺的贵族老爷身前、俯耳低语令其瘫坐回椅，并拒绝说全——`:104`、`:119` ✓
 
-### 机器层
-
-- `chapter.sh --json`：退出码 0，verdict `ok`，`segment_miss=0`、`cjk_low=0`、`keyword_bad=0`、`struct_bad=0`、`quote_long=0`、`template=0`、`hole=0`、`block_count=0`。
-- 全书级：`check_vocab` 报 `ch10 the mirrored office.md [基础] 基础档疑含超纲词「threshold」`——`check_vocab.py` 的「≥9 字且不在 BASIC_WORDS/COMMON 表」启发式（脚本 docstring 自述该判据历史假阳率 6/10）。`threshold`（门槛）是本章原词 `:137`，属**假红型**，不修 md。**是否要把 `threshold` 从 ⭐ 基础 提到 ⭐⭐ 进阶，属档位口味，不列缺陷。**
+**另附 12 条相符断言（备查）**：办公室不是律师办公室那样整洁（`:131`）｜深色木墙板、一整面窗、桃花心木书桌、深绿地毯、煤气灯（`:134`）｜辛西娅在门口拦住海伦娜、昂首走进狮穴、腿只在裙下微微发颤（`:137`、`:143`）｜「I am the Marchioness of Kentmore」（`:140`）｜辛克莱像黑曜石雕成，而辛西娅对他**毫无感觉**（`:149`）｜她的欲望被「头发如火、眼睛如暴风海」的女人唤醒（`:152`）｜海伦娜抢答「我是来确保伯罗斯夫人安全的」「乐意之至」（`:164`、`:170`）｜辛西娅以蝰蛇毒液为海伦娜的致命性辩护（`:176`）｜辛克莱重新评估她、对她们两人都没有支配力（`:197`）｜「我不喜欢被人下命令」「这一点我们相同」（`:209`、`:212`）｜辛克莱自称「死亡本身」、辛西娅拒绝落座（`:227`、`:230`）｜辛西娅查清欠款、债务可落到活着的亲属头上、她不想欠他人（`:236`）｜本章末句问「丈夫的债与他的非正常死亡是否有关」（`:272`）。
 
 ---
 
 ## 三、已核实为正确（防误修，下一轮不得以「读着不对」为由改动）
 
-1. **「海伦娜…凭叔叔是苏格兰场警司的见识，在关键时刻把观察窗的秘密交给她」**（导航 人物弧线）——依据 `text/ch10_chapter_10.txt:92`（海伦娜点破观察窗）与 `:98`；虽然 `:98` 原文写的是 `When your uncle is the Superintendent of Scotland Yard`，但全书交叉证据显示 MacDougal 是**海伦娜与 Clio 的舅舅**（`text/ch16_chapter_16.txt:209` `my brother, your uncle`、`:22` … `text/ch22_chapter_22.txt:156` `your uncle and my brother`、`text/ch11_chapter_11.txt:44` `’as nieces with the name of Blair. Lachlan MacDougal.`），故 `:98` 的 "your" 属原书笔误。**md 按全书正确读法写「海伦娜的叔叔」＝成立，不得改成「辛西娅的叔叔」。**
-2. **原句 4 的说话人是海伦娜，中文理解写「她说」**（`ch10 the mirrored office.md:50`）——依据 `:89-92`：`Helena` 说完「We’re being watched」后接 `‘They aren’t mirrors…’`，归属明确。**成立。**
-3. **原句 7 的说话人是辛克莱**（`:80`）——依据 `:227` `‘I shall ’eed your warning, Lady Burrows, and give your protector ’er dues.’ He nodded at Helena. ‘But know this, your friend might be dangerous, but I am death incarnate…’`。**成立（勿与海伦娜混）。**
-4. **原句 9 指向「债有没有起作用」而非「你是不是杀了他」**（`:104` 为什么这样写）——依据 `:272` `Did my husband’s debt to you play a role in his untimely death?`。**成立。**
-5. **词表 `acumen` 行逐字引用了 `Miss Blair`**（`:116`）——该处是**原书原文**（`:203`），逐字引用不构成 md 缺陷；不得为了"统一称呼"而改写例句（改例句＝破坏逐字性）。
+1. **原句 6 的「毫无心动」指的是辛克莱，被唤醒的对象是海伦娜**——`:149` `she felt nothing. No hint of attraction, no whisp of need, no stirring low in her belly.`（指辛克莱）＋ `:152` `Her desire was not dead. It had lain dormant until a woman with hair like fire and eyes like a stormy sea brought it to life within Cynthia.`（指海伦娜）⇒ **成立**，不得改写。
+2. **原句 7 的「your friend」＝海伦娜**——`:227` `give your protector ’er dues` ＋ `:206` 辛西娅称海伦娜为 `my friend` ⇒ **成立**；原句 7·为什么这样写「他先承认对方『也许危险』」**成立**。
+3. **「巴克尔索恩夫人」与「上流淑女会」是本章新实体，别处没有同实体**——`/usr/bin/grep -rn "Buckland\|Buckle\|Genteel" text/`：**仅 `text/ch10_chapter_10.txt:53` 一处** ⇒ **成立**，不属跨章术语冲突。
+4. **md 没有把 `:203` 辛克莱误称辛西娅为「Miss Blair」一事编成情节**——按上下文那疑为**原文笔误**（她此时应是 Lady Burrows）⇒ md 未提及即**无编造**；后续章节若要引用此句，须先确认是笔误还是刻意。
+5. **原句 3 的选段截在「extended halfway down the wall.」**——`:89` 同段后半还有 `One would need to be thirty feet tall to see their reflection. Cynthia said as much to Helena…` ⇒ 属**选段取舍**（md 原句 4 随即给出答案），**不判引语截短**。
+6. **原句 7 引语从对白中途切起、首尾引号成对**——`:227` 内层 `‘But know this, … experience.’` 完整 ⇒ **成立**，与 ch09 原句 7 的孤儿闭引号不同，**不得**据此章改写上一章。
+7. **词表 22 条例句全部逐字取自本章**——**成立，不得改写例句**（22/22 逐字回源命中、22/22 词头在例句内）。
+8. **原文用字 `Bacarat`（:74）、`lightening`（:194）**——均为**原文拼写** ⇒ **不得**在 md 里「改正」原文引语。
+9. **表头分隔行 `|------|------|------|`**——ch03/ch04/ch06/ch11–ch16 同款，其余 17 章为 `|---|---|---|`；两种写法都是合法 GFM，`gate.sh` 全书 RC=0 ⇒ **不判缺陷**。
+10. **「肯特米尔侯爵夫人」（本章）**——`:140` `I am the Marchioness of Kentmore.` ⇒ 本章写法**成立**；但跨章为 `肯特莫尔`（ch02/ch11/ch27）与 `肯特米尔`（ch10/00_概述）两派，**属跨章术语不统一**，进汇总修复指令文件，**本章不改**。
 
 ---
 
 ## 四、覆盖声明与已知盲区
 
-- **本章覆盖**：R1 → R2 → R3 → R4（9/9 块）→ R5，**全流程走完**。
-- **全书覆盖**：机器层 27/27 章；人判 **ch01 / ch10 / ch18 / ch27 = 4 / 27 章**；其余 23 章**仅机器层**；总览三篇全篇人判。
-- **同会话盲区（如实标注）**：本书由本会话在写作期产出；**ch10 的 `text/` 在写作期未被读过**（写作期只回读过 ch01/ch05/ch09/ch12/ch16/ch17/ch18/ch22/ch25/ch26/ch27），故本章的独立性最高；ch01/ch18/ch27 的 `text/` 在写作期读过，本轮仍按「先素读后开 md」执行，但不能视为完全盲态。
-- **未做**：深审 R0–R5 全章**未执行**；快审升级条件（§0 四条）未命中（阻断 0 / 写作期用了 `bookform.py --contract` 与 `suread.py` / 机器层无异常信号 / 用户未点名），**未提请升级**。
+- **本章覆盖**：R1 素读（先于任何 md 打开，272 行全读，74 事件 / 9 关系 / 7 数字 / 4 未决 / 10 陷阱）→ R2 机器层 → R3 三张单子 → R4 逐块 9/9 → R5 判定表，**全流程走完**。
+- **本书覆盖（深审进度）**：批 1 = ch02 / ch03 / ch04，批 2 = ch05 / ch06 / ch07，批 3 = ch08 / ch09 / ch10（本表）⇒ **9 / 27 章**已完成 R0–R5（ch10 为第 9 章）。ch01 与其余 18 章**只有机器层**（R0 全书级已跑），**未做人判**，不得写成「已审查」。
+- **同会话盲区（如实标注）**：本书由本会话在写作期产出，本章亦为写作期读过的章之一；本次仍执行「先素读、写完 `1-suread.json` 才开 md」，但**不能视为完全盲态**。
+- **本章特有盲区**：
+  - L4（`:176`–`:182` 蝰蛇毒液的唇枪未选）判为「不构成阻断」，理由是 9 块上限下的选段取舍、本章主链条完整；**该判据是本会话自定**——若后续主张「为海伦娜出头」必须在 md 可见，L4 应升为提示项，须由执行方拍板后再改。
+  - E1 判为**提示**而非阻断：涉及时点，但情感内容与章内位置均正确，且「进门」可作宽松读解为「进这所房子」。
+  - E3、E4 判为**提示**：分别属译法级与取舍级，均不改变任何断言的真假。
+  - 引号配对仍由自建探针 `/tmp/pair4_hx.py` 判出，**该探针未入库**。
+- **未做**：五步审查附录 B（a–e 全文）已被 `审查表.md` 归档取代，不重复执行。

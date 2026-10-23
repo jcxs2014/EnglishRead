@@ -1,0 +1,358 @@
+{
+  "chapter": "ch08",
+  "slug": "the-hexing-miss-helena-by-darcy-mcguire",
+  "source": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch08_chapter_8.txt",
+  "source_lines": 315,
+  "read_discipline": "先素读：仅读 text/ch08_chapter_8.txt（全文 315 行），未打开 ch08 md、未看该章词表与导航",
+  "sampling_reason": "深审 R0–R5 全章（批 3／27）",
+  "line_ref_convention": "行号为 text/ch08_chapter_8.txt 的 1 基行号；引文逐字抄录",
+  "pov": "辛西娅·伯罗斯（Cynthia Burrows）第三人称限知（全章单 POV）；狐狸哈姆雷特的答话与辛西娅的内心话同为无引号独立段落",
+  "events": [
+    {
+      "n": 1,
+      "who": "辛西娅",
+      "did": "手指发冷；举起羊皮纸给麦克杜格尔警司看，几乎失手掉下；问「谁会写这个？」",
+      "lines": "35",
+      "verbatim": "Cynthia’s fingers grew cold. ‘Who could have written this?’ She nearly dropped the parchment as she held it up for Superintendent MacDougal to see."
+    },
+    {
+      "n": 2,
+      "who": "麦克杜格尔警司",
+      "did": "压短两人距离、从她手里夺过信、褐色眼睛扫过纸面；神情变硬，和气忠诚的人变得凶猛可怖",
+      "lines": "38",
+      "verbatim": "He shrank the space between them, snatching the letter from her, his brown eyes scanning the page. His expression hardened, turning the kind and loyal man into something fierce and frightening."
+    },
+    {
+      "n": 3,
+      "who": "麦克杜格尔警司",
+      "did": "像吐毒一样说出「七晷区的魔鬼。达米安·辛克莱」，并问休伯特怎么会和一个罪犯混在一起",
+      "lines": "41",
+      "verbatim": "‘The Devil of Seven Dials. Damien Sinclair.’ He spat the words like poison. ‘Why was your husband mixed up with a criminal like Sinclair?’"
+    },
+    {
+      "n": 4,
+      "who": "辛西娅（内心）",
+      "did": "腹中一沉；DOSD＝七晷区的魔鬼；这是否就是休伯特欠他巨款的那个人",
+      "lines": "44",
+      "verbatim": "‘A criminal?’ Cynthia’s belly flipped as she felt the prickle of alarm skating down her spine. The Devil of Seven Dials. DOSD. Was this the man to whom Hubert owed such large sums of money?"
+    },
+    {
+      "n": 5,
+      "who": "海伦娜",
+      "did": "拿回信，说「魔鬼。那是闯入者跳窗前心里想的」",
+      "lines": "47",
+      "verbatim": "Helena took back the note. ‘Devil. That’s what the intruder thought before he jumped out of the window.’"
+    },
+    {
+      "n": 6,
+      "who": "海伦娜",
+      "did": "耸耸肩、目光像水里的鱼一样滑开；说那人很害怕、强烈情绪让读心更容易，并转述闯入者逃走前想的「魔鬼一定会因为我失手而杀了我」",
+      "lines": "53",
+      "verbatim": "Helena shrugged, her gaze slipping away like a fish in water. ‘He was frightened. Strong emotions can make it easier. “The Devil’s going to kill me for sure if I fail.” That’s what he thought before he escaped.’"
+    },
+    {
+      "n": 7,
+      "who": "麦克杜格尔警司",
+      "did": "把头发揉得更乱；骂「那杂种」；断定一定是辛克莱；说七晷区每个男人都替他做事，连一半女人也是",
+      "lines": "56",
+      "verbatim": "Superintendent MacDougal ran his hands through his curls, making an even bigger mess. ‘The bastard. It has to be Sinclair. He has every man in the Seven Dials working for him, and half the women as well.’"
+    },
+    {
+      "n": 8,
+      "who": "辛西娅",
+      "did": "说从没听休伯特提过这个名字、也绝不属于她那个圈子；问辛克莱是谁",
+      "lines": "59",
+      "verbatim": "‘I’ve never heard Hubert mention his name. He certainly isn’t someone from my circle. Who is this Sinclair fellow?’"
+    },
+    {
+      "n": 9,
+      "who": "麦克杜格尔警司",
+      "did": "瞪她；说这是个极其危险的人，「杀的人比瘟疫还多」，并问休伯特在想什么",
+      "lines": "62",
+      "verbatim": "Superintendent MacDougal speared her with a glare. ‘A very dangerous man. He’s killed more people than the plague. What was Hubert thinking?’"
+    },
+    {
+      "n": 10,
+      "who": "辛西娅",
+      "did": "说这个问题该问侄女——她才是读心高手；随即猜测海伦娜从自己这里听到了什么，并想象海伦娜皮肤由奶白转为草莓色的微红",
+      "lines": "65",
+      "verbatim": "‘I suppose that is a question for your niece. She’s the one adept at reading minds.’ Cynthia wondered exactly what Helena had heard from her. Did she imagine the slight flush turning Helena’s skin from cream to strawberries?"
+    },
+    {
+      "n": 11,
+      "who": "海伦娜",
+      "did": "手搁在哈姆雷特两耳之间，回「人死了就难办了」",
+      "lines": "68",
+      "verbatim": "‘It’s a bit difficult when the person is dead.’ Helena rested her hand between Hamlet’s ears."
+    },
+    {
+      "n": 12,
+      "who": "辛西娅",
+      "did": "说无法帮上更多忙、两人几个月来只打过照面；休伯特不会屈尊告诉她自己的行程或伦敦犯罪黑道里的朋友；她不愿显得难堪；并想：许多社交圈太太与丈夫关系疏离，她与休伯特的关系并非什么悲惨处境、不值得任何人同情；她怕的正是从海伦娜那里换来怜悯；只庆幸托马斯不在场",
+      "lines": "74",
+      "verbatim": "‘I wish I could be of more help, Superintendent Lachlan, but on the rare occasion he did speak to me, it was usually about whether or not there would be roast beef on the menu. It’s been months since we’ve exchanged more than a passing greeting. He certainly wouldn’t deign to share his private schedule or any chums he might have in London’s criminal underworld.’ Cynthia tightened her spine and tried not to be embarrassed."
+    },
+    {
+      "n": 13,
+      "who": "辛西娅（回忆）",
+      "did": "多年来对哥哥隐瞒婚姻真相，怕他为她与世隔绝而惊骇；父母的婚姻时髦且有相互尊重与静默的深情，托马斯是自由恋爱；她与肯特摩尔侯爵的关系完全是另一回事",
+      "lines": "77",
+      "verbatim": "She had spent years hiding the truth of her marriage from her brother because she knew Thomas would be appalled at how isolated and alone she felt most of the time. Their parents had a fashionable marriage, but one that also contained mutual respect and a quiet affection. Thomas himself had a love match. Cynthia’s relationship with the Marquess of Kentmore was something else entirely."
+    },
+    {
+      "n": 14,
+      "who": "辛西娅（回忆）",
+      "did": "她当初就知道这段婚姻不会有炽热激情，只盼有一点温暖与舒适；希望很快就死了；他没有热情地吻她，上床只是他要完成的另一件差事，且以令人痛苦的规律进行，直到她不再生育为止；他对娶了个不能生育的女人的厌恶加深了她自己的失败感；她曾盼孩子、盼能抱一个婴儿，那希望与他停止主张婚姻权同时消失；她松了口气却仍感到被拒绝的刺痛",
+      "lines": "83",
+      "verbatim": "Try as she might, she couldn’t drum up a hint of excitement when he pressed his wet mouth to hers, not that he seemed to care all that much. Bedding Cynthia had been one more chore he needed to accomplish. And he had done so with painful regularity until it became obvious she was not increasing. His disgust at being duped into marriage with a barren woman only heightened her own sense of failure."
+    },
+    {
+      "n": 15,
+      "who": "辛西娅（回忆）",
+      "did": "婚后头几年她仍希望与丈夫建立某种依恋；某一天去找他谈关系细节、想锻造一种能取代彼此无吸引力的友谊；以为性的结合会消退、但相互尊重与共同兴趣能把关系维持到暮年",
+      "lines": "86",
+      "verbatim": "While physical intimacy was no longer a priority for Hubert, in the early years of their marriage, she had hoped they could still form some kind of attachment for each other. She went to him one fateful day to discuss the particulars of their relationship, hoping to forge a friendship that might supersede their lack of attraction."
+    },
+    {
+      "n": 16,
+      "who": "辛西娅（回忆）",
+      "did": "休伯特很快让她彻底明白：女人在他生命里只有一个功能；既然不再要与她做爱，就没有与她交谈的必要",
+      "lines": "89",
+      "verbatim": "It took Hubert no time at all to make it absolutely clear women held one function in his life. He no longer cared to fuck her, so there was no point in trying to converse with her."
+    },
+    {
+      "n": 17,
+      "who": "辛西娅（回忆）",
+      "did": "她的差事是漂亮、顺从、能生育；最后一样她没做到，前两样若也做不好他就会休了她；对上流社会的任何体面太太来说这比死还难受",
+      "lines": "92",
+      "verbatim": "Her job was to be beautiful, obedient, and fertile. She failed in the last aspect, and if she did not excel in the first two obligations, he would divorce her. It was a fate worse than death for any lady of the beau monde."
+    },
+    {
+      "n": 18,
+      "who": "辛西娅（回忆）",
+      "did": "那天她心碎地走出书房，下决心不再挡丈夫的路，多年来执行得「堪称典范」；若不是 constitutions 强韧她本会消失在社交界的阴影里，但她不能沉在黑暗里，于是自己造了自己的光：有趣的女人、慈善事业、华丽的社交往来",
+      "lines": "95-98",
+      "verbatim": "She had walked out of his study that day heartbroken and determined to stay out of her husband’s path. Which she had done with exemplary success for years."
+    },
+    {
+      "n": 19,
+      "who": "辛西娅（回忆）",
+      "did": "十年婚姻里她完全照休伯特的要求做、绝不插手他的事，因此对他与伦敦犯罪底层的往来几乎一无所知；在那片以七晷区的魔鬼称霸的世界里",
+      "lines": "101",
+      "verbatim": "Over the course of their ten years of marriage, she did just as Hubert demanded. She became the perfect society wife and kept herself completely out of his business. Which gave Cynthia precious little insight into his activities or acquaintances with London’s unsavoury underbelly of criminals. A world in which the Devil of Seven Dials seemed to rule."
+    },
+    {
+      "n": 20,
+      "who": "麦克杜格尔警司",
+      "did": "追问她丈夫的来往、访客、需要她主持的饭局；扬眉无声恳求",
+      "lines": "104",
+      "verbatim": "‘Many marriages are distant in nature, but you must have noted his comings and goings. Any acquaintances who came to visit him. Dinners he asked you to host? Any information might be helpful.’ Superintendent MacDougal raised his thick eyebrows in silent entreaty."
+    },
+    {
+      "n": 21,
+      "who": "辛西娅",
+      "did": "说他在俱乐部的时间比在家多，有些周她完全见不到他",
+      "lines": "107",
+      "verbatim": "‘He spent more time at his club than here. There are weeks strung together where I didn’t see him at all.’"
+    },
+    {
+      "n": 22,
+      "who": "辛西娅",
+      "did": "看见警司眼里一闪同情，被激起不合逻辑的愤怒：她不需要同情，也不要他跑去告诉哥哥她的婚姻是一座「冷、残酷、闪亮的笼子」",
+      "lines": "110",
+      "verbatim": "She couldn’t ignore the flash of compassion in Superintendent MacDougal’s eyes. It sparked an illogical anger. She did not need his sympathy. And she certainly didn’t want him running off to tell her brother that Cynthia’s marriage had been a cold, cruel, glittering cage."
+    },
+    {
+      "n": 23,
+      "who": "辛西娅",
+      "did": "说他们的婚姻和圈子里许多人一样时髦，他给了她一个只有傻瓜才不感激的奢华生活；注意到海伦娜的目光变锐，但宁死也不要那女人可怜她",
+      "lines": "113",
+      "verbatim": "‘We had a fashionable marriage similar to many of our set. He provided me with a lavish lifestyle only a fool would take for granted.’ She didn’t miss how Helena’s gaze sharpened on her, but she would be damned if the woman felt sorry for Cynthia."
+    },
+    {
+      "n": 24,
+      "who": "辛西娅（内心／与狐狸对话）",
+      "did": "「我不是某个需要同情的可怜生物！」（心里）→ 狐狸：「没用。她读不到你。尽管她想读。」→ 哈姆雷特吠叫、耳朵像两面小帆 → 「你是狐狸，你不可能在跟我说话。」→「我和一只动物在内部对话，休伯特被杀的 Stress 一定把我的理智击碎了。」→「我是狐狸，我爱怎样就怎样。」→ 小小一部分她得意起来：她说对了，前一天那个神秘声音就是哈姆雷特；但理智很快跟上来：「他们随时会把我送进疯人院。」→「你完全理智，根本不配得到任何人的怜悯。」→「谢谢。等等。不。我不是在谢一只狐狸。不过我同意你的话：我不需要任何人的怜悯。」她摇头想把咝音从脑子里甩出去，自语这太荒唐",
+      "lines": "116-149",
+      "verbatim": "I am not some pathetic creature who needs your pity! … It's no use. She can't read you. Try as she might. … You are a fox. You can't be talking to me. … I'm a fox. I can do whatever I please. … They'll be carting me off to bedlam any minute now. … You are perfectly sane and hardly deserving of anyone's pity. … Thank you. Wait. No. I am not thanking a fox. But I do agree with you. I don't need anyone's pity. She shook her head, trying to clear it from lispy voices. This is nonsensical."
+    },
+    {
+      "n": 25,
+      "who": "哈姆雷特（狐狸）",
+      "did": "说很少见：很少有土系女巫能与动物沟通，连拥有惊人力量的罗恩都不行，你的力量一定很强；随后闭嘴享受海伦娜的抚摸",
+      "lines": "152-155",
+      "verbatim": "No. Just very rare. Few earthwitches can communicate with animals. Not even Rowan with her impressive powers. Your magic must be very strong indeed. Hamlet closed his eyes and lifted his head, enjoying Helena’s attention and ending their conversation."
+    },
+    {
+      "n": 26,
+      "who": "辛西娅（内心）",
+      "did": "「土系女巫？力量？你在胡说什么？」；狐狸恼人地沉默；她摇头；随后（提取件在此处混入站点宣传行，非正文）她想：狐狸当然不说话，狐狸不会说话，这不过是童年幻想；或者只有强大的土系女巫才能做到——如果相信这只狐狸的话；可狐狸怎么能被相信，因为它就是一只该死的狐狸；「或许这正是最该相信的理由。」；狐狸甩了甩尾巴",
+      "lines": "158-191",
+      "verbatim": "Earthwitch? Powers? What kind of nonsense are you on about? … But the fox remained infuriatingly silent. … Of course he's silent. Foxes can't talk. This is nothing more than childhood fantasies. … Or magic only powerful earthwitches could accomplish. If the fox was to be believed. … The fox cannot be believed because he is a bloody fox! … Perhaps that is the best reason to believe me. The sneaky animal flicked his tail."
+    },
+    {
+      "n": 27,
+      "who": "海伦娜与辛西娅",
+      "did": "海伦娜问「你还好吗」，铜色眉毛压向灰眼；辛西娅咬牙答「我好得很」；海伦娜说「也许这就是我一直不懂蓝血贵族的原因——两个陌生人之间的婚姻很难说得通」，声音温和却像一记耳光把辛西娅拉回现实；她的婚姻也从未对路，但她是个被父亲安排婚姻给一位有权侯爵的初次社交亮相的姑娘，哪有选择",
+      "lines": "194-206",
+      "verbatim": "‘Are you well?’ Helena’s copper brows drew down over her grey eyes. … ‘I’m perfectly fine,’ Cynthia ground between clenched teeth. … ‘Maybe that’s why I’ve never understood blue bloods. A marriage between strangers hardly seems right to me.’ … But she was a debutante whose father had arranged a marriage with a powerful marquess. What choice did she have in the matter? None. I still should have refused."
+    },
+    {
+      "n": 28,
+      "who": "麦克杜格尔警司",
+      "did": "说疏远的婚姻有个好处：让她远离辛克莱那样的人，这或许是休伯特唯一做对的事；她哥哥知道会气炸，若休伯特还活着托马斯会杀了他；重重叹气传达的文字之外更多",
+      "lines": "209",
+      "verbatim": "‘There is one blessing to your distant marriage. It kept you away from men like Damien Sinclair. It might be the only thing yer husband seemed to have done right. Yer brother will have a fit when he finds out abou’ this. If Lord Burrows’ weren’t already dead, Thomas would kill ’im for exposing you to such danger.’"
+    },
+    {
+      "n": 29,
+      "who": "辛西娅",
+      "did": "说希望哥哥不知道全部细节；目光瞟向海伦娜，脸颊发烫；她刚把婚姻的羞耻真相摊开，海伦娜全知道了；尴尬的热像一条又捂又痒的毯子盖住她；刚才与警司来前的那点微妙时刻永远消失了，海伦娜只会看到一个可怜生物，而她恨自己居然在意",
+      "lines": "212-218",
+      "verbatim": "‘I would prefer he didn’t know all the details.’ Cynthia’s gaze flicked to Helena and a blush burned her cheeks. … Whatever strange moment they shared before the superintendent arrived was forever gone. Helena would only see a pitiful creature now, and Cynthia hated herself for caring."
+    },
+    {
+      "n": 30,
+      "who": "辛西娅（内心）",
+      "did": "她习惯被圈中女性仰慕（财富、仪态、尖舌、毒舌wit、有用的人脉），却分明觉得这些对海伦娜·布莱尔统统不重要——而这很重要",
+      "lines": "221",
+      "verbatim": "She was used to being admired by the women in her set. Envied for her wealth, poise, sharp tongue, wicked wit, and advantageous connections. Yet she got the distinct impression none of that mattered to Helena Blair. And that mattered to Cynthia."
+    },
+    {
+      "n": 31,
+      "who": "辛西娅",
+      "did": "希望那女人走开：在海伦娜面前示弱很危险；她要把焦点从破碎的婚姻拉回案子：「我只能希望能有更多帮助找到休伯特的凶手。如果他和这个七晷区的魔鬼有邪恶往来，形势不妙。」",
+      "lines": "224",
+      "verbatim": "She needed to pull the focus away from her broken marriage and bring it back to the case. ‘I only wish I could be of more help in finding Hubert’s killer. If he had nefarious dealings with this Devil of Seven Dials, it doesn’t bode well.’"
+    },
+    {
+      "n": 32,
+      "who": "麦克杜格尔警司",
+      "did": "说这对调查没坏处、但对她的清白有好处；若休伯特欠辛克莱钱没还，「那杂种」就升到嫌疑人名单首位；他们找不到更合适的人选",
+      "lines": "227",
+      "verbatim": "‘No’ for the investigation, but it does help in clearin’ your name, Lady Burrows. One thing’s certain: if Hubert owed Sinclair money and did no’ repay his debt, tha’ bastard has risen to the top of our suspect list. We couldn’t find a more worthy candidate.’"
+    },
+    {
+      "n": 33,
+      "who": "辛西娅",
+      "did": "警司的话本该带来宽慰的涟漪，她的不安却只增不减；她承认丈夫一死等在前头的是穷困、当有钱寡妇的动机不成立，但仍可被解释为出于怨恨或愤怒；信确实把调查引向新方向，但没有更多证据不能给这个魔鬼定罪",
+      "lines": "230-233",
+      "verbatim": "MacDougal’s words should have created a ripple of relief to run through her, but her unease only grew. … ‘I suppose knowing destitution awaits me upon his death removes any possible motivation I had for killing him to become a wealthy widow. But an argument could still be made that I did it out of spite or anger for his actions. The letter certainly leads us in a new direction, but we can’t jump to conclusions about this Devil without more evidence.’"
+    },
+    {
+      "n": 34,
+      "who": "海伦娜",
+      "did": "抱臂问「你是在为一个已知罪犯开脱吗？一个能洗清你身上那桩——如果你被判有罪就会要你命的——谋杀的人？」",
+      "lines": "236",
+      "verbatim": "Helena crossed her arms over her corseted chest. ‘Are you arguing against the guilt of a known criminal? A man who could clear you of a murder that, if you are found guilty, will end in your death?’"
+    },
+    {
+      "n": 35,
+      "who": "辛西娅",
+      "did": "这样看来闭嘴明智，但她厌倦了闭嘴：「是的。我就是。」；海伦娜灰眼睁大、摇头：「我分不清你是疯还是勇敢。」；辛西娅耸肩：「也许两者都是。我要找到休伯特的凶手，不只是为了证明我的清白，而是要让正义得到伸张。Convenience 地把罪名推给辛克莱先生，对这两件事都没有帮助。」",
+      "lines": "239-248",
+      "verbatim": "‘Yes. I am.’ … ‘I can’t decide if you are barmy or brave.’ Cynthia shrugged. ‘Perhaps I’m both. I want to find Hubert’s killer. Not just to prove my innocence, but to make sure justice is achieved. Blaming this Sinclair fellow out of convenience hardly accomplishes either of those goals. You said yourself we need evidence. If someone is going to hang for Hubert’s murder, I want to ensure they actually committed the crime.’"
+    },
+    {
+      "n": 36,
+      "who": "辛西娅（内心）",
+      "did": "海伦娜叹气、目光烙进她灵魂；若狐狸说的是真话——可狐狸不可能说真话！它是动物——海伦娜听不到她的念头，却似乎看见了她所有的秘密；她感到赤裸而脆弱；后颈汗毛因某种意外而竖起；「因为她在看我。不是女侯爵。不是社交界精心修饰的淑女。不是顺从的女儿与尽责的妻子。她在看我。」",
+      "lines": "251-257",
+      "verbatim": "Helena exhaled, her gaze searing Cynthia’s soul. If the fox was being truthful – the fox cannot be truthful! It is an animal – Helena couldn’t hear Cynthia’s thoughts, but it appeared she was seeing all of her secrets. Cynthia felt bare and vulnerable. … Because she sees me. Not the marchioness. Not society’s carefully curated lady. Not the obedient daughter and dutiful wife. She sees me."
+    },
+    {
+      "n": 37,
+      "who": "麦克杜格尔警司",
+      "did": "说不能把好嫌疑人扔掉；他们几个月来一直想抓辛克莱的把柄，这是抓他关起来审问的好机会；他也许没杀她丈夫，但他一定知道是谁干的；就算不知道，至少提醒了他们在盯着他",
+      "lines": "260",
+      "verbatim": "‘Well, you’ll excuse me if I do no’ throw away a perfectly good suspect in this case, Lady Burrows. We’ve been tryin’ to get something on Sinclair for months. This is as good a chance as any to arrest the bastard and hold him for questioning. He might no’ have killed your husband, but I’ll bet all the whisky in Scotland he knows who did it. And if he does no’, at least we’ll have reminded him we’re watchin’.’"
+    },
+    {
+      "n": 38,
+      "who": "辛西娅",
+      "did": " triumphantly 举起吊坠问「那项链呢？」；警司答「这比任何闪亮的饰物更有说服力」；辛西娅说若他没杀休伯特就是浪费时间；警司露出雇佣兵般的眼神，说休伯特在他口袋里（被他捏住）、辛克莱在威胁他，而七晷区的魔鬼是个杀手",
+      "lines": "263-272",
+      "verbatim": "‘What about the necklace?’ Cynthia asked triumphantly, holding the locket out. … ‘This is more compelling than any glittering frippery.’ … ‘But if he didn’t kill Hubert, you’ll be wasting your time following the wrong man.’ … ‘Yer husband was in his pocke’. Sinclair was threatening him. And the Devil of Seven Dials is a killer.’"
+    },
+    {
+      "n": 39,
+      "who": "辛西娅与麦克杜格尔警司",
+      "did": "她说「对，但我们不知道他就是杀休伯特的人」，并让这些情绪变得更容易忽略——「像困惑一样令人陶醉」；警司说抓住他是查清罪责的最好办法；她说发现证据、或干脆跟他谈谈也许更有效率；他答「等他被铐住跑不掉时，我跟他说话方便得多」",
+      "lines": "275-284",
+      "verbatim": "‘Yes, but we don’t know that he is Hubert’s killer.’ She leaned into her frustration, making it easier to ignore whatever emotions Helena inspired. Emotions as confusing as they were intoxicating. … ‘Catching him is the best way to discover his guilt.’ … ‘One would assume discovering evidence, or perhaps, talking to the man, might be more productive.’ … ‘I can talk to him much better when he’s in shackles and can no’ escape.’"
+    },
+    {
+      "n": 40,
+      "who": "辛西娅",
+      "did": "用社交技巧在脸上刷一层镇定的饰面；既然警司主意已定争论无益，她问「我能认为针对我的调查已经结束了吗？」——这是新进展带来的唯一好处；若警司不再盯着她，她也就能不被看着地做自己的调查",
+      "lines": "287",
+      "verbatim": "Cynthia exhaled, using her practised social skills to paint a veneer of calm over her features. There was no point arguing when Superintendent MacDougal’s mind was already set on a course. ‘Can I assume that your investigation into me has concluded?’ … And if Superintendent MacDougal wasn’t watching her any longer, he wouldn’t see her completing her own investigation."
+    },
+    {
+      "n": 41,
+      "who": "麦克杜格尔警司",
+      "did": "转向侄女问「你怎么看，姑娘？她在撒谎吗？」",
+      "lines": "290",
+      "verbatim": "‘What do you think, lass? Is she lying?’"
+    },
+    {
+      "n": 42,
+      "who": "海伦娜",
+      "did": "苍白的皮肤涨成草莓红；别开眼不看舅舅；答「不……至少，我不这么认为」；警司皱眉、整理外套，说「那么，这就是我们的答案。你不是嫌疑人，伯罗斯夫人。至少我们不这么认为。」",
+      "lines": "293-296",
+      "verbatim": "Helena’s pale skin flushed strawberry red. Cynthia wondered if she could feel the heat of her blush. She looked away from her uncle. ‘No. A-at least, I don’t think so.’ … ‘Well, then. I suppose tha’s our answer. You are no’ a suspect, Lady Burrows. At least, we don’t think so.’"
+    },
+    {
+      "n": 43,
+      "who": "辛西娅",
+      "did": "盯着海伦娜说「实在不怎么让人安心」；随后在心中无声辱骂：「你的头发难看，你的魔法愚蠢，你是世界上最无趣的女人。」——全是明显的谎言，也全是能确保那女人有反应的侮辱——结果「什么也没有。连眼睛都没眨一下。」；海伦娜或许是为探查她藏起的心事而来，但这位女巫自己也有秘密：她或许读得懂别人的心，却察觉不到辛西娅脑中正在发生的事；「该死。狐狸是对的。」",
+      "lines": "299-314",
+      "verbatim": "Your hair is dreadful, your magic is silly, and you are the dullest woman I know. … All blatant lies. Also, all insults that would ensure a reaction from the woman if she could hear them. … Nothing. Not even a blink. … Helena might be here to detect Cynthia’s hidden thoughts, but she was the witch with a secret. Perhaps she could read other people’s minds, but she couldn’t detect a thing going on in Cynthia’s head. … Damnation. The fox is right."
+    }
+  ],
+  "relationships_noted": [
+    "辛西娅 ↔ 麦克杜格尔警司：调查者与嫌疑人；本章末被宣布「不是嫌疑人」（:296）",
+    "麦克杜格尔警司 ↔ 海伦娜：叔侄（:293 叙述称他为 her uncle）",
+    "辛西娅 ↔ 海伦娜：吸引与敌意并行；辛西娅怕她同情自己（:110、:113、:212）",
+    "辛西娅 ↔ 哈姆雷特：狐狸能与她对话；她称他「可爱的狐狸」式地否认（:122–:191）",
+    "海伦娜 ↔ 哈姆雷特：主宠（:68、:155）",
+    "辛西娅 ↔ 休伯特（肯特摩尔侯爵）：十年婚姻，实为冷硬交易（:77–:101）",
+    "辛西娅 ↔ 托马斯：兄妹；她多年来隐瞒婚姻真相（:74、:77）",
+    "辛西娅 ↔ 父母：父母有体面而互相尊重的婚姻；她被父亲安排嫁人（:77、:200）",
+    "辛西娅 ↔ 达米安·辛克莱：素未谋面的债主对手（:41、:62、:272）",
+    "哈姆雷特 ↔ 罗恩姨妈：狐狸口称「连力量惊人的罗恩都不行」（:152）",
+    "休伯特 ↔ 辛克莱：休伯特欠债、被威胁（:272）",
+    "辛西娅 ↔ 麦克杜格尔警司（另一重）：警司愿为她向哥哥隐瞒（:212）"
+  ],
+  "numbers_verbatim": [
+    "more than ten years / ten years of marriage（婚姻十年，L101）",
+    "months since we’ve exchanged more than a passing greeting（数月只打照面，L74）",
+    "every man in the Seven Dials … half the women as well（势力覆盖，L56）",
+    "He’s killed more people than the plague（杀的人比瘟疫多，L62）",
+    "one function in his life（女人在他生命里只有一个功能，L89）",
+    "first two obligations / the last aspect（三项职责中的两项与一项，L92）",
+    "for months（想抓辛克莱把柄数月，L260）"
+  ],
+  "unresolved_in_source": [
+    "谁写了那封羊皮纸信（:35「谁会写这个？」）——本章未答",
+    "辛克莱是否杀了休伯特（:272 警司断言他是杀手，:275 辛西娅指出无证据）——悬置",
+    "哈姆雷特是否真的能说话（:152 狐狸自称土系能力稀罕；:188「或许这正是最该相信的理由」）——本章不证实",
+    "海伦娜到底从辛西娅身上听到了什么（:65）——未答",
+    "闯入者从保险箱里要拿什么（ch07 遗留）——本章未答",
+    "海伦娜自己藏着的「秘密」是什么（:311）——本章未答",
+    "辛西娅的那句「我自己也查案」具体要做什么（:287）——本章未答"
+  ],
+  "traps_noted": [
+    "L77「the Marquess of Kentmore」＝休伯特·伯罗斯本人（ch02:44 已确认「the marquess… Lord Hubert Burrows」；ch11/ch19/ch27 亦同），不是另一个人",
+    "L74「Superintendent Lachlan」——辛西娅把麦克杜格尔警司称作拉奇兰；Lachlan 是叔叔的名字（ch07 拉奇兰叔叔与麦克杜格尔是两个人），本章未解释，勿当设定",
+    "L53 海伦娜转述窃贼心念用「if I fail」，ch07:164 原文为「if I come back without it」——同一念头两处措辞不同，书中自相矛盾，勿裁决",
+    "L170「Still in the reading mood?」与 L173「You can find more novels waiting at Lokepub.」是站点宣传注入，**非正文**；同类注入另见 ch03:188、ch13:185、ch19:197、ch25:214",
+    "L119「Helena said the maid’s thoughts were loud」——本章并无女佣出场，指代无着，勿据此补写",
+    "L227「‘No’ for the investigation」与 L272「in his pocke’.」是撇号/句号错位的排印损坏（原文应为 No’ / pocket.），非作者措辞",
+    "L245「barmy」是俚语（疯人院/发疯），非「barmy」也不是拼写错误",
+    "L245 海伦娜说「我分不清你是 barmy 还是 brave」，辛西娅答「也许两者都是」——两人对答顺序不可颠倒",
+    "L293「She looked away from her uncle」——此处 uncle 指麦克杜格尔（海伦娜的舅舅），不是拉奇兰叔叔",
+    "L302–:308 是辛西娅的**无声**辱骂（无引号内心话），非说出声；不得写成「她当面骂了海伦娜」",
+    "L152 狐狸说的是「Few earthwitches can communicate with animals」——元素是土（earth），与海伦娜的水（water，ch06:89）、埃莉的风（air，ch06:113）并列，不可互换"
+  ]
+}

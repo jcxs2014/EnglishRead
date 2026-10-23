@@ -1,0 +1,452 @@
+{
+  "chapter": "ch11",
+  "slug": "the-hexing-miss-helena-by-darcy-mcguire",
+  "source": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch11_chapter_11.txt",
+  "source_lines": 227,
+  "read_discipline": "先素读：仅读 text/ch11_chapter_11.txt（全文 227 行），未打开 ch11 md、未看该章词表与导航",
+  "sampling_reason": "深审 R0–R5 全章（批 4／27）",
+  "line_ref_convention": "行号为 text/ch11_chapter_11.txt 的 1 基行号；引文逐字抄录",
+  "pov": "辛西娅·伯罗斯（Cynthia Burrows）第三人称限知（全章单 POV）；海伦娜与辛克莱的话都是带引号的对白，辛西娅的内心话为无引号独立段",
+  "events": [
+    {
+      "n": 1,
+      "who": "辛克莱",
+      "did": "把桌上的一杯水往左挪了不到一寸，先警告：「我劝你在指控谁犯罪这件事上小心点，伯罗斯夫人。」",
+      "lines": "35",
+      "verbatim": "Sinclair shifted a glass of water on his desk a fraction to the left. ‘I would be careful about ’oo you are accusing of a crime, Lady Burrows.’"
+    },
+    {
+      "n": 2,
+      "who": "辛西娅（内心）",
+      "did": "「天知道海伦娜在听些什么。但愿能帮她找到杀害休伯特的凶手。」",
+      "lines": "38",
+      "verbatim": "God only knew what Helena was hearing. Hopefully, something that would help them locate Hubert’s murderer."
+    },
+    {
+      "n": 3,
+      "who": "海伦娜",
+      "did": "向书桌逼近一步，双手平放在桌上、俯身向前（这番勇气让辛西娅又担心又佩服）：复述辛克莱信里的话「与魔鬼毁约要付沉重代价」，指出他不容违令，追问「你想让休伯特付出哪种后果」；逐条列出：逐出俱乐部？严厉斥责？或向other有钱老爷递话？然后说「违抗可怕的达米安·辛克莱，你会落得像肯特莫尔侯爵一样的下场——被杀。死亡可以说才是最沉重的后果，不是吗……七晷区的魔鬼？」",
+      "lines": "41",
+      "verbatim": "Helena took a step closer to the desk. ‘You sent a note reminding the Marquess of Kentmore that he was overdue in paying his debt. What was the phrase you used… “breaking a deal with the Devil carries profound consequences”, I believe. You’ve made it quite clear that you don’t take kindly to your orders being ignored. So, I wonder, what kind of consequences did you have in mind for Hubert?’ She put both hands flat on his desk, leaning closer in a show of courage that had Cynthia both worried and impressed. ‘Excommunication from your club? A strongly worded reprimand? Or perhaps you wanted to send a message to the other wealthy lords in your pocket. Defy the terrifying Damien Sinclair and you’ll end up just like the Marquess of Kentmore. Murdered. Death is arguably the most profound consequence of all, wouldn’t you say… Devil of Seven Dials?’"
+    },
+    {
+      "n": 4,
+      "who": "辛克莱",
+      "did": "把手插进口袋（这个看似无害的动作让辛西娅猜他口袋里藏了什么武器——也许是杀她丈夫的那把刀），叫出「布莱尔小姐」，像拼谜一样玩味她的名字：苏格兰场有个警司，侄女姓布莱尔——拉克兰·麦克杜格尔，「一个脑袋比两块木板还厚的苏格兰杂种」，问海伦娜听说过没有",
+      "lines": "44",
+      "verbatim": "Sinclair tucked a hand in his pocket, a seemingly disarming gesture. Cynthia wondered what weapon he might keep hidden there. The same blade used to kill her husband, perhaps? ‘Miss Blair.’ He paused, contemplating her name like a puzzle. ‘There’s a superintendent at Scotland Yard ’as nieces with the name of Blair. Lachlan MacDougal. A Scottish bastard with an ’ead thicker than two planks. ’eard of him?’"
+    },
+    {
+      "n": 5,
+      "who": "海伦娜",
+      "did": "下巴跳了一下（被说中叔叔时忍不住）",
+      "lines": "47",
+      "verbatim": "Helena’s jaw jumped."
+    },
+    {
+      "n": 6,
+      "who": "辛西娅（内心）",
+      "did": "警报像百万只蜘蛛在她皮肤上乱窜：海伦娜绝不可能不为叔叔辩护，那样做正合魔鬼之意——因为他**在找一个弱点，而爱让人人都变得软弱**",
+      "lines": "50",
+      "verbatim": "Alarm skittered over Cynthia’s skin like a million spiders scuttling to and fro. There wasn’t a chance in Hades that Helena wouldn’t rise to her uncle’s defence. And by doing so, play right into the Devil’s hand. Because he was looking for a weakness. And love made everyone weak."
+    },
+    {
+      "n": 7,
+      "who": "辛克莱",
+      "did": "继续用低沉粗哑的声音：那个男人（麦克杜格尔）跟他有真正的私仇，曾把他押到纽盖特、而与本案毫无证据关系；转而问辛西娅：作为遗孀你该听说麦克杜格尔失手了吧，才自己上手查？还「顺带拖着一个侄女」？「让伟大的拉克兰·麦克杜格尔警司承认自己需要帮手，对这位大人物来说一定很丢脸——而且还是从刚离开学校门的姑娘那儿借的。」",
+      "lines": "53",
+      "verbatim": "Sinclair kept speaking in his low, rough growl. ‘The man ’as a real vendetta against me. ’auled me down to Newgate without an ’int of evidence regarding this exact case.’ A muscle in his cheek ticked as he turned to Cynthia. ‘But you must know that already, being the widow. Tell me, did you ’ear of MacDougal’s failure and decide to try your ’and at investigating?’ He tipped his chin towards Helena. ‘Dragged along one of ’is nieces for good measure? Rumour ’as it they sometimes help ’im on his cases. Must be embarrassing for the great Superintendent Lachlan MacDougal to admit ’e needs assistance. And from girls barely out of the schoolroom at that.’"
+    },
+    {
+      "n": 8,
+      "who": "辛西娅（内心）",
+      "did": "胃部一紧；他的冷笑在房里回荡；她心里想扑上去动手，但**他正是在算计这个**；「向这个男人承认任何事，最轻是危险，最重是送命。」",
+      "lines": "56",
+      "verbatim": "Cynthia’s stomach clenched as his cold laughter echoed in the room. Everything in her wanted to attack, but he was counting on that. Admitting anything to this man was dangerous at best, deadly at worst."
+    },
+    {
+      "n": 9,
+      "who": "海伦娜",
+      "did": "「向有本事、有才智的人求助——不论对方是男是女—— hardly 算软弱。」她的手边洇出一圈水汽，辛西娅想那水印会不会留在漆面上，**她甚至希望它会**",
+      "lines": "59",
+      "verbatim": "‘Asking for help from skilled and intelligent individuals – regardless of their sex – is hardly a mark of weakness.’ A ring of moisture framed Helena’s hand. Cynthia wondered if it would leave a stain on the lacquered finish. Perversely, she hoped it did."
+    },
+    {
+      "n": 10,
+      "who": "辛克莱",
+      "did": "「跟暴力的人玩把戏很危险。去问问警司吧，不少人都领教过他那套审问手段。别搞错，职位头衔不会让一个男人就少杀人几分。」他的舌尖扫向嘴角一道正在愈合的裂口",
+      "lines": "62",
+      "verbatim": "‘It’s dangerous to play games with violent men. Just ask the Superintendent. Many a man’s experienced ’is particular interrogation skills. Make no mistake, a job title doesn’t make a man any less of a killer.’ His tongue flicked to the corner of his lip where Cynthia noticed a healing cut."
+    },
+    {
+      "n": 11,
+      "who": "辛西娅（内心疑问）",
+      "did": "「那道伤是麦克杜格尔警司留下的吗？」——她无法想象哥哥那位和气的朋友会如此暴力，但「男人有很多张脸」",
+      "lines": "65–68",
+      "verbatim": "Did Superintendent MacDougal put that there? She couldn’t imagine the charming friend of her brother’s acting so violently, but men wore many faces."
+    },
+    {
+      "n": 12,
+      "who": "海伦娜",
+      "did": "「我们无意为你效劳，辛克莱先生。警司用来审问你的手段，与**你所犯下的暴力**相比不值一提。」她的低音像磨利的刀切过紧张气氛",
+      "lines": "71",
+      "verbatim": "‘We have no intention of offering help to you, Mr Sinclair. Whatever methods the Superintendent used to question you pale in comparison to the violence you have committed.’ Helena’s low voice cut through the tension like a sharpened blade."
+    },
+    {
+      "n": 13,
+      "who": "辛克莱",
+      "did": "「你在萨维尔街上的药铺生意怎么样，布莱尔小姐？」——威胁不言自明",
+      "lines": "74",
+      "verbatim": "‘’ow is business at your apothecary shop on Savile Row, Miss Blair?’ The threat emanating from his gravelled tone was unmistakable."
+    },
+    {
+      "n": 14,
+      "who": "辛西娅（内心）",
+      "did": "恐惧绷紧脊背：她意识到处境何等凶险——被困在辛克莱办公室里，一旦事情变难看，**身边没有任何人可帮**",
+      "lines": "77",
+      "verbatim": "Fear tightened Cynthia’s spine as she realised exactly how dire their circumstances were, trapped in Sinclair’s office with no one to help them should things turn ugly."
+    },
+    {
+      "n": 15,
+      "who": "辛克莱",
+      "did": "「药铺多容易着火啊——那么多易燃品整整齐齐排成一小排一小排的香皂和乳液。小心点，布莱尔小姐。要是你听说你店里或店里的女工出了什么事，那可太遗憾了。」",
+      "lines": "80",
+      "verbatim": "Sinclair’s voice was warning smoke threading through a building before it burst into an inferno. ‘It’s frightening ’ow susceptible apothecary shops are to fire. So many flammable products all sitting next to each other in neat little rows of soaps and lotions. ’ave a care, Miss Blair. It would be a shame to ’ear of any ’arm coming to your shop or the women working there.’"
+    },
+    {
+      "n": 16,
+      "who": "海伦娜",
+      "did": "**脸色明显发白**，后退了一步",
+      "lines": "83",
+      "verbatim": "Helena visibly paled and took a step backwards."
+    },
+    {
+      "n": 17,
+      "who": "辛西娅",
+      "did": "恐惧变成某种更硬的东西——更烫、更拼命护人；一掌拍在两人之间的桌上夺回他的注意力：「不许威胁她。」",
+      "lines": "86",
+      "verbatim": "Fear morphed into something harder within Cynthia. Something hotter and fiercely protective. Slamming her hand onto the desk between them, she reclaimed his attention. ‘Do not threaten her.’"
+    },
+    {
+      "n": 18,
+      "who": "辛西娅（未出口的念头）",
+      "did": "「**她是我的。**」这个念头不请自来，她猛地闭嘴、没让它说出口",
+      "lines": "89",
+      "verbatim": "She is mine."
+    },
+    {
+      "n": 19,
+      "who": "辛西娅（内心）",
+      "did": "「海伦娜不属于她。那个神秘的女人永远不会属于任何人，除了她自己。但辛西娅发誓绝不让这个混蛋伤到她。」",
+      "lines": "92",
+      "verbatim": "Breathing through her nose, she forced herself to calm. Helena did not belong to her. The enigmatic woman would never belong to anyone but herself. But Cynthia would be damned if she let this bastard hurt her."
+    },
+    {
+      "n": 20,
+      "who": "辛西娅",
+      "did": "「布莱尔小姐是**我带来**的。关于我丈夫、关于他死案的调查、关于他欠的债，你有任何问题，都由我一个人来接。你明白吗？」",
+      "lines": "95",
+      "verbatim": "‘Miss Blair is here at my behest. Any issue you have with my husband, the investigation into his murder, or the debt he owes will be taken up with me alone. Do you understand?’"
+    },
+    {
+      "n": 21,
+      "who": "辛西娅（内心）",
+      "did": "「他不能碰海伦娜。」「这是她自己的烂摊子。海伦娜不能因为休伯特那些不可饶恕的行为把辛西娅拖进噩梦而受伤。」",
+      "lines": "98–101",
+      "verbatim": "He would not touch Helena. This was her mess. Helena would not be hurt because of whatever nightmare Hubert had dragged Cynthia into with his unconscionable actions."
+    },
+    {
+      "n": 22,
+      "who": "辛克莱",
+      "did": "拿起左手边一把拆信刀细看（刃口在光下闪，危险得像刀），抬眼：「既然你这么在意布莱尔小姐的安全，就不该把她带进我的王国。我要威胁谁就威胁谁。」又补：「我没杀你丈夫，尽管他罪有应得。」",
+      "lines": "104",
+      "verbatim": "Sinclair picked up a letter opener that sat on his left and examined it closely. The edge was sharp as it glinted in the light, as dangerous as any knife. His gaze flicked up. ‘If you care so greatly for Miss Blair’s safety, you should never ’ave brought her into my kingdom. I will threaten ’omever I like.’ He blinked, tapping the letter opener against a wide palm. ‘I didn’t kill your ’usband, though it was no less than ’e deserved.’"
+    },
+    {
+      "n": 23,
+      "who": "（无人／不明）",
+      "did": "**那杯水翻了**，泼在他面前的纸张上",
+      "lines": "107",
+      "verbatim": "The glass of water tipped, spilling over the papers in front of him."
+    },
+    {
+      "n": 24,
+      "who": "辛克莱",
+      "did": "「Fucking ’ell!」抓起羊皮纸、一跃而起，抢在液体滴到桌上流到腿上之前；墨迹糊成一片，把整齐的数字行变成不可辨的污斑；他的低咒狠毒，但辛西娅瞥向海伦娜时**压不住一阵快意**：「她的女巫同伴看不惯辛克莱的霸凌。她也看不惯。」",
+      "lines": "110",
+      "verbatim": "‘Fucking ’ell!’ He snatched the parchment and leapt to his feet before the liquid dripped off the desk and onto his lap. Ink blurred across the pages he shook, turning neat rows of numbers into indecipherable blotches. His low curses were vicious, but Cynthia couldn’t stop the surge of pleasure as she glanced at Helena. Her waterwitch didn’t take kindly to Sinclair’s bullying. Neither did she."
+    },
+    {
+      "n": 25,
+      "who": "辛克莱 → 管家史密斯",
+      "did": "吼「**史密斯**，拿条毛巾」给那个带她们穿过赌场又送上楼的壮汉；那人以出人意料的矫健闪身出去",
+      "lines": "113",
+      "verbatim": "‘Smith, a towel,’ he growled to the man who had escorted them through the gaming hell and upstairs. The large gentleman moved with surprising athleticism as he ducked out of the office."
+    },
+    {
+      "n": 26,
+      "who": "辛克莱",
+      "did": "挺直到全高，俯视两个女人，把纸放到桌上一块干燥处：「正如我说的。我没杀你丈夫。」",
+      "lines": "116",
+      "verbatim": "Straightening to his full height, Sinclair towered over both women and carefully put the papers down on a dry patch of desk. ‘As I was saying. I didn’t kill your ’usband.’"
+    },
+    {
+      "n": 27,
+      "who": "辛西娅",
+      "did": "「我凭什么信你？你有完美的动机——休伯特欠你钱还不上。」手叉腰、抿唇，摆出一副她自以为 dripping with disdain 的表情",
+      "lines": "119",
+      "verbatim": "‘Why should I believe you? You have the perfect motive. Hubert owed you money and couldn’t pay.’ Cynthia put her hand on her hip and crimped her lips in what she hoped was a look dripping of disdain."
+    },
+    {
+      "n": 28,
+      "who": "辛克莱",
+      "did": "白眼球一翻：杀了所有还不上钱的人，伦敦上流阶级会被清空，他的财源也一样；「明智的生意人不会无缘无故砍掉一条进项」；休伯特是**极有利可图的进项**——赌博欠债、他点的妓女、他喝的杜松子酒，每进门一次他就赚一小笔 fortune；「只有傻瓜才会宰掉一头现金奶牛」",
+      "lines": "122",
+      "verbatim": "Sinclair rolled his eyes. ‘If I killed everyone ’oo fell behind in their payments, London’s ruling class would be culled, as would me coffers. A wise businessman doesn’t eliminate an avenue of income without due cause. And your ’usband was a very lucrative avenue of income. Between ’is gambling debts, the doxies ’e demanded, and the gin ’e drank, I was making a small fortune every time ’e walked through my doors. Only a fool would kill a cash cow like ’ubert Burrows.’"
+    },
+    {
+      "n": 29,
+      "who": "辛西娅 / 辛克莱",
+      "did": "「混蛋！你本该断了他的信用。」／「你本该把他看紧些。」",
+      "lines": "125–128",
+      "verbatim": "Cynthia narrowed her eyes. ‘Bastard! You should have cut him off.’ Sinclair shrugged. ‘You should ’ave kept better tabs on ’im.’"
+    },
+    {
+      "n": 30,
+      "who": "辛西娅（内心）",
+      "did": "「这男人的胆子！」",
+      "lines": "131",
+      "verbatim": "The nerve of this man!"
+    },
+    {
+      "n": 31,
+      "who": "辛西娅（内心＋警告的眼神）",
+      "did": "角落里的花瓶开始颤动；她给海伦娜一个警告的眼神——**一杯水泼翻可以是意外，但如果办公室里每一件盛水的器皿同时翻倒就是问题**；她已经够多问题了",
+      "lines": "134",
+      "verbatim": "A vase in the corner started to quiver. Cynthia sent Helena a warning glance. One spilled glass was an accident, but if every vessel holding water in his office simultaneously tipped, that was a problem. Cynthia had enough problems."
+    },
+    {
+      "n": 32,
+      "who": "辛克莱",
+      "did": "「休伯特不太听我对他的行为的意见。」／「他本该听的。不然他就不会变成一堆面包（brown bread＝死人），他的债也不会落到你头上。」他把恭维与威胁像杜松子酒配汤力水那样调在一起；他裁剪完美的西装与伦敦腔俚语之间的不协调是他人格上的又一道褶",
+      "lines": "137–140",
+      "verbatim": "‘Hubert didn’t exactly listen to my opinions about his behaviour.’ ‘Perhaps ’e should ’ave. Maybe then ’e wouldn’t be brown bread and ’is debt wouldn’t belong to you.’ The man blended compliments and threats like gin and tonic. The incongruence of his perfectly tailored suit and cockney slang was another wrinkle in his persona."
+    },
+    {
+      "n": 33,
+      "who": "辛克莱",
+      "did": "「再说了，即便他的债是动机，我也不可能是唯一有理由杀你丈夫的男人。」",
+      "lines": "146",
+      "verbatim": "‘Besides, even if ’is debts were a motive, I’m ’ardly the only man with reasons to kill your ’usband.’"
+    },
+    {
+      "n": 34,
+      "who": "海伦娜",
+      "did": "头微微一歪（极小的动作），辛西娅注意到了并心想：她是不是听到了有用的东西？",
+      "lines": "149",
+      "verbatim": "Helena’s head tipped to the side. It was a minuscule movement, but Cynthia noted it and wondered. Had she heard something useful?"
+    },
+    {
+      "n": 35,
+      "who": "辛西娅（问）",
+      "did": "「还有谁想让休伯特死？」",
+      "lines": "152",
+      "verbatim": "‘Who else wanted Hubert dead?’"
+    },
+    {
+      "n": 36,
+      "who": "辛克莱",
+      "did": "咂了下嘴、缓缓摇头：「一个人的力量只与他的秘密相当。」——他拒绝回答",
+      "lines": "155",
+      "verbatim": "He tsked, shaking his head slowly. ‘A man is only as powerful as ’is secrets.’"
+    },
+    {
+      "n": 37,
+      "who": "辛西娅",
+      "did": "从鼻子里呼气、退后一步：若他手上没有凶手的线索，剩下的唯一生意就是清债；「你告诉我数目，我来安排。」她根本不知道能怎么安排——也许拿几件珠宝应急、卖掉马车、家具、画作；但**房产是限定继承**的，她的月入虽宽裕却远不够填他要的窟窿",
+      "lines": "158",
+      "verbatim": "Exhaling through her nose, Cynthia stepped back. ‘If you have no information on Hubert’s killer, then the only business that remains between us is settling his debt. As you pointed out, that responsibility falls to me. If you inform me of the sum, I will make arrangements.’ She had no idea what kind of arrangements she could make. Perhaps he would take some of her jewellery as a stopgap. She could sell the carriage. Furniture. Paintings. But the properties were entailed and her monthly income was generous, but not nearly large enough to accommodate the kind of payments she worried he would expect."
+    },
+    {
+      "n": 38,
+      "who": "辛西娅（内心）",
+      "did": "辛克莱像丛林猫一样盯着她，判断他要在猎物身上玩多久；她腋下开始冒汗；这比当年在女校被headmistress 提溜出来更可怕——那一晚她和朋友溜出房间去偷厨房储藏室",
+      "lines": "161",
+      "verbatim": "Sinclair watched her like a jungle cat, determining how long he wanted to play with his prey. She felt sweat prickle at her armpits. It was worse than being brought in front of the headmistress at her finishing school the one night she sneaked out of her room with a friend to raid the kitchen larder."
+    },
+    {
+      "n": 39,
+      "who": "辛克莱",
+      "did": "终于开口，报出一个**离谱的数目**",
+      "lines": "164",
+      "verbatim": "Finally, he opened his mouth and spoke an outrageous sum."
+    },
+    {
+      "n": 40,
+      "who": "辛西娅",
+      "did": "忍不住大笑：「别荒谬。休伯特绝不可能这么鲁莽。」她看向海伦娜：如果辛克莱说的是真的，那她在休伯特保险箱里找到的账本（ch07）**只是他欠债的开头**",
+      "lines": "167",
+      "verbatim": "Cynthia burst into laughter before she could stop herself. ‘Don’t be absurd. Hubert would never have been so reckless.’ She looked to Helena. If Sinclair was telling the truth, the ledgers she found in Hubert’s safe must only be the beginning of the debts he owed."
+    },
+    {
+      "n": 41,
+      "who": "海伦娜 / 辛西娅 / 辛克莱",
+      "did": "海伦娜**干脆地一点头**，证实了她的恐惧；辛克莱只是微笑",
+      "lines": "170",
+      "verbatim": "Helena’s sharp nod confirmed her fears. Sinclair merely smiled."
+    },
+    {
+      "n": 42,
+      "who": "辛西娅（内心）",
+      "did": "「哦。天哪。」「他当然一直这么鲁莽。」这债还不清；即便她还能支配休伯特的全部财产（**她多半不能**）也填不上这个窟窿；辛克莱说休伯特是现金奶牛，他错了——他是个自私、撒谎的猪；休伯特毁了他们，然后干脆利落地把自己弄死，留下她收拾烂摊子",
+      "lines": "173–179",
+      "verbatim": "Oh. Dear. God. Of course he had been so reckless. It was an impossible amount to repay. Even if she retained access to all of Hubert’s wealth – which she most certainly did not – she couldn’t have fulfilled such a debt. Sinclair said Hubert was a cash cow, but he was wrong. He was a selfish, lying pig. Hubert had ruined them and then conveniently gotten himself murdered, leaving her to clean up his mess."
+    },
+    {
+      "n": 43,
+      "who": "辛西娅（内心）",
+      "did": "「混蛋！幸好你死了，不然我会杀了你。」",
+      "lines": "182",
+      "verbatim": "Bastard! It’s a good thing you’re dead, or I would kill you."
+    },
+    {
+      "n": 44,
+      "who": "辛克莱",
+      "did": "「我早说了。那人对赌博和女人的胃口贪得无厌。他吞食享乐的样子几乎称得上令人惊叹。」",
+      "lines": "185",
+      "verbatim": "‘I told you. The man’s appetites for gambling and ’ores were insatiable. Almost impressive the way ’e gorged ’imself on pleasure.’"
+    },
+    {
+      "n": 45,
+      "who": "海伦娜",
+      "did": "挡到辛西娅身前：「辛西娅说得对。你本该断了他的信用。只有蹩脚的生意人才和付不出承诺的人做交易。辛克莱，你是哪种绅士？」",
+      "lines": "188",
+      "verbatim": "Helena must have sensed her distress because she stepped in front of her. ‘Cynthia is right. You should have cut him off. Only a shoddy businessman makes a deal with someone who can’t hold up their end of the bargain. What kind of gentleman are you, Sinclair?’"
+    },
+    {
+      "n": 46,
+      "who": "辛克莱",
+      "did": "「我不是绅士。」像酸葡萄一样啐出这几个字；「我宁可泡在尿里，也不想跟来我俱乐部的那些老爷混在一起——被宠坏、养废的蠢货，从来没为任何东西奋斗过。」他没停掉休伯特，是因为「他让自己很容易被我占有——而我喜欢占有有权势的男人」；他绕出书桌、逼两个女人退让，靠在桌边、双臂交叉，某种危险的东西在眼里闪；「但我有**另一种**偿还这笔债的办法，伯罗斯夫人。想听吗？」",
+      "lines": "191",
+      "verbatim": "‘I’m no gentleman.’ He spat the words like bitter grapes. ‘I’d rather soak in piss than be lumped in with the lords ’oo come to my club. Pampered, spoiled fools ’oo’ve never ’ad to fight for anything. I didn’t stop ’ubert Burrows because ’e made it easy for me to own ’im. And I like owning powerful men.’ Sinclair walked around his desk, forcing Cynthia and Helena to give ground. He leaned against the edge of it and crossed thick arms over an equally well-muscled chest as something dangerous glinted in his eyes. ‘But I ’ave an alternative means to repay ’is debt, Lady Burrows. If you’re interested.’"
+    },
+    {
+      "n": 47,
+      "who": "辛西娅（内心）",
+      "did": "胃一紧：像兔子看狐狸的尖笑那样",
+      "lines": "194",
+      "verbatim": "Her stomach clenched as she imagined a rabbit’s might when looking at the sharp smile of a fox."
+    },
+    {
+      "n": 48,
+      "who": "辛西娅（内心）",
+      "did": "海伦娜睁大着眼抓住她的目光、满脸震惊——他想的必是可怕之事；「要是她也有海伦娜的天赋就好了」，能读他的心、也能瞥见海伦娜的想法；可她只能开口问",
+      "lines": "197",
+      "verbatim": "Helena caught Cynthia’s gaze, eyes wide with shock. Whatever he was thinking must be dreadful to cause such a reaction. If only she shared Helena’s gift and could read his mind. Or peek into Helena’s thoughts, for that matter. Instead, she had to settle for asking."
+    },
+    {
+      "n": 49,
+      "who": "辛西娅（问）",
+      "did": "「你建议什么？」不管他的交易多可怕，她要么接受、要么受他控制——「果真如他俱乐部所标示的那样，是一笔魔鬼的交易。这个混蛋把牌都发在自己手里了。休伯特一死，他就能占有辛西娅——又一个男人替她做决定。这足以让她考虑激烈的手段。」",
+      "lines": "200",
+      "verbatim": "‘What do you suggest?’ No matter how awful his deal might be, she would be forced to take it or be under his control. A devil’s bargain, indeed. Just as his club indicated. The bastard had stacked the deck. With Hubert dead, he would own Cynthia instead. One more man dictating her choices. It was enough to make her contemplate drastic measures."
+    },
+    {
+      "n": 50,
+      "who": "辛克莱",
+      "did": "「我告诉过你，我收集秘密。在某些情形下，情报比英镑更值钱。」",
+      "lines": "203",
+      "verbatim": "‘I told you I collect secrets. Information is far more lucrative than sterling in certain circumstances.’"
+    },
+    {
+      "n": 51,
+      "who": "辛西娅",
+      "did": "「我不认为我手上有什么信息对你有用。」她知道自己这么说策略不佳（等于告诉他自己没东西可换），但他迟早会发现",
+      "lines": "206",
+      "verbatim": "Cynthia tried to puzzle out what secrets she knew that could possibly equate to the debt her husband owed. ‘I don’t think any information I have would be of use to you.’ It probably wasn’t the best strategy to tell him she had nothing of worth to barter, but he would find out sooner or later."
+    },
+    {
+      "n": 52,
+      "who": "辛克莱",
+      "did": "缓慢的笑很阴冷：「你根本不知道你有什么，伯罗斯夫人。但我不要你的情报。」",
+      "lines": "209",
+      "verbatim": "Sinclair’s slow smile was chilling. ‘You’ve no idea what you ’ave, Lady Burrows. But I don’t want information from you.’"
+    },
+    {
+      "n": 53,
+      "who": "辛西娅（内心）",
+      "did": "「你刚说情报比英镑值钱。」她受够了；想象自己转身走人会怎样：大概让那个魁梧的管家追上来，然后海伦娜用她的巫术轰了那人、一切大乱；她**不能**让辛克莱发现海伦娜的天赋——他不会放过利用她弱点的机会，会毁掉她们两个",
+      "lines": "212",
+      "verbatim": "‘You just said information is more valuable than sterling.’ She had endured about enough from this man. What would he do if she spun on her heel and simply walked away? Probably have his burly butler chase after her. Then Helena would blast the man with her witchy magic, and all manner of hell would break loose. She couldn’t risk exposing Helena’s gifts to Sinclair. He wouldn’t waste a moment in exploiting her vulnerability and destroying them both."
+    },
+    {
+      "n": 54,
+      "who": "辛克莱",
+      "did": "「我要**照片**。你的，和她的。」目光扫向海伦娜",
+      "lines": "215",
+      "verbatim": "‘I want pictures. Of you. And ’er.’ He flicked his gaze to Helena."
+    },
+    {
+      "n": 55,
+      "who": "辛西娅（内心）",
+      "did": "她愣住了：肖像画对辛克莱这种人有什么价值？",
+      "lines": "218",
+      "verbatim": "Cynthia blinked. What value would portraits have to a man like Sinclair?"
+    },
+    {
+      "n": 56,
+      "who": "辛西娅（叙述层交代）",
+      "did": "照相在伦敦正当红到处都是照相馆开张；这是上流社会的一门风雅消遣，劳动阶层的男女也一样流行——如今他们也付得起 carte de visite 小像、请人拍好挂在自家屋里；可辛克莱要她们两个的肖像做什么？**除非他打算让那些照片变成丑闻**",
+      "lines": "221",
+      "verbatim": "Photographs were all the rage in London, with studios cropping up on every corner. It was a crackerjack pastime for the beau monde, but equally popular with working-class men and women who could now pay for carte de visite portraits to be taken of them and displayed proudly in their homes. But what the devil would Sinclair do with portraits of Cynthia and Helena? Unless he planned for them to be scandalous."
+    },
+    {
+      "n": 57,
+      "who": "辛西娅（内心）",
+      "did": "「哦，我的天。」「难怪海伦娜吓成这样。」——本章收在此",
+      "lines": "224–227",
+      "verbatim": "Oh my. No wonder Helena was horrified."
+    }
+  ],
+  "relationships_noted": [
+    "辛西娅 ↔ 海伦娜：:50 爱让人软弱（她看穿辛克莱在找弱点）；:86 恐惧转为护人的怒火「Do not threaten her」；:89 未出口的「She is mine」；:92 她随即否认「海伦娜不属于她」；:95 「布莱尔小姐是我带来的」；:98 「他不能碰海伦娜」；:110 她把水杯翻倒读作「她的女巫同伴看不惯辛克莱的霸凌」；:167/:170 海伦娜的点头证实她的恐惧；:188 海伦娜挡在她身前；:197 她羡慕海伦娜能读心",
+    "辛西娅 ↔ 辛克莱：:35 一上来就警告她「指控谁犯罪要小心」；:56 「向这个男人承认任何事最轻是危险最重是送命」；:86 拍桌夺回注意力；:119 「我凭什么信你」；:206 承认自己手上没有可交换的东西；:200 他要「占有辛西娅」＝另一个替她做决定的男人",
+    "辛西娅 ↔ 休伯特（亡夫）：:101 「休伯特把辛西娅拖进的噩梦」；:167 保险箱里的账本只是欠债的开头；:179 「自私、撒谎的猪」「毁了他们然后干脆把自己弄死」；:182 「幸好你死了，不然我会杀了你」；:161 女校回忆",
+    "辛西娅 ↔ 麦克杜格尔警司（舅舅）：:65 「那道伤是警司留下的吗」（只是猜测）；:68 「她哥哥那位和气的朋友」；:37–38 她指望海伦娜能听到线索",
+    "海伦娜 ↔ 麦克杜格尔警司（舅舅）：:47 下巴跳了一下；:71 提到警司的审问手段",
+    "辛克莱 ↔ 麦克杜格尔警司：:53 「真正的私仇」；曾把警司押进纽盖特、而与本案无证据关系",
+    "辛克莱 ↔ 管家史密斯（Smith）：:113「史密斯，拿条毛巾」；壮汉，行动矫健",
+    "辛西娅 ↔ 管家史密斯：:212 想象他追上来",
+    "辛西娅 ↔ 托马斯（哥哥）：:68「她哥哥那位和气的朋友」（与麦克杜格尔同一句话）",
+    "辛西娅 ↔ 恩师（女校长）/ 女校：:161 她曾与朋友夜偷厨房储藏室的旧事"
+  ],
+  "numbers_verbatim": [
+    "’ead thicker than two planks（脑袋比两块木板厚，L44）",
+    "Many a man’s experienced ’is particular interrogation skills（L62）",
+    "Between ’is gambling debts, the doxies ’e demanded, and the gin ’e drank（L122，三项）",
+    "the one night she sneaked out of her room with a friend to raid the kitchen larder（L161，一夜）",
+    "I want pictures. Of you. And ’er.（两个人，L215）",
+    "the properties were entailed（L158，房产限定继承）"
+  ],
+  "unresolved_in_source": [
+    "辛克莱否认杀了休伯特（两次：:104、:116），本章**未给任何证据**；辛西娅问「还有谁想让休伯特死」，他只答「一个人的力量只与他的秘密相当」（:155）——真凶本章仍无解",
+    "债务的**具体数额从未写出**，只写「一个离谱的数目」（:164）",
+    "辛克莱要照片做什么——本章只到辛西娅的推测「除非他打算让那些照片变成丑闻」（:221）",
+    "那道嘴角的愈合伤口是不是麦克杜格尔留下的（:65 只是辛西娅的疑问，无人证实）",
+    "翻倒的水杯（:107）与颤动的花瓶（:134）是否出自海伦娜的法术——文本始终未点破"
+  ],
+  "traps_noted": [
+    "L89「She is mine.」是**辛西娅**对**海伦娜**的占有念头，且**没有说出口**；与 ch09 L245「Mine.」（**海伦娜**对**辛西娅**）方向相反，**不可混为一谈**",
+    "L110「Her waterwitch didn’t take kindly to Sinclair’s bullying. Neither did she.」是**辛西娅对海伦娜表情的解读**，不是叙述者确认海伦娜施法把水杯弄翻；L134 更明写「One spilled glass was an accident」——**不得断言「海伦娜打翻了水杯」**",
+    "L62–:65 嘴角的愈合伤口：辛西娅**自问**是否麦克杜格尔所致，**无人证实**；不得写成「麦克杜格尔用刑逼供打伤了辛克莱」",
+    "L71「the violence you have committed」所指不明——可指辛克莱对休伯特的暴力，也可泛指他此刻表现出的威胁；**不得**改写成「海伦娜指控辛克莱杀了休伯特」",
+    "L164 债务数额**原文没写**（只写 outrageous sum）；后续章节若出现具体数字，须另行取证，不得回填到本章",
+    "L179「which she most certainly did not」指她**多半已不再能支配休伯特的财产**；不得写成「她已经一无所有」",
+    "L53 辛克莱先说「苏格兰场有个警司，侄女姓布莱尔」（:44），到 :53 才断定海伦娜是他侄女；**不得**说他在 :44 就已确认",
+    "L113 管家名为 **Smith**（全书仅此一处）；与 ch13/ch14/ch17/ch20 的 **Governess Smithers** 是两个人，**不可混同**",
+    "L140「brown bread」＝「一堆面包」＝死（伦敦俚语），**不是**真的面包",
+    "L221 原文拼作 `carte de visite`（**有 e**），须逐字照抄",
+    "L158「the properties were entailed」＝房产**限定继承**，她**卖不掉**地产；这是她筹不出钱的制度原因",
+    "L107 泼洒的**正是那些写着数字的纸页**（Neat rows of numbers），即辛克莱手里的账目凭证——他后来「As I was saying」重说「我没杀你丈夫」，中间这次事故把纸毁了"
+  ]
+}

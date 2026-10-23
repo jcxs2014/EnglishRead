@@ -1,0 +1,561 @@
+{
+  "chapter": "ch09",
+  "slug": "the-hexing-miss-helena-by-darcy-mcguire",
+  "source": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch09_chapter_9.txt",
+  "source_lines": 266,
+  "read_discipline": "先素读：仅读 text/ch09_chapter_9.txt（全文 266 行），未打开 ch09 md、未看该章词表与导航",
+  "sampling_reason": "深审 R0–R5 全章（批 3／27）",
+  "line_ref_convention": "行号为 text/ch09_chapter_9.txt 的 1 基行号；引文逐字抄录",
+  "pov": "海伦娜·布莱尔（Helena Blair）第三人称限知（全章单 POV）；辛西娅的话与海伦娜的内心话同为无引号独立段落",
+  "events": [
+    {
+      "n": 1,
+      "who": "海伦娜",
+      "did": "在暗色马车里挪动位置；骑装不适合晚间社交，但少束腰少分叉裙摆便于活动、深蓝色便于融进阴影；哈姆雷特从车厢地板跳到座位贴着她侧身取暖，金色眼睛在漏进车窗的灯光里发亮",
+      "lines": "35",
+      "verbatim": "Helena shifted in the dark carriage. Her riding habit was hardly appropriate for any evening social events, but the lack of bustle and split skirts would allow greater ability to manoeuvre and the dark blue would blend better in the shadows. Hamlet jumped from the carriage floor onto the squabs next to her and pressed his lithe body against Helena’s side."
+    },
+    {
+      "n": 2,
+      "who": "海伦娜（对哈姆雷特说）",
+      "did": "「别那样看我。我这么办只是为了不让那个蠢女人惹上更多麻烦。如果埃莉的幻象没错，辛西娅·伯罗斯比我以为的还要鲁莽。」",
+      "lines": "38",
+      "verbatim": "‘Don’t look at me that way. I’m just doing this to stop the foolish woman from getting into even more trouble. If Ellie’s vision is right, Cynthia Burrows is more reckless than I thought.’"
+    },
+    {
+      "n": 3,
+      "who": "海伦娜（内心）",
+      "did": "「更潇洒。更勇敢。更迷人。」——随即把这念头推进她不愿承认的黑暗角落",
+      "lines": "41",
+      "verbatim": "And more dashing. More courageous. More intriguing. Helena pushed the thoughts into a dark corner of her mind reserved for truths she didn’t wish to acknowledge."
+    },
+    {
+      "n": 4,
+      "who": "海伦娜",
+      "did": "在韦斯特街旁一条阴影小巷、深入七晷区腹地；带了两名最壮硕的男仆和一名曾是赤手拳师的马夫作护卫；若吓不退歹人，就动用法力淹掉任何胆敢上前纠缠的蠢货",
+      "lines": "47",
+      "verbatim": "They were in a shadowed alley just off West Street and well in the heart of Seven Dials. She brought two of her burliest footmen and a groom who had once been a bare-knuckle boxer as protection. If they failed to scare away any nefarious rapscallions, she could always call forth her powers and drown any fool who tried to accost them."
+    },
+    {
+      "n": 5,
+      "who": "海伦娜",
+      "did": "一扇被路灯照得像灯塔的绿门，看似完全无辜的无名砖楼；她知道不是——这是「七晷区魔鬼」臭名昭著的俱乐部 The Devil’s Bargain 入口，门后是「千种罪恶的巢穴」：赌博、饮酒、种种欢愉，付对价就有",
+      "lines": "50",
+      "verbatim": "A green door lit by a well-placed streetlamp glowed like a beacon across the cobblestone street. It seemed completely innocent. Just another nondescript brick building, nothing more. And yet, Helena knew differently. This was the entrance to the Devil of Seven Dial’s notorious club aptly named The Devil’s Bargain. Behind that freshly painted door lay the den of a thousand vices."
+    },
+    {
+      "n": 6,
+      "who": "埃莉（经幻象转述）",
+      "did": "在幻象里见过这扇确切的门、见过门后的东西；也看见辛西娅在魔鬼巢穴正中央，被困在 crimson velvet 与 black lace 装点的房间里",
+      "lines": "53",
+      "verbatim": "Ellie had seen that exact door in her vision. She saw what lay beyond it. And she saw Cynthia in the centre of the Devil’s den. Trapped in a room swathed in crimson velvet and black lace."
+    },
+    {
+      "n": 7,
+      "who": "海伦娜（回溯）",
+      "did": "距她在阳光充足的客厅里与辛西娅分别已过一周；辛西娅当时带她穿过大理石门厅与雕花 mahogany 门，敲着嘴唇、榛色眼里有麻烦的火花、不肯与她对视——是在制定计划",
+      "lines": "56",
+      "verbatim": "It had been a week since Helena left Cynthia in her sun-filled parlour. … the tapping of her finger against her lips, the spark of trouble in her hazel eyes, the way she wouldn’t meet Helena’s gaze as she bid her goodbye all told a very clear story."
+    },
+    {
+      "n": 8,
+      "who": "海伦娜（回溯）",
+      "did": "伯罗斯夫人要自己查休伯特的谋杀，那天下午就说过；客厅里没有一件东西摆得不对位——「Except Cynthia」",
+      "lines": "59",
+      "verbatim": "Lady Burrows was going to conduct her own search into Hubert’s murder. She had said as much that afternoon. It was one of many revelations that haunted Helena after they left the elegantly decorated parlour where not a single thing was out of place. Except Cynthia."
+    },
+    {
+      "n": 9,
+      "who": "海伦娜（内心）",
+      "did": "叔叔的审讯彻底证伪了她对伯罗斯夫人的旧印象：那个穿最高级时装、对任何场面报以得体微笑、句句俏皮或体贴的惊艳侯爵夫人其实很痛苦；她曾溺水，叔叔拉开帷幕暴露婚姻骗局时，她看着一个溺水的人学游泳——令人印象深刻、令人惭愧、也令人不安地令人情动",
+      "lines": "62",
+      "verbatim": "Helena had developed certain opinions about Lady Burrows the few times she had met her that were proven categorically false during Uncle Lachlan’s interview. The stunning marchioness who always dressed in the highest fashion, greeted every situation with a pleasant smile on her face, and had a witty quip or kind observation for all parties present, was actually miserable. … She had been drowning, but as Uncle Lachlan pulled back the veil and exposed her marriage for the sham it was, Helena watched a drowning woman learn how to swim. It was impressive. And humbling. And disconcertingly arousing."
+    },
+    {
+      "n": 10,
+      "who": "海伦娜（内心）",
+      "did": "如今同一个女人决定跳进七晷区腹地最深、最险恶的水里",
+      "lines": "65",
+      "verbatim": "Now that same woman had decided to leap into the deepest, most treacherous water she could find in the heart of the Seven Dials."
+    },
+    {
+      "n": 11,
+      "who": "海伦娜（内心）",
+      "did": "在辛西娅能做的所有蠢、勇、蠢、了不起的事里，这一件像王冠一样端在可怕的主意堆上",
+      "lines": "68",
+      "verbatim": "Of all the foolish, brave, stupid, impressive things Cynthia could have done, this sat like a crown on a pile of terrible ideas."
+    },
+    {
+      "n": 12,
+      "who": "拉奇兰叔叔",
+      "did": "坚持把海伦娜挡在达米安·辛克莱之外，声称他太危险，连强大水巫都对付不了；不想让那人看到拉奇兰生命里任何珍贵的东西，尤其是他三个侄女",
+      "lines": "71",
+      "verbatim": "But Uncle Lachlan insisted she stay well away, claiming Damien was far too dangerous, even for the likes of a powerful waterwitch. He didn’t want the man to set eyes on anything precious in Lachlan’s life, most especially his three nieces."
+    },
+    {
+      "n": 13,
+      "who": "拉奇兰叔叔",
+      "did": "当天就动身：离开辛西娅家、接上托马斯、冲进七晷区",
+      "lines": "74",
+      "verbatim": "He wasted no time hunting the man down with Thomas at his side. He had left Cynthia’s home, collected Thomas, and stormed into the Seven Dials that very same day."
+    },
+    {
+      "n": 14,
+      "who": "拉奇兰叔叔",
+      "did": "把达米安·辛克莱按住整整三个小时，直到对方的律师要求放人",
+      "lines": "77",
+      "verbatim": "Damien Sinclair was brought to heel by Uncle Lachlan for a grand three hours before his solicitors demanded his release."
+    },
+    {
+      "n": 15,
+      "who": "拉奇兰叔叔",
+      "did": "没料到这龌龊罪犯会养着这么体面的男人；审讯被一个穿剪裁完美的西装、拿着一沓文件的男人打断，此人威胁若不立即释放辛克莱就把苏格兰场告上法庭，指控严重司法侵犯",
+      "lines": "80",
+      "verbatim": "Nor did he take well to his interview being interrupted by a gentleman in a perfectly tailored suit with a sheaf of papers, threatening to hold Scotland Yard responsible for a grievous breach of justice if Sinclair wasn’t released immediately."
+    },
+    {
+      "n": 16,
+      "who": "拉奇兰叔叔",
+      "did": "拒绝服从，坚持到治安法官要求他守法、否则丢掉苏格兰场的位子；他们没有明确证据把达米安·辛克莱关在纽盖特监狱牢房里，那违法；叔叔很不高兴",
+      "lines": "83",
+      "verbatim": "They had no clear evidence to hold Damien Sinclair in the bowls of Newgate prison, and it was a breach of the law to do so. Uncle Lachlan had not taken it well."
+    },
+    {
+      "n": 17,
+      "who": "海伦娜",
+      "did": "安排第二天与叔叔碰面筹划下一步；叔叔一谈案子就变成一串全冲着达米安·辛克莱的咒骂",
+      "lines": "86",
+      "verbatim": "Helena had arranged to meet with her uncle the following day to plan out the next steps in their investigation. Uncle Lachlan couldn’t discuss the case without the conversation devolving into a litany of curses all focused on the dastardly Damien Sinclair."
+    },
+    {
+      "n": 18,
+      "who": "克利奥",
+      "did": "下周二来看海伦娜、罗恩姨妈和埃莉；报告托马斯同样暴跳如雷；辛克莱擅长激起守法体面绅士对他人身与暴力的威胁，也许这就是他攫取「伦敦最残酷最狡猾罪犯」名头的本事",
+      "lines": "89",
+      "verbatim": "Clio had come to visit Helena, Aunt Rowan, and Ellie on the following Tuesday. She reported Thomas was in a similar state of fuming frustration. Perhaps that is how Sinclair claimed his title as London’s most cruel and crafty criminal."
+    },
+    {
+      "n": 19,
+      "who": "海伦娜（内心）",
+      "did": "叔叔与托马斯或许确信达米安有罪，但缺少定罪所需的那一样东西：证据",
+      "lines": "92",
+      "verbatim": "Uncle Lachlan and Thomas might be convinced of Damien’s guilt, but they lacked the one thing required to convict him: proof."
+    },
+    {
+      "n": 20,
+      "who": "海伦娜（内心）",
+      "did": "进展有限，她理解辛西娅为何沮丧；但辛西娅这样毫无自保意识地插手让她充满炽热的愤怒——作为水巫，她讨厌这种炽热情绪",
+      "lines": "95",
+      "verbatim": "Given the lack of progress being made, Helena understood why Cynthia might be frustrated. But to take matters into her own hands with such a blatant lack of self-preservation filled Helena with heated anger. And as a waterwitch, she disliked such hot emotions."
+    },
+    {
+      "n": 21,
+      "who": "海伦娜（内心）",
+      "did": "她天性冷静平和，像她的元素流过障碍；可辛西娅总把她情绪的静潭搅成狂浪与碎水的气旋",
+      "lines": "98",
+      "verbatim": "Helena was cool and calm by nature, much like her element that flowed over obstacles with smooth determination. But Cynthia kept swirling the tranquil pool of Helena’s emotions into a cyclone of wild waves and choppy waters."
+    },
+    {
+      "n": 22,
+      "who": "海伦娜（内心）",
+      "did": "埃莉的幻象夺走她仅剩的平静；辛西娅正走进一个陷阱，那傻女人毫不知情",
+      "lines": "101",
+      "verbatim": "Ellie’s vision took what little serenity Helena still possessed and crashed it against the shores of chaos. Cynthia was walking into a trap, and the silly woman had no idea what dangers lay in wait at The Devil’s Bargain."
+    },
+    {
+      "n": 23,
+      "who": "海伦娜（内心）",
+      "did": "她必须保护辛西娅；若托马斯发现辛克莱伤了辛西娅，他会杀了那男人，叔叔会帮忙，两人都会进纽盖特；救她是唯一选项",
+      "lines": "104",
+      "verbatim": "Helena had to protect her. If Thomas found out Sinclair hurt Cynthia, he would kill the man. Uncle Lachlan would help, and they’d both end up in Newgate. Saving the woman was Helena’s only option. She had no other choice."
+    },
+    {
+      "n": 24,
+      "who": "双轮轻便马车夫",
+      "did": "停在绿门前，等人下车后咂舌抖缰离开，露出一位女士的身影",
+      "lines": "107",
+      "verbatim": "A hansom cab stopped in front of the green door. The driver waited long enough for someone to alight, then clucked his tongue and flicked the reins. The carriage pulled away, revealing the distinct figure of a woman."
+    },
+    {
+      "n": 25,
+      "who": "海伦娜",
+      "did": "「辛西娅·伯罗斯。你到底在搞什么？」",
+      "lines": "110",
+      "verbatim": "‘Cynthia Burrows. What the devil are you up to?’"
+    },
+    {
+      "n": 26,
+      "who": "海伦娜（内心）",
+      "did": "辛西娅穿深紫天鹅绒斗篷、兜帽遮住头发和半张脸；她仍认得出；一种共鸣的知晓把海伦娜拉向她，如同河水必然流向大海",
+      "lines": "113",
+      "verbatim": "She wore a decadent velvet cloak in rich purple with the hood pulled up to cover her hair and half her face. But Helena would have recognised Cynthia fully cloaked on a moonless night. A resonant knowing pulled her to the woman as inevitably as river water flowed to the sea, eternally seeking its origin."
+    },
+    {
+      "n": 27,
+      "who": "海伦娜",
+      "did": "没想就下了车，把不满的哈姆雷特锁在车里；她受够要为辛西娅操心了",
+      "lines": "116",
+      "verbatim": "Without thought, she slipped out of the carriage, locking a disgruntled Hamlet inside. The last thing she needed was for her fox to find himself in any trouble. She had enough to worry about with Cynthia."
+    },
+    {
+      "n": 28,
+      "who": "海伦娜",
+      "did": "冲过街道、皮靴在卵石上低语秘密；在辛西娅能敲门之前抓住她的手腕",
+      "lines": "119",
+      "verbatim": "Racing across the street, her leather boots whispered secrets against the cobblestones. She caught Cynthia’s wrist before the woman could rap her knuckles on the door."
+    },
+    {
+      "n": 29,
+      "who": "海伦娜",
+      "did": "把辛西娅转过来面对自己；一阵需要的拳头几乎把她打倒——榛色眼睛睁大、胸膛因急促吸气而起伏；她有一瞬间想象把辛西娅拉近、吻上去品尝震惊的味道",
+      "lines": "122",
+      "verbatim": "Whirling her around to face Helena, a punch of need nearly knocked her over as Cynthia’s hazel eyes widened, her chest expanding on a sharp inhalation. For a wild moment, Helena imagined pulling her close, pressing her lips against Cynthia’s mouth and tasting the flavour of her shock."
+    },
+    {
+      "n": 30,
+      "who": "辛西娅",
+      "did": "迅速恢复；「你到底在干什么？」；惊讶被更炽热的东西取代；眼中闪着义愤、脸色涨红，试图挣脱海伦娜的手",
+      "lines": "125",
+      "verbatim": "Cynthia recovered quickly. ‘What the bloody hell are you doing here?’ she hissed as surprise was replaced by something hotter. Her eyes flashed with indignant rage, and colour flooded her pale cheeks. She tried to pull free from Helena’s grip."
+    },
+    {
+      "n": 31,
+      "who": "海伦娜",
+      "did": "收紧手指不肯放",
+      "lines": "128",
+      "verbatim": "Helena tightened her fingers, refusing to let go."
+    },
+    {
+      "n": 32,
+      "who": "海伦娜",
+      "did": "「我也可以这么问你。」——让辛西娅的愤怒滋养自己的愤怒（比血管里原始的欲望安全得多）；「我是来救你免于毁灭的。你在想什么？」；瞥见斗篷敞开露出黑色缎子的暴露礼服；「你穿的是什么鬼东西？」领口开得极低、胸部几乎要溢出，束腰紧得她皱眉、把胸部像禁忌的供品一样呈出来；她克制着触碰、品尝、吞噬的冲动",
+      "lines": "131",
+      "verbatim": "‘I could ask you the same question.’ She let Cynthia’s anger fuel her own. It was a far safer emotion than the raw desire pulsing in her blood. ‘I am here to save you from ruination. What are you thinking?’ … She fought the need to touch. Taste. Devour."
+    },
+    {
+      "n": 33,
+      "who": "海伦娜（内心）",
+      "did": "这身大胆的行头被一阵慌乱的红晕略微毁了；没有老练的寡妇会带着这种天真的尴尬脸红",
+      "lines": "134",
+      "verbatim": "The daring ensemble was slightly ruined by a hectic flush creeping over Cynthia’s pale skin. No sophisticated widow would blush with such innocent embarrassment."
+    },
+    {
+      "n": 34,
+      "who": "辛西娅",
+      "did": "扯回手臂、拢上斗篷；「进罪恶的庇护所就该这么穿。我猜的。我以前从没做过。再说，这仍然是黑色。我毕竟是个服丧的寡妇。」",
+      "lines": "137",
+      "verbatim": "Cynthia wrenched her arm free and swept her cloak closed. ‘This is how one dresses when entering a haven of sin. I would assume. I’ve never done it before. Besides, it is still black. I am a widow in mourning, after all.’"
+    },
+    {
+      "n": 35,
+      "who": "海伦娜",
+      "did": "笑出声；「当然。没人会质疑你对休伯特的忠诚，你穿着这样走进赌博地狱。」",
+      "lines": "140",
+      "verbatim": "Helena couldn’t stop the snort of laughter. ‘Oh, certainly. No one will question your devotion to Hubert when you enter a gambling hell dressed like that.’"
+    },
+    {
+      "n": 36,
+      "who": "辛西娅",
+      "did": "「正是我要找到休伯特的凶手，才迫使我采取这些措施。我不能干等着你和你叔叔去破案。」",
+      "lines": "143",
+      "verbatim": "‘It is my devotion to finding Hubert’s killer that has forced me to take such measures. I can’t wait around for you and your uncle to try and solve this case.’"
+    },
+    {
+      "n": 37,
+      "who": "海伦娜（内心）",
+      "did": "辛西娅的喉咙在暗夜里白得发亮，像一根精致柱子，她不知是想吻还是想掐",
+      "lines": "146",
+      "verbatim": "Cynthia’s throat flashed white in the dark night, a delicate column Helena couldn’t decide if she’d rather kiss or strangle."
+    },
+    {
+      "n": 38,
+      "who": "辛西娅",
+      "did": "「何况休伯特欠这个魔鬼一大笔钱，这笔债现在落在我身上。我不会活在欠任何人的日子里。我要了结对达米安·辛克莱的财务义务，并弄清他是否杀了休伯特。」",
+      "lines": "149",
+      "verbatim": "‘Besides, Hubert owed this Devil a large sum of money and that debt now falls to me. I will not live my life beholden to anyone else. I will clear my financial obligation with Damien Sinclair and determine if he killed Hubert.’"
+    },
+    {
+      "n": 39,
+      "who": "海伦娜",
+      "did": "几乎能看见辛西娅急促的脉搏在细腻皮肤下跳动；「你这样只会把那条漂亮脖子送进陷阱。天底下真正优雅的标本这么少，毁了你的是件憾事。」她本不该把这话说出声，但喜欢辛西娅睫毛颤动、嘴唇微张",
+      "lines": "152",
+      "verbatim": "Helena could almost see the beat of her racing pulse under the delicate skin. ‘You’ll get that pretty neck caught in a trap is what you’ll do. And with so few truly elegant specimens, it would be tragic to ruin yours.’ She hadn’t meant to say that aloud, but she did enjoy how Cynthia’s lashes fluttered and her mouth parted."
+    },
+    {
+      "n": 40,
+      "who": "辛西娅",
+      "did": "「我不知道你在打什么主意，海伦娜·布莱尔。我想你打算用这种明摆着的假恭维分散我的注意力。但不会有用。我要进这扇门。我要找到达米安·辛克莱，了结我的债务，让他告诉我关于休伯特的秘密以及谁可能杀了他。」",
+      "lines": "155",
+      "verbatim": "‘I don’t know what you’re playing at, Helena Blair. I suppose you mean to distract me with such patently false flattery. But it won’t work. I’m going through this door. I’m going to find Damien Sinclair, clear my debts, and make him tell me whatever secrets he knows about Hubert and who might have killed him.’"
+    },
+    {
+      "n": 41,
+      "who": "海伦娜（内心）",
+      "did": "她理解下定决心的女人的力量；但没遇到过这样一个长期被剥夺自主权、终于自己做决定的女士的顽固 tenacity；即便那些决定可怕、愚蠢，辛西娅也应有机会去做",
+      "lines": "158",
+      "verbatim": "Helena understood the power of a determined woman. But she hadn’t encountered the stubborn tenacity of a lady who had long been denied autonomy and was finally making her own choices. Even if they were terrible, awful, incredibly stupid decisions, Cynthia deserved the chance to make them."
+    },
+    {
+      "n": 42,
+      "who": "海伦娜（内心）",
+      "did": "「如果我想看这个女人活得够久、意识到她一开始就该听我的，我大概必须跟她一起进去。」",
+      "lines": "161",
+      "verbatim": "And if I want to see the woman live long enough to realise she should have listened to me in the first place, I suppose I must go with her."
+    },
+    {
+      "n": 43,
+      "who": "海伦娜",
+      "did": "「不能一个人去。如果我让你没保护地进去，你会把自己弄死，叔叔会怪我，你哥哥会怪我，你愚蠢的选择最后会变成我的问题。问你的问题。他拒绝回答的，我会从他嘴里撬出来。然后我们就走。」——她劝不住辛西娅的使命，但能帮她完整脱身",
+      "lines": "164",
+      "verbatim": "‘Not alone. If I let you go in there without my protection, you’ll get yourself killed and Uncle Lachlan will blame me. Your brother will blame me. Your silly choices will end up being my problem. Ask your questions. Whatever answers he refuses to give, I will take from him. And then we are leaving.’ She couldn’t dissuade Cynthia from her mission. But she could help her escape intact."
+    },
+    {
+      "n": 44,
+      "who": "海伦娜（内心）",
+      "did": "叔叔把海伦娜挡在辛克莱外面是出于怕他，但这是错的——像辛克莱这样的怪物以恐惧为食，恐惧只会让他们更强；辛西娅带着得体的姿态和完美的谈吐走进他的巢穴，也许正好能让他措手不及、露出些什么；而海伦娜会在他筑起防御之前偷走他的心思；保证辛西娅的安全完全次于解决案子",
+      "lines": "167",
+      "verbatim": "Monsters like Sinclair fed on fear. It only made them stronger. Cynthia waltzing into his den with her proper posture and perfect diction might just throw him off enough to reveal something. And Helena would be there to steal his thoughts before he could shield them. Ensuring Cynthia’s safety was completely secondary to solving the case."
+    },
+    {
+      "n": 45,
+      "who": "海伦娜（内心）",
+      "did": "「她的天赋是把顺手的武器。我要必要时用它对付辛克莱。因为我不会让他伤害我的女士。」",
+      "lines": "170",
+      "verbatim": "Helena’s gift was a formidable weapon. She would wield it against Sinclair if necessary. Because she wouldn’t let him hurt her lady."
+    },
+    {
+      "n": 46,
+      "who": "海伦娜（内心）",
+      "did": "「不是我的女士。只是位女士。」",
+      "lines": "173",
+      "verbatim": "Not my lady. Just a lady."
+    },
+    {
+      "n": 47,
+      "who": "海伦娜（内心）",
+      "did": "无论怎样，她的决定已经做出",
+      "lines": "176",
+      "verbatim": "Regardless, her decision was already made."
+    },
+    {
+      "n": 48,
+      "who": "辛西娅",
+      "did": "「你为什么会跟我来？」",
+      "lines": "179",
+      "verbatim": "‘Why would you come with me?’"
+    },
+    {
+      "n": 49,
+      "who": "海伦娜",
+      "did": "「因为你一个人做不到。」",
+      "lines": "182",
+      "verbatim": "‘Because you can’t do this alone.’"
+    },
+    {
+      "n": 50,
+      "who": "海伦娜（内心）",
+      "did": "辛西娅咽了咽口水；海伦娜压下想用手指抚过她喉咙凹陷的冲动",
+      "lines": "185",
+      "verbatim": "Cynthia swallowed, and Helena pushed down the urge to brush her fingers over the hollow of Cynthia’s throat."
+    },
+    {
+      "n": 51,
+      "who": "辛西娅",
+      "did": "「你不知道我的能力。我习惯了一个人。我不害怕。」",
+      "lines": "188",
+      "verbatim": "‘You don’t know what I’m capable of. I’m used to being alone. I’m not frightened.’"
+    },
+    {
+      "n": 52,
+      "who": "海伦娜",
+      "did": "「也许我是替你害怕。」——声音变得沙哑",
+      "lines": "191",
+      "verbatim": "‘Maybe I’m frightened for you.’ Helena’s voice had grown husky."
+    },
+    {
+      "n": 53,
+      "who": "辛西娅",
+      "did": "胸膛起伏、眼里闪着一种海伦娜叫不出名字的情绪；「真的？」",
+      "lines": "194",
+      "verbatim": "Cynthia’s chest expanded as her eyes shone with an emotion Helena couldn’t name. ‘Truly?’"
+    },
+    {
+      "n": 54,
+      "who": "海伦娜",
+      "did": "清了清喉咙、强迫自己耸出随意的姿态；「当然。我怕你一个人进去会把事情搞砸。」",
+      "lines": "197",
+      "verbatim": "She cleared her throat and forced a casual shrug. ‘Absolutely. I’m terrified you’ll make a hash of it if you go in there alone.’"
+    },
+    {
+      "n": 55,
+      "who": "辛西娅",
+      "did": "表情变硬；「我记得克利奥跟我说过你没有多少朋友。真叫人吃惊。」",
+      "lines": "200",
+      "verbatim": "Cynthia’s expression hardened. ‘I recall Clio telling me you don’t have many friends. Shocking.’"
+    },
+    {
+      "n": 56,
+      "who": "海伦娜",
+      "did": "「这话真无礼，伯罗斯夫人。我以为受过良好教养的侯爵夫人在任何场合都讲体面。你的社交伙伴会怎么说这种失礼行为？」",
+      "lines": "203",
+      "verbatim": "‘That was rude, Lady Burrows. I thought gently bred marchionesses deployed decorum in every situation. What would your society chums say at such a breach of etiquette?’"
+    },
+    {
+      "n": 57,
+      "who": "辛西娅",
+      "did": "右嘴角挑起一个邪气的笑；「我真幸运，我也不太有朋友。不是真朋友。眼下这大概是我们唯一相同的地方。」",
+      "lines": "206",
+      "verbatim": "The right corner of Cynthia’s lip curled in a wicked smile. ‘Lucky for me, I don’t have many friends either. Not real ones. It’s likely the only thing we have in common.’"
+    },
+    {
+      "n": 58,
+      "who": "海伦娜",
+      "did": "靠近了些，心跳狂野",
+      "lines": "209",
+      "verbatim": "Helena leaned closer, her heart beating wildly."
+    },
+    {
+      "n": 59,
+      "who": "辛西娅",
+      "did": "挑起一根栗色眉毛；「那些嚼舌根的娘们儿说我什么，我一点不在乎。我最近发现维持一位体面淑女的标准根本不适合寡妇的生活。我厌倦了让别人的意见控制我的选择。包括你，海伦娜·布莱尔。随你怎么看我。我不是你要解决的问题，也不是你要控制的棋子。」",
+      "lines": "212",
+      "verbatim": "Cynthia raised a chestnut eyebrow. ‘And I couldn’t give a fig what those gossiping ninnies say about me. I’ve recently discovered that maintaining the standards of a proper lady hardly fits the life of a widow. I’m tired of letting other people’s opinions control my choices. And that includes you, Helena Blair. Think of me what you will. I’m not your problem to solve or your pawn to control.’"
+    },
+    {
+      "n": 60,
+      "who": "海伦娜",
+      "did": "辛西娅的气味随巷中吹来的风逮住她；她想数辛西娅的雀斑；瞳孔放大、能在那深处看见自己的倒影；黑裙缠着蓝，她把手放在辛西娅腰上；「我永远不可能控制像你这么狂野的人。那就像把风关进笼子。」",
+      "lines": "215",
+      "verbatim": "Cynthia’s scent caught on a breeze blowing down the alley and surrounded Helena. She wanted to count Cynthia’s freckles. Her pupils blew wide and Helena could see her reflection in their depths. Black skirts tangled with blue as she put her hand on Cynthia’s waist. ‘I could never hope to control someone as wild as you. It would be like caging the wind.’"
+    },
+    {
+      "n": 61,
+      "who": "辛西娅",
+      "did": "两人间张力收紧、她温热的呼吸烘着海伦娜的唇；「你对我下了咒吗？所以我才有这种感觉？」",
+      "lines": "218",
+      "verbatim": "Tension tightened between them. Cynthia’s warm breath heated Helena’s lips. ‘Have you put a hex on me? Is that why I feel this way?’"
+    },
+    {
+      "n": 62,
+      "who": "海伦娜",
+      "did": "慢慢摇头；「我不搞咒。」——一阵关于母亲的不受欢迎的记忆掠过，她把它推回黑暗",
+      "lines": "221",
+      "verbatim": "Helena slowly shook her head. ‘I don’t deal in hexes.’ An unwelcome memory of her mother flitted through her mind. She shoved it back into the darkness."
+    },
+    {
+      "n": 63,
+      "who": "辛西娅",
+      "did": "抬起下巴、唇几乎擦过海伦娜的；「你让我想要我不该想要的东西。感受我从未感受过的感觉。像醉在某种魔法灵药上。」手指发抖、轻轻描过海伦娜的脸颊；「我不知道这是什么。我很确定这是疯狂。但我这辈子第一次觉得自己活着。」",
+      "lines": "224",
+      "verbatim": "Cynthia lifted her chin, her lips nearly brushing Helena’s. ‘You make me want things I should not want. Feel things I’ve never felt. Like I’m drunk on some magical elixir.’ Her fingers shook as she gently traced them along Helena’s cheek. ‘I don’t know what this is. I’m quite sure it is madness. But for the first time in my life, I feel alive.’"
+    },
+    {
+      "n": 64,
+      "who": "海伦娜",
+      "did": "「辛西娅……」——这是她第二次在出声时说出她的名字；她品尝那些音节，像舌头上的蜜，甜美而诱惑",
+      "lines": "227",
+      "verbatim": "‘Cynthia…’ It was the second time she’d said her name aloud. Helena tasted the syllables, sweet and seductive like honey on her tongue."
+    },
+    {
+      "n": 65,
+      "who": "两人",
+      "did": "身后的门开了，光涌上暗街；两个女人像被捉到叛国阴谋的同谋一样退开",
+      "lines": "230",
+      "verbatim": "The door behind them opened, and light flooded onto the dark street. Both women stepped away from each other, like conspirators caught in treasonous acts."
+    },
+    {
+      "n": 66,
+      "who": "辛西娅与海伦娜",
+      "did": "弦乐伴着雪茄烟与香水飘出；辛西娅挡在海伦娜前面、裙撑顶住她的腹部；两人面对一个穿得像辛西娅的管家但的男人",
+      "lines": "233",
+      "verbatim": "Stringed music escaped on a cloud of cheroot smoke and perfume. Cynthia stepped in front of Helena, her bustle pushing against Helena’s belly as they both faced a man dressed much like Cynthia’s butler."
+    },
+    {
+      "n": 67,
+      "who": "俱乐部男侍者",
+      "did": "「请到辛克莱先生的私人办公室，伯罗斯夫人。」目光掠过海伦娜；「布莱尔小姐，您若愿意，可以和侯爵夫人一起来。」",
+      "lines": "236",
+      "verbatim": "‘Your presence is requested in Mr Sinclair’s private office, Lady Burrows.’ His gaze flicked to Helena. ‘Miss Blair, you may join the marchioness, if you like.’"
+    },
+    {
+      "n": 68,
+      "who": "海伦娜（内心）",
+      "did": "感到辛西娅僵住；两人试图掩住惊讶；辛克莱怎么会知道她们是谁、知道她们在他的俱乐部？又在打什么主意把她们请上楼",
+      "lines": "239",
+      "verbatim": "Helena could feel Cynthia stiffen as both women tried to hide their surprise. How the bloody blazes did Sinclair know who they were, and that they were at his club?"
+    },
+    {
+      "n": 69,
+      "who": "海伦娜（内心）",
+      "did": "埃莉对幻象的描述回响；若辛克莱的办公室装饰着 crimson velvet 或 black lace，老天保佑，她会用一道海水矛轰他，把他宝贵的俱乐部灌满、淹死他的客人，然后才让他碰辛西娅",
+      "lines": "242",
+      "verbatim": "Ellie’s description of her vision echoed through Helena’s mind. If Sinclair’s office was decorated in crimson velvet or black lace, so help her, Helena would blast him with a spear of seawater powerful enough to flood his precious club and drown his patrons before she would let him touch Cynthia."
+    },
+    {
+      "n": 70,
+      "who": "海伦娜（内心）",
+      "did": "「Mine.」——原始的本能在她骨中共鸣；她狠狠眨眼；「什么疯了我这是？」",
+      "lines": "245",
+      "verbatim": "Mine. The primitive instinct resonated in her bones. She blinked hard. What madness is this?"
+    },
+    {
+      "n": 71,
+      "who": "海伦娜（内心）",
+      "did": "「她是玻璃池里的水。」——但不是现在：需求与怒气凝聚，像足以砸向海岸、毁灭敌人的浪涌起；那是混乱、力量与荣耀；她之后再取回平静",
+      "lines": "257",
+      "verbatim": "She was water in a glassy pool. But not now. Need coalesced with anger, rising like a wave mighty enough to crash upon the shore and destroy her enemies. It was chaos and power and glory. She would reclaim her calm later."
+    },
+    {
+      "n": 72,
+      "who": "海伦娜（内心）",
+      "did": "「今夜，她要骑着魔法的浪峰，闯进魔鬼的老巢。」",
+      "lines": "266",
+      "verbatim": "This night, she would ride the crest of her magic into the heart of a devil’s lair."
+    }
+  ],
+  "relationships_noted": [
+    "海伦娜 ↔ 哈姆雷特（魔宠／狐狸）：:35 跳上座位贴着她取暖；:116 被锁在车里（因他可能惹麻烦）",
+    "海伦娜 ↔ 埃莉（表亲／风系）：:38 埃莉的幻象是行动依据；:53 幻象里见过绿门与辛西娅；:101 幻象夺走她的平静；:242 幻象里 crimson velvet / black lace 的办公室",
+    "海伦娜 ↔ 罗恩姨妈：:89 克利奥周二来看海伦娜、罗恩姨妈和埃莉（三人同列）",
+    "海伦娜 ↔ 拉奇兰叔叔（Uncle Lachlan，麦克杜格尔警司）：:71 叔叔；:74 当天带托马斯抓人；:83 因无证据差点丢掉苏格兰场职位；:86 约定次日照面",
+    "拉奇兰叔叔 ↔ 达米安·辛克莱：:77 关押三小时后被律师要求放人；:83 无明确证据不能关纽盖特",
+    "拉奇兰叔叔 ↔ 托马斯：:74 同去七晷区；:89 托马斯同样暴跳如雷；:92 两人确信有罪但缺证据",
+    "托马斯 ↔ 辛西娅：:74 叔叔从辛西娅家接走托马斯；:104 若辛克莱伤辛西娅，托马斯会杀人，叔叔会帮忙，两人都会进纽盖特",
+    "克利奥（Clio）↔ 辛西娅：:89 报告托马斯的状况；:200 辛西娅记得克利奥对她说过海伦娜没多少朋友",
+    "辛西娅 ↔ 休伯特（亡夫）：:149 休伯特欠魔鬼的债落到了她身上；:137 她自认是服丧的寡妇",
+    "辛西娅 ↔ 达米安·辛克莱：:149 要了结债务并弄清他是否杀了休伯特；:155 独自进他的门",
+    "海伦娜 ↔ 辛西娅：:119 抓手腕；:128 收紧不放；:215 手放她腰上；:227 第二次出声叫她的名字",
+    "海伦娜 ↔ 母亲（未出场）：:221 一阵关于母亲的不受欢迎的记忆被推回黑暗",
+    "达米安·辛克莱 ↔ 七晷区：:50 其俱乐部 The Devil’s Bargain 是「七晷区魔鬼」的产业"
+  ],
+  "numbers_verbatim": [
+    "two of her burliest footmen and a groom who had once been a bare-knuckle boxer（两名男仆＋一名马夫，L47）",
+    "his three nieces（拉奇兰的三个侄女，L71）",
+    "a grand three hours（拘押三小时，L77）",
+    "It had been a week since Helena left Cynthia（分别一周，L56）",
+    "on the following Tuesday（克利奥周二来访，L89）",
+    "the bowls of Newgate prison（纽盖特监狱牢房，L83；:104 两人都要进 Newgate）",
+    "so few truly elegant specimens（优雅标本很少，L152）"
+  ],
+  "unresolved_in_source": [
+    "辛克莱如何知道她们是谁、知道她们在他的俱乐部（:239）——本章未答",
+    "辛西娅进俱乐部后的遭遇（本章止于被引入私人办公室）",
+    "埃莉幻象里「被困在 crimson velvet 与 black lace 房间里」的结局（:53）——本章只给前置",
+    "休伯特欠辛克莱的金额几何、债务是否属实（:149 只说 large sum of money）",
+    "达米安·辛克莱是否杀了休伯特（:149 辛西娅要「determine if he killed Hubert」）",
+    "「Mine.」（:245）——占有欲的自觉（本书既记：ch09 该句是海伦娜对辛西娅的占有念头，不是魔宠宣示）",
+    "海伦娜与辛西娅在门口被灯光撞散后是否进屋（:230–:236）"
+  ],
+  "traps_noted": [
+    "L245「Mine.」是海伦娜对辛西娅的**占有念头**，不是魔宠（哈姆雷特）宣示——本书既有认定，勿改写",
+    "L257「She was water in a glassy pool.」是比喻（她在克制），不是叙事者对她法力的描述",
+    "L260「Need coalesced with anger」＝需求与怒气凝聚，读者视角注意这里的 Need 是她的欲望/需求",
+    "L113「A resonant knowing pulled her to the woman as inevitably as river water flowed to the sea」——「河水必然流向大海」是比喻（辛西娅是她的源头），非事实叙述",
+    "L35「riding habit」＝骑装；「squabs」＝车座；哈姆雷特是狐狸（fox），不是雪貂（雪貂是埃莉的奥菲利娅）",
+    "L50 俱乐部名 **The Devil’s Bargain** 是专有名词；「Devil of Seven Dial’s notorious club」原文用的是所有格（Seven Dial’s）",
+    "L83「Newgate」＝纽盖特监狱；L147 之类的地名 West Street ＝西街",
+    "L236 侍者称辛西娅为「the marchioness」＝侯爵夫人（肯特摩尔侯爵夫人，ch08:77 互证）",
+    "L129 段「Helena slowly shook her head」与 L221 母亲的记忆被推回黑暗——不得写成「母亲已死/被逐」等原文未写的事",
+    "L44 / L173「dark corner of her mind」「Not my lady. Just a lady.」——无引号内心独白，勿与辛西娅的台词混为一谈"
+  ]
+}
