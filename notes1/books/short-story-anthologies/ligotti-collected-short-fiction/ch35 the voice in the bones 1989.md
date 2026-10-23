@@ -110,7 +110,6 @@ modified: "2026-08-30"
 
 > **原句 8:** Yet it was no longer his own voice that sounded in the tower, but the echoing clamor of strange shrieking multitudes.
 
-中文理解： Yet it was no longer his own voice that sounded in the tower, but the echoing clamor of strange shrieking multitudes.
 
 中文理解：然而，在塔楼里 sound 的不再是他自己的声音，而是奇怪尖叫群体的回响。
 

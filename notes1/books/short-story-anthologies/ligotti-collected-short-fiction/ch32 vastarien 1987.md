@@ -110,9 +110,8 @@ modified: "2026-08-30"
 
 > **原句 8:** And at the opposite end of that street, rising up taller than the buildings themselves, stood a great figure in silhouette. This looming colossus made no movement or sound but firmly dominated the horizon where the single remaining street seemed to end.
 
-中文理解： And at the opposite end of that street, rising up taller than the buildings themselves, stood a great figure in silhouette. This looming colossus made no movement or sound but firmly dominated the horizon where the single remaining street seemed to end.
 
-中文理解： And at the opposite end of that street, rising up taller than the buildings themselves, stood a great figure in silhouette. This looming colossus made no movement or sound but firmly dominated the horizon where the single remaining street seemed to end.
+中文理解：而在那条街的另一端，高过两侧房屋本身，立着一个巨大的身影，只是一道剪影。这个逼近的庞然巨物没有动作、没有声音，却牢牢占据着地平线，仿佛那条仅存的街道就在那里终止。
 
 句子结构：And at the opposite end of that street, rising up taller than the buildings themselves, stood a great figure in silhouette 是倒装主系表；This looming colossus made no movement or sound 是主句；but firmly dominated the horizon 是并列谓语；where the single remaining street seemed to end 是定语从句。
 
@@ -140,7 +139,6 @@ modified: "2026-08-30"
 
 > **原句 10:** For he was now far from his own words, buried deep within the dreams of a place where everything was transfixed in the order of the unreal; and whence, it truly seemed, he would never return.
 
-中文理解： For he was now far from his own words, buried deep within the dreams of a place where everything was transfixed in the order of the unreal; and whence, it truly seemed, he would never return.
 
 中文理解：因为他现在远离了他自己的话语，深深埋葬在一个所有事物都在 unreal 的秩序中被永远转移的地方；而从那里， it truly seemed，他将永远不会返回。
 

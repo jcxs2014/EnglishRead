@@ -50,7 +50,7 @@ modified: "2026-09-20"
 
 **关键词**：right to stop
 
-**为什么这样写**：Bea’s decision — she acknowledges the attraction but chooses friendship first。"Right to stop" show she’s taking responsibility。
+**为什么这样写**：Bea 的決定——她承認這份吸引力，但把友誼放在前面。「Right to stop」顯示她在承擔責任。
 
 ---
 
@@ -61,7 +61,7 @@ modified: "2026-09-20"
 
 **关键词**：accidentally hurt
 
-**为什么这样写**：Silas’s care is practical, not just romantic。"Accidentally hurt" acknowledge that their feelings could cause damage — he’s protecting both of them with this boundary。
+**为什么这样写**：Silas 的體貼是務實的，不只是浪漫。「Accidentally hurt」承認了兩人的感情可能造成傷害——他用這條界線同時保護雙方。
 
 ---
 
@@ -83,7 +83,7 @@ modified: "2026-09-20"
 
 **关键词**：got this · don't want to lose
 
-**为什么这样写**：Silas’s vulnerable admission — he values the friendship more than physical gratification。"Got this" show he recognizes the uniqueness of their bond。
+**为什么这样写**：Silas 一次脆弱的坦白——他看重這份友誼勝過身體的滿足。「Got this」顯示他認出了兩人關係的獨特之處。
 
 ---
 
@@ -94,7 +94,7 @@ modified: "2026-09-20"
 
 **关键词**：like a magnet · filaments beneath my skin
 
-**为什么这样写**：Bea’s physical response to Silas’s smile。"Like a magnet" and "filaments beneath my skin" use science metaphor to describe emotional/physical attraction — heat, pull, conductivity。
+**为什么这样写**：這是 Bea 對 Silas 微笑的身體反應。「Like a magnet」和「filaments beneath my skin」用科學意象來寫情感與身體的吸引——熱度、牽引、導電。
 
 ---
 
@@ -105,7 +105,7 @@ modified: "2026-09-20"
 
 **关键词**：outdoorsy · handle one night
 
-**为什么这样写**：Bea’s self-deprecating humor — “I’m not outdoorsy” but “I can handle one night with you” is both literal (the campout) and metaphorical (intimacy)）。
+**为什么这样写**：Bea 的自嘲式幽默——「我不算喜歡戶外」但「和你待一晚沒問題」，既是字面意思（露營），也是隱喻（親密）。
 
 ---
 

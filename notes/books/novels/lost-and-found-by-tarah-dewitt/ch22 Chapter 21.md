@@ -83,7 +83,7 @@ modified: "2026-09-20"
 
 **关键词**：move past the awkward
 
-**为什么这样写**：Silas 將 focus 放在 group 的 collective experience 而非個人。"Move past the awkward" is the core question — he wants to learn from their history of navigating intimacy and friendship.
+**为什么这样写**：Silas 關注的是這個群體共同的經歷，而不是個人。「Move past the awkward」是核心問題——他想從他們處理親密與友誼的經歷裡學到東西。
 
 ---
 

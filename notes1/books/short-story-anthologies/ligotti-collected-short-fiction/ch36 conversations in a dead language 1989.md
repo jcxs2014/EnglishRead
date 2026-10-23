@@ -54,7 +54,6 @@ modified: "2026-08-30"
 
 > **原句 4:** They had gone home, the ones who had left it in the first place. Might as well close up till next year, he thought. No, wait. Here they are again, coming late in the evening as they did last year.
 
-中文理解： They had gone home, the ones who had left it in the first place. Might as well close up till next year, he thought. No, wait. Here they are again, coming late in the evening as they did last year.
 
 中文理解：他们已经回家了，那些首先离开的人。也许明年再见吧，他想。不，等等。他们又来了，就像去年一样晚来。
 
@@ -70,7 +69,6 @@ modified: "2026-08-30"
 
 > **原句 5:** A dwarfish, cranky old woman dies... and all of a sudden there's a royal absence, as if a queen had cruelly vacated her throne.
 
-中文理解： A dwarfish, cranky old woman dies... and all of a sudden there's a royal absence, as if a queen had cruelly vacated her throne.
 
 中文理解：一个矮小的、脾气暴躁的老妇人死了……突然有一种皇室的缺席，就像一个残忍地腾出她王位的女王。
 
@@ -86,7 +84,6 @@ modified: "2026-08-30"
 
 > **原句 6:** He set his alarm clock to wake himself for early mass the next day. There was no one who would be accompanying him to church this year. He'd have to go alone.
 
-中文理解： He set his alarm clock to wake himself for early mass the next day. There was no one who would be accompanying him to church this year. He'd have to go alone.
 
 中文理解：他设定了闹钟，在第二天早上叫醒自己去望默诗。今年没有会陪他去教堂的人。他必须独自前往。
 

@@ -54,7 +54,6 @@ modified: "2026-08-30"
 
 > **原句 4:** And I began to see that perfection has never been the point, that both the lost paradise of the past and the one sought in the future were merely convenient pretexts for our true destiny of... disintegration.
 
-中文理解： And I began to see that perfection has never been the point, that both the lost paradise of the past and the one sought in the future were merely convenient pretexts for our true destiny of... disintegration.
 
 中文理解：我开始看到完美从来不是重点，过去失去的天堂和未来追求的天堂都只不过是我们真正命运——解体——的便利借口。
 
@@ -84,7 +83,6 @@ modified: "2026-08-30"
 
 > **原句 6:** There are holy places in this world, and I have been to some of them. Places where the presence of something sacred can be felt like an invisible meteorology.
 
-中文理解： There are holy places in this world, and I have been to some of them. Places where the presence of something sacred can be felt like an invisible meteorology.
 
 中文理解：这个世界有神圣的地方，我去过其中一些。那些地方，某种神圣的存在可以被感觉到，就像无形的气象一样。
 
@@ -100,7 +98,6 @@ modified: "2026-08-30"
 
 > **原句 7:** See how the shafts of color pour down upon this stark scene, overlaying surfaces with an uncanny kaleidoscopic tint. It is the old surfaces that must be stripped away and disposed of.
 
-中文理解： See how the shafts of color pour down upon this stark scene, overlaying surfaces with an uncanny kaleidoscopic tint. It is the old surfaces that must be stripped away and disposed of.
 
 中文理解：看看这些色彩的光芒如何倾泻在这个荒凉的场景上，用一种超自然的万花筒色调覆盖表面。是古老的表面必须被剥离和处理。
 

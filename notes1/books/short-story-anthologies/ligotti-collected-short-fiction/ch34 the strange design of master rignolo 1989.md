@@ -124,7 +124,6 @@ modified: "2026-08-30"
 
 > **原句 9:** And why did he scream that way, why did he say it was all a trick, a mockery of his dreams, that "filthy thing in the earth"? Why did he scream not to be "buried forever in that strange, horrible mask"?
 
-中文理解： And why did he scream that way, why did he say it was all a trick, a mockery of his dreams, that "filthy thing in the earth"? Why did he scream not to be "buried forever in that strange, horrible mask"?
 
 中文理解：他为什么要那样尖叫，为什么他说这一切都是欺骗，对他梦想的嘲笑，「那个大地上的肮脏东西」？他为什么尖叫着不要「永远被埋葬在那个奇怪、可怕的面具里」？
 

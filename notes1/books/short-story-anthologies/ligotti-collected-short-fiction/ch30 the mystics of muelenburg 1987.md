@@ -54,9 +54,8 @@ modified: "2026-08-30"
 
 > **原句 4:** Throughout the town, all places and things bore evidence to striking revisions in the base realm of matter: precisely sculptured stone began to loosen and lump, an abandoned cart melded with the sucking mud of the street, and objects in desolate rooms lost themselves in the surfaces they pressed upon, making metal tongs mix with brick hearth, prismatic jewels with lavish velvet, a corpse with the wood of its coffin.
 
-中文理解： throughout the town, all places and things bore evidence to striking revisions in the base realm of matter: precisely sculptured stone began to loosen and lump, an abandoned cart melded with the sucking mud of the street, and objects in desolate rooms lost themselves in the surfaces they pressed upon, making metal tongs mix with brick hearth, prismatic jewels with lavish velvet, a corpse with the wood of its coffin.
 
-中文理解： throughout the town, all places and things bore evidence to striking revisions in the base realm of matter: precisely sculptured stone began to loosen and lump, an abandoned cart melded with the sucking mud of the street, and objects in desolate rooms lost themselves in the surfaces they pressed upon, making metal tongs mix with brick hearth, prismatic jewels with lavish velvet, a corpse with the wood of its coffin.
+中文理解：整个镇上，一切场所与事物都留下了物质基本层面被剧烈改动的证据：精雕的石料开始松动、结块，一辆废弃的大车与街道上吸吮的泥浆融在一起，荒废房间里的物件陷进它们所压着的表面，使金属火钳与砖砌壁炉混为一体，棱彩宝石与华丽的天鹅绒、一具尸体与它的棺木，彼此混成一片。
 
 句子结构：Throughout the town, all places and things bore evidence to striking revisions in the base realm of matter 是主句；precisely sculptured stone began to loosen and lump 是同位语；an abandoned cart melded with the sucking mud of the street 是并列同位语；and objects in desolate rooms lost themselves in the surfaces they pressed upon 是并列谓语；making metal tongs mix with brick hearth… 是分词状语。
 

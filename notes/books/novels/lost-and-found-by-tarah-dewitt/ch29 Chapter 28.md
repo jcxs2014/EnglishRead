@@ -72,7 +72,7 @@ modified: "2026-09-20"
 
 **关键词**：half measures / rich, rich, and richer
 
-**为什么这样写**：Bea's playful scold — "half measures" is practical critique, but "rich, rich, and richer" is a rhythmic escalation that mirrors the layering of the meal (and her feelings). The repetition makes the abundance feel overwhelming, echoing the emotional intensity.
+**为什么这样写**：Bea 半開玩笑的嗔怪——「half measures」是就事論事的批評，而「rich, rich, and richer」是一層層遞進的節奏，對應這一餐（以及她的心情）的疊層。重複讓豐盛顯得壓人，也呼應了情緒的強度。
 
 ---
 
@@ -83,7 +83,7 @@ modified: "2026-09-20"
 
 **关键词**：don't ever say that again
 
-**为什么这样写**：Bea's voice cracks — the progression from "Don't ever" to "Please don't" to "You can't say that shit" shows her emotional escalation. The shift from polite request to raw "shit" reveals how deeply the topic wounds her. Her vulnerability cracks through the playful facade.
+**为什么这样写**：Bea 的聲音裂開了——從「Don't ever」到「Please don't」再到「You can't say that shit」，情緒一級級升高。從禮貌的請求滑到粗口「shit」，說明這個話題刺她有多深。她的脆弱從玩笑的外殼裡裂了出來。
 
 ---
 
@@ -94,7 +94,7 @@ modified: "2026-09-20"
 
 **关键词**：and you were nine
 
-**为什么这样写**：Bea uses the specificity of age to shatter Silas's self-judgment — "you were nine" reduces his childhood grief to a child's scope, making his self-blame disproportionate. The simple factual statement becomes a correction of his internal narrative.
+**为什么这样写**：Bea 用年齡這個具體事實擊碎 Silas 的自我審判——「you were nine」把他童年的悲傷還原到一個孩子的範圍，讓他的自責顯得不成比例。一句簡單的事實陳述，成了對他內心敘事的糾正。
 
 ---
 

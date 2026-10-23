@@ -12,7 +12,6 @@ modified: "2026-08-30"
 
 > **原句 1:** Years passed and no one in our town, no one I could name, allotted a single word to that great ruin which marred the evenness of the horizon.
 
-中文理解： years passed and no one in our town, no one I could name, allotted a single word to that great ruin which marred the evenness of the horizon.
 
 中文理解：多年过去了，我们镇上没有人，我无法说出任何一个人的名字，给那个损害地平线平整度的巨大废墟分配过一个单词。
 
@@ -28,7 +27,6 @@ modified: "2026-08-30"
 
 > **原句 2:** It was not until many years later that my father attempted to explain everything to me, as I now am attempting to explain it to you.
 
-中文理解： It was not until many years later that my father attempted to explain everything to me, as I now am attempting to explain it to you.
 
 中文理解：直到很多年后，我的父亲才试图向我解释一切，就像我现在试图向你解释一样。
 
@@ -44,9 +42,8 @@ modified: "2026-08-30"
 
 > **原句 3:** Thus, his ambition led him not to relieve his patients' madness, but to exasperate it—to let it breathe with a life of its own.
 
-中文理解： Thus, his ambition led him not to relieve his patients' madness, but to exasperate it—to let it breathe with a life of its own.
 
-中文理解： thus, his ambition led him not to relieve his patients' madness, but to exasperate it—to let it breathe with a life of its own.
+中文理解：于是，他的野心不是去缓解病人的疯狂，而是去激化它——让它带着自己的生命呼吸。
 
 句子结构：Thus, his ambition led him not to relieve his patients' madness 是主句；but to exasperate it 是并列宾语；to let it breathe with a life of its own 是目的状语。
 
@@ -60,7 +57,6 @@ modified: "2026-08-30"
 
 > **原句 4:** The result was something as pathetic as a puppet and as magnificent as the stars, something at once dead and never dying, a thing utterly without destiny and thus imperishable, possessing that abysmal absence of mind, that infinite vacuity which is the essence of all that is immortal.
 
-中文理解： The result was something as pathetic as a puppet and as magnificent as the stars, something at once dead and never dying, a thing utterly without destiny and thus imperishable, possessing that abysmal absence of mind, that infinite vacuity which is the essence of all that is immortal.
 
 中文理解：结果是既是可悲的提线木偶又是星星一样壮观的东西，一个同时已死又永不死去的东西，一个完全没有命运因此不朽的东西，拥有那种对思想的可怕缺失，那种无限空虚，这是所有不朽事物的本质。
 
@@ -76,7 +72,6 @@ modified: "2026-08-30"
 
 > **原句 5:** For the most part we stood in silence, vacantly staring as the flames burned their way up to the high windows where spectral figures posed like portraits in their frame.
 
-中文理解： For the most part we stood in silence, vacantly staring as the flames burned their way up to the high windows where spectral figures posed like portraits in their frame.
 
 中文理解：在大部分情况下，我们静静地站着，空洞地凝视着火焰向高处窗户蔓延，在那里幽灵般的身影像框架中的肖像一样摆姿势。
 
@@ -92,7 +87,6 @@ modified: "2026-08-30"
 
 > **原句 6:** But now, after the passing of so many years, it is not the ashen rubble of that town which haunts each of my hours; it is that one great ruin in whose shadow my mind has been interned.
 
-中文理解： But now, after the passing of so many years, it is not the ashen rubble of that town which haunts each of my hours; it is that one great ruin in whose shadow my mind has been interned.
 
 中文理解：但现在，经过这么多年，困扰我每一刻的不是那个城镇的灰烬瓦砾；而是我 mind 被关在其中的那个巨大废墟。
 
@@ -108,7 +102,6 @@ modified: "2026-08-30"
 
 > **原句 7:** For Mr. Locrian has been true to his promise; he has told me of certain things when I was ready to hear them. And he has other things to tell me, secrets surpassing all insanity.
 
-中文理解： For Mr. Locrian has been true to his promise; he has told me of certain things when I was ready to hear them. And he has other things to tell me, secrets surpassing all insanity.
 
 中文理解：因为 Locrian 先生忠于他的承诺；当我已经准备好听某些事情时，他告诉了我。他还有其他事情要告诉我，超过所有疯狂的秘密。
 
@@ -124,7 +117,6 @@ modified: "2026-08-30"
 
 > **原句 8:** Their forms were as softly luminous as the autumn constellations in the black sky above, their faces glowing with the same fixed expression of placid vacuity.
 
-中文理解： Their forms were as softly luminous as the autumn constellations in the black sky above, their faces glowing with the same fixed expression of placid vacuity.
 
 中文理解：他们的身形像上方黑色天空中的秋季星座一样柔和地发光，她们的面孔带着同样呆滞空白的固定表情发出微光。
 

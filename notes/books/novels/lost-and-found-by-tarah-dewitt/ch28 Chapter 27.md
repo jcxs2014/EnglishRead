@@ -94,7 +94,7 @@ modified: "2026-09-20"
 
 **关键词**：constant communication
 
-**为什么这样写**：Ellis 的 advice 來自於自己的經驗 — “stay in constant communication” 是 practical but also emotional requirement。
+**为什么这样写**：Ellis 的建議來自他自己的經驗——「stay in constant communication」既是實務上的要求，也是情感上的要求。
 
 ---
 

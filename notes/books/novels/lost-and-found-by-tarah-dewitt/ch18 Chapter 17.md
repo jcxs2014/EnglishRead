@@ -105,7 +105,7 @@ modified: "2026-09-20"
 
 **关键词**：it just fucking sucks · carry on anyway · life is worth it
 
-**为什么这样写**：Caprice's advice is brutally honest. "Just fucking sucks" - no spiritual meaning, no silver lining. "Carry on anyway" - resilience without purpose. "Life is worth it" - enough on its own.
+**为什么这样写**：Caprice 的建议残酷而诚实。「Just fucking sucks」——没有精神层面的意义，也没有一线光明。「Carry on anyway」——不带目的的坚韧。「Life is worth it」——这一句本身就够了。
 
 ---
 
@@ -116,7 +116,7 @@ modified: "2026-09-20"
 
 **关键词**：the things that make it worth it
 
-**为什么这样写**：Caprice's conclusion: don't look for meaning in the pain itself, look for what makes life still worth living. This is practical wisdom, not spiritual.
+**为什么这样写**：Caprice 的结论：不要在痛苦本身里寻找意义，而要去找那些让生活仍然值得活下去的东西。这是务实的智慧，不是灵性层面的安慰。
 
 ---
 
@@ -127,7 +127,7 @@ modified: "2026-09-20"
 
 **关键词**：ninety percent of the cookies
 
-**为什么这样写**：This light, joking ending provides relief after the heavy wisdom。Caprice lightens the mood — "bring your own"。This is how the group handles intimacy — through humor。
+**为什么这样写**：这个轻松、开玩笑的收尾在沉重的智慧之后提供了喘息。Caprice 把气氛放轻了——「带你自己的饼干」。这个群体就是这样处理亲密的——靠幽默。
 
 ---
 

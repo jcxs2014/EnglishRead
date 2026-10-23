@@ -82,7 +82,6 @@ modified: "2026-08-30"
 
 > **原句 6:** But the reptile's voice continues to mock me, night after night. It will laugh and rave throughout all the humid nights of history.
 
-中文理解： But the reptile's voice continues to mock me, night after night. It will laugh and rave throughout all the humid nights of history.
 
 中文理解：但蜥蜴的声音继续嘲笑我，一夜又一夜。它将在所有潮湿的历史夜晚嘲笑和疯狂。
 
