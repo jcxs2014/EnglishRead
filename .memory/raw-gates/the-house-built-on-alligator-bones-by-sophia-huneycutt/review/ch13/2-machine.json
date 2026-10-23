@@ -1,0 +1,246 @@
+{
+  "chapter": 13,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/ch13 processing spaces and alligator bones.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch13_chapter_twelve.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Despite work at the farm starting at seven thirty each day, before Florida’s heat grew relentless, I found myself drifti",
+          "ok": true,
+          "pos": 7
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I was being openly sarcastic, but I didn’t care",
+          "ok": true,
+          "pos": 1204
+        },
+        {
+          "text": "Harrison was a weasel who’d sucked up to my grandmother so she’d will him her empire. I wasn’t a bad person for being sh",
+          "ok": true,
+          "pos": 1279
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "So that’s why he’d brought me the coffee. He wanted to know if I was trying to inherit the farm, if I would challenge hi",
+          "ok": true,
+          "pos": 3152
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "We headed to the doors Nova had declared off-limits. Harrison pulled a key off his belt loop ring and opened one of them",
+          "ok": true,
+          "pos": 5835
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Gazzie and the thin goateed man I’d seen the day before hauled in an alligator, its mouth bound with duct tape",
+          "ok": true,
+          "pos": 7729
+        },
+        {
+          "text": "Once they wrestled the alligator above the drain, she strode to the corner and picked up a baseball bat. Without any fan",
+          "ok": true,
+          "pos": 8051
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I’d asked the question before realizing why: It was the phrase on Mama’s closet wall, haunting me: The Greers built thei",
+          "ok": true,
+          "pos": 11835
+        }
+      ],
+      "words": 38
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 97,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 101,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 100,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 113,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 86,
+        "关键词": 0,
+        "为什么这样写": 119,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 111,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.54,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.62
+      }
+    }
+  ],
+  "form": {
+    "h1": "13. Chapter Twelve",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 6,
+    "block_range": [
+      3,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2286,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
