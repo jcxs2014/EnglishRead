@@ -1,0 +1,34 @@
+=== 素读清单：the-hexing-miss-helena-by-darcy-mcguire ch23（text 9627 字符）===
+  ✅ [   176:   260] 海伦娜靠加班与陪埃莉出诊压住思念，店里门铃每响一次她都以为是辛西娅来了。  ←「Her heart jumped every time …」
+  ✅ [  1193:  1334] 拉克兰舅舅被派去巴斯，协助侦办一连串针对贵族成员的盗窃案。  ←「he was being sent to Bath to…」
+  ✅ [  1471:  1584] 拉克兰确信休伯特的凶手是达米安·辛克莱，只是无法证明；七铃区没人敢开口。  ←「We’ve found his murderer. It…」
+  ✅ [  2966:  3019] 辛西娅离开之后海伦娜的魔法开始失灵：指间凝水、衣裳总湿、眼里闪银多于灰、别人的念头不断涌入。  ←「Her magic had been malfuncti…」
+  ✅ [  4262:  4340] 海伦娜把母亲威洛的爱说成吞噬一切的漩涡，而铁匠对威洛的欲求把她扭曲并最终毁掉。  ←「And the blacksmith’s desire …」
+  ✅ [  7506:  7535] 深夜盘点的药草店里辛克莱现身，明说他要找的是一个女巫。  ←「‘I seek a witch, Miss Blair.…」
+  ✅ [  7732:  7806] 有人用重物从背后击中海伦娜的头，她昏过去；原文没有写明击打者是谁。  ←「as something heavy slammed i…」
+  ✅ [  9543:  9626] 海伦娜醒来时被皮带和铁链吊在低梁上、只剩睡裙，屋里干热，她的水元素彻底消失。  ←「the Devil of Seven Dials had…」
+
+已写入 .memory/raw-gates/the-hexing-miss-helena-by-darcy-mcguire/production/ch23-suread.json
+
+   "end": 4340
+  },
+  {
+   "fact": "深夜盘点的药草店里辛克莱现身，明说他要找的是一个女巫。",
+   "anchor": "‘I seek a witch, Miss Blair.’",
+   "start": 7506,
+   "end": 7535
+  },
+  {
+   "fact": "有人用重物从背后击中海伦娜的头，她昏过去；原文没有写明击打者是谁。",
+   "anchor": "as something heavy slammed into the back of her head. The world went dark.",
+   "start": 7732,
+   "end": 7806
+  },
+  {
+   "fact": "海伦娜醒来时被皮带和铁链吊在低梁上、只剩睡裙，屋里干热，她的水元素彻底消失。",
+   "anchor": "the Devil of Seven Dials had somehow constructed a room that stole every last drop.",
+   "start": 9543,
+   "end": 9626
+  }
+ ]
+}
