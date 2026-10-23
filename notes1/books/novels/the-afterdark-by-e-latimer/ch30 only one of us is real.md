@@ -26,7 +26,7 @@ modified: "2026-09-05"
 
 > **原句 2:** "Evelyn. Evelyn. Evelyn."
 
-- 中文理解：Evelyn。Evelyn。Evelyn。
+- 中文理解：一遍又一遍地唤着：Evelyn。Evelyn。Evelyn。
 - 关键词：Evelyn——名字的低语。
 - 为什么这样写：Evie 的名字被树枝和树叶的低语重复——这不是风声，是森林在"叫"她。三个"Evelyn"的重复制造了咒语般的效果，也暗示森林认识她、等待她。
 - 读者视角提示：森林叫的是"Evelyn"（正式名）而非"Evie"——它知道她的"全名"，知道她的"身份"。

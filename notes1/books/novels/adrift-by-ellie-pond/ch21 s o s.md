@@ -33,7 +33,7 @@ modified: "2026-09-09"
 
 > **原句 2:** "L, O, S, T."
 
-**中文理解**：「L，O，S，T。」
+**中文理解**：摩斯电码一个字母一个字母地拼出来：L、O、S、T。
 
 **关键词**：L O S T / lost as in missing / Morse code
 

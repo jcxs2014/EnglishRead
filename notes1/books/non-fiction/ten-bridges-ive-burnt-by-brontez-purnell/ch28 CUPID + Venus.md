@@ -42,7 +42,7 @@ modified: "2026-09-04"
 
 > **原句 2:** "It was the fatigue" / he thought / the constant becoming / the fact that / every second was the future / the opening night was always just that
 
-**中文理解**："It was the fatigue"——he thought——the constant becoming——the fact that——every second was the future——the opening night was always just that。
+**中文理解**："那是疲劳"——他想——不断的成为——事实是——每一秒都是未来——开幕之夜一直就只是那个样子。
 
 **关键词**：fatigue / constant becoming / every second was the future / opening night
 
@@ -84,7 +84,7 @@ modified: "2026-09-04"
 
 > **原句 5:** the disturbances / and the tears and hairline fractures become so regular / like ticking clocks / "you saw the old whores who had to keep dancing" / and sometimes it seems the more I get fucked / or fingered ("triggered") / the wetter / and more receptive / I become
 
-**中文理解**：the disturbances——and the tears and hairline fractures become so regular——like ticking clocks——"you saw the old whores who had to keep dancing"——and sometimes it seems the more I get fucked——or fingered ("triggered")——the wetter——and more receptive——I become。
+**中文理解**：那些扰动——眼泪与发丝般的裂缝变得如此规律——像滴答作响的钟——"你看见那些不得不一直跳下去的老娼妓"——而有时似乎我被人操得越多——或被手指（"triggered"，被触发）——我就越湿——也越容易接纳。
 
 **关键词**：disturbances / tears / hairline fractures / ticking clocks / get fucked / fingered / triggered / wetter / receptive
 

@@ -77,7 +77,7 @@ modified: "2026-09-18"
 
 **为什么这样写**：这是全章最简单的句子，也是最 powerful 的。"He takes me home"是 pure action，没有 emotional language，但它 complete 了这个 scene：Kian comforted her, she let herself be comforted, and now he's taking care of the logistics so she's not alone。
 
-**读者视角提示**：Scarlett asked to be taken home, and he said yes immediately. This is the opposite of Kiyomi who never says yes to Kian's offers of help.
+**读者视角提示**：是 Scarlett 主动要求他送自己回家的，他立刻就答应了。这与 Kiyomi 正好相反——Kian 主动提出帮忙时，她从不点头。
 
 ---
 

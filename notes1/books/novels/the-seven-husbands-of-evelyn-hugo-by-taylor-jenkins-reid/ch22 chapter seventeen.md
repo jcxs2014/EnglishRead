@@ -62,7 +62,7 @@ modified: "2026-10-11"
 
 > **原句 4:** "Herrera. Evelyn Herrera."
 
-**中文理解**：Herrera。Evelyn Herrera。
+**中文理解**：她报出姓名：Herrera，Evelyn Herrera。
 
 **关键词**：Herrera
 

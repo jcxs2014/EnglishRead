@@ -52,7 +52,7 @@ Her job. But she had nothing to show for it. Only Callan. She reached for the fr
 
 **关键词**：“是啊，”“梦想组合。”
 
-**为什么这样写**：The words had a hollow sound to them. They both recognized it
+**为什么这样写**：那几个字听起来是空的。他们俩都听出来了。
 
 **读者视角提示**：作者让两个人各自把同一句空话重复了一遍，谁也不拆穿谁。而「梦想组合」这四个字本身是 ch27 那封授权信、ch32 那份没签的文件、ch33 那句「你们没有一个共同的孩子」三件事的总额——而它只能用这四个字结算。
 

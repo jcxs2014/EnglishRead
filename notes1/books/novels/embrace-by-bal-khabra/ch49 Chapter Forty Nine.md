@@ -22,7 +22,7 @@ modified: "2026-09-18"
 > **原句 1:**
 > "Kian. Ishida."
 
-**中文理解**：Kian。Ishida。
+**中文理解**：她连名带姓叫他：Kian。Ishida。
 
 **关键词**：Ishida（Ishida 姓氏）
 

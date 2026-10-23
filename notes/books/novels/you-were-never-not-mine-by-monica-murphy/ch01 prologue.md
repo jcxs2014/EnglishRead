@@ -83,7 +83,7 @@ modified: "2026-09-12"
 
 > "August Lancaster."
 
-**中文理解**：August Lancaster。
+**中文理解**：单独一行砸下的名字：August Lancaster。
 
 **关键词**：August Lancaster（专有名词首次出现，全名 + 家族姓氏）
 

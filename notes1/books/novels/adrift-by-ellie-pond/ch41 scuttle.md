@@ -53,7 +53,7 @@ modified: "2026-09-09"
 
 > **原句 5:** "Henrick Schmidt."
 
-- **中文理解**："Henrick Schmidt。"
+- **中文理解**：他突然报出一个名字：Henrick Schmidt。
 - **关键词**：Henrick Schmidt
 - **为什么这样写**：Easton突然报出一个人名——拳击教练的名字，这是他揭示自己非天生技能的铺垫。
 - **读者视角提示**：名字的抛出制造悬念——读者好奇这是谁，与Easton什么关系。

@@ -77,7 +77,7 @@ modified: "2026-09-25"
 
 > **原句 6:** “Agatha Arbor. Jeremiah Arbor. Jennie ‘Jay’ Arbor.”
 
-**中文理解：** "Agatha Arbor。Jeremiah Arbor。Jennie 'Jay' Arbor。"
+**中文理解：** 她一口气念出三个名字：Agatha Arbor。Jeremiah Arbor。Jennie "Jay" Arbor。
 
 **关键词：** Agatha Arbor / Jeremiah Arbor / Jennie ‘Jay’ Arbor
 

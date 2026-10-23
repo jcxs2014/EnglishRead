@@ -94,7 +94,7 @@ Ned 的犯罪记录曝光：从斗殴、扰乱秩序、轻微毒品到偷车，�
 
 Sue 破解 Ned 绰号来源：Nathaniel Daniel → N.D. → Ned。简洁的等式推理，是 Sue 式调查的典型风格——从细节中挖掘真相。
 
-**中文理解**："Nathaniel Daniel，N.D.，Ned。"
+**中文理解**："Nathaniel Daniel"缩写成"N.D."，再读成"Ned"——全名的缩写链。
 
 ---
 

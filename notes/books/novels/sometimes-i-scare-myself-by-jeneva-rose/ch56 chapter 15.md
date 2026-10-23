@@ -31,7 +31,7 @@ modified: "2026-10-13"
 
 > **原句 2:** "Maddie wandered off. Noah killed himself. Bill slipped."
 
-**中文理解**：「Maddie wandered off。Noah killed himself。Bill slipped。」
+**中文理解**：三句短句，一句一件事：Maddie 走散了。Noah 自杀了。Bill 滑了一跤。
 
 **关键词**：Maddie wandered off, Noah killed himself, Bill slipped
 

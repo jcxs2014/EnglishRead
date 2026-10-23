@@ -47,7 +47,7 @@ modified: "2026-09-19"
 
 > **原句 4:** Galipei Weisanna.
 
-**中文理解**：Galipei Weisanna.
+**中文理解**：她连名带姓地唤他：Galipei Weisanna。
 
 **关键词**：Galipei Weisanna
 

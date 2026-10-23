@@ -6,7 +6,7 @@ Val and Lynda left the CBS building and learned from Chakkan that their Grenada 
 
 **原句 1:** 'Something to do with calibrating bubbles so we all travel in the same general direction,' Lynda went on. 'Of course, I might have gotten that totally wrong. Chakkan also said something about hamsters and their little wheels.'
 
-**中文理解**: Lynda relayed Chakkan's explanation about the flight delay — something about calibrating "bubbles" so everyone travels in the same direction. She admitted she might have misunderstood the technical details, and mentioned Chakkan also said something absurd about hamsters and exercise wheels. The juxtaposition of cosmic engineering language with hamsters reveals Chak kan's dry humor and hints at the enormous, almost whimsical scale of the bubble flight system.
+**中文理解**: Lynda 转述了 Chakkan 对航班延误的解释——大意是校准"气泡"，好让所有人朝同一个方向行进。她承认自己可能把那些技术细节完全听错了，还提到 Chakkan 说过一句关于仓鼠和跑轮的荒唐话。宇宙工程式的说法与仓鼠摆在一起，显出 Chakkan 的冷面幽默，也暗示这套气泡航班系统的规模大得近乎异想天开。
 
 **句子结构**: 复合句。第一个宾语从句 "Something to do with calibrating bubbles" 为主句的直接引语；第二个独立句子 Lynda 用退步从句 "Of course, I might have gotten that totally wrong" 来自嘲。
 

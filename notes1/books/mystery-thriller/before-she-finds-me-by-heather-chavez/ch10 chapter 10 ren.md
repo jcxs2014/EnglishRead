@@ -41,7 +41,7 @@ modified: "2026-09-30"
 
 > **原句 3:** Janice Stockwell. Juan Gomez. Teresa Reyes. Ray Osman.
 
-**中文理解**：Janice Stockwell。Juan Gomez。Teresa Reyes。Ray Osman。
+**中文理解**：四个名字，各自成句：Janice Stockwell。Juan Gomez。Teresa Reyes。Ray Osman。
 
 **关键词**：Janice Stockwell / Juan Gomez / Teresa Reyes / Ray Osman
 

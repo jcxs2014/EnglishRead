@@ -41,7 +41,7 @@ modified: "2026-09-18"
 
 **为什么这样写**：Kian 对队长 news 的 immediate physical reaction 是 panic attack symptoms——can't breathe、dying。他的身体在 hyperventilating，但他的 mind 在试图 process the news。他 immediately asks "Are you dying?" because he cannot conceive of a positive reason for Coach to call him in privately.
 
-**读者视角提示**：Kian's panic response reveals how deeply he fears losing hockey — his identity as a player is so central that being summoned privately triggers existential panic rather than hope.
+**读者视角提示**：Kian 的恐慌反应暴露出他有多怕失去冰球——球员这个身份对他太核心了，仅仅是被私下叫去一趟，激起的竟是对存在本身的恐慌，而不是期待。
 
 ---
 

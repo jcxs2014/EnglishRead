@@ -62,7 +62,7 @@ modified: "2026-09-24"
 
 **关键词**：this easy to get on with / don’t do well around people like him / well-defined biceps and smooth skin / confidence like a new sweater
 
-**为什么这样写**：Clothes and body parts turn social ease into a surface comparison; Alex wears confidence as if it were new, while Klara feels like an old item. `well-defined` and `smooth` make her body anxiety concrete; the new sweater metaphor shows confidence is a style others can purchase but she has never tried on.
+**为什么这样写**：衣物与身体部位把"相处自如"变成了表层的比较：Alex 把自信穿得像一件新东西，而 Klara 觉得自己像一件旧物。"well-defined"与"smooth"让她的身体焦虑落到实处；新毛衣这个比喻说明自信是别人买得到、她却从没试穿过的一种款式。
 
 **读者视角提示**：她羡慕的不是 Alex 的脸，而是他无需解释就能占据空间的能力。
 

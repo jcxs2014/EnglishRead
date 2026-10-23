@@ -44,7 +44,7 @@ modified: "2026-09-05"
 
 > **原句 4:** "Amanda Williams."
 
-- 中文理解：Amanda Williams。
+- 中文理解：名单上的第一个名字是 Amanda Williams。
 - 关键词：Amanda Williams——Beth 的朋友。
 - 为什么这样写：名单上的第一个名字——Amanda Williams 是 Beth 的"best friend"（ch11），她的失踪是 Beth 创伤的起点。这个名字把"抽象的名单"变成"具体的人"。
 - 读者视角提示：Amanda 与 ch11 的"I don't remember a helicopter coming for Amanda"（我不记得 Amanda 出事时有直升机）对照——Amanda 的死亡被掩盖了。

@@ -61,7 +61,7 @@ modified: "2026-10-11"
 
 > **原句 4:** "Celia St. James."
 
-**中文理解**："Celia St. James。"
+**中文理解**：她只答出一个名字：Celia St. James。
 
 **关键词**：Celia St. James
 

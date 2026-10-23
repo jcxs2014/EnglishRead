@@ -84,7 +84,7 @@ modified: "2026-09-20"
 
 > **原句 6:** Regina. Regina. Regina.
 
-**中文理解**：Regina。Regina。Regina。
+**中文理解**：有人把她的名字念了三遍：Regina。Regina。Regina。
 
 **关键词**：Regina（她的全名）——截至本章，用这个名字的只有三处场景：她自己的自我训斥（第 6 章里那声"多么低级的失误，Regina"）、神秘来电者（"Tell Regina"），以及此刻黑暗中那个押韵的嘲笑声。（后文 Adele 与 Zara 也会用它，那是身份的另一种含义。）
 

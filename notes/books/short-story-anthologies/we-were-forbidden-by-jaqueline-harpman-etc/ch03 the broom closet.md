@@ -100,7 +100,7 @@ source_text: ch03
 
 > **原句 6:** Brooms don’t shout, dearest. Someone will come and investigate.
 
-**中文理解**："Brooms don't shout, dearest. Someone will come and investigate."
+**中文理解**：扫帚不会喊叫，亲爱的。会有人过来查看的。
 
 **句子结构**：直接引语，两句话。"Brooms don't shout, dearest" — brooms 作主语（拟人化），dearest 为称呼；"Someone will come and investigate" — future tense，and 连接两个谓语。
 
@@ -114,7 +114,7 @@ source_text: ch03
 
 > **原句 7:** I liked Ulrich, who enables an obedient young wife to discover that she loathes her husband.
 
-**中文理解**："I liked Ulrich, who enables an obedient young wife to discover that she loathes her husband."
+**中文理解**：我喜欢 Ulrich——他让一个温顺的年轻妻子发现自己厌恶自己的丈夫。
 
 **句子结构**："I liked Ulrich, who enables an obedient young wife to discover that she loathes her husband" — who 引导非限制性定语从句，that 引导宾语从句。
 
@@ -142,7 +142,7 @@ source_text: ch03
 
 > **原句 9:** The time of men is so short! But what about this mustachioed traveler in a hurry? He offers me some of his white wine and wants to tell me his life story. You have to be at a distance! Do you not see how ugly he is?
 
-**中文理解**："The time of men is so short! But what about this mustachioed traveler in a hurry?"
+**中文理解**：男人的时间太短了！可这位匆匆赶路、留着胡髭的旅人又怎样呢？他请我尝他的白葡萄酒，还想讲他一生的故事。你得离远点！你没看见他有多丑吗？
 
 **句子结构**：两句话。"The time of men is so short!" — 主系表，感叹号；"But what about this mustachioed traveler in a hurry?" — 疑问句，what about 引导。
 
@@ -156,7 +156,7 @@ source_text: ch03
 
 > **原句 10:** We do not know whether the affair began in a broom closet.
 
-**中文理解**："We do not know whether the affair began in a broom closet."
+**中文理解**：我们不知道这段私情是不是始于扫帚间。
 
 **句子结构**："We do not know whether the affair began in a broom closet" — 主句 + whether 引导的宾语从句。全篇最后一句，以 "We do not know" 收束。
 
