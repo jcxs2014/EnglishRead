@@ -134,6 +134,3 @@ modified: "2026-10-18"
 ## 一句话总结
 
 本章完成。
-</content>
-<parameter name="path">
-notes/books/novels/the-winter-folk-by-jen-julian/ch02 doorways.md

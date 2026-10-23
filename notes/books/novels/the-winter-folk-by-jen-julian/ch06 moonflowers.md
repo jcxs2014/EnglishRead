@@ -17,7 +17,7 @@ modified: "2026-10-18"
 
 **关键词**：courtship story / particularly interesting
 
-**为什么这样写**：Moth's dismissive tone toward her own marriage establishes Martin as secondary character; "courtship story" frames marriage as narrative rather than romance. The rhetorical question to "listener" maintains the meta-narrative frame.
+**为什么这样写**：Moth 谈及自己婚姻时那种轻慢的语气，把 Martin 定为次要角色；「恋爱故事」一说把婚姻当作一段叙事而非浪漫。她向「听者」发出的反问维持了元叙事框架。
 
 **读者视角提示**：读者应把 Martin 读作 a safe, unmagical choice—Moth's "parachute" rather than her "want."
 
@@ -27,7 +27,7 @@ modified: "2026-10-18"
 
 **关键词**：expelled from Deerhaven / bargained for / didn't know what to do with
 
-**为什么这样写**：The house's persistence after expulsion confirms Mr. Oslin's contract as magically binding; "didn't know what to do with" reveals Moth's unpreparedness for adulthood. The house is both gift and burden—fulfillment of "want" that Moth cannot manage.
+**为什么这样写**：房子在被驱逐之后依然存在，证实 Mr. Oslin 的契约具有魔法约束力；「不知道该拿它怎么办」暴露出 Moth 对成年生活毫无准备。这栋房子既是礼物也是负担——是「want」的兑现，而 Moth 无力打理它。
 
 **读者视角提示**：读者应把 house 读作 the novel's central object—Moth's "want" made concrete but unmanageable.
 
@@ -37,7 +37,7 @@ modified: "2026-10-18"
 
 **关键词**：mine / moonflowers / soapy fragrance / cold smell of the Winter Folk
 
-**为什么这样写**：The moonflower's "soapy fragrance" directly links the house to Winter Folk's smell (the text compares it to "the cold smell of the Winter Folk"), making the house a sensory bridge to Deerhaven. "Year-round" blooming suggests the house carries Winter Folk's magic. "I loved" is repeated three times, emphasizing Moth's attachment; "mine" underscores ownership as her core desire.
+**为什么这样写**：月光花「肥皂般的香气」直接把房子与 Winter Folk 的气味连起来（原文把它比作「the cold smell of the Winter Folk」），使房子成为通往 Deerhaven 的感官桥梁。「全年盛开」暗示这栋房子带着 Winter Folk 的魔法。「我爱」重复三次，强调 Moth 的依恋；「是我的」则突出所有权正是她的核心欲望。
 
 **读者视角提示**：读者应把 moonflowers 读作 the house's connection to Winter Folk; the "soapy fragrance" is a recurring motif.
 
@@ -47,7 +47,7 @@ modified: "2026-10-18"
 
 **关键词**：addresses coiled / composed letters in my head / never wrote them down
 
-**为什么这样写**："Coiled" suggests the addresses are serpentine, dormant, potentially dangerous; "composed letters in my head" shows Moth's inability to act on connection; "never wrote them down" parallels her "not knowing how to tell" her story. The mutual silence (they never wrote either) suggests Deerhaven's identity-erasure worked.
+**为什么这样写**：「卷着」让那些地址显得像盘曲的蛇、蛰伏而潜在危险；「在脑海里写信」显出 Moth 无法把联结付诸行动；「不曾写下来」与她「不知道该怎么说」自己的故事相互平行。双方都沉默（他们也没写信来），说明 Deerhaven 的身份抹除起了作用。
 
 **读者视角提示**：读者应把 this 读作 Moth's isolation; the Deerhaven bond didn't survive the outside world.
 
@@ -57,7 +57,7 @@ modified: "2026-10-18"
 
 **关键词**：third wheel / stolen looks / nauseous
 
-**为什么这样写**："Third wheel" reduces Moth to an accessory in her mother's new relationship; "stolen looks" frames the romance as secretive and illicit. The nausea is somatic—Moth's body knows before her mind. This parallels her Deerhaven experience of being "owned" by others' desires.
+**为什么这样写**：「third wheel」（多余的人）把 Moth 降为她母亲新恋情里的附属品；「偷偷的眼神」把这段恋情写成隐秘而不正当。恶心是身体性的——Moth 的身体先于意识知道。这与她在 Deerhaven 被他人欲望「占有」的经历相互映照。
 
 **读者视角提示**：读者应把 mother-Dozer relationship 读作 another form of Moth being displaced; "third wheel" echoes her Deerhaven role as staff serving others.
 
@@ -67,7 +67,7 @@ modified: "2026-10-18"
 
 **关键词**：defiantly / could've done, could've been / gave them all up
 
-**为什么这样写**：Mother's "defiantly" frames her self-pity as resistance; "could've done, could've been" is the language of regret; "gave them all up" (for Moth and father) is a guilt-inducing claim that Moth rejects. The mother's "want" mirrors Moth's own "seeded want."
+**为什么这样写**：母亲的「理直气壮」把她的自怜包装成反抗；「本来可以做的事、本来可以成为的人」是遗憾的语言；「我把它们都放弃了」（为了 Moth 和父亲）是一句意在制造愧疚的断言，而 Moth 拒绝接受。母亲的「want」映照着 Moth 自己那个「seeded want」。
 
 **读者视角提示**：读者应把 mother's speech 读作 a mirror of Moth's own dissatisfaction; both are "cursed" by unfulfilled potential.
 
@@ -82,7 +82,7 @@ modified: "2026-10-18"
 
 **关键词**：raw luck / God himself / touched with his fingertip / lesson
 
-**为什么这样写**：Mother's "raw luck" reframes Moth's earned house as unearned divine favor; "God himself" is hyperbolic, reducing Moth's Deerhaven labor to miracle. "This right here is a lesson" is ambiguous—is the lesson that Moth is lucky, or that the mother is not? The mother's envy is barely concealed.
+**为什么这样写**：母亲用「纯属运气」把 Moth 挣来的房子重新说成白得的神恩；「God 本人」是夸张说法，把 Moth 在 Deerhaven 的劳作缩成一场奇迹。「这就是一课」含义暧昧——是说 Moth 幸运，还是说她自己不幸？母亲的嫉妒几乎遮掩不住。
 
 **读者视角提示**：读者应把 "lesson" 读作 the mother's resentment; she sees Moth's house as proof of her own deprivation.
 
@@ -92,9 +92,9 @@ modified: "2026-10-18"
 
 **关键词**：sell the damn house
 
-**为什么这样写**：Father's pragmatic command; "damn" shows his frustration and his view of the house as a liability (drug money suspicion).
+**为什么这样写**：父亲务实的命令；「该死的」显出他的烦躁，也显出他把这栋房子看成负债（怀疑与毒资有关）。
 
-**读者视角提示**：Father's voice of external judgment; he sees the house as problem, not prize.
+**读者视角提示**：父亲代表外部的评判；在他眼里这栋房子是麻烦，而不是战利品。
 
 > **原句 10:** "That's my house. You have no idea what I went through to get that house, I fucking earned it, and I'm never selling it, never never never ever."
 
@@ -102,7 +102,7 @@ modified: "2026-10-18"
 
 **关键词**：I fucking earned it / never never never ever
 
-**为什么这样写**：Moth's "I fucking earned it" reveals her emotional attachment and her refusal to let anyone (even father) invalidate her Deerhaven experience. "Never never never ever" is childlike repetition showing her desperation.
+**为什么这样写**：Moth 那句「我他妈是挣来的」既显出她的情感依恋，也显出她不肯让任何人（包括父亲）否定她在 Deerhaven 的经历。「永远永远永远不」是孩子气的重复，显出她的绝境感。
 
 **读者视角提示**：读者应把 this 读作 the novel's central conflict: Moth's "want" (the house) vs. external judgment (father's pragmatism). Her refusal to sell foreshadows her return.
 
@@ -112,7 +112,7 @@ modified: "2026-10-18"
 
 **关键词**：parting advice / coldly
 
-**为什么这样写**：Father's "coldly" and "parting advice" frame the conversation as final; "parting" suggests permanent estrangement. The advice itself (sell the house) is the opposite of Moth's desire, making it a rejection of her entire Deerhaven narrative.
+**为什么这样写**：父亲的「冷淡」与「临别建议」把这场对话定性为终结；「临别」暗示永久的疏离。建议本身（卖掉房子）与 Moth 的欲望正相反，因而等于否定了她整个 Deerhaven 叙事。
 
 **读者视角提示**：读者应把 father 读作 Moth's reality-check; his coldness mirrors her mother's instability—both parents fail to validate her.
 
@@ -147,6 +147,3 @@ modified: "2026-10-18"
 ## 一句话总结
 
 本章完成。
-</content>
-<parameter name="path">
-notes/books/novels/the-winter-folk-by-jen-julian/ch06 moonflowers.md

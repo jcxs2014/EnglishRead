@@ -27,7 +27,7 @@ modified: "2026-10-18"
 
 **关键词**：different side / belch / pick her ass
 
-**为什么这样写**：Birch's crude description of Lo establishes Birch's unfiltered voice and her familiarity with Lo's "two faces"; the vulgar specificity (belch, pick ass) contrasts with Lo's elegant "Host and Master" self-presentation, suggesting Deerhaven's staff see through each other's performances.
+**为什么这样写**：Birch 用粗话描述 Lo，确立了她不加过滤的说话方式，也说明她熟悉 Lo 的「两副面孔」；打嗝、抠屁股这类粗俗的具体细节，与 Lo 优雅的「Host and Master」（主人与主母）自我呈现形成对照，暗示 Deerhaven 的员工彼此都看穿了对方的表演。
 
 **读者视角提示**：读者应把 Birch 的 "different side" 读作 foreshadowing of Lo's ritualized witching-hour persona.
 
@@ -37,7 +37,7 @@ modified: "2026-10-18"
 
 **关键词**：emptiness / compensating desperation / human
 
-**为什么这样写**：Moth's counter to Wren's suspicion that Birch is not human; "compensating desperation" is Moth's psychological reading of Birch, projecting her own insecurity onto Birch. The line also establishes Moth's analytical stance—she reads people as texts.
+**为什么这样写**：这是 Moth 对 Wren 怀疑 Birch 并非人类的回应；「补偿性绝望」是 Moth 对 Birch 的心理判读，其实是把她自己的不安投射到了 Birch 身上。这句话也确立了 Moth 的分析者姿态——她把人都当作文本去读。
 
 **读者视角提示**：读者应把 "compensating desperation" 记住——it's Moth's self-description disguised as Birch's critique.
 
@@ -47,7 +47,7 @@ modified: "2026-10-18"
 
 **关键词**：flying boat / no tracks / skins / briars and bone
 
-**为什么这样写**：Four parallel noun phrases catalog guest arrivals with escalating strangeness; the "briars and bone" carriage echoes fairy-tale danger; the list format (no verbs) gives dreamlike, catalog-like quality. This is Deerhaven's "singular needs" clientele made concrete.
+**为什么这样写**：四个并列名词短语把客人的到来逐一列出，怪异程度层层递进；「荆棘与骨头」马车呼应童话里的危险；这种全无动词的罗列句式带来梦幻、目录般的质感。Deerhaven 那些「singular needs」（奇特需求）的客人由此变得具体。
 
 **读者视角提示**：读者应把 guest arrivals 读作 a parade of the non-human; Deerhaven is a sanctuary for the strange.
 
@@ -57,7 +57,7 @@ modified: "2026-10-18"
 
 **关键词**：sorghum spoils / sweetmeats taint / heroes grow old and mold and die
 
-**为什么这样写**：Lo's witching-hour speech is a memento mori ritual; the triad (sorghum/sweetmeats/heroes) moves from food to people, collapsing decay into celebration. "If they're lucky" is the cruel punchline—death as privilege. Lo's "cackle" and cheer frame decay as entertainment, showing Winter Folk's emotional detachment from human mortality.
+**为什么这样写**：Lo 在 witching hour（巫术时刻）的致辞是一场 memento mori（勿忘终有一死）仪式；高粱／甜点／英雄这组三段式从食物递进到人，把腐朽与庆典压在同一处。「若幸运的话」是残酷的包袱——死亡成了特权。Lo 的咯咯笑与欢快语气把腐朽包装成娱乐，显出 Winter Folk 对人类死亡的漠然。
 
 **读者视角提示**：读者应把 this speech 记作 Deerhaven's core philosophy: everything decays, including heroes; the "witching hour" is when the lodge's magic resets.
 
@@ -67,7 +67,7 @@ modified: "2026-10-18"
 
 **关键词**：didn't believe me / tiredly
 
-**为什么这样写**：Birch's question tests Moth's trust; Moth's "tiredly" admission shows her exhaustion and her reluctant acceptance of Deerhaven's reality. The exchange establishes Birch as truth-teller and Moth as reluctant believer.
+**为什么这样写**：Birch 这一问是在试探 Moth 的信任；Moth 用「疲惫地」承认，显出她的耗竭，也显出她勉强接受了 Deerhaven 的现实。这段对话把 Birch 立为说真话的人，把 Moth 立为不情愿的信服者。
 
 **读者视角提示**：读者应把 "tiredly" 读作 Moth's emotional state—she's too exhausted to disbelieve anymore.
 
@@ -77,7 +77,7 @@ modified: "2026-10-18"
 
 **关键词**：peace / mountains / fireplace / nice soft winter / warm cider
 
-**为什么这样写**：Mrs. Tataryan's wish list is a pastoral fantasy that mirrors Moth's own "want"; the repetition of "I want" echoes Moth's "seeded want." The simplicity of the desires (mountains, fireplace, cider, sleep) contrasts with the extraordinary guests, showing that even non-human guests crave domestic peace.
+**为什么这样写**：Mrs. Tataryan 的愿望清单是一幅田园幻想，映照着 Moth 自己的「want」；「I want」的重复呼应了 Moth 那个「seeded want」（被埋下的渴望）。这些愿望（山、壁炉、苹果酒、睡眠）都极朴素，与那些非凡的客人形成反差，说明即便非人类的客人也渴望居家的安宁。
 
 **读者视角提示**：读者应把 Mrs. Tataryan 读作 Moth's future self—someone who has served Winter Folk and now just wants "a little sleep."
 
@@ -87,7 +87,7 @@ modified: "2026-10-18"
 
 **关键词**：smirking / who wants to know
 
-**为什么这样写**：Spile's smirk and deflection establish Barkus as a charged name; "who wants to know" implies Barkus's arrival is sensitive information. The casual breakfast setting (eggs) contrasts with the ominous subject, showing gossip as Deerhaven's social currency.
+**为什么这样写**：Spile 的坏笑和回避把 Barkus 写成一个敏感的名字；「谁想知道」暗示 Barkus 的到来是敏感信息。早餐吃鸡蛋的随意场景与这个不祥的话题形成反差，说明八卦是 Deerhaven 的社交货币。
 
 **读者视角提示**：读者应把 Barkus 读作 an offstage antagonist whose reputation precedes him; the deflection suggests danger.
 
@@ -97,7 +97,7 @@ modified: "2026-10-18"
 
 **关键词**：mess he made / younger generation / too wild
 
-**为什么这样写**：Mrs. Tataryan's dismissal of Barkus as "younger generation" and "too wild" establishes a generational conflict within Deerhaven; "mess he made of this place" implies Barkus damaged the lodge's order. The direct address "You understand, Moth?" recruits Moth into the older generation's side.
+**为什么这样写**：Mrs. Tataryan 把 Barkus 贬为「年轻一代」「太狂野」，在 Deerhaven 内部立起一场代际冲突；「他把这地方弄得一团糟」暗示 Barkus 破坏了旅馆的秩序。她直接问「你明白吗，Moth？」，是把 Moth 拉进老一辈的阵营。
 
 **读者视角提示**：读者应把 Barkus 读作 a chaotic force that threatens Deerhaven's equilibrium; Mrs. Tataryan's "too wild" echoes Moth's own "compensating desperation."
 
@@ -107,7 +107,7 @@ modified: "2026-10-18"
 
 **关键词**：from trouble / attempts on his life / lie low / ulterior motive
 
-**为什么这样写**：Mr. Oslin's formal announcement of Barkus frames him as a fugitive with "ulterior motive," establishing Barkus as a threat to Deerhaven's order. "Attempts made on his life by people close to him" suggests family betrayal, paralleling Moth's own family dysfunction. The phrase "knowing what I know" implies Mr. Oslin's deeper knowledge of Barkus's family.
+**为什么这样写**：Mr. Oslin 正式宣布 Barkus 的到来，把他框成一个怀有「ulterior motive」（隐秘图谋）的逃亡者，从而把 Barkus 立为对 Deerhaven 秩序的威胁。「亲近的人对他的性命下过手」暗示家族背叛，与 Moth 自己家庭的失能相互映照。「knowing what I know」这句话则暗示 Mr. Oslin 对 Barkus 家族知道得更多。
 
 **读者视角提示**：读者应把 Barkus 读作 a catalyst for the novel's central conflict; his "ulterior motive" will drive later plot.
 
@@ -144,6 +144,3 @@ modified: "2026-10-18"
 ## 一句话总结
 
 本章完成。
-</content>
-<parameter name="path">
-notes/books/novels/the-winter-folk-by-jen-julian/ch03 mr barkus.md

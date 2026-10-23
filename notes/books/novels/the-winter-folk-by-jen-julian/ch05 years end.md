@@ -17,7 +17,7 @@ modified: "2026-10-18"
 
 **关键词**：three little jewels / coat sleeve
 
-**为什么这样写**：Mouse's theft (three jewels from Miss Twill's coat) is reduced to a parenthetical phrase; the brevity emphasizes how small the crime was and how disproportionate the punishment (disappearance). The number "three" echoes the Power Triad, linking theft to the trio's bond.
+**为什么这样写**：Mouse 的偷窃（从 Miss Twill 大衣里拿走三颗宝石）被压缩成一个插入短语；这种简短强调罪行之小与惩罚（消失）之不成比例。「三」这个数字呼应 Power Triad，把偷窃与三人组的纽带连在一起。
 
 **读者视角提示**：读者应把 Mouse's theft 读作 a cautionary tale; "three little jewels" = the cost of violating contract.
 
@@ -27,7 +27,7 @@ modified: "2026-10-18"
 
 **关键词**：team / Power Triad
 
-**为什么这样写**：Moth's naming of the trio ("Power Triad") gives them identity; the capitalization elevates a casual friendship to a named unit. The "power" in the name echoes Mr. Oslin's "power" and the rumor of teachable magic.
+**为什么这样写**：Moth 给三人组命名「Power Triad」，赋予了他们身份；首字母大写把一段随意的友谊升格为一个有名字的单位。名字里的「power」呼应 Mr. Oslin 的「power」以及关于可传授魔法的传言。
 
 **读者视角提示**：读者应把 "Power Triad" 记作 Moth's first experience of belonging; the name will haunt her after she leaves.
 
@@ -37,7 +37,7 @@ modified: "2026-10-18"
 
 **关键词**：one black one / one white one / fairy light
 
-**为什么这样写**：Barkus's bawdy folk song (reconstructed by the trio) is a fragmented, comic memory of trauma; "fairy light" gives the song a magical register that contrasts with its bawdy origins. The trio's singing is a bonding ritual, turning trauma into shared joke.
+**为什么这样写**：Barkus 那首粗俗的民谣（由三人组拼凑复原）是一段破碎而滑稽的创伤记忆；「仙女之光」给歌谣添了魔法色彩，与它粗俗的来处形成反差。三人一起唱这首歌是一种联结仪式，把创伤变成共同的笑话。
 
 **读者视角提示**：读者应把 the song 读作 the trio's coping mechanism; "fairy light" echoes Winter Folk's magic.
 
@@ -47,7 +47,7 @@ modified: "2026-10-18"
 
 **关键词**：fundamental temperament / protégé / on the lookout
 
-**为什么这样写**：The rumor is stated in Moth's summary voice, giving it narrative authority; "fundamental temperament" suggests Host-ship is an innate quality, not just learned skill. The rumor is the chapter's thematic engine— it transforms staff from workers into potential successors.
+**为什么这样写**：这则谣言由 Moth 以概括的口吻说出，因而带有叙事权威；「基本气质」暗示 Host 身份是天生的素质，而不只是学来的技能。这则谣言是本章的主题引擎——它把员工从打工者变成潜在的继任者。
 
 **读者视角提示**：读者应把 the rumor 读作 the novel's central promise: Moth's "want" may be fulfillable through becoming like Winter Folk.
 
@@ -66,7 +66,7 @@ modified: "2026-10-18"
 
 **关键词**：in the orchard
 
-**为什么这样写**：Mr. Oslin's toast redefines "in the orchard" from envy to appreciation; the king-who-became-hermit story gives the phrase literary weight. "I am in the orchard" is Mr. Oslin's way of saying his staff surpass him—an extraordinary admission of humility from a Winter Folk Host.
+**为什么这样写**：Mr. Oslin 的祝酒辞把「in the orchard」从嫉妒重新定义为感激；那个「国王出家为隐士」的故事赋予这句话文学分量。「I am in the orchard」是 Mr. Oslin 在说自己的员工超过了他——对一个 Winter Folk 的 Host 而言，这是极不寻常的谦卑承认。
 
 **读者视角提示**：读者应把 "in the orchard" 记作 the novel's key phrase; it encodes Mr. Oslin's genuine regard and the possibility of staff surpassing him.
 
@@ -76,7 +76,7 @@ modified: "2026-10-18"
 
 **关键词**：sensed early on / good fit / proved me right
 
-**为什么这样写**：Mr. Oslin's farewell is warm and specific; "sensed early on" echoes the rumor of teachable magic— he "sensed" Moth's potential. "Good fit" is corporate language that contrasts with Winter Folk's magical register, showing Mr. Oslin's code-switching.
+**为什么这样写**：Mr. Oslin 的告别温暖而具体；「很早就感觉到」呼应了可传授魔法的传言——他「感觉」到了 Moth 的潜力。「good fit」（合适人选）是职场语言，与 Winter Folk 的魔法语域形成反差，显出 Mr. Oslin 的语码切换。
 
 **读者视角提示**：读者应把 "sensed early on" 读作 confirmation that Mr. Oslin saw Moth's potential from the start.
 
@@ -86,7 +86,7 @@ modified: "2026-10-18"
 
 **关键词**：forget requests / reading my mind / very busy
 
-**为什么这样写**：Mr. Oslin's "reading my mind" confirms his supernatural perception; "forget requests" normalizes Moth's amnesia about the house, suggesting Winter Folk contracts have a self-erasing quality. "You were very busy" is a gentle excuse that also implies Moth's mind was consumed by Deerhaven's demands.
+**为什么这样写**：Mr. Oslin「读出我的心思」证实了他超自然的感知力；「忘记请求」把 Moth 对房子的失忆说得平常，暗示 Winter Folk 的契约带有自我抹除的性质。「你一直很忙」是一句温和的开脱，同时也暗示 Moth 的心力被 Deerhaven 的需求占满了。
 
 **读者视角提示**：读者应把 "forget requests" 读作 the contract's magical amnesia; Moth's "want" is fulfilled without her remembering she asked.
 
@@ -96,7 +96,7 @@ modified: "2026-10-18"
 
 **关键词**：wave of longing / house of my own / way out of my mother's place
 
-**为什么这样写**：Moth's longing is physical ("could've knocked me over"); "house of my own" and "way out of my mother's place" tie the house to her deepest desire—escape from maternal dysfunction. "How could I want more" is a rhetorical question that also reveals her inability to be satisfied.
+**为什么这样写**：Moth 的渴望是生理性的（「本可以把我击倒」）；「属于自己的房子」和「永远逃离母亲之处」把房子系在她最深的欲望上——逃离母亲的失能。「我还能向他要更多吗」是一个反问，也暴露出她无法满足。
 
 **读者视角提示**：读者应把 this moment 读作 the seed of Moth's return; the house is both reward and trap.
 
@@ -106,7 +106,7 @@ modified: "2026-10-18"
 
 **关键词**：pay money / miss Christmas
 
-**为什么这样写**：Crow's dark humor about family reveals his estrangement; "pay money" echoes Moth's "money" negotiation with Oslin, showing how Deerhaven staff commodify their avoidance of family. The line also shows Crow's growing comfort with the trio.
+**为什么这样写**：Crow 关于家人的黑色幽默透露出他与家庭的疏离；「付钱」呼应 Moth 与 Oslin 谈「钱」的那场交涉，说明 Deerhaven 的员工把「避开家庭」也商品化了。这句话也显出 Crow 在三人组里越来越放松。
 
 **读者视角提示**：读者应把 this 读作 Crow's characterization—his family estrangement parallels Moth's.
 
@@ -116,7 +116,7 @@ modified: "2026-10-18"
 
 **关键词**：mailing addresses / Not our names / connect outside
 
-**为什么这样写**："Not our names, of course" reveals Deerhaven's identity-erasure protocol; the mailing addresses (not names) are the only bridge to the outside world. The tentative "maybe meet up over the summer" shows hope tempered by uncertainty.
+**为什么这样写**：「当然不是名字」揭示出 Deerhaven 抹除身份的规定；邮寄地址（而非名字）是通往外部世界的唯一桥梁。「也许夏天见面」说得迟疑，显出希望被不确定压着。
 
 **读者视角提示**：读者应把 "Not our names" 记作 Deerhaven's social rule; Moth's later inability to contact Birch/Crow stems from this.
 
@@ -150,6 +150,3 @@ modified: "2026-10-18"
 ## 一句话总结
 
 本章完成。
-</content>
-<parameter name="path">
-notes/books/novels/the-winter-folk-by-jen-julian/ch05 years end.md

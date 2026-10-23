@@ -173,4 +173,3 @@ modified: "2026-10-19"
 ## 一句话总结
 
 Bree 在 Sherry 的晚餐中与 Bradley 合作调查 nightclub 案件，发现 "butterfly root moss" 毒素与 "ninja turtle" 嫌疑人的关联，Bradley 和 Bree 之间的 romantic tension 升级至接吻，Bree 随后经历 Barbed Wire Killer 的噩梦，显示其 PTSD 的持续影响。
-</content>

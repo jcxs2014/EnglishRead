@@ -95,4 +95,3 @@ modified: "2026-10-18"
 ## 一句话总结
 
 Petra 完成 Winter coat；Spring Valley 出现 Nightmare 腐蚀；Iris 用 "bulb flower" 比喻安慰 Clarion；Petra 说 "leave me out of it"——Clarion 第一次感到 isolation。
-</content>

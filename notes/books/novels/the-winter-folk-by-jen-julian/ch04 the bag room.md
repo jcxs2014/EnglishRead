@@ -17,7 +17,7 @@ modified: "2026-10-18"
 
 **关键词**：turning point / changed everything / friends
 
-**为什么这样写**：Moth 的 retrospect 把 Barkus 的 violence  reframed as catalyst for friendship; "if Barkus hadn't captured us" 把 shared suffering 写成 bond 的 foundation。The "statue of Pan" detail (referenced but not yet explained) creates narrative hook.
+**为什么这样写**：Moth 的回顾把 Barkus 的暴行重新框定为促成友谊的催化剂；「if Barkus hadn't captured us」（若不是 Barkus 抓了我们）把共同的受苦写成情谊的基础。「Pan 的雕像」这个细节被提及却尚未解释，留下了叙事钩子。
 
 **读者视角提示**：读者应把 Barkus 的 capture 读作 Moth's social awakening; "friends" 是 she's been lacking.
 
@@ -27,7 +27,7 @@ modified: "2026-10-18"
 
 **关键词**：single cord / mule train
 
-**为什么这样写**：The cord is both physical restraint and symbolic binding; "mule train" dehumanizes Moth/Birch as pack animals, establishing Barkus's contempt. The cord's spellbound nature (only Barkus can untie) makes it a contract-analog.
+**为什么这样写**：那根绳子既是身体上的束缚，也是象征性的捆绑；「mule train」（骡队）把 Moth 和 Birch 贬成驮畜，确立了 Barkus 的轻蔑。绳子带有法术性质（只有 Barkus 能解开），使它成了契约的类比物。
 
 **读者视角提示**：读者应把 cord 读作 Barkus's version of Deerhaven's contract—binding without consent.
 
@@ -37,7 +37,7 @@ modified: "2026-10-18"
 
 **关键词**：two generations / murdered and vengeful / coiled like lightning
 
-**为什么这样写**：Barkus's threat to Lo reveals his family's murdered status; "two generations" implies a feud; "coiled like lightning" gives his power a physical, electrical quality. This establishes Barkus as connected to Winter Folk's violent history.
+**为什么这样写**：Barkus 对 Lo 的威胁揭示出他家族「被谋杀」的处境；「两代人」暗示一场世仇；「像闪电一样盘绕」让他的力量有了物理的、带电的质感。这就把 Barkus 与 Winter Folk 的暴力历史连在一起。
 
 **读者视角提示**：读者应把 "two generations" 记住——it explains Barkus's "ulterior motive" and his family's conflict with Oslin.
 
@@ -47,7 +47,7 @@ modified: "2026-10-18"
 
 **关键词**：trick / fall forward
 
-**为什么这样写**：Crow's awkward, understated delivery ("Um") contrasts with the dramatic fall; his resourcefulness (knowing the Bag Room's physics) makes him valuable despite his apparent weakness. The "trick" becomes a motif of Deerhaven's reality-bending spaces.
+**为什么这样写**：Crow 那句笨拙而轻描淡写的「嗯」与随后戏剧性的前跌形成反差；他的机灵（懂 Bag Room 的物理规则）让他即便看起来孱弱也仍然有用。「窍门」由此成为 Deerhaven 那些扭曲现实的空间的一个母题。
 
 **读者视角提示**：读者应把 Crow 读作 more competent than his appearance suggests; his "errand boy" role hides knowledge.
 
@@ -57,7 +57,7 @@ modified: "2026-10-18"
 
 **关键词**：drop things off / out of the way
 
-**为什么这样写**：Crow's revelation that the Bag Room is Oslin's "storage" recontextualizes it from mysterious trash heap to deliberate disposal system; "out of the way" suggests Oslin uses the Bag Room to hide unwanted things/people. This is a key lore reveal.
+**为什么这样写**：Crow 透露 Bag Room 是 Oslin 的「仓储」，把这个地方从神秘的垃圾堆重新定位成一套刻意的处置系统；「弄走」暗示 Oslin 用 Bag Room 藏起不想要的东西和人。这是关键的世界观揭示。
 
 **读者视角提示**：读者应把 Bag Room 读作 Oslin's secret disposal mechanism, not just a trash heap.
 
@@ -67,7 +67,7 @@ modified: "2026-10-18"
 
 **关键词**：I know what you seek / guide requires payment
 
-**为什么这样写**：The Sifter's "I know what you seek" suggests Barkus's desire (the knife) is known to the Bag Room's inhabitants; "guide requires payment" establishes the Bag Room's transactional economy. The Sifter's creaky voice and "decrepit" appearance contrast with her authority.
+**为什么这样写**：Sifter 说「我知道你求什么」，暗示 Bag Room 的居民知道 Barkus 想要什么（那把刀）；「向导需要报酬」确立了 Bag Room 的交易经济。Sifter 沙哑的嗓音和「衰朽」的外表与她的权威形成反差。
 
 **读者视角提示**：读者应把 Sifters 读作 the Bag Room's gatekeepers; their "payment" logic parallels Oslin's contract system.
 
@@ -77,7 +77,7 @@ modified: "2026-10-18"
 
 **关键词**：covetous hag / I can do without them
 
-**为什么这样写**：Barkus's willingness to trade Birch and Crow reveals his instrumental view of staff; "covetous hag" insults the Sifter while "I can do without them" treats people as disposable. This is Barkus's moral nadir in the chapter.
+**为什么这样写**：Barkus 愿意拿 Birch 和 Crow 去交换，暴露出他把员工当工具的视角；「贪婪的巫婆」是在辱骂 Sifter，而「我可以不要他们」则把人当成可弃之物。这是 Barkus 在本章道德上的最低点。
 
 **读者视角提示**：读者应把 this line 读作 Barkus's true nature—people are resources to him.
 
@@ -87,7 +87,7 @@ modified: "2026-10-18"
 
 **关键词**：bound by a contract / unviable
 
-**为什么这样写**：The Sifter's "bound by a contract" reveals Deerhaven's contract system extends beyond Oslin to the Bag Room's economy; "unviable" treats contract-bound humans as non-tradeable, establishing contract as protection. This is the chapter's key thematic line: contract = safety.
+**为什么这样写**：Sifter 说「他们受契约约束」，揭示 Deerhaven 的契约体系不只属于 Oslin，也延伸到 Bag Room 的经济；「不可用」把受契约约束的人判为不可交易，从而把契约确立为保护。这是本章的关键主题句：契约即安全。
 
 **读者视角提示**：读者应把 "bound by a contract" 记作 Deerhaven's protective mechanism; Moth's contract saved her from being traded.
 
@@ -97,7 +97,7 @@ modified: "2026-10-18"
 
 **关键词**：breaking a rule
 
-**为什么这样写**：Crow's question about "breaking a rule" suggests Deerhaven has unspoken social prohibitions; staff don't bond because the lodge's structure prevents it.
+**为什么这样写**：Crow 关于「破坏规则」的疑问暗示 Deerhaven 存在不成文的社交禁忌；员工之间无法亲近，是因为旅馆的结构本身不允许。
 
 **读者视角提示**：读者应把 this 读作 Deerhaven's social pathology.
 
@@ -107,7 +107,7 @@ modified: "2026-10-18"
 
 **关键词**：don't know each other's names
 
-**为什么这样写**：Moth's "we don't even know each other's names" reveals how isolated staff are despite proximity. The bond formed through shared suffering (Barkus's capture) breaks this isolation.
+**为什么这样写**：Moth 那句「我们甚至还不知道彼此的名字」揭示出员工虽然朝夕相处却何等隔绝。由共同受苦（被 Barkus 抓住）结成的纽带打破了这种隔绝。
 
 **读者视角提示**：读者应把 this 读作 the turning point; Barkus's capture created the first real bond among staff.
 
@@ -144,6 +144,3 @@ modified: "2026-10-18"
 ## 一句话总结
 
 本章完成。
-</content>
-<parameter name="path">
-notes/books/novels/the-winter-folk-by-jen-julian/ch04 the bag room.md

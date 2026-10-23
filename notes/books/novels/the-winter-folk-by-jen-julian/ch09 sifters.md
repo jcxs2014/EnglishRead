@@ -22,7 +22,7 @@ modified: "2026-10-18"
 
 **关键词**：old place / the one I sold
 
-**为什么这样写**：Moth's "old place" is understated; Martin's "the one I sold?" shows his partial knowledge of her past. The house's reappearance (unexpected) triggers Moth's "heart freezes"—the past intruding on present.
+**为什么这样写**：Moth 那句「我的老地方」说得轻描淡写；Martin 的「你卖的那个？」说明他对她的过去只知一部分。房子意外重现，触发了 Moth「心都冻住了」——过去侵入现在。
 
 **读者视角提示**：读者应把 house 读作 Moth's unresolved "want"; its reappearance signals the past is not finished.
 
@@ -32,7 +32,7 @@ modified: "2026-10-18"
 
 **关键词**：tropical / wouldn't bloom / wintertime
 
-**为什么这样写**：Cass's botanical correction challenges Moth's memory; "impossible" is the word Cass uses, which Moth feels as accusation. The moonflowers' year-round blooming was Winter Folk magic, but Moth can't explain this to Cass.
+**为什么这样写**：Cass 的植物学纠正质疑了 Moth 的记忆；「不可能」是 Cass 用的词，Moth 却把它听成指责。月光花四季常开本是 Winter Folk 的魔法，但 Moth 无法向 Cass 解释这一点。
 
 **读者视角提示**：读者应把 Cass's skepticism 读作 generational rupture; Moth's "impossible" claim is her Deerhaven secret.
 
@@ -42,7 +42,7 @@ modified: "2026-10-18"
 
 **关键词**：this is a vacation
 
-**为什么这样写**：Cass's perception cuts through Moth's cover story; "not why we're here" implies Moth has hidden motives. This mirrors Moth's own Deerhaven secrecy—she can't tell Cass about Winter Folk.
+**为什么这样写**：Cass 的直觉戳穿了 Moth 的托词；「不是我们来这里的原因」暗示 Moth 别有隐情。这与 Moth 自己对 Deerhaven 的隐瞒如出一辙——她不能把 Winter Folk 的事告诉 Cass。
 
 **读者视角提示**：读者应把 Cass 读作 Moth's mirror; her perceptiveness echoes Moth's own "instincts."
 
@@ -52,7 +52,7 @@ modified: "2026-10-18"
 
 **关键词**：ashamed to be from here / heavy and toxic / rides me like a fucking hag
 
-**为什么这样写**：Moth's confession is raw and self-destructive; "fucking hag" echoes Winter Folk's "hag" imagery (Sifters). The confession is also an attack—Moth weaponizes her shame. "Rides me at night" suggests possession.
+**为什么这样写**：Moth 的坦白赤裸而自毁；「他妈的巫婆」呼应了 Winter Folk 的「hag」意象（Sifters）。这场坦白同时也是攻击——Moth 把自己的羞耻当成了武器。「夜里骑着我」暗示被附身。
 
 **读者视角提示**：读者应把 this speech 读作 Moth's self-sabotage; she's both honest and cruel.
 
@@ -62,7 +62,7 @@ modified: "2026-10-18"
 
 **关键词**：Luna moth / messenger from the other side
 
-**为什么这样写**：The old woman's phrase echoes Moth's name and her mother's stories; "the other side" is folk terminology for Winter Folk's realm. The luna moth knife handle connects to Moth's identity.
+**为什么这样写**：老妇人的话呼应了 Moth 的名字和她母亲讲过的故事；「另一边」是民间对 Winter Folk 领域的说法。月神蛾形状的刀柄则把刀与 Moth 的身份连在一起。
 
 **读者视角提示**：读者应把 "messenger from the other side" 读作 the novel's thesis; Moth is literally a messenger from Deerhaven.
 
@@ -72,7 +72,7 @@ modified: "2026-10-18"
 
 **关键词**：Red Boy / Ash Holler
 
-**为什么这样写**："Red Boy" is the knife's name; "Ash Holler" is mentioned in connection with Red Boy (ch09/ch14); Barkus's family territory is not established in text. The knife's return in the flea market suggests it has agency (Sifter woman's "tends to show up wherever it's needed"). This is a major plot thread.
+**为什么这样写**：「Red Boy」是这把刀的名字；「Ash Holler」是与 Red Boy 相关联被提到的地方（第 09、14 章）；Barkus 家族的地盘在文本中并未确定。刀在跳蚤市场重新出现，暗示它有自己的意志（Sifter 女人说它「总会在需要的地方出现」）。这是一条重要的情节线索。
 
 **读者视角提示**：读者应把 Red Boy 读作 a returning threat; the knife has its own agenda.
 
@@ -82,27 +82,27 @@ modified: "2026-10-18"
 
 **关键词**：Your daughter / go find her
 
-**为什么这样写**：The Sifter woman's smile and "you might should" (Appalachian grammar) suggest she's more than a flea market vendor; her knowledge of Cass (who just left) implies supernatural awareness. "Go find her" is both warning and command.
+**为什么这样写**：Sifter 女人的微笑和「you might should」这种阿巴拉契亚语法说明她不只是个跳蚤市场摊贩；她知道 Cass（刚离开）的事，暗示她有超自然的感知。「去找她」既是警告也是命令。
 
 **读者视角提示**：读者应把 this woman 读作 a Sifter or Winter Folk echo; her "smiling" is unsettling.
 
 > **原句 9:** Yes, the moonflower vine is gone. Not even stumps remain. What kind of person would do that? Destroy a miracle, take down flowers that bloom all year in ice and chill.
 
-"'Yes, the moonflower vine is gone。Not even stumps remain。What kind of person would do that? Destroy a miracle, take down flowers that bloom all year in ice and chill。'（'Yes，moonflower vine is gone。Not even stumps remain。What kind of person would do that? Destroy a miracle，take down flowers that bloom all year in ice and chill。'）'"
+"'Yes, the moonflower vine is gone。Not even stumps remain。What kind of person would do that? Destroy a miracle, take down flowers that bloom all year in ice and chill。'（'是的，月光花藤不见了。连根桩都没留下。什么样的人会做这种事？毁掉一个奇迹，把在冰与寒中四季常开的花都弄倒。'）'"
 
 **关键词**：moonflower vine is gone / Destroy a miracle
 
-**为什么这样写**：The vine's destruction is described as "Destroy a miracle"; Moth's reaction ("What kind of person") shows her attachment. The absence of even stumps suggests deliberate, thorough removal—possibly by Winter Folk or the new owners.
+**为什么这样写**：藤蔓被毁被形容为「毁掉一个奇迹」；Moth 的反应（「什么样的人会」）显出她的眷恋。连根桩都不剩，说明是蓄意而彻底的清除——也许是 Winter Folk，也许是新主人所为。
 
 **读者视角提示**：读者应把 the missing vine 读作 Deerhaven's magic fading from the outside world; Moth's "miracle" language echoes her Deerhaven experience.
 
 > **原句 10:** The more I stare into it, the more I see pricks of starlight in the blackness, and I think I might tumble into it, and that will be how I find my way back to the other side.
 
-"'The more I stare into it, the more I see pricks of starlight in the blackness, and I think I might tumble into it, and that will be how I find my way back to the other side。'（'The more I stare into it，the more I see pricks of starlight in the blackness，and I think I might tumble into it，and that will be how I find my way back to the other side。'）'"
+"'The more I stare into it, the more I see pricks of starlight in the blackness, and I think I might tumble into it, and that will be how I find my way back to the other side。'（'我越往里看，越在黑里看见一点点的星光，我想我可能会跌进去，而那就会是我找到回去另一边的路的方式。'）'"
 
 **关键词**：pricks of starlight / tumble into it / find my way back to the other side
 
-**为什么这样写**：The hole in the ground becomes a portal echo (starlight = Bag Room's "distant fires"); "tumble into it" and "find my way back to the other side" explicitly state Moth's desire to return to Deerhaven. This is the chapter's key revelation.
+**为什么这样写**：地上的洞成了传送门的回声（星光＝袋子房间里的「远处的火」）；「跌进去」与「找到回去另一边的路」明确道出 Moth 想回 Deerhaven 的愿望。这是本章的关键揭示。
 
 **读者视角提示**：读者应把 the hole 读作 Moth's unconscious portal; her "find my way back" is the novel's thesis stated plainly.
 
@@ -139,6 +139,3 @@ modified: "2026-10-18"
 ## 一句话总结
 
 本章完成。
-</content>
-<parameter name="path">
-notes/books/novels/the-winter-folk-by-jen-julian/ch09 sifters.md
