@@ -1,0 +1,698 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch28",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch28_chapter_twenty_seven.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "办公室开场：半掩窗帘与纸堆",
+   "anchor": "Daylight streamed into Gazzie’s office through half-closed curtains",
+   "start": 20,
+   "end": 87,
+   "line": 9
+  },
+  {
+   "fact": "关在笼里的幼鳄「雕像」",
+   "anchor": "the caged hatchling statue still sat in the same spot",
+   "start": 123,
+   "end": 176,
+   "line": 9
+  },
+  {
+   "fact": "她怀疑自己记错：上次来嘴是闭着的",
+   "anchor": "its mouth had been closed during my prior visit but wrote off my memory as faulty",
+   "start": 197,
+   "end": 278,
+   "line": 9
+  },
+  {
+   "fact": "距听家族起源故事已三周多",
+   "anchor": "over three weeks since I’d heard our family’s origin story",
+   "start": 292,
+   "end": 350,
+   "line": 9
+  },
+  {
+   "fact": "Ida 画像：绿墙前的苍白皮肤",
+   "anchor": "In her portraits, Ida’s skin shimmered, pale against the green walls",
+   "start": 352,
+   "end": 420,
+   "line": 9
+  },
+  {
+   "fact": "金箔已修复、画匠小车收起",
+   "anchor": "The gold leaf on all her frames had been repaired, the artist’s cart tucked away somewhere.",
+   "start": 422,
+   "end": 513,
+   "line": 9
+  },
+  {
+   "fact": "Gazzie 戴着老花镜",
+   "anchor": "reading glasses perched on the end of her nose",
+   "start": 551,
+   "end": 597,
+   "line": 12
+  },
+  {
+   "fact": "校长办公室的自嘲",
+   "anchor": "I feel like I’ve been called to the principal’s office.",
+   "start": 672,
+   "end": 727,
+   "line": 18
+  },
+  {
+   "fact": "周一起就紧张见她",
+   "anchor": "Since waking from my nap Monday, I’d been nervous about seeing her",
+   "start": 731,
+   "end": 797,
+   "line": 21
+  },
+  {
+   "fact": "一周没来办公室、短信指挥除葛藤与藻",
+   "anchor": "I drove myself under texted instructions to clear out the kudzu and the algae",
+   "start": 867,
+   "end": 944,
+   "line": 21
+  },
+  {
+   "fact": "她和 Harrison「处理事情」",
+   "anchor": "while she and Harrison “dealt with things.”",
+   "start": 945,
+   "end": 988,
+   "line": 21
+  },
+  {
+   "fact": "Nova 的话越钻越深",
+   "anchor": "Nova’s words wormed themselves deeper into my mind",
+   "start": 1036,
+   "end": 1086,
+   "line": 21
+  },
+  {
+   "fact": "「她是说我祖母杀了人？」",
+   "anchor": "Was she saying my grandmother had killed a person?",
+   "start": 1088,
+   "end": 1138,
+   "line": 21
+  },
+  {
+   "fact": "暴力可想象、杀人另当别论",
+   "anchor": "I’d already known Gazzie was capable of violence, of dangerous crimes, but murder was something else entirely",
+   "start": 1139,
+   "end": 1248,
+   "line": 21
+  },
+  {
+   "fact": "Leon 最后的速写本行文与恐慌",
+   "anchor": "Hearing the accusation so soon after reading Uncle Leon’s last sketchbook entry had kicked my panic into overdrive",
+   "start": 1250,
+   "end": 1364,
+   "line": 21
+  },
+  {
+   "fact": "「她是说我祖母杀了 Leon 叔叔？」",
+   "anchor": "Was she saying my grandmother had killed Uncle Leon?",
+   "start": 1445,
+   "end": 1497,
+   "line": 21
+  },
+  {
+   "fact": "农场没连着别的死（鳄鱼除外）",
+   "anchor": "No other deaths—besides those of countless alligators—were connected to the farm",
+   "start": 1498,
+   "end": 1578,
+   "line": 21
+  },
+  {
+   "fact": "两长辈都说那是意外",
+   "anchor": "But both Gazzie and Aunt Virginia had told me that was an accident",
+   "start": 1598,
+   "end": 1664,
+   "line": 21
+  },
+  {
+   "fact": "Virginia 只撒过一次谎、重要的事不会撒",
+   "anchor": "surely she wouldn’t lie about something so important",
+   "start": 1711,
+   "end": 1763,
+   "line": 21
+  },
+  {
+   "fact": "「Nova 指的应该是鳄鱼」",
+   "anchor": "Nova must have been referring to the alligators.",
+   "start": 1835,
+   "end": 1883,
+   "line": 24
+  },
+  {
+   "fact": "自认变好了、不能被凶手带坏",
+   "anchor": "I had changed, become a better person. I couldn’t afford to be influenced by an actual murderer.",
+   "start": 1933,
+   "end": 2029,
+   "line": 24
+  },
+  {
+   "fact": "「We have her.」",
+   "anchor": "We have her.",
+   "start": 2068,
+   "end": 2080,
+   "line": 27
+  },
+  {
+   "fact": "HR 档案里的地址、回家找律师",
+   "anchor": "Her address was in her HR file. Apparently, she went home and lawyered up.",
+   "start": 2095,
+   "end": 2169,
+   "line": 33
+  },
+  {
+   "fact": "律师说与她无关",
+   "anchor": "Said she had nothing to do with any of it.",
+   "start": 2192,
+   "end": 2234,
+   "line": 33
+  },
+  {
+   "fact": "「那我们没抓到她」＋一周就这成果",
+   "anchor": "That’s all Gazzie had come up with after a full week away from the farm?",
+   "start": 2262,
+   "end": 2334,
+   "line": 36
+  },
+  {
+   "fact": "「只有 guilty 的人才请律师」",
+   "anchor": "Only guilty people hire lawyers. Harrison’s working with my contact at the police.",
+   "start": 2382,
+   "end": 2464,
+   "line": 39
+  },
+  {
+   "fact": "Harrison 名字引发一阵紧张",
+   "anchor": "Harrison’s name sent a bolt of nervous energy through me",
+   "start": 2468,
+   "end": 2524,
+   "line": 42
+  },
+  {
+   "fact": "她以为会直接审出帮凶（大概是 Joe）",
+   "anchor": "discover the accomplice—presumably Joe—but they hadn’t",
+   "start": 2636,
+   "end": 2690,
+   "line": 42
+  },
+  {
+   "fact": "她的罪清单：闯入＋损物",
+   "anchor": "Breaking and entering. Property damage.",
+   "start": 2835,
+   "end": 2874,
+   "line": 45
+  },
+  {
+   "fact": "Gazzie 的重罪论：attempted voluntary manslaughter",
+   "anchor": "Sounds like attempted voluntary manslaughter to me.",
+   "start": 3192,
+   "end": 3243,
+   "line": 48
+  },
+  {
+   "fact": "推人不告就不算，她不想告",
+   "anchor": "Pushing past me might have been assault, but only if I pressed charges, and I didn’t want to.",
+   "start": 3247,
+   "end": 3340,
+   "line": 51
+  },
+  {
+   "fact": "「Not a clue.」",
+   "anchor": "Not a clue.",
+   "start": 3429,
+   "end": 3440,
+   "line": 54
+  },
+  {
+   "fact": "她太不当回事",
+   "anchor": "She seemed a little too nonchalant.",
+   "start": 3444,
+   "end": 3479,
+   "line": 57
+  },
+  {
+   "fact": "「早晚让她开口」",
+   "anchor": "we’ll make her talk eventually",
+   "start": 3558,
+   "end": 3588,
+   "line": 60
+  },
+  {
+   "fact": "帮凶屡次胜过 Gazzie",
+   "anchor": "Given the accomplice had outsmarted Gazzie multiple times already, her confidence surprised me.",
+   "start": 3593,
+   "end": 3688,
+   "line": 63
+  },
+  {
+   "fact": "「农场永远会有问题」",
+   "anchor": "There will always be problems at the farm. We’ll deal with them as they come.",
+   "start": 3742,
+   "end": 3819,
+   "line": 66
+  },
+  {
+   "fact": "Ironheart 又来了：祖母仍信超自然元凶",
+   "anchor": "She still believed an imaginary creature was behind the vandalism, even after identifying an actual human culprit.",
+   "start": 3840,
+   "end": 3954,
+   "line": 69
+  },
+  {
+   "fact": "残余疑点清单＋「有脑子去忽略」",
+   "anchor": "I also had the good sense to ignore them",
+   "start": 4080,
+   "end": 4120,
+   "line": 69
+  },
+  {
+   "fact": "夏至派对：两周后",
+   "anchor": "I want to talk about the solstice party in two weeks.",
+   "start": 4232,
+   "end": 4285,
+   "line": 72
+  },
+  {
+   "fact": "继承人的宣布",
+   "anchor": "I’m announcing my heir.",
+   "start": 4475,
+   "end": 4498,
+   "line": 78
+  },
+  {
+   "fact": "「Harrison 是好孩子，但他不是家人」",
+   "anchor": "Harrison’s a good kid. Hard worker. Holds his liquor. But he’s not family.",
+   "start": 4625,
+   "end": 4699,
+   "line": 84
+  },
+  {
+   "fact": "「她要的是我」",
+   "anchor": "With those words, I knew: She wanted me.",
+   "start": 4720,
+   "end": 4760,
+   "line": 87
+  },
+  {
+   "fact": "颧骨上的吻的记忆",
+   "anchor": "My mind drifted back to his lips on my cheek",
+   "start": 4829,
+   "end": 4873,
+   "line": 90
+  },
+  {
+   "fact": "十年前一夜情之外第一个对她有意思的男人",
+   "anchor": "he was the first man who’d shown any interest in me, other than my one-night stand a decade ago",
+   "start": 5212,
+   "end": 5307,
+   "line": 90
+  },
+  {
+   "fact": "家族之外第一个真正注意到她的人",
+   "anchor": "he was the first person outside my family who’d really noticed me",
+   "start": 5325,
+   "end": 5390,
+   "line": 90
+  },
+  {
+   "fact": "「A real kiss.」",
+   "anchor": "A real kiss.",
+   "start": 5492,
+   "end": 5504,
+   "line": 93
+  },
+  {
+   "fact": "祖母会视恋情为分心",
+   "anchor": "She considered Aunt Virginia’s romance a distraction; she’d think the same of mine.",
+   "start": 5561,
+   "end": 5644,
+   "line": 96
+  },
+  {
+   "fact": "「他帮我上手」的软弱辩护",
+   "anchor": "“He’s helped me learn the ropes,” I said weakly.",
+   "start": 5701,
+   "end": 5749,
+   "line": 99
+  },
+  {
+   "fact": "周一的「real dedication」",
+   "anchor": "But now you’re here. And Monday, you showed real dedication.",
+   "start": 5753,
+   "end": 5813,
+   "line": 102
+  },
+  {
+   "fact": "「我想考虑你担任这个职位」",
+   "anchor": "I’d like to consider you for the position.",
+   "start": 5878,
+   "end": 5920,
+   "line": 108
+  },
+  {
+   "fact": "三周前听到会哭出来",
+   "anchor": "if she’d spoken them three weeks earlier, I’d have burst into tears",
+   "start": 5971,
+   "end": 6038,
+   "line": 111
+  },
+  {
+   "fact": "She’s a killer 再现",
+   "anchor": "She’s a killer.",
+   "start": 6128,
+   "end": 6143,
+   "line": 114
+  },
+  {
+   "fact": "不要客套、要她回答扛不扛得住",
+   "anchor": "I don’t want a thank-you or a mealymouthed compliment. I need you to tell me whether you can handle the job.",
+   "start": 6188,
+   "end": 6296,
+   "line": 120
+  },
+  {
+   "fact": "不是给继承权、只是给争的机会",
+   "anchor": "She wasn’t even offering me the inheritance, just a chance to try for it.",
+   "start": 6439,
+   "end": 6512,
+   "line": 123
+  },
+  {
+   "fact": "雕像慢慢张嘴、Gazzie 开笼",
+   "anchor": "the statue slowly opened its mouth",
+   "start": 6754,
+   "end": 6788,
+   "line": 129
+  },
+  {
+   "fact": "「It’s real,」我低声说",
+   "anchor": "It’s real,” I whispered.",
+   "start": 6995,
+   "end": 7019,
+   "line": 132
+  },
+  {
+   "fact": "「Of course it’s real.」",
+   "anchor": "Of course it’s real.",
+   "start": 7023,
+   "end": 7043,
+   "line": 135
+  },
+  {
+   "fact": "「我一直以为是雕像」",
+   "anchor": "I thought it was a statue.",
+   "start": 7048,
+   "end": 7074,
+   "line": 138
+  },
+  {
+   "fact": "「她饿了」",
+   "anchor": "She’s hungry.",
+   "start": 7095,
+   "end": 7108,
+   "line": 141
+  },
+  {
+   "fact": "Ziploc 袋里的死蟋蟀、四口吞下",
+   "anchor": "she extracted a dead thumb-sized cricket",
+   "start": 7181,
+   "end": 7221,
+   "line": 144
+  },
+  {
+   "fact": "老式马戏团笼子＋缺水缺灯的疑虑",
+   "anchor": "An old-fashioned circus cage, no less.",
+   "start": 7502,
+   "end": 7540,
+   "line": 147
+  },
+  {
+   "fact": "壁炉边的小车、水壶",
+   "anchor": "went to a cart by the fireplace",
+   "start": 7696,
+   "end": 7727,
+   "line": 153
+  },
+  {
+   "fact": "幼鳄冲她叫、Sassy",
+   "anchor": "chirping in what I can only describe as a demanding tone. Sassy.",
+   "start": 7953,
+   "end": 8017,
+   "line": 153
+  },
+  {
+   "fact": "壶悬笼口倾斜",
+   "anchor": "she held the kettle above the hatchling’s cage and tipped it.",
+   "start": 8219,
+   "end": 8280,
+   "line": 159
+  },
+  {
+   "fact": "眼前发黑冲起来",
+   "anchor": "Through the black film stretching across my vision, I saw a thin stream of water pour over the alligator.",
+   "start": 8339,
+   "end": 8444,
+   "line": 165
+  },
+  {
+   "fact": "「它们喜欢开水？」",
+   "anchor": "“They like boiling water?” I asked",
+   "start": 8699,
+   "end": 8733,
+   "line": 168
+  },
+  {
+   "fact": "「只是温水」＋ negligible senescence",
+   "anchor": "Did you know they don’t age? Negligible senescence, it’s called.",
+   "start": 8916,
+   "end": 8980,
+   "line": 171
+  },
+  {
+   "fact": "我们就是它们唯一的天敌（外加它们自己）",
+   "anchor": "And we’re their only predators. Well, us and themselves.",
+   "start": 9071,
+   "end": 9127,
+   "line": 171
+  },
+  {
+   "fact": "「它们互相吃」",
+   "anchor": "“They eat one another,” I confirmed, astonished.",
+   "start": 9131,
+   "end": 9179,
+   "line": 174
+  },
+  {
+   "fact": "「母亲连孩子都吃，尤其是幼崽」",
+   "anchor": "Mothers even eat their children. Babies, especially.",
+   "start": 9209,
+   "end": 9261,
+   "line": 177
+  },
+  {
+   "fact": "「先囚禁、再让它爱上笼子」",
+   "anchor": "Gazzie had confined the creature to a life of captivity, then made it love its cage.",
+   "start": 9367,
+   "end": 9451,
+   "line": 180
+  },
+  {
+   "fact": "「你扛得住这活吗？」",
+   "anchor": "Now, do you think you’re up to the job?",
+   "start": 9455,
+   "end": 9494,
+   "line": 183
+  },
+  {
+   "fact": "「我来这就是为了这份继承权」＋生来如此",
+   "anchor": "I’d come to Amelia Island for this inheritance, even if I hadn’t known about it yet.",
+   "start": 9569,
+   "end": 9653,
+   "line": 186
+  },
+  {
+   "fact": "「Yes.」",
+   "anchor": "“Yes,” I said as firmly as I could.",
+   "start": 9826,
+   "end": 9861,
+   "line": 189
+  },
+  {
+   "fact": "Ida 笑得更开、空气开始震颤",
+   "anchor": "I could have sworn her smile wasn’t that wide before. As I leaned forward, the air began to thrum.",
+   "start": 9903,
+   "end": 10001,
+   "line": 192
+  },
+  {
+   "fact": "「不是保证，我要看你多想要」",
+   "anchor": "Now, this is not a guarantee. I have to see how much you want it.",
+   "start": 10078,
+   "end": 10143,
+   "line": 195
+  },
+  {
+   "fact": "怒气绷成弓弦",
+   "anchor": "Anger snapped through me, tight as a bowstring.",
+   "start": 10147,
+   "end": 10194,
+   "line": 198
+  },
+  {
+   "fact": "不置可否地哼、隔笼抚幼鳄",
+   "anchor": "She hummed noncommittally, stroking the hatchling’s side through its cage bars.",
+   "start": 10221,
+   "end": 10300,
+   "line": 201
+  },
+  {
+   "fact": "赤手杀鳄的玩笑念头",
+   "anchor": "Did she want me to kill an alligator with my bare hands?",
+   "start": 10387,
+   "end": 10443,
+   "line": 204
+  },
+  {
+   "fact": "Savannah 的安全网",
+   "anchor": "I liked having that safety net, knowing I could return to Savannah if Gazzie threw me out.",
+   "start": 10795,
+   "end": 10885,
+   "line": 204
+  },
+  {
+   "fact": "「你愿意为我们牺牲什么？」",
+   "anchor": "But what are you willing to sacrifice for us? For the Greers?",
+   "start": 10955,
+   "end": 11016,
+   "line": 207
+  },
+  {
+   "fact": "Ida 催她服从＋太阳穴痛",
+   "anchor": "pain streaked through my temple, like someone was squeezing my head between their hands",
+   "start": 11076,
+   "end": 11163,
+   "line": 210
+  },
+  {
+   "fact": "全身的纤维都说这是错，嘴上仍答应",
+   "anchor": "Although every fiber of my being told me that I was making a mistake",
+   "start": 11298,
+   "end": 11366,
+   "line": 213
+  },
+  {
+   "fact": "一答应头就不痛了",
+   "anchor": "As soon as I agreed, my head stopped hurting.",
+   "start": 11740,
+   "end": 11785,
+   "line": 216
+  },
+  {
+   "fact": "私保计划＋会计全包",
+   "anchor": "You’ll be on our private plan. Our accountant will handle that and the apartment.",
+   "start": 11932,
+   "end": 12013,
+   "line": 222
+  },
+  {
+   "fact": "别的员工没保险的负罪感",
+   "anchor": "repressing a twinge of guilt that I’d have insurance while the other employees would not",
+   "start": 12062,
+   "end": 12150,
+   "line": 225
+  },
+  {
+   "fact": "「Ida 会高兴的」：未来时态",
+   "anchor": "“Ida will be pleased.”",
+   "start": 12263,
+   "end": 12285,
+   "line": 228
+  },
+  {
+   "fact": "曾曾祖母的黑眼与猎犬皮带",
+   "anchor": "She gripped the leashes of her hunting dogs, that wicked smile curling the edge of her lips.",
+   "start": 12459,
+   "end": 12551,
+   "line": 231
+  }
+ ],
+ "relations": [
+  [
+   "回收 ch26 Nova 的指控（killer）",
+   "She’s a killer.",
+   "L114"
+  ],
+  [
+   "回收 ch23 Leon 速写本最后行文",
+   "Uncle Leon’s last sketchbook entry",
+   "L21"
+  ],
+  [
+   "起源故事的时点回指（ch02）",
+   "our family’s origin story",
+   "L9"
+  ],
+  [
+   "Gazzie 与 Virginia 对「意外」口径一致",
+   "both Gazzie and Aunt Virginia had told me that was an accident",
+   "L21"
+  ],
+  [
+   "Virginia 撒过一次谎（前章旧账）",
+   "Aunt Virginia had lied to me once",
+   "L21"
+  ],
+  [
+   "Ida 的亲等：曾曾祖母",
+   "my great-great-grandmother’s black eyes",
+   "L231"
+  ],
+  [
+   "同步幼鳄／渗漏／藻／葛藤疑点群（ch 前文）",
+   "the synchronized juvenile alligators and the leaks and the algae and the kudzu",
+   "L69"
+  ],
+  [
+   "Harrison 颧骨之吻（上一章）",
+   "his lips on my cheek",
+   "L90"
+  ]
+ ],
+ "numbers": [
+  [
+   "距起源故事：三周多",
+   "over three weeks since I’d heard our family’s origin story",
+   "L9"
+  ],
+  [
+   "派对时距：两周后",
+   "in two weeks",
+   "L72"
+  ],
+  [
+   "相识时长：不到一个月",
+   "We’d known each other less than a month",
+   "L90"
+  ],
+  [
+   "上次恋爱/一夜情：十年前",
+   "my one-night stand a decade ago",
+   "L90"
+  ],
+  [
+   "吞蟋蟀口数：四口",
+   "devoured it in four snaps",
+   "L144"
+  ],
+  [
+   "笼底水深：半英寸",
+   "now filled with a half inch of water",
+   "L180"
+  ]
+ ]
+}
