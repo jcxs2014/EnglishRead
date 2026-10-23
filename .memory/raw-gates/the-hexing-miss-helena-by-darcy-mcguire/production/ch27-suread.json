@@ -1,0 +1,35 @@
+=== 素读清单：the-hexing-miss-helena-by-darcy-mcguire ch27（text 19192 字符）===
+  ✅ [  1283:  1371] 海伦娜先描过辛西娅心口那枚新月牙，再说自己一生靠誓约活着、想与她另立一桩新誓约；开口之前她先征得同意。  ←「‘I have lived my life by oat…」
+  ✅ [  1475:  1623] 海伦娜的誓词四句：以身爱她、以心寻她、以灵敬她、并让她的心在自己这里得享庇护，直到余生结束。  ←「‘Cynthia, I will love you wi…」
+  ✅ [  1626:  1741] 辛西娅记不起当年对休伯特念过的婚誓，原文把它写成顺从中重复的空话；而这一夜的誓约她绝不会忘记，并逐句回应  ←「Cynthia couldn’t remember th…」
+  ✅ [  4543:  4656] 辛西娅自嘲不是淑女，海伦娜低哑地回称她为自己的夫人、此刻与永远都是。  ←「Helena’s growl sent another …」
+  ✅ [  8132:  8381] 希金斯太太一进屋就打算去苏格兰场自首，说自己本该早点坦白、不能让别的女孩再受害；她的恐惧心声直接映进海伦  ←「‘My lady, please. You must k…」
+  ✅ [ 10009: 10211] 辛西娅以肯特莫尔侯爵夫人的最后一项权力给希金斯太太优厚退休金，并说那位讨厌的阿盖尔夫人永远配不上她这样的  ←「‘My last act as Marchioness …」
+  ✅ [ 13284: 13419] 舞会中央她想明白：自己是在为上流社会预备一种新的女士，一个不再在顺从的祭坛上自我牺牲的人。  ←「She was preparing the beau m…」
+  ✅ [ 18457: 18748] 露台上她以星光、月色与夜莺的旋律为证邀辛西娅共舞；原文写她们随只属于两人的音乐摇摆，哈姆雷特像哨兵守着这  ←「Helena’s fingers traced her …」
+
+已写入 .memory/raw-gates/the-hexing-miss-helena-by-darcy-mcguire/production/ch27-suread.json
+�t know what I was thinking. I won’t let anyone else suffer for my choices. I just couldn’t let him hurt another girl.’",
+   "start": 8132,
+   "end": 8381
+  },
+  {
+   "fact": "辛西娅以肯特莫尔侯爵夫人的最后一项权力给希金斯太太优厚退休金，并说那位讨厌的阿盖尔夫人永远配不上她这样的能人。",
+   "anchor": "‘My last act as Marchioness of Kentmore is to offer you a generous pension for all you’ve done in the service of this household. The horrid Lady Argyle could never appreciate someone of your excellence.",
+   "start": 10009,
+   "end": 10211
+  },
+  {
+   "fact": "舞会中央她想明白：自己是在为上流社会预备一种新的女士，一个不再在顺从的祭坛上自我牺牲的人。",
+   "anchor": "She was preparing the beau monde for a new kind of lady in their midst. One who no longer sacrificed herself on the altar of obedience.",
+   "start": 13284,
+   "end": 13419
+  },
+  {
+   "fact": "露台上她以星光、月色与夜莺的旋律为证邀辛西娅共舞；原文写她们随只属于两人的音乐摇摆，哈姆雷特像哨兵守着这两颗一同跳动的心。",
+   "anchor": "Helena’s fingers traced her cheek. ‘We have beauty and adventure, and endless nights together. And mornings. And afternoons. They will never understand such magic. And now, under these stars, witnessed by the moonlight, and to the melody of the nightingale, will you dance with me, my love?’",
+   "start": 18457,
+   "end": 18748
+  }
+ ]
+}
