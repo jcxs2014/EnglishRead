@@ -1,0 +1,716 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch11",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch11_chapter_ten.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "早餐自助餐摆在台面上（香肠／蛋／粗玉米粉）",
+   "anchor": "Aunt Virginia had set out a breakfast buffet on the counter, complete with sausage, eggs, and grits",
+   "start": 11,
+   "end": 110,
+   "line": 9
+  },
+  {
+   "fact": "她端了盘子，跟 Virginia 坐在与厨房相连的明亮通风房间里",
+   "anchor": "I grabbed a plate and joined her in a light-filled, breezy room connected to the kitchen",
+   "start": 112,
+   "end": 200,
+   "line": 9
+  },
+  {
+   "fact": "Virginia 正在给一盆紫色非洲堇浇水",
+   "anchor": "where she was watering a purple African violet",
+   "start": 202,
+   "end": 248,
+   "line": 9
+  },
+  {
+   "fact": "暖房既属于 Greer House 又不属于它",
+   "anchor": "The conservatory was part of Greer House, yet also apart from it",
+   "start": 250,
+   "end": 314,
+   "line": 9
+  },
+  {
+   "fact": "没有墙，由锻铁与玻璃窗构成围合",
+   "anchor": "the enclosure was framed by a combination of intricate wrought iron and glass windows",
+   "start": 334,
+   "end": 419,
+   "line": 9
+  },
+  {
+   "fact": "地面是黑白格瓷砖",
+   "anchor": "its floor was black-and-white checkered tile",
+   "start": 425,
+   "end": 469,
+   "line": 9
+  },
+  {
+   "fact": "暖房是 Virginia 的母亲为怕佛罗里达气候的植物建的",
+   "anchor": "it was built by her mother for plants too sensitive for Florida’s weather",
+   "start": 495,
+   "end": 568,
+   "line": 9
+  },
+  {
+   "fact": "她伤心地补一句：在里面也好不了多少，并摸另一株枯萎的植物",
+   "anchor": "“Though they barely do better in here,” she added sadly, fingering another wilting plant",
+   "start": 570,
+   "end": 658,
+   "line": 9
+  },
+  {
+   "fact": "她说了一句「这该死的房子」",
+   "anchor": "“This damn house.”",
+   "start": 660,
+   "end": 678,
+   "line": 9
+  },
+  {
+   "fact": "叙述者坐进黑白条纹坐垫的藤椅，喝冰茶、心不在焉地欣赏红色积水凤梨",
+   "anchor": "Settling into a rattan chair with a black-and-white-striped seat cushion",
+   "start": 681,
+   "end": 753,
+   "line": 12
+  },
+  {
+   "fact": "Virginia 细数下午要进城散步的安排",
+   "anchor": "listened to Aunt Virginia detail the stroll we’d take downtown that afternoon",
+   "start": 815,
+   "end": 892,
+   "line": 12
+  },
+  {
+   "fact": "她本该问 Gazzie 不肯答的那些问题（农场与衣橱上的字）",
+   "anchor": "I should have asked her the questions Gazzie wouldn’t answer about the farm and the ominous words in Mama’s closet",
+   "start": 894,
+   "end": 1008,
+   "line": 12
+  },
+  {
+   "fact": "她不想让 Gazzie 听见、再次把她冻在外面",
+   "anchor": "I didn’t want Gazzie to overhear and freeze me out again",
+   "start": 1014,
+   "end": 1070,
+   "line": 12
+  },
+  {
+   "fact": "她需要找到能多与她相处的办法",
+   "anchor": "I needed to find a way to spend more time with her",
+   "start": 1072,
+   "end": 1122,
+   "line": 12
+  },
+  {
+   "fact": "问题一成形答案就咔哒落位",
+   "anchor": "The answer clicked as soon as the question formed",
+   "start": 1126,
+   "end": 1175,
+   "line": 15
+  },
+  {
+   "fact": "她脱口而出想在农场干活",
+   "anchor": "“I’d like to work at the farm while I’m here,” I blurted out",
+   "start": 1179,
+   "end": 1239,
+   "line": 18
+  },
+  {
+   "fact": "Virginia 扬眉、唇边一丝笑",
+   "anchor": "Aunt Virginia raised her eyebrows, the hint of a smile on her lips",
+   "start": 1243,
+   "end": 1309,
+   "line": 21
+  },
+  {
+   "fact": "她谎称今早 Gazzie 跟她多讲了农场，她想看看真实的样子",
+   "anchor": "“Gazzie told me more about it this morning, and I want to see what it’s like. For real.",
+   "start": 1313,
+   "end": 1400,
+   "line": 24
+  },
+  {
+   "fact": "她底气不足地补：这是她的遗产",
+   "anchor": "At Aunt Virginia’s continued silence, I added, less certainly, “Since it’s my heritage and all.”",
+   "start": 1402,
+   "end": 1498,
+   "line": 24
+  },
+  {
+   "fact": "Virginia 把洒水壶放在格砖地上、坐进旁边的椅子、急切前倾",
+   "anchor": "She set her watering can on the checkered floor and slid into the chair beside mine, leaning forward eagerly",
+   "start": 1501,
+   "end": 1609,
+   "line": 27
+  },
+  {
+   "fact": "她说很高兴听她这么说",
+   "anchor": "“I’m so glad to hear you say that.”",
+   "start": 1611,
+   "end": 1646,
+   "line": 27
+  },
+  {
+   "fact": "叙述者点明：她原来一直在偷偷盼着这句",
+   "anchor": "Apparently, she’d been secretly hoping for this",
+   "start": 1649,
+   "end": 1696,
+   "line": 30
+  },
+  {
+   "fact": "她问 Gazzie 会不会允许",
+   "anchor": "“Do you think she’ll let me?”",
+   "start": 1698,
+   "end": 1727,
+   "line": 30
+  },
+  {
+   "fact": "Virginia 打包票：她会允许，别担心",
+   "anchor": "“Oh, she’ll let you. Don’t you worry.”",
+   "start": 1730,
+   "end": 1768,
+   "line": 33
+  },
+  {
+   "fact": "在叙述者眉眼大开时 Virginia 清了清嗓子说要坦白一件事",
+   "anchor": "As I beamed, Aunt Virginia cleared her throat. “But I do want to confess something.”",
+   "start": 1769,
+   "end": 1853,
+   "line": 33
+  },
+  {
+   "fact": "叙述者皮肤因期待而发麻",
+   "anchor": "My skin prickled with anticipation",
+   "start": 1864,
+   "end": 1898,
+   "line": 36
+  },
+  {
+   "fact": "Virginia 承认自己一直没有完全坦白",
+   "anchor": "“I haven’t been entirely honest with you,”",
+   "start": 1902,
+   "end": 1944,
+   "line": 39
+  },
+  {
+   "fact": "她说话时目光跟着一只从橡树俯冲下来的 mockingbird",
+   "anchor": "eyes tracking a mockingbird as it swooped down from the oak tree outside",
+   "start": 1960,
+   "end": 2032,
+   "line": 39
+  },
+  {
+   "fact": "她解释自己一直紧张、怕这通折腾把她吓跑",
+   "anchor": "Worried this whole hullabaloo might scare you off.",
+   "start": 2098,
+   "end": 2148,
+   "line": 39
+  },
+  {
+   "fact": "叙述者想到 Gazzie 提过的农场麻烦，猜比她暗示的严重",
+   "anchor": "My mind flitted to the farm problems Gazzie had mentioned. They must be more serious than she’d implied",
+   "start": 2152,
+   "end": 2255,
+   "line": 42
+  },
+  {
+   "fact": "坦白内容第一条：那封信是我写给你母亲的",
+   "anchor": "“First off,” she said, “I wrote that letter to your mother.”",
+   "start": 2279,
+   "end": 2339,
+   "line": 45
+  },
+  {
+   "fact": "叙述者没想到，并问是 Gazzie 签的字吗",
+   "anchor": "I hadn’t expected that. “And Gazzie signed it?”",
+   "start": 2342,
+   "end": 2389,
+   "line": 48
+  },
+  {
+   "fact": "Virginia：同住一辈子就把一个人的签名认得很熟了",
+   "anchor": "“After a life in the same house, you get to know a person’s signature pretty well.”",
+   "start": 2392,
+   "end": 2475,
+   "line": 51
+  },
+  {
+   "fact": "叙述者归纳：她伪造了签名、撒了谎",
+   "anchor": "She’d forged it. Lied.",
+   "start": 2478,
+   "end": 2500,
+   "line": 54
+  },
+  {
+   "fact": "所以信是让妈妈发邮件给 Virginia 而非 Gazzie",
+   "anchor": "That’s why the letter had asked Mama to email Aunt Virginia, not Gazzie",
+   "start": 2501,
+   "end": 2572,
+   "line": 54
+  },
+  {
+   "fact": "所以信里说 Gazzie 不看邮件也不接电话",
+   "anchor": "Why it had claimed Gazzie didn’t check her email or answer phone calls",
+   "start": 2574,
+   "end": 2644,
+   "line": 54
+  },
+  {
+   "fact": "Virginia 想在妈妈真正与 Greer 家重逢前先把谎铺好",
+   "anchor": "Aunt Virginia had wanted to get ahead of the lie before Mama actually reunited with the Greers.",
+   "start": 2646,
+   "end": 2741,
+   "line": 54
+  },
+  {
+   "fact": "愤怒与困惑同时她承认自己发邮件时也撒过谎",
+   "anchor": "Anger and confusion twisted inside me, even as part of me acknowledged I’d lied when I emailed her",
+   "start": 2744,
+   "end": 2842,
+   "line": 57
+  },
+  {
+   "fact": "她那封邮件说的是妈妈本意要让她们相见",
+   "anchor": "saying Mama had intended for us to meet",
+   "start": 2844,
+   "end": 2883,
+   "line": 57
+  },
+  {
+   "fact": "但她仍是被 Virginia 操纵着来相见的",
+   "anchor": "Still—she’d manipulated me into meeting her.",
+   "start": 2885,
+   "end": 2929,
+   "line": 57
+  },
+  {
+   "fact": "她的目光落在积水凤梨上、手指发痒想抓花盆",
+   "anchor": "My eyes fell on the bromeliad, my fingers itching to grab the pot",
+   "start": 2932,
+   "end": 2997,
+   "line": 60
+  },
+  {
+   "fact": "想象把盆砸向 Virginia 的头、陶土在她颧骨上碎成千片",
+   "anchor": "I could hurl it at Aunt Virginia’s head, watch the terracotta shatter into a thousand sharp pieces against her cheekbone",
+   "start": 2999,
+   "end": 3119,
+   "line": 60
+  },
+  {
+   "fact": "她僵住、眨掉那个画面，自问怎么了",
+   "anchor": "I froze, blinked away the image. What was wrong with me?",
+   "start": 3123,
+   "end": 3179,
+   "line": 63
+  },
+  {
+   "fact": "Virginia 没注意到，因坦白难为情而把脸别开",
+   "anchor": "She didn’t notice. Embarrassed by her confession, she’d looked away.",
+   "start": 3182,
+   "end": 3250,
+   "line": 66
+  },
+  {
+   "fact": "Virginia 说知道 Gazzie 的签名能引起 Caroline 注意、Gazzie 也想见她",
+   "anchor": "I knew Gazzie’s signature would get Caroline’s attention and that Gazzie would love to see her if I could just get her here.",
+   "start": 3252,
+   "end": 3376,
+   "line": 66
+  },
+  {
+   "fact": "Virginia 说没看出这有什么伤害、希望别太生她的气",
+   "anchor": "I didn’t see the harm in it, and I hope you aren’t too mad at me, honey.",
+   "start": 3377,
+   "end": 3449,
+   "line": 66
+  },
+  {
+   "fact": "叙述者答「没事」，愤怒已被羞耻压过",
+   "anchor": "“It’s okay,” I replied, anger already overcome by shame.",
+   "start": 3453,
+   "end": 3509,
+   "line": 69
+  },
+  {
+   "fact": "她把手覆在 Virginia 手上握住，急着安慰她",
+   "anchor": "I placed my hand on hers and squeezed it, eager to console her.",
+   "start": 3510,
+   "end": 3573,
+   "line": 69
+  },
+  {
+   "fact": "她自陈此举是为了证明自己是善良宽容的人",
+   "anchor": "To prove I was a kind, forgiving person.",
+   "start": 3574,
+   "end": 3614,
+   "line": 69
+  },
+  {
+   "fact": "Virginia 把手抽回、把辫子翻到肩上、开始摩挲缎带",
+   "anchor": "Aunt Virginia pulled her hand out from under mine, flipped her braid over her shoulder, and began to stroke the ribbon",
+   "start": 3617,
+   "end": 3735,
+   "line": 72
+  },
+  {
+   "fact": "话头转向：Gazzie 今年要在至日派对上做点不一样的",
+   "anchor": "“The thing is, Gazzie wants to do something different at the solstice party this year.”",
+   "start": 3737,
+   "end": 3824,
+   "line": 72
+  },
+  {
+   "fact": "每年夏至庆祝生意创立",
+   "anchor": "Every summer solstice, we celebrate the business’s founding.",
+   "start": 3860,
+   "end": 3920,
+   "line": 72
+  },
+  {
+   "fact": "那是 Ida 的纪念日（被截断）",
+   "anchor": "It’s the anniversary of Ida—",
+   "start": 3921,
+   "end": 3949,
+   "line": 72
+  },
+  {
+   "fact": "叙述者接完：射杀 Ironheart，并说这是 Gazzie 告诉她的",
+   "anchor": "“Shooting Ironheart,” I finished, showing off my new knowledge. “Gazzie told me.”",
+   "start": 3953,
+   "end": 4034,
+   "line": 75
+  },
+  {
+   "fact": "那是个大日子",
+   "anchor": "“It’s a real big time.",
+   "start": 4049,
+   "end": 4071,
+   "line": 78
+  },
+  {
+   "fact": "派对当晚房子一带的天气总是配合",
+   "anchor": "the weather always behaves around the house the evening of",
+   "start": 4081,
+   "end": 4139,
+   "line": 78
+  },
+  {
+   "fact": "弦乐四重奏演奏 Jimmy Buffett、小猪香肠、鱼子酱、有时整猪烤肉、总是很多酒",
+   "anchor": "We have a string quartet playing Jimmy Buffett, pigs in blankets, caviar, sometimes a hog roast, always a lot of booze.",
+   "start": 4141,
+   "end": 4260,
+   "line": 78
+  },
+  {
+   "fact": "她每年发誓不再喝却一有客人就灌 hurricanes",
+   "anchor": "Every year I swear I’ll never drink again, yet I find myself downing hurricanes soon as the first guest arrives.",
+   "start": 4261,
+   "end": 4373,
+   "line": 78
+  },
+  {
+   "fact": "她想象自己穿碎花连衣裙配高跟鞋、手拿 margarita",
+   "anchor": "me in a flowery sundress and matching heels, margarita in hand",
+   "start": 4399,
+   "end": 4461,
+   "line": 81
+  },
+  {
+   "fact": "想象 Gazzie 把她介绍给自己的所有朋友",
+   "anchor": "Gazzie introducing me to all her friends",
+   "start": 4463,
+   "end": 4503,
+   "line": 81
+  },
+  {
+   "fact": "她问今年有什么不一样",
+   "anchor": "“What’s different about this year?” I asked.",
+   "start": 4507,
+   "end": 4551,
+   "line": 84
+  },
+  {
+   "fact": "Virginia：你祖母不是要退休——她永远不会退休，老顽固——但她要公开指定继承人",
+   "anchor": "Your grandmother isn’t going to retire—she’ll never retire, the old donkey—but she wants to name an heir. Publicly.",
+   "start": 4555,
+   "end": 4670,
+   "line": 87
+  },
+  {
+   "fact": "Virginia 提醒她第一次一起吃饭时提过这事",
+   "anchor": "She mentioned it during our first dinner together, remember?",
+   "start": 4671,
+   "end": 4731,
+   "line": 87
+  },
+  {
+   "fact": "Virginia 说她自己心里有别人选",
+   "anchor": "Well, I have someone different in mind.",
+   "start": 4732,
+   "end": 4771,
+   "line": 87
+  },
+  {
+   "fact": "叙述者立刻表态支持，尽管没听懂重点",
+   "anchor": "“You have my support,” I said earnestly, though I didn’t understand the point.",
+   "start": 4775,
+   "end": 4853,
+   "line": 90
+  },
+  {
+   "fact": "她估计 Virginia 不少于七十岁",
+   "anchor": "Aunt Virginia couldn’t be younger than seventy.",
+   "start": 4854,
+   "end": 4901,
+   "line": 90
+  },
+  {
+   "fact": "她算出就算接掌也最多在 Gazzie 死后管几年",
+   "anchor": "She’d be in charge for, at most, a few years after Gazzie’s death.",
+   "start": 4902,
+   "end": 4968,
+   "line": 90
+  },
+  {
+   "fact": "她认为 Gazzie 已经铁了心选定了谁",
+   "anchor": "Plus, Gazzie seemed set on whomever she’d already picked.",
+   "start": 4969,
+   "end": 5026,
+   "line": 90
+  },
+  {
+   "fact": "Virginia 大笑：主啊别、你拿枪逼我接我都不接",
+   "anchor": "“Lord, no, Dartrine. You couldn’t force me to take over at gunpoint.”",
+   "start": 5100,
+   "end": 5169,
+   "line": 93
+  },
+  {
+   "fact": "她一哆嗦，辫子咚地砸在胸前",
+   "anchor": "She shuddered, her braid falling to her chest with a solid thump.",
+   "start": 5170,
+   "end": 5235,
+   "line": 93
+  },
+  {
+   "fact": "这不是关于我",
+   "anchor": "“This isn’t about me.",
+   "start": 5236,
+   "end": 5257,
+   "line": 93
+  },
+  {
+   "fact": "自 1800 年代末创立起这就是家族生意",
+   "anchor": "ours is a family business and has been since its founding in the late 1800s",
+   "start": 5268,
+   "end": 5343,
+   "line": 93
+  },
+  {
+   "fact": "农场与宅子经三代 Greer 女性传下",
+   "anchor": "The farm and house have passed down through three generations of Greer women",
+   "start": 5345,
+   "end": 5421,
+   "line": 93
+  },
+  {
+   "fact": "她无法想象它脱离她们的掌控",
+   "anchor": "I can’t imagine it falling out of our control.”",
+   "start": 5427,
+   "end": 5474,
+   "line": 93
+  },
+  {
+   "fact": "叙述者忽然懂了，问是不是想让她来接",
+   "anchor": "Suddenly, I understood. “You’re saying you want me to—",
+   "start": 5477,
+   "end": 5531,
+   "line": 96
+  },
+  {
+   "fact": "Virginia：本指望她母亲接，现在轮到你",
+   "anchor": "“I’d hoped your mother might take over. But now, it’s up to you.”",
+   "start": 5535,
+   "end": 5600,
+   "line": 99
+  },
+  {
+   "fact": "两只松鼠在外面的露台上赛跑",
+   "anchor": "Two squirrels raced across the patio outside.",
+   "start": 5603,
+   "end": 5648,
+   "line": 102
+  },
+  {
+   "fact": "Virginia 目送它们；叙述者又困惑又兴奋",
+   "anchor": "Aunt Virginia gazed after them while I processed her words, bewildered but excited.",
+   "start": 5649,
+   "end": 5732,
+   "line": 102
+  },
+  {
+   "fact": "她曾幻想从 HR 经理一路升到总监、日后搬去亚特兰大／夏洛特／华盛顿特区的营利公司",
+   "anchor": "I’d daydreamed about working my way up from HR manager to director, one day moving to a for-profit business in Atlanta or Charlotte or DC.",
+   "start": 5733,
+   "end": 5871,
+   "line": 102
+  },
+  {
+   "fact": "但作为已有生意的主人与 Greer 财富的继承人，她不必为安全感把身体耗干",
+   "anchor": "as the owner of an established business and heir to the Greers’ wealth, I wouldn’t have to run my poorly functioning body into the ground for security",
+   "start": 5876,
+   "end": 6026,
+   "line": 102
+  },
+  {
+   "fact": "她问那已经选定的继承人怎么办",
+   "anchor": "“But what about the heir she’s already chosen?” I asked.",
+   "start": 6030,
+   "end": 6086,
+   "line": 105
+  },
+  {
+   "fact": "Virginia 坚决地说外人继承她受不了、连 Harrison 也不行",
+   "anchor": "“An outsider inheriting doesn’t sit right with me,” Aunt Virginia said resolutely, straightening in the chair. “Not even Harrison.”",
+   "start": 6089,
+   "end": 6220,
+   "line": 108
+  },
+  {
+   "fact": "这个名字像钢墙一样撞上来",
+   "anchor": "His name hit me like a steel wall.",
+   "start": 6223,
+   "end": 6257,
+   "line": 111
+  },
+  {
+   "fact": "于是他就是 Gazzie 的既定继承人",
+   "anchor": "So he was Gazzie’s heir apparent.",
+   "start": 6274,
+   "end": 6307,
+   "line": 114
+  },
+  {
+   "fact": "难怪第一天他在宅子里逗留",
+   "anchor": "No wonder he’d lingered at the house that first day.",
+   "start": 6308,
+   "end": 6360,
+   "line": 114
+  },
+  {
+   "fact": "难怪 Gazzie 靠他管理农场里那桩不知所谓的事",
+   "anchor": "No wonder Gazzie relied on him to manage whatever the hell was going on at the farm",
+   "start": 6361,
+   "end": 6444,
+   "line": 114
+  },
+  {
+   "fact": "难怪他一见面就讨厌她；他和 Gazzie 一样以为她为遗产而来",
+   "anchor": "he, like Gazzie, had assumed I’d come to Florida for the inheritance.",
+   "start": 6493,
+   "end": 6562,
+   "line": 114
+  },
+  {
+   "fact": "在他眼里她是个闯入者",
+   "anchor": "To him, I was an interloper.",
+   "start": 6563,
+   "end": 6591,
+   "line": 114
+  },
+  {
+   "fact": "她承认他并不全错、心往下沉",
+   "anchor": "And he wasn’t entirely wrong, I thought, stomach sinking.",
+   "start": 6592,
+   "end": 6649,
+   "line": 114
+  },
+  {
+   "fact": "Virginia 让她在农场尽力了解这门生意",
+   "anchor": "do your best to get to know the business.",
+   "start": 6726,
+   "end": 6767,
+   "line": 117
+  },
+  {
+   "fact": "她一有能力 Gazzie 就会改主意",
+   "anchor": "She’ll change her mind once she sees you’re capable.”",
+   "start": 6768,
+   "end": 6821,
+   "line": 117
+  },
+  {
+   "fact": "叙述者总结：要她在至日前学完整门生意来赢过 Gazzie",
+   "anchor": "“You want me to learn the entire business before solstice. To win over Gazzie.”",
+   "start": 6824,
+   "end": 6903,
+   "line": 120
+  },
+  {
+   "fact": "Virginia：只要让 Gazzie 看到你愿意学；尽管她有抵触，她是——（找词）家庭观念重的",
+   "anchor": "Just show Gazzie you’re willing to learn. Despite her resistance, she’s—” Aunt Virginia searched for the right word. “Family oriented.",
+   "start": 6907,
+   "end": 7041,
+   "line": 123
+  },
+  {
+   "fact": "这是她的机会：永久职位、永久生活、一个（有朝一日）爱她的家",
+   "anchor": "This was my chance. A permanent position, a permanent life, a family that loved me—or would love me one day, I hoped.",
+   "start": 7045,
+   "end": 7162,
+   "line": 126
+  },
+  {
+   "fact": "她说她干了，气喘吁吁",
+   "anchor": "“I’m in,” I said breathlessly.",
+   "start": 7190,
+   "end": 7220,
+   "line": 129
+  },
+  {
+   "fact": "Virginia：好，你明天开始",
+   "anchor": "“Good,” she replied. “You’ll start tomorrow.”",
+   "start": 7223,
+   "end": 7268,
+   "line": 132
+  }
+ ],
+ "relations": [
+  [
+   "Virginia 与叙述者：姑侄／姨妈（本章以 Aunt Virginia 相称，且她叫叙述者 honey）",
+   null
+  ],
+  [
+   "Caroline＝Mama 的名字，本章在 Virginia 口中第一次出现",
+   "I knew Gazzie’s signature would get Caroline’s attention"
+  ],
+  [
+   "Dartrine＝叙述者的全名，本章由 Virginia 叫出",
+   "Lord, no, Dartrine"
+  ],
+  [
+   "Harrison：Virginia 称他是「外人」，叙述者推定他是 Gazzie 的既定继承人",
+   "Not even Harrison"
+  ],
+  [
+   "Ironheart：叙述者用 ch05／ch08 得来的知识替 Virginia 接话",
+   "Shooting Ironheart,” I finished"
+  ],
+  [
+   "Solstice 派对：庆祝生意创立、Ida 射杀 Ironheart 的周年",
+   "we celebrate the business’s founding"
+  ]
+ ],
+ "numbers": {
+  "三辈": "three generations of Greer women",
+  "1800年代末": "founding in the late 1800s",
+  "七十岁下限（叙述者估计）": "couldn’t be younger than seventy",
+  "最多几年": "at most, a few years",
+  "千片": "a thousand sharp pieces",
+  "四重奏": "a string quartet",
+  "两只松鼠": "Two squirrels",
+  "早餐三样": "sausage, eggs, and grits"
+ }
+}

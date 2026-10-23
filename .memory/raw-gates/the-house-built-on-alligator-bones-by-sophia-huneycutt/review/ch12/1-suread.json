@@ -1,0 +1,612 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch12",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch12_chapter_eleven.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "第二天早晨 Gazzie 在 SUV 旁等她，一句抱怨都没有",
+   "anchor": "Gazzie met me by her SUV the next morning without a word of complaint",
+   "start": 30,
+   "end": 99,
+   "line": 9
+  },
+  {
+   "fact": "她以为昨夜那场相处比自己想的更有效",
+   "anchor": "I assumed our bonding session had a stronger effect than I’d thought",
+   "start": 101,
+   "end": 169,
+   "line": 9
+  },
+  {
+   "fact": "到场时 Harrison 俯在前台，与 Nova 深谈",
+   "anchor": "Harrison was leaning over the front desk, deep in conversation with Nova",
+   "start": 200,
+   "end": 272,
+   "line": 9
+  },
+  {
+   "fact": "两人停下、转身打量她们",
+   "anchor": "they stopped talking and turned to appraise us",
+   "start": 291,
+   "end": 337,
+   "line": 9
+  },
+  {
+   "fact": "Gazzie 只作职务介绍：Nova 记得 Dart、把两人互相报名",
+   "anchor": "“Nova, you remember Dart. Harrison, this is Dart. Dart, Harrison.”",
+   "start": 366,
+   "end": 432,
+   "line": 12
+  },
+  {
+   "fact": "她僵硬地说「我们见过」",
+   "anchor": "“We’ve met,” I said stiffly",
+   "start": 435,
+   "end": 462,
+   "line": 15
+  },
+  {
+   "fact": "Harrison 补充「只是 briefly」",
+   "anchor": "“Briefly,” Harrison clarified",
+   "start": 466,
+   "end": 495,
+   "line": 18
+  },
+  {
+   "fact": "Gazzie 宣布：他替她管农场，他说的算",
+   "anchor": "“He manages the farm for me. What he says goes.”",
+   "start": 520,
+   "end": 568,
+   "line": 21
+  },
+  {
+   "fact": "她点头装作只是搭车来、不是来打乱现有秩序",
+   "anchor": "I nodded, like I was just along for the ride, like I wasn’t here to upend the current order of things",
+   "start": 571,
+   "end": 672,
+   "line": 24
+  },
+  {
+   "fact": "Gazzie 看不见时 Harrison 对她冷笑",
+   "anchor": "Out of Gazzie’s view, Harrison smirked at me",
+   "start": 674,
+   "end": 718,
+   "line": 24
+  },
+  {
+   "fact": "她有种下沉的预感：他不会让她好过",
+   "anchor": "I had the sinking suspicion he wouldn’t make this easy",
+   "start": 724,
+   "end": 778,
+   "line": 24
+  },
+  {
+   "fact": "她没忍住也眯眼回瞪",
+   "anchor": "Before I could repress the urge, I narrowed my eyes at him",
+   "start": 780,
+   "end": 838,
+   "line": 24
+  },
+  {
+   "fact": "Gazzie 仰头把她的注意力引开",
+   "anchor": "Gazzie tilted her face toward the ceiling, redirecting my attention",
+   "start": 842,
+   "end": 909,
+   "line": 27
+  },
+  {
+   "fact": "天花板上一条约十英寸的裂缝",
+   "anchor": "I followed her line of sight to a crack about ten inches long",
+   "start": 911,
+   "end": 972,
+   "line": 27
+  },
+  {
+   "fact": "一滴水穿过裂缝落在 Gazzie 脚边、又一滴",
+   "anchor": "A bead of water dripped through, landing at her feet, then another",
+   "start": 974,
+   "end": 1040,
+   "line": 27
+  },
+  {
+   "fact": "几秒内变成稳定水流，仿佛她的注意让漏势变大",
+   "anchor": "Within seconds, it was a steady stream, as though her attention had made it worse",
+   "start": 1042,
+   "end": 1123,
+   "line": 27
+  },
+  {
+   "fact": "Gazzie 骂了一句 Goddammit",
+   "anchor": "“Goddammit,” she groaned",
+   "start": 1127,
+   "end": 1151,
+   "line": 30
+  },
+  {
+   "fact": "Harrison 说昨夜雨下得不小",
+   "anchor": "“Rained pretty heavy last night,” Harrison said",
+   "start": 1155,
+   "end": 1202,
+   "line": 33
+  },
+  {
+   "fact": "Nova 伸长脖子看，问休息室那道裂是否相关",
+   "anchor": "“Think the crack in the break room’s related?”",
+   "start": 1249,
+   "end": 1295,
+   "line": 36
+  },
+  {
+   "fact": "她判定屋顶漏水是常态问题，就像藻类",
+   "anchor": "Roof leaks, I decided, must be a recurring problem, like the algae",
+   "start": 1298,
+   "end": 1364,
+   "line": 39
+  },
+  {
+   "fact": "办公室并不破败，反而一尘不染、前台与文件柜保养良好",
+   "anchor": "It wasn’t run-down; it was spotless, the front desk and filing cabinets well-kept",
+   "start": 1397,
+   "end": 1478,
+   "line": 39
+  },
+  {
+   "fact": "她觉得自然就是要来搅这处产业",
+   "anchor": "Nature just seemed intent on interfering with the property.",
+   "start": 1480,
+   "end": 1539,
+   "line": 39
+  },
+  {
+   "fact": "Gazzie 命令 plumbing 之后叫屋顶工，还在保修期内",
+   "anchor": "“Call the roofers after the plumbers come by,” Gazzie snapped. “We’re under warranty.”",
+   "start": 1542,
+   "end": 1628,
+   "line": 42
+  },
+  {
+   "fact": "Harrison 顺口答「On it」",
+   "anchor": "“On it,” Harrison said smoothly",
+   "start": 1631,
+   "end": 1662,
+   "line": 45
+  },
+  {
+   "fact": "她在心里骂马屁精、翻白眼，他抿嘴憋笑",
+   "anchor": "Suck-up. I rolled my eyes, and he pursed his lips, attempting to hide another smirk.",
+   "start": 1666,
+   "end": 1750,
+   "line": 48
+  },
+  {
+   "fact": "Gazzie 没察觉两人的交锋，把眼镜推回头发里",
+   "anchor": "“Good,” Gazzie said, oblivious to our exchange. Pushing her glasses into her hair, she continued.",
+   "start": 1753,
+   "end": 1850,
+   "line": 51
+  },
+  {
+   "fact": "她宣布 Dart 自愿把档案数字化",
+   "anchor": "“In the meantime, Dart has volunteered to digitize our files.”",
+   "start": 1851,
+   "end": 1913,
+   "line": 51
+  },
+  {
+   "fact": "她忍不住发出一声抗议的小声音",
+   "anchor": "Before I could stop myself, I made a little noise of protest.",
+   "start": 1916,
+   "end": 1977,
+   "line": 54
+  },
+  {
+   "fact": "昨天 Gazzie 敞开后她本指望能跟着她学农场",
+   "anchor": "After the way she’d opened up yesterday, I’d hoped she’d let me shadow her, learn more about the farm.",
+   "start": 1978,
+   "end": 2080,
+   "line": 54
+  },
+  {
+   "fact": "Nova 复述她的想法般反问「Really?」，语气毫无起伏",
+   "anchor": "“Really?” Nova asked, echoing my thoughts. She spoke without inflection.",
+   "start": 2083,
+   "end": 2155,
+   "line": 57
+  },
+  {
+   "fact": "叙述者形容：就算戴安娜王妃幽灵进来要鳄皮礼帽她也这副腔",
+   "anchor": "I had a feeling she would answer the same way if Princess Diana’s ghost glided through the door and asked for an alligator-skin fedora.",
+   "start": 2156,
+   "end": 2291,
+   "line": 57
+  },
+  {
+   "fact": "她忙说本意是给 Gazzie 帮忙，并感激 Nova 替她递话",
+   "anchor": "“I thought I’d help you, Gazzie,” I added, grateful that Nova had teed me up.",
+   "start": 2294,
+   "end": 2371,
+   "line": 60
+  },
+  {
+   "fact": "Gazzie：你确实在帮我，是 Harrison 指出档案 neglected 太久",
+   "anchor": "“You will be helping me. Harrison pointed out we’ve neglected our files long enough.”",
+   "start": 2374,
+   "end": 2459,
+   "line": 63
+  },
+  {
+   "fact": "他甜美地笑、头偏一寸；她明白是他出的主意好把她支开",
+   "anchor": "He smiled sweetly, tilting his head an inch to the side. Of course. He’d suggested a task that would keep me away from her.",
+   "start": 2462,
+   "end": 2585,
+   "line": 66
+  },
+  {
+   "fact": "Gazzie 命令 Nova 带她过去，随后自己走掉消失",
+   "anchor": "“Show her,” Gazzie commanded Nova. Then she strode down the hallway and out of sight.",
+   "start": 2588,
+   "end": 2673,
+   "line": 69
+  },
+  {
+   "fact": "Harrison 最后丢给她一个自得的眼神再跟出去",
+   "anchor": "Harrison shot me one last smug look before following.",
+   "start": 2676,
+   "end": 2729,
+   "line": 72
+  },
+  {
+   "fact": "Nova 不慌不忙，从抽屉拿出橄榄绿 macramé 手袋翻找",
+   "anchor": "Predictably, Nova wasn’t in a hurry. She pulled an olive-green macramé purse from a desk drawer and began to riffle through it.",
+   "start": 2732,
+   "end": 2859,
+   "line": 75
+  },
+  {
+   "fact": "她站着挪脚、把表情拧成接近平静的样子",
+   "anchor": "As I shifted from foot to foot, trying to wrangle my expression into something resembling calm",
+   "start": 2860,
+   "end": 2954,
+   "line": 75
+  },
+  {
+   "fact": "Nova 掏出润唇膏慢条斯理地涂",
+   "anchor": "she pulled out a tube of lip balm and applied it leisurely.",
+   "start": 2956,
+   "end": 3015,
+   "line": 75
+  },
+  {
+   "fact": "她移开目光研究墙上的 Ida 画像，发丝细节再度吸住她",
+   "anchor": "Averting my gaze, I studied Ida’s portrait on the wall. Again, her hair’s exquisite detailing drew me in",
+   "start": 3018,
+   "end": 3122,
+   "line": 78
+  },
+  {
+   "fact": "每根发丝像一根根画出来的",
+   "anchor": "each strand seemingly painted one by one",
+   "start": 3124,
+   "end": 3164,
+   "line": 78
+  },
+  {
+   "fact": "上次见过之后她唇上的笑似乎更明显了",
+   "anchor": "Since the last time I’d seen her, the smile on her lips seemed more pronounced.",
+   "start": 3166,
+   "end": 3245,
+   "line": 78
+  },
+  {
+   "fact": "Nova 保湿完带她走 Gazzie 消失的那条走廊，角斗士凉鞋拖着短毛地毯",
+   "anchor": "her gladiator sandals dragging on the low-pile carpet",
+   "start": 3350,
+   "end": 3403,
+   "line": 81
+  },
+  {
+   "fact": "她礼貌地问 Nova 住附近吗、干多久了；对方单字回答 Yes／No",
+   "anchor": "I politely asked if she lived nearby, if she’d worked at the farm long. She answered in single-word sentences. Yes. No.",
+   "start": 3405,
+   "end": 3524,
+   "line": 81
+  },
+  {
+   "fact": "她判断 Nova 对这家公司不上心",
+   "anchor": "She wasn’t invested in Greer Fine Alligators, that much was clear.",
+   "start": 3525,
+   "end": 3591,
+   "line": 81
+  },
+  {
+   "fact": "她想不通 Gazzie 为何雇她，只当她有她的理由",
+   "anchor": "I couldn’t imagine why Gazzie had hired her, but I supposed she had her reasons.",
+   "start": 3592,
+   "end": 3672,
+   "line": 81
+  },
+  {
+   "fact": "走廊尽头是金属双门，上方又一只摄像头",
+   "anchor": "The hallway ended in a metal double door. Another security camera hung above it.",
+   "start": 3675,
+   "end": 3755,
+   "line": 84
+  },
+  {
+   "fact": "方形窗里透出明亮的白走廊",
+   "anchor": "A rectangular window revealed a bright white hallway.",
+   "start": 3756,
+   "end": 3809,
+   "line": 84
+  },
+  {
+   "fact": "她猜那就是参观时 Gazzie 示意过的加工区",
+   "anchor": "Presumably, this was the processing area Gazzie had gestured to on our tour.",
+   "start": 3810,
+   "end": 3886,
+   "line": 84
+  },
+  {
+   "fact": "一个瘦削、留山羊胡、穿亮绿 T 恤的男人经过窗前：又一个员工",
+   "anchor": "A thin goateed man in a bright green tee passed by the window. Another employee.",
+   "start": 3887,
+   "end": 3967,
+   "line": 84
+  },
+  {
+   "fact": "Nova 突然开口：那扇门后一律禁止进入",
+   "anchor": "“Everything behind that door is off-limits,” Nova said, startling me.",
+   "start": 3970,
+   "end": 4039,
+   "line": 87
+  },
+  {
+   "fact": "那扇门锁着，那一侧的其他门也锁",
+   "anchor": "“It’s locked, as are the other doors to that side of the building.”",
+   "start": 4040,
+   "end": 4107,
+   "line": 87
+  },
+  {
+   "fact": "她追问为什么；答：Gazzie 的命令",
+   "anchor": "“Why?” I asked.",
+   "start": 4110,
+   "end": 4125,
+   "line": 90
+  },
+  {
+   "fact": "再问有没有别的原因；Nova 耸肩说危险，还有鳄鱼",
+   "anchor": "Nova shrugged. “It’s dangerous. Alligators and all.”",
+   "start": 4180,
+   "end": 4232,
+   "line": 99
+  },
+  {
+   "fact": "她反问鳄鱼不是被关着吗",
+   "anchor": "“Aren’t they locked up?”",
+   "start": 4235,
+   "end": 4259,
+   "line": 102
+  },
+  {
+   "fact": "Nova：过去出过事故",
+   "anchor": "“There’ve been accidents in the past.”",
+   "start": 4262,
+   "end": 4300,
+   "line": 105
+  },
+  {
+   "fact": "Nova 不肯多说；她最后看一眼那扇关着的门，退开并自我安慰之后会有正式参观",
+   "anchor": "After one last glance at the shut doors, I retreated, telling myself Gazzie would give me a proper tour later.",
+   "start": 4328,
+   "end": 4438,
+   "line": 108
+  },
+  {
+   "fact": "Nova 打开自己身旁那扇门挤进去，她从后面侧身进入",
+   "anchor": "Opening the door she stood by, Nova squeezed inside. I edged in behind her.",
+   "start": 4439,
+   "end": 4514,
+   "line": 108
+  },
+  {
+   "fact": "储藏室从地板堆到近天花板全是档案箱",
+   "anchor": "It was a storage room filled floor to near-ceiling with filing boxes.",
+   "start": 4517,
+   "end": 4586,
+   "line": 111
+  },
+  {
+   "fact": "箱子沤了许多年甚至几十年",
+   "anchor": "They’d been festering for years, if not decades.",
+   "start": 4587,
+   "end": 4635,
+   "line": 111
+  },
+  {
+   "fact": "霉味熏香了空气、让她皱鼻",
+   "anchor": "Mildew perfumed the air, making my nose wrinkle.",
+   "start": 4636,
+   "end": 4684,
+   "line": 111
+  },
+  {
+   "fact": "Nova 平板地说这就是档案、以瘫软的手势指箱子",
+   "anchor": "“These are the files,” Nova droned, ignoring my discomfort as she gestured at the boxes with a limp hand.",
+   "start": 4687,
+   "end": 4792,
+   "line": 114
+  },
+  {
+   "fact": "档案只回溯到七十年代",
+   "anchor": "“They date back to the seventies.”",
+   "start": 4793,
+   "end": 4827,
+   "line": 114
+  },
+  {
+   "fact": "她抬高嗓门问生意不是 1800 年代末创立的吗，指望 Gazzie 听见并惊讶于她的知识",
+   "anchor": "“Wasn’t the business founded in the late 1800s?” I asked, raising my voice in the hopes that Gazzie would hear and be impressed by my trivia knowledge.",
+   "start": 4830,
+   "end": 4981,
+   "line": 117
+  },
+  {
+   "fact": "Nova：那时法规没那么严、至少佛州不是",
+   "anchor": "“Regulations weren’t as tight back then. Not in Florida, anyway.",
+   "start": 5133,
+   "end": 5197,
+   "line": 126
+  },
+  {
+   "fact": "她追问那不该有更多档案；若始于维多利亚时代该有几间房的材料",
+   "anchor": "“So shouldn’t there be more files?” If the business had started in the Victorian era, there would be multiple rooms stuffed with papers.",
+   "start": 4994,
+   "end": 5130,
+   "line": 123
+  },
+  {
+   "fact": "Nova：那时法规没那么严，至少佛州不是；Virginia 在近二十年逼 Gazzie regular 记录文书，是在买下两座分场之时；「她是这么说的」，Nova 那时不在",
+   "anchor": "Virginia made Gazzie start tracking paperwork regularly in the last two decades, when they acquired the two satellite farms. Or so she said. I wasn’t around then.",
+   "start": 5198,
+   "end": 5360,
+   "line": 126
+  },
+  {
+   "fact": "Nova 看起来现在也不想在场",
+   "anchor": "Nova looked like she didn’t want to be around now, either.",
+   "start": 5364,
+   "end": 5422,
+   "line": 129
+  },
+  {
+   "fact": "她仰头看高耸的档案箱",
+   "anchor": "I craned my neck, peering at the filing boxes towering above me.",
+   "start": 5425,
+   "end": 5489,
+   "line": 132
+  },
+  {
+   "fact": "Nova：缺了这么多仍是量大；可把 2009 年之前的全丢掉，Virginia 说 IRS 大概不会往回查十年",
+   "anchor": "you can throw out anything dated before 2009. Virginia said the IRS probably wouldn’t dig back more than ten years.",
+   "start": 5575,
+   "end": 5690,
+   "line": 135
+  },
+  {
+   "fact": "两人过了一遍扫描流程，听着乏味但不难",
+   "anchor": "We reviewed the scanning process, which sounded tedious but simple enough.",
+   "start": 5694,
+   "end": 5768,
+   "line": 138
+  },
+  {
+   "fact": "结束时 Nova 祝她好运、投来一个同情的眼神",
+   "anchor": "When we finished, she wished me luck, shooting me a sympathetic glance.",
+   "start": 5769,
+   "end": 5840,
+   "line": 138
+  },
+  {
+   "fact": "她脸热：被隔离在空房间配无用档案＝Gazzie 在传话「你不是我们的人」",
+   "anchor": "By isolating me in an empty room with worthless files, Gazzie was sending a message: You’re not one of us.",
+   "start": 5873,
+   "end": 5979,
+   "line": 141
+  },
+  {
+   "fact": "连 Nova 也读出了这层",
+   "anchor": "Even Nova had picked up on it.",
+   "start": 5980,
+   "end": 6010,
+   "line": 141
+  },
+  {
+   "fact": "Nova：只是做我的工作；再补一条——别离开这栋楼，你祖母不想有人乱走",
+   "anchor": "“One more thing: Don’t leave this building. Your grandmother doesn’t want people wandering.”",
+   "start": 6094,
+   "end": 6186,
+   "line": 147
+  },
+  {
+   "fact": "她推断几天前那桩未命名的事故发生在外面；她曾听见 Nova 提到 out back",
+   "anchor": "The unnamed incident from a few days before must have happened outside; I’d overheard Nova mentioning something out back.",
+   "start": 6189,
+   "end": 6310,
+   "line": 150
+  },
+  {
+   "fact": "她话没说完就被「公司规定」切断：未经授权的人员不得在行政区外活动",
+   "anchor": "“Company policy. No unauthorized guests or employees outside administrative areas.”",
+   "start": 6349,
+   "end": 6432,
+   "line": 153
+  },
+  {
+   "fact": "她据此断定公司在某种麻烦里",
+   "anchor": "That settled it; Greer Fine Alligators was in some sort of trouble.",
+   "start": 6435,
+   "end": 6502,
+   "line": 156
+  },
+  {
+   "fact": "依据清单：第一次晚餐与办公室里的话、参观时偷听到的急促对话、锁着的门与严规",
+   "anchor": "Between Gazzie’s comments during our first dinner and in her office, the rushed conversation I overheard on my tour, plus the locked doors and strict rules, it was obvious.",
+   "start": 6503,
+   "end": 6675,
+   "line": 156
+  },
+  {
+   "fact": "她想：若证明有用，也许 Gazzie 会告诉她发生了什么",
+   "anchor": "If I proved my usefulness, maybe Gazzie would tell me what was happening.",
+   "start": 6676,
+   "end": 6749,
+   "line": 156
+  },
+  {
+   "fact": "她撬开第一只盖子，霉味变浓",
+   "anchor": "I cracked open the first lid, and the mildew smell intensified.",
+   "start": 6752,
+   "end": 6815,
+   "line": 159
+  },
+  {
+   "fact": "她认命地抽出第一份档案",
+   "anchor": "Resigned, I pulled out the first file.",
+   "start": 6818,
+   "end": 6856,
+   "line": 162
+  }
+ ],
+ "relations": [
+  [
+   "Harrison：本章由 Gazzie 亲口定性「替她管农场、他说的算」",
+   "He manages the farm for me. What he says goes."
+  ],
+  [
+   "Nova：单字回答、不上心；转述 Virginia 的说法时加「Or so she said」",
+   "Or so she said. I wasn’t around then."
+  ],
+  [
+   "无名员工（山羊胡、亮绿 T 恤）：本章新面孔，与 ch08 的 neon-green 衫喂料工是否同一人未写",
+   "A thin goateed man in a bright green tee passed by the window."
+  ],
+  [
+   "Ida 画像：本章是办公室墙上那幅的第三次看，笑被认为更明显",
+   "the smile on her lips seemed more pronounced"
+  ]
+ ],
+ "numbers": {
+  "十英寸裂缝": "a crack about ten inches long",
+  "秒内成流": "Within seconds, it was a steady stream",
+  "头偏一寸": "tilting his head an inch to the side",
+  "七十年代": "They date back to the seventies.",
+  "1800年代末": "founded in the late 1800s",
+  "近二十年": "in the last two decades",
+  "两座分场": "the two satellite farms",
+  "2009 年前可丢": "anything dated before 2009",
+  "十年回溯": "dig back more than ten years",
+  "单字回答两句": "She answered in single-word sentences. Yes. No."
+ }
+}
