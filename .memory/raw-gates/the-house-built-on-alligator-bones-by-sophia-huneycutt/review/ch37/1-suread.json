@@ -1,0 +1,181 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch37",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch37_chapter_thirty_six.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "风暴登陆前背两支步枪去猎场",
+   "anchor": "lugged two rifles to the hunting grounds",
+   "start": 43,
+   "end": 83,
+   "line": 9
+  },
+  {
+   "fact": "Gazzie 给她 Ida 晚年用的温彻斯特（非杀 Ironheart 那支）",
+   "anchor": "not the one Ida used to kill Ironheart",
+   "start": 690,
+   "end": 728,
+   "line": 12
+  },
+  {
+   "fact": "路中间停下示意改道",
+   "anchor": "“This way,” she said, gesturing to our right.",
+   "start": 1320,
+   "end": 1365,
+   "line": 15
+  },
+  {
+   "fact": "猎人付数千美元猎猪",
+   "anchor": "Thousands of dollars",
+   "start": 1937,
+   "end": 1957,
+   "line": 42
+  },
+  {
+   "fact": "她拍死蚊子把血抹在手臂上",
+   "anchor": "I slapped a mosquito, smearing blood across my forearm.",
+   "start": 3821,
+   "end": 3876,
+   "line": 90
+  },
+  {
+   "fact": "Gazzie 指向下游三十英尺并嘘声",
+   "anchor": "point thirty or so feet downstream",
+   "start": 5496,
+   "end": 5530,
+   "line": 120
+  },
+  {
+   "fact": "蚊群落在她身上似在藏鳄",
+   "anchor": "like they were trying to hide the alligator",
+   "start": 6079,
+   "end": 6122,
+   "line": 129
+  },
+  {
+   "fact": "不情愿地举枪瞄准",
+   "anchor": "Reluctantly, I complied.",
+   "start": 5951,
+   "end": 5975,
+   "line": 126
+  },
+  {
+   "fact": "野猪盯着他们、 curved tusks",
+   "anchor": "A pair of intelligent black eyes glared back.",
+   "start": 7955,
+   "end": 8000,
+   "line": 177
+  },
+  {
+   "fact": "野猪冲出灌木扑来",
+   "anchor": "A squeal erupted from the bushes, and the hog rushed out.",
+   "start": 8617,
+   "end": 8674,
+   "line": 198
+  },
+  {
+   "fact": "Gazzie 从她身后开枪、子弹擦过臀部",
+   "anchor": "a bullet zipped past my hip",
+   "start": 8996,
+   "end": 9023,
+   "line": 204
+  },
+  {
+   "fact": "短吻鳄冲出水面扑向 Gazzie、她绊倒、叙述者开枪",
+   "anchor": "I raised the rifle in the alligator’s general direction and shot.",
+   "start": 9800,
+   "end": 9865,
+   "line": 228
+  },
+  {
+   "fact": "Gazzie 扑住鳄背合住双颚",
+   "anchor": "Gazzie tackled it from behind and held its jaws shut.",
+   "start": 10126,
+   "end": 10179,
+   "line": 234
+  },
+  {
+   "fact": "Gazzie 从腰间抽出大刀递给她",
+   "anchor": "pulled a large knife from her belt, flipped it open, and held it out",
+   "start": 11350,
+   "end": 11418,
+   "line": 255
+  },
+  {
+   "fact": "她割开鳄喉、血涌草地",
+   "anchor": "Reaching around the alligator’s throat, I plunged in the knife and pulled.",
+   "start": 13007,
+   "end": 13081,
+   "line": 282
+  },
+  {
+   "fact": "Gazzie 手伸进鳄喉再按在她脸上",
+   "anchor": "placed it on my cheek",
+   "start": 14011,
+   "end": 14032,
+   "line": 300
+  },
+  {
+   "fact": "Gazzie 掏血抹脸、声音失真说话、叙述者呕吐",
+   "anchor": "I turned to the side and threw up.",
+   "start": 14698,
+   "end": 14732,
+   "line": 312
+  }
+ ],
+ "relations": [
+  [
+   "叙述者↔Gazzie：祖母说要保护她",
+   "My grandmother was telling me she’d protect me.",
+   "L168"
+  ],
+  [
+   "叙述者↔Ida：great-great-granddaughter、梦中递枪的手",
+   "I was her great-great-granddaughter.",
+   "L276"
+  ],
+  [
+   "Gazzie↔Ida：执行其意志、杀戮要慢",
+   "She likes it to be slow, remember?",
+   "L261"
+  ],
+  [
+   "Ida↔Ironheart：Ida 杀了它",
+   "not the one Ida used to kill Ironheart",
+   "L12"
+  ],
+  [
+   "叙述者↔Harrison：首日共同目击棍击鳄",
+   "when Harrison and I watched Gazzie beat in that alligator’s head",
+   "L258"
+  ]
+ ],
+ "numbers": [
+  [
+   "风暴 24 小时内登陆",
+   "twenty-four hours",
+   "L9"
+  ],
+  [
+   "Winchester 1894；搜鳄约三十分钟；晨饮两升水",
+   "two liters of water",
+   "L12"
+  ],
+  [
+   "猎场约一百五十英亩",
+   "about a hundred fifty acres",
+   "L66"
+  ],
+  [
+   "鳄距约三十英尺",
+   "thirty or so feet",
+   "L120"
+  ],
+  [
+   "Gazzie 称鳄时速二十英里、距二十英尺",
+   "twenty miles per hour",
+   "L222"
+  ]
+ ]
+}
