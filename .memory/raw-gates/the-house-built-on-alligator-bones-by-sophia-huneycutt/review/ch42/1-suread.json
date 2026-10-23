@@ -1,0 +1,150 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch42",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch42_chapter_forty_one.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "主角回到 Greer House，发现自己的 Honda 被吹落的橡树枝砸中，挡风玻璃裂了约一英尺长，当晚无法开车。",
+   "anchor": "One lay across the windshield, and upon closer inspection, I found a foot-long crack in the glass.",
+   "start": 102,
+   "end": 200,
+   "line": 9
+  },
+  {
+   "fact": "前廊窗户已装防风板、前门与门边窗直接钉上胶合板，主角用鳄鱼头骨形状的万能钥匙开门进屋。",
+   "anchor": "where I inserted my alligator-skulled skeleton key",
+   "start": 525,
+   "end": 575,
+   "line": 9
+  },
+  {
+   "fact": "屋内一片漆黑，主角先疑心是 Ida 在等她，甚至想象她伸手去拿步枪，直到听到沙发作响才松口气——因为 haint 不坐沙发。",
+   "anchor": "The couch creaked. Thank God. Haints didn’t sit on couches.",
+   "start": 2211,
+   "end": 2270,
+   "line": 30
+  },
+  {
+   "fact": "黑暗中出声的其实是 Harrison，主角一听便认出他。",
+   "anchor": "“Hey,” rasped a man’s voice.",
+   "start": 2412,
+   "end": 2440,
+   "line": 36
+  },
+  {
+   "fact": "Harrison 帮 Gazzie 钉防风板和封门，并与她谈过一次，结果被她赶出去，只在露台上等到她开车离开。",
+   "anchor": "“Oh, she told me to get out.”",
+   "start": 3777,
+   "end": 3806,
+   "line": 57
+  },
+  {
+   "fact": "Harrison 说 Gazzie 去了农场，还补了一句她大概在做「治疗性屠宰」。",
+   "anchor": "“Probably doing some therapeutic slaughtering,” he added.",
+   "start": 4966,
+   "end": 5023,
+   "line": 87
+  },
+  {
+   "fact": "Harrison 评价 Gazzie 脾气暴躁却也有趣、有热情、在乎忠诚的人，只是把生意看得比人更重。",
+   "anchor": "She just cares about the business more.",
+   "start": 5626,
+   "end": 5665,
+   "line": 99
+  },
+  {
+   "fact": "Harrison 认为 Gazzie 当晚若立刻报警，会因过失杀人和虐待尸体服刑十五到二十年，长期看反而更好。",
+   "anchor": "She would have served time for manslaughter and abuse of a dead human body, fifteen or twenty years tops",
+   "start": 5950,
+   "end": 6054,
+   "line": 108
+  },
+  {
+   "fact": "主角主张：如果 Gazzie 一直被负罪感折磨，说出全部真相也许能让她放下 guilt、想成为更好的人。",
+   "anchor": "If she’s been struggling with guilt this whole time, that could be why she is the way she is.",
+   "start": 6863,
+   "end": 6956,
+   "line": 126
+  },
+  {
+   "fact": "壁炉台上一只蓝白瓷瓶突然坠落摔碎，主角认定是 Ida 反对她劝 Gazzie 自首的念头，因为 Ida 要 Gazzie 坚决冷酷、代代扩张帝国。",
+   "anchor": "She wanted to expand her empire, elevate the Greers more and more with each generation",
+   "start": 7524,
+   "end": 7610,
+   "line": 135
+  },
+  {
+   "fact": "主角向 Harrison 坦白真正的秘密：母亲 technically 死于心脏病，但发病前两人吵架，她用力推了母亲，母亲头撞床架后开始抽搐。",
+   "anchor": "“I pushed her—hard,” I whispered to Harrison. “And she hit her head on the bed frame.",
+   "start": 10794,
+   "end": 10879,
+   "line": 195
+  },
+  {
+   "fact": "Harrison 退到餐厅门口、双手捂嘴，许久不语，再开口时声音又冷又远，只问主角为什么要告诉他这些。",
+   "anchor": "“Why are you telling me this?”",
+   "start": 11434,
+   "end": 11464,
+   "line": 204
+  },
+  {
+   "fact": "主角自问若自己本性未改、妈妈说得对，是否危险、世界是否没有她会更好；Harrison 只能勉强安慰说恶人不会后悔。",
+   "anchor": "“An evil person wouldn’t regret their actions,” he said, but he sounded unsure",
+   "start": 11815,
+   "end": 11893,
+   "line": 213
+  },
+  {
+   "fact": "主角当场做出决定，要去找 Gazzie 当面对质 Uncle Leon 的事（Harrison 称呼她为 Dart）。",
+   "anchor": "“I’m going to ask her about him.”",
+   "start": 12687,
+   "end": 12720,
+   "line": 225
+  },
+  {
+   "fact": "Harrison 强烈反对：Gazzie 曾把亲生儿子的尸体喂给鳄鱼，尽管他已坦白仍真信幽灵鳄在闹农场，此时去对质太危险。",
+   "anchor": "This woman fed her son’s body to a gator.",
+   "start": 12801,
+   "end": 12842,
+   "line": 228
+  },
+  {
+   "fact": "面对「她会扭断你脖子」的警告，主角只答「她还没伤害过我」，叙事随即点明这是施虐者还来得及下手的受害者的自信话。",
+   "anchor": "“She hasn’t hurt me.”",
+   "start": 13096,
+   "end": 13117,
+   "line": 231
+  },
+  {
+   "fact": "飓风 Flora 眼墙将至；去农场平时十分钟、这种天气十五分钟；Harrison 提议开车同去，被主角以「会像合伙围攻她」为由拒绝。",
+   "anchor": "“It’s a ten-minute drive. Fifteen, in this weather.”",
+   "start": 13841,
+   "end": 13893,
+   "line": 252
+  },
+  {
+   "fact": "Aunt Virginia 冒雨开着 Bug 跟来，浑身湿透，不由分说地留下主角，命令大家一起等 Gazzie 回家再谈。",
+   "anchor": "“Oh, honey, you’re not going anywhere.”",
+   "start": 15827,
+   "end": 15866,
+   "line": 291
+  },
+  {
+   "fact": "Virginia 认识 Harrison 的父亲——比 Leon 年长一岁左右、是农场最好的杂役工，十六岁起就干活，大概是 Leon 在农场唯一喜欢的东西。",
+   "anchor": "Best handyman the farm ever had, too—worked from sixteen on.",
+   "start": 17775,
+   "end": 17835,
+   "line": 327
+  },
+  {
+   "fact": "章末落点：主角趁两人去厨房烧茶，拿走 Virginia 惯放在门边银碗里的车钥匙，换上袜子球鞋，独自冲进风暴。",
+   "anchor": "With a pang of guilt, I stuffed the keys into my pocket",
+   "start": 19107,
+   "end": 19162,
+   "line": 351
+  }
+ ],
+ "relations": [],
+ "numbers": []
+}

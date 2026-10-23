@@ -1,0 +1,359 @@
+{
+  "chapter": 42,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/ch42 dart confesses to harrison.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch42_chapter_forty_one.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "My Honda sat alone in Greer House’s parking area, surrounded by fallen oak branches. One lay across the windshield, and ",
+          "ok": true,
+          "pos": 10
+        },
+        {
+          "text": "Gazzie must have installed them when the last guest left",
+          "ok": true,
+          "pos": 395
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "We’d just thrown her a party, for God’s sake, a day after hunting and sacrificing an alligator in her honor. Over the ye",
+          "ok": true,
+          "pos": 1178
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "I imagined Ida’s tiny feet landing on the parlor floor with a light thump, her hand reaching for her rifle, pulling it o",
+          "ok": true,
+          "pos": 1707
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "He gazed at me, eyes sorrowful. “I wanted to warn you. She’s on a rampage.”",
+          "ok": true,
+          "pos": 4050
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "It was hard at first. But then I started to like her. Isn’t that fucked up?\"",
+          "ok": true,
+          "pos": 5179
+        },
+        {
+          "text": "“Gazzie’s batshit crazy. Has anger issues. But she’s also funny. And passionate",
+          "ok": true,
+          "pos": 5348
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I wish she’d called the police right away that night",
+          "ok": true,
+          "pos": 5678
+        },
+        {
+          "text": "She would have served time for manslaughter and abuse of a dead human body, fifteen or twenty years tops, but maybe she ",
+          "ok": true,
+          "pos": 5795
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Ida didn’t like that idea, I thought grimly. She needed Gazzie resolute and ruthless. She wanted to expand her empire, e",
+          "ok": true,
+          "pos": 7234
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“I pushed her—hard,” I whispered to Harrison. “And she hit her head on the bed frame. Her eyes kind of glazed over",
+          "ok": true,
+          "pos": 10498
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“What if that old part of me is still in here?” I asked, voice wobbling. “What if I didn’t change? What if Mama was righ",
+          "ok": true,
+          "pos": 11250
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "With a pang of guilt, I stuffed the keys into my pocket, shoved my feet into a pair of worn socks and tennis shoes by th",
+          "ok": true,
+          "pos": 18549
+        }
+      ],
+      "words": 33
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.24
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.33,
+        "读者视角提示": 0.29
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.43,
+        "读者视角提示": 0.38
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.5
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.23
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.39
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.32
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 62
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.35
+      }
+    }
+  ],
+  "form": {
+    "h1": "42. Chapter Forty-One",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 6,
+    "block_range": [
+      3,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3446,
+    "block_target": [
+      6,
+      11
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
