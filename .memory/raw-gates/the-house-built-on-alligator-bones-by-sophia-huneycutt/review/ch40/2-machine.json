@@ -1,0 +1,241 @@
+{
+  "chapter": 40,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/ch40 harrison confesses his father kept silent.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch40_chapter_thirty_nine.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The first was a fireman’s report for Everglades Alligator Park, a pink highlighter outlining evidence of accelerants, mu",
+          "ok": true,
+          "pos": 532
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Uncle Leon had been gathering evidence against Gazzie, against Greer Fine Alligators. She must not have known, or she wo",
+          "ok": true,
+          "pos": 1241
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "It all hit at once—the alcohol, the heat, the shock. My heart beat in double time, and I found myself stepping unsteadil",
+          "ok": true,
+          "pos": 3004
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Grabbing his whiskey glass off the nightstand, I hurled it at the wall. It exploded, pieces of glass shooting across the",
+          "ok": true,
+          "pos": 3916
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "So when he confronted Gazzie and she offered him money to stay quiet, he said yes. But he hated himself for it",
+          "ok": true,
+          "pos": 5664
+        },
+        {
+          "text": "Asked me to get a summer job at the farm to spy on her",
+          "ok": true,
+          "pos": 5981
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Gazzie’s voice carried from the parlor, where she stood directly under Ida’s portrait, laughing. I did not, could not, l",
+          "ok": true,
+          "pos": 9389
+        }
+      ],
+      "words": 46
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 124,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 0,
+        "为什么这样写": 212,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 192,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 125,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 139,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.47
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 201,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.78
+      }
+    }
+  ],
+  "form": {
+    "h1": "40. Chapter Thirty-Nine",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 6,
+    "block_range": [
+      3,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 7,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2041,
+    "block_target": [
+      4,
+      6
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

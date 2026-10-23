@@ -1,0 +1,158 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch40",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch40_chapter_thirty_nine.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "锁箱放到 Leon 梳妆台上",
+   "anchor": "I set the lockbox on his dresser.",
+   "start": 46,
+   "end": 79,
+   "line": 9
+  },
+  {
+   "fact": "Harrison 用撬棍撬箱",
+   "anchor": "Harrison wedged the crowbar in the space between the top and bottom.",
+   "start": 243,
+   "end": 311,
+   "line": 12
+  },
+  {
+   "fact": "取出一叠纸翻看",
+   "anchor": "I pulled out a stack of papers and began sifting through them.",
+   "start": 469,
+   "end": 531,
+   "line": 18
+  },
+  {
+   "fact": "认定 Leon 在收集针对 Gazzie 与农场的证据",
+   "anchor": "Uncle Leon had been gathering evidence against Gazzie",
+   "start": 1266,
+   "end": 1319,
+   "line": 24
+  },
+  {
+   "fact": "Harrison 求她听他说",
+   "anchor": "“Dart, please listen.” Harrison’s voice cut through the silence.",
+   "start": 1887,
+   "end": 1951,
+   "line": 30
+  },
+  {
+   "fact": "Harrison 指认 Gazzie 杀了 Leon",
+   "anchor": "“That’s not how it happened. She did it. She killed him.”",
+   "start": 3044,
+   "end": 3101,
+   "line": 66
+  },
+  {
+   "fact": "她把威士忌杯砸到墙上",
+   "anchor": "I hurled it at the wall.",
+   "start": 4081,
+   "end": 4105,
+   "line": 81
+  },
+  {
+   "fact": "Harrison 交代：父亲目击、收封口费、临终派他卧底",
+   "anchor": "Asked me to get a summer job at the farm to spy on her.",
+   "start": 6164,
+   "end": 6219,
+   "line": 123
+  },
+  {
+   "fact": "承认暗中破坏农场（毁财物、刀上传信）",
+   "anchor": "tried sending a message with the knives",
+   "start": 7453,
+   "end": 7492,
+   "line": 159
+  },
+  {
+   "fact": "她宣布结束并起身离开",
+   "anchor": "I stood from the bed, though every atom in my body protested.",
+   "start": 8410,
+   "end": 8471,
+   "line": 180
+  },
+  {
+   "fact": "Harrison 让她去问 Ginny、警告 Gazzie 危险",
+   "anchor": "“Ask Ginny,” he said from behind me.",
+   "start": 9050,
+   "end": 9086,
+   "line": 201
+  },
+  {
+   "fact": "带文件冒雨出门步行",
+   "anchor": "Uncle Leon’s papers still clutched to my chest.",
+   "start": 10304,
+   "end": 10351,
+   "line": 222
+  },
+  {
+   "fact": "Gazzie 背后喝问、她没有回头走进雨里",
+   "anchor": "I left my grandmother behind, striding off the porch into darkness.",
+   "start": 11415,
+   "end": 11482,
+   "line": 234
+  }
+ ],
+ "relations": [
+  [
+   "Harrison↔父：忠于父命复仇/卧底",
+   "Dart, I promised my father—",
+   "L171"
+  ],
+  [
+   "Harrison 父↔Gazzie：目击后收封口费",
+   "she offered him money to stay quiet, he said yes.",
+   "L123"
+  ],
+  [
+   "叙述者↔Gazzie：怕她、相信她能伤人",
+   "I did believe Gazzie could hurt someone.",
+   "L231"
+  ],
+  [
+   "Harrison↔Gazzie：六年前借沙滩球混入家庭、长期破坏",
+   "six summers ago you knocked her over with a beach ball",
+   "L138"
+  ],
+  [
+   "Leon↔Gazzie：Leon 收集证据；儿时常逃到 Harrison 家",
+   "Leon used to run away to my father’s house",
+   "L123"
+  ],
+  [
+   "叙述者↔Aunt Virginia：曾提出救她脱离 Gazzie",
+   "her offer to rescue me from Gazzie was enough",
+   "L231"
+  ]
+ ],
+ "numbers": [
+  [
+   "箱盖翘起一厘米",
+   "a centimeter",
+   "L9"
+  ],
+  [
+   "两本同样账簿（金额不同）",
+   "two identical accounting books",
+   "L21"
+  ],
+  [
+   "六年前沙滩球事件",
+   "six summers ago",
+   "L138"
+  ],
+  [
+   "每屋约五人",
+   "five or so people",
+   "L216"
+  ],
+  [
+   "晚八点、暗如午夜",
+   "eight in the evening",
+   "L222"
+  ]
+ ]
+}
