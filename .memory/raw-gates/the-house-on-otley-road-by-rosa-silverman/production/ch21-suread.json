@@ -1,0 +1,55 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch21",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch21_chapter_20.txt",
+ "facts": [
+  {
+   "fact": "Kate 近二十年把那个女孩的未破谋杀案压在脑后。",
+   "anchor": "For almost twenty years, Kate had pushed the girl’s unsolved murder to the back of her mind.",
+   "start": 22,
+   "end": 114
+  },
+  {
+   "fact": "Olivia Kavanagh 的案子重新点燃了她，她对两个女孩的故事生出一种所有权感。",
+   "anchor": "Now, Olivia Kavanagh had ignited something in her. A sense of ownership of both girls’ stories.",
+   "start": 255,
+   "end": 350
+  },
+  {
+   "fact": "她在咖啡馆点了一杯白美式和哈罗米贝果，补充酒店的大陆式早餐。",
+   "anchor": "She ordered a white Americano and halloumi bagel to supplement her Continental breakfast.",
+   "start": 1110,
+   "end": 1199
+  },
+  {
+   "fact": "她给 Steve 发短信，要一张 Elliot 的照片。",
+   "anchor": "Send me a pic of Elliot, she texted Steve.",
+   "start": 1231,
+   "end": 1273
+  },
+  {
+   "fact": "Elliot 发现自己的脸出现在她电脑上，走过来搭话。",
+   "anchor": "‘Excuse me, miss, are you checking me out?’",
+   "start": 2789,
+   "end": 2832
+  },
+  {
+   "fact": "Elliot 说自己就住在对面炸鱼薯条店楼上。",
+   "anchor": "‘I live here, don’t I? Above the chippy over there.’",
+   "start": 3482,
+   "end": 3534
+  },
+  {
+   "fact": "Elliot 用假设句问她：自己做过可能导致 Olivia 被杀的事、但并非故意，会不会被追责。",
+   "anchor": "‘If I had done something that might have ended up with Olivia getting killed, but I didn’t intend it to – would I get done for it?’",
+   "start": 7145,
+   "end": 7276
+  },
+  {
+   "fact": "Elliot 主动提起 Emily Pierce，说关于这件事他有一件事要说。",
+   "anchor": "‘You mentioned that other girl, Emily Pierce,’ he said.",
+   "start": 7760,
+   "end": 7815
+  }
+ ]
+}
