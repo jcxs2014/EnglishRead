@@ -1,0 +1,164 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch31",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch31_chapter_thirty.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "地下之行与画像真发让入睡更难",
+   "anchor": "my trip beneath Greer House—and subsequent inspection of Ida’s portrait in the parlor, which revealed real hair within her updo—made it even more difficult to sleep that evening.",
+   "start": 30,
+   "end": 208,
+   "line": 9
+  },
+  {
+   "fact": "酸茉莉花香起、睁眼坐起",
+   "anchor": "The scent of sour jasmine wafted into my nose, and I couldn’t ignore it any longer. My eyes flew open, and I sat up.",
+   "start": 290,
+   "end": 406,
+   "line": 9
+  },
+  {
+   "fact": "角落里站着一个人影",
+   "anchor": "Someone stood in the corner, between two of the windows.",
+   "start": 409,
+   "end": 465,
+   "line": 12
+  },
+  {
+   "fact": "窗帘鼓起裹住人影、露出长裙女人轮廓",
+   "anchor": "revealing the outline of a person in a long dress. A woman.",
+   "start": 567,
+   "end": 626,
+   "line": 15
+  },
+  {
+   "fact": "Ida 跛行、拖裙、脚步声湿黏",
+   "anchor": "She was limping. Her dress dragged heavily across the floor, and her footsteps made a sodden sound",
+   "start": 754,
+   "end": 852,
+   "line": 21
+  },
+  {
+   "fact": "断腿出处：死于沼泽被鳄鱼撕碎",
+   "anchor": "the marsh where she’d died, where an alligator had torn her leg to shreds",
+   "start": 884,
+   "end": 957,
+   "line": 21
+  },
+  {
+   "fact": "每一步窗帘上移：靴尖与裙边",
+   "anchor": "the tip of a boot, the hem of a skirt",
+   "start": 1125,
+   "end": 1162,
+   "line": 24
+  },
+  {
+   "fact": "新骨强化了 Ida 的灵（Gazzie 说对了）",
+   "anchor": "By placing fresh bones beneath Greer House, we’d strengthened Ida’s spirit.",
+   "start": 1290,
+   "end": 1365,
+   "line": 27
+  },
+  {
+   "fact": "低声问「你想要什么」",
+   "anchor": "“What do you want?” I whispered hoarsely, not daring to move",
+   "start": 1439,
+   "end": 1499,
+   "line": 30
+  },
+  {
+   "fact": "抬臂、掌心向上、又一步，脸即将露出",
+   "anchor": "Her arms lifted, palms upward, like she was opening them to embrace me, and she took another step forward.",
+   "start": 1578,
+   "end": 1684,
+   "line": 33
+  },
+  {
+   "fact": "眨眼后只剩窗帘",
+   "anchor": "And she was just the curtain swaying in the breeze.",
+   "start": 1877,
+   "end": 1928,
+   "line": 39
+  },
+  {
+   "fact": "盯着原地几分钟、怕她回来",
+   "anchor": "I sat in bed for several minutes, staring at the spot where she’d been, petrified she’d come back.",
+   "start": 1962,
+   "end": 2060,
+   "line": 42
+  },
+  {
+   "fact": "游廊窗弹开、窗帘湿、地上一小滩水",
+   "anchor": "A window to the veranda had popped open. The curtains were wet, and a small puddle of water remained on the floor",
+   "start": 2130,
+   "end": 2243,
+   "line": 45
+  },
+  {
+   "fact": "几小时前就停雨了",
+   "anchor": "though it hadn’t rained for hours.",
+   "start": 2245,
+   "end": 2279,
+   "line": 45
+  },
+  {
+   "fact": "「我知道我看见的是谁」",
+   "anchor": "I knew what—who—I’d seen.",
+   "start": 2493,
+   "end": 2518,
+   "line": 45
+  },
+  {
+   "fact": "搬毯子去温室画 Ida 到天亮",
+   "anchor": "I moved my blankets to the conservatory and sketched Ida’s figure until dawn.",
+   "start": 2555,
+   "end": 2632,
+   "line": 48
+  }
+ ],
+ "relations": [
+  [
+   "Ida 现身于叙述者房中（本章核心事件）",
+   "Someone stood in the corner, between two of the windows.",
+   "L12"
+  ],
+  [
+   "新骨→灵强化的因果自认",
+   "we’d strengthened Ida’s spirit",
+   "L27"
+  ],
+  [
+   "Ida 之死：沼泽、鳄鱼撕腿（本章口径）",
+   "where an alligator had torn her leg to shreds",
+   "L21"
+  ],
+  [
+   "Gazzie 的判断被验证",
+   "Gazzie had been right",
+   "L27"
+  ],
+  [
+   "画像 updo 内有真发（承上章）",
+   "real hair within her updo",
+   "L9"
+  ]
+ ],
+ "numbers": [
+  [
+   "枯坐时长：几分钟",
+   "for several minutes",
+   "L42"
+  ],
+  [
+   "距上一次降雨：数小时",
+   "it hadn’t rained for hours",
+   "L45"
+  ],
+  [
+   "作画时长：直到天亮",
+   "until dawn",
+   "L48"
+  ]
+ ]
+}
