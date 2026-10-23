@@ -1,0 +1,1794 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch18",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch18_chapter_seventeen.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "周一早上 Gazzie 先冲出前门，叙述者来不及说话",
+   "anchor": "Gazzie stalked out the front door before I could say a word",
+   "start": 33,
+   "end": 92,
+   "line": 9
+  },
+  {
+   "fact": "上车后叙述者问好，Gazzie 把收音机音量调大",
+   "anchor": "When I said good morning, she turned up the volume",
+   "start": 145,
+   "end": 195,
+   "line": 9
+  },
+  {
+   "fact": "她太累，没问 Leon／Mama／那个陌生的声音",
+   "anchor": "too tired to ask her about Uncle Leon or Mama or the unfamiliar voice",
+   "start": 203,
+   "end": 272,
+   "line": 9
+  },
+  {
+   "fact": "陌生声音被她归因为焦虑的产物",
+   "anchor": "which I’d written off as the product of anxiety",
+   "start": 274,
+   "end": 321,
+   "line": 9
+  },
+  {
+   "fact": "睡越少思绪越狂；她把这点当作「疲惫才是主因」的铁证",
+   "anchor": "which was irrefutable evidence that exhaustion was to blame",
+   "start": 410,
+   "end": 469,
+   "line": 9
+  },
+  {
+   "fact": "昨晚找 Leon 速写本的决心已退潮，只想熬过今天",
+   "anchor": "I wasn’t nearly as determined to find Uncle Leon’s sketchbooks as I had been the previous night",
+   "start": 471,
+   "end": 566,
+   "line": 9
+  },
+  {
+   "fact": "到办公室后 Gazzie 把眼镜插进头发、朝育种池走去",
+   "anchor": "Gazzie thrust her glasses into her hair and marched toward the breeding pond",
+   "start": 636,
+   "end": 712,
+   "line": 12
+  },
+  {
+   "fact": "Gazzie 嘴里咕哝的是电围栏",
+   "anchor": "grumbling something about the electric fence",
+   "start": 714,
+   "end": 758,
+   "line": 12
+  },
+  {
+   "fact": "叙述者隔着玻璃前门看见 Harrison 站在 Nova 桌前、背对她",
+   "anchor": "I could see Harrison standing in front of Nova’s desk",
+   "start": 869,
+   "end": 922,
+   "line": 21
+  },
+  {
+   "fact": "前办公室的天花板是新补的石膏、不漏",
+   "anchor": "under the newly drywalled, leak-free ceiling",
+   "start": 927,
+   "end": 971,
+   "line": 21
+  },
+  {
+   "fact": "小风扇朝 Nova 吹，白色 peasant top 电影感地鼓动",
+   "anchor": "A miniature fan blew toward her, making her white peasant top billow cinematically",
+   "start": 989,
+   "end": 1071,
+   "line": 21
+  },
+  {
+   "fact": "Nova 脸上没有表情，除脸颊的康乃馨粉",
+   "anchor": "Face impassive—save for her cheeks, which were carnation pink",
+   "start": 1073,
+   "end": 1134,
+   "line": 21
+  },
+  {
+   "fact": "Nova 两指夹着一条细辫、用发尾搔自己的唇",
+   "anchor": "she held a dainty braid between two fingers, using the ends to tickle her glossy lips",
+   "start": 1135,
+   "end": 1220,
+   "line": 21
+  },
+  {
+   "fact": "叙述者没来由地希望自己涂了润唇膏",
+   "anchor": "I wished, for no discernible reason, that I’d worn lip balm",
+   "start": 1224,
+   "end": 1283,
+   "line": 24
+  },
+  {
+   "fact": "她把闷热的上班装换成佛州装：牛仔短裤、宽大 T、人字拖",
+   "anchor": "jean shorts with a variety of oversized T-shirts and flip-flops",
+   "start": 1352,
+   "end": 1415,
+   "line": 24
+  },
+  {
+   "fact": "口红也留在身后，一路上粉底也不擦了",
+   "anchor": "I’d also left behind my lipstick, and somewhere along the way, I’d stopped wearing foundation, too",
+   "start": 1421,
+   "end": 1519,
+   "line": 24
+  },
+  {
+   "fact": "她记下一笔要去商店",
+   "anchor": "I made a note to stop by the store",
+   "start": 1521,
+   "end": 1555,
+   "line": 24
+  },
+  {
+   "fact": "她进门时 Harrison 正好转过身",
+   "anchor": "By the time I stepped inside, Harrison was turning around",
+   "start": 1559,
+   "end": 1616,
+   "line": 27
+  },
+  {
+   "fact": "Harrison 的话是以半句开场（前文未给前半）",
+   "anchor": "—if you think it’s going to work",
+   "start": 1621,
+   "end": 1653,
+   "line": 30
+  },
+  {
+   "fact": "Harrison 对上她的眼、紧绷地笑说恭喜",
+   "anchor": "Then he met my eyes and smiled tightly. “Congrats.",
+   "start": 1683,
+   "end": 1733,
+   "line": 30
+  },
+  {
+   "fact": "她心跳已经加快",
+   "anchor": "my heart already beating faster",
+   "start": 1752,
+   "end": 1783,
+   "line": 33
+  },
+  {
+   "fact": "她第一反应是猜 Gazzie 夸过她的归档工作",
+   "anchor": "Had Gazzie praised my filing work?",
+   "start": 1785,
+   "end": 1819,
+   "line": 33
+  },
+  {
+   "fact": "她立刻自否：昨夜之后她凭什么夸",
+   "anchor": "Why would she after last night?",
+   "start": 1824,
+   "end": 1855,
+   "line": 33
+  },
+  {
+   "fact": "Harrison 说并不是让她审磷酸盐合同",
+   "anchor": "it’s not like she has you reviewing the phosphate contracts",
+   "start": 1867,
+   "end": 1926,
+   "line": 36
+  },
+  {
+   "fact": "Harrison 说这是个 step up",
+   "anchor": "It’s a step up",
+   "start": 1939,
+   "end": 1953,
+   "line": 36
+  },
+  {
+   "fact": "那天 Harrison 眼睛蓝得更深，像雨水洼而非天空",
+   "anchor": "Harrison’s eyes were a darker blue that day, more like a puddle of rainwater than the sky",
+   "start": 1956,
+   "end": 2045,
+   "line": 36
+  },
+  {
+   "fact": "Harrison 问她怎么把 Gazzie 说服的",
+   "anchor": "How’d you convince her?",
+   "start": 2048,
+   "end": 2071,
+   "line": 36
+  },
+  {
+   "fact": "她复述 Convince her、热意漫过脸颊",
+   "anchor": "Heat spread across my cheeks as he continued to look at me expectantly",
+   "start": 2103,
+   "end": 2173,
+   "line": 39
+  },
+  {
+   "fact": "Harrison 点明：让她去剥皮，今天早上开始",
+   "anchor": "You’re skinning? Starting this morning?",
+   "start": 2178,
+   "end": 2217,
+   "line": 42
+  },
+  {
+   "fact": "她瞪着他：你在开玩笑",
+   "anchor": "“You’re joking.",
+   "start": 2238,
+   "end": 2253,
+   "line": 45
+  },
+  {
+   "fact": "Harrison 的表情转为困惑",
+   "anchor": "His expression transitioned into bewilderment",
+   "start": 2257,
+   "end": 2302,
+   "line": 48
+  },
+  {
+   "fact": "他以为 Gazzie 告诉过她；Gazzie 昨夜给他发过短信",
+   "anchor": "I assumed she’d told you. She texted me last night",
+   "start": 2305,
+   "end": 2355,
+   "line": 48
+  },
+  {
+   "fact": "她的第一解释是 Gazzie 想吓跑她",
+   "anchor": "Gazzie was trying to scare me off",
+   "start": 2360,
+   "end": 2393,
+   "line": 51
+  },
+  {
+   "fact": "她原以为会被派往越来越令人崩溃的部门（因她用文件烦她）",
+   "anchor": "Given her attempt to bore me to death with files, I’d assumed she would assign me to increasingly upsetting departments",
+   "start": 2395,
+   "end": 2514,
+   "line": 51
+  },
+  {
+   "fact": "她把剥皮读成被扔进 proverbial fire",
+   "anchor": "She was throwing me into the proverbial fire",
+   "start": 2530,
+   "end": 2574,
+   "line": 51
+  },
+  {
+   "fact": "Gazzie 没亲自告诉她、也没能品味她预期的惊恐表情",
+   "anchor": "she didn’t care enough to tell me herself, savor the horrified expression she surely expected from me",
+   "start": 2585,
+   "end": 2686,
+   "line": 51
+  },
+  {
+   "fact": "同一件事的另一面：Gazzie 也看不到她的钢胃",
+   "anchor": "Unfortunately, that also meant she wouldn’t witness my steel stomach",
+   "start": 2688,
+   "end": 2756,
+   "line": 51
+  },
+  {
+   "fact": "她出声问：为何不直接把她放进屠宰",
+   "anchor": "Why not just put me in slaughter?",
+   "start": 2761,
+   "end": 2794,
+   "line": 54
+  },
+  {
+   "fact": "Harrison 嘴唇抽动；她想起他在屠宰房外变绿的脸色",
+   "anchor": "I remembered the shade of green he’d turned outside the slaughtering room",
+   "start": 2839,
+   "end": 2912,
+   "line": 57
+  },
+  {
+   "fact": "Harrison 答：那件事 Gazzie 喜欢自己做",
+   "anchor": "She likes to do that herself",
+   "start": 2915,
+   "end": 2943,
+   "line": 57
+  },
+  {
+   "fact": "Gazzie 说过这农场每年屠宰一万四千条鳄鱼",
+   "anchor": "Gazzie had said our farm slaughtered fourteen thousand alligators each year",
+   "start": 2948,
+   "end": 3023,
+   "line": 60
+  },
+  {
+   "fact": "她追问：她真的杀每一条？",
+   "anchor": "You’re telling me she kills every single alligator?",
+   "start": 3026,
+   "end": 3077,
+   "line": 60
+  },
+  {
+   "fact": "Harrison 确认「用手」，但补一句「大多数」",
+   "anchor": "Most of them, anyway",
+   "start": 3107,
+   "end": 3127,
+   "line": 63
+  },
+  {
+   "fact": "她打颤，想起昨夜 Gazzie 衬衫上那道红溅",
+   "anchor": "Shivering, I remembered the red splash across her shirt last night",
+   "start": 3132,
+   "end": 3198,
+   "line": 66
+  },
+  {
+   "fact": "她的推论：Gazzie 周末也杀鳄鱼，像是一种放松",
+   "anchor": "She even killed alligators on weekends. It was like it relaxed her",
+   "start": 3200,
+   "end": 3266,
+   "line": 66
+  },
+  {
+   "fact": "Harrison 脸上回到看她屠宰时那种不安",
+   "anchor": "The unease that had crept into his expression when we watched Gazzie’s slaughtering session had returned",
+   "start": 3301,
+   "end": 3405,
+   "line": 69
+  },
+  {
+   "fact": "叙述者替他总结：他不喜欢这生意里脏乱的部分",
+   "anchor": "He didn’t like the messy parts of the business",
+   "start": 3407,
+   "end": 3453,
+   "line": 69
+  },
+  {
+   "fact": "Harrison 绷紧下颌：今天由我培训你，你会用刀吗",
+   "anchor": "He set his jaw. “I’m training you today. You good with a knife?",
+   "start": 3457,
+   "end": 3520,
+   "line": 72
+  },
+  {
+   "fact": "防备卸下后她说了脑中最先冒出来的话",
+   "anchor": "Guard lowered, I said the first thing that came to mind",
+   "start": 3524,
+   "end": 3579,
+   "line": 75
+  },
+  {
+   "fact": "她编了 Savannah 同事午休剥鹿的说法",
+   "anchor": "Me and my coworkers back in Savannah used to skin deer on our lunch breaks",
+   "start": 3591,
+   "end": 3665,
+   "line": 75
+  },
+  {
+   "fact": "她自己评定那句不算太无礼",
+   "anchor": "That hadn’t been too rude",
+   "start": 3668,
+   "end": 3693,
+   "line": 75
+  },
+  {
+   "fact": "Harrison 笑了；她的唇先扬起再被她按回队列",
+   "anchor": "My lips slipped into a smile before I forced them back into line",
+   "start": 3709,
+   "end": 3773,
+   "line": 78
+  },
+  {
+   "fact": "她骂自己的唇：叛徒",
+   "anchor": "Traitors",
+   "start": 3775,
+   "end": 3783,
+   "line": 78
+  },
+  {
+   "fact": "Harrison 问她以前在哪儿工作",
+   "anchor": "Where’d you work?",
+   "start": 3788,
+   "end": 3805,
+   "line": 81
+  },
+  {
+   "fact": "答：动物福利非营利机构的营销公司",
+   "anchor": "A marketing agency for animal welfare nonprofits",
+   "start": 3820,
+   "end": 3868,
+   "line": 84
+  },
+  {
+   "fact": "Harrison 皱鼻：那事的讽刺我不知从何说起",
+   "anchor": "I can’t even begin to get into the irony of that one",
+   "start": 3896,
+   "end": 3948,
+   "line": 87
+  },
+  {
+   "fact": "她接话：同事知道她要做这会炸掉",
+   "anchor": "My coworkers would flip if they knew what I’m about to do",
+   "start": 3972,
+   "end": 4029,
+   "line": 90
+  },
+  {
+   "fact": "她答部门是 HR（一个词）",
+   "anchor": "“HR.",
+   "start": 4055,
+   "end": 4059,
+   "line": 96
+  },
+  {
+   "fact": "Harrison 又笑，带她走出前办公室",
+   "anchor": "He laughed again, then led us out of the front office",
+   "start": 4063,
+   "end": 4116,
+   "line": 99
+  },
+  {
+   "fact": "Nova 又给了一个薄笑，眼光在 Harrison 身上多留了一会儿",
+   "anchor": "her eyes lingering on Harrison a moment longer than necessary",
+   "start": 4166,
+   "end": 4227,
+   "line": 99
+  },
+  {
+   "fact": "叙述者判定：Nova 明显迷恋他",
+   "anchor": "She had quite the crush",
+   "start": 4229,
+   "end": 4252,
+   "line": 99
+  },
+  {
+   "fact": "她回问 HR 有什么好笑",
+   "anchor": "What’s so funny about that?",
+   "start": 4257,
+   "end": 4284,
+   "line": 102
+  },
+  {
+   "fact": "Harrison 说 HR 对她来说是完美匹配",
+   "anchor": "HR is a perfect fit for you",
+   "start": 4298,
+   "end": 4325,
+   "line": 105
+  },
+  {
+   "fact": "她不想听 HR 玩笑——她清楚自己的工作是告发同事",
+   "anchor": "Like I didn’t know my job was to rat out fellow employees",
+   "start": 4389,
+   "end": 4446,
+   "line": 108
+  },
+  {
+   "fact": "Harrison 说她擅长说与感受相反的话，至少对想讨好的人如 Gazzie",
+   "anchor": "You’re good at saying the opposite of what you feel",
+   "start": 4451,
+   "end": 4502,
+   "line": 111
+  },
+  {
+   "fact": "他解释时语气轻",
+   "anchor": "he explained lightly",
+   "start": 4505,
+   "end": 4525,
+   "line": 111
+  },
+  {
+   "fact": "她的头猛地转向他",
+   "anchor": "My head jerked toward him",
+   "start": 4591,
+   "end": 4616,
+   "line": 114
+  },
+  {
+   "fact": "她承认「假」并非不实——她压抑了很多",
+   "anchor": "which wasn’t not true—I was repressing a lot",
+   "start": 4642,
+   "end": 4686,
+   "line": 114
+  },
+  {
+   "fact": "她不喜欢被看穿",
+   "anchor": "I didn’t like that he’d clocked it",
+   "start": 4691,
+   "end": 4725,
+   "line": 114
+  },
+  {
+   "fact": "平时根本没人注意到她",
+   "anchor": "Usually, no one noticed me at all",
+   "start": 4727,
+   "end": 4760,
+   "line": 114
+  },
+  {
+   "fact": "走侧廊去加工区时两人之间落下沉默",
+   "anchor": "silence fell between us",
+   "start": 4824,
+   "end": 4847,
+   "line": 117
+  },
+  {
+   "fact": "沉默不尴尬，却也谈不上舒服",
+   "anchor": "It wasn’t awkward, but it wasn’t exactly comfortable, either",
+   "start": 4849,
+   "end": 4909,
+   "line": 117
+  },
+  {
+   "fact": "Harrison 以闲聊的口吻问 Greer House 待她如何",
+   "anchor": "How’s Greer House treating you?",
+   "start": 4914,
+   "end": 4945,
+   "line": 120
+  },
+  {
+   "fact": "她只答 Fine",
+   "anchor": "“Fine.",
+   "start": 4976,
+   "end": 4982,
+   "line": 123
+  },
+  {
+   "fact": "她脸红：希望上次被他看见时别是又惊恐又没穿内衣",
+   "anchor": "I wished I hadn’t been terrified and braless the last time he’d seen me",
+   "start": 4996,
+   "end": 5067,
+   "line": 126
+  },
+  {
+   "fact": "她想起自己闯入过他的房间、想象他在床上的样子",
+   "anchor": "I remembered how I’d invaded his room, pictured him in his bed",
+   "start": 5089,
+   "end": 5151,
+   "line": 126
+  },
+  {
+   "fact": "Harrison 掏出钥匙串、把一把插进门",
+   "anchor": "Pulling out his ring of keys, he stuck one in the door",
+   "start": 5155,
+   "end": 5209,
+   "line": 129
+  },
+  {
+   "fact": "Harrison 问：Gazzie 还觉得那是你曾曾祖母的鬼吗",
+   "anchor": "Does Gazzie still think it’s your great-great-grandmother’s ghost?",
+   "start": 5212,
+   "end": 5278,
+   "line": 129
+  },
+  {
+   "fact": "她反问：她跟你说了？",
+   "anchor": "She told you that?",
+   "start": 5283,
+   "end": 5301,
+   "line": 132
+  },
+  {
+   "fact": "Harrison 晃了晃锁里的钥匙：我知道她迷信",
+   "anchor": "He jiggled the key in the lock. “I know she’s superstitious",
+   "start": 5305,
+   "end": 5364,
+   "line": 135
+  },
+  {
+   "fact": "她犹豫：不肯在对手面前说 Gazzie 坏话——他会拿来对付她",
+   "anchor": "I wasn’t about to shit talk Gazzie in front of my rival—he’d use it against me",
+   "start": 5382,
+   "end": 5460,
+   "line": 138
+  },
+  {
+   "fact": "她的答话：Greer House 邪门得要命",
+   "anchor": "Greer House is creepy as hell",
+   "start": 5463,
+   "end": 5492,
+   "line": 138
+  },
+  {
+   "fact": "Harrison 开门时给了她一个审视的注视",
+   "anchor": "he gave me a searching look",
+   "start": 5520,
+   "end": 5547,
+   "line": 141
+  },
+  {
+   "fact": "Harrison 半句未说完：你真觉得——",
+   "anchor": "You don’t really think—",
+   "start": 5550,
+   "end": 5573,
+   "line": 141
+  },
+  {
+   "fact": "她答「显然不觉得」并挤出一声笑",
+   "anchor": "Obviously not.” I forced a laugh",
+   "start": 5578,
+   "end": 5610,
+   "line": 144
+  },
+  {
+   "fact": "她说被误会一小会儿也说得通，尤其熬夜时水管在嚎",
+   "anchor": "Especially if you’re up late and the pipes are howling",
+   "start": 5659,
+   "end": 5713,
+   "line": 144
+  },
+  {
+   "fact": "她忍不住想起浴水里的倒影、飘进餐厅的身影",
+   "anchor": "I couldn’t help but picture the reflection in the bathwater, the figure drifting into the dining room",
+   "start": 5720,
+   "end": 5821,
+   "line": 144
+  },
+  {
+   "fact": "Harrison 质疑的一瞥让她闭嘴、从他身边挤进加工区走廊",
+   "anchor": "At Harrison’s questioning glance, I shut up, pushing past him into the processing facility hallway",
+   "start": 5825,
+   "end": 5923,
+   "line": 147
+  },
+  {
+   "fact": "她迅速找到剥皮室的门、在门外等，以确认自己记得没错",
+   "anchor": "I quickly located the skinning room door and waited outside to make sure I’d remembered correctly",
+   "start": 5925,
+   "end": 6022,
+   "line": 147
+  },
+  {
+   "fact": "Harrison 走向同一扇门并开锁，她感到满意",
+   "anchor": "To my satisfaction, Harrison headed to the same door and unlocked it",
+   "start": 6024,
+   "end": 6092,
+   "line": 147
+  },
+  {
+   "fact": "剥皮室地面是混凝土，中间立着两张金属桌",
+   "anchor": "The skinning room floor was concrete. In the middle of it stood two metal tables",
+   "start": 6096,
+   "end": 6176,
+   "line": 150
+  },
+  {
+   "fact": "门对面墙上装了工业级水槽和纸巾架",
+   "anchor": "An industrial-sized sink with a paper towel dispenser was installed on the wall across from the door",
+   "start": 6178,
+   "end": 6278,
+   "line": 150
+  },
+  {
+   "fact": "本像乡村兽医诊所，除钟下挂着 Ida Greer 主肖像的复制件",
+   "anchor": "except for the copy of Ida Greer’s main portrait hanging underneath a wall clock",
+   "start": 6323,
+   "end": 6403,
+   "line": 150
+  },
+  {
+   "fact": "Ida 的目光固定在剥皮桌上",
+   "anchor": "her gaze fixed on the skinning tables",
+   "start": 6405,
+   "end": 6442,
+   "line": 150
+  },
+  {
+   "fact": "她小声说：怎么又是她",
+   "anchor": "“Not her again,” I muttered",
+   "start": 6446,
+   "end": 6473,
+   "line": 153
+  },
+  {
+   "fact": "Harrison 咧嘴：她也让我起鸡皮疙瘩",
+   "anchor": "She gives me the heebie-jeebies, too",
+   "start": 6497,
+   "end": 6533,
+   "line": 156
+  },
+  {
+   "fact": "她瞥他，努力不因这份同盟感生出感激",
+   "anchor": "trying not to feel appreciation for the solidarity",
+   "start": 6556,
+   "end": 6606,
+   "line": 159
+  },
+  {
+   "fact": "一滴水落在 Harrison 头上，他跳了一下",
+   "anchor": "A drop of water fell on his head, making him jump",
+   "start": 6610,
+   "end": 6659,
+   "line": 162
+  },
+  {
+   "fact": "两人抬头看见天花板上一道新的、太熟悉的裂缝",
+   "anchor": "a new, all-too-familiar crack on the ceiling",
+   "start": 6682,
+   "end": 6726,
+   "line": 162
+  },
+  {
+   "fact": "Harrison 掏出手机",
+   "anchor": "and he pulled out his phone",
+   "start": 6728,
+   "end": 6755,
+   "line": 162
+  },
+  {
+   "fact": "她问：这地方到底怎么回事",
+   "anchor": "What is it with this place?",
+   "start": 6760,
+   "end": 6787,
+   "line": 165
+  },
+  {
+   "fact": "Harrison 说从他五年前入职起就这样：东西不停漏、不停坏",
+   "anchor": "It’s been like this since I started working here five years ago. Things constantly leaking, breaking",
+   "start": 6801,
+   "end": 6901,
+   "line": 168
+  },
+  {
+   "fact": "他打量她后补一句：但我控制得住",
+   "anchor": "But I’ve got it under control",
+   "start": 6926,
+   "end": 6955,
+   "line": 168
+  },
+  {
+   "fact": "又一滴落在他肩上",
+   "anchor": "Another drop fell on his shoulder",
+   "start": 6960,
+   "end": 6993,
+   "line": 171
+  },
+  {
+   "fact": "她答「看上去确实」，压不住欢快的语气",
+   "anchor": "unable to suppress a cheerful tone",
+   "start": 7030,
+   "end": 7064,
+   "line": 174
+  },
+  {
+   "fact": "Harrison 顶回来：每天和 Ironheart 打仗很难",
+   "anchor": "it’s hard doing battle with Ironheart every day",
+   "start": 7091,
+   "end": 7138,
+   "line": 177
+  },
+  {
+   "fact": "她惊了一下：Greer 家以外的人头一回说出那神话生物的名字",
+   "anchor": "surprised to hear the mythological creature’s name from someone other than a Greer",
+   "start": 7155,
+   "end": 7237,
+   "line": 180
+  },
+  {
+   "fact": "他咧嘴、她回笑，却压不住一股不安",
+   "anchor": "though I couldn’t repress a sense of unease",
+   "start": 7270,
+   "end": 7313,
+   "line": 180
+  },
+  {
+   "fact": "联系完屋顶工，他递给她帆布围裙和一双蓝色塑料手套",
+   "anchor": "After calling the roofers, he handed me a canvas apron and a pair of blue plastic gloves",
+   "start": 7317,
+   "end": 7405,
+   "line": 183
+  },
+  {
+   "fact": "他说练熟了就不会一身鳄鱼汁地走出去",
+   "anchor": "you won’t walk out of here splattered with gator juices",
+   "start": 7428,
+   "end": 7483,
+   "line": 183
+  },
+  {
+   "fact": "她复述 Gator juices 时带着兴趣",
+   "anchor": "“Gator juices,” I repeated, intrigued",
+   "start": 7541,
+   "end": 7578,
+   "line": 186
+  },
+  {
+   "fact": "Harrison 打了个颤；她对他亮出一个灿烂的笑",
+   "anchor": "Harrison shuddered, and I flashed him a bright smile",
+   "start": 7582,
+   "end": 7634,
+   "line": 189
+  },
+  {
+   "fact": "他看着她的凉鞋：脚只能听天由命",
+   "anchor": "Eyeing my flip-flops, he added, “Your feet are going to have to hope for the best",
+   "start": 7636,
+   "end": 7717,
+   "line": 189
+  },
+  {
+   "fact": "她回嘴：怪你没交代着装要求，Manager 先生",
+   "anchor": "Not my fault you failed to communicate the dress code, Mr. Manager",
+   "start": 7723,
+   "end": 7789,
+   "line": 192
+  },
+  {
+   "fact": "她自陈：那次偷去 grow-out barn 之后她就认命待在档案室、靴子留在家",
+   "anchor": "After my illicit trip to the grow-out barn, I’d resigned myself to the filing room and left my boots at home",
+   "start": 7792,
+   "end": 7900,
+   "line": 192
+  },
+  {
+   "fact": "Harrison 哼了一声，然后对着对讲机低声说话",
+   "anchor": "He snorted, then muttered into his walkie-talkie",
+   "start": 7904,
+   "end": 7952,
+   "line": 195
+  },
+  {
+   "fact": "几分钟后两名员工抬着一条死鳄鱼穿过双门",
+   "anchor": "two employees shuffled through the double doors, a dead alligator slung between them",
+   "start": 7970,
+   "end": 8054,
+   "line": 195
+  },
+  {
+   "fact": "山羊胡男人扛上身，壮硕的金发男人扛尾部",
+   "anchor": "The goateed man supported its upper body, the stocky blond man its tail",
+   "start": 8056,
+   "end": 8127,
+   "line": 195
+  },
+  {
+   "fact": "他们把它抡上桌后，山羊胡男人把她打量了一遍",
+   "anchor": "the goateed man gave me a once-over",
+   "start": 8168,
+   "end": 8203,
+   "line": 198
+  },
+  {
+   "fact": "那不是好色的打量",
+   "anchor": "It wasn’t lascivious",
+   "start": 8205,
+   "end": 8225,
+   "line": 198
+  },
+  {
+   "fact": "他看她像看她祖母——带一点厌恶，仿佛鳄鱼内脏已抹在她衬衫上",
+   "anchor": "he looked at me as he had my grandmother—with a mild expression of disgust, like alligator guts were already smeared across my shirt",
+   "start": 8227,
+   "end": 8359,
+   "line": 198
+  },
+  {
+   "fact": "他拍了 Harrison 的肩，一言未发离开",
+   "anchor": "Then he slapped Harrison’s shoulder and left without a word",
+   "start": 8361,
+   "end": 8420,
+   "line": 198
+  },
+  {
+   "fact": "她问那是谁；Harrison 反问谁是",
+   "anchor": "Who’s that?” I asked.\n\n\n“Who’s who?",
+   "start": 8425,
+   "end": 8460,
+   "line": 201
+  },
+  {
+   "fact": "她把来人称为「带态度那个男人」",
+   "anchor": "The man with the attitude",
+   "start": 8529,
+   "end": 8554,
+   "line": 207
+  },
+  {
+   "fact": "Harrison 把鳄鱼往左拽、在桌上摆正",
+   "anchor": "He yanked the alligator to the left, centering it on the table",
+   "start": 8462,
+   "end": 8524,
+   "line": 204
+  },
+  {
+   "fact": "Harrison 报名：Joe，第三代鳄鱼农",
+   "anchor": "Joe. Third-generation gator farmer",
+   "start": 8564,
+   "end": 8598,
+   "line": 210
+  },
+  {
+   "fact": "Gazzie 前阵子买断了他家的农场",
+   "anchor": "Gazzie bought out his family’s farm a while ago",
+   "start": 8600,
+   "end": 8647,
+   "line": 210
+  },
+  {
+   "fact": "搬走鳄鱼与设备时 Joe 一起过来了，家族秘密也一并带来",
+   "anchor": "he came with. Brought his family secrets along, too",
+   "start": 8702,
+   "end": 8753,
+   "line": 210
+  },
+  {
+   "fact": "她心想这家的秘密已经太多了",
+   "anchor": "This family had more than enough of those",
+   "start": 8758,
+   "end": 8799,
+   "line": 213
+  },
+  {
+   "fact": "她脑中闪到 Leon 的锁箱，打算下班后研究怎么开",
+   "anchor": "My mind flicked to Uncle Leon’s lockbox; I’d figure out how to open it after work",
+   "start": 8801,
+   "end": 8882,
+   "line": 213
+  },
+  {
+   "fact": "她追问：哪类秘密",
+   "anchor": "What kind of secrets?",
+   "start": 8885,
+   "end": 8906,
+   "line": 213
+  },
+  {
+   "fact": "Harrison：不是有趣那种——饲料配方、蛋供应商",
+   "anchor": "Not the fun kind. Feed mixtures, egg vendors",
+   "start": 8911,
+   "end": 8955,
+   "line": 216
+  },
+  {
+   "fact": "她松了一口气",
+   "anchor": "That was a relief",
+   "start": 8960,
+   "end": 8977,
+   "line": 219
+  },
+  {
+   "fact": "她问：她跟他处得来吗",
+   "anchor": "Does she get along with him?",
+   "start": 8980,
+   "end": 9008,
+   "line": 219
+  },
+  {
+   "fact": "Harrison：还过得去；她喜欢能干的人",
+   "anchor": "Well enough. She likes competence",
+   "start": 9013,
+   "end": 9046,
+   "line": 222
+  },
+  {
+   "fact": "她猜测：他并不喜欢她",
+   "anchor": "He doesn’t like her, though,” I guessed",
+   "start": 9052,
+   "end": 9091,
+   "line": 225
+  },
+  {
+   "fact": "Harrison 找礼貌说法：他有点「老派」",
+   "anchor": "Harrison searched for a polite way to phrase it. “Old-fashioned",
+   "start": 9112,
+   "end": 9175,
+   "line": 228
+  },
+  {
+   "fact": "她在心里给这个词加判：能藏住无数罪念的词",
+   "anchor": "A word that could hide any number of sinful attitudes",
+   "start": 9195,
+   "end": 9248,
+   "line": 231
+  },
+  {
+   "fact": "她直接猜出：他不喜欢为一个女人干活",
+   "anchor": "Let me guess. He doesn’t like working for a woman?",
+   "start": 9251,
+   "end": 9301,
+   "line": 231
+  },
+  {
+   "fact": "Harrison 补第二桩：她是个为取乐经营农场的百万富翁",
+   "anchor": "That and the fact she’s a multimillionaire running a farm for fun",
+   "start": 9306,
+   "end": 9371,
+   "line": 234
+  },
+  {
+   "fact": "她评：留下讨厌自己的员工算她宽宏",
+   "anchor": "Magnanimous of her to keep an employee who disliked her",
+   "start": 9376,
+   "end": 9431,
+   "line": 237
+  },
+  {
+   "fact": "她自述遇到过蔑视女上司的员工，通常是不好惹的人",
+   "anchor": "I’d dealt with employees who held their female bosses in contempt. Troublemakers, usually",
+   "start": 9433,
+   "end": 9522,
+   "line": 237
+  },
+  {
+   "fact": "Harrison 挑眉：审问结束了吗",
+   "anchor": "Interrogation over?",
+   "start": 9557,
+   "end": 9576,
+   "line": 240
+  },
+  {
+   "fact": "她瞪了一眼，把注意力转回鳄鱼",
+   "anchor": "Scowling, I redirected my attention to the alligator",
+   "start": 9580,
+   "end": 9632,
+   "line": 243
+  },
+  {
+   "fact": "鳄鱼的短手脚垂过桌沿",
+   "anchor": "Its short arms and legs flopped over the table’s sides",
+   "start": 9634,
+   "end": 9688,
+   "line": 243
+  },
+  {
+   "fact": "眼闭着，本像睡着了，除头上那道裂口",
+   "anchor": "Eyes closed, it could have been asleep, except for the gash in its head",
+   "start": 9690,
+   "end": 9761,
+   "line": 243
+  },
+  {
+   "fact": "一块白肉从伤口探出，像泰迪熊漏出的填充棉",
+   "anchor": "A chunk of white flesh peeked through, like stuffing poking out of a teddy bear",
+   "start": 9763,
+   "end": 9842,
+   "line": 243
+  },
+  {
+   "fact": "怜悯冲过时她想象 Gazzie 把棒球棒举在鳄鱼头顶",
+   "anchor": "I pictured Gazzie holding the baseball bat above its head",
+   "start": 9869,
+   "end": 9926,
+   "line": 243
+  },
+  {
+   "fact": "她把画面赶出脑子：这样想赢不了 Gazzie",
+   "anchor": "Then I banished the image from my mind. I wouldn’t win her over thinking like that",
+   "start": 9928,
+   "end": 10010,
+   "line": 243
+  },
+  {
+   "fact": "Harrison 带着自嘲的咧嘴指到桌子另一边：我讲你听",
+   "anchor": "pointing to the other side of the table with a self-effacing grimace",
+   "start": 10064,
+   "end": 10132,
+   "line": 246
+  },
+  {
+   "fact": "先讲 Skinning 101，是 Gazzie 的命令",
+   "anchor": "Skinning 101 first, Gazzie’s orders",
+   "start": 10135,
+   "end": 10170,
+   "line": 246
+  },
+  {
+   "fact": "要从鳄鱼身上拿两样：皮和肉",
+   "anchor": "We need two main things from the gator: its skin and its meat",
+   "start": 10172,
+   "end": 10233,
+   "line": 246
+  },
+  {
+   "fact": "Harrison  presumably 在等她呕吐，但尸身一点不让她恶心",
+   "anchor": "He eyed me, presumably waiting for me to vomit, but the carcass didn’t disgust me in the least",
+   "start": 10238,
+   "end": 10332,
+   "line": 249
+  },
+  {
+   "fact": "她高兴于自己对活鳄的不适没有延续到死的",
+   "anchor": "I was pleased that my unease around living alligators didn’t carry over to the dead",
+   "start": 10334,
+   "end": 10417,
+   "line": 249
+  },
+  {
+   "fact": "她说更年轻、更不放肆的自己早该掏出速写本了",
+   "anchor": "My younger, less restrained self would have already pulled out her sketchbook",
+   "start": 10419,
+   "end": 10496,
+   "line": 249
+  },
+  {
+   "fact": "皮的价值取决于长度和无瑕疵",
+   "anchor": "Skin value,” he continued, “depends on length and lack of blemishes",
+   "start": 10501,
+   "end": 10568,
+   "line": 252
+  },
+  {
+   "fact": "所以要防止打斗留疤；养到六英尺左右才——",
+   "anchor": "we raise them until they’re six or so feet before we, you know",
+   "start": 10624,
+   "end": 10686,
+   "line": 252
+  },
+  {
+   "fact": "她内心评：作为鳄鱼农场的继承人，他太不愿谈屠宰",
+   "anchor": "For the heir apparent of an alligator farm, he was awfully reluctant to talk about slaughtering",
+   "start": 10691,
+   "end": 10786,
+   "line": 255
+  },
+  {
+   "fact": "她问头怎么处理",
+   "anchor": "What about the head?",
+   "start": 10789,
+   "end": 10809,
+   "line": 255
+  },
+  {
+   "fact": "Harrison：只有 trophy gators 留头",
+   "anchor": "Heads only stay on for trophy gators",
+   "start": 10814,
+   "end": 10850,
+   "line": 258
+  },
+  {
+   "fact": "trophy gators 是休闲猎手送来的，加工费高得离谱",
+   "anchor": "Dropped off by recreational hunters. We process them for an unholy price",
+   "start": 10871,
+   "end": 10943,
+   "line": 264
+  },
+  {
+   "fact": "她想起门厅里 Ironheart 的皮与那只独眼的头",
+   "anchor": "I thought of Ironheart’s skin in the foyer, its one-eyed head",
+   "start": 10948,
+   "end": 11009,
+   "line": 267
+  },
+  {
+   "fact": "Harrison：农场养的鳄鱼去掉头；其余皮送制革厂与精品店，做成没见过沼泽的富人的包",
+   "anchor": "where they make fancy gator-skin bags for rich people who’ve never seen a swamp in their lives",
+   "start": 11151,
+   "end": 11245,
+   "line": 270
+  },
+  {
+   "fact": "她问头去哪儿",
+   "anchor": "Where do the heads go?",
+   "start": 11251,
+   "end": 11273,
+   "line": 273
+  },
+  {
+   "fact": "Harrison：便宜卖给做标本的商贩再卖给游客；爪一样；尽量不浪费",
+   "anchor": "We sell them on the cheap to a few vendors who preserve them and sell them to tourists. Same for the claws. We try to limit waste",
+   "start": 11278,
+   "end": 11407,
+   "line": 276
+  },
+  {
+   "fact": "她想：总算有一件好事",
+   "anchor": "Well, that was one good thing",
+   "start": 11412,
+   "end": 11441,
+   "line": 279
+  },
+  {
+   "fact": "Harrison 不等她回答就宣布讲课结束",
+   "anchor": "Without waiting for my reply, he said, “Good. Lecture over.",
+   "start": 11462,
+   "end": 11521,
+   "line": 282
+  },
+  {
+   "fact": "她判：他显然想赶紧把这事了结",
+   "anchor": "He clearly wanted to get this done with",
+   "start": 11523,
+   "end": 11562,
+   "line": 282
+  },
+  {
+   "fact": "他从附近台面托盘取一把木柄磨损的刀，刃比她预期的短",
+   "anchor": "he grabbed a knife with a worn wood handle, its blade shorter than I’d expected",
+   "start": 11599,
+   "end": 11678,
+   "line": 285
+  },
+  {
+   "fact": "像普通牛排刀但更厚",
+   "anchor": "Like a normal steak knife but thicker",
+   "start": 11680,
+   "end": 11717,
+   "line": 285
+  },
+  {
+   "fact": "剥法有多种，他要示范农场的标准",
+   "anchor": "We could skin the alligators multiple ways, he explained, but he was going to show me the farm’s standard",
+   "start": 11719,
+   "end": 11824,
+   "line": 285
+  },
+  {
+   "fact": "从颈部起、在 scutes（骨板）上方、身体顶端下刀，再沿腿切",
+   "anchor": "We’d start around the neck, above the scutes—the bony plates—at the top of its body. Then we’d cut along the legs",
+   "start": 11826,
+   "end": 11939,
+   "line": 285
+  },
+  {
+   "fact": "他无疑以为她已被新信息冲垮，就停在这里说开始",
+   "anchor": "No doubt expecting me to be overwhelmed by the onslaught of new information, he stopped there",
+   "start": 11943,
+   "end": 12036,
+   "line": 288
+  },
+  {
+   "fact": "他稳了口气，把刀从颈右侧推进鳄鱼背部、连拽三下到另一侧",
+   "anchor": "he pushed the knife into the alligator’s back to the right of its neck, jerking it three times until it reached the other side",
+   "start": 12081,
+   "end": 12207,
+   "line": 291
+  },
+  {
+   "fact": "拔刀时血从刀尖滴到桌上",
+   "anchor": "blood dripping from its tip onto the table",
+   "start": 12232,
+   "end": 12274,
+   "line": 291
+  },
+  {
+   "fact": "他让她沿背部纵向切",
+   "anchor": "Now you cut along the back. Lengthwise",
+   "start": 12279,
+   "end": 12317,
+   "line": 294
+  },
+  {
+   "fact": "她接过刀、贴在他停下的颈部位置；感觉像把勺子按在木桌上",
+   "anchor": "It was like holding a spoon to a wood table",
+   "start": 12412,
+   "end": 12455,
+   "line": 297
+  },
+  {
+   "fact": "她问怎么进得去",
+   "anchor": "How does it go in?",
+   "start": 12458,
+   "end": 12476,
+   "line": 297
+  },
+  {
+   "fact": "Harrison 说用锋利那面；他想刻薄但不断咽口水毁了效果",
+   "anchor": "He was going for snide, but his constant swallowing ruined the effect",
+   "start": 12502,
+   "end": 12571,
+   "line": 300
+  },
+  {
+   "fact": "她说那边有垃圾桶，需要就用",
+   "anchor": "There’s a trash can over there if you need it",
+   "start": 12576,
+   "end": 12621,
+   "line": 303
+  },
+  {
+   "fact": "他今早第二次哼，越过桌子把手悬在她手上方问介不介意",
+   "anchor": "Snorting for the second time that morning, he reached over the table, hovering his hands above mine",
+   "start": 12626,
+   "end": 12725,
+   "line": 306
+  },
+  {
+   "fact": "dryer sheets 的香味飘来，比他 Greer House 房间里那件衬衫浓十倍",
+   "anchor": "The fragrance of dryer sheets drifted toward me, ten times stronger than the shirt in his room at Greer House",
+   "start": 12754,
+   "end": 12863,
+   "line": 309
+  },
+  {
+   "fact": "他不再笑了；眼神在她两只眼睛间来回，是在讨许可",
+   "anchor": "His eyes flicked back and forth between mine, asking for permission",
+   "start": 12892,
+   "end": 12959,
+   "line": 309
+  },
+  {
+   "fact": "她以为他碰她会让她发慌，但拒绝被吓住，点了点头",
+   "anchor": "I assumed he thought touching me would unnerve me, but I refused to be bullied. I inclined my head",
+   "start": 12961,
+   "end": 13059,
+   "line": 309
+  },
+  {
+   "fact": "他的手包住她的手；掌心起茧、粗糙",
+   "anchor": "His hand engulfed mine. His palms were callused, rough",
+   "start": 13063,
+   "end": 13117,
+   "line": 312
+  },
+  {
+   "fact": "她此前没注意过他的唇：干但不裂，大概柔软",
+   "anchor": "I hadn’t noticed his lips before. Dry but not cracked. Soft, probably",
+   "start": 13119,
+   "end": 13188,
+   "line": 312
+  },
+  {
+   "fact": "他眼盯尸身轻轻下压；刀并不像她以为的那样滑入，它有阻力",
+   "anchor": "The knife didn’t slip in the way I’d assumed. It resisted",
+   "start": 13237,
+   "end": 13294,
+   "line": 315
+  },
+  {
+   "fact": "她倾身、由他带手；如布被撕开的一声裂响，刀咬住了",
+   "anchor": "With a tear, like fabric ripping, the knife found purchase",
+   "start": 13336,
+   "end": 13394,
+   "line": 315
+  },
+  {
+   "fact": "兴奋在体内起涟漪；她想像翻书一样摊开这鳄鱼，看清它怎么运转再画下来",
+   "anchor": "I could unfurl this alligator’s body like a book. See what made it tick, then capture that in a drawing",
+   "start": 13429,
+   "end": 13532,
+   "line": 318
+  },
+  {
+   "fact": "里面的肉是白的，她以为会更红；凑近一看，是粉",
+   "anchor": "Inside, its flesh was white. I’d expected it to be redder. Releasing the knife, I leaned closer—no, it was pink",
+   "start": 13534,
+   "end": 13645,
+   "line": 318
+  },
+  {
+   "fact": "脑中闪过 Michelle 躺在她初中混凝土操场上",
+   "anchor": "My mind flashed to Michelle, lying on my middle school’s concrete playground",
+   "start": 13649,
+   "end": 13725,
+   "line": 321
+  },
+  {
+   "fact": "Michelle 的血稀如水彩，却浓如油画颜料",
+   "anchor": "Her blood had been thin, like a watercolor wash, but richly colored, like oil paint",
+   "start": 13727,
+   "end": 13810,
+   "line": 321
+  },
+  {
+   "fact": "她从没见过那样的东西；用手指蘸过血洼举近眼前——句子被破折号截断",
+   "anchor": "I’d grazed the puddle with a finger, lifting it closer to my eyes—",
+   "start": 13845,
+   "end": 13911,
+   "line": 321
+  },
+  {
+   "fact": "Harrison 说不舒服可以停",
+   "anchor": "We can stop if you feel sick",
+   "start": 13915,
+   "end": 13943,
+   "line": 324
+  },
+  {
+   "fact": "他的声音把她从记忆里拉出，目光重新聚焦在他脸上",
+   "anchor": "His voice pulled me from the memory, and my eyes refocused on his face",
+   "start": 13963,
+   "end": 14033,
+   "line": 327
+  },
+  {
+   "fact": "她自责控制那么久又走神，还是在人前",
+   "anchor": "I’d done it again, after controlling myself for so long—let my mind wander into dangerous territory. And in front of someone, too",
+   "start": 14035,
+   "end": 14164,
+   "line": 327
+  },
+  {
+   "fact": "她自问：他注意到了吗",
+   "anchor": "Had he noticed?",
+   "start": 14166,
+   "end": 14181,
+   "line": 327
+  },
+  {
+   "fact": "她的判读：没有；他那句话在她停顿时更像得意而非关切",
+   "anchor": "His voice had been more triumphant than concerned at my pause",
+   "start": 14188,
+   "end": 14249,
+   "line": 330
+  },
+  {
+   "fact": "他把她的不动归为恶心而非快感；他以为自己赢了她",
+   "anchor": "he credited my motionlessness to disgust—not pleasure. He thought he’d beat me",
+   "start": 14251,
+   "end": 14329,
+   "line": 330
+  },
+  {
+   "fact": "某一刻他把刀拔出、擦净放在尾巴旁的桌上",
+   "anchor": "At some point, he’d pulled the knife from the alligator’s body, cleaned it, and set it on the table next to the tail",
+   "start": 14333,
+   "end": 14449,
+   "line": 333
+  },
+  {
+   "fact": "她说需要一个时刻——不是谎；请他再讲一遍步骤",
+   "anchor": "I just need a moment,” I said. Not a lie. “Can you go over the steps one more time?",
+   "start": 14454,
+   "end": 14537,
+   "line": 336
+  },
+  {
+   "fact": "他照办；他讲时她用 knife 描轮廓",
+   "anchor": "He obliged. As he spoke, I traced the outline with the knife",
+   "start": 14541,
+   "end": 14601,
+   "line": 339
+  },
+  {
+   "fact": "他讲完她深吸一口气，想象石膏糊上脸、把脸刷成无表情",
+   "anchor": "imagining plaster pouring over my face, rendering it expressionless",
+   "start": 14648,
+   "end": 14715,
+   "line": 339
+  },
+  {
+   "fact": "Harrison 半句：我们可以告诉 Gazzie 你不想要——",
+   "anchor": "Seriously, we can tell Gazzie you don’t want—",
+   "start": 14720,
+   "end": 14765,
+   "line": 342
+  },
+  {
+   "fact": "但她已经把刀推进去了",
+   "anchor": "But I was already pushing the knife in",
+   "start": 14769,
+   "end": 14807,
+   "line": 345
+  },
+  {
+   "fact": "她沿鳄鱼侧身切到尾根再横切；绕过尾巴时察觉 Harrison 在让开",
+   "anchor": "As I stepped around the tail to the table’s other side, I sensed Harrison moving out of my way",
+   "start": 14891,
+   "end": 14985,
+   "line": 345
+  },
+  {
+   "fact": "手握刀时她觉得自己能干、掌控得住",
+   "anchor": "With the knife in my hand, I felt competent, in control",
+   "start": 14987,
+   "end": 15042,
+   "line": 345
+  },
+  {
+   "fact": "她自问：这不算邪恶吧",
+   "anchor": "That wasn’t wicked, was it?",
+   "start": 15044,
+   "end": 15071,
+   "line": 345
+  },
+  {
+   "fact": "绕过 scutes 切完后她停下、在围裙上擦刀",
+   "anchor": "Once I’d cut around the scutes, I stopped and wiped the blade on my apron",
+   "start": 15074,
+   "end": 15147,
+   "line": 348
+  },
+  {
+   "fact": "抬头时 Harrison 带着某种担忧盯着她",
+   "anchor": "When I looked up, Harrison was staring at me with something like worry",
+   "start": 15149,
+   "end": 15219,
+   "line": 348
+  },
+  {
+   "fact": "她立刻自问：是不是又走神了",
+   "anchor": "Had I slipped again?",
+   "start": 15221,
+   "end": 15241,
+   "line": 348
+  },
+  {
+   "fact": "他说她是天生的；担忧已变成不甘的笑",
+   "anchor": "His worried expression had morphed into a begrudging smile",
+   "start": 15273,
+   "end": 15331,
+   "line": 351
+  },
+  {
+   "fact": "满足扫过她：他承认她确有能耐，是潜在威胁",
+   "anchor": "He’d realized I was, in fact, capable. A potential threat",
+   "start": 15366,
+   "end": 15423,
+   "line": 354
+  },
+  {
+   "fact": "她想：他若觉得她做得好，Gazzie 也许也会",
+   "anchor": "If he thought I was doing a good job, maybe Gazzie would, too",
+   "start": 15425,
+   "end": 15486,
+   "line": 354
+  },
+  {
+   "fact": "随后愧疚落在胃底：Mama 看到她手里握刀会愤怒",
+   "anchor": "Then guilt settled in the pit of my stomach. Mama would have been furious to see a knife in my hand",
+   "start": 15488,
+   "end": 15587,
+   "line": 354
+  },
+  {
+   "fact": "她问下一步",
+   "anchor": "“What’s next?",
+   "start": 15591,
+   "end": 15604,
+   "line": 357
+  },
+  {
+   "fact": "Harrison 一边猛扯皮一边讲：再绕手臂和腹部细切，那最软也最值钱",
+   "anchor": "then carefully cutting around the arms and belly—the softest, most valuable part",
+   "start": 15651,
+   "end": 15731,
+   "line": 360
+  },
+  {
+   "fact": "刮掉碎肉、洗净、挂到后间晾干",
+   "anchor": "before washing it off and hanging it in the back room to dry",
+   "start": 15772,
+   "end": 15832,
+   "line": 360
+  },
+  {
+   "fact": "当天晚些另一名队员——很可能是 Joe——腌皮，工序是往皮上抹盐",
+   "anchor": "another team member, probably Joe, would cure the hide, a process that involved slathering the skin with salt",
+   "start": 15850,
+   "end": 15959,
+   "line": 360
+  },
+  {
+   "fact": "那天下午她们剥了六条鳄鱼",
+   "anchor": "We skinned six alligators that afternoon",
+   "start": 15963,
+   "end": 16003,
+   "line": 363
+  },
+  {
+   "fact": "每条内部都不一样：有的多肉，有的多血",
+   "anchor": "Each one was different on the inside—some meatier than others, some bloodier",
+   "start": 16005,
+   "end": 16081,
+   "line": 363
+  },
+  {
+   "fact": "她细看每一条，好留待日后画",
+   "anchor": "I examined them carefully so I could sketch them later",
+   "start": 16083,
+   "end": 16137,
+   "line": 363
+  },
+  {
+   "fact": "快下班时屋顶工出现、查看天花板裂缝；漏已大到下面要放三只桶",
+   "anchor": "the leak now large enough to need three buckets under it",
+   "start": 16227,
+   "end": 16283,
+   "line": 366
+  },
+  {
+   "fact": "她觉得漏水随她每剥一条翻倍，几乎像水在抗议她的参与",
+   "anchor": "The leak’s size had doubled with each alligator I skinned, almost like the water was protesting my involvement",
+   "start": 16285,
+   "end": 16395,
+   "line": 366
+  },
+  {
+   "fact": "屋顶工抱怨保修，承诺带援兵再来，走回卡车",
+   "anchor": "Grumbling about warranties, the roofer promised to return with reinforcements and marched back to his truck",
+   "start": 16397,
+   "end": 16504,
+   "line": 366
+  },
+  {
+   "fact": "到 Harrison 提议收工时，白肉屑糊住她的围裙",
+   "anchor": "By the time Harrison suggested we pack up, bits of white flesh coated my apron",
+   "start": 16508,
+   "end": 16586,
+   "line": 369
+  },
+  {
+   "fact": "血甚至滑进塑料手套里，手指粉得像墨渍",
+   "anchor": "Blood had even slipped down into my plastic gloves, and pink covered my fingers like ink stains",
+   "start": 16588,
+   "end": 16683,
+   "line": 369
+  },
+  {
+   "fact": "冲桌子时她把手上的东西喷掉",
+   "anchor": "As we hosed down the table, I sprayed off my hands",
+   "start": 16685,
+   "end": 16735,
+   "line": 369
+  },
+  {
+   "fact": "她想象自己天天来剥鳄鱼：我做得到吗",
+   "anchor": "I imagined myself showing up to skin alligators every day. Could I do it?",
+   "start": 16737,
+   "end": 16810,
+   "line": 369
+  },
+  {
+   "fact": "确定感射穿她：能；何止——她想",
+   "anchor": "Certainty shot through me. Yes, I could. More than that—I wanted to",
+   "start": 16813,
+   "end": 16880,
+   "line": 372
+  },
+  {
+   "fact": "当晚离开前 Harrison 锁了挂皮晾干的后间",
+   "anchor": "Harrison locked the back room, where the skins hung to dry",
+   "start": 16916,
+   "end": 16974,
+   "line": 375
+  },
+  {
+   "fact": "他用链条绕住两个把手并以上锁连接",
+   "anchor": "slung a chain around the two handles, connecting them with a padlock",
+   "start": 16980,
+   "end": 17048,
+   "line": 375
+  },
+  {
+   "fact": "剥皮室另加一把挂锁",
+   "anchor": "He secured the skinning room with another padlock",
+   "start": 17050,
+   "end": 17099,
+   "line": 375
+  },
+  {
+   "fact": "他瞥了一眼门上的监控摄像头，对自己点头表示满意",
+   "anchor": "Glancing at the security camera above the door, he nodded to himself, satisfied",
+   "start": 17101,
+   "end": 17180,
+   "line": 375
+  },
+  {
+   "fact": "她想起 Nova 与 Gazzie 那回悄声交谈、Gazzie 坚持当着她别说了",
+   "anchor": "I remembered Nova’s hushed exchange with Gazzie, Gazzie’s insistence that they stop their discussion in front of me",
+   "start": 17184,
+   "end": 17299,
+   "line": 378
+  },
+  {
+   "fact": "她随口说 Gazzie 提过上周丢了东西",
+   "anchor": "Gazzie mentioned things going missing last week",
+   "start": 17304,
+   "end": 17351,
+   "line": 381
+  },
+  {
+   "fact": "她希望那句含糊到能骗 Harrison 以为她知情",
+   "anchor": "hoping the statement was vague enough to fool him into thinking I knew what I was talking about",
+   "start": 17371,
+   "end": 17466,
+   "line": 381
+  },
+  {
+   "fact": "她还加了「down on their luck」一类说法",
+   "anchor": "Folks down on their luck and all that",
+   "start": 17469,
+   "end": 17506,
+   "line": 381
+  },
+  {
+   "fact": "Harrison 打量她太久，才又拉了一下挂锁",
+   "anchor": "He studied me for a moment too long before tugging the padlock once more",
+   "start": 17511,
+   "end": 17583,
+   "line": 384
+  },
+  {
+   "fact": "他说被偷的是几张皮；时间正是她的第一天",
+   "anchor": "A few skins were stolen. Your first day, actually",
+   "start": 17586,
+   "end": 17635,
+   "line": 384
+  },
+  {
+   "fact": "她问：几张",
+   "anchor": "“How many?",
+   "start": 17640,
+   "end": 17650,
+   "line": 387
+  },
+  {
+   "fact": "Harrison 含糊地「Mmm」：没什么可担心",
+   "anchor": "he said evasively. “Nothing to worry about",
+   "start": 17661,
+   "end": 17703,
+   "line": 390
+  }
+ ],
+ "relations": [
+  [
+   "本章开头 :9 的 unfamiliar voice 回指 ch17 结尾廊下女声（那里已写成 soft, feminine）",
+   "ch17:120 / ch18:9"
+  ],
+  [
+   ":9 找速写本的决心回指 ch17:117 定下的计划（次日即退潮）",
+   "ch17:117 / ch18:9"
+  ],
+  [
+   ":66 的红 splash 回指 ch17:90 衬衫上正在变褐的血",
+   "ch17:90 / ch18:66"
+  ],
+  [
+   ":126 明确回收 ch17 闯入 Harrison 房间、想象他在床上的段落（叙述者自己承认 invaded）",
+   "ch17:33 / ch18:126"
+  ],
+  [
+   ":213 的 lockbox 回指 ch17:105 打不开金属箱",
+   "ch17:105 / ch18:213"
+  ],
+  [
+   ":309 的 dryer sheets 气味自比「他房间那件衬衫」，回指 ch17:33 与更早的 ch13:48",
+   "ch13:48 / ch17:33 / ch18:309"
+  ],
+  [
+   ":144 的 bathwater 倒影与飘进餐厅的身影回指前面早晨那一章的事件",
+   "ch15 / ch18:144"
+  ],
+  [
+   ":378 的 Nova hushed exchange 需要回前文核对具体章与行",
+   "grep Nova hushed"
+  ],
+  [
+   ":21 前办公室「新补石膏、不漏」与 :162 剥皮室「新的太熟悉的裂缝」是不同房间，不可写成同一处天花板又漏",
+   "ch18:21 / ch18:162"
+  ],
+  [
+   ":177/:267 的 Ironheart 是前文已建立的门厅标本（独眼头）；:180 的「Greer 家以外的人」是本章内新判断",
+   "grep Ironheart"
+  ]
+ ],
+ "numbers": [
+  [
+   "一年屠宰一万四千条（Gazzie 曾说）",
+   "fourteen thousand"
+  ],
+  [
+   "养到六英尺左右",
+   "six or so feet"
+  ],
+  [
+   "那天下午剥六条",
+   "six alligators"
+  ],
+  [
+   "Harrison 在此工作五年",
+   "five years ago"
+  ],
+  [
+   "漏水处下面三只桶",
+   "three buckets"
+  ],
+  [
+   "Joe 是第三代鳄鱼农",
+   "Third-generation"
+  ],
+  [
+   "两张金属桌",
+   "two metal tables"
+  ],
+  [
+   "两名员工抬一条",
+   "two employees"
+  ],
+  [
+   "刀连拽三下",
+   "three times"
+  ],
+  [
+   "气味浓十倍",
+   "ten times stronger"
+  ],
+  [
+   "上午第二次哼笑",
+   "for the second time that morning"
+  ],
+  [
+   "被偷的是几张皮（数目 Harrison 回避）",
+   "A few skins"
+  ]
+ ]
+}
