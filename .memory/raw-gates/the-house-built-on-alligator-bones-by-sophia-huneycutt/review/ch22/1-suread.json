@@ -1,0 +1,999 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch22",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch22_chapter_twenty_one.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "Gazzie 指示 Harrison 六点开车送她回家；Gazzie 自己留晚些监督清理",
+   "anchor": "Gazzie instructed Harrison to drive me home at six; she would stay late to oversee cleanup",
+   "start": 18,
+   "end": 108,
+   "line": 9
+  },
+  {
+   "fact": "六点十分，两人正把车开出停车场",
+   "anchor": "By six ten, we were pulling out of the parking lot",
+   "start": 110,
+   "end": 160,
+   "line": 9
+  },
+  {
+   "fact": "车是 Harrison 的银色 hybrid",
+   "anchor": "his silver hybrid car",
+   "start": 164,
+   "end": 185,
+   "line": 9
+  },
+  {
+   "fact": "一首乡村乐的调子从敞开的车窗飘出来",
+   "anchor": "strains of a country song drifting out the open window",
+   "start": 187,
+   "end": 241,
+   "line": 9
+  },
+  {
+   "fact": "她说没想到他是这一型",
+   "anchor": "I didn’t think you were the type",
+   "start": 246,
+   "end": 278,
+   "line": 12
+  },
+  {
+   "fact": "她说话时打量一尘不染的前座",
+   "anchor": "examining the spotless front seat",
+   "start": 289,
+   "end": 322,
+   "line": 12
+  },
+  {
+   "fact": "地上没瓶子没包装纸，也没碎屑",
+   "anchor": "No bottles or wrappers lay on the floor, no crumbs",
+   "start": 324,
+   "end": 374,
+   "line": 12
+  },
+  {
+   "fact": "他问哪一型",
+   "anchor": "What type is that",
+   "start": 379,
+   "end": 396,
+   "line": 15
+  },
+  {
+   "fact": "她说他该放的是 The Weekend",
+   "anchor": "I expected The Weekend, maybe",
+   "start": 435,
+   "end": 464,
+   "line": 18
+  },
+  {
+   "fact": "他边说边用指头敲方向盘",
+   "anchor": "He tapped his fingers on the steering wheel",
+   "start": 469,
+   "end": 512,
+   "line": 21
+  },
+  {
+   "fact": "说这话时大门正缓缓打开",
+   "anchor": "while the gates slowly swung open",
+   "start": 513,
+   "end": 546,
+   "line": 21
+  },
+  {
+   "fact": "笑把脸颊鼓起来",
+   "anchor": "a smile plumping his cheeks",
+   "start": 548,
+   "end": 575,
+   "line": 21
+  },
+  {
+   "fact": "他反问：开 hybrid 的人不能听乡村乐",
+   "anchor": "Are you saying people who drive hybrids can’t listen to country music",
+   "start": 578,
+   "end": 647,
+   "line": 21
+  },
+  {
+   "fact": "他把自己也套进同一句刻板印象：那也不许在农场干活",
+   "anchor": "I guess I’m not allowed to work on a farm, either",
+   "start": 649,
+   "end": 698,
+   "line": 21
+  },
+  {
+   "fact": "她叫他别夸张，自己在忍笑",
+   "anchor": "I said, trying not to laugh",
+   "start": 723,
+   "end": 750,
+   "line": 24
+  },
+  {
+   "fact": "Mama 会要她到此为止、沉默坐好、保持距离",
+   "anchor": "Mama would want me to stop the conversation there, sit in silence, maintain my distance",
+   "start": 754,
+   "end": 841,
+   "line": 27
+  },
+  {
+   "fact": "她有一部分同意 Mama",
+   "anchor": "Part of me agreed with her",
+   "start": 843,
+   "end": 869,
+   "line": 27
+  },
+  {
+   "fact": "此时 Harrison 是她的竞争对手",
+   "anchor": "In this instance, Harrison was my competition",
+   "start": 871,
+   "end": 916,
+   "line": 27
+  },
+  {
+   "fact": "按常例她非常讨厌他",
+   "anchor": "as a rule, deeply annoyed me",
+   "start": 922,
+   "end": 950,
+   "line": 27
+  },
+  {
+   "fact": "但上过一天超现实的班之后，她想尝一点正常",
+   "anchor": "But after such a surreal day, I wanted a taste of normality",
+   "start": 952,
+   "end": 1011,
+   "line": 27
+  },
+  {
+   "fact": "她给出的正常样板：同事拼车回家会聊天，哪怕并不喜欢对方",
+   "anchor": "Coworkers chatted when they carpooled home from work, even if they didn’t particularly like each other",
+   "start": 1013,
+   "end": 1115,
+   "line": 27
+  },
+  {
+   "fact": "她主动问是什么让他喜欢上乡村乐",
+   "anchor": "What got you into country music",
+   "start": 1120,
+   "end": 1151,
+   "line": 30
+  },
+  {
+   "fact": "跟他讲闲话很不自然，但她想试一下",
+   "anchor": "Small talk felt unnatural with him, but I’d give it a shot",
+   "start": 1163,
+   "end": 1221,
+   "line": 30
+  },
+  {
+   "fact": "他迟疑了",
+   "anchor": "He hesitated",
+   "start": 1225,
+   "end": 1237,
+   "line": 33
+  },
+  {
+   "fact": "她记得当时觉得这是对一句简单问题的奇怪反应",
+   "anchor": "I remember thinking that was an odd response to a simple question",
+   "start": 1239,
+   "end": 1304,
+   "line": 33
+  },
+  {
+   "fact": "那个迟疑像是要交出重要的东西、该被她留意的事",
+   "anchor": "It was like he was about to reveal something important, something I should pay attention to",
+   "start": 1306,
+   "end": 1397,
+   "line": 33
+  },
+  {
+   "fact": "他终于说：他父亲",
+   "anchor": "My father,” he finally said",
+   "start": 1402,
+   "end": 1429,
+   "line": 36
+  },
+  {
+   "fact": "乡村乐让他父亲想起自己的童年",
+   "anchor": "It reminded him of his childhood",
+   "start": 1432,
+   "end": 1464,
+   "line": 36
+  },
+  {
+   "fact": "他父亲在附近长大",
+   "anchor": "He grew up close by",
+   "start": 1466,
+   "end": 1485,
+   "line": 36
+  },
+  {
+   "fact": "她暗想 Harrison 的父亲或别的家人是否认识 Leon",
+   "anchor": "I wondered if Harrison’s father—or another family member—knew Leon",
+   "start": 1490,
+   "end": 1556,
+   "line": 39
+  },
+  {
+   "fact": "她立刻自己否掉：那太巧合了",
+   "anchor": "But that would be too much of a coincidence",
+   "start": 1558,
+   "end": 1601,
+   "line": 39
+  },
+  {
+   "fact": "她追问：你也在附近长大吗",
+   "anchor": "Did you, too?",
+   "start": 1604,
+   "end": 1617,
+   "line": 39
+  },
+  {
+   "fact": "他瞥她一眼",
+   "anchor": "He shot me a glance",
+   "start": 1621,
+   "end": 1640,
+   "line": 42
+  },
+  {
+   "fact": "他的回答：不算附近，但仍在佛罗里达",
+   "anchor": "Not quite. But still in Florida",
+   "start": 1643,
+   "end": 1674,
+   "line": 42
+  },
+  {
+   "fact": "她问那是什么样",
+   "anchor": "What was that like?",
+   "start": 1680,
+   "end": 1699,
+   "line": 45
+  },
+  {
+   "fact": "他重复问题后才答：还行",
+   "anchor": "Growing up in Florida? Fine",
+   "start": 1704,
+   "end": 1731,
+   "line": 48
+  },
+  {
+   "fact": "他侧眼看她，补了一句",
+   "anchor": "Glancing at me sidelong, he added",
+   "start": 1734,
+   "end": 1767,
+   "line": 48
+  },
+  {
+   "fact": "他补的是：有时候气氛很紧",
+   "anchor": "I guess things were tense, sometimes",
+   "start": 1770,
+   "end": 1806,
+   "line": 48
+  },
+  {
+   "fact": "她自问这算不算礼貌的同事谈话",
+   "anchor": "Did this count as polite coworker talk?",
+   "start": 1811,
+   "end": 1850,
+   "line": 51
+  },
+  {
+   "fact": "她决定由他决定是否继续",
+   "anchor": "I’d let him decide whether to continue",
+   "start": 1851,
+   "end": 1889,
+   "line": 51
+  },
+  {
+   "fact": "她只回了一个 Yeah?",
+   "anchor": "“Yeah?”",
+   "start": 1891,
+   "end": 1898,
+   "line": 51
+  },
+  {
+   "fact": "他说父亲要他成为非常特定的一种人",
+   "anchor": "My father wanted me to be a very specific type of person",
+   "start": 1902,
+   "end": 1958,
+   "line": 54
+  },
+  {
+   "fact": "他说这大致规定了他整条人生的走向",
+   "anchor": "It’s kind of directed the trajectory of my whole life",
+   "start": 1960,
+   "end": 2013,
+   "line": 54
+  },
+  {
+   "fact": "他说没有父亲对他的设想，他不知道自己会是谁",
+   "anchor": "I don’t know who I’d be without his vision of me",
+   "start": 2015,
+   "end": 2063,
+   "line": 54
+  },
+  {
+   "fact": "她接话猜：要他当农夫",
+   "anchor": "I take it he wanted you to be a farmer",
+   "start": 2069,
+   "end": 2107,
+   "line": 57
+  },
+  {
+   "fact": "他说不是，带着自嘲的笑",
+   "anchor": "he said with a wry grin",
+   "start": 2118,
+   "end": 2141,
+   "line": 60
+  },
+  {
+   "fact": "他在意的不是职业本身",
+   "anchor": "He didn’t care about the job, exactly",
+   "start": 2144,
+   "end": 2181,
+   "line": 60
+  },
+  {
+   "fact": "在意的只是某些价值",
+   "anchor": "Just certain values",
+   "start": 2183,
+   "end": 2202,
+   "line": 60
+  },
+  {
+   "fact": "她说她感同身受",
+   "anchor": "I can relate",
+   "start": 2208,
+   "end": 2220,
+   "line": 63
+  },
+  {
+   "fact": "一种期待的安静悬在两人之间",
+   "anchor": "An expectant quiet hovered between us",
+   "start": 2225,
+   "end": 2262,
+   "line": 66
+  },
+  {
+   "fact": "被转向灯的嗒嗒声切开",
+   "anchor": "punctuated by the ticking turn signal",
+   "start": 2264,
+   "end": 2301,
+   "line": 66
+  },
+  {
+   "fact": "她猜他以为她会轮到自己交出过去",
+   "anchor": "He probably thought I’d share my past in turn",
+   "start": 2303,
+   "end": 2348,
+   "line": 66
+  },
+  {
+   "fact": "她不想去想 Savannah 或那里发生过的任何事",
+   "anchor": "I didn’t want to think about Savannah or anything that had happened there",
+   "start": 2354,
+   "end": 2427,
+   "line": 66
+  },
+  {
+   "fact": "电台里一个女歌手吩咐她的牛仔带她走",
+   "anchor": "A singer on the radio ordered her cowboy to take her away",
+   "start": 2429,
+   "end": 2486,
+   "line": 66
+  },
+  {
+   "fact": "Harrison 打破沉默，说 Gazzie 仍认定是 Ironheart",
+   "anchor": "So Gazzie still thinks it’s Ironheart,” Harrison said, breaking the silence",
+   "start": 2491,
+   "end": 2566,
+   "line": 69
+  },
+  {
+   "fact": "她只答：我想是的",
+   "anchor": "“I guess.”",
+   "start": 2570,
+   "end": 2580,
+   "line": 72
+  },
+  {
+   "fact": "Gazzie 的念头在她听来没一天前那么蠢了",
+   "anchor": "Her idea didn’t sound as silly to me as it had a day before",
+   "start": 2583,
+   "end": 2642,
+   "line": 75
+  },
+  {
+   "fact": "原因：看过也闻过那些尸骸之后",
+   "anchor": "Not after seeing and smelling all those carcasses",
+   "start": 2644,
+   "end": 2693,
+   "line": 75
+  },
+  {
+   "fact": "她的推论：一个人不可能在大白天 dump 那些东西而不被看见",
+   "anchor": "A person simply couldn’t have dumped them in the middle of the day without anyone seeing",
+   "start": 2695,
+   "end": 2783,
+   "line": 75
+  },
+  {
+   "fact": "车窗外的景物：先是沼泽地，然后是strip mall",
+   "anchor": "Marshland whipped by, then a strip mall",
+   "start": 2787,
+   "end": 2826,
+   "line": 78
+  },
+  {
+   "fact": "一种平静落在两人之间",
+   "anchor": "A sort of peace descended between us",
+   "start": 2828,
+   "end": 2864,
+   "line": 78
+  },
+  {
+   "fact": "是她想在难受的一天之后细细品的安静",
+   "anchor": "a quiet I wanted to savor after such a trying day",
+   "start": 2866,
+   "end": 2915,
+   "line": 78
+  },
+  {
+   "fact": "但她一心要赢 Gazzie 的好感",
+   "anchor": "But I was hell-bent on winning Gazzie’s favor",
+   "start": 2917,
+   "end": 2962,
+   "line": 78
+  },
+  {
+   "fact": "她宣布正常时光到这儿：业余调查停不下来，哪怕几分钟",
+   "anchor": "Enough normalcy—I couldn’t stop my amateur investigation, even for a few minutes",
+   "start": 2964,
+   "end": 3044,
+   "line": 78
+  },
+  {
+   "fact": "她问：你真觉得是 PETA 之类",
+   "anchor": "Do you really think it’s PETA or something like that",
+   "start": 3049,
+   "end": 3101,
+   "line": 81
+  },
+  {
+   "fact": "一首新的乡村乐起来，Harrison 的脸绷紧",
+   "anchor": "A new country song started up, and Harrison’s face tightened",
+   "start": 3115,
+   "end": 3175,
+   "line": 84
+  },
+  {
+   "fact": "她让尴尬挂着，看他把回答一条条想过再否掉",
+   "anchor": "I let the awkwardness sit as he considered and rejected responses",
+   "start": 3177,
+   "end": 3242,
+   "line": 84
+  },
+  {
+   "fact": "最后他叹气",
+   "anchor": "Finally, he sighed",
+   "start": 3244,
+   "end": 3262,
+   "line": 84
+  },
+  {
+   "fact": "他的答话：肯定不是鳄鱼的鬼魂",
+   "anchor": "Well, it definitely wasn’t the ghost of an alligator",
+   "start": 3265,
+   "end": 3317,
+   "line": 84
+  },
+  {
+   "fact": "她脸颊发烫",
+   "anchor": "My cheeks heated",
+   "start": 3322,
+   "end": 3338,
+   "line": 87
+  },
+  {
+   "fact": "她谢天谢地他读不到她的心",
+   "anchor": "Thank God he couldn’t read my mind",
+   "start": 3340,
+   "end": 3374,
+   "line": 87
+  },
+  {
+   "fact": "她知道这想法荒唐",
+   "anchor": "I knew it was ridiculous",
+   "start": 3376,
+   "end": 3400,
+   "line": 87
+  },
+  {
+   "fact": "但她已经开始 entertain 一股恶性力量在影响农场的事",
+   "anchor": "I was starting to entertain the idea that a malignant force",
+   "start": 3406,
+   "end": 3465,
+   "line": 87
+  },
+  {
+   "fact": "她把这种力量的名字悬置：家族诅咒或别的什么",
+   "anchor": "whether you called it a family curse or something else",
+   "start": 3467,
+   "end": 3521,
+   "line": 87
+  },
+  {
+   "fact": "她认为它可能在左右农场里那些事故",
+   "anchor": "could be influencing the incidents at the farm",
+   "start": 3523,
+   "end": 3569,
+   "line": 87
+  },
+  {
+   "fact": "她嘴上先说显然不是，并且是 snapped",
+   "anchor": "Obviously not,” I snapped",
+   "start": 3574,
+   "end": 3599,
+   "line": 90
+  },
+  {
+   "fact": "但她不肯说 Gazzie 全错",
+   "anchor": "But that doesn’t mean Gazzie’s completely wrong",
+   "start": 3602,
+   "end": 3649,
+   "line": 90
+  },
+  {
+   "fact": "她给出的替代解释一：有人冲我们来是因为我们不走运",
+   "anchor": "Maybe someone’s targeting us because we’re unlucky",
+   "start": 3651,
+   "end": 3701,
+   "line": 90
+  },
+  {
+   "fact": "替代解释二：我们吸引混蛋的注意",
+   "anchor": "Maybe we attract assholes’ attention",
+   "start": 3703,
+   "end": 3739,
+   "line": 90
+  },
+  {
+   "fact": "她本以为 Harrison 会反驳",
+   "anchor": "I expected Harrison to argue",
+   "start": 3744,
+   "end": 3772,
+   "line": 93
+  },
+  {
+   "fact": "他实际上只是皱眉",
+   "anchor": "Instead, he furrowed his brows",
+   "start": 3774,
+   "end": 3804,
+   "line": 93
+  },
+  {
+   "fact": "现在她认为他当时在想她的火气从哪来",
+   "anchor": "Now I think he was wondering where my anger came from",
+   "start": 3806,
+   "end": 3859,
+   "line": 93
+  },
+  {
+   "fact": "他是在想她继承了 Gazzie 的火气，还是自己说了无礼的话",
+   "anchor": "whether I’d inherited it from Gazzie or he’d actually said something rude",
+   "start": 3861,
+   "end": 3934,
+   "line": 93
+  },
+  {
+   "fact": "但在当下她相信他以为她迷信",
+   "anchor": "But in the moment, I believed he thought I was superstitious",
+   "start": 3936,
+   "end": 3996,
+   "line": 93
+  },
+  {
+   "fact": "她相信他还以为她是个白痴",
+   "anchor": "that I was an idiot",
+   "start": 3998,
+   "end": 4017,
+   "line": 93
+  },
+  {
+   "fact": "她相信他不敢相信自己是他的竞争对手",
+   "anchor": "that he couldn’t believe I was his competition",
+   "start": 4019,
+   "end": 4065,
+   "line": 93
+  },
+  {
+   "fact": "车开得越远她越恼、也越窘",
+   "anchor": "The further we drove, the angrier—and more embarrassed—I became",
+   "start": 4067,
+   "end": 4130,
+   "line": 93
+  },
+  {
+   "fact": "两人一路沉默直到 Greer House 出现在前面",
+   "anchor": "We rode in silence until Greer House loomed before us",
+   "start": 4134,
+   "end": 4187,
+   "line": 96
+  },
+  {
+   "fact": "他一停好她就推开车门奔正门",
+   "anchor": "As soon as he parked, I popped open the car door and made for the front doors",
+   "start": 4189,
+   "end": 4266,
+   "line": 96
+  },
+  {
+   "fact": "她踏上台阶时，屋里起了一阵微弱的电流嗡鸣",
+   "anchor": "a faint electric hum began to radiate from the house",
+   "start": 4305,
+   "end": 4357,
+   "line": 99
+  },
+  {
+   "fact": "起点位置：踏上 porch steps 的那一刻",
+   "anchor": "As I stepped onto the porch steps",
+   "start": 4270,
+   "end": 4303,
+   "line": 99
+  },
+  {
+   "fact": "一个人影掠过餐厅的窗",
+   "anchor": "A figure glided past the dining room window",
+   "start": 4359,
+   "end": 4402,
+   "line": 99
+  },
+  {
+   "fact": "这个影把她钉在原地",
+   "anchor": "stopping me dead in my tracks",
+   "start": 4404,
+   "end": 4433,
+   "line": 99
+  },
+  {
+   "fact": "Aunt Virginia 的车影不见",
+   "anchor": "Aunt Virginia’s car was nowhere in sight",
+   "start": 4435,
+   "end": 4475,
+   "line": 99
+  },
+  {
+   "fact": "那个影看着不像人",
+   "anchor": "it didn’t look like a person",
+   "start": 4492,
+   "end": 4520,
+   "line": 99
+  },
+  {
+   "fact": "更像一柱颤动的空气",
+   "anchor": "More like a column of vibrating air",
+   "start": 4522,
+   "end": 4557,
+   "line": 99
+  },
+  {
+   "fact": "她双臂环住自己",
+   "anchor": "I wrapped my arms around myself",
+   "start": 4561,
+   "end": 4592,
+   "line": 102
+  },
+  {
+   "fact": "Greer House 看着像躲开农场那股恶性力量的避风港",
+   "anchor": "Greer House appeared to be a safe haven from the malevolent force that antagonized the farm",
+   "start": 4594,
+   "end": 4685,
+   "line": 102
+  },
+  {
+   "fact": "但屋里等着她的是另一种不安的东西",
+   "anchor": "but something else unsettling, something I wasn’t willing or able to name yet, waited for me inside",
+   "start": 4687,
+   "end": 4786,
+   "line": 102
+  },
+  {
+   "fact": "一秒后 Harrison 的车门开了",
+   "anchor": "A second later, Harrison’s door opened",
+   "start": 4790,
+   "end": 4828,
+   "line": 105
+  },
+  {
+   "fact": "他把她的停顿当成跟上的机会",
+   "anchor": "He’d taken my pause as an opening",
+   "start": 4830,
+   "end": 4863,
+   "line": 105
+  },
+  {
+   "fact": "她重新动起来，他的脚步在背后逼近",
+   "anchor": "I jolted back into motion, but his steps pounded behind me",
+   "start": 4865,
+   "end": 4923,
+   "line": 105
+  },
+  {
+   "fact": "在楼梯顶上她转过身，本以为自己比他高几英寸",
+   "anchor": "At the top of the stairs, I whirled around, figuring I’d have a few inches on him",
+   "start": 4927,
+   "end": 5008,
+   "line": 108
+  },
+  {
+   "fact": "转过来时两人一样高",
+   "anchor": "When I turned, however, we were the same height",
+   "start": 5010,
+   "end": 5057,
+   "line": 108
+  },
+  {
+   "fact": "他眼角有淡淡的 crow's feet",
+   "anchor": "Faint crow’s feet spread out from the creases of his eyes",
+   "start": 5059,
+   "end": 5116,
+   "line": 108
+  },
+  {
+   "fact": "她以前没靠近到能看见这些",
+   "anchor": "I hadn’t been close enough to notice before",
+   "start": 5118,
+   "end": 5161,
+   "line": 108
+  },
+  {
+   "fact": "他先开口：他没冒犯她的意思",
+   "anchor": "Look, I didn’t mean to offend you",
+   "start": 5166,
+   "end": 5199,
+   "line": 111
+  },
+  {
+   "fact": "他呼吸擦过她的脸，温热带肉桂味",
+   "anchor": "his breath grazing my face, warm and cinnamon-tinged",
+   "start": 5211,
+   "end": 5263,
+   "line": 111
+  },
+  {
+   "fact": "他说她知道她不信 Gazzie 那一套神神叨叨",
+   "anchor": "I know you don’t believe in",
+   "start": 5266,
+   "end": 5293,
+   "line": 111
+  },
+  {
+   "fact": "说话时他挥手",
+   "anchor": "he waved his hands",
+   "start": 5295,
+   "end": 5313,
+   "line": 111
+  },
+  {
+   "fact": "她的恼意在 proximity 里滑走了",
+   "anchor": "Flustered by our proximity, my irritation had slipped right out of me",
+   "start": 5369,
+   "end": 5438,
+   "line": 114
+  },
+  {
+   "fact": "她几乎没听见他讲话",
+   "anchor": "I barely heard him",
+   "start": 5349,
+   "end": 5367,
+   "line": 114
+  },
+  {
+   "fact": "她仍然回嘴：你确实冒犯了我",
+   "anchor": "Well, you did offend me",
+   "start": 5443,
+   "end": 5466,
+   "line": 117
+  },
+  {
+   "fact": "她用尽全力回嘴",
+   "anchor": "I snapped back with all the force I could muster",
+   "start": 5469,
+   "end": 5517,
+   "line": 117
+  },
+  {
+   "fact": "他骂了句 Jesus Christ，手插过头发",
+   "anchor": "He ran a hand through his hair",
+   "start": 5537,
+   "end": 5567,
+   "line": 120
+  },
+  {
+   "fact": "他说他没见过这么决心难搞的人",
+   "anchor": "I’ve never met someone so determined to be difficult",
+   "start": 5570,
+   "end": 5622,
+   "line": 120
+  },
+  {
+   "fact": "她手忙脚乱找一句回敬",
+   "anchor": "I fumbled for a comeback",
+   "start": 5627,
+   "end": 5651,
+   "line": 123
+  },
+  {
+   "fact": "她的回敬：你还没见识到难搞",
+   "anchor": "You haven’t seen difficult yet",
+   "start": 5654,
+   "end": 5684,
+   "line": 123
+  },
+  {
+   "fact": "他眨眼然后大笑",
+   "anchor": "He blinked, then burst into laughter",
+   "start": 5689,
+   "end": 5725,
+   "line": 126
+  },
+  {
+   "fact": "再看向她时目光落到她的唇上，又滑回眼睛",
+   "anchor": "his eyes dropped to my lips, then slid back to my eyes",
+   "start": 5755,
+   "end": 5809,
+   "line": 126
+  },
+  {
+   "fact": "动作太快，她告诉自己看错了",
+   "anchor": "The movement was so fast I told myself I’d imagined it",
+   "start": 5811,
+   "end": 5865,
+   "line": 126
+  },
+  {
+   "fact": "但两人之间升起新的张力，像火冒出的烟",
+   "anchor": "but a new tension rose between us, like smoke from a fire",
+   "start": 5867,
+   "end": 5924,
+   "line": 126
+  },
+  {
+   "fact": "她自问那到底有没有发生",
+   "anchor": "Had that really happened?",
+   "start": 5928,
+   "end": 5953,
+   "line": 129
+  },
+  {
+   "fact": "她说 Greer House 里等着的东西也不会比这情形更让人糊涂",
+   "anchor": "Whatever waited for me in Greer House wouldn’t be nearly as confusing as this situation",
+   "start": 5956,
+   "end": 6043,
+   "line": 132
+  },
+  {
+   "fact": "她转身，在门廊上差点绊倒",
+   "anchor": "I whirled around, almost tripping across the porch in my hurry to get inside",
+   "start": 6045,
+   "end": 6121,
+   "line": 132
+  },
+  {
+   "fact": "她先确认那个影已经消失，再锁上正门",
+   "anchor": "After I’d checked to make sure the figure I’d seen had disappeared, I locked the front doors",
+   "start": 6123,
+   "end": 6215,
+   "line": 132
+  },
+  {
+   "fact": "然后她潜到窗边",
+   "anchor": "crept to a window",
+   "start": 6220,
+   "end": 6237,
+   "line": 132
+  },
+  {
+   "fact": "Harrison 的车停在车道上，阳光从金属上闪回来",
+   "anchor": "Harrison’s car sat in the driveway, sun glinting off the metal",
+   "start": 6239,
+   "end": 6301,
+   "line": 132
+  },
+  {
+   "fact": "那道反光刺她的眼",
+   "anchor": "sharp in my eyes",
+   "start": 6303,
+   "end": 6319,
+   "line": 132
+  }
+ ],
+ "relations": [
+  [
+   "Gazzie—Harrison",
+   "Gazzie 指示 Harrison 送 Dart 回家（上下级，本章开场即由这条指令驱动）",
+   "Gazzie instructed Harrison to drive me home at six"
+  ],
+  [
+   "Dart—Mama",
+   "Mama 的训诫以虚拟语气出现，是本章她每一次靠近 Harrison 时的刹车",
+   "Mama would want me to stop the conversation there"
+  ],
+  [
+   "Dart—Harrison",
+   "她给自己的定位：他是竞争对手、按常例令她恼火；本章是这两条的同时松动",
+   "In this instance, Harrison was my competition and, as a rule, deeply annoyed me"
+  ],
+  [
+   "Harrison—他的父亲",
+   "父亲的要塑造他的人生轨迹；不是要职业而是要价值",
+   "My father wanted me to be a very specific type of person"
+  ],
+  [
+   "Harrison 家—Leon",
+   "她猜想两家是否早年相识，随即自我否掉为太巧合",
+   "I wondered if Harrison’s father—or another family member—knew Leon"
+  ],
+  [
+   "Dart—Savannah",
+   "她拒绝在车里交出过去，点名 Savannah",
+   "I didn’t want to think about Savannah or anything that had happened there"
+  ],
+  [
+   "Gazzie—Ironheart",
+   "Gazzie 仍认定是 Ironheart；本章第一次写出 Dart 自己向这个解释靠拢",
+   "So Gazzie still thinks it’s Ironheart"
+  ],
+  [
+   "Dart—Greer House",
+   "房子对她是两种不安的交叠：躲开农场的力量，但屋里另有什么",
+   "Greer House appeared to be a safe haven from the malevolent force that antagonized the farm"
+  ]
+ ],
+ "numbers": [
+  [
+   "Gazzie 定的是六点",
+   "drive me home at six"
+  ],
+  [
+   "实际六点十分驶出停车场",
+   "By six ten"
+  ],
+  [
+   "车是一辆：他的银色 hybrid",
+   "his silver hybrid car"
+  ],
+  [
+   "前座垃圾计数为零：没瓶子没包装纸没碎屑",
+   "No bottles or wrappers lay on the floor, no crumbs"
+  ],
+  [
+   "电台里换过两首歌（第一首在开场，第二首在他答 PETA 前起来）",
+   "A new country song started up"
+  ],
+  [
+   "她对比的时间距离是「一天前」",
+   "as it had a day before"
+  ],
+  [
+   "她说哪怕几分钟也停不了调查",
+   "even for a few minutes"
+  ],
+  [
+   "一秒后 Harrison 开门",
+   "A second later, Harrison’s door opened"
+  ],
+  [
+   "她本以为自己比他高几英寸",
+   "figuring I’d have a few inches on him"
+  ],
+  [
+   "实际结果：两人一样高",
+   "we were the same height"
+  ],
+  [
+   "本章没有金额、没有清点（对比 ch21 的 all twenty / hundreds of steak knives）",
+   "crept to a window"
+  ]
+ ]
+}
