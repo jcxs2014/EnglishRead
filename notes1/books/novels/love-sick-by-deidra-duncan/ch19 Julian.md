@@ -145,7 +145,7 @@ modified: "2026-09-12"
 
 **读者视角提示**：本章写的是 Julian 的最低点——受伤的自尊转成了残忍。
 
-> **原句 12:** "I'm not this person. This bitter, angry, heartbroken man."
+> **原句 14:** "I'm not this person. This bitter, angry, heartbroken man."
 
 **中文理解**："我不是这种人。这种苦毒的、愤怒的、心碎的人。"
 

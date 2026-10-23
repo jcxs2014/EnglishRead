@@ -35,7 +35,7 @@ modified: "2026-09-12"
 
 **读者视角提示**：注意 Tori 的措辞——"puppy longing"——她把 Julian 的感情比作"小狗"，暗示他的感情是忠诚的、无条件的。这是 Julian 对 Grace 感情的"动物性"确认。
 
-> **原句 2:** "She's not interested, Victoria." My voice sharpens, rises in volume, and a few patrons at the table beside us shoot curious glances our way. ... "She's into you."
+> **原句 3:** "She's not interested, Victoria." My voice sharpens, rises in volume, and a few patrons at the table beside us shoot curious glances our way. ... "She's into you."
 
 **中文理解**："她不感兴趣，Victoria。"我的声音变得尖锐，音量提高，旁边几个顾客好奇地看向我们。……"她对你有意思。"
 
@@ -45,7 +45,7 @@ modified: "2026-09-12"
 
 **读者视角提示**：注意 Julian 的反应——"My voice sharpens, rises in volume"——他的声音变化暴露了他的情绪。这是 enemies-to-lovers 的核心机制：身体反应无法伪装。
 
-> **原句 3:** Her words are smothered, and my entire life distills to two primitive desires—kill him and save her.
+> **原句 4:** Her words are smothered, and my entire life distills to two primitive desires—kill him and save her.
 
 **中文理解**：她的言语被淹没了，我的整个生命提炼为两个原始的欲望——杀了他，救她。
 
@@ -55,7 +55,7 @@ modified: "2026-09-12"
 
 **读者视角提示**：注意 Julian 的措辞——"my entire life distills"——他把整个生命"提炼"为两个欲望。这是 Julian 的"存在性确认"：Grace 的存在定义了他的存在。
 
-> **原句 4:** "I didn't say I didn't want to be kissed. I said I didn't want him."
+> **原句 5:** "I didn't say I didn't want to be kissed. I said I didn't want him."
 
 **中文理解**："我没有说我不我想被吻。我说的是我不想被他吻。"
 
@@ -65,7 +65,7 @@ modified: "2026-09-12"
 
 **读者视角提示**：注意 Grace 的措辞——"I didn't say I didn't want to be kissed"——她用双重否定来暗示"我想被吻"。这是 Grace 的"含蓄表白"：她不敢直接说"我想让你吻我"，但她的措辞暗示了这一点。
 
-> **原句 5:** "I want to kiss you."
+> **原句 6:** "I want to kiss you."
 
 **中文理解**："我想吻你。"
 
@@ -75,7 +75,7 @@ modified: "2026-09-12"
 
 **读者视角提示**：注意 Julian 的措辞——"I want"——第一人称的欲望表达。这是 Julian 的"破防时刻"：他不再压抑。
 
-> **原句 6:** "It's about time."
+> **原句 7:** "It's about time."
 
 **中文理解**："是时候了。"
 
@@ -85,7 +85,7 @@ modified: "2026-09-12"
 
 **读者视角提示**：注意 Grace 的措辞——"It's about time"——"about time"暗示她等待已久。这是 Grace 的"破防时刻"：她不再压抑。
 
-> **原句 7:** Devil-red lips have survived my shower, tattooed across my cheek, a brand for all to see.
+> **原句 8:** Devil-red lips have survived my shower, tattooed across my cheek, a brand for all to see.
 
 **中文理解**：恶魔红色的唇印在我的淋浴后幸存，纹在我的脸颊上，一个所有人都能看到的烙印。
 

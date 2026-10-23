@@ -47,7 +47,7 @@ modified: "2026-09-12"
 
 > **原句 4:** "It's like fucking an ice queen."
 
-**中文理解**："就像强奸一个冰女王。"
+**中文理解**："就像跟一个冰女王做爱。"
 
 **关键词**：ice queen, fucking
 
