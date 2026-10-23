@@ -1,0 +1,150 @@
+{
+ "book": "the-house-built-on-alligator-bones-by-sophia-huneycutt",
+ "chapter": "ch48",
+ "text": "notes/books/novels/the-house-built-on-alligator-bones-by-sophia-huneycutt/text/ch48_chapter_forty_seven.txt",
+ "suread": "review R1 素读（只读 text/，未开 md）",
+ "facts": [
+  {
+   "fact": "Harrison 来到她房间，转述护士说她不该离开。",
+   "anchor": "“The nurse said you shouldn’t have left.”",
+   "start": 19,
+   "end": 60,
+   "line": 9
+  },
+  {
+   "fact": "Harrison 退到门口保持距离，她为此感到刺痛。",
+   "anchor": "He still didn’t want to be close to me, and I wished that didn’t sting so much.",
+   "start": 434,
+   "end": 513,
+   "line": 18
+  },
+  {
+   "fact": "Harrison 说他无法把她一个人丢在这里，声音发颤，她辨认出那是恐惧。",
+   "anchor": "“I couldn’t leave you here.” His voice wavered.",
+   "start": 1024,
+   "end": 1071,
+   "line": 33
+  },
+  {
+   "fact": "Harrison 说自己不知道看到了什么，但确定听到了类似鳄鱼吼叫的声音，她因此松了口气。",
+   "anchor": "“But I definitely heard something. An alligator bellowing, I think.”",
+   "start": 1492,
+   "end": 1560,
+   "line": 45
+  },
+  {
+   "fact": "Harrison 急忙表示相信她，说自己也感觉到 vibe，并承认 Gazzie 在这件事上一直是对的。",
+   "anchor": "“I believe you,” he said quickly, like he thought that might make me stay.",
+   "start": 2029,
+   "end": 2103,
+   "line": 57
+  },
+  {
+   "fact": "她背起包不答话，Harrison 猜到了答案：她要永远离开。",
+   "anchor": "He knew me well enough to guess the answer: I was leaving for good.",
+   "start": 2451,
+   "end": 2518,
+   "line": 66
+  },
+  {
+   "fact": "Harrison 把椅子拖到身前挡住去路，要求她看着自己。",
+   "anchor": "He scooted the chair to the left, blocking me again. “Dart, look at me.”",
+   "start": 3338,
+   "end": 3410,
+   "line": 87
+  },
+  {
+   "fact": "她指控 Harrison 的阻拦是残忍的。",
+   "anchor": "“You’re being cruel.”",
+   "start": 3653,
+   "end": 3674,
+   "line": 99
+  },
+  {
+   "fact": "她说出在医院里打好腹稿的告别词：感谢他没报警，承认自己知道做错了，宣布不再试图修好自己、要独自离开以免再伤人。",
+   "anchor": "“Thank you,” I began, voice miraculously stable, “for not telling the police. I’ll always be grateful for that.",
+   "start": 3817,
+   "end": 3928,
+   "line": 105
+  },
+  {
+   "fact": "她哭喊让他放自己走，并保证他不必再见到她。",
+   "anchor": "“Just let me go,” I cried. I still couldn’t look him in the eye.",
+   "start": 4264,
+   "end": 4328,
+   "line": 111
+  },
+  {
+   "fact": "Harrison 用力叫出她的名字，使她终于抬头；他拿走拐杖扔到床上，握住她的双手轻轻打圈。",
+   "anchor": "Then he took both my hands in his, rubbing his thumbs in gentle circles on the backs of them.",
+   "start": 4576,
+   "end": 4669,
+   "line": 117
+  },
+  {
+   "fact": "Harrison 讲述他和 Ginny 在火前找到 Leon 的文件并对质 Gazzie，Gazzie 用螺栓枪打了 Ginny 的脸；他称她的所为是为保护他们的巨大牺牲。",
+   "anchor": "“Ginny and I found Leon’s papers where you left them in front of the fire,” he said.",
+   "start": 4672,
+   "end": 4756,
+   "line": 120
+  },
+  {
+   "fact": "Harrison 拥抱她、吻她的太阳穴，贴着她的头发求她别走。",
+   "anchor": "“Don’t go.” He spoke into my hair, his words ruffling the strands.",
+   "start": 5712,
+   "end": 5778,
+   "line": 129
+  },
+  {
+   "fact": "Harrison 请她留下，她自问怎么能够拒绝。",
+   "anchor": "“Stay,” he said, breath warm on my nose.",
+   "start": 6156,
+   "end": 6196,
+   "line": 138
+  },
+  {
+   "fact": "她看见 Ida 肖像的残骸和插在其心脏处的斧头，打算请 Aunt Virginia 烧掉它和所有与它纠缠的肖像。",
+   "anchor": "I’d ask Aunt Virginia to burn her, and all the portraits entwined with her body parts.",
+   "start": 6503,
+   "end": 6589,
+   "line": 153
+  },
+  {
+   "fact": "她捡起地上的 Ironheart 皮，完好无损，打算开车到 Egans Creek 把它还给沼泽。",
+   "anchor": "Balancing on one foot, I leaned over and picked it up. It was in perfect condition.",
+   "start": 6754,
+   "end": 6837,
+   "line": 159
+  },
+  {
+   "fact": "她问 Aunt Virginia 是否已原谅她；Harrison 说螺栓枪打脸是最后一根稻草，被锁进房间时 Ginny 说 Gazzie 无可救药。",
+   "anchor": "“I think Gazzie hitting her with the bolt gun was the final straw.",
+   "start": 7586,
+   "end": 7652,
+   "line": 177
+  },
+  {
+   "fact": "走出 Greer House 被 Aunt Virginia 拥抱时，她确信自己仍是那个把同学的头撞向水泥地并乐在其中的小女孩，从未改变。",
+   "anchor": "I’d never changed, no matter how often I’d told myself I had.",
+   "start": 8804,
+   "end": 8865,
+   "line": 204
+  },
+  {
+   "fact": "她进而推论：若她的恶来自血统、不可避免，那么 Michelle、Mama 和 Gazzie 的死也都不是她的错。",
+   "anchor": "If my wickedness was inevitable, so, too, were their deaths.",
+   "start": 9403,
+   "end": 9463,
+   "line": 207
+  },
+  {
+   "fact": "章末收束：她确认自己邪恶却也被爱，两者可以同时为真。",
+   "anchor": "I am wicked, and I am loved. Apparently, both things can be true.",
+   "start": 10143,
+   "end": 10208,
+   "line": 219
+  }
+ ],
+ "relations": [],
+ "numbers": []
+}
