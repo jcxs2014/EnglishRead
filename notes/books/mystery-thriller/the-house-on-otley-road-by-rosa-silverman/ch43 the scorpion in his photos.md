@@ -69,17 +69,15 @@ modified: "2026-10-23"
 
 ---
 
-> **原句 5:** ‘I don’t know if I should say this but … well … He was a bit obsessed with her.’ ... ‘Obsessed? Were they, like, together at all?’ ‘I don’t think so. He obviously wanted them to be. But I don’t think she was ever into him.’
+> **原句 5:** Alice sighed. ‘I don’t know if I should say this but … well … He was a bit obsessed with her.’
 
-**中文理解**："我不知道该不该说，不过……嗯……他有点着迷于她。""着迷？他们在一起过吗？""我觉得没有。他显然想，但我觉得她从来没喜欢过他。"
+**中文理解**：Alice 叹了口气说："我不知道该不该说这个，不过……嗯……他有点着迷于她。"
 
-**关键词**：`a bit obsessed`（有点着迷）、`wanted them to be`（想让他们在一起）、`ever into him`（从没喜欢过他）
+**关键词**：`sighed`（叹气）、`I don’t know if I should say this`（不知道该不该说）、`a bit obsessed`（有点着迷）
 
-**为什么这样写**：`a bit` 是英国人给重话加的安全垫，`obsessed` 却是全章最重的词。Alice 的迟疑（`I don't know if I should say this`）与 Kate 的追问形成一推一拉；`He obviously wanted them to be` 与 `she was ever into him` 把单方面的欲望说清楚。这段对话没有形容词，只有事实判断，却直接给出了动机。
+**为什么这样写**：`sighed` 先把这句话的成本摆出来，`I don't know if I should say this` 再拖延一次，然后 `a bit` 把"obsessed"这个词的分量又按下去一截。三道缓冲垫叠在一个只有一句话的坦白前面，说明说出口的代价很高——她在出卖一段旧友谊。`obsessed` 是全章最重的词，被她用最轻的方式递出来；作者不给它加评论，它的重量由前后的人自己承担。
 
-**读者视角提示**：把"obsessed"与本章前面的"蝎子"放在一起，答案已经成形。Kate 此刻还在电话里，Smith 就站在她旁边。
-
----
+**读者视角提示**：`a bit` 是英国人给重话加的安全垫。紧接着的两问一答（在下面一段里）会确认这是单方面的——她从来不喜欢他，他只是不肯接受。
 
 > **原句 6:** Smith had reached for her phone. She tried to turn away but he grabbed it from her hand. ‘I told you,’ he said, ‘I want to hear what Alice has to say.’
 

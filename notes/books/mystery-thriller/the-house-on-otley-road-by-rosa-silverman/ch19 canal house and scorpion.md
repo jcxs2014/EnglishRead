@@ -105,19 +105,29 @@ modified: "2026-10-23"
 
 ---
 
-> **原句 8:** ‘Do you think I should call the police?’ ... ‘Can’t imagine it would be worth it. What would they do about it?’
+> **原句 8:** As soon as he had sat down, Kate leaned across the table and said in a whisper, ‘Do you think I should call the police?’
 
-**中文理解**："你觉得我该报警吗？"……"我看不值得。他们能做什么呢？"
+**中文理解**：两人刚在酒店酒吧落座，Kate 就隔着桌子凑过去，压低声音问 Smith：你觉得我该报警吗？
 
-**关键词**：`call the police`（报警）、`worth it`（值得）、`What would they do`（他们能做什么）
+**关键词**：`leaned across the table`（隔着桌子凑过去）、`in a whisper`（压低声音）、`call the police`（报警）
 
-**为什么这样写**：她问的是一个程序问题，他答的是一个信任问题。`Can't imagine it would be worth it` 把报警降格成一件性价比不高的事；`What would they do about it?` 则直接质疑警方的能力。两句都没有说"别报"，但合起来就是别报。作者让这个决定由两个专业人士在饭桌上做出，读者便知道后面出事时，求救这条路已经被他们自己关小了一半。
+**为什么这样写**：整段只有一句话，问题被两个动作包住——`leaned across` 是身体的靠近，`in a whisper` 是音量的收缩。她要的不是公开讨论，是密谋；`whisper` 说明她自己也清楚，这个问题在记者群里问出口并不体面。作者不给 Smith 的反应留任何铺垫，下一句直接切到他的表演，落差就是这一段全部的信息。
 
-**读者视角提示**：这段对话与前面"两个警察看着"形成反讽：有警察在场时她感到安全，真要报警时又觉得没用。安全感在这章里始终是借来的。
+**读者视角提示**：这是她第一次把那条威胁当真到愿意走程序。留意下一块他怎么接——他回答的不是"该不该"，是另一个问题。
 
 ---
 
-> **原句 9:** ‘Anyway,’ he said, ‘we don’t have to talk shop all night.’ ‘What else do you suggest we do?’ She didn’t mean it to sound like innuendo but didn’t mind at all when he swallowed a mouthful of beer, cocked an eyebrow and said, ‘I have some ideas.’
+> **原句 9:** Smith mimed surprise. ‘The hotel isn’t that bad. It just never received the memo about the twenty-first century happening.’
+
+**中文理解**：Smith 没有出声回答，而是做出一副吃惊的表情，打趣说：酒店没那么糟，它只是没收到"二十一世纪已经来了"的那份备忘录。
+
+**关键词**：`mimed surprise`（做出吃惊的表情）、`The hotel isn’t that bad`（酒店没那么糟）、`the memo`（备忘录）
+
+**为什么这样写**：`mimed` 是哑剧：他不用语言回应一个关于人身安全的问题，先用表情把它的分量卸掉。笑话的机关在 `memo`——把"没报警"归因于酒店落后于时代，而不是自己不愿意。安全问题被重新分类成品味问题，她要的严肃讨论就这样被笑着取消了。作者不写她失不失望，读者只需看下一句她自己找了台阶。
+
+**读者视角提示**：把这一招记住：他从不正面拒绝她，他只是让她笑。本章如此，后面遇到更大的事情时也是如此。
+
+> **原句 10:** ‘Anyway,’ he said, ‘we don’t have to talk shop all night.’ ‘What else do you suggest we do?’ She didn’t mean it to sound like innuendo but didn’t mind at all when he swallowed a mouthful of beer, cocked an eyebrow and said, ‘I have some ideas.’
 
 **中文理解**："总之，"他说，"我们不必整晚都谈工作。""那你建议我们做什么？"她本来没想说得像调情，可当他咽下一口啤酒、挑起眉毛说"我有一些主意"时，她一点也不介意。
 
