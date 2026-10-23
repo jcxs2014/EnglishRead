@@ -1,0 +1,192 @@
+{
+  "chapter": "ch10",
+  "slug": "the-hexing-miss-helena-by-darcy-mcguire",
+  "source": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch10_chapter_10.txt",
+  "source_lines": 273,
+  "read_discipline": "先素读：仅读 text/ch10_chapter_10.txt，未打开 ch10 md、未看总览、未回忆写作期结论。本章是本轮抽样中此前未读过 text/ 的章。",
+  "sampling_reason": "cliffhanger 章型（章末问句落在下一章开头作答）＋ 对话密集章",
+  "line_ref_convention": "行号为 text/ch10_chapter_10.txt 的 1 基行号；引文逐字抄录",
+  "events": [
+    {
+      "n": 1,
+      "who": "辛西娅",
+      "did": "被带进赌场，怕到要吐或晕厥；此前唯一一次同等紧张是十五岁作为 debutante 被引见女王",
+      "lines": "35",
+      "verbatim": "Cynthia was quite certain she was going to cast up her accounts or have a fit of the vapours – something she’d never had before. Never in her life had she been so nervous. Not even when she was presented to the Queen as a debutante at fifteen."
+    },
+    {
+      "n": 2,
+      "who": "辛西娅",
+      "did": "第一次（大概也是最后一次）到这种名声不好的宅子里；本想留下来看男人们赌大钱，却被领路人催着快走",
+      "lines": "38-41",
+      "verbatim": "This was the first, and very likely last, time she’d ever visit a house of ill repute. Her curiosity was piqued, and she would have loved to linger and watch the men wager away staggering sums of money while the painted doves giggled and flirted shamelessly. Unfortunately, their escort seemed to be on a tight schedule, and she rushed to keep pace."
+    },
+    {
+      "n": 3,
+      "who": "辛西娅／海伦娜／辛克莱的管家",
+      "did": "辛西娅在左边那间房里看见一个女人同时和三个男人亲热；她低声告诉海伦娜那是 Lady Bucklethorne——「gentile 淑女协会」的领头人；管家以辛克莱的保密规矩回话",
+      "lines": "44-59",
+      "verbatim": "‘That’s Lady Bucklethorne,’ she hissed to Helena. ‘She leads the Society of Genteel Ladies.’ … ‘Mr Sinclair has strict rules of confidentiality, Lady Burrows. His patrons are guaranteed privacy. He would be… displeased if that promise was threatened.’"
+    },
+    {
+      "n": 4,
+      "who": "辛西娅",
+      "did": "追问「辛克莱不高兴会怎样」；管家停下脚步回头看她，僵了几秒后转身继续走；她低声对海伦娜说「这大概就是答案」",
+      "lines": "62-71",
+      "verbatim": "‘And what happens when Mr Sinclair is displeased?’ … After what felt like an eternity but must only have been a few seconds, Sinclair’s butler blinked, spun on his heel, and continued walking down the corridor. … ‘I suppose that answers your question,’ Cynthia whispered to Helena as they hurried after him."
+    },
+    {
+      "n": 5,
+      "who": "辛西娅（观察）",
+      "did": "赌厅高得至少两层楼，烟雾弥漫，桌上玩的是 Bacarat／Macao／hazard；女子穿低胸短裙，露脚踝；海伦娜的灰眼睛只盯着她；她被地毯绊倒，海伦娜扶住她肘部，身上是佛手柑与柠檬皂的气味",
+      "lines": "74-86",
+      "verbatim": "Cynthia recognised several of the games being played. Bacarat, Macao, hazard. … Low-cut necklines abounded, and some of the hems were short enough to expose several inches of ankle. … She glanced back to see if Helena was similarly distracted, but the enigmatic woman’s grey eyes were focused solely on Cynthia. She tripped on the edge of a rug, and Helena leapt forward, catching her elbow to steady her. Bergamot and lemon soap."
+    },
+    {
+      "n": 6,
+      "who": "海伦娜",
+      "did": "指西墙高处那一排「镜子」说「我们被看着」；辛西娅说那得三十英尺高才看得见自己的倒影；海伦娜说那不是镜子，是单向窗口，外面的人能看进来，里面的人只看到自己的倒影",
+      "lines": "89-92",
+      "verbatim": "‘Mind yourself. We’re being watched.’ … One would need to be thirty feet tall to see their reflection. … ‘They aren’t mirrors. It’s a special window that allows the person on the other side to see out, while we only see our reflections.’"
+    },
+    {
+      "n": 7,
+      "who": "海伦娜",
+      "did": "得意地说「当你的叔叔是苏格兰场警司时，你会学到很多事」（原文如此，原文用 "your uncle"）",
+      "lines": "98",
+      "verbatim": "Helena’s smug smile brought a flash of mischief to her eyes. ‘When your uncle is the Superintendent of Scotland Yard, you learn many things, Lady Burrows.’",
+      "source_inconsistency": "原文此处是 "your uncle"＋"you learn"，但说话人是海伦娜、且句中 "you learn" 的主语须是海伦娜自己；另据 text/ch11_chapter_11.txt:44（Sinclair 语 "There’s a superintendent at Scotland Yard ’as nieces with the name of Blair. Lachlan MacDougal."）与 text/ch02_chapter_2.txt（海伦娜奉警司之命上门），MacDougal 是海伦娜与 Clio 的舅舅，不是辛西娅的舅舅。⇒ 判定为**书内原文不一致**，不裁决。"
+    },
+    {
+      "n": 8,
+      "who": "辛西娅",
+      "did": "让海伦娜别再称她「Lady Burrows」，进赌场就算「earned the right to call me Cynthia」",
+      "lines": "101",
+      "verbatim": "‘I think we’re past such formal titles. When I walk into a gaming hell with someone, they’ve earned the right to call me Cynthia.’"
+    },
+    {
+      "n": 9,
+      "who": "海伦娜",
+      "did": "一个醉醺醺的贵族扑向辛西娅，海伦娜像雾一样挡在她前面，红发上一缕卷发扫过面颊，眼里发光，在醉汉耳边低语，醉汉瞪大眼睛、后退跌坐",
+      "lines": "104-110",
+      "verbatim": "Helena moved like mist, stepping in front of her. … A crimson curl had broken free of her twist, and Cynthia was captivated when it brushed against Helena’s smooth cheek. Her irises glowed as she whispered something in the drunk man’s ear. His eyes widened. He stumbled back, sitting hard on the chair he had recently vacated"
+    },
+    {
+      "n": 10,
+      "who": "辛西娅／海伦娜",
+      "did": "辛西娅问海伦娜对醉汉说了什么；海伦娜不看她，只说「远没有我想说的那么多」",
+      "lines": "116-119",
+      "verbatim": "‘What did you say to him?’ … ‘Not nearly as much as I wanted.’ Helena refused to meet her gaze."
+    },
+    {
+      "n": 11,
+      "who": "辛西娅",
+      "did": "在辛克莱办公室门口停住：若他真像 MacDougal 说的那样有权有势，她必须显得同样有权有势；心里默念「我是肯特米尔侯爵夫人，我不惧怕危险」",
+      "lines": "137-143",
+      "verbatim": "Whoever this Sinclair fellow was, if he was as powerful and dangerous as Superintendent MacDougal said, it was imperative she appeared equally powerful and dangerous. … I am the Marchioness of Kentmore. I do not shudder in the face of danger. … She squared her shoulders, let go of Helena’s hand and strode into the lion’s den with her head held high and her legs only quivering a little beneath her skirts."
+    },
+    {
+      "n": 12,
+      "who": "辛西娅／Damien Sinclair",
+      "did": "辛克莱自称式地把玩领带夹；她以最专横的口吻说「辛克莱先生，我相信你在等我」；他像黑曜石雕出来的，辛西娅对他毫无吸引，只有看向海伦娜时才有感觉",
+      "lines": "146-152",
+      "verbatim": "‘Mr Sinclair. I believe you were expecting me.’ She used her most imperial tone, the one she reserved for desecrating debutantes who dared speak ill of her family. … Damien Sinclair lounged. … But nothing shifted within her until she glanced back and caught Helena’s gaze. There it was. That long, liquid pull. … Her desire was not dead. It had lain dormant until a woman with hair like fire and eyes like a stormy sea brought it to life within Cynthia."
+    },
+    {
+      "n": 13,
+      "who": "辛克莱／辛西娅／海伦娜",
+      "did": "辛克莱说没想到她会带个「朋友」来；辛西娅话到一半卡住（'This is my—'），想不出怎么定义海伦娜；海伦娜自己接话「我是来保证布尔洛斯夫人安全的」；辛克莱反问怎么办；海伦娜答「乐意之至」",
+      "lines": "158-170",
+      "verbatim": "‘I weren’t expecting you to bring a… friend.’ … ‘This is my—’ Oh dear. … ‘I am here to ensure Lady Burrows’ safety.’ … ‘And ’ow might you propose to accomplish such a task?’ … ‘With relish, Mr Sinclair.’ Helena’s voice was cool water rushing over granite stones."
+    },
+    {
+      "n": 14,
+      "who": "辛西娅",
+      "did": "为保护所爱之人抢在辛克莱前面开口，搬出毒蛇 venom 比喻，抬高海伦娜：说布莱尔小姐比毒液更致命；又问他「有人冒犯过你的才智吗？是我被误导了，还是你是个蠢货？」",
+      "lines": "176-182",
+      "verbatim": "Never one to endure the derision of others when it was directed at those she loved, Cynthia spoke before thinking. ‘Have you ever considered the marvel of a viper’s venom? The smallest amount, when administered through a tiny prick in the skin, can kill a man as large as you in no time at all. Trust me when I tell you, Miss Blair is far more deadly than that venom.’ … ‘I’ve heard many things about you, but thus far, no one has attacked your intelligence. Have I been misled? Are you a fool?’"
+    },
+    {
+      "n": 15,
+      "who": "辛西娅（内心）",
+      "did": "明白自己是在拿命钓一个凶手；不管辛克莱有没有杀休伯特，他显然与暴力脱不开关系；MacDougal 也许本该把她们护起来，但已经太晚",
+      "lines": "188-191",
+      "verbatim": "She was playing a dangerous game, baiting a killer. Because whether Sinclair had murdered Hubert or not, it was obvious he was no stranger to violence. Perhaps Superintendent MacDougal had been right to try and keep them shielded. But it was too late to change course now."
+    },
+    {
+      "n": 16,
+      "who": "辛克莱",
+      "did": "反问她「从来没人敢质疑我的才智」（原文此处称她 Miss Blair——但说话对象是辛西娅，见 source_inconsistency）",
+      "lines": "203",
+      "verbatim": "‘No one’s ever dared question my intellectual acumen, Miss Blair.’ He threw the fancy words at her with his rough accent. ‘At least, no one whose ’eart still beats.’",
+      "source_inconsistency": "上一句 `:182` 的发言者是辛西娅，辛克莱此处应称她 Lady Burrows（全书他另有 `:215` `You are surprising, Lady Burrows.` 与 `:239` `a pair of women as formidable as you and Miss Blair.` 两处对辛西娅称 Lady Burrows／you、对海伦娜称 Miss Blair）。⇒ 判定为**书内原文不一致**，不裁决。"
+    },
+    {
+      "n": 17,
+      "who": "辛克莱",
+      "did": "称她「令人意外」，说自己喜欢知道局面怎么走；两人对赌「不可预测」；辛克莱让步称海伦娜为她的 protector，但警告「your friend might be dangerous, but I am death incarnate. Do not fuck with me. You will not survive the experience.」，并请她坐下",
+      "lines": "215-227",
+      "verbatim": "‘You are surprising, Lady Burrows. I don’t like surprises. I prefer to know exactly ’ow a situation will play out before I make the first move.’ … ‘I shall ’eed your warning, Lady Burrows, and give your protector ’er dues.’ He nodded at Helena. ‘But know this, your friend might be dangerous, but I am death incarnate. Do not fuck with me. You will not survive the experience.’"
+    },
+    {
+      "n": 18,
+      "who": "辛西娅",
+      "did": "拒绝落座：「我们更愿意站着，这不是一次社交拜访」；辛克莱不喜欢被违逆，问「你为什么在这里」",
+      "lines": "230-233",
+      "verbatim": "‘We prefer to stand. This is no social call.’ … ‘Why are you ’ere?’ Sinclair didn’t like his orders being flouted."
+    },
+    {
+      "n": 19,
+      "who": "辛西娅",
+      "did": "说明来意：要知道自己欠辛克莱多少钱以便结账；她知道这类债务会转到活着的亲人身上，但她不想欠他",
+      "lines": "236",
+      "verbatim": "‘I understand my recently deceased husband was in debt to you. I wish to know how much he owed so I can settle his accounts. I’m aware obligations of this nature can pass onto his living relations, and I have no wish to be beholden to you.’"
+    },
+    {
+      "n": 20,
+      "who": "辛克莱",
+      "did": "做作地按胸口说「You wound me」，说本希望做朋友，却只能做敌人；又说他正需要一对像她们这样厉害的女人",
+      "lines": "239",
+      "verbatim": "‘You wound me, Lady Burrows. I so ’oped we could be friends. But alas, it would seem we are destined to be enemies. What a pity. I could use a pair of women as formidable as you and Miss Blair.’"
+    },
+    {
+      "n": 21,
+      "who": "辛西娅（内心）",
+      "did": "被「a pair of women」这个说法撩到脸红；回想赌坊外海伦娜贴近时自己的体温；自问对同为女性的身体亲密是否正当——女子之间亲厚的友谊在她们的圈子里常见，但她对海伦娜的渴望与柏拉图式友谊无关；她清楚自己对丈夫血冷、从未对任何男人有过吸引，辛克莱不过是又一個英俊却毫无反应的例子",
+      "lines": "242-263",
+      "verbatim": "Something about the way he called them a pair caught her like a hook. … While affectionate friendships between women were common amongst her set, the intimacy she longed to explore with Helena had nothing to do with platonic friendship. … It was clear in her marriage to Hubert that her blood ran rather cold. … Sinclair was one more alarming example in a long line of handsome men who inspired as much excitement in her as the prospect of needlepointing a pillow."
+    },
+    {
+      "n": 22,
+      "who": "辛西娅",
+      "did": "本章末句：把心思从「不可能」拉回「不可思议」——要套出魔鬼的真话；直接问辛克莱「我丈夫欠你的债，与他的非正常死亡有没有关系？」（答案在 ch11 开头）",
+      "lines": "266-272",
+      "verbatim": "I won’t have a future if I don’t find a way to get Sinclair to talk. … She pulled her thoughts away from the impossible to focus on the improbable. Getting the truth from a devil. … ‘Did my husband’s debt to you play a role in his untimely death?’"
+    }
+  ],
+  "relationships_noted": [
+    "辛西娅 ↔ 辛克莱：初次见面；辛西娅向他追讨债务真相并质问他是否与休伯特之死有关",
+    "海伦娜 ↔ 辛克莱：辛克莱称海伦娜为辛西娅的 protector／friend，称海伦娜「your friend might be dangerous」",
+    "辛西娅 ↔ 海伦娜：辛西娅当面护她（毒蛇 venom 比喻）、心里承认欲望被她唤醒；海伦娜自称来「保证 Lady Burrows 的安全」",
+    "MacDougal ↔ 辛克莱/本场景：MacDougal 曾对她们说辛克莱有权有势（`:137`），并曾试图把她们护起来（`:188`）",
+    "Lady Bucklethorne：领着 Society of Genteel Ladies 的女人，在辛克莱场所内（`:53`）",
+    "休伯特 ↔ 辛克莱：休伯特欠债，辛克莱是债主（`:236`）"
+  ],
+  "numbers_verbatim": [
+    "fifteen（十五岁 debutante 见女王，:35）",
+    "three men（三个人同时与一名女子亲热，:50）",
+    "thirty feet（看镜子要三十英尺高，:89）",
+    "two stories high（赌厅天花板至少两层楼高，:77）",
+    "Bacarat, Macao, hazard（三种赌戏，:74）",
+    "one / two / three（她给自己列的三条理由，:251 :254 :257）"
+  ],
+  "source_inconsistencies_not_to_adjudicate": [
+    ":98 海伦娜对辛西娅说 "When your uncle is the Superintendent of Scotland Yard, you learn many things" —— 按全书其余证据 MacDougal 是海伦娜与 Clio 的舅舅（ch11:44、ch02），此处原文用 "your" 疑为原书笔误；**不裁决**",
+    ":203 辛克莱接辛西娅（:182）的话，却称她 "Miss Blair"；全书他另有三处对辛西娅称 Lady Burrows／you（:215、:227、:239）⇒ **不裁决**"
+  ],
+  "unresolved_in_source": [
+    "辛克莱对休伯特之死的回答在下一章（ch11）开头，本章不给答案",
+    "辛克莱的真实姓名「Damien Sinclair」本章才首次出现（:146）",
+    "辛西娅父母、娘家仍未出现"
+  ]
+}
