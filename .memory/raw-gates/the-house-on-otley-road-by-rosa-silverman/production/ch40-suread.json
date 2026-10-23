@@ -1,0 +1,55 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch40",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch40_chapter_39.txt",
+ "facts": [
+  {
+   "fact": "报纸头条：又一名女生在“学生谋杀公寓”中被杀。",
+   "anchor": "SECOND GIRL KILLED IN STUDENT MURDER FLAT",
+   "start": 4152,
+   "end": 4193
+  },
+  {
+   "fact": "Gloria 从报纸得知又一名学生死在 Emily Pierce 的旧宅。",
+   "anchor": "Another student had been killed in Emily Pierce’s old house.",
+   "start": 4323,
+   "end": 4383
+  },
+  {
+   "fact": "报道引警方称两案无关联证据，但保持开放态度。",
+   "anchor": "Police say they have no evidence the two killings are connected but are keeping an open mind.",
+   "start": 4469,
+   "end": 4562
+  },
+  {
+   "fact": "她随即闪回 2000 年 1 月 4 日警察上门的那天。",
+   "anchor": "Inevitably, her mind took her back to 4 January 2000 again.",
+   "start": 4842,
+   "end": 4901
+  },
+  {
+   "fact": "她承认前天从藏处取出并销毁了 Aiden 那个会连累他的信封。",
+   "anchor": "That’s why I took your idiotic incriminating envelope from its incredibly obvious hiding place and destroyed it",
+   "start": 10939,
+   "end": 11050
+  },
+  {
+   "fact": "Aiden 说 Olivia Kavanagh 突然给他发邮件，他因此去见了她。",
+   "anchor": "She emailed me out of the blue",
+   "start": 13418,
+   "end": 13448
+  },
+  {
+   "fact": "Gloria 指责他见过那女孩后女孩就死了，和 Emily 一样。",
+   "anchor": "You went to meet this girl and now she’s dead. Just like Emily.",
+   "start": 13956,
+   "end": 14019
+  },
+  {
+   "fact": "通话后她恐慌发作，倒在地上。",
+   "anchor": "Then the tiles came up to meet her face",
+   "start": 14444,
+   "end": 14483
+  }
+ ]
+}
