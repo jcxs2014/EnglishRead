@@ -49,7 +49,7 @@ modified: "2026-10-23"
 
 **中文理解**：真正让她一震的，是那一串收据照片前面的一张照片。一只蝎子。一只有邪恶红眼睛的蝎子。
 
-**关键词**：`screenshot`（截图）、`receipts`（收据）、`a jolt of shock`（一震）、`scorpion`（蝎子）、`evil red eyes`（邪恶的红眼睛）
+**关键词**：`photo before the receipts`（收据前面那张照片）、`a jolt of shock`（一震）、`scorpion`（蝎子）、`evil red eyes`（邪恶的红眼睛）
 
 **为什么这样写**：`But` 起句，说明前面还有一串她翻过的、琐碎可信的生活照片（订房、收据、报销），读者跟着她放松了一路；`A scorpion.` 单独成句，`One with evil red eyes.` 再补一刀。作者不解释这只蝎子意味着什么，只写她的生理反应 `a jolt of shock`。短句的节奏在这一段第一次变快，读者被迫和她一起停在那里。
 

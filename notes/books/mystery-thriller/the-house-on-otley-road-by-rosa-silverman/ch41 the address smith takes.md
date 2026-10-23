@@ -127,7 +127,7 @@ modified: "2026-10-23"
 | **salient** | 显著的、关键的 | The long hours spent down social media wormholes, going deeper and deeper into someone’s life, their friends’ lives, looking for a salient detail to move a story on. |
 | **dovetail** | 与……吻合、衔接 | Their idea of fun rarely dovetailed with hers. |
 | **sleuthing** | 侦查、当侦探 | So in terms of what to do next, we have the line about Olivia’s amateur sleuthing. |
-| **ruminate** | 反复思量 | She had been so caught up in the story, and in ruminating on Smith, that she’d managed to forget about the Twitter threat for a while. |
+| **senselessly** | 无意义地、毫无道理地 | We know she would have gone on to achieve wonderful things, had her life not been senselessly taken at the age of just nineteen. |
 
 ### ⭐⭐ 进阶
 

@@ -33,7 +33,19 @@ modified: "2026-10-23"
 
 ---
 
-> **原句 2:** Soon he’d be able to tell her when she’d had too much. Carry her home, put her to bed and climb right in beside her. No more tiptoeing away after she’d passed out, after sitting there for too long staring at her beautiful unconscious face, her swollen lips, smudged make-up, tangled hair on the pillow.
+> **原句 2:** She leaned back harder into Matty so he felt her full upper bodyweight against him and hardly dared breathe. Was she saying that she loved him? Could this really be true?
+
+**中文理解**：她更用力地往 Matty 身上靠，让他承受她整个上半身的重量；他几乎不敢呼吸。她是在说她爱他吗？这真的可能吗？
+
+**关键词**：`leaned back harder`（更用力地往后靠）、`hardly dared breathe`（几乎不敢呼吸）、`loved him`（爱他）、`could this really be true`（这真的可能吗）
+
+**为什么这样写**：她的动作是无意识的，他的解读却带着明确的目的：`Was she saying that she loved him?` 两个反问句都是他的内心，不是她的话。`hardly dared breathe` 写的是身体的僵住，也是他不敢承担被拒绝的风险——他把不动当成尊重，其实是不敢动。下一句她说的却是"it's Gareth"，这个反转之所以有效，全靠这一块先把他的期待推到最高。
+
+**读者视角提示**：注意作者让他先误解、再被当众纠正。这个顺序比直接写"她不爱他"更残忍，因为读者和他一起经历了那三秒钟的希望。
+
+---
+
+> **原句 3:** Soon he’d be able to tell her when she’d had too much. Carry her home, put her to bed and climb right in beside her. No more tiptoeing away after she’d passed out, after sitting there for too long staring at her beautiful unconscious face, her swollen lips, smudged make-up, tangled hair on the pillow.
 
 **中文理解**：很快他就能管她什么时候算喝多了。抱她回家，放上床，直接躺到她身边。再也不用在她昏睡过去之后蹑手蹑脚地离开，再也不用坐在那儿太久，盯着她那失去知觉的漂亮脸孔、肿起的嘴唇、花掉的眼妆、枕头上缠乱的头发。
 
