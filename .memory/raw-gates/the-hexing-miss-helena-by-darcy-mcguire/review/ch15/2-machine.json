@@ -1,0 +1,344 @@
+{
+  "chapter": 15,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/ch15 the parlour kiss.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch15_chapter_15.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "‘But please let us handle the investigation from this point forward. You’ve done admirably, but it is too dangerous.’",
+          "ok": true,
+          "pos": 1854
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "‘By “us”, do you mean the men?’ She couldn’t help rolling her eyes. ‘Life is dangerous. Women have known this since the ",
+          "ok": true,
+          "pos": 2071
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Stepping between her brother and Helena, Cynthia held her hands out. ‘Stop.’ A wave of energy pulsed, and for a moment, ",
+          "ok": true,
+          "pos": 2574
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘Unless I have a witch with me to keep me safe.’",
+          "ok": true,
+          "pos": 3180
+        }
+      ],
+      "words": 11
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She is mine to protect",
+          "ok": true,
+          "pos": 3893
+        }
+      ],
+      "words": 5
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "‘Only if you let me repay you for your efforts.’",
+          "ok": true,
+          "pos": 3917
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "‘I think you are a wonder. And a mystery. And very, very beautiful.’",
+          "ok": true,
+          "pos": 8346
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "‘I would very much like to kiss you, Helena Blair. If you would allow me such liberties.’ It was glorious to take the le",
+          "ok": true,
+          "pos": 10740
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Cynthia recoiled from the title. She needed to shed the name that never belonged to her. It tied her to a life she wante",
+          "ok": true,
+          "pos": 11520
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "‘Cyn and Hel. What a pair we make.’",
+          "ok": true,
+          "pos": 11733
+        }
+      ],
+      "words": 8
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.88
+      }
+    }
+  ],
+  "form": {
+    "h1": "15. Chapter Fifteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 10,
+    "block_range": [
+      6,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2923,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": "块数 10 偏离本章篇幅建议 5–9（本章 2923 词）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
