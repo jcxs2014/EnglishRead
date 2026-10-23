@@ -1,0 +1,188 @@
+{
+  "chapter": "ch03",
+  "slug": "the-hexing-miss-helena-by-darcy-mcguire",
+  "source": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch03_chapter_3.txt",
+  "source_lines": 346,
+  "read_discipline": "先素读：仅读 text/ch03_chapter_3.txt（全文 346 行），未打开 ch03 md、未看该章词表与导航；R0 阶段跑过的全库 grep 属机器层背景，非本章判断依据",
+  "sampling_reason": "深审 R0–R5 全章（批 1／27）",
+  "line_ref_convention": "行号为 text/ch03_chapter_3.txt 的 1 基行号；引文逐字抄录",
+  "events": [
+    {
+      "n": 1,
+      "who": "海伦娜·布莱尔（Helena Blair）与她的魔宠狐狸哈姆雷特（Hamlet）",
+      "did": "海伦娜走进辛西娅的会客室；狐狸从海伦娜海沫绿裙后探头；两者发色都是「垂死太阳的颜色：焦褐、铜、带一丝绯红」",
+      "lines": "35",
+      "verbatim": "Cynthia looked up in surprise as Helena Blair walked into her parlour. The woman’s pet, a fox named Hamlet, peered at her from behind Helena’s sea foam green skirt. Both fox and female had hair the colour of a dying sun: burnt umber, copper, a hint of crimson."
+    },
+    {
+      "n": 2,
+      "who": "辛西娅（内心）",
+      "did": "回想海伦娜此前拒绝她一切示好：茶会、沙龙、花园派对，以及整个夏季与 Clio、Ellie 去 Gunter's 和 Rotten Row 的无数郊游；辛西娅想与这四位女性建立亲密友谊，因为「她们如今是一家人」，但海伦娜始终拒绝",
+      "lines": "41",
+      "verbatim": "Clio’s cousin had rejected any overture Cynthia made of friendship. Her blatant refusal to accept invitations to tea parties, salons, garden parties, or countless outings to Gunter’s and Rotten Row with Clio and Ellie during the summer season had stung most acutely. Knowing how close Clio was to her cousin and sister, Cynthia had wanted to create an intimate friendship among the four women. They were family now, after all. But Helena stubbornly refused."
+    },
+    {
+      "n": 3,
+      "who": "Clio（进门）与辛西娅",
+      "did": "Clio 进门，辛西娅起身冲向她、抱住她，Sir Robin 用头蹭她的脸颊；辛西娅泪如雨下，自称是「可怕的示弱表现」；Clio 说「我们会把这事摆平，我保证」",
+      "lines": "50-56",
+      "verbatim": "Before she could enquire as to Helena’s presence, Clio stepped through the door. The well of emotions Cynthia had been valiantly trying to contain escaped in a flood as she stood and rushed to her friend. Clio embraced her as dear Sir Robin rubbed his sleek head over Cynthia’s cheek. Tears fell in a waterfall. A horrifying display of weakness, but one she couldn’t help. ‘We’ll sort this all out, Cynthia. I promise.’"
+    },
+    {
+      "n": 4,
+      "who": "托马斯（Clio 的丈夫）",
+      "did": "应 Clio 要求摇铃叫人送新茶；此后在辛西娅另一侧坐下，问妻子「什么都没剩下？」；Clio 答「连一点暗示都没有」",
+      "lines": "59, 107-110",
+      "verbatim": "‘Thomas, could you have someone bring us fresh tea?’ Clio asked her husband, who quickly rang the bell. … Thomas came and sat on the other side of Cynthia, his gaze also fixed on Clio. ‘Nothing remains?’ he asked his wife, completely ignoring Cynthia’s question. ‘Not even a hint.’ Clio spoke cryptically."
+    },
+    {
+      "n": 5,
+      "who": "海伦娜／辛西娅",
+      "did": "海伦娜插话主张给辛西娅的是白兰地不是茶；辛西娅回「我当然不要」，并注意到「还没到正午」",
+      "lines": "65-68",
+      "verbatim": "‘She needs brandy, not tea.’ Helena’s sharp words cut through the haze of Cynthia’s scattered thoughts. ‘I most certainly do not.’ It wasn’t even noon yet, though the stormy sky outside made it feel much later."
+    },
+    {
+      "n": 6,
+      "who": "无人的声音（对辛西娅说话）",
+      "did": "房间里出现第五个声音，辛西娅转头找不到说话者——在场只有他们五个人；那声音「带着一丝含糊的口齿」，语气刻薄",
+      "lines": "71-74",
+      "verbatim": "You most certainly do. Turning her head sharply at the new voice, she looked for another member of their party, but it was just the five of them. Alarm shot through her like a lightning bolt. Because the voice did not belong to any person in the room, yet it rang in her ear as clear as a bell. Snarky with the hint of a lisp."
+    },
+    {
+      "n": 7,
+      "who": "哈姆雷特（狐狸）",
+      "did": "像人抹胡子一样舔嘴；辛西娅从它金色眼睛里看到了智力的闪光",
+      "lines": "77",
+      "verbatim": "Hamlet, the fox, licked his chops in the same manner a man might smooth his moustache. Which was absurd. Yet she wasn’t imagining the sparkle of intelligence in his golden eyes."
+    },
+    {
+      "n": 8,
+      "who": "辛西娅（内心）",
+      "did": "得出「我在听见声音，上帝啊，我要疯了」的结论；同时感到海伦娜的目光能拆掉她精心打造的体面外壳",
+      "lines": "80-83",
+      "verbatim": "I’m hearing voices. Dear God. I’m losing my mind. … Helena dismantled all the details making Cynthia a lady of consequence in the beau monde. She peeled back the layers hiding Cynthia’s soul beneath the expertly coiffed image of respectability."
+    },
+    {
+      "n": 9,
+      "who": "辛西娅（对麦克杜格尔说话）",
+      "did": "质问「布莱尔小姐为什么在这儿」；叙述交代麦克杜格尔从未在她家自在，她唯一一次请他吃饭时丈夫嫌弃「一个苏格兰佬这么低贱」，尽管他已从巡警升到警长再到苏格兰场警司，休伯特仍不承认没有门第的人",
+      "lines": "95",
+      "verbatim": "‘Why is Miss Blair here?’ Cynthia looked at Superintendent MacDougal, who stood stiffly, his discomfort on full display. … Even as he ascended the ranks from bobby to constable all the way to the heights of Superintendent of Scotland Yard, MacDougal couldn’t attain the title of Lord, and Hubert refused to acknowledge anyone without pedigree."
+    },
+    {
+      "n": 10,
+      "who": "麦克杜格尔与 Clio",
+      "did": "麦克杜格尔不答辛西娅，转而扬眉无声询问 Clio；Clio 摇头；辛西娅看懂了两人的无声交谈",
+      "lines": "98-104",
+      "verbatim": "Superintendent MacDougal didn’t answer Cynthia. Instead, he looked to Clio with his brows raised in an unspoken question. Clio shook her head in tight movements. Cynthia had attended enough balls to know when things were being said with nary a word spoken."
+    },
+    {
+      "n": 11,
+      "who": "海伦娜（对管家 Hodges 说）",
+      "did": "以不容置疑的口气让管家上白兰地；辛西娅因此恼火——「这是辛西娅的房子、她的管家、她的亡夫，她的白兰地」；随即自己下令让 Cook 备三明治，吩咐茶、柠檬水和蛋糕",
+      "lines": "131-149",
+      "verbatim": "The butler opened the door and entered. Hodges had recovered admirably from his initial shock and kept his face impassive as she looked to her for instructions. ‘We’ll need brandy, good sir,’ Helena spoke to him with quiet authority. … This was Cynthia’s house. Her butler. Her dead husband, and by God, her brandy. … ‘Hodges, have Cook make a tray of sandwiches.’ She looked at Superintendent MacDougal, then her brother. ‘Something substantial, I think. Tea would not go amiss, lemonade, and some of the seedcake, please.’"
+    },
+    {
+      "n": 12,
+      "who": "海伦娜",
+      "did": "从裙子的暗袋里取出一条挂在细链上的金锁，说想知道这属于谁；辛西娅一眼认出是自己丈夫书房里那条沾血的东西（问「你从哪儿找到的」，海伦娜答「在你丈夫的书房里。沾满了他的血」）",
+      "lines": "164-194",
+      "verbatim": "Helena pulled something out of a clever pocket sewn into her silk skirts. … ‘I was wondering if you might know who this belongs to.’ Helena held a golden locket swinging on a delicate chain. … ‘In your husband’s study. Covered in his blood.’"
+    },
+    {
+      "n": 13,
+      "who": "海伦娜（内心／施法）",
+      "did": "尝试读辛西娅的心思想，得到的是「完全的寂静」；第二次仍是「令人困惑的真空」；她意识到自己「完全听不到」房间里任何人的想法，唯独辛西娅的不行",
+      "lines": "222-279",
+      "verbatim": "But that same breathless anxiety set in the moment Helena reached out with her powers to read Cynthia’s thoughts and heard… nothing. … Complete silence. … When she tried a second time, only to once more be hit with a confounding vacuum of sound, Helena knew something was very wrong. … She could easily read the thoughts of her coven, and they were all powerful witches within their own elements. Every mind in the elegantly decorated room was open to her. Except Cynthia’s."
+    },
+    {
+      "n": 14,
+      "who": "哈姆雷特",
+      "did": "离开海伦娜身边，把头搁在辛西娅腿上；Clio 无声询问「哈姆雷特怎么了」，海伦娜心里承认「她毫无线索——魔宠绝不会抛弃自己的女巫」",
+      "lines": "237-246",
+      "verbatim": "And then her familiar left her side to put his head on Cynthia’s fecking lap. … What is going on with Hamlet? Helena ignored Clio’s unspoken question. Because she had no bloody clue. A familiar did not abandon his witch. Ever."
+    },
+    {
+      "n": 15,
+      "who": "海伦娜（内心推演）",
+      "did": "推测自己可能被下了咒、力量被黑魔法封锁；随即否定「是辛西娅干的？她没有力量、她不是女巫」；转而想到辛西娅或许隐藏着潜在的魔法能力（魔法通常沿母系遗传）",
+      "lines": "258-267",
+      "verbatim": "She had only pulled out the locket to rattle Cynthia and see if that knocked loose whatever was blocking Helena’s power to read her thoughts. The plan backfired spectacularly. Perhaps she had been unwittingly hexed, her powers blocked by dark magic. By Cynthia? Certainly not. She has no powers. She isn’t a witch. … Generally, magic was inherited along the matrilineal line, but there were cases of women from non-magical families demonstrating spontaneous powers."
+    },
+    {
+      "n": 16,
+      "who": "辛西娅（对海伦娜）",
+      "did": "承认项链是自己的：约会时休伯特送她，婚后几个月她就还了回去，此后再没见过；海伦娜嗤之以鼻「这倒挺方便」",
+      "lines": "294-297",
+      "verbatim": "‘It is mine. I won’t try to deny it. But I haven’t seen it in years. Hubert gave it to me when we were courting. I gave it back several months after we were married. I haven’t seen it since then.’ Helena snorted. ‘That’s rather convenient.’"
+    },
+    {
+      "n": 17,
+      "who": "拉奇兰叔叔（Uncle Lachlan，即麦克杜格尔）",
+      "did": "口头问辛西娅「你想得出任何理由，说明你的项链为什么会在你丈夫书房里」，心里想的是「是不是你杀了那个混蛋」；海伦娜听到叔叔的想法时一阵得意，随即生愧",
+      "lines": "303-306",
+      "verbatim": "‘Lady Burrows, can you think of any reason tha’ yer locket would be in yer husband’s study?’ Uncle Lachlan’s brown eyes flashed with real concern. Is it because you killed the bastard? Helena felt a rush of triumph at her uncle’s thoughts."
+    },
+    {
+      "n": 18,
+      "who": "托马斯",
+      "did": "站起来挡在海伦娜与叔叔之间，替妹妹说话：「你不能因为一条项链就认为辛西娅杀了她丈夫。拉奇兰，我们说的是我妹妹」；拉奇兰回敬「我可没说我觉得如何，我只是在提问」",
+      "lines": "315-321",
+      "verbatim": "‘You can’t think Cynthia killed her husband just because of a locket. Lachlan, this is my sister we’re talking about.’ Thomas stood directly in front of her uncle. … ‘I’m no’ sayin’ I think anything, Thomas. I’m just asking questions. You’ll recall that’s my job as Superintendent of Scotland Yard.’"
+    },
+    {
+      "n": 19,
+      "who": "Clio",
+      "did": "替辛西娅背书「托马斯说得对，辛西娅连只苍蝇都舍不得伤害」，且她的心念「明亮而清晰」，海伦娜读出她没有说谎；但转向辛西娅时只听到自己心跳",
+      "lines": "324",
+      "verbatim": "‘Thomas is right. Cynthia couldn’t hurt a fly.’ Clio looked to her friend, and the faith glimmering in her amber eyes matched the bright clarity of her thoughts. Clio certainly wasn’t lying. But when Helena turned to focus on Cynthia, she heard nothing but the staccato beat of her own heart."
+    },
+    {
+      "n": 20,
+      "who": "辛西娅（自辩）",
+      "did": "说自己与休伯特的婚姻并不亲密、两人各过各的；若那样的疏远足以成为杀人动机，伦敦就一个爵爷都不会剩；她不知道休伯特为何持有项链，但知道自己没杀他",
+      "lines": "333",
+      "verbatim": "‘It will come as no surprise that Hubert and I did not have a particularly… close… marriage. … Rest assured, if such distance were inspiration for murder, there would be no lord left living in London. I don’t know why he was in possession of my locket, but I do know I didn’t kill him.’"
+    },
+    {
+      "n": 21,
+      "who": "海伦娜（章末动作）",
+      "did": "第三次施法仍一无所获后，把项链按进辛西娅手里并紧握，因为「身体接触会增强她的力量」，相信接触能击碎辛西娅身上的某种屏障",
+      "lines": "282, 336-345",
+      "verbatim": "She had never needed to touch another to know what they were thinking, but physical contact enhanced her powers. … Helena pushed forward once more with her magic, desperate to hear the thoughts beneath Cynthia’s words. Nothing. … Stepping forward, Helena pressed the necklace into Cynthia’s hand with firm fingers and held strong, forcing the connection."
+    }
+  ],
+  "relationships_noted": [
+    "辛西娅 ↔ 休伯特·布尔洛斯：夫妻（本章他已死；:137「她的亡夫」、:194「你丈夫的书房」）",
+    "辛西娅 ↔ 托马斯：兄妹（:140「然后她哥哥」、:315「我们说的是我妹妹」）",
+    "托马斯 ↔ Clio：夫妻（:59「Clio 问她丈夫」、:107「他问妻子」）",
+    "Clio ↔ 海伦娜：表姐妹（:41「Clio 的表亲」指海伦娜；:240「她找到表姐」——以海伦娜视角 Clio 是 her cousin）",
+    "Clio ↔ Ellie：亲姐妹（:41「与 Clio 和 Ellie」被辛西娅视为 Clio 的 cousin and sister）",
+    "Clio ↔ Sir Robin：魔宠（本章未明言，:53 乌鸦蹭她的脸）",
+    "海伦娜 ↔ 哈姆雷特：魔宠与女巫（:246「魔宠绝不会抛弃自己的女巫」）",
+    "海伦娜 ↔ 拉奇拉恩·麦克杜格尔：叔侄（:300「Uncle Lachlan」以海伦娜视角称呼）",
+    "托马斯 ↔ 麦克杜格尔：老友（:315「these old friends」）",
+    "辛西娅 ↔ Clio：朋友（:50「冲向她朋友」）",
+    "辛西娅 ↔ 海伦娜：非朋友，海伦娜一直拒绝辛西娅的示好（:41、:44、:249）",
+    "海伦娜 ↔ 罗恩姨妈（Aunt Rowan）：姑/姨婆辈女巫，行医治愈之力（:219「Aunt Rowan’s healing magic extended to animals」）",
+    "海伦娜 ↔ 她的「巫团」（coven）成员：她能读到巫团中所有人的想法（:276）"
+  ],
+  "numbers_verbatim": [
+    "the five of them（在场五个人，L74）",
+    "not even noon（还没到正午，L68）",
+    "a few days（哈姆雷特生病数日，L219）",
+    "several months after we were married（婚后几个月还回项链，L294）",
+    "four women（辛西娅想与四位女性建立友谊，L41）",
+    "the one time he accepted her many invitations to dinner（唯一一次接受晚餐邀请，L95）"
+  ],
+  "unresolved_in_source": [
+    "辛西娅为何「读不到」——本章未给出答案（海伦娜只列出「被下咒」「潜在魔力」两种猜测，未裁决）",
+    "哈姆雷特为何离开海伦娜去蹭辛西娅——本章未解释",
+    "「无人的声音」是谁在说话——本章只呈现现象，未点名",
+    "锁链中金蛇与红宝石的来历（:288）与项链原本归属——本章未交代",
+    "休伯特为何持有这条项链——辛西娅本人也不知道（:333）"
+  ]
+}

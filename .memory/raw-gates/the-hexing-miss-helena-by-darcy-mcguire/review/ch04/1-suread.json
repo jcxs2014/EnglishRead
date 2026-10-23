@@ -1,0 +1,246 @@
+{
+  "chapter": "ch04",
+  "slug": "the-hexing-miss-helena-by-darcy-mcguire",
+  "source": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch04_chapter_4.txt",
+  "source_lines": 336,
+  "read_discipline": "先素读：仅读 text/ch04_chapter_4.txt（全文 336 行），未打开 ch04 md、未看该章词表与导航；R0 阶段跑过的全库 grep 属机器层背景，非本章判断依据",
+  "sampling_reason": "深审 R0–R5 全章（批 1／27）",
+  "line_ref_convention": "行号为 text/ch04_chapter_4.txt 的 1 基行号；引文逐字抄录",
+  "events": [
+    {
+      "n": 1,
+      "who": "海伦娜（施法）",
+      "did": "抓住辛西娅的手如同把手伸进冰冷湖水又抓住电鳗；一道力量电流穿过她，她拒绝松手，直到要突破辛西娅的屏障",
+      "lines": "35",
+      "verbatim": "Taking Cynthia’s hand was like plunging her own into a frigid lake and holding onto an electric eel. A current of power tore through Helena, but she refused to let go. Not until she broke through Cynthia’s barrier."
+    },
+    {
+      "n": 2,
+      "who": "海伦娜",
+      "did": "知道自己的眼睛会变成亮银色，辛西娅的想法仍被隐藏，电流加大让她耳中嗡鸣；最后是一声压抑的叫喊，她被迫松手后退，像刚从怒海爬出",
+      "lines": "41-44",
+      "verbatim": "She closed her eyes, knowing they would be bright silver, but Cynthia’s thoughts remained hidden as the electric current increased, creating a buzz in Helena’s ears. A strangled cry escaped before Helena was forced to let go of Cynthia’s hand and step back."
+    },
+    {
+      "n": 3,
+      "who": "海伦娜（结论）",
+      "did": "整场接触之后辛西娅的想法仍然对海伦娜隐藏",
+      "lines": "50",
+      "verbatim": "During the entire encounter, Cynthia’s thoughts were still hidden from Helena."
+    },
+    {
+      "n": 4,
+      "who": "辛西娅",
+      "did": "问「刚才那是什么」，并说「那可不是静电」；接着质问「到底怎么回事」，目光从海伦娜移到拉奇兰叔叔再移到 Clio",
+      "lines": "53-65",
+      "verbatim": "‘What the blazes was that?’ Cynthia’s breathless words stroked like cool fingers over Helena’s senses. ‘Static electricity,’ Helena muttered, not caring if Cynthia believed her. ‘That was hardly static electricity!’ ‘Something is amiss.’ ‘You don’t say? What the bloody hell is going on here?’ Cynthia looked from Helena to Uncle Lachlan to Clio."
+    },
+    {
+      "n": 5,
+      "who": "Clio",
+      "did": "把辛西娅拉回沙发上安抚，并提议「布莱尔女人们大概有些事你该知道」；海伦娜厉声制止，重申不向巫团或血亲以外的人透露能力——她自己曾因此犯过错，代价致命",
+      "lines": "74-77",
+      "verbatim": "Clio tugged Cynthia back onto the couch and patted her hand reassuringly. ‘There are probably a few things you should know about the Blair women.’ ‘Clio!’ Helena’s sharp tone had Hamlet yipping as he bumped his head against her skirts. … They didn’t reveal their abilities to anyone who wasn’t coven or kin. Helena had made the mistake once with deadly consequences."
+    },
+    {
+      "n": 6,
+      "who": "Clio 与海伦娜",
+      "did": "Clio 断言「她现在是家人了，海伦娜，她需要明白」；海伦娜顶回「她不是我的家人」，Clio 回以凶恶怒视",
+      "lines": "80-86",
+      "verbatim": "‘She is family now, Helena. And she needs to understand.’ … ‘She isn’t my family,’ Helena muttered, earning another vicious glare from Clio."
+    },
+    {
+      "n": 7,
+      "who": "Clio（说明）",
+      "did": "告诉辛西娅「Ellie、海伦娜、罗恩姨妈和我都有一些别人没有的本事」；辛西娅追问是什么本事、跟休伯特的死有什么关系",
+      "lines": "89-95",
+      "verbatim": "‘Ellie, Helena, Aunt Rowan, and I have certain abilities that give us, er, skills most others don’t have.’ She patted Cynthia’s hand. … ‘Skills?’ Cynthia shook her head. ‘What kind of skills? And what does this have to do with Hubert’s death?’"
+    },
+    {
+      "n": 8,
+      "who": "海伦娜（内心）",
+      "did": "极度恐慌：向辛西娅这样体面的人透露致命秘密太愚蠢，她可能反咬一口；Clio 却说她信任辛西娅、「她不会做伤害我们的事」",
+      "lines": "101-107",
+      "verbatim": "Panic gripped Helena. This was a terrible idea. To reveal such intimate, potentially deadly secrets about themselves to someone as well-connected as Lady Cynthia Burrows was foolish. … ‘I have thought about this. And I trust Cynthia. She wouldn’t do anything to hurt us. Just as she didn’t do anything to hurt Lord Burrows.’ ‘We don’t know that. You are gambling with our lives.’"
+    },
+    {
+      "n": 9,
+      "who": "辛西娅（反击）",
+      "did": "说「我绝不会让朋友或家人陷入险境，我也没杀我丈夫；如果你肯稍微花点心思认识我，你就不会浪费时间审问我休伯特的谋杀案」",
+      "lines": "110",
+      "verbatim": "‘I would never put my friends or family at risk. And I did not kill my husband. If you had made the slightest effort to know me at all, you wouldn’t be wasting your time quizzing me about Hubert’s murder.’"
+    },
+    {
+      "n": 10,
+      "who": "Clio 与海伦娜",
+      "did": "Clio 用「你不信辛西娅但信我」施压；海伦娜承认「从不」，但坚持「她可能会」",
+      "lines": "116-119",
+      "verbatim": "‘Hel, you don’t trust Cynthia, but you do trust me. Would I ever put your life in danger?’ … ‘Never. But she might.’ Helena thrust her chin at Cynthia, unwilling to reveal secrets to someone who could become their enemy."
+    },
+    {
+      "n": 11,
+      "who": "辛西娅与海伦娜",
+      "did": "互斥：辛西娅说她「是个非常难相处的女人」；海伦娜回「我宁愿难相处，也不做社会脾气的奴隶」；辛西娅回应「有些人天生困在无法逃脱的期待里」并转身",
+      "lines": "122-128",
+      "verbatim": "‘You are a very disagreeable woman.’ ‘I would rather be disagreeable than a slave to society’s whims.’ … ‘How lovely that you have a choice. Some of us are born into expectations we can never escape.’ Cynthia turned away, silently dismissing her."
+    },
+    {
+      "n": 12,
+      "who": "辛西娅",
+      "did": "握住 Clio 的手说「你现在是我姐姐了，你分享的秘密我会守着」；Clio 摊开掌心，蓝色火焰窜起并燃旺，女巫身份就此暴露",
+      "lines": "134-137",
+      "verbatim": "Cynthia gripped Clio’s hand. ‘You are my sister now. Whatever secrets you share will remain safe with me.’ ‘This is a rather large secret.’ Clio’s small smile was full of faith that Helena couldn’t understand. She pulled her hand free, turned her palm upward, and a blue flame flickered then flared. … Their witchcraft was revealed."
+    },
+    {
+      "n": 13,
+      "who": "Clio",
+      "did": "让火焰燃得更高、屋内灯全亮，宣布「不是戏法，是魔法」；并说「我们是女巫：罗恩姨妈、Ellie、海伦娜和我」",
+      "lines": "143-149",
+      "verbatim": "Clio’s flame flared higher as all the lights in the room glowed bright. ‘Not trickery. Magic.’ … ‘Sometimes, the universe defies sense. We are witches. Aunt Rowan, Ellie, Helena, and I.’"
+    },
+    {
+      "n": 14,
+      "who": "托马斯",
+      "did": "被辛西娅称作哥哥；托马斯表态「我信，因为这是真的；Clio 是女巫，我因此更爱她」",
+      "lines": "152-155",
+      "verbatim": "‘Witches?’ Cynthia’s eyes widened as she turned to her brother. ‘Thomas… you can’t believe⁠—’ ‘I do. Because it is true. Look at the evidence in front of you, Cynthia. Clio is a witch, and I love her all the more for it.’"
+    },
+    {
+      "n": 15,
+      "who": "托马斯（自述）",
+      "did": "说自己是「在德文公爵夫人的乡间派对上」发现妻子有魔力的，当时正在调查「比奇利子爵的谋杀案」；辛西娅追问「那是几个月前的事了」，托马斯说是 Clio 主动向他展示能力",
+      "lines": "164-173",
+      "verbatim": "‘At the Duchess of Devon’s house party. When we were investigating Viscount Beachley’s murder.’ … ‘That was months ago! How did you find out?’ … ‘Clio exposed her… that is to say, she revealed her gifts to me.’"
+    },
+    {
+      "n": 16,
+      "who": "Clio（说明）",
+      "did": "说是我请他先替我保密，直到能找个合适时机告诉你；并半开玩笑地把「露伊丝·梅庚」的《The Young Woman’s Guide to Excellence》与「何时该展示魔法」相提并论",
+      "lines": "185, 194",
+      "verbatim": "‘I wanted to tell you, Cynthia. I was waiting for the right time, but Alcott seems to have skipped the chapter on when to reveal your magical powers in The Young Woman’s Guide to Excellence.’ … ‘I asked him to keep my secret until I could share it with you at the right time,’ Clio added."
+    },
+    {
+      "n": 17,
+      "who": "辛西娅",
+      "did": "提起托马斯名誉扫地时她曾挺身而出，与所有质疑他的贵族正面交锋；托马斯道歉「我从没怀疑过你的忠诚，辛西娅，我本该告诉你」",
+      "lines": "188-191",
+      "verbatim": "‘I stood with you when your reputation was in tatters. When the entire beau monde accused you of being the worst kind of rakehell, I went toe to toe with every duchess, viscountess, marchioness, and debutante who dared speak a word against you.’ … ‘I never doubted your loyalty, Cyn. I should have told you.’"
+    },
+    {
+      "n": 18,
+      "who": "辛西娅（接纳）",
+      "did": "紧紧拥抱 Clio，说「你永远不会有我，我早就想要一个像爱托马斯那样爱他的姐姐」，并笑说「连发现你是女巫都不能改变这一点」；海伦娜本能地排斥这种轻快的接受",
+      "lines": "200-203",
+      "verbatim": "The proper lady pulled Clio into a tight hug. ‘You can never lose me, Clio. I have longed for a sister who would love Thomas the way he deserved. … Not even discovering you’re a witch.’ She laughed, a melody of sound inviting everyone in the room to join her. … Cynthia so easily accepting them after knowing the truth of who they really were was impossible. Helena instinctively rejected the idea."
+    },
+    {
+      "n": 19,
+      "who": "海伦娜（挑明）",
+      "did": "提醒众人还在查谋杀案，辛西娅仍是嫌疑人；Clio 回「这就是友谊」；海伦娜由此意识到自己在家族之外没有任何友谊",
+      "lines": "212-221",
+      "verbatim": "‘Has everyone forgotten we are in the middle of a murder investigation? …’ ‘This is friendship. Or have you never experienced that with someone outside your family?’ … Helena didn’t have any friendships outside of Clio, Ellie, and her aunt."
+    },
+    {
+      "n": 20,
+      "who": "托马斯与海伦娜",
+      "did": "托马斯以与妹妹相似的轮廓转向海伦娜，说「她不是嫌疑人，辛西娅没有做错任何事」；海伦娜回「我们都做错过事」并反问她为丈夫做过哪些后悔的选择",
+      "lines": "224-230",
+      "verbatim": "‘She is not a suspect. Cynthia has done nothing wrong.’ ‘We’ve all done something wrong.’ … ‘The question is, what choices have you made with your husband that you regret, Lady Burrows?’ Cynthia squared her shoulders. ‘I have a long list of choices I regret when it comes to Hubert. But killing him is not among them.’"
+    },
+    {
+      "n": 21,
+      "who": "辛西娅（反击）",
+      "did": "逼近海伦娜，唇间有香草与忍冬气味；被追问「你后悔是因为你不后悔自己做的事？」时回答「我不后悔，是因为我没做」；并反问「用魔法骗人说假话就是你的本事？ hardly impressive」",
+      "lines": "239-242",
+      "verbatim": "Cynthia strode close enough for Helena to notice fine lines spanning from the corners of her eyes that rice powder couldn’t hide. Vanilla and honeysuckle toyed with her senses. … ‘I don’t regret it because I didn’t do it.’ … ‘Tricking people into saying things that aren’t true, is that your witchy power? Hardly impressive.’"
+    },
+    {
+      "n": 22,
+      "who": "海伦娜（炫技）",
+      "did": "掌心召出小型水涡，威胁「海可以替我冲走敌人」；拉奇兰叔叔喝止「住手，海伦娜」",
+      "lines": "245-251",
+      "verbatim": "Helena lifted her hand, and a swirl of water created a mini vortex over her palm. Clio might own fire, but Helena could call the power of the ocean … ‘Stand down, Helena.’ Uncle Lachlan’s growl pulled her back from the swirling depths."
+    },
+    {
+      "n": 23,
+      "who": "辛西娅（退场）",
+      "did": "说想回自己房间休息、承认自己只是「练出来的勇敢面孔」，今天已超出她的能力；托马斯挡在海伦娜与妹妹之间",
+      "lines": "260-263",
+      "verbatim": "‘I think I would like to retire to my room. Despite what you believe, Miss Blair, I am not nearly as steady as I may seem. Just practised at putting on a brave face. But today has exceeded my skills. I find myself in need of rest.’ ‘Of course.’ Thomas stepped between Helena and his sister."
+    },
+    {
+      "n": 24,
+      "who": "拉奇兰叔叔与托马斯",
+      "did": "叔叔定下「明天要和她谈」；托马斯请求「不能给她几天吗，她已经历尽苦难」；叔叔答「拖延就会有人问话，而且如果她是无辜的，越早洗清她的嫌疑越好」",
+      "lines": "266-272",
+      "verbatim": "‘We will need to speak with you tomorrow, Lady Burrows.’ Uncle Lachlan said the words like an apology. … ‘Can’t you give her a few days, Lachlan? She’s been through hell.’ … ‘You know there will be questions if we delay. And if she is innocent, then the sooner we can clear her name, the sooner we can move on to whoever did this.’"
+    },
+    {
+      "n": 25,
+      "who": "托马斯",
+      "did": "对叔叔放话「她是无辜的！谁再说不是我就拆了谁，包括你」；Clio 拉住他说「没人在指控辛西娅」；托马斯拒绝看妻子",
+      "lines": "275-284",
+      "verbatim": "‘She is innocent! I will take apart anyone who says differently. Including you.’ … ‘Thomas.’ Clio joined him, putting a hand on his arm. ‘No one is accusing Cynthia of anything.’ ‘It doesn’t sound like that to me.’ Thomas refused to look at his wife, his gaze burning into Uncle Lachlan’s."
+    },
+    {
+      "n": 26,
+      "who": "拉奇兰叔叔（苏格兰方言）",
+      "did": "说自己「没在指控她，但没证据不能宣称她清白」，并提醒即使洗清嫌疑、社交圈的朋友也永远不会接纳她",
+      "lines": "287",
+      "verbatim": "‘I’m not accusin’ her. But I canna’ claim her innocence withou’ proof. We need to make sure there is no doubt, Thomas. Or even if we do clear her name, her friends in society will never let her back. Can’t you see, lad? I’m tryin’ to help.’"
+    },
+    {
+      "n": 27,
+      "who": "辛西娅与托马斯",
+      "did": "辛西娅主动表示不怕单独见警司、且不愿哥哥在场以免被说成干预；托马斯让步但要求「除非我在场，否则你别跟她谈」",
+      "lines": "290-293",
+      "verbatim": "‘Fine. But you won’t speak with her unless I’m present.’ … ‘I’m not afraid to meet with Superintendent Lachlan alone, Thomas. He’s right. We don’t want people thinking there was any interference from you when my innocence is established.’"
+    },
+    {
+      "n": 28,
+      "who": "海伦娜（施法失败）",
+      "did": "再次尝试钻进辛西娅脑中，遭遇「一记力量的猛击」；判定有某种东西在压制她的能力，这比辛西娅是凶手更令人担忧",
+      "lines": "296-314",
+      "verbatim": "Helena hid her gaze and tried again to push into Cynthia’s mind. This time, her efforts were met with a sharp smack of power. … Something about Cynthia muted Helena’s abilities, and that was even more concerning than the possibility of her murdering Hubert."
+    },
+    {
+      "n": 29,
+      "who": "海伦娜（盘算）",
+      "did": "原打算把自己读不到辛西娅心思的事告诉拉奇兰叔叔——那样邀请就会被取消，也不用再见到辛西娅；但她「非常想见她」；决定先去找罗恩姨妈想办法",
+      "lines": "317-332",
+      "verbatim": "I need to speak with Aunt Rowan. She will be able to help me remedy the situation. … She was never so aggressive or rude, but Cynthia seemed to pick at her control. … And for reasons she didn’t wish to examine, she very much wanted to see her. So, she would talk to Aunt Rowan and find a solution before tomorrow. … ‘Of course, Uncle. When am I ever badly behaved.’"
+    },
+    {
+      "n": 30,
+      "who": "辛西娅（章末）",
+      "did": "发出一声嗤笑，这让海伦娜不必读心也知道她在想什么",
+      "lines": "335",
+      "verbatim": "Cynthia’s snort of derision made reading her thoughts unnecessary. Not that Helena noticed. Or cared."
+    }
+  ],
+  "relationships_noted": [
+    "海伦娜 ↔ Clio：表姐妹＋巫团成员（:77「their abilities to anyone who wasn't coven or kin」、:116「她表姐」）",
+    "海伦娜 ↔ Ellie：巫团成员（:89、:149「Ellie, Helena, Aunt Rowan, and I」）",
+    "海伦娜 ↔ 罗恩姨妈：姑/姨婆辈，巫团成员（:89、:317）",
+    "Clio ↔ 托马斯：夫妻（:191「Lieutenant General Grey dropped his gaze」；:155 托马斯说「我更爱她」）",
+    "托马斯 ↔ 辛西娅：兄妹（:152「她哥哥」、:188 辛西娅说「为你担保」）",
+    "托马斯 ↔ 拉奇兰叔叔：多年好友（:275「Including you」、:290）",
+    "辛西娅 ↔ Clio：由朋友升为义姐妹（:134「你现在是我姐姐了」）",
+    "辛西娅 ↔ 休伯特：夫妻（已死）",
+    "海伦娜 ↔ 辛西娅：互不信任、彼此敌意（:110、:122、:227）",
+    "海伦娜 ↔ 哈姆雷特：魔宠（:77、:215、:245）"
+  ],
+  "numbers_verbatim": [
+    "a few days（托马斯请求给辛西娅几天时间，L269）",
+    "months ago（发现 Clio 魔力的时间距今，L167）",
+    "a long list of choices I regret（辛西娅后悔清单，L230）",
+    "the entire beau monde（整个上流社会，L188）"
+  ],
+  "unresolved_in_source": [
+    "辛西娅屏蔽海伦娜读心的原因——本章未解答（只排除「勇怯」，未指认施法者）",
+    "「什么在压制海伦娜的能力」——本章只提疑问（L314），未解释",
+    "托马斯过去「名誉扫地」的具体事由——本章只提未述（:188）",
+    "海伦娜当年「犯过的致命错误」指何时何事——本章未述（:77）",
+    "拉奇兰叔叔与辛西娅约定的「明天」是哪一天——本章只写「tomorrow」「the morrow」"
+  ]
+}

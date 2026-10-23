@@ -1,0 +1,133 @@
+{
+  "chapter": "ch02",
+  "slug": "the-hexing-miss-helena-by-darcy-mcguire",
+  "source": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch02_chapter_2.txt",
+  "source_lines": 270,
+  "read_discipline": "先素读：仅读 text/ch02_chapter_2.txt；写完本文件后才打开 ch02 md。⚠️ 本轮 R0 已先做过全书级 grep 交叉（年龄／相对章号），故非完全盲态，但本章 md 与总览未在写本文件前打开",
+  "sampling_reason": "深审全章（非抽样）。章型：新角色登场章／Clio 视角铺垫",
+  "line_ref_convention": "行号为 text/ch02_chapter_2.txt 的 1 基行号；引文逐字抄录",
+  "events": [
+    {
+      "n": 1,
+      "who": "海伦娜·布莱尔（Helena Blair）",
+      "did": "在休伯特·布尔洛斯侯爵（Marquess of Kentmore）的书房里，看着堂姐妹 Clio 蹲下触碰死者外套边缘，探问死者灵魂是否留存",
+      "lines": "35, 47",
+      "verbatim": "Helena Blair looked from the very dead Marquess of Kentmore to her cousin, Clio. … ‘Does his spirit remain?’ Helena watched carefully as Clio Blair crouched in a daring leather corset and bright-green silk skirt to touch the edge of Lord Burrows’ jacket."
+    },
+    {
+      "n": 2,
+      "who": "克莱奥·布莱尔（Clio Blair）＋她的魔宠 Sir Robin（乌鸦）",
+      "did": "回答「他的灵魂没有留下，我什么都没感觉到」——|Clio 是能与亡灵对话并看见其记忆的火巫（firewitch）",
+      "lines": "74, 83",
+      "verbatim": "Sir Robin rubbed his sleek head against Clio’s cheek. ‘I don’t think his spirit remains. I feel… nothing.’ … Clio was a firewitch who could speak with ghosts and see their memories."
+    },
+    {
+      "n": 3,
+      "who": "海伦娜",
+      "did": "因 Clio 娶了人、自己失去一个女巫团姐妹兼密友而失落；她评价 Grey「相当不错」，这点让她更恼火",
+      "lines": "62-68",
+      "verbatim": "Clio would say she won as sparks scattered from her fingers and fire blazed in her amber eyes any time she mentioned her new husband, Lieutenant General Grey. … Helena would say she lost. … Grey was a rather decent fellow who obviously loved her cousin beyond all measure. Which was unaccountably annoying."
+    },
+    {
+      "n": 4,
+      "who": "海伦娜",
+      "did": "在姑妈罗温的药剂铺「All Things Bright and Beautiful」帮柜台、Clio 在地下室的分工；两人只在店里清闲时聊天；她觉得像过了至少两周没见 Clio，其实只隔了两天",
+      "lines": "50-53",
+      "verbatim": "It felt like Helena hadn’t seen her in at least a fortnight, though it had only been two days since they worked together at their aunt’s apothecary shop – All Things Bright and Beautiful."
+    },
+    {
+      "n": 5,
+      "who": "海伦娜",
+      "did": "作为水巫（waterwitch），读心能力系于「河海相连、云地相连、思与行相连」的导电能量；读心是重责也是机会",
+      "lines": "110",
+      "verbatim": "As a waterwitch, Helena’s powers were inherently tied to the conductive energy linking rivers to seas, clouds to the land, and thought to action. Reading minds was a heavy responsibility, but also a thrilling opportunity to discover the truth."
+    },
+    {
+      "n": 6,
+      "who": "海伦娜",
+      "did": "列出辛西娅不可碰的四条理由：刚结婚（或到几小时前才守寡）、与她有姻亲关系、是规矩淑女、且是丈夫命案嫌疑人",
+      "lines": "140-149",
+      "verbatim": "First, she was married – or at least, had been married until a few hours ago. Second, she was related to Helena – by marriage, but nonetheless. Third, she was a proper lady … Fourth, she was a suspect in her husband’s murder – which should probably rank first on Helena’s list."
+    },
+    {
+      "n": 7,
+      "who": "海伦娜",
+      "did": "指母亲薇洛·布莱尔（Willow Blair）是她三个姐妹中最漂亮也最凶恶的一个——她知道美人同样能做出可怕之事",
+      "lines": "155",
+      "verbatim": "Beautiful women were just as capable of horrendous deeds as anyone else. A fact Helena knew well thanks to her mother. Willow Blair had been the prettiest of her three sisters, and the most monstrous."
+    },
+    {
+      "n": 8,
+      "who": "海伦娜（对堂妹）",
+      "did": "拒绝承诺包庇有罪者：「她不是我的嫂子，也不是我的朋友；她若有罪我不会保护她」",
+      "lines": "164",
+      "verbatim": "‘She isn’t my sister-in-law. Nor is she my friend. I won’t protect her if she is guilty, Clio.’"
+    },
+    {
+      "n": 9,
+      "who": "拉克兰舅舅（Uncle Lachlan）转述的现场事实",
+      "did": "四条事实：① 布尔洛斯死前夜与清晨都未待客；② 他习惯早起在书房工作到近中午才叫咖啡；③ 当早无人应召，是管家被辛西娅的尖叫引来；④ 几名女仆在尸体被发现前不到半小时听见辛西娅对管家说「我要杀了那个男人！」",
+      "lines": "194-206",
+      "verbatim": "Uncle Lachlan had briefed Clio and Helena the moment they arrived. … Fact one: Lord Burrows had entertained no guests the night before or the morning of his death. Fact two: it was his habit to rise early and work in his office until mid-morning when he rang for coffee. Fact three: instead of being summoned by Lord Burrows that morning, the butler arrived to the frantic screams of Lady Burrows. Fact four: several maids heard Lady Burrows speaking with the housekeeper not half an hour before Lord Burrows was found dead. The phrase, ‘I’m going to kill that man!’ was distinctly heard."
+    },
+    {
+      "n": 10,
+      "who": "Clio（想法，被海伦娜听到）",
+      "did": "说自己相信辛西娅无罪、担心案件牵扯家人",
+      "lines": "89-95",
+      "verbatim": "‘I’m sorry, Clio. I know you hoped he might be able to help us identify the killer.’ And definitively prove Lady Burrows’ innocence. … Stealing away my family is one thing; killing her husband is quite another."
+    },
+    {
+      "n": 11,
+      "who": "Sir Robin（乌鸦）",
+      "did": "在书桌后面发现一枚血迹斑斑的挂坠（红宝石中央缠着金蛇），叼给 Clio；Clio 骂了一声「Blast」",
+      "lines": "239-254",
+      "verbatim": "Something glittered in his beak. Clio held out her hand. … A locket, rubies glinting in the centre with a golden snake wrapped around it, was marred by a crusted splattering of blood. The jewellery was far too expensive to belong to anyone but the lady of the house. ‘Blast,’ Clio muttered."
+    },
+    {
+      "n": 12,
+      "who": "海伦娜／Clio",
+      "did": "海伦娜说「事实似乎正把矛头指向布尔洛斯夫人」；Clio 反驳「我们不知道这是她的，她丈夫出了名的不忠，也许属于某个情妇」",
+      "lines": "257-266",
+      "verbatim": "Helena raised a copper brow at her cousin. ‘It would seem the facts are leading us to Lady Burrows.’ … ‘We don’t know this is hers. Her husband was notoriously unfaithful. Perhaps this belongs to one of his paramours.’"
+    },
+    {
+      "n": 13,
+      "who": "海伦娜",
+      "did": "带路去见布尔洛斯夫人，狐狸哈姆雷特紧跟其后",
+      "lines": "269",
+      "verbatim": "Turning, Helena led the way to Lady Burrows’ front parlour, her fox faithfully slinking along at her heel."
+    },
+    {
+      "n": 14,
+      "who": "Clio、Ellie、海伦娜",
+      "did": "三人都由姑妈罗温带大；Clio 与 Ellie 是亲姐妹，但她们待海伦娜如亲妹妹，三人是一股强力忠诚的三股辫",
+      "lines": "212-215",
+      "verbatim": "Clio, Ellie, and Helena had all been raised together by their Aunt Rowan. While Clio and Ellie were true sisters, they treated Helena like another sibling. … But they were also a powerful and loyal braid of three."
+    }
+  ],
+  "relationships_noted": [
+    "海伦娜 ↔ Clio：堂姐妹（cousin）；Clio 已嫁 Lieutenant General Grey（灵魂伴侣 spirit match）",
+    "Clio ↔ Ellie：亲姐妹（true sisters）",
+    "Clio ↔ 辛西娅：Clio 称辛西娅为嫂子（sister-in-law）——因 Clio 嫁的是辛西娅的哥哥 Thomas（ch01:191 佐证）",
+    "海伦娜 ↔ 辛西娅：姻亲（by marriage），海伦娜是「嫌疑人」一侧的读心者",
+    "三人 ↔ 罗温姑妈：由姑妈带大；姑妈经营药剂铺 All Things Bright and Beautiful",
+    "三人 ↔ 拉克兰舅舅（Uncle Lachlan / MacDougal）：他奉命调她们来查案（ch02:107、:194）",
+    "海伦娜 ↔ 薇洛·布莱尔：母女；薇洛是她三个姐妹中最美也最凶的一个",
+    "海伦娜 ↔ 哈姆雷特（Hamlet）：魔宠，铜色尾巴的狐狸；Clio ↔ Sir Robin：魔宠，乌鸦"
+  ],
+  "numbers_verbatim": [
+    "a fortnight / only been two days（她以为两周未见其实两天，L50）",
+    "three sisters（薇洛是三个姐妹之一，L155）",
+    "a braid of three（三股辫，L212-215）",
+    "four facts（事实一至四，L197-206）",
+    "not half an hour before（女仆听见「我要杀了那个男人」的时刻，L206）",
+    "until mid-morning when he rang for coffee（休伯特的作息，L200）"
+  ],
+  "unresolved_in_source": [
+    "辛西娅与海伦娜的姻亲到底怎么来的（本章只说 by marriage，未点名经谁）",
+    "海伦娜为何怕读辛西娅的心（本章只说 for reasons unknown）",
+    "挂坠上血迹与红宝石金蛇的含义未交代",
+    "第一章「他究竟为何死」本章仍未定"
+  ]
+}

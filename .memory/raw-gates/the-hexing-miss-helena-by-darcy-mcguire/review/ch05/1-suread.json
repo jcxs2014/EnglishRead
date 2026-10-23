@@ -1,0 +1,347 @@
+{
+  "chapter": "ch05",
+  "slug": "the-hexing-miss-helena-by-darcy-mcguire",
+  "source": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch05_chapter_5.txt",
+  "source_lines": 183,
+  "read_discipline": "先素读：仅读 text/ch05_chapter_5.txt（全文 183 行），未打开 ch05 md、未看该章词表与导航",
+  "sampling_reason": "深审 R0–R5 全章（批 2／27）",
+  "line_ref_convention": "行号为 text/ch05_chapter_5.txt 的 1 基行号；引文逐字抄录",
+  "pov": "辛西娅·伯罗斯（Cynthia Burrows）第三人称限知",
+  "events": [
+    {
+      "n": 1,
+      "who": "警察（bobbies）与希金斯太太",
+      "did": "警察搜过辛西娅的套房，尽量不弄乱她的物品；希金斯太太怒气冲冲地在她房间里收拾复位。原本该是莉莉替辛西娅上床安寝，但侍女被解雇、其余仆役因休伯特之死乱作一团，希金斯太太勉力维持家务运转",
+      "lines": "35",
+      "verbatim": "The bobbies had done their best to search Cynthia’s suite without disrupting her belongings, but Mrs Higgins bustled about her room in high dudgeon, setting things to right. Usually, Lily would be putting her to bed, but with the lady’s maid sacked and the rest of the staff in disarray from Hubert’s death, Mrs Higgins was doing her best to keep the household running smoothly."
+    },
+    {
+      "n": 2,
+      "who": "希金斯太太",
+      "did": "抱怨「那些无赖不尊重女士隐私」，把毯子拉紧在辛西娅的羽绒床垫上；问他们以为在床垫下能翻出什么；说这一群里没一点脑子",
+      "lines": "38",
+      "verbatim": "‘Those ruffians have no respect for a lady’s privacy, make no mistake of that,’ she fumed, tugging the blanket tight across Cynthia’s feather-stuffed mattress. ‘What were they thinking they’d find under your mattress? I tell you. There’s not an ounce of sense among the lot of them.’"
+    },
+    {
+      "n": 3,
+      "who": "辛西娅",
+      "did": "回「他们只是在做他们的工作，肯定得把所有东西都翻一遍，以确保没有能让我入罪的证据」",
+      "lines": "41",
+      "verbatim": "‘They were merely doing their job. I’m sure they had to look through everything to ensure there was no evidence to incriminate me.’"
+    },
+    {
+      "n": 4,
+      "who": "希金斯太太与辛西娅（视角）",
+      "did": "希金斯太太说「你怎么可能做这种事」，摇头、紧发髻松开；她的目光落到壁炉架上几只姿态滑稽的西班牙猎犬摆件——它们从没让辛西娅失望过，唯独今夜她的心被彻底绞干",
+      "lines": "44",
+      "verbatim": "‘As if you could ever do such a thing.’ Mrs Higgins shook her head, her tight bun loosening. Her gaze fell on the mantle where several figurines of charming spaniels in silly poses sat. They never failed to make Cynthia smile. Except for this night, when her soul felt completely wrung out."
+    },
+    {
+      "n": 5,
+      "who": "希金斯太太（叙述者评述）",
+      "did": "走向猎犬摆件，逐个取下、用围裙擦尘、再仔细放回原位；叙述者点出她「是个用动作与忙碌处理痛苦的女人」，辛西娅钦佩这一点，尽管她带着无尽的絮叨",
+      "lines": "47",
+      "verbatim": "Mrs Higgins strode to the puppies, taking each figurine off the shelf one at a time, dusting it with her apron, and then returning it carefully to its rightful place. She was a woman who handled distress with movement and productivity. Something Cynthia could admire as she seemed to handle it with endless fretting."
+    },
+    {
+      "n": 6,
+      "who": "希金斯太太",
+      "did": "说要「跑到苏格兰场去告诉那个蠢警长，说你更可能飞上月球而不是杀人」",
+      "lines": "50",
+      "verbatim": "‘I have a right mind to march down to Scotland Yard and tell that idiot superintendent that you are more likely to fly to the moon than murder anyone.’"
+    },
+    {
+      "n": 7,
+      "who": "辛西娅",
+      "did": "请她别担心，说他们会找到真凶、然后就能恢复正常——但叙述者补一句：Clio 的揭露已让「正常」成为辛西娅的过去",
+      "lines": "53",
+      "verbatim": "‘Please, don’t worry. I’m sure they’ll discover the true killer, and then we can get back to normal.’ Though, Clio’s revelations ensured normal was a thing of the past for Cynthia."
+    },
+    {
+      "n": 8,
+      "who": "Clio 与托马斯",
+      "did": "在海伦娜·布莱尔与麦克杜格尔警司离开后，坚持整个下午留在辛西娅身边",
+      "lines": "56",
+      "verbatim": "After the infuriating Miss Helena Blair and Superintendent MacDougal had taken their leave, Clio and Thomas insisted on staying with her for the remainder of the afternoon."
+    },
+    {
+      "n": 9,
+      "who": "Clio",
+      "did": "为一开始没有对辛西娅诚实而道歉，然后解释她的魔法究竟如何运作；坦白令辛西娅难以承受，但想到两人之间再没有秘密，她感到一丝宽慰",
+      "lines": "59",
+      "verbatim": "Clio apologised for not being honest with Cynthia from the start, then explained exactly how her magic worked. Her confessions were overwhelming, but Cynthia felt a measure of comfort knowing there were no longer any secrets between them."
+    },
+    {
+      "n": 10,
+      "who": "辛西娅",
+      "did": "脑中仍在眩晕，想象 Clio 与鬼魂说话；这完全不得体，但她必须开始接受自己关于人生的一切认知都不再为真",
+      "lines": "62",
+      "verbatim": "Cynthia’s head still spun as she imagined Clio speaking to ghosts. It was completely untoward, and yet, she needed to start accepting that nothing she thought about life was true any more."
+    },
+    {
+      "n": 11,
+      "who": "辛西娅",
+      "did": "无法掩饰希望休伯特的灵魂仍逗留、自己能在他真正离去前与他说最后一次话；有想问的事、有要说的事",
+      "lines": "65",
+      "verbatim": "She wasn’t able to hide her hope that Hubert’s spirit might still remain. That she might have an opportunity to speak with him one last time before he was truly gone. There were questions she wanted to ask and things she needed to say."
+    },
+    {
+      "n": 12,
+      "who": "Clio",
+      "did": "浇灭这份希望：休伯特的灵魂没有逗留，辛西娅永远无法对他说出心里话",
+      "lines": "68",
+      "verbatim": "But Clio carefully doused that hope. Hubert’s spirit did not linger, and she would never get to speak her mind to him."
+    },
+    {
+      "n": 13,
+      "who": "辛西娅",
+      "did": "又怒又不意外：他在世时回避满足她的愿望，死后为何会变；却出乎意料地失望——他有该听的抱怨、有该受痛苦补偿的账，他却连这份尊严都不给",
+      "lines": "71",
+      "verbatim": "Cynthia was both angry and unsurprised. The man avoided any attempt to fulfil her desires in life. Why would that change with his death? Yet she was unaccountably disappointed. There were grievances he deserved to hear. Pain he had caused that demanded some kind of recompense. But he wouldn’t even grant her that dignity."
+    },
+    {
+      "n": 14,
+      "who": "辛西娅",
+      "did": "称他是懦夫，永远没机会当面质问——因为她找到自己的勇气太迟；愤怒叠在震惊之上、压倒悲伤；恨这个不忠的混蛋竟先把自己弄死，让她来不及证明自己其实比果冻奶油挞更有骨气",
+      "lines": "74",
+      "verbatim": "The coward of a man was gone. She would never get the satisfaction of confronting him. Because she had found her own courage too late. Rage layered over her shock and vastly dominated her grief. How dare the unfaithful bastard get himself murdered before she could show him that she did, in fact, have more backbone than a jelly cream tart? Even in death, he disregarded her."
+    },
+    {
+      "n": 15,
+      "who": "希金斯太太",
+      "did": "说「我想不出谁会想杀伯罗斯勋爵」，同时回到擦拭壁炉架",
+      "lines": "77",
+      "verbatim": "‘I can’t imagine who would want to kill Lord Burrows.’ Mrs Higgins went back to dusting the mantle."
+    },
+    {
+      "n": 16,
+      "who": "辛西娅（内心）",
+      "did": "想「第一个就是我」；难怪警长怀疑我；若我有自尊，几年前就该杀了他",
+      "lines": "80",
+      "verbatim": "Me, for starters. No wonder the superintendent suspects me. If I had any self-respect, I would have killed him years ago."
+    },
+    {
+      "n": 17,
+      "who": "辛西娅（对希金斯太太）",
+      "did": "点破：你做了我们十年女管家，我知道楼下仆役在传话；她猜他们一定讲过丈夫常去的赌局；她不信洗衣女工没用过她的「蜂蜜加杜松子酒」擦掉休伯特衬衫上的胭脂；他绝不会在这宅子里接待低于勋爵的人，但一定留着更可疑的来往，必定树敌，而那些敌人不会回避暴力",
+      "lines": "83",
+      "verbatim": "Cynthia raised a knowing brow. ‘You’ve been our housekeeper for ten years, Mrs Higgins. I know the staff talk below stairs. I’m sure the footmen have told stories of the gambling hells he frequents. And I’m not so naïve as to believe the laundress hasn’t applied her mixture of honey and gin to remove rouge from Hubert’s shirts. He would never host anyone less than a lord in this house, but I’m sure he kept more questionable company. He was bound to make a few enemies who wouldn’t shy away from violence.’"
+    },
+    {
+      "n": 18,
+      "who": "希金斯太太",
+      "did": "停下打扫、扯着围裙接缝说「我只是觉得像您这样的女士不该听我们听到的那种丑陋传闻」",
+      "lines": "86",
+      "verbatim": "Mrs Higgins stopped her cleaning and plucked at the seam of her apron. ‘I only thought a lady such as yourself shouldn’t be privy to the kind of ugly rumours we hear.’"
+    },
+    {
+      "n": 19,
+      "who": "辛西娅与希金斯太太",
+      "did": "辛西娅说「你一直举止最得体，你是这份职业的典范」；希金斯太太脸颊深红，回「我可不这么认为」",
+      "lines": "89-92",
+      "verbatim": "‘You’ve always behaved with the utmost propriety, Mrs Higgins. You’re a tribute to your profession.’ The housekeeper’s cheeks darkened to wine. ‘I hardly think that’s true.’"
+    },
+    {
+      "n": 20,
+      "who": "辛西娅",
+      "did": "说「确实是。但相信我，女士们知道的比人们以为的多，我们只是被训练成忽略那些不愉快的秘密、继续过日子。我知道丈夫不是圣徒，但我不知道谁能杀他」",
+      "lines": "95",
+      "verbatim": "‘Oh, it is. But trust me, ladies know more than most people assume. We’re just trained to ignore the unpleasant secrets and carry on. I know my husband was no saint, but I don’t know who could have killed him.’"
+    },
+    {
+      "n": 21,
+      "who": "希金斯太太",
+      "did": "抿紧薄唇成一条硬线，拿起另一只摆件用力擦，说「反正不是你，谁说不是就是该死的蠢货」；随即僵住（小狗在她手里是倒着的），并道歉",
+      "lines": "98",
+      "verbatim": "Firming her thin lips into a hard line, Mrs Higgins picked up another figurine, polishing it vigorously. ‘Well, it wasn’t you, and anyone who says differently is a damn fool.’ She froze, the puppy upside down in her hands. ‘I’m ever so sorry, your ladyship.’"
+    },
+    {
+      "n": 22,
+      "who": "辛西娅",
+      "did": "空心里回响一丝幽默：知道女管家相信她清白令人安慰，哪怕没有别人相信；并说「这比刚才说的不算什么，像这样一次骂几句粗话正合适」",
+      "lines": "101",
+      "verbatim": "A glimmer of humour echoed in her hollow heart. Despite everything, it was comforting to know the housekeeper believed in her innocence. Even if no one else did. ‘That’s nothing to what I said earlier. A few coarse words at a time like this seems appropriate.’"
+    },
+    {
+      "n": 23,
+      "who": "希金斯太太与辛西娅",
+      "did": "希金斯太太问要不要送晚餐托盘；辛西娅吃不下去，摇头先要热巧克力，随即想到狐狸，改口要白兰地",
+      "lines": "104-107",
+      "verbatim": "‘Shall I bring you a tray for supper?’ Cynthia couldn’t imagine eating. She shook her head. ‘Perhaps some hot chocolate.’ Then she thought of the fox. ‘No. Make that brandy.’"
+    },
+    {
+      "n": 24,
+      "who": "希金斯太太",
+      "did": "朝辛西娅眨了眨眼，把摆件放回她找到时的确切位置（现在更亮），转身去把活干完",
+      "lines": "110",
+      "verbatim": "Mrs Higgins winked before carefully placing the figurine in the exact same position she found it, now much shinier. She turned and hurried to complete her task."
+    },
+    {
+      "n": 25,
+      "who": "辛西娅（内心）",
+      "did": "想喝白兰地有什么不可以，休伯特不在、没人再来审核她的要求；作为被怀疑谋杀的寡妇，每晚喝一小杯白兰地也难再损害已经破烂的名声；即便洗清嫌疑，她在社交界的地位也永远无法从这一击中恢复",
+      "lines": "113",
+      "verbatim": "Why shouldn’t Cynthia have brandy if she wished it? Hubert wasn’t there to censor her requests. As a widow suspected of murder, drinking a snifter of brandy every evening would hardly damage a reputation already in tatters. Even when her innocence was established, her position in society would never recover from this blow."
+    },
+    {
+      "n": 26,
+      "who": "辛西娅（内心）",
+      "did": "判断休伯特的死讯很可能已在整个上流社会流传，他们很快就会知道她是嫌疑人；尽管麦克杜格尔警司想尽快推进，她挽回名声的机会和让休伯特起死回生一样渺茫",
+      "lines": "116",
+      "verbatim": "News of Hubert’s death was already likely to be circulating throughout the beau monde. It wouldn’t take long for them to learn she was a suspect. Despite Superintendent MacDougal’s desire to move swiftly, there was as much chance of salvaging her stalwart reputation as there was of calling Hubert back from the dead."
+    },
+    {
+      "n": 27,
+      "who": "辛西娅",
+      "did": "说「至少我不用再喝那该死的一杯茶了」；瘫回软椅；混乱中她没时间想那晚起居室里那个不属于任何在场者的声音，现在认定「是那只狐狸。我知道。哈姆雷特。狐狸叫这名字真荒唐」，但相信自己能听见狐狸的念头更荒唐；「谁会养一只宠物狐狸？大概是个女巫」——纯属胡言，可她见过火在嫂子掌心窜起、所有灯亮起而她无法归因于煤气线；也许听见狐狸还不算太荒唐；随后是海伦娜手中的漩涡，水色与她眼睛一样银灰，那双眼睛令她着迷",
+      "lines": "119",
+      "verbatim": "‘Well, at least I don’t have to drink another blasted cup of tea ever again.’ Cynthia fell back onto her stuffed chair. In the chaos of the day, she hadn’t had time to think about the voice she heard in her parlour. The one not belonging to any of the people present. ‘It was the fox. I know it. Hamlet. Ridiculous name for a fox.’ Though not half as ridiculous as believing she heard a fox’s thoughts. ‘Who keeps a pet fox? A witch, I suppose.’ Which was utter lunacy. But she had seen fire flicker to life in her sister-in-law’s palm, and all the lights had glowed with a power she couldn’t attribute to the gas lines. Perhaps hearing a fox wasn’t so ridiculous in the grand scheme of outlandish things she’d seen. Then there had been the whirlpool in Helena’s hand. The water in her palm glittered the same silver grey as her eyes. Eyes Cynthia found mesmerising. Another distressing fact to ponder in a sea of troubles."
+    },
+    {
+      "n": 28,
+      "who": "辛西娅",
+      "did": "自陈年轻时有过一两次轻微的欲望悸动，但从没有过海伦娜带来的那种绵长流动的吸引；这几乎与发现身边有女巫一样令人震惊",
+      "lines": "122",
+      "verbatim": "She had felt a mild flutter of desire once or twice in her youth, but never the long, liquid pull Helena inspired. Which was nearly as shocking as discovering witches in her midst."
+    },
+    {
+      "n": 29,
+      "who": "辛西娅",
+      "did": "自陈从未被女人吸引过；虽也可说她同样没真正被男人吸引过；认为自己必定在某方面有缺陷，休伯特当然也这么想；但每次目光被海伦娜牵引时血液里的悸动不可否认，海伦娜碰她时更变成强大得多的东西，像一道需求的电流穿过她的系统",
+      "lines": "125",
+      "verbatim": "Cynthia had never been attracted to a woman before. Though she could argue that she hadn’t really been attracted to any men either. She thought she must be flawed in some way. Hubert certainly thought so. But it was impossible to deny the fizz in her blood every time her gaze was drawn to Helena. Nor how that fizz turned into a flood of something far more powerful when Helena touched her. Like a current of need pulsing through her system."
+    },
+    {
+      "n": 30,
+      "who": "辛西娅",
+      "did": "列出感情「三条刺眼的不当理由」：(1) 丈夫被谋杀当天不该觉得某人迷人；(2) 女士不该在任何一天觉得另一位女士迷人，包括丈夫被谋杀当天；(3) 女士不该觉得另一位女士迷人，尤其当那位也是女巫时",
+      "lines": "128-137",
+      "verbatim": "Her feelings were highly inappropriate for three glaring reasons. The first: a lady should not find someone attractive on the day her husband is murdered. The second: a lady should not find another lady attractive on any day, including the day her husband is murdered. The third: a lady should not find another lady attractive, especially when that lady is also a witch."
+    },
+    {
+      "n": 31,
+      "who": "辛西娅（猜测）",
+      "did": "怀疑海伦娜给她下了咒——一个让她神魂颠倒的爱情咒，能解释她对那个海妖说不清的兴趣；她每次看到海伦娜狂野的红发从试图收敛的发型里逃出来时就是这种念头；她能想象那女人唱着把辛西娅拖进冰冷海底、再也不出来的旋律；海伦娜是一团颜色，而世界已变得昏暗",
+      "lines": "140",
+      "verbatim": "Perhaps Helena put a hex on her. A love spell meant to befuddle Cynthia. That might explain the unaccountable interest she had for the siren. Which is exactly what she thought every time she saw Helena with her wild red hair escaping whatever style she used to try to contain it. It was easy to imagine the woman singing a melody that would pull Cynthia into the cold depths of the sea, never again to emerge. Helena was a riot of colour in a world that had grown quite dim."
+    },
+    {
+      "n": 32,
+      "who": "辛西娅（否认后自问）",
+      "did": "否定「荒唐！我根本不认识那女人，我只是心乱、什么都混在一起了」；随即自问为什么把丈夫死后的恐惧与焦虑混成对一个女人的着迷与欲望、什么蹩脚的寡妇；她该为被暴力谋杀的丈夫悲痛，而不是琢磨把手埋进神秘的海伦娜·布莱尔的头发里会是什么感觉",
+      "lines": "143",
+      "verbatim": "‘Ridiculous notion! I hardly know the woman. I was just overset, and things became confused.’ But why would she confuse fear and anxiety from her husband’s death as fascination and desire for another woman, of all things? What kind of shoddy widow was she? Cynthia should be grieving her violently murdered husband, not wondering how it would feel to bury her hands in the enigmatic Helena Blair’s hair."
+    },
+    {
+      "n": 33,
+      "who": "辛西娅（内心独白）",
+      "did": "声明：我已没有悲伤；我花了多年哀悼我曾对美满婚姻抱有的希望；怪不得我无法为休伯特哀悼，他从我们婚姻的第一天到最后一天一直是残酷的陌生人",
+      "lines": "146",
+      "verbatim": "I have no sorrow left. I spent years mourning the hope I once carried for a loving marriage. It is no wonder I can’t grieve for Hubert. He has been a cruel stranger to me from the first day of our marriage to the last."
+    },
+    {
+      "n": 34,
+      "who": "辛西娅（回忆）",
+      "did": "手伸进裙袋握住吊坠；那个疯狂的下午里麦克杜格尔警司从未收回那件要命的证物；她记得休伯特送她纪念品那天——他们的第二次公开约会；她知道他是要求婚、她的答应是必然，父亲指示她必须答应；他从外套口袋掏出天鹅绒盒子时她感到一阵希望；他打开吊坠，里面一边是她的小像、一边是休伯特；这是让她惊讶的感伤举动，她珍爱这份礼物，曾想爱或许能像野花一样在最不可能的地方泼洒色彩；后来婚后第二个月的一个清晨，休伯特带着另一个女人的香气和雪茄与杜松子酒的臭味回家；她扯下吊坠砸向他，他在她破碎的天真上大笑",
+      "lines": "149",
+      "verbatim": "Her hand slipped into the pocket of her gown, closing around the locket. In the madness of the afternoon, Superintendent MacDougal had never reclaimed the damning piece of evidence. She still remembered the day Hubert gave her the keepsake. It was their second public outing. She knew he meant to propose and her acceptance was a foregone conclusion. Her father had instructed her she must agree. When he pulled the velvet box from his coat pocket, Cynthia felt a moment of hope. He opened the locket and inside was a miniature portrait of her on one side, Hubert on the other. It was a sentimental gesture that surprised Cynthia. She treasured his gift and wondered if love could grow like wildflowers, splashing colour in the most unlikely places. Then Hubert came home early one morning, two months into their marriage, soaked in another woman’s scent and the stink of cigars and gin. She ripped the locket from her neck and threw it at him as he laughed at her broken innocence."
+    },
+    {
+      "n": 35,
+      "who": "辛西娅",
+      "did": "瞥向火堆，想火够不够热、能烧化那该死的东西；但即使她毁了项链，海伦娜也不会忘记找到它",
+      "lines": "152",
+      "verbatim": "Glancing at the fire, she wondered if the flames were hot enough to melt the blasted thing. But even if she destroyed the necklace, Helena wouldn’t forget finding it."
+    },
+    {
+      "n": 36,
+      "who": "辛西娅",
+      "did": "自问「天哪。我怎么可能成为休伯特谋杀案的嫌疑人？他为什么这么多年还留着我的项链？」",
+      "lines": "155",
+      "verbatim": "Dear Lord. How can I possibly be a suspect in Hubert’s murder? And why did he have my necklace after all this time?"
+    },
+    {
+      "n": 37,
+      "who": "辛西娅",
+      "did": "喝着希金斯太太送来的白兰地没找到答案；酒液的舒服灼烧感驱散了腹中那团冰冷的恐惧",
+      "lines": "158",
+      "verbatim": "She found no answers as she sipped the brandy Mrs Higgins brought. But the pleasant burn of the liquor warmed the cold ball of fear sitting in her belly."
+    },
+    {
+      "n": 38,
+      "who": "辛西娅",
+      "did": "自陈也许并不想念丈夫、也不会为他的死落泪，但她从未希望他遭暴行，也绝不想被判定谋杀他",
+      "lines": "161",
+      "verbatim": "She might not miss her husband, nor would she shed a tear over his death, but she had never wished violence upon him. And she certainly didn’t want to be found guilty of his murder."
+    },
+    {
+      "n": 39,
+      "who": "辛西娅",
+      "did": "看着火光影子在地板上戏耍，傍晚转入深夜；思绪不可遏制地转回海伦娜·布莱尔——那女人是个谜：燃烧般的落日红发、时而闪银的幽深灰眼、上唇比下唇略厚；她在前厅看她时，辛西娅确信那女人看见了她灵魂的深处",
+      "lines": "164",
+      "verbatim": "Cynthia watched the shadows of firelight play on the floor as early evening shifted into late night. Inextricably, her thoughts circled back to Helena Blair. The woman was an enigma. Blazing sunset hair. Haunting grey eyes that sometimes glinted silver. A top lip slightly fuller than the bottom. When she looked at her in the front parlour, Cynthia was certain the woman saw into the depths of Cynthia’s soul."
+    },
+    {
+      "n": 40,
+      "who": "辛西娅",
+      "did": "想「我想知道她在那里找到了什么值得的东西吗？」；她不知道；休伯特不是她生命中唯一的陌生人，她也是自己的陌生人；一直假装完美淑女，只给那个有缺陷的女人留了一间小房间",
+      "lines": "167-170",
+      "verbatim": "I wonder if she found anything worthy there. Cynthia hadn’t a clue. Hubert wasn’t the only stranger in her life. She was a stranger to herself. Always pretending to be the perfect lady had left her little room to discover the flawed woman beneath her exquisitely tailored gowns and pleasant smiles."
+    },
+    {
+      "n": 41,
+      "who": "辛西娅（宣言）",
+      "did": "宣告「不再。如果社会要把她从他们强加的高台上拉下来，她就要痛痛快快地享受这次跌落；她不是父母养大的完美淑女，也不是休伯特娶的无辜新娘」",
+      "lines": "173",
+      "verbatim": "‘Not any more. If society wants to pull me from the pedestal they forced me to stand upon, then I’m going to bloody well enjoy the fall. I’m not the perfect lady my parents raised, nor am I the innocent bride Hubert married.’"
+    },
+    {
+      "n": 42,
+      "who": "辛西娅",
+      "did": "出于赌气或病态好奇打开吊坠，好奇看看自分隔婚姻开始与结束的十年里变成了什么样——随即肺里的空气全部涌出",
+      "lines": "176-179",
+      "verbatim": "Out of spite, or morbid curiosity, she flicked open the locket, curious to see how she had changed in the ten years separating the beginning and end of their marriage. All the air escaped her lungs in a rush."
+    },
+    {
+      "n": 43,
+      "who": "辛西娅",
+      "did": "骂「That bastard.」——本章末句",
+      "lines": "182",
+      "verbatim": "‘That bastard.’"
+    }
+  ],
+  "relationships_noted": [
+    "辛西娅 ↔ 希金斯太太：主仆；做了十年女管家（:83「You’ve been our housekeeper for ten years」）",
+    "辛西娅 ↔ 休伯特：夫妻（已死）；婚后第二个月他带着别的女人的香气与雪茄杜松子酒味回家（:149）",
+    "辛西娅 ↔ Clio：朋友；Clio 坦白魔法后两人之间再无秘密（:59）；Clio 是她的「嫂子」（:119「her sister-in-law’s palm」）",
+    "辛西娅 ↔ 托马斯：兄妹；托马斯与 Clio 留下陪她（:56）",
+    "辛西娅 ↔ 海伦娜：读心者与被读者；辛西娅对她产生强烈吸引（:122-143）",
+    "辛西娅 ↔ 麦克杜格尔警司：调查者与嫌疑人（:116、:149）",
+    "辛西娅 ↔ 莉莉：莉莉本该替她上床安寝（:35）；被解雇的是「the lady’s maid」，原文并未说莉莉被解雇",
+    "辛西娅 ↔ 哈姆雷特（狐狸）：她认定起居室那个声音来自这只狐狸（:119）",
+    "辛西娅 ↔ 父亲：父亲指示她必须答应休伯特的求婚（:149），父亲本章无姓名"
+  ],
+  "numbers_verbatim": [
+    "ten years（希金斯太太做女管家十年，L83）",
+    "three glaring reasons（感情不当的三条理由，L128）",
+    "second public outing（第二次公开约会，L149）",
+    "two months into their marriage（婚后第二个月，L149）",
+    "ten years separating the beginning and end of their marriage（打开吊坠时回望的十年，L176）",
+    "one snifter of brandy every evening（每晚一小杯白兰地，L113）",
+    "five figurines（壁炉架上几只西班牙猎犬摆件，原文为 several figurines，无确切数字，L44）"
+  ],
+  "unresolved_in_source": [
+    "辛西娅对海伦娜的吸引是否真为爱情咒——本章只写「也许是」（:140），未证实",
+    "休伯特为何多年后仍留着她的项链——本章只提问未答（:155）",
+    "希金斯太太为何脱口而出「反正不是你」并随即道歉——动机本章未解释（:98）",
+    "吊坠里两张小像的具体样貌——本章只写「一边是她、一边是休伯特」（:149），打开后的内容只由「肺里的空气全部涌出」与「That bastard」暗示，未写明（:176-182）",
+    "休伯特谋杀案的真凶——本章仍未指认（:95、:155）",
+    "辛西娅父亲的身份与姓名——本章未具名（:149）"
+  ],
+  "traps_noted": [
+    "L35「Usually, Lily would be putting her to bed, but with the lady’s maid sacked」——被解雇者是「侍女」，原文并未说莉莉被解雇；把两者当同一人是凭空断言",
+    "L44「several figurines of charming spaniels」——是「西班牙猎犬」摆件，不是「猎犬/狗」的泛称，也非「猎狗」",
+    "L149「Her father had instructed her she must agree」——是父亲指示她答应求婚，不是逼她结婚的对象另有其人",
+    "L182「That bastard.」——指休伯特，不是海伦娜（本章前半辛西娅对海伦娜有吸引，但这两句紧接 locket）
+  ]
+}
