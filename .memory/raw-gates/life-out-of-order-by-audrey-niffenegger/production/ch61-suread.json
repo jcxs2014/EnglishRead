@@ -1,0 +1,37 @@
+{
+ "book": "life-out-of-order-by-audrey-niffenegger",
+ "chapter": "ch61",
+ "text": "notes/books/novels/life-out-of-order-by-audrey-niffenegger/text/ch61_a_lady_in_a_burnt_garden.txt",
+ "facts": [
+  {
+   "fact": "章首标注日期为二〇六五年五月一日，阿尔芭四十岁，她落进自家后院时说不清是什么时候、起初也不知道到了哪里。",
+   "anchor": "Friday, May 1, 2065 (Alba is 40)",
+   "start": 51,
+   "end": 83
+  },
+  {
+   "fact": "她认出房子已烧毁：黄房子没了，她光着身子站在残骸旁，只见焦木、烧过的布、玻璃与金属的碎光、一只碗和一座钟。",
+   "anchor": "the house is gone, my Yellow House, it’s burned down",
+   "start": 180,
+   "end": 232
+  },
+  {
+   "fact": "奥利弗的钢琴塌在地上，琴弦全松脱、象牙琴键烧黑，外形还在却没有了琴腿；档案柜侧倒、抽屉空了，床没有床垫，书像受伤的黑鸟。",
+   "anchor": "here is Oliver’s piano, collapsed and all the wires sprung loose",
+   "start": 360,
+   "end": 424
+  },
+  {
+   "fact": "房子一路烧到塌，没有人来救；四周街区都成了废墟，只剩树桩立着，像围在坟边的送葬人。",
+   "anchor": "No one came to save the Yellow House.",
+   "start": 1183,
+   "end": 1220
+  },
+  {
+   "fact": "雨落在余烬上嘶嘶作响，她说自己从前不知道爱着黄房子，直到它没了；最后她跪进草里，等着自己消失。",
+   "anchor": "So much loss. I kneel in the grass and wait to disappear.",
+   "start": 1687,
+   "end": 1744
+  }
+ ]
+}
