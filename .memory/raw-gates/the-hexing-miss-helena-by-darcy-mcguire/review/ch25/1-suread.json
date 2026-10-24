@@ -1,0 +1,397 @@
+{
+  "book": "the-hexing-miss-helena-by-darcy-mcguire",
+  "chapter": 25,
+  "source": "text/ch25_chapter_25.txt",
+  "source_lines": 391,
+  "read_order_note": "只读 text/ch25_chapter_25.txt，未开 ch25 的 md",
+  "pov": "三场景、两次切换，全部第三人称有限视角：场景一 L35–L107 贴 Cynthia（L38「She was in the Devil’s playground now」；L41「Unsure of how to approach, she closed her eyes and focused on her centre」，全部行动经她的感知）；L108–L122 空白带换场；场景二 L123–L174 贴 Helena（L135「She was hallucinating. Why else would Cynthia be rushing across the fiendish room」；L141「A proper lady like Cynthia Burrows would never use such coarse language.」全部是她的判断）；L175–L189 空白带换场；场景三 L190–L391 回到 Cynthia（L190「Cynthia froze, unsure of what to do.」；L196「Cynthia’s spine stiffened.」；L238 单句无引号心语「How many bloody pistols does this devil have?」；L253 回忆段是她的内视角；L391「The last thing she saw before the world went black was Helena, rising on a wave.」）。L367「She’ll hang for this. She doesn’t deserve to hang for him.」是无引号的自由间接心声，归属 Cynthia。",
+  "scene_split": {
+    "scene1": "L35–L107：辛西娅在五铃街外下车，走小巷、开蓝门、放走哈姆雷特、跟着巨人穿过泳池厅，扑向最后那间桑拿房。",
+    "gap1": "L108–L122（15 行空白）",
+    "scene2": "L123–L174：海伦娜视角——辛西娅冲进来、扯断铁链、把她扶出桑拿、她自己跳进泳池。",
+    "gap2": "L175–L189（15 行空白）",
+    "scene3": "L190–L391：回到辛西娅——辛克莱现身、三个打手被举到半空、巨人拍照、回忆母亲的血咒、割指解咒、公布真凶、中枪。",
+    "defect": "L211–L214 夹着 Lokepub 推广行（『Keep one more story within reach. / You may find the next one at Lokepub.』），把 L205 与 L220 的同一场戏物理隔开，不属于正文。"
+  },
+  "events": [
+    {
+      "line": 35,
+      "fact": "辛西娅在离五铃街几条街处停下马车，步行靠近土耳其浴场，藏在阴影里，庆幸自己穿的全黑。",
+      "verbatim": "Cynthia stopped the carriage several streets away from 5 Bell Street. She approached the Turkish baths on foot, keeping to the shadows, finally thankful for her relentlessly black clothes."
+    },
+    {
+      "line": 38,
+      "fact": "前门三个大个男人看守：一人裤腰别着手枪，另两人轮流用刀掷沟里的老鼠，毫无遮掩。",
+      "verbatim": "Three large men guarded the front entrance, standing like sentinels in the flickering streetlamps. One had a pistol sticking out of his britches; the other two were taking turns throwing knives at gutter rats."
+    },
+    {
+      "line": 41,
+      "fact": "她闭眼探向体内如岩浆般的力量，风里带来佛手柑的气味——海伦娜就在近处。",
+      "verbatim": "The wind breathed over her, carrying with it the scent of bergamot. Helena was close."
+    },
+    {
+      "line": 44,
+      "fact": "夜莺的鸣唱里夹着笼中动物的呜咽。",
+      "verbatim": "The nightingale’s haunting melody echoed through cobblestone streets, and with it the distinct whimper of a caged animal."
+    },
+    {
+      "line": 47,
+      "fact": "辛西娅用心灵传话呼叫哈姆雷特。",
+      "verbatim": "Hamlet! I’m here. Where are you?"
+    },
+    {
+      "line": 53,
+      "fact": "哈姆雷特回话：浴场后面有一条巷子，他们是从一扇蓝门把它带进来的。",
+      "verbatim": "It’s about time. There’s an alley behind the baths. They brought us through a blue door."
+    },
+    {
+      "line": 59,
+      "fact": "她用魔法推开蓝门的门闩，沿走廊跟着狐狸的心声走，隔墙听见四个不同的声音，其中一个男低音震得她骨头响。",
+      "verbatim": "She found the door, and the bolt slid easily with a slight nudge of her magic. … Four distinct voices, one of them so baritone, she felt the vibrations of his terse words in her bones."
+    },
+    {
+      "line": 62,
+      "fact": "哈姆雷特说那些人是在看守它，蠢但强壮，人数多到她打不过。",
+      "verbatim": "They are guarding me. Imbeciles, but strong. There are too many for you to overpower."
+    },
+    {
+      "line": 74,
+      "fact": "哈姆雷特自称从幼崽起就被人和狗追、从未被抓住，今天也不会。",
+      "verbatim": "I’m a fox. Slobbering dogs and humans have been chasing me since I was a kit, and they haven’t caught me yet. That isn’t going to change today."
+    },
+    {
+      "line": 77,
+      "fact": "辛西娅想象笼锁的机构转动，一挑眉让锁飞开，铰链作响后混乱爆发。",
+      "verbatim": "She imagined the mechanism inside the lock twisting and clicking into alignment. With a flick of her brows, the lock flew free."
+    },
+    {
+      "line": 80,
+      "fact": "浴场布局：更衣室、淋浴、越来越热的桑拿沿一个外方环排列，房间之间互通，另有外门通向拱廊再进中央大厅——那里有月光从玻璃屋顶照着的发光水池。",
+      "verbatim": "The Turkish baths had been arranged to lead patrons through a progression of changing rooms, showers, and variously heated saunas, growing increasingly hotter as one moved from one space to the next. … a glittering pool was lit by moonlight from a glass ceiling."
+    },
+    {
+      "line": 92,
+      "fact": "最后一间桑拿独立于其他房间，外面贴砖保温，炉子经通风口把热风送进雪松木板内室；辛西娅几个月前读到过罗杰·埃文斯的这项工程，据说可达 60 摄氏度以上的纯粹干热。",
+      "verbatim": "The final sauna was separated from the rest of the rooms. Tiled on the outside to maintain utmost heat, a furnace blasted hot air through vents into the cedar-planked interior. … rumoured to be able to reach temperatures of more than 60 degrees Celsius of pure, arid heat."
+    },
+    {
+      "line": 95,
+      "fact": "这是囚禁一个水巫的完美地点。",
+      "verbatim": "It was the perfect place to imprison a waterwitch."
+    },
+    {
+      "line": 101,
+      "fact": "巨人重新出现，身边跟着一个冒汗的辛克莱；众人都被狐狸引到右边一间房里。",
+      "verbatim": "The giant re-emerged with a sweating Sinclair by his side, and the men followed the sounds of muted chaos, disappearing into a room to Cynthia’s right."
+    },
+    {
+      "line": 107,
+      "fact": "辛西娅数到三冲过空场，心里说『我来了，海伦娜』——这正是 ch24 末那声无引号的心语。",
+      "verbatim": "I’m coming, Helena."
+    },
+    {
+      "line": 123,
+      "fact": "海伦娜以为辛克莱只走了片刻；门再开时凉风带来金银花与香草的气味。",
+      "verbatim": "Helena must have passed out. It seemed Sinclair had only been gone a few moments before the door opened once more. This time, the wave of cool air brought with it honeysuckle and vanilla."
+    },
+    {
+      "line": 126,
+      "fact": "她以为自己已死，因为周围是天堂的气味。",
+      "verbatim": "Perhaps she was already dead, for scents of heaven surrounded her."
+    },
+    {
+      "line": 129,
+      "fact": "来的不是解脱而是绝望：女神连她的灵都不许留在地上；没有辛西娅的天堂只是闪亮的地狱。",
+      "verbatim": "But instead of joy, despair filled her. The goddess hadn’t even allowed her spirit to remain earthbound. Heaven was nothing but a glittering hell without Cynthia."
+    },
+    {
+      "line": 132,
+      "fact": "辛西娅喊她，问辛克莱对她做了什么。",
+      "verbatim": "‘Helena! Oh my God, what has he done?’"
+    },
+    {
+      "line": 135,
+      "fact": "海伦娜认定自己在幻觉：辛西娅红木色头发像披风、淡褐色眼睛燃着凶狠的爱、手像蝶翼拂过她的皮肤。",
+      "verbatim": "Why else would Cynthia be rushing across the fiendish room, mahogany hair streaming behind her like a cape, hazel eyes glowing with fierce and feral love, her soft hands fluttering over Helena’s skin like butterfly wings?"
+    },
+    {
+      "line": 138,
+      "fact": "辛西娅骂『那个该死的杂种』，说会为他伤害海伦娜杀了他。",
+      "verbatim": "‘That fucking bastard! I’ll kill him for hurting you.’"
+    },
+    {
+      "line": 141,
+      "fact": "海伦娜的理由：像辛西娅·伯罗斯这样的体面淑女绝不会说这种粗话。",
+      "verbatim": "Yes. Definitely hallucinating. A proper lady like Cynthia Burrows would never use such coarse language."
+    },
+    {
+      "line": 144,
+      "fact": "海伦娜让她走——若辛西娅真在此，必须在辛克莱回来前逃。",
+      "verbatim": "‘Leave,’ Helena gasped. If Cynthia really was there, she needed to escape. Immediately. Before Sinclair came back."
+    },
+    {
+      "line": 147,
+      "fact": "辛西娅回：『是的，你这个甜美、固执、不可理喻的女人。我们走。就现在。』",
+      "verbatim": "‘Yes, you sweet, stubborn, impossible woman. We’re going to leave. Right. Now.’"
+    },
+    {
+      "line": 153,
+      "fact": "金属撕裂的尖叫，连着皮带镣铐的铁链像铁雨落下；海伦娜摔在滚烫的雪松地板上。",
+      "verbatim": "She heard the screeching scream of metal ripping apart as the chains connected to her leather cuffs fell around her like iron rain. With nothing holding her upright, Helena dropped in a heap on the hot cedar floor."
+    },
+    {
+      "line": 156,
+      "fact": "辛西娅抱住她，说『我接住你了』，她身上辛西娅的气味像药膏覆盖海伦娜。",
+      "verbatim": "‘I’ve got you.’ Hands pulled her against a soft chest, and the scent of Cynthia covered her like healing balm."
+    },
+    {
+      "line": 162,
+      "fact": "辛西娅要带她去水池：她需要自己的元素。",
+      "verbatim": "‘I’m taking you to the pool. You need your element.’"
+    },
+    {
+      "line": 174,
+      "fact": "海伦娜挣脱辛西娅的手，用最后力气跃入池中，气泡亲吻皮肤，沉入深处。",
+      "verbatim": "Dragging free of Cynthia’s grip, her toes curled over the edge of the tile, and with the last of her strength, Helena flexed her legs, diving into the pool, swirling in the eddies as a million bubbles kissed her skin. She sank into the depths."
+    },
+    {
+      "line": 190,
+      "fact": "辛西娅呆住：海伦娜越沉越深，红发盘成螺旋、皮肤在暗水里发光、灰眼闪银，双臂张开，水绕她成活的漩涡。",
+      "verbatim": "Helena was slipping deeper into the pool, her red hair spiralling in the water, pulsing like copper sunlight. Her pale skin glowed in the dark water as her grey eyes flashed silver. … The water began to swirl around her, a living vortex with Helena at its heart."
+    },
+    {
+      "line": 193,
+      "fact": "辛克莱现身寒暄：『一网捉两只鸽子』。",
+      "verbatim": "‘Lady Burrows. What a surprise. It seems I ’ave caught two doves with one net.’"
+    },
+    {
+      "line": 199,
+      "fact": "辛西娅回身不退：鸽子太温顺，她不是和平之鸟。",
+      "verbatim": "‘Doves are far too gentle, Sinclair. I am no bird of peace.’ She would show him no fear."
+    },
+    {
+      "line": 205,
+      "fact": "哈姆雷特冲进来，追它的打手在湿砖上摔倒、叠成一堆，另三人绕开。",
+      "verbatim": "A piercing bark and the clattering of claws on the tile floor heralded Hamlet’s entrance. … Three other men were far enough behind the collision to alter their courses and manoeuvre around their fallen comrades."
+    },
+    {
+      "line": 220,
+      "fact": "辛西娅举手喝止，空气收紧把几个人冻在半空并抬起：一个手按枪、一个手指成爪、第三个张嘴无声尖叫。",
+      "verbatim": "‘Stop!’ The air tightened around the men, freezing them in place. One man had his hand on his gun, another’s eyes were bulging as his hands were trapped in front of him, fingers curled into claws. The third man’s mouth was open on a silent scream. Flexing her arms, they lifted several feet off the ground."
+    },
+    {
+      "line": 223,
+      "fact": "辛克莱从背后枪套里拔出手枪，说原以为她的朋友是女巫、没想到她也是，问她能不能挡住子弹。",
+      "verbatim": "‘I knew your friend was a witch, but I ’ad know idea you were one of ’em. I wonder, Lady Burrows, are you powerful enough to stop a bullet?’"
+    },
+    {
+      "line": 226,
+      "fact": "一阵闪光与镁的气味。",
+      "verbatim": "A flash of light exploded in her peripheral as the acrid stench of magnesium filled the room."
+    },
+    {
+      "line": 229,
+      "fact": "巨人正俯在架子上的相机前。",
+      "verbatim": "Cynthia flicked her gaze to her right and saw the giant huddling over a camera on a stand."
+    },
+    {
+      "line": 235,
+      "fact": "辛克莱又拔出第二把手枪。",
+      "verbatim": "Sinclair reached behind him with his free hand and pulled another pistol."
+    },
+    {
+      "line": 241,
+      "fact": "他两把枪分别对着哈姆雷特与辛西娅，说要拍下女巫行巫的证据来勒索两人，并命令再拍一张、要把那几个男人拍进去。",
+      "verbatim": "‘Of course, which bullet would you stop?’ One of his guns pointed at Hamlet, the other barrel stared her down like the black eye of a cyclops. ‘I planned on catching Miss Blair in the act, but I’m ’appy to blackmail the both of you.’ … ‘Take another picture. Make sure you get the men.’"
+    },
+    {
+      "line": 244,
+      "fact": "她的力量开始衰退，托不住那几个人，一个男人尖叫着几乎摔下。",
+      "verbatim": "Her power was faltering. She couldn’t hold the men. One of them screamed as he shifted in the air, nearly crashing to the ground."
+    },
+    {
+      "line": 250,
+      "fact": "回忆开始：母亲问她『知不知道我有多爱你』。",
+      "verbatim": "‘Darling girl, do you know how much I love you?’"
+    },
+    {
+      "line": 253,
+      "fact": "辛西娅看着母亲绿色的眼睛，看见爱背后的恐惧，认定自己太野、太固执、太不同，永远成不了父母想要的淑女。",
+      "verbatim": "Cynthia looked into her mother’s green eyes and felt the tears well. … She was too wild. Too headstrong. Too different to ever be the young lady her parents wanted."
+    },
+    {
+      "line": 256,
+      "fact": "年幼的辛西娅道歉，说自己努力做个规矩人。",
+      "verbatim": "‘I’m sorry, Mother. I’m trying to be proper. I promise.’"
+    },
+    {
+      "line": 259,
+      "fact": "母亲说不是她的错、但她能修好，只需一滴血，并要她跟着念。",
+      "verbatim": "‘It isn’t your fault. But you can fix it. I can show you how. All it takes is a single drop of blood. And you must repeat the words after me, just as I say them.’"
+    },
+    {
+      "line": 265,
+      "fact": "母亲从发间取下一根针，抵在辛西娅的拇指上。",
+      "verbatim": "Her mother took a pin from her hair and held it against Cynthia’s thumb."
+    },
+    {
+      "line": 277,
+      "fact": "血咒原话：『以这血，我缚住我的力量。永远藏起。以这血，我缚住我的力量。只有我能解开。』",
+      "verbatim": "‘“With this blood, I bind my powers. Forever hidden, they shall be. With this blood, I bind my powers. Only I can set them free.” Say the words, Cynthia. Say them and all will be well.’"
+    },
+    {
+      "line": 283,
+      "fact": "血珠升起、如红宝石旋转后散成雾，她新得的力量如梦消退。",
+      "verbatim": "The droplet of crimson rose from her finger, spinning and sparkling like a ruby until it dissipated into mist. And with it, her newfound magic faded like a dream."
+    },
+    {
+      "line": 289,
+      "fact": "辛西娅抽离回忆，意识到『只有我能解开』——她自己下的咒，只需自己的血；她从发间取针扎指，念『以这血，我解开我的力量』，地面震裂瓷砖。",
+      "verbatim": "‘Only I can set my powers free.’ She had bound her magic. So, she could release it. She only needed blood. Pulling a pin from her hair, she pressed the edge to her finger … ‘With this blood, I set my powers free.’ The ground quaked beneath her feet, cracking the tile."
+    },
+    {
+      "line": 295,
+      "fact": "她忍受皮肤被绷紧、胸口被攥住的痛，再念一次解咒。",
+      "verbatim": "Opening herself to the power flowing through her, Cynthia ignored the strain stretching her skin tight and squeezing her chest in a painful grip. ‘I set my powers free.’"
+    },
+    {
+      "line": 301,
+      "fact": "第三次完整念出：『女神，请赐我依法属于我的魔法。我解开我的力量。』雷声、雨打在玻璃屋顶。",
+      "verbatim": "‘Goddess, grant to me the magic that is mine by right. I set my powers free.’ Thunder cracked as rain crashed on the glass ceiling above them."
+    },
+    {
+      "line": 313,
+      "fact": "辛西娅把打手举得更高，宣告辛克莱要为他所做的一切付出代价。",
+      "verbatim": "Power infused her as she refocused on her captors. She raised an eyebrow and lifted them higher. ‘You will pay for what you’ve done to my woman, Damien Sinclair.’"
+    },
+    {
+      "line": 316,
+      "fact": "辛克莱放狠话：若他上绞架，她与爱人会在火刑堆上陪他烧；他手里有她行巫术的照片。",
+      "verbatim": "‘If my neck stretches, then you and your lover will burn on a pyre next to the scaffolds where I swing. I ’ave pictures of your witchcraft, Lady Burrows. I will use them.’"
+    },
+    {
+      "line": 319,
+      "fact": "辛西娅宣称『伯罗斯夫人从来不是真的』，并当面指控他杀了她丈夫。",
+      "verbatim": "‘Lady Burrows was never real. You can’t destroy her, because I already have. You killed my husband. You’ve kidnapped an innocent woman and caged my fox. Nothing you do will stop me from holding you accountable.’"
+    },
+    {
+      "line": 322,
+      "fact": "辛克莱否认杀休伯特，说本想亲手折磨这个染梅毒的杂种，但有人抢走了这份乐趣。",
+      "verbatim": "‘You still think I killed your ’usband? Fool! I didn’t kill ’ubert Burrows.’ … ‘I would ’ave savoured killing your syphilis-ridden bastard of an ’usband. But someone stole that pleasure from me.’"
+    },
+    {
+      "line": 328,
+      "fact": "他提到希金斯太太，说她迟早会撑不住。",
+      "verbatim": "‘I wondered ’ow long it would take Mrs ’iggins to crack.’"
+    },
+    {
+      "line": 337,
+      "fact": "辛克莱自述：他当晚在场，希金斯太太在李珀特（Lippert）与他之前下了手；两个想毁掉休伯特的男人，最后是一个女人更利落地办成了。",
+      "verbatim": "‘That’s right, Lady Burrows. I was there the night ’e died. Mrs ’iggins got to him before Lippert or I could – a real pity. Ironic, really. Two men intent on destroying ’im, and in the end, a woman took care of it far more efficiently.’"
+    },
+    {
+      "line": 346,
+      "fact": "动机：希金斯太太撞见休伯特正在掐另一个女佣的脖子；她有辛西娅没有的力气，在怪物再害人前毁了他。",
+      "verbatim": "‘She found your ’usband abusing another maid, ’is ’and around the girl’s neck this time. Mrs ’iggins ’ad the strength to do what you never could. To destroy a monster before ’e claimed another victim.’"
+    },
+    {
+      "line": 349,
+      "fact": "辛西娅看见那场面，确认辛克莱虽是个罪犯但没有说谎。",
+      "verbatim": "Nausea crawled up her throat. Because she could see the scene in blinding detail. Sinclair might be a criminal, but he wasn’t lying."
+    },
+    {
+      "line": 352,
+      "fact": "凶器是休伯特自己的开信刀；辛克莱说唯一该为他死负责的人是休伯特自己。",
+      "verbatim": "‘She used ’is own letter opener, but the only man responsible for ’is death is your ’usband. ’e deserved far worse than such a quick end.’"
+    },
+    {
+      "line": 355,
+      "fact": "辛西娅追问：若真是她杀的，为何第一次被麦克杜格尔警司传唤时不讲？",
+      "verbatim": "‘If she really killed him, why didn’t you tell Superintendent MacDougal the first time he brought you in for questioning?’"
+    },
+    {
+      "line": 358,
+      "fact": "辛克莱答：希金斯太太是七铃区的人，他不出卖自己人，尤其她替世界除掉了休伯特。",
+      "verbatim": "‘Mrs ’iggins is from Seven Dials. I wouldn’t betray one of my own. Especially for ridding the world of a man like ’ubert Burrows.’"
+    },
+    {
+      "line": 364,
+      "fact": "他此刻说出来，是想看她知道真相后会怎么做。",
+      "verbatim": "‘Because I want to know what you’ll do now you know the truth.’"
+    },
+    {
+      "line": 367,
+      "fact": "辛西娅的无引号心声：她会因此被绞死，而她不该为休伯特死。",
+      "verbatim": "She’ll hang for this. She doesn’t deserve to hang for him."
+    },
+    {
+      "line": 370,
+      "fact": "她原以为查出凶手会带来骄傲与正义，但为保护女孩们而罚希金斯太太不是正义。",
+      "verbatim": "Discovering Hubert’s killer was supposed to come with a swell of pride. Justice finally achieved. But punishing Mrs Higgins for protecting the girls in her care wasn’t justice."
+    },
+    {
+      "line": 373,
+      "fact": "斗志离开她，双臂垂下，被举的男人摔到地上。",
+      "verbatim": "The fight drained from her. Cynthia’s arms dropped. The men came crashing to the floor."
+    },
+    {
+      "line": 382,
+      "fact": "辛克莱眼中闪过胜利，手枪开火。",
+      "verbatim": "Sinclair’s eyes flashed in triumph as the pistol exploded."
+    },
+    {
+      "line": 385,
+      "fact": "热与剧痛在她胸口炸开，身后的池水沸腾。",
+      "verbatim": "Heat and shocking pain erupted in her chest, and the pool at her back boiled."
+    },
+    {
+      "line": 388,
+      "fact": "水升起成间歇泉。",
+      "verbatim": "Water rose in a geyser."
+    },
+    {
+      "line": 391,
+      "fact": "她昏过去前最后看见的是海伦娜随浪升起，像女神来把她带走。",
+      "verbatim": "The last thing she saw before the world went black was Helena, rising on a wave. A goddess. Her goddess. Come to take her away."
+    }
+  ],
+  "relationships_noted": [
+    "辛西娅（Cynthia，已婚称 Lady Burrows／本名 Cynthia Burrows）↔ 海伦娜（Helena Blair）：本章她称海伦娜『my woman』（L313），海伦娜称她『a proper lady like Cynthia Burrows』（L141）；ch24 末那声『I’m coming, Helena.』在本章 L107 落实为辛西娅本人。",
+    "辛西娅 ↔ 哈姆雷特：相互心灵传话（L47/L53/L62/L74）；狐狸是她的探路者与诱饵。",
+    "辛西娅 ↔ 她的母亲：L250–L283 回忆——母亲用一根发针取她一滴血、教她念缚力咒；母亲的眼睛是绿色的（L253）。",
+    "辛克莱 ↔ 希金斯太太：他说她从七铃区来、是他『自己人』，他包庇她（L358）；他称她已『crack』（L328）但她本人本章未出场。",
+    "辛克莱 ↔ 李珀特（Lippert）：另一个想毁掉休伯特的人，本章第一次出现此名（L337）。",
+    "辛克莱 ↔ 巨人（无名）：替他拍照（L229）、随他行动；本章仍未给名字。",
+    "辛西娅 ↔ 麦克杜格尔警司（Superintendent MacDougal）：她提到他曾把辛克莱带回问话（L355）。",
+    "休伯特·伯罗斯（Hubert Burrows，辛西娅亡夫）：死于开信刀，凶手＝希金斯太太；辛克莱称他染梅毒、虐待女佣（L322/L346/L352）。"
+  ],
+  "numbers_verbatim": [
+    "5 Bell Street（L35）——本章写法是阿拉伯数字『5』，ch24 作『Five Bell Street』。",
+    "三个大个守前门（L38）；蓝门后走廊里听见『Four distinct voices』（L59）。",
+    "一个巨人 + 辛克莱（L101）；哈姆雷特引来『Three other men』（L205）；被举到半空的是三个男人（L220：one…another…The third man）。",
+    "桑拿温度『more than 60 degrees Celsius』（L92）。",
+    "辛克莱身上共两把手枪（L223 拔一把＋L235 再拔一把）。",
+    "两次空白换场各 15 行（L108–L122、L175–L189）。",
+    "解咒念了三次（L289、L295、L301）。"
+  ],
+  "unresolved_in_source": [
+    "辛克莱到底想要海伦娜做什么（ch24 他说『you will give me what I seek』，本章未揭）。",
+    "李珀特（Lippert）是谁、与本案何关系，本章只出现名字一次。",
+    "照片是否真的拍成、底片后来如何处置，本章未交代。",
+    "巨人姓名、来历（ch24 提到 Benandonner 的传说，本章只写『a giant』）。",
+    "辛西娅是 Blair 家还是 Burrows 家——本章只出现已婚名 Cynthia Burrows / Lady Burrows；ch24 里 Ellie 被称 Miss Blair。",
+    "辛克莱为何恰在此时返回、是否有人报信，本章未写。",
+    "辛西娅中枪后的伤势程度，本章止于『world went black』。"
+  ],
+  "traps_noted": [
+    "L211–L214 是 Lokepub 推广行，夹在场景三中间（L205 之后、L220 之前），不是正文；任何『段末』『紧接着』的定位都不能跨过这四行。",
+    "『三个男人』有两次计数：L38 前门三个守卫（其中一人有枪）与 L220 被举起的三个男人；同一场里另有至少四个追狐狸的打手（L205『Three other men』＋摔倒的），不要合并成一个固定人数。",
+    "辛克莱自述没杀休伯特（L322），而辛西娅在 L319 仍当面指控他杀人，L349 才转为相信——前后立场在同一章内改变，不能取其中一句当全章结论。",
+    "凶器是『his own letter opener』（L352），下手者是希金斯太太；李珀特与辛克莱是当晚在场的另两个想杀休伯特的人（L337）。",
+    "解咒者与被咒者是同一人：母亲在她幼年用她的血施咒，她自己用血解咒；不是辛西娅替别人解咒。",
+    "母亲的眼睛 L253 明写 green；海伦娜的灰眼在本章 L190 写『flashed silver』；辛西娅的眼睛 L135 写 hazel。三双眼睛颜色不同，勿混。",
+    "L223 原文『I ’ad know idea』是书内拼写（疑为 no idea 误植），不是『I had no idea』；引用须照抄。",
+    "章末 L391 是辛西娅昏厥前的最后所见，海伦娜『rising on a wave』——不是海伦娜把她抱走，也不是确认获救。",
+    "全章唯一的枪声在 L382，开火者是辛克莱；中枪者是辛西娅（L385 胸口）。"
+  ]
+}

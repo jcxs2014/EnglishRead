@@ -1,322 +1,388 @@
 {
-  "chapter": "ch27",
-  "slug": "the-hexing-miss-helena-by-darcy-mcguire",
-  "source": "notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch27_chapter_27.txt",
-  "source_lines": 395,
-  "read_discipline": "先素读：仅读 text/ch27_chapter_27.txt（399 行含末尾出版方广告段），未打开 ch27 md、未看该章总览。盲点声明：ch27 的 text/ 在写作期（总览事实核查）读过，本轮按「先素读后开 md」重读固定事实，非完全盲态。",
-  "sampling_reason": "末章（必含）＋ 双线收束章（感情线收束 + 凶案线收束：Mrs Higgins 自首 / 辛西娅对警司撒谎 / 放人）",
-  "line_ref_convention": "行号为 text/ch27_chapter_27.txt 的 1 基行号；引文逐字抄录",
+  "book": "the-hexing-miss-helena-by-darcy-mcguire",
+  "chapter": 27,
+  "source": "text/ch27_chapter_27.txt",
+  "source_lines": 394,
+  "read_order_note": "重做深档：先只读 text/ch27_chapter_27.txt，未开 ch27 的 md（旧浅档底稿不再作为依据）",
+  "pov": "三场景、两次切换。场景一 L35–L137 贴 Cynthia（L35「She heard the click of the lock」——被海伦娜拥住的是辛西娅；L41「her love’s eyes were glowing」——「her love」指海伦娜）；L138–L152 空白带换场；场景二 L153–L243 贴 Helena（L171「she wished she could read Cynthia’s thoughts」；L192「Mrs Higgins’ terrified thoughts echoed in Helena’s head」；L201「Helena’s heart ached」）；L244–L258 空白带换场；场景三 L259–L364 贴 Cynthia（L259「Cynthia stared brazenly…」；L298「she realised」；L352 是辛西娅看海伦娜的侧写）。",
+  "scene_split": {
+    "scene1": "L35–L137：海伦娜房里，新誓与初夜。",
+    "gap1": "L138–L152（15 行空白）",
+    "scene2": "L153–L243：辛西娅旧宅（Kentmore House），与希金斯太太摊牌、给养老金、搬走舞会礼服。",
+    "gap2": "L244–L258（15 行空白）",
+    "scene3": "L259–L364：德文郡公爵夫人的舞会，流言、挑衅、露台共舞。",
+    "back_matter": "L384–L394 是书末推广页（『MORE FROM DARCY McGUIRE』／《The Enchanting Miss Eliza》／mybook.to 链接），不是正文。"
+  },
   "events": [
     {
-      "n": 1,
-      "who": "海伦娜／辛西娅",
-      "did": "海伦娜把辛西娅带进自己的房间，锁上门，把她拉进怀里",
-      "lines": "35",
+      "line": 35,
+      "fact": "海伦娜领辛西娅进自己的房间，锁声一响，她就把辛西娅拉进怀里。",
       "verbatim": "Helena led Cynthia into her room. She heard the click of the lock, and then Helena’s arms were around her, pulling her back into Helena’s chest."
     },
     {
-      "n": 2,
-      "who": "海伦娜",
-      "did": "告白：看到辛西娅躺在浴场的地板上、浑身是血时她的世界停住了；她能无惧死亡，却无法想象没有辛西娅的生活；「我爱你，辛西娅，我不再怕这件事了，唯一让我怕的是失去你，我一直是最大的傻瓜」",
-      "lines": "38",
+      "line": 38,
+      "fact": "海伦娜说看见辛西娅躺在浴场地板上、到处是血时世界停住了；她能无惧面对死亡，但无法活在没有她的世界里，她不再怕爱，只怕失去她，并自认是天底下最大的傻瓜。",
       "verbatim": "‘When I saw you lying on the floor of those baths, blood everywhere, my world stopped.’ … ‘I can face death without fear, but living without you is impossible. I love you, Cyn. And I’m not afraid of that any more. The only thing that scares me is losing you. I’ve been the biggest fool.’"
     },
     {
-      "n": 3,
-      "who": "辛西娅／海伦娜",
-      "did": "辛西娅转身面对她，海伦娜灰眼闪出银光；辛西娅吻她，盯着银色漫回灰色；她说「你永远不会失去我，连死亡也不能把两个命定相守的灵魂分开」",
-      "lines": "41",
-      "verbatim": "Cynthia twisted to face her. Helena’s grey eyes sparked silver, and Cynthia held her gaze as she pressed a soft kiss to Helena’s mouth. … ‘You will never lose me. Not even death can separate two souls destined to be together.’"
+      "line": 41,
+      "fact": "辛西娅回身吻她，说『你永远不会失去我。即使死亡也分不开两个注定要在一起的灵魂。』",
+      "verbatim": "‘You will never lose me. Not even death can separate two souls destined to be together.’"
     },
     {
-      "n": 4,
-      "who": "辛西娅／海伦娜",
-      "did": "海伦娜剥掉辛西娅身上借来的裙子；辛西娅转身解海伦娜的束腰系带；一层层互相剥到赤裸，晨光从窗口照进来",
-      "lines": "44",
-      "verbatim": "With nimble fingers, Helena stripped Cynthia from her borrowed dress. Desperate for skin against skin, Cynthia spun Helena to untie her corset laces. Layer by layer, they uncovered each other until both were bare, skin warmed by the morning sun streaming through their window."
+      "line": 44,
+      "fact": "两人互相解开衣物，赤裸相对，晨光从窗口照进来。",
+      "verbatim": "Layer by layer, they uncovered each other until both were bare, skin warmed by the morning sun streaming through their window."
     },
     {
-      "n": 5,
-      "who": "海伦娜／辛西娅",
-      "did": "海伦娜把手覆在辛西娅心口，指尖发颤地描过新月的月牙印记（**新的**，非旧的星形胎记）；说「我一生都靠誓言活，我要立一个新的誓言，和你一起，可以吗」；辛西娅屏住呼吸、颤抖地点头",
-      "lines": "47-50",
-      "verbatim": "Pulling Cynthia close, Helena rested her hand over Cynthia’s heart. She traced the new crescent moon with trembling fingers. ‘I have lived my life by oaths. I want to make a new oath. With you. Is that all right?’ … Cynthia held her breath, terrified of breaking the moment’s beauty. She nodded in jerky movements."
+      "line": 47,
+      "fact": "海伦娜把手覆在辛西娅心口，用颤抖的指尖描那枚新的新月形疤，说『我这一生都按誓活着。我想立一个新的誓，和你。』",
+      "verbatim": "Pulling Cynthia close, Helena rested her hand over Cynthia’s heart. She traced the new crescent moon with trembling fingers. ‘I have lived my life by oaths. I want to make a new oath. With you. Is that all right?’"
     },
     {
-      "n": 6,
-      "who": "海伦娜",
-      "did": "立誓（约）：以身体爱她、以心智寻求她、以灵魂尊重她、终其余生为她的心提供庇护",
-      "lines": "53",
-      "verbatim": "‘Cynthia, I will love you with my body. Seek you with my mind. Honour you with her spirit. And provide your heart sanctuary for the rest of my days.’"
+      "line": 53,
+      "fact": "海伦娜的誓词：以身体爱你、以心智寻你、以灵魂敬你、余生给你的心一处庇护所。",
+      "verbatim": "‘Cynthia, I will love you with my body. Seek you with my mind. Honour you with my spirit. And provide your heart sanctuary for the rest of my days.’"
     },
     {
-      "n": 7,
-      "who": "辛西娅",
-      "did": "回应誓词（几乎逐字相同，多出 “Always”）；她已记不得自己婚礼上对休伯特说过什么（“Empty words repeated in dutiful obedience”），但绝不会忘记这个承诺",
-      "lines": "56",
+      "line": 56,
+      "fact": "辛西娅已记不起当年对休伯特念的婚誓（空话、奉命重复），但这个承诺她永远不会忘；她原样回誓，末尾加『Always.』",
       "verbatim": "Cynthia couldn’t remember the vows she spoke to Hubert at their wedding. Empty words repeated in dutiful obedience. But she would never forget this promise. … ‘Helena, I will love you with my body. Seek you with my mind. Honour you with my spirit. And provide your heart sanctuary. Always.’"
     },
     {
-      "n": 8,
-      "who": "叙述者",
-      "did": "这两段誓词如咒语般振动，把两人的灵魂绑成不可破的结合",
-      "lines": "59",
+      "line": 59,
+      "fact": "这些词句如咒语在两人体内共振，把她们的灵缚成不可破的结合。",
       "verbatim": "They were holy words resonating through them, a spell vibrating with power, binding their spirits into an unbreakable union."
     },
     {
-      "n": 9,
-      "who": "海伦娜／辛西娅",
-      "did": "性事：海伦娜褪去辛西娅的衣、吻颈与肩、吸吮乳头，把她推倒在床上；辛西娅勾手指说「我也不食言」；海伦娜叫她张开腿让她品尝",
-      "lines": "62-78",
-      "verbatim": "Helena pulled her close, her lips warm and soft, her tongue seeking entrance. … ‘I did promise to love you with my body. And I don’t break my promises.’ … ‘Then spread your thighs, Cynthia. Let me taste you.’"
+      "line": 68,
+      "fact": "海伦娜说『我确实答应过以身体爱你。我不破自己的承诺。』",
+      "verbatim": "‘I did promise to love you with my body. And I don’t break my promises.’"
     },
     {
-      "n": 10,
-      "who": "叙述者／辛西娅",
-      "did": "海伦娜锁骨处有一颗星形胎记，颜色近乎覆盆子红；辛西娅注意到她眼睛里的欲念；海伦娜发现辛西娅怕痒，说「这是危险的弱点」；辛西娅说「我只好相信你会替我保密」",
-      "lines": "71-89",
-      "verbatim": "Pert and perfect breasts, tipped with raspberry nipples made Cynthia’s mouth water for a taste. The birthmark shaped like a star and placed perfectly on Helena’s sternum was almost the same colour of berry red. … ‘You’re ticklish? A dangerous weakness to show me, Cyn.’ … ‘I suppose I’ll just have to trust you to keep my secrets.’"
+      "line": 71,
+      "fact": "海伦娜胸骨上那块星形胎记几乎与浆果红同色。",
+      "verbatim": "The birthmark shaped like a star and placed perfectly on Helena’s sternum was almost the same colour of berry red."
     },
     {
-      "n": 11,
-      "who": "辛西娅／海伦娜",
-      "did": "辛西娅求更快更用力；海伦娜按住她、笑说「耐心是美德，这不是淑女们教的吗」；辛西娅答「我不是淑女」，海伦娜答「你是我的淑女，从前到后」",
-      "lines": "104-113",
-      "verbatim": "‘Hel, please, harder.’ … ‘Patience is a virtue. Isn’t that what they teach proper ladies?’ … ‘I’m no lady.’ … ‘You are my lady. Now and always.’"
+      "line": 77,
+      "fact": "辛西娅勾手指回应『我也不破承诺』。",
+      "verbatim": "Cynthia crooked her finger. ‘Neither do I.’"
     },
     {
-      "n": 12,
-      "who": "海伦娜／辛西娅",
-      "did": "海伦娜用手指进入并弯曲勾住辛西娅体内，另一手揉捏她的乳房；辛西娅在双重刺激下高潮",
-      "lines": "119-125",
-      "verbatim": "She slid a finger into Cynthia’s channel, then another, curling against her wall as Cynthia clenched tight, her body begging for more. … When she caught Cynthia’s nipple between her fingers and rolled the tight bud in tandem to her tongue flicking over her clitoris, Cynthia flew apart. … she saw the satisfied grin on Helena’s slick lips and realised they were hovering at least three feet above the bed."
+      "line": 80,
+      "fact": "海伦娜要她张开腿让她尝她。",
+      "verbatim": "‘Then spread your thighs, Cynthia. Let me taste you.’"
     },
     {
-      "n": 13,
-      "who": "辛西娅／海伦娜",
-      "did": "两人失重般落回床铺；海伦娜笑说「这确实出乎意料」；辛西娅问「我怎么会以为自己能抗拒爱上你」；辛西娅称她「Silly witch」，说「看我能不能让我们再飞一次」",
-      "lines": "128-137",
-      "verbatim": "In a weightless rush, they both fell back onto the mattress in a tangle of limbs … ‘Well, that was certainly unexpected.’ … ‘How could I ever have believed I would be able to resist falling in love with you?’ … ‘Silly witch.’ Cynthia nuzzled against her neck, drawing in bergamot and lemon balm, the scents of home to her now. ‘Let’s see if I can make us fly again.’"
+      "line": 113,
+      "fact": "海伦娜说『你是我的夫人（my lady）。现在，永远。』",
+      "verbatim": "Helena’s growl sent another wave of vibrations singing along Cynthia’s nerves. ‘You are my lady. Now and always.’"
     },
     {
-      "n": 14,
-      "who": "海伦娜／辛西娅",
-      "did": "换场：两人站在辛西娅家门前台阶上；海伦娜问「你确定要进去吗，我可以去给你拿裙子」；辛西娅说「不，我要去见 Mrs Higgins」；哈姆雷特在两裙之间叫了一声",
-      "lines": "153-159",
-      "verbatim": "Helena stood next to Cynthia on the front steps of Cynthia’s home. ‘Are you sure you want to go in? I can get your dress for you.’ … ‘No. I need to speak with Mrs Higgins.’ … Hamlet yipped, his body nearly lost between their skirts."
+      "line": 125,
+      "fact": "高潮后她抬头，看见海伦娜得意的笑，才发现两人悬在床面至少三英尺高的空中。",
+      "verbatim": "Lifting her head, she saw the satisfied grin on Helena’s slick lips and realised they were hovering at least three feet above the bed."
     },
     {
-      "n": 15,
-      "who": "辛西娅／管家",
-      "did": "管家开门 Seeing both women, 说「Lady Burrows」并请她们进厅；辛西娅说「我们只是来取我的裙子，我还要见 Mrs Higgins，请她到侯爵夫人的套房来」；管家答「当然，小姐」",
-      "lines": "162-168",
-      "verbatim": "The butler opened the door, his eyes widening at the sight of both women. ‘Lady Burrows.’ He stepped back, ushering them into the hall. … ‘Of course, my lady.’"
+      "line": 128,
+      "fact": "两人失重般摔回床垫，四肢缠在一起。",
+      "verbatim": "In a weightless rush, they both fell back onto the mattress in a tangle of limbs, Helena’s breasts crushed against Cynthia’s in delicious pressure."
     },
     {
-      "n": 16,
-      "who": "海伦娜（内心）",
-      "did": "又一次希望能读辛西娅的心；她明白那会给她不公平的优势，公平很重要，以及别的道理……但那固然很好；于是改为直接问「你在想什么」",
-      "lines": "171",
-      "verbatim": "Once more, she wished she could read Cynthia’s thoughts. She understood it might give her an unfair advantage, and balance was important, and all the other things… but it would certainly be nice. Instead, she asked, ‘What are you thinking?’"
+      "line": 134,
+      "fact": "海伦娜事后问自己当初怎么会相信能抗拒爱上她。",
+      "verbatim": "‘How could I ever have believed I would be able to resist falling in love with you?’"
     },
     {
-      "n": 17,
-      "who": "辛西娅",
-      "did": "换好裙子出来说「我在想我迫不及待要离开这栋房子，开始新的人生，和你一起」",
-      "lines": "174",
-      "verbatim": "Cynthia swept into her dressing room and emerged a moment later, struggling under the weight of her gown. ‘That I can’t wait to leave this house. And start a new life. With you.’"
+      "line": 137,
+      "fact": "辛西娅蹭她的颈侧，闻到佛手柑与柠檬香蜂草——如今是家的气味。",
+      "verbatim": "Cynthia nuzzled against her neck, drawing in bergamot and lemon balm, the scents of home to her now. ‘Let’s see if I can make us fly again.’"
     },
     {
-      "n": 18,
-      "who": "Mrs Higgins",
-      "did": "进房问「Lady Burrows，需要我帮您准备舞会礼服吗」；她从海伦娜看到辛西娅，心中喊「天哪，她知道了」，然后僵着步子走过房间",
-      "lines": "180-192",
-      "verbatim": "The door opened and Mrs Higgins entered, her hands clasped tightly in front of her. ‘Lady Burrows. Do you need help dressing for the ball?’ … Mrs Higgins looked from Helena back to Cynthia. … Dear God. She knows. … Mrs Higgins’ terrified thoughts echoed in Helena’s head as the housekeeper walked with stiff steps, freezing halfway across the room."
+      "line": 153,
+      "fact": "两人站在辛西娅家门前台阶上；海伦娜问要不要替她进去拿裙子。",
+      "verbatim": "Helena stood next to Cynthia on the front steps of Cynthia’s home. ‘Are you sure you want to go in? I can get your dress for you.’"
     },
     {
-      "n": 19,
-      "who": "Mrs Higgins",
-      "did": "自首：「夫人，您必须知道，我要去苏格兰场自首，我保证……我不该瞒着您，我不知道自己当时在想什么，我不会再让任何人为我的选择受苦，我只是不能让他再伤害另一个姑娘」",
-      "lines": "192",
-      "verbatim": "‘My lady, please. You must know. I’m going to turn myself in to Scotland Yard. I promise. I should have told you right away. I don’t know what I was thinking. I won’t let anyone else suffer for my choices. I just couldn’t let him hurt another girl.’"
+      "line": 156,
+      "fact": "辛西娅说不用，她需要和希金斯太太谈谈。",
+      "verbatim": "‘No. I need to speak with Mrs Higgins.’"
     },
     {
-      "n": 20,
-      "who": "辛西娅",
-      "did": "拉她坐下、说「你误会了，我不是来质问你的，我想感谢你，做了我做不到的事」",
-      "lines": "195-198",
-      "verbatim": "Cynthia hurried to Mrs Higgins, taking her hand and tugging her to the closest chair. … ‘You misunderstand. I didn’t call you here to confront you. I wanted to thank you. For doing what I could not.’"
+      "line": 162,
+      "fact": "管家开门，看见两位女士时眼睛睁大，称她『Lady Burrows』。",
+      "verbatim": "The butler opened the door, his eyes widening at the sight of both women. ‘Lady Burrows.’"
     },
     {
-      "n": 21,
-      "who": "辛西娅",
-      "did": "承认自己向 MacDougal 警司说休伯特是自杀；说辛克莱是个混蛋但不会出卖她；即便出卖，他的证词也抵不过她的；「你是安全的，Mrs Higgins」",
-      "lines": "207",
+      "line": 165,
+      "fact": "辛西娅说只来取裙子，并要管家让希金斯太太到侯爵夫人套房（marchioness’s suite）来见她。",
+      "verbatim": "‘We’re only here to collect my dress. And I need to speak with Mrs Higgins. Will you have her meet us in the marchioness’ suite?’"
+    },
+    {
+      "line": 171,
+      "fact": "海伦娜再次希望能读辛西娅的心思，但承认那会是不公平的优势、平衡很重要。",
+      "verbatim": "Once more, she wished she could read Cynthia’s thoughts. She understood it might give her an unfair advantage, and balance was important, and all the other things… but it would certainly be nice."
+    },
+    {
+      "line": 174,
+      "fact": "辛西娅说她在想：等不及离开这幢房子，和你开始新生活。",
+      "verbatim": "‘That I can’t wait to leave this house. And start a new life. With you.’"
+    },
+    {
+      "line": 177,
+      "fact": "海伦娜口干，身旁的花瓶开始旋转——爱总以美让她吃惊。",
+      "verbatim": "Helena’s mouth went dry as the vase next to her began to swirl. Love was constantly surprising her with its beauty."
+    },
+    {
+      "line": 180,
+      "fact": "希金斯太太进门，双手紧握在身前，问她要不要帮忙更衣赴舞会。",
+      "verbatim": "The door opened and Mrs Higgins entered, her hands clasped tightly in front of her. ‘Lady Burrows. Do you need help dressing for the ball?’"
+    },
+    {
+      "line": 183,
+      "fact": "辛西娅说她在布莱尔宅更衣，并示意炉边两把翼背椅请她坐。",
+      "verbatim": "‘No. I’m dressing at Blair House.’ She gestured to the two wingback chairs sitting near the hearth. ‘Will you sit?’"
+    },
+    {
+      "line": 192,
+      "fact": "希金斯太太恐惧的念头在海伦娜脑中回响；她走到半路僵住，说自己本要去苏格兰场自首、早该告诉夫人、不能再让别人替她的选择受苦，只是不能让他再害一个女孩。",
+      "verbatim": "Mrs Higgins’ terrified thoughts echoed in Helena’s head as the housekeeper walked with stiff steps, freezing halfway across the room. ‘My lady, please. You must know. I’m going to turn myself in to Scotland Yard. I promise. I should have told you right away. I don’t know what I was thinking. I won’t let anyone else suffer for my choices. I just couldn’t let him hurt another girl.’"
+    },
+    {
+      "line": 198,
+      "fact": "辛西娅拉住她的手说『你误会了，我不是来对质，是来谢你——谢你做了我做不到的事』。",
+      "verbatim": "‘You misunderstand. I didn’t call you here to confront you. I wanted to thank you. For doing what I could not.’"
+    },
+    {
+      "line": 207,
+      "fact": "辛西娅告诉她：已对麦克杜格尔警司说休伯特是自杀；辛克莱虽是个混蛋但不会出卖她，即使出卖，他的话也敌不过她的；她安全了。",
       "verbatim": "‘I told Superintendent MacDougal that Hubert killed himself. And Sinclair is a bastard, but he won’t betray you. If he does, his word will never stand against mine. You are safe, Mrs Higgins.’"
     },
     {
-      "n": 22,
-      "who": "Mrs Higgins",
-      "did": "说出真相：她看见他和 Polly 在一起；她没意识到自己从休伯特书桌上拿走了拆信刀；他要杀那姑娘，她喊他停下，他不停；「我不得不做点什么」",
-      "lines": "210",
+      "line": 210,
+      "fact": "希金斯太太自述当晚：看见休伯特和波莉（Polly）在一起，她没意识到自己已从书桌上拿了开信刀；他要杀那女孩，她喊他停手他不听，她只好动手。",
       "verbatim": "‘I never meant… only, when I saw him with Polly… I didn’t even realise I took the letter opener from his desk and… He was going to kill her. I screamed for him to stop, and he wouldn’t.’ She shook her head. ‘I had to do something.’"
     },
     {
-      "n": 23,
-      "who": "辛西娅",
-      "did": "「保护无辜不是罪，Mrs Higgins」；「是你自己说的，他不肯停，你救了 Polly 的命」；「**也救了我的命**——你结束休伯特性命的那一刻把我解放了，现在轮到我对你做同样的事」；哈姆雷特蹭了蹭管家夫人的腿以示支持",
-      "lines": "216-225",
-      "verbatim": "‘It isn’t a crime to protect the innocent, Mrs Higgins.’ … Hamlet brushed past Helena, leaning his body against the housekeeper’s leg in silent support. … ‘You said yourself, he wouldn’t stop. You saved Polly’s life.’ … ‘And mine. You set me free when you ended Hubert’s life, Mrs Higgins. And now, it’s my turn to do the same for you.’"
+      "line": 213,
+      "fact": "一句无引号心声（由海伦娜听见）：『我会为自己的罪在地狱里烧。』",
+      "verbatim": "I shall burn in hell for my crimes."
     },
     {
-      "n": 24,
-      "who": "辛西娅",
-      "did": "以「肯特米尔侯爵夫人的最后一个行动」给 Mrs Higgins 一笔优厚年金；说可怕的 Lady Argyle 不会欣赏她的才能；海边有座漂亮小屋、够她一生宽裕；**不再称自己 Lady Burrows**，也不再让她当管家：两人都自由了",
-      "lines": "231-237",
-      "verbatim": "‘My last act as Marchioness of Kentmore is to offer you a generous pension for all you’ve done in the service of this household. The horrid Lady Argyle could never appreciate someone of your excellence. Your talents would be wasted on her. But there is a lovely cottage near the seaside waiting for you, and a living that will keep you flush for the rest of your days if you want it.’ … ‘I’m not Lady Burrows any more. And you are no longer a housekeeper. We are both free, Mrs Higgins.’"
+      "line": 216,
+      "fact": "辛西娅答：『保护无辜者不是罪。』",
+      "verbatim": "‘It isn’t a crime to protect the innocent, Mrs Higgins.’"
     },
     {
-      "n": 25,
-      "who": "辛西娅／海伦娜",
-      "did": "花的时间比预想的多，反复安抚 Mrs Higgins 她不是在做梦；辛西娅给自己的事务律师写了信安排与 Mrs Higgins 会面敲定退休细节；三人喝了杯白兰地庆祝",
-      "lines": "240",
+      "line": 222,
+      "fact": "辛西娅说她自己讲过休伯特不会停手，希金斯太太救了波莉的命。",
+      "verbatim": "‘You said yourself, he wouldn’t stop. You saved Polly’s life.’"
+    },
+    {
+      "line": 225,
+      "fact": "辛西娅说希金斯太太杀休伯特也放了她，现在轮到她为她做同样的事。",
+      "verbatim": "‘And mine. You set me free when you ended Hubert’s life, Mrs Higgins. And now, it’s my turn to do the same for you.’"
+    },
+    {
+      "line": 231,
+      "fact": "辛西娅作为肯特米尔侯爵夫人的最后一项安排：给希金斯太太一笔丰厚养老金，并说海边有座可爱的小屋与足以让她余生宽裕的生活；顺带贬了『可恶的阿盖尔夫人』（Lady Argyle）。",
+      "verbatim": "‘My last act as Marchioness of Kentmore is to offer you a generous pension for all you’ve done in the service of this household. The horrid Lady Argyle could never appreciate someone of your excellence. … But there is a lovely cottage near the seaside waiting for you, and a living that will keep you flush for the rest of your days if you want it.’"
+    },
+    {
+      "line": 237,
+      "fact": "辛西娅说『我不再是伯罗斯夫人了。你也不再是管家。我们都自由了。』",
+      "verbatim": "‘I’m not Lady Burrows any more. And you are no longer a housekeeper. We are both free, Mrs Higgins.’"
+    },
+    {
+      "line": 240,
+      "fact": "她们花了不少时间让希金斯太太相信这不是梦；辛西娅给她的事务代理人写条子安排会面，众人喝了一杯白兰地庆祝。",
       "verbatim": "They spent rather more time than planned reassuring Mrs Higgins she wasn’t in a dream. Cynthia sent a note to her man of business to arrange a meeting with Mrs Higgins and go over the details of her retirement, and they all had a snifter of brandy to celebrate."
     },
     {
-      "n": 26,
-      "who": "辛西娅／海伦娜",
-      "did": "两人抬着舞会礼服跨出肯特米尔宅的大门；辛西娅告诉海伦娜「我正在想，走出这扇门、最后一次，是多么光荣」",
-      "lines": "243",
+      "line": 243,
+      "fact": "两人一起把舞会礼服抬出肯特米尔宅（Kentmore House）的门槛；辛西娅说她在想『最后一次走出这扇门有多痛快』。",
       "verbatim": "As Helena and Cynthia carried her ballgown across the threshold of Kentmore House together, Cynthia nudged Helena. ‘I am currently thinking about how glorious it is to walk out of this door for the last time. In case you were wondering.’"
     },
     {
-      "n": 27,
-      "who": "辛西娅／Lady Strathmore",
-      "did": "舞会上：辛西娅直视又一个用扇子窃窃私语的宾客——Lady Strathmore（她记得很清楚），那女人脸窄、牙齿不巧；据可靠消息该男爵夫人正与自己的马夫私通；尽管如此她仍在散布关于「杀人的布尔洛斯夫人」的恶毒流言；辛西娅听见人群的窃笑走过舞厅，海伦娜在身边",
-      "lines": "259",
-      "verbatim": "Cynthia stared brazenly into the eyes of yet another scandalised partygoer whispering behind her fan. Lady Strathmore, if her memory served correctly. The woman had a pinched face and rather unfortunate teeth. Cynthia had it on good authority the baroness was having a torrid affair with her stable master. That didn’t stop her from spreading furious gossip about the murderous Lady Burrows."
+      "line": 259,
+      "fact": "舞会上辛西娅直视又一个在扇子后窃窃私语的宾客（斯特拉斯莫尔夫人 Lady Strathmore）；传闻这位男爵夫人与马夫有私情。",
+      "verbatim": "Cynthia stared brazenly into the eyes of yet another scandalised partygoer whispering behind her fan. Lady Strathmore, if her memory served correctly. … Cynthia had it on good authority the baroness was having a torrid affair with her stable master."
     },
     {
-      "n": 28,
-      "who": "宾客（窃语）",
-      "did": "三句流言：「连穿黑的礼节都没有」「她丈夫的尸骨还没凉」「她多半是自己杀了丈夫」",
-      "lines": "262-268",
-      "verbatim": "‘…doesn’t even have the decency to wear black…’ … ‘…her husband’s hardly cold in his grave…’ … ‘…she probably murdered him herself…’"
+      "line": 262,
+      "fact": "第一句闲话：连黑都不肯穿。",
+      "verbatim": "‘…doesn’t even have the decency to wear black…’"
     },
     {
-      "n": 29,
-      "who": "辛西娅／海伦娜",
-      "did": "辛西娅对 Lady Strathmore 的酒杯弹指，酒泼了她一身；海伦娜的笑声被男爵夫人的尖叫淹没；辛西娅说「辛西娅，你是个坏女人」，海伦娜答「我最近和女巫们混在一起，肯定是被她们带坏了」；海伦娜说「你闹出这么大动静，都没人注意到哈姆雷特」——哈姆雷特心想「他们注意到我了，只是不敢招我的怒气」",
-      "lines": "271-286",
-      "verbatim": "Stretching her lips into a dangerous smile, she flicked her fingers at Lady Strathmore’s goblet of wine. … ‘Cyn, you are a wicked woman.’ … ‘I’ve been spending time with witches. I’m sure they’ve corrupted me.’ … ‘You’re causing such a stir, no one has even noticed Hamlet.’ … They’ve noticed me. They just don’t dare court my wrath."
+      "line": 265,
+      "fact": "第二句闲话：丈夫尸骨未寒。",
+      "verbatim": "‘…her husband’s hardly cold in his grave…’"
     },
     {
-      "n": 30,
-      "who": "辛西娅",
-      "did": "说制造丑闻正是公爵夫人给她买这条裙子、邀她来的原因；那条深领、缀着如罪般赤红水晶的裙子最不该由新寡穿、更不该在守丧第一个月穿；公爵夫人坚持这样才能让辛西娅当着整个上流社会抬鼻孔；「她说得对」；一周前她本意只是想向休伯特的同僚们证明自己一点也不怀念那个恶人",
-      "lines": "289-295",
-      "verbatim": "‘Creating a scandal was exactly why the duchess bought me this dress and invited me in the first place. She’ll be thrilled her plan worked so well.’ … The plunging neckline and decadent crystals dripping over silk as red as sin was the last thing a widow should ever wear, and certainly not in the first month of mourning. The duchess had insisted it would be the perfect way for Cynthia to thumb her nose at all of the peerage. She was right. … A week ago, the idea of showing Hubert’s peers how very little she missed the horrible man, while simultaneously rebelling against a world that had controlled most of her life appealed to Cynthia’s desire to tell the entire beau monde to sod off before she made a grand exit to the country."
+      "line": 268,
+      "fact": "第三句闲话：说不定是她自己杀的。",
+      "verbatim": "‘…she probably murdered him herself…’"
     },
     {
-      "n": 31,
-      "who": "辛西娅",
-      "did": "如今不同：她站在舞厅中央（海伦娜穿宝石蓝礼服如流水贴身），她来这里是为了做另一种宣言——让上流社会为一种新型女性做准备：不再把自己献祭在服从的祭坛上；他们可以散布流言、拒绝邀请、她在邦德街被冷落，但她拒绝消失；她拥有比他们赞许更可贵的东西：过真实生活的决心",
-      "lines": "298-301",
-      "verbatim": "But now, everything was different. As she stood in the centre of the ballroom, Helena beside her in a sapphire gown that flowed over her skin like water, she realised she had come to the duchess’s ball to make a very different statement. … She was preparing the beau monde for a new kind of lady in their midst. One who no longer sacrificed herself on the altar of obedience. … But she refused to disappear. Because she possessed something far more valuable than their approval. Determination to live an authentic life, consequences be damned."
+      "line": 271,
+      "fact": "辛西娅指尖一弹，斯特拉斯莫尔夫人的酒杯把红酒泼了她一身，淹没海伦娜的笑声。",
+      "verbatim": "Stretching her lips into a dangerous smile, she flicked her fingers at Lady Strathmore’s goblet of wine. The screeching of the baroness conveniently drowned out Helena’s giggle as crimson liquid sloshed down the front of Lady Strathmore’s frock."
     },
     {
-      "n": 32,
-      "who": "辛西娅",
-      "did": "预告：把她在蒙街的联排宅改成未婚母亲与受虐女子的避难所；她与海伦娜仍计划住科茨沃尔德的家，但两人会分住两处，好让海伦娜在忙碌的夏季月份去 All Things Bright and Beautiful 帮忙",
-      "lines": "304",
+      "line": 277,
+      "fact": "辛西娅对海伦娜说『我最近和女巫们混在一起，肯定被带坏了』。",
+      "verbatim": "‘I’ve been spending time with witches. I’m sure they’ve corrupted me.’"
+    },
+    {
+      "line": 283,
+      "fact": "无引号的哈姆雷特心语：大家注意到我了，只是不敢惹我发怒。",
+      "verbatim": "They’ve noticed me. They just don’t dare court my wrath."
+    },
+    {
+      "line": 289,
+      "fact": "辛西娅说制造丑闻正是公爵夫人买这身裙子、邀请她来的原因，她会很高兴计划奏效。",
+      "verbatim": "‘Creating a scandal was exactly why the duchess bought me this dress and invited me in the first place. She’ll be thrilled her plan worked so well.’"
+    },
+    {
+      "line": 292,
+      "fact": "那件深 V 领、缀水晶、红如罪孽的丝裙是寡妇最不该穿的，更别说守丧第一个月；公爵夫人坚持说这是对全体贵族竖鼻子的最好方式，她说对了。",
+      "verbatim": "The plunging neckline and decadent crystals dripping over silk as red as sin was the last thing a widow should ever wear, and certainly not in the first month of mourning. The duchess had insisted it would be the perfect way for Cynthia to thumb her nose at all of the peerage. She was right."
+    },
+    {
+      "line": 295,
+      "fact": "一周前，穿这身去示威、向整个上流社会竖中指再离城，正合辛西娅的心意。",
+      "verbatim": "A week ago, the idea of showing Hubert’s peers how very little she missed the horrible man, while simultaneously rebelling against a world that had controlled most of her life appealed to Cynthia’s desire to tell the entire beau monde to sod off before she made a grand exit to the country."
+    },
+    {
+      "line": 298,
+      "fact": "但现在不同了：海伦娜穿着贴着身体如流水的蓝宝石色长裙站在她身旁，她意识到自己来舞会是要做一个完全不同的宣告。",
+      "verbatim": "But now, everything was different. As she stood in the centre of the ballroom, Helena beside her in a sapphire gown that flowed over her skin like water, she realised she had come to the duchess’s ball to make a very different statement."
+    },
+    {
+      "line": 301,
+      "fact": "她要让上流社会准备迎接一种新的女性：不再把自己献祭在服从的祭坛上；她拒绝消失，因为她有比他们的认可更珍贵的东西——过真实人生的决心。",
+      "verbatim": "She was preparing the beau monde for a new kind of lady in their midst. One who no longer sacrificed herself on the altar of obedience. … But she refused to disappear. Because she possessed something far more valuable than their approval. Determination to live an authentic life, consequences be damned."
+    },
+    {
+      "line": 304,
+      "fact": "她的下一个宣告：把芒特罗（Mount Row）的联排别墅改成未婚母亲与受虐妇女的收容所；科茨沃尔德的宅子仍另有计划，两地分住，好让海伦娜夏天能在 All Things Bright and Beautiful 帮忙。",
       "verbatim": "‘If they think this dress is a scandal, wait until they hear that I’m turning my Mount Row townhouse into a refuge for unmarried mothers and abused women.’ … They still had plans for the Cotswold home, but they would split their time between the two so Helena could help at All Things Bright and Beautiful during the busy summer months."
     },
     {
-      "n": 33,
-      "who": "Clio／Thomas",
-      "did": "Clio 与 Thomas 走近；辛西娅吻嫂子脸颊并赞叹她的礼服（紫色蕾丝上身低领高领结构、绿裙、孔雀羽内衬、午夜色发髻插真孔雀羽）；转向哥哥时 Thomas 眼中闪着怒气，问「你听见他们怎么说你了吗」；Clio 把手放在丈夫手臂上安抚，指尖却淌出火花",
-      "lines": "307-316",
-      "verbatim": "Clio and Thomas approached. Cynthia pressed a kiss to her sister-in-law’s cheeks before stepping back to admire Clio’s gown. … When she turned to greet her brother, Thomas’ eyes flashed with anger. … Clio placed a calming hand on her husband’s arm, though the sparks dripping from her fingertips belied her false serenity."
+      "line": 307,
+      "fact": "克莱奥与托马斯走来；克莱奥是辛西娅的嫂子（sister-in-law），穿紫蕾丝＋孔雀羽衬裙、发间插真孔雀羽。",
+      "verbatim": "Cynthia pressed a kiss to her sister-in-law’s cheeks before stepping back to admire Clio’s gown. … Her bold style would have been the talk of the ball if Cynthia hadn’t stolen her thunder."
     },
     {
-      "n": 34,
-      "who": "辛西娅／Thomas／Clio",
-      "did": "辛西娅说流言是「一个荡荡的寡妇大概杀了自己丈夫」，她听说过，而且她盖过了哥哥的丑闻、才刚开始；她往海伦娜身边靠，海伦娜的绯红卷发像火焰瀑布；Thomas 问「你怎么忍受这些蠢货对你的家人说这种话而不揍他们两拳」；辛西娅答「有教养的女士从不揍贵族」，但既然不再是从前那个上流社会的典范，也许可以教她拳击；「让他们嚼舌头，我们有这些蠢货永远不会懂的东西：爱」；Clio 说「Brava, Cynthia」，并安慰丈夫：新的丑闻一定会爆发并转移上流社会的注意力",
-      "lines": "319-328",
-      "verbatim": "‘That I’m a wanton widow who probably killed her husband? Yes. I’ve heard the rumours. It would seem I’ve eclipsed your scandals, Thomas. And I’m only just getting started.’ … ‘How did you endure these insipid fools saying such things about your family without punching one or two of them in their smug little faces?’ Thomas growled. … ‘Let them gossip. We have something these fools will never understand. Love.’ … ‘Don’t worry, darling. A new scandal is sure to erupt and distract the beau monde. It always does.’"
+      "line": 310,
+      "fact": "托马斯眼中冒火。",
+      "verbatim": "When she turned to greet her brother, Thomas’ eyes flashed with anger."
     },
     {
-      "n": 35,
-      "who": "公爵夫人／辛西娅／海伦娜",
-      "did": "公爵夫人挽着一个年轻纨绔走近，白发在煤气灯下镶着钻石宝石闪烁；她打发了新欢，拥抱辛西娅，说「原来这就是你脸颊泛红的原因」，目光在海伦娜身上停留，说「女性友谊是罕见的珍宝……能带来如此独特的……乐趣」；辛西娅搭住海伦娜的腰答「毫无疑问，尽管有些人看见的是丑闻，其实该管好他们自己的事」；公爵夫人说「胡说，只有蠢人才会在这么美的女性情谊表情里看出什么不体面」",
-      "lines": "331-340",
-      "verbatim": "The duchess approached them, a young buck on her arm. … She dismissed her newest paramour and pulled Cynthia into a floral hug. ‘So. This is the reason for that happy flush on your cheeks.’ The duchess’s gaze lingered on Helena. ‘Female friendships are a rare treasure, don’t you think? They can bring such unique… pleasure.’ … ‘Undoubtedly. Even if some might see scandal when they should really mind their own business.’ … ‘Pish. Only a fool would see anything untoward with such a beautiful expression of feminine companionship.’"
+      "line": 313,
+      "fact": "托马斯问她听没听到别人怎么说她。",
+      "verbatim": "‘Have you heard what they’re saying about you?’"
     },
     {
-      "n": 36,
-      "who": "海伦娜／Clio／辛西娅",
-      "did": "海伦娜问「这里是不是有点热」并给 Clio 一个意味深长的眼神；Clio 这位火女巫朝她表姐眨了眨眼，随即一阵热风冲过众人；海伦娜说想去露台走走；辛西娅说「我陪你」",
-      "lines": "343-346",
-      "verbatim": "‘Is it rather hot in here?’ Helena gave Clio a meaningful look. The firewitch winked at her cousin, and suddenly, a blast of hot air washed over them. ‘I think I’ll take a turn on the terrace.’ … ‘That sounds refreshing.’ Cynthia tried to keep her voice calm. ‘I’ll join you.’"
+      "line": 319,
+      "fact": "辛西娅当面复述流言（放荡寡妇、大概杀了丈夫），并说自己已经盖过托马斯的风头、而且才刚开始。",
+      "verbatim": "‘That I’m a wanton widow who probably killed her husband? Yes. I’ve heard the rumours. It would seem I’ve eclipsed your scandals, Thomas. And I’m only just getting started.’"
     },
     {
-      "n": 37,
-      "who": "叙述者／海伦娜",
-      "did": "走向法式门的路上，公爵夫人开始盘问可怜的 Thomas 追捕「七码头区魔鬼」的事；海伦娜说「你们的德文郡公爵夫人想象力真丰富，鉴于她此刻的想法，我们可以认定她给了我们祝福；她也给了我一些可以稍后和你试试的主意」，眼中闪出银光",
-      "lines": "349-352",
-      "verbatim": "As they walked together towards the French doors opening onto the terrace, the duchess began grilling poor Thomas on capturing the notorious Devil of Seven Dials. … ‘Your Duchess of Devon certainly has a vivid imagination. Given her current thoughts, I think we can safely assume we have her blessing. She’s also given me some ideas to try with you later.’ Helena’s eyes flashed silver as they stepped through the doors and into the cool night air."
+      "line": 325,
+      "fact": "她说有教养的淑女从不打贵族，但她已不是模范；让那些人去嚼舌，她们拥有这些傻瓜永远不懂的东西——爱；她不再做他们意见的囚徒。",
+      "verbatim": "‘A well-bred lady never punches peers. Although, considering I am no longer the beau monde’s shining example of propriety, perhaps you can educate me in fisticuffs.’ … ‘Let them gossip. We have something these fools will never understand. Love. They can sputter and spit their vitriol. I will not be held prisoner to their opinions or expectations any longer.’"
     },
     {
-      "n": 38,
-      "who": "辛西娅",
-      "did": "露台独处时的长段表白：她不在乎公爵夫人的认可或任何人的认可，她在乎的是彼此，以及将要一起创造的生活；她把辛西娅的手引到自己的腰、拉近；她知道自己也许永远不能在舞厅里与海伦娜共舞、不能在海德公园散步时接吻、不能在亲友与神父面前宣告爱意；但她会爱她一生——「无论在秘密里还是在丑闻里，在阳光里还是在阴影里，在欢乐里还是在悲伤里」",
-      "lines": "355",
+      "line": 331,
+      "fact": "公爵夫人挽着一名年轻浪荡子过来，白发缀钻；她打发走新宠，抱住辛西娅，说女性友谊是稀有珍宝、能带来独特的『愉悦』。",
+      "verbatim": "The duchess approached them, a young buck on her arm. … She dismissed her newest paramour and pulled Cynthia into a floral hug. ‘So. This is the reason for that happy flush on your cheeks.’ The duchess’s gaze lingered on Helena. ‘Female friendships are a rare treasure, don’t you think? They can bring such unique… pleasure.’"
+    },
+    {
+      "line": 337,
+      "fact": "公爵夫人挥挥手：只有傻瓜才会在这样美丽的女性情谊里看出不妥。",
+      "verbatim": "‘Pish. Only a fool would see anything untoward with such a beautiful expression of feminine companionship.’"
+    },
+    {
+      "line": 343,
+      "fact": "海伦娜说『这里是不是有点热？』并给克莱奥一个会意的眼神；火巫眨眼，一股热风扑来，海伦娜说要去露台走走。",
+      "verbatim": "‘Is it rather hot in here?’ Helena gave Clio a meaningful look. The firewitch winked at her cousin, and suddenly, a blast of hot air washed over them. ‘I think I’ll take a turn on the terrace.’"
+    },
+    {
+      "line": 349,
+      "fact": "两人走向露台时，公爵夫人开始盘问托马斯抓七铃区魔鬼的经过。",
+      "verbatim": "As they walked together towards the French doors opening onto the terrace, the duchess began grilling poor Thomas on capturing the notorious Devil of Seven Dials."
+    },
+    {
+      "line": 352,
+      "fact": "海伦娜读到公爵夫人的念头：可以放心说她们得到了她的祝福，她还给了海伦娜一些『稍后在你身上试试』的主意。",
+      "verbatim": "‘Your Duchess of Devon certainly has a vivid imagination. Given her current thoughts, I think we can safely assume we have her blessing. She’s also given me some ideas to try with you later.’"
+    },
+    {
+      "line": 355,
+      "fact": "露台上辛西娅说不在乎任何人的认可，只在乎两人要一起创造的生活；她列举永远做不到的事（在舞厅共舞、在海德公园接吻、在神父与亲友面前宣告），但会爱她余生——无论秘密还是丑闻、日光还是阴影。",
       "verbatim": "‘I don’t care about her approval. Or anyone else’s. I care about you, and me, and the life we will create together.’ … ‘We might never be able to dance together in a ballroom, or kiss while walking in Hyde Park, or declare our love in front of a priest and all our friends and family. But I will love you for the rest of my days, Helena Blair. Whether in secret, or in scandal, in sunlight or shadows, in joy or sorrow.’"
     },
     {
-      "n": 39,
-      "who": "海伦娜",
-      "did": "回应：她们有美丽与冒险，还有无数个共度的夜晚；还有早晨与下午；他们永远不会懂这样的魔法；「现在，在这星空下，以月光为证，以夜莺的旋律，你愿意与我共舞吗，我的爱人」；辛西娅答「那将是我最大的荣幸」",
-      "lines": "358-361",
-      "verbatim": "‘We have beauty and adventure, and endless nights together. And mornings. And afternoons. They will never understand such magic. And now, under these stars, witnessed by the moonlight, and to the melody of the nightingale, will you dance with me, my love?’ … ‘It would be my greatest honour.’"
+      "line": 358,
+      "fact": "海伦娜在星光、月光与夜莺的旋律下邀她共舞。",
+      "verbatim": "‘We have beauty and adventure, and endless nights together. And mornings. And afternoons. They will never understand such magic. And now, under these stars, witnessed by the moonlight, and to the melody of the nightingale, will you dance with me, my love?’"
     },
     {
-      "n": 40,
-      "who": "海伦娜／辛西娅／哈姆雷特",
-      "did": "全书最后画面：海伦娜双手搭在辛西娅腰上，辛西娅环住海伦娜的肩，两人随一支只为他们演奏的曲子摇摆，哈姆雷特像哨兵一样站着，守护两个心跳合一的女人",
-      "lines": "364",
-      "verbatim": "Helena rested her hands on Cynthia’s hips. Cynthia wrapped her arms around Helena’s shoulders, and they swayed to a melody playing only for them as Hamlet stood sentinel, protecting the two women whose hearts beat as one."
+      "line": 361,
+      "fact": "辛西娅答：『那将是我最大的荣幸。』",
+      "verbatim": "‘It would be my greatest honour.’"
+    },
+    {
+      "line": 364,
+      "fact": "两人相拥起舞，哈姆雷特守在旁边，护着这两颗同拍跳动的心。",
+      "verbatim": "Cynthia wrapped her arms around Helena’s shoulders, and they swayed to a melody playing only for them as Hamlet stood sentinel, protecting the two women whose hearts beat as one."
     }
   ],
   "relationships_noted": [
-    "海伦娜 ↔ 辛西娅：本章完成情感收束（告白、互订誓词、发生关系、露台共舞）；海伦娜称她「my love」「my lady」",
-    "海伦娜 ↔ 辛西娅（姓名）：`:355` 辛西娅称她「Helena Blair」——海伦娜本姓 Blair",
-    "辛西娅 ↔ Mrs Higgins（管家夫人）：`:192` 管家夫人自首；`:198` `:207` 辛西娅感谢并承诺保护她；`:225` 辛西娅承认是对方之死「结束休伯特性命」使她获自由；`:231` 辛西娅以侯爵夫人身份最后一个行动给她年金与海边小屋；`:237` 辛西娅宣布自己不再是 Lady Burrows、对方不再是管家",
-    "Mrs Higgins ↔ 休伯特 ↔ Polly：`:210` 管家夫人看见「他」（休伯特）和 Polly 在一起，休伯特要杀她，她取走书桌上的拆信刀杀了他",
-    "辛西娅 ↔ MacDougal：`:207` 辛西娅对警司谎称休伯特是自杀",
-    "辛西娅 ↔ 辛克莱：`:207`「Sinclair is a bastard, but he won’t betray you」",
-    "辛西娅 ↔ 公爵夫人：`:289` 公爵夫人买裙邀她；`:292` 公爵夫人要她「thumb her nose at all of the peerage」；`:331` 公爵夫人搂抱辛西娅并对海伦娜说「女性友谊是罕见的珍宝」；`:352` 海伦娜称公爵夫人「Your Duchess of Devon」",
-    "辛西娅 ↔ Thomas（哥哥）↔ Clio（嫂子）`：307`–`:328`；Clio 是「firewitch」，是海伦娜的表姐（`:343` `winked at her cousin`）",
-    "辛西娅 ↔ Lady Strathmore（男爵夫人）`：259` 与马夫私通，仍散布关于辛西娅的流言；`:271` 被泼酒",
-    "辛西娅 ↔ Lady Argyle：`:231`「The horrid Lady Argyle could never appreciate someone of your excellence」（Mrs Higgins 未来的东家）",
-    "辛西娅 ↔ All Things Bright and Beautiful：`:304` 辛西娅在蒙街的避难所；Helena 帮忙的对象（All Things Bright and Beautiful 是 Blair 家相关的慈善/收容机构？本章未展开）"
+    "海伦娜 ↔ 辛西娅：本章立下新誓（L53 海伦娜先、L56 辛西娅回誓并加『Always.』），L59 明写这誓词本身就是缚灵之咒；章末露台共舞（L364）。",
+    "辛西娅 ↔ 休伯特：她记不起当年婚誓（L56『Empty words repeated in dutiful obedience』）；L292 舞会时仍在守丧第一个月。",
+    "辛西娅 ↔ 希金斯太太：她谎称休伯特自杀以护住对方（L207），并给养老金与海边小屋（L231）；希金斯太太本打算自首（L192）。",
+    "希金斯太太 ↔ 波莉（Polly）：被休伯特掐住脖子的女佣；希金斯太太为救她动手（L210/L222）。",
+    "辛西娅 ↔ 托马斯：亲兄妹；托马斯在舞会上为她生气（L310），克莱奥是他的妻子、辛西娅的嫂子（L307）。",
+    "辛西娅 ↔ 克莱奥：姑嫂；克莱奥是火巫（L343『The firewitch winked at her cousin』——注意原文写 cousin，指海伦娜的表姐）。",
+    "海伦娜 ↔ 克莱奥：表姐妹；克莱奥配合她制造热风让她能去露台（L343）。",
+    "公爵夫人：买红裙、邀辛西娅来制造丑闻（L289），当面暗示理解她们的关系（L331/L337）；本章称『Duchess of Devon』（L352）。",
+    "海伦娜 ↔ 哈姆雷特：章末守夜（L364）；L283 他自认无人敢惹。",
+    "辛西娅 ↔ 阿盖尔夫人（Lady Argyle）：只被提到一次，是要接收希金斯太太的『可恶』前雇主（L231）。"
   ],
   "numbers_verbatim": [
-    "at least three feet above the bed（`:125`，两人悬在床面上方至少三英尺）",
-    "the first month of mourning（`:292`，守丧第一个月）",
-    "A week ago（`:295`，一周前她还有另一种打算）",
-    "a thousand jewels（`:355`，星空比喻）"
-  ],
-  "source_inconsistencies_not_to_adjudicate": [
-    ":53 海伦娜誓词原文为 “Honour you with her spirit.”，而 `:56` 辛西娅的回应是 “Honour you with your spirit.”（同一誓词在两人口中差一个词）——疑为原书笔误；**不裁决**",
-    ":352 海伦娜说 “Your Duchess of Devon” ——`:331` 只称「the duchess」，全书此处才点出「德文郡公爵夫人」，且 “Your” 与她对 Clio 说 “her cousin” 的关系口径需自行判断；**不裁决**",
-    ":384–395 为出版方后续推介广告（“MORE FROM DARCY McGUIRE”），非故事内容"
+    "两人悬空『at least three feet』（L125）。",
+    "两次空白换场各 15 行（L138–L152、L244–L258）。",
+    "舞会时是守丧『the first month of mourning』（L292）；『A week ago』（L295）她还有另一套打算。",
+    "辛西娅的头衔：Marchioness of Kentmore（L231）；旧称 Lady Burrows（L162），她自己宣布不再用（L237）。",
+    "她要在两地分住：Mount Row 联排别墅（L304）与 Cotswold 宅子（L304）。",
+    "闲话三句（L262/L265/L268）。",
+    "公爵夫人带来的年轻男伴被称为『young buck』与『newest paramour』（L331）。"
   ],
   "unresolved_in_source": [
-    "Sinclair 为何「不会出卖」Mrs Higgins（`:207`）——本书内不作交代",
-    "辛西娅所说的「躲着女巫的惩罚」具体指什么（`:207` 提到 Sinclair 与 punishments）——本书内不作交代",
-    "Polly 的身份与下落（本章只被提到一次）",
-    "All Things Bright and Beautiful 是什么机构（`:304`）",
-    "Mrs Higgins 之后是否真的被释放（本章只写辛西娅的承诺与她的离开安排）"
+    "辛克莱到底想从海伦娜那里要什么——全书到本章仍未揭。",
+    "辛克莱的照片最终如何失效——ch26 埃莉只说『He will not』，本章未再提。",
+    "希金斯太太是否真的去了海边小屋——本章只写安排（L240），未写启程。",
+    "Lady Argyle 是谁、与伯罗斯家什么关系，本章只出现一次。",
+    "辛西娅与海伦娜能否公开关系——L355 明说『might never』，书末未解决。",
+    "辛西娅母亲的下落（ch25 回忆里出现过），本章未提。",
+    "辛克莱的审判结果，本章未写。"
+  ],
+  "traps_noted": [
+    "两处身体印记不同：辛西娅胸口是子弹留下的『crescent moon』（L47），海伦娜胸骨是天生『birthmark shaped like a star』（L71）。不可互换，也不可把新月的形状写成星形。",
+    "新誓是海伦娜先立（L53），辛西娅重复并加『Always.』（L56）；L59 的『binding their spirits』是叙述对誓词效力的描写，不是第三人施咒。",
+    "取血、念咒、救人全部发生在 ch26；本章 L47 只是描疤，不能写成『本章治愈』。",
+    "希金斯太太在本章是主动要自首（L192），辛西娅拦住并给她养老金（L231）；她没有在本章被逮捕或逃走。",
+    "凶器仍是『letter opener』（L210），与 ch25 L352 一致；受害者是休伯特，被救的女孩叫 Polly（L210）。",
+    "辛西娅对麦克杜格尔的谎话在 ch26 已说（ch26 L246–L255），本章 L207 只是向希金斯太太复述，不是首次。",
+    "『Lady Burrows 不再是』（L237）与『Marchioness of Kentmore 的最后一项安排』（L231）是同一场景的两句，不能读成她仍保留侯爵夫人头衔。",
+    "第 304 行的收容所是『Mount Row townhouse』；ch22 的寡妇宅在 Cotswold——两处房产，本章明写两地分住（L304），不可合并。",
+    "克莱奥在 L343 被称『her cousin』（海伦娜的表姐），同时是辛西娅的 sister-in-law（L307）——两种关系都成立，不要只留一种。",
+    "末场视角以辛西娅为主，但 L352 是海伦娜读心后的转述、L343 是海伦娜提议去露台；不要把整章写成单一视角。",
+    "L384–L394 是书末推广页（下一本书与链接），不是正文，也不是章末情节。",
+    "章末舞会发生在救援的次日晚（ch26 L444/L447），本章 L292 的『first month of mourning』与 ch22 的『barely been a month』一致；不要给舞会另编日期。",
+    "『under these stars, witnessed by the moonlight, and to the melody of the nightingale』（L358）里的夜莺回收 ch25 L44 的夜莺意象——是同一只/同一种声响，但原文未说『同一只夜莺』。"
   ]
 }

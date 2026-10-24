@@ -1,0 +1,390 @@
+{
+  "book": "the-hexing-miss-helena-by-darcy-mcguire",
+  "chapter": 26,
+  "source": "text/ch26_chapter_26.txt",
+  "source_lines": 477,
+  "read_order_note": "只读 text/ch26_chapter_26.txt，未开 ch26 的 md",
+  "pov": "两场景、一次切换：场景一 L35–L212 贴 Helena（L38 她看辛西娅中枪；L134 无引号心声；L191『drown in someone’s gaze』）；L213–L227 空白带（15 行）换场；场景二 L228–L477 贴 Cynthia（L237『Sinclair hadn’t told…』、L240『Of course. He said himself…』、L243『He wanted Cynthia…』都是她的心思；L270『Cynthia felt quite swoony』；L288 她靠在门上；L315 她哭空）。",
+  "scene_split": {
+    "scene1": "L35–L212：从辛西娅中枪到血魔法缝合伤口、两人互诉爱意。",
+    "gap": "L213–L227（15 行空白）",
+    "scene2": "L228–L477：麦克杜格尔问话、辛西娅当众谎称休伯特自杀、回布莱尔宅、楼上坦白真凶、客厅闲聊与舞会前夜。"
+  },
+  "events": [
+    {
+      "line": 35,
+      "fact": "力量如不息的河灌满海伦娜，她活着、强壮、准备开战——但这些都不重要。",
+      "verbatim": "Power coursed through Helena, an unstoppable river of magic filling her with elemental force. She was alive, and strong, and ready for war. But none of it mattered."
+    },
+    {
+      "line": 38,
+      "fact": "她随水升起时，看见自己灵魂的另一半因辛克莱那颗子弹的冲击而颤抖。",
+      "verbatim": "As she rose on the water, she watched the counterpart of her soul shudder from the impact of Sinclair’s bullet, and Helena’s world fractured."
+    },
+    {
+      "line": 41,
+      "fact": "辛西娅倒在湿地板上，血与水混在一起。",
+      "verbatim": "Cynthia collapsed onto the wet floor, blood mixing with water."
+    },
+    {
+      "line": 44,
+      "fact": "破掉『绝不坠入爱河』的誓几乎毁了海伦娜。",
+      "verbatim": "Breaking her oath to never fall in love had nearly destroyed Helena."
+    },
+    {
+      "line": 47,
+      "fact": "破掉『不做伤害』的誓却很容易。",
+      "verbatim": "Breaking her vow to do no harm was easy."
+    },
+    {
+      "line": 50,
+      "fact": "海伦娜以爪牙、诅咒与纯粹的恨攻击辛克莱，女妖般的尖叫中两人滚倒在地；哈姆雷特加入撕咬。",
+      "verbatim": "Propelled forward on a stream of rage, Helena attacked Sinclair with claws and teeth, hexes and undiluted hatred, wrath and wicked witchcraft. A banshee scream erupted from her lungs as they tumbled to the ground. Hamlet joined the fray, biting wherever he could find purchase."
+    },
+    {
+      "line": 53,
+      "fact": "她把手掌按在辛克莱嘴上，把一股水灌进他喉咙，想用自己的痛苦淹死他。",
+      "verbatim": "Pressing her palm over Sinclair’s mouth, she jetted a stream of water down his throat. She would drown him with her pain."
+    },
+    {
+      "line": 59,
+      "fact": "一双强壮的手把她从辛克莱身上扯开，辛克莱蜷缩着吐水。",
+      "verbatim": "Strong hands gripped her, ripping her away from Sinclair, who curled onto his side, spewing water."
+    },
+    {
+      "line": 62,
+      "fact": "罗温姨妈喝止她。",
+      "verbatim": "‘Helena!’ Aunt Rowan’s voice pierced the red haze shrouding her vision. ‘Stop.’"
+    },
+    {
+      "line": 68,
+      "fact": "罗温说『我们不做伤害，即使现在』；海伦娜哭喊『他开枪打了辛西娅』。",
+      "verbatim": "‘We do no harm, Helena. Even now.’ … ‘He shot Cynthia. He shot her. He shot Cynthia.’"
+    },
+    {
+      "line": 71,
+      "fact": "罗温说辛西娅还活着，她们要治好她，需要海伦娜帮忙。",
+      "verbatim": "‘He did not kill her. She lives. And we are going to heal her. But I need your help, Helena. I need you to help me bring her back.’"
+    },
+    {
+      "line": 77,
+      "fact": "罗温要她停止杀那『一坨脏东西』，好救她的灵魂伴侣。",
+      "verbatim": "‘For now. But you must stop trying to kill this piece of filth so we can save your spirit match.’"
+    },
+    {
+      "line": 83,
+      "fact": "穿制服的人由拉克兰舅舅与托马斯带领涌进浴场，围住辛克莱一伙；辛克莱还在咳水。",
+      "verbatim": "A swarm of uniformed men seemed to appear from the darkened corridors of the baths, led by Uncle Lachlan and Thomas. Helena barely noticed as they crowded around Sinclair and his men."
+    },
+    {
+      "line": 86,
+      "fact": "克莱奥与埃莉赶到；克莱奥说要把辛西娅从『breach』那头拉回来，得靠她们所有人。",
+      "verbatim": "‘Come on. Let’s get Cynthia away from prying eyes. It will take all of us to bring her back from the breach.’"
+    },
+    {
+      "line": 92,
+      "fact": "四个女巫合力＋罗温的悬浮咒，把辛西娅移到淋浴间，避开苏格兰场的人。",
+      "verbatim": "The four witches hurried to Cynthia. With their combined strength and a levitating spell from Aunt Rowan, they were able to quickly move Cynthia into the shower room, away from Scotland Yard’s finest."
+    },
+    {
+      "line": 98,
+      "fact": "埃莉设保护圈，罗温双手按伤口：『我能取出子弹，但她很虚弱，必须快。』",
+      "verbatim": "Ellie cast a circle of protection while Aunt Rowan placed her hands on the wound. ‘I can draw out the bullet, but she is weak. We must work swiftly.’"
+    },
+    {
+      "line": 113,
+      "fact": "罗温握拳再张开，掌心是一颗沾满黑血的铅弹。",
+      "verbatim": "In another moment, Aunt Rowan clasped her hand in a fist. She opened her fingers to reveal a lead slug slick with dark blood."
+    },
+    {
+      "line": 116,
+      "fact": "克莱奥要用巫火灼封伤口，海伦娜拦住，要先冲净创口、请罗温取出碎片。",
+      "verbatim": "‘My fire will cauterise her wound.’ Clio took her aunt’s place, but Helena pulled her back. ‘Wait, let me flush it first. Aunt Rowan, will you draw out any fragments?’"
+    },
+    {
+      "line": 125,
+      "fact": "海伦娜用细流冲伤口、罗温清走残片后，克莱奥以巫火止血，埃莉握着海伦娜的手流泪。",
+      "verbatim": "Aunt Rowan nodded at Helena, who reluctantly stepped back to let Clio use her witchfire to stop the bleeding. Ellie held Helena’s hand, silent tears streaming down her cheeks."
+    },
+    {
+      "line": 146,
+      "fact": "埃莉说光环还在褪去；罗温决定用血魔法——她们最好的机会。",
+      "verbatim": "Ellie’s bottom lip trembled. ‘It’s still fading. Aunt Rowan, what else can we do?’ Aunt Rowan blew out a heavy sigh. ‘Blood magic. It’s our best chance.’"
+    },
+    {
+      "line": 155,
+      "fact": "血魔法需要一个自愿的牺牲。",
+      "verbatim": "‘It requires a willing sacrifice.’"
+    },
+    {
+      "line": 158,
+      "fact": "海伦娜说『她有我的牺牲。取我的血。』",
+      "verbatim": "Helena glared at her aunt. ‘She has my sacrifice. Take my blood.’"
+    },
+    {
+      "line": 161,
+      "fact": "罗温拒绝：她知道海伦娜的母亲对她做过什么，她不会重演。",
+      "verbatim": "Aunt Rowan shook her head. ‘I won’t. I know what your mother did to you, Helena. I won’t do the same.’"
+    },
+    {
+      "line": 164,
+      "fact": "海伦娜反驳：这次不一样，她是自愿给出自己的血。",
+      "verbatim": "Angry tears welled. ‘This isn’t the same! I willingly give her my blood.’"
+    },
+    {
+      "line": 167,
+      "fact": "哈姆雷特咬进海伦娜的手臂，深到她叫出声，血涌出来；她道谢。",
+      "verbatim": "Without warning, he sank his teeth into her arm deep enough for her to cry out. Pulling away, blood welled. ‘Thank you!’"
+    },
+    {
+      "line": 176,
+      "fact": "海伦娜把手臂横在辛西娅胸口，让血渗进未合的伤口。",
+      "verbatim": "Helena wrapped her arm over Cynthia’s chest, her blood sinking into the still open wound."
+    },
+    {
+      "line": 179,
+      "fact": "古老词句如不竭的泉从她口中流出，水升起，把两人托在流动的浪里。",
+      "verbatim": "Ancient words poured from Helena like an ageless spring as water rose around them, holding Helena and Cynthia in the curl of a flowing wave."
+    },
+    {
+      "line": 182,
+      "fact": "她的求告：灵魂已缠在一起、命中注定，她需要她、爱她，请她留下。",
+      "verbatim": "‘Don’t leave me, Cynthia. Our souls are entwined. We are fated for each other. I need you. I love you. Please, stay.’"
+    },
+    {
+      "line": 185,
+      "fact": "伤口自行合拢、血迹被吸尽，皮肤平滑无损，只留下一枚山楂果红色的新月。",
+      "verbatim": "When the last smudge of blood absorbed into the wound, it sealed itself, her smooth skin unmarred save a crescent moon in hawthorn-berry red."
+    },
+    {
+      "line": 188,
+      "fact": "辛西娅睁眼，水浪在她们周围碎成雾，像露水覆过女巫团。",
+      "verbatim": "Cynthia’s eyes fluttered open and the wave broke around them in a spray of mist, covering her coven like dew drops."
+    },
+    {
+      "line": 197,
+      "fact": "海伦娜吻她，说『我爱你，Cyn，那么多、永远。别再这样做了！』",
+      "verbatim": "She pressed her mouth against Cynthia’s lips, tasting hope and love and Cynthia’s honeyed flavour. ‘I love you, Cyn. So much and forever. Don’t you ever do this again!’"
+    },
+    {
+      "line": 200,
+      "fact": "辛西娅反问『做什么？我是去救你』，海伦娜回『结果你替我中了一枪』。",
+      "verbatim": "‘Do what? I was trying to save you.’ ‘And you got shot instead.’ Salt tears blended with Cynthia’s sweetness."
+    },
+    {
+      "line": 206,
+      "fact": "辛西娅说『但我确实救了你』；海伦娜答『是的，你救了。我们救了彼此』。",
+      "verbatim": "‘But I did save you.’ Cynthia tightened her arms around Helena, strong and sure and alive. ‘Yes. You did. We saved each other.’"
+    },
+    {
+      "line": 212,
+      "fact": "辛西娅第一次明说：『我也爱你，我亲爱的女巫。』",
+      "verbatim": "‘Thank the goddess. Because I love you too, my darling witch.’"
+    },
+    {
+      "line": 228,
+      "fact": "麦克杜格尔警司在确认辛克莱一伙被押往纽盖特后，不顾海伦娜反对坚持要与辛西娅谈话。",
+      "verbatim": "Superintendent MacDougal, after ensuring Sinclair and his men were safely on their way to Newgate, insisted on speaking to Cynthia despite Helena’s vehement protests."
+    },
+    {
+      "line": 231,
+      "fact": "麦克杜格尔说辛克莱已向辛西娅招认，现在她知情，而辛克莱不肯再多说一个字。",
+      "verbatim": "‘He told me he’d confessed to you, Cynthia. You know the truth of Hubert’s death, and he would no’ say a damn thing more. The bastard.’"
+    },
+    {
+      "line": 237,
+      "fact": "辛克莱没有把希金斯太太的事告诉麦克杜格尔。",
+      "verbatim": "Sinclair hadn’t told Superintendent MacDougal about Mrs Higgins."
+    },
+    {
+      "line": 243,
+      "fact": "辛西娅的推断：辛克莱要辛西娅背上去指认一个好女人杀了坏男人的重担，他真是个魔鬼。",
+      "verbatim": "He wanted Cynthia to bear the weight of condemning a good woman for killing a bad man. He truly was a devil."
+    },
+    {
+      "line": 246,
+      "fact": "辛西娅当着麦克杜格尔说辛克莱有罪（含开枪打她），但没杀休伯特；她吞了口气，宣称『休伯特是自杀的』。",
+      "verbatim": "‘Mr Sinclair is guilty of terrible crimes, including shooting me. But he didn’t kill Hubert.’ She swallowed, searching for courage in her depths. … ‘Hubert killed himself.’"
+    },
+    {
+      "line": 255,
+      "fact": "她给的理由：辛克莱要追讨休伯特全部债务、把情妇的信物也退回了，她们会破产；休伯特不愿承担后果便自杀——『唯一该为休伯特之死负责的人是休伯特』。",
+      "verbatim": "‘Sinclair told me he was going to call in all of Hubert’s debts. He returned the keepsake from his mistress. Even she wanted nothing more of him. We would have been ruined. Instead of facing the consequences of his choices, Hubert killed himself. In the end, the only person responsible for Hubert’s death was Hubert.’"
+    },
+    {
+      "line": 261,
+      "fact": "麦克杜格尔不信，说辛克莱是在保自己、他会逼出真相；辛西娅重申他没杀她丈夫。",
+      "verbatim": "Superintendent MacDougal shook his head. ‘He’s lying to protect his own skin. I’ll make him tell us the truth.’ ‘That is the truth, Superintendent MacDougal. He tried to murder me, but he didn’t murder my husband.’"
+    },
+    {
+      "line": 267,
+      "fact": "海伦娜挡在辛西娅前面，对拉克兰舅舅说她讲的是真话；辛西娅看她护着自己，觉得要晕了。",
+      "verbatim": "Helena stepped in front of Cynthia, blocking her from the superintendent. ‘You’ve heard what she has to say. She is telling the truth, Uncle Lachlan.’ Cynthia felt quite swoony watching Helena guard her."
+    },
+    {
+      "line": 276,
+      "fact": "罗温喝止拉克兰，把两个女人塞进马车，与克莱奥、埃莉商量后一起回布莱尔宅。",
+      "verbatim": "‘Enough! If you have more questions, you can ask them after Cynthia and Helena have had a chance to recover.’ … She bundled the women into a carriage, and after a quick discussion with Clio and Ellie, they all departed for Blair House."
+    },
+    {
+      "line": 279,
+      "fact": "到家后：埃莉烤克莱门氏小柑橘茶饼，罗温给海伦娜泡甘菊茶、给辛西娅煮咖啡，克莱奥去温室配补药。",
+      "verbatim": "Ellie busied herself with baking clementine tea cakes. Aunt Rowan put on a pot of chamomile tea for Helena and coffee for Cynthia, and Clio went into the greenhouse to gather the ingredients for a restorative elixir."
+    },
+    {
+      "line": 282,
+      "fact": "两人上楼换衣；辛西娅仅剩的旅行装胸口破了个大洞，于是借海伦娜的裙子——哪怕不是黑色。",
+      "verbatim": "They decided, as Cynthia’s one remaining travel dress now had a gaping hole in the chest, she would borrow one of Helena’s dresses, even if it wasn’t black."
+    },
+    {
+      "line": 288,
+      "fact": "门一关，辛西娅靠在门上说：『海伦娜，我对你舅舅撒了谎。』",
+      "verbatim": "‘Helena, I lied to your uncle.’"
+    },
+    {
+      "line": 294,
+      "fact": "她承认：『休伯特不是自杀的。』",
+      "verbatim": "‘Hubert didn’t kill himself.’"
+    },
+    {
+      "line": 309,
+      "fact": "海伦娜猜到是希金斯太太——当初审问李珀特（Lippert）时他心里冒出过这名字，她当时当作不可能而否掉了。",
+      "verbatim": "‘Oh my goddess! It’s Mrs Higgins, isn’t it? Lippert thought her name when we questioned him about Hubert’s death, but I dismissed it as impossible.’"
+    },
+    {
+      "line": 312,
+      "fact": "辛西娅说出动机：希金斯太太知道休伯特对女佣做的事，撞见他正掐一个女孩；她不该因为做了辛西娅早该做的事而被绞死。",
+      "verbatim": "‘She knew what Hubert had been doing to the maids. She caught him strangling one of the poor girls…’ … ‘She doesn’t deserve to hang for doing what I should have done all along. She stopped him, Helena.’"
+    },
+    {
+      "line": 333,
+      "fact": "海伦娜说：『你不必原谅休伯特，但你必须原谅你自己。』",
+      "verbatim": "‘You don’t have to forgive Hubert. But you do need to forgive yourself.’"
+    },
+    {
+      "line": 345,
+      "fact": "海伦娜把功劳归给两人：『我们一起做的……毕竟我们的灵魂缠在一起。』",
+      "verbatim": "‘We did it. Together. Which is how I want to do everything from this moment forward. Our souls are intertwined, after all.’"
+    },
+    {
+      "line": 348,
+      "fact": "辛西娅直呼其名表白：『我爱你，海伦娜·布莱尔。』海伦娜答『我无可救药地爱着你，Cyn』。",
+      "verbatim": "‘I love you, Helena Blair.’ ‘Good. Because I am hopelessly in love with you, Cyn.’"
+    },
+    {
+      "line": 372,
+      "fact": "辛西娅忽然想起照片：『辛克莱的巨人拍了我。他在拉克兰警司与我哥哥赶到之前逃了。』",
+      "verbatim": "‘Blasted damnation! I forgot about the photos. Sinclair’s giant took pictures of me. He escaped before Superintendent Lachlan and my brother arrived.’"
+    },
+    {
+      "line": 375,
+      "fact": "克莱奥打趣：是该在昏过去之前告诉他，还是之后？",
+      "verbatim": "Clio fed Sir Robin a piece of clementine cake. ‘Should you have told him before or after you lost consciousness from being shot?’"
+    },
+    {
+      "line": 381,
+      "fact": "埃莉叫辛西娅不必太担心那些照片；她只说『我看到的很多』，并断言辛克莱『不会』用它们。",
+      "verbatim": "‘I wouldn’t worry too much about those photos.’ … Bluebell eyes twinkled with secrets. ‘I see lots of things.’ … ‘He will not.’"
+    },
+    {
+      "line": 396,
+      "fact": "辛西娅仍觉得不够：休伯特伤害了那么多女人，却永远不会为自己的罪受苦。",
+      "verbatim": "‘I know it’s wrong. I should be glad that Hubert can’t hurt anyone any more. And I am. But it doesn’t seem like enough. He hurt so many women, and he’ll never suffer for the crimes he committed.’"
+    },
+    {
+      "line": 399,
+      "fact": "罗温讲因果（种下必收），并提醒拉克兰不会高兴辛克莱不必为侯爵之死负责；她敲了杯子三下。",
+      "verbatim": "‘There is much we do not understand, but I know that once a seed is sown, it must be reaped. Whether in this plane or another. No one escapes the consequences of their choices.’ Aunt Rowan sipped her tea, then tapped the cup three times. ‘Lachlan won’t be happy that Sinclair is not to blame for the marquess’s murder.’"
+    },
+    {
+      "line": 402,
+      "fact": "海伦娜认为仅凭谋杀未遂与绑架，下议院就足以让辛克莱在纽盖特关一辈子；埃莉确认自己是对的。",
+      "verbatim": "‘Well, Sinclair’s certainly guilty of attempted murder. He shot Cynthia and kidnapped me. That should be enough for the House of Commons to keep him locked in Newgate for the rest of his days. If Ellie is right⁠—’ ‘I’m right.’"
+    },
+    {
+      "line": 414,
+      "fact": "罗温说『我的女巫团，齐齐整整』，身旁一朵兰花绽开。",
+      "verbatim": "‘That is what matters. My coven, together and complete.’ Aunt Rowan smiled at them as an orchid bloomed next to her."
+    },
+    {
+      "line": 420,
+      "fact": "辛西娅说『我们』——那一词把两个独立的女人并成一个强大的整体。",
+      "verbatim": "Us. One word that melded two independent women into one powerful unit."
+    },
+    {
+      "line": 432,
+      "fact": "克莱奥问罗温怎么从巴斯回来得这么快——原说至少还要待一周。",
+      "verbatim": "‘How did you get back from Bath so quickly, Aunt Rowan? I thought you and Uncle Lachlan were meant to remain there for at least another week.’"
+    },
+    {
+      "line": 435,
+      "fact": "罗温说埃莉不是唯一会看见的人：她的女孩有危险时她总会知道；并说辛西娅已是女巫团的一员、是亲人。",
+      "verbatim": "‘Ellie isn’t the only one prone to visions. I might not have her future sight, but when one of my girls is in danger, I will always know. That goes for you too, Cynthia. You are part of our coven now. Part of our kin.’"
+    },
+    {
+      "line": 444,
+      "fact": "克莱奥提醒：若还打算参加今晚德文郡公爵夫人的舞会，就该上楼休息。",
+      "verbatim": "‘You’ll need it if you still plan on attending Duchess Devon’s ball this evening.’"
+    },
+    {
+      "line": 447,
+      "fact": "辛西娅恍然：『今天已经是明天了。』",
+      "verbatim": "‘That’s right. Today is now tomorrow.’"
+    },
+    {
+      "line": 456,
+      "fact": "克莱奥承认在她们的饮料里加了补药；配方是南非醉茄、圣罗勒与一点『额外的东西』，埃莉猜是『丘比特的甘露』。",
+      "verbatim": "‘I put an elixir in your drinks. You should both be feeling rather chipper for the next few days.’ … ‘Nothing bad. Just a little Ashwagandha, some Holy Basil, a little sprinkle of something… extra.’ Ellie exchanged a glance with Clio. ‘Cupid’s cordial?’"
+    },
+    {
+      "line": 474,
+      "fact": "海伦娜起身要带辛西娅上楼休息，问她愿不愿意一起上去；辛西娅答『永远』。",
+      "verbatim": "‘I’m not subjecting Cynthia to any more of this witchcraft. If we are going to this silly ball, I think a few hours’ rest is required, no matter what you put in our drinks.’ She reached out for Cynthia’s hand. ‘Will you come up with me?’ … ‘Always.’"
+    }
+  ],
+  "relationships_noted": [
+    "海伦娜 ↔ 辛西娅：本章两次互诉『I love you』（L197 海伦娜先、L212 辛西娅回应、L348–351 再各一次）；L44–47 明写海伦娜破的两条誓——『oath to never fall in love』与『vow to do no harm』。",
+    "罗温姨妈 ↔ 海伦娜：她制止海伦娜杀辛克莱（L62/L68），并说『我知道你母亲对你做过什么』（L161）——罗温知情。",
+    "罗温姨妈 ↔ 辛西娅：L435 正式接纳她入女巫团（『Part of our kin』）。",
+    "罗温 ↔ 拉克兰：夫妻；拉克兰是警司（L267 Helena 称 Uncle Lachlan；L372 辛西娅称 Superintendent Lachlan）；罗温在 L276 当众喝止他，并说他不喜欢被拒绝（L399）。",
+    "克莱奥 ↔ 托马斯：夫妻（L86『Clio must have come with her husband』）；托马斯与拉克兰带人抓人（L83）。",
+    "埃莉 ↔ 海伦娜／辛西娅：全程陪护，握海伦娜的手（L125），预言照片不会被用（L381/L393）。",
+    "哈姆雷特 ↔ 海伦娜：L167 咬她手臂取血，等于替罗温执行了『自愿牺牲』的取血动作。",
+    "希金斯太太：本章不出场，但她是真凶（L309/L312）；辛克莱没向麦克杜格尔供出她（L237）。",
+    "李珀特（Lippert）：被审问时心里想到希金斯太太的名字（L309）——本章第一处把她与案情连起来。",
+    "麦克杜格尔警司：坚持问话、不信自杀说（L231/L261），被罗温喝止（L276）。"
+  ],
+  "numbers_verbatim": [
+    "中枪部位：胸口（ch25 L385），本章取出『a lead slug』（L113）。",
+    "四个女巫合力（L92『The four witches』）。",
+    "场景空白带 L213–L227＝15 行。",
+    "罗温敲杯『three times』（L399）。",
+    "罗温原定在巴斯『at least another week』（L432）。",
+    "舞会在『this evening』（L444），辛西娅说『Today is now tomorrow』（L447）——即救援发生在舞会前一夜。",
+    "辛西娅剩下的旅行装『one remaining travel dress』（L282）。",
+    "辛克莱的巨人『took pictures』（L372）；照片数量未写。"
+  ],
+  "unresolved_in_source": [
+    "辛克莱到底想从海伦娜那里得到什么（ch24『what I seek』），本章仍未揭。",
+    "照片最终如何处置——埃莉只说『He will not』用它们，未写手段。",
+    "辛克莱是否真的会被下议院／法律长期关押（L402 是海伦娜的判断，非书内已发生事实）。",
+    "巨人是否被抓住——L372 明写他『escaped』。",
+    "希金斯太太会不会被追究——本章结束在她仍未被供出。",
+    "罗温如何得知辛西娅有危险（她自述『I will always know』，未给机制）。",
+    "李珀特（Lippert）的最终下落与身份。"
+  ],
+  "traps_noted": [
+    "两条誓是分开的两句：L44『oath to never fall in love』与 L47『vow to do no harm』——不能合并成一条；破誓者是海伦娜本人，不是她母亲。",
+    "取血者是哈姆雷特（L167），施咒者是海伦娜，念咒救人的也是海伦娜；罗温拒绝施血魔法（L161）。",
+    "取弹者是罗温姨妈（L98 起、L113 取出铅弹），止血者是克莱奥（L125 巫火），冲创口的是海伦娜（L119–L122），设保护圈的是埃莉（L98）。四道工序不能互换。",
+    "中枪是实打实的一枪（『lead slug』L113、『shooting me』L246），不是擦伤。",
+    "新疤在辛西娅胸口：『a crescent moon in hawthorn-berry red』（L185）——形状是新月，本章未称『星形』。",
+    "辛西娅在 L246–L255 对麦克杜格尔说的是谎话（休伯特自杀）；真凶希金斯太太只在 L288 之后对海伦娜坦白。",
+    "L309 是海伦娜自己说出『Mrs Higgins』，依据是当初审问李珀特时读到的念头（Lippert thought her name）——不是辛西娅在本章告诉她的。",
+    "辛克莱的下场在本章只是『被押往纽盖特』（L228）；『下议院』与『关一辈子』是海伦娜的判断（L402），不是已成事实。",
+    "L402 原文写『House of Commons』（下议院），不是上议院。",
+    "章末『today is now tomorrow』（L447）说明救援夜＝舞会前夜；ch24 里『ball only a day away』与此对得上，但 ch22 的日期表述不能据此反推。",
+    "罗兰（Rowan）称辛西娅为 coven／kin 发生在 L435，是本章的新身份宣示；此前她只是『受庇护的客人』。",
+    "尾声饮料里的『Cupid's cordial』是埃莉的猜测（L465），克莱奥只用耸肩回应，书中未确认其成分。"
+  ]
+}
