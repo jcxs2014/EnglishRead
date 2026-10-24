@@ -1,0 +1,54 @@
+{
+ "chapter": "ch02",
+ "reviewer": "ZCode-Mac(T3)",
+ "facts": [
+  {
+   "fact": "发给经理 Rosemary Bute 的道歉邮件被退回（Mail Delivery Subsystem；地址 Rosmary.Bute 本身少个 e），仔细重试仍失败",
+   "anchor": "Mail Delivery Subsystem",
+   "start": 822,
+   "end": 845
+  },
+  {
+   "fact": "打车到公司迟到 17 分钟，按表付费不给小费；门禁读卡器亮红灯，27 年的通行卡失效",
+   "anchor": "seventeen minutes late",
+   "start": 1272,
+   "end": 1294
+  },
+  {
+   "fact": "打 Jane Netherwood（Risk and Audit）留言求助；HR 男声两次叫他 Mr Gravel，随后以安全为由挂断",
+   "anchor": "Mr Gravel",
+   "start": 3768,
+   "end": 3777
+  },
+  {
+   "fact": "一位女士进门后他扑空，门已锁；隔磨砂玻璃看同事——过去 27 年几乎全部的社交宇宙成了更陌生的人",
+   "anchor": "opaque glass",
+   "start": 4865,
+   "end": 4877
+  },
+  {
+   "fact": "给 Rosemary 的短信（谎称自己 9 点前已到）发不出去；雨中踢门伤了脚趾，时为 9:25 a.m.",
+   "anchor": "9.25 a.m.",
+   "start": 6269,
+   "end": 6278
+  },
+  {
+   "fact": "North Street 银行分行已无柜员；新人 Finley（毛毛虫小胡子）告知经理 David Green 两年前退休、账户已关、档案里有死亡证明，并以 GDPR 拒绝透露",
+   "anchor": "David Green",
+   "start": 8624,
+   "end": 8635
+  },
+  {
+   "fact": "Finley 送客语：It's a free world… Dead people can do whatever they want；John 想起电视侦探的 mantra：Assume nothing; believe no one; check everything",
+   "anchor": "Assume nothing",
+   "start": 12341,
+   "end": 12355
+  },
+  {
+   "fact": "警局内 DC Patel 与 PC Edgbaston 告知驾照已被 DVLA 因死亡注销，反怀疑他冒用死者身份；解法=带弟弟 Geoff 与两本护照来对质；他拿反诈骗手册在公交上流泪",
+   "anchor": "DVLA",
+   "start": 17531,
+   "end": 17535
+  }
+ ]
+}

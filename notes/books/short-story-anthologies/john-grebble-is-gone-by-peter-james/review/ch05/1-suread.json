@@ -1,0 +1,48 @@
+{
+ "chapter": "ch05",
+ "reviewer": "ZCode-Mac(T3)",
+ "facts": [
+  {
+   "fact": "一周后 Southampton 邮轮码头，两人盛夏打扮值机 Diamond Line：他穿 Panama 草帽与合身白麻西装（不再是 one size too big），Jane 草帽斜戴、cerise 麻外套白裙",
+   "anchor": "Panama hat",
+   "start": 248,
+   "end": 258
+  },
+  {
+   "fact": "Mary 与 Winston Smith 已送去 Jane 的姐姐（爱动物）家寄养",
+   "anchor": "Jane’s sister",
+   "start": 602,
+   "end": 615
+  },
+  {
+   "fact": "柜台核验证件并确认：Mr Geoffrey Grebble 与 Ms Jane Netherwood，乘环球首三程、Dubai 下船",
+   "anchor": "Mr Geoffrey Grebble",
+   "start": 978,
+   "end": 997
+  },
+  {
+   "fact": "护照检查危机：边检说照片不像本人，John 以「打了减肥针」化解；边检自己也在注射、瘦了 4 stone，还建议别碰午夜自助餐",
+   "anchor": "weight-loss drug",
+   "start": 1765,
+   "end": 1781
+  },
+  {
+   "fact": "启航三小时后立于阳台：John 想象地堡里的 Geoff 断水断粮近一周、守着花不出去的成捆 50 镑（下面没有手机信号，连 Ocado 都订不了）",
+   "anchor": "Ocado",
+   "start": 2701,
+   "end": 2706
+  },
+  {
+   "fact": "核心反讽：Geoff 因迪拜引渡条约的漏洞设计整个骗局；如今 John 与 Jane 循同一漏洞去迪拜——Only the details were different",
+   "anchor": "Only the details were different",
+   "start": 3052,
+   "end": 3083
+  },
+  {
+   "fact": "末句加冕辞：新 Geoff 拥抱未婚妻说 being dead is OK… I much prefer it，宣告 John Grebble is gone. Long live Geoff Grebble!",
+   "anchor": "Long live Geoff Grebble",
+   "start": 3305,
+   "end": 3328
+  }
+ ]
+}

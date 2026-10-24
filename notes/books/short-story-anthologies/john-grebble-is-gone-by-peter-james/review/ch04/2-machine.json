@@ -1,0 +1,369 @@
+{
+  "chapter": 4,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/short-story-anthologies/john-grebble-is-gone-by-peter-james/ch04 you cant kill a dead man.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/short-story-anthologies/john-grebble-is-gone-by-peter-james/text/ch04_you_cant_kill_a_dead_man.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Dressed in a bulky anorak over a Led Zeppelin sweatshirt, tracksuit bottoms and grubby trainers, he looked at John expec",
+          "ok": true,
+          "pos": 726
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "‘Living isn’t good for our heath, Johnny boy. It kills all of us.’ Geoff dragged on the cigarette and blew the smoke str",
+          "ok": true,
+          "pos": 4002
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Actually, I use it to keep some of my savings in. Just in case. You can’t really trust banks, can you",
+          "ok": true,
+          "pos": 4636
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘OK, what I’m going to do now is a real demonstration of my trust in you.’ He stared Geoff in the eye. And did not like ",
+          "ok": true,
+          "pos": 7460
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "According to all the records, you are deceased. Dead – brown bread. There’s a kosher death certificate",
+          "ok": true,
+          "pos": 11403
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "‘And you know the really clever thing about that, Johnny boy? You can’t kill a dead man!’ Geoff lunged at him",
+          "ok": true,
+          "pos": 11638
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "But as he did so, John used the fast movements he’d learned from his kickboxing training and swept his brother’s front f",
+          "ok": true,
+          "pos": 11746
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "As his brother came closer and lashed out, John launched his right leg up between Geoff’s legs, as if he were kicking a ",
+          "ok": true,
+          "pos": 12448
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "John barely heard it. He was already outside the shelter, swinging that huge, heavy door shut with grim satisfaction. He",
+          "ok": true,
+          "pos": 12738
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "He sat, shaking, adrenaline surging, for several minutes. Before calming down and making himself a cup of tea",
+          "ok": true,
+          "pos": 13476
+        }
+      ],
+      "words": 18
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "句子结构": 51,
+        "表达方式": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "句子结构": 0.72,
+        "表达方式": 0.5
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "句子结构": 41,
+        "表达方式": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.54,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "句子结构": 0.52,
+        "表达方式": 0.67
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "句子结构": 33,
+        "表达方式": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "句子结构": 0.65,
+        "表达方式": 0.62
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "句子结构": 40,
+        "表达方式": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "句子结构": 0.44,
+        "表达方式": 0.66
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "句子结构": 34,
+        "表达方式": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "句子结构": 0.63,
+        "表达方式": 0.53
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "句子结构": 36,
+        "表达方式": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "句子结构": 0.54,
+        "表达方式": 0.75
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "句子结构": 44,
+        "表达方式": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "句子结构": 0.47,
+        "表达方式": 0.5
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 19,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "句子结构": 45,
+        "表达方式": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "句子结构": 0.56,
+        "表达方式": 0.78
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "句子结构": 44,
+        "表达方式": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "句子结构": 0.38,
+        "表达方式": 0.7
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "句子结构": 40,
+        "表达方式": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "句子结构": 0.44,
+        "表达方式": 0.56
+      }
+    }
+  ],
+  "form": {
+    "h1": "04. You Can't Kill a Dead Man",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "blocks": 10,
+    "block_median": 10,
+    "block_range": [
+      4,
+      10
+    ],
+    "profile": "short-story-anthologies",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2508,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 4 章中位 10、最高 10（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

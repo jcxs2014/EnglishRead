@@ -99,7 +99,19 @@ modified: "2026-10-24"
 
 **表达方式**：very much alive 是口语里最重的强调，派给一个刚被宣告死亡的人，几乎是个悲喜剧标题；破折号后 – and also a current account… 用补充语气继续加码，像在窗口一份一份递交材料。
 
-> **原句 8:** "What I mean is that this car is on a lease-purchase arrangement with someone who is now deceased. I’m repossessing it."
+> **原句 8:** "He got off the bus. Clutching his wallet and iPad in one hand, umbrella in the other, face flushed in humiliation, he squeezed past the irate woman and other passengers and stepped on to the pavement."
+
+**中文理解**：他终于下了车：一手攥着钱包和 iPad，一手夹着伞，涨红着脸，从那位愤怒的女士和其他乘客中间挤到人行道上。
+
+**关键词**：got off the bus / flushed in humiliation / irate woman
+
+**为什么这样写**：这是当天三连败的中间一环，也是唯一发生在众目睽睽之下的羞辱——银行电话只有系统听见，拖车只有拖车工看见，公交这一场有一整队人当陪审；那句 Are we going to be here all day? 就是陪审团的裁决词。
+
+**句子结构**：Clutching… in one hand, … in the other 两个分词宾语对称摆放，把「狼狈」拆成两只手；face flushed in humiliation 以插入语补在句中，脸红被写成随身携带的公开布告。
+
+**表达方式**：irate woman 不给名字， she 是排队人群推出来的 collective voice；squeezed past 的挤，与平时 politely kept his distance 的「保持距离」形成同一动作的两副面孔。
+
+> **原句 9:** "What I mean is that this car is on a lease-purchase arrangement with someone who is now deceased. I’m repossessing it."
 
 **中文理解**：拖车工说：我的意思是，这辆车是跟一位如今已经去世的人签的租赁购回合同，我现在要把它收回去。面对「我就是那个人」的申辩，对方的逻辑无懈可击——合同另一方已死，车自然收回。
 
@@ -111,7 +123,7 @@ modified: "2026-10-24"
 
 **表达方式**：now deceased 是官方文书的讣告腔，从满身肌肉的拖车工嘴里说出来，语言与人物的错位自成笑料；repossessing 用进行时，把没收变成一个正在发生的动作，John 连喊停的语法空隙都没有。
 
-> **原句 9:** "Oblivious to the now-biblical rain chucking down, he stood forlornly watching the brake lights of the truck as it approached the main road at the bottom of the hill. Then its amber right-turn light flashed. And moments later, it was gone."
+> **原句 10:** "Oblivious to the now-biblical rain chucking down, he stood forlornly watching the brake lights of the truck as it approached the main road at the bottom of the hill. Then its amber right-turn light flashed. And moments later, it was gone."
 
 **中文理解**：他顾不上倾盆大雨，失魂落魄地站在原地，看着拖车的刹车灯驶向坡底的大路。随后车子的琥珀色右转灯闪了一下。片刻之后，它不见了。
 

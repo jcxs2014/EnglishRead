@@ -39,7 +39,19 @@ modified: "2026-10-24"
 
 **表达方式**：Panama hat 与 white linen 是「另一个人」的道具——那个打领带、坐 5B 公交的灰男人没有一件东西是白的；fitted him well 三个词朴素到近乎温柔，复仇结束后的平静全在这里。
 
-> **原句 3:** "It was kind of ironic that Geoff had planned to steal all his money and flee to Dubai because of the vagaries of the extradition treaty there. And now that was where he and Jane were heading, for exactly the same reason. Only the details were different."
+> **原句 3:** "As they reached passport control, the lightly bearded and friendly Customs and Immigration officer took his passport and studied it. Peering up, he gave John the once-over, and looked at the passport more carefully. And frowned."
+
+**中文理解**：到了护照检查口，那位蓄浅须、态度友好的边检官接过护照细看，抬眼把 John 打量了一遍，又低头核对，皱起了眉。
+
+**关键词**：passport control / once-over / frowned
+
+**为什么这样写**：全篇的最后一道门在此收拢——他用的是弟弟的护照，照片对不上是物理事实；friendly 与 frowned 之间只隔一次抬头，前三章所有「系统否认他」的红色灯光，在这两秒里换了一个人形外壳。
+
+**句子结构**：三个短句步步收紧：接过、打量、皱眉；And frowned. 两个词单独成句，把危机悬在句号上——下一句才是解围的减肥针借口。
+
+**表达方式**：the once-over 与 looked… more carefully 一快一慢两次检视，写成逐帧逼近的镜头；friendly 这个形容词此刻只是暴风雨前的布景。
+
+> **原句 4:** "It was kind of ironic that Geoff had planned to steal all his money and flee to Dubai because of the vagaries of the extradition treaty there. And now that was where he and Jane were heading, for exactly the same reason. Only the details were different."
 
 **中文理解**：真是讽刺：Geoff 当初盘算卷走他全部的钱逃往迪拜，看中的就是那里引渡条约的漏洞百出；如今他和 Jane 去的正是同一个地方，理由分毫不差——只有细节不同。
 
@@ -51,7 +63,7 @@ modified: "2026-10-24"
 
 **表达方式**：vagaries（变幻莫测）给条约赋予了天气般的不可捉摸，制度的漏洞被写成自然现象；different 一词收在句尾，前面所有对称都是为这半句铺垫——这是全篇最轻也最重的一句话。
 
-> **原句 4:** "‘John Grebble is gone. Long live Geoff Grebble!’"
+> **原句 5:** "‘John Grebble is gone. Long live Geoff Grebble!’"
 
 **中文理解**：约翰·格雷布尔死了。格雷布尔·杰夫万岁！
 
@@ -61,7 +73,7 @@ modified: "2026-10-24"
 
 **句子结构**：两个短句共用「王位更替」的模板，is gone 与 Long live 一灭一生紧挨着，中间没有任何过渡——死亡与登基在语法上是同一瞬间。
 
-**表达方式**：gone 呼应标题 John Grebble Is Gone，全篇在最后一个词完成自我引用；感叹号是全书 he 说的第一声欢呼，给了这个被世界注销的人——他此刻活得比任何时候都像国王。
+**表达方式**：gone 呼应标题 John Grebble Is Gone，全篇在最后一个词完成自我引用；这个感叹号给了那个被世界注销的人——他此刻活得比任何时候都像国王。
 
 ## 本章词汇
 

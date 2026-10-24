@@ -1,0 +1,54 @@
+{
+ "chapter": "ch03",
+ "reviewer": "ZCode-Mac(T3)",
+ "facts": [
+  {
+   "fact": "12:30 过后回家，撞见遗产估价师 Robert Beresford（Atkinson-Keeble Law 指派）拿钥匙要进门做 probate 估值；John 用「不信鬼魂就得信我活着」把他吓退",
+   "anchor": "Robert Beresford",
+   "start": 1048,
+   "end": 1064
+  },
+  {
+   "fact": "进屋先查看虎皮鹦鹉 Mary（猫 Winston Smith 照例不见踪影）；泡茶被写成反抗；掐左手腕、脚趾疼自证不是鬼",
+   "anchor": "Winston Smith",
+   "start": 3047,
+   "end": 3060
+  },
+  {
+   "fact": "Jane Netherwood 短信慰问（Ru Ok? X）并答应下班直接过来；两人喝他去年 tombola 赢的红酒（screw-top，无酒杯用玻璃杯）",
+   "anchor": "screw-top",
+   "start": 15403,
+   "end": 15412
+  },
+  {
+   "fact": "电话谈 Geoff：开价 2 万镑现金换他带护照去警局作证；John 点破兄弟累计借款超 4 万镑；Geoff 威胁把斧头埋进他脑袋；约定次日见面，Geoff 住 Crawley；他还提到为母亲付每周 2000 镑的疗养院费",
+   "anchor": "two thousand pounds a week",
+   "start": 7859,
+   "end": 7885
+  },
+  {
+   "fact": "Jane 揭底：Geoff 坐过 Lewes Prison 与 Ford Open Prison（网上诈骗独居老邻居 3 万多镑，孙女生疑才止损）；352,000 镑存款已转入迪拜 Al Noor Crescent 银行 Geoff 名下（英国与阿联酋引渡条约难执行）",
+   "anchor": "Al Noor Crescent",
+   "start": 18802,
+   "end": 18818
+  },
+  {
+   "fact": "死亡证书逐字段：死因 Myocardial infarction（心梗），申报人（Name of Informant）Geoffrey Anthony Grebble——亲弟弟签发",
+   "anchor": "Name of Informant",
+   "start": 22595,
+   "end": 22612
+  },
+  {
+   "fact": "Jane 解释自动化多米诺：死亡登记进 GRO 后自动 ping DVLA、NHS、HMRC、银行与薪资核验，probate 随之自动启动，无人干预",
+   "anchor": "domino effect",
+   "start": 23743,
+   "end": 23756
+  },
+  {
+   "fact": "John 引 Jane 的谚语「复仇先挖两座坟」反问：两人中一个已是死人还挖两座吗；当晚两人去 Hove 的意大利餐馆，喝掉第二瓶酒加 Lemon Cello",
+   "anchor": "two graves",
+   "start": 25298,
+   "end": 25308
+  }
+ ]
+}

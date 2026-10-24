@@ -1,0 +1,340 @@
+{
+  "chapter": 1,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/short-story-anthologies/john-grebble-is-gone-by-peter-james/ch01 the bank letter.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/short-story-anthologies/john-grebble-is-gone-by-peter-james/text/ch01_the_bank_letter.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "John Grebble first learned he was dead when he got a letter from his bank. It arrived in the morning post, along with a ",
+          "ok": true,
+          "pos": 0
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "A small, mouse-like man, all John Grebble’s clothes seemed one size too big, as if, like life itself, they somehow overw",
+          "ok": true,
+          "pos": 1010
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "But his was in fact very different: hidden below the basement was a secret nuclear bunker. The previous owner, a builder",
+          "ok": true,
+          "pos": 3590
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "He’d continued giving Geoff loans of ever-increasing amounts, never repaid, until he ran out of patience – and guilt – a",
+          "ok": true,
+          "pos": 5617
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "It is with sincere condolences that I write on behalf of National Midland & Eastern Bank regarding the recent passing of",
+          "ok": true,
+          "pos": 7847
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I’m sorry, Mr Grebble, the information we have that you are deceased is verified",
+          "ok": true,
+          "pos": 13124
+        }
+      ],
+      "words": 14
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "The thing is, I am John Grebble. I’ve been a client of your bank since I was sixteen years old. I am very much alive and",
+          "ok": true,
+          "pos": 13374
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "What I mean is that this car is on a lease-purchase arrangement with someone who is now deceased. I’m repossessing it",
+          "ok": true,
+          "pos": 25299
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Oblivious to the now-biblical rain chucking down, he stood forlornly watching the brake lights of the truck as it approa",
+          "ok": true,
+          "pos": 27005
+        }
+      ],
+      "words": 41
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 0,
+        "为什么这样写": 96,
+        "句子结构": 43,
+        "表达方式": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "句子结构": 0.45,
+        "表达方式": 0.58
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "句子结构": 49,
+        "表达方式": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "句子结构": 0.42,
+        "表达方式": 0.39
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "句子结构": 46,
+        "表达方式": 70
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "句子结构": 0.32,
+        "表达方式": 0.53
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "句子结构": 45,
+        "表达方式": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "句子结构": 0.41,
+        "表达方式": 0.51
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 0,
+        "为什么这样写": 96,
+        "句子结构": 54,
+        "表达方式": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "句子结构": 0.5,
+        "表达方式": 0.44
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "句子结构": 37,
+        "表达方式": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "句子结构": 0.4,
+        "表达方式": 0.71
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "句子结构": 45,
+        "表达方式": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "句子结构": 0.48,
+        "表达方式": 0.57
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "句子结构": 51,
+        "表达方式": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "句子结构": 0.49,
+        "表达方式": 0.66
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "句子结构": 50,
+        "表达方式": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "句子结构": 0.56,
+        "表达方式": 0.61
+      }
+    }
+  ],
+  "form": {
+    "h1": "01. The Bank Letter",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "blocks": 9,
+    "block_median": 10,
+    "block_range": [
+      4,
+      10
+    ],
+    "profile": "short-story-anthologies",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4936,
+    "block_target": [
+      9,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 4 章中位 10、最高 10（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

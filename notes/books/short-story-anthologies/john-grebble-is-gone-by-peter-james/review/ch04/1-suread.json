@@ -1,0 +1,42 @@
+{
+ "chapter": "ch04",
+ "reviewer": "ZCode-Mac(T3)",
+ "facts": [
+  {
+   "fact": "次日中午刚过 Geoff 到场，进门先讨 15 镑出租车费；Led Zeppelin 卫衣、脏球鞋，比三年前胖了很多；John 宿醉头痛",
+   "anchor": "Fifteen quid",
+   "start": 723,
+   "end": 735
+  },
+  {
+   "fact": "Geoff 无视禁烟把烟灰弹在干净地板上、把烟直喷 John 脸上；台词 Living isn't good for our heath（heath 为原书误植）",
+   "anchor": "our heath",
+   "start": 4116,
+   "end": 4125
+  },
+  {
+   "fact": "John 谎称 2 万镑在地堡保险柜（「银行靠不住」），说这话时 disingenuously；带 Geoff 下两层：厨房陷门→更陡石阶→带转轮的银行金库门",
+   "anchor": "disingenuously",
+   "start": 4882,
+   "end": 4896
+  },
+  {
+   "fact": "金库门内只有粉笔记号与橡皮筋捆好的 50 镑成捆钞票；Geoff 突然掏出 stiletto 匕首，宣布记录上 John 已死亡、证书齐全",
+   "anchor": "stiletto dagger",
+   "start": 10796,
+   "end": 10811
+  },
+  {
+   "fact": "Geoff 的护身符逻辑：You can't kill a dead man！随即扑上来；John 用踢拳扫堂腿放倒他（匕首哐当滑走），再一脚踢胸、一脚踢裆（bullseye），Geoff 干呕蜷缩",
+   "anchor": "bullseye",
+   "start": 12917,
+   "end": 12925
+  },
+  {
+   "fact": "John 出地堡拧把手落锁并输入八位密码；返回途中依次复原：瓷砖盖回、跑步机拖回、楼上桌椅归位，然后坐了几分钟发抖，再泡一杯茶",
+   "anchor": "eight-digit combination",
+   "start": 13272,
+   "end": 13295
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "chapter": "ch01",
+ "reviewer": "ZCode-Mac(T3)",
+ "facts": [
+  {
+   "fact": "John Grebble，54 岁，从银行来信得知自己被登记死亡；同批邮件有水管账单与旅行社单身游广告",
+   "anchor": "John Grebble first learned he was dead",
+   "start": 0,
+   "end": 38
+  },
+  {
+   "fact": "他家地板下藏着前房主偷建的核地堡（三十英尺深、六英尺厚墙），他常把应急现金藏进去，钱包里常年备一张 50 镑",
+   "anchor": "thirty feet underground",
+   "start": 4442,
+   "end": 4465
+  },
+  {
+   "fact": "借给弟弟 Geoff 的钱从不归还，三年前断绝来往；母亲 Ruth 患阿尔茨海默住进 expensive care home，费用由他独担",
+   "anchor": "expensive care home",
+   "start": 4835,
+   "end": 4854
+  },
+  {
+   "fact": "银行信抬头写 To the Estate of John William Grebble，落款 Eloise Harrington（Customer Services – Estates）",
+   "anchor": "Eloise Harrington",
+   "start": 9032,
+   "end": 9049
+  },
+  {
+   "fact": "客服 Riley 核对生日与第一只宠物名后仍称死亡已核实，随后挂断；再拨回复 This account is no longer active",
+   "anchor": "no longer active",
+   "start": 14520,
+   "end": 14536
+  },
+  {
+   "fact": "5B 公交上 Apple Pay 与借记卡均失败，司机不找零，他被赶下车（司机蓄 mutton-chop sideburns）",
+   "anchor": "mutton-chop",
+   "start": 15570,
+   "end": 15581
+  },
+  {
+   "fact": "拖车工以车主已故为由拖走他的灰色 Kia EV6；John 塞 50 镑求等五分钟，回屋打 Rowanoke Finance 排到 17 号，车仍被拖走",
+   "anchor": "Rowanoke Finance",
+   "start": 26822,
+   "end": 26838
+  },
+  {
+   "fact": "他练 kickboxing（每周两次）正是为了能对抗从小欺负他的 Geoff；Carolyn 在约会前 20 小时甩他、转投 Geoff",
+   "anchor": "Twenty hours before their date",
+   "start": 19152,
+   "end": 19182
+  }
+ ]
+}

@@ -1,0 +1,369 @@
+{
+  "chapter": 3,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/short-story-anthologies/john-grebble-is-gone-by-peter-james/ch03 the informant.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/short-story-anthologies/john-grebble-is-gone-by-peter-james/text/ch03_the_informant.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Yes, very much so – you see, I am John Grebble. And if you don’t believe in ghosts, then your only alternative is to bel",
+          "ok": true,
+          "pos": 1890
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Grebble put the kettle on and placed a teabag in his regular mug. The act of making tea felt, in a strange way, like an ",
+          "ok": true,
+          "pos": 2982
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "I seem to be a non-person at Wilmot & Wilmot. And my bank has frozen my account. Went to the police and they think I’m a",
+          "ok": true,
+          "pos": 3852
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I’m a very busy man, John, I don’t have time for small talk. If I was going to bury a hatchet, you know where I’d bury i",
+          "ok": true,
+          "pos": 5505
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "OK, my proposition is that I pay you twenty thousand pounds – in cash – in return for which you accompany me to Brighton",
+          "ok": true,
+          "pos": 7806
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "He defrauded an elderly lady neighbour out of over thirty thousand pounds – online. Through befriending her, he obtained",
+          "ok": true,
+          "pos": 17422
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "That three hundred and fifty-two thousand pounds you had on deposit in the National Midland and Eastern Bank? It’s now o",
+          "ok": true,
+          "pos": 17957
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Beside Name of Informant was written Geoffrey Anthony Grebble",
+          "ok": true,
+          "pos": 21755
+        }
+      ],
+      "words": 9
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "One action triggers another and you get a domino effect. Registration of death, which is now increasingly becoming elect",
+          "ok": true,
+          "pos": 22836
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Do you need two graves if one of you is already dead",
+          "ok": true,
+          "pos": 24477
+        }
+      ],
+      "words": 12
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "句子结构": 46,
+        "表达方式": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "句子结构": 0.37,
+        "表达方式": 0.46
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "句子结构": 52,
+        "表达方式": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "句子结构": 0.42,
+        "表达方式": 0.46
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "句子结构": 52,
+        "表达方式": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "句子结构": 0.7,
+        "表达方式": 0.67
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "句子结构": 44,
+        "表达方式": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "句子结构": 0.49,
+        "表达方式": 0.67
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "句子结构": 60,
+        "表达方式": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "句子结构": 0.41,
+        "表达方式": 0.67
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "句子结构": 53,
+        "表达方式": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "句子结构": 0.59,
+        "表达方式": 0.52
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "句子结构": 66,
+        "表达方式": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.44,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "句子结构": 0.59,
+        "表达方式": 0.63
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "句子结构": 49,
+        "表达方式": 62
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "句子结构": 0.68,
+        "表达方式": 0.65
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "句子结构": 64,
+        "表达方式": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "句子结构": 0.53,
+        "表达方式": 0.72
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "句子结构": 49,
+        "表达方式": 66
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "句子结构": 0.62,
+        "表达方式": 0.65
+      }
+    }
+  ],
+  "form": {
+    "h1": "03. The Informant",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "blocks": 10,
+    "block_median": 10,
+    "block_range": [
+      4,
+      10
+    ],
+    "profile": "short-story-anthologies",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4590,
+    "block_target": [
+      8,
+      14
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 4 章中位 10、最高 10（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
