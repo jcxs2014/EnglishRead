@@ -58,7 +58,7 @@ modified: "2026-10-24"
 
 > **原句 8:** "There was a kind of intoxicating camaraderie among the lifeguards. They had this club they were a part of. They would spend the day out on the beach pulling people out of the water, then spend the night throwing the craziest parties."
 **中文理解**：救生员之间有一种让人上瘾的伙伴情谊，像一个只对内开放的圈子；白天在沙滩上把人从水里拉出来，晚上就换成最疯的派对。
-**关键词**：camaraderie / intoxicated / craziest parties
+**关键词**：camaraderie / intoxicating / craziest parties
 **为什么这样写**：作者用「上瘾」形容归属感，等于承认自己被它勾住了；紧接着把白天的救人与夜里的狂欢接进同一句，两个场景的切换本身就是这个圈子的性质——它救人，也在消耗人。
 **读者视角提示**：读者若在此刻替她担心，那就对了——往后她为这个圈子付出的代价，都是从这一句「上瘾」里长出来的。
 
