@@ -77,7 +77,7 @@ modified: "2026-10-24"
 
 > **原句 7:** "“You’re likely wondering why you’re here,” the man in the robe continues. He takes the seat opposite me at the low wooden table. The foul stench of long-dead rotting things fills my nose. My stomach turns. “You’ve been specially invited by the Powers That Be”—he pauses, gesturing vaguely to the ceiling—“to make a choice.”"
 
-**中文理解**：「你们大概在想自己为什么会在这里，」灰袍人继续说。他在矮木桌对面坐下，一股久死之物腐烂的恶臭扑进鼻子，我胃里一阵翻涌。「你们受至高powers之力的特别邀请而来——」他顿了顿，朝天花板模糊地打了个手势，「——来做个选择。」
+**中文理解**：「你们大概在想自己为什么会在这里，」灰袍人继续说。他在矮木桌对面坐下，一股久死之物腐烂的恶臭扑进鼻子，我胃里一阵翻涌。「你们受那些至高存在的特别邀请而来——」他顿了顿，朝天花板模糊地打了个手势，「——来做个选择。」
 
 **关键词**：specially invited / the Powers That Be / to make a choice（特别邀请、至高之力、做个选择）
 

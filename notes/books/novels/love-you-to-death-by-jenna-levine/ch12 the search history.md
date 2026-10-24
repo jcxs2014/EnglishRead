@@ -57,7 +57,7 @@ modified: "2026-10-24"
 
 > **原句 5:** "In no more than five sentences, please describe how Lucy McKenzie reacts to surprises. … Due: Six hours after receipt. … Upon completion, please return to the Agency via interoffice mail. … Under normal circumstances, I could complete this inside a handful of minutes. Now, though, my mind is just butterflies and static."
 
-**中文理解**：请用不超过五句话，描述 Lucy McKenzie 对意外的反应。……交期：收到后六小时。……填完请通过内部邮递交回 Agency。……正常情况下，我几分钟就能填完。可现在，我脑子里只剩 butterflies 和静电。
+**中文理解**：请用不超过五句话，描述 Lucy McKenzie 对意外的反应。……交期：收到后六小时。……填完请通过内部邮递交回 Agency。……正常情况下，我几分钟就能填完。可现在，我脑子里只剩蝴蝶和静电。
 
 **关键词**：no more than five sentences / Due: Six hours after receipt / butterflies and static（不超过五句话、交期六小时、蝴蝶与静电）
 
