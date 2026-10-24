@@ -45,7 +45,7 @@ modified: "2026-10-24"
 **读者视角提示**：作者把"谁在喊"和"谁在看孩子"并排摆着，不加一句评论；读者自己会得出结论，而这份克制正是她带队伍的做派。
 
 > **原句 6:** "When I questioned him later about it, he said, “I thought they would get onto shore themselves.” I was pissed. I told him I would make a T-shirt with the names of all the detailed lifeguards on the sleeve and write on the front: “The Public Rescues Themselves.”"
-**中文理解**：她事后追问那个临时救生员，对方答的是"我以为他们自己能上岸"。她当场气坏，撂话要做一件 T 恤：袖口印上所有临时救生员的名字，胸前写"公众自己救自己"。
+**中文理解**：她事后追问那个临时救生员，对方答的是「我以为他们自己能上岸」。她当场气坏，撂话要做一件 T 恤：袖口印上所有临时救生员的名字，胸前写「公众自己救自己」。
 **关键词**：detailed lifeguards / The Public Rescues Themselves / T-shirt
 **为什么这样写**：对方的辩解是一句偷懒的常识，她用一句更狠的常识顶回去——既然公众自己能上岸，救生员就多余了；那件 T 恤把这份怒气变成能穿在身上、当众给人看的东西。
 **读者视角提示**：这件 T 恤后来并没有真做出来，但它比任何投诉都更像一句宣言；读者会记住它，因为它是在那句"我以为他们自己能上岸"之后当场冒出来的。
