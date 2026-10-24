@@ -1,0 +1,55 @@
+{
+ "book": "life-out-of-order-by-audrey-niffenegger",
+ "chapter": "ch34",
+ "text": "notes/books/novels/life-out-of-order-by-audrey-niffenegger/text/ch34_lost_love_last_laugh.txt",
+ "facts": [
+  {
+   "fact": "十二月六日下午四点，克莱尔与贝克在昏暗的餐厅里反复研究贾斯珀的律师当天寄来的信。",
+   "anchor": "weak sunlight is draining from the dining room",
+   "start": 262,
+   "end": 308
+  },
+  {
+   "fact": "阿尔芭说已经太迟，并推断工作室那批服务器一定会出事，贝克没喝一口酒就冲了出去。",
+   "anchor": "It’s too late now,” Alba says",
+   "start": 3077,
+   "end": 3106
+  },
+  {
+   "fact": "三人赶到皮尔森的工作室，门锁已被换掉，警察要贝克证明自己才是这里的租户。",
+   "anchor": "The locks have all been rekeyed",
+   "start": 4974,
+   "end": 5005
+  },
+  {
+   "fact": "门开后，服务器被堆在屋子中央，伊莎多拉的机械头破裂熔化，屋里弥漫着烧塑料似的酸味。",
+   "anchor": "Did someone pour acid on those servers",
+   "start": 6436,
+   "end": 6474
+  },
+  {
+   "fact": "在博物馆的虚拟场景里，伊莎多拉被问起是谁干的，只梳洗胡须，说自己现在不许说。",
+   "anchor": "I’m not allowed to say right now",
+   "start": 9664,
+   "end": 9696
+  },
+  {
+   "fact": "克莱尔清晨五点半下楼，看见贝克睡在椅子上做梦，自己的头发上还留着烧塑料的气味。",
+   "anchor": "hasn’t been sleeping much lately",
+   "start": 11226,
+   "end": 11258
+  },
+  {
+   "fact": "次日贝克搬完工作室，看见六个戴墨镜、穿羽绒服的男人站在街角，一直盯着她看。",
+   "anchor": "there’s nothing interesting about them other than their stares",
+   "start": 12943,
+   "end": 13005
+  },
+  {
+   "fact": "贝克发现工作室里其余东西都没被动过，只有服务器像被提走一样不见了。",
+   "anchor": "as though the servers have been Raptured",
+   "start": 12088,
+   "end": 12128
+  }
+ ]
+}
