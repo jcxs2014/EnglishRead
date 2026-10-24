@@ -1,0 +1,55 @@
+{
+ "book": "love-you-to-death-by-jenna-levine",
+ "chapter": "ch02",
+ "text": "notes/books/novels/love-you-to-death-by-jenna-levine/text/ch02_chapter_one.txt",
+ "facts": [
+  {
+   "fact": "Lucy 忘了把纪念奖牌带到办公室，这是她当晚躲起来的直接原因",
+   "anchor": "Because I forgot the plaque at the office.",
+   "start": 1378,
+   "end": 1420
+  },
+  {
+   "fact": "她自认是上司 Skellar 手下最差的行政助理",
+   "anchor": "I’m probably the worst admin Skellar has ever had",
+   "start": 1592,
+   "end": 1641
+  },
+  {
+   "fact": "他连自己的名字都说不确定，句尾上扬像在发问",
+   "anchor": "As for my name, it’s…Daniel?",
+   "start": 4186,
+   "end": 4214
+  },
+  {
+   "fact": "服务员说杯中骷髅拉花是应景，因为快到万圣节",
+   "anchor": "I was inspired by the season. It’s almost Halloween.",
+   "start": 7504,
+   "end": 7556
+  },
+  {
+   "fact": "那天其实是 9 月 3 日",
+   "anchor": "It’s only September 3",
+   "start": 7560,
+   "end": 7581
+  },
+  {
+   "fact": "碰到卡片烧出的痛是冷，不是热",
+   "anchor": "I realize the pain is from cold, not heat.",
+   "start": 15832,
+   "end": 15874
+  },
+  {
+   "fact": "卡片上写着她的年龄：28 岁 1 个月 3 天",
+   "anchor": "Age: 28 years, 1 month, 3 days",
+   "start": 16349,
+   "end": 16379
+  },
+  {
+   "fact": "他被她碰到时震惊地问她是怎么做到的",
+   "anchor": "How are you doing that?",
+   "start": 14592,
+   "end": 14615
+  }
+ ]
+}

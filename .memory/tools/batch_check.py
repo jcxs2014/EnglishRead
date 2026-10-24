@@ -7,7 +7,8 @@
   ① 引语逐段逐字命中本章 text/（按 `…` 切段，每段须连续命中）
   ② 块序：各块在 text/ 中的偏移必须递增
   ③ 词条例句：每条例句须逐字命中本章 text/，且**例句必须含词头本身**
-  ④ 块数是否在 3–10（ novels profile）
+  ④ 块数：硬限 2–15；满 3 章的书按**本书自己的分布**判（创建卡 §3「2026-10-24 定案」：
+     上限取 max(15, 本书最高章块数)，只对「本书最高章 +1」以上判红；偏离本书中位 ±50% 只报 ⚠️）
   ⑤ 引语块词数（>100 提示；<30 提示）
   ⑥ 子项齐全 / 导航 5 项 / 必备节 / H1 形态
   ⑦ 可疑模板套话 / 写作期自述残留
@@ -47,6 +48,18 @@ def find_text(book, ch):
         if re.match(rf"^{ch}[_. ]", f) and f.endswith(".txt"):
             return os.path.join(tdir, f)
     return None
+
+
+def book_block_counts(book):
+    """本书各章的引语块数（按文件名 chNN 归章）。"""
+    out = {}
+    for f in sorted(os.listdir(book)):
+        m = re.match(r"^ch(\d+) .+\.md$", f)
+        if not m:
+            continue
+        body = open(os.path.join(book, f), encoding="utf-8").read()
+        out["ch" + m.group(1)] = len(re.findall(r"^> \*\*原句 \d+:\*\* ", body, re.M))
+    return out
 
 
 def check(book, ch):
@@ -101,10 +114,26 @@ def check(book, ch):
                 f">= 块{offsets[k+1][0]} off={offsets[k+1][1]}）"
             )
 
-    # 块数
+    # 块数（口径对齐创建卡 §3：硬限 2–15；满 3 章按本书分布自校准）
     n = len(quotes)
-    if n < PROFILE_MIN_BLOCKS or n > PROFILE_MAX_BLOCKS:
-        problems.append(f"{ch}: 块数 {n} 越出 profile {PROFILE_MIN_BLOCKS}–{PROFILE_MAX_BLOCKS}")
+    if n < 2 or n > 15:
+        problems.append(f"{ch}: 块数 {n} 越出硬限 2–15")
+    else:
+        counts = book_block_counts(book)
+        if len(counts) >= 3:
+            lo, hi = min(counts.values()), max(counts.values())
+            if n > hi:
+                problems.append(
+                    f"{ch}: 块数 {n} 越出本书分布 {lo}–{hi}（本书最高章 +1 以上判红）"
+                )
+            med = sorted(counts.values())[len(counts) // 2]
+            if med and abs(n - med) > 0.5 * med:
+                warns.append(f"{ch}: 块数 {n} 偏离本书中位 {med} 超过 ±50%")
+        elif n < PROFILE_MIN_BLOCKS or n > PROFILE_MAX_BLOCKS:
+            problems.append(
+                f"{ch}: 块数 {n} 越出 profile {PROFILE_MIN_BLOCKS}–{PROFILE_MAX_BLOCKS}"
+                "（本书不足 3 章，按 profile 判）"
+            )
 
     # ③ 词条例句
     for m in re.finditer(r"^\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|\s*(.+?)\s*\|$", body, re.M):
