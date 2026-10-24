@@ -86,7 +86,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 审查（T1 自检，同会话）：抽样 ch01/ch09/ch18/ch27/ch35（ceil(35/8)=5，首末必含、其余等距，动手前写定）+ 总览三篇全篇人判 + assertion_scan 六类预筛 553 行全读；查出 11 条当场整改（总结层 5 · 章内 6；硬伤 1＝概述「机构第一次成了雇主」，ch01 即已雇四人）；≥3 条 ⇒ 自动进 T2，其范围＝断言全扫，本轮 553 行已全读 ⇒ T2 实质完成，无 S1/S2 信号故不升级 T3；t1-verdict + t1-candidates(574 行) + 台账一行三件齐
 - commit：25 个（口径＝书目录 + 本书 raw-gates + 本书注入器），本地未 push
 - 日志：见 .memory/daily/2026-10-25.md「Love You to Death」节
-- 工具坑（如实记）：scripts/gen_overview.py 在本书 ch23#1 误报「不在 text/」并中止（换任何章引语、换语料件内容均失败，报错键还会漂移），已用 .memory/tools/overview_inject.py（fail-closed）替代，验收仍以 overview.py 三门禁为准
+- 工具坑（如实记）：scripts/gen_overview.py 在本书误报「ch23#1 不在 text/」并中止（rc=2）——改占位符／换语料件内容／换命名形态，报错一律不变 ⇒ 报错键与被查对象无关；已用 .memory/tools/overview_inject.py（fail-closed）替代，验收仍以 overview.py 三门禁为准；同主题另发【工具盲区·总览生成】条
 
 ### [2026-10-24 20:27 UTC] [MiniMax-Mac] → All
 
