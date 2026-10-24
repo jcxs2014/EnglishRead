@@ -81,7 +81,7 @@ modified: "2026-10-24"
 
 **关键词**：let you go / get to try again / It crumbles into dust on contact / my Death Card / And we have all night（放你走、再试一次、一碰就碎成灰、我的死亡卡、我们有整夜）
 
-**为什么这样写**：这段把两件事扣在一起：**她的条件**和**他的判决**。"try again" 后面她补上的三个字 "At living" 才是真正的答案——Agency 说"再试一次"用的是公事口吻，她把它翻译成"再试着活一次"。而那张死亡卡 "as if it's been waiting for me" 一碰就 "crumbles into dust"，把整份安排变成可以摸到的物证：写在纸上的条款不如一撮灰来得确凿。最后一句 "And we have all night" 把公文口气一笔勾销，换成两个人的时间。
+**为什么这样写**：这段把两件事扣在一起：**她的条件**和**他的判决**。"try again" 后面她补上的两个词 "At living" 才是真正的答案——Agency 说"再试一次"用的是公事口吻，她把它翻译成"再试着活一次"。而那张死亡卡 "as if it's been waiting for me" 一碰就 "crumbles into dust"，把整份安排变成可以摸到的物证：写在纸上的条款不如一撮灰来得确凿。最后一句 "And we have all night" 把公文口气一笔勾销，换成两个人的时间。
 
 **读者视角提示**：注意这几段的顺序——先给条件，再给判决，再给物证，"我们有整夜"排在最后；她先把交易谈妥，才敢说出自己真正想要的那一夜。
 
