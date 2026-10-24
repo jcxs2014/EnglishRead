@@ -1,0 +1,55 @@
+{
+ "book": "life-out-of-order-by-audrey-niffenegger",
+ "chapter": "ch39",
+ "text": "notes/books/novels/life-out-of-order-by-audrey-niffenegger/text/ch39_making_music.txt",
+ "facts": [
+  {
+   "fact": "阿尔芭在自己的床上醒来，知道身在何处却感到迷失，楼上母亲与贝克起床的熟悉声响让她安心。",
+   "anchor": "I wake up in my own bed, at home",
+   "start": 110,
+   "end": 142
+  },
+  {
+   "fact": "贝克周六一早出门雇侦探，想弄清贾斯珀的下落，也想知道是不是他动了她的服务器。",
+   "anchor": "She wants to know what happened to Jasper",
+   "start": 1924,
+   "end": 1965
+  },
+  {
+   "fact": "阿尔芭说脑子里太吵，提到新闻里的枪击案，尤其教堂里中枪的人，母亲听后大惊。",
+   "anchor": "those people who got shot in church",
+   "start": 3333,
+   "end": 3368
+  },
+  {
+   "fact": "克莱尔说音乐不欠任何人，若自弹自乐让她开心，那已足够，不必为观众演奏。",
+   "anchor": "if it makes you happy to play for yourself",
+   "start": 6262,
+   "end": 6304
+  },
+  {
+   "fact": "周日早餐后阿尔芭把空白五线谱纸摆得整整齐齐，磨好铅笔，却盯着窗外半小时没落笔。",
+   "anchor": "she’s been staring out the window for half an hour",
+   "start": 7689,
+   "end": 7739
+  },
+  {
+   "fact": "克莱尔教她把任务缩小：先随机定调为 D，就排除了其他所有调，再定乐器为小提琴。",
+   "anchor": "you make a choice: D, and you’ve eliminated",
+   "start": 11189,
+   "end": 11232
+  },
+  {
+   "fact": "阿尔芭说自己不能往一九九四年买下这房子之前、也不能往二〇〇一年自己出生之前打电话。",
+   "anchor": "I don’t call before 2001, when I was born",
+   "start": 13875,
+   "end": 13916
+  },
+  {
+   "fact": "结尾克莱尔听见阿尔芭的琴声从随意的碎片慢慢变得有目的，像是把出声的思考拼成音乐。",
+   "anchor": "music assembled from thinking out loud",
+   "start": 15097,
+   "end": 15135
+  }
+ ]
+}
