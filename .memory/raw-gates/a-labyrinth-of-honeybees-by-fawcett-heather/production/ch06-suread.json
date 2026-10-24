@@ -1,0 +1,55 @@
+{
+ "book": "a-labyrinth-of-honeybees-by-fawcett-heather",
+ "chapter": "ch06",
+ "text": "notes/books/short-story-anthologies/a-labyrinth-of-honeybees-by-fawcett-heather/text/ch06_farewell.txt",
+ "facts": [
+  {
+   "fact": "审问官天亮前就与公主一同离开，再没跟她说过话；她确信他会恨她到死。",
+   "anchor": "still I knew that he would hate me till his last breath",
+   "start": 1083,
+   "end": 1138
+  },
+  {
+   "fact": "公主临别说她别无选择，只能公开与父亲争夺王位，且不知自己能否取胜。",
+   "anchor": "I have no choice, now, but to openly challenge my father for the throne.",
+   "start": 1549,
+   "end": 1621
+  },
+  {
+   "fact": "她没告诉审问官旧神的习性：神喜欢住在祭司体内，并会转移到新的容器。",
+   "anchor": "the peculiar—to the sensibility of his tidy religion—predilections of the old gods",
+   "start": 839,
+   "end": 921
+  },
+  {
+   "fact": "她说众神有时休耕，只是在等时机；最聪明的做法通常是离他们远一点。",
+   "anchor": "the wisest course is generally to stay away from them",
+   "start": 3260,
+   "end": 3313
+  },
+  {
+   "fact": "她建议公主向女神献祭，特别提到女神尤其喜欢白玫瑰。",
+   "anchor": "She likes white roses particularly.",
+   "start": 1731,
+   "end": 1766
+  },
+  {
+   "fact": "公主说国王只有一个神站在他那边，与八十三位神作对是不吉利的。",
+   "anchor": "I know that he has but one god on his side",
+   "start": 2952,
+   "end": 2994
+  },
+  {
+   "fact": "公主向女神道别，可女神又在睡梦里自言自语，根本没在听。",
+   "anchor": "The Goddess wasn’t listening to her, but there was no point in saying so.",
+   "start": 3407,
+   "end": 3480
+  },
+  {
+   "fact": "公主骑上那匹原属审问官死去仆人的飞马，最后长长看她一眼，随后走进森林消失。",
+   "anchor": "they disappeared into the forest",
+   "start": 3843,
+   "end": 3875
+  }
+ ]
+}
