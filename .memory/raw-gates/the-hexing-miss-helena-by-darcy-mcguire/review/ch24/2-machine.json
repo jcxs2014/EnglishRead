@@ -1,0 +1,450 @@
+{
+  "chapter": 24,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/ch24 two dresses and a carriage.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch24_chapter_24.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Needing to distract herself from maudlin thoughts of doomed love, Cynthia imagined the chest opening",
+          "ok": true,
+          "pos": 403
+        },
+        {
+          "text": "It rose into the air and flew through the dark room like a ghost, landing gently on Cynthia’s lap",
+          "ok": true,
+          "pos": 630
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "‘I saw you both, facing Sinclair together, so she must be close. There was a large pool.’",
+          "ok": true,
+          "pos": 2230
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "There were only two dresses hanging in Cynthia’s empty dressing room. Her travel dress and the gown the duchess had sent",
+          "ok": true,
+          "pos": 2670
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘Five Bell Street!’ Cynthia had read about a Turkish bath house scheduled to open in a few months",
+          "ok": true,
+          "pos": 3792
+        },
+        {
+          "text": "The article mentioned the bath house would only charge a shilling to ensure that any man, regardless of his station, cou",
+          "ok": true,
+          "pos": 4027
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Cynthia called for the carriage and nearly crawled out of her skin counting the seconds until the landau rocked to a sto",
+          "ok": true,
+          "pos": 5925
+        },
+        {
+          "text": "Terrible things that she couldn’t prevent because the stubborn, infuriating, ridiculous woman had rejected her",
+          "ok": true,
+          "pos": 6249
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Helena was dying. Her powers seeped out of her, and her vision refused to focus. She didn’t know how long she had been s",
+          "ok": true,
+          "pos": 6606
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "And what of Cynthia? Helena would never see her face again. Never watch her hazel eyes flash with humour, or see her ski",
+          "ok": true,
+          "pos": 7184
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Because as she faced the stark reality of death, she could no longer hide from the truth. She had fallen in love",
+          "ok": true,
+          "pos": 7510
+        },
+        {
+          "text": "Despite seeing the devastation love left in its wake",
+          "ok": true,
+          "pos": 7660
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "What Mother felt for the blacksmith was a desperate desire. And what he gave to her in return was a poisoned need to pos",
+          "ok": true,
+          "pos": 7731
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Cynthia would never try to possess Helena’s soul. She didn’t need to. Because their spirits were intertwined. They were ",
+          "ok": true,
+          "pos": 8037
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "When I die here, goddess, let my soul linger. Let me watch over my love until her days are done. I will gladly suffer th",
+          "ok": true,
+          "pos": 8431
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "‘Don’t you touch Cynthia. I swear to the goddess if you dare breathe on her, I will rip your lungs through your throat. ",
+          "ok": true,
+          "pos": 9737
+        }
+      ],
+      "words": 74
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "The click of the door was quickly followed by a rush of scalding heat from a vent above her head",
+          "ok": true,
+          "pos": 11727
+        },
+        {
+          "text": "If Hamlet was in danger, she couldn’t die without first saving him. Cynthia would need his strength and comfort in Helen",
+          "ok": true,
+          "pos": 11937
+        }
+      ],
+      "words": 63
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 165,
+        "读者视角提示": 73
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 110,
+        "读者视角提示": 113
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 115,
+        "读者视角提示": 95
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 166,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 100,
+        "读者视角提示": 98
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 167,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 96,
+        "关键词": 0,
+        "为什么这样写": 139,
+        "读者视角提示": 76
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 125,
+        "读者视角提示": 71
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 147,
+        "读者视角提示": 79
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 89,
+        "关键词": 0,
+        "为什么这样写": 115,
+        "读者视角提示": 88
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 122,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 106,
+        "关键词": 0,
+        "为什么这样写": 193,
+        "读者视角提示": 91
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 0,
+        "为什么这样写": 143,
+        "读者视角提示": 78
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.88
+      }
+    }
+  ],
+  "form": {
+    "h1": "24. Chapter Twenty-Four",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 13,
+    "block_median": 10,
+    "block_range": [
+      6,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 0,
+    "segments": 18,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2302,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": "块数 13 偏离本章篇幅建议 4–7（本章 2302 词）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

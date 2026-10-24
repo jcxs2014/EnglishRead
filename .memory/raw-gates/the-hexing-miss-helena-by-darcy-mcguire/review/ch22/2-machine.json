@@ -1,0 +1,425 @@
+{
+  "chapter": 22,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/ch22 the dowagers refusal.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch22_chapter_22.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Cynthia’s world, moments ago a spinning, glittering dream, now disintegrated beneath a crashing wave of cold reality",
+          "ok": true,
+          "pos": 14
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Helena bit her lip. Her grey eyes flashed silver as the sunlight rose above the tree line and streamed through the windo",
+          "ok": true,
+          "pos": 233
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "I’ve fallen in love. With a woman who refuses to love me back. I’m such a fool",
+          "ok": true,
+          "pos": 526
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Anger came. She would nurse her heartbreak later, when she was alone and free to wallow in self-pity. Right now, she wou",
+          "ok": true,
+          "pos": 604
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Cynthia’s voice broke as she turned away from Helena and stood on shaky legs. Because she could be angry with Helena, bu",
+          "ok": true,
+          "pos": 951
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "She turned, catching Cynthia in her silver glare, colder than frozen rivers. ‘There is no amount of time that will chang",
+          "ok": true,
+          "pos": 2208
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "And don’t twist this into altruism. You are rejecting me because you’re scared. I never would have guessed such a powerf",
+          "ok": true,
+          "pos": 2575
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Not when her arms would forever ache to embrace Helena but always remain empty. Not when her heart would change its rhyt",
+          "ok": true,
+          "pos": 4115
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Pushing open the door, Cynthia stepped out of the room and into her future. One she would face alone",
+          "ok": true,
+          "pos": 4449
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "So, I am going to put my dowager house to good use. I am turning it into a home for women in need. I hope to offer educa",
+          "ok": true,
+          "pos": 7333
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "She was a sapphist. A witch. And a powerful woman who would no longer be subject to the whims of others",
+          "ok": true,
+          "pos": 11905
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "With only a few mishaps, she could transport a vase from one side of the room to the other with no more than a flick of ",
+          "ok": true,
+          "pos": 14014
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "‘If only I didn’t have to leave. If only you could find the courage to admit you love me.’ She thought of the love potio",
+          "ok": true,
+          "pos": 15948
+        }
+      ],
+      "words": 40
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 99,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 20,
+        "关键词": 0,
+        "为什么这样写": 114,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 102,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 94,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 105,
+        "读者视角提示": 75
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 106,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 101,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 88,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 97,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 132,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.94
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 123,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 131,
+        "读者视角提示": 70
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.92
+      }
+    }
+  ],
+  "form": {
+    "h1": "22. Chapter Twenty-Two",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 13,
+    "block_median": 10,
+    "block_range": [
+      6,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 0,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3043,
+    "block_target": [
+      6,
+      10
+    ],
+    "block_hint": "块数 13 偏离本章篇幅建议 6–10（本章 3043 词）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
