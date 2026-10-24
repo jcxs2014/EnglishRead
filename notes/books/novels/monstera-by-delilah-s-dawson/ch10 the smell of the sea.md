@@ -59,7 +59,7 @@ modified: "2026-10-24"
 
 **中文理解**：Saskia 一下又一下地砸那个小方块，直到黑色塑料碎裂、里面的金属内脏露出来。「宝贝，这不只是个充电器。它是摄像头。如果不是你放的，那我猜是 Roger。」
 
-**关键词**：shatters and metallic guts spill out / not just a charger / It’s a camera / I’m guessing Roger did
+**关键词**：shatters and metallic guts spill out / this isn’t just a charger / It’s a camera / I’m guessing Roger did
 
 **为什么这样写**：说一个充电器有 guts，是这一章第一次让死物带上身体的质感；它被砸出内脏，而这个词随后还会回到 Saskia 攥紧的拳头上。信息分三层给：先说它不只是充电器，再说它是摄像头，最后才点名 Roger——而且用 I'm guessing 收尾，把一桩她显然看得极准的判断降格成猜测，这是她给自己留的退路，也是她整章说话的一贯分寸：知道得很清楚，却从不说满。把称呼换成 Babe 也值得留意，这是她第一次用这样亲昵的词，而它出现的时机是手里握着凶器的时候。
 
