@@ -31,7 +31,7 @@ modified: "2026-10-24"
 
 **中文理解**：Geoff 把烟直直喷到 John 脸上：活着对我们的健康（原文误植为 heath）没好处，Johnny boy，它迟早弄死我们所有人。
 
-**关键词**：blow the smoke / heath / kills all of us
+**关键词**：blew the smoke / heath / kills all of us
 
 **为什么这样写**：在干净的厨房里喷烟是宣示主权，配的台词偏偏是「活着才杀人」——一个正在弄死亲哥哥的人抱怨生活杀人，反讽浓度全篇最高。（原书此句 heath 为 health 之误植，按真值照录，反倒像他的发音。）
 
