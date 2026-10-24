@@ -6,7 +6,7 @@ modified: "2026-10-24"
 # 05. Chapter Five: 1985
 
 ## 本章导航
-- **一句话概括**：1985 年，作者被提拔为罗克韦仅有的两名女性中尉之一，接手 97 街这个既出过英雄、又烂透了的老岗亭；她靠强制演练和逐线巡查立住权威，也在同一年见识了海滩上的帮派、偏执、酗酒，以及一场差点出人命的恶作剧。
+- **一句话概括**：1985 年，作者被提拔为罗克韦仅有的两名女性中尉之一，接手 97 街这个既出过英雄、又烂透了的老岗亭；她靠强制演练和逐线巡查立住权威，也在同一年见识了海滩上的帮派、偏见、酗酒，以及一场差点出人命的恶作剧。
 - **情感弧线位置**：从「被提拔的侥幸」滑向「第一年的紧绷与责任」，再被年尾那场油漆事故推到「我得管住这帮人」的自觉；这是她职业身份的加固期，也是全书从少女玩闹转向职业伦理的转折点之一。
 - **Tropes 兑现/反转**：兑现了「女上司接手一群不服管的男人」的老套路，但反转在于她不靠男性权威，而靠更细的流程、更硬的训练标准和更会说话的沟通；另一个反转是「恶作剧只是玩笑」——本章结尾亲手把它拆掉。
 - **人物弧线**：Janet：从一心想入行的女孩，变成必须为别人的命、也为别人的行为负责的管理者；Stein：只关心门面的现实主义上司；Joe：同级里火药味的样板；Kim：不在同一处、遇事无人可商量的同行；Eileen：年尾那场油漆事故里被付出的代价。
@@ -15,7 +15,7 @@ modified: "2026-10-24"
 ## 精读
 
 > **原句 1:** "Stein was the head of the lifeguard union and the citywide lifeguard coordinator who also worked as a gym teacher in the offseason. We had never met. But I knew if you were called into that office, it usually meant you were about to get disciplined."
-**中文理解**：她被叫进办公室，对面是救生员工会主席兼全市救生员协调人 Stein（淡季还兼任体育老师）；两人素不相识，而她心里很清楚——被叫进那间办公室，通常意味着要被处分。
+**中文理解**：她被叫进办公室；那个说话有分量的人是救生员工会主席兼全市救生员协调人 Stein（淡季还兼任体育老师）。两人素不相识，而她心里很清楚——被叫进那间办公室，通常意味着要被处分。
 **关键词**：citywide lifeguard coordinator / gym teacher / disciplined
 **为什么这样写**：先给头衔，再补一句「淡季还当体育老师」把一个管全城的人拉回常人尺寸；「从没见过面」与「通常意味着要被处分」并置，把作者的紧张写成经验，而不是临场猜测。
 **读者视角提示**：开篇先把「我以为我有麻烦了」摆出来，读者会跟着她紧张；直到下一块才知道是晋升，这个误判本身就把救生员圈的权力感写出来了。
@@ -99,7 +99,7 @@ modified: "2026-10-24"
 **读者视角提示**：这是本章少见的轻松时刻；读者会同时感到两件事：她的现场判断确实老练，而那个年代的海滩本身就是一片没有边界的地方。
 
 > **原句 15:** "Her parents couldn’t wake her up the next morning, so they rushed her to the hospital. The oil paint was toxic and had smothered her overnight. She survived, but she easily could have died."
-**中文理解**：第二天早上她父母怎么也叫不醒她，赶紧送去医院；油性漆有毒，一夜之间闷住了她的呼吸道。她活了下来，但原本极可能死掉。
+**中文理解**：第二天早上她父母怎么也叫不醒她，赶紧送去医院；油性漆有毒，一夜之间把她闷住。她活了下来，但原本极可能死掉。
 **关键词**：oil paint / toxic / smothered her overnight
 **为什么这样写**：三句全是后果，没有一句交代那帮人的动机；「活了下来，但原本极可能死掉」这句把侥幸和后怕并置，让「恶作剧」这个词在读者心里彻底失效。
 **读者视角提示**：本章以这场事故收尾，读者会想起那句「她只是被抹了漆」——作者用一次没死人的死法，把整年的狂欢判了刑。
@@ -114,7 +114,7 @@ modified: "2026-10-24"
 | disciplined | 受到处分 | But I knew if you were called into that office, it usually meant you were about to get disciplined. |
 | wherewithal | 能力；资格 | Debbie had the wherewithal to recommend a more experienced ocean lifeguard than herself, and I appreciated it. |
 | appearances | 门面；表面文章 | He just wanted a token female to keep up with appearances. |
-| relentless | 拼命的；不间断的 | They were relentless. |
+| collapsing | 倒下；瘫倒 | He saved five people altogether before collapsing onshore. |
 | reassigned | 调任；重新分配 | So after all the hubbub died down, Stein reassigned a bunch of the senior guys to different shacks to punish them. |
 | collegiate | 大学的；校队的 | The last lieutenant once made them do a swim drill, and she came in second, only after a male lifeguard who was a collegiate athlete. |
 | antagonistic | 充满敌意的 | He immediately got antagonistic. |
