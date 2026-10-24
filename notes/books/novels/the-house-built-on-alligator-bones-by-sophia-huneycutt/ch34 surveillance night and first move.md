@@ -7,7 +7,7 @@ modified: "2026-10-22"
 
 ## 本章导航
 
-- **一句话概括**：Harrison 八点整敲门，两人按 Gazzie 的嘱咐（找"移动怪异的影子、不该积水处的积水"）驱车去鳄鱼场，把 SUV 藏进刚好挡住主路的沟里，登上三层瞭望塔值夜监视。车程里 Harrison 摊开自己的 OCD 病史与五年前病故的父亲；观察平台上他先说前几天的吻"不是有意"，又称赞叙述者是他"见过的最坚定的人"，并交底"我不会留在这里"。她决定做平生第一次主动，两人在塔上亲近；末了她告诉自己要保持清醒盯入侵者的车灯，却还是睡着了。
+- **一句话概括**：Harrison 八点半敲门，两人按 Gazzie 的嘱咐（找"移动怪异的影子、不该积水处的积水"）驱车去鳄鱼场，把 SUV 藏进刚好挡住主路的沟里，登上三层瞭望塔值夜监视。车程里 Harrison 摊开自己的 OCD 病史与五年前病故的父亲；观察平台上他先说前几天的吻"不是有意"，又称赞叙述者是他"见过的最坚定的人"，并交底"我不会留在这里"。她决定做平生第一次主动，两人在塔上亲近；末了她告诉自己要保持清醒盯入侵者的车灯，却还是睡着了。
 - **情感弧线位置**：本章把紧张从屋内转移到旷野：离开 Greer House 时"心里的结松了"，超自然威胁（Ida、Ironheart）被推到沼泽边缘，浪漫一路升温；但两道裂缝随升温同在——Harrison 的吻撤回与"不能留下"的声明，以及电台预告的热带风暴。结尾的入睡是全章唯一彻底放松的瞬间，也是代价未知的一刻。
 - **Tropes 兑现/反转**：兑现"怪物监视搭档夜巡""告白夜"两件套；反转在主动权——当男方以"我没想亲你"收回吻的意义后，女方掂量完局势亲手做出"平生第一次主动"，追逐的发起方在这一夜里换了人。"车藏进沟、登塔俯视沼泽"让威胁改由环境声承担：蛙鸣、nightbird、逼近的闪电。
 - **人物弧线**：Harrison 首次整体自我揭露：确诊 OCD（童年计数仪式、怕母亲在睡梦中被捂死）、父亲在他大学最后一年病故、他打算离开农场、二十五岁。叙述者从"脱口而出就后悔"走到"我只想他现在留下来"，再到把"make the first move"当作最低成本选项执行；她的身体始终是现场——肺吸不进更多空气、心脏狂跳到"他能感觉到"，连亲密的体位都由心脏决定。
@@ -17,7 +17,7 @@ modified: "2026-10-22"
 
 > **原句 1:** "Harrison knocked on the front door at eight thirty on the dot. Outside, it was still raining, a gray blanket of clouds obscuring the sunset. As I stepped onto the porch, a knot within me loosened; during the car ride, at least, I’d be out of both Ida’s and Ironheart’s grips."
 
-**中文理解**：Harrison 八点整准时敲了前门。外面还在下雨，一层灰色的云毯遮住了落日。她踏上走廊的那一刻，心里有一个结松开了——至少在车程里，她能暂时脱离 Ida 和 Ironheart 双方的掌控。
+**中文理解**：Harrison 八点半准时敲了前门。外面还在下雨，一层灰色的云毯遮住了落日。她踏上走廊的那一刻，心里有一个结松开了——至少在车程里，她能暂时脱离 Ida 和 Ironheart 双方的掌控。
 
 **关键词**：on the dot / knot / loosened / grips
 
@@ -51,7 +51,7 @@ modified: "2026-10-22"
 
 **关键词**：loathed / undeniable / shape-shifting / clogging
 
-**为什么这样写**：分号把对 Ida 的态度劈成并存的半句——"loathed"与"she was family"互不取消。真正的不堪设想留给变形的鳄鱼："couldn't put our hands around or even see"先立起恐惧的性质（无接触面、无轮廓），随后三个 -ing 动词（slipping、sliding、clogging）让这条无形的东西沿"车外→窗缝→口腔→气管"一路推进，想象比在场更具体，恐惧的方向永远是从外部滑进体内。
+**为什么这样写**：分号把对 Ida 的态度劈成并存的半句——"loathed"与"she was family"互不取消。真正的不堪设想留给变形的鳄鱼："couldn’t put our hands around or even see"先立起恐惧的性质（无接触面、无轮廓），随后三个 -ing 动词（slipping、sliding、clogging）让这条无形的东西沿"车外→窗缝→口腔→气管"一路推进，想象比在场更具体，恐惧的方向永远是从外部滑进体内。
 
 **读者视角提示**：留意"family"给出的豁免只属于 Ida 一人；对 Ironheart 她没有豁免逻辑，只有体位想象。本章后段她甚至冒出"愿 Ironheart 把 Harrison 从塔上甩下去"的念头——超自然在她笔下是可以逐件商量的对象，不是一律的敌人。
 
@@ -71,7 +71,7 @@ modified: "2026-10-22"
 
 **关键词**：misread / flirting / raced / planning
 
-**为什么这样写**："thoughts raced" 这个俗套短语被后半句当真了——心率成了紧追的赛跑者，心理打击按运动生理记分。随后两句的反驳全部建立在已完成的动作上（he'd kissed、been flirting、we'd been planning）：证据链是男方的行为，被动摇的却是女方的判断力——"must have" 是她在没有新证据时先判自己输。
+**为什么这样写**："thoughts raced" 这个俗套短语被后半句当真了——心率成了紧追的赛跑者，心理打击按运动生理记分。随后两句的反驳全部建立在已完成的动作上（he’d kissed、been flirting、we’d been planning）：证据链是男方的行为，被动摇的却是女方的判断力——"must have" 是她在没有新证据时先判自己输。
 
 **读者视角提示**："I must have misread" 是自我怀疑不是事实认定；这段引语没有给"不是有意"的任何解释，作者把解释权压到下一大段，读者的憋闷和她的憋闷是同步制造的。
 
@@ -81,7 +81,7 @@ modified: "2026-10-22"
 
 **关键词**：so serious / cutting / professionalism / determined
 
-**为什么这样写**：赞美是从一连串误判的残骸里立起来的——他先移开视线怕她难堪、断定她会要求换回填表或投喂的活，回头却发现局面全非预想；"You're the most determined..." 因此不是平铺的欣赏，是被打脸之后的服气。"so serious" 倒装孤悬在句尾，像回看时定格的一帧；破折号把"开始下刀"和"立刻专业"焊成一个连贯动作，节奏上不给听者预留惊讶的空隙。
+**为什么这样写**：赞美是从一连串误判的残骸里立起来的——他先移开视线怕她难堪、断定她会要求换回填表或投喂的活，回头却发现局面全非预想；"You’re the most determined..." 因此不是平铺的欣赏，是被打脸之后的服气。"so serious" 倒装孤悬在句尾，像回看时定格的一帧；破折号把"开始下刀"和"立刻专业"焊成一个连贯动作，节奏上不给听者预留惊讶的空隙。
 
 **读者视角提示**：这段话紧接在"前几天亲你不是有意"之后——撤回与盛赞在同一段独白里先后出现，本章全部的推拉格局就是这两句的顺序本身。
 
@@ -91,7 +91,7 @@ modified: "2026-10-22"
 
 **关键词**：tied down / sway / the first move / dreamed
 
-**为什么这样写**：破折号插入语把男方整段"我不能留下"的声明压缩成一个已知的既定事实，叙述者由此腾出手掂量另一头——两个动词都很物理："sway him in the other direction" 是重心偏移，"make the first move" 是棋步。"All I had to do was" 把主动权写成最低成本选项，随即用无主语的碎句 "Something I'd never done before..." 把它重新称出真实重量：语法上省略的主语，正是她一直不敢认领的自己。
+**为什么这样写**：破折号插入语把男方整段"我不能留下"的声明压缩成一个已知的既定事实，叙述者由此腾出手掂量另一头——两个动词都很物理："sway him in the other direction" 是重心偏移，"make the first move" 是棋步。"All I had to do was" 把主动权写成最低成本选项，随即用无主语的碎句 "Something I’d never done before..." 把它重新称出真实重量：语法上省略的主语，正是她一直不敢认领的自己。
 
 **读者视角提示**：她把"他言出必真"与"我可以说服他"并列为两个同时成立的判断——若后续他的行为与任一头矛盾，别急着回改她的读人眼光；本章在这里给了她一次完整的、明码标价的权衡。
 
@@ -132,7 +132,7 @@ modified: "2026-10-22"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | bemused smile | 又好笑又无奈的微笑 | He shot me a bemused smile. “Just trying to decide which flaw to share.” |
-| breath | 呼吸；一声（under one's breath：低声地） | He started singing along to the song under his breath. |
+| breath | 呼吸；一声（under one’s breath：低声地） | He started singing along to the song under his breath. |
 | bench | 长凳 | We settled onto a wood bench on the observation porch. |
 
 ## 一句话总结

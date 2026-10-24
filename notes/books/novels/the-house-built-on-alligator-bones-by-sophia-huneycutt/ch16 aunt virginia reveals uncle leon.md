@@ -7,11 +7,11 @@ modified: "2026-10-22"
 
 ## 本章导航
 
-- **一句话概括**：Virginia 姨妈骑车带叙述者去 Main Beach Park，晨谈把 Greer 家的账一页页翻开：Harrison 与这一家相识于一记沙滩球、母亲为逃离农场而建缅因别墅、Gazzie 相信自己时不时看见 Ida，而谈崩处掉出一个 Mama 从未提起的弟弟 Leon——和叙述者一样画画，死于「可怕的事故」。回屋后叙述者细看 Leon 的画，发现每张的主角都是 Ida；她去找 Gazzie 当面问舅舅的事，办公室空无一人。
-- **情感弧线位置**：本章开头的「兵荒马乱的早晨」之后是一段缓慢的松紧交替：晨光与红自行车给第一层松弛，对 Mama 的怨恨让喉咙发紧又转为体谅，沙滩闲谈一路变沉，在「看见 Ida」与 Leon 之死两处骤然收口；岸上趴着不动的短吻鳄松开一小口气，章末空办公室与瞪回来的肖像把不安留在原地。
-- **Tropes 兑现/反转**：兑现慈祥长辈作信息渡口、海边作为家族史讲述场合、归乡者逐渐拼出血亲谱系这一套；「鬼」从理性者嘴里第二次经手（imaginary Ida）。反转在讲述效果：姨妈的每处安抚（一句 sometime、一个补出来的 Slips）反而各开出一个更大的空白——一场事故、一个被瞒了多年的舅舅、一个从十八岁起就没离开过农场的人。
-- **人物弧线**：叙述者从怨恨 Mama 的隐瞒，走到能替她设想动机（不忍把自己暴露给 Gazzie 的冷漠），也第一次学会把自己的问题放进别人的时间表——看出姨妈下唇紧抿就不再多逼。Harrison 经讲述获得「golden boy」的缺席在场：把问题变成机会的人、她永远成不了的那种人。Virginia 姨妈由幽默（拿病情开涮）、礼数（把亡母数落会客的好手）与调停姿态（想让叙述者继承，又不想让 Harrison 与她互相为敌——A real peacekeeper）立起来。
-- **叙事手法**：本章信息主要由对话承载，而讲述段落多被身体反应作括号：rubbed her temples、sucked in a tight breath、blinked rapidly、voice choked with emotion——身体先承认，话才出口。叙述者的理性化本能反复上演（早晨是梦、看到的是真人、坏虾致幻；对 Greer House 的 electric hum 冒出「was that her?」的猜测，也被她一个词 Ridiculous 掐断）。比喻取自宗教与虫豸（岛是教堂、鳄鱼似黄蜂鼍似蜜蜂）。场景对仗撑住结构：晨光是 old horror film 的 Greer House，海滩却 could have been a painting。
+- **一句话概括**：Virginia 姨妈骑车带叙述者去 Main Beach Park，晨谈把 Greer 家的账一页页翻开：Harrison 与这一家相识于一记沙滩球、母亲为逃离农场而建缅因别墅、Gazzie 相信自己时不时看见 Ida，而讲到继承人链时失口带出一个 Mama 从未提起的弟弟 Leon——姨妈红了眼眶却把话讲完；这个舅舅和叙述者一样画画，死于「可怕的事故」。回屋后叙述者细看 Leon 的画，发现每张的主角都是 Ida；她去找 Gazzie 当面问舅舅的事，办公室空无一人。
+- **情感弧线位置**：本章开头的「兵荒马乱的早晨」之后是一段缓慢的松紧交替：晨光与红自行车给第一层松弛，对 Mama 的怨恨让喉咙发紧又转为体谅，沙滩闲谈一路变沉——她还在 :120 主动交出全章最软的一句（「第一个让我觉得自己正常的地方」），随即又把话收回半步（Most of the time, at least.），紧接着 Leon 才掉下来；在「看见 Ida」与 Leon 之死两处骤然收口；岸上趴着不动的短吻鳄松开一小口气，章末空办公室与瞪回来的肖像把不安留在原地。
+- **Tropes 兑现/反转**：兑现慈祥长辈作信息渡口、海边作为家族史讲述场合、归乡者逐渐拼出血亲谱系这一套；「鬼」从理性者嘴里第二次经手（imaginary Ida）。反转在讲述效果：姨妈的每处安抚（一句 sometime、一个补出来的 Slips）反而各开出一个更大的空白——一场事故、一个被瞒了多年的舅舅、一个被问到会不会离开时只答 Never 的人。
+- **人物弧线**：叙述者从怨恨 Mama 的隐瞒，走到能替她设想动机（不忍把自己暴露给 Gazzie 的冷漠），也第一次学会把自己的问题放进别人的时间表——看出姨妈下唇紧抿就不再多逼。Harrison 经讲述获得「golden boy」的缺席在场：把问题变成机会的人、她永远成不了的那种人。Virginia 姨妈由幽默（拿病情开涮）、礼数（以自己那位逝去的长辈立待客的规矩，反衬自己这周怠慢了客人——:57；句中 Mama 的指代本章未定）与调停姿态（想让叙述者继承，又不想让 Harrison 与她互相为敌——A real peacekeeper）立起来。
+- **叙事手法**：本章信息主要由对话承载，而讲述段落多被身体反应作括号：rubbed her temples、sucked in a tight breath、blinked rapidly、voice choked with emotion——身体先承认，话才出口。叙述者的理性化本能反复上演（早晨是梦、看到的是真人、坏虾致幻；对 Greer House 的 electric hum 冒出「was that her?」的猜测，也被她一个词 Ridiculous 掐断）。这套理性不是自立的，是继承来的——反鬼的信念她明写记在母亲名下（:147 at least according to my mother），用的词还是本地的 Haints；而同段末尾她替外婆的旧行为补了一条因果（must have thought… that’s why she’d been so eager to investigate），那是她的推断，不是文本给的解释。比喻取自宗教与虫豸（岛是教堂、鳄鱼似黄蜂鼍似蜜蜂）；:204→:210 又用一句「Ida 是那个长相古怪的玩偶」把餐厅那幅画认了出来。场景对仗撑住结构：晨光是 old horror film 的 Greer House，海滩却 could have been a painting。
 
 ## 精读
 
@@ -21,7 +21,7 @@ modified: "2026-10-22"
 
 **关键词**：throat swelled / resented / isolating / concealing / coldness
 
-**为什么这样写**：怨恨的宾语是两个动名词——隔离（"isolating"）与隐瞒（"concealing"）——而不是人，这笔账因此有精确的名目。紧接着那句 "I could imagine a world in which"（我能想象出这样一个世界）不宣布母亲当年为何隐瞒，只搭建一个「她也可能是不忍」的可能世界——体谅被写成假设而非事实，正是怨恨松动的诚实形状。"coldness"（冷漠）不给事件只给温度，Gazzie 的为人第一次由体感定义。
+**为什么这样写**：`resented` 的宾语仍是人（Mama），但两桩控罪被装进 `for`＋两个动名词里——她恨的不是血缘身份，是可数的两项作为，这笔账因此有精确的名目。紧接着那句 "I could imagine a world in which"（我能想象出这样一个世界）不宣布母亲当年为何隐瞒，只搭建一个「她也可能是不忍」的可能世界——体谅被写成假设而非事实，正是怨恨松动的诚实形状。"coldness"（冷漠）不给事件只给温度，Gazzie 的为人第一次由体感定义。
 
 **读者视角提示**：extended family 点明被隐瞒的是母系这一支。带着 coldness 这个词往下读，观察 Gazzie 的言行是否配得上它——这个由推测立起的判词后面还在被证据反复过堂。
 
@@ -33,11 +33,11 @@ modified: "2026-10-22"
 
 **为什么这样写**："started our conversation with assault"（这场对话开场是一次袭击）与 "ended it accepting a job offer"（收场是接下工作邀约）把整个相识压进一场对话的两个端点，袭击与录用这对不搭界的事被并置成喜剧——这就是 Virginia 叙述 Harrison 的声口：表面数落，实际是夸。"Came back"（又回来过）省略主语、像讲过很多遍的段子；两个暑假（"two summer breaks"）、大学毕业（"graduated"）、正式搬来（"officially"）三拍递进，把「一个外姓人怎样长进这座岛」讲完。
 
-**读者视角提示**：这段引语里 her 的指代要靠上文补出（Gazzie），Henri 出现而不解释——先记住这两个坐标。叙述者紧接着给了一句 Sounds like Harrison——判断这个人，用别人讲的段子就够，这是她此刻的处境。
+**读者视角提示**：这段引语里 her 的指代要靠上文补出（Gazzie）。Henri 并非首次出场：ch04:234 由 Nova 亲口介绍（她的女友、烘焙坊主人）；此处正是当年被 Harrison 坚持送回的那户人家。叙述者紧接着给了一句 Sounds like Harrison——判断这个人，用别人讲的段子就够，这是她此刻的处境。
 
 > **原句 3:** "Our mother had it built to get away. She hated the farm, let Gazzie take over officially when she was eighteen. Only a year after Ida died."
 
-**中文理解**：是我们的母亲把它建起来用以出逃的。她恨这座农场，在 Gazzie 十八岁那年正式把农场交接给了她。那只比 Ida 的死晚一年。
+**中文理解**：是我们的母亲把它建起来用以出逃的。她恨这座农场，在「她十八岁」那年正式交给 Gazzie 接手——这个 she 本章未定。那只比 Ida 的死晚一年。
 
 **关键词**：built / get away / hated the farm / eighteen
 
@@ -51,9 +51,9 @@ modified: "2026-10-22"
 
 **关键词**：imaginary / stressed / tipped upside down
 
-**为什么这样写**：破折号里的 "imaginary"（想象出来的那个）是 Virginia 的处理术：先把「看见」从外部事件降级为内部状态，再给出机制——"shows up"（现身）标出触发条件、"It got worse"（变得更糟）标出恶化节点、"tipped upside down"（被掀了个底朝天）标出失稳的幅度，三步层层向内。"your mother"（你母亲）而非 Caroline 把叙述者留在家庭称呼圈内，同时提醒：被谈论的死者与生者都还在这段对话的射程里。
+**为什么这样写**：破折号里的 "imaginary"（想象出来的那个）是 Virginia 的处理术：先把「看见」从外部事件降级为内部状态，再给出机制——"shows up"（现身）标出触发条件、"It got worse"（变得更糟）标出恶化节点、"tipped upside down"（被掀了个底朝天）标出失稳的幅度，三步层层向内。"your mother"（你母亲）而非 Caroline 把叙述者留在家庭称呼圈内，同时提醒：被谈论的死者与生者都还在这段对话的射程里。而这条信息不是自动交代的：叙述者先替 Virginia 记下一笔「她暗示过她知道我早上看见的东西」（:138 那句 had hinted 属她自己的读法，原文没给 Virginia 暗示的话），再试探着把话挑明（:141），对方揉太阳穴、深吸一口气——像在给自己壮胆（:144）——才给出那句判词。而 Virginia 讲到这段时也停住了：`Though by then, he’d— Well, you know.`（:168）——她以为这孩子知道；于是下文的 `I don’t know a Leon`（:180）才是把 Virginia 打到「Caroline 真的一事未告」（:183）的那一击。`he’d—` 之后是什么，原文刻意停在这里，不作裁决。
 
-**读者视角提示**：紧接的下文里，Virginia 讲到 Gazzie 偶尔「just—」然后摇头补一个 Slips。理性化修辞撑到最后只立得住一个词——滑出去的那个瞬间是鬼还是崩溃，本章不下判词。
+**读者视角提示**：上文 :162 里 Virginia 说到「occasionally she just—」就摇头，只补出一个 `Slips`；中间还夹着她自己那句如释重负的确认（:165），所以 :168 的 `imaginary Ida` 是被追加的降级，不是顺势的解释。理性化修辞撑到最后只立得住一个词——滑出去的那个瞬间是鬼还是崩溃，本章不下判词。
 
 > **原句 5:** "My thoughts jumped to the sullen boy in Mama’s Polaroid pictures. Another secret, kept from me for years. I felt the same mix of emotions I had when I’d found the letter."
 

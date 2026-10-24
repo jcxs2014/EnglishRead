@@ -7,11 +7,11 @@ modified: "2026-10-22"
 
 ## 本章导航
 
-- **一句话概括**：Dart 上农场的第一天被 Harrison 提议成「数字化档案」：Gazzie 抬眼之际天花板裂缝滴水成流，加工区一侧的门全部上锁，Nova 单词作答并转述 Virginia 定的规矩——2009 年以前的文件可以直接扔。Dart 把这套安排读成 Gazzie 传话「你不是一员」，又把锁门、严格规定与自己偷听到的匆忙对话拼成证据，断定 Greer Fine Alligators 遇上了麻烦，赌「证明有用」能换来内情。
+- **一句话概括**：Dart 上农场的第一天被 Harrison 提议成「数字化档案」：Gazzie 抬眼之际天花板裂缝滴水成流，加工区一侧的门全部上锁，Nova 单词作答并转述 Virginia 定的规矩——2009 年以前的文件可以直接扔；等对方涂润唇膏的当口，她转去盯墙上的 Ida 画像，认定距上次相见以来画像上的笑更明显了（Again／Since the last time 明说这不是第一次）。Dart 把这套安排读成 Gazzie 传话「你不是一员」，又把锁门、严格规定与自己偷听到的匆忙对话拼成证据，断定 Greer Fine Alligators 遇上了麻烦，赌「证明有用」能换来内情。
 - **情感弧线位置**：起点是温的——Gazzie 在车旁等她、毫无怨言；随后 Harrison 的授权宣布、档案室的放逐把温度一级级抽走，霉味房间里「You’re not one of us」跌到羞耻的底部；结尾的赌注式决心把情绪折成向上的算计。全章的波澜都被压在「收集证据」这层理智下面。
-- **Tropes 兑现/反转**：兑现「家族产业内部对手」：Harrison 的地位被 Gazzie 当众坐实（What he says goes），管理层的敌意摆上台面；「上锁的加工区＋缺失的档案」把悬疑装置从住宅搬进农场。反转在发落者的位置：把 Dart 支开的不是 Gazzie 而是雇员 Harrison，说明农场真正的运转握在中层手里，祖母亲的注意力只是最后一道章。
+- **Tropes 兑现/反转**：兑现「家族产业内部对手」：Harrison 的地位被 Gazzie 当众坐实（What he says goes），管理层的敌意摆上台面；「上锁的加工区＋缺失的档案」把悬疑装置从住宅搬进农场。反转在归因的方向：Dart 把支开自己的责任算到 Harrison 头上（He’d suggested a task that would keep me away from her 是她的推断），而本章的命令、锁与禁令仍全部署在 Gazzie 名下——两套归因同章并存，未被调和。
 - **人物弧线**：Dart 的自我定位一日内反复：点头装出「只是顺路搭车」的样子，下一秒就忍不住对 Harrison 眯眼；想学生意，却把「公司创立于 1800 年代末」这类常识抬高嗓门说给 Gazzie 听，盼被看见。收束在「If I proved my usefulness」——她再次把自我价值登记成一桩待兑换的交易。
-- **叙事手法**：Nova 用无起伏的单音节对白与 Princess Diana’s ghost 的荒诞假设完成低温喜剧化；滴水句 as though her attention had made it worse 把因果和征兆写成同一句。叙述者的解读习惯推动全章——sending a message、That settled it——她在证据缺口上替读者解码，解码的确定感与依据的稀薄构成张力。
+- **叙事手法**：Nova 的 Yes／No 式单词作答、She spoke without inflection 的平调，与 Princess Diana’s ghost 的荒诞假设一起完成低温喜剧化；滴水句 as though her attention had made it worse 把因果和征兆写成同一句。叙述者的解读习惯推动全章——sending a message、That settled it——她在证据缺口上替读者解码，解码的确定感与依据的稀薄构成张力。
 
 ## 精读
 
@@ -21,7 +21,7 @@ modified: "2026-10-22"
 
 **关键词**：crack / bead / steady stream / attention
 
-**为什么这样写**：镜头跟着 Gazzie 的仰视走——视线先行，裂缝是被「看」出来的。水量按时间单位三级升级："A bead of water" 是一滴渗下、"then another" 是又一滴、"it was a steady stream" 是几秒内连成的水流，三个刻度把一场小漏写成倒计时。"as though her attention had made it worse"（好像她的注视反而让它更糟）是全章最暧昧的半句：它既是 Dart 的自嘲式归因（我一抬头它就变本加厉），又像在给房子留一个「有反应」的接口——本章 Dart 自己给出的判词是 "Nature just seemed intent on interfering with the property"（自然仿佛存心跟这处房产作对），水、藻、裂缝在这里都是有意志的原告。
+**为什么这样写**：镜头跟着 Gazzie 的仰视走——视线先行，裂缝是被「看」出来的。水量按时间单位三级升级："A bead of water" 是一滴渗下、"then another" 是又一滴、"it was a steady stream" 是几秒内连成的水流，三个刻度把一场小漏写成倒计时。"as though her attention had made it worse"（好像她的注视反而让它更糟）是全章最暧昧的半句：它既像 Dart 替 Gazzie 记下一笔自嘲（她一抬头，漏势就变本加厉），又像在给房子留一个「有反应」的接口——本章 Dart 自己给出的判词是 "Nature just seemed intent on interfering with the property"（自然仿佛存心跟这处房产作对），水、藻、裂缝在这里都是有意志的原告。
 
 **读者视角提示**：留意这漏水发生在办公室正中央、Gazzie 脚边——破洞不在远处的棚舍，而在权力的桌面上；后面所有「农场一切正常」的场面话都从这摊水上走过去。
 
@@ -31,7 +31,7 @@ modified: "2026-10-22"
 
 **关键词**：missing / consolation / throw out / dig back
 
-**为什么这样写**："even with so much missing"（就算已经少了这么多）是本句唯一一处泄露：Nova 默认「缺」是既定事实，却无人解释缺了什么、谁弄缺的——本章早前 Dart 追问「生意不是 1800 年代末创立吗，文件不该更多吗」，得到的也只有 Nova 一句干巴巴的 "Yeah."。扔文件的尺度不是价值而是稽查回溯期："dig back more than ten years"（往回查十年以上）把历史切成两摞——税务局够得着的与够不着的，前者要扫描，后者进垃圾堆。这条规矩的出处用 "Virginia said" 转述，档案室的实际行政命令出自 Virginia，Gazzie 反而不在规则链里。
+**为什么这样写**："even with so much missing"（就算已经少了这么多）是本句唯一一处泄露：Nova 默认「缺」是既定事实，却无人解释缺了什么、谁弄缺的——本章早前 Dart 追问「生意不是 1800 年代末创立吗，文件不该更多吗」，得到的也只有 Nova 一句干巴巴的 "Yeah."。扔文件的尺度不是价值而是稽查回溯期："dig back more than ten years"（往回查十年以上）把历史切成两摞——税务局够得着的与够不着的，前者要扫描，后者进垃圾堆。这条规矩的出处用 "Virginia said" 转述（Nova 自己给它加了个「大概」）；而本章真正的规则链以 Gazzie 为终点——「上锁」与「不许乱走」两条都直接归给她（Gazzie’s orders）。同一场转述里还藏着 Virginia 对 Gazzie 行使过的一次实权：近二十年定期记账是 Virginia 逼出来的，时点在买下两座分场之际——Nova 紧接着自补 Or so she said. I wasn’t around then.
 
 **读者视角提示**：Nova 说这些时毫无起伏（She spoke without inflection）。凡是平静语气交付的异常信息，都值得怀疑农场里的人早已习惯到什么程度。
 
@@ -53,7 +53,7 @@ modified: "2026-10-22"
 
 **为什么这样写**：That settled it / it was obvious 用两个斩钉截铁的短句，给一串全是雾的判断盖章——some sort of trouble 连麻烦的形状都没有。证据清单的构成方式值得逐条看：转述的话、偷听的只言片语、门锁、规章，没有一条是事件的直接记录，全部是禁止接近某样东西的痕迹。本章早先 Nova 说过 There’ve been accidents in the past，禁令与缺失在此句里被并成「 obvious」。末句把本章真正的动机亮出来：Dart 打算用数字化档案这种无用功把自己兑换成知情者——她进入谜团的方式是递交投名状。
 
-**读者视角提示**：记住这个等式（有用＝可被坦白）。后面 Gazzie 每多给一分信任，都会牵动这条交换是否兑现。
+**读者视角提示**：记住这个等式（有用＝可被坦白）——本章它落在 If I proved my usefulness 这一句上；后文 Gazzie 若给出信任，先回这一句对表。
 
 ## 本章词汇
 

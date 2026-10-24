@@ -8,10 +8,10 @@ modified: "2026-10-22"
 ## 本章导航
 
 - **一句话概括**：Mama 刚下葬，叙述者在厨房垃圾里翻出一封来自佛罗里达 Fernandina Beach、署名 Gazzie Greer 的信，和一张撕成两半的 30,000 美元支票；信中称她「my girl」、说要见孙女。她用搜索引擎查到 Greer 家是经营百年的鳄鱼养殖场网络，以 Caroline Beaumont 之女 Dartrine 的名义发了回信，又从垃圾堆深处摸出一张持步枪女人画像的复制卡——她确认 Mama 瞒了她三十二年，也第一次把自己算进「Greer 家的人」。
-- **情感弧线位置**：葬礼当天。从面对垃圾与尸位空缺的钝痛，被一封信拧成两股相反的力量：「我不是世界上孤零零一个人」的希望，和「Mama 对我撒了三十二年的谎」的背叛；照顾时的不情愿与最后一次大吵翻出的愧疚夹在中间。章末情绪落到主动——她按下 Send，把「One of the Greers」念出声。
+- **情感弧线位置**：葬礼当天。从面对垃圾与尸位空缺的钝痛，被一封信拧成两股相反的力量：「我不是世界上孤零零一个人」的希望，和「Mama 对我撒了三十二年的谎」的背叛——母女的家规本是「对外人戴假面，对家里人说真话」，破这条规矩的恰恰是 Mama 自己，她瞒掉的出身具体是「生在福利寄养系统」和「除了嫁来的姓没有真姓」两件事；照顾时的不情愿与最后一次大吵翻出的愧疚夹在中间。章末情绪落到主动——她按下 Send，在心里把「One of the Greers」说了一遍。
 - **Tropes 兑现/反转**：兑现「葬礼后翻出旧信」「被隐瞒的家族」「突如其来的钱」这套遗产文开场；钱是撕成两半的 30,000 美元，收信人已经死了，迟到的补偿先挨了一刀。反转在家族产业的质地：等着她的不是种植园大宅，而是鳄鱼养殖场网站首页一只眼睛发着琥珀光的水下鳄鱼，和一位抱着步枪的维多利亚女士画像。
 - **人物弧线**：叙述者在本章交代的起点是一个被管了二十年的看护者：Mama 只准她走读上大学、坐办公室挣钱，最后的争吵争的就是「我能不能管自己的生活」。本章她做了第一次违逆死者的主动行动——撒谎说「我母亲一定想让我们见面」，发出回信，并给自己添上新姓：「I was Dart Greer, too」。
-- **叙事手法**：第一人称追述，但视角严卡在当天的厨房里：没有目击的场面全部由物件倒推——信封邮戳、皱的信纸、两张支票残片、垃圾最深处一张画像复制卡。信的正文整段照录，不经叙述者改写；她的推理用「which meant… which meant…」的连锁句摊开给读者看，同一封里也承认「I had no other guesses」——推断的边界被明写出来。
+- **叙事手法**：第一人称追述，但视角严卡在当天的厨房里：没有目击的场面全部由物件倒推——信封邮戳、皱的信纸、两张支票残片、垃圾最深处一张画像复制卡。信的正文整段照录，不经叙述者改写；她的推理用「which meant… which meant…」的连锁句摊开给读者看，而信外的叙述层里，她也承认「I had no other guesses」——推断的边界被明写出来。
 
 ## 精读
 
@@ -31,7 +31,7 @@ modified: "2026-10-22"
 
 **关键词**：sprawling / ripped / overdue / raspberries
 
-**为什么这样写**：倒装句把东西先砸到读者面前，人还没反应，钱已经落地。支票不是「一张」而是「two halves」——撕开又被人捡回来收着的残片，撕痕本身成了 Mama 情绪的物证。随后三句是一串家庭账本：年薪、医疗费、护士，最后落到 raspberries 这种小得不成比例的享受，30,000 美元对这个家的真实重量全靠这个落差称出来。
+**为什么这样写**：倒装句把东西先砸到读者面前，人还没反应，钱已经落地。支票不是「一张」而是「two halves」——两半撕开的残片，撕痕本身成了 Mama 情绪的物证。随后三句是一串家庭账本：年薪、医疗费、护士，最后落到 raspberries 这种小得不成比例的享受，30,000 美元对这个家的真实重量全靠这个落差称出来。
 
 **读者视角提示**：这封信和支票是一起被扔进垃圾的。本章稍后叙述者会用「信纸皱得像被反复摸过、信封邮戳却只有两周」这对不上号的细节，推出 Mama 手术前就收到了信——钱的数目和人情的数目在她心里同时开工，读到后面的推理可以对照这条时间线。
 
@@ -53,17 +53,17 @@ modified: "2026-10-22"
 
 **为什么这样写**：家族的姓氏在这里第一次以工商登记的面目出现：1892、more than 125 years、Jacksonville——三个具体的年份、数字、地名，正是叙述者随后说「It seemed real enough」的凭据。主语是 we，而读网页的她还站在「we」之外：她此刻的身份是搜索者，不是继承人。select tourists、exclusive private 两个限定词把这门生意的入口收得很窄，和后面「no client list, no testimonials」的缺项呼应——网站像一个半开的门。
 
-**读者视角提示**：叙述者自己的行当在同一章里给了参照：她供职的营销公司专做动物福利类非营利机构，连水貂避难养殖场都做过——所以「我 knew all kinds of farms existed」是职业判断，「How horrifying」是职业判断失灵的声音，两句的距离可以当人物刻度用。
+**读者视角提示**：叙述者自己的行当在同一章里给了参照：她供职的营销公司专做动物福利类非营利机构，连水貂避难养殖场都做过——所以「我 knew all kinds of farms existed」是职业判断，「How horrifying」是职业判断失灵的声音，两句的距离可以当人物刻度用。网页「It seemed real enough」之后，背叛感才真正落地：她与 Mama 的家规是「whatever false fronts we put on for outsiders, we told the truth to family」，而 Mama 在这里恰恰编了假出身——生在福利寄养系统、除了嫁来的姓没有真姓。她在一串替 Mama 找理由的「Maybe」之后，还有一个换了人称的声音：「a familiar voice」说出「that bitch wanted to keep you all to herself」，这是她内在敌意的第一次到场。
 
 > **原句 5:** "In the foreground stood a woman wearing an old-fashioned maroon dress, complete with a tight bodice and poofy skirt. Her right hand grasped a wooden rifle barrel, its stock disappearing into overgrown grass."
 
-**中文理解**：画面前景站着一个女人，穿老式酒红长裙，紧身胸衣、蓬蓬裙一样不缺。她右手攥着一支步枪的木质枪管，枪托没入一人深的荒草里。
+**中文理解**：画面前景站着一个女人，穿老式酒红长裙，紧身胸衣、蓬蓬裙一样不缺。她右手攥着一支步枪的木质枪管，枪托没入荒草里。
 
 **关键词**：foreground / bodice / rifle / overgrown
 
-**为什么这样写**：视线按读画的规矩走：前景—人—手—手里那件东西的去处。disappearing into overgrown grass 让枪的一部分藏进草丛，读者由此知道这不是摄影棚摆拍，是真实水边的草；而紧胸衣蓬蓬裙的「lady」与步枪并排放着，叙述者自己的评论替读者说出了不安：「Ladies in old-fashioned portraits didn’t pose with rifles.」垃圾深处翻出的这张 PPS 附图，在本章被钉上一个名字——「I decided she must be Ida, whoever that was」，画像比信早一步有了归属，又立刻被 whoever that was 取消归属。
+**为什么这样写**：视线按读画的规矩走：前景—人—手—手里那件东西的去处。disappearing into overgrown grass 让枪的一部分藏进草丛，读者由此知道这不是摄影棚摆拍，是真实水边的草；而紧胸衣蓬蓬裙的「lady」与步枪并排放着，叙述者自己的评论替读者说出了不安：「Ladies in old-fashioned portraits didn’t pose with rifles.」垃圾深处翻出的这张 PPS 附图，在本章被钉上一个名字——「I decided she must be Ida, whoever that was」；名字其实是信里的 PPS 先给的（「a small print of Ida’s portrait」），画像的归属因此排在信之后，而 whoever that was 悬着的是「Ida 是谁」，不是这张画像归谁。
 
-**读者视角提示**：叙述者到章末才复盘藏匿位置的差异：信只是「扔在垃圾」，画像却被塞到垃圾堆深处（「she’d barely hidden the letter, she’d stuffed the portrait deep in the trash」）。藏的位置也是信息——本章最后一封「回信」将由这个位置差异发起。
+**读者视角提示**：叙述者到章末才复盘藏匿位置的差异：信只是「扔在垃圾」，画像却被塞到垃圾堆深处（「she’d barely hidden the letter, she’d stuffed the portrait deep in the trash」）。藏的位置也是信息——只是她到章末才回头想到这一层（「At the time, I didn’t consider…」），而那时回信已经发了出去。
 
 ## 本章词汇
 

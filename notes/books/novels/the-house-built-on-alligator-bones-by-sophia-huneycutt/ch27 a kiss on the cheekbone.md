@@ -10,7 +10,7 @@ modified: "2026-10-22"
 - **一句话概括**：Nova 对峙的五分钟后，Harrison 带着 Gazzie 的"救援命令"冲进来，把她用消防式扛人一路带回 Greer House 的卧室——放水、背身、掖被；他翻看了她的速写本，憋出一句"画很美"，让她二十多年来第一次面对来自外面的 beautiful，甚至开始怀疑那些甲虫、负鼠和蛆也许只是如实描绘、不是道德缺陷；她将睡未睡时，Harrison 在她颧骨上印下一个他权衡过的吻，然后离开——可她还没沉进幸福，Nova 的话又响起来：那么一说，"她是个杀手"听起来就和 Mama 谈论我的时候一模一样。
 - **情感弧线位置**：本章的起点是 "Five minutes later"——一场大对峙的五分钟之后；随后给 Dart 一段密集的照护、夸赞与亲吻：暖意、发晕、脸上腾的血色，身体反应把情绪线推到高处；结尾两句回环又把它整个拖回去——"被疼惜"与"我可能就是那个怪物"被放进同一张床上过夜。
 - **Tropes 兑现/反转**：兑现"damsel in distress"桥段——原文里 Gazzie 的话亲自把这个模板送来（"a damsel in distress needed a big strong man"），Harrison 也确实把人扛走了；兑现 rivals-to-lovers——"Rivals or not, I felt better with him beside me." 是明写的自供。反转在吻的位置：他不是在她醒着、面对面时吻她，而是趁她迷迷糊糊，吻落在颧骨上，她只能靠掐掌心的痛确认它真实发生过；第二处反转在结尾：救援叙事被凶案判词吞掉，"杀手"一句绕过了待救的人，指向了她自己。
-- **人物弧线**：Dart 与 Harrison 的关系在本章从对手滑向被照顾者，她承认他身边更安心；她的画第一次有了观众——自打 Mama 把她从学校接出来，二十多年没人看过、没人夸过，如今有人建议送画廊，她开始重新给画定性：depiction，不是 moral failing。她给自己的验证方式仍是同一套：掐进掌心，用痛感确认现实。
+- **人物弧线**：Dart 与 Harrison 的关系在本章从对手滑向被照顾者，她承认他身边更安心；她的画二十多年来第一次被人夸——自打 Mama 把她从学校接出来，除了 Mama，别人只看到过一眼半眼，而 Mama 从没说过它美；如今 Harrison 建议送画廊，她开始重新给画定性：depiction，不是 moral failing。她给自己的验证方式仍是同一套：掐进掌心，用痛感确认现实。
 - **叙事手法**：情绪全程交给触觉：fingertips 按脉搏、脸距几英寸、扛人时按在腿上的手、掖好的被子、擦过颧骨的软——对白停在 "I’m fine" / "Heart okay?" 的安全面上。Harrison 的内心永远比 Dart 的猜测慢半拍显现（"like he was searching for the answer to a question he hadn’t asked"、Chagrined、"A little flustered, even."），读者只能透过她的转述读他。结尾改用回环引用：两句 "Put it that way…" 给回响起的两段电话原话逐条配评语，把全章落点钉回 "me"。
 
 ## 精读

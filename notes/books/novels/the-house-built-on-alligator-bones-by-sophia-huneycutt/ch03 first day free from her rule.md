@@ -7,11 +7,11 @@ modified: "2026-10-22"
 
 ## 本章导航
 
-- **一句话概括**：Mama 去世后的第一个周四，叙述者把「没有管束的第一天」过成了一场「证明自己正常」的考试：答应 Laura Leigh 攒了两年的 happy hour 邀约，在洗手间涂歪偷买的红口红，躲进隔间听见 The Girls 拿她的丧母和脸色轮流开涮，又把 Laura Leigh 的每次解围听成友情；她在水池边改口退了聚会，在停车场对着无人回信的邮箱嘶吼砸方向盘，靠 Forsyth Park 的速写本把自己哄回「我只是不习惯社交」，当晚回到公寓门口——一位白发女人唤着她的全名 Dartrine 开口，自称她的 great-aunt Virginia，说收到 email 后开车两小时直接找上门。
+- **一句话概括**：Mama 去世后的第一个周四，叙述者把「没有管束的第一天」过成了一场「证明自己正常」的考试：答应 Laura Leigh 攒了两年的 happy hour 邀约，在洗手间涂歪偷买的红口红，躲进隔间听见 The Girls 拿她的丧母和脸色轮流开涮，又把 Laura Leigh 的每次解围听成友情；她在水池边改口退了聚会，在停车场对着无人回信的邮箱嘶吼砸方向盘，在 Forsyth Park 的橡树下画了一页「生活下腹部」——吃自己呕吐物的博美、挤下巴痘的中年女人、碾死甲虫的女孩——靠速写本把自己哄回「我只是不习惯社交」，当晚回到公寓门口——一位白发女人唤着她的全名 Dartrine 开口，自称她的 great-aunt Virginia，说收到 email 后开车两小时直接找上门。
 - **情感弧线位置**：从「optimistic」出发一路下探：隔间偷听是公开屈辱，电梯对话是体面崩塌，车里嘶吼是全章谷底；Forsyth Park 的自愈把情绪抬平成「不算大事」，章末门口这位不请自来的亲戚又把它顶成惊愕——本章结尾不是好转，是被打断。
 - **Tropes 兑现/反转**：兑现「洗手间隔间里偷听到自己是被议论的对象」这一职场羞辱标配，也兑现「最甜的人补最准的刀」：开口替她说话的 Laura Leigh 最后给出 Repressed 的标签。反转在寻亲线的抵达方式：她查了两次邮箱都石沉大海，回音却以「人直接出现在门口」的形式送到，而且先到的是 Virginia 这位 great-aunt。
-- **人物弧线**：她对「正常」的定义本章换了三次手：先用美妆教程和杂志攻略模仿正常人，再在偷听中接受「awkward and off-putting, my mother’s homebound creature」这个外界版本，最后在水池边咽下刻薄话、改口说「Actually, I can’t make it tonight」——第一次自己决定怎么退场。同一章里，同事叫她 Dart，门口的女人叫她 Dartrine：两个名字来自两个她都想进入的世界。
-- **叙事手法**：办公室线全靠「听」：隔间门缝里进来的只剩声音和一件 lavender 毛衣的颜色；所有刻薄话都带转述标签「Sarah from sales」「Sarah from accounting」，偷听者听得出部门，读者才数得清人。寻亲线全靠「查」：Between meetings 查一次、Honda 前排再查一次，两处都是无回音，静默攒到章末由一句 Southern accent 一次性兑付。章末的自我安慰（「I’d overreacted. I just wasn’t used to socializing.」）被原样呈现为过程而不是结论。
+- **人物弧线**：她对「正常」的定义本章换了三次手：先用美妆教程和杂志攻略模仿正常人，再在偷听中接受「awkward and off-putting, my mother’s homebound creature」这个外界版本，最后在水池边咽下刻薄话、改口说「Actually, I can’t make it tonight」——第一次自己决定怎么退场。那一页画还是她的自陈：五年级的美术老师——在她转成在家自学之前，唯一留意过她的老师——教她画「像蜱虫一样叮在脑子里的图像」，她由此承认自己着迷的是 life’s underbelly，也知道自己的画「不正常，近乎病态」。同一章里，同事叫她 Dart，门口的女人叫她 Dartrine：两个名字来自两个她都想进入的世界。
+- **叙事手法**：办公室线全靠「听」：隔间门缝里进来的只剩声音和一件 lavender 毛衣的颜色；刻薄话只有一部分带转述标签「Sarah from sales」「Sarah from accounting」，另几句（「Like she’s got food poisoning?」「She was weird way before her mother died.」）连说话人是谁都不给——数不清人正是这段的效果。寻亲线全靠「查」：Between meetings 查一次、Honda 前排再查一次，两处都是无回音，静默攒到章末由一句 Southern accent 一次性兑付。章末的自我安慰（「I’d overreacted. I just wasn’t used to socializing.」）被原样呈现为过程而不是结论。
 
 ## 精读
 
@@ -41,7 +41,7 @@ modified: "2026-10-22"
 
 **关键词**：sewers / fainted / loafers / core strength
 
-**为什么这样写**：屈辱在这段被拆成一串可执行性问题：想消失（淹进 sewers 都比面对外面好），但消失方案被「晕倒会出声」否掉；缩小存在感的备份方案（抬脚藏 loafers）又被体能否掉——宏大的自我毁灭愿望和抬不住一双鞋之间，是她的自我意识真正露馅的地方。隔间外的嘲讽全部按部门挂名：「Sarah from sales」「Sarah from accounting」，声音群像因此有了工牌；被议论的人躲在门缝后头，反而把每个人的来历数得最清。
+**为什么这样写**：屈辱在这段被拆成一串可执行性问题：想消失（淹进 sewers 都比面对外面好），但消失方案被「晕倒会出声」否掉；缩小存在感的备份方案（抬脚藏 loafers）又被体能否掉——宏大的自我毁灭愿望和抬不住一双鞋之间，是她的自我意识真正露馅的地方。隔间外的嘲讽只有一部分按部门挂名：「Sarah from sales」「Sarah from accounting」，另几句的说话人始终没露面；被议论的人躲在门缝后头，听见的声音一半有名有姓、一半无名无姓。
 
 **读者视角提示**：Laura Leigh 在同一间洗手间说了两种话——「Everyone grieves differently.」是解围，「HR people are like that, though.」加上随后的「Repressed」是盖章。叙述者把前者听成希望（「Hope streaked through my humiliation.」），把后者收成「Even sweet Laura Leigh thought I was weird」；听见的和接住之间的差值，是留给读者的读数题。
 
@@ -51,7 +51,7 @@ modified: "2026-10-22"
 
 **关键词**：Dart / shell / mean anything
 
-**为什么这样写**：Dart 这个简称在本章第一次被同事叫出口，就在她被点名议论过的这天——她躲进隔间时「unclicked the stall door and slunk out」，电梯里对方却劝她 out of your shell：她确实脱了壳，只不过方向相反。「We didn’t mean anything by it」与隔间里听到的「unnerving」无法同时为真，说话的人和她自己大概都没发现这一点。句尾「and—」的破折号截在半空，诚意没说完的部分由她随后的沉默补齐。
+**为什么这样写**：Dart 这个简称在本章第一次被同事叫出口，就在她被点名议论过的这天——她等声音散尽、从隔间里溜出来时「unclicked the stall door and slunk out」，电梯里对方却劝她 out of your shell：她确实脱了壳，只不过方向相反。「We didn’t mean anything by it」与隔间里听到的「unnerving」无法同时为真，说话的人和她自己大概都没发现这一点。句尾「and—」的破折号截在半空，诚意没说完的部分由她随后的沉默补齐。
 
 **读者视角提示**：她对 Laura Leigh 的判断一分钟内翻了两回：「On the bright side, she was proving to be a real friend.」翻成「Laura Leigh was the kind of person who needed to be loved.」——读内心独白时留意这种对别人的下行解释：把它当人物的自我保护，别当旁证。
 
@@ -63,7 +63,7 @@ modified: "2026-10-22"
 
 **为什么这样写**：她「stopped short」之后，画面进来的顺序是衣着、发色、眼镜——最后连一张脸都不给。黄色罂粟、过腰白发、葡萄柚尺寸的墨镜，三组夸张的亮色在满章灰白的办公室与瓷砖之后堆满一个人；fruit 比喻没有威胁，只有「过剩」，先把此人的体量交代完，才让她开口。叙述者对「bloomed」一词的自我纠正也是原文的：「Bloomed is a sappy word, but it’s true; everything about her was fresh. Floral.」——她连自己用哪个形容词都要认领，说明她知道自己被打动了。
 
-**读者视角提示**：寻亲线的静默（「Between meetings」查过、「In the front seat of my Honda」又查过，都没有 Gazzie 的回音）在这一刻整本翻掉：来人唤她「Dartrine」，自报「I’m your great-aunt, honey. Virginia.」，还承认 email 隔了几天才看——「a few days late because I can’t for the life of me remember to check it」。回音不来自邮箱，来自两小时车程。
+**读者视角提示**：寻亲线的静默（「Between meetings」查过、「In the front seat of my Honda」又查过，都没有 Gazzie 的回音）在这一刻整本翻掉：来人唤她「Dartrine」，自报「I’m your great-aunt, honey. Virginia.」，还承认 email 隔了几天才看——「a few days late because I can’t for the life of me remember to check it」。回音不来自邮箱，来自两小时车程。门口这一幕之前，她在公园那页速写上已经交过一次底：一只打理齐整的博美在吃自己的呕吐物、一个和 Mama 同岁的女人对着手持镜挤下巴上的痘、一个十来岁的女孩用皮凉鞋碾死一只甲虫；五年级的美术老师教她画「像蜱虫一样叮在脑子里的图像」，她由此承认自己着迷的是 life’s underbelly，也知道自己的画「不正常，近乎病态」——「哄回自己」的那段安慰，脚下垫着这份自判。
 
 ## 本章词汇
 

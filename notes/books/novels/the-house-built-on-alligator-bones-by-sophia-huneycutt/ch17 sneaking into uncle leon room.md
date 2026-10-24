@@ -7,11 +7,11 @@ modified: "2026-10-22"
 
 ## 本章导航
 
-- **一句话概括**：周日下午，好奇没被宝丽来喂饱、两次求问落空的叙述者决定夜探：Gazzie 与 Virginia 先后外出，她先翻了 Harrison 的客房——只翻出一张父子举鱼的照片让她「拒绝被触动」；再摸进 Leon 的旧屋，房间被清空，壁橱里的三只箱子却留着 Mama 与黑衣男孩的合影、撕半的血衣嫌疑物，和一只打不开的上锁金属箱。Gazzie 当场抓获，撂下「再进就送你回乔治亚」；回房后她反而定下再探的计划，临睡前才惊觉方才廊下的私语轻柔、女性化——完全不像 Gazzie。
+- **一句话概括**：周日下午，好奇没被宝丽来喂饱、两次求问落空的叙述者决定夜探：Gazzie 与 Virginia 先后外出（Virginia 的说法是去和 Henri 吃晚饭，红着脸补一句「可能明早才回」——:12/:15），她先翻了 Harrison 的客房——只翻出一张父子举鱼的照片让她「拒绝被触动」；再摸进 Leon 的旧屋，房间被清空，壁橱里的三只箱子却留着 Mama 与黑衣男孩的合影、撕半的血衣嫌疑物，和一只打不开的上锁金属箱。Gazzie 当场抓获，撂下「再进就送你回乔治亚」；回房后她反而定下再探的计划，临睡前才惊觉方才廊下的私语轻柔、女性化——完全不像 Gazzie。
 - **情感弧线位置**：从憋闷（照片喂不饱、问不出）推进到越轨行动；屋内一段恐惧、窘迫（闻到 Harrison 气味时脸红）、震动（空房＝「他被抹掉了」）交替上行，冲突顶点是被 Gazzie 抓个现行；随后愤怒被决心接走，末尾由声音的归属修正留下新的不安。
 - **Tropes 兑现/反转**：兑现「深夜潜入揭出家族档案」「上锁的箱子＝悬念装置」；鬼始终不现身，靠冰凉门把、骤冷、摔门、廊下私语完成「在场感」。反转在探查的两次落空：想在 Harrison 身上找把柄，翻到的全是无害的日常；想找 Leon 的痕迹，房间只剩「被抹掉」这一条痕迹。
-- **人物弧线**：叙述者从被动的知情者转为主动的调查者——自行起意、择时、动手、顺走照片、回读证词并修正；对 Harrison 的判断出现第一次松动（refusing to be moved 恰恰说明被触动了）。Leon 由照片边缘第一次立成人：忧郁、离群、速写不离手。Gazzie 与叙述者的关系从暗地的回避转为当面的威胁与受制。
-- **叙事手法**：物件主导叙事——耳塞、平装书、冰凉门把、空铁床、鞋盒、锁箱、撕半的血衣各自承担一段信息。感官读数先被叙述者生理化解释（老旧电路、穿堂风、窗帘扑动），再被事实逐一推翻；结尾用「回读」结构翻转全章——最后两句重新标注了前文所有声音的归属。
+- **人物弧线**：叙述者从被动的知情者转为主动的调查者——自行起意、择时、动手、顺走照片、回读证词并修正；对 Harrison 的判断再次出现裂缝——这次不在他身上，而在他家的照片上（:30），同一段里她仍在骂他（:33 那声 the prick），refusing to be moved 恰说明被触动。Leon 由照片边缘第一次立成人：忧郁、离群、速写不离手——照片在忧郁之外还留了两处未决：他的眼神究竟是病还是怕（:69），以及他为何总在看向一个进门的人（:117）。Gazzie 与叙述者的关系从暗地的回避转为当面的威胁——以及一次身体服从、意志不服从的较量（:105/:114/:120）。
+- **叙事手法**：物件主导叙事——耳塞、平装书、冰凉门把、空铁床、鞋盒、锁箱、撕成两半、下摆结着深色物质的衬衫（泥或血，:75）各自承担一段信息。感官读数先被生理化解释（老旧电路、穿堂风、窗帘扑动——其中窗帘那条当场被她亲眼证实），此后没有被逐条推翻，只是逐条失去说服力（Neither option felt convincing. :63）；结尾用「回读」结构翻转全章——最后两句重新标注了前文所有声音的归属。Henri 这条线也在此接上：ch04:234 她是 Nova 的女友、烘焙坊主人，ch16:111 是当年被送回的那户人家，本章则由 Virginia 一句「去和 Henri 吃晚饭」搭出作案窗口。
 
 ## 精读
 
@@ -33,7 +33,7 @@ modified: "2026-10-22"
 
 **为什么这样写**：it 的先行词要由上句补出（那道被摔上的门缝），叙述者把反应的链条写在念头之前——先转身、再盯、最后才承认念头。fueled by the stress 是她替自己准备的生理学解释，可 unfiltered 一词反而漏了底：若真只是紧张，念头为何偏偏点名 Ida 并给它配上「不想」这种意志。冒号后不加「我想」「我觉得」，让那句话以原话身份落地。
 
-**读者视角提示**：原文紧接的下一句给出穿堂风的自解，却配上 uneasily 一词——本章里每一次「理性找平」都要靠副词撑住，这本身就是要读的信息。
+**读者视角提示**：原文紧接的下一句给出穿堂风的自解，却配上 uneasily 一词（:48→:51）。本章每一次「理性找平」都留下标记：有的靠副词（uneasily :51、probably :42），有的靠情态（must have… must have… :78），也有的只剩一句光秃的自我提醒（Dated electrical system, I reminded myself. :42）——标记的语法种类不同，说明她越写越不用修辞。
 
 > **原句 3:** "Despite its emptiness—or because of it—I knew it was Uncle Leon’s room. He’d been erased. Tapping my fingers on the bedframe, I sifted through explanations: Gazzie could’ve been too sad to keep his things, or maybe he’d already moved out when he’d had his mysterious accident."
 
@@ -41,7 +41,7 @@ modified: "2026-10-22"
 
 **关键词**：emptiness / erased / bedframe / sifted / mysterious
 
-**为什么这样写**："or because of it"（或者正因为空空如也）四个词把逻辑拧反——空本身成了识别依据，「什么都没有」反而是这间房留下的唯一笔迹。"He’d been erased"（他被抹掉了）用被动语态删掉了施动者，谁抹掉的就是这句真正在问的事。"sifted through explanations"（把解释一条条筛过去）把猜想写成筛土动作，而形容词 "mysterious"（神秘的）出现在转述里：事故至今没人讲过，叙述者先替它挂了号。
+**为什么这样写**：而 :60 末的自我拆台（enough for me to see everything. And by everything, I mean nothing.）先把月光抬高、再把内容清零——`He’d been erased` 是被这句逼出来的。进到本块，"or because of it"（或者正因为空空如也）四个词又把逻辑拧反——空本身成了识别依据，「什么都没有」反而是这间房留下的唯一笔迹。"He’d been erased"（他被抹掉了）用被动语态删掉了施动者，谁抹掉的就是这句真正在问的事。"sifted through explanations"（把解释一条条筛过去）把猜想写成筛土动作，而形容词 "mysterious"（神秘的）出现在转述里：事故至今没人讲过，叙述者先替它挂了号。
 
 **读者视角提示**：这两条解释（太伤心留不下／事故前已搬走）都出自她的推测。带着它们去读壁橱一段——箱子里留着东西，两条解释都不体面地站不住。
 
@@ -95,7 +95,7 @@ modified: "2026-10-22"
 |---|---|---|
 | doorknob | 门把手 | Releasing the doorknob, I looked behind me, into Harrison’s room. |
 | earplugs | 耳塞 | The nightstand contained only earplugs and an eye mask, but when I picked up the paperback, The Son by Jo Nesbø, a photograph fell out. |
-| moonlight | 月光 | They were huge, though, as big as Mama’s, and let plenty of moonlight in—enough for me to see everything. |
+| moonlight | 月光 | They were huge, though, as big as Mama’s, and let plenty of moonlight in—enough for me to see everything. And by everything, I mean nothing. |
 | accident | 事故 | Maybe it had to do with his accident. |
 
 ## 一句话总结

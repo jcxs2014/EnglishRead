@@ -7,11 +7,11 @@ modified: "2026-10-22"
 
 ## 本章导航
 
-- **一句话概括**：从闯棚那场冒险之后，她在农场独处不了二十分钟——Nova 追问文件、Harrison 搭话，显然是被派来盯她的，可 Gazzie 一次也没来看过她；夜里她梦见沼泽里两点黄眼睛和一只把她推进水的冰冷纤手，天亮前楼梯上真有脚步、墙里有嗡鸣，一个带茉莉香的黑裙影子飘进餐厅；奔过来的是 Aunt Virginia、清洁公司老板 Lena 和留宿客房的 Harrison；她认定这是在 Greer House 见到的第二个无法解释的人，而 Gazzie 下楼只丢下一个 "Bull"。
+- **一句话概括**：从闯棚那场冒险之后，她在农场独处不了二十分钟——Nova 追问文件、Harrison 搭话，显然是被派来盯她的，可 Gazzie 一次也没来看过她；夜里她梦见沼泽里两点黄眼睛和一只把她推进水的冰冷纤手，醒来后不久楼梯上真有脚步、墙里有嗡鸣——她那时还分不清窗光属于太阳还是月亮（:21），直到 Virginia 赶到才确认已是清晨（:45），一个带茉莉香的黑裙影子飘进餐厅；奔过来的是 Aunt Virginia、清洁公司老板 Lena 和留宿客房的 Harrison；她认定这是在 Greer House 见到的第二个无法解释的人，而 Gazzie 下楼只丢下一个 "Bull"。
 - **情感弧线位置**：本章从被看管的憋闷起笔，经过梦里被推进水的惊恐、尖叫求救的恐惧，接到十五秒内来人带来的松气；随后 "Heart sinking" 落到"他几乎等于家人"的刺痛；章末的调子是逃避——她立刻答应骑车去海滩，"eager to leave Greer House and whatever peculiarities lurked within"。
-- **Tropes 兑现/反转**：兑现南方哥特凶宅与梦占先声——梦中巨鳄的嘶鸣被她认作回应了 Ida 追猎 Ironheart 的传说；反转在求救的落点：尖叫之后进来的不是怪物也不是救兵，而是光着上身、穿松鼠睡裤的 Harrison，恐怖桥段瞬间串线到rom-com，再被 "the second time I’d seen an inexplicable person in Greer House" 拉回鬼故事。
+- **Tropes 兑现/反转**：兑现南方哥特凶宅与梦占先声——这场梦（含嘶鸣）被她认作呼应了 Ida 追猎 Ironheart 的传说；反转在求救的落点：尖叫之后进来的不是怪物也不是救兵，而是光着上身、穿松鼠睡裤的 Harrison，恐怖桥段瞬间串线到rom-com，再被 "the second time I’d seen an inexplicable person in Greer House" 拉回鬼故事。
 - **人物弧线**：叙述者开始给自己找科学化解释（幻觉、铅漆粉尘、毒霉），却压不住手臂上不退的鸡皮疙瘩；她先在松鼠睡裤前移开视线、骂自己没穿胸罩，随后 "Heart sinking"，把 Harrison 重读成"那些年独自陪妈妈的自己缺席时，正往外婆心里钻的人"。Harrison 本章露出留宿 Greer House 的事实：查账、过季度目标、被 Gazzie 灌威士忌。Aunt Virginia：十五秒赶到、介绍 Lena、替她想"也许是噩梦"、瞪 Gazzie 一句 "You be quiet"、用去海滩的提议救场。Gazzie：早起下楼，一词"胡扯"，不屑解释地走了。
-- **叙事手法**：出场按感官递进——先是声音（脚步、嗡鸣），再是气味（jasmine, slightly off），最后只剩残影（gauzy, black blur）与长裙最轻的窸窣，鬼影被拆成三级呈现；梦境与现实的音效共用 hiss 和电嗡，使"哪一段算梦"成为叙事杠杆；章末 Aunt Virginia 用"骑车去海滩"把人物往屋外撤，节奏由惊悚切回日常。
+- **叙事手法**：出场按感官递进——先是声音（脚步、嗡鸣），再是气味（jasmine, slightly off），最后只剩残影（gauzy, black blur）与长裙最轻的窸窣，鬼影被拆成三级呈现；梦境与现实的音效共用 hiss 和电嗡，使"哪一段算梦"成为叙事杠杆；气味也共用：ch09 浴房里那股『茉莉、发酸』的浓缩香气同样是异常的前兆（ch09:30），本章 :33 复现——她数得出嗡鸣的规律，却还没把茉莉列进同一张清单；章末 Aunt Virginia 用"骑车去海滩"把人物往屋外撤，节奏由惊悚切回日常。
 
 ## 精读
 
@@ -23,7 +23,7 @@ modified: "2026-10-22"
 
 **为什么这样写**：梦的逻辑藏在搭配里："two yellow eyes glided"——滑行的主语是眼睛而不是鳄鱼，身体还在水下，威胁已经先抵达；"A delicate, cold hand" 用 delicate 写推她的那只手，残忍和优雅长在同一个形容词上；"pushing me forward, and I took one step"——推力和她的步伐写成连动，梦里的自愿与被强迫分不出来；第二次迈步只剩孤零零的 "Another."，没有主语也没有动词，节奏本身在往前拖她。
 
-**读者视角提示**：推她的是陌生的手——本章稍后她自问梦回应的是 Ida 猎 Ironheart 的传说；留意"谁的手"这个问题有没有人替她回答。
+**读者视角提示**：推她的是陌生的手——本章稍后她自己给出判语：这场梦呼应了 Ida 猎 Ironheart 的传说（:24），接着是一句反讽的 "Great."；留意"谁的手"这个问题有没有人替她回答。
 
 > **原句 2:** "The smell came next: jasmine, slightly off. … The shape of someone—more a gauzy, black blur than anything—glided from the bottom of the stairs into the dining room, out of sight. All that remained was the faintest swish of a long, heavy skirt."
 
@@ -31,17 +31,17 @@ modified: "2026-10-22"
 
 **关键词**：jasmine / slightly off / gauzy / blur / swish
 
-**为什么这样写**：出场顺序被倒过来排——先是嗅觉、再是负形，"slightly off" 三个字把茉莉花香判为证物：新鲜的花不该是浓缩香水味；"more a gauzy, black blur than anything" 拒绝给形状定名，只能写它"更像什么"；与上一块梦里同用的 "glided" 在此复现，梦的动词搬进了醒着房间；收束落在听觉 "the faintest swish of a long, heavy skirt"——最轻的声音配最重的裙子，影子的"物理矛盾"正好是它不可解释之处。
+**为什么这样写**：出场顺序被倒过来排——先是嗅觉、再是负形，"slightly off" 三个字把茉莉花香判为证物：新鲜的花不该是浓缩香水味；"more a gauzy, black blur than anything" 拒绝给形状定名，只能写它"更像什么"；与上一块梦里同用的 "glided" 在此复现，梦的动词搬进了醒着房间；收束落在听觉 "the faintest swish of a long, heavy skirt"——最轻的声音配最重的裙子，影子的"物理矛盾"正好是它不可解释之处。而这份不对劲是被排除出来的：她先认定是又早起的 Gazzie（:30，还盼着再听一个家族故事），随后本能地否掉——那影子既不是她也不是 Virginia（:33）。
 
 **读者视角提示**：三感出场的次序本身就是主张——先问鼻子、再问眼睛、最后只剩耳朵；这个影子的身份，本章接下来几段都不会给出。
 
 > **原句 3:** "Harrison probably stayed in Greer House all the time. He and Gazzie had much more than a boss-employee relationship. He was practically family."
 
-**中文理解**：Harrison 大概是一直都住在 Greer House 的。他和 Gazzie 之间的关系，也远远超出老板与雇员那一层。说得再直白些：他几乎就是这家里的人了。三句都出自她一人的心口揣摩，句句带着「大概」「几乎」这类留有余地的词。
+**中文理解**：Harrison 大概是一直都住在 Greer House 的。他和 Gazzie 之间的关系，也远远超出老板与雇员那一层。说得再直白些：他几乎就是这家里的人了。三句都出自她一人的心口揣摩——其中两句留了余地（"probably"／"practically"），中间那句却用 "much more than" 直接判定。
 
 **关键词**：all the time / boss-employee / practically family
 
-**为什么这样写**：三句全是她的心证，用词却一路降级——从推测 "probably"，到比较 "much more than"，到最后一锤 "practically family"：practically 比 family 只差一个名分，这一字之差正是本章最疼的一处；引语前她刚把留宿的缘由问出口（查账、过季度目标、被 Gazzie 灌威士忌），这三句就是答案落地的样子；紧随其后的 "A surrogate grandson." 把 "practically family" 钉得更死。
+**为什么这样写**：三句全是她的心证，从推测 "probably"，到不带缓冲的比较 "much more than"，再到只差一个名分的 "practically family"：practically 比 family 只差一个名分，这一字之差正是本章最疼的一处；引语前她刚把留宿的缘由问出口（查账、过季度目标、被 Gazzie 灌威士忌），Harrison 抢白的那句 "Actually, I guess you don’t."（:69）正是她心沉的直接触发句，这三句就是答案落地的样子；紧随其后的 "A surrogate grandson." 把 "practically family" 钉得更死。且这三句之前还有一拍：她先想起几天前那个男人的声音（:72，接 ch06:12 那次『我以为听见男人笑，又说服自己只有女人住这儿』），一句 "Of course." 把当年的自我否定推翻。
 
 **读者视角提示**：她的愤怒从这里换轨——之前防他抢农场，现在疼的是"那些年我和妈妈单独过日子时，这个人正在往外婆心里钻"；这条新线索和"黑裙影子"同章出现，别急着只当真相对。
 
@@ -87,4 +87,4 @@ modified: "2026-10-22"
 
 ## 一句话总结
 
-房子开始把它的征兆清单交给她：嗡鸣只排在怪事之前、茉莉香的黑裙来去无影，而 Harrison 的松鼠睡裤坐实了他在这个家的名分——她第一次应下屋外的邀请，急着离开 Greer House 和潜伏在它里面的东西。
+房子开始把它的征兆清单交给她：嗡鸣只排在怪事之前、茉莉香的黑裙来去无影，而 Harrison 那条印满松鼠的睡裤，让她把『他有时住空房』听成了『他大概就是这家里的人』——名分是她自己下的，原文只给了 "sometimes" 与 "practically"；她立刻应下屋外的邀请，急着离开 Greer House 和潜伏在它里面的东西。

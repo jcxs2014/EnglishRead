@@ -7,11 +7,11 @@ modified: "2026-10-22"
 
 ## 本章导航
 
-- **一句话概括**：一周里我沉进剥皮的节奏、用耳机和眼罩把 Greer House 的异常挡在门外，与 Harrison 借一杯咖啡交换了医保、他父亲与 Mama 的话题；随后 Joe 的纸条把我和 Harrison 召回文件前，而独自摸黑回剥皮间拿水壶的我，迎面撞上一头七八英尺的活鳄鱼——脱水与酷热让身体先倒下，压住鳄鱼下颌救下我的，是 Gazzie。
+- **一句话概括**：一周里我沉进剥皮的节奏、用耳机和眼罩把 Greer House 的异常挡在门外，与 Harrison 借一杯咖啡交换了医保、他父亲与 Mama 的话题；随后 Joe 的纸条把我和 Harrison 召回文件前，而独自摸黑回剥皮间拿水壶的我，迎面撞上一头七八英尺的活鳄鱼——脱水与酷热让身体先倒下，而压住鳄鱼下颌的，是 Gazzie。
 - **情感弧线位置**：前半段是全书里少有的平稳上升带：农活带来掌控感，与 Harrison 的斗嘴开始变得好玩，私人的防御在咖啡桌边松了一次口子；后半段一路急坠——疑心、黑暗、嘶声、昏倒，结尾定格在 Gazzie 徒手按颌的画面上，惊骇覆盖了一切安抚。
-- **Tropes 兑现/反转**："职场搭子日渐亲密"确实兑现（他追出来喊我"Dart"，我承认紧绷的对话变得好玩），但哥特立刻收回好日子：温室与院子这类"安全区"靠纪律维持，真正的危险却被安放在工作间里；千钧一发的搭救也不是情人完成的，是那位不肯当面跟我说一句话的祖母。
-- **人物弧线**：我从想被认可转向主动遮掩——不愿让 Harrison 看见"我的手在鳄鱼皮上流连"；与 Mama 的矛盾第一次成句说出（她"拒绝用我看自己的方式看我"）；Harrison 从教练变成交底的人：父亲病逝、没有医保、"Dart"这个称呼第一次从他嘴里喊出来。
-- **叙事手法**：以"Over the next week"整周压缩开场，再把镜头收进一天的午餐与下午；Joe 的威胁全部经叙述者的观察拼贴传递（撞肩、切橙、冷笑）；悬念由叙述者自问推进——她逐条质疑信息为何绕道传达；末场按听觉（嘶声）、触觉（闷热）、视觉（灯亮）依次展开，最后用"at some point"跳过昏迷的空段。
+- **Tropes 兑现/反转**："职场搭子日渐亲密"确实兑现（他追出来喊我"Dart"，我承认紧绷的对话变得好玩），但哥特立刻收回好日子：温室与院子这类"安全区"靠纪律维持，真正的危险却被安放在工作间里；千钧一发时按住鳄鱼下颌的也不是情人，是那位不肯当面跟我说一句话的祖母。
+- **人物弧线**：我从想被认可转向主动遮掩——不愿让 Harrison 看见"我的手在鳄鱼皮上流连"；与 Mama 的矛盾第一次当着别人的面说出口（此前 ch13 已把"她认为我是扭曲的人"写成独白），而她讲得出 Mama 的病因、讲不出 Mama 去世的那一夜（"I couldn’t get into the night she died."）；Harrison 从教练变成交底的人：父亲病逝、没有医保、"Dart"这个称呼第一次从他嘴里喊出来。
+- **叙事手法**：以"Over the next week"整周压缩开场，再把镜头收进一天的午餐与下午；Joe 的威胁全部经叙述者的观察拼贴传递（撞肩、切橙、冷笑）；悬念由叙述者自问推进——她逐条质疑信息为何绕道传达；末场按触觉（闷热）、听觉（滴水→嘶声）、视觉（灯亮）依次展开，最后用"at some point"跳过昏迷的空段。
 
 ## 精读
 
@@ -25,15 +25,15 @@ modified: "2026-10-22"
 
 **读者视角提示**：留意这些自我安抚的解释话术由叙述者自己提供；她把"看不见"当成一项纪律来执行，读者反而会去数她遮住了什么。
 
-> **原句 2:** "A full week after my first skinning, I was so engrossed I forgot about lunch until I picked up a chunk of flesh from the floor and my vision tunneled. Throwing out my hand, I leaned heavily on the table, waiting for my sight to return. When it did, the wall clock read three in the afternoon."
+> **原句 2:** "A full week after my first skinning, I was so engrossed I forgot about lunch until I picked up a chunk of flesh from the floor and my vision tunneled. Throwing out my hand, I leaned heavily on the table, waiting for my sight to return. When it did, the wall clock read three in the afternoon. No wonder I felt faint."
 
-**中文理解**：第一次剥皮满一整周那天，我入迷到忘了午饭，直到从地上拾起一块肉，视野忽然收窄成筒。我伸手撑住台面，重重地倚着它等视力回来；等它真的回来时，墙钟已指着下午三点。
+**中文理解**：第一次剥皮满一整周那天，我入迷到忘了午饭，直到从地上拾起一块肉，视野忽然收窄成筒。我伸手撑住台面，重重地倚着它等视力回来；等它真的回来时，墙钟已指着下午三点。难怪我觉得发晕。
 
-**关键词**：engrossed / vision tunneled / leaned heavily / wall clock
+**关键词**：engrossed / vision tunneled / leaned heavily / wall clock / No wonder
 
 **为什么这样写**：诱因的次序耐人寻味——先"engrossed"（入迷）再断食，身体反应是被专注拖出来的，不是被尸体吓出来的。"Throwing out my hand" 既是扑撑也是脱手：拾肉的手与失焦的眼被排在同一句里，肉与昏厥之间没有评论，只有关联。时间不由"我"报出，而由墙钟报出：从午饭到下午三点的空洞，交给一件器物来盖章。
 
-**读者视角提示**：把这次的缺水、闷热记作一条身体线——她自己先冒出「我吃过午饭，可我没喝水，而且我很热」这个念头，再站到鳄鱼面前。本章没有给倒下的成因判语，留给读者的是一具先出问题的身体。
+**读者视角提示**：把这次的缺水、闷热记作一条身体线——她是在鳄鱼面前僵住之后，才冒出「我吃过午饭，可我没喝水，而且我很热」这个念头，恐惧先占了身体，归因晚了一步。倒下的成因由叙述者自己给出（"No wonder I felt faint." 与末场的缺水自察），读者拿不到的是第三方诊断。
 
 > **原句 3:** "He walked disrespectfully close in hallways, bumping my shoulder when we passed. He lounged in the bed of his pickup truck on breaks, slicing oranges with a sinister, black-handled kitchen knife. Every time our eyes met, he smirked, like he knew something that gave him the upper hand."
 
@@ -41,7 +41,7 @@ modified: "2026-10-22"
 
 **关键词**：disrespectfully close / sinister / upper hand
 
-**为什么这样写**：三笔观察逐级加码：撞肩是身体越界，黑柄刀是把日常水果切出武器的轮廓，smirk（窃笑）则把威胁升级成信息不对称——他"知道"我不知道的东西。"sinister" 直接修饰厨房刀，叙述者的恐惧在定语里就已署明，事情本身却可以一直"只是切橙子"。三个句子的主语全是 He，而"我"只出现在被撞的肩上，压迫感由语法承担。
+**为什么这样写**：三笔观察逐级加码：撞肩是身体越界，黑柄刀是把日常水果切出武器的轮廓，smirk（窃笑）则把威胁升级成信息不对称——他"知道"我不知道的东西。"sinister" 直接修饰厨房刀，叙述者的恐惧在定语里就已署明，事情本身却可以一直"只是切橙子"。三个句子的主句主语全是 He；"我"只以 my shoulder、we、our 这类形式出现，从不站到句首做主句主语，压迫感由语法承担。
 
 **读者视角提示**：注意这些细节是在 Nova 问"你见过 Joe 吗"之后立刻涌回的——本章 Joe 的缺席比在场更值得盯，读者和叙述者同步在数他不在场的证据。
 
@@ -51,9 +51,9 @@ modified: "2026-10-22"
 
 **关键词**：suspicious / face-to-face
 
-**为什么这样写**：两个问句追的不是"丢了什么"，而是消息的传递路线——谁转述谁、用什么介质，叙述者把沟通方式本身当成了物证，这是她在一章的被动接招里少见地主动推理。两个 why 之间略开的那句，恰是她自己都不肯采信的最良性解释，省略号在这里等于她挥手放过的借口。face-to-face 一词点出怪处：在同一栋办公楼里，纸条替代了照面，绕道成了唯一可疑的形状。
+**为什么这样写**：两个问句追的不是"丢了什么"，而是消息的传递路线——谁转述谁、用什么介质，叙述者把沟通方式本身当成了物证，这是本章少见的连续推理段——她一次把消息的每个环节逐条盘完。两个 why 之间略开的那句，恰是她自己都不肯采信的最良性解释，省略号在这里等于她挥手放过的借口。face-to-face 一词点出怪处：在同一栋办公楼里，纸条替代了照面，绕道成了唯一可疑的形状。
 
-**读者视角提示**：留意她随后给出的台阶——把漏洞归到"他也喝过第二杯下午咖啡了吧"一类的日常理由（同段后文），怀疑与回护交替出现，两条线都留给读者。
+**读者视角提示**：留意她随后给出的台阶——把漏洞归到"他也还没喝到那第二杯下午咖啡吧"一类的日常理由（同段后文），怀疑与回护交替出现，两条线都留给读者。
 
 > **原句 5:** "A live alligator, seven or eight feet long, lay by the foot of the skinning table, its mouth open wide. Dozens of teeth outlined a gaping, salmon-colored maw dripping with saliva. A wet, fat tongue lay flat along the bottom of its mouth."
 
@@ -71,9 +71,9 @@ modified: "2026-10-22"
 
 **关键词**：concrete floor / threshold / bare hands / scream
 
-**为什么这样写**：醒来从地面写起——"the eye not pressed into the concrete floor" 先交代身体仍趴着，视点比平时矮一头，读者和她一起从地上看世界。压住、攥颌、尖叫三个动作挤进一句，搭救的姿态不是温柔而是蛮力，与"她用双手而不是工具制服鳄鱼"这一事实同样不加评论。"At some point" 大方跳过昏厥的空段，句子也停在尖叫上就收住——Gazzie 的伤情、后续处置，这段一个字都不给。
+**为什么这样写**：醒来从地面写起——"the eye not pressed into the concrete floor" 先交代身体仍趴着，视点比平时矮一头，读者和她一起从地上看世界。压住、攥颌、尖叫三个动作挤进一句，按住鳄鱼下颌的姿态不是温柔而是蛮力，与"她用双手而不是工具制服鳄鱼"这一事实同样不加评论。"At some point" 大方跳过昏厥的空段，句子也停在尖叫上就收住——Gazzie 的伤情、后续处置，这段一个字都不给。
 
-**读者视角提示**：注意这幅画面里"我"没有问候 Gazzie、也没有被救后的安心描写，叙述的第一动作仍是观察——这条"先看后怕"的习惯，本章从头到尾没有断过。
+**读者视角提示**：注意这幅画面里"我"没有问候 Gazzie、也没有半句关于自身安危的情绪，叙述的第一动作仍是看——她醒来第一件事是睁开没贴在地面的那只眼。
 
 ## 本章词汇
 
@@ -109,4 +109,4 @@ modified: "2026-10-22"
 
 ## 一句话总结
 
-以为终于能在剥皮间站稳的一周，以一头活鳄鱼和我的倒地收场——而徒手按住鳄鱼下颌救下我的，正是那个连早安都不肯当面回给我的 Gazzie。
+以为终于能在剥皮间站稳的一周，以一头活鳄鱼和我的倒地收场——而徒手按住鳄鱼下颌的，正是那个连早安都不肯当面回给我的 Gazzie。

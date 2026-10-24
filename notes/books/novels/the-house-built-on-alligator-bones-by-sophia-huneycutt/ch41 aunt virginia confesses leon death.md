@@ -7,7 +7,7 @@ modified: "2026-10-22"
 
 ## 本章导航
 
-- **一句话概括**：Dart 攥着 Uncle Leon 的 papers 在 Henri 家被 Aunt Virginia 接进客厅，火边一问到底：Virginia 抖出那夜的完整经过——Gazzie 罚想上大学的 Leon 在农场过夜，回来时下巴带血、要她烧衣服作伪证；Caroline 揭发 Gazzie 打了 Leon、确认他没脉搏后把他滚进水里惹鳄鱼拖走尸体。同夜还抖出 Caroline 未婚先孕、因「Greer line was tainted by Ida's blood」而出走；Dart 随即自曝「I killed Mama, too」，把 Leon 的 records 换进 Henri 门边的报纸袋后冒雨走向海堤。
+- **一句话概括**：Dart 攥着 Uncle Leon 的 papers 在 Henri 家被 Aunt Virginia 接进客厅，火边一问到底：Virginia 抖出那夜的完整经过——Gazzie 罚想上大学的 Leon 在农场过夜，回来时下巴带血、要她烧衣服作伪证；Caroline 揭发 Gazzie 打了 Leon、确认他没脉搏后把他滚进水里惹鳄鱼拖走尸体。同夜还抖出 Caroline 未婚先孕、因「Greer line was tainted by Ida’s blood」而出走；Dart 随即自曝「I killed Mama, too」，把 Leon 的 records 换进 Henri 门边的报纸袋后冒雨走向海堤。
 - **情感弧线位置**：全书压抑到崩点的一章。开头紧张（breath came in short bursts）、中段是替 Gazzie 找「less incriminating explanation」的挣扎、真相落地后转为对自身的清算（"Am I?" 的追问与「I killed Mama」的自首）；结尾情绪翻向暴烈的冲动——想推倒 Virginia、听骨头断裂的声音，随后是雨里麻木的行走。
 - **Tropes 兑现/反转**：兑现「家族秘密在炉边一次摊牌」与「血污证人」桥段；反转发在认罪方向：读者以为要清算的是 Gazzie，Dart 却把自己摆进罪人席；而 Virginia 的「我也在场却沉默」把「唯一清醒的旁观者」形象一并拆掉。
 - **人物弧线**：Virginia 从照顾者（递上 water bottle、"Should you drink more, honey?"）转为供述者，最后自认「my job was to support the family… That was my inheritance」；Dart 从攥紧 papers 拒绝放手（"I refused, clutching them tighter in one arm"），到主动说出 Harrison 已 confess 农场破坏，并把 records 藏进门边报纸袋——从被安置的人变成开始行动的人。

@@ -10,18 +10,18 @@ modified: "2026-10-22"
 - **一句话概括**：她坐在 Uncle Leon 房间的地上，把对 Gazzie 的怀疑一条条自我开解，最后落到一句"None of my reassurances worked."，于是决定从第一手来源弄清 Uncle Leon 死的那晚；Harrison 来求她谈话，她用"五分钟"换他带路，两人从 Gazzie 办公室的天花板爬进阁楼，在最后一箱旧皮箱的一打相册顶上找到那只锁箱。取箱的一刻空气嗡鸣、温度骤降，Ida 在暗处现身来抓箱子，她的脚踩穿地板、腕上被掐出湿冷的手指印；Harrison 把她拉起来，说"只是蝙蝠"，她嘴上没反驳，身体却仍觉出 Ida 在愤怒地注视着她。
 - **情感弧线位置**：这一章是"停止自我欺骗"的落点。前半的情绪不是升级而是清零——劝说、失效、坐着直到眼泪干透、盐渍发痒；开第一只箱子的动作也带着这股钝感：箱盖粘死、灰尘呛咳、红塔夫绸长裙"倒像当天才缝的"，她 repulsed 地把它扔回去，随后空气每分钟再冷一度，到第四只箱子她已经在发抖，闻到 jasmine 的香水味就立刻把箱子摔上。找到锁箱的一瞬情绪短暂翻正（relieved and ready to make my escape），随即被阁楼里的正面遭遇打成纯粹的怕。被 Harrison 拉起来之后也没有回到平静：他的日常解释和她的体感并存，她把不安原样带走。
 - **Tropes 兑现/反转**：兑现"南方祖宅有隐藏阁楼、阁楼里压着家族档案"这套，也兑现"灵体拦路"——Ida 明确不让他们进 Gazzie 的办公室与阁楼。反转在档案的形状：箱子里翻出来的不是文件而是 Ida 的衣物（1920 年代、1940 年代）、一箱娃娃、一箱香水，锁箱压在一打相册上面；她顺手留下一条判词——Gazzie 从不扔掉 Ida 的东西。更硬的反转在取证方法：她要的是 primary source，不是灵启；本章里 Ida 的作用只有阻拦，一个字的信息都没给。言情配置同样被反转：她承认"有他在就安全"，紧接着为这份安全感羞耻，亲密先以"保持距离"的形式出现。
-- **人物弧线**：她给自己立了一条程序（要从第一手来源知道那晚），并为它付出三样东西：身体（酒精使视野收窄、踩穿地板刮掉皮）、关系（接受 Harrison 的帮忙，同时把他推开——"I’ve heard enough."）、以及和 Gazzie 之间可能的未来（她清楚箱中之物 might sever my relationship with Gazzie）。Harrison 在本章只交出两样：一把撬棒、一句安抚，他自己的心事仍押着。
+- **人物弧线**：她给自己立了一条程序（要从第一手来源知道那晚），并为它付出三样东西：身体（酒精使视野收窄、踩穿地板刮掉皮）、关系（接受 Harrison 的帮忙，同时把他推开——"I’ve heard enough."）、以及和 Gazzie 之间可能的未来（她清楚箱中之物 might sever my relationship with Gazzie）。Harrison 在本章交出的远不止一把撬棒：他搬来梯子和撬棒、替她放风（"Someone’s coming."）、把她拉起来、帮她把脚从地板里弄出、检查她刮伤的脚踝，最后才给一句"Just a bat"的安抚，他自己的心事仍押着。她和 Gazzie 这条关系在开头另有一条具体凭据：自我开解清单里写着 Gazzie 未经她同意就启动了给她改名的程序（she’d started the process of changing my name without my consent），她替对方找的解释是对方想必以为在帮她。
 - **叙事手法**：单 POV 第一人称。前半用论辩句式（Yes… And yes… 逐条认罪再逐条减刑），后半换成动作流水，连她自己都用序数给事件排队（The next few events happened in immediate succession）。超自然信息一律走体感与余痕：空气立刻变冷、温度低到像掉进冰水、手腕留下 earthy and slightly salty, like a marsh 的水痕；视觉确证始终不给（那团影子是 more an impression of a person than the clear shape of one）。最后由 Harrison 给出世俗解释、由叙述者的感觉否掉，读者手里没有裁决。
 
 ## 精读
 
 > **原句 1:** "In the walls, water rushed through the decaying pipe system like blood through a vein. My tailbone throbbed, but I was stuck on the ground, as if I’d been glued there. No doors closed on their own, no one muttered; Ida’s focus was elsewhere."
 
-**中文理解**：墙里，水穿过朽坏的管道系统奔涌，像血穿过血管。她的尾椎在跳，人却困在地上，好像被胶黏住了。没有门自行动上，也没有人低声咕哝；Ida 的注意力在别处。
+**中文理解**：墙里，水穿过朽坏的管道系统奔涌，像血穿过血管。她的尾椎在跳，人却困在地上，好像被胶黏住了。没有哪扇门自己关上，也没有人低声咕哝；Ida 的注意力在别处。
 
 **关键词**：decaying / vein / tailbone / throbbed / glued / muttered
 
-**为什么这样写**：明喻先把房子装成一具带循环系统的身体，decaying 同时交代两件事——房子在烂，而这具身体的血正在流。紧接着她的疼痛被写成同一种跳（throbbed），"glued" 又把"被困"从心理状态说成物理事实：不是她不想动，是动不了。末句的推理方式是清点缺失：门关不上、无人咕哝，这些"没有发生"才是她判断 Ida 不在看的证据。
+**为什么这样写**：明喻先把房子装成一具带循环系统的身体，decaying 同时交代两件事——房子在烂，而这具身体的血正在流。紧接着她的疼痛被写成同一种跳（throbbed），"glued" 又把"被困"从心理状态说成物理事实：不是她不想动，是动不了。末句的推理方式是清点缺失：没有哪扇门自己关上、无人咕哝，这些"没有发生"才是她判断 Ida 不在看的证据。
 
 **读者视角提示**：她判断安全的依据是"没有动静"，也就是这栋房子里有动静才算常态。往后每一次空气或温度的变化都可以按这条账本回查——Ida 的注意力转到哪一侧去了。
 

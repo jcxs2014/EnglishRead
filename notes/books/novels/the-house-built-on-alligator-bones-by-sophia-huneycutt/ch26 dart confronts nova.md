@@ -8,10 +8,10 @@ modified: "2026-10-22"
 ## 本章导航
 
 - **一句话概括**：Henri 派对后的周一，高温预警下的 Greer House 反常地冷，葛藤一夜之间闷死整座蛋棚，Dart 读出"不让农场再养一季待宰鳄鱼"的战书，又逼自己笑散这个念头；在酷热的办公室里，Nova 头一回打断 Gazzie，Dart 偷听到她二楼的电话，随即锁定破坏者就是 Nova、帮凶是 Joe——明知答案没这么简单，仍逼自己相信；对峙时等来的不是辩解，而是"你并不了解你祖母的全部，她是个杀手，她不会再逍遥下去了"。Nova 撞开她离开，满身血的 Gazzie 奔来按她的额头、听闻"全是她干的"便眼放光追出去，Dart 则开始盘算：审完 Nova，Gazzie 就会立她为继承人——她只需要忘掉 Nova 那句话。
-- **情感弧线位置**：Dart 在本章两头摇摆：一边拼命寻找人的解释（去找 Joe 核实不在场证明、逼自己信 Nova 是主谋），一边不断被超自然的证据顶回来（一夜长成的葛藤、只烧一个棚的针对性）。Nova 落案带来的振奋是假的，结尾的笃定更是建立在"忘记"这个动作上；Aunt Virginia 缺席的这章里，她唯一能倚仗的长辈成了带血的 Gazzie，而她不敢细看这一点。
+- **情感弧线位置**：Dart 在本章两头摇摆：一边拼命寻找人的解释（去找 Joe 核实不在场证明、逼自己信 Nova 是主谋），一边不断被超自然的证据顶回来（一夜长成的葛藤、只缠一个棚的针对性）。Nova 落案带来的振奋是假的，结尾的笃定更是建立在"忘记"这个动作上；Aunt Virginia 缺席的这章里，她唯一能倚仗的长辈成了带血的 Gazzie，而她不敢细看这一点。
 - **Tropes 兑现/反转**：兑现"偷听电话撞破真凶"的侦探桥段，又当场反转：Nova 确实涉案，但她不是行动主义者，"人的阴谋"只是 Dart 的一厢情愿，电话里那句"她是个杀手"把案件重新推回无底洞。第二处反转为"恩人之手"：按额头的动作 shockingly grandmotherly，温暖与指甲缝下的红褐色血同屏出现，Dart 对 Gazzie 的依赖第一次和恐惧并排摆放。
 - **人物弧线**：Dart 的两张愿望清单在本章同时摊开：做"一个下午解决家里不超自然麻烦的正派人"，以及被 Gazzie 立为继承人。她的工作方法是自我暗示（forced myself to believe），代价是把听到过的最重要一句推给"忘记"；对 Harrison 的回避落到动作细节上——去蛋棚路上 keeping my head straight，怕在路两侧撞见他，办公室听说他先修空调，她的第一反应是 Good，不用马上见他。
-- **叙事手法**：信息控制：电话先只写侧影与姿态（手机、烟、气声），下一条才放出通话实录，用 "A pause."、"Another pause."、"A longer pause."、"A final pause and a girlish giggle." 一路串起对端的笑声，对端始终不露面。读出"讯息"之后紧跟 "This was not normal." 与 "This was Ironheart." 两句短判断作结论；另一句无出处的宣言 "I’ll make her let me go or die trying." 突兀地插在章中，既无引入也无回应。Dart 的内心一分为二（"Part of me knew the answer couldn’t be so simple." 与 "An even deeper part of me weighed the in-sync juvenile alligators, the algae, the mold, the kudzu"），反证与推论同页并置，读者被迫比她先起疑。
+- **叙事手法**：信息控制：电话先只写侧影与姿态（手机、烟、气声），下一条才放出通话实录，用 "A pause."、"Another pause."、"A longer pause."、"A final pause and a girlish giggle." 一路串起对端的笑声，对端始终不露面。读出"讯息"之后紧跟 "This was not normal." 与 "This was Ironheart." 两句短判断作结论；另一句无出处的宣言 "I’ll make her let me go or die trying." 突兀地插在章中，既无引入也无回应。Dart 的内心一分为二（"Part of me knew the answer couldn’t be so simple." 与 "An even deeper part of me weighed the in-sync juvenile alligators, the algae, the mold, the kudzu"），反证与推论同页并置，读者被迫比她先起疑。开卷另有一段先交给梦：她坐在桌前把梦速写下来——没踝深的沼泽水里，她拾起脚边的步枪，那只温柔的手把枪引上她的肩；无形的存在替她摆好瞄准的姿势，她怕得发抖、抗拒不从。梦里那只手与第 20 章按在她身上的冰凉手掌是否同一存在，原文未指认；坐到桌前，她仍觉得有眼睛盯着自己，每次回头都空无一人。
 
 ## 精读
 

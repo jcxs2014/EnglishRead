@@ -57,7 +57,7 @@ modified: "2026-10-22"
 
 > **原句 5:** "“He didn’t say anything for half a decade, then came out of the woodwork to blackmail me. Did it for years. Raised the price annually—though the idiot didn’t ask for anything close to what we’re worth—until he croaked. … Only learned he had a son when Harrison confessed.” She shook her head, muttering, “I can’t believe I trusted him.”"
 
-**中文理解**：Gazzie 交代这条人命的商业背景：对方沉默了五年半才冒出来敲诈她，一敲多年、逐年抬价——虽然这蠢货要的数目远够不上她家的身价——直到他死。她摇头嘟囔：直到 Harrison 坦白，她才知道这人还有个儿子；真不敢相信她居然信任过他。
+**中文理解**：Gazzie 交代这条人命的商业背景：对方沉默了五年才冒出来敲诈她，一敲多年、逐年抬价——虽然这蠢货要的数目远够不上她家的身价——直到他死。她摇头嘟囔：直到 Harrison 坦白，她才知道这人还有个儿子；真不敢相信她居然信任过他。
 
 **关键词**：half a decade / woodwork / blackmail / croaked
 

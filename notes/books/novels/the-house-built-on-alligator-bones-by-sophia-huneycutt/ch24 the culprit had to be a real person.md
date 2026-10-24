@@ -7,11 +7,11 @@ modified: "2026-10-22"
 
 ## 本章导航
 
-- **一句话概括**：速写本被水泡毁后，叙述者排除鬼魂、断定凶手是活人——能进她房间的三个人里，只有一个是 Leon 日记里的反面角色。周六，Gazzie 带她去 Ginny 的女友 Henri 家的烤野猪派对；车上打探速写本，只收获发白的指节和拧大的收音机音量；派对上她看见 Aunt Virginia 恋爱中的另一副面孔、Greer 这个姓在全岛的重量，以及火堆边劈柴课之后 Harrison 落到她唇上的目光——这一次不是她多想，直到"Cut it out"从身后截断。
-- **情感弧线位置**：章首是冷的——重建案发现场、把怀疑收进屋内在场的人；岛上众人的注视与 Henri、Virginia 的恩爱让她旁观式地定下来；酒、野猪和劈柴的肢体接触把温度一点点加热，胸口随裂开的原木松开；接吻前一刻被喝止，恐惧、难堪与心动搅在一起，章末停在"he looked stunned"的未落之地。
+- **一句话概括**：速写本被水泡毁后，叙述者排除鬼魂、断定凶手是活人——能进她房间的三个人里，只有一个是 Leon 日记里的反面角色。周六，Gazzie 带她去 Ginny 的女友 Henri 家的烤猪派对；车上打探速写本，只收获发白的指节和拧大的收音机音量；派对上她看见 Aunt Virginia 恋爱中的另一副面孔、Greer 这个姓在全岛的重量，以及火堆边劈柴课之后 Harrison 落到她唇上的目光——这一次不是她多想，直到"Cut it out"从身后截断。
+- **情感弧线位置**：章首是冷的——重建案发现场、把怀疑收进屋内在场的人；岛上众人的注视与 Henri、Virginia 的恩爱让她旁观式地定下来；酒、烤猪和劈柴的肢体接触把温度一点点加热，胸口随裂开的原木松开；接吻前一刻被喝止，恐惧、难堪与心动搅在一起，章末停在"he looked stunned"的未落之地。
 - **Tropes 兑现/反转**：兑现家长带着疏远亲戚社交、"共同劳动生出暧昧"（劈柴课）这两套；反转在派对的用途——对叙述者它先是排查嫌疑人与观察家声的场地，半途才变成情感舞台；灵异线在章首第一段被当庭宣判——"The culprit had to be a real person"，超自然从本章起让位给人为动机。
-- **人物弧线**：本章 Aunt Virginia 向 Henri 介绍叙述者时说"Dart, this is Henri"。她对 Harrison 隐瞒了自己技术上仍有东家（那个 backup plan），只承认"I like art"，酒后漏出"just the skeletons in the closet"又赶紧收回。Aunt Virginia 第一次以恋爱中的姿态出现：看见 Gazzie 时笑容塌了一分又扳回原位，眼睛跟着 Henri 的一举一动。Harrison 从"my incredibly abrasive competition"变成正色说出"I can tell you hold a lot back, remember?"的人。
-- **叙事手法**：开篇是一段收束型推理，之后全章沿"怀疑活人"这条线展开；场景靠空行与时间跳切（周六下午—停车场—Henri 家—天色转粉—夜）；人物关系靠对话交底——Henri 与 Ginny 的关系、"She doesn’t care for me"都出自 Gazzie 的三言两语；劈柴一节用身体细节做潜台词（手一碰就抽开、双手在斧柄上下一圈的后置包覆、颊上的热气、抽身后手臂"突然太凉"）；整只烤野猪经"晒伤孩子的粉脸蛋"转写，素食者视角把宴席拉回恐怖框架。
+- **人物弧线**：本章 Aunt Virginia 向 Henri 介绍叙述者时说"Dart, this is Henri"。她对 Harrison 隐瞒了自己技术上仍有东家（那个 backup plan），只承认"I like art"，酒后漏出"just the skeletons in the closet"又赶紧收回。Aunt Virginia 第一次当着叙述者的面以恋爱中的姿态出现（ch04 只有过她提及 Henri 时的脸红）：看见 Gazzie 时笑容塌了一分又扳回原位，眼睛跟着 Henri 的一举一动。Harrison 从"my incredibly abrasive competition"变成正色说出"I can tell you hold a lot back, remember?"的人。
+- **叙事手法**：开篇是一段收束型推理，之后全章沿"怀疑活人"这条线展开；场景靠空行与时间跳切（周六下午—停车场—Henri 家—天色转粉—夜）；人物关系靠对话交底——Henri 与 Ginny 的关系、"She doesn’t care for me"都出自 Gazzie 的三言两语；劈柴一节用身体细节做潜台词（手一碰就抽开、双手在斧柄上下一圈的后置包覆、颊上的热气、抽身后手臂"突然太凉"）；整只烤猪经"晒伤孩子的粉脸蛋"转写，素食者视角把宴席拉回恐怖框架。
 
 ## 精读
 
@@ -31,7 +31,7 @@ modified: "2026-10-22"
 
 **关键词**：conservatory / border / claws / overnight
 
-**为什么这样写**："three feet closer to the house overnight" 违反植物的常识速度，而她的处理是把异常归档成"地界"问题——if I hadn’t seen the border 说明这条线是后来才出现的，草的推进被写成一次无声的领土扩张。"Grass reached toward the glass walls like claws" 只给一个比喻：玻璃墙是圈舍的栏，人是栏里看戏的，猎手是院子本身；三英尺的刻度让恐惧有了可以丈量的单位。
+**为什么这样写**："three feet closer to the house overnight" 违反植物的常识速度，而她的处理是把异常归档成"地界"问题——if I hadn’t seen the border before 是倒推：正因为先前见过，她才知道边界存在过；如今草已漫过它，边界反而被吞得认不出了。草的推进被写成一次无声的领土扩张。"Grass reached toward the glass walls like claws" 只给一个比喻：玻璃墙是圈舍的栏，人是栏里看戏的，猎手是院子本身；三英尺的刻度让恐惧有了可以丈量的单位。
 
 **读者视角提示**：她在这个画面里等来的是 Gazzie 一句"let’s head out"——草地的异动没有被调查，只是被离开。本章里没人接住的异常就这样原样留着账，别指望读者替她们销掉。
 

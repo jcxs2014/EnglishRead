@@ -8,16 +8,16 @@ modified: "2026-10-22"
 ## 本章导航
 
 - **一句话概括**：Gazzie 一整天不跟我说话，只通过 Harrison 的转述把我扔进剥皮间受训；在刀与鳄鱼尸体之间，我第一次尝到"胜任"的快感，而尸体内部让我想起 Michelle 的血色，又立刻把它变成需要藏起来的危险。收工时我用一句含糊的试探换回 Harrison 的承认：几张鳄皮在我上班第一天就被偷了。
-- **情感弧线位置**：从疲惫的低位开场（"I just wanted to get through the day"），随剥皮一路升到兴奋与掌控感，Michelle 的记忆和"Mama would have been furious"把快感猛地拽回愧疚与自警，结尾停在怀疑（盗皮）上——一天之内走完"被吓退→着迷→心虚"的弧线。
+- **情感弧线位置**：从疲惫的低位开场（"I just wanted to get through the day"），随剥皮一路升到兴奋与掌控感，Michelle 的记忆和"Mama would have been furious"把快感拽回愧疚与自警，:372 的确证又把渴望立回来，结尾停在怀疑（盗皮）上——一天之内走完"被吓退→着迷→心虚"的弧线。
 - **Tropes 兑现/反转**：兑现"家族企业的刁难式训练"与"对立同事变临时导师"；反转在于刁难失灵——本该把我吓跑的部门恰好是让我着迷的部门。Ida Greer 的肖像复制品在剥皮间值班墙上"盯着剥皮台"，南方哥特的被注视感被搬进了工作间。
-- **人物弧线**：我从"只想熬过今天"走到"With the knife in my hand, I felt competent, in control"，自我认知在 Gazzie 布下的火里生长；Harrison 从讽刺（"You're good at saying the opposite of what you feel"）转到交底：他也怕 Ida 的画像、不喜欢生意里"messy parts"、在这栋漏水的楼里干了五年。
-- **叙事手法**：单第一人称。关键信息几乎全经 Harrison 之口二手传来（每年一万四千头的数字注明是"Gazzie had said"，Joe 的来历是转述）；Michelle 的回忆在句中被打断，叙述者随即自查"he'd clocked it"式的被看穿恐惧，POV 的不可靠由她自己的警戒心标出。
+- **人物弧线**：我从"只想熬过今天"走到"With the knife in my hand, I felt competent, in control"，自我认知在 Gazzie 布下的火里生长；Harrison 从讽刺（"You’re good at saying the opposite of what you feel"）转到交底：他承认 Ida 的画像也让他发毛（:156）、说这楼从他五年前入职起就一直漏（:168）；至于"不喜欢生意里 messy parts"（:69），那是叙述者从他表情里读出来的，不是他讲的。
+- **叙事手法**：单第一人称。本章多数新信息经 Harrison 之口（Joe 的来历 :210、皮的生意 :252–:276、盗皮 :384），叙述者特意标明每年一万四千头是回忆 Gazzie 曾说过的（:60 Gazzie had said；该数 ch08:153 已出现过）——同一章里两种来源被这样区分开。Michelle 的回忆在句中被打断，叙述者随即自查"he’d clocked it"式的被看穿恐惧，POV 的不可靠由她自己的警戒心标出。
 
 ## 精读
 
 > **原句 1:** "Monday morning, Gazzie stalked out the front door before I could say a word. As I slid into the SUV, she switched on the radio. When I said good morning, she turned up the volume."
 
-**中文理解**：周一早上，Gazzie 抢在我开口之前摔门出门。我坐进 SUV，她打开收音机；我说早安，她只是把音量调大。
+**中文理解**：周一早上，Gazzie 抢在我开口之前出了前门。我坐进 SUV，她打开收音机；我说早安，她只是把音量调大。
 
 **关键词**：stalked out / switched on / turned up the volume
 
@@ -31,7 +31,7 @@ modified: "2026-10-22"
 
 **关键词**：scare me off / bore me to death / proverbial fire
 
-**为什么这样写**："bore me to death" 与 "scare me off" 是两种相反的策略，都归到 Gazzie 名下，我的推理因此有据可循：前一晚的文件不是疏忽而是第一波攻势。"but skinning?" 用光杆动名词做反问，从句式里抽掉了宾语，惊吓程度让读者自行补足。proverbial（俗话说的）自嘲式地点明"火坑"是套话——叙述者知道自己正在用陈词形容自己的处境，这份清醒比喊怕更可信。
+**为什么这样写**："bore me to death" 与 "scare me off" 是两种相反的策略，都归到 Gazzie 名下，我的推理因此有据可循：连日把她按在文件里的安排不是疏忽，而是第一波攻势。"but skinning?" 用光杆动名词做反问，从句式里抽掉了宾语，惊吓程度让读者自行补足。proverbial（俗话说的）自嘲式地点明"火坑"是套话——叙述者知道自己正在用陈词形容自己的处境，这份清醒比喊怕更可信。
 
 **读者视角提示**：把"越来越令人心烦的部门"当成预告：本章之后她还会被往哪儿派，值得盯住。
 
@@ -51,7 +51,7 @@ modified: "2026-10-22"
 
 **关键词**：five years ago / constantly leaking / under control
 
-**为什么这样写**："five years ago" 一句话给建筑病害标了年限：漏水不是新事，而是他受雇以来的常态。"Eyeing me" 交代了那句表功的听众——"我控制得住"是说给我听的，自尊的成分大于工程判断。不断漏、不断坏用两个现在分词滚出，与"under control"的静态自信形成对照，读者比叙述者更早怀疑这句保证。
+**为什么这样写**："five years ago" 一句话给建筑病害标了年限：漏水不是新事，而是他受雇以来的常态。"Eyeing me" 交代了那句表功的听众——"我控制得住"是说给我听的，自尊的成分大于工程判断。不断漏、不断坏用两个现在分词滚出，与"under control"的静态自信形成对照；原文随即用一滴水（:171）和她压不住的欢快反讽（:174）替读者把这句保证拆掉。
 
 **读者视角提示**：注意"新补好的、不漏的天花板"与"天花板上的裂缝"在本章一先一后出现，这栋楼的修复永远赶不上它坏掉的速度。
 
@@ -71,9 +71,9 @@ modified: "2026-10-22"
 
 **关键词**：asking for permission / unnerve / refused to be bullied / inclined my head
 
-**为什么这样写**：许可不是用嘴要的，是用眼神要的，于是这幕教学在字面上没有发生任何越界。"I assumed he thought" 是双重推测——她在猜他的假设，亲密与敌意被同一种不确定包裹。"refused to be bullied" 用大词写小场面，暴露她防御的真正对象不是触摸而是失态；"I inclined my head" 短到只有一动，是她少见的毫不迟疑的应答。
+**为什么这样写**：许可他先开口要过一次（:306 “Do you mind?”），手悬上去后又用眼神二次确认（:309）；两道请求之间，这幕教学在字面上没有发生任何越界。"I assumed he thought" 是双重推测——她在猜他的假设，亲密与敌意被同一种不确定包裹。"refused to be bullied" 用大词写小场面，暴露她防御的真正对象不是触摸而是失态；"I inclined my head" 短到只有一动，是她少见的毫不迟疑的应答。
 
-**读者视角提示**：注意她把每个身体接触都要翻译成权力问题（"unnerve""bullied"），这是她衡量所有近距离互动的默认标尺。
+**读者视角提示**：注意她能把一次接触立刻翻译成权力问题（"unnerve""bullied"），但同章 :312 这一次读出来的却是他的唇——两套读数在同一个人体上打架，值得跟踪哪一套什么时候占上风。另注意 Harrison 的手还没落到她手上，先落下来的是 dryer sheets 的气味——比他 Greer House 房里那件衬衫浓十倍（:309），这条气味线从 ch13:48 起就在替他到场。
 
 > **原句 7:** "My mind flashed to Michelle, lying on my middle school’s concrete playground. Her blood had been thin, like a watercolor wash, but richly colored, like oil paint. I’d never seen anything like it."
 
@@ -93,7 +93,7 @@ modified: "2026-10-22"
 
 **为什么这样写**：自己的中心地位不靠自我宣称，靠别人的让位来印证——"I sensed Harrison moving out of my way" 用背影写权力感。"competent, in control" 两个形容词落在工作感受上，节奏干脆；紧跟的 "That wasn’t wicked, was it?" 却给这份痛快贴上道德标签，反问的口气说明她对答案没有把握。快感与自我审判在同一口气里完成。
 
-**读者视角提示**：注意她需要向自己确认"这不算邪恶"——章内反复出现的"被看穿恐惧"从这里开始升级。
+**读者视角提示**：注意她需要向自己确认"这不算邪恶"——这股"被看穿恐惧"在本章已非第一次（:114 的 he’d clocked it、:327 的 Had he noticed?），到这里（:348 Had I slipped again?）它开始在她动手的瞬间发作。
 
 > **原句 9:** "If he thought I was doing a good job, maybe Gazzie would, too. Then guilt settled in the pit of my stomach. Mama would have been furious to see a knife in my hand."
 
@@ -103,7 +103,7 @@ modified: "2026-10-22"
 
 **为什么这样写**：认可的传递链被写成条件句：Harrison 的判断只是通往 Gazzie 认可的跳板，说明她真正的考官始终不在场。"settled in the pit of my stomach" 给愧疚以重量和位置——它不掠过而是沉积，与前面快感的"轻盈"形成身体对仗。"a knife in my hand" 只报出画面、不报原因，Mama 的怒气成了本章一条没有解释的禁令。
 
-**读者视角提示**：留意"Mama"每次作为禁令或标尺出现、而从不作为被叙述的人出现——关于她，这章只给了态度，没给往事。
+**读者视角提示**：留意本章两处提到 Mama：:9 是被她咽回去的提问对象之一，:354 是一条禁令；两处都没有给往事。
 
 > **原句 10:** "“Gazzie mentioned things going missing last week,” I said casually, hoping the statement was vague enough to fool him into thinking I knew what I was talking about. “Folks down on their luck and all that.”"
 
@@ -113,7 +113,7 @@ modified: "2026-10-22"
 
 **为什么这样写**：她在心里当场承认自己在诈——"hoping the statement was vague enough to fool him" 把底牌直接摊给读者，叙述者与读者的信息差被抹平，悬念从"她知不知道"转到"Harrison 会不会接"。"Folks down on their luck and all that" 借用体面话术垫高假象，"and all that" 的漫不经心恰是露馅风险所在。
 
-**读者视角提示**：注意这是我在一整章里罕见地主动出击的一问；此前的闲聊、教学、打闹都是被动接招，直到这里我才把话头拿去赌。
+**读者视角提示**：注意这是我罕见地把话头拿去赌的一次：本章我问过十几次（:33 到 :357），Harrison 甚至用 “Interrogation over?”（:240）给我的连问定过性——但只有 :381 这一句是明知自己在诈（:381 hoping the statement was vague enough to fool him）。
 
 ## 本章词汇
 
@@ -149,4 +149,4 @@ modified: "2026-10-22"
 
 ## 一句话总结
 
-Gazzie 本想用剥皮间吓退我，那里却第一次让我感到"能干、尽在掌控"——把这快感打回原形的不是鳄鱼尸体，而是我认出了自己对血色的着迷，和 Mama 那条缺席的禁令。
+Gazzie 本想用剥皮间吓退我，那里却第一次让我感到"能干、尽在掌控"——让我住手的不是鳄鱼尸体，而是我认出了自己对血色的着迷和 Mama 那条缺席的禁令——可收工前我又确认了一次：我能干，而且我想（:372 More than that—I wanted to）。

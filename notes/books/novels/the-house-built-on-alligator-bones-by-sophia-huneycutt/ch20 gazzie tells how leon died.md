@@ -11,7 +11,7 @@ modified: "2026-10-22"
 - **情感弧线位置**：本章之内，情绪从身体的崩溃走到决心的成形——车上是怕被看作 watered-down Greer 的羞赧与恼火，强制静卧的底部是噩梦与半瘫，与 Gazzie 的争吵把愤怒一瞬翻成悲伤，Leon 的坦白让两人在「我不恨你」一句里对上真话，眼泪之后是行动决定，收在主动的一端。
 - **Tropes 兑现/反转**：兑现：不得不借她手臂站稳的结实身体与嘴硬的跑腿人（Aunt Virginia 咬定他是 the nice boy，她不吃这套）、南方哥特的宅中噩梦（步枪、没有主人的冷手）、冷漠曾祖母与求认可的孙女。反转：幽灵戏被叙述者自己拆穿——The perpetrator had been a real person；「家族秘密」不是谋杀而是事故加终身愧疚；照护由拿着诊断书管孩子的 Aunt Virginia 承担，亲祖母登场先带着一肚子工分账。
 - **人物弧线**：叙述者在本章换掉了自证的方式：从「不出声地干活」（销毁约五百份文件、下剥皮房）改为「把案子查破」，她也承认 Turns out I like being cared for, rather than being the caretaker。Gazzie 从「冷面疑心长辈」露出「怕再受一次伤的人」；Harrison 从不情愿的跑腿到主动发短信探问；Aunt Virginia 的权威经这条诊断彻底立起。
-- **叙事手法**：一章自然分成三场——棚里与车上的对话、噩梦与半瘫的感官戏、午后养病的两次来客。梦里的冷手与半醒时按上额头的 marble-cold 手互为复印，把「Ida」的意象预热；闪前一次性自我点明 Leon 之死是 the first of several 版本；推理句写成否定式（but he hadn't），先拆错问题再给假说。
+- **叙事手法**：一章自然分成三场——棚里与车上的对话、噩梦与半瘫的感官戏、午后养病的两次来客。梦里的冷手与半醒时按上额头的 marble-cold 手互为复印，把「Ida」的意象预热；闪前一次性自我点明 Leon 之死是 the first of several 版本；推理句写成否定式（but he hadn’t），先拆错问题再给假说。
 
 ## 精读
 
@@ -71,7 +71,7 @@ modified: "2026-10-22"
 
 **关键词**：replayed / stuck out / disappearance / motive
 
-**为什么这样写**：推理的转折写在语法上：but he hadn't 三个词注销了此前所有提问的前提。target 是她自己设问时用的词，否定它等于承认「错认」——若鳄鱼不是冲她来的，那就有人本来要她在、或本来要别人在那个房里。
+**为什么这样写**：推理的转折写在语法上：but he hadn’t 三个词注销了此前所有提问的前提。target 是她自己设问时用的词，否定它等于承认「错认」——若鳄鱼不是冲她来的，那就有人本来要她在、或本来要别人在那个房里。
 
 **读者视角提示**：留意顺序：先发现「问错了」，随后才长出「伪造命令」那套假说（她就地决定去向 Gazzie 核实）。本章的查案动力从这里起步。
 
@@ -83,7 +83,7 @@ modified: "2026-10-22"
 
 **为什么这样写**：you’re all I have 里那个 you 对着一个人说，装的却是人、房子、农场整体——「家人」的定义缩到只剩没跑掉的那几个。第二句写的是二级情绪：翻成悲伤已经糟糕，为自己的软而怒才更糟（which made me angrier），自我交战比争吵更凶。攥拳与含泪的动作方向相反，身体在同时抗命与服从。
 
-**读者视角提示**：这句之后对话换了层——对方回以 You’re still not part of the business.，把争吵从感情账拽回身份账，她随即甩出销毁文件的那笔工分。
+**读者视角提示**：这句之后对话换了层——对方回以 You’re still not part of the business.，把争吵从感情账拽回身份账，她随即甩出销毁文件的那笔工分。而她本想接着说却被喉咙堵住的那段话，才是「两人可信圈」的界定：Mama 教她只有家人会爱她，把她限在一个只容两人的可信圈里——这个圈 Mama 自己先打破了；她也曾希望自己、Gazzie、Aunt Virginia 能结成自己的圈。
 
 > **原句 8:** "I’ve shredded about five hundred of your stupid files and scanned a thousand more. I dove headfirst into skinning alligators without a word of complaint, and all you do is remind me I haven’t lived here my whole life."
 
@@ -103,7 +103,7 @@ modified: "2026-10-22"
 
 **为什么这样写**：We—I— 的改口在破折号里完成：先拉同伙分摊罪责，再退回独自领罪。Wringing her hands 与 spoke faster 是羞耻的直接证据——身体比措辞更诚实，她在赶着把故事甩掉。a night’s worth of work 是家规里最冷的一条单位：住进屋檐下的资格要用工时购买；他不肯买，资格与惩罚便一起收回。
 
-**读者视角提示**：别放过那个 We——上文写着 Caroline and I made him go to the farm to clean the breeding pond，而叙述者在心里把这一晚的画面称为「黄色眼睛看着 Mama and Gazzie 走开」。
+**读者视角提示**：别放过那个 We——上文写着 Caroline and I made him go to the farm to clean the breeding pond，而叙述者在心里把这一晚的画面称为「黄色眼睛看着 Mama and Gazzie 走开」。这场讲述里还有母亲档案的第二处谎：Gazzie 顺口交代 Caroline 本科读的是 Jacksonville 的 UNF、从家里通勤，而叙述者原以为母亲至少在「在 Savannah 上大学」这件事上没撒谎——这一点她也是编的。
 
 > **原句 10:** "Her voice was halting, like she was speaking a new language. “I don’t hate you. I just don’t ever want to feel that way again.”"
 
