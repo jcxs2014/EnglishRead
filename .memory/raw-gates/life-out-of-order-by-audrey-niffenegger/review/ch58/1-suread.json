@@ -1,0 +1,71 @@
+{
+  "chapter": "ch58",
+  "source": "text/ch58_a_handbag_full_of_rain.txt",
+  "method": "只读 text/ 素读，未开 md；2041-10-09；Zach 40 岁；Zach 第一人称，全章 6439 词（长章）",
+  "facts": [
+    {
+      "fact": "抬头：2041 年 10 月 9 日星期三（Zach 40 岁）。上午一直在打雷下雨，Zach 躺在床上；Alba 还没回来，他「看不出起床有什么意义」，翻身又迷糊了一两个小时。起床后换上干净内衣、昨天的外衣；不刮胡子——没地方去、没人要讨欢心。他为第 50 选区筹备的新衣物银行已交给志愿者，这几天正空档；他坐着想记点东西，写不出；喝咖啡看雨又把后院淹了，风暴加剧，树在风里乱甩。",
+      "quote": "Zach: It’s been thunder-storming all morning and I’m in bed. Alba is still gone, and it was hard to see the point of getting up … I’ve been organizing a new clothing bank for the 50th Ward, but now we’ve handed it over to the volunteers, and I’m between projects for a few days.",
+      "line": 23,
+      "lines": "18, 23-23",
+      "anchor": "Zach: It’s been thunder-storming all morning and I’m in bed."
+    },
+    {
+      "fact": "芝加哥又在削预算，如今联邦政府一分不给，第 50 选区已多年经费枯竭。Gomez 的口号是「Doing More with Less」（用更少的钱做更多的事）；Rosa 阴郁地开玩笑说他们的新口号是「用越来越少做越来越少」。他不太在意没薪水——因为 Alba，他们在股市彻底崩盘前把积蓄建好并存到了安全处——但现在需要分心。他想干脆去上班看 Rosa 有没有项目；他想念 Gomez。",
+      "quote": "Gomez’s motto was, “Doing More with Less”; Rosa jokes grimly that our new motto is “Doing Less and Less with Less.” … I don’t mind the lack of pay too much—because of Alba, we were able to build up our savings and stow it away safely before the stock market completely crashed",
+      "line": 29,
+      "lines": "28-29",
+      "anchor": "The City of Chicago has been trimming its budget again"
+    },
+    {
+      "fact": "他想要个孩子，哪怕一条狗也好。上网失败——连接断了，也许是风暴刮倒了树。有新的东西叫「间隙」（the Interstices），但它是为生物硬件（bioware）设计的：Alba 不能装，他自己怕见血，而且两人都不愿让大脑被大科技公司侵入，所以没换。于是「今天不养狗了」。门铃响。",
+      "quote": "There’s the new thing, the Interstices, but it’s designed for bioware. Alba can’t get that, and I am too squeamish, plus neither of us are willing to have our brains invaded by Big Tech, so we haven’t switched over.",
+      "line": 34,
+      "lines": "34-34",
+      "anchor": "It would have been nice to have a kid, or even a dog."
+    },
+    {
+      "fact": "门外是个中年白人女性，没带伞，外套被雨浸透。她高、好看、略丰满，直的金发湿透，淡绿眼睛，几点雀斑，没化妆；穿得保守，像推销保险或卖女童军饼干。她问「Alba 在吗？」「她会很快回来吗？」然后伸手接雨看水花溅在掌心，问「我可以进来吗？」她有点不对：眼神空茫、望得很远，动作不协调，「像轻度中风」。她坐在米色沙发上，湿衣服也不管；Zach 帮她把外套「像给小孩脱衣」那样剥下来挂到门厅滴水。她盯着自己的手像从没见过；他拿毛巾示范擦头发，她就用完全一样的时长和方式擦。他要给她咖啡，她说「咖啡就好，谢谢」；他连糖和燕麦奶都端来，提醒「别烫着」。她伸手碰杯壁，缩回，又碰：「烫？」",
+      "quote": "There’s something a little off about her: she has a spacey, thousand-mile stare and seems uncoordinated, as though she has had a mild stroke. … She rubs her head with the towel for exactly as long and in exactly the same manner as my demonstration.",
+      "line": 60,
+      "lines": "38-73",
+      "anchor": "It’s indicative of my parched mental state that I bound over to the front door"
+    },
+    {
+      "fact": "她说要留话给 Alba。Zach 拿纸笔。「Friday, June 13, 2098.」她毫无情绪地说出这个日期，仿佛与己无关；Zach 暗想她会不会是未来来的时间旅行者。「是谁的留言？」——「Oliver.」——「Oliver？」——「Alba 的丈夫。」Zach 喉咙一紧、浑身发冷，闭眼低头，并不质疑，因为「我知道这是真的」。他问「你是谁？」她礼貌地笑：「我叫 Isadora。」她说「我从小就认识 Alba。我们一起是孩子。」——「Beck！是的，Beck 和 Clare，我认识他们！我爱 Beck。Clare 很好。Clare 是 Alba 的母亲。Beck 是我的母亲。你是谁？」Zach 报名字，她说「啊……另一个丈夫。」",
+      "quote": "“Friday, June 13, 2098.” … “Oliver,” she says. … “Alba’s husband,” she says. … My throat contracts and I feel cold all over. I close my eyes and bow my head. I don’t question what she has said, because I know it is true. … “My name is Isadora.”",
+      "line": 97,
+      "lines": "97-157",
+      "anchor": "“Friday, June 13, 2098.” She says it without emotion"
+    },
+    {
+      "fact": "Zach 追问 Oliver 与 Beck、Clare 是否相识，Isadora 说「我没有资料。我是在 2013 年 8 月 18 日星期日认识 Oliver 的」——精确到日。她说这条留言「被交代要在 2041 年 5 月 1 日之后送达」。然后她说「我已经送完留言和这位女士了。我现在要走了。」——「什么女士？」——「当然是这一位。」她眼珠上翻、侧倒在沙发垫上昏死过去；随即又睁眼挣扎坐起，看见 Zach 就开始尖叫，声音完全变了，更高、更不稳：「我为什么会在这里？我叫 Katie！」",
+      "quote": "“I met Oliver on Sunday, August 18, 2013.” … “I was told to deliver it after May 1, 2041.” … “I’ve delivered the message and the lady,” Isadora says. “I’m going, now.”",
+      "line": 167,
+      "lines": "162-239",
+      "anchor": "Isadora looks a little blank; her eyes roll up"
+    },
+    {
+      "fact": "Zach 认出她：「Katie，你的真名是不是 Nadia Kendrick？」她脸一僵：「不再是了。很久以前就不是了。我记得你，你在那个派对上。你开车送我们回我们的小屋。」她说自己不记得怎么来的，该给 Nick 打电话；她和 Nick 在派对上几个月后就结婚了，一直住在底特律的「郁金香农场」（Tulip Farm）——「那是电脑编程合作社，不是花」。他们当年租一个传奇书店的空间，书店倒闭后就留下占地住；有两个女儿，现在十二岁和九岁（她提孩子时窘迫：Alba 不能生育）。她是程序员，做「间隙」／叠加现实（overlaid reality）；后脑勺有那个红色闪电嵌蓝圈的标志纹身，上方一道很小的刚愈合的疤——植入手术入口。她说用法是「你只要想要就行」；Avatar 是个以凶悍著称的同性恋摔角手/色情明星，「很实用，现在没人敢惹我」。她闭眼就"打"了电话给 Nick。",
+      "quote": "“Not anymore. Not for a long time. I remember you, you were at the party. You drove me to our cottage.” … “The Tulip Farm is a computer programming collective, not flowers.”",
+      "line": 249,
+      "lines": "245-315",
+      "anchor": "“My name is Zach Purcell,” I tell her. She tilts her head"
+    },
+    {
+      "fact": "Nadia 讲出 Beck 的旧事：Beck 与 Clare 结婚前有过丈夫，叫 Jasper Williams；两人是 1990 年代末到 2000 年代初的先驱 VR 设计师，他是对外的门面、更天才的程序员，她是艺术家、有远见的人。他们最后一个共同作品是「失魂博物馆」（the Museum of Lost Souls）。Jasper 后来行为反常：睡不着、不照顾自己、思路混乱，开始听见声音，声音说 Beck 在偷他的心智、这些可怕的事都是她做的、博物馆有危险。Nadia 猜 Beck 通知了他父母，他们介入把他送进医院；Jasper 两年前去世。Nadia 小时候 Beck 让她和 Alba 在旁边看她工作，她们在博物馆里和「还是只猫」的 Isadora 玩；她的编程别名是 Blue Mousie——她做的第一只虚拟老鼠，白的，她把它改成蓝色。几周前她教小女儿 Ami 动画，复活了 Blue Mousie，让它在公寓里跑了约五分钟；「那道痕迹一定就是 Isadora 追踪到的东西」。",
+      "quote": "“They worked on it together for about a year,” Nadia says. “But things got weird. Jasper started behaving strangely … the voices told him that Beck was stealing his mind” … “she was on the Interstices for five minutes, and that left a trace, and that trace must be what Isadora followed. She knew Blue Mousie was me.”",
+      "line": 528,
+      "lines": "505-731",
+      "anchor": "Nadia sits very still. We stare at each other."
+    },
+    {
+      "fact": "Nadia 走后（她的提包放在车盖上，里面全是雨水，她把水倒掉就上车），Zach 独自面对新知识：「我是另一个丈夫。我原以为我是丈夫。但不是。」他洗碗时想砸东西、想毁了房子，又想到 Alba 回来看见废墟会难过；他把湿盘子放回沥水架，觉得自己愚蠢。他回想 Oliver 多年来谈「他妻子」的话，才明白「他一直在为这一刻做准备，却从没明说他的妻子就是我的妻子」；也回想 Alba 讲故事的破绽（有时太细，有时乱得难堪，像边讲边改）。他冒雨去 Clare 与 Beck 家，只字不提 Oliver；说到 Jasper 时 Beck 僵住，「可怜的人」；他问「你为什么把 Isadora 上线，Beck？」她答「时候到了。」「现在怎么办？」「我们等。」Beck 说希望知道 Lucinda 此刻在哪，她担心 Isadora 会去找 Lucinda（Lucinda 没植入，但她那位艺术家老板一直催她装）。当晚他们叫来 David、Nancy、Caralora，吃 gyro 喝 retsina；他睡在 Alba 的旧房间，那里没有她最近来过的痕迹；他喝得够醉才睡着，却醒得太早，在哭。",
+      "quote": "I go inside. Now I’m stuck with myself and my new knowledge: I’m the other husband. I’d thought I was the husband. But no. … I remember things Oliver has told me about his wife (his wife) over the years, and now I realize that he was trying to prepare me for this without ever quite telling me that his wife was my wife.",
+      "line": 789,
+      "lines": "773-929",
+      "anchor": "The car pulls away. I watch until it turns onto Ridge Avenue"
+    }
+  ],
+  "turning_point_note": "本章转折点是**「Oliver 是 Alba 的丈夫」被第三方说破**（第 5 条，`:106-119`），已进单；紧随其后的第二转折是**「这位访客是 Nadia，而占据她身体的是 Beck 的 AI Isadora」**（第 6、7 条，`:212-260`），两件事常被写成一件事。最易漏的是第 8 条的**因果链**：Nadia 复活 Blue Mousie 五分钟 → 留下痕迹 → Isadora 循迹找到她 → 借她的身体送信，且「送完留言和这位女士」。若 md 只写「一个神秘女人来送信」，机制全丢。"
+}

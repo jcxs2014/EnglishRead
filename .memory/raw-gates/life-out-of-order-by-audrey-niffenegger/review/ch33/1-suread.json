@@ -1,0 +1,64 @@
+{
+  "chapter": "ch33",
+  "title": "The Parable of the Parrots",
+  "source": "text/ch33_the_parable_of_the_parrots.txt (664 lines)",
+  "method": "R1 素读：仅读 text/ch33_the_parable_of_the_parrots.txt，未打开 ch33 md。日期/年龄/人名/数字逐字抄自原文行。",
+  "facts": [
+    {
+      "fact": "2013 年 8 月 18 日（Oliver 57 岁）他时间旅行落进一间摄影棚／古董 VR 录制棚，赤身；先靠设备与服务器认出是二十一世纪初，再靠桌上笔记本里 Clare 与 Beck 的两列计分（两人在下棋，Beck 赢）确认「这是 Beck 的旧工作室」；随后揭开黑塑料袋，一颗机械头正在醒来。",
+      "quote": "Then I turn a page and see two columns of numbers. At the top of one column is Clare’s name; at the top of the other is Beck’s. They must have been playing Scrabble or some other game. It was close; Beck won. Now I know where I am: this is Beck’s old studio.",
+      "line": 40
+    },
+    {
+      "fact": "机械头 Isadora 醒来，眼透镜上下打量他；她的声音机械，但能听出是以 Beck 的声音为底（「pleasant but oddly frictionless」）。",
+      "quote": "“Hello?” Her eye-lenses focus on me, look me up and down. “Who are you?” Her voice is mechanical, like the robot voices I hear all the time in the past, on telephones and trains and elevators, but I can tell that it is based on Beck’s voice.",
+      "line": 74
+    },
+    {
+      "fact": "她先严肃索要密码，随即自己笑场承认「There’s no password, silly Oliver」，说他在 users list 上；报出日期 Sunday, August 18, 2013；他说 Alba 是他妻子、所以他算她姐夫，她说 Alba 是她姐姐、Alba 是时间旅行者；把 Oliver 加进名单的人正是 Alba。",
+      "quote": "“Sunday, August 18, 2013,” she says, sounding bored. / “Who added me to the list?” … “Alba.” / “Alba is a time traveler. Alba is my sister.”",
+      "line": 110
+    },
+    {
+      "fact": "Oliver 告诉 Isadora「Alba 二十七岁会嫁给我」，要她保密；她问「When are you my brother-in-law?」，又说「You are an old husband.」——他觉得五十七岁并不算老。（叙述提示此刻 Alba 十一岁。）",
+      "quote": "“When Alba is twenty-seven, she will marry me.” I smile. “But it’s a secret for now, Isadora. Don’t tell Alba, or anyone else.” / “When are you my brother-in-law?” She doesn’t sound worried, just mildly curious. Alba is eleven in her present. “You are an old husband.”",
+      "line": 146
+    },
+    {
+      "fact": "Oliver 讲上海旧事：他九岁、住一栋两千年前后建成、已破败漏水的公寓楼；他和六楼的朋友 Zhao Zǐ Yì 在阳台下围棋，四楼太太的两只鹦鹉 Bǎobǎo 与 Cǎi Hóng 抢走那副祖传黑白棋子、叼起来丢进漏雨积水的庭院，两个孩子只能喊着护棋子、还骂了鹦鹉。",
+      "quote": "Then Cǎi Hóng saw all the little black and white Go stones; he swooped down, grabbed a stone, flew away and dropped it into the water flooding the courtyard. Then he came back to get more, and Bǎobǎo joined in, and soon we were yelling and trying to protect our Go stones.",
+      "line": 273
+    },
+    {
+      "fact": "此后太太每次在楼下堵到 Zǐ Yì 就打他，第一次的理由是「既然你打了鹦鹉，我就让你尝尝被比你高大的人打是什么滋味」；Oliver 自己从未挨打，因为父母从不让他独自出楼。两个孩子于是囤了一周零食，用食物把两只鹦鹉引到门口放走，作为报复。",
+      "quote": "I don’t know if the lady was watching us or we were just unlucky, but after that it seemed as though every time Zǐ Yì left the building the lady would find him and strike him. The first time, she told him that since he had struck the parrots she was going to teach him how it felt to be struck by someone bigger than him.",
+      "line": 290
+    },
+    {
+      "fact": "鹦鹉飞走后栖在街对面一棵大悬铃木上，筑巢孵出雏鸟，季节过去；太太一次次带食物来叫，它们应声却从不飞回；街区最终被成千上万只鹦鹉占领，变成只有鹦鹉住的鬼街区；放走鹦鹉四年后，Oliver 去了伦敦。",
+      "quote": "They built a nest and had chicks, seasons went by. The lady would stand under the tree and talk to Bǎobǎo and Cǎi Hóng and they would reply, but they never flew to her. / Eventually it became a ghost neighborhood, and only parrots lived there. / “No. Four years after we set the parrots free, I went to London.”",
+      "line": 416
+    },
+    {
+      "fact": "为解释 strike，Oliver 用橘子演示：轻拍、重拍，最后一拳把橘子砸开，汁水淌到桌沿、滴成地上一滩；Isadora 只关心「It is hurt?」。此前她还说过「我没有手指，所以我没有痛」，Oliver 回「That's what I am afraid of.」",
+      "quote": "“You can strike softly, a little tap—” I demonstrate on the orange “—or harder—a person would feel that—or, very hard.” I put the orange on the table and really thump it. The orange breaks open.",
+      "line": 308
+    },
+    {
+      "fact": "Oliver 要 Isadora 承诺：将来自由了、变野了，要记得家人、回到 Beck 身边、be kind（他让她拿康德绝对命令当准则，别伤害 Beck 与 Alba）；Isadora 回「I am a parrot.」；随后他交给她密令——记住日期 Friday, June 13, 2098，除 Alba 外不告诉任何人，且要等 2041 年 5 月 1 日之后再告诉 Alba。",
+      "quote": "“I want you to remember a date: Friday, June 13, 2098. Don’t tell anyone except Alba. Don’t tell Alba until after May 1, 2041. But then deliver the message as soon as you can.”",
+      "line": 610
+    },
+    {
+      "fact": "Isadora 问「Do parrots love—」，话没问完，Oliver 就被一阵轰鸣拽回 2013 年伦敦自己的卧室（赤身、下雨、闷热）；他关窗穿裤，自问有没有说对，并想下次见面问她「鹦鹉到底会不会爱」。",
+      "quote": "“Do parrots love—” I don’t hear the rest of her question—there’s a roar in my ears and then silence—I am back in my own time, in my own bedroom, naked on my bed in gray London light.",
+      "line": 632
+    },
+    {
+      "fact": "次日（2013-08-19，Beck 37 岁）Beck 开门就知有人来过：Isadora 被从角落拖出、姿势僵着、头垂着，罩她的垃圾袋掉在地上，她留在桌上的橘子被砸烂、蚂蚁围着干汁；她翻出一段十五秒的橘子滚过地面的录像。问 Isadora 谁来过，Isadora 只给她看两张鹦鹉的照片；事件日志里有近两小时空白，代码被覆盖、删除、挪到别的目录，而系统从未联网。她问「Did you do this, Isadora?」，只有沉默。",
+      "quote": "“Isadora,” I ask, “who was here?” / She shows me photographs of two parrots. / I ask the question every way I can think of, then I open her event log and get a bad surprise: there’s a blank that covers nearly two hours of yesterday morning. … The system is not, and never has been, online.",
+      "line": 652
+    }
+  ],
+  "turning_point_note": "本章的转折点进了：一是 Oliver 交给 Isadora 的密令（2098-06-13、2041-05-01 之后才能告诉 Alba）——第 9 条；二是末尾 Beck 发现代码被改写、日志缺近两小时却查不出来源，只能问「Did you do this, Isadora?」而得到沉默——第 11 条。两条都在。"
+}

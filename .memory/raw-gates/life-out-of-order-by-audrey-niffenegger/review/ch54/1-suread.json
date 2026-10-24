@@ -1,0 +1,71 @@
+{
+  "chapter": "ch54",
+  "source": "text/ch54_the_blizzard_of_1979.txt",
+  "method": "只读 text/ 素读，未开 md；1979-01-13/14 暴雪；Alba 25 岁、Oliver 24 岁；Alba 与 Oliver 双第一人称交替（Alba: / Oliver: 段标）",
+  "facts": [
+    {
+      "fact": "抬头：1979 年 1 月 13 日星期六与 1 月 14 日星期日（Alba 25 岁，Oliver 24 岁）。暴雪封城，两人已在黄房子待了一天一夜，厨房没什么吃的。Alba 坐在厨房桌边在笔记本上画涂鸦，写不出她一直想写的弦乐四重奏。Oliver 端咖啡过来，在窗边看后院积雪，然后要她「给我写点东西」——「一首奏鸣曲。写得难一点。」Alba 反问「你是不是在要一个你早就知道已经存在的东西？」他答「嗯，是。」",
+      "quote": "Alba: “Will you write something for me?” Oliver asks me one morning. … “A sonata. Make it difficult.” … “Are you asking for something you already know exists?” … “Um, yes.”",
+      "line": 23,
+      "lines": "18, 23-46",
+      "anchor": "Alba: “Will you write something for me?” Oliver"
+    },
+    {
+      "fact": "Alba 推托：世上钢琴奏鸣曲已经够多；Oliver 说她「在画兔子」，自称「我是你的缪斯，我在试着启发你」，「从今天起」。Alba 问他当缪斯要不要脱光站着，Oliver 摆了个「海报女郎」姿势（一手叉腰、一手拨弄想象中的卷发），「一点也不女气」；他说「这厨房很冷」，Alba 起身走向他，「所有关于奏鸣曲的谈话都被忘了」。",
+      "quote": "“I’m your muse, you know. I am trying to inspire you.” … “Since now, I guess. I’ve been waiting for you to spontaneously write music for me, but you never begin, so I thought I should ask.”",
+      "line": 63,
+      "lines": "50-95",
+      "anchor": "Oliver smiles. “I’m your muse, you know."
+    },
+    {
+      "fact": "下午仍在雪中，两人穿过齐膝深的雪去杂货店。Alba 问他能不能给点提示，「你可以哼几个小节」；他说「我可以把整首弹给你听，但你会生我的气」。Alba 问「我们有流程吗」，他描述惯例：她躲进房间写，他送咖啡和食物，最后她出来让他弹她写的，她说他弹错了，然后又消失回房间；写完后他学会，然后弹给听众。",
+      "quote": "“Usually you hide in your room and write and I bring you coffee and food and eventually you come out and ask me to play what you’ve written and then you tell me I am playing it wrong and then you disappear into your room again.”",
+      "line": 121,
+      "lines": "99-130",
+      "anchor": "“Do we have a process? How do we do this?”"
+    },
+    {
+      "fact": "超市已被抢空：牛奶、面包没了，没有橙汁也没有咖啡；他们最后买了猪排、罐装金枪鱼、茶、米、冷冻玉米、冷冻披萨、两个苹果、黄油和难喝的植脂奶精；Oliver 在冷藏柜找到最后一盒鸡蛋，问「美国人为什么把鸡蛋放冰箱」。Alba 问他是否在过去开音乐会，他说不，「我不喜欢在这里引人注意。我把过去当工作室」，只用来跟她工作、学音乐、练琴，不在公开场合演奏。Alba 建议他弄个秘密身份，好让她听一场他的音乐会；他沉默后说「我会考虑」。",
+      "quote": "“No. I don’t like to attract attention here. I use the past as a studio, it’s for working with you, and learning the music, and practicing. Not for playing in public.”",
+      "line": 154,
+      "lines": "134-171",
+      "anchor": "“Oliver, do you ever play concerts in the past?”"
+    },
+    {
+      "fact": "回程在 Ravenswood 街上，他们差点错过自己的文件柜：四抽屉高、军绿色、黄铜把手，立在一个停车位里，旁边有破椅子和塑料蛋箱——「Dibs」（占位）。柜上有绿色和平贴纸、侧面有划痕。Oliver 说不用守，「它最后会进壁橱，会在壁橱里待一百年」。他们把食品放回黄房子、从地下室取来手推车，再回去把柜子拖回家，路上看到一位年长白妇人在窗内看着；手推车屡屡陷进雪里，最后两人抬着走，抬上楼时最费劲。",
+      "quote": "“I think so. Yes, look, there’s the Greenpeace sticker. And the side is scratched.” … “It’s going to end up in the closet. It will be in the closet for the next hundred years.”",
+      "line": 195,
+      "lines": "181-220",
+      "anchor": "I see it in my peripheral vision: the filing cabinet"
+    },
+    {
+      "fact": "Oliver 视角：Alba 一出房间他就打开壁橱的密码锁。她的乐谱整齐分成四叠文件夹，按时间顺序，此刻全是马尼拉纸色（彩色办公用品时代还没到）。他笑看熟悉的名字：Chaos Monkey、Ravenswood Sonata、A History of the Weather；许多有名目的文件夹是空的，有的只有一两页，有的被翻得又胖又脏。Alba 下楼见状说「就这么点？我以为到现在会多得多」，他说「现在才 1979 年，别担心，你全都会写出来的」；她笑他「你大概连外置硬盘都没见过」，他说「我读到过」。他说自己是她的外置硬盘。两人为文件柜碰杯。",
+      "quote": "“It’s only 1979,” I say. “Don’t worry. You’ll get it all written.” … “Never,” I say. “It’s all in my head. I’m your external hard drive.”",
+      "line": 240,
+      "lines": "226-256",
+      "anchor": "Oliver: As soon as Alba is out of the room"
+    },
+    {
+      "fact": "机制交代：Alba 的音乐是「位移的音乐」（music of displacement）。她说自己不用想就知道什么属于她、什么不是，音乐「靠不断出错直到对」而自我成形；这些文件夹装的是突变体，未来这音乐是完整的，但为了让她写出来，他必须把它藏起来。文件上都草草写着日期；他的任务是「在正确的日期从柜子里取出文件、放在外面给 Alba」，她想藏起来时就把它从壁橱门缝下塞回去。最后完成，两人庆祝。",
+      "quote": "Alba’s music is music of displacement. … My task is to retrieve files from the cabinet on the right dates and leave them out for Alba. She slides them under the closet door when she wants to hide them from herself.",
+      "line": 257,
+      "lines": "256-263",
+      "anchor": "Where does it come from, then? Alba’s music"
+    },
+    {
+      "fact": "门铃响：柜子的原主带着一名警察来，说他们偷了她的文件柜。Alba 解释芝加哥的「dibs」规矩（扫出车位后用杂物占位，别人动了会有人划轮胎、砸挡风玻璃）；她给了那女人一笔钱，女人收了，柜子归他们——「一百美元」。Oliver 嫌贵，Alba 说那女人想让他们被捕，警察有更要紧的事，劝她收钱；「现在别想了。我们有个文件柜！万岁！」",
+      "quote": "“That was the woman who owned the filing cabinet. She brought a policeman with her. She said we stole her filing cabinet.” … “No, I offered her some money, and she took it, so it’s ours.” … “One hundred dollars.”",
+      "line": 273,
+      "lines": "268-310",
+      "anchor": "The doorbell rings. Alba whispers, “Stay here.”"
+    },
+    {
+      "fact": "夜里 Alba 站在黑着的客厅窗前看暴雪，Oliver 从背后抱住她。她说「一次看到所有文件太奇怪了，我得写快点」，又说有时会恐慌发作，因为看不到前路、一切太纠缠。Oliver 拿出在旧货店找到的理查德·施特劳斯《降 E 大调小提琴奏鸣曲》作品 18 请她试；她先独奏，两人再合奏，「对我们俩都难得很过瘾」。叙述点明施特劳斯写这首二重奏时正初次爱上女高音 Pauline de Ahna——后来成了他妻子。她放下琴时在发抖。他问「你愿意嫁给我吗？」她答「愿意。我愿意。愿意。」",
+      "quote": "“Will you marry me?” I ask. … “Yes,” she says. “I will. Yes.”",
+      "line": 360,
+      "lines": "315-364",
+      "anchor": "Later, Alba stands in the dark living room"
+    }
+  ],
+  "turning_point_note": "本章的转折点是结尾的求婚/订婚（第 9 条，`:360`），已在单内；但另有两条「机制转折」极易被当成闲笔漏掉，必须并列：① 文件柜的来路与用途坐实了「未来成品→藏进壁橱→按日期取出」这条因果闭环（第 6、7 条，`:231` `:262`）；② 「我把过去当工作室、不在过去公开演奏」＋「秘密身份」的提议（第 4 条，`:154` `:171`）解释了此后他为何始终不能公开弹琴。若 md 只写「暴雪天捡了个柜子、求了个婚」而不交代 ①②，则属漏机制。"
+}

@@ -1,0 +1,71 @@
+{
+  "chapter": "ch59",
+  "source": "text/ch59_vanishing_point.txt",
+  "method": "只读 text/ 素读，未开 md；2006-12-10；Alba 40 岁、Henry 43 岁；Alba 第一人称（回到 2006 年童年家，与父亲对话）",
+  "facts": [
+    {
+      "fact": "抬头：2006 年 12 月 10 日星期日（Alba 40 岁，Henry 43 岁）。Alba 落在自己童年的卧室，不确定是哪一年；夜里、冬天。没铺的床上放着她的小提琴盒，房里散着玩具、娃娃、熊，暗示是 2005 或 2006 年。她去父母卧室借了母亲的一件毛衣和一条牛仔裤，然后在屋里转，想找人；听见狗叫，转向房子后部。",
+      "quote": "Alba: I arrive in my childhood bedroom, unsure of the year; it’s nighttime, winter. My little violin case is on my unmade bed; the games and dolls and bears strewn around the room hint that it is 2005 or 2006.",
+      "line": 23,
+      "lines": "18, 23-23",
+      "anchor": "Alba: I arrive in my childhood bedroom, unsure of the year"
+    },
+    {
+      "fact": "邻居家那只金毛寻回犬叫 Snoop（小时候常无聊地追自己的尾巴，尾巴长而有穗、好抓；咬住尾巴一圈圈转，转到摔倒，再爬起来重来）。父亲坐在书桌前的轮椅上，看 Snoop 在泛光灯照着的积雪院子里又叫又扑又打转；Alba 进来和他一起看。他说「我觉得我就像那样。一圈一圈转。在哪儿停下，没人知道。」他极瘦，声音疲惫。几周后他就会死，而今晚他当然不知道终点这么近——「或者他知道。我从没问过。」",
+      "quote": "“I feel like that,” he says, as though I’ve been there with him for hours. “Round and round he goes. Where he stops, nobody knows.” … In a few weeks he will be dead, but of course he has no idea, tonight, that the end is so close. Or maybe he does. I’ve never asked.",
+      "line": 38,
+      "lines": "28-43",
+      "anchor": "Dad is sitting in his wheelchair at his desk"
+    },
+    {
+      "fact": "他问「你有没有希望过自己能停止穿越，Alba？」她说「我想象不出来。你呢？」「不。」她搬了把餐椅坐到桌前面对他。他问「你好吗？你从什么时候来？」——「2041。」他笑：「那么久以后。这是我见过你最老的样子。」父亲 43 岁，她 40 岁。她努力藏住恐慌：从现在到他死只剩一线之隔。他问 2041 年在忙什么，她说在写一首钢琴奏鸣曲；「给 Oliver 的？」「是。」「Zach 怎么样？」「他很好。」——叙述点明：Oliver 与 Zach 对父亲都是抽象概念，他两人都不会见到。",
+      "quote": "“How are you?” he asks. “When are you coming from?” … “2041.” … He smiles. “So long from now. This is the oldest I’ve seen you.” … My father is forty-three. I am forty.",
+      "line": 64,
+      "lines": "48-108",
+      "anchor": "“Do you ever wish you could stop time traveling, Alba?”"
+    },
+    {
+      "fact": "桌上摊满纸，他在立遗嘱、写一封信、「整理东西，好让 Clare 到时候不用猜」。她请他帮个忙：写下一个地址、夹在遗嘱上。他从抽屉里翻出笔记本，她用他的蓝圆珠笔念出黄房子的地址；他写完撕下那页举起来问「这样对吗」，然后夹在一叠纸的回形针下，问「这是什么？」——「是 Ravenswood 那边的一所房子。它属于我。我从 1947 年就拥有它了。」他笑说「这招真妙，你怎么做到的？」她说自己当年在一户人家偷衣服，在女主人的内衣抽屉里找到一张一百美元钞票，就拿走了，还设法开了银行账户；「我跟银行经理成了朋友」；「我的股票经纪人也不会想到，我在市场上好运全靠后见之明。」",
+      "quote": "“I’m making a will. Writing a letter. I’m trying to get organized, so when I’m gone, Clare won’t have to wonder . . . I’m just tidying up.” … “It’s a house, over in Ravenswood. It belongs to me. I’ve owned it since 1947.”",
+      "line": 116,
+      "lines": "112-168",
+      "anchor": "“What are you working on?” I ask, trying to divert him"
+    },
+    {
+      "fact": "父亲说「我就在离那儿两英里的地方长大。要是我早知道，也许会去看看。」她说「现在就去吧，我们可以打车」——突然觉得急迫。他答「今晚不行。我很疼。」他看起来就是她记忆里童年的样子：白发、很苍白、疲惫、双手紧紧交握、咬着嘴唇。她问「你要不要一片 Vicodin？」他说「药瓶在床头柜上」，神情一松。她去父母卧室取药，那味道把她带回去：父亲最后那些日子里床上的气味，酸腐、绷带与肉的味道。他倒出两片干吞下去，尽管面前有凉掉的咖啡；她去厨房倒了杯水，他礼貌地喝了几口就放下。",
+      "quote": "“I grew up two miles from there. I wish I’d known, I might have dropped by.” … “Not tonight,” he says. “I’m in a lot of pain.”",
+      "line": 168,
+      "lines": "168-189",
+      "anchor": "Dad’s expression is admiring, then pensive."
+    },
+    {
+      "fact": "他问「你不觉得这个守秘密的习惯弊大于利吗？」她答「大概吧。但我想我们有我们的理由。你想知道什么？」他说「我想知道会怎样。我怎么死。」她问「你确定？」他说「知道更好。我会准备好。我厌倦了在自己的人生里瞎摸。」她说了：新年前夜，这里有个派对；所有人都在——Kimy、Gomez、Charisse、Kendricks 一家、妈妈的艺术界朋友、Celia、Ben；他们做了好几天菜、打扫了好几天；那是她第一次有意熬到午夜；整晚她和 Nadia 一起，跟 Colin 玩捉迷藏；她从卧室窗子看见他在外面雪里和 Gomez 在一起；不是坐轮椅——Gomez 把他背在背上，「太奇怪了，所以一直留在我脑子里」。快到午夜时大家都在客厅倒数、互道新年快乐、亲吻；她找不到他和妈妈，然后看见妈妈一个人坐在前廊的冷风里。妈妈后来说，他刚才一直坐在外面陪她、道别，然后就消失了。",
+      "quote": "“New Year’s Eve,” I blurt. “There was a party, here . . .” … “No, he was carrying you on his back. It was so strange, it stuck in my mind.” … “She told me later that you had been sitting out there with her, saying goodbye. But then you were gone.”",
+      "line": 222,
+      "lines": "194-266",
+      "anchor": "“Do you ever think this habit of keeping secrets is more trouble than it’s worth?”"
+    },
+    {
+      "fact": "他猜到自己去了哪儿：去 Clare 十三岁那年，1984 年；一个寒冷的秋日，在南黑文（South Haven）她祖父房子后面的「草甸」（the Meadow），靠近林中空地但不在空地里。「你中枪了。」「是，我想是。」「没有子弹。」「不会有。」她回忆起有血，他们不懂发生了什么，Gomez 报了警——不是叫救护车，但他们还是来了。他问「我说了什么吗？」她说「你说你爱……」说不下去，他伸手，两人久久握着手。警察那边：宾客里既有知道穿越的人也有完全不知道的人；没有武器、没有子弹，他显然中枪了却不在客厅中枪，说不通；最后是 Kendrick 医生说服他们不起诉任何人，那时他已发表了几篇解释穿越如何可能的论文，另有两例，一在荷兰、一在中国。",
+      "quote": "“Clare knows. I went to a day when she was thirteen, in 1984. It was a cold autumn day, in the Meadow behind your grandpa’s house in South Haven.” … “You were shot.” … “Yes, I think so.”",
+      "line": 277,
+      "lines": "277-335",
+      "anchor": "“I can guess where I went,” Dad says."
+    },
+    {
+      "fact": "他去年夏天查过自己的讣告（「我想知道自己还剩多久，就查到了」），讣告里没提穿越，也没提失去双脚——截肢这件事让他更不安；他还说「要是你告诉我，我会做噩梦」。他问「Clare 嫁给他了吗？还是别人？」她回避问题本身：「没有。他一直和 Charisse 是夫妻。Rosa 现在有两个孩子。」他问「Clare 幸福吗？」她说「你总问我这个。」他说「我想她幸福。」他承认自己见过她一次，那时她已是老妇；「我没敢问。」她说「她从没忘记你。」随后他问 Kimy 葬礼上那个念了很美祷文的女人是谁——「那是 Beck Charles。」「Beck Charles 是谁？」她累于撒谎却开不了口。他又说 Clare 在无名指上、在他送的戒指之外还戴了一枚金环，发觉他看见就藏起手。他恳求「求你，Alba。不知道更糟。如果 Clare 幸福，我会安心。」于是她说了。他听完平静得近乎刻意，望着后窗外妈妈的画室，最后说：「也许这想法很原始，但我觉得好受些——Clare 没有嫁给另一个男人……我不觉得那么被取代了。Beck 看起来是个好人。我很高兴见到她。告诉 Clare 我不介意——告诉她我很高兴。」然后问「那你呢，Alba？你幸福吗？」她答「我现在不幸福，但最终会。Zach 发现了 Oliver 的事。我一直一个人住在那栋 Ravenswood 的房子里。」「Zach 会原谅你吗？」「还不会。」",
+      "quote": "“Last summer. Not too long before I lost my feet. The obit doesn’t mention the feet, either. That came as a surprise.” … “Maybe this is primitive of me, but it feels better, that Clare didn’t marry another guy. … Tell Clare I don’t mind—tell her I’m glad.”",
+      "line": 359,
+      "lines": "343-482",
+      "anchor": "“I didn’t find any mention of time travel in my obituary.”"
+    },
+    {
+      "fact": "他让她推他进卧室、扶他从椅子到床上；他像猫一样舒展身体，说「我还有脚的时候从没注意过它们。该有人定个节日，全国爱脚日。」又吞了一片 Vicodin。她坐在母亲那侧床边靠着床头板，说「别吃太多」。他闭眼说「那样本来会更好，我想。干脆把整瓶吃了，省得你和 Clare 见那些血和折腾……但不是那样走的。」她说「那对妈妈会更难。对你还容易些。」他摸他的头发（她抚他的头发）。他说「我会来个最后的狂欢。总算有点什么。抱歉让你看见，Alba。」她说「我也是。我爱你。」「我也爱你，Alba。」无话可说，两人在昏暗中安静地待着；他睡着了，她继续坐着，直到「我自己的时间把我从他身边拉走，一如既往」。",
+      "quote": "“I never noticed my feet while I had them,” he says. “Somebody should declare a holiday, National Foot Appreciation Day.” … He falls asleep, and I continue to sit with him, until my own time pulls me away from him, as it always does.",
+      "line": 501,
+      "lines": "496-533",
+      "anchor": "“Yeah, thanks.” I wheel him into the bedroom"
+    }
+  ],
+  "turning_point_note": "本章的转折点不是情节而是**「他问『你幸福吗』而她第一次承认不幸福」**（第 8 条，`:482-486`），以及紧接的**她终于对他说出 Beck 的身份**（`:482`）——这两件把「守秘密」的家族习惯当场破掉。另有一条极易漏的机制性事实：**黄房子的地址由她口述、他手写、夹进遗嘱**（第 4 条，`:130-143`），这正是她 1947 年起就持有该房产的凭证链条，不能只写成「父女聊房子」。"
+}

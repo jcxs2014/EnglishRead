@@ -1,0 +1,65 @@
+{
+  "chapter": "ch08",
+  "text_file": "text/ch08_election_day_2024.txt",
+  "read_before_md": true,
+  "header": "Tuesday, November 5, 2024 (Alba is 23, Zach is 23)",
+  "facts": [
+    {
+      "n": 1,
+      "fact": "2024 年 11 月 5 日星期二，抬头 Alba is 23, Zach is 23，是选举日。Alba 几周前就邮寄投票，为的是今天不必出门、不必见人；亲友没问过她选举的事，但她确信他们察觉到她越来越深的绝望。",
+      "quote": "I voted by mail, weeks ago, so I wouldn’t have to go out today, wouldn’t have to see anyone.",
+      "line": 23,
+      "anchor": "…It’s one of those days when the world turns from one thing into another."
+    },
+    {
+      "n": 2,
+      "fact": "她只把「结果」提前告诉过一个人：Celia。几个月前民主党全国代表大会结束后，她在 Celia 与 Lucinda 家，Lucinda 正兴奋地讲要去给竞选做志愿者；Lucinda 刚满十八岁，这是她能投票的第一次选举，也是第一位黑人女性主要政党总统候选人。Lucinda 反复说「这太完美了」。Alba 告诉 Celia，是为了等「美国辜负我们」时她能准备好安慰 Lucinda。",
+      "quote": "I told Celia so she’d be ready to comfort Lucinda when America fails us.",
+      "line": 30,
+      "anchor": "…she’d just turned eighteen, this is the first election she can vote in, the first Black female major party presidential candidate. It’s so perfect, Lucinda kept saying."
+    },
+    {
+      "n": 3,
+      "fact": "当晚 Celia 与 Lucinda 家有观票派对，Mama 和 Beck 会去；他们问过 Alba 要不要同行，她说要去 Gomez 与 Charisse 家陪 Zach——其实她只想一个人待着。Zach 发短信「点寿司、待着吧」，她最后还是去了：按门铃，Zach 开门，她当场哭出来，被他拉进屋抱住。",
+      "quote": "Let’s order sushi and hang out, he texts, and I end up going over there, after all. I ring the doorbell, Zach answers, I burst into tears, he pulls me into the house and embraces me.",
+      "line": 35,
+      "anchor": "…but I told them I was going to Gomez and Charisse’s to stay with Zach. Really, I just want to be alone. Zach has other ideas, though."
+    },
+    {
+      "n": 4,
+      "fact": "别人都去了观票派对，只剩他们两个。她收拾好情绪；两人不看网络，吃寿司，聊即将到来的荒唐事，早早睡下。芝加哥安静得反常；午夜前后她听见 Charisse 与 Gomez 回家，两人轻手轻脚怕吵醒他们，随后屋里重新静下来。",
+      "quote": "Chicago is eerily quiet. I hear Charisse and Gomez come home around midnight.",
+      "line": 40,
+      "anchor": "…We ignore the internet, eat sushi, talk about some of the coming insanity. We go to bed early."
+    },
+    {
+      "n": 5,
+      "fact": "天亮前她还躺着，Zach 已醒，在手机上刷。他问「你感觉怎样」，她答「麻木（Numb）」；他自己是「钢铁般、凶悍（Steely. Ferocious.）」，让她随便指派他做点什么。她说「任何事？」他答「嗯，不吃人，不牵扯孩子」；她问「你想保留多少选择的幻觉」，他说「一点也不要——我不想提前感到悔恨」。",
+      "quote": "“Steely,” Zach says. “Ferocious. Tell me what to do. Anything, point me at it.”",
+      "line": 54,
+      "anchor": "…“Numb,” I reply. “You?” ／62 行：“Well. Not cannibalism. Nothing involving kids.”／66–70 行：“How much illusion of choice would you like to preserve?”… “None… I don’t want to feel the remorse in advance.”"
+    },
+    {
+      "n": 6,
+      "fact": "她开灯、在他床头柜摸纸笔，开始列单子：这些是我确定知道的，另一些是你和 Gomez 自己做的、我只知道日期。Zach 问「你怎么知道的？你在场？」她答「有时候在。大部分是另一个 Alba 告诉我的，好让我们能准备」。Zach 说「这全是防守，进攻呢？」她往单子上添了几条，说「买把枪，学会用它」。Zach 说「这还差不多」。",
+      "quote": "“Sometimes. Other Alba told me most of this. So we could prepare.”",
+      "line": 79,
+      "anchor": "…“these are the ones I know about for sure. There are some that you and Gomez did on your own, all I know is the dates.” ／83 行：“This is all defense. What about offense?”／87 行：“Buy a gun and learn to use it,” I tell him."
+    },
+    {
+      "n": 7,
+      "fact": "她拿回单子，从他外套口袋里顺走打火机，借他的浴袍，赤脚走到厨房，在水槽里把纸烧掉，并交待「别向任何人提起这事」。Zach 说「我知道。谢谢。我感觉好一点了」。她说「这会是一段狂野的旅程」，他答「好」。",
+      "quote": "“Be careful.” I take the list from him, filch his lighter from his coat pocket, borrow his bathrobe, pad to the kitchen on my bare feet and burn the paper in the sink. “Don’t mention this to anyone,” I insist.",
+      "line": 95,
+      "anchor": "…“That’s better,” Zach says."
+    },
+    {
+      "n": 8,
+      "fact": "太阳刚起，天阴而阴郁。两人默默穿衣出门，街上空无一人，只有远处隐约的车声，没有鸟叫。他们牵着手穿过公园，走进哀悼中的城市、走进不肯停下的未来。",
+      "quote": "We walk across the park, holding hands, into the mourning city, into the relentless future.",
+      "line": 112,
+      "anchor": "…There’s a faint rumble of traffic, but no birdsong."
+    }
+  ],
+  "turning_point_check": "本章的转折点是「列单子→烧掉→出门」这一串：Alba 第一次把未来变成一份可执行的清单，又当场销毁（第 6–7 条），末尾「mourning city / relentless future」把它收束（第 8 条）；都已进条目，无需补。"
+}

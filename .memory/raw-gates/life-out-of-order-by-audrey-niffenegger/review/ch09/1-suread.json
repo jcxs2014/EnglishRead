@@ -1,0 +1,65 @@
+{
+  "chapter": "ch09",
+  "text_file": "text/ch09_no_place_like_home.txt",
+  "read_before_md": true,
+  "header": "Saturday, August 2, 2025 (Alba is 23, Zach is 24)",
+  "facts": [
+    {
+      "n": 1,
+      "fact": "2025 年 8 月 2 日星期六，抬头 Alba 23 岁、Zach 24 岁，「冲突」（战争）刚开始。两人在一个温暖、薄雾的夏日结婚；Zach 的家人不来——他没告诉家里他要结婚，也没提过自己在跟谁交往，甚至没提过 Alba 存在。",
+      "quote": "Also, he hasn’t mentioned to them that he’s dating anyone. Or that I exist.",
+      "line": 24,
+      "anchor": "Alba: Zach and I are married on a warm, hazy summer day at the beginning of the conflict."
+    },
+    {
+      "n": 2,
+      "fact": "婚礼前几周她问过他要不要联系家人；他答「我时不时让他们知道我还活着，再多说只会助长他们」。他解释：不是羞于把她示人，是他把这事搞砸了——先见母亲还是父亲（先见的那位会压另一位一头）、又一轮疫情没法出行、父亲和新妻子站在「另一边」同处一室就想杀人、母亲因为自己离过婚而见不得别人结婚、两个妹妹 Suellen 与 RaeAnn 知道了就得替他们保密；他想让妹妹们来，却想不出怎么把她们从 Tulsa 安全接到芝加哥，只好作罢；他父母连他改了姓都不知道，大二之后的事一概不知。",
+      "quote": "“I let them know I’m alive every now and then. Anything more than that would just encourage them.”",
+      "line": 34,
+      "anchor": "“Do you think you’ll ever contact your family again? … now would be the time?” ／:43 “my parents don’t even know I changed my name. Or anything that I’ve done since my sophomore year of college.”"
+    },
+    {
+      "n": 3,
+      "fact": "婚礼办在 The Hideout——他们最爱听音乐的地方，前身是寄宿公寓／地下酒馆／无招牌酒吧，夹在半停工状态的厂房区，旁边是铲雪车与警车的停车场；又小又怪，气氛像 1950 年代的地下室娱乐室。她父亲当年是常客，老板在吧台后面给他存了一套衣服，如今也给她存。",
+      "quote": "My dad was enough of a regular that the owners kept a stash of clothes for him behind the bar, and now they do the same for me.",
+      "line": 52,
+      "anchor": "It’s a former boardinghouse/speakeasy/unmarked bar in an industrial corridor of semidefunct factories, next to a parking lot for snowplows and police cars."
+    },
+    {
+      "n": 4,
+      "fact": "到场的人：Mama 和 Beck；Charisse 与 Gomez；Rosa、Max、Joe；Caralora 和她的伴 Miriam；Celia 与 Lucinda；Zach 在互助组织认识的几个朋友；David 与 Nancy Kendrick 带着儿子 Colin。全员戴口罩，因为疫情又起。她想念 Nadia 与 Nick，希望 Kimy 和祖父能来，最希望父亲在场。前一晚她睡不着，想到「要是爸爸出现在婚礼上呢」——明知是妄想，却没法不想。",
+      "quote": "How I miss Nadia today, and Nick, too. I wish Kimy and my grandfather could be here. Most of all, I wish my dad was here.",
+      "line": 63,
+      "anchor": "…David and Nancy Kendrick, with their son, Colin. ／:68 “What if Dad shows up at the wedding? I know it’s wishful thinking, but it’s impossible to unthink it.”"
+    },
+    {
+      "n": 5,
+      "fact": "仪式：Caralora 在网上取得主持资格，Gomez 请来一位当法官的朋友签文件；Zach 穿新买的鸽灰亚麻西装、白衬衫、淡黄领带；她的裙子是母亲和 Beck 陪她挑的，闪光的绿灰蓝，像水里的影子。音乐起《A Kiss to Build a Dream On》，Beck 挽她左臂、Gomez 挽右臂把她送进门；Caralora 领誓（相守、甘苦与共、彼此善待、安慰保护），Zach 给她戴上婚戒、她给他戴上；他的戒指他戴着，她的收进抽屉——因为她第一次时间旅行就会弄丢。礼成，Mama 哭了，在他脸颊上亲出珊瑚色唇印，乐队奏《You’re the Cream in My Coffee》。",
+      "quote": "He will wear his; mine will be kept in a drawer, since I’d lose it the first time I time traveled.",
+      "line": 82,
+      "anchor": "…Caralora pronounces us married, and everyone embraces us. Mama cries and gives Zach a kiss on his cheek that leaves a coral lipstick print."
+    },
+    {
+      "n": 6,
+      "fact": "整个下午她都在等：听致辞、切蛋糕、跳舞、抛花束与吊袜带，一边留意 Mama——两人都不提，但她感到 Mama 也在等。下午过去，乐队收工，客人告辞，Mama 跟餐饮、酒吧老板、乐队结账并给所有人小费；最后他们把礼物和剩蛋糕装上 Zach 那辆「不迷人但不起眼」的 Jetta。沿 Ashland 往北开，黄金时刻，大树下，车里放《Pet Sounds》，摇下车窗一起唱《Wouldn’t It Be Nice》；她想「今天很美，我希望他在，但那太奢求了」。Zach 短暂握了握她的手，神情满足——他不会被悔恨罩住，他迎着心魔上。她想：要是把悲伤放到一边，也许就能活在当下。「Wouldn’t it be nice?」",
+      "quote": "I think, It was a beautiful day, and I wanted him there, but it was too much to expect.",
+      "line": 89,
+      "anchor": "…I put Pet Sounds on the car stereo, and Zach rolls down the windows, and we sing along to “Wouldn’t It Be Nice” ／:94 “Wouldn’t it be nice?”"
+    },
+    {
+      "n": 7,
+      "fact": "（换 Zach 第一人称）房子上周过户，是 Clare 和 Beck 送的结婚礼物。前任房主 Beatrice 九十六岁死在床上；她家人拿走了想要的，只要他们「原样接收」就给折扣。一周来他们清理、分类、把东西拖到巷子或旧货店、给需要的朋友装箱。留下的有相册、几本旧家用圣经、六七十年代的儿童玩具、食谱、手工被、小幅画；家具几乎全在——像 Beatrice 蒸发、他们出现。他们自己几乎没有家当，只有书和衣服。昨天他看见 Alba 站在一道梯形阳光里，闭眼、张开手臂，一手小提琴一手琴弓，以为她要拉，她只是笑着转过身——她第一次像是属于这所房子。婚礼上她几乎一直握着他的手，像拿他当压舱物，还不断瞥向舞台后面的后门；他起初不明白（请的人都在），后来懂了，他希望那个人出现，为了她；也许没来反倒最好。",
+      "quote": "She kept glancing at the back door, behind the stage, and at first I couldn’t figure out why, since everyone we’d invited was there. Then I understood, and I hoped he would show up, for her sake.",
+      "line": 108,
+      "anchor": "Zach: We closed on the house last week; it was a wedding present from Clare and Beck. ／:99 “Beatrice, the previous owner, had died in her bed, at the age of ninety-six.”／:103 “I saw Alba standing in a trapezoidal band of sunlight”"
+    },
+    {
+      "n": 8,
+      "fact": "日落时到家。她下车开始搬包裹，像刚购物回来；他说「先别管那个，过来」，开门、把她抱起来跨过门槛。她吓一跳问为什么，他说讨吉利——故事里门槛总是危险，有迷信说新娘的脚不该碰门槛，怕恶魔进来；她问「进家，还是进新娘？」，他说他也不确定，两个都不理想。房子是 50 选区的红砖错层：两卧、餐厨、壁炉、车棚顶棚，能贴护墙板的地方都贴了，地下室有娱乐室和吧台，一间浴室粉灰、一间绿蓝。Alba 坚持扔掉 Beatrice 的床垫（「Zach，她死在上面！」），所以今晚睡备用房地上的气垫床。两人开一瓶酒坐在后院潮湿的野餐桌上，屋里灯光给他们一层地狱般的橙光。她问他纹身怎么样，他说「痒，像在蜕皮」，给她看左前臂；她笑说「『没有比家更好的地方』」，他说「Home, sweet home」——他确实感到了那份甜。",
+      "quote": "“For good luck. Thresholds are always perilous, in stories. There’s a superstition that the new bride’s feet shouldn’t touch the threshold, for fear of demons getting in.”",
+      "line": 118,
+      "anchor": "I unlock the front door, open it, pick Alba up and step over the threshold. ／:131 “Alba insisted that we throw out Beatrice’s mattress (Zach, she died on it!)”／:140 ““Itchy. I feel like I’m molting.””／:149 “and we are home.”"
+    }
+  ],
+  "turning_point_check": "本章的转折点是「她整场婚礼都在等父亲、而他没来」与「她收下这份缺席」——第 4、6、7 条已把它写进（她想「那太奢求了」＝接受），无需补。"
+}

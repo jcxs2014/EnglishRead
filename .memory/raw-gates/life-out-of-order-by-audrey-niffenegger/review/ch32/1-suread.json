@@ -1,0 +1,58 @@
+{
+  "chapter": "ch32",
+  "source": "text/ch32_richard.txt",
+  "method": "只读 text/ 素读，未开 md",
+  "facts": [
+    {
+      "fact": "抬头：2012 年 12 月 6 日周四，Alba 同时是 11 岁和 35 岁，Clare 41 岁；正文分三段并各自带年龄标（Alba 35 / Alba 11），末段另起 1982 年 12 月 3 日周五，Alba 11、Henry 41。",
+      "quote": "Thursday, December 6, 2012 (Alba is 11 and 35, Clare is 41)",
+      "line": 18
+    },
+    {
+      "fact": "亲属关系：Alba 住在祖父（Grandpa＝Richard）的公寓，睡在「我爸的旧房间」里；妈妈去密歇根看「我另一个祖父」。祖父是 Henry 的父亲（1982 段 Henry 说「我父亲爬那棵树」）。",
+      "quote": "I’m staying over at Grandpa’s apartment. Mama has gone to Michigan to see my other grandpa.",
+      "line": 23
+    },
+    {
+      "fact": "祖母已亡：祖父从不舍得送掉祖母的衣服，整柜裙装外套衬衣还挂着、落着薄尘——「她死了四十多年」；她小时候祖父让她试戴祖母的手套和帽子。祖母名 Annette，葬在 Graceland Cemetery，双穴花岗岩碑上 Richard 的名字已刻好，只等补上日期。",
+      "quote": "He could never bear to give away any of my grandmother’s clothing.",
+      "line": 52
+    },
+    {
+      "fact": "35 岁的 Alba 赤裸落在祖父厨房地板上，听见他在拉勃拉姆斯；她摸进父亲旧卧室取衣，看见年幼的自己快睡着、房里亮着那盏雪人夜灯，于是知道自己落在哪一年。她改穿祖母的羊毛长裤、丝衬衫、开司米毛衣，找双干净袜子。",
+      "quote": "I find myself naked on a cold floor, in the dark. Music; a violin; Brahms; my grandfather is playing.",
+      "line": 42
+    },
+    {
+      "fact": "祖父中风：他转身看见她、倒抽一口气叫「My dear—」；坐下后左手废在膝上、说话含混；她说是中风、要叫救护车，他喊「No!」并把她当成祖母——「Darling. Annette.」；她说「I love you」，他回「I love you, too」。",
+      "quote": "“Darling. Annette.” He’s mistaken me for my grandmother.",
+      "line": 79
+    },
+    {
+      "fact": "11 岁的 Alba 醒来发现祖父歪坐在沙发上、手冷、眼睛睁着却看不见她、脸歪；她给妈妈打了五次电话才接通，说「Mama, I think Grandpa died」；妈妈让她下楼找 Kimy。",
+      "quote": "“Mama, I think Grandpa died.”",
+      "line": 123
+    },
+    {
+      "fact": "Kimy 的身份是房东：她住楼下，是祖父的 landlady；她穿睡裙、长辫散着上来，摸他脖子说「他还温着」，打电话叫 911；她比 Richard 大十八岁；她说 Richard 在这里住了五十年，是「有点疯但好人」。",
+      "quote": "Kimy lives downstairs; she is Grandpa’s landlady.",
+      "line": 128
+    },
+    {
+      "fact": "Clare 连夜从密歇根开冰路赶回；Kimy 转述：医生认为是中风，Alba 三点左右发现他，他安安静静坐在沙发上，琴就放在旁边，像刚放下。Kimy 问 Henry 的房间怎么办——Henry 有时还会来；Clare 说随你，房租我先付到你决定。",
+      "quote": "“They think he had a stroke,” says Kimy. “Alba found him around three.",
+      "line": 167
+    },
+    {
+      "fact": "1982 年那段：Henry 在 Ravenswood 高架线上陪着 11 岁的 Alba——她在 Belmont 跟了他半条街、没穿鞋，他把外套和袜子给她；凌晨两点多到 Kimball 终点站，列车员容他们待着。他讲自己五岁爬出窗上西卡莫树「要飞下来」、恐高的父亲爬上树把他弄下来的旧事，说「孩子不会飞」。Alba 哭了，说祖父死了。",
+      "quote": "“Tell me a story,” Alba says, “about when I was little.”",
+      "line": 309
+    },
+    {
+      "fact": "收尾：Alba 问「你相信天堂吗」，Henry 正犹豫要不要承认自己觉得死后什么都没有，Alba 忽然消失、衣服塌在座位上；他拿着她的外套下车，在站台上比父亲死前更沉地哀悼他。",
+      "quote": "“Do you believe in Heaven?” Alba asks me.",
+      "line": 362
+    }
+  ],
+  "turning_point_note": "本章转折＝Richard 之死（同时被 11 岁与 35 岁的 Alba 各目睹一次）与 1982 年父女在列车上互通消息，两条都已进素读（第 5、6、9、10 条）。亲属链按原文记死：Richard＝Henry 之父＝Alba 的祖父；Annette＝Richard 的亡妻＝Henry 的母亲＝Alba 的祖母；Clare＝Richard 的儿媳；Kimy＝房东兼老友，非亲属。"
+}

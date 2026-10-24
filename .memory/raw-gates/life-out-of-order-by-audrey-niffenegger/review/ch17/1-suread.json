@@ -1,0 +1,79 @@
+{
+  "chapter": "ch17",
+  "title": "Haymarket",
+  "source": "text/ch17_haymarket.txt",
+  "suread_note": "只读 text/ 完成，未打开该章 md。全章 Zach 第一人称（两处声部标记 Zach:），两段日期：2036-05-04 与 2036-06-09。",
+  "facts": [
+    {
+      "fact": "抬头：2036 年 5 月 4 日星期日，Alba 34 岁、Zach 35 岁、Oliver 31 岁。一天从早晨 Gomez 的电话开始：Max 前一晚玩滑板摔断了胳膊（断得很严重，人还在医院），今晚的集会还没开始就先少了一个人；Gomez 开始口述一份现在归 Zach 和 Alba 的任务清单。",
+      "quote": "The day begins inauspiciously, with an early morning phone call from Gomez. Max broke his arm last night while skateboarding, so we are down one guy before we even get to tonight’s rally.",
+      "line": 23,
+      "anchor": "The day begins inauspiciously with"
+    },
+    {
+      "fact": "Alba 主张取消——她已经说了几个月，「我对这事有不好的预感」；Zach 反对：这是干草市场事件一百五十周年（sesquicentennial），Gomez 是主讲人，不去会很难看。她拉开窗帘：天阴，但会反常地暖，「我不喜欢」。",
+      "quote": "“No, I mean cancel the whole thing. I have a bad feeling about it,” she says.",
+      "line": 37,
+      "anchor": "No I mean cancel the whole",
+      "quote2": "“It’s the sesquicentennial of the Haymarket Riot, we can’t cancel it. It’ll look terrible if Gomez doesn’t show, he’s the main speaker.”",
+      "line2": 41
+    },
+    {
+      "fact": "下午四点左右到第 50 选区办公室：Rosa 和 Charisse 在为防弹衣够不够发愁；Gomez 正在接受一个看着眼熟的女记者采访。他对记者讲干草市场：那晚的演讲者是为八小时工作日争取支持，没有人号召暴动，那是一场集会；暴力开始时正下雨、人群正在散去；没人知道是谁扔的炸弹；被捕并被绞死的人后来获赦，但那时他们已成烈士——“暴力解决不了任何事，你以为解决了，它总会翻回来”，并说「这就是美国永远无法愈合的原因」。他承认和 Charisse 昨晚在医院陪 Max 到很晚。",
+      "quote": "“Nobody had called for a riot; it was a rally. When the violence started, it was raining; the crowd was going home. No one knows who threw the bomb, or why.”",
+      "line": 56,
+      "anchor": "Nobody had called for a riot"
+    },
+    {
+      "fact": "Zach 与 Caralora、Joe 把传单、瓶装水、零食、急救包、标语、防晒霜、防弹衣装车，提早出发占车位。Gomez 拿到了纪念活动的许可，但警察并不热情（毕竟是在纪念司法系统一次著名的巨大失误、国际劳工团结的起点）；新市长（Gomez 的反对者）警告他们「保持正面——不要挑衅」。",
+      "quote": "the new mayor (no fan of Gomez’s) has warned us to “keep it positive—nothing provocative.”",
+      "line": 60,
+      "anchor": "the new mayor no fan of"
+    },
+    {
+      "fact": "集会地点在 Des Plaines 近 Randolph，现场没有任何铭牌或雕像——一座以公共艺术闻名的城市在这里什么都没有。曾经有一座纪念死于骚乱的警察的大雕像，1927 年一辆有轨电车脱轨撞上它，司机说自己「看腻了那个举起手臂的警察」；不久前演讲者当讲台用的马车原址上还有一座雕塑（工人站在一辆似乎正在散架的车上），去年市长选举后也彻底消失，如今只是写字楼前的一段普通人行道。城市一出现喷漆的无政府主义圆圈就涂掉，人们靠在附近路灯柱上的花也会被清走。",
+      "quote": "There was once a huge statue honoring the police who died in the riot, but in 1927 a streetcar jumped its tracks and crashed into it; the driver said he was “sick of seeing that policeman with his arm raised.”",
+      "line": 65,
+      "anchor": "There was once a huge statue"
+    },
+    {
+      "fact": "人群不混在一起：各组人朝内站着、彼此留出空隙，「像树冠羞避（crown shyness）」。Zach 找到在讲台附近的 Griffin Moffat；Griffin 指街对面门洞边五个白人男子——卡其裤、Polo 衫、有人戴棒球帽，「像去 Wrigley Field 看球走错了地方」；他递来一副高级双筒望远镜（他是个观鸟的）。Zach 认出来：Junior Olson、Buddy Franz、Arthur Memling、Richard Alden、Terry Fell——正是他遇见 Alba 那晚在 Caralora 与 Nick 家被带走的五个人。Junior 练壮了，其余只是老了、普通了、活着。他一直以为他们死了，因为他们当时像蒸发一样消失。他先是松一口气（自己毕竟没帮着杀人），随即新的恐惧填上旧愧疚的位置：他们来这里做什么？",
+      "quote": "Junior Olson, Buddy Franz, Arthur Memling, Richard Alden and Terry Fell.",
+      "line": 102,
+      "anchor": "Junior Olson Buddy Franz Arthur"
+    },
+    {
+      "fact": "回到车边，Charisse 问 Alba「你知道什么能帮我们的吗」，Alba 说没有——「如果你指的是时间旅行得来的知识」；但她从一开始就对这场集会有不好的预感，主张立刻离开，Charisse 同意并掏车钥匙。Gomez 想让警察把他们带走（警方正在对所有人搜身查武器）；Caralora 指着头顶问「楼扫过了吗」——几百扇窗都是清楚的射击位；Gomez 说昨天已下令封锁该街区。",
+      "quote": "“No,” Alba says, “if you mean, knowledge derived from time travel. But I have had a bad feeling about this rally from the get-go, and I think we should leave right now.”",
+      "line": 116,
+      "anchor": "No Alba says if you mean"
+    },
+    {
+      "fact": "无人机带着「愤怒蜂群」的声音掠过停车场，Zach 喊「MOVE!」时它开火：Gomez 跪倒、向一侧倒下，胸口绽开血红；Alba 消失；有人从背后把他扑倒、推到 Joe 的 SUV 底下，低声说「别动，别做蠢货」——他忽然认出那是 Oliver（这不合情理）。Charisse 抱着 Gomez 的头哭，Caralora 撕开自己的裙子给 Charisse 膝盖上方扎止血带；Oliver 说「还不是时候」；一声枪响，然后是无人机坠地的塑料尖叫。",
+      "quote": "I shout “MOVE!” just as it opens fire. Gomez drops to his knees—falls sickeningly sideways, his chest blooming crimson",
+      "line": 135,
+      "anchor": "I shout MOVE just as it",
+      "quote2": "hissses, “Stay still, don’t be a bloody fool,” and I suddenly realize who he is",
+      "line2": 135
+    },
+    {
+      "fact": "催泪瓦斯的气味；Oliver 松开他；Rosa 喊「抓住他们」；Zach 跑到 Griffin 和他看见那五个人的门洞，那里只剩一个捂着脸哭的年轻女人；几个戴棒球帽的男人正沿小巷逃走，他徒手追上去；Alba 赤身裸体跑向他，他等着她；回头看见一辆黑色厢车停在巷口，那些人上车、关门、车开走。Alba 抱着他哭说「我不知道，我不知道，我不知道」。",
+      "quote": "Alba throws her arms around me, crying, “I didn’t know, I didn’t know, I didn’t know . . .”",
+      "line": 144,
+      "anchor": "Alba throws her arms around me"
+    },
+    {
+      "fact": "第二段：2036 年 6 月 9 日星期一，Gomez 葬礼后几天。Zach 说自己「彻底空白」；他和 Alba 帮 Charisse 与 Max 安排后事、帮 Rosa 与 Joe 应付警察和媒体。Charisse 伤在左小腿后侧肌肉、膝盖下方，拄拐；表面安静务实，但有「一种失落感，像内心的罗盘坏了」。他宁愿自己觉得被摧毁，可他只觉得什么都没有。",
+      "quote": "Charisse was wounded just below her knee, in the muscle in the back of her left calf, so she is on crutches.",
+      "line": 156,
+      "anchor": "Charisse was wounded just below"
+    },
+    {
+      "fact": "他上网查号码（太久没打），等独自在家时才拨；父亲接起连说三声「Hello?」——他们以前总笑他连推销电话都接。他说「爸？是我，Zach」；聊了将近一小时，讲 Alba、讲芝加哥的生活，没提 Gomez；父亲讲退休社区和巴哥犬的趣事。放下电话时卧室光线已变，他坐在近乎全黑里；梳妆台上方的镜子里看不见自己，像待在一间自己已经搬走的房间里，像个鬼。然后眼泪终于来了——「告别的开始」。",
+      "quote": "I can’t see myself in the mirror above the dresser; it’s as though I’m in a room I’ve already vacated, like a ghost. Then tears come, finally, the beginning of goodbye.",
+      "line": 195,
+      "anchor": "I can’t see myself in the"
+    }
+  ],
+  "turning_point": "本章的转折是**枪击**（text:135：无人机开火、Gomez 中弹、Alba 消失、Oliver 把他按在车底），以及**那五个人回来了**（text:102-107：正是他遇见 Alba 那晚被带走的五人，如今站在街对面）。两件都进了素读第 6、8 条。补一条：结尾镜中看不见自己（text:195）若按字面读是超自然，若按情绪读是「提前离场」的自况——本章没有给解释，md 若把它解释成确定的设定即为越界。"
+}

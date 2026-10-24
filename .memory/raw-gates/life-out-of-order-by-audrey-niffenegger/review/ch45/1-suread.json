@@ -1,0 +1,63 @@
+{
+  "chapter": "ch45",
+  "source": "text/ch45_oliver_practices_piano.txt",
+  "method": "只读 text/ 素读，未开 md；本章两段时间线：1975（Alba 24 / Oliver 38，Alba 叙述）与 2041（Oliver 13，Oliver 叙述）",
+  "facts": [
+    {
+      "fact": "第一段抬头：1975 年 2 月 24 日星期一，Alba 24 岁、Oliver 38 岁，叙述者 Alba。Oliver 练琴一天十小时、十二小时、十四小时，没人打断就不吃饭；琴凳上垫枕头，因黄房子漏风而穿毛衣围围巾；Alba 给自己弄咖啡或茶时顺手拿走他的空杯续上。",
+      "quote": "Monday, February 24, 1975 (Alba is 24, Oliver is 38)",
+      "line": 18
+    },
+    {
+      "fact": "Alba 原以为他是音乐神童、从小练琴（她自己四岁学小提琴）；一问才知他上背有腱炎，且「我一直都是这么练的」。他说自己到英国才开始弹琴，父母从没听过他演奏。",
+      "quote": "“I had to learn quickly.” … “I didn’t start playing till I was in England. My parents never heard me play.”",
+      "line": 58
+    },
+    {
+      "fact": "皇家音乐学院的录取是一场逃亡布局：母亲托文化部的关系，用别人的试奏录像骗过校方；他那时十三岁、从没碰过钢琴、喜欢韩国流行乐。到伦敦后由叔叔带他去见老师 Madeline Baxter，住在她家，师生整日工作；他不懂英语，靠翻译机器人沟通；距试奏只有六个月。",
+      "quote": "“They did. But it was just a scheme to get me out of China. … we sent someone else’s audition video. I had never touched a piano. I was thirteen, I liked Korean pop music.”",
+      "line": 66
+    },
+    {
+      "fact": "他对那六个月的复盘：老师让他明白自己不够好，但很快教会他基本技能；他耳朵好、模仿力强，明白自己的命系于学这件陌生的事；父母急于把他送走，他急于讨他们欢心；当时不懂再也见不到他们；他怕叔叔，回头看「也许一切都是最好的安排」。试奏时他把莫扎特的《妈妈请听我说》弹得一塌糊涂。",
+      "quote": "“I was terrified of my uncle, but when I look back it was possibly all for the best.”",
+      "line": 75
+    },
+    {
+      "fact": "试奏失败后，老师们把他一个人留在琴房、带着叔叔与 Baxter 太太出去商议；他觉得那房间宁静、斯坦威大琴好听，就自己弹起来——即兴、绕五度圈。大人们回来，Garcia 教授问他刚才弹的是什么，叔叔转述「他们说，你被录取了」，叔叔显得意外。他猜叔叔说明了父母有入狱之险、他回不去，并且行了贿。",
+      "quote": "“They say that you are accepted.” He seemed surprised.",
+      "line": 110
+    },
+    {
+      "fact": "讲完这段他出神，回神后说了一句关键的话：Alba 还不太了解他，沉默会让她不安；但「当你我都到了中年，我们有时会断断续续聊上好几天，中间大段空白；我们已经说了太多，可以彼此安静」。随后他讲上海童年：父母都是诗人，两居室塞满东西，父亲在长餐桌靠窗那端写作、书堆像山脊隔开桌子；因疫情他常在家上学；父母被软禁的那些时段没人来、他们也不出门；他因父母是异见者在学校被欺负；最好的朋友是同楼的 Zǐ Yì，「我到现在还想他」。他说自己「生在一个特别美的地方与时代，父母善良且非常爱我」，然后说头痛、上楼躺下，Alba 听见他在房间里踱步。",
+      "quote": "“you and I are both middle-aged we sometimes spend days talking intermittently, with long gaps between; we’ve already said so much that we can be quiet with each other.”",
+      "line": 124
+    },
+    {
+      "fact": "第二段抬头：2041 年 10 月 30 日星期三，Oliver 13 岁，叙述者 Oliver。离沪当天父母送他到机场：朋友的家人花数周在市场里搜罗衣物，母亲备了胶鞋、防风外套、连指手套；她把他的衣服全打包，他看见床上摊开的全部家当，才第一次明白父母不指望他回来；背包装不动的部分又取出，只带一周衣物。祖父留下的五本真书留在家里（「我们替你收着」）。",
+      "quote": "Wednesday, October 30, 2041 (Oliver is 13)",
+      "line": 166
+    },
+    {
+      "fact": "临行前夜父亲在桌上放两部手机：他讨了很久的高配小米，和一部看不出牌子的旧机（已破解、无法被追踪）。父亲用全息影像给他看叔叔——照片里叔叔抱着婴儿时的他；「你必须叫他 Stephen 叔叔，他现在不用中文名了。他会叫你 Oliver。」母亲叮嘱「什么都别告诉他」，父亲补充「别告诉他时间旅行的事」；母亲要他严格管住自己「为了我，为了我们」。",
+      "quote": "“Don’t tell him about the time traveling,” my father clarified.",
+      "line": 253
+    },
+    {
+      "fact": "机场：父母甘冒被捕之险来送他，乔装成游客（母亲大墨镜、粉草帽、长发盘起；父亲剪短发、剃掉胡子、遮住纹身、涂了助晒）；他从前嫌父母像「艺术怪人」、希望他们平常些，今天后悔了。小米里装的是一整套伪造人生：护照、签证、机票、音乐学校有条件录取信、叔叔的资助信、不含时间旅行的健康记录、文化部出境许可，以及说明他为何没有 bioware 的医生豁免信。安检口警官问「你父母呢」，又说「他们给你订了陪同，那没事」；他回头看见父母牵着手（从没见过他们牵手）。",
+      "quote": "They could be arrested just for being here, but they have come to see me off, to say goodbye.",
+      "line": 270
+    },
+    {
+      "fact": "人工扫描：技术员问年龄，他答十三；扫脑时他按惯例调动同一段记忆——小时候常来看母亲的「林黛玉」（不是真名）、面部被酸液毁伤、声音低柔的女人，他发烧时她给他煮姜茶唱歌。全息脑图显示他的脑组织与常人不同、无法植入 bioware；技术员说「你没事，孩子，看得出他们为什么装不了」。他感到羞耻却不知为何，也不敢问脑图是否被存档。",
+      "quote": "“You’re fine, dear. We can see why they couldn’t install the bioware; you are organized very differently from most people.”",
+      "line": 338
+    },
+    {
+      "fact": "出关后有人抓住他的手臂喊「Oliver」——是自称 Isadora 的年轻女子，「我是你的陪同」，「你 Stephen 叔叔派我来的，我陪你飞伦敦」。黑西装、短发（像他喜欢的歌手 Yu Eun Ha）、手袋上绣孔雀羽毛；他瞥见她颈上的 Interstitial 纹身，判断她「不是我们的人」，也许是 Fùfā（复发病例）。她带他去有真书的书店挑礼物（Oliver Twist、Peter Pan、About a Boy、Watership Down，「讲兔子们必须找新家」），在头等舱休息室说他是她侄子、点了两杯四川气泡饮，又带他进带两张床的私人舱；她问「你叔叔人好吗」，先查「间隙」，答「不」——随即改口「那不是我说的，是别人说的……一切在最好的可能世界里都是最好的」；飞机开始后退，他们吃虾片和热面包。",
+      "quote": "“I’m Isadora,” she says. “I’m your minder.”",
+      "line": 352
+    }
+  ],
+  "turning_point_note": "本章没有单一情节转折，真正的铰链是两条时间线在人物上合拢：1975 年那个 38 岁、被 Alba 追问琴艺来历的 Oliver，正是 2041 年那个 13 岁、被「Stephen 叔叔」安排的少年；而 2041 年在机场抓住他手臂的陪同 Isadora，就是 Alba 的朋友——已进素读第 10、11 条。补一条易漏的：1975 段里 Oliver 说「当你我都到了中年，我们可以彼此安静」，是把 Alba 与他的关系提前钉在「中年伴侣」上，这句是他俩关系的关键证据。"
+}

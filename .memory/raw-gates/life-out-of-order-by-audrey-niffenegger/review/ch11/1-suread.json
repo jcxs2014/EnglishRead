@@ -1,0 +1,65 @@
+{
+  "chapter": "ch11",
+  "text_file": "text/ch11_thanksgiving.txt",
+  "read_before_md": true,
+  "header": "Wednesday, November 26, 2025, and Thursday, November 27, 2025 (Alba is 24, Zach is 25)",
+  "facts": [
+    {
+      "n": 1,
+      "fact": "感恩节前两天深夜：两人在自学做饭。Alba 从小跟着 Nanna Kimy 在厨房转，不算外行；Zach 自称「almost feral」——多年在餐馆打工只吃现成的，只会做蛋卷和烤土豆。两人看烹饪节目，顺着 Beatrice 留下的食谱书一路做，从 Betty Crocker 做到 Milk Street。这是大考：明天要带派去 Alba 家的感恩节。午夜，两个派在烤箱里，两个还在做；一共做南瓜、苹果、红薯、大黄四种。Alba 抱怨「大黄不当季，我们才十二个人」，他说「每个人喜欢的都不一样，还要剩的，大黄是我最爱」。",
+      "quote": "Alba grew up shadowing her Nanna Kimy in the kitchen, so she’s not clueless, but I am practically feral.",
+      "line": 23,
+      "anchor": "…This is the big test: We are bringing pies to Alba’s family’s Thanksgiving tomorrow. ／:28 “We are making pumpkin, apple, sweet potato and rhubarb.”"
+    },
+    {
+      "n": 2,
+      "fact": "他注意到她的手：比记忆里细，脸骨更突出，衣服显得空——几小时前的晚饭到现在像是掉了体重。他从她手里偷了块奶酪，亲她头顶，问：「Alba，你今晚是不是——离开过？」她垂眼、半笑、单肩一耸，承认：半小时前上楼拿毛衣，然后「去了，又回来了」，听见他在哼同一支曲子、一切如常，就穿好衣服回厨房，只过了几分钟。",
+      "quote": "“Alba, have you been—away tonight?”",
+      "line": 38,
+      "anchor": "…her hands are thinner than I remember, and this prompts me to notice the rest of her ／:42 “I was hoping you wouldn’t notice. I went to the bedroom about half an hour ago to get a sweater, and then I was gone and back again”"
+    },
+    {
+      "n": 3,
+      "fact": "他追问去了哪里：她说有一个她有时会落进去的房子，在**过去**时相当舒服、通常有吃的；这次她**去了未来**，那里「sort of—abandoned. Spooky」，她在那里待了两个星期，靠旧罐头过活、还得省着吃，因为不知道要待多久；她说自己能吃掉一整个派。他一边听一边想：她的一生有多少是累计在外面的？如果她消失几年而他只觉得少了几分钟呢？如果她回来已经是个老妇人？他这才意识到她可能有那么多生命在别的时间里，而且失衡得厉害。",
+      "quote": "“There’s a house I end up in, sometimes,” Alba says. “In the past, it’s fairly comfortable and usually there’s food. This time I went forward, and things were sort of—abandoned. Spooky.",
+      "line": 67,
+      "anchor": "…I was there for a couple of weeks just now, living off of old canned food, trying to ration it ／ I wonder how much of her life Alba has spent away, cumulatively?"
+    },
+    {
+      "n": 4,
+      "fact": "他问：「你经常这样吗？消失，又不告诉我？」她说「不算经常，偶尔。要是有意思的事，我会告诉你」。他反驳「你走了几个星期，总有什么事值得一提」；她小声说「没有，就是一再重复。同一所老房子，同样的罐头。雨一直下」。他看得出她只想让这事过去，就放过了。两人转而聊明天、聊两家人、聊过去的感恩节、醉酒的亲戚、做饭的灾难。派终于好了，整整齐齐排在晾架上；「但愿我像它们看上去那样准备好了」。",
+      "quote": "“Not a lot,” she says, warily. “Occasionally. If anything interesting happens, I tell you about it.”",
+      "line": 77,
+      "anchor": "…“It was just more of the same. Same old house, same canned food. It rained nonstop.” I can tell that she just wants me to let it drop, so I do. ／:85 “If only I felt as ready as they look.”"
+    },
+    {
+      "n": 5,
+      "fact": "感恩节当天：他认识 Alba 一家三年，节日一向在 Gomolinskis 家过——Charisse 和 Gomez 喜欢把家塞满朋友、亲戚、随便什么人，喜欢做上好几天菜，喜欢待客带来的混乱与惊喜。今年他们家**在装修**（他搬去和 Alba 同住后那一周开工，「好像他们一直在等我启动，好把房子拆到认不出来」），于是改在 Clare 和 Beck 家**potluck**；两人都是「diffident hosts」、不热衷下厨，这倒契合这一群「艺术家、无政府主义者、社会主义者与同路人」。菜单：Caralora 一早从 Ann Arbor 开车来、没时间做饭所以订了披萨；Max 和 Joe 带来的 tofurkey；Celia 家传的 collard greens 与 mac and cheese；Gomez 和 Charisse 用生蛋白加玫瑰果利口酒与伏特加（不含 Lucinda 那份）摇出无酒精蔓越莓 shrub。餐桌铺白锦缎、上瓷器和水晶、加了延长板，几乎占满半间屋；相比 Gomolinskis 家的竹盘子和三十几号人，这一桌「fancy and intimate」。",
+      "quote": "This year, however, their house is being renovated.",
+      "line": 98,
+      "anchor": "…this is a potluck Thanksgiving, which seems like the correct spirit for our group of artists, anarchists, socialists and fellow travelers ／:108 “It’s good to have an excuse to use all this stuff our mothers insisted we’d need”"
+    },
+    {
+      "n": 6,
+      "fact": "Beck 的长段肖像：他喜欢她，觉得自己与她同命——都是「在 DeTamble 家的正戏结束之后才到场、嫁进来的人」。她是艺术家、程序员、教授，敏锐体贴、温暖而内敛；黑人，丰满，比 Clare 高但没 Alba 高；读镜挂在脖子上，宽嘴常抿出讥诮的笑，高额头，盐胡椒色的长发天然，盘成各种髻；穿大地色、偶尔一抹红；「与其说像我的某位岳母，不如说像朋友」。这天她显得疲惫：十一点他们到时她还穿着睡衣、头发包着，说「我一夜没睡，Isadora 闹脾气」。",
+      "quote": "Beck is Black, curvy, taller than Clare but not as tall as Alba; her hands are practical, with a few rings but nothing flashy; her expression is often appraising, cautious.",
+      "line": 113,
+      "anchor": "…She seems less like one of my mothers-in-law and more like a friend. ／:119 “I’ve been up all night, Isadora’s being a brat.”"
+    },
+    {
+      "n": 7,
+      "fact": "Isadora 的真相：他从没见过她，人人都说他该庆幸；他知道她是 Beck 的女儿、父亲是 Beck 的前夫 Jasper、十六岁、是 Lucinda 最好的朋友，却总不在场，家里人像对待「阁楼上的疯女人」一样岔开所有关于她的问题。Lucinda 问「我能下去吗」，Beck 看了一眼 Zach 就答应；Lucinda 走到那扇重锁加监控的地下室门前，输密码、按指纹、献上一只眼睛给扫描器，门锁弹开、响几声，她喊着「Hey, girl, I’m here!」下去，里面有人回「It’s about time—」。他问 Beck「谁在下面」，Beck 答：「不是『谁』——是『什么』。是我的 AI 项目，Lucinda 帮我训练它。」Caralora 后来告诉他：Isadora 是拿 Beck **死产的女儿**命名的；Alba 坚持 Isadora 必须离线、绝密、不许见任何生人，「尤其是你」。",
+      "quote": "“Not ‘who’—‘what,’” Beck replies. “It’s my AI project. Lucinda helps me train it.”",
+      "line": 143,
+      "anchor": "…keys in a password, holds her index finger to the touch pad, and offers her eye to a tiny scanner（:133）／:156 “She’s named after Beck’s daughter, who was stillborn.” ／:165 “Isadora is especially not allowed to meet you.”"
+    },
+    {
+      "n": 8,
+      "fact": "饭后：Charisse 举杯「为 Henry，为我们所有缺席的朋友和家人」，全桌静下来；地下室的收音机在唱「Wild thing, you make my heart sing」，那声音像 Ella Fitzgerald 与她的乐团，没什么具体不对，却让他后颈发毛、想逃出这所房子。厨房里只剩他和 Clare，她说「她是在保护你」，他问「这真是好主意吗？也许不知道更危险」，她说「我也不确定。以我的经验，事情总会发生」。回家路上他摊牌「你为什么对我藏着事」，她讲母亲被「提前知道」 conditioning 成瘾、她怕往他的现在里丢未来的碎片会扭曲两人的生活；最后停在「Boundaries」——她要把人与事定义清楚、分开，因为她的生活里一切都混在一起、都 uncanny。回家后她拿出小提琴调音，拉的是 Alban Berg 一首尖利重复的协奏曲，「为一位年轻死去的女孩而作」；他退回卧室，取出笔记本开始写，「trying to make my life make sense」。",
+      "quote": "“Boundaries,” Alba says, staring straight ahead. “I try to keep people and things defined, separated, as much as I can.",
+      "line": 296,
+      "anchor": "“She’s trying to protect you,” Clare says（:237）／“In my experience, things happen anyway.”（:245）／“she developed a personality and now she’s terrifying”（:331）／:352 “an Alban Berg… desolate violin concerto in memory of a young dead girl. She’s been working on it for weeks.”"
+    }
+  ],
+  "turning_point_check": "本章转折点在饭后厨房的 Clare 一句「She’s trying to protect you」——它把「Alba 瞒我」从信任问题改写成保护问题，随后车里的摊牌才成立；第 8 条已覆盖该句与摊牌，无需补。地下室的歌声（第 8 条前半）是这条线上的引信，也未漏。"
+}

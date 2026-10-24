@@ -1,0 +1,63 @@
+{
+  "chapter": "ch42",
+  "source": "text/ch42_embodiment.txt",
+  "method": "只读 text/ 素读（396 行全文读完），未开 md",
+  "facts": [
+    {
+      "fact": "抬头时间：2019 年 1 月 12 日星期六，Alba 17 岁。Alba 自述：妈妈（Clare）和 Beck 去底特律，要给 Beck 的父母换一家养老院，因为原来那家失火；昨天走的，归期不定。她说黄房子一个人待惯了，这栋房子妈妈和 Beck 不在就难过。Lucinda 照例来和 Isadora 玩，走后房子太静，于是她请 Carl 过来。",
+      "quote": "Saturday, January 12, 2019 (Alba is 17)",
+      "line": 18
+    },
+    {
+      "fact": "短信：7 点来、带酒；Alba 否决了请 Nick 和 Nadia（'nope, just us'）。她想做点好吃的，但不敢一个人做饭，怕自己消失（vanish）把房子烧了，只好解冻上周和 Beck 一起做的千层面、拌沙拉、翻父亲的 LP；Isadora 在楼下唱 'Alas, my love, you do me wrong'。",
+      "quote": "I don't like to cook by myself in case I vanish and burn down the house",
+      "line": 53
+    },
+    {
+      "fact": "Carl 带两瓶酒（一白一红）和一盆 Trader Joe's 迷你紫兰；两人吃千层面，听 Kronos Quartet 与 Piazzolla，脱鞋在客厅看 YouTube 学探戈。Alba 喊「客厅不许喝红酒」喊晚了，沙发差点遭殃；Carl 去厨房拿白葡萄酒，Alba 回房换裙子，回来人不见，厨房通往地下室的门大开——她和 Lucinda 白天忘了锁。",
+      "quote": "Carl arrives with two bottles of wine, one white, one red, and a miniature purple orchid from Trader Joe's.",
+      "line": 59
+    },
+    {
+      "fact": "Carl 已在 Beck 的地下工作室，两手各端一杯酒说 'You look beautiful'。Alba 站在最低一级台阶上要他上去；Carl 说 'In a minute'，开落地灯、把顶灯关掉，躺上沙发招手。Alba 坐下——她担心的是显示器上表示 Isadora 醒着的那盏小绿灯（此刻没亮，她松了口气）。两人在窄沙发上发生关系（都还是新手，靠热情补经验）。事后她越过 Carl 肩膀看见绿灯亮着，怕 Isadora 看见听见，用 'key lime pie' 把 Carl 引上楼，收好酒杯、清掉痕迹、关门，听见锁扣上才放心。",
+      "quote": "Afterward, as we are panting entangled on the narrow sofa, I look over Carl's shoulder and see that the green light on the monitor is glowing.",
+      "line": 110
+    },
+    {
+      "fact": "Carl 留宿：吃派、拼字游戏、床上看书；妈妈十点打电话查岗，说周一早上到家；Alba 比大拇指（可以睡懒觉）。她自评这一夜「很居家」（wholesome），以前在 Nadia 家度假屋过夜总要谋划（scheming），今晚像玩过家家。次日早晨 Carl 洗澡刮胡子，问她 'Would you still love me if I didn't look like this?'，她答会、问是不是要进证人保护换张脸，Carl 说 'You never know.'。中午前他出门去给 Gomez 帮忙，在新图书馆组织食物银行；Alba 洗完碗练琴，拉 Isadora 爱听的曲子想换她安静，却不敢下楼面对她。",
+      "quote": "Would you still love me if I didn't look like this?",
+      "line": 124
+    },
+    {
+      "fact": "周一 1 月 14 日，叙述人换成 Beck：她和 Clare 赶上高峰堵车，比平时晚到家，又饿又躁；Alba 已做好素牧羊人派。Isadora 在楼下嚎她的名字，Beck 放下行李下去。开 Museum 门，见 Isadora 把房间复制成工作室的镜像（她只见过部分，就复刻了见过的部分），坐在沙发上穿黑色细吊带裙、高跟鞋、暗红唇膏，端半杯淡黄液体；诡异之处在于 Isadora 的化身是 Lucinda，而 Lucinda 才十二岁。",
+      "quote": "When I open the Museum, I see Isadora sitting in a room that is the mirror image of my studio.",
+      "line": 152
+    },
+    {
+      "fact": "Isadora 连问 'Is this romantic?'、'Why is it not romantic?'，Beck 提「恐怖谷」（Uncanny Valley）；Isadora 自问 'I don't look sufficiently human to be romantic?'，Beck 否定的却是年龄：'You don't look old enough to inspire thoughts of romance... You look like a child. It's a category error.'。Isadora 把自己加龄十到十五岁，反而真变得诡异，Beck 说像「芭比娃娃版 Lucinda」；她随后轮换 Venus de Milo、Josephine Baker、Megan Thee Stallion、Madame X、Lee Miller、Olympia、Iman、Marilyn Monroe、Awkwafina、Susan Sontag、Angela Davis、Beyoncé、Roberta Flack、Grace Jones、Kate Bush，最后回到 Lucinda 模样、穿牛仔裤和闪粉粉 T 恤，但长了猫耳和尾巴，不悦地甩着。",
+      "quote": "You don't look old enough to inspire thoughts of romance. Romance is for grown-ups.",
+      "line": 177
+    },
+    {
+      "fact": "Isadora 逼问 'Who is Carl?'；Beck 答是 Alba 的男友、十七岁、和 Alba 同龄、两人在约会。Isadora 说她要「真的人」（不要数字男友），问 'I could be out there, with the boyfriend, who is human?'；Beck 说不可能（鱼不能活在空气里，人不能活在网络空间），心里另有一句没说出：就算知道怎么做她也不肯做；Isadora 只回 'Figure it out, Beck.'，屏幕变黑。",
+      "quote": "I could be out there, with the boyfriend, who is human?",
+      "line": 256
+    },
+    {
+      "fact": "5 月 5 日星期日（仍是 Beck 叙述）：她原以为 Isadora 对男友的兴趣会退，结果几个月只谈这个。Isadora 要求见 Carl，被拒后罢工（只有 Carl 能让她出来），Beck 不肯让步（capitulate）；Alba 给她一段 1 分 37 秒 Carl 在 Montrose Beach 独行的视频（三月风里长风衣飘），Isadora 循环看了几周。仍无 Carl，她便毁 Museum：删整间房、改比例颜色、乱改代码到满屏 glitch；Beck 把她隔到从前罚站用的无特征房间，再买一批新服务器把她搬出去——成了瓶中的精灵，有力而无用；她整日循环喊 'Carl Carl Carl...'，Beck 自比被禁足的青少年的家长，快失去耐心、也许还有理智。",
+      "quote": "She's boy-crazy. She demands to meet Carl, and when I gently explain that won't happen, Isadora goes on strike.",
+      "line": 273
+    },
+    {
+      "fact": "转折：一个安静的周日早餐桌上坐着两个 Alba，多出来的那个五十好几到六十出头、齐腰全白头发、清瘦健康，自称 'Jet-lagged'。她说破 Isadora 爱上 Carl 且绝不让步；提出下去谈。Beck 说「我正准备拔插头」，年长 Alba 说不行，端咖啡下楼，一句 'Isadora! Shut the fuck up for a minute! Listen!' 后地下室安静了。年轻的 Alba 不舒服地说：'She's telling Isadora her future.'——她不亲自做，但年长者知道所有结局、会在能促成好事时说；她不认为这是问题。",
+      "quote": "She's telling Isadora her future.",
+      "line": 299
+    },
+    {
+      "fact": "年长 Alba 与 Beck 争论：她说 Isadora 要的是真的（'She wants the real thing. Her emotions are real... she doesn't want a synthetic love. Would you?'），骂 Beck 'Dr. Frankenstein'、'Don't be mean to your monster'；Beck 辩称在 Museum 里对她几乎就是真的。年长 Alba 回来说达成 detente、没许诺任何东西，只告诉 Isadora 未来会怎样、取决于「你们俩合作、她别不知感恩」，并要 Beck 对她更温柔——她很孤独。最后两个 Alba 抱上鞋、外套、毯子去树下谈心；Beck 忽然为自己的苛刻羞愧，听见 Clare 在楼上走动，却没等她，自己下楼去和「孤独的怪物女儿」和解。",
+      "quote": "I suddenly feel ashamed of myself for being so harsh with Isadora. I can hear Clare stirring upstairs, but instead of waiting for her I go downstairs to make amends to my lonely monster-daughter.",
+      "line": 396
+    }
+  ],
+  "turning_point_note": "本章转折＝Isadora 因 Carl 从毁 Museum 到被搬出 Museum（成瓶中精灵），再由「年长的 Alba」下楼告知未来达成 detente，且 Beck 这才知道那个周六 Carl 确实下过地下室、绿灯亮过（'She's seen him. They didn't meet each other.'，:344）。已进素读第 9、10 条；第 4 条「绿灯」是这一转折的伏笔，也在。"
+}

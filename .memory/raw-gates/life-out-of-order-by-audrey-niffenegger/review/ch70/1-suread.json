@@ -1,0 +1,96 @@
+{
+  "chapter": "ch70",
+  "source": "text/ch70_ever_after.txt",
+  "method": "只读 text/ 素读，未开 md。抬头：Tuesday, June 23, 2082 (Zach is 81, Alba is 80, Oliver is 60)。全章为 Zach 第一人称单段叙述（ch70_ever_after.txt:23 起，至 :188 止，无第二署名段）。",
+  "facts": [
+    {
+      "fact": "抬头：2082 年 6 月 23 日星期二；Zach 81 岁、Alba 80 岁、Oliver 60 岁。叙述者是 Zach（第一人称）。几天前 Oliver 来「告别」，Alba 特意下楼把最后一段时间留给父子二人；Zach 有一个想问的问题，不确定 Oliver 会不会答，但他答了。Zach 说「我希望能和你在一起」，Oliver 回「我也希望；但我们现在在这里，现在就是某种永远」。",
+      "quote": "Zach: Alba and I are alone together again. / Oliver said goodbye a few days ago. Alba went downstairs, to let us have our time together, the last time we’ll have. There was a question I wanted to ask Oliver. I wasn’t sure he would tell me what I needed to know, but he did. / “So do I,” Oliver replied. “But we’re here now, and now is a kind of forever.”",
+      "line": 23,
+      "lines": "23-33",
+      "chars": [
+        103,
+        536
+      ],
+      "anchor": "alone together again"
+    },
+    {
+      "fact": "Zach 说一生过得太快，有时觉得自己正要重新开始、翻回第一页、重新遇见 Alba 和所有人。Oliver 皱眉说若能重来，会跳过「被啤酒浇透」那一段、以及「多年对你隐瞒 Alba」那一段，并道歉。Zach 挥手说以前谈过、每次都一样：「我不知道是不是非得那样，但事情就是那样发生了。全都原谅了。」Alba 上楼，三人一起说话、握手，直到 Oliver 被拉回他自己的时间。",
+      "quote": "Oliver winced. “If I could do that over, I’d skip the part where I get covered in beer. And the part where I lie to you for years about Alba. I’m so sorry.”",
+      "line": 42,
+      "lines": "42-47",
+      "chars": [
+        726,
+        1198
+      ],
+      "anchor": "skip the part where I get covered in beer"
+    },
+    {
+      "fact": "住处与家世交代：他们住在 Alba 童年的家——Zach 日夜待在那间曾属于她父母、后来属于 Clare 与 Beck 的卧室里。他和 Alba 自己的房子被一场洪水冲毁，黄房子烧掉了，所以搬来这里。他始终不习惯这份安静：几乎所有的朋友与家人都已被他们活过；这栋房子曾充满谈话声、音乐、地下室里 Beck 的服务器，如今唯一的音乐是 Alba 弹的，服务器因发电机坏了而沉默——也许「失魂博物馆」还在里面，像个等着通电一吻的沉睡仙境。",
+      "quote": "We are living in Alba’s childhood home. I spend my days and nights in the bed in the bedroom that once belonged to her parents, and then to Clare and Beck. The house that was mine and Alba’s was wiped out by a flood, the Yellow House burned down, so we came here.",
+      "line": 53,
+      "lines": "53",
+      "chars": [
+        1204,
+        1842
+      ],
+      "anchor": "the bedroom that once belonged to her parents"
+    },
+    {
+      "fact": "病情：没人能给他确诊；「有什么东西正在把我掏空」——咳嗽一说话一笑就撕扯，骨头疼、喉咙疼，还咳出血。他大部分时间卧床，虚弱得起不来；「我愿意拿一切换一杯巧克力奶昔」。今天算是好日子；镇痛药快用完但还够几个月，Alba 给的量刚好止痛、又不至于把他变成行尸。",
+      "quote": "We don’t know exactly what is wrong with me. There isn’t anyone to make a diagnosis. Something is hollowing me out.",
+      "line": 57,
+      "lines": "57-58",
+      "chars": [
+        1846,
+        2186
+      ],
+      "anchor": "There isn’t anyone to make a diagnosis"
+    },
+    {
+      "fact": "一天的日常：Alba 洗床单毛巾、晾在后院晒衣绳上（他听得见布在风里拍响），他写笔记、用从 Beck 书桌里找到的一副牌玩接龙。Alba 端来午饭，他只吃了几勺，Alba 在厨房把剩下的汤和苹果酱吃完——他觉得她当着他的面吃会不自在，因为他吞咽困难。她回楼上问他要不要什么，他伸手叫她：「嘿，Alba。」她迟疑一下，还是钻进被子靠过来，枕着枕头、他的手臂环在她肩上，回一句「嘿，你自己」。",
+      "quote": "This morning Alba washed sheets and towels while I wrote in my notebook and then played solitaire with a pack of cards Alba found in Beck’s desk.",
+      "line": 63,
+      "lines": "63-76",
+      "chars": [
+        2191,
+        3511
+      ],
+      "anchor": "a pack of cards Alba found in Beck’s desk"
+    },
+    {
+      "fact": "「我想是时候了」被 Alba 听成临终（「你还没那么重」），Zach 笑到咳起来才说清：是「我的书」写完了。这本书写了四十多年，摊开在两百一十二个笔记本里，是一部关于「我们」的口述史——他和 Alba、Oliver，家人与朋友；Clare 给了他一箱箱信件与日记，朋友们任由他追问，每个人记住的细节都不同。连 Isadora 也帮了忙，只是她不断提议「我替你写，我一分钟就能写完，我不懂你为什么非要这么费劲」。",
+      "quote": "I have been working for many years on a book of us: me and Alba and Oliver, our family and friends. I started writing it more than forty years ago. It sprawled over two hundred and twelve notebooks, an oral history of our lives.",
+      "line": 111,
+      "lines": "106-111",
+      "chars": [
+        4043,
+        4642
+      ],
+      "anchor": "two hundred and twelve notebooks"
+    },
+    {
+      "fact": "结局之争：Alba 问「你怎么知道它怎么结束，还是你替我们编了结局」。Zach 说 Oliver 几天前把自己的结局告诉他了，他自己的「显而易见」，但**他没给 Alba 写结局**——「如果我不给你结局，也许你就能永远活下去？」Alba 说「不。我不想没有你还要继续活下去」。两人短暂相吻。Alba 又问 Oliver 知不知道她的结局，Zach 说「他没说，我也没问。你想知道吗？」Alba 答「不。也许吧。」",
+      "quote": "“If I don’t give you an ending, maybe you’ll live forever?” / “No. I don’t want to keep going without you.”",
+      "line": 134,
+      "lines": "125-149",
+      "chars": [
+        5234,
+        5612
+      ],
+      "anchor": "maybe you’ll live forever"
+    },
+    {
+      "fact": "收束：这本书是写给 Alba 的情书（「我本来就是为你写的」），「婚姻不就是把自己当作礼物送出去吗」，Alba 说「谢谢你」并答应会爱它。她下床走到床头柜，捧起那叠工整手写、唯一一份的稿子（「Alba 是我唯一的读者」），问他要不要回避，他说「请留下来，我们一起读」。她从头读起，他看着她认真的脸，想起很久以前一个雪夜、在一栋巨大的老房子里，Alba 苍白的脸、黑长发、涂着口红的嘴仰头对他笑——时间把那个 Alba 与这个 Alba 坍缩成一个，她同时是她所有的自己，而「现在就是某种永远」。",
+      "quote": "“Yes, you can read it. I wrote it for you, after all. It’s a love letter.” / “Isn’t that what marriage is? A gift of your self.”",
+      "line": 153,
+      "lines": "149-188",
+      "chars": [
+        5616,
+        6861
+      ],
+      "anchor": "It’s a love letter"
+    }
+  ],
+  "turnpoint": "「I think it’s time」(:90) 被 Alba 误读为临终(:102)，实指书稿完成(:106) —— 章题 Ever After 的双关在此落地：写完「永远之后」，也就写到了自己的结局。"
+}

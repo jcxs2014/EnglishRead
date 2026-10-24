@@ -1,0 +1,93 @@
+{
+  "chapter": "ch14",
+  "title": "Oliver Arrives",
+  "source": "text/ch14_oliver_arrives.txt",
+  "suread_note": "只读 text/ 完成，未打开该章 md。全章为 Alba 第一人称（声部标记 Alba:）。",
+  "facts": [
+    {
+      "fact": "抬头：1999 年 5 月 12 日星期三，Oliver 16 岁、Alba 30 岁；Alba 第一人称，她在黄房子里倒时差，半夜没睡着。",
+      "quote": "Wednesday, May 12, 1999 (Oliver is 16, Alba is 30)",
+      "line": 18,
+      "anchor": "Wednesday May 12 1999 Oliver"
+    },
+    {
+      "fact": "凌晨三点有人按门铃（她说这是多年来在这栋房子里几乎没听过的声音）；门外是个淋湿的裸身少年，蜷在门框边；她开门缝问“Who is it?”，对方小声答“Yang Qing”，她才认出是 Oliver，把浴袍给他。",
+      "quote": "“Yang Qing,” he says back in a scared whisper.",
+      "line": 47,
+      "anchor": "Yang Qing he says back in",
+      "quote2": "There’s someone there, an indistinct shape slouched against the doorframe.",
+      "line2": 38
+    },
+    {
+      "fact": "此时的 Oliver 十六岁：瘦得厉害，耳朵、脚、手都大得不成比例，长发湿透；他跟着她上楼，走进走廊尽头那间卧室——她打开衣柜说“This is yours.”“The clothes. The room. All for you.”",
+      "quote": "Gawky is the only word for him. He’s not as tall as he will be, but he’s so thin; he’s all ears, feet, enormous hands.",
+      "line": 51,
+      "anchor": "Gawky is the only word for"
+    },
+    {
+      "fact": "那间房从 1950 年代起就被他一点点塞满：书架、小桌、书桌，成堆的 LP/CD/磁带、中英文书、词典、各类漫画，旧钟、相框、一只旧的乙烯基米妮老鼠玩偶、音响、八轨录音机、笔记本、乐谱、墨水瓶、几只茶杯；床上方钉着芝加哥、伦敦、上海的地图；没有电脑（从没有过苹果产品）、没有电话电视；桌上放着他的 Eberhard 手表（猪皮表带弯成他手腕的形状）和一只写着他中文名字的白信封；她找他的婚戒，找不到。",
+      "quote": "It’s conspicuously devoid of computers. No Apple product has ever entered this room. No telephone, no television, nothing digital.",
+      "line": 83,
+      "anchor": "It’s conspicuously devoid of computers",
+      "quote2": "I look around for his wedding ring. It’s nowhere to be seen.",
+      "line2": 83
+    },
+    {
+      "fact": "插入段：Oliver 写那封信写得很艰难，他把读过的那封烧了（怕被政府间谍看到）；信的内容大意是「亲爱的 Yang Qing，你在芝加哥一处安全屋。那位女士叫 Alba DeTamble，是作曲家和提琴手。她不会对你说谎，所以问话要小心。她是时间旅行者。你想告诉她什么都行。」他还叮嘱未来的自己：「我会怕你。只要给我早饭，看起来慈祥就行。那时我英语很差。」",
+      "quote": "“Something like, ‘Dear Yang Qing, You are in a safe house in Chicago. The lady’s name is Alba DeTamble, she is a composer and a violinist. She will not lie to you, so be careful what you ask her. She is a time traveler. You may tell her anything you like.’",
+      "line": 142,
+      "anchor": "Something like Dear Yang Qing You"
+    },
+    {
+      "fact": "早饭她煎鸡蛋和培根，给他泡 Earl Grey 茶（这个年纪的他喝茶不喝咖啡）；他穿浅蓝衬衫、深色长裤、擦得极亮的黑皮鞋，像第一次面试的人。他看不懂灶上那只老式指针钟；他说自己来自 2044 年 10 月 14 日的早晨，「昨天有位女士让我来这里」——她说「那是我」。他问「这是你的时代吗」，她答「不，我还没出生」，他说「我也没有」。",
+      "quote": "“It was morning. October 14, 2044. Yesterday, a lady told me to come here.”",
+      "line": 177,
+      "anchor": "It was morning October 14 2044"
+    },
+    {
+      "fact": "橙汁的插曲：他问这是什么、请她写下来，他知道 orange 是颜色、不知道 juice 是什么；她说橙子也是水果、汁是挤出来的；他说他那个时代有类似的东西但带气泡、像可乐，水果很贵。",
+      "quote": "“I know orange is a color. What is juice?”",
+      "line": 226,
+      "anchor": "I know orange is a color"
+    },
+    {
+      "fact": "她洗澡换衣时，他在楼下弹 Philip Glass 的《Metamorphosis》变奏：弹得强悍又柔韧，没有停顿、没有重来，不是练习而像试奏；她心里说「我多年前就决定了，Oliver——可他当然不知道」。",
+      "quote": "Oliver’s playing is formidable, supple—I know he’s playing for me: there are no pauses, no rephrasing or rethinking; this isn’t practice, it’s a kind of audition.",
+      "line": 282,
+      "anchor": "Oliver’s playing is formidable supple",
+      "quote2": "I decided years ago, Oliver. But of course, he doesn’t know that.",
+      "line2": 283
+    },
+    {
+      "fact": "她带他去 Jewel 超市：他被过饱和的色彩震住、念品牌名；她把他引到外围「真正的食物都在这边」；酸奶=「浓牛奶，加水果」；买咖啡茶培根橄榄油意面酱意面大蒜罗勒胡萝卜橙子；他对着水果说 Beautiful，说「你挑」；她用现金付钱、自带购物袋（1990 年代没人这样，装袋小伙很不高兴）；他问「你给他纸？换食物？」——她解释那是钱，而在他的时代每人脑内植有 bioware，兼账本、存钱罐与信用卡，与 Interstices 相连。",
+      "quote": "As we walk back to the Yellow House with our fine haul, Oliver says, “You gave him paper? For food?”",
+      "line": 337,
+      "anchor": "As we walk back to the"
+    },
+    {
+      "fact": "路过 JoJo's 酒铺：店主之子 Adam 在柜台，父亲得了肺炎；Adam 说 Oliver 长得像他「叔叔」——Alba 接口「他叔叔也叫 Oliver」，Adam 说「Oliver Junior，真好」；Oliver 说来自伦敦、十六岁；Adam 打趣「希望你没在腐蚀未成年人」，Alba 答「他叔叔会杀了我们」；她顺手看了眼日期：1999 年 5 月 12 日；买孟买蓝宝石金酒与汤力水；Adam 说「恶魔酒」，Oliver 认真问「瓶子里住着恶魔吗」；她解释他父母虔诚、禁酒。",
+      "quote": "Adam smiles and settles back on his high stool with the Trib’s comics section. I peek at the date out of habit: May 12, 1999.",
+      "line": 428,
+      "anchor": "Adam smiles and settles back on"
+    },
+    {
+      "fact": "回家后他问「我在这里做什么？我要工作吗？」她答「你弹琴、学习、练习」，还看鸟、看老电影、读书、打牌。她带他进自己卧室，掀开地毯、取下一块地板，梁间空处有两只铁盒：绿盒是钱，蓝盒是笔记本——「笔记本是我们跨时间说话的方式」；她给他看上周的条目（1999-05-07，Oliver 写红翅黑鹂在工具房门上筑巢所以再不能割草、他吃光了复活节巧克力但给她买了 Dove Bars、在此待了两天弹德彪西），随后把本子拿回去：「剧透警告，最好不要提前读。」",
+      "quote": "“This green box has money. The blue box has notebooks. The notebooks are a way for us to talk between times.”",
+      "line": 550,
+      "anchor": "This green box has money The"
+    },
+    {
+      "fact": "他说「我希望早知道这栋房子的事，好准备得更充分。你喜欢惊喜吗？」她说好惊喜喜欢；他脸沉下来说「我生活里的惊喜都不太好。但你很好。我希望我早告诉自己关于你的事。」她问「如果早知道，你会怎么做？」他两手各拿一只橙子站住，然后直视她：「I would have hoped.」",
+      "quote": "“I would have hoped,” he says.",
+      "line": 582,
+      "anchor": "I would have hoped he says"
+    },
+    {
+      "fact": "结尾：她给他一支 Dove Bar，看他吃，他的表情让她想起自己第一次吻他；旁白说「此后一生，Oliver 都会记得今天——他遇见我的那天，也是他第一次吃冰淇淋。一点小幸福，和一大份幸福。」",
+      "quote": "For the rest of his life, Oliver will remember today, the day he met me and ate ice cream for the first time. A little happiness, and a big one.",
+      "line": 593,
+      "anchor": "For the rest of his life"
+    }
+  ],
+  "turning_point": "本章转折点已进：十六岁的 Oliver 第一次抵达黄房子（text:47），而 Alba 意识到「昨天让他来的那位女士」就是未来的自己（text:182）——闭环在此合上；她对未来的自己下了判断「我多年前就决定了」（text:283）。补一条语义细节：她找他的婚戒而「找不到」（text:83），这一空位与 ch13 他已戴婚戒形成前后呼应，属关键伏笔。"
+}

@@ -1,0 +1,65 @@
+{
+  "chapter": "ch15",
+  "title": "Halloween",
+  "source": "text/ch15_halloween.txt",
+  "suread_note": "只读 text/ 完成，未打开该章 md。全章为 Oliver 第一人称（声部标记 Oliver:），与 ch14 的 Alba 第一人称不同。",
+  "facts": [
+    {
+      "fact": "抬头：2031 年 10 月 31 日星期五，Oliver 27 岁、Alba 30 岁、Zach 30 岁；全章 Oliver 第一人称，他不知道自己身处何时何地。",
+      "quote": "Friday, October 31, 2031 (Oliver is 27, Alba is 30, Zach is 30)",
+      "line": 18,
+      "anchor": "Friday October 31 2031 Oliver"
+    },
+    {
+      "fact": "他赤身裸体躲在一栋维多利亚式大房子的门廊底下：木条交错成几百个菱形小孔，给他三面视野；街对面的房子都是 1950 年代样式，许多挂着骷髅和橙色灯。",
+      "quote": "I am hiding beneath the porch of a large Victorian house. Wooden slats crisscross the enclosed space under the porch, so I have a three-sided view comprised of hundreds of small diamond-shaped openings.",
+      "line": 23,
+      "anchor": "I am hiding beneath the porch"
+    },
+    {
+      "fact": "万圣节街景：这里还有树，叶子黄红；成群化装的孩子用美国口音说笑——他认得出的有蜘蛛侠、神奇女侠，一个披白床单的高个（他先以为是 KKK，随即想起那是西方人表现鬼的方式）牵着扮成粉色章鱼的小女孩；一个男孩扮成沾满假血的僵尸长颈鹿。天暗下来、路灯亮起，孩子们打开手电。",
+      "quote": "Some of their costumes I recognize: Spider-Man, Wonder Woman, a tall person in a white sheet (at first I thought it was a KKK but then I remembered that is how Westerners represent their ghosts) holding the hand of a little girl dressed as a pink octopus.",
+      "line": 28,
+      "anchor": "Some of their costumes I recognize"
+    },
+    {
+      "fact": "门廊下是泥土、碎砖、砾石和几个塑料玩具机器人——正是人们曾幻想会接管世界的那种人形机器人；这些坏掉的机器人看上去无害而悲伤，而他对生物机器人通常不会产生这种感觉。他又冷又饿又赤身，钻进来是因为街上人多、这是最近的藏身处，现在却被困住：孩子还在附近，他一出去准会被抓。",
+      "quote": "these broken robots look quite harmless and sad, which are not feelings I usually have about bio-robots.",
+      "line": 33,
+      "anchor": "these broken robots look quite harmless"
+    },
+    {
+      "fact": "他隔着街看那栋现代主义房子（一层砖与玻璃，周围灌木剪成光滑的卵形）：一个年轻男人在门口发糖，对孩子很和气、叫得出几个名字、夸他们的装扮；糖快发完时他朝屋里喊“Alba, honey, could you get me that bag of KitKats?”——Alba 出现在门口。",
+      "quote": "“Wait just a minute, we’re running low! Alba, honey, could you get me that bag of KitKats?”",
+      "line": 38,
+      "anchor": "Wait just a minute we’re running"
+    },
+    {
+      "fact": "Oliver 的判断：这就是她的真实生活，那个男人是 Zach、她真正的丈夫，她回的是真正的家；「我不过是她的另一个丈夫」。他说她嘴上说爱他，可她与 Zach 站在一起笑的样子说明她真正的幸福在这里——「这是真的，而秘密是我，不是他」。",
+      "quote": "Here it is: her real life. This is Zach, her real husband, the man she goes home to in her real home. I’m just her other husband.",
+      "line": 42,
+      "anchor": "Here it is her real life",
+      "quote2": "this is real, and I am the secret, not him.",
+      "line2": 43
+    },
+    {
+      "fact": "Zach 替 Alba 把着门、她从他臂下钻进去；他在门廊灯下扫了一眼街道看还有没有来讨糖的孩子——Oliver 觉得他「令人不安地英俊」。之后 Zach 进屋关门，屋里灯亮起，窗帘拉上。",
+      "quote": "He’s disconcertingly handsome.",
+      "line": 49,
+      "anchor": "He’s disconcertingly handsome"
+    },
+    {
+      "fact": "他在砾石上用手扒出一块平整的土面蜷起来，抱住自己取暖、不敢睡；等街上安静、等自己消失回伦敦、回自己的房间与柔软的床。他想象告诉 Alba 自己不再爱她，想象在自己时代找一个人「简单地、只爱他一个人地」爱他——光是想到就恐慌，仿佛 Alba 能隔街、隔着那栋真家的墙感到他的伤心与怀疑。",
+      "quote": "I imagine telling Alba I don’t love her anymore. I imagine finding someone in my own time, someone who might love me simply, solely.",
+      "line": 55,
+      "anchor": "I imagine telling Alba I don’t"
+    },
+    {
+      "fact": "街上终于安静，他回到自己的公寓、自己的卧室：早晨，听得见英国孩子上学路上的说笑；他爬上床、钻进冰冷的被单，把被子拉过头顶哭；睡着，醒来已是下午，人稳住了些，但「生活里有一部分快乐已经离开」，此后很长一段时间他几乎什么都感觉不到。",
+      "quote": "When I wake up, it’s afternoon, and I feel steadier, but some of the pleasure has departed from my life and for a long time afterward I don’t feel much of anything at all.",
+      "line": 60,
+      "anchor": "When I wake up it’s afternoon"
+    }
+  ],
+  "turning_point": "本章转折点是「看见」而非「发生」：Oliver 隔着街第一次看见 Alba 与 Zach 的日常（text:38-43），由此把自己判定为「秘密/另一个丈夫」，并第一次认真想象离开她（text:55）。已进素读第 6、8 条。补一条易漏的对照：他笔下 2031 年的街道「还有树」（text:28 `There are still trees here`），与他 2044 年的匮乏世界形成反差，是本章少见的暖色。"
+}

@@ -1,0 +1,99 @@
+{
+  "chapter": "ch69",
+  "source": "text/ch69_a_murmuration.txt",
+  "method": "只读 text/ 素读，未开 md。抬头：Saturday, September 26, 2065 (Alba is 64, Beck is 89)。本章由 Beck 与 Alba 两个第一人称轮流叙述，署名顺序 Beck(:23) → Alba(:118) → Beck(:123) → Alba(:188)，最后一段仍属 Alba（:236 是她的收尾，全章到 236 行止）。",
+  "facts": [
+    {
+      "fact": "抬头：2065 年 9 月 26 日星期六；Alba 64 岁、Beck 89 岁。Beck 已准备多日：收拾好房子、处理完杂事，把必要的密码与文件留在 Alba 找得到的地方；她没有行李也没有出租车（如今没有出租车了）。她在芝加哥那栋 Alba 从小长大的房子的地下室工作室里，已经住了五十五年；设备在房间另一头嗡嗡作响，她把沙发挪到书桌旁让开通道，慢慢坐下——体内的 bioware 植入体让她动作稍急就头晕。",
+      "quote": "Beck: I have had everything ready for days, but I get up early and check it again just to be sure. I’ve tidied the house, dealt with most of the loose ends; I have left the necessary passwords and paperwork where Alba can find them.",
+      "line": 23,
+      "lines": "18, 23–37",
+      "anchor": "I have had everything ready for days"
+    },
+    {
+      "fact": "Alba 到时显得不确定。Beck 把手戴设备给她、帮她戴上、牵住她的手；两人站在工作室里。Alba 问这到底是什么，是不是某种电子来世；Beck 答「它是失魂博物馆的加强版，带着真正的灵魂。你准备离开时，摘下手戴设备就行」。Alba 将信将疑地说「好」。Beck 调整好她的设备，地下室消失了。",
+      "quote": "“So this is what, again?” Alba asks. “A sort of electronic afterlife?” “It’s the Museum of Lost Souls, expanded edition, complete with actual souls. When you’re ready to leave, just take off the headset.”",
+      "line": 42,
+      "lines": "42–55",
+      "anchor": "Museum of Lost Souls, expanded edition"
+    },
+    {
+      "fact": "第一站是 Rothko Chapel 的前厅，面对一扇关着的门。Alba 问为什么来这里，Beck 说「Jasper 一直在等我。你愿意进来吗？」Alba 说让她单独与他谈。Beck 进门，灰紫黑的巨幅画像通往冥界的门；Jasper 双手交叠坐着像在祈祷，起身在中庭天窗下迎她，比她记忆里老、但不衰，穿西装打领带像刚从自己的葬礼来。Beck 亲他的脸说「抱歉让你等了这么久」；Jasper 说时间在这里不一样。他说想见她、想道歉；Beck 说不需要道歉，「坏日子里也长出好东西，我一直很快乐，希望你找到了平静」。他说他爱她、一直爱她只是最后没能表达；Beck 说「我原谅你，我爱你」。",
+      "quote": "“Jasper’s been waiting for me. Will you come in?” … “I forgive you, Jasper. I love you.”",
+      "line": 63,
+      "lines": "59–95",
+      "anchor": "Jasper’s been waiting for me"
+    },
+    {
+      "fact": "Jasper 说「你的 Isadora 很讨人喜欢，她有时来这里，让我知道你过得怎样。我愿意想象我们的女儿会跟她一样」，Beck 抱住他说「本来就是这么打算的，不过她超出了我原来的计划」。Jasper 说一切都超出他的期望、都非凡；Beck 说「去吧，你自由了」；Jasper 站起、仰头张开手臂，安静地爆成一大团蝴蝶——一片闪动的颜色、空气的轻微扰动，成千上万只，然后一只也没有。Jasper 不见了。Beck 回到 Alba 身边说「我们继续」。",
+      "quote": "Jasper stands, throws back his head, his arms, and quietly explodes into a mass of butterflies—a flickering of color, a subtle disturbance of the air, thousands of butterflies and then none. Jasper is gone.",
+      "line": 108,
+      "lines": "99–113",
+      "anchor": "quietly explodes into a mass of butterflies"
+    },
+    {
+      "fact": "换 Alba 叙述：她站在 Lily Lake 岸边沙地开始处，湖屋就在她预期的位置，林子里有松脂、腐叶、沼泽味和像机油的味道，天色阴沉。她转头看 Beck，Beck 又变年轻了——像她小时候最初认识的 Beck，脸上没有纹路、显得更高更无畏；仔细看又看得出年长而更智慧的 Beck 在里面，此刻是她的化身（avatar）。她穿着出行装：深色长大衣、手套、靴子，Ray-Ban 墨镜挂在衬衫领口，黑牛仔裤，手里什么也没有；Alba 意识到在这个领域里 Beck 是「魔术女王」，她所有想要的东西都由有爱的算法照管。",
+      "quote": "I turn to Beck and she is young again: Beck as I first knew her when I was a child. Her face is unlined, she seems taller, more fearless; I might have said that she has reverted to this previous self but when I look more closely I see that the older and wiser Beck is in there; now she is her avatar.",
+      "line": 118,
+      "lines": "118",
+      "anchor": "I turn to Beck and she is young again"
+    },
+    {
+      "fact": "Beck 又接回叙述：湖屋的纱门响了（弹簧那种金属的嗡与啪，她一向觉得有点刺激），Clare 从他们的房子里走出来——年轻时的 Clare，心形脸、红色长发，不再因关节炎而迟疑，轻松走过门廊、跑下台阶，穿她一向喜欢的带大口袋的蓝裙子。Clare 先拥抱 Alba、再拥抱 Beck。Beck 问她等了多久，Clare 说「我不知道，我刚醒」。Alba 带着敬畏的亲切看着母亲，用眼神对 Beck 说「太逼真了，Beck，太诡异了」；Beck 却完全不觉得诡异——「她是我的记忆，不是 Clare 本人，可她的存在仍让我安心」。",
+      "quote": "Clare walks out of our house, my long-ago Clare with her lovely heart-shaped face and her long red hair, no longer hesitant with arthritis but walking freely across the front porch and running down the steps in her blue dress with the big pockets that was always a favorite of mine.",
+      "line": 123,
+      "lines": "123–137",
+      "anchor": "Clare walks out of our house, my long-ago Clare"
+    },
+    {
+      "fact": "Beck 问 Alba 要不要进去，Alba 说该走了、请给他指方向；Beck 指向湖对岸说「你走也可以，游过去也可以」，又交代「如果你需要我们，我们就在这里。让服务器开着就行，我留了说明，在我桌上」。Clare 说「你随时可以来看我们，我们永远乐意见到你，宝贝」，Alba 明显不安。Alba 拥抱 Beck 说「再见，Beck。谢谢你，为了一切」；Beck 冲她喊「记住我跟你说过的，这里没有边界」。Alba 走进水里，齐栈桥尽头处湖床骤降，她全身连鞋袜跳进深水开始游；Clare 说「她小时候一直怕游泳，不知道什么时候学会的」；Beck 说「我不知道」——随即想到这段知识不知从哪来，她和 Clare 从未有过这段对话。",
+      "quote": "“Remember what I told you,” I call to her. “There are no boundaries here.” Alba turns and waves. We wave back. She wades into the water.",
+      "line": 168,
+      "lines": "142–173",
+      "anchor": "There are no boundaries here"
+    },
+    {
+      "fact": "Alba 叙述：她很快置身一片巨大的淡水中央——Lily Lake 很小（划船二十分钟就能过），这片却是无边无际的大湖。她有点慌，随即提醒自己其实站在自家地下室；她想「我准备停止游泳了，不必这么难」，就上了岸，浑身干爽。沙地转成沙丘草后，她看见沙丘中的黄房子；四周什么都没有，Beck 用雾把房子围住、雾外是空白，房子本身却在它自己的金色黄昏光里。前门挂着链条和挂锁，她想起音乐室里那间锁着的壁橱、想起 Beck 在身后喊「记住，这里没有边界」，于是像幽灵一样穿过门，毫无阻力。",
+      "quote": "Almost as soon as I set out I find myself in the middle of a huge body of fresh water. Lily Lake is tiny: it takes twenty minutes to row across it and you can see where the trees meet the water all around. This is a Great Lake, boundless, shoreless.",
+      "line": 188,
+      "lines": "188–189",
+      "anchor": "This is a Great Lake, boundless, shoreless"
+    },
+    {
+      "fact": "黄房子一层阴凉：她摸 Oliver 的钢琴、他的打火机、他们收着的歌剧与交响乐票、Zach 在 2026 年送她的皮夹克；冰箱里有 Beck 的素食千层面和三个柠檬条（装在她母亲的那种保鲜盒里）。她咬一口柠檬条，味道完全对，却在嘴里像气泡一样化掉、毫无实质。她从厨房窗子看得见湖，后来才明白房子在岛上；她想下次见 Beck 要问她为什么觉得她需要这样的隔绝。",
+      "quote": "I open the fridge and find a pan of Beck’s vegan lasagna and three lemon bars in a Tupperware container I recognize as my mother’s. Curious, I take a bite out of a lemon bar. The taste is exactly right, but the bite dissolves in my mouth like fizz, insubstantial and unsatisfying.",
+      "line": 195,
+      "lines": "194–195",
+      "anchor": "The taste is exactly right, but the bite dissolves"
+    },
+    {
+      "fact": "楼上卧室整齐得像 Beck 录下之前铺好床、收拾过；浴室玻璃杯里并排三支牙刷。她在镜子里看见自己的倒影，觉得奇怪——她知道这不是她在时间旅行，而是房子被提前送到时间里去迎她的现在。音乐室里一切如旧，她给小提琴调音、放回琴盒；壁橱开着、空了，文件柜不见了。她坐下等。",
+      "quote": "It’s strange to see my reflection in the mirror, to know that I am not time traveling, that the house has been sent ahead in time to meet me in my present.",
+      "line": 200,
+      "lines": "200–205",
+      "anchor": "the house has been sent ahead in time to meet me"
+    },
+    {
+      "fact": "一切变黑，再能看见时她处在一大群椋鸟（starlings）的群飞中——那是她母亲的艺术：满屋静止无声的黑鸟，然后它们开始飞，天花板变成天空，鸟群绕着她、穿过她不触碰她，像巨大的黑色万花筒；她母亲低沉的声音说「别怕」。翅膀擦过她的手和脸，她听见椋鸟的叫声和她半认得、或许是她即将写的音乐。就在这一切变得难以承受时，椋鸟穿过墙、天花板、屋顶，消失。寂静中她听见脚步，一个孩子迟疑地站在门口——是九岁的她自己，她为 Isadora 演奏的那一天。另一个 Alba 跑过来，她抱住她；孩子说「你怎么这么久才到」。",
+      "quote": "In the abrupt silence I hear footsteps. A child hesitates in the doorway. It’s my nine-year-old self, from that first day when I played for Isadora. Other Alba runs to me and I embrace her. She says, “What took you so long to get here?”",
+      "line": 214,
+      "lines": "210–214",
+      "anchor": "It’s my nine-year-old self"
+    },
+    {
+      "fact": "房间中出现一张堆满文件夹的桌子，每一本都是她的音乐——Beck 遵守了承诺。她随手抽出一本：一首她多年前开始、从不知道怎么收尾的 A 小调小提琴奏鸣曲。另一个 Alba 抱着她的小提琴期待地看着她；她想「现在我要做我自己的缪斯」，忽然知道音乐该往哪走，那种必然与明显让她满心确定地开始、终于毫无恐惧地写。一小时后她站起伸展，该回到 Beck 身边了；她害怕，但 Beck 信任她做这件事。她向另一个 Alba 道别，摘下手戴设备。",
+      "quote": "A table has appeared in the room, heaped with file folders. Every folder is full of my music. Beck has kept her promise.",
+      "line": 219,
+      "lines": "219–231",
+      "anchor": "Beck has kept her promise"
+    },
+    {
+      "fact": "黄房子消失，她回到 Beck 的工作室。Beck 的身体蜷在地上侧躺着，一只手臂遮着脸，像鸟把头埋进翅膀下。Alba 坐到她旁边，用手指按她的脖子找脉搏——她死了，就像她告诉过她的那样。Alba 合上她的眼睛，把她抱起来放到沙发上，仔细摆好四肢，让她看起来舒服、自然。服务器嗡嗡发光；在那里，Beck 和她对母亲的近似体正在吃晚饭、在湖里游泳、在咖啡上消磨。Beck 的祈祷书合着放在桌上，只有一枚书签夹在她请 Alba 找的那一页；Alba 轻声念，像念她入睡：「……生命是永恒的，爱是不朽的，而死亡只是一条地平线，地平线不过是我们视线的尽头……」",
+      "quote": "The Yellow House disappears, and I am in Beck’s studio again. Beck’s body is crumpled on the floor, lying on her side, one arm shielding her face, like a bird tucking its head under a wing. I sit next to her, press my fingers to her neck to find her pulse, but she is dead, as she told me she would be.",
+      "line": 236,
+      "lines": "236",
+      "anchor": "but she is dead, as she told me she would be"
+    }
+  ],
+  "turnpoint": "2065 年 9 月 26 日：Beck 在自己造的「失魂博物馆（加强版）」里告别（Jasper 化蝶、Clare 以记忆体相迎），把 Alba 送进黄房子的音乐室让她写完那首 A 小调奏鸣曲；Alba 出来时 Beck 已按预告死去（蜷在地上，像鸟把头埋进翅膀），她合眼、安放遗体、念祈祷书那段「死亡只是地平线」。"
+}

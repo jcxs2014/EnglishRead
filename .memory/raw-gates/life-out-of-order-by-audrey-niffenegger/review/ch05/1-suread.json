@@ -1,0 +1,98 @@
+{
+  "chapter": "ch05",
+  "source": "text/ch05_ghost_bikes.txt",
+  "method": "只读 text/ 素读（未开 md）；979 行 / 7651 词；抬头 3 个：:18、:161、:598、:810 四个日期节",
+  "facts": [
+    {
+      "fact": "抬头：2023 年 7 月 1 日（周六），Alba 21、Zach 22。",
+      "quote": "Saturday, July 1, 2023 (Alba is 21, Zach is 22)",
+      "line": 18
+    },
+    {
+      "fact": "Alba 在 West Rogers Park 看 Rosa 与 Caralora 做一辆幽灵车：Gomolinski 一家两天前刚搬来，车库全是箱子；Rosa 拆开标着 GHOST KIT 的箱子，里面是黑白喷漆、字母模板和大量塑料花；Caralora 推来一辆破旧的黄色 Huffy。",
+      "quote": "Alba: I’m watching Rosa and Caralora make a ghost bike. We are in Rosa’s parents’ garage in West Rogers Park.",
+      "line": 23
+    },
+    {
+      "fact": "这辆车是给 Lily Hanko 的：十八岁，她们在 Critical Mass 认识的；她在 Leavitt 那起肇事逃逸里被撞死；凶手每次换一辆偷来的车，人赶不到就被脱身；家属希望立纪念物；六周里这是第三辆幽灵车。",
+      "quote": "“A girl named Lily Hanko. We knew her from Critical Mass. She was only eighteen.”",
+      "line": 37
+    },
+    {
+      "fact": "Gomez 派给 Zach 一项不许别人知道的直接行动，Caralora 为此不快（以前只有她和 Rosa 有自己的项目）；Zach 连跑三个晚上，当天早上告诉 Alba「行动完成」，然后在她床上睡着。他读招牌时做了个只有 Alba 看得懂的小圆圈手势，意思是「因果闭环」。",
+      "quote": "He makes the small circling gesture that means causal loop in our private code.",
+      "line": 101
+    },
+    {
+      "fact": "Gomez 与 Charisse 出门开选区会：有人朝无人机开枪，昨天一架死掉的无人机砸在 Indian Boundary Park 一个孩子身上；第 50 选区正式反无人机、护儿童，Gomez 提议设禁飞区，市议会拖着不办。",
+      "quote": "Gomez and Charisse have to attend a ward meeting because people have been shooting at drones and yesterday a dead drone landed on a kid in Indian Boundary Park.",
+      "line": 111
+    },
+    {
+      "fact": "Zach 提出用 Alba「一紧张就消失」的特性当诱饵抓那个司机，主意其实是年长 Alba 的；Caralora 立刻反对，说万一她死了怎么办，还说「我真的真的很不想给我们中的任何一个人做幽灵车」；计划最后落在「用替身骑车人」上。",
+      "quote": "“I have an idea, or actually, it’s Older Alba’s idea,” Zach says.",
+      "line": 128
+    },
+    {
+      "fact": "第二个抬头：2023 年 7 月 8 日（周六）至 7 月 10 日（周一），Alba 21 岁转 22 岁。规律：受害者全是戴耳机的年轻女性，都在周六或周日上午、Wicker Park 较安静的住宅街被杀。这是第七天；昨天她还觉得无聊，今天是 Zach 紧张所以她紧张。",
+      "quote": "Saturday, July 8, 2023–Monday, July 10, 2023 (Alba is 21 and 22)",
+      "line": 161
+    },
+    {
+      "fact": "布置：Alba 穿粉裙＋荧光黄连帽衫骑车当靶子（自觉像网球）；车是 Caralora 捐的旧 Trek 女式混合车；戴耳塞、护膝护肘、手套头盔；Caralora 在耳机里叫她「我的小神风自行车手」；Zach 开红色 BMW、Caralora 坐副驾，Rosa 把车逆向停在单行道上准备堵路，Max 与 Joe 尽量藏在事故点附近。凶手开黑色 Camry。",
+      "quote": "“A black Camry.”",
+      "line": 225
+    },
+    {
+      "fact": "撞车过程（Alba 视角）：在 Bell 街向北骑过 Hirsch 路口的停车牌时看见那辆黑色 Camry，耳机里 Caralora 喊「On your right, Alba」；她想着「别在这儿、别在学校门口」，加速，听见车加速、感到撞击，人被抛到空中翻转——记忆到此中断。",
+      "quote": "I hear the car accelerate, feel the impact and I am flung off the bike into the air",
+      "line": 257
+    },
+    {
+      "fact": "（Zach 视角）Alba 被抛得很高、像罚球一样悬在空中，然后人不见了；Rosa 侧面撞上 Camry 把它撞到树上；司机是个秃顶的年轻白人男子，一脸空白；众人把他拖下车轮流踢，救护车来了才停；Alba 裸着蜷在人行道上，昏迷，额发际线处肿起鸡蛋大的包，瞳孔很大但呼吸正常；Rosa 被气囊困在车里。",
+      "quote": "and there she is, curled on her side, naked. I run to her. She’s unconscious.",
+      "line": 263
+    },
+    {
+      "fact": "医院：Kendrick 医生（David）诊断脑震荡，没骨折、没脑出血，但说话含糊难懂；Clare 冲 Zach 发火，说不能因为 Alba 说「已经发生过」就照做，「你不是被绑在某种决定论机器上，你可以选」；Rosa 在另一家医院，只是被气囊撞青；Kendrick 转告 Nadia 很担心她。",
+      "quote": "You are not caught up in some kind of determinism machine. You can choose.",
+      "line": 307
+    },
+    {
+      "fact": "当晚，一个从 2024 年 7 月来的 Alba 提着麦当劳进来（奶昔留给病床上的自己），说自己会头痛一周、眩晕、恶心、疲倦约三个月；Zach 问她为什么让这事发生，她答「那些别的女孩都死了，知道我们逮住了那混蛋，你不觉得痛快吗」，并说自己还会再做一次。她还说自己留着五家医院的探视通行证，是历年时间旅行攒下的。",
+      "quote": "“Those other girls are dead. Don’t you feel amazing, knowing that we got that asshole?”",
+      "line": 407
+    },
+    {
+      "fact": "病房里 Zach 求婚（「Let's get married」）；Alba 说他的父母上周刚办完离婚；随后她提出「我们共守一个秘密」：她来自 2024 年 7 月 15 日，等他明年七月走到那一天，她会给出答复。",
+      "quote": "Then she says, “Let’s have a secret together.”",
+      "line": 566
+    },
+    {
+      "fact": "周日早上 Clare 与 Beck 带司康、报纸、干净衣服来；Alba 举着红笔写的大字条 COFFEE!，Clare 说脑震荡不许喝。走廊上 Zach 遇见 Lucinda Flowers 与养母 Celia Attley；Celia 给他看 CCTV：全程被拍到，媒体管凶手叫「Wicker Park Maniac」，每次 Alba 消失前镜头就切走；Celia 说那司机打算认罪，Zach 觉得太顺、有人打了招呼（他们的名字没上新闻）。",
+      "quote": "The media are calling the killer the Wicker Park Maniac.",
+      "line": 638
+    },
+    {
+      "fact": "Gomez 拉 Zach 出去抽烟，训话：别再搞上新闻的壮举，他费了力气才把他们脸和车牌从监控里抹掉；「我们得安静地做事，得冲着根上的问题去，不是捡路边的随机凶手」；还说「你可以对 Alba 说不，她不是上帝，你也不是约伯」；并说 Henry 死后所有损伤一次压到 Clare 身上，是 Beck 救了她。",
+      "quote": "You need to tone it down. Don’t do spectacular stuff that’s going to make the news",
+      "line": 737
+    },
+    {
+      "fact": "两人走到 Belmont 一带，遇上一场移民突击搜查：催泪瓦斯、ICE 与穿防暴装备的陆战队封住 Halstead；Gomez 打电话让市长派救护车、叫记者来，然后说「这也不是我们的选区，我们也没穿对衣服」，仍决定去看看能做什么，两人走进冲突。",
+      "quote": "“Immigration raid! Tear gas!”",
+      "line": 778
+    },
+    {
+      "fact": "周一傍晚：Lucinda 独自陪床，当天刚拔了两颗智齿；Alba 让她把牙齿给自己——一个年长的自己托她转告，说这很重要、「是给 Isadora 的」；Lucinda 说 Isadora 大概是要拿去做某种治疗、干细胞之类；Alba 塞二十美元被拒（「这是给 Isadora 的礼物」）。",
+      "quote": "One of my older selves asked me to ask you. She said it was important, and that it’s for Isadora.",
+      "line": 875
+    },
+    {
+      "fact": "Kendrick 医生发现枕头下的牙，先问「Alba，你在掉牙吗」，得知是别人的牙后仍答应保管、留存 DNA；临走说「你跟你爸一样疯」。Alba 结尾想：这是给 Isadora 的礼物，她也不懂要拿去做什么，所有可能都让人不安；她梦见自己在飞，等着落地，却始终没落地。",
+      "quote": "“You are every bit as crazy as your dad,” he says, turning out the light.",
+      "line": 974
+    }
+  ],
+  "turning_point_note": "本章转折点有两个，都已进表：①替身诱捕：从「做第三辆幽灵车」转成「用 Alba 自己当饵」，她真的被撞、当众消失（第 11、12 条）；②病房求婚被改成「共守一个秘密」，答复被推到 2024 年 7 月 15 日（第 13 条）。末尾「给 Isadora 的牙」是全书级伏笔，也单独列了一条。"
+}

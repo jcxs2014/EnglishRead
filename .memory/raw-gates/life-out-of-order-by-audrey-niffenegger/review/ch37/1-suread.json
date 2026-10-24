@@ -1,0 +1,53 @@
+{
+  "chapter": "ch37",
+  "source": "text/ch37_coffee_and_pancakes_with_ghosts.txt",
+  "method": "只读 text/ 素读，未开 md",
+  "facts": [
+    {
+      "fact": "抬头：1991 年 10 月 27 日周日，Henry 28、Clare 20、Alba 49 岁「且 12 岁 × 3」。场景是 Ohio House Restaurant：四张卡座、十个吧凳的小馆子；49 岁的 Alba 带着三个 12 岁的自己坐一张卡座，她父母坐在隔两张卡座处、完全不知道她们在；这是父母第一次约会之后的那个早晨，两人各一杯咖啡、看菜单、安静而有点羞怯。",
+      "quote": "Sunday, October 27, 1991 (Henry is 28, Clare is 20, Alba is 49 and 12 x 3)",
+      "line": 18
+    },
+    {
+      "fact": "她反复回到这个早晨的两个理由：一是「因为我能」——时间地点是父母都提过的（小时候他们还带她来怀旧）；二是这里的一切都在「之前」，像雨后花园一样新。母亲是松一口气的（秘密的生活终于与现实生活合流，她终于在当下找到了她的时间旅行者）；父亲则是震惊、欣喜、困惑，知道一切都变了，但还不知道变得多彻底。",
+      "quote": "Why do I keep revisiting this morning? Perhaps because I can; I know the time and the place because my parents have both mentioned it; they used to bring me here when I was tiny, out of nostalgia.",
+      "line": 55
+    },
+    {
+      "fact": "点单：三个小 Alba 都要蓝莓松饼，49 岁的她要培根煎蛋加咖啡；小的也要咖啡，她驳回「Nope, orange juice for you」，女侍应回一句「Next they’ll be wanting to smoke」。她拆开一根塑料吸管看得出神（「这样一根没有重量的白红黄小管子」），察觉一个 Alba 在看她，就把吸管递回去——不打算在这么晴好的早晨跟刚发育的自己讨论塑料的罪。",
+      "quote": "“What’ll ya have?” the waitress asks. The three junior Albas all want blueberry pancakes. I order eggs and bacon with coffee.",
+      "line": 33
+    },
+    {
+      "fact": "三个自己的调度：小的轮流经过父母卡座、不太含蓄地盯看；三人衣服明显不同，但看起来像同一个「很年轻很干净的无家可归者」，所以母亲那边只会觉得是一个女孩在附近晃。她们挤在对面、眼睛全越过她肩头；一个做交警手势催她挪开，她挪到座位尽头让她们看个够。桌下有动静：第一个 Alba 脱鞋给第二个穿——三个自己只有两双鞋。",
+      "quote": "Shoes are always the most difficult clothing to steal, and my three selves only have two pairs between them.",
+      "line": 62
+    },
+    {
+      "fact": "偷听到的父母对谈（关于艺术）：母亲说她大量排斥艺术理论，宁可去博物馆看，不愿每做一件雕塑就写宣言，也不想让人看她的艺术时觉得自己蠢——「我要他们停止思考，让艺术像一种情绪那样进去，之后再想」。父亲问「你想让他们感到某种特定的情绪吗」，她说「我知道我做东西时自己的感受，也许能透出来」，停很久后补：「Longing. Loss. Beauty.」父亲反问「美是一种情绪吗」，她说「必须是吧，你不觉得吗」，父亲说「是，也许，你说的时候我想到颜色，好像每种颜色都是一种不同的感觉」。",
+      "quote": "“I know what I feel when I make a thing. Maybe that comes through.” There is a long pause, and then she adds, “Longing. Loss. Beauty.”",
+      "line": 91
+    },
+    {
+      "fact": "父亲的自述与神祇打趣：他整天想给书建立秩序、编目、给每件新到的东西一个编号以便将来有人要时找得到，满足但永远有一座山等着，多数日子「像推石头的西西弗斯」；做艺术想必是很有力量的感觉。母亲怀疑地说自己只是艺术学生，独处画室时在「我是女神」和「我是白痴」之间来回。父亲说「你绝对是女神」，后又说自己控制不住时间「大概更像狄俄尼索斯」、她是雅典娜与阿佛洛狄忒的合体；母亲回「人们总想把我变成缪斯，我一点兴趣也没有」。",
+      "quote": "“People keep trying to make me into a muse,” Mama says. “I’m not interested in that one bit.”",
+      "line": 190
+    },
+    {
+      "fact": "三个小的盘问她：多大了（四十九）、结婚了吗（结了）、怎么遇见丈夫的（「That’s complicated. Ask me another time.」），第二个 Alba 抢答「A party, a taxi line and a piano competition」，并追问「你怎么可能同一个人遇见三次」，另一个问「你离婚了吗」；她以「Why is a raven like a writing desk?」挡回去，说「Hush now and eat your pancakes」。她几乎从不对更小的自己说谎，因为那只会造成混乱。",
+      "quote": "“That’s complicated,” I tell her. “Ask me another time.”",
+      "line": 131
+    },
+    {
+      "fact": "突袭：最小的那个放弃伪装，直接走到父母桌前，双手撑住桌沿说「We’ve run out of syrup. Can I borrow yours?」；半满的糖浆壶本来就在 Alba 眼前，她把它藏到果酱包架子后面。父亲从 Alba 的脸看到她们那桌，惊见两个一模一样的女孩，目光与她相接、脸僵住——「他不认识我们，但在想他是否该认识」。母亲背对着，把糖浆递过去；父亲问「你们是三胞胎吗」，Alba 面无表情答「We’re clones」；父亲说「像多莉羊？」，她真心困惑（1991 年，多莉还要五年才出生），父亲意识到失言说「我读到过，抱歉，你一点也不像羊」，她回「Baaaa」。",
+      "quote": "“We’re clones,” Alba deadpans.",
+      "line": 222
+    },
+    {
+      "fact": "收束：小的说「I think I better go」（意思是快消失了），三个跑出门、笑闹着遮住一个光脚；她总多给小费，补偿那些不得不逃单的时候。父母那头，父亲问「when can I see you again?」，母亲答「All the time. Why hold back?」并背出马维尔《致他羞涩的情人》中段（「Let us roll all our strength and all / Our sweetness up into one ball…」），父亲接下末段（「Thus, though we cannot make our sun / Stand still, yet we will make him run.」）。父亲出门前回头端详她「像要记住我」，只尴尬点一下头就走；女侍应说「The gentleman paid your check.」她曾问父亲记不记得 Ohio House 那个早晨，他声称不记得，如今她不信了。两个 Alba 在街角 7-Eleven 等她，她说「Come on, clones. Let me tell you about Dolly the Sheep.」",
+      "quote": "“The gentleman paid your check.”",
+      "line": 291
+    }
+  ],
+  "turning_point": "进了：第 8 条（最小的 Alba 破功走到父母桌前、父亲看见三个同样的女孩并「脸僵住」）是本章唯一一次越界，也是全章爆点；第 9 条父亲临走回头「像要记住我」并替她付账，把这场单向的重逢钉住——两条都在。"
+}

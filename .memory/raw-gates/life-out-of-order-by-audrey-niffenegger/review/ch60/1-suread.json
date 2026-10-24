@@ -1,0 +1,71 @@
+{
+  "chapter": "ch60",
+  "source": "text/ch60_the_return_of_the_darling.txt",
+  "method": "R1 素读：只读 text/ch60_the_return_of_the_darling.txt（157 行），未打开 md、未看 production、未回忆。Alba 第一人称；2041-10-11；Alba 40 岁、Lucinda 34 岁。",
+  "facts": [
+    {
+      "fact": "抬头：2041 年 10 月 11 日星期五（Alba 40 岁，Lucinda 34 岁）。",
+      "quote": "Friday, October 11, 2041 (Alba is 40, Lucinda is 34)",
+      "line": 18,
+      "lines": "18-18",
+      "anchor": "Friday, October 11, 2041 (Alba is 40"
+    },
+    {
+      "fact": "Alba 坐在华盛顿广场公园（又叫 Bughouse Square，曾是自由思想者与街头演说家的地盘）等 Lucinda。街对面是粉色花岗岩的 Newberry 图书馆——她父亲在那里做了多年特藏馆员，爱那馆子爱到一次次穿越回去；他的办公室窗子正对公园，若他现在在，会看见女儿坐在冬季干涸的喷泉旁的长椅上。",
+      "quote": "I’m sitting in Washington Square Park, aka Bughouse Square, erstwhile home of freethinkers and soapbox orators. The Newberry Library looms in pink granite splendor across the street and I think of my father, who was a special collections librarian there for years, who loved that library so much that he time traveled to it again and again.",
+      "line": 35,
+      "lines": "35-36",
+      "anchor": "I’m sitting in Washington Square Park, aka Bughouse Square"
+    },
+    {
+      "fact": "Lucinda 从 Clark Street 往南走来，拖一只带轮行李箱，穿一件对今天天气来说太薄的红雨衣。她已失踪一个多月。Alba 站起来挥手，Lucinda 看见了，停一下，斜穿公园走过来，两人在中间相遇拥抱。Lucinda 说「见到你真好，Alba。你在这儿做什么？」Alba 说「等你。你失踪了。我们很担心。」Lucinda 有点意外，问「我走了多久？」Alba 答「三十四天。你不记得了？」",
+      "quote": "When Lucinda arrives, I see her immediately, walking south on Clark Street. She is towing a wheeled suitcase, wearing a bright red raincoat that’s too lightweight for the weather today. She’s been missing for more than a month. … “Thirty-four days,” I tell her. “Don’t you remember?”",
+      "line": 41,
+      "lines": "41-58",
+      "anchor": "When Lucinda arrives, I see her immediately"
+    },
+    {
+      "fact": "Lucinda 说她在「失魂博物馆」（Museum of Lost Souls），Isadora 照料她、替她把现实生活的事全包了，她失去时间感，以为只过了几天。她看起来平静甚至比很久以来都快乐，但人不整洁：头发打结、没化妆、指甲油剥落、指甲断了、球鞋鞋带系得怪、袜子不成对。",
+      "quote": "“I was in the Museum of Lost Souls,” she says. “You know how it is in there. Isadora took care of me, took care of everything so I didn’t have to worry about real life. I lost track of time. I thought it was just a few days.”",
+      "line": 62,
+      "lines": "62-67",
+      "anchor": "“I was in the Museum of Lost Souls,” she says."
+    },
+    {
+      "fact": "两人坐到长椅上。Lucinda 交代原委：她和 Isadora 一直说「换个位置」多好——Isadora 想要感官经验、想出地下室去真实世界做真正的女孩，Lucinda 只想躲在博物馆里休息、什么都不用面对。去年圣诞节 Lucinda 来访时，Isadora 说已想出让她们换的办法，条件是要装新的 bioware；Alba 一向劝她别装，为此她们反复争执了一阵；但她越抑郁越深，「要么这样，要么自杀」。",
+      "quote": "“So Isadora and I, we always used to talk about how cool it would be if we could switch places. … Last Christmas, when I was visiting, Isadora said that she’d figured out how we could do it, if I ever wanted to try. She said I had to get the new bioware, and I remembered that you always told me I shouldn’t do that, so for a while we went around and around about it. But as I got more and more depressed, it was either that, or kill myself.”",
+      "line": 80,
+      "lines": "80-80",
+      "anchor": "“So Isadora and I, we always used to talk"
+    },
+    {
+      "fact": "她在去年七月装了 bioware，花了几周才展开（unfurl），之后还要练习使用；她不喜欢、也没兴趣像别人那样把它当强化版互联网用。她做完了给的练习，其实一直在等 Isadora 找到她，Isadora 最终找到了。",
+      "quote": "“I had the bioware installed last July. It took a few weeks for it to unfurl, and then I had to practice using it. I didn’t like it much. … I did the exercises they gave me, but really I was waiting for Isadora to find me. And she eventually did.”",
+      "line": 89,
+      "lines": "89-89",
+      "anchor": "“I had the bioware installed last July."
+    },
+    {
+      "fact": "两人挪到 Clark Street 半条街外的咖啡馆窗边小桌，Lucinda 狼吞虎咽像很久没吃过东西。Lucinda 说 Isadora 现在就在这里，「你要不要跟她说话？」；起初两人得轮流，现在她能同 Isadora 在一起，很快会开始 overlap、进而 merge——Lucinda 对此显得高兴甚至欣喜。Alba 觉得恶心：没人想失去她，也不想失去 Isadora，要两个各自独立的。Lucinda 说「没人会消失，你会看到的」，说她们像「一个整体的两半」，Isadora 一来她脑子里的噪音就静了，终于能休息。",
+      "quote": "“Yes. At first we had to take turns, but now I can be with her. I think soon we’ll begin to overlap, you know, to merge.” Lucinda looks pleased about this, almost delighted. … “Don’t worry, Alba,” Lucinda says eagerly, “nobody will be lost. You’ll see.”",
+      "line": 124,
+      "lines": "120-135",
+      "anchor": "“Yes. At first we had to take turns"
+    },
+    {
+      "fact": "Alba 想起智齿：Lucinda 曾把自己的智齿交给她保管、给 Isadora——问那到底是怎么回事（她以为 Isadora 要克隆 Lucinda）。Lucinda 尴尬承认「那是计划，最终会的」，但「我不知道自己会不会留到那时候。身体不会永远撑下去，她总有一天需要另一具」。Isadora 主意很大，而 Lucinda 只要能早上醒来觉得好就够了；Isadora 说她可以永远住在博物馆里、只要平台还支持。Alba 握住她的手，自省：Lucinda 对她像妹妹，自己却沉溺于自己的戏，没看出她在滑走；若 Isadora 能靠「另给一个世界」把她留在这个世界，她愿意学着感激。",
+      "quote": "“Lucinda, do you remember the wisdom teeth? You gave me your teeth to keep for Isadora? … “Oh, yeah.” Lucinda looks embarrassed. “I mean, yeah, that’s the plan. Eventually. But I don’t know if I’ll stick around for that. Bodies don’t last forever, she’ll need another one someday . . .”",
+      "line": 139,
+      "lines": "139-144",
+      "anchor": "A thought strikes me. “Lucinda, do you remember the wisdom teeth?"
+    },
+    {
+      "fact": "Alba 提议回家——Celia、Beck 和 Mama 正在 Celia 家焦急等着。Lucinda 说「我准备好了。Isadora？」然后一个「新的、熟悉的」声音接话：「我们回家吧。我也准备好了。」Lucinda 脸上掠过一种被逗乐的表情——或者那是 Isadora 的表情？Alba 脊背发凉：「不管怎样，她是我们的 Darling。」",
+      "quote": "“Let’s go home,” I offer. Celia, Beck and Mama are anxiously waiting for us at Celia’s house. “I’m ready,” Lucinda says. “Isadora?” “Let’s go home,” a new, familiar voice echoes. “I’m ready, too.” … She’s our Darling, no matter what.",
+      "line": 149,
+      "lines": "149-157",
+      "anchor": "“Let’s go home,” I offer."
+    }
+  ],
+  "turning_point_check": "本章转折点＝Lucinda 已让 Isadora 进驻并即将 merge、且结尾 Isadora 用同一个身体开口说话（第 124、157 行）——已进第 7、9 条（第 9 条即结尾「新的、熟悉的声音」）。另补一条隐性转折：Alba 自认「Lucinda 像妹妹，我却沉溺于自己的戏没看出她在滑走」（第 144 行），已并入第 8 条。"
+}

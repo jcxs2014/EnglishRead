@@ -1,0 +1,73 @@
+{
+  "chapter": "ch04",
+  "source": "text/ch04_in_spring_a_young_man_s_fancy_lightly_tu.txt",
+  "method": "只读 text/ 素读，未开 md；3132 词，取 13 条",
+  "facts": [
+    {
+      "fact": "抬头逐字：2023 年 4 月 15 日（周六），Alba 23 岁、Zach 22 岁、Clare 51 岁——注意 Alba 的 23 不是笔误：本章出席午餐的她是 2025 年 7 月回来的版本（见第 11 条）。",
+      "quote": "Saturday, April 15, 2023 (Alba is 23, Zach is 22, Clare is 51)",
+      "line": 18
+    },
+    {
+      "fact": "四月中旬芝加哥连续 80 度，反常：花瓣提前落、在路面堆成棕色烂堆；Alba 骂「Fuck off, Summer, I want Spring back」；两人在 Lincoln Avenue 走，牵着汗手。",
+      "quote": "“Fuck off, Summer, I want Spring back,” Alba says.",
+      "line": 23
+    },
+    {
+      "fact": "约在 Lincoln Square 的小广场（干涸喷泉、空bandstand、遍地人与狗）里的 Café Selmarie；领位直接对 Alba 说「你妈已经到了」。Clare 一见他们就把手机按掉。",
+      "quote": "The hostess tells Alba, “Your mom’s already here.”",
+      "line": 29
+    },
+    {
+      "fact": "Beck 没来：她周四就去了底特律，因为有人看见 Jasper、说他状况不好；她正在回程路上，人没找到；Gram 与 Gramps 都好。Zach 由此知道 Beck 是 Alba 的继母，且不知道 Jasper 是谁。",
+      "quote": "“Yeah, they’re fine, it’s got to do with Jasper,” Clare says.",
+      "line": 60
+    },
+    {
+      "fact": "「Easter Parade」双关：字面是 Gomez 第 50 选区办公室门前的复活节游行（戴怪帽的狗、拉小车的幼儿）；同时是一个行动代号——把一批白人至上主义者与某伊利诺伊州国会议员的关系捅给记者，上周末已交材料。Zach 听不出 Clare 问的是哪一个。",
+      "quote": "But Easter Parade is also the code name of an effort to expose a bunch of white supremacists’ links to an Illinois congressman.",
+      "line": 76
+    },
+    {
+      "fact": "Clare 讲她与 Henry 怎么认识：她六岁，在密歇根乡下父母屋后的草地里玩，一个裸体男人躲在深草里；她把自己的沙滩巾借他遮身，他说明自己是时间旅行者、来不了任何东西，要她把衣服备在草地里；此后他不断出现，直到她在「现在」第一次遇见他——她 20、他 28，他是 Newberry 图书馆的馆员，她去看一本书。所以「第一次见面」发生了两次。",
+      "quote": "In a low voice, Clare begins, “I met Henry when I was six years old.",
+      "line": 108
+    },
+    {
+      "fact": "Alba 的评语：如果一生是个巨大的因果闭环，就没有选择的自由——没有哪一刻是你或爸爸选中了对方，你们一直被锁在一个决定论的大圆圈里。Clare 反驳：我们本来也会选对方，我们是一天一天、一刻一刻选过来的。",
+      "quote": "“Fortunately, neither of us minded,” Clare says.",
+      "line": 128
+    },
+    {
+      "fact": "关于丧失，Alba 的说法是「loss just mutates」：你不可能再拥有失去的人，只能围着那块空洞把自己重建起来。Clare 补：有时会遇到一个人把你引开，你得不到原来的，但可以继续走下去。",
+      "quote": "“Not quite,” Alba says. “I think loss just mutates. You can’t have the person you lost, so you rebuild yourself around that emptiness.”",
+      "line": 147
+    },
+    {
+      "fact": "Clare 趁 Alba 去洗手间，递给他一张事先写好的纸条，上面是她的手机号：遇到「需要大量解释的紧急情况」就打。随后问他会写小说是不是等于会编可信的谎，引王尔德「In matters of grave importance, style, not sincerity is the vital thing」，并承认自己是个好说谎者，「练了很多年」。",
+      "quote": "She passes me a slip of paper, written out beforehand.",
+      "line": 199
+    },
+    {
+      "fact": "Clare 说自己从「见过成年 Alba」之后才真正安心：Alba 四岁那年在 Montrose Beach 跟 Charisse 和孩子们一起，一转身人没了——不是裸着时间旅行，是自己跑掉；顺着脚印找到她时，她正跟「年长的自己」在一起（Clare 说那至少有六十多岁），像见到 Henry 的复影。Alba 小时候还老念叨「水」，被 Alba 用眼神制止。",
+      "quote": "“Alba was four. We were at Montrose Beach with Charisse and the kids, and I turned around and she was gone",
+      "line": 181
+    },
+    {
+      "fact": "走出餐厅后 Zach 觉出不对，直接问：Alba 是不是正在时间旅行？她承认——「她」（本该在这里的那个 Alba）正在 1980 年代陪着父亲；她自己是从 2025 年 7 月来的，两人偶尔这样互相顶班，为了不让他被放鸽子、也不让母亲失望。",
+      "quote": "“She’s back in the 1980s, with my dad. I’m coming from July 2025.",
+      "line": 328
+    },
+    {
+      "fact": "两个名字的来历：Lucinda 是 Clare 的朋友 Celia Attley 的养女，Zach 在初遇那晚的派对楼上见过她睡在床上；Isadora 是 Beck 的女儿、Alba 的继姐妹，被称作「anti-darling」「我们全都怕她」——极度嫉妒 Alba，对 Caralora 有过吓人的执念；这两人每周六下午都在 Alba 家一起过。",
+      "quote": "“Lucinda is my mom’s friend Celia Attley’s daughter. Foster daughter.",
+      "line": 361
+    },
+    {
+      "fact": "Zach 现在的车是一辆毫不起眼的 2012 款银色 Jetta，每次看到都想起被烧掉的 Nash、觉得失落；两人开上 Lake Shore Drive、放下车窗把音量开大，Bowie 唱「Heroes」，他只想一直开下去、「just for one day」。",
+      "quote": "It’s a very ordinary, not-attention-attracting 2012 silver Jetta",
+      "line": 413
+    }
+  ],
+  "turning_point_note": "本章转折点是午餐末尾的揭穿——坐在对面吃饭的 Alba 是从 2025 年 7 月顶班来的，真正的 2023 年 Alba 正在 1980 年代陪父亲。已进第 11 条；另一处转折是 Clare 递号码＋「你善于编可信的谎吗」，把 Zach 正式拉进这个家的应急体系，已进第 9 条。"
+}

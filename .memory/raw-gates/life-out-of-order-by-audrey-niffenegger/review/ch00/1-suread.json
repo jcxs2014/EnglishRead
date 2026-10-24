@@ -1,0 +1,58 @@
+{
+  "chapter": "ch00",
+  "source": "text/ch00_life_out_of_order.txt",
+  "method": "只读 text/ 素读，未开 md",
+  "facts": [
+    {
+      "fact": "叙述者自报身份：Alba DeTamble，生来就是时间旅行者；普通人只向前慢慢走，她的身体把这件事弄成一团乱。",
+      "quote": "My name is Alba DeTamble and I was born a time traveler.",
+      "line": 16
+    },
+    {
+      "fact": "时间旅行的机制与代价：抓住当下的手一松就到了另一时另一地，赤身、迷失方向、毫无准备；带不走任何东西——没钱、没衣服，只有记忆。",
+      "quote": "We can’t carry anything with us, no money, no clothing, only our memories.",
+      "line": 21
+    },
+    {
+      "fact": "父亲在她五岁时死了，是时间旅行害死他的；而时间旅行又不断把他扔回她的生活里。她从不告诉他将来会发生什么。",
+      "quote": "He died when I was five. Time travel killed him and time travel keeps throwing him back into my life.",
+      "line": 21
+    },
+    {
+      "fact": "铁律：什么都改不了——只能做已经做过的事，只能顺着已经发生、将要发生的事走；但可以影响别人、可以受伤或死。",
+      "quote": "We can’t change anything. Time works around us; we can only do what we have done, we can only go along with what has happened, what will happen.",
+      "line": 21
+    },
+    {
+      "fact": "父母互相打听对方消息，她只挑能安全说的：爸爸和我在商场停车场吃冰淇淋、妈妈头发有了一点灰、他教我偷东西、她刚在大博物馆办了回顾展。",
+      "quote": "Dad and I ate ice cream in a shopping mall parking lot; Mama’s hair is streaked with a little gray now; he taught me how to shoplift; she just had a retrospective at a big museum.",
+      "line": 26
+    },
+    {
+      "fact": "她不说出口的那一半：他两只脚都冻掉了；你死后她万念俱灰几乎不出门；爸爸担心你；妈妈在跟别人约会但为此内疚。",
+      "quote": "he lost both his feet to frostbite; she is desolate since you died and almost never leaves the house; Dad is worried about you; Mama is dating someone new but she feels guilty about it",
+      "line": 26
+    },
+    {
+      "fact": "音乐是解药：小时候就被交给小提琴，早于她能理解或选择；音乐规训她跑偏的心智，给她待在当下的自由。",
+      "quote": "Music is my antidote to this chaos.",
+      "line": 37
+    },
+    {
+      "fact": "她同时有两个丈夫：Zach 在院子里给长苔的草刈草；另一个早晨醒来身边是 Oliver——夜里到的、有点陌生、来自某个尚未指定的时间。",
+      "quote": "I might look at Zach out in the backyard, mowing our mossy grass",
+      "line": 42
+    },
+    {
+      "fact": "两个丈夫的并列在结尾复述：若她是正常女孩，会按正常顺序上学、工作、结婚、生子，也许只有一个丈夫或没有，「而不是同时两个」。",
+      "quote": "instead of two at once",
+      "line": 46
+    },
+    {
+      "fact": "她回头看，后悔所有的谎；她尽量不伤人，但主要是尽量不惊慌。",
+      "quote": "I look back and regret all the lies. I try not to hurt people. But mostly, I just try not to panic.",
+      "line": 46
+    }
+  ],
+  "turning_point_note": "本章无情节推进式转折，唯一的「钩子」是结尾的「同时两个丈夫」——Zach 与 Oliver 并列；这条已进素读（第 7、8 条），无需另补。"
+}

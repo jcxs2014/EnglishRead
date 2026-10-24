@@ -1,0 +1,78 @@
+{
+  "chapter": "ch03",
+  "source": "text/ch03_fallout.txt",
+  "method": "只读 text/ 素读，未开 md；8934 词，取 13 条",
+  "facts": [
+    {
+      "fact": "两个抬头逐字：①2022 年 12 月 31 日（周六）与 2023 年 1 月 1 日（周日），Alba 21 岁与 21 岁，Zach 22 岁；②末尾另起 2029 年 7 月 28 日（周六），Alba 27 岁、Zach 28 岁。",
+      "quote": "Saturday, December 31, 2022, and Sunday, January 1, 2023 (Alba is 21 and 21, Zach is 22)",
+      "line": 18
+    },
+    {
+      "fact": "Zach 的朋友的朋友租下 Green Mill 办私人跨年派对，主题「The Beautiful and Damned」（要迎的是 1923 年不是 2023 年）；Alba 怕跨年，因为那是父亲忌日，但不愿让 Zach 失望；她借了 Mama 的珠片裙；Mama 与 Beck 去底特律看 Beck 的父母。",
+      "quote": "New Year’s Eve because that’s the anniversary of my dad’s death. But I didn’t want to disappoint Zach, so: we are going to this party.",
+      "line": 24
+    },
+    {
+      "fact": "进门暗号是「jellyfish paradox」；Green Mill 是旧私酒馆，有连通邻街地下室的隧道（当年运煤、开赌局、藏酒），Al Capone 一伙据传就在那间卡座。",
+      "quote": "Zach gives the password, jellyfish paradox, and we’re in.",
+      "line": 34
+    },
+    {
+      "fact": "Caralora 来报信：Zach 的车太扎眼、被人注意到了，外面有「Junior 的朋友」在等他们；她按「未来 Alba 的指示」来救场，办法是拉响火警，让全场疏散，再从吧台后的活板门下隧道。",
+      "quote": "It was noticed, and there are some guys waiting for you out there.",
+      "line": 101
+    },
+    {
+      "fact": "三人在隧道里脱到只剩内衣（怕弄坏借来的衣服），钻过墙洞进入废弃的 Uptown Theater（1981 年关闭）；来接应的是「另一个 Alba」——她赤身趴在铺帆布的地板上，只带了一架梯子，因为地板朽了不敢站。Zach 说「这是我本周第三次把大衣给你」。",
+      "quote": "“That’s the third time this week I’ve given you my coat,” Zach says.",
+      "line": 268
+    },
+    {
+      "fact": "午夜在 Uptown 大堂：烟花与教堂钟声里两人接吻；Zach 问她在想什么，她说「我爸爸」；Zach 说「You make me want the future」。",
+      "quote": "“I was feeling discouraged about my life, about the state of the world,” Zach says. “You make me want the future.”",
+      "line": 330
+    },
+    {
+      "fact": "从侧门逃出时楼里有人喊，另一个 Alba 退回门内、在门关上之前就消失了；三人跑两个街区到 Caralora 车上（她父母的车，一辆 Leaf），绕开停在 Lawrence 的 Nash 直接回 Alba 家。",
+      "quote": "She steps back inside, but I see her vanish before the door closes.",
+      "line": 375
+    },
+    {
+      "fact": "家里喝茶（用 Beck 收藏的日本铁壶 tetsubin）吃李子蛋糕；Zach 注意到地下室那道钢制安全门与许多道锁，Alba 谎称里面是 Beck 的电脑设备、是「家里的秘密」。",
+      "quote": "“It’s kind of a family secret.",
+      "line": 471
+    },
+    {
+      "fact": "Zach 交代自己为什么改名消失：与家人断联几年、父母不断来找，他干脆放弃身份、退学、去端盘子——「我不是逃犯」；又说 Alba 的年长版把两人的关系说得像一栋「预制房」，抬脚就能住进去。",
+      "quote": "“It’s not what you’re worrying about—I’m not a fugitive.",
+      "line": 519
+    },
+    {
+      "fact": "Alba 的宿命论：她不信命运，但相信「一切都已经发生过」「未来是既成事实」；被问未来什么样，她说「未来很湿，有风暴」，但那是很久以后。",
+      "quote": "As far as I can tell, the future is a done deal.",
+      "line": 573
+    },
+    {
+      "fact": "次日早晨（Zach 声部）：他戒烟第五天、咳嗽；Alba 赤身从梳妆台下抽出琴盒，为他拉自己写的曲子；她说自己有演出恐惧、严重时紧张到会时间旅行——「裸体只是我的壳，演奏才是我的灵魂」。",
+      "quote": "The nakedness is just my shell. The playing, that’s my soul, there.",
+      "line": 710
+    },
+    {
+      "fact": "Alba 去放洗澡水，久久不出——Zach 推门只见水漫出来，人不见了。中午 Caralora 开一辆租来的灰色 SUV 来接他；到 Lawrence 一看，Nash 已被烧成灰白空壳：「They’ve torched it.」",
+      "quote": "They’ve torched it.",
+      "line": 844
+    },
+    {
+      "fact": "车上 Caralora 交底：是她甩了 Alba（受不了当她的支撑系统）；一个「老得多的 Alba」曾告诉她「你会重新开始」、还叫出她从未告诉别人的真名；也是那个 Alba 让他们来联手抓 Junior（她叫他 Bartleby）；Junior 一伙已知杀了七个人。",
+      "quote": "Junior and his friends killed seven people that I know about",
+      "line": 1042
+    },
+    {
+      "fact": "2029 年 7 月 28 日收尾：Alba 从这一夜回到自己床上，Zach 在洗澡；他问她「每次出行回来会不会想有多少意外后果」，她答「我总觉得自己把一切搞砸了」，他只说「没什么可怕的」，引「这是所有可能世界里最好的一种」。",
+      "quote": "“‘It’s all for the best in the best of all possible worlds.’”",
+      "line": 1101
+    }
+  ],
+  "turning_point_note": "本章转折点是「Nash 被烧」——Zach 由此真正变成无家可归、被绑进这场斗争（他此前一直半信半疑）。已进第 12 条；另「另一个 Alba 亲自接应、又一次当面消失」是第二转折，进第 5、7 条。"
+}

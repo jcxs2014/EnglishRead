@@ -1,0 +1,57 @@
+{
+  "chapter": "ch55",
+  "source": "text/ch55_lucky_day.txt",
+  "method": "只读 text/ 素读，未开 md；1981-05-14 婚礼当天；Alba 27 岁、Oliver 26 岁；Oliver 与 Alba 双第一人称交替（Oliver: / Alba: 段标）",
+  "facts": [
+    {
+      "fact": "抬头：1981 年 5 月 14 日星期四（Alba 27 岁，Oliver 26 岁）。Oliver 视角：清晨他落在黄房子的后花园，脚在草上露水里留下深色脚印——这是他最喜欢的一种「到家」：很早、很暖、鸟叫得厉害。他从后门轻轻进屋，厨房里有 Alba 在的痕迹（水槽边叠着的碗、桌上单独一只酒杯），他喝了几口自来水，上楼小心推开卧室门；Alba 蜷在床中间睡着，脸埋进枕头，黑长发散开，露出赤裸的肩膀。他钻进被子，她没完全醒就睁开眼；他抚她的手臂，她翻成仰卧，两人躺着，太阳越过别人家的屋顶、从铁轨底下斜进房间落到床上。",
+      "quote": "Oliver: I arrive in the back garden of the Yellow House early in the morning. My feet leave dark prints in the dew on the grass.",
+      "line": 23,
+      "lines": "18, 23-28",
+      "anchor": "Oliver: I arrive in the back garden of the Yellow House"
+    },
+    {
+      "fact": "Alba 说「我知道你今天会来」，因为「我们今天要结婚，Oliver」。Oliver 虽然知道自己已婚/将要已婚，却从没想过这要怎么实现，开始发慌：不需要证件吗？仪式呢？今天日子吉利吗？你确定是今天？Alba 说她也说不准，但从没听他说过什么仪式；「我们的结婚许可证用磁铁吸在冰箱门上，你没注意到吗？」她低声说「我有指示。一张清单。在你自己的笔迹里。」Oliver 手出汗：「告诉我该做什么，我尽力。」",
+      "quote": "“We’re getting married today, Oliver.” … “You’ve never mentioned any rituals. But our marriage license is stuck on the front of the fridge with a magnet, didn’t you notice?”",
+      "line": 37,
+      "lines": "29-59",
+      "anchor": "“I knew you would be here today,” Alba says."
+    },
+    {
+      "fact": "该穿什么：他的西装都是黑、灰、茶这类沉色，夏季那套是白麻——在婚礼上穿白或黑（丧色）不吉利。他走到自己房间，看见床上摆着一套红色西装，西部式样，但是红的；他笑出声。他告诉 Alba 红在中国是新郎新娘的颜色，「意味着好运、兴旺」。Alba 衣柜里也挂着一条红色连衣裙，正是那个色号。两人惊叹「未来的自己」像 xiǎo jīnglíng（小精灵）一样替他们备好了一切。",
+      "quote": "I show her the suit and explain about red, the color for brides and grooms in China. “It means good luck, prosperity,” I tell her. … We marvel at our future selves who have provided for us like xiǎo jīnglíng, anticipating all our needs.",
+      "line": 63,
+      "lines": "63-63",
+      "anchor": "I wonder what I should wear. I have suits here"
+    },
+    {
+      "fact": "上午喝完咖啡、洗澡、刮脸、穿衣、反复翻看指示之后，两人坐高架列车进城。Alba 穿红裙很好看：不是旗袍，但红得正，近乎及地，配金色鞋子；她把头发盘起，涂了口红和眼影——Oliver 从没见过她化妆。两人穿得「非常气派」，车上其他乘客对他们微笑。",
+      "quote": "Alba looks very fine in her red dress. It’s not a qipao, but it is the correct shade of red, nearly floor-length, and she has gold shoes!",
+      "line": 69,
+      "lines": "69-69",
+      "anchor": "Later in the morning, after we’ve had our coffee"
+    },
+    {
+      "fact": "市政厅婚姻法庭：排队、填表、缴费。这里人不多，其他几对都很年轻，有的还是少年；一对带着小女孩，小到她不会记得看过父母结婚的那个早晨。两人坐在长椅上牵手。Alba 拿着表格，Oliver 偷看，问「今天几号」；看到 1981 年 5 月 14 日，他说「哦」，很失望——「五月是最糟的结婚月份。带四的日子也不好。我们本该挑个更吉利的日子。」Alba 忍不住笑，叫他别担心。",
+      "quote": "“May is a terrible month to be married,” I tell her. “And dates with the number four are no good. We should have made sure this was a more auspicious day.”",
+      "line": 92,
+      "lines": "74-97",
+      "anchor": "In the Marriage Court at City Hall we wait in line"
+    },
+    {
+      "fact": "书记员叫名，两人走进法官办公室。法官是个小个子女人，而且是中国人——Oliver 觉得这很幸运。她用普通话问他「你们的家人呢」，他答「我们离家很远，很遗憾双方父母都没法来」；Alba 听不懂，等他们谈距离和移民。他心里算了一下：Alba 的母亲现在九岁，她父亲十七岁；他自己的父母还没出生。法官用英语让他们面对面牵手，跟着念誓词，郑重声明不知道有任何合法的婚姻障碍（Alba 事先警告过他会被问这句，好像怕他说出什么）；他娶她为合法妻子，她嫁他为合法丈夫，交换戒指，法官宣布他们成为夫妻。他们短暂但热烈地接吻。「我们结婚了！」",
+      "quote": "I do a little mental math: Alba’s mother is nine years old and her father is seventeen. My parents aren’t born yet.",
+      "line": 110,
+      "lines": "101-111",
+      "anchor": "“Where are your families?” the judge wants to know."
+    },
+    {
+      "fact": "Alba 视角，婚礼当晚：两人在黄房子的床上，喝香槟喝醉、吃得太撑（他们去唐人街办婚宴，Oliver 点菜，她常不知道自己在吃什么，老板不断加菜，陌生人不断来敬酒，那是她吃过最愉快的一顿）。Oliver 问他们现在算不算罪犯：「你没做错任何事，」她答，「我才是坏的那个。」他说「可我们真的结婚了吗？」她说这是先有鸡还是先有蛋的问题：按时间顺序他们的婚姻在先，但她嫁 Zach 时更年轻，而且她现在仍与 Zach 是夫妻；说起来她和 Zach 办结婚证时就有麻烦，他们要她证明年龄，「现在我知道为什么了」。Oliver 困得声音发黏地问「我是鸡，还是蛋？」她说「都是」。他没回答，只吻了她。「于是，我们结婚了。」",
+      "quote": "“It’s a chicken/egg problem. Our marriage comes first, chronologically, but I was younger when I married Zach, and I am still married to him.”",
+      "line": 130,
+      "lines": "117-139",
+      "anchor": "Alba: The evening of our wedding, Oliver and I are in bed"
+    }
+  ],
+  "turning_point_note": "本章的转折点就是婚礼本身（第 6 条，`:101-111`），已进单；但真正会被漏掉的是**「重婚」的自觉**（第 7 条，`:130`）：Alba 明说「按时间顺序我们的婚姻在先，但我嫁 Zach 时更年轻，而且我现在仍与 Zach 是夫妻」——这句是全章唯一的伦理矛盾点，比仪式细节重要。另有一处低风险但易写错的编号事实：Alba 母亲此时 9 岁、父亲 17 岁，Oliver 父母尚未出生（`:110`），数字必须逐字。"
+}

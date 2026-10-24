@@ -1,0 +1,118 @@
+{
+  "chapter": "ch71",
+  "source": "text/ch71_the_vanished_world.txt",
+  "method": "只读 text/ 素读，未开 md。抬头：Friday, June 13, 2098 (Oliver should be 69, but has spent so much time in the past that he is actually 91)。全章单段署名 Oliver（:23），中段插入第二日期 2086-07-14（:71/:76），末段回到 2098（:535），:540 为 ***** 结束符。",
+  "facts": [
+    {
+      "fact": "抬头：2098 年 6 月 13 日星期五；Oliver 按年岁该是 69 岁，但他在过去待得太久，实际已 91 岁。叙述者为 Oliver（第一人称），全章只此一段署名。",
+      "quote": "Friday, June 13, 2098 (Oliver should be 69, but has spent so much time in the past that he is actually 91)",
+      "line": 18,
+      "lines": "18",
+      "chars": [
+        45,
+        151
+      ],
+      "anchor": "Friday, June 13, 2098 (Oliver should be "
+    },
+    {
+      "fact": "开场是一个鲜明的梦：他变小了，回到上海那间旧卧室的窄床上，母亲在隔壁房间唱歌——《两只老虎》（中英对照八行）。醒来枕上有小而圆的湿点，他分不清那是记忆还是梦。伦敦很静，几乎所有人都不在了：Alba、Zach、Madeline，大多数人类；他已很久没和另一个人说话。雾绕着他的楼，水拍着楼梯，手指因潮湿而痛，肚子叫，他已经想不起上次吃东西是什么时候；柜里全是罐头，多数没了标签，挑到什么算什么——这次是焗豆，「世界末日不要求我赶时间」。",
+      "quote": "It’s so quiet here in my room. London is quiet. Almost everyone else is gone: Alba, Zach, Madeline, most of the human race.",
+      "line": 64,
+      "lines": "23-64",
+      "chars": [
+        523,
+        1492
+      ],
+      "anchor": "It’s so quiet here in my room. London is"
+    },
+    {
+      "fact": "57 岁的 Oliver 在 2086 年 7 月 14 日一个炎热的早晨洗海绵浴，忽然光着身子、没有海绵地出现在自家楼道的楼梯平台上；黑水在脚下一两厘米处拍打。他上楼进门，发现公寓在他「短暂」离开期间已被毁掉：水槽里脏碗、到处塑料桶、柜门消失、罐头堆成一团、台面上长着苔藓和植物、烤箱被拆开。",
+      "quote": "Oliver: I am taking a sponge bath in my kitchen on a hot July morning when I abruptly find myself naked but without my sponge in the stairwell of my building, on the first landing.",
+      "line": 76,
+      "lines": "76-78",
+      "chars": [
+        1586,
+        2607
+      ],
+      "anchor": "Oliver: I am taking a sponge bath in my "
+    },
+    {
+      "fact": "他在沙发上找到年老的自己：蜷着看一本旧平装书、半罐焗豆，穿得整齐甚至利落，见他不吃惊。问日期，答「今天是 2098 年 6 月 13 日」，并说「你来了，我早就准备好了」——「今天就是那一天，我们需要一条船」；不是方舟，「只要一条小划艇，就在 Starbucks 后面拴着」。老自己不出门（除了黄房子），靠蜡烛和锅蒸馏雨水喝，从不喝伦敦管子里来的水。",
+      "quote": "“I am,” he says. “Today is the day. We will need a boat.”",
+      "line": 120,
+      "lines": "83-170",
+      "chars": [
+        4544,
+        6094
+      ],
+      "anchor": "“I am,” he says. “Today is the day. We w"
+    },
+    {
+      "fact": "Oliver 赤身下水，水齐肩、温暖，油膜在水面卷成虹彩佩斯利花纹；街面尽毁，店铺全淹，慈善店（他买乐谱的地方）成了一团绿苔与菌，「玩具店的大象招牌不见了」。他在 Starbucks 后楼梯平台上找到盖着黑帆布、被绑在栏杆上的铝制划艇（三人座，无马达、无救生衣），绳子一碰就碎，他把船拖进水里划回楼下。",
+      "quote": "The charity shop where I buy sheet music is as dark as the rest. I come close enough to see that the interior is an unrecognizable mound of greenish moss and fungi, beautiful in a weird way but heart-wrenching. The elephant sign is gone from the toy shop.",
+      "line": 209,
+      "lines": "200-220",
+      "chars": [
+        7887,
+        9647
+      ],
+      "anchor": "The charity shop where I buy sheet music"
+    },
+    {
+      "fact": "出发：老自己给他一个旅行袋——干净衣物、三瓶啤酒、开瓶器、一支抗生素药膏；「三瓶」是因为「我们要顺路去接 Alba」。他收拾水、伞、毯子、枕头、绳子，扶老自己下楼上船。划到 England's Lane 与 Haverstock Hill 路口，享受变成惊愕：水线上五十米处是废墟、枯树、Interstitial 塔、车壳和漂在藻华里的垃圾桶；向南全是水——伦敦城消失了。老自己解释：冰化了，饥荒、瘟疫、战争，St Paul's 与 Shard 等被炸弹一座座摧毁；他越老越少待在现在，「我是这消失的世界的见证人」。",
+      "quote": "“I don’t go out, except to the Yellow House, of course. The older I got, the less time I spent in the present. When things were too horrible I tended to disappear, and the more I yearned for Alba the more I found myself with her—and Zach, too. I was lucky, but then again not so lucky because here I am, witness to the vanished world.”",
+      "line": 299,
+      "lines": "241-299",
+      "chars": [
+        13421,
+        13756
+      ],
+      "anchor": "“I don’t go out, except to the Yellow Ho"
+    },
+    {
+      "fact": "水上遇见 Alba：她在深水里游来、长发像水草缠在臂上，抓船舷要上船被老自己喝止（会翻船），改到水浅处上船；她在水里洗净、盘起头发，换上曾是 Madeline 的紫色长棉裙，坐进船头。她问「这是哪儿？还有什么时候？」，得知是 2098 年 6 月 13 日的伦敦后说「你不知道我试了多少次才到这里」。",
+      "quote": "When Alba has washed herself and pinned up her hair, she puts on a long violet cotton dress that was once Madeline’s.",
+      "line": 330,
+      "lines": "325-345",
+      "chars": [
+        15472,
+        16691
+      ],
+      "anchor": "When Alba has washed herself and pinned "
+    },
+    {
+      "fact": "Union Chapel（Islington）：教堂大体完好，玫瑰窗奇迹般完整，天使仍在为早已不在的会众无声演奏；地板有烧灼痕迹与涂鸦，但没有垃圾也没有积水——有人维持着秩序。舞台后门开处，一个女人走进来：是 Lucinda——或者说 Isadora。她看上去四十多岁，实则该近九十；灰白发盘起、穿白色长裙、神情欣喜。她说「我现在只是 Isadora。Lucinda 走了。她准备好了，我让她走的。」她自称 Wild Thing，说如今鹦鹉很多、还有她叫不出名字的新动物；管风琴的金属管被人偷走，她特地留了一架 Steinway Model B。",
+      "quote": "“Alba, I’m so glad you’ve come. I’m just Isadora now. Lucinda is gone. She was ready, and I let her go.”",
+      "line": 422,
+      "lines": "413-457",
+      "chars": [
+        19886,
+        21303
+      ],
+      "anchor": "“Alba, I’m so glad you’ve come. I’m just"
+    },
+    {
+      "fact": "演奏与告别：Oliver 弹 Alba 为从未谋面的 Madeline 写的安魂曲（从无调性的哀伤走向 A 小调的安宁），弹完三人都在哭；他们又弹了几个小时 Alba 的曲子。Isadora 说「你以为这是终点，但世界在愈合；等世界重新开始，我不会孤独，会有音乐和爱」，要他有空再来弹。回到船边，老自己对 Alba 说「Goodbye, my dear」——他们从不告别——Alba 拥抱他，随后喊一声「Oliver!」就消失了。老自己不肯回公寓：「我不想在那可怕的公寓里死」，要划过伦敦出海；夜里有星星，他带着水和一包留了很久的巧克力消化饼干，说这将是一场冒险。",
+      "quote": "“No,” my self says, “don’t take me back to the flat. Let’s go right over London and out to sea.”",
+      "line": 505,
+      "lines": "471-513",
+      "chars": [
+        23711,
+        24107
+      ],
+      "anchor": "“No,” my self says, “don’t take me back "
+    },
+    {
+      "fact": "收尾：Oliver 向南划了几个小时，两人回忆漂浮其上的地方、死去的老友，以及他确信还会再见的人（Zach、Madeline、Clare、Beck）。他问「你还会再来一次吗」，老自己答「当然。会。嗯，大部分吧」。船漂着，老自己望着巨大的天空、双手交叠在膝上休息，用中文说「晚安」，Oliver 回「身体保重」「一路顺风」，他归于沉默。转眼 Oliver 回到自己的厨房，几乎没过去时间；太阳很高、天很暖，他却爬上床把被单蒙住脸。末句：在未来，他独自漂在夏夜星空下、漂过沉没的伦敦，等着重新开始。",
+      "quote": "My self says, “Wǎn'ān,” and yawns. Good night. He lapses back into silence. “Shēntǐ bǎozhòng,” I tell him. Take care. “Yī lù shùn fēng.” Safe travels.",
+      "line": 531,
+      "lines": "518-535",
+      "chars": [
+        24667,
+        25376
+      ],
+      "anchor": "My self says, “Wǎn'ān,” and yawns. Good "
+    }
+  ],
+  "turnpoint": "老自己拒绝回公寓、要求在海上度过最后一夜（:505-513）——把「死去」写成一次划船出游；而 Isadora 的「世界在愈合」把末日翻成开端，两者构成章题 The Vanished World 的双面。"
+}

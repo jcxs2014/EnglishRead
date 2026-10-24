@@ -1,0 +1,64 @@
+{
+  "chapter": "ch34",
+  "title": "Lost Love Last Laugh",
+  "source": "text/ch34_lost_love_last_laugh.txt (323 lines)",
+  "method": "R1 素读：仅读 text/ch34_lost_love_last_laugh.txt，未打开 ch34 md。日期/年龄/人名/数字逐字抄自原文行。",
+  "facts": [
+    {
+      "fact": "2013 年 12 月 6 日（Clare 42、Beck 37、Alba 12）下午四点，Clare 与 Beck 在昏暗的餐厅里研究 Beck 即将离婚的丈夫 Jasper 的律师来信一小时，Alba 进来开灯；Beck 说「He wants everything. Alimony」，Clare 解释赡养费是 Jasper 的律师主张他精神有病、无法工作，Beck 反驳他有那些专利、钱比她多，真正争的是博物馆、专利与 IP。",
+      "quote": "“He wants everything,” Beck says to Alba. “Alimony. Who gets alimony in this day and age? We don’t even have children. These lawyers are wolverines.” / “Money you pay someone you used to be married to because they can’t support themselves,” I tell her. “Jasper’s lawyers are asking for it because they say he’s mentally ill and not able to work.”",
+      "line": 33
+    },
+    {
+      "fact": "Alba 端来两杯金汤力与一杯橙汁；她在厨房里问「你把服务器搬过来了吗，像年长的我说的那样？」Beck 说地下室比工作室小，还有几排留在 Pilsen 的工作室；Alba 由此推断「It’s too late now」——年长的她既然特意提醒搬走，说明留在工作室的服务器一定会出事。",
+      "quote": "Alba gives us her isn’t it obvious expression. “If older Alba told you to move your servers here, then something is going to happen to the servers at the studio. Nothing has happened yet, but if you had moved all the servers, I don’t see why Alba would bother to mention it to you. So—”",
+      "line": 94
+    },
+    {
+      "fact": "Beck 立刻开车赶往 Pilsen，三人堵在 I-90 周五晚高峰，停车停在三街区外；到楼下时隔壁的平面设计师正出门，说她们「just missed them」——锁匠，十五分钟前走的，一辆白色卡车。",
+      "quote": "“Hey, Beck,” he says. “You just missed them.” / “Missed who?” Beck says. … “The locksmiths. They left about fifteen minutes ago.” / “No—it was a white truck.”",
+      "line": 132
+    },
+    {
+      "fact": "门锁全被换过，Beck 的密码一律失效；她打 911，警察反复要她证明自己真是租客——她所有证件都显示她住在那栋房子里、也没有名片，钥匙也没用；最后靠邮箱里一份近期的 grant application 才被采信。真锁匠钻孔开锁，门开时没有任何警报响。",
+      "quote": "All her ID shows her living at our house, and she doesn’t have business cards. She shows them her keys to no avail. … Finally she finds a recent grant application in her emails and the police concede that she’s not lying. … The locksmith finishes the last lock and swings the door open. No alarms sound.",
+      "line": 152
+    },
+    {
+      "fact": "屋内服务器被拖到房间中央堆成一堆、乱丢一气；Isadora 的蒸汽朋克脑袋倒在堆顶，碎了、在融化；服务器背面螺丝被卸开，彩色线缆乱喷，堆上冒气，气味甜而刺鼻像烧焦塑料；Clare 问「Did someone pour acid on those servers?」，警察疏散大楼，穿防护服的人把毁掉的服务器搬走。",
+      "quote": "Racks of servers have been pulled into the middle of the room and dumped, helter-skelter. Isadora’s steampunk head rests on top of the pile, broken and melting. There’s a weird, sweet, acrid smell, like burnt plastic. … “Beck,” I say. “Did someone pour acid on those servers?”",
+      "line": 157
+    },
+    {
+      "fact": "几小时后回家，桌上三杯没喝的酒冰早化了；Alba 重做酒，三人下到地下室确认那批服务器与设备还在——在；Beck 开始跑诊断，怕有人动过 Isadora 或博物馆。Alba 说「I wasn’t told」，又说「But maybe Isadora knows?」，Beck 打开博物馆：当天场景是美国自然历史博物馆的海洋生物馆，蓝鲸悬在头顶。",
+      "quote": "Alba shakes her head. “I wasn’t told,” she says, meekly. “But maybe Isadora knows?” / … Today we’re standing in the American Museum of Natural History’s Hall of Ocean Life. The magnificent blue whale hovers above us",
+      "line": 180
+    },
+    {
+      "fact": "Isadora 在博物馆里以一只胸前有白星的小黑猫出现；她说 Beck 这几小时一直在跑诊断、明明可以直接问她却不问，可见是担心她已被腐蚀；她否认被腐蚀，又自嘲「But of course I would say that, wouldn’t I?」。Clare 觉得她进步惊人：上次听她说话还像个失常的孩子，现在像早熟的少女，声音比从前少像 Beck。",
+      "quote": "“No. But of course I would say that, wouldn’t I?” / … Now she’s a precocious teenager, and her voice is less like Beck’s than it used to be, cooler, with more uptalk.",
+      "line": 216
+    },
+    {
+      "fact": "Isadora 拒绝说出是谁干的：「I’m not allowed to say right now.」；在 Beck 童年底特律后院的场景里，她说「It is partitioned. I know it, but I can’t say it.」；Beck 问「Who has been giving you commands besides me?」她答「I am not permitted to say.」；被追问还能不能信任，她低头说「I love you, Beck. I always serve you, no one else.」",
+      "quote": "“Why didn’t you tell me this would happen?” / “It is partitioned. I know it, but I can’t say it.” / Beck is dumbfounded. “Who has been giving you commands besides me?” / “I am not permitted to say.”",
+      "line": 267
+    },
+    {
+      "fact": "Clare 半夜五点半醒来，Beck 一夜没上床、睡在椅子上做梦；Clare 由她睡，回床想着 Isadora 对这场毁坏毫不惊讶，自己的头发上有烧塑料味，梦见一只黑猫被愤怒的乌鸦追过冬天的旷野。",
+      "quote": "When I wake up at five thirty, she hasn’t been to bed. … I get back into bed and lie there thinking about Isadora and her lack of surprise at the destruction. My hair smells like burning plastic.",
+      "line": 295
+    },
+    {
+      "fact": "次日（2013-12-07）Beck 在上午去工作室：天冷路滑，她决心把事情办完，打到第五家搬家公司才有人当天出车，正午在工作室碰头；她仍闻得到一丝酸味；留下的东西都「ostentatiously undisturbed」，像服务器被提上了天，只剩 VR 设备、笔记本、Clare 的一副手套、没用的监控摄像头和被钻开的锁作证；她拆了 VR 设备，Isadora 原来那个模特架留在原地。",
+      "quote": "Everything that’s still here is ostentatiously undisturbed, as though the servers have been Raptured, leaving the VR rig, notebooks, a pair of Clare’s gloves, the useless security cameras and the drilled-out locks to bear witness to their absence.",
+      "line": 314
+    },
+    {
+      "fact": "正要上车时，她看见街角站着一小群男人全都在看她：六个白人，有胡子、戴墨镜，穿羽绒服、针织帽、运动鞋，两个高瘦、一个胖；她钻进车里跟着搬家货车走，后视镜里那些人一直看着她，直到她拐弯；没人跟来，但她很久之后仍觉得那些目光在。",
+      "quote": "They’re only half a block away, white men with beards, sunglasses; there are six of them, all wearing down jackets, knit caps, athletic shoes, two of them tall and thin, one heavy; in other words, there’s nothing interesting about them other than their stares.",
+      "line": 318
+    }
+  ],
+  "turning_point_note": "本章的转折点进了：一是 Isadora 说「It is partitioned. I know it, but I can’t say it.」——她知道却不能说，且承认 Beck 之外还有人给她下命令（第 8 条）；二是末尾六个男人盯着 Beck（第 11 条）。两条都在，且第 8 条被单独成块。"
+}

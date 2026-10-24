@@ -1,0 +1,53 @@
+{
+  "chapter": "ch30",
+  "source": "text/ch30_chance_encounter.txt",
+  "method": "只读 text/ 素读，未开 md",
+  "facts": [
+    {
+      "fact": "抬头日期与双人年龄：2010 年 8 月 2 日周一，Clare 39 岁，Oliver 59 岁。",
+      "quote": "Monday, August 2, 2010 (Clare is 39, Oliver is 59)",
+      "line": 18
+    },
+    {
+      "fact": "Richard 与 Kimy 带 Alba、Nadia 去海边，Clare 得一整天独处；她本要去工作室干活，先得去杂货店，到了店里又决定给黄房子买些补给。",
+      "quote": "Richard and Kimy have taken Alba and Nadia to the beach, so I have the day to myself.",
+      "line": 23
+    },
+    {
+      "fact": "她看见客厅里有人弹琴、窗子大开、音乐流进花园；她绕到后门悄悄进厨房，一个高个白发中国男人走进来，惊讶地叫出她的名字。",
+      "quote": "A tall, white-haired Chinese man steps into the kitchen. “Clare,” he says, evidently very surprised. “I wasn’t expecting you.”",
+      "line": 37
+    },
+    {
+      "fact": "陌生人的身份线索是衣服：他穿楼上衣柜里的亚麻裤和 Henry 的一件旧 CBGB  T 恤——那件「十几岁的 Alba 喜欢穿着睡觉」；手上戴的是平常放在楼上卧室梳妆台上的婚戒。",
+      "quote": "he’s wearing linen trousers from the closet upstairs and one of Henry’s old CBGB’s T-shirts that teenage Alba likes to sleep in",
+      "line": 41
+    },
+    {
+      "fact": "时间旅行者互认年份：她问「你从哪一年来」，他答 2088；他说 2010 年他父母尚未相遇；他又问 Alba 现在多大，她答「八岁」。",
+      "quote": "“2010. What year are you coming from?” “2088.”",
+      "line": 89
+    },
+    {
+      "fact": "父母相遇的经过：2019 年香港机场抗议，他父亲当时是商人、正回上海、被滞留；母亲躲在男厕隔间、站在马桶上、浑身是血（是别人的血）；父亲帮她清洗、买干净衣服、用飞行里程换机票、贿赂移民官把她弄出去；半年后两人都换了新身份并结婚。这故事是叔叔在父母死后很久才告诉他的。",
+      "quote": "In 2019, during a protest at the airport in Hong Kong.",
+      "line": 109
+    },
+    {
+      "fact": "他自述与 Alba 的先后：他从没见过童年的 Alba——「她第一次见我时二十四岁，我见她时十六岁」；很长一段时间两人只是音乐上的合作者，当然也是同住的室友。",
+      "quote": "She was twenty-four when she first met me, and I was sixteen when I met her.",
+      "line": 127
+    },
+    {
+      "fact": "他自称 Oliver（本名不是这个，现在是了），请 Clare 别把这次见面告诉 Alba；他提的请求是要她促成 Beck 教 Nadia Kendrick 编程，理由极重：Nadia 能不能学到编程「取决于 Beck 是不是那个人」，他说有人的命系于此，由 Clare 开口比由 Alba 转达更自然。",
+      "quote": "It’s extremely important that Beck teaches Nadia to code.",
+      "line": 197
+    },
+    {
+      "fact": "他告辞：请她把乐谱收好、从音乐室壁橱门缝底下塞进去；她伸手去握，踩到几张乐谱，他随即消失。她叠他的衣服、收乐谱、洗盘子、倒烟灰，心里觉得「一切绕回了原点」；晚上给 Alba 读完几章《Harriet the Spy》，问她有没有见过叫 Oliver 的人，Alba 不高兴地提醒她班上有两个男孩就叫这名。",
+      "quote": "Things have come full circle. It’s strange to know that Alba has her own time traveler waiting for her.",
+      "line": 230
+    }
+  ],
+  "turning_point_note": "本章转折＝Oliver 现身并托付「让 Beck 教 Nadia 编程」这件事，已进素读（第 7、8 条）。另记：原文自身不自洽——同一章里 Clare 说 Alba 八岁（line 105），上文却又说「十几岁的 Alba 喜欢穿着那件 T 恤睡觉」（line 41），此为原文时间线问题，非 md 缺陷。"
+}

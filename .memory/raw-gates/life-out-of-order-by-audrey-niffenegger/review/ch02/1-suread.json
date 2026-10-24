@@ -1,0 +1,68 @@
+{
+  "chapter": "ch02",
+  "source": "text/ch02_random_driveway_winter_day.txt",
+  "method": "只读 text/ 素读，未开 md；5769 词，取 10 条",
+  "facts": [
+    {
+      "fact": "时间抬头逐字：2029 年 7 月 28 日（周六）与 2022 年 12 月 30 日（周五）；Alba 27 岁，Zach 28 岁与 22 岁（两个年龄＝两个时间点的同一个 Zach）。",
+      "quote": "Saturday, July 28, 2029, and Friday, December 30, 2022 (Alba is 27, Zach is 28 and 22)",
+      "line": 18
+    },
+    {
+      "fact": "27 岁的 Alba 与 Zach 同床醒来（2029 年 7 月，炎热、开足空调），她坐起时一阵眩晕向后倒，直接落到冰冷的水泥地上——赤身裸体，落在别人家的车道上；她先想的是往哪躲，垃圾车一分钟内就到。",
+      "quote": "I wake up in bed with Zach. It’s going to be hot today, but we have the air-conditioning cranked up, so my nose and fingers are chilly and it takes me a moment to figure out what season I’m waking to.",
+      "line": 23
+    },
+    {
+      "fact": "22 岁的 Zach 开着旧黑色 Nash Ambassador 经过，认出她，倒车回来，脱外套裹住她塞进车里；他报日期：12 月 30 日、2022 年。两人此刻在 2022 年几乎还不认识。",
+      "quote": "“December 2022.” Zach turns right onto Irving Park Road. We’re headed west.",
+      "line": 59
+    },
+    {
+      "fact": "Zach 问她怎么会被他碰上；她说「你的未来是我的过去」，她很少去未来，医生把这叫 bias，时间旅行像记忆——难以向前回忆；她可以用人或物当目的地，但今天这个车道与这一天完全是随机的。",
+      "quote": "Time travel is like memory. It’s hard to remember forward, though you might imagine a future that’s pretty close to reality.",
+      "line": 119
+    },
+    {
+      "fact": "Alba 不让 Zach 进门，理由是「我记得你第一次来我家不是这一次」；她溜进空无一人的 Mama 家，从 Mama 放在床尾的干净衣物堆里拿衣裤、借走 Mama 的一件旧冬大衣。",
+      "quote": "“You can’t come in, because I remember the first time you came over and this isn’t it.”",
+      "line": 165
+    },
+    {
+      "fact": "在 Zach 去买咖啡时她翻手套箱，发现四罐金枪鱼、十根蛋白棒、To the Lighthouse、三个充电宝，还有一封俄克拉何马州人类服务部五年前的信，写着他原名、宣告他是「被解放的未成年人」；她此前不知道。",
+      "quote": "a five-year-old letter from Oklahoma Human Services addressed to his original name declaring Zach an emancipated minor",
+      "line": 224
+    },
+    {
+      "fact": "Zach 承认自己已沙发客六个月、住在车里；他不想要施舍，说「我觉得自己被安排（managed）」；Alba 因此想干脆回自己的时代。",
+      "quote": "“I am feeling kind of—managed.”",
+      "line": 261
+    },
+    {
+      "fact": "到 Estes 街的 Gomolinski 家，Gomez 当面告诉 Zach「我们查过你，一无所获，除了 Alba 没人能担保你」；Alba 在文件夹里的黄纸上写：Red Rose Black Fist Collective, Tulsa；Purcell 不是他的真名；我嫁给了他；他住在车里；能让他住下吗。",
+      "quote": "Red Rose Black Fist Collective, Tulsa. Purcell is not his real name. I am married to him. Can he stay with you? He is living in his car.",
+      "line": 386
+    },
+    {
+      "fact": "Gomez 问 Zach 会什么，Zach 报「组织非暴力直接行动、写新闻稿、Excel、建网站、煮咖啡」，最后加一句「我会打人」——Gomez 说「这话才像样」，当场给他安排职位与住处（Joe 的房间）。",
+      "quote": "“I can do office work. I can write press releases, I know Excel, I’m good on social media, and I can build websites. I can make coffee. I can beat people up.”",
+      "line": 408
+    },
+    {
+      "fact": "Nadia 线索：Zach 把她送到 Miller Beach 一栋白房子（Forest Avenue），来接的是她父亲 David Kendrick；此后 Nadia 与 Nick 一起消失多年，David 只肯说她活着。是 Isadora Hardwick 逼 Alba 找 Nadia，唯一的提示是「Flowers／跟花有关」；明天 David 的办公室会被翻得一团糟。",
+      "quote": "“Flowers,” I tell him. “Something about flowers.”",
+      "line": 526
+    },
+    {
+      "fact": "Alba 在回答 Charisse「2029 年我们还活着吗」时说了「Yes」就当场消失，衣服塌落在油毡地上；Zach 第一次目睹，魂飞魄散。随后 Charisse 与 Gomez 向他解释：David 在做基因与克隆研究，Clare 在 Henry 死后不许用 Alba 做实验，Alba 满 18 岁才自己回去参与；政府把时间旅行的知识压了下去。",
+      "quote": "Her clothing collapses into a pile on the linoleum. I can hear my heart pounding.",
+      "line": 533
+    },
+    {
+      "fact": "收尾（Zach 声部）：他住进 Joe 的房间，房间里有三只小木象；Charisse 送来床单毛巾，新洗衣物的气味让他把枕套按在脸上——「像家」，虽然只是回声。",
+      "quote": "It may only be an echo of Home, but at least it smells like it.",
+      "line": 691
+    }
+  ],
+  "turning_point_note": "本章转折点是「Alba 当场消失、Zach 第一次亲眼看见时间旅行」——从这一夜起他从局外人变成这个家庭秘密的一部分。已进第 9 条，未另补。"
+}

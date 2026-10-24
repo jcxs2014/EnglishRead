@@ -1,0 +1,71 @@
+{
+  "chapter": "ch68",
+  "source": "text/ch68_at_the_lake_house.txt",
+  "method": "只读 text/ 素读，未开 md。抬头：Friday, June 19, 2054, and Saturday, June 20, 2054 (Clare is 83, Beck is 78)。本章叙述者仍是 Beck（第一人称），但末尾插入一小段 Clare 的第一人称。",
+  "facts": [
+    {
+      "fact": "抬头：2054 年 6 月 19 日星期五与 6 月 20 日星期六两日；Clare 83 岁、Beck 78 岁。夜里快十一点，两人在湖上的划艇里；满月照亮湖屋，一切投出深影，Lily Lake 镜面般映月；Beck 看得清 Clare 被白发包住的样子，也看得清自己手上的深纹，说自己反正知道自己（不由掌纹）的未来、不需要预兆。",
+      "quote": "Beck: It’s almost eleven o’clock, and we are out on the lake in the rowboat. The moon is full tonight and so bright that we can see our lake house amid the pines, lit up as if it’s on a city street. Everything casts deep shadows, and Lily Lake reflects the moon with mirror precision. I can see Clare in the middle of the boat, enveloped by her shining white hair; I can see my own hands’ deep creases; I could read my palms in the moonlight if I knew or believed any of that nonsense.",
+      "line": 23,
+      "lines": "18, 23",
+      "anchor": "Beck: It’s almost eleven o’clock"
+    },
+    {
+      "fact": "Clare 举杯，Beck 给她倒一点酒，她说「谢谢，Beck」，两人又沉默；湖面平滑，他们离岸近到能听见水拍栈桥；一列货运火车在远处无声驶过。Clare 说「我们在这里待了很久」，Beck 以为她要回屋，问她要不要进去，Clare 纠正说自己指的是「在这里住了很久」；Beck 答「二十二个夏天」。",
+      "quote": "Clare leans forward with her glass extended and I pour a little wine into it. “Thanks, Beck,” she says, and we lapse back into silence.",
+      "line": 28,
+      "lines": "28–51",
+      "anchor": "Clare leans forward with her glass extended"
+    },
+    {
+      "fact": "Clare 说「可不知怎么又好像没那么久」，有时候觉得「我们才刚到这里」；Beck 说「有些日子我觉得我们才刚认识」；Clare 笑说「我不会那么夸张，我认识你一辈子了」。Beck 心里说这是自己隐秘的难处：他装作不在意地问「可你有另一段人生……」，Clare 接「还有另一份爱。但我爱你，Beck。」Beck 回「我也爱你」，并为自己到这把年纪还需要常常听这句话而有点惭愧。",
+      "quote": "“Some days I feel as though we’ve just met.” Clare laughs. “I wouldn’t go that far. I’ve known you all my life.” “Have you?” This is my secret difficult thing, the thing I pretend not to care about. “But you had another life . . .” “And another love. But I love you, Beck.”",
+      "line": 59,
+      "lines": "55–75",
+      "anchor": "This is my secret difficult thing"
+    },
+    {
+      "fact": "两人隔船握手，船晃了一下，坐垫很薄、Beck 的臀部发疼。Clare 问「如果有机会重新开始，你会做什么」，Beck 慢慢反问「你是说和你一起重新开始？」Clare 说是，「或者不和我……如果你现在能把一生重来一次」；Beck 自己都意外地回答「我会做东西。也许是画。我这一生快到尽头了，我所有的工作好像都蒸发了」。Clare 很难过，说不知道他这么想；Beck 说他自己也是最近才知道，看见她画画就后悔自己没坚持，「你有一摞摞的画，你的雕塑占地方，你的艺术在世界上有存在感」。",
+      "quote": "“What would you do if you were starting again?” she asks. I am slow to answer. “Starting out with you, you mean?” “Yes, with me. Or not with me . . . If you could begin your life all over again now . . . ?” I surprise myself and say, “I would make things. Paintings, maybe. Here I am, near the end of my life, and all my work seems to have vaporized.”",
+      "line": 84,
+      "lines": "84–105",
+      "anchor": "I would make things. Paintings, maybe"
+    },
+    {
+      "fact": "Clare 说 Beck 的工作影响了很多人，「它是看不见的，但它深深地改变了人」；又说「我一直以为你会是进博物馆的那个人。不过，你会进所有历史书」。Beck 笑说现在已经没有历史书了，「我甚至觉得根本不会有历史了」；Clare 说「不对，不是这样」；Beck 问她怎么说得像确知，她说「我就是知道」，被追问是谁说的，她迟疑后答「Alba」。Beck 追问「她去到很远的未来查历史了？」Clare 不答。",
+      "quote": "Clare says, “I always thought you were the one who would be in the museums. But, you’ll be in all the history books.” I laugh. “Clare, there aren’t any history books anymore. I don’t think there is even going to be any history.”",
+      "line": 120,
+      "lines": "110–152",
+      "anchor": "there aren’t any history books anymore"
+    },
+    {
+      "fact": "Beck 问「她还说了什么」，Clare 说「很多人会饿死，一切都会崩塌」。Beck 环顾平静的湖、月亮、他们的小房子，说「你在跟我开玩笑」；Clare 迟疑，说她说的是真的，「我什么时候骗过你」；Beck 说「这太可怕了！你为什么不早告诉我」，Clare 答「你不想知道」。Beck 问「那为什么现在告诉我」，Clare 耸肩说「Alba 说会好起来。她说会有一段混乱的时期，一切把自己撕碎，然后就是和平。人几乎会没有，但她说世界会回来，艺术也会在，等世界重新准备好的时候」。",
+      "quote": "Clare hesitates. “Alba.” … Clare shrugs. “Alba says it will get better. She says there’s a chaotic time when everything tears itself apart and then peace. There will be hardly any people, but she says the world comes back, and art will be there, when the world is ready again.”",
+      "line": 184,
+      "lines": "156–185",
+      "anchor": "a chaotic time when everything tears itself apart"
+    },
+    {
+      "fact": "Beck 感到一种发自内脏的恐惧，尽管他不明白为什么——Clare 说的是两人都看不到的未来。他们划回栈桥、系好船、把桨和坐垫搬回屋；月亮升高了；两人几乎不说话地准备睡下；这晚 Beck 没有像往常一样在床上看书，而是关了灯，两人透过卧室窗看湖；Clare 说「亲一下？」，两人互道晚安，Beck 握着她的手睡着。",
+      "quote": "I am viscerally afraid, though I can’t understand why; Clare is talking about a future neither of us will see. We row back to the pier, tie up the boat, bring the oars and cushions and other things up to the house.",
+      "line": 190,
+      "lines": "190–194",
+      "anchor": "I am viscerally afraid"
+    },
+    {
+      "fact": "紧接一段 Clare 第一人称：他们互道晚安，她想自己多么幸运——有过两份伟大的爱，有 Alba，以及 Alba 的 Zach 和 Oliver；有过那么好的朋友和和善的家人；她想起已经死去的人，和那些还在世上过着日子的人，「晚安，大家。晚安。」",
+      "quote": "Clare: We kiss good-night, and I think how lucky I am: to have had two great loves, and Alba, and her Zach and Oliver; to have had such wonderful friends, and a kind family. I think of the ones who have died, and the ones who are out there in the world, living their lives. Good night, everyone. Good night.",
+      "line": 200,
+      "lines": "200",
+      "anchor": "Clare: We kiss good-night, and I think how lucky I am"
+    },
+    {
+      "fact": "最后一段回到 Beck 第一人称：他在天亮前醒来，屋里很静，Clare 在睡——不，她也没声音了；他把手放在她脸上，她只是微凉；他听她的心跳，她的心已经不动；她看起来很平静；「我的爱」。他把自己蜷在她身边，试着想象一个没有她的世界。",
+      "quote": "Beck: I wake before dawn. The room is silent. Clare is asleep—but no, she is silent, too. I put my hand on her cheek; she is only slightly cool. I listen for her heartbeat, but her heart is still. She looks peaceful. My love. I curl myself around her and try to imagine my world without her.",
+      "line": 205,
+      "lines": "205",
+      "anchor": "I wake before dawn. The room is silent"
+    }
+  ],
+  "turnpoint": "2054 年 6 月 20 日凌晨，Clare 在睡梦中安静去世（83 岁）：Beck 摸到她脸颊微凉、心跳已停。同夜她刚说完 Alba 从未来带回的「崩塌—和平—艺术会回来」，还庆幸自己有过两份伟大的爱。"
+}

@@ -1,0 +1,71 @@
+{
+  "chapter": "ch57",
+  "source": "text/ch57_a_failed_surprise.txt",
+  "method": "只读 text/ 素读，未开 md；2041-09-06/07；Zach 40 岁、Alba 40 岁；Zach 与 Alba 双第一人称交替（Zach: / Alba: 段标）",
+  "facts": [
+    {
+      "fact": "抬头：2041 年 9 月 6 日星期五与 9 月 7 日星期六（Zach 40 岁，Alba 40 岁）。Zach 视角：他知道给 Alba 的四十岁生日办惊喜派对是个冒险的主意——他的算盘是「她若不知道，就更可能到场」；但今早她洗澡时消失了，此后一直没见人。他还是照办了派对，指望她意外现身。家人朋友都到了，Alba 仍不在。",
+      "quote": "Zach: I knew it was a risky idea to throw a surprise party for Alba’s fortieth birthday. I figured if she didn’t know about it, she was more likely to be here. But she disappeared this morning while she was taking a shower, and I haven’t seen her since.",
+      "line": 23,
+      "lines": "18, 23-24",
+      "anchor": "Zach: I knew it was a risky idea to throw a surprise party"
+    },
+    {
+      "fact": "在场名单：Clare 与 Nancy Kendrick 坐在沙发上（Nancy 最近摔了一跤，脚打着石膏，Clare 一直问要不要帮她拿东西）；Beck 与 Clare 的姐姐 Alicia 及其丈夫 Hans（从柏林来）在一起；还有 Nell——Clare 家 retired 多年的厨娘，快九十岁，派对的核心人物，正在讲「Clare 第一次带 Alba 的父亲 Henry 回家过圣诞」的长故事。Caralora 与 David Kendrick 在后院一边烤肉一边认真交谈。Celia、Charisse、Rosa 在楼上床上拼一条被子，边做边谈第 50 选区新建的社区中心：将以 Gomez 命名，但有争议——用大家熟悉的绰号，还是用他的法定名 Jan Gomolinski。Rosa 去年当选，现为第 50 选区市议员；Zach 仍觉得「Rosa 现在是我老板」这件事很自然，说她处处像她父亲。Joe 与 Max 悲观地谈气候，同场有 Rosa 的丈夫 Frank、Clare 的兄弟 Mark 及其妻 Sharon——他们的孩子（Alba 的表亲）因俄勒冈最近的野火没能来。",
+      "quote": "Celia, Charisse and Rosa are working on a quilt together … they are discussing the new community center that is being built in the 50th Ward; it will be named for Gomez, though there is some controversy as to whether it will bear the nickname we all knew him by, or his legal name, Jan Gomolinski … Rosa is the alderperson for the 50th Ward now, as of last year’s election.",
+      "line": 29,
+      "lines": "29-29",
+      "anchor": "I went ahead with the party anyway, in the hope"
+    },
+    {
+      "fact": "除 Alba 外唯一没到场的是 Lucinda。她现居纽约，偶尔做模特，给一位「要求极高、极有名」的行为艺术家当助手（名字 Zach 总记不住）。上次见面是圣诞前后，她显得不快乐：不再害羞甜美，而是疲惫、抑郁，回避所有私人问题。Celia 逼她给旧日的心理医生打电话，但她唯一想谈的人是 Isadora；Beck 把自己的工作室让出来，让两人一连几天待在里面。新年前夜她看起来好些，第二天他们送她去机场；Alba 说「也许你该搬回家？」Lucinda 说「嗯，大概吧。大变化要来了，等着看吧！」此后一切照旧，直到今早 Lucinda 从他们的雷达上消失：她上了飞机，到了奥黑尔，然后再无音讯；Celia 一直在找，毫无进展。",
+      "quote": "When we dropped her off, Alba said, “Maybe you should move home?” and Lucinda said, “Yeah, probably. Big changes coming soon, stay tuned!” … She got on her flight, arrived at O’Hare, and we haven’t heard from her since.",
+      "line": 33,
+      "lines": "33-33",
+      "anchor": "The only person unaccounted for—besides Alba—is Lucinda."
+    },
+    {
+      "fact": "厨房里 Clare 问「你还好吗，Zach？」两人没去应酬，在厨房桌边吃。Zach 承认「我真的很希望 Alba 会在。但她似乎越来越频繁地穿越。我知道她控制不了，可这很孤独。」Clare 说「Henry 也一样。他越老，离开得越久。我以前会发狂，因为我知道他的时间不多了。」她的手有风湿，所以 Zach 开两瓶啤酒、给两人倒。Clare 问「Alba 去哪儿？」Zach 说「没什么特定地方。最近她常落在 1970 年代，说很多时间待在购物中心和百货商店里。听起来无聊，但至少她找得到衣服穿。」Clare 问「Henry 常去我的童年，我猜 Alba 从没出现在你的童年里？」Zach：「没有，谢天谢地。那会很怪。」Clare 语气怅然。",
+      "quote": "“Henry was the same. The older he got, the longer he was gone. I used to get frantic because I knew time was running out for him,” Clare says.",
+      "line": 61,
+      "lines": "44-87",
+      "anchor": "“Are you okay, Zach?” Clare and I have filled our plates"
+    },
+    {
+      "fact": "Zach 说出自己的疑虑：「Alba 似乎总是从**我**身边穿越走，几乎从不**向**我而来。你觉得这意味什么吗？」他说他怕问她。说这话时「有什么咔哒一响，我几乎想通了，但我把这念头推开；那不可能对。」Clare 拍他的手：「哦，Zach。你没什么可担心的。Alba 爱你。」Zach 心里盘算「如果我能请，我会请的人」：Gomez、Nadia 与 Nick、Nadia 的兄弟 Colin（去年去世）、Alba 的爸爸。他几天前见到 Oliver，请他来并带上妻子，但 Oliver 说他们那几天要出城；「他从没见过 Alba，所以我庆幸他来不了；否则在她自己的生日派对上掩饰她的缺席会很尴尬。」",
+      "quote": "“Alba always seems to travel away from me, hardly ever to me. Do you think that means anything?” … As I say this something clicks, I almost figure it out, but I push the idea away; that can’t be right.",
+      "line": 91,
+      "lines": "91-127",
+      "anchor": "“Alba always seems to travel away from me, hardly ever to me."
+    },
+    {
+      "fact": "Beck 做了胡萝卜蛋糕——Alba 最爱的；他们省掉蜡烛，但还是唱了生日歌。Zach 有一阵「Alba 死了」的恐慌，虽然他知道事实并非如此，几分钟才平复。七点半，Celia 与 Rosa 把他拉到一边，说要去罗杰斯公园警局报 Lucinda 失踪；他想同去被拒。Celia 临走请求：「如果 Alba 回来，你能不能问她 Lucinda 好不好？」十点左右大家认定 Alba 错过了派对，都提出留下收拾，他坚持自己可以，几乎把所有人都劝走了；Clare 与 Beck 帮他把食物收好、把回收物装袋，然后也走了。他头痛，吃了布洛芬，关掉大部分灯，独自上床，觉得孤独而不安。",
+      "quote": "At seven thirty, Celia and Rosa take me aside to tell me that they are going to the Rogers Park police station to report Lucinda missing. … “If Alba reappears, could you ask her if Lucinda’s okay?” Celia requests as they leave.",
+      "line": 136,
+      "lines": "132-141",
+      "anchor": "Clare asks me if we should sing and have cake"
+    },
+    {
+      "fact": "Alba 视角：她回到离开的地方——浴缸。她怕接下来要发生的事（年长的自己警告过她），蜷在浴缸里一动不动，心跳如鼓，希望能逃开这几个小时：收拾一只箱子、叫辆出租车去黄房子。但「那不是发生过的事」。屋里安静，太阳升起；她穿衣，在客厅穿好（卧室里 Zach 趴睡，一条手臂横在她空着的那半边床上）。派对残局到处都是：她吃掉椅子底下那盘剩了一半的胡萝卜蛋糕，「祝我生日快乐」。Zach 起来，走过客厅时几乎没注意到她坐在壁炉边那把硬椅子上；「嘿，你回来了。」他吻她，口气有啤酒味但不像宿醉。",
+      "quote": "Alba: I return to the place I left, the bathtub. I dread what’s coming—my older self has warned me. … I wish I could avoid the next few hours. Just pack a suitcase and take a cab to the Yellow House. But that isn’t what happened.",
+      "line": 147,
+      "lines": "147-167",
+      "anchor": "Alba: I return to the place I left, the bathtub."
+    },
+    {
+      "fact": "早餐桌上的对峙。Zach 先问 Lucinda 的下落，Alba 说「她现在在哪儿我不知道，但她最终会出现的。告诉大家别担心」；又说「她回来的时候，没告诉我们她去过哪儿。我不确定她记得。」Zach 说这不能让人安心。随后他问出核心：「你知道你父亲一次次穿越到你母亲的童年？为什么你总是从我身边穿走，从不向我而来？」「Alba，你去哪儿？你去找谁？你在向某个人穿越，对不对？」她说不出口。「你认识我的时候就已经认识他了？还是后来才认识的？」她承认「后来。你是我选择的人。他属于一个因果闭环。和他之间没有开始。」「他叫什么名字？」——她「生理上无法」说出。「你为什么要骗我？」「为什么骗这么久？因为这事已经很久了，不是吗？」他从未打过她，她却缩了一下。他起身离开，在卧室往箱子里乱塞东西。她说「不。我走。你留在这儿」——「因为你必须在这里」——「有比你我更多的事在进行」。他问「你说我『必须在这里』是什么意思？」最后他开车送她去 Mama 和 Beck 家；一路少话，告别时他不看她。",
+      "quote": "“Alba, where do you go? Who do you go to? There’s someone that you’re traveling to, isn’t there?” … “Later,” I admit. “You’re the one I chose. He’s part of a causal loop. With him, there was no beginning. Or if there was, I haven’t found it yet.”",
+      "line": 221,
+      "lines": "175-312",
+      "anchor": "“Alba,” Zach says, “you know how your father time traveled"
+    },
+    {
+      "fact": "他开车送她到 Mama 和 Beck 家，她拿行李道别，他含糊应了一声就开走。她「想坐在草地上再也不起来。我想死。」她从后门进屋，没人在家；她喊 Isadora，没有回应，然后想起 Isadora 已经走了；她留了张条说「我来过」，锁好门，走去黄房子——「那不是家，但暂时只能这样」。",
+      "quote": "I want to sit down on the grass and never get up again. I want to die. … I call out for Isadora and get no answer, then remember that Isadora is gone. … It isn’t home, but it will have to do for now.",
+      "line": 312,
+      "lines": "312-318",
+      "anchor": "We don’t say much to each other on the drive"
+    }
+  ],
+  "turning_point_note": "本章转折点是**Zach 当面逼问、Alba 说不出名字、婚姻当场破裂**（第 9 条，`:221-312`），已进单；另有两处必须并记：① Zach「几乎想通又推开」的自我否认（第 5 条，`:100`）——这是他此后所有行为的伏笔；② Alba 明知结局仍按原样重演（第 7 条，`:147-148` 的「但那不是发生过的事」），这是本书时间观的题眼。若 md 只写「惊喜派对失败、两人吵架」，则漏掉这两层。"
+}

@@ -1,0 +1,65 @@
+{
+  "chapter": "ch10",
+  "text_file": "text/ch10_tabula_rasa.txt",
+  "read_before_md": true,
+  "header": "Saturday, October 25, 2025 (Zach is 24, Alba is 24)",
+  "facts": [
+    {
+      "n": 1,
+      "fact": "2025 年 10 月 25 日星期六，抬头这次把 Zach 写在前面：Zach 24 岁、Alba 24 岁。全章是 Zach 的第一人称：他凌晨 3:13 醒来，Alba 不在床上；浴室水声里传来她唱歌，声音很轻，怕吵醒他，同一句反复唱；他猜她是有了一个念头，想趁擦干身体、写下它之前把它记住。",
+      "quote": "I wake up at 3:13 a.m. and Alba isn’t next to me in bed. Then I hear the shower running, and the reassuring sound of Alba singing.",
+      "line": 23,
+      "anchor": "Zach: I wake up at 3:13 a.m. … She sings the same phrases over and over."
+    },
+    {
+      "n": 2,
+      "fact": "笔记本在床头柜下面，他取出来、找笔，开始描写她的声音——隔着关着的浴室门，清楚、安静，像一段乐曲 puzzle 的重复，令人安心。水停了，她还在唱。",
+      "quote": "My notebook is under the nightstand. I retrieve it, find a pen and start to write a description of Alba’s voice, clear and quiet through the closed bathroom door, the soothing repetition of a musical puzzle piece.",
+      "line": 28,
+      "anchor": "…I retrieve it, find a pen and start to write a description of Alba’s voice"
+    },
+    {
+      "n": 3,
+      "fact": "他在遇见 Alba 之前就不写了：那阵子事情太多，很多不宜记录——万一笔记本落到不该落到的人手里；日常的艰难与急迫让虚构变得不可能，他连专心细读都做不到，更不用说写。他不是有意彻底放弃，只是时间过去、丢了习惯，然后不再把自己当作家；一阵子还有人问他最近在写什么，后来就尴尬了，「很快我就不再是个作家。也许我从来都不是？」",
+      "quote": "I stopped writing just before I met Alba. So much happened then, and a lot of the things that happened weren’t things I’d want to document, just in case a notebook ended up in the wrong hands.",
+      "line": 33,
+      "anchor": "…I didn’t mean to give up writing completely, but time went by and I lost the habit"
+    },
+    {
+      "n": 4,
+      "fact": "后来他「意外地把自己送去给 Alba 那个无词的音乐王国当学徒」。他以前主要听摇滚：rockabilly、英伦入侵乐队、朋克、早期乡村、Dylan。两人同住后，Alba 把她父亲的音响架在客厅，他常在任何时候发现她躺在地毯上戴耳机听「某个东西」。",
+      "quote": "Then I accidently apprenticed myself to Alba’s wordless realm of music.",
+      "line": 38,
+      "anchor": "…I used to listen mostly to rock and roll. I liked rockabilly, but I liked a lot of other stuff, too"
+    },
+    {
+      "n": 5,
+      "fact": "一天夜里他说「你可以放出来听，我不介意」；她答「你大概不会喜欢」，还是拔掉耳机插头。屋里响起的声音很难形容：弦乐、又长又低的音堆几乎像工业噪音，随机地嗡嗡着像几台机器组了个车库乐队；然后是拿指甲刮黑板那种尖利的长音；然后静默。她关掉音响问「怎么样？」",
+      "quote": "It’s hard to describe the sound that filled the room. String instruments; long low stacks of notes that sounded almost industrial, droning on randomly as though some machines had formed a garage band.",
+      "line": 47,
+      "anchor": "“You probably won’t like it,” she said. She reached over and pulled out the headphone jack."
+    },
+    {
+      "n": 6,
+      "fact": "他问那是什么，她答 La Monte Young 的《Trio for Strings》，1958 年的作品，算是极简主义的原点；刚放的只是其中一小段。她说她有时听它，是为了停止过度思考、只是深深地去听；然后反问他听出了什么。",
+      "quote": "“La Monte Young, Trio for Strings. It’s from 1958. It’s kind of ground zero for minimalism. That was just a small part of it.",
+      "line": 57,
+      "anchor": "“That was intense. What is it?” ／:57–58 “I listen to it sometimes when I want to stop overthinking, just to listen deeply. What did you make of it?”"
+    },
+    {
+      "n": 7,
+      "fact": "他意外地发现自己很喜欢，问「还有别的吗」；她说「哦，有的是」。此后两人把她庞大的收藏一路听过去：Terry Riley、Philip Glass、Arvo Pärt、Pauline Oliveros、Steve Reich，再往回跳到勋伯格、贝尔格、韦伯恩，直到 Thomas Tallis 这样的早期作曲家。她偶尔放自己的音乐；他问她就答，多数时候两人只是缠在沙发上一起听。几个月浸泡在声音里之后，他心里一直沉默的那部分醒了，他极想回到语言，想重新写作。",
+      "quote": "And after months of this immersion in sound, a part of me that had been silent woke up and I desperately wanted language. I wanted to write again.",
+      "line": 68,
+      "anchor": "Soon we were ploughing through her enormous music collection… Terry Riley, Philip Glass, Arvo Pärt, Pauline Oliveros, Steve Reich"
+    },
+    {
+      "n": 8,
+      "fact": "让他停笔的是不确定：我有什么可说的？他们听的音乐不关于任何东西，是一条把他带出自我的路径；而他过去是为别人、为别人的认可而写。如果没有人会读，他还会写什么？找出答案花了时间，他还在找——他写一些想留住的、很小的东西，比如 Alba 在淋浴时唱歌。「慢慢地，它累积起来，我的生活有了形状。我又有了词，而在词里我找到了我的意义。」",
+      "quote": "What would I write if no one was going to read it?",
+      "line": 73,
+      "anchor": "The thing that had shut me down was uncertainty: What do I have to say? … I had been writing for other people, for their approval. ／:79 “I have words again, and in the words I find my meaning.”"
+    }
+  ],
+  "turning_point_check": "本章的转折点是「他重新开始写」——不是事件而是转向，第 7 条末（desperately wanted language / wanted to write again）与第 8 条（写作动机从他人认可改为自我留存）已覆盖，无需补。"
+}

@@ -1,0 +1,78 @@
+{
+  "chapter": "ch47",
+  "source": "text/ch47_the_air_becomes_music.txt",
+  "method": "只读 text/ 素读，未开 md；2041-11-01，Oliver 13 岁，Oliver 第一人称",
+  "facts": [
+    {
+      "fact": "抬头：2041 年 11 月 1 日星期五，Oliver 13 岁。到英国第二天，Stephen 叔叔在旅馆顶层餐厅说「现在该干活了，一天都不能浪费，你得用心，Qing（清）；想骗过谁都不可能，但你得拿出真心的努力」。窗外脚下是河，暗而缓慢。Oliver 说「我从没碰过钢琴」，叔叔鼓励他：手指长、打游戏手快，为什么不能弹琴；并安排他住到伦敦的钢琴老师家——「我整周都在布里斯托，你住她家学得更快」。",
+      "quote": "“Now it’s time for you to work. We cannot lose a day, and you must apply yourself, Qing. It will be impossible to fool anyone, but you must make a sincere effort.”",
+      "line": 23
+    },
+    {
+      "fact": "叔叔从没见过这位老师，只知道「我问过的每个人都极口称赞她」。早餐是假咖啡、豆子吐司，还有他没见过的 crumpet 与 Marmite；叔叔什么也不吃，抖着腿看手机，把手机递给他——母亲留言：「你平安到了我们太高兴了！好好用功，好孩子，我们想着你。」",
+      "quote": "“I don’t know,” Uncle Stephen says. “I’ve never met her. But she is highly praised by everyone I consulted.”",
+      "line": 45
+    },
+    {
+      "fact": "黑车来接，这次司机是位黑人女性；她跟他说了句什么，他从后视镜里迎上她的眼睛，叔叔替他答了——「我已经厌倦了听不懂」。车过许多高玻璃楼，行人很少，开始下雨。他问「我们在哪儿」——Canary Wharf；「我们去哪儿」——Crouch End；「Crouch End 好吗」——「地势高」。",
+      "quote": "“It’s high ground.”",
+      "line": 82
+    },
+    {
+      "fact": "老师的房子是寒素的暗红砖房，前院水泥地里嵌着牡蛎壳，烟囱很多；窗口一只灰猫跳下钻进灌木。开门的是 Madeline Baxter 太太：矮个、中年，牛仔裤、绿 T 恤、缀小珍珠扣的黑套头衫，黑发带品红光泽、编成粗辫一直垂到臀下，正用茶巾擦手，深红唇膏、红框眼镜角上镶小水钻。她示意他进来，不笑。",
+      "quote": "This is Mrs. Madeline Baxter, my teacher.",
+      "line": 96
+    },
+    {
+      "fact": "叔叔不脱鞋，Baxter 太太穿着绿色条纹袜。她带他看房间：在楼梯顶端，出乎意料地大，舒服的床、书桌、窄长窗（窗帘拉着），还带自己的浴室——他庆幸不必与这位太太共用。随后众人在狭小昏暗的厨房喝茶（真茶，亮红马克杯），厨房到处是颜色：窗上挂黄木鸟、粉花瓶插羽毛、水槽边一摞绿松石色盘子；书塞在架上、堆在椅上，摊着、沾着食物印——这让他想起母亲，母亲在家也到处留下读了一半的书。",
+      "quote": "There are real books tucked into shelves and stacked on chairs—books left open, food-stained. I feel more at home; although I can’t read these books, their presence reminds me of my mother, who leaves a trail of half-read books all over our flat.",
+      "line": 119
+    },
+    {
+      "fact": "翻译靠叔叔口袋里的一枚白色立方体机器人：在桌上敲两下变蓝，就能中英互译（先出男声、又出女声，叔叔调整后让他别贴太近说话）。Baxter 太太对着立方体说，机器人用「机器人普通话」回译：「我很高兴你来，奥利弗。我们开始吧？」",
+      "quote": "My uncle takes a small white cube robot from his pocket. He taps it twice on the table and it turns blue.",
+      "line": 129
+    },
+    {
+      "fact": "琴房：黑色亮面钢琴比他想的更大，摆在房间中央；壁炉里有烧过的木柴与灰，炉上方一面大镜子高得他只能照见自己的头，旁边摆着蛋与变形虫似的小雕塑；一张无背无扶手琴凳、一张红沙发、一张深蓝大扶手椅——椅里塞着枕头、露指手套、一包糖、手机、毛线、香烟、毯子，像个成年人小孩的窝；还有波斯地毯、大量书、一整面墙的窗，窗外是树与红屋顶。",
+      "quote": "the armchair is like a nest, shapeless and broken-in, with pillows, fingerless gloves, a packet of sweets, a phone, knitting, cigarettes, a blanket, all sorts of comforts and treats, as though a grown-up child lives in that chair.",
+      "line": 155
+    },
+    {
+      "fact": "Baxter 太太提高声音问叔叔「它录音吗？还是发送？」叔叔说不会。她问 Oliver 听过人弹琴吗、爱听什么；他说没有，报了几个韩国乐手她没听过；她问「他们演奏什么」，他答「机器人」。她笑：「你要学的正是没有机器人的弹法。」随后掀开琴盖给他看内部：按键推小锤、锤击弦、弦振动、振动推动空气、空气成为音乐——「把手放在心口」；她砸出几个暗沉的音，「你胸口感觉到了吗」。",
+      "quote": "“You are going to learn to play without robots, Oliver. Come here, look.” … “I’m moving the air, the air becomes music.”",
+      "line": 177
+    },
+    {
+      "fact": "叔叔听得不耐烦，问「他拿什么给考官弹」；她坐下揉手、弹了一段——先是极简单，随即变成绿色般闪亮、双手像属于两个不同女人的跳跃交错，「像听数学」；叔叔问「那是《一闪一闪小星星》吗」，她答「那是莫扎特的《妈妈请听我说主题十二变奏》」。叔叔满意：「下周六我再来。」他走后她说：「第一课是——人生就是一场长长的试奏。」",
+      "quote": "“That was a piece called Twelve Variations on ‘Ah, vous dirai-je, Maman’ by Mozart.” … “Well, young Oliver, the first lesson is that life is one big long audition.”",
+      "line": 207
+    },
+    {
+      "fact": "她拿出自己的一枚同样的立方体，敲三下，两只立方体依次变色、脉动（叔叔那只由蓝转紫）；她带他穿过厨房、下台阶进后院——他忽然认出这就是昨晚（穿越时）来过的那个院子，「我那时在未来！」。她打开小屋门（门轴响），举手示意别进来，出来锁好。回厨房摊开手掌：两枚耳塞式装置，透明柔韧，戴上后里面像跳动的心脏由绿转蓝，与他的心跳同步；她说的英语变成极自然的普通话音色，几乎同步。",
+      "quote": "As I follow her, I realize that this is the garden I was in last night—I was here, in the future!",
+      "line": 226
+    },
+    {
+      "fact": "她解释：这是生物机器人（biorobots），比机械的更灵敏精确，类似如今可植入的 Interstitial 机器人，但只彼此相连、不接「间隙」。她问「我听说你没有植入？」他答没有——作为时间旅行者他不能有任何永久植入物：一穿越就会丢，而 Interstitial 植入太侵入，丢失可能引发脑出血。她说自己也没有；撩起辫子给他看颅底：有那个靶心加闪电的纹身，但上面叠着一个红 X——跟他父母的一样（父母转入地下时都取掉了）。他不敢问，她自己说：「我过敏。」又说：「顺便，这就是别人问你为什么没有植入时最好的说法。」还眨了下眼——她在撒谎吗？",
+      "quote": "She has the tattoo, a little target with a lightning bolt, but there is a red X tattooed over it, just like my mom and dad’s.",
+      "line": 258
+    },
+    {
+      "fact": "他小声问「立方体为什么变红了」；她低声答「那是发送/录音立方体，我这一只在改写它」。「叔叔会生气吗？」「不知道。有人告诉过他不许把这种东西带到我这儿，他不会意外。我不喜欢任何人监听我，哪怕我是在教他们的孩子。」",
+      "quote": "“It’s a transmit/record cube,” she says, whispering. “My cube is reforming it.”",
+      "line": 271
+    },
+    {
+      "fact": "正式开课：让他随便按键，「要当真」；他按遍所有键，她说「很有秩序。但要做出音乐，我们得没有秩序」。分左右半键盘：他弹白键、她弹黑键，界线是中音 C；他不懂 C 与「海」的谐音，她拿出小书指字母 C 与猫的图画；猫叫 Gwen，机器人译成「When」，两人摘下机器人练发音。她说不觉得机器人帮了他——「你如果从不听英语，就永远学不会」。",
+      "quote": "“I’m not sure the robots are doing you any favors, Oliver; you won’t learn English if you never hear any.”",
+      "line": 357
+    },
+    {
+      "fact": "她唱音让他找键；然后两人合奏——他弹低音如雷、她弹高音如「悲伤的雨」，她绕着他的声音「改变颜色」，把他的手感变成乐思，他一停她也停。静下来后，他被一阵悲伤与离家的距离击中，忍住泪；她起身说「该吃午饭了」走出琴房。他独自坐着想「刚才那是什么？那是音乐吗？音乐是什么？」，像漂浮在黑暗太空里，默默哭起来；厨房的声响停了一下又继续，随后一只她的手把一小包纸巾放在琴键上。他擦泪擤鼻，答「是，老师，我准备好了」。",
+      "quote": "I sit at the piano trying to understand what just happened? wondering was that music? What is music?",
+      "line": 393
+    }
+  ],
+  "turning_point_note": "本章的转折不在情节而在认知：Baxter 太太把「音乐＝推动空气」讲到「人生就是一场长长的试奏」（第 9 条），并在院子里让他认出「昨晚的院子就是这里」（第 10 条）——从这一刻起，未来不再是抽象的预言，而是他脚下这块湿地。补一条最易漏的：她当着他的面改写叔叔的监听立方体、并教他「就说我过敏」这套说法（第 12、11 条），这是本章真正的结盟动作。"
+}

@@ -1,0 +1,43 @@
+{
+  "chapter": "ch56",
+  "source": "text/ch56_parrots_do_love.txt",
+  "method": "只读 text/ 素读，未开 md；2041-08-31；Beck 65 岁、Isadora 32 岁；Beck 第一人称；全章 319 词（短章）",
+  "facts": [
+    {
+      "fact": "抬头：2041 年 8 月 31 日星期六（Beck 65 岁，Isadora 32 岁）。Beck 比平常醒得早，轻轻下床怕吵醒 Clare；太阳刚升起；他煮了茶。走到餐桌自己常坐的位置，发现一只封好的信封，上面用 Alba 那种熟悉而夸张的字迹写着他的名字。他拆开，里面写：Oliver 要你尽快把 Isadora 释放进「间隙」（the Interstices）；很急；告诉她「该做野东西（a Wild Thing）了」；告诉她「鹦鹉也懂爱（parrots do love）」。",
+      "quote": "It says, Oliver wants you to release Isadora into the Interstices as soon as possible. It’s urgent. Tell her it’s time to be a Wild Thing. Tell her parrots do love.",
+      "line": 24,
+      "lines": "18, 23-25",
+      "anchor": "Beck: I wake up earlier than usual. I slide out of bed"
+    },
+    {
+      "fact": "他想拒绝——「我还没准备好」——但他知道「早就不该拖了」。设备他有。他下楼，开始把 Isadora 的服务器接到 Interstitial 硬件上。在接上最后一根线之前，他坐到显示器前叫了一声：「Isadora？」",
+      "quote": "I want to refuse—I’m not ready. But I know it’s past time. I have the equipment. I go downstairs and begin to connect Isadora’s servers to the Interstitial hardware.",
+      "line": 29,
+      "lines": "29-29",
+      "anchor": "I want to refuse—I’m not ready. But I know"
+    },
+    {
+      "fact": "Isadora 坐在牛津植物园里 Will 和 Lyra 的那条长椅上。她穿蓝裙子，赤脚；园里是阴天，但她膝上放着一顶宽檐遮阳帽。「早上好，Beck。」她用 Lucinda 那种甜美的表情从屏幕里望着他，声音却疲惫。",
+      "quote": "She’s sitting on Will and Lyra’s bench in the Oxford Botanic Garden. She’s wearing a blue dress, and her feet are bare. … “Good morning, Beck.” She gazes out of the screen at me with Lucinda’s sweet expression, but her voice is weary.",
+      "line": 34,
+      "lines": "34-34",
+      "anchor": "She’s sitting on Will and Lyra’s bench"
+    },
+    {
+      "fact": "Beck 转达 Oliver 的话：该让她做「野东西」了，而且「鹦鹉也懂爱」——问她懂不懂。Isadora 静了一会儿，说「我爱你，Beck。但现在我得走了。」他问「我还会再见到你吗？」她答「我想会。但你可能认不出我。我会给你一个吻！」她吻了自己的手指，用最自然的方式把手转向他，满脸期待。「她学得很好。终于到时候了。」",
+      "quote": "“I love you, Beck. But now I have to go away.” … “I expect so. But you may not recognize me. I will give you a kiss!”",
+      "line": 43,
+      "lines": "39-51",
+      "anchor": "“Oliver sent us a message. He says it’s time"
+    },
+    {
+      "fact": "「祝你好运，我亲爱的 Isadora。注意安全。我爱你。」Isadora 挥手告别。Beck 接上电缆，片刻之后她不见了。全章收在四个字：「我做了什么。」",
+      "quote": "“Good luck, my darling Isadora. Be safe. I love you.” … Isadora waves goodbye. I connect the cable, and a moment later, she’s gone. … What have I done.",
+      "line": 56,
+      "lines": "56-64",
+      "anchor": "“Good luck, my darling Isadora. Be safe."
+    }
+  ],
+  "turning_point_note": "短章的转折点就是「最后一根线接上、Isadora 消失」这个动作（第 5 条，`:60`），已进单；另一处必须保留的是**委托链条的归属**：命令来自 Oliver，但由 Alba 用她的字迹转写成信（`:24`），Beck 是被要求执行的人——三者不能混。且 Beck 的动机是「我还没准备好 / 但早就不该拖了」（`:29`），不是「他想放她走」。"
+}

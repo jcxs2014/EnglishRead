@@ -1,0 +1,65 @@
+{
+  "chapter": "ch06",
+  "text_file": "text/ch06_rosehill.txt",
+  "read_before_md": true,
+  "header": "Thursday, September 7, 2023 (Alba is 42, Lucinda is 16)",
+  "facts": [
+    {
+      "n": 1,
+      "fact": "抬头日期 2023-09-07 星期四，括号里写 Alba is 42, Lucinda is 16；明天是 Lucinda 的出庭日，Celia 将正式收养她。今天下午 Celia 临时有紧急寄养安置，Mama 与「现在的我」在 Celia 和 Lucinda 家做饭布置，所以本该在 2044 年 5 月雨夜陪 Zach、Rosa 打拼字游戏的 Alba 在此陪 Lucinda 跑最后的差事。",
+      "quote": "Tomorrow is Lucinda’s court date, the long-awaited day when Celia can finally adopt her.",
+      "line": 23,
+      "anchor": "…2023 (Alba is 42, Lucinda is 16) ／ Alba: "
+    },
+    {
+      "n": 2,
+      "fact": "Alba 在 Edgewater 的干洗店里等 Lucinda 从试衣帘后出来；Lucinda 一向比同龄人高，最近又蹿个儿，现在 5'10\"，臀部也丰满了些，裙子因此要改。Alba 看着 16 岁的她，想到她 2044 年的未来自我，庆幸她现在还是个没长成的孩子。",
+      "quote": "I’m standing in a dry cleaner’s shop in Edgewater, waiting for Lucinda to emerge from behind the changing room curtain wearing the dress she’s chosen for her party tomorrow night.",
+      "line": 25,
+      "anchor": "…here instead, accompanying Lucinda as she runs a few last-minute errands."
+    },
+    {
+      "n": 3,
+      "fact": "Lucinda 提议别回家（回去只会被抓去做事），改去 Rosehill；两人在街角店买冰淇淋——Lucinda 要黄油山核桃，Alba 要薄荷巧克力豆——沿 Bryn Mawr 大道往西走。Lucinda 对出庭发怵，说「法庭只是又一个我对自己人生说不上话的地方」。",
+      "quote": "We buy ice cream cones at the shop on the corner—butter pecan for Lucinda, mint chocolate chip for me—and we walk west on",
+      "line": 53,
+      "anchor": "…there’s no breeze at all. ／ Lucinda points out, correctly. “Let’s go to Rosehill.”"
+    },
+    {
+      "n": 4,
+      "fact": "Lucinda 不打算改姓：Celia 问过她要不要改成 Celia 的姓，她希望 Celia 别介意她保留 Flowers；理由是她除了这个姓几乎没留下父母的东西。Alba 说 Celia 自己也是寄养儿童，是「熬出系统」（aged out）的，没有别的家人，所以能理解。",
+      "quote": "“Celia asked if I wanted to change my last name to hers. I hope she doesn’t mind too much that I’m keeping my name?”",
+      "line": 71,
+      "anchor": "…this just makes it official.” ／ “She understands. Celia was a foster kid herself.”（75 行）“But she aged out of the system.”（79 行）"
+    },
+    {
+      "n": 5,
+      "fact": "两人进 Rosehill 公墓（英式哥特式大门，占地 350 英亩），走到消防员纪念碑以北的 Flowers 家双人平墓碑前：Jasmine 3-8-1976—2-10-2014，Malcolm 11-2-1976—2-10-2014（同一天去世）。",
+      "quote": "Rosehill is huge, 350 acres",
+      "line": 98,
+      "anchor": "…Her parents are buried in an open area just north of the Firefighters Memorial."
+    },
+    {
+      "n": 6,
+      "fact": "墓碑前 Alba 回忆：她曾在 2013 年、两人死前约半年时间旅行去见 Lucinda 的父母并试图警告，当然没用——他们在去晚宴路上停车买酒，遇上持枪抢劫被杀。Lucinda 随后住到外婆（Jasmine 的母亲）家，一年后一场大概是瓦斯泄漏的火灾烧死了外婆和两个舅舅；Lucinda 那晚正好在同学家过第一次夜。父系无人能接手，她进了寄养系统，落到 Celia 手上。",
+      "quote": "I once managed to time travel to Lucinda’s parents, back in 2013, about six months before they died.",
+      "line": 122,
+      "anchor": "…standing at the flat, pink granite double-grave marker:"
+    },
+    {
+      "n": 7,
+      "fact": "Lucinda 让 Alba 再讲一遍她父母当年说了什么，Alba 答「我们非常爱她」；Lucinda 说自己的真实记忆大概都被手机视频替换了。她最爱的记忆是夜里坐后座、爸爸开车、父母牵手合唱；她一度想不起歌名，后来在杂货店听到，是《You're All I Need to Get By》。她唱了一段，然后扇着风，Alba 看出她在忍哭。",
+      "quote": "“‘We love her very much.’”",
+      "line": 131,
+      "anchor": "…“Tell me again what they said?” ／ 歌曲见 154–155 行：“It turned out to be ‘You’re All I Need to Get By.’ ”"
+    },
+    {
+      "n": 8,
+      "fact": "Lucinda 说这里太阳下太热，也许该在他们坟上种棵小树；又提起 Alba 曾告诉她，将来这片公墓会变成森林。两人回 Balmoral 街 Celia 与 Lucinda 的家，屋里已挤满人，Charisse 做了柠檬水。Lucinda 一直安静地看着大家、微微皱眉，然后对 Alba 说「别担心，一切都好」——末句：她不安慰我，我本来不疑心。",
+      "quote": "I didn’t doubt her until she reassured me.",
+      "line": 186,
+      "anchor": "…“Sure.” ／ 上文 174 行：““Don’t worry, Alba. It’s all good.””"
+    }
+  ],
+  "turning_point_check": "本章的转折点（Lucinda 在坟前的忍哭与回家后那句「Don’t worry, Alba. It’s all good.」——安抚反而让 Alba 起疑，末句点破）已进第 7、8 条，无需补条。"
+}

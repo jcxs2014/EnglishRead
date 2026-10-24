@@ -1,0 +1,57 @@
+{
+  "chapter": "ch61",
+  "source": "text/ch61_a_lady_in_a_burnt_garden.txt",
+  "method": "R1 素读：只读 text/ch61_a_lady_in_a_burnt_garden.txt（31 行），未打开 md。Alba 第一人称；2065-05-01；Alba 40 岁（抬头如此）。全章为到达黄房子废墟的单场静景。",
+  "facts": [
+    {
+      "fact": "抬头：2065 年 5 月 1 日星期五（Alba 40 岁）。",
+      "quote": "Friday, May 1, 2065 (Alba is 40)",
+      "line": 18,
+      "lines": "18-18",
+      "anchor": "Friday, May 1, 2065 (Alba is 40)"
+    },
+    {
+      "fact": "Alba 不知道自己何时到达、起初也不知身在何处：她在后院，但房子没了——她的黄房子烧毁了。她赤身裸体站在废墟旁：焦木、焦布、玻璃与金属物的零星反光，一只碗、一个钟。",
+      "quote": "I don’t know when or at first where I am. I’m in the backyard, but there is no house; the house is gone, my Yellow House, it’s burned down, and I am standing naked by the wreck of it, charred wood and cloth and odd glints of glass and metal things, a bowl, a clock;",
+      "line": 23,
+      "lines": "23-23",
+      "anchor": "I don’t know when or at first where I am."
+    },
+    {
+      "fact": "废墟清点：Oliver 的钢琴塌了，钢丝全松脱，象牙键熏黑，琴箱烧焦，外形几乎完整但琴腿没了；文件柜侧倒、抽屉全空；他们的床只剩弹簧床架（无床垫）；他们的书像一群受伤的黑鸟，她看着书页在风里碎裂、脱落。",
+      "quote": "here is Oliver’s piano, collapsed and all the wires sprung loose, the ivory blackened, the case charred, its shape almost intact but the legs gone; the filing cabinet lies on its side, drawers empty; here is our bed, no mattress, box springs sprung; here are our books, like so many injured black birds; I watch pages disintegrate and detach in the wind.",
+      "line": 23,
+      "lines": "23-23",
+      "anchor": "here is Oliver’s piano, collapsed and all the wires sprung loose"
+    },
+    {
+      "fact": "房子不是只剩外壳，而是向内爆塌：烟囱倒了；厨房电器还保持着基本形状；那团黏糊糊的塑料是 Oliver 的玩具收藏；电视熔化了。砖、瓦、壁板、梁、灰泥、地板、墙、天花板全塌进焦黑的一堆，白灰床里还有红的余烬。原先是地下室的那个洞满是黑水，浮着半烧过、认不出的东西。「没人来救黄房子。」",
+      "quote": "The house is not even a shell, it has imploded—the chimney has fallen—the kitchen appliances have retained their basic shapes—that mess of glutinous plastic must be Oliver’s toy collection—the television has melted. … The hole that was the basement is full of black water and half burned, unrecognizable floating objects. No one came to save the Yellow House.",
+      "line": 24,
+      "lines": "24-24",
+      "anchor": "The house is not even a shell, it has imploded"
+    },
+    {
+      "fact": "火烧得无人打断——这里已经没人能看见它烧。整个街区都是废墟：原先拥挤在房子周围的树只剩高高的树桩剪影，立在这片毁坏之上，像围在坟旁的哀悼者。",
+      "quote": "It burned uninterrupted—no one is left here to see it. The whole neighborhood is in ruins. The trees that crowded around the house are tall stump silhouettes; they stand over the devastation like mourners around a grave.",
+      "line": 25,
+      "lines": "25-25",
+      "anchor": "It burned uninterrupted—no one is left here to see it."
+    },
+    {
+      "fact": "花园四周却全是绿的；天在下雨，而且雨开始下得更大。没有鸟。",
+      "quote": "All around the garden is green; it is raining, and now it starts to rain harder. No birds.",
+      "line": 25,
+      "lines": "25-25",
+      "anchor": "All around the garden is green; it is raining"
+    },
+    {
+      "fact": "音乐片段这儿那儿地飘着。雨碰到余烬发出嘶嘶声。她「直到它没了才知道自己爱黄房子」。这么多丧失。她跪在草里，等着自己消失（即等待穿越离开）。",
+      "quote": "Fragments of music here and there. The rain makes a hissing sound as it touches the embers. I didn’t know I loved the Yellow House until it was gone. So much loss. I kneel in the grass and wait to disappear.",
+      "line": 30,
+      "lines": "30-31",
+      "anchor": "Fragments of music here and there."
+    }
+  ],
+  "turning_point_check": "本章无情节推进，唯一「动作性」的转折是结尾 Alba 跪在草里等自己消失（第 31 行，穿越即将发生）——已进第 7 条。另：烧毁发生在她不在场的未来（「没人来救」「没人能看见它烧」），这一点是本章信息核心，已并入第 4、5 条。"
+}

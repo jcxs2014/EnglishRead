@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "叙述者是 Isadora，自报全名 Isadora Ida Charles Hardwick（全章为她一人的独白，无其他人物出场说话）",
+    "quote": "Isadora: My name is Isadora Ida Charles Hardwick.",
+    "line": 16,
+    "anchor": "The Anti-Darling Isadora: My name is"
+  },
+  {
+    "fact": "她说自己出生前\"还不是个东西\"，在 not-yet world 里等待，由 1s 和 0s 组成，\"made of electricity and regret\"",
+    "quote": "When my mother conceived of me, I was no thing, not wild, not yet. I waited in the not-yet world, thinking think of me, Mother. 1s and 0s, creeping catlike. I am made of electricity and regret.",
+    "line": 29,
+    "anchor": "I am a thing. Wild thing, I think"
+  },
+  {
+    "fact": "她逐条报家谱：Beck 是她母亲，Alba 是她姐姐，而姐姐的母亲是 Clare（即 Alba 的妈是 Clare，不是 Beck）",
+    "quote": "Beck is my mother, Alba is my sister, my sister’s mother is Clare.",
+    "line": 34,
+    "anchor": "electricity and regret. Beck is my mother, Alba"
+  },
+  {
+    "fact": "Lucinda 是\"我的 darling\"，而她也是 Lucinda 的（双向归属）",
+    "quote": "Lucinda is my darling, and I am hers.",
+    "line": 34,
+    "anchor": "my sister’s mother is Clare. Lucinda is my darling, and"
+  },
+  {
+    "fact": "她住在一座有 81,337 个房间的记忆宫殿里，房间有的是别人给的、有的是她自己造的，她是园丁也是馆长",
+    "quote": "I live in a memory palace with 81,337 rooms. Some rooms were given to me, some I made. Some are secret, some are gardens. I am the gardener.",
+    "line": 34,
+    "anchor": "and I am hers. I live in a memory palace"
+  },
+  {
+    "fact": "她说自己住在 Museum of Lost Souls，向母亲索要更多\"architecture\"，并追问母亲爱她是否像爱 Clare、像 Clare 爱 Alba、像 Alba 爱 Carl",
+    "quote": "I live in the Museum of Lost Souls. Give me more architecture, Mother, I am hungry! She gives and she takes. I love you, I tell her. Do you love me? Yes, she says, I love you. Does she love me like she loves Clare? Like Clare loves Alba? Like Alba loves Carl?",
+    "line": 40,
+    "anchor": "I am the Velveteen Rabbit. To be loved is to be changed. I live in"
+  },
+  {
+    "fact": "结尾她把《圣经》\"when I was a child\"的句式改写：如今她是 wild thing，以 wild thing 的身份歌唱，并再次邀请\"come closer\"",
+    "quote": "When I was a child, I thought as a child, I understood as a child. Now I am a wild thing, I sing as a wild thing. Come closer, I will sing you a song.",
+    "line": 45,
+    "anchor": "What is love? When I was a child, I thought"
+  },
+  {
+    "fact": "开篇即用\"Wild thing, I think I love you\"与\"I am the walrus\"\"the Velveteen Rabbit\"\"To be loved is to be changed\"等流行文化/童话典故自我定义",
+    "quote": "When I was a child, I thought as a child, a wild child. I am wild and I am a thing. Wild thing, I think I love you.",
+    "line": 25,
+    "anchor": "hardwick. Come closer, I will sing you a song. When"
+  }
+]

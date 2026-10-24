@@ -1,0 +1,58 @@
+{
+  "chapter": "ch46",
+  "source": "text/ch46_the_drowned_hotel.txt",
+  "method": "只读 text/ 素读，未开 md；本章两段：2041-10-30/31（Oliver 13，抵伦敦）与 2041-10-31 / 2041-10-29 / 2055-07-02（Oliver 13 与 26，时间旅行插段），均 Oliver 叙述",
+  "facts": [
+    {
+      "fact": "第一段抬头：2041 年 10 月 30 日（周三）与 10 月 31 日（周四），Oliver 13 岁。飞机降落时 Isadora 摇醒他；两人最先下机，坐小车到关口。Isadora 把书袋交给他，说不能再往前送了：「没人看见你跟我在一起对你更好，他们会问太多问题。最好也别跟你叔叔提起我。」又说「你永远在我的保护之下」，然后推他一把，等他走到关口回头看，她已消失。",
+      "quote": "“Okay, Oliver. I can’t come any further with you. It will be better for you if no one sees you with me. They will ask too many questions. It might be best if you don’t mention me to your uncle, either.”",
+      "line": 28
+    },
+    {
+      "fact": "入境：官员给他难看的脸色，量体温、擦鼻咽拭子，确认没病才勉强放行。到达大厅有几百人、举牌、拿铝膜气球；他找不到叔叔。一个满脸雀斑、金发、穿西装外套的男人举着牌子冲过来，说的他听不懂，最后他才明白那是在念他的新名字；男人带他走到停车场就离开，他的心跳得厉害。",
+      "quote": "Finally, I realize that he is saying my new name.",
+      "line": 53
+    },
+    {
+      "fact": "天黑时一辆深色车窗的黑车开过来，雀斑男人把背包放进后备箱、开门——后座坐着 Stephen 叔叔。叔叔长得像父亲但更年轻，只用嘴笑；用他的**真名**称呼他，并说司机听不懂普通话。他这才明白雀斑男人是司机，且是真人开车——他第一次坐人开的车，很不安。",
+      "quote": "He looks very much like my father, but younger. He smiles with his mouth only. I greet him deferentially. He calls me by my real name",
+      "line": 63
+    },
+    {
+      "fact": "车上对话：叔叔说时差每差一小时要一天恢复，明天去老师家、看看城市、晒太阳能重置生物钟。这番话让 Oliver 警觉——他现在明白 Isadora 为什么想让他昏睡：深睡的 delta 脑波会降低时间旅行的可能。叔叔随即泼冷水：「就算是我，也没法把一个毫无技能的人弄进皇家学院。你得苦读六个月再试奏；进不去我再给你想别的。」语气像他已经失败。",
+      "quote": "“Even I cannot get you into the Royal Academy with no skills whatsoever. You are going to have to cram for six months, and then audition. If you don’t get in, I’ll think of something else for you to do.”",
+      "line": 85
+    },
+    {
+      "fact": "叔叔问他擅长什么，他答「电子游戏。数学？」叔叔说「像你父亲」，又问父母近况——Oliver 背出母亲让他反复排练的那段感谢话，叔叔语气转软：「他们把你送到我这儿，一定是走投无路了。」随后叔叔讲自己：三十三岁来英国，那时 Oliver 八个月大；来是因为「我可以」——「我们的父亲是英国人」；他是「那个黑孩子、多出来的那个」，父母交不起两个孩子的罚款所以他没有户口，于是让他生在英国，至少有一本英国护照。",
+      "quote": "“I was thirty-three. You were eight months old. I came here because I could. Our father was British.” … “I was the black child, the extra.”",
+      "line": 115
+    },
+    {
+      "fact": "住处是河边一家旅馆：河水已近岸顶，看得出刚发过大水，旅馆有潮气；入住时两个男人正在重刷大堂里一道齐膝高的水线。他们住七楼（英国算八层）；电梯里不吉利的楼层也有按钮。房间很小，一张大床占了大半，他担心自己睡哪儿；晚饭在旅馆餐厅吃意大利肉丸面；回房问睡处，叔叔意外，说可以再开一间，他不想麻烦、也不想让叔叔多花钱，就说同睡一张床没关系——叔叔似乎因被质疑而不快。",
+      "quote": "The hotel smells of damp. When we check in, two men are repainting a wall in the lobby that has a knee-high flood line.",
+      "line": 143
+    },
+    {
+      "fact": "第二段抬头：2041 年 10 月 31 日、2041 年 10 月 29 日、2055 年 7 月 2 日（Oliver 13 岁与 26 岁）。夜里他醒来，叔叔的手搭在他大腿上、不动，人贴得很近，呼吸喷在他颈上，像是睡着了。他惊慌，头痛加剧、视线模糊，随即时间旅行：先落在河边野地的夜里，把肉丸面吐在裸土上，有人喊「Oi!」；再一跳到一栋陌生砖房后杂草丛生的院子，清晨有露水，「感觉像是未来」。",
+      "quote": "Someone is touching my leg. … My uncle’s hand is on my thigh—not moving—and he is very close to me in the bed, so close that I can feel the warmth of his body, his breath on my neck.",
+      "line": 180
+    },
+    {
+      "fact": "院子里走出一个赤脚、穿牛仔裤与黑 T 恤的男人，用普通话说「Yang Qing，过来，没事的」——他认出那是年长的自己（他几乎没见过成年的自己）。对方把带来的衣服给他（太大，应是自己的），说「你看起来糟透了」，然后抱住他——他从不抱自己——他哭了出来。年长的自己说：「会好起来的。这是最低点，之后会好。」「我想回家。」「这里就是家，在未来。」并说这是 2055 年的伦敦，屋里有个他现在还不该见的人（不是他以为的女友或妻子）：那人该在真实时间里见。",
+      "quote": "“It’s going to be all right,” he says. “This is the low point. It will get better.”",
+      "line": 200
+    },
+    {
+      "fact": "年长的自己交代回去后怎么做：回到自己的现在，装作什么都没发生，穿好衣服坐在窗边等他醒，就说自己醒了睡不着。问到父母是否知道叔叔的事，他答不知道，「他们走投无路了，没有别人能把你弄出来。但他不想你在身边，就像你也不想靠近他一样。你很少会见到他。」最后一句：「你会没事的。相信你的老师，用功读书。有人爱你。」",
+      "quote": "“When you get back to your present, pretend nothing happened. Put your clothes on, sit by the window, wait for him to wake up. Say you woke up and couldn’t get back to sleep.”",
+      "line": 233
+    },
+    {
+      "fact": "他正要问 Isadora 是谁、那句「你在我的保护之下」是什么意思，却已经回到旅馆浴室，跪在冷瓷砖上干呕。他洗脸、探头看房间：叔叔睡在自己那半边。他穿好衣服，在窗边等天亮。",
+      "quote": "I am about to ask him who Isadora is, and what she meant when she said that I am under her protection?—but I am gone, back to the hotel bathroom, kneeling on the cold tile floor, dry heaving.",
+      "line": 255
+    }
+  ],
+  "turning_point_note": "本章转折是双重的一击：夜里叔叔的手搭上他的腿（第 6 条），逼出他第一次失控的时间旅行；而在 2055 年的院子里，成年后的自己抱住他、说「这是最低点，之后会好」（第 7 条）——这一夜因此既是坠落点，也是他此后活下去的依据。两条都已进素读。"
+}

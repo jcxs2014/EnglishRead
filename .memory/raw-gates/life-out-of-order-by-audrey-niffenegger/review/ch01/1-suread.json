@@ -1,0 +1,58 @@
+{
+  "chapter": "ch01",
+  "source": "text/ch01_the_last_party.txt",
+  "method": "只读 text/ 素读，未开 md；长章（14623 词）取 9 条主干",
+  "facts": [
+    {
+      "fact": "时间抬头逐字：2022 年 12 月 26 日（周一）与 27 日（周二）；Alba 21 岁、29 岁、47 岁三个版本同场；Zach 22 岁。",
+      "quote": "Monday, December 26, 2022, and Tuesday, December 27, 2022 (Alba is 21, 29, and 47, Zach is 22)",
+      "line": 18
+    },
+    {
+      "fact": "Boxing Day：Alba 躲在自己房间床上，怕告诉 Mama 她不想回西北大学；她已无法面对提琴——祖父传下的 Guarneri del Gesù，连碰都不想碰；靠读小说度日（安娜·卡列尼娜、米德尔马契、大师与玛格丽特）。",
+      "quote": "I’m afraid to tell Mama that I don’t want to go back to Northwestern.",
+      "line": 23
+    },
+    {
+      "fact": "Nadia Kendrick 发短信把她拽出门，先回自己 Lake Shore Drive 的公寓给她改头换面，再去 East Rogers Park 的 Nick 与 Caralora Lamont 家参加 Boxing Day 派对；芝加哥戒严未解，宵禁十点到六点，必须一小时内进屋。",
+      "quote": "Martial law still hasn’t been lifted in Chicago, and curfew is in effect from ten to six—we need to be indoors in an hour.",
+      "line": 104
+    },
+    {
+      "fact": "Junior Olson 是 Nadia 名义上的男友，也是「今晚行动的对象」；他把坐在圣诞树后、几乎看不见的 Zach 叫来，把 Alba 推给他跳舞，报出全名 Zachary Purcell。",
+      "quote": "Junior Olson, Nadia’s ostensible boyfriend and the object of this evening’s operation, is holding court from the sofa",
+      "line": 184
+    },
+    {
+      "fact": "Zach 自述：塔尔萨人，父母都是建筑师、正离婚，U of C 读英语/创意写作，兼职侍者；烧掉了自己写的自传体小说；两个妹妹 RaeAnn 17 岁、Suellen 13 岁。",
+      "quote": "It was kind of autobiographical. About my fucked-up childhood.",
+      "line": 429
+    },
+    {
+      "fact": "Alba 对 Zach 说父亲在她五岁时死了——2006 年跨 2007 年的新年前夜刚过午夜中枪；父亲是 Newberry Library 的图书馆员，爱做饭、玩朋克、译诗。她习惯不告诉新认识的人自己会时间旅行。",
+      "quote": "He got shot. On New Year’s Eve. It was 2006 turning into 2007. I think it was just after midnight.",
+      "line": 698
+    },
+    {
+      "fact": "Zach 从 Nadia 处已知道「Chrono-Displacement Disorder」，并知道 Nadia 是发现时间旅行基因的 Kendrick 医生的女儿；Alba 说除了父亲她只见过一个时间旅行者。",
+      "quote": "“Did I mishear or is her last name Kendrick?” asks Zach. “Like the doctor who first discovered time-travel genes?”",
+      "line": 877
+    },
+    {
+      "fact": "楼上小房间：16 岁的 Lucinda Flowers 被 Max 用 tramadol 弄睡（怕她看见今晚的事）；来自 2031 年 7 月 13 日的「年长 Alba」在场，告诉 Zach 他左前臂将来会刺上「There’s no place like home」，并要他「现在、今晚」就选。",
+      "quote": "“July 13, 2031. It’s nice to visit winter—the day I left was so hot my brain was melting.”",
+      "line": 1314
+    },
+    {
+      "fact": "行动真相：Nadia 在 Hyde Park 示威中被从背后抓，用标语牌打了一名警察，对方一周前死于脑出血，她并不知情；Zach 的任务是把她送到 Miller Beach 藏起来。凌晨 5:34–5:55，白衣人把五名被深度镇静的男人（Junior、Buddy、Art、Rick、Terry）裹进白布抬走，用的是「Streets and San」的白色厢车。",
+      "quote": "Hyde Park demo—she hit a policeman with her sign when he grabbed her from behind. He died of brain hemorrhage a week ago.",
+      "line": 1711
+    },
+    {
+      "fact": "收尾：Zach 开 1957 Nash Ambassador 送 Nadia 与 Alba 回家；Nadia 耳语「I love you」道别；Mama 与 Beck 熬夜晚睡等她，她意识到两周后春季学期开学，决定还是回去——「只为有件事可做、有个地方可躲」。",
+      "quote": "It seemed impossible last night, but this morning I know I will go back just to have something to do, a place to hide.",
+      "line": 2116
+    }
+  ],
+  "turning_point_note": "本章转折点是「今晚到底是什么行动」的揭底——Nadia 用标语牌打死警察、Zach 是来带她走的（另加「47 岁的 Alba 也在场」这层）。已进素读第 8、9 条，未另补。"
+}

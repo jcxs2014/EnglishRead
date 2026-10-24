@@ -1,0 +1,65 @@
+{
+  "chapter": "ch07",
+  "text_file": "text/ch07_mayday.txt",
+  "read_before_md": true,
+  "header": "Wednesday, May 1, 2024 (Alba is 22, Zach is 23)",
+  "facts": [
+    {
+      "n": 1,
+      "fact": "2024 年 5 月 1 日星期三，抬头 Alba is 22, Zach is 23。Gomez 与 Charisse 每年为第 50 选区办大型五一派对；今年 Charisse 的母亲上周摔断髋骨，Charisse、Max、Joe、Rosa 去了马尼拉，其余人顶上。Alba、Caralora、Lucinda、Zach、Gomez 与选区工作人员忙一天（摆椅、搬饮食、清垃圾、捡纸屑），散场后五人沿小巷走向 Gomolinski 家。",
+      "quote": "But last week Charisse’s mom fell and broke her hip, and Charisse, Max, Joe and Rosa have gone to Manila to help her out, leaving the rest of us scrambling.",
+      "line": 23,
+      "anchor": "…usually throw a massive May Day party for the 50th Ward in the park down the street from their house, with live music…（24 行接“spent the day setting up folding chairs, shlepping food and drink…”）"
+    },
+    {
+      "n": 2,
+      "fact": "Alba 邀 Caralora 留下吃晚饭喝啤酒，她婉拒：今晚要开车回 Ann Arbor，因为周三要搬进新住处、还没打包完；她本来没打算来，是 Gomez 一声「全员出动」她放下一切赶来的。",
+      "quote": "“I would love to, but I should hit the road. I’m driving back to Ann Arbor tonight.”",
+      "line": 50,
+      "anchor": "…Caralora hesitates, but declines."
+    },
+    {
+      "n": 3,
+      "fact": "在后门口 Caralora 说新住处不是独居：与一个叫 Bette 的女人合住——Bette 处境很糟，带一个小孩、又怀了一个，丈夫跑了，在读 premed，没人帮就念不完；两人「算是」在谈恋爱。Caralora 说 Bette 不是她的 soulmate，「但 Bette 快淹死了……我大概只是寂寞」。",
+      "quote": "“Her name is Bette. She’s in a bad situation, and I needed to move, so we’re helping each other out. She has a young kid, and another on the way; her husband left her. She’s premed, and there’s no way she’s going to finish school without some help.",
+      "line": 79,
+      "anchor": "…“Actually,” she says, “I’m moving in with someone.”／89 行：“She’s not my soulmate, but Bette is drowning and . . . I dunno, I guess I’m lonely.”"
+    },
+    {
+      "n": 4,
+      "fact": "Alba 追问她凭什么断定 Bette 不是 soulmate，Caralora 说「年长很多的 Alba」告诉过她大概在等谁、那人何时出现、为和她过上正常日子要吃哪些苦；原话近似「去过你的日子，但 2041 年要空着」。Alba 算出那是十八年后，并对年长的自己强烈不满。",
+      "quote": "“You basically said, go ahead and live your life, but be available in 2041.”",
+      "line": 109,
+      "anchor": "…A much older Alba told me more or less who I’m waiting for, when this person will arrive／113 行：““That’s eighteen years from now.” I feel intense disapproval of my older self.”"
+    },
+    {
+      "n": 5,
+      "fact": "厨房吃披萨：Lucinda（17 岁）向 Gomez 讨啤酒被拒，Zach 让她抿一口，她做嫌弃表情。她打听 Caralora 是否有了新女友、「带福利的室友」；Zach 问「她对你是不是太大了」，Lucinda 答「只差五岁」；她已摘掉牙套。随后 Gomez 说 Lucinda「继承」了 Bony Tony——八十多岁、枯瘦、穿旧西装的选区会议常客，专黏最年轻漂亮的女性、无害献殷勤；Gomez 说他从前开车载 Rosa 绕「The Bend」。",
+      "quote": "“I thought you were seventeen now?” he says.",
+      "line": 196,
+      "anchor": "…“Till Lucinda’s old enough to become a barfly,” I say.／215 行：“You got your braces off?”／202 行：“Bony Tony is in his eighties.”／207 行：“He used to drive Rosa Around. The. Bend.”"
+    },
+    {
+      "n": 6,
+      "fact": "Celia 接走 Lucinda 后，Gomez 向 Alba 要「来源／出处」：他手里一张圆珠笔便条，是与气候变化相关的日期与事件清单。Alba 拒绝，讲出 11 岁与 Rosa 争吵时说了「不可反驳因为是真的」的话、被 Gomez 听见、后来他追问她就说了，此后她立了更严的规矩（「你让我变得谨慎」）。Gomez 说次日要见 Extinction Rebellion 的人、请她到场，她一口回绝（「别犯蠢，Gomez」），理由是公布清单只会让人认定「反正完了」而放弃改变；她说那单子只是「答案，没有步骤」，并指 Gomez 只想显得重要。Zach 觉得自己像小孩看父母吵架，起身出门坐进车里。",
+      "quote": "“That is a list of dates and events connected with climate change.”",
+      "line": 299,
+      "anchor": "…She waves her hand at the manila file folder, lying closed on the table between us／312 行：““All of it has happened,” Alba says. “We can’t change it.””／340 行：“That list is just the answers, without the steps.”"
+    },
+    {
+      "n": 7,
+      "fact": "Gomez 出来敲车窗，说 Alba 让他来道歉但他不确定为什么。他问 Zach 为何与父母断联，自述：法官问时他选了爸爸，直到 23 岁、母亲死前一周才再见到她；母亲是「wild child」「beautiful and bonkers」，后来成了 Deadhead，巡演时从各地寄明信片，死于他读法学院期间、认识 Charisse 之前；父母生下他时都 17 岁，7 岁分开。他说 Charisse 是他的「外骨骼」，Henry 死后他们替 Alba 和 Clare 顶上，「Alba 像我们的女儿」。Zach 说想要孩子，Gomez 沉默后告知：Alba 的母亲因时间旅行多次流产、大量失血、几度濒死；母女认定 Alba 怀孕风险太大，Alba 十六岁做了输卵管结扎。Zach 感到空、受伤：她本该自己告诉他。",
+      "quote": "“When they asked me, I picked my dad. I didn’t see my mom again till I was twenty-three, a week before she died.”",
+      "line": 412,
+      "anchor": "…“Yeah, well,” Gomez says.／439 行：“Alba had a tubal ligation when she was sixteen.”"
+    },
+    {
+      "n": 8,
+      "fact": "夜里两人在 Joe 的旧床上，Alba 追问 Gomez 说了什么；她先替他说破「他已经告诉你我不能生孩子了吧」，解释母亲从不敢让她单独和父亲在一起、怕他看着她时消失；就算她能平安生下孩子，她也会怕承担。她说 Zach 会是个好爸爸。Zach 问为何不早说，Alba 答「因为我是胆小鬼」，她想象过这场对话很多次、每次都以分手收场，十六岁时那不算难的决定，现在她也许会选得不一样。Zach 说不是分手理由，但「它改变了一切」；两人互说我爱你后相拥入睡。",
+      "quote": "“Gomez already told you, didn’t he? That I can’t have children?”",
+      "line": 528,
+      "anchor": "…“Oh. Right.” Alba closes her eyes for a few moments.／572 行：““No. No, but it changes everything. What I imagined my life would be. How we would live.””"
+    }
+  ],
+  "turning_point_check": "本章转折点两处：Gomez 亮出气候清单被 Alba 拒绝（第 6 条）、结尾 Alba 承认十六岁结扎而 Zach 说「它改变了一切」（第 7–8 条）；都已进条目，无需补。"
+}

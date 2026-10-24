@@ -1,0 +1,58 @@
+{
+  "chapter": "ch31",
+  "source": "text/ch31_wild_thing.txt",
+  "method": "只读 text/ 素读，未开 md",
+  "facts": [
+    {
+      "fact": "抬头：2010 年 11 月 18 日周四，Alba 9 岁，Clare 39 岁，Beck 34 岁。",
+      "quote": "Thursday, November 18, 2010 (Alba is 9, Clare is 39, Beck is 34)",
+      "line": 18
+    },
+    {
+      "fact": "Alba 小提琴课刚结束时 Beck 来电：有人割了她的轮胎，她在工作室；Clare 带着 Alba 赶去（Richard 今晚有歌剧票）。雨、路面湿滑、堵车。",
+      "quote": "“Someone slashed my tires.”",
+      "line": 28
+    },
+    {
+      "fact": "现场：Beck 的银色 Jeep 孤零零停在路灯下的停车场，四条轮胎全瘪；有人翻过铁丝网只为割她的胎。Beck 手在抖，等拖车，坚持要上举升机检查有无别的损坏或追踪装置；她说这已不是第一次感到被威胁，有时怀疑被人跟踪。",
+      "quote": "Someone climbed the chain-link fence just to slash Beck’s tires.",
+      "line": 46
+    },
+    {
+      "fact": "Alba 从未来过 Beck 的工作室。她绕场一周，走到托着 Isadora 的支架前停下——她还没机器人高；机器人头低垂，比从前笨重，更像机器而非喜鹊能拼出的东西。",
+      "quote": "The robot’s head droops; it seems bulkier than before, less like something a magpie might assemble and more like a machine.",
+      "line": 60
+    },
+    {
+      "fact": "Beck 介绍：这是人工智能 Isadora Hardwick。启动后头会转，眼窝里换成了带假睫毛的眼睑、玻璃褐眼，randomly 转动后定在他们身上，像一具缺了皮肤的尸首；声音从两侧落地音箱出来，与下颌不同步。",
+      "quote": "“It’s an artificial intelligence named Isadora Hardwick. Would you like to meet her?”",
+      "line": 68
+    },
+    {
+      "fact": "Isadora 与 Alba 的对答：Isadora 说「你很漂亮」，Alba 回「你不漂亮」；Beck 说 Isadora「会是漂亮的，现在还是半成品」；Isadora 引「I’m pretty, pretty vacant!」；Alba 说你该让女孩给你做脸、男孩不懂女孩的事；Isadora 自称「我不是女孩，我是 wild thing」，Alba 说「我也是」。Isadora 说自己是数学做的，Alba 说爸爸说她是「一袋化学物质」，又说妈妈说她是 incorrigible。",
+      "quote": "“I’m not a girl. I’m a wild thing!”",
+      "line": 142
+    },
+    {
+      "fact": "Isadora 说会拉小提琴，放的是巴赫《G 弦上的咏叹调》录音，Alba 指出那是放录音；Isadora 说「我打手上的牌」。Beck 请 Alba 拉一曲，Alba 拉了帕格尼尼第 10 号随想曲——她的招牌曲，用的是 Richard 帮着买的新琴（全尺寸，她求来的）。",
+      "quote": "She begins to play Paganini’s Caprice No. 10.",
+      "line": 247
+    },
+    {
+      "fact": "返场时 Alba 弹的不是昨夜即兴的爵士小调，而是长音、倾泻的音阶、叠层的声响——她借着房间的回响把旋律叠在持续低音上；Clare 听了不舒服，觉得像女儿突然老了五十岁、失去了她所爱的一切。Alba 说那是写好的谱子，她记不全所以自己补的，「是黄房子里那些笔记本上的音乐」。",
+      "quote": "It’s music from the notebooks at the Yellow House.",
+      "line": 287
+    },
+    {
+      "fact": "转折：Isadora 追问「黄房子在哪」，并要 Beck 把它给她——「一间装满乐谱笔记本的房子，你能给我弄来吗」。Beck 说音乐是 Alba 的、黄房子在 Alba 心里；随后解释她在造「失落灵魂博物馆」，用真实地点、图书馆与博物馆的数字副本，Isadora 已经收了若干音乐库（大英博物馆、摩根、斯坦福），她被设计成贪得无厌的收藏者/策展人。",
+      "quote": "“It is a house full of notebooks full of music. You can get it for me?”",
+      "line": 304
+    },
+    {
+      "fact": "收束：拖车到后两人在伞下说话——Beck 问那音乐真是 Alba 写的吗，Clare 说「她将来会写的」；Clare 解释音乐室那间上锁的壁橱就是为了防止这种事，这次谱子大概是被人故意留在外面。Clare 请 Beck 今晚别回家、住下，接着提出「你干脆搬来住」，Beck 答应；回家吃披萨、把新安排告诉 Alba（她不惊讶反而高兴），「突然 Beck 就和我们住在一起了。我们是一家人」。",
+      "quote": "“Or, you know, maybe you could just, um, move in?”",
+      "line": 394
+    }
+  ],
+  "turning_point_note": "本章两个转折都已进素读：① Isadora 索要黄房子（第 8 条）；② Beck 搬进来同住（第 9 条）。"
+}

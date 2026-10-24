@@ -1,0 +1,81 @@
+{
+  "chapter": "ch13",
+  "title": "Coming Attractions",
+  "source": "text/ch13_coming_attractions.txt",
+  "suread_note": "只读 text/ 完成，未打开该章 md。",
+  "facts": [
+    {
+      "fact": "双时间线抬头：1964 年 11 月 19 日（Alba 24 岁、Oliver 36 岁）与 2025 年 12 月 28 日（Alba 24 岁、Zach 25 岁）。",
+      "quote": "Thursday, November 19, 1964 (Alba is 24, Oliver is 36)",
+      "line": 18,
+      "anchor": "Thursday November 19 1964 Alba",
+      "quote2": "Sunday, December 28, 2025 (Alba is 24, Zach is 25)",
+      "line2": 560
+    },
+    {
+      "fact": "1964 年 Lyric Opera 外的出租车队：冷雨，所有人缩在大衣里，女人多穿皮草、男人多在抽烟；前面一对极老的夫妇（蓝狐皮披肩与羊绒大衣）耳朵大得离奇。",
+      "quote": "She has a blue fox stole; he is wearing a cashmere overcoat. They must be immensely old, they both have freakishly enormous ears.",
+      "line": 23,
+      "anchor": "She has a blue fox stole"
+    },
+    {
+      "fact": "一个裸体男人沿 Wacker Drive 跑来喊她的名字；她以为是多年未见的父亲，但此人不是父亲——是中国人、英国口音、及腰黑发；他跳进出租车喊“Please drive, go, go, go!”，两名男子在后面追。",
+      "quote": "This man is not my father. He is Chinese. He has a British accent and waist-length black hair.",
+      "line": 33,
+      "anchor": "This man is not my father",
+      "quote2": "“Please drive, go, go, go!”",
+      "line2": 28
+    },
+    {
+      "fact": "她由此想通那些男装的来历：1950 年代初起，黄房子某间卧室衣柜里不断出现男装；1960 年出现一张梳妆台，摆着刻 OTY 的袖扣、梳子、钱包、结婚戒指、JFK 竞选徽章、Old Spice、剃须刷与剃须皂、安全剃刀；手帕也绣字。Zach 不知道黄房子的存在。",
+      "quote": "The cuff links are monogrammed: OTY.",
+      "line": 54,
+      "anchor": "The cuff links are monogrammed OTY",
+      "quote2": "Zach doesn’t know about the Yellow House.",
+      "line2": 54
+    },
+    {
+      "fact": "到家后他上楼换衣，她倒两杯威士忌在 Chesterfield 沙发上等；他下楼时穿灰裤、白衬衫、赤脚、戴着婚戒、刚刮过胡子，身上有 Old Spice 味，俯身吻她；她问“Who are you?”，他答“Alba, I’m Oliver. Oliver Thornton-Yang.”，并说袖扣上的字母正好对上。",
+      "quote": "“Sorry! Right. Alba, I’m Oliver. Oliver Thornton-Yang.”",
+      "line": 93,
+      "anchor": "Sorry Right Alba I’m Oliver"
+    },
+    {
+      "fact": "Oliver 讲两人第一次见面：他 16 岁，2044 年 10 月 12 日，她 73 岁，在伦敦皇家音乐学院的钢琴比赛；他弹肖邦作品 25 之 12（海洋练习曲）；她在走廊凑近他耳边说“Yang Qing, come to the Yellow House on May 12, 1999.”，然后亲他脸颊走开。",
+      "quote": "“You said, ‘Yang Qing, come to the Yellow House on May 12, 1999.’ Then you kissed me on the cheek and walked away.",
+      "line": 308,
+      "anchor": "You said Yang Qing come to"
+    },
+    {
+      "fact": "Oliver 身世：父母是诗人，为“更好的世界”写“天气”（即气候变化）而入狱，在他 18 岁时死于狱中；他 13 岁被父母独自送到伦敦学琴；家在 Shanghai；中国禁止时间旅行，所以他起初怕她。",
+      "quote": "It happened a long time ago, Alba. When I was eighteen. But it meant I couldn’t go home.",
+      "line": 266,
+      "anchor": "It happened a long time ago",
+      "quote2": "Time travel is banned in China.",
+      "line2": 317
+    },
+    {
+      "fact": "Oliver 警告 Alba 对 Zach 的隐瞒：Zach 一生大部分困难将来自“信息不足”，因为 Alba 不告诉他需要知道的事；他说自己不主张她坦白，因为他“存在于 Zach 不知道的那块空间里”。",
+      "quote": "“Most of the difficulties in Zach’s life will stem from a lack of information. You won’t tell him things he needs to know.”",
+      "line": 478,
+      "anchor": "Most of the difficulties in Zach’s",
+      "quote2": "“I exist in the space he doesn’t know about.”",
+      "line2": 494
+    },
+    {
+      "fact": "2025-12-28 黎明 Alba 回家：Zach 裹着毯子在沙发上睡着、收音机开着；她答“1964”，谎称在 Lawrence 街的 Sears；Zach 吻她后尝出烟味，她编“员工餐室有人抽烟、捡了半包抽了一根”——叙述者称之为“关于 Oliver 的第一个谎”，并说这次撒谎是为保护自己而非保护 Zach。",
+      "quote": "“Yeah.” Here it is, the first lie about Oliver.",
+      "line": 612,
+      "anchor": "Yeah Here it is the first",
+      "quote2": "“Well, you know, the ’60s. I was in the employee lunchroom, people smoke in there.",
+      "line2": 612
+    },
+    {
+      "fact": "结尾：她想起父亲说过什么也改变不了（“everything has already happened, and we cannot ever change it”），自问“Has Oliver already happened to me?”；Zach 做她最爱的 French toast，窗外一对北美红雀落在喂食器上；她想“Tell him now”，最终“But I can’t tell him. It’s already too late.”",
+      "quote": "But I can’t tell him. It’s already too late.",
+      "line": 664,
+      "anchor": "But I can’t tell him It’s"
+    }
+  ],
+  "turning_point": "本章转折点已进：Oliver 在 1964 年凭空出现、Alba 第一次对 Zach 撒谎隐瞒他（line 612 “the first lie about Oliver”），并意识到 Oliver 可能已经“发生”在她生命里（line 648）——这是她婚姻里“他不知道的空间”正式成立的时刻。补一条未进 8 条的动作：她为他拉帕格尼尼第 16 号随想曲、一年没为家人以外的人演奏（line 538-543），可视为两人关系的第一道实证。"
+}

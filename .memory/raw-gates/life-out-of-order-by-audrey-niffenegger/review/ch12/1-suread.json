@@ -1,0 +1,98 @@
+{
+  "chapter": "ch12",
+  "title": "The Yellow House",
+  "source": "text/ch12_the_yellow_house.txt",
+  "suread_note": "只读 text/ 完成，未打开该章 md。",
+  "facts": [
+    {
+      "fact": "本章双时间线抬头：2034 年 5 月 2 日（Alba 32 岁）与 2007 年 2 月 27 日（Alba 5 岁，Clare 35 岁）。",
+      "quote": "Tuesday, May 2, 2034 (Alba is 32), and",
+      "line": 18,
+      "anchor": "Tuesday, May 2, 2034 (Alba",
+      "quote2": "Tuesday, February 27, 2007 (Alba is 5, Clare is 35)",
+      "line2": 21
+    },
+    {
+      "fact": "黄房子的位置与外观：芝加哥普通维多利亚式木屋，几乎就在 Ravenswood 高架线下方，Metra 铁轨在街对面，没有一处是直的。",
+      "quote": "It is almost underneath the Ravenswood El, and the Metra train tracks are across the street.",
+      "line": 26,
+      "anchor": "It is almost underneath the Ravenswood"
+    },
+    {
+      "fact": "房子来路：地址写在纸条上、毫无解释地订在父亲遗嘱里；母亲到市政厅查产权，发现 Alba 自 1947 年起就是房主。",
+      "quote": "When she looked up the deed at City Hall she found that I had been the owner of the Yellow House since 1947.",
+      "line": 46,
+      "line_end": 47,
+      "anchor": "When she looked up the deed"
+    },
+    {
+      "fact": "2007-02-27 母女进房：前门按铃无人应，后门未锁；厨房白红两色、镀铬像 1950 年代餐馆，桌上有一只写着 Welcome, Alba! 的蛋糕。",
+      "quote": "In the middle of the kitchen table was a cake, white icing with shaky red letters on top.",
+      "line": 77,
+      "anchor": "In the middle of the kitchen"
+    },
+    {
+      "fact": "括注交代蛋糕来历：Oliver 烤的蛋糕、Alba 抹的糖霜；两人喝醉，Oliver 坚持收拾干净以防明早人不在，还花十分钟把蛋糕摆正，凌晨三点才睡。",
+      "quote": "Oliver baked that cake and I frosted it. We were pretty drunk by the time the cake was done",
+      "line": 90,
+      "anchor": "Oliver baked that cake and I"
+    },
+    {
+      "fact": "Mama 对 5 岁的 Alba 说：这房子属于你，甚至在你出生前就属于你；又说也许未来的你有时会住在这里。",
+      "quote": "“This house belongs to you, Alba. It belonged to you even before you were born.”",
+      "line": 137,
+      "anchor": "This house belongs to you Alba"
+    },
+    {
+      "fact": "熊：Mama 先答应让带走又改口“留在这儿”，随后说“去爱他吧”，Alba 摇头没拿；熊叫 Other Teddy，成了她穿越回这房子的“门”，一次次救她免于迷失、受冻、赤身落在陌生处。",
+      "quote": "The bear’s name was Other Teddy. He became a kind of doorway into the house",
+      "line": 176,
+      "anchor": "The bear’s name was Other"
+    },
+    {
+      "fact": "最后一间卧室：提琴尺寸太大、走音但是好琴；衣柜门关着，门把上方装了一把吓人的大挂锁；Alba 说“那里面关着所有怪物”。",
+      "quote": "A large, ominous-looking padlock had been installed above the doorknob.",
+      "line": 190,
+      "anchor": "A large ominous-looking padlock had",
+      "quote2": "“That’s where they keep all the monsters,” I said.",
+      "line2": 195
+    },
+    {
+      "fact": "临走：Mama 让 Alba 留下点东西，Alba 留下树莓色厚羊毛手套、按她的便条摆好，Mama 把自己的皮手套给她；两人确保门都不上锁；Mama 报出日期 2007-02-27，事后 Alba 明白那是在给她“时间地标、导航坐标”。",
+      "quote": "Later I realized that Mama was trying to give me temporal landmarks, coordinates to navigate by.",
+      "line": 274,
+      "anchor": "Later I realized that Mama was",
+      "quote2": "I pulled off the mittens and carefully arranged them by her note",
+      "line2": 263
+    },
+    {
+      "fact": "第二场 2007-03-07（Alba 25 岁、Oliver 44 岁）：Alba 进厨房，Oliver 正在读母亲写给她的信，说“忍不住”；信里母亲问要不要照看房子，PS 问“另一间卧室里是谁的衣服？”",
+      "quote": "Wednesday, March 7, 2007 (Alba is 25, Oliver is 44)",
+      "line": 288,
+      "anchor": "Wednesday March 7 2007 Alba",
+      "quote2": "PS: Whose clothes are in the other bedroom?",
+      "line2": 299
+    },
+    {
+      "fact": "Alba 脱口说“读你自己的信”，随即捂嘴——Oliver 的父母在他还是少年时就死在中国了，没有父母给他写信；Oliver 说“我很嫉妒”。",
+      "quote": "Oliver has no parents to write letters to him; they died back in China, while he was still a teenager.",
+      "line": 298,
+      "anchor": "Oliver has no parents to write"
+    },
+    {
+      "fact": "Oliver 与 Alba 母亲唯一一次接触：在超市帮她把卡在一起的两辆购物车分开，她道谢后推车进店继续买东西；他说这是与她母亲“最复杂的互动”。",
+      "quote": "I once helped her disengage a grocery cart that was stuck together with another grocery cart.",
+      "line": 326,
+      "anchor": "I once helped her disengage"
+    },
+    {
+      "fact": "Oliver 说自己最终会见到她家人：从没见过她父亲，但和 Beck 相处不少时间；Alba 惊问“Beck？为什么？”，Oliver 答“你知道的。原因。”并说 Alba 有点把 Beck 当成理所当然。",
+      "quote": "I’ve never met your dad, but Beck and I spend a fair amount of time together.",
+      "line": 337,
+      "anchor": "I’ve never met your dad but",
+      "quote2": "You take Beck for granted a bit, I think.",
+      "line2": 347
+    }
+  ],
+  "turning_point": "本章转折点已进：Mama 在 2007 年就把“房子属于你、出生前就属于你”和“2007-02-27”这个日期交给 5 岁的 Alba（line 137/274），这是她日后穿越导航的支点；另加一条未进 5–8 条的补充：成年 Alba 从 Oliver 口中第一次得知他会与 Beck 长期往来（line 337），埋下她对 Beck 位置的警觉。"
+}

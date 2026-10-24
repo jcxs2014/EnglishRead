@@ -1,0 +1,114 @@
+{
+  "chapter": "ch50",
+  "title": "First Kiss",
+  "source": "notes/books/novels/life-out-of-order-by-audrey-niffenegger/text/ch50_first_kiss.txt",
+  "pov": "Alba（25 岁）→ Zach（第三段起）",
+  "facts": [
+    {
+      "fact": "抬头：1996 年 5 月 30 日星期四，Alba 25 岁，Oliver 30 岁",
+      "quote": "Thursday, May 30, 1996 (Alba is 25, Oliver is 30)",
+      "line": 18
+    },
+    {
+      "fact": "Alba 全速冲进黄房子：后廊门锁太旧对不上、锁不上，厨房门锁上了；她上楼进卧室飞快穿衣",
+      "quote": "I run into the Yellow House at top speed, through the back porch (I try to lock the door but the lock is old and won't align)",
+      "line": 23
+    },
+    {
+      "fact": "楼下传来男人声音；上楼的是 Oliver；她扑上去大哭，他安慰说屋里没别人，只有他们俩",
+      "quote": "\"What's wrong, Alba? What happened?\"",
+      "line": 33
+    },
+    {
+      "fact": "地毯上有血脚印，在浅绿羊毛毯上呈深色",
+      "quote": "There are bloody footprints on the rug, dark against the pale green wool.",
+      "line": 34
+    },
+    {
+      "fact": "她说：一个男人先开车追她，她跑进别人后院后他下车步行追，她找不到后门只好翻栅栏；跑过巷道，到了 Cuyler；因为脚在流血她穿过别人家草坪；听见一个女人喊叫，可能有人把那人扑倒了",
+      "quote": "\"A man chased me,\" I begin. \"He was in a car, and when I ran into someone's backyard he chased me on foot and I had to climb a fence because I couldn't find the back gate.",
+      "line": 39
+    },
+    {
+      "fact": "Oliver 检查她的脚，说 Your feet are a mess；判断不必去医院，让她泡澡再涂抗生素药膏",
+      "quote": "\"Your feet are a mess,\" he informs me.",
+      "line": 43
+    },
+    {
+      "fact": "她二十五、他三十，「我们在不同的年代」；两人之间将有一道是/否的界线，但今天他是 yes、她是 no",
+      "quote": "\"Ah. I'm thirty. We're in different eras.\"",
+      "line": 61
+    },
+    {
+      "fact": "他放洗澡水，在楼下弹披头士 Good Day Sunshine，又弹萨蒂 Vexations，直到她喊停才转成 Gymnopédies",
+      "quote": "he plays the beginning of The Beatles' \"Good Day Sunshine\" and then embarks upon Erik Satie's Vexations until I shout, \"Oliver!\" and he veers into The Gymnopédies.",
+      "line": 61
+    },
+    {
+      "fact": "她的伤：手因翻栅栏磨破、右大腿一道长划痕、脚上满是割伤和小刺孔；她注意破伤风疫苗所以不太担心；怕 Zach 看见她这副样子",
+      "quote": "my hands are raw from climbing the fence, there's a long scratch on my right thigh, my feet are covered in cuts and tiny punctures.",
+      "line": 61
+    },
+    {
+      "fact": "两人喝金汤力；聊到他母亲生病时做的鱼汤、里面有小小的章鱼；他说 octopuses 才对，她承认这是他第一次纠正她的英文用词",
+      "quote": "\"No, it's really octopuses. I looked it up once.\"",
+      "line": 90
+    },
+    {
+      "fact": "他记得她的四十岁生日「非常美好」；她说起那天，他答 That was my first kiss，在厨房、两人在洗碗、然后她吻了他；他那年十七岁",
+      "quote": "\"That was my first kiss.\" He has a funny expression. \"It was in the kitchen. We were washing dishes, and then you kissed me.",
+      "line": 157
+    },
+    {
+      "fact": "她问「我是否已经吻过你第一次了」，他说 No. Not yet.",
+      "quote": "\"No. Not yet.\"",
+      "line": 168
+    },
+    {
+      "fact": "他说她可以选、可以拖一阵，但必须做决定；他不会让她滑进去、日后又后悔；他说自认识 Zach 以来良心一直不安",
+      "quote": "He says, \"You can choose. You can put it off, for a while. But you have to decide. I won't let you slide into this and be unhappy with me later.",
+      "line": 176
+    },
+    {
+      "fact": "他承认是刻意去认识 Zach 的，Zach 毫不知情；两人在酒吧闲聊",
+      "quote": "\"Yes, intentionally. I don't think he has any idea. We sit around in bars talking about nothing much.\"",
+      "line": 194
+    },
+    {
+      "fact": "他说是她（年长的 Alba）要求他这么做的，而且很急切：去认识 Zach、讨好他、尽量亲近，又不能暴露彼此关系，还要显得纯属偶然",
+      "quote": "the main task you assigned me was to meet Zach, ingratiate myself with him, become as intimate as possible without revealing anything much about how we all stand in relation to each other, and to do this so that later it might seem to be quite accidental.",
+      "line": 240
+    },
+    {
+      "fact": "她追问是谁的生死，他说 His. And mine.",
+      "quote": "\"His. And mine.\"",
+      "line": 256
+    },
+    {
+      "fact": "Isadora Hardwick 帮他移民，陪他搭机到伦敦；后来叔叔不再寄钱给 Madeline Baxter，改由 Isadora 资助他——她是他的赞助人",
+      "quote": "She helped me to emigrate; she came with me on the flight to London. Then, when my uncle stopped sending money to Madeline Baxter, Isadora began to support me. She is my patron.",
+      "line": 300
+    },
+    {
+      "fact": "Alba 说 Isadora 生于底特律，自己与她在芝加哥一起长大；Isadora 不是时间旅行者，是人工智能",
+      "quote": "\"Isadora was born in Detroit, and I grew up with her in Chicago.\"",
+      "line": 352
+    },
+    {
+      "fact": "Oliver 称这种附身叫 guǐfù（鬼附）：有生物植入体的人可能被 AI 幽灵短暂占据",
+      "quote": "\"People who have the bio-implant can sometimes be taken over by an AI ghost that possesses your mind,\"",
+      "line": 373
+    },
+    {
+      "fact": "Alba 想到 Madeline 年近八十；她曾谷歌过 Madeline，发现她一度出名、2006 年前后突然停止",
+      "quote": "In Oliver's present, she's nearly eighty.",
+      "line": 406
+    },
+    {
+      "fact": "结尾：他说 I dare you，她飞快地吻了他；他说 I double dare you，她好好地、认真地吻了他——她早知自己迟早会",
+      "quote": "\"I dare you,\" Oliver says. I lean forward and I kiss him, quickly, haphazardly.",
+      "line": 453
+    }
+  ],
+  "turning_point": "本章转折点＝Alba 得知「自己的四十岁生日初吻」在 Oliver 那里尚未发生（No. Not yet.），并得知年长的自己指派 Oliver 去接近 Zach；两条都已进清单（第 11、12、15 条）。"
+}

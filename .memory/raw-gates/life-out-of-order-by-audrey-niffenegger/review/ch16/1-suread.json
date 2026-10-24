@@ -1,0 +1,73 @@
+{
+  "chapter": "ch16",
+  "title": "The Empty Bottle",
+  "source": "text/ch16_the_empty_bottle.txt",
+  "suread_note": "只读 text/ 完成，未打开该章 md。全章为 Zach 第一人称（声部标记 Zach:），时间 2034-06-09。",
+  "facts": [
+    {
+      "fact": "抬头：2034 年 6 月 9 日星期五，Zach 33 岁、Oliver 27 岁；全章 Zach 第一人称。近来这里 Alba 时间旅行更频繁、走得更久：她回家将近三周，两天前的早晨他醒来到处找不到她——她可能是在他身边睡着时消失的，被窝里留着她的 T 恤，摸上去是凉的。",
+      "quote": "Alba’s been time traveling more often and for longer stretches of time lately.",
+      "line": 23,
+      "anchor": "Alba’s been time traveling more often",
+      "quote2": "I think she might have vanished while she was asleep next to me; I found her T-shirt crumpled under the covers, cool to my touch.",
+      "line2": 24
+    },
+    {
+      "fact": "她不在时房子太安静；他写作产量高，productive but lonely。他如今远程给 Gomez 做社交媒体，成了不自觉的宅男；上次联邦封锁解除后朋友们勉强想恢复夜生活，但俱乐部里多是刚满二十一岁的人。今晚「Empty Bottle」人不挤，乐队听着像 Green Day，才九点半，他后悔出门。",
+      "quote": "The house is too quiet when she’s gone. I get a lot of writing done, so it’s productive, but lonely.",
+      "line": 29,
+      "anchor": "The house is too quiet when"
+    },
+    {
+      "fact": "吧台那头的女调酒师心不在焉，给他倒了一杯 IPA，接小费时笑了一下；他想「我什么时候开始对女人隐形了」。他转身太晚，撞上正要在他旁边高脚凳坐下的男人，一口没喝的啤酒全泼在对方身上。",
+      "quote": "When did I become invisible to women? Perhaps it’s a side effect of being married for a while?",
+      "line": 34,
+      "anchor": "When did I become invisible"
+    },
+    {
+      "fact": "那人穿得过分正式：灰西装、白衬衫、浅蓝领带，六月暖夜里的潜水酒吧属奇装；个子高，但几乎已经坐下，所以啤酒泼在他脸上、顺前襟往下淌。有人笑，Zach 让他闭嘴，调酒师递毛巾；那人始终闭着眼、一言不发，任他牵着进了男厕所。",
+      "quote": "He’s immaculately dressed, in fact, strangely overdressed for a dive bar on a warm night in June: he’s wearing a gray suit, white shirt and a light blue tie.",
+      "line": 38,
+      "anchor": "He’s immaculately dressed in fact"
+    },
+    {
+      "fact": "他黑长发扎成马尾，与西装不搭，Zach 起初以为他是摩门教徒；随后发现他是中国人、始终没开口，便猜他不懂英语（后来为此觉得自己「暗地里种族歧视」）。Zach 要脱下自己那件 50 年代末的浅绿短袖衬衫（里面是白 T）给他换，对方惊慌拒绝：“Oh, please don’t! That’s quite unnecessary,”——一口极优雅的英国腔。",
+      "quote": "“Oh, please don’t! That’s quite unnecessary,” he says with a very elegant English accent. I feel secretly racist for suspecting him of not speaking English.",
+      "line": 50,
+      "anchor": "Oh please don’t That’s quite"
+    },
+    {
+      "fact": "Zach 提出赔干洗费再请他喝一杯；对方反问「干洗？这是该有的说法吗」，又说这些衣服没花钱——“I shoplifted all of it”，两人都笑了。回到吧台互报名字：Zach / Oliver；Oliver 嫌乐队难听、走音，「People paid money to hear this?」，自称弹钢琴；他对「车库乐队」的说法照字面理解（以为该被关在车库里直到能公开演出）。",
+      "quote": "“I shoplifted all of it, you see, so there really is no need to worry.”",
+      "line": 83,
+      "anchor": "I shoplifted all of it you"
+    },
+    {
+      "fact": "两人到人行道上抽烟：Oliver 脱掉西装外套，一股啤酒与汗味，Zach 注意到他穿亮黄色 Weejuns 乐福鞋、没穿袜子。街上飘着波多黎各旗、有人用西班牙语喊；Oliver 问「是有足球赛吗」，Zach 说是周末的波多黎各日游行。Oliver 说自己住伦敦、常来这里——「我妻子住这儿，我来看她」，被问是否巡演时答「我从没在芝加哥公开演出过」。",
+      "quote": "“I live in London. I’m here quite a lot, though.”",
+      "line": 146,
+      "anchor": "I live in London I’m here",
+      "quote2": "“No, I’ve never played in public in Chicago. My wife lives here. I come to visit her.”",
+      "line2": 154
+    },
+    {
+      "fact": "Oliver 盯着他抽烟的样子很热切；Zach 递烟，他松口气接下却只叼着不点——Zach 用祖父留下的老 Ronson 打火机替他点上，Oliver 见到打火机显得意外，却会用。他说若买一整包就会一根接一根抽完，所以不买。聊到旅行禁令：Oliver 说见面比想见的少，但总有几次。Zach 因此猜他「可能是间谍或外交官」；提到他们曾想去加拿大「但后来，你懂的」。",
+      "quote": "“We saw each other less often than we would have liked, but we did manage a few visits.”",
+      "line": 180,
+      "anchor": "We saw each other less often"
+    },
+    {
+      "fact": "孩子的话题：Zach 说「想要，但我们不能」，心里想「你不可能懂」；Oliver 却答「我妻子和我都有健康问题…在遇见她之前就有人告诉我我不该有孩子」，问是谁说的，答「我父母」。音乐停了，Oliver 说该走了，拒收干洗钱：“A beer and two cigarettes and conversation are more than enough. Have a good night, Zach.” 两人握手告别。",
+      "quote": "“My wife and I both have medical issues. It would be a bad idea for us to try, but I still think about it. I was always told I shouldn’t have kids, even before I met my wife.”",
+      "line": 212,
+      "anchor": "My wife and I both have"
+    },
+    {
+      "fact": "回家时 Alba 在床上看书。他问她去哪了，她说「Twenty sixteen」，在安慰因 David Bowie 去世而难过的 Isadora，并反问他在哪。他讲酒吧遇到的「有意思的人」，越讲越觉得故事发干、索性收住；关灯后他问「你困吗」，她说不困、“C'mere”，吻他——他觉得她的存在像一份礼物，「只要 Alba 在我身边，我的世界就没事」。",
+      "quote": "“Twenty sixteen,” she says. “Consoling Isadora about David Bowie dying. Where were you?”",
+      "line": 245,
+      "anchor": "Twenty sixteen she says Consoling"
+    }
+  ],
+  "turning_point": "本章的转折不是事件而是**身份错位未被点破**：Zach 在酒吧撞上、泼了啤酒、聊了半小时、握手告别的陌生人，正是他妻子另一个时间线里的丈夫 Oliver，而两人谁都没认出来（text:154 `My wife lives here. I come to visit her.` 与 text:241-262 Zach 对 Alba 的复述）。已进素读第 7、10 条。补一条易漏的暗线：Oliver 说「在遇见我妻子之前就有人告诉我我不该有孩子」（text:212）——这句在 ch14 那封信与后文里才有答案，本章只留悬置。"
+}

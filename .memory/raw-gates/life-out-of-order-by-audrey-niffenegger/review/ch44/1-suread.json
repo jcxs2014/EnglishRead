@@ -1,0 +1,48 @@
+{
+  "chapter": "ch44",
+  "source": "text/ch44_life_indoors.txt",
+  "method": "只读 text/ 素读，未开 md",
+  "facts": [
+    {
+      "fact": "抬头：2028 年 4 月 18 日星期二，Alba 24 岁、Oliver 65 岁。全章为 Alba 第一人称：她在「黄房子」已待四天，四天前到时就在下雨；Oliver 昨天才出现，雨还没停。",
+      "quote": "Tuesday, April 18, 2028 (Alba is 24, Oliver is 65)",
+      "line": 18
+    },
+    {
+      "fact": "Alba 早上打电话到图书馆参考咨询台，问日期与天气：馆员疲惫地答 4 月 18 日、今天明天都还下雨；她怯怯追问「哪一年的 4 月 18 日」，对方清醒过来答「2028」，她道谢挂断。随后她对 Oliver 说「2028 年了，该造方舟了」。",
+      "quote": "“It’s 2028,” I tell Oliver. “Time to build an ark.”",
+      "line": 29
+    },
+    {
+      "fact": "「造方舟」被接成一段黑色笑话：Oliver 说「有人造过一次」，不是诺亚，而是他小时候在电视上看到的、佛罗里达大沼泽地里的一个男人，方舟里装的不是鳄鱼而是孩子；Alba 问「结局好吗」，Oliver 一脸后悔提起这事，答「不好」。",
+      "quote": "“No, children.” … Oliver looks as though he’s sorry he brought it up. “No.”",
+      "line": 50
+    },
+    {
+      "fact": "两人在厨房喝咖啡、吃剩的早餐听雨；Alba 想起小时候 Mama 说的「四月雨带来五月花」，可这场雨把想冒头的植物都淹了。近处炸雷，两人在椅子上都吓一跳。Oliver 嫌这里吵：他的时代没有火车汽车、伦敦安静得多，他「忘了鸟叫这么响」。",
+      "quote": "“Oh, we do, yes. But we don’t have trains, or cars. London is much quieter now than it used to be.” He looks a little sad. “I’d forgotten birds were so loud.”",
+      "line": 80
+    },
+    {
+      "fact": "伦敦已经一只鸟也没有——鸽子也没有。Alba 说他们管鸽子叫「长翅膀的老鼠」，Oliver 说他们老鼠多得是、庆幸老鼠没长翅膀，又说「鸽子很美，我很遗憾它们没了」。Alba 追问「全都消失了？那么多怎么会全没」，Oliver 用她的口头禅挡回去：「你通常都说你不想知道，阿尔芭。」",
+      "quote": "“You usually say you don’t want to know, Alba.”",
+      "line": 112
+    },
+    {
+      "fact": "Oliver 点起当天第一支烟——他在自己的时代没有烟草，只能省着抽。晨光把他的脸和手勾成银色，烟雾绕着，白长发像浮起来；Alba 第一次注意到他睫毛那么长，「他美得惊人」。她随即问「奥利弗，你多大了」。",
+      "quote": "I’ve never noticed before how long his eyelashes are. He is extraordinarily beautiful.",
+      "line": 112
+    },
+    {
+      "fact": "Oliver 答不上确切年龄：按年头「该是六十五」，但他有太多时间不在自己的时代里，「说不清，七十几吧」；又说身处 2028 很滑稽——「今年八月我才会出生」。Alba 说他的「现在」听上去很远，他答「那是个多事的世纪」。",
+      "quote": "“I don’t know. I ought to be sixty-five. But I’ve spent so much time out of my own time . . . it’s impossible to say. Seventysomething? It’s funny to be in 2028. I will be born this coming August. Why do you ask?”",
+      "line": 121
+    },
+    {
+      "fact": "Oliver 描述自己的时代：多场大流行病、为资源打仗、西方民主变专制、气候已变且可能仍在变；机器人无处不在，有的小到看不见、有的在人体内；「AI 变成了我们。我们爱上了它们。我们忘了自卫。现在它们对我们为所欲为」——他不愤怒，只是遗憾。合成经验战胜了触觉与有机，连梦里都塞满伪物；他说日语 karaoke 意为「空乐队」，他的日常就像这种「空掉的音乐」。Alba 说「听上去像世界末日」，Oliver 答「是一个世界的结束、下一个世界的开始；没有东西真的结束，只是让位」。他伸手拉她：「走，洗洗手，我们做点音乐。看，雨好像小了点。」",
+      "quote": "“It’s the end of one world, and the beginning of the next,” Oliver replies. “Nothing ever ends, it just gives way.”",
+      "line": 148
+    }
+  ],
+  "turning_point_note": "本章没有情节转折，是一次纯对话的「时代交接」：Oliver 把 21 世纪后半叶的衰败（鸟没了、AI 接管、合成经验）讲给 Alba，并以「一个世界结束、另一个开始」收束——这条已进素读第 8 条。补一条易漏的：他「今年八月才出生」这句把他的时间坐标钉死（2028 年 4 月他尚未出生），是全书年龄表的关键锚点。"
+}
