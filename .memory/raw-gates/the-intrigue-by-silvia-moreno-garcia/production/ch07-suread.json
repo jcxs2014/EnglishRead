@@ -1,0 +1,79 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch07",
+ "text": "notes/books/mystery-thriller/the-intrigue-by-silvia-moreno-garcia/text/ch07_chapter_7.txt",
+ "facts": [
+  {
+   "fact": "雨停后 Cándido 拿着玫瑰（她讨厌玫瑰、偏爱百合）上门逼婚，Perla 谁也不想理。",
+   "anchor": "Cándido arrived after the rain had ceased. He came with a bouquet under his arm and a wan smile.",
+   "start": 4,
+   "end": 100
+  },
+  {
+   "fact": "Perla 对两个求婚者都不满意：她要的不是甜言蜜语也不是偷情，心里那份渴望是一处溃烂的伤口。",
+   "anchor": "The yearning in her heart was a putrefied wound.",
+   "start": 639,
+   "end": 687
+  },
+  {
+   "fact": "全章动机核心：她想灼灼燃烧，一挥抹掉此生唯一爱过、却被妹妹夺走的男人 Norberto Bustillo 的记忆。",
+   "anchor": "To erase in one violent stroke the memory of the one man she’d ever loved and whom her sister had taken from her: Norberto Bustillo.",
+   "start": 4723,
+   "end": 4855
+  },
+  {
+   "fact": "Cándido 求婚如办案：一个月内宣布订婚、年底前完婚；还报出「牙齿头发健康都在」的实用条件。",
+   "anchor": "“I wanted to have a serious talk with you. You and I have avoided the question of marriage, but it’s about time we settled it.",
+   "start": 2145,
+   "end": 2271
+  },
+  {
+   "fact": "Perla 嘴上说「我会考虑」，随即迅速而坚定地偏头以示轻蔑——婚约当面告吹。",
+   "anchor": "Then she turned her head away with quick and firm disdain.",
+   "start": 3753,
+   "end": 3811
+  },
+  {
+   "fact": "Perla 的产权观：Inés 归她驱使圈养，如同兽笼里的美洲豹或狼；她本可把 Inés 交给 Salvador 打发走，却留下来折辱。",
+   "anchor": "Yet she was still her niece. Hers to command and to keep, the same way a wild animal, a jaguar or a wolf, might be kept in a menagerie.",
+   "start": 9662,
+   "end": 9797
+  },
+  {
+   "fact": "闪回（现在时）：Veracruz 求偶季，Norberto 登场，吻手「更像一次呼吸」并直视她的眼睛——她此生唯一的爱。",
+   "anchor": "“Not too short, I hope, or we’ll be cruelly deprived of the pleasure of your company,” Norberto says, and he takes Perla’s hand and kisses it, though it is more a breath than a kiss, a sigh.",
+   "start": 12877,
+   "end": 13067
+  },
+  {
+   "fact": "钢琴晚会上 Encarnación 一开嗓掌声如雷，Perla 疑心听众只为妹妹一人鼓掌。",
+   "anchor": "When the applause comes, it is thunderous.",
+   "start": 17699,
+   "end": 17741
+  },
+  {
+   "fact": "反转：Norberto 求娶的是妹妹 Encarnación（父亲为合并公司促成），Perla 连坏消息都是第三个知道的。",
+   "anchor": "“Norberto sent a telegram to your father and then came to speak to me. He has decided to ask for Encarnación’s hand in marriage.”",
+   "start": 24601,
+   "end": 24730
+  },
+  {
+   "fact": "Encarnación 拒绝替嫁：她爱的是有妇之夫 Rómulo，「我就是不愿意」——Inclán 家第一个说不的女儿。",
+   "anchor": "Now Father expects me to do the same, to marry someone I do not love, but I won’t.",
+   "start": 26815,
+   "end": 26897
+  },
+  {
+   "fact": "周五清晨 Encarnación 与 Rómulo 私奔，只留两封短信：别找她，原谅她。",
+   "anchor": "The letters are brief and contain the same message: Encarnación has run away with Rómulo. Do not look for her. Forgive her.",
+   "start": 28794,
+   "end": 28917
+  },
+  {
+   "fact": "父亲 storm 进门宣布：救命的公司合并泡汤、Norberto 逃往 Xalapa、全家彻底破产——Perla 后半生的贫穷由此定账。",
+   "anchor": "We’ve lost everything. I’ve borrowed a great deal of money; my one chance of survival was to merge my company with Bustillo’s.",
+   "start": 30500,
+   "end": 30626
+  }
+ ]
+}
