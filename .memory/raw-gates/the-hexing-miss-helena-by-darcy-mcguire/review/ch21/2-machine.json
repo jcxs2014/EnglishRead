@@ -1,0 +1,435 @@
+{
+  "chapter": 21,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/ch21 the dawn confession.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch21_chapter_21.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Sleep refused to grant her the oblivion she craved. The longer she lay in her bed, the worse she felt. Squinting at the ",
+          "ok": true,
+          "pos": 141
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Pausing outside Clio’s door, a million memories spilled forth of countless nights lying on Clio’s bed with Ellie on the ",
+          "ok": true,
+          "pos": 1335
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "‘I am dithering. And I don’t dither. This is ridiculous. I shall just push open this door, wake Cynthia from her slumber",
+          "ok": true,
+          "pos": 2054
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘Even if it changes nothing between us?’ Because she couldn’t lie to Cynthia. And she wouldn’t risk her lust being mista",
+          "ok": true,
+          "pos": 5032
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘You are always disrupting my plans.’ Reality slowly reasserted itself. She had come here to explain things to Cynthia. ",
+          "ok": true,
+          "pos": 11455
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "‘My mother fell in love. Not with my father – they only spent one night together at the Samhain celebrations in Edinburg",
+          "ok": true,
+          "pos": 12521
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "‘I don’t know if it made people fall in love, or put them in a thrall to the owner of the potion, but I do know those lo",
+          "ok": true,
+          "pos": 13637
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "‘There are three kinds of magic. Light magic, dark magic, and blood magic. Blood magic is the most powerful",
+          "ok": true,
+          "pos": 14242
+        },
+        {
+          "text": "Mother needed blood, unwillingly given, to complete her love potions. Stolen blood for stolen affections",
+          "ok": true,
+          "pos": 14611
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "‘I didn’t know why I would wake some mornings with bandages covering cuts on my arms or legs. Only that it was happening",
+          "ok": true,
+          "pos": 14816
+        },
+        {
+          "text": "It was Mother with a sacred blade in her hand.’",
+          "ok": true,
+          "pos": 15068
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "I’m the reason she died. It’s because of me the villagers swarmed my mother’s cottage, locked her inside with the blacks",
+          "ok": true,
+          "pos": 16696
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "‘I was seven. Old enough to have done something. And I tried, but my powers weren’t enough to stop the fire.’",
+          "ok": true,
+          "pos": 17506
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "‘I always thought my gift as a waterwitch was a curse from the goddess. A reminder of how I failed. I can douse any flam",
+          "ok": true,
+          "pos": 17945
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "Love twisted her into something cold and cruel. I can’t risk becoming like that, Cynthia. I won’t",
+          "ok": true,
+          "pos": 20401
+        }
+      ],
+      "words": 17
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 105,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 100,
+        "关键词": 0,
+        "为什么这样写": 136,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 97,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 113,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 135,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 123,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 109,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 123,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.94
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 134,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 109,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 105,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 118,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 116,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.77
+      }
+    }
+  ],
+  "form": {
+    "h1": "21. Chapter Twenty-One",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 13,
+    "block_median": 10,
+    "block_range": [
+      6,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3631,
+    "block_target": [
+      7,
+      11
+    ],
+    "block_hint": "块数 13 偏离本章篇幅建议 7–11（本章 3631 词）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

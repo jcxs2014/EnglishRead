@@ -1,0 +1,403 @@
+{
+  "chapter": 20,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/ch20 intertwined spirits.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-hexing-miss-helena-by-darcy-mcguire/text/ch20_chapter_20.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Secretly, she worried it was because of what she had done. The goddess was punishing Helena by refusing to grant her a f",
+          "ok": true,
+          "pos": 568
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Helena could have sat next to her, but she didn’t. It was stupid and petty. When Cynthia first spoke of stealing Helena’",
+          "ok": true,
+          "pos": 1094
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Those witches are bound to each other. Separate souls woven together as one. It’s possible Hamlet chose both you and Cyn",
+          "ok": true,
+          "pos": 1971
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘No. I think there is another reason for that. If they are spirit matches, hearing Cynthia’s thoughts would be an unfair",
+          "ok": true,
+          "pos": 5272
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘But when I sent my letter to my dear friend, Magnolia Marchbank, she told me of a case where a witch had indeed hexed h",
+          "ok": true,
+          "pos": 5574
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Clio tried next, using her powers to delve into Cynthia’s past. Though she was usually limited to only seeing the past o",
+          "ok": true,
+          "pos": 7644
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "‘Hubert’s death.’ Cynthia didn’t realise the truth until she spoke it. ‘That’s when things started happening. I think be",
+          "ok": true,
+          "pos": 8329
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Over the course of an hour, Cynthia was able to regenerate three plants that had eluded Aunt Rowan’s impressive skills",
+          "ok": true,
+          "pos": 11367
+        },
+        {
+          "text": "after touching the mint leaves, she felt a pathway through the veins, along its stem, and into the root system where she",
+          "ok": true,
+          "pos": 11527
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Cynthia might have felt bad for her if she wasn’t feeling angry for herself. ‘I’m sorry about Hamlet. I don’t know why h",
+          "ok": true,
+          "pos": 12990
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "‘I cannot be your spirit match. We can be friends. Even friends who sometimes seek pleasure in each other’s company. But",
+          "ok": true,
+          "pos": 17744
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "‘You are impossible, Helena Blair. Stubborn. Frightened. Foolish. This evening did not exhaust me, but you have.’ She sw",
+          "ok": true,
+          "pos": 18437
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "She could hardly turn back and ask Helena. Instead, she cracked open the door to her right and a wave of bergamot and le",
+          "ok": true,
+          "pos": 19150
+        }
+      ],
+      "words": 38
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 94,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 90,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 89,
+        "关键词": 0,
+        "为什么这样写": 113,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.94
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 102,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 0,
+        "为什么这样写": 93,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.9
+      }
+    }
+  ],
+  "form": {
+    "h1": "20. Chapter Twenty",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 10,
+    "block_range": [
+      6,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3779,
+    "block_target": [
+      7,
+      12
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
