@@ -231,11 +231,13 @@ def parse_md(path: Path) -> dict:
             cur["quote"] = strip_quotes(m.group(2))
             cur_sub = None
             continue
-        if cur is None:
-            continue
         if ln.strip() == "---":
-            # 分隔线也结束导航区，否则后面所有 `**字段**：` 都会被数成导航项
+            # 分隔线也结束导航区，否则后面所有 `**字段**：` 都会被数成导航项。
+            # ⚠️ 必须在 `if cur is None: continue` **之前**：首块还没有 `> **原句 N:**` 行时
+            # cur 仍是 None，先 continue 就漏掉了这次复位，导航会多吃 4 项（bruja ch05 实证）。
             cur, cur_sub, in_nav = None, None, False
+            continue
+        if cur is None:
             continue
         m = SUB_RE.match(ln)
         if m:
