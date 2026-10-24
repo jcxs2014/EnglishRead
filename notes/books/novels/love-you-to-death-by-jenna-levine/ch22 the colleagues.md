@@ -49,7 +49,7 @@ modified: "2026-10-24"
 
 **中文理解**：“这件事你们一个字都别往外说，”我用尽全部尊严警告他们。“否则我就告诉高管们，去年给 CEO 那些画像画小胡子的是你们。”…… 也许——只是也许——告诉她，我到底是谁。
 
-**关键词**：You will say nothing of this to anyone（一个字都别往外说） / the Executives（高管们） / drew mustaches on all the CEO’s portraits（去年在CEO画像上画小胡子） / the truth about who I really am（告诉她我到底是谁）
+**关键词**：You will say nothing of this to anyone（一个字都别往外说） / the Executives（高管们） / drew mustaches on all the CEO’s portraits（去年在 CEO 画像上画小胡子） / the truth about who I really am（告诉她我到底是谁）
 
 **为什么这样写**：收束用的是**威胁**而不是解释：他不说明那顶皇冠是什么，直接把一桩旧事（高管画像上的小胡子）端出来，于是选择权被推回对方手里——你们说，还是不说。整句威胁用的是机构词（高管、CEO 画像），跟他白天那套行政语言是同一种腔调，也说明他最熟练的自保方式就是拿制度压人。而本章最后给的不是动作，也不是解释，而是一句自我修正——也许——只是也许——：破折号里那个重复的 maybe 让想说的冲动停在决心之前。
 

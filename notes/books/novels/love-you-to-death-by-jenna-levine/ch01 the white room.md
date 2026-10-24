@@ -57,7 +57,7 @@ modified: "2026-10-24"
 
 > **原句 5:** "A bedraggled woman who refused to introduce herself earlier pointedly clears her throat from her cross-legged position on the floor. … The woman mutely inclines her head as if to say None taken. I’d try to guess what she did during her lifetime to earn a spot here, but I’ve never been good at reading people. … “I have a theory,” I say. … “If we were all bound for Hell—” I begin."
 
-**中文理解**：一个蓬头垢面、早些时候拒绝报出姓名的女人，从她盘腿坐在地上的姿势里清了清喉咙，语带暗示。那个女人默默地点了点头，仿佛在说「无所谓」。我本想猜猜她生前做了什么才配待在这里，可我向来不擅长看人。「我有个想法，」我说。「假如我们四个原本都该下地狱——」我开口。
+**中文理解**：一个蓬头垢面、早些时候拒绝报出姓名的女人，从她盘腿坐在地上的姿势里意味深长地清了清喉咙。那个女人默默地点了点头，仿佛在说「无所谓」。我本想猜猜她生前做了什么才配待在这里，可我向来不擅长看人。「我有个想法，」我说。「假如我们四个原本都该下地狱——」我开口。
 
 **关键词**：bedraggled / refused to introduce herself / None taken（蓬头垢面、拒绝自我介绍、无所谓）
 
@@ -79,7 +79,7 @@ modified: "2026-10-24"
 
 **中文理解**：「你们大概在想自己为什么会在这里，」灰袍人继续说。他在矮木桌对面坐下，一股久死之物腐烂的恶臭扑进鼻子，我胃里一阵翻涌。「你们受那些至高存在的特别邀请而来——」他顿了顿，朝天花板模糊地打了个手势，「——来做个选择。」
 
-**关键词**：specially invited / the Powers That Be / to make a choice（特别邀请、至高之力、做个选择）
+**关键词**：specially invited / the Powers That Be / to make a choice（特别邀请、那些至高存在、做个选择）
 
 **为什么这样写**：灰袍人不说「你们该死」，说「你们被邀请」——同一个事实被换一套词，就从惩罚变成了礼遇；「Powers That Be」这个刻意含糊的复数称呼既像宗教又像职场，既不否认超自然，也不给出可追责的主体，而「to make a choice」把接下来的所有对话都框成契约谈判；中间那阵恶臭则提醒读者，坐在对面的是个腐朽的存在。
 
@@ -87,7 +87,7 @@ modified: "2026-10-24"
 
 > **原句 8:** "“You see, we find ourselves short-staffed at the moment.” The man grins at us, showing a mouth full of too-white, perfectly straight teeth. … It would have been a less terrifying smile if his teeth were jagged and rotten. … “Employment,” the man confirms. He gestures to the pages on the table. “As compensation, a comfortable room and regular meals will be provided for you for eternity. And you will be allowed to skip all that Hell nastiness.”"
 
-**中文理解**：「你看，我们眼下正缺人手。」那人冲我们咧嘴一笑，露出一口过分洁白、整齐得不像话的牙。「要是他的牙是参差不齐、腐烂的那种，这笑容反倒没那么吓人。」「雇佣，」那人确认道，朝桌上那叠纸指了指，「作为补偿，你将永远获得一间舒适的房间和定时三餐。而且你可以免去地狱里那些麻烦事。」
+**中文理解**：「你看，我们眼下正缺人手。」那人冲我们咧嘴一笑，露出一口过分洁白、整齐得不像话的牙。要是他的牙是参差不齐、腐烂的那种，这笑容反倒没那么吓人。「雇佣，」那人确认道，朝桌上那叠纸指了指，「作为补偿，你将永远获得一间舒适的房间和定时三餐。而且你可以免去地狱里那些麻烦事。」
 
 **关键词**：short-staffed / too-white / skip all that Hell nastiness（人手不足、过于洁白的牙、免去地狱的麻烦）
 
