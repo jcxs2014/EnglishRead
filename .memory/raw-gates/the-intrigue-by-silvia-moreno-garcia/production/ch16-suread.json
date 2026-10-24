@@ -1,0 +1,61 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch16",
+ "text": "notes/books/mystery-thriller/the-intrigue-by-silvia-moreno-garcia/text/ch16_chapter_16.txt",
+ "facts": [
+  {
+   "fact": "面包房：Inés 给姨妈缝蓝裙（她见杂志裙样仿制），Marisol 说她会是庆典上穿得最好的人；庆典期间全镇满员、要加 cot。",
+   "anchor": "“Blue. It’s a nice bit of fabric. I’m almost done, a stitch here and there left. It should look good on her.”",
+   "start": 27,
+   "end": 136
+  },
+  {
+   "fact": "牛车事件：Cándido 去 Filomeno 处收贷，牛栏门「忘了关或故意开着」，恶牛冲出顶车，Cándido 慌乱倒车撞树——他坏脾气升级。",
+   "anchor": "“Did you hear about Cándido’s car?” Marisol asked. “A bull wrecked it.”",
+   "start": 1422,
+   "end": 1493
+  },
+  {
+   "fact": "Marisol 报信：Cándido 逼她复述对绿领带男人说过的每个字（还打响指两次）——侦探情报确认流入 Cándido 手里。",
+   "anchor": "“You know how that man came in wanting to get directions to your aunt’s house, and we got to conversing.",
+   "start": 2465,
+   "end": 2569
+  },
+  {
+   "fact": "门口拦截：Cándido 责她「收钱不办事」，钳下巴逼视审问；Diógenes 冲出来救场，Ulises 借「为教会拉蜡烛」解围并借走姨妈的车。",
+   "anchor": "“I’ve come to see Perla, but I also wanted to have a word with you.”",
+   "start": 3816,
+   "end": 3884
+  },
+  {
+   "fact": "裁缝间密谈：Inés 要求再下毒（「我不能等一辈子」），他以「杀人复杂、我从来没杀过人」拖延；两人互撕——她骂「你就床上那点本事」，他回敬听墙根论。",
+   "anchor": "“We need to try the poison again.”",
+   "start": 8835,
+   "end": 8869
+  },
+  {
+   "fact": "她举拳改为拽头真吻；他先是僵住，随后回抱；她尝出他的吻「外科手术般精确」是练出来的——咬他嘴唇，他愣住，眼里的冷 precision 化为真实的 delight。",
+   "anchor": "She bridged the distance between them and stretched out a hand. Instead of hitting him, she yanked his head down for a kiss.",
+   "start": 11974,
+   "end": 12098
+  },
+  {
+   "fact": "她意识到自己喜欢他（危险！），立刻用「按裤裆+贬值宣言」自毁场面；他拂开手骂「疯子」摔门而去。",
+   "anchor": "“This? Any boy in town can offer me that.",
+   "start": 14006,
+   "end": 14047
+  },
+  {
+   "fact": "夜间噩梦升级：新增了对话声（「镇子配不上你？」）——梦开始重播案发当日；母亲的血漫过她的鞋。",
+   "anchor": "“You can’t leave me alone!”",
+   "start": 15042,
+   "end": 15069
+  },
+  {
+   "fact": "姨妈第一次入梦（拥抱如棺材挤压）；她放狗 Diógenes 进房作伴；「梦在变形，好贴合她的念头」。",
+   "anchor": "Her aunt had never been a part of it before. Then again, she wanted the woman dead. The dream was morphing to suit her thoughts.",
+   "start": 16038,
+   "end": 16166
+  }
+ ]
+}
